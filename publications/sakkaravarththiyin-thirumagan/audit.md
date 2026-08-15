@@ -2,7 +2,7 @@
 
 ## Current audit scope
 
-This audit now covers supplied scan pages **1–21** as archived source pages, plus direct inspection of scan **22** to confirm the next-article boundary.
+This audit now covers supplied scan pages **1–25** as archived source pages, plus direct inspection of scan **26** to confirm the next-article boundary.
 
 ## Page status
 
@@ -16,7 +16,8 @@ This audit now covers supplied scan pages **1–21** as archived source pages, p
 | Scan 8 — பொருளடக்கம் | VERIFIED |
 | Scans 9–15 — Article 1 `சக்கரவர்த்தியின் திருமகன்` | **7 / 7 VERIFIED** |
 | Scans 16–21 — Article 2 `தேகமும் உணர்வும்` | **6 / 6 VERIFIED** |
-| Scan 22 — Article 3 `சதி நிரூபிக்கப்படுகிறது` heading/start boundary | VERIFIED boundary; transcription not started |
+| Scans 22–25 — Article 3 `சதி நிரூபிக்கப்படுகிறது` | **4 / 4 VERIFIED** |
+| Scan 26 — Article 4 `காமராஜன் ஆட்கொண்ட தசரதராஜன்!` heading/start boundary | VERIFIED boundary; transcription not started |
 
 ## Article 1 completion gate
 
@@ -43,16 +44,28 @@ Article 1 is **source-complete for this supplied edition**.
 - assembly: [`articles/02-thegamum-unarvum.md`](articles/02-thegamum-unarvum.md)
 - next-page boundary: scan 22 / printed page 20 directly begins **சதி நிரூபிக்கப்படுகிறது**
 
-Article 2 is therefore **source-complete for this supplied edition**.
+Article 2 is **source-complete for this supplied edition**.
+
+## Article 3 completion gate
+
+- Title: **சதி நிரூபிக்கப்படுகிறது**
+- Source scans: **22–25**
+- Printed pages: **20–23**
+- Verified source pages: **4 / 4**
+- `needs-review`: **0**
+- `blocked`: **0**
+- unresolved article-text locations: **0**
+- assembly: [`articles/03-sathi-nirupikkappadugirathu.md`](articles/03-sathi-nirupikkappadugirathu.md)
+- next-page boundary: scan 26 / printed page 24 directly begins **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**
+
+Article 3 is therefore **source-complete for this supplied edition**.
 
 ## Direct visual checks worth preserving
 
 ### Article 1
 
-Several readings were deliberately resolved against enlarged native scan images instead of being normalized from expectation:
-
 - scan 9: **`பொய்ப்படி வளைவான பாதைகளில்`**;
-- scan 12: the question ends **`காண்கிறோமோ?`**;
+- scan 12: question ends **`காண்கிறோமோ?`**;
 - scan 12 subheading: **`குடிசை நுழைந்த பூமான்!`**;
 - scan 13: **`உண்மை பேதப்படுமேயானால் அப்படி பேதமுண்டாக்கி`**;
 - scan 14: **`அம்சுமான்`** in both occurrences;
@@ -60,19 +73,30 @@ Several readings were deliberately resolved against enlarged native scan images 
 
 ### Article 2
 
-- scan 16: source prints the unusual parenthetical **`(ஆகஸ்டு 154)`**; it is not silently corrected;
-- scan 17: source-visible **`எப்படி பெய்ப்படி`**, **`அவர்கட்கு`**, and **`தையல் சீதை`** are retained;
-- scan 18: subsection heading **`பட்டாபிஷேகம்`** and reading **`ஏற்றதொரு நாள்`** directly checked;
-- scan 18: the long quotation beginning after `இப்படி எழுதியிருக்கிறார்,` has no source-visible closing quotation mark before the following prose; no editorial quote was inserted;
-- scan 20: enlarged pixels confirm the source-visible unusual form **`தாம்பிரபு`**;
-- scan 20: the quotation beginning `பரதன், அண்ணனைக்...` likewise has no visible closing quote before the following prose and is preserved as printed;
-- scan 21: the article ends after **`அதற்கு ராமனும் உடந்தை, என்கிற உண்மைதான் அது!`** followed by the printed ornament; lower-page bleed-through is not article text.
+- scan 16: source prints **`(ஆகஸ்டு 154)`**; it is not silently corrected;
+- scan 17: **`எப்படி பெய்ப்படி`**, **`அவர்கட்கு`**, **`தையல் சீதை`**;
+- scan 18: subsection **`பட்டாபிஷேகம்`** and **`ஏற்றதொரு நாள்`**;
+- scan 18: long quotation has no source-visible closing quotation mark before following prose; no editorial quote was inserted;
+- scan 20: enlarged pixels confirm **`தாம்பிரபு`**;
+- scan 20: quotation beginning `பரதன், அண்ணனைக்...` likewise has no visible closing quote before following prose;
+- scan 21 ends after **`அதற்கு ராமனும் உடந்தை, என்கிற உண்மைதான் அது!`** followed by the printed ornament.
+
+### Article 3
+
+- scan 22 heading: **`சதி நிரூபிக்கப்படுகிறது`**;
+- scan 22: source-visible **`அதே கருத்தை யொட்டி`**, **`கைகேயினுடைய`**, and **`புத்திரப்பேறுக்கு`** are retained;
+- scan 22 quotation continues across the page boundary and closes at the beginning of scan 23;
+- scan 23: source compound **`பரதசத்ருக்கனர்`** and form **`பூரணமேதான்`** are retained;
+- scan 24: enlarged source inspection supports the unusual **`காடாண்டபோதும்`**; it is not normalized;
+- scan 24: **`ஆச்சர்யமில்லையதான்`**, **`எதொரு`**, and **`வியக்தமாகத்`** are retained;
+- scan 25: source forms **`எனப்பயந்து`**, **`வாக்குச்சொல்லி`**, **`கைகேயிக்குக்கூட`**, **`வாத்தியகோஷம்`**, and **`விபரங்களையெல்லாம்`** are retained;
+- scan 25 ends with **`அப்படித்தான் முடிவு கட்டுவார்கள்.`** followed by the printed ornament.
 
 ## Source / physical-copy distinction
 
 - Library stamps and handwriting on front matter remain recorded separately from printed text.
-- No large physical-copy mark crosses Article 1 or Article 2 body text.
-- Reverse-side bleed-through is visible on Article 2 scans, especially the lower portion of scan 21, but did not require reconstructed wording.
+- No large physical-copy mark crosses Articles 1–3 body text.
+- Reverse-side bleed-through is visible across the article scans but did not require reconstructed wording.
 
 ## No-silent-correction rule
 
@@ -80,6 +104,6 @@ This audit does not certify historical/factual correctness of quotations, names 
 
 ## Next audit unit
 
-Proceed to Article 3 — **சதி நிரூபிக்கப்படுகிறது**, beginning scan **22** / printed page **20**.
+Proceed to Article 4 — **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**, beginning scan **26** / printed page **24**.
 
-The printed contents places Article 4 at printed page **24**, which projects to scan **26** if the current +2 scan/page relation continues. That is only a navigation aid: directly inspect the Article 4 heading before declaring Article 3's end boundary.
+The printed contents places Article 5 at printed page **28**, which projects to scan **30** if the current +2 scan/page relation continues. That is only a navigation aid: directly inspect the Article 5 heading before declaring Article 4's end boundary.
