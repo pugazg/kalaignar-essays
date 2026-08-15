@@ -2,7 +2,7 @@
 
 ## Current audit scope
 
-This audit covers supplied scan pages **1–16** sufficiently to register the edition, archive all front matter through the contents page, complete Article 1, and verify the start boundary of Article 2.
+This audit covers supplied scan pages **1–16** for full source registration/front matter/Article 1 work, plus a direct boundary inspection of scan **22** to establish the end of Article 2.
 
 ## Page status
 
@@ -15,7 +15,8 @@ This audit covers supplied scan pages **1–16** sufficiently to register the ed
 | Scans 5–7 — முதல் பதிப்பிற்கான பதிப்புரை | VERIFIED |
 | Scan 8 — பொருளடக்கம் | VERIFIED |
 | Scans 9–15 — Article 1 `சக்கரவர்த்தியின் திருமகன்` | **7 / 7 VERIFIED** |
-| Scan 16 — Article 2 heading/boundary | visually verified; transcription not started |
+| Scan 16 — Article 2 `தேகமும் உணர்வும்` heading/start boundary | VERIFIED boundary; transcription not started |
+| Scan 22 — Article 3 `சதி நிரூபிக்கப்படுகிறது` heading/start boundary | VERIFIED boundary; transcription not started |
 
 ## Article 1 completion gate
 
@@ -53,4 +54,6 @@ This audit does not certify historical/factual correctness of quotations, names 
 
 ## Next audit unit
 
-Proceed to Article 2 **தேகமும் உணர்வும்**, beginning scan **16** / printed page **14**. Before closing Article 2, directly inspect the page carrying printed page **20** to verify the next heading **சதி நிரூபிக்கப்படுகிறது** and thereby confirm the end boundary.
+Proceed to Article 2 **தேகமும் உணர்வும்**. Its source range is now confirmed as scans **16–21** / printed pages **14–19**: scan 16 directly shows the Article 2 heading, while scan 22 / printed page 20 directly shows the next heading **சதி நிரூபிக்கப்படுகிறது**.
+
+Next activity: transcribe and audit scans **16–21**, then assemble `articles/02-thegamum-unarvum.md` only after all six page records pass direct visual review.
