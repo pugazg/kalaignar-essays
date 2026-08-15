@@ -27,14 +27,23 @@
 | 23 | 21 | Article 3 | verified |
 | 24 | 22 | Article 3 | verified |
 | 25 | 23 | Article 3 conclusion | verified |
-| 26 | 24 | Article 4 — காமராஜன் ஆட்கொண்ட தசரதராஜன்! begins | boundary verified; transcription next |
+| 26 | 24 | Article 4 — காமராஜன் ஆட்கொண்ட தசரதராஜன்! begins | verified |
+| 27 | 25 | Article 4 | verified |
+| 28 | 26 | Article 4 | verified |
+| 29 | 27 | Article 4 conclusion | verified |
+| 30 | 28 | Article 5 — பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’? begins | boundary verified; transcription next |
 
 ## Verified article boundaries
 
 - Article 1 — **சக்கரவர்த்தியின் திருமகன்**: scans **9–15**, printed pp. **7–13**.
 - Article 2 — **தேகமும் உணர்வும்**: scans **16–21**, printed pp. **14–19**.
 - Article 3 — **சதி நிரூபிக்கப்படுகிறது**: scans **22–25**, printed pp. **20–23**.
-- Scan **26** / printed p. **24** directly begins Article 4 **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**, confirming Article 3's end boundary.
+- Article 4 — **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**: scans **26–29**, printed pp. **24–27**.
+- Scan **30** / printed p. **28** directly begins Article 5, confirming Article 4's end boundary.
+
+### Article 5 heading witness note
+
+The printed contents (scan 8) records Article 5 as **`பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`**. The actual Article 5 heading on scan 30 / printed p. 28 visibly reads **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**. Both source witnesses are preserved in their own layers; one is not silently normalized to the other.
 
 ## Later article starts from printed contents
 
@@ -42,7 +51,6 @@ The following later starts remain **navigation projections from the printed cont
 
 | Article | Printed start | Expected scan if +2 relation continues | Status |
 |---:|---:|---:|---|
-| 5 | 28 | 30 | provisional |
 | 6 | 36 | 38 | provisional |
 | 7 | 41 | 43 | provisional |
 | 8 | 48 | 50 | provisional |
