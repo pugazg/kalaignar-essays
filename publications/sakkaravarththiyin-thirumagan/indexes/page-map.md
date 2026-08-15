@@ -23,13 +23,18 @@
 | 19 | 17 | Article 2 | verified |
 | 20 | 18 | Article 2 | verified |
 | 21 | 19 | Article 2 conclusion | verified |
-| 22 | 20 | Article 3 — சதி நிரூபிக்கப்படுகிறது begins | boundary verified; transcription next |
+| 22 | 20 | Article 3 — சதி நிரூபிக்கப்படுகிறது begins | verified |
+| 23 | 21 | Article 3 | verified |
+| 24 | 22 | Article 3 | verified |
+| 25 | 23 | Article 3 conclusion | verified |
+| 26 | 24 | Article 4 — காமராஜன் ஆட்கொண்ட தசரதராஜன்! begins | boundary verified; transcription next |
 
 ## Verified article boundaries
 
 - Article 1 — **சக்கரவர்த்தியின் திருமகன்**: scans **9–15**, printed pp. **7–13**.
 - Article 2 — **தேகமும் உணர்வும்**: scans **16–21**, printed pp. **14–19**.
-- Scan **22** / printed p. **20** directly begins Article 3 **சதி நிரூபிக்கப்படுகிறது**, confirming Article 2's end boundary.
+- Article 3 — **சதி நிரூபிக்கப்படுகிறது**: scans **22–25**, printed pp. **20–23**.
+- Scan **26** / printed p. **24** directly begins Article 4 **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**, confirming Article 3's end boundary.
 
 ## Later article starts from printed contents
 
@@ -37,7 +42,6 @@ The following later starts remain **navigation projections from the printed cont
 
 | Article | Printed start | Expected scan if +2 relation continues | Status |
 |---:|---:|---:|---|
-| 4 | 24 | 26 | provisional |
 | 5 | 28 | 30 | provisional |
 | 6 | 36 | 38 | provisional |
 | 7 | 41 | 43 | provisional |
