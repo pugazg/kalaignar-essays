@@ -14,7 +14,7 @@ Library stamp, accession number, handwriting, bleed-through, சேதம், �
 
 ## களஞ்சிய அமைப்பு
 
-பல கட்டுரைகள் அடங்கிய ஒரு நூல்/தொகுப்பு முதலில் `publications/` கீழ் source edition ஆகப் பதிவு செய்யப்படும். அதன் உள்ளேயே scan-page records மற்றும் தனித்தனி கட்டுரை assembly-கள் வைக்கப்படும்.
+பல கட்டுரைகள் அடங்கிய ஒரு நூல்/தொகுப்பு முதலில் `publications/` கீழ் source edition ஆகப் பதிவு செய்யப்படும். அதன் உள்ளேயே scan-page records மற்றும் தனித்தனி article assembly-கள் வைக்கப்படும்.
 
 ```text
 README.md
@@ -49,7 +49,9 @@ Current status:
 - scans **1–8** front matter + contents: **8 / 8 VERIFIED**
 - Article 1 — **சக்கரவர்த்தியின் திருமகன்**, scans **9–15**, printed pp. **7–13**: **7 / 7 VERIFIED / source-complete**
 - Article 1 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/articles/01-sakkaravarththiyin-thirumagan.md)
-- Article 2 — **தேகமும் உணர்வும்** is source-bounded to scans **16–21**, printed pp. **14–19**; scan **22** / printed p. **20** begins Article 3 **சதி நிரூபிக்கப்படுகிறது**. Article 2 transcription is the next unit.
+- Article 2 — **தேகமும் உணர்வும்**, scans **16–21**, printed pp. **14–19**: **6 / 6 VERIFIED / source-complete**
+- Article 2 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/02-thegamum-unarvum.md`](publications/sakkaravarththiyin-thirumagan/articles/02-thegamum-unarvum.md)
+- scan **22** / printed p. **20** directly begins Article 3 — **சதி நிரூபிக்கப்படுகிறது**; this is the next transcription unit.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
