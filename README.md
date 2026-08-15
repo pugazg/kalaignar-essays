@@ -55,7 +55,9 @@ Current status:
 - Article 3 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/03-sathi-nirupikkappadugirathu.md`](publications/sakkaravarththiyin-thirumagan/articles/03-sathi-nirupikkappadugirathu.md)
 - Article 4 — **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**, scans **26–29**, printed pp. **24–27**: **4 / 4 VERIFIED / source-complete**
 - Article 4 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/04-kamarajan-aadkonda-dasaratharajan.md`](publications/sakkaravarththiyin-thirumagan/articles/04-kamarajan-aadkonda-dasaratharajan.md)
-- scan **30** / printed p. **28** directly begins Article 5. The heading page prints **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**; this is the next transcription unit.
+- Article 5 — **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**, scans **30–37**, printed pp. **28–35**: **8 / 8 VERIFIED / source-complete**
+- Article 5 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md`](publications/sakkaravarththiyin-thirumagan/articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md)
+- scan **38** / printed p. **36** directly begins Article 6 — **இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?**; this is the next transcription unit.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
