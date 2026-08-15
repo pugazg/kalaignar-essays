@@ -53,7 +53,9 @@ Current status:
 - Article 2 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/02-thegamum-unarvum.md`](publications/sakkaravarththiyin-thirumagan/articles/02-thegamum-unarvum.md)
 - Article 3 — **சதி நிரூபிக்கப்படுகிறது**, scans **22–25**, printed pp. **20–23**: **4 / 4 VERIFIED / source-complete**
 - Article 3 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/03-sathi-nirupikkappadugirathu.md`](publications/sakkaravarththiyin-thirumagan/articles/03-sathi-nirupikkappadugirathu.md)
-- scan **26** / printed p. **24** directly begins Article 4 — **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**; this is the next transcription unit.
+- Article 4 — **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**, scans **26–29**, printed pp. **24–27**: **4 / 4 VERIFIED / source-complete**
+- Article 4 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/04-kamarajan-aadkonda-dasaratharajan.md`](publications/sakkaravarththiyin-thirumagan/articles/04-kamarajan-aadkonda-dasaratharajan.md)
+- scan **30** / printed p. **28** directly begins Article 5. The heading page prints **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**; this is the next transcription unit.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
