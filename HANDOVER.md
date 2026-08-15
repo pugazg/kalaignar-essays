@@ -65,7 +65,15 @@ Article 3 — `சதி நிரூபிக்கப்படுகிறத�
 - page records **4 / 4 VERIFIED**
 - `blocked`: **0**; `needs-review`: **0**
 - assembled: [`publications/sakkaravarththiyin-thirumagan/articles/03-sathi-nirupikkappadugirathu.md`](publications/sakkaravarththiyin-thirumagan/articles/03-sathi-nirupikkappadugirathu.md)
-- scan **26** / printed p. **24** directly begins Article 4
+- status: **source-complete**
+
+Article 4 — `காமராஜன் ஆட்கொண்ட தசரதராஜன்!`:
+
+- source scans **26–29**, printed pp. **24–27**
+- page records **4 / 4 VERIFIED**
+- `blocked`: **0**; `needs-review`: **0**
+- assembled: [`publications/sakkaravarththiyin-thirumagan/articles/04-kamarajan-aadkonda-dasaratharajan.md`](publications/sakkaravarththiyin-thirumagan/articles/04-kamarajan-aadkonda-dasaratharajan.md)
+- scan **30** / printed p. **28** directly begins Article 5
 - status: **source-complete**
 
 Detailed audit: [`publications/sakkaravarththiyin-thirumagan/audit.md`](publications/sakkaravarththiyin-thirumagan/audit.md).
@@ -100,23 +108,42 @@ Detailed audit: [`publications/sakkaravarththiyin-thirumagan/audit.md`](publicat
 - scan 25: `எனப்பயந்து`, `வாக்குச்சொல்லி`, `கைகேயிக்குக்கூட`, `வாத்தியகோஷம்`, `விபரங்களையெல்லாம்`
 - scan 25 ends with `அப்படித்தான் முடிவு கட்டுவார்கள்.` followed by the printed ornament
 
+### Article 4
+
+- scan 26: `கவுசல்யைக்கு`, `அடுத்த ஊரார்`, `கேகேயனுக்குத்தந்துள்ள`
+- scan 26 sentence continues to scan 27 after `கைகேயிக்கு அறிவிக்கப்படாததும்,`
+- scan 27: `கைகேயி ஆண்மனைக்கு`, `மிகுதியுள்ள என் வாழ்நாளை`
+- scan 28: `அவளுடைய அந்தப்புரம் நுழைந்ததுமே`, `அந்தப் புரத்தில்`, `கண்டெடுத்தும்`, `அப்-பாவி`
+- scan 28 preserves the quotation ending `அவன் உள்ளத்தில் இல்லை,` with the comma before the closing quotation mark
+- scan 29: `இப்படி யெல்லாம்`, `வெள்ளைமனம்`, `கிழ ராஜனை`
+- scan 29 ends with `பாவம்!` followed by the printed ornament
+
 ## Exact next activity
 
-Process Article 4 — **`காமராஜன் ஆட்கொண்ட தசரதராஜன்!`**.
+Process Article 5.
 
-Known source facts:
+### Source-title warning: contents and heading differ
 
-- scan **26** / printed page **24** directly shows the Article 4 heading and start boundary
-- printed contents says Article 5 — **`பரத்வாஜர் ஆஸ்ரமமா - பாரிஸ் நகரத்து 'பாரா'?`** — starts on printed page **28**
-- if the current +2 scan/page relation continues, that projects the next boundary to scan **30**, but this is only a navigation aid
+Do not normalize the two source witnesses:
+
+- scan **8** contents prints: **`பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`**
+- scan **30** / printed page **28** actual heading prints: **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**
+
+Use the actual heading-page form for the Article 5 assembly title, while preserving the contents-page form in `indexes/contents.md`.
+
+Known boundary facts:
+
+- scan **30** / printed page **28** directly shows the Article 5 start boundary
+- printed contents places Article 6 — **`இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`** — at printed page **36**
+- if the current +2 scan/page relation continues, that projects the next boundary to scan **38**, but this is only a navigation aid
 
 Next steps:
 
-1. Directly inspect scans beginning at **26**.
-2. Directly inspect projected scan **30** and confirm the Article 5 heading before declaring Article 4's end boundary.
-3. Create one verified page record per Article 4 scan.
+1. Directly inspect scans beginning at **30**.
+2. Directly inspect projected scan **38** and confirm the Article 6 heading before declaring Article 5's end boundary.
+3. Create one verified page record per Article 5 scan.
 4. Apply the difficult-reading escalation protocol wherever necessary; do not infer from context.
-5. Assemble `articles/04-kamarajan-aadkonda-dasaratharajan.md` only after every Article 4 page is verified and its end boundary is source-confirmed.
+5. Assemble Article 5 only after every source page is verified and the end boundary is source-confirmed.
 6. Update `indexes/page-map.md`, publication/root README, audit and this handover.
 
 Do not begin English translation until the Tamil source layer for the relevant article has passed its completion gate.
