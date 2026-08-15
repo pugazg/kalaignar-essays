@@ -25,14 +25,16 @@
 - Front matter scans **1–8**: **8 / 8 VERIFIED**
 - Article 1 — **சக்கரவர்த்தியின் திருமகன்**: scans **9–15**, printed pages **7–13**: **7 / 7 VERIFIED / source-complete**
 - Article 1 assembled: [`articles/01-sakkaravarththiyin-thirumagan.md`](articles/01-sakkaravarththiyin-thirumagan.md)
-- Article 2 — **தேகமும் உணர்வும்**: scans **16–21**, printed pages **14–19**. Its start is directly verified at scan 16; scan 22 / printed page 20 directly begins Article 3 **சதி நிரூபிக்கப்படுகிறது**, confirming Article 2's end boundary. Article 2 transcription is next.
+- Article 2 — **தேகமும் உணர்வும்**: scans **16–21**, printed pages **14–19**: **6 / 6 VERIFIED / source-complete**
+- Article 2 assembled: [`articles/02-thegamum-unarvum.md`](articles/02-thegamum-unarvum.md)
+- Scan **22** / printed page **20** directly begins Article 3 — **சதி நிரூபிக்கப்படுகிறது**. This is the next transcription unit.
 
 ## Files
 
 - [`metadata/source.md`](metadata/source.md) — source identity, edition and scan notes
 - [`indexes/contents.md`](indexes/contents.md) — printed பொருளடக்கம்
 - [`indexes/page-map.md`](indexes/page-map.md) — scan ↔ printed page/article mapping
-- [`audit.md`](audit.md) — source audit and completion gate
+- [`audit.md`](audit.md) — source audit and completion gates
 - `pages/` — page-by-page archival records
 - `articles/` — assembled article readings
 
