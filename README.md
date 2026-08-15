@@ -32,16 +32,27 @@ publications/
       0001-....md
     articles/
       01-....md
+    audit.md
 ```
 
 Standalone article scan ஒன்றும் இதே source-first விதியில் ஒரு publication unit ஆகப் பதிவு செய்யலாம்.
 
 ## முதல் source publication
 
-**சக்கரவர்த்தியின் திருமகன்** — கலைஞர் மு. கருணாநிதி.
+### சக்கரவர்த்தியின் திருமகன் — கலைஞர் மு. கருணாநிதி
 
-வழங்கப்பட்ட scan-ல் இது 2018 மறுபதிப்பாகத் தெரிகிறது; நூல் குறிப்பில் முதல் பதிப்பு மே 1956 எனப் பதிவு செய்யப்பட்டுள்ளது. இந்தத் தொகுப்பின் பொருளடக்கத்தில் 14 கட்டுரைகள் உள்ளன. அவை scan-இன் வரிசையிலேயே தனித்தனி article units ஆகப் பாதுகாக்கப்படும்.
+வழங்கப்பட்ட scan-ல் இது **2018 மறுபதிப்பு**; `நூல் குறிப்பு` பக்கம் முதல் பதிப்பை **மே 1956 (வேலூர் திராவிடன் பதிப்பகம்)** என்று பதிவு செய்கிறது. பொருளடக்கத்தில் **14 கட்டுரைகள்** உள்ளன.
 
-தற்போதைய பணிப்பகுதி: source registration, front matter, contents mapping, மற்றும் முதல் கட்டுரை **“சக்கரவர்த்தியின் திருமகன்”**.
+Current status:
 
-விரிவான நிரந்தர workflow: [`ESSAY_PROCESSING_GUIDE.md`](ESSAY_PROCESSING_GUIDE.md) (அடுத்த commit-ல் சேர்க்கப்படுகிறது).
+- source identity / checksum / edition metadata: **registered**
+- scans **1–8** front matter + contents: **8 / 8 VERIFIED**
+- Article 1 — **சக்கரவர்த்தியின் திருமகன்**, scans **9–15**, printed pp. **7–13**: **7 / 7 VERIFIED / source-complete**
+- Article 1 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/articles/01-sakkaravarththiyin-thirumagan.md)
+- Article 2 — **தேகமும் உணர்வும்** begins at scan **16** / printed p. **14**; this is the next transcription unit.
+
+Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
+
+Audit: [`publications/sakkaravarththiyin-thirumagan/audit.md`](publications/sakkaravarththiyin-thirumagan/audit.md)
+
+விரிவான நிரந்தர workflow: [`ESSAY_PROCESSING_GUIDE.md`](ESSAY_PROCESSING_GUIDE.md).
