@@ -45,23 +45,27 @@ Front matter / navigation:
 
 Article 1 — `சக்கரவர்த்தியின் திருமகன்`:
 
-- source scans: **9–15**
-- printed pages: **7–13**
-- page records: **7 / 7 VERIFIED**
-- `blocked`: **0**
-- `needs-review`: **0**
-- assembled article: [`publications/sakkaravarththiyin-thirumagan/articles/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/articles/01-sakkaravarththiyin-thirumagan.md)
+- source scans **9–15**, printed pp. **7–13**
+- page records **7 / 7 VERIFIED**
+- `blocked`: **0**; `needs-review`: **0**
+- assembled: [`publications/sakkaravarththiyin-thirumagan/articles/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/articles/01-sakkaravarththiyin-thirumagan.md)
 - status: **source-complete**
 
 Article 2 — `தேகமும் உணர்வும்`:
 
-- source scans: **16–21**
-- printed pages: **14–19**
-- page records: **6 / 6 VERIFIED**
-- `blocked`: **0**
-- `needs-review`: **0**
-- assembled article: [`publications/sakkaravarththiyin-thirumagan/articles/02-thegamum-unarvum.md`](publications/sakkaravarththiyin-thirumagan/articles/02-thegamum-unarvum.md)
-- scan **22** / printed p. **20** directly begins the next article
+- source scans **16–21**, printed pp. **14–19**
+- page records **6 / 6 VERIFIED**
+- `blocked`: **0**; `needs-review`: **0**
+- assembled: [`publications/sakkaravarththiyin-thirumagan/articles/02-thegamum-unarvum.md`](publications/sakkaravarththiyin-thirumagan/articles/02-thegamum-unarvum.md)
+- status: **source-complete**
+
+Article 3 — `சதி நிரூபிக்கப்படுகிறது`:
+
+- source scans **22–25**, printed pp. **20–23**
+- page records **4 / 4 VERIFIED**
+- `blocked`: **0**; `needs-review`: **0**
+- assembled: [`publications/sakkaravarththiyin-thirumagan/articles/03-sathi-nirupikkappadugirathu.md`](publications/sakkaravarththiyin-thirumagan/articles/03-sathi-nirupikkappadugirathu.md)
+- scan **26** / printed p. **24** directly begins Article 4
 - status: **source-complete**
 
 Detailed audit: [`publications/sakkaravarththiyin-thirumagan/audit.md`](publications/sakkaravarththiyin-thirumagan/audit.md).
@@ -69,8 +73,6 @@ Detailed audit: [`publications/sakkaravarththiyin-thirumagan/audit.md`](publicat
 ## Important verified source readings
 
 ### Article 1
-
-Do not regress these to plausible but non-source variants:
 
 - scan 9: `பொய்ப்படி வளைவான பாதைகளில்`
 - scan 12: `காண்கிறோமோ?`
@@ -83,29 +85,38 @@ Do not regress these to plausible but non-source variants:
 
 - scan 16: source prints `(ஆகஸ்டு 154)`; do not normalize it
 - scan 17: `எப்படி பெய்ப்படி`, `அவர்கட்கு`, `தையல் சீதை`
-- scan 18 subsection: `பட்டாபிஷேகம்`
-- scan 18: `ஏற்றதொரு நாள்`
+- scan 18: `பட்டாபிஷேகம்`, `ஏற்றதொரு நாள்`
 - scan 20: enlarged scan confirms `தாம்பிரபு`
 - scan 18 and scan 20 contain source-visible unmatched opening quotation punctuation; do not silently repair it
 - scan 21 ends with `அதற்கு ராமனும் உடந்தை, என்கிற உண்மைதான் அது!` followed by the printed ornament
 
+### Article 3
+
+- scan 22: `அதே கருத்தை யொட்டி`, `கைகேயினுடைய`, `புத்திரப்பேறுக்கு`
+- scan 22 quotation continues to scan 23 and closes there
+- scan 23: `பரதசத்ருக்கனர்`, `பூரணமேதான்`
+- scan 24: enlarged source supports `காடாண்டபோதும்`
+- scan 24: `ஆச்சர்யமில்லையதான்`, `எதொரு`, `வியக்தமாகத்`
+- scan 25: `எனப்பயந்து`, `வாக்குச்சொல்லி`, `கைகேயிக்குக்கூட`, `வாத்தியகோஷம்`, `விபரங்களையெல்லாம்`
+- scan 25 ends with `அப்படித்தான் முடிவு கட்டுவார்கள்.` followed by the printed ornament
+
 ## Exact next activity
 
-Process Article 3 — **`சதி நிரூபிக்கப்படுகிறது`**.
+Process Article 4 — **`காமராஜன் ஆட்கொண்ட தசரதராஜன்!`**.
 
 Known source facts:
 
-- scan **22** / printed page **20** directly shows the Article 3 heading and start boundary
-- printed contents says Article 4 — **`காமராஜன் ஆட்கொண்ட தசரதராஜன்!`** — starts on printed page **24**
-- if the current +2 scan/page relation continues, that would place the next boundary around scan **26**, but this is only a navigation projection
+- scan **26** / printed page **24** directly shows the Article 4 heading and start boundary
+- printed contents says Article 5 — **`பரத்வாஜர் ஆஸ்ரமமா - பாரிஸ் நகரத்து 'பாரா'?`** — starts on printed page **28**
+- if the current +2 scan/page relation continues, that projects the next boundary to scan **30**, but this is only a navigation aid
 
 Next steps:
 
-1. Directly inspect scans beginning at **22**.
-2. Directly inspect the projected scan **26** and confirm the Article 4 heading before declaring Article 3's end boundary.
-3. Create one verified page record per Article 3 scan.
+1. Directly inspect scans beginning at **26**.
+2. Directly inspect projected scan **30** and confirm the Article 5 heading before declaring Article 4's end boundary.
+3. Create one verified page record per Article 4 scan.
 4. Apply the difficult-reading escalation protocol wherever necessary; do not infer from context.
-5. Assemble `articles/03-sathi-nirupikkappadugirathu.md` only after every Article 3 page is verified and its end boundary is source-confirmed.
+5. Assemble `articles/04-kamarajan-aadkonda-dasaratharajan.md` only after every Article 4 page is verified and its end boundary is source-confirmed.
 6. Update `indexes/page-map.md`, publication/root README, audit and this handover.
 
 Do not begin English translation until the Tamil source layer for the relevant article has passed its completion gate.
