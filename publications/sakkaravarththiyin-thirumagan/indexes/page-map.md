@@ -31,7 +31,15 @@
 | 27 | 25 | Article 4 | verified |
 | 28 | 26 | Article 4 | verified |
 | 29 | 27 | Article 4 conclusion | verified |
-| 30 | 28 | Article 5 — பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’? begins | boundary verified; transcription next |
+| 30 | 28 | Article 5 — பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’? begins | verified |
+| 31 | 29 | Article 5 | verified |
+| 32 | 30 | Article 5 | verified |
+| 33 | 31 | Article 5 | verified |
+| 34 | 32 | Article 5 | verified |
+| 35 | 33 | Article 5 | verified |
+| 36 | 34 | Article 5 | verified |
+| 37 | 35 | Article 5 conclusion | verified |
+| 38 | 36 | Article 6 — இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா? begins | boundary verified; transcription next |
 
 ## Verified article boundaries
 
@@ -39,7 +47,8 @@
 - Article 2 — **தேகமும் உணர்வும்**: scans **16–21**, printed pp. **14–19**.
 - Article 3 — **சதி நிரூபிக்கப்படுகிறது**: scans **22–25**, printed pp. **20–23**.
 - Article 4 — **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**: scans **26–29**, printed pp. **24–27**.
-- Scan **30** / printed p. **28** directly begins Article 5, confirming Article 4's end boundary.
+- Article 5 — **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**: scans **30–37**, printed pp. **28–35**.
+- Scan **38** / printed p. **36** directly begins Article 6, confirming Article 5's end boundary.
 
 ### Article 5 heading witness note
 
@@ -51,7 +60,6 @@ The following later starts remain **navigation projections from the printed cont
 
 | Article | Printed start | Expected scan if +2 relation continues | Status |
 |---:|---:|---:|---|
-| 6 | 36 | 38 | provisional |
 | 7 | 41 | 43 | provisional |
 | 8 | 48 | 50 | provisional |
 | 9 | 53 | 55 | provisional |
