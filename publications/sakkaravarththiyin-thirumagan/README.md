@@ -27,7 +27,9 @@
 - Article 1 assembled: [`articles/01-sakkaravarththiyin-thirumagan.md`](articles/01-sakkaravarththiyin-thirumagan.md)
 - Article 2 — **தேகமும் உணர்வும்**: scans **16–21**, printed pages **14–19**: **6 / 6 VERIFIED / source-complete**
 - Article 2 assembled: [`articles/02-thegamum-unarvum.md`](articles/02-thegamum-unarvum.md)
-- Scan **22** / printed page **20** directly begins Article 3 — **சதி நிரூபிக்கப்படுகிறது**. This is the next transcription unit.
+- Article 3 — **சதி நிரூபிக்கப்படுகிறது**: scans **22–25**, printed pages **20–23**: **4 / 4 VERIFIED / source-complete**
+- Article 3 assembled: [`articles/03-sathi-nirupikkappadugirathu.md`](articles/03-sathi-nirupikkappadugirathu.md)
+- Scan **26** / printed page **24** directly begins Article 4 — **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**. This is the next transcription unit.
 
 ## Files
 
