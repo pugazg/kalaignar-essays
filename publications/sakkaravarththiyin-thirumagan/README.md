@@ -20,11 +20,12 @@
 
 ## தற்போதைய processing status
 
-- Source identity: registered
+- Source identity: **registered**
 - Total scan pages: **83**
-- Front matter scans 1–8: current batch
-- Article 1 — **சக்கரவர்த்தியின் திருமகன்**: scans **9–15**, printed pages **7–13**
-- Article 2 — **தேகமும் உணர்வும்**: scan **16**, printed page **14**-ல் தொடங்குவது visual inspection மூலம் உறுதிப்படுத்தப்பட்டது.
+- Front matter scans **1–8**: **8 / 8 VERIFIED**
+- Article 1 — **சக்கரவர்த்தியின் திருமகன்**: scans **9–15**, printed pages **7–13**: **7 / 7 VERIFIED / source-complete**
+- Article 1 assembled: [`articles/01-sakkaravarththiyin-thirumagan.md`](articles/01-sakkaravarththiyin-thirumagan.md)
+- Article 2 — **தேகமும் உணர்வும்**: scan **16**, printed page **14**-ல் தொடங்குவது direct visual inspection மூலம் உறுதிப்படுத்தப்பட்டது; transcription next.
 
 இதனால் Article 1 boundary scan 9 தொடக்கம் / scan 15 முடிவு என source-supported ஆகிறது.
 
@@ -33,6 +34,7 @@
 - [`metadata/source.md`](metadata/source.md) — source identity, edition and scan notes
 - [`indexes/contents.md`](indexes/contents.md) — printed பொருளடக்கம்
 - [`indexes/page-map.md`](indexes/page-map.md) — scan ↔ printed page/article mapping
+- [`audit.md`](audit.md) — source audit and completion gate
 - `pages/` — page-by-page archival records
 - `articles/` — assembled article readings
 
