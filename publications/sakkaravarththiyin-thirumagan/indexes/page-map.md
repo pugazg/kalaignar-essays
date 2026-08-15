@@ -17,13 +17,23 @@
 | 13 | 11 | Article 1 | verified |
 | 14 | 12 | Article 1 | verified |
 | 15 | 13 | Article 1 conclusion | verified |
-| 16 | 14 | Article 2 — தேகமும் உணர்வும் begins | boundary verified; transcription next |
-| 17–21 | 15–19 | Article 2 body | source-bounded; transcription not started |
-| 22 | 20 | Article 3 — சதி நிரூபிக்கப்படுகிறது begins | boundary verified; transcription not started |
+| 16 | 14 | Article 2 — தேகமும் உணர்வும் begins | verified |
+| 17 | 15 | Article 2 | verified |
+| 18 | 16 | Article 2 — பட்டாபிஷேகம் subsection begins | verified |
+| 19 | 17 | Article 2 | verified |
+| 20 | 18 | Article 2 | verified |
+| 21 | 19 | Article 2 conclusion | verified |
+| 22 | 20 | Article 3 — சதி நிரூபிக்கப்படுகிறது begins | boundary verified; transcription next |
+
+## Verified article boundaries
+
+- Article 1 — **சக்கரவர்த்தியின் திருமகன்**: scans **9–15**, printed pp. **7–13**.
+- Article 2 — **தேகமும் உணர்வும்**: scans **16–21**, printed pp. **14–19**.
+- Scan **22** / printed p. **20** directly begins Article 3 **சதி நிரூபிக்கப்படுகிறது**, confirming Article 2's end boundary.
 
 ## Later article starts from printed contents
 
-Article 2 is now source-bounded to scans **16–21** because scan 16 directly shows its heading and scan 22 directly shows the next article heading. The following later starts remain **navigation projections from the printed contents**, not yet direct-visual boundary verification:
+The following later starts remain **navigation projections from the printed contents**, not yet direct-visual boundary verification:
 
 | Article | Printed start | Expected scan if +2 relation continues | Status |
 |---:|---:|---:|---|
