@@ -18,14 +18,15 @@
 | 14 | 12 | Article 1 | verified |
 | 15 | 13 | Article 1 conclusion | verified |
 | 16 | 14 | Article 2 — தேகமும் உணர்வும் begins | boundary verified; transcription next |
+| 17–21 | 15–19 | Article 2 body | source-bounded; transcription not started |
+| 22 | 20 | Article 3 — சதி நிரூபிக்கப்படுகிறது begins | boundary verified; transcription not started |
 
 ## Later article starts from printed contents
 
-The following are **navigation projections from the printed contents**, not yet direct-visual boundary verification:
+Article 2 is now source-bounded to scans **16–21** because scan 16 directly shows its heading and scan 22 directly shows the next article heading. The following later starts remain **navigation projections from the printed contents**, not yet direct-visual boundary verification:
 
 | Article | Printed start | Expected scan if +2 relation continues | Status |
 |---:|---:|---:|---|
-| 3 | 20 | 22 | provisional |
 | 4 | 24 | 26 | provisional |
 | 5 | 28 | 30 | provisional |
 | 6 | 36 | 38 | provisional |
@@ -38,4 +39,4 @@ The following are **navigation projections from the printed contents**, not yet 
 | 13 | 72 | 74 | provisional |
 | 14 | 77 | 79 | provisional |
 
-Do not promote these projected scan boundaries to `verified` until each heading page is directly inspected.
+Do not promote projected scan boundaries to `verified` until each heading page is directly inspected.
