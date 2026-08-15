@@ -25,9 +25,7 @@
 - Front matter scans **1–8**: **8 / 8 VERIFIED**
 - Article 1 — **சக்கரவர்த்தியின் திருமகன்**: scans **9–15**, printed pages **7–13**: **7 / 7 VERIFIED / source-complete**
 - Article 1 assembled: [`articles/01-sakkaravarththiyin-thirumagan.md`](articles/01-sakkaravarththiyin-thirumagan.md)
-- Article 2 — **தேகமும் உணர்வும்**: scan **16**, printed page **14**-ல் தொடங்குவது direct visual inspection மூலம் உறுதிப்படுத்தப்பட்டது; transcription next.
-
-இதனால் Article 1 boundary scan 9 தொடக்கம் / scan 15 முடிவு என source-supported ஆகிறது.
+- Article 2 — **தேகமும் உணர்வும்**: scans **16–21**, printed pages **14–19**. Its start is directly verified at scan 16; scan 22 / printed page 20 directly begins Article 3 **சதி நிரூபிக்கப்படுகிறது**, confirming Article 2's end boundary. Article 2 transcription is next.
 
 ## Files
 
