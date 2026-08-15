@@ -29,7 +29,13 @@
 - Article 2 assembled: [`articles/02-thegamum-unarvum.md`](articles/02-thegamum-unarvum.md)
 - Article 3 — **சதி நிரூபிக்கப்படுகிறது**: scans **22–25**, printed pages **20–23**: **4 / 4 VERIFIED / source-complete**
 - Article 3 assembled: [`articles/03-sathi-nirupikkappadugirathu.md`](articles/03-sathi-nirupikkappadugirathu.md)
-- Scan **26** / printed page **24** directly begins Article 4 — **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**. This is the next transcription unit.
+- Article 4 — **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**: scans **26–29**, printed pages **24–27**: **4 / 4 VERIFIED / source-complete**
+- Article 4 assembled: [`articles/04-kamarajan-aadkonda-dasaratharajan.md`](articles/04-kamarajan-aadkonda-dasaratharajan.md)
+- Scan **30** / printed page **28** directly begins Article 5. Its heading page reads **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**; this is the next transcription unit.
+
+### Article 5 heading variation inside the same source
+
+The `பொருளடக்கம்` page prints **பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?**, while the Article 5 heading page itself prints **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**. Both source-visible forms are preserved rather than reconciled editorially.
 
 ## Files
 
