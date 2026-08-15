@@ -2,7 +2,7 @@
 
 ## Current audit scope
 
-This audit now covers supplied scan pages **1–25** as archived source pages, plus direct inspection of scan **26** to confirm the next-article boundary.
+This audit now covers supplied scan pages **1–29** as archived source pages, plus direct inspection of scan **30** to confirm the next-article boundary.
 
 ## Page status
 
@@ -17,7 +17,8 @@ This audit now covers supplied scan pages **1–25** as archived source pages, p
 | Scans 9–15 — Article 1 `சக்கரவர்த்தியின் திருமகன்` | **7 / 7 VERIFIED** |
 | Scans 16–21 — Article 2 `தேகமும் உணர்வும்` | **6 / 6 VERIFIED** |
 | Scans 22–25 — Article 3 `சதி நிரூபிக்கப்படுகிறது` | **4 / 4 VERIFIED** |
-| Scan 26 — Article 4 `காமராஜன் ஆட்கொண்ட தசரதராஜன்!` heading/start boundary | VERIFIED boundary; transcription not started |
+| Scans 26–29 — Article 4 `காமராஜன் ஆட்கொண்ட தசரதராஜன்!` | **4 / 4 VERIFIED** |
+| Scan 30 — Article 5 heading/start boundary | VERIFIED boundary; transcription not started |
 
 ## Article 1 completion gate
 
@@ -58,7 +59,21 @@ Article 2 is **source-complete for this supplied edition**.
 - assembly: [`articles/03-sathi-nirupikkappadugirathu.md`](articles/03-sathi-nirupikkappadugirathu.md)
 - next-page boundary: scan 26 / printed page 24 directly begins **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**
 
-Article 3 is therefore **source-complete for this supplied edition**.
+Article 3 is **source-complete for this supplied edition**.
+
+## Article 4 completion gate
+
+- Title: **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**
+- Source scans: **26–29**
+- Printed pages: **24–27**
+- Verified source pages: **4 / 4**
+- `needs-review`: **0**
+- `blocked`: **0**
+- unresolved article-text locations: **0**
+- assembly: [`articles/04-kamarajan-aadkonda-dasaratharajan.md`](articles/04-kamarajan-aadkonda-dasaratharajan.md)
+- next-page boundary: scan 30 / printed page 28 directly begins Article 5
+
+Article 4 is therefore **source-complete for this supplied edition**.
 
 ## Direct visual checks worth preserving
 
@@ -84,18 +99,36 @@ Article 3 is therefore **source-complete for this supplied edition**.
 ### Article 3
 
 - scan 22 heading: **`சதி நிரூபிக்கப்படுகிறது`**;
-- scan 22: source-visible **`அதே கருத்தை யொட்டி`**, **`கைகேயினுடைய`**, and **`புத்திரப்பேறுக்கு`** are retained;
+- scan 22: **`அதே கருத்தை யொட்டி`**, **`கைகேயினுடைய`**, **`புத்திரப்பேறுக்கு`**;
 - scan 22 quotation continues across the page boundary and closes at the beginning of scan 23;
-- scan 23: source compound **`பரதசத்ருக்கனர்`** and form **`பூரணமேதான்`** are retained;
-- scan 24: enlarged source inspection supports the unusual **`காடாண்டபோதும்`**; it is not normalized;
-- scan 24: **`ஆச்சர்யமில்லையதான்`**, **`எதொரு`**, and **`வியக்தமாகத்`** are retained;
-- scan 25: source forms **`எனப்பயந்து`**, **`வாக்குச்சொல்லி`**, **`கைகேயிக்குக்கூட`**, **`வாத்தியகோஷம்`**, and **`விபரங்களையெல்லாம்`** are retained;
+- scan 23: **`பரதசத்ருக்கனர்`**, **`பூரணமேதான்`**;
+- scan 24: enlarged source inspection supports **`காடாண்டபோதும்`**;
+- scan 24: **`ஆச்சர்யமில்லையதான்`**, **`எதொரு`**, **`வியக்தமாகத்`**;
+- scan 25: **`எனப்பயந்து`**, **`வாக்குச்சொல்லி`**, **`கைகேயிக்குக்கூட`**, **`வாத்தியகோஷம்`**, **`விபரங்களையெல்லாம்`**;
 - scan 25 ends with **`அப்படித்தான் முடிவு கட்டுவார்கள்.`** followed by the printed ornament.
+
+### Article 4
+
+- scan 26 heading: **`காமராஜன் ஆட்கொண்ட தசரதராஜன்!`**;
+- scan 26 retains source-visible **`கவுசல்யைக்கு`**, **`அடுத்த ஊரார்`**, and **`கேகேயனுக்குத்தந்துள்ள`**;
+- scan 26 ends mid-sentence after **`கைகேயிக்கு அறிவிக்கப்படாததும்,`**, continued on scan 27;
+- scan 27 retains **`கைகேயி ஆண்மனைக்கு`**, **`மிகுதியுள்ள என் வாழ்நாளை`**, and the source quotation punctuation after `புகுந்தான்`;
+- scan 28 retains **`அவளுடைய அந்தப்புரம் நுழைந்ததுமே`**, **`அந்தப் புரத்தில்`**, **`கண்டெடுத்தும்`**, and quoted **`அப்-பாவி`**;
+- scan 28's quotation ending `அவன் உள்ளத்தில் இல்லை,` visibly closes after a comma; punctuation is not silently repaired;
+- scan 29 retains **`இப்படி யெல்லாம்`**, **`வெள்ளைமனம்`**, and **`கிழ ராஜனை`**;
+- scan 29 ends with **`பாவம்!`** followed by the printed ornament.
+
+### Article 5 boundary witness variation
+
+- scan 8 contents prints **`பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`**;
+- scan 30 / printed page 28 heading prints **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**.
+
+These are two distinct source witnesses within the same edition. They are preserved independently; neither is silently normalized to the other.
 
 ## Source / physical-copy distinction
 
 - Library stamps and handwriting on front matter remain recorded separately from printed text.
-- No large physical-copy mark crosses Articles 1–3 body text.
+- No large physical-copy mark crosses Articles 1–4 body text.
 - Reverse-side bleed-through is visible across the article scans but did not require reconstructed wording.
 
 ## No-silent-correction rule
@@ -104,6 +137,6 @@ This audit does not certify historical/factual correctness of quotations, names 
 
 ## Next audit unit
 
-Proceed to Article 4 — **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**, beginning scan **26** / printed page **24**.
+Proceed to Article 5, whose heading page at scan **30** / printed page **28** reads **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**.
 
-The printed contents places Article 5 at printed page **28**, which projects to scan **30** if the current +2 scan/page relation continues. That is only a navigation aid: directly inspect the Article 5 heading before declaring Article 4's end boundary.
+The printed contents places Article 6 at printed page **36**, which projects to scan **38** if the current +2 scan/page relation continues. That is only a navigation aid: directly inspect the Article 6 heading before declaring Article 5's end boundary.
