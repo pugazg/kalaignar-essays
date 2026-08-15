@@ -6,9 +6,9 @@
 | 2 | — | Gift / library-distribution notice | verified |
 | 3 | — | Title page | verified |
 | 4 | — | நூல் குறிப்பு / publication data | verified |
-| 5 | 3 | களம் புகுமுன...! — publisher preface | verified |
-| 6 | 4 | publisher preface continuation | verified |
-| 7 | 5 | publisher preface conclusion | verified |
+| 5 | — | களம் புகுமுன...! — publisher preface begins | not-started transcription; heading inspected |
+| 6 | 4 | publisher preface continuation | not-started transcription; page inspected |
+| 7 | 5 | publisher preface conclusion | not-started transcription; page inspected |
 | 8 | — | பொருளடக்கம் | verified |
 | 9 | 7 | Article 1 — சக்கரவர்த்தியின் திருமகன் | verified |
 | 10 | 8 | Article 1 | verified |
