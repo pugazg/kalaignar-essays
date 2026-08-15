@@ -2,7 +2,7 @@
 
 ## Current audit scope
 
-This audit now covers supplied scan pages **1–29** as archived source pages, plus direct inspection of scan **30** to confirm the next-article boundary.
+This audit now covers supplied scan pages **1–37** as archived source pages, plus direct inspection of scan **38** to confirm the next-article boundary.
 
 ## Page status
 
@@ -18,7 +18,8 @@ This audit now covers supplied scan pages **1–29** as archived source pages, p
 | Scans 16–21 — Article 2 `தேகமும் உணர்வும்` | **6 / 6 VERIFIED** |
 | Scans 22–25 — Article 3 `சதி நிரூபிக்கப்படுகிறது` | **4 / 4 VERIFIED** |
 | Scans 26–29 — Article 4 `காமராஜன் ஆட்கொண்ட தசரதராஜன்!` | **4 / 4 VERIFIED** |
-| Scan 30 — Article 5 heading/start boundary | VERIFIED boundary; transcription not started |
+| Scans 30–37 — Article 5 `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?` | **8 / 8 VERIFIED** |
+| Scan 38 — Article 6 heading/start boundary | VERIFIED boundary; transcription not started |
 
 ## Article 1 completion gate
 
@@ -73,7 +74,21 @@ Article 3 is **source-complete for this supplied edition**.
 - assembly: [`articles/04-kamarajan-aadkonda-dasaratharajan.md`](articles/04-kamarajan-aadkonda-dasaratharajan.md)
 - next-page boundary: scan 30 / printed page 28 directly begins Article 5
 
-Article 4 is therefore **source-complete for this supplied edition**.
+Article 4 is **source-complete for this supplied edition**.
+
+## Article 5 completion gate
+
+- Heading-page title: **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**
+- Source scans: **30–37**
+- Printed pages: **28–35**
+- Verified source pages: **8 / 8**
+- `needs-review`: **0**
+- `blocked`: **0**
+- unresolved article-text locations: **0**
+- assembly: [`articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md`](articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md)
+- next-page boundary: scan 38 / printed page 36 directly begins **இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?**
+
+Article 5 is therefore **source-complete for this supplied edition**.
 
 ## Direct visual checks worth preserving
 
@@ -118,18 +133,25 @@ Article 4 is therefore **source-complete for this supplied edition**.
 - scan 29 retains **`இப்படி யெல்லாம்`**, **`வெள்ளைமனம்`**, and **`கிழ ராஜனை`**;
 - scan 29 ends with **`பாவம்!`** followed by the printed ornament.
 
-### Article 5 boundary witness variation
+### Article 5
 
-- scan 8 contents prints **`பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`**;
-- scan 30 / printed page 28 heading prints **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**.
-
-These are two distinct source witnesses within the same edition. They are preserved independently; neither is silently normalized to the other.
+- scan 8 contents prints **`பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`**, while scan 30 heading prints **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**; these remain distinct source witnesses;
+- scan 30 opening lines use **`மோகக்களியாட்டமா?`**, while the closing reprise on scan 37 is line-broken as **`மோகக் களியாட்டமா?`**; each page preserves its own visible form;
+- scan 30 quotation continues across the page boundary and closes at the top of scan 31;
+- scan 32's Kamba verse was checked at enlarged resolution and preserved in the source-visible segmentation, including **`இயல்வுறு செல்வினாவா`**, **`யிருக்கையு மெயினர் தாண்டத்`**, and **`களா உயிர்ப் பளித்த தம்மா!`**;
+- scan 32 preserves the source punctuation **`அரண்மனைப் பெண்களும்.`**;
+- scan 33's long quotation beginning **`நான் சக்கரவர்த்தித் திருமகன்...`** has no source-visible closing quotation mark before following prose; no editorial quote was inserted;
+- scan 35 contains a paragraph ending with a source-visible closing quotation mark even though no corresponding new opening quote appears at its start; this is preserved;
+- scan 35 retains **`ஸ்நானாதி`**, **`நிருத்தியம்`**, **`கொத்தவாலை`**, and **`எல்லைமீறி`**;
+- scan 36's Kamba verse is preserved as printed, including **`அஞ்சடுத்த வமளி யலங்கப்`** and **`நஞ்சடுத்த நயனியர் நல்லியிற்`**;
+- scan 36 retains unusual source-visible forms **`அய்ந்துவகை`**, **`போக்கியதையைப்`**, and **`தெரிவானேன்`**;
+- scan 37 ends the article with the repeated question-poem and printed ornament; lower-page bleed-through is not article text.
 
 ## Source / physical-copy distinction
 
 - Library stamps and handwriting on front matter remain recorded separately from printed text.
-- No large physical-copy mark crosses Articles 1–4 body text.
-- Reverse-side bleed-through is visible across the article scans but did not require reconstructed wording.
+- No large physical-copy mark crosses Articles 1–5 body text.
+- Reverse-side bleed-through is visible across the article scans, especially the lower portion of scan 37, but did not require reconstructed wording.
 
 ## No-silent-correction rule
 
@@ -137,6 +159,6 @@ This audit does not certify historical/factual correctness of quotations, names 
 
 ## Next audit unit
 
-Proceed to Article 5, whose heading page at scan **30** / printed page **28** reads **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**.
+Proceed to Article 6 — **இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?**, beginning scan **38** / printed page **36**.
 
-The printed contents places Article 6 at printed page **36**, which projects to scan **38** if the current +2 scan/page relation continues. That is only a navigation aid: directly inspect the Article 6 heading before declaring Article 5's end boundary.
+The printed contents places Article 7 at printed page **41**, which projects to scan **43** if the current +2 scan/page relation continues. That remains a navigation aid only: directly inspect the Article 7 heading before declaring Article 6's end boundary.
