@@ -51,7 +51,9 @@ Current status:
 - Article 1 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/articles/01-sakkaravarththiyin-thirumagan.md)
 - Article 2 — **தேகமும் உணர்வும்**, scans **16–21**, printed pp. **14–19**: **6 / 6 VERIFIED / source-complete**
 - Article 2 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/02-thegamum-unarvum.md`](publications/sakkaravarththiyin-thirumagan/articles/02-thegamum-unarvum.md)
-- scan **22** / printed p. **20** directly begins Article 3 — **சதி நிரூபிக்கப்படுகிறது**; this is the next transcription unit.
+- Article 3 — **சதி நிரூபிக்கப்படுகிறது**, scans **22–25**, printed pp. **20–23**: **4 / 4 VERIFIED / source-complete**
+- Article 3 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/03-sathi-nirupikkappadugirathu.md`](publications/sakkaravarththiyin-thirumagan/articles/03-sathi-nirupikkappadugirathu.md)
+- scan **26** / printed p. **24** directly begins Article 4 — **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**; this is the next transcription unit.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
