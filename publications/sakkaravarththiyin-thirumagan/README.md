@@ -31,7 +31,9 @@
 - Article 3 assembled: [`articles/03-sathi-nirupikkappadugirathu.md`](articles/03-sathi-nirupikkappadugirathu.md)
 - Article 4 — **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**: scans **26–29**, printed pages **24–27**: **4 / 4 VERIFIED / source-complete**
 - Article 4 assembled: [`articles/04-kamarajan-aadkonda-dasaratharajan.md`](articles/04-kamarajan-aadkonda-dasaratharajan.md)
-- Scan **30** / printed page **28** directly begins Article 5. Its heading page reads **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**; this is the next transcription unit.
+- Article 5 — **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**: scans **30–37**, printed pages **28–35**: **8 / 8 VERIFIED / source-complete**
+- Article 5 assembled: [`articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md`](articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md)
+- Scan **38** / printed page **36** directly begins Article 6 — **இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?**. This is the next transcription unit.
 
 ### Article 5 heading variation inside the same source
 
