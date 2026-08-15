@@ -49,7 +49,7 @@ Current status:
 - scans **1–8** front matter + contents: **8 / 8 VERIFIED**
 - Article 1 — **சக்கரவர்த்தியின் திருமகன்**, scans **9–15**, printed pp. **7–13**: **7 / 7 VERIFIED / source-complete**
 - Article 1 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/articles/01-sakkaravarththiyin-thirumagan.md)
-- Article 2 — **தேகமும் உணர்வும்** begins at scan **16** / printed p. **14**; this is the next transcription unit.
+- Article 2 — **தேகமும் உணர்வும்** is source-bounded to scans **16–21**, printed pp. **14–19**; scan **22** / printed p. **20** begins Article 3 **சதி நிரூபிக்கப்படுகிறது**. Article 2 transcription is the next unit.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
