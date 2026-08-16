@@ -14,8 +14,8 @@ The English layer must preserve his directness, rhetorical questions, repetition
 ## Current status
 
 - Tamil source/fidelity prerequisite: **PASSED**
-- English drafts complete: **6 / 14**
-- English translations verified: **6 / 14**
+- English drafts complete: **7 / 14**
+- English translations verified: **7 / 14**
 - publication-level English consistency review: **not started**
 - English release status: **OPEN**
 
@@ -29,7 +29,7 @@ The English layer must preserve his directness, rhetorical questions, repetition
 | 4 | காமராஜன் ஆட்கொண்ட தசரதராஜன்! | [`04-kamarajan-aadkonda-dasaratharajan.md`](04-kamarajan-aadkonda-dasaratharajan.md) | **`verified`** | **T0–T5 passed** |
 | 5 | பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’? | [`05-paraththuvaja-aasramama-paris-nagarathu-para.md`](05-paraththuvaja-aasramama-paris-nagarathu-para.md) | **`verified`** | **T0–T5 passed** |
 | 6 | இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா? | [`06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md`](06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md) | **`verified`** | **T0–T5 passed** |
-| 7 | விபீஷணருக்கு விடை யளிப்போம்! | `07-vibishanarukku-vidai-yalippom.md` | `not-started` | T0 pending |
+| 7 | விபீஷணருக்கு விடை யளிப்போம்! | [`07-vibishanarukku-vidai-yalippom.md`](07-vibishanarukku-vidai-yalippom.md) | **`verified`** | **T0–T5 passed** |
 | 8 | நாடாண்ட மன்னன் நாதியற்று செத்தான் | `08-naadaanda-mannan-naathiyatru-seththaan.md` | `not-started` | T0 pending |
 | 9 | தந்தை மகனும் தருமம் தவறியவர்கள்! | `09-thanthai-maganum-tharumam-thavariyavargal.md` | `not-started` | T0 pending |
 | 10 | விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்! | `10-vishnu-avatharam-enbathum-ramanidam.md` | `not-started` | T0 pending |
@@ -38,25 +38,26 @@ The English layer must preserve his directness, rhetorical questions, repetition
 | 13 | துரோகிகள் சந்திப்பு! | `13-thurogigal-santhippu.md` | `not-started` | T0 pending |
 | 14 | காரியமாகும் வரையில் காலைப் பிடி ! | `14-kaariyamaagum-varaiyil-kaalai-pidi.md` | `not-started` | T0 pending |
 
-## Established translation baseline after Articles 1–6
+## Established translation baseline after Articles 1–7
 
 Publication-wide:
 
 - `ஆச்சாரியார்` → **Achariyar**; referent **C. Rajagopalachari (Rajaji)** remains outside Kalaignar's body in translator/editorial notes.
+- If Kalaignar himself changes the label, preserve it: Article 7 explicit `இராஜாஜி` → **Rajaji**.
 - `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where the Rajagopalachari/Chakravarthi wordplay is active.
 - direct commands, rhetorical questions, repetition, sarcasm, ridicule, source-supported wordplay and harsh formulations remain visible.
 
-Articles 1–5 establish **Chakravarthi's Son**, **Body and Feeling**, **The Conspiracy Is Proven**, **Dasaratha Raja in the Grip of Kama-Raja!**, and **Bharadvaja's Ashram—or a Paris 'Bar'?**, together with their detailed terminology, wordplay and source-anomaly rules recorded in the lexicon/review ledger.
+Articles 1–6 establish **Chakravarthi's Son**, **Body and Feeling**, **The Conspiracy Is Proven**, **Dasaratha Raja in the Grip of Kama-Raja!**, **Bharadvaja's Ashram—or a Paris 'Bar'?**, and **Why Did Rama Go to the Forest? A Rishi's Curse? Kaikeyi's Anger?**, together with the terminology and source-anomaly rules in the lexicon/review ledger.
 
-Article 6 adds:
+Article 7 adds:
 
-- title `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?` → **Why Did Rama Go to the Forest? A Rishi's Curse? Kaikeyi's Anger?**;
-- `காட்டேகுதல்` / `வனவாசம்` → **go to the forest / forest exile** by context;
-- `மூலி அலங்காரி` → **Mooli-Alangari** and `பிராமணவம்பர்` → **Brahmin Vambar**, retained as source-bearing forms rather than externally normalised;
-- `சூழ்ச்சி` / `சதி` remain **plot / conspiracy**;
-- the physical **sacrificial altar** and **splint** images are retained;
-- the mixed Moodevi quotation marks are documented;
-- the closing **walk on their feet / On their feet!** ridicule, **Aryan guard forces**, **take up the brief**, and final **ayya, literature!** cadence remain direct.
+- title `விபீஷணருக்கு விடை யளிப்போம்!` → **Let Us Answer Vibhishana!**;
+- `விபீஷணர்` / `விபீஷணத் தன்மை` / `விபீஷணக் கொள்கை` → **Vibhishana / Vibhishana-ness / Vibhishana doctrine**;
+- `சிவஞானம்` / mocking plural `சிவஞானங்கள்` → **Sivagnanam / Sivagnanams**, without external identification;
+- explicit `இராஜாஜி` remains **Rajaji**, distinct from the established **Achariyar** rendering of `ஆச்சாரியார்`;
+- `முப்புரி` remains **muppuri, the three-stranded sacred thread**; unexplained `தண்ட கண்ட`, `இனித்தவாயன்`, `ஆர்குஸிஸ்` remain source-bearing **thanda-kanda / Inithavayan / Argusis**;
+- `வாலேந்திகள்` → **tail-bearers**; `ஏகபத்தினி விரதம்` → **vow of one wife**; `நிறவெறிப் பேயாட்டம்` → **demonic frenzy of colour-hatred**;
+- the fox/heron/deer/fish analogy, guru/disciple contradiction, Vishnu/Krishna question chain, **Alas! Alas! Shame! Shame!**, Tamil-wax image, **carrying kavadi for the North**, and final **Time alone must give the answer!** remain direct.
 
 See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) for detailed provenance.
 
@@ -71,4 +72,4 @@ See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.
 
 ## Exact next activity
 
-Translate and review **Article 7 — `விபீஷணருக்கு விடை யளிப்போம்!`** in full. Read the complete strict-reviewed Tamil assembly before finalising the English title, then complete T0–T5 before Article 8 begins.
+Translate and review **Article 8 — `நாடாண்ட மன்னன் நாதியற்று செத்தான்`** in full. Fetch and read the complete strict-reviewed Tamil assembly before finalising its English title, then complete T0–T5 before Article 9 begins.
