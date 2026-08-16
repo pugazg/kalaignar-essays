@@ -30,16 +30,16 @@ The original archival/source layer is complete:
 
 The strict page-by-page, word-by-word visual comparison is in progress.
 
-Current progress: **64 / 83 scans complete**.
+Current progress: **72 / 83 scans complete**.
 
-Latest completed range: **57–64**.
+Latest completed range: **65–72**.
 
-- Article 9 is now fully strict-rechecked across scans **55–60**.
-- Article 10 is now fully strict-rechecked across scans **61–64**.
-- New source corrections in the latest batch include `நந்திக் கிராமத்திலே யிருந்து`, `சொல்லையும் -சத்தியத்தையும்`, `44ஆவது`, and `அப்பேர்ப்பட்டவர்`.
-- The Article 10 heading `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` was independently revalidated from the scan.
+- Article 11 is now fully strict-rechecked across scans **65–70**.
+- Article 12 is strict-rechecked through scan **72**; scan 73 remains.
+- Latest corrections include `மரண மடைகிறார்கள்`, `மகா புருஷன் -ஈஸ்வர`, `பார்க்கலாம் -அப்படிக்`, `மாள்வதைவிட`, `ஓகோ !`, `நரிகள். அவலட்சணமாக`, `49 ஆம்`, `53 ஆம்`, `பாவம் ;`, and `எந்தப் பெண்ணாவது, தனது`.
+- The high-resolution scan-67 check explicitly supersedes the earlier mistaken reading `மான்வதைவிட` with source-visible **`மாள்வதைவிட`**.
 
-Next range: **65–72**.
+Next range: **73–80**.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
