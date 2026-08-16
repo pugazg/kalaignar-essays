@@ -13,7 +13,7 @@ Distinguish printed text from library stamps, handwriting, accession marks, late
 
 Read [`ESSAY_PROCESSING_GUIDE.md`](ESSAY_PROCESSING_GUIDE.md) before source work.
 
-## Current publication
+## Completed publication
 
 Workspace: `publications/sakkaravarththiyin-thirumagan/`
 
@@ -26,75 +26,54 @@ Source: `TVA_BOK_0065662_சக்கரவர்த்தியின்_தி
 - source-visible edition: first edition May 1956; supplied reprint 2018
 - printed contents: **14 articles**
 
-## Source-layer status
+## Final status
 
-The original archival layer remains complete:
+### Source archival layer
 
-- **83 / 83** physical page records
-- **14 / 14** article assemblies
+- **83 / 83** physical page records complete
+- **14 / 14** article assemblies complete
 - source PDF kept outside GitHub
 
-## Strict visual-text-fidelity review
+### Strict visual-text-fidelity layer
+
+- **83 / 83** physical scans strict-rechecked
+- **14 / 14** article assemblies strict-rechecked after corrections
+- **0** unresolved `NEEDS-PIXEL-REVIEW` items
+- completion gate: **PASSED**
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-Current strict-review progress: **80 / 83 scans complete**.
+## Final batch — scans 81–83
 
-Fully strict-rechecked article assemblies: **13 / 14**.
+- scan **81 / printed p.79** — fidelity-pass; the scan-80 quotation closes correctly with `காதில் ஏறவில்லை”`; source-sensitive words and all three citations agree.
+- scan **82 / printed p.80** — corrected `வர்ணிக்கிறார்` → source-visible **`வர்ணிக்கிறான்`** and propagated it into Article 14. The printed ornament closes Article 14; lower handwriting/accession marks and the printed `விடுதலை` advertisement are not article text.
+- scan **83** — fidelity-pass as a separate back-cover promotional witness. It remains distinct from Article 12 body text.
 
-### Batch 10 closeout — scans 73–80
+Article 14 is now fully strict-rechecked across scans **79–82 / printed pp.77–80**.
 
-- scan 73: fidelity-pass; Article 12 now fully strict-rechecked
-- scan 74:
-  - restored visible article number **`13`**
-  - corrected `மாறிமாறி` → source-visible **`மாறடித்து`**
-- scan 75:
-  - corrected source punctuation spacing to **`சுக்ரீவன் யார் தெரியுமா ?`**
-- scan 76: fidelity-pass; unusual **`துராசைப் பட்டுக்`** revalidated
-- scan 77: fidelity-pass, including **`அழியாத பாசமுள்ள`**
-- scan 78: fidelity-pass; retained source-unclosed citation **`(6.3.1955 - ‘கல்கி)`** and closes Article 13
-- Article 13 is now fully strict-rechecked
-- scan 79:
-  - restored visible article number **`14`**
-  - corrected heading from `காரியமாகும் வரையில் காலை பிடி!` to source-visible **`காரியமாகும் வரையில் காலைப் பிடி !`**
-  - propagated heading correction to Article 14 metadata/header
-- scan 80: fidelity-pass; final quotation remains open and continues to scan 81
-- Article 14 is strict-rechecked only through scan **80**
-- no unresolved pixel-review item remains in scans **1–80**
+## Source-witness distinctions that must not regress
 
-### Article 14 source witnesses
+- Article 5 contents: `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`; heading: `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`.
+- Article 10 contents/heading: `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`; scan-63 body phrase: `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`.
+- Article 14 contents: `காரியமாகும் வரையில் காலைப் பிடி!`; heading: **`காரியமாகும் வரையில் காலைப் பிடி !`**.
+- Scan 83 is a separate promotional Article 12 witness and must not overwrite the Article 12 body-page witness.
 
-Do not collapse these two forms:
+## High-value strict corrections that must not regress
 
-- scan-8 contents: **`காரியமாகும் வரையில் காலைப் பிடி!`**
-- scan-79 article heading: **`காரியமாகும் வரையில் காலைப் பிடி !`**
+Examples include `மற்றுமுள்ள`, `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`, `எப்படி பெய்ப்படி`, `கல் சாசனமோ`, source-visible `பரத்துவாஜ...`, `சீறிப் பாய்ந்தார்கள்`, `சப்பைக் கட்டு போடும்`, `நந்திக் கிராமத்திலே யிருந்து`, `44ஆவது`, `அப்பேர்ப்பட்டவர்`, **`மாள்வதைவிட`**, `ஓகோ !`, `மாறடித்து`, scan-79 heading `காரியமாகும் வரையில் காலைப் பிடி !`, and scan-82 **`வர்ணிக்கிறான்`**.
 
-The difference is the visible spacing before the exclamation mark on the heading page.
+See the fidelity ledger for the complete correction provenance.
 
-## Important gate correction
+## Exact next activity
 
-Earlier repository documents prematurely stated that the stricter 83/83 fidelity pass had already completed. Those claims have now been corrected. The **source layer is complete**, but the **strict fidelity gate remains open at 80/83**.
+There is **no unfinished source or strict-fidelity work** for `சக்கரவர்த்தியின் திருமகன்`.
 
-`PUBLICATION_COMPLETION_REVIEW.md`, `metadata/source.md`, `indexes/page-map.md`, the READMEs and audit now reflect the staged status correctly.
+When the next Kalaignar essay/article source is supplied:
 
-## Exact next activity — final strict batch
+1. keep this completed publication frozen except for explicit source-supported errata;
+2. inspect the new PDF scan itself before creating metadata;
+3. confirm it is not already present in the repository;
+4. create a new publication unit under `publications/`;
+5. follow `ESSAY_PROCESSING_GUIDE.md` and preserve the supplied scan as the controlling source.
 
-Strictly review **scans 81–83** against the controlling PDF:
-
-- scan **81 / printed p.79** — Article 14 continuation
-- scan **82 / printed p.80** — Article 14 conclusion, ending ornament, post-article physical marks and printed `விடுதலை` advertisement
-- scan **83** — physical back cover and promotional Article 12 witness
-
-For every scan:
-
-1. compare every readable printed word/token directly with the scan;
-2. check word boundaries, punctuation, quotation marks, numerals/dates, headings and continuation;
-3. distinguish Article 14 text from scan-82 post-article material;
-4. distinguish the scan-83 back-cover promotional witness from Article 12 body text;
-5. enlarge uncertain glyphs rather than infer from context;
-6. correct only from scan evidence;
-7. propagate any Article 14 correction into the assembly;
-8. recheck the entire Article 14 assembly against scans 79–82;
-9. only if scans 81–83 and the final assembly all pass, change the publication-level strict-fidelity gate to **PASSED**.
-
-**Do not claim 83/83 strict fidelity before this final batch is completed.**
+English translation is outside this completed Tamil source-fidelity phase unless explicitly requested.
