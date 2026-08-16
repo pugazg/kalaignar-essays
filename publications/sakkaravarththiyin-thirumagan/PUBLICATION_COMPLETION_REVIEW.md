@@ -6,33 +6,34 @@ Controlling source: `TVA_BOK_0065662_சக்கரவர்த்தியி�
 Source scan count: **83**  
 Recorded SHA-256: `5d7f8404a53c0766df896ddedf9978a3fd31f97b8e98625b70a93366412eb90d`
 
-This document records two separate gates:
+This document records two separate completed gates:
 
-1. the original Tamil source-archival completion gate; and
-2. the later, stricter word-by-word / punctuation-by-punctuation visual-fidelity gate requested after archival completion.
+1. the Tamil source-archival completion gate; and
+2. the later strict word-by-word / punctuation-by-punctuation visual-fidelity gate.
 
 The supplied scan remains the sole controlling source. This review does not certify historical/factual claims and does not modernize the text.
 
-## Current completion gates
+## Completion gates
 
-| Check | Current result |
+| Check | Result |
 |---|---|
 | Physical scan pages classified | **83 / 83 PASS** |
 | Physical scan page records present | **83 / 83 PASS** |
 | Initial page records direct-visually audited | **83 / 83 PASS** |
+| Final word-by-word / punctuation-by-punctuation visual fidelity pass | **83 / 83 PASS** |
 | Printed contents articles identified | **14 / 14 PASS** |
 | Article start/end boundaries directly verified | **14 / 14 PASS** |
 | Article assemblies created | **14 / 14 PASS** |
+| Article assemblies rechecked after fidelity corrections | **14 / 14 PASS** |
 | Article body pages blocked | **0** |
-| Article body pages needs-review in source layer | **0** |
+| Article body pages needs-review | **0** |
+| Outstanding `NEEDS-PIXEL-REVIEW` items | **0** |
+| Silent modernization / normalization permitted | **No** |
 | Source PDF committed to repository | **No** |
-| Staged strict visual-text-fidelity scan pass | **80 / 83 COMPLETE — OPEN** |
-| Article assemblies fully strict-rechecked | **13 / 14 COMPLETE — OPEN** |
-| Unresolved `NEEDS-PIXEL-REVIEW` items in completed strict scans | **0** |
 
-**Current result:** the **SOURCE-LAYER COMPLETION GATE PASSED**. The later **STRICT VISUAL TEXT-FIDELITY GATE REMAINS OPEN** until scans 81–83 and the final Article 14 assembly recheck are completed.
+**Result: SOURCE-LAYER + STRICT VISUAL TEXT-FIDELITY COMPLETION GATES PASSED.**
 
-Detailed staged provenance: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
+Detailed fidelity provenance: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Physical-page classification
 
@@ -46,81 +47,69 @@ Detailed staged provenance: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDEL
 - scans **43–49**: Article 7
 - scans **50–54**: Article 8
 - scans **55–60**: Article 9
-- scans **61–64**: Article 10 — source heading **`விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`**
+- scans **61–64**: Article 10
 - scans **65–70**: Article 11
 - scans **71–73**: Article 12
 - scans **74–78**: Article 13
 - scans **79–82**: Article 14; scan 82 also contains post-article physical marks and a printed `விடுதலை` advertisement
-- scan **83**: physical back cover with artwork, promotional excerpt, barcode and price
+- scan **83**: physical back cover with artwork, promotional Article 12 excerpt, barcode and price
 
-## Article 14 boundary and heading witness
+## Final Article 14 closeout
 
 Article 14 is source-bounded to scans **79–82 / printed pp.77–80**.
 
-The strict pass through scan 80 has now corrected the scan-79 heading witness to:
+Heading-page witness:
 
 **`காரியமாகும் வரையில் காலைப் பிடி !`**
 
-The contents-page witness remains:
+Contents-page witness:
 
 **`காரியமாகும் வரையில் காலைப் பிடி!`**
 
-The difference is the source-visible space before the exclamation mark on the actual heading page; the two witnesses are not harmonized.
+The source-visible spacing difference before the exclamation mark is retained.
 
-On scan 82, the article's final paragraph is followed by the printed article-ending ornament. Material below that ornament is excluded from the Article 14 assembly and recorded separately within the page record. Scan 82 itself still remains to be rechecked in the final strict batch.
+The final strict batch established one additional correction on scan 82:
+
+- earlier repository reading: `என்று வர்ணிக்கிறார் சுக்ரீவனைப் பற்றி!`
+- source-visible reading: **`என்று வர்ணிக்கிறான் சுக்ரீவனைப் பற்றி!`**
+
+That correction is present in both the scan-82 page record and Article 14 assembly.
+
+The printed ornament directly below the scan-82 paragraph closes Article 14. The lower-page handwritten/accession marks and printed `விடுதலை` advertisement are excluded from the article assembly.
+
+## Final back-cover check
+
+Scan 83 is not Article 14 text. Its promotional Article 12 excerpt was checked as a separate source witness. Source-visible forms include:
+
+- `எந்தப் பெண்ணாவது, தனது`
+- `அறி குறி?`
+- `அத்தகைய நாண உணர்ச்சி தலைகாட்டுகிறது. சொந்தக் கணவனைக்...`
+- barcode `9997720145467`
+- `நன்கொடை: ரூ.50/-`
+
+These are not silently copied into Article 12 body text.
 
 ## Source-witness distinctions preserved
 
-### Article 5 title witnesses
+### Article 5
 
-- contents page: `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`
-- article heading page: `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`
+- contents: `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`
+- heading: `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`
 
-### Article 10 heading / body witness
+### Article 10
 
-- contents page: `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`
-- article heading page: `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`
+- contents + heading: `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`
 - scan-63 body phrase: `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`
 
-### Article 14 title witnesses
+### Article 14
 
-- contents page: `காரியமாகும் வரையில் காலைப் பிடி!`
-- article heading page: `காரியமாகும் வரையில் காலைப் பிடி !`
-
-### Article 12 / back-cover witness
-
-The back cover reprints material associated with Article 12 / printed p.70, but remains a separate physical witness. Earlier source-layer notes recorded visible differences; those scan-83 details must not be treated as newly strict-certified until the final scan-83 pass is completed.
-
-## Strict-pass state through scan 80
-
-The staged strict review has now fully closed Articles **1–13**. Article 14 is rechecked only through scans **79–80**.
-
-Recent Batch 10 corrections include:
-
-- scan 74: `மாறிமாறி` → source-visible **`மாறடித்து`** and restoration of visible article number `13`
-- scan 75: source punctuation spacing **`சுக்ரீவன் யார் தெரியுமா ?`**
-- scan 79: restoration of visible article number `14` and correction of the heading from `காரியமாகும் வரையில் காலை பிடி!` to **`காரியமாகும் வரையில் காலைப் பிடி !`**
-
-No unresolved pixel-review item remains in scans **1–80**.
-
-## Remaining strict-fidelity work
-
-The final staged batch is:
-
-- scan **81 / printed p.79** — Article 14
-- scan **82 / printed p.80** — Article 14 conclusion + post-article physical marks / `விடுதலை` advertisement
-- scan **83** — back cover / promotional witness
-
-After those pages are checked, Article 14 must be revalidated against scans 79–82 and this document may then be changed to a strict-fidelity completion certificate **only if no unresolved item remains**.
-
-## Physical-copy marks
-
-Library stamps, handwriting/accession marks and bleed-through remain outside printed article text. Scan 82 contains a large circular library stamp and handwritten/accession-like marks after the Article 14 ending; these are not part of Kalaignar's article text.
+- contents: `காரியமாகும் வரையில் காலைப் பிடி!`
+- heading: `காரியமாகும் வரையில் காலைப் பிடி !`
 
 ## Translation state
 
-No English translation is released by this review. Any later translation must remain subordinate to the verified Tamil page and article records.
+No English translation is released by this completion review. Any later translation must remain subordinate to the verified Tamil page and article records.
 
 ## Archival state
 
-`சக்கரவர்த்தியின் திருமகன்` is **fully source-archived** for the supplied edition. Its separate strict visual-text-fidelity certification is **not yet complete**: current progress is **80 / 83 scans**, with scans **81–83** remaining.
+`சக்கரவர்த்தியின் திருமகன்` is now **fully source-archived and strict visual-text-fidelity complete for the supplied edition**: **83/83 physical scans** and **14/14 article assemblies** complete and rechecked, with **0 unresolved fidelity locations**.
