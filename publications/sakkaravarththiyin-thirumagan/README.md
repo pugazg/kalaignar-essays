@@ -33,8 +33,8 @@ Review ledger: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLA
 
 Current status:
 
-- English drafts complete: **9 / 14**
-- English articles T0–T5 verified: **9 / 14**
+- English drafts complete: **10 / 14**
+- English articles T0–T5 verified: **10 / 14**
 - final 14-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -53,37 +53,25 @@ The user established that `ஆச்சாரியார்` refers to **C. Raj
 7. `விபீஷணருக்கு விடை யளிப்போம்!` → **Let Us Answer Vibhishana!**
 8. `நாடாண்ட மன்னன் நாதியற்று செத்தான்` → **The King Who Ruled the Land Died with No One to Tend Him**
 9. `தந்தை மகனும் தருமம் தவறியவர்கள்!` → **Father and Son—Both Strayed from Dharma!**
+10. `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **To Rama, Who Is Said to Be Vishnu's Incarnation!**
 
-Article 9 Tamil SHA: `d8b6b6cba29bb35e70d2009ebccad4b64cfffa9d`  
-English: [`translations/en/09-thanthai-maganum-tharumam-thavariyavargal.md`](translations/en/09-thanthai-maganum-tharumam-thavariyavargal.md)
+Article 10 Tamil SHA: `e7a2b2e1d3b703d672b0be7569440217ccb03d3e`  
+English: [`translations/en/10-vishnu-avatharam-enbathum-ramanidam.md`](translations/en/10-vishnu-avatharam-enbathum-ramanidam.md)
 
-Article 9 passed **T0–T5**. Important non-regression points:
+Article 10 passed **T0–T5**. Important non-regression points:
 
-- `தருமம் / தர்மம்` → **dharma**; `சத்தியம்` → **truth / word of truth**; `நாஸ்திகம் / நாஸ்திகன்` → **atheism / atheist**;
-- source-visible `ஜாம்பாலி` → **Jambali** and unusual `நாதிகமுள்ளவர்கள்` remains source-bearing **naathigam**;
-- opening Chitrakuta quotation-mark anomaly documented;
-- sheep-flock / **Govinda!** jab and direct challenge retained;
-- `சூட்சமம்` → **the catch!**, `ராஜ்ய பாரம்` → **burden of rule**, `சதி` remains **conspiracy**;
-- Rama's covert **the country given by me** claim and Vasishta's **administer the kingdom** instruction remain visible;
-- sandal/throne surrogate-rule satire and Nehru–Governor Prakasa analogy are preserved;
-- **“holy” sandals**, **the conspirator Rama**, and **audacious, conspiracy-laden speech** remain direct.
+- heading/contents `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` remains distinct from scan-63 body `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`;
+- **Ramayana tigers**, the little-fellows/great-man contrast and meat-eating-rishi challenge remain direct;
+- **shraddha feast / mesha (goat) meat / human flesh / Rakshasa flesh** remain explicit;
+- scan-63 unmatched opening parenthesis is documented rather than silently repaired;
+- Surpanakha sequence preserves **thirst of lust**, **business trouble**, **second wife**, and the ironic **gems among men**;
+- source-specific **rasabhasa** remains source-bearing;
+- `சப்பைக் கட்டு` reuses the established **splint** image;
+- final nested quotation irregularities are documented and the closing **Aryan culture** jab remains direct.
 
 ## Exact next activity
 
-Proceed with complete translation and T0–T5 review of **Article 10 — `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`**. Read its whole strict-reviewed Tamil assembly before finalising the English title, and preserve the known title/body source-witness distinction.
-
-## Files
-
-- [`metadata/source.md`](metadata/source.md)
-- [`indexes/contents.md`](indexes/contents.md)
-- [`indexes/page-map.md`](indexes/page-map.md)
-- [`audit.md`](audit.md)
-- [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md)
-- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md)
-- [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
-- `pages/`
-- `articles/`
-- `translations/en/`
+Proceed with complete translation and T0–T5 review of **Article 11 — `நடப்பதெல்லாம் நாராயணன் செயலா?`**. Read its whole strict-reviewed Tamil assembly before finalising the English title.
 
 ## Source authority
 
