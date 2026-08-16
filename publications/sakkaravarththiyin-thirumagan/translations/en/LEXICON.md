@@ -16,8 +16,8 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 The user explicitly established that `ஆச்சாரியார்` in this publication refers to **C. Rajagopalachari (Rajaji)** and chose **`Achariyar`** as the English body form.
 
-- Articles **1–12** use **Achariyar** wherever the Tamil source uses `ஆச்சாரியார்`.
-- Articles **13–14** must do the same unless Kalaignar himself changes label.
+- Articles **1–13** use **Achariyar** wherever the Tamil source uses `ஆச்சாரியார்`.
+- Article **14** must do the same unless Kalaignar himself changes label.
 - If the source explicitly says `இராஜாஜி`, preserve **Rajaji**; Article 7 demonstrates this rule.
 - Do not mechanically replace `ஆச்சாரியார்` with `Rajaji` in Kalaignar's body text.
 
@@ -149,6 +149,15 @@ The user explicitly established that `ஆச்சாரியார்` in this
 | `மேன் மக்கள் குடிப்பிறந்த பூங்கொடிகள்` | `flowering vines born into noble families` | Preserve the floral/class image without altering the Tamil witness. | Article 12 | contextual image |
 | `நெஞ்சழுத்தம்` | `immense nerve` | Closing accusation about equating Sita with noble-born women. | Article 12 | contextual |
 | `ஆஷாடபூதிகள்` | `Ashadabhoothis` | Unexplained source-specific polemical label; retain without outside identification. | Article 12 | source-bearing |
+| `மாறடித்து ஒப்பாரி வைத்தான்` | `beat his chest and wailed an oppari` | Preserve the source-visible physical action `மாறடித்து` and culturally marked lament `ஒப்பாரி`. | Article 13 | source-bearing image |
+| `அசுரன்` | `asura` | Article 13 keeps `அரக்கன்` → demon distinct from `அசுரன்` → asura. | Article 13 | established distinction |
+| `வானரர்` / `வானர` | `Vanara` / `Vanaras` | Preserve source-bearing epic group term rather than genericising. | Article 13 | established |
+| `விமான` | `vimana` | Kabandha's departure for heaven; no outside technical gloss inserted. | Article 13 | source-bearing |
+| `துராசைப் பட்டுக்` | `driven by greed` | Strict-reviewed unusual Tamil form is preserved in source; English translates the immediate sense without normalising Tamil. | Article 13 | documented source difficulty |
+| `யோசனை` | `yojana` | Source distance measure; retained without modern conversion. | Article 13 | source-bearing |
+| `துரோகி` / `துரோகிகள்` | `traitor` / `traitors` | Title and Sugriva accusation; preserve direct polemical charge. | Article 13 | polemical label |
+| `இது ஆச்சாரியார் தீட்டியுள்ள கதை!` | `This Is the Story Achariyar Has Drawn Up!` | Preserve source-supported subheading and accusatory craft/drawing-up sense. | Article 13 | contextual heading |
+| `மழுப்புகிறார்` | `dodges` | Scan-78 direct accusation: **Here Achariyar dodges.** | Article 13 | contextual attack |
 
 ## Article 10 contextual decisions
 
@@ -195,6 +204,23 @@ The user explicitly established that `ஆச்சாரியார்` in this
 - **Kakuthan** and **Ashadabhoothis** remain source-bearing; no outside epic/social identification is imported.
 - Market-street imagery, **flowering vines born into noble families**, **immense nerve**, rubbish heaped on heads and dancing, and the final **incarnations of Sita / incarnations of Draupadi** attack remain unsmoothed.
 
+## Article 13 contextual decisions
+
+- Title `துரோகிகள் சந்திப்பு!` → **`Traitors Meet!`**. The headline-like action keeps the title's compact accusation rather than turning it into an explanatory label.
+- Tamil source SHA: **`369c3f4e5030c5810e815d13692372ae73849837`**. All five page boundaries retained: scans **74–78 / printed pp.72–76**.
+- Opening strict source reading `மாறடித்து` is honoured through **beat his chest**, paired with source-bearing **oppari** rather than flattening the scene to generic sadness.
+- `அரக்கன்` → **demon** and `அசுரன்` → **asura**, preserving the source distinction; **Vanara**, **vimana** and **yojana** remain source-bearing.
+- Rama is still described as one who **conspired to deprive Bharata of his right to the kingdom**, while Sugriva is described as having plotted to deceive Vali and seize the kingdom; their becoming **allies** carries the title's accusation into the body.
+- All source dates/references are retained: **6.3.1955 — Kalki**, **13.3.1955 issue**, and the closing **6.3.1955** quotation.
+- Scans **75–76** repeatedly open new quotation marks without visible matching closures. English uses readable paragraph quotation typography, but the source irregularity is explicitly documented and no missing Tamil punctuation is invented.
+- Scan **76** `துராசைப் பட்டுக்` is confirmed by the source record and is not normalised in Tamil; English renders the immediate sense as **driven by greed**.
+- Source-supported subheading `இது ஆச்சாரியார் தீட்டியுள்ள கதை!` remains **This Is the Story Achariyar Has Drawn Up!**.
+- Dundubhi passage keeps **Himavan / Samudra Raja**, **strength of a thousand elephants**, and **one yojana** without outside conversion.
+- Scan 78's repeated hearsay forms are deliberately repeated as **they say ... they say** rather than compressed into a summary.
+- `துரோகி` remains **traitor** and `சதி வெளிப்பட்ட` remains **the conspiracy came to light**; `மழுப்புகிறார்` becomes **Here Achariyar dodges**.
+- Final citation is source-irregular as `(6.3.1955 - ‘கல்கி)` with no visible closing single quotation. English gives a readable *Kalki* citation while the source anomaly remains documented in the translator note/review ledger.
+- The closing lexical echo `இராமன் செய்கையாக` / `ராமனின் செயல்` is retained as **Rama's course of action / Rama's action**, followed by the unchanged rhetorical hammer: **Why? Why, Achariyar; why?**.
+
 ## Final consistency reminders
 
 During the publication-level gate, recheck especially:
@@ -208,4 +234,5 @@ During the publication-level gate, recheck especially:
 - Article 9 **dharma / truth / atheism**, **Jambali / naathigam**, sandals-as-rule and Nehru/Governor Prakasa comparison;
 - Article 10 title/body witness distinction, **Ramayana tigers**, **shraddha feast / mesha (goat) meat / human flesh**, **all three times**, unmatched parenthesis, **rasabhasa**, **splint**, and final Aryan-culture line;
 - Article 11 **Narayana/Rama contradiction**, **backing orchestra / Chanakya / Brahmin leader**, **Oh-ho!**, Maricha/Sita quotation chain, scan-69 unmatched outer quotation, **fourth-rate woman**, physical tongue image, **Kaga Pattar**, source plural **the Achariyars**, and final livelihood line;
-- Article 12 **scan-83 separation**, **upper cloth / upper garment**, **aspect / incarnation**, source-visible `அவனாகவே` documentation, **theist worthies**, **kings of the night**, **Kakuthan / Ashadabhoothis**, market-street imagery and the rubbish-on-head/Sita–Draupadi ending.
+- Article 12 **scan-83 separation**, **upper cloth / upper garment**, **aspect / incarnation**, source-visible `அவனாகவே` documentation, **theist worthies**, **kings of the night**, **Kakuthan / Ashadabhoothis**, market-street imagery and the rubbish-on-head/Sita–Draupadi ending;
+- Article 13 **Traitors Meet!**, **beat his chest / oppari**, **demon / asura**, **Vanara / vimana / yojana**, `துராசைப் பட்டுக்`, quotation/citation irregularities, **This Is the Story Achariyar Has Drawn Up!**, repeated **they say**, **Here Achariyar dodges**, and **Why? Why, Achariyar; why?**.
