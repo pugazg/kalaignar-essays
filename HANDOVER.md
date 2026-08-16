@@ -3,7 +3,7 @@
 Repository: `pugazg/kalaignar-essays`  
 Branch: `main`
 
-**This is the single authoritative project handover document. Update this file after every meaningful source, translation or review activity. Do not create competing handover files unless the user explicitly asks.**
+**This is the single authoritative project handover document. Update this file after every meaningful source, translation, review or release activity. Do not create competing handover files unless the user explicitly asks.**
 
 ## Mandatory startup for future continuation
 
@@ -14,15 +14,10 @@ Read completely before making changes:
 3. [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md)
 4. this `HANDOVER.md`
 5. [`docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`](docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md) when activating a new publication
-6. [`publications/sakkaravarththiyin-thirumagan/README.md`](publications/sakkaravarththiyin-thirumagan/README.md)
-7. [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)
-8. [`publications/sakkaravarththiyin-thirumagan/translations/en/README.md`](publications/sakkaravarththiyin-thirumagan/translations/en/README.md)
-9. [`publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md`](publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md)
-10. [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
+6. the active publication `README.md`, `metadata/source.md`, page map and fidelity records
+7. if translation is active: publication `TRANSLATION_PLAN.md`, English tracker, lexicon, review ledger and release report if present
 
 For a brand-new work/chat window, use [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md) with the controlling PDF attached.
-
-For E7, fetch every release-facing file fresh from `main` before changing status or creating the release-closeout record.
 
 ## Permanent source rule
 
@@ -34,7 +29,9 @@ The supplied scan is the controlling source for the Tamil archival layer. Never 
 
 English must retain Kalaignar's directness, commands, rhetorical questions, repetition, sarcasm, ridicule, polemical labels, physical imagery, exclamations and wordplay. Do not academicise or soften him. Unexplained source-specific forms remain source-bearing unless the user explicitly asks for outside research. Source punctuation anomalies that matter must be documented rather than silently repaired.
 
-## Active publication
+---
+
+# Publication 1 — சக்கரவர்த்தியின் திருமகன் — RELEASE COMPLETE / FROZEN
 
 Workspace: `publications/sakkaravarththiyin-thirumagan/`  
 Source: `TVA_BOK_0065662_சக்கரவர்த்தியின்_திருமகன்.pdf`
@@ -43,19 +40,29 @@ Source: `TVA_BOK_0065662_சக்கரவர்த்தியின்_தி
 - author: `கலைஞர் மு.கருணாநிதி`
 - physical scans: **83**
 - source SHA-256: `5d7f8404a53c0766df896ddedf9978a3fd31f97b8e98625b70a93366412eb90d`
+- source file size: **201,858,823 bytes**
 - first edition visible in scan: **May 1956**
 - supplied reprint: **2018**
 - printed contents: **14 articles**
+- source PDF committed to repository: **No**
 
 ## Tamil archival status — COMPLETE / FROZEN
 
-- **83 / 83** page records complete
-- **83 / 83** strict word-level visual checks complete
+- **83 / 83** physical page records complete
+- **83 / 83** strict word-by-word / punctuation-by-punctuation visual checks complete
 - **14 / 14** Tamil article assemblies complete and strict-rechecked
 - **0** unresolved `NEEDS-PIXEL-REVIEW`
+- **0** blocked body readings
 - source PDF kept outside GitHub
 
 Do not touch the Tamil body layer unless an explicit source-supported correction is found.
+
+Detailed source records:
+
+- [`publications/sakkaravarththiyin-thirumagan/metadata/source.md`](publications/sakkaravarththiyin-thirumagan/metadata/source.md)
+- [`publications/sakkaravarththiyin-thirumagan/indexes/page-map.md`](publications/sakkaravarththiyin-thirumagan/indexes/page-map.md)
+- [`publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md)
+- [`publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md)
 
 During Article 14 translation, one editorial audit-note correction was made in `pages/0008-contents.md`: the printed contents text was not changed; only a stale note that had incorrectly described the heading as `காலை பிடி!` was corrected to the strict heading witness `காலைக் பிடி !`.
 
@@ -65,11 +72,31 @@ During Article 14 translation, one editorial audit-note correction was made in `
 - Article 10 contents/heading: `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`; scan-63 body: `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`.
 - Article 14 contents: `காரியமாகும் வரையில் காலைப் பிடி!`; heading: `காரியமாகும் வரையில் காலைப் பிடி !`.
 - **Scan 83 is a separate promotional Article 12 witness and must never overwrite Article 12 body text.**
-- Scan 82 contains the end of Article 14 followed by a separate printed *Viduthalai* advertisement; the advertisement is not Article 14 body.
+- Scan 82 contains the end of Article 14 followed by a separate printed `விடுதலை` advertisement; the advertisement is not Article 14 body.
 
-Other high-value strict readings already verified include `மற்றுமுள்ள`, `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`, `எப்படி பெய்ப்படி`, `கல் சாசனமோ`, `சீறிப் பாய்ந்தார்கள்`, `சப்பைக் கட்டு போடும்`, `நந்திக் கிராமத்திலே யிருந்து`, `44ஆவது`, `அப்பேர்ப்பட்டவர்`, `மாள்வதைவிட`, `ஓகோ !`, `மாறடித்து`, scan-76 `துராசைப் பட்டுக்`, scan-80 `சவுந்தாயமும்`, and scan-82 `வர்ணிக்கிறான்`.
+## High-value strict readings already verified
 
-## English translation phase — COMPLETE / E7 NEXT
+Do not casually “correct” these source-visible readings:
+
+- `மற்றுமுள்ள`
+- `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`
+- `எப்படி பெய்ப்படி`
+- `கல் சாசனமோ`
+- `சீறிப் பாய்ந்தார்கள்`
+- `சப்பைக் கட்டு போடும்`
+- `நந்திக் கிராமத்திலே யிருந்து`
+- `44ஆவது`
+- `அப்பேர்ப்பட்டவர்`
+- `மாள்வதைவிட`
+- `ஓகோ !`
+- `மாறடித்து`
+- scan 76 `துராசைப் பட்டுக்`
+- scan 80 `சவுந்தாயமும்`
+- scan 82 `வர்ணிக்கிறான்`
+
+## English translation / release status — COMPLETE / RELEASED
+
+Translation workspace: `publications/sakkaravarththiyin-thirumagan/translations/en/`
 
 - Phase E0 setup: **COMPLETE**
 - Phase E1 Article 1 calibration: **COMPLETE**
@@ -78,17 +105,26 @@ Other high-value strict readings already verified include `மற்றுமு
 - Phase E4 Articles 9–11: **COMPLETE**
 - Phase E5 Articles 12–14: **COMPLETE**
 - Phase E6 publication-level cross-article consistency review: **COMPLETE / PASSED**
+- Phase E7 English release closeout: **COMPLETE / PASSED**
 - English drafts: **14 / 14**
 - T2 fidelity-reviewed: **14 / 14**
 - T3 voice-reviewed: **14 / 14**
 - T4 audited: **14 / 14**
 - T5 verified: **14 / 14**
 - unresolved translation questions: **0**
+- release blockers: **0**
 - English translation: **COMPLETE**
-- Phase E7 English release closeout: **NEXT**
-- English release gate: **OPEN pending E7**
+- English release gate: **CLOSED**
 
-E6 found **no translation-body correction requiring an edit to Articles 1–14**. Do not rewrite any verified English article merely for stylistic polish during E7.
+Release records:
+
+- [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)
+- [`publications/sakkaravarththiyin-thirumagan/translations/en/README.md`](publications/sakkaravarththiyin-thirumagan/translations/en/README.md)
+- [`publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md`](publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md)
+- [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
+- [`publications/sakkaravarththiyin-thirumagan/translations/en/RELEASE_REPORT.md`](publications/sakkaravarththiyin-thirumagan/translations/en/RELEASE_REPORT.md)
+
+E6 found **no translation-body correction requiring an edit to Articles 1–14**. E7 likewise made **no verified article-body edit**; it was a release-state/provenance closeout.
 
 ## Publication-wide identity / label rule
 
@@ -99,7 +135,7 @@ The user explicitly established that `ஆச்சாரியார்` refers 
 - Article 7 explicit source `இராஜாஜி` → **Rajaji**.
 - Article 11 source plural `ஆச்சாரியார்களுக்கு` → **the Achariyars**.
 
-## Verified English articles
+## Verified English articles and frozen Tamil source SHAs
 
 1. `சக்கரவர்த்தியின் திருமகன்` → **Chakravarthi's Son** — Tamil SHA `47a5b1fd0b28827bb098dda419b5bf864e9f3866`
 2. `தேகமும் உணர்வும்` → **Body and Feeling** — `bb9131b7856b528e527136be8f4f60dca2999850`
@@ -119,6 +155,7 @@ The user explicitly established that `ஆச்சாரியார்` refers 
 ## Non-regression translation decisions
 
 ### Articles 1–3
+
 - **Achariyar** frozen for `ஆச்சாரியார்`.
 - **Chakravarthi** remains where Rajagopalachari/Chakravarthi wordplay is active.
 - Aryans / Dravidians / Aryanism and demons / Rakshasas / Devas remain source-distinct.
@@ -126,56 +163,65 @@ The user explicitly established that `ஆச்சாரியார்` refers 
 - Article 3 keeps burden-of-kingdom imagery, **through the back door**, **taint**, and rapid rhetorical questions.
 
 ### Article 4
+
 - `காமராஜன்` → **Kama-Raja** in title and ending.
 - Sexualised vocabulary and age-marked ridicule stay strong.
 - `அப்பாவி / அப்-பாவி` → **innocent / Ah—sinner!** with separated translator note.
 
 ### Article 5
+
 - Heading/contents Tamil witnesses stay distinct.
 - Title remains **Bharadvaja's Ashram—or a Paris 'Bar'?**.
 - Both Kambar passages remain sense-translated only from the supplied Tamil plus Kalaignar's glosses.
 - Scan-33 unmatched quotation and scan-36 standalone `—Achariyar.` stay documented.
 
 ### Article 6
+
 - **Mooli-Alangari** and **Brahmin Vambar** remain source-bearing.
 - Keep sacrificial-altar image, horoscope/curse/anger/fate sequence, Moodevi punctuation anomaly, **splint**, **walk on their feet / On their feet!**, **Aryan guard forces**, and **take up the brief**.
 - Source `காகபட்டர்` is represented as **Kakapattar**; do not change it merely to match Article 11.
 
 ### Article 7
+
 - **Vibhishana / Vibhishana-ness / Vibhishana doctrine** remain the recurring frame.
 - **Sivagnanam / Sivagnanams** preserves source name and mocking plural.
 - **Rajaji** remains where source explicitly says `இராஜாஜி`.
 - Source-bearing **thanda-kanda / Inithavayan / Argusis** remain unexpanded.
 - Keep **tail-bearers**, **vow of one wife**, **demonic frenzy of colour-hatred**, **carrying kavadi for the North**, and **Time alone must give the answer!**.
-- Scan-48 `கற்பு நிலையைப் பாதிக்கும்` difficulty remains documented.
 
 ### Article 8
+
 - `நாதியற்று / நாதியில்லாமல்` → **with no one to tend him**.
 - **Suta-Magadhars / Sayantan / paakkai** remain source-bearing.
-- Keep sleeping-wives/deathbed sequence, **sixty thousand**, mastery-of-senses sarcasm, **intoxication of lust**, **bodily pleasure**, literal **tail**, **sacred-thread king Achariyar**, and scan-52 unmatched quotation note.
+- Keep sleeping-wives/deathbed sequence, **sixty thousand**, mastery-of-senses sarcasm, **intoxication of lust**, **bodily pleasure**, literal **tail**, **sacred-thread king Achariyar**, and scan-52 quotation anomaly.
 
 ### Article 9
+
 - `தருமம் / தர்மம்` → **dharma**; `சத்தியம்` → **truth / word of truth**; `நாஸ்திகம் / நாஸ்திகன்` → **atheism / atheist**.
-- Source `ஜாம்பாலி` → **Jambali**; strict unusual `நாதிகமுள்ளவர்கள்` stays source-bearing through **naathigam**.
+- Source `ஜாம்பாலி` → **Jambali**; unusual `நாதிகமுள்ளவர்கள்` stays source-bearing through **naathigam**.
 - Preserve sheep-flock / **Govinda!**, sandals-on-throne surrogate rule, Nehru–Governor Prakasa analogy, **“holy” sandals**, **the conspirator Rama**, and **audacious, conspiracy-laden speech**.
 
 ### Article 10
+
 - Preserve heading/contents `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` separately from scan-63 `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`.
 - Keep **Ramayana tigers**, **shraddha feast**, **mesha (goat) meat**, **human flesh**, **Rakshasa flesh**, **all three times**, unmatched parenthesis, **thirst of lust**, **gems among men**, **rasabhasa**, **splint**, and final **Aryan culture** jab.
 
 ### Article 11
-- Keep May **1954 / 1955** contradiction, **backing orchestra**, **Chanakya**, direct **Brahmin leader**, Narayana/Rama contradiction, **dharma and justice**, **sinful act**, **Oh-ho!**, **Ayyo, Lakshmana!**, scan-69 unmatched quotation, Janaki insult cascade, **fourth-rate woman**, fate reversal, physical tongue image, and final livelihood line.
+
+- Keep May **1954 / 1955** contradiction, **backing orchestra**, **Chanakya**, direct **Brahmin leader**, Narayana/Rama contradiction, **dharma and justice**, **sinful act**, **Oh-ho!**, **Ayyo, Lakshmana!**, scan-69 quotation anomaly, Janaki insult cascade, **fourth-rate woman**, fate reversal, physical tongue image and final livelihood line.
 - Source `காக பட்டர்` remains **Kaga Pattar**; do not flatten it to Article 6 **Kakapattar**.
 - Source plural remains **the Achariyars**.
 
 ### Article 12
+
 - Title remains **To Rama Who Went Chasing Maricha**.
 - **Scan 83 is only a separate promotional witness.** Never rewrite the body from it.
 - `மேலுத்தரியம்` → **upper cloth**; `மேலாடை` → **upper garment**; `அம்சம்` → **aspect** distinct from `அவதாரம்` → **incarnation**.
-- Scan-72 `அவனாகவே` stays frozen in Tamil; contextual English action remains explicitly documented.
+- Scan-72 `அவனாகவே` stays frozen in Tamil; contextual English action remains documented.
 - Keep **theist worthies**, **kings of the night**, **sisters who slipped and fell**, **Kakuthan**, **Ashadabhoothis**, market-street imagery and Sita/Draupadi ending.
 
 ### Article 13
+
 - Title remains **Traitors Meet!**.
 - `மாறடித்து ஒப்பாரி வைத்தான்` → **beat his chest and wailed an oppari**.
 - `அரக்கன் / அசுரன்` → **demon / asura**; **Vanara / vimana / yojana** remain source-bearing.
@@ -183,68 +229,72 @@ The user explicitly established that `ஆச்சாரியார்` refers 
 - Keep **This Is the Story Achariyar Has Drawn Up!**, source quotation irregularities, repeated **they say**, **Here Achariyar dodges**, and **Why? Why, Achariyar; why?**.
 
 ### Article 14
+
 - Title remains **Hold Their Feet Until Your Purpose Is Achieved!**.
 - Contents `காரியமாகும் வரையில் காலைப் பிடி!` and heading `காரியமாகும் வரையில் காலைப் பிடி !` stay distinct.
-- Keep Tara's **Ayyo!**, mountain-waterfall blood image, mountain-like body, and direct **look**.
+- Keep Tara's **Ayyo!**, mountain-waterfall blood image, mountain-like body and direct **look**.
 - `பூஜனைப்பித்தர்கள்` → **worship-mad people**.
 - `அந்தப்புர போகம்` → **sensual pleasures of the inner palace**.
 - Strict `சவுந்தாயமும்` remains source-bearing **saundhayam**; do not guess or normalise it.
 - `கிராமிய சுகம்` → **rustic pleasure**; `கயவன் / கயவர்கள்` → **scoundrel / scoundrels**; `சிருங்கார போகம்` → **sensual pleasure**.
 - Keep Rama's threat, Lakshmana becoming a **storm**, Tara-beauty sarcasm, **Aryans will do anything—say anything—so that their purpose may be achieved!**, and final **Sons of Chakravarthi / hold the feet of scoundrels** echo.
-- Scan-82 strict `வர்ணிக்கிறான்` remains source authority; lower *Viduthalai* advertisement is excluded.
+- Scan-82 strict `வர்ணிக்கிறான்` remains source authority; lower `விடுதலை` advertisement is excluded.
 
-## E6 publication-level cross-article consistency review — PASSED
+## E6 publication-level consistency review — PASSED
 
-E6 was completed after fetching all 14 current English files fresh from `main`. Full reviewed blob-SHA provenance is recorded in [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md).
+E6 confirmed publication-wide identity/label rules, recurring epic names, ideological vocabulary, source-category distinctions, title/body puns and rhetorical echoes, commands/questions/repetition/ridicule, source-bearing forms, source anomalies, dates/citations and page traceability.
 
-E6 confirmed:
-
-- publication-wide **Achariyar**, Article 7 **Rajaji**, and Article 11 **the Achariyars**;
-- recurring epic names and ideological vocabulary;
-- demon / Rakshasa / asura / Deva distinctions and source-bearing **Vanara** usage;
-- title/body puns and rhetorical echoes, especially Articles 4, 5, 8, 13 and 14;
-- commands, rhetorical questions, repetition, ridicule, insults and political/sexual polemic without accidental smoothing;
-- source-bearing forms and documented source anomalies;
-- source dates, issue references, *Kalki* attributions and page-boundary comments;
-- Article 12 scan-83 separation and Article 14 scan-82 article/advertisement boundary.
-
-### E6 source-sensitive differences intentionally retained
+Source-sensitive differences intentionally retained:
 
 - Article 6 source `காகபட்டர்` → **Kakapattar**; Article 11 source `காக பட்டர்` → **Kaga Pattar**.
 - Article 2 source `ராமச்சந்திரமூர்த்தி` → **Ramachandramurti**; Article 14 source `இராமசந்திர மூர்த்தி` → **Ramachandra Murti**.
 
-These are source-witness differences, not inconsistencies to be mechanically harmonised.
+E6 corrections to translation bodies: **none**.  
+E6 unresolved items: **none**.
 
-### E6 corrections
+## E7 English release closeout — PASSED / COMPLETE
 
-- Translation-body edits: **none**.
-- Unresolved translation questions: **none**.
-- Result: **E6 PASSED; English translation COMPLETE.**
+Release report: [`publications/sakkaravarththiyin-thirumagan/translations/en/RELEASE_REPORT.md`](publications/sakkaravarththiyin-thirumagan/translations/en/RELEASE_REPORT.md)
+
+E7 re-fetched the release-facing repository state and verified:
+
+- all 14 English files exist;
+- all 14 remain `translation_status: verified`;
+- all 14 `source_tamil_blob_sha` values match the current frozen Tamil blobs;
+- release-facing counts agree at **14 / 14 T5**, **E6 PASSED**, **0 unresolved**;
+- Tamil remains **83 / 83 strict-reviewed**, **14 / 14 assemblies**, **0 unresolved**;
+- the source PDF is absent from the recursive Git tree;
+- documented source-witness boundaries and source-bearing exceptions remain represented;
+- no verified article body required release-stage editing;
+- release blockers: **0**.
+
+**E7 result: PASSED. English release gate CLOSED.**
 
 ## Reusable future-work kit — COMPLETE
 
-The repository now contains a reusable future-publication documentation set:
+The repository contains:
 
 - [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md) — source intake through strict fidelity, translation, consistency review and release sequencing;
-- [`docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`](docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md) — template for restructuring/updating this **single** root handover when a new publication becomes active; it must never become a competing live handover;
-- [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md) — reusable new-chat prompt requiring the controlling PDF, repository inspection, source-first processing, strict visual fidelity and continuous handover updates.
+- [`docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`](docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md) — template for updating this **single** root handover when a new publication becomes active;
+- [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md) — reusable new-chat prompt requiring the controlling PDF and source-first processing.
 
 Important reusable rule: **publication-specific identity or transliteration decisions must not be mechanically copied into a future work.** Establish them again from that publication's source/user evidence and record them in its lexicon.
 
-This documentation activity does not alter the current `சக்கரவர்த்தியின் திருமகன்` release state. The exact next publication activity remains E7 below.
+## Current blockers / unresolved questions
 
-## Exact next activity — E7 English release closeout
+**None.**
 
-Work only on release closeout; do not reopen article prose without a genuine source-supported defect.
+## Exact next activity
 
-1. Fetch the current root `README.md`, this `HANDOVER.md`, publication `README.md`, `TRANSLATION_PLAN.md`, `translations/en/README.md`, `LEXICON.md`, `TRANSLATION_REVIEW.md`, and all release-facing publication records fresh from `main`.
-2. Inspect the publication directory for any established release/completion-report naming convention. Reuse the repository's workflow rather than inventing a conflicting parallel system.
-3. Verify all 14 English article links/files exist, remain `translation_status: verified`, and point to the expected frozen Tamil source SHAs.
-4. Verify release-facing counts and statuses are mutually consistent: **14/14 T5, E6 PASSED, 0 unresolved, English translation COMPLETE**.
-5. Verify no source PDF is present in the repository and that Tamil archival state remains frozen/complete.
-6. Verify the documented source-witness boundaries and source-bearing exceptions remain represented in the release records.
-7. Create or update the English release-closeout record required by the established workflow. Record release checks, blockers, final status and provenance.
-8. If no blocker remains, mark **E7 COMPLETE**, close the **English release gate**, and update root/publication READMEs, tracker, translation plan, review ledger and this `HANDOVER.md` accordingly.
-9. If a blocker is found, leave the gate OPEN and make that exact blocker the next activity.
+`சக்கரவர்த்தியின் திருமகன்` is **closed and frozen**. Do not restart, retranscribe or stylistically rewrite it unless a genuine source-supported defect is discovered.
 
-**Do not close the English release gate until E7 passes.**
+**Next normal activity:** when the next Kalaignar essay/article source PDF is supplied, execute **P0 — source intake / publication identification** under [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md):
+
+1. inspect current `main` and search for prior work before creating anything;
+2. inspect the actual supplied scan, including cover/title/imprint/contents, before choosing title or publication type;
+3. identify whether it is a standalone article, pamphlet, serial essay, multi-article publication or other source-supported form;
+4. continue existing work if present; otherwise create exactly one publication unit;
+5. record source filename/checksum/page count and keep the PDF outside GitHub;
+6. restructure/update this same root `HANDOVER.md` using the future-publication template with the exact next P1/P2 activity.
+
+If no new controlling source has been supplied, there is no source-bearing archival action to invent; await the next publication scan.
