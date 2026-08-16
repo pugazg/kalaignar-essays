@@ -69,7 +69,11 @@ Current status:
 - Article 10 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/10-vishnu-avatharam-enbathum-ramanidam.md`](publications/sakkaravarththiyin-thirumagan/articles/10-vishnu-avatharam-enbathum-ramanidam.md)
 - Article 11 — **நடப்பதெல்லாம் நாராயணன் செயலா?**, scans **65–70**, printed pp. **63–68**: **6 / 6 VERIFIED / source-complete**
 - Article 11 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/11-nadappathellam-narayanan-seyala.md`](publications/sakkaravarththiyin-thirumagan/articles/11-nadappathellam-narayanan-seyala.md)
-- scan **71** / printed p. **69** directly begins Article 12 — **மாரீசனைத் துரத்திச் சென்ற ராமனிடம்**; this is the next transcription unit.
+- Article 12 — **மாரீசனைத் துரத்திச் சென்ற ராமனிடம்**, scans **71–73**, printed pp. **69–71**: **3 / 3 VERIFIED / source-complete**
+- Article 12 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/12-maarisanai-thuraththi-sendra-ramanidam.md`](publications/sakkaravarththiyin-thirumagan/articles/12-maarisanai-thuraththi-sendra-ramanidam.md)
+- Article 13 — **துரோகிகள் சந்திப்பு!**, scans **74–78**, printed pp. **72–76**: **5 / 5 VERIFIED / source-complete**
+- Article 13 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/13-thurogigal-santhippu.md`](publications/sakkaravarththiyin-thirumagan/articles/13-thurogigal-santhippu.md)
+- scan **79** directly begins Article 14 — **காரியமாகும் வரையில் காலை பிடி!**; this is the next transcription unit.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
