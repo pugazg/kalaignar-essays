@@ -33,8 +33,8 @@
 
 ### English translation phase — ACTIVE
 
-- drafts complete: **11 / 14**
-- translations verified through T0–T5: **11 / 14**
+- drafts complete: **12 / 14**
+- translations verified through T0–T5: **12 / 14**
 - final cross-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -51,13 +51,14 @@ Verified translations:
 9. `தந்தை மகனும் தருமம் தவறியவர்கள்!` → **Father and Son—Both Strayed from Dharma!**
 10. `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **To Rama, Who Is Said to Be Vishnu's Incarnation!**
 11. `நடப்பதெல்லாம் நாராயணன் செயலா?` → **Is Everything That Happens Narayana's Doing?**
+12. `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்` → **To Rama Who Went Chasing Maricha**
 
 Publication-wide, source `ஆச்சாரியார்` is rendered **Achariyar**; explicit source-label changes such as Article 7 `இராஜாஜி` remain **Rajaji**, and source plurals such as Article 11 `ஆச்சாரியார்களுக்கு` remain plural in English.
 
-Article 11 preserves the May **1954 / 1955** contradiction, **backing orchestra / Chanakya / Brahmin leader** ridicule, compact Narayana/Rama contradiction, Maricha's **dharma and justice / sinful act**, source-corrected **Oh-ho!**, **Ayyo, Lakshmana!**, scan-69 unmatched quotation, Janaki's insult cascade, **fourth-rate woman**, fate argument, physical tongue image, **Kaga Pattar**, **the Achariyars**, and the final livelihood line.
+Article 12 preserves scans **71–73** as the controlling body witness and keeps scan **83** as an independent promotional back-cover witness; **upper cloth / upper garment**, **aspect** versus **incarnation**, the source-visible `அவனாகவே` difficulty, Jatayu/Ravana bodily-force imagery, **theist worthies**, **kings of the night**, prostitution/anguish imagery, source-bearing **Kakuthan / Ashadabhoothis**, and the final rubbish-on-head/Sita–Draupadi attack are all documented and retained.
 
 English workspace: [`publications/sakkaravarththiyin-thirumagan/translations/en/`](publications/sakkaravarththiyin-thirumagan/translations/en/)  
 Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
 Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
 
-**Exact next translation activity: Article 12 — `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`.** Read the complete current strict-reviewed Tamil assembly before finalising its English title, keep scan 83's promotional witness separate from the body witness, then complete T0–T5 before Article 13.
+**Exact next translation activity: Article 13 — `துரோகிகள் சந்திப்பு!`.** Read the complete current strict-reviewed Tamil assembly before finalising its English title, then complete T0–T5 before Article 14.
