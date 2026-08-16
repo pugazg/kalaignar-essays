@@ -33,14 +33,14 @@ Review ledger: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLA
 
 Current status:
 
-- English drafts complete: **10 / 14**
-- English articles T0–T5 verified: **10 / 14**
+- English drafts complete: **11 / 14**
+- English articles T0–T5 verified: **11 / 14**
 - final 14-article consistency review: **not started**
 - English release gate: **OPEN**
 
 ### Publication-wide `ஆச்சாரியார்` rule
 
-The user established that `ஆச்சாரியார்` refers to **C. Rajagopalachari (Rajaji)** and chose **Achariyar** as the English body form. Preserve Kalaignar's own source-label switches: Article 7 explicit `இராஜாஜி` remains **Rajaji**.
+The user established that `ஆச்சாரியார்` refers to **C. Rajagopalachari (Rajaji)** and chose **Achariyar** as the English body form. Preserve Kalaignar's own source-label switches: Article 7 explicit `இராஜாஜி` remains **Rajaji**. Preserve source plurals too: Article 11 `ஆச்சாரியார்களுக்கு` remains **the Achariyars**.
 
 ### Verified English translations
 
@@ -54,24 +54,23 @@ The user established that `ஆச்சாரியார்` refers to **C. Raj
 8. `நாடாண்ட மன்னன் நாதியற்று செத்தான்` → **The King Who Ruled the Land Died with No One to Tend Him**
 9. `தந்தை மகனும் தருமம் தவறியவர்கள்!` → **Father and Son—Both Strayed from Dharma!**
 10. `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **To Rama, Who Is Said to Be Vishnu's Incarnation!**
+11. `நடப்பதெல்லாம் நாராயணன் செயலா?` → **Is Everything That Happens Narayana's Doing?**
 
-Article 10 Tamil SHA: `e7a2b2e1d3b703d672b0be7569440217ccb03d3e`  
-English: [`translations/en/10-vishnu-avatharam-enbathum-ramanidam.md`](translations/en/10-vishnu-avatharam-enbathum-ramanidam.md)
+Article 11 Tamil SHA: `b324e995d580ee021577b998d193d005fa6446ad`  
+English: [`translations/en/11-nadappathellam-narayanan-seyala.md`](translations/en/11-nadappathellam-narayanan-seyala.md)
 
-Article 10 passed **T0–T5**. Important non-regression points:
+Article 11 passed **T0–T5**. Important non-regression points:
 
-- heading/contents `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` remains distinct from scan-63 body `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`;
-- **Ramayana tigers**, the little-fellows/great-man contrast and meat-eating-rishi challenge remain direct;
-- **shraddha feast / mesha (goat) meat / human flesh / Rakshasa flesh** remain explicit;
-- scan-63 unmatched opening parenthesis is documented rather than silently repaired;
-- Surpanakha sequence preserves **thirst of lust**, **business trouble**, **second wife**, and the ironic **gems among men**;
-- source-specific **rasabhasa** remains source-bearing;
-- `சப்பைக் கட்டு` reuses the established **splint** image;
-- final nested quotation irregularities are documented and the closing **Aryan culture** jab remains direct.
+- May **1954 / 1955** contradiction and the compact **Narayana knows... / Rama does not think...** formulation remain direct;
+- **backing orchestra**, **Chanakya**, **Brahmin leader**, **dharma and justice**, **sinful act**, source-corrected **Oh-ho!**, and **Ayyo, Lakshmana!** are retained;
+- scan 69's unmatched outer quotation is documented;
+- Janaki's insult sequence, **fourth-rate woman**, and **wife of the bearer of the conch and discus** remain unsmoothed;
+- fate argument preserves Ravana becoming **blameless**, **Fate, oh fate!**, and **God has arranged disaster in every way**;
+- physical tongue image, sarcastic **“worships”**, **bans—and forces**, source-bearing **Kaga Pattar**, source plural **the Achariyars**, and final livelihood line remain direct.
 
 ## Exact next activity
 
-Proceed with complete translation and T0–T5 review of **Article 11 — `நடப்பதெல்லாம் நாராயணன் செயலா?`**. Read its whole strict-reviewed Tamil assembly before finalising the English title.
+Proceed with complete translation and T0–T5 review of **Article 12 — `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`**. Keep scan 83's separate promotional Article 12 witness from overwriting the body witness.
 
 ## Source authority
 
