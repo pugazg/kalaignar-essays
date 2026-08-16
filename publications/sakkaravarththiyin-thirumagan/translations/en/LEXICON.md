@@ -14,17 +14,19 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 6. If a term changes meaning by context, record separate rows or a clear exception.
 7. Every important change to an established choice must be recorded in `TRANSLATION_REVIEW.md` and rechecked in earlier translated articles if necessary.
 
-## User-supplied referent clarification
+## User-supplied referent and transliteration clarification
 
 The user explicitly established that **`ஆச்சாரியார்` in this publication refers to C. Rajagopalachari, alias Rajaji**.
 
-Article 1 T3 voice review froze the recurring English body form as **`Acharya`**. The personal identity belongs in translator/editorial metadata or notes, not as a mechanical replacement for Kalaignar's chosen label.
+The user has now also explicitly directed that **Article 1 must use `Achariyar`, not `Acharya`**, in the English body. Article 1 has been revised accordingly after its initial T5 verification.
+
+This correction is currently **Article-1-specific**. Article 2 still contains the earlier form `Acharya`; it has not been silently changed because the user's instruction named Article 1 specifically. Before treating one form as publication-wide for Articles 3–14, follow the latest user instruction or resolve it during the later cross-article consistency review.
 
 ## Established lexicon
 
 | Tamil | Preferred English | Context / exception | First established in | Status |
 |---|---|---|---|---|
-| `ஆச்சாரியார்` | `Acharya` | Referent in this publication: **C. Rajagopalachari (Rajaji)**. Preserve the label in Kalaignar's body. | Article 1 | `frozen after T3` |
+| `ஆச்சாரியார்` | `Achariyar` in Article 1; `Acharya` remains in Article 2 for now | Referent: **C. Rajagopalachari (Rajaji)**. Preserve Kalaignar's label in the body. Article 1 spelling was explicitly changed by the user after T5. Do not infer a publication-wide spelling change beyond Article 1 without a later instruction/consistency decision. | Article 1; revised by user after Article 2 | `article-specific; global form not frozen` |
 | `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` | `Chakravarthi` | Retain transliteration where Kalaignar's wordplay/referential play on Rajagopalachari/Chakravarthi is active. Tamil also literally means `emperor`; explain outside body when needed. | Article 1 | `established` |
 | `சக்கரவர்த்தியின் திருமகன்` / `சக்கரவர்த்தி திருமகன்` | `Chakravarthi's Son` | Publication/serial title; chosen to retain the Rajaji/Chakravarthi wordplay rather than flatten it to `The Emperor's Son`. | Article 1 | `established` |
 | `ஆரியர்` | `Aryans` | Preserve Kalaignar's ideological/historical vocabulary; do not generalise. | Article 1 | `established` |
@@ -49,7 +51,7 @@ Article 1 T3 voice review froze the recurring English body form as **`Acharya`**
 | `கோபதாபம்` / `கோப தாபங்கள்` | `anger and passion` | Article 2 itself tests `தாபம்` against Rama/Sita's married life, so `passion` retains the bodily/sexual undertone better than neutral `distress`. | Article 2 | `established` |
 | `பகவான்` | `Bhagavan` | Preserve the source religious title rather than mechanically substituting `God`, especially where Kalaignar repeats it polemically. | Article 2 | `established` |
 | `ஈஸ்வரி` | `Ishvari` | Preserve the paired source title with `Bhagavan`. | Article 2 | `established` |
-| `பிராமணஜோதி` | `Brahmin luminary` | Polemical epithet used of Acharya; do not soften to a neutral description. | Article 2 | `contextual epithet established` |
+| `பிராமணஜோதி` | `Brahmin luminary` | Polemical epithet used of the Rajaji referent; do not soften to a neutral description. | Article 2 | `contextual epithet established` |
 | `பார்ப்பனகுல மகிபர்` | `lord of the Brahmin clan` | Retain the caste-polemical and mock-elevated force. | Article 2 | `contextual epithet established` |
 | `வேதியப் பெருந்தகையார்` | `great Vedic worthy` | Deliberately slightly elevated/ironic English to preserve Kalaignar's address. | Article 2 | `contextual epithet established` |
 | `பட்டாபிஷேகம்` | `coronation` | Use normal English institutional term while preserving the surrounding source rhetoric. | Article 2 | `established` |
@@ -59,6 +61,7 @@ Article 1 T3 voice review froze the recurring English body form as **`Acharya`**
 
 ## Article 1 contextual decisions
 
+- `ஆச்சாரியார்` is now **`Achariyar` throughout Article 1**, by explicit user instruction. The earlier `Acharya` form in Article 1 is superseded.
 - The source-visible irregular phrase `எப்படி பெய்ப்படி வளைவான பாதைகளில் போகிறார்` is not altered in the Tamil layer. In English Article 1 it is rendered rhetorically as **`how he takes one crooked path after another`**, preserving the accusation without pretending the Tamil wording itself is regular.
 - `ஆசியஜோதியாம்` is rendered contextually as **`the so-called Light of Asia`** to retain the distancing/sarcastic force of the source construction.
 - `கள்ள இன்பம்` is rendered **`illicit pleasure`** in Article 1.
@@ -66,6 +69,7 @@ Article 1 T3 voice review froze the recurring English body form as **`Acharya`**
 
 ## Article 2 contextual decisions
 
+- Article 2 currently retains the earlier `Acharya` spelling for `ஆச்சாரியார்`; this has not been altered by the Article-1-specific user instruction.
 - Title `தேகமும் உணர்வும்` → **`Body and Feeling`**. The compact pairing is retained rather than expanded into a philosophical paraphrase.
 - Source-visible `(ஆகஸ்டு 154)` is translated as **`(August 154)`** and explicitly documented; the translation does not silently repair the date.
 - `மூன்றடி மண்` in the Vamana passage is rendered **`three paces of land`**, matching the immediate source contrast with measuring the world in `two strides` while preserving the body/measure argument.
