@@ -22,11 +22,11 @@ Corrections made during T2–T4 must be recorded rather than hidden.
 
 ## Publication review status
 
-- articles drafted: **1 / 14**
-- articles T2 fidelity-reviewed: **1 / 14**
-- articles T3 voice-reviewed: **1 / 14**
-- articles T4 audited: **1 / 14**
-- articles T5 verified: **1 / 14**
+- articles drafted: **2 / 14**
+- articles T2 fidelity-reviewed: **2 / 14**
+- articles T3 voice-reviewed: **2 / 14**
+- articles T4 audited: **2 / 14**
+- articles T5 verified: **2 / 14**
 - publication-level cross-article review: **not started**
 - unresolved translation questions: **0**
 
@@ -34,7 +34,7 @@ Corrections made during T2–T4 must be recorded rather than hidden.
 
 The user explicitly clarified that **`ஆச்சாரியார்` in this publication refers to C. Rajagopalachari, alias Rajaji**.
 
-Article 1 T3 review has settled the recurring English body form as **`Acharya`**. Kalaignar's label remains in the body; the identity is supplied separately in translator/editorial notes.
+Article 1 T3 review settled the recurring English body form as **`Acharya`**. Kalaignar's label remains in the body; the identity is supplied separately in translator/editorial notes.
 
 ## Article records
 
@@ -44,57 +44,77 @@ Article 1 T3 review has settled the recurring English body form as **`Acharya`**
 - source Tamil blob SHA: **`47a5b1fd0b28827bb098dda419b5bf864e9f3866`**
 - English file: `01-sakkaravarththiyin-thirumagan.md`
 - English title: **`Chakravarthi's Son`**
-- T0: **passed** — strict-reviewed Tamil assembly confirmed before drafting
-- T1: **passed** — full article translated through scans 9–15 / printed pp.7–13
-- T2: **passed** — bilingual completeness/fidelity review completed
+- T0: **passed**
+- T1: **passed**
+- T2: **passed**
+- T3: **passed**
+- T4: **passed**
+- T5: **verified**
+
+#### Article 1 review record
+
+- All source page-boundary comments for scans **9–15** are represented.
+- T2 corrected an early draft relationship error so that *Murasoli* follows Acharya while examining Acharya's/Chakravarthi's `son`.
+- Source-irregular `எப்படி பெய்ப்படி...` is rendered for argumentative force as `how he takes one crooked path after another` without altering the Tamil layer.
+- `அவதார புருஷனாக` → `an incarnation`; Amsuman's `சீலமும் அறிவும்` → `virtue and wisdom`.
+- `ஆச்சாரியார்` → **Acharya**; `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where the Rajaji/Chakravarthi wordplay is active.
+- Direct imperatives, repetition, sarcasm and polemical force were retained.
+- Scan-12 unmatched quotation opening is documented rather than repaired.
+- T4 checked dates, quotations, fractions, epic names, *Kalki*, *Murasoli*, Aryan/Dravidian terminology, and the Deva/Rakshasa/demon lexical distinction.
+- unresolved: **none**.
+
+### Article 2 — தேகமும் உணர்வும்
+
+- Tamil source: `../../articles/02-thegamum-unarvum.md`
+- source Tamil blob SHA: **`bb9131b7856b528e527136be8f4f60dca2999850`**
+- English file: `02-thegamum-unarvum.md`
+- English title: **`Body and Feeling`**
+- T0: **passed** — current strict-reviewed Tamil assembly confirmed before drafting
+- T1: **passed** — complete article translated through scans 16–21 / printed pp.14–19
+- T2: **passed** — paragraph-by-paragraph bilingual completeness/fidelity review completed
 - T3: **passed** — Kalaignar-language/voice review completed
-- T4: **passed** — terminology, quotations, dates, periodical names and source-page comments audited
+- T4: **passed** — terminology, quotations, source anomalies, dates and page-boundary comments audited
 - T5: **verified**
 
 #### T1/T2 decisions and corrections
 
-- All seven Tamil source page-boundary comments are represented in English: scans **9, 10, 11, 12, 13, 14, 15**.
-- The first draft momentarily made the opening sentence imply that Acharya himself was following his own `son`. T2 corrected the relationship to the Tamil argument: **Murasoli follows Acharya while examining Acharya's/Chakravarthi's `son`**.
-- The source-visible irregular Tamil `எப்படி பெய்ப்படி வளைவான பாதைகளில் போகிறார்` remains untouched in Tamil; English renders its argumentative force as **`how he takes one crooked path after another`**.
-- `அவதார புருஷனாக` was refined from the awkward draft `incarnate being` to **`an incarnation`**.
-- Amsuman's `சீலமும் அறிவும்` was refined to **`virtue and wisdom`**.
-- The scan-12 quotation that visibly opens without a closing quotation mark remains explicitly documented in an English source comment rather than silently repaired.
-- No Tamil clause, quotation, date or numerical fraction was intentionally omitted.
+- All six source page-boundary comments are represented: scans **16, 17, 18, 19, 20, 21**.
+- Title `தேகமும் உணர்வும்` is rendered **`Body and Feeling`**, preserving the compact conceptual pairing rather than expanding it into a neutral explanatory title.
+- `ஊனுடல்` is consistently rendered **`body of flesh` / `bodies of flesh`** so Kalaignar's corporeal emphasis remains visible.
+- `கோபதாபம்` / `தாபம்` is rendered **`anger and passion` / `passion`**. The later Rama–Sita questions show that Kalaignar is exploiting the bodily/sexual sense of `தாபம்`; neutral `distress` would lose the argument.
+- `இனி` remains **`now` / `from now on`** because Kalaignar explicitly builds the argument around that word.
+- Source-visible `(ஆகஸ்டு 154)` is retained in English as **`(August 154)`** with a source comment; it is not silently normalised.
+- The Vamana `மூன்றடி மண்` wording was refined during T2 from a too-literal `three feet of land` to **`three paces of land`**, preserving the immediate source contrast with measuring the world in `two strides`.
+- `ஆச்சாரிய மேதை` was restored to the sharper **`the genius Acharya`** in the rhetorical question rather than the softer draft `learned Acharya`.
+- No Tamil paragraph, quoted proposition, rhetorical question, date or named actor was intentionally omitted.
 
 #### T3 Kalaignar-voice decisions
 
-- `ஆச்சாரியார்` → **`Acharya`**, with referent C. Rajagopalachari (Rajaji) identified outside Kalaignar's body.
-- `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **`Chakravarthi`** where the Rajagopalachari/Chakravarthi wordplay is active.
-- Article title → **`Chakravarthi's Son`**, rather than flattening the wordplay to `The Emperor's Son`.
-- Direct imperatives remain direct: **`Read!`**, **`Look!`**, **`Look closely!`**.
-- Repetition remains: **`Ignorance, comrades, ignorance!`**, **`Shame! Shame!`**, **`contradicting himself, contradicting himself`**, and **`will not come true—it certainly will not come true`**.
-- Sarcasm and polemical force remain visible in constructions such as **`the so-called Light of Asia`**, **`these Devas, it seems, are good`**, and the final **`he makes all the Devas wicked!`**.
-- The physical metaphor in `சப்பைக்கட்டு` is retained as **`fastens a splint onto sagging Aryanism`**, rather than being reduced to an abstract `makes excuses`.
+- Article 1's **Acharya** and **Chakravarthi** baseline is retained.
+- Polemical epithets remain marked: `பிராமணஜோதி` → **`Brahmin luminary`**; `பார்ப்பனகுல மகிபர்` → **`lord of the Brahmin clan`**; `வேதியப் பெருந்தகையார்` → **`great Vedic worthy`**.
+- `புரோகிதர் தலைவரின் பொருள் பொதிந்த பேச்சு!` remains **`The meaning-laden words of the leader of the priests!`**, not an academic paraphrase.
+- Direct repetitions remain: **`Watch closely, friends, watch closely`** and **`An explanation is needed—O great Vedic worthy, an explanation is needed!`**.
+- The Rama/Sita sequence remains a rapid series of questions rather than being summarised into an argument.
+- `சூழ்ச்சி` is rendered **`plot`**, while explicit `சதி` is rendered **`conspiracy`**, preserving Kalaignar's lexical escalation.
+- `காற்றில் பறக்கவிட்டு` remains the physical idiom **`thrown that promise to the winds`**.
+- The ending preserves Kalaignar's accusation directly: **`And Rama too is an accomplice—that is the truth!`**
 
 #### T4 terminology / quotation / citation audit
 
 Confirmed against the Tamil assembly:
 
-- periodicals: *Kalki*, *Murasoli*;
-- dates/citations: May 23, June 6, July 18, July 4 and the source's 1954 context;
-- epic names: Rama, Lakshmana, Bharata, Shatrughna, Valmiki, Kambar, Ahalya, Indra, Gautama, Amsuman, Sagara, Kapila, Viswamitra;
-- ideological terms: **Aryans, Dravidians, Aryanism, Aryan Empire**;
-- epic/social contrast: source `அரக்கர்` → **demons**, `ராட்சசர்` → **Rakshasas**, `தேவர்கள்` → **Devas**;
-- `அஸ்வமேதயாகம்` → **Ashvamedha sacrifice**;
-- quoted fractions of Vishnu: one-half, one-quarter, one-eighth each;
-- Nehru quotation and attribution preserved as a translated quotation from Kalaignar's Tamil source, without importing an external published English version.
+- repeated religious titles: **Bhagavan, Ishvari**;
+- avatar names: Vamana, Varaha; Mahabali; Bhuma Devi;
+- epic names: Rama, Sita, Tataka, Bharata, Kaikeyi, Vasishta, Dasaratha;
+- `Kodanda`, `Pushya`, `Kekaya`, `Ramachandramurti`, `Mahavishnu` retained consistently;
+- section heading `பட்டாபிஷேகம்` → **Coronation**;
+- source August 8 reference preserved;
+- source-visible `August 154` anomaly documented;
+- unmatched quotation openings on scans **18** and **20** are explicitly documented in the English file rather than silently closed.
 
-#### Article 1 unresolved items
+#### Article 2 unresolved items
 
-**None.** Article 1 is the initial English voice/lexicon baseline for Articles 2–14, subject to the final publication-wide consistency review.
-
-### Article 2 — தேகமும் உணர்வும்
-
-- Tamil source: `../../articles/02-thegamum-unarvum.md`
-- source Tamil blob SHA: pending T0
-- T0–T5: `not-started`
-- corrections / decisions: none yet
-- unresolved: none yet
+**None.** Article 2 is verified and may be used in the later publication-wide consistency review.
 
 ### Article 3 — சதி நிரூபிக்கப்படுகிறது
 
