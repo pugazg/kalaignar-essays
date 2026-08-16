@@ -68,12 +68,12 @@ Other high-value source readings already verified include `மற்றுமு
 - Phase E1 Article 1 calibration: **COMPLETE**
 - Phase E2 Articles 2–4: **COMPLETE**
 - Phase E3 Articles 5–8: **COMPLETE**
-- Phase E4 Articles 9–11: **ACTIVE — Article 9 next**
-- English drafts: **8 / 14**
-- T2 fidelity-reviewed: **8 / 14**
-- T3 voice-reviewed: **8 / 14**
-- T4 audited: **8 / 14**
-- T5 verified: **8 / 14**
+- Phase E4 Articles 9–11: **ACTIVE — Article 9 complete; Article 10 next**
+- English drafts: **9 / 14**
+- T2 fidelity-reviewed: **9 / 14**
+- T3 voice-reviewed: **9 / 14**
+- T4 audited: **9 / 14**
+- T5 verified: **9 / 14**
 - final cross-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -95,6 +95,7 @@ The user explicitly established that `ஆச்சாரியார்` refers 
 6. `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?` → **Why Did Rama Go to the Forest? A Rishi's Curse? Kaikeyi's Anger?** — `07ae8741f3b06fa9208a6478ebabea87d53a93f5`
 7. `விபீஷணருக்கு விடை யளிப்போம்!` → **Let Us Answer Vibhishana!** — `1ae5db95c88df7ccdbd74b180c4427f8ee81d022`
 8. `நாடாண்ட மன்னன் நாதியற்று செத்தான்` → **The King Who Ruled the Land Died with No One to Tend Him** — `87d10ed53e55fdf6a1eb60f86517cc245644a71a`
+9. `தந்தை மகனும் தருமம் தவறியவர்கள்!` → **Father and Son—Both Strayed from Dharma!** — `d8b6b6cba29bb35e70d2009ebccad4b64cfffa9d`
 
 ## Non-regression translation decisions
 
@@ -134,32 +135,40 @@ The user explicitly established that `ஆச்சாரியார்` refers 
 - Keep **tail-bearers**, **vow of one wife**, **demonic frenzy of colour-hatred**, **carrying kavadi for the North**, and final **Time alone must give the answer!**.
 - Scan-48 `கற்பு நிலையைப் பாதிக்கும்` difficulty remains explicitly noted.
 
-### Article 8 — COMPLETE / VERIFIED
+### Article 8
 
-English: [`translations/en/08-naadaanda-mannan-naathiyatru-seththaan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/08-naadaanda-mannan-naathiyatru-seththaan.md)
+- Title/body `நாதியற்று / நாதியில்லாமல்` → **with no one to tend him**.
+- Source-bearing **Suta-Magadhars / Sayantan / paakkai** remain unexpanded.
+- Keep sleeping-wives/deathbed sequence, **sixty thousand**, mastery-of-senses sarcasm, **intoxication of lust**, **bodily pleasure**, literal **tail**, and **sacred-thread king Achariyar**.
+- Scan-52 unmatched quotation opening remains documented.
 
-- Title → **The King Who Ruled the Land Died with No One to Tend Him**.
-- `நாதியற்று / நாதியில்லாமல்` deliberately echo as **with no one to tend him**; do not flatten to `lonely` or `forsaken` in later consistency review.
-- `தாம் பத்தினி` remains source-visible Tamil; English uses contextual **devoted wife** with translator note.
-- Scan 52 opens a quotation at `சோகத்தாலும்...` and does not visibly close it before Kalaignar resumes. English documents the unmatched opening rather than repairing it.
-- `சூதமாகதர்கள்` → **Suta-Magadhars**; `சயந்தன்` → **Sayantan**; `பாக்கை` → **paakkai**. These are source-bearing, not externally normalised.
-- Keep the sleeping-wives/deathbed sequence, **sixty thousand**, no one to close the eyes, no one to perform the milk-pouring rite, and no lap for the king's last breath.
-- Keep the Aryan-culture jab and the women-of-Ayodhya sleeping ridicule.
-- `புலன்களை அடக்கியாளும் திறமை` → **ability to master his senses** and must recur sarcastically.
-- `காம போதை` → **intoxication of lust**; `உடல் சுகம்` → **bodily pleasure**.
-- Source-visible `வாலை அடக்கிப்` retains the physical **tail** image.
-- Final `பூணூல் வேந்தர் ஆச்சாரியார்` → **sacred-thread king Achariyar**.
-- No unresolved Article 8 meaning-level blocker remains.
+### Article 9 — COMPLETE / VERIFIED
 
-## Exact next activity — Article 9
+English: [`translations/en/09-thanthai-maganum-tharumam-thavariyavargal.md`](publications/sakkaravarththiyin-thirumagan/translations/en/09-thanthai-maganum-tharumam-thavariyavargal.md)
 
-Work only on **Article 9 — `தந்தை மகனும் தருமம் தவறியவர்கள்!`**.
+- Title → **Father and Son—Both Strayed from Dharma!**.
+- `தருமம் / தர்மம்` → **dharma**; `சத்தியம்` → **truth / word of truth**; `நாஸ்திகம் / நாஸ்திகன்` → **atheism / atheist**.
+- `தர்ம ராஜன்` → **Dharma Raja**.
+- Source `ஜாம்பாலி` → **Jambali**; unusual verified `நாதிகமுள்ளவர்கள்` → source-bearing **naathigam**, explicitly kept distinct from `நாஸ்திகம்`.
+- Opening Chitrakuta quotation uses mixed source quote forms; English normalises typography only because scope is clear, and the anomaly is documented.
+- Preserve sheep-flock / **Govinda!** jab and the escalating direct challenge.
+- `சூட்சமம்` → **the catch!**; `ராஜ்ய பாரம்` → **burden of rule** by context; `சதி` remains **conspiracy**.
+- `அவதார புருஷன் அயோத்தி ராமன்` → **Rama of Ayodhya—the incarnation**; do not revert to the awkward draft `incarnation-man`.
+- Preserve Rama's **the country given by me** claim, Vasishta's **administer the kingdom** instruction, and the sandal/throne surrogate-rule sequence.
+- Preserve the Nehru/Delhi–Governor Prakasa/Chennai analogy exactly as the source's political comparison.
+- `“புனிதமான” பாதுகைகள்` → **“holy” sandals**; `சதிகார ராமன்` → **the conspirator Rama**; final `சதி நிறைந்த சாகசப் பேச்சு` → **audacious, conspiracy-laden speech**.
+- No unresolved Article 9 meaning-level blocker remains.
 
-1. Fetch `publications/sakkaravarththiyin-thirumagan/articles/09-thanthai-maganum-tharumam-thavariyavargal.md` fresh from `main` and record its current blob SHA as T0.
+## Exact next activity — Article 10
+
+Work only on **Article 10 — `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`**.
+
+1. Fetch `publications/sakkaravarththiyin-thirumagan/articles/10-vishnu-avatharam-enbathum-ramanidam.md` fresh from `main` and record its current blob SHA as T0.
 2. Read the **entire** Tamil article before choosing the English title.
-3. Apply the publication-wide **Achariyar** rule and existing lexicon only where context supports it.
-4. Create `translations/en/09-thanthai-maganum-tharumam-thavariyavargal.md` with all source-page comments.
-5. Complete T2 bilingual fidelity review, T3 Kalaignar-voice review and T4 terminology/source audit.
-6. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, publication/root READMEs and **this `HANDOVER.md`** before ending.
+3. Preserve the known source-witness distinction: contents/heading `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` versus scan-63 body phrase `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`.
+4. Apply the publication-wide **Achariyar** rule and established lexicon only where context supports it.
+5. Create `translations/en/10-vishnu-avatharam-enbathum-ramanidam.md` with all source-page comments.
+6. Complete T2 bilingual fidelity review, T3 Kalaignar-voice review and T4 terminology/source audit.
+7. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, publication/root READMEs and **this `HANDOVER.md`** before ending.
 
-**Do not begin Article 10 until Article 9 has passed T2 and T3.**
+**Do not begin Article 11 until Article 10 has passed T2 and T3.**
