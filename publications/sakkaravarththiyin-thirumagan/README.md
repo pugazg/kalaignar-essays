@@ -4,7 +4,7 @@
 **Source edition archived here:** 2018 மறுபதிப்பு  
 **Source PDF:** repository-க்கு வெளியே பாதுகாக்கப்படுகிறது.
 
-இந்த publication ஒரு தனிக் கட்டுரை அல்ல. Scan-ல் உள்ள `பொருளடக்கம்` **14 கட்டுரைகளை** பட்டியலிடுகிறது. ஆகவே இந்த source edition ஒரே publication unit ஆகப் பதிவு செய்யப்பட்டு, அதன் கட்டுரைகள் `articles/` கீழ் தனித்தனியாக assemble செய்யப்படுகின்றன.
+இந்த publication ஒரு தனிக் கட்டுரை அல்ல. Scan-ல் உள்ள `பொருளடக்கம்` **14 கட்டுரைகளை** பட்டியலிடுகிறது. ஆகவே இந்த source edition ஒரே publication unit ஆகப் பதிவு செய்யப்பட்டு, அதன் கட்டுரைகள் `articles/` கீழ் தனித்தனியாக assemble செய்யப்பட்டுள்ளன.
 
 ## Source-visible edition history
 
@@ -18,10 +18,10 @@
 
 இவை அனைத்தும் இந்த scan-ல் அச்சிடப்பட்ட edition statements ஆக மட்டுமே பதிவு செய்யப்படுகின்றன.
 
-## தற்போதைய processing status
+## Processing status — source complete
 
 - Source identity: **registered**
-- Total scan pages: **83**
+- Total scan pages: **83 / 83 VERIFIED and classified**
 - Front matter scans **1–8**: **8 / 8 VERIFIED**
 - Article 1 — **சக்கரவர்த்தியின் திருமகன்**: scans **9–15**, printed pages **7–13**: **7 / 7 VERIFIED / source-complete**
 - Article 1 assembled: [`articles/01-sakkaravarththiyin-thirumagan.md`](articles/01-sakkaravarththiyin-thirumagan.md)
@@ -49,11 +49,20 @@
 - Article 12 assembled: [`articles/12-maarisanai-thuraththi-sendra-ramanidam.md`](articles/12-maarisanai-thuraththi-sendra-ramanidam.md)
 - Article 13 — **துரோகிகள் சந்திப்பு!**: scans **74–78**, printed pages **72–76**: **5 / 5 VERIFIED / source-complete**
 - Article 13 assembled: [`articles/13-thurogigal-santhippu.md`](articles/13-thurogigal-santhippu.md)
-- Scan **79** directly begins Article 14 — **காரியமாகும் வரையில் காலை பிடி!**. This is the next transcription unit.
+- Article 14 — **காரியமாகும் வரையில் காலை பிடி!**: scans **79–82**, printed pages **77–80**: **4 / 4 VERIFIED / source-complete**
+- Article 14 assembled: [`articles/14-kaariyamaagum-varaiyil-kaalai-pidi.md`](articles/14-kaariyamaagum-varaiyil-kaalai-pidi.md)
+- Scan **82 / printed p.80**: Article 14 concludes above a printed ornament; the lower page contains physical-copy accession marks and a printed `விடுதலை` advertisement.
+- Scan **83**: **VERIFIED back cover**, containing artwork, a promotional Article 12 excerpt, barcode and price; it is not Article 14 text.
+
+**All 14 articles and all 83 supplied physical scan pages are now source-archived for this edition.**
 
 ### Article 5 heading variation inside the same source
 
 The `பொருளடக்கம்` page prints **பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?**, while the Article 5 heading page itself prints **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**. Both source-visible forms are preserved rather than reconciled editorially.
+
+### Back-cover witness note
+
+The back cover reproduces a passage associated with Article 12 / printed p.70. Its own visible forms — including `எந்தப் பெண்ணாவது, தனது` and `அறி குறி?` — are preserved as a separate back-cover witness and are not silently imposed on the Article 12 body-page transcription.
 
 ## Files
 
@@ -61,8 +70,9 @@ The `பொருளடக்கம்` page prints **பரத்துவா�
 - [`indexes/contents.md`](indexes/contents.md) — printed பொருளடக்கம்
 - [`indexes/page-map.md`](indexes/page-map.md) — scan ↔ printed page/article mapping
 - [`audit.md`](audit.md) — source audit and completion gates
-- `pages/` — page-by-page archival records
-- `articles/` — assembled article readings
+- [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md) — final source-layer completion review
+- `pages/` — all 83 physical scan-page archival records
+- `articles/` — all 14 assembled article readings
 
 ## Source authority
 
