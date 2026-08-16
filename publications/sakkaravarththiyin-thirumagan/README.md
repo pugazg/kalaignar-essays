@@ -42,8 +42,8 @@ Review ledger: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLA
 Current translation status:
 
 - Tamil translation prerequisite: **PASSED**
-- English drafts complete: **3 / 14**
-- English articles verified: **3 / 14**
+- English drafts complete: **4 / 14**
+- English articles verified: **4 / 14**
 - final 14-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -51,41 +51,30 @@ Current translation status:
 
 The user has established that `ஆச்சாரியார்` refers to **C. Rajagopalachari (Rajaji)** and has chosen **`Achariyar`** as the English body transliteration. This is the publication-wide standard for Articles 1–14 whenever the Tamil source uses `ஆச்சாரியார்`. The personal name remains in translator/editorial identification notes rather than replacing Kalaignar's prose.
 
-### Article 1 — COMPLETE / VERIFIED
+### Verified English translations
 
-Tamil: **`சக்கரவர்த்தியின் திருமகன்`**  
-English: **`Chakravarthi's Son`**  
-File: [`translations/en/01-sakkaravarththiyin-thirumagan.md`](translations/en/01-sakkaravarththiyin-thirumagan.md)
+1. **`சக்கரவர்த்தியின் திருமகன்` → `Chakravarthi's Son`**
+2. **`தேகமும் உணர்வும்` → `Body and Feeling`**
+3. **`சதி நிரூபிக்கப்படுகிறது` → `The Conspiracy Is Proven`**
+4. **`காமராஜன் ஆட்கொண்ட தசரதராஜன்!` → `Dasaratha Raja in the Grip of Kama-Raja!`**
 
-### Article 2 — COMPLETE / VERIFIED
+Article 4 Tamil source blob SHA: **`9151694c1c473fd4c225aa8076d086e01931bc1e`**  
+English file: [`translations/en/04-kamarajan-aadkonda-dasaratharajan.md`](translations/en/04-kamarajan-aadkonda-dasaratharajan.md)
 
-Tamil: **`தேகமும் உணர்வும்`**  
-English: **`Body and Feeling`**  
-File: [`translations/en/02-thegamum-unarvum.md`](translations/en/02-thegamum-unarvum.md)
+Article 4 passed **T0–T5**. Its translation deliberately preserves Kalaignar's wordplay and ridicule:
 
-Article 2 established body / feeling, body of flesh, anger and passion, Bhagavan / Ishvari, and plot / conspiracy, while preserving source `(August 154)` and unmatched quotation openings.
-
-### Article 3 — COMPLETE / VERIFIED
-
-Tamil: **`சதி நிரூபிக்கப்படுகிறது`**  
-English: **`The Conspiracy Is Proven`**  
-Tamil source blob SHA: **`903dbb0a2b74bc1ffa173469bfdb3dfa6ce9b4b4`**  
-File: [`translations/en/03-sathi-nirupikkappadugirathu.md`](translations/en/03-sathi-nirupikkappadugirathu.md)
-
-Article 3 passed **T0–T5**. Important decisions include:
-
-- `ஆச்சாரியார்` / source variant `ஆச்சாரியர்` → **Achariyar**;
-- `ராஜ்ய பாரம்` → **burden of the kingdom / burden of rule** according to context;
-- `யுவராஜப் பதவி` → **office of Crown Prince**;
-- `கல்மஷம்` → **taint**, with Kalaignar's later sarcastic echo preserved;
-- `கொல்லைப்புறமாக மந்திரி சபைக்கு வந்தவர்` → **came into the Council of Ministers through the back door**;
-- the rapid questions and final contemptuous cadence remain direct, ending **`Why only us? Everyone with a brain will come to exactly that conclusion.`**
+- `காமராஜன்` → **Kama-Raja**, retaining `காமம்` (desire/lust) + `ராஜன்` (king) and the source's name-like form;
+- repeated old-age ridicule (`கிழவர்`, `கிழவன்`, `கிழவர்களே`) remains explicitly age-marked rather than softened;
+- `போகம்` → **sensual pleasure**; `பிரகிருதி வேகம்` → **physical urge**; `காம மோகம்` → **lustful infatuation**;
+- `அப்பாவி` / `அப்-பாவி` is preserved as **innocent / “Ah—sinner!”** with a clearly separated translator note;
+- `வெட்கம் - வெட்கம் - வேதனை கலந்த வெட்கம்!` remains **`shame, shame, shame mixed with pain!`**;
+- the closing **Kama-Raja / old Raja** verbal play is retained.
 
 Detailed T2–T4 provenance is in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
 
 ## Exact next activity
 
-Proceed with complete translation and review of **Article 4 — `காமராஜன் ஆட்கொண்ட தசரதராஜன்!`**. Read its whole strict-reviewed Tamil assembly before choosing the English title, then complete T1–T5 before Article 5 begins.
+Proceed with complete translation and review of **Article 5 — `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**. Read its whole strict-reviewed Tamil assembly before choosing the English title. Preserve the known source-witness distinction between the contents wording and the article-heading wording rather than silently normalising them. Complete T1–T5 before Article 6 begins.
 
 ## Files
 
