@@ -63,7 +63,9 @@ Current status:
 - Article 7 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/07-vibishanarukku-vidai-yalippom.md`](publications/sakkaravarththiyin-thirumagan/articles/07-vibishanarukku-vidai-yalippom.md)
 - Article 8 — **நாடாண்ட மன்னன் நாதியற்று செத்தான்**, scans **50–54**, printed pp. **48–52**: **5 / 5 VERIFIED / source-complete**
 - Article 8 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/08-naadaanda-mannan-naathiyatru-seththaan.md`](publications/sakkaravarththiyin-thirumagan/articles/08-naadaanda-mannan-naathiyatru-seththaan.md)
-- scan **55** / printed p. **53** directly begins Article 9 — **தந்தை மகனும் தருமம் தவறியவர்கள்!**; this is the next transcription unit.
+- Article 9 — **தந்தை மகனும் தருமம் தவறியவர்கள்!**, scans **55–60**, printed pp. **53–58**: **6 / 6 VERIFIED / source-complete**
+- Article 9 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/09-thanthai-maganum-tharumam-thavariyavargal.md`](publications/sakkaravarththiyin-thirumagan/articles/09-thanthai-maganum-tharumam-thavariyavargal.md)
+- scan **61** / printed p. **59** directly begins Article 10 — **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**; this is the next transcription unit.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
