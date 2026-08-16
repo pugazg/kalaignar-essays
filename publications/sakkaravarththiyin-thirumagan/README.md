@@ -33,8 +33,8 @@ Review ledger: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLA
 
 Current status:
 
-- English drafts complete: **11 / 14**
-- English articles T0–T5 verified: **11 / 14**
+- English drafts complete: **12 / 14**
+- English articles T0–T5 verified: **12 / 14**
 - final 14-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -55,22 +55,22 @@ The user established that `ஆச்சாரியார்` refers to **C. Raj
 9. `தந்தை மகனும் தருமம் தவறியவர்கள்!` → **Father and Son—Both Strayed from Dharma!**
 10. `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **To Rama, Who Is Said to Be Vishnu's Incarnation!**
 11. `நடப்பதெல்லாம் நாராயணன் செயலா?` → **Is Everything That Happens Narayana's Doing?**
+12. `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்` → **To Rama Who Went Chasing Maricha**
 
-Article 11 Tamil SHA: `b324e995d580ee021577b998d193d005fa6446ad`  
-English: [`translations/en/11-nadappathellam-narayanan-seyala.md`](translations/en/11-nadappathellam-narayanan-seyala.md)
+Article 12 Tamil SHA: `01aae57b137bfb3d762c4cb6a62e149bfdb78edb`  
+English: [`translations/en/12-maarisanai-thuraththi-sendra-ramanidam.md`](translations/en/12-maarisanai-thuraththi-sendra-ramanidam.md)
 
-Article 11 passed **T0–T5**. Important non-regression points:
+Article 12 passed **T0–T5**. Important non-regression points:
 
-- May **1954 / 1955** contradiction and the compact **Narayana knows... / Rama does not think...** formulation remain direct;
-- **backing orchestra**, **Chanakya**, **Brahmin leader**, **dharma and justice**, **sinful act**, source-corrected **Oh-ho!**, and **Ayyo, Lakshmana!** are retained;
-- scan 69's unmatched outer quotation is documented;
-- Janaki's insult sequence, **fourth-rate woman**, and **wife of the bearer of the conch and discus** remain unsmoothed;
-- fate argument preserves Ravana becoming **blameless**, **Fate, oh fate!**, and **God has arranged disaster in every way**;
-- physical tongue image, sarcastic **“worships”**, **bans—and forces**, source-bearing **Kaga Pattar**, source plural **the Achariyars**, and final livelihood line remain direct.
+- controlling body witness is scans **71–73 / printed pp.69–71**; scan **83** remains a separate promotional back-cover witness and does not rewrite the body;
+- `மேலுத்தரியம்` → **upper cloth**, `மேலாடை` → **upper garment**, and `அம்சம்` → **aspect**, kept distinct from `அவதாரம்` → **incarnation**;
+- scan-72 source-visible `அவனாகவே` remains unchanged in Tamil; the contextual English action is documented rather than silently correcting the source;
+- Jatayu/Ravana physical-force imagery, repeated modesty questions, **theist worthies**, **kings of the night**, prostitution/anguish imagery, **Pitiful—most pitiful!**, market-street comparison and rubbish-on-head dance remain direct;
+- source-bearing **Kakuthan** and **Ashadabhoothis** are not externally normalised.
 
 ## Exact next activity
 
-Proceed with complete translation and T0–T5 review of **Article 12 — `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`**. Keep scan 83's separate promotional Article 12 witness from overwriting the body witness.
+Proceed with complete translation and T0–T5 review of **Article 13 — `துரோகிகள் சந்திப்பு!`**. Read its whole strict-reviewed Tamil assembly before finalising the English title.
 
 ## Source authority
 
