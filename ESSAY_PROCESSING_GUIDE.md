@@ -140,3 +140,22 @@ Translation என்பது source transcription முழுமையாக 
 - unresolved body-text blocks documented ஆக இருக்க வேண்டும்;
 - assembled article page records-க்கு ஒத்திருக்க வேண்டும்;
 - silent normalization இல்லை என்பதை final review உறுதிப்படுத்த வேண்டும்.
+
+ஒரு **publication** முழுமையாக archival-complete எனக் கூறுவதற்கு முன் section 12-ல் உள்ள strict visual fidelity pass-மும் முடிந்திருக்க வேண்டும்.
+
+## 12. Final strict visual text-fidelity pass
+
+Initial page-level `verified` status மட்டும் publication release-க்கு போதாது. முழு source publication முடிந்த பிறகு ஒரு தனி **word-by-word / punctuation-by-punctuation visual fidelity pass** கட்டாயம் செய்ய வேண்டும்.
+
+இந்த pass-ல்:
+
+1. source-இன் **ஒவ்வொரு physical scan page-யும்** மீண்டும் நேரடியாகப் பார்க்க வேண்டும் — cover, front matter, contents, body, advertisements, back cover உட்பட;
+2. ஒவ்வொரு visible word, word boundary/spacing, punctuation mark, quotation mark, heading, date, number, paragraph continuation ஆகியவற்றை page record-க்கு எதிராகப் பார்க்க வேண்டும்;
+3. page records மாற்றப்பட்டால் அந்த மாற்றங்கள் article assemblies, indexes, README/audit/handover போன்ற dependent records-க்கு propagate செய்யப்பட வேண்டும்;
+4. contents heading, article heading, repeated promotional/back-cover excerpt போன்ற பல source witnesses ஒன்றுக்கொன்று மாறுபட்டால் அவற்றை தனித்தனியாக preserve செய்ய வேண்டும்; ஒன்றை மற்றொன்றால் normalize செய்யக்கூடாது;
+5. unusual-looking wording-ஐ மொழிநடை அல்லது context பார்த்து “சரி” செய்யக்கூடாது — source pixels ஆதரித்தால் அதுவே archival reading;
+6. strict pass-ல் கண்ட ஒவ்வொரு correction-க்கும் old reading → source-visible reading provenance பதிவு செய்ய வேண்டும்;
+7. publication-level fidelity report (`VISUAL_TEXT_FIDELITY_REVIEW.md` அல்லது அதற்கு இணையான file) உருவாக்க வேண்டும்;
+8. final gate-ல் physical scans checked, article assemblies rechecked, blocked/needs-review counts, unresolved fidelity discrepancies ஆகியவை தெளிவாக report செய்யப்பட வேண்டும்.
+
+Strict pass முடிந்த பிறகே publication-ஐ **visual-text-fidelity complete** எனக் குறிக்க வேண்டும்.
