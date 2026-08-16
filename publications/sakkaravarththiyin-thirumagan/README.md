@@ -33,7 +33,9 @@
 - Article 4 assembled: [`articles/04-kamarajan-aadkonda-dasaratharajan.md`](articles/04-kamarajan-aadkonda-dasaratharajan.md)
 - Article 5 — **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**: scans **30–37**, printed pages **28–35**: **8 / 8 VERIFIED / source-complete**
 - Article 5 assembled: [`articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md`](articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md)
-- Scan **38** / printed page **36** directly begins Article 6 — **இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?**. This is the next transcription unit.
+- Article 6 — **இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?**: scans **38–42**, printed pages **36–40**: **5 / 5 VERIFIED / source-complete**
+- Article 6 assembled: [`articles/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md`](articles/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md)
+- Scan **43** / printed page **41** directly begins Article 7 — **விபீஷணருக்கு விடை யளிப்போம்!**. This is the next transcription unit.
 
 ### Article 5 heading variation inside the same source
 
