@@ -13,8 +13,10 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - English translations T3 voice-reviewed: **14 / 14**
 - English translations T4 audited: **14 / 14**
 - English translations T5 verified: **14 / 14**
-- publication-level English consistency review: **not started — E6 next**
-- English release status: **OPEN**
+- publication-level English consistency review: **E6 PASSED**
+- unresolved translation questions: **0**
+- English translation: **COMPLETE**
+- English release status: **OPEN — E7 CLOSEOUT NEXT**
 
 ## Article tracker
 
@@ -35,23 +37,31 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | 13 | துரோகிகள் சந்திப்பு! | [`13-thurogigal-santhippu.md`](13-thurogigal-santhippu.md) | **verified** | **T0–T5 passed** |
 | 14 | காரியமாகும் வரையில் காலைப் பிடி ! | [`14-kaariyamaagum-varaiyil-kaalai-pidi.md`](14-kaariyamaagum-varaiyil-kaalai-pidi.md) | **verified** | **T0–T5 passed** |
 
-## Publication-wide baseline through Article 14
+## Publication-wide baseline
 
-- `ஆச்சாரியார்` → **Achariyar**; preserve explicit source-label switches such as Article 7 `இராஜாஜி` → **Rajaji**, and source plurals such as Article 11 **the Achariyars**.
+- `ஆச்சாரியார்` → **Achariyar**; Article 7 explicit `இராஜாஜி` → **Rajaji**; Article 11 source plural → **the Achariyars**.
 - Preserve commands, rhetorical questions, repetition, sarcasm, ridicule, physical imagery, source-supported wordplay and harsh formulations.
 - Do not externally identify unexplained source-specific forms unless explicitly asked.
 - Preserve meaningful source punctuation/source-witness anomalies with notes rather than silently repairing them.
+- Preserve demon / Rakshasa / asura / Deva distinctions where the Tamil source distinguishes them.
 
-Article 14 adds:
+## E6 cross-article consistency result
 
-- `காரியமாகும் வரையில் காலைப் பிடி !` → **Hold Their Feet Until Your Purpose Is Achieved!**;
-- Tamil SHA `e97314ada6b52c671742bb1526ed70acd1a26411`; scans **79–82 / printed pp.77–80**;
-- contents `காரியமாகும் வரையில் காலைப் பிடி!` and heading `காரியமாகும் வரையில் காலைப் பிடி !` remain distinct source witnesses;
-- **worship-mad people**, **sensual pleasures of the inner palace**, source-bearing **saundhayam**, quoted **rustic pleasure**, **ungrateful scoundrel** and **sensual pleasure** retain Kalaignar's force;
-- the threat against Sugriva, Lakshmana-as-storm image, Tara-beauty sarcasm and **Aryans will do anything—say anything** remain direct;
-- scan-82 strict `வர்ணிக்கிறான்`, **Sons of Chakravarthi**, and **hold the feet of scoundrels** are preserved; the lower-page *Viduthalai* advertisement is outside Article 14 body.
+**PASSED.** All 14 current English files were fetched fresh from `main` and reviewed against [`LEXICON.md`](LEXICON.md), [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md), the translation plan and the authoritative handover.
 
-See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) for detailed provenance.
+Confirmed across the complete set:
+
+- publication-wide **Achariyar**, with Article 7 **Rajaji** and Article 11 **the Achariyars** preserved;
+- recurring epic names and ideological vocabulary remain consistent;
+- title/body wordplay and echoes remain intact, especially Articles 4, 5, 8, 13 and 14;
+- all commands, rhetorical questions, repetition, insults and polemical force remain unsmoothed;
+- all source-bearing forms and documented source anomalies remain recorded;
+- all source dates, *Kalki* references and page-boundary comments remain present;
+- Article 12 scan-83 promotional witness remains separate from its body; Article 14 scan-82 *Viduthalai* advertisement remains outside its body.
+
+Two apparent spelling differences were checked against the frozen Tamil and intentionally retained: Article 6 `காகபட்டர்` → **Kakapattar**, while Article 11 `காக பட்டர்` → **Kaga Pattar**; Article 2 `ராமச்சந்திரமூர்த்தி` → **Ramachandramurti**, while Article 14 `இராமசந்திர மூர்த்தி` → **Ramachandra Murti**.
+
+**No Article 1–14 body edit was required during E6.** See [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) for the full E6 provenance and reviewed blob SHAs.
 
 ## Gate legend
 
@@ -61,7 +71,9 @@ See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.
 - **T3** — Kalaignar voice review
 - **T4** — terminology / quotation / citation / source audit
 - **T5** — translation verified
+- **E6** — publication-level cross-article English consistency review
+- **E7** — English release closeout
 
 ## Exact next activity
 
-Begin **E6 — publication-level cross-article English consistency review** across all 14 verified translations. Recheck recurring names/epithets, ideological vocabulary, source-label switches, quotations/citations, title style, tone, page comments, source-bearing forms and documented source anomalies. Do **not** declare the English publication complete until E6 passes.
+Proceed with **E7 — English release closeout**. Verify release-facing repository state, links and status documents; create/update the release-closeout record required by the workflow; close the English release gate only if no release blocker remains.
