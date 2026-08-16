@@ -16,8 +16,8 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 The user explicitly established that `ஆச்சாரியார்` in this publication refers to **C. Rajagopalachari (Rajaji)** and chose **`Achariyar`** as the English body form.
 
-- Articles **1–11** use **Achariyar** wherever the Tamil source uses `ஆச்சாரியார்`.
-- Articles **12–14** must do the same unless Kalaignar himself changes label.
+- Articles **1–12** use **Achariyar** wherever the Tamil source uses `ஆச்சாரியார்`.
+- Articles **13–14** must do the same unless Kalaignar himself changes label.
 - If the source explicitly says `இராஜாஜி`, preserve **Rajaji**; Article 7 demonstrates this rule.
 - Do not mechanically replace `ஆச்சாரியார்` with `Rajaji` in Kalaignar's body text.
 
@@ -138,6 +138,17 @@ The user explicitly established that `ஆச்சாரியார்` in this
 | `காக பட்டர்` | `Kaga Pattar` | Unexplained source-specific name; retain without outside identification. | Article 11 | source-bearing |
 | `தடை - படை` | `bans—and forces` | Preserve paired attack as closely as English allows; Tamil rhyme is not silently replaced by invented wordplay. | Article 11 | rhetorical pair |
 | `ஆச்சாரியார்களுக்கு` | `the Achariyars` | Source plural in closing polemic; do not collapse to singular Rajaji. | Article 11 | source-label plural |
+| `மேலுத்தரியம்` | `upper cloth` | Achariyar quotation about Sita tying her ornaments; keep distinct from Kalaignar's recurring `மேலாடை`. | Article 12 | established |
+| `மேலாடை` | `upper garment` | Repeated modesty/chastity argument in Article 12. | Article 12 | established |
+| `அம்சம்` | `aspect` | Achariyar's claim that suffering women are aspects of Sita; keep distinct from `அவதாரம்` → incarnation. | Article 12 | established distinction |
+| `ஆஸ்திகப் பெருமக்கள்` | `theist worthies` | Mock-elevated direct address in the Sita argument. | Article 12 | contextual epithet |
+| `இரவு ராஜாக்கள்` | `kings of the night` | Preserve source image; do not silently import an outside gloss. | Article 12 | source-bearing image |
+| `வழுக்கி விழுந்த சகோதரிகள்` | `sisters who slipped and fell` | Preserve Kalaignar's physical metaphor in the prostitution/anguish passage. | Article 12 | contextual image |
+| `காகுத்தன்` | `Kakuthan` | Source-bearing epithet/name for Rama; no external normalisation imported. | Article 12 | source-bearing |
+| `வக்காலித்துப்படி` | `take up their brief` | Reuses the legal-advocacy metaphor without adding outside explanation. | Article 12 | contextual image |
+| `மேன் மக்கள் குடிப்பிறந்த பூங்கொடிகள்` | `flowering vines born into noble families` | Preserve the floral/class image without altering the Tamil witness. | Article 12 | contextual image |
+| `நெஞ்சழுத்தம்` | `immense nerve` | Closing accusation about equating Sita with noble-born women. | Article 12 | contextual |
+| `ஆஷாடபூதிகள்` | `Ashadabhoothis` | Unexplained source-specific polemical label; retain without outside identification. | Article 12 | source-bearing |
 
 ## Article 10 contextual decisions
 
@@ -169,6 +180,21 @@ The user explicitly established that `ஆச்சாரியார்` in this
 - Fate argument keeps Ravana potentially **blameless**, **Fate, oh fate!**, and **God has arranged disaster in every way** before Achariyar's own **desire / delusion / doing what ought not to be done** accusation.
 - `நாக்கில் நரம்பின்றித்` retains the physical tongue image; closing **“worships”**, **bans—and forces**, source-bearing **Kaga Pattar**, **the Achariyars**, and **Let the livelihood go on—we shall see for how long;** remain unsmoothed.
 
+## Article 12 contextual decisions
+
+- Title `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்` → **`To Rama Who Went Chasing Maricha`**; the direct verbal construction is retained rather than recasting the title as a neutral scene description.
+- Tamil source SHA: **`01aae57b137bfb3d762c4cb6a62e149bfdb78edb`**. All three body page boundaries are retained: scans **71–73 / printed pp.69–71**.
+- Scan **83** is a separate back-cover promotional excerpt of material from printed p.70. Its visible `அறி குறி?` and `தலைகாட்டுகிறது. சொந்தக்...` forms remain independent and are not imported into the Article 12 body witness.
+- `ஆச்சாரியார்` remains **Achariyar** throughout.
+- Ravana/Jatayu sequence retains the physical verbs **clasp / grip tightly / carry forcibly** and the sarcastic **Poor thing** setup.
+- `மேலுத்தரியம்` in Achariyar's quotation → **upper cloth**; Kalaignar's recurring `மேலாடை` → **upper garment**. The repeated questions about chastity/modesty remain questions.
+- Source-visible body form `அவனாகவே` on scan 72 is not silently corrected in Tamil. The surrounding argument clearly continues to attribute the dropping of the garment to Sita; English therefore reads **she drops her upper garment down on her own**, while this source difficulty is explicitly recorded for final consistency review.
+- `அம்சம்` is **aspect** and remains distinct from `அவதாரம்` → **incarnation**, including the final Sita/Draupadi contrast.
+- `ஆஸ்திகப் பெருமக்களே` → **theist worthies**; `இரவு ராஜாக்கள்` → **kings of the night**; `வழுக்கி விழுந்த சகோதரிகள்` → **sisters who slipped and fell**.
+- The prostitution/anguish passage keeps **volcanoes of anguish with tears flooding their eyes**, and `பரிதாபம் மிகப் பரிதாபம்!` remains **Pitiful—most pitiful!**.
+- **Kakuthan** and **Ashadabhoothis** remain source-bearing; no outside epic/social identification is imported.
+- Market-street imagery, **flowering vines born into noble families**, **immense nerve**, rubbish heaped on heads and dancing, and the final **incarnations of Sita / incarnations of Draupadi** attack remain unsmoothed.
+
 ## Final consistency reminders
 
 During the publication-level gate, recheck especially:
@@ -181,4 +207,5 @@ During the publication-level gate, recheck especially:
 - Article 8 **no one to tend him / paakkai / Sayantan / tail / sacred-thread king** and scan-52 unmatched quote;
 - Article 9 **dharma / truth / atheism**, **Jambali / naathigam**, sandals-as-rule and Nehru/Governor Prakasa comparison;
 - Article 10 title/body witness distinction, **Ramayana tigers**, **shraddha feast / mesha (goat) meat / human flesh**, **all three times**, unmatched parenthesis, **rasabhasa**, **splint**, and final Aryan-culture line;
-- Article 11 **Narayana/Rama contradiction**, **backing orchestra / Chanakya / Brahmin leader**, **Oh-ho!**, Maricha/Sita quotation chain, scan-69 unmatched outer quotation, **fourth-rate woman**, physical tongue image, **Kaga Pattar**, source plural **the Achariyars**, and final livelihood line.
+- Article 11 **Narayana/Rama contradiction**, **backing orchestra / Chanakya / Brahmin leader**, **Oh-ho!**, Maricha/Sita quotation chain, scan-69 unmatched outer quotation, **fourth-rate woman**, physical tongue image, **Kaga Pattar**, source plural **the Achariyars**, and final livelihood line;
+- Article 12 **scan-83 separation**, **upper cloth / upper garment**, **aspect / incarnation**, source-visible `அவனாகவே` documentation, **theist worthies**, **kings of the night**, **Kakuthan / Ashadabhoothis**, market-street imagery and the rubbish-on-head/Sita–Draupadi ending.
