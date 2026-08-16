@@ -32,63 +32,59 @@ The original archival layer remains complete:
 
 - **83 / 83** physical page records
 - **14 / 14** article assemblies
-- **0** source-body blocked pages at the source-completion gate
-
-See [`PUBLICATION_COMPLETION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md).
+- source PDF kept outside GitHub
 
 ## Strict visual-text-fidelity review
 
-The user requested a new, stricter word-by-word visual check. This is being performed as a separate staged pass in physical scan order.
+The user requested a second, stricter word-by-word / punctuation-by-punctuation visual check in physical scan order.
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-Current strict-review progress: **24 / 83 scans complete**.
+Current strict-review progress: **32 / 83 scans complete**.
 
-### Completed batch 1 — scans 1–8
+### Completed batches
 
-- scans 1–6: **FIDELITY-PASS**
-- scan 7: **CORRECTED** — `மற்றும் உள்ள` → source-visible **`மற்றுமுள்ள`**
-- scan 8: **CORRECTED** — Article 12 contents `மார்ச்சனைத்...` → source-visible **`மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`**
+- scans **1–8**: complete
+- scans **9–16**: complete
+- scans **17–24**: **8 / 8 FIDELITY-PASS**, no new discrepancy
+- scans **25–32**: **8 / 8 FIDELITY-PASS**, no new discrepancy
 
-### Completed batch 2 — scans 9–16
+Earlier strict corrections that must not regress:
 
-- scan 9: **CORRECTED (revalidated)** — `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`; `எப்படி பெய்ப்படி`
-- scan 10: **FIDELITY-PASS**
-- scans 11–12: **CORRECTED (revalidated)** — source spacing `கல் சாசனமோ`
-- scans 13–16: **FIDELITY-PASS**
-- Article 1 assembly rechecked against the corrected page layer
+- `மற்றுமுள்ள`
+- contents `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`
+- `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`
+- `எப்படி பெய்ப்படி`
+- `கல் சாசனமோ`
 
-### Completed batch 3 — scans 17–24
+### Batch 4 closeout
 
-- scans **17–21**: **5 / 5 FIDELITY-PASS**
-- scans **22–24**: **3 / 3 FIDELITY-PASS**
-- no new transcription discrepancy found in this batch
-- Article 2, scans **16–21**, is now fully strict-rechecked against its assembly
-- Article 3 scans **22–24** agree with its assembly; scan 25 remains before Article 3 strict closeout
-- preserved anomalies include the unclosed quotations on scans 18 and 20 and the unmatched closing quotation at the end of scan 24
+- scan 25 completed Article 3; Article 3 is now fully strict-rechecked
+- scans 26–29 completed Article 4; Article 4 is now fully strict-rechecked
+- scans 30–32 of Article 5 agree with the assembly; scans 33–37 remain
+- no page or assembly correction was required
 
-Important rechecked forms in this batch include `எப்படி பெய்ப்படி`, `அவர்கட்கு`, `தையல் சீதை`, `தாம்பிரபு`, `பரதசத்ருக்கனர்`, `காடாண்டபோதும்`, `ஆச்சர்யமில்லையதான்`, `முடியைப்பற்றி`, `எதொரு`, and `வியக்தமாகத்`.
+Source-sensitive forms reconfirmed include `வாக்குச்சொல்லி`, `வாத்தியகோஷம்`, `கைகேயிக்குக்கூட`, `கவுசல்யைக்கு`, `கேகேயனுக்குத்தந்துள்ள`, `கைகேயி ஆண்மனைக்கு`, `கண்டெடுத்தும்`, `அப்-பாவி`, `இப்படி யெல்லாம்`, `கிழ ராஜனை`, and heading-page `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`.
+
+The Kamba verse on scan 32 and source punctuation such as `பெண்களும்.` were preserved without modernization or segmentation changes.
 
 ## Exact next activity
 
-Strictly review **scans 25–32** against the controlling PDF.
+Strictly review **scans 33–40** against the controlling PDF:
 
-This batch contains:
-
-- scan **25** — Article 3 `சதி நிரூபிக்கப்படுகிறது` conclusion
-- scans **26–29** — Article 4 `காமராஜன் ஆட்கொண்ட தசரதராஜன்!`
-- scans **30–32** — first three pages of Article 5
+- scans **33–37** — remainder/conclusion of Article 5
+- scans **38–40** — first three pages of Article 6 `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`
 
 For every scan:
 
-1. compare each visible word/token directly with the page record;
-2. check punctuation, quotation marks, numerals, dates, headings, word boundaries and page continuation;
+1. compare every readable word/token directly with the scan;
+2. check spacing, punctuation, quotation marks, numerals, dates, headings and page continuation;
 3. enlarge uncertain glyphs rather than infer from context;
-4. correct the page record only from scan evidence;
-5. propagate any correction into the relevant article assembly and dependent source-facing indexes/notes;
-6. record a page verdict in `VISUAL_TEXT_FIDELITY_REVIEW.md`;
-7. advance the strict-review count only after all scans 25–32 are closed.
+4. correct only from scan evidence;
+5. propagate any correction into the relevant article assembly;
+6. update the fidelity ledger and audit;
+7. advance the strict-review count only after all scans 33–40 are closed.
 
-**Do not claim 83/83 strict fidelity until the staged review actually reaches scan 83.**
+**Do not claim 83/83 strict fidelity until the staged review actually reaches scan 83 and all assemblies are rechecked.**
 
-English translation is not part of this fidelity phase unless the user explicitly requests it.
+English translation is outside this fidelity phase unless the user explicitly requests it.
