@@ -22,11 +22,11 @@ Corrections made during T2–T4, and later user-directed translation corrections
 
 ## Publication review status
 
-- articles drafted: **5 / 14**
-- articles T2 fidelity-reviewed: **5 / 14**
-- articles T3 voice-reviewed: **5 / 14**
-- articles T4 audited: **5 / 14**
-- articles T5 verified: **5 / 14**
+- articles drafted: **6 / 14**
+- articles T2 fidelity-reviewed: **6 / 14**
+- articles T3 voice-reviewed: **6 / 14**
+- articles T4 audited: **6 / 14**
+- articles T5 verified: **6 / 14**
 - publication-level cross-article review: **not started**
 - unresolved translation questions: **0**
 
@@ -86,70 +86,73 @@ Key review decisions: title and closing `காமராஜன்` → **Kama-Ra
 - source Tamil blob SHA: **`f0b527ed76e10072c5875f0998add33cf09e6647`**
 - English file: `05-paraththuvaja-aasramama-paris-nagarathu-para.md`
 - English title: **`Bharadvaja's Ashram—or a Paris 'Bar'?`**
+- T0–T5: **passed / verified**
+
+Key review decisions: article-heading and contents-page witnesses remain distinct; **Bharadvaja / Bar** title play retained; all eight page comments represented; the opening Bharata quotation was corrected in T2; first Kambar verse tightened from `hidden beauty` to **hidden parts**; scan-33 unclosed Achariyar quotation documented instead of repaired; `போடுகிறவன் போட்டாலும்` retained closely; standalone scan-36 `—Achariyar.` restored; both Kambar passages translated only from the Tamil witness plus Kalaignar's prose gloss; ashram-feast ridicule, intoxication imagery and final sweet/bitter rhetoric retained.
+
+### Article 6 — இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?
+
+- Tamil source: `../../articles/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md`
+- source Tamil blob SHA: **`07ae8741f3b06fa9208a6478ebabea87d53a93f5`**
+- English file: `06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md`
+- English title: **`Why Did Rama Go to the Forest? A Rishi's Curse? Kaikeyi's Anger?`**
 - T0: **passed** — current strict-reviewed Tamil assembly confirmed before drafting
-- T1: **passed** — complete article translated through scans **30–37 / printed pp.28–35**
+- T1: **passed** — complete article translated through scans **38–42 / printed pp.36–40**
 - T2: **passed** — paragraph-by-paragraph bilingual completeness/fidelity review completed
-- T3: **passed** — Kalaignar-language, ridicule, refrain and wordplay review completed
-- T4: **passed** — terminology, two Kambar verse passages, quotations, source-witness title distinction and page-boundary comments audited
+- T3: **passed** — Kalaignar-language, sarcasm, repetition, wordplay and polemical-image review completed
+- T4: **passed** — terminology, quotations, source anomaly, names, publication reference and page-boundary comments audited
 - T5: **verified**
 
 #### T1/T2 decisions and corrections
 
-- All eight source page-boundary comments are represented: scans **30, 31, 32, 33, 34, 35, 36, 37**.
-- The article-heading witness `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?` and the contents-page witness `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?` remain explicitly distinguished in the translator/source note. The Tamil layer is not normalised.
-- English title → **`Bharadvaja's Ashram—or a Paris 'Bar'?`**. `‘பாரா’?` is treated as the source's English-`bar` + Tamil-question wordplay; the English keeps **'Bar'?** rather than replacing it with an explanatory paraphrase.
-- T2 corrected the opening Bharata quotation. The draft had made Bharata appear to ask of himself, `How has Bharata ... come to this?`; the verified version follows the Tamil syntax more closely: **`Bharata, who had received purity of nature as an inborn possession, had come to such a state; thinking of Rama, he...`**.
-- The first Kambar boat verse was tightened from draft `hidden beauty` to **`their hidden parts showed outside`**, following Kalaignar's own prose explanation rather than introducing a beautifying euphemism.
-- The scan-33 Achariyar quotation was corrected from an editorially closed/elliptical draft to the source-supported **unclosed quotation**. `ஆனால் கம்பர் பாடியிருப்பது, வால்மீகியைப் பற்றித்தான்` is rendered **`But what Kambar has sung follows Valmiki.`**, and a source comment records that no visible closing quotation mark appears before Kalaignar resumes his own prose.
-- The scan-34 idiom `போடுகிறவன் போட்டாலும்` is retained closely as **`Even if the one serving serves`** rather than a smoother but less literal `even if the host lays it out`.
-- The standalone scan-36 source `— ஆச்சாரியார்.` is restored as **`—Achariyar.`**; it is not omitted merely because its placement is unusual.
-- No prose paragraph, rhetorical refrain, enumerated feast item, Kambar verse, explanatory gloss, source anomaly or ornament was intentionally omitted.
+- All five source page-boundary comments are represented: scans **38, 39, 40, 41, 42**.
+- Title `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?` → **`Why Did Rama Go to the Forest? A Rishi's Curse? Kaikeyi's Anger?`**, retaining the rapid causal questions rather than converting the title into an explanatory paraphrase.
+- Publication-wide `ஆச்சாரியார்` → **Achariyar** is applied throughout.
+- The source-specific `மூலி அலங்காரி` is retained as **Mooli-Alangari** because the article does not explain the reference; the translation does not invent an identification from outside the source.
+- The source coinage `பிராமணவம்பர்` is rendered **Brahmin Vambar**, preserving Kalaignar's immediate sound-play `வால்மீகியோ? ... கம்பரோ? ... பிராமணவம்பரோ?` rather than flattening it into a neutral insult.
+- The opening draft wording `join the conspiracy` was tightened to **`conspire and have himself crowned`**, staying closer to `சதிசெய்து முடிசூட்டிக் கொள்ள`.
+- In Kaikeyi's imagined speech, final draft `intrigue will not triumph` was corrected to **`the plot will not triumph`**, preserving the established `சூழ்ச்சி` → **plot** distinction from explicit `சதி` → **conspiracy**.
+- Kaikeyi's sacrificed youth remains a physical image: **`place the very bloom of her youth upon the old man's sacrificial altar`**.
+- Sita's horoscope language `வனவாசப் பிராப்தி` is kept as **`destined for forest exile`**, and `ஜாதக விசேஷம்` as **`special feature of Sita's horoscope`**, so Kalaignar's sequence of competing causes remains visible.
+- The Tamil witness's mixed quote marks around `மூதேவி அடி எடுத்து வைத்த நேரம் அப்படி!` are explicitly documented in a source comment rather than silently treated as regular source punctuation.
+- No Tamil paragraph, rhetorical question sequence, repeated phrase, quotation, named actor or source page boundary was intentionally omitted.
 
 #### T3 Kalaignar-voice / wordplay decisions
 
-- The opening refrain and its near-repeat at the close retain the clipped question rhythm: **`An ashram—and Apsaras there?`**, **`A sage's camp—and amorous revelry there?`**, **`faces swollen from kisses?`**, **`pleasure beyond all bounds?`**.
-- `அனலிடைப் புழு` remains **`a worm in fire`**; the physical image is not reduced to generic sorrow.
-- Kalaignar's mockery of Kambar's boat scene remains direct: **`The whole scene is a scene of grief! But Kambar's eyes—what scene do they choose to photograph!`** followed by the uncovered-body / watching-retinue lines.
-- `அயோத்தியின் நாகரிகமே நாகரிகம்!` remains **`What civilization Ayodhya had—civilization indeed!`**.
-- `கதம்ப ராமன்` → **motley Rama** and `காலட்சேபம்` → **religious discourses**, retaining the devotional polemical frame.
-- `சேற்றில் மாட்டிக்கொண்டு திண்டாடுவார்கள்` stays physical as **`stuck in the mud and floundering`**.
-- The ashram-feast ridicule keeps the modern hotel comparison, the American-government comparison, the **Ah! Ah! Ah!** repetition, the four-item lexical pile-up, and `Alas! Why are we not Bharata too!` without polite softening.
-- `ஒவ்வொரு எழுத்தும் போதையாக இருக்கும்` remains **`every letter would be intoxicating`**.
-- `வேதியப் பெருங்கிழவர்` remains **`grand old Vedic man`**, preserving the age-marked insult rather than neutralising it.
-- The ending retains Kalaignar's taste metaphor: **`Why does what tastes sweet now appear bitter then?`** and preserves **lord of the Brahmin clan** for `பார்ப்பன குலமகிபர்`.
+- Kaikeyi's defence remains confrontational rather than academic: **`What mother would not seethe on hearing that Rama too had agreed to deceive her son!`**
+- The `வால்மீகி / கம்பர் / பிராமணவம்பர்` sequence remains a three-beat jab: **`Valmiki? Or Kambar? Or this Brahmin Vambar? No!`**
+- Kalaignar's inversion of the exile scene remains direct: **`Ayodhya for Bharata—the forest for Rama`** and **`a scene of joy in which the schemers were brought down`**, rather than being softened into neutral plot summary.
+- The hostile Hanuman comparison remains explicit: **`many Hanumans who betray their own people to the enemy—people like Achariyar`**.
+- Sita's love is not politely idealised; the source `களங்கம்` remains **blemish**, and the self-interest argument remains direct.
+- The causal hammering is preserved: **Sita's horoscope? the rishi's curse? Kaikeyi's anger? the power of fate?**
+- Article 1's physical `சப்பைக் கட்டு` choice is deliberately reused for `பழமைக்கு சப்பைக் கட்டு போடும்` as **`fastening a splint onto the old order`**.
+- The closing joke depends on the source's apparently redundant `காலால் நடந்து`; English therefore keeps **`walk on their feet`**, then repeats **`On their feet!`** instead of smoothing it away.
+- `ஆரியக்காவல் படைகள்` remains **Aryan guard forces**, `வக்காலத்து வாங்கி` remains **take up the brief**, and the final colloquial strike remains **`this is the genius's literature, ayya, literature!`**.
 
 #### T4 terminology / quotation / source audit
 
 Confirmed against the Tamil assembly:
 
-- publication-wide `ஆச்சாரியார்` → **Achariyar** throughout;
-- Bharata, Guha, Rama, Lakshmana, Vasishta, Valmiki, Kambar, Tulsidas, Bharadvaja, Yama, Varuna, Agni, Kubera, Rambha, Urvashi retained consistently;
-- `ஆஸ்ரமம்` → **ashram**; `அப்சரஸ்கள்` → **Apsaras**; `கந்தர்வ சங்கீதம்` → **Gandharva music**;
-- source `கொத்தவாலை கொழுமண்டபம்` conservatively transliterated **Kothavalai Kozhumandapam** rather than externally normalised;
-- first Kambar verse translated only to the sense supported by Kalaignar's own explanation;
-- second Kambar verse likewise translated together with Kalaignar's prose gloss, with no external English version imported;
-- scan-33 unmatched opening quotation explicitly documented;
-- the source-heading / contents-page title distinction explicitly documented;
-- opening/closing refrain and final ornament retained.
+- names/labels: Rama, Bharata, Kaikeyi, Dasaratha, Kekaya, Valmiki, Kambar, Achariyar, Hanuman, Sita, Lakshmana, Mithila, Lakshmi, Mahalakshmi, Moodevi, Kakapattar;
+- `சூழ்ச்சி` / `சதி` remain **plot / conspiracy**;
+- `காட்டேகுதல்` / `வனவாசம்` handled as **go to the forest / forest exile** according to rhetorical versus condition context;
+- `ரிஷியின் சாபம்` → **rishi's curse**; `விதியின் வலிமை` → **power of fate**;
+- `மூலி அலங்காரி` and `பிராமணவம்பர்` retained as source-bearing forms with explicit translator/source explanation rather than external normalisation;
+- source 19 September *Kalki* reference retained;
+- mixed quotation-mark anomaly around the Moodevi phrase documented;
+- `சுதேசமித்திரன்` conservatively transliterated **Sudesamitran** rather than externally normalised;
+- no external English version of any quoted source was imported.
 
-#### Article 5 unresolved items
+#### Article 6 unresolved items
 
-**None.** Article 5 is verified. The exact English handling of **Bharadvaja / Bar**, both Kambar sense-translations, and the source-specific `Kothavalai Kozhumandapam` transliteration must be rechecked during the final publication consistency gate, but there is no unresolved meaning-level blocker.
-
-### Article 6 — இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?
-
-- Tamil source: `../../articles/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md`
-- source Tamil blob SHA: pending T0
-- T0–T5: `not-started`
-- corrections / decisions: apply established **Achariyar** rule and Article 1–5 lexicon where the source supports it
-- unresolved: none yet
+**None.** Article 6 is verified. The final publication consistency gate should recheck the explanatory restraint around **Mooli-Alangari / Brahmin Vambar**, the reused **splint** image, and the deliberately repetitive **walk on their feet / On their feet!** closing.
 
 ### Article 7 — விபீஷணருக்கு விடை யளிப்போம்!
 
 - Tamil source: `../../articles/07-vibishanarukku-vidai-yalippom.md`
 - source Tamil blob SHA: pending T0
 - T0–T5: `not-started`
-- corrections / decisions: none yet
+- corrections / decisions: apply established **Achariyar** and Article 1–6 lexicon where the source supports it
 - unresolved: none yet
 
 ### Article 8 — நாடாண்ட மன்னன் நாதியற்று செத்தான்
@@ -212,6 +215,6 @@ Confirmed against the Tamil assembly:
 
 After all 14 articles are T5 verified, perform a complete cross-article review for recurring terminology, epithets, proper names, quotations, citations, rhetorical imperatives/questions, title style, source-witness notes, verse handling and accidental tone-softening.
 
-The publication-wide `ஆச்சாரியார்` → **`Achariyar`** choice must be checked across every translated article. Article 4's **Kama-Raja / Raja** and `அப்பாவி` / `அப்-பாவி` wordplay, and Article 5's **Bharadvaja / Bar** title play plus two Kambar sense-translations, must also be rechecked for consistency and explanatory restraint.
+The publication-wide `ஆச்சாரியார்` → **`Achariyar`** choice must be checked across every translated article. Article 4's **Kama-Raja / Raja** and `அப்பாவி` / `அப்-பாவி` wordplay, Article 5's **Bharadvaja / Bar** title play plus two Kambar sense-translations, and Article 6's **Mooli-Alangari / Brahmin Vambar / splint / walk-on-their-feet** handling must also be rechecked for consistency and explanatory restraint.
 
 Do not declare the English publication complete before that gate passes.
