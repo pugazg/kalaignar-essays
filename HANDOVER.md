@@ -36,43 +36,28 @@ The original archival layer remains complete:
 
 ## Strict visual-text-fidelity review
 
-The user requested a second, stricter word-by-word / punctuation-by-punctuation visual check in physical scan order.
-
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-Current strict-review progress: **48 / 83 scans complete**.
+Current strict-review progress: **56 / 83 scans complete**.
 
-### Completed batches
+### Batch 7 closeout — scans 49–56
 
-- scans **1–8**: complete
-- scans **9–16**: complete
-- scans **17–24**: complete
-- scans **25–32**: complete
-- scans **33–40**: complete
-- scans **41–48**: **8 / 8 COMPLETE**
-
-### Batch 6 closeout
-
-Three new fidelity discrepancies were found and corrected from source pixels:
-
-1. **scan 41 / printed p.39:** preserve source mixed quotation `‘மூதேவி அடி எடுத்து வைத்த நேரம் அப்படி!”` rather than normalized single-quote closure; `என்பதாகுவது` remains revalidated.
-2. **scan 42 / printed p.40:** `சாயைக் கட்டு போடும்` → source-visible **`சப்பைக் கட்டு போடும்`**.
-3. **scan 44 / printed p.42:** restore source punctuation spacing **`தன் இனம்,தன் சமுதாயம்,அந்த சமுதாயத்தின்`** rather than adding spaces after the first two commas.
-
-Other batch-6 pages passed word-by-word. Reconfirmed forms include `விபீஷணப்பட்டத்தை`, `வாலேந்திகள்`, `விண்ணுறையும்`, `அறுபதினாயிரம்`, `இனித்தவாயனும்`, `விஷ்ணு அவதார மென்றீர்கள்`, `கற்பு சம்மாக்கப்பட்டு`, `அய்வருக்கும்`, `பொன்னான(?)`, `ஸ்ரீராமுலு`, and `ஆர்குஸிஸ்`.
-
-- Article 6, scans **38–42**, is now fully strict-rechecked and carries the corrections above.
-- Article 7 scans **43–48** agree with its assembly after the scan-44 spacing correction.
-- scan 49 remains Article 7's final strict-review page.
-- scan 46's source-visible unclosed quotation after `ராமாயணம்.` remains unrepaired.
+- scan 49 corrected punctuation spacing to source-visible **`வேறு வேறானவை !`** and propagated it to Article 7
+- scan 50 corrected opening comma spacing to source-visible **`ராமர்,லட்சுமணர்,சீதை`** and propagated it to Article 8
+- scan 50 revalidated **`தூய்மை யுடையதாயிருக்கிறது`**
+- scan 51 revalidated **`கவுசல்யா தேவி`**
+- scans 52–56 required no new text correction
+- Article 7 is now fully strict-rechecked across scans **43–49**
+- Article 8 is now fully strict-rechecked across scans **50–54**
+- Article 9 scans **55–56** agree with its assembly; scans 57–60 remain
+- no unresolved pixel-review item remains
 
 ## Exact next activity
 
-Strictly review **scans 49–56** against the controlling PDF:
+Strictly review **scans 57–64** against the controlling PDF:
 
-- scan **49** — conclude Article 7 `விபீஷணருக்கு விடை யளிப்போம்!`
-- scans **50–54** — all of Article 8 `நாடாண்ட மன்னன் நாதியற்று செத்தான்`
-- scans **55–56** — first two pages of Article 9 `தந்தை மகனும் தருமம் தவறியவர்கள்!`
+- scans **57–60** — conclude Article 9 `தந்தை மகனும் தருமம் தவறியவர்கள்!`
+- scans **61–64** — all of Article 10 `விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!`
 
 For every scan:
 
@@ -82,8 +67,6 @@ For every scan:
 4. correct only from scan evidence;
 5. propagate any correction into the relevant article assembly;
 6. update the fidelity ledger and audit;
-7. advance the strict-review count only after all scans 49–56 are closed.
+7. advance the strict-review count only after all scans 57–64 are closed.
 
 **Do not claim 83/83 strict fidelity until the staged review actually reaches scan 83 and all assemblies are rechecked.**
-
-English translation is outside this fidelity phase unless the user explicitly requests it.
