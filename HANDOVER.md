@@ -38,26 +38,31 @@ The original archival layer remains complete:
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-Current strict-review progress: **56 / 83 scans complete**.
+Current strict-review progress: **64 / 83 scans complete**.
 
-### Batch 7 closeout — scans 49–56
+### Batch 8 closeout — scans 57–64
 
-- scan 49 corrected punctuation spacing to source-visible **`வேறு வேறானவை !`** and propagated it to Article 7
-- scan 50 corrected opening comma spacing to source-visible **`ராமர்,லட்சுமணர்,சீதை`** and propagated it to Article 8
-- scan 50 revalidated **`தூய்மை யுடையதாயிருக்கிறது`**
-- scan 51 revalidated **`கவுசல்யா தேவி`**
-- scans 52–56 required no new text correction
-- Article 7 is now fully strict-rechecked across scans **43–49**
-- Article 8 is now fully strict-rechecked across scans **50–54**
-- Article 9 scans **55–56** agree with its assembly; scans 57–60 remain
+- scans 57–58: fidelity-pass
+- scan 59 corrected:
+  - `நந்திக் கிராமத்திலே இருந்து` → **`நந்திக் கிராமத்திலே யிருந்து`**
+  - `சொல்லையும் - சத்தியத்தையும்` → **`சொல்லையும் -சத்தியத்தையும்`**
+- scan 60: fidelity-pass and Article 9 close
+- scan 61 independently confirms the source heading **`விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`**; this correction was already present when the strict batch reopened
+- scan 62: fidelity-pass
+- scan 63 corrected:
+  - `44 ஆவது` → **`44ஆவது`**
+  - `அப்படிப்பட்டவர்` → **`அப்பேர்ப்பட்டவர்`**
+- scan 64: fidelity-pass and Article 10 close
+- Article 9 is now fully strict-rechecked across scans **55–60**
+- Article 10 is now fully strict-rechecked across scans **61–64**
 - no unresolved pixel-review item remains
 
 ## Exact next activity
 
-Strictly review **scans 57–64** against the controlling PDF:
+Strictly review **scans 65–72** against the controlling PDF:
 
-- scans **57–60** — conclude Article 9 `தந்தை மகனும் தருமம் தவறியவர்கள்!`
-- scans **61–64** — all of Article 10 `விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!`
+- scans **65–70** — Article 11 `நடப்பதெல்லாம் நாராயணன் செயலா?`
+- scans **71–72** — first two pages of Article 12 `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`
 
 For every scan:
 
@@ -67,6 +72,6 @@ For every scan:
 4. correct only from scan evidence;
 5. propagate any correction into the relevant article assembly;
 6. update the fidelity ledger and audit;
-7. advance the strict-review count only after all scans 57–64 are closed.
+7. advance the strict-review count only after all scans 65–72 are closed.
 
 **Do not claim 83/83 strict fidelity until the staged review actually reaches scan 83 and all assemblies are rechecked.**
