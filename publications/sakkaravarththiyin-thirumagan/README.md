@@ -53,7 +53,9 @@ Tamil: **`சக்கரவர்த்தியின் திருமகன
 English: **`Chakravarthi's Son`**  
 File: [`translations/en/01-sakkaravarththiyin-thirumagan.md`](translations/en/01-sakkaravarththiyin-thirumagan.md)
 
-Article 1 established the initial translation baseline, including **Acharya** for `ஆச்சாரியார்` while identifying the referent C. Rajagopalachari (Rajaji) outside Kalaignar's body, **Chakravarthi** where the Rajagopalachari/Chakravarthi wordplay is active, and the publication's direct, polemical voice conventions.
+Article 1 remains verified. After its initial T0–T5 review, the user explicitly changed the transliteration of `ஆச்சாரியார்` in **Article 1** from **`Acharya`** to **`Achariyar`**. Every Article 1 occurrence and the translator identification note have been updated accordingly. The referent remains **C. Rajagopalachari (Rajaji)**.
+
+Other Article 1 baseline decisions remain unchanged: **Chakravarthi** where the Rajagopalachari/Chakravarthi wordplay is active, Aryan/Dravidian terminology retained, source-distinct demons/Rakshasas/Devas retained, and commands, repetitions, sarcasm and harsh formulations preserved.
 
 ### Article 2 — COMPLETE / VERIFIED
 
@@ -62,7 +64,7 @@ English: **`Body and Feeling`**
 Tamil source blob SHA: **`bb9131b7856b528e527136be8f4f60dca2999850`**  
 File: [`translations/en/02-thegamum-unarvum.md`](translations/en/02-thegamum-unarvum.md)
 
-Article 2 passed **T0–T5**.
+Article 2 passed **T0–T5** and currently still uses the earlier spelling **`Acharya`**, because the user's latest spelling instruction named Article 1 specifically. This difference is intentionally documented and will not be silently harmonised.
 
 Important Article 2 decisions:
 
@@ -71,17 +73,14 @@ Important Article 2 decisions:
 - `கோபதாபம்` → **anger and passion**, retaining Kalaignar's bodily/sexual argumentative undertone;
 - `பகவான்` / `ஈஸ்வரி` → **Bhagavan / Ishvari**;
 - `சூழ்ச்சி` / `சதி` → **plot / conspiracy** where Kalaignar distinguishes the two;
-- `பிராமணஜோதி`, `பார்ப்பனகுல மகிபர்`, `வேதியப் பெருந்தகையார்` remain visibly polemical rather than being neutralised;
 - source-visible `(ஆகஸ்டு 154)` is preserved as **`(August 154)`** with a source note;
-- unmatched quotation openings on scans **18** and **20** are documented, not silently repaired;
-- the repeated `இனி` argument remains **now / from now on**;
-- the final accusation remains direct: **`And Rama too is an accomplice—that is the truth!`**
+- unmatched quotation openings on scans **18** and **20** are documented, not silently repaired.
 
-Detailed T2–T4 provenance is in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
+Detailed T2–T4 and post-T5 provenance is in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
 
 ## Exact next activity
 
-Proceed with complete translation and review of **Article 3 — `சதி நிரூபிக்கப்படுகிறது`**. Fetch its current strict-reviewed Tamil assembly, record the blob SHA, read the whole article before choosing its English title, then complete T1–T5 before Article 4 begins.
+Proceed with complete translation and review of **Article 3 — `சதி நிரூபிக்கப்படுகிறது`**. Before translating `ஆச்சாரியார்`, follow the latest user direction and do not assume the earlier `Acharya` spelling is publication-wide.
 
 ## Files
 
