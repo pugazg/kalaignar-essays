@@ -40,6 +40,6 @@ transcription_method: "direct visual comparison with source scan"
 - தனி navigation table: [`../indexes/contents.md`](../indexes/contents.md).
 - Printed starting page numbers source-இல் இருப்பதுபோல பதிவு செய்யப்பட்டுள்ளன.
 - Word-by-word fidelity pass corrected item 12 from the earlier erroneous `மார்ச்சனைத்` to source-visible **`மாரீசனைத்`**.
-- Item 14 source-visible contents form is **`காரியமாகும் வரையில் காலைப் பிடி!`**; this differs from the Article 14 heading-page form `காரியமாகும் வரையில் காலை பிடி!` and is intentionally preserved as a separate witness.
+- Item 14 source-visible contents form is **`காரியமாகும் வரையில் காலைப் பிடி!`**; this differs only in punctuation spacing from the Article 14 heading-page form **`காரியமாகும் வரையில் காலைப் பிடி !`** and is intentionally preserved as a separate witness.
 
 <!-- மூல ஸ்கேன் பக்கம்: 8; அச்சுப் பக்கம்: — -->
