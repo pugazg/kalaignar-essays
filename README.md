@@ -50,9 +50,9 @@ Verified translations so far:
 1. **`சக்கரவர்த்தியின் திருமகன்` → `Chakravarthi's Son`**
 2. **`தேகமும் உணர்வும்` → `Body and Feeling`**
 
-Article 1 established the core English voice baseline: **Acharya** for `ஆச்சாரியார்` while identifying the referent C. Rajagopalachari (Rajaji) outside Kalaignar's body; **Chakravarthi** where the Rajagopalachari/Chakravarthi wordplay is active; Aryan/Dravidian terminology retained; commands, repetitions, sarcasm and harsh formulations preserved.
+Article 1 now uses **`Achariyar`** for `ஆச்சாரியார்`, following the user's explicit post-verification spelling preference. The referent remains **C. Rajagopalachari (Rajaji)**, identified outside Kalaignar's body. Article 1 continues to retain **Chakravarthi** where the Rajagopalachari/Chakravarthi wordplay is active, Aryan/Dravidian terminology, and Kalaignar's commands, repetition, sarcasm and harsh polemical force.
 
-Article 2 extends the baseline with **body / feeling**, **body of flesh**, **anger and passion**, **Bhagavan / Ishvari**, and **plot / conspiracy** for source-distinct `சூழ்ச்சி` / `சதி`. Its caste-polemical epithets remain polemical, `(ஆகஸ்டு 154)` remains source-visible as `(August 154)`, and unmatched quotation openings are documented rather than repaired.
+Article 2 remains verified with the earlier **`Acharya`** spelling because the latest user instruction named Article 1 specifically. That difference is documented and will not be silently harmonised. Article 2 also extends the baseline with **body / feeling**, **body of flesh**, **anger and passion**, **Bhagavan / Ishvari**, and **plot / conspiracy** for source-distinct `சூழ்ச்சி` / `சதி`.
 
 English files:
 
