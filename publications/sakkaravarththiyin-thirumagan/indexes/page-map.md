@@ -62,7 +62,7 @@
 | 58 | 56 | Article 9 | verified |
 | 59 | 57 | Article 9 | verified |
 | 60 | 58 | Article 9 conclusion | verified |
-| 61 | 59 | Article 10 — விஷ்ணு அவதாரம் என்பதும் ராமனிடம்! begins | verified |
+| 61 | 59 | Article 10 — விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்! begins | verified |
 | 62 | 60 | Article 10 | verified |
 | 63 | 61 | Article 10 | verified |
 | 64 | 62 | Article 10 conclusion | verified |
@@ -97,15 +97,25 @@
 - Article 7 — **விபீஷணருக்கு விடை யளிப்போம்!**: scans **43–49**, printed pp. **41–47**.
 - Article 8 — **நாடாண்ட மன்னன் நாதியற்று செத்தான்**: scans **50–54**, printed pp. **48–52**.
 - Article 9 — **தந்தை மகனும் தருமம் தவறியவர்கள்!**: scans **55–60**, printed pp. **53–58**.
-- Article 10 — **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**: scans **61–64**, printed pp. **59–62**.
+- Article 10 — **விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!**: scans **61–64**, printed pp. **59–62**.
 - Article 11 — **நடப்பதெல்லாம் நாராயணன் செயலா?**: scans **65–70**, printed pp. **63–68**.
 - Article 12 — **மாரீசனைத் துரத்திச் சென்ற ராமனிடம்**: scans **71–73**, printed pp. **69–71**.
 - Article 13 — **துரோகிகள் சந்திப்பு!**: scans **74–78**, printed pp. **72–76**.
 - Article 14 — **காரியமாகும் வரையில் காலை பிடி!**: scans **79–82**, printed pp. **77–80**. The printed ornament on scan 82 directly closes the article; material beneath it is not article text.
 
-### Article 5 heading witness note
+## Source-witness notes
 
-The printed contents (scan 8) records Article 5 as **`பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`**. The actual Article 5 heading on scan 30 / printed p.28 visibly reads **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**. Both source witnesses are preserved in their own layers; one is not silently normalized to the other.
+### Article 5 title
+
+The printed contents (scan 8) records **`பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`**. The actual Article 5 heading on scan 30 / printed p.28 reads **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**. Both witnesses remain separate.
+
+### Article 10 title / body phrase
+
+The printed contents and scan-61 heading both read **`விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`**. Scan 63 separately contains the body phrase **`விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`**. The body phrase is not used to rewrite the heading.
+
+### Article 14 title
+
+The printed contents reads **`காரியமாகும் வரையில் காலைப் பிடி!`**, while the actual scan-79 heading reads **`காரியமாகும் வரையில் காலை பிடி!`**. Both forms are preserved.
 
 ## Post-text / physical-page classification
 
@@ -115,4 +125,4 @@ The printed contents (scan 8) records Article 5 as **`பரத்துவா�
 
 ## Publication page-completion status
 
-All supplied scan pages **1–83** now have verified page records. No source scan remains unclassified or unarchived.
+All supplied scan pages **1–83** have verified page records and have passed the later strict word-by-word / punctuation-by-punctuation visual fidelity review. No source scan remains unclassified or unarchived. See [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
