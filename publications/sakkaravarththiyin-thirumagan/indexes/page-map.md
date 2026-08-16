@@ -107,22 +107,25 @@
 
 ### Article 5 title
 
-The printed contents (scan 8) records **`பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`**. The actual Article 5 heading on scan 30 / printed p.28 reads **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**. Both witnesses remain separate.
+Contents: **`பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`**.  
+Heading: **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**.
 
 ### Article 10 title / body phrase
 
-The printed contents and scan-61 heading both read **`விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`**. Scan 63 separately contains the body phrase **`விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`**. The body phrase is not used to rewrite the heading.
+Contents and heading: **`விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`**.  
+Scan-63 body phrase: **`விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`**.
 
 ### Article 14 title
 
-The printed contents reads **`காரியமாகும் வரையில் காலைப் பிடி!`**, while the actual scan-79 heading reads **`காரியமாகும் வரையில் காலைப் பிடி !`**. Both witnesses are preserved separately; the only title-witness difference is the source-visible spacing before the exclamation mark on the heading page.
+Contents: **`காரியமாகும் வரையில் காலைப் பிடி!`**.  
+Heading: **`காரியமாகும் வரையில் காலைப் பிடி !`**.
 
 ## Post-text / physical-page classification
 
-- Scan **82 / printed p.80** is a mixed page: Article 14 concludes at the printed ornament; below it are physical-copy accession marks and a printed `விடுதலை` advertisement.
-- Scan **83** is the physical back cover, not Article 14. It contains artwork, a promotional excerpt associated with Article 12 / printed p.70, barcode `9997720145467`, and `நன்கொடை: ரூ.50/-`.
-- The back-cover excerpt is preserved as its own witness rather than silently reconciled with the Article 12 body-page reading.
+- Scan **82 / printed p.80** is mixed: Article 14 concludes at the ornament; below it are physical-copy accession marks and a printed `விடுதலை` advertisement. Final strict inspection corrected the last article paragraph to **`என்று வர்ணிக்கிறான் சுக்ரீவனைப் பற்றி!`**.
+- Scan **83** is the physical back cover, not Article 14. It contains artwork, a promotional Article 12 excerpt, barcode `9997720145467`, and `நன்கொடை: ரூ.50/-`.
+- The back-cover excerpt remains its own source witness and is not silently reconciled with Article 12 body text.
 
 ## Publication page-completion status
 
-All supplied scan pages **1–83** have source-layer page records and classifications. The separate strict word-by-word / punctuation-by-punctuation fidelity review is currently complete through **scan 80 / 83**. Scans **81–83** remain pending in that stricter pass. See [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
+All supplied scans **1–83** have source-layer page records/classifications and have completed the later strict word-by-word / punctuation-by-punctuation visual fidelity review. All **14 / 14** article assemblies were rechecked after corrections. **0 unresolved fidelity items remain.** See [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
