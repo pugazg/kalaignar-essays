@@ -8,13 +8,13 @@ source_tamil_blob_sha: "f0b527ed76e10072c5875f0998add33cf09e6647"
 source_scan_pages: "30-37"
 source_printed_pages: "28-35"
 language: "en"
-translation_status: "draft"
+translation_status: "verified"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
 # Bharadvaja's Ashram—or a Paris 'Bar'?
 
-> **Translator identification/source note — not part of Kalaignar's text:** As established for this publication, Kalaignar's recurring `ஆச்சாரியார்` refers to C. Rajagopalachari (Rajaji); the translated body preserves his chosen label as **Achariyar**. The article-heading witness reads `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`, while the contents-page witness reads `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`. The English title follows the article heading's sense without altering either Tamil witness. `‘பாரா’?` plays on the English loanword **bar** with the Tamil interrogative ending; the English title therefore preserves **'Bar'?**. The two Kambar verses below are translated closely from the Tamil witness and Kalaignar's own accompanying explanation, not substituted from an external English version.
+> **Translator identification/source note — not part of Kalaignar's text:** As established for this publication, Kalaignar's recurring `ஆச்சாரியார்` refers to C. Rajagopalachari (Rajaji); the translated body preserves his chosen label as **Achariyar**. The article-heading witness reads `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`, while the contents-page witness reads `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`. The English title follows the article heading's sense without altering either Tamil witness. `‘பாரா’?` plays on the English loanword **bar** with the Tamil interrogative ending; the English title therefore preserves **'Bar'?**. The two Kambar verses below are translated closely from the Tamil witness together with Kalaignar's own accompanying explanation, not substituted from an external English version.
 
 <!-- Tamil source: scan 30 / printed 28 -->
 
@@ -38,11 +38,11 @@ Bharata returned from his grandfather's house. He heard of his father's death an
 
 **Look at how Achariyar describes Bharata's condition.**
 
-“After meeting Guha, Bharata's grief increased beyond what it had been before. Thinking of Rama—‘How has Bharata, who received purity of nature as his birth-wealth, come to this?’—he sighed deeply,
+“After meeting Guha, Bharata's grief increased beyond what it had been before. Bharata, who had received purity of nature as an inborn possession, had come to such a state; thinking of Rama, he
 
 <!-- Tamil source: scan 31 / printed 29 -->
 
-sweated all over his body, and tossed about without sleep.”
+sighed deeply, sweated all over his body, and tossed about without sleep.”
 
 Bharata, thus become the very summit of anguish, looked at Guha and, it seems, cried while asking: What did Rama eat? Where did he sit? He even asked where Lakshmana slept.
 
@@ -74,8 +74,8 @@ Here is the verse—
 
 > “As the oars swept and the boats moved,
 > the spray rose and fell upon the women;
-> through the wetted cloth their hidden beauty
-> showed itself outside;
+> through the wetted cloth
+> their hidden parts showed outside;
 > and to the strong men whose hearts had grown faint,
 > that sight—ah!—gave life again.”
 
@@ -91,9 +91,11 @@ What civilization Ayodhya had—civilization indeed! Where in this world is ther
 
 Very well. The entire army has crossed the river. Bharata goes to Bharadvaja's ashram on the other bank. Bharadvaja the sage, it seems, suspected Bharata just as Guha had suspected him: “Perhaps Bharata has come leading an army against Rama.” Guha was an ordinary man; so he suspected Bharata. But Bharadvaja was a sage—may a sage entertain such suspicion? Fearing that someone might ask this, Achariyar has written an explanation for that too. Here it is!
 
-“I am writing *Chakravarthi's Son* according to Valmiki's *Ramayana*! Just as Guha suspected Bharata on seeing his retinue, Valmiki has sung that the sage Bharadvaja too suspected him. It is not like this in the Tulsi Ramayana. The Tulsi Ramayana is entirely steeped in devotion. There is nothing the rishis do not know. Therefore, in the Tulsi Ramayana, how could Bharadvaja have any doubt about Bharata? But what Kambar has sung is...”
+“I am writing *Chakravarthi's Son* according to Valmiki's *Ramayana*! Just as Guha suspected Bharata on seeing his retinue, Valmiki has sung that the sage Bharadvaja too suspected him. It is not like this in the Tulsi Ramayana. The Tulsi Ramayana is entirely steeped in devotion. There is nothing the rishis do not know. Therefore, in the Tulsi Ramayana, how could Bharadvaja have any doubt about Bharata? But what Kambar has sung follows Valmiki.
 
-Look at how much confusion Achariyar himself has fallen into over Valmiki—and how he confuses the people too.
+<!-- The Tamil source opens the quotation above but has no visible closing quotation mark before Kalaignar resumes his own prose. -->
+
+Look at how great a confusion Achariyar himself has fallen into over Valmiki—and how he confuses the people too.
 
 Achariyar says that Valmiki portrays Rama as a heroic man, Tulsidas sees Rama through the eyes of devotion, and Kambar sees him as God himself. If everyone sees this motley Rama in a different way, why carry him around and conduct religious discourses?
 
@@ -111,7 +113,7 @@ Look at the contradictions! Look at the evasions!
 
 Whoever tries to hide the truth—however talented they may be—will end up stuck in the mud and floundering just like this! Achariyar is a fine example. Then Bharadvaja held a feast in the ashram for Bharata and his retinue.
 
-What sort of feast do you imagine would take place in an ashram? You would think: varieties of fruit, vegetables, cow's milk, things like that. And Bharata's group too is sunk in a melody of grief, with tear-filled eyes. At such a moment the feast ought to be even more ordinary, should it not? Even if the host lays it out, is this not a time when neither the diner's stomach nor his mind would make room for it? But look at the feast Bharadvaja provided.
+What sort of feast do you imagine would take place in an ashram? You would think: varieties of fruit, vegetables, cow's milk, things like that. And Bharata's group too is sunk in a melody of grief, with tear-filled eyes. At such a moment the feast ought to be even more ordinary, should it not? Even if the one serving serves, is this not a time when neither the diner's stomach nor his mind would make room for it? But look at the feast Bharadvaja provided.
 
 Bharadvaja summoned the Devas Yama, Varuna, Agni and Kubera and ordered the feast—rather like placing an order for a dinner party at an Arya Bhavan Hotel. They too carried out the order to perfection. Achariyar himself writes about the feast. Read. But while reading, do not forget how grief-stricken Bharata's party is supposed to be.
 
@@ -137,7 +139,9 @@ Put all these words together when you think of the feast conducted by the sage! 
 
 <!-- Tamil source: scan 36 / printed 34 -->
 
-Achariyar has not written out Valmiki's and Kambar's descriptions in full at this point. If he had written those too, every letter would be intoxicating. The feast is over.
+—Achariyar.
+
+At this point Achariyar has not written out Valmiki's and Kambar's descriptions in full. If he had written those too, every letter would be intoxicating. The feast is over.
 
 Look at how Kambar explains the way the Ayodhya warriors, whose stomachs had received food, and dear younger brother Bharata, who had come in search of his elder brother, received food for the senses as well.
 
