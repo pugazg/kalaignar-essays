@@ -35,7 +35,7 @@ The immediate translation source is the strict-reviewed Tamil article assembly i
 | 10 | விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்! | **verified — T0–T5** |
 | 11 | நடப்பதெல்லாம் நாராயணன் செயலா? | **verified — T0–T5** |
 | 12 | மாரீசனைத் துரத்திச் சென்ற ராமனிடம் | **verified — T0–T5** |
-| 13 | துரோகிகள் சந்திப்பு! | not-started |
+| 13 | துரோகிகள் சந்திப்பு! | **verified — T0–T5** |
 | 14 | காரியமாகும் வரையில் காலைப் பிடி ! | not-started |
 
 ## Work unit — one article at a time
@@ -51,20 +51,21 @@ For each article: fetch the current Tamil assembly and record its blob SHA; read
 - Preserve meaningful source punctuation anomalies with notes instead of repairing them.
 - Embedded verse is translated only from the supplied Tamil witness plus Kalaignar's own explanation unless the user explicitly authorises an external translation.
 
-## Baseline accumulated through Article 12
+## Baseline accumulated through Article 13
 
-Articles 1–11 establish all prior terminology and non-regression decisions recorded in the lexicon and review ledger.
+Articles 1–12 establish all prior terminology and non-regression decisions recorded in the lexicon and review ledger.
 
-Article 12 establishes:
+Article 13 establishes:
 
-- title `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்` → **To Rama Who Went Chasing Maricha**;
-- Tamil SHA `01aae57b137bfb3d762c4cb6a62e149bfdb78edb`; controlling body scans **71–73 / printed pp.69–71**;
-- scan **83** is a separate back-cover promotional excerpt and is never used to normalise or overwrite Article 12 body wording;
-- `மேலுத்தரியம்` → **upper cloth** and `மேலாடை` → **upper garment**;
-- `அம்சம்` → **aspect**, kept distinct from `அவதாரம்` → **incarnation**;
-- scan-72 body reading `அவனாகவே` is preserved in Tamil and explicitly documented; the English follows the surrounding action as Sita dropping the garment **on her own** without rewriting the source witness;
-- **theist worthies**, **kings of the night**, **sisters who slipped and fell**, **Pitiful—most pitiful!**, market-street imagery and the rubbish-on-head dance retain Kalaignar's harshness;
-- source-specific **Kakuthan** and **Ashadabhoothis** remain source-bearing, with no outside identification imported.
+- title `துரோகிகள் சந்திப்பு!` → **Traitors Meet!**;
+- Tamil SHA `369c3f4e5030c5810e815d13692372ae73849837`; scans **74–78 / printed pp.72–76**;
+- opening `மாறடித்து ஒப்பாரி வைத்தான்` → **beat his chest and wailed an oppari**, retaining both physical and cultural force;
+- `அரக்கன்` → **demon**, `அசுரன்` → **asura**; source-bearing **Vanara / vimana / yojana** retained rather than over-explained;
+- Rama/Sugriva alliance remains framed as the meeting of a man who **conspired** against Bharata's kingdom-right and a man accused of plotting to deceive Vali and seize the kingdom;
+- strict-reviewed `துராசைப் பட்டுக்` remains unchanged in Tamil and is translated contextually as **driven by greed**;
+- subheading `இது ஆச்சாரியார் தீட்டியுள்ள கதை!` → **This Is the Story Achariyar Has Drawn Up!**;
+- source-irregular quotation openings across scans 75–76 and scan-78 final `(6.3.1955 - ‘கல்கி)` missing closing single quote are documented rather than silently repaired in the Tamil layer;
+- scan-78 hearsay repetition remains **they say ... they say**, `மழுப்புகிறார்` → **Here Achariyar dodges**, and the final **Why? Why, Achariyar; why?** remains direct.
 
 ## Phase sequence
 
@@ -73,16 +74,18 @@ Article 12 establishes:
 - **E2 Articles 2–4:** COMPLETE
 - **E3 Articles 5–8:** COMPLETE
 - **E4 Articles 9–11:** **COMPLETE**
-- **E5 Articles 12–14:** **ACTIVE — Article 12 complete; Article 13 next**
+- **E5 Articles 12–14:** **ACTIVE — Articles 12–13 complete; Article 14 next**
 - **E6 publication consistency review:** pending
 - **E7 English release closeout:** pending
 
 ## Current progress
 
-- English article drafts: **12 / 14**
-- English articles T5 verified: **12 / 14**
+- English article drafts: **13 / 14**
+- English articles T5 verified: **13 / 14**
 - final cross-article review: **not started**
 
 ## Exact next translation activity
 
-Proceed with **Article 13 — `துரோகிகள் சந்திப்பு!`**. Fetch and read its complete current strict-reviewed Tamil assembly, record the fresh blob SHA as T0, choose the English title only after reading the full argument, complete T1–T5, then update the lexicon, review ledger, tracker, READMEs and root `HANDOVER.md` before Article 14 begins.
+Proceed with **Article 14 — `காரியமாகும் வரையில் காலைப் பிடி !`**. Fetch and read its complete current strict-reviewed Tamil assembly, record the fresh blob SHA as T0, preserve the known contents/heading title-witness distinction, choose the English title only after reading the full argument, complete T1–T5, then update the lexicon, review ledger, tracker, READMEs and root `HANDOVER.md`.
+
+After Article 14 is individually verified, begin **E6 — publication-level cross-article consistency review**. Do not declare the English translation complete until E6 passes.
