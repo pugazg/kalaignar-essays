@@ -30,29 +30,31 @@ See [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
 
 Every readable printed word, spacing-sensitive form, punctuation mark, quotation, number/date, heading and continuation is being rechecked directly against the scan in physical-page order.
 
-Current progress: **64 / 83 scans complete**.
+Current progress: **72 / 83 scans complete**.
 
-### Latest batch — scans 57–64
+### Latest batch — scans 65–72
 
-- scans **57–58**: fidelity-pass
-- scan **59**: corrected `நந்திக் கிராமத்திலே யிருந்து` and source spacing `சொல்லையும் -சத்தியத்தையும்`
-- scan **60**: fidelity-pass and closes Article 9
-- scan **61**: source heading `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` independently revalidated
-- scan **62**: fidelity-pass
-- scan **63**: corrected `44ஆவது` and `அப்பேர்ப்பட்டவர்`
-- scan **64**: fidelity-pass and closes Article 10
-- Article 9 is now fully strict-rechecked across scans **55–60**
-- Article 10 is now fully strict-rechecked across scans **61–64**
+- scan **65**: corrected `மரண மடைகிறார்கள்` and `மகா புருஷன் -ஈஸ்வர`
+- scan **66**: corrected source punctuation spacing `பார்க்கலாம் -அப்படிக்`
+- scan **67**: high-resolution inspection corrected the earlier mistaken reading `மான்வதைவிட` to **`மாள்வதைவிட`**
+- scan **68**: corrected opening `ஓகோ !` and restored `நரிகள். அவலட்சணமாக`
+- scan **69**: fidelity-pass; source-visible nested/unbalanced quotation structure retained
+- scan **70**: corrected `ஆச்சாரியார் போன்றவர்கள்`, `49 ஆம்`, and `53 ஆம்`; closes Article 11
+- scan **71**: restored visible page-heading article number `12` and punctuation `பாவம் ;`
+- scan **72**: corrected `எந்தப் பெண்ணாவது, தனது` and `நினைத்திருப்பான் ?`
+- Article 11 is now fully strict-rechecked across scans **65–70**
+- Article 12 is strict-rechecked through scan **72**; scan 73 remains
 - no unresolved pixel-review item remains
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Next strict-review batch
 
-Proceed with **scans 65–72**:
+Proceed with **scans 73–80**:
 
-- scans **65–70** — Article 11 `நடப்பதெல்லாம் நாராயணன் செயலா?`
-- scans **71–72** — first two pages of Article 12 `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`
+- scan **73** — conclude Article 12
+- scans **74–78** — Article 13 `துரோகிகள் சந்திப்பு!`
+- scans **79–80** — begin Article 14 `காரியமாகும் வரையில் காலை பிடி!`
 
 The publication remains source-complete, but the strict visual-text-fidelity gate remains open until scan 83 and all assemblies have been rechecked.
 
