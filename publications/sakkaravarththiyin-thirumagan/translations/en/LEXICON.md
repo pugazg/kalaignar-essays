@@ -22,8 +22,8 @@ The user then explicitly chose **`Achariyar` instead of `Acharya`**. After confi
 
 Therefore:
 
-- Articles 1–3 now use **`Achariyar`** throughout.
-- Articles 4–14 must use **`Achariyar`** wherever the Tamil source uses `ஆச்சாரியார்`, unless the source itself changes label.
+- Articles 1–4 now use **`Achariyar`** throughout.
+- Articles 5–14 must use **`Achariyar`** wherever the Tamil source uses `ஆச்சாரியார்`, unless the source itself changes label.
 - Do not mechanically substitute `Rajaji` or `C. Rajagopalachari` inside Kalaignar's body text; use the identity only in translator/editorial identification notes.
 
 ## Established lexicon
@@ -66,6 +66,12 @@ Therefore:
 | `யுவராஜப் பதவி` / `யுவராஜ்யப் பதவி` | `office of Crown Prince` | Preserve the institutional rank; surrounding rhetoric may use `Crown Prince's coronation`. | Article 3 | `established` |
 | `கல்மஷம்` | `taint` | In Achariyar's quoted claim about Kaikeyi's heart; Kalaignar later echoes the word sarcastically, so retain the same lexical image. | Article 3 | `established` |
 | `கொல்லைப்புறமாக ... மந்திரி சபைக்கு வந்தவர்` | `came into the Council of Ministers through the back door` | Preserve Kalaignar's political jab and physical metaphor; do not neutralise to `entered politics indirectly`. | Article 3 | `contextual image established` |
+| `காமராஜன்` | `Kama-Raja` | Preserve the title/closing wordplay: `காமம்` (desire/lust) + `ராஜன்` (king), along with the source's name-like form. Do not flatten to a single explanatory phrase such as `lust`. | Article 4 | `wordplay established` |
+| `வெள்ளை மனம்` | `pure-hearted` | Repeated sarcastically of Dasaratha; preserve the positive epithet so Kalaignar's reversal remains visible. | Article 4 | `contextual` |
+| `போகம்` | `sensual pleasure` | Article 4 uses it explicitly in the sexualised ridicule of Dasaratha's old age and desire; avoid neutral `pleasure` where the bodily force matters. | Article 4 | `contextual` |
+| `பிரகிருதி வேகம்` | `physical urge` | In Article 4's quoted description of Dasaratha; retain the bodily/sexual force. | Article 4 | `contextual` |
+| `காம மோகம்` | `lustful infatuation` | Retains the source's strong ridicule in the final quoted scene with Kaikeyi. | Article 4 | `contextual` |
+| `அப்பாவி` / `அப்-பாவி` | `innocent` / `Ah—sinner!` | Kalaignar makes an explicit Tamil pun by splitting `அப்பாவி`; preserve the turn in body and document it in a translator note. | Article 4 | `wordplay established` |
 
 ## Article 1 contextual decisions
 
@@ -95,6 +101,17 @@ Therefore:
 - `கொல்லைப்புறமாக மந்திரி சபைக்கு வந்தவரல்லவா ஆச்சாரியார்!` → **`Was not Achariyar himself one who came into the Council of Ministers through the back door!`**.
 - Quoted `கல்மஷம்` → **`taint`**, and Kalaignar's later sarcastic echo is preserved as Kaikeyi whose mind was said to be free of **“taint.”**
 - The final cadence is kept direct: **`Why only us? Everyone with a brain will come to exactly that conclusion.`**
+
+## Article 4 contextual decisions
+
+- Title `காமராஜன் ஆட்கொண்ட தசரதராஜன்!` → **`Dasaratha Raja in the Grip of Kama-Raja!`**. The translation deliberately keeps both `Raja` elements and preserves `காமராஜன்` as **Kama-Raja** rather than replacing the wordplay with an explanatory title.
+- The same **Kama-Raja** form is retained in the final `காமராஜனின் சக்திதான் என்னே!` line, paired with **old Raja**, preserving Kalaignar's closing verbal play.
+- `போகம்` is rendered **sensual pleasure** in the repeated `ஆசை தீரப் போகத்தில் மூழ்கலாம்` ridicule, rather than neutral `pleasure`.
+- `ஆச்சாரியக் கிழவர்`, `தசரதக் கிழவன்`, `மந்திரிக் கிழவர்` and the repeated `கிழவர்களே!` remain visibly age-marked in English: **old Achariyar**, **old Dasaratha**, **old ex-minister**, **old men!** Do not politely remove the ridicule.
+- `பிரகிருதி வேகம்` → **physical urge** and `காதல் வேகம்` → **surge of passion**, preserving the sexualised argumentative sequence.
+- `அப்பாவி ... “அப்-பாவி”` is retained as **innocent ... “Ah—sinner!”** with a translator note explaining the Tamil split-word pun.
+- `வெட்கம் - வெட்கம் - வேதனை கலந்த வெட்கம்!` remains **`shame, shame, shame mixed with pain!`**.
+- Source dates **8 August 1954** and **22 August 1954** are retained; the article's quoted material remains translated from Kalaignar's Tamil witness rather than imported from an external English source.
 
 ## Terms still to refine in later articles
 
