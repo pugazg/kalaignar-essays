@@ -38,52 +38,63 @@ The original archival layer remains complete:
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-Current strict-review progress: **72 / 83 scans complete**.
+Current strict-review progress: **80 / 83 scans complete**.
 
-### Batch 9 closeout — scans 65–72
+Fully strict-rechecked article assemblies: **13 / 14**.
 
-- scan 65 corrected:
-  - `மரணமடைகிறார்கள்` → **`மரண மடைகிறார்கள்`**
-  - `மகா புருஷன் - ஈஸ்வர` → **`மகா புருஷன் -ஈஸ்வர`**
-- scan 66 corrected source punctuation spacing **`பார்க்கலாம் -அப்படிக்`**
-- scan 67 high-resolution reinspection corrected the earlier mistaken staged reading **`மான்வதைவிட`** to source-visible **`மாள்வதைவிட`**; this supersedes the prior revalidation and must not regress
-- scan 68 corrected:
-  - opening **`ஓகோ !`** rather than `ஐயோ!`
-  - source sentence break **`நரிகள். அவலட்சணமாக`**
-- scan 69: fidelity-pass; nested/unbalanced quotation structure retained without editorial repair
-- scan 70 corrected:
-  - `ஆச்சாரியர் போன்றவர்கள்` → **`ஆச்சாரியார் போன்றவர்கள்`**
-  - `49ஆம்` → **`49 ஆம்`**
-  - `53ஆம்` → **`53 ஆம்`**
-  - closes Article 11
-- scan 71 corrected:
-  - restored visible page-heading article number **`12`**
-  - `பாவம்;` → **`பாவம் ;`**
-- scan 72 corrected:
-  - `எந்தப் பெண்ணாவது தனது` → **`எந்தப் பெண்ணாவது, தனது`**
-  - `நினைத்திருப்பான்?` → **`நினைத்திருப்பான் ?`**
-- Article 11 is now fully strict-rechecked across scans **65–70**
-- Article 12 is strict-rechecked through scan **72**; scan 73 remains pending
-- no unresolved pixel-review item remains
+### Batch 10 closeout — scans 73–80
 
-## Exact next activity
+- scan 73: fidelity-pass; Article 12 now fully strict-rechecked
+- scan 74:
+  - restored visible article number **`13`**
+  - corrected `மாறிமாறி` → source-visible **`மாறடித்து`**
+- scan 75:
+  - corrected source punctuation spacing to **`சுக்ரீவன் யார் தெரியுமா ?`**
+- scan 76: fidelity-pass; unusual **`துராசைப் பட்டுக்`** revalidated
+- scan 77: fidelity-pass, including **`அழியாத பாசமுள்ள`**
+- scan 78: fidelity-pass; retained source-unclosed citation **`(6.3.1955 - ‘கல்கி)`** and closes Article 13
+- Article 13 is now fully strict-rechecked
+- scan 79:
+  - restored visible article number **`14`**
+  - corrected heading from `காரியமாகும் வரையில் காலை பிடி!` to source-visible **`காரியமாகும் வரையில் காலைப் பிடி !`**
+  - propagated heading correction to Article 14 metadata/header
+- scan 80: fidelity-pass; final quotation remains open and continues to scan 81
+- Article 14 is strict-rechecked only through scan **80**
+- no unresolved pixel-review item remains in scans **1–80**
 
-Strictly review **scans 73–80** against the controlling PDF:
+### Article 14 source witnesses
 
-- scan **73** — conclude Article 12 `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`
-- scans **74–78** — all of Article 13 `துரோகிகள் சந்திப்பு!`
-- scans **79–80** — first two pages of Article 14 `காரியமாகும் வரையில் காலை பிடி!`
+Do not collapse these two forms:
+
+- scan-8 contents: **`காரியமாகும் வரையில் காலைப் பிடி!`**
+- scan-79 article heading: **`காரியமாகும் வரையில் காலைப் பிடி !`**
+
+The difference is the visible spacing before the exclamation mark on the heading page.
+
+## Important gate correction
+
+Earlier repository documents prematurely stated that the stricter 83/83 fidelity pass had already completed. Those claims have now been corrected. The **source layer is complete**, but the **strict fidelity gate remains open at 80/83**.
+
+`PUBLICATION_COMPLETION_REVIEW.md`, `metadata/source.md`, `indexes/page-map.md`, the READMEs and audit now reflect the staged status correctly.
+
+## Exact next activity — final strict batch
+
+Strictly review **scans 81–83** against the controlling PDF:
+
+- scan **81 / printed p.79** — Article 14 continuation
+- scan **82 / printed p.80** — Article 14 conclusion, ending ornament, post-article physical marks and printed `விடுதலை` advertisement
+- scan **83** — physical back cover and promotional Article 12 witness
 
 For every scan:
 
-1. compare every readable word/token directly with the scan;
-2. check spacing, punctuation, quotation marks, numerals, dates, headings and page continuation;
-3. enlarge uncertain glyphs rather than infer from context;
-4. correct only from scan evidence;
-5. propagate any correction into the relevant article assembly;
-6. update the fidelity ledger and audit;
-7. advance the strict-review count only after all scans 73–80 are closed.
+1. compare every readable printed word/token directly with the scan;
+2. check word boundaries, punctuation, quotation marks, numerals/dates, headings and continuation;
+3. distinguish Article 14 text from scan-82 post-article material;
+4. distinguish the scan-83 back-cover promotional witness from Article 12 body text;
+5. enlarge uncertain glyphs rather than infer from context;
+6. correct only from scan evidence;
+7. propagate any Article 14 correction into the assembly;
+8. recheck the entire Article 14 assembly against scans 79–82;
+9. only if scans 81–83 and the final assembly all pass, change the publication-level strict-fidelity gate to **PASSED**.
 
-After that batch, the remaining final physical scans are **81–83**.
-
-**Do not claim 83/83 strict fidelity until the staged review actually reaches scan 83 and all assemblies are rechecked.**
+**Do not claim 83/83 strict fidelity before this final batch is completed.**
