@@ -38,8 +38,8 @@
 
 Current English status:
 
-- drafts complete: **3 / 14**
-- translations verified through T0–T5: **3 / 14**
+- drafts complete: **4 / 14**
+- translations verified through T0–T5: **4 / 14**
 - final cross-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -48,25 +48,25 @@ Verified translations so far:
 1. **`சக்கரவர்த்தியின் திருமகன்` → `Chakravarthi's Son`**
 2. **`தேகமும் உணர்வும்` → `Body and Feeling`**
 3. **`சதி நிரூபிக்கப்படுகிறது` → `The Conspiracy Is Proven`**
+4. **`காமராஜன் ஆட்கொண்ட தசரதராஜன்!` → `Dasaratha Raja in the Grip of Kama-Raja!`**
 
-Publication-wide, `ஆச்சாரியார்` refers to **C. Rajagopalachari (Rajaji)** and is rendered **`Achariyar`** in Kalaignar's English body text. The personal identity is supplied only in translator/editorial notes. Other established conventions preserve **Chakravarthi** wordplay, Aryan/Dravidian terminology, source-distinct demons / Rakshasas / Devas, direct commands, repetitions, sarcasm and harsh formulations.
+Publication-wide, `ஆச்சாரியார்` refers to **C. Rajagopalachari (Rajaji)** and is rendered **`Achariyar`** in Kalaignar's English body text. The personal identity is supplied only in translator/editorial notes.
 
-Article 2 added **body / feeling**, **body of flesh**, **anger and passion**, **Bhagavan / Ishvari**, and **plot / conspiracy**.
-
-Article 3 adds **burden of the kingdom / burden of rule**, **office of Crown Prince**, `கல்மஷம்` → **taint**, and Kalaignar's `கொல்லைப்புறமாக...` political jab as **came into the Council of Ministers through the back door**. Its rapid questions and final **`Why only us? Everyone with a brain will come to exactly that conclusion.`** are preserved.
+Article 4 preserves the source's wordplay and ridicule rather than flattening it: **Kama-Raja** for `காமராஜன்`, explicitly age-marked `கிழவர்` rhetoric, **sensual pleasure / physical urge / lustful infatuation**, the `அப்பாவி` / `அப்-பாவி` **innocent / “Ah—sinner!”** pun with translator note, and the closing **Kama-Raja / old Raja** verbal play.
 
 English files:
 
 - [`publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md)
 - [`publications/sakkaravarththiyin-thirumagan/translations/en/02-thegamum-unarvum.md`](publications/sakkaravarththiyin-thirumagan/translations/en/02-thegamum-unarvum.md)
 - [`publications/sakkaravarththiyin-thirumagan/translations/en/03-sathi-nirupikkappadugirathu.md`](publications/sakkaravarththiyin-thirumagan/translations/en/03-sathi-nirupikkappadugirathu.md)
+- [`publications/sakkaravarththiyin-thirumagan/translations/en/04-kamarajan-aadkonda-dasaratharajan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/04-kamarajan-aadkonda-dasaratharajan.md)
 
 Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
 English tracker: [`publications/sakkaravarththiyin-thirumagan/translations/en/README.md`](publications/sakkaravarththiyin-thirumagan/translations/en/README.md)  
 Living lexicon: [`publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md`](publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md)  
 Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
 
-**Exact next translation activity: Article 4 — `காமராஜன் ஆட்கொண்ட தசரதராஜன்!`.**
+**Exact next translation activity: Article 5 — `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`.** Its source has a known contents/heading witness distinction, so the English title must be chosen only after reading the complete article and without silently normalising the Tamil witnesses.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
