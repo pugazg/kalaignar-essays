@@ -10,13 +10,9 @@ The original archival/source layer is complete for the supplied 83-scan edition:
 - source PDF committed to repository: **No**
 - controlling source: the supplied scan
 
-See [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md) for the source-layer completion gate and the separate staged strict-fidelity gate.
-
-## Strict visual-text-fidelity layer
+## Strict visual-text-fidelity layer — COMPLETE
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
-
-Current progress: **80 / 83 scans strict-reviewed**.
 
 | Scope | Source-layer status | Strict fidelity status |
 |---|---|---|
@@ -30,46 +26,30 @@ Current progress: **80 / 83 scans strict-reviewed**.
 | Scans 57–64 | VERIFIED | **COMPLETE** |
 | Scans 65–72 | VERIFIED | **COMPLETE** |
 | Scans 73–80 | VERIFIED | **COMPLETE** |
-| Scans 81–83 | VERIFIED | **PENDING — final batch** |
+| Scans 81–83 | VERIFIED | **COMPLETE** |
 
-The publication is source-complete, but strict visual-text-fidelity review is not yet complete.
+Final strict-review state:
 
-## Batch 10 — scans 73–80
+- physical scans: **83 / 83 COMPLETE**
+- article assemblies: **14 / 14 COMPLETE**
+- unresolved `NEEDS-PIXEL-REVIEW`: **0**
 
-- scan 73 — **FIDELITY-PASS**: Article 12 conclusion, emphatic punctuation and final ornament agree
-- scan 74 — **CORRECTED**:
-  - visible page-heading article number **`13`** restored
-  - `மாறிமாறி` → source-visible **`மாறடித்து`**
-  - propagated to Article 13 assembly
-- scan 75 — **CORRECTED**:
-  - `சுக்ரீவன் யார் தெரியுமா?` → source-visible **`சுக்ரீவன் யார் தெரியுமா ?`**
-  - the following `அவன் நிலைமை என்ன தெரியுமா?` remains without the extra space
-  - propagated to Article 13 assembly
-- scan 76 — **FIDELITY-PASS**: unusual `துராசைப் பட்டுக்`, source quotation sequence and continuation agree
-- scan 77 — **FIDELITY-PASS**: `அழியாத பாசமுள்ள`, `தூரத்திற்கப்பால்`, `நெஞ்சங் கொண்ட` and continuation agree
-- scan 78 — **FIDELITY-PASS**: source-unclosed citation `(6.3.1955 - ‘கல்கி)`, Article 13 conclusion and final ornament agree
-- scan 79 — **CORRECTED**:
-  - visible page-heading article number **`14`** restored
-  - heading `காரியமாகும் வரையில் காலை பிடி!` → source-visible **`காரியமாகும் வரையில் காலைப் பிடி !`**
-  - corrected heading propagated to Article 14 metadata/header
-- scan 80 — **FIDELITY-PASS**: `பூஜனைப்பித்தர்களுக்கு`, `ராஜகாரியங்களை யெல்லாம்`, `சவுந்தாயமும்`, `ஆயுதபாணியாக ஆக்ரோஷத்துடன்`, and cross-page quotation continuation agree
+## Final batch — scans 81–83
 
-### Assembly state after Batch 10
+- scan 81 — **FIDELITY-PASS**: `காதில் ஏறவில்லை”` correctly closes the scan-80 quotation; `நாணையிழுத்து`, `சமானம்`, `அளவளாவுகிறான்`, `-எதையும்`, `சிருங்கார போகத்தில்`, `நன்றிகெட்ட`, `ரிஷ்யமுகம்`, `துயர்தணிக்கும்`, and all three dated citations agree.
+- scan 82 — **CORRECTED**: `வர்ணிக்கிறார்` → source-visible **`வர்ணிக்கிறான்`** in `என்று வர்ணிக்கிறான் சுக்ரீவனைப் பற்றி!`; propagated to Article 14. The printed ornament closes the article. The lower `விடுதலை` advertisement and physical-copy marks remain excluded from article text.
+- scan 83 — **FIDELITY-PASS**: separate back-cover witness agrees, including `எந்தப் பெண்ணாவது, தனது`, `அறி குறி?`, `அத்தகைய நாண உணர்ச்சி தலைகாட்டுகிறது. சொந்தக்...`, barcode `9997720145467`, and `நன்கொடை: ரூ.50/-`.
 
-- Article 12, scans **71–73**, is fully strict-rechecked.
-- Article 13, scans **74–78**, is fully strict-rechecked and agrees with the corrected page layer.
-- Article 14 scans **79–80** agree with its current assembly; scans 81–82 remain before final article closeout.
-- Fully strict-rechecked assemblies: **13 / 14**.
-- No unresolved pixel-review item remains in scans **1–80**.
+## Final assembly state
 
-## Article 14 witness distinction
+Article 14, scans **79–82 / printed pp.77–80**, has been rechecked end-to-end after the scan-82 correction. It now agrees with the strict-reviewed page layer. The heading-page witness remains **`காரியமாகும் வரையில் காலைப் பிடி !`**; the contents witness remains **`காரியமாகும் வரையில் காலைப் பிடி!`**.
 
-The scan-8 contents witness is `காரியமாகும் வரையில் காலைப் பிடி!`, while the scan-79 heading witness is `காரியமாகும் வரையில் காலைப் பிடி !`. The punctuation-spacing difference is source-supported and must remain distinct.
+All Articles **1–14** are therefore fully strict-rechecked.
 
 ## No-silent-correction rule
 
-Later editions, web transcriptions, remembered wording, modern spelling, grammatical expectation and contextual inference must not replace the supplied scan. Difficult glyphs must be visually rechecked and, if unresolved, marked for pixel review rather than guessed.
+Later editions, web transcriptions, remembered wording, modern spelling, grammatical expectation and contextual inference must not replace the supplied scan. Source-visible anomalies remain preserved rather than repaired.
 
-## Final strict-fidelity unit
+## Completion gate
 
-Proceed in physical scan order with **scans 81–83**: scan 81 continues Article 14; scan 82 concludes Article 14 and includes post-article marks / a printed `விடுதலை` advertisement; scan 83 is the physical back cover / promotional witness. After those scans, recheck the complete Article 14 assembly before closing the strict-fidelity gate.
+**SOURCE-LAYER PASS + STRICT VISUAL TEXT-FIDELITY PASS.**
