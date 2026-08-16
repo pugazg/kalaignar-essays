@@ -42,8 +42,8 @@ Review ledger: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLA
 Current translation status:
 
 - Tamil translation prerequisite: **PASSED**
-- English drafts complete: **1 / 14**
-- English articles verified: **1 / 14**
+- English drafts complete: **2 / 14**
+- English articles verified: **2 / 14**
 - final 14-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -53,23 +53,35 @@ Tamil: **`சக்கரவர்த்தியின் திருமகன
 English: **`Chakravarthi's Son`**  
 File: [`translations/en/01-sakkaravarththiyin-thirumagan.md`](translations/en/01-sakkaravarththiyin-thirumagan.md)
 
-Article 1 passed **T0–T5** and now supplies the initial translation baseline.
+Article 1 established the initial translation baseline, including **Acharya** for `ஆச்சாரியார்` while identifying the referent C. Rajagopalachari (Rajaji) outside Kalaignar's body, **Chakravarthi** where the Rajagopalachari/Chakravarthi wordplay is active, and the publication's direct, polemical voice conventions.
 
-Key decisions:
+### Article 2 — COMPLETE / VERIFIED
 
-- `ஆச்சாரியார்` → **Acharya**; referent **C. Rajagopalachari (Rajaji)** is identified outside Kalaignar's body text.
-- `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where Kalaignar's Rajagopalachari/Chakravarthi wordplay is active.
-- title → **Chakravarthi's Son**, retaining that wordplay rather than flattening it to `The Emperor's Son`.
-- `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**; `ஆரியம்` → **Aryanism**.
-- `அரக்கர்`, `ராட்சசர்`, `தேவர்கள்` remain distinct as **demons, Rakshasas, Devas**.
-- direct `Read!` / `Look!`, repetition, rhetorical questions, sarcasm and harsh polemical language are retained.
-- the source-irregular open quotation on scan 12 is documented in the English file rather than silently repaired.
+Tamil: **`தேகமும் உணர்வும்`**  
+English: **`Body and Feeling`**  
+Tamil source blob SHA: **`bb9131b7856b528e527136be8f4f60dca2999850`**  
+File: [`translations/en/02-thegamum-unarvum.md`](translations/en/02-thegamum-unarvum.md)
 
-Detailed T2–T4 corrections and decisions are in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
+Article 2 passed **T0–T5**.
+
+Important Article 2 decisions:
+
+- `தேகம்` / `உணர்வு` → **body / feeling**;
+- `ஊனுடல்` → **body of flesh**;
+- `கோபதாபம்` → **anger and passion**, retaining Kalaignar's bodily/sexual argumentative undertone;
+- `பகவான்` / `ஈஸ்வரி` → **Bhagavan / Ishvari**;
+- `சூழ்ச்சி` / `சதி` → **plot / conspiracy** where Kalaignar distinguishes the two;
+- `பிராமணஜோதி`, `பார்ப்பனகுல மகிபர்`, `வேதியப் பெருந்தகையார்` remain visibly polemical rather than being neutralised;
+- source-visible `(ஆகஸ்டு 154)` is preserved as **`(August 154)`** with a source note;
+- unmatched quotation openings on scans **18** and **20** are documented, not silently repaired;
+- the repeated `இனி` argument remains **now / from now on**;
+- the final accusation remains direct: **`And Rama too is an accomplice—that is the truth!`**
+
+Detailed T2–T4 provenance is in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
 
 ## Exact next activity
 
-Proceed with complete translation and review of **Article 2 — `தேகமும் உணர்வும்`**. Fetch its current strict-reviewed Tamil assembly, record the blob SHA, read the whole article before choosing the English title, then complete T1–T5 before Article 3 begins.
+Proceed with complete translation and review of **Article 3 — `சதி நிரூபிக்கப்படுகிறது`**. Fetch its current strict-reviewed Tamil assembly, record the blob SHA, read the whole article before choosing its English title, then complete T1–T5 before Article 4 begins.
 
 ## Files
 
