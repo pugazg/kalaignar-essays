@@ -80,7 +80,7 @@
 | 76 | 74 | Article 13 | verified |
 | 77 | 75 | Article 13 — இது ஆச்சாரியார் தீட்டியுள்ள கதை! subsection | verified |
 | 78 | 76 | Article 13 conclusion | verified |
-| 79 | 77 | Article 14 — காரியமாகும் வரையில் காலை பிடி! begins | verified |
+| 79 | 77 | Article 14 — காரியமாகும் வரையில் காலைப் பிடி ! begins | verified |
 | 80 | 78 | Article 14 | verified |
 | 81 | 79 | Article 14 | verified |
 | 82 | 80 | Article 14 conclusion + printed `விடுதலை` advertisement | verified |
@@ -101,7 +101,7 @@
 - Article 11 — **நடப்பதெல்லாம் நாராயணன் செயலா?**: scans **65–70**, printed pp. **63–68**.
 - Article 12 — **மாரீசனைத் துரத்திச் சென்ற ராமனிடம்**: scans **71–73**, printed pp. **69–71**.
 - Article 13 — **துரோகிகள் சந்திப்பு!**: scans **74–78**, printed pp. **72–76**.
-- Article 14 — **காரியமாகும் வரையில் காலை பிடி!**: scans **79–82**, printed pp. **77–80**. The printed ornament on scan 82 directly closes the article; material beneath it is not article text.
+- Article 14 — **காரியமாகும் வரையில் காலைப் பிடி !**: scans **79–82**, printed pp. **77–80**. The printed ornament on scan 82 directly closes the article; material beneath it is not article text.
 
 ## Source-witness notes
 
@@ -115,7 +115,7 @@ The printed contents and scan-61 heading both read **`விஷ்ணு அவ�
 
 ### Article 14 title
 
-The printed contents reads **`காரியமாகும் வரையில் காலைப் பிடி!`**, while the actual scan-79 heading reads **`காரியமாகும் வரையில் காலை பிடி!`**. Both forms are preserved.
+The printed contents reads **`காரியமாகும் வரையில் காலைப் பிடி!`**, while the actual scan-79 heading reads **`காரியமாகும் வரையில் காலைப் பிடி !`**. Both witnesses are preserved separately; the only title-witness difference is the source-visible spacing before the exclamation mark on the heading page.
 
 ## Post-text / physical-page classification
 
@@ -125,4 +125,4 @@ The printed contents reads **`காரியமாகும் வரையி�
 
 ## Publication page-completion status
 
-All supplied scan pages **1–83** have verified page records and have passed the later strict word-by-word / punctuation-by-punctuation visual fidelity review. No source scan remains unclassified or unarchived. See [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
+All supplied scan pages **1–83** have source-layer page records and classifications. The separate strict word-by-word / punctuation-by-punctuation fidelity review is currently complete through **scan 80 / 83**. Scans **81–83** remain pending in that stricter pass. See [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
