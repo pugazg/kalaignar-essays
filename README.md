@@ -31,12 +31,14 @@
 - **14 / 14** Tamil article assemblies complete and strict-rechecked
 - **0** unresolved `NEEDS-PIXEL-REVIEW`
 
-### English translation phase — ACTIVE / E6 NEXT
+### English translation phase — COMPLETE / E7 RELEASE CLOSEOUT NEXT
 
 - drafts complete: **14 / 14**
 - translations verified through T0–T5: **14 / 14**
-- final cross-article consistency review: **not started — E6 next**
-- English release gate: **OPEN**
+- publication-level cross-article consistency review: **E6 PASSED**
+- unresolved translation questions: **0**
+- English translation: **COMPLETE**
+- English release gate: **OPEN pending E7 closeout**
 
 Verified translations:
 
@@ -55,12 +57,18 @@ Verified translations:
 13. `துரோகிகள் சந்திப்பு!` → **Traitors Meet!**
 14. `காரியமாகும் வரையில் காலைப் பிடி !` → **Hold Their Feet Until Your Purpose Is Achieved!**
 
-Publication-wide, source `ஆச்சாரியார்` is rendered **Achariyar**; explicit source-label changes such as Article 7 `இராஜாஜி` remain **Rajaji**, and source plurals such as Article 11 `ஆச்சாரியார்களுக்கு` remain plural in English.
+Publication-wide, source `ஆச்சாரியார்` is rendered **Achariyar**; Article 7 explicit `இராஜாஜி` remains **Rajaji**, and Article 11 source plural `ஆச்சாரியார்களுக்கு` remains **the Achariyars**.
 
-Article 14 preserves scans **79–82 / printed pp.77–80**, the contents/heading punctuation-spacing witness distinction, the physical title/final **hold their feet / hold the feet of scoundrels** image, **worship-mad people**, **sensual pleasures of the inner palace**, source-bearing **saundhayam**, **rustic pleasure**, **ungrateful scoundrel**, Tara-beauty sarcasm, **Aryans will do anything—say anything**, strict `வர்ணிக்கிறான்`, and **Sons of Chakravarthi**. The lower-page *Viduthalai* advertisement on scan 82 is not Article 14 body.
+### E6 cross-article review result
+
+All 14 current English files were fetched fresh from `main` and checked together against the living lexicon, translation-review ledger, translation plan and handover. Recurring names, ideological vocabulary, source-label switches, title/body echoes, commands, rhetorical questions, quotations, dates, page comments, source-bearing forms and documented source anomalies were rechecked.
+
+**No Article 1–14 translation-body edit was required during E6.** Two apparent spelling differences were checked against the frozen Tamil and deliberately retained rather than normalised: Article 6 `காகபட்டர்` → **Kakapattar** versus Article 11 `காக பட்டர்` → **Kaga Pattar**; Article 2 `ராமச்சந்திரமூர்த்தி` → **Ramachandramurti** versus Article 14 `இராமசந்திர மூர்த்தி` → **Ramachandra Murti**.
+
+Important source boundaries remain unchanged: Article 12 scan 83 is a separate promotional back-cover witness and never rewrites its body; Article 14 ends on scan 82 before the separate *Viduthalai* advertisement.
 
 English workspace: [`publications/sakkaravarththiyin-thirumagan/translations/en/`](publications/sakkaravarththiyin-thirumagan/translations/en/)  
 Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
 Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
 
-**Exact next translation activity: E6 — publication-level cross-article English consistency review.** Recheck all 14 verified translations for recurring names/epithets, ideological vocabulary, source-label switches, quotations/citations, title style, tone, page comments, source-bearing forms and documented source anomalies. Do not declare the English publication complete before E6 passes.
+**Exact next activity: E7 — English release closeout.** Verify all release-facing repository state and links, create/update the release-closeout record required by the workflow, and close the English release gate only if no release blocker remains.
