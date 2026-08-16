@@ -22,11 +22,11 @@ Corrections made during T2–T4, and later user-directed translation corrections
 
 ## Publication review status
 
-- articles drafted: **6 / 14**
-- articles T2 fidelity-reviewed: **6 / 14**
-- articles T3 voice-reviewed: **6 / 14**
-- articles T4 audited: **6 / 14**
-- articles T5 verified: **6 / 14**
+- articles drafted: **7 / 14**
+- articles T2 fidelity-reviewed: **7 / 14**
+- articles T3 voice-reviewed: **7 / 14**
+- articles T4 audited: **7 / 14**
+- articles T5 verified: **7 / 14**
 - publication-level cross-article review: **not started**
 - unresolved translation questions: **0**
 
@@ -34,7 +34,7 @@ Corrections made during T2–T4, and later user-directed translation corrections
 
 The user explicitly clarified that **`ஆச்சாரியார்` in this publication refers to C. Rajagopalachari, alias Rajaji**.
 
-The user chose **`Achariyar` instead of `Acharya`** and approved applying it consistently after confirming Article 2 used the same Rajaji referent. Therefore **`Achariyar` is the publication-wide English body rendering for `ஆச்சாரியார்`** in Articles 1–14 unless the source itself changes label. The personal identity remains in translator/editorial notes and is not mechanically substituted into Kalaignar's body text.
+The user chose **`Achariyar` instead of `Acharya`** and approved applying it consistently after confirming Article 2 used the same Rajaji referent. Therefore **`Achariyar` is the publication-wide English body rendering for `ஆச்சாரியார்`** in Articles 1–14 unless the source itself changes label. When Kalaignar himself uses another source label—Article 7 explicitly uses `இராஜாஜி` once—that label must remain distinct in English rather than being homogenised.
 
 ## Article records
 
@@ -103,64 +103,75 @@ Key review decisions: article-heading and contents-page witnesses remain distinc
 - T4: **passed** — terminology, quotations, source anomaly, names, publication reference and page-boundary comments audited
 - T5: **verified**
 
-#### T1/T2 decisions and corrections
-
-- All five source page-boundary comments are represented: scans **38, 39, 40, 41, 42**.
-- Title `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?` → **`Why Did Rama Go to the Forest? A Rishi's Curse? Kaikeyi's Anger?`**, retaining the rapid causal questions rather than converting the title into an explanatory paraphrase.
-- Publication-wide `ஆச்சாரியார்` → **Achariyar** is applied throughout.
-- The source-specific `மூலி அலங்காரி` is retained as **Mooli-Alangari** because the article does not explain the reference; the translation does not invent an identification from outside the source.
-- The source coinage `பிராமணவம்பர்` is rendered **Brahmin Vambar**, preserving Kalaignar's immediate sound-play `வால்மீகியோ? ... கம்பரோ? ... பிராமணவம்பரோ?` rather than flattening it into a neutral insult.
-- The opening draft wording `join the conspiracy` was tightened to **`conspire and have himself crowned`**, staying closer to `சதிசெய்து முடிசூட்டிக் கொள்ள`.
-- In Kaikeyi's imagined speech, final draft `intrigue will not triumph` was corrected to **`the plot will not triumph`**, preserving the established `சூழ்ச்சி` → **plot** distinction from explicit `சதி` → **conspiracy**.
-- Kaikeyi's sacrificed youth remains a physical image: **`place the very bloom of her youth upon the old man's sacrificial altar`**.
-- Sita's horoscope language `வனவாசப் பிராப்தி` is kept as **`destined for forest exile`**, and `ஜாதக விசேஷம்` as **`special feature of Sita's horoscope`**, so Kalaignar's sequence of competing causes remains visible.
-- The Tamil witness's mixed quote marks around `மூதேவி அடி எடுத்து வைத்த நேரம் அப்படி!` are explicitly documented in a source comment rather than silently treated as regular source punctuation.
-- No Tamil paragraph, rhetorical question sequence, repeated phrase, quotation, named actor or source page boundary was intentionally omitted.
-
-#### T3 Kalaignar-voice / wordplay decisions
-
-- Kaikeyi's defence remains confrontational rather than academic: **`What mother would not seethe on hearing that Rama too had agreed to deceive her son!`**
-- The `வால்மீகி / கம்பர் / பிராமணவம்பர்` sequence remains a three-beat jab: **`Valmiki? Or Kambar? Or this Brahmin Vambar? No!`**
-- Kalaignar's inversion of the exile scene remains direct: **`Ayodhya for Bharata—the forest for Rama`** and **`a scene of joy in which the schemers were brought down`**, rather than being softened into neutral plot summary.
-- The hostile Hanuman comparison remains explicit: **`many Hanumans who betray their own people to the enemy—people like Achariyar`**.
-- Sita's love is not politely idealised; the source `களங்கம்` remains **blemish**, and the self-interest argument remains direct.
-- The causal hammering is preserved: **Sita's horoscope? the rishi's curse? Kaikeyi's anger? the power of fate?**
-- Article 1's physical `சப்பைக் கட்டு` choice is deliberately reused for `பழமைக்கு சப்பைக் கட்டு போடும்` as **`fastening a splint onto the old order`**.
-- The closing joke depends on the source's apparently redundant `காலால் நடந்து`; English therefore keeps **`walk on their feet`**, then repeats **`On their feet!`** instead of smoothing it away.
-- `ஆரியக்காவல் படைகள்` remains **Aryan guard forces**, `வக்காலத்து வாங்கி` remains **take up the brief**, and the final colloquial strike remains **`this is the genius's literature, ayya, literature!`**.
-
-#### T4 terminology / quotation / source audit
-
-Confirmed against the Tamil assembly:
-
-- names/labels: Rama, Bharata, Kaikeyi, Dasaratha, Kekaya, Valmiki, Kambar, Achariyar, Hanuman, Sita, Lakshmana, Mithila, Lakshmi, Mahalakshmi, Moodevi, Kakapattar;
-- `சூழ்ச்சி` / `சதி` remain **plot / conspiracy**;
-- `காட்டேகுதல்` / `வனவாசம்` handled as **go to the forest / forest exile** according to rhetorical versus condition context;
-- `ரிஷியின் சாபம்` → **rishi's curse**; `விதியின் வலிமை` → **power of fate**;
-- `மூலி அலங்காரி` and `பிராமணவம்பர்` retained as source-bearing forms with explicit translator/source explanation rather than external normalisation;
-- source 19 September *Kalki* reference retained;
-- mixed quotation-mark anomaly around the Moodevi phrase documented;
-- `சுதேசமித்திரன்` conservatively transliterated **Sudesamitran** rather than externally normalised;
-- no external English version of any quoted source was imported.
-
-#### Article 6 unresolved items
-
-**None.** Article 6 is verified. The final publication consistency gate should recheck the explanatory restraint around **Mooli-Alangari / Brahmin Vambar**, the reused **splint** image, and the deliberately repetitive **walk on their feet / On their feet!** closing.
+Key decisions/corrections: all five page comments retained; `மூலி அலங்காரி` → **Mooli-Alangari** without invented external identity; `பிராமணவம்பர்` → **Brahmin Vambar**; `join the conspiracy` tightened to **conspire and have himself crowned**; `சூழ்ச்சி` / `சதி` kept **plot / conspiracy**; Kaikeyi's youth remains on the **old man's sacrificial altar**; Sita's horoscope / rishi's curse / Kaikeyi's anger / power of fate sequence retained; Moodevi mixed quote marks documented; Article 1's **splint** image reused; **walk on their feet / On their feet!** kept; **Aryan guard forces / take up the brief / ayya, literature!** retained.
 
 ### Article 7 — விபீஷணருக்கு விடை யளிப்போம்!
 
 - Tamil source: `../../articles/07-vibishanarukku-vidai-yalippom.md`
-- source Tamil blob SHA: pending T0
-- T0–T5: `not-started`
-- corrections / decisions: apply established **Achariyar** and Article 1–6 lexicon where the source supports it
-- unresolved: none yet
+- source Tamil blob SHA: **`1ae5db95c88df7ccdbd74b180c4427f8ee81d022`**
+- English file: `07-vibishanarukku-vidai-yalippom.md`
+- English title: **`Let Us Answer Vibhishana!`**
+- T0: **passed** — current strict-reviewed Tamil assembly confirmed before drafting
+- T1: **passed** — complete article translated through scans **43–49 / printed pp.41–47**
+- T2: **passed** — paragraph-by-paragraph bilingual completeness/fidelity review completed
+- T3: **passed** — Kalaignar-language, political polemic, animal analogy, Vibhishana refrain, wordplay and rhetorical-question review completed
+- T4: **passed** — terminology, quotations, source-specific forms, explicit `Rajaji` label, issue/date reference, names and page-boundary comments audited
+- T5: **verified**
+
+#### T1/T2 decisions and corrections
+
+- All seven source page-boundary comments are represented: scans **43, 44, 45, 46, 47, 48, 49**.
+- Title `விபீஷணருக்கு விடை யளிப்போம்!` → **`Let Us Answer Vibhishana!`**. After reading the whole article, **answer** was preferred over neutral `reply/response` because Kalaignar is conducting a sustained direct rebuttal, while the closing `காலந்தான் பதில் கூறவேண்டும்!` supplies a deliberate answer/reply echo.
+- Publication-wide `ஆச்சாரியார்` → **Achariyar** is applied where that exact source label appears. The source's explicit `இராஜாஜி` in `இராஜாஜி காலத்து சிவஞானங்கள்` remains **Rajaji**, preserving Kalaignar's change of label rather than mechanically harmonising it.
+- `சிவஞானம்` / mocking plural `சிவஞானங்கள்` are preserved as **Sivagnanam / Sivagnanams**. No external biographical identification was inserted because the supplied source itself is sufficient for the translation and the permanent guide forbids unsupported expansion.
+- `விபீஷணர்`, `விபீஷணத் தன்மை`, and `விபீஷணக் கொள்கை` are kept as **Vibhishana**, **Vibhishana-ness**, and **Vibhishana doctrine** rather than being flattened to generic `traitor/treachery` vocabulary.
+- The fox/heron/deer/fish analogy was checked closely. T2 changed the draft's **`could the other deer and fish refrain from anger?`** to **`could the others of their own kind refrain from anger?`** so English does not add a collective formulation beyond what the Tamil supports.
+- `முப்புரி` is kept as **muppuri, the three-stranded sacred thread** within the physical political image rather than replaced by a detached explanatory phrase.
+- Unexplained/source-specific `தண்ட கண்ட`, `இனித்தவாயன்`, and `ஆர்குஸிஸ்` remain **thanda-kanda**, **Inithavayan**, and **Argusis** with a translator/source note; no external normalisation was imported.
+- Sivagnanam's quoted `வாழ்வாங்கு வாழ்ந்த மனிதன்` was refined in T2 from **`a man who lived a worthy life`** to the closer **`a man who lived as one ought to live`**.
+- In the Ahalya passage, the draft wording **`that erring ascetic's wife`** was corrected to **`that erring wife of the ascetic sage`** so the error is not accidentally attributed to the sage.
+- The verified Tamil page witness visibly reads `கற்பு நிலையைப் பாதிக்கும்`. Because the surrounding argument is Sivagnanam's claim that the Ramayana upholds chastity, the English carries that immediate argumentative target as **`Rama, who is supposed to uphold the condition of chastity`**, and an explicit source note records the difficult Tamil reading instead of silently changing the Tamil layer.
+- No prose paragraph, quotation, named actor, date/issue reference, rhetorical repetition, animal image or page boundary was intentionally omitted.
+
+#### T3 Kalaignar-voice / wordplay decisions
+
+- The opening political charge remains direct: Ramayana propaganda revives after Achariyar is **`driven out of ministerial office`**; it is not converted into neutral chronology.
+- `கோல்கொண்டாவது கண்ணைக் குத்தி... / இதிகாசத்தைக் கொண்டாவது... கபோதிகளாக்கி` remains a paired physical image of blinding with a stick versus blinding Dravidians with an epic.
+- The dying-epic satire remains grotesque and ceremonial: cough at Erode, bier/final journey, ear-ornament/sacred-thread/wedding ceremonies, and the **Kakapattar lineage** are retained.
+- The fox/heron analogy retains Kalaignar's clipped cadence: **`A fox!`**, **`Why? To live!`**, **`A heron... why? To fill its belly!`**, followed by **`Forgive me, friends!`** and the explicit jump to human traitors.
+- `வால்மீகி கம்பர், வாலேந்திகள்!` remains **`Valmiki, Kambar and the tail-bearers`**, preserving the mocking tail-bearing image instead of smoothing it away.
+- The guru/disciple contradiction remains: **Guru Achariyar / Disciple Sivagnanam**, with **poor man!** preserved.
+- The one-wife-vow argument remains relentlessly interrogative through Vishnu, Bhudevi/Sridevi, Krishna, the Gopis, Bhama, Rukmini and Radha.
+- `அந்தோ! அந்தோ! வெட்கம் வெட்கம்!` remains **`Alas! Alas! Shame! Shame!`**.
+- `நிறவெறிப் பேயாட்டம்` is **`demonic frenzy of colour-hatred`**, allowing Kalaignar's later sarcasm about different **“colours”** to remain visible.
+- The final contrast between Kambar and Ilango Adigal keeps the physical **Tamil wax** image, and the closing accusation remains **`carrying kavadi for the North`**, **`Vibhishana doctrine`**, and **`Time alone must give the answer!`**.
+
+#### T4 terminology / quotation / source audit
+
+Confirmed against the Tamil assembly and page witness where needed:
+
+- source Tamil blob SHA **`1ae5db95c88df7ccdbd74b180c4427f8ee81d022`** recorded;
+- source pages **43–49 / printed 41–47** all represented;
+- `ஆச்சாரியார்` → **Achariyar**, explicit `இராஜாஜி` → **Rajaji**;
+- names/forms: Vibhishana, Ravana, Sivagnanam/Sivagnanams, Valmiki, Kambar, Periyar Ramasamy, Dasaratha, Rama, Sita, Lakshmana, Urmila, Lava, Kusha, Vishnu, Bhudevi, Sridevi, Krishna, Gopis, Bhama, Rukmini, Radha, Ahalya, Indra, Potti Sriramulu, Kannagi, Ilango Adigal, Apollo, Argusis;
+- `பகுத்தறிவு` → **rationalism / reason** by context;
+- `வக்காலத்து வாங்கி` reuses **take up the brief**;
+- `ஏகபத்தினி விரதம்` → **vow of one wife**; `ஆண் கற்பு` → **male chastity**;
+- `முப்புரி`, `தண்ட கண்ட`, `இனித்தவாயன்`, `ஆர்குஸிஸ்` handled with source-bearing restraint;
+- 3 October *Kalki* reference retained;
+- scan-48 `கற்பு நிலையைப் பாதிக்கும்` difficulty explicitly documented in the English source note rather than silently normalised;
+- no external English quotation or external biography was imported.
+
+#### Article 7 unresolved items
+
+**None.** Article 7 is verified. The final publication consistency gate should recheck **Vibhishana / Vibhishana-ness / Vibhishana doctrine**, the source distinction **Achariyar / Rajaji**, **Sivagnanam / Sivagnanams**, the source-bearing forms **thanda-kanda / Inithavayan / Argusis**, and the explanatory restraint around scan-48 `கற்பு நிலையைப் பாதிக்கும்`.
 
 ### Article 8 — நாடாண்ட மன்னன் நாதியற்று செத்தான்
 
 - Tamil source: `../../articles/08-naadaanda-mannan-naathiyatru-seththaan.md`
 - source Tamil blob SHA: pending T0
 - T0–T5: `not-started`
-- corrections / decisions: none yet
+- corrections / decisions: apply established Article 1–7 lexicon only where the source supports it
 - unresolved: none yet
 
 ### Article 9 — தந்தை மகனும் தருமம் தவறியவர்கள்!
@@ -176,7 +187,7 @@ Confirmed against the Tamil assembly:
 - Tamil source: `../../articles/10-vishnu-avatharam-enbathum-ramanidam.md`
 - source Tamil blob SHA: pending T0
 - T0–T5: `not-started`
-- corrections / decisions: none yet
+- corrections / decisions: preserve known title/body source-witness distinction
 - unresolved: none yet
 
 ### Article 11 — நடப்பதெல்லாம் நாராயணன் செயலா?
@@ -192,7 +203,7 @@ Confirmed against the Tamil assembly:
 - Tamil source: `../../articles/12-maarisanai-thuraththi-sendra-ramanidam.md`
 - source Tamil blob SHA: pending T0
 - T0–T5: `not-started`
-- corrections / decisions: none yet
+- corrections / decisions: keep scan-83 promotional witness separate from article body
 - unresolved: none yet
 
 ### Article 13 — துரோகிகள் சந்திப்பு!
@@ -208,13 +219,19 @@ Confirmed against the Tamil assembly:
 - Tamil source: `../../articles/14-kaariyamaagum-varaiyil-kaalai-pidi.md`
 - source Tamil blob SHA: pending T0
 - T0–T5: `not-started`
-- corrections / decisions: none yet
+- corrections / decisions: preserve known title-spacing witness distinction
 - unresolved: none yet
 
 ## Final publication consistency gate — pending
 
 After all 14 articles are T5 verified, perform a complete cross-article review for recurring terminology, epithets, proper names, quotations, citations, rhetorical imperatives/questions, title style, source-witness notes, verse handling and accidental tone-softening.
 
-The publication-wide `ஆச்சாரியார்` → **`Achariyar`** choice must be checked across every translated article. Article 4's **Kama-Raja / Raja** and `அப்பாவி` / `அப்-பாவி` wordplay, Article 5's **Bharadvaja / Bar** title play plus two Kambar sense-translations, and Article 6's **Mooli-Alangari / Brahmin Vambar / splint / walk-on-their-feet** handling must also be rechecked for consistency and explanatory restraint.
+The final gate must recheck:
+
+- publication-wide `ஆச்சாரியார்` → **Achariyar**, while preserving any explicit source switches such as Article 7 `இராஜாஜி` → **Rajaji**;
+- Article 4 **Kama-Raja / Raja** and `அப்பாவி` / `அப்-பாவி` wordplay;
+- Article 5 **Bharadvaja / Bar** title play and both Kambar sense-translations;
+- Article 6 **Mooli-Alangari / Brahmin Vambar / splint / walk-on-their-feet** handling;
+- Article 7 **Vibhishana / Vibhishana-ness / Vibhishana doctrine**, **Sivagnanam / Sivagnanams**, source-bearing **thanda-kanda / Inithavayan / Argusis**, and the scan-48 `கற்பு நிலையைப் பாதிக்கும்` note.
 
 Do not declare the English publication complete before that gate passes.
