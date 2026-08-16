@@ -33,8 +33,8 @@
 
 ### English translation phase — ACTIVE
 
-- drafts complete: **10 / 14**
-- translations verified through T0–T5: **10 / 14**
+- drafts complete: **11 / 14**
+- translations verified through T0–T5: **11 / 14**
 - final cross-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -50,13 +50,14 @@ Verified translations:
 8. `நாடாண்ட மன்னன் நாதியற்று செத்தான்` → **The King Who Ruled the Land Died with No One to Tend Him**
 9. `தந்தை மகனும் தருமம் தவறியவர்கள்!` → **Father and Son—Both Strayed from Dharma!**
 10. `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **To Rama, Who Is Said to Be Vishnu's Incarnation!**
+11. `நடப்பதெல்லாம் நாராயணன் செயலா?` → **Is Everything That Happens Narayana's Doing?**
 
-Publication-wide, source `ஆச்சாரியார்` is rendered **Achariyar**; explicit source-label changes such as Article 7 `இராஜாஜி` remain **Rajaji**.
+Publication-wide, source `ஆச்சாரியார்` is rendered **Achariyar**; explicit source-label changes such as Article 7 `இராஜாஜி` remain **Rajaji**, and source plurals such as Article 11 `ஆச்சாரியார்களுக்கு` remain plural in English.
 
-Article 10 preserves the source-witness distinction between the heading `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` and scan-63 body `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`; **Ramayana tigers**; the meat-eating-rishi challenge; **shraddha feast / mesha (goat) meat / human flesh**; scan-63 unmatched parenthesis; Surpanakha's **thirst of lust / business trouble / second wife** sequence; **rasabhasa**; the reused **splint** image; and the final **Aryan culture** jab.
+Article 11 preserves the May **1954 / 1955** contradiction, **backing orchestra / Chanakya / Brahmin leader** ridicule, compact Narayana/Rama contradiction, Maricha's **dharma and justice / sinful act**, source-corrected **Oh-ho!**, **Ayyo, Lakshmana!**, scan-69 unmatched quotation, Janaki's insult cascade, **fourth-rate woman**, fate argument, physical tongue image, **Kaga Pattar**, **the Achariyars**, and the final livelihood line.
 
 English workspace: [`publications/sakkaravarththiyin-thirumagan/translations/en/`](publications/sakkaravarththiyin-thirumagan/translations/en/)  
 Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
 Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
 
-**Exact next translation activity: Article 11 — `நடப்பதெல்லாம் நாராயணன் செயலா?`.** Read the complete current strict-reviewed Tamil assembly before finalising its English title, then complete T0–T5 before Article 12.
+**Exact next translation activity: Article 12 — `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`.** Read the complete current strict-reviewed Tamil assembly before finalising its English title, keep scan 83's promotional witness separate from the body witness, then complete T0–T5 before Article 13.
