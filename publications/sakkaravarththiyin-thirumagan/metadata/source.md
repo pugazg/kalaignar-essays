@@ -11,6 +11,7 @@
 - Script: Tamil
 - Controlling source: the supplied scanned PDF
 - Source-layer archival status: **83 / 83 physical scans VERIFIED and classified**
+- Strict visual text-fidelity status: **83 / 83 physical scans PASS; 14 / 14 article assemblies rechecked**
 
 ## Title / authorship visible in the scan
 
@@ -71,13 +72,21 @@ Direct source inspection establishes the complete boundaries:
 | 7 | விபீஷணருக்கு விடை யளிப்போம்! | 43–49 | 41–47 |
 | 8 | நாடாண்ட மன்னன் நாதியற்று செத்தான் | 50–54 | 48–52 |
 | 9 | தந்தை மகனும் தருமம் தவறியவர்கள்! | 55–60 | 53–58 |
-| 10 | விஷ்ணு அவதாரம் என்பதும் ராமனிடம்! | 61–64 | 59–62 |
+| 10 | விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்! | 61–64 | 59–62 |
 | 11 | நடப்பதெல்லாம் நாராயணன் செயலா? | 65–70 | 63–68 |
 | 12 | மாரீசனைத் துரத்திச் சென்ற ராமனிடம் | 71–73 | 69–71 |
 | 13 | துரோகிகள் சந்திப்பு! | 74–78 | 72–76 |
 | 14 | காரியமாகும் வரையில் காலை பிடி! | 79–82 | 77–80 |
 
 Article 14 ends on scan 82 at the printed article-ending ornament. Material below that ornament is not article text.
+
+## Source-witness title distinctions
+
+- Article 5 contents: `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`; heading: `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`.
+- Article 10 contents + heading: `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`; scan-63 body phrase: `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`.
+- Article 14 contents: `காரியமாகும் வரையில் காலைப் பிடி!`; heading: `காரியமாகும் வரையில் காலை பிடி!`.
+
+These are retained as distinct source witnesses rather than harmonized.
 
 ## Printed-page behaviour
 
@@ -91,7 +100,7 @@ The publication states **80** printed pages while the supplied PDF contains **83
 - The scan-82 advertisement includes `தோற்றம் : 1935`, `விடுதலை`, `உலகின் ஒரே பகுத்தறிவு நாளேடு`, and `www.viduthalai.in`.
 - Scan 83 is the physical back cover, not article text.
 - The back cover includes colour artwork, a promotional excerpt associated with Article 12 / printed p.70, barcode `9997720145467`, and `நன்கொடை: ரூ.50/-`.
-- The back-cover excerpt is retained as a separate source witness; visible differences such as `எந்தப் பெண்ணாவது, தனது` and `அறி குறி?` are not silently imported into the Article 12 body-page transcription.
+- The back-cover excerpt is retained as a separate source witness; visible differences include `எந்தப் பெண்ணாவது, தனது`, `அறி குறி?`, and `அத்தகைய நாண உணர்ச்சி தலைகாட்டுகிறது. சொந்தக் கணவனைக்...`.
 
 ## Scan / physical-copy observations
 
@@ -102,6 +111,18 @@ The publication states **80** printed pages while the supplied PDF contains **83
 - Scan 82 has a large purple circular library stamp crossing the header and part of the final Article 14 text area; the underlying print remains legible and the stamp is recorded separately.
 - Scan 82 also has handwritten `A0482`, `B 294.5922` and a partly unclear short Tamil note after the Article 14 ornament.
 - Printed marks and physical-copy marks remain distinct in page records.
+
+## Strict visual text-fidelity review
+
+After the initial archival completion, every source page was re-read in a separate strict pass at word, word-boundary, punctuation, quotation, heading, date/number and paragraph-continuation level.
+
+- physical scans strict-rechecked: **83 / 83 PASS**
+- article assemblies rechecked after corrections: **14 / 14 PASS**
+- blocked article-body readings: **0**
+- needs-review article-body readings: **0**
+- outstanding known visual-fidelity discrepancies: **0**
+
+Full correction provenance: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Source authority rule
 
