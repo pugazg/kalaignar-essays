@@ -1,7 +1,7 @@
 ---
 publication: "sakkaravarththiyin-thirumagan"
 article_number: 10
-title_ta: "விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!"
+title_ta: "விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!"
 scan_pages: "61-64"
 printed_pages: "59-62"
 status: "verified"
@@ -10,7 +10,7 @@ source_filename: "TVA_BOK_0065662_சக்கரவர்த்தியின�
 assembly_method: "concatenated from verified page-level source transcriptions"
 ---
 
-# விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!
+# விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!
 
 <!-- scan 61 / printed 59 -->
 
