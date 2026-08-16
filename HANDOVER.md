@@ -42,7 +42,7 @@ The user requested a new, stricter word-by-word visual check. This is being perf
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-Current strict-review progress: **16 / 83 scans complete**.
+Current strict-review progress: **24 / 83 scans complete**.
 
 ### Completed batch 1 — scans 1–8
 
@@ -57,16 +57,27 @@ Current strict-review progress: **16 / 83 scans complete**.
 - scans 11–12: **CORRECTED (revalidated)** — source spacing `கல் சாசனமோ`
 - scans 13–16: **FIDELITY-PASS**
 - Article 1 assembly rechecked against the corrected page layer
-- scan 16 / Article 2 opening rechecked, including source-visible `(ஆகஸ்டு 154)`
+
+### Completed batch 3 — scans 17–24
+
+- scans **17–21**: **5 / 5 FIDELITY-PASS**
+- scans **22–24**: **3 / 3 FIDELITY-PASS**
+- no new transcription discrepancy found in this batch
+- Article 2, scans **16–21**, is now fully strict-rechecked against its assembly
+- Article 3 scans **22–24** agree with its assembly; scan 25 remains before Article 3 strict closeout
+- preserved anomalies include the unclosed quotations on scans 18 and 20 and the unmatched closing quotation at the end of scan 24
+
+Important rechecked forms in this batch include `எப்படி பெய்ப்படி`, `அவர்கட்கு`, `தையல் சீதை`, `தாம்பிரபு`, `பரதசத்ருக்கனர்`, `காடாண்டபோதும்`, `ஆச்சர்யமில்லையதான்`, `முடியைப்பற்றி`, `எதொரு`, and `வியக்தமாகத்`.
 
 ## Exact next activity
 
-Strictly review **scans 17–24** against the controlling PDF.
+Strictly review **scans 25–32** against the controlling PDF.
 
 This batch contains:
 
-- scans **17–21** — remainder of Article 2 `தேகமும் உணர்வும்`
-- scans **22–24** — first three pages of Article 3 `சதி நிரூபிக்கப்படுகிறது`
+- scan **25** — Article 3 `சதி நிரூபிக்கப்படுகிறது` conclusion
+- scans **26–29** — Article 4 `காமராஜன் ஆட்கொண்ட தசரதராஜன்!`
+- scans **30–32** — first three pages of Article 5
 
 For every scan:
 
@@ -76,7 +87,7 @@ For every scan:
 4. correct the page record only from scan evidence;
 5. propagate any correction into the relevant article assembly and dependent source-facing indexes/notes;
 6. record a page verdict in `VISUAL_TEXT_FIDELITY_REVIEW.md`;
-7. advance the strict-review count only after all scans 17–24 are closed.
+7. advance the strict-review count only after all scans 25–32 are closed.
 
 **Do not claim 83/83 strict fidelity until the staged review actually reaches scan 83.**
 
