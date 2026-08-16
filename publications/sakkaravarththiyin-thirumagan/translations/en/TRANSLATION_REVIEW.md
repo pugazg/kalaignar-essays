@@ -28,7 +28,18 @@ Corrections made during T2–T4 must be recorded rather than hidden.
 - articles T4 audited: **0 / 14**
 - articles T5 verified: **0 / 14**
 - publication-level cross-article review: **not started**
-- unresolved translation questions: **0 recorded; translation not yet started**
+- unresolved translation questions: **1 lexical-form choice pending** (`Acharya` vs closer transliteration); referent itself is established
+
+## Pre-translation identity clarification
+
+Before Article 1 translation began, the user explicitly clarified that **`ஆச்சாரியார்` in this publication refers to C. Rajagopalachari, alias Rajaji**.
+
+Translation consequence:
+
+- the referent is treated as established;
+- Kalaignar's source label `ஆச்சாரியார்` must still be preserved as a label in the translated body rather than mechanically replaced by `Rajaji`;
+- if the English reader needs identification, that identification belongs in a separate translator/editor note outside Kalaignar's body text;
+- the exact recurring English form (`Acharya` or a closer transliteration such as `Achariyar`) will be settled during Article 1 T3 voice review and then frozen in `LEXICON.md`.
 
 ## Article records
 
@@ -42,8 +53,8 @@ Corrections made during T2–T4 must be recorded rather than hidden.
 - T3: `not-started`
 - T4: `not-started`
 - T5: `not-started`
-- corrections / decisions: none yet
-- unresolved: none yet
+- corrections / decisions: pre-translation referent clarification — `ஆச்சாரியார்` = **C. Rajagopalachari (Rajaji)**; preserve Kalaignar's label in the English body
+- unresolved: exact recurring English label form to be confirmed at T3
 
 ### Article 2 — தேகமும் உணர்வும்
 
