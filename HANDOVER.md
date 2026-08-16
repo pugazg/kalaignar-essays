@@ -11,12 +11,16 @@ Read completely before making changes:
 
 1. [`ESSAY_PROCESSING_GUIDE.md`](ESSAY_PROCESSING_GUIDE.md)
 2. [`ESSAY_TRANSLATION_GUIDE.md`](ESSAY_TRANSLATION_GUIDE.md)
-3. this `HANDOVER.md`
-4. [`publications/sakkaravarththiyin-thirumagan/README.md`](publications/sakkaravarththiyin-thirumagan/README.md)
-5. [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)
-6. [`publications/sakkaravarththiyin-thirumagan/translations/en/README.md`](publications/sakkaravarththiyin-thirumagan/translations/en/README.md)
-7. [`publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md`](publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md)
-8. [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
+3. [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md)
+4. this `HANDOVER.md`
+5. [`docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`](docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md) when activating a new publication
+6. [`publications/sakkaravarththiyin-thirumagan/README.md`](publications/sakkaravarththiyin-thirumagan/README.md)
+7. [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)
+8. [`publications/sakkaravarththiyin-thirumagan/translations/en/README.md`](publications/sakkaravarththiyin-thirumagan/translations/en/README.md)
+9. [`publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md`](publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md)
+10. [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
+
+For a brand-new work/chat window, use [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md) with the controlling PDF attached.
 
 For E7, fetch every release-facing file fresh from `main` before changing status or creating the release-closeout record.
 
@@ -216,6 +220,18 @@ These are source-witness differences, not inconsistencies to be mechanically har
 - Translation-body edits: **none**.
 - Unresolved translation questions: **none**.
 - Result: **E6 PASSED; English translation COMPLETE.**
+
+## Reusable future-work kit — COMPLETE
+
+The repository now contains a reusable future-publication documentation set:
+
+- [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md) — source intake through strict fidelity, translation, consistency review and release sequencing;
+- [`docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`](docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md) — template for restructuring/updating this **single** root handover when a new publication becomes active; it must never become a competing live handover;
+- [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md) — reusable new-chat prompt requiring the controlling PDF, repository inspection, source-first processing, strict visual fidelity and continuous handover updates.
+
+Important reusable rule: **publication-specific identity or transliteration decisions must not be mechanically copied into a future work.** Establish them again from that publication's source/user evidence and record them in its lexicon.
+
+This documentation activity does not alter the current `சக்கரவர்த்தியின் திருமகன்` release state. The exact next publication activity remains E7 below.
 
 ## Exact next activity — E7 English release closeout
 
