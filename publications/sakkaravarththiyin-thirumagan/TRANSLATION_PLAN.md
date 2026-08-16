@@ -11,15 +11,18 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 
 Translate all **14 articles** into readable English while retaining Kalaignar's direct address, sarcasm, rhetorical questions, repetition, exclamations, polemical labels, imagery, wordplay and argumentative rhythm. This is not a summary, adaptation or neutral academic rewrite.
 
-## Source prerequisite — PASSED
+> **Translate the language; do not neutralise the voice.**
+
+## Source prerequisite — PASSED / FROZEN
 
 - physical scans: **83 / 83** source-recorded and strict-reviewed
 - Tamil article assemblies: **14 / 14** complete and strict-rechecked
 - unresolved `NEEDS-PIXEL-REVIEW`: **0**
+- source PDF committed to repository: **No**
 
 The immediate translation source is the strict-reviewed Tamil article assembly in `articles/`.
 
-## Article order and status
+## Article order and final status
 
 | # | Tamil title | Status |
 |---:|---|---|
@@ -53,16 +56,7 @@ All 14 article-level work units are complete.
 
 All 14 current English article files were fetched fresh from `main` and reviewed against the living lexicon, translation review ledger, this plan and the authoritative handover.
 
-E6 confirmed:
-
-- recurring names/epithets and source-label switches are consistent;
-- Aryan / Dravidian / Aryanism, dharma, atheism, rationalism and other ideological vocabulary retain the established distinctions;
-- demon / Rakshasa / asura / Deva distinctions remain source-sensitive;
-- title/body puns and rhetorical echoes remain intact, especially Articles 4, 5, 8, 13 and 14;
-- commands, rhetorical questions, repetition, ridicule and harsh formulations were not accidentally smoothed;
-- source-bearing transliterations and documented source anomalies remain intact;
-- all dates, *Kalki* citations and source-page comments remain present;
-- Article 12 scan-83 promotional witness and Article 14 scan-82 advertisement boundary remain correctly separated.
+E6 confirmed recurring names/epithets, ideological vocabulary, demon/Rakshasa/asura/Deva distinctions, title/body puns, commands, rhetorical questions, repetition, source-bearing forms, source anomalies, dates/citations and page traceability.
 
 Two apparent English spelling differences were checked against source and intentionally retained rather than normalised:
 
@@ -71,7 +65,25 @@ Two apparent English spelling differences were checked against source and intent
 
 **No Article 1–14 body edit was required during E6.** There are **0 unresolved translation questions**.
 
-## Phase sequence
+## E7 English release closeout — COMPLETE / PASSED
+
+Release report: [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
+
+E7 re-fetched the release-facing repository state from `main` and confirmed:
+
+- all 14 English files exist;
+- every English article remains `translation_status: verified`;
+- every English `source_tamil_blob_sha` matches the current frozen Tamil article blob;
+- tracker/review/plan counts agree at **14 / 14 T5**, **E6 PASSED**, **0 unresolved**;
+- the Tamil archival layer remains **COMPLETE / FROZEN**;
+- the Git tree contains no source PDF;
+- Article 5/10/14 witness distinctions, scan-83 Article 12 promotional separation, scan-82 Article 14/advertisement boundary and other source-bearing exceptions remain documented;
+- no verified English article body required an E7 edit;
+- release blockers: **0**.
+
+**Result: E7 PASSED; English release gate CLOSED.**
+
+## Phase sequence — FINAL
 
 - **E0 setup:** COMPLETE
 - **E1 Article 1 calibration:** COMPLETE
@@ -80,16 +92,22 @@ Two apparent English spelling differences were checked against source and intent
 - **E4 Articles 9–11:** COMPLETE
 - **E5 Articles 12–14:** COMPLETE
 - **E6 publication consistency review:** **COMPLETE / PASSED**
-- **E7 English release closeout:** **NEXT**
+- **E7 English release closeout:** **COMPLETE / PASSED**
 
-## Current progress
+## Final progress
 
 - English article drafts: **14 / 14**
 - English articles T5 verified: **14 / 14**
 - publication consistency review: **PASSED**
+- release closeout: **PASSED**
+- unresolved translation questions: **0**
 - English translation: **COMPLETE**
-- English release gate: **OPEN pending E7 closeout**
+- English release gate: **CLOSED**
 
-## Exact next activity
+## Non-regression / maintenance rule
 
-Proceed with **E7 — English release closeout**. Verify all release-facing repository files and links, confirm the final 14-article status, create/update the release-closeout record required by the workflow, and close the English release gate only if no release blocker remains.
+This plan is closed for normal translation work. Do not reopen a verified article for stylistic polishing. A Tamil or English article may be reopened only if a genuine source-supported defect is found; any Tamil correction must propagate through the affected English gates before release status is restored.
+
+## Exact next normal activity
+
+Keep `சக்கரவர்த்தியின் திருமகன்` frozen. When the next Kalaignar essay/article source PDF is supplied, execute **P0 — source intake / publication identification** under [`../../docs/FUTURE_WORK_GUIDELINES.md`](../../docs/FUTURE_WORK_GUIDELINES.md), inspect the actual scan and repository state first, continue existing work if present, and update the single root [`../../HANDOVER.md`](../../HANDOVER.md).
