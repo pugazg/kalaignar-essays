@@ -18,10 +18,10 @@
 
 இவை அனைத்தும் இந்த scan-ல் அச்சிடப்பட்ட edition statements ஆக மட்டுமே பதிவு செய்யப்படுகின்றன.
 
-## Processing status — source complete
+## Processing status — source complete + strict visual fidelity complete
 
 - Source identity: **registered**
-- Total scan pages: **83 / 83 VERIFIED and classified**
+- Total scan pages: **83 / 83 VERIFIED, classified, and strict word-by-word visually rechecked**
 - Front matter scans **1–8**: **8 / 8 VERIFIED**
 - Article 1 — **சக்கரவர்த்தியின் திருமகன்**: scans **9–15**, printed pages **7–13**: **7 / 7 VERIFIED / source-complete**
 - Article 1 assembled: [`articles/01-sakkaravarththiyin-thirumagan.md`](articles/01-sakkaravarththiyin-thirumagan.md)
@@ -41,7 +41,7 @@
 - Article 8 assembled: [`articles/08-naadaanda-mannan-naathiyatru-seththaan.md`](articles/08-naadaanda-mannan-naathiyatru-seththaan.md)
 - Article 9 — **தந்தை மகனும் தருமம் தவறியவர்கள்!**: scans **55–60**, printed pages **53–58**: **6 / 6 VERIFIED / source-complete**
 - Article 9 assembled: [`articles/09-thanthai-maganum-tharumam-thavariyavargal.md`](articles/09-thanthai-maganum-tharumam-thavariyavargal.md)
-- Article 10 — **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**: scans **61–64**, printed pages **59–62**: **4 / 4 VERIFIED / source-complete**
+- Article 10 — **விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!**: scans **61–64**, printed pages **59–62**: **4 / 4 VERIFIED / source-complete**
 - Article 10 assembled: [`articles/10-vishnu-avatharam-enbathum-ramanidam.md`](articles/10-vishnu-avatharam-enbathum-ramanidam.md)
 - Article 11 — **நடப்பதெல்லாம் நாராயணன் செயலா?**: scans **65–70**, printed pages **63–68**: **6 / 6 VERIFIED / source-complete**
 - Article 11 assembled: [`articles/11-nadappathellam-narayanan-seyala.md`](articles/11-nadappathellam-narayanan-seyala.md)
@@ -53,16 +53,27 @@
 - Article 14 assembled: [`articles/14-kaariyamaagum-varaiyil-kaalai-pidi.md`](articles/14-kaariyamaagum-varaiyil-kaalai-pidi.md)
 - Scan **82 / printed p.80**: Article 14 concludes above a printed ornament; the lower page contains physical-copy accession marks and a printed `விடுதலை` advertisement.
 - Scan **83**: **VERIFIED back cover**, containing artwork, a promotional Article 12 excerpt, barcode and price; it is not Article 14 text.
+- Strict visual fidelity gate: **83 / 83 scans PASS; 14 / 14 assemblies rechecked; 0 unresolved article-body fidelity locations**.
 
-**All 14 articles and all 83 supplied physical scan pages are now source-archived for this edition.**
+**All 14 articles and all 83 supplied physical scan pages are source-archived and have passed the strict visual text-fidelity review for this edition.**
 
-### Article 5 heading variation inside the same source
+## Source-witness variations preserved
 
-The `பொருளடக்கம்` page prints **பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?**, while the Article 5 heading page itself prints **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**. Both source-visible forms are preserved rather than reconciled editorially.
+### Article 5
 
-### Back-cover witness note
+The `பொருளடக்கம்` page prints **பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?**, while the Article 5 heading page itself prints **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**.
 
-The back cover reproduces a passage associated with Article 12 / printed p.70. Its own visible forms — including `எந்தப் பெண்ணாவது, தனது` and `அறி குறி?` — are preserved as a separate back-cover witness and are not silently imposed on the Article 12 body-page transcription.
+### Article 10
+
+The `பொருளடக்கம்` and the scan-61 heading both print **விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!**. A separate scan-63 body phrase reads **விஷ்ணு அவதாரம் என்பதும் ராமனிடமே**. These witnesses are not reconciled.
+
+### Article 14
+
+The `பொருளடக்கம்` prints **காரியமாகும் வரையில் காலைப் பிடி!**, while the scan-79 heading prints **காரியமாகும் வரையில் காலை பிடி!**.
+
+### Back-cover witness
+
+The back cover reproduces a passage associated with Article 12 / printed p.70. Its own visible forms — including `எந்தப் பெண்ணாவது, தனது`, `அறி குறி?`, and `அத்தகைய நாண உணர்ச்சி தலைகாட்டுகிறது. சொந்தக் கணவனைக்...` — are preserved as a separate back-cover witness and are not silently imposed on the Article 12 body-page transcription.
 
 ## Files
 
@@ -70,7 +81,8 @@ The back cover reproduces a passage associated with Article 12 / printed p.70. I
 - [`indexes/contents.md`](indexes/contents.md) — printed பொருளடக்கம்
 - [`indexes/page-map.md`](indexes/page-map.md) — scan ↔ printed page/article mapping
 - [`audit.md`](audit.md) — source audit and completion gates
-- [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md) — final source-layer completion review
+- [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md) — source-layer completion review
+- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md) — strict word-by-word / punctuation-by-punctuation final fidelity review
 - `pages/` — all 83 physical scan-page archival records
 - `articles/` — all 14 assembled article readings
 
