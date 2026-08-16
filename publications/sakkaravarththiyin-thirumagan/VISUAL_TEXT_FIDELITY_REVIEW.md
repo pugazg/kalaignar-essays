@@ -29,12 +29,12 @@ Each physical page is reopened and compared directly with the scan for every rea
 | 33–40 | Article 5 / Article 6 | **8 / 8 COMPLETE** |
 | 41–48 | Article 6 / Article 7 | **8 / 8 COMPLETE** |
 | 49–56 | Article 7 / Article 8 / Article 9 | **8 / 8 COMPLETE** |
-| 57–64 | Article 9 / Article 10 | **PENDING — next batch** |
-| 65–72 | Article 11 / Article 12 | PENDING |
+| 57–64 | Article 9 / Article 10 | **8 / 8 COMPLETE** |
+| 65–72 | Article 11 / Article 12 | **PENDING — next batch** |
 | 73–80 | Article 12 / Article 13 / Article 14 | PENDING |
 | 81–83 | Article 14 close, advertisement, back cover | PENDING |
 
-Current strict-fidelity progress: **56 / 83 physical scans complete**.
+Current strict-fidelity progress: **64 / 83 physical scans complete**.
 
 The publication remains source-layer complete, but must not be described as strict visual-text-fidelity complete until all 83 scans and all article assemblies have passed this staged review.
 
@@ -45,28 +45,28 @@ The publication remains source-layer complete, but must not be described as stri
 - scans **17–24**: 8/8 pass; Article 2 fully strict-rechecked
 - scans **25–32**: 8/8 pass; Articles 3 and 4 fully strict-rechecked
 - scans **33–40**: completed; revalidated `பரத்துவாஜ...`, `போடுகிறவன் போட்டாலும்`, `சீறிப் பாய்ந்தார்கள்`; Article 5 fully strict-rechecked
-- scans **41–48**: completed; new corrections included mixed source quotation on scan 41, `சப்பைக் கட்டு போடும்` on scan 42, and scan-44 comma spacing `தன் இனம்,தன் சமுதாயம்,அந்த...`; Article 6 fully strict-rechecked
+- scans **41–48**: completed; corrections include mixed quotation on scan 41, `சப்பைக் கட்டு போடும்` on scan 42, and scan-44 comma spacing `தன் இனம்,தன் சமுதாயம்,அந்த...`; Article 6 fully strict-rechecked
+- scans **49–56**: completed; corrections include `வேறு வேறானவை !` and `ராமர்,லட்சுமணர்,சீதை`; Articles 7 and 8 fully strict-rechecked
 
-## Batch 7 — scans 49–56
+## Batch 8 — scans 57–64
 
-All eight scans were reopened and checked at readable scale. Two new spacing discrepancies were found and corrected; two already-propagated source corrections were revalidated; the remaining pages passed without alteration.
+All eight scans were reopened and visually compared at readable/enlarged scale. Four source-fidelity discrepancies were corrected in this batch, while the Article 10 heading correction already present in the repository was independently revalidated from the scan.
 
 | Scan | Printed page / section | Verdict | Findings |
 |---:|---|---|---|
-| 49 | p.47 — Article 7 conclusion | **CORRECTED** | Source visibly prints **`வேறு வேறானவை !`** with a space before the exclamation mark; earlier Markdown had `வேறு வேறானவை!`. Article 7 assembly corrected. `ஞாபகத்தில்`, `மாண்புக்கோர்`, `தமிழ் மெழுகு`, `ஆசைப்பட்டாரில்லை`, `பாற்பட்ட கருத்து` and final ornament agree. |
-| 50 | p.48 — Article 8 begins | **CORRECTED** | Opening source spacing is **`ராமர்,லட்சுமணர்,சீதை`** with no spaces after the first two commas; earlier Markdown inserted spaces. Article 8 assembly corrected. Earlier source-layer correction **`தூய்மை யுடையதாயிருக்கிறது`** and `உயிருக்கே மன்றாடி` were revalidated. |
-| 51 | p.49 — Article 8 | **CORRECTED (revalidated)** | Existing source-layer correction **`கவுசல்யா தேவி`** rather than joined `கவுசல்யாதேவி` is confirmed. `தாம் பத்தினி`, `அப்பெய்திய`, `எனச்சாபமிட்டுச்`, `இளமையிற்`, `மிச்சமில்லே` agree. |
-| 52 | p.50 — Article 8 | **FIDELITY-PASS** | `சுமித்திரைக்குக்கூடத்`, `சூதமாகதர்கள்`, `கிரமப்படி`, `பிரவேசித்தார்கள்`, `ஆசை சரசிகள்`, `அறுபதினாயிரவரும்` and quotation behaviour agree. The first quotation remains source-unclosed. |
-| 53 | p.51 — Article 8 | **FIDELITY-PASS** | `பார் ஆண்ட பார்த்திபனுக்கு`, `அயோத்தி ஆரணங்குகள்`, `பாக்கையைக்`, `திறமைபெற்றவன்`, `அறுபதாயிரம்`, `வாலை அடக்கிப்` and page-ending open quotation agree. |
-| 54 | p.52 — Article 8 conclusion | **FIDELITY-PASS** | `தினந்தோறும் உடல் சுகம்`, internal `‘ராமன் காட்டேகினான்’`, `சிந்தைகெட்டு`, closing outer double quote, `பூணூல் வேந்தர்` and article-ending ornament agree. |
-| 55 | p.53 — Article 9 begins | **FIDELITY-PASS** | Heading and opening article text agree, including mixed quotation around the opening speech, `சித்ரகூட`, `சிகப்புமாக`, `புஷ்பங்களைப்`, `“கஷ்டப்பட்டுக்”`, `லட்சுமண அவதாரம்`, `மந்தாகினி`. |
-| 56 | p.54 — Article 9 | **FIDELITY-PASS** | `யென்று`, `ஜலம்`, `கொழுந்தனார்`, `அடுக்கனை வேலைகள்`, `இலட்சுமணன்`, source spacing `-அந்தக்`, and page continuation agree. |
+| 57 | p.55 — Article 9 | **FIDELITY-PASS** | `ஜாம்பாலி`, `நாஸ்திகம்`, `தர்ம ராஜன்`, quoted `“கோவிந்தா”`, unusual `நாதிகமுள்ளவர்கள்`, punctuation and continuation agree. |
+| 58 | p.56 — Article 9 | **FIDELITY-PASS** | `சூட்சமம்`, `கூப்பிட்டிருப்பாளேயானால்`, `வந்தேயிருப்பான்`, `சதி நினைப்போடு`, quote `“தான் தந்த நாடு”` and continuation agree. |
+| 59 | p.57 — Article 9 | **CORRECTED** | Source prints **`நந்திக் கிராமத்திலே யிருந்து`**, not earlier `... இருந்து`; and **`தந்தையின் சொல்லையும் -சத்தியத்தையும்`**, not earlier spacing `- சத்தியத்தையும்`. Both corrections propagated to Article 9. |
+| 60 | p.58 — Article 9 conclusion | **FIDELITY-PASS** | `அதிகாரபூர்வமான`, quoted `“புனிதமான”`, `நிருபிக்க`, `பக்த கோடிகள்`, `சதிகார ராமன்`, `தனிப் பிரியம்`, `ஜெயக்கொடி` and final ornament agree. |
+| 61 | p.59 — Article 10 begins | **CORRECTED (revalidated)** | Heading is source-visible **`விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`**, not `... என்பதும் ...`. Current page/assembly already carried this correction when reopened; the scan independently confirms it. `உணரவேண்டு மென்பதற்காகவும்`, `42லிருந்து`, `பாதரட்சைகளைத்`, `கோஷ்டியினர்` agree. |
+| 62 | p.60 — Article 10 | **FIDELITY-PASS** | `சிரார்த்த போஜனம்`, `வயிறு புடைக்க`, `சாப்பிட்டானதும்`, `பிராமணின்`, `மேஷ மாமிசமாகப்`, `திரிகாலமுணரும்`, `பாஷைப்படி`, `ஜீரணித்துக்கொண்டார்` agree. |
+| 63 | p.61 — Article 10 | **CORRECTED** | Source prints **`44ஆவது`**, not `44 ஆவது`; and **`அப்பேர்ப்பட்டவர்`**, not `அப்படிப்பட்டவர்`. Both corrections propagated to Article 10. The unmatched opening parenthesis before `முரண்பாட்டைக்` remains unrepaired because it is source-visible. |
+| 64 | p.62 — Article 10 conclusion | **FIDELITY-PASS** | `இரண்டாந்தாரமாகப்`, attached `-சீதையை`, `புருஷரத்தினங்கள்`, `ரசாபாச மான`, `சப்பைக் கட்டு`, `கற்பனா சக்தியை`, `விகார மிகு சொரூபமாக`, quotation irregularities and final ornament agree. |
 
-### Assembly check after Batch 7
+### Assembly check after Batch 8
 
-- Article 7, scans **43–49 / printed pp.41–47**, is now **fully strict-rechecked** and carries the scan-44 spacing correction plus scan-49 `வேறு வேறானவை !`.
-- Article 8, scans **50–54 / printed pp.48–52**, is now **fully strict-rechecked** and carries source-visible `ராமர்,லட்சுமணர்,சீதை`, `தூய்மை யுடையதாயிருக்கிறது`, and `கவுசல்யா தேவி`.
-- Article 9 scans **55–56 / printed pp.53–54** agree with its assembly; scans 57–60 remain pending.
+- Article 9, scans **55–60 / printed pp.53–58**, is now **fully strict-rechecked** and carries `நந்திக் கிராமத்திலே யிருந்து` plus `சொல்லையும் -சத்தியத்தையும்`.
+- Article 10, scans **61–64 / printed pp.59–62**, is now **fully strict-rechecked** and carries source heading `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`, `44ஆவது`, and `அப்பேர்ப்பட்டவர்`.
 - No `NEEDS-PIXEL-REVIEW` item remains in this batch.
 
 ## Corrections confirmed/revalidated so far
@@ -79,19 +79,24 @@ All eight scans were reopened and checked at readable scale. Two new spacing dis
 6. scans 33–36: earlier `பரத்வாஜ...` forms → source-visible `பரத்துவாஜ...`
 7. scan 34: `போடுகிறவன் போட்டாலும்` revalidated
 8. scan 36: `சிரிப் பாய்ந்தார்கள்` → `சீறிப் பாய்ந்தார்கள்`
-9. scan 41: source-visible mixed quotation close retained in `‘மூதேவி அடி எடுத்து வைத்த நேரம் அப்படி!”`
+9. scan 41: source-visible mixed quotation retained in `‘மூதேவி அடி எடுத்து வைத்த நேரம் அப்படி!”`
 10. scan 42: `சாயைக் கட்டு போடும்` → `சப்பைக் கட்டு போடும்`
 11. scan 44: `தன் இனம், தன் சமுதாயம், அந்த...` → `தன் இனம்,தன் சமுதாயம்,அந்த...`
 12. scan 49: `வேறு வேறானவை!` → `வேறு வேறானவை !`
 13. scan 50: `ராமர், லட்சுமணர், சீதை` → `ராமர்,லட்சுமணர்,சீதை`
 14. scan 50: earlier `தூய்மையுடையதாயிருக்கிறது` → `தூய்மை யுடையதாயிருக்கிறது` revalidated
 15. scan 51: earlier `கவுசல்யாதேவி` → `கவுசல்யா தேவி` revalidated
+16. scan 59: `நந்திக் கிராமத்திலே இருந்து` → `நந்திக் கிராமத்திலே யிருந்து`
+17. scan 59: `சொல்லையும் - சத்தியத்தையும்` → `சொல்லையும் -சத்தியத்தையும்`
+18. scan 61 heading: earlier `விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!` → source `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` revalidated
+19. scan 63: `44 ஆவது` → `44ஆவது`
+20. scan 63: `அப்படிப்பட்டவர்` → `அப்பேர்ப்பட்டவர்`
 
 ## Next batch
 
-Proceed with **scans 57–64** in physical scan order:
+Proceed with **scans 65–72** in physical scan order:
 
-- scans **57–60** — conclude Article 9 `தந்தை மகனும் தருமம் தவறியவர்கள்!`
-- scans **61–64** — all of Article 10 `விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!`
+- scans **65–70** — all of Article 11 `நடப்பதெல்லாம் நாராயணன் செயலா?`
+- scans **71–72** — first two pages of Article 12 `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`
 
-This next batch should, if no unresolved pixel item remains, provide full strict closeout for both Articles 9 and 10.
+For every page, compare each visible token directly with the scan, enlarge uncertain glyphs rather than infer from context, propagate any correction into the relevant article assembly, and advance the count only after the full batch is closed.
