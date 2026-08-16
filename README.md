@@ -12,7 +12,13 @@
 
 - [`ESSAY_PROCESSING_GUIDE.md`](ESSAY_PROCESSING_GUIDE.md) — Tamil source/archive workflow
 - [`ESSAY_TRANSLATION_GUIDE.md`](ESSAY_TRANSLATION_GUIDE.md) — English translation workflow
-- [`HANDOVER.md`](HANDOVER.md) — single authoritative project handover
+- [`HANDOVER.md`](HANDOVER.md) — single authoritative live project handover
+
+### Reusable future-work kit
+
+- [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md) — end-to-end operational guidelines for future Kalaignar essay/article publications
+- [`docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`](docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md) — reusable structure for updating the **single root `HANDOVER.md`** when a new publication becomes active; it is a template, not a second live handover
+- [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md) — copy/paste startup prompt for a new chat/window with the next attached source PDF
 
 ## முதல் publication — சக்கரவர்த்தியின் திருமகன்
 
