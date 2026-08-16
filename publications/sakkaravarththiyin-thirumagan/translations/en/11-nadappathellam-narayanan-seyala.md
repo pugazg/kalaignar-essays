@@ -8,7 +8,7 @@ source_tamil_blob_sha: "b324e995d580ee021577b998d193d005fa6446ad"
 source_scan_pages: "65-70"
 source_printed_pages: "63-68"
 language: "en"
-translation_status: "draft"
+translation_status: "verified"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -36,9 +36,9 @@ It is one and the same serial article—appearing in one and the same magazine. 
 
 <!-- Tamil source: scan 66 / printed 64 -->
 
-in May 1955 he says Kambar and Valmiki both wrote Rama as an incarnation-man. What answer will Achariyar's backing orchestra give for this contradiction? A disorder of the brain?—confusion?—would not even a man capable of a little thought be compelled to ask this question? Poor man; I do not know why Achariyar unnecessarily puts his foot into this mire and lands himself in trouble—why say I do not know? For the permanent welfare of his community, that Chanakya is ready to embrace thousands upon thousands of contradictions. But one thing—I remind that pitiable Brahmin leader that this is no longer the old age that raised no question mark of “Why? How?”
+in May 1955 he says Kambar and Valmiki both wrote Rama as an incarnation-man. What answer will Achariyar's backing orchestra give for this contradiction? A disorder of the brain?—confusion?—would not even a man capable of a little thought be compelled to ask this question? Poor Achariyar; I do not know why he unnecessarily puts his foot into this mire and lands himself in trouble—why say I do not know? For the permanent welfare of his community, that Chanakya is ready to embrace thousands upon thousands of contradictions. But one thing—I remind that pitiable Brahmin leader that this is no longer the old age that raised no question mark of “Why? How?”
 
-### Look at another piece of filtered, bone-dry confusion:
+### Look at another piece of filtered, dry confusion:
 
 “Narayana knows that he himself is Rama. But Rama does not think that he himself is Narayana.”
 
@@ -62,7 +62,7 @@ Maricha went in the form of a deer. Opening her honeyed lips, Devi Sita asked Ra
 
 <!-- Tamil source: scan 68 / printed 66 -->
 
-“Oh-ho! This is a great deception; if Lakshmana were deceived by this trick, left Sita alone in the forest and came looking for me, it would be a great danger! It seems the demons have contrived this deception in order to carry Sita away—or to kill and eat her. Thinking she heard my voice crying ‘Ha, Sita,’ Sita will at once be frightened and send Lakshmana to me. The jackals. They howl hideously. Birds and animals show signs of misfortune. In my heart, instead of courage, there is trembling. Everything I see is an ill omen. I think I am going to meet with great danger.” (13.2.1955 — *Kalki*)
+“Oh-ho! This is a great deception; if Lakshmana were deceived by this trick, left Sita alone in the forest and came looking for me, it would be a great danger! It seems the demons have contrived this deception in order to carry Sita away—or to kill and eat her. Thinking she heard my voice crying ‘Ha, Sita,’ Sita will at once be frightened and send Lakshmana to me. The jackals. They howl ominously. Birds and animals show signs of misfortune. In my heart, instead of courage, there is trembling. Everything I see is an ill omen. I think I am going to meet with great danger.” (13.2.1955 — *Kalki*)
 
 When I see Rama grieving, I can only laugh—do not abuse me, Achariyar, saying, “It is his wife he is worried about; of course you will only laugh!” Think a little! Maricha cried “Lakshmana!” in a voice like Rama's and died. Rama fears that on hearing this Sita will be frightened, Lakshmana will panic, and he may leave her alone and come to him. At the very moment Maricha shouted, why could Rama not have shouted too?
 
@@ -74,7 +74,7 @@ Hearing the cry “Ayyo, Lakshmana!”, Sita trembles, thinking danger has come 
 
 He gives many explanations, saying, “This is a demon's magic—therefore there is no need for me to go.” Achariyar himself describes this scene. Read.
 
-“The anger that came upon Janaki—what anger! Beating her belly with both hands, “Son of Sumitra! Have you become an enemy? Have you been putting on an act all these days? Have you been waiting all this time for Rama's death? Have you deceived us all these days thinking that once he dies you can have me? Wicked man, you hear Rama crying out in anguish and still stand here without going? Was all the affection you showed elder brother one great plot? Man of evil ways!” she said.
+“Janaki's anger—what anger it was! Beating her belly with both hands, “Son of Sumitra! Have you become an enemy? Have you been putting on an act all these days? Have you been waiting all this time for Rama's death? Have you deceived me all these days thinking that once he dies you can have me? Wicked man, you hear Rama crying out in anguish and still stand here without going? Was all the affection you showed elder brother one great plot? Man of evil ways!” she said.
 
 <!-- Source note: the Tamil witness visibly opens an outer quotation before `ஜானகிக்கு...` and then another quotation before `சுமித்திரையின்...`; only the inner quotation is visibly closed before `என்றாள்.`. English preserves the readable quoted speech while recording the unmatched outer opening here. -->
 
@@ -94,7 +94,7 @@ The man who lamented “Fate, oh fate!” in Chapter 49—the man who cried in t
 
 “Through desire and delusion, by failing to do at the proper time what they ought to do—and by doing what they ought not to do—they lost Sita.” (20.2.1955 — *Kalki*)
 
-Did you see how disgracefully Achariyar speaks of Rama and Lakshmana without even realising it himself?—even if Rama did not know that he was the incarnation of Narayana, did Achariyar too fail to know it? Why does he abuse that Narayana incarnation with no restraint on his tongue?
+Did you see how disgracefully Achariyar speaks of Rama and Lakshmana without even realising it himself?—even if Rama did not know that he was the incarnation of Narayana, did Achariyar too fail to know it? Why does he abuse that Narayana incarnation with a tongue that seems to have no nerve in it?
 
 Desire—
 
