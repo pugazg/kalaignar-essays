@@ -31,7 +31,7 @@ The immediate translation source is the strict-reviewed Tamil article assembly i
 | 6 | இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா? | **verified — T0–T5** |
 | 7 | விபீஷணருக்கு விடை யளிப்போம்! | **verified — T0–T5** |
 | 8 | நாடாண்ட மன்னன் நாதியற்று செத்தான் | **verified — T0–T5** |
-| 9 | தந்தை மகனும் தருமம் தவறியவர்கள்! | not-started |
+| 9 | தந்தை மகனும் தருமம் தவறியவர்கள்! | **verified — T0–T5** |
 | 10 | விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்! | not-started |
 | 11 | நடப்பதெல்லாம் நாராயணன் செயலா? | not-started |
 | 12 | மாரீசனைத் துரத்திச் சென்ற ராமனிடம் | not-started |
@@ -51,38 +51,40 @@ For each article: fetch the current Tamil assembly and record its blob SHA; read
 - Preserve meaningful source punctuation anomalies with notes instead of repairing them.
 - Embedded verse is translated only from the supplied Tamil witness plus Kalaignar's own explanation unless the user explicitly authorises an external translation.
 
-## Baseline accumulated through Article 8
+## Baseline accumulated through Article 9
 
-Articles 1–7 establish **Chakravarthi's Son**, body/feeling terminology, plot/conspiracy, **Kama-Raja**, **Bharadvaja / Bar**, Kambar-sense translation restraint, **Mooli-Alangari / Brahmin Vambar**, **Vibhishana / Sivagnanam**, and all detailed terminology recorded in the lexicon.
+Articles 1–8 establish all prior terminology and non-regression decisions recorded in the lexicon and review ledger.
 
-Article 8 establishes:
+Article 9 establishes:
 
-- title → **The King Who Ruled the Land Died with No One to Tend Him**;
-- `நாதியற்று / நாதியில்லாமல்` → **with no one to tend him**, preserving title/body echo;
-- source-visible `தாம் பத்தினி` handled contextually as **devoted wife** with source note;
-- scan-52 unmatched opening quotation explicitly documented;
-- source-bearing **Sayantan / paakkai / Suta-Magadhars**;
-- repeated **ability to master his senses** sarcasm;
-- **intoxication of lust / bodily pleasure**;
-- source-visible **tail** image and final **sacred-thread king Achariyar**.
+- title → **Father and Son—Both Strayed from Dharma!**;
+- `தருமம் / தர்மம்` → **dharma**; `சத்தியம்` → **truth / word of truth**; `நாஸ்திகம் / நாஸ்திகன்` → **atheism / atheist**;
+- `தர்ம ராஜன்` → **Dharma Raja**;
+- source-bearing **Jambali / naathigam** with no external normalisation;
+- the opening Chitrakuta quotation-mark anomaly documented;
+- the truth/dharma challenge, sheep-flock / **Govinda!** jab and repeated reader-facing questions retained;
+- `சூட்சமம்` → **the catch!**; `ராஜ்ய பாரம்` → **burden of rule** by context; `சதி` remains **conspiracy**;
+- Rama's **the country given by me** claim and Vasishta's **administer the kingdom** instruction retained;
+- sandal/throne surrogate-rule argument and Nehru–Governor Prakasa analogy retained;
+- **“holy” sandals / the conspirator Rama / audacious, conspiracy-laden speech** retained.
 
 ## Phase sequence
 
 - **E0 setup:** COMPLETE
 - **E1 Article 1 calibration:** COMPLETE
 - **E2 Articles 2–4:** COMPLETE
-- **E3 Articles 5–8:** **COMPLETE**
-- **E4 Articles 9–11:** **ACTIVE — Article 9 next**
+- **E3 Articles 5–8:** COMPLETE
+- **E4 Articles 9–11:** **ACTIVE — Article 9 complete; Article 10 next**
 - **E5 Articles 12–14:** pending
 - **E6 publication consistency review:** pending
 - **E7 English release closeout:** pending
 
 ## Current progress
 
-- English article drafts: **8 / 14**
-- English articles verified: **8 / 14**
+- English article drafts: **9 / 14**
+- English articles verified: **9 / 14**
 - final cross-article review: **not started**
 
 ## Exact next translation activity
 
-Proceed with **Article 9 — `தந்தை மகனும் தருமம் தவறியவர்கள்!`**. Fetch and read its complete current strict-reviewed Tamil assembly, record the fresh blob SHA as T0, choose the English title only after reading the full argument, complete T1–T5, then update the lexicon, review ledger, tracker, READMEs and root `HANDOVER.md` before Article 10 begins.
+Proceed with **Article 10 — `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`**. Fetch and read its complete current strict-reviewed Tamil assembly, record the fresh blob SHA as T0, preserve the known source-witness distinction between the contents/heading title and the scan-63 body phrase, choose the English title only after reading the full argument, complete T1–T5, then update the lexicon, review ledger, tracker, READMEs and root `HANDOVER.md` before Article 11 begins.
