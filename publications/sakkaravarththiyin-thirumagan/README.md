@@ -30,26 +30,29 @@ See [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
 
 Every readable printed word, spacing-sensitive form, punctuation mark, quotation, number/date, heading and continuation is being rechecked directly against the scan in physical-page order.
 
-Current progress: **56 / 83 scans complete**.
+Current progress: **64 / 83 scans complete**.
 
-### Latest batch — scans 49–56
+### Latest batch — scans 57–64
 
-- scan 49: corrected source punctuation spacing to **`வேறு வேறானவை !`**
-- scan 50: corrected source comma spacing to **`ராமர்,லட்சுமணர்,சீதை`**; revalidated `தூய்மை யுடையதாயிருக்கிறது`
-- scan 51: revalidated `கவுசல்யா தேவி`
-- scans 52–56: fidelity-pass
-- Article 7 is now fully strict-rechecked
-- Article 8 is now fully strict-rechecked
-- Article 9 is strict-rechecked through scan 56
+- scans **57–58**: fidelity-pass
+- scan **59**: corrected `நந்திக் கிராமத்திலே யிருந்து` and source spacing `சொல்லையும் -சத்தியத்தையும்`
+- scan **60**: fidelity-pass and closes Article 9
+- scan **61**: source heading `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` independently revalidated
+- scan **62**: fidelity-pass
+- scan **63**: corrected `44ஆவது` and `அப்பேர்ப்பட்டவர்`
+- scan **64**: fidelity-pass and closes Article 10
+- Article 9 is now fully strict-rechecked across scans **55–60**
+- Article 10 is now fully strict-rechecked across scans **61–64**
+- no unresolved pixel-review item remains
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Next strict-review batch
 
-Proceed with **scans 57–64**:
+Proceed with **scans 65–72**:
 
-- scans **57–60** — conclude Article 9 `தந்தை மகனும் தருமம் தவறியவர்கள்!`
-- scans **61–64** — all of Article 10 `விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!`
+- scans **65–70** — Article 11 `நடப்பதெல்லாம் நாராயணன் செயலா?`
+- scans **71–72** — first two pages of Article 12 `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`
 
 The publication remains source-complete, but the strict visual-text-fidelity gate remains open until scan 83 and all assemblies have been rechecked.
 
