@@ -8,11 +8,11 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 ## Current status
 
 - Tamil source/fidelity prerequisite: **PASSED**
-- English drafts complete: **12 / 14**
-- English translations T2 fidelity-reviewed: **12 / 14**
-- English translations T3 voice-reviewed: **12 / 14**
-- English translations T4 audited: **12 / 14**
-- English translations T5 verified: **12 / 14**
+- English drafts complete: **13 / 14**
+- English translations T2 fidelity-reviewed: **13 / 14**
+- English translations T3 voice-reviewed: **13 / 14**
+- English translations T4 audited: **13 / 14**
+- English translations T5 verified: **13 / 14**
 - publication-level English consistency review: **not started**
 - English release status: **OPEN**
 
@@ -32,25 +32,26 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | 10 | விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்! | [`10-vishnu-avatharam-enbathum-ramanidam.md`](10-vishnu-avatharam-enbathum-ramanidam.md) | **verified** | **T0–T5 passed** |
 | 11 | நடப்பதெல்லாம் நாராயணன் செயலா? | [`11-nadappathellam-narayanan-seyala.md`](11-nadappathellam-narayanan-seyala.md) | **verified** | **T0–T5 passed** |
 | 12 | மாரீசனைத் துரத்திச் சென்ற ராமனிடம் | [`12-maarisanai-thuraththi-sendra-ramanidam.md`](12-maarisanai-thuraththi-sendra-ramanidam.md) | **verified** | **T0–T5 passed** |
-| 13 | துரோகிகள் சந்திப்பு! | `13-thurogigal-santhippu.md` | not-started | T0 pending |
+| 13 | துரோகிகள் சந்திப்பு! | [`13-thurogigal-santhippu.md`](13-thurogigal-santhippu.md) | **verified** | **T0–T5 passed** |
 | 14 | காரியமாகும் வரையில் காலைப் பிடி ! | `14-kaariyamaagum-varaiyil-kaalai-pidi.md` | not-started | T0 pending |
 
-## Publication-wide baseline through Article 12
+## Publication-wide baseline through Article 13
 
 - `ஆச்சாரியார்` → **Achariyar**; preserve explicit source-label switches such as Article 7 `இராஜாஜி` → **Rajaji**, and source plurals such as Article 11 **the Achariyars**.
 - Preserve commands, rhetorical questions, repetition, sarcasm, ridicule, physical imagery, source-supported wordplay and harsh formulations.
 - Do not externally identify unexplained source-specific forms unless explicitly asked.
 - Preserve meaningful source punctuation/source-witness anomalies with notes rather than silently repairing them.
 
-Article 12 adds:
+Article 13 adds:
 
-- `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்` → **To Rama Who Went Chasing Maricha**;
-- controlling body witness is scans **71–73 / printed pp.69–71**; scan **83** is a separate back-cover promotional excerpt and must never rewrite the Article 12 body;
-- `மேலுத்தரியம்` → **upper cloth**, recurring `மேலாடை` → **upper garment**;
-- `அம்சம்` → **aspect**, kept distinct from `அவதாரம்` → **incarnation**;
-- scan-72 source-visible `அவனாகவே` remains untouched in Tamil; contextual English follows the surrounding sentence-level action as Sita dropping the upper garment **on her own**, and the source difficulty is documented;
-- **theist worthies**, **kings of the night**, **sisters who slipped and fell**, source-bearing **Kakuthan / Ashadabhoothis**, the market-street image and rubbish-on-head dance remain direct;
-- no wording from the scan-83 promotional witness was imported into the body translation.
+- `துரோகிகள் சந்திப்பு!` → **Traitors Meet!**;
+- Tamil SHA `369c3f4e5030c5810e815d13692372ae73849837`; scans **74–78 / printed pp.72–76**;
+- `மாறடித்து ஒப்பாரி வைத்தான்` retains its physical/cultural force as **beat his chest and wailed an oppari**;
+- `அரக்கன்` remains **demon** while `அசுரன்` is kept as **asura**, and **Vanara / vimana / yojana** remain source-bearing where used;
+- the source-confirmed unusual `துராசைப் பட்டுக்` is not normalised in Tamil and is translated contextually as **driven by greed**;
+- the subheading `இது ஆச்சாரியார் தீட்டியுள்ள கதை!` → **This Is the Story Achariyar Has Drawn Up!**;
+- scans 75–76 contain source-irregular successive quotation openings, and scan 78's final `(6.3.1955 - ‘கல்கி)` lacks a visible closing single quote; English remains readable while these source facts are documented;
+- the repeated hearsay cadence on scan 78 remains **they say ... they say**, `மழுப்புகிறார்` → **Here Achariyar dodges**, and the final **Why? Why, Achariyar; why?** remains intact.
 
 See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) for detailed provenance.
 
@@ -65,4 +66,4 @@ See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.
 
 ## Exact next activity
 
-Translate and review **Article 13 — `துரோகிகள் சந்திப்பு!`** in full. Fetch and read the complete current strict-reviewed Tamil assembly before finalising its English title, then complete T0–T5 before Article 14 begins.
+Translate and review **Article 14 — `காரியமாகும் வரையில் காலைப் பிடி !`** in full. Fetch and read the complete current strict-reviewed Tamil assembly before finalising its English title, preserve the known contents/heading title-witness distinction, then complete T0–T5. After Article 14 is individually verified, begin the separate publication-level E6 cross-article consistency review; do not declare the English publication complete before E6 passes.
