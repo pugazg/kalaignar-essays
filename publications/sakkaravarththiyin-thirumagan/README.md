@@ -23,7 +23,7 @@
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).  
 Completion certificate: [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
 
-## English translation phase — ACTIVE
+## English translation phase — ACTIVE / E6 NEXT
 
 Translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_GUIDE.md)  
 Plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)  
@@ -33,9 +33,9 @@ Review ledger: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLA
 
 Current status:
 
-- English drafts complete: **13 / 14**
-- English articles T0–T5 verified: **13 / 14**
-- final 14-article consistency review: **not started**
+- English drafts complete: **14 / 14**
+- English articles T0–T5 verified: **14 / 14**
+- final 14-article consistency review: **not started — E6 next**
 - English release gate: **OPEN**
 
 ### Publication-wide `ஆச்சாரியார்` rule
@@ -57,24 +57,23 @@ The user established that `ஆச்சாரியார்` refers to **C. Raj
 11. `நடப்பதெல்லாம் நாராயணன் செயலா?` → **Is Everything That Happens Narayana's Doing?**
 12. `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்` → **To Rama Who Went Chasing Maricha**
 13. `துரோகிகள் சந்திப்பு!` → **Traitors Meet!**
+14. `காரியமாகும் வரையில் காலைப் பிடி !` → **Hold Their Feet Until Your Purpose Is Achieved!**
 
-Article 13 Tamil SHA: `369c3f4e5030c5810e815d13692372ae73849837`  
-English: [`translations/en/13-thurogigal-santhippu.md`](translations/en/13-thurogigal-santhippu.md)
+Article 14 Tamil SHA: `e97314ada6b52c671742bb1526ed70acd1a26411`  
+English: [`translations/en/14-kaariyamaagum-varaiyil-kaalai-pidi.md`](translations/en/14-kaariyamaagum-varaiyil-kaalai-pidi.md)
 
-Article 13 passed **T0–T5**. Important non-regression points:
+Article 14 passed **T0–T5**. Important non-regression points:
 
-- scans **74–78 / printed pp.72–76** are the controlling source span;
-- **Traitors Meet!** keeps the title's compact accusation, while the body preserves Rama's conspiracy accusation and Sugriva's betrayal/kingdom-seizure framing;
-- `மாறடித்து ஒப்பாரி வைத்தான்` → **beat his chest and wailed an oppari**;
-- `அரக்கன்` / `அசுரன்` remain **demon / asura**, while **Vanara / vimana / yojana** remain source-bearing;
-- source-confirmed `துராசைப் பட்டுக்` is unchanged in Tamil and translated contextually as **driven by greed**;
-- `இது ஆச்சாரியார் தீட்டியுள்ள கதை!` → **This Is the Story Achariyar Has Drawn Up!**;
-- source-irregular quotation openings across scans 75–76 and scan-78 `(6.3.1955 - ‘கல்கி)` missing a closing single quote are documented, not silently repaired in the Tamil layer;
-- scan-78 hearsay repetition, **Here Achariyar dodges**, and final **Why? Why, Achariyar; why?** retain Kalaignar's attack.
+- controlling span is scans **79–82 / printed pp.77–80**; scan 82's lower *Viduthalai* advertisement is not Article 14 body;
+- contents `காரியமாகும் வரையில் காலைப் பிடி!` and heading `காரியமாகும் வரையில் காலைப் பிடி !` remain distinct source witnesses;
+- **Hold Their Feet Until Your Purpose Is Achieved!** preserves the physical image returned to in the final **hold the feet of scoundrels** line;
+- **worship-mad people**, **sensual pleasures of the inner palace**, source-bearing **saundhayam**, **rustic pleasure**, **ungrateful scoundrel**, and **sensual pleasure** remain unsmoothed;
+- Rama's threat, Lakshmana-as-storm image, Tara-beauty sarcasm and **Aryans will do anything—say anything** remain direct;
+- scan-82 strict `வர்ணிக்கிறான்`, **Sons of Chakravarthi**, and the final Sugriva description remain preserved.
 
 ## Exact next activity
 
-Proceed with complete translation and T0–T5 review of **Article 14 — `காரியமாகும் வரையில் காலைப் பிடி !`**. Preserve the known distinction between the contents-page title `காரியமாகும் வரையில் காலைப் பிடி!` and the article heading `காரியமாகும் வரையில் காலைப் பிடி !`. After Article 14 is individually verified, begin the separate publication-level E6 cross-article consistency review.
+Begin **E6 — publication-level cross-article English consistency review** across all 14 T5-verified translations. Do not describe the publication as English-translation complete until E6 passes. After E6, proceed to E7 release closeout.
 
 ## Source authority
 
