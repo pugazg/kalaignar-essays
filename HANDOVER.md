@@ -30,7 +30,9 @@ The supplied scan is the controlling source for the Tamil archival layer. Do not
 
 > **Translate the language; do not neutralise the voice.**
 
-English must retain Kalaignar's directness, commands to the reader, rhetorical questions, repetition, sarcasm, ridicule, polemical labels, imagery, exclamations and argumentative rhythm. Do not turn his prose into detached academic English, soften harsh language, or silently replace his chosen labels with modern identifying names.
+English must retain Kalaignar's directness, commands to the reader, rhetorical questions, repetition, sarcasm, ridicule, polemical labels, imagery, exclamations, wordplay and argumentative rhythm. Do not turn his prose into detached academic English, soften harsh language, or silently replace his chosen labels with modern identifying names.
+
+If a pun cannot be carried naturally in English, preserve the source-bearing form in the translation and use a clearly separated translator note rather than rewriting Kalaignar's body.
 
 ## Active publication
 
@@ -71,12 +73,13 @@ High-value Tamil corrections include `மற்றுமுள்ள`, `பத�
 
 - Phase E0 planning/setup: **COMPLETE**
 - Phase E1 Article 1 calibration: **COMPLETE**
-- Phase E2 Articles 2–4: **ACTIVE**
-- English article drafts: **3 / 14**
-- English articles T2 fidelity-reviewed: **3 / 14**
-- English articles T3 voice-reviewed: **3 / 14**
-- English articles T4 audited: **3 / 14**
-- English articles T5 verified: **3 / 14**
+- Phase E2 Articles 2–4: **COMPLETE**
+- Phase E3 Articles 5–8: **ACTIVE — Article 5 next**
+- English article drafts: **4 / 14**
+- English articles T2 fidelity-reviewed: **4 / 14**
+- English articles T3 voice-reviewed: **4 / 14**
+- English articles T4 audited: **4 / 14**
+- English articles T5 verified: **4 / 14**
 - final cross-article consistency review: **not started**
 - English publication release gate: **OPEN**
 
@@ -98,67 +101,73 @@ The user explicitly established that **`ஆச்சாரியார்` refer
 **Frozen rule:**
 
 - `ஆச்சாரியார்` → **`Achariyar`** in Articles **1–14** wherever that Tamil label appears, unless the source itself changes label.
-- Articles 1–3 now use `Achariyar` throughout.
+- Articles 1–4 now use `Achariyar` throughout.
 - Do not mechanically replace the label with `Rajaji`; the personal identity belongs in translator/editorial identification notes outside Kalaignar's body text.
 
-## Article 1 — COMPLETE / VERIFIED
+## Verified articles
+
+### Article 1 — COMPLETE / VERIFIED
 
 Tamil: `சக்கரவர்த்தியின் திருமகன்`  
 English: **`Chakravarthi's Son`**  
-Tamil blob SHA: `47a5b1fd0b28827bb098dda419b5bf864e9f3866`  
-English: [`translations/en/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md)
+Tamil blob SHA: `47a5b1fd0b28827bb098dda419b5bf864e9f3866`
 
 Key decisions: **Achariyar**, **Chakravarthi** where wordplay is active, Aryans / Dravidians / Aryanism, source-distinct demons / Rakshasas / Devas, Ashvamedha sacrifice, divine payasam, chastity, direct `Read!` / `Look!`, repetitions and sarcasm. Scan-12 unmatched quotation is documented rather than repaired.
 
-## Article 2 — COMPLETE / VERIFIED
+### Article 2 — COMPLETE / VERIFIED
 
 Tamil: `தேகமும் உணர்வும்`  
 English: **`Body and Feeling`**  
-Tamil blob SHA: `bb9131b7856b528e527136be8f4f60dca2999850`  
-English: [`translations/en/02-thegamum-unarvum.md`](publications/sakkaravarththiyin-thirumagan/translations/en/02-thegamum-unarvum.md)
+Tamil blob SHA: `bb9131b7856b528e527136be8f4f60dca2999850`
 
 Key decisions: **Achariyar**; body / feeling; body of flesh; anger and passion; Bhagavan / Ishvari; plot / conspiracy; polemical caste epithets retained; source `(August 154)` preserved; Vamana `three paces of land`; scans 18 and 20 unmatched quotations documented.
 
-## Article 3 — COMPLETE / VERIFIED
+### Article 3 — COMPLETE / VERIFIED
 
 Tamil: `சதி நிரூபிக்கப்படுகிறது`  
 English: **`The Conspiracy Is Proven`**  
-Tamil blob SHA: `903dbb0a2b74bc1ffa173469bfdb3dfa6ce9b4b4`  
-English: [`translations/en/03-sathi-nirupikkappadugirathu.md`](publications/sakkaravarththiyin-thirumagan/translations/en/03-sathi-nirupikkappadugirathu.md)
+Tamil blob SHA: `903dbb0a2b74bc1ffa173469bfdb3dfa6ce9b4b4`
 
-Article 3 passed **T0–T5**.
+Key decisions: burden of the kingdom / burden of rule; office of Crown Prince; Vishnu-share contradiction retained; rapid Bharata questions retained; `கொல்லைப்புறமாக...` → **through the back door**; `கல்மஷம்` → **taint**; final **`Why only us? Everyone with a brain...`** cadence retained.
+
+### Article 4 — COMPLETE / VERIFIED
+
+Tamil: `காமராஜன் ஆட்கொண்ட தசரதராஜன்!`  
+English: **`Dasaratha Raja in the Grip of Kama-Raja!`**  
+Tamil blob SHA: `9151694c1c473fd4c225aa8076d086e01931bc1e`  
+English: [`translations/en/04-kamarajan-aadkonda-dasaratharajan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/04-kamarajan-aadkonda-dasaratharajan.md)
+
+Article 4 passed **T0–T5**.
 
 Decisions that must not regress:
 
-- `ஆச்சாரியார்` / source variant `ஆச்சாரியர்` → **Achariyar**.
-- Title `சதி நிரூபிக்கப்படுகிறது` → **The Conspiracy Is Proven**.
-- `ராஜ்ய பாரம்` / `ராஜ்யபாரம்` → **burden of the kingdom / burden of rule** according to context.
-- Opening `ராஜ்ய பாரத்தை ராமன் தலையில் கட்டி விட` remains physical: **`tie onto Rama's head the burden of the kingdom`**.
-- `யுவராஜப் பதவி` / `யுவராஜ்யப் பதவி` → **office of Crown Prince**.
-- Vishnu-share contradiction preserved as **`when it is a share of divinity, what need is there to calculate shares? Every share is complete in itself.`**
-- Bharata comparison retains rapid questions: **`Did enemies invade? Did lawlessness break out? Was repression needed?`**
-- `கொல்லைப்புறமாக மந்திரி சபைக்கு வந்தவரல்லவா ஆச்சாரியார்!` → **`Was not Achariyar himself one who came into the Council of Ministers through the back door!`**.
-- `கல்மஷம்` → **taint**, with Kalaignar's later sarcastic echo preserved.
-- Citation **15 August 1954, Kalki** preserved.
-- Final cadence remains **`Why only us? Everyone with a brain will come to exactly that conclusion.`**
+- `காமராஜன்` → **Kama-Raja** in the title and closing line, preserving `காமம்` (desire/lust) + `ராஜன்` (king) and the source's name-like form.
+- Title → **Dasaratha Raja in the Grip of Kama-Raja!**; do not flatten it to a neutral `Dasaratha and lust` title.
+- `ஆச்சாரியார்` → **Achariyar** throughout.
+- `போகம்` → **sensual pleasure** in the repeated old-age/desire ridicule.
+- `பிரகிருதி வேகம்` → **physical urge**; `காதல் வேகம்` → **surge of passion**; `காம மோகம்` → **lustful infatuation**.
+- Repeated `கிழவர்` / `கிழவன்` language remains explicitly age-marked: **old Achariyar**, **old Dasaratha**, **old ex-minister**, **old men!**
+- `வெள்ளை மனம்` → **pure-hearted** and `கல்மஷம்` remains **taint**, preserving Kalaignar's repeated sarcastic portrait.
+- `அப்பாவி` / `அப்-பாவி` → **innocent / “Ah—sinner!”** with a clearly separated translator note explaining the Tamil split-word pun.
+- `வெட்கம் - வெட்கம் - வேதனை கலந்த வெட்கம்!` → **`shame, shame, shame mixed with pain!`**.
+- source dates **8 August 1954** and **22 August 1954** preserved.
+- final **Kama-Raja / old Raja** verbal play retained.
 
-T2 refinements included tightening the Vishnu-share logic, changing the Bharata companionship sentence closer to the Tamil, and refining `கல்மஷம்` from draft `guile` to **taint**. No unresolved meaning-level item remains.
+T2 refinements included changing generic `pleasure` to **sensual pleasure**, `in his own mouth` to **in his own words**, `speed increased` to **mounting urge**, restoring emphatic **only** in the Kekaya pledge, and refining `வாயாரப் புகழ்கிறார்` to **lavishly praises**. No unresolved meaning-level item remains.
 
 Detailed provenance: [`translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md).
 
-## Exact next activity — Article 4
+## Exact next activity — Article 5
 
-Work only on **Article 4 — `காமராஜன் ஆட்கொண்ட தசரதராஜன்!`**.
+Work only on **Article 5 — `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**.
 
-1. Fetch the complete current Tamil assembly:
-   `publications/sakkaravarththiyin-thirumagan/articles/04-kamarajan-aadkonda-dasaratharajan.md`
-2. Record its current GitHub blob SHA as T0 provenance.
-3. Read the complete article before choosing/finalising the English title; do not mechanically translate the title before understanding its wordplay/argument.
-4. Apply the Article 1–3 voice/lexicon baseline, including the frozen `ஆச்சாரியார்` → **Achariyar** rule.
-5. Create `translations/en/04-kamarajan-aadkonda-dasaratharajan.md` with complete English translation and source page-boundary comments.
-6. Perform T2 bilingual fidelity review.
-7. Perform T3 Kalaignar-language/voice review.
-8. Perform T4 terminology/quotation/citation audit.
-9. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, READMEs and **this `HANDOVER.md`** before ending the activity.
+1. Fetch the complete current Tamil assembly for Article 5 and record its GitHub blob SHA as T0 provenance.
+2. Read the entire article before finalising the English title.
+3. **Do not collapse the source-witness distinction:** contents has `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`; article heading has `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`.
+4. Apply the Article 1–4 voice/lexicon baseline, including frozen **Achariyar**.
+5. Preserve any Paris/`பாரா` wordplay or quotation structure discovered in the full article rather than translating the heading mechanically.
+6. Create `translations/en/05-paraththuvaja-aasramama-paris-nagarathu-para.md` with source page-boundary comments.
+7. Complete T2 bilingual fidelity review, T3 Kalaignar-language/voice review and T4 terminology/quotation/citation audit.
+8. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, READMEs and **this `HANDOVER.md`** before ending the activity.
 
-**Do not begin Article 5 until Article 4 has passed T2 and T3.**
+**Do not begin Article 6 until Article 5 has passed T2 and T3.**
