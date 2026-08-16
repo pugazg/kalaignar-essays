@@ -8,7 +8,7 @@ source_tamil_blob_sha: "07ae8741f3b06fa9208a6478ebabea87d53a93f5"
 source_scan_pages: "38-42"
 source_printed_pages: "36-40"
 language: "en"
-translation_status: "draft"
+translation_status: "verified"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -22,13 +22,13 @@ Kaikeyi declares firmly: Bharata must rule the country—Rama must go to the for
 
 It is in fulfilment of Dasaratha's promise to the King of Kekaya that Kaikeyi hurls such words. By the promise given to Kekaya, it was only just that Bharata should receive the kingdom.
 
-But one may feel like asking: was it not unjust that Rama should have to go to the forest? If one stands on Kaikeyi's side too and argues the case, one can clearly see justice even in her condition. When she hears that Rama had been ready to have Bharata sent away to his grandfather's house and, without anyone knowing, join the conspiracy and have himself crowned, would Kaikeyi's anger not boil over? Kaikeyi was not jealous of Rama from the beginning! She loved him with affection. Achariyar too has written that. Why then did such a Kaikeyi grow angry with Rama and tell him to go to the forest? What mother would not seethe on hearing that Rama too had agreed to deceive her son! We have not dug out these proofs in order to establish that Kaikeyi was a good woman. We point them out only to ask why the character of Kaikeyi, as constructed in the *Ramayana* story, should contradict itself from beginning to end—and why she should be added to the Mooli-Alangari list. What should Kaikeyi have spoken to Rama about?
+But one may feel like asking: was it not unjust that Rama should have to go to the forest? If one stands on Kaikeyi's side too and argues the case, one can clearly see justice even in her condition. When she hears that Rama had been ready to have Bharata sent away to his grandfather's house and, without anyone knowing, conspire and have himself crowned, would Kaikeyi's anger not boil over? Kaikeyi was not jealous of Rama from the beginning! She loved him with affection. Achariyar too has written that. Why then did such a Kaikeyi grow angry with Rama and tell him to go to the forest? What mother would not seethe on hearing that Rama too had agreed to deceive her son! We have not dug out these proofs in order to establish that Kaikeyi was a good woman. We point them out only to ask why the character of Kaikeyi, as constructed in the *Ramayana* story, should contradict itself from beginning to end—and why she should be added to the Mooli-Alangari list. What should Kaikeyi have spoken to Rama about?
 
 <!-- Tamil source: scan 39 / printed 37 -->
 
 Has not Achariyar written that Rama was not an incarnation of God—only a great hero? In a *Ramayana* story whose character is such a Rama, how should the character Kaikeyi have spoken to Rama? Did they make her speak that way—Valmiki? Or Kambar? Or this Brahmin Vambar? No!
 
-“Rama! The promise your father gave my father was that my son would receive the crown! He is breaking it now—not merely breaking it; he has cunningly sent my son away to his grandfather's house and is trying to crown you without his knowledge! Is this just? Thinking it just, did you not also agree to this plot? Dasaratha is breaking the oath he gave my father, the King of Kekaya. Therefore, using the two boons Dasaratha gave me, I shall now successfully accomplish my purpose! I shall show that intrigue will not triumph!”
+“Rama! The promise your father gave my father was that my son would receive the crown! He is breaking it now—not merely breaking it; he has cunningly sent my son away to his grandfather's house and is trying to crown you without his knowledge! Is this just? Thinking it just, did you not also agree to this plot? Dasaratha is breaking the oath he gave my father, the King of Kekaya. Therefore, using the two boons Dasaratha gave me, I shall now successfully accomplish my purpose! I shall show that the plot will not triumph!”
 
 Is this not how Kaikeyi should have spoken to Rama! Is this not how Kaikeyi's character has been set up in the story itself? After mentioning the promise Dasaratha gave Kekaya, after mentioning Bharata's being cunningly sent to his grandfather's house, after mentioning the attempt to perform Rama's coronation without Bharata's knowledge—why, at the end, turn Kaikeyi's conversation alone in a different direction? To show Dasaratha as a good man? Or to say that Kaikeyi was cruel? Or does Achariyar admit that the author of the original story had no skill in constructing a character?
 
@@ -68,6 +68,8 @@ In Ayodhya, where Lakshmi set foot, calamities flourish in abundance.
 
 When a bride enters a house and some suffering follows, people mutter, “So this was the moment Moodevi set foot!”—everyone, including Achariyar!
 
+<!-- Source note: the Tamil witness uses mixed quotation marks around the Moodevi phrase (opening ‘ and closing ”); the anomaly is documented here rather than silently treated as regular source punctuation. -->
+
 <!-- Tamil source: scan 42 / printed 40 -->
 
 But in the palace where this Sita set foot, Dasaratha, who had lived for sixty thousand years, comes to die—Rama comes to go to the forest—Ayodhya itself turns into a forest of sorrow. Yet she is supposedly the incarnation of Mahalakshmi! If one says that she too is Moodevi, they come charging at you.
@@ -78,4 +80,4 @@ Here is an example. In the 19 September issue of *Kalki* he writes:
 
 “People stood in groups and watched Rama, Sita and Lakshmana walk on their feet.”
 
-What do you think! In those days, apparently, people used to walk on their heads and hands. That poor Kaikeyi must have ordered Rama and Lakshmana to walk on their feet—is that it! They walked on their feet, it seems! On their feet! The genius Achariyar writes like this! And a Hanuman gang waits to read even that with devotion! Aryan guard forces such as *Swadesamitran* lie waiting to take up the brief and sing his praises. Kakapattar will write anything—say anything—this is the genius's literature, ayya, literature!
+What do you think! In those days, apparently, people used to walk on their heads and hands. That poor Kaikeyi must have ordered Rama and Lakshmana to walk on their feet—is that it! They walked on their feet, it seems! On their feet! The genius Achariyar writes like this! And a Hanuman gang waits to read even that with devotion! Aryan guard forces such as *Sudesamitran* lie waiting to take up the brief and sing his praises. Kakapattar will write anything—say anything—this is the genius's literature, ayya, literature!
