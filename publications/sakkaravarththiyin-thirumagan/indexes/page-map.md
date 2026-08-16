@@ -72,7 +72,15 @@
 | 68 | 66 | Article 11 | verified |
 | 69 | 67 | Article 11 | verified |
 | 70 | 68 | Article 11 conclusion | verified |
-| 71 | 69 | Article 12 — மாரீசனைத் துரத்திச் சென்ற ராமனிடம் begins | boundary verified; transcription next |
+| 71 | 69 | Article 12 — மாரீசனைத் துரத்திச் சென்ற ராமனிடம் begins | verified |
+| 72 | 70 | Article 12 | verified |
+| 73 | 71 | Article 12 conclusion | verified |
+| 74 | 72 | Article 13 — துரோகிகள் சந்திப்பு! begins | verified |
+| 75 | 73 | Article 13 | verified |
+| 76 | 74 | Article 13 | verified |
+| 77 | 75 | Article 13 — இது ஆச்சாரியார் தீட்டியுள்ள கதை! subsection | verified |
+| 78 | 76 | Article 13 conclusion | verified |
+| 79 | 77 | Article 14 — காரியமாகும் வரையில் காலை பிடி! begins | boundary verified; transcription next |
 
 ## Verified article boundaries
 
@@ -87,19 +95,14 @@
 - Article 9 — **தந்தை மகனும் தருமம் தவறியவர்கள்!**: scans **55–60**, printed pp. **53–58**.
 - Article 10 — **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**: scans **61–64**, printed pp. **59–62**.
 - Article 11 — **நடப்பதெல்லாம் நாராயணன் செயலா?**: scans **65–70**, printed pp. **63–68**.
-- Scan **71** / printed p. **69** directly begins Article 12 **மாரீசனைத் துரத்திச் சென்ற ராமனிடம்**, confirming Article 11's end boundary.
+- Article 12 — **மாரீசனைத் துரத்திச் சென்ற ராமனிடம்**: scans **71–73**, printed pp. **69–71**.
+- Article 13 — **துரோகிகள் சந்திப்பு!**: scans **74–78**, printed pp. **72–76**.
+- Scan **79** directly begins Article 14 **காரியமாகும் வரையில் காலை பிடி!**, confirming Article 13's end boundary.
 
 ### Article 5 heading witness note
 
-The printed contents (scan 8) records Article 5 as **`பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`**. The actual Article 5 heading on scan 30 / printed p. 28 visibly reads **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**. Both source witnesses are preserved in their own layers; one is not silently normalized to the other.
+The printed contents (scan 8) records Article 5 as **`பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`**. The actual Article 5 heading on scan 30 / printed p.28 visibly reads **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**. Both source witnesses are preserved in their own layers; one is not silently normalized to the other.
 
-## Later article starts from printed contents
+## Remaining article
 
-The following later starts remain **navigation projections from the printed contents**, not yet direct-visual boundary verification:
-
-| Article | Printed start | Expected scan if +2 relation continues | Status |
-|---:|---:|---:|---|
-| 13 | 72 | 74 | provisional |
-| 14 | 77 | 79 | provisional |
-
-Do not promote projected scan boundaries to `verified` until each heading page is directly inspected.
+Article 14 starts at scan **79** / printed p. **77**. Its end must be established by directly inspecting the remaining source scans rather than inferred from page count.
