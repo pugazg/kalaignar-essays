@@ -80,7 +80,11 @@
 | 76 | 74 | Article 13 | verified |
 | 77 | 75 | Article 13 — இது ஆச்சாரியார் தீட்டியுள்ள கதை! subsection | verified |
 | 78 | 76 | Article 13 conclusion | verified |
-| 79 | 77 | Article 14 — காரியமாகும் வரையில் காலை பிடி! begins | boundary verified; transcription next |
+| 79 | 77 | Article 14 — காரியமாகும் வரையில் காலை பிடி! begins | verified |
+| 80 | 78 | Article 14 | verified |
+| 81 | 79 | Article 14 | verified |
+| 82 | 80 | Article 14 conclusion + printed `விடுதலை` advertisement | verified |
+| 83 | — | Back cover — artwork + promotional Article 12 excerpt + barcode / price | verified |
 
 ## Verified article boundaries
 
@@ -97,12 +101,18 @@
 - Article 11 — **நடப்பதெல்லாம் நாராயணன் செயலா?**: scans **65–70**, printed pp. **63–68**.
 - Article 12 — **மாரீசனைத் துரத்திச் சென்ற ராமனிடம்**: scans **71–73**, printed pp. **69–71**.
 - Article 13 — **துரோகிகள் சந்திப்பு!**: scans **74–78**, printed pp. **72–76**.
-- Scan **79** directly begins Article 14 **காரியமாகும் வரையில் காலை பிடி!**, confirming Article 13's end boundary.
+- Article 14 — **காரியமாகும் வரையில் காலை பிடி!**: scans **79–82**, printed pp. **77–80**. The printed ornament on scan 82 directly closes the article; material beneath it is not article text.
 
 ### Article 5 heading witness note
 
 The printed contents (scan 8) records Article 5 as **`பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`**. The actual Article 5 heading on scan 30 / printed p.28 visibly reads **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**. Both source witnesses are preserved in their own layers; one is not silently normalized to the other.
 
-## Remaining article
+## Post-text / physical-page classification
 
-Article 14 starts at scan **79** / printed p. **77**. Its end must be established by directly inspecting the remaining source scans rather than inferred from page count.
+- Scan **82 / printed p.80** is a mixed page: Article 14 concludes at the printed ornament; below it are physical-copy accession marks and a printed `விடுதலை` advertisement.
+- Scan **83** is the physical back cover, not Article 14. It contains artwork, a promotional excerpt associated with Article 12 / printed p.70, barcode `9997720145467`, and `நன்கொடை: ரூ.50/-`.
+- The back-cover excerpt is preserved as its own witness rather than silently reconciled with the Article 12 body-page reading.
+
+## Publication page-completion status
+
+All supplied scan pages **1–83** now have verified page records. No source scan remains unclassified or unarchived.
