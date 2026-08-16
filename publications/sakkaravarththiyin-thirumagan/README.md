@@ -39,7 +39,9 @@
 - Article 7 assembled: [`articles/07-vibishanarukku-vidai-yalippom.md`](articles/07-vibishanarukku-vidai-yalippom.md)
 - Article 8 — **நாடாண்ட மன்னன் நாதியற்று செத்தான்**: scans **50–54**, printed pages **48–52**: **5 / 5 VERIFIED / source-complete**
 - Article 8 assembled: [`articles/08-naadaanda-mannan-naathiyatru-seththaan.md`](articles/08-naadaanda-mannan-naathiyatru-seththaan.md)
-- Scan **55** / printed page **53** directly begins Article 9 — **தந்தை மகனும் தருமம் தவறியவர்கள்!**. This is the next transcription unit.
+- Article 9 — **தந்தை மகனும் தருமம் தவறியவர்கள்!**: scans **55–60**, printed pages **53–58**: **6 / 6 VERIFIED / source-complete**
+- Article 9 assembled: [`articles/09-thanthai-maganum-tharumam-thavariyavargal.md`](articles/09-thanthai-maganum-tharumam-thavariyavargal.md)
+- Scan **61** / printed page **59** directly begins Article 10 — **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**. This is the next transcription unit.
 
 ### Article 5 heading variation inside the same source
 
