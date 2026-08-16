@@ -7,39 +7,56 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 ## Rules
 
 1. Add a term when an actual article translation establishes a recurring choice.
-2. Do not pre-fill the lexicon with dictionary guesses before the first translation context is read.
-3. A preferred English rendering may have documented contextual variants.
-4. Preserve Kalaignar's chosen label rather than silently replacing it with a modern identity.
-5. Do not soften terms whose polemical force matters.
-6. Do not invent caste, religious, political or social specificity beyond what the Tamil supports.
-7. If a term changes meaning by context, record separate rows or a clear exception.
-8. Every important change to an established choice must be recorded in `TRANSLATION_REVIEW.md` and rechecked in earlier translated articles if necessary.
+2. A preferred English rendering may have documented contextual variants.
+3. Preserve Kalaignar's chosen label rather than silently replacing it with a modern identity.
+4. Do not soften terms whose polemical force matters.
+5. Do not invent caste, religious, political or social specificity beyond what the Tamil supports.
+6. If a term changes meaning by context, record separate rows or a clear exception.
+7. Every important change to an established choice must be recorded in `TRANSLATION_REVIEW.md` and rechecked in earlier translated articles if necessary.
 
 ## User-supplied referent clarification
 
-The user has explicitly established for this publication that **`ஆச்சாரியார்` refers to C. Rajagopalachari, alias Rajaji**.
+The user explicitly established that **`ஆச்சாரியார்` in this publication refers to C. Rajagopalachari, alias Rajaji**.
 
-This is a referent-identification fact, not permission to rewrite Kalaignar's chosen label. When Kalaignar writes `ஆச்சாரியார்`, the English body should preserve an English rendering of that label rather than automatically replacing every occurrence with `Rajaji` or `C. Rajagopalachari`. If reader identification is needed, it should be supplied outside the translated body as a clearly separated translator/editor identification note.
+Article 1 T3 voice review has now frozen the recurring English body form as **`Acharya`**. The personal identity belongs in translator/editorial metadata or notes, not as a mechanical replacement for Kalaignar's chosen label.
 
-The exact recurring English form (`Acharya` versus a closer transliteration such as `Achariyar`) will be confirmed during Article 1 T1–T3 review; the **referent itself is no longer unresolved**.
-
-## Lexicon
+## Established lexicon
 
 | Tamil | Preferred English | Context / exception | First established in | Status |
 |---|---|---|---|---|
-| `ஆச்சாரியார்` | `Acharya` *(provisional form)* | In this publication the referent is **C. Rajagopalachari (Rajaji)**. Preserve Kalaignar's label in the body; do not mechanically substitute the personal name. Final transliteration choice to be confirmed in Article 1 voice review. | user clarification before Article 1 | `referent established; English form pending T3` |
+| `ஆச்சாரியார்` | `Acharya` | Referent in this publication: **C. Rajagopalachari (Rajaji)**. Preserve the label in Kalaignar's body. | Article 1 | `frozen after T3` |
+| `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` | `Chakravarthi` | Retain transliteration where Kalaignar's wordplay/referential play on Rajagopalachari/Chakravarthi is active. Tamil also literally means `emperor`; explain outside body when needed. | Article 1 | `established` |
+| `சக்கரவர்த்தியின் திருமகன்` / `சக்கரவர்த்தி திருமகன்` | `Chakravarthi's Son` | Publication/serial title; chosen to retain the Rajaji/Chakravarthi wordplay rather than flatten it to `The Emperor's Son`. | Article 1 | `established` |
+| `ஆரியர்` | `Aryans` | Preserve Kalaignar's ideological/historical vocabulary; do not generalise. | Article 1 | `established` |
+| `திராவிடர்` | `Dravidians` | Preserve Kalaignar's ideological/historical vocabulary; do not generalise. | Article 1 | `established` |
+| `ஆரியம்` | `Aryanism` | Used when Tamil refers to the ideological/civilisational abstraction rather than people. | Article 1 | `established` |
+| `ஆரிய சாம்ராஜ்யம்` | `Aryan Empire` | Preserve the polemical image/capitalisation consistently unless context requires otherwise. | Article 1 | `established` |
+| `அரக்கர்` | `demons` | Keep distinct from source `ராட்சசர்` where the Tamil itself uses different vocabulary. | Article 1 | `established` |
+| `ராட்சசர்` | `Rakshasas` | Epic/social label retained rather than flattened to the same English term as `அரக்கர்`. | Article 1 | `established` |
+| `தேவர்கள்` | `Devas` | Retains the epic/religious contrast with `Rakshasas`; do not automatically replace with generic `gods`. | Article 1 | `established` |
+| `அஸ்வமேதயாகம்` / `அசுவமேத யாகம்` | `Ashvamedha sacrifice` | Conventional epic form; preserve source reference to sacrifice. | Article 1 | `established` |
+| `தேவபாயசம்` | `divine payasam` | Retain `payasam` rather than replacing the cultural food term with `pudding`. | Article 1 | `established` |
+| `கற்பு` | `chastity` | Source-era moral vocabulary; preserve even where modern English may find the framing harsh. | Article 1 | `established` |
+| `சப்பைக்கட்டு` | `splint` / `fasten a splint` | Preserve Kalaignar's physical image when he says sagging Aryanism is being splinted/propped up; do not reduce to abstract `excuse`. | Article 1 | `contextual image established` |
+| `கல்கி` | `Kalki` | Periodical title; italicise in English prose. | Article 1 | `established` |
+| `முரசொலி` | `Murasoli` | Publication title; italicise in English prose. | Article 1 | `established` |
+| `படியுங்கள்!` | `Read!` | Keep as a direct command. | Article 1 | `established` |
+| `பாருங்கள்!` / `கவனியுங்கள்!` | `Look!` / `Look closely!` | Preserve reader-facing imperative force; choose according to immediate verb. | Article 1 | `established` |
+| `அறிவின்மை` | `ignorance` | Preserve repetitions such as `Ignorance, comrades, ignorance!`. | Article 1 | `established` |
 
-## Priority terms to resolve from actual context
+## Article 1 contextual decisions
 
-The following categories are expected to require consistent decisions, but their English renderings are deliberately **not pre-decided here** unless a source/referent fact has already been explicitly established:
+- The source-visible irregular phrase `எப்படி பெய்ப்படி வளைவான பாதைகளில் போகிறார்` is not altered in the Tamil layer. In English Article 1 it is rendered rhetorically as **`how he takes one crooked path after another`**, preserving the accusation without pretending the Tamil wording itself is regular.
+- `ஆசியஜோதியாம்` is rendered contextually as **`the so-called Light of Asia`** to retain the distancing/sarcastic force of the source construction.
+- `கள்ள இன்பம்` is rendered **`illicit pleasure`** in Article 1.
+- `பலாத்காரத்தினால் கற்பிழந்த` is rendered **`whose chastity was lost through coercion`**, retaining the source's moral vocabulary without adding a narrower factual claim than the Tamil phrase itself requires.
 
-- Kalaignar's recurring labels/epithets beyond the now-identified `ஆச்சாரியார்`;
-- `ஆரியர்` / `திராவிடர்` vocabulary;
+## Terms still to refine in later articles
+
+Later articles may add or qualify:
+
 - `பகுத்தறிவு` and related rationalist vocabulary;
-- epic names/titles where Tamil forms vary;
-- strongly polemical compounds and insults;
-- recurring religious/ritual vocabulary;
-- `கல்கி`, `முரசொலி` and other publication/source labels;
-- culturally loaded social terms whose nearest English label may overstate or distort the Tamil.
-
-Further lexical entries should be created while translating Article 1 and later articles, not from dictionary guesses alone.
+- additional caste/social terminology;
+- further epithets for Rajaji and other historical actors;
+- recurring ritual/religious terms not yet encountered in Article 1;
+- additional epic-name variants and intentionally different source forms.
