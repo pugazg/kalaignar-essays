@@ -30,31 +30,37 @@ See [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
 
 Every readable printed word, spacing-sensitive form, punctuation mark, quotation, number/date, heading and continuation is being rechecked directly against the scan in physical-page order.
 
-Current progress: **40 / 83 scans complete**.
+Current progress: **48 / 83 scans complete**.
 
 ### Completed batches
 
 - **1–8:** complete; source corrections recorded
 - **9–16:** complete; source corrections/revalidations recorded
-- **17–24:** complete; no new discrepancy
-- **25–32:** complete; no new discrepancy
-- **33–40:** complete; no new discrepancy, with earlier source-layer corrections revalidated on scans 33–36
+- **17–24:** complete
+- **25–32:** complete
+- **33–40:** complete
+- **41–48:** complete; **three new fidelity corrections found and propagated**
 
-### Batch 5 closeout — scans 33–40
+### Batch 6 closeout — scans 41–48
 
-- scans **33–37** complete Article 5; Article 5 is now fully strict-rechecked
-- revalidated source forms/corrections include `பரத்துவாஜ...`, `போடுகிறவன் போட்டாலும்`, `சீறிப் பாய்ந்தார்கள்`, `ஸ்நானாதி`, `நிருத்தியம்`, and the closing reprise's own line-breaking
-- scans **38–40** begin Article 6 and agree with the assembly, including `அத்தகைய வாசகத்தை வீசுகிறாள்`, `மூலி அலங்காரி`, `பிராமணவம்பரோ`, `பாஸ்பவாரி பரிபூரண லோசனத்துடன்`, `கிழராஜனையும்`, and `ராமபிரபு`
-- the open quotation across scans 39–40 remains unrepaired because the scan itself supplies no visible closing mark after `இதுவே.`
+- scan **41** — corrected quote punctuation to the scan's mixed witness: `‘மூதேவி அடி எடுத்து வைத்த நேரம் அப்படி!”`; `என்பதாகுவது` remains visually confirmed
+- scan **42** — corrected `சாயைக் கட்டு போடும்` to source-visible **`சப்பைக் கட்டு போடும்`**
+- scan **43** — fidelity pass; Article 7 heading and opening agree
+- scan **44** — corrected no-space punctuation sequence to **`தன் இனம்,தன் சமுதாயம்,அந்த சமுதாயத்தின்`**
+- scans **45–48** — fidelity pass, including `விபீஷணப்பட்டத்தை`, `வாலேந்திகள்`, `இனித்தவாயனும்`, `விஷ்ணு அவதார மென்றீர்கள்`, `கற்பு சம்மாக்கப்பட்டு`, `அய்வருக்கும்`, `பொன்னான(?)`, `ஸ்ரீராமுலு`, and `ஆர்குஸிஸ்`
+- Article 6, scans **38–42**, is now fully strict-rechecked
+- Article 7 is strict-rechecked through scan **48**; scan 49 remains before full Article 7 closeout
+- the source-visible unclosed quotation on scan 46 after `ராமாயணம்.` remains unrepaired
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Next strict-review batch
 
-Proceed with **scans 41–48**:
+Proceed with **scans 49–56**:
 
-- scans **41–42** — conclude Article 6
-- scans **43–48** — Article 7 `விபீஷணருக்கு விடை யளிப்போம்!` through printed p.46
+- scan **49** — conclude Article 7
+- scans **50–54** — Article 8 `நாடாண்ட மன்னன் நாதியற்று செத்தான்`
+- scans **55–56** — first two pages of Article 9 `தந்தை மகனும் தருமம் தவறியவர்கள்!`
 
 The publication remains source-complete, but the strict visual-text-fidelity gate remains open until scan 83 and all assemblies have been rechecked.
 
