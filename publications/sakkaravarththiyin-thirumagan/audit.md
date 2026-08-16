@@ -164,7 +164,7 @@ Article 6 is therefore **source-complete for this supplied edition**.
 - scan 39 retains **`எப்படிப்பேசியிருக்கவேண்டும்`**, **`பிராமணவம்பரோ`**, **`மகனைப்பாட்டன்`**, **`உடன் பட்டாய்`**, **`இந்தச்சோகக்`**, and **`சுருக்கமாகக்குறிப்பிடுகிறார்`**
 - enlarged scan 39 supports **`பாஸ்பவாரி பரிபூரண லோசனத்துடன்`**; the quotation continues to scan 40 and no closing quote is visible after `இதுவே.`
 - scan 40 retains **`கை கூப்பி`**, **`கிழராஜனையும்`**, **`பலிபீடத்திலே`**, **`இளமைத்தியாகத்தை`**, **`களங்கம் காணக் கிடக்கிறது`**, and **`ராமபிரபு`**
-- scan 41 retains **`பிராப்தி`**, **`பிராப்த விஷயத்தை`**, **`என்பதாகவது`**, **`புத்திரப்பிரிவு`**, **`நாணயமாகாது`**, and **`மணமகள்`**
+- scan 41 enlarged inspection confirms **`என்பதாகுவது`**; it also retains **`பிராப்தி`**, **`பிராப்த விஷயத்தை`**, **`புத்திரப்பிரிவு`**, **`நாணயமாகாது`**, and **`மணமகள்`**
 - scan 42 retains **`சாயைக் கட்டு போடும்`**, **`அனுமாருக்குத்தான்`**, **`அந்தப்பாவி`**, **`ஆரியக்காவல்`**, and **`இலக்கியமய்யா இலக்கியம்`**
 - scan 42 ends Article 6 with `இலக்கியமய்யா இலக்கியம்!` followed by the printed ornament
 - scan 43 / printed p.41 directly shows the next heading **`விபீஷணருக்கு விடை யளிப்போம்!`**
