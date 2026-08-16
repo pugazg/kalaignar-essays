@@ -28,55 +28,51 @@ See [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
 
 ## Strict visual-text-fidelity review — in progress
 
-A second, stricter review is being run in physical scan order. It reopens every page and checks each readable printed word, spacing-sensitive form, punctuation mark, quotation mark, number/date, heading and continuation directly against the scan.
+Every readable printed word, spacing-sensitive form, punctuation mark, quotation, number/date, heading and continuation is being rechecked directly against the scan in physical-page order.
 
-Current progress: **24 / 83 scans complete**.
+Current progress: **32 / 83 scans complete**.
 
-### Batch 1 — scans 1–8
+### Completed batches
 
-- scans 1–6: **FIDELITY-PASS**
-- scan 7: **CORRECTED** — source-visible `மற்றுமுள்ள` replaces earlier `மற்றும் உள்ள`
-- scan 8: **CORRECTED** — Article 12 contents entry is `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`
+- **1–8:** complete; scan 7 corrected to `மற்றுமுள்ள`; scan 8 Article 12 contents corrected to `மாரீசனைத்...`
+- **9–16:** complete; revalidated `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`, `எப்படி பெய்ப்படி`, and `கல் சாசனமோ`
+- **17–24:** **8 / 8 FIDELITY-PASS**, no new discrepancy
+- **25–32:** **8 / 8 FIDELITY-PASS**, no new discrepancy
 
-### Batch 2 — scans 9–16
+### Batch 4 closeout — scans 25–32
 
-- scan 9: **CORRECTED (revalidated)** — `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`; `எப்படி பெய்ப்படி`
-- scan 10: **FIDELITY-PASS**
-- scans 11–12: **CORRECTED (revalidated)** — source spacing `கல் சாசனமோ`
-- scans 13–16: **FIDELITY-PASS**
-- Article 1 assembly was rechecked against the corrected page layer
+- scan 25 closes Article 3 and agrees with the page/assembly layer
+- scans 26–29 cover all of Article 4 and agree word-for-word with its assembly
+- scans 30–32 begin Article 5 and agree with its assembly
+- Article 3 is now fully strict-rechecked
+- Article 4 is now fully strict-rechecked
+- Article 5 remains partially strict-rechecked through printed p.30
 
-### Batch 3 — scans 17–24
+Reconfirmed source-sensitive forms include `வாக்குச்சொல்லி`, `வாத்தியகோஷம்`, `கைகேயிக்குக்கூட`, `கவுசல்யைக்கு`, `கேகேயனுக்குத்தந்துள்ள`, `கைகேயி ஆண்மனைக்கு`, `கண்டெடுத்தும்`, `அப்-பாவி`, `இப்படி யெல்லாம்`, `கிழ ராஜனை`, and the Article 5 heading-page witness `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`.
 
-- scans **17–21** — remainder of Article 2: **5 / 5 FIDELITY-PASS**
-- scans **22–24** — Article 3 opening: **3 / 3 FIDELITY-PASS**
-- Article 2 assembly, scans **16–21**, is now fully strict-rechecked and agrees with the page layer
-- Article 3 assembly content for scans **22–24** agrees; scan 25 remains for the next batch
-- no new transcription discrepancy was found in scans 17–24
-- source anomalies such as the unclosed quotation on scan 18, unclosed quotation on scan 20, and unmatched closing quotation at the end of scan 24 remain unrepaired
+The Kamba verse on scan 32 and source punctuation such as `பெண்களும்.` were preserved without normalization.
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Next strict-review batch
 
-Proceed with **scans 25–32**:
+Proceed with **scans 33–40**:
 
-- scan 25 — Article 3 conclusion
-- scans 26–29 — Article 4 `காமராஜன் ஆட்கொண்ட தசரதராஜன்!`
-- scans 30–32 — opening three pages of Article 5
+- scans **33–37** — remainder of Article 5
+- scans **38–40** — first three pages of Article 6 `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`
 
-The publication remains **source-complete**, but the strict visual-text-fidelity gate remains **open** until scan 83 and all assemblies have been rechecked.
+The publication remains source-complete, but the strict visual-text-fidelity gate remains open until scan 83 and all assemblies have been rechecked.
 
 ## Files
 
-- [`metadata/source.md`](metadata/source.md) — source identity and edition notes
-- [`indexes/contents.md`](indexes/contents.md) — printed பொருளடக்கம்
-- [`indexes/page-map.md`](indexes/page-map.md) — scan ↔ printed-page/article mapping
-- [`audit.md`](audit.md) — source and strict-review status
-- [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md) — source-layer completion
-- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md) — staged word-level fidelity ledger
-- `pages/` — physical scan-page records
-- `articles/` — assembled article readings
+- [`metadata/source.md`](metadata/source.md)
+- [`indexes/contents.md`](indexes/contents.md)
+- [`indexes/page-map.md`](indexes/page-map.md)
+- [`audit.md`](audit.md)
+- [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md)
+- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md)
+- `pages/`
+- `articles/`
 
 ## Source authority
 
