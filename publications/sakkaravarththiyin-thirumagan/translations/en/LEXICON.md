@@ -22,8 +22,8 @@ The user then explicitly chose **`Achariyar` instead of `Acharya`**. After confi
 
 Therefore:
 
-- Articles 1 and 2 now use **`Achariyar`** throughout.
-- Articles 3–14 must use **`Achariyar`** wherever the Tamil source uses `ஆச்சாரியார்`, unless the source itself changes label.
+- Articles 1–3 now use **`Achariyar`** throughout.
+- Articles 4–14 must use **`Achariyar`** wherever the Tamil source uses `ஆச்சாரியார்`, unless the source itself changes label.
 - Do not mechanically substitute `Rajaji` or `C. Rajagopalachari` inside Kalaignar's body text; use the identity only in translator/editorial identification notes.
 
 ## Established lexicon
@@ -60,27 +60,41 @@ Therefore:
 | `வேதியப் பெருந்தகையார்` | `great Vedic worthy` | Deliberately slightly elevated/ironic English to preserve Kalaignar's address. | Article 2 | `contextual epithet established` |
 | `பட்டாபிஷேகம்` | `coronation` | Use normal English institutional term while preserving the surrounding source rhetoric. | Article 2 | `established` |
 | `சூழ்ச்சி` | `plot` | Keep distinct from explicit `சதி` where both occur in the same argument. | Article 2 | `established` |
-| `சதி` | `conspiracy` | Stronger explicit conspiracy term; retain distinction from `சூழ்ச்சி` when the Tamil distinguishes them. | Article 2 | `established` |
+| `சதி` | `conspiracy` | Stronger explicit conspiracy term; Article 3 title therefore becomes **The Conspiracy Is Proven**. | Article 2; title confirmed Article 3 | `established` |
 | `தையல் சீதை` | `Lady Sita` | Contextual rendering in Article 2's mocking rhetorical question; retains the marked address rather than dropping `தையல்`. | Article 2 | `contextual` |
+| `ராஜ்ய பாரம்` / `ராஜ்யபாரம்` | `burden of the kingdom` / `burden of rule` | Preserve the physical image where Kalaignar says the burden is tied onto Rama's head; use `burden of rule` in fitness-to-govern contexts. | Article 3 | `contextual distinction established` |
+| `யுவராஜப் பதவி` / `யுவராஜ்யப் பதவி` | `office of Crown Prince` | Preserve the institutional rank; surrounding rhetoric may use `Crown Prince's coronation`. | Article 3 | `established` |
+| `கல்மஷம்` | `taint` | In Achariyar's quoted claim about Kaikeyi's heart; Kalaignar later echoes the word sarcastically, so retain the same lexical image. | Article 3 | `established` |
+| `கொல்லைப்புறமாக ... மந்திரி சபைக்கு வந்தவர்` | `came into the Council of Ministers through the back door` | Preserve Kalaignar's political jab and physical metaphor; do not neutralise to `entered politics indirectly`. | Article 3 | `contextual image established` |
 
 ## Article 1 contextual decisions
 
 - `ஆச்சாரியார்` is **`Achariyar` throughout Article 1**, by explicit user instruction.
-- The source-visible irregular phrase `எப்படி பெய்ப்படி வளைவான பாதைகளில் போகிறார்` is not altered in the Tamil layer. In English Article 1 it is rendered rhetorically as **`how he takes one crooked path after another`**, preserving the accusation without pretending the Tamil wording itself is regular.
-- `ஆசியஜோதியாம்` is rendered contextually as **`the so-called Light of Asia`** to retain the distancing/sarcastic force of the source construction.
-- `கள்ள இன்பம்` is rendered **`illicit pleasure`** in Article 1.
-- `பலாத்காரத்தினால் கற்பிழந்த` is rendered **`whose chastity was lost through coercion`**, retaining the source's moral vocabulary without adding a narrower factual claim than the Tamil phrase itself requires.
+- The source-visible irregular phrase `எப்படி பெய்ப்படி வளைவான பாதைகளில் போகிறார்` is not altered in the Tamil layer. In English Article 1 it is rendered rhetorically as **`how he takes one crooked path after another`**.
+- `ஆசியஜோதியாம்` → **`the so-called Light of Asia`**.
+- `கள்ள இன்பம்` → **`illicit pleasure`**.
+- `பலாத்காரத்தினால் கற்பிழந்த` → **`whose chastity was lost through coercion`**.
 
 ## Article 2 contextual decisions
 
-- `ஆச்சாரியார்` is now **`Achariyar` throughout Article 2** as part of the user-approved publication-wide standard.
-- Title `தேகமும் உணர்வும்` → **`Body and Feeling`**. The compact pairing is retained rather than expanded into a philosophical paraphrase.
-- Source-visible `(ஆகஸ்டு 154)` is translated as **`(August 154)`** and explicitly documented; the translation does not silently repair the date.
-- `மூன்றடி மண்` in the Vamana passage is rendered **`three paces of land`**, matching the immediate source contrast with measuring the world in `two strides` while preserving the body/measure argument.
-- The unmatched quotation openings on scans **18** and **20** are documented in English source comments rather than silently regularised.
-- `புரோகிதர் தலைவரின் பொருள் பொதிந்த பேச்சு` is rendered **`The meaning-laden words of the leader of the priests!`**, retaining the polemical referential framing.
-- `இனி` is repeatedly kept as **`now` / `from now on`** because Kalaignar's entire first-half argument turns on that temporal word.
-- `காற்றில் பறக்கவிட்டு` is retained idiomatically as **`thrown that promise to the winds`**.
+- `ஆச்சாரியார்` is **`Achariyar` throughout Article 2** as part of the user-approved publication-wide standard.
+- Title `தேகமும் உணர்வும்` → **`Body and Feeling`**.
+- Source-visible `(ஆகஸ்டு 154)` → **`(August 154)`** with an explicit source note; do not silently repair it.
+- `மூன்றடி மண்` → **`three paces of land`**, matching the immediate contrast with `two strides`.
+- Unmatched quotation openings on scans **18** and **20** are documented rather than regularised.
+- `புரோகிதர் தலைவரின் பொருள் பொதிந்த பேச்சு` → **`The meaning-laden words of the leader of the priests!`**.
+- `இனி` remains **`now` / `from now on`** because the argument turns on that temporal word.
+- `காற்றில் பறக்கவிட்டு` → **`thrown that promise to the winds`**.
+
+## Article 3 contextual decisions
+
+- Title `சதி நிரூபிக்கப்படுகிறது` → **`The Conspiracy Is Proven`**.
+- `ஆச்சாரியார்` / source spelling variant `ஆச்சாரியர்` → **`Achariyar`**; both refer to the same established Rajaji label.
+- The opening `ராஜ்ய பாரத்தை ராமன் தலையில் கட்டி விட` is kept physically as **`tie onto Rama's head the burden of the kingdom`** rather than reduced to `give Rama power`.
+- `கடவுள் அம்சத்தில் பங்கு கணக்கென்ன ... எல்லாப்பங்குமே பூரணத்துவம்` is rendered as **`when it is a share of divinity, what need is there to calculate shares? Every share is complete in itself`**, preserving Kalaignar's contradiction argument.
+- `கொல்லைப்புறமாக மந்திரி சபைக்கு வந்தவரல்லவா ஆச்சாரியார்!` → **`Was not Achariyar himself one who came into the Council of Ministers through the back door!`**.
+- Quoted `கல்மஷம்` → **`taint`**, and Kalaignar's later sarcastic echo is preserved as Kaikeyi whose mind was said to be free of **“taint.”**
+- The final cadence is kept direct: **`Why only us? Everyone with a brain will come to exactly that conclusion.`**
 
 ## Terms still to refine in later articles
 
