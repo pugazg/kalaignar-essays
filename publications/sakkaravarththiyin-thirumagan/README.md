@@ -4,11 +4,9 @@
 **Source edition archived here:** 2018 மறுபதிப்பு  
 **Source PDF:** repository-க்கு வெளியே பாதுகாக்கப்படுகிறது.
 
-இந்த publication ஒரு தனிக் கட்டுரை அல்ல. Scan-ல் உள்ள `பொருளடக்கம்` **14 கட்டுரைகளை** பட்டியலிடுகிறது. ஆகவே இந்த source edition ஒரே publication unit ஆகப் பதிவு செய்யப்பட்டு, அதன் கட்டுரைகள் `articles/` கீழ் தனித்தனியாக assemble செய்யப்பட்டுள்ளன.
+இந்த publication ஒரு தனிக் கட்டுரை அல்ல. Scan-ல் உள்ள `பொருளடக்கம்` **14 கட்டுரைகளை** பட்டியலிடுகிறது. இந்த source edition ஒரே publication unit ஆகப் பதிவு செய்யப்பட்டு, அதன் கட்டுரைகள் `articles/` கீழ் தனித்தனியாக assemble செய்யப்பட்டுள்ளன.
 
 ## Source-visible edition history
-
-`நூல் குறிப்பு` பக்கம் பதிவு செய்வது:
 
 - **முதற்பதிப்பு மே 1956 (வேலூர் திராவிடன் பதிப்பகம்)**
 - **மறு பதிப்பு - 2018**
@@ -17,33 +15,26 @@
 
 ## Source-layer status
 
-The archival/source layer is complete for the supplied edition:
-
 - physical scans: **83 / 83 page records**
 - printed-content articles: **14 / 14**
 - article assemblies: **14 / 14**
 - source PDF committed to repository: **No**
 
-See [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
+## Strict visual-text-fidelity review — PASSED
 
-## Strict visual-text-fidelity review — in progress
+Every readable printed word, spacing-sensitive form, punctuation mark, quotation, number/date, heading and continuation has now been rechecked directly against the controlling scan in physical-page order.
 
-Every readable printed word, spacing-sensitive form, punctuation mark, quotation, number/date, heading and continuation is being rechecked directly against the scan in physical-page order.
+- physical scans strict-rechecked: **83 / 83**
+- article assemblies strict-rechecked: **14 / 14**
+- unresolved pixel-review items: **0**
 
-Current progress: **80 / 83 scans complete**.
+### Final batch — scans 81–83
 
-### Latest batch — scans 73–80
+- scan **81 / printed p.79** — **FIDELITY-PASS**; the quotation begun on scan 80 closes with `காதில் ஏறவில்லை”`; all three dated citations and source-sensitive forms agree.
+- scan **82 / printed p.80** — **CORRECTED**; source reads **`என்று வர்ணிக்கிறான் சுக்ரீவனைப் பற்றி!`**, not the earlier `வர்ணிக்கிறார்`. The correction is propagated into Article 14. The printed ornament closes Article 14; the lower `விடுதலை` advertisement and handwriting/accession marks remain outside the article.
+- scan **83** — **FIDELITY-PASS** as a separate back-cover witness. Its promotional Article 12 excerpt, barcode `9997720145467`, and `நன்கொடை: ரூ.50/-` agree with the scan and are not copied back into Article 12 body text.
 
-- scan **73**: fidelity-pass and completes Article 12
-- scan **74**: restored visible article number `13`; corrected `மாறிமாறி` → **`மாறடித்து`**
-- scan **75**: corrected source punctuation spacing to **`சுக்ரீவன் யார் தெரியுமா ?`**
-- scans **76–78**: fidelity-pass; scan 78 closes Article 13 and preserves the source-unclosed citation `(6.3.1955 - ‘கல்கி)`
-- scan **79**: restored visible article number `14`; corrected heading to **`காரியமாகும் வரையில் காலைப் பிடி !`**
-- scan **80**: fidelity-pass, including `சவுந்தாயமும்`; the final quotation continues to scan 81
-- Article 12 is now fully strict-rechecked
-- Article 13 is now fully strict-rechecked
-- Article 14 is strict-rechecked through scan 80 only
-- no unresolved pixel-review item remains in scans 1–80
+Article 14 — scans **79–82 / printed pp.77–80** — is now fully strict-rechecked.
 
 ### Article 14 title witnesses
 
@@ -52,17 +43,8 @@ Current progress: **80 / 83 scans complete**.
 
 The source-visible punctuation-spacing difference is preserved rather than harmonized.
 
-Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
-
-## Final strict-review batch
-
-Proceed with **scans 81–83**:
-
-- scan **81** — Article 14 continuation
-- scan **82** — Article 14 conclusion + post-article physical marks / printed `விடுதலை` advertisement
-- scan **83** — physical back cover / promotional witness
-
-After those scans, recheck the complete Article 14 assembly and only then close the publication-level strict-fidelity gate.
+Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).  
+Completion certificate: [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
 
 ## Files
 
