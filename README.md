@@ -20,34 +20,26 @@
 
 ### Source-layer status
 
-The original archival/source layer is complete:
-
-- **83 / 83** physical page records
-- **14 / 14** article assemblies
+- **83 / 83** physical page records complete
+- **14 / 14** article assemblies complete
 - source PDF kept outside GitHub
 
-### Visual text fidelity status
+### Strict visual text fidelity status
 
-The separate strict page-by-page, word-by-word visual comparison is still in progress.
+**COMPLETE / PASSED**
 
-Current progress: **80 / 83 scans complete**.
+- **83 / 83 physical scans** checked directly at word, word-boundary, punctuation, quotation, numeral/date, heading and continuation level
+- **14 / 14 article assemblies** rechecked after all source corrections
+- **0 unresolved `NEEDS-PIXEL-REVIEW` items**
 
-Latest completed range: **73–80**.
+The final batch covered scans **81–83**. Scan 81 passed without change. Scan 82 produced the final new correction: `வர்ணிக்கிறார்` → source-visible **`வர்ணிக்கிறான்`**, propagated into Article 14. Scan 83 passed as a separate back-cover promotional witness and was not reconciled into Article 12 body text.
 
-- Article 12 is now fully strict-rechecked across scans **71–73**.
-- Article 13 is now fully strict-rechecked across scans **74–78**.
-- Article 14 is strict-rechecked through scan **80**; scans 81–82 remain.
-- Scan 74 corrected `மாறிமாறி` to source-visible **`மாறடித்து`** and restored visible article number `13`.
-- Scan 75 preserves source spacing **`சுக்ரீவன் யார் தெரியுமா ?`**.
-- Scan 79 restored visible article number `14` and corrected the heading to **`காரியமாகும் வரையில் காலைப் பிடி !`**. The contents-page witness remains separately `காரியமாகும் வரையில் காலைப் பிடி!`.
-- No unresolved pixel-review item remains in scans **1–80**.
-
-Final strict range: **81–83**.
+Article 14 is now fully strict-rechecked across scans **79–82**. Its heading-page witness is **`காரியமாகும் வரையில் காலைப் பிடி !`**, while the contents witness remains **`காரியமாகும் வரையில் காலைப் பிடி!`**.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
 Fidelity ledger: [`publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md)
 
-Source-layer completion review / strict-gate state: [`publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md)
+Completion review: [`publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md)
 
 Workflow: [`ESSAY_PROCESSING_GUIDE.md`](ESSAY_PROCESSING_GUIDE.md).
