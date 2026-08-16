@@ -33,8 +33,8 @@ Review ledger: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLA
 
 Current status:
 
-- English drafts complete: **8 / 14**
-- English articles T0–T5 verified: **8 / 14**
+- English drafts complete: **9 / 14**
+- English articles T0–T5 verified: **9 / 14**
 - final 14-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -52,24 +52,25 @@ The user established that `ஆச்சாரியார்` refers to **C. Raj
 6. `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?` → **Why Did Rama Go to the Forest? A Rishi's Curse? Kaikeyi's Anger?**
 7. `விபீஷணருக்கு விடை யளிப்போம்!` → **Let Us Answer Vibhishana!**
 8. `நாடாண்ட மன்னன் நாதியற்று செத்தான்` → **The King Who Ruled the Land Died with No One to Tend Him**
+9. `தந்தை மகனும் தருமம் தவறியவர்கள்!` → **Father and Son—Both Strayed from Dharma!**
 
-Article 8 Tamil SHA: `87d10ed53e55fdf6a1eb60f86517cc245644a71a`  
-English: [`translations/en/08-naadaanda-mannan-naathiyatru-seththaan.md`](translations/en/08-naadaanda-mannan-naathiyatru-seththaan.md)
+Article 9 Tamil SHA: `d8b6b6cba29bb35e70d2009ebccad4b64cfffa9d`  
+English: [`translations/en/09-thanthai-maganum-tharumam-thavariyavargal.md`](translations/en/09-thanthai-maganum-tharumam-thavariyavargal.md)
 
-Article 8 passed **T0–T5**. Important non-regression points:
+Article 9 passed **T0–T5**. Important non-regression points:
 
-- `நாதியற்று / நாதியில்லாமல்` keeps the physical **no one to tend him** title/body echo;
-- `தாம் பத்தினி` remains source-visible in Tamil and is contextually rendered **devoted wife** with a translator note;
-- scan 52 contains an unmatched opening quotation and English documents rather than repairs it;
-- `சயந்தன்`, `பாக்கை`, `சூதமாகதர்கள்` remain source-bearing **Sayantan / paakkai / Suta-Magadhars**;
-- the sleeping-wives/deathbed satire, **sixty thousand**, Aryan-culture jab and repeated **master his senses** ridicule remain direct;
-- `காம போதை` → **intoxication of lust**, `உடல் சுகம்` → **bodily pleasure**;
-- source-visible `வாலை` remains a **tail** image;
-- `பூணூல் வேந்தர்` → **sacred-thread king**.
+- `தருமம் / தர்மம்` → **dharma**; `சத்தியம்` → **truth / word of truth**; `நாஸ்திகம் / நாஸ்திகன்` → **atheism / atheist**;
+- source-visible `ஜாம்பாலி` → **Jambali** and unusual `நாதிகமுள்ளவர்கள்` remains source-bearing **naathigam**;
+- opening Chitrakuta quotation-mark anomaly documented;
+- sheep-flock / **Govinda!** jab and direct challenge retained;
+- `சூட்சமம்` → **the catch!**, `ராஜ்ய பாரம்` → **burden of rule**, `சதி` remains **conspiracy**;
+- Rama's covert **the country given by me** claim and Vasishta's **administer the kingdom** instruction remain visible;
+- sandal/throne surrogate-rule satire and Nehru–Governor Prakasa analogy are preserved;
+- **“holy” sandals**, **the conspirator Rama**, and **audacious, conspiracy-laden speech** remain direct.
 
 ## Exact next activity
 
-Proceed with complete translation and T0–T5 review of **Article 9 — `தந்தை மகனும் தருமம் தவறியவர்கள்!`**. Read the full current Tamil assembly before choosing the English title.
+Proceed with complete translation and T0–T5 review of **Article 10 — `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`**. Read its whole strict-reviewed Tamil assembly before finalising the English title, and preserve the known title/body source-witness distinction.
 
 ## Files
 
