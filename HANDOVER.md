@@ -40,40 +40,36 @@ The user requested a second, stricter word-by-word / punctuation-by-punctuation 
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-Current strict-review progress: **32 / 83 scans complete**.
+Current strict-review progress: **40 / 83 scans complete**.
 
 ### Completed batches
 
 - scans **1–8**: complete
 - scans **9–16**: complete
-- scans **17–24**: **8 / 8 FIDELITY-PASS**, no new discrepancy
-- scans **25–32**: **8 / 8 FIDELITY-PASS**, no new discrepancy
+- scans **17–24**: complete
+- scans **25–32**: complete
+- scans **33–40**: **8 / 8 COMPLETE; no new discrepancy found**
 
-Earlier strict corrections that must not regress:
+### Batch 5 closeout
 
-- `மற்றுமுள்ள`
-- contents `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`
-- `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`
-- `எப்படி பெய்ப்படி`
-- `கல் சாசனமோ`
+- scans 33–36 revalidated already-propagated source corrections:
+  - `பரத்துவாஜ...` rather than earlier `பரத்வாஜ...`
+  - scan 34 `போடுகிறவன் போட்டாலும்`
+  - scan 36 `சீறிப் பாய்ந்தார்கள்`
+- scans 37–40 required no new correction
+- Article 5, scans **30–37**, is now fully strict-rechecked against its assembly
+- Article 6 scans **38–40** agree with its assembly; scans 41–42 remain
+- source punctuation anomalies remain unrepaired, including scan 33's unclosed long quotation, scan 35's closing quotation without a new visible opening mark, and the quotation crossing scans 39–40 without a visible closing mark after `இதுவே.`
 
-### Batch 4 closeout
-
-- scan 25 completed Article 3; Article 3 is now fully strict-rechecked
-- scans 26–29 completed Article 4; Article 4 is now fully strict-rechecked
-- scans 30–32 of Article 5 agree with the assembly; scans 33–37 remain
-- no page or assembly correction was required
-
-Source-sensitive forms reconfirmed include `வாக்குச்சொல்லி`, `வாத்தியகோஷம்`, `கைகேயிக்குக்கூட`, `கவுசல்யைக்கு`, `கேகேயனுக்குத்தந்துள்ள`, `கைகேயி ஆண்மனைக்கு`, `கண்டெடுத்தும்`, `அப்-பாவி`, `இப்படி யெல்லாம்`, `கிழ ராஜனை`, and heading-page `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`.
-
-The Kamba verse on scan 32 and source punctuation such as `பெண்களும்.` were preserved without modernization or segmentation changes.
+Other source-sensitive forms reconfirmed include `மேதா விலாசத்துக்கு`, `ராமாயணந்தானாம்`, `ஸ்நானாதி`, `நிருத்தியம்`, `கொத்தவாலை`, `அய்ந்துவகை`, `போக்கியதையைப்`, `மூலி அலங்காரி`, `பிராமணவம்பரோ`, `மகனைப்பாட்டன்`, `பாஸ்பவாரி பரிபூரண லோசனத்துடன்`, `கிழராஜனையும்`, and `ராமபிரபு`.
 
 ## Exact next activity
 
-Strictly review **scans 33–40** against the controlling PDF:
+Strictly review **scans 41–48** against the controlling PDF:
 
-- scans **33–37** — remainder/conclusion of Article 5
-- scans **38–40** — first three pages of Article 6 `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`
+- scans **41–42** — conclude Article 6 `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`
+- scans **43–48** — Article 7 `விபீஷணருக்கு விடை யளிப்போம்!` through printed page 46
+- scan 49 is Article 7's final page and will fall in the following batch
 
 For every scan:
 
@@ -83,7 +79,7 @@ For every scan:
 4. correct only from scan evidence;
 5. propagate any correction into the relevant article assembly;
 6. update the fidelity ledger and audit;
-7. advance the strict-review count only after all scans 33–40 are closed.
+7. advance the strict-review count only after all scans 41–48 are closed.
 
 **Do not claim 83/83 strict fidelity until the staged review actually reaches scan 83 and all assemblies are rechecked.**
 
