@@ -2,7 +2,7 @@
 
 ## Current audit scope
 
-This audit now covers supplied scan pages **1–78** as archived source pages, plus direct inspection of scan **79** to confirm the next-article boundary.
+This audit now covers **all supplied scan pages 1–83**. Every physical page is classified and directly inspected.
 
 ## Page status
 
@@ -27,7 +27,8 @@ This audit now covers supplied scan pages **1–78** as archived source pages, p
 | Scans 65–70 — Article 11 `நடப்பதெல்லாம் நாராயணன் செயலா?` | **6 / 6 VERIFIED** |
 | Scans 71–73 — Article 12 `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்` | **3 / 3 VERIFIED** |
 | Scans 74–78 — Article 13 `துரோகிகள் சந்திப்பு!` | **5 / 5 VERIFIED** |
-| Scan 79 — Article 14 `காரியமாகும் வரையில் காலை பிடி!` heading/start boundary | VERIFIED boundary; transcription next |
+| Scans 79–82 — Article 14 `காரியமாகும் வரையில் காலை பிடி!` | **4 / 4 VERIFIED** |
+| Scan 83 — back cover | VERIFIED |
 
 ## Completion gates
 
@@ -46,8 +47,9 @@ This audit now covers supplied scan pages **1–78** as archived source pages, p
 | 11 | 65–70 | 63–68 | 6/6 | 0 | 0 | [`11-nadappathellam-narayanan-seyala.md`](articles/11-nadappathellam-narayanan-seyala.md) |
 | 12 | 71–73 | 69–71 | 3/3 | 0 | 0 | [`12-maarisanai-thuraththi-sendra-ramanidam.md`](articles/12-maarisanai-thuraththi-sendra-ramanidam.md) |
 | 13 | 74–78 | 72–76 | 5/5 | 0 | 0 | [`13-thurogigal-santhippu.md`](articles/13-thurogigal-santhippu.md) |
+| 14 | 79–82 | 77–80 | 4/4 | 0 | 0 | [`14-kaariyamaagum-varaiyil-kaalai-pidi.md`](articles/14-kaariyamaagum-varaiyil-kaalai-pidi.md) |
 
-Articles **1–13 are source-complete for this supplied edition**. Scan **79** directly begins Article 14.
+**Articles 1–14 are source-complete for this supplied edition.**
 
 ## Direct visual checks worth preserving
 
@@ -72,6 +74,24 @@ Articles **1–13 are source-complete for this supplied edition**. Scan **79** d
 - scan 78 citation is visibly **`(6.3.1955 - ‘கல்கி)`**: an opening single quote occurs before `கல்கி`, with no source-visible closing quote before the parenthesis; it remains unrepaired
 - scan 78 ends Article 13 with the printed ornament
 
+### Article 14 — காரியமாகும் வரையில் காலை பிடி!
+
+- scans **79–82**, printed pp. **77–80**
+- scan 79 heading: **`காரியமாகும் வரையில் காலை பிடி!`**
+- scan 79 retains `மலையருவிபோல`, `உடலைவிட்டுப்`, `பிரிய மகன்`, `பிரலாபித்தாள்`, unusual **`ஆலோசியாமல்`**, unusual **`சம்பத்தை`**, and `(27.3.1955 - ‘கல்கி’)`
+- scan 80 retains `பூஜனைப்பித்தர்களுக்கு`, `ராஜகாரியங்களை யெல்லாம்`, `கிஷ்கிந்தா புரத்தில்`, `அந்தப்புர போகத்தில்`, unusual **`சவுந்தாயமும்`**, `கிராமிய சுகத்தில்`, `கோபாவேசமாகப்`, and `ஆயுதபாணியாக ஆக்ரோஷத்துடன்`
+- scan 80 ends inside a quotation after `வானர் சொன்னது அவன்`; scan 81 begins `காதில் ஏறவில்லை”`, directly closing that source quotation
+- scan 81 retains `நாணையிழுத்து`, `சமானம்`, `அளவளாவுகிறான்`, source spacing **`-எதையும்`**, `சிருங்கார போகத்தில்`, `நன்றிகெட்ட`, `ரிஷ்யமுகம்`, `துயர்தணிக்கும்`, and three visible `(3.4.1955 - ‘கல்கி’)` citations
+- scan 82 retains `காரிய சாதனைக்காக`, `சகோதரத் துரோகியும்`, `நன்றி கெட்டவனுமான`, `சுக்ரீவனிடத்திலே`, `தோழமை`, and `பூண்டொழுகியிருக்கிறார்கள்`
+- the printed ornament on scan 82 directly closes Article 14; content below it is not included in the article assembly
+
+### Post-text scans 82–83
+
+- scan 82 is mixed: below the Article 14 ornament are handwritten/accession-like physical marks and a printed `விடுதலை` advertisement
+- the scan-82 advertisement prints `பகுத்தறிவு, சமூகநீதி, வாழ்வியல் / அறிய படியுங்கள், படியுங்கள்...`, `தோற்றம் : 1935`, `விடுதலை`, `உலகின் ஒரே பகுத்தறிவு நாளேடு`, and `www.viduthalai.in`
+- scan 83 is the physical back cover; it contains colour artwork, a promotional excerpt associated with Article 12 / printed p.70, barcode `9997720145467`, and `நன்கொடை: ரூ.50/-`
+- the scan-83 promotional witness visibly differs in small ways from the Article 12 body-page witness, including `எந்தப் பெண்ணாவது, தனது` and `அறி குறி?`; these remain isolated to the back-cover record rather than being silently reconciled
+
 ### Earlier source traps still in force
 
 - Article 1: preserve `சாபவிமோசனம் பெறதும்`, `அம்சுமான்`, and other source-visible historical forms.
@@ -90,14 +110,24 @@ Articles **1–13 are source-complete for this supplied edition**. Scan **79** d
 
 - Library stamps and handwriting on front matter remain recorded separately from printed text.
 - No large physical-copy mark crosses Articles 1–13 body text.
+- Scan 82 contains a large purple circular library stamp crossing the header and part of Article 14's final text area; the underlying print remains legible and the stamp is documented separately rather than transcribed as article text.
+- Scan 82 also contains handwritten `A0482`, `B 294.5922` and a partly unclear Tamil note after the article-ending ornament.
 - Light reverse-side bleed-through occurs across article scans and below some article-ending ornaments. It has not been treated as body text or used to reconstruct wording.
 
 ## No-silent-correction rule
 
 `VERIFIED` means the Markdown reading was checked against this scan. It does **not** certify historical or factual correctness. Later editions, remembered wording, grammatical preference, normalized Tamil, or external Ramayana texts must not silently replace this source layer.
 
-## Next audit unit
+## Publication-level completion review
 
-Proceed to Article 14 — **காரியமாகும் வரையில் காலை பிடி!**, beginning scan **79** / printed page **77**.
+- physical scans: **83 / 83 VERIFIED and classified**
+- article boundaries: **14 / 14 directly verified**
+- article assemblies: **14 / 14 complete**
+- blocked article pages: **0**
+- needs-review article pages: **0**
+- unclassified source pages: **0**
+- source PDF committed to repository: **No**
 
-This is the final article listed in the printed contents. Its end must be established by direct inspection of the remaining source scans, including any post-text/back-matter pages, rather than by assuming the article runs to the end of the PDF.
+See [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
+
+**Result: the Tamil source layer for this supplied edition is source-complete.**
