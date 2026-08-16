@@ -36,11 +36,13 @@ The immediate translation source is the strict-reviewed Tamil article assembly i
 | 11 | நடப்பதெல்லாம் நாராயணன் செயலா? | **verified — T0–T5** |
 | 12 | மாரீசனைத் துரத்திச் சென்ற ராமனிடம் | **verified — T0–T5** |
 | 13 | துரோகிகள் சந்திப்பு! | **verified — T0–T5** |
-| 14 | காரியமாகும் வரையில் காலைப் பிடி ! | not-started |
+| 14 | காரியமாகும் வரையில் காலைப் பிடி ! | **verified — T0–T5** |
 
 ## Work unit — one article at a time
 
 For each article: fetch the current Tamil assembly and record its blob SHA; read the whole article before choosing the English title; complete T1 draft; run T2 bilingual fidelity, T3 Kalaignar voice and T4 terminology/source audit; record decisions in `LEXICON.md` and `TRANSLATION_REVIEW.md`; mark T5 verified only after all gates pass; update the single root `HANDOVER.md` before ending.
+
+All 14 article-level work units are now complete. The publication must still pass E6 before English release closeout.
 
 ## Publication-wide baseline
 
@@ -51,21 +53,21 @@ For each article: fetch the current Tamil assembly and record its blob SHA; read
 - Preserve meaningful source punctuation anomalies with notes instead of repairing them.
 - Embedded verse is translated only from the supplied Tamil witness plus Kalaignar's own explanation unless the user explicitly authorises an external translation.
 
-## Baseline accumulated through Article 13
+## Baseline accumulated through Article 14
 
-Articles 1–12 establish all prior terminology and non-regression decisions recorded in the lexicon and review ledger.
+Articles 1–13 establish all prior terminology and non-regression decisions recorded in the lexicon and review ledger.
 
-Article 13 establishes:
+Article 14 establishes:
 
-- title `துரோகிகள் சந்திப்பு!` → **Traitors Meet!**;
-- Tamil SHA `369c3f4e5030c5810e815d13692372ae73849837`; scans **74–78 / printed pp.72–76**;
-- opening `மாறடித்து ஒப்பாரி வைத்தான்` → **beat his chest and wailed an oppari**, retaining both physical and cultural force;
-- `அரக்கன்` → **demon**, `அசுரன்` → **asura**; source-bearing **Vanara / vimana / yojana** retained rather than over-explained;
-- Rama/Sugriva alliance remains framed as the meeting of a man who **conspired** against Bharata's kingdom-right and a man accused of plotting to deceive Vali and seize the kingdom;
-- strict-reviewed `துராசைப் பட்டுக்` remains unchanged in Tamil and is translated contextually as **driven by greed**;
-- subheading `இது ஆச்சாரியார் தீட்டியுள்ள கதை!` → **This Is the Story Achariyar Has Drawn Up!**;
-- source-irregular quotation openings across scans 75–76 and scan-78 final `(6.3.1955 - ‘கல்கி)` missing closing single quote are documented rather than silently repaired in the Tamil layer;
-- scan-78 hearsay repetition remains **they say ... they say**, `மழுப்புகிறார்` → **Here Achariyar dodges**, and the final **Why? Why, Achariyar; why?** remains direct.
+- title `காரியமாகும் வரையில் காலைப் பிடி !` → **Hold Their Feet Until Your Purpose Is Achieved!**;
+- Tamil SHA `e97314ada6b52c671742bb1526ed70acd1a26411`; scans **79–82 / printed pp.77–80**;
+- contents witness `காரியமாகும் வரையில் காலைப் பிடி!` and heading witness `காரியமாகும் வரையில் காலைப் பிடி !` remain separate; a stale audit-note description of the heading was corrected without changing printed Tamil;
+- `பூஜனைப்பித்தர்கள்` → **worship-mad people**;
+- `அந்தப்புர போகம்` → **sensual pleasures of the inner palace**; strict `சவுந்தாயமும்` → source-bearing **saundhayam**; `கிராமிய சுகம்` → **rustic pleasure**;
+- `கயவன்` → **scoundrel**, `நன்றிகெட்ட கயவன்` → **ungrateful scoundrel**, and `சிருங்கார போகம்` → **sensual pleasure**;
+- Rama's threat against Sugriva, Lakshmana-as-storm image, Tara-beauty sarcasm, and **Aryans will do anything—say anything—so that their purpose may be achieved!** remain direct;
+- strict scan-82 `வர்ணிக்கிறான்`, **Sons of Chakravarthi**, and **hold the feet of scoundrels** preserve the title/final rhetorical closure;
+- scan 82's lower *Viduthalai* advertisement and scan 83 are outside Article 14 body.
 
 ## Phase sequence
 
@@ -73,19 +75,20 @@ Article 13 establishes:
 - **E1 Article 1 calibration:** COMPLETE
 - **E2 Articles 2–4:** COMPLETE
 - **E3 Articles 5–8:** COMPLETE
-- **E4 Articles 9–11:** **COMPLETE**
-- **E5 Articles 12–14:** **ACTIVE — Articles 12–13 complete; Article 14 next**
-- **E6 publication consistency review:** pending
+- **E4 Articles 9–11:** COMPLETE
+- **E5 Articles 12–14:** **COMPLETE**
+- **E6 publication consistency review:** **NEXT / NOT STARTED**
 - **E7 English release closeout:** pending
 
 ## Current progress
 
-- English article drafts: **13 / 14**
-- English articles T5 verified: **13 / 14**
+- English article drafts: **14 / 14**
+- English articles T5 verified: **14 / 14**
 - final cross-article review: **not started**
+- English release gate: **OPEN**
 
 ## Exact next translation activity
 
-Proceed with **Article 14 — `காரியமாகும் வரையில் காலைப் பிடி !`**. Fetch and read its complete current strict-reviewed Tamil assembly, record the fresh blob SHA as T0, preserve the known contents/heading title-witness distinction, choose the English title only after reading the full argument, complete T1–T5, then update the lexicon, review ledger, tracker, READMEs and root `HANDOVER.md`.
+Begin **E6 — publication-level cross-article consistency review**. Re-read and compare all 14 verified English translations against the living lexicon, review ledger and source-specific non-regression notes. Check recurring names and epithets, ideological vocabulary, title style, quotations/citations, source-label changes, source-bearing transliterations, page comments, tone, rhetorical repetition and all documented source-witness anomalies. Correct only translation-level inconsistencies that are actually supported by the frozen Tamil source.
 
-After Article 14 is individually verified, begin **E6 — publication-level cross-article consistency review**. Do not declare the English translation complete until E6 passes.
+Do **not** declare the English translation complete until E6 passes. After E6, proceed to **E7 — English release closeout**.
