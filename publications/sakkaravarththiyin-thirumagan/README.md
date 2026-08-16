@@ -30,7 +30,7 @@ See [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
 
 A second, stricter review is being run in physical scan order. It reopens every page and checks each readable printed word, spacing-sensitive form, punctuation mark, quotation mark, number/date, heading and continuation directly against the scan.
 
-Current progress: **16 / 83 scans complete**.
+Current progress: **24 / 83 scans complete**.
 
 ### Batch 1 — scans 1–8
 
@@ -45,16 +45,25 @@ Current progress: **16 / 83 scans complete**.
 - scans 11–12: **CORRECTED (revalidated)** — source spacing `கல் சாசனமோ`
 - scans 13–16: **FIDELITY-PASS**
 - Article 1 assembly was rechecked against the corrected page layer
-- scan 16 / Article 2 opening was rechecked against its assembly, including source-visible `(ஆகஸ்டு 154)`
+
+### Batch 3 — scans 17–24
+
+- scans **17–21** — remainder of Article 2: **5 / 5 FIDELITY-PASS**
+- scans **22–24** — Article 3 opening: **3 / 3 FIDELITY-PASS**
+- Article 2 assembly, scans **16–21**, is now fully strict-rechecked and agrees with the page layer
+- Article 3 assembly content for scans **22–24** agrees; scan 25 remains for the next batch
+- no new transcription discrepancy was found in scans 17–24
+- source anomalies such as the unclosed quotation on scan 18, unclosed quotation on scan 20, and unmatched closing quotation at the end of scan 24 remain unrepaired
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Next strict-review batch
 
-Proceed with **scans 17–24**:
+Proceed with **scans 25–32**:
 
-- scans 17–21 — remainder of Article 2 `தேகமும் உணர்வும்`
-- scans 22–24 — opening three pages of Article 3 `சதி நிரூபிக்கப்படுகிறது`
+- scan 25 — Article 3 conclusion
+- scans 26–29 — Article 4 `காமராஜன் ஆட்கொண்ட தசரதராஜன்!`
+- scans 30–32 — opening three pages of Article 5
 
 The publication remains **source-complete**, but the strict visual-text-fidelity gate remains **open** until scan 83 and all assemblies have been rechecked.
 
