@@ -22,8 +22,8 @@ The user then explicitly chose **`Achariyar` instead of `Acharya`**. After confi
 
 Therefore:
 
-- Articles 1–5 now use **`Achariyar`** throughout.
-- Articles 6–14 must use **`Achariyar`** wherever the Tamil source uses `ஆச்சாரியார்`, unless the source itself changes label.
+- Articles 1–6 now use **`Achariyar`** throughout.
+- Articles 7–14 must use **`Achariyar`** wherever the Tamil source uses `ஆச்சாரியார்`, unless the source itself changes label.
 - Do not mechanically substitute `Rajaji` or `C. Rajagopalachari` inside Kalaignar's body text; use the identity only in translator/editorial identification notes.
 
 ## Established lexicon
@@ -43,7 +43,7 @@ Therefore:
 | `அஸ்வமேதயாகம்` / `அசுவமேத யாகம்` | `Ashvamedha sacrifice` | Conventional epic form; preserve source reference to sacrifice. | Article 1 | `established` |
 | `தேவபாயசம்` | `divine payasam` | Retain `payasam` rather than replacing the cultural food term with `pudding`. | Article 1 | `established` |
 | `கற்பு` | `chastity` | Source-era moral vocabulary; preserve even where modern English may find the framing harsh. | Article 1 | `established` |
-| `சப்பைக்கட்டு` | `splint` / `fasten a splint` | Preserve Kalaignar's physical image when he says sagging Aryanism is being splinted/propped up; do not reduce to abstract `excuse`. | Article 1 | `contextual image established` |
+| `சப்பைக்கட்டு` | `splint` / `fasten a splint` | Preserve Kalaignar's physical image when he says sagging Aryanism or the old order is being splinted/propped up; do not reduce to abstract `excuse`. | Article 1; reused Article 6 | `contextual image established` |
 | `கல்கி` | `Kalki` | Periodical title; italicise in English prose. | Article 1 | `established` |
 | `முரசொலி` | `Murasoli` | Publication title; italicise in English prose. | Article 1 | `established` |
 | `படியுங்கள்!` | `Read!` | Keep as a direct command. | Article 1 | `established` |
@@ -86,6 +86,17 @@ Therefore:
 | `போதையாக` | `intoxicating` | `ஒவ்வொரு எழுத்தும் போதையாக இருக்கும்` → `every letter would be intoxicating`; retain the intoxication metaphor. | Article 5 | `contextual image established` |
 | `வேதியப் பெருங்கிழவர்` | `grand old Vedic man` | Age-marked sarcastic epithet for Achariyar; do not politely erase `கிழவர்`. | Article 5 | `contextual epithet` |
 | `ஆஸ்ரமத்து போக்கியதை` | `the indulgence in the ashram` | Preserve the polemical charge of sensual/luxurious enjoyment in an ascetic setting. | Article 5 | `contextual` |
+| `காட்டேகுதல்` / `வனவாசம்` | `go to the forest` / `forest exile` | Article 6 title uses the direct `go to the forest`; legal/fated condition passages use `forest exile`. | Article 6 | `contextual distinction established` |
+| `மூலி அலங்காரி` | `Mooli-Alangari` | Source-specific disparaging expression is not explained in the article; retain it rather than inventing an English identification. | Article 6 | `source-bearing transliteration` |
+| `பிராமணவம்பர்` | `Brahmin Vambar` | Preserve Kalaignar's immediate `கம்பர்` / `வம்பர்` sound-play. Do not replace with a neutral descriptive insult in the body. | Article 6 | `wordplay established` |
+| `பலிபீடம்` | `sacrificial altar` | In `கிழவனின் பலிபீடம்`, preserves Kalaignar's image of Kaikeyi placing her youth on an old man's altar. | Article 6 | `contextual image established` |
+| `வனவாசப் பிராப்தி` | `destined for forest exile` | Sita's quoted horoscope language; retain the fate/destiny force. | Article 6 | `contextual` |
+| `ஜாதக விசேஷம்` | `special feature of the horoscope` | Used sarcastically when Kalaignar asks whether Sita's horoscope, rather than Kaikeyi, caused Rama's exile. | Article 6 | `contextual` |
+| `விதியின் வலிமை` | `power of fate` | Keep the source's causal alternative in the rapid question sequence. | Article 6 | `established` |
+| `மூதேவி` | `Moodevi` | Preserve the source name rather than silently replacing it with an explanatory modern gloss. | Article 6 | `source-bearing transliteration` |
+| `ஆரியக்காவல் படைகள்` | `Aryan guard forces` | Preserve the polemical military metaphor used for supportive publications such as `சுதேசமித்திரன்`. | Article 6 | `contextual image established` |
+| `வக்காலத்து வாங்கி` | `take up the brief` | Preserve the legal-advocacy metaphor in `வக்காலத்து வாங்கி வாழ்த்துப்பாட`. | Article 6 | `contextual image established` |
+| `காலால் நடந்து` | `walk on their feet` | Preserve the apparently redundant wording because Kalaignar's entire closing ridicule turns on repeating **on their feet**. | Article 6 | `rhetorical wording established` |
 
 ## Article 1 contextual decisions
 
@@ -140,6 +151,21 @@ Therefore:
 - The source-visible standalone `— ஆச்சாரியார்.` at the scan-36 boundary is retained as **`—Achariyar.`** rather than omitted.
 - The second Kambar verse is translated closely using Kalaignar's own prose gloss: soft beds, ankleted red-dyed feet, poison-like eyes, divine maidens lying close, and the young men sleeping.
 - `வேதியப் பெருங்கிழவர்` remains **grand old Vedic man**, preserving age-marked ridicule; the ending retains **sweet / bitter** taste imagery and **lord of the Brahmin clan** for `பார்ப்பன குலமகிபர்`.
+
+## Article 6 contextual decisions
+
+- Title `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?` → **`Why Did Rama Go to the Forest? A Rishi's Curse? Kaikeyi's Anger?`**. The direct question form is retained rather than converted into a neutral explanatory title.
+- `ஆச்சாரியார்` → **Achariyar** throughout.
+- `மூலி அலங்காரி` is retained as **Mooli-Alangari** because the article itself does not explain the reference; no external identity is invented.
+- `வால்மீகியோ? ... கம்பரோ? ... இந்த பிராமணவம்பரோ?` retains the sound-play as **`Valmiki? Or Kambar? Or this Brahmin Vambar?`**.
+- `சூழ்ச்சி` remains **plot** and `சதி` remains **conspiracy**, preserving the established distinction.
+- Kaikeyi's youth remains physically sacrificial: **`place the very bloom of her youth upon the old man's sacrificial altar`**.
+- The `அயோத்தி பரதனுக்கு - ஆரண்யம் ராமனுக்கு` command remains clipped as **`Ayodhya for Bharata—the forest for Rama.`**
+- Sita's `வனவாசப் பிராப்தி` is **`destined for forest exile`**; Kalaignar's causal sequence remains **Sita's horoscope / rishi's curse / Kaikeyi's anger / power of fate**.
+- The source mixed quotation marks around the Moodevi phrase are explicitly documented rather than silently treated as regular source punctuation.
+- `பழமைக்கு சப்பைக் கட்டு போடும்` reuses the established physical **splint** image: **`fastening a splint onto the old order`**.
+- The closing ridicule depends on preserving `காலால் நடந்து`: **`walk on their feet`**, followed by **`On their feet!`** rather than smoothing away the apparent redundancy.
+- `ஆரியக்காவல் படைகள்` → **Aryan guard forces**; `வக்காலத்து வாங்கி` → **take up the brief**; the final colloquial cadence remains **`this is the genius's literature, ayya, literature!`**.
 
 ## Terms still to refine in later articles
 
