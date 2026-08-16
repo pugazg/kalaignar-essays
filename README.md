@@ -38,8 +38,8 @@
 
 Current English status:
 
-- drafts complete: **4 / 14**
-- translations verified through T0–T5: **4 / 14**
+- drafts complete: **5 / 14**
+- translations verified through T0–T5: **5 / 14**
 - final cross-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -49,10 +49,13 @@ Verified translations so far:
 2. **`தேகமும் உணர்வும்` → `Body and Feeling`**
 3. **`சதி நிரூபிக்கப்படுகிறது` → `The Conspiracy Is Proven`**
 4. **`காமராஜன் ஆட்கொண்ட தசரதராஜன்!` → `Dasaratha Raja in the Grip of Kama-Raja!`**
+5. **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?` → `Bharadvaja's Ashram—or a Paris 'Bar'?`**
 
 Publication-wide, `ஆச்சாரியார்` refers to **C. Rajagopalachari (Rajaji)** and is rendered **`Achariyar`** in Kalaignar's English body text. The personal identity is supplied only in translator/editorial notes.
 
-Article 4 preserves the source's wordplay and ridicule rather than flattening it: **Kama-Raja** for `காமராஜன்`, explicitly age-marked `கிழவர்` rhetoric, **sensual pleasure / physical urge / lustful infatuation**, the `அப்பாவி` / `அப்-பாவி` **innocent / “Ah—sinner!”** pun with translator note, and the closing **Kama-Raja / old Raja** verbal play.
+Article 4 preserves **Kama-Raja / Raja**, age-marked ridicule, sexualised vocabulary, and the `அப்பாவி` / `அப்-பாவி` pun rather than flattening them.
+
+Article 5 preserves the heading/contents witness distinction, the **Paris 'Bar'** title wordplay, the opening/closing refrain, both Kambar passages translated only from the supplied Tamil plus Kalaignar's own glosses, the scan-33 unmatched quotation, the scan-36 standalone `—Achariyar.`, the feast satire and the sweet/bitter ending.
 
 English files:
 
@@ -60,13 +63,14 @@ English files:
 - [`publications/sakkaravarththiyin-thirumagan/translations/en/02-thegamum-unarvum.md`](publications/sakkaravarththiyin-thirumagan/translations/en/02-thegamum-unarvum.md)
 - [`publications/sakkaravarththiyin-thirumagan/translations/en/03-sathi-nirupikkappadugirathu.md`](publications/sakkaravarththiyin-thirumagan/translations/en/03-sathi-nirupikkappadugirathu.md)
 - [`publications/sakkaravarththiyin-thirumagan/translations/en/04-kamarajan-aadkonda-dasaratharajan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/04-kamarajan-aadkonda-dasaratharajan.md)
+- [`publications/sakkaravarththiyin-thirumagan/translations/en/05-paraththuvaja-aasramama-paris-nagarathu-para.md`](publications/sakkaravarththiyin-thirumagan/translations/en/05-paraththuvaja-aasramama-paris-nagarathu-para.md)
 
 Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
 English tracker: [`publications/sakkaravarththiyin-thirumagan/translations/en/README.md`](publications/sakkaravarththiyin-thirumagan/translations/en/README.md)  
 Living lexicon: [`publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md`](publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md)  
 Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
 
-**Exact next translation activity: Article 5 — `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`.** Its source has a known contents/heading witness distinction, so the English title must be chosen only after reading the complete article and without silently normalising the Tamil witnesses.
+**Exact next translation activity: Article 6 — `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`.** Read the complete strict-reviewed Tamil assembly before finalising its English title, then complete T0–T5 before Article 7.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
