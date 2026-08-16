@@ -18,7 +18,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 The user explicitly established that **`ஆச்சாரியார்` in this publication refers to C. Rajagopalachari, alias Rajaji**.
 
-Article 1 T3 voice review has now frozen the recurring English body form as **`Acharya`**. The personal identity belongs in translator/editorial metadata or notes, not as a mechanical replacement for Kalaignar's chosen label.
+Article 1 T3 voice review froze the recurring English body form as **`Acharya`**. The personal identity belongs in translator/editorial metadata or notes, not as a mechanical replacement for Kalaignar's chosen label.
 
 ## Established lexicon
 
@@ -43,6 +43,19 @@ Article 1 T3 voice review has now frozen the recurring English body form as **`A
 | `படியுங்கள்!` | `Read!` | Keep as a direct command. | Article 1 | `established` |
 | `பாருங்கள்!` / `கவனியுங்கள்!` | `Look!` / `Look closely!` | Preserve reader-facing imperative force; choose according to immediate verb. | Article 1 | `established` |
 | `அறிவின்மை` | `ignorance` | Preserve repetitions such as `Ignorance, comrades, ignorance!`. | Article 1 | `established` |
+| `தேகம்` | `body` | Article 2 title/argument repeatedly contrasts the avatar's `body` with its `feeling`. | Article 2 | `established` |
+| `உணர்வு` | `feeling` / `feelings` | Use singular when paired conceptually with `தேகம்`; plural where the Tamil refers to human feelings in general. | Article 2 | `established` |
+| `ஊனுடல்` | `body of flesh` / `bodies of flesh` | Preserve the corporeal emphasis; do not flatten to generic `human experience`. | Article 2 | `established` |
+| `கோபதாபம்` / `கோப தாபங்கள்` | `anger and passion` | Article 2 itself tests `தாபம்` against Rama/Sita's married life, so `passion` retains the bodily/sexual undertone better than neutral `distress`. | Article 2 | `established` |
+| `பகவான்` | `Bhagavan` | Preserve the source religious title rather than mechanically substituting `God`, especially where Kalaignar repeats it polemically. | Article 2 | `established` |
+| `ஈஸ்வரி` | `Ishvari` | Preserve the paired source title with `Bhagavan`. | Article 2 | `established` |
+| `பிராமணஜோதி` | `Brahmin luminary` | Polemical epithet used of Acharya; do not soften to a neutral description. | Article 2 | `contextual epithet established` |
+| `பார்ப்பனகுல மகிபர்` | `lord of the Brahmin clan` | Retain the caste-polemical and mock-elevated force. | Article 2 | `contextual epithet established` |
+| `வேதியப் பெருந்தகையார்` | `great Vedic worthy` | Deliberately slightly elevated/ironic English to preserve Kalaignar's address. | Article 2 | `contextual epithet established` |
+| `பட்டாபிஷேகம்` | `coronation` | Use normal English institutional term while preserving the surrounding source rhetoric. | Article 2 | `established` |
+| `சூழ்ச்சி` | `plot` | Keep distinct from explicit `சதி` where both occur in the same argument. | Article 2 | `established` |
+| `சதி` | `conspiracy` | Stronger explicit conspiracy term; retain distinction from `சூழ்ச்சி` when the Tamil distinguishes them. | Article 2 | `established` |
+| `தையல் சீதை` | `Lady Sita` | Contextual rendering in Article 2's mocking rhetorical question; retains the marked address rather than dropping `தையல்`. | Article 2 | `contextual` |
 
 ## Article 1 contextual decisions
 
@@ -51,6 +64,16 @@ Article 1 T3 voice review has now frozen the recurring English body form as **`A
 - `கள்ள இன்பம்` is rendered **`illicit pleasure`** in Article 1.
 - `பலாத்காரத்தினால் கற்பிழந்த` is rendered **`whose chastity was lost through coercion`**, retaining the source's moral vocabulary without adding a narrower factual claim than the Tamil phrase itself requires.
 
+## Article 2 contextual decisions
+
+- Title `தேகமும் உணர்வும்` → **`Body and Feeling`**. The compact pairing is retained rather than expanded into a philosophical paraphrase.
+- Source-visible `(ஆகஸ்டு 154)` is translated as **`(August 154)`** and explicitly documented; the translation does not silently repair the date.
+- `மூன்றடி மண்` in the Vamana passage is rendered **`three paces of land`**, matching the immediate source contrast with measuring the world in `two strides` while preserving the body/measure argument.
+- The unmatched quotation openings on scans **18** and **20** are documented in English source comments rather than silently regularised.
+- `புரோகிதர் தலைவரின் பொருள் பொதிந்த பேச்சு` is rendered **`The meaning-laden words of the leader of the priests!`**, retaining the polemical referential framing.
+- `இனி` is repeatedly kept as **`now` / `from now on`** because Kalaignar's entire first-half argument turns on that temporal word.
+- `காற்றில் பறக்கவிட்டு` is retained idiomatically as **`thrown that promise to the winds`**.
+
 ## Terms still to refine in later articles
 
 Later articles may add or qualify:
@@ -58,5 +81,5 @@ Later articles may add or qualify:
 - `பகுத்தறிவு` and related rationalist vocabulary;
 - additional caste/social terminology;
 - further epithets for Rajaji and other historical actors;
-- recurring ritual/religious terms not yet encountered in Article 1;
+- recurring ritual/religious terms not yet encountered;
 - additional epic-name variants and intentionally different source forms.
