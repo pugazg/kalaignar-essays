@@ -14,8 +14,8 @@ The English layer must preserve his directness, rhetorical questions, repetition
 ## Current status
 
 - Tamil source/fidelity prerequisite: **PASSED**
-- English drafts complete: **1 / 14**
-- English translations verified: **1 / 14**
+- English drafts complete: **2 / 14**
+- English translations verified: **2 / 14**
 - publication-level English consistency review: **not started**
 - English release status: **OPEN**
 
@@ -24,7 +24,7 @@ The English layer must preserve his directness, rhetorical questions, repetition
 | # | Tamil article | English file | Status | Gates |
 |---:|---|---|---|---|
 | 1 | சக்கரவர்த்தியின் திருமகன் | [`01-sakkaravarththiyin-thirumagan.md`](01-sakkaravarththiyin-thirumagan.md) | **`verified`** | **T0–T5 passed** |
-| 2 | தேகமும் உணர்வும் | `02-thegamum-unarvum.md` | `not-started` | T0 pending |
+| 2 | தேகமும் உணர்வும் | [`02-thegamum-unarvum.md`](02-thegamum-unarvum.md) | **`verified`** | **T0–T5 passed** |
 | 3 | சதி நிரூபிக்கப்படுகிறது | `03-sathi-nirupikkappadugirathu.md` | `not-started` | T0 pending |
 | 4 | காமராஜன் ஆட்கொண்ட தசரதராஜன்! | `04-kamarajan-aadkonda-dasaratharajan.md` | `not-started` | T0 pending |
 | 5 | பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’? | `05-paraththuvaja-aasramama-paris-nagarathu-para.md` | `not-started` | T0 pending |
@@ -38,19 +38,29 @@ The English layer must preserve his directness, rhetorical questions, repetition
 | 13 | துரோகிகள் சந்திப்பு! | `13-thurogigal-santhippu.md` | `not-started` | T0 pending |
 | 14 | காரியமாகும் வரையில் காலைப் பிடி ! | `14-kaariyamaagum-varaiyil-kaalai-pidi.md` | `not-started` | T0 pending |
 
-## Article 1 calibration baseline
+## Established translation baseline after Articles 1–2
 
-Article 1 has passed the full translation review cycle and now establishes the first publication-wide English baseline:
+Article 1 established the core publication-wide voice and identity policy:
 
-- `ஆச்சாரியார்` → **Acharya**, with referent **C. Rajagopalachari (Rajaji)** identified outside Kalaignar's body text;
+- `ஆச்சாரியார்` → **Acharya**, with referent **C. Rajagopalachari (Rajaji)** identified outside Kalaignar's body;
 - `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where Kalaignar's Rajagopalachari/Chakravarthi wordplay is active;
-- title `சக்கரவர்த்தியின் திருமகன்` → **Chakravarthi's Son**;
 - `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**;
 - `ஆரியம்` → **Aryanism**;
 - `அரக்கர்` / `ராட்சசர்` / `தேவர்கள்` remain lexically distinct as **demons / Rakshasas / Devas**;
 - direct commands, rhetorical questions, repetitions, sarcasm and harsh formulations remain visible in English.
 
-See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) for the detailed decisions and correction provenance.
+Article 2 adds:
+
+- title `தேகமும் உணர்வும்` → **Body and Feeling**;
+- `தேகம்` / `உணர்வு` → **body / feeling**;
+- `ஊனுடல்` → **body of flesh**;
+- `கோபதாபம்` → **anger and passion**;
+- `பகவான்` / `ஈஸ்வரி` → **Bhagavan / Ishvari**;
+- `சூழ்ச்சி` / `சதி` → **plot / conspiracy** when the Tamil distinguishes them;
+- caste-polemical epithets such as `பிராமணஜோதி` and `பார்ப்பனகுல மகிபர்` remain visibly polemical in English;
+- source anomalies such as `August 154` and unmatched quotation openings remain documented rather than silently repaired.
+
+See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) for detailed provenance.
 
 ## Gate legend
 
@@ -68,4 +78,4 @@ See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.
 
 ## Exact next activity
 
-Translate and review **Article 2 — `தேகமும் உணர்வும்`** in full, applying the Article 1 voice/lexicon baseline but allowing documented contextual variants where Article 2 requires them.
+Translate and review **Article 3 — `சதி நிரூபிக்கப்படுகிறது`** in full. Do not begin Article 4 until Article 3 has passed T2 and T3.
