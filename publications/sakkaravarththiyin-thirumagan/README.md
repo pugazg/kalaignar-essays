@@ -42,14 +42,14 @@ Review ledger: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLA
 Current translation status:
 
 - Tamil translation prerequisite: **PASSED**
-- English drafts complete: **6 / 14**
-- English articles verified: **6 / 14**
+- English drafts complete: **7 / 14**
+- English articles verified: **7 / 14**
 - final 14-article consistency review: **not started**
 - English release gate: **OPEN**
 
 ### Publication-wide `ஆச்சாரியார்` decision
 
-The user has established that `ஆச்சாரியார்` refers to **C. Rajagopalachari (Rajaji)** and has chosen **`Achariyar`** as the English body transliteration. This is the publication-wide standard for Articles 1–14 whenever the Tamil source uses `ஆச்சாரியார்`. The personal name remains in translator/editorial identification notes rather than replacing Kalaignar's prose.
+The user has established that `ஆச்சாரியார்` refers to **C. Rajagopalachari (Rajaji)** and has chosen **`Achariyar`** as the English body transliteration. This is the publication-wide standard whenever the Tamil source uses `ஆச்சாரியார்`. If Kalaignar himself uses another source label, preserve it; Article 7 explicitly uses `இராஜாஜி`, which therefore remains **Rajaji** in English rather than being harmonised to Achariyar.
 
 ### Verified English translations
 
@@ -59,27 +59,26 @@ The user has established that `ஆச்சாரியார்` refers to **C.
 4. **`காமராஜன் ஆட்கொண்ட தசரதராஜன்!` → `Dasaratha Raja in the Grip of Kama-Raja!`**
 5. **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?` → `Bharadvaja's Ashram—or a Paris 'Bar'?`**
 6. **`இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?` → `Why Did Rama Go to the Forest? A Rishi's Curse? Kaikeyi's Anger?`**
+7. **`விபீஷணருக்கு விடை யளிப்போம்!` → `Let Us Answer Vibhishana!`**
 
-Article 6 Tamil source blob SHA: **`07ae8741f3b06fa9208a6478ebabea87d53a93f5`**  
-English file: [`translations/en/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md`](translations/en/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md)
+Article 7 Tamil source blob SHA: **`1ae5db95c88df7ccdbd74b180c4427f8ee81d022`**  
+English file: [`translations/en/07-vibishanarukku-vidai-yalippom.md`](translations/en/07-vibishanarukku-vidai-yalippom.md)
 
-Article 6 passed **T0–T5**. Important decisions:
+Article 7 passed **T0–T5**. Important decisions:
 
-- `ஆச்சாரியார்` remains **Achariyar**;
-- title keeps the rapid causal structure rather than becoming an explanatory summary;
-- `மூலி அலங்காரி` → **Mooli-Alangari** and `பிராமணவம்பர்` → **Brahmin Vambar**, retained as source-bearing forms because the article does not supply an external identification and because the latter preserves Kambar/Vambar wordplay;
-- `சூழ்ச்சி` / `சதி` remain **plot / conspiracy**;
-- Kaikeyi's youth remains on the **old man's sacrificial altar** rather than being abstracted;
-- Sita's horoscope / rishi's curse / Kaikeyi's anger / power-of-fate sequence remains intact;
-- the mixed source quotation marks around the Moodevi phrase are documented;
-- `பழமைக்கு சப்பைக் கட்டு போடும்` retains the physical **splint** image;
-- the closing **walk on their feet / On their feet!** ridicule, **Aryan guard forces**, **take up the brief**, and final **ayya, literature!** cadence remain visible.
+- `விபீஷணர்` / `விபீஷணத் தன்மை` / `விபீஷணக் கொள்கை` remain **Vibhishana / Vibhishana-ness / Vibhishana doctrine** instead of being flattened to generic `traitor` language;
+- `சிவஞானம்` / mocking plural `சிவஞானங்கள்` remain **Sivagnanam / Sivagnanams**, without external biographical expansion;
+- explicit source `இராஜாஜி` remains **Rajaji**, while `ஆச்சாரியார்` remains **Achariyar**;
+- `முப்புரி` is retained as **muppuri, the three-stranded sacred thread**; unexplained `தண்ட கண்ட`, `இனித்தவாயன்`, and `ஆர்குஸிஸ்` remain source-bearing **thanda-kanda / Inithavayan / Argusis**;
+- `வாலேந்திகள்` → **tail-bearers**, `ஏகபத்தினி விரதம்` → **vow of one wife**, `நிறவெறிப் பேயாட்டம்` → **demonic frenzy of colour-hatred**;
+- the fox/heron/deer/fish analogy, the guru/disciple contradiction, the Vishnu/Krishna question chain, **Alas! Alas! Shame! Shame!**, the Tamil-wax image, **carrying kavadi for the North**, and final **Time alone must give the answer!** remain direct;
+- the source-visible scan-48 wording `கற்பு நிலையைப் பாதிக்கும்` is explicitly documented rather than silently normalised.
 
 Detailed T2–T4 provenance is in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
 
 ## Exact next activity
 
-Proceed with complete translation and review of **Article 7 — `விபீஷணருக்கு விடை யளிப்போம்!`**. Read its whole strict-reviewed Tamil assembly before finalising the English title, then complete T0–T5 before Article 8 begins.
+Proceed with complete translation and review of **Article 8 — `நாடாண்ட மன்னன் நாதியற்று செத்தான்`**. Read its whole strict-reviewed Tamil assembly before finalising the English title, then complete T0–T5 before Article 9 begins.
 
 ## Files
 
