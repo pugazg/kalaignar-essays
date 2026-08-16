@@ -18,7 +18,7 @@ A second, stricter word-by-word / punctuation-by-punctuation review is in progre
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-Current progress: **40 / 83 scans strict-reviewed**.
+Current progress: **48 / 83 scans strict-reviewed**.
 
 | Scope | Source-layer status | Strict fidelity status |
 |---|---|---|
@@ -27,8 +27,9 @@ Current progress: **40 / 83 scans strict-reviewed**.
 | Scans 17–24 | VERIFIED | **8 / 8 COMPLETE** |
 | Scans 25–32 | VERIFIED | **8 / 8 COMPLETE** |
 | Scans 33–40 | VERIFIED | **8 / 8 COMPLETE** |
-| Scans 41–48 | VERIFIED | **PENDING — next batch** |
-| Scans 49–83 | VERIFIED | PENDING |
+| Scans 41–48 | VERIFIED | **8 / 8 COMPLETE** |
+| Scans 49–56 | VERIFIED | **PENDING — next batch** |
+| Scans 57–83 | VERIFIED | PENDING |
 
 The publication is source-complete, but strict visual-text-fidelity review is not yet complete.
 
@@ -39,34 +40,27 @@ The publication is source-complete, but strict visual-text-fidelity review is no
 - scan 9: `பத்து மூர்த்த அவதாரங்களைப் போலவே` → `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`
 - scan 9: `பொய்ப்படி` → `எப்படி பெய்ப்படி`
 - scans 11–12: `கல்சாசனமோ` → `கல் சாசனமோ`
+- scans 33–36: earlier source-layer corrections revalidated, including `பரத்துவாஜ...`, `போடுகிறவன் போட்டாலும்`, `சீறிப் பாய்ந்தார்கள்`
 
-## Batch 3 — scans 17–24
+## Batch 6 — scans 41–48
 
-**8 / 8 FIDELITY-PASS; no new discrepancy.** Article 2 fully strict-rechecked.
+**8 / 8 COMPLETE. Three new strict-fidelity corrections were found and propagated.**
 
-## Batch 4 — scans 25–32
+- scan 41 — **CORRECTED:** source mixed quotation is `‘மூதேவி அடி எடுத்து வைத்த நேரம் அப்படி!”`; earlier Markdown normalized the closing mark. `என்பதாகுவது`, `பிராப்த விஷயத்தை`, `புத்திரப்பிரிவு`, and `நாணயமாகாது` agree.
+- scan 42 — **CORRECTED:** `சாயைக் கட்டு போடும்` → source-visible **`சப்பைக் கட்டு போடும்`**. `அனுமாருக்குத்தான்`, `அந்தப்பாவி`, `ஆரியக்காவல்`, `இலக்கியமய்யா இலக்கியம்` and the article-ending ornament agree.
+- scan 43 — **FIDELITY-PASS:** Article 7 heading/opening and `முப்புரியை உருவிப் புறப்பட்ட`, `சூதின் உருவம்`, `தண்ட கண்ட கடவுள் கொள்கை` agree.
+- scan 44 — **CORRECTED:** source spacing is **`தன் இனம்,தன் சமுதாயம்,அந்த சமுதாயத்தின்`**; earlier Markdown inserted spaces after the first two commas. Other unusual forms including `எச்சரிக்கையாகயிருந்து`, `நேரமிது வென்போம்`, `கபோதிகளாக்கி`, `நாடொறுமேனியும்`, `மான் மீதும் மற்றுகள்` agree.
+- scan 45 — **FIDELITY-PASS:** `விபீஷணப்பட்டத்தை`, `வாலேந்திகள்` and quotation forms agree.
+- scan 46 — **FIDELITY-PASS:** `விண்ணுறையும்`, `அறுபதினாயிரம்`, `வற்புறுத்தப்பட்டதேயன்றி`, `கற்புக்கேடு காட்டிலே`; source-visible unclosed quotation after `ராமாயணம்.` remains unrepaired.
+- scan 47 — **FIDELITY-PASS:** `இனித்தவாயனும்`, `விஷ்ணு அவதார மென்றீர்கள்`, `கற்பு சம்மாக்கப்பட்டு`, `அய்வருக்கும்` agree.
+- scan 48 — **FIDELITY-PASS:** `சாப விமோசனம்`, `பொன்னான(?)`, `ஸ்ரீராமுலு`, `ஆர்குஸிஸ்`, and the distinct joined/spaced `நிறவெறி` forms agree.
 
-**8 / 8 FIDELITY-PASS; no new discrepancy.** Articles 3 and 4 fully strict-rechecked; Article 5 checked through scan 32.
+### Assembly state after Batch 6
 
-## Batch 5 — scans 33–40
-
-**8 / 8 COMPLETE; no new discrepancy found.** Four pages revalidated corrections already present from the earlier source audit.
-
-- scan 33 — **CORRECTED (revalidated):** source `பரத்துவாஜ` / `பரத்துவாஜர்`; `பரதன்மீது`, `மேதா விலாசத்துக்கு`, `ராமாயணந்தானாம்`; unclosed long quotation preserved
-- scan 34 — **CORRECTED (revalidated):** `பரத்துவாஜர்`, `போடுகிறவன் போட்டாலும்`, `36ஆவது`, `சாட்சாத்`, `ஆரியபவன்`
-- scan 35 — **CORRECTED (revalidated):** `பரத்துவாஜர்`, `ஸ்நானாதி`, `நிருத்தியம்`, `கொத்தவாலை`, `எல்லைமீறி`; unmatched closing quotation preserved
-- scan 36 — **CORRECTED (revalidated):** `சீறிப் பாய்ந்தார்கள்`, `பரத்துவாஜர்`, four-line Kamba verse, `அய்ந்துவகை`, `போக்கியதையைப்`, `தெரிவானேன்`
-- scan 37 — **FIDELITY-PASS:** closing Article 5 reprise and ornament agree, including its page-specific spacing/line breaks
-- scan 38 — **FIDELITY-PASS:** Article 6 heading, `அத்தகைய வாசகத்தை வீசுகிறாள்`, `சதிசெய்து`, `கோபங்கொண்டு`, `மூலி அலங்காரி`
-- scan 39 — **FIDELITY-PASS:** `எப்படிப்பேசியிருக்கவேண்டும் ?`, `பிராமணவம்பரோ`, `மகனைப்பாட்டன்`, `பாஸ்பவாரி பரிபூரண லோசனத்துடன்`; quotation continues to scan 40
-- scan 40 — **FIDELITY-PASS:** continuation, source-visible lack of closing quotation after `இதுவே.`, `கை கூப்பி`, `கிழராஜனையும்`, `இளமைத்தியாகத்தை`, `ராமபிரபு`, final `எனக்கு வாழ்வு -`
-
-### Assembly state after Batch 5
-
-- Article 5, scans **30–37**, is fully strict-rechecked and agrees with its assembly.
-- Article 5 assembly contains the revalidated `பரத்துவாஜ...`, `போடுகிறவன் போட்டாலும்`, and `சீறிப் பாய்ந்தார்கள்` corrections.
-- Article 6 scans **38–40** agree with its assembly; scans 41–42 remain pending before Article 6 strict closeout.
-- No new page or assembly edit was required in Batch 5.
+- Article 6, scans **38–42**, is fully strict-rechecked; the scan-41 punctuation and scan-42 `சப்பைக் கட்டு போடும்` corrections are propagated into its assembly.
+- Article 7 scans **43–48** agree with its assembly after the scan-44 spacing correction.
+- scan 49 remains pending before Article 7 strict closeout.
+- no unresolved `NEEDS-PIXEL-REVIEW` item remains in Batch 6.
 
 ## No-silent-correction rule
 
@@ -74,4 +68,4 @@ Later editions, web transcriptions, remembered wording, modern spelling, grammat
 
 ## Next strict-fidelity unit
 
-Proceed in physical scan order with **scans 41–48**: scans 41–42 conclude Article 6; scans 43–48 cover Article 7 through printed p.46.
+Proceed in physical scan order with **scans 49–56**: scan 49 concludes Article 7; scans 50–54 cover Article 8 `நாடாண்ட மன்னன் நாதியற்று செத்தான்`; scans 55–56 begin Article 9 `தந்தை மகனும் தருமம் தவறியவர்கள்!`.
