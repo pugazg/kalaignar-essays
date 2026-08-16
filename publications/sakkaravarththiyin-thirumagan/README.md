@@ -23,7 +23,7 @@
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).  
 Completion certificate: [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
 
-## English translation phase — ACTIVE / E6 NEXT
+## English translation phase — COMPLETE / E7 RELEASE CLOSEOUT NEXT
 
 Translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_GUIDE.md)  
 Plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)  
@@ -35,12 +35,14 @@ Current status:
 
 - English drafts complete: **14 / 14**
 - English articles T0–T5 verified: **14 / 14**
-- final 14-article consistency review: **not started — E6 next**
-- English release gate: **OPEN**
+- publication-level E6 consistency review: **PASSED**
+- unresolved translation questions: **0**
+- English translation: **COMPLETE**
+- English release gate: **OPEN pending E7 closeout**
 
 ### Publication-wide `ஆச்சாரியார்` rule
 
-The user established that `ஆச்சாரியார்` refers to **C. Rajagopalachari (Rajaji)** and chose **Achariyar** as the English body form. Preserve Kalaignar's own source-label switches: Article 7 explicit `இராஜாஜி` remains **Rajaji**. Preserve source plurals too: Article 11 `ஆச்சாரியார்களுக்கு` remains **the Achariyars**.
+The user established that `ஆச்சாரியார்` refers to **C. Rajagopalachari (Rajaji)** and chose **Achariyar** as the English body form. Preserve Kalaignar's source-label switches: Article 7 explicit `இராஜாஜி` remains **Rajaji**. Preserve source plurals too: Article 11 `ஆச்சாரியார்களுக்கு` remains **the Achariyars**.
 
 ### Verified English translations
 
@@ -59,21 +61,21 @@ The user established that `ஆச்சாரியார்` refers to **C. Raj
 13. `துரோகிகள் சந்திப்பு!` → **Traitors Meet!**
 14. `காரியமாகும் வரையில் காலைப் பிடி !` → **Hold Their Feet Until Your Purpose Is Achieved!**
 
-Article 14 Tamil SHA: `e97314ada6b52c671742bb1526ed70acd1a26411`  
-English: [`translations/en/14-kaariyamaagum-varaiyil-kaalai-pidi.md`](translations/en/14-kaariyamaagum-varaiyil-kaalai-pidi.md)
+## E6 consistency review result
 
-Article 14 passed **T0–T5**. Important non-regression points:
+**PASSED.** All 14 current English files were fetched fresh from `main` and reviewed together.
 
-- controlling span is scans **79–82 / printed pp.77–80**; scan 82's lower *Viduthalai* advertisement is not Article 14 body;
-- contents `காரியமாகும் வரையில் காலைப் பிடி!` and heading `காரியமாகும் வரையில் காலைப் பிடி !` remain distinct source witnesses;
-- **Hold Their Feet Until Your Purpose Is Achieved!** preserves the physical image returned to in the final **hold the feet of scoundrels** line;
-- **worship-mad people**, **sensual pleasures of the inner palace**, source-bearing **saundhayam**, **rustic pleasure**, **ungrateful scoundrel**, and **sensual pleasure** remain unsmoothed;
-- Rama's threat, Lakshmana-as-storm image, Tara-beauty sarcasm and **Aryans will do anything—say anything** remain direct;
-- scan-82 strict `வர்ணிக்கிறான்`, **Sons of Chakravarthi**, and the final Sugriva description remain preserved.
+The pass reconfirmed recurring names and epithets, ideological vocabulary, source-label switches, title/body rhetorical echoes, quotations and dates, page-boundary comments, source-bearing transliterations, and all documented source anomalies. No Article 1–14 translation-body edit was required.
+
+Apparent source-sensitive spelling differences were deliberately retained rather than normalised, including Article 6 **Kakapattar** versus Article 11 **Kaga Pattar**, and Article 2 **Ramachandramurti** versus Article 14 **Ramachandra Murti**, because the frozen Tamil witnesses themselves differ.
+
+Important non-regression boundaries remain unchanged: Article 12 scan 83 is only a promotional back-cover witness; Article 14 scan 82 ends the article before the separate *Viduthalai* advertisement.
+
+Full E6 provenance, including all 14 reviewed English blob SHAs, is recorded in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
 
 ## Exact next activity
 
-Begin **E6 — publication-level cross-article English consistency review** across all 14 T5-verified translations. Do not describe the publication as English-translation complete until E6 passes. After E6, proceed to E7 release closeout.
+Proceed with **E7 — English release closeout**. Verify release-facing repository state and links, create/update the required release-closeout record, and close the English release gate only if no release blocker remains.
 
 ## Source authority
 
