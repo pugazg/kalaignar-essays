@@ -2,7 +2,7 @@
 
 ## Current audit scope
 
-This audit now covers supplied scan pages **1–42** as archived source pages, plus direct inspection of scan **43** to confirm the next-article boundary.
+This audit now covers supplied scan pages **1–49** as archived source pages, plus direct inspection of scan **50** to confirm the next-article boundary.
 
 ## Page status
 
@@ -20,7 +20,8 @@ This audit now covers supplied scan pages **1–42** as archived source pages, p
 | Scans 26–29 — Article 4 `காமராஜன் ஆட்கொண்ட தசரதராஜன்!` | **4 / 4 VERIFIED** |
 | Scans 30–37 — Article 5 `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?` | **8 / 8 VERIFIED** |
 | Scans 38–42 — Article 6 `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?` | **5 / 5 VERIFIED** |
-| Scan 43 — Article 7 `விபீஷணருக்கு விடை யளிப்போம்!` heading/start boundary | VERIFIED boundary; transcription not started |
+| Scans 43–49 — Article 7 `விபீஷணருக்கு விடை யளிப்போம்!` | **7 / 7 VERIFIED** |
+| Scan 50 — Article 8 `நாடாண்ட மன்னன் நாதியற்று செத்தான்` heading/start boundary | VERIFIED boundary; transcription not started |
 
 ## Completion gates
 
@@ -99,9 +100,22 @@ This audit now covers supplied scan pages **1–42** as archived source pages, p
 - `blocked`: **0**
 - unresolved article-text locations: **0**
 - assembly: [`articles/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md`](articles/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md)
-- next boundary: scan 43 / printed p.41 directly begins **விபீஷணருக்கு விடை யளிப்போம்!**
+- next boundary: scan 43 / printed p.41 begins Article 7
 
-Article 6 is therefore **source-complete for this supplied edition**.
+**Source-complete.**
+
+### Article 7 — விபீஷணருக்கு விடை யளிப்போம்!
+
+- Source scans: **43–49**
+- Printed pages: **41–47**
+- Verified source pages: **7 / 7**
+- `needs-review`: **0**
+- `blocked`: **0**
+- unresolved article-text locations: **0**
+- assembly: [`articles/07-vibishanarukku-vidai-yalippom.md`](articles/07-vibishanarukku-vidai-yalippom.md)
+- next boundary: scan 50 / printed p.48 directly begins **நாடாண்ட மன்னன் நாதியற்று செத்தான்**
+
+Article 7 is therefore **source-complete for this supplied edition**.
 
 ## Direct visual checks worth preserving
 
@@ -158,29 +172,40 @@ Article 6 is therefore **source-complete for this supplied edition**.
 
 ### Article 6
 
-- scan 38 heading: **`இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`**
-- scan 38 enlarged inspection confirms **`அத்தகைய வாசகத்தை வீசுகிறாள்`**, not a normalized or anticipated variant
-- scan 38 retains **`சதிசெய்து`**, **`கோபங்கொண்டு`**, **`முன்னுக்குப்பின்`**, and **`மூலி அலங்காரி`**
-- scan 39 retains **`எப்படிப்பேசியிருக்கவேண்டும்`**, **`பிராமணவம்பரோ`**, **`மகனைப்பாட்டன்`**, **`உடன் பட்டாய்`**, **`இந்தச்சோகக்`**, and **`சுருக்கமாகக்குறிப்பிடுகிறார்`**
-- enlarged scan 39 supports **`பாஸ்பவாரி பரிபூரண லோசனத்துடன்`**; the quotation continues to scan 40 and no closing quote is visible after `இதுவே.`
-- scan 40 retains **`கை கூப்பி`**, **`கிழராஜனையும்`**, **`பலிபீடத்திலே`**, **`இளமைத்தியாகத்தை`**, **`களங்கம் காணக் கிடக்கிறது`**, and **`ராமபிரபு`**
-- scan 41 enlarged inspection confirms **`என்பதாகுவது`**; it also retains **`பிராப்தி`**, **`பிராப்த விஷயத்தை`**, **`புத்திரப்பிரிவு`**, **`நாணயமாகாது`**, and **`மணமகள்`**
-- scan 42 retains **`சாயைக் கட்டு போடும்`**, **`அனுமாருக்குத்தான்`**, **`அந்தப்பாவி`**, **`ஆரியக்காவல்`**, and **`இலக்கியமய்யா இலக்கியம்`**
-- scan 42 ends Article 6 with `இலக்கியமய்யா இலக்கியம்!` followed by the printed ornament
-- scan 43 / printed p.41 directly shows the next heading **`விபீஷணருக்கு விடை யளிப்போம்!`**
+- scan 38: `அத்தகைய வாசகத்தை வீசுகிறாள்`, `சதிசெய்து`, `கோபங்கொண்டு`, `முன்னுக்குப்பின்`, `மூலி அலங்காரி`
+- scan 39: `எப்படிப்பேசியிருக்கவேண்டும்`, `பிராமணவம்பரோ`, `மகனைப்பாட்டன்`, `உடன் பட்டாய்`, `இந்தச்சோகக்`, `சுருக்கமாகக்குறிப்பிடுகிறார்`
+- enlarged scan 39 confirms `பாஸ்பவாரி பரிபூரண லோசனத்துடன்`; the quotation continues to scan 40 and no source-visible closing quote appears after `இதுவே.`
+- scan 40: `கை கூப்பி`, `கிழராஜனையும்`, `பலிபீடத்திலே`, `இளமைத்தியாகத்தை`, `களங்கம் காணக் கிடக்கிறது`, `ராமபிரபு`
+- enlarged scan 41 confirms `என்பதாகுவது`; also retains `பிராப்தி`, `பிராப்த விஷயத்தை`, `புத்திரப்பிரிவு`, `நாணயமாகாது`, `மணமகள்`
+- scan 42: `சாயைக் கட்டு போடும்`, `அனுமாருக்குத்தான்`, `அந்தப்பாவி`, `ஆரியக்காவல்`, `இலக்கியமய்யா இலக்கியம்`
+- scan 42 ends with `இலக்கியமய்யா இலக்கியம்!` and the ornament
+
+### Article 7
+
+- scan 43 heading: **`விபீஷணருக்கு விடை யளிப்போம்!`**; drop-cap opening directly reads **`சமீபகாலமாக`**
+- scan 43 retains `முப்புரியை உருவிப் புறப்பட்ட`, `சூதின் உருவம்`, `தண்ட கண்ட கடவுள் கொள்கை`; its final sentence continues onto scan 44
+- scan 44 retains `எச்சரிக்கையாகயிருந்து`, `நேரமிது வென்போம்`, `கபோதிகளாக்கி`, `அக்கரை`, `நாடொறுமேனியும்`, and unusual `மான் மீதும் மற்றுகள்`
+- scan 44 separately quotes `“கார்ண பூஷணம்”`, `“பூணூல் தரிக்கும் புனித விழா”`, and `“கல்யாண வைபவம்”`
+- scan 45 retains `விபீஷணப்பட்டத்தை`, `தலையசைத்து`, `வாலேந்திகள்`, `சக்கரவர்த்தித்திருமகன்`, `அவதார புருஷனே`; source quotation forms around `கல்கி`, `ராமாவதாரத்தில்...`, and `அவதார` remain unreconciled
+- scan 46 retains `விண்ணுறையும்`, `அறுபதினாயிரம்`, `அங்கீகரிக்குமா?`, `வற்புறுத்தப்பட்டதேயன்றி`, `கற்புக்கேடு காட்டிலே`
+- scan 46's long quotation beginning `“அயோத்தி வேந்தன் தசரதன்...` has no source-visible closing quotation mark after `ராமாயணம்.`; no editorial closing mark was inserted
+- scan 47 retains unusual `இனித்தவாயனும்`, `விஷ்ணு அவதார மென்றீர்கள்`, `இப்படி யெல்லாம்`, `கற்பு சம்மாக்கப்பட்டு`, `அய்வருக்கும்`; the long question quotation closes source-visibly after `இருப்பானேன்?`
+- scan 48 retains `சாப விமோசனம்`, `பொன்னான(?)`, `வழிபடுதற்குரியவனாகிறான்`, `நிறவெறிப் பேயாட்டமே`, `ஸ்ரீராமுலு`, `ஆர்குஸிஸ்`; bold interjection `அந்தோ! அந்தோ! வெட்கம் வெட்கம்!` is preserved
+- scan 49 retains `ஞாபகத்தில்`, `மாண்புக்கோர்`, `தமிழ் மெழுகு`, `ஆசைப்பட்டாரில்லை`, `பாற்பட்ட கருத்து`, `இந்தக் கொள்கை என்று ஒழியுமோ?`
+- scan 49 ends Article 7 with `ராமபக்தர்கள் தெளிவு பெறுவது வெறுங்கனவு தானோ? காலந்தான் பதில் கூறவேண்டும்!` followed by the printed ornament
 
 ## Source / physical-copy distinction
 
 - Library stamps and handwriting on front matter remain recorded separately from printed text.
-- No large physical-copy mark crosses Articles 1–6 body text.
-- Reverse-side bleed-through occurs throughout these scans; it was not transcribed as article text.
+- No large physical-copy mark crosses Articles 1–7 body text.
+- Light reverse-side bleed-through is visible across article scans and is especially noticeable below some article-ending ornaments, but it has not been treated as body text or used to reconstruct wording.
 
 ## No-silent-correction rule
 
-`VERIFIED` means the Markdown reading was checked against this scan. It does not certify historical/factual correctness. Later editions, remembered wording, grammar expectations, normalized Tamil, or external Ramayana texts must not silently replace this source layer.
+This audit does not certify historical/factual correctness of quotations, names or claims. `VERIFIED` means the Markdown reading was checked against this scan. A later edition, a remembered quotation, or a grammatically preferable Tamil form must not silently replace this source layer.
 
 ## Next audit unit
 
-Proceed to Article 7 — **விபீஷணருக்கு விடை யளிப்போம்!**, beginning scan **43** / printed page **41**.
+Proceed to Article 8 — **நாடாண்ட மன்னன் நாதியற்று செத்தான்**, beginning scan **50** / printed page **48**.
 
-The printed contents places Article 8 at printed page **48**, which projects to scan **50** if the current +2 scan/page relation continues. That is only a navigation aid: directly inspect the Article 8 heading before declaring Article 7's end boundary.
+The printed contents places Article 9 — **தந்தை மகனும் தருமம் தவறியவர்கள்!** — at printed page **53**, which projects to scan **55** if the current +2 scan/page relation continues. That remains a navigation aid only: directly inspect the Article 9 heading before declaring Article 8's end boundary.
