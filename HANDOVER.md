@@ -51,13 +51,14 @@ Article 5 — heading-page form `பரத்துவாஜா ஆஸ்ரம�
 Article 6 — `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`: scans **38–42**, printed pp. **36–40**, **5 / 5 VERIFIED**, source-complete.  
 Article 7 — `விபீஷணருக்கு விடை யளிப்போம்!`: scans **43–49**, printed pp. **41–47**, **7 / 7 VERIFIED**, source-complete.  
 Article 8 — `நாடாண்ட மன்னன் நாதியற்று செத்தான்`: scans **50–54**, printed pp. **48–52**, **5 / 5 VERIFIED**, source-complete.  
-Article 9 — `தந்தை மகனும் தருமம் தவறியவர்கள்!`: scans **55–60**, printed pp. **53–58**, **6 / 6 VERIFIED**, blocked 0, needs-review 0, source-complete.
+Article 9 — `தந்தை மகனும் தருமம் தவறியவர்கள்!`: scans **55–60**, printed pp. **53–58**, **6 / 6 VERIFIED**, source-complete.  
+Article 10 — `விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!`: scans **61–64**, printed pp. **59–62**, **4 / 4 VERIFIED**, blocked 0, needs-review 0, source-complete.
 
-Article 9 assembly:
+Article 10 assembly:
 
-[`articles/09-thanthai-maganum-tharumam-thavariyavargal.md`](publications/sakkaravarththiyin-thirumagan/articles/09-thanthai-maganum-tharumam-thavariyavargal.md)
+[`articles/10-vishnu-avatharam-enbathum-ramanidam.md`](publications/sakkaravarththiyin-thirumagan/articles/10-vishnu-avatharam-enbathum-ramanidam.md)
 
-Scan **61** / printed p. **59** directly begins Article 10 — **`விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!`**.
+Scan **65** / printed p. **63** directly begins Article 11 — **`நடப்பதெல்லாம் நாராயணன் செயலா?`**.
 
 Detailed audit: [`publications/sakkaravarththiyin-thirumagan/audit.md`](publications/sakkaravarththiyin-thirumagan/audit.md).
 
@@ -65,15 +66,14 @@ Detailed audit: [`publications/sakkaravarththiyin-thirumagan/audit.md`](publicat
 
 Do not regress source-visible unusual readings or silently repair punctuation. The full accumulated list is maintained in `audit.md`.
 
-### Article 9
+### Article 10
 
-- scan 55: `சித்ரகூட`, `சிகப்புமாக`, `புஷ்பங்களைப்`, quoted `“கஷ்டப்பட்டுக்”`, `லட்சுமண அவதாரம்`, `மந்தாகினி`
-- scan 56: `யென்று`, `ஜலம்`, `கொழுந்தனார்`, unusual `அடுக்கனை வேலைகள்`, `இலட்சுமணன்`, source-visible `-அந்தக்`
-- scan 57: `ஜாம்பாலி`, `நாஸ்திகம்`, `தர்ம ராஜன்`, `ஆட்டு மந்தைபோலக்`, quoted `“கோவிந்தா”`, unusual `நாதிகமுள்ளவர்கள்`
-- scan 58: `சூட்சமம்`, `கூப்பிட்டிருப்பாளேயானால்`, `வந்தேயிருப்பான்`, `சதி நினைப்போடு`, quoted `“தான் தந்த நாடு”`
-- scan 59: `ராஜ்ய பரிபாலனம்`, `நந்திக் கிராமத்திலே`, `சமானம்`, `நேருவா`, `டில்லியிலே`, `கவர்னர் பிரகாசா`
-- scan 60: `அதிகாரபூர்வமான`, quoted `“புனிதமான”`, `நிருபிக்க`, `பக்த கோடிகள்`, `சதிகார ராமன்`, `தனிப் பிரியம்`, `ஜெயக்கொடி`
-- scan 60 ends with the printed ornament; lower reverse-side bleed-through is not body text
+- scan 61: `சக்கரவர்த்தித் திருமகன்`, source spacing `உணரவேண்டு மென்பதற்காகவும்`, `42லிருந்து`, `இரண்டொரு`, `பாதரட்சைகளைத்`, `கோஷ்டியினர்`, `இடையூறுமின்றி`
+- scan 62: `உயிர்வந்துவிடும்`, `சிரார்த்த போஜனம்`, `வயிறு புடைக்க`, `சாப்பிட்டானதும்`, `பிராமணின்`, `மேஷ மாமிசமாகப்`, `திரிகாலமுணரும்`, `வலுக்கட்டாயமாக`, `பாஷைப்படி`, `ஜீரணித்துக்கொண்டார்`
+- scan 63: `விஸ்வகர்மா`, `அம்புத் தூணியும்`, `மகாவிஷ்ணுவானவர்`, unmatched opening parenthesis before `முரண்பாட்டைக்`, `திரிகாலமுணரும் தேவரிஷி`, `44 ஆவது`, `சுய உருவத்துடன்`, `காம தாகத்தால்`
+- scan 64: `இரண்டாந்தாரமாகப்`, attached `-சீதையை`, `புருஷரத்தினங்கள்`, source spacing `ரசாபாச மான`, `சப்பைக் கட்டு`, `கற்பனா சக்தியை`, `விகார மிகு சொரூபமாக`
+- source-visible quotation / parenthesis irregularities in scans 63–64 are deliberate source preservation; do not silently close or normalize them
+- scan 64 ends with the printed ornament
 
 ### Earlier traps still in force
 
@@ -86,21 +86,21 @@ Do not regress source-visible unusual readings or silently repair punctuation. T
 
 ## Exact next activity
 
-Process Article 10 — **`விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!`**.
+Process Article 11 — **`நடப்பதெல்லாம் நாராயணன் செயலா?`**.
 
 Known source facts:
 
-- scan **61** / printed page **59** directly shows the Article 10 heading and start boundary
-- printed contents places Article 11 at printed page **63**
-- if the current +2 scan/page relation continues, that projects Article 11's heading to scan **65**, but this is only a navigation aid
+- scan **65** / printed page **63** directly shows the Article 11 heading and start boundary
+- printed contents places Article 12 at printed page **69**
+- if the current +2 scan/page relation continues, that projects Article 12's heading to scan **71**, but this is only a navigation aid
 
 Next steps:
 
-1. Directly inspect scans beginning at **61**.
-2. Directly inspect projected scan **65** and confirm the Article 11 heading before declaring Article 10's end boundary.
-3. Create one verified page record per Article 10 scan.
+1. Directly inspect scans beginning at **65**.
+2. Directly inspect projected scan **71** and confirm the Article 12 heading before declaring Article 11's end boundary.
+3. Create one verified page record per Article 11 scan.
 4. Apply the difficult-reading escalation protocol wherever necessary; do not infer from context.
-5. Assemble Article 10 only after every source page is verified and the end boundary is source-confirmed.
+5. Assemble Article 11 only after every source page is verified and the end boundary is source-confirmed.
 6. Update `indexes/page-map.md`, publication/root README, audit and this handover.
 
 Do not begin English translation until the Tamil source layer for the relevant article has passed its completion gate.
