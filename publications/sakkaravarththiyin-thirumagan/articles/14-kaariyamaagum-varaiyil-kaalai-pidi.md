@@ -1,7 +1,7 @@
 ---
 publication: "sakkaravarththiyin-thirumagan"
 article_number: 14
-title_ta: "காரியமாகும் வரையில் காலை பிடி!"
+title_ta: "காரியமாகும் வரையில் காலைப் பிடி !"
 scan_pages: "79-82"
 printed_pages: "77-80"
 status: "verified"
@@ -10,7 +10,7 @@ source_filename: "TVA_BOK_0065662_சக்கரவர்த்தியின�
 assembly_method: "concatenated from verified page-level source transcriptions"
 ---
 
-# காரியமாகும் வரையில் காலை பிடி!
+# காரியமாகும் வரையில் காலைப் பிடி !
 
 <!-- scan 79 / printed 77 -->
 
