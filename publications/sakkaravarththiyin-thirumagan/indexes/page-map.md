@@ -66,7 +66,13 @@
 | 62 | 60 | Article 10 | verified |
 | 63 | 61 | Article 10 | verified |
 | 64 | 62 | Article 10 conclusion | verified |
-| 65 | 63 | Article 11 — நடப்பதெல்லாம் நாராயணன் செயலா? begins | boundary verified; transcription next |
+| 65 | 63 | Article 11 — நடப்பதெல்லாம் நாராயணன் செயலா? begins | verified |
+| 66 | 64 | Article 11 | verified |
+| 67 | 65 | Article 11 | verified |
+| 68 | 66 | Article 11 | verified |
+| 69 | 67 | Article 11 | verified |
+| 70 | 68 | Article 11 conclusion | verified |
+| 71 | 69 | Article 12 — மாரீசனைத் துரத்திச் சென்ற ராமனிடம் begins | boundary verified; transcription next |
 
 ## Verified article boundaries
 
@@ -80,7 +86,8 @@
 - Article 8 — **நாடாண்ட மன்னன் நாதியற்று செத்தான்**: scans **50–54**, printed pp. **48–52**.
 - Article 9 — **தந்தை மகனும் தருமம் தவறியவர்கள்!**: scans **55–60**, printed pp. **53–58**.
 - Article 10 — **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**: scans **61–64**, printed pp. **59–62**.
-- Scan **65** / printed p. **63** directly begins Article 11 **நடப்பதெல்லாம் நாராயணன் செயலா?**, confirming Article 10's end boundary.
+- Article 11 — **நடப்பதெல்லாம் நாராயணன் செயலா?**: scans **65–70**, printed pp. **63–68**.
+- Scan **71** / printed p. **69** directly begins Article 12 **மாரீசனைத் துரத்திச் சென்ற ராமனிடம்**, confirming Article 11's end boundary.
 
 ### Article 5 heading witness note
 
@@ -92,7 +99,6 @@ The following later starts remain **navigation projections from the printed cont
 
 | Article | Printed start | Expected scan if +2 relation continues | Status |
 |---:|---:|---:|---|
-| 12 | 69 | 71 | provisional |
 | 13 | 72 | 74 | provisional |
 | 14 | 77 | 79 | provisional |
 
