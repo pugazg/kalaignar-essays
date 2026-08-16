@@ -23,7 +23,7 @@ The English layer must preserve his directness, rhetorical questions, repetition
 
 | # | Tamil article | English file | Status | Gates |
 |---:|---|---|---|---|
-| 1 | சக்கரவர்த்தியின் திருமகன் | [`01-sakkaravarththiyin-thirumagan.md`](01-sakkaravarththiyin-thirumagan.md) | **`verified`** | **T0–T5 passed** |
+| 1 | சக்கரவர்த்தியின் திருமகன் | [`01-sakkaravarththiyin-thirumagan.md`](01-sakkaravarththiyin-thirumagan.md) | **`verified`** | **T0–T5 passed; post-T5 `Achariyar` spelling correction applied** |
 | 2 | தேகமும் உணர்வும் | [`02-thegamum-unarvum.md`](02-thegamum-unarvum.md) | **`verified`** | **T0–T5 passed** |
 | 3 | சதி நிரூபிக்கப்படுகிறது | `03-sathi-nirupikkappadugirathu.md` | `not-started` | T0 pending |
 | 4 | காமராஜன் ஆட்கொண்ட தசரதராஜன்! | `04-kamarajan-aadkonda-dasaratharajan.md` | `not-started` | T0 pending |
@@ -40,25 +40,11 @@ The English layer must preserve his directness, rhetorical questions, repetition
 
 ## Established translation baseline after Articles 1–2
 
-Article 1 established the core publication-wide voice and identity policy:
+Article 1 currently uses **`Achariyar`** for `ஆச்சாரியார்`, by explicit user instruction made after the article had originally passed T0–T5. The referent remains **C. Rajagopalachari (Rajaji)** and is identified outside Kalaignar's body. Article 1 also retains **Chakravarthi** where the Rajagopalachari/Chakravarthi wordplay is active, **Aryans / Dravidians**, **Aryanism**, and the source-distinct **demons / Rakshasas / Devas**.
 
-- `ஆச்சாரியார்` → **Acharya**, with referent **C. Rajagopalachari (Rajaji)** identified outside Kalaignar's body;
-- `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where Kalaignar's Rajagopalachari/Chakravarthi wordplay is active;
-- `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**;
-- `ஆரியம்` → **Aryanism**;
-- `அரக்கர்` / `ராட்சசர்` / `தேவர்கள்` remain lexically distinct as **demons / Rakshasas / Devas**;
-- direct commands, rhetorical questions, repetitions, sarcasm and harsh formulations remain visible in English.
+Article 2 remains verified with the earlier spelling **`Acharya`** because the user's correction explicitly named Article 1. It also establishes **Body and Feeling**, **body of flesh**, **anger and passion**, **Bhagavan / Ishvari**, and **plot / conspiracy**, while preserving the source-visible `August 154` anomaly and unmatched quotation openings.
 
-Article 2 adds:
-
-- title `தேகமும் உணர்வும்` → **Body and Feeling**;
-- `தேகம்` / `உணர்வு` → **body / feeling**;
-- `ஊனுடல்` → **body of flesh**;
-- `கோபதாபம்` → **anger and passion**;
-- `பகவான்` / `ஈஸ்வரி` → **Bhagavan / Ishvari**;
-- `சூழ்ச்சி` / `சதி` → **plot / conspiracy** when the Tamil distinguishes them;
-- caste-polemical epithets such as `பிராமணஜோதி` and `பார்ப்பனகுல மகிபர்` remain visibly polemical in English;
-- source anomalies such as `August 154` and unmatched quotation openings remain documented rather than silently repaired.
+The `Achariyar` / `Acharya` difference is therefore documented, not silently harmonised. Do not treat either form as publication-wide without a later user instruction or the final consistency decision.
 
 See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) for detailed provenance.
 
@@ -78,4 +64,4 @@ See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.
 
 ## Exact next activity
 
-Translate and review **Article 3 — `சதி நிரூபிக்கப்படுகிறது`** in full. Do not begin Article 4 until Article 3 has passed T2 and T3.
+Translate and review **Article 3 — `சதி நிரூபிக்கப்படுகிறது`** in full. Before translating any occurrence of `ஆச்சாரியார்`, follow the latest user instruction rather than assuming the earlier `Acharya` spelling is publication-wide. Do not begin Article 4 until Article 3 has passed T2 and T3.
