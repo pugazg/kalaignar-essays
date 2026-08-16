@@ -62,7 +62,11 @@
 | 58 | 56 | Article 9 | verified |
 | 59 | 57 | Article 9 | verified |
 | 60 | 58 | Article 9 conclusion | verified |
-| 61 | 59 | Article 10 — விஷ்ணு அவதாரம் என்பதும் ராமனிடம்! begins | boundary verified; transcription next |
+| 61 | 59 | Article 10 — விஷ்ணு அவதாரம் என்பதும் ராமனிடம்! begins | verified |
+| 62 | 60 | Article 10 | verified |
+| 63 | 61 | Article 10 | verified |
+| 64 | 62 | Article 10 conclusion | verified |
+| 65 | 63 | Article 11 — நடப்பதெல்லாம் நாராயணன் செயலா? begins | boundary verified; transcription next |
 
 ## Verified article boundaries
 
@@ -75,7 +79,8 @@
 - Article 7 — **விபீஷணருக்கு விடை யளிப்போம்!**: scans **43–49**, printed pp. **41–47**.
 - Article 8 — **நாடாண்ட மன்னன் நாதியற்று செத்தான்**: scans **50–54**, printed pp. **48–52**.
 - Article 9 — **தந்தை மகனும் தருமம் தவறியவர்கள்!**: scans **55–60**, printed pp. **53–58**.
-- Scan **61** / printed p. **59** directly begins Article 10 **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**, confirming Article 9's end boundary.
+- Article 10 — **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**: scans **61–64**, printed pp. **59–62**.
+- Scan **65** / printed p. **63** directly begins Article 11 **நடப்பதெல்லாம் நாராயணன் செயலா?**, confirming Article 10's end boundary.
 
 ### Article 5 heading witness note
 
@@ -87,7 +92,6 @@ The following later starts remain **navigation projections from the printed cont
 
 | Article | Printed start | Expected scan if +2 relation continues | Status |
 |---:|---:|---:|---|
-| 11 | 63 | 65 | provisional |
 | 12 | 69 | 71 | provisional |
 | 13 | 72 | 74 | provisional |
 | 14 | 77 | 79 | provisional |
