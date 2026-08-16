@@ -22,8 +22,8 @@ The user then explicitly chose **`Achariyar` instead of `Acharya`**. After confi
 
 Therefore:
 
-- Articles 1–4 now use **`Achariyar`** throughout.
-- Articles 5–14 must use **`Achariyar`** wherever the Tamil source uses `ஆச்சாரியார்`, unless the source itself changes label.
+- Articles 1–5 now use **`Achariyar`** throughout.
+- Articles 6–14 must use **`Achariyar`** wherever the Tamil source uses `ஆச்சாரியார்`, unless the source itself changes label.
 - Do not mechanically substitute `Rajaji` or `C. Rajagopalachari` inside Kalaignar's body text; use the identity only in translator/editorial identification notes.
 
 ## Established lexicon
@@ -72,6 +72,20 @@ Therefore:
 | `பிரகிருதி வேகம்` | `physical urge` | In Article 4's quoted description of Dasaratha; retain the bodily/sexual force. | Article 4 | `contextual` |
 | `காம மோகம்` | `lustful infatuation` | Retains the source's strong ridicule in the final quoted scene with Kaikeyi. | Article 4 | `contextual` |
 | `அப்பாவி` / `அப்-பாவி` | `innocent` / `Ah—sinner!` | Kalaignar makes an explicit Tamil pun by splitting `அப்பாவி`; preserve the turn in body and document it in a translator note. | Article 4 | `wordplay established` |
+| `பரத்துவாஜா` / `பரத்துவாஜர்` | `Bharadvaja` | English uses the conventional epic name while the Tamil layer preserves the article-heading/contents-page source-form distinction. | Article 5 | `established with source-witness note` |
+| `ஆஸ்ரமம்` | `ashram` | Retain the culturally marked institution; do not flatten to generic `house` or `camp` when the source specifically says `ஆஸ்ரமம்`. | Article 5 | `established` |
+| `பாரிஸ் நகரத்து ‘பாரா’?` | `a Paris 'Bar'?` | Title wordplay: source `பாரா` carries English `bar` plus Tamil interrogative force. Preserve **'Bar'?** rather than explaining it away inside the title. | Article 5 | `wordplay established` |
+| `அப்சரஸ்கள்` | `Apsaras` | Preserve the epic/religious term; Article 5 also glosses them as divine women such as Rambha and Urvashi. | Article 5 | `established` |
+| `மோகக் களியாட்டம்` | `amorous revelry` | Retain Kalaignar's sexualised contrast with the sage's ashram. | Article 5 | `contextual` |
+| `கதம்ப ராமன்` | `motley Rama` | Preserve Kalaignar's ridicule of the mutually different Rama-images attributed to Valmiki, Tulsidas and Kambar. | Article 5 | `contextual image established` |
+| `காலட்சேபம்` | `religious discourse` | In Article 5's mocking question about carrying around the `motley Rama`; do not neutralise the devotional context. | Article 5 | `contextual` |
+| `மழுப்பல் வேலை` | `evasions` | Preserve Kalaignar's accusation that contradictions are being covered with evasive manoeuvres. | Article 5 | `established` |
+| `அன்னபானாதிகள்` | `food and drink` | Used in the quoted Bharadvaja-feast inventory. | Article 5 | `established` |
+| `கந்தர்வ சங்கீதம்` | `Gandharva music` | Preserve the epic/cultural term rather than generic `music`. | Article 5 | `established` |
+| `மெய்மறந்து` | `lost themselves` | In the feast passage; preserves the altered-state/intoxication rhetoric Kalaignar later exploits. | Article 5 | `contextual` |
+| `போதையாக` | `intoxicating` | `ஒவ்வொரு எழுத்தும் போதையாக இருக்கும்` → `every letter would be intoxicating`; retain the intoxication metaphor. | Article 5 | `contextual image established` |
+| `வேதியப் பெருங்கிழவர்` | `grand old Vedic man` | Age-marked sarcastic epithet for Achariyar; do not politely erase `கிழவர்`. | Article 5 | `contextual epithet` |
+| `ஆஸ்ரமத்து போக்கியதை` | `the indulgence in the ashram` | Preserve the polemical charge of sensual/luxurious enjoyment in an ascetic setting. | Article 5 | `contextual` |
 
 ## Article 1 contextual decisions
 
@@ -112,6 +126,20 @@ Therefore:
 - `அப்பாவி ... “அப்-பாவி”` is retained as **innocent ... “Ah—sinner!”** with a translator note explaining the Tamil split-word pun.
 - `வெட்கம் - வெட்கம் - வேதனை கலந்த வெட்கம்!` remains **`shame, shame, shame mixed with pain!`**.
 - Source dates **8 August 1954** and **22 August 1954** are retained; the article's quoted material remains translated from Kalaignar's Tamil witness rather than imported from an external English source.
+
+## Article 5 contextual decisions
+
+- Title `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?` → **`Bharadvaja's Ashram—or a Paris 'Bar'?`**. The English keeps the **Bar** pun while the translator/source note records the distinct contents-page witness `பரத்துவாஜர் ... பாரீஸ் ...`.
+- The opening and closing refrain preserve Kalaignar's compressed question-rhythm: **`An ashram—and Apsaras there?`**, **`faces swollen from kisses?`**, **`pleasure beyond all bounds?`**.
+- `அனலிடைப் புழு` remains physically **`a worm in fire`** rather than being reduced to generic anguish.
+- The first Kambar boat verse is rendered only to the sense supported by Kalaignar's own explanation: wet garments expose concealed parts and revive/delight the watching men. No external English verse is imported.
+- The scan-33 quotation beginning `நான் சக்கரவர்த்தித் திருமகன்...` has **no visible closing quotation mark** before Kalaignar resumes his prose. The English documents the unmatched opening rather than silently repairing it.
+- `கதம்ப ராமன்` → **motley Rama**; `காலட்சேபம்` → **religious discourse**; `சேற்றில் மாட்டிக்கொண்டு திண்டாடுவார்கள்` remains **stuck in the mud and floundering**.
+- The Bharadvaja feast keeps the comic modern comparison **`like placing an order for a dinner party at an Arya Bhavan Hotel`**, the repeated feast inventory, and the triple **`Ah! Ah! Ah!`**.
+- The source-specific place expression `கொத்தவாலை கொழுமண்டபம்` is conservatively transliterated **Kothavalai Kozhumandapam** rather than silently identified or modernised from outside knowledge.
+- The source-visible standalone `— ஆச்சாரியார்.` at the scan-36 boundary is retained as **`—Achariyar.`** rather than omitted.
+- The second Kambar verse is translated closely using Kalaignar's own prose gloss: soft beds, ankleted red-dyed feet, poison-like eyes, divine maidens lying close, and the young men sleeping.
+- `வேதியப் பெருங்கிழவர்` remains **grand old Vedic man**, preserving age-marked ridicule; the ending retains **sweet / bitter** taste imagery and **lord of the Brahmin clan** for `பார்ப்பன குலமகிபர்`.
 
 ## Terms still to refine in later articles
 
