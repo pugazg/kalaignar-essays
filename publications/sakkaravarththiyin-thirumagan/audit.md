@@ -2,7 +2,7 @@
 
 ## Current audit scope
 
-This audit now covers supplied scan pages **1–54** as archived source pages, plus direct inspection of scan **55** to confirm the next-article boundary.
+This audit now covers supplied scan pages **1–60** as archived source pages, plus direct inspection of scan **61** to confirm the next-article boundary.
 
 ## Page status
 
@@ -22,7 +22,8 @@ This audit now covers supplied scan pages **1–54** as archived source pages, p
 | Scans 38–42 — Article 6 `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?` | **5 / 5 VERIFIED** |
 | Scans 43–49 — Article 7 `விபீஷணருக்கு விடை யளிப்போம்!` | **7 / 7 VERIFIED** |
 | Scans 50–54 — Article 8 `நாடாண்ட மன்னன் நாதியற்று செத்தான்` | **5 / 5 VERIFIED** |
-| Scan 55 — Article 9 `தந்தை மகனும் தருமம் தவறியவர்கள்!` heading/start boundary | VERIFIED boundary; transcription not started |
+| Scans 55–60 — Article 9 `தந்தை மகனும் தருமம் தவறியவர்கள்!` | **6 / 6 VERIFIED** |
+| Scan 61 — Article 10 `விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!` heading/start boundary | VERIFIED boundary; transcription not started |
 
 ## Completion gates
 
@@ -129,7 +130,20 @@ This audit now covers supplied scan pages **1–54** as archived source pages, p
 - assembly: [`articles/08-naadaanda-mannan-naathiyatru-seththaan.md`](articles/08-naadaanda-mannan-naathiyatru-seththaan.md)
 - next boundary: scan 55 / printed p.53 directly begins **தந்தை மகனும் தருமம் தவறியவர்கள்!**
 
-Article 8 is therefore **source-complete for this supplied edition**.
+**Source-complete.**
+
+### Article 9 — தந்தை மகனும் தருமம் தவறியவர்கள்!
+
+- Source scans: **55–60**
+- Printed pages: **53–58**
+- Verified source pages: **6 / 6**
+- `needs-review`: **0**
+- `blocked`: **0**
+- unresolved article-text locations: **0**
+- assembly: [`articles/09-thanthai-maganum-tharumam-thavariyavargal.md`](articles/09-thanthai-maganum-tharumam-thavariyavargal.md)
+- next boundary: scan 61 / printed p.59 directly begins **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**
+
+Article 9 is therefore **source-complete for this supplied edition**.
 
 ## Direct visual checks worth preserving
 
@@ -217,12 +231,23 @@ Article 8 is therefore **source-complete for this supplied edition**.
 - scan 53 retains `பார் ஆண்ட பார்த்திபனுக்கு`, `அயோத்தி ஆரணங்குகள்`, `பாக்கையைக்`, `திறமைபெற்றவன்`, `அறுபதாயிரம்`, `தாங்கமுடியாமல்`, `வாலை அடக்கிப்`; its final quotation continues onto scan 54
 - scan 54 completes that quotation with `தினந்தோறும் உடல் சுகம்`, `ராமன் காட்டேகினான்`, `சிந்தைகெட்டு`, `பூணூல் வேந்தர்`
 - scan 54 ends Article 8 with the printed ornament
-- scan 55 / printed p.53 directly begins **`தந்தை மகனும் தருமம் தவறியவர்கள்!`**
+
+### Article 9
+
+- scan 55 heading: **`தந்தை மகனும் தருமம் தவறியவர்கள்!`**
+- scan 55 retains `சித்ரகூட`, `சிகப்புமாக`, `புஷ்பங்களைப்`, quoted `“கஷ்டப்பட்டுக்”`, `லட்சுமண அவதாரம்`, `மந்தாகினி`; the last sentence continues onto scan 56
+- scan 56 retains `யென்று`, `ஜலம்`, `கொழுந்தனார்`, unusual `அடுக்கனை வேலைகள்`, `இலட்சுமணன்`, and source spacing/punctuation `-அந்தக்`; its final sentence continues onto scan 57
+- scan 57 retains `ஜாம்பாலி`, `நாஸ்திகம்`, `தர்ம ராஜன்`, `ஆட்டு மந்தைபோலக்`, quoted `“கோவிந்தா”`, and unusual `நாதிகமுள்ளவர்கள்`; its final sentence continues onto scan 58
+- scan 58 retains `சூட்சமம்`, `கூப்பிட்டிருப்பாளேயானால்`, `வந்தேயிருப்பான்`, `சதி நினைப்போடு`, and quoted `“தான் தந்த நாடு”`; its final sentence continues onto scan 59
+- scan 59 retains `ராஜ்ய பரிபாலனம்`, `நந்திக் கிராமத்திலே`, `சமானம்`, `நேருவா`, `டில்லியிலே`, `கவர்னர் பிரகாசா`; its final sentence continues onto scan 60
+- scan 60 retains `அதிகாரபூர்வமான`, quoted `“புனிதமான”`, `நிருபிக்க`, `பக்த கோடிகள்`, `சதிகார ராமன்`, `தனிப் பிரியம்`, `ஜெயக்கொடி`
+- scan 60 ends Article 9 with the printed ornament
+- scan 61 / printed p.59 directly begins **`விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!`**
 
 ## Source / physical-copy distinction
 
 - Library stamps and handwriting on front matter remain recorded separately from printed text.
-- No large physical-copy mark crosses Articles 1–8 body text.
+- No large physical-copy mark crosses Articles 1–9 body text.
 - Light reverse-side bleed-through is visible across article scans and below some article-ending ornaments, but it has not been treated as body text or used to reconstruct wording.
 
 ## No-silent-correction rule
@@ -231,6 +256,6 @@ This audit does not certify historical/factual correctness of quotations, names 
 
 ## Next audit unit
 
-Proceed to Article 9 — **தந்தை மகனும் தருமம் தவறியவர்கள்!**, beginning scan **55** / printed page **53**.
+Proceed to Article 10 — **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**, beginning scan **61** / printed page **59**.
 
-The printed contents places Article 10 at printed page **59**, which projects to scan **61** if the current +2 scan/page relation continues. That remains a navigation aid only: directly inspect the Article 10 heading before declaring Article 9's end boundary.
+The printed contents places Article 11 at printed page **63**, which projects to scan **65** if the current +2 scan/page relation continues. That remains a navigation aid only: directly inspect the Article 11 heading before declaring Article 10's end boundary.
