@@ -15,12 +15,14 @@ Source: scan page **8**. Printed article-start page numbers are preserved as pri
 | 9 | தந்தை மகனும் தருமம் தவறியவர்கள்! | 53 |
 | 10 | விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்! | 59 |
 | 11 | நடப்பதெல்லாம் நாராயணன் செயலா? | 63 |
-| 12 | மார்ச்சனைத் துரத்திச் சென்ற ராமனிடம் | 69 |
+| 12 | மாரீசனைத் துரத்திச் சென்ற ராமனிடம் | 69 |
 | 13 | துரோகிகள் சந்திப்பு! | 72 |
 | 14 | காரியமாகும் வரையில் காலைப் பிடி! | 77 |
 
 ## Editorial note
 
 இந்தப் பட்டியல் modernized table of contents அல்ல. Scan page 8-ல் அச்சிடப்பட்ட சொல் இடைவெளி, punctuation மற்றும் தலைப்பு வடிவத்தை இயன்றவரை காக்கும் source transcription.
+
+Word-by-word visual fidelity pass confirms item 12 as **`மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`** and item 14 as contents-witness **`காரியமாகும் வரையில் காலைப் பிடி!`**. The latter remains distinct from the Article 14 heading-page witness `காரியமாகும் வரையில் காலை பிடி!`.
 
 Article boundaries இந்த start-page பட்டியலால் வழிகாட்டப்படுகின்றன; ஒவ்வொரு boundary-யும் சம்பந்தப்பட்ட scan heading-ஐ நேரடியாகப் பார்த்த பிறகே `verified` ஆகும்.
