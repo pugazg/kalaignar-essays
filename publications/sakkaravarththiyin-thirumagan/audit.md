@@ -16,7 +16,7 @@ See [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md) for t
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-Current progress: **56 / 83 scans strict-reviewed**.
+Current progress: **64 / 83 scans strict-reviewed**.
 
 | Scope | Source-layer status | Strict fidelity status |
 |---|---|---|
@@ -27,24 +27,33 @@ Current progress: **56 / 83 scans strict-reviewed**.
 | Scans 33–40 | VERIFIED | **COMPLETE** |
 | Scans 41–48 | VERIFIED | **COMPLETE** |
 | Scans 49–56 | VERIFIED | **COMPLETE** |
-| Scans 57–64 | VERIFIED | **PENDING — next batch** |
-| Scans 65–83 | VERIFIED | PENDING |
+| Scans 57–64 | VERIFIED | **COMPLETE** |
+| Scans 65–72 | VERIFIED | **PENDING — next batch** |
+| Scans 73–83 | VERIFIED | PENDING |
 
 The publication is source-complete, but strict visual-text-fidelity review is not yet complete.
 
-## Batch 7 — scans 49–56
+## Batch 8 — scans 57–64
 
-- scan 49 — **CORRECTED:** `வேறு வேறானவை!` → source-visible `வேறு வேறானவை !`; propagated to Article 7 assembly
-- scan 50 — **CORRECTED:** `ராமர், லட்சுமணர், சீதை` → source-visible `ராமர்,லட்சுமணர்,சீதை`; propagated to Article 8 assembly; `தூய்மை யுடையதாயிருக்கிறது` revalidated
-- scan 51 — **CORRECTED (revalidated):** source-visible `கவுசல்யா தேவி`
-- scans 52–54 — **FIDELITY-PASS**, closing Article 8
-- scans 55–56 — **FIDELITY-PASS**, opening Article 9
+- scan 57 — **FIDELITY-PASS**: Article 9 text/punctuation agree
+- scan 58 — **FIDELITY-PASS**: Article 9 text/punctuation agree
+- scan 59 — **CORRECTED**:
+  - `நந்திக் கிராமத்திலே இருந்து` → source-visible `நந்திக் கிராமத்திலே யிருந்து`
+  - `சொல்லையும் - சத்தியத்தையும்` → source-visible `சொல்லையும் -சத்தியத்தையும்`
+  - both changes propagated to Article 9 assembly
+- scan 60 — **FIDELITY-PASS**: Article 9 conclusion and final ornament agree
+- scan 61 — **CORRECTED (revalidated)**: source heading is `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`; page/assembly already carried this correction when reopened
+- scan 62 — **FIDELITY-PASS**
+- scan 63 — **CORRECTED**:
+  - `44 ஆவது` → source-visible `44ஆவது`
+  - `அப்படிப்பட்டவர்` → source-visible `அப்பேர்ப்பட்டவர்`
+  - both changes propagated to Article 10 assembly
+- scan 64 — **FIDELITY-PASS**: Article 10 conclusion, quotation anomalies and final ornament agree
 
-### Assembly state after Batch 7
+### Assembly state after Batch 8
 
-- Article 7, scans **43–49**, is fully strict-rechecked and agrees with its corrected page layer.
-- Article 8, scans **50–54**, is fully strict-rechecked and agrees with its corrected page layer.
-- Article 9 scans **55–56** agree with the assembly; scans 57–60 remain.
+- Article 9, scans **55–60**, is fully strict-rechecked and agrees with the corrected page layer.
+- Article 10, scans **61–64**, is fully strict-rechecked and agrees with the corrected page layer.
 - No unresolved pixel-review item remains in this batch.
 
 ## No-silent-correction rule
@@ -53,4 +62,4 @@ Later editions, web transcriptions, remembered wording, modern spelling, grammat
 
 ## Next strict-fidelity unit
 
-Proceed in physical scan order with **scans 57–64**: scans 57–60 conclude Article 9 and scans 61–64 cover all of Article 10.
+Proceed in physical scan order with **scans 65–72**: scans 65–70 cover Article 11 `நடப்பதெல்லாம் நாராயணன் செயலா?`; scans 71–72 begin Article 12 `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`.
