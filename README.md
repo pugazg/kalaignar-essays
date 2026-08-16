@@ -34,6 +34,7 @@ publications/
       01-....md
     audit.md
     PUBLICATION_COMPLETION_REVIEW.md
+    VISUAL_TEXT_FIDELITY_REVIEW.md
 ```
 
 Standalone article scan ஒன்றும் இதே source-first விதியில் ஒரு publication unit ஆகப் பதிவு செய்யலாம்.
@@ -44,10 +45,10 @@ Standalone article scan ஒன்றும் இதே source-first வித�
 
 வழங்கப்பட்ட scan-ல் இது **2018 மறுபதிப்பு**; `நூல் குறிப்பு` பக்கம் முதல் பதிப்பை **மே 1956 (வேலூர் திராவிடன் பதிப்பகம்)** என்று பதிவு செய்கிறது. பொருளடக்கத்தில் **14 கட்டுரைகள்** உள்ளன.
 
-Current status: **SOURCE-COMPLETE for the supplied edition**
+Current status: **SOURCE-COMPLETE + STRICT VISUAL TEXT-FIDELITY COMPLETE for the supplied edition**
 
 - source identity / checksum / edition metadata: **registered**
-- physical scan pages: **83 / 83 VERIFIED and classified**
+- physical scan pages: **83 / 83 VERIFIED, classified, and word-by-word visually rechecked**
 - scans **1–8** front matter + contents: **8 / 8 VERIFIED**
 - Article 1 — **சக்கரவர்த்தியின் திருமகன்**, scans **9–15**, printed pp. **7–13**: **7 / 7 VERIFIED / source-complete**
 - Article 2 — **தேகமும் உணர்வும்**, scans **16–21**, printed pp. **14–19**: **6 / 6 VERIFIED / source-complete**
@@ -58,19 +59,22 @@ Current status: **SOURCE-COMPLETE for the supplied edition**
 - Article 7 — **விபீஷணருக்கு விடை யளிப்போம்!**, scans **43–49**, printed pp. **41–47**: **7 / 7 VERIFIED / source-complete**
 - Article 8 — **நாடாண்ட மன்னன் நாதியற்று செத்தான்**, scans **50–54**, printed pp. **48–52**: **5 / 5 VERIFIED / source-complete**
 - Article 9 — **தந்தை மகனும் தருமம் தவறியவர்கள்!**, scans **55–60**, printed pp. **53–58**: **6 / 6 VERIFIED / source-complete**
-- Article 10 — **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**, scans **61–64**, printed pp. **59–62**: **4 / 4 VERIFIED / source-complete**
+- Article 10 — **விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!**, scans **61–64**, printed pp. **59–62**: **4 / 4 VERIFIED / source-complete**
 - Article 11 — **நடப்பதெல்லாம் நாராயணன் செயலா?**, scans **65–70**, printed pp. **63–68**: **6 / 6 VERIFIED / source-complete**
 - Article 12 — **மாரீசனைத் துரத்திச் சென்ற ராமனிடம்**, scans **71–73**, printed pp. **69–71**: **3 / 3 VERIFIED / source-complete**
 - Article 13 — **துரோகிகள் சந்திப்பு!**, scans **74–78**, printed pp. **72–76**: **5 / 5 VERIFIED / source-complete**
 - Article 14 — **காரியமாகும் வரையில் காலை பிடி!**, scans **79–82**, printed pp. **77–80**: **4 / 4 VERIFIED / source-complete**
 - scan **82** also preserves a printed `விடுதலை` advertisement and physical-copy accession marks outside the Article 14 assembly
 - scan **83** is a verified back-cover record with artwork, promotional excerpt, barcode and price
-- article assemblies: **14 / 14 complete**
+- article assemblies: **14 / 14 complete and strict-rechecked**
 - blocked / needs-review article pages: **0 / 0**
+- outstanding known visual-fidelity discrepancies after the final pass: **0**
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
-Final review: [`publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md)
+Strict fidelity review: [`publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md)
+
+Final source-layer review: [`publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md)
 
 Audit: [`publications/sakkaravarththiyin-thirumagan/audit.md`](publications/sakkaravarththiyin-thirumagan/audit.md)
 
