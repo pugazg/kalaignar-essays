@@ -81,13 +81,13 @@ If Kalaignar uses an epithet, title or label, do not silently replace it with a 
 
 Examples of the rule:
 
-- a source use of `ஆச்சாரியார்` should remain an English rendering of that chosen label (normally `Acharya`), not silently become a substituted personal name;
+- a source use of `ஆச்சாரியார்` should remain a source-bearing English form of that chosen label, not silently become a substituted personal name; in the active `சக்கரவர்த்தியின் திருமகன்` publication the user-established form is **`Achariyar`**, referring to C. Rajagopalachari (Rajaji) only in translator/editorial notes;
 - a source use of `ராஜாஜி` may be rendered `Rajaji`;
 - `ஆரியர்` and `திராவிடர்` must not be flattened into generic groups that erase Kalaignar's terminology.
 
 Conventional English forms may be used for well-established epic proper names for readability, but the translator must not use that convention to alter Kalaignar's actual referent or rhetorical contrast.
 
-## 6. Culturally loaded terms
+## 6. Culturally loaded and source-specific terms
 
 Do not force a culturally loaded Tamil term into the nearest English social category merely because that category is familiar.
 
@@ -98,6 +98,15 @@ For each difficult recurring term:
 3. record the choice in the publication's living English lexicon;
 4. allow a contextual variant when the Tamil sense genuinely changes;
 5. never invent a stronger caste, religious, political or social identification than the Tamil supports.
+
+If Kalaignar uses a **source-specific expression, nickname, pun, coined insult, or culturally specific reference that the article itself does not explain**, do not silently identify or expand it from memory or outside knowledge. Prefer one of these, in order:
+
+1. carry the wordplay naturally into English when possible;
+2. retain a source-bearing transliteration when that preserves the rhetorical function better;
+3. add a clearly separated translator/source note explaining only what is supported and why the source form was retained;
+4. research externally only when the user explicitly asks for verification or expansion.
+
+A source-bearing transliteration is preferable to a confident but unsupported identification.
 
 A lexicon is a consistency aid, not a licence to mechanically translate every occurrence the same way.
 
@@ -244,10 +253,11 @@ Read the English as English while comparing to Tamil and ask:
 - Has a vivid image become abstract prose?
 - Has a repeated phrase been edited away?
 - Has the translator inserted academic explanation into the body?
+- Has a source-bearing pun, coined label, or strange repetition been "fixed" merely because it sounds unusual in English?
 
 ### T4 — terminology / quotation / citation audit
 
-Check the publication lexicon, proper-name policy, recurring epithets, quoted material, dates, periodical titles and source-page comments.
+Check the publication lexicon, proper-name policy, recurring epithets, quoted material, dates, periodical titles, source-page comments, source-specific transliterations, and documented punctuation/source anomalies.
 
 ### T5 — article verification
 
@@ -265,6 +275,7 @@ After all articles are individually verified, perform one cross-article consiste
 - treatment of quoted material;
 - title style;
 - tone consistency;
+- source-bearing puns/transliterations and explanatory restraint;
 - accidental smoothing introduced in later articles;
 - completeness of all 14/other article units.
 
@@ -285,6 +296,7 @@ Record especially:
 - ideological vocabulary;
 - difficult compounds;
 - terms whose force could easily be softened;
+- source-specific puns, coined insults and unexplained references;
 - publication names and source labels;
 - words for which more than one contextual English rendering is intentionally used.
 
@@ -329,8 +341,9 @@ For every new Kalaignar essay/article publication:
 3. create `translations/en/README.md`, `LEXICON.md` and `TRANSLATION_REVIEW.md`;
 4. translate from the strict-reviewed Tamil assemblies, not from OCR or memory;
 5. establish the voice baseline on the first article before accelerating later articles;
-6. update the single root `HANDOVER.md` after each translation activity;
-7. run the publication-level cross-article consistency gate before declaring English completion.
+6. preserve unexplained source-specific labels/wordplay rather than silently identifying them from outside knowledge;
+7. update the single root `HANDOVER.md` after each translation activity;
+8. run the publication-level cross-article consistency gate before declaring English completion.
 
 ## 19. Final principle
 
