@@ -2,7 +2,7 @@
 
 ## Current audit scope
 
-This audit now covers supplied scan pages **1–60** as archived source pages, plus direct inspection of scan **61** to confirm the next-article boundary.
+This audit now covers supplied scan pages **1–64** as archived source pages, plus direct inspection of scan **65** to confirm the next-article boundary.
 
 ## Page status
 
@@ -23,7 +23,8 @@ This audit now covers supplied scan pages **1–60** as archived source pages, p
 | Scans 43–49 — Article 7 `விபீஷணருக்கு விடை யளிப்போம்!` | **7 / 7 VERIFIED** |
 | Scans 50–54 — Article 8 `நாடாண்ட மன்னன் நாதியற்று செத்தான்` | **5 / 5 VERIFIED** |
 | Scans 55–60 — Article 9 `தந்தை மகனும் தருமம் தவறியவர்கள்!` | **6 / 6 VERIFIED** |
-| Scan 61 — Article 10 `விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!` heading/start boundary | VERIFIED boundary; transcription not started |
+| Scans 61–64 — Article 10 `விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!` | **4 / 4 VERIFIED** |
+| Scan 65 — Article 11 `நடப்பதெல்லாம் நாராயணன் செயலா?` heading/start boundary | VERIFIED boundary; transcription not started |
 
 ## Completion gates
 
@@ -143,7 +144,20 @@ This audit now covers supplied scan pages **1–60** as archived source pages, p
 - assembly: [`articles/09-thanthai-maganum-tharumam-thavariyavargal.md`](articles/09-thanthai-maganum-tharumam-thavariyavargal.md)
 - next boundary: scan 61 / printed p.59 directly begins **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**
 
-Article 9 is therefore **source-complete for this supplied edition**.
+**Source-complete.**
+
+### Article 10 — விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!
+
+- Source scans: **61–64**
+- Printed pages: **59–62**
+- Verified source pages: **4 / 4**
+- `needs-review`: **0**
+- `blocked`: **0**
+- unresolved article-text locations: **0**
+- assembly: [`articles/10-vishnu-avatharam-enbathum-ramanidam.md`](articles/10-vishnu-avatharam-enbathum-ramanidam.md)
+- next boundary: scan 65 / printed p.63 directly begins **நடப்பதெல்லாம் நாராயணன் செயலா?**
+
+Article 10 is therefore **source-complete for this supplied edition**.
 
 ## Direct visual checks worth preserving
 
@@ -242,12 +256,22 @@ Article 9 is therefore **source-complete for this supplied edition**.
 - scan 59 retains `ராஜ்ய பரிபாலனம்`, `நந்திக் கிராமத்திலே`, `சமானம்`, `நேருவா`, `டில்லியிலே`, `கவர்னர் பிரகாசா`; its final sentence continues onto scan 60
 - scan 60 retains `அதிகாரபூர்வமான`, quoted `“புனிதமான”`, `நிருபிக்க`, `பக்த கோடிகள்`, `சதிகார ராமன்`, `தனிப் பிரியம்`, `ஜெயக்கொடி`
 - scan 60 ends Article 9 with the printed ornament
-- scan 61 / printed p.59 directly begins **`விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!`**
+
+### Article 10
+
+- scan 61 heading: **`விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!`**
+- scan 61 retains `சக்கரவர்த்தித் திருமகன்`, source spacing `உணரவேண்டு மென்பதற்காகவும்`, `42லிருந்து`, `இரண்டொரு`, `பாதரட்சைகளைத்`, `கோஷ்டியினர்`, `இடையூறுமின்றி`; its final sentence continues onto scan 62
+- scan 62 retains `உயிர்வந்துவிடும்`, `சிரார்த்த போஜனம்`, `வயிறு புடைக்க`, `சாப்பிட்டானதும்`, `பிராமணின்`, `மேஷ மாமிசமாகப்`, `திரிகாலமுணரும்`, `வலுக்கட்டாயமாக`, `பாஷைப்படி`, `ஜீரணித்துக்கொண்டார்`
+- scan 63 retains `விஸ்வகர்மா`, `அம்புத் தூணியும்`, `மகாவிஷ்ணுவானவர்`, unmatched opening parenthesis before `முரண்பாட்டைக்`, `திரிகாலமுணரும் தேவரிஷி`, `44 ஆவது`, `சுய உருவத்துடன்`, `காம தாகத்தால்`; its final quotation continues onto scan 64
+- scan 64 retains `இரண்டாந்தாரமாகப்`, attached `-சீதையை`, `புருஷரத்தினங்கள்`, source spacing `ரசாபாச மான`, `சப்பைக் கட்டு`, `கற்பனா சக்தியை`, and `விகார மிகு சொரூபமாக`
+- source-visible quotation / parenthesis irregularities in scans 63–64 were not silently repaired
+- scan 64 ends Article 10 with the printed ornament
+- scan 65 / printed p.63 directly begins **`நடப்பதெல்லாம் நாராயணன் செயலா?`**
 
 ## Source / physical-copy distinction
 
 - Library stamps and handwriting on front matter remain recorded separately from printed text.
-- No large physical-copy mark crosses Articles 1–9 body text.
+- No large physical-copy mark crosses Articles 1–10 body text.
 - Light reverse-side bleed-through is visible across article scans and below some article-ending ornaments, but it has not been treated as body text or used to reconstruct wording.
 
 ## No-silent-correction rule
@@ -256,6 +280,6 @@ This audit does not certify historical/factual correctness of quotations, names 
 
 ## Next audit unit
 
-Proceed to Article 10 — **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**, beginning scan **61** / printed page **59**.
+Proceed to Article 11 — **நடப்பதெல்லாம் நாராயணன் செயலா?**, beginning scan **65** / printed page **63**.
 
-The printed contents places Article 11 at printed page **63**, which projects to scan **65** if the current +2 scan/page relation continues. That remains a navigation aid only: directly inspect the Article 11 heading before declaring Article 10's end boundary.
+The printed contents places Article 12 at printed page **69**, which projects to scan **71** if the current +2 scan/page relation continues. That remains a navigation aid only: directly inspect the Article 12 heading before declaring Article 11's end boundary.
