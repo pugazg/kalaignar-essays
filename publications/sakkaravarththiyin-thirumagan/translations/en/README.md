@@ -14,8 +14,8 @@ The English layer must preserve his directness, rhetorical questions, repetition
 ## Current status
 
 - Tamil source/fidelity prerequisite: **PASSED**
-- English drafts complete: **2 / 14**
-- English translations verified: **2 / 14**
+- English drafts complete: **3 / 14**
+- English translations verified: **3 / 14**
 - publication-level English consistency review: **not started**
 - English release status: **OPEN**
 
@@ -25,7 +25,7 @@ The English layer must preserve his directness, rhetorical questions, repetition
 |---:|---|---|---|---|
 | 1 | சக்கரவர்த்தியின் திருமகன் | [`01-sakkaravarththiyin-thirumagan.md`](01-sakkaravarththiyin-thirumagan.md) | **`verified`** | **T0–T5 passed** |
 | 2 | தேகமும் உணர்வும் | [`02-thegamum-unarvum.md`](02-thegamum-unarvum.md) | **`verified`** | **T0–T5 passed** |
-| 3 | சதி நிரூபிக்கப்படுகிறது | `03-sathi-nirupikkappadugirathu.md` | `not-started` | T0 pending |
+| 3 | சதி நிரூபிக்கப்படுகிறது | [`03-sathi-nirupikkappadugirathu.md`](03-sathi-nirupikkappadugirathu.md) | **`verified`** | **T0–T5 passed** |
 | 4 | காமராஜன் ஆட்கொண்ட தசரதராஜன்! | `04-kamarajan-aadkonda-dasaratharajan.md` | `not-started` | T0 pending |
 | 5 | பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’? | `05-paraththuvaja-aasramama-paris-nagarathu-para.md` | `not-started` | T0 pending |
 | 6 | இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா? | `06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md` | `not-started` | T0 pending |
@@ -38,34 +38,26 @@ The English layer must preserve his directness, rhetorical questions, repetition
 | 13 | துரோகிகள் சந்திப்பு! | `13-thurogigal-santhippu.md` | `not-started` | T0 pending |
 | 14 | காரியமாகும் வரையில் காலைப் பிடி ! | `14-kaariyamaagum-varaiyil-kaalai-pidi.md` | `not-started` | T0 pending |
 
-## Established translation baseline after Articles 1–2
+## Established translation baseline after Articles 1–3
 
-The user has explicitly settled the recurring English rendering of `ஆச்சாரியார்`:
+Publication-wide:
 
-- `ஆச்சாரியார்` → **Achariyar** throughout this publication;
-- referent: **C. Rajagopalachari (Rajaji)**;
-- keep Kalaignar's chosen label in the body instead of mechanically substituting the personal name.
+- `ஆச்சாரியார்` → **Achariyar**; referent **C. Rajagopalachari (Rajaji)** remains outside Kalaignar's body in translator/editorial notes.
+- `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where the Rajagopalachari/Chakravarthi wordplay is active.
+- direct commands, rhetorical questions, repetition, sarcasm and harsh formulations remain visible.
 
-Article 1 established the core voice and identity policy:
+Article 1 established **Chakravarthi's Son**, Aryans / Dravidians / Aryanism, and source-distinct demons / Rakshasas / Devas.
 
-- `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where Kalaignar's Rajagopalachari/Chakravarthi wordplay is active;
-- `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**;
-- `ஆரியம்` → **Aryanism**;
-- `அரக்கர்` / `ராட்சசர்` / `தேவர்கள்` remain lexically distinct as **demons / Rakshasas / Devas**;
-- direct commands, rhetorical questions, repetitions, sarcasm and harsh formulations remain visible in English.
+Article 2 established **Body and Feeling**, body of flesh, anger and passion, Bhagavan / Ishvari, and plot / conspiracy for source-distinct `சூழ்ச்சி` / `சதி`.
 
-Article 2 adds:
+Article 3 adds:
 
-- title `தேகமும் உணர்வும்` → **Body and Feeling**;
-- `தேகம்` / `உணர்வு` → **body / feeling**;
-- `ஊனுடல்` → **body of flesh**;
-- `கோபதாபம்` → **anger and passion**;
-- `பகவான்` / `ஈஸ்வரி` → **Bhagavan / Ishvari**;
-- `சூழ்ச்சி` / `சதி` → **plot / conspiracy** when the Tamil distinguishes them;
-- caste-polemical epithets remain visibly polemical in English;
-- source anomalies such as `August 154` and unmatched quotation openings remain documented rather than silently repaired.
-
-Article 2 has been revised post-T5 from the earlier `Acharya` spelling to **Achariyar** and remains verified because only the transliteration of the already-established referent changed.
+- title `சதி நிரூபிக்கப்படுகிறது` → **The Conspiracy Is Proven**;
+- `ராஜ்ய பாரம்` → **burden of the kingdom / burden of rule** according to context;
+- `யுவராஜப் பதவி` → **office of Crown Prince**;
+- `கல்மஷம்` → **taint**, with Kalaignar's later sarcastic echo preserved;
+- `கொல்லைப்புறமாக மந்திரி சபைக்கு வந்தவர்` → **came into the Council of Ministers through the back door**;
+- final direct cadence retained: **`Why only us? Everyone with a brain will come to exactly that conclusion.`**
 
 See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) for detailed provenance.
 
@@ -78,11 +70,6 @@ See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.
 - **T4** — terminology / quotation / citation audit
 - **T5** — translation verified
 
-## Working files
-
-- [`LEXICON.md`](LEXICON.md) — living recurring-term decisions
-- [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) — correction/review provenance
-
 ## Exact next activity
 
-Translate and review **Article 3 — `சதி நிரூபிக்கப்படுகிறது`** in full. Apply **Achariyar** for source `ஆச்சாரியார்`. Do not begin Article 4 until Article 3 has passed T2 and T3.
+Translate and review **Article 4 — `காமராஜன் ஆட்கொண்ட தசரதராஜன்!`** in full. Read the complete strict-reviewed Tamil assembly before choosing the English title. Do not begin Article 5 until Article 4 has passed T2 and T3.
