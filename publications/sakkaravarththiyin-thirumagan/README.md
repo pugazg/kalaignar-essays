@@ -30,7 +30,7 @@ See [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
 
 A second, stricter review is being run in physical scan order. It reopens every page and checks each readable printed word, spacing-sensitive form, punctuation mark, quotation mark, number/date, heading and continuation directly against the scan.
 
-Current progress: **8 / 83 scans complete**.
+Current progress: **16 / 83 scans complete**.
 
 ### Batch 1 — scans 1–8
 
@@ -38,22 +38,23 @@ Current progress: **8 / 83 scans complete**.
 - scan 7: **CORRECTED** — source-visible `மற்றுமுள்ள` replaces earlier `மற்றும் உள்ள`
 - scan 8: **CORRECTED** — Article 12 contents entry is `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`
 
-Contents-page witness forms rechecked in scan 8 include:
+### Batch 2 — scans 9–16
 
-- `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`
-- `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`
-- `காரியமாகும் வரையில் காலைப் பிடி!`
-
-These remain independent of later heading-page variants.
+- scan 9: **CORRECTED (revalidated)** — `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`; `எப்படி பெய்ப்படி`
+- scan 10: **FIDELITY-PASS**
+- scans 11–12: **CORRECTED (revalidated)** — source spacing `கல் சாசனமோ`
+- scans 13–16: **FIDELITY-PASS**
+- Article 1 assembly was rechecked against the corrected page layer
+- scan 16 / Article 2 opening was rechecked against its assembly, including source-visible `(ஆகஸ்டு 154)`
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Next strict-review batch
 
-Proceed with **scans 9–16**:
+Proceed with **scans 17–24**:
 
-- scans 9–15 — Article 1 `சக்கரவர்த்தியின் திருமகன்`
-- scan 16 — Article 2 `தேகமும் உணர்வும்` begins
+- scans 17–21 — remainder of Article 2 `தேகமும் உணர்வும்`
+- scans 22–24 — opening three pages of Article 3 `சதி நிரூபிக்கப்படுகிறது`
 
 The publication remains **source-complete**, but the strict visual-text-fidelity gate remains **open** until scan 83 and all assemblies have been rechecked.
 
