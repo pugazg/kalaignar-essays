@@ -45,7 +45,11 @@
 - Article 10 assembled: [`articles/10-vishnu-avatharam-enbathum-ramanidam.md`](articles/10-vishnu-avatharam-enbathum-ramanidam.md)
 - Article 11 — **நடப்பதெல்லாம் நாராயணன் செயலா?**: scans **65–70**, printed pages **63–68**: **6 / 6 VERIFIED / source-complete**
 - Article 11 assembled: [`articles/11-nadappathellam-narayanan-seyala.md`](articles/11-nadappathellam-narayanan-seyala.md)
-- Scan **71** / printed page **69** directly begins Article 12 — **மாரீசனைத் துரத்திச் சென்ற ராமனிடம்**. This is the next transcription unit.
+- Article 12 — **மாரீசனைத் துரத்திச் சென்ற ராமனிடம்**: scans **71–73**, printed pages **69–71**: **3 / 3 VERIFIED / source-complete**
+- Article 12 assembled: [`articles/12-maarisanai-thuraththi-sendra-ramanidam.md`](articles/12-maarisanai-thuraththi-sendra-ramanidam.md)
+- Article 13 — **துரோகிகள் சந்திப்பு!**: scans **74–78**, printed pages **72–76**: **5 / 5 VERIFIED / source-complete**
+- Article 13 assembled: [`articles/13-thurogigal-santhippu.md`](articles/13-thurogigal-santhippu.md)
+- Scan **79** directly begins Article 14 — **காரியமாகும் வரையில் காலை பிடி!**. This is the next transcription unit.
 
 ### Article 5 heading variation inside the same source
 
