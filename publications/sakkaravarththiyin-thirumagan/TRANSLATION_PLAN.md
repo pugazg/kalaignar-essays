@@ -7,149 +7,82 @@ Target language: **English**
 
 Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_GUIDE.md)
 
-## 1. Translation objective
+## Objective
 
-Translate all **14 articles** into English while retaining Kalaignar's language as far as English allows: direct address, sarcasm, rhetorical questions, repetitions, abrupt turns, exclamations, polemical labels, imagery, wordplay, challenges to the reader, and argumentative rhythm.
+Translate all **14 articles** into readable English while retaining Kalaignar's direct address, sarcasm, rhetorical questions, repetition, exclamations, polemical labels, imagery, wordplay and argumentative rhythm. This is not a summary, adaptation or neutral academic rewrite.
 
-This is not a summary, adaptation, scholarly paraphrase or modern rewrite. The English should be understandable without becoming neutral, polite or academic at the cost of Kalaignar's voice.
+## Source prerequisite — PASSED
 
-## 2. Source prerequisite — PASSED
-
-- physical scans source-recorded: **83 / 83**
-- strict word-by-word visual fidelity: **83 / 83**
-- Tamil article assemblies: **14 / 14**
-- article assemblies strict-rechecked: **14 / 14**
+- physical scans: **83 / 83** source-recorded and strict-reviewed
+- Tamil article assemblies: **14 / 14** complete and strict-rechecked
 - unresolved `NEEDS-PIXEL-REVIEW`: **0**
 
-The immediate English translation source is the strict-reviewed Tamil article assembly in `articles/`.
+The immediate translation source is the strict-reviewed Tamil article assembly in `articles/`.
 
-## 3. Translation workspace
+## Article order and status
 
-English files live under `publications/sakkaravarththiyin-thirumagan/translations/en/` and mirror the Tamil article filenames.
-
-## 4. Article order and status
-
-Translate in printed/source order.
-
-| Article | Tamil title | Translation status |
+| # | Tamil title | Status |
 |---:|---|---|
-| 1 | சக்கரவர்த்தியின் திருமகன் | **`verified` — T0–T5 passed** |
-| 2 | தேகமும் உணர்வும் | **`verified` — T0–T5 passed** |
-| 3 | சதி நிரூபிக்கப்படுகிறது | **`verified` — T0–T5 passed** |
-| 4 | காமராஜன் ஆட்கொண்ட தசரதராஜன்! | **`verified` — T0–T5 passed** |
-| 5 | பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’? | **`verified` — T0–T5 passed** |
-| 6 | இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா? | **`verified` — T0–T5 passed** |
-| 7 | விபீஷணருக்கு விடை யளிப்போம்! | **`verified` — T0–T5 passed** |
-| 8 | நாடாண்ட மன்னன் நாதியற்று செத்தான் | `not-started` |
-| 9 | தந்தை மகனும் தருமம் தவறியவர்கள்! | `not-started` |
-| 10 | விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்! | `not-started` |
-| 11 | நடப்பதெல்லாம் நாராயணன் செயலா? | `not-started` |
-| 12 | மாரீசனைத் துரத்திச் சென்ற ராமனிடம் | `not-started` |
-| 13 | துரோகிகள் சந்திப்பு! | `not-started` |
-| 14 | காரியமாகும் வரையில் காலைப் பிடி ! | `not-started` |
+| 1 | சக்கரவர்த்தியின் திருமகன் | **verified — T0–T5** |
+| 2 | தேகமும் உணர்வும் | **verified — T0–T5** |
+| 3 | சதி நிரூபிக்கப்படுகிறது | **verified — T0–T5** |
+| 4 | காமராஜன் ஆட்கொண்ட தசரதராஜன்! | **verified — T0–T5** |
+| 5 | பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’? | **verified — T0–T5** |
+| 6 | இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா? | **verified — T0–T5** |
+| 7 | விபீஷணருக்கு விடை யளிப்போம்! | **verified — T0–T5** |
+| 8 | நாடாண்ட மன்னன் நாதியற்று செத்தான் | **verified — T0–T5** |
+| 9 | தந்தை மகனும் தருமம் தவறியவர்கள்! | not-started |
+| 10 | விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்! | not-started |
+| 11 | நடப்பதெல்லாம் நாராயணன் செயலா? | not-started |
+| 12 | மாரீசனைத் துரத்திச் சென்ற ராமனிடம் | not-started |
+| 13 | துரோகிகள் சந்திப்பு! | not-started |
+| 14 | காரியமாகும் வரையில் காலைப் பிடி ! | not-started |
 
-## 5. Work unit — one article at a time
+## Work unit — one article at a time
 
-For each article:
+For each article: fetch the current Tamil assembly and record its blob SHA; read the whole article before choosing the English title; complete T1 draft; run T2 bilingual fidelity, T3 Kalaignar voice and T4 terminology/source audit; record decisions in `LEXICON.md` and `TRANSLATION_REVIEW.md`; mark T5 verified only after all gates pass; update the single root `HANDOVER.md` before ending.
 
-1. fetch the current strict-reviewed Tamil assembly and record its blob SHA;
-2. read the complete Tamil article before finalising the English title;
-3. update difficult recurring terms in `translations/en/LEXICON.md`;
-4. complete T1 close translation;
-5. perform T2 bilingual fidelity review;
-6. perform T3 Kalaignar-voice review;
-7. perform T4 terminology / quotation / citation audit;
-8. record corrections in `TRANSLATION_REVIEW.md`;
-9. mark the article `verified` only after all gates pass;
-10. update the single root `HANDOVER.md` before ending the activity.
+## Publication-wide baseline
 
-## 6. Established baseline after Articles 1–7
+- `ஆச்சாரியார்` → **Achariyar**, with C. Rajagopalachari/Rajaji identification kept outside Kalaignar's body.
+- Preserve source-label switches such as Article 7 `இராஜாஜி` → **Rajaji**.
+- Do not soften insults, accusations, caste/religious/political labels or sexualised ridicule.
+- Do not silently identify unexplained source-specific forms from memory or outside knowledge.
+- Preserve meaningful source punctuation anomalies with notes instead of repairing them.
+- Embedded verse is translated only from the supplied Tamil witness plus Kalaignar's own explanation unless the user explicitly authorises an external translation.
 
-Publication-wide:
+## Baseline accumulated through Article 8
 
-- `ஆச்சாரியார்` → **Achariyar**, referent **C. Rajagopalachari (Rajaji)** identified only outside Kalaignar's body;
-- if Kalaignar himself changes the label, preserve it: Article 7 explicit `இராஜாஜி` → **Rajaji**;
-- `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where the Rajagopalachari/Chakravarthi wordplay is active;
-- `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**;
-- `ஆரியம்` → **Aryanism**;
-- `அரக்கர்`, `ராட்சசர்`, `தேவர்கள்` remain distinct as **demons, Rakshasas, Devas**;
-- commands, repetition, sarcasm, accusations, source-supported wordplay and rhetorical questions are not academicised.
+Articles 1–7 establish **Chakravarthi's Son**, body/feeling terminology, plot/conspiracy, **Kama-Raja**, **Bharadvaja / Bar**, Kambar-sense translation restraint, **Mooli-Alangari / Brahmin Vambar**, **Vibhishana / Sivagnanam**, and all detailed terminology recorded in the lexicon.
 
-Articles 2–6 additionally established the body/feeling vocabulary, **plot / conspiracy**, burden-of-rule language, **Kama-Raja / Raja** wordplay, the `அப்பாவி` / `அப்-பாவி` pun, **Bharadvaja / Bar**, restrained Kambar verse handling, **Mooli-Alangari / Brahmin Vambar**, and the Article 6 **splint / walk-on-their-feet** rules.
+Article 8 establishes:
 
-Article 7 additionally establishes:
+- title → **The King Who Ruled the Land Died with No One to Tend Him**;
+- `நாதியற்று / நாதியில்லாமல்` → **with no one to tend him**, preserving title/body echo;
+- source-visible `தாம் பத்தினி` handled contextually as **devoted wife** with source note;
+- scan-52 unmatched opening quotation explicitly documented;
+- source-bearing **Sayantan / paakkai / Suta-Magadhars**;
+- repeated **ability to master his senses** sarcasm;
+- **intoxication of lust / bodily pleasure**;
+- source-visible **tail** image and final **sacred-thread king Achariyar**.
 
-- title → **Let Us Answer Vibhishana!**;
-- `விபீஷணர்` / `விபீஷணத் தன்மை` / `விபீஷணக் கொள்கை` → **Vibhishana / Vibhishana-ness / Vibhishana doctrine**;
-- `சிவஞானம்` / mocking plural `சிவஞானங்கள்` → **Sivagnanam / Sivagnanams** without external identification;
-- `முப்புரி` → **muppuri, the three-stranded sacred thread**;
-- unexplained `தண்ட கண்ட`, `இனித்தவாயன்`, `ஆர்குஸிஸ்` → **thanda-kanda / Inithavayan / Argusis** as source-bearing forms;
-- `வாலேந்திகள்` → **tail-bearers**;
-- `ஏகபத்தினி விரதம்` → **vow of one wife**; `ஆண் கற்பு` → **male chastity**;
-- `நிறவெறிப் பேயாட்டம்` → **demonic frenzy of colour-hatred**;
-- `வடநாட்டுக்கு காவடி தூக்கும்` → **carrying kavadi for the North**;
-- the scan-48 source difficulty `கற்பு நிலையைப் பாதிக்கும்` is documented rather than silently normalised.
-
-Detailed decisions and review corrections are in `translations/en/LEXICON.md` and `translations/en/TRANSLATION_REVIEW.md`.
-
-## 7. Retaining Kalaignar's voice — publication-specific priorities
-
-### Direct reader-address
-Tamil imperatives such as `படியுங்கள்!`, `பாருங்கள்!`, and `கேளுங்கள்!` remain direct English imperatives.
-
-### Repetition
-Keep repeated words and phrases when they mock, hammer home or intensify a point.
-
-### Sarcasm, ridicule and wordplay
-Where the Tamil is mocking or punning, the English must retain that function where possible. If an English rendering alone cannot carry the wordplay, preserve the source-bearing form and use a clearly separated translator note rather than rewriting Kalaignar's body.
-
-### Epithets and source label changes
-`ஆச்சாரியார்` is frozen as **Achariyar** unless the Tamil itself changes label. If the source itself uses `இராஜாஜி`, preserve **Rajaji** rather than harmonising it back to Achariyar.
-
-### Ideological vocabulary
-Preserve historically and polemically loaded terms rather than generalising them.
-
-### Quotations and verse
-Translate quoted material from Kalaignar's Tamil witness, preserving dates/citations and source anomalies. For embedded classical verse, do not import a published English translation unless explicitly authorised; translate only what the Tamil witness and Kalaignar's own explanation support, and document interpretive limits where needed.
-
-### Strong language
-Do not soften insults, accusations or loaded comparisons for modern politeness.
-
-## 8. Titles
-
-Do not pre-translate later titles mechanically. Choose each English title only after reading the complete article so wordplay, irony and argument can inform the rendering.
-
-## 9. Page traceability
-
-Each English file retains comments corresponding to Tamil source page boundaries.
-
-## 10. Publication-level final consistency pass
-
-After Articles 1–14 are individually verified, perform a complete cross-article review for names/epithets, ideological terminology, repeated rhetoric, publication references, epic-name spelling, quotations, embedded verse, title style, tone, wordplay, translator notes, source-page comments and completeness.
-
-The final gate must specifically recheck the publication-wide **Achariyar** rule while preserving explicit source label switches such as **Rajaji**; Article 4 **Kama-Raja / Raja** and `அப்பாவி` / `அப்-பாவி`; Article 5 **Bharadvaja / Bar** and Kambar verse handling; Article 6 **Mooli-Alangari / Brahmin Vambar / splint / walk-on-their-feet**; and Article 7 **Vibhishana / Sivagnanam / source-bearing terms / scan-48 note**.
-
-Only after this may the publication status become **English translation complete**.
-
-## 11. Planned phase sequence
+## Phase sequence
 
 - **E0 setup:** COMPLETE
 - **E1 Article 1 calibration:** COMPLETE
 - **E2 Articles 2–4:** COMPLETE
-- **E3 Articles 5–8:** **ACTIVE — Articles 5–7 complete; Article 8 next**
-- **E4 Articles 9–11:** pending
+- **E3 Articles 5–8:** **COMPLETE**
+- **E4 Articles 9–11:** **ACTIVE — Article 9 next**
 - **E5 Articles 12–14:** pending
 - **E6 publication consistency review:** pending
 - **E7 English release closeout:** pending
 
-## 12. Current progress
+## Current progress
 
-- English article drafts: **7 / 14**
-- English articles verified: **7 / 14**
+- English article drafts: **8 / 14**
+- English articles verified: **8 / 14**
 - final cross-article review: **not started**
 
-## 13. Exact next translation activity
+## Exact next translation activity
 
-Proceed with **Article 8 — `நாடாண்ட மன்னன் நாதியற்று செத்தான்`**.
-
-Fetch and read its complete current strict-reviewed Tamil assembly, record its blob SHA as T0, choose the English title only after reading the whole article, then complete T1–T5 and update the lexicon, review ledger, tracker, plan, READMEs and single root `HANDOVER.md` before Article 9 begins.
+Proceed with **Article 9 — `தந்தை மகனும் தருமம் தவறியவர்கள்!`**. Fetch and read its complete current strict-reviewed Tamil assembly, record the fresh blob SHA as T0, choose the English title only after reading the full argument, complete T1–T5, then update the lexicon, review ledger, tracker, READMEs and root `HANDOVER.md` before Article 10 begins.
