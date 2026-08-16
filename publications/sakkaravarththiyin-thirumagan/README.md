@@ -22,35 +22,16 @@
 
 ## Strict visual-text-fidelity review — PASSED
 
-Every readable printed word, spacing-sensitive form, punctuation mark, quotation, number/date, heading and continuation has been rechecked directly against the controlling scan in physical-page order.
-
 - physical scans strict-rechecked: **83 / 83**
 - article assemblies strict-rechecked: **14 / 14**
 - unresolved pixel-review items: **0**
-
-### Final source batch — scans 81–83
-
-- scan **81 / printed p.79** — **FIDELITY-PASS**; the quotation begun on scan 80 closes with `காதில் ஏறவில்லை”`; all three dated citations and source-sensitive forms agree.
-- scan **82 / printed p.80** — **CORRECTED**; source reads **`என்று வர்ணிக்கிறான் சுக்ரீவனைப் பற்றி!`**, not the earlier `வர்ணிக்கிறார்`. The correction is propagated into Article 14. The printed ornament closes Article 14; the lower `விடுதலை` advertisement and handwriting/accession marks remain outside the article.
-- scan **83** — **FIDELITY-PASS** as a separate back-cover witness. Its promotional Article 12 excerpt, barcode `9997720145467`, and `நன்கொடை: ரூ.50/-` agree with the scan and are not copied back into Article 12 body text.
-
-Article 14 — scans **79–82 / printed pp.77–80** — is fully strict-rechecked.
-
-### Article 14 title witnesses
-
-- contents page: **`காரியமாகும் வரையில் காலைப் பிடி!`**
-- scan-79 heading page: **`காரியமாகும் வரையில் காலைப் பிடி !`**
-
-The source-visible punctuation-spacing difference is preserved rather than harmonized.
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).  
 Completion certificate: [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
 
 ## English translation phase — ACTIVE
 
-All **14 articles** are now scheduled for English translation.
-
-The English layer is an archival companion, not a neutral rewrite. It must retain Kalaignar's direct address, repetition, irony, sarcasm, rhetorical questions, exclamations, polemical vocabulary, imagery and argumentative force.
+All **14 articles** are scheduled for English translation. The English layer is an archival companion, not a neutral rewrite. It must retain Kalaignar's direct address, repetition, irony, sarcasm, rhetorical questions, exclamations, polemical vocabulary, imagery and argumentative force.
 
 Translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_GUIDE.md)  
 Publication plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)  
@@ -61,12 +42,34 @@ Review ledger: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLA
 Current translation status:
 
 - Tamil translation prerequisite: **PASSED**
-- English drafts complete: **0 / 14**
-- English articles verified: **0 / 14**
+- English drafts complete: **1 / 14**
+- English articles verified: **1 / 14**
 - final 14-article consistency review: **not started**
 - English release gate: **OPEN**
 
-The exact next activity is the complete translation and review of **Article 1 — `சக்கரவர்த்தியின் திருமகன்`** as the calibration article. Article 2 must not begin until Article 1 has passed the bilingual fidelity and Kalaignar-voice reviews.
+### Article 1 — COMPLETE / VERIFIED
+
+Tamil: **`சக்கரவர்த்தியின் திருமகன்`**  
+English: **`Chakravarthi's Son`**  
+File: [`translations/en/01-sakkaravarththiyin-thirumagan.md`](translations/en/01-sakkaravarththiyin-thirumagan.md)
+
+Article 1 passed **T0–T5** and now supplies the initial translation baseline.
+
+Key decisions:
+
+- `ஆச்சாரியார்` → **Acharya**; referent **C. Rajagopalachari (Rajaji)** is identified outside Kalaignar's body text.
+- `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where Kalaignar's Rajagopalachari/Chakravarthi wordplay is active.
+- title → **Chakravarthi's Son**, retaining that wordplay rather than flattening it to `The Emperor's Son`.
+- `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**; `ஆரியம்` → **Aryanism**.
+- `அரக்கர்`, `ராட்சசர்`, `தேவர்கள்` remain distinct as **demons, Rakshasas, Devas**.
+- direct `Read!` / `Look!`, repetition, rhetorical questions, sarcasm and harsh polemical language are retained.
+- the source-irregular open quotation on scan 12 is documented in the English file rather than silently repaired.
+
+Detailed T2–T4 corrections and decisions are in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
+
+## Exact next activity
+
+Proceed with complete translation and review of **Article 2 — `தேகமும் உணர்வும்`**. Fetch its current strict-reviewed Tamil assembly, record the blob SHA, read the whole article before choosing the English title, then complete T1–T5 before Article 3 begins.
 
 ## Files
 
