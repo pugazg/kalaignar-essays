@@ -1,22 +1,24 @@
 # English Translation — சக்கரவர்த்தியின் திருமகன்
 
 Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TRANSLATION_GUIDE.md)  
-Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
+Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)  
+Release report: [`RELEASE_REPORT.md`](RELEASE_REPORT.md)
 
 > Translate Kalaignar into English without translating Kalaignar out of the prose.
 
-## Current status
+## Final status
 
-- Tamil source/fidelity prerequisite: **PASSED**
+- Tamil source/fidelity prerequisite: **PASSED / FROZEN**
 - English drafts complete: **14 / 14**
 - English translations T2 fidelity-reviewed: **14 / 14**
 - English translations T3 voice-reviewed: **14 / 14**
 - English translations T4 audited: **14 / 14**
 - English translations T5 verified: **14 / 14**
 - publication-level English consistency review: **E6 PASSED**
+- English release closeout: **E7 PASSED / COMPLETE**
 - unresolved translation questions: **0**
 - English translation: **COMPLETE**
-- English release status: **OPEN — E7 CLOSEOUT NEXT**
+- English release status: **RELEASED — GATE CLOSED**
 
 ## Article tracker
 
@@ -47,21 +49,24 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 ## E6 cross-article consistency result
 
-**PASSED.** All 14 current English files were fetched fresh from `main` and reviewed against [`LEXICON.md`](LEXICON.md), [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md), the translation plan and the authoritative handover.
+**PASSED.** All 14 current English files were reviewed together against [`LEXICON.md`](LEXICON.md), [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md), the translation plan and the authoritative handover. No Article 1–14 body edit was required during E6.
 
-Confirmed across the complete set:
+Intentional source-sensitive differences remain, including Article 6 **Kakapattar** versus Article 11 **Kaga Pattar**, and Article 2 **Ramachandramurti** versus Article 14 **Ramachandra Murti**.
 
-- publication-wide **Achariyar**, with Article 7 **Rajaji** and Article 11 **the Achariyars** preserved;
-- recurring epic names and ideological vocabulary remain consistent;
-- title/body wordplay and echoes remain intact, especially Articles 4, 5, 8, 13 and 14;
-- all commands, rhetorical questions, repetition, insults and polemical force remain unsmoothed;
-- all source-bearing forms and documented source anomalies remain recorded;
-- all source dates, *Kalki* references and page-boundary comments remain present;
-- Article 12 scan-83 promotional witness remains separate from its body; Article 14 scan-82 *Viduthalai* advertisement remains outside its body.
+## E7 release closeout result
 
-Two apparent spelling differences were checked against the frozen Tamil and intentionally retained: Article 6 `காகபட்டர்` → **Kakapattar**, while Article 11 `காக பட்டர்` → **Kaga Pattar**; Article 2 `ராமச்சந்திரமூர்த்தி` → **Ramachandramurti**, while Article 14 `இராமசந்திர மூர்த்தி` → **Ramachandra Murti**.
+**PASSED.** E7 re-fetched the release-facing state from `main` and verified:
 
-**No Article 1–14 body edit was required during E6.** See [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) for the full E6 provenance and reviewed blob SHAs.
+- all 14 English files and links exist;
+- all 14 front matters remain `translation_status: "verified"`;
+- all 14 `source_tamil_blob_sha` values match the current frozen Tamil article blobs;
+- **14 / 14 T5**, **E6 PASSED**, **0 unresolved** are consistent across plan/tracker/review records;
+- no source PDF is present in the repository tree;
+- Article 5/10/14 source-witness distinctions, scan-83 Article 12 promotional witness separation and scan-82 Article 14/advertisement boundary remain documented;
+- no E7 body edit was required;
+- release blockers: **0**.
+
+The full E7 provenance and article/blob matrix are in [`RELEASE_REPORT.md`](RELEASE_REPORT.md).
 
 ## Gate legend
 
@@ -74,6 +79,8 @@ Two apparent spelling differences were checked against the frozen Tamil and inte
 - **E6** — publication-level cross-article English consistency review
 - **E7** — English release closeout
 
-## Exact next activity
+## Exact next normal activity
 
-Proceed with **E7 — English release closeout**. Verify release-facing repository state, links and status documents; create/update the release-closeout record required by the workflow; close the English release gate only if no release blocker remains.
+This English workspace is frozen and released. Do not reopen verified prose for stylistic polish. Reopen only for a genuine source-supported defect.
+
+When the next Kalaignar essay/article source PDF is supplied, begin **P0 — source intake / publication identification** under [`../../../../docs/FUTURE_WORK_GUIDELINES.md`](../../../../docs/FUTURE_WORK_GUIDELINES.md) and update the single root [`../../../../HANDOVER.md`](../../../../HANDOVER.md).
