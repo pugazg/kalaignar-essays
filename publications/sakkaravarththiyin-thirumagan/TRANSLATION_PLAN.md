@@ -9,7 +9,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 
 ## 1. Translation objective
 
-Translate all **14 articles** into English while retaining Kalaignar's language as far as English allows: direct address, sarcasm, rhetorical questions, repetitions, abrupt turns, exclamations, polemical labels, imagery, challenges to the reader, and argumentative rhythm.
+Translate all **14 articles** into English while retaining Kalaignar's language as far as English allows: direct address, sarcasm, rhetorical questions, repetitions, abrupt turns, exclamations, polemical labels, imagery, wordplay, challenges to the reader, and argumentative rhythm.
 
 This is not a summary, adaptation, scholarly paraphrase or modern rewrite. The English should be understandable without becoming neutral, polite or academic at the cost of Kalaignar's voice.
 
@@ -36,7 +36,7 @@ Translate in printed/source order.
 | 1 | சக்கரவர்த்தியின் திருமகன் | **`verified` — T0–T5 passed** |
 | 2 | தேகமும் உணர்வும் | **`verified` — T0–T5 passed** |
 | 3 | சதி நிரூபிக்கப்படுகிறது | **`verified` — T0–T5 passed** |
-| 4 | காமராஜன் ஆட்கொண்ட தசரதராஜன்! | `not-started` |
+| 4 | காமராஜன் ஆட்கொண்ட தசரதராஜன்! | **`verified` — T0–T5 passed** |
 | 5 | பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’? | `not-started` |
 | 6 | இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா? | `not-started` |
 | 7 | விபீஷணருக்கு விடை யளிப்போம்! | `not-started` |
@@ -63,7 +63,7 @@ For each article:
 9. mark the article `verified` only after all gates pass;
 10. update the single root `HANDOVER.md` before ending the activity.
 
-## 6. Established baseline after Articles 1–3
+## 6. Established baseline after Articles 1–4
 
 Publication-wide:
 
@@ -72,25 +72,21 @@ Publication-wide:
 - `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**;
 - `ஆரியம்` → **Aryanism**;
 - `அரக்கர்`, `ராட்சசர்`, `தேவர்கள்` remain distinct as **demons, Rakshasas, Devas**;
-- commands, repetition, sarcasm, accusations and rhetorical questions are not academicised.
+- commands, repetition, sarcasm, accusations, wordplay and rhetorical questions are not academicised.
 
-Article 2 additionally established:
+Article 2 additionally established **Body and Feeling**, body / feeling, body of flesh, anger and passion, Bhagavan / Ishvari, and plot / conspiracy.
 
-- `தேகமும் உணர்வும்` → **Body and Feeling**;
-- `தேகம்` / `உணர்வு` → **body / feeling**;
-- `ஊனுடல்` → **body of flesh**;
-- `கோபதாபம்` → **anger and passion**;
-- `பகவான்` / `ஈஸ்வரி` → **Bhagavan / Ishvari**;
-- `சூழ்ச்சி` / `சதி` → **plot / conspiracy** where the Tamil distinguishes them.
+Article 3 additionally established **The Conspiracy Is Proven**, burden of the kingdom / burden of rule, office of Crown Prince, `கல்மஷம்` → **taint**, and `கொல்லைப்புறமாக...` → **through the back door**.
 
-Article 3 additionally established:
+Article 4 additionally established:
 
-- title `சதி நிரூபிக்கப்படுகிறது` → **The Conspiracy Is Proven**;
-- `ராஜ்ய பாரம்` / `ராஜ்யபாரம்` → **burden of the kingdom / burden of rule** according to context;
-- `யுவராஜப் பதவி` / `யுவராஜ்யப் பதவி` → **office of Crown Prince**;
-- `கல்மஷம்` → **taint**, retaining the later sarcastic echo;
-- `கொல்லைப்புறமாக மந்திரி சபைக்கு வந்தவர்` → **came into the Council of Ministers through the back door**;
-- the final `நாமென்ன; மூளையுள்ளவர் அனைவருமே...` remains direct as **`Why only us? Everyone with a brain will come to exactly that conclusion.`**
+- title `காமராஜன் ஆட்கொண்ட தசரதராஜன்!` → **Dasaratha Raja in the Grip of Kama-Raja!**;
+- `காமராஜன்` → **Kama-Raja**, preserving the source wordplay rather than reducing it to `lust`;
+- `போகம்` → **sensual pleasure** in the article's sexualised ridicule;
+- `பிரகிருதி வேகம்` → **physical urge**; `காதல் வேகம்` → **surge of passion**; `காம மோகம்` → **lustful infatuation**;
+- repeated `கிழவர்` ridicule remains age-marked in English;
+- `அப்பாவி` / `அப்-பாவி` is preserved through **innocent / “Ah—sinner!”** with a separate translator note;
+- final **Kama-Raja / old Raja** verbal play remains visible.
 
 Detailed decisions and review corrections are in `translations/en/LEXICON.md` and `translations/en/TRANSLATION_REVIEW.md`.
 
@@ -102,8 +98,8 @@ Tamil imperatives such as `படியுங்கள்!`, `பாருங்
 ### Repetition
 Keep repeated words and phrases when they mock, hammer home or intensify a point.
 
-### Sarcasm and ridicule
-Where the Tamil is mocking, the English must also be recognisably mocking.
+### Sarcasm, ridicule and wordplay
+Where the Tamil is mocking or punning, the English must retain that function where possible. If an English rendering alone cannot carry the wordplay, preserve the source-bearing form and use a clearly separated translator note rather than rewriting Kalaignar's body.
 
 ### Epithets
 `ஆச்சாரியார்` is frozen as **Achariyar** unless the Tamil itself changes label. Do not substitute `Rajaji` into the translated body.
@@ -123,13 +119,13 @@ Do not pre-translate later titles mechanically. Choose each English title only a
 
 ## 9. Page traceability
 
-Each English file retains comments corresponding to Tamil source page boundaries, e.g. `<!-- Tamil source: scan 22 / printed 20 -->`.
+Each English file retains comments corresponding to Tamil source page boundaries.
 
 ## 10. Publication-level final consistency pass
 
-After Articles 1–14 are individually verified, perform a complete cross-article review for names/epithets, ideological terminology, repeated rhetoric, publication references, epic-name spelling, quotations, title style, tone, source-page comments and completeness.
+After Articles 1–14 are individually verified, perform a complete cross-article review for names/epithets, ideological terminology, repeated rhetoric, publication references, epic-name spelling, quotations, title style, tone, wordplay, translator notes, source-page comments and completeness.
 
-The final gate must specifically confirm that every translated occurrence of `ஆச்சாரியார்` uses **Achariyar** unless the Tamil source changes label.
+The final gate must specifically confirm that every translated occurrence of `ஆச்சாரியார்` uses **Achariyar** unless the Tamil source changes label, and that Article 4's **Kama-Raja / Raja** and `அப்பாவி` / `அப்-பாவி` wordplay has not been flattened.
 
 Only after this may the publication status become **English translation complete**.
 
@@ -137,8 +133,8 @@ Only after this may the publication status become **English translation complete
 
 - **E0 setup:** COMPLETE
 - **E1 Article 1 calibration:** COMPLETE
-- **E2 Articles 2–4:** ACTIVE — Articles 2 and 3 complete; Article 4 next
-- **E3 Articles 5–8:** pending
+- **E2 Articles 2–4:** **COMPLETE**
+- **E3 Articles 5–8:** **ACTIVE — Article 5 next**
 - **E4 Articles 9–11:** pending
 - **E5 Articles 12–14:** pending
 - **E6 publication consistency review:** pending
@@ -146,12 +142,12 @@ Only after this may the publication status become **English translation complete
 
 ## 12. Current progress
 
-- English article drafts: **3 / 14**
-- English articles verified: **3 / 14**
+- English article drafts: **4 / 14**
+- English articles verified: **4 / 14**
 - final cross-article review: **not started**
 
 ## 13. Exact next translation activity
 
-Proceed with **Article 4 — `காமராஜன் ஆட்கொண்ட தசரதராஜன்!`**.
+Proceed with **Article 5 — `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**.
 
-Fetch and read its complete current strict-reviewed Tamil assembly, record its blob SHA as T0, choose the English title only after reading the whole article, translate it completely with source page-boundary comments, apply the established **Achariyar** rule where the source uses `ஆச்சாரியார்`, then run T2–T4 and update the lexicon, review ledger, tracker, plan, READMEs and single root `HANDOVER.md` before Article 5 begins.
+Fetch and read its complete current strict-reviewed Tamil assembly, record its blob SHA as T0, and do not mechanically normalise the title: the source has a known contents/heading witness distinction (`பரத்துவாஜர்... பாரீஸ்...` in contents versus `பரத்துவாஜா... பாரிஸ்...` in the article heading). Choose the English title only after reading the whole article, then complete T1–T5 and update all trackers plus the single root `HANDOVER.md` before Article 6 begins.
