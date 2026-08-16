@@ -30,36 +30,31 @@ See [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
 
 Every readable printed word, spacing-sensitive form, punctuation mark, quotation, number/date, heading and continuation is being rechecked directly against the scan in physical-page order.
 
-Current progress: **32 / 83 scans complete**.
+Current progress: **40 / 83 scans complete**.
 
 ### Completed batches
 
-- **1–8:** complete; scan 7 corrected to `மற்றுமுள்ள`; scan 8 Article 12 contents corrected to `மாரீசனைத்...`
-- **9–16:** complete; revalidated `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`, `எப்படி பெய்ப்படி`, and `கல் சாசனமோ`
-- **17–24:** **8 / 8 FIDELITY-PASS**, no new discrepancy
-- **25–32:** **8 / 8 FIDELITY-PASS**, no new discrepancy
+- **1–8:** complete; source corrections recorded
+- **9–16:** complete; source corrections/revalidations recorded
+- **17–24:** complete; no new discrepancy
+- **25–32:** complete; no new discrepancy
+- **33–40:** complete; no new discrepancy, with earlier source-layer corrections revalidated on scans 33–36
 
-### Batch 4 closeout — scans 25–32
+### Batch 5 closeout — scans 33–40
 
-- scan 25 closes Article 3 and agrees with the page/assembly layer
-- scans 26–29 cover all of Article 4 and agree word-for-word with its assembly
-- scans 30–32 begin Article 5 and agree with its assembly
-- Article 3 is now fully strict-rechecked
-- Article 4 is now fully strict-rechecked
-- Article 5 remains partially strict-rechecked through printed p.30
-
-Reconfirmed source-sensitive forms include `வாக்குச்சொல்லி`, `வாத்தியகோஷம்`, `கைகேயிக்குக்கூட`, `கவுசல்யைக்கு`, `கேகேயனுக்குத்தந்துள்ள`, `கைகேயி ஆண்மனைக்கு`, `கண்டெடுத்தும்`, `அப்-பாவி`, `இப்படி யெல்லாம்`, `கிழ ராஜனை`, and the Article 5 heading-page witness `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`.
-
-The Kamba verse on scan 32 and source punctuation such as `பெண்களும்.` were preserved without normalization.
+- scans **33–37** complete Article 5; Article 5 is now fully strict-rechecked
+- revalidated source forms/corrections include `பரத்துவாஜ...`, `போடுகிறவன் போட்டாலும்`, `சீறிப் பாய்ந்தார்கள்`, `ஸ்நானாதி`, `நிருத்தியம்`, and the closing reprise's own line-breaking
+- scans **38–40** begin Article 6 and agree with the assembly, including `அத்தகைய வாசகத்தை வீசுகிறாள்`, `மூலி அலங்காரி`, `பிராமணவம்பரோ`, `பாஸ்பவாரி பரிபூரண லோசனத்துடன்`, `கிழராஜனையும்`, and `ராமபிரபு`
+- the open quotation across scans 39–40 remains unrepaired because the scan itself supplies no visible closing mark after `இதுவே.`
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Next strict-review batch
 
-Proceed with **scans 33–40**:
+Proceed with **scans 41–48**:
 
-- scans **33–37** — remainder of Article 5
-- scans **38–40** — first three pages of Article 6 `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`
+- scans **41–42** — conclude Article 6
+- scans **43–48** — Article 7 `விபீஷணருக்கு விடை யளிப்போம்!` through printed p.46
 
 The publication remains source-complete, but the strict visual-text-fidelity gate remains open until scan 83 and all assemblies have been rechecked.
 
