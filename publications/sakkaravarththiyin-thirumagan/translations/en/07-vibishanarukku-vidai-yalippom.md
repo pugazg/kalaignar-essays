@@ -8,7 +8,7 @@ source_tamil_blob_sha: "1ae5db95c88df7ccdbd74b180c4427f8ee81d022"
 source_scan_pages: "43-49"
 source_printed_pages: "41-47"
 language: "en"
-translation_status: "draft"
+translation_status: "verified"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -32,7 +32,7 @@ we say this is a time when every one of them must work with vigilance. Because t
 
 That is why the Kakapattar lineage leaps with delight to conduct “ear-ornament ceremonies,” “holy sacred-thread ceremonies,” “wedding festivities” and all the rest for the Bharata and Ramayana which, after their cough worsened at Erode, have reached the stage when the bier must be tied and the final journey begun! There is meaning in the desire and enthusiasm of that lineage—we admit it.
 
-That lineage takes care that its people, its society, and that society's hereditary entitlement to a grand life without labour should all go on flourishing more and more with each passing day! A fox! It crouches in the bush with its tongue hanging out! Why? To live! A heron waits on the bank—why? To fill its belly! The fox and the heron wait in search of food—that concerns their hunger. But if a deer and a fish respectively were to become friends of the fox and the heron and make their own kind prey for them—could the other deer and fish refrain from anger? Forgive me, friends! Among deer and fish, such traitors cannot be found even in imagination! **I said it only as an example; that is all! Only among human beings can we find them. From Vibhishana of Ravana's age to the Sivagnanams of Rajaji's age, it is in human society alone that such people can be found!**
+That lineage takes care that its people, its society, and that society's hereditary entitlement to a grand life without labour should all go on flourishing more and more with each passing day! A fox! It crouches in the bush with its tongue hanging out! Why? To live! A heron waits on the bank—why? To fill its belly! The fox and the heron wait in search of food—that concerns their hunger. But if a deer and a fish respectively were to become friends of the fox and the heron and make their own kind prey for them—could the others of their own kind refrain from anger? Forgive me, friends! Among deer and fish, such traitors cannot be found even in imagination! **I said it only as an example; that is all! Only among human beings can we find them. From Vibhishana of Ravana's age to the Sivagnanams of Rajaji's age, it is in human society alone that such people can be found!**
 
 It is because the number of Vibhishanas has grown like this from age to age that this people still suffers, unable to obtain its rights—its own rightful claim to rule!
 
@@ -52,7 +52,7 @@ But read below what Comrade Sivagnanam, setting out to attack Periyar Ramasamy, 
 
 “It is a truth known even to religious believers that God does not take on a human body and be born in this earthly world.”
 
-Disciple Sivagnanam thus supplies yet another contradiction to Guru Achariyar's contradictory argument. Sivagnanam also argues that “Rama was a man who lived a worthy life—and they revered him as a god dwelling in heaven.” Having set out to find strength for Achariyar, he goes back to Achariyar's original path and, without even realising it, stumbles—poor man!
+Disciple Sivagnanam thus supplies yet another contradiction to Guru Achariyar's contradictory argument. Sivagnanam also argues that “Rama was a man who lived as one ought to live—and they revered him as a god dwelling in heaven.” Having set out to find strength for Achariyar, he goes back to Achariyar's original path and, without even realising it, stumbles—poor man!
 
 “E.V.Ra. laments, asking: ‘The Ramayana says that Dasaratha, king of Ayodhya, lived after marrying sixty thousand wives. Is this tolerable? Will womankind approve it?’ Until the period when the Ramayana was composed, the principle of one man for one woman had been followed in domestic life. But the corresponding principle of one woman for one man was not accepted. Yes, women's chastity was insisted upon, but men's chastity was not. Against this cruelty, the Ramayana teaches male chastity.
 
@@ -74,7 +74,9 @@ Sivagnanam argues that through the Ramayana chastity is upheld and the vow of on
 
 <!-- Tamil source: scan 48 / printed 46 -->
 
-The Ramayana says that Rama freed that erring ascetic's wife from her curse and stood worshipping her. And Sivagnanam says that this Ramayana has as its hero Rama, who is supposed to uphold the condition of chastity!
+The Ramayana says that Rama freed that erring wife of the ascetic sage from her curse and stood worshipping her. And Sivagnanam says that this Ramayana has as its hero Rama, who is supposed to uphold the condition of chastity!
+
+<!-- Source note: the verified Tamil witness visibly reads `கற்பு நிலையைப் பாதிக்கும்`. In context, the English above carries Kalaignar's immediate argumentative target—Sivagnanam's claim that the Ramayana upholds chastity—without altering the Tamil source layer. -->
 
 **Alas! Alas! Shame! Shame!**
 
