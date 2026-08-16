@@ -60,7 +60,7 @@ Translate in printed/source order.
 
 | Article | Tamil title | Tamil source | Translation status |
 |---:|---|---|---|
-| 1 | சக்கரவர்த்தியின் திருமகன் | `articles/01-sakkaravarththiyin-thirumagan.md` | **`verified` — T0–T5 passed; post-T5 transliteration revised to `Achariyar`** |
+| 1 | சக்கரவர்த்தியின் திருமகன் | `articles/01-sakkaravarththiyin-thirumagan.md` | **`verified` — T0–T5 passed** |
 | 2 | தேகமும் உணர்வும் | `articles/02-thegamum-unarvum.md` | **`verified` — T0–T5 passed** |
 | 3 | சதி நிரூபிக்கப்படுகிறது | `articles/03-sathi-nirupikkappadugirathu.md` | `not-started` |
 | 4 | காமராஜன் ஆட்கொண்ட தசரதராஜன்! | `articles/04-kamarajan-aadkonda-dasaratharajan.md` | `not-started` |
@@ -92,16 +92,19 @@ For each article:
 
 ## 6. Calibration and early baseline — Articles 1–2 COMPLETE
 
-Article 1 established the initial publication voice baseline, with a later user-directed spelling correction:
+Article 1 established the initial publication-wide voice baseline. Article 2 extended it. The user has now explicitly settled the recurring transliteration of `ஆச்சாரியார்` across the publication.
 
-- `ஆச்சாரியார்` → **Achariyar in Article 1**, by explicit user instruction after T5; referent **C. Rajagopalachari (Rajaji)** remains identified outside Kalaignar's body text.
+Publication-wide decisions:
+
+- `ஆச்சாரியார்` → **Achariyar**; referent **C. Rajagopalachari (Rajaji)** is identified outside Kalaignar's body text.
 - `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where the Rajagopalachari/Chakravarthi wordplay is active.
 - Article 1 title → **Chakravarthi's Son**.
 - `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**.
 - `ஆரியம்` → **Aryanism**.
 - `அரக்கர்`, `ராட்சசர்`, `தேவர்கள்` remain distinct as **demons, Rakshasas, Devas**.
+- direct commands, repetition, sarcasm, accusations and rhetorical questions are preserved rather than academicised.
 
-Article 2 added an important body/feeling and conspiracy vocabulary baseline:
+Article 2 additionally established:
 
 - title `தேகமும் உணர்வும்` → **Body and Feeling**;
 - `தேகம்` / `உணர்வு` → **body / feeling**;
@@ -111,8 +114,6 @@ Article 2 added an important body/feeling and conspiracy vocabulary baseline:
 - `சூழ்ச்சி` / `சதி` → **plot / conspiracy** where the Tamil distinguishes them;
 - source-irregular `(ஆகஸ்டு 154)` remains **`(August 154)`** with an explicit source note;
 - unmatched quotation openings on scans 18 and 20 remain documented rather than repaired.
-
-Article 2 currently still uses the earlier **Acharya** spelling. Because the user named Article 1 specifically, that difference is intentionally documented rather than silently harmonised.
 
 Detailed decisions and review corrections are in `translations/en/LEXICON.md` and `translations/en/TRANSLATION_REVIEW.md`.
 
@@ -130,15 +131,9 @@ If Kalaignar repeats a word to mock, hammer home or intensify a point, keep the 
 
 Where the Tamil is mocking, the English should also be recognisably mocking.
 
-### Epithets / `ஆச்சாரியார்`
+### Epithets
 
-The referent is C. Rajagopalachari (Rajaji), but the personal name is not mechanically substituted into Kalaignar's body.
-
-Current transliteration state:
-
-- **Article 1:** `Achariyar` — explicit user preference; supersedes earlier `Acharya` there.
-- **Article 2:** `Acharya` — earlier verified form, not altered by the Article-1-specific instruction.
-- **Articles 3–14:** do not assume a publication-wide spelling is frozen; follow the latest user direction and record the choice.
+`ஆச்சாரியார்` is frozen as **Achariyar** for this publication unless the Tamil itself changes label. The referent is C. Rajagopalachari (Rajaji), but the personal name is not mechanically substituted into Kalaignar's body.
 
 ### Ideological vocabulary
 
@@ -168,19 +163,19 @@ Each English body retains comments corresponding to Tamil source page boundaries
 
 ## 10. Translation review record
 
-`translations/en/TRANSLATION_REVIEW.md` records source SHA, T1–T5 state, review corrections, later user-directed corrections, final status and unresolved choices.
+`translations/en/TRANSLATION_REVIEW.md` records source SHA, T1–T5 state, review corrections, final status and unresolved choices.
 
 No article with an unresolved meaning-level question may be marked `verified`.
 
 ## 11. Living lexicon
 
-`translations/en/LEXICON.md` is updated during translation. Articles 1–2 form the active baseline, but the `Achariyar` / `Acharya` difference is now explicitly contextual and must not be silently normalised.
+`translations/en/LEXICON.md` is updated during translation. Articles 1–2 now form the active baseline. The `ஆச்சாரியார்` → **Achariyar** decision is publication-wide and must be applied consistently in Articles 3–14.
 
 ## 12. Publication-level final consistency pass
 
 After Articles 1–14 are individually verified, perform a final cross-article review covering recurring names/epithets, ideological terminology, repeated rhetoric, publication references, epic-name spelling, quotations, title style, tone, page-boundary comments and completeness.
 
-The `Achariyar` / `Acharya` difference must be explicitly resolved or intentionally preserved at that gate.
+The final gate must specifically confirm that every translated occurrence of `ஆச்சாரியார்` uses **Achariyar** unless the Tamil source changes label.
 
 Only after this may the publication status become **English translation complete**.
 
@@ -192,7 +187,7 @@ Permanent guide, publication plan, tracker, lexicon, review ledger and single ro
 
 ### Phase E1 — Article 1 calibration — COMPLETE
 
-Article 1 translated, passed **T0–T5**, and later received the user-directed `Achariyar` transliteration correction.
+Article 1 translated and passed **T0–T5**.
 
 ### Phase E2 — Articles 2–4 — ACTIVE
 
@@ -233,4 +228,4 @@ Mark 14/14 verified and close the English release only if no unresolved item rem
 
 Proceed with **Article 3 — `சதி நிரூபிக்கப்படுகிறது`**.
 
-Fetch and read its complete current strict-reviewed Tamil assembly, record its blob SHA as T0, choose the English title only after reading the whole article, translate it completely with source page-boundary comments, then run T2–T4 and update the lexicon, review ledger, tracker, plan, READMEs and the single root `HANDOVER.md` before Article 4 begins.
+Fetch and read its complete current strict-reviewed Tamil assembly, record its blob SHA as T0, choose the English title only after reading the whole article, translate it completely with source page-boundary comments, apply **Achariyar** for source `ஆச்சாரியார்`, then run T2–T4 and update the lexicon, review ledger, tracker, plan, READMEs and the single root `HANDOVER.md` before Article 4 begins.
