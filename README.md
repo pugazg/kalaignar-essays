@@ -38,8 +38,8 @@
 
 Current English status:
 
-- drafts complete: **5 / 14**
-- translations verified through T0–T5: **5 / 14**
+- drafts complete: **6 / 14**
+- translations verified through T0–T5: **6 / 14**
 - final cross-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -50,12 +50,11 @@ Verified translations so far:
 3. **`சதி நிரூபிக்கப்படுகிறது` → `The Conspiracy Is Proven`**
 4. **`காமராஜன் ஆட்கொண்ட தசரதராஜன்!` → `Dasaratha Raja in the Grip of Kama-Raja!`**
 5. **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?` → `Bharadvaja's Ashram—or a Paris 'Bar'?`**
+6. **`இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?` → `Why Did Rama Go to the Forest? A Rishi's Curse? Kaikeyi's Anger?`**
 
 Publication-wide, `ஆச்சாரியார்` refers to **C. Rajagopalachari (Rajaji)** and is rendered **`Achariyar`** in Kalaignar's English body text. The personal identity is supplied only in translator/editorial notes.
 
-Article 4 preserves **Kama-Raja / Raja**, age-marked ridicule, sexualised vocabulary, and the `அப்பாவி` / `அப்-பாவி` pun rather than flattening them.
-
-Article 5 preserves the heading/contents witness distinction, the **Paris 'Bar'** title wordplay, the opening/closing refrain, both Kambar passages translated only from the supplied Tamil plus Kalaignar's own glosses, the scan-33 unmatched quotation, the scan-36 standalone `—Achariyar.`, the feast satire and the sweet/bitter ending.
+Article 6 preserves Kalaignar's defence of Kaikeyi, the **Kambar / Brahmin Vambar** jab, **Mooli-Alangari** as a source-bearing expression, the competing-cause sequence around Sita's horoscope / rishi's curse / Kaikeyi's anger / fate, the **splint** image, and the closing **walk on their feet / On their feet!** ridicule. The source's mixed Moodevi quotation marks are documented rather than silently regularised.
 
 English files:
 
@@ -64,13 +63,14 @@ English files:
 - [`publications/sakkaravarththiyin-thirumagan/translations/en/03-sathi-nirupikkappadugirathu.md`](publications/sakkaravarththiyin-thirumagan/translations/en/03-sathi-nirupikkappadugirathu.md)
 - [`publications/sakkaravarththiyin-thirumagan/translations/en/04-kamarajan-aadkonda-dasaratharajan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/04-kamarajan-aadkonda-dasaratharajan.md)
 - [`publications/sakkaravarththiyin-thirumagan/translations/en/05-paraththuvaja-aasramama-paris-nagarathu-para.md`](publications/sakkaravarththiyin-thirumagan/translations/en/05-paraththuvaja-aasramama-paris-nagarathu-para.md)
+- [`publications/sakkaravarththiyin-thirumagan/translations/en/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md`](publications/sakkaravarththiyin-thirumagan/translations/en/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md)
 
 Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
 English tracker: [`publications/sakkaravarththiyin-thirumagan/translations/en/README.md`](publications/sakkaravarththiyin-thirumagan/translations/en/README.md)  
 Living lexicon: [`publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md`](publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md)  
 Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
 
-**Exact next translation activity: Article 6 — `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`.** Read the complete strict-reviewed Tamil assembly before finalising its English title, then complete T0–T5 before Article 7.
+**Exact next translation activity: Article 7 — `விபீஷணருக்கு விடை யளிப்போம்!`.** Read the complete strict-reviewed Tamil assembly before finalising its English title, then complete T0–T5 before Article 8.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
