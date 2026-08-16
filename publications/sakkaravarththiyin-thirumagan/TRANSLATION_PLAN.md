@@ -29,7 +29,7 @@ The English translation source is therefore the strict-reviewed Tamil article as
 
 ## 3. Translation workspace
 
-English files will live under:
+English files live under:
 
 ```text
 publications/sakkaravarththiyin-thirumagan/
@@ -219,14 +219,17 @@ Only after this may the publication status become **English translation complete
 
 ## 13. Planned phase sequence
 
-### Phase E0 — setup
+### Phase E0 — setup — COMPLETE
 
-- permanent translation guide
-- this publication translation plan
-- English status tracker
-- living lexicon
-- review ledger
-- root handover converted to active translation phase
+Created and linked:
+
+- permanent root translation guide;
+- this publication translation plan;
+- English status tracker;
+- living lexicon;
+- translation review ledger;
+- root handover converted to the active translation phase;
+- root/publication README translation status.
 
 ### Phase E1 — Article 1 calibration
 
@@ -260,15 +263,16 @@ Run the 14-article terminology, voice, completeness and citation consistency pas
 - update the single root `HANDOVER.md`;
 - declare English translation complete only if no unresolved item remains.
 
-## 14. Progress at plan creation
+## 14. Current progress
 
-- Phase E0: **IN PROGRESS / setup being created**
+- Phase E0: **COMPLETE**
 - English article drafts: **0 / 14**
 - English articles verified: **0 / 14**
 - final cross-article review: **not started**
+- exact active phase: **E1 — Article 1 calibration**
 
 ## 15. Exact next translation activity
 
-After the E0 documents are committed, begin **Article 1 — `சக்கரவர்த்தியின் திருமகன்`**.
+Begin **Article 1 — `சக்கரவர்த்தியின் திருமகன்`**.
 
-Read its full strict-reviewed Tamil assembly first, bootstrap the lexicon from actual translation decisions, then create the complete English draft while preserving the source page-boundary comments. Do not begin Article 2 until Article 1 has passed its fidelity and Kalaignar-voice reviews.
+Read its full strict-reviewed Tamil assembly first, record the current blob SHA, bootstrap the lexicon from actual translation decisions, then create the complete English draft while preserving the source page-boundary comments. Complete the bilingual fidelity and Kalaignar-voice reviews before Article 2 begins.
