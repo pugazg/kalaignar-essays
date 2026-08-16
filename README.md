@@ -40,30 +40,31 @@ All **14 articles** are scheduled for English translation under the separate voi
 
 Current English status:
 
-- drafts complete: **1 / 14**
-- translations verified through T0–T5: **1 / 14**
+- drafts complete: **2 / 14**
+- translations verified through T0–T5: **2 / 14**
 - final cross-article consistency review: **not started**
 - English release gate: **OPEN**
 
-**Article 1 — `சக்கரவர்த்தியின் திருமகன்` is now verified in English as `Chakravarthi's Son`.** Its translation has passed bilingual fidelity, Kalaignar-voice, terminology, quotation and citation review.
+Verified translations so far:
 
-Article 1 establishes the initial English baseline:
+1. **`சக்கரவர்த்தியின் திருமகன்` → `Chakravarthi's Son`**
+2. **`தேகமும் உணர்வும்` → `Body and Feeling`**
 
-- `ஆச்சாரியார்` → **Acharya**, with referent **C. Rajagopalachari (Rajaji)** identified outside Kalaignar's body text;
-- `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where the Rajagopalachari/Chakravarthi wordplay is active;
-- `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**;
-- `ஆரியம்` → **Aryanism**;
-- `அரக்கர்`, `ராட்சசர்`, `தேவர்கள்` remain distinct as **demons, Rakshasas, Devas**;
-- commands, repetitions, rhetorical questions, sarcasm and strong polemical language remain visible rather than being academicised.
+Article 1 established the core English voice baseline: **Acharya** for `ஆச்சாரியார்` while identifying the referent C. Rajagopalachari (Rajaji) outside Kalaignar's body; **Chakravarthi** where the Rajagopalachari/Chakravarthi wordplay is active; Aryan/Dravidian terminology retained; commands, repetitions, sarcasm and harsh formulations preserved.
 
-English translation file: [`publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md)
+Article 2 extends the baseline with **body / feeling**, **body of flesh**, **anger and passion**, **Bhagavan / Ishvari**, and **plot / conspiracy** for source-distinct `சூழ்ச்சி` / `சதி`. Its caste-polemical epithets remain polemical, `(ஆகஸ்டு 154)` remains source-visible as `(August 154)`, and unmatched quotation openings are documented rather than repaired.
+
+English files:
+
+- [`publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md)
+- [`publications/sakkaravarththiyin-thirumagan/translations/en/02-thegamum-unarvum.md`](publications/sakkaravarththiyin-thirumagan/translations/en/02-thegamum-unarvum.md)
 
 Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
 English tracker: [`publications/sakkaravarththiyin-thirumagan/translations/en/README.md`](publications/sakkaravarththiyin-thirumagan/translations/en/README.md)  
 Living lexicon: [`publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md`](publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md)  
 Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
 
-**Exact next translation activity: Article 2 — `தேகமும் உணர்வும்`.**
+**Exact next translation activity: Article 3 — `சதி நிரூபிக்கப்படுகிறது`.**
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
