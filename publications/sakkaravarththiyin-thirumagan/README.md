@@ -42,8 +42,8 @@ Review ledger: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLA
 Current translation status:
 
 - Tamil translation prerequisite: **PASSED**
-- English drafts complete: **5 / 14**
-- English articles verified: **5 / 14**
+- English drafts complete: **6 / 14**
+- English articles verified: **6 / 14**
 - final 14-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -58,25 +58,28 @@ The user has established that `ஆச்சாரியார்` refers to **C.
 3. **`சதி நிரூபிக்கப்படுகிறது` → `The Conspiracy Is Proven`**
 4. **`காமராஜன் ஆட்கொண்ட தசரதராஜன்!` → `Dasaratha Raja in the Grip of Kama-Raja!`**
 5. **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?` → `Bharadvaja's Ashram—or a Paris 'Bar'?`**
+6. **`இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?` → `Why Did Rama Go to the Forest? A Rishi's Curse? Kaikeyi's Anger?`**
 
-Article 5 Tamil source blob SHA: **`f0b527ed76e10072c5875f0998add33cf09e6647`**  
-English file: [`translations/en/05-paraththuvaja-aasramama-paris-nagarathu-para.md`](translations/en/05-paraththuvaja-aasramama-paris-nagarathu-para.md)
+Article 6 Tamil source blob SHA: **`07ae8741f3b06fa9208a6478ebabea87d53a93f5`**  
+English file: [`translations/en/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md`](translations/en/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md)
 
-Article 5 passed **T0–T5**. Important decisions:
+Article 6 passed **T0–T5**. Important decisions:
 
-- the contents witness `பரத்துவாஜர் ... பாரீஸ் ...` and article-heading witness `பரத்துவாஜா ... பாரிஸ் ...` remain separately documented rather than normalised;
-- title `‘பாரா’?` wordplay is retained as **`'Bar'?`**;
-- opening and closing question-refrain, Kambar-scene ridicule, feast satire, triple **Ah! Ah! Ah!**, intoxication imagery and sweet/bitter ending remain visible;
-- both Kambar verses are translated only to the sense supported by the supplied Tamil witness and Kalaignar's own prose glosses;
-- the scan-33 unmatched quotation is documented rather than silently closed;
-- the scan-36 standalone `— ஆச்சாரியார்.` is preserved as **`—Achariyar.`**;
-- source-specific `கொத்தவாலை கொழுமண்டபம்` is conservatively transliterated **Kothavalai Kozhumandapam** rather than externally normalised.
+- `ஆச்சாரியார்` remains **Achariyar**;
+- title keeps the rapid causal structure rather than becoming an explanatory summary;
+- `மூலி அலங்காரி` → **Mooli-Alangari** and `பிராமணவம்பர்` → **Brahmin Vambar**, retained as source-bearing forms because the article does not supply an external identification and because the latter preserves Kambar/Vambar wordplay;
+- `சூழ்ச்சி` / `சதி` remain **plot / conspiracy**;
+- Kaikeyi's youth remains on the **old man's sacrificial altar** rather than being abstracted;
+- Sita's horoscope / rishi's curse / Kaikeyi's anger / power-of-fate sequence remains intact;
+- the mixed source quotation marks around the Moodevi phrase are documented;
+- `பழமைக்கு சப்பைக் கட்டு போடும்` retains the physical **splint** image;
+- the closing **walk on their feet / On their feet!** ridicule, **Aryan guard forces**, **take up the brief**, and final **ayya, literature!** cadence remain visible.
 
 Detailed T2–T4 provenance is in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
 
 ## Exact next activity
 
-Proceed with complete translation and review of **Article 6 — `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`**. Read its whole strict-reviewed Tamil assembly before finalising the English title, then complete T0–T5 before Article 7 begins.
+Proceed with complete translation and review of **Article 7 — `விபீஷணருக்கு விடை யளிப்போம்!`**. Read its whole strict-reviewed Tamil assembly before finalising the English title, then complete T0–T5 before Article 8 begins.
 
 ## Files
 
