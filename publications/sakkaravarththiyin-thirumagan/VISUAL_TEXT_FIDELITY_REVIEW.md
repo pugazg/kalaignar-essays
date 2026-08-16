@@ -13,7 +13,7 @@ For this pass, each physical scan is reopened and compared directly with its pag
 ## Verdicts
 
 - `FIDELITY-PASS` — every readable printed token checked against the scan; no discrepancy found.
-- `CORRECTED` — one or more discrepancies in the original transcription were corrected from scan pixels and propagated to dependent source-facing files; a later staged pass may revalidate an already-propagated correction.
+- `CORRECTED` — one or more discrepancies in the original transcription were corrected from scan pixels and propagated to dependent source-facing files where required; a later staged pass may revalidate an already-propagated correction.
 - `NEEDS-PIXEL-REVIEW` — at least one glyph/mark remains genuinely unresolved after enlargement; context is not used to guess.
 - `PENDING` — not yet processed in this stricter pass.
 
@@ -23,8 +23,8 @@ For this pass, each physical scan is reopened and compared directly with its pag
 |---|---|---|
 | 1–8 | cover, notice, title page, நூல் குறிப்பு, first-edition preface, contents | **8 / 8 COMPLETE** |
 | 9–16 | Article 1 + Article 2 start | **8 / 8 COMPLETE** |
-| 17–24 | Article 2 / Article 3 | **PENDING — next batch** |
-| 25–32 | Article 3 / Article 4 / Article 5 | PENDING |
+| 17–24 | Article 2 / Article 3 | **8 / 8 COMPLETE** |
+| 25–32 | Article 3 / Article 4 / Article 5 | **PENDING — next batch** |
 | 33–40 | Article 5 / Article 6 | PENDING |
 | 41–48 | Article 6 / Article 7 | PENDING |
 | 49–56 | Article 7 / Article 8 / Article 9 | PENDING |
@@ -33,7 +33,7 @@ For this pass, each physical scan is reopened and compared directly with its pag
 | 73–80 | Article 12 / Article 13 / Article 14 | PENDING |
 | 81–83 | Article 14 close, advertisement, back cover | PENDING |
 
-Current strict-fidelity progress: **16 / 83 physical scans complete**.
+Current strict-fidelity progress: **24 / 83 physical scans complete**.
 
 The publication remains **source-layer complete** from the earlier archival workflow, but it must **not** be described as strict visual-text-fidelity complete until all 83 scans pass this second review.
 
@@ -74,9 +74,9 @@ Direct page-by-page comparison was performed against the controlling scan, inclu
 | 15 | p.13 — Article 1 conclusion | **FIDELITY-PASS** | `விஸ்வாமித்திரன்`, `ராம இலக்குமணர்`, quotation, `முன்னுக்குப்பின்`, `செல்வத் திருமகன்`, `எந்தெந்தத் திக்கில்` and article-ending ornament agree with scan. |
 | 16 | p.14 — Article 2 begins | **FIDELITY-PASS** | Heading/number, opening quotation, unusual `(ஆகஸ்டு 154)`, `கதாபாத்திரங்களெனக்`, punctuation and final `நன்றாகக் கவனிக்கவேண்டும்` agree with scan. |
 
-### Assembly propagation check
+### Assembly propagation check after Batch 2
 
-Article 1 assembly currently carries the scan-supported corrections:
+Article 1 assembly carries the scan-supported corrections:
 
 - `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`
 - `எப்படி பெய்ப்படி`
@@ -84,7 +84,26 @@ Article 1 assembly currently carries the scan-supported corrections:
 
 Scan 16's Article 2 assembly also agrees with the page record, including `(ஆகஸ்டு 154)`.
 
-No additional discrepancy beyond the already-propagated scan 9 / 11 / 12 corrections was found in this batch.
+## Batch 3 — scans 17–24
+
+Every page was compared directly with the scan image, including word spacing, punctuation, quotation behaviour and page-boundary continuation. No new transcription discrepancy was found in this batch.
+
+| Scan | Printed page / section | Fidelity verdict | Findings |
+|---:|---|---|---|
+| 17 | p.15 — Article 2 | **FIDELITY-PASS** | Source-supported `எப்படி பெய்ப்படி`, `அவர்கட்கு`, `தையல் சீதை`, joined `ஏற்பட்டதில்லையா?`, and `வேதியப் பெருந்தகையாரே` all agree with the page record. |
+| 18 | p.16 — Article 2 | **FIDELITY-PASS** | `மிக மிகக் குள்ளமான`, `மாபலிச்சக்கரவர்த்தியின்`, `தக்கதாய்த்தானிருக்குமாம்`, heading `பட்டாபிஷேகம்`, and page-ending `பிறகு ஏதோ` agree. The long quotation after `இப்படி எழுதியிருக்கிறார்,` has no visible closing quotation before the following prose and remains unrepaired. |
+| 19 | p.17 — Article 2 | **FIDELITY-PASS** | `முடிவுசெய்து`, `பொருட்படுத்தமாட்டான்`, `அவசர அவசரமாக`, `சவகாசமில்லை`, and `தன்னையறியாமலே` agree with scan. |
+| 20 | p.18 — Article 2 | **FIDELITY-PASS** | `அன்னையைத்திருமணம்`, `ராமனுக்குப்பட்டம்`, `தாம்பிரபு`, `இத்தனைபேரும்`, and the source-visible unclosed quotation beginning `பரதன், அண்ணனைக்...` agree with the page record. |
+| 21 | p.19 — Article 2 conclusion | **FIDELITY-PASS** | `வாக்குறுதியை காற்றில் பறக்கவிட்டு`, final two paragraphs and article-ending ornament agree; no article text appears below the ornament. |
+| 22 | p.20 — Article 3 begins | **FIDELITY-PASS** | Heading/number, `அதே கருத்தை யொட்டி`, `கைகேயினுடைய`, `புத்திரப்பேறுக்கு`, and the quotation continuing onto scan 23 agree with scan. |
+| 23 | p.21 — Article 3 | **FIDELITY-PASS** | Opening quotation close, `பரதசத்ருக்கனர்`, `பூரணமேதான்`, `ஆச்சாரியராலேயே`, and punctuation agree with scan. |
+| 24 | p.22 — Article 3 | **FIDELITY-PASS** | `படையெடுத்தா`, `காடாண்டபோதும்`, `ஆச்சர்யமில்லையதான்`, `முடியைப்பற்றி`, `எதொரு`, and `வியக்தமாகத்` agree. The final passage ends with a source-visible closing quotation mark without a corresponding visible opening mark on this page; no editorial repair was made. |
+
+### Assembly check after Batch 3
+
+- Article 2 assembly, scans **16–21 / printed pp.14–19**, was rechecked against the now strict-reviewed page layer and agrees throughout.
+- Article 3 assembly content for scans **22–24 / printed pp.20–22** agrees with the strict-reviewed page records. Scan 25 remains for the next batch before the whole Article 3 assembly receives its completed strict-review verdict.
+- No page or assembly correction was required in scans 17–24.
 
 ## Corrections confirmed so far in the staged pass
 
@@ -96,14 +115,14 @@ No additional discrepancy beyond the already-propagated scan 9 / 11 / 12 correct
 
 ## Next batch
 
-Proceed with **scans 17–24** in physical scan order.
+Proceed with **scans 25–32** in physical scan order.
 
-That batch must:
+That batch covers:
 
-1. compare each scan directly with its page record, token by token;
-2. enlarge any uncertain word or punctuation rather than infer from context;
-3. propagate corrections into Article 2 / Article 3 assemblies where necessary;
-4. update this ledger with a page-level verdict for scans 17–24;
-5. advance the strict-fidelity count only after all eight scans are closed.
+- scan **25** — Article 3 conclusion;
+- scans **26–29** — Article 4 `காமராஜன் ஆட்கொண்ட தசரதராஜன்!`;
+- scans **30–32** — opening three pages of Article 5.
+
+For each page, compare every readable token directly with the scan, enlarge uncertain glyphs rather than infer from context, propagate any correction to the relevant assembly, and update this ledger only after the full batch is closed.
 
 Do not declare the publication strict-fidelity complete until the final scan 83 and all article assemblies have passed this staged review.
