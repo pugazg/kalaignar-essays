@@ -33,8 +33,8 @@
 
 ### English translation phase — ACTIVE
 
-- drafts complete: **12 / 14**
-- translations verified through T0–T5: **12 / 14**
+- drafts complete: **13 / 14**
+- translations verified through T0–T5: **13 / 14**
 - final cross-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -52,13 +52,14 @@ Verified translations:
 10. `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **To Rama, Who Is Said to Be Vishnu's Incarnation!**
 11. `நடப்பதெல்லாம் நாராயணன் செயலா?` → **Is Everything That Happens Narayana's Doing?**
 12. `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்` → **To Rama Who Went Chasing Maricha**
+13. `துரோகிகள் சந்திப்பு!` → **Traitors Meet!**
 
 Publication-wide, source `ஆச்சாரியார்` is rendered **Achariyar**; explicit source-label changes such as Article 7 `இராஜாஜி` remain **Rajaji**, and source plurals such as Article 11 `ஆச்சாரியார்களுக்கு` remain plural in English.
 
-Article 12 preserves scans **71–73** as the controlling body witness and keeps scan **83** as an independent promotional back-cover witness; **upper cloth / upper garment**, **aspect** versus **incarnation**, the source-visible `அவனாகவே` difficulty, Jatayu/Ravana bodily-force imagery, **theist worthies**, **kings of the night**, prostitution/anguish imagery, source-bearing **Kakuthan / Ashadabhoothis**, and the final rubbish-on-head/Sita–Draupadi attack are all documented and retained.
+Article 13 preserves scans **74–78 / printed pp.72–76**, the compact title **Traitors Meet!**, `மாறடித்து ஒப்பாரி வைத்தான்` as **beat his chest and wailed an oppari**, **demon / asura** distinction, source-bearing **Vanara / vimana / yojana**, the unusual source `துராசைப் பட்டுக்` documentation, the subheading **This Is the Story Achariyar Has Drawn Up!**, quotation/citation irregularities, repeated **they say** cadence, **Here Achariyar dodges**, and the closing **Why? Why, Achariyar; why?**.
 
 English workspace: [`publications/sakkaravarththiyin-thirumagan/translations/en/`](publications/sakkaravarththiyin-thirumagan/translations/en/)  
 Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
 Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
 
-**Exact next translation activity: Article 13 — `துரோகிகள் சந்திப்பு!`.** Read the complete current strict-reviewed Tamil assembly before finalising its English title, then complete T0–T5 before Article 14.
+**Exact next translation activity: Article 14 — `காரியமாகும் வரையில் காலைப் பிடி !`.** Read the complete current strict-reviewed Tamil assembly before finalising its English title, preserve the known contents/heading title-witness distinction, and complete T0–T5. After Article 14 is individually verified, proceed to the separate publication-level E6 consistency review before declaring the English publication complete.
