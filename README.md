@@ -33,8 +33,8 @@
 
 ### English translation phase — ACTIVE
 
-- drafts complete: **9 / 14**
-- translations verified through T0–T5: **9 / 14**
+- drafts complete: **10 / 14**
+- translations verified through T0–T5: **10 / 14**
 - final cross-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -49,13 +49,14 @@ Verified translations:
 7. `விபீஷணருக்கு விடை யளிப்போம்!` → **Let Us Answer Vibhishana!**
 8. `நாடாண்ட மன்னன் நாதியற்று செத்தான்` → **The King Who Ruled the Land Died with No One to Tend Him**
 9. `தந்தை மகனும் தருமம் தவறியவர்கள்!` → **Father and Son—Both Strayed from Dharma!**
+10. `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **To Rama, Who Is Said to Be Vishnu's Incarnation!**
 
 Publication-wide, source `ஆச்சாரியார்` is rendered **Achariyar**; explicit source-label changes such as Article 7 `இராஜாஜி` remain **Rajaji**.
 
-Article 9 preserves the repeated **dharma / truth / atheism** argument, source-bearing **Jambali / naathigam**, the sheep-flock / **Govinda!** jab, the sandal-on-throne political satire, the Nehru–Governor Prakasa comparison, **“holy” sandals**, **the conspirator Rama**, and the closing **audacious, conspiracy-laden speech**.
+Article 10 preserves the source-witness distinction between the heading `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` and scan-63 body `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`; **Ramayana tigers**; the meat-eating-rishi challenge; **shraddha feast / mesha (goat) meat / human flesh**; scan-63 unmatched parenthesis; Surpanakha's **thirst of lust / business trouble / second wife** sequence; **rasabhasa**; the reused **splint** image; and the final **Aryan culture** jab.
 
 English workspace: [`publications/sakkaravarththiyin-thirumagan/translations/en/`](publications/sakkaravarththiyin-thirumagan/translations/en/)  
 Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
 Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
 
-**Exact next translation activity: Article 10 — `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`.** Read the complete current strict-reviewed Tamil assembly before finalising its English title, preserve the known title/body source-witness distinction, then complete T0–T5 before Article 11.
+**Exact next translation activity: Article 11 — `நடப்பதெல்லாம் நாராயணன் செயலா?`.** Read the complete current strict-reviewed Tamil assembly before finalising its English title, then complete T0–T5 before Article 12.
