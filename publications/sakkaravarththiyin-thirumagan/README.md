@@ -11,6 +11,8 @@
 - முதற்பதிப்பு: **மே 1956 — வேலூர் திராவிடன் பதிப்பகம்**
 - supplied reprint: **2018**
 - மறு பதிப்பு வெளியீடு: **திராவிடர் கழக (இயக்க) வெளியீடு**
+- physical scans: **83**
+- source SHA-256: `5d7f8404a53c0766df896ddedf9978a3fd31f97b8e98625b70a93366412eb90d`
 
 ## Tamil source / fidelity status — COMPLETE / FROZEN
 
@@ -21,24 +23,27 @@
 - source PDF committed to repository: **No**
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).  
-Completion certificate: [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
+Completion certificate: [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).  
+Source metadata: [`metadata/source.md`](metadata/source.md).
 
-## English translation phase — COMPLETE / E7 RELEASE CLOSEOUT NEXT
+## English translation / release — COMPLETE / RELEASED
 
 Translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_GUIDE.md)  
 Plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)  
 Tracker: [`translations/en/README.md`](translations/en/README.md)  
 Lexicon: [`translations/en/LEXICON.md`](translations/en/LEXICON.md)  
-Review ledger: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+Review ledger: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)  
+Release report: [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
 
-Current status:
+Final status:
 
 - English drafts complete: **14 / 14**
 - English articles T0–T5 verified: **14 / 14**
 - publication-level E6 consistency review: **PASSED**
+- E7 English release closeout: **PASSED / COMPLETE**
 - unresolved translation questions: **0**
 - English translation: **COMPLETE**
-- English release gate: **OPEN pending E7 closeout**
+- English release gate: **CLOSED**
 
 ### Publication-wide `ஆச்சாரியார்` rule
 
@@ -61,22 +66,25 @@ The user established that `ஆச்சாரியார்` refers to **C. Raj
 13. `துரோகிகள் சந்திப்பு!` → **Traitors Meet!**
 14. `காரியமாகும் வரையில் காலைப் பிடி !` → **Hold Their Feet Until Your Purpose Is Achieved!**
 
-## E6 consistency review result
+## Frozen source-witness distinctions
 
-**PASSED.** All 14 current English files were fetched fresh from `main` and reviewed together.
+- Article 5 contents: `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`; heading: `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`.
+- Article 10 contents/heading: `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`; scan-63 body: `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`.
+- Article 14 contents: `காரியமாகும் வரையில் காலைப் பிடி!`; heading: `காரியமாகும் வரையில் காலைப் பிடி !`.
+- Scan 83 is only a separate promotional Article 12 witness and must not overwrite Article 12 body text.
+- Article 14 ends on scan 82 at the printed ornament; the lower `விடுதலை` advertisement is outside Article 14.
+- Strict scan-82 reading `வர்ணிக்கிறான்` remains source authority.
 
-The pass reconfirmed recurring names and epithets, ideological vocabulary, source-label switches, title/body rhetorical echoes, quotations and dates, page-boundary comments, source-bearing transliterations, and all documented source anomalies. No Article 1–14 translation-body edit was required.
+## E6 / E7 closeout
 
-Apparent source-sensitive spelling differences were deliberately retained rather than normalised, including Article 6 **Kakapattar** versus Article 11 **Kaga Pattar**, and Article 2 **Ramachandramurti** versus Article 14 **Ramachandra Murti**, because the frozen Tamil witnesses themselves differ.
+E6 found **no Article 1–14 translation-body correction**. E7 re-fetched release-facing records, verified all 14 English files and their frozen Tamil source SHAs, confirmed `translation_status: verified` throughout, confirmed **0 unresolved questions**, confirmed the source PDF is absent from the Git tree, and found **no release blocker**.
 
-Important non-regression boundaries remain unchanged: Article 12 scan 83 is only a promotional back-cover witness; Article 14 scan 82 ends the article before the separate *Viduthalai* advertisement.
+No verified Tamil or English body text was altered during E7.
 
-Full E6 provenance, including all 14 reviewed English blob SHAs, is recorded in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
+## Current state / exact next activity
 
-## Exact next activity
+This publication is now **fully source-archived, strict visual-text-fidelity complete, English-translation complete and English-release complete**.
 
-Proceed with **E7 — English release closeout**. Verify release-facing repository state and links, create/update the required release-closeout record, and close the English release gate only if no release blocker remains.
+Do not reopen it for stylistic polishing. Reopen only if a genuine source-supported defect is discovered.
 
-## Source authority
-
-The scan remains the controlling witness for the Tamil archival layer. English translation uses the strict-reviewed Tamil article assemblies as its immediate source and must not silently rewrite that Tamil layer.
+**Exact next normal activity:** when the next Kalaignar essay/article source PDF is supplied, begin **P0 — source intake / publication identification** under [`../../docs/FUTURE_WORK_GUIDELINES.md`](../../docs/FUTURE_WORK_GUIDELINES.md), continue existing work if already present, and update the single root [`../../HANDOVER.md`](../../HANDOVER.md).
