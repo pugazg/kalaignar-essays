@@ -8,7 +8,7 @@ source_tamil_blob_sha: "9151694c1c473fd4c225aa8076d086e01931bc1e"
 source_scan_pages: "26-29"
 source_printed_pages: "24-27"
 language: "en"
-translation_status: "draft"
+translation_status: "verified"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -36,15 +36,15 @@ Only now does Dasaratha come to the residence of Kaikeyi, whose mind has been tu
 
 “After completing all the affairs in the assembly and fully issuing every order for what had to be done for the grand coronation festival, Dasaratha, pleased that there was now nothing more to worry about, set out towards the inner apartments of his beloved wife, Kaikeyi Devi.
 
-The festival would begin at daybreak; until then, with the thought that he could immerse himself in pleasure to his heart's content, pure-hearted Dasaratha entered the inner apartments.”
+The festival would begin at daybreak; until then, with the thought that he could immerse himself in sensual pleasure to his heart's content, pure-hearted Dasaratha entered the inner apartments.”
 
-Pure-hearted Dasaratha, it seems, comes to Kaikeyi's apartments to immerse himself in pleasure to his heart's content—and that too until dawn! What sort of man is he? Pure-hearted, it seems! Not only that. Achariyar makes him tell us, in his own mouth, what condition he is in. Read.
+Pure-hearted Dasaratha, it seems, comes to Kaikeyi's apartments to immerse himself in sensual pleasure to his heart's content—and that too until dawn! What sort of man is he? Pure-hearted, it seems! Not only that. Achariyar makes him tell us in his own words what condition he is in. Read.
 
 “Now my body has grown weak because of old age. Following the path of my forefathers, I too wish to spend the remainder of my life in the forest.”
 
 Achariyar wrote on 8 August 1954 that this was the reason Dasaratha said he was going to crown Rama.
 
-Old age of the body—weakness—the age at which he ought to spend the rest of his life in the forest—and with all this, this very Dasaratha, it seems, enters Kaikeyi's inner apartments in a frenzy of “let me immerse myself in pleasure to my heart's content until dawn”! Not we; the old Achariyar himself says so! And Achariyar goes on to tell us the wonder of how the old Dasaratha's speed increased. Listen!
+Old age of the body—weakness—the age at which he ought to spend the rest of his life in the forest—and with all this, this very Dasaratha, it seems, enters Kaikeyi's inner apartments in a frenzy of “let me immerse myself in sensual pleasure to my heart's content until dawn”! Not we; the old Achariyar himself says so! And Achariyar goes on to tell us the marvel of the old Dasaratha's mounting urge. Listen!
 
 <!-- Tamil source: scan 28 / printed 26 -->
 
@@ -60,9 +60,9 @@ He has gone inside. Then—
 
 “Kaikeyi did not even look up when she saw the king. The poor king could make nothing of it. How could he? There was not the slightest taint in his heart.”
 
-Pure-hearted—poor innocent—without taint: this is how Achariyar paints Dasaratha's portrait.
+Pure-hearted—innocent—without taint: this is how Achariyar paints Dasaratha's portrait.
 
-Having sworn to King Kekaya, “I will marry your young daughter and will not betray her—I will crown the son born to her,” this Dasaratha breaks that pledge and enters into a cunning plot to crown Rama. And this Dasaratha, it seems, is a taintless, pure-hearted innocent! Achariyar says so! An innocent indeed, Achariyar. An innocent indeed! King Kekaya should be the one to say: “Ah—sinner!” The leader of the Puranic crowd that proclaims to the world Harischandra's refusal to break his word and his devotion to truth now praises, to his heart's content, a deceitful king who broke his word; he describes him—shame, shame, shame mixed with pain!
+Having sworn to King Kekaya, “I will marry your young daughter and will not betray her—I will crown only the son born to her,” this Dasaratha breaks that pledge and enters into a cunning plot to crown Rama. And this Dasaratha, it seems, is a taintless, pure-hearted innocent! Achariyar says so! An innocent indeed, Achariyar. An innocent indeed! King Kekaya should be the one to say: “Ah—sinner!” The leader of the Puranic crowd that proclaims to the world Harischandra's refusal to break his word and his devotion to truth now lavishly praises and describes the deceitful king who broke his word—shame, shame, shame mixed with pain!
 
 <!-- Translator note: Kalaignar makes a Tamil pun on `அப்பாவி` (innocent) by splitting it as `அப்-பாவி` (that sinner / that wretch). `Ah—sinner!` preserves the turn without changing the surrounding argument. -->
 
