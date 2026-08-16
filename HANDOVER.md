@@ -72,11 +72,11 @@ High-value Tamil corrections include `மற்றுமுள்ள`, `பத�
 - Phase E0 planning/setup: **COMPLETE**
 - Phase E1 Article 1 calibration: **COMPLETE**
 - Phase E2 Articles 2–4: **ACTIVE**
-- English article drafts: **2 / 14**
-- English articles T2 fidelity-reviewed: **2 / 14**
-- English articles T3 voice-reviewed: **2 / 14**
-- English articles T4 audited: **2 / 14**
-- English articles T5 verified: **2 / 14**
+- English article drafts: **3 / 14**
+- English articles T2 fidelity-reviewed: **3 / 14**
+- English articles T3 voice-reviewed: **3 / 14**
+- English articles T4 audited: **3 / 14**
+- English articles T5 verified: **3 / 14**
 - final cross-article consistency review: **not started**
 - English publication release gate: **OPEN**
 
@@ -93,14 +93,12 @@ Each article must pass:
 
 ## Publication-wide identity and transliteration decision for `ஆச்சாரியார்`
 
-The user explicitly established that **`ஆச்சாரியார்` refers to C. Rajagopalachari (Rajaji)** in this publication.
-
-The user then chose **`Achariyar` instead of `Acharya`**. After confirming that Article 2 also addresses/refers to the same Rajaji referent through `ஆச்சாரியார்`, the user approved using the same form consistently across the publication.
+The user explicitly established that **`ஆச்சாரியார்` refers to C. Rajagopalachari (Rajaji)** in this publication and chose **`Achariyar` instead of `Acharya`**.
 
 **Frozen rule:**
 
 - `ஆச்சாரியார்` → **`Achariyar`** in Articles **1–14** wherever that Tamil label appears, unless the source itself changes label.
-- Articles 1 and 2 have already been revised to `Achariyar` throughout.
+- Articles 1–3 now use `Achariyar` throughout.
 - Do not mechanically replace the label with `Rajaji`; the personal identity belongs in translator/editorial identification notes outside Kalaignar's body text.
 
 ## Article 1 — COMPLETE / VERIFIED
@@ -110,17 +108,7 @@ English: **`Chakravarthi's Son`**
 Tamil blob SHA: `47a5b1fd0b28827bb098dda419b5bf864e9f3866`  
 English: [`translations/en/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md)
 
-Article 1 passed T0–T5 and remains verified after the user-directed transliteration correction.
-
-Decisions that must not regress:
-
-- `ஆச்சாரியார்` → **Achariyar**.
-- `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where Rajagopalachari/Chakravarthi wordplay is active.
-- `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**; `ஆரியம்` → **Aryanism**; `ஆரிய சாம்ராஜ்யம்` → **Aryan Empire**.
-- `அரக்கர்` / `ராட்சசர்` / `தேவர்கள்` → **demons / Rakshasas / Devas**, kept distinct.
-- `அஸ்வமேதயாகம்` → **Ashvamedha sacrifice**; `தேவபாயசம்` → **divine payasam**; `கற்பு` → **chastity**.
-- direct `Read!` / `Look!`, repetitions, sarcasm and harsh polemical language remain visible.
-- scan-12 unmatched quotation is documented rather than repaired.
+Key decisions: **Achariyar**, **Chakravarthi** where wordplay is active, Aryans / Dravidians / Aryanism, source-distinct demons / Rakshasas / Devas, Ashvamedha sacrifice, divine payasam, chastity, direct `Read!` / `Look!`, repetitions and sarcasm. Scan-12 unmatched quotation is documented rather than repaired.
 
 ## Article 2 — COMPLETE / VERIFIED
 
@@ -129,37 +117,48 @@ English: **`Body and Feeling`**
 Tamil blob SHA: `bb9131b7856b528e527136be8f4f60dca2999850`  
 English: [`translations/en/02-thegamum-unarvum.md`](publications/sakkaravarththiyin-thirumagan/translations/en/02-thegamum-unarvum.md)
 
-Article 2 passed **T0–T5** and has now been revised post-T5 to use **Achariyar** throughout for `ஆச்சாரியார்`.
+Key decisions: **Achariyar**; body / feeling; body of flesh; anger and passion; Bhagavan / Ishvari; plot / conspiracy; polemical caste epithets retained; source `(August 154)` preserved; Vamana `three paces of land`; scans 18 and 20 unmatched quotations documented.
+
+## Article 3 — COMPLETE / VERIFIED
+
+Tamil: `சதி நிரூபிக்கப்படுகிறது`  
+English: **`The Conspiracy Is Proven`**  
+Tamil blob SHA: `903dbb0a2b74bc1ffa173469bfdb3dfa6ce9b4b4`  
+English: [`translations/en/03-sathi-nirupikkappadugirathu.md`](publications/sakkaravarththiyin-thirumagan/translations/en/03-sathi-nirupikkappadugirathu.md)
+
+Article 3 passed **T0–T5**.
 
 Decisions that must not regress:
 
-- `ஆச்சாரியார்` → **Achariyar**.
-- `தேகம்` / `உணர்வு` → **body / feeling**.
-- `ஊனுடல்` → **body of flesh / bodies of flesh**.
-- `கோபதாபம்` / `தாபம்` → **anger and passion / passion**.
-- `பகவான்` / `ஈஸ்வரி` → **Bhagavan / Ishvari**.
-- `சூழ்ச்சி` → **plot**; explicit `சதி` → **conspiracy** when both are distinguished.
-- `பிராமணஜோதி` → **Brahmin luminary**; `பார்ப்பனகுல மகிபர்` → **lord of the Brahmin clan**; `வேதியப் பெருந்தகையார்` → **great Vedic worthy**.
-- source `(ஆகஸ்டு 154)` remains **`(August 154)`** with an explicit source note.
-- Vamana `மூன்றடி மண்` → **three paces of land**, paired with `two strides`.
-- scans 18 and 20 have unmatched quotation openings; the English file documents them rather than silently supplying closing marks.
-- final accusation remains **`And Rama too is an accomplice—that is the truth!`**
+- `ஆச்சாரியார்` / source variant `ஆச்சாரியர்` → **Achariyar**.
+- Title `சதி நிரூபிக்கப்படுகிறது` → **The Conspiracy Is Proven**.
+- `ராஜ்ய பாரம்` / `ராஜ்யபாரம்` → **burden of the kingdom / burden of rule** according to context.
+- Opening `ராஜ்ய பாரத்தை ராமன் தலையில் கட்டி விட` remains physical: **`tie onto Rama's head the burden of the kingdom`**.
+- `யுவராஜப் பதவி` / `யுவராஜ்யப் பதவி` → **office of Crown Prince**.
+- Vishnu-share contradiction preserved as **`when it is a share of divinity, what need is there to calculate shares? Every share is complete in itself.`**
+- Bharata comparison retains rapid questions: **`Did enemies invade? Did lawlessness break out? Was repression needed?`**
+- `கொல்லைப்புறமாக மந்திரி சபைக்கு வந்தவரல்லவா ஆச்சாரியார்!` → **`Was not Achariyar himself one who came into the Council of Ministers through the back door!`**.
+- `கல்மஷம்` → **taint**, with Kalaignar's later sarcastic echo preserved.
+- Citation **15 August 1954, Kalki** preserved.
+- Final cadence remains **`Why only us? Everyone with a brain will come to exactly that conclusion.`**
+
+T2 refinements included tightening the Vishnu-share logic, changing the Bharata companionship sentence closer to the Tamil, and refining `கல்மஷம்` from draft `guile` to **taint**. No unresolved meaning-level item remains.
 
 Detailed provenance: [`translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md).
 
-## Exact next activity — Article 3
+## Exact next activity — Article 4
 
-Work only on **Article 3 — `சதி நிரூபிக்கப்படுகிறது`**.
+Work only on **Article 4 — `காமராஜன் ஆட்கொண்ட தசரதராஜன்!`**.
 
 1. Fetch the complete current Tamil assembly:
-   `publications/sakkaravarththiyin-thirumagan/articles/03-sathi-nirupikkappadugirathu.md`
+   `publications/sakkaravarththiyin-thirumagan/articles/04-kamarajan-aadkonda-dasaratharajan.md`
 2. Record its current GitHub blob SHA as T0 provenance.
-3. Read the complete article before choosing/finalising the English title.
-4. Apply the Article 1–2 voice/lexicon baseline, including the frozen `ஆச்சாரியார்` → **Achariyar** rule.
-5. Create `translations/en/03-sathi-nirupikkappadugirathu.md` with complete English translation and source page-boundary comments.
+3. Read the complete article before choosing/finalising the English title; do not mechanically translate the title before understanding its wordplay/argument.
+4. Apply the Article 1–3 voice/lexicon baseline, including the frozen `ஆச்சாரியார்` → **Achariyar** rule.
+5. Create `translations/en/04-kamarajan-aadkonda-dasaratharajan.md` with complete English translation and source page-boundary comments.
 6. Perform T2 bilingual fidelity review.
 7. Perform T3 Kalaignar-language/voice review.
 8. Perform T4 terminology/quotation/citation audit.
 9. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, READMEs and **this `HANDOVER.md`** before ending the activity.
 
-**Do not begin Article 4 until Article 3 has passed T2 and T3.**
+**Do not begin Article 5 until Article 4 has passed T2 and T3.**
