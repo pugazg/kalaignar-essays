@@ -16,8 +16,8 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 The user explicitly established that `ஆச்சாரியார்` in this publication refers to **C. Rajagopalachari (Rajaji)** and chose **`Achariyar`** as the English body form.
 
-- Articles **1–8** use **Achariyar** wherever the Tamil source uses `ஆச்சாரியார்`.
-- Articles **9–14** must do the same unless Kalaignar himself changes label.
+- Articles **1–9** use **Achariyar** wherever the Tamil source uses `ஆச்சாரியார்`.
+- Articles **10–14** must do the same unless Kalaignar himself changes label.
 - If the source explicitly says `இராஜாஜி`, preserve **Rajaji**; Article 7 demonstrates this rule.
 - Do not mechanically replace `ஆச்சாரியார்` with `Rajaji` in Kalaignar's body text.
 
@@ -101,6 +101,18 @@ The user explicitly established that `ஆச்சாரியார்` in this
 | `உடல் சுகம்` | `bodily pleasure` | Preserve physical/sexual wording. | Article 8 | contextual |
 | `வாலை அடக்கிப்` | `keep his tail under control` | Source-visible physical insult retained literally enough to preserve the oddity. | Article 8 | source-bearing image |
 | `பூணூல் வேந்தர்` | `sacred-thread king` | Polemical epithet for Achariyar. | Article 8 | contextual epithet |
+| `தருமம்` / `தர்மம்` | `dharma` | Article 9 title uses `தருமம்`; quoted/polemical labels also use `தர்ம`. Preserve the source-era term rather than flattening it to generic morality. | Article 9 | established |
+| `சத்தியம்` | `truth` / `word of truth` | Article 9 repeatedly turns on promises, commands and truth; choose according to sentence while keeping the repetition visible. | Article 9 | contextual |
+| `நாஸ்திகம்` / `நாஸ்திகன்` | `atheism` / `atheist` | Preserve Rama's quoted accusation and Kalaignar's reversal against Dasaratha/Rama. | Article 9 | established |
+| `தர்ம ராஜன்` | `Dharma Raja` | Mock-praised label for Dasaratha; keep the source title rather than paraphrasing it away. | Article 9 | contextual label |
+| `நாதிகமுள்ளவர்கள்` | `those with naathigam` | Verified unusual source form. Do **not** silently correct it to `நாஸ்திக...` or assign an unsupported meaning; retain source-bearing `naathigam` with note. | Article 9 | source-bearing |
+| `ஜாம்பாலி` | `Jambali` | Source-visible name retained; no external epic-name normalisation. | Article 9 | source-bearing |
+| `சூட்சமம்` | `the catch` | In the Kaikeyi/Rama return argument; preserve Kalaignar's abrupt reveal. | Article 9 | contextual |
+| `ராஜ்ய பரிபாலனம்` | `administer the kingdom` | Vasishta's quoted instruction to Bharata. | Article 9 | established |
+| `பாதுகைகள்` | `sandals` | Rama's sandals function as political/official surrogate; preserve quoted `“புனிதமான”` as **“holy”** where present. | Article 9 | established image |
+| `சதிகார ராமன்` | `the conspirator Rama` | Preserve the direct polemical label; do not soften to neutral strategy. | Article 9 | polemical label |
+| `பக்த கோடிகள்` | `crores of devotees` | Keep source scale rather than generic `many devotees`. | Article 9 | contextual |
+| `சதி நிறைந்த சாகசப் பேச்சு` | `audacious, conspiracy-laden speech` | Preserve both the daring and conspiracy charge in the closing Vasishta attack. | Article 9 | contextual image |
 
 ## Article 8 contextual decisions
 
@@ -113,6 +125,21 @@ The user explicitly established that `ஆச்சாரியார்` in this
 - `சயந்தன்` remains **Sayantan** and `பாக்கை` remains **paakkai**; neither is silently normalised from outside knowledge.
 - The dying-king satire retains the repeated sleeping-wife sequence, **sixty thousand**, Aryan-culture jab, mastery-of-senses refrain, **intoxication of lust**, **bodily pleasure**, the source-visible **tail** image, and final **sacred-thread king Achariyar**.
 
+## Article 9 contextual decisions
+
+- Title `தந்தை மகனும் தருமம் தவறியவர்கள்!` → **`Father and Son—Both Strayed from Dharma!`**. `தருமம்` is kept as **dharma** because the argument explicitly turns on truth, promise, command and the claimed moral status of both Dasaratha and Rama.
+- All six page-boundary comments are retained: scans **55–60 / printed pp.53–58**.
+- `ஆச்சாரியார்` remains **Achariyar** throughout.
+- The opening Chitrakuta quotation's mixed source quotation-mark forms are documented; English uses normal quotation typography because the quotation scope is unambiguous.
+- `ஜாம்பாலி` remains **Jambali**, not externally normalised.
+- Verified unusual `நாதிகமுள்ளவர்கள்` remains source-bearing **naathigam** and is explicitly distinguished from nearby `நாஸ்திகம் / நாஸ்திகன்` → **atheism / atheist**.
+- Rama's and Dasaratha's truth argument preserves repeated **truth**, **Dharma Raja**, the sheep-flock / **Govinda!** jab, and the challenge **will they come? do they have courage? do they have evidence?**.
+- `சூட்சமம்` is carried as **the catch!** in the claim that Kaikeyi, rather than Bharata, was the person whose invitation would have brought Rama back.
+- `ராஜ்ய பாரம்` reuses **burden of rule**; `சதி` remains **conspiracy** and `சதி நினைப்போடு` → **conspiratorial intent**.
+- Rama's covert claim to ownership is preserved through **the country given by me** and Vasishta's `ராஜ்ய பரிபாலனம்` → **administer the kingdom**.
+- The sandals remain a physical-political surrogate: **Rama did not sit on the throne; his sandals sat there**, followed by the Nehru/Delhi–Governor Prakasa/Chennai analogy.
+- `“புனிதமான” பாதுகைகள்` remains **“holy” sandals**, `சதிகார ராமன்` → **the conspirator Rama**, and the final `சதி நிறைந்த சாகசப் பேச்சு` → **audacious, conspiracy-laden speech**.
+
 ## Final consistency reminders
 
 During the publication-level gate, recheck especially:
@@ -122,4 +149,5 @@ During the publication-level gate, recheck especially:
 - Article 5 **Bharadvaja / Bar** and both Kambar sense-translations;
 - Article 6 **Mooli-Alangari / Brahmin Vambar / splint / walk on their feet**;
 - Article 7 **Vibhishana / Sivagnanam / source-bearing unexplained forms**;
-- Article 8 **no one to tend him / paakkai / Sayantan / tail / sacred-thread king** and the scan-52 unmatched quote.
+- Article 8 **no one to tend him / paakkai / Sayantan / tail / sacred-thread king** and the scan-52 unmatched quote;
+- Article 9 **dharma / truth / atheism**, source-bearing **Jambali / naathigam**, the sandals-as-rule analogy, **conspirator Rama**, and the Nehru/Governor Prakasa comparison.
