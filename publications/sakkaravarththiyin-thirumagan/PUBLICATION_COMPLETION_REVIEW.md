@@ -14,16 +14,21 @@ This review closes the Tamil source-archival layer for the supplied 2018 reprint
 |---|---|
 | Physical scan pages classified | **83 / 83 PASS** |
 | Physical scan page records present | **83 / 83 PASS** |
-| Page records direct-visually audited | **83 / 83 PASS** |
+| Initial page records direct-visually audited | **83 / 83 PASS** |
+| Final word-by-word / punctuation-by-punctuation visual fidelity pass | **83 / 83 PASS** |
 | Printed contents articles identified | **14 / 14 PASS** |
 | Article start/end boundaries directly verified | **14 / 14 PASS** |
 | Article assemblies created | **14 / 14 PASS** |
+| Article assemblies rechecked after fidelity corrections | **14 / 14 PASS** |
 | Article body pages blocked | **0** |
 | Article body pages needs-review | **0** |
+| Outstanding known visual-fidelity discrepancies | **0** |
 | Silent modernization / normalization permitted | **No** |
 | Source PDF committed to repository | **No** |
 
-**Result: SOURCE-LAYER COMPLETION GATE PASSED.**
+**Result: SOURCE-LAYER + STRICT VISUAL TEXT-FIDELITY COMPLETION GATES PASSED.**
+
+Detailed fidelity provenance: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Final physical-page classification
 
@@ -37,7 +42,7 @@ This review closes the Tamil source-archival layer for the supplied 2018 reprint
 - scans **43–49**: Article 7
 - scans **50–54**: Article 8
 - scans **55–60**: Article 9
-- scans **61–64**: Article 10
+- scans **61–64**: Article 10 — source heading **`விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`**
 - scans **65–70**: Article 11
 - scans **71–73**: Article 12
 - scans **74–78**: Article 13
@@ -61,9 +66,30 @@ Scan 83 is the back cover and is not article text.
 
 These remain separate source witnesses.
 
+### Article 10 heading / body witness
+
+- contents page: `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`
+- article heading page: `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`
+- scan-63 body phrase: `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`
+
+The strict fidelity pass corrected the earlier mistaken heading to `எனப்படும்`; the scan-63 body phrase remains unchanged because it is a separate source occurrence.
+
+### Article 14 title witnesses
+
+- contents page: `காரியமாகும் வரையில் காலைப் பிடி!`
+- article heading page: `காரியமாகும் வரையில் காலை பிடி!`
+
+These remain separate source witnesses.
+
 ### Article 12 / back-cover witness
 
-The back cover reprints material associated with Article 12 / printed p.70, but its own typography/text witness is preserved independently. Visible back-cover forms such as `எந்தப் பெண்ணாவது, தனது` and `அறி குறி?` are not silently copied into the Article 12 body-page reading.
+The back cover reprints material associated with Article 12 / printed p.70, but its own typography/text witness is preserved independently. Visible back-cover forms include `எந்தப் பெண்ணாவது, தனது`, `அறி குறி?`, and `அத்தகைய நாண உணர்ச்சி தலைகாட்டுகிறது. சொந்தக் கணவனைக்...`. These are not silently copied into the Article 12 body-page reading.
+
+## Strict-pass correction provenance
+
+The final pass found **11 distinct fidelity correction classes**, including source word-boundary, lexical, title and sentence-boundary corrections. Examples include `மற்றுமுள்ள`, `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`, `எப்படி பெய்ப்படி`, `கல் சாசனமோ`, source-visible `பரத்துவாஜ...`, `சீறிப் பாய்ந்தார்கள்!`, `தூய்மை யுடையதாயிருக்கிறது`, `கவுசல்யா தேவி`, the Article 10 heading `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`, and the scan-83 sentence break `தலைகாட்டுகிறது. சொந்தக்`.
+
+See [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md) for old-reading → source-reading details.
 
 ## Physical-copy marks
 
@@ -75,4 +101,4 @@ No English translation is released by this completion review. The Tamil source l
 
 ## Archival state
 
-`சக்கரவர்த்தியின் திருமகன்` is now **fully source-archived for the supplied edition**: 83/83 physical pages and 14/14 article assemblies complete, with no unresolved article-body reading locations.
+`சக்கரவர்த்தியின் திருமகன்` is now **fully source-archived and strict visual-text-fidelity complete for the supplied edition**: 83/83 physical pages and 14/14 article assemblies complete and rechecked, with no unresolved article-body reading locations and no outstanding known visual-fidelity discrepancies.
