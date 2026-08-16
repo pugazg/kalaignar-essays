@@ -9,17 +9,17 @@ A first draft is never automatically verified. Every article must pass T0 source
 
 ## Publication review status
 
-- articles drafted: **11 / 14**
-- articles T2 fidelity-reviewed: **11 / 14**
-- articles T3 voice-reviewed: **11 / 14**
-- articles T4 audited: **11 / 14**
-- articles T5 verified: **11 / 14**
+- articles drafted: **12 / 14**
+- articles T2 fidelity-reviewed: **12 / 14**
+- articles T3 voice-reviewed: **12 / 14**
+- articles T4 audited: **12 / 14**
+- articles T5 verified: **12 / 14**
 - publication-level cross-article review: **not started**
 - unresolved translation questions: **0**
 
 ## Publication-wide identity / label rule
 
-The user established that `ஆச்சாரியார்` refers to **C. Rajagopalachari (Rajaji)** and chose **Achariyar** as the English source-label rendering. Preserve source-label changes: Article 7 explicitly uses `இராஜாஜி`, so that occurrence remains **Rajaji**.
+The user established that `ஆச்சாரியார்` refers to **C. Rajagopalachari (Rajaji)** and chose **Achariyar** as the English source-label rendering. Preserve source-label changes: Article 7 explicitly uses `இராஜாஜி`, so that occurrence remains **Rajaji**. Preserve source plurals as well, such as Article 11 `ஆச்சாரியார்களுக்கு` → **the Achariyars**.
 
 ## Verified article records
 
@@ -59,68 +59,69 @@ Tamil SHA `e7a2b2e1d3b703d672b0be7569440217ccb03d3e`; scans 61–64 / printed 59
 - Tamil SHA: **`b324e995d580ee021577b998d193d005fa6446ad`**
 - English: `11-nadappathellam-narayanan-seyala.md`
 - source pages: scans **65–70 / printed pp.63–68**
-- T0: **passed** — fresh strict-reviewed Tamil assembly fetched, full blob read, and page witnesses 65–70 checked before title selection
-- T1: **passed** — complete close translation created with all six source-page comments
-- T2: **passed** — paragraph-by-paragraph bilingual fidelity review completed; source dates, numbers, quotations, repeated questions and page-boundary continuations checked
-- T3: **passed** — contradiction ridicule, direct reader commands, Maricha counterfactual, Janaki insult cascade, fate argument and closing political sarcasm reviewed for Kalaignar's force
-- T4: **passed** — terminology, source-specific labels, quote anomalies, dates, chapter numbers, names and publication-wide Achariyar rule audited
+- T0–T5: **passed / verified**
+- Key review: May 1954/1955 contradiction; **backing orchestra**, **Chanakya**, direct Brahmin-leader label; Narayana/Rama contradiction; **dharma and justice / sinful act / Oh-ho! / Ayyo, Lakshmana!**; scan-69 unmatched outer quotation; Janaki insult cascade; **fourth-rate woman**; fate reversal; physical tongue image; **Kaga Pattar**; source plural **the Achariyars**; final livelihood line.
+
+### 12 — மாரீசனைத் துரத்திச் சென்ற ராமனிடம் → `To Rama Who Went Chasing Maricha`
+
+- Tamil source: `../../articles/12-maarisanai-thuraththi-sendra-ramanidam.md`
+- Tamil SHA: **`01aae57b137bfb3d762c4cb6a62e149bfdb78edb`**
+- English: `12-maarisanai-thuraththi-sendra-ramanidam.md`
+- source pages: scans **71–73 / printed pp.69–71**
+- T0: **passed** — fresh strict-reviewed Tamil assembly fetched and read in full; page witnesses 71–73 checked; scan-83 back-cover promotional witness independently checked and explicitly excluded from the controlling body witness
+- T1: **passed** — complete close English translation created with all three source-page comments
+- T2: **passed** — paragraph-by-paragraph bilingual fidelity review completed; both *Kalki* dates, quoted material, repeated questions, source terms and the scan-83/body distinction checked
+- T3: **passed** — Jatayu/Ravana bodily-force sequence, upper-garment/modesty interrogation, harsh social/sexual polemic, direct address and closing rubbish-on-head attack reviewed for Kalaignar's force
+- T4: **passed** — terminology, source-bearing names, `அம்சம் / அவதாரம்` distinction, scan-72 `அவனாகவே` difficulty, scan-83 promotional witness and publication-wide Achariyar rule audited
 - T5: **verified**
 
-#### Article 11 T1/T2 decisions and corrections
+#### Article 12 T1/T2 decisions and corrections
 
-- Title chosen only after reading the whole article: `நடப்பதெல்லாம் நாராயணன் செயலா?` → **`Is Everything That Happens Narayana's Doing?`**. `doing` keeps the source's conversational accusation rather than turning it into abstract theology.
-- Publication-wide `ஆச்சாரியார்` → **Achariyar** throughout; closing source plural `ஆச்சாரியார்களுக்கு` remains **the Achariyars** rather than being silently singularised.
-- All six source boundaries retained: scans **65, 66, 67, 68, 69, 70**.
-- The May **1954** / May **1955** contradiction remains exact, along with the questions **A disorder of the brain?—confusion?**.
-- `பின்னணி வாத்யக் கோஷ்டியினர்` → **backing orchestra**, preserving the mocking musical image; `சாணக்கியர்` remains source-bearing **Chanakya**.
-- `வடிகட்டிய வரட்டுக் குழப்பம்` is intentionally left odd as **filtered, dry confusion** rather than academically paraphrased.
-- Achariyar's 9.1.1955 line remains compact: **Narayana knows that he himself is Rama. But Rama does not think that he himself is Narayana.**
-- Maricha quotation from **23.1.1955 — Kalki** is complete; source-corrected `மாள்வதைவிட` becomes **rather than die at your hands**.
-- `‘தர்ம நியாய’ங்` → **“dharma and justice”** and `‘பாபச் செய்கை’` → **“sinful act”**, retaining the source quotation-marked formulations.
-- Scan 68's corrected `ஓகோ !` is retained as **Oh-ho!**; source sentence break `நரிகள். அவலட்சணமாக...` is preserved as **The jackals. They howl ominously.**
-- The Maricha-deer quotation remains dated **13.2.1955 — Kalki** and keeps `Ha, Sita`, ill omens, trembling and danger.
-- Kalaignar's counterfactual reply preserves **Ayyo, Lakshmana!**, **Maricha, that great sinner**, the repeated **why did he not...?**, and the direct challenge to **O Chakravarthi who writes Chakravarthi's Son**.
-- Scan 69's first Janaki quotation visibly has an outer opening quotation plus an inner opening quotation, but only the inner one visibly closes before `என்றாள்.`. English uses readable quotation typography and records the unmatched outer source mark explicitly.
-- The Janaki passage retains the full insult sequence and accusations, including deception, a great plot, **Vile man! Wicked man!**, Bharata's instigation, and the suggestion that Lakshmana wanted the elder brother's wife.
-- No Tamil paragraph, source date, chapter number, insult sequence or rhetorical question was omitted.
+- Title chosen after reading the whole article: `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்` → **`To Rama Who Went Chasing Maricha`**. The direct verbal construction is retained rather than turning it into a neutral scene label.
+- Publication-wide `ஆச்சாரியார்` → **Achariyar** applied throughout.
+- All three body boundaries retained: scans **71, 72, 73** / printed **69, 70, 71**.
+- Scan **83** was separately inspected. It is the physical back cover and contains a promotional excerpt of Article 12 material from printed p.70. Its visible forms—including `அறி குறி?` and the sentence break `அத்தகைய நாண உணர்ச்சி தலைகாட்டுகிறது. சொந்தக்...`—remain independent and were **not** substituted into the controlling body transcription.
+- Achariyar quotations dated **30.1.1955 — Kalki** and **6.2.1955 — Kalki** are retained; no published outside English rendering was imported.
+- `மேலுத்தரியம்` in the quoted passage → **upper cloth**; Kalaignar's recurring `மேலாடை` → **upper garment**.
+- The scan-72 body witness visibly reads `அவனாகவே` in the sentence about dropping the garment. That Tamil has **not** been silently corrected. The surrounding sentence and argument continue to attribute the act to Sita, so the English contextually reads **she drops her upper garment down on her own**; this source difficulty is explicitly carried into the translator note and final consistency checklist.
+- `அம்சம்` → **aspect**, deliberately distinct from `அவதாரம்` → **incarnation**. This distinction is essential to Achariyar's “aspects of Sita” claim and Kalaignar's final Sita/Draupadi escalation.
+- `ஆஸ்திகப் பெருமக்களே` → **theist worthies**; `இரவு ராஜாக்கள்` → **kings of the night**; `வழுக்கி விழுந்த சகோதரிகள்` → **sisters who slipped and fell**.
+- Source-specific `காகுத்தன்` → **Kakuthan** and `ஆஷாடபூதிகள்` → **Ashadabhoothis**; no outside identification or epic-name normalisation was imported.
+- No Tamil body paragraph, direct command, rhetorical question, source date or page boundary was omitted.
 
-#### Article 11 T3 Kalaignar-voice decisions
+#### Article 12 T3 Kalaignar-voice decisions
 
-- Opening **He does not stop with this—read further** and **Read that too** remain commands to the reader.
-- The **backing orchestra / mire / Chanakya / pitiable Brahmin leader** chain remains accusatory and unsmoothed.
-- `ஆச்சாரியாருக்குத்தான் வெளிச்சம்!` becomes **Only Achariyar can shed light on it!**, preserving the sarcastic light/knowledge image.
-- Sita's **honeyed lips** and Rama's **Oh-ho!** are kept against the surrounding ridicule rather than flattened into neutral narration.
-- `நாலாந்தரப் பெண்மணி` remains the harsh **fourth-rate woman**; `சங்கு சக்கராயுதபாணியின் சம்சாரம்` becomes **the wife of the bearer of the conch and discus**, keeping Kalaignar's divine/domestic contrast.
-- Fate is turned back against Achariyar exactly as in the source: if fate excuses the heroes, Ravana too becomes **blameless** and Sita's abduction becomes **the play of fate**.
-- The closing sequence preserves **Fate, oh fate!**, **God has arranged disaster in every way**, and Achariyar's own **desire / delusion / doing what ought not to be done** condemnation.
-- `நாக்கில் நரம்பின்றித்` is deliberately physical as **with a tongue that seems to have no nerve in it** rather than neutralised to `speaks irresponsibly`.
-- `அர்ச்சிக்கிறார்` remains sarcastic **“worships”**; `தடை - படை` is rendered **bans—and forces** without inventing replacement English wordplay.
-- Source-specific **Kaga Pattar** is retained without outside identification; `கட்டுண்டோம் - பொறுத்திருப்போம்` remains **we are bound—let us endure**.
-- Final `நடக்கட்டும் பிழைப்பு - எவ்வளவு நாளைக்கு என்று பார்ப்போம்;` remains **Let the livelihood go on—we shall see for how long;** rather than being turned into a neutral conclusion.
+- The Jatayu paragraph keeps the sarcastic **Poor thing; if only that Jatayu had not fought...** before moving into Ravana physically **clasping**, **gripping tightly** and **carrying forcibly** Sita. The discomfort of Kalaignar's argument is not softened.
+- The article's sustained upper-garment/chastity interrogation remains a sequence of direct questions, including **what are we to think of her? What would Ravana himself have thought?**
+- Kalaignar's contrast between Sita's accusation toward Lakshmana and her own upper-garment act remains explicit; it is not reduced to a general comment on modesty.
+- `பெண்ணின் நாயகம் சீதை` is carried contextually as **Sita is the ideal of womanhood**, retaining the target of his challenge to mothers.
+- The harsh closing social vocabulary is not neutralised: **kings of the night**, **a life of prostitution**, **volcanoes of anguish with tears flooding their eyes**, **sisters who slipped and fell**, and **Pitiful—most pitiful!** remain visible.
+- The market-street woman comparison, **flowering vines born into noble families**, **immense nerve**, and the accusation that **Ashadabhoothis** will heap rubbish on their heads and dance remain direct.
+- The final escalation remains **incarnations of Sita ... incarnations of Draupadi!**, preserving the distinction from the earlier `aspect` terminology.
 
-#### Article 11 T4 terminology / source audit
+#### Article 12 T4 terminology / source audit
 
-Confirmed against strict-reviewed Tamil assembly and page witnesses:
+Confirmed against the strict-reviewed article assembly, body page witnesses and independent back-cover witness:
 
-- Tamil SHA **`b324e995d580ee021577b998d193d005fa6446ad`**;
-- scans **65–70 / printed 63–68**;
-- source dates **9.1.1955**, **23.1.1955**, **13.2.1955**, **30.1.1955**, **20.2.1955**;
-- source chapter references **49** and **53**, plus May **1954 / 1955** contrast;
-- names/forms: Surpanakha, Khara, Rama, Kambar, Valmiki, Narayana, Ravana, Sita, Maricha, Lanka, Lakshmana, Janaki, Sumitra, Bharata, Mahalakshmi, Kaga Pattar;
-- `அரக்கர்` → **demons**, `ராட்சச` → **Rakshasa**, preserving established distinction;
-- `தர்ம நியாய`, `பாபச் செய்கை`, `ஓகோ !`, `கொழுந்தன்`, `நாலாந்தரப் பெண்மணி`, `நாக்கில் நரம்பின்றித்`, source plural `ஆச்சாரியார்களுக்கு`, and the scan-69 unmatched outer quotation all audited;
-- no outside Ramayana wording, biographical identification of Kaga Pattar, or external explanation of Chanakya was imported into the body.
+- Tamil SHA **`01aae57b137bfb3d762c4cb6a62e149bfdb78edb`**;
+- controlling body scans **71–73 / printed 69–71**;
+- independent promotional witness: scan **83 / back cover**, never body authority;
+- dates **30.1.1955** and **6.2.1955** with *Kalki* attribution;
+- names/forms: Rama, Maricha, Lakshmana, Sita, Ravana, Lakshmi, Jatayu, Kakuthan, Draupadi, Achariyar, Ashadabhoothis;
+- terms/images: `மேலுத்தரியம்` → **upper cloth**, `மேலாடை` → **upper garment**, `அம்சம்` → **aspect**, `அவதாரம்` → **incarnation**, `ஆஸ்திகப் பெருமக்கள்` → **theist worthies**, `இரவு ராஜாக்கள்` → **kings of the night**, `வழுக்கி விழுந்த சகோதரிகள்` → **sisters who slipped and fell**, `வக்காலித்துப்படி` → **take up their brief**;
+- scan-72 source-visible `அவனாகவே` explicitly documented rather than repaired;
+- no scan-83 wording, external Ramayana wording or outside identification of source-specific labels was imported into the body.
 
-#### Article 11 unresolved items
+#### Article 12 unresolved items
 
-**None.** Final publication consistency review should recheck **Narayana/Rama**, source plural **the Achariyars**, **backing orchestra / Chanakya / Brahmin leader**, **Oh-ho!**, scan-69 quotation anomaly, **fourth-rate woman**, physical tongue image, **Kaga Pattar**, and the final livelihood line.
+**None.** The scan-72 `அவனாகவே` form is a documented source difficulty, not an unresolved transcription item: the Tamil witness remains frozen and the contextual English action is explicitly recorded. Final publication consistency review should recheck **scan-83 separation**, **upper cloth / upper garment**, **aspect / incarnation**, `அவனாகவே`, **Kakuthan / Ashadabhoothis**, the prostitution/anguish imagery and the closing Sita/Draupadi escalation.
 
-## Articles 12–14
+## Articles 13–14
 
-Articles 12–14 remain `not-started`; each T0 source SHA must be fetched fresh when its article begins.
+Articles 13–14 remain `not-started`; each T0 source SHA must be fetched fresh when its article begins.
 
 ## Final publication consistency gate — pending
 
-After all 14 articles are individually T5 verified, recheck recurring names/epithets, ideological vocabulary, source-label switches, quotations, citations, title style, tone, page comments and all source-bearing forms. Specific non-regression points now include Articles 4–11 wordplay/source anomalies documented above.
+After all 14 articles are individually T5 verified, recheck recurring names/epithets, ideological vocabulary, source-label switches, quotations, citations, title style, tone, page comments and all source-bearing forms. Specific non-regression points now include Articles 4–12 wordplay/source anomalies documented above.
 
 Do not declare the English publication complete before that gate passes.
