@@ -33,8 +33,8 @@ Review ledger: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLA
 
 Current status:
 
-- English drafts complete: **12 / 14**
-- English articles T0–T5 verified: **12 / 14**
+- English drafts complete: **13 / 14**
+- English articles T0–T5 verified: **13 / 14**
 - final 14-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -56,21 +56,25 @@ The user established that `ஆச்சாரியார்` refers to **C. Raj
 10. `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **To Rama, Who Is Said to Be Vishnu's Incarnation!**
 11. `நடப்பதெல்லாம் நாராயணன் செயலா?` → **Is Everything That Happens Narayana's Doing?**
 12. `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்` → **To Rama Who Went Chasing Maricha**
+13. `துரோகிகள் சந்திப்பு!` → **Traitors Meet!**
 
-Article 12 Tamil SHA: `01aae57b137bfb3d762c4cb6a62e149bfdb78edb`  
-English: [`translations/en/12-maarisanai-thuraththi-sendra-ramanidam.md`](translations/en/12-maarisanai-thuraththi-sendra-ramanidam.md)
+Article 13 Tamil SHA: `369c3f4e5030c5810e815d13692372ae73849837`  
+English: [`translations/en/13-thurogigal-santhippu.md`](translations/en/13-thurogigal-santhippu.md)
 
-Article 12 passed **T0–T5**. Important non-regression points:
+Article 13 passed **T0–T5**. Important non-regression points:
 
-- controlling body witness is scans **71–73 / printed pp.69–71**; scan **83** remains a separate promotional back-cover witness and does not rewrite the body;
-- `மேலுத்தரியம்` → **upper cloth**, `மேலாடை` → **upper garment**, and `அம்சம்` → **aspect**, kept distinct from `அவதாரம்` → **incarnation**;
-- scan-72 source-visible `அவனாகவே` remains unchanged in Tamil; the contextual English action is documented rather than silently correcting the source;
-- Jatayu/Ravana physical-force imagery, repeated modesty questions, **theist worthies**, **kings of the night**, prostitution/anguish imagery, **Pitiful—most pitiful!**, market-street comparison and rubbish-on-head dance remain direct;
-- source-bearing **Kakuthan** and **Ashadabhoothis** are not externally normalised.
+- scans **74–78 / printed pp.72–76** are the controlling source span;
+- **Traitors Meet!** keeps the title's compact accusation, while the body preserves Rama's conspiracy accusation and Sugriva's betrayal/kingdom-seizure framing;
+- `மாறடித்து ஒப்பாரி வைத்தான்` → **beat his chest and wailed an oppari**;
+- `அரக்கன்` / `அசுரன்` remain **demon / asura**, while **Vanara / vimana / yojana** remain source-bearing;
+- source-confirmed `துராசைப் பட்டுக்` is unchanged in Tamil and translated contextually as **driven by greed**;
+- `இது ஆச்சாரியார் தீட்டியுள்ள கதை!` → **This Is the Story Achariyar Has Drawn Up!**;
+- source-irregular quotation openings across scans 75–76 and scan-78 `(6.3.1955 - ‘கல்கி)` missing a closing single quote are documented, not silently repaired in the Tamil layer;
+- scan-78 hearsay repetition, **Here Achariyar dodges**, and final **Why? Why, Achariyar; why?** retain Kalaignar's attack.
 
 ## Exact next activity
 
-Proceed with complete translation and T0–T5 review of **Article 13 — `துரோகிகள் சந்திப்பு!`**. Read its whole strict-reviewed Tamil assembly before finalising the English title.
+Proceed with complete translation and T0–T5 review of **Article 14 — `காரியமாகும் வரையில் காலைப் பிடி !`**. Preserve the known distinction between the contents-page title `காரியமாகும் வரையில் காலைப் பிடி!` and the article heading `காரியமாகும் வரையில் காலைப் பிடி !`. After Article 14 is individually verified, begin the separate publication-level E6 cross-article consistency review.
 
 ## Source authority
 
