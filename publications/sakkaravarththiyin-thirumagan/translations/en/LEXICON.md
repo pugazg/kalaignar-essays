@@ -16,8 +16,8 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 The user explicitly established that `ஆச்சாரியார்` in this publication refers to **C. Rajagopalachari (Rajaji)** and chose **`Achariyar`** as the English body form.
 
-- Articles **1–9** use **Achariyar** wherever the Tamil source uses `ஆச்சாரியார்`.
-- Articles **10–14** must do the same unless Kalaignar himself changes label.
+- Articles **1–10** use **Achariyar** wherever the Tamil source uses `ஆச்சாரியார்`.
+- Articles **11–14** must do the same unless Kalaignar himself changes label.
 - If the source explicitly says `இராஜாஜி`, preserve **Rajaji**; Article 7 demonstrates this rule.
 - Do not mechanically replace `ஆச்சாரியார்` with `Rajaji` in Kalaignar's body text.
 
@@ -36,7 +36,7 @@ The user explicitly established that `ஆச்சாரியார்` in this
 | `அஸ்வமேதயாகம்` | `Ashvamedha sacrifice` | Conventional epic form. | Article 1 | established |
 | `தேவபாயசம்` | `divine payasam` | Retain `payasam`. | Article 1 | established |
 | `கற்பு` | `chastity` | Preserve source-era moral vocabulary. | Article 1 | established |
-| `சப்பைக்கட்டு` | `splint` / `fasten a splint` | Physical prop/splint image; reused Article 6. | Article 1 | contextual image |
+| `சப்பைக்கட்டு` / `சப்பைக் கட்டு` | `splint` / `fasten a splint` | Physical prop/splint image; reused Articles 6 and 10. | Article 1 | contextual image |
 | `படியுங்கள்!` | `Read!` | Keep direct command. | Article 1 | established |
 | `பாருங்கள்!` / `கவனியுங்கள்!` | `Look!` / `Look closely!` | Keep reader-facing imperative. | Article 1 | established |
 | `தேகம்` / `உணர்வு` | `body` / `feeling` | Article 2 conceptual pair. | Article 2 | established |
@@ -89,56 +89,56 @@ The user explicitly established that `ஆச்சாரியார்` in this
 | `இனித்தவாயன்` | `Inithavayan` | Unexplained source form. | Article 7 | source-bearing |
 | `ஆர்குஸிஸ்` | `Argusis` | Preserve source-visible form. | Article 7 | source-bearing |
 | `காவடி தூக்கும்` | `carrying kavadi for` | Preserve physical/cultural political image. | Article 7 | contextual image |
-| `நாதியற்று` / `நாதியில்லாமல்` | `with no one to tend him` / `left with no one to tend him` | Article 8 title/body echo; not reduced to abstract loneliness. | Article 8 | established |
+| `நாதியற்று` / `நாதியில்லாமல்` | `with no one to tend him` / `left with no one to tend him` | Article 8 title/body echo. | Article 8 | established |
 | `பதிபக்தி` | `devotion to her husband` | Used sarcastically in Kausalya passage. | Article 8 | contextual |
 | `கற்புக்கரசி(?)` | `queen of chastity(?)` | Preserve question-marked sarcasm. | Article 8 | contextual epithet |
 | `நிர்க்கதி` | `without refuge` | Preserve Kausalya's quoted condition. | Article 8 | established |
-| `சூதமாகதர்கள்` | `Suta-Magadhars` | Source-bearing ceremonial group form; no external expansion added. | Article 8 | source-bearing |
-| `பார் ஆண்ட பார்த்திபன்` | `the monarch who had ruled the world` | Preserve the scale/irony before `நாதியில்லாமல்`. | Article 8 | contextual image |
-| `பாக்கை` | `paakkai` | Source-specific body-part word not glossed in article; retained rather than guessed. | Article 8 | source-bearing |
-| `புலன்களை அடக்கியாளும் திறமை` | `ability to master his senses` | Repeated sarcastic target in closing section. | Article 8 | established |
+| `சூதமாகதர்கள்` | `Suta-Magadhars` | Source-bearing ceremonial group form. | Article 8 | source-bearing |
+| `பார் ஆண்ட பார்த்திபன்` | `the monarch who had ruled the world` | Preserve title/body irony. | Article 8 | contextual image |
+| `பாக்கை` | `paakkai` | Source-specific body-part word not glossed; do not guess. | Article 8 | source-bearing |
+| `புலன்களை அடக்கியாளும் திறமை` | `ability to master his senses` | Repeated sarcastic target. | Article 8 | established |
 | `காம போதை` | `intoxication of lust` | Preserve sexualised ridicule. | Article 8 | contextual |
 | `உடல் சுகம்` | `bodily pleasure` | Preserve physical/sexual wording. | Article 8 | contextual |
-| `வாலை அடக்கிப்` | `keep his tail under control` | Source-visible physical insult retained literally enough to preserve the oddity. | Article 8 | source-bearing image |
+| `வாலை அடக்கிப்` | `keep his tail under control` | Source-visible physical insult retained. | Article 8 | source-bearing image |
 | `பூணூல் வேந்தர்` | `sacred-thread king` | Polemical epithet for Achariyar. | Article 8 | contextual epithet |
-| `தருமம்` / `தர்மம்` | `dharma` | Article 9 title uses `தருமம்`; quoted/polemical labels also use `தர்ம`. Preserve the source-era term rather than flattening it to generic morality. | Article 9 | established |
-| `சத்தியம்` | `truth` / `word of truth` | Article 9 repeatedly turns on promises, commands and truth; choose according to sentence while keeping the repetition visible. | Article 9 | contextual |
-| `நாஸ்திகம்` / `நாஸ்திகன்` | `atheism` / `atheist` | Preserve Rama's quoted accusation and Kalaignar's reversal against Dasaratha/Rama. | Article 9 | established |
-| `தர்ம ராஜன்` | `Dharma Raja` | Mock-praised label for Dasaratha; keep the source title rather than paraphrasing it away. | Article 9 | contextual label |
-| `நாதிகமுள்ளவர்கள்` | `those with naathigam` | Verified unusual source form. Do **not** silently correct it to `நாஸ்திக...` or assign an unsupported meaning; retain source-bearing `naathigam` with note. | Article 9 | source-bearing |
-| `ஜாம்பாலி` | `Jambali` | Source-visible name retained; no external epic-name normalisation. | Article 9 | source-bearing |
-| `சூட்சமம்` | `the catch` | In the Kaikeyi/Rama return argument; preserve Kalaignar's abrupt reveal. | Article 9 | contextual |
-| `ராஜ்ய பரிபாலனம்` | `administer the kingdom` | Vasishta's quoted instruction to Bharata. | Article 9 | established |
-| `பாதுகைகள்` | `sandals` | Rama's sandals function as political/official surrogate; preserve quoted `“புனிதமான”` as **“holy”** where present. | Article 9 | established image |
-| `சதிகார ராமன்` | `the conspirator Rama` | Preserve the direct polemical label; do not soften to neutral strategy. | Article 9 | polemical label |
-| `பக்த கோடிகள்` | `crores of devotees` | Keep source scale rather than generic `many devotees`. | Article 9 | contextual |
-| `சதி நிறைந்த சாகசப் பேச்சு` | `audacious, conspiracy-laden speech` | Preserve both the daring and conspiracy charge in the closing Vasishta attack. | Article 9 | contextual image |
+| `தருமம்` / `தர்மம்` | `dharma` | Preserve source-era moral term. | Article 9 | established |
+| `சத்தியம்` | `truth` / `word of truth` | Promise/command/truth contexts. | Article 9 | contextual |
+| `நாஸ்திகம்` / `நாஸ்திகன்` | `atheism` / `atheist` | Preserve quoted accusation and reversal. | Article 9 | established |
+| `தர்ம ராஜன்` | `Dharma Raja` | Mock-praised label for Dasaratha. | Article 9 | contextual label |
+| `நாதிகமுள்ளவர்கள்` | `those with naathigam` | Verified unusual source form; do not silently correct to `நாஸ்திக...`. | Article 9 | source-bearing |
+| `ஜாம்பாலி` | `Jambali` | Source-visible name retained; no external normalisation. | Article 9 | source-bearing |
+| `சூட்சமம்` | `the catch` | Abrupt rhetorical reveal. | Article 9 | contextual |
+| `ராஜ்ய பரிபாலனம்` | `administer the kingdom` | Vasishta's instruction to Bharata. | Article 9 | established |
+| `பாதுகைகள்` | `sandals` | Political/official surrogate; source `“புனிதமான”` → **“holy”**. | Article 9 | established image |
+| `சதிகார ராமன்` | `the conspirator Rama` | Preserve direct polemical label. | Article 9 | polemical label |
+| `பக்த கோடிகள்` | `crores of devotees` | Keep source scale. | Article 9 | contextual |
+| `சதி நிறைந்த சாகசப் பேச்சு` | `audacious, conspiracy-laden speech` | Preserve daring + conspiracy charge. | Article 9 | contextual image |
+| `ராமாயணப் புலிகள்` | `Ramayana tigers` | Mocking label; do not neutralise to generic defenders/scholars. | Article 10 | polemical label |
+| `சிரார்த்த போஜனம்` | `shraddha feast` | Retain ritual term in Vatapi–Ilvala story. | Article 10 | source-bearing cultural term |
+| `மேஷ (ஆடு) மாமிசம்` | `mesha (goat) meat` | Preserve source's own parenthetical gloss. | Article 10 | contextual |
+| `நரமாமிசம்` | `human flesh` | Keep the cannibalism argument explicit. | Article 10 | established |
+| `திரிகாலமுணரும்` | `knows / knew all three times` | Keep close to source; do not silently insert an outside explanatory gloss. | Article 10 | source-bearing phrase |
+| `அவதார புருஷன்` / `அவதார புருஷர்கள்` | `incarnation-man` / `incarnation-men` | Article 10 retains the marked source epithet; elsewhere context may permit `an incarnation`. | Article 10 | contextual |
+| `காம தாகம்` | `thirst of lust` | Preserve sexualised physical image in Surpanakha scene. | Article 10 | contextual image |
+| `இரண்டாந்தாரம்` | `second wife` | Lakshmana's quoted taunt. | Article 10 | established |
+| `புருஷரத்தினங்கள்` | `gems among men` | Ironically elevated description of Rama/Lakshmana. | Article 10 | contextual epithet |
+| `ரசாபாச` / `ரசாபாச மான` | `rasabhasa` / `in a rasabhasa manner` | Source-specific aesthetic/moral term is not glossed in article; retain rather than over-explain. | Article 10 | source-bearing |
+| `விகார சொரூபம்` / `விகார மிகு சொரூபம்` | `grotesque form` | Achariyar's defence and Kalaignar's rebuttal. | Article 10 | contextual |
+| `கற்பனா சக்தி` | `power of imagination` | Achariyar's quoted defence. | Article 10 | established |
 
-## Article 8 contextual decisions
+## Article 10 contextual decisions
 
-- Title `நாடாண்ட மன்னன் நாதியற்று செத்தான்` → **`The King Who Ruled the Land Died with No One to Tend Him`**. The English preserves the article's central irony: a ruler with thousands of wives dies without anyone beside him to tend his final moments.
-- All five page-boundary comments are retained: scans **50–54 / printed pp.48–52**.
+- Title `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **`To Rama, Who Is Said to Be Vishnu's Incarnation!`**.
+- Heading/contents `எனப்படும் ... ராமனிடம்` and scan-63 body `என்பதும் ... ராமனிடமே` remain distinct source witnesses; do not harmonise them.
+- All four page-boundary comments retained: scans **61–64 / printed pp.59–62**.
 - `ஆச்சாரியார்` remains **Achariyar** throughout.
-- Source-visible `தாம் பத்தினி` is translated contextually as **devoted wife**, with the source form documented in the translator note rather than silently altering the Tamil layer.
-- `நாதியற்று` in the title and `நாதியில்லாமல்` in the body deliberately echo as **with no one to tend him**.
-- The scan-52 quotation beginning `சோகத்தாலும்...` has no visible closing quotation mark before Kalaignar resumes his narration; the English explicitly documents and preserves the unmatched opening.
-- `சயந்தன்` remains **Sayantan** and `பாக்கை` remains **paakkai**; neither is silently normalised from outside knowledge.
-- The dying-king satire retains the repeated sleeping-wife sequence, **sixty thousand**, Aryan-culture jab, mastery-of-senses refrain, **intoxication of lust**, **bodily pleasure**, the source-visible **tail** image, and final **sacred-thread king Achariyar**.
-
-## Article 9 contextual decisions
-
-- Title `தந்தை மகனும் தருமம் தவறியவர்கள்!` → **`Father and Son—Both Strayed from Dharma!`**. `தருமம்` is kept as **dharma** because the argument explicitly turns on truth, promise, command and the claimed moral status of both Dasaratha and Rama.
-- All six page-boundary comments are retained: scans **55–60 / printed pp.53–58**.
-- `ஆச்சாரியார்` remains **Achariyar** throughout.
-- The opening Chitrakuta quotation's mixed source quotation-mark forms are documented; English uses normal quotation typography because the quotation scope is unambiguous.
-- `ஜாம்பாலி` remains **Jambali**, not externally normalised.
-- Verified unusual `நாதிகமுள்ளவர்கள்` remains source-bearing **naathigam** and is explicitly distinguished from nearby `நாஸ்திகம் / நாஸ்திகன்` → **atheism / atheist**.
-- Rama's and Dasaratha's truth argument preserves repeated **truth**, **Dharma Raja**, the sheep-flock / **Govinda!** jab, and the challenge **will they come? do they have courage? do they have evidence?**.
-- `சூட்சமம்` is carried as **the catch!** in the claim that Kaikeyi, rather than Bharata, was the person whose invitation would have brought Rama back.
-- `ராஜ்ய பாரம்` reuses **burden of rule**; `சதி` remains **conspiracy** and `சதி நினைப்போடு` → **conspiratorial intent**.
-- Rama's covert claim to ownership is preserved through **the country given by me** and Vasishta's `ராஜ்ய பரிபாலனம்` → **administer the kingdom**.
-- The sandals remain a physical-political surrogate: **Rama did not sit on the throne; his sandals sat there**, followed by the Nehru/Delhi–Governor Prakasa/Chennai analogy.
-- `“புனிதமான” பாதுகைகள்` remains **“holy” sandals**, `சதிகார ராமன்` → **the conspirator Rama**, and the final `சதி நிறைந்த சாகசப் பேச்சு` → **audacious, conspiracy-laden speech**.
+- The opening **Ramayana tigers** accusation and 69/41/42–69 accounting remain direct.
+- Vatapi–Ilvala meat story retains **shraddha feast**, goat meat, **mesha (goat) meat**, **human flesh**, **Rakshasa flesh** and the challenge to rishis who **knew all three times**.
+- Scan 63's unmatched opening parenthesis before `முரண்பாட்டைக் கவனியுங்கள்` is preserved and documented.
+- The contradiction line is sharpened as **Now he has begun muddling it all up!** rather than a passive description of confusion.
+- Surpanakha sequence retains **thirst of lust**, the odd source phrase **Two wives will give rise to business trouble**, **second wife**, and Rama's love surging toward her.
+- `புருஷரத்தினங்கள்` → **gems among men**; `ரசாபாச` remains **rasabhasa**; `சப்பைக் கட்டு` reuses **splint**.
+- Final nested quotation irregularities are documented; **Go to elder brother / Go to younger brother!** and the closing **Aryan culture** jab remain direct.
 
 ## Final consistency reminders
 
@@ -149,5 +149,6 @@ During the publication-level gate, recheck especially:
 - Article 5 **Bharadvaja / Bar** and both Kambar sense-translations;
 - Article 6 **Mooli-Alangari / Brahmin Vambar / splint / walk on their feet**;
 - Article 7 **Vibhishana / Sivagnanam / source-bearing unexplained forms**;
-- Article 8 **no one to tend him / paakkai / Sayantan / tail / sacred-thread king** and the scan-52 unmatched quote;
-- Article 9 **dharma / truth / atheism**, source-bearing **Jambali / naathigam**, the sandals-as-rule analogy, **conspirator Rama**, and the Nehru/Governor Prakasa comparison.
+- Article 8 **no one to tend him / paakkai / Sayantan / tail / sacred-thread king** and scan-52 unmatched quote;
+- Article 9 **dharma / truth / atheism**, **Jambali / naathigam**, sandals-as-rule and Nehru/Governor Prakasa comparison;
+- Article 10 title/body witness distinction, **Ramayana tigers**, **shraddha feast / mesha (goat) meat / human flesh**, **all three times**, unmatched parenthesis, **rasabhasa**, **splint**, and the final Aryan-culture line.
