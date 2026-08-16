@@ -40,11 +40,11 @@ Then why must the Brahmin luminary Acharya say that only from now on Bhagavan an
 
 “Whichever avatar I take, my divine play proceeds only with the body and feeling proper to that avatar—that is the explanation Bhagavan himself gave.”
 
-Acharya writes like this in the August 8 issue: “Bhagavan took the Vamana avatar. We have even seen descriptions and pictures of that form. A very, very short form, a tiny form, a body below even human proportions—we have read that such a tiny form is the Vamana avatar. Do you know what it did? To destroy the might of Emperor Mahabali—it asked for three feet of land and, so the story goes, measured the whole world in two strides! Acharya says that whatever avatar Bhagavan takes, he conducts his divine play only with the body and feeling proper to that avatar. Look at this too!
+Acharya writes like this in the August 8 issue: “Bhagavan took the Vamana avatar. We have even seen descriptions and pictures of that form. A very, very short form, a tiny form, a body below even human proportions—we have read that such a tiny form is the Vamana avatar. Do you know what it did? To destroy the might of Emperor Mahabali—it asked for three paces of land and, so the story goes, measured the whole world in two strides! Acharya says that whatever avatar Bhagavan takes, he conducts his divine play only with the body and feeling proper to that avatar. Look at this too!
 
 <!-- The Tamil source opens the quotation above but has no visible closing quotation mark before the following paragraph. -->
 
-Body and feeling, both, are apparently suited to the avatar taken—Bhagavan's own explanation, it seems. The lord of the Brahmin clan repeats it. Fine! Let us accept it! “Then how small must the feet of that tiny body called the Vamana avatar have been? With those tiny feet, how did Vamana-avatar measure the world?” Will people with sense not ask? Should not the learned Acharya answer them?
+Body and feeling, both, are apparently suited to the avatar taken—Bhagavan's own explanation, it seems. The lord of the Brahmin clan repeats it. Fine! Let us accept it! “Then how small must the feet of that tiny body called the Vamana avatar have been? With those tiny feet, how did Vamana-avatar measure the world?” Will people with sense not ask? Should not the genius Acharya answer them?
 
 Bhagavan, it seems, receives the body and feeling suited to the avatar. He took the Varaha avatar—lifted up the earth and brought it back—received a pig-like body—fine! But the Purana is written to say that this pig acquired enough feeling to enjoy pleasure with Bhuma Devi. Is that the feeling suited to the avatar? We wish, with all humility, to ask Acharya.
 
