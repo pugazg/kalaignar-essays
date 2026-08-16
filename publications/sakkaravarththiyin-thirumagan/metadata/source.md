@@ -11,7 +11,7 @@
 - Script: Tamil
 - Controlling source: the supplied scanned PDF
 - Source-layer archival status: **83 / 83 physical scans VERIFIED and classified**
-- Strict visual text-fidelity status: **83 / 83 physical scans PASS; 14 / 14 article assemblies rechecked**
+- Strict visual text-fidelity status: **80 / 83 physical scans complete; 13 / 14 article assemblies fully strict-rechecked; Article 14 strict-rechecked through scan 80**
 
 ## Title / authorship visible in the scan
 
@@ -76,7 +76,7 @@ Direct source inspection establishes the complete boundaries:
 | 11 | நடப்பதெல்லாம் நாராயணன் செயலா? | 65–70 | 63–68 |
 | 12 | மாரீசனைத் துரத்திச் சென்ற ராமனிடம் | 71–73 | 69–71 |
 | 13 | துரோகிகள் சந்திப்பு! | 74–78 | 72–76 |
-| 14 | காரியமாகும் வரையில் காலை பிடி! | 79–82 | 77–80 |
+| 14 | காரியமாகும் வரையில் காலைப் பிடி ! | 79–82 | 77–80 |
 
 Article 14 ends on scan 82 at the printed article-ending ornament. Material below that ornament is not article text.
 
@@ -84,7 +84,7 @@ Article 14 ends on scan 82 at the printed article-ending ornament. Material belo
 
 - Article 5 contents: `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`; heading: `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`.
 - Article 10 contents + heading: `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`; scan-63 body phrase: `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`.
-- Article 14 contents: `காரியமாகும் வரையில் காலைப் பிடி!`; heading: `காரியமாகும் வரையில் காலை பிடி!`.
+- Article 14 contents: `காரியமாகும் வரையில் காலைப் பிடி!`; heading: `காரியமாகும் வரையில் காலைப் பிடி !`.
 
 These are retained as distinct source witnesses rather than harmonized.
 
@@ -100,7 +100,7 @@ The publication states **80** printed pages while the supplied PDF contains **83
 - The scan-82 advertisement includes `தோற்றம் : 1935`, `விடுதலை`, `உலகின் ஒரே பகுத்தறிவு நாளேடு`, and `www.viduthalai.in`.
 - Scan 83 is the physical back cover, not article text.
 - The back cover includes colour artwork, a promotional excerpt associated with Article 12 / printed p.70, barcode `9997720145467`, and `நன்கொடை: ரூ.50/-`.
-- The back-cover excerpt is retained as a separate source witness; visible differences include `எந்தப் பெண்ணாவது, தனது`, `அறி குறி?`, and `அத்தகைய நாண உணர்ச்சி தலைகாட்டுகிறது. சொந்தக் கணவனைக்...`.
+- The back-cover excerpt is retained as a separate source witness; source-layer observations include `எந்தப் பெண்ணாவது, தனது`, `அறி குறி?`, and `அத்தகைய நாண உணர்ச்சி தலைகாட்டுகிறது. சொந்தக் கணவனைக்...`. These scan-83 forms remain pending in the current staged strict-fidelity pass until the final 81–83 batch is completed.
 
 ## Scan / physical-copy observations
 
@@ -114,15 +114,20 @@ The publication states **80** printed pages while the supplied PDF contains **83
 
 ## Strict visual text-fidelity review
 
-After the initial archival completion, every source page was re-read in a separate strict pass at word, word-boundary, punctuation, quotation, heading, date/number and paragraph-continuation level.
+After the initial archival completion, every source page is being re-read in a separate staged pass at word, word-boundary, punctuation, quotation, heading, date/number and paragraph-continuation level.
 
-- physical scans strict-rechecked: **83 / 83 PASS**
-- article assemblies rechecked after corrections: **14 / 14 PASS**
-- blocked article-body readings: **0**
-- needs-review article-body readings: **0**
-- outstanding known visual-fidelity discrepancies: **0**
+Current staged state:
+
+- physical scans strict-rechecked: **80 / 83 COMPLETE**
+- fully strict-rechecked article assemblies: **13 / 14 COMPLETE**
+- Article 14: strict-rechecked through scans **79–80**; scans **81–82** remain
+- final physical back cover scan **83** remains
+- unresolved `NEEDS-PIXEL-REVIEW` items in completed scans 1–80: **0**
+- source-layer article-body readings blocked: **0**
 
 Full correction provenance: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
+
+The strict fidelity gate must remain **OPEN** until scans 81–83 are rechecked and Article 14 is revalidated against its final two article pages.
 
 ## Source authority rule
 
