@@ -11,63 +11,39 @@
 - Script: Tamil
 - Controlling source: the supplied scanned PDF
 - Source-layer archival status: **83 / 83 physical scans VERIFIED and classified**
-- Strict visual text-fidelity status: **80 / 83 physical scans complete; 13 / 14 article assemblies fully strict-rechecked; Article 14 strict-rechecked through scan 80**
+- Strict visual text-fidelity status: **83 / 83 physical scans PASS; 14 / 14 article assemblies rechecked; 0 unresolved items**
 
 ## Title / authorship visible in the scan
 
-Scan page 1 cover:
+Scan page 1 cover and scan page 3 title page identify:
 
-- Author line: **கலைஞர் மு.கருணாநிதி**
-- Title: **சக்கரவர்த்தியின் திருமகன்**
-
-Scan page 3 title page repeats:
-
-- **சக்கரவர்த்தியின் திருமகன்**
-- **கலைஞர் மு.கருணாநிதி**
-- **திராவிடர் கழக (இயக்க) வெளியீடு**
-- பெரியார் திடல், வேப்பேரி, சென்னை - 600 007.
+- title: **சக்கரவர்த்தியின் திருமகன்**
+- author: **கலைஞர் மு.கருணாநிதி**
+- publisher line on title page: **திராவிடர் கழக (இயக்க) வெளியீடு**
 
 ## Edition / publication details visible in scan page 4
 
-The page is headed **நூல் குறிப்பு**.
+The `நூல் குறிப்பு` records, among other entries:
 
-Source-visible entries include:
-
-- நூல் பெயர்: **சக்கரவர்த்தியின் திருமகன்**
-- ஆசிரியர்: **கலைஞர் மு.கருணாநிதி**
-- பதிப்பு: **முதற்பதிப்பு மே 1956 (வேலூர் திராவிடன் பதிப்பகம்)**; **மறு பதிப்பு - 2018**
+- **முதற்பதிப்பு மே 1956 (வேலூர் திராவிடன் பதிப்பகம்)**
+- **மறு பதிப்பு - 2018**
 - நூல் அளவு: **டெம்மி (140 mm x 220 mm)**
 - அச்சு எழுத்து அளவு: **12 points**
 - பக்கங்கள்: **80**
-- கட்டமைப்பு: **இயல்பு (சாதாரணம்)**
-- நன்கொடை (குறைந்த அளவு): **ரூ. 50/-**
-- வெளியீடு மற்றும் உரிமை: **திராவிடர் கழக (இயக்க) வெளியீடு**, சென்னை - 600 007.
-- Bottom series/imprint line: **பெரியார் ஆவணக் காப்பக வெளியீடு - 23**
+- நன்கொடை: **ரூ. 50/-**
+- bottom series/imprint: **பெரியார் ஆவணக் காப்பக வெளியீடு - 23**
 
-Printing, composition and sales-location details printed on the same page are preserved in its page-level record; they are not normalized here.
-
-## Front matter observed
-
-- Scan 1: colour front cover with title, author line, portrait and illustrated lower panel.
-- Scan 2: a printed DMK headquarters gift/donation notice associated with மு.க.ஸ்டாலின்'s 65th birthday, plus handwriting and library stamp.
-- Scan 3: title page; circular library stamp overlaps the upper-right area.
-- Scan 4: `நூல் குறிப்பு`; handwritten/accession-style markings including **40482** are present above the printed bibliographic block.
-- Scans 5–7: publisher's preface headed **களம் புகுமுன...! (முதல் பதிப்பிற்கான பதிப்புரை)**; signed at the end by the proprietor of `திராவிடன்` பதிப்பகம்.
-- Scan 8: **பொருளடக்கம்**, listing 14 articles and their printed starting pages.
+Full printing/composition/sales details remain in the page-level record.
 
 ## Article structure — directly verified
 
-The printed contents lists 14 article units, beginning on printed pages 7, 14, 20, 24, 28, 36, 41, 48, 53, 59, 63, 69, 72 and 77.
-
-Direct source inspection establishes the complete boundaries:
-
-| Article | Title | Scan pages | Printed pages |
+| Article | Heading-page title | Scan pages | Printed pages |
 |---:|---|---:|---:|
 | 1 | சக்கரவர்த்தியின் திருமகன் | 9–15 | 7–13 |
 | 2 | தேகமும் உணர்வும் | 16–21 | 14–19 |
 | 3 | சதி நிரூபிக்கப்படுகிறது | 22–25 | 20–23 |
 | 4 | காமராஜன் ஆட்கொண்ட தசரதராஜன்! | 26–29 | 24–27 |
-| 5 | heading-page witness: பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’? | 30–37 | 28–35 |
+| 5 | பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’? | 30–37 | 28–35 |
 | 6 | இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா? | 38–42 | 36–40 |
 | 7 | விபீஷணருக்கு விடை யளிப்போம்! | 43–49 | 41–47 |
 | 8 | நாடாண்ட மன்னன் நாதியற்று செத்தான் | 50–54 | 48–52 |
@@ -80,54 +56,35 @@ Direct source inspection establishes the complete boundaries:
 
 Article 14 ends on scan 82 at the printed article-ending ornament. Material below that ornament is not article text.
 
-## Source-witness title distinctions
+## Source-witness distinctions
 
 - Article 5 contents: `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`; heading: `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`.
 - Article 10 contents + heading: `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`; scan-63 body phrase: `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`.
 - Article 14 contents: `காரியமாகும் வரையில் காலைப் பிடி!`; heading: `காரியமாகும் வரையில் காலைப் பிடி !`.
 
-These are retained as distinct source witnesses rather than harmonized.
-
-## Printed-page behaviour
-
-Across the numbered body, scan page number = printed page number + 2 (for example scan 9 / printed 7, scan 16 / printed 14 and scan 82 / printed 80). This relationship was used only as a navigation aid; all article boundaries above were directly checked in the scan.
-
-The publication states **80** printed pages while the supplied PDF contains **83** scan pages, reflecting unnumbered cover/front/back matter around the numbered book block.
+These are retained as separate source witnesses.
 
 ## End matter / back cover
 
-- Scan 82 / printed p.80 is a mixed physical page: Article 14 concludes at the ornament; below it are handwritten/accession-like marks and a printed `விடுதலை` advertisement.
-- The scan-82 advertisement includes `தோற்றம் : 1935`, `விடுதலை`, `உலகின் ஒரே பகுத்தறிவு நாளேடு`, and `www.viduthalai.in`.
-- Scan 83 is the physical back cover, not article text.
-- The back cover includes colour artwork, a promotional excerpt associated with Article 12 / printed p.70, barcode `9997720145467`, and `நன்கொடை: ரூ.50/-`.
-- The back-cover excerpt is retained as a separate source witness; source-layer observations include `எந்தப் பெண்ணாவது, தனது`, `அறி குறி?`, and `அத்தகைய நாண உணர்ச்சி தலைகாட்டுகிறது. சொந்தக் கணவனைக்...`. These scan-83 forms remain pending in the current staged strict-fidelity pass until the final 81–83 batch is completed.
+- Scan 82 / printed p.80 is mixed: Article 14 conclusion + ending ornament, then physical-copy marks and a printed `விடுதலை` advertisement.
+- Final strict inspection corrected scan 82 from `வர்ணிக்கிறார்` to source-visible **`வர்ணிக்கிறான்`** in `என்று வர்ணிக்கிறான் சுக்ரீவனைப் பற்றி!`.
+- Scan 83 is the physical back cover, not Article 14 text. It includes colour artwork, a promotional Article 12 excerpt, barcode `9997720145467`, and `நன்கொடை: ரூ.50/-`.
+- The back-cover excerpt is kept as its own witness. Strictly checked forms include `எந்தப் பெண்ணாவது, தனது`, `அறி குறி?`, and `அத்தகைய நாண உணர்ச்சி தலைகாட்டுகிறது. சொந்தக் கணவனைக்...`.
 
-## Scan / physical-copy observations
+## Physical-copy observations
 
-- Library ownership stamps appear on front matter, especially scans 2–3 and 5.
-- Handwritten/accession markings are visible on scans 2 and 4.
-- Light reverse-side bleed-through and uneven paper tone are visible on many pages.
-- Article body scans are generally readable.
-- Scan 82 has a large purple circular library stamp crossing the header and part of the final Article 14 text area; the underlying print remains legible and the stamp is recorded separately.
-- Scan 82 also has handwritten `A0482`, `B 294.5922` and a partly unclear short Tamil note after the Article 14 ornament.
-- Printed marks and physical-copy marks remain distinct in page records.
+Library ownership stamps, handwriting/accession marks, bleed-through and paper-tone artifacts are recorded separately from printed text. Scan 82 includes a large circular library stamp plus handwritten `A0482`, `B 294.5922`, and a partly unclear short Tamil note below the article-ending ornament.
 
 ## Strict visual text-fidelity review
 
-After the initial archival completion, every source page is being re-read in a separate staged pass at word, word-boundary, punctuation, quotation, heading, date/number and paragraph-continuation level.
+The staged second pass is complete:
 
-Current staged state:
+- physical scans strict-rechecked: **83 / 83 PASS**
+- article assemblies rechecked after all corrections: **14 / 14 PASS**
+- unresolved `NEEDS-PIXEL-REVIEW`: **0**
+- source-layer body readings blocked: **0**
 
-- physical scans strict-rechecked: **80 / 83 COMPLETE**
-- fully strict-rechecked article assemblies: **13 / 14 COMPLETE**
-- Article 14: strict-rechecked through scans **79–80**; scans **81–82** remain
-- final physical back cover scan **83** remains
-- unresolved `NEEDS-PIXEL-REVIEW` items in completed scans 1–80: **0**
-- source-layer article-body readings blocked: **0**
-
-Full correction provenance: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
-
-The strict fidelity gate must remain **OPEN** until scans 81–83 are rechecked and Article 14 is revalidated against its final two article pages.
+Full provenance: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Source authority rule
 
