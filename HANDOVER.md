@@ -68,12 +68,12 @@ Other high-value source readings already verified include `மற்றுமு
 - Phase E1 Article 1 calibration: **COMPLETE**
 - Phase E2 Articles 2–4: **COMPLETE**
 - Phase E3 Articles 5–8: **COMPLETE**
-- Phase E4 Articles 9–11: **ACTIVE — Article 9 complete; Article 10 next**
-- English drafts: **9 / 14**
-- T2 fidelity-reviewed: **9 / 14**
-- T3 voice-reviewed: **9 / 14**
-- T4 audited: **9 / 14**
-- T5 verified: **9 / 14**
+- Phase E4 Articles 9–11: **ACTIVE — Articles 9–10 complete; Article 11 next**
+- English drafts: **10 / 14**
+- T2 fidelity-reviewed: **10 / 14**
+- T3 voice-reviewed: **10 / 14**
+- T4 audited: **10 / 14**
+- T5 verified: **10 / 14**
 - final cross-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -87,7 +87,7 @@ The user explicitly established that `ஆச்சாரியார்` refers 
 
 ## Verified English articles
 
-1. `சக்கரவர்த்தியின் திருமகன்` → **Chakravarthi's Son** — Tamil SHA `47a5b1fd0b28827bb098dda419b5bf864e9f3866`
+1. `சக்கரவர்த்தியின் திருமகன்` → **Chakravarthi's Son** — `47a5b1fd0b28827bb098dda419b5bf864e9f3866`
 2. `தேகமும் உணர்வும்` → **Body and Feeling** — `bb9131b7856b528e527136be8f4f60dca2999850`
 3. `சதி நிரூபிக்கப்படுகிறது` → **The Conspiracy Is Proven** — `903dbb0a2b74bc1ffa173469bfdb3dfa6ce9b4b4`
 4. `காமராஜன் ஆட்கொண்ட தசரதராஜன்!` → **Dasaratha Raja in the Grip of Kama-Raja!** — `9151694c1c473fd4c225aa8076d086e01931bc1e`
@@ -96,11 +96,11 @@ The user explicitly established that `ஆச்சாரியார்` refers 
 7. `விபீஷணருக்கு விடை யளிப்போம்!` → **Let Us Answer Vibhishana!** — `1ae5db95c88df7ccdbd74b180c4427f8ee81d022`
 8. `நாடாண்ட மன்னன் நாதியற்று செத்தான்` → **The King Who Ruled the Land Died with No One to Tend Him** — `87d10ed53e55fdf6a1eb60f86517cc245644a71a`
 9. `தந்தை மகனும் தருமம் தவறியவர்கள்!` → **Father and Son—Both Strayed from Dharma!** — `d8b6b6cba29bb35e70d2009ebccad4b64cfffa9d`
+10. `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **To Rama, Who Is Said to Be Vishnu's Incarnation!** — `e7a2b2e1d3b703d672b0be7569440217ccb03d3e`
 
 ## Non-regression translation decisions
 
 ### Articles 1–3
-
 - **Achariyar** frozen for `ஆச்சாரியார்`.
 - **Chakravarthi** retained where Rajagopalachari/Chakravarthi wordplay is active.
 - Aryans / Dravidians / Aryanism and demons / Rakshasas / Devas remain source-distinct.
@@ -108,27 +108,23 @@ The user explicitly established that `ஆச்சாரியார்` refers 
 - Article 3 keeps burden-of-kingdom imagery, **through the back door**, **taint**, and rapid rhetorical questions.
 
 ### Article 4
-
 - `காமராஜன்` → **Kama-Raja** in title and ending.
 - Sexualised vocabulary and age-marked ridicule remain strong.
 - `அப்பாவி / அப்-பாவி` → **innocent / Ah—sinner!** with separated note.
 
 ### Article 5
-
 - Keep heading/contents Tamil witnesses distinct.
 - English title remains **Bharadvaja's Ashram—or a Paris 'Bar'?**.
 - Both Kambar passages are sense-translated only from supplied Tamil + Kalaignar's glosses.
 - Scan-33 unmatched quotation and scan-36 standalone `—Achariyar.` remain documented/preserved.
 
 ### Article 6
-
 - **Mooli-Alangari** and **Brahmin Vambar** remain source-bearing.
 - Kaikeyi's sacrificial-altar image and horoscope/curse/anger/fate sequence remain direct.
 - Moodevi quote anomaly documented.
 - Keep **splint**, **walk on their feet / On their feet!**, **Aryan guard forces**, **take up the brief**, `ayya, literature!`.
 
 ### Article 7
-
 - **Vibhishana / Vibhishana-ness / Vibhishana doctrine** remain the recurring polemical frame.
 - **Sivagnanam / Sivagnanams** preserves the mocking plural without external identification.
 - Source-bearing **thanda-kanda / Inithavayan / Argusis** remain unexpanded.
@@ -136,39 +132,43 @@ The user explicitly established that `ஆச்சாரியார்` refers 
 - Scan-48 `கற்பு நிலையைப் பாதிக்கும்` difficulty remains explicitly noted.
 
 ### Article 8
-
 - Title/body `நாதியற்று / நாதியில்லாமல்` → **with no one to tend him**.
 - Source-bearing **Suta-Magadhars / Sayantan / paakkai** remain unexpanded.
 - Keep sleeping-wives/deathbed sequence, **sixty thousand**, mastery-of-senses sarcasm, **intoxication of lust**, **bodily pleasure**, literal **tail**, and **sacred-thread king Achariyar**.
 - Scan-52 unmatched quotation opening remains documented.
 
-### Article 9 — COMPLETE / VERIFIED
-
-English: [`translations/en/09-thanthai-maganum-tharumam-thavariyavargal.md`](publications/sakkaravarththiyin-thirumagan/translations/en/09-thanthai-maganum-tharumam-thavariyavargal.md)
-
-- Title → **Father and Son—Both Strayed from Dharma!**.
+### Article 9
 - `தருமம் / தர்மம்` → **dharma**; `சத்தியம்` → **truth / word of truth**; `நாஸ்திகம் / நாஸ்திகன்` → **atheism / atheist**.
-- `தர்ம ராஜன்` → **Dharma Raja**.
-- Source `ஜாம்பாலி` → **Jambali**; unusual verified `நாதிகமுள்ளவர்கள்` → source-bearing **naathigam**, explicitly kept distinct from `நாஸ்திகம்`.
-- Opening Chitrakuta quotation uses mixed source quote forms; English normalises typography only because scope is clear, and the anomaly is documented.
-- Preserve sheep-flock / **Govinda!** jab and the escalating direct challenge.
-- `சூட்சமம்` → **the catch!**; `ராஜ்ய பாரம்` → **burden of rule** by context; `சதி` remains **conspiracy**.
-- `அவதார புருஷன் அயோத்தி ராமன்` → **Rama of Ayodhya—the incarnation**; do not revert to the awkward draft `incarnation-man`.
-- Preserve Rama's **the country given by me** claim, Vasishta's **administer the kingdom** instruction, and the sandal/throne surrogate-rule sequence.
-- Preserve the Nehru/Delhi–Governor Prakasa/Chennai analogy exactly as the source's political comparison.
-- `“புனிதமான” பாதுகைகள்` → **“holy” sandals**; `சதிகார ராமன்` → **the conspirator Rama**; final `சதி நிறைந்த சாகசப் பேச்சு` → **audacious, conspiracy-laden speech**.
-- No unresolved Article 9 meaning-level blocker remains.
+- Source `ஜாம்பாலி` → **Jambali**; unusual verified `நாதிகமுள்ளவர்கள்` → source-bearing **naathigam**.
+- Preserve sheep-flock / **Govinda!**, sandals-on-throne surrogate rule, Nehru–Governor Prakasa analogy, **“holy” sandals**, **the conspirator Rama**, and **audacious, conspiracy-laden speech**.
 
-## Exact next activity — Article 10
+### Article 10 — COMPLETE / VERIFIED
 
-Work only on **Article 10 — `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`**.
+English: [`translations/en/10-vishnu-avatharam-enbathum-ramanidam.md`](publications/sakkaravarththiyin-thirumagan/translations/en/10-vishnu-avatharam-enbathum-ramanidam.md)
 
-1. Fetch `publications/sakkaravarththiyin-thirumagan/articles/10-vishnu-avatharam-enbathum-ramanidam.md` fresh from `main` and record its current blob SHA as T0.
+- Title → **To Rama, Who Is Said to Be Vishnu's Incarnation!**.
+- Tamil SHA `e7a2b2e1d3b703d672b0be7569440217ccb03d3e`; scans **61–64 / printed 59–62**.
+- Preserve title/contents `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` separately from scan-63 body `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`.
+- Keep **Ramayana tigers**, the little-fellows/great-man contrast, and 69 / 41 / 42–69 chapter accounting.
+- `சிரார்த்த போஜனம்` → **shraddha feast**; `மேஷ (ஆடு) மாமிசம்` → **mesha (goat) meat**; `நரமாமிசம்` → **human flesh**; `ராட்சச மாமிசம்` → **Rakshasa flesh**.
+- `திரிகாலமுணரும்` remains close as **knows/knew all three times**; do not silently import an external gloss.
+- Scan 63's unmatched opening parenthesis before `முரண்பாட்டைக் கவனியுங்கள்` is preserved and documented.
+- `இப்போது குழப்ப ஆரம்பித்திருக்கிறார்!` → **Now he has begun muddling it all up!**.
+- Surpanakha sequence retains **thirst of lust**, the odd **Two wives will give rise to business trouble**, **second wife**, and Rama's love surging toward her.
+- `புருஷரத்தினங்கள்` → **gems among men**; source-specific `ரசாபாச` remains **rasabhasa**.
+- `சப்பைக் கட்டு` reuses **splint**.
+- Final nested quotation irregularities are documented; **Go to elder brother / Go to younger brother!** and final **Aryan culture** jab remain direct.
+- No unresolved meaning-level blocker remains.
+
+## Exact next activity — Article 11
+
+Work only on **Article 11 — `நடப்பதெல்லாம் நாராயணன் செயலா?`**.
+
+1. Fetch `publications/sakkaravarththiyin-thirumagan/articles/11-nadappathellam-narayanan-seyala.md` fresh from `main` and record its current blob SHA as T0.
 2. Read the **entire** Tamil article before choosing the English title.
-3. Preserve the known source-witness distinction: contents/heading `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` versus scan-63 body phrase `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`.
-4. Apply the publication-wide **Achariyar** rule and established lexicon only where context supports it.
-5. Create `translations/en/10-vishnu-avatharam-enbathum-ramanidam.md` with all source-page comments.
-6. Complete T2 bilingual fidelity review, T3 Kalaignar-voice review and T4 terminology/source audit.
-7. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, publication/root READMEs and **this `HANDOVER.md`** before ending.
+3. Apply the publication-wide **Achariyar** rule and existing lexicon only where context supports it.
+4. Create `translations/en/11-nadappathellam-narayanan-seyala.md` with all source-page comments.
+5. Complete T2 bilingual fidelity review, T3 Kalaignar-voice review and T4 terminology/source audit; mark T5 only after all pass.
+6. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, publication/root READMEs and **this `HANDOVER.md`** before ending.
 
-**Do not begin Article 11 until Article 10 has passed T2 and T3.**
+**Do not begin Article 12 until Article 11 has passed T2 and T3.**
