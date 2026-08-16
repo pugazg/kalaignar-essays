@@ -57,7 +57,9 @@ Current status:
 - Article 4 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/04-kamarajan-aadkonda-dasaratharajan.md`](publications/sakkaravarththiyin-thirumagan/articles/04-kamarajan-aadkonda-dasaratharajan.md)
 - Article 5 — **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**, scans **30–37**, printed pp. **28–35**: **8 / 8 VERIFIED / source-complete**
 - Article 5 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md`](publications/sakkaravarththiyin-thirumagan/articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md)
-- scan **38** / printed p. **36** directly begins Article 6 — **இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?**; this is the next transcription unit.
+- Article 6 — **இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?**, scans **38–42**, printed pp. **36–40**: **5 / 5 VERIFIED / source-complete**
+- Article 6 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md`](publications/sakkaravarththiyin-thirumagan/articles/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md)
+- scan **43** / printed p. **41** directly begins Article 7 — **விபீஷணருக்கு விடை யளிப்போம்!**; this is the next transcription unit.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
