@@ -38,7 +38,7 @@ Translate in printed/source order.
 | 3 | சதி நிரூபிக்கப்படுகிறது | **`verified` — T0–T5 passed** |
 | 4 | காமராஜன் ஆட்கொண்ட தசரதராஜன்! | **`verified` — T0–T5 passed** |
 | 5 | பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’? | **`verified` — T0–T5 passed** |
-| 6 | இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா? | `not-started` |
+| 6 | இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா? | **`verified` — T0–T5 passed** |
 | 7 | விபீஷணருக்கு விடை யளிப்போம்! | `not-started` |
 | 8 | நாடாண்ட மன்னன் நாதியற்று செத்தான் | `not-started` |
 | 9 | தந்தை மகனும் தருமம் தவறியவர்கள்! | `not-started` |
@@ -63,7 +63,7 @@ For each article:
 9. mark the article `verified` only after all gates pass;
 10. update the single root `HANDOVER.md` before ending the activity.
 
-## 6. Established baseline after Articles 1–5
+## 6. Established baseline after Articles 1–6
 
 Publication-wide:
 
@@ -72,22 +72,22 @@ Publication-wide:
 - `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**;
 - `ஆரியம்` → **Aryanism**;
 - `அரக்கர்`, `ராட்சசர்`, `தேவர்கள்` remain distinct as **demons, Rakshasas, Devas**;
-- commands, repetition, sarcasm, accusations, wordplay and rhetorical questions are not academicised.
+- commands, repetition, sarcasm, accusations, source-supported wordplay and rhetorical questions are not academicised.
 
-Article 2 established **Body and Feeling**, body / feeling, body of flesh, anger and passion, Bhagavan / Ishvari, and plot / conspiracy.
+Articles 2–5 additionally established the body/feeling vocabulary, **plot / conspiracy**, burden-of-rule language, **Kama-Raja / Raja** wordplay, the `அப்பாவி` / `அப்-பாவி` pun, and the **Bharadvaja / Bar** title treatment plus restrained handling of embedded Kambar verse.
 
-Article 3 established **The Conspiracy Is Proven**, burden of the kingdom / burden of rule, office of Crown Prince, `கல்மஷம்` → **taint**, and `கொல்லைப்புறமாக...` → **through the back door**.
+Article 6 additionally establishes:
 
-Article 4 established **Dasaratha Raja in the Grip of Kama-Raja!**, preserving **Kama-Raja / Raja**, sexualised vocabulary, age-marked ridicule and the `அப்பாவி` / `அப்-பாவி` pun with a separated translator note.
-
-Article 5 establishes:
-
-- title `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?` → **Bharadvaja's Ashram—or a Paris 'Bar'?**;
-- article-heading and contents-page Tamil title witnesses remain distinct and explicitly documented;
-- `ஆஸ்ரமம்` → **ashram**, `அப்சரஸ்கள்` → **Apsaras**, `கதம்ப ராமன்` → **motley Rama**, `காலட்சேபம்` → **religious discourse**;
-- the source's **Bar** wordplay, opening/closing refrain, feast ridicule, triple `Ah!`, intoxication imagery and sweet/bitter ending remain visible;
-- both Kambar verses are translated only from the supplied Tamil witness together with Kalaignar's own prose glosses, not from external English versions;
-- source anomalies such as the scan-33 unmatched quotation and scan-36 standalone `— ஆச்சாரியார்.` remain documented/preserved.
+- title → **Why Did Rama Go to the Forest? A Rishi's Curse? Kaikeyi's Anger?**;
+- `காட்டேகுதல்` / `வனவாசம்` → **go to the forest / forest exile** according to rhetorical versus condition context;
+- `மூலி அலங்காரி` → **Mooli-Alangari**, retained because the source does not explain it;
+- `பிராமணவம்பர்` → **Brahmin Vambar**, preserving the Kambar/Vambar sound-play;
+- `பலிபீடம்` → **sacrificial altar** in the Kaikeyi-youth image;
+- `வனவாசப் பிராப்தி` → **destined for forest exile**, `ஜாதக விசேஷம்` → **special feature of the horoscope**, `விதியின் வலிமை` → **power of fate**;
+- `மூதேவி` remains **Moodevi** as a source-bearing name;
+- the source's mixed Moodevi quotation marks are documented rather than silently regularised;
+- Article 1's `சப்பைக் கட்டு` physical image is reused as **fastening a splint onto the old order**;
+- the final `காலால் நடந்து` ridicule remains **walk on their feet / On their feet!**, with **Aryan guard forces** and **take up the brief** retained.
 
 Detailed decisions and review corrections are in `translations/en/LEXICON.md` and `translations/en/TRANSLATION_REVIEW.md`.
 
@@ -126,7 +126,7 @@ Each English file retains comments corresponding to Tamil source page boundaries
 
 After Articles 1–14 are individually verified, perform a complete cross-article review for names/epithets, ideological terminology, repeated rhetoric, publication references, epic-name spelling, quotations, embedded verse, title style, tone, wordplay, translator notes, source-page comments and completeness.
 
-The final gate must specifically confirm that every translated occurrence of `ஆச்சாரியார்` uses **Achariyar** unless the Tamil source changes label; Article 4's **Kama-Raja / Raja** and `அப்பாவி` / `அப்-பாவி` wordplay remains intact; and Article 5's **Bharadvaja / Bar** title treatment and Kambar sense-translations remain appropriately restrained.
+The final gate must specifically confirm the publication-wide **Achariyar** rule; Article 4's **Kama-Raja / Raja** and `அப்பாவி` / `அப்-பாவி` wordplay; Article 5's **Bharadvaja / Bar** title treatment and Kambar sense-translations; and Article 6's **Mooli-Alangari / Brahmin Vambar / splint / walk-on-their-feet** handling.
 
 Only after this may the publication status become **English translation complete**.
 
@@ -135,7 +135,7 @@ Only after this may the publication status become **English translation complete
 - **E0 setup:** COMPLETE
 - **E1 Article 1 calibration:** COMPLETE
 - **E2 Articles 2–4:** COMPLETE
-- **E3 Articles 5–8:** **ACTIVE — Article 5 complete; Article 6 next**
+- **E3 Articles 5–8:** **ACTIVE — Articles 5–6 complete; Article 7 next**
 - **E4 Articles 9–11:** pending
 - **E5 Articles 12–14:** pending
 - **E6 publication consistency review:** pending
@@ -143,12 +143,12 @@ Only after this may the publication status become **English translation complete
 
 ## 12. Current progress
 
-- English article drafts: **5 / 14**
-- English articles verified: **5 / 14**
+- English article drafts: **6 / 14**
+- English articles verified: **6 / 14**
 - final cross-article review: **not started**
 
 ## 13. Exact next translation activity
 
-Proceed with **Article 6 — `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`**.
+Proceed with **Article 7 — `விபீஷணருக்கு விடை யளிப்போம்!`**.
 
-Fetch and read its complete current strict-reviewed Tamil assembly, record its blob SHA as T0, choose the English title only after reading the whole article, then complete T1–T5 and update the lexicon, review ledger, tracker, plan, READMEs and single root `HANDOVER.md` before Article 7 begins.
+Fetch and read its complete current strict-reviewed Tamil assembly, record its blob SHA as T0, choose the English title only after reading the whole article, then complete T1–T5 and update the lexicon, review ledger, tracker, plan, READMEs and single root `HANDOVER.md` before Article 8 begins.
