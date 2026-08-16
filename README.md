@@ -59,7 +59,9 @@ Current status:
 - Article 5 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md`](publications/sakkaravarththiyin-thirumagan/articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md)
 - Article 6 — **இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?**, scans **38–42**, printed pp. **36–40**: **5 / 5 VERIFIED / source-complete**
 - Article 6 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md`](publications/sakkaravarththiyin-thirumagan/articles/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md)
-- scan **43** / printed p. **41** directly begins Article 7 — **விபீஷணருக்கு விடை யளிப்போம்!**; this is the next transcription unit.
+- Article 7 — **விபீஷணருக்கு விடை யளிப்போம்!**, scans **43–49**, printed pp. **41–47**: **7 / 7 VERIFIED / source-complete**
+- Article 7 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/07-vibishanarukku-vidai-yalippom.md`](publications/sakkaravarththiyin-thirumagan/articles/07-vibishanarukku-vidai-yalippom.md)
+- scan **50** / printed p. **48** directly begins Article 8 — **நாடாண்ட மன்னன் நாதியற்று செத்தான்**; this is the next transcription unit.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
