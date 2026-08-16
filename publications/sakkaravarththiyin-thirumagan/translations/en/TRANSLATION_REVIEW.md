@@ -28,13 +28,15 @@ Corrections made during T2–T4, and later user-directed translation corrections
 - articles T4 audited: **2 / 14**
 - articles T5 verified: **2 / 14**
 - publication-level cross-article review: **not started**
-- unresolved translation questions: **1 consistency question** — Article 1 now uses `Achariyar`; Article 2 still uses earlier `Acharya`
+- unresolved translation questions: **0**
 
-## Publication-wide identity clarification
+## Publication-wide identity and transliteration decision
 
 The user explicitly clarified that **`ஆச்சாரியார்` in this publication refers to C. Rajagopalachari, alias Rajaji**.
 
-After Articles 1–2 had been verified, the user gave a further explicit instruction: **keep `Achariyar` in Article 1 instead of `Acharya`**. Article 1 has therefore been revised throughout. This instruction was specific to Article 1; Article 2 has not been silently changed.
+After Article 1 was changed from `Acharya` to **`Achariyar`**, the user confirmed that Article 2 is addressing/referring to the same Rajaji referent and approved applying the same form consistently. Therefore **`Achariyar` is now the publication-wide English body rendering for `ஆச்சாரியார்`**.
+
+This decision applies to Articles **1–14** wherever the Tamil source uses `ஆச்சாரியார்`, unless the source itself changes label. The personal identity **C. Rajagopalachari (Rajaji)** remains in translator/editorial identification notes and is not mechanically substituted into Kalaignar's body text.
 
 ## Article records
 
@@ -62,14 +64,14 @@ After Articles 1–2 had been verified, the user gave a further explicit instruc
 - Scan-12 unmatched quotation opening is documented rather than repaired.
 - T4 checked dates, quotations, fractions, epic names, *Kalki*, *Murasoli*, Aryan/Dravidian terminology, and the Deva/Rakshasa/demon lexical distinction.
 
-#### Post-T5 user-directed correction
+#### Post-T5 user-directed transliteration correction
 
-- Earlier Article 1 body form: **`Acharya`**.
+- Earlier Article 1 body form: `Acharya`.
 - User's explicit replacement: **`Achariyar`**.
-- The translator identification note and every Article 1 body occurrence have been changed to **`Achariyar`**.
+- Translator note and every Article 1 body occurrence were changed to **`Achariyar`**.
 - Referent remains **C. Rajagopalachari (Rajaji)**.
-- This is a transliteration/voice correction, not a change in referent or argument; Article 1 remains **verified** after the correction.
-- unresolved within Article 1: **none**.
+- This is a transliteration/voice correction, not a change in referent or argument; Article 1 remains **verified**.
+- unresolved: **none**.
 
 ### Article 2 — தேகமும் உணர்வும்
 
@@ -93,12 +95,12 @@ After Articles 1–2 had been verified, the user gave a further explicit instruc
 - `இனி` remains **`now` / `from now on`** because Kalaignar explicitly builds the argument around that word.
 - Source-visible `(ஆகஸ்டு 154)` is retained in English as **`(August 154)`** with a source comment; it is not silently normalised.
 - The Vamana `மூன்றடி மண்` wording was refined during T2 from a too-literal `three feet of land` to **`three paces of land`**, preserving the immediate source contrast with measuring the world in `two strides`.
-- `ஆச்சாரிய மேதை` was restored to the sharper **`the genius Acharya`** in the rhetorical question rather than the softer draft `learned Acharya`.
+- `ஆச்சாரிய மேதை` was restored to the sharper **`the genius Achariyar`** in the rhetorical question rather than the softer draft `learned Acharya`.
 - No Tamil paragraph, quoted proposition, rhetorical question, date or named actor was intentionally omitted.
 
 #### T3 Kalaignar-voice decisions
 
-- Article 2 currently retains the earlier **`Acharya`** body spelling. The later user instruction named Article 1 specifically, so Article 2 has not been silently altered.
+- `ஆச்சாரியார்` is now **`Achariyar`** throughout Article 2, in line with the user-approved publication-wide standard.
 - Polemical epithets remain marked: `பிராமணஜோதி` → **`Brahmin luminary`**; `பார்ப்பனகுல மகிபர்` → **`lord of the Brahmin clan`**; `வேதியப் பெருந்தகையார்` → **`great Vedic worthy`**.
 - `புரோகிதர் தலைவரின் பொருள் பொதிந்த பேச்சு!` remains **`The meaning-laden words of the leader of the priests!`**, not an academic paraphrase.
 - Direct repetitions remain: **`Watch closely, friends, watch closely`** and **`An explanation is needed—O great Vedic worthy, an explanation is needed!`**.
@@ -120,17 +122,21 @@ Confirmed against the Tamil assembly:
 - source-visible `August 154` anomaly documented;
 - unmatched quotation openings on scans **18** and **20** are explicitly documented in the English file rather than silently closed.
 
-#### Article 2 unresolved items
+#### Post-T5 user-directed transliteration correction
 
-**None within Article 2.** Publication-wide transliteration consistency for `ஆச்சாரியார்` is now deferred because Article 1 uses `Achariyar` while Article 2 still uses `Acharya`.
+- Earlier Article 2 body form: `Acharya`.
+- User-approved publication-wide replacement: **`Achariyar`**.
+- Translator note and every Article 2 body occurrence have been changed to **`Achariyar`**.
+- This does not alter the translation's meaning or T0–T5 verification; Article 2 remains **verified**.
+- unresolved: **none**.
 
 ### Article 3 — சதி நிரூபிக்கப்படுகிறது
 
 - Tamil source: `../../articles/03-sathi-nirupikkappadugirathu.md`
 - source Tamil blob SHA: pending T0
 - T0–T5: `not-started`
-- corrections / decisions: none yet
-- unresolved: before translating occurrences of `ஆச்சாரியார்`, follow the latest user direction; do not assume the earlier publication-wide `Acharya` rule remains frozen
+- corrections / decisions: apply **`Achariyar`** for source `ஆச்சாரியார்`
+- unresolved: none yet
 
 ### Article 4 — காமராஜன் ஆட்கொண்ட தசரதராஜன்!
 
@@ -224,6 +230,6 @@ Confirmed against the Tamil assembly:
 
 After all 14 articles are T5 verified, perform a complete cross-article review for recurring terminology, epithets, proper names, quotations, citations, rhetorical imperatives/questions, title style, and accidental tone-softening.
 
-The `Achariyar` / `Acharya` difference must be explicitly resolved or intentionally documented at that gate; do not silently harmonise it.
+The publication-wide `ஆச்சாரியார்` → **`Achariyar`** choice must be checked across every translated article at that gate.
 
 Do not declare the English publication complete before that gate passes.
