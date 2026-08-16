@@ -36,12 +36,10 @@
 
 ### English translation phase — ACTIVE
 
-All **14 articles** are scheduled for English translation under the separate voice-preserving workflow.
-
 Current English status:
 
-- drafts complete: **2 / 14**
-- translations verified through T0–T5: **2 / 14**
+- drafts complete: **3 / 14**
+- translations verified through T0–T5: **3 / 14**
 - final cross-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -49,24 +47,26 @@ Verified translations so far:
 
 1. **`சக்கரவர்த்தியின் திருமகன்` → `Chakravarthi's Son`**
 2. **`தேகமும் உணர்வும்` → `Body and Feeling`**
+3. **`சதி நிரூபிக்கப்படுகிறது` → `The Conspiracy Is Proven`**
 
-The user has established that `ஆச்சாரியார்` refers to **C. Rajagopalachari (Rajaji)** and has chosen **`Achariyar`** as the publication-wide English body transliteration. Articles 1 and 2 now use `Achariyar`; Articles 3–14 must follow the same form wherever the Tamil source uses `ஆச்சாரியார்`. The personal name remains outside Kalaignar's body text in translator/editorial identification notes.
+Publication-wide, `ஆச்சாரியார்` refers to **C. Rajagopalachari (Rajaji)** and is rendered **`Achariyar`** in Kalaignar's English body text. The personal identity is supplied only in translator/editorial notes. Other established conventions preserve **Chakravarthi** wordplay, Aryan/Dravidian terminology, source-distinct demons / Rakshasas / Devas, direct commands, repetitions, sarcasm and harsh formulations.
 
-Other established baseline decisions include **Chakravarthi** where the Rajagopalachari/Chakravarthi wordplay is active; **Aryans / Dravidians / Aryanism**; source-distinct **demons / Rakshasas / Devas**; and preservation of commands, repetitions, sarcasm and harsh formulations.
+Article 2 added **body / feeling**, **body of flesh**, **anger and passion**, **Bhagavan / Ishvari**, and **plot / conspiracy**.
 
-Article 2 extends the baseline with **body / feeling**, **body of flesh**, **anger and passion**, **Bhagavan / Ishvari**, and **plot / conspiracy** for source-distinct `சூழ்ச்சி` / `சதி`. Its caste-polemical epithets remain polemical, `(ஆகஸ்டு 154)` remains source-visible as `(August 154)`, and unmatched quotation openings are documented rather than repaired.
+Article 3 adds **burden of the kingdom / burden of rule**, **office of Crown Prince**, `கல்மஷம்` → **taint**, and Kalaignar's `கொல்லைப்புறமாக...` political jab as **came into the Council of Ministers through the back door**. Its rapid questions and final **`Why only us? Everyone with a brain will come to exactly that conclusion.`** are preserved.
 
 English files:
 
 - [`publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md)
 - [`publications/sakkaravarththiyin-thirumagan/translations/en/02-thegamum-unarvum.md`](publications/sakkaravarththiyin-thirumagan/translations/en/02-thegamum-unarvum.md)
+- [`publications/sakkaravarththiyin-thirumagan/translations/en/03-sathi-nirupikkappadugirathu.md`](publications/sakkaravarththiyin-thirumagan/translations/en/03-sathi-nirupikkappadugirathu.md)
 
 Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
 English tracker: [`publications/sakkaravarththiyin-thirumagan/translations/en/README.md`](publications/sakkaravarththiyin-thirumagan/translations/en/README.md)  
 Living lexicon: [`publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md`](publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md)  
 Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
 
-**Exact next translation activity: Article 3 — `சதி நிரூபிக்கப்படுகிறது`.**
+**Exact next translation activity: Article 4 — `காமராஜன் ஆட்கொண்ட தசரதராஜன்!`.**
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
