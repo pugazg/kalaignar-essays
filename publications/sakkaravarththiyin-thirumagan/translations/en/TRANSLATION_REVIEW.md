@@ -22,11 +22,11 @@ Corrections made during T2–T4, and later user-directed translation corrections
 
 ## Publication review status
 
-- articles drafted: **3 / 14**
-- articles T2 fidelity-reviewed: **3 / 14**
-- articles T3 voice-reviewed: **3 / 14**
-- articles T4 audited: **3 / 14**
-- articles T5 verified: **3 / 14**
+- articles drafted: **4 / 14**
+- articles T2 fidelity-reviewed: **4 / 14**
+- articles T3 voice-reviewed: **4 / 14**
+- articles T4 audited: **4 / 14**
+- articles T5 verified: **4 / 14**
 - publication-level cross-article review: **not started**
 - unresolved translation questions: **0**
 
@@ -123,10 +123,55 @@ Confirmed against the Tamil assembly:
 ### Article 4 — காமராஜன் ஆட்கொண்ட தசரதராஜன்!
 
 - Tamil source: `../../articles/04-kamarajan-aadkonda-dasaratharajan.md`
-- source Tamil blob SHA: pending T0
-- T0–T5: `not-started`
-- corrections / decisions: apply the established publication-wide **Achariyar** rule where appropriate
-- unresolved: none yet
+- source Tamil blob SHA: **`9151694c1c473fd4c225aa8076d086e01931bc1e`**
+- English file: `04-kamarajan-aadkonda-dasaratharajan.md`
+- English title: **`Dasaratha Raja in the Grip of Kama-Raja!`**
+- T0: **passed** — current strict-reviewed Tamil assembly confirmed before drafting
+- T1: **passed** — complete article translated through scans **26–29 / printed pp.24–27**
+- T2: **passed** — paragraph-by-paragraph bilingual completeness/fidelity review completed
+- T3: **passed** — Kalaignar-language/voice and wordplay review completed
+- T4: **passed** — terminology, quotations, dates, names, page-boundary comments and translator notes audited
+- T5: **verified**
+
+#### T1/T2 decisions and corrections
+
+- All four source page-boundary comments are represented: scans **26, 27, 28, 29**.
+- Title `காமராஜன் ஆட்கொண்ட தசரதராஜன்!` is rendered **`Dasaratha Raja in the Grip of Kama-Raja!`**. The translation preserves both `Raja` elements and keeps `காமராஜன்` as **Kama-Raja** so the source's desire/lust + king wordplay and name-like form are not flattened.
+- `ஆச்சாரியார்` is **Achariyar** throughout under the publication-wide rule.
+- The repeated `ஆசை தீரப் போகத்தில் மூழ்கலாம்` was refined from generic `pleasure` to **`immerse himself in sensual pleasure to his heart's content`**, preserving the sexualised ridicule that drives the article.
+- The first draft's awkward `in his own mouth` was refined to **`in his own words`** without changing the source argument.
+- `தசரதக் கிழவனின் வேகம் அதிகரித்த விந்தை` was refined from a too-literal `speed increased` to **`the marvel of the old Dasaratha's mounting urge`**, anticipating the quoted `பிரகிருதி வேகம்` more faithfully.
+- `வெள்ளை மனது - அப்பாவி - கல்மஷம் அற்றவன்` remains a three-part portrait: **`Pure-hearted—innocent—without taint`**.
+- The pledge to King Kekaya restores the emphatic source sense `அவளுக்குப் பிறக்கும் மகனுக்கே` as **`I will crown only the son born to her`**.
+- `வாயாரப் புகழ்கிறார், வர்ணிக்கிறார்` was refined to **`lavishly praises and describes`**, rather than the less exact draft `praises to his heart's content`.
+- No Tamil paragraph, quotation, date, rhetorical repetition or named actor was intentionally omitted.
+
+#### T3 Kalaignar-voice / wordplay decisions
+
+- Kalaignar's age-based ridicule is deliberately retained: `ஆச்சாரியக் கிழவர்`, `தசரதக் கிழவன்`, `மந்திரிக் கிழவர்`, and `கிழவர்களே! கிழவர்களே!!` remain **old Achariyar**, **old Dasaratha**, **old ex-minister**, and **`Ah, old men! Old men!!`** rather than being politely neutralised.
+- `பிரகிருதி வேகம்` → **physical urge** and `காதல் வேகம் பொங்கும்` → **a surge of passion**, preserving the article's sexualised argumentative sequence.
+- The Tamil pun `அப்பாவி` / `அப்-பாவி` is retained in English as **`innocent` / `Ah—sinner!`**, with a translator note identifying the source word-split. The note is explicitly outside Kalaignar's body.
+- `வெட்கம் - வெட்கம் - வேதனை கலந்த வெட்கம்!` remains **`shame, shame, shame mixed with pain!`**.
+- The title's **Kama-Raja** is repeated in the closing line `காமராஜனின் சக்திதான் என்னே!`, paired with **old Raja**, preserving Kalaignar's closing verbal play instead of explaining it away.
+- The final political/administrative warning remains direct: **`If old men who praise old Dasarathas like this come to the seat of power—if they had remained entrenched on that seat of power—I am frightened even to imagine what would have become of the country!`**
+
+#### T4 terminology / quotation / citation audit
+
+Confirmed against the Tamil assembly:
+
+- names/titles: Rama, Sita, Kausalya Devi, Kaikeyi, Manthara, Bharata, Narayana, Dasaratha, Kekaya, Harischandra, Achariyar;
+- `பட்டாபிஷேக மகோத்சவம்` → **grand coronation festival**;
+- `அந்தப்புரம்` → **inner apartments** in this article's palace context;
+- `போகம்` → **sensual pleasure** where the bodily/sexual force is active;
+- `பிரகிருதி வேகம்` → **physical urge**;
+- `காம மோகம்` → **lustful infatuation**;
+- source dates **8 August 1954** and **22 August 1954** preserved;
+- quoted material remains translated from Kalaignar's Tamil witness, not replaced with an external English version;
+- translator note for `அப்பாவி` / `அப்-பாவி` is clearly separated from the body.
+
+#### Article 4 unresolved items
+
+**None.** Article 4 is verified and its **Kama-Raja / Raja** wordplay must be revisited in the final publication-wide consistency pass rather than silently simplified.
 
 ### Article 5 — பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?
 
@@ -212,6 +257,6 @@ Confirmed against the Tamil assembly:
 
 After all 14 articles are T5 verified, perform a complete cross-article review for recurring terminology, epithets, proper names, quotations, citations, rhetorical imperatives/questions, title style, and accidental tone-softening.
 
-The publication-wide `ஆச்சாரியார்` → **`Achariyar`** choice must be checked across every translated article at that gate.
+The publication-wide `ஆச்சாரியார்` → **`Achariyar`** choice must be checked across every translated article at that gate. Article 4's **Kama-Raja / Raja** and `அப்பாவி` / `அப்-பாவி` wordplay must also be rechecked for consistency and explanatory restraint.
 
 Do not declare the English publication complete before that gate passes.
