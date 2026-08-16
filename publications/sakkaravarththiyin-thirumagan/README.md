@@ -41,7 +41,9 @@
 - Article 8 assembled: [`articles/08-naadaanda-mannan-naathiyatru-seththaan.md`](articles/08-naadaanda-mannan-naathiyatru-seththaan.md)
 - Article 9 — **தந்தை மகனும் தருமம் தவறியவர்கள்!**: scans **55–60**, printed pages **53–58**: **6 / 6 VERIFIED / source-complete**
 - Article 9 assembled: [`articles/09-thanthai-maganum-tharumam-thavariyavargal.md`](articles/09-thanthai-maganum-tharumam-thavariyavargal.md)
-- Scan **61** / printed page **59** directly begins Article 10 — **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**. This is the next transcription unit.
+- Article 10 — **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**: scans **61–64**, printed pages **59–62**: **4 / 4 VERIFIED / source-complete**
+- Article 10 assembled: [`articles/10-vishnu-avatharam-enbathum-ramanidam.md`](articles/10-vishnu-avatharam-enbathum-ramanidam.md)
+- Scan **65** / printed page **63** directly begins Article 11 — **நடப்பதெல்லாம் நாராயணன் செயலா?**. This is the next transcription unit.
 
 ### Article 5 heading variation inside the same source
 
