@@ -22,15 +22,17 @@ The user then explicitly chose **`Achariyar` instead of `Acharya`**. After confi
 
 Therefore:
 
-- Articles 1–6 now use **`Achariyar`** throughout.
-- Articles 7–14 must use **`Achariyar`** wherever the Tamil source uses `ஆச்சாரியார்`, unless the source itself changes label.
-- Do not mechanically substitute `Rajaji` or `C. Rajagopalachari` inside Kalaignar's body text; use the identity only in translator/editorial identification notes.
+- Articles 1–7 now use **`Achariyar`** wherever the source uses `ஆச்சாரியார்`.
+- Articles 8–14 must use **`Achariyar`** wherever the Tamil source uses `ஆச்சாரியார்`, unless the source itself changes label.
+- When Kalaignar himself writes `இராஜாஜி`, as in Article 7, render **Rajaji** rather than replacing that source choice with `Achariyar`.
+- Do not mechanically substitute `Rajaji` or `C. Rajagopalachari` inside passages where Kalaignar wrote `ஆச்சாரியார்`; use the identity only in translator/editorial identification notes.
 
 ## Established lexicon
 
 | Tamil | Preferred English | Context / exception | First established in | Status |
 |---|---|---|---|---|
 | `ஆச்சாரியார்` | `Achariyar` | Referent: **C. Rajagopalachari (Rajaji)**. Preserve Kalaignar's chosen label in the body; identify the person only outside the body when needed. | Article 1; publication-wide form confirmed by user after Article 2 | `publication-wide frozen` |
+| `இராஜாஜி` | `Rajaji` | When Kalaignar himself changes from `ஆச்சாரியார்` to the personal/public label `இராஜாஜி`, preserve that change in English. | Article 7 | `established` |
 | `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` | `Chakravarthi` | Retain transliteration where Kalaignar's wordplay/referential play on Rajagopalachari/Chakravarthi is active. Tamil also literally means `emperor`; explain outside body when needed. | Article 1 | `established` |
 | `சக்கரவர்த்தியின் திருமகன்` / `சக்கரவர்த்தி திருமகன்` | `Chakravarthi's Son` | Publication/serial title; chosen to retain the Rajaji/Chakravarthi wordplay rather than flatten it to `The Emperor's Son`. | Article 1 | `established` |
 | `ஆரியர்` | `Aryans` | Preserve Kalaignar's ideological/historical vocabulary; do not generalise. | Article 1 | `established` |
@@ -95,8 +97,22 @@ Therefore:
 | `விதியின் வலிமை` | `power of fate` | Keep the source's causal alternative in the rapid question sequence. | Article 6 | `established` |
 | `மூதேவி` | `Moodevi` | Preserve the source name rather than silently replacing it with an explanatory modern gloss. | Article 6 | `source-bearing transliteration` |
 | `ஆரியக்காவல் படைகள்` | `Aryan guard forces` | Preserve the polemical military metaphor used for supportive publications such as `சுதேசமித்திரன்`. | Article 6 | `contextual image established` |
-| `வக்காலத்து வாங்கி` | `take up the brief` | Preserve the legal-advocacy metaphor in `வக்காலத்து வாங்கி வாழ்த்துப்பாட`. | Article 6 | `contextual image established` |
-| `காலால் நடந்து` | `walk on their feet` | Preserve the apparently redundant wording because Kalaignar's entire closing ridicule turns on repeating **on their feet**. | Article 6 | `rhetorical wording established` |
+| `வக்காலத்து வாங்கி` | `take up the brief` | Preserve the legal-advocacy metaphor; reused in Article 7 for Sivagnanam's defence of the Ramayana/Rama/Kambar/Valmiki. | Article 6; reused Article 7 | `contextual image established` |
+| `காலால் நடந்து` | `walk on their feet` | Preserve the apparently redundant wording because Kalaignar's entire Article 6 closing ridicule turns on repeating **on their feet**. | Article 6 | `rhetorical wording established` |
+| `பகுத்தறிவு` | `rationalism` / `reason` | Article 7 `பகுத்தறிவு ஒளி` → **light of rationalism**; use **reason** where the source contrasts `அறிவு வழி` with devotional or racial argument. | Article 7 | `contextual distinction established` |
+| `விபீஷணர்` | `Vibhishana` / `Vibhishanas` | Preserve Kalaignar's polemical label for those he likens to the epic Vibhishana; do not neutralise it to generic `traitor` in the body. | Article 7 | `polemical label established` |
+| `விபீஷணத் தன்மை` | `Vibhishana-ness` | Retains Kalaignar's coined quality/condition rather than replacing it with an abstract explanatory term. | Article 7 | `coinage established` |
+| `விபீஷணக் கொள்கை` | `Vibhishana doctrine` | Closing political label; preserve title/argument echo. | Article 7 | `polemical label established` |
+| `சிவஞானம்` / `சிவஞானங்கள்` | `Sivagnanam` / `Sivagnanams` | Preserve the source name and Kalaignar's mocking pluralisation; do not add an external identity unless separately researched at user request. | Article 7 | `source-bearing name/form` |
+| `முப்புரி` | `muppuri, the three-stranded sacred thread` | Article 7 uses the thread as a physical/polemical image; retain the Tamil source-bearing term and gloss it in place. | Article 7 | `contextual image established` |
+| `தண்ட கண்ட` | `thanda-kanda` | Source-specific expression is not explained in the article; retain source-bearing form rather than inventing a confident expansion. | Article 7 | `source-bearing transliteration` |
+| `வாலேந்திகள்` | `tail-bearers` | Preserve the source's mocking tail-bearing image/sound-play in the Valmiki–Kambar sequence. | Article 7 | `wordplay/contextual insult` |
+| `ஏகபத்தினி விரதம்` | `vow of one wife` | Retain as a repeated doctrinal phrase in Sivagnanam's argument and Kalaignar's rebuttal. | Article 7 | `established` |
+| `ஆண் கற்பு` | `male chastity` | Quoted argument that the Ramayana teaches chastity for men in contrast to the earlier enforcement of women's chastity. | Article 7 | `established` |
+| `நிறவெறிப் பேயாட்டம்` | `demonic frenzy of colour-hatred` | Preserve both the demon/frenzy image and the source's repeated `நிறம்` / “colours” rhetoric. | Article 7 | `contextual image established` |
+| `இனித்தவாயன்` | `Inithavayan` | Unexplained source-specific form; retain rather than identify from outside knowledge. | Article 7 | `source-bearing transliteration` |
+| `ஆர்குஸிஸ்` | `Argusis` | Source-visible Western-deity name/form is retained without external normalisation. | Article 7 | `source-bearing transliteration` |
+| `காவடி தூக்கும்` | `carrying kavadi for` | Preserve Kalaignar's physical/cultural image in the closing charge of hereditary service to the North. | Article 7 | `contextual image established` |
 
 ## Article 1 contextual decisions
 
@@ -167,11 +183,27 @@ Therefore:
 - The closing ridicule depends on preserving `காலால் நடந்து`: **`walk on their feet`**, followed by **`On their feet!`** rather than smoothing away the apparent redundancy.
 - `ஆரியக்காவல் படைகள்` → **Aryan guard forces**; `வக்காலத்து வாங்கி` → **take up the brief**; the final colloquial cadence remains **`this is the genius's literature, ayya, literature!`**.
 
+## Article 7 contextual decisions
+
+- Title `விபீஷணருக்கு விடை யளிப்போம்!` → **`Let Us Answer Vibhishana!`**. `விடை` is carried as **answer** because the article is a sustained polemical response, and the closing `காலந்தான் பதில் கூறவேண்டும்!` creates an answer/reply echo.
+- Article 7 deliberately distinguishes the source's **Achariyar** from its explicit **Rajaji** occurrence; do not homogenise them in English.
+- `சிவஞானம்` remains **Sivagnanam** and the mocking plural `சிவஞானங்கள்` remains **Sivagnanams**; no external biographical identification is inserted into Kalaignar's text.
+- `விபீஷணர்`, `விபீஷணத் தன்மை`, and `விபீஷணக் கொள்கை` remain **Vibhishana**, **Vibhishana-ness**, and **Vibhishana doctrine**, keeping Kalaignar's repeated polemical frame rather than replacing it with generic `traitor` language.
+- The fox/heron/deer/fish analogy remains physical and accusatory; T2 tightened the draft from **other deer and fish** to **the others of their own kind** so English does not add a grouping beyond the source.
+- `முப்புரி` is retained as **muppuri, the three-stranded sacred thread** in Kalaignar's image of Achariyar setting out politically armed with inherited religious identity.
+- Unexplained `தண்ட கண்ட`, `இனித்தவாயன்`, and `ஆர்குஸிஸ்` remain **thanda-kanda**, **Inithavayan**, and **Argusis** with a source note rather than outside identification.
+- `வாலேந்திகள்` → **tail-bearers**, preserving the mocking image/wordplay after Valmiki and Kambar.
+- Sivagnanam's `வாழ்வாங்கு வாழ்ந்த மனிதன்` was refined in T2 from generic **a man who lived a worthy life** to the closer **a man who lived as one ought to live**.
+- `ஏகபத்தினி விரதம்` remains **vow of one wife** through the quoted claim and Kalaignar's Vishnu/Krishna rebuttal; `ஆண் கற்பு` remains **male chastity**.
+- The Ahalya sentence is rendered **the erring wife of the ascetic sage**, so the error is not accidentally attributed to the sage. The verified Tamil's difficult `கற்பு நிலையைப் பாதிக்கும்` is explicitly documented in a source note; English carries the immediate argumentative target, Sivagnanam's claim that the Ramayana upholds chastity, without altering the Tamil layer.
+- `நிறவெறிப் பேயாட்டம்` remains **demonic frenzy of colour-hatred**, allowing Kalaignar's later sarcastic return to different **“colours”** to remain visible.
+- The closing image `வடநாட்டுக்கு காவடி தூக்கும்` remains **carrying kavadi for the North**; the article ends with the repeated **Vibhishana doctrine** charge and **Time alone must give the answer!**
+
 ## Terms still to refine in later articles
 
 Later articles may add or qualify:
 
-- `பகுத்தறிவு` and related rationalist vocabulary;
+- additional rationalist vocabulary beyond the Article 7 `பகுத்தறிவு` baseline;
 - additional caste/social terminology;
 - further epithets for Rajaji and other historical actors;
 - recurring ritual/religious terms not yet encountered;
