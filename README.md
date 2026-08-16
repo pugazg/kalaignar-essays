@@ -10,10 +10,6 @@
 
 **மூல PDF கோப்புகள் repository-யில் commit செய்யப்படாது.**
 
-## களஞ்சிய அமைப்பு
-
-பல கட்டுரைகள் அடங்கிய source ஒரு `publication` unit ஆகப் பதிவு செய்யப்படும்; அதன் கீழ் page records, indexes, article assemblies, audit மற்றும் completion/fidelity reviews வைக்கப்படும்.
-
 ## முதல் publication — சக்கரவர்த்தியின் திருமகன்
 
 - ஆசிரியர்: **கலைஞர் மு. கருணாநிதி**
@@ -24,7 +20,7 @@
 
 ### Source-layer status
 
-The original archival/source layer is **complete**:
+The original archival/source layer is complete:
 
 - **83 / 83** physical page records
 - **14 / 14** article assemblies
@@ -32,18 +28,20 @@ The original archival/source layer is **complete**:
 
 ### Strict visual-text-fidelity status
 
-A second, stricter word-by-word / punctuation-by-punctuation visual review is being performed in physical scan order.
+A second, stricter word-by-word / punctuation-by-punctuation review is proceeding in physical scan order.
 
-Current progress: **24 / 83 scans complete**.
+Current progress: **32 / 83 scans complete**.
 
-- scans **1–8**: batch complete
-- scans **9–16**: batch complete
-- scans **17–24**: batch complete; **no new discrepancies found**
-- Article 2 scans **16–21** are now fully strict-rechecked against its assembly
-- Article 3 scans **22–24** are strict-rechecked; scan 25 remains before its full strict-review closeout
-- scans **25–32**: **next strict-review batch**
+- scans **1–8**: complete
+- scans **9–16**: complete
+- scans **17–24**: complete; no new discrepancy
+- scans **25–32**: complete; **8 / 8 FIDELITY-PASS, no new discrepancy**
+- Article 3 is now fully strict-rechecked
+- Article 4 is now fully strict-rechecked
+- Article 5 scans **30–32** agree with its assembly; scans 33–37 remain
+- scans **33–40**: **next strict-review batch**
 
-The publication must **not** be described as strict-fidelity complete until all 83 scans and all article assemblies have passed this staged review.
+The publication must not be described as strict-fidelity complete until all 83 scans and all article assemblies have passed this staged review.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
