@@ -18,15 +18,19 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 The user explicitly established that **`ஆச்சாரியார்` in this publication refers to C. Rajagopalachari, alias Rajaji**.
 
-The user has now also explicitly directed that **Article 1 must use `Achariyar`, not `Acharya`**, in the English body. Article 1 has been revised accordingly after its initial T5 verification.
+The user then explicitly chose **`Achariyar` instead of `Acharya`**. After confirming that Article 2 also addresses/refers to the same Rajaji referent through `ஆச்சாரியார்`, the user approved making **`Achariyar` the publication-wide English body rendering**.
 
-This correction is currently **Article-1-specific**. Article 2 still contains the earlier form `Acharya`; it has not been silently changed because the user's instruction named Article 1 specifically. Before treating one form as publication-wide for Articles 3–14, follow the latest user instruction or resolve it during the later cross-article consistency review.
+Therefore:
+
+- Articles 1 and 2 now use **`Achariyar`** throughout.
+- Articles 3–14 must use **`Achariyar`** wherever the Tamil source uses `ஆச்சாரியார்`, unless the source itself changes label.
+- Do not mechanically substitute `Rajaji` or `C. Rajagopalachari` inside Kalaignar's body text; use the identity only in translator/editorial identification notes.
 
 ## Established lexicon
 
 | Tamil | Preferred English | Context / exception | First established in | Status |
 |---|---|---|---|---|
-| `ஆச்சாரியார்` | `Achariyar` in Article 1; `Acharya` remains in Article 2 for now | Referent: **C. Rajagopalachari (Rajaji)**. Preserve Kalaignar's label in the body. Article 1 spelling was explicitly changed by the user after T5. Do not infer a publication-wide spelling change beyond Article 1 without a later instruction/consistency decision. | Article 1; revised by user after Article 2 | `article-specific; global form not frozen` |
+| `ஆச்சாரியார்` | `Achariyar` | Referent: **C. Rajagopalachari (Rajaji)**. Preserve Kalaignar's chosen label in the body; identify the person only outside the body when needed. | Article 1; publication-wide form confirmed by user after Article 2 | `publication-wide frozen` |
 | `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` | `Chakravarthi` | Retain transliteration where Kalaignar's wordplay/referential play on Rajagopalachari/Chakravarthi is active. Tamil also literally means `emperor`; explain outside body when needed. | Article 1 | `established` |
 | `சக்கரவர்த்தியின் திருமகன்` / `சக்கரவர்த்தி திருமகன்` | `Chakravarthi's Son` | Publication/serial title; chosen to retain the Rajaji/Chakravarthi wordplay rather than flatten it to `The Emperor's Son`. | Article 1 | `established` |
 | `ஆரியர்` | `Aryans` | Preserve Kalaignar's ideological/historical vocabulary; do not generalise. | Article 1 | `established` |
@@ -61,7 +65,7 @@ This correction is currently **Article-1-specific**. Article 2 still contains th
 
 ## Article 1 contextual decisions
 
-- `ஆச்சாரியார்` is now **`Achariyar` throughout Article 1**, by explicit user instruction. The earlier `Acharya` form in Article 1 is superseded.
+- `ஆச்சாரியார்` is **`Achariyar` throughout Article 1**, by explicit user instruction.
 - The source-visible irregular phrase `எப்படி பெய்ப்படி வளைவான பாதைகளில் போகிறார்` is not altered in the Tamil layer. In English Article 1 it is rendered rhetorically as **`how he takes one crooked path after another`**, preserving the accusation without pretending the Tamil wording itself is regular.
 - `ஆசியஜோதியாம்` is rendered contextually as **`the so-called Light of Asia`** to retain the distancing/sarcastic force of the source construction.
 - `கள்ள இன்பம்` is rendered **`illicit pleasure`** in Article 1.
@@ -69,7 +73,7 @@ This correction is currently **Article-1-specific**. Article 2 still contains th
 
 ## Article 2 contextual decisions
 
-- Article 2 currently retains the earlier `Acharya` spelling for `ஆச்சாரியார்`; this has not been altered by the Article-1-specific user instruction.
+- `ஆச்சாரியார்` is now **`Achariyar` throughout Article 2** as part of the user-approved publication-wide standard.
 - Title `தேகமும் உணர்வும்` → **`Body and Feeling`**. The compact pairing is retained rather than expanded into a philosophical paraphrase.
 - Source-visible `(ஆகஸ்டு 154)` is translated as **`(August 154)`** and explicitly documented; the translation does not silently repair the date.
 - `மூன்றடி மண்` in the Vamana passage is rendered **`three paces of land`**, matching the immediate source contrast with measuring the world in `two strides` while preserving the body/measure argument.
