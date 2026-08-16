@@ -30,33 +30,39 @@ See [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
 
 Every readable printed word, spacing-sensitive form, punctuation mark, quotation, number/date, heading and continuation is being rechecked directly against the scan in physical-page order.
 
-Current progress: **72 / 83 scans complete**.
+Current progress: **80 / 83 scans complete**.
 
-### Latest batch — scans 65–72
+### Latest batch — scans 73–80
 
-- scan **65**: corrected `மரண மடைகிறார்கள்` and `மகா புருஷன் -ஈஸ்வர`
-- scan **66**: corrected source punctuation spacing `பார்க்கலாம் -அப்படிக்`
-- scan **67**: high-resolution inspection corrected the earlier mistaken reading `மான்வதைவிட` to **`மாள்வதைவிட`**
-- scan **68**: corrected opening `ஓகோ !` and restored `நரிகள். அவலட்சணமாக`
-- scan **69**: fidelity-pass; source-visible nested/unbalanced quotation structure retained
-- scan **70**: corrected `ஆச்சாரியார் போன்றவர்கள்`, `49 ஆம்`, and `53 ஆம்`; closes Article 11
-- scan **71**: restored visible page-heading article number `12` and punctuation `பாவம் ;`
-- scan **72**: corrected `எந்தப் பெண்ணாவது, தனது` and `நினைத்திருப்பான் ?`
-- Article 11 is now fully strict-rechecked across scans **65–70**
-- Article 12 is strict-rechecked through scan **72**; scan 73 remains
-- no unresolved pixel-review item remains
+- scan **73**: fidelity-pass and completes Article 12
+- scan **74**: restored visible article number `13`; corrected `மாறிமாறி` → **`மாறடித்து`**
+- scan **75**: corrected source punctuation spacing to **`சுக்ரீவன் யார் தெரியுமா ?`**
+- scans **76–78**: fidelity-pass; scan 78 closes Article 13 and preserves the source-unclosed citation `(6.3.1955 - ‘கல்கி)`
+- scan **79**: restored visible article number `14`; corrected heading to **`காரியமாகும் வரையில் காலைப் பிடி !`**
+- scan **80**: fidelity-pass, including `சவுந்தாயமும்`; the final quotation continues to scan 81
+- Article 12 is now fully strict-rechecked
+- Article 13 is now fully strict-rechecked
+- Article 14 is strict-rechecked through scan 80 only
+- no unresolved pixel-review item remains in scans 1–80
+
+### Article 14 title witnesses
+
+- contents page: **`காரியமாகும் வரையில் காலைப் பிடி!`**
+- scan-79 heading page: **`காரியமாகும் வரையில் காலைப் பிடி !`**
+
+The source-visible punctuation-spacing difference is preserved rather than harmonized.
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-## Next strict-review batch
+## Final strict-review batch
 
-Proceed with **scans 73–80**:
+Proceed with **scans 81–83**:
 
-- scan **73** — conclude Article 12
-- scans **74–78** — Article 13 `துரோகிகள் சந்திப்பு!`
-- scans **79–80** — begin Article 14 `காரியமாகும் வரையில் காலை பிடி!`
+- scan **81** — Article 14 continuation
+- scan **82** — Article 14 conclusion + post-article physical marks / printed `விடுதலை` advertisement
+- scan **83** — physical back cover / promotional witness
 
-The publication remains source-complete, but the strict visual-text-fidelity gate remains open until scan 83 and all assemblies have been rechecked.
+After those scans, recheck the complete Article 14 assembly and only then close the publication-level strict-fidelity gate.
 
 ## Files
 
