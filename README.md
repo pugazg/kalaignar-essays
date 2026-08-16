@@ -30,14 +30,16 @@ The original archival/source layer is complete:
 
 The second word-by-word / punctuation-by-punctuation visual review is proceeding in physical scan order.
 
-Current progress: **40 / 83 scans complete**.
+Current progress: **48 / 83 scans complete**.
 
-- scans **1–32**: complete
-- scans **33–40**: complete; **no new discrepancy found**
-- scans 33–36 revalidated already-propagated source corrections including `பரத்துவாஜ...`, `போடுகிறவன் போட்டாலும்`, and `சீறிப் பாய்ந்தார்கள்`
-- Article 5 is now fully strict-rechecked across scans **30–37**
-- Article 6 scans **38–40** agree with its assembly; scans 41–42 remain
-- scans **41–48**: **next strict-review batch**
+- scans **1–40**: complete
+- scans **41–48**: complete; three strict-fidelity corrections were found and propagated
+- scan 41 now preserves the source's mixed quote ending in `‘மூதேவி அடி எடுத்து வைத்த நேரம் அப்படி!”`
+- scan 42 corrected `சாயைக் கட்டு போடும்` → **`சப்பைக் கட்டு போடும்`**
+- scan 44 corrected spacing to **`தன் இனம்,தன் சமுதாயம்,அந்த சமுதாயத்தின்`**
+- Article 6 is now fully strict-rechecked across scans **38–42**
+- Article 7 is strict-rechecked through scan **48**; scan 49 remains its final page
+- scans **49–56**: **next strict-review batch**
 
 The publication must not be described as strict-fidelity complete until all 83 scans and all article assemblies have passed this staged review.
 
