@@ -8,7 +8,7 @@ source_tamil_blob_sha: "e97314ada6b52c671742bb1526ed70acd1a26411"
 source_scan_pages: "79-82"
 source_printed_pages: "77-80"
 language: "en"
-translation_status: "draft"
+translation_status: "verified"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -18,7 +18,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 79 / printed 77 -->
 
-Nilan gently removed the arrow lodged in Vali's chest. At once blood gushed from the wound like a mountain waterfall, and Vali's life left his body. His wife Tara cried out, “Ayyo!” and wept. “Angada! Bow to your father for the last time!” she said. “Your beloved son stands here bowing! Will you not say anything to him? I have become a widow. Our son too has been left without support!” the broken-hearted Tara lamented.
+Nilan gently removed the arrow lodged in Vali's chest. At once blood gushed from the wound like a mountain waterfall, and Vali's life left his body. His wife Tara cried out, “Ayyo!” and wept. “Angada! Bow to your father for the last time!” she said. “Your beloved son stands here bowing! Will you not say anything to him? I have become a widow. The son too has been left without support!” the broken-hearted Tara lamented.
 
 Vali's body lay fallen like a mountain. At this moment Sugriva too is shaken. Achariyar describes his turmoil; look.
 
@@ -30,19 +30,19 @@ What becomes clear from this? Does it not seem that what we had pointed out—th
 
 when one thinks of that, how worship-mad people manage to develop devotion toward him—we do not know.
 
-After Vali's death the rainy season began. So, postponing the effort to search for Sita, Rama and Lakshmana passed the time in a nearby mountain cave. Sugriva and the others passed the time comfortably in Kishkindha. And how? Achariyar himself writes in the issue dated 3.4.1955 that, having handed all affairs of state over to the ministers, Sugriva lay immersed in harem pleasures!
+After Vali's death the rainy season began. So, postponing the effort to search for Sita, Rama and Lakshmana passed the time in a nearby mountain cave. Sugriva and the others passed the time comfortably in Kishkindha. And how? Achariyar himself writes in the issue dated 3.4.1955 that, having handed all affairs of state over to the ministers, Sugriva lay immersed in the sensual pleasures of the inner palace!
 
 The rainy season too came to an end. The effort to search for Sita did not begin as Sugriva had promised. Rama's anger boils over. Achariyar picks out the words that fall from that anger and gives them to us; read!
 
-“The whole world is full of saundhayam and joy. Sita is suffering somewhere. And I lie here idle, waiting for the favour of an ungrateful Vanara king. This Vanara king, immersed in drink, keeping company with women and indulging in rustic pleasure, has entirely forgotten the promise he gave me. This Vanara king seems to be a scoundrel.” (3.4.1955 — *Kalki*)
+“The whole world is full of saundhayam and joy. Sita is suffering somewhere. And I lie here idle, waiting for the favour of an ungrateful Vanara king. This Vanara king, immersed in drink, joining with women and indulging in rustic pleasure, has entirely forgotten the promise he gave me. This Vanara king seems to be a scoundrel.” (3.4.1955 — *Kalki*)
 
 Thus Rama himself explains what kind of man his friend Sugriva is. Hanuman, seeing that Rama will grow angry, warns Sugriva and urges him to set out in search of Sita. Meanwhile, on Rama's orders, Lakshmana enters in a fury. Did Rama not send Lakshmana saying, “Tell him that I will send you too to the place where I sent your elder brother”!
 
-And so Lakshmana set out armed and enraged. The Vanaras trembled as they carried news of Lakshmana's coming to Sugriva. “The Vanara king lay intoxicated in the inner palace amid liquor and women. What the Vanaras said did not—
+And so Lakshmana set out armed and enraged. The Vanaras told Sugriva of Lakshmana's coming and trembled. “The Vanara king lay intoxicated in the inner palace amid liquor and women. What the Vanaras said did not—
 
 <!-- Tamil source: scan 81 / printed 79 -->
 
-reach his ears,” says Achariyar. Sugriva's negligence turns Lakshmana into a storm. He draws the bowstring and makes it sound. Hearing the resounding sound, Sugriva trembles and sends Tara to speak peace with Lakshmana.
+enter his ears,” says Achariyar. Sugriva's negligence turns Lakshmana into a storm. He draws the bowstring and makes it sound. Hearing the resounding sound, Sugriva trembles and sends Tara to speak peace with Lakshmana.
 
 Hearing Tara's words, Lakshmana too is pacified. Listen to what Achariyar says about Tara, who comes to make peace:
 
@@ -50,7 +50,7 @@ Hearing Tara's words, Lakshmana too is pacified. Listen to what Achariyar says a
 
 Achariyar apparently thinks that a woman who must pacify a man coming for battle needs beauty as well as the abilities listed above!
 
-That is why he finds himself compelled to give importance to Tara's beauty. The pacified Lakshmana chats familiarly with Sugriva. Here is an example showing that Aryans will do anything—say anything—so that their purpose may be achieved!
+That is why he finds himself compelled to give importance to Tara's beauty. The pacified Lakshmana speaks warmly with Sugriva. Here is an example showing that Aryans will do anything—say anything—so that their purpose may be achieved!
 
 On hearing that Sugriva, instead of searching for Sita, lies sunk in sensual pleasure, Rama reviles him as an ungrateful scoundrel—and Lakshmana sets out to fight Sugriva! But once Sugriva sets out to search for Sita, do you know what Lakshmana says about Sugriva?
 
@@ -58,7 +58,7 @@ On hearing that Sugriva, instead of searching for Sita, lies sunk in sensual ple
 
 Do you know what Rama says as soon as Sugriva arrives?
 
-“There is no other friend in the world like you. My gaining your friendship is my good fortune.” (3.4.1955 — *Kalki*)
+“There is no other friend in the world like you. It is my good fortune that I earned your friendship.” (3.4.1955 — *Kalki*)
 
 <!-- Tamil source: scan 82 / printed 80 -->
 
