@@ -16,9 +16,9 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 The user explicitly established that `ஆச்சாரியார்` in this publication refers to **C. Rajagopalachari (Rajaji)** and chose **`Achariyar`** as the English body form.
 
-- Articles **1–13** use **Achariyar** wherever the Tamil source uses `ஆச்சாரியார்`.
-- Article **14** must do the same unless Kalaignar himself changes label.
+- Articles **1–14** use **Achariyar** wherever the Tamil source uses `ஆச்சாரியார்`.
 - If the source explicitly says `இராஜாஜி`, preserve **Rajaji**; Article 7 demonstrates this rule.
+- Preserve source number as well, including Article 11 `ஆச்சாரியார்களுக்கு` → **the Achariyars**.
 - Do not mechanically replace `ஆச்சாரியார்` with `Rajaji` in Kalaignar's body text.
 
 ## Established lexicon
@@ -158,6 +158,15 @@ The user explicitly established that `ஆச்சாரியார்` in this
 | `துரோகி` / `துரோகிகள்` | `traitor` / `traitors` | Title and Sugriva accusation; preserve direct polemical charge. | Article 13 | polemical label |
 | `இது ஆச்சாரியார் தீட்டியுள்ள கதை!` | `This Is the Story Achariyar Has Drawn Up!` | Preserve source-supported subheading and accusatory craft/drawing-up sense. | Article 13 | contextual heading |
 | `மழுப்புகிறார்` | `dodges` | Scan-78 direct accusation: **Here Achariyar dodges.** | Article 13 | contextual attack |
+| `காரியமாகும் வரையில் காலைப் பிடி` | `Hold Their Feet Until Your Purpose Is Achieved!` | Title; retain physical servility image and final purpose-achievement echo. | Article 14 | title/image |
+| `பூஜனைப்பித்தர்கள்` | `worship-mad people` | Preserve source insult rather than neutralising to devotees. | Article 14 | polemical label |
+| `அந்தப்புர போகம்` | `sensual pleasures of the inner palace` | Preserve both location and sexualised `போகம்`; avoid unsupported modern recategorisation. | Article 14 | contextual |
+| `சவுந்தாயமும்` | `saundhayam` | Unusual strict-reviewed source form; retained source-bearing rather than silently corrected or guessed. | Article 14 | source-bearing |
+| `கிராமிய சுகம்` | `rustic pleasure` | Preserve the source's unusual quoted formulation rather than smoothing it away. | Article 14 | source-bearing phrase |
+| `கயவன்` / `கயவர்கள்` | `scoundrel` / `scoundrels` | Rama's quoted insult and Kalaignar's final title-echo attack. | Article 14 | polemical label |
+| `சிருங்கார போகம்` | `sensual pleasure` | Sugriva pleasure passage; preserve sexualised force. | Article 14 | contextual |
+| `காரிய சாதனைக்காக ... காலை பிடிக்க` | `to achieve their purpose ... hold the feet of scoundrels` | Final paragraph deliberately closes the title's physical image. | Article 14 | rhetorical echo |
+| `வர்ணிக்கிறான்` | `that is how he describes` | Strict-reviewed scan-82 form; do not silently revert Tamil to honorific `வர்ணிக்கிறார்`. | Article 14 | source-sensitive |
 
 ## Article 10 contextual decisions
 
@@ -221,6 +230,24 @@ The user explicitly established that `ஆச்சாரியார்` in this
 - Final citation is source-irregular as `(6.3.1955 - ‘கல்கி)` with no visible closing single quotation. English gives a readable *Kalki* citation while the source anomaly remains documented in the translator note/review ledger.
 - The closing lexical echo `இராமன் செய்கையாக` / `ராமனின் செயல்` is retained as **Rama's course of action / Rama's action**, followed by the unchanged rhetorical hammer: **Why? Why, Achariyar; why?**.
 
+## Article 14 contextual decisions
+
+- Title `காரியமாகும் வரையில் காலைப் பிடி !` → **`Hold Their Feet Until Your Purpose Is Achieved!`**. The physical **hold their feet** image is retained because the closing paragraph explicitly returns to `கயவர்களின் காலை பிடிக்கவும்` in order to achieve a purpose.
+- Tamil source SHA: **`e97314ada6b52c671742bb1526ed70acd1a26411`**. All four body page boundaries retained: scans **79–82 / printed pp.77–80**.
+- Contents witness `காரியமாகும் வரையில் காலைப் பிடி!` and heading witness `காரியமாகும் வரையில் காலைப் பிடி !` remain distinct; only normal English punctuation is used in the translated title.
+- `ஆச்சாரியார்` remains **Achariyar** throughout.
+- Tara's **Ayyo!**, mountain-waterfall blood image, body-like-a-mountain image and reader command **look** remain direct.
+- Sugriva's 27.3.1955 self-reproach preserves hidden **desire**, ruined **reason**, sealing Vali's cave, seizing the elder brother's wealth and enjoying it.
+- `பூஜனைப்பித்தர்கள்` remains the insult **worship-mad people**.
+- `அந்தப்புர போகம்` → **sensual pleasures of the inner palace**; `சிருங்கார போகம்` → **sensual pleasure**. Neither is neutralised.
+- Strict-reviewed unusual `சவுந்தாயமும்` is retained as source-bearing **saundhayam** rather than silently reconstructed; `கிராமிய சுகம்` remains the deliberately odd **rustic pleasure**.
+- Rama's quoted `கயவன்` becomes **scoundrel** and Kalaignar's `நன்றிகெட்ட கயவன்` remains **ungrateful scoundrel**.
+- The threat to send Sugriva where Vali was sent, Lakshmana becoming a **storm**, Tara-beauty sarcasm, and the sudden switch from threatening Sugriva to praising him remain visible.
+- `தங்கள் காரியம் நடக்கவேண்டுமென்பதற்காக ஆரியர்கள் எதையும் செய்வார்கள் -எதையும் பேசுவார்கள்` remains **Aryans will do anything—say anything—so that their purpose may be achieved!**.
+- Rama's final praise remains **It is my good fortune that I earned your friendship.**
+- Scan 82 strict `வர்ணிக்கிறான்` is respected; the lower-page *Viduthalai* advertisement is not translated as Article 14 body.
+- The final paragraph preserves **the Sons of Chakravarthi**, **hold the feet of scoundrels**, and Sugriva as **a betrayer of his brother, a scoundrel and an ungrateful man**.
+
 ## Final consistency reminders
 
 During the publication-level gate, recheck especially:
@@ -235,4 +262,5 @@ During the publication-level gate, recheck especially:
 - Article 10 title/body witness distinction, **Ramayana tigers**, **shraddha feast / mesha (goat) meat / human flesh**, **all three times**, unmatched parenthesis, **rasabhasa**, **splint**, and final Aryan-culture line;
 - Article 11 **Narayana/Rama contradiction**, **backing orchestra / Chanakya / Brahmin leader**, **Oh-ho!**, Maricha/Sita quotation chain, scan-69 unmatched outer quotation, **fourth-rate woman**, physical tongue image, **Kaga Pattar**, source plural **the Achariyars**, and final livelihood line;
 - Article 12 **scan-83 separation**, **upper cloth / upper garment**, **aspect / incarnation**, source-visible `அவனாகவே` documentation, **theist worthies**, **kings of the night**, **Kakuthan / Ashadabhoothis**, market-street imagery and the rubbish-on-head/Sita–Draupadi ending;
-- Article 13 **Traitors Meet!**, **beat his chest / oppari**, **demon / asura**, **Vanara / vimana / yojana**, `துராசைப் பட்டுக்`, quotation/citation irregularities, **This Is the Story Achariyar Has Drawn Up!**, repeated **they say**, **Here Achariyar dodges**, and **Why? Why, Achariyar; why?**.
+- Article 13 **Traitors Meet!**, **beat his chest / oppari**, **demon / asura**, **Vanara / vimana / yojana**, `துராசைப் பட்டுக்`, quotation/citation irregularities, **This Is the Story Achariyar Has Drawn Up!**, repeated **they say**, **Here Achariyar dodges**, and **Why? Why, Achariyar; why?**;
+- Article 14 **Hold Their Feet Until Your Purpose Is Achieved!**, contents/heading punctuation witness distinction, **saundhayam**, **worship-mad people**, **sensual pleasures of the inner palace / rustic pleasure / sensual pleasure**, **scoundrel**, Tara-beauty sarcasm, strict `வர்ணிக்கிறான்`, and the final **Sons of Chakravarthi / hold the feet of scoundrels** echo.
