@@ -26,7 +26,7 @@ transcription_method: "direct visual comparison with source scan"
 9. தந்தை மகனும் தருமம் தவறியவர்கள்! — 53
 10. விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்! — 59
 11. நடப்பதெல்லாம் நாராயணன் செயலா? — 63
-12. மார்ச்சனைத் துரத்திச் சென்ற ராமனிடம் — 69
+12. மாரீசனைத் துரத்திச் சென்ற ராமனிடம் — 69
 13. துரோகிகள் சந்திப்பு! — 72
 14. காரியமாகும் வரையில் காலைப் பிடி! — 77
 
@@ -39,5 +39,7 @@ transcription_method: "direct visual comparison with source scan"
 
 - தனி navigation table: [`../indexes/contents.md`](../indexes/contents.md).
 - Printed starting page numbers source-இல் இருப்பதுபோல பதிவு செய்யப்பட்டுள்ளன.
+- Word-by-word fidelity pass corrected item 12 from the earlier erroneous `மார்ச்சனைத்` to source-visible **`மாரீசனைத்`**.
+- Item 14 source-visible contents form is **`காரியமாகும் வரையில் காலைப் பிடி!`**; this differs from the Article 14 heading-page form `காரியமாகும் வரையில் காலை பிடி!` and is intentionally preserved as a separate witness.
 
 <!-- மூல ஸ்கேன் பக்கம்: 8; அச்சுப் பக்கம்: — -->
