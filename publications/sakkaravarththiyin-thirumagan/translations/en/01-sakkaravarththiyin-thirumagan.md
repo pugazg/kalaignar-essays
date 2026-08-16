@@ -18,7 +18,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 9 / printed 7 -->
 
-Readers already know that Acharya has been writing serially in *Kalki* under the title *Chakravarthi's Son*. Ten articles have appeared so far. Just like Vishnu's ten mutually contradictory avatars, Acharya's ten articles stand contradicting one another. In this issue I shall give only an overall criticism of those Dasavatara articles—and then, week after week, following Acharya as he follows Acharya's—that is, Chakravarthi's—son, seeing how he takes one crooked path after another to keep his race alive, *Murasoli* will from time to time tell you what it sees.
+Readers already know that Acharya has been writing serially in *Kalki* under the title *Chakravarthi's Son*. Ten articles have appeared so far. Just like Vishnu's ten mutually contradictory avatars, Acharya's ten articles stand contradicting one another. In this issue I shall give only an overall criticism of those Dasavatara articles—and then, week after week, on Acharya's—that is, Chakravarthi's—son, *Murasoli* will follow Acharya, see how he takes one crooked path after another to keep his race alive, and from time to time tell you what it sees.
 
 Dasaratha's Ashvamedha sacrifice was conducted and completed with every splendour. Then divine payasam was granted for Dasaratha's wives to drink. Dasaratha's three consorts divided the divine payasam among themselves, drank it, and conceived. Acharya describes it. Read!
 
@@ -66,7 +66,7 @@ Acharya, who wrote the above on May 23, says in the same *Kalki* on July 18—
 
 <!-- The Tamil source opens the quotation above but has no visible closing quotation mark before the following paragraph. -->
 
-In the July 18 issue he says that if one takes something from an earlier story, covers it up and tells it in denial, that may be called “deception.” Valmiki was the first to write the story of Rama. Valmiki portrayed Rama as a great hero. Kambar turned that hero into an incarnate being. Acharya himself said this in his first article. Will Acharya admit that this is “deception”? Or will he not? Now!—And that is not all. Valmiki is the author of the *Ramayana*. Kambar altered and revised the character Ahalya created by that Valmiki. Will Acharya, in his own language, come forward and declare, “Kambar deceives us”? Acharya himself writes about Ahalya. Look!
+In the July 18 issue he says that if one takes something from an earlier story, covers it up and tells it in denial, that may be called “deception.” Valmiki was the first to write the story of Rama. Valmiki portrayed Rama as a great hero. Kambar turned that hero into an incarnation. Acharya himself said this in his first article. Will Acharya admit that this is “deception”? Or will he not? Now!—And that is not all. Valmiki is the author of the *Ramayana*. Kambar altered and revised the character Ahalya created by that Valmiki. Will Acharya, in his own language, come forward and declare, “Kambar deceives us”? Acharya himself writes about Ahalya. Look!
 
 ## The Lord Who Entered the Hut!
 
@@ -96,13 +96,13 @@ and Ravana the villain! Rama, the hero, falls at the feet of Ahalya—who had lo
 
 ## The Lord Who Stole the Horse!...
 
-“Prince Amsuman was a man of very fine character, endowed with conduct and wisdom. Prince Amsuman guarded the horse intended for Sagara's Ashvamedha sacrifice. But Indra came in the guise of a Rakshasa, took that horse away, and hid it near Kapila, who was Mahavishnu. The sixty thousand sons of Sagara who went in search of the horse suspected that Kapila had stolen it and rushed at him. Kapila reduced all sixty thousand of them to ashes.”
+“Prince Amsuman was a man of very fine character, endowed with virtue and wisdom. Prince Amsuman guarded the horse intended for Sagara's Ashvamedha sacrifice. But Indra came in the guise of a Rakshasa, took that horse away, and hid it near Kapila, who was Mahavishnu. The sixty thousand sons of Sagara who went in search of the horse suspected that Kapila had stolen it and rushed at him. Kapila reduced all sixty thousand of them to ashes.”
 
 This is the story Acharya gave in the July 4 issue! Because Indra stole the horse from a good man and hid it near Kapila, sixty thousand people were reduced to ashes all at once as though struck by an atom bomb. These Devas, it seems, are good; contradicting himself, contradicting himself, Acharya groans on! Through *Chakravarthi's Son* he fastens a splint onto sagging Aryanism—poor man.
 
 <!-- Tamil source: scan 15 / printed 13 -->
 
-Acharya says that Viswamitra brought Rama and Lakshmana with him precisely to destroy the demons who destroy sacrifices. But in the July 4 issue he speaks a truth. Look—he who wrote in one issue that the Devas are good and that only a few of them may do evil—here, in *Kalki*, he turns all the Devas into wrongdoers!
+Acharya says that Viswamitra brought Rama and Lakshmana with him precisely to destroy the demons who destroy sacrifices. But in the July 4 issue he speaks a truth. Look—he who wrote in one issue that the Devas are good and that only a few of them may do evil—here, in *Kalki*, he makes all the Devas wicked!
 
 “It is the custom of the Devas to obstruct Ashvamedha sacrifices.”
 
