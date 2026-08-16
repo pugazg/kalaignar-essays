@@ -71,7 +71,13 @@ Article 5 — heading-page form `பரத்துவாஜா ஆஸ்ரம�
 - scans **30–37**, printed pp. **28–35**
 - **8 / 8 VERIFIED**, blocked 0, needs-review 0
 - [`articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md`](publications/sakkaravarththiyin-thirumagan/articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md)
-- scan **38** / printed p. **36** directly begins Article 6
+- **source-complete**
+
+Article 6 — `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`:
+- scans **38–42**, printed pp. **36–40**
+- **5 / 5 VERIFIED**, blocked 0, needs-review 0
+- [`articles/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md`](publications/sakkaravarththiyin-thirumagan/articles/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md)
+- scan **43** / printed p. **41** directly begins Article 7
 - **source-complete**
 
 Detailed audit: [`publications/sakkaravarththiyin-thirumagan/audit.md`](publications/sakkaravarththiyin-thirumagan/audit.md).
@@ -80,38 +86,38 @@ Detailed audit: [`publications/sakkaravarththiyin-thirumagan/audit.md`](publicat
 
 Do not regress source-visible unusual readings or silently repair punctuation. The detailed preserved list is in `audit.md`.
 
-Especially for Article 5:
+Especially for Article 6:
+
+- scan 38: `அத்தகைய வாசகத்தை வீசுகிறாள்`, `சதிசெய்து`, `கோபங்கொண்டு`, `முன்னுக்குப்பின்`, `மூலி அலங்காரி`
+- scan 39: `எப்படிப்பேசியிருக்கவேண்டும்`, `பிராமணவம்பரோ`, `மகனைப்பாட்டன்`, `உடன் பட்டாய்`, `இந்தச்சோகக்`, `சுருக்கமாகக்குறிப்பிடுகிறார்`
+- enlarged scan 39 confirms `பாஸ்பவாரி பரிபூரண லோசனத்துடன்`; the quotation continues to scan 40 and no source-visible closing quote appears after `இதுவே.`
+- scan 40: `கை கூப்பி`, `கிழராஜனையும்`, `பலிபீடத்திலே`, `இளமைத்தியாகத்தை`, `களங்கம் காணக் கிடக்கிறது`, `ராமபிரபு`
+- scan 41: `பிராப்தி`, `பிராப்த விஷயத்தை`, `என்பதாகவது`, `புத்திரப்பிரிவு`, `நாணயமாகாது`, `மணமகள்`
+- scan 42: `சாயைக் கட்டு போடும்`, `அனுமாருக்குத்தான்`, `அந்தப்பாவி`, `ஆரியக்காவல்`, `இலக்கியமய்யா இலக்கியம்`
+- scan 42 ends with `இலக்கியமய்யா இலக்கியம்!` and the printed ornament
+
+Article 5 source-title variation remains important:
 
 - contents witness: `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`
 - heading witness: `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`
-- scan 30 opening: `மோகக்களியாட்டமா?`
-- scan 37 reprise: `மோகக் களியாட்டமா?`
-- scan 32 Kamba verse source segmentation includes `இயல்வுறு செல்வினாவா`, `யிருக்கையு மெயினர் தாண்டத்`, `களா உயிர்ப் பளித்த தம்மா!`
-- scan 32 source punctuation: `அரண்மனைப் பெண்களும்.`
-- scan 33 has a source-visible unmatched opening quotation; do not close it editorially
-- scan 35 has a source-visible closing quotation without a new opening quote at that paragraph start
-- scan 35: `ஸ்நானாதி`, `நிருத்தியம்`, `கொத்தவாலை`, `எல்லைமீறி`
-- scan 36 verse includes `அஞ்சடுத்த வமளி யலங்கப்`, `நஞ்சடுத்த நயனியர் நல்லியிற்`
-- scan 36: `அய்ந்துவகை`, `போக்கியதையைப்`, `தெரிவானேன்`
-- scan 37 ends with the repeated question-poem and ornament; lower-page bleed-through is not body text
 
 ## Exact next activity
 
-Process Article 6 — **`இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`**.
+Process Article 7 — **`விபீஷணருக்கு விடை யளிப்போம்!`**.
 
 Known source facts:
 
-- scan **38** / printed page **36** directly shows the Article 6 heading and start boundary
-- printed contents places Article 7 — **`விபீஷணருக்கு விடை யளிப்போம்!`** — at printed page **41**
-- if the current +2 scan/page relation continues, that projects Article 7's heading to scan **43**, but this is only a navigation aid
+- scan **43** / printed page **41** directly shows the Article 7 heading and start boundary
+- printed contents places Article 8 — **`நாடாண்ட மன்னன் நாதியற்று செத்தான்`** — at printed page **48**
+- if the current +2 scan/page relation continues, that projects Article 8's heading to scan **50**, but this is only a navigation aid
 
 Next steps:
 
-1. Directly inspect scans beginning at **38**.
-2. Directly inspect projected scan **43** and confirm the Article 7 heading before declaring Article 6's end boundary.
-3. Create one verified page record per Article 6 scan.
+1. Directly inspect scans beginning at **43**.
+2. Directly inspect projected scan **50** and confirm the Article 8 heading before declaring Article 7's end boundary.
+3. Create one verified page record per Article 7 scan.
 4. Apply the difficult-reading escalation protocol wherever necessary; do not infer from context.
-5. Assemble Article 6 only after every source page is verified and the end boundary is source-confirmed.
+5. Assemble Article 7 only after every source page is verified and the end boundary is source-confirmed.
 6. Update `indexes/page-map.md`, publication/root README, audit and this handover.
 
 Do not begin English translation until the Tamil source layer for the relevant article has passed its completion gate.
