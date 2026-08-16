@@ -8,17 +8,17 @@ source_tamil_blob_sha: "d8b6b6cba29bb35e70d2009ebccad4b64cfffa9d"
 source_scan_pages: "55-60"
 source_printed_pages: "53-58"
 language: "en"
-translation_status: "draft"
+translation_status: "verified"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
 # Father and Son—Both Strayed from Dharma!
 
-> **Translator identification/source note — not part of Kalaignar's text:** As established for this publication, Kalaignar's `ஆச்சாரியார்` is rendered **Achariyar** and refers to C. Rajagopalachari (Rajaji) only in translator/editorial identification. The source-visible name `ஜாம்பாலி` is retained as **Jambali** rather than silently normalised to another epic-name form. The unusual source form `நாதிகமுள்ளவர்கள்` is retained below through the source-bearing term **naathigam** rather than being assigned a confident meaning not supplied by this article.
+> **Translator identification/source note — not part of Kalaignar's text:** As established for this publication, Kalaignar's `ஆச்சாரியார்` is rendered **Achariyar** and refers to C. Rajagopalachari (Rajaji) only in translator/editorial identification. The source-visible name `ஜாம்பாலி` is retained as **Jambali** rather than silently normalised to another epic-name form. The unusual source form `நாதிகமுள்ளவர்கள்` is retained below through the source-bearing term **naathigam** rather than being assigned a confident meaning not supplied by this article. The source's opening Chitrakuta quotation uses mixed quotation-mark forms; its scope is clear, so English uses normal quotation typography while the source anomaly is recorded in the review ledger.
 
 <!-- Tamil source: scan 55 / printed 53 -->
 
-On the slopes of Chitrakuta hill, as Achariyar has written, “Sita! Look there at the birds playing! Look at the mountain rocks! See how the minerals in them shine blue, yellow and red! Look at the plants and creepers in the forest! Look at the flowers. What all we imagined! How delightful this forest exile is. How much more pleasurable this forest life is than life in the city”—while Chakravarthi's Son and Janaki were conversing like this, passing their time happily and “suffering,” Bharata, the three queens and the others arrived. Unable even to find out whether Bharata was coming for war, the Lakshmana incarnation leaps up in haste. Bharata and the others who arrived were distressed on seeing Rama. Only after they told him that Dasaratha had died did Rama, the incarnation of Mahavishnu, come to know of it! After learning it, they completed the duties that had to be performed for the father.
+On the slopes of Chitrakuta hill, as Achariyar has written, “Sita! Look there at the birds playing! Look at the mountain rocks! See how the minerals in them shine blue, yellow and red! Look at the plants and creepers in the forest! Look at the flowers. What all had we imagined! How delightful this forest exile is. How much more pleasurable this forest life is than life in the city”—while Chakravarthi's Son and Janaki were conversing like this, passing their time happily and “suffering,” Bharata, the three queens and the others arrived. Unable even to find out whether Bharata was coming for war, the Lakshmana incarnation leaps up in haste. Bharata and the others who arrived were distressed on seeing Rama. Only after they told him that Dasaratha had died did Rama, the incarnation of Mahavishnu, come to know of it! After learning it, they completed the duties that had to be performed for the father.
 
 When Kausalya Devi and Sumitra heard that Lakshmana regularly fetched the water they needed from the river Mandakini there, they supposedly wept. Why would Kausalya have wept? Perhaps because in the palace water and rosewater were available whenever one asked, while here her son was “suffering” by drinking river water!
 
@@ -46,11 +46,11 @@ When a man called Jambali urged Rama somehow to come to Ayodhya, Rama says:
 
 Leave that. Let us look for a moment at the beauty of how Rama too “protected” the truth.
 
-Bharata called him—Rama refused to come. Vasishta called him—he refused to come. Why? Can we believe that Rama had no desire to return to Ayodhya and take up the burden of rule; that he did not wish to seize the kingdom his father had given his younger brother—and therefore refused to come? No—not at all! When Rama, Dasaratha, Vasishta and the others conducted a conspiracy and secretly arranged to crown Rama, Kaikeyi broke it and sent him to the forest—there lies the crux! Had she, like Bharata, pleaded with Rama to come back, Rama would certainly have come. Bharata said he would kill himself—said he would enter the fire—cried and said all manner of things; but those who had to call him did not call him, and Rama did not return to Ayodhya. That is the truth!
+Bharata called him—Rama refused to come. Vasishta called him—he refused to come. Why? Can we believe that Rama had no desire to return to Ayodhya and take up the burden of rule; that he did not wish to seize the kingdom his father had given his younger brother—and therefore refused to come? No—not at all! When Rama, Dasaratha, Vasishta and the others conducted a conspiracy and secretly arranged to crown Rama, Kaikeyi broke it and sent him to the forest—there lies the catch! Had she, like Bharata, pleaded with Rama to come back, Rama would certainly have come. Bharata said he would commit suicide—said he would enter the fire—cried and said all manner of things; but those who had to call him did not call him, and Rama did not return to Ayodhya. That is the truth!
 
 <!-- Tamil source: scan 58 / printed 56 -->
 
-No one can truly say that Rama had no desire to sit as king in Ayodhya. Had he had no such desire, he would not have crowned himself king after fourteen years. Here Rama becomes an atheist who violated his father's command—the truth. The father had given the kingdom to Bharata, had he not? Who said that after fourteen years Rama himself should rule the country again? Even Kaikeyi, who asked for the boon, did not say so! How can Rama's taking the country that belonged to Bharata, in violation of the truth, be justified? Look—Achariyar himself writes how much conspiratorial intent lay in what Vasishta and Rama said in order to get the country back.
+In truth, no one can say that Rama had no desire to sit as king in Ayodhya. Had he had no such desire, he would not have crowned himself king after fourteen years. Here Rama becomes an atheist who violated his father's command—the truth. The father had given the kingdom to Bharata, had he not? Who said that after fourteen years Rama himself should rule the country again? Even Kaikeyi, who asked for the boon, did not say so! How can Rama's taking the country that belonged to Bharata, in violation of the truth, be justified? Look—Achariyar himself writes how much conspiratorial intent lay in what Vasishta and Rama said in order to get the country back.
 
 Rama says: “Younger brother, regard it as a kingdom given by me; accept it and act according to father's word!”
 
@@ -58,7 +58,7 @@ Did you see the right Rama indirectly claims over the kingdom? By the promise Da
 
 <!-- Tamil source: scan 59 / printed 57 -->
 
-what courage, what capacity to forget the truth, the incarnation-man Rama of Ayodhya must have had! Look at Vasishta speaking!
+what courage, what capacity to forget the truth, Rama of Ayodhya—the incarnation—must have had! Look at Vasishta speaking!
 
 “Bharata! With Rama's authority, administer the kingdom on behalf of Chakravarthi's Son! If you do that, there will be no blame—and the truth too will be protected.”
 
