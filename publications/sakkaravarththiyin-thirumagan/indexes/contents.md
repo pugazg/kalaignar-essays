@@ -23,6 +23,6 @@ Source: scan page **8**. Printed article-start page numbers are preserved as pri
 
 இந்தப் பட்டியல் modernized table of contents அல்ல. Scan page 8-ல் அச்சிடப்பட்ட சொல் இடைவெளி, punctuation மற்றும் தலைப்பு வடிவத்தை இயன்றவரை காக்கும் source transcription.
 
-Word-by-word visual fidelity pass confirms item 12 as **`மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`** and item 14 as contents-witness **`காரியமாகும் வரையில் காலைப் பிடி!`**. The latter remains distinct from the Article 14 heading-page witness `காரியமாகும் வரையில் காலை பிடி!`.
+Word-by-word visual fidelity pass confirms item 12 as **`மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`** and item 14 as contents-witness **`காரியமாகும் வரையில் காலைப் பிடி!`**. The latter remains distinct from the Article 14 heading-page witness **`காரியமாகும் வரையில் காலைப் பிடி !`**, where the source visibly leaves a space before the exclamation mark.
 
 Article boundaries இந்த start-page பட்டியலால் வழிகாட்டப்படுகின்றன; ஒவ்வொரு boundary-யும் சம்பந்தப்பட்ட scan heading-ஐ நேரடியாகப் பார்த்த பிறகே `verified` ஆகும்.
