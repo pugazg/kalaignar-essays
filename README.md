@@ -16,35 +16,49 @@
 
 ### Reusable future-work kit
 
-- [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md) — end-to-end operational guidelines for future Kalaignar essay/article publications
-- [`docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`](docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md) — reusable structure for updating the **single root `HANDOVER.md`** when a new publication becomes active; it is a template, not a second live handover
-- [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md) — copy/paste startup prompt for a new chat/window with the next attached source PDF
+- [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md) — future Kalaignar essay/article publications-க்கான end-to-end workflow
+- [`docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`](docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md) — புதிய publication active ஆகும்போது **அதே root `HANDOVER.md`**-ஐ update செய்வதற்கான template; இது இரண்டாவது live handover அல்ல
+- [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md) — அடுத்த controlling PDF-உடன் புதிய chat/window தொடங்க reusable prompt
 
 ## முதல் publication — சக்கரவர்த்தியின் திருமகன்
+
+Workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
 - ஆசிரியர்: **கலைஞர் மு. கருணாநிதி**
 - first-edition statement in scan: **மே 1956**
 - supplied edition: **2018 மறுபதிப்பு**
 - physical scans: **83**
 - printed contents: **14 கட்டுரைகள்**
+- source PDF committed to repository: **No**
 
-### Tamil source / fidelity status
-
-**COMPLETE / PASSED**
+### Tamil source / fidelity status — COMPLETE / FROZEN
 
 - **83 / 83** page records complete
-- **83 / 83** scans strict word-level fidelity checked
+- **83 / 83** scans strict word-by-word / punctuation-by-punctuation fidelity checked
 - **14 / 14** Tamil article assemblies complete and strict-rechecked
 - **0** unresolved `NEEDS-PIXEL-REVIEW`
 
-### English translation phase — COMPLETE / E7 RELEASE CLOSEOUT NEXT
+Detailed source completion records:
 
-- drafts complete: **14 / 14**
-- translations verified through T0–T5: **14 / 14**
-- publication-level cross-article consistency review: **E6 PASSED**
+- [`PUBLICATION_COMPLETION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md)
+- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md)
+
+### English translation / release — COMPLETE / RELEASED
+
+- English drafts: **14 / 14**
+- T2 fidelity-reviewed: **14 / 14**
+- T3 voice-reviewed: **14 / 14**
+- T4 audited: **14 / 14**
+- T5 verified: **14 / 14**
+- publication-wide E6 consistency review: **PASSED**
+- E7 English release closeout: **PASSED / COMPLETE**
 - unresolved translation questions: **0**
-- English translation: **COMPLETE**
-- English release gate: **OPEN pending E7 closeout**
+- English release gate: **CLOSED**
+
+English workspace: [`publications/sakkaravarththiyin-thirumagan/translations/en/`](publications/sakkaravarththiyin-thirumagan/translations/en/)  
+Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
+Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)  
+Release report: [`publications/sakkaravarththiyin-thirumagan/translations/en/RELEASE_REPORT.md`](publications/sakkaravarththiyin-thirumagan/translations/en/RELEASE_REPORT.md)
 
 Verified translations:
 
@@ -63,18 +77,12 @@ Verified translations:
 13. `துரோகிகள் சந்திப்பு!` → **Traitors Meet!**
 14. `காரியமாகும் வரையில் காலைப் பிடி !` → **Hold Their Feet Until Your Purpose Is Achieved!**
 
-Publication-wide, source `ஆச்சாரியார்` is rendered **Achariyar**; Article 7 explicit `இராஜாஜி` remains **Rajaji**, and Article 11 source plural `ஆச்சாரியார்களுக்கு` remains **the Achariyars**.
+Publication-wide source `ஆச்சாரியார்` is rendered **Achariyar**; Article 7 explicit `இராஜாஜி` remains **Rajaji**, and Article 11 source plural `ஆச்சாரியார்களுக்கு` remains **the Achariyars**.
 
-### E6 cross-article review result
+Important source-witness boundaries remain frozen: Article 5 contents/heading variants stay distinct; Article 10 title/body phrase witnesses stay distinct; Article 14 contents/heading punctuation witnesses stay distinct; scan 83 remains a separate promotional Article 12 witness; Article 14 ends on scan 82 before the separate `விடுதலை` advertisement.
 
-All 14 current English files were fetched fresh from `main` and checked together against the living lexicon, translation-review ledger, translation plan and handover. Recurring names, ideological vocabulary, source-label switches, title/body echoes, commands, rhetorical questions, quotations, dates, page comments, source-bearing forms and documented source anomalies were rechecked.
+## Current project state / exact next activity
 
-**No Article 1–14 translation-body edit was required during E6.** Two apparent spelling differences were checked against the frozen Tamil and deliberately retained rather than normalised: Article 6 `காகபட்டர்` → **Kakapattar** versus Article 11 `காக பட்டர்` → **Kaga Pattar**; Article 2 `ராமச்சந்திரமூர்த்தி` → **Ramachandramurti** versus Article 14 `இராமசந்திர மூர்த்தி` → **Ramachandra Murti**.
+`சக்கரவர்த்தியின் திருமகன்` is **source-complete, strict-fidelity complete, English-translation complete and English-release complete**. Do not reopen its Tamil or verified English prose merely for stylistic polishing. Reopen only for a genuine source-supported defect.
 
-Important source boundaries remain unchanged: Article 12 scan 83 is a separate promotional back-cover witness and never rewrites its body; Article 14 ends on scan 82 before the separate *Viduthalai* advertisement.
-
-English workspace: [`publications/sakkaravarththiyin-thirumagan/translations/en/`](publications/sakkaravarththiyin-thirumagan/translations/en/)  
-Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
-Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
-
-**Exact next activity: E7 — English release closeout.** Verify all release-facing repository state and links, create/update the release-closeout record required by the workflow, and close the English release gate only if no release blocker remains.
+**Exact next normal activity:** when the next Kalaignar essay/article source PDF is supplied, execute **P0 — source intake / publication identification** from `docs/FUTURE_WORK_GUIDELINES.md`: inspect `main`, inspect the actual scan before naming/structuring it, confirm whether prior work exists, create or continue one publication unit, and update the single root `HANDOVER.md`.
