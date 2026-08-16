@@ -8,7 +8,7 @@ source_tamil_blob_sha: "e7a2b2e1d3b703d672b0be7569440217ccb03d3e"
 source_scan_pages: "61-64"
 source_printed_pages: "59-62"
 language: "en"
-translation_status: "draft"
+translation_status: "verified"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -26,15 +26,15 @@ Carrying Rama's sandals, Bharata departed from Chitrakuta hill. Rama's party lef
 
 <!-- Tamil source: scan 62 / printed 60 -->
 
-Two demons named Vatapi and Ilvala had been greatly troubling the rishis. However much Vatapi's body was cut into pieces, it would join together again and come back to life; he had received such a boon. Ilvala would invite rishis to his house saying it was for a “shraddha feast”—if invited, they had to go. Vatapi would turn into a goat. Ilvala would slaughter the goat and serve the feast. The rishis would eat until their bellies were swollen. After they had eaten, Ilvala would call, “Vatapi!” Vatapi, who had gone into the Brahmin's stomach as goat meat, would regain his whole body, tear open the stomach and come out. The Brahmin rishi would fall dead. Such men invited Agastya and gave him a feast. Vatapi entered Agastya's stomach as ram meat. After he had eaten, Ilvala called “Vatapi” as usual. But Agastya digested Vatapi inside his stomach and also burned Ilvala.
+Two demons named Vatapi and Ilvala had been greatly troubling the rishis. However much Vatapi's body was cut into pieces, it would join together again and come back to life; he had received such a boon. Ilvala would invite rishis to his house saying it was for a “shraddha feast”—if invited, they had to go. Vatapi would turn into a goat. Ilvala would slaughter the goat and serve the feast. The rishis would eat until their bellies were swollen. After they had eaten, Ilvala would call, “Vatapi!” Vatapi, who had gone into the Brahmin's stomach as goat meat, would regain his whole body, tear open the stomach and come out. The Brahmin rishi would fall dead. Such men invited Agastya and gave him a feast. Vatapi entered Agastya's stomach as goat meat. After he had eaten, Ilvala called “Vatapi” as usual. But Agastya digested Vatapi inside his stomach and also burned Ilvala.
 
-When a Ramayana play shows sages eating meat, the little fellows who flare up in anger—how they are going to deny the truths written by this great man, I do not know. Vatapi turned into goat meat, entered their stomachs and killed them—how can it be fitting to say that men unable to detect the plot mixed into the goat meat were rishis who knew all three times? Even if one says that they were forcibly taken away and made to eat, does not one feel like asking: Agastya, powerful enough to destroy Vatapi, could have understood what they were doing the moment they invited him and burned both of them then and there! Instead of destroying them that way—if, under the name of ram (goat) meat, he ate human flesh (in his own terminology, Rakshasa flesh) and digested that too, does it not become clear that the rishis of those days were not people who shrank from eating human flesh!
+When a Ramayana play shows sages eating meat, the little fellows who flare up in anger—how they are going to deny the truths written by this great man, I do not know. Vatapi turned into goat meat, entered their stomachs and killed them—how can it be fitting to say that men unable to detect the plot mixed into the goat meat were rishis who knew all three times? Even if one says that they were forcibly taken away and made to eat, does not one feel like asking: Agastya, powerful enough to destroy Vatapi, could have understood it the very moment they invited him and burned both of them then and there! Instead of destroying them that way—if, under the name of mesha (goat) meat, he ate human flesh (in his own terminology, Rakshasa flesh) and digested that too, does it not become clear that the rishis of those days were not people who shrank from eating human flesh!
 
 <!-- Tamil source: scan 63 / printed 61 -->
 
 Leave that aside—Rama had darshan of such an Agastya. He said that he was going to Dandakaranya to destroy the Rakshasas. At once Agastya gave him the bow made by Visvakarma for Mahavishnu, the quiver of arrows that would never run short, and the sword, and blessed him: “Rama! Destroy the Rakshasas! Earlier Mahavishnu gave these weapons. You too bear them and destroy them!”
 
-(Notice the contradiction. Rama is said to be an incarnation of Mahavishnu. Achariyar himself, who said Rama was not an incarnation of God, again insisted that Rama was indeed an incarnation-man. Now he has begun to get confused!
+(Notice the contradiction. Rama is said to be an incarnation of Mahavishnu. Achariyar himself, who said Rama was not an incarnation of God, again insisted that Rama was indeed an incarnation-man. Now he has begun muddling it all up!
 
 <!-- Source note: the Tamil witness opens a parenthesis before `முரண்பாட்டைக் கவனியுங்கள்` and supplies no visible closing parenthesis before the article continues. English preserves the unmatched opening rather than silently repairing it. -->
 
@@ -55,5 +55,7 @@ Achariyar praises Rama and Lakshmana as incarnation-men—noble sons—men who d
 Look—Achariyar fastens a “splint” onto Valmiki too:
 
 “Some intellectuals may ask, ‘Can a woman—a woman deeply in love—be tormented in all these ways?’ If they place a grotesque form before themselves and use their power of imagination, they will not ask so.” This is Achariyar's justification.
+
+<!-- Source note: the final Tamil paragraph contains irregular/nested opening quotation marks around the hypothetical responses beginning `அவளை...`, `அண்ணனிடம் போ`, and `தம்பியிடம் போ!`. Their rhetorical scope is clear; English uses readable quotation typography while recording the source irregularity here rather than silently treating the Tamil punctuation as regular. -->
 
 If a woman came in a grotesque form, men would simply move away from her; if she said that she was in love, they would simply say it was not possible and leave. No man with decent feeling would descend into degrading mockery in which the younger brother says, “Go to elder brother,” and the elder brother says, “Go to younger brother!”—each competing with the other like this, and doing so with the wife standing right beside them. Perhaps, according to Aryan culture, Achariyar's justification may be fitting.
