@@ -12,11 +12,11 @@ Before continuing work, read completely:
 1. [`ESSAY_PROCESSING_GUIDE.md`](ESSAY_PROCESSING_GUIDE.md)
 2. [`ESSAY_TRANSLATION_GUIDE.md`](ESSAY_TRANSLATION_GUIDE.md)
 3. this `HANDOVER.md`
-4. the active publication's `README.md`
-5. the active publication's `TRANSLATION_PLAN.md`
-6. `translations/en/README.md`
-7. `translations/en/LEXICON.md`
-8. `translations/en/TRANSLATION_REVIEW.md`
+4. the active publication's [`README.md`](publications/sakkaravarththiyin-thirumagan/README.md)
+5. its [`TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)
+6. [`translations/en/README.md`](publications/sakkaravarththiyin-thirumagan/translations/en/README.md)
+7. [`translations/en/LEXICON.md`](publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md)
+8. [`translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
 
 Then fetch the exact current Tamil article assembly before translating.
 
@@ -24,19 +24,13 @@ Then fetch the exact current Tamil article assembly before translating.
 
 The supplied scan is the controlling source for the Tamil archival layer. Do not silently modernize, correct, normalize, reconstruct or improve the Tamil. Preserve source-supported historical spelling, punctuation, wording, names, numbers, repetition, unusual grammar and typographical forms.
 
-Distinguish printed text from library stamps, handwriting, accession marks, later annotations, damage and bleed-through.
-
 **Source PDFs are not committed to this repository.**
 
 ## Permanent English translation rule
 
 > **Translate the language; do not neutralise the voice.**
 
-English must retain Kalaignar's directness, commands to the reader, rhetorical questions, repetition, sarcasm, ridicule, polemical labels, imagery, exclamations and argumentative rhythm.
-
-Do not turn his prose into detached academic English. Do not soften harsh language. Do not silently replace his chosen labels with modern identifying names. Do not add explanatory claims inside the translated body.
-
-Full policy: [`ESSAY_TRANSLATION_GUIDE.md`](ESSAY_TRANSLATION_GUIDE.md).
+English must retain Kalaignar's directness, commands to the reader, rhetorical questions, repetition, sarcasm, ridicule, polemical labels, imagery, exclamations and argumentative rhythm. Do not turn his prose into detached academic English, soften harsh language, or silently replace his chosen labels with modern identifying names.
 
 ## Active publication
 
@@ -60,41 +54,29 @@ Source: `TVA_BOK_0065662_சக்கரவர்த்தியின்_தி
 - Tamil source/fidelity completion gate: **PASSED**
 - source PDF kept outside GitHub
 
-The completed Tamil layer should remain frozen except for explicit source-supported corrections.
-
-Detailed source fidelity provenance: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md).
+The completed Tamil layer remains frozen except for explicit source-supported corrections.
 
 ## Source-witness distinctions that must not regress
 
 - Article 5 contents: `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`; heading: `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`.
 - Article 10 contents/heading: `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`; scan-63 body phrase: `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`.
-- Article 14 contents: `காரியமாகும் வரையில் காலைப் பிடி!`; heading: **`காரியமாகும் வரையில் காலைப் பிடி !`**.
-- Scan 83 is a separate promotional Article 12 witness and must not overwrite the Article 12 body-page witness.
+- Article 14 contents: `காரியமாகும் வரையில் காலைப் பிடி!`; heading: `காரியமாகும் வரையில் காலைப் பிடி !`.
+- Scan 83 is a separate promotional Article 12 witness and must not overwrite the Article 12 body witness.
 
-High-value Tamil corrections that must not regress include `மற்றுமுள்ள`, `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`, `எப்படி பெய்ப்படி`, `கல் சாசனமோ`, source-visible `பரத்துவாஜ...`, `சீறிப் பாய்ந்தார்கள்`, `சப்பைக் கட்டு போடும்`, `நந்திக் கிராமத்திலே யிருந்து`, `44ஆவது`, `அப்பேர்ப்பட்டவர்`, `மாள்வதைவிட`, `ஓகோ !`, `மாறடித்து`, scan-79 heading `காரியமாகும் வரையில் காலைப் பிடி !`, and scan-82 `வர்ணிக்கிறான்`.
+High-value Tamil corrections include `மற்றுமுள்ள`, `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`, `எப்படி பெய்ப்படி`, `கல் சாசனமோ`, `பரத்துவாஜ...`, `சீறிப் பாய்ந்தார்கள்`, `சப்பைக் கட்டு போடும்`, `நந்திக் கிராமத்திலே யிருந்து`, `44ஆவது`, `அப்பேர்ப்பட்டவர்`, `மாள்வதைவிட`, `ஓகோ !`, `மாறடித்து`, Article-14 title spacing, and scan-82 `வர்ணிக்கிறான்`.
 
 ## English translation phase — ACTIVE
 
-All **14 articles** are to be translated into English while retaining Kalaignar's language and rhetorical force.
-
-Publication plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)
-
-English workspace:
-
-- tracker: [`translations/en/README.md`](publications/sakkaravarththiyin-thirumagan/translations/en/README.md)
-- living lexicon: [`translations/en/LEXICON.md`](publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md)
-- review ledger: [`translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
-
-### Translation progress
+### Progress
 
 - Phase E0 planning/setup: **COMPLETE**
 - Phase E1 Article 1 calibration: **COMPLETE**
 - Phase E2 Articles 2–4: **ACTIVE**
-- English article drafts: **1 / 14**
-- English articles T2 fidelity-reviewed: **1 / 14**
-- English articles T3 voice-reviewed: **1 / 14**
-- English articles T4 audited: **1 / 14**
-- English articles T5 verified: **1 / 14**
+- English article drafts: **2 / 14**
+- English articles T2 fidelity-reviewed: **2 / 14**
+- English articles T3 voice-reviewed: **2 / 14**
+- English articles T4 audited: **2 / 14**
+- English articles T5 verified: **2 / 14**
 - final cross-article consistency review: **not started**
 - English publication release gate: **OPEN**
 
@@ -102,64 +84,76 @@ English workspace:
 
 Each article must pass:
 
-- **T0** — current strict-reviewed Tamil assembly confirmed and its blob SHA recorded
+- **T0** — current strict-reviewed Tamil assembly confirmed + blob SHA recorded
 - **T1** — complete close English draft
 - **T2** — bilingual completeness/fidelity review
 - **T3** — Kalaignar voice review
 - **T4** — terminology / quotation / citation audit
 - **T5** — article marked verified
 
-A first draft must not be called verified merely because it is complete.
+## Publication-wide identity decision
+
+The user explicitly established that **`ஆச்சாரியார்` refers to C. Rajagopalachari (Rajaji)** in this publication.
+
+English body rendering is frozen as **`Acharya`**. Do not mechanically replace Kalaignar's label with `Rajaji`; identify the referent only in translator/editorial notes outside the body.
 
 ## Article 1 — COMPLETE / VERIFIED
 
-Tamil: **`சக்கரவர்த்தியின் திருமகன்`**  
+Tamil: `சக்கரவர்த்தியின் திருமகன்`  
 English: **`Chakravarthi's Son`**  
-Tamil source blob SHA: **`47a5b1fd0b28827bb098dda419b5bf864e9f3866`**  
-English file: [`translations/en/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md)
+Tamil blob SHA: `47a5b1fd0b28827bb098dda419b5bf864e9f3866`  
+English: [`translations/en/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md)
 
-Article 1 passed **T0–T5**.
+Decisions that must not regress:
 
-### Article 1 decisions that must not regress
+- `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where Rajagopalachari/Chakravarthi wordplay is active.
+- `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**; `ஆரியம்` → **Aryanism**; `ஆரிய சாம்ராஜ்யம்` → **Aryan Empire**.
+- `அரக்கர்` / `ராட்சசர்` / `தேவர்கள்` → **demons / Rakshasas / Devas**, kept distinct.
+- `அஸ்வமேதயாகம்` → **Ashvamedha sacrifice**; `தேவபாயசம்` → **divine payasam**; `கற்பு` → **chastity**.
+- direct `Read!` / `Look!`, repetitions, sarcasm and harsh polemical language remain visible.
+- scan-12 unmatched quotation is documented rather than repaired.
 
-- The user explicitly established **`ஆச்சாரியார்` = C. Rajagopalachari (Rajaji)** for this publication.
-- Body rendering is now frozen as **`Acharya`**. Do not mechanically substitute `Rajaji` in Kalaignar's body; use the personal identity only in translator/editorial identification notes.
-- `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where Kalaignar's Rajagopalachari/Chakravarthi wordplay is active.
-- Article 1 title → **Chakravarthi's Son**, rather than flattening the wordplay to `The Emperor's Son`.
-- `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**.
-- `ஆரியம்` → **Aryanism**; `ஆரிய சாம்ராஜ்யம்` → **Aryan Empire**.
-- `அரக்கர்` → **demons**; `ராட்சசர்` → **Rakshasas**; `தேவர்கள்` → **Devas**. Keep these lexically distinct when the Tamil does.
-- `அஸ்வமேதயாகம்` → **Ashvamedha sacrifice**.
-- `தேவபாயசம்` → **divine payasam**.
-- `கற்பு` → **chastity**, retaining the source-era moral vocabulary rather than rewriting it.
-- `சப்பைக்கட்டு` in the Article 1 Aryanism metaphor is preserved physically as **`fastens a splint onto sagging Aryanism`**.
-- `படியுங்கள்!` / `பாருங்கள்!` remain direct **`Read!` / `Look!`** imperatives.
-- Repetitions such as **`Ignorance, comrades, ignorance!`**, **`Shame! Shame!`**, **`contradicting himself, contradicting himself`**, and **`will not come true—it certainly will not come true`** must not be edited away.
-- The source-visible irregular phrase `எப்படி பெய்ப்படி வளைவான பாதைகளில் போகிறார்` remains untouched in Tamil; Article 1 renders its argumentative force as **`how he takes one crooked path after another`**.
-- The scan-12 quotation opens without a visible closing quotation mark. The English file documents that source anomaly instead of silently repairing it.
+## Article 2 — COMPLETE / VERIFIED
 
-### Article 1 review corrections
+Tamil: `தேகமும் உணர்வும்`  
+English: **`Body and Feeling`**  
+Tamil blob SHA: `bb9131b7856b528e527136be8f4f60dca2999850`  
+English: [`translations/en/02-thegamum-unarvum.md`](publications/sakkaravarththiyin-thirumagan/translations/en/02-thegamum-unarvum.md)
 
-T2 caught and fixed an early draft error that made it sound as though Acharya was following his own `son`; the corrected English now preserves the Tamil relationship: **Murasoli follows Acharya while examining Acharya's/Chakravarthi's `son`**.
+Article 2 passed **T0–T5**.
 
-T2/T3 also refined `அவதார புருஷன்` to **`an incarnation`**, Amsuman's `சீலமும் அறிவும்` to **`virtue and wisdom`**, and the final `தீயவராக்குகிறார்` to **`makes all the Devas wicked!`** to retain source force.
+Decisions that must not regress:
+
+- `தேகம்` / `உணர்வு` → **body / feeling**.
+- `ஊனுடல்` → **body of flesh / bodies of flesh**.
+- `கோபதாபம்` / `தாபம்` → **anger and passion / passion**; do not neutralise the bodily/sexual argumentative sense.
+- `பகவான்` / `ஈஸ்வரி` → **Bhagavan / Ishvari**.
+- `சூழ்ச்சி` → **plot**; explicit `சதி` → **conspiracy** when both are distinguished.
+- `பிராமணஜோதி` → **Brahmin luminary**; `பார்ப்பனகுல மகிபர்` → **lord of the Brahmin clan**; `வேதியப் பெருந்தகையார்` → **great Vedic worthy**.
+- `இனி` remains **now / from now on** because Kalaignar builds the opening argument around it.
+- source `(ஆகஸ்டு 154)` remains **`(August 154)`** with an explicit source note.
+- Vamana `மூன்றடி மண்` → **three paces of land**, paired with `two strides`.
+- scans 18 and 20 have unmatched quotation openings; the English file documents them rather than silently supplying closing marks.
+- `காற்றில் பறக்கவிட்டு` → **thrown that promise to the winds**.
+- final accusation remains **`And Rama too is an accomplice—that is the truth!`**
+
+T2 refinements included changing an initially too-literal `three feet of land` to **three paces of land** and restoring `ஆச்சாரிய மேதை` to the sharper **the genius Acharya**.
 
 Detailed provenance: [`translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md).
 
-## Exact next activity — Article 2
+## Exact next activity — Article 3
 
-Work only on **Article 2 — `தேகமும் உணர்வும்`**.
+Work only on **Article 3 — `சதி நிரூபிக்கப்படுகிறது`**.
 
 1. Fetch the complete current Tamil assembly:
-   `publications/sakkaravarththiyin-thirumagan/articles/02-thegamum-unarvum.md`
+   `publications/sakkaravarththiyin-thirumagan/articles/03-sathi-nirupikkappadugirathu.md`
 2. Record its current GitHub blob SHA as T0 provenance.
 3. Read the complete article before choosing/finalising the English title.
-4. Apply the Article 1 lexicon/voice baseline, but document genuine contextual variants instead of forcing mechanical consistency.
-5. Create `translations/en/02-thegamum-unarvum.md` with the complete English translation and Tamil source page-boundary comments.
+4. Apply the Article 1–2 lexicon/voice baseline, documenting genuine contextual variants.
+5. Create `translations/en/03-sathi-nirupikkappadugirathu.md` with complete English translation and source page-boundary comments.
 6. Perform T2 bilingual fidelity review.
 7. Perform T3 Kalaignar-language/voice review.
 8. Perform T4 terminology/quotation/citation audit.
-9. Record all corrections/decisions in `TRANSLATION_REVIEW.md` and update `LEXICON.md` as needed.
-10. Update `translations/en/README.md`, publication/root README if counts change, `TRANSLATION_PLAN.md`, and **this `HANDOVER.md` before ending the activity**.
+9. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, READMEs and **this `HANDOVER.md`** before ending the activity.
 
-**Do not begin Article 3 until Article 2 has passed T2 and T3.**
+**Do not begin Article 4 until Article 3 has passed T2 and T3.**
