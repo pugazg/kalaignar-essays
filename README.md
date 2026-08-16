@@ -24,42 +24,46 @@
 - physical scans: **83**
 - printed contents: **14 கட்டுரைகள்**
 
-### Tamil source-layer status
-
-- **83 / 83** physical page records complete
-- **14 / 14** article assemblies complete
-- source PDF kept outside GitHub
-
-### Strict visual text fidelity status
+### Tamil source / fidelity status
 
 **COMPLETE / PASSED**
 
-- **83 / 83 physical scans** checked directly at word, word-boundary, punctuation, quotation, numeral/date, heading and continuation level
-- **14 / 14 article assemblies** rechecked after all source corrections
-- **0 unresolved `NEEDS-PIXEL-REVIEW` items**
-
-The final source-fidelity batch covered scans **81–83**. Scan 81 passed without change. Scan 82 produced the final new correction: `வர்ணிக்கிறார்` → source-visible **`வர்ணிக்கிறான்`**, propagated into Article 14. Scan 83 passed as a separate back-cover promotional witness and was not reconciled into Article 12 body text.
-
-Article 14 is fully strict-rechecked across scans **79–82**. Its heading-page witness is **`காரியமாகும் வரையில் காலைப் பிடி !`**, while the contents witness remains **`காரியமாகும் வரையில் காலைப் பிடி!`**.
+- **83 / 83** physical page records complete
+- **83 / 83** physical scans strict word-level fidelity checked
+- **14 / 14** Tamil article assemblies complete and strict-rechecked
+- **0** unresolved `NEEDS-PIXEL-REVIEW` items
+- source PDF kept outside GitHub
 
 ### English translation phase — ACTIVE
 
-The user has requested English translations of all **14 articles**, with Kalaignar's language and rhetorical force retained.
+All **14 articles** are scheduled for English translation under the separate voice-preserving workflow.
 
-The translation phase begins only after the completed Tamil fidelity gate and follows a separate controlled workflow:
+Current English status:
 
-- publication translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)
-- English tracker: [`publications/sakkaravarththiyin-thirumagan/translations/en/README.md`](publications/sakkaravarththiyin-thirumagan/translations/en/README.md)
-- living lexicon: [`publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md`](publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md)
-- translation review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
-
-Current English status at setup:
-
-- drafts complete: **0 / 14**
-- translations verified: **0 / 14**
+- drafts complete: **1 / 14**
+- translations verified through T0–T5: **1 / 14**
 - final cross-article consistency review: **not started**
+- English release gate: **OPEN**
 
-The first translation activity is Article 1 — `சக்கரவர்த்தியின் திருமகன்`, which will establish the initial English voice/terminology baseline before Article 2 begins.
+**Article 1 — `சக்கரவர்த்தியின் திருமகன்` is now verified in English as `Chakravarthi's Son`.** Its translation has passed bilingual fidelity, Kalaignar-voice, terminology, quotation and citation review.
+
+Article 1 establishes the initial English baseline:
+
+- `ஆச்சாரியார்` → **Acharya**, with referent **C. Rajagopalachari (Rajaji)** identified outside Kalaignar's body text;
+- `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where the Rajagopalachari/Chakravarthi wordplay is active;
+- `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**;
+- `ஆரியம்` → **Aryanism**;
+- `அரக்கர்`, `ராட்சசர்`, `தேவர்கள்` remain distinct as **demons, Rakshasas, Devas**;
+- commands, repetitions, rhetorical questions, sarcasm and strong polemical language remain visible rather than being academicised.
+
+English translation file: [`publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md)
+
+Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
+English tracker: [`publications/sakkaravarththiyin-thirumagan/translations/en/README.md`](publications/sakkaravarththiyin-thirumagan/translations/en/README.md)  
+Living lexicon: [`publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md`](publications/sakkaravarththiyin-thirumagan/translations/en/LEXICON.md)  
+Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
+
+**Exact next translation activity: Article 2 — `தேகமும் உணர்வும்`.**
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
