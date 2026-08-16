@@ -121,11 +121,19 @@ A first draft must not be called verified merely because it is complete.
 - Preserve rhetorical questions instead of summarising them.
 - Preserve emphatic repetition instead of editing it as redundancy.
 - Preserve sarcasm and ridicule; do not academicise them.
-- Preserve source-chosen referential labels. In particular, do not silently replace `ஆச்சாரியார்` with a modern personal name; establish the English rendering from context and record it in the lexicon.
+- Preserve source-chosen referential labels rather than mechanically replacing them with personal names.
 - Translate quoted `கல்கி` passages as quotations and retain dates/citations.
 - Preserve `ஆரியர்` / `திராவிடர்` and other ideological vocabulary without neutralising it.
 - Do not pre-translate all titles mechanically. Choose each English title after reading the full article.
 - Retain source scan/printed-page boundary comments in each English file for bilingual traceability.
+
+### Established referent clarification — `ஆச்சாரியார்`
+
+The user explicitly clarified that **`ஆச்சாரியார்` in this publication refers to C. Rajagopalachari, alias Rajaji**.
+
+This identity must be understood during translation, but it does **not** authorise replacing Kalaignar's chosen `ஆச்சாரியார்` label with `Rajaji` at every occurrence. Preserve an English rendering of the label in the translated body; if reader identification is needed, place `C. Rajagopalachari (Rajaji)` in a separate translator/editor identification note outside Kalaignar's body text.
+
+The lexicon currently records `Acharya` as a provisional English form. Article 1 T3 must decide whether `Acharya` or a closer transliteration such as `Achariyar` better retains Kalaignar's language; once settled, use it consistently unless the Tamil itself changes labels.
 
 ## Planning documents created
 
@@ -147,12 +155,13 @@ Work only on **Article 1 — `சக்கரவர்த்தியின் �
    `publications/sakkaravarththiyin-thirumagan/articles/01-sakkaravarththiyin-thirumagan.md`
 2. Record its current GitHub blob SHA as T0 provenance.
 3. Read the complete article before finalising the English title.
-4. Bootstrap actual recurring translation decisions in `translations/en/LEXICON.md` from Article 1 context; do not rely on pre-filled dictionary guesses.
-5. Create `translations/en/01-sakkaravarththiyin-thirumagan.md` with the complete English translation and Tamil source page-boundary comments.
-6. Perform T2 bilingual fidelity review.
-7. Perform T3 Kalaignar-language/voice review.
-8. Perform T4 terminology/quotation/citation audit.
-9. Record all review corrections in `TRANSLATION_REVIEW.md`.
-10. Update `translations/en/README.md`, publication README, root README if counts change, and **this `HANDOVER.md` before ending the activity**.
+4. Use the established identity `ஆச்சாரியார்` = **C. Rajagopalachari (Rajaji)** while preserving Kalaignar's chosen label in the body; settle the recurring English label form during T3.
+5. Bootstrap other recurring translation decisions in `translations/en/LEXICON.md` from Article 1 context; do not rely on pre-filled dictionary guesses.
+6. Create `translations/en/01-sakkaravarththiyin-thirumagan.md` with the complete English translation and Tamil source page-boundary comments.
+7. Perform T2 bilingual fidelity review.
+8. Perform T3 Kalaignar-language/voice review.
+9. Perform T4 terminology/quotation/citation audit.
+10. Record all review corrections in `TRANSLATION_REVIEW.md`.
+11. Update `translations/en/README.md`, publication README, root README if counts change, and **this `HANDOVER.md` before ending the activity**.
 
 **Do not begin Article 2 until Article 1 has passed T2 and T3.**
