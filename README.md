@@ -31,11 +31,11 @@
 - **14 / 14** Tamil article assemblies complete and strict-rechecked
 - **0** unresolved `NEEDS-PIXEL-REVIEW`
 
-### English translation phase — ACTIVE
+### English translation phase — ACTIVE / E6 NEXT
 
-- drafts complete: **13 / 14**
-- translations verified through T0–T5: **13 / 14**
-- final cross-article consistency review: **not started**
+- drafts complete: **14 / 14**
+- translations verified through T0–T5: **14 / 14**
+- final cross-article consistency review: **not started — E6 next**
 - English release gate: **OPEN**
 
 Verified translations:
@@ -53,13 +53,14 @@ Verified translations:
 11. `நடப்பதெல்லாம் நாராயணன் செயலா?` → **Is Everything That Happens Narayana's Doing?**
 12. `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்` → **To Rama Who Went Chasing Maricha**
 13. `துரோகிகள் சந்திப்பு!` → **Traitors Meet!**
+14. `காரியமாகும் வரையில் காலைப் பிடி !` → **Hold Their Feet Until Your Purpose Is Achieved!**
 
 Publication-wide, source `ஆச்சாரியார்` is rendered **Achariyar**; explicit source-label changes such as Article 7 `இராஜாஜி` remain **Rajaji**, and source plurals such as Article 11 `ஆச்சாரியார்களுக்கு` remain plural in English.
 
-Article 13 preserves scans **74–78 / printed pp.72–76**, the compact title **Traitors Meet!**, `மாறடித்து ஒப்பாரி வைத்தான்` as **beat his chest and wailed an oppari**, **demon / asura** distinction, source-bearing **Vanara / vimana / yojana**, the unusual source `துராசைப் பட்டுக்` documentation, the subheading **This Is the Story Achariyar Has Drawn Up!**, quotation/citation irregularities, repeated **they say** cadence, **Here Achariyar dodges**, and the closing **Why? Why, Achariyar; why?**.
+Article 14 preserves scans **79–82 / printed pp.77–80**, the contents/heading punctuation-spacing witness distinction, the physical title/final **hold their feet / hold the feet of scoundrels** image, **worship-mad people**, **sensual pleasures of the inner palace**, source-bearing **saundhayam**, **rustic pleasure**, **ungrateful scoundrel**, Tara-beauty sarcasm, **Aryans will do anything—say anything**, strict `வர்ணிக்கிறான்`, and **Sons of Chakravarthi**. The lower-page *Viduthalai* advertisement on scan 82 is not Article 14 body.
 
 English workspace: [`publications/sakkaravarththiyin-thirumagan/translations/en/`](publications/sakkaravarththiyin-thirumagan/translations/en/)  
 Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
 Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
 
-**Exact next translation activity: Article 14 — `காரியமாகும் வரையில் காலைப் பிடி !`.** Read the complete current strict-reviewed Tamil assembly before finalising its English title, preserve the known contents/heading title-witness distinction, and complete T0–T5. After Article 14 is individually verified, proceed to the separate publication-level E6 consistency review before declaring the English publication complete.
+**Exact next translation activity: E6 — publication-level cross-article English consistency review.** Recheck all 14 verified translations for recurring names/epithets, ideological vocabulary, source-label switches, quotations/citations, title style, tone, page comments, source-bearing forms and documented source anomalies. Do not declare the English publication complete before E6 passes.
