@@ -38,36 +38,38 @@ The immediate translation source is the strict-reviewed Tamil article assembly i
 | 13 | துரோகிகள் சந்திப்பு! | **verified — T0–T5** |
 | 14 | காரியமாகும் வரையில் காலைப் பிடி ! | **verified — T0–T5** |
 
-## Work unit — one article at a time
-
-For each article: fetch the current Tamil assembly and record its blob SHA; read the whole article before choosing the English title; complete T1 draft; run T2 bilingual fidelity, T3 Kalaignar voice and T4 terminology/source audit; record decisions in `LEXICON.md` and `TRANSLATION_REVIEW.md`; mark T5 verified only after all gates pass; update the single root `HANDOVER.md` before ending.
-
-All 14 article-level work units are now complete. The publication must still pass E6 before English release closeout.
+All 14 article-level work units are complete.
 
 ## Publication-wide baseline
 
 - `ஆச்சாரியார்` → **Achariyar**, with C. Rajagopalachari/Rajaji identification kept outside Kalaignar's body.
-- Preserve source-label switches such as Article 7 `இராஜாஜி` → **Rajaji**, and source plurals such as Article 11 `ஆச்சாரியார்களுக்கு` → **the Achariyars**.
+- Preserve Article 7 explicit `இராஜாஜி` → **Rajaji** and Article 11 source plural `ஆச்சாரியார்களுக்கு` → **the Achariyars**.
 - Do not soften insults, accusations, caste/religious/political labels or sexualised ridicule.
 - Do not silently identify unexplained source-specific forms from memory or outside knowledge.
 - Preserve meaningful source punctuation anomalies with notes instead of repairing them.
 - Embedded verse is translated only from the supplied Tamil witness plus Kalaignar's own explanation unless the user explicitly authorises an external translation.
 
-## Baseline accumulated through Article 14
+## E6 publication consistency review — COMPLETE / PASSED
 
-Articles 1–13 establish all prior terminology and non-regression decisions recorded in the lexicon and review ledger.
+All 14 current English article files were fetched fresh from `main` and reviewed against the living lexicon, translation review ledger, this plan and the authoritative handover.
 
-Article 14 establishes:
+E6 confirmed:
 
-- title `காரியமாகும் வரையில் காலைப் பிடி !` → **Hold Their Feet Until Your Purpose Is Achieved!**;
-- Tamil SHA `e97314ada6b52c671742bb1526ed70acd1a26411`; scans **79–82 / printed pp.77–80**;
-- contents witness `காரியமாகும் வரையில் காலைப் பிடி!` and heading witness `காரியமாகும் வரையில் காலைப் பிடி !` remain separate; a stale audit-note description of the heading was corrected without changing printed Tamil;
-- `பூஜனைப்பித்தர்கள்` → **worship-mad people**;
-- `அந்தப்புர போகம்` → **sensual pleasures of the inner palace**; strict `சவுந்தாயமும்` → source-bearing **saundhayam**; `கிராமிய சுகம்` → **rustic pleasure**;
-- `கயவன்` → **scoundrel**, `நன்றிகெட்ட கயவன்` → **ungrateful scoundrel**, and `சிருங்கார போகம்` → **sensual pleasure**;
-- Rama's threat against Sugriva, Lakshmana-as-storm image, Tara-beauty sarcasm, and **Aryans will do anything—say anything—so that their purpose may be achieved!** remain direct;
-- strict scan-82 `வர்ணிக்கிறான்`, **Sons of Chakravarthi**, and **hold the feet of scoundrels** preserve the title/final rhetorical closure;
-- scan 82's lower *Viduthalai* advertisement and scan 83 are outside Article 14 body.
+- recurring names/epithets and source-label switches are consistent;
+- Aryan / Dravidian / Aryanism, dharma, atheism, rationalism and other ideological vocabulary retain the established distinctions;
+- demon / Rakshasa / asura / Deva distinctions remain source-sensitive;
+- title/body puns and rhetorical echoes remain intact, especially Articles 4, 5, 8, 13 and 14;
+- commands, rhetorical questions, repetition, ridicule and harsh formulations were not accidentally smoothed;
+- source-bearing transliterations and documented source anomalies remain intact;
+- all dates, *Kalki* citations and source-page comments remain present;
+- Article 12 scan-83 promotional witness and Article 14 scan-82 advertisement boundary remain correctly separated.
+
+Two apparent English spelling differences were checked against source and intentionally retained rather than normalised:
+
+- Article 6 `காகபட்டர்` → **Kakapattar**; Article 11 `காக பட்டர்` → **Kaga Pattar**.
+- Article 2 `ராமச்சந்திரமூர்த்தி` → **Ramachandramurti**; Article 14 `இராமசந்திர மூர்த்தி` → **Ramachandra Murti**.
+
+**No Article 1–14 body edit was required during E6.** There are **0 unresolved translation questions**.
 
 ## Phase sequence
 
@@ -76,19 +78,18 @@ Article 14 establishes:
 - **E2 Articles 2–4:** COMPLETE
 - **E3 Articles 5–8:** COMPLETE
 - **E4 Articles 9–11:** COMPLETE
-- **E5 Articles 12–14:** **COMPLETE**
-- **E6 publication consistency review:** **NEXT / NOT STARTED**
-- **E7 English release closeout:** pending
+- **E5 Articles 12–14:** COMPLETE
+- **E6 publication consistency review:** **COMPLETE / PASSED**
+- **E7 English release closeout:** **NEXT**
 
 ## Current progress
 
 - English article drafts: **14 / 14**
 - English articles T5 verified: **14 / 14**
-- final cross-article review: **not started**
-- English release gate: **OPEN**
+- publication consistency review: **PASSED**
+- English translation: **COMPLETE**
+- English release gate: **OPEN pending E7 closeout**
 
-## Exact next translation activity
+## Exact next activity
 
-Begin **E6 — publication-level cross-article consistency review**. Re-read and compare all 14 verified English translations against the living lexicon, review ledger and source-specific non-regression notes. Check recurring names and epithets, ideological vocabulary, title style, quotations/citations, source-label changes, source-bearing transliterations, page comments, tone, rhetorical repetition and all documented source-witness anomalies. Correct only translation-level inconsistencies that are actually supported by the frozen Tamil source.
-
-Do **not** declare the English translation complete until E6 passes. After E6, proceed to **E7 — English release closeout**.
+Proceed with **E7 — English release closeout**. Verify all release-facing repository files and links, confirm the final 14-article status, create/update the release-closeout record required by the workflow, and close the English release gate only if no release blocker remains.
