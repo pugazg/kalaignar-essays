@@ -22,11 +22,11 @@ Corrections made during T2–T4, and later user-directed translation corrections
 
 ## Publication review status
 
-- articles drafted: **2 / 14**
-- articles T2 fidelity-reviewed: **2 / 14**
-- articles T3 voice-reviewed: **2 / 14**
-- articles T4 audited: **2 / 14**
-- articles T5 verified: **2 / 14**
+- articles drafted: **3 / 14**
+- articles T2 fidelity-reviewed: **3 / 14**
+- articles T3 voice-reviewed: **3 / 14**
+- articles T4 audited: **3 / 14**
+- articles T5 verified: **3 / 14**
 - publication-level cross-article review: **not started**
 - unresolved translation questions: **0**
 
@@ -34,9 +34,7 @@ Corrections made during T2–T4, and later user-directed translation corrections
 
 The user explicitly clarified that **`ஆச்சாரியார்` in this publication refers to C. Rajagopalachari, alias Rajaji**.
 
-After Article 1 was changed from `Acharya` to **`Achariyar`**, the user confirmed that Article 2 is addressing/referring to the same Rajaji referent and approved applying the same form consistently. Therefore **`Achariyar` is now the publication-wide English body rendering for `ஆச்சாரியார்`**.
-
-This decision applies to Articles **1–14** wherever the Tamil source uses `ஆச்சாரியார்`, unless the source itself changes label. The personal identity **C. Rajagopalachari (Rajaji)** remains in translator/editorial identification notes and is not mechanically substituted into Kalaignar's body text.
+The user chose **`Achariyar` instead of `Acharya`** and approved applying it consistently after confirming Article 2 used the same Rajaji referent. Therefore **`Achariyar` is the publication-wide English body rendering for `ஆச்சாரியார்`** in Articles 1–14 unless the source itself changes label. The personal identity remains in translator/editorial notes and is not mechanically substituted into Kalaignar's body text.
 
 ## Article records
 
@@ -52,26 +50,9 @@ This decision applies to Articles **1–14** wherever the Tamil source uses `ஆ
 - T3: **passed**
 - T4: **passed**
 - T5: **verified**
+- post-T5 transliteration correction: `Acharya` → **`Achariyar`** throughout, user-directed; meaning unchanged.
 
-#### Article 1 review record
-
-- All source page-boundary comments for scans **9–15** are represented.
-- T2 corrected an early draft relationship error so that *Murasoli* follows the Rajaji referent while examining his/Chakravarthi's `son`.
-- Source-irregular `எப்படி பெய்ப்படி...` is rendered for argumentative force as `how he takes one crooked path after another` without altering the Tamil layer.
-- `அவதார புருஷனாக` → `an incarnation`; Amsuman's `சீலமும் அறிவும்` → `virtue and wisdom`.
-- `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where the Rajaji/Chakravarthi wordplay is active.
-- Direct imperatives, repetition, sarcasm and polemical force were retained.
-- Scan-12 unmatched quotation opening is documented rather than repaired.
-- T4 checked dates, quotations, fractions, epic names, *Kalki*, *Murasoli*, Aryan/Dravidian terminology, and the Deva/Rakshasa/demon lexical distinction.
-
-#### Post-T5 user-directed transliteration correction
-
-- Earlier Article 1 body form: `Acharya`.
-- User's explicit replacement: **`Achariyar`**.
-- Translator note and every Article 1 body occurrence were changed to **`Achariyar`**.
-- Referent remains **C. Rajagopalachari (Rajaji)**.
-- This is a transliteration/voice correction, not a change in referent or argument; Article 1 remains **verified**.
-- unresolved: **none**.
+Key review record: page comments scans 9–15 complete; opening relationship error corrected in T2; `அவதார புருஷன்` → `an incarnation`; `சீலமும் அறிவும்` → `virtue and wisdom`; direct imperatives/repetition/sarcasm retained; scan-12 unmatched quotation documented; T4 checked dates, quotations, fractions, names, periodicals and ideological terminology.
 
 ### Article 2 — தேகமும் உணர்வும்
 
@@ -79,71 +60,72 @@ This decision applies to Articles **1–14** wherever the Tamil source uses `ஆ
 - source Tamil blob SHA: **`bb9131b7856b528e527136be8f4f60dca2999850`**
 - English file: `02-thegamum-unarvum.md`
 - English title: **`Body and Feeling`**
+- T0: **passed**
+- T1: **passed** — scans 16–21 / printed pp.14–19 complete
+- T2: **passed**
+- T3: **passed**
+- T4: **passed**
+- T5: **verified**
+- post-T5 transliteration correction: `Acharya` → **`Achariyar`** throughout, user-approved publication-wide change.
+
+Key review decisions: `ஊனுடல்` → `body/bodies of flesh`; `கோபதாபம்` → `anger and passion`; `இனி` retained as `now/from now on`; source `(ஆகஸ்டு 154)` retained as `(August 154)` with note; Vamana `மூன்றடி மண்` refined to `three paces of land`; `ஆச்சாரிய மேதை` sharpened to `the genius Achariyar`; scans 18 and 20 unmatched quotation openings documented; `சூழ்ச்சி` / `சதி` kept as `plot` / `conspiracy`; ending remains direct.
+
+### Article 3 — சதி நிரூபிக்கப்படுகிறது
+
+- Tamil source: `../../articles/03-sathi-nirupikkappadugirathu.md`
+- source Tamil blob SHA: **`903dbb0a2b74bc1ffa173469bfdb3dfa6ce9b4b4`**
+- English file: `03-sathi-nirupikkappadugirathu.md`
+- English title: **`The Conspiracy Is Proven`**
 - T0: **passed** — current strict-reviewed Tamil assembly confirmed before drafting
-- T1: **passed** — complete article translated through scans 16–21 / printed pp.14–19
+- T1: **passed** — complete article translated through scans **22–25 / printed pp.20–23**
 - T2: **passed** — paragraph-by-paragraph bilingual completeness/fidelity review completed
 - T3: **passed** — Kalaignar-language/voice review completed
-- T4: **passed** — terminology, quotations, source anomalies, dates and page-boundary comments audited
+- T4: **passed** — terminology, quotations, source-page comments, date and names audited
 - T5: **verified**
 
 #### T1/T2 decisions and corrections
 
-- All six source page-boundary comments are represented: scans **16, 17, 18, 19, 20, 21**.
-- Title `தேகமும் உணர்வும்` is rendered **`Body and Feeling`**, preserving the compact conceptual pairing rather than expanding it into a neutral explanatory title.
-- `ஊனுடல்` is consistently rendered **`body of flesh` / `bodies of flesh`** so Kalaignar's corporeal emphasis remains visible.
-- `கோபதாபம்` / `தாபம்` is rendered **`anger and passion` / `passion`**. The later Rama–Sita questions show that Kalaignar is exploiting the bodily/sexual sense of `தாபம்`; neutral `distress` would lose the argument.
-- `இனி` remains **`now` / `from now on`** because Kalaignar explicitly builds the argument around that word.
-- Source-visible `(ஆகஸ்டு 154)` is retained in English as **`(August 154)`** with a source comment; it is not silently normalised.
-- The Vamana `மூன்றடி மண்` wording was refined during T2 from a too-literal `three feet of land` to **`three paces of land`**, preserving the immediate source contrast with measuring the world in `two strides`.
-- `ஆச்சாரிய மேதை` was restored to the sharper **`the genius Achariyar`** in the rhetorical question rather than the softer draft `learned Acharya`.
-- No Tamil paragraph, quoted proposition, rhetorical question, date or named actor was intentionally omitted.
+- All four source page-boundary comments are represented: scans **22, 23, 24, 25**.
+- Title `சதி நிரூபிக்கப்படுகிறது` → **`The Conspiracy Is Proven`**, retaining the article's declarative accusation.
+- Publication-wide `ஆச்சாரியார்` → **`Achariyar`** is applied throughout. The source spelling variant `ஆச்சாரியர்` in scan 23 is understood as the same referential label and is not turned into a separate English form.
+- Opening `ராஜ்ய பாரத்தை ராமன் தலையில் கட்டி விட` remains physically forceful as **`tie onto Rama's head the burden of the kingdom`**.
+- The first draft's explanation of the Vishnu-share argument was tightened during T2 to preserve Kalaignar's actual logic: **`when it is a share of divinity, what need is there to calculate shares? Every share is complete in itself.`**
+- The Bharata comparison was refined from an explanatory paraphrase to the closer **`without Lakshmana for companionship and without his father for comfort`**.
+- `அராஜகம்` is kept as **`lawlessness`**, while `அடக்குமுறை` remains **`repression`**, preserving the rapid question sequence.
+- `கல்மஷம்` was refined from an initial `guile` rendering to **`taint`** so Kalaignar's later quoted sarcastic echo can use the same lexical image.
+- No Tamil paragraph, quotation, named actor, date or rhetorical question was intentionally omitted.
 
 #### T3 Kalaignar-voice decisions
 
-- `ஆச்சாரியார்` is now **`Achariyar`** throughout Article 2, in line with the user-approved publication-wide standard.
-- Polemical epithets remain marked: `பிராமணஜோதி` → **`Brahmin luminary`**; `பார்ப்பனகுல மகிபர்` → **`lord of the Brahmin clan`**; `வேதியப் பெருந்தகையார்` → **`great Vedic worthy`**.
-- `புரோகிதர் தலைவரின் பொருள் பொதிந்த பேச்சு!` remains **`The meaning-laden words of the leader of the priests!`**, not an academic paraphrase.
-- Direct repetitions remain: **`Watch closely, friends, watch closely`** and **`An explanation is needed—O great Vedic worthy, an explanation is needed!`**.
-- The Rama/Sita sequence remains a rapid series of questions rather than being summarised into an argument.
-- `சூழ்ச்சி` is rendered **`plot`**, while explicit `சதி` is rendered **`conspiracy`**, preserving Kalaignar's lexical escalation.
-- `காற்றில் பறக்கவிட்டு` remains the physical idiom **`thrown that promise to the winds`**.
-- The ending preserves Kalaignar's accusation directly: **`And Rama too is an accomplice—that is the truth!`**
+- The repeated `...ஆம் / ...என்கிறார்` distancing is kept through **`it seems` / `apparently`** constructions rather than neutral assertion.
+- The rapid challenge sequence remains intact: **`Did enemies invade? Did lawlessness break out? Was repression needed?`**
+- `கொல்லைப்புறமாக மந்திரி சபைக்கு வந்தவரல்லவா ஆச்சாரியார்!` remains the political jab **`Was not Achariyar himself one who came into the Council of Ministers through the back door!`** rather than a neutral historical paraphrase.
+- Kalaignar's final contemptuous cadence is retained: **`Why only us? Everyone with a brain will come to exactly that conclusion.`**
+- Sarcastic quotation around `சதி` and the echoed `கல்மஷம்` remain rhetorically visible in English.
 
 #### T4 terminology / quotation / citation audit
 
 Confirmed against the Tamil assembly:
 
-- repeated religious titles: **Bhagavan, Ishvari**;
-- avatar names: Vamana, Varaha; Mahabali; Bhuma Devi;
-- epic names: Rama, Sita, Tataka, Bharata, Kaikeyi, Vasishta, Dasaratha;
-- `Kodanda`, `Pushya`, `Kekaya`, `Ramachandramurti`, `Mahavishnu` retained consistently;
-- section heading `பட்டாபிஷேகம்` → **Coronation**;
-- source August 8 reference preserved;
-- source-visible `August 154` anomaly documented;
-- unmatched quotation openings on scans **18** and **20** are explicitly documented in the English file rather than silently closed.
+- names: Dasaratha, Vasishta, Rama, Bharata, Lakshmana, Shatrughna, Kaikeyi, King Kekaya, Lava, Kusha, Manthara;
+- `தேவ பாயசம்` remains **divine payasam**;
+- `அஸ்வமேத யாகம்` remains **Ashvamedha sacrifice**;
+- `யுவராஜப் பதவி` / `யுவராஜ்யப் பதவி` → **office of Crown Prince**;
+- `ராஜ்ய பாரம்` / `ராஜ்யபாரம்` → **burden of the kingdom / burden of rule** according to context;
+- `கல்மஷம்` → **taint** with later sarcastic echo preserved;
+- citation **15 August 1954, Kalki** preserved;
+- the scan-22 quotation continues across the scan-23 boundary and is retained as one quotation in English.
 
-#### Post-T5 user-directed transliteration correction
+#### Article 3 unresolved items
 
-- Earlier Article 2 body form: `Acharya`.
-- User-approved publication-wide replacement: **`Achariyar`**.
-- Translator note and every Article 2 body occurrence have been changed to **`Achariyar`**.
-- This does not alter the translation's meaning or T0–T5 verification; Article 2 remains **verified**.
-- unresolved: **none**.
-
-### Article 3 — சதி நிரூபிக்கப்படுகிறது
-
-- Tamil source: `../../articles/03-sathi-nirupikkappadugirathu.md`
-- source Tamil blob SHA: pending T0
-- T0–T5: `not-started`
-- corrections / decisions: apply **`Achariyar`** for source `ஆச்சாரியார்`
-- unresolved: none yet
+**None.** Article 3 is verified and may be used in the later publication-wide consistency review.
 
 ### Article 4 — காமராஜன் ஆட்கொண்ட தசரதராஜன்!
 
 - Tamil source: `../../articles/04-kamarajan-aadkonda-dasaratharajan.md`
 - source Tamil blob SHA: pending T0
 - T0–T5: `not-started`
-- corrections / decisions: none yet
+- corrections / decisions: apply the established publication-wide **Achariyar** rule where appropriate
 - unresolved: none yet
 
 ### Article 5 — பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?
