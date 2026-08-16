@@ -32,7 +32,7 @@ The immediate translation source is the strict-reviewed Tamil article assembly i
 | 7 | விபீஷணருக்கு விடை யளிப்போம்! | **verified — T0–T5** |
 | 8 | நாடாண்ட மன்னன் நாதியற்று செத்தான் | **verified — T0–T5** |
 | 9 | தந்தை மகனும் தருமம் தவறியவர்கள்! | **verified — T0–T5** |
-| 10 | விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்! | not-started |
+| 10 | விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்! | **verified — T0–T5** |
 | 11 | நடப்பதெல்லாம் நாராயணன் செயலா? | not-started |
 | 12 | மாரீசனைத் துரத்திச் சென்ற ராமனிடம் | not-started |
 | 13 | துரோகிகள் சந்திப்பு! | not-started |
@@ -51,22 +51,21 @@ For each article: fetch the current Tamil assembly and record its blob SHA; read
 - Preserve meaningful source punctuation anomalies with notes instead of repairing them.
 - Embedded verse is translated only from the supplied Tamil witness plus Kalaignar's own explanation unless the user explicitly authorises an external translation.
 
-## Baseline accumulated through Article 9
+## Baseline accumulated through Article 10
 
-Articles 1–8 establish all prior terminology and non-regression decisions recorded in the lexicon and review ledger.
+Articles 1–9 establish all prior terminology and non-regression decisions recorded in the lexicon and review ledger.
 
-Article 9 establishes:
+Article 10 establishes:
 
-- title → **Father and Son—Both Strayed from Dharma!**;
-- `தருமம் / தர்மம்` → **dharma**; `சத்தியம்` → **truth / word of truth**; `நாஸ்திகம் / நாஸ்திகன்` → **atheism / atheist**;
-- `தர்ம ராஜன்` → **Dharma Raja**;
-- source-bearing **Jambali / naathigam** with no external normalisation;
-- the opening Chitrakuta quotation-mark anomaly documented;
-- the truth/dharma challenge, sheep-flock / **Govinda!** jab and repeated reader-facing questions retained;
-- `சூட்சமம்` → **the catch!**; `ராஜ்ய பாரம்` → **burden of rule** by context; `சதி` remains **conspiracy**;
-- Rama's **the country given by me** claim and Vasishta's **administer the kingdom** instruction retained;
-- sandal/throne surrogate-rule argument and Nehru–Governor Prakasa analogy retained;
-- **“holy” sandals / the conspirator Rama / audacious, conspiracy-laden speech** retained.
+- title `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **To Rama, Who Is Said to Be Vishnu's Incarnation!**;
+- the heading/contents witness `எனப்படும் ... ராமனிடம்` is kept distinct from scan-63 body `என்பதும் ... ராமனிடமே`;
+- **Ramayana tigers**, the little-fellows/great-man contrast and the direct challenge over meat-eating rishis remain visible;
+- `சிரார்த்த போஜனம்` → **shraddha feast**, `மேஷ (ஆடு) மாமிசம்` → **mesha (goat) meat**, `நரமாமிசம்` → **human flesh**;
+- scan-63 unmatched opening parenthesis is documented rather than silently closed;
+- `காம தாகம்` → **thirst of lust**, `இரண்டாந்தாரம்` → **second wife**, `புருஷரத்தினங்கள்` → **gems among men**;
+- `ரசாபாச` remains source-bearing **rasabhasa**;
+- Article 1/6 **splint** image is reused for `சப்பைக் கட்டு`;
+- final nested quotation irregularities are documented and the closing **Aryan culture** jab remains direct.
 
 ## Phase sequence
 
@@ -74,17 +73,17 @@ Article 9 establishes:
 - **E1 Article 1 calibration:** COMPLETE
 - **E2 Articles 2–4:** COMPLETE
 - **E3 Articles 5–8:** COMPLETE
-- **E4 Articles 9–11:** **ACTIVE — Article 9 complete; Article 10 next**
+- **E4 Articles 9–11:** **ACTIVE — Articles 9–10 complete; Article 11 next**
 - **E5 Articles 12–14:** pending
 - **E6 publication consistency review:** pending
 - **E7 English release closeout:** pending
 
 ## Current progress
 
-- English article drafts: **9 / 14**
-- English articles verified: **9 / 14**
+- English article drafts: **10 / 14**
+- English articles T5 verified: **10 / 14**
 - final cross-article review: **not started**
 
 ## Exact next translation activity
 
-Proceed with **Article 10 — `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`**. Fetch and read its complete current strict-reviewed Tamil assembly, record the fresh blob SHA as T0, preserve the known source-witness distinction between the contents/heading title and the scan-63 body phrase, choose the English title only after reading the full argument, complete T1–T5, then update the lexicon, review ledger, tracker, READMEs and root `HANDOVER.md` before Article 11 begins.
+Proceed with **Article 11 — `நடப்பதெல்லாம் நாராயணன் செயலா?`**. Fetch and read its complete current strict-reviewed Tamil assembly, record the fresh blob SHA as T0, choose the English title only after reading the full argument, complete T1–T5, then update the lexicon, review ledger, tracker, READMEs and root `HANDOVER.md` before Article 12 begins.
