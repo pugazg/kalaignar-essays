@@ -60,7 +60,7 @@ Do not touch the Tamil layer unless an explicit source-supported correction is f
 - Article 14 contents: `காரியமாகும் வரையில் காலைப் பிடி!`; heading: `காரியமாகும் வரையில் காலைப் பிடி !`.
 - **Scan 83 is a separate promotional Article 12 witness and must never overwrite Article 12 body text.**
 
-Other high-value source readings already verified include `மற்றுமுள்ள`, `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`, `எப்படி பெய்ப்படி`, `கல் சாசனமோ`, `சீறிப் பாய்ந்தார்கள்`, `சப்பைக் கட்டு போடும்`, `நந்திக் கிராமத்திலே யிருந்து`, `44ஆவது`, `அப்பேர்ப்பட்டவர்`, `மாள்வதைவிட`, `ஓகோ !`, `மாறடித்து`, and scan-82 `வர்ணிக்கிறான்`.
+Other high-value source readings already verified include `மற்றுமுள்ள`, `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`, `எப்படி பெய்ப்படி`, `கல் சாசனமோ`, `சீறிப் பாய்ந்தார்கள்`, `சப்பைக் கட்டு போடும்`, `நந்திக் கிராமத்திலே யிருந்து`, `44ஆவது`, `அப்பேர்ப்பட்டவர்`, `மாள்வதைவிட`, `ஓகோ !`, `மாறடித்து`, scan-76 `துராசைப் பட்டுக்`, and scan-82 `வர்ணிக்கிறான்`.
 
 ## English translation phase — ACTIVE
 
@@ -69,12 +69,12 @@ Other high-value source readings already verified include `மற்றுமு
 - Phase E2 Articles 2–4: **COMPLETE**
 - Phase E3 Articles 5–8: **COMPLETE**
 - Phase E4 Articles 9–11: **COMPLETE**
-- Phase E5 Articles 12–14: **ACTIVE — Article 12 complete; Article 13 next**
-- English drafts: **12 / 14**
-- T2 fidelity-reviewed: **12 / 14**
-- T3 voice-reviewed: **12 / 14**
-- T4 audited: **12 / 14**
-- T5 verified: **12 / 14**
+- Phase E5 Articles 12–14: **ACTIVE — Articles 12–13 complete; Article 14 next**
+- English drafts: **13 / 14**
+- T2 fidelity-reviewed: **13 / 14**
+- T3 voice-reviewed: **13 / 14**
+- T4 audited: **13 / 14**
+- T5 verified: **13 / 14**
 - final cross-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -101,6 +101,7 @@ The user explicitly established that `ஆச்சாரியார்` refers 
 10. `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **To Rama, Who Is Said to Be Vishnu's Incarnation!** — `e7a2b2e1d3b703d672b0be7569440217ccb03d3e`
 11. `நடப்பதெல்லாம் நாராயணன் செயலா?` → **Is Everything That Happens Narayana's Doing?** — `b324e995d580ee021577b998d193d005fa6446ad`
 12. `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்` → **To Rama Who Went Chasing Maricha** — `01aae57b137bfb3d762c4cb6a62e149bfdb78edb`
+13. `துரோகிகள் சந்திப்பு!` → **Traitors Meet!** — `369c3f4e5030c5810e815d13692372ae73849837`
 
 ## Non-regression translation decisions
 
@@ -155,33 +156,44 @@ The user explicitly established that `ஆச்சாரியார்` refers 
 - Title → **Is Everything That Happens Narayana's Doing?**.
 - Preserve May **1954 / 1955** contradiction, **backing orchestra**, **Chanakya**, direct **Brahmin leader**, Narayana/Rama contradiction, **dharma and justice**, **sinful act**, **Oh-ho!**, **Ayyo, Lakshmana!**, scan-69 unmatched outer quotation, Janaki insult cascade, **fourth-rate woman**, fate reversal, physical tongue image, **Kaga Pattar**, source plural **the Achariyars**, and final livelihood line.
 
-### Article 12 — COMPLETE / VERIFIED
-
-English: [`translations/en/12-maarisanai-thuraththi-sendra-ramanidam.md`](publications/sakkaravarththiyin-thirumagan/translations/en/12-maarisanai-thuraththi-sendra-ramanidam.md)
-
+### Article 12
 - Title → **To Rama Who Went Chasing Maricha**.
 - Tamil SHA `01aae57b137bfb3d762c4cb6a62e149bfdb78edb`; controlling body scans **71–73 / printed 69–71**.
-- **Scan 83 is only a separate back-cover promotional Article 12 witness.** It must never overwrite, normalise or silently correct the body witness. Its visible `அறி குறி?` and `தலைகாட்டுகிறது. சொந்தக்...` forms remain independent from scan-72 body wording.
-- Keep both dated *Kalki* quotations: **30.1.1955** and **6.2.1955**.
-- `மேலுத்தரியம்` → **upper cloth**; recurring `மேலாடை` → **upper garment**.
-- Scan-72 source-visible `அவனாகவே` remains untouched in Tamil. The surrounding argument still attributes the garment-dropping act to Sita; English therefore uses **she drops her upper garment down on her own**, with the source difficulty explicitly documented rather than silently repaired.
-- `அம்சம்` → **aspect**, distinct from `அவதாரம்` → **incarnation**.
-- Retain Jatayu/Ravana bodily-force sequence, **Poor thing** sarcasm, repeated modesty/chastity questions, and the Lakshmana/Sita comparison.
-- `ஆஸ்திகப் பெருமக்கள்` → **theist worthies**; `இரவு ராஜாக்கள்` → **kings of the night**; `வழுக்கி விழுந்த சகோதரிகள்` → **sisters who slipped and fell**.
-- Keep the prostitution/anguish image **volcanoes of anguish with tears flooding their eyes**, **Pitiful—most pitiful!**, market-street woman comparison, **flowering vines born into noble families**, and **immense nerve**.
-- `காகுத்தன்` → source-bearing **Kakuthan**; `ஆஷாடபூதிகள்` → source-bearing **Ashadabhoothis**; neither receives an outside identification.
-- Keep the final rubbish-on-head dance and **incarnations of Sita / incarnations of Draupadi!** escalation.
-- No unresolved Article 12 meaning-level blocker remains. The `அவனாகவே` form is a documented source difficulty, not an unresolved Tamil transcription item.
+- **Scan 83 is only a separate back-cover promotional Article 12 witness.** It must never overwrite, normalise or silently correct the body witness.
+- `மேலுத்தரியம்` → **upper cloth**; `மேலாடை` → **upper garment**; `அம்சம்` → **aspect**, distinct from `அவதாரம்` → **incarnation**.
+- Scan-72 `அவனாகவே` remains untouched in Tamil; contextual English action is documented.
+- Keep Jatayu/Ravana bodily-force sequence, **theist worthies**, **kings of the night**, **sisters who slipped and fell**, **Pitiful—most pitiful!**, market-street imagery, **Kakuthan**, **Ashadabhoothis**, and final Sita/Draupadi escalation.
 
-## Exact next activity — Article 13
+### Article 13 — COMPLETE / VERIFIED
 
-Work only on **Article 13 — `துரோகிகள் சந்திப்பு!`**.
+English: [`translations/en/13-thurogigal-santhippu.md`](publications/sakkaravarththiyin-thirumagan/translations/en/13-thurogigal-santhippu.md)
 
-1. Fetch `publications/sakkaravarththiyin-thirumagan/articles/13-thurogigal-santhippu.md` fresh from `main` and record its current blob SHA as T0.
+- Title → **Traitors Meet!**.
+- Tamil SHA `369c3f4e5030c5810e815d13692372ae73849837`; scans **74–78 / printed 72–76**.
+- `மாறடித்து ஒப்பாரி வைத்தான்` → **beat his chest and wailed an oppari**; source-visible `மாறடித்து` physical action is not flattened.
+- Preserve `அரக்கன்` → **demon** vs `அசுரன்` → **asura**; source-bearing **Vanara / vimana / yojana** remain unexpanded.
+- Rama/Sugriva alliance retains the explicit conspiracy, deception, kingdom-seizure and betrayal charges; do not neutralise the title/body traitor frame.
+- Scans **75–76** contain successive source-irregular quotation openings without matching visible closures; document, do not repair Tamil.
+- Scan **76** source-confirmed `துராசைப் பட்டுக்` remains frozen; English contextual rendering is **driven by greed**.
+- Subheading `இது ஆச்சாரியார் தீட்டியுள்ள கதை!` → **This Is the Story Achariyar Has Drawn Up!**.
+- Dundubhi passage retains **Himavan / Samudra Raja**, **strength of a thousand elephants**, and **one yojana**.
+- Scan **78** repeated hearsay remains **they say ... they say**; `துரோகி` → **traitor**; `மழுப்புகிறார்` → **Here Achariyar dodges.**
+- Scan-78 final source citation is visibly `(6.3.1955 - ‘கல்கி)` with no closing single quote; English uses readable citation typography while the source anomaly is documented.
+- Final `இராமன் செய்கையாக / ராமனின் செயல்` echo remains **Rama's course of action / Rama's action**.
+- Final **Why? Why, Achariyar; why?** remains unsmoothed.
+- No unresolved Article 13 meaning-level blocker remains.
+
+## Exact next activity — Article 14
+
+Work only on **Article 14 — `காரியமாகும் வரையில் காலைப் பிடி !`**.
+
+1. Fetch `publications/sakkaravarththiyin-thirumagan/articles/14-kaariyamaagum-varaiyil-kaalai-pidi.md` fresh from `main` and record its current blob SHA as T0.
 2. Read the **entire** Tamil article before choosing the English title.
-3. Apply the publication-wide **Achariyar** rule and existing lexicon only where context supports it.
-4. Create `translations/en/13-thurogigal-santhippu.md` with all source-page comments (Article 13 body is scans **74–78 / printed pp.72–76** according to the established page map; verify fresh before use).
-5. Complete T2 bilingual fidelity review, T3 Kalaignar-voice review and T4 terminology/source audit; mark T5 only after all pass.
-6. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, publication/root READMEs and **this `HANDOVER.md`** before ending.
+3. Preserve the source-witness distinction: contents page `காரியமாகும் வரையில் காலைப் பிடி!`; article heading `காரியமாகும் வரையில் காலைப் பிடி !`.
+4. Apply the publication-wide **Achariyar** rule and existing lexicon only where context supports it.
+5. Create `translations/en/14-kaariyamaagum-varaiyil-kaalai-pidi.md` with all source-page comments; established body span is scans **79–82 / printed pp.77–80**, but verify fresh.
+6. Complete T2 bilingual fidelity review, T3 Kalaignar-voice review and T4 terminology/source audit; mark T5 only after all pass.
+7. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, publication/root READMEs and **this `HANDOVER.md`** before ending.
+8. After Article 14 reaches T5, begin **E6 — publication-level cross-article consistency review**. Do not declare English translation complete until E6 passes.
 
-**Do not begin Article 14 until Article 13 has passed T2 and T3; ideally complete Article 13 through T5 first.**
+**Do not merge Article 14 translation and the E6 consistency review into one undocumented step. Article 14 must first be individually T5 verified; E6 is a separate publication gate.**
