@@ -28,18 +28,16 @@ The original archival/source layer is complete:
 
 ### Strict visual-text-fidelity status
 
-A second, stricter word-by-word / punctuation-by-punctuation review is proceeding in physical scan order.
+The second word-by-word / punctuation-by-punctuation visual review is proceeding in physical scan order.
 
-Current progress: **32 / 83 scans complete**.
+Current progress: **40 / 83 scans complete**.
 
-- scans **1–8**: complete
-- scans **9–16**: complete
-- scans **17–24**: complete; no new discrepancy
-- scans **25–32**: complete; **8 / 8 FIDELITY-PASS, no new discrepancy**
-- Article 3 is now fully strict-rechecked
-- Article 4 is now fully strict-rechecked
-- Article 5 scans **30–32** agree with its assembly; scans 33–37 remain
-- scans **33–40**: **next strict-review batch**
+- scans **1–32**: complete
+- scans **33–40**: complete; **no new discrepancy found**
+- scans 33–36 revalidated already-propagated source corrections including `பரத்துவாஜ...`, `போடுகிறவன் போட்டாலும்`, and `சீறிப் பாய்ந்தார்கள்`
+- Article 5 is now fully strict-rechecked across scans **30–37**
+- Article 6 scans **38–40** agree with its assembly; scans 41–42 remain
+- scans **41–48**: **next strict-review batch**
 
 The publication must not be described as strict-fidelity complete until all 83 scans and all article assemblies have passed this staged review.
 
