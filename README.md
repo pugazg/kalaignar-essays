@@ -33,8 +33,8 @@
 
 ### English translation phase — ACTIVE
 
-- drafts complete: **8 / 14**
-- translations verified through T0–T5: **8 / 14**
+- drafts complete: **9 / 14**
+- translations verified through T0–T5: **9 / 14**
 - final cross-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -48,13 +48,14 @@ Verified translations:
 6. `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?` → **Why Did Rama Go to the Forest? A Rishi's Curse? Kaikeyi's Anger?**
 7. `விபீஷணருக்கு விடை யளிப்போம்!` → **Let Us Answer Vibhishana!**
 8. `நாடாண்ட மன்னன் நாதியற்று செத்தான்` → **The King Who Ruled the Land Died with No One to Tend Him**
+9. `தந்தை மகனும் தருமம் தவறியவர்கள்!` → **Father and Son—Both Strayed from Dharma!**
 
 Publication-wide, source `ஆச்சாரியார்` is rendered **Achariyar**; explicit source-label changes such as Article 7 `இராஜாஜி` remain **Rajaji**.
 
-Article 8 preserves the title/body **no one to tend him** irony, scan-52 unmatched opening quotation, source-bearing **Sayantan / paakkai / Suta-Magadhars**, the sleeping-wives and **sixty thousand** satire, repeated **master his senses** ridicule, **intoxication of lust / bodily pleasure**, the source-visible **tail** image and final **sacred-thread king Achariyar**.
+Article 9 preserves the repeated **dharma / truth / atheism** argument, source-bearing **Jambali / naathigam**, the sheep-flock / **Govinda!** jab, the sandal-on-throne political satire, the Nehru–Governor Prakasa comparison, **“holy” sandals**, **the conspirator Rama**, and the closing **audacious, conspiracy-laden speech**.
 
 English workspace: [`publications/sakkaravarththiyin-thirumagan/translations/en/`](publications/sakkaravarththiyin-thirumagan/translations/en/)  
 Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
 Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)
 
-**Exact next translation activity: Article 9 — `தந்தை மகனும் தருமம் தவறியவர்கள்!`.** Read the complete current strict-reviewed Tamil assembly before finalising its English title, then complete T0–T5 before Article 10.
+**Exact next translation activity: Article 10 — `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`.** Read the complete current strict-reviewed Tamil assembly before finalising its English title, preserve the known title/body source-witness distinction, then complete T0–T5 before Article 11.
