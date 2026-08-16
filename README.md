@@ -28,23 +28,26 @@ The original archival/source layer is complete:
 
 ### Visual text fidelity status
 
-The strict page-by-page, word-by-word visual comparison is in progress.
+The separate strict page-by-page, word-by-word visual comparison is still in progress.
 
-Current progress: **72 / 83 scans complete**.
+Current progress: **80 / 83 scans complete**.
 
-Latest completed range: **65–72**.
+Latest completed range: **73–80**.
 
-- Article 11 is now fully strict-rechecked across scans **65–70**.
-- Article 12 is strict-rechecked through scan **72**; scan 73 remains.
-- Latest corrections include `மரண மடைகிறார்கள்`, `மகா புருஷன் -ஈஸ்வர`, `பார்க்கலாம் -அப்படிக்`, `மாள்வதைவிட`, `ஓகோ !`, `நரிகள். அவலட்சணமாக`, `49 ஆம்`, `53 ஆம்`, `பாவம் ;`, and `எந்தப் பெண்ணாவது, தனது`.
-- The high-resolution scan-67 check explicitly supersedes the earlier mistaken reading `மான்வதைவிட` with source-visible **`மாள்வதைவிட`**.
+- Article 12 is now fully strict-rechecked across scans **71–73**.
+- Article 13 is now fully strict-rechecked across scans **74–78**.
+- Article 14 is strict-rechecked through scan **80**; scans 81–82 remain.
+- Scan 74 corrected `மாறிமாறி` to source-visible **`மாறடித்து`** and restored visible article number `13`.
+- Scan 75 preserves source spacing **`சுக்ரீவன் யார் தெரியுமா ?`**.
+- Scan 79 restored visible article number `14` and corrected the heading to **`காரியமாகும் வரையில் காலைப் பிடி !`**. The contents-page witness remains separately `காரியமாகும் வரையில் காலைப் பிடி!`.
+- No unresolved pixel-review item remains in scans **1–80**.
 
-Next range: **73–80**.
+Final strict range: **81–83**.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
 Fidelity ledger: [`publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md)
 
-Source-layer completion review: [`publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md)
+Source-layer completion review / strict-gate state: [`publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md)
 
 Workflow: [`ESSAY_PROCESSING_GUIDE.md`](ESSAY_PROCESSING_GUIDE.md).
