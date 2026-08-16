@@ -9,11 +9,11 @@ A first draft is never automatically verified. Every article must pass T0 source
 
 ## Publication review status
 
-- articles drafted: **8 / 14**
-- articles T2 fidelity-reviewed: **8 / 14**
-- articles T3 voice-reviewed: **8 / 14**
-- articles T4 audited: **8 / 14**
-- articles T5 verified: **8 / 14**
+- articles drafted: **9 / 14**
+- articles T2 fidelity-reviewed: **9 / 14**
+- articles T3 voice-reviewed: **9 / 14**
+- articles T4 audited: **9 / 14**
+- articles T5 verified: **9 / 14**
 - publication-level cross-article review: **not started**
 - unresolved translation questions: **0**
 
@@ -70,56 +70,82 @@ The user established that `ஆச்சாரியார்` refers to **C. Raj
 - Tamil SHA: `1ae5db95c88df7ccdbd74b180c4427f8ee81d022`
 - English: `07-vibishanarukku-vidai-yalippom.md`
 - T0–T5: **passed / verified**
-- Key review: `விபீஷணர் / விபீஷணத் தன்மை / விபீஷணக் கொள்கை` → **Vibhishana / Vibhishana-ness / Vibhishana doctrine**; `சிவஞானம் / சிவஞானங்கள்` preserved as **Sivagnanam / Sivagnanams**; explicit source `இராஜாஜி` → **Rajaji** while `ஆச்சாரியார்` remains **Achariyar**; source-bearing `thanda-kanda / Inithavayan / Argusis`; `வாலேந்திகள்` → **tail-bearers**; Ahalya subject error corrected; scan-48 `கற்பு நிலையைப் பாதிக்கும்` explicitly documented; closing **carrying kavadi for the North / Time alone must give the answer!** retained.
+- Key review: **Vibhishana / Vibhishana-ness / Vibhishana doctrine**; **Sivagnanam / Sivagnanams**; explicit `இராஜாஜி` → **Rajaji** while `ஆச்சாரியார்` remains **Achariyar**; source-bearing `thanda-kanda / Inithavayan / Argusis`; **tail-bearers**; Ahalya subject error corrected; scan-48 `கற்பு நிலையைப் பாதிக்கும்` explicitly documented; closing **carrying kavadi for the North / Time alone must give the answer!** retained.
 
 ### 8 — நாடாண்ட மன்னன் நாதியற்று செத்தான் → `The King Who Ruled the Land Died with No One to Tend Him`
 
-- Tamil source: `../../articles/08-naadaanda-mannan-naathiyatru-seththaan.md`
-- Tamil SHA: **`87d10ed53e55fdf6a1eb60f86517cc245644a71a`**
+- Tamil SHA: `87d10ed53e55fdf6a1eb60f86517cc245644a71a`
 - English: `08-naadaanda-mannan-naathiyatru-seththaan.md`
 - source pages: scans **50–54 / printed pp.48–52**
-- T0: **passed** — current strict-reviewed Tamil assembly confirmed before drafting
-- T1: **passed** — complete translation created with all five source-page comments
+- T0–T5: **passed / verified**
+- Key review: title/body **no one to tend him** echo; `தாம் பத்தினி` contextual **devoted wife** with note; scan-52 unmatched quotation opening documented; **Suta-Magadhars / Sayantan / paakkai** source-bearing; sleeping-wives/deathbed satire and **sixty thousand** retained; **ability to master his senses**, **intoxication of lust**, **bodily pleasure**, source-visible **tail**, final **sacred-thread king Achariyar** preserved.
+
+### 9 — தந்தை மகனும் தருமம் தவறியவர்கள்! → `Father and Son—Both Strayed from Dharma!`
+
+- Tamil source: `../../articles/09-thanthai-maganum-tharumam-thavariyavargal.md`
+- Tamil SHA: **`d8b6b6cba29bb35e70d2009ebccad4b64cfffa9d`**
+- English: `09-thanthai-maganum-tharumam-thavariyavargal.md`
+- source pages: scans **55–60 / printed pp.53–58**
+- T0: **passed** — current strict-reviewed Tamil assembly confirmed and full blob read before title selection
+- T1: **passed** — complete close translation created with all six source-page comments
 - T2: **passed** — paragraph-by-paragraph bilingual fidelity review completed
-- T3: **passed** — sarcasm, repeated sleeping/death imagery, sexualised ridicule, direct commands and title/body irony reviewed
-- T4: **passed** — terminology, source-specific forms, quote anomaly, page witnesses, names and recurring Achariyar rule audited
+- T3: **passed** — sarcasm, truth/dharma refrain, direct challenges, conspiracy accusation, sandal/throne imagery and political analogy reviewed
+- T4: **passed** — terminology, source-specific forms, source punctuation, names, quoted material, page witnesses and publication-wide Achariyar rule audited
 - T5: **verified**
 
-#### Article 8 T1/T2 decisions and corrections
+#### Article 9 T1/T2 decisions and corrections
 
-- Title chosen only after reading the full article: `நாடாண்ட மன்னன் நாதியற்று செத்தான்` → **`The King Who Ruled the Land Died with No One to Tend Him`**. `நாதியற்று` is not flattened to generic loneliness; it refers throughout the article to the physical absence of anyone to attend Dasaratha's last moments.
-- Publication-wide `ஆச்சாரியார்` → **Achariyar** applied throughout.
-- `தாம் பத்தினி` is source-visible and retained in the Tamil layer; English renders it contextually as **devoted wife**, with an explicit translator note rather than silently treating the Tamil as corrected wording.
-- T2 sharpened the sarcastic `கணவன் உயிரோடிருந்து தொலைகிறானே` from a neutral **her husband is still alive** to **her husband persists in staying alive**.
-- `பால்யத்தில்` in the curse-shadow sentence was refined from generic **youth** to **younger days**, avoiding an unnecessary conflict with the article's earlier `இளம் வயதில் / வாலிப வயதில்` sequence.
-- Scan 52 opens a quotation at `சோகத்தாலும்...` and does **not visibly close it** before Kalaignar resumes his narration. The draft had silently closed it; T2 removed that repair and inserted an explicit source note.
-- `சூதமாகதர்கள்` is kept source-bearing as **Suta-Magadhars** rather than being externally normalised.
-- `சயந்தன்` remains **Sayantan** and `பாக்கை` remains **paakkai** because the article does not gloss the source-specific body-part term.
-- No Tamil paragraph, quotation, numeral, repeated phrase or page boundary was omitted.
+- Title chosen only after reading the full article: `தந்தை மகனும் தருமம் தவறியவர்கள்!` → **`Father and Son—Both Strayed from Dharma!`**. The title remains a direct accusation rather than an explanatory scholarly title.
+- Publication-wide `ஆச்சாரியார்` → **Achariyar** is applied throughout.
+- All six source boundaries are represented: scans **55, 56, 57, 58, 59, 60**.
+- The opening Chitrakuta quotation uses mixed source quotation-mark forms. Its scope is unambiguous, so English uses normal quotation typography while the anomaly is explicitly documented rather than forgotten.
+- Source-visible `ஜாம்பாலி` is kept as **Jambali**, with no external normalisation imported.
+- The verified unusual form `நாதிகமுள்ளவர்கள்` is **not** silently corrected to the nearby `நாஸ்திக...` vocabulary. English retains source-bearing **naathigam** with a translator note; `நாஸ்திகம் / நாஸ்திகன்` are separately translated **atheism / atheist**.
+- `தர்ம ராஜன்` remains **Dharma Raja** rather than being flattened to a descriptive phrase.
+- T2 retained the sheep-flock / **Govinda!** jab and the escalating challenge: **will they come? do they have courage? do they have evidence?**
+- `சூட்சமம்` in the Kaikeyi-return argument was sharpened to **the catch!**, preserving Kalaignar's abrupt rhetorical reveal.
+- Bharata's threat is kept explicitly as **commit suicide / enter the fire**, not softened.
+- Article 3's `ராஜ்ய பாரம்` baseline is reused as **burden of rule** where Rama's return to government is discussed.
+- `அவதார புருஷன் அயோத்தி ராமன்` was refined during T2 from an awkward draft **incarnation-man Rama of Ayodhya** to **Rama of Ayodhya—the incarnation**, preserving the source epithet without bad English.
+- No Tamil paragraph, quotation, rhetorical repetition, numeral, named actor or page boundary was omitted.
 
-#### Article 8 T3 Kalaignar-voice decisions
+#### Article 9 T3 Kalaignar-voice decisions
 
-- Opening `புத்திர சோகத்தில் புழுவாய்த் துடிக்கிறான்` remains **writhes like a worm in grief for his son**.
-- `கற்புக்கரசி(?)` remains **queen of chastity(?)** with the source's sarcastic question mark.
-- `நிர்க்கதியாக நிற்கிறேன்` remains **I stand without refuge**.
-- The deathbed satire is kept physical: wives sleeping in turn, the king's **long sleep**, no one to close his eyes, no one to conduct the milk-pouring rite, and no lap among thousands of wives for his last breath.
-- `பார் ஆண்ட பார்த்திபன்` is preserved as **the monarch who had ruled the world**, reinforcing the title's irony.
-- The Aryan-culture jab and ridicule of the Ayodhya women's prowess at sleeping remain direct.
-- `புலன்களை அடக்கியாளும் திறமை` recurs as **ability to master his senses** and is allowed to become increasingly sarcastic rather than being paraphrased away.
-- `காம போதை` → **intoxication of lust**; `உடல் சுகம்` → **bodily pleasure**.
-- Source-visible `வாலை அடக்கிப்` is kept as **keep his tail under control**, preserving Kalaignar's odd physical insult instead of smoothing it into neutral English.
-- Final `பூணூல் வேந்தர் ஆச்சாரியார்` → **sacred-thread king Achariyar**.
+- Opening forest-exile mockery keeps quoted **“suffering”** against the pleasurable Chitrakuta description.
+- Lakshmana remains the sarcastically elevated **Lakshmana incarnation**.
+- Kausalya's palace/river-water ridicule, Sita's embrace/forest-pleasure attack, **ornament of chastity!**, and domestic-work argument remain direct rather than neutralised.
+- Rama's line about the father giving Bharata a kingdom and Rama forest exile retains the **rule the country / rule the forest** contrast and irritation mixed with mockery.
+- The central truth argument repeats **truth**, **atheism**, **Dharma Raja**, the broken promise to the king of Kekaya and the challenge to Achariyar/devotees without hedging.
+- `இல்லை - இல்லவே இல்லை!` remains emphatic **No—not at all!**.
+- Rama's covert ownership claim is kept physically/politically: **the country given by me**, followed by Vasishta's instruction to **administer the kingdom on behalf of Chakravarthi's Son**.
+- The sandal satire remains literal: **Rama did not sit on the throne; his sandals sat there.** The imagined challenge to Dasaratha, the sandals as official representative and the **“holy” sandals** all remain visible.
+- The Nehru/Delhi–Governor Prakasa/Chennai analogy is preserved exactly as Kalaignar's political comparison rather than replaced by modern explanation.
+- Closing hammering remains **Rama violated his father's word—violated it!**, **crores of devotees**, **the conspirator Rama**, and **audacious, conspiracy-laden speech**.
 
-#### Article 8 unresolved items
+#### Article 9 T4 terminology / source audit
 
-**None.** The final publication consistency gate should recheck the title/body `no one to tend him` echo, **Sayantan / paakkai**, **Suta-Magadhars**, the literal **tail** image, and the scan-52 unmatched quotation for explanatory restraint and consistency.
+Confirmed against the strict-reviewed Tamil assembly and page witnesses:
 
-## Articles 9–14
+- Tamil SHA **`d8b6b6cba29bb35e70d2009ebccad4b64cfffa9d`**;
+- scans **55–60 / printed 53–58**;
+- names/forms: Chitrakuta, Sita, Chakravarthi's Son, Janaki, Bharata, Lakshmana, Dasaratha, Mahavishnu, Mandakini, Kausalya, Sumitra, Jambali, Kekaya, Vasishta, Nandigrama, Nehru, Delhi, Chennai, Governor Prakasa;
+- `தருமம் / தர்மம்` → **dharma**, `சத்தியம்` → **truth / word of truth**, `நாஸ்திகம் / நாஸ்திகன்` → **atheism / atheist**;
+- unusual `நாதிகமுள்ளவர்கள்` retained as source-bearing **naathigam**;
+- `சதி` remains **conspiracy**, `சதி நினைப்போடு` → **conspiratorial intent**, `சதிகார ராமன்` → **the conspirator Rama**;
+- `பாதுகைகள்` → **sandals**, source-quoted `“புனிதமான”` → **“holy”**;
+- `பக்த கோடிகள்` → **crores of devotees**;
+- no external English quotation, epic-name correction or outside historical rewrite was imported.
 
-Articles 9–14 remain `not-started`; their T0 source SHA must be fetched fresh when each article begins.
+#### Article 9 unresolved items
+
+**None.** Final publication consistency review should recheck **dharma / truth / atheism**, source-bearing **Jambali / naathigam**, the sandals-as-rule sequence, Nehru/Governor Prakasa analogy and **conspirator Rama** for consistency and explanatory restraint.
+
+## Articles 10–14
+
+Articles 10–14 remain `not-started`; their T0 source SHA must be fetched fresh when each article begins.
 
 ## Final publication consistency gate — pending
 
-After all 14 articles are individually T5 verified, recheck recurring names/epithets, ideological vocabulary, source-label switches, quotations, citations, title style, tone, page comments and all source-bearing forms. Specific non-regression points now include Articles 4–8 wordplay/source anomalies documented above.
+After all 14 articles are individually T5 verified, recheck recurring names/epithets, ideological vocabulary, source-label switches, quotations, citations, title style, tone, page comments and all source-bearing forms. Specific non-regression points now include Articles 4–9 wordplay/source anomalies documented above.
 
 Do not declare the English publication complete before that gate passes.
