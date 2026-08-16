@@ -28,13 +28,18 @@ The original archival/source layer is complete:
 
 ### Visual text fidelity status
 
-A second page-by-page visual comparison is in progress.
+The strict page-by-page, word-by-word visual comparison is in progress.
 
-Current progress: **56 / 83 scans complete**.
+Current progress: **64 / 83 scans complete**.
 
-Latest completed range: **49–56**. Article 7 and Article 8 are now fully rechecked; Article 9 is rechecked through scan 56. The latest source-spacing corrections are `வேறு வேறானவை !` and `ராமர்,லட்சுமணர்,சீதை`.
+Latest completed range: **57–64**.
 
-Next range: **57–64**.
+- Article 9 is now fully strict-rechecked across scans **55–60**.
+- Article 10 is now fully strict-rechecked across scans **61–64**.
+- New source corrections in the latest batch include `நந்திக் கிராமத்திலே யிருந்து`, `சொல்லையும் -சத்தியத்தையும்`, `44ஆவது`, and `அப்பேர்ப்பட்டவர்`.
+- The Article 10 heading `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` was independently revalidated from the scan.
+
+Next range: **65–72**.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
