@@ -8,11 +8,11 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 ## Current status
 
 - Tamil source/fidelity prerequisite: **PASSED**
-- English drafts complete: **10 / 14**
-- English translations T2 fidelity-reviewed: **10 / 14**
-- English translations T3 voice-reviewed: **10 / 14**
-- English translations T4 audited: **10 / 14**
-- English translations T5 verified: **10 / 14**
+- English drafts complete: **11 / 14**
+- English translations T2 fidelity-reviewed: **11 / 14**
+- English translations T3 voice-reviewed: **11 / 14**
+- English translations T4 audited: **11 / 14**
+- English translations T5 verified: **11 / 14**
 - publication-level English consistency review: **not started**
 - English release status: **OPEN**
 
@@ -30,29 +30,27 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | 8 | நாடாண்ட மன்னன் நாதியற்று செத்தான் | [`08-naadaanda-mannan-naathiyatru-seththaan.md`](08-naadaanda-mannan-naathiyatru-seththaan.md) | **verified** | **T0–T5 passed** |
 | 9 | தந்தை மகனும் தருமம் தவறியவர்கள்! | [`09-thanthai-maganum-tharumam-thavariyavargal.md`](09-thanthai-maganum-tharumam-thavariyavargal.md) | **verified** | **T0–T5 passed** |
 | 10 | விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்! | [`10-vishnu-avatharam-enbathum-ramanidam.md`](10-vishnu-avatharam-enbathum-ramanidam.md) | **verified** | **T0–T5 passed** |
-| 11 | நடப்பதெல்லாம் நாராயணன் செயலா? | `11-nadappathellam-narayanan-seyala.md` | not-started | T0 pending |
+| 11 | நடப்பதெல்லாம் நாராயணன் செயலா? | [`11-nadappathellam-narayanan-seyala.md`](11-nadappathellam-narayanan-seyala.md) | **verified** | **T0–T5 passed** |
 | 12 | மாரீசனைத் துரத்திச் சென்ற ராமனிடம் | `12-maarisanai-thuraththi-sendra-ramanidam.md` | not-started | T0 pending |
 | 13 | துரோகிகள் சந்திப்பு! | `13-thurogigal-santhippu.md` | not-started | T0 pending |
 | 14 | காரியமாகும் வரையில் காலைப் பிடி ! | `14-kaariyamaagum-varaiyil-kaalai-pidi.md` | not-started | T0 pending |
 
-## Publication-wide baseline through Article 10
+## Publication-wide baseline through Article 11
 
-- `ஆச்சாரியார்` → **Achariyar**; preserve explicit source-label switches such as Article 7 `இராஜாஜி` → **Rajaji**.
+- `ஆச்சாரியார்` → **Achariyar**; preserve explicit source-label switches such as Article 7 `இராஜாஜி` → **Rajaji**, and source plurals such as Article 11 **the Achariyars**.
 - Preserve commands, rhetorical questions, repetition, sarcasm, ridicule, physical imagery, source-supported wordplay and harsh formulations.
 - Do not externally identify unexplained source-specific forms unless explicitly asked.
 - Preserve meaningful source punctuation/source-witness anomalies with notes rather than silently repairing them.
 
-Article 10 adds:
+Article 11 adds:
 
-- `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **To Rama, Who Is Said to Be Vishnu's Incarnation!**;
-- the heading/contents witness `எனப்படும் ... ராமனிடம்` remains distinct from scan-63 body `என்பதும் ... ராமனிடமே`;
-- **Ramayana tigers**, the little-fellows/great-man contrast and the meat-eating-rishi challenge remain direct;
-- `சிரார்த்த போஜனம்` → **shraddha feast**; `மேஷ (ஆடு) மாமிசம்` → **mesha (goat) meat**; `நரமாமிசம்` → **human flesh**;
-- scan 63's unmatched opening parenthesis is preserved and documented;
-- `காம தாகம்` → **thirst of lust**, `இரண்டாந்தாரம்` → **second wife**, `புருஷரத்தினங்கள்` → **gems among men**;
-- source-specific `ரசாபாச` remains **rasabhasa** rather than being silently over-explained;
-- the established **splint** image is reused for `சப்பைக் கட்டு`;
-- the final nested quotation irregularities are documented, and the closing **Aryan culture** jab remains direct.
+- `நடப்பதெல்லாம் நாராயணன் செயலா?` → **Is Everything That Happens Narayana's Doing?**;
+- May **1954 / 1955** contradiction, **backing orchestra**, **Chanakya**, direct **Brahmin leader** label and `Narayana knows... / Rama does not think...` contradiction retained;
+- **dharma and justice**, **sinful act**, **Oh-ho!**, **Ayyo, Lakshmana!**, repeated why-did-he-not challenge and direct address to **O Chakravarthi who writes Chakravarthi's Son** remain visible;
+- scan 69's outer unmatched quotation opening is documented;
+- Janaki's insult cascade, **fourth-rate woman**, and **wife of the bearer of the conch and discus** are not softened;
+- fate argument retains Ravana becoming **blameless**, **Fate, oh fate!**, and **God has arranged disaster in every way**;
+- physical `நாக்கில் நரம்பின்றித்` tongue image, sarcastic **“worships”**, **bans—and forces**, source-bearing **Kaga Pattar**, closing plural **the Achariyars**, and final livelihood line are preserved.
 
 See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) for detailed provenance.
 
@@ -67,4 +65,4 @@ See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.
 
 ## Exact next activity
 
-Translate and review **Article 11 — `நடப்பதெல்லாம் நாராயணன் செயலா?`** in full. Fetch and read the complete current strict-reviewed Tamil assembly before finalising its English title, then complete T0–T5 before Article 12 begins.
+Translate and review **Article 12 — `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`** in full. Fetch and read the complete current strict-reviewed Tamil assembly, keep scan 83's promotional Article 12 witness separate from the body witness, choose the English title only after the full article is read, then complete T0–T5 before Article 13 begins.
