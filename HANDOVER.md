@@ -83,7 +83,13 @@ Article 7 — `விபீஷணருக்கு விடை யளிப்
 - scans **43–49**, printed pp. **41–47**
 - **7 / 7 VERIFIED**, blocked 0, needs-review 0
 - [`articles/07-vibishanarukku-vidai-yalippom.md`](publications/sakkaravarththiyin-thirumagan/articles/07-vibishanarukku-vidai-yalippom.md)
-- scan **50** / printed p. **48** directly begins Article 8
+- **source-complete**
+
+Article 8 — `நாடாண்ட மன்னன் நாதியற்று செத்தான்`:
+- scans **50–54**, printed pp. **48–52**
+- **5 / 5 VERIFIED**, blocked 0, needs-review 0
+- [`articles/08-naadaanda-mannan-naathiyatru-seththaan.md`](publications/sakkaravarththiyin-thirumagan/articles/08-naadaanda-mannan-naathiyatru-seththaan.md)
+- scan **55** / printed p. **53** directly begins Article 9
 - **source-complete**
 
 Detailed audit: [`publications/sakkaravarththiyin-thirumagan/audit.md`](publications/sakkaravarththiyin-thirumagan/audit.md).
@@ -92,19 +98,14 @@ Detailed audit: [`publications/sakkaravarththiyin-thirumagan/audit.md`](publicat
 
 Do not regress source-visible unusual readings or silently repair punctuation. The full accumulated list is maintained in `audit.md`.
 
-### Article 7
+### Article 8
 
-- scan 43 heading: `விபீஷணருக்கு விடை யளிப்போம்!`; drop-cap opening is `சமீபகாலமாக`
-- scan 43: `முப்புரியை உருவிப் புறப்பட்ட`, `சூதின் உருவம்`, `தண்ட கண்ட கடவுள் கொள்கை`; sentence continues to scan 44
-- scan 44: `எச்சரிக்கையாகயிருந்து`, `நேரமிது வென்போம்`, `கபோதிகளாக்கி`, `அக்கரை`, `நாடொறுமேனியும்`, unusual `மான் மீதும் மற்றுகள்`
-- scan 44 preserves three independent source quotations: `“கார்ண பூஷணம்”`, `“பூணூல் தரிக்கும் புனித விழா”`, `“கல்யாண வைபவம்”`
-- scan 45: `விபீஷணப்பட்டத்தை`, `தலையசைத்து`, `வாலேந்திகள்`, `சக்கரவர்த்தித்திருமகன்`, `அவதார புருஷனே`
-- scan 46: `விண்ணுறையும்`, `அறுபதினாயிரம்`, `அங்கீகரிக்குமா?`, `வற்புறுத்தப்பட்டதேயன்றி`, `கற்புக்கேடு காட்டிலே`
-- scan 46 long quotation beginning `“அயோத்தி வேந்தன் தசரதன்...` has no source-visible closing quotation after `ராமாயணம்.`; do not repair it
-- scan 47: `இனித்தவாயனும்`, `விஷ்ணு அவதார மென்றீர்கள்`, `இப்படி யெல்லாம்`, `கற்பு சம்மாக்கப்பட்டு`, `அய்வருக்கும்`
-- scan 48: `சாப விமோசனம்`, `பொன்னான(?)`, `வழிபடுதற்குரியவனாகிறான்`, `நிறவெறிப் பேயாட்டமே`, `ஸ்ரீராமுலு`, `ஆர்குஸிஸ்`; preserve bold `அந்தோ! அந்தோ! வெட்கம் வெட்கம்!`
-- scan 49: `ஞாபகத்தில்`, `மாண்புக்கோர்`, `தமிழ் மெழுகு`, `ஆசைப்பட்டாரில்லை`, `பாற்பட்ட கருத்து`, `இந்தக் கொள்கை என்று ஒழியுமோ?`
-- scan 49 closes with `ராமபக்தர்கள் தெளிவு பெறுவது வெறுங்கனவு தானோ? காலந்தான் பதில் கூறவேண்டும்!` and the ornament
+- scan 50 heading: `நாடாண்ட மன்னன் நாதியற்று செத்தான்`
+- scan 50: `புழுவாய்த் துடிக்கிறான்`, `நியாயத்தை யெல்லாம்`, `உயிரிருக்கே`, `கற்புக்கரசி(?)`, `பிறந்தகத்துப்`, `இதைப்பற்றி யெல்லாம்`
+- scan 51: `தாம் பத்தினி`, `அப்பெய்திய`, `எனச்சாபமிட்டுச்`, `இளமையிற்`, `தெரியாதுபோலும்`, `மிச்சமில்லே`
+- scan 52: `சுமித்திரைக்குக்கூடத்`, `சூதமாகதர்கள்`, `கிரமப்படி`, `பிரவேசித்தார்கள்`, `ஆசை சரசிகள்`, `அறுபதினாயிரவரும்`; its final sentence continues to scan 53
+- scan 53: `பார் ஆண்ட பார்த்திபனுக்கு`, `அயோத்தி ஆரணங்குகள்`, `பாக்கையைக்`, `திறமைபெற்றவன்`, `அறுபதாயிரம்`, `தாங்கமுடியாமல்`, `வாலை அடக்கிப்`; its final quotation continues to scan 54
+- scan 54: `தினந்தோறும் உடல் சுகம்`, `ராமன் காட்டேகினான்`, `சிந்தைகெட்டு`, `பூணூல் வேந்தர்`; the article ends with the printed ornament
 
 ### Earlier traps still in force
 
@@ -112,24 +113,25 @@ Do not regress source-visible unusual readings or silently repair punctuation. T
 - Article 5 heading witness: `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`
 - Article 6 enlarged scan 39 confirms `பாஸ்பவாரி பரிபூரண லோசனத்துடன்`; its quotation continues to scan 40 without a source-visible closing mark after `இதுவே.`
 - Article 6 enlarged scan 41 confirms `என்பதாகுவது`
+- Article 7 scan 46 long quotation beginning `“அயோத்தி வேந்தன் தசரதன்...` has no source-visible closing quotation after `ராமாயணம்.`
 
 ## Exact next activity
 
-Process Article 8 — **`நாடாண்ட மன்னன் நாதியற்று செத்தான்`**.
+Process Article 9 — **`தந்தை மகனும் தருமம் தவறியவர்கள்!`**.
 
 Known source facts:
 
-- scan **50** / printed page **48** directly shows the Article 8 heading and start boundary
-- printed contents places Article 9 — **`தந்தை மகனும் தருமம் தவறியவர்கள்!`** — at printed page **53**
-- if the current +2 scan/page relation continues, that projects Article 9's heading to scan **55**, but this is only a navigation aid
+- scan **55** / printed page **53** directly shows the Article 9 heading and start boundary
+- printed contents places Article 10 at printed page **59**
+- if the current +2 scan/page relation continues, that projects Article 10's heading to scan **61**, but this is only a navigation aid
 
 Next steps:
 
-1. Directly inspect scans beginning at **50**.
-2. Directly inspect projected scan **55** and confirm the Article 9 heading before declaring Article 8's end boundary.
-3. Create one verified page record per Article 8 scan.
+1. Directly inspect scans beginning at **55**.
+2. Directly inspect projected scan **61** and confirm the Article 10 heading before declaring Article 9's end boundary.
+3. Create one verified page record per Article 9 scan.
 4. Apply the difficult-reading escalation protocol wherever necessary; do not infer from context.
-5. Assemble Article 8 only after every source page is verified and the end boundary is source-confirmed.
+5. Assemble Article 9 only after every source page is verified and the end boundary is source-confirmed.
 6. Update `indexes/page-map.md`, publication/root README, audit and this handover.
 
 Do not begin English translation until the Tamil source layer for the relevant article has passed its completion gate.
