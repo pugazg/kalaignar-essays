@@ -35,7 +35,9 @@
 - Article 5 assembled: [`articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md`](articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md)
 - Article 6 — **இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?**: scans **38–42**, printed pages **36–40**: **5 / 5 VERIFIED / source-complete**
 - Article 6 assembled: [`articles/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md`](articles/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md)
-- Scan **43** / printed page **41** directly begins Article 7 — **விபீஷணருக்கு விடை யளிப்போம்!**. This is the next transcription unit.
+- Article 7 — **விபீஷணருக்கு விடை யளிப்போம்!**: scans **43–49**, printed pages **41–47**: **7 / 7 VERIFIED / source-complete**
+- Article 7 assembled: [`articles/07-vibishanarukku-vidai-yalippom.md`](articles/07-vibishanarukku-vidai-yalippom.md)
+- Scan **50** / printed page **48** directly begins Article 8 — **நாடாண்ட மன்னன் நாதியற்று செத்தான்**. This is the next transcription unit.
 
 ### Article 5 heading variation inside the same source
 
