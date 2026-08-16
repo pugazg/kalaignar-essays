@@ -42,8 +42,8 @@ Review ledger: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLA
 Current translation status:
 
 - Tamil translation prerequisite: **PASSED**
-- English drafts complete: **4 / 14**
-- English articles verified: **4 / 14**
+- English drafts complete: **5 / 14**
+- English articles verified: **5 / 14**
 - final 14-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -57,24 +57,26 @@ The user has established that `ஆச்சாரியார்` refers to **C.
 2. **`தேகமும் உணர்வும்` → `Body and Feeling`**
 3. **`சதி நிரூபிக்கப்படுகிறது` → `The Conspiracy Is Proven`**
 4. **`காமராஜன் ஆட்கொண்ட தசரதராஜன்!` → `Dasaratha Raja in the Grip of Kama-Raja!`**
+5. **`பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?` → `Bharadvaja's Ashram—or a Paris 'Bar'?`**
 
-Article 4 Tamil source blob SHA: **`9151694c1c473fd4c225aa8076d086e01931bc1e`**  
-English file: [`translations/en/04-kamarajan-aadkonda-dasaratharajan.md`](translations/en/04-kamarajan-aadkonda-dasaratharajan.md)
+Article 5 Tamil source blob SHA: **`f0b527ed76e10072c5875f0998add33cf09e6647`**  
+English file: [`translations/en/05-paraththuvaja-aasramama-paris-nagarathu-para.md`](translations/en/05-paraththuvaja-aasramama-paris-nagarathu-para.md)
 
-Article 4 passed **T0–T5**. Its translation deliberately preserves Kalaignar's wordplay and ridicule:
+Article 5 passed **T0–T5**. Important decisions:
 
-- `காமராஜன்` → **Kama-Raja**, retaining `காமம்` (desire/lust) + `ராஜன்` (king) and the source's name-like form;
-- repeated old-age ridicule (`கிழவர்`, `கிழவன்`, `கிழவர்களே`) remains explicitly age-marked rather than softened;
-- `போகம்` → **sensual pleasure**; `பிரகிருதி வேகம்` → **physical urge**; `காம மோகம்` → **lustful infatuation**;
-- `அப்பாவி` / `அப்-பாவி` is preserved as **innocent / “Ah—sinner!”** with a clearly separated translator note;
-- `வெட்கம் - வெட்கம் - வேதனை கலந்த வெட்கம்!` remains **`shame, shame, shame mixed with pain!`**;
-- the closing **Kama-Raja / old Raja** verbal play is retained.
+- the contents witness `பரத்துவாஜர் ... பாரீஸ் ...` and article-heading witness `பரத்துவாஜா ... பாரிஸ் ...` remain separately documented rather than normalised;
+- title `‘பாரா’?` wordplay is retained as **`'Bar'?`**;
+- opening and closing question-refrain, Kambar-scene ridicule, feast satire, triple **Ah! Ah! Ah!**, intoxication imagery and sweet/bitter ending remain visible;
+- both Kambar verses are translated only to the sense supported by the supplied Tamil witness and Kalaignar's own prose glosses;
+- the scan-33 unmatched quotation is documented rather than silently closed;
+- the scan-36 standalone `— ஆச்சாரியார்.` is preserved as **`—Achariyar.`**;
+- source-specific `கொத்தவாலை கொழுமண்டபம்` is conservatively transliterated **Kothavalai Kozhumandapam** rather than externally normalised.
 
 Detailed T2–T4 provenance is in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
 
 ## Exact next activity
 
-Proceed with complete translation and review of **Article 5 — `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**. Read its whole strict-reviewed Tamil assembly before choosing the English title. Preserve the known source-witness distinction between the contents wording and the article-heading wording rather than silently normalising them. Complete T1–T5 before Article 6 begins.
+Proceed with complete translation and review of **Article 6 — `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`**. Read its whole strict-reviewed Tamil assembly before finalising the English title, then complete T0–T5 before Article 7 begins.
 
 ## Files
 
