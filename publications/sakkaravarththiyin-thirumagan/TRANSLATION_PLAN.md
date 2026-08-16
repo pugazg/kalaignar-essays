@@ -33,7 +33,7 @@ The immediate translation source is the strict-reviewed Tamil article assembly i
 | 8 | நாடாண்ட மன்னன் நாதியற்று செத்தான் | **verified — T0–T5** |
 | 9 | தந்தை மகனும் தருமம் தவறியவர்கள்! | **verified — T0–T5** |
 | 10 | விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்! | **verified — T0–T5** |
-| 11 | நடப்பதெல்லாம் நாராயணன் செயலா? | not-started |
+| 11 | நடப்பதெல்லாம் நாராயணன் செயலா? | **verified — T0–T5** |
 | 12 | மாரீசனைத் துரத்திச் சென்ற ராமனிடம் | not-started |
 | 13 | துரோகிகள் சந்திப்பு! | not-started |
 | 14 | காரியமாகும் வரையில் காலைப் பிடி ! | not-started |
@@ -45,27 +45,25 @@ For each article: fetch the current Tamil assembly and record its blob SHA; read
 ## Publication-wide baseline
 
 - `ஆச்சாரியார்` → **Achariyar**, with C. Rajagopalachari/Rajaji identification kept outside Kalaignar's body.
-- Preserve source-label switches such as Article 7 `இராஜாஜி` → **Rajaji**.
+- Preserve source-label switches such as Article 7 `இராஜாஜி` → **Rajaji**, and source plurals such as Article 11 `ஆச்சாரியார்களுக்கு` → **the Achariyars**.
 - Do not soften insults, accusations, caste/religious/political labels or sexualised ridicule.
 - Do not silently identify unexplained source-specific forms from memory or outside knowledge.
 - Preserve meaningful source punctuation anomalies with notes instead of repairing them.
 - Embedded verse is translated only from the supplied Tamil witness plus Kalaignar's own explanation unless the user explicitly authorises an external translation.
 
-## Baseline accumulated through Article 10
+## Baseline accumulated through Article 11
 
-Articles 1–9 establish all prior terminology and non-regression decisions recorded in the lexicon and review ledger.
+Articles 1–10 establish all prior terminology and non-regression decisions recorded in the lexicon and review ledger.
 
-Article 10 establishes:
+Article 11 establishes:
 
-- title `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **To Rama, Who Is Said to Be Vishnu's Incarnation!**;
-- the heading/contents witness `எனப்படும் ... ராமனிடம்` is kept distinct from scan-63 body `என்பதும் ... ராமனிடமே`;
-- **Ramayana tigers**, the little-fellows/great-man contrast and the direct challenge over meat-eating rishis remain visible;
-- `சிரார்த்த போஜனம்` → **shraddha feast**, `மேஷ (ஆடு) மாமிசம்` → **mesha (goat) meat**, `நரமாமிசம்` → **human flesh**;
-- scan-63 unmatched opening parenthesis is documented rather than silently closed;
-- `காம தாகம்` → **thirst of lust**, `இரண்டாந்தாரம்` → **second wife**, `புருஷரத்தினங்கள்` → **gems among men**;
-- `ரசாபாச` remains source-bearing **rasabhasa**;
-- Article 1/6 **splint** image is reused for `சப்பைக் கட்டு`;
-- final nested quotation irregularities are documented and the closing **Aryan culture** jab remains direct.
+- title `நடப்பதெல்லாம் நாராயணன் செயலா?` → **Is Everything That Happens Narayana's Doing?**;
+- May **1954 / May 1955** contradiction, **backing orchestra**, **Chanakya**, direct **Brahmin leader** label and compact Narayana/Rama contradiction retained;
+- Maricha's **dharma and justice**, **sinful act**, source-corrected **Oh-ho!**, **Ayyo, Lakshmana!**, and repeated why-did-he-not challenge remain direct;
+- scan 69's unmatched outer quotation opening is documented rather than silently repaired;
+- Janaki's insult cascade, **fourth-rate woman**, and **wife of the bearer of the conch and discus** remain unsmoothed;
+- fate argument preserves Ravana becoming **blameless**, **Fate, oh fate!**, and **God has arranged disaster in every way**;
+- physical tongue image, sarcastic **“worships”**, **bans—and forces**, source-bearing **Kaga Pattar**, closing plural **the Achariyars**, and final livelihood line are retained.
 
 ## Phase sequence
 
@@ -73,17 +71,17 @@ Article 10 establishes:
 - **E1 Article 1 calibration:** COMPLETE
 - **E2 Articles 2–4:** COMPLETE
 - **E3 Articles 5–8:** COMPLETE
-- **E4 Articles 9–11:** **ACTIVE — Articles 9–10 complete; Article 11 next**
-- **E5 Articles 12–14:** pending
+- **E4 Articles 9–11:** **COMPLETE**
+- **E5 Articles 12–14:** **ACTIVE — Article 12 next**
 - **E6 publication consistency review:** pending
 - **E7 English release closeout:** pending
 
 ## Current progress
 
-- English article drafts: **10 / 14**
-- English articles T5 verified: **10 / 14**
+- English article drafts: **11 / 14**
+- English articles T5 verified: **11 / 14**
 - final cross-article review: **not started**
 
 ## Exact next translation activity
 
-Proceed with **Article 11 — `நடப்பதெல்லாம் நாராயணன் செயலா?`**. Fetch and read its complete current strict-reviewed Tamil assembly, record the fresh blob SHA as T0, choose the English title only after reading the full argument, complete T1–T5, then update the lexicon, review ledger, tracker, READMEs and root `HANDOVER.md` before Article 12 begins.
+Proceed with **Article 12 — `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`**. Fetch and read its complete current strict-reviewed Tamil assembly, record the fresh blob SHA as T0, keep scan 83's separate promotional Article 12 witness from overwriting the Article 12 body witness, choose the English title only after reading the full argument, complete T1–T5, then update the lexicon, review ledger, tracker, READMEs and root `HANDOVER.md` before Article 13 begins.
