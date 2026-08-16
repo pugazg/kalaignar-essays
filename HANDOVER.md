@@ -32,7 +32,7 @@ The supplied scan is the controlling source for the Tamil archival layer. Do not
 
 English must retain Kalaignar's directness, commands to the reader, rhetorical questions, repetition, sarcasm, ridicule, polemical labels, imagery, exclamations, wordplay and argumentative rhythm. Do not turn his prose into detached academic English, soften harsh language, or silently replace his chosen labels with modern identifying names.
 
-If a pun cannot be carried naturally in English, preserve the source-bearing form in the translation and use a clearly separated translator note rather than rewriting Kalaignar's body.
+If a pun cannot be carried naturally in English, preserve the source-bearing form in the translation and use a clearly separated translator note rather than rewriting Kalaignar's body. Embedded classical verse must be translated only to the sense supported by the supplied Tamil witness and Kalaignar's own explanation unless the user explicitly authorises an external translation.
 
 ## Active publication
 
@@ -74,12 +74,12 @@ High-value Tamil corrections include `மற்றுமுள்ள`, `பத�
 - Phase E0 planning/setup: **COMPLETE**
 - Phase E1 Article 1 calibration: **COMPLETE**
 - Phase E2 Articles 2–4: **COMPLETE**
-- Phase E3 Articles 5–8: **ACTIVE — Article 5 next**
-- English article drafts: **4 / 14**
-- English articles T2 fidelity-reviewed: **4 / 14**
-- English articles T3 voice-reviewed: **4 / 14**
-- English articles T4 audited: **4 / 14**
-- English articles T5 verified: **4 / 14**
+- Phase E3 Articles 5–8: **ACTIVE — Article 5 complete; Article 6 next**
+- English article drafts: **5 / 14**
+- English articles T2 fidelity-reviewed: **5 / 14**
+- English articles T3 voice-reviewed: **5 / 14**
+- English articles T4 audited: **5 / 14**
+- English articles T5 verified: **5 / 14**
 - final cross-article consistency review: **not started**
 - English publication release gate: **OPEN**
 
@@ -101,7 +101,7 @@ The user explicitly established that **`ஆச்சாரியார்` refer
 **Frozen rule:**
 
 - `ஆச்சாரியார்` → **`Achariyar`** in Articles **1–14** wherever that Tamil label appears, unless the source itself changes label.
-- Articles 1–4 now use `Achariyar` throughout.
+- Articles 1–5 now use `Achariyar` throughout.
 - Do not mechanically replace the label with `Rajaji`; the personal identity belongs in translator/editorial identification notes outside Kalaignar's body text.
 
 ## Verified articles
@@ -134,40 +134,51 @@ Key decisions: burden of the kingdom / burden of rule; office of Crown Prince; V
 
 Tamil: `காமராஜன் ஆட்கொண்ட தசரதராஜன்!`  
 English: **`Dasaratha Raja in the Grip of Kama-Raja!`**  
-Tamil blob SHA: `9151694c1c473fd4c225aa8076d086e01931bc1e`  
-English: [`translations/en/04-kamarajan-aadkonda-dasaratharajan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/04-kamarajan-aadkonda-dasaratharajan.md)
+Tamil blob SHA: `9151694c1c473fd4c225aa8076d086e01931bc1e`
 
-Article 4 passed **T0–T5**.
+Key decisions: **Kama-Raja / Raja** title-to-ending wordplay retained; `போகம்` → **sensual pleasure**; `பிரகிருதி வேகம்` → **physical urge**; `காதல் வேகம்` → **surge of passion**; `காம மோகம்` → **lustful infatuation**; repeated `கிழவர்` ridicule remains age-marked; `அப்பாவி` / `அப்-பாவி` → **innocent / “Ah—sinner!”** with separated translator note; dates 8 and 22 August 1954 preserved.
+
+### Article 5 — COMPLETE / VERIFIED
+
+Tamil: `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`  
+English: **`Bharadvaja's Ashram—or a Paris 'Bar'?`**  
+Tamil blob SHA: `f0b527ed76e10072c5875f0998add33cf09e6647`  
+English: [`translations/en/05-paraththuvaja-aasramama-paris-nagarathu-para.md`](publications/sakkaravarththiyin-thirumagan/translations/en/05-paraththuvaja-aasramama-paris-nagarathu-para.md)
+
+Article 5 passed **T0–T5**.
 
 Decisions that must not regress:
 
-- `காமராஜன்` → **Kama-Raja** in the title and closing line, preserving `காமம்` (desire/lust) + `ராஜன்` (king) and the source's name-like form.
-- Title → **Dasaratha Raja in the Grip of Kama-Raja!**; do not flatten it to a neutral `Dasaratha and lust` title.
+- Keep the Tamil source-witness distinction explicit: contents `பரத்துவாஜர் ... பாரீஸ் ...`; heading `பரத்துவாஜா ... பாரிஸ் ...`.
+- English title → **Bharadvaja's Ashram—or a Paris 'Bar'?**; `‘பாரா’?` is treated as the source's **bar + Tamil interrogative** wordplay.
 - `ஆச்சாரியார்` → **Achariyar** throughout.
-- `போகம்` → **sensual pleasure** in the repeated old-age/desire ridicule.
-- `பிரகிருதி வேகம்` → **physical urge**; `காதல் வேகம்` → **surge of passion**; `காம மோகம்` → **lustful infatuation**.
-- Repeated `கிழவர்` / `கிழவன்` language remains explicitly age-marked: **old Achariyar**, **old Dasaratha**, **old ex-minister**, **old men!**
-- `வெள்ளை மனம்` → **pure-hearted** and `கல்மஷம்` remains **taint**, preserving Kalaignar's repeated sarcastic portrait.
-- `அப்பாவி` / `அப்-பாவி` → **innocent / “Ah—sinner!”** with a clearly separated translator note explaining the Tamil split-word pun.
-- `வெட்கம் - வெட்கம் - வேதனை கலந்த வெட்கம்!` → **`shame, shame, shame mixed with pain!`**.
-- source dates **8 August 1954** and **22 August 1954** preserved.
-- final **Kama-Raja / old Raja** verbal play retained.
+- Opening/closing refrain remains clipped and rhetorical: **`An ashram—and Apsaras there?`**, **`faces swollen from kisses?`**, **`pleasure beyond all bounds?`**.
+- `அனலிடைப் புழு` → **a worm in fire**.
+- First Kambar boat verse is translated only to the sense supported by Kalaignar's prose gloss; T2 corrected draft `hidden beauty` to **hidden parts** to avoid beautifying the source.
+- Scan-33 Achariyar quotation has **no visible closing quotation mark** before Kalaignar resumes; English documents the unmatched opening rather than repairing it.
+- `கதம்ப ராமன்` → **motley Rama**; `காலட்சேபம்` → **religious discourse**; mud/floundering image retained.
+- Bharadvaja-feast satire preserves Arya Bhavan comparison, American-government comparison, triple **Ah! Ah! Ah!**, four-item word pile-up, and intoxication imagery.
+- Source-specific `கொத்தவாலை கொழுமண்டபம்` is conservatively **Kothavalai Kozhumandapam**; do not externally normalise it without user direction.
+- Standalone scan-36 `— ஆச்சாரியார்.` is retained as **`—Achariyar.`**.
+- Second Kambar verse is translated only from the Tamil witness plus Kalaignar's own prose gloss.
+- `வேதியப் பெருங்கிழவர்` → **grand old Vedic man**; `பார்ப்பன குலமகிபர்` retains **lord of the Brahmin clan**.
+- Final sweet/bitter taste rhetoric remains direct.
 
-T2 refinements included changing generic `pleasure` to **sensual pleasure**, `in his own mouth` to **in his own words**, `speed increased` to **mounting urge**, restoring emphatic **only** in the Kekaya pledge, and refining `வாயாரப் புகழ்கிறார்` to **lavishly praises**. No unresolved meaning-level item remains.
+T2 corrections recorded in the review ledger include fixing the self-referential Bharata draft, restoring the scan-33 unclosed quote, changing `hidden beauty` to **hidden parts**, retaining `போடுகிறவன் போட்டாலும்` closely, and restoring the standalone scan-36 `—Achariyar.`. No unresolved meaning-level item remains.
 
 Detailed provenance: [`translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md).
 
-## Exact next activity — Article 5
+## Exact next activity — Article 6
 
-Work only on **Article 5 — `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**.
+Work only on **Article 6 — `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`**.
 
-1. Fetch the complete current Tamil assembly for Article 5 and record its GitHub blob SHA as T0 provenance.
-2. Read the entire article before finalising the English title.
-3. **Do not collapse the source-witness distinction:** contents has `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`; article heading has `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`.
-4. Apply the Article 1–4 voice/lexicon baseline, including frozen **Achariyar**.
-5. Preserve any Paris/`பாரா` wordplay or quotation structure discovered in the full article rather than translating the heading mechanically.
-6. Create `translations/en/05-paraththuvaja-aasramama-paris-nagarathu-para.md` with source page-boundary comments.
-7. Complete T2 bilingual fidelity review, T3 Kalaignar-language/voice review and T4 terminology/quotation/citation audit.
-8. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, READMEs and **this `HANDOVER.md`** before ending the activity.
+1. Fetch the complete current Tamil assembly:
+   `publications/sakkaravarththiyin-thirumagan/articles/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md`
+2. Record its current GitHub blob SHA as T0 provenance.
+3. Read the entire article before finalising the English title; do not mechanically choose among `forest exile`, `went to the forest`, `curse`, or `anger` until the complete argument is understood.
+4. Apply the Article 1–5 voice/lexicon baseline, including frozen **Achariyar** and existing epic-name conventions.
+5. Create `translations/en/06-iraman-kaattegiyathu-en-rishiyin-saabama-kaikeyi-kobama.md` with all source page-boundary comments.
+6. Complete T2 bilingual fidelity review, T3 Kalaignar-language/voice review and T4 terminology/quotation/citation audit.
+7. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, READMEs and **this `HANDOVER.md`** before ending the activity.
 
-**Do not begin Article 6 until Article 5 has passed T2 and T3.**
+**Do not begin Article 7 until Article 6 has passed T2 and T3.**
