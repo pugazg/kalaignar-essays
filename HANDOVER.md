@@ -91,11 +91,19 @@ Each article must pass:
 - **T4** — terminology / quotation / citation audit
 - **T5** — article marked verified
 
-## Publication-wide identity decision
+## Identity and transliteration state for `ஆச்சாரியார்`
 
 The user explicitly established that **`ஆச்சாரியார்` refers to C. Rajagopalachari (Rajaji)** in this publication.
 
-English body rendering is frozen as **`Acharya`**. Do not mechanically replace Kalaignar's label with `Rajaji`; identify the referent only in translator/editorial notes outside the body.
+The user then explicitly instructed: **keep `Achariyar` in Article 1 instead of `Acharya`**.
+
+Current state:
+
+- **Article 1:** `Achariyar` throughout the translated body and translator note. This supersedes the earlier `Acharya` form there.
+- **Article 2:** still uses the earlier `Acharya` spelling. It has not been silently changed because the latest instruction named Article 1 specifically.
+- **Articles 3–14:** no publication-wide transliteration should be assumed frozen from the earlier `Acharya` decision. Follow the latest user instruction and document the chosen form.
+
+Do not replace the label mechanically with `Rajaji`; the personal identity remains outside Kalaignar's body text.
 
 ## Article 1 — COMPLETE / VERIFIED
 
@@ -104,8 +112,11 @@ English: **`Chakravarthi's Son`**
 Tamil blob SHA: `47a5b1fd0b28827bb098dda419b5bf864e9f3866`  
 English: [`translations/en/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md)
 
+Article 1 passed T0–T5 and remains verified after a post-T5 user-directed transliteration correction.
+
 Decisions that must not regress:
 
+- `ஆச்சாரியார்` → **Achariyar in Article 1**.
 - `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where Rajagopalachari/Chakravarthi wordplay is active.
 - `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**; `ஆரியம்` → **Aryanism**; `ஆரிய சாம்ராஜ்யம்` → **Aryan Empire**.
 - `அரக்கர்` / `ராட்சசர்` / `தேவர்கள்` → **demons / Rakshasas / Devas**, kept distinct.
@@ -120,24 +131,20 @@ English: **`Body and Feeling`**
 Tamil blob SHA: `bb9131b7856b528e527136be8f4f60dca2999850`  
 English: [`translations/en/02-thegamum-unarvum.md`](publications/sakkaravarththiyin-thirumagan/translations/en/02-thegamum-unarvum.md)
 
-Article 2 passed **T0–T5**.
+Article 2 passed **T0–T5** and currently retains **Acharya** for `ஆச்சாரியார்`.
 
 Decisions that must not regress:
 
 - `தேகம்` / `உணர்வு` → **body / feeling**.
 - `ஊனுடல்` → **body of flesh / bodies of flesh**.
-- `கோபதாபம்` / `தாபம்` → **anger and passion / passion**; do not neutralise the bodily/sexual argumentative sense.
+- `கோபதாபம்` / `தாபம்` → **anger and passion / passion**.
 - `பகவான்` / `ஈஸ்வரி` → **Bhagavan / Ishvari**.
 - `சூழ்ச்சி` → **plot**; explicit `சதி` → **conspiracy** when both are distinguished.
 - `பிராமணஜோதி` → **Brahmin luminary**; `பார்ப்பனகுல மகிபர்` → **lord of the Brahmin clan**; `வேதியப் பெருந்தகையார்` → **great Vedic worthy**.
-- `இனி` remains **now / from now on** because Kalaignar builds the opening argument around it.
 - source `(ஆகஸ்டு 154)` remains **`(August 154)`** with an explicit source note.
 - Vamana `மூன்றடி மண்` → **three paces of land**, paired with `two strides`.
 - scans 18 and 20 have unmatched quotation openings; the English file documents them rather than silently supplying closing marks.
-- `காற்றில் பறக்கவிட்டு` → **thrown that promise to the winds**.
 - final accusation remains **`And Rama too is an accomplice—that is the truth!`**
-
-T2 refinements included changing an initially too-literal `three feet of land` to **three paces of land** and restoring `ஆச்சாரிய மேதை` to the sharper **the genius Acharya**.
 
 Detailed provenance: [`translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md).
 
@@ -149,7 +156,7 @@ Work only on **Article 3 — `சதி நிரூபிக்கப்பட�
    `publications/sakkaravarththiyin-thirumagan/articles/03-sathi-nirupikkappadugirathu.md`
 2. Record its current GitHub blob SHA as T0 provenance.
 3. Read the complete article before choosing/finalising the English title.
-4. Apply the Article 1–2 lexicon/voice baseline, documenting genuine contextual variants.
+4. Apply the Article 1–2 voice/lexicon baseline, but **do not assume `Acharya` is still the publication-wide spelling**; follow the latest user direction for `ஆச்சாரியார்`.
 5. Create `translations/en/03-sathi-nirupikkappadugirathu.md` with complete English translation and source page-boundary comments.
 6. Perform T2 bilingual fidelity review.
 7. Perform T3 Kalaignar-language/voice review.
