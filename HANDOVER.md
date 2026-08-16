@@ -53,13 +53,19 @@ Article 7 — `விபீஷணருக்கு விடை யளிப்
 Article 8 — `நாடாண்ட மன்னன் நாதியற்று செத்தான்`: scans **50–54**, printed pp. **48–52**, **5 / 5 VERIFIED**, source-complete.  
 Article 9 — `தந்தை மகனும் தருமம் தவறியவர்கள்!`: scans **55–60**, printed pp. **53–58**, **6 / 6 VERIFIED**, source-complete.  
 Article 10 — `விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!`: scans **61–64**, printed pp. **59–62**, **4 / 4 VERIFIED**, source-complete.  
-Article 11 — `நடப்பதெல்லாம் நாராயணன் செயலா?`: scans **65–70**, printed pp. **63–68**, **6 / 6 VERIFIED**, blocked 0, needs-review 0, source-complete.
+Article 11 — `நடப்பதெல்லாம் நாராயணன் செயலா?`: scans **65–70**, printed pp. **63–68**, **6 / 6 VERIFIED**, source-complete.  
+Article 12 — `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`: scans **71–73**, printed pp. **69–71**, **3 / 3 VERIFIED**, blocked 0, needs-review 0, source-complete.  
+Article 13 — `துரோகிகள் சந்திப்பு!`: scans **74–78**, printed pp. **72–76**, **5 / 5 VERIFIED**, blocked 0, needs-review 0, source-complete.
 
-Article 11 assembly:
+Article 12 assembly:
 
-[`articles/11-nadappathellam-narayanan-seyala.md`](publications/sakkaravarththiyin-thirumagan/articles/11-nadappathellam-narayanan-seyala.md)
+[`articles/12-maarisanai-thuraththi-sendra-ramanidam.md`](publications/sakkaravarththiyin-thirumagan/articles/12-maarisanai-thuraththi-sendra-ramanidam.md)
 
-Scan **71** / printed p. **69** directly begins Article 12 — **`மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`**.
+Article 13 assembly:
+
+[`articles/13-thurogigal-santhippu.md`](publications/sakkaravarththiyin-thirumagan/articles/13-thurogigal-santhippu.md)
+
+Scan **79** directly begins Article 14 — **`காரியமாகும் வரையில் காலை பிடி!`**.
 
 Detailed audit: [`publications/sakkaravarththiyin-thirumagan/audit.md`](publications/sakkaravarththiyin-thirumagan/audit.md).
 
@@ -67,16 +73,22 @@ Detailed audit: [`publications/sakkaravarththiyin-thirumagan/audit.md`](publicat
 
 Do not regress source-visible unusual readings or silently repair punctuation. The fuller accumulated audit is in `audit.md`.
 
-### Article 11
+### Article 12
 
-- scan 65: `சேனையத்தையும்`, `தெய்வப் பிரசாதம்`, `ஈஸ்வர அவதாரமாக`, attached `-1954ஆம்`; sentence continues to scan 66
-- scan 66: `சிருஷ்டிக்கவில்லை`, `வாத்யக் கோஷ்டியினர்`, `அநாவசியமாக`, `சாணக்கியர்`, bold `இன்னொரு வடிகட்டிய வரட்டுக் குழப்பத்தைப் பாருங்கள்:`, `என்றெண்ணவில்லை`, `பங்கப் பட்டதையும்`, `ராட்சச தபசியின்`, `புத்திசொல்லி`
-- scan 67: `‘தர்ம நியாய’ங்`, `இஷ்டப்படி`, **`மான்வதைவிட`**, **`செத்துவிடுவோம்`**, `கேட்கா விட்டாலும்`, `பாபச் செய்கை`, `தேனுறும்`, `அதுகண்ட`; enlarged inspection directly confirms `மான்வதைவிட`
-- scan 68: `அவலட்சணமாக`, `துரதிருஷ்டக் குறிகளைக்`, `அபசகுனங்களாகவே`, `‘ஹா சீதே’`, `மாபாவி`, `கேட்கவொட்டாமல்`, `‘சக்கரவர்த்தித்திருமகன்’`
-- scan 69: `உண்டானக் கோபமே`, `சத்துருவாகி`, `பெருஞ் சூழ்ச்சியா`, `துன் மார்க்கனே`, `தூண்டுதலா`, `கண்ணெடுத்தும்`, `கொழுந்தனிடம்`, `நாலாந்தரப் பெண்மணிகூட`, `சக்கராயுதபாணியின் சம்சாரம்`
-- scan 69 quotation anomaly: a long quotation opens before `ஜானகிக்கு` and another opening quotation occurs before `சுமித்திரையின்`; only the latter visibly closes before `என்றாள்.`. Do not supply an editorial closing quote for the outer opening mark
-- scan 70: `ஆச்சாரியர்தான்`, `ராவணன்கூட`, `அவரையுமறியாமல்`, `நாக்கில் நரம்பின்றித்`, **`காரசாரமான`**, `காக பட்டர்`, `மிச்சமிருக்கும்`, `லாபந்தானே`
-- scan 70 closes Article 11 with `நடக்கட்டும் பிழைப்பு - எவ்வளவு நாளைக்கு என்று பார்ப்போம்;` and the printed ornament
+- scan 71 enlarged inspection confirms **`அவள் தலைமயிரை ஒரு கையில் பற்றி மற்றொரு கையால் அவளைப் பிடித்துத்`**. The earlier provisional joined spacing was corrected in both the page record and assembled article.
+- retain `பலாத்காரமாகத்`, `அவதாரத் திருமகள்`, `சேர்த்தணைத்துத்`, `மேலுத்தரியத்தை`, `ஆஸ்திகப் பெருமக்களே`, `வியாக்யானம்!!`, `கொழுந்தர்களைப்`, `வக்காலித்துப்படி`, `அவசியத்தே`, `காகுத்தனின்`, `நெஞ்சழுத்தம்`, `ஆஷாடபூதிகள்`, `திரவுபதையின்`.
+- scan 73 ends with the printed ornament; scan 74 begins Article 13.
+
+### Article 13
+
+- scan 74 heading: `துரோகிகள் சந்திப்பு!`
+- scan 74 retains `மரஞ் செடி`, `அஞ்ஞானத்தால்`, `கபந்தனுக்கு தலை கிடையாது- வாயும்`, `கதையிலேயிருந்து`, `விமான மூலம்`
+- scan 75 retains `பம்பா நதி தீரத்திலே`, `நாட்டுரிமையில்லாமற்`, `6.3.1955-ஆம் தேதிய`, `வானர ராஜ்ய பட்டாபிஷேகம்`, `கர்ஜனையைக்`, `பெருங் கூக்குரல்`; successive source quotation starts are not silently reconciled
+- scan 76 enlarged inspection confirms unusual **`துராசைப் பட்டுக்`**; retain `பாறாங்கல்லைக்`, `வானரப் பிரஜைகள்`, `உள்ளே யிருந்து`, `அவ்விடமில்லையானபடியால்`, `வஸ்திரத்துடன்`
+- scan 77 source subheading: `இது ஆச்சாரியார் தீட்டியுள்ள கதை!`; retain `வதம்செய்து`, `ரத்தவெள்ளம்`, `துந்துபி`, `தூரத்திற்கப்பால்`, `நெஞ்சங் கொண்ட`, enlarged-confirmed **`அழியாத பாசமுள்ள`**
+- scan 78 retains `பொருத்தமுடையது?-என்பதை`, `அகப்பட்டுக்கொண்ட`, `மழுப்புகிறார்`, `இது!-`, `இராமன் செய்கையாக`, `ராமனின் செயல்`
+- scan 78 citation is exactly **`(6.3.1955 - ‘கல்கி)`** with an opening single quote and no source-visible closing quote; do not repair it
+- scan 78 ends with the printed ornament
 
 ### Earlier traps still in force
 
@@ -87,25 +99,27 @@ Do not regress source-visible unusual readings or silently repair punctuation. T
 - Article 7 scan 46 long quotation beginning `“அயோத்தி வேந்தன் தசரதன்...` has no source-visible closing quotation after `ராமாயணம்.`
 - Article 8 enlarged scan 50 confirms `உயிருக்கே மன்றாடி`
 - Article 10 scans 63–64 contain source-visible quotation / parenthesis irregularities; do not silently repair them
+- Article 11 scan 69 contains the documented nested/unclosed quotation anomaly; scans 67/70 retain `மான்வதைவிட`, `செத்துவிடுவோம்`, `காரசாரமான`
 
 ## Exact next activity
 
-Process Article 12 — **`மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`**.
+Process Article 14 — **`காரியமாகும் வரையில் காலை பிடி!`**.
 
 Known source facts:
 
-- scan **71** / printed page **69** directly shows the Article 12 heading and start boundary
-- printed contents places Article 13 at printed page **72**
-- if the current +2 scan/page relation continues, that projects Article 13's heading to scan **74**, but this is only a navigation aid
+- scan **79** directly shows the Article 14 heading and start boundary
+- printed contents lists Article 14 as starting on printed page **77**
+- Article 14 is the final item in the printed contents
 
 Next steps:
 
-1. Directly inspect scans beginning at **71**.
-2. Directly inspect projected scan **74** and confirm the Article 13 heading before declaring Article 12's end boundary.
-3. Create one verified page record per Article 12 scan.
+1. Directly inspect scans beginning at **79** through the end of the 83-page PDF.
+2. Distinguish Article 14 text from any post-text matter / advertisement / back cover rather than assuming all remaining scans belong to the article.
+3. Create one verified page record per Article 14 scan and separate records for any non-article pages.
 4. Apply the difficult-reading escalation protocol wherever necessary; do not infer from context.
-5. Assemble Article 12 only after every source page is verified and the end boundary is source-confirmed.
+5. Assemble Article 14 only after every source page is verified and the end boundary is source-confirmed.
 6. Update `indexes/page-map.md`, publication/root README, audit and this handover.
+7. After Article 14, perform the publication-level source-completion review across all 83 scan pages before declaring the publication fully archived.
 
 Do not begin English translation until the Tamil source layer for the relevant article has passed its completion gate.
 
