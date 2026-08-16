@@ -31,44 +31,48 @@ Each physical page is reopened and compared directly with the scan for every rea
 | 49–56 | Article 7 / Article 8 / Article 9 | **8 / 8 COMPLETE** |
 | 57–64 | Article 9 / Article 10 | **8 / 8 COMPLETE** |
 | 65–72 | Article 11 / Article 12 | **8 / 8 COMPLETE** |
-| 73–80 | Article 12 / Article 13 / Article 14 | **PENDING — next batch** |
-| 81–83 | Article 14 close, advertisement, back cover | PENDING |
+| 73–80 | Article 12 / Article 13 / Article 14 | **8 / 8 COMPLETE** |
+| 81–83 | Article 14 close, advertisement, back cover | **PENDING — final batch** |
 
-Current strict-fidelity progress: **72 / 83 physical scans complete**.
+Current strict-fidelity progress: **80 / 83 physical scans complete**.
 
-The publication remains source-layer complete, but must not be described as strict visual-text-fidelity complete until all 83 scans and all article assemblies have passed this staged review.
+Fully strict-rechecked article assemblies: **13 / 14**. Article 14 is rechecked through scan **80** only.
+
+The publication remains source-layer complete, but must not be described as strict visual-text-fidelity complete until scans 81–83 and the final Article 14 assembly check have passed.
 
 ## Earlier batches — condensed record
 
 - scans **1–8**: completed; corrections include `மற்றுமுள்ள` and contents `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`
 - scans **9–16**: completed; corrections/revalidations include `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`, `எப்படி பெய்ப்படி`, `கல் சாசனமோ`
-- scans **17–24**: 8/8 pass; Article 2 fully strict-rechecked
-- scans **25–32**: 8/8 pass; Articles 3 and 4 fully strict-rechecked
+- scans **17–24**: completed; Article 2 fully strict-rechecked
+- scans **25–32**: completed; Articles 3 and 4 fully strict-rechecked
 - scans **33–40**: completed; revalidated `பரத்துவாஜ...`, `போடுகிறவன் போட்டாலும்`, `சீறிப் பாய்ந்தார்கள்`; Article 5 fully strict-rechecked
 - scans **41–48**: completed; corrections include mixed quotation on scan 41, `சப்பைக் கட்டு போடும்` on scan 42, and scan-44 comma spacing `தன் இனம்,தன் சமுதாயம்,அந்த...`; Article 6 fully strict-rechecked
 - scans **49–56**: completed; corrections include `வேறு வேறானவை !` and `ராமர்,லட்சுமணர்,சீதை`; Articles 7 and 8 fully strict-rechecked
 - scans **57–64**: completed; corrections include `நந்திக் கிராமத்திலே யிருந்து`, `சொல்லையும் -சத்தியத்தையும்`, `44ஆவது`, `அப்பேர்ப்பட்டவர்`; Article 10 heading `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` revalidated; Articles 9 and 10 fully strict-rechecked
+- scans **65–72**: completed; corrections include `மரண மடைகிறார்கள்`, `மகா புருஷன் -ஈஸ்வர`, `பார்க்கலாம் -அப்படிக்`, high-resolution `மாள்வதைவிட`, `ஓகோ !`, `நரிகள். அவலட்சணமாக`, `49 ஆம்`, `53 ஆம்`, `பாவம் ;`, `எந்தப் பெண்ணாவது, தனது`, and `நினைத்திருப்பான் ?`; Article 11 fully strict-rechecked
 
-## Batch 9 — scans 65–72
+## Batch 10 — scans 73–80
 
-All eight scans were reopened at readable/enlarged scale. The pass deliberately re-tested previously unusual readings rather than trusting earlier `VERIFIED` notes. Several genuine word-, punctuation-, and spacing-level discrepancies were found and corrected.
+All eight scans were reopened and compared directly with the source image. Three pages required correction; five pages passed without textual alteration.
 
 | Scan | Printed page / section | Verdict | Findings |
 |---:|---|---|---|
-| 65 | p.63 — Article 11 begins | **CORRECTED** | Source spacing is **`மரண மடைகிறார்கள்`**, not `மரணமடைகிறார்கள்`; and **`மகா புருஷன் -ஈஸ்வர`**, not `- ஈஸ்வர`. Both propagated to Article 11. |
-| 66 | p.64 — Article 11 | **CORRECTED** | Source punctuation spacing is **`பார்க்கலாம் -அப்படிக்`**, not `பார்க்கலாம் - அப்படிக்`. Propagated to Article 11. |
-| 67 | p.65 — Article 11 | **CORRECTED** | High-resolution inspection establishes **`மாள்வதைவிட`**. This supersedes the earlier mistaken staged-pass reading `மான்வதைவிட`; page and Article 11 corrected. |
-| 68 | p.66 — Article 11 | **CORRECTED** | Opening is **`ஓகோ ! இது பெரிய மோசம்;`**, not `ஐயோ!`; source also has the sentence break **`நரிகள். அவலட்சணமாக`**. Both propagated. |
-| 69 | p.67 — Article 11 | **FIDELITY-PASS** | Nested/unbalanced quotation structure, `உண்டானக் கோபமே`, `துன் மார்க்கனே`, `கண்ணெடுத்தும்`, `நாலாந்தரப் பெண்மணிகூட`, and continuation agree. No editorial quotation repair applied. |
-| 70 | p.68 — Article 11 conclusion | **CORRECTED** | Source reads **`ஆச்சாரியார் போன்றவர்கள்`** (not `ஆச்சாரியர்`), **`49 ஆம்`**, and **`53 ஆம்`**. Article 11 corrected; final ornament confirmed. |
-| 71 | p.69 — Article 12 begins | **CORRECTED** | Page-layer heading restored to **`12 மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`**; source punctuation is **`பாவம் ;`**, not `பாவம்;`. Article assembly receives the punctuation correction; its normalized assembly heading remains without the article numeral by repository convention. |
-| 72 | p.70 — Article 12 | **CORRECTED** | Source has **`எந்தப் பெண்ணாவது, தனது`** and **`நினைத்திருப்பான் ?`**. Both propagated to Article 12. |
+| 73 | p.71 — Article 12 conclusion | **FIDELITY-PASS** | `வியாக்யானம்!!`, `அம்சமாமே`, `அம்சந்தானா?`, `உம்மையுமறியாமல்`, `ஆஷாடபூதிகள்`, `திரவுபதையின்`, punctuation and final ornament agree. |
+| 74 | p.72 — Article 13 begins | **CORRECTED** | Restored visible article number **`13`**. Source reads **`என மாறடித்து ஒப்பாரி வைத்தான்`**, not earlier `மாறிமாறி`. Correction propagated to Article 13. |
+| 75 | p.73 — Article 13 | **CORRECTED** | Source punctuation spacing is **`சுக்ரீவன் யார் தெரியுமா ?`**; the immediately following `அவன் நிலைமை என்ன தெரியுமா?` remains without that space. Propagated to Article 13. Source quotation openings remain irregular and unrepaired. |
+| 76 | p.74 — Article 13 | **FIDELITY-PASS** | Reconfirmed unusual **`துராசைப் பட்டுக்`**, `உள்ளே யிருந்து`, `அவ்விடமில்லையானபடியால்`, `வஸ்திரத்துடன்`, and irregular quotation sequence. |
+| 77 | p.75 — Article 13 | **FIDELITY-PASS** | `உண்மையையறிய`, `வதம்செய்து`, `ரத்தவெள்ளம்`, `தூரத்திற்கப்பால்`, `நெஞ்சங் கொண்ட`, and `அழியாத பாசமுள்ள` agree. |
+| 78 | p.76 — Article 13 conclusion | **FIDELITY-PASS** | Source citation remains **`(6.3.1955 - ‘கல்கி)`** with no visible closing single quote; `பொருத்தமுடையது?-என்பதை`, `இது!-`, `இராமன் செய்கையாக`, final ornament agree. |
+| 79 | p.77 — Article 14 begins | **CORRECTED** | Restored visible article number **`14`**. High-resolution heading is **`காரியமாகும் வரையில் காலைப் பிடி !`**, correcting earlier `காரியமாகும் வரையில் காலை பிடி!`. Article 14 metadata/header propagated. Contents witness remains separately `காரியமாகும் வரையில் காலைப் பிடி!`. |
+| 80 | p.78 — Article 14 | **FIDELITY-PASS** | `பூஜனைப்பித்தர்களுக்கு`, `ராஜகாரியங்களை யெல்லாம்`, `கிஷ்கிந்தா புரத்தில்`, `அந்தப்புர போகத்தில்`, `சவுந்தாயமும்`, `கோபாவேசமாகப்`, `ஆயுதபாணியாக ஆக்ரோஷத்துடன்`, and open quotation continuation agree. |
 
-### Assembly check after Batch 9
+### Assembly check after Batch 10
 
-- Article 11, scans **65–70 / printed pp.63–68**, is now **fully strict-rechecked** against its corrected page layer.
-- Article 12 scans **71–72 / printed pp.69–70** agree with the corrected assembly; scan 73 remains pending for strict review.
-- No `NEEDS-PIXEL-REVIEW` item remains in this batch.
+- Article 12, scans **71–73 / printed pp.69–71**, is now **fully strict-rechecked**.
+- Article 13, scans **74–78 / printed pp.72–76**, is now **fully strict-rechecked** and carries `மாறடித்து` plus the scan-75 punctuation spacing.
+- Article 14 has been strict-rechecked through scans **79–80**. Its source heading is now `காரியமாகும் வரையில் காலைப் பிடி !`; scans 81–82 remain before article-level closeout.
+- No `NEEDS-PIXEL-REVIEW` item remains in scans **1–80**.
 
 ## Important correction history that must not regress
 
@@ -93,13 +97,16 @@ All eight scans were reopened at readable/enlarged scale. The pass deliberately 
 - scan 70: `ஆச்சாரியார் போன்றவர்கள்`; `49 ஆம்`; `53 ஆம்`
 - scan 71: visible page-heading article number `12`; `பாவம் ;`
 - scan 72: `எந்தப் பெண்ணாவது, தனது`; `நினைத்திருப்பான் ?`
+- scan 74: visible article number `13`; `மாறடித்து`
+- scan 75: `சுக்ரீவன் யார் தெரியுமா ?`
+- scan 79: visible article number `14`; heading **`காரியமாகும் வரையில் காலைப் பிடி !`**
 
-## Next batch
+## Final batch
 
-Proceed with **scans 73–80** in physical scan order:
+Proceed with **scans 81–83** in physical scan order:
 
-- scan **73** — conclude Article 12
-- scans **74–78** — all of Article 13 `துரோகிகள் சந்திப்பு!`
-- scans **79–80** — begin Article 14 `காரியமாகும் வரையில் காலை பிடி!`
+- scan **81 / printed p.79** — Article 14 continuation
+- scan **82 / printed p.80** — Article 14 conclusion, ending ornament, post-article physical marks and printed `விடுதலை` advertisement
+- scan **83** — physical back cover and promotional Article 12 witness
 
-For every page, compare each visible token directly with the scan, enlarge uncertain glyphs rather than infer from context, propagate any correction into the relevant article assembly, and advance the count only after the full batch is closed.
+After scans 81–83 are checked, recheck the complete Article 14 assembly against scans 79–82 and only then decide whether the publication-level strict-fidelity gate can be marked **PASSED**.
