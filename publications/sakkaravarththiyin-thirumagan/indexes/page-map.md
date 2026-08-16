@@ -44,7 +44,14 @@
 | 40 | 38 | Article 6 | verified |
 | 41 | 39 | Article 6 | verified |
 | 42 | 40 | Article 6 conclusion | verified |
-| 43 | 41 | Article 7 — விபீஷணருக்கு விடை யளிப்போம்! begins | boundary verified; transcription next |
+| 43 | 41 | Article 7 — விபீஷணருக்கு விடை யளிப்போம்! begins | verified |
+| 44 | 42 | Article 7 | verified |
+| 45 | 43 | Article 7 | verified |
+| 46 | 44 | Article 7 | verified |
+| 47 | 45 | Article 7 | verified |
+| 48 | 46 | Article 7 | verified |
+| 49 | 47 | Article 7 conclusion | verified |
+| 50 | 48 | Article 8 — நாடாண்ட மன்னன் நாதியற்று செத்தான் begins | boundary verified; transcription next |
 
 ## Verified article boundaries
 
@@ -54,7 +61,8 @@
 - Article 4 — **காமராஜன் ஆட்கொண்ட தசரதராஜன்!**: scans **26–29**, printed pp. **24–27**.
 - Article 5 — **பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?**: scans **30–37**, printed pp. **28–35**.
 - Article 6 — **இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?**: scans **38–42**, printed pp. **36–40**.
-- Scan **43** / printed p. **41** directly begins Article 7 **விபீஷணருக்கு விடை யளிப்போம்!**, confirming Article 6's end boundary.
+- Article 7 — **விபீஷணருக்கு விடை யளிப்போம்!**: scans **43–49**, printed pp. **41–47**.
+- Scan **50** / printed p. **48** directly begins Article 8 **நாடாண்ட மன்னன் நாதியற்று செத்தான்**, confirming Article 7's end boundary.
 
 ### Article 5 heading witness note
 
@@ -66,7 +74,6 @@ The following later starts remain **navigation projections from the printed cont
 
 | Article | Printed start | Expected scan if +2 relation continues | Status |
 |---:|---:|---:|---|
-| 8 | 48 | 50 | provisional |
 | 9 | 53 | 55 | provisional |
 | 10 | 59 | 61 | provisional |
 | 11 | 63 | 65 | provisional |
