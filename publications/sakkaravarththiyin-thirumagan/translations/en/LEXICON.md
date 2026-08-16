@@ -16,8 +16,8 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 The user explicitly established that `ஆச்சாரியார்` in this publication refers to **C. Rajagopalachari (Rajaji)** and chose **`Achariyar`** as the English body form.
 
-- Articles **1–10** use **Achariyar** wherever the Tamil source uses `ஆச்சாரியார்`.
-- Articles **11–14** must do the same unless Kalaignar himself changes label.
+- Articles **1–11** use **Achariyar** wherever the Tamil source uses `ஆச்சாரியார்`.
+- Articles **12–14** must do the same unless Kalaignar himself changes label.
 - If the source explicitly says `இராஜாஜி`, preserve **Rajaji**; Article 7 demonstrates this rule.
 - Do not mechanically replace `ஆச்சாரியார்` with `Rajaji` in Kalaignar's body text.
 
@@ -125,6 +125,19 @@ The user explicitly established that `ஆச்சாரியார்` in this
 | `ரசாபாச` / `ரசாபாச மான` | `rasabhasa` / `in a rasabhasa manner` | Source-specific aesthetic/moral term is not glossed in article; retain rather than over-explain. | Article 10 | source-bearing |
 | `விகார சொரூபம்` / `விகார மிகு சொரூபம்` | `grotesque form` | Achariyar's defence and Kalaignar's rebuttal. | Article 10 | contextual |
 | `கற்பனா சக்தி` | `power of imagination` | Achariyar's quoted defence. | Article 10 | established |
+| `பின்னணி வாத்யக் கோஷ்டியினர்` | `backing orchestra` | Mocking image for Achariyar's supporters; do not flatten to generic followers. | Article 11 | contextual image |
+| `சாணக்கியர்` | `Chanakya` | Source-bearing polemical epithet; no outside gloss inserted in body. | Article 11 | source-bearing label |
+| `வடிகட்டிய வரட்டுக் குழப்பம்` | `filtered, dry confusion` | Preserve Kalaignar's deliberately odd piled-up ridicule. | Article 11 | contextual image |
+| `‘தர்ம நியாய’ம்` | `“dharma and justice”` | Maricha's objections; preserve source quote-marked formulation. | Article 11 | contextual |
+| `ஆச்சாரியாருக்குத்தான் வெளிச்சம்!` | `Only Achariyar can shed light on it!` | Preserve sarcastic light/knowledge idiom. | Article 11 | contextual image |
+| `ஓகோ !` | `Oh-ho!` | Source-corrected exclamation in Rama's Maricha-deer realisation. | Article 11 | source-bearing exclamation |
+| `கொழுந்தன்` | `younger brother-in-law` | Sita–Lakshmana family relation in Kalaignar's attack. | Article 11 | established |
+| `நாலாந்தரப் பெண்மணி` | `fourth-rate woman` | Harsh social insult; do not soften. | Article 11 | polemical label |
+| `சங்கு சக்கராயுதபாணியின் சம்சாரம்` | `wife of the bearer of the conch and discus` | Preserve divine epithet + domestic contrast. | Article 11 | contextual image |
+| `நாக்கில் நரம்பின்றித்` | `with a tongue that seems to have no nerve in it` | Preserve physical source idiom rather than neutralising to generic criticism. | Article 11 | source-bearing image |
+| `காக பட்டர்` | `Kaga Pattar` | Unexplained source-specific name; retain without outside identification. | Article 11 | source-bearing |
+| `தடை - படை` | `bans—and forces` | Preserve paired attack as closely as English allows; Tamil rhyme is not silently replaced by invented wordplay. | Article 11 | rhetorical pair |
+| `ஆச்சாரியார்களுக்கு` | `the Achariyars` | Source plural in closing polemic; do not collapse to singular Rajaji. | Article 11 | source-label plural |
 
 ## Article 10 contextual decisions
 
@@ -140,15 +153,32 @@ The user explicitly established that `ஆச்சாரியார்` in this
 - `புருஷரத்தினங்கள்` → **gems among men**; `ரசாபாச` remains **rasabhasa**; `சப்பைக் கட்டு` reuses **splint**.
 - Final nested quotation irregularities are documented; **Go to elder brother / Go to younger brother!** and the closing **Aryan culture** jab remain direct.
 
+## Article 11 contextual decisions
+
+- Title `நடப்பதெல்லாம் நாராயணன் செயலா?` → **`Is Everything That Happens Narayana's Doing?`**. The colloquial **doing** keeps the title's accusatory question rather than turning it into an abstract theological heading.
+- All six page-boundary comments retained: scans **65–70 / printed pp.63–68**.
+- `ஆச்சாரியார்` remains **Achariyar** throughout; closing source plural `ஆச்சாரியார்களுக்கு` remains **the Achariyars**.
+- May **1954** versus May **1955** contradiction is retained, together with **backing orchestra**, **A disorder of the brain?—confusion?**, mire/foot image, **Chanakya**, and the direct **Brahmin leader** label.
+- `நாராயணனோ தானே ராமன்...` remains the compact contradiction: **Narayana knows that he himself is Rama. But Rama does not think that he himself is Narayana.**
+- Dates **9.1.1955**, **23.1.1955**, **13.2.1955**, **30.1.1955**, **20.2.1955**, and Chapters **49 / 53** are preserved.
+- Maricha's `‘தர்ம நியாய’ங்` remains **“dharma and justice”**; `மாள்வதைவிட` is translated **rather than die at your hands**; `‘பாபச் செய்கை’` remains **“sinful act”**.
+- Source-corrected `ஓகோ !` is **Oh-ho!**; the unusual sentence break **The jackals. They howl ominously.** remains visible.
+- Kalaignar's counterfactual Rama shout retains **Ayyo, Lakshmana!**, **Maricha, that great sinner**, repeated **why did he not...?**, and direct address to **O Chakravarthi who writes Chakravarthi's Son**.
+- Scan 69's outer unmatched quotation is explicitly documented; Janaki's insult cascade remains strong, including **Vile man! Wicked man!**, **Bharata's instigation**, and the accusation about desiring the elder brother's wife.
+- `நாலாந்தரப் பெண்மணி` remains **fourth-rate woman** and `சங்கு சக்கராயுதபாணியின் சம்சாரம்` becomes **wife of the bearer of the conch and discus**.
+- Fate argument keeps Ravana potentially **blameless**, **Fate, oh fate!**, and **God has arranged disaster in every way** before Achariyar's own **desire / delusion / doing what ought not to be done** accusation.
+- `நாக்கில் நரம்பின்றித்` retains the physical tongue image; closing **“worships”**, **bans—and forces**, source-bearing **Kaga Pattar**, **the Achariyars**, and **Let the livelihood go on—we shall see for how long;** remain unsmoothed.
+
 ## Final consistency reminders
 
 During the publication-level gate, recheck especially:
 
-- publication-wide **Achariyar** while preserving explicit source-label changes such as **Rajaji**;
+- publication-wide **Achariyar** while preserving explicit source-label changes such as **Rajaji** and source plurals such as **the Achariyars**;
 - Article 4 **Kama-Raja / Raja** and `அப்பாவி / அப்-பாவி`;
 - Article 5 **Bharadvaja / Bar** and both Kambar sense-translations;
 - Article 6 **Mooli-Alangari / Brahmin Vambar / splint / walk on their feet**;
 - Article 7 **Vibhishana / Sivagnanam / source-bearing unexplained forms**;
 - Article 8 **no one to tend him / paakkai / Sayantan / tail / sacred-thread king** and scan-52 unmatched quote;
 - Article 9 **dharma / truth / atheism**, **Jambali / naathigam**, sandals-as-rule and Nehru/Governor Prakasa comparison;
-- Article 10 title/body witness distinction, **Ramayana tigers**, **shraddha feast / mesha (goat) meat / human flesh**, **all three times**, unmatched parenthesis, **rasabhasa**, **splint**, and the final Aryan-culture line.
+- Article 10 title/body witness distinction, **Ramayana tigers**, **shraddha feast / mesha (goat) meat / human flesh**, **all three times**, unmatched parenthesis, **rasabhasa**, **splint**, and final Aryan-culture line;
+- Article 11 **Narayana/Rama contradiction**, **backing orchestra / Chanakya / Brahmin leader**, **Oh-ho!**, Maricha/Sita quotation chain, scan-69 unmatched outer quotation, **fourth-rate woman**, physical tongue image, **Kaga Pattar**, source plural **the Achariyars**, and final livelihood line.
