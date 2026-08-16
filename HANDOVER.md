@@ -58,7 +58,7 @@ Do not touch the Tamil layer unless an explicit source-supported correction is f
 - Article 5 contents: `பரத்துவாஜர் ஆஸ்ரமமா - பாரீஸ் நகரத்து ‘பாரா’?`; heading: `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`.
 - Article 10 contents/heading: `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!`; scan-63 body: `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`.
 - Article 14 contents: `காரியமாகும் வரையில் காலைப் பிடி!`; heading: `காரியமாகும் வரையில் காலைப் பிடி !`.
-- Scan 83 is a separate promotional Article 12 witness and must never overwrite Article 12 body text.
+- **Scan 83 is a separate promotional Article 12 witness and must never overwrite Article 12 body text.**
 
 Other high-value source readings already verified include `மற்றுமுள்ள`, `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`, `எப்படி பெய்ப்படி`, `கல் சாசனமோ`, `சீறிப் பாய்ந்தார்கள்`, `சப்பைக் கட்டு போடும்`, `நந்திக் கிராமத்திலே யிருந்து`, `44ஆவது`, `அப்பேர்ப்பட்டவர்`, `மாள்வதைவிட`, `ஓகோ !`, `மாறடித்து`, and scan-82 `வர்ணிக்கிறான்`.
 
@@ -68,12 +68,13 @@ Other high-value source readings already verified include `மற்றுமு
 - Phase E1 Article 1 calibration: **COMPLETE**
 - Phase E2 Articles 2–4: **COMPLETE**
 - Phase E3 Articles 5–8: **COMPLETE**
-- Phase E4 Articles 9–11: **ACTIVE — Articles 9–10 complete; Article 11 next**
-- English drafts: **10 / 14**
-- T2 fidelity-reviewed: **10 / 14**
-- T3 voice-reviewed: **10 / 14**
-- T4 audited: **10 / 14**
-- T5 verified: **10 / 14**
+- Phase E4 Articles 9–11: **COMPLETE**
+- Phase E5 Articles 12–14: **ACTIVE — Article 12 next**
+- English drafts: **11 / 14**
+- T2 fidelity-reviewed: **11 / 14**
+- T3 voice-reviewed: **11 / 14**
+- T4 audited: **11 / 14**
+- T5 verified: **11 / 14**
 - final cross-article consistency review: **not started**
 - English release gate: **OPEN**
 
@@ -84,6 +85,7 @@ The user explicitly established that `ஆச்சாரியார்` refers 
 - `ஆச்சாரியார்` → **Achariyar** whenever that is Kalaignar's source label.
 - Do not mechanically substitute `Rajaji`.
 - Preserve Kalaignar's own label switches: Article 7 explicit `இராஜாஜி` → **Rajaji**.
+- Preserve source number as well: Article 11 `ஆச்சாரியார்களுக்கு` is plural and therefore remains **the Achariyars**.
 
 ## Verified English articles
 
@@ -97,6 +99,7 @@ The user explicitly established that `ஆச்சாரியார்` refers 
 8. `நாடாண்ட மன்னன் நாதியற்று செத்தான்` → **The King Who Ruled the Land Died with No One to Tend Him** — `87d10ed53e55fdf6a1eb60f86517cc245644a71a`
 9. `தந்தை மகனும் தருமம் தவறியவர்கள்!` → **Father and Son—Both Strayed from Dharma!** — `d8b6b6cba29bb35e70d2009ebccad4b64cfffa9d`
 10. `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **To Rama, Who Is Said to Be Vishnu's Incarnation!** — `e7a2b2e1d3b703d672b0be7569440217ccb03d3e`
+11. `நடப்பதெல்லாம் நாராயணன் செயலா?` → **Is Everything That Happens Narayana's Doing?** — `b324e995d580ee021577b998d193d005fa6446ad`
 
 ## Non-regression translation decisions
 
@@ -142,33 +145,41 @@ The user explicitly established that `ஆச்சாரியார்` refers 
 - Source `ஜாம்பாலி` → **Jambali**; unusual verified `நாதிகமுள்ளவர்கள்` → source-bearing **naathigam**.
 - Preserve sheep-flock / **Govinda!**, sandals-on-throne surrogate rule, Nehru–Governor Prakasa analogy, **“holy” sandals**, **the conspirator Rama**, and **audacious, conspiracy-laden speech**.
 
-### Article 10 — COMPLETE / VERIFIED
-
-English: [`translations/en/10-vishnu-avatharam-enbathum-ramanidam.md`](publications/sakkaravarththiyin-thirumagan/translations/en/10-vishnu-avatharam-enbathum-ramanidam.md)
-
+### Article 10
 - Title → **To Rama, Who Is Said to Be Vishnu's Incarnation!**.
-- Tamil SHA `e7a2b2e1d3b703d672b0be7569440217ccb03d3e`; scans **61–64 / printed 59–62**.
-- Preserve title/contents `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` separately from scan-63 body `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`.
-- Keep **Ramayana tigers**, the little-fellows/great-man contrast, and 69 / 41 / 42–69 chapter accounting.
-- `சிரார்த்த போஜனம்` → **shraddha feast**; `மேஷ (ஆடு) மாமிசம்` → **mesha (goat) meat**; `நரமாமிசம்` → **human flesh**; `ராட்சச மாமிசம்` → **Rakshasa flesh**.
-- `திரிகாலமுணரும்` remains close as **knows/knew all three times**; do not silently import an external gloss.
-- Scan 63's unmatched opening parenthesis before `முரண்பாட்டைக் கவனியுங்கள்` is preserved and documented.
-- `இப்போது குழப்ப ஆரம்பித்திருக்கிறார்!` → **Now he has begun muddling it all up!**.
-- Surpanakha sequence retains **thirst of lust**, the odd **Two wives will give rise to business trouble**, **second wife**, and Rama's love surging toward her.
-- `புருஷரத்தினங்கள்` → **gems among men**; source-specific `ரசாபாச` remains **rasabhasa**.
-- `சப்பைக் கட்டு` reuses **splint**.
-- Final nested quotation irregularities are documented; **Go to elder brother / Go to younger brother!** and final **Aryan culture** jab remain direct.
-- No unresolved meaning-level blocker remains.
+- Preserve heading/contents `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` separately from scan-63 body `விஷ்ணு அவதாரம் என்பதும் ராமனிடமே`.
+- Keep **Ramayana tigers**, **shraddha feast**, **mesha (goat) meat**, **human flesh**, **Rakshasa flesh**, **all three times**, scan-63 unmatched opening parenthesis, **thirst of lust**, **business trouble**, **second wife**, **gems among men**, **rasabhasa**, reused **splint**, and closing **Aryan culture** jab.
 
-## Exact next activity — Article 11
+### Article 11 — COMPLETE / VERIFIED
 
-Work only on **Article 11 — `நடப்பதெல்லாம் நாராயணன் செயலா?`**.
+English: [`translations/en/11-nadappathellam-narayanan-seyala.md`](publications/sakkaravarththiyin-thirumagan/translations/en/11-nadappathellam-narayanan-seyala.md)
 
-1. Fetch `publications/sakkaravarththiyin-thirumagan/articles/11-nadappathellam-narayanan-seyala.md` fresh from `main` and record its current blob SHA as T0.
+- Title → **Is Everything That Happens Narayana's Doing?**.
+- Tamil SHA `b324e995d580ee021577b998d193d005fa6446ad`; scans **65–70 / printed 63–68**.
+- May **1954 / 1955** contradiction remains exact; **backing orchestra**, **A disorder of the brain?—confusion?**, mire/foot image, **Chanakya**, and direct **Brahmin leader** label remain unsmoothed.
+- `நாராயணனோ தானே ராமன்...` → **Narayana knows that he himself is Rama. But Rama does not think that he himself is Narayana.**
+- Dates **9.1.1955 / 23.1.1955 / 13.2.1955 / 30.1.1955 / 20.2.1955** and Chapters **49 / 53** remain source-exact.
+- Maricha's `‘தர்ம நியாய’ங்` → **“dharma and justice”**; `மாள்வதைவிட` → **rather than die at your hands**; `‘பாபச் செய்கை’` → **“sinful act”**.
+- Source-corrected `ஓகோ !` → **Oh-ho!**; preserve **The jackals. They howl ominously.** sentence break.
+- Keep **Ayyo, Lakshmana!**, **Maricha, that great sinner**, the repeated why-did-he-not questions and **O Chakravarthi who writes Chakravarthi's Son**.
+- Scan 69 outer unmatched quotation is documented, not silently repaired. Janaki's full insult cascade remains forceful.
+- `நாலாந்தரப் பெண்மணி` → **fourth-rate woman**; `சங்கு சக்கராயுதபாணியின் சம்சாரம்` → **wife of the bearer of the conch and discus**.
+- Fate argument keeps Ravana becoming **blameless**, **Fate, oh fate!**, **God has arranged disaster in every way**, and the **desire / delusion / doing what ought not to be done** sequence.
+- `நாக்கில் நரம்பின்றித்` keeps a physical tongue image; `அர்ச்சிக்கிறார்` remains sarcastic **“worships”**.
+- `தடை - படை` → **bans—and forces**; source-specific **Kaga Pattar** remains unexpanded; source plural `ஆச்சாரியார்களுக்கு` → **the Achariyars**.
+- Final `நடக்கட்டும் பிழைப்பு - எவ்வளவு நாளைக்கு என்று பார்ப்போம்;` → **Let the livelihood go on—we shall see for how long;**.
+- No unresolved Article 11 meaning-level blocker remains.
+
+## Exact next activity — Article 12
+
+Work only on **Article 12 — `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்`**.
+
+1. Fetch `publications/sakkaravarththiyin-thirumagan/articles/12-maarisanai-thuraththi-sendra-ramanidam.md` fresh from `main` and record its current blob SHA as T0.
 2. Read the **entire** Tamil article before choosing the English title.
-3. Apply the publication-wide **Achariyar** rule and existing lexicon only where context supports it.
-4. Create `translations/en/11-nadappathellam-narayanan-seyala.md` with all source-page comments.
-5. Complete T2 bilingual fidelity review, T3 Kalaignar-voice review and T4 terminology/source audit; mark T5 only after all pass.
-6. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, publication/root READMEs and **this `HANDOVER.md`** before ending.
+3. **Do not let scan 83's separate promotional Article 12 witness overwrite or normalise the Article 12 body witness.** Treat scan 83 only as a separate source witness.
+4. Apply the publication-wide **Achariyar** rule and existing lexicon only where context supports it.
+5. Create `translations/en/12-maarisanai-thuraththi-sendra-ramanidam.md` with all source-page comments.
+6. Complete T2 bilingual fidelity review, T3 Kalaignar-voice review and T4 terminology/source audit; mark T5 only after all pass.
+7. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, publication/root READMEs and **this `HANDOVER.md`** before ending.
 
-**Do not begin Article 12 until Article 11 has passed T2 and T3.**
+**Do not begin Article 13 until Article 12 has passed T2 and T3.**
