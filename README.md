@@ -34,12 +34,14 @@ The original archival/source layer is **complete**:
 
 A second, stricter word-by-word / punctuation-by-punctuation visual review is being performed in physical scan order.
 
-Current progress: **16 / 83 scans complete**.
+Current progress: **24 / 83 scans complete**.
 
 - scans **1–8**: batch complete
 - scans **9–16**: batch complete
-- revalidated source corrections in this second batch include `பத்து முரண்பட்ட அவதாரங்களைப் போலவே`, `எப்படி பெய்ப்படி`, and `கல் சாசனமோ`
-- scans **17–24**: **next strict-review batch**
+- scans **17–24**: batch complete; **no new discrepancies found**
+- Article 2 scans **16–21** are now fully strict-rechecked against its assembly
+- Article 3 scans **22–24** are strict-rechecked; scan 25 remains before its full strict-review closeout
+- scans **25–32**: **next strict-review batch**
 
 The publication must **not** be described as strict-fidelity complete until all 83 scans and all article assemblies have passed this staged review.
 
