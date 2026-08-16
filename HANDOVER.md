@@ -40,7 +40,7 @@ The user requested a second, stricter word-by-word / punctuation-by-punctuation 
 
 Detailed ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-Current strict-review progress: **40 / 83 scans complete**.
+Current strict-review progress: **48 / 83 scans complete**.
 
 ### Completed batches
 
@@ -48,28 +48,31 @@ Current strict-review progress: **40 / 83 scans complete**.
 - scans **9–16**: complete
 - scans **17–24**: complete
 - scans **25–32**: complete
-- scans **33–40**: **8 / 8 COMPLETE; no new discrepancy found**
+- scans **33–40**: complete
+- scans **41–48**: **8 / 8 COMPLETE**
 
-### Batch 5 closeout
+### Batch 6 closeout
 
-- scans 33–36 revalidated already-propagated source corrections:
-  - `பரத்துவாஜ...` rather than earlier `பரத்வாஜ...`
-  - scan 34 `போடுகிறவன் போட்டாலும்`
-  - scan 36 `சீறிப் பாய்ந்தார்கள்`
-- scans 37–40 required no new correction
-- Article 5, scans **30–37**, is now fully strict-rechecked against its assembly
-- Article 6 scans **38–40** agree with its assembly; scans 41–42 remain
-- source punctuation anomalies remain unrepaired, including scan 33's unclosed long quotation, scan 35's closing quotation without a new visible opening mark, and the quotation crossing scans 39–40 without a visible closing mark after `இதுவே.`
+Three new fidelity discrepancies were found and corrected from source pixels:
 
-Other source-sensitive forms reconfirmed include `மேதா விலாசத்துக்கு`, `ராமாயணந்தானாம்`, `ஸ்நானாதி`, `நிருத்தியம்`, `கொத்தவாலை`, `அய்ந்துவகை`, `போக்கியதையைப்`, `மூலி அலங்காரி`, `பிராமணவம்பரோ`, `மகனைப்பாட்டன்`, `பாஸ்பவாரி பரிபூரண லோசனத்துடன்`, `கிழராஜனையும்`, and `ராமபிரபு`.
+1. **scan 41 / printed p.39:** preserve source mixed quotation `‘மூதேவி அடி எடுத்து வைத்த நேரம் அப்படி!”` rather than normalized single-quote closure; `என்பதாகுவது` remains revalidated.
+2. **scan 42 / printed p.40:** `சாயைக் கட்டு போடும்` → source-visible **`சப்பைக் கட்டு போடும்`**.
+3. **scan 44 / printed p.42:** restore source punctuation spacing **`தன் இனம்,தன் சமுதாயம்,அந்த சமுதாயத்தின்`** rather than adding spaces after the first two commas.
+
+Other batch-6 pages passed word-by-word. Reconfirmed forms include `விபீஷணப்பட்டத்தை`, `வாலேந்திகள்`, `விண்ணுறையும்`, `அறுபதினாயிரம்`, `இனித்தவாயனும்`, `விஷ்ணு அவதார மென்றீர்கள்`, `கற்பு சம்மாக்கப்பட்டு`, `அய்வருக்கும்`, `பொன்னான(?)`, `ஸ்ரீராமுலு`, and `ஆர்குஸிஸ்`.
+
+- Article 6, scans **38–42**, is now fully strict-rechecked and carries the corrections above.
+- Article 7 scans **43–48** agree with its assembly after the scan-44 spacing correction.
+- scan 49 remains Article 7's final strict-review page.
+- scan 46's source-visible unclosed quotation after `ராமாயணம்.` remains unrepaired.
 
 ## Exact next activity
 
-Strictly review **scans 41–48** against the controlling PDF:
+Strictly review **scans 49–56** against the controlling PDF:
 
-- scans **41–42** — conclude Article 6 `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`
-- scans **43–48** — Article 7 `விபீஷணருக்கு விடை யளிப்போம்!` through printed page 46
-- scan 49 is Article 7's final page and will fall in the following batch
+- scan **49** — conclude Article 7 `விபீஷணருக்கு விடை யளிப்போம்!`
+- scans **50–54** — all of Article 8 `நாடாண்ட மன்னன் நாதியற்று செத்தான்`
+- scans **55–56** — first two pages of Article 9 `தந்தை மகனும் தருமம் தவறியவர்கள்!`
 
 For every scan:
 
@@ -79,7 +82,7 @@ For every scan:
 4. correct only from scan evidence;
 5. propagate any correction into the relevant article assembly;
 6. update the fidelity ledger and audit;
-7. advance the strict-review count only after all scans 41–48 are closed.
+7. advance the strict-review count only after all scans 49–56 are closed.
 
 **Do not claim 83/83 strict fidelity until the staged review actually reaches scan 83 and all assemblies are rechecked.**
 
