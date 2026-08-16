@@ -61,7 +61,7 @@ Translate in printed/source order.
 | Article | Tamil title | Tamil source | Translation status |
 |---:|---|---|---|
 | 1 | சக்கரவர்த்தியின் திருமகன் | `articles/01-sakkaravarththiyin-thirumagan.md` | **`verified` — T0–T5 passed** |
-| 2 | தேகமும் உணர்வும் | `articles/02-thegamum-unarvum.md` | `not-started` |
+| 2 | தேகமும் உணர்வும் | `articles/02-thegamum-unarvum.md` | **`verified` — T0–T5 passed** |
 | 3 | சதி நிரூபிக்கப்படுகிறது | `articles/03-sathi-nirupikkappadugirathu.md` | `not-started` |
 | 4 | காமராஜன் ஆட்கொண்ட தசரதராஜன்! | `articles/04-kamarajan-aadkonda-dasaratharajan.md` | `not-started` |
 | 5 | பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’? | `articles/05-paraththuvaja-aasramama-paris-nagarathu-para.md` | `not-started` |
@@ -90,11 +90,9 @@ For each article:
 9. mark the article `verified` only after all gates pass;
 10. update root `HANDOVER.md` before ending the activity.
 
-## 6. Article 1 calibration — COMPLETE
+## 6. Calibration and early baseline — Articles 1–2 COMPLETE
 
-Article 1 has completed T0–T5 and establishes the initial voice baseline.
-
-Key decisions now established:
+Article 1 established the initial publication-wide voice baseline:
 
 - `ஆச்சாரியார்` → **Acharya**; referent **C. Rajagopalachari (Rajaji)** is identified outside Kalaignar's body text.
 - `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where the Rajagopalachari/Chakravarthi wordplay is active.
@@ -102,7 +100,17 @@ Key decisions now established:
 - `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**.
 - `ஆரியம்` → **Aryanism**.
 - `அரக்கர்`, `ராட்சசர்`, `தேவர்கள்` remain distinct as **demons, Rakshasas, Devas**.
-- direct commands, repetition, sarcasm, accusations and rhetorical questions are preserved rather than academicised.
+
+Article 2 added an important body/feeling and conspiracy vocabulary baseline:
+
+- title `தேகமும் உணர்வும்` → **Body and Feeling**;
+- `தேகம்` / `உணர்வு` → **body / feeling**;
+- `ஊனுடல்` → **body of flesh**;
+- `கோபதாபம்` → **anger and passion**;
+- `பகவான்` / `ஈஸ்வரி` → **Bhagavan / Ishvari**;
+- `சூழ்ச்சி` / `சதி` → **plot / conspiracy** where the Tamil distinguishes them;
+- source-irregular `(ஆகஸ்டு 154)` remains **`(August 154)`** with an explicit source note;
+- unmatched quotation openings on scans 18 and 20 remain documented rather than repaired.
 
 Detailed decisions and review corrections are in `translations/en/LEXICON.md` and `translations/en/TRANSLATION_REVIEW.md`.
 
@@ -122,7 +130,7 @@ Where the Tamil is mocking, the English should also be recognisably mocking.
 
 ### Epithets
 
-`ஆச்சாரியார்` is now frozen as **Acharya** for this publication unless the Tamil itself changes label. The referent is C. Rajagopalachari (Rajaji), but the personal name is not mechanically substituted into Kalaignar's body.
+`ஆச்சாரியார்` is frozen as **Acharya** for this publication unless the Tamil itself changes label. The referent is C. Rajagopalachari (Rajaji), but the personal name is not mechanically substituted into Kalaignar's body.
 
 ### Ideological vocabulary
 
@@ -152,22 +160,13 @@ Each English body retains comments corresponding to Tamil source page boundaries
 
 ## 10. Translation review record
 
-`translations/en/TRANSLATION_REVIEW.md` records:
-
-- Tamil source blob SHA used;
-- T1 draft state;
-- T2 completeness/fidelity findings;
-- T3 voice findings;
-- T4 terminology/quotation/citation findings;
-- corrections introduced during review;
-- final status;
-- unresolved choices, if any.
+`translations/en/TRANSLATION_REVIEW.md` records source SHA, T1–T5 state, review corrections, final status and unresolved choices.
 
 No article with an unresolved meaning-level question may be marked `verified`.
 
 ## 11. Living lexicon
 
-`translations/en/LEXICON.md` is updated during translation. Article 1 has now populated the initial recurring vocabulary baseline. Later articles may introduce documented contextual variants, but any change affecting Article 1 must trigger a backward consistency check.
+`translations/en/LEXICON.md` is updated during translation. Articles 1–2 now form the active baseline; later contextual variants must be documented and backward-checked when necessary.
 
 ## 12. Publication-level final consistency pass
 
@@ -187,7 +186,9 @@ Article 1 translated and passed **T0–T5**.
 
 ### Phase E2 — Articles 2–4 — ACTIVE
 
-Translate in order, one article at a time, applying and refining the Article 1 baseline.
+- Article 2: **COMPLETE / VERIFIED**
+- Article 3: **NEXT**
+- Article 4: pending
 
 ### Phase E3 — Articles 5–8
 
@@ -213,13 +214,13 @@ Mark 14/14 verified and close the English release only if no unresolved item rem
 
 - Phase E0: **COMPLETE**
 - Phase E1: **COMPLETE**
-- Phase E2: **ACTIVE — Article 2 next**
-- English article drafts: **1 / 14**
-- English articles verified: **1 / 14**
+- Phase E2: **ACTIVE — Article 2 complete; Article 3 next**
+- English article drafts: **2 / 14**
+- English articles verified: **2 / 14**
 - final cross-article review: **not started**
 
 ## 15. Exact next translation activity
 
-Proceed with **Article 2 — `தேகமும் உணர்வும்`**.
+Proceed with **Article 3 — `சதி நிரூபிக்கப்படுகிறது`**.
 
-Fetch and read its complete current strict-reviewed Tamil assembly, record its blob SHA as T0, choose the English title only after reading the whole article, translate it completely with source page-boundary comments, then run T2–T4 and update all trackers plus the single root `HANDOVER.md` before Article 3 begins.
+Fetch and read its complete current strict-reviewed Tamil assembly, record its blob SHA as T0, choose the English title only after reading the whole article, translate it completely with source page-boundary comments, then run T2–T4 and update the lexicon, review ledger, tracker, plan, READMEs and the single root `HANDOVER.md` before Article 4 begins.
