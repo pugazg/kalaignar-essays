@@ -37,7 +37,7 @@ Translate in printed/source order.
 | 2 | தேகமும் உணர்வும் | **`verified` — T0–T5 passed** |
 | 3 | சதி நிரூபிக்கப்படுகிறது | **`verified` — T0–T5 passed** |
 | 4 | காமராஜன் ஆட்கொண்ட தசரதராஜன்! | **`verified` — T0–T5 passed** |
-| 5 | பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’? | `not-started` |
+| 5 | பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’? | **`verified` — T0–T5 passed** |
 | 6 | இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா? | `not-started` |
 | 7 | விபீஷணருக்கு விடை யளிப்போம்! | `not-started` |
 | 8 | நாடாண்ட மன்னன் நாதியற்று செத்தான் | `not-started` |
@@ -63,7 +63,7 @@ For each article:
 9. mark the article `verified` only after all gates pass;
 10. update the single root `HANDOVER.md` before ending the activity.
 
-## 6. Established baseline after Articles 1–4
+## 6. Established baseline after Articles 1–5
 
 Publication-wide:
 
@@ -74,19 +74,20 @@ Publication-wide:
 - `அரக்கர்`, `ராட்சசர்`, `தேவர்கள்` remain distinct as **demons, Rakshasas, Devas**;
 - commands, repetition, sarcasm, accusations, wordplay and rhetorical questions are not academicised.
 
-Article 2 additionally established **Body and Feeling**, body / feeling, body of flesh, anger and passion, Bhagavan / Ishvari, and plot / conspiracy.
+Article 2 established **Body and Feeling**, body / feeling, body of flesh, anger and passion, Bhagavan / Ishvari, and plot / conspiracy.
 
-Article 3 additionally established **The Conspiracy Is Proven**, burden of the kingdom / burden of rule, office of Crown Prince, `கல்மஷம்` → **taint**, and `கொல்லைப்புறமாக...` → **through the back door**.
+Article 3 established **The Conspiracy Is Proven**, burden of the kingdom / burden of rule, office of Crown Prince, `கல்மஷம்` → **taint**, and `கொல்லைப்புறமாக...` → **through the back door**.
 
-Article 4 additionally established:
+Article 4 established **Dasaratha Raja in the Grip of Kama-Raja!**, preserving **Kama-Raja / Raja**, sexualised vocabulary, age-marked ridicule and the `அப்பாவி` / `அப்-பாவி` pun with a separated translator note.
 
-- title `காமராஜன் ஆட்கொண்ட தசரதராஜன்!` → **Dasaratha Raja in the Grip of Kama-Raja!**;
-- `காமராஜன்` → **Kama-Raja**, preserving the source wordplay rather than reducing it to `lust`;
-- `போகம்` → **sensual pleasure** in the article's sexualised ridicule;
-- `பிரகிருதி வேகம்` → **physical urge**; `காதல் வேகம்` → **surge of passion**; `காம மோகம்` → **lustful infatuation**;
-- repeated `கிழவர்` ridicule remains age-marked in English;
-- `அப்பாவி` / `அப்-பாவி` is preserved through **innocent / “Ah—sinner!”** with a separate translator note;
-- final **Kama-Raja / old Raja** verbal play remains visible.
+Article 5 establishes:
+
+- title `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?` → **Bharadvaja's Ashram—or a Paris 'Bar'?**;
+- article-heading and contents-page Tamil title witnesses remain distinct and explicitly documented;
+- `ஆஸ்ரமம்` → **ashram**, `அப்சரஸ்கள்` → **Apsaras**, `கதம்ப ராமன்` → **motley Rama**, `காலட்சேபம்` → **religious discourse**;
+- the source's **Bar** wordplay, opening/closing refrain, feast ridicule, triple `Ah!`, intoxication imagery and sweet/bitter ending remain visible;
+- both Kambar verses are translated only from the supplied Tamil witness together with Kalaignar's own prose glosses, not from external English versions;
+- source anomalies such as the scan-33 unmatched quotation and scan-36 standalone `— ஆச்சாரியார்.` remain documented/preserved.
 
 Detailed decisions and review corrections are in `translations/en/LEXICON.md` and `translations/en/TRANSLATION_REVIEW.md`.
 
@@ -107,8 +108,8 @@ Where the Tamil is mocking or punning, the English must retain that function whe
 ### Ideological vocabulary
 Preserve historically and polemically loaded terms rather than generalising them.
 
-### Quotations
-Translate quoted *Kalki* passages from Kalaignar's Tamil witness, preserving dates/citations and source anomalies rather than importing external English versions.
+### Quotations and verse
+Translate quoted material from Kalaignar's Tamil witness, preserving dates/citations and source anomalies. For embedded classical verse, do not import a published English translation unless explicitly authorised; translate only what the Tamil witness and Kalaignar's own explanation support, and document interpretive limits where needed.
 
 ### Strong language
 Do not soften insults, accusations or loaded comparisons for modern politeness.
@@ -123,9 +124,9 @@ Each English file retains comments corresponding to Tamil source page boundaries
 
 ## 10. Publication-level final consistency pass
 
-After Articles 1–14 are individually verified, perform a complete cross-article review for names/epithets, ideological terminology, repeated rhetoric, publication references, epic-name spelling, quotations, title style, tone, wordplay, translator notes, source-page comments and completeness.
+After Articles 1–14 are individually verified, perform a complete cross-article review for names/epithets, ideological terminology, repeated rhetoric, publication references, epic-name spelling, quotations, embedded verse, title style, tone, wordplay, translator notes, source-page comments and completeness.
 
-The final gate must specifically confirm that every translated occurrence of `ஆச்சாரியார்` uses **Achariyar** unless the Tamil source changes label, and that Article 4's **Kama-Raja / Raja** and `அப்பாவி` / `அப்-பாவி` wordplay has not been flattened.
+The final gate must specifically confirm that every translated occurrence of `ஆச்சாரியார்` uses **Achariyar** unless the Tamil source changes label; Article 4's **Kama-Raja / Raja** and `அப்பாவி` / `அப்-பாவி` wordplay remains intact; and Article 5's **Bharadvaja / Bar** title treatment and Kambar sense-translations remain appropriately restrained.
 
 Only after this may the publication status become **English translation complete**.
 
@@ -133,8 +134,8 @@ Only after this may the publication status become **English translation complete
 
 - **E0 setup:** COMPLETE
 - **E1 Article 1 calibration:** COMPLETE
-- **E2 Articles 2–4:** **COMPLETE**
-- **E3 Articles 5–8:** **ACTIVE — Article 5 next**
+- **E2 Articles 2–4:** COMPLETE
+- **E3 Articles 5–8:** **ACTIVE — Article 5 complete; Article 6 next**
 - **E4 Articles 9–11:** pending
 - **E5 Articles 12–14:** pending
 - **E6 publication consistency review:** pending
@@ -142,12 +143,12 @@ Only after this may the publication status become **English translation complete
 
 ## 12. Current progress
 
-- English article drafts: **4 / 14**
-- English articles verified: **4 / 14**
+- English article drafts: **5 / 14**
+- English articles verified: **5 / 14**
 - final cross-article review: **not started**
 
 ## 13. Exact next translation activity
 
-Proceed with **Article 5 — `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?`**.
+Proceed with **Article 6 — `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?`**.
 
-Fetch and read its complete current strict-reviewed Tamil assembly, record its blob SHA as T0, and do not mechanically normalise the title: the source has a known contents/heading witness distinction (`பரத்துவாஜர்... பாரீஸ்...` in contents versus `பரத்துவாஜா... பாரிஸ்...` in the article heading). Choose the English title only after reading the whole article, then complete T1–T5 and update all trackers plus the single root `HANDOVER.md` before Article 6 begins.
+Fetch and read its complete current strict-reviewed Tamil assembly, record its blob SHA as T0, choose the English title only after reading the whole article, then complete T1–T5 and update the lexicon, review ledger, tracker, plan, READMEs and single root `HANDOVER.md` before Article 7 begins.
