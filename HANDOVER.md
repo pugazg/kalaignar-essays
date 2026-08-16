@@ -91,19 +91,17 @@ Each article must pass:
 - **T4** — terminology / quotation / citation audit
 - **T5** — article marked verified
 
-## Identity and transliteration state for `ஆச்சாரியார்`
+## Publication-wide identity and transliteration decision for `ஆச்சாரியார்`
 
 The user explicitly established that **`ஆச்சாரியார்` refers to C. Rajagopalachari (Rajaji)** in this publication.
 
-The user then explicitly instructed: **keep `Achariyar` in Article 1 instead of `Acharya`**.
+The user then chose **`Achariyar` instead of `Acharya`**. After confirming that Article 2 also addresses/refers to the same Rajaji referent through `ஆச்சாரியார்`, the user approved using the same form consistently across the publication.
 
-Current state:
+**Frozen rule:**
 
-- **Article 1:** `Achariyar` throughout the translated body and translator note. This supersedes the earlier `Acharya` form there.
-- **Article 2:** still uses the earlier `Acharya` spelling. It has not been silently changed because the latest instruction named Article 1 specifically.
-- **Articles 3–14:** no publication-wide transliteration should be assumed frozen from the earlier `Acharya` decision. Follow the latest user instruction and document the chosen form.
-
-Do not replace the label mechanically with `Rajaji`; the personal identity remains outside Kalaignar's body text.
+- `ஆச்சாரியார்` → **`Achariyar`** in Articles **1–14** wherever that Tamil label appears, unless the source itself changes label.
+- Articles 1 and 2 have already been revised to `Achariyar` throughout.
+- Do not mechanically replace the label with `Rajaji`; the personal identity belongs in translator/editorial identification notes outside Kalaignar's body text.
 
 ## Article 1 — COMPLETE / VERIFIED
 
@@ -112,11 +110,11 @@ English: **`Chakravarthi's Son`**
 Tamil blob SHA: `47a5b1fd0b28827bb098dda419b5bf864e9f3866`  
 English: [`translations/en/01-sakkaravarththiyin-thirumagan.md`](publications/sakkaravarththiyin-thirumagan/translations/en/01-sakkaravarththiyin-thirumagan.md)
 
-Article 1 passed T0–T5 and remains verified after a post-T5 user-directed transliteration correction.
+Article 1 passed T0–T5 and remains verified after the user-directed transliteration correction.
 
 Decisions that must not regress:
 
-- `ஆச்சாரியார்` → **Achariyar in Article 1**.
+- `ஆச்சாரியார்` → **Achariyar**.
 - `சக்கரவர்த்தி` / `சக்கரவர்த்தியார்` → **Chakravarthi** where Rajagopalachari/Chakravarthi wordplay is active.
 - `ஆரியர்` / `திராவிடர்` → **Aryans / Dravidians**; `ஆரியம்` → **Aryanism**; `ஆரிய சாம்ராஜ்யம்` → **Aryan Empire**.
 - `அரக்கர்` / `ராட்சசர்` / `தேவர்கள்` → **demons / Rakshasas / Devas**, kept distinct.
@@ -131,10 +129,11 @@ English: **`Body and Feeling`**
 Tamil blob SHA: `bb9131b7856b528e527136be8f4f60dca2999850`  
 English: [`translations/en/02-thegamum-unarvum.md`](publications/sakkaravarththiyin-thirumagan/translations/en/02-thegamum-unarvum.md)
 
-Article 2 passed **T0–T5** and currently retains **Acharya** for `ஆச்சாரியார்`.
+Article 2 passed **T0–T5** and has now been revised post-T5 to use **Achariyar** throughout for `ஆச்சாரியார்`.
 
 Decisions that must not regress:
 
+- `ஆச்சாரியார்` → **Achariyar**.
 - `தேகம்` / `உணர்வு` → **body / feeling**.
 - `ஊனுடல்` → **body of flesh / bodies of flesh**.
 - `கோபதாபம்` / `தாபம்` → **anger and passion / passion**.
@@ -156,7 +155,7 @@ Work only on **Article 3 — `சதி நிரூபிக்கப்பட�
    `publications/sakkaravarththiyin-thirumagan/articles/03-sathi-nirupikkappadugirathu.md`
 2. Record its current GitHub blob SHA as T0 provenance.
 3. Read the complete article before choosing/finalising the English title.
-4. Apply the Article 1–2 voice/lexicon baseline, but **do not assume `Acharya` is still the publication-wide spelling**; follow the latest user direction for `ஆச்சாரியார்`.
+4. Apply the Article 1–2 voice/lexicon baseline, including the frozen `ஆச்சாரியார்` → **Achariyar** rule.
 5. Create `translations/en/03-sathi-nirupikkappadugirathu.md` with complete English translation and source page-boundary comments.
 6. Perform T2 bilingual fidelity review.
 7. Perform T3 Kalaignar-language/voice review.
