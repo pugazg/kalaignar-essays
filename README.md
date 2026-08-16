@@ -67,7 +67,9 @@ Current status:
 - Article 9 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/09-thanthai-maganum-tharumam-thavariyavargal.md`](publications/sakkaravarththiyin-thirumagan/articles/09-thanthai-maganum-tharumam-thavariyavargal.md)
 - Article 10 — **விஷ்ணு அவதாரம் என்பதும் ராமனிடம்!**, scans **61–64**, printed pp. **59–62**: **4 / 4 VERIFIED / source-complete**
 - Article 10 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/10-vishnu-avatharam-enbathum-ramanidam.md`](publications/sakkaravarththiyin-thirumagan/articles/10-vishnu-avatharam-enbathum-ramanidam.md)
-- scan **65** / printed p. **63** directly begins Article 11 — **நடப்பதெல்லாம் நாராயணன் செயலா?**; this is the next transcription unit.
+- Article 11 — **நடப்பதெல்லாம் நாராயணன் செயலா?**, scans **65–70**, printed pp. **63–68**: **6 / 6 VERIFIED / source-complete**
+- Article 11 assembled reading: [`publications/sakkaravarththiyin-thirumagan/articles/11-nadappathellam-narayanan-seyala.md`](publications/sakkaravarththiyin-thirumagan/articles/11-nadappathellam-narayanan-seyala.md)
+- scan **71** / printed p. **69** directly begins Article 12 — **மாரீசனைத் துரத்திச் சென்ற ராமனிடம்**; this is the next transcription unit.
 
 Publication workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
