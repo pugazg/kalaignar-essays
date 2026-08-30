@@ -102,7 +102,7 @@ Workspace: [`publications/kayittril-thongiya-kanapathi/`](publications/kayittril
 - strict visual-text-fidelity pass: **0 / 17**
 - English translation: **NOT STARTED**
 
-The user supplied a Gemini first-pass OCR transcription. It is **not authoritative**. Old Tamil glyphs, source spelling, punctuation and word boundaries must be checked directly against the scan pixels. Initial visual checks already found OCR misreads such as `அடபாபமே!` → source `அடபாவமே!`, `கவலைப்பட வில்லை.` → `கவலைப்பட்டவில்லை.`, `சோறில்லை` → `சோறில்ல`, and final `/` → `!` in `அளிக்குமாக!`.
+The user supplied a Gemini first-pass OCR transcription. It is **not authoritative**, but after P0 the user manually rechecked the PDF and confirmed that the first-pass readings I had challenged were correct. The preliminary assistant-side corrections are withdrawn. In particular, forms such as `அடபாபமே!`, `கவலைப்பட வில்லை.` and `சோறில்லை` must not be changed merely because a different modern-looking reading seems more familiar. All old Tamil glyphs, source spelling, punctuation and word boundaries will be checked directly against the scan pixels during P2/P5.
 
 Source metadata: [`metadata/source.md`](publications/kayittril-thongiya-kanapathi/metadata/source.md).
 
@@ -110,4 +110,4 @@ Source metadata: [`metadata/source.md`](publications/kayittril-thongiya-kanapath
 
 Publication 1 remains frozen. Publication 2 `கயிற்றில் தொங்கிய கணபதி` is now active after P0 source intake.
 
-**Exact next activity:** execute **P1 — metadata + complete 17-scan page map / boundary mapping** for Publication 2. Classify every scan, preserve the missing visible numeral on scan 6 rather than inventing printed page 5, record front matter/article/advertisement boundaries, and keep Gemini OCR strictly as a first-pass aid. The root [`HANDOVER.md`](HANDOVER.md) remains authoritative for the detailed continuation state.
+**Exact next activity:** execute **P1 — metadata + complete 17-scan page map / boundary mapping** for Publication 2. Classify every scan, preserve the missing visible numeral on scan 6 rather than inventing printed page 5, record front matter/article/advertisement boundaries, and keep Gemini OCR strictly as a first-pass aid without “correcting” old-glyph readings from contextual expectation. The root [`HANDOVER.md`](HANDOVER.md) remains authoritative for the detailed continuation state.
