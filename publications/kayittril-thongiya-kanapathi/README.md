@@ -62,7 +62,7 @@ Detailed Tamil records:
 
 Frozen source-specific readings include `உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `நேரமில்லை`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை`, `தங்கந் தோண்டுமிடமாயிற்றே!`, `நெருக்கடியில்(!)`, `தூக்குபோட்டுவிட்டீர்களா!`, `கொண்டிருக்கிறார்.`, `உரத்தகுரலில்,`, `சாவின் முனையிலே`, and final `அளிக்குமாக /`.
 
-## English translation — T0–T5 COMPLETE / ARTICLE VERIFIED
+## English translation — T0–T5 + E6 COMPLETE
 
 Permanent rule:
 
@@ -94,16 +94,20 @@ Current English status:
 - verified articles: **1 / 1**
 - English title: **Ganapathi Who Hung from the Rope**
 - unresolved article-level translation blockers: **0**
-- **E6 publication-level English consistency review: NEXT**
-- E7 release closeout: **NOT STARTED**
-- English release: **NOT YET**
+- E6 publication-level English consistency review: **COMPLETE / PASS**
+- E6 body corrections: **0**
+- E6 blockers: **0**
+- **E7 release closeout: NEXT**
+- English release gate: **OPEN until E7**
 
-### T5 verification result
+### E6 consistency result
 
-T5 confirmed the live frozen Tamil article remains at blob `b7c6d02cd7bc041318693306b8658e18c3f8fa5b` and that the English article still points to that authority. All T2 fidelity corrections, T3 voice decisions and T4 terminology/source-bearing decisions remain intact. Scan comments **6–15**, quotation/source-anomaly handling, `in this crisis(!)`, `Have you hanged him!` and final `/` all passed verification.
+E6 reviewed the verified article against the publication metadata, lexicon, review ledger and translation plan. It confirmed title style, names/referents, ideological vocabulary, cultural/source-bearing terms, quotation/source-anomaly handling, rhetorical tone, scan comments **6–15**, source boundaries and the frozen Tamil relationship.
 
-T5 introduced **no English body-text change**; only the article metadata status advanced from `voice-reviewed` to `verified`.
+The verified English article blob reviewed was `bf01a5d6da90e8caf6c491ed43f46cbb5e9491ba`; it still points to frozen Tamil blob `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`.
+
+E6 found **no English body-text correction** and **no unresolved publication-level blocker**. Source-bearing forms such as `mangu`, `Rani`, `Mukari`, `Achariyar`, `adhirasam`, `akkāra vadisal`, `pallu`, `in this crisis(!)`, `Have you hanged him!` and final `/` remain unchanged.
 
 ## Exact next activity
 
-Execute **E6 — publication-level English consistency review** for this one-article publication. Re-fetch the verified article, frozen Tamil authority, lexicon, review ledger and translation plan; check title style, names/epithets, ideological vocabulary, cultural/source-bearing terms, quotation handling, tone consistency and scan traceability. Do not perform E7 in the same activity.
+Execute **E7 — English release closeout** for this publication. Re-fetch live `main`, verify the verified English article/frozen Tamil relationship, release-facing links/counts/statuses and source-PDF exclusion, create `translations/en/RELEASE_REPORT.md`, and close the English release gate only after every release check passes. Do not reopen verified prose unless a genuine release blocker is found.
