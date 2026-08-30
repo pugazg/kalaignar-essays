@@ -2,68 +2,75 @@
 
 Source: `TVA_BOK_0064013_கயிற்றில்_தொங்கிய_கணபதி.pdf`  
 Physical scans: **17**  
-P1 status: **COMPLETE**
+P1 structure map: **COMPLETE**  
+P2 page records: **17 / 17 VERIFIED**  
+P3 article assembly: **1 / 1 COMPLETE**
 
-This map records physical-scan roles, visible printed-page numbering and publication boundaries only. It does **not** mark the supplied Gemini first-pass transcription as verified text. Page-level transcription begins in P2.
-
-| Scan | Printed page | Type / section | Publication relation | P1 status |
+| Scan | Printed page | Type / section | Publication relation | Page record |
 |---:|---:|---|---|---|
-| 1 | — | Front cover — title / author / cover artwork | front matter | mapped |
-| 2 | — | Title / publisher page | front matter | mapped |
-| 3 | — | Publication date / price / printer | front matter / imprint | mapped |
-| 4 | — | `பதிப்புரை` | front matter | mapped |
-| 5 | — | Blank / paper surface | front matter | mapped |
-| 6 | — | Article heading / opening — `கயிற்றில் தொங்கிய கணபதி` | article begins | mapped |
-| 7 | 6 | Article continuation | article body | mapped |
-| 8 | 7 | Article continuation | article body | mapped |
-| 9 | 8 | Article continuation | article body | mapped |
-| 10 | 9 | Article continuation | article body | mapped |
-| 11 | 10 | Article continuation | article body | mapped |
-| 12 | 11 | Article continuation | article body | mapped |
-| 13 | 12 | Article continuation | article body | mapped |
-| 14 | 13 | Article continuation | article body | mapped |
-| 15 | 14 | Article conclusion + ending ornament | article ends | mapped |
-| 16 | — | Advertisement / other publications | post-text promotional matter | mapped |
-| 17 | — | Advertisement / back matter | post-text promotional matter | mapped |
+| 1 | — | Front cover — title / author / artwork | front matter | `pages/0001-cover.md` |
+| 2 | — | Title / publisher page | front matter | `pages/0002-title-page.md` |
+| 3 | — | Publication date / price / printer | front matter / imprint | `pages/0003-imprint.md` |
+| 4 | — | `பதிப்புரை` | front matter | `pages/0004-pathippurai.md` |
+| 5 | — | Blank / paper surface | front matter | `pages/0005-blank.md` |
+| 6 | — | Article heading / opening | article begins | `pages/0006-article-opening.md` |
+| 7 | 6 | Article continuation | article body | `pages/0007-article-p06.md` |
+| 8 | 7 | Article continuation | article body | `pages/0008-article-p07.md` |
+| 9 | 8 | Article continuation | article body | `pages/0009-article-p08.md` |
+| 10 | 9 | Article continuation | article body | `pages/0010-article-p09.md` |
+| 11 | 10 | Article continuation | article body | `pages/0011-article-p10.md` |
+| 12 | 11 | Article continuation | article body | `pages/0012-article-p11.md` |
+| 13 | 12 | Article continuation | article body | `pages/0013-article-p12.md` |
+| 14 | 13 | Article continuation | article body | `pages/0014-article-p13.md` |
+| 15 | 14 | Article conclusion + ending ornament | article ends | `pages/0015-article-p14.md` |
+| 16 | — | Advertisement / other publications | post-text promotional matter | `pages/0016-advertisement-01.md` |
+| 17 | — | Advertisement / back matter | post-text promotional matter | `pages/0017-advertisement-02.md` |
 
 ## Printed-page numbering behaviour
 
-- Scans **1–5** have no visible printed page number.
-- **Scan 6 has no visible printed numeral.** Scan 7 begins with visible printed page **6**, but the archive must **not invent a visible printed page `5`** for scan 6.
-- Scans **7–15** visibly carry printed pages **6–14** respectively.
-- Scans **16–17** have no visible printed page number.
+- Scans **1–5**: no visible printed page number.
+- **Scan 6 has no visible printed numeral.** Scan 7 begins with visible printed page 6; the archive does **not** invent visible page 5 for scan 6.
+- Scans **7–15** visibly carry printed pages **6–14**.
+- Scans **16–17**: no visible printed page number.
 
-The physical scan number and the printed page number are separate archival fields and must never be collapsed into one sequence.
+Physical scan number and printed page number are separate archival fields.
 
 ## Publication / article boundaries
 
-- Front matter: scans **1–5**.
-- `பதிப்புரை`: scan **4**.
-- Blank physical scan: scan **5**.
-- Single article **`கயிற்றில் தொங்கிய கணபதி`**: scans **6–15**.
-- The article begins on scan **6** at its heading/opening.
-- The article ends on scan **15** at the printed ending ornament following the final article sentence.
-- Scans **16–17** are separate promotional / advertisement witnesses and are **not** article body.
-- Printed contents page: **none visible** in the supplied publication.
+- front matter: scans **1–5**
+- `பதிப்புரை`: scan **4**
+- blank scan: **5**
+- single article `கயிற்றில் தொங்கிய கணபதி`: scans **6–15**
+- article begins on scan **6**
+- article ends on scan **15** before the separate post-text witnesses
+- advertisements / promotional matter: scans **16–17**
+- printed contents page: **none**
 
-## Source-witness / physical-copy notes relevant to mapping
+Article assembly: [`../articles/01-kayittril-thongiya-kanapathi.md`](../articles/01-kayittril-thongiya-kanapathi.md), assembled strictly from verified scans **6–15**.
 
-- Scan 1 contains cover artwork showing a hanging human silhouette.
-- Scan 2 contains rectangular library ownership stamps; stamp wording is physical-copy evidence and must remain separate from printed publication text.
-- Scan 15 contains a library stamp below the printed article-ending ornament.
-- Scans 16–17 must be preserved as independent printed promotional witnesses rather than folded into the article assembly.
+## Physical-copy notes
 
-## Old-Tamil / OCR non-regression note
+- scan 1: cover artwork with hanging human silhouette
+- scan 2: two rectangular library ownership stamps; obscured/crossed wording is not reconstructed
+- scan 15: library stamp below printed ending ornament
+- scans 16–17: independent printed promotional witnesses, never article body
 
-P1 is a structure-mapping gate, not a word-level transcription gate. The user-supplied Gemini text remains the first-pass comparison layer for P2. The user has already rechecked and rejected the preliminary assistant-side changes to old-glyph readings such as `அடபாபமே!`, `கவலைப்பட வில்லை.` and `சோறில்லை`; P1 makes no textual correction to those readings.
+## P2/P3 correction provenance relevant to mapping
 
-Any P2/P5 change must be supported by the scan pixels, not by modern spelling expectation or sentence context.
+Direct enlarged review of scan 13 / printed p.12 superseded earlier provisional readings:
 
-## P1 result
+- `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டார்களா!`**
+- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`**
 
-- **17 / 17** physical scans classified.
-- Printed-page-number behaviour mapped without inventing a numeral for scan 6.
-- `பதிப்புரை`, blank-page, article-start, article-end and advertisement boundaries mapped.
-- No printed contents page is present, so there is no contents mapping to transcribe for this publication.
-- No source-structure correction to the P0 publication model was required.
-- Page records remain **0 / 17**; they begin in P2.
+Direct review of scan 12 / printed p.11 also established **`உரத்தகுரலில்,`** rather than the interim semicolon reading.
+
+## Current gate
+
+- P0: COMPLETE
+- P1: COMPLETE
+- P2: COMPLETE — **17 / 17 verified page records**
+- P3: COMPLETE — **1 / 1 article assembly**
+- **P4 source audit / completeness review: NEXT**
+- P5 strict visual fidelity: NOT STARTED
+
+P4 must confirm structural/source completeness and page↔assembly consistency without substituting for the later separate P5 word/punctuation re-audit.
