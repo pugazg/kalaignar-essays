@@ -18,87 +18,86 @@ A first draft is never automatically verified. Article 1 must pass T0 source con
 - translation authority: `../../articles/01-kayittril-thongiya-kanapathi.md`
 - frozen Tamil blob SHA: `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`
 - article source scans: **6–15**
-- T0 result: **PASS**
 
 ## T1 complete close draft — PASSED
 
-English article:
+The complete article was translated from scans **6–15**, every scan-boundary comment was retained, and the English file was left at `translation_status: draft` pending review.
 
-[`01-kayittril-thongiya-kanapathi.md`](01-kayittril-thongiya-kanapathi.md)
+## T2 bilingual fidelity review — PASSED
 
-T1 translated the complete article from scans **6–15**, retained every scan-boundary comment and preserved the quotation-heavy, rhetorical and polemical structure. The file was correctly left at `translation_status: draft` pending T2.
+T2 compared the English clause by clause against the frozen Tamil and corrected only fidelity defects. Important T2 corrections included:
 
-## T2 bilingual fidelity review — COMPLETE / PASSED
+- `நமது நாட்டு கணபதி` → `Ganapathi of our land`;
+- `பாராள பாரத புத்ரர் வந்தால்` → `if the sons of Bharat came to rule`;
+- removal of unsupported `special` from the Tamil-Nadu-importance sentence;
+- scan-9/10 `உணர்வைத் தொடுவதில்லை` → `does not touch their sensibility`;
+- `மங்கு` retained as source-bearing `mangu`, removing unsupported `vessels`;
+- `அவர்தம் ஆத்மா சாந்தி அடைக!` → `May his soul attain peace!`;
+- removal of an added agent from `மரணவஸ்தைக்காளாகும்`;
+- source singular `ஆலை` → `a factory`;
+- `பெண்தெய்வ மாநாடு` → `conference of goddesses`;
+- the Kamaraj comic-taunt quotation attachment clarified without changing its wording.
 
-The frozen Tamil assembly and current English article were re-fetched from `main`. The English `source_tamil_blob_sha` still matches the frozen Tamil blob:
+The irregular source quotation beginning `சுதந்திர பூமியில்...` remains documented; English uses readable quotation closure. Final `/` remains preserved for T4.
 
-`b7c6d02cd7bc041318693306b8658e18c3f8fa5b`
+## T3 Kalaignar voice review — COMPLETE / PASSED
 
-T2 compared the article clause by clause for omissions, additions, altered negatives, names/referents, numbers, quotation scope, rhetorical questions, repetitions and scan-boundary traceability.
+T3 re-read the complete fidelity-reviewed English article against the frozen Tamil while preserving every T2 factual/source-bearing decision. The review focused on directness, sarcasm, ridicule, repeated questions/imperatives, physical imagery, exclamations and argumentative rhythm.
 
-### Fidelity-driven corrections made in T2
+### Meaning-neutral cadence corrections made in T3
 
-1. `நமது நாட்டு கணபதி` — T1 `our Ganapathi` → **`Ganapathi of our land`**, retaining the source's explicit land/country relation.
-2. `பாராள பாரத புத்ரர் வந்தால்` — T1 `once the sons of Bharat came to rule` → **`if the sons of Bharat came to rule`**, restoring the source conditional `வந்தால்`.
-3. `கணபதியின் தண்டனை தமிழ் நாட்டிற்கு முக்கியத்துவம் கொடுக்கிறது` — T1 `has a special importance for Tamil Nadu` → **`assumes importance for Tamil Nadu`**, removing the added `special`.
-4. scan-9/10 continuation `உணர்` + `வைத் தொடுவதில்லை` = `உணர்வைத் தொடுவதில்லை` — T1 `they do not even begin to feel it` → **`does not touch their sensibility`**, restoring the source's `touch` image.
-5. `மங்கு` — T1 `mangu vessels` → **`mangu`**, removing the unsupported added gloss `vessels`.
-6. `அவர்தம் ஆத்மா சாந்தி அடைக!` — T1 `May their souls attain peace!` → **`May his soul attain peace!`**, restoring the source honorific/singular construction.
-7. `மரணவஸ்தைக்காளாகும்` — T1 `are being driven into mortal peril` → **`are falling into mortal peril`**, removing an added external agent.
-8. `ஆலை` — T1 plural `factories` → **`a factory`**, restoring source number.
-9. `பெண்தெய்வ மாநாடு` — T1 `women's divine conference` → **`conference of goddesses`**, restoring the source's female-deity meaning.
-10. `“அடிப்பியோ? உங்க அப்பன் மவனே! சிங்கண்டா” என்று அடிவாங்கியபிறகு அழுகிற நகைச்சுவைப் பகுதியாக இருக்கிறது` — T2 repositioned the English comic taunt so it is explicitly what the beaten man **cries in the comic bit**, rather than leaving its quotation attachment ambiguous.
+1. Opening gallows image: `caught and destroyed between its cruel teeth` → **`caught between its cruel teeth and destroyed`**, tightening the physical sequence without changing meaning.
+2. `உலகில் எத்தனையோபேர்...` paragraph: `How many people die every day in the world.` → **`So many people die every day in the world.`**, restoring the declarative force before the rhetorical question.
+3. Flower argument: `A flower blooming and withering away are examples...` → **`A flower blooms and withers away—these are the examples...`**, removing awkward English while preserving the repeated image.
+4. `இதைத்தான் கணபதியின் உரத்தகுரலில்...` → **`This is what rings out, with fervour, in Ganapathi's loud voice.`**, a cadence-only reorder.
+5. Kamaraj sentence: `has not enough day or hour...` → **`cannot find enough days or hours...`**, retaining the source exaggeration while making the English direct.
+6. `தமிழர் வாழ்வில் ஒரு சோகத் தொடர்கதை` → **`a tragic serial in the life of the Tamils`**, replacing flat/awkward `Tamil life` without altering content.
+7. Final Dravidam crescendo: `a separated Dravidam` → **`a separate Dravidam`** and `the sense of self-respect will bloom luxuriantly` → **`self-respect will bloom and flourish`**, preserving the source's blooming image with stronger English cadence.
 
-A source-aligned full stop was also restored after the scan-9/10 `உணர்வைத் தொடுவதில்லை` sentence in English; the scan-boundary comment remains present.
+### T3 decisions retained unchanged
 
-### Seven T1 watch-items resolved
+- English title remains **Ganapathi Who Hung from the Rope**; no more forceful alternative justified changing the T2-accepted concrete title.
+- `Cry well!` remains deliberately unusual because it carries the frozen `நன்றுக அழு!` rather than normalising it.
+- `mangu`, `Mukari`, `Dravidam`, `Achariyar`, `Dravidar Kazhagam`, cultural food terms and all source names remain source-bearing.
+- `Have you hanged him!` retains the combined interrogative/exclamatory force of `தூக்குபோட்டுவிட்டீர்களா!`.
+- final `/` remains untouched for T4 formal audit.
+- no Tamil source text was changed.
 
-1. **Title:** `Ganapathi Who Hung from the Rope` is accepted at T2 as a close, concrete rendering. T3 may still assess rhetorical English cadence.
-2. **`சுதந்திர பூமியில்...` quote scope:** the frozen Tamil has an opening quotation mark without a clearly matched closing mark before `என மனத்தைத் திடப்படுத்திக்கொண்டோம்`. The English keeps a readable closed quotation. This is an explicitly documented translation-layer regularisation, not a claim that the Tamil punctuation is regular.
-3. **`மிகவும் உயர்ந்த நிலையில்...` irregular quote:** T1's contextual rendering was checked against every clause and retained; no new factual claim was found.
-4. **`மங்கு`:** unsupported `vessels` removed; source-bearing `mangu` retained without guessed identification.
-5. **`அடிப்பியோ? உங்க அப்பன் மவனே! சிங்கண்டா`:** literal colloquial wording retained and its source quotation attachment clarified. T3 is limited to cadence/voice, not source reinterpretation.
-6. **`நன்றுக அழு!`:** `Cry well!` retained because it preserves the unusual frozen source rather than silently normalising it.
-7. **Final `/`:** retained in the English article. Its formal source-anomaly handling remains a T4 audit item.
+### T3 completeness result
 
-### T2 completeness checks
+- complete article reviewed: **PASS**
+- T2 factual/fidelity decisions preserved: **PASS**
+- political/social polemic softened: **No**
+- rhetorical questions/repetition/exclamations retained: **PASS**
+- scan-boundary comments retained: **PASS**
+- unresolved T3 voice blockers: **0**
 
-- article paragraphs/clauses: **complete; no omission found**
-- added factual claims after T2 corrections: **0 identified**
-- altered negatives: **0**
-- source names/naming distinctions: **PASS**
-- scan-boundary comments scans 6–15: **PASS**
-- front matter/ads imported: **No**
-- Tamil source changed during T2: **No**
-- unresolved T2 fidelity blockers: **0**
-
-**T2 RESULT: PASS.** Article 1 is now `translation_status: fidelity-reviewed`.
+**T3 RESULT: PASS.** Article 1 is now `translation_status: voice-reviewed`.
 
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|
-| 1 | கயிற்றில் தொங்கிய கணபதி | **fidelity-reviewed** | PASS | PASS | **PASS** | — | — | — |
+| 1 | கயிற்றில் தொங்கிய கணபதி | **voice-reviewed** | PASS | PASS | PASS | **PASS** | — | — |
 
-## T3 voice-review watch-list
+## T4 audit watch-list
 
-T3 must now read the English as English while comparing against the frozen Tamil and ask whether fidelity survived without flattening Kalaignar's voice. High-value passages:
+T4 must formally audit terminology, quotation/source anomalies and source-bearing choices, especially:
 
-- the opening gallows/imperialism blood imagery;
-- `Mother Tamil` and gallows dialogue;
-- the flower/fragrance argument;
-- direct accusations against Tamil land and ministers;
-- `Cry well!` repetition;
-- Kamaraj ridicule and the colloquial `அடிப்பியோ?...` comic taunt;
-- the final separate-Dravidam argument and repeated `They can live. They are going to live.` cadence.
-
-T3 must not change factual content, Tamil readings or source-bearing terms merely to make the prose more polished.
+- final terminal `/`;
+- unmatched/irregular Tamil quotation scope around `சுதந்திர பூமியில்...`;
+- irregular quoted syntax beginning `மிகவும் உயர்ந்த நிலையில்...`;
+- source-bearing `மங்கு`;
+- `முகாரி` → `Mukari lament`;
+- `ஆச்சாரியார்` → `Achariyar` without external identity inserted in the body;
+- `நெருக்கடியில்(!)` and `தூக்குபோட்டுவிட்டீர்களா!` punctuation force;
+- cultural-food terms and source-name distinctions.
 
 ## Current translation questions
 
-- blocking T2 questions: **0**
-- T4 source-anomaly item carried forward: final terminal `/`
+- blocking T3 questions: **0**
+- T4 audit blockers known in advance: **0**
 
 ## Exact next activity
 
-Execute **T3 — Kalaignar voice review for Article 1 only**. Re-fetch the fidelity-reviewed English file and frozen Tamil authority, preserve all T2 factual decisions, and review directness, sarcasm, ridicule, rhetorical questions, repetition, imagery, exclamations and argumentative rhythm. Make only voice/cadence changes that do not alter meaning. Mark `voice-reviewed` only after the full article passes. Do not perform T4 in the same activity.
+Execute **T4 — terminology / quotation / citation / source audit for Article 1 only**. Re-fetch the voice-reviewed English article, frozen Tamil authority, lexicon and this ledger; audit terminology consistency, names/referents, cultural/source-bearing terms, quotation scope, punctuation anomalies, scan traceability and the final `/`. Make only audit-driven corrections. Mark `audited` only after the entire article passes. Do not perform T5 in the same activity.
