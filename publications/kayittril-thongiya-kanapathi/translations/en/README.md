@@ -9,11 +9,13 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 - Tamil source/fidelity prerequisite: **PASSED / FROZEN**
 - frozen Tamil article blob SHA: `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`
-- T0 source prerequisite/setup: **COMPLETE / PASSED**
-- T1 close English draft: **COMPLETE / PASSED**
+- T0 source prerequisite/setup: **COMPLETE / PASS**
+- T1 close English draft: **COMPLETE / PASS**
+- T2 bilingual fidelity review: **COMPLETE / PASS**
+- English article status: **fidelity-reviewed**
 - English drafts: **1 / 1**
-- T2 fidelity-reviewed: **0 / 1 — NEXT**
-- T3 voice-reviewed: **0 / 1**
+- T2 fidelity-reviewed: **1 / 1**
+- T3 voice-reviewed: **0 / 1 — NEXT**
 - T4 audited: **0 / 1**
 - T5 verified: **0 / 1**
 - English release: **NOT YET**
@@ -22,9 +24,9 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 | # | Tamil article | English file | Status | Gates |
 |---:|---|---|---|---|
-| 1 | கயிற்றில் தொங்கிய கணபதி | [`01-kayittril-thongiya-kanapathi.md`](01-kayittril-thongiya-kanapathi.md) | **draft** | **T0–T1 passed; T2 next** |
+| 1 | கயிற்றில் தொங்கிய கணபதி | [`01-kayittril-thongiya-kanapathi.md`](01-kayittril-thongiya-kanapathi.md) | **fidelity-reviewed** | **T0–T2 passed; T3 next** |
 
-Working T1 English title: **Ganapathi Who Hung from the Rope**.
+English title accepted through T2: **Ganapathi Who Hung from the Rope**.
 
 ## Translation authority
 
@@ -36,7 +38,15 @@ Recorded frozen blob SHA:
 
 `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`
 
-If that blob changes because a source-supported Tamil correction is made, English work must be reopened from the affected gate.
+If that blob changes because of a source-supported Tamil correction, English work must reopen from the affected gate.
+
+## T2 result
+
+The complete English article was compared clause by clause against the frozen Tamil. T2 corrected only fidelity defects, including the source conditional `வந்தால்`, scan-9/10 `உணர்வைத் தொடுவதில்லை`, source-bearing `மங்கு`, singular/honorific `அவர்தம் ஆத்மா`, singular `ஆலை`, and `பெண்தெய்வ மாநாடு` → `conference of goddesses`.
+
+No Tamil source change was made. No source paragraph is omitted after T2 review, and unresolved fidelity blockers are **0**.
+
+Full provenance and source-punctuation notes are in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md). Recurring/source-bearing decisions are in [`LEXICON.md`](LEXICON.md).
 
 ## Publication baseline
 
@@ -45,14 +55,7 @@ If that blob changes because a source-supported Tamil correction is made, Englis
 - Do not replace source labels/names with modern explanatory identities inside the body.
 - Do not silently repair source-specific or unusual Tamil before translating it.
 - Retain Tamil scan-boundary comments in English for traceability.
-- Record recurring terminology and title decisions in [`LEXICON.md`](LEXICON.md).
-- Record source anomalies, difficult translation choices and gate results in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
-
-## T1 result
-
-The entire Article 1 body has been translated paragraph by paragraph from frozen scans **6–15** and committed as a complete `draft`. Page-boundary comments are retained. No T2/T3/T4/T5 verification claim has been made.
-
-Open review items are recorded in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); none blocked T1 completion.
+- Preserve T2 fidelity decisions during T3; voice work must not alter factual meaning.
 
 ## Gate legend
 
@@ -67,4 +70,4 @@ Open review items are recorded in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.m
 
 ## Exact next activity
 
-Execute **T2 — bilingual fidelity review for Article 1 only**. Compare the complete English draft against the frozen Tamil assembly clause by clause, correct omissions/additions or source mismatches, recheck quotation scope and source-sensitive items, then mark `fidelity-reviewed` only if the full article passes. Do not advance to T3 in the same activity unless the authoritative handover has first been updated to permit it.
+Execute **T3 — Kalaignar voice review for Article 1 only**. Re-read the fidelity-reviewed English against the frozen Tamil, preserve all T2 meaning/fidelity decisions, and review directness, sarcasm, ridicule, rhetorical questions, repetitions, physical imagery, exclamations and argumentative cadence. Mark `voice-reviewed` only after the whole article passes. Do not perform T4 in the same activity.
