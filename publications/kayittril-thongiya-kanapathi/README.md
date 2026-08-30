@@ -20,92 +20,69 @@
 
 > **மூல ஸ்கேன் தான் controlling source.**
 
-Old Tamil glyph shapes, spelling, punctuation, word boundaries, names, numbers and unusual forms remain source-visible. Library stamps / handwritten marks stay outside printed text. A plausible modern word is **not** evidence.
+Existing source-verified Tamil is the baseline. Old Tamil glyphs, spelling, punctuation, word boundaries, names, numbers and unusual forms must not be changed merely because another reading looks more familiar. A change requires clear character-level source evidence. Physical-copy/library marks remain outside printed text.
 
-## P0 — source intake / publication identification — COMPLETE
+## Tamil archival gates
 
-Standalone single-article pamphlet structure confirmed directly from the supplied scan; source identity/checksum/size/scan count recorded; PDF remains outside GitHub.
+- P0 source intake / identification: **COMPLETE**
+- P1 metadata + full page map / boundaries: **COMPLETE**
+- P2 page-level transcription: **COMPLETE — 17 / 17 verified**
+- P3 article assembly: **COMPLETE — 1 / 1**
+- P4 source completeness / structure audit: **COMPLETE / PASS**
+- P5 strict visual word/punctuation fidelity: **COMPLETE — 17 / 17 PASS**
+- article strict-fidelity recheck: **COMPLETE — 1 / 1 PASS**
+- unresolved `NEEDS-PIXEL-REVIEW`: **0**
+- unresolved body/source blockers: **0**
+- **Tamil source: COMPLETE / FROZEN**
 
-## P1 — metadata + complete page map / boundary mapping — COMPLETE
+Detailed records:
 
-Page map: [`indexes/page-map.md`](indexes/page-map.md)
+- [`indexes/page-map.md`](indexes/page-map.md)
+- [`metadata/source.md`](metadata/source.md)
+- [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md)
+- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md)
+- [`articles/01-kayittril-thongiya-kanapathi.md`](articles/01-kayittril-thongiya-kanapathi.md)
 
-- scans **1–5**: front matter (`பதிப்புரை` scan 4; scan 5 blank)
+## Final physical structure
+
+- scans **1–5**: front matter; scan 4 `பதிப்புரை`; scan 5 blank
 - scan **6**: article opening; **no visible printed numeral**
-- scans **7–15**: visible printed pages **6–14**
+- scans **7–15**: printed pages **6–14**
 - scans **6–15**: single article
-- scan **15**: article conclusion
-- scans **16–17**: separate promotional / advertisement witnesses
+- scan **15**: article conclusion, ending ornament, physical-copy stamp below
+- scans **16–17**: separate advertisements / promotional witnesses
 - printed contents page: **none**
 
-The archive does **not** infer a visible page 5 for scan 6.
+The archive does not infer a visible page 5 for scan 6.
 
-## P2 — page-level transcription — COMPLETE
+## Retrospective correction provenance
 
-All **17 / 17** physical scans have verified page records under [`pages/`](pages/). Printed text and physical-copy marks are separated, page continuations are preserved, and scan 6 remains `printed_page: null`.
+A targeted recheck of earlier assistant-origin corrections found one false correction and revalidated the other two formal P2 corrections:
 
-### P2 / retrospective correction provenance
+- first pass `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டீர்களா!`** — scan 13 / printed p.12. The source line break is `தூக்குபோட்டுவிட்டீர்` + `களா!`; only the final OCR-like `1` needed correction to `!`. Earlier assistant `தூக்குபோட்டுவிட்டார்களா!` was wrong and is withdrawn.
+- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / printed p.12; source revalidated.
+- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / printed p.11; source revalidated.
 
-A targeted recheck of the earlier assistant-origin corrections found one false correction and revalidated the other two formal P2 corrections:
+Failed pre-P5 assistant changes `ஓடித்` → `ஒடித்`, `அபாண்டங்களைச்` → `அபாண்டங்களச்`, `அவளைப்` → `அவனைப்`, and `சாவின் முனையிலே` → `சாவின் முன்னிலே` were reverted and remain withdrawn.
 
-- first pass `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டீர்களா!`** — scan 13 / printed p.12. The source line break is `தூக்குபோட்டுவிட்டீர்` + `களா!`; only the final OCR-like `1` needed correction to `!`. The earlier assistant change to `தூக்குபோட்டுவிட்டார்களா!` was incorrect and has been withdrawn.
-- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / printed p.12; rechecked and retained.
-- interim assistant `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / printed p.11; rechecked and retained.
+## Frozen source-specific readings
 
-### Source-supported readings retained
+The P5 strict pass retains, among others:
 
-`உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `நேரமில்லை`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை`, `தங்கந் தோண்டுமிடமாயிற்றே!`, `நெருக்கடியில்(!)` and final `அளிக்குமாக /` remain unnormalised.
+`உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `நேரமில்லை`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை`, `தங்கந் தோண்டுமிடமாயிற்றே!`, `நெருக்கடியில்(!)`, `தூக்குபோட்டுவிட்டீர்களா!`, `கொண்டிருக்கிறார்.`, `உரத்தகுரலில்,`, `சாவின் முனையிலே`, and final `அளிக்குமாக /`.
 
-## P3 — article assembly — COMPLETE
+## P5 result
 
-Single Tamil reading assembly:
+P5 reopened all **17 physical scans** and rechecked the existing verified transcription as the baseline. No new textual correction was introduced during the final strict pass. The complete article assembly was then rechecked against scans **6–15** and passed.
 
-[`articles/01-kayittril-thongiya-kanapathi.md`](articles/01-kayittril-thongiya-kanapathi.md)
-
-- assembled strictly from verified page records for scans **6–15**;
-- page-boundary comments retained for traceability;
-- `பதிப்புரை`, cover/title/imprint/blank front matter and scans 16–17 advertisements are excluded from article body;
-- the retrospective scan-13 correction above has been propagated to the assembly.
-
-## P4 — source audit / completeness review — COMPLETE / PASS
-
-Audit record: [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md)
-
-P4 confirmed:
-
-- **17 / 17** physical scans are represented exactly once;
-- page-map and page-record file structure are complete and consistent;
-- front matter / `பதிப்புரை` / blank / article / advertisement boundaries remain correct;
-- scan 6 remains `printed_page: null`; scans 7–15 map to printed **6–14**;
-- the **1 / 1** article assembly uses scans **6–15 only** and contains page-boundary comments through scan 15;
-- front matter and advertisements are absent from the article body;
-- unresolved body/source blockers: **0**.
-
-P4 is a structural/completeness gate. It does **not** substitute for P5.
-
-## Current Tamil archival status
-
-- P0: **COMPLETE**
-- P1: **COMPLETE**
-- P2: **COMPLETE — 17 / 17 verified**
-- P3: **COMPLETE — 1 / 1 assembly**
-- P4: **COMPLETE / PASS**
-- **P5 strict word/punctuation visual-fidelity pass: NEXT — 0 / 17**
-- Tamil source freeze: **NOT YET — blocked on P5**
-- English translation: **NOT STARTED**
+**P5 RESULT: PASS — Tamil source frozen.**
 
 ## Exact next activity
 
-Execute **P5 — strict visual word/punctuation fidelity pass for all 17 physical scans in one activity**:
+Execute **T0 — English translation source prerequisite / setup** under `ESSAY_TRANSLATION_GUIDE.md`:
 
-1. re-open the controlling scan independently of the P2 confidence state;
-2. recheck every visible printed word, punctuation mark, heading, date, number and meaningful word boundary on scans **1–17**;
-3. treat the existing verified transcription as the baseline and do **not** alter it unless the source gives clear character-level evidence;
-4. recheck page-to-page continuations and scan 6's absent printed numeral;
-5. recheck physical-copy marks remain separate from printed text;
-6. recheck scans 16–17 as independent promotional witnesses;
-7. for every genuine defect found, record old repository reading → source-visible reading provenance and update the affected page record;
-8. propagate any article-body correction to `articles/01-kayittril-thongiya-kanapathi.md`;
-9. create/update `VISUAL_TEXT_FIDELITY_REVIEW.md` and the P4/P5 completion review;
-10. update dependent README/metadata/page-map/root README/HANDOVER;
-11. only after **17 / 17** strict checks and assembly recheck pass may the Tamil source be marked frozen and translation planning become eligible.
+1. record the frozen Tamil article blob SHA;
+2. create `TRANSLATION_PLAN.md`;
+3. create `translations/en/README.md`, `LEXICON.md`, and `TRANSLATION_REVIEW.md`;
+4. register Article 1 as `not-started` with the frozen Tamil assembly as translation authority;
+5. do not begin T1 body translation until T0 setup is complete.
