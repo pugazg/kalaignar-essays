@@ -34,9 +34,9 @@ If the Tamil article changes because of a genuine source-supported correction, a
 
 | # | Tamil title | English file | Status | Gates |
 |---:|---|---|---|---|
-| 1 | கயிற்றில் தொங்கிய கணபதி | [`translations/en/01-kayittril-thongiya-kanapathi.md`](translations/en/01-kayittril-thongiya-kanapathi.md) | **fidelity-reviewed** | **T0–T2 passed; T3 next** |
+| 1 | கயிற்றில் தொங்கிய கணபதி | [`translations/en/01-kayittril-thongiya-kanapathi.md`](translations/en/01-kayittril-thongiya-kanapathi.md) | **voice-reviewed** | **T0–T3 passed; T4 next** |
 
-English title accepted through T2: **Ganapathi Who Hung from the Rope**.
+English title retained through T3: **Ganapathi Who Hung from the Rope**.
 
 ## T1 — COMPLETE / PASSED
 
@@ -44,48 +44,52 @@ The complete article was translated paragraph by paragraph from scans **6–15**
 
 ## T2 — COMPLETE / PASSED
 
-T2 compared every English paragraph/clause against the frozen Tamil assembly and found no missing source passage after review. Fidelity-driven corrections included:
-
-- `நமது நாட்டு கணபதி` → `Ganapathi of our land`;
-- source conditional `வந்தால்` restored as `if ... came to rule`;
-- unsupported `special` removed from the Tamil-Nadu importance sentence;
-- scan-9/10 `உணர்வைத் தொடுவதில்லை` restored as `does not touch their sensibility`;
-- unsupported gloss `mangu vessels` reduced to source-bearing `mangu`;
-- `அவர்தம் ஆத்மா` restored to singular/honorific `his soul`;
-- added agent removed from `மரணவஸ்தைக்காளாகும்`;
-- source singular `ஆலை` restored as `a factory`;
-- `பெண்தெய்வ மாநாடு` corrected to `conference of goddesses`.
-
-T2 also resolved the seven T1 watch-items. The irregular `சுதந்திர பூமியில்...` source quotation is documented as a source-punctuation anomaly while the English keeps readable quotation closure. The final source `/` remains preserved for formal T4 audit.
+T2 compared every English paragraph/clause against the frozen Tamil assembly and corrected only fidelity defects. It restored source conditionality, number, naming/relationship details, quotation attachment, `உணர்வைத் தொடுவதில்லை`, source-bearing `மங்கு`, singular `ஆலை`, `பெண்தெய்வ மாநாடு`, and other source-alignment points. The final `/` remained untouched for T4.
 
 Detailed provenance: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
+
+## T3 — COMPLETE / PASSED
+
+T3 read the entire fidelity-reviewed English article against the Tamil for Kalaignar's voice without reopening T2 factual decisions.
+
+Meaning-neutral cadence work included:
+
+- tightening the opening cruel-teeth image;
+- restoring declarative force in `So many people die every day in the world.`;
+- repairing awkward English in the flower/fragrance argument while keeping its repetition;
+- tightening the `Ganapathi's loud voice` sentence;
+- strengthening the Kamaraj ridicule sentence without changing its claim;
+- `a tragic serial in the life of the Tamils`;
+- final `a separate Dravidam` / `self-respect will bloom and flourish` cadence.
+
+T3 retained the title, `Cry well!`, `mangu`, `Mukari`, all political/source labels, the Kamaraj comic taunt, `Have you hanged him!`, and the final `/` unchanged.
+
+**T3 RESULT: PASS — 0 unresolved voice blockers.**
 
 ## Current gate sequence
 
 - **T0 — source prerequisite / setup:** COMPLETE / PASS
 - **T1 — complete close English draft:** COMPLETE / PASS
-- **T2 — bilingual fidelity review:** **COMPLETE / PASS**
-- **T3 — Kalaignar voice review:** **NEXT**
-- **T4 — terminology / quotation / citation / source audit:** NOT STARTED
+- **T2 — bilingual fidelity review:** COMPLETE / PASS
+- **T3 — Kalaignar voice review:** **COMPLETE / PASS**
+- **T4 — terminology / quotation / citation / source audit:** **NEXT**
 - **T5 — translation verification:** NOT STARTED
 - **E6 — publication-level English consistency review:** NOT STARTED
 - **E7 — English release closeout:** NOT STARTED
 
-## T3 scope
+## T4 scope
 
-T3 must preserve all T2 factual/fidelity decisions while reviewing the English for Kalaignar's voice: directness, sarcasm, ridicule, rhetorical questions, repeated imperatives/exclamations, physical imagery and argumentative rhythm. It may improve cadence only where meaning and source-bearing choices remain unchanged.
-
-High-value voice passages include the opening gallows personification, Mother Tamil dialogue, flower/fragrance argument, `Cry well!` sequence, Kamaraj ridicule, colloquial comic taunt and the final Dravidam/self-rule crescendo.
+T4 must formally audit names/referents, recurring terminology, source-bearing/cultural terms, quotation scope, punctuation anomalies and scan traceability. High-value items include `mangu`, `Mukari`, `Achariyar`, `Dravidam`, `Dravidar Kazhagam`, food terms, the irregular `சுதந்திர பூமியில்...` quotation, `நெருக்கடியில்(!)`, `தூக்குபோட்டுவிட்டீர்களா!`, the irregular Ganapathi-letter quotation, and final `/`.
 
 ## Exact next activity
 
-Execute **T3 — Kalaignar voice review for Article 1 only**:
+Execute **T4 — terminology / quotation / citation / source audit for Article 1 only**:
 
-1. re-fetch the fidelity-reviewed English article and frozen Tamil authority;
-2. confirm the recorded Tamil blob still matches;
-3. review the complete English article for directness, sarcasm, ridicule, rhetorical questions, repetition, imagery, exclamations and cadence;
-4. preserve all T2 fidelity decisions and source-bearing terms;
-5. make only meaning-neutral voice/cadence corrections;
-6. set `translation_status: voice-reviewed` only after the complete article passes;
+1. re-fetch the voice-reviewed English article, frozen Tamil authority, lexicon and review ledger;
+2. confirm the English `source_tamil_blob_sha` still matches `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
+3. audit names, political labels, cultural/source-bearing terms and recurring terminology;
+4. audit quotation boundaries, source punctuation anomalies, scan comments and final `/`;
+5. make only audit-driven corrections;
+6. set `translation_status: audited` only after the complete article passes;
 7. update review/tracker/plan/README/HANDOVER;
-8. do **not** perform T4 in the same activity.
+8. **do not perform T5 in the same activity**.
