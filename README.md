@@ -40,7 +40,7 @@ Detailed records:
 
 Do not restart or stylistically rewrite Publication 1 unless a genuine source-supported defect is discovered.
 
-## Publication 2 — கயிற்றில் தொங்கிய கணபதி — TAMIL FROZEN / ENGLISH ARTICLE VERIFIED
+## Publication 2 — கயிற்றில் தொங்கிய கணபதி — TAMIL FROZEN / ENGLISH E6 PASSED
 
 Workspace: [`publications/kayittril-thongiya-kanapathi/`](publications/kayittril-thongiya-kanapathi/)
 
@@ -99,9 +99,11 @@ Permanent rule: **Translate the language; do not neutralise the voice.**
 - verified articles: **1 / 1**
 - English title: **Ganapathi Who Hung from the Rope**
 - unresolved article-level translation blockers: **0**
-- **E6 publication-level English consistency review: NEXT**
-- E7 English release closeout: **NOT STARTED**
-- English release: **NOT YET**
+- E6 publication-level English consistency review: **COMPLETE / PASS**
+- E6 body corrections: **0**
+- E6 blockers: **0**
+- **E7 English release closeout: NEXT**
+- English release gate: **OPEN until E7**
 
 Translation records:
 
@@ -111,10 +113,10 @@ Translation records:
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/kayittril-thongiya-kanapathi/translations/en/TRANSLATION_REVIEW.md)
 - [`translations/en/01-kayittril-thongiya-kanapathi.md`](publications/kayittril-thongiya-kanapathi/translations/en/01-kayittril-thongiya-kanapathi.md)
 
-T5 revalidated the complete T0–T4 provenance, confirmed the frozen Tamil blob is unchanged, and found no regression in fidelity, voice, terminology, source-bearing terms, quotation anomalies, scan traceability or final `/`. T5 made no English body-text change.
+E6 reviewed the verified article against the publication lexicon/metadata/review records and confirmed title, naming, ideological vocabulary, source-bearing/cultural terms, quotation anomalies, tone, scan traceability and source boundaries. It made no English body change and left no blocker.
 
 ## Current project state / exact next activity
 
-Publication 1 remains fully released/frozen. Publication 2 has frozen Tamil and a **verified 1 / 1 English article**; publication-level release gates remain open.
+Publication 1 remains fully released/frozen. Publication 2 has frozen Tamil, a verified **1 / 1** English article, and **E6 PASSED**; only release closeout remains.
 
-**Exact next activity:** execute **E6 — publication-level English consistency review** for `கயிற்றில் தொங்கிய கணபதி`. Review title style, names/epithets, ideological vocabulary, cultural/source-bearing terms, quotation handling, tone consistency and scan traceability across the verified English publication. Do not perform E7 in the same activity.
+**Exact next activity:** execute **E7 — English release closeout** for `கயிற்றில் தொங்கிய கணபதி`. Re-fetch live release-facing records, verify article/Tamil SHA relationship, links/counts/statuses/source-PDF exclusion, create the release report, and close the English release gate only if every release check passes. Do not reopen verified prose unless a genuine release blocker is found.
