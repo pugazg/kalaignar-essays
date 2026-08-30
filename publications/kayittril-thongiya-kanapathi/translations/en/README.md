@@ -1,11 +1,12 @@
 # English Translation — கயிற்றில் தொங்கிய கணபதி
 
 Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TRANSLATION_GUIDE.md)  
-Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
+Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)  
+Release report: [`RELEASE_REPORT.md`](RELEASE_REPORT.md)
 
 > **Translate the language; do not neutralise the voice.**
 
-## Current status
+## Final status
 
 - Tamil source/fidelity prerequisite: **PASSED / FROZEN**
 - frozen Tamil article blob SHA: `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`
@@ -22,8 +23,10 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T4 audited: **1 / 1**
 - T5 verified: **1 / 1**
 - E6 publication consistency review: **COMPLETE / PASS**
-- E7 release closeout: **NEXT**
-- English release: **NOT YET CLOSED**
+- E7 release closeout: **COMPLETE / PASS**
+- English translation: **COMPLETE**
+- English release gate: **CLOSED**
+- unresolved translation/release blockers: **0**
 
 ## Article tracker
 
@@ -43,32 +46,29 @@ Recorded frozen blob SHA:
 
 `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`
 
-If that blob changes because of a source-supported Tamil correction, English work must reopen from the affected gate.
-
-## T5 result
-
-T5 verified the complete T0–T4 provenance, confirmed the frozen Tamil blob is unchanged, and found no regression in fidelity, voice, terminology, source-bearing terms, quotation anomalies, scan traceability or final `/`. T5 made no English body-text change and advanced only the article metadata status to `verified`.
+If that Tamil blob ever changes because of a genuine source-supported correction, the affected English gates must reopen.
 
 ## E6 result
 
 E6 separately performed the publication-level consistency/source-bearing review required by the permanent guide. For this one-article publication it compared the verified article with the lexicon, review ledger, metadata and plan.
 
-Checks passed:
+Checks passed for title style, names/referents, ideological vocabulary, cultural/source-bearing terms, quotation/source-anomaly handling, rhetorical voice, scan comments **6–15**, source boundaries and absence of outside expansions. E6 body changes: **0**; blockers: **0**.
 
-- verified article blob reviewed: `bf01a5d6da90e8caf6c491ed43f46cbb5e9491ba`;
-- frozen Tamil authority relationship: **PASS**;
-- title style and naming consistency: **PASS**;
-- ideological vocabulary and political/source labels: **PASS**;
-- cultural/source-bearing terms: **PASS**;
-- quotation/source-anomaly handling: **PASS**;
-- rhetorical tone/voice consistency: **PASS**;
-- scan comments **6–15** and unnumbered scan 6: **PASS**;
-- source-boundary exclusion of front matter/ads: **PASS**;
-- external additions/glosses: **0**;
-- E6 English body changes: **0**;
-- E6 unresolved blockers: **0**.
+## E7 result
 
-Full provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); E6-confirmed terminology is in [`LEXICON.md`](LEXICON.md).
+E7 confirmed:
+
+- verified English article exists and remains `verified`;
+- English blob reviewed: `bf01a5d6da90e8caf6c491ed43f46cbb5e9491ba`;
+- frozen Tamil blob remains `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
+- `source_tamil_blob_sha` matches exactly;
+- all counts and gate statuses agree;
+- source/advertisement boundaries remain intact;
+- the pre-E7 recursive repository tree contains no `.pdf` file;
+- E7 English/Tamil body changes: **0**;
+- release blockers: **0**.
+
+Full release provenance: [`RELEASE_REPORT.md`](RELEASE_REPORT.md).
 
 ## Gate legend
 
@@ -81,6 +81,8 @@ Full provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); E6-confi
 - **E6** — publication-level English consistency review
 - **E7** — English release closeout
 
-## Exact next activity
+## Next activity
 
-Execute **E7 — English release closeout**. Re-fetch live `main`, verify the verified English article/frozen Tamil relationship, all release-facing links/counts/statuses and source-PDF exclusion, create the release report, and close the English release gate only after every release check passes. Do not reopen verified prose unless a genuine release blocker is found.
+This English release is frozen. Do not reopen verified prose for stylistic polishing.
+
+The next normal repository activity is **P0 intake of the next supplied Kalaignar essay/article publication**.
