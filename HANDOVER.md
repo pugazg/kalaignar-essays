@@ -192,7 +192,11 @@ For difficult forms:
 
 Library stamps and handwriting remain physical-copy marks and must never be merged into printed text.
 
-## Initial source structure observed
+## P1 metadata + complete 17-scan page map / boundary mapping — COMPLETE
+
+P1 page map: [`publications/kayittril-thongiya-kanapathi/indexes/page-map.md`](publications/kayittril-thongiya-kanapathi/indexes/page-map.md)
+
+P1 completed the full physical-page structure without making body-text verification claims:
 
 | Scan | Role | Printed-page behaviour |
 |---:|---|---|
@@ -201,18 +205,37 @@ Library stamps and handwriting remain physical-copy marks and must never be merg
 | 3 | date / price / printer | no printed number |
 | 4 | `பதிப்புரை` | no printed number |
 | 5 | blank | no printed number |
-| 6 | article opening | no visible numeral; do not invent printed `5` |
-| 7–15 | article continuation / conclusion | visible printed pages **6–14** |
-| 16 | advertisement | no printed number |
+| 6 | article opening | **no visible numeral; do not invent printed `5`** |
+| 7 | article continuation | printed page **6** |
+| 8 | article continuation | printed page **7** |
+| 9 | article continuation | printed page **8** |
+| 10 | article continuation | printed page **9** |
+| 11 | article continuation | printed page **10** |
+| 12 | article continuation | printed page **11** |
+| 13 | article continuation | printed page **12** |
+| 14 | article continuation | printed page **13** |
+| 15 | article conclusion + ending ornament | printed page **14** |
+| 16 | advertisement / other publications | no printed number |
 | 17 | advertisement / back matter | no printed number |
 
-Article body is scans **6–15** and ends at the printed ornament on scan 15. Scans 16–17 are separate promotional witnesses.
+Boundary result:
+
+- front matter: scans **1–5**;
+- `பதிப்புரை`: scan **4**;
+- blank: scan **5**;
+- article **`கயிற்றில் தொங்கிய கணபதி`**: scans **6–15**;
+- article end: printed ornament on scan **15**;
+- post-text promotional matter: scans **16–17**;
+- printed contents page: **none visible**;
+- no source-structure correction to the P0 standalone-pamphlet model was required.
+
+P1 deliberately does not equate sequence inference with source visibility: scan 6 stays `printed_page: null` even though it precedes visible printed page 6.
 
 ## Publication structure / records
 
 - publication README: [`publications/kayittril-thongiya-kanapathi/README.md`](publications/kayittril-thongiya-kanapathi/README.md)
 - metadata source record: [`publications/kayittril-thongiya-kanapathi/metadata/source.md`](publications/kayittril-thongiya-kanapathi/metadata/source.md)
-- page map: **to be created in P1**
+- page map: [`publications/kayittril-thongiya-kanapathi/indexes/page-map.md`](publications/kayittril-thongiya-kanapathi/indexes/page-map.md) — **17 / 17 mapped**
 - page records: **to begin in P2**
 - article assembly: **to begin in P3**
 - translation workspace: **not yet created**
@@ -220,10 +243,11 @@ Article body is scans **6–15** and ends at the printed ornament on scan 15. Sc
 ## Tamil archival status
 
 - P0 source intake / publication identification: **COMPLETE**
-- physical page records: **0 / 17**
+- P1 metadata + page map / boundary mapping: **COMPLETE**
+- physical page records: **0 / 17 — P2 NEXT**
 - article assemblies: **0 / 1**
 - strict visual word/punctuation pass: **0 / 17**
-- unresolved body-text blockers: **0 recorded at P0**
+- unresolved body-text blockers: **0 recorded before P2**
 - Tamil archival phase: **ACTIVE**
 
 ## English translation status
@@ -233,18 +257,22 @@ Article body is scans **6–15** and ends at the printed ornament on scan 15. Sc
 
 ## Current blockers / unresolved questions
 
-**None blocking P1.**
+**None blocking P2.**
 
 The partially obscured/crossed-out library-stamp wording on scan 2 is a physical-copy-mark issue, not a reason to reconstruct printed publication text from OCR.
 
 ## Exact next activity
 
-Execute **P1 — metadata + complete 17-scan page map / boundary mapping** for `கயிற்றில் தொங்கிய கணபதி`:
+Execute **P2 — page-level transcription for all 17 physical scans** for `கயிற்றில் தொங்கிய கணபதி` in one activity:
 
-1. create `publications/kayittril-thongiya-kanapathi/indexes/page-map.md`;
-2. classify all 17 physical scans from the controlling PDF;
-3. record visible printed-page-number behaviour without inventing a numeral for scan 6;
-4. record the `பதிப்புரை`, blank, article start/end, and advertisement boundaries;
-5. recheck/update `metadata/source.md`, publication `README.md`, root `README.md` and this `HANDOVER.md` if P1 reveals any source-structure correction;
-6. do **not** mark the Gemini OCR as verified transcription during P1;
-7. when P2 begins, use Gemini as the first-pass transcription and perform visual fidelity word by word, with special caution around old Tamil glyphs and the user-verified readings above.
+1. create one Markdown page record for each physical scan **1–17**;
+2. include cover/title/imprint/front matter, `பதிப்புரை`, blank scan, all article pages and both advertisements;
+3. use the supplied Gemini transcription as the **first-pass comparison text**, never as authority over the scan;
+4. perform direct visual comparison of every recorded word, punctuation mark, heading and meaningful word boundary against the controlling scan;
+5. preserve the user-verified old-glyph readings above unless clear source-pixel evidence proves otherwise;
+6. if a genuine OCR discrepancy is found, record first-pass reading → source-visible reading provenance rather than silently normalising;
+7. keep printed text under `# அச்சு உரை` and physical-copy marks under a separate `## அச்சு அல்லாத / physical-copy marks` layer;
+8. keep scan 6 `printed_page: null`; do not invent page 5;
+9. mark a page `verified` only after its direct visual comparison is complete;
+10. do **not** create the article assembly during P2; assembly remains P3 after all 17 page records are complete;
+11. update publication README, metadata/page-map if needed, root README and this handover at P2 closeout.
