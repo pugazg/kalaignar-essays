@@ -20,7 +20,7 @@
 - [`docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`](docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md) — புதிய publication active ஆகும்போது **அதே root `HANDOVER.md`**-ஐ update செய்வதற்கான template; இது இரண்டாவது live handover அல்ல
 - [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md) — அடுத்த controlling PDF-உடன் புதிய chat/window தொடங்க reusable prompt
 
-## முதல் publication — சக்கரவர்த்தியின் திருமகன்
+## Publication 1 — சக்கரவர்த்தியின் திருமகன் — COMPLETE / FROZEN
 
 Workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
@@ -81,8 +81,33 @@ Publication-wide source `ஆச்சாரியார்` is rendered **Achari
 
 Important source-witness boundaries remain frozen: Article 5 contents/heading variants stay distinct; Article 10 title/body phrase witnesses stay distinct; Article 14 contents/heading punctuation witnesses stay distinct; scan 83 remains a separate promotional Article 12 witness; Article 14 ends on scan 82 before the separate `விடுதலை` advertisement.
 
+## Publication 2 — கயிற்றில் தொங்கிய கணபதி — TAMIL SOURCE ACTIVE
+
+Workspace: [`publications/kayittril-thongiya-kanapathi/`](publications/kayittril-thongiya-kanapathi/)
+
+- ஆசிரியர்: **மு. கருணாநிதி**
+- source-visible publication date: **ஜூலை 1949**
+- publisher: **அறிவுப்பண்ணை**
+- publication type: **standalone single-article pamphlet / சிறுநூல்**
+- physical scans: **17**
+- source SHA-256: `927d05fb27a2545d6732acd9bf8bde04dba2d22546d171b502703a773b40f45a`
+- source PDF committed to repository: **No**
+
+### Current source status
+
+- P0 source intake / publication identification: **COMPLETE**
+- P1 metadata + complete page map / boundary mapping: **NEXT**
+- page records: **0 / 17**
+- article assemblies: **0 / 1**
+- strict visual-text-fidelity pass: **0 / 17**
+- English translation: **NOT STARTED**
+
+The user supplied a Gemini first-pass OCR transcription. It is **not authoritative**. Old Tamil glyphs, source spelling, punctuation and word boundaries must be checked directly against the scan pixels. Initial visual checks already found OCR misreads such as `அடபாபமே!` → source `அடபாவமே!`, `கவலைப்பட வில்லை.` → `கவலைப்பட்டவில்லை.`, `சோறில்லை` → `சோறில்ல`, and final `/` → `!` in `அளிக்குமாக!`.
+
+Source metadata: [`metadata/source.md`](publications/kayittril-thongiya-kanapathi/metadata/source.md).
+
 ## Current project state / exact next activity
 
-`சக்கரவர்த்தியின் திருமகன்` is **source-complete, strict-fidelity complete, English-translation complete and English-release complete**. Do not reopen its Tamil or verified English prose merely for stylistic polishing. Reopen only for a genuine source-supported defect.
+Publication 1 remains frozen. Publication 2 `கயிற்றில் தொங்கிய கணபதி` is now active after P0 source intake.
 
-**Exact next normal activity:** when the next Kalaignar essay/article source PDF is supplied, execute **P0 — source intake / publication identification** from `docs/FUTURE_WORK_GUIDELINES.md`: inspect `main`, inspect the actual scan before naming/structuring it, confirm whether prior work exists, create or continue one publication unit, and update the single root `HANDOVER.md`.
+**Exact next activity:** execute **P1 — metadata + complete 17-scan page map / boundary mapping** for Publication 2. Classify every scan, preserve the missing visible numeral on scan 6 rather than inventing printed page 5, record front matter/article/advertisement boundaries, and keep Gemini OCR strictly as a first-pass aid. The root [`HANDOVER.md`](HANDOVER.md) remains authoritative for the detailed continuation state.
