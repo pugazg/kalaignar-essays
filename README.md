@@ -66,13 +66,13 @@ Workspace: [`publications/kayittril-thongiya-kanapathi/`](publications/kayittril
 
 Source structure remains: scans 1–5 front matter, scan 4 `பதிப்புரை`, scan 5 blank, scans 6–15 article, scans 16–17 separate ads. Scan 6 has no visible printed numeral; scans 7–15 carry visible printed pages 6–14.
 
-P4 confirmed all 17 scans are represented exactly once, page-map/page-record structure is complete, the single assembly uses scans 6–15 only, front matter/advertisements are excluded, P2 correction provenance is consistent, and unresolved source/body blockers are **0**.
+P4 confirmed all 17 scans are represented exactly once, page-map/page-record structure is complete, the single assembly uses scans 6–15 only, front matter/advertisements are excluded, and unresolved source/body blockers are **0**.
 
-Important source-pixel corrections already recorded:
+Retrospective source recheck of the earlier assistant-origin corrections:
 
-- `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டார்களா!`**
-- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`**
-- `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`**
+- `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டீர்களா!`**. The earlier assistant change to `தூக்குபோட்டுவிட்டார்களா!` was wrong and has been withdrawn; only the final `1` → `!` correction is source-supported.
+- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — rechecked and retained.
+- `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — rechecked and retained.
 
 Source-supported forms such as `உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை` and final `அளிக்குமாக /` remain unnormalised.
 
@@ -83,4 +83,4 @@ Source metadata: [`metadata/source.md`](publications/kayittril-thongiya-kanapath
 
 Publication 1 remains frozen. Publication 2 has completed **P0–P4**.
 
-**Exact next activity:** execute **P5 — strict visual word/punctuation fidelity pass over all 17 physical scans in one activity**. Recheck every visible word, punctuation mark, heading, date, number, meaningful word boundary, continuation and witness boundary against the controlling scan; record and propagate every source-supported correction; create `VISUAL_TEXT_FIDELITY_REVIEW.md`; then recheck the article assembly. Do not mark Tamil frozen or begin English translation until P5 passes.
+**Exact next activity:** execute **P5 — strict visual word/punctuation fidelity pass over all 17 physical scans in one activity**. Treat the existing verified transcription as the baseline and change it only when clear source pixels prove a discrepancy. Recheck every visible word, punctuation mark, heading, date, number, meaningful word boundary, continuation and witness boundary; record and propagate every genuinely source-supported correction; create `VISUAL_TEXT_FIDELITY_REVIEW.md`; then recheck the article assembly. Do not mark Tamil frozen or begin English translation until P5 passes.
