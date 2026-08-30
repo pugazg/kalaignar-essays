@@ -92,14 +92,15 @@ Permanent rule: **Translate the language; do not neutralise the voice.**
 - T1 close English draft: **COMPLETE / PASS**
 - T2 bilingual fidelity review: **COMPLETE / PASS**
 - T3 Kalaignar voice review: **COMPLETE / PASS**
-- Article 1: **voice-reviewed**
+- T4 terminology / quotation / citation / source audit: **COMPLETE / PASS**
+- Article 1 metadata status: **voice-reviewed**
 - English drafts: **1 / 1**
 - fidelity-reviewed: **1 / 1**
 - voice-reviewed: **1 / 1**
-- English title retained through T3: **Ganapathi Who Hung from the Rope**
-- unresolved T3 voice blockers: **0**
-- **T4 terminology / quotation / citation / source audit: NEXT**
-- T5: **NOT STARTED**
+- T4 audited: **1 / 1**
+- English title retained through T4: **Ganapathi Who Hung from the Rope**
+- unresolved T4 blockers: **0**
+- **T5 final article verification: NEXT**
 - English release: **NOT YET**
 
 Translation records:
@@ -110,10 +111,10 @@ Translation records:
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/kayittril-thongiya-kanapathi/translations/en/TRANSLATION_REVIEW.md)
 - [`translations/en/01-kayittril-thongiya-kanapathi.md`](publications/kayittril-thongiya-kanapathi/translations/en/01-kayittril-thongiya-kanapathi.md)
 
-T3 changed only English cadence/voice and preserved every T2 factual/source-bearing decision and the frozen Tamil layer.
+T4 made no body-text correction. It formally audited terminology, names/referents, source-bearing/cultural terms, quotation anomalies, scan comments and the final `/`. The permanent guide has no `audited` metadata status, so the article correctly remains `voice-reviewed` until T5.
 
 ## Current project state / exact next activity
 
-Publication 1 remains fully released/frozen. Publication 2 has frozen Tamil and has completed English **T0–T3**.
+Publication 1 remains fully released/frozen. Publication 2 has frozen Tamil and has completed English **T0–T4**.
 
-**Exact next activity:** execute **T4 — terminology / quotation / citation / source audit for Article 1, `கயிற்றில் தொங்கிய கணபதி`**. Re-fetch the voice-reviewed English article, frozen Tamil authority, lexicon and review ledger; audit names/referents, terminology, cultural/source-bearing terms, quotation scope, punctuation anomalies, scan traceability and final `/`. Make only audit-driven corrections; do not advance to T5 in the same activity.
+**Exact next activity:** execute **T5 — final article translation verification for Article 1, `கயிற்றில் தொங்கிய கணபதி`**. Re-fetch the frozen Tamil authority, current English article, lexicon and review ledger; verify that all T0–T4 decisions remain intact, scan comments 6–15 and source anomalies remain correctly handled, and blockers remain zero. Only then set `translation_status: verified`. Do not perform E6 in the same activity.
