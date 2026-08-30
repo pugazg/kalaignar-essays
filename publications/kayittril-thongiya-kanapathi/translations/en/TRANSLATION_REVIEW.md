@@ -47,6 +47,9 @@ T2 compared the article clause by clause for omissions, additions, altered negat
 7. `மரணவஸ்தைக்காளாகும்` — T1 `are being driven into mortal peril` → **`are falling into mortal peril`**, removing an added external agent.
 8. `ஆலை` — T1 plural `factories` → **`a factory`**, restoring source number.
 9. `பெண்தெய்வ மாநாடு` — T1 `women's divine conference` → **`conference of goddesses`**, restoring the source's female-deity meaning.
+10. `“அடிப்பியோ? உங்க அப்பன் மவனே! சிங்கண்டா” என்று அடிவாங்கியபிறகு அழுகிற நகைச்சுவைப் பகுதியாக இருக்கிறது` — T2 repositioned the English comic taunt so it is explicitly what the beaten man **cries in the comic bit**, rather than leaving its quotation attachment ambiguous.
+
+A source-aligned full stop was also restored after the scan-9/10 `உணர்வைத் தொடுவதில்லை` sentence in English; the scan-boundary comment remains present.
 
 ### Seven T1 watch-items resolved
 
@@ -54,7 +57,7 @@ T2 compared the article clause by clause for omissions, additions, altered negat
 2. **`சுதந்திர பூமியில்...` quote scope:** the frozen Tamil has an opening quotation mark without a clearly matched closing mark before `என மனத்தைத் திடப்படுத்திக்கொண்டோம்`. The English keeps a readable closed quotation. This is an explicitly documented translation-layer regularisation, not a claim that the Tamil punctuation is regular.
 3. **`மிகவும் உயர்ந்த நிலையில்...` irregular quote:** T1's contextual rendering was checked against every clause and retained; no new factual claim was found.
 4. **`மங்கு`:** unsupported `vessels` removed; source-bearing `mangu` retained without guessed identification.
-5. **`அடிப்பியோ? உங்க அப்பன் மவனே! சிங்கண்டா`:** literal colloquial wording retained. T3 is limited to cadence/voice, not source reinterpretation.
+5. **`அடிப்பியோ? உங்க அப்பன் மவனே! சிங்கண்டா`:** literal colloquial wording retained and its source quotation attachment clarified. T3 is limited to cadence/voice, not source reinterpretation.
 6. **`நன்றுக அழு!`:** `Cry well!` retained because it preserves the unusual frozen source rather than silently normalising it.
 7. **Final `/`:** retained in the English article. Its formal source-anomaly handling remains a T4 audit item.
 
