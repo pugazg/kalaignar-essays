@@ -96,18 +96,21 @@ Workspace: [`publications/kayittril-thongiya-kanapathi/`](publications/kayittril
 ### Current source status
 
 - P0 source intake / publication identification: **COMPLETE**
-- P1 metadata + complete page map / boundary mapping: **NEXT**
-- page records: **0 / 17**
+- P1 metadata + complete page map / boundary mapping: **COMPLETE**
+- page map: [`indexes/page-map.md`](publications/kayittril-thongiya-kanapathi/indexes/page-map.md) — **17 / 17 scans mapped**
+- page records: **0 / 17 — P2 NEXT**
 - article assemblies: **0 / 1**
 - strict visual-text-fidelity pass: **0 / 17**
 - English translation: **NOT STARTED**
 
-The user supplied a Gemini first-pass OCR transcription. It is **not authoritative**, but after P0 the user manually rechecked the PDF and confirmed that the first-pass readings I had challenged were correct. The preliminary assistant-side corrections are withdrawn. In particular, forms such as `அடபாபமே!`, `கவலைப்பட வில்லை.` and `சோறில்லை` must not be changed merely because a different modern-looking reading seems more familiar. All old Tamil glyphs, source spelling, punctuation and word boundaries will be checked directly against the scan pixels during P2/P5.
+P1 confirmed scans 1–5 as front matter, scan 4 as `பதிப்புரை`, scan 5 as blank, scans 6–15 as the single article, and scans 16–17 as separate promotional matter. Scan 6 has **no visible printed numeral**; the archive does not invent printed page 5. Scans 7–15 visibly carry printed pages 6–14.
+
+The user supplied a Gemini first-pass OCR transcription. It is **not authoritative**, but after P0 the user manually rechecked the PDF and confirmed that the first-pass readings I had challenged were correct. The preliminary assistant-side corrections are withdrawn. Forms such as `அடபாபமே!`, `கவலைப்பட வில்லை.` and `சோறில்லை` must not be changed merely because a different modern-looking reading seems more familiar. All old Tamil glyphs, source spelling, punctuation and word boundaries will be checked directly against the scan pixels during P2/P5.
 
 Source metadata: [`metadata/source.md`](publications/kayittril-thongiya-kanapathi/metadata/source.md).
 
 ## Current project state / exact next activity
 
-Publication 1 remains frozen. Publication 2 `கயிற்றில் தொங்கிய கணபதி` is now active after P0 source intake.
+Publication 1 remains frozen. Publication 2 `கயிற்றில் தொங்கிய கணபதி` has completed P1.
 
-**Exact next activity:** execute **P1 — metadata + complete 17-scan page map / boundary mapping** for Publication 2. Classify every scan, preserve the missing visible numeral on scan 6 rather than inventing printed page 5, record front matter/article/advertisement boundaries, and keep Gemini OCR strictly as a first-pass aid without “correcting” old-glyph readings from contextual expectation. The root [`HANDOVER.md`](HANDOVER.md) remains authoritative for the detailed continuation state.
+**Exact next activity:** execute **P2 — page-level transcription for all 17 physical scans**. Create one page record per scan, use Gemini only as the first-pass comparison layer, visually verify the printed text against the controlling scan, preserve user-verified old-glyph readings unless the pixels clearly prove otherwise, separate physical-copy marks from printed text, and keep scan 6 `printed_page: null`. Do not assemble the article yet; that remains P3. The root [`HANDOVER.md`](HANDOVER.md) remains authoritative for the detailed continuation state.
