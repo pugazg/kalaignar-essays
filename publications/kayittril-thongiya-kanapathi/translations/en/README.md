@@ -12,11 +12,12 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T0 source prerequisite/setup: **COMPLETE / PASS**
 - T1 close English draft: **COMPLETE / PASS**
 - T2 bilingual fidelity review: **COMPLETE / PASS**
-- English article status: **fidelity-reviewed**
+- T3 Kalaignar voice review: **COMPLETE / PASS**
+- English article status: **voice-reviewed**
 - English drafts: **1 / 1**
 - T2 fidelity-reviewed: **1 / 1**
-- T3 voice-reviewed: **0 / 1 — NEXT**
-- T4 audited: **0 / 1**
+- T3 voice-reviewed: **1 / 1**
+- T4 audited: **0 / 1 — NEXT**
 - T5 verified: **0 / 1**
 - English release: **NOT YET**
 
@@ -24,9 +25,9 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 | # | Tamil article | English file | Status | Gates |
 |---:|---|---|---|---|
-| 1 | கயிற்றில் தொங்கிய கணபதி | [`01-kayittril-thongiya-kanapathi.md`](01-kayittril-thongiya-kanapathi.md) | **fidelity-reviewed** | **T0–T2 passed; T3 next** |
+| 1 | கயிற்றில் தொங்கிய கணபதி | [`01-kayittril-thongiya-kanapathi.md`](01-kayittril-thongiya-kanapathi.md) | **voice-reviewed** | **T0–T3 passed; T4 next** |
 
-English title accepted through T2: **Ganapathi Who Hung from the Rope**.
+English title retained through T3: **Ganapathi Who Hung from the Rope**.
 
 ## Translation authority
 
@@ -42,20 +43,17 @@ If that blob changes because of a source-supported Tamil correction, English wor
 
 ## T2 result
 
-The complete English article was compared clause by clause against the frozen Tamil. T2 corrected only fidelity defects, including the source conditional `வந்தால்`, scan-9/10 `உணர்வைத் தொடுவதில்லை`, source-bearing `மங்கு`, singular/honorific `அவர்தம் ஆத்மா`, singular `ஆலை`, and `பெண்தெய்வ மாநாடு` → `conference of goddesses`.
+The complete English article was compared clause by clause against the frozen Tamil and corrected only for fidelity. No Tamil source text changed; unresolved fidelity blockers are **0**.
 
-No Tamil source change was made. No source paragraph is omitted after T2 review, and unresolved fidelity blockers are **0**.
+## T3 result
 
-Full provenance and source-punctuation notes are in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md). Recurring/source-bearing decisions are in [`LEXICON.md`](LEXICON.md).
+The complete fidelity-reviewed English article was then reviewed for Kalaignar's directness, sarcasm, ridicule, rhetorical questions, repetitions, physical imagery, exclamations and argumentative rhythm. Only meaning-neutral cadence changes were made.
 
-## Publication baseline
+T3 deliberately retained source-sensitive forms and decisions including `Cry well!`, `mangu`, `Mukari`, `Achariyar`, `Dravidam`, `Dravidar Kazhagam`, `Have you hanged him!`, the Kamaraj comic taunt, scan-boundary comments and the final `/`.
 
-- Preserve Kalaignar's directness, commands, rhetorical questions, repetition, sarcasm, accusation, imagery and exclamations.
-- Do not soften political or social polemic.
-- Do not replace source labels/names with modern explanatory identities inside the body.
-- Do not silently repair source-specific or unusual Tamil before translating it.
-- Retain Tamil scan-boundary comments in English for traceability.
-- Preserve T2 fidelity decisions during T3; voice work must not alter factual meaning.
+**T3 RESULT: PASS — 0 unresolved voice blockers.**
+
+Full provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); recurring/source-bearing decisions are in [`LEXICON.md`](LEXICON.md).
 
 ## Gate legend
 
@@ -70,4 +68,4 @@ Full provenance and source-punctuation notes are in [`TRANSLATION_REVIEW.md`](TR
 
 ## Exact next activity
 
-Execute **T3 — Kalaignar voice review for Article 1 only**. Re-read the fidelity-reviewed English against the frozen Tamil, preserve all T2 meaning/fidelity decisions, and review directness, sarcasm, ridicule, rhetorical questions, repetitions, physical imagery, exclamations and argumentative cadence. Mark `voice-reviewed` only after the whole article passes. Do not perform T4 in the same activity.
+Execute **T4 — terminology / quotation / citation / source audit for Article 1 only**. Re-fetch the voice-reviewed English article, frozen Tamil authority, lexicon and review ledger; audit names/referents, political/cultural/source-bearing terms, quotation boundaries, punctuation anomalies, scan traceability and final `/`. Make only audit-driven corrections and mark `audited` only after the full article passes. Do not perform T5 in the same activity.
