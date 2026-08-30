@@ -75,13 +75,15 @@ Standalone single-article pamphlet / சிறுநூல்:
 
 Gemini is a first-pass comparison aid only. Scan pixels control every archival reading. Difficult forms require direct pixel inspection/enlargement/typeface comparison; sentence meaning cannot override the visible glyph. A plausible modern word is **not** evidence.
 
-## P2 direct-pixel correction provenance
+## P2 / retrospective correction provenance
 
-- `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டார்களா!`** — scan 13 / printed p.12.
-- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / printed p.12.
-- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / printed p.11.
+A later targeted recheck of the earlier assistant-origin corrections found that one P2 correction had changed a source-correct verb ending. The corrected provenance is:
 
-These are source-supported corrections, not normalisation.
+- first pass `தூக்குபோட்டுவிட்டீர்களா 1` → source-visible **`தூக்குபோட்டுவிட்டீர்களா!`** — scan 13 / printed p.12. The source line break shows `தூக்குபோட்டுவிட்டீர்` + `களா!`; only the OCR-like final `1` needed correction to `!`. The earlier assistant reading `தூக்குபோட்டுவிட்டார்களா!` was incorrect and has been withdrawn.
+- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / printed p.12; rechecked again against the source and retained.
+- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / printed p.11; rechecked again against the source punctuation and retained.
+
+No other earlier assistant-origin reading is to be changed merely because it appears linguistically more familiar. Existing source-verified text remains the baseline unless the scan gives clear character-level evidence otherwise.
 
 ## Source-supported readings retained
 
@@ -97,7 +99,7 @@ P4 audited the repository structure against the **17-scan** source model and cur
 - source boundaries pass: front matter 1–5, article 6–15, ads 16–17;
 - scan 6 remains `printed_page: null`; scans 7–15 map to 6–14;
 - the single article assembly contains scans 6–15 only and excludes `பதிப்புரை` and advertisements;
-- known P2 correction provenance and unusual source readings are present in the assembly;
+- known correction provenance and unusual source readings are present in the assembly;
 - unresolved article-body/source blockers: **0**.
 
 Detailed record: [`../PUBLICATION_COMPLETION_REVIEW.md`](../PUBLICATION_COMPLETION_REVIEW.md).
