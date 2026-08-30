@@ -15,18 +15,20 @@
 - P2 page-level transcription: **COMPLETE — 17 / 17 verified**
 - P3 article assembly: **COMPLETE — 1 / 1**
 - P4 source audit / completeness review: **COMPLETE / PASS**
-- P5 strict visual text-fidelity pass: **NEXT — 0 / 17**
+- P5 strict visual text-fidelity pass: **COMPLETE — 17 / 17 PASS**
+- Tamil source: **COMPLETE / FROZEN**
 
 Page map: [`../indexes/page-map.md`](../indexes/page-map.md)  
 Article assembly: [`../articles/01-kayittril-thongiya-kanapathi.md`](../articles/01-kayittril-thongiya-kanapathi.md)  
-P4 audit: [`../PUBLICATION_COMPLETION_REVIEW.md`](../PUBLICATION_COMPLETION_REVIEW.md)
+Completion audit: [`../PUBLICATION_COMPLETION_REVIEW.md`](../PUBLICATION_COMPLETION_REVIEW.md)  
+Strict fidelity review: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md)
 
 ## Title / authorship witnesses
 
 - scan 1 cover: title `கயிற்றில் தொங்கிய கணபதி`; author `மு.கருணாநிதி`
 - scan 2 title page: title `கயிற்றில் தொங்கிய கணபதி`; author `மு. கருணாநிதி`, followed by `எழுதியது`
 
-The spacing difference in the author's initials is source-visible and remains witness-specific.
+The spacing difference in the author's initials is source-visible and witness-specific.
 
 ## Publication details
 
@@ -73,41 +75,38 @@ Standalone single-article pamphlet / சிறுநூல்:
 
 ## OCR / old-glyph policy
 
-Gemini is a first-pass comparison aid only. Scan pixels control every archival reading. Difficult forms require direct pixel inspection/enlargement/typeface comparison; sentence meaning cannot override the visible glyph. A plausible modern word is **not** evidence.
+Gemini is a first-pass comparison aid only. Scan pixels control every archival reading. Existing source-verified text is the baseline. Difficult old glyphs require direct pixel inspection/enlargement/typeface comparison; sentence meaning or a familiar modern form cannot override the visible source.
 
-## P2 / retrospective correction provenance
+## Retrospective correction provenance
 
-A later targeted recheck of the earlier assistant-origin corrections found that one P2 correction had changed a source-correct verb ending. The corrected provenance is:
+The earlier assistant-origin correction set was explicitly re-audited before P5:
 
-- first pass `தூக்குபோட்டுவிட்டீர்களா 1` → source-visible **`தூக்குபோட்டுவிட்டீர்களா!`** — scan 13 / printed p.12. The source line break shows `தூக்குபோட்டுவிட்டீர்` + `களா!`; only the OCR-like final `1` needed correction to `!`. The earlier assistant reading `தூக்குபோட்டுவிட்டார்களா!` was incorrect and has been withdrawn.
-- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / printed p.12; rechecked again against the source and retained.
-- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / printed p.11; rechecked again against the source punctuation and retained.
+- first pass `தூக்குபோட்டுவிட்டீர்களா 1` → source-visible **`தூக்குபோட்டுவிட்டீர்களா!`** — scan 13 / printed p.12. The source line break is `தூக்குபோட்டுவிட்டீர்` + `களா!`; only `1` → `!` is a genuine correction. Earlier assistant `தூக்குபோட்டுவிட்டார்களா!` was wrong and is withdrawn.
+- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / printed p.12; source revalidated.
+- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / printed p.11; source revalidated.
 
-No other earlier assistant-origin reading is to be changed merely because it appears linguistically more familiar. Existing source-verified text remains the baseline unless the scan gives clear character-level evidence otherwise.
+Failed pre-P5 assistant changes `ஓடித்` → `ஒடித்`, `அபாண்டங்களைச்` → `அபாண்டங்களச்`, `அவளைப்` → `அவனைப்`, and `சாவின் முனையிலே` → `சாவின் முன்னிலே` were reverted and remain withdrawn.
 
-## Source-supported readings retained
+## Frozen source-supported readings
 
-`உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `நேரமில்லை`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை`, `தங்கந் தோண்டுமிடமாயிற்றே!`, `நெருக்கடியில்(!)` and final `அளிக்குமாக /` remain preserved.
+`உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `நேரமில்லை`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை`, `தங்கந் தோண்டுமிடமாயிற்றே!`, `நெருக்கடியில்(!)`, `தூக்குபோட்டுவிட்டீர்களா!`, `கொண்டிருக்கிறார்.`, `உரத்தகுரலில்,`, `சாவின் முனையிலே`, and final `அளிக்குமாக /` remain preserved.
 
-## P4 completion result
+## P4 / P5 completion result
 
-P4 audited the repository structure against the **17-scan** source model and current verified page/assembly layer:
+P4 confirmed structural completeness and correct source boundaries. P5 then reopened all **17 scans**, rechecked every page against the existing verified baseline, and strict-rechecked the **1 / 1** article assembly.
 
-- exactly **17** page records exist for scans 1–17;
-- no scan record is missing or duplicated;
-- page-map ↔ page-record file mapping passes;
-- source boundaries pass: front matter 1–5, article 6–15, ads 16–17;
-- scan 6 remains `printed_page: null`; scans 7–15 map to 6–14;
-- the single article assembly contains scans 6–15 only and excludes `பதிப்புரை` and advertisements;
-- known correction provenance and unusual source readings are present in the assembly;
-- unresolved article-body/source blockers: **0**.
+- P5 scans: **17 / 17 PASS**
+- article strict recheck: **1 / 1 PASS**
+- new P5 text corrections: **0**
+- outstanding `NEEDS-PIXEL-REVIEW`: **0**
+- unresolved article-body/source blockers: **0**
 
-Detailed record: [`../PUBLICATION_COMPLETION_REVIEW.md`](../PUBLICATION_COMPLETION_REVIEW.md).
+**Tamil source layer: COMPLETE / FROZEN.**
 
 ## Exact next gate
 
-**P5 — strict visual word/punctuation fidelity pass over all 17 scans.** P5 must independently recheck every visible word, punctuation mark, heading, number, meaningful spacing, continuation and witness boundary, record any correction provenance, propagate body corrections to the assembly, and produce `VISUAL_TEXT_FIDELITY_REVIEW.md`. Tamil source freeze and English translation remain blocked until P5 passes.
+**T0 — English translation source prerequisite / setup.** Record the frozen Tamil article blob SHA and create the publication translation plan, English tracker, lexicon and review ledger under `ESSAY_TRANSLATION_GUIDE.md`. T1 body translation begins only after T0 setup closes.
 
 ## Source authority rule
 
-No OCR transcription, later edition, web text, remembered wording, modern spelling expectation or contextual reconstruction may silently replace what is visibly printed in this supplied edition. The source PDF remains outside the repository.
+No OCR transcription, later edition, web text, remembered wording, modern spelling expectation or contextual reconstruction may silently replace what is visibly printed in this supplied edition. Any future Tamil correction requires explicit source evidence and must reopen affected downstream translation work.
