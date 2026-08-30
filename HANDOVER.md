@@ -204,7 +204,7 @@ All **17 physical scans** were reopened for a fresh strict pass using the verifi
 
 **P5 RESULT: PASS. Tamil source is frozen.**
 
-## English translation state — T0–T2 COMPLETE
+## English translation state — T0–T3 COMPLETE
 
 Translation prerequisite: **SATISFIED**.
 
@@ -226,47 +226,47 @@ Current English state:
 - T0 source prerequisite / setup: **COMPLETE / PASS**
 - T1 complete close English draft: **COMPLETE / PASS**
 - T2 bilingual fidelity review: **COMPLETE / PASS**
-- Article 1 translation status: **fidelity-reviewed**
+- T3 Kalaignar voice review: **COMPLETE / PASS**
+- Article 1 translation status: **voice-reviewed**
 - English drafts: **1 / 1**
 - fidelity-reviewed: **1 / 1**
-- English title accepted through T2: **Ganapathi Who Hung from the Rope**
-- unresolved T2 fidelity blockers: **0**
-- T3 voice review: **NEXT**
-- T4 terminology/quotation/source audit: **NOT STARTED**
+- voice-reviewed: **1 / 1**
+- English title retained through T3: **Ganapathi Who Hung from the Rope**
+- unresolved T3 voice blockers: **0**
+- T4 terminology/quotation/citation/source audit: **NEXT**
 - T5 verification: **NOT STARTED**
 - English release: **NOT YET**
 
 Permanent rule: **Translate the language; do not neutralise the voice.**
 
-### T2 fidelity corrections / decisions carried forward
+### T3 voice review result
 
-T2 corrected only English-layer fidelity defects and made **no Tamil source change**. Key corrections include:
+T3 preserved every T2 factual/source-bearing decision and made only meaning-neutral cadence corrections. The high-value changes were:
 
-- `நமது நாட்டு கணபதி` → `Ganapathi of our land`;
-- `பாராள பாரத புத்ரர் வந்தால்` → `if the sons of Bharat came to rule`;
-- scan-9/10 `உணர்வைத் தொடுவதில்லை` → `does not touch their sensibility`;
-- `மங்கு` retained as source-bearing `mangu`, with unsupported T1 `vessels` removed;
-- `அவர்தம் ஆத்மா சாந்தி அடைக!` → `May his soul attain peace!`;
-- `மரணவஸ்தைக்காளாகும்` translated without the T1-added external agent;
-- source singular `ஆலை` → `a factory`;
-- `பெண்தெய்வ மாநாடு` → `conference of goddesses`.
+- tightening `caught between its cruel teeth and destroyed` in the opening gallows image;
+- `So many people die every day in the world.` before the rhetorical question;
+- repairing awkward grammar in the flower/fragrance argument while retaining the repeated image;
+- `This is what rings out, with fervour, in Ganapathi's loud voice.`;
+- strengthening the Kamaraj sentence to `cannot find enough days or hours...` without changing its claim;
+- `a tragic serial in the life of the Tamils`;
+- final `a separate Dravidam` and `self-respect will bloom and flourish` cadence.
 
-The seven T1 watch-items are resolved for T2. The source's irregular `சுதந்திர பூமியில்...` quotation punctuation is documented while the English retains readable quotation closure. The final source `/` remains preserved and is carried to T4 for formal source-anomaly audit.
+The title, `Cry well!`, `mangu`, `Mukari`, `Achariyar`, `Dravidam`, `Dravidar Kazhagam`, cultural terms, the Kamaraj comic taunt, `Have you hanged him!`, source quotation notes and final `/` remain unchanged for T4 audit.
 
-Detailed T2 provenance is in `translations/en/TRANSLATION_REVIEW.md` and `translations/en/LEXICON.md`.
+Detailed provenance: `translations/en/TRANSLATION_REVIEW.md` and `translations/en/LEXICON.md`.
 
 ## Exact next activity
 
-Execute **T3 — Kalaignar voice review for Article 1 only**:
+Execute **T4 — terminology / quotation / citation / source audit for Article 1 only**:
 
-1. re-fetch live `main`, the frozen Tamil article and fidelity-reviewed English article;
+1. re-fetch live `main`, the frozen Tamil article, voice-reviewed English article, lexicon and review ledger;
 2. confirm the English `source_tamil_blob_sha` still matches `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
-3. preserve all T2 factual, source-bearing and terminology decisions;
-4. read the English as English while comparing against Tamil for directness, sarcasm, ridicule, rhetorical questions, repetition, exclamations, physical imagery and argumentative rhythm;
-5. make only meaning-neutral voice/cadence corrections;
-6. set Article 1 to `voice-reviewed` only after the complete article passes;
-7. update tracker/plan/README/HANDOVER to show T3 complete and T4 next;
-8. **do not perform T4 in the same activity**.
+3. audit names/referents, political labels, recurring terminology, cultural/source-bearing terms and source-specific spellings;
+4. audit quotation scope, punctuation anomalies, scan-boundary comments and the final `/`;
+5. make only audit-driven corrections;
+6. set Article 1 to `audited` only after the complete audit passes;
+7. update tracker/plan/README/HANDOVER to show T4 complete and T5 next;
+8. **do not perform T5 in the same activity**.
 
 ## Current blockers
 
