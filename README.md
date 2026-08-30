@@ -91,13 +91,15 @@ Permanent rule: **Translate the language; do not neutralise the voice.**
 - T0 source prerequisite / setup: **COMPLETE / PASS**
 - T1 close English draft: **COMPLETE / PASS**
 - T2 bilingual fidelity review: **COMPLETE / PASS**
-- Article 1: **fidelity-reviewed**
+- T3 Kalaignar voice review: **COMPLETE / PASS**
+- Article 1: **voice-reviewed**
 - English drafts: **1 / 1**
 - fidelity-reviewed: **1 / 1**
-- English title accepted through T2: **Ganapathi Who Hung from the Rope**
-- unresolved T2 fidelity blockers: **0**
-- **T3 Kalaignar voice review: NEXT**
-- T4–T5: **NOT STARTED**
+- voice-reviewed: **1 / 1**
+- English title retained through T3: **Ganapathi Who Hung from the Rope**
+- unresolved T3 voice blockers: **0**
+- **T4 terminology / quotation / citation / source audit: NEXT**
+- T5: **NOT STARTED**
 - English release: **NOT YET**
 
 Translation records:
@@ -108,10 +110,10 @@ Translation records:
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/kayittril-thongiya-kanapathi/translations/en/TRANSLATION_REVIEW.md)
 - [`translations/en/01-kayittril-thongiya-kanapathi.md`](publications/kayittril-thongiya-kanapathi/translations/en/01-kayittril-thongiya-kanapathi.md)
 
-T2 corrected only English fidelity defects; no frozen Tamil reading changed.
+T3 changed only English cadence/voice and preserved every T2 factual/source-bearing decision and the frozen Tamil layer.
 
 ## Current project state / exact next activity
 
-Publication 1 remains fully released/frozen. Publication 2 has frozen Tamil and has completed English **T0–T2**.
+Publication 1 remains fully released/frozen. Publication 2 has frozen Tamil and has completed English **T0–T3**.
 
-**Exact next activity:** execute **T3 — Kalaignar voice review for Article 1, `கயிற்றில் தொங்கிய கணபதி`**. Re-fetch the frozen Tamil assembly and fidelity-reviewed English article, preserve every T2 fidelity decision, and review directness, sarcasm, ridicule, rhetorical questions, repetition, exclamations, physical imagery and argumentative rhythm. Make only meaning-neutral cadence changes; do not advance to T4 in the same activity.
+**Exact next activity:** execute **T4 — terminology / quotation / citation / source audit for Article 1, `கயிற்றில் தொங்கிய கணபதி`**. Re-fetch the voice-reviewed English article, frozen Tamil authority, lexicon and review ledger; audit names/referents, terminology, cultural/source-bearing terms, quotation scope, punctuation anomalies, scan traceability and final `/`. Make only audit-driven corrections; do not advance to T5 in the same activity.
