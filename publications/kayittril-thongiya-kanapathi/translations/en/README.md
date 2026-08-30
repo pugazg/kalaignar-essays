@@ -21,9 +21,9 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T3 voice-reviewed: **1 / 1**
 - T4 audited: **1 / 1**
 - T5 verified: **1 / 1**
-- E6 publication consistency review: **NEXT**
-- E7 release closeout: **NOT STARTED**
-- English release: **NOT YET**
+- E6 publication consistency review: **COMPLETE / PASS**
+- E7 release closeout: **NEXT**
+- English release: **NOT YET CLOSED**
 
 ## Article tracker
 
@@ -47,23 +47,28 @@ If that blob changes because of a source-supported Tamil correction, English wor
 
 ## T5 result
 
-T5 re-fetched the frozen Tamil authority, current English article, lexicon and review ledger and verified the complete T0–T4 provenance against the current repository state.
+T5 verified the complete T0–T4 provenance, confirmed the frozen Tamil blob is unchanged, and found no regression in fidelity, voice, terminology, source-bearing terms, quotation anomalies, scan traceability or final `/`. T5 made no English body-text change and advanced only the article metadata status to `verified`.
+
+## E6 result
+
+E6 separately performed the publication-level consistency/source-bearing review required by the permanent guide. For this one-article publication it compared the verified article with the lexicon, review ledger, metadata and plan.
 
 Checks passed:
 
-- frozen Tamil blob unchanged and correctly referenced;
-- all T2 fidelity corrections still present;
-- all T3 voice decisions remain meaning-neutral;
-- all T4 terminology/source-bearing choices remain consistent;
-- scan-boundary comments **6–15** remain present and ordered;
-- scan 6 remains explicitly unnumbered;
-- irregular quotation/source anomalies remain documented rather than silently normalised;
-- `in this crisis(!)`, `Have you hanged him!` and final `/` remain intact;
-- unresolved article-level translation blockers: **0**.
+- verified article blob reviewed: `bf01a5d6da90e8caf6c491ed43f46cbb5e9491ba`;
+- frozen Tamil authority relationship: **PASS**;
+- title style and naming consistency: **PASS**;
+- ideological vocabulary and political/source labels: **PASS**;
+- cultural/source-bearing terms: **PASS**;
+- quotation/source-anomaly handling: **PASS**;
+- rhetorical tone/voice consistency: **PASS**;
+- scan comments **6–15** and unnumbered scan 6: **PASS**;
+- source-boundary exclusion of front matter/ads: **PASS**;
+- external additions/glosses: **0**;
+- E6 English body changes: **0**;
+- E6 unresolved blockers: **0**.
 
-T5 made **no English body-text change**. It advanced only the article metadata status from `voice-reviewed` to `verified`.
-
-Full provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); recurring/source-bearing decisions are in [`LEXICON.md`](LEXICON.md).
+Full provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); E6-confirmed terminology is in [`LEXICON.md`](LEXICON.md).
 
 ## Gate legend
 
@@ -78,4 +83,4 @@ Full provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); recurrin
 
 ## Exact next activity
 
-Execute **E6 — publication-level English consistency review** for this one-article publication. Re-fetch the verified article, frozen Tamil authority, lexicon, review ledger and translation plan; review title style, names/epithets, ideological vocabulary, cultural/source-bearing terms, quotation handling, tone consistency and scan traceability. Do not perform E7 in the same activity.
+Execute **E7 — English release closeout**. Re-fetch live `main`, verify the verified English article/frozen Tamil relationship, all release-facing links/counts/statuses and source-PDF exclusion, create the release report, and close the English release gate only after every release check passes. Do not reopen verified prose unless a genuine release blocker is found.
