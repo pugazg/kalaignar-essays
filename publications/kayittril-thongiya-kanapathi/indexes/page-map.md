@@ -57,9 +57,11 @@ Article assembly: [`../articles/01-kayittril-thongiya-kanapathi.md`](../articles
 
 ## Correction provenance relevant to page/assembly consistency
 
-- `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டார்களா!`** — scan 13 / p.12
-- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / p.12
-- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / p.11
+A retrospective recheck corrected one earlier assistant-origin mistake:
+
+- first pass `தூக்குபோட்டுவிட்டீர்களா 1` → source **`தூக்குபோட்டுவிட்டீர்களா!`** — scan 13 / p.12. The source line break is `தூக்குபோட்டுவிட்டீர்` + `களா!`; only `1` → `!` is a correction. Earlier assistant `தூக்குபோட்டுவிட்டார்களா!` is withdrawn.
+- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / p.12; rechecked and retained.
+- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / p.11; rechecked and retained.
 
 ## P4 audit result
 
@@ -71,7 +73,6 @@ P4 confirmed:
 - scan 6 stays unnumbered and scans 7–15 preserve visible 6–14;
 - article assembly uses scans 6–15 only;
 - front matter and scans 16–17 are excluded from the article;
-- known corrections and source-specific readings propagate to the assembly;
 - unresolved body/source blockers: **0**.
 
 Audit: [`../PUBLICATION_COMPLETION_REVIEW.md`](../PUBLICATION_COMPLETION_REVIEW.md).
@@ -85,4 +86,4 @@ Audit: [`../PUBLICATION_COMPLETION_REVIEW.md`](../PUBLICATION_COMPLETION_REVIEW.
 - P4: **COMPLETE / PASS**
 - **P5 strict visual fidelity: NEXT — 0 / 17**
 
-P5 remains a separate fresh every-word/every-punctuation scan re-audit.
+P5 remains a separate fresh every-word/every-punctuation scan re-audit. Existing verified text is the baseline and must not be changed without clear source-pixel evidence.
