@@ -13,21 +13,22 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T1 close English draft: **COMPLETE / PASS**
 - T2 bilingual fidelity review: **COMPLETE / PASS**
 - T3 Kalaignar voice review: **COMPLETE / PASS**
-- English article status: **voice-reviewed**
+- T4 terminology / quotation / citation / source audit: **COMPLETE / PASS**
+- English article metadata status: **voice-reviewed**
 - English drafts: **1 / 1**
 - T2 fidelity-reviewed: **1 / 1**
 - T3 voice-reviewed: **1 / 1**
-- T4 audited: **0 / 1 — NEXT**
-- T5 verified: **0 / 1**
+- T4 audited: **1 / 1**
+- T5 verified: **0 / 1 — NEXT**
 - English release: **NOT YET**
 
 ## Article tracker
 
 | # | Tamil article | English file | Status | Gates |
 |---:|---|---|---|---|
-| 1 | கயிற்றில் தொங்கிய கணபதி | [`01-kayittril-thongiya-kanapathi.md`](01-kayittril-thongiya-kanapathi.md) | **voice-reviewed** | **T0–T3 passed; T4 next** |
+| 1 | கயிற்றில் தொங்கிய கணபதி | [`01-kayittril-thongiya-kanapathi.md`](01-kayittril-thongiya-kanapathi.md) | **voice-reviewed** | **T0–T4 passed; T5 next** |
 
-English title retained through T3: **Ganapathi Who Hung from the Rope**.
+English title retained through T4: **Ganapathi Who Hung from the Rope**.
 
 ## Translation authority
 
@@ -47,13 +48,32 @@ The complete English article was compared clause by clause against the frozen Ta
 
 ## T3 result
 
-The complete fidelity-reviewed English article was then reviewed for Kalaignar's directness, sarcasm, ridicule, rhetorical questions, repetitions, physical imagery, exclamations and argumentative rhythm. Only meaning-neutral cadence changes were made.
+The complete fidelity-reviewed English article was reviewed for Kalaignar's directness, sarcasm, ridicule, rhetorical questions, repetitions, physical imagery, exclamations and argumentative rhythm. Only meaning-neutral cadence changes were made.
 
-T3 deliberately retained source-sensitive forms and decisions including `Cry well!`, `mangu`, `Mukari`, `Achariyar`, `Dravidam`, `Dravidar Kazhagam`, `Have you hanged him!`, the Kamaraj comic taunt, scan-boundary comments and the final `/`.
+## T4 result
 
-**T3 RESULT: PASS — 0 unresolved voice blockers.**
+The voice-reviewed article was formally audited for:
 
-Full provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); recurring/source-bearing decisions are in [`LEXICON.md`](LEXICON.md).
+- proper names and referents;
+- political/source labels;
+- recurring terminology;
+- cultural and unexplained source-bearing terms;
+- quotation scope and irregular source syntax;
+- meaningful punctuation anomalies;
+- scan-boundary traceability;
+- final source `/`.
+
+T4 confirmed consistent handling of `Dravidam`, `Dravidians`, `Mother Tamil`, `Commonwealth`, `Achariyar`, `Dravidar Kazhagam`, `mangu`, `Mukari`, cultural food terms, source `Jawahar` versus `Nehru`, `in this crisis(!)`, `Have you hanged him!`, and the final `/`.
+
+The irregular Tamil quotation beginning `சுதந்திர பூமியில்...` remains documented while English uses readable closure. The irregular Ganapathi-letter quotation remains source-bearing and was not externally repaired. All scan comments **6–15** remain present in order.
+
+English body changes during T4: **0**. Unresolved T4 blockers: **0**.
+
+### Article-status note
+
+The permanent guide does not define an `audited` article metadata status. Therefore the article correctly remains `translation_status: voice-reviewed` after T4; the tracker records **T4 PASS**. T5 is the gate that may set `translation_status: verified`.
+
+Full provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); audited recurring/source-bearing decisions are in [`LEXICON.md`](LEXICON.md).
 
 ## Gate legend
 
@@ -68,4 +88,4 @@ Full provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); recurrin
 
 ## Exact next activity
 
-Execute **T4 — terminology / quotation / citation / source audit for Article 1 only**. Re-fetch the voice-reviewed English article, frozen Tamil authority, lexicon and review ledger; audit names/referents, political/cultural/source-bearing terms, quotation boundaries, punctuation anomalies, scan traceability and final `/`. Make only audit-driven corrections and mark `audited` only after the full article passes. Do not perform T5 in the same activity.
+Execute **T5 — final article translation verification for Article 1 only**. Re-fetch live `main`, the frozen Tamil authority, current English article, lexicon and review ledger; verify that all T0–T4 decisions remain intact and that there are no blockers. Only after the complete check passes may the article become `translation_status: verified`. Do not perform E6 in the same activity.
