@@ -49,7 +49,7 @@ This is a **standalone single-article pamphlet / சிறுநூல்**, not
 - article body/conclusion: scans **6–15**
 - separate advertisements / promotional matter: scans **16–17**
 
-The body ends on scan 15 at the printed ornament after the source-visible final sentence ending **`அளிக்குமாக!`**. Material on scans 16–17 is not article body.
+The body ends on scan 15 at the printed ornament after the final `கணபதியின் கொலை...` sentence. Material on scans 16–17 is not article body.
 
 ## Printed-page numbering behaviour
 
@@ -78,7 +78,7 @@ The body ends on scan 15 at the printed ornament after the source-visible final 
 
 ## OCR / old-glyph policy for this source
 
-The user supplied a Gemini word-for-word first-pass OCR transcription. It is useful only as a **first-pass comparison layer**.
+The user supplied a Gemini word-for-word first-pass OCR transcription. It is useful as the **first-pass comparison layer**, but the controlling source remains the scan.
 
 The controlling rule is pixel-first:
 
@@ -86,21 +86,23 @@ The controlling rule is pixel-first:
 2. enlarge difficult glyphs before deciding;
 3. compare old letterforms with nearby occurrences in the same typeface;
 4. preserve source spelling/punctuation even when unusual;
-5. never use sentence meaning to silently supply a modern form;
-6. record every correction from OCR reading → source-visible reading during visual review.
+5. never use sentence meaning or a familiar modern form to silently replace an old-glyph reading;
+6. record only source-supported OCR reading → source-visible reading changes during visual review.
 
-Initial direct pixel checks have already identified OCR differences that require source forms to prevail, including:
+### User-verified retraction of preliminary assistant corrections
 
-- `உரைந்திருக்கும்` → **`உறைந்திருக்கும்`**
-- `அடபாபமே!` → **`அடபாவமே!`**
-- `கவலைப்பட வில்லை.` → **`கவலைப்பட்டவில்லை.`**
-- modern-looking `நேரமில்லை` → source-visible **`நேரமில்ல`**
-- modern-looking `சோறில்லை` → source-visible **`சோறில்ல`**
-- OCR numeral-like punctuation in `தூக்குபோட்டுவிட்டீர்களா 1` → source-visible **`தூக்குபோட்டுவிட்டீர்களா!`**
-- `கொண்டிருக்கின்றார்.` → source-visible **`கொண்டிருக்கிறார்.`**
-- final OCR slash after `அளிக்குமாக` → source-visible **`அளிக்குமாக!`**
+After P0, the user checked the PDF and confirmed that the Gemini readings I had challenged were correct. The earlier preliminary assistant-side correction list is **retracted**. The following first-pass forms must therefore be retained as the working readings and must not be changed merely because another form looks more familiar:
 
-These examples remain subject to the publication's later formal correction ledger / P5 recheck; they must not be normalised away in P2.
+- **`உரைந்திருக்கும்`**
+- **`அடபாபமே!`**
+- **`கவலைப்பட வில்லை.`**
+- **`நேரமில்லை`**
+- **`சோறில்லை`**
+- **`தூக்குபோட்டுவிட்டீர்களா 1`**
+- **`கொண்டிருக்கின்றார்.`**
+- final **`அளிக்குமாக /`**
+
+These readings will still be included in the normal word-by-word P2/P5 visual pass, but there is no standing correction against them. Any future change requires clear source-pixel evidence and must be provenance-recorded.
 
 ## Source authority rule
 
