@@ -40,7 +40,7 @@ Detailed records:
 
 Do not restart or stylistically rewrite Publication 1 unless a genuine source-supported defect is discovered.
 
-## Publication 2 — கயிற்றில் தொங்கிய கணபதி — TAMIL COMPLETE / FROZEN
+## Publication 2 — கயிற்றில் தொங்கிய கணபதி — TAMIL FROZEN / ENGLISH ACTIVE
 
 Workspace: [`publications/kayittril-thongiya-kanapathi/`](publications/kayittril-thongiya-kanapathi/)
 
@@ -64,9 +64,8 @@ Workspace: [`publications/kayittril-thongiya-kanapathi/`](publications/kayittril
 - outstanding `NEEDS-PIXEL-REVIEW`: **0**
 - unresolved source/body blockers: **0**
 - **Tamil source: COMPLETE / FROZEN**
-- English translation: **NOT STARTED — T0 NEXT**
 
-Detailed records:
+Detailed source records:
 
 - [`PUBLICATION_COMPLETION_REVIEW.md`](publications/kayittril-thongiya-kanapathi/PUBLICATION_COMPLETION_REVIEW.md)
 - [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/kayittril-thongiya-kanapathi/VISUAL_TEXT_FIDELITY_REVIEW.md)
@@ -84,8 +83,26 @@ Retrospective correction record:
 
 Source-supported forms including `உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை`, `சாவின் முனையிலே` and final `அளிக்குமாக /` are frozen against contextual modernisation.
 
+### English translation status
+
+Permanent rule: **Translate the language; do not neutralise the voice.**
+
+- T0 source prerequisite / setup: **COMPLETE / PASS**
+- frozen Tamil translation authority blob: `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`
+- Article 1: **not-started**
+- English drafts: **0 / 1**
+- T1 close draft: **NEXT**
+- T2–T5: **NOT STARTED**
+
+Translation records:
+
+- [`TRANSLATION_PLAN.md`](publications/kayittril-thongiya-kanapathi/TRANSLATION_PLAN.md)
+- [`translations/en/README.md`](publications/kayittril-thongiya-kanapathi/translations/en/README.md)
+- [`translations/en/LEXICON.md`](publications/kayittril-thongiya-kanapathi/translations/en/LEXICON.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](publications/kayittril-thongiya-kanapathi/translations/en/TRANSLATION_REVIEW.md)
+
 ## Current project state / exact next activity
 
-Both publications now have frozen Tamil source layers. Publication 1 also has a released English translation. Publication 2 is translation-eligible.
+Both publications have frozen Tamil source layers. Publication 1 also has a released English translation. Publication 2 has completed **T0** and is ready for drafting.
 
-**Exact next activity:** execute **T0 — English translation source prerequisite / setup** for `கயிற்றில் தொங்கிய கணபதி`: record the frozen Tamil assembly blob SHA and create the publication `TRANSLATION_PLAN.md`, English tracker, lexicon and translation review ledger. Do not begin T1 body translation until T0 setup is complete.
+**Exact next activity:** execute **T1 — complete close English draft for Article 1, `கயிற்றில் தொங்கிய கணபதி`**. Re-fetch the frozen Tamil assembly and confirm blob SHA `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`, then translate the complete article paragraph by paragraph into `translations/en/01-kayittril-thongiya-kanapathi.md`. Preserve scan-boundary traceability, quotations, repetition, rhetorical questions, exclamations and Kalaignar's polemical voice. Do not advance to T2 in the same activity.
