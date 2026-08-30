@@ -14,21 +14,24 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T2 bilingual fidelity review: **COMPLETE / PASS**
 - T3 Kalaignar voice review: **COMPLETE / PASS**
 - T4 terminology / quotation / citation / source audit: **COMPLETE / PASS**
-- English article metadata status: **voice-reviewed**
+- T5 final article translation verification: **COMPLETE / PASS**
+- English article metadata status: **verified**
 - English drafts: **1 / 1**
 - T2 fidelity-reviewed: **1 / 1**
 - T3 voice-reviewed: **1 / 1**
 - T4 audited: **1 / 1**
-- T5 verified: **0 / 1 — NEXT**
+- T5 verified: **1 / 1**
+- E6 publication consistency review: **NEXT**
+- E7 release closeout: **NOT STARTED**
 - English release: **NOT YET**
 
 ## Article tracker
 
 | # | Tamil article | English file | Status | Gates |
 |---:|---|---|---|---|
-| 1 | கயிற்றில் தொங்கிய கணபதி | [`01-kayittril-thongiya-kanapathi.md`](01-kayittril-thongiya-kanapathi.md) | **voice-reviewed** | **T0–T4 passed; T5 next** |
+| 1 | கயிற்றில் தொங்கிய கணபதி | [`01-kayittril-thongiya-kanapathi.md`](01-kayittril-thongiya-kanapathi.md) | **verified** | **T0–T5 passed** |
 
-English title retained through T4: **Ganapathi Who Hung from the Rope**.
+Verified English title: **Ganapathi Who Hung from the Rope**.
 
 ## Translation authority
 
@@ -42,38 +45,25 @@ Recorded frozen blob SHA:
 
 If that blob changes because of a source-supported Tamil correction, English work must reopen from the affected gate.
 
-## T2 result
+## T5 result
 
-The complete English article was compared clause by clause against the frozen Tamil and corrected only for fidelity. No Tamil source text changed; unresolved fidelity blockers are **0**.
+T5 re-fetched the frozen Tamil authority, current English article, lexicon and review ledger and verified the complete T0–T4 provenance against the current repository state.
 
-## T3 result
+Checks passed:
 
-The complete fidelity-reviewed English article was reviewed for Kalaignar's directness, sarcasm, ridicule, rhetorical questions, repetitions, physical imagery, exclamations and argumentative rhythm. Only meaning-neutral cadence changes were made.
+- frozen Tamil blob unchanged and correctly referenced;
+- all T2 fidelity corrections still present;
+- all T3 voice decisions remain meaning-neutral;
+- all T4 terminology/source-bearing choices remain consistent;
+- scan-boundary comments **6–15** remain present and ordered;
+- scan 6 remains explicitly unnumbered;
+- irregular quotation/source anomalies remain documented rather than silently normalised;
+- `in this crisis(!)`, `Have you hanged him!` and final `/` remain intact;
+- unresolved article-level translation blockers: **0**.
 
-## T4 result
+T5 made **no English body-text change**. It advanced only the article metadata status from `voice-reviewed` to `verified`.
 
-The voice-reviewed article was formally audited for:
-
-- proper names and referents;
-- political/source labels;
-- recurring terminology;
-- cultural and unexplained source-bearing terms;
-- quotation scope and irregular source syntax;
-- meaningful punctuation anomalies;
-- scan-boundary traceability;
-- final source `/`.
-
-T4 confirmed consistent handling of `Dravidam`, `Dravidians`, `Mother Tamil`, `Commonwealth`, `Achariyar`, `Dravidar Kazhagam`, `mangu`, `Mukari`, cultural food terms, source `Jawahar` versus `Nehru`, `in this crisis(!)`, `Have you hanged him!`, and the final `/`.
-
-The irregular Tamil quotation beginning `சுதந்திர பூமியில்...` remains documented while English uses readable closure. The irregular Ganapathi-letter quotation remains source-bearing and was not externally repaired. All scan comments **6–15** remain present in order.
-
-English body changes during T4: **0**. Unresolved T4 blockers: **0**.
-
-### Article-status note
-
-The permanent guide does not define an `audited` article metadata status. Therefore the article correctly remains `translation_status: voice-reviewed` after T4; the tracker records **T4 PASS**. T5 is the gate that may set `translation_status: verified`.
-
-Full provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); audited recurring/source-bearing decisions are in [`LEXICON.md`](LEXICON.md).
+Full provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); recurring/source-bearing decisions are in [`LEXICON.md`](LEXICON.md).
 
 ## Gate legend
 
@@ -88,4 +78,4 @@ Full provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); audited 
 
 ## Exact next activity
 
-Execute **T5 — final article translation verification for Article 1 only**. Re-fetch live `main`, the frozen Tamil authority, current English article, lexicon and review ledger; verify that all T0–T4 decisions remain intact and that there are no blockers. Only after the complete check passes may the article become `translation_status: verified`. Do not perform E6 in the same activity.
+Execute **E6 — publication-level English consistency review** for this one-article publication. Re-fetch the verified article, frozen Tamil authority, lexicon, review ledger and translation plan; review title style, names/epithets, ideological vocabulary, cultural/source-bearing terms, quotation handling, tone consistency and scan traceability. Do not perform E7 in the same activity.
