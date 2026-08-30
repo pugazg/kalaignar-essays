@@ -62,7 +62,7 @@ Detailed Tamil records:
 
 Frozen source-specific readings include `உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `நேரமில்லை`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை`, `தங்கந் தோண்டுமிடமாயிற்றே!`, `நெருக்கடியில்(!)`, `தூக்குபோட்டுவிட்டீர்களா!`, `கொண்டிருக்கிறார்.`, `உரத்தகுரலில்,`, `சாவின் முனையிலே`, and final `அளிக்குமாக /`.
 
-## English translation — T0–T2 COMPLETE
+## English translation — T0–T3 COMPLETE
 
 Permanent rule:
 
@@ -86,25 +86,26 @@ Current English status:
 - T0 source prerequisite / setup: **COMPLETE / PASS**
 - T1 complete close draft: **COMPLETE / PASS**
 - T2 bilingual fidelity review: **COMPLETE / PASS**
-- Article 1: **fidelity-reviewed**
+- T3 Kalaignar voice review: **COMPLETE / PASS**
+- Article 1: **voice-reviewed**
 - English drafts: **1 / 1**
 - fidelity-reviewed: **1 / 1**
-- title accepted through T2: **Ganapathi Who Hung from the Rope**
-- unresolved T2 fidelity blockers: **0**
-- **T3 Kalaignar voice review: NEXT**
-- T4–T5: **NOT STARTED**
+- voice-reviewed: **1 / 1**
+- title retained through T3: **Ganapathi Who Hung from the Rope**
+- unresolved T3 voice blockers: **0**
+- **T4 terminology / quotation / citation / source audit: NEXT**
+- T5: **NOT STARTED**
 - English release: **NOT YET**
 
-T2 made only English fidelity corrections; the frozen Tamil layer was not changed. Full correction provenance is recorded in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
+T3 made only meaning-neutral cadence corrections. It did not change the Tamil source or reopen T2 factual decisions. Source-sensitive forms such as `Cry well!`, `mangu`, `Mukari`, `Achariyar`, `Dravidam`, `Dravidar Kazhagam`, `Have you hanged him!`, the Kamaraj comic taunt and final `/` remain preserved for T4 audit.
 
 ## Exact next activity
 
-Execute **T3 — Kalaignar voice review for Article 1 only**:
+Execute **T4 — terminology / quotation / citation / source audit for Article 1 only**:
 
-1. re-fetch the frozen Tamil article and fidelity-reviewed English article;
-2. preserve every T2 factual/source decision;
-3. review directness, sarcasm, ridicule, rhetorical questions, repetitions, commands/exclamations, physical imagery and argumentative rhythm;
-4. make only meaning-neutral voice/cadence corrections;
-5. set the English article to `voice-reviewed` only after the whole article passes;
-6. update translation records and authoritative handover;
-7. do **not** perform T4 in the same activity.
+1. re-fetch the voice-reviewed English article, frozen Tamil authority, lexicon and review ledger;
+2. audit names/referents, recurring terminology, political/cultural/source-bearing terms, quotation scope, punctuation anomalies, scan comments and final `/`;
+3. make only audit-driven corrections;
+4. set the English article to `audited` only after the whole article passes;
+5. update translation records and authoritative handover;
+6. do **not** perform T5 in the same activity.
