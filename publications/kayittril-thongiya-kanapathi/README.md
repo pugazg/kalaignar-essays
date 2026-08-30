@@ -17,6 +17,22 @@
 - prior publication/work for this title was not present in the current `publications/` tree when P0 began
 - user supplied a Gemini first-pass OCR transcription; it is navigation/draft assistance only and is **not source authority**
 
+## P1 — metadata + complete page map / boundary mapping — COMPLETE
+
+Page map: [`indexes/page-map.md`](indexes/page-map.md)
+
+P1 classified all **17 / 17** physical scans and confirmed:
+
+- scans **1–5** are front matter (`பதிப்புரை` on scan 4; scan 5 blank);
+- scan **6** is the article opening and has **no visible printed numeral**;
+- scans **7–15** visibly carry printed pages **6–14**;
+- the single article occupies scans **6–15** and ends at the printed ornament on scan 15;
+- scans **16–17** are separate promotional / advertisement witnesses;
+- no printed contents page is present;
+- no source-structure correction to the P0 standalone-pamphlet model was required.
+
+The archive deliberately does **not** assign a visible printed page `5` to scan 6 merely from sequence inference.
+
 ## Source authority
 
 > **மூல ஸ்கேன் தான் controlling source.**
@@ -38,7 +54,7 @@ After P0, the user manually rechecked the PDF and confirmed that the Gemini firs
 
 The key non-regression lesson for this source is: **do not reinterpret an old Tamil glyph into a more familiar modern word merely because the modern reading looks semantically plausible.** P2 must compare the supplied first-pass transcription word by word against the scan and change it only when the pixels clearly support the change.
 
-## Physical scan structure observed at intake
+## Physical scan structure
 
 | Scan | Source-visible role | Printed-page behaviour |
 |---:|---|---|
@@ -47,18 +63,24 @@ The key non-regression lesson for this source is: **do not reinterpret an old Ta
 | 3 | publication date / price / printer | no printed page number |
 | 4 | `பதிப்புரை` | no printed page number |
 | 5 | blank / paper surface | no printed page number |
-| 6 | article opening | no visible printed numeral; sequence implies the page before printed 6, but this must not be invented as a visible number |
-| 7–15 | article continuation / conclusion | printed pages **6–14** visible |
+| 6 | article opening | **no visible printed numeral**; do not invent printed `5` |
+| 7 | article continuation | printed page **6** |
+| 8 | article continuation | printed page **7** |
+| 9 | article continuation | printed page **8** |
+| 10 | article continuation | printed page **9** |
+| 11 | article continuation | printed page **10** |
+| 12 | article continuation | printed page **11** |
+| 13 | article continuation | printed page **12** |
+| 14 | article continuation | printed page **13** |
+| 15 | article conclusion + ending ornament | printed page **14** |
 | 16 | advertisement / other publications | no printed page number |
 | 17 | advertisement / back matter | no printed page number |
-
-The article concludes on scan 15 at the printed ornament after the final `கணபதியின் கொலை...` sentence. Scans 16–17 are separate promotional witnesses, not article body.
 
 ## Current Tamil archival status
 
 - P0 source intake / publication identification: **COMPLETE**
-- P1 metadata + full page map / boundary mapping: **NOT YET COMPLETE**
-- P2 page-level transcription: **NOT STARTED in repository**
+- P1 metadata + full page map / boundary mapping: **COMPLETE**
+- P2 page-level transcription: **NEXT — 0 / 17 page records**
 - P3 article assembly: **NOT STARTED**
 - P4 source audit: **NOT STARTED**
 - P5 strict word/punctuation visual-fidelity pass: **NOT STARTED**
@@ -66,4 +88,12 @@ The article concludes on scan 15 at the printed ornament after the final `கண
 
 ## Exact next activity
 
-Execute **P1 — metadata + complete 17-scan page map / boundary mapping**: create `indexes/page-map.md`, classify every physical scan, record printed-page-number behaviour and the article/ad boundaries from the controlling scan, and update the root `HANDOVER.md`. Do not mark the Gemini OCR as verified source text, but do not change its old-glyph readings merely because a modern alternative looks more familiar.
+Execute **P2 — page-level transcription for all 17 physical scans** in this publication:
+
+1. create one page record for every scan **1–17**, including cover/front matter, `பதிப்புரை`, blank page, article pages and advertisements;
+2. use the supplied Gemini transcription as the **first-pass comparison text**, not as authority;
+3. visually compare every transcribed word, punctuation mark, heading and meaningful spacing against the controlling scan;
+4. preserve the user-verified old-glyph readings above unless clear pixel evidence proves a different reading;
+5. keep printed text separate from library stamps / handwriting / physical-copy marks;
+6. preserve scan 6 with `printed_page: null` rather than inventing page 5;
+7. do not create the article assembly yet; that remains P3 after all page records are complete.
