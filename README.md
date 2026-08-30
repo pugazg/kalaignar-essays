@@ -40,7 +40,7 @@ Detailed records:
 
 Do not restart or stylistically rewrite Publication 1 unless a genuine source-supported defect is discovered.
 
-## Publication 2 — கயிற்றில் தொங்கிய கணபதி — TAMIL FROZEN / ENGLISH ACTIVE
+## Publication 2 — கயிற்றில் தொங்கிய கணபதி — TAMIL FROZEN / ENGLISH ARTICLE VERIFIED
 
 Workspace: [`publications/kayittril-thongiya-kanapathi/`](publications/kayittril-thongiya-kanapathi/)
 
@@ -93,14 +93,14 @@ Permanent rule: **Translate the language; do not neutralise the voice.**
 - T2 bilingual fidelity review: **COMPLETE / PASS**
 - T3 Kalaignar voice review: **COMPLETE / PASS**
 - T4 terminology / quotation / citation / source audit: **COMPLETE / PASS**
-- Article 1 metadata status: **voice-reviewed**
+- T5 final article verification: **COMPLETE / PASS**
+- Article 1 metadata status: **verified**
 - English drafts: **1 / 1**
-- fidelity-reviewed: **1 / 1**
-- voice-reviewed: **1 / 1**
-- T4 audited: **1 / 1**
-- English title retained through T4: **Ganapathi Who Hung from the Rope**
-- unresolved T4 blockers: **0**
-- **T5 final article verification: NEXT**
+- verified articles: **1 / 1**
+- English title: **Ganapathi Who Hung from the Rope**
+- unresolved article-level translation blockers: **0**
+- **E6 publication-level English consistency review: NEXT**
+- E7 English release closeout: **NOT STARTED**
 - English release: **NOT YET**
 
 Translation records:
@@ -111,10 +111,10 @@ Translation records:
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/kayittril-thongiya-kanapathi/translations/en/TRANSLATION_REVIEW.md)
 - [`translations/en/01-kayittril-thongiya-kanapathi.md`](publications/kayittril-thongiya-kanapathi/translations/en/01-kayittril-thongiya-kanapathi.md)
 
-T4 made no body-text correction. It formally audited terminology, names/referents, source-bearing/cultural terms, quotation anomalies, scan comments and the final `/`. The permanent guide has no `audited` metadata status, so the article correctly remains `voice-reviewed` until T5.
+T5 revalidated the complete T0–T4 provenance, confirmed the frozen Tamil blob is unchanged, and found no regression in fidelity, voice, terminology, source-bearing terms, quotation anomalies, scan traceability or final `/`. T5 made no English body-text change.
 
 ## Current project state / exact next activity
 
-Publication 1 remains fully released/frozen. Publication 2 has frozen Tamil and has completed English **T0–T4**.
+Publication 1 remains fully released/frozen. Publication 2 has frozen Tamil and a **verified 1 / 1 English article**; publication-level release gates remain open.
 
-**Exact next activity:** execute **T5 — final article translation verification for Article 1, `கயிற்றில் தொங்கிய கணபதி`**. Re-fetch the frozen Tamil authority, current English article, lexicon and review ledger; verify that all T0–T4 decisions remain intact, scan comments 6–15 and source anomalies remain correctly handled, and blockers remain zero. Only then set `translation_status: verified`. Do not perform E6 in the same activity.
+**Exact next activity:** execute **E6 — publication-level English consistency review** for `கயிற்றில் தொங்கிய கணபதி`. Review title style, names/epithets, ideological vocabulary, cultural/source-bearing terms, quotation handling, tone consistency and scan traceability across the verified English publication. Do not perform E7 in the same activity.
