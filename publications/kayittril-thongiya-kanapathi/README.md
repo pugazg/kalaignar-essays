@@ -62,7 +62,7 @@ Detailed Tamil records:
 
 Frozen source-specific readings include `உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `நேரமில்லை`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை`, `தங்கந் தோண்டுமிடமாயிற்றே!`, `நெருக்கடியில்(!)`, `தூக்குபோட்டுவிட்டீர்களா!`, `கொண்டிருக்கிறார்.`, `உரத்தகுரலில்,`, `சாவின் முனையிலே`, and final `அளிக்குமாக /`.
 
-## English translation — T0–T5 + E6 COMPLETE
+## English translation — COMPLETE / RELEASED
 
 Permanent rule:
 
@@ -79,9 +79,10 @@ English workspace:
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+- [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md)
 - [`translations/en/01-kayittril-thongiya-kanapathi.md`](translations/en/01-kayittril-thongiya-kanapathi.md)
 
-Current English status:
+Final English status:
 
 - T0 source prerequisite / setup: **COMPLETE / PASS**
 - T1 complete close draft: **COMPLETE / PASS**
@@ -93,21 +94,22 @@ Current English status:
 - English drafts: **1 / 1**
 - verified articles: **1 / 1**
 - English title: **Ganapathi Who Hung from the Rope**
-- unresolved article-level translation blockers: **0**
 - E6 publication-level English consistency review: **COMPLETE / PASS**
-- E6 body corrections: **0**
-- E6 blockers: **0**
-- **E7 release closeout: NEXT**
-- English release gate: **OPEN until E7**
+- E7 English release closeout: **COMPLETE / PASS**
+- unresolved translation/release blockers: **0**
+- English translation: **COMPLETE**
+- English release gate: **CLOSED**
 
-### E6 consistency result
+### Release result
 
-E6 reviewed the verified article against the publication metadata, lexicon, review ledger and translation plan. It confirmed title style, names/referents, ideological vocabulary, cultural/source-bearing terms, quotation/source-anomaly handling, rhetorical tone, scan comments **6–15**, source boundaries and the frozen Tamil relationship.
+E7 revalidated the verified English article against frozen Tamil blob `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`, confirmed all tracker/count/gate relationships, source/advertisement boundaries and source-PDF exclusion, and found **0 release blockers**. The verified English article blob reviewed was `bf01a5d6da90e8caf6c491ed43f46cbb5e9491ba`.
 
-The verified English article blob reviewed was `bf01a5d6da90e8caf6c491ed43f46cbb5e9491ba`; it still points to frozen Tamil blob `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`.
+E6 and E7 made **no English body-text change**. Source-bearing forms such as `mangu`, `Rani`, `Mukari`, `Achariyar`, `adhirasam`, `akkāra vadisal`, `pallu`, `in this crisis(!)`, `Have you hanged him!` and final `/` remain release-frozen.
 
-E6 found **no English body-text correction** and **no unresolved publication-level blocker**. Source-bearing forms such as `mangu`, `Rani`, `Mukari`, `Achariyar`, `adhirasam`, `akkāra vadisal`, `pallu`, `in this crisis(!)`, `Have you hanged him!` and final `/` remain unchanged.
+Full release provenance is in [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md).
 
-## Exact next activity
+## Next activity
 
-Execute **E7 — English release closeout** for this publication. Re-fetch live `main`, verify the verified English article/frozen Tamil relationship, release-facing links/counts/statuses and source-PDF exclusion, create `translations/en/RELEASE_REPORT.md`, and close the English release gate only after every release check passes. Do not reopen verified prose unless a genuine release blocker is found.
+This publication is **COMPLETE / FROZEN / RELEASED**. Do not reopen it for stylistic polishing unless a genuine source-supported or release-blocking defect is discovered.
+
+The next normal repository activity is **P0 intake of the next supplied Kalaignar essay/article publication**.
