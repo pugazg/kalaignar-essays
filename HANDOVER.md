@@ -280,21 +280,118 @@ The repository contains:
 
 Important reusable rule: **publication-specific identity or transliteration decisions must not be mechanically copied into a future work.** Establish them again from that publication's source/user evidence and record them in its lexicon.
 
+---
+
+# Publication 2 — கயிற்றில் தொங்கிய கணபதி — TAMIL SOURCE ACTIVE
+
+Workspace: `publications/kayittril-thongiya-kanapathi/`  
+Supplied source: `TVA_BOK_0064013_கயிற்றில்_தொங்கிய_கணபதி.pdf`
+
+- source title as printed: `கயிற்றில் தொங்கிய கணபதி`
+- author as printed: `மு.கருணாநிதி` on cover; `மு. கருணாநிதி` on title page
+- physical scans: **17**
+- source SHA-256: `927d05fb27a2545d6732acd9bf8bde04dba2d22546d171b502703a773b40f45a`
+- source file size: **26,750,146 bytes**
+- publication date visible in scan: **ஜூலை 1949**
+- publisher visible in scan: **அறிவுப்பண்ணை**
+- publication type: **standalone single-article pamphlet / சிறுநூல்**
+- printed contents page: **none**
+- source PDF committed to repository: **No**
+
+## P0 source intake / publication identification — COMPLETE
+
+P0 was executed against the live `main` state and the actual supplied 17-scan PDF.
+
+- existing `publications/` tree contained only the frozen first publication; no prior unit for this source was present
+- code searches for the title/source filename found no prior work
+- actual cover/title/imprint/front matter/body/end matter were inspected before choosing the publication structure
+- exactly one publication unit was created
+- source filename, checksum, file size and physical scan count were recorded
+- source PDF remains outside GitHub
+- the user-supplied Gemini transcription is retained only as a first-pass comparison aid; it is **not** authoritative source text
+
+## Source authority / old-glyph rule for Publication 2
+
+The supplied scan pixels control every Tamil reading. Old Tamil glyphs must not be replaced by a plausible modern-looking OCR reading.
+
+For difficult forms:
+
+1. inspect the native scan directly;
+2. enlarge/crop the exact glyph when needed;
+3. compare nearby forms in the same typeface;
+4. preserve source spelling, punctuation and word boundaries even when unusual;
+5. never settle a reading from sentence meaning alone;
+6. record OCR reading → source-visible reading provenance during P2/P5.
+
+Library stamps and handwriting remain physical-copy marks and must never be merged into printed text.
+
+## Initial source structure observed
+
+| Scan | Role | Printed-page behaviour |
+|---:|---|---|
+| 1 | front cover | no printed number |
+| 2 | title / publisher page | no printed number |
+| 3 | date / price / printer | no printed number |
+| 4 | `பதிப்புரை` | no printed number |
+| 5 | blank | no printed number |
+| 6 | article opening | no visible numeral; do not invent printed `5` |
+| 7–15 | article continuation / conclusion | visible printed pages **6–14** |
+| 16 | advertisement | no printed number |
+| 17 | advertisement / back matter | no printed number |
+
+Article body is scans **6–15**. It ends on scan 15 at the printed ornament after `கணபதியின் கொலை இந்த உறுதியை திராவிடர்க்கு அளிக்குமாக!`. Scans 16–17 are separate promotional witnesses.
+
+## Initial OCR discrepancies already pixel-checked
+
+These examples demonstrate why Gemini OCR cannot be imported verbatim. They must remain source-led and will be formally provenance-recorded/rechecked during P2/P5:
+
+- `உரைந்திருக்கும்` → **`உறைந்திருக்கும்`**
+- `அடபாபமே!` → **`அடபாவமே!`**
+- `கவலைப்பட வில்லை.` → **`கவலைப்பட்டவில்லை.`**
+- `நேரமில்லை` → source-visible **`நேரமில்ல`**
+- `சோறில்லை` → source-visible **`சோறில்ல`**
+- `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டீர்களா!`**
+- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`**
+- final `அளிக்குமாக /` → **`அளிக்குமாக!`**
+
+Punctuation runs and ellipsis counts in the OCR also require direct pixel verification; they must not be normalised globally.
+
+## Publication structure / records
+
+- publication README: [`publications/kayittril-thongiya-kanapathi/README.md`](publications/kayittril-thongiya-kanapathi/README.md)
+- metadata source record: [`publications/kayittril-thongiya-kanapathi/metadata/source.md`](publications/kayittril-thongiya-kanapathi/metadata/source.md)
+- page map: **to be created in P1**
+- page records: **to begin in P2**
+- article assembly: **to begin in P3**
+- translation workspace: **not yet created**
+
+## Tamil archival status
+
+- P0 source intake / publication identification: **COMPLETE**
+- physical page records: **0 / 17**
+- article assemblies: **0 / 1**
+- strict visual word/punctuation pass: **0 / 17**
+- unresolved body-text blockers: **0 recorded at P0**
+- Tamil archival phase: **ACTIVE**
+
+## English translation status
+
+- English translation: **NOT STARTED**
+- prerequisite: complete and freeze the Tamil source through P5 first
+
 ## Current blockers / unresolved questions
 
-**None.**
+**None blocking P1.**
+
+The partially obscured/crossed-out library-stamp wording on scan 2 is a physical-copy-mark issue, not a reason to reconstruct printed publication text from OCR.
 
 ## Exact next activity
 
-`சக்கரவர்த்தியின் திருமகன்` is **closed and frozen**. Do not restart, retranscribe or stylistically rewrite it unless a genuine source-supported defect is discovered.
+Execute **P1 — metadata + complete 17-scan page map / boundary mapping** for `கயிற்றில் தொங்கிய கணபதி`:
 
-**Next normal activity:** when the next Kalaignar essay/article source PDF is supplied, execute **P0 — source intake / publication identification** under [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md):
-
-1. inspect current `main` and search for prior work before creating anything;
-2. inspect the actual supplied scan, including cover/title/imprint/contents, before choosing title or publication type;
-3. identify whether it is a standalone article, pamphlet, serial essay, multi-article publication or other source-supported form;
-4. continue existing work if present; otherwise create exactly one publication unit;
-5. record source filename/checksum/page count and keep the PDF outside GitHub;
-6. restructure/update this same root `HANDOVER.md` using the future-publication template with the exact next P1/P2 activity.
-
-If no new controlling source has been supplied, there is no source-bearing archival action to invent; await the next publication scan.
+1. create `publications/kayittril-thongiya-kanapathi/indexes/page-map.md`;
+2. classify all 17 physical scans from the controlling PDF;
+3. record visible printed-page-number behaviour without inventing a numeral for scan 6;
+4. record the `பதிப்புரை`, blank, article start/end, and advertisement boundaries;
+5. recheck/update `metadata/source.md`, publication `README.md` and this root `HANDOVER.md` if P1 reveals any source-structure correction;
+6. do **not** mark the Gemini OCR as verified transcription during P1.
