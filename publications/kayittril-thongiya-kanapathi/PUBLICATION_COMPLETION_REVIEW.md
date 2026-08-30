@@ -30,7 +30,7 @@ The supplied scan remains the controlling source. P4 checks archival completenes
 | Page-boundary comments in assembly | **PASS — scans 6–15 traceable** |
 | Front matter imported into article | **No** |
 | Advertisements imported into article | **No** |
-| Known P2 direct-pixel corrections propagated | **PASS** |
+| Known correction provenance propagated | **PASS after retrospective amendment** |
 | Known unusual/source-specific readings retained | **PASS** |
 | Unresolved article-body blockers | **0** |
 | Hidden `needs-review` / blocker carried into P4 | **0 recorded** |
@@ -94,19 +94,19 @@ P4 confirmed:
 - the final article sentence remains `கணபதியின் கொலை இந்த உறுதியை திராவிடர்க்கு அளிக்குமாக /` before the article-end comment;
 - the printed ending ornament and lower library stamp are not imported as article prose.
 
-## Known correction propagation audit
+## Correction propagation audit — retrospectively amended
 
-The P2 direct-pixel corrections are carried consistently into the verified page layer and the P3 assembly:
+A later targeted recheck of the assistant-origin P2 corrections found one false correction. The source-backed record is now:
 
-- provisional `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டார்களா!`** — scan 13 / printed p.12;
-- provisional `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / printed p.12;
-- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / printed p.11.
+- first-pass `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டீர்களா!`** — scan 13 / printed p.12. The source itself breaks the word as `தூக்குபோட்டுவிட்டீர்` at the line end and `களா!` at the next line. Therefore the verb/person ending from the first pass was correct; only `1` → `!` needed correction. The earlier assistant form `தூக்குபோட்டுவிட்டார்களா!` was wrong and has been removed from both page record and article assembly.
+- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / printed p.12; directly rechecked again and retained.
+- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / printed p.11; directly rechecked again and retained.
 
-These corrections remain explicitly source-supported and must not be described as modernization.
+This retrospective amendment does not reopen P4's structural findings. It corrects the textual provenance record before P5.
 
 ## Source-specific non-regression audit
 
-P4 confirmed the assembly retains source-supported forms including:
+The assembly retains source-supported forms including:
 
 - `உரைந்திருக்கும்`
 - `அடபாபமே!`
@@ -120,7 +120,7 @@ P4 confirmed the assembly retains source-supported forms including:
 - `நெருக்கடியில்(!)`
 - final `அளிக்குமாக /`
 
-P4 found no structural reason to alter those readings.
+No such form should be changed merely because a more familiar spelling seems plausible.
 
 ## Blocker audit
 
@@ -134,4 +134,4 @@ The partially obscured/crossed library-stamp wording on scan 2 remains a physica
 
 P4 closes only the **source completeness / structure / assembly consistency** gate.
 
-The publication must **not** yet be called strict visual-text-fidelity complete or Tamil-frozen. The mandatory next gate is **P5**, a new direct pass over all **17 scans**, rechecking every visible word, punctuation mark, heading, number, meaningful word boundary, continuation and non-body witness distinction. Any P5 correction must be propagated to both page records and the article assembly where applicable and recorded with old-reading → source-visible-reading provenance.
+The publication must **not** yet be called strict visual-text-fidelity complete or Tamil-frozen. The mandatory next gate is **P5**, a new direct pass over all **17 scans**, rechecking every visible word, punctuation mark, heading, number, meaningful word boundary, continuation and non-body witness distinction. Existing verified text is the baseline; any P5 change requires clear source-pixel evidence and must be propagated to both page records and the article assembly with old-reading → source-visible-reading provenance.
