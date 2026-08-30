@@ -112,11 +112,46 @@ T5 re-fetched live `main`, the frozen Tamil authority, current English article, 
 |---:|---|---|---|---|---|---|---|---|
 | 1 | கயிற்றில் தொங்கிய கணபதி | **verified** | PASS | PASS | PASS | PASS | PASS | **PASS** |
 
+## E6 — publication-level English consistency review — COMPLETE / PASSED
+
+E6 was performed against live `main` after Article 1 had passed T5. This publication contains one article, so the publication-level review tested consistency across the verified article, its metadata, the publication lexicon, the review ledger and translation plan rather than across multiple article bodies.
+
+### E6 repository/source checks
+
+- verified English article blob reviewed: **`bf01a5d6da90e8caf6c491ed43f46cbb5e9491ba`**;
+- frozen Tamil source blob: **`b7c6d02cd7bc041318693306b8658e18c3f8fa5b`** — unchanged;
+- English `source_tamil_blob_sha` still matches the frozen Tamil authority: **PASS**;
+- article metadata remains `translation_status: verified`: **PASS**;
+- article count: **1 / 1 verified**.
+
+### E6 publication-wide consistency findings
+
+- title style: **PASS** — `Ganapathi Who Hung from the Rope` remains the verified title and matches the source's concrete rope/hanging image;
+- repeated ideological vocabulary: **PASS** — `imperialism`, `Dravidam`, `Dravidians`, `Mother Tamil`, `Commonwealth`, and `Dravidar Kazhagam` remain consistent;
+- names/referents: **PASS** — `Ganapathi`, `Kamaraj`, `Jawahar`, `Nehru`, `Patel`, `Veerasenan`, `Sambasivam`, `Sargunam`, `Achariyar`, and other recorded names agree with the lexicon; source `Jawahar` and `Nehru` remain intentionally distinct;
+- source-bearing/cultural terms: **PASS** — `mangu`, `Rani`, `Mukari`, `adhirasam`, `akkāra vadisal`, and `pallu` remain restrained and are not externally expanded;
+- rhetorical/voice consistency: **PASS** — direct address, repeated questions, commands, sarcasm, ridicule, physical gallows/blood imagery, exclamations and the final Dravidam crescendo remain intact;
+- quotation handling: **PASS** — the documented irregular `சுதந்திர பூமியில்...` quotation and irregular Ganapathi-letter syntax remain treated as translation-layer anomalies rather than silently normalised Tamil;
+- punctuation/source anomalies: **PASS** — `in this crisis(!)`, `Have you hanged him!`, and final `/` remain unchanged and documented;
+- scan traceability: **PASS** — scan-boundary comments for scans **6–15** remain complete and ordered, with scan 6 explicitly unnumbered;
+- source boundaries: **PASS** — no cover/front matter, `பதிப்புரை`, blank-page or advertisement material entered the English article;
+- external additions: **0** — no outside identification, published English quotation, explanatory gloss or research citation has been inserted into the body.
+
+### E6 corrections to English body
+
+**None.**
+
+### E6 unresolved items
+
+**None.**
+
+**E6 RESULT: PASS.** Publication 2 is now ready for **E7 — English release closeout**, but the English release gate remains open until E7 itself passes.
+
 ## Current translation questions
 
 - unresolved article-level translation blockers: **0**
-- article verification blockers: **0**
+- E6 publication-level blockers: **0**
 
 ## Exact next activity
 
-Execute **E6 — publication-level English consistency review** for this one-article publication. Re-fetch the verified article, lexicon, review ledger, translation plan and publication/root records; perform the publication-level consistency/source-bearing review required by the permanent guide. Do not perform E7 in the same activity.
+Execute **E7 — English release closeout** for Publication 2 only. Re-fetch live `main`, the verified English article, its frozen Tamil authority and all release-facing records; verify final links/status/counts/source SHA relationships and source-PDF exclusion, create/update the release report, close the English release gate only if all checks pass, and then advance the project to the next normal P0 intake activity. Do not reopen verified prose during E7 unless a genuine release blocker is found.
