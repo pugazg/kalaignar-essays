@@ -62,7 +62,7 @@ Detailed Tamil records:
 
 Frozen source-specific readings include `உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `நேரமில்லை`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை`, `தங்கந் தோண்டுமிடமாயிற்றே!`, `நெருக்கடியில்(!)`, `தூக்குபோட்டுவிட்டீர்களா!`, `கொண்டிருக்கிறார்.`, `உரத்தகுரலில்,`, `சாவின் முனையிலே`, and final `அளிக்குமாக /`.
 
-## English translation — T0–T3 COMPLETE
+## English translation — T0–T4 COMPLETE
 
 Permanent rule:
 
@@ -87,25 +87,34 @@ Current English status:
 - T1 complete close draft: **COMPLETE / PASS**
 - T2 bilingual fidelity review: **COMPLETE / PASS**
 - T3 Kalaignar voice review: **COMPLETE / PASS**
-- Article 1: **voice-reviewed**
+- T4 terminology / quotation / citation / source audit: **COMPLETE / PASS**
+- Article 1 metadata status: **voice-reviewed**
 - English drafts: **1 / 1**
 - fidelity-reviewed: **1 / 1**
 - voice-reviewed: **1 / 1**
-- title retained through T3: **Ganapathi Who Hung from the Rope**
-- unresolved T3 voice blockers: **0**
-- **T4 terminology / quotation / citation / source audit: NEXT**
-- T5: **NOT STARTED**
+- T4 audited: **1 / 1**
+- title retained through T4: **Ganapathi Who Hung from the Rope**
+- unresolved T4 blockers: **0**
+- **T5 final article verification: NEXT**
 - English release: **NOT YET**
 
-T3 made only meaning-neutral cadence corrections. It did not change the Tamil source or reopen T2 factual decisions. Source-sensitive forms such as `Cry well!`, `mangu`, `Mukari`, `Achariyar`, `Dravidam`, `Dravidar Kazhagam`, `Have you hanged him!`, the Kamaraj comic taunt and final `/` remain preserved for T4 audit.
+### T4 audit result
+
+T4 made **no English body-text correction**. It confirmed terminology/name consistency, restrained handling of `mangu`, `Mukari`, food/cultural terms and source labels, preserved source `Jawahar` versus `Nehru`, retained `Achariyar` without outside identity substitution, documented the irregular `சுதந்திர பூமியில்...` quotation and irregular Ganapathi-letter syntax, verified scan comments **6–15**, and formally retained `in this crisis(!)`, `Have you hanged him!` and final `/` as source-sensitive features.
+
+The final `/` is treated as a literal source-visible terminal mark of uncertain function and is not silently normalised.
+
+The permanent translation guide does not define an `audited` metadata status; therefore the English article correctly remains `voice-reviewed` after T4 PASS. T5 may advance it to `verified`.
 
 ## Exact next activity
 
-Execute **T4 — terminology / quotation / citation / source audit for Article 1 only**:
+Execute **T5 — final article translation verification for Article 1 only**:
 
-1. re-fetch the voice-reviewed English article, frozen Tamil authority, lexicon and review ledger;
-2. audit names/referents, recurring terminology, political/cultural/source-bearing terms, quotation scope, punctuation anomalies, scan comments and final `/`;
-3. make only audit-driven corrections;
-4. set the English article to `audited` only after the whole article passes;
-5. update translation records and authoritative handover;
-6. do **not** perform T5 in the same activity.
+1. re-fetch live `main`, the frozen Tamil article, current English article, lexicon and review ledger;
+2. confirm the frozen Tamil blob SHA remains unchanged;
+3. verify all T2 fidelity, T3 voice and T4 terminology/source decisions remain intact;
+4. verify scan comments 6–15, quotation handling and final `/`;
+5. confirm unresolved blockers remain zero;
+6. only after a full pass, set the article to `translation_status: verified` and update dependent records;
+7. make **E6** the next gate;
+8. do **not** perform E6 in the same activity.
