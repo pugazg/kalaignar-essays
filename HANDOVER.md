@@ -13,8 +13,9 @@ Read completely before making changes:
 2. [`ESSAY_TRANSLATION_GUIDE.md`](ESSAY_TRANSLATION_GUIDE.md)
 3. [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md)
 4. this `HANDOVER.md`
-5. the active publication `README.md`, metadata/page map and fidelity/completion records
-6. if translation is active: publication `TRANSLATION_PLAN.md`, English `README.md`, `LEXICON.md`, `TRANSLATION_REVIEW.md`, verified article and release report if present
+5. [`docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`](docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md) when activating a new publication
+6. the active publication README/metadata/page map/fidelity/completion records
+7. if translation is active: publication `TRANSLATION_PLAN.md`, English tracker, lexicon, review ledger and release report if present
 
 For a brand-new work/chat window, use [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md) with the controlling PDF attached.
 
@@ -56,7 +57,7 @@ Do not restart or stylistically rewrite Publication 1 unless a genuine source-su
 
 ---
 
-# Publication 2 — கயிற்றில் தொங்கிய கணபதி — TAMIL FROZEN / ENGLISH E6 PASSED
+# Publication 2 — கயிற்றில் தொங்கிய கணபதி — RELEASE COMPLETE / FROZEN
 
 Workspace: `publications/kayittril-thongiya-kanapathi/`  
 Supplied source: `TVA_BOK_0064013_கயிற்றில்_தொங்கிய_கணபதி.pdf`
@@ -106,13 +107,13 @@ Frozen source-specific readings include `உரைந்திருக்கு
 
 Do not alter the frozen Tamil without explicit source-supported evidence. Any future Tamil correction reopens affected English gates.
 
-## English translation state — T0–T5 + E6 COMPLETE
+## English translation / release state — COMPLETE / FROZEN
 
 English article:
 
 `publications/kayittril-thongiya-kanapathi/translations/en/01-kayittril-thongiya-kanapathi.md`
 
-Current state:
+Final state:
 
 - T0 source prerequisite: **PASS**
 - T1 close draft: **PASS**
@@ -123,16 +124,15 @@ Current state:
 - Article 1 metadata status: **verified**
 - verified English articles: **1 / 1**
 - verified English title: **Ganapathi Who Hung from the Rope**
-- unresolved article-level translation blockers: **0**
 - E6 publication-level consistency review: **PASS**
-- E6 body corrections: **0**
-- E6 blockers: **0**
-- E7 release closeout: **NEXT**
-- English release gate: **OPEN until E7**
+- E7 English release closeout: **PASS / COMPLETE**
+- English translation: **COMPLETE**
+- English release gate: **CLOSED**
+- unresolved translation/release blockers: **0**
 
-### T2–E6 non-regression decisions
+### T2–E7 release-frozen decisions
 
-Retain all of the following unless a genuine later release blocker is documented:
+Retain all of the following unless a genuine source-supported/release-blocking defect is documented:
 
 - `the gallows`, `imperialism`, `Dravidam`, `Dravidians`, `Mother Tamil`, `Commonwealth`, `Dravidar Kazhagam`;
 - source label `Achariyar` without outside identity substitution;
@@ -147,47 +147,50 @@ Retain all of the following unless a genuine later release blocker is documented
 - documented irregular quotation syntax beginning `மிகவும் உயர்ந்த நிலையில்...`;
 - final `/` in `May Ganapathi's murder give the Dravidians this resolve /`.
 
-### E6 publication-level consistency result
+### E7 release closeout result
 
-E6 was performed against live `main` after T5. Because this is a one-article publication, E6 checked the verified article against the publication metadata, lexicon, review ledger and translation plan.
+E7 was performed against live `main` after E6.
 
-E6 confirmed:
+Release checks confirmed:
 
 - verified English article blob reviewed: `bf01a5d6da90e8caf6c491ed43f46cbb5e9491ba`;
-- live Tamil authority remains `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
-- English `source_tamil_blob_sha` matches;
+- frozen Tamil authority remains `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
+- English `source_tamil_blob_sha` matches exactly;
 - article remains `translation_status: verified`;
-- title style: **PASS**;
-- names/referents and ideological vocabulary: **PASS**;
-- source-bearing/cultural terms: **PASS**;
-- rhetorical voice/tone consistency: **PASS**;
-- quotation/source-anomaly handling: **PASS**;
-- scan comments **6–15** and scan-6 unnumbered status: **PASS**;
-- front matter/ads excluded: **PASS**;
-- external additions/glosses: **0**;
-- English body changes during E6: **0**;
-- unresolved E6 blockers: **0**.
+- counts/statuses agree: **1 / 1 verified**;
+- T0–T5 and E6 records agree: **PASS**;
+- source/advertisement boundaries remain intact;
+- pre-E7 recursive Git tree `06b72c1c4239f1e5efb0add19c167a7e18373580` contains **no `.pdf` file**;
+- source-bearing decisions and documented source anomalies remain intact;
+- English body changes during E7: **0**;
+- Tamil body changes during E7: **0**;
+- E7 blockers: **0**.
 
-Detailed English provenance:
+Detailed English/release provenance:
 
 - `publications/kayittril-thongiya-kanapathi/TRANSLATION_PLAN.md`
 - `publications/kayittril-thongiya-kanapathi/translations/en/README.md`
 - `publications/kayittril-thongiya-kanapathi/translations/en/LEXICON.md`
 - `publications/kayittril-thongiya-kanapathi/translations/en/TRANSLATION_REVIEW.md`
+- `publications/kayittril-thongiya-kanapathi/translations/en/RELEASE_REPORT.md`
 
-## Exact next activity
+Do not reopen Publication 2 for stylistic polishing unless a genuine source-supported or release-blocking defect is discovered.
 
-Execute **E7 — English release closeout** for Publication 2 only:
+---
 
-1. re-fetch live `main`, the verified English article, frozen Tamil authority and all release-facing records;
-2. confirm the English article still exists, remains `verified`, and still points to the current frozen Tamil blob;
-3. verify release-facing links, counts and gate statuses agree;
-4. verify the source PDF remains outside the repository and no source/advertisement boundary has regressed;
-5. create `publications/kayittril-thongiya-kanapathi/translations/en/RELEASE_REPORT.md` with the final release matrix and checks;
-6. close the English release gate only if all release checks pass;
-7. update publication/root README and this handover;
-8. after successful E7, make the next normal activity **P0 intake of the next supplied publication**;
-9. do **not** reopen verified prose during E7 unless a genuine release blocker is found.
+# Exact next activity
+
+Publications 1 and 2 are both **COMPLETE / FROZEN / RELEASED**.
+
+The exact next normal activity is **P0 intake of the next supplied Kalaignar essay/article publication**:
+
+1. obtain/attach the next controlling source PDF;
+2. fetch live `main` first;
+3. read `ESSAY_PROCESSING_GUIDE.md`, `docs/FUTURE_WORK_GUIDELINES.md`, this `HANDOVER.md`, and the future-publication handover template;
+4. inspect the source directly before creating the new publication workspace;
+5. register source identity, SHA-256, physical scan count, publication metadata and initial structure conservatively;
+6. do not infer or normalise unreadable Tamil; scan pixels control;
+7. do not start English translation until the new Tamil source layer reaches its required frozen state.
 
 ## Current blockers
 
