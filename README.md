@@ -16,9 +16,9 @@
 
 ### Reusable future-work kit
 
-- [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md) — future Kalaignar essay/article publications-க்கான end-to-end workflow
-- [`docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`](docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md) — புதிய publication active ஆகும்போது **அதே root `HANDOVER.md`**-ஐ update செய்வதற்கான template; இது இரண்டாவது live handover அல்ல
-- [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md) — அடுத்த controlling PDF-உடன் புதிய chat/window தொடங்க reusable prompt
+- [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md)
+- [`docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`](docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md)
+- [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md)
 
 ## Publication 1 — சக்கரவர்த்தியின் திருமகன் — COMPLETE / FROZEN
 
@@ -38,7 +38,7 @@ Workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkarav
 - **14 / 14** Tamil article assemblies complete and strict-rechecked
 - **0** unresolved `NEEDS-PIXEL-REVIEW`
 
-Detailed source completion records:
+Detailed records:
 
 - [`PUBLICATION_COMPLETION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md)
 - [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md)
@@ -50,7 +50,7 @@ Detailed source completion records:
 - T3 voice-reviewed: **14 / 14**
 - T4 audited: **14 / 14**
 - T5 verified: **14 / 14**
-- publication-wide E6 consistency review: **PASSED**
+- E6 publication-wide consistency review: **PASSED**
 - E7 English release closeout: **PASSED / COMPLETE**
 - unresolved translation questions: **0**
 - English release gate: **CLOSED**
@@ -59,23 +59,6 @@ English workspace: [`publications/sakkaravarththiyin-thirumagan/translations/en/
 Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
 Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)  
 Release report: [`publications/sakkaravarththiyin-thirumagan/translations/en/RELEASE_REPORT.md`](publications/sakkaravarththiyin-thirumagan/translations/en/RELEASE_REPORT.md)
-
-Verified translations:
-
-1. `சக்கரவர்த்தியின் திருமகன்` → **Chakravarthi's Son**
-2. `தேகமும் உணர்வும்` → **Body and Feeling**
-3. `சதி நிரூபிக்கப்படுகிறது` → **The Conspiracy Is Proven**
-4. `காமராஜன் ஆட்கொண்ட தசரதராஜன்!` → **Dasaratha Raja in the Grip of Kama-Raja!**
-5. `பரத்துவாஜா ஆஸ்ரமமா - பாரிஸ் நகரத்து ‘பாரா’?` → **Bharadvaja's Ashram—or a Paris 'Bar'?**
-6. `இராமன் காட்டேகியது ஏன்? ரிஷியின் சாபமா? கைகேயி கோபமா?` → **Why Did Rama Go to the Forest? A Rishi's Curse? Kaikeyi's Anger?**
-7. `விபீஷணருக்கு விடை யளிப்போம்!` → **Let Us Answer Vibhishana!**
-8. `நாடாண்ட மன்னன் நாதியற்று செத்தான்` → **The King Who Ruled the Land Died with No One to Tend Him**
-9. `தந்தை மகனும் தருமம் தவறியவர்கள்!` → **Father and Son—Both Strayed from Dharma!**
-10. `விஷ்ணு அவதாரம் எனப்படும் ராமனிடம்!` → **To Rama, Who Is Said to Be Vishnu's Incarnation!**
-11. `நடப்பதெல்லாம் நாராயணன் செயலா?` → **Is Everything That Happens Narayana's Doing?**
-12. `மாரீசனைத் துரத்திச் சென்ற ராமனிடம்` → **To Rama Who Went Chasing Maricha**
-13. `துரோகிகள் சந்திப்பு!` → **Traitors Meet!**
-14. `காரியமாகும் வரையில் காலைப் பிடி !` → **Hold Their Feet Until Your Purpose Is Achieved!**
 
 Publication-wide source `ஆச்சாரியார்` is rendered **Achariyar**; Article 7 explicit `இராஜாஜி` remains **Rajaji**, and Article 11 source plural `ஆச்சாரியார்களுக்கு` remains **the Achariyars**.
 
@@ -96,21 +79,31 @@ Workspace: [`publications/kayittril-thongiya-kanapathi/`](publications/kayittril
 ### Current source status
 
 - P0 source intake / publication identification: **COMPLETE**
-- P1 metadata + complete page map / boundary mapping: **COMPLETE**
-- page map: [`indexes/page-map.md`](publications/kayittril-thongiya-kanapathi/indexes/page-map.md) — **17 / 17 scans mapped**
-- page records: **0 / 17 — P2 NEXT**
-- article assemblies: **0 / 1**
-- strict visual-text-fidelity pass: **0 / 17**
+- P1 metadata + page map / boundary mapping: **COMPLETE**
+- page map: [`indexes/page-map.md`](publications/kayittril-thongiya-kanapathi/indexes/page-map.md) — **17 / 17 mapped**
+- P2 page records: **COMPLETE — 17 / 17 verified**
+- P3 article assembly: **COMPLETE — 1 / 1**
+- article: [`01-kayittril-thongiya-kanapathi.md`](publications/kayittril-thongiya-kanapathi/articles/01-kayittril-thongiya-kanapathi.md)
+- **P4 source audit / completeness review: NEXT**
+- P5 strict visual-text-fidelity pass: **0 / 17 — NOT STARTED**
 - English translation: **NOT STARTED**
 
-P1 confirmed scans 1–5 as front matter, scan 4 as `பதிப்புரை`, scan 5 as blank, scans 6–15 as the single article, and scans 16–17 as separate promotional matter. Scan 6 has **no visible printed numeral**; the archive does not invent printed page 5. Scans 7–15 visibly carry printed pages 6–14.
+P1 fixed the source structure: scans 1–5 front matter, scan 4 `பதிப்புரை`, scan 5 blank, scans 6–15 the single article, scans 16–17 separate advertisements. Scan 6 has **no visible printed numeral**; scans 7–15 visibly carry printed pages 6–14.
 
-The user supplied a Gemini first-pass OCR transcription. It is **not authoritative**, but after P0 the user manually rechecked the PDF and confirmed that the first-pass readings I had challenged were correct. The preliminary assistant-side corrections are withdrawn. Forms such as `அடபாபமே!`, `கவலைப்பட வில்லை.` and `சோறில்லை` must not be changed merely because a different modern-looking reading seems more familiar. All old Tamil glyphs, source spelling, punctuation and word boundaries will be checked directly against the scan pixels during P2/P5.
+P2 directly verified every page against the scan. Important source-pixel corrections recorded during that pass include:
+
+- `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டார்களா!`**
+- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`**
+- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`**
+
+Source-supported unusual forms such as `உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `நேரமில்லை`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை` and final `அளிக்குமாக /` remain unnormalised.
+
+P3 assembled the single article strictly from verified scans 6–15, retaining page-boundary comments and excluding front matter / advertisements.
 
 Source metadata: [`metadata/source.md`](publications/kayittril-thongiya-kanapathi/metadata/source.md).
 
 ## Current project state / exact next activity
 
-Publication 1 remains frozen. Publication 2 `கயிற்றில் தொங்கிய கணபதி` has completed P1.
+Publication 1 remains frozen. Publication 2 has completed **P0–P3**.
 
-**Exact next activity:** execute **P2 — page-level transcription for all 17 physical scans**. Create one page record per scan, use Gemini only as the first-pass comparison layer, visually verify the printed text against the controlling scan, preserve user-verified old-glyph readings unless the pixels clearly prove otherwise, separate physical-copy marks from printed text, and keep scan 6 `printed_page: null`. Do not assemble the article yet; that remains P3. The root [`HANDOVER.md`](HANDOVER.md) remains authoritative for the detailed continuation state.
+**Exact next activity:** execute **P4 — source audit / completeness review** for all 17 scans and the single article assembly. Confirm every physical scan is represented exactly once, source boundaries and printed-page mappings remain correct, article assembly matches verified scans 6–15, front matter/ads are excluded, known correction provenance is carried consistently, unresolved blockers are explicit, and no silent normalization has entered the archive. Keep the later P5 strict every-word/every-punctuation re-audit as a separate gate. The root [`HANDOVER.md`](HANDOVER.md) is the authoritative continuation record.
