@@ -56,7 +56,7 @@ Do not restart or stylistically rewrite Publication 1 unless a genuine source-su
 
 ---
 
-# Publication 2 — கயிற்றில் தொங்கிய கணபதி — TAMIL FROZEN / ENGLISH ARTICLE VERIFIED
+# Publication 2 — கயிற்றில் தொங்கிய கணபதி — TAMIL FROZEN / ENGLISH E6 PASSED
 
 Workspace: `publications/kayittril-thongiya-kanapathi/`  
 Supplied source: `TVA_BOK_0064013_கயிற்றில்_தொங்கிய_கணபதி.pdf`
@@ -106,7 +106,7 @@ Frozen source-specific readings include `உரைந்திருக்கு
 
 Do not alter the frozen Tamil without explicit source-supported evidence. Any future Tamil correction reopens affected English gates.
 
-## English translation state — T0–T5 COMPLETE / ARTICLE VERIFIED
+## English translation state — T0–T5 + E6 COMPLETE
 
 English article:
 
@@ -124,13 +124,15 @@ Current state:
 - verified English articles: **1 / 1**
 - verified English title: **Ganapathi Who Hung from the Rope**
 - unresolved article-level translation blockers: **0**
-- E6 publication-level consistency review: **NEXT**
-- E7 release closeout: **NOT STARTED**
-- English release: **NOT YET**
+- E6 publication-level consistency review: **PASS**
+- E6 body corrections: **0**
+- E6 blockers: **0**
+- E7 release closeout: **NEXT**
+- English release gate: **OPEN until E7**
 
-### T2–T5 non-regression decisions
+### T2–E6 non-regression decisions
 
-Retain all of the following unless a later gate finds a documented defect:
+Retain all of the following unless a genuine later release blocker is documented:
 
 - `the gallows`, `imperialism`, `Dravidam`, `Dravidians`, `Mother Tamil`, `Commonwealth`, `Dravidar Kazhagam`;
 - source label `Achariyar` without outside identity substitution;
@@ -145,17 +147,26 @@ Retain all of the following unless a later gate finds a documented defect:
 - documented irregular quotation syntax beginning `மிகவும் உயர்ந்த நிலையில்...`;
 - final `/` in `May Ganapathi's murder give the Dravidians this resolve /`.
 
-T5 re-fetched the current repository and confirmed:
+### E6 publication-level consistency result
 
-- live Tamil blob still equals `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
+E6 was performed against live `main` after T5. Because this is a one-article publication, E6 checked the verified article against the publication metadata, lexicon, review ledger and translation plan.
+
+E6 confirmed:
+
+- verified English article blob reviewed: `bf01a5d6da90e8caf6c491ed43f46cbb5e9491ba`;
+- live Tamil authority remains `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
 - English `source_tamil_blob_sha` matches;
-- every T2 fidelity correction remains present;
-- every T3 voice decision remains meaning-neutral;
-- every T4 source-bearing/terminology decision remains intact;
-- scan comments **6–15** remain complete and ordered;
-- quotation/source anomalies and final `/` remain documented/preserved;
-- T5 body-text changes: **0**; metadata status only advanced to `verified`;
-- blockers: **0**.
+- article remains `translation_status: verified`;
+- title style: **PASS**;
+- names/referents and ideological vocabulary: **PASS**;
+- source-bearing/cultural terms: **PASS**;
+- rhetorical voice/tone consistency: **PASS**;
+- quotation/source-anomaly handling: **PASS**;
+- scan comments **6–15** and scan-6 unnumbered status: **PASS**;
+- front matter/ads excluded: **PASS**;
+- external additions/glosses: **0**;
+- English body changes during E6: **0**;
+- unresolved E6 blockers: **0**.
 
 Detailed English provenance:
 
@@ -166,15 +177,17 @@ Detailed English provenance:
 
 ## Exact next activity
 
-Execute **E6 — publication-level English consistency review** for Publication 2 only:
+Execute **E7 — English release closeout** for Publication 2 only:
 
-1. re-fetch live `main`, the verified English article, frozen Tamil authority, lexicon, review ledger and translation plan;
-2. confirm Article 1 remains `verified` and still points to the frozen Tamil blob;
-3. review publication-wide consistency for title style, names/epithets, ideological vocabulary, cultural/source-bearing terms, quotation handling, tone consistency and scan traceability;
-4. confirm no source-bearing term has been smoothed or externally expanded after T5;
-5. record E6 PASS only after the complete publication-level review succeeds;
-6. update dependent records and make **E7 — English release closeout** the next gate;
-7. **do not perform E7 in the same activity**.
+1. re-fetch live `main`, the verified English article, frozen Tamil authority and all release-facing records;
+2. confirm the English article still exists, remains `verified`, and still points to the current frozen Tamil blob;
+3. verify release-facing links, counts and gate statuses agree;
+4. verify the source PDF remains outside the repository and no source/advertisement boundary has regressed;
+5. create `publications/kayittril-thongiya-kanapathi/translations/en/RELEASE_REPORT.md` with the final release matrix and checks;
+6. close the English release gate only if all release checks pass;
+7. update publication/root README and this handover;
+8. after successful E7, make the next normal activity **P0 intake of the next supplied publication**;
+9. do **not** reopen verified prose during E7 unless a genuine release blocker is found.
 
 ## Current blockers
 
