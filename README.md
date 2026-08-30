@@ -87,14 +87,18 @@ Source-supported forms including `உரைந்திருக்கும்`
 
 Permanent rule: **Translate the language; do not neutralise the voice.**
 
-- T0 source prerequisite / setup: **COMPLETE / PASS**
 - frozen Tamil translation authority blob: `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`
+- T0 source prerequisite / setup: **COMPLETE / PASS**
 - T1 close English draft: **COMPLETE / PASS**
-- Article 1: **draft**
+- T2 bilingual fidelity review: **COMPLETE / PASS**
+- Article 1: **fidelity-reviewed**
 - English drafts: **1 / 1**
-- working English title: **Ganapathi Who Hung from the Rope**
-- T2 bilingual fidelity review: **NEXT**
-- T3–T5: **NOT STARTED**
+- fidelity-reviewed: **1 / 1**
+- English title accepted through T2: **Ganapathi Who Hung from the Rope**
+- unresolved T2 fidelity blockers: **0**
+- **T3 Kalaignar voice review: NEXT**
+- T4–T5: **NOT STARTED**
+- English release: **NOT YET**
 
 Translation records:
 
@@ -104,8 +108,10 @@ Translation records:
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/kayittril-thongiya-kanapathi/translations/en/TRANSLATION_REVIEW.md)
 - [`translations/en/01-kayittril-thongiya-kanapathi.md`](publications/kayittril-thongiya-kanapathi/translations/en/01-kayittril-thongiya-kanapathi.md)
 
+T2 corrected only English fidelity defects; no frozen Tamil reading changed.
+
 ## Current project state / exact next activity
 
-Both publications have frozen Tamil source layers. Publication 1 also has a released English translation. Publication 2 has completed **T0–T1**; its complete English body exists as a draft.
+Publication 1 remains fully released/frozen. Publication 2 has frozen Tamil and has completed English **T0–T2**.
 
-**Exact next activity:** execute **T2 — bilingual fidelity review for Article 1, `கயிற்றில் தொங்கிய கணபதி`**. Compare every English paragraph and clause against the frozen Tamil assembly, correct only fidelity defects, and recheck title, quotation scope, source-sensitive terminology, repetitions, rhetorical questions and scan-boundary comments. Do not advance to T3 in the same activity unless the authoritative handover has first advanced to T3.
+**Exact next activity:** execute **T3 — Kalaignar voice review for Article 1, `கயிற்றில் தொங்கிய கணபதி`**. Re-fetch the frozen Tamil assembly and fidelity-reviewed English article, preserve every T2 fidelity decision, and review directness, sarcasm, ridicule, rhetorical questions, repetition, exclamations, physical imagery and argumentative rhythm. Make only meaning-neutral cadence changes; do not advance to T4 in the same activity.
