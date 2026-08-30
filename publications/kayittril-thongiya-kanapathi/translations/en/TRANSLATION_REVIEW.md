@@ -20,38 +20,63 @@ A first draft is never automatically verified. Article 1 must pass T0 source con
 - article source scans: **6–15**
 - T0 result: **PASS**
 
+## T1 complete close draft — COMPLETE
+
+English draft:
+
+[`01-kayittril-thongiya-kanapathi.md`](01-kayittril-thongiya-kanapathi.md)
+
+T1 checks completed:
+
+- frozen Tamil blob re-fetched and confirmed unchanged at `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
+- complete article translated from scan 6 through scan 15;
+- all Tamil scan-boundary comments represented in English;
+- paragraph order retained;
+- quotation-heavy passages retained as quotation rather than summary;
+- rhetorical questions, repeated exclamations, accusations, gallows/body imagery and direct addresses retained;
+- no front matter or advertisement material imported;
+- English front matter set to `translation_status: "draft"` only after the full body was created;
+- no T2/T3/T4/T5 claim made during T1.
+
+Working English title: **Ganapathi Who Hung from the Rope**.
+
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|
-| 1 | கயிற்றில் தொங்கிய கணபதி | **not-started** | PASS | — | — | — | — | — |
+| 1 | கயிற்றில் தொங்கிய கணபதி | **draft** | PASS | PASS | — | — | — | — |
 
-English body file: **not created at T0**.
+## T1 source-sensitive decisions
 
-## Source-sensitive review watch-list
+The draft deliberately preserves or carries forward:
 
-T1/T2 must explicitly check that the translation preserves or responsibly handles:
+- repeated `தூக்குமேடை` personification as **the gallows**;
+- `ஏகாதிபத்தியம்` as **imperialism**;
+- `திராவிடம்` / `திராவிடர்` as **Dravidam / Dravidians**;
+- `தமிழ்த்தாய்` as **Mother Tamil**;
+- `காமன் வெல்த்` as **Commonwealth** without changing the frozen Tamil witness;
+- `நெருக்கடியில்(!)` as **in this crisis(!)**;
+- `தூக்குபோட்டுவிட்டீர்களா!` as **Have you hanged him!**;
+- final `/` in `அளிக்குமாக /` in the English draft rather than silently replacing it with conventional punctuation;
+- source `ஜவகர்` as **Jawahar** and source `நேரு` as **Nehru**, preserving the source's own naming distinction.
 
-- the repeated personification of the gallows / `தூக்குமேடை`;
-- the opening anti-imperialist attack and physical blood/body imagery;
-- direct address to Tamil Mother and to Tamil Nadu;
-- quoted speech and nested quotation boundaries;
-- rhetorical questions and repeated exclamations;
-- `அடபாபமே!` as a source-specific exclamation without first normalising the Tamil;
-- `கவலைப்பட வில்லை.` as frozen source spacing, while English follows normal grammar;
-- `நன்றுக` as a frozen Tamil form whose English sense must come from context;
-- `நெருக்கடியில்(!)` and its parenthesised exclamation;
-- `தூக்குபோட்டுவிட்டீர்களா!` with its combined interrogative/exclamatory force;
-- `கொண்டிருக்கிறார்.` and `உரத்தகுரலில்,` as frozen source readings;
-- source political names/labels without added modern identifications;
-- the final `அளிக்குமாக /`, including whether the terminal slash needs an external translation note rather than silent repair.
+## T2 watch-list / questions
 
-## T0 unresolved translation questions
+These are **review questions, not T1 blockers**:
 
-**0 blocking questions.**
+1. **Title:** recheck whether `Ganapathi Who Hung from the Rope` best preserves the title's physical and political force.
+2. **Source quotation scope:** the paragraph beginning `சுதந்திர பூமியில்...` has source punctuation whose quotation scope is not fully regular; T1 renders a readable English quotation and T2 must compare it closely with the frozen Tamil.
+3. **Irregular source quote:** `மிகவும் உயர்ந்த நிலையில் இருந்து தாழ்ந்து போன ஒரு குடும்பத்தை உருவாக்காது உழைக்கிறேனும்...` is syntactically irregular in the frozen witness. T1 renders the contextual sense; T2 must verify no claim was added.
+4. **Source-bearing word:** `மங்கு` is retained as `mangu vessels`; no external identification was inserted.
+5. **Colloquial taunt:** `அடிப்பியோ? உங்க அப்பன் மவனே! சிங்கண்டா` received a deliberately close colloquial draft and needs T2/T3 cadence review.
+6. **Frozen unusual form:** `நன்றுக அழு!` is drafted as `Cry well!`; T2 should test fidelity and natural force without correcting the Tamil.
+7. **Final slash:** the terminal `/` is retained and should be handled explicitly in T4 rather than silently normalised.
 
-The English title is intentionally **not frozen at T0**. It will be selected during T1 from the full article context and then reviewed in T2/T3.
+## Current translation questions
+
+- blocking T1 questions: **0**
+- open T2/T4 review items: **7**
 
 ## Exact next activity
 
-**T1 — complete close English draft for Article 1.** Before drafting, re-fetch the Tamil article and confirm its blob SHA still equals `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`. Translate the complete article paragraph by paragraph with page-boundary traceability. Do not mark T2/T3/T4/T5 complete during T1.
+Execute **T2 — bilingual fidelity review for Article 1 only**. Compare every English paragraph and clause against the frozen Tamil assembly, verify no omission/addition, names, negatives, rhetorical questions, quotation scope, repetitions, page-boundary comments and source-sensitive items above. Do not claim T3/T4/T5 in the same activity unless the authoritative handover has first advanced to those gates.
