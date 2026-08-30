@@ -13,38 +13,39 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 5. If a Tamil source anomaly matters to meaning or quotation scope, document it rather than repairing it in English.
 6. **Translate the language; do not neutralise the voice.**
 
-## T2-reviewed decisions
+## T3-reviewed decisions
 
-These forms passed the bilingual fidelity gate. They remain subject to T3 voice review and later T4/T5 audit before release freeze.
+These decisions have passed T0–T3 and now proceed to T4 terminology/source audit.
 
 | Tamil / source form | English decision | Notes | Status |
 |---|---|---|---|
-| `கயிற்றில் தொங்கிய கணபதி` | `Ganapathi Who Hung from the Rope` | Keeps the concrete rope/hanging image without explanatory expansion. | T2 accepted |
-| `தூக்குமேடை` | `the gallows` | Preserve repeated personification; never flatten to generic `execution`. | T2 established |
-| `ஏகாதிபத்தியம்` | `imperialism` | Retains the opening anti-imperialist force. | T2 established |
-| `திராவிடம்` | `Dravidam` | Preserve Kalaignar's political/civilisational source term rather than generic regional wording. | T2 established |
-| `திராவிடர்` | `Dravidians` | Preserve source political vocabulary. | T2 established |
-| `தமிழ்த்தாய்` | `Mother Tamil` | Personified figure; keep direct address. | T2 established |
-| `காமன் வெல்த்` / `காமன் வெல்த்தோடு` | `Commonwealth` | Translate source meaning without altering frozen Tamil witness. | T2 established |
-| `பாராள பாரத புத்ரர் வந்தால்` | `if the sons of Bharat came to rule` | T2 restored the source conditional `வந்தால்`; T1 `once ... came to rule` was too definite. | T2 corrected |
-| `ஆளவந்தார்` | `those who rule` / `those who came to rule` | Contextual political rendering; no external identity inserted. | T2 contextual |
-| `முகாரி` | `Mukari lament` | Retains source cultural/musical term and lamenting function. | T2 accepted |
-| `மங்கு` | `mangu` | Source-bearing unknown term. T2 removed T1's inferred `vessels`; no external identification guessed. | source-bearing / T2 corrected |
-| `அதிரசம்` | `adhirasam` | Retained as source-cultural food term. | T2 established |
-| `அக்கார வடிசல்` | `akkāra vadisal` | Retained as source-cultural food term. | T2 established |
-| `பள்ளு` | `pallu` | Retained in quoted song line; no external genre explanation inserted. | source-bearing |
-| `ஆச்சாரியார்` | `Achariyar` | Preserve source label; do not add an external identity in the body. | T2 established |
-| `திராவிடர் கழகம்` | `Dravidar Kazhagam` | Preserve organisation name in source-bearing form. | T2 established |
-| `உத்தரகிரியை` | `final rites` | Contextual funeral-rite sense. | T2 accepted |
-| `அடபாபமே!` | `Oh, what a pity!` | Carries the emotional reaction without changing the frozen Tamil form. | T2 accepted |
-| `நன்றுக அழு!` | `Cry well!` | Deliberately close to the unusual frozen source form; no Tamil normalisation. | T2 accepted; T3 cadence watch |
-| `நெருக்கடியில்(!)` | `in this crisis(!)` | Parenthesised exclamation preserved. | source-sensitive |
-| `தூக்குபோட்டுவிட்டீர்களா!` | `Have you hanged him!` | Combined interrogative/exclamatory force retained. | source-sensitive |
-| `உணர்வைத் தொடுவதில்லை` | `does not touch their sensibility` | T2 restores the source's `touch` image across the scan-9/10 continuation. | T2 corrected |
-| `அவர்தம் ஆத்மா சாந்தி அடைக!` | `May his soul attain peace!` | Preserve source honorific/singular construction rather than T1 plural `their souls`. | T2 corrected |
-| `ஆலை` | `a factory` | Preserve source singular. | T2 corrected |
-| `பெண்தெய்வ மாநாடு` | `a conference of goddesses` | T2 corrected T1 `women's divine conference`; source denotes female deities. | T2 corrected |
-| final `அளிக்குமாக /` | `May Ganapathi's murder give the Dravidians this resolve /` | Wish/appeal force retained; terminal slash preserved for T4 audit. | source-sensitive |
+| `கயிற்றில் தொங்கிய கணபதி` | `Ganapathi Who Hung from the Rope` | Concrete rope/hanging image retained; T3 found no reason to replace the T2 title. | T3 retained |
+| `தூக்குமேடை` | `the gallows` | Repeated personification; never flatten to generic `execution`. | T3 established |
+| `ஏகாதிபத்தியம்` | `imperialism` | Opening anti-imperialist force retained. | T3 established |
+| `திராவிடம்` | `Dravidam` | Preserve Kalaignar's political/civilisational source term. | T3 established |
+| `திராவிடர்` | `Dravidians` | Preserve source political vocabulary. | T3 established |
+| `தமிழ்த்தாய்` | `Mother Tamil` | Personified figure; direct address retained. | T3 established |
+| `காமன் வெல்த்` / `காமன் வெல்த்தோடு` | `Commonwealth` | Translate meaning without changing frozen Tamil witness. | T3 established |
+| `பாராள பாரத புத்ரர் வந்தால்` | `if the sons of Bharat came to rule` | Source conditional `வந்தால்` retained. | T2/T3 retained |
+| `ஆளவந்தார்` | `those who rule` / `those who came to rule` | Contextual political rendering; no external identity inserted. | T3 contextual |
+| `முகாரி` | `Mukari lament` | Source cultural/musical term plus rhetorical lamenting function. | T3 retained; T4 audit |
+| `மங்கு` | `mangu` | Source-bearing unknown term; no guessed gloss. | source-bearing; T4 audit |
+| `அதிரசம்` | `adhirasam` | Cultural food term retained. | T3 established |
+| `அக்கார வடிசல்` | `akkāra vadisal` | Cultural food term retained. | T3 established |
+| `பள்ளு` | `pallu` | Source-bearing term in quoted song line. | source-bearing |
+| `ஆச்சாரியார்` | `Achariyar` | Preserve source label; no external identity added in body. | T3 retained; T4 audit |
+| `திராவிடர் கழகம்` | `Dravidar Kazhagam` | Preserve organisation name. | T3 established |
+| `உத்தரகிரியை` | `final rites` | Contextual funeral-rite sense. | T3 retained |
+| `அடபாபமே!` | `Oh, what a pity!` | Emotional reaction retained without normalising Tamil. | T3 retained |
+| `நன்றுக அழு!` | `Cry well!` | Deliberately unusual to preserve frozen source force. | T3 retained |
+| `நெருக்கடியில்(!)` | `in this crisis(!)` | Parenthesised exclamation preserved. | source-sensitive; T4 audit |
+| `தூக்குபோட்டுவிட்டீர்களா!` | `Have you hanged him!` | Combined interrogative/exclamatory force retained. | source-sensitive; T4 audit |
+| `உணர்வைத் தொடுவதில்லை` | `does not touch their sensibility` | Preserves source `touch` image across scan boundary. | T3 retained |
+| `அவர்தம் ஆத்மா சாந்தி அடைக!` | `May his soul attain peace!` | Honorific/singular construction retained. | T3 retained |
+| `ஆலை` | `a factory` | Source singular retained. | T3 retained |
+| `பெண்தெய்வ மாநாடு` | `a conference of goddesses` | Female-deity meaning retained. | T3 retained |
+| `தன்மான உணர்ச்சி பூத்துக் குலுங்கும்` | `self-respect will bloom and flourish` | T3 cadence rendering preserves the blooming image. | T3 voice-reviewed |
+| final `அளிக்குமாக /` | `May Ganapathi's murder give the Dravidians this resolve /` | Wish/appeal force and terminal slash retained. | source-sensitive; T4 audit |
 
 ## Names / referents
 
@@ -62,16 +63,10 @@ These forms passed the bilingual fidelity gate. They remain subject to T3 voice 
 
 Do not add biographical identifications, titles or modern explanatory labels unless the Tamil itself supplies them or the user explicitly requests research.
 
-## T2-resolved watch-items
+## T3 voice decisions
 
-1. **Title:** `Ganapathi Who Hung from the Rope` accepted for fidelity; T3 may still assess English rhetorical force.
-2. **`சுதந்திர பூமியில்...` quotation scope:** the Tamil has an irregular/unmatched opening quote. The English keeps a readable closed quotation; the source anomaly is explicitly documented in `TRANSLATION_REVIEW.md` rather than silently attributed to the Tamil.
-3. **Irregular `மிகவும் உயர்ந்த நிலையில்...` quotation:** T1 contextual rendering adds no factual claim and is retained for T3 voice review.
-4. **`மங்கு`:** changed from `mangu vessels` to source-bearing `mangu`; no guessed gloss.
-5. **Colloquial taunt `அடிப்பியோ?...`:** literal colloquial wording retained; T3 will review cadence only.
-6. **`நன்றுக அழு!`:** `Cry well!` retained as the closest source-sensitive draft.
-7. **Final `/`:** preserved unchanged; formal handling remains a T4 source-audit item.
+T3 retained the title, `Cry well!`, the literal Kamaraj comic taunt, `mangu`, `Mukari`, the political labels and all source-sensitive punctuation. It made only meaning-neutral cadence changes recorded in `TRANSLATION_REVIEW.md`, including the opening cruel-teeth sequence, the declarative `So many people die...`, flower-argument grammar, Ganapathi-voice word order, Kamaraj cadence, `life of the Tamils`, and the final self-respect crescendo.
 
 ## Exact next lexicon activity
 
-During **T3**, review whether the accepted T2 wording still carries Kalaignar's directness, sarcasm, ridicule and rhythmic force. Do not reopen the frozen Tamil source and do not replace source-bearing terms merely for smoother English.
+During **T4**, formally audit source-bearing terms, identity/name consistency, cultural terms, quotation anomalies and punctuation—including the final `/`. Do not change an established T3 choice merely for stylistic preference.
