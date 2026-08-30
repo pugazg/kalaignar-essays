@@ -62,7 +62,7 @@ Detailed Tamil records:
 
 Frozen source-specific readings include `உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `நேரமில்லை`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை`, `தங்கந் தோண்டுமிடமாயிற்றே!`, `நெருக்கடியில்(!)`, `தூக்குபோட்டுவிட்டீர்களா!`, `கொண்டிருக்கிறார்.`, `உரத்தகுரலில்,`, `சாவின் முனையிலே`, and final `அளிக்குமாக /`.
 
-## English translation — T0–T4 COMPLETE
+## English translation — T0–T5 COMPLETE / ARTICLE VERIFIED
 
 Permanent rule:
 
@@ -88,33 +88,22 @@ Current English status:
 - T2 bilingual fidelity review: **COMPLETE / PASS**
 - T3 Kalaignar voice review: **COMPLETE / PASS**
 - T4 terminology / quotation / citation / source audit: **COMPLETE / PASS**
-- Article 1 metadata status: **voice-reviewed**
+- T5 final article translation verification: **COMPLETE / PASS**
+- Article 1 metadata status: **verified**
 - English drafts: **1 / 1**
-- fidelity-reviewed: **1 / 1**
-- voice-reviewed: **1 / 1**
-- T4 audited: **1 / 1**
-- title retained through T4: **Ganapathi Who Hung from the Rope**
-- unresolved T4 blockers: **0**
-- **T5 final article verification: NEXT**
+- verified articles: **1 / 1**
+- English title: **Ganapathi Who Hung from the Rope**
+- unresolved article-level translation blockers: **0**
+- **E6 publication-level English consistency review: NEXT**
+- E7 release closeout: **NOT STARTED**
 - English release: **NOT YET**
 
-### T4 audit result
+### T5 verification result
 
-T4 made **no English body-text correction**. It confirmed terminology/name consistency, restrained handling of `mangu`, `Mukari`, food/cultural terms and source labels, preserved source `Jawahar` versus `Nehru`, retained `Achariyar` without outside identity substitution, documented the irregular `சுதந்திர பூமியில்...` quotation and irregular Ganapathi-letter syntax, verified scan comments **6–15**, and formally retained `in this crisis(!)`, `Have you hanged him!` and final `/` as source-sensitive features.
+T5 confirmed the live frozen Tamil article remains at blob `b7c6d02cd7bc041318693306b8658e18c3f8fa5b` and that the English article still points to that authority. All T2 fidelity corrections, T3 voice decisions and T4 terminology/source-bearing decisions remain intact. Scan comments **6–15**, quotation/source-anomaly handling, `in this crisis(!)`, `Have you hanged him!` and final `/` all passed verification.
 
-The final `/` is treated as a literal source-visible terminal mark of uncertain function and is not silently normalised.
-
-The permanent translation guide does not define an `audited` metadata status; therefore the English article correctly remains `voice-reviewed` after T4 PASS. T5 may advance it to `verified`.
+T5 introduced **no English body-text change**; only the article metadata status advanced from `voice-reviewed` to `verified`.
 
 ## Exact next activity
 
-Execute **T5 — final article translation verification for Article 1 only**:
-
-1. re-fetch live `main`, the frozen Tamil article, current English article, lexicon and review ledger;
-2. confirm the frozen Tamil blob SHA remains unchanged;
-3. verify all T2 fidelity, T3 voice and T4 terminology/source decisions remain intact;
-4. verify scan comments 6–15, quotation handling and final `/`;
-5. confirm unresolved blockers remain zero;
-6. only after a full pass, set the article to `translation_status: verified` and update dependent records;
-7. make **E6** the next gate;
-8. do **not** perform E6 in the same activity.
+Execute **E6 — publication-level English consistency review** for this one-article publication. Re-fetch the verified article, frozen Tamil authority, lexicon, review ledger and translation plan; check title style, names/epithets, ideological vocabulary, cultural/source-bearing terms, quotation handling, tone consistency and scan traceability. Do not perform E7 in the same activity.
