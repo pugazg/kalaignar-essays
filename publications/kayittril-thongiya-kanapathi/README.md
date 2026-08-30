@@ -77,7 +77,7 @@ P5 reopened all **17 physical scans** and rechecked the existing verified transc
 
 **P5 RESULT: PASS — Tamil source frozen.**
 
-## English translation setup — T0 COMPLETE / PASSED
+## English translation — T1 COMPLETE / DRAFT
 
 Permanent rule:
 
@@ -94,23 +94,21 @@ Translation workspace:
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+- [`translations/en/01-kayittril-thongiya-kanapathi.md`](translations/en/01-kayittril-thongiya-kanapathi.md)
 
 Current English status:
 
 - T0 source prerequisite / setup: **COMPLETE / PASS**
-- Article 1: **not-started**
-- English drafts: **0 / 1**
-- T1 close draft: **NEXT**
-- T2–T5: **NOT STARTED**
-- English body file: **not yet created**
+- T1 close English draft: **COMPLETE / PASS**
+- Article 1 translation status: **draft**
+- English drafts: **1 / 1**
+- working English title: **Ganapathi Who Hung from the Rope**
+- T2 bilingual fidelity review: **NEXT**
+- T3–T5: **NOT STARTED**
+- English release: **NOT YET**
+
+The draft covers the complete article scans **6–15**, retains all source scan-boundary comments and preserves the article's quotation-heavy structure, rhetorical questions, exclamations, gallows/body imagery and polemical force. Open fidelity questions are recorded in the translation review ledger; none blocked T1 completion.
 
 ## Exact next activity
 
-Execute **T1 — complete close English draft for Article 1 only**:
-
-1. re-fetch the frozen Tamil assembly and confirm blob SHA `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
-2. create `translations/en/01-kayittril-thongiya-kanapathi.md`;
-3. translate the complete article paragraph by paragraph while preserving page-boundary traceability, quotation structure, repetition, rhetorical questions, exclamations, directness and polemical force;
-4. update the living lexicon/review ledger for actual T1 decisions;
-5. mark Article 1 `draft` only after the complete English body exists;
-6. do not claim T2/T3/T4/T5 in the same activity.
+Execute **T2 — bilingual fidelity review for Article 1 only**. Compare the complete English draft against the frozen Tamil assembly clause by clause; correct omissions/additions or source mismatches only; recheck title, quotation scope and source-sensitive items; set `translation_status: fidelity-reviewed` only after the entire article passes. Do not advance to T3 in the same activity unless the authoritative handover has first advanced to T3.
