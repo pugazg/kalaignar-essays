@@ -13,14 +13,11 @@ Translate the single frozen Tamil article into readable English while retaining 
 
 > **Translate the language; do not neutralise the voice.**
 
-## T0 source prerequisite — PASSED
-
-Tamil archival prerequisite:
+## Source prerequisite — PASSED / FROZEN
 
 - P0–P5: **COMPLETE**
 - strict visual-text-fidelity: **17 / 17 PASS**
 - Tamil article assemblies: **1 / 1 strict-rechecked**
-- unresolved `NEEDS-PIXEL-REVIEW`: **0**
 - unresolved Tamil body/source blockers: **0**
 - Tamil source layer: **COMPLETE / FROZEN**
 - source PDF committed to repository: **No**
@@ -36,11 +33,30 @@ If the Tamil article blob changes because of a genuine future source-supported c
 
 ## Article tracker
 
-| # | Tamil title | Planned English file | Status | Gates |
+| # | Tamil title | English file | Status | Gates |
 |---:|---|---|---|---|
-| 1 | கயிற்றில் தொங்கிய கணபதி | `translations/en/01-kayittril-thongiya-kanapathi.md` | **not-started** | **T0 passed; T1 next** |
+| 1 | கயிற்றில் தொங்கிய கணபதி | [`translations/en/01-kayittril-thongiya-kanapathi.md`](translations/en/01-kayittril-thongiya-kanapathi.md) | **draft** | **T0–T1 passed; T2 next** |
 
-No English article body exists yet.
+Working T1 English title: **Ganapathi Who Hung from the Rope**.
+
+## T1 result — COMPLETE
+
+The complete Article 1 body was translated paragraph by paragraph from the frozen Tamil assembly and committed as a close English draft.
+
+T1 preserves:
+
+- scan-boundary comments for scans **6–15**;
+- paragraph order and article completeness;
+- quotation-heavy sections and direct speech;
+- gallows/body/blood imagery;
+- rhetorical questions, repeated exclamations and abrupt contrasts;
+- direct address to Mother Tamil / Tamil land;
+- anti-imperialist and political polemical force;
+- final source terminal `/` rather than silently normalising it.
+
+Recurring terminology and working title decisions are recorded in [`translations/en/LEXICON.md`](translations/en/LEXICON.md). T1 source-sensitive questions are recorded in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
+
+T1 introduced **no Tamil source change**.
 
 ## Translation baseline
 
@@ -53,30 +69,11 @@ No English article body exists yet.
 7. Retain source scan-boundary comments in the English article as `<!-- Tamil source: scan N / printed ... -->`.
 8. Translation may use normal English spacing, but must not edit away rhetorical force.
 
-## Known source-sensitive items to carry into T1/T2
+## Current gate sequence
 
-These Tamil forms are frozen and must be translated from their actual source context rather than 'corrected' first:
-
-- `உரைந்திருக்கும்`
-- `அடபாபமே!`
-- `கவலைப்பட வில்லை.`
-- `நன்றுக`
-- `அவர்கட்கு`
-- `அக்கரை`
-- `நெருக்கடியில்(!)`
-- `தூக்குபோட்டுவிட்டீர்களா!`
-- `கொண்டிருக்கிறார்.`
-- `உரத்தகுரலில்,`
-- `சாவின் முனையிலே`
-- final `அளிக்குமாக /`
-
-The title's final English rendering is **not yet frozen at T0**; choose it during T1 from the article's rhetorical context and record it in the English file and lexicon/review ledger.
-
-## Translation gates
-
-- **T0 — source prerequisite / setup:** **COMPLETE / PASSED**
-- **T1 — complete close English draft:** **NEXT**
-- **T2 — bilingual fidelity review:** NOT STARTED
+- **T0 — source prerequisite / setup:** COMPLETE / PASSED
+- **T1 — complete close English draft:** **COMPLETE / PASSED**
+- **T2 — bilingual fidelity review:** **NEXT**
 - **T3 — Kalaignar voice review:** NOT STARTED
 - **T4 — terminology / quotation / citation / source audit:** NOT STARTED
 - **T5 — translation verification:** NOT STARTED
@@ -87,12 +84,13 @@ For this one-article publication, E6 remains a publication-level consistency/sou
 
 ## Exact next activity
 
-Execute **T1 — complete close English draft for Article 1 only**:
+Execute **T2 — bilingual fidelity review for Article 1 only**:
 
-1. re-fetch the frozen Tamil article and confirm blob SHA `b7c6d02cd7bc041318693306b8658e18c3f8fa5b` still matches;
-2. create `translations/en/01-kayittril-thongiya-kanapathi.md`;
-3. translate the complete article paragraph by paragraph;
-4. preserve page-boundary comments, quotation structure, questions, exclamations, repetition and polemical force;
-5. record any terminology/title decisions in `translations/en/LEXICON.md` and any source/translation issue in `translations/en/TRANSLATION_REVIEW.md`;
-6. mark the article `draft` only after the complete body exists;
-7. do not claim T2/T3/T4/T5 in the same activity unless the handover has first advanced to those gates.
+1. re-fetch the frozen Tamil assembly and the complete English draft;
+2. confirm `source_tamil_blob_sha` still matches `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
+3. compare every English paragraph and clause against the Tamil source;
+4. check for omissions, additions, altered negatives, names, numbers, quotation scope, rhetorical questions, repetition and page-boundary comments;
+5. recheck all source-sensitive items recorded in the lexicon/review ledger;
+6. make only fidelity-driven English corrections;
+7. set `translation_status: fidelity-reviewed` only after the whole article passes;
+8. do not perform T3 in the same activity unless the authoritative handover has first advanced to T3.
