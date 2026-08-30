@@ -131,7 +131,7 @@ Do not restart or stylistically rewrite Publication 1 unless a genuine source-su
 
 ---
 
-# Publication 2 — கயிற்றில் தொங்கிய கணபதி — TAMIL COMPLETE / FROZEN
+# Publication 2 — கயிற்றில் தொங்கிய கணபதி — TAMIL FROZEN / ENGLISH ACTIVE
 
 Workspace: `publications/kayittril-thongiya-kanapathi/`  
 Supplied source: `TVA_BOK_0064013_கயிற்றில்_தொங்கிய_கணபதி.pdf`
@@ -204,34 +204,50 @@ All **17 physical scans** were reopened for a fresh strict pass using the verifi
 
 **P5 RESULT: PASS. Tamil source is frozen.**
 
-## English translation state
+## English translation state — T0 COMPLETE / PASSED
 
-- translation prerequisite: **SATISFIED**
-- T0 source prerequisite / setup: **NEXT**
-- T1 close draft: **NOT STARTED**
-- English translation body: **NOT STARTED**
+Translation prerequisite: **SATISFIED**.
 
-Frozen Tamil article currently used as the translation authority:
+Frozen Tamil authority:
 
 - `publications/kayittril-thongiya-kanapathi/articles/01-kayittril-thongiya-kanapathi.md`
-- current frozen blob SHA at P5 closeout: `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`
+- frozen Tamil article blob SHA: `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`
+
+T0 records:
+
+- [`publications/kayittril-thongiya-kanapathi/TRANSLATION_PLAN.md`](publications/kayittril-thongiya-kanapathi/TRANSLATION_PLAN.md)
+- [`publications/kayittril-thongiya-kanapathi/translations/en/README.md`](publications/kayittril-thongiya-kanapathi/translations/en/README.md)
+- [`publications/kayittril-thongiya-kanapathi/translations/en/LEXICON.md`](publications/kayittril-thongiya-kanapathi/translations/en/LEXICON.md)
+- [`publications/kayittril-thongiya-kanapathi/translations/en/TRANSLATION_REVIEW.md`](publications/kayittril-thongiya-kanapathi/translations/en/TRANSLATION_REVIEW.md)
+
+Current English state:
+
+- T0 source prerequisite / setup: **COMPLETE / PASS**
+- Article 1 translation status: **not-started**
+- T1 close draft: **NEXT**
+- T2 bilingual fidelity: **NOT STARTED**
+- T3 voice review: **NOT STARTED**
+- T4 terminology/quotation/source audit: **NOT STARTED**
+- T5 verification: **NOT STARTED**
+- English body file: **not yet created**
+- unresolved translation blockers: **0**
+
+Permanent rule: **Translate the language; do not neutralise the voice.**
 
 ## Exact next activity
 
-Execute **T0 — English translation source prerequisite / setup** only:
+Execute **T1 — complete close English draft for Article 1 only**:
 
-1. re-fetch live `main` and the frozen Tamil article first;
-2. confirm and record the current frozen Tamil article blob SHA;
-3. create `publications/kayittril-thongiya-kanapathi/TRANSLATION_PLAN.md`;
-4. create `publications/kayittril-thongiya-kanapathi/translations/en/README.md`;
-5. create `publications/kayittril-thongiya-kanapathi/translations/en/LEXICON.md`;
-6. create `publications/kayittril-thongiya-kanapathi/translations/en/TRANSLATION_REVIEW.md`;
-7. register Article 1 as `not-started`, with the strict-reviewed Tamil assembly as authority;
-8. record the permanent rule: **Translate the language; do not neutralise the voice.**
-9. do **not** begin T1 body translation in the same activity unless the handover has first been advanced to T1.
+1. re-fetch live `main` and the frozen Tamil article;
+2. confirm the Tamil article blob SHA is still `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
+3. create `publications/kayittril-thongiya-kanapathi/translations/en/01-kayittril-thongiya-kanapathi.md`;
+4. translate the complete article paragraph by paragraph from the frozen Tamil assembly;
+5. preserve scan-boundary comments, quotation structure, commands, repetition, rhetorical questions, exclamations, imagery and polemical force;
+6. record actual title/terminology decisions in the living lexicon and source/translation issues in the review ledger;
+7. set the English article to `translation_status: draft` only after the full body is complete;
+8. update tracker/plan/README/HANDOVER to show T1 complete and T2 next;
+9. **do not perform T2 in the same activity**.
 
 ## Current blockers
 
 **None.**
-
-Publication 2 is ready for T0 translation setup.
