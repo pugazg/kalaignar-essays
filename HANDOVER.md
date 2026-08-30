@@ -204,7 +204,7 @@ All **17 physical scans** were reopened for a fresh strict pass using the verifi
 
 **P5 RESULT: PASS. Tamil source is frozen.**
 
-## English translation state — T0 COMPLETE / PASSED
+## English translation state — T0–T1 COMPLETE
 
 Translation prerequisite: **SATISFIED**.
 
@@ -213,40 +213,50 @@ Frozen Tamil authority:
 - `publications/kayittril-thongiya-kanapathi/articles/01-kayittril-thongiya-kanapathi.md`
 - frozen Tamil article blob SHA: `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`
 
-T0 records:
+English records:
 
 - [`publications/kayittril-thongiya-kanapathi/TRANSLATION_PLAN.md`](publications/kayittril-thongiya-kanapathi/TRANSLATION_PLAN.md)
 - [`publications/kayittril-thongiya-kanapathi/translations/en/README.md`](publications/kayittril-thongiya-kanapathi/translations/en/README.md)
 - [`publications/kayittril-thongiya-kanapathi/translations/en/LEXICON.md`](publications/kayittril-thongiya-kanapathi/translations/en/LEXICON.md)
 - [`publications/kayittril-thongiya-kanapathi/translations/en/TRANSLATION_REVIEW.md`](publications/kayittril-thongiya-kanapathi/translations/en/TRANSLATION_REVIEW.md)
+- [`publications/kayittril-thongiya-kanapathi/translations/en/01-kayittril-thongiya-kanapathi.md`](publications/kayittril-thongiya-kanapathi/translations/en/01-kayittril-thongiya-kanapathi.md)
 
 Current English state:
 
 - T0 source prerequisite / setup: **COMPLETE / PASS**
-- Article 1 translation status: **not-started**
-- T1 close draft: **NEXT**
-- T2 bilingual fidelity: **NOT STARTED**
+- T1 complete close English draft: **COMPLETE / PASS**
+- Article 1 translation status: **draft**
+- English drafts: **1 / 1**
+- working English title: **Ganapathi Who Hung from the Rope**
+- T2 bilingual fidelity review: **NEXT**
 - T3 voice review: **NOT STARTED**
 - T4 terminology/quotation/source audit: **NOT STARTED**
 - T5 verification: **NOT STARTED**
-- English body file: **not yet created**
-- unresolved translation blockers: **0**
+- English release: **NOT YET**
+- blocking T1 translation questions: **0**
+- open T2/T4 review items: **7**
 
 Permanent rule: **Translate the language; do not neutralise the voice.**
 
+### T1 notes carried forward
+
+T1 translated the complete scans **6–15** article and retained all scan-boundary comments. The draft preserves the gallows personification, blood/body imagery, direct addresses, political accusations, rhetorical questions, exclamations and final source `/`.
+
+T2 must specifically recheck the working title, quotation scope around `சுதந்திர பூமியில்...`, the irregular quote beginning `மிகவும் உயர்ந்த நிலையில்...`, source-bearing `மங்கு`, the colloquial `அடிப்பியோ?...` taunt, `நன்றுக அழு!`, and the final terminal slash. These are review items, not Tamil-source defects.
+
 ## Exact next activity
 
-Execute **T1 — complete close English draft for Article 1 only**:
+Execute **T2 — bilingual fidelity review for Article 1 only**:
 
-1. re-fetch live `main` and the frozen Tamil article;
-2. confirm the Tamil article blob SHA is still `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
-3. create `publications/kayittril-thongiya-kanapathi/translations/en/01-kayittril-thongiya-kanapathi.md`;
-4. translate the complete article paragraph by paragraph from the frozen Tamil assembly;
-5. preserve scan-boundary comments, quotation structure, commands, repetition, rhetorical questions, exclamations, imagery and polemical force;
-6. record actual title/terminology decisions in the living lexicon and source/translation issues in the review ledger;
-7. set the English article to `translation_status: draft` only after the full body is complete;
-8. update tracker/plan/README/HANDOVER to show T1 complete and T2 next;
-9. **do not perform T2 in the same activity**.
+1. re-fetch live `main`, the frozen Tamil assembly and the English draft;
+2. confirm the English `source_tamil_blob_sha` still matches `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
+3. compare every English paragraph and clause against the Tamil source;
+4. check omissions, additions, negatives, names, numbers, quotation scope, rhetorical questions, repetition and scan-boundary comments;
+5. recheck all seven T1 watch-items recorded above and in the review ledger;
+6. make only fidelity-driven English corrections;
+7. set Article 1 to `fidelity-reviewed` only after the complete bilingual pass succeeds;
+8. update tracker/plan/README/HANDOVER to show T2 complete and T3 next;
+9. **do not perform T3 in the same activity**.
 
 ## Current blockers
 
