@@ -8,7 +8,7 @@ source_tamil_blob_sha: "b7c6d02cd7bc041318693306b8658e18c3f8fa5b"
 source_scan_pages: "6-15"
 source_printed_pages: "6-14; scan 6 has no visible printed numeral"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -16,7 +16,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 6 / printed numeral not visible -->
 
-Imperialism that delighted in swinging Bhagat Singh on the gallows—imperialism that beat Tiruppur Kumaran with batons, made blood run all along the street, licked it up and trumpeted in triumph—here it is today, in the form of the Malayan Government, tasting Ganapathi too with its rough blood-tongues. The gallows keeps feeding on countless human beings and singing in revelry. Countless human forms have been caught and destroyed between its cruel teeth. Not content with throttling the throats of criminals, the gallows also finishes the lives of innocents in half a second and stuffs its belly! Do you know how many noble lives have had their histories written in the blood congealed on the gallows? If each severed sinew there—each bone flung and scattered—were to begin to speak
+Imperialism that delighted in swinging Bhagat Singh on the gallows—imperialism that beat Tiruppur Kumaran with batons, made blood run all along the street, licked it up and trumpeted in triumph—here it is today, in the form of the Malayan Government, tasting Ganapathi too with its rough blood-tongues. The gallows keeps feeding on countless human beings and singing in revelry. Countless human forms have been caught between its cruel teeth and destroyed. Not content with throttling the throats of criminals, the gallows also finishes the lives of innocents in half a second and stuffs its belly! Do you know how many noble lives have had their histories written in the blood congealed on the gallows? If each severed sinew there—each bone flung and scattered—were to begin to speak
 
 <!-- Tamil source: scan 7 / printed 6 -->
 
@@ -46,11 +46,11 @@ The news ‘Ganapathi will be hanged’ reached Dravidam—why, the whole world�
 
 “Did you see, Mother Tamil!... You said that if the sons of Bharat came to rule, no one could touch us...... You said good times would dawn when the white man left... Look now!... I tear the flesh of your son and eat it. This is the food the white man gave me! Very sweet! At this very moment Nehru, enemy of the white man—is dining in the white man's country... I too am dining here”—the gallows laughs. It claps its hands and laughs; it laughs aloud. Beside it, the corpse laughs.
 
-How many people die every day in the world. Do we grieve for every one of them? Likewise, how many are hanged.... But Ganapathi's punishment assumes importance for Tamil Nadu. Ganapathi himself becomes a lesson for Tamil Nadu! His life is a political class for Tamils. His last letter is a war address to the Tamil battalion.
+So many people die every day in the world. Do we grieve for every one of them? Likewise, how many are hanged.... But Ganapathi's punishment assumes importance for Tamil Nadu. Ganapathi himself becomes a lesson for Tamil Nadu! His life is a political class for Tamils. His last letter is a war address to the Tamil battalion.
 
 “A flower blooms......spreads fragrance......withers and dies.”
 
-A flower blooming and withering away are examples used by those who declaim, “This body is false, my boy.” But the flower also gives fragrance—that is what the rationalist movement wishes to point out. “Man is born, he dies. Going back by the road he came is the mark of man,” say those who are disgusted with life. They see only the flower blooming and withering away; the pleasant fragrance the flower gives does not touch their sensibility.
+A flower blooms and withers away—these are the examples used by those who declaim, “This body is false, my boy.” But the flower also gives fragrance—that is what the rationalist movement wishes to point out. “Man is born, he dies. Going back by the road he came is the mark of man,” say those who are disgusted with life. They see only the flower blooming and withering away; the pleasant fragrance the flower gives does not touch their sensibility.
 
 <!-- Tamil source: scan 10 / printed 9 -->
 
@@ -78,7 +78,7 @@ Is this fitting, Tamil land!...... You weep that your beloved son is dead......y
 
 Now cry! Cry well! Cry until your eyelids grow heavy! Cry until blood begins to flow from your eyes!
 
-This is what rings out in Ganapathi's loud voice, with fervour. Can anyone say it does not?
+This is what rings out, with fervour, in Ganapathi's loud voice. Can anyone say it does not?
 
 Ganapathi, who went to Malaya under British rule, after the song “Let us dance, let us sing the pallu” had grown old here, was felled as a corpse by that same British government. In the land of his birth, the conch-blast of ‘Goddess Freedom’! That sound was not heard in the land to which Ganapathi went to make a living. It was not blown loudly enough to be heard. Why? Is the conch cracked? Or is there no strength in the voice of the one who blows it?
 
@@ -86,7 +86,7 @@ There is no case that Ganapathi shot and killed any white capitalist. For the so
 
 <!-- Tamil source: scan 13 / printed 12 -->
 
-The tableau is not yet fully arranged. There a Tamil's heart is being split; here Achariyar opens the cave of the Pathala Lingam. Congress leader Kamaraj has not enough day or hour to finish glaring fire from his eyes and abusing Dravidar Kazhagam. In this crisis(!), that hero forgot Ganapathi altogether. “Have you hanged him! That is a very wrong thing,” he now roars. Kamaraj's heroic roar is like that comic bit where, after getting beaten, a man cries, “Will you hit me? Son of your father! I'm a lion, man!” Before his roar is even over, Veerasenan has been shot down like a worthless animal! Sambasivam has been placed at death's edge. They say that if you blow a conch into a deaf man's ear, he will not hear. If the blowers themselves have no lips, what a painful farce it becomes! Such is the frenzy of the Malayan Government and the Indian Government's chapter of appeals!
+The tableau is not yet fully arranged. There a Tamil's heart is being split; here Achariyar opens the cave of the Pathala Lingam. Congress leader Kamaraj cannot find enough days or hours to finish glaring fire from his eyes and abusing Dravidar Kazhagam. In this crisis(!), that hero forgot Ganapathi altogether. “Have you hanged him! That is a very wrong thing,” he now roars. Kamaraj's heroic roar is like that comic bit where, after getting beaten, a man cries, “Will you hit me? Son of your father! I'm a lion, man!” Before his roar is even over, Veerasenan has been shot down like a worthless animal! Sambasivam has been placed at death's edge. They say that if you blow a conch into a deaf man's ear, he will not hear. If the blowers themselves have no lips, what a painful farce it becomes! Such is the frenzy of the Malayan Government and the Indian Government's chapter of appeals!
 
 At a time when Kamaraj ought to be in Malaya, he is here wiping down the ministerial chair. Is that just, Kamaraj? Are Jawahar and Patel going to condemn Tamil corpses being stacked on the gallows? Even if they condemn it, will there be any heat in it? If they had concern, would the rope that tightened around Ganapathi's neck be hanging before Sambasivam? If fire had flashed in their eyes, would bullets have flown
 
@@ -94,12 +94,12 @@ At a time when Kamaraj ought to be in Malaya, he is here wiping down the ministe
 
 toward Veerasenan? Having offered two strapping young bulls as a sacrifice to the Malayan Government's repression, then sending statements flying—doesn't that resemble grandly performing the final rites after death for a man ignored while he was alive!
 
-Ganapathi or Veerasenan can no longer be revived by our tears. Yet I have no heart to sing, in Kalki's style, an auspicious refrain: ‘May his soul attain peace!’ We must not forget that Ganapathi is a lesson to us—Kamaraj included! What is happening in Malaya is a tragic serial in Tamil life. This story has crossed the ‘chapter of going away to make a living’ and reached the ‘chapter where the Tamil is unjustly killed.’ What will the next chapter be? How terrible will it be?
+Ganapathi or Veerasenan can no longer be revived by our tears. Yet I have no heart to sing, in Kalki's style, an auspicious refrain: ‘May his soul attain peace!’ We must not forget that Ganapathi is a lesson to us—Kamaraj included! What is happening in Malaya is a tragic serial in the life of the Tamils. This story has crossed the ‘chapter of going away to make a living’ and reached the ‘chapter where the Tamil is unjustly killed.’ What will the next chapter be? How terrible will it be?
 
 If Dravidam had stood separate—had been a sovereign state—would Ganapathi have gone to Malaya as a coolie? Would he not have toured there as a representative of Dravidam? The Dravidians would not have suffered the wretched sight of that worker-comrade hanging from the gallows. Why... even now... if Dravidam gains self-rule, one order!...... Dravidam's sacred children who went to Malaya to make a living and are falling into mortal peril will be called back. Tirupati Venkatesan and Thillai Nataraja will pool their capital and build a factory for the refugees returning from there. Madurai Meenakshi, the goddess, will convene a conference of goddesses
 
 <!-- Tamil source: scan 15 / printed 14 -->
 
-and pass a resolution, ‘We do not need jewels,’ take off pearl and emerald necklaces and ruby nose-rings, and provide beautiful places for poor Tamils to live. That is the good work that will happen in a separated Dravidam. If Dravidam stands separate, the sense of self-respect will bloom luxuriantly. The bond of blood will not leave the Dravidian's heart. Those descended from kings will have no need to go to Malaya and Ceylon and bend the knee. Dravidians will live in their own sacred land. They can live. They are going to live. May Ganapathi's murder give the Dravidians this resolve /
+and pass a resolution, ‘We do not need jewels,’ take off pearl and emerald necklaces and ruby nose-rings, and provide beautiful places for poor Tamils to live. That is the good work that will happen in a separate Dravidam. If Dravidam stands separate, self-respect will bloom and flourish. The bond of blood will not leave the Dravidian's heart. Those descended from kings will have no need to go to Malaya and Ceylon and bend the knee. Dravidians will live in their own sacred land. They can live. They are going to live. May Ganapathi's murder give the Dravidians this resolve /
 
 <!-- Tamil source article ends on scan 15 before the separate printed ending ornament -->
