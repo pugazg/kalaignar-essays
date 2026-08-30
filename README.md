@@ -10,12 +10,9 @@
 
 ## Permanent workflow documents
 
-- [`ESSAY_PROCESSING_GUIDE.md`](ESSAY_PROCESSING_GUIDE.md) — Tamil source/archive workflow
-- [`ESSAY_TRANSLATION_GUIDE.md`](ESSAY_TRANSLATION_GUIDE.md) — English translation workflow
-- [`HANDOVER.md`](HANDOVER.md) — single authoritative live project handover
-
-### Reusable future-work kit
-
+- [`ESSAY_PROCESSING_GUIDE.md`](ESSAY_PROCESSING_GUIDE.md)
+- [`ESSAY_TRANSLATION_GUIDE.md`](ESSAY_TRANSLATION_GUIDE.md)
+- [`HANDOVER.md`](HANDOVER.md)
 - [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md)
 - [`docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`](docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md)
 - [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md)
@@ -25,85 +22,65 @@
 Workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
 - ஆசிரியர்: **கலைஞர் மு. கருணாநிதி**
-- first-edition statement in scan: **மே 1956**
+- first-edition statement: **மே 1956**
 - supplied edition: **2018 மறுபதிப்பு**
 - physical scans: **83**
 - printed contents: **14 கட்டுரைகள்**
-- source PDF committed to repository: **No**
-
-### Tamil source / fidelity status — COMPLETE / FROZEN
-
-- **83 / 83** page records complete
-- **83 / 83** scans strict word-by-word / punctuation-by-punctuation fidelity checked
-- **14 / 14** Tamil article assemblies complete and strict-rechecked
-- **0** unresolved `NEEDS-PIXEL-REVIEW`
+- source PDF committed: **No**
+- Tamil page records: **83 / 83**
+- strict Tamil fidelity: **83 / 83**
+- Tamil assemblies: **14 / 14**
+- English release: **COMPLETE / RELEASED**
 
 Detailed records:
 
 - [`PUBLICATION_COMPLETION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md)
 - [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md)
+- [`translations/en/`](publications/sakkaravarththiyin-thirumagan/translations/en/)
 
-### English translation / release — COMPLETE / RELEASED
-
-- English drafts: **14 / 14**
-- T2 fidelity-reviewed: **14 / 14**
-- T3 voice-reviewed: **14 / 14**
-- T4 audited: **14 / 14**
-- T5 verified: **14 / 14**
-- E6 publication-wide consistency review: **PASSED**
-- E7 English release closeout: **PASSED / COMPLETE**
-- unresolved translation questions: **0**
-- English release gate: **CLOSED**
-
-English workspace: [`publications/sakkaravarththiyin-thirumagan/translations/en/`](publications/sakkaravarththiyin-thirumagan/translations/en/)  
-Translation plan: [`publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md`](publications/sakkaravarththiyin-thirumagan/TRANSLATION_PLAN.md)  
-Review ledger: [`publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/translations/en/TRANSLATION_REVIEW.md)  
-Release report: [`publications/sakkaravarththiyin-thirumagan/translations/en/RELEASE_REPORT.md`](publications/sakkaravarththiyin-thirumagan/translations/en/RELEASE_REPORT.md)
-
-Publication-wide source `ஆச்சாரியார்` is rendered **Achariyar**; Article 7 explicit `இராஜாஜி` remains **Rajaji**, and Article 11 source plural `ஆச்சாரியார்களுக்கு` remains **the Achariyars**.
-
-Important source-witness boundaries remain frozen: Article 5 contents/heading variants stay distinct; Article 10 title/body phrase witnesses stay distinct; Article 14 contents/heading punctuation witnesses stay distinct; scan 83 remains a separate promotional Article 12 witness; Article 14 ends on scan 82 before the separate `விடுதலை` advertisement.
+Do not restart or stylistically rewrite Publication 1 unless a genuine source-supported defect is discovered.
 
 ## Publication 2 — கயிற்றில் தொங்கிய கணபதி — TAMIL SOURCE ACTIVE
 
 Workspace: [`publications/kayittril-thongiya-kanapathi/`](publications/kayittril-thongiya-kanapathi/)
 
 - ஆசிரியர்: **மு. கருணாநிதி**
-- source-visible publication date: **ஜூலை 1949**
+- publication date: **ஜூலை 1949**
 - publisher: **அறிவுப்பண்ணை**
-- publication type: **standalone single-article pamphlet / சிறுநூல்**
+- type: **standalone single-article pamphlet / சிறுநூல்**
 - physical scans: **17**
 - source SHA-256: `927d05fb27a2545d6732acd9bf8bde04dba2d22546d171b502703a773b40f45a`
-- source PDF committed to repository: **No**
+- source PDF committed: **No**
 
 ### Current source status
 
-- P0 source intake / publication identification: **COMPLETE**
-- P1 metadata + page map / boundary mapping: **COMPLETE**
-- page map: [`indexes/page-map.md`](publications/kayittril-thongiya-kanapathi/indexes/page-map.md) — **17 / 17 mapped**
+- P0: **COMPLETE**
+- P1: **COMPLETE**
 - P2 page records: **COMPLETE — 17 / 17 verified**
 - P3 article assembly: **COMPLETE — 1 / 1**
-- article: [`01-kayittril-thongiya-kanapathi.md`](publications/kayittril-thongiya-kanapathi/articles/01-kayittril-thongiya-kanapathi.md)
-- **P4 source audit / completeness review: NEXT**
-- P5 strict visual-text-fidelity pass: **0 / 17 — NOT STARTED**
+- P4 source audit / completeness review: **COMPLETE / PASS**
+- audit: [`PUBLICATION_COMPLETION_REVIEW.md`](publications/kayittril-thongiya-kanapathi/PUBLICATION_COMPLETION_REVIEW.md)
+- **P5 strict visual-text-fidelity pass: NEXT — 0 / 17**
+- Tamil source freeze: **NOT YET**
 - English translation: **NOT STARTED**
 
-P1 fixed the source structure: scans 1–5 front matter, scan 4 `பதிப்புரை`, scan 5 blank, scans 6–15 the single article, scans 16–17 separate advertisements. Scan 6 has **no visible printed numeral**; scans 7–15 visibly carry printed pages 6–14.
+Source structure remains: scans 1–5 front matter, scan 4 `பதிப்புரை`, scan 5 blank, scans 6–15 article, scans 16–17 separate ads. Scan 6 has no visible printed numeral; scans 7–15 carry visible printed pages 6–14.
 
-P2 directly verified every page against the scan. Important source-pixel corrections recorded during that pass include:
+P4 confirmed all 17 scans are represented exactly once, page-map/page-record structure is complete, the single assembly uses scans 6–15 only, front matter/advertisements are excluded, P2 correction provenance is consistent, and unresolved source/body blockers are **0**.
+
+Important source-pixel corrections already recorded:
 
 - `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டார்களா!`**
 - `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`**
-- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`**
+- `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`**
 
-Source-supported unusual forms such as `உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `நேரமில்லை`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை` and final `அளிக்குமாக /` remain unnormalised.
+Source-supported forms such as `உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை` and final `அளிக்குமாக /` remain unnormalised.
 
-P3 assembled the single article strictly from verified scans 6–15, retaining page-boundary comments and excluding front matter / advertisements.
-
-Source metadata: [`metadata/source.md`](publications/kayittril-thongiya-kanapathi/metadata/source.md).
+Article: [`01-kayittril-thongiya-kanapathi.md`](publications/kayittril-thongiya-kanapathi/articles/01-kayittril-thongiya-kanapathi.md)  
+Source metadata: [`metadata/source.md`](publications/kayittril-thongiya-kanapathi/metadata/source.md)
 
 ## Current project state / exact next activity
 
-Publication 1 remains frozen. Publication 2 has completed **P0–P3**.
+Publication 1 remains frozen. Publication 2 has completed **P0–P4**.
 
-**Exact next activity:** execute **P4 — source audit / completeness review** for all 17 scans and the single article assembly. Confirm every physical scan is represented exactly once, source boundaries and printed-page mappings remain correct, article assembly matches verified scans 6–15, front matter/ads are excluded, known correction provenance is carried consistently, unresolved blockers are explicit, and no silent normalization has entered the archive. Keep the later P5 strict every-word/every-punctuation re-audit as a separate gate. The root [`HANDOVER.md`](HANDOVER.md) is the authoritative continuation record.
+**Exact next activity:** execute **P5 — strict visual word/punctuation fidelity pass over all 17 physical scans in one activity**. Recheck every visible word, punctuation mark, heading, date, number, meaningful word boundary, continuation and witness boundary against the controlling scan; record and propagate every source-supported correction; create `VISUAL_TEXT_FIDELITY_REVIEW.md`; then recheck the article assembly. Do not mark Tamil frozen or begin English translation until P5 passes.

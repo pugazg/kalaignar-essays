@@ -4,7 +4,8 @@ Source: `TVA_BOK_0064013_கயிற்றில்_தொங்கிய_�
 Physical scans: **17**  
 P1 structure map: **COMPLETE**  
 P2 page records: **17 / 17 VERIFIED**  
-P3 article assembly: **1 / 1 COMPLETE**
+P3 article assembly: **1 / 1 COMPLETE**  
+P4 source audit / completeness review: **PASS**
 
 | Scan | Printed page | Type / section | Publication relation | Page record |
 |---:|---:|---|---|---|
@@ -28,49 +29,60 @@ P3 article assembly: **1 / 1 COMPLETE**
 
 ## Printed-page numbering behaviour
 
-- Scans **1–5**: no visible printed page number.
-- **Scan 6 has no visible printed numeral.** Scan 7 begins with visible printed page 6; the archive does **not** invent visible page 5 for scan 6.
-- Scans **7–15** visibly carry printed pages **6–14**.
-- Scans **16–17**: no visible printed page number.
+- scans **1–5**: no visible printed page number
+- scan **6**: **no visible printed numeral**; no inferred visible page 5
+- scans **7–15**: printed pages **6–14**
+- scans **16–17**: no visible printed page number
 
-Physical scan number and printed page number are separate archival fields.
+Physical scan number and printed page number remain separate archival fields.
 
 ## Publication / article boundaries
 
 - front matter: scans **1–5**
 - `பதிப்புரை`: scan **4**
-- blank scan: **5**
+- blank: scan **5**
 - single article `கயிற்றில் தொங்கிய கணபதி`: scans **6–15**
-- article begins on scan **6**
-- article ends on scan **15** before the separate post-text witnesses
-- advertisements / promotional matter: scans **16–17**
+- article begins scan **6** and concludes scan **15**
+- advertisements: scans **16–17**
 - printed contents page: **none**
 
-Article assembly: [`../articles/01-kayittril-thongiya-kanapathi.md`](../articles/01-kayittril-thongiya-kanapathi.md), assembled strictly from verified scans **6–15**.
+Article assembly: [`../articles/01-kayittril-thongiya-kanapathi.md`](../articles/01-kayittril-thongiya-kanapathi.md).
 
 ## Physical-copy notes
 
-- scan 1: cover artwork with hanging human silhouette
-- scan 2: two rectangular library ownership stamps; obscured/crossed wording is not reconstructed
+- scan 1: hanging human silhouette cover artwork
+- scan 2: two rectangular library ownership stamps; obscured/crossed wording not reconstructed
 - scan 15: library stamp below printed ending ornament
-- scans 16–17: independent printed promotional witnesses, never article body
+- scans 16–17: independent promotional witnesses, never article body
 
-## P2/P3 correction provenance relevant to mapping
+## Correction provenance relevant to page/assembly consistency
 
-Direct enlarged review of scan 13 / printed p.12 superseded earlier provisional readings:
+- `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டார்களா!`** — scan 13 / p.12
+- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / p.12
+- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / p.11
 
-- `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டார்களா!`**
-- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`**
+## P4 audit result
 
-Direct review of scan 12 / printed p.11 also established **`உரத்தகுரலில்,`** rather than the interim semicolon reading.
+P4 confirmed:
+
+- all **17 / 17** physical scans are represented exactly once by the page-record list above;
+- no missing/duplicate scan record exists;
+- role/boundary mapping is consistent with the source model;
+- scan 6 stays unnumbered and scans 7–15 preserve visible 6–14;
+- article assembly uses scans 6–15 only;
+- front matter and scans 16–17 are excluded from the article;
+- known corrections and source-specific readings propagate to the assembly;
+- unresolved body/source blockers: **0**.
+
+Audit: [`../PUBLICATION_COMPLETION_REVIEW.md`](../PUBLICATION_COMPLETION_REVIEW.md).
 
 ## Current gate
 
 - P0: COMPLETE
 - P1: COMPLETE
-- P2: COMPLETE — **17 / 17 verified page records**
-- P3: COMPLETE — **1 / 1 article assembly**
-- **P4 source audit / completeness review: NEXT**
-- P5 strict visual fidelity: NOT STARTED
+- P2: COMPLETE — 17 / 17
+- P3: COMPLETE — 1 / 1
+- P4: **COMPLETE / PASS**
+- **P5 strict visual fidelity: NEXT — 0 / 17**
 
-P4 must confirm structural/source completeness and page↔assembly consistency without substituting for the later separate P5 word/punctuation re-audit.
+P5 remains a separate fresh every-word/every-punctuation scan re-audit.
