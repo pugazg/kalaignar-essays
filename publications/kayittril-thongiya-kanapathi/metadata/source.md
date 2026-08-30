@@ -10,9 +10,12 @@
 - Language: Tamil
 - Script: Tamil
 - Controlling source: the supplied scanned PDF
-- Intake status: **P0 COMPLETE**
+- P0 intake status: **COMPLETE**
+- P1 metadata / page-map / boundary-mapping status: **COMPLETE**
 - Page-level transcription status: **not started in repository**
 - Strict visual text-fidelity status: **not started**
+
+Page map: [`../indexes/page-map.md`](../indexes/page-map.md)
 
 ## Title / authorship visible in the scan
 
@@ -43,18 +46,19 @@ Scan 3 visibly records:
 This is a **standalone single-article pamphlet / சிறுநூல்**, not a multi-article collection.
 
 - printed contents page: **none visible**
-- `பதிப்புரை`: scan 4
-- blank scan: scan 5
-- article heading/opening: scan 6
+- front matter: scans **1–5**
+- `பதிப்புரை`: scan **4**
+- blank scan: scan **5**
+- article heading/opening: scan **6**
 - article body/conclusion: scans **6–15**
 - separate advertisements / promotional matter: scans **16–17**
 
-The body ends on scan 15 at the printed ornament after the final `கணபதியின் கொலை...` sentence. Material on scans 16–17 is not article body.
+The body ends on scan 15 at the printed ornament following the final article sentence. Material on scans 16–17 is not article body.
 
 ## Printed-page numbering behaviour
 
 - scans 1–5: no visible printed page number
-- scan 6: no visible printed numeral; because scan 7 begins with visible printed page **6**, scan 6 is sequence-adjacent to printed page 6, but archival records must **not invent a visible printed `5`**
+- scan 6: **no visible printed numeral**; because scan 7 begins with visible printed page **6**, scan 6 is sequence-adjacent to printed page 6, but archival records must **not invent a visible printed `5`**
 - scan 7: printed page **6**
 - scan 8: printed page **7**
 - scan 9: printed page **8**
@@ -65,6 +69,8 @@ The body ends on scan 15 at the printed ornament after the final `கணபத�
 - scan 14: printed page **13**
 - scan 15: printed page **14**
 - scans 16–17: no visible printed page number
+
+P1 confirmed this numbering model across all **17 / 17** physical scans. Physical scan number and printed page number remain separate archival fields.
 
 ## Scan / physical-copy observations
 
@@ -103,6 +109,17 @@ After P0, the user checked the PDF and confirmed that the Gemini readings I had 
 - final **`அளிக்குமாக /`**
 
 These readings will still be included in the normal word-by-word P2/P5 visual pass, but there is no standing correction against them. Any future change requires clear source-pixel evidence and must be provenance-recorded.
+
+## P1 completion result
+
+P1 completed the structural mapping without making body-text claims:
+
+- **17 / 17** physical scans classified in [`../indexes/page-map.md`](../indexes/page-map.md);
+- printed-page behaviour mapped, including the absent visible numeral on scan 6;
+- `பதிப்புரை`, blank scan, article start/end and post-text advertisement boundaries fixed;
+- no printed contents page exists, so no `indexes/contents.md` transcription is required for this publication;
+- no source-structure correction to the P0 standalone-pamphlet model was required;
+- Gemini remains first-pass text only; **0 / 17** page records have yet been created.
 
 ## Source authority rule
 
