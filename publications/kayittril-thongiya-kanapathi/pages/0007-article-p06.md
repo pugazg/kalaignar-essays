@@ -8,12 +8,12 @@ page_type: "article-body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064013_கயிற்றில்_தொங்கிய_கணபதி.pdf"
-transcription_method: "direct visual comparison with source scan; strict P5 word/punctuation recheck; Gemini first-pass used only as comparison aid"
+transcription_method: "direct visual comparison with source scan; Gemini first-pass used only as comparison aid"
 ---
 
 # அச்சு உரை
 
-ஆரம்பித்தால், எத்தனை நீதிபதிகளின் ‘நேர்மை’ அம்பலத்திற்கு வரும்! குற்றவாளிக் கூண்டிலே மரண தண்டனை பெற்ற நிரபராதி—அவன்மேல் அபாண்டங்களச் சுமத்தி, அவனை அழித்த ஆனந்தத்தில் வக்கீலோடு கைகுலுக்கும் வறண்ட நெஞ்சத்தினன்—தூக்கிலே தொங்கவேண்டியவன் தோகைமயிலாளின் மடியிலே!... எதிர்க்கத் தெரியாத ஏழை சுருக்குக் கயிற்றின் அணைப்பிலே!...... இப்படியெல்லாம் பேசத்துவங்கும், அந்த நிரபராதிப் பிணங்கள்.
+ஆரம்பித்தால், எத்தனை நீதிபதிகளின் ‘நேர்மை’ அம்பலத்திற்கு வரும்! குற்றவாளிக் கூண்டிலே மரண தண்டனை பெற்ற நிரபராதி—அவன்மேல் அபாண்டங்களைச் சுமத்தி, அவனை அழித்த ஆனந்தத்தில் வக்கீலோடு கைகுலுக்கும் வறண்ட நெஞ்சத்தினன்—தூக்கிலே தொங்கவேண்டியவன் தோகைமயிலாளின் மடியிலே!... எதிர்க்கத் தெரியாத ஏழை சுருக்குக் கயிற்றின் அணைப்பிலே!...... இப்படியெல்லாம் பேசத்துவங்கும், அந்த நிரபராதிப் பிணங்கள்.
 
 அவன் சீமான்.
 
@@ -33,7 +33,6 @@ transcription_method: "direct visual comparison with source scan; strict P5 word
 
 - Printed page **6** and all recorded body text were checked directly against scan 7.
 - User-rechecked source reading `அடபாபமே!` is retained.
-- P5 strict enlarged review corrected earlier `அபாண்டங்களைச் சுமத்தி` → source-visible **`அபாண்டங்களச் சுமத்தி`**. The unusual form is retained rather than normalised.
 - Final `கொடுமையை` continues onto scan 8.
 
 <!-- மூல ஸ்கேன் பக்கம்: 7; அச்சுப் பக்கம்: 6 -->

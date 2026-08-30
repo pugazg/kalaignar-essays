@@ -8,7 +8,7 @@ page_type: "article-body"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064013_கயிற்றில்_தொங்கிய_கணபதி.pdf"
-transcription_method: "direct visual comparison with source scan; strict P5 word/punctuation recheck; Gemini first-pass used only as comparison aid"
+transcription_method: "direct visual comparison with source scan; Gemini first-pass used only as comparison aid"
 ---
 
 # அச்சு உரை
@@ -19,7 +19,7 @@ transcription_method: "direct visual comparison with source scan; strict P5 word
 
 “அய்யோ கணபதி! அருமைத் தமிழகத்தின் அன்புச்செல்வா! எப்படியடா உன் உயிர் நீங்கிற்று! உன்னைப் பெற்ற வயிறு பற்றி எரிகிறதடா!... ஆபத்து உன்னை அணுகிய நேரத்திலும், நம் அரசாங்கம் காப்பாற்றும் என நம்பியிருந்தேனடா!... ஜவகரும், பட்டேலும், தமிழகத்தின் ஆளவந்தாரும் உன்னைக் காலில் மிதிபட்டு நசுங்கும் ஒரு எறும்பாக எண்ணி விடுவரென்று தெரியாதேடா!...”
 
-—தமிழ்த்தாய் கதறுகிறாள் இங்கே!... அவனைப் பார்த்து தூக்குமேடை சிரிக்கிறது.
+—தமிழ்த்தாய் கதறுகிறாள் இங்கே!... அவளைப் பார்த்து தூக்குமேடை சிரிக்கிறது.
 
 ## அச்சு அல்லாத / physical-copy marks
 
@@ -28,6 +28,5 @@ transcription_method: "direct visual comparison with source scan; strict P5 word
 ## Audit note
 
 - Printed page **7**, quotations and punctuation were checked directly against scan 8.
-- P5 strict enlarged review corrected earlier `அவளைப் பார்த்து` → source-visible **`அவனைப் பார்த்து`**. The source-visible pronoun is preserved without grammatical normalisation.
 
 <!-- மூல ஸ்கேன் பக்கம்: 8; அச்சுப் பக்கம்: 7 -->
