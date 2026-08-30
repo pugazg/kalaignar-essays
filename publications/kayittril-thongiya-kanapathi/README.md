@@ -21,9 +21,22 @@
 
 > **மூல ஸ்கேன் தான் controlling source.**
 
-Old Tamil glyph shapes must be read from the source pixels, not silently converted to the OCR's modern-looking guess. Spelling, punctuation, word boundaries, names, numbers and unusual forms must remain source-visible. Library stamps / handwritten marks are physical-copy evidence and must not be merged into printed text.
+Old Tamil glyph shapes must be read from the source pixels, not silently converted to a modern-looking or contextually expected form. Spelling, punctuation, word boundaries, names, numbers and unusual forms must remain source-visible. Library stamps / handwritten marks are physical-copy evidence and must not be merged into printed text.
 
-Initial direct pixel checks already show why the OCR cannot be accepted verbatim. Examples to be rechecked and provenance-recorded during page transcription / strict fidelity include source-visible forms such as `உறைந்திருக்கும்`, `அடபாவமே!`, `கவலைப்பட்டவில்லை.`, `நேரமில்ல`, `சோறில்ல`, `தூக்குபோட்டுவிட்டீர்களா!`, `கொண்டிருக்கிறார்.` and the final `அளிக்குமாக!`. These are not to be normalised from context.
+### Old-glyph correction note — user recheck
+
+After P0, the user manually rechecked the PDF and confirmed that the Gemini first-pass readings I had challenged were correct. The preliminary assistant-side “corrections” are therefore **withdrawn**. In particular, preserve the first-pass readings unless a fresh direct visual check proves otherwise, including:
+
+- `உரைந்திருக்கும்`
+- `அடபாபமே!`
+- `கவலைப்பட வில்லை.`
+- `நேரமில்லை`
+- `சோறில்லை`
+- `தூக்குபோட்டுவிட்டீர்களா 1`
+- `கொண்டிருக்கின்றார்.`
+- final `அளிக்குமாக /`
+
+The key non-regression lesson for this source is: **do not reinterpret an old Tamil glyph into a more familiar modern word merely because the modern reading looks semantically plausible.** P2 must compare the supplied first-pass transcription word by word against the scan and change it only when the pixels clearly support the change.
 
 ## Physical scan structure observed at intake
 
@@ -39,7 +52,7 @@ Initial direct pixel checks already show why the OCR cannot be accepted verbatim
 | 16 | advertisement / other publications | no printed page number |
 | 17 | advertisement / back matter | no printed page number |
 
-The article concludes on scan 15 at the printed ornament after `கணபதியின் கொலை இந்த உறுதியை திராவிடர்க்கு அளிக்குமாக!`. Scans 16–17 are separate promotional witnesses, not article body.
+The article concludes on scan 15 at the printed ornament after the final `கணபதியின் கொலை...` sentence. Scans 16–17 are separate promotional witnesses, not article body.
 
 ## Current Tamil archival status
 
@@ -53,4 +66,4 @@ The article concludes on scan 15 at the printed ornament after `கணபதி�
 
 ## Exact next activity
 
-Execute **P1 — metadata + complete 17-scan page map / boundary mapping**: create `indexes/page-map.md`, classify every physical scan, record printed-page-number behaviour and the article/ad boundaries from the controlling scan, and update the root `HANDOVER.md`. Do not mark the Gemini OCR as verified source text.
+Execute **P1 — metadata + complete 17-scan page map / boundary mapping**: create `indexes/page-map.md`, classify every physical scan, record printed-page-number behaviour and the article/ad boundaries from the controlling scan, and update the root `HANDOVER.md`. Do not mark the Gemini OCR as verified source text, but do not change its old-glyph readings merely because a modern alternative looks more familiar.
