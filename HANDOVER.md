@@ -167,15 +167,19 @@ Source identity, checksum, scan count and standalone-pamphlet structure are reco
 - printed text separated from physical-copy marks
 - no unresolved body-text blocker at P2 closeout
 
-### P2 direct-pixel correction provenance
+### P2 / retrospective correction provenance
 
-- `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டார்களா!`** — scan 13 / printed p.12
-- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / printed p.12
-- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / printed p.11
+A targeted recheck of earlier assistant-origin corrections found one false P2 correction:
+
+- first pass `தூக்குபோட்டுவிட்டீர்களா 1` → source-visible **`தூக்குபோட்டுவிட்டீர்களா!`** — scan 13 / printed p.12. Source line break: `தூக்குபோட்டுவிட்டீர்` + `களா!`. Only `1` → `!` is a correction. Earlier assistant `தூக்குபோட்டுவிட்டார்களா!` was incorrect and has been withdrawn from both the page record and article assembly.
+- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / printed p.12; rechecked again against the scan and retained.
+- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / printed p.11; rechecked again against the scan and retained.
 
 ### Source-supported non-regression readings
 
 `உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `நேரமில்லை`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை`, `தங்கந் தோண்டுமிடமாயிற்றே!`, `நெருக்கடியில்(!)` and final `அளிக்குமாக /`.
+
+**Important retrospective rule:** existing source-verified text is now the baseline. Do not replace it because an enlarged old glyph merely resembles a different modern form. A change requires clear character-level source evidence.
 
 ## P3 — article assembly — COMPLETE
 
@@ -185,6 +189,7 @@ Source identity, checksum, scan count and standalone-pamphlet structure are reco
 - scans **6–15** only
 - page-boundary comments retained
 - front matter and advertisements excluded
+- retrospective scan-13 correction above is propagated
 
 ## P4 — source audit / completeness review — COMPLETE / PASS
 
@@ -198,8 +203,7 @@ P4 verified:
 4. scan 6 remains `printed_page: null`; scans 7–15 preserve printed 6–14;
 5. the article assembly contains scans 6–15 only and all scan-boundary comments through scan 15;
 6. `பதிப்புரை` and promotional `அறிவுப் புதையல்கள்` material are absent from the article assembly;
-7. known P2 corrections and source-specific readings are propagated consistently;
-8. unresolved source/body blockers: **0**.
+7. unresolved source/body blockers: **0**.
 
 P4 closes the structural/source completeness gate only. It does not replace the mandatory P5 strict fidelity pass.
 
@@ -227,16 +231,17 @@ Detailed active records:
 
 Execute **P5 — strict visual word/punctuation fidelity pass for all 17 physical scans in one activity**:
 
-1. re-open the supplied scan and treat the P2 text as untrusted comparison material for this fresh pass;
+1. re-open the supplied scan and treat the existing verified transcription as the baseline;
 2. inspect every visible word, punctuation mark, heading, date, number and meaningful word boundary on scans **1–17**;
-3. recheck all page-to-page continuations and the printed-page sequence, especially scan 6's absent numeral;
-4. inspect difficult/old glyphs with enlargement and same-typeface comparison as needed;
-5. keep physical-copy marks outside printed text and keep scans 16–17 as independent promotional witnesses;
-6. record every P5 correction as old repository reading → source-visible reading with scan provenance;
-7. update the affected page record(s) and propagate article-body corrections to the assembly;
-8. create `publications/kayittril-thongiya-kanapathi/VISUAL_TEXT_FIDELITY_REVIEW.md`;
-9. update `PUBLICATION_COMPLETION_REVIEW.md`, publication README, metadata, page-map, root README and this handover;
-10. only after **17 / 17** strict checks and the assembly recheck pass may Publication 2 be marked Tamil source-frozen and English translation planning become eligible.
+3. do **not** alter an existing reading unless clear source pixels prove a discrepancy;
+4. recheck all page-to-page continuations and the printed-page sequence, especially scan 6's absent numeral;
+5. inspect difficult/old glyphs with enlargement and same-typeface comparison as needed;
+6. keep physical-copy marks outside printed text and keep scans 16–17 as independent promotional witnesses;
+7. record every genuine P5 correction as old repository reading → source-visible reading with scan provenance;
+8. update the affected page record(s) and propagate article-body corrections to the assembly;
+9. create `publications/kayittril-thongiya-kanapathi/VISUAL_TEXT_FIDELITY_REVIEW.md`;
+10. update `PUBLICATION_COMPLETION_REVIEW.md`, publication README, metadata, page-map, root README and this handover;
+11. only after **17 / 17** strict checks and the assembly recheck pass may Publication 2 be marked Tamil source-frozen and English translation planning become eligible.
 
 ## Current blockers
 
