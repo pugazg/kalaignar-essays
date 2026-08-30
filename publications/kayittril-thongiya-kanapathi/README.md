@@ -22,7 +22,7 @@
 
 Existing source-verified Tamil is the baseline. Old Tamil glyphs, spelling, punctuation, word boundaries, names, numbers and unusual forms must not be changed merely because another reading looks more familiar. A change requires clear character-level source evidence. Physical-copy/library marks remain outside printed text.
 
-## Tamil archival gates
+## Tamil archival gates — COMPLETE / FROZEN
 
 - P0 source intake / identification: **COMPLETE**
 - P1 metadata + full page map / boundaries: **COMPLETE**
@@ -35,7 +35,7 @@ Existing source-verified Tamil is the baseline. Old Tamil glyphs, spelling, punc
 - unresolved body/source blockers: **0**
 - **Tamil source: COMPLETE / FROZEN**
 
-Detailed records:
+Detailed Tamil records:
 
 - [`indexes/page-map.md`](indexes/page-map.md)
 - [`metadata/source.md`](metadata/source.md)
@@ -43,7 +43,7 @@ Detailed records:
 - [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md)
 - [`articles/01-kayittril-thongiya-kanapathi.md`](articles/01-kayittril-thongiya-kanapathi.md)
 
-## Final physical structure
+## Frozen physical structure
 
 - scans **1–5**: front matter; scan 4 `பதிப்புரை`; scan 5 blank
 - scan **6**: article opening; **no visible printed numeral**
@@ -53,31 +53,16 @@ Detailed records:
 - scans **16–17**: separate advertisements / promotional witnesses
 - printed contents page: **none**
 
-The archive does not infer a visible page 5 for scan 6.
+## Frozen correction/non-regression record
 
-## Retrospective correction provenance
+- first pass `தூக்குபோட்டுவிட்டீர்களா 1` → source **`தூக்குபோட்டுவிட்டீர்களா!`**; only `1` → `!` was a genuine correction. Earlier assistant `தூக்குபோட்டுவிட்டார்களா!` is withdrawn.
+- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — source revalidated.
+- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — source revalidated.
+- failed assistant changes `ஓடித்` → `ஒடித்`, `அபாண்டங்களைச்` → `அபாண்டங்களச்`, `அவளைப்` → `அவனைப்`, and `சாவின் முனையிலே` → `சாவின் முன்னிலே` remain withdrawn.
 
-A targeted recheck of earlier assistant-origin corrections found one false correction and revalidated the other two formal P2 corrections:
+Frozen source-specific readings include `உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `நேரமில்லை`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை`, `தங்கந் தோண்டுமிடமாயிற்றே!`, `நெருக்கடியில்(!)`, `தூக்குபோட்டுவிட்டீர்களா!`, `கொண்டிருக்கிறார்.`, `உரத்தகுரலில்,`, `சாவின் முனையிலே`, and final `அளிக்குமாக /`.
 
-- first pass `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டீர்களா!`** — scan 13 / printed p.12. The source line break is `தூக்குபோட்டுவிட்டீர்` + `களா!`; only the final OCR-like `1` needed correction to `!`. Earlier assistant `தூக்குபோட்டுவிட்டார்களா!` was wrong and is withdrawn.
-- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / printed p.12; source revalidated.
-- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / printed p.11; source revalidated.
-
-Failed pre-P5 assistant changes `ஓடித்` → `ஒடித்`, `அபாண்டங்களைச்` → `அபாண்டங்களச்`, `அவளைப்` → `அவனைப்`, and `சாவின் முனையிலே` → `சாவின் முன்னிலே` were reverted and remain withdrawn.
-
-## Frozen source-specific readings
-
-The P5 strict pass retains, among others:
-
-`உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `நேரமில்லை`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை`, `தங்கந் தோண்டுமிடமாயிற்றே!`, `நெருக்கடியில்(!)`, `தூக்குபோட்டுவிட்டீர்களா!`, `கொண்டிருக்கிறார்.`, `உரத்தகுரலில்,`, `சாவின் முனையிலே`, and final `அளிக்குமாக /`.
-
-## P5 result
-
-P5 reopened all **17 physical scans** and rechecked the existing verified transcription as the baseline. No new textual correction was introduced during the final strict pass. The complete article assembly was then rechecked against scans **6–15** and passed.
-
-**P5 RESULT: PASS — Tamil source frozen.**
-
-## English translation — T1 COMPLETE / DRAFT
+## English translation — T0–T2 COMPLETE
 
 Permanent rule:
 
@@ -88,7 +73,7 @@ Translation authority:
 - frozen Tamil article: [`articles/01-kayittril-thongiya-kanapathi.md`](articles/01-kayittril-thongiya-kanapathi.md)
 - frozen Tamil article blob SHA: `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`
 
-Translation workspace:
+English workspace:
 
 - [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
 - [`translations/en/README.md`](translations/en/README.md)
@@ -99,16 +84,27 @@ Translation workspace:
 Current English status:
 
 - T0 source prerequisite / setup: **COMPLETE / PASS**
-- T1 close English draft: **COMPLETE / PASS**
-- Article 1 translation status: **draft**
+- T1 complete close draft: **COMPLETE / PASS**
+- T2 bilingual fidelity review: **COMPLETE / PASS**
+- Article 1: **fidelity-reviewed**
 - English drafts: **1 / 1**
-- working English title: **Ganapathi Who Hung from the Rope**
-- T2 bilingual fidelity review: **NEXT**
-- T3–T5: **NOT STARTED**
+- fidelity-reviewed: **1 / 1**
+- title accepted through T2: **Ganapathi Who Hung from the Rope**
+- unresolved T2 fidelity blockers: **0**
+- **T3 Kalaignar voice review: NEXT**
+- T4–T5: **NOT STARTED**
 - English release: **NOT YET**
 
-The draft covers the complete article scans **6–15**, retains all source scan-boundary comments and preserves the article's quotation-heavy structure, rhetorical questions, exclamations, gallows/body imagery and polemical force. Open fidelity questions are recorded in the translation review ledger; none blocked T1 completion.
+T2 made only English fidelity corrections; the frozen Tamil layer was not changed. Full correction provenance is recorded in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
 
 ## Exact next activity
 
-Execute **T2 — bilingual fidelity review for Article 1 only**. Compare the complete English draft against the frozen Tamil assembly clause by clause; correct omissions/additions or source mismatches only; recheck title, quotation scope and source-sensitive items; set `translation_status: fidelity-reviewed` only after the entire article passes. Do not advance to T3 in the same activity unless the authoritative handover has first advanced to T3.
+Execute **T3 — Kalaignar voice review for Article 1 only**:
+
+1. re-fetch the frozen Tamil article and fidelity-reviewed English article;
+2. preserve every T2 factual/source decision;
+3. review directness, sarcasm, ridicule, rhetorical questions, repetitions, commands/exclamations, physical imagery and argumentative rhythm;
+4. make only meaning-neutral voice/cadence corrections;
+5. set the English article to `voice-reviewed` only after the whole article passes;
+6. update translation records and authoritative handover;
+7. do **not** perform T4 in the same activity.
