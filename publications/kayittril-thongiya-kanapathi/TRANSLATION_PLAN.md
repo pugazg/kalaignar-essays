@@ -47,26 +47,45 @@ Verified English title: **Ganapathi Who Hung from the Rope**.
 - **T4 — terminology / quotation / citation / source audit:** COMPLETE / PASS
 - **T5 — final article translation verification:** **COMPLETE / PASS**
 
-T5 re-fetched live `main`, confirmed the frozen Tamil article blob remains `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`, and verified all T2 fidelity corrections, T3 voice decisions and T4 terminology/source decisions without regression. Scan-boundary comments **6–15**, documented quotation anomalies, source-bearing terms and final `/` remain intact. T5 made **no English body-text change**; it advanced Article 1 metadata to `translation_status: verified`.
+T5 confirmed the frozen Tamil article blob remains `b7c6d02cd7bc041318693306b8658e18c3f8fa5b` and verified all T2 fidelity corrections, T3 voice decisions and T4 terminology/source decisions without regression. Scan-boundary comments **6–15**, documented quotation anomalies, source-bearing terms and final `/` remain intact. T5 made no English body-text change.
+
+## E6 — publication-level English consistency review — COMPLETE / PASS
+
+Although this publication contains only one article, E6 separately reviewed consistency across the verified article, metadata, lexicon, review ledger and this plan.
+
+E6 confirmed:
+
+- verified English article blob reviewed: `bf01a5d6da90e8caf6c491ed43f46cbb5e9491ba`;
+- article remains `translation_status: verified`;
+- English still points to frozen Tamil blob `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
+- title style is consistent;
+- names/referents and ideological vocabulary are consistent;
+- `mangu`, `Rani`, `Mukari`, `adhirasam`, `akkāra vadisal`, `pallu`, `Achariyar` and other source-bearing/cultural terms remain restrained and unexpanded;
+- source `Jawahar` versus `Nehru` remains intentionally distinct;
+- rhetorical directness, sarcasm, questions, exclamations, physical imagery and final Dravidam crescendo remain intact;
+- documented quotation/source anomalies remain documented rather than silently normalised;
+- scan comments **6–15** remain complete and ordered;
+- no front matter/advertisement text entered the English body;
+- E6 body corrections: **0**;
+- E6 unresolved blockers: **0**.
 
 Detailed provenance: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) and [`translations/en/LEXICON.md`](translations/en/LEXICON.md).
 
 ## Publication-level gates
 
-- **E6 — publication-level English consistency review:** **NEXT**
-- **E7 — English release closeout:** NOT STARTED
-- English release: **NOT YET**
-
-Even for this one-article publication, E6 remains a separate publication-level consistency/source-bearing review required by the permanent guide.
+- **E6 — publication-level English consistency review:** **COMPLETE / PASS**
+- **E7 — English release closeout:** **NEXT**
+- English release: **NOT YET CLOSED**
 
 ## Exact next activity
 
-Execute **E6 — publication-level English consistency review**:
+Execute **E7 — English release closeout** for this publication only:
 
-1. re-fetch live `main`, the verified English article, frozen Tamil authority, lexicon, review ledger and this plan;
-2. confirm Article 1 remains `verified` and still points to the frozen Tamil blob;
-3. review publication-wide consistency for title style, names/epithets, ideological vocabulary, cultural/source-bearing terms, quotation handling, tone and scan traceability;
-4. confirm no source-bearing term was smoothed or externally expanded after T5;
-5. record E6 PASS only if the complete publication-level review succeeds;
-6. update dependent records and make **E7 — English release closeout** the next gate;
-7. do **not** perform E7 in the same activity.
+1. re-fetch live `main`, the verified English article, frozen Tamil authority, translation records and release-facing publication/root records;
+2. verify the English article still exists, remains `verified`, and points to the current frozen Tamil blob;
+3. verify counts, links, gate statuses, source-anomaly/non-regression records and source-PDF exclusion;
+4. create/update `translations/en/RELEASE_REPORT.md` with the final release matrix and checks;
+5. close the English release gate only if all release checks pass;
+6. update publication/root README and authoritative `HANDOVER.md`;
+7. after successful E7, advance the repository to the next normal **P0 intake** activity;
+8. do not reopen verified prose during E7 unless a genuine release blocker is found.
