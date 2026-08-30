@@ -89,10 +89,12 @@ Permanent rule: **Translate the language; do not neutralise the voice.**
 
 - T0 source prerequisite / setup: **COMPLETE / PASS**
 - frozen Tamil translation authority blob: `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`
-- Article 1: **not-started**
-- English drafts: **0 / 1**
-- T1 close draft: **NEXT**
-- T2–T5: **NOT STARTED**
+- T1 close English draft: **COMPLETE / PASS**
+- Article 1: **draft**
+- English drafts: **1 / 1**
+- working English title: **Ganapathi Who Hung from the Rope**
+- T2 bilingual fidelity review: **NEXT**
+- T3–T5: **NOT STARTED**
 
 Translation records:
 
@@ -100,9 +102,10 @@ Translation records:
 - [`translations/en/README.md`](publications/kayittril-thongiya-kanapathi/translations/en/README.md)
 - [`translations/en/LEXICON.md`](publications/kayittril-thongiya-kanapathi/translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/kayittril-thongiya-kanapathi/translations/en/TRANSLATION_REVIEW.md)
+- [`translations/en/01-kayittril-thongiya-kanapathi.md`](publications/kayittril-thongiya-kanapathi/translations/en/01-kayittril-thongiya-kanapathi.md)
 
 ## Current project state / exact next activity
 
-Both publications have frozen Tamil source layers. Publication 1 also has a released English translation. Publication 2 has completed **T0** and is ready for drafting.
+Both publications have frozen Tamil source layers. Publication 1 also has a released English translation. Publication 2 has completed **T0–T1**; its complete English body exists as a draft.
 
-**Exact next activity:** execute **T1 — complete close English draft for Article 1, `கயிற்றில் தொங்கிய கணபதி`**. Re-fetch the frozen Tamil assembly and confirm blob SHA `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`, then translate the complete article paragraph by paragraph into `translations/en/01-kayittril-thongiya-kanapathi.md`. Preserve scan-boundary traceability, quotations, repetition, rhetorical questions, exclamations and Kalaignar's polemical voice. Do not advance to T2 in the same activity.
+**Exact next activity:** execute **T2 — bilingual fidelity review for Article 1, `கயிற்றில் தொங்கிய கணபதி`**. Compare every English paragraph and clause against the frozen Tamil assembly, correct only fidelity defects, and recheck title, quotation scope, source-sensitive terminology, repetitions, rhetorical questions and scan-boundary comments. Do not advance to T3 in the same activity unless the authoritative handover has first advanced to T3.
