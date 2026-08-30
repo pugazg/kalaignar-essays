@@ -34,69 +34,39 @@ If the Tamil article changes because of a genuine source-supported correction, a
 
 | # | Tamil title | English file | Status | Gates |
 |---:|---|---|---|---|
-| 1 | கயிற்றில் தொங்கிய கணபதி | [`translations/en/01-kayittril-thongiya-kanapathi.md`](translations/en/01-kayittril-thongiya-kanapathi.md) | **voice-reviewed** | **T0–T4 passed; T5 next** |
+| 1 | கயிற்றில் தொங்கிய கணபதி | [`translations/en/01-kayittril-thongiya-kanapathi.md`](translations/en/01-kayittril-thongiya-kanapathi.md) | **verified** | **T0–T5 passed** |
 
-English title retained through T4: **Ganapathi Who Hung from the Rope**.
+Verified English title: **Ganapathi Who Hung from the Rope**.
 
-## T1 — COMPLETE / PASSED
-
-The complete article was translated paragraph by paragraph from scans **6–15**, with all source scan-boundary comments retained and no Tamil source change.
-
-## T2 — COMPLETE / PASSED
-
-T2 compared every English paragraph/clause against the frozen Tamil assembly and corrected only fidelity defects. It restored source conditionality, number, naming/relationship details, quotation attachment, `உணர்வைத் தொடுவதில்லை`, source-bearing `மங்கு`, singular `ஆலை`, `பெண்தெய்வ மாநாடு`, and other source-alignment points.
-
-## T3 — COMPLETE / PASSED
-
-T3 read the entire fidelity-reviewed English article against the Tamil for Kalaignar's voice without reopening T2 factual decisions. It made only meaning-neutral cadence corrections and retained the title, `Cry well!`, source-bearing terms, political labels, punctuation anomalies and final `/`.
-
-## T4 — COMPLETE / PASSED
-
-T4 formally audited names/referents, recurring terminology, political labels, cultural/source-bearing terms, quotation scope, source punctuation anomalies, scan traceability and the final `/`.
-
-Key T4 results:
-
-- `Dravidam`, `Dravidians`, `Mother Tamil`, `Commonwealth`, `Dravidar Kazhagam` and `Achariyar` are consistent;
-- source `ஜவகர்` → `Jawahar` and source `நேரு` → `Nehru` remain intentionally distinct;
-- `mangu`, `Mukari`, `adhirasam`, `akkāra vadisal` and `pallu` remain restrained source-bearing/cultural forms;
-- source `இராணி` remains `Rani` without an external identity claim;
-- irregular quotation scope around `சுதந்திர பூமியில்...` is documented while English keeps readable closure;
-- irregular quoted syntax beginning `மிகவும் உயர்ந்த நிலையில்...` is documented and not externally repaired;
-- `in this crisis(!)`, `Have you hanged him!` and final `/` remain preserved;
-- scan-boundary comments for scans **6–15** are complete and ordered;
-- English body corrections during T4: **0**;
-- unresolved T4 blockers: **0**.
-
-Detailed provenance: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) and [`translations/en/LEXICON.md`](translations/en/LEXICON.md).
-
-### Status-vocabulary rule clarified at T4
-
-The permanent translation guide defines article statuses as `not-started`, `draft`, `fidelity-reviewed`, `voice-reviewed`, and `verified`. Therefore T4 does **not** create an `audited` article metadata status. Article 1 correctly remains `voice-reviewed` after T4 PASS; T5 may advance it to `verified`.
-
-## Current gate sequence
+## Article-level gate results
 
 - **T0 — source prerequisite / setup:** COMPLETE / PASS
 - **T1 — complete close English draft:** COMPLETE / PASS
 - **T2 — bilingual fidelity review:** COMPLETE / PASS
 - **T3 — Kalaignar voice review:** COMPLETE / PASS
-- **T4 — terminology / quotation / citation / source audit:** **COMPLETE / PASS**
-- **T5 — translation verification:** **NEXT**
-- **E6 — publication-level English consistency review:** NOT STARTED
+- **T4 — terminology / quotation / citation / source audit:** COMPLETE / PASS
+- **T5 — final article translation verification:** **COMPLETE / PASS**
+
+T5 re-fetched live `main`, confirmed the frozen Tamil article blob remains `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`, and verified all T2 fidelity corrections, T3 voice decisions and T4 terminology/source decisions without regression. Scan-boundary comments **6–15**, documented quotation anomalies, source-bearing terms and final `/` remain intact. T5 made **no English body-text change**; it advanced Article 1 metadata to `translation_status: verified`.
+
+Detailed provenance: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md) and [`translations/en/LEXICON.md`](translations/en/LEXICON.md).
+
+## Publication-level gates
+
+- **E6 — publication-level English consistency review:** **NEXT**
 - **E7 — English release closeout:** NOT STARTED
+- English release: **NOT YET**
 
-## T5 scope
-
-T5 is the final article-level verification gate. It must re-fetch the current article and frozen Tamil authority and confirm that all T0–T4 decisions/provenance remain intact, with no omission, terminology regression, source-bearing smoothing, quotation regression or scan-traceability loss.
+Even for this one-article publication, E6 remains a separate publication-level consistency/source-bearing review required by the permanent guide.
 
 ## Exact next activity
 
-Execute **T5 — final article translation verification for Article 1 only**:
+Execute **E6 — publication-level English consistency review**:
 
-1. re-fetch live `main`, frozen Tamil authority, English article, lexicon and review ledger;
-2. confirm `source_tamil_blob_sha` still equals `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
-3. verify all T2 fidelity corrections, T3 voice decisions and T4 terminology/source decisions remain present;
-4. verify scans 6–15 comments, quotation handling and final `/`;
-5. confirm unresolved translation blockers remain zero;
-6. only if all checks pass, set `translation_status: verified` and update trackers/plan/README/HANDOVER;
-7. make **E6** the next gate;
-8. do **not** perform E6 in the same activity.
+1. re-fetch live `main`, the verified English article, frozen Tamil authority, lexicon, review ledger and this plan;
+2. confirm Article 1 remains `verified` and still points to the frozen Tamil blob;
+3. review publication-wide consistency for title style, names/epithets, ideological vocabulary, cultural/source-bearing terms, quotation handling, tone and scan traceability;
+4. confirm no source-bearing term was smoothed or externally expanded after T5;
+5. record E6 PASS only if the complete publication-level review succeeds;
+6. update dependent records and make **E7 — English release closeout** the next gate;
+7. do **not** perform E7 in the same activity.
