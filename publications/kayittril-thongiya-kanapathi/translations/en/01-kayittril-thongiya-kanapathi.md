@@ -50,7 +50,7 @@ How many people die every day in the world. Do we grieve for every one of them? 
 
 “A flower blooms......spreads fragrance......withers and dies.”
 
-A flower blooming and withering away are examples used by those who declaim, “This body is false, my boy.” But the flower also gives fragrance—that is what the rationalist movement wishes to point out. “Man is born, he dies. Going back by the road he came is the mark of man,” say those who are disgusted with life. They see only the flower blooming and withering away; the pleasant fragrance the flower gives does not touch their sensibility
+A flower blooming and withering away are examples used by those who declaim, “This body is false, my boy.” But the flower also gives fragrance—that is what the rationalist movement wishes to point out. “Man is born, he dies. Going back by the road he came is the mark of man,” say those who are disgusted with life. They see only the flower blooming and withering away; the pleasant fragrance the flower gives does not touch their sensibility.
 
 <!-- Tamil source: scan 10 / printed 9 -->
 
@@ -86,7 +86,7 @@ There is no case that Ganapathi shot and killed any white capitalist. For the so
 
 <!-- Tamil source: scan 13 / printed 12 -->
 
-The tableau is not yet fully arranged. There a Tamil's heart is being split; here Achariyar opens the cave of the Pathala Lingam. Congress leader Kamaraj has not enough day or hour to finish glaring fire from his eyes and abusing Dravidar Kazhagam. In this crisis(!), that hero forgot Ganapathi altogether. “Have you hanged him! That is a very wrong thing,” he now roars. “Will you hit me? Son of your father! I'm a lion, man!” Kamaraj's heroic roar is like that comic bit where a man, after getting beaten, cries. Before his roar is even over, Veerasenan has been shot down like a worthless animal! Sambasivam has been placed at death's edge. They say that if you blow a conch into a deaf man's ear, he will not hear. If the blowers themselves have no lips, what a painful farce it becomes! Such is the frenzy of the Malayan Government and the Indian Government's chapter of appeals!
+The tableau is not yet fully arranged. There a Tamil's heart is being split; here Achariyar opens the cave of the Pathala Lingam. Congress leader Kamaraj has not enough day or hour to finish glaring fire from his eyes and abusing Dravidar Kazhagam. In this crisis(!), that hero forgot Ganapathi altogether. “Have you hanged him! That is a very wrong thing,” he now roars. Kamaraj's heroic roar is like that comic bit where, after getting beaten, a man cries, “Will you hit me? Son of your father! I'm a lion, man!” Before his roar is even over, Veerasenan has been shot down like a worthless animal! Sambasivam has been placed at death's edge. They say that if you blow a conch into a deaf man's ear, he will not hear. If the blowers themselves have no lips, what a painful farce it becomes! Such is the frenzy of the Malayan Government and the Indian Government's chapter of appeals!
 
 At a time when Kamaraj ought to be in Malaya, he is here wiping down the ministerial chair. Is that just, Kamaraj? Are Jawahar and Patel going to condemn Tamil corpses being stacked on the gallows? Even if they condemn it, will there be any heat in it? If they had concern, would the rope that tightened around Ganapathi's neck be hanging before Sambasivam? If fire had flashed in their eyes, would bullets have flown
 
