@@ -204,7 +204,7 @@ All **17 physical scans** were reopened for a fresh strict pass using the verifi
 
 **P5 RESULT: PASS. Tamil source is frozen.**
 
-## English translation state — T0–T3 COMPLETE
+## English translation state — T0–T4 COMPLETE
 
 Translation prerequisite: **SATISFIED**.
 
@@ -227,46 +227,54 @@ Current English state:
 - T1 complete close English draft: **COMPLETE / PASS**
 - T2 bilingual fidelity review: **COMPLETE / PASS**
 - T3 Kalaignar voice review: **COMPLETE / PASS**
-- Article 1 translation status: **voice-reviewed**
+- T4 terminology / quotation / citation / source audit: **COMPLETE / PASS**
+- Article 1 metadata status: **voice-reviewed**
 - English drafts: **1 / 1**
 - fidelity-reviewed: **1 / 1**
 - voice-reviewed: **1 / 1**
-- English title retained through T3: **Ganapathi Who Hung from the Rope**
-- unresolved T3 voice blockers: **0**
-- T4 terminology/quotation/citation/source audit: **NEXT**
-- T5 verification: **NOT STARTED**
+- T4 audited: **1 / 1**
+- English title retained through T4: **Ganapathi Who Hung from the Rope**
+- unresolved T4 blockers: **0**
+- T5 verification: **NEXT**
 - English release: **NOT YET**
 
 Permanent rule: **Translate the language; do not neutralise the voice.**
 
-### T3 voice review result
+### T4 audit result / non-regression rules
 
-T3 preserved every T2 factual/source-bearing decision and made only meaning-neutral cadence corrections. The high-value changes were:
+T4 made **0 English body-text corrections**. It formally audited and retained:
 
-- tightening `caught between its cruel teeth and destroyed` in the opening gallows image;
-- `So many people die every day in the world.` before the rhetorical question;
-- repairing awkward grammar in the flower/fragrance argument while retaining the repeated image;
-- `This is what rings out, with fervour, in Ganapathi's loud voice.`;
-- strengthening the Kamaraj sentence to `cannot find enough days or hours...` without changing its claim;
-- `a tragic serial in the life of the Tamils`;
-- final `a separate Dravidam` and `self-respect will bloom and flourish` cadence.
+- `the gallows`, `imperialism`, `Dravidam`, `Dravidians`, `Mother Tamil`, `Commonwealth`, `Dravidar Kazhagam`;
+- source label `Achariyar` without substituting an outside personal identity;
+- source `Jawahar` versus `Nehru` distinction;
+- source-bearing `mangu` and `Rani` without guessed external identification;
+- `Mukari`, `adhirasam`, `akkāra vadisal`, `pallu` and other cultural/source-bearing forms;
+- documented irregular source quotation scope around `சுதந்திர பூமியில்...`;
+- documented irregular quoted syntax beginning `மிகவும் உயர்ந்த நிலையில்...`;
+- `in this crisis(!)` and `Have you hanged him!` punctuation force;
+- all scan-boundary comments for scans **6–15**;
+- final `/` as a literal source-visible terminal mark of uncertain function, without silent normalisation.
 
-The title, `Cry well!`, `mangu`, `Mukari`, `Achariyar`, `Dravidam`, `Dravidar Kazhagam`, cultural terms, the Kamaraj comic taunt, `Have you hanged him!`, source quotation notes and final `/` remain unchanged for T4 audit.
+No front matter/advertisement text entered the English article; no outside published translation or research citation was imported into the body. T4 blockers: **0**.
 
-Detailed provenance: `translations/en/TRANSLATION_REVIEW.md` and `translations/en/LEXICON.md`.
+### Translation-status vocabulary clarification
+
+The permanent `ESSAY_TRANSLATION_GUIDE.md` defines article statuses as `not-started`, `draft`, `fidelity-reviewed`, `voice-reviewed`, and `verified`. It does not define `audited`. Therefore T4 completion is recorded as a **gate result**, while Article 1 correctly remains `translation_status: voice-reviewed` until T5. Earlier working instructions that said to set `audited` have been superseded by this permanent-guide rule.
+
+Detailed T4 provenance: `translations/en/TRANSLATION_REVIEW.md` and `translations/en/LEXICON.md`.
 
 ## Exact next activity
 
-Execute **T4 — terminology / quotation / citation / source audit for Article 1 only**:
+Execute **T5 — final article translation verification for Article 1 only**:
 
-1. re-fetch live `main`, the frozen Tamil article, voice-reviewed English article, lexicon and review ledger;
-2. confirm the English `source_tamil_blob_sha` still matches `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
-3. audit names/referents, political labels, recurring terminology, cultural/source-bearing terms and source-specific spellings;
-4. audit quotation scope, punctuation anomalies, scan-boundary comments and the final `/`;
-5. make only audit-driven corrections;
-6. set Article 1 to `audited` only after the complete audit passes;
-7. update tracker/plan/README/HANDOVER to show T4 complete and T5 next;
-8. **do not perform T5 in the same activity**.
+1. re-fetch live `main`, frozen Tamil authority, current English article, lexicon and review ledger;
+2. confirm the article still records frozen Tamil blob SHA `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`;
+3. verify every T2 fidelity correction, T3 voice decision and T4 terminology/source decision remains present;
+4. verify scan comments **6–15**, quotation/source-anomaly handling and final `/`;
+5. confirm unresolved translation blockers remain **0**;
+6. if and only if the whole article passes, set `translation_status: verified` and update tracker/plan/README/HANDOVER;
+7. make **E6 — publication-level English consistency review** the next gate;
+8. **do not perform E6 in the same activity**.
 
 ## Current blockers
 
