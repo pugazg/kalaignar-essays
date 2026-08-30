@@ -1,7 +1,8 @@
 # English Translation Review Ledger — கயிற்றில் தொங்கிய கணபதி
 
 Permanent guide: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TRANSLATION_GUIDE.md)  
-Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
+Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)  
+Release report: [`RELEASE_REPORT.md`](RELEASE_REPORT.md)
 
 ## Review rule
 
@@ -104,7 +105,7 @@ T5 re-fetched live `main`, the frozen Tamil authority, current English article, 
 - English body changed during T5: **No**; only metadata status advanced;
 - unresolved translation blockers: **0**.
 
-**T5 RESULT: PASS.** Article 1 is now `translation_status: verified`.
+**T5 RESULT: PASS.** Article 1 is `translation_status: verified`.
 
 ## Article review tracker
 
@@ -145,13 +146,41 @@ E6 was performed against live `main` after Article 1 had passed T5. This publica
 
 **None.**
 
-**E6 RESULT: PASS.** Publication 2 is now ready for **E7 — English release closeout**, but the English release gate remains open until E7 itself passes.
+**E6 RESULT: PASS.**
 
-## Current translation questions
+## E7 — English release closeout — PASSED / COMPLETE
 
-- unresolved article-level translation blockers: **0**
-- E6 publication-level blockers: **0**
+E7 re-fetched live release-facing state and verified:
 
-## Exact next activity
+- verified English article exists at the recorded path: **PASS**;
+- English article blob reviewed: **`bf01a5d6da90e8caf6c491ed43f46cbb5e9491ba`**;
+- English metadata remains `translation_status: verified`: **PASS**;
+- live Tamil authority remains **`b7c6d02cd7bc041318693306b8658e18c3f8fa5b`**;
+- English `source_tamil_blob_sha` exactly matches that Tamil blob: **PASS**;
+- article counts/statuses agree across tracker, plan and review ledger: **PASS — 1 / 1 verified**;
+- T0–T5 and E6 gate statuses agree: **PASS**;
+- source/advertisement boundaries remain unchanged: **PASS**;
+- the recursive pre-E7 tree `06b72c1c4239f1e5efb0add19c167a7e18373580` contains **no `.pdf` file**: **PASS**;
+- source-bearing decisions and documented source anomalies remain intact: **PASS**;
+- English body changed during E7: **No**;
+- Tamil body changed during E7: **No**;
+- unresolved release blockers: **0**.
 
-Execute **E7 — English release closeout** for Publication 2 only. Re-fetch live `main`, the verified English article, its frozen Tamil authority and all release-facing records; verify final links/status/counts/source SHA relationships and source-PDF exclusion, create/update the release report, close the English release gate only if all checks pass, and then advance the project to the next normal P0 intake activity. Do not reopen verified prose during E7 unless a genuine release blocker is found.
+Full release provenance and the final English/Tamil SHA matrix are recorded in [`RELEASE_REPORT.md`](RELEASE_REPORT.md).
+
+**E7 RESULT: PASS / COMPLETE. ENGLISH RELEASE GATE CLOSED.**
+
+## Final translation state
+
+- Article 1: **verified**
+- verified articles: **1 / 1**
+- T0–T5: **PASSED**
+- E6: **PASSED**
+- E7: **PASSED / COMPLETE**
+- unresolved translation/release blockers: **0**
+- English translation: **COMPLETE**
+- English release gate: **CLOSED**
+
+## Next activity
+
+Do **not** reopen this released publication for stylistic polishing. The next normal project activity is **P0 intake of the next supplied Kalaignar essay/article publication**. Reopen Publication 2 only if a genuine source-supported or release-blocking defect is discovered.
