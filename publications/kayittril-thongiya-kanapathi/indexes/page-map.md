@@ -5,27 +5,29 @@ Physical scans: **17**
 P1 structure map: **COMPLETE**  
 P2 page records: **17 / 17 VERIFIED**  
 P3 article assembly: **1 / 1 COMPLETE**  
-P4 source audit / completeness review: **PASS**
+P4 source audit / completeness review: **PASS**  
+P5 strict visual fidelity: **17 / 17 PASS**  
+Tamil source: **COMPLETE / FROZEN**
 
-| Scan | Printed page | Type / section | Publication relation | Page record |
-|---:|---:|---|---|---|
-| 1 | — | Front cover — title / author / artwork | front matter | `pages/0001-cover.md` |
-| 2 | — | Title / publisher page | front matter | `pages/0002-title-page.md` |
-| 3 | — | Publication date / price / printer | front matter / imprint | `pages/0003-imprint.md` |
-| 4 | — | `பதிப்புரை` | front matter | `pages/0004-pathippurai.md` |
-| 5 | — | Blank / paper surface | front matter | `pages/0005-blank.md` |
-| 6 | — | Article heading / opening | article begins | `pages/0006-article-opening.md` |
-| 7 | 6 | Article continuation | article body | `pages/0007-article-p06.md` |
-| 8 | 7 | Article continuation | article body | `pages/0008-article-p07.md` |
-| 9 | 8 | Article continuation | article body | `pages/0009-article-p08.md` |
-| 10 | 9 | Article continuation | article body | `pages/0010-article-p09.md` |
-| 11 | 10 | Article continuation | article body | `pages/0011-article-p10.md` |
-| 12 | 11 | Article continuation | article body | `pages/0012-article-p11.md` |
-| 13 | 12 | Article continuation | article body | `pages/0013-article-p12.md` |
-| 14 | 13 | Article continuation | article body | `pages/0014-article-p13.md` |
-| 15 | 14 | Article conclusion + ending ornament | article ends | `pages/0015-article-p14.md` |
-| 16 | — | Advertisement / other publications | post-text promotional matter | `pages/0016-advertisement-01.md` |
-| 17 | — | Advertisement / back matter | post-text promotional matter | `pages/0017-advertisement-02.md` |
+| Scan | Printed page | Type / section | Publication relation | Page record | P5 |
+|---:|---:|---|---|---|---|
+| 1 | — | Front cover — title / author / artwork | front matter | `pages/0001-cover.md` | PASS |
+| 2 | — | Title / publisher page | front matter | `pages/0002-title-page.md` | PASS |
+| 3 | — | Publication date / price / printer | front matter / imprint | `pages/0003-imprint.md` | PASS |
+| 4 | — | `பதிப்புரை` | front matter | `pages/0004-pathippurai.md` | PASS |
+| 5 | — | Blank / paper surface | front matter | `pages/0005-blank.md` | PASS |
+| 6 | — | Article heading / opening | article begins | `pages/0006-article-opening.md` | PASS |
+| 7 | 6 | Article continuation | article body | `pages/0007-article-p06.md` | PASS |
+| 8 | 7 | Article continuation | article body | `pages/0008-article-p07.md` | PASS |
+| 9 | 8 | Article continuation | article body | `pages/0009-article-p08.md` | PASS |
+| 10 | 9 | Article continuation | article body | `pages/0010-article-p09.md` | PASS |
+| 11 | 10 | Article continuation | article body | `pages/0011-article-p10.md` | PASS |
+| 12 | 11 | Article continuation | article body | `pages/0012-article-p11.md` | PASS |
+| 13 | 12 | Article continuation | article body | `pages/0013-article-p12.md` | PASS |
+| 14 | 13 | Article continuation | article body | `pages/0014-article-p13.md` | PASS |
+| 15 | 14 | Article conclusion + ending ornament | article ends | `pages/0015-article-p14.md` | PASS |
+| 16 | — | Advertisement / other publications | post-text promotional matter | `pages/0016-advertisement-01.md` | PASS |
+| 17 | — | Advertisement / back matter | post-text promotional matter | `pages/0017-advertisement-02.md` | PASS |
 
 ## Printed-page numbering behaviour
 
@@ -46,7 +48,8 @@ Physical scan number and printed page number remain separate archival fields.
 - advertisements: scans **16–17**
 - printed contents page: **none**
 
-Article assembly: [`../articles/01-kayittril-thongiya-kanapathi.md`](../articles/01-kayittril-thongiya-kanapathi.md).
+Article assembly: [`../articles/01-kayittril-thongiya-kanapathi.md`](../articles/01-kayittril-thongiya-kanapathi.md).  
+Strict review: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Physical-copy notes
 
@@ -55,35 +58,22 @@ Article assembly: [`../articles/01-kayittril-thongiya-kanapathi.md`](../articles
 - scan 15: library stamp below printed ending ornament
 - scans 16–17: independent promotional witnesses, never article body
 
-## Correction provenance relevant to page/assembly consistency
+## Final correction provenance
 
-A retrospective recheck corrected one earlier assistant-origin mistake:
+- first pass `தூக்குபோட்டுவிட்டீர்களா 1` → source **`தூக்குபோட்டுவிட்டீர்களா!`** — scan 13 / p.12. Only `1` → `!` is a genuine correction; earlier assistant `தூக்குபோட்டுவிட்டார்களா!` is withdrawn.
+- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / p.12; source revalidated.
+- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / p.11; source revalidated.
 
-- first pass `தூக்குபோட்டுவிட்டீர்களா 1` → source **`தூக்குபோட்டுவிட்டீர்களா!`** — scan 13 / p.12. The source line break is `தூக்குபோட்டுவிட்டீர்` + `களா!`; only `1` → `!` is a correction. Earlier assistant `தூக்குபோட்டுவிட்டார்களா!` is withdrawn.
-- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — scan 13 / p.12; rechecked and retained.
-- interim `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — scan 12 / p.11; rechecked and retained.
+## Final gate
 
-## P4 audit result
-
-P4 confirmed:
-
-- all **17 / 17** physical scans are represented exactly once by the page-record list above;
-- no missing/duplicate scan record exists;
-- role/boundary mapping is consistent with the source model;
-- scan 6 stays unnumbered and scans 7–15 preserve visible 6–14;
-- article assembly uses scans 6–15 only;
-- front matter and scans 16–17 are excluded from the article;
-- unresolved body/source blockers: **0**.
-
-Audit: [`../PUBLICATION_COMPLETION_REVIEW.md`](../PUBLICATION_COMPLETION_REVIEW.md).
-
-## Current gate
+P5 re-opened all **17 / 17** physical scans using the existing verified text as baseline. No new textual correction was introduced during the final strict pass. The **1 / 1** article assembly was strict-rechecked and passed.
 
 - P0: COMPLETE
 - P1: COMPLETE
 - P2: COMPLETE — 17 / 17
 - P3: COMPLETE — 1 / 1
-- P4: **COMPLETE / PASS**
-- **P5 strict visual fidelity: NEXT — 0 / 17**
+- P4: COMPLETE / PASS
+- P5: **COMPLETE — 17 / 17 PASS**
+- Tamil source: **COMPLETE / FROZEN**
 
-P5 remains a separate fresh every-word/every-punctuation scan re-audit. Existing verified text is the baseline and must not be changed without clear source-pixel evidence.
+**Next:** T0 English translation source prerequisite / setup.
