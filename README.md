@@ -116,8 +116,39 @@ E7 confirmed the verified English article blob `bf01a5d6da90e8caf6c491ed43f46cbb
 
 Do not reopen Publication 2 for stylistic polishing unless a genuine source-supported or release-blocking defect is discovered.
 
+## Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE ACTIVE
+
+Workspace: [`publications/unarchchimaalai/`](publications/unarchchimaalai/)
+
+- author witnesses: **`மு.கருணாநிதி` / `மு. கருணாநிதி`**
+- edition statement: **`முதற்பதிப்பு—1951`**
+- publisher: **கருணாநிதி பதிப்பகம், சிந்தாதிரிப்பேட்டை, சென்னை-2.**
+- type: **10-article collection / multi-article publication**
+- physical scans: **50**
+- source SHA-256: `d2d45de049505218fd612bf71949135e34ecb317ffb5d003dfe59a3a0608461d`
+- source PDF committed: **No**
+- printed contents page: **none observed**
+
+### P0 / current source status
+
+- P0 source intake / publication identification: **COMPLETE**
+- P1 metadata + complete 50-scan page map / article-boundary mapping: **NEXT**
+- page records: **0 / 50**
+- article assemblies: **0 / 10**
+- strict visual-text-fidelity pass: **0 / 50**
+- English translation: **NOT STARTED**
+
+Initial structure: scans **1–5** front matter; scans **6–49** ten article units; scan **50** separate back-cover advertisement. Source/title witness `உணர்ச்சிமாலை` and Article 1 heading witness `உணர்ச்சி மாலை` are intentionally kept distinct.
+
+Publication-specific user instruction: **retain Gemini's words as the working lexical baseline**. Use the scan to correct indentation, punctuation, spacing, paragraph breaks, headings, quotation/verse layout and analogous non-lexical structure. Do not silently change a Gemini word token; log any scan/Gemini lexical conflict for user decision.
+
+Source records:
+
+- [`README.md`](publications/unarchchimaalai/README.md)
+- [`metadata/source.md`](publications/unarchchimaalai/metadata/source.md)
+
 ## Current project state / exact next activity
 
-Publications 1 and 2 are both **COMPLETE / FROZEN / RELEASED**.
+Publications 1 and 2 are **COMPLETE / FROZEN / RELEASED**. Publication 3 `உணர்ச்சிமாலை` is the active Tamil source publication.
 
-**Exact next activity:** **P0 intake of the next supplied Kalaignar essay/article publication**. Follow `ESSAY_PROCESSING_GUIDE.md`, `docs/FUTURE_WORK_GUIDELINES.md`, the future-publication handover template, and the source-first scan policy.
+**Exact next activity:** execute **P1 — metadata + complete 50-scan page map / contents-boundary mapping** for Publication 3. Create `indexes/page-map.md` and `indexes/contents.md`, classify every physical scan, record visible printed-page-number behaviour without invention, preserve the ten article boundaries and title/heading witness distinctions, and keep the user-established Gemini lexical-baseline rule unchanged.
