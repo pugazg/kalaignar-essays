@@ -11,7 +11,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - Tamil articles: **10 / 10 strict-rechecked**
 - T0 source prerequisite/setup: **COMPLETE / PASS**
 - T1 close English drafts: **4 / 10**
-- T2 fidelity-reviewed: **3 / 10**
+- T2 fidelity-reviewed: **4 / 10**
 - T3 voice-reviewed: **3 / 10**
 - T4 audited: **3 / 10**
 - T5 verified: **3 / 10**
@@ -20,7 +20,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - English translation: **IN PROGRESS**
 - unresolved translation blockers: **0**
 
-Articles 1, 2 and 3 have completed T0–T5 and are individually `verified`. Article 4 has completed T1 and is `draft`.
+Articles 1, 2 and 3 have completed T0–T5 and are individually `verified`. Article 4 has completed T1–T2 and is `fidelity-reviewed`.
 
 ## Frozen Tamil translation authorities
 
@@ -44,7 +44,7 @@ Articles 1, 2 and 3 have completed T0–T5 and are individually `verified`. Arti
 | 1 | உணர்ச்சி மாலை | [`01-unarchchi-maalai.md`](01-unarchchi-maalai.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 2 | புரட்சி வளர்ந்த கதை | [`02-puratchi-valarntha-kathai.md`](02-puratchi-valarntha-kathai.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 3 | போகிறான்;போகிறான்..! | [`03-pogiran-pogiran.md`](03-pogiran-pogiran.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 4 | இராவணன் நம் பாட்டன் | [`04-iravanan-nam-pattan.md`](04-iravanan-nam-pattan.md) | `draft` | PASS | **PASS** | — | — | — | — |
+| 4 | இராவணன் நம் பாட்டன் | [`04-iravanan-nam-pattan.md`](04-iravanan-nam-pattan.md) | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `05-ingalla-irashyavil.md` | `not-started` | PASS | — | — | — | — | — |
 | 6 | 3, 57, 90. | `06-3-57-90.md` | `not-started` | PASS | — | — | — | — | — |
 | 7 | 30-1-1948 | `07-30-1-1948.md` | `not-started` | PASS | — | — | — | — | — |
@@ -72,23 +72,25 @@ Articles 1, 2 and 3 have completed T0–T5 and are individually `verified`. Arti
 - final T5-verified English blob: `1134185bc21478775419adb3560b110c001d2b75`
 - blockers: **0**
 
-## Article 4 T1 record
+## Article 4 T1–T2 record
 
 - Tamil title: `இராவணன் நம் பாட்டன்`
-- provisional English title: **Ravana Is Our Grandfather**
+- English title: **Ravana Is Our Grandfather**
 - frozen Tamil authority: `006f2f75dbc3eea796170a29aee0befd162522e7`
 - source scans: **19–29**
 - printed-page witnesses: **scan 19 unnumbered; scan 20 visible `1` only; scans 21–29 show 20–28**
-- T1 draft blob: **`ce50394af45c8bb69e003c3d3fd8de097cf34808`**
-- scan comments 19–29: **retained / ordered**
+- T1 draft blob: `ce50394af45c8bb69e003c3d3fd8de097cf34808`
+- T2 fidelity-reviewed blob: **`1e1f2db8a603e068921d8fb6b9b3e2e4a4c04447`**
+- T2 fidelity corrections: **9** plus one non-semantic quotation-spacing cleanup
+- complete paragraph/clause coverage: **PASS**
+- scan comments 19–29: **PASS / ordered**
 - scan 19 whole-page source-recovered Gemini omission: **retained with explicit provenance comment**
-- Kambar verse across scans 25→26: **translated with lineation and page boundary retained; no published translation imported**
-- paragraph coverage: **complete**
-- questions, exclamations, direct address, ridicule, insults, repetition and quoted article passages: **retained**
-- outside/web wording or historical reconstruction imported: **No**
-- T1 blockers: **0**
-
-T1 provisional/source-sensitive items queued for T2 include: title **Ravana Is Our Grandfather**; `Dravidian youth` / `Dravidians`; `ethnic feeling`, `race-traitors`, `ethnic murder`, `ethnic awakening`, `alien race`; `Kambar` / `Kamban`, `Kamba Ramayanam`, `Kambarasam`; `Kambanattazhvar`; `kavadi-chindu`; `god-substance`; `frenzy to burn / frenzy to bear`; scan-23 `frenzy to twist`; `Self-Respect Movement` / `Self-Respecter`; `Kambar Tharum Katchi`, `Kamba Chithiram`, `Chithira Ramayanam`; `In the Drizzle of Sanjeevi Parvatham`; `attar`, `javvadu`; `sindhu`, `venpa`; and the `jaundiced eye / art-garland eye` wordplay.
+- scan 20 visible printed `1`: **retained / not reconstructed as `19`**
+- Kambar verse across scans 25→26: **T2 PASS / lineation and page boundary retained / no published translation imported**
+- source-sensitive `Kambar` / `Kamban`, `frenzy to bear`, scan-23 `frenzy to twist`, `god-substance`, source titles, `attar`, `javvadu`, `sindhu`, `venpa` and `jaundiced eye / art-garland eye`: **T2 CONFIRMED**
+- T2 corrections established `racial feeling`, `race-murder`, `racial awakening`, `T. K. Chidambaranathar`, `Arignar Annadurai`, source-sensitive `sagath-rakshakan`, `tastes bitter`, and `Dravidians of the South`
+- outside/web wording, historical reconstruction, published Kambar translation or alternate scan lexical reading imported: **No**
+- T2 blockers: **0**
 
 ## Translation authority / special source rule
 
@@ -96,4 +98,4 @@ English authority is the frozen Tamil article assembly, not OCR, memory, web wor
 
 ## Exact next activity
 
-Execute **Article 4 T2 — bilingual fidelity review** for `இராவணன் நம் பாட்டன்` / **Ravana Is Our Grandfather** against frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7` and T1 English blob `ce50394af45c8bb69e003c3d3fd8de097cf34808`, scans **19–29**. Compare every paragraph/clause, preserve the scan-19 source-recovered provenance and all scan comments, audit the Kambar verse and cross-page lineation, review every provisional/source-sensitive terminology choice above, make only fidelity corrections, advance to `fidelity-reviewed` only if T2 passes, and **stop before Article 4 T3**.
+Execute **Article 4 T3 — Kalaignar voice review** for `இராவணன் நம் பாட்டன்` / **Ravana Is Our Grandfather** against frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7` and T2 English blob `1e1f2db8a603e068921d8fb6b9b3e2e4a4c04447`, scans **19–29**. Preserve every T2 meaning/source decision while reviewing cadence, directness, sarcasm, ridicule, insult force, rhetorical questions, exclamations, repeated stinking-puddle imagery, quoted-article transitions and the Kambar verse/prose movement. Make only meaning-neutral voice/cadence corrections, advance to `voice-reviewed` only if T3 passes, and **stop before Article 4 T4**.
