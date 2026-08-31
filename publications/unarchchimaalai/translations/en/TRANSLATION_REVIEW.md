@@ -62,7 +62,8 @@ Source authority:
 - English title: **Ravana Is Our Grandfather**
 - T1 draft blob: `ce50394af45c8bb69e003c3d3fd8de097cf34808`
 - T2 fidelity-reviewed blob: `1e1f2db8a603e068921d8fb6b9b3e2e4a4c04447`
-- T3 voice-reviewed blob: **`3b28938aa7c884e7de04d0532482b220c6c73a5b`**
+- T3 voice-reviewed blob: `3b28938aa7c884e7de04d0532482b220c6c73a5b`
+- T4-audited English candidate blob: **`324cf12bd42cb55e0a8db621965d93b82b383648`**
 
 ## T1 — complete close draft — COMPLETE / PASS
 
@@ -77,11 +78,8 @@ T1 translated the complete frozen Article 4 across scans 19–29 paragraph by pa
 - scans 21–29 printed witnesses 20–28: **PASS**;
 - scan 19 entire body is source-recovered from the controlling scan after Gemini omitted the page: **PASS / provenance retained explicitly in the English comment**;
 - questions, exclamations, direct address, sarcasm, ridicule, insults and repeated stinking-puddle imagery: **retained**;
-- quoted `Kumudam` article passages: **retained as quotations**;
 - Kambar verse begins on scan 25 and continues on scan 26: **lineation and page-boundary comment retained**;
-- Kambar verse translated from frozen Tamil only: **PASS; no published English verse imported**;
-- final Jawaharlal Nehru quotation and source-book reference: **retained without external verification**;
-- outside/web translation, historical correction or literary reconstruction: **none**;
+- no outside/web translation, historical correction or literary reconstruction imported;
 - T1 blockers: **0**.
 
 **T1 RESULT: PASS. Article 4 entered `translation_status: draft`.**
@@ -92,58 +90,39 @@ T2 compared every frozen Tamil paragraph and clause against the T1 English draft
 
 ### T2 fidelity corrections
 
-1. both scan-21 instances of `இன உணர்ச்சி` changed from **`ethnic feeling`** to **`racial feeling`**;
-2. scan-23 `டி. கே. சிதம்பரநாதர்களின்` changed from **`the T. K. Chidambaranathars`** to **`T. K. Chidambaranathar`**;
-3. scan-23 `அறிஞர் அண்ணாதுரை` changed from **`scholar Annadurai`** to **`Arignar Annadurai`**;
-4. scan-24 `இனக்கொலை` changed from **`ethnic murder`** to **`race-murder`**;
-5. scan-24 frozen `சகத் ரக்ஷகன்` changed from the interpretive **`protector of the world`** to source-sensitive **`sagath-rakshakan`**;
-6. scan-25 `கசக்கிறது` changed from **`is nauseating`** to **`tastes bitter`**;
-7. scan-28 `இன எழுச்சி` changed from **`ethnic awakening`** to **`racial awakening`**;
-8. scan-28→29 Nehru quotation `தென்னாட்டிலுள்ள திராவிடர்` changed from **`Dravidians of South India`** to **`Dravidians of the South`**;
-9. the second scan-21 `இன உணர்ச்சி` occurrence was corrected together with the first, so both uses preserve the same source-family decision.
+1. both scan-21 `இன உணர்ச்சி` instances: `ethnic feeling` → **`racial feeling`**;
+2. `டி. கே. சிதம்பரநாதர்களின்`: `the T. K. Chidambaranathars` → **`T. K. Chidambaranathar`**;
+3. `அறிஞர் அண்ணாதுரை`: `scholar Annadurai` → **`Arignar Annadurai`**;
+4. `இனக்கொலை`: `ethnic murder` → **`race-murder`**;
+5. frozen `சகத் ரக்ஷகன்`: interpretive `protector of the world` → source-sensitive **`sagath-rakshakan`**;
+6. `கசக்கிறது`: `is nauseating` → **`tastes bitter`**;
+7. `இன எழுச்சி`: `ethnic awakening` → **`racial awakening`**;
+8. `தென்னாட்டிலுள்ள திராவிடர்`: `Dravidians of South India` → **`Dravidians of the South`**;
+9. both scan-21 `இன உணர்ச்சி` uses were kept consistent under the same corrected decision.
 
-The leading space inside the scan-27 quoted proposed preface was also removed as a purely typographic cleanup; no wording changed there.
+The leading space inside the scan-27 quoted proposed preface was also removed as a purely typographic cleanup.
 
-### T2 provisional/source-sensitive decisions reviewed and retained
+### T2 source-sensitive decisions retained
 
-- title `இராவணன் நம் பாட்டன்` → **Ravana Is Our Grandfather**: **CONFIRMED**;
-- `திராவிட இளைஞர்கள்` → **Dravidian youth** and `திராவிடர்` → **Dravidians**: **CONFIRMED**;
-- `இனத் துரோகிகள்` → **race-traitors** and `வேற்றினம்` → **alien race**: **CONFIRMED**;
-- `கம்பர்` / `கம்பன்` → **Kambar / Kamban** according to the frozen immediate source form: **CONFIRMED / not harmonised**;
-- `கம்பராமாயணம்` / `கம்ப ராமாயணம்` → **Kamba Ramayanam** and `கம்பரசம்` → **Kambarasam**: **CONFIRMED**;
-- `கம்பநாட்டாழ்வார்` → **Kambanattazhvar**, `காவடிச்சிந்து` → **kavadi-chindu**: **CONFIRMED / source-bearing**;
-- `கடவுள்பொருள்` → **god-substance**: **CONFIRMED / source-sensitive**;
-- `கடவுளீயம்` → **God-ism**: **CONFIRMED**;
-- scan-22 `எரிக்கும் வெறி / தரிக்கும் வெறி` → **frenzy to burn / frenzy to bear**: **CONFIRMED**;
-- scan-23 frozen `திரிக்கும் வெறி` → **frenzy to twist**: **CONFIRMED / deliberately not harmonised with scan 22**;
-- `சுயமரியாதை இயக்கம்` / `சுயமரியாதைக்காரர்` → **Self-Respect Movement / Self-Respecter**: **CONFIRMED**;
-- `கம்பர் தருங் காட்சி`, `கம்பசித்திரம்`, `சித்திர ராமாயணம்` → **Kambar Tharum Katchi, Kamba Chithiram, Chithira Ramayanam**: **CONFIRMED / source-title transliterations**;
-- `சஞ்சீவி பர்வதத்தின் சாரலில்` → **In the Drizzle of Sanjeevi Parvatham**: **CONFIRMED / no published translation imported**;
-- `அத்தர்`, `ஜவ்வாது`, `சிந்து`, `வெண்பா` → **attar, javvadu, sindhu, venpa**: **CONFIRMED / source-bearing**;
-- `காமாலைக் கண் / கலைமாலைக் கண்` → **jaundiced eye / art-garland eye**: **CONFIRMED / wordplay retained**.
+- **Ravana Is Our Grandfather**;
+- **Dravidian youth / Dravidians**;
+- **race-traitors / alien race**;
+- source-form **Kambar / Kamban**;
+- **Kamba Ramayanam / Kambarasam**;
+- **Kambanattazhvar / kavadi-chindu / god-substance / God-ism**;
+- scan-22 **frenzy to burn / frenzy to bear** and scan-23 frozen **frenzy to twist** as distinct witnesses;
+- **Self-Respect Movement / Self-Respecter**;
+- source-title forms **Kambar Tharum Katchi, Kamba Chithiram, Chithira Ramayanam, In the Drizzle of Sanjeevi Parvatham**;
+- **attar, javvadu, sindhu, venpa**;
+- **jaundiced eye / art-garland eye** wordplay.
 
 ### T2 verse/source audit
 
 - scan 25→26 Kambar verse: **PASS**;
-- four English verse lines remain aligned to the four frozen Tamil lines: **PASS**;
-- scan 25→26 page-boundary comment remains inside the quotation at the same source transition: **PASS**;
-- prose gloss immediately following the verse remains distinct from the verse: **PASS**;
-- no published Kambar translation or outside literary wording imported: **PASS**.
-
-### T2 completeness / non-regression
-
-- complete paragraph/clause coverage: **PASS**;
-- no omitted body sentence or clause: **PASS**;
-- no added historical or epic claim: **PASS**;
-- all scan comments 19–29: **PASS / ordered**;
-- scan 19 whole-page source-recovered provenance comment: **PASS / unchanged**;
-- scan 20 visible printed `1` witness: **PASS / unchanged / not reconstructed**;
-- quoted `Kumudam` article passages and quotation boundaries: **PASS**;
-- questions, exclamations, direct address, sarcasm, ridicule, insults and repeated stinking-puddle imagery: **PASS**;
-- final Jawaharlal Nehru quotation remains source-derived only, without external verification: **PASS**;
-- frozen Tamil changed: **No**;
-- outside/web translation, historical correction, alternate scan lexical reading or published verse imported: **No**;
-- unresolved T2 blockers: **0**.
+- four English verse lines aligned to the four frozen Tamil lines: **PASS**;
+- scan 25→26 page-boundary comment remains inside the quotation at the source transition: **PASS**;
+- prose gloss remains distinct from verse: **PASS**;
+- published Kambar translation imported: **No**.
 
 **T2 RESULT: PASS. Article 4 advanced to `translation_status: fidelity-reviewed`.**
 
@@ -153,38 +132,79 @@ T3 read the T2 English as English against the frozen Tamil and made **15 meaning
 
 ### T3 voice/cadence corrections
 
-1. sharpened the scan-19 worm sarcasm from the stilted `What honesty in these writhing worms` to **`What honesty these writhing worms have!`**;
-2. tightened `has created the necessity` to **`has made it necessary`** in the scan-20 return to the art-puddle argument;
-3. recast the scan-20 non-violence contrast as **`my purpose is not ... but to warn`**, restoring the direct argumentative snap without changing the warning;
+1. sharpened the scan-19 worm sarcasm to **`What honesty these writhing worms have!`**;
+2. tightened `has created the necessity` to **`has made it necessary`**;
+3. recast the scan-20 non-violence contrast as **`my purpose is not ... but to warn`**;
 4. tightened the fruit metaphor to **`the three-fruit blend—banana, mango and jackfruit`**;
-5. sharpened scan-21 `As though to prove that what I had thought was wholly wrong` to **`As if to prove me completely wrong`**;
-6. restored punch to the scan-22 pity/camp-cry sequence with **`Poor man! Worthy of pity.`** and **`the rationalist's camp-cry`**;
+5. sharpened scan-21 to **`As if to prove me completely wrong`**;
+6. restored punch with **`Poor man! Worthy of pity.`** and **`the rationalist's camp-cry`**;
 7. sharpened scan-23 sarcasm to **`What a pity that the comrade cannot even find a place...`**;
-8. tightened the scan-23 `frenzy to twist` / perfume-puddle sentence so the slip, fall, snarl and leap land in one polemical run;
+8. tightened the scan-23 `frenzy to twist` / perfume-puddle sentence;
 9. sharpened the scan-24 matchstick accusation to **`these accusations are the matchsticks that set Kambar's art ablaze and cast it away`**;
 10. tightened scan-25 `did not stop with saying` to **`did not stop at saying`**;
-11. recast the Kambarasam-drinking paragraph into a more direct invitation—**`let him read and see ... let the comrade drink!`**—without altering its meaning;
-12. tightened the post-verse prose transition to **`I think a prose rendering is enough ... That will do!`**;
-13. sharpened `I issue a ringing challenge` to **`I throw down the challenge`** while preserving the same challenge and questions;
-14. tightened the scan-27 debate-flight comparison so the inability to answer, inability to continue and running away strike in sequence;
-15. strengthened the closing run by tightening the purpose-of-art sentence and restoring the final insult as **`this know-nothing comrade`**.
+11. recast the Kambarasam-drinking paragraph into a more direct invitation;
+12. tightened the post-verse transition to **`I think a prose rendering is enough ... That will do!`**;
+13. sharpened `I issue a ringing challenge` to **`I throw down the challenge`**;
+14. tightened the scan-27 debate-flight comparison;
+15. strengthened the closing run and restored the final insult as **`this know-nothing comrade`**.
 
 ### T3 non-regression checks
 
 - title and all T2 terminology decisions: **PASS / unchanged**;
 - `sagath-rakshakan`: **PASS / unchanged**;
 - scan-22 `frenzy to bear` and scan-23 `frenzy to twist`: **PASS / distinct witnesses preserved**;
-- `Kambar` / `Kamban`, source titles and source-bearing transliterations: **PASS / unchanged**;
-- all quoted `Kumudam` passages: **PASS / no meaning change**;
-- scan 25→26 Kambar verse wording and four-line/page-boundary structure: **PASS / unchanged**;
+- source titles and source-bearing transliterations: **PASS / unchanged**;
+- scan 25→26 Kambar verse wording and structure: **PASS / unchanged**;
 - scan 19 source-recovered provenance and scan 20 visible `1`: **PASS / unchanged**;
-- all scan comments 19–29: **PASS / ordered**;
-- rhetorical questions, exclamations, ridicule, insults and repeated stinking-puddle imagery: **PASS / strengthened without added claims**;
-- final Jawaharlal Nehru quotation and book reference: **PASS / source-derived only**;
-- outside/web wording, published Kambar translation, historical reconstruction or alternate scan lexical reading imported: **No**;
+- rhetorical questions, exclamations, ridicule, insults and repeated stinking-puddle imagery: **PASS**;
+- outside/web wording or published Kambar translation imported: **No**;
 - unresolved T3 blockers: **0**.
 
 **T3 RESULT: PASS. Article 4 advanced to `translation_status: voice-reviewed`.**
+
+## T4 — terminology / quotation / citation / source audit — COMPLETE / PASS
+
+T4 audited the T3 candidate against the frozen Tamil authority, living lexicon, source-title/proper-name policy, source quotation boundaries and scan-page traceability. The audit found **9 genuine T4 corrections**; none changed Kalaignar's argument or any T2/T3 meaning decision.
+
+### T4 corrections
+
+1. moved the scan-21 source comment into the frozen scan 20→21 continuation immediately after `“Kumudam,”`, instead of leaving the comment after the completed English sentence;
+2. restored the scan-21 single-quoted scope `‘குமுதத்திலே இடமா?’` as **`‘Is there a place in Kumudam?’`**, rather than quoting only the periodical name;
+3. removed invented quotation marks around the unquoted Kambanattazhvar praise following `அட்ட!` while retaining its exclamatory force;
+4. scan-23 `எரிக்கும் வெறி` reference changed from quoted **`burning frenzy`** to unquoted **`frenzy to burn`**, matching the T2 lexicon and source's unquoted phrase reference;
+5. restored the source label `கவிஞர்` in **`poet Bharathidasan`**;
+6. removed invented quotation marks around scan-25 `பூனை. அழுமா ?`, retaining the question as **`Does a cat cry?`**;
+7. removed invented quotation marks around scan-27 `நீ பேசுவது விதண்டாவாதங்கள்`, retaining the direct phrase without fabricating a source quotation;
+8. removed invented quotation marks around the scan-27 noseless-man instruction `மூக்கையறுத்துக் கொள்ளுங்கள்.... கடவுளை தரிசிக்கலாம்`, retaining the direct imperative without fabricating a source quotation;
+9. moved the scan-29 page-boundary comment inside the Jawaharlal Nehru quotation at the frozen scan 28→29 transition, before **`the Dravidians of the South`**, so the book reference remains correctly on scan 29.
+
+### T4 terminology / proper-name / source-title audit
+
+- title **Ravana Is Our Grandfather**: **PASS**;
+- `Dravidian youth`, `Dravidians`, `racial feeling`, `race-traitors`, `race-murder`, `racial awakening`, `alien race`: **PASS**;
+- `Kambar` / `Kamban`, `Kamba Ramayanam`, `Kambarasam`, `Kambanattazhvar`: **PASS**;
+- `Pasumalai Bharathi`, `Panditha Sethupillai`, `Sekkizhar`, `T. K. Chidambaranathar`, `Arignar Annadurai`, `Somasundara Bharathiar`, `poet Bharathidasan`, `Kuppan`, `Vanchi`, `Anna`, `Parandhaman`, `Surpanakha`, `Pandit Jawaharlal Nehru`: **PASS**;
+- `sagath-rakshakan`: **PASS / source-sensitive / unchanged**;
+- source titles `Kambar Tharum Katchi`, `Kamba Chithiram`, `Chithira Ramayanam`, `In the Drizzle of Sanjeevi Parvatham`, `Letters Jawaharlal Wrote to His Daughter`: **PASS**;
+- `kavadi-chindu`, `god-substance`, `God-ism`, `attar`, `javvadu`, `sindhu`, `venpa`, `jaundiced eye / art-garland eye`: **PASS**;
+- scan-22 `frenzy to bear` and scan-23 frozen `frenzy to twist`: **PASS / kept distinct**.
+
+### T4 quotation / citation / source audit
+
+- quoted `Kumudam` passages: **PASS after correction**;
+- direct source quotations vs unquoted reported speech: **PASS after correction**;
+- scan 19 source-recovered provenance: **PASS / unchanged**;
+- scan 20 visible printed `1`: **PASS / unchanged / not reconstructed**;
+- scan comments 19–29: **PASS / ordered and source-transition placement corrected where required**;
+- printed-page witnesses: **PASS**;
+- scan 25→26 Kambar verse: **PASS / four lines and page break retained / prose gloss remains separate**;
+- final Jawaharlal Nehru quotation and book reference: **PASS after scan-29 boundary relocation**;
+- external verification or outside historical reconstruction: **not used**;
+- published English Kambar translation: **not used**;
+- frozen Tamil changed: **No**;
+- unresolved T4 blockers: **0**.
+
+**T4 RESULT: PASS. Article 4 remains `translation_status: voice-reviewed` pending T5.**
 
 ## Article review tracker
 
@@ -193,7 +213,7 @@ T3 read the T2 English as English against the frozen Tamil and made **15 meaning
 | 1 | உணர்ச்சி மாலை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 2 | புரட்சி வளர்ந்த கதை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 3 | போகிறான்;போகிறான்..! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 4 | இராவணன் நம் பாட்டன் | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
+| 4 | இராவணன் நம் பாட்டன் | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `not-started` | PASS | — | — | — | — | — |
 | 6 | 3, 57, 90. | `not-started` | PASS | — | — | — | — | — |
 | 7 | 30-1-1948 | `not-started` | PASS | — | — | — | — | — |
@@ -203,4 +223,4 @@ T3 read the T2 English as English against the frozen Tamil and made **15 meaning
 
 ## Exact next activity
 
-Execute **Article 4 T4 — terminology / quotation / citation / source audit** against frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7` and T3 English blob `3b28938aa7c884e7de04d0532482b220c6c73a5b`, scans **19–29**. Audit the complete Article 4 lexicon/proper-name set, source titles, quoted `Kumudam` passages, scan comments and printed-page witnesses, scan-19 source-recovered provenance, scan-20 visible `1`, source-sensitive `sagath-rakshakan`, distinct `frenzy to bear` / `frenzy to twist`, the scan 25→26 Kambar verse and the final Jawaharlal Nehru quotation/book reference. Keep metadata `voice-reviewed` through T4, make only genuine T4 corrections if required, and **stop before Article 4 T5**.
+Execute **Article 4 T5 — final article verification** against frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7` and T4-audited English candidate blob `324cf12bd42cb55e0a8db621965d93b82b383648`, scans **19–29**. Reconfirm the complete T1–T4 chain, metadata/source SHA, all scan comments and printed-page witnesses, scan-19 source-recovered provenance, scan-20 visible `1`, terminology/proper names/source titles, quotation boundaries, distinct source-sensitive witnesses, the scan 25→26 Kambar verse/prose boundary and the scan 28→29 Nehru quotation transition. If all checks pass, mark Article 4 `verified`, record the final English blob, synchronize all records, and **stop before Article 5 T1**.
