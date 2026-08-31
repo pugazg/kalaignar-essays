@@ -13,7 +13,7 @@
 - Publication type: **10-article collection / multi-article publication**
 - P0: **COMPLETE**
 - P1: **COMPLETE**
-- P2 page-level transcription: **ACTIVE — 18 / 50 verified**
+- P2 page-level transcription: **ACTIVE — 29 / 50 verified**
 - P3 article assembly: **NOT STARTED — 0 / 10**
 - P4 source audit / completeness review: **NOT STARTED**
 - P5 strict visual text-fidelity pass: **NOT STARTED**
@@ -94,7 +94,7 @@ Visible sequence by article:
 - Article 9: scan 45 unnumbered; scans 46–47 show **45–46**
 - Article 10: scan 48 unnumbered; scan 49 shows **48**
 
-For scan 20, surrounding sequence may suggest a longer numeral, but no unseen digit is reconstructed. The page map records only the visible `1`.
+For scan 20, surrounding sequence may suggest a longer numeral, but no unseen digit is reconstructed. The page map and scan-20 page record preserve only the visible `1`.
 
 ## Heading-format witnesses fixed at P1
 
@@ -113,7 +113,8 @@ These heading witnesses must remain distinct from any differently spaced OCR/bod
 - scan 1 contains illustrated cover art
 - scan 5 is effectively blank except for bleed-through / paper marks
 - scan 6 contains a prominent library stamp above the Article 1 heading
-- scan 29 ends Article 4 with a printed ornamental device
+- scan 19 opens Article 4 and contains body text omitted entirely from the supplied Gemini transcription
+- scan 29 ends Article 4 with a printed floral ornamental device
 - scan 49 is a mixed-role page: Article 10 conclusion plus publication-source note and printer imprint below the article body
 - scan 50 is an illustrated advertisement and must remain separate from article body
 
@@ -121,10 +122,11 @@ These heading witnesses must remain distinct from any differently spaced OCR/bod
 
 The user explicitly supplied a Gemini OCR transcription and instructed that its **words be retained**. For the current Tamil processing of this publication:
 
-- Gemini word tokens are the working lexical baseline;
+- Gemini word tokens are the working lexical baseline wherever Gemini supplied text;
 - corrections are limited to indentation, punctuation, spaces, missing paragraph breaks, headings, quotation/verse layout and analogous non-lexical structure supported by the scan;
 - do not silently replace a Gemini word because a different lexical reading appears plausible from the scan;
-- if a scan/Gemini lexical conflict is discovered, record it for user decision rather than changing the word unilaterally.
+- if a scan/Gemini lexical conflict is discovered, record it for user decision rather than changing the word unilaterally;
+- when Gemini omits an entire source paragraph/page and the user has explicitly authorised correction of missing paragraphs, a source-recovered block may be added only with explicit provenance that it is scan-derived rather than Gemini-derived.
 
 This is a publication-specific user-directed workflow rule. It does not turn OCR into evidence for physical-copy marks or publication structure; the scan still controls those layers.
 
@@ -143,29 +145,33 @@ P1 metadata + complete page / boundary mapping is **COMPLETE**:
 - publication/title/article-heading witness distinctions documented;
 - no Gemini lexical token was changed during P1.
 
-## P2 progress — scans 1–18 complete
+## P2 progress — scans 1–29 complete
 
-Page records now exist for **18 / 50** physical scans and were directly compared with the source for the user-authorised structural layer.
+Page records now exist for **29 / 50** physical scans and were directly compared with the source for the user-authorised structural layer.
 
 Completed:
 
 - scans **1–5** — front matter;
 - scans **6–9** — Article 1 `உணர்ச்சி மாலை`;
 - scans **10–15** — Article 2 `புரட்சி வளர்ந்த கதை`;
-- scans **16–18** — Article 3 `போகிறான்;போகிறான்..!`.
+- scans **16–18** — Article 3 `போகிறான்;போகிறான்..!`;
+- scans **19–29** — Article 4 `இராவணன் நம் பாட்டன்`.
 
 P2 rules applied:
 
 - `# அச்சு உரை` and `## அச்சு அல்லாத / physical-copy marks` kept separate;
-- Gemini letters/word choices retained as the lexical baseline;
+- Gemini letters/word choices retained as the lexical baseline wherever present;
 - scan-supported punctuation, spacing, paragraph breaks, headings and quotation/lineation restored;
 - visible printed page numerals preserved exactly;
-- article-opening scans 6, 10 and 16 remain `printed_page: null`;
+- article-opening scans 6, 10, 16 and 19 remain `printed_page: null`;
+- scan 20 records only the visible incomplete page-position witness `1`, never an inferred `19`;
+- **Gemini omission at scan 19:** the supplied OCR jumps directly from Article 3 to scan-20 text. Under the user's explicit instruction to correct missing paragraphs, scan 19 was transcribed directly from the controlling scan and its page record explicitly labels the text as source-recovered rather than Gemini-derived;
+- Gemini-specific forms retained in this batch include `உணாந்துவிட்டால்`, `வாணனையை`, `விவாதத்தை வளர்த்த முடியாமல்`, and `ஏது மறியாத` rather than silently normalising them;
 - no English translation or article assembly work has begun.
 
 ## Exact next gate
 
-Continue **P2 — scans 19–29**, completing Article 4 `இராவணன் நம் பாட்டன்` in one page-layer batch. Preserve the two-line heading witness on scan 19 and the incomplete visible page-number mark `1` on scan 20; do not reconstruct `19`. Keep Gemini words unchanged and correct only the user-authorised structural/punctuation/spacing features.
+Continue **P2 — scans 30–38**, completing Article 5 `இங்கல்ல! இரஷ்யாவில்` (scans 30–32) and Article 6 `3, 57, 90.` (scans 33–38) as the next coherent page-layer batch. Preserve scans 30 and 33 as unnumbered article openings; retain Gemini words unchanged and correct only the user-authorised structural/punctuation/spacing features.
 
 ## Source authority / user-baseline rule
 
