@@ -10,17 +10,17 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - Tamil source/fidelity prerequisite: **PASSED / FROZEN**
 - Tamil articles: **10 / 10 strict-rechecked**
 - T0 source prerequisite/setup: **COMPLETE / PASS**
-- T1 close English drafts: **0 / 10**
+- T1 close English drafts: **1 / 10**
 - T2 fidelity-reviewed: **0 / 10**
 - T3 voice-reviewed: **0 / 10**
 - T4 audited: **0 / 10**
 - T5 verified: **0 / 10**
 - E6 publication consistency review: **NOT STARTED**
 - E7 release closeout: **NOT STARTED**
-- English translation: **NOT STARTED**
+- English translation: **IN PROGRESS**
 - unresolved translation blockers: **0**
 
-No English article body exists at T0.
+Article 1 now has a complete T1 draft. It remains `translation_status: draft` and has **not** passed T2.
 
 ## Frozen Tamil translation authorities
 
@@ -41,9 +41,9 @@ If any of these Tamil blobs changes after a genuine source-supported correction,
 
 ## Article tracker
 
-| # | Tamil article | Planned English file | Status | T0 | T1 | T2 | T3 | T4 | T5 |
+| # | Tamil article | English file | Status | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|---|
-| 1 | உணர்ச்சி மாலை | `01-unarchchi-maalai.md` | `not-started` | PASS | — | — | — | — | — |
+| 1 | உணர்ச்சி மாலை | [`01-unarchchi-maalai.md`](01-unarchchi-maalai.md) | `draft` | PASS | **PASS** | — | — | — | — |
 | 2 | புரட்சி வளர்ந்த கதை | `02-puratchi-valarntha-kathai.md` | `not-started` | PASS | — | — | — | — | — |
 | 3 | போகிறான்;போகிறான்..! | `03-pogiran-pogiran.md` | `not-started` | PASS | — | — | — | — | — |
 | 4 | இராவணன் நம் பாட்டன் | `04-iravanan-nam-pattan.md` | `not-started` | PASS | — | — | — | — | — |
@@ -54,13 +54,26 @@ If any of these Tamil blobs changes after a genuine source-supported correction,
 | 9 | அன்னை நாகம்மையார்! | `09-annai-nagammaiyar.md` | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `10-kavithaiyalla-kannirkkadal.md` | `not-started` | PASS | — | — | — | — | — |
 
+Provisional Article 1 English title: **Garland of Emotion**.
+
 ## Translation authority / special source rule
 
 Translation authority is the frozen Tamil article assembly, not OCR or the scan independently.
 
-For this publication only, the user established that Gemini word tokens remain the Tamil lexical baseline wherever supplied. The P5 ledger records 18 scan/Gemini lexical disagreements. English must therefore follow the frozen Tamil assembly and must not silently translate from a scan-appearing replacement word.
+For this publication only, the user established that Gemini word tokens remain the Tamil lexical baseline wherever supplied. The P5 ledger records 18 scan/Gemini lexical disagreements. English therefore follows the frozen Tamil assembly and does not silently translate from a scan-appearing replacement word.
 
-Source-recovered material that is already frozen in the Tamil assembly is authoritative for translation, including scan 19's recovered Article 4 opening and scan 42 `பதில் இல்லை.` in Article 8.
+Source-recovered material already frozen in the Tamil assembly is authoritative for translation, including scan 19's recovered Article 4 opening and scan 42 `பதில் இல்லை.` in Article 8.
+
+## Article 1 T1 result
+
+- complete Article 1 translated from frozen Tamil blob: **PASS**;
+- scans 6–9 source-boundary comments retained: **PASS**;
+- embedded quoted verse lineation retained: **PASS**;
+- provisional title established: **Garland of Emotion**;
+- initial living-lexicon decisions recorded: **PASS**;
+- outside/web wording imported: **No**;
+- Article 1 metadata: `translation_status: draft`;
+- T2 bilingual fidelity review: **NOT STARTED**.
 
 ## Gate legend
 
@@ -75,6 +88,6 @@ Source-recovered material that is already frozen in the Tamil assembly is author
 
 ## Exact next activity
 
-Execute **T1 for Article 1 — `உணர்ச்சி மாலை`** from Tamil blob `c63837a9f7c02d6f3a18171a512d46788f66ad92`.
+Execute **Article 1 T2 — bilingual fidelity review** for `உணர்ச்சி மாலை` / provisional English title `Garland of Emotion` against frozen Tamil blob `c63837a9f7c02d6f3a18171a512d46788f66ad92`.
 
-Create the complete English draft with `translation_status: draft`, preserve every Tamil-source scan-boundary comment and verse structure, establish a provisional English title and initial lexicon decisions, and do not advance to T2 in the same activity unless explicitly recorded as the next activity afterward.
+Check every clause, quoted line, name, rhetorical turn and scan boundary; resolve or explicitly document the provisional T1 source-sensitive choices without changing the frozen Tamil; then advance only to `fidelity-reviewed` if T2 passes. Do **not** begin T3 in the same activity.
