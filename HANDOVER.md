@@ -60,7 +60,7 @@ Do not restart or stylistically rewrite Publication 1 unless a genuine source-su
 # Publication 2 — கயிற்றில் தொங்கிய கணபதி — RELEASE COMPLETE / FROZEN
 
 Workspace: `publications/kayittril-thongiya-kanapathi/`  
-Supplied source: `TVA_BOK_0064013_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
+Supplied source: `TVA_BOK_0064013_கயிற்றில்_தொங்கிய_கணபதி.pdf`
 
 ## Source identity
 
