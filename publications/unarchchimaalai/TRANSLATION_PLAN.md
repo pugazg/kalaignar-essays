@@ -38,7 +38,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 |---:|---|---|---|---|---|---|---|---|
 | 1 | உணர்ச்சி மாலை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 2 | புரட்சி வளர்ந்த கதை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 3 | போகிறான்;போகிறான்..! | `not-started` | PASS | — | — | — | — | — |
+| 3 | போகிறான்;போகிறான்..! | `draft` | PASS | **PASS** | — | — | — | — |
 | 4 | இராவணன் நம் பாட்டன் | `not-started` | PASS | — | — | — | — | — |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `not-started` | PASS | — | — | — | — | — |
 | 6 | 3, 57, 90. | `not-started` | PASS | — | — | — | — | — |
@@ -52,7 +52,20 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 Article 1 final English blob: `4246c9f1e206d5703fe50297657bb0af2a8e57e6`.  
 Article 2 final English blob: `f1599a8e7cae4ba749b9be2857705b152887f9f8`.
 
-Article 2 T5 reconfirmed the complete T1–T4 chain, metadata, title, frozen Tamil SHA, scans 10–15, source-boundary comments, cross-scan continuations, dates/numbers, quotation boundaries, source-sensitive transliterations and T3 voice. T5 required **0 body corrections** and left **0 blockers**.
+## Article 3 — T1 COMPLETE / DRAFT
+
+- Tamil title: `போகிறான்;போகிறான்..!`
+- provisional English title: **He Goes; He Goes..!**
+- frozen Tamil authority: `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
+- source scans: **16–18**
+- English file: `translations/en/03-pogiran-pogiran.md`
+- T1 draft blob: **`41abd9d0071ee9f3511a0781bd3ab503404dff72`**
+- complete paragraph coverage: **PASS**
+- scan comments 16–18: **PASS / ordered**
+- questions, exclamations and final repetition: **retained**
+- outside/web wording imported: **No**
+- provisional/source-sensitive items for T2: `paaraiyu`, `crushed lead vessel`, `sel`, `That day`, `water-bubble bhajan`, the Kural quote, `Mahatmas`, and `செல்வாக்கை / செல்லாக்காசு` wordplay
+- unresolved T1 blockers: **0**
 
 ## Publication-specific cautions
 
@@ -63,7 +76,8 @@ Article 2 T5 reconfirmed the complete T1–T4 chain, metadata, title, frozen Tam
 5. Article 10 excludes scan-49 publication-close matter and scan-50 advertisement.
 6. Do not silently repair source-sensitive forms such as Article 10 `ப்ழச்சளை`.
 7. Preserve questions, exclamations, repetition, direct address and page-boundary comments.
+8. Article 3 frozen `பாறையு` is source-sensitive and must not be silently expanded from the scan during translation review.
 
 ## Exact next activity
 
-Execute **Article 3 T1 — complete close English draft for `போகிறான்;போகிறான்..!`** from frozen Tamil blob `92eb1a68d65f65dd71274e5e79f3209e63359d9a`, scans **16–18**. Translate the entire article paragraph by paragraph, retain scan comments and rhetorical structure, establish only terminology actually encountered, leave `translation_status: draft`, and **stop before T2**.
+Execute **Article 3 T2 — bilingual fidelity review** for `போகிறான்;போகிறான்..!` / **He Goes; He Goes..!** against frozen Tamil blob `92eb1a68d65f65dd71274e5e79f3209e63359d9a` and T1 English blob `41abd9d0071ee9f3511a0781bd3ab503404dff72`, scans **16–18**. Review every paragraph and clause, especially the provisional/source-sensitive forms, quotation boundaries, the Kural line, `Mahatmas`, the `செல்வாக்கை / செல்லாக்காசு` wordplay, and the final repeated motion. Make only fidelity corrections, advance to `fidelity-reviewed` only if T2 passes, and **stop before T3**.
