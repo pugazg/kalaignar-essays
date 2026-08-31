@@ -13,7 +13,7 @@
 - Publication type: **10-article collection / multi-article publication**
 - P0: **COMPLETE**
 - P1: **COMPLETE**
-- P2 page-level transcription: **NOT STARTED / NEXT**
+- P2 page-level transcription: **ACTIVE — 18 / 50 verified**
 - P3 article assembly: **NOT STARTED — 0 / 10**
 - P4 source audit / completeness review: **NOT STARTED**
 - P5 strict visual text-fidelity pass: **NOT STARTED**
@@ -143,9 +143,29 @@ P1 metadata + complete page / boundary mapping is **COMPLETE**:
 - publication/title/article-heading witness distinctions documented;
 - no Gemini lexical token was changed during P1.
 
+## P2 progress — scans 1–18 complete
+
+Page records now exist for **18 / 50** physical scans and were directly compared with the source for the user-authorised structural layer.
+
+Completed:
+
+- scans **1–5** — front matter;
+- scans **6–9** — Article 1 `உணர்ச்சி மாலை`;
+- scans **10–15** — Article 2 `புரட்சி வளர்ந்த கதை`;
+- scans **16–18** — Article 3 `போகிறான்;போகிறான்..!`.
+
+P2 rules applied:
+
+- `# அச்சு உரை` and `## அச்சு அல்லாத / physical-copy marks` kept separate;
+- Gemini letters/word choices retained as the lexical baseline;
+- scan-supported punctuation, spacing, paragraph breaks, headings and quotation/lineation restored;
+- visible printed page numerals preserved exactly;
+- article-opening scans 6, 10 and 16 remain `printed_page: null`;
+- no English translation or article assembly work has begun.
+
 ## Exact next gate
 
-**P2 — page-level transcription.** Create a Markdown record for every physical scan, using the user-supplied Gemini words as the lexical baseline while restoring source-supported punctuation, spaces, paragraphs, headings, verse/quotation layout and physical-copy separation. Mark a page `verified` only after direct comparison with the scan. Do not silently resolve lexical scan/Gemini conflicts.
+Continue **P2 — scans 19–29**, completing Article 4 `இராவணன் நம் பாட்டன்` in one page-layer batch. Preserve the two-line heading witness on scan 19 and the incomplete visible page-number mark `1` on scan 20; do not reconstruct `19`. Keep Gemini words unchanged and correct only the user-authorised structural/punctuation/spacing features.
 
 ## Source authority / user-baseline rule
 
