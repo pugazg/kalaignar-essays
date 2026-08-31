@@ -13,14 +13,14 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T1 close English drafts: **1 / 10**
 - T2 fidelity-reviewed: **1 / 10**
 - T3 voice-reviewed: **1 / 10**
-- T4 audited: **0 / 10**
+- T4 audited: **1 / 10**
 - T5 verified: **0 / 10**
 - E6 publication consistency review: **NOT STARTED**
 - E7 release closeout: **NOT STARTED**
 - English translation: **IN PROGRESS**
 - unresolved translation blockers: **0**
 
-Article 1 has passed T3 and is now `translation_status: voice-reviewed`. T4 has not started.
+Article 1 has passed T4. Its metadata intentionally remains `translation_status: voice-reviewed` until T5 final verification.
 
 ## Frozen Tamil translation authorities
 
@@ -43,7 +43,7 @@ If any Tamil authority changes because of a genuine source-supported correction,
 
 | # | Tamil article | English file | Status | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|---|
-| 1 | உணர்ச்சி மாலை | [`01-unarchchi-maalai.md`](01-unarchchi-maalai.md) | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
+| 1 | உணர்ச்சி மாலை | [`01-unarchchi-maalai.md`](01-unarchchi-maalai.md) | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
 | 2 | புரட்சி வளர்ந்த கதை | `02-puratchi-valarntha-kathai.md` | `not-started` | PASS | — | — | — | — | — |
 | 3 | போகிறான்;போகிறான்..! | `03-pogiran-pogiran.md` | `not-started` | PASS | — | — | — | — | — |
 | 4 | இராவணன் நம் பாட்டன் | `04-iravanan-nam-pattan.md` | `not-started` | PASS | — | — | — | — | — |
@@ -54,34 +54,39 @@ If any Tamil authority changes because of a genuine source-supported correction,
 | 9 | அன்னை நாகம்மையார்! | `09-annai-nagammaiyar.md` | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `10-kavithaiyalla-kannirkkadal.md` | `not-started` | PASS | — | — | — | — | — |
 
-Article 1 English title: **Garland of Emotion** — T2/T3 confirmed, not release-frozen.
+Article 1 English title: **Garland of Emotion** — T2/T3/T4 confirmed, not release-frozen.
 
 ## Translation authority / special source rule
 
 English authority is the frozen Tamil article assembly, not OCR, memory, web wording or the scan as an alternate lexical source. The publication's 18 P5 scan/Gemini disagreements remain upstream provenance only; English follows the frozen Tamil blobs.
 
-## Article 1 T2 result
+## Article 1 T1–T3 summary
 
-T2 completed a clause-by-clause bilingual review, made **11** documented fidelity corrections, retained scans 6–9 comments and verse lineation, and left no unresolved fidelity blockers. Key source-sensitive decisions remain `themmangu`, `Aththaan`, `Tiruvitaththar`, and `writings that do not tire`.
+- T1 complete close draft: **PASS**;
+- T2 clause-by-clause fidelity review: **PASS**, with **11** documented corrections;
+- T3 Kalaignar-voice review: **PASS**, with **7** meaning-neutral cadence corrections;
+- source comments 6–9 and quoted/verse lineation retained throughout;
+- frozen Tamil authority unchanged throughout.
 
-## Article 1 T3 result
+## Article 1 T4 result
 
-T3 preserved all T2 meaning/source decisions and performed only meaning-neutral voice/cadence work.
+T4 completed the formal terminology / quotation / citation / source audit.
 
-- metadata status: **`voice-reviewed`**;
-- T3 body corrections: **7**;
-- directness and accumulative dash cadence strengthened: **PASS**;
-- Rama/Kali parallel attack sharpened without changing meaning: **PASS**;
-- `உலவ` image retained more vividly as **`roam freely`**: **PASS**;
-- quoted `ரகளை` rendered **`ruckus`** rather than flatter `commotion`: **PASS**;
-- final festival sentence restored to a compressed fragment-like cadence: **PASS**;
-- T2 terminology/source-bearing decisions unchanged: **PASS**;
-- source comments 6–9 / verse lineation unchanged: **PASS**;
-- Tamil source changed: **No**;
-- outside/web wording imported: **No**;
-- unresolved T3 blockers: **0**.
+- frozen Tamil authority confirmed: **PASS**;
+- T4-audited English candidate blob: `28840cafd8b5ae435958979d140720586ea2a4ec`;
+- terminology / proper names / referents: **PASS**;
+- `Tamil Nadu` vs `Tamilakam` distinction: **PASS**;
+- source-bearing `themmangu`, `Aththaan`, `Tiruvitaththar`: **PASS**;
+- source-sensitive `writings that do not tire`: **PASS**;
+- quoted material and quotation boundaries: **PASS**;
+- crow quotation scan 7/8 boundary: **PASS**;
+- `Thyagaraja` / `Iyer` scan 8/9 boundary: **PASS**;
+- numbers and source-page traceability: **PASS**;
+- external/web quotation or citation imported: **No**;
+- T4 body corrections required: **0**;
+- unresolved T4 blockers: **0**.
 
-Detailed provenance: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md). Living terminology/voice decisions: [`LEXICON.md`](LEXICON.md).
+Detailed provenance: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md). Living terminology decisions: [`LEXICON.md`](LEXICON.md).
 
 ## Gate legend
 
@@ -96,4 +101,4 @@ Detailed provenance: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md). Living te
 
 ## Exact next activity
 
-Execute **Article 1 T4 — terminology / quotation / citation / source audit** for `Garland of Emotion`. Audit proper names, terminology, source-bearing words, quotation boundaries, scan comments, page/verse traceability and the unchanged frozen Tamil blob. T4 is an audit gate; keep metadata at `voice-reviewed` until T5 unless the permanent guide requires otherwise. Stop before T5.
+Execute **Article 1 T5 — final article verification** for `Garland of Emotion`. Verify the T4-audited candidate against the frozen Tamil authority and T1–T4 provenance, confirm metadata/source SHA/scan comments/completeness, and mark Article 1 `verified` only if the full chain passes. **Do not start Article 2 in the same activity.**
