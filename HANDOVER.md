@@ -93,70 +93,49 @@ Active files:
 - `publications/unarchchimaalai/translations/en/LEXICON.md`
 - `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md`
 
-## Article 1 — `உணர்ச்சி மாலை`
+## Article 1 — `உணர்ச்சி மாலை` — T0–T5 COMPLETE / VERIFIED
 
 Frozen Tamil authority: `c63837a9f7c02d6f3a18171a512d46788f66ad92`  
 English file: `publications/unarchchimaalai/translations/en/01-unarchchi-maalai.md`  
-English title: **Garland of Emotion**
+English title: **Garland of Emotion**  
+Final verified English blob: **`4246c9f1e206d5703fe50297657bb0af2a8e57e6`**
 
-### T1 — COMPLETE / PASS
+### Gate record
 
-Complete close draft from scans 6–9; scan comments and quoted lineation retained; no outside/web translation imported.
+- T1 close draft: **PASS**
+- T2 bilingual fidelity: **PASS** — **11** documented fidelity corrections
+- T3 Kalaignar voice: **PASS** — **7** meaning-neutral voice/cadence corrections
+- T4 terminology / quotation / citation / source audit: **PASS** — **0** body corrections
+- T5 final article verification: **PASS** — **0** body corrections
 
-### T2 — COMPLETE / PASS
+### Article 1 final non-regression
 
-- title **Garland of Emotion**: confirmed
-- source-bearing `themmangu`, `Aththaan`, `Tiruvitaththar`: retained
-- frozen `இளைக் காத எழுத்துக்கள்`: `writings that do not tire`
-- `வெள்ளம்போல் தமிழர்...` stanza: revised and checked line by line
-- documented T2 fidelity corrections: **11**
-- frozen Tamil changed: **No**
-- unresolved T2 blockers: **0**
+- metadata status: **`verified`**
+- title **Garland of Emotion**: verified
+- source-bearing `themmangu`, `Aththaan`, `Tiruvitaththar`: verified
+- frozen `இளைக் காத எழுத்துக்கள்` → `writings that do not tire`: verified
+- `Tamil Nadu` / `Tamilakam` distinction: verified
+- Article 1 proper names/referents: verified
+- `வெள்ளம்போல் தமிழர்...` stanza wording/lineation: preserved from T2
+- Rama/Kali remains unquoted Kalaignar prose
+- quoted `ரகளை` remains `ruckus`
+- scan comments 6–9: PASS
+- crow quotation scan 7/8 boundary: PASS
+- `Thyagaraja` / `Iyer` scan 8/9 boundary: PASS
+- frozen Tamil changed during English work: **No**
+- outside/web wording or published translation imported: **No**
+- unresolved Article 1 blockers: **0**
 
-### T3 — COMPLETE / PASS
-
-Article 1 advanced to `translation_status: voice-reviewed`.
-
-T3 preserved every T2 meaning/source decision and made **7 meaning-neutral voice/cadence corrections**, establishing the publication voice baseline: compact direct clauses, dash-driven accumulation, forceful collective commands, restrained treatment of source-bearing terms, preservation of colloquial bite (`ரகளை` → `ruckus`) and source fragment cadence where rhetorically meaningful.
-
-- scan comments 6–9 / verse lineation: **PASS**
-- Tamil source changed: **No**
-- outside/web wording imported: **No**
-- unresolved T3 blockers: **0**
-
-### T4 — COMPLETE / PASS
-
-Formal terminology / quotation / citation / source audit completed against the unchanged frozen Tamil authority and the T3 English candidate.
-
-- T4-audited English candidate blob: `28840cafd8b5ae435958979d140720586ea2a4ec`
-- terminology / proper names / referents: **PASS**
-- `Tamil Nadu` vs `Tamilakam`: **PASS**
-- `themmangu`, `Aththaan`, `Tiruvitaththar`, `writings that do not tire`: **PASS**
-- Article 1 names `Komalavalli`, `Kuppan`, `Rama`, `Kali`, `Thyagaraja Iyer`, `Thiruvaiyaru`, `Thanjavur`, `Iyengar`: **PASS**
-- all quoted/verse material and quotation boundaries: **PASS**
-- Rama/Kali remains unquoted Kalaignar prose: **PASS**
-- Iyengar statement remains indirect speech: **PASS**
-- scan comments 6–9: **PASS**
-- crow quotation scan 7/8 boundary: **PASS**
-- `Thyagaraja` / `Iyer` scan 8/9 boundary: **PASS**
-- numeric references 60, 40, four/five days, three/four days: **PASS**
-- source date/periodical citation requiring English rendering: **none present**
-- external/web citation or published translation imported: **No**
-- T4 body corrections required: **0**
-- unresolved T4 blockers: **0**
-
-Article metadata intentionally remains **`voice-reviewed`** until T5, consistent with the repository status model.
-
-Detailed T1–T4 provenance: `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md`.
+Article 1 is individually verified, but publication-level E6/E7 release freezing waits until all ten articles pass T5.
 
 ## English progress
 
-- T0: **PASS**
+- T0 setup: **PASS**
 - T1 drafts: **1 / 10**
 - T2 fidelity-reviewed: **1 / 10**
 - T3 voice-reviewed: **1 / 10**
 - T4 audited: **1 / 10**
-- T5 verified: **0 / 10**
+- T5 verified: **1 / 10**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - unresolved translation blockers: **0**
@@ -165,19 +144,21 @@ Detailed T1–T4 provenance: `publications/unarchchimaalai/translations/en/TRANS
 
 # Exact next activity
 
-Execute **Article 1 T5 — final article verification** for `Garland of Emotion` against frozen Tamil blob:
+Execute **Article 2 T1 — complete close English draft for `புரட்சி வளர்ந்த கதை`** from frozen Tamil blob:
 
-`c63837a9f7c02d6f3a18171a512d46788f66ad92`
+`dda81363f512ee2f829c367ae929ce3610604fe9`
 
-T5 must:
+Source scans: **10–15**.
 
-1. verify the T4-audited English candidate against the frozen Tamil authority and complete T1–T4 provenance;
-2. confirm English metadata and `source_tamil_blob_sha`;
-3. confirm complete paragraph/quotation/verse coverage and scan comments 6–9;
-4. confirm no unresolved terminology/source/voice blocker remains;
-5. if PASS, update the English article to `translation_status: verified` and record its final English blob SHA;
+T1 must:
+
+1. translate the complete frozen Tamil article paragraph by paragraph;
+2. preserve all source scan-boundary comments, quotations, questions, exclamations, repetition and argumentative rhythm;
+3. use the Article 1 verified voice baseline where context supports it, without mechanically forcing terminology;
+4. establish and record only the Article 2 terminology/proper-name decisions actually encountered, including source-bearing forms such as `இலெனின்`, `ஜார்`, `டூமா` if present in the frozen article;
+5. create `publications/unarchchimaalai/translations/en/02-puratchi-valarntha-kathai.md` with `translation_status: draft`;
 6. update tracker, lexicon, review ledger, plan and this handover;
-7. **do not start Article 2 in the same activity**.
+7. **stop before Article 2 T2 bilingual fidelity review**.
 
 ## Current blockers
 
