@@ -50,7 +50,7 @@ Translate in source order, one complete article at a time. Article 1 establishes
 
 | # | Tamil title | English file | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|---|
-| 1 | உணர்ச்சி மாலை | [`translations/en/01-unarchchi-maalai.md`](translations/en/01-unarchchi-maalai.md) | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
+| 1 | உணர்ச்சி மாலை | [`translations/en/01-unarchchi-maalai.md`](translations/en/01-unarchchi-maalai.md) | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
 | 2 | புரட்சி வளர்ந்த கதை | `translations/en/02-puratchi-valarntha-kathai.md` | `not-started` | PASS | — | — | — | — | — |
 | 3 | போகிறான்;போகிறான்..! | `translations/en/03-pogiran-pogiran.md` | `not-started` | PASS | — | — | — | — | — |
 | 4 | இராவணன் நம் பாட்டன் | `translations/en/04-iravanan-nam-pattan.md` | `not-started` | PASS | — | — | — | — | — |
@@ -63,34 +63,28 @@ Translate in source order, one complete article at a time. Article 1 establishes
 
 ## Article 1 T1 — COMPLETE / PASS
 
-- frozen authority: `c63837a9f7c02d6f3a18171a512d46788f66ad92`;
-- English file: `translations/en/01-unarchchi-maalai.md`;
-- English title: **Garland of Emotion**;
-- complete paragraph-by-paragraph draft: **PASS**;
-- scan comments 6–9 and quoted lineation: **retained**;
-- outside/web translation imported: **No**.
+Complete close draft from frozen Tamil authority; scan comments 6–9 and quoted lineation retained; no outside/web translation imported.
 
 ## Article 1 T2 — COMPLETE / PASS
 
-T2 performed a full clause-by-clause bilingual review against the unchanged frozen Tamil authority.
+T2 performed the full clause-by-clause bilingual review and made **11** documented fidelity corrections. It confirmed **Garland of Emotion**, retained source-bearing `themmangu`, `Aththaan`, and `Tiruvitaththar`, and retained `writings that do not tire` for the frozen source-sensitive phrase. Unresolved T2 blockers: **0**.
 
-Results:
+## Article 1 T3 — COMPLETE / PASS
 
-- metadata status advanced to **`fidelity-reviewed`**;
-- title **Garland of Emotion** retained and T2-confirmed;
-- all source scan comments 6–9 remain ordered;
-- all quoted/verse lineation remains traceable;
-- `Aththaan` remains source-bearing without an unsupported relationship gloss;
-- frozen `திருவிடத்தார்` remains source-sensitive **Tiruvitaththar**;
-- frozen `இளைக் காத எழுத்துக்கள்` now renders **`writings that do not tire`**;
-- the `வெள்ளம்போல் தமிழர்...` stanza was revised line by line for closer frozen-Tamil fidelity;
-- T1's invented quotation marks around the Rama/Kali prose were removed;
-- source-bearing `தெம்மாங்கு` now remains **themmangu**, replacing T1's explanatory `lilting song`;
-- total documented T2 fidelity corrections: **11**;
-- unresolved T2 blockers: **0**;
-- T3: **NOT STARTED**.
+T3 preserved every T2 meaning/source decision and made **7 meaning-neutral voice/cadence corrections**.
 
-Detailed correction provenance is in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md); living terminology decisions are in [`translations/en/LEXICON.md`](translations/en/LEXICON.md).
+Voice baseline established:
+
+- direct, compact clauses over explanatory prose;
+- repetition and dash-driven accumulation retained;
+- commands and collective `Let us...` sequences remain forceful;
+- source-bearing terms are not domesticated merely for smoothness;
+- ridicule/colloquial bite remains visible (`ரகளை` → `ruckus`);
+- source fragment cadence may remain fragment-like when that carries rhetorical force.
+
+T3 left scan comments 6–9, verse lineation, the T2 `வெள்ளம்போல் தமிழர்...` stanza, all source-sensitive decisions and the frozen Tamil authority unchanged. Article 1 is now **`voice-reviewed`**. Unresolved T3 blockers: **0**.
+
+Detailed provenance: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md). Living terminology/voice decisions: [`translations/en/LEXICON.md`](translations/en/LEXICON.md).
 
 ## Publication-specific translation cautions
 
@@ -110,4 +104,4 @@ Every article must pass T0 → T1 → T2 → T3 → T4 → T5. After 10 / 10 rea
 
 ## Exact next activity
 
-Execute **Article 1 T3 — Kalaignar voice review** for `Garland of Emotion`. Preserve every T2 meaning/source decision while reviewing cadence, directness, repetition, commands, exclamations, imagery and polemical force. Make only meaning-neutral voice/cadence corrections, advance to `voice-reviewed` only if T3 passes, and **stop before T4**.
+Execute **Article 1 T4 — terminology / quotation / citation / source audit** for `Garland of Emotion`. Audit terminology consistency, proper names/referents, source-bearing words, quoted material, source-sensitive choices, scan comments and source traceability. T4 is an audit gate: keep `translation_status: voice-reviewed` until T5 unless the permanent guide explicitly requires otherwise. **Stop before T5**.
