@@ -13,14 +13,14 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T1 close English drafts: **4 / 10**
 - T2 fidelity-reviewed: **4 / 10**
 - T3 voice-reviewed: **4 / 10**
-- T4 audited: **3 / 10**
+- T4 audited: **4 / 10**
 - T5 verified: **3 / 10**
 - E6 publication consistency review: **NOT STARTED**
 - E7 release closeout: **NOT STARTED**
 - English translation: **IN PROGRESS**
 - unresolved translation blockers: **0**
 
-Articles 1, 2 and 3 have completed T0–T5 and are individually `verified`. Article 4 has completed T1–T3 and is `voice-reviewed`.
+Articles 1, 2 and 3 have completed T0–T5 and are individually `verified`. Article 4 has completed T1–T4 and remains `voice-reviewed` pending T5.
 
 ## Frozen Tamil translation authorities
 
@@ -44,7 +44,7 @@ Articles 1, 2 and 3 have completed T0–T5 and are individually `verified`. Arti
 | 1 | உணர்ச்சி மாலை | [`01-unarchchi-maalai.md`](01-unarchchi-maalai.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 2 | புரட்சி வளர்ந்த கதை | [`02-puratchi-valarntha-kathai.md`](02-puratchi-valarntha-kathai.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 3 | போகிறான்;போகிறான்..! | [`03-pogiran-pogiran.md`](03-pogiran-pogiran.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 4 | இராவணன் நம் பாட்டன் | [`04-iravanan-nam-pattan.md`](04-iravanan-nam-pattan.md) | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
+| 4 | இராவணன் நம் பாட்டன் | [`04-iravanan-nam-pattan.md`](04-iravanan-nam-pattan.md) | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `05-ingalla-irashyavil.md` | `not-started` | PASS | — | — | — | — | — |
 | 6 | 3, 57, 90. | `06-3-57-90.md` | `not-started` | PASS | — | — | — | — | — |
 | 7 | 30-1-1948 | `07-30-1-1948.md` | `not-started` | PASS | — | — | — | — | — |
@@ -72,7 +72,7 @@ Articles 1, 2 and 3 have completed T0–T5 and are individually `verified`. Arti
 - final T5-verified English blob: `1134185bc21478775419adb3560b110c001d2b75`
 - blockers: **0**
 
-## Article 4 T1–T3 record
+## Article 4 T1–T4 record
 
 - Tamil title: `இராவணன் நம் பாட்டன்`
 - English title: **Ravana Is Our Grandfather**
@@ -81,18 +81,21 @@ Articles 1, 2 and 3 have completed T0–T5 and are individually `verified`. Arti
 - printed-page witnesses: **scan 19 unnumbered; scan 20 visible `1` only; scans 21–29 show 20–28**
 - T1 draft blob: `ce50394af45c8bb69e003c3d3fd8de097cf34808`
 - T2 fidelity-reviewed blob: `1e1f2db8a603e068921d8fb6b9b3e2e4a4c04447`
-- T3 voice-reviewed blob: **`3b28938aa7c884e7de04d0532482b220c6c73a5b`**
+- T3 voice-reviewed blob: `3b28938aa7c884e7de04d0532482b220c6c73a5b`
+- T4-audited candidate blob: **`324cf12bd42cb55e0a8db621965d93b82b383648`**
 - T2 fidelity corrections: **9** plus one non-semantic quotation-spacing cleanup
 - T3 meaning-neutral voice/cadence interventions: **15**
-- complete paragraph/clause coverage: **PASS**
-- scan comments 19–29: **PASS / ordered**
+- T4 terminology/quotation/source corrections: **9**
 - scan 19 whole-page source-recovered Gemini omission: **retained with explicit provenance comment**
 - scan 20 visible printed `1`: **retained / not reconstructed as `19`**
-- Kambar verse across scans 25→26: **T3 PASS / T2 wording and lineation unchanged / no published translation imported**
-- source-sensitive `sagath-rakshakan`, `Kambar` / `Kamban`, `frenzy to bear`, scan-23 `frenzy to twist`, `god-substance`, source titles, `attar`, `javvadu`, `sindhu`, `venpa` and `jaundiced eye / art-garland eye`: **T3 NON-REGRESSION PASS**
-- questions, exclamations, direct address, sarcasm, ridicule, insult force and repeated stinking-puddle imagery: **T3 PASS**
+- scan comments 19–29: **PASS / source-transition placement audited**
+- scan 25→26 Kambar verse: **PASS / four-line structure and page boundary retained / no published translation imported**
+- scan 28→29 Jawaharlal Nehru quotation: **PASS / page boundary relocated inside the quotation at the frozen source transition**
+- `sagath-rakshakan`, `frenzy to bear`, scan-23 `frenzy to twist`, source-form `Kambar` / `Kamban`, source titles and source-bearing transliterations: **T4 AUDITED**
+- `கவிஞர் பாரதிதாசன்` → **poet Bharathidasan**: **T4 CORRECTED / AUDITED**
+- quotation boundaries: **T4 PASS after removing invented quotation marks and restoring the scan-21 quoted scope**
 - outside/web wording, historical reconstruction, published Kambar translation or alternate scan lexical reading imported: **No**
-- T3 blockers: **0**
+- T4 blockers: **0**
 
 ## Translation authority / special source rule
 
@@ -100,4 +103,4 @@ English authority is the frozen Tamil article assembly, not OCR, memory, web wor
 
 ## Exact next activity
 
-Execute **Article 4 T4 — terminology / quotation / citation / source audit** for `இராவணன் நம் பாட்டன்` / **Ravana Is Our Grandfather** against frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7` and T3 English blob `3b28938aa7c884e7de04d0532482b220c6c73a5b`, scans **19–29**. Audit the complete Article 4 terminology/proper-name set, source titles, quoted `Kumudam` passages, all scan comments and printed-page witnesses, scan-19 source-recovered provenance, scan-20 visible `1`, source-sensitive `sagath-rakshakan`, distinct `frenzy to bear` / `frenzy to twist`, the scan 25→26 Kambar verse and the final Jawaharlal Nehru quotation/book reference. Keep metadata `voice-reviewed` through T4, make only genuine audit corrections if required, synchronize lexicon/review/tracker/plan/handover, and **stop before Article 4 T5**.
+Execute **Article 4 T5 — final article verification** for `இராவணன் நம் பாட்டன்` / **Ravana Is Our Grandfather** against frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7` and T4-audited English candidate blob `324cf12bd42cb55e0a8db621965d93b82b383648`, scans **19–29**. Reconfirm the complete T1–T4 chain, metadata/source SHA, scan comments/printed-page witnesses, scan-19 source-recovered provenance, scan-20 visible `1`, terminology/proper names/source titles, quotation boundaries, distinct source-sensitive witnesses, the scan 25→26 Kambar verse/prose boundary and the scan 28→29 Nehru quotation transition. If all checks pass, mark Article 4 `verified`, record the final English blob, synchronize records, and **stop before Article 5 T1**.
