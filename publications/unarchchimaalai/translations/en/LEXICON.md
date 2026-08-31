@@ -4,7 +4,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Status
 
-**Articles 1–3 T5 VERIFIED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
+**Articles 1–3 T5 VERIFIED; Article 4 T1 COMPLETE / DRAFT.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
 
 > **Translate the language; do not neutralise the voice.**
 
@@ -107,13 +107,51 @@ Final verified English blob: `1134185bc21478775419adb3560b110c001d2b75`
 | `பாகு மொழி` | `syrupy speech` | T5 VERIFIED |
 | `போகிறான் -போகிறான்-போய்க் கொண்டே இருக்கிறான்` | `goes—goes—keeps going` | T5 VERIFIED |
 
-T5 made **0 terminology substitutions and 0 body corrections**. Quotation/source boundaries, scan comments and printed-page fields passed final verification.
+## Article 4 — T1 provisional decisions
+
+Frozen Tamil authority: `006f2f75dbc3eea796170a29aee0befd162522e7`  
+T1 draft blob: `ce50394af45c8bb69e003c3d3fd8de097cf34808`
+
+| Tamil / source form | English decision | Status / caution |
+|---|---|---|
+| `இராவணன் நம் பாட்டன்` | `Ravana Is Our Grandfather` | T1 PROVISIONAL |
+| `திராவிட இளைஞர்கள்` | `Dravidian youth` | T1 PROVISIONAL |
+| `திராவிடர்` | `Dravidians` | T1 PROVISIONAL; establish separately from Article 2 `Dravidam` |
+| `இன உணர்ச்சி` | `ethnic feeling` | T1 PROVISIONAL |
+| `இனத் துரோகிகள்` | `race-traitors` | T1 PROVISIONAL; T2 must review consistency with the `இனம்` family |
+| `இனக்கொலை` | `ethnic murder` | T1 PROVISIONAL |
+| `இன எழுச்சி` | `ethnic awakening` | T1 PROVISIONAL |
+| `வேற்றினம்` | `alien race` | T1 PROVISIONAL |
+| `கம்பர்` | `Kambar` | T1 PROVISIONAL |
+| `கம்பன்` | `Kamban` | T1 PROVISIONAL; immediate source form retained pending T2 |
+| `கம்பராமாயணம்` / `கம்ப ராமாயணம்` | `Kamba Ramayanam` | T1 PROVISIONAL |
+| `கம்பரசம்` | `Kambarasam` | SOURCE-TITLE / T1 PROVISIONAL |
+| `கம்பநாட்டாழ்வார்` | `Kambanattazhvar` | SOURCE-BEARING / T1 PROVISIONAL |
+| `காவடிச்சிந்து` | `kavadi-chindu` | SOURCE-BEARING / T1 PROVISIONAL |
+| `கடவுள்பொருள்` | `god-substance` | SOURCE-SENSITIVE / T1 PROVISIONAL |
+| `கடவுளீயம்` | `God-ism` | Article 2 T5 VERIFIED decision reused |
+| `எரிக்கும் வெறி` | `frenzy to burn` | T1 PROVISIONAL |
+| `தரிக்கும் வெறி` | `frenzy to bear` | SOURCE-SENSITIVE / T1 PROVISIONAL |
+| scan-23 `திரிக்கும் வெறி` | `frenzy to twist` | SOURCE-SENSITIVE / T1 PROVISIONAL; do not harmonise silently with scan 22 |
+| `சுயமரியாதை இயக்கம்` | `Self-Respect Movement` | T1 PROVISIONAL |
+| `சுயமரியாதைக்காரர்` | `Self-Respecter` | T1 PROVISIONAL |
+| `பகுத்தறிவாளன்` | `rationalist` | T1 PROVISIONAL; consistent with Article 1 `rationalism` |
+| `கலாரசிகர்` | `art-lover` / contextual `art-loving` | T1 PROVISIONAL |
+| `கம்பர் தருங் காட்சி` | `Kambar Tharum Katchi` | SOURCE-TITLE / T1 PROVISIONAL |
+| `கம்பசித்திரம்` | `Kamba Chithiram` | SOURCE-TITLE / T1 PROVISIONAL |
+| `சித்திர ராமாயணம்` | `Chithira Ramayanam` | SOURCE-TITLE / T1 PROVISIONAL |
+| `சஞ்சீவி பர்வதத்தின் சாரலில்` | `In the Drizzle of Sanjeevi Parvatham` | SOURCE-TITLE / T1 PROVISIONAL |
+| `அத்தர்` | `attar` | SOURCE-BEARING / T1 PROVISIONAL |
+| `ஜவ்வாது` | `javvadu` | SOURCE-BEARING / T1 PROVISIONAL |
+| `சிந்து` | `sindhu` | SOURCE-BEARING / T1 PROVISIONAL |
+| `வெண்பா` | `venpa` | SOURCE-BEARING / T1 PROVISIONAL |
+| `காமாலைக் கண் / கலைமாலைக் கண்` | `jaundiced eye / art-garland eye` | WORDPLAY / T1 PROVISIONAL |
+| scan 25→26 Kambar verse | close English verse preserving four lines and page break | T1 PROVISIONAL; no published translation imported |
 
 ## Decisions still to establish in later articles
 
 | Tamil / source form | Status / caution |
 |---|---|
-| `திராவிடர்` | TO ESTABLISH; do not assume from `திராவிடம்` mechanically |
 | `ஆரியம்` / `ஆரியர்` | TO ESTABLISH by frozen context |
 | `பார்ப்பனர்` | TO ESTABLISH; keep distinct from `பிராமணர்` if source distinguishes |
 | `பிராமணர்` | TO ESTABLISH |
@@ -121,10 +159,9 @@ T5 made **0 terminology substitutions and 0 body corrections**. Quotation/source
 | `நாஸ்திகர்` / `நாஸ்திகன்` | TO ESTABLISH with polemical register |
 | `விபீஷணர்` / `திராவிட விபீஷணர்கள்` | SOURCE-BEARING / TO ESTABLISH |
 | `பெரியார்` | TO ESTABLISH from author-chosen witness |
-| `கம்பர்` / `கம்பராமாயணம்` | TO ESTABLISH; preserve poet/work distinction |
 | `காந்தியார்` | TO ESTABLISH with source honorific register |
 | `ப்ழச்சளை` | SOURCE-SENSITIVE / TO ESTABLISH; never guess a corrected Tamil form |
 
 ## Next lexicon activity
 
-During **Article 4 T1**, establish only terminology actually encountered in frozen `இராவணன் நம் பாட்டன்`, preserving scan-19 source-recovered provenance and avoiding assumptions from Article 2 `Dravidam` when the source uses a different form such as `திராவிடர்`.
+During **Article 4 T2**, compare every provisional Article 4 decision above against the frozen Tamil clauses and the T1 English draft. Preserve scan-19 source-recovered provenance, do not reconstruct scan 20's visible `1` as `19`, and do not import published Kambar verse wording, outside epic identifications or alternate scan lexical readings.
