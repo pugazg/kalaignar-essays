@@ -44,13 +44,13 @@ These ten blob SHAs remain the translation authorities unless P5 is explicitly r
 
 ## Translation order
 
-Translate in source order, one complete article at a time. Article 1 establishes the initial publication voice baseline before later articles accelerate.
+Translate in source order, one complete article at a time. Article 1 established the initial publication voice baseline; later articles carry that baseline forward only where context supports it.
 
 ## Article tracker
 
 | # | Tamil title | English file | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|---|
-| 1 | உணர்ச்சி மாலை | [`translations/en/01-unarchchi-maalai.md`](translations/en/01-unarchchi-maalai.md) | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
+| 1 | உணர்ச்சி மாலை | [`translations/en/01-unarchchi-maalai.md`](translations/en/01-unarchchi-maalai.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 2 | புரட்சி வளர்ந்த கதை | `translations/en/02-puratchi-valarntha-kathai.md` | `not-started` | PASS | — | — | — | — | — |
 | 3 | போகிறான்;போகிறான்..! | `translations/en/03-pogiran-pogiran.md` | `not-started` | PASS | — | — | — | — | — |
 | 4 | இராவணன் நம் பாட்டன் | `translations/en/04-iravanan-nam-pattan.md` | `not-started` | PASS | — | — | — | — | — |
@@ -61,38 +61,25 @@ Translate in source order, one complete article at a time. Article 1 establishes
 | 9 | அன்னை நாகம்மையார்! | `translations/en/09-annai-nagammaiyar.md` | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `translations/en/10-kavithaiyalla-kannirkkadal.md` | `not-started` | PASS | — | — | — | — | — |
 
-## Article 1 gate record
+## Article 1 — T0–T5 COMPLETE / VERIFIED
 
-### T1 — COMPLETE / PASS
+Frozen Tamil authority: `c63837a9f7c02d6f3a18171a512d46788f66ad92`  
+English title: **Garland of Emotion**  
+Final verified English blob: **`4246c9f1e206d5703fe50297657bb0af2a8e57e6`**
 
-Complete close draft from frozen Tamil authority; scan comments 6–9 and quoted lineation retained; no outside/web translation imported.
+Gate record:
 
-### T2 — COMPLETE / PASS
+- T1 complete close draft: **PASS**;
+- T2 bilingual fidelity review: **PASS**, **11** documented fidelity corrections;
+- T3 Kalaignar-voice review: **PASS**, **7** meaning-neutral cadence corrections;
+- T4 terminology / quotation / citation / source audit: **PASS**, **0** body corrections;
+- T5 final verification: **PASS**, **0** body corrections;
+- scan comments 6–9 and quotation/verse traceability: **PASS**;
+- frozen Tamil unchanged throughout: **PASS**;
+- outside/web wording or published translation imported: **No**;
+- unresolved Article 1 blockers: **0**.
 
-Full clause-by-clause bilingual review with **11** documented fidelity corrections. Confirmed **Garland of Emotion**, retained source-bearing `themmangu`, `Aththaan`, `Tiruvitaththar`, and retained `writings that do not tire` for the frozen source-sensitive phrase. Unresolved blockers: **0**.
-
-### T3 — COMPLETE / PASS
-
-Preserved every T2 meaning/source decision and made **7 meaning-neutral voice/cadence corrections**. Established the publication voice baseline: direct compact clauses, dash-driven accumulation, forceful `Let us...` sequences, source-bearing restraint, colloquial bite, and source fragment cadence where rhetorically meaningful. Unresolved blockers: **0**.
-
-### T4 — COMPLETE / PASS
-
-Formal terminology / quotation / citation / source audit completed against the same frozen Tamil authority.
-
-- T4-audited English candidate blob: `28840cafd8b5ae435958979d140720586ea2a4ec`;
-- terminology and proper-name consistency: **PASS**;
-- `Tamil Nadu` / `Tamilakam` distinction: **PASS**;
-- source-bearing `themmangu`, `Aththaan`, `Tiruvitaththar`: **PASS**;
-- quoted/verse material and quotation boundaries: **PASS**;
-- scan comments 6–9 and scan 7/8 + scan 8/9 cross-boundary traceability: **PASS**;
-- numeric references: **PASS**;
-- external citation/translation imported: **No**;
-- T4 body corrections required: **0**;
-- unresolved T4 blockers: **0**.
-
-Article 1 intentionally remains **`voice-reviewed`** until T5 final verification.
-
-Detailed provenance: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md). Living terminology/voice decisions: [`translations/en/LEXICON.md`](translations/en/LEXICON.md).
+Article 1 establishes the initial verified voice baseline: compact direct clauses, dash-driven accumulation, forceful `Let us...` sequences, preservation of source-bearing terms, colloquial bite where present, and no smoothing that weakens rhetorical force.
 
 ## Publication-specific translation cautions
 
@@ -108,8 +95,8 @@ Full Tamil fidelity/conflict provenance: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISU
 
 ## Gate model
 
-Every article must pass T0 → T1 → T2 → T3 → T4 → T5. After 10 / 10 reach T5, run publication-level English consistency/release gates.
+Every article must pass T0 → T1 → T2 → T3 → T4 → T5. After 10 / 10 reach T5, run publication-level English consistency/release gates E6 and E7.
 
 ## Exact next activity
 
-Execute **Article 1 T5 — final article verification** for `Garland of Emotion`. Verify the T4-audited candidate against frozen Tamil blob `c63837a9f7c02d6f3a18171a512d46788f66ad92` and the complete T1–T4 review provenance. Confirm metadata/source SHA, scans 6–9 comments, completeness, quotation/verse traceability and final blocker state. Mark `translation_status: verified` only if the full chain passes. **Do not start Article 2 in the same activity.**
+Execute **Article 2 T1 — complete close English draft for `புரட்சி வளர்ந்த கதை`** from frozen Tamil blob `dda81363f512ee2f829c367ae929ce3610604fe9`, source scans **10–15**. Translate the complete article paragraph by paragraph, preserve quotations, questions, exclamations and scan-boundary comments, establish only the new Article 2 lexicon decisions actually required, set `translation_status: draft`, and **stop before Article 2 T2**.
