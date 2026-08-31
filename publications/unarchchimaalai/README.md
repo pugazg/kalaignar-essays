@@ -86,15 +86,19 @@ Preserve these independent witnesses separately; do not normalize one from anoth
 
 ## P2 — page-level transcription — ACTIVE
 
-- page records: **29 / 50 verified**
+- page records: **38 / 50 verified**
 - scans **1–5** front matter: **complete**
 - Article 1 `உணர்ச்சி மாலை`, scans **6–9**: **4 / 4 complete**
 - Article 2 `புரட்சி வளர்ந்த கதை`, scans **10–15**: **6 / 6 complete**
 - Article 3 `போகிறான்;போகிறான்..!`, scans **16–18**: **3 / 3 complete**
 - Article 4 `இராவணன் நம் பாட்டன்`, scans **19–29**: **11 / 11 complete**
+- Article 5 `இங்கல்ல! இரஷ்யாவில்`, scans **30–32**: **3 / 3 complete**
+- Article 6 `3, 57, 90.`, scans **33–38**: **6 / 6 complete**
 - Gemini lexical baseline retained throughout all portions where Gemini supplied wording; scan-supported punctuation, spacing, paragraphing, headings and quotation/lineation restored
 - **scan 19 exception:** Gemini omitted the entire page body; because the user explicitly authorised correction of missing paragraphs, scan 19 was recovered directly from the controlling scan and clearly documented as source-recovered rather than Gemini-derived
-- scan 19 remains an unnumbered article opening; scan 20 records only the incomplete visible page-number witness `1`
+- **scan 32 lexical-order conflict:** the Gemini stream supplies `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...`, while the scan visibly distributes that wording differently. The Gemini token sequence is retained and the conflict is explicitly logged rather than silently reordered or substituted
+- intrusive OCR artefacts such as scan-31 `ID` and Gemini page-number intrusions are excluded only where the scan confirms they are not printed body text
+- article-opening scans 30 and 33 remain unnumbered; visible continuation numbers 30–31 and 33–37 are preserved
 - printed-text and physical-copy layers kept separate
 - P3 article assemblies: **NOT STARTED — 0 / 10**
 - P4 source audit: **NOT STARTED**
@@ -103,4 +107,4 @@ Preserve these independent witnesses separately; do not normalize one from anoth
 
 ## Exact next activity
 
-Continue **P2 — page-level transcription for scans 30–38**, completing Article 5 `இங்கல்ல! இரஷ்யாவில்` (scans 30–32) and Article 6 `3, 57, 90.` (scans 33–38) as the next coherent page-layer batch. Preserve unnumbered article-opening scans 30 and 33, retain Gemini word tokens unchanged, and correct only the user-authorised structural/punctuation/spacing features.
+Finish **P2 — page-level transcription for scans 39–50** in one closing page-layer batch: Articles 7–10 plus the separate scan-50 back-cover advertisement. Preserve unnumbered article-opening scans 39, 42, 45 and 48; preserve all visible continuation numerals and the scan-49 mixed article-close/publication-imprint role; retain Gemini words unchanged except for explicitly source-recovered missing blocks, and correct only the user-authorised structural/punctuation/spacing features.
