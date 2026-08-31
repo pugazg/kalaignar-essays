@@ -8,8 +8,8 @@ source_tamil_blob_sha: "dda81363f512ee2f829c367ae929ce3610604fe9"
 source_scan_pages: "10-15"
 source_printed_pages: "10-14; scan 10 has no visible printed numeral"
 language: "en"
-translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed and T3 voice-reviewed against the frozen Tamil assembly"
+translation_status: "verified"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed, T3 voice-reviewed, T4 source-audited and T5 final-verified against the frozen Tamil assembly"
 ---
 
 # The Story of How the Revolution Grew
