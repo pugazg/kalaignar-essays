@@ -50,6 +50,7 @@ Source authority:
 - source scans: **6–9**
 - English article: [`01-unarchchi-maalai.md`](01-unarchchi-maalai.md)
 - English title: **Garland of Emotion**
+- T4-audited English candidate blob: `28840cafd8b5ae435958979d140720586ea2a4ec`
 
 ## T1 — complete close draft — COMPLETE / PASS
 
@@ -81,39 +82,83 @@ T2 non-regression: frozen Tamil unchanged; scan comments 6–9 ordered; verse li
 
 ## T3 — Kalaignar voice review — COMPLETE / PASS
 
-T3 re-read the fidelity-reviewed English against the same frozen Tamil authority. It preserved every T2 meaning/source decision and changed only cadence/directness where the T2 English sounded flatter or more explanatory than Kalaignar's rhetoric.
+T3 preserved every T2 meaning/source decision and changed only cadence/directness where the T2 English sounded flatter or more explanatory than Kalaignar's rhetoric.
 
 ### T3 meaning-neutral voice/cadence corrections
 
-1. `All these together are Bharathidasan's poetry.` → **`All this together—that is Bharathidasan's poetry.`** — restores the source's emphatic summing-up.
-2. `Poetry only if one sings of Rama—a poet only if one receives Kali's boon—Bharathidasan overturned that condition headlong.` → **`Only if one sings of Rama—poetry; only if one receives Kali's boon—a poet. Bharathidasan turned that condition upside down.`** — keeps the same meaning while sharpening the parallel attack.
-3. `To bring that day swiftly into being—that is the gratitude, the duty, the everything we show him!` → **`To bring that day about swiftly—that is our gratitude to him—our duty—everything!`** — preserves the source's accumulative cadence.
-4. `move freely through Tamilakam` → **`roam freely through Tamilakam`** — restores the movement image in `உலவ` without changing the T2 meaning.
-5. quoted `commotion` → **`ruckus`** for `ரகளை` — retains the mocking, colloquial force rather than formalising it.
-6. `was subjected to that opposition ... fell again` → **`faced that opposition ... once again fell`** — tighter cadence, same source relation.
-7. `Once every year, in district capitals, let there be a Bharathidasan festival for three or four days.` → **`Once every year, in the district capitals—a Bharathidasan festival for three or four days.`** — restores the source's compressed, rally-like fragment.
+1. `All these together are Bharathidasan's poetry.` → **`All this together—that is Bharathidasan's poetry.`**
+2. `Poetry only if one sings of Rama—a poet only if one receives Kali's boon—Bharathidasan overturned that condition headlong.` → **`Only if one sings of Rama—poetry; only if one receives Kali's boon—a poet. Bharathidasan turned that condition upside down.`**
+3. `To bring that day swiftly into being—that is the gratitude, the duty, the everything we show him!` → **`To bring that day about swiftly—that is our gratitude to him—our duty—everything!`**
+4. `move freely through Tamilakam` → **`roam freely through Tamilakam`**.
+5. quoted `commotion` → **`ruckus`** for `ரகளை`.
+6. `was subjected to that opposition ... fell again` → **`faced that opposition ... once again fell`**.
+7. `Once every year, in district capitals, let there be a Bharathidasan festival for three or four days.` → **`Once every year, in the district capitals—a Bharathidasan festival for three or four days.`**
 
-### T3 non-regression checks
+T3 non-regression: title and T2 terminology unchanged; `வெள்ளம்போல் தமிழர்...` stanza wording/lineation unchanged; commands/questions/exclamations preserved; scan comments 6–9 complete; frozen Tamil unchanged; outside/web wording imported: **No**; unresolved blockers: **0**.
 
-- title **Garland of Emotion** unchanged: **PASS**;
-- `Bharathidasan`, `Tamils`, `Tamil Nadu`, `Tamilakam`: unchanged: **PASS**;
-- `themmangu`, `Aththaan`, `Tiruvitaththar`, `writings that do not tire`: unchanged: **PASS**;
-- T2 `வெள்ளம்போல் தமிழர்...` stanza wording/lineation preserved: **PASS**;
-- commands / `Let us...` sequence preserved: **PASS**;
-- questions, exclamations and repeated contrasts preserved: **PASS**;
-- scan comments 6–9 remain complete and ordered: **PASS**;
-- crow quotation still crosses scan 7/8 at the recorded boundary: **PASS**;
-- Tamil source changed during T3: **No**;
-- outside/web wording imported: **No**;
-- unresolved T3 blockers: **0**.
+**T3 RESULT: PASS.** Article 1 advanced to `voice-reviewed`.
 
-**T3 RESULT: PASS.** Article 1 is now `translation_status: voice-reviewed`.
+## T4 — terminology / quotation / citation / source audit — COMPLETE / PASS
+
+T4 audited the T3 English against the unchanged frozen Tamil authority and the living lexicon. This was an audit gate, not a stylistic rewrite.
+
+### T4 terminology / proper-name audit
+
+The following were checked and found internally/source-consistent:
+
+- `பாரதிதாசன்` → `Bharathidasan`;
+- `தமிழர்` / `தமிழரல்லார்` → `Tamils` / `non-Tamils`;
+- `தமிழ்நாடு` → `Tamil Nadu` and `தமிழகம்` → `Tamilakam`, kept distinct;
+- `தெம்மாங்கு` → source-bearing `themmangu`;
+- `பகுத்தறிவு` → `rationalism`; `அறிவு முழக்கம்` → `roar of reason`;
+- `மணிவிழா` and `நிதி விழா` remain distinct;
+- `புரட்சிக் கவிஞர்` → `Revolutionary Poet`;
+- `அத்தான்` → source-bearing `Aththaan` without an unsupported kinship gloss;
+- `திருவிடத்தார்` → source-sensitive `Tiruvitaththar` without silent normalisation;
+- frozen `இளைக் காத எழுத்துக்கள்` → `writings that do not tire`;
+- quoted `ரகளை` → `ruckus`;
+- `கோமளவல்லி`, `குப்பன்`, `இராமன்`, `காளி`, `தியாகராஜ அய்யர்`, `திருவையாறு`, `தஞ்சை`, `அய்யங்கார்` remain correctly represented as `Komalavalli`, `Kuppan`, `Rama`, `Kali`, `Thyagaraja Iyer`, `Thiruvaiyaru`, `Thanjavur`, `Iyengar`.
+
+No external biographical, caste, geographic or explanatory expansion was inserted.
+
+### T4 quotation / citation audit
+
+- two-line `இனிமைத் தமிழ் மொழி...` quotation: **PASS**;
+- two-line `வளம்பெரிய தமிழ் நாட்டில்...` quotation: **PASS**;
+- four-line `தொண்டையினில்...` / `அத்தான்` quotation: **PASS**;
+- `வியர்வைக்குளம்`, `இவ்வுலகு உழைப்பவர்க்கே`, `சனிபகவானின் வாகனமே`: quotation/title treatment **PASS**;
+- crow quotation crossing scan 7/8: boundary and quotation continuity **PASS**;
+- four-line `வெள்ளம்போல் தமிழர்...` stanza: T2 wording and lineation **PASS**;
+- Rama/Kali passage remains unquoted Kalaignar prose: **PASS**;
+- quoted `ரகளை` / `திருவிழா` treatment in Thiruvaiyaru passage: **PASS**;
+- Iyengar statement remains indirect speech rather than an invented direct quotation: **PASS**;
+- published/external English quotation imported: **No**;
+- Article 1 source date or periodical-title citation requiring translation: **None present**.
+
+### T4 source / page traceability audit
+
+- frozen Tamil blob still exactly `c63837a9f7c02d6f3a18171a512d46788f66ad92`: **PASS**;
+- English `source_tamil_blob_sha` matches: **PASS**;
+- scan comments 6, 7, 8, 9 present and ordered: **PASS**;
+- scan 6 comment correctly records no visible printed numeral: **PASS**;
+- continuation printed-page witnesses 6, 7, 8 remain traceable through scans 7, 8, 9: **PASS**;
+- crow quotation crosses scan 7/8 at the source boundary: **PASS**;
+- `Thyagaraja` / `Iyer` phrase crosses scan 8/9 at the source boundary: **PASS**;
+- numbers `60`, `40`, `four or five days`, `three or four days`: **PASS**;
+- T3 voice changes altered a T2 source relationship: **No**;
+- external/web citation or translator note inserted: **No**.
+
+### T4 corrections
+
+**Body corrections required: 0.** The T3 English candidate already satisfied the T4 audit. The English article remains `translation_status: voice-reviewed` pending T5, in accordance with the repository status model.
+
+**T4 RESULT: PASS.** Unresolved T4 blockers: **0**.
 
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 | Current blockers |
 |---:|---|---|---|---|---|---|---|---|---|
-| 1 | உணர்ச்சி மாலை | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — | 0 |
+| 1 | உணர்ச்சி மாலை | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — | 0 |
 | 2 | புரட்சி வளர்ந்த கதை | `not-started` | PASS | — | — | — | — | — | 0 |
 | 3 | போகிறான்;போகிறான்..! | `not-started` | PASS | — | — | — | — | — | — | 0 |
 | 4 | இராவணன் நம் பாட்டன் | `not-started` | PASS | — | — | — | — | — | — | 0 |
@@ -126,4 +171,4 @@ T3 re-read the fidelity-reviewed English against the same frozen Tamil authority
 
 ## Exact next activity
 
-Execute **Article 1 T4 — terminology / quotation / citation / source audit**. Audit the unchanged frozen Tamil authority against the T3 English for terminology consistency, proper names/referents, quotations, source-bearing words, source-sensitive choices, scan comments and source-boundary traceability. T4 is an audit gate; keep article metadata `voice-reviewed` until T5 unless the permanent guide explicitly requires otherwise. Stop before T5.
+Execute **Article 1 T5 — final article verification**. Verify the T4-audited English candidate against the recorded frozen Tamil authority and T1–T4 provenance, confirm metadata/source SHA/scan comments/completeness, and mark Article 1 `verified` only if the complete gate chain passes. Do not start Article 2 in the same activity.
