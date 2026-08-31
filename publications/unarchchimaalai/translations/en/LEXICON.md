@@ -5,7 +5,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 ## Status
 
-**T0 COMPLETE; ARTICLE 1 T1–T5 COMPLETE / VERIFIED.** Article 1 terminology and source-bearing decisions have passed bilingual fidelity, voice review, formal terminology/source audit and final article verification. They are article-verified, but publication-wide consistency/release freezing remains for E6/E7 after all ten articles are verified.
+**T0 COMPLETE; ARTICLE 1 T1–T5 COMPLETE / VERIFIED; ARTICLE 2 T1 COMPLETE / DRAFT.** Article 1 decisions are article-verified. Article 2 decisions below are provisional until T2–T5. Publication-wide consistency/release freezing remains for E6/E7 after all ten articles are verified.
 
 > **Translate the language; do not neutralise the voice.**
 
@@ -88,28 +88,67 @@ No modern full names, biographies, caste expansions, geographic glosses or exter
 - preserve enumeration and dash-driven accumulation as argumentative rhythm;
 - keep commands and collective `Let us...` forms forceful;
 - retain source-bearing words where an English gloss would domesticate or over-explain them;
-- preserve ridicule and colloquial bite (`ரகளை` → `ruckus`) rather than flattening them into formal prose;
+- preserve ridicule and colloquial bite rather than flattening them into formal prose;
 - do not remove deliberate repetition merely for smoother English.
+
+## Article 2 — T1 provisional decisions
+
+Frozen Tamil authority: `dda81363f512ee2f829c367ae929ce3610604fe9`  
+English T1 draft blob: `c036f2439874dacf6220e7da529e852cf28e223a`
+
+| Tamil / source form | T1 English decision | Context / exception | First established | Status |
+|---|---|---|---|---|
+| `புரட்சி வளர்ந்த கதை` | `The Story of How the Revolution Grew` | Close provisional title retaining the source's narrative phrasing. | Article 2 T1 | PROVISIONAL / T2 REVIEW |
+| `மேதினம்` | `May Day` | Retains the source's repeated political/festival label. | Article 2 T1 | PROVISIONAL |
+| `பாட்டாளி மக்கள்` | `proletarian people` | Keeps the class vocabulary rather than flattening to generic `people`; review English register in T2. | Article 2 T1 | PROVISIONAL / T2 REVIEW |
+| `முதலாளி வர்க்கம்` | `capitalist class` | Preserve class-political force. | Article 2 T1 | PROVISIONAL |
+| `இரஷ்யா` / `ரஷ்ய` | `Russia` / `Russian` | Conventional English country/adjectival forms; frozen Tamil source variants remain documented. | Article 2 T1 | PROVISIONAL |
+| `இலெனின்` / `லெனின்` | `Lenin` | Frozen article uses both Tamil forms for the same referent; English conventional form used while preserving the variation in this lexicon. | Article 2 T1 | PROVISIONAL / T2 REVIEW |
+| `ஜார்` | `Tsar` | Source political title retained directly. | Article 2 T1 | PROVISIONAL |
+| `டூமா` | `Duma` | Article itself glosses it as `ஜனப்பிரதிநிதி சபை`; body retains `Duma` and translates the source's own gloss. | Article 2 T1 | PROVISIONAL |
+| `போல்ஷ்வெக்கர் கட்சி` / `போல்ஷ்வெக்கட்சி` | `Bolshevik Party` | Frozen spacing variants map to the same source party label. | Article 2 T1 | PROVISIONAL |
+| `போல்ஷ்வெக்படையினர்` | `Bolshevik forces` | Contextual military rendering; not a global replacement for the party label. | Article 2 T1 | PROVISIONAL |
+| `சோவியத் அரசாங்கம்` | `Soviet government` | Source governmental label retained without external expansion. | Article 2 T1 | PROVISIONAL |
+| `தற்காலீக அரசாங்கம்` | `Provisional Government` | Contextual governmental label in the Kerensky passage. | Article 2 T1 | PROVISIONAL |
+| `பீட்டர்ஸ்பர்க்` | `Petersburg` | Source place-name witness retained without silently modernising it. | Article 2 T1 | PROVISIONAL |
+| `பீட்ரோகிராட்` / `பீட்ரோ கிரோடு` | `Petrograd` | Frozen Tamil uses two forms; conventional English form used while source variation is documented here. | Article 2 T1 | PROVISIONAL / T2 REVIEW |
+| `மாஸ்கோ செஞ்சதுக்கம்` | `Moscow's Red Square` | Direct contextual rendering. | Article 2 T1 | PROVISIONAL |
+| `நிக்கோலாஸ்` | `Nicholas` | Conventional English proper-name form; no outside biography inserted. | Article 2 T1 | PROVISIONAL |
+| `செர்கியஸ் கோமகன்` | `Prince Sergius` | `கோமகன்` rendered as source title `Prince`; no external title upgrade added. | Article 2 T1 | PROVISIONAL |
+| `ரஸ்புடீன்` | `Rasputin` | Conventional name form only; body uses no external biography. | Article 2 T1 | PROVISIONAL |
+| `டான்னென்-பெர்க்` | `Tannenberg` | Conventional place form corresponding to frozen source transliteration. | Article 2 T1 | PROVISIONAL |
+| `மங்கையற்கரசி` | `Mangaiyarkkarasi` | Frozen source expression is contextually unclear; transliteration avoids guessing a modern/external identification. | Article 2 T1 | SOURCE-SENSITIVE / T2 REVIEW |
+| `குலச் சிறை` | `Kulachchirai` | Frozen source expression is contextually unclear; transliteration avoids unsupported semantic repair. | Article 2 T1 | SOURCE-SENSITIVE / T2 REVIEW |
+| `கிடுகிடு` | `kidukidu` | Source onomatopoeic quoted form retained rather than replaced with invented English sound-play. | Article 2 T1 | SOURCE-BEARING / T2 REVIEW |
+| `ரோமனால்` | `Romanal` | Frozen Tamil token retained by transliteration; do not silently normalise to another dynasty name without source authority. | Article 2 T1 | SOURCE-SENSITIVE / T2 REVIEW |
+| `சிரஞ்சீவி` | `Chiranjeevi` | Source-bearing immortality title retained in the pyre passage. | Article 2 T1 | SOURCE-BEARING / T2 REVIEW |
+| `கடவுளீயம்` | `God-ism` | Source polemical/ideological coinage kept visibly forceful; T2 must test whether this is the best English carrying form. | Article 2 T1 | SOURCE-SENSITIVE / T2 REVIEW |
+| `திராவிடம்` | `Dravidam` | Source-bearing political/civilisational label retained rather than automatically harmonised with `Tamilakam`. | Article 2 T1 | SOURCE-BEARING / T2 REVIEW |
+| `சுயமரியாதை` | `Self-Respect` | Capitalised in the closing political formulation; T2 to check publication-wide movement/register treatment. | Article 2 T1 | PROVISIONAL / T2 REVIEW |
+| `பவிசு` | `pomp` | Quoted source word is rendered contextually and remains explicitly provisional. | Article 2 T1 | SOURCE-SENSITIVE / T2 REVIEW |
+| `மதவாதி` | `religionist` | Keeps the polemical category distinct from generic `religious`; review idiomatic force in T2. | Article 2 T1 | PROVISIONAL / T2 REVIEW |
+
+## Article 2 T1 source-sensitive cautions
+
+- Do not silently change frozen `மௌனமாகவே` from scan 11 to the scan-appearing alternate noted in P5.
+- `Mangaiyarkkarasi`, `Kulachchirai`, `Romanal`, `kidukidu`, `God-ism`, `Dravidam`, `pomp`, and `religionist` require explicit T2 bilingual review; they are not source corrections.
+- The source alternates `இலெனின்` / `லெனின்` and `பீட்ரோகிராட்` / `பீட்ரோ கிரோடு`; English currently uses one conventional form for each referent while the Tamil variation remains documented here.
+- No external historical reconstruction was used to replace the frozen article's chronology, names, titles or claims.
 
 ## Source-bearing cautions — decisions still to establish in later articles
 
 | Tamil / source form | Preferred English | Context / exception | First established | Status |
 |---|---|---|---|---|
-| `திராவிடர்` / `திராவிடம்` | TBD | Preserve Kalaignar's Dravidian political/civilisational vocabulary. | — | TO ESTABLISH |
+| `திராவிடர்` | TBD | Article 2 establishes only `திராவிடம்` → provisional `Dravidam`; group label remains to establish when encountered. | — | TO ESTABLISH |
 | `ஆரியம்` / `ஆரியர்` | TBD | Preserve polemical force and distinguish ideology/group/reference by context. | — | TO ESTABLISH |
 | `பார்ப்பனர்` | TBD | Keep distinct from `பிராமணர்` when frozen Tamil distinguishes them. | — | TO ESTABLISH |
 | `பிராமணர்` | TBD | Do not mechanically merge with `பார்ப்பனர்`. | — | TO ESTABLISH |
-| `சுயமரியாதை` | TBD | Movement/ideological force must remain explicit. | — | TO ESTABLISH |
 | `வகுப்பு வாரி பிரதிநிதித்துவம்` | TBD | Politically loaded phrase; establish from frozen context without outside expansion. | — | TO ESTABLISH |
-| `கடவுளீயம்` | TBD | Preserve source polemical/ideological force. | — | TO ESTABLISH |
 | `நாஸ்திகர்` / `நாஸ்திகன்` | TBD | Preserve accusation/label and register. | — | TO ESTABLISH |
 | `விபீஷணர்` / `திராவிட விபீஷணர்கள்` | TBD | Source-bearing polemical label; do not replace with explanatory modern category. | — | TO ESTABLISH |
 | `பெரியார்` | TBD | Preserve author-chosen title/name witness. | — | TO ESTABLISH |
 | `கம்பர்` / `கம்பராமாயணம்` | TBD | Preserve distinction between poet and work. | — | TO ESTABLISH |
 | `காந்தியார்` | TBD | Preserve honorific/source register consistently. | — | TO ESTABLISH |
-| `இலெனின்` | TBD | Establish proper-name convention in Article 2 from frozen Tamil. | — | TO ESTABLISH |
-| `ஜார்` | TBD | Preserve political referent and cadence. | — | TO ESTABLISH |
-| `டூமா` | TBD | Source-bearing institution name; no outside gloss in body unless requested. | — | TO ESTABLISH |
 | `ப்ழச்சளை` | source-bearing solution TBD | Frozen Article 10 token despite scan disagreement; do not guess a corrected Tamil word. | Article 10 | SOURCE-SENSITIVE / TO ESTABLISH |
 
 ## P5 lexical-conflict carry-forward
@@ -120,4 +159,4 @@ Especially source-sensitive downstream items include Article 7 frozen `ஒடி
 
 ## Next lexicon activity
 
-During **Article 2 T1**, establish only the new terms actually encountered in `புரட்சி வளர்ந்த கதை` from frozen Tamil blob `dda81363f512ee2f829c367ae929ce3610604fe9`. Carry Article 1's verified voice/terminology baseline forward where genuinely applicable; do not mechanically force Article 1 renderings into different contexts.
+During **Article 2 T2**, audit every Article 2 provisional term against the frozen Tamil, with special attention to `proletarian people`, `pomp`, `religionist`, the dual source forms for Lenin/Petrograd, `Mangaiyarkkarasi`, `Kulachchirai`, `Romanal`, `kidukidu`, `God-ism`, `Dravidam`, and `Self-Respect`. Do not normalise the frozen Tamil or import outside historical wording.
