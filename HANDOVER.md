@@ -13,9 +13,8 @@ Read completely before making changes:
 2. [`ESSAY_TRANSLATION_GUIDE.md`](ESSAY_TRANSLATION_GUIDE.md)
 3. [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md)
 4. this `HANDOVER.md`
-5. [`docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`](docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md) when activating a new publication
-6. the active publication README/metadata/page map/fidelity/completion records
-7. if translation is active: publication `TRANSLATION_PLAN.md`, English tracker, lexicon, review ledger and release report if present
+5. the active publication README/metadata/fidelity/completion records
+6. when translation is active: publication `TRANSLATION_PLAN.md`, English tracker, lexicon and review ledger
 
 For a brand-new work/chat window, use [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md) with the controlling PDF attached.
 
@@ -23,15 +22,11 @@ For a brand-new work/chat window, use [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](do
 
 The supplied scan is the controlling source for the Tamil archival layer. Never silently modernise, correct, normalise, reconstruct or improve Tamil wording, spelling, punctuation, names, numbers, repetition, grammar or typographical forms. Separate physical-copy marks from printed text. **Source PDFs are never committed to this repository.**
 
-## Old Tamil glyph rule
-
-Existing source-verified Tamil is the baseline. Enlargement/cropping is a verification aid, not permission to invent a new reading. A plausible modern word is not evidence.
-
 ## Permanent English translation rule
 
 > **Translate the language; do not neutralise the voice.**
 
-English must retain Kalaignar's directness, commands, rhetorical questions, repetition, sarcasm, ridicule, polemical labels, physical imagery, exclamations and wordplay. Do not academicise or soften him. Translation begins only from a frozen Tamil source.
+English must retain Kalaignar's directness, commands, rhetorical questions, repetition, sarcasm, ridicule, polemical labels, physical imagery, exclamations and wordplay. Translation begins only from a frozen Tamil source.
 
 ---
 
@@ -41,7 +36,6 @@ Workspace: `publications/sakkaravarththiyin-thirumagan/`
 
 - physical scans: **83**
 - articles: **14**
-- Tamil page records: **83 / 83 complete**
 - strict Tamil fidelity: **83 / 83 PASS**
 - Tamil assemblies: **14 / 14 complete**
 - English T0–T5: **14 / 14 complete**
@@ -51,7 +45,7 @@ Workspace: `publications/sakkaravarththiyin-thirumagan/`
 
 Publication-wide identity rule: source `ஆச்சாரியார்` → **Achariyar**; explicit source `இராஜாஜி` → **Rajaji**; source plural `ஆச்சாரியார்களுக்கு` → **the Achariyars**.
 
-Detailed frozen state is in the publication README, fidelity/completion records and English release files. Do not reopen for stylistic polishing unless a genuine source-supported or release-blocking defect is discovered.
+Do not reopen for stylistic polishing unless a genuine source-supported or release-blocking defect is discovered.
 
 ---
 
@@ -59,8 +53,6 @@ Detailed frozen state is in the publication README, fidelity/completion records 
 
 Workspace: `publications/kayittril-thongiya-kanapathi/`
 
-- publication date: **ஜூலை 1949**
-- publisher: **அறிவுப்பண்ணை**
 - physical scans: **17**
 - Tamil page records: **17 / 17 verified**
 - P4: **PASS**
@@ -75,17 +67,11 @@ Workspace: `publications/kayittril-thongiya-kanapathi/`
 Frozen Tamil authority: `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`.  
 Verified English article blob: `bf01a5d6da90e8caf6c491ed43f46cbb5e9491ba`.
 
-Detailed non-regression decisions and release provenance are in:
-
-- `publications/kayittril-thongiya-kanapathi/PUBLICATION_COMPLETION_REVIEW.md`
-- `publications/kayittril-thongiya-kanapathi/VISUAL_TEXT_FIDELITY_REVIEW.md`
-- `publications/kayittril-thongiya-kanapathi/translations/en/RELEASE_REPORT.md`
-
 Do not reopen for stylistic polishing unless a genuine source-supported or release-blocking defect is discovered.
 
 ---
 
-# Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE COMPLETE / FROZEN; ENGLISH T0 COMPLETE
+# Publication 3 — உணர்ச்சிமாலை — TAMIL FROZEN / ENGLISH ACTIVE
 
 Workspace: `publications/unarchchimaalai/`  
 Supplied source: `TVA_BOK_0063821_உணர்ச்சிமாலை.pdf`
@@ -100,79 +86,43 @@ Supplied source: `TVA_BOK_0063821_உணர்ச்சிமாலை.pdf`
 - type: **10-article collection / multi-article publication**
 - physical scans: **50**
 - source SHA-256: `d2d45de049505218fd612bf71949135e34ecb317ffb5d003dfe59a3a0608461d`
-- source file size: **79,471,633 bytes**
 - source PDF committed: **No**
 - printed contents page: **none**
 
-## Publication-specific user instruction — controlling lexical rule
+## Publication-specific controlling lexical rule
 
 > **Retain the words as in Gemini. Correct only indentation, punctuation, spaces, missing paragraphs, headings, and analogous structural/formatting features.**
 
-Therefore:
+For this publication only, Gemini word tokens are the frozen lexical baseline wherever supplied. Scan/Gemini lexical disagreements are documented rather than silently substituted. English translates the frozen Tamil assemblies, not an alternate scan reading.
 
-- Gemini word tokens are the lexical baseline wherever supplied;
-- scan controls punctuation, spacing, headings, paragraph/quotation/verse layout, boundaries and physical-copy evidence;
-- scan/Gemini lexical disagreements are logged instead of silently changed;
-- whole omitted source text may be recovered only under the user's explicit missing-paragraph/missing-text permission, with provenance.
-
-This publication-specific rule overrides the repository's usual OCR-as-aid lexical practice for this publication only.
-
-## Frozen physical/article structure
-
-- scans **1–5**: front matter
-- scans **6–9**: Article 1 — `உணர்ச்சி மாலை`
-- scans **10–15**: Article 2 — `புரட்சி வளர்ந்த கதை`
-- scans **16–18**: Article 3 — `போகிறான்;போகிறான்..!`
-- scans **19–29**: Article 4 — `இராவணன் நம் பாட்டன்`
-- scans **30–32**: Article 5 — `இங்கல்ல! இரஷ்யாவில்`
-- scans **33–38**: Article 6 — `3, 57, 90.`
-- scans **39–41**: Article 7 — `30-1-1948`
-- scans **42–44**: Article 8 — `பத்தினியே உன்போல்...!`
-- scans **45–47**: Article 9 — `அன்னை நாகம்மையார்!`
-- scans **48–49**: Article 10 — `கவிதையல்ல - கண்ணீர்க்கடல் !`
-- scan **50**: separate `மணமகள்` back-cover advertisement
-
-Every article-opening scan is unnumbered. Scan 20 preserves only the visible page-position `1`; no unseen `19` is reconstructed.
-
-Independent heading witnesses remain frozen:
-
-- publication/title-page `உணர்ச்சிமாலை` vs Article 1 `உணர்ச்சி மாலை`;
-- Article 3 `போகிறான்;போகிறான்..!`;
-- Article 4 `இராவணன்` / `நம் பாட்டன்`;
-- Article 8 `பத்தினியே` / `உன்போல்...!`;
-- Article 10 `கவிதையல்ல -` / `கண்ணீர்க்கடல் !`.
-
-## Tamil archival gates — FINAL
+## Tamil archival gates — COMPLETE / FROZEN
 
 - P0 intake: **COMPLETE**
 - P1 metadata + 50-scan page/boundary map: **COMPLETE**
-- P2 page records: **COMPLETE — 50 / 50 verified**
-- P3 article assemblies: **COMPLETE — 10 / 10**
-- P4 source audit / completeness review: **PASS**
-- P5 strict visual word/punctuation fidelity: **COMPLETE — 50 / 50 PASS**
-- P5 article strict recheck: **10 / 10 PASS**
-- P5 source-supported structural/punctuation/spacing/layout corrections propagated: **236**
+- P2 page records: **50 / 50 verified**
+- P3 article assemblies: **10 / 10**
+- P4 source audit: **PASS**
+- P5 strict visual fidelity: **50 / 50 PASS**
+- article strict recheck: **10 / 10 PASS**
+- source-supported P5 structural/punctuation/spacing/layout corrections: **236 propagated**
 - documented Gemini/source lexical conflicts retained: **18**
-- outstanding `needs-review` / blocked fidelity items: **0**
-- unresolved Tamil/body blockers: **0**
+- outstanding Tamil blockers: **0**
 - **Tamil source: COMPLETE / FROZEN**
 
-## P5 durable recoveries / non-regression
+Durable P5 non-regression includes:
 
-- scan 19 whole-page Gemini omission remains source-recovered with explicit provenance;
-- scan 32 Gemini lexical/order sequence remains retained despite scan disagreement;
-- scan 33/34 physical boundary is corrected: scan 33 ends at `சுய நலத்திற்காக`; scan 34 begins `சூதர்களை சுற்றி...`;
-- scan 41 remains Article 7's end at `வரலாற்றை வீணாக்கிய`;
-- scan 42 source-visible `பதில் இல்லை.` is recovered under the explicit missing-text permission;
-- scan 43 `* * *` separator is restored;
-- scan 48 Gemini `ப்ழச்சளை` remains retained;
-- scan 49 Gemini placement of `விட்டாய்.` remains retained despite scan-order disagreement;
-- scan 49 publication-source note/imprint remains outside Article 10; printer line is `அன்பன் அச்சகம், சென்னை-1.`;
-- scan 50 `BALU` / `BROS` remains stacked advertisement text outside all articles.
+- scan 19 whole-page Gemini omission source-recovered with provenance;
+- scan 32 frozen Gemini lexical/order sequence retained;
+- scan 33/34 physical boundary corrected;
+- Article 7 remains closed at scan 41 `வரலாற்றை வீணாக்கிய`;
+- scan 42 `பதில் இல்லை.` source-recovered;
+- scan 43 `* * *` restored;
+- scan 48 `ப்ழச்சளை` retained;
+- scan 49 frozen placement of `விட்டாய்.` retained;
+- scan 49 publication-source note/imprint outside Article 10;
+- scan 50 `BALU` / `BROS` advertisement outside every article.
 
-The complete 18-item lexical conflict ledger is in `publications/unarchchimaalai/VISUAL_TEXT_FIDELITY_REVIEW.md`. These conflicts are not blockers under the user's current lexical rule and must not be silently normalised.
-
-## Frozen Tamil article authorities for translation — T0 reverified
+## Frozen Tamil translation authorities
 
 1. Article 1 — `c63837a9f7c02d6f3a18171a512d46788f66ad92`
 2. Article 2 — `dda81363f512ee2f829c367ae929ce3610604fe9`
@@ -185,66 +135,87 @@ The complete 18-item lexical conflict ledger is in `publications/unarchchimaalai
 9. Article 9 — `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
 10. Article 10 — `f856664d86695237a23d0ffc0bef088d32a82fe9`
 
-Any later Tamil correction reopens the affected frozen blob authority and downstream English gates.
+Any later Tamil correction reopens the affected English gates.
 
 ## English T0 — COMPLETE / PASS
 
-T0 was executed against live `main` after P5 closure.
-
-Created:
+Created and active:
 
 - `publications/unarchchimaalai/TRANSLATION_PLAN.md`
 - `publications/unarchchimaalai/translations/en/README.md`
 - `publications/unarchchimaalai/translations/en/LEXICON.md`
 - `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md`
 
-T0 results:
+T0 verified all 10 frozen Tamil authorities and carried the P5 lexical-conflict/source-recovery provenance into the English setup.
 
-- frozen Tamil authorities verified against live `main`: **10 / 10 PASS**;
-- translation order recorded: **Articles 1 → 10 in source order**;
-- 18-item P5 Gemini/source conflict provenance carried into English review setup: **PASS**;
-- scan 19 and scan 42 source-recovered frozen text carried into translation authority notes: **PASS**;
-- English article bodies created: **0**;
-- T1 drafts: **0 / 10**;
-- T2 fidelity-reviewed: **0 / 10**;
-- T3 voice-reviewed: **0 / 10**;
-- T4 audited: **0 / 10**;
-- T5 verified: **0 / 10**;
-- unresolved T0 translation blockers: **0**.
+## Article 1 — `உணர்ச்சி மாலை` — T1 COMPLETE / DRAFT
 
-No English title or article body is frozen at T0. Article 1 will establish the initial publication voice baseline and first live lexicon decisions.
+Frozen Tamil authority: `c63837a9f7c02d6f3a18171a512d46788f66ad92`  
+English draft: `publications/unarchchimaalai/translations/en/01-unarchchi-maalai.md`
 
-## Final Tamil / translation setup records
+T1 results:
 
-- `publications/unarchchimaalai/README.md`
-- `publications/unarchchimaalai/metadata/source.md`
-- `publications/unarchchimaalai/indexes/page-map.md`
-- `publications/unarchchimaalai/indexes/contents.md`
-- `publications/unarchchimaalai/audit.md`
-- `publications/unarchchimaalai/VISUAL_TEXT_FIDELITY_REVIEW.md`
-- `publications/unarchchimaalai/PUBLICATION_COMPLETION_REVIEW.md`
-- `publications/unarchchimaalai/TRANSLATION_PLAN.md`
-- `publications/unarchchimaalai/translations/en/README.md`
-- `publications/unarchchimaalai/translations/en/LEXICON.md`
-- `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md`
+- complete close English draft: **PASS**
+- provisional English title: **Garland of Emotion**
+- metadata status: **`draft`**
+- Tamil-source scan comments 6–9: **retained**
+- quoted verse lineation: **retained**
+- outside/web translation imported: **No**
+- T2 bilingual fidelity review: **NOT STARTED**
+
+Initial live lexicon decisions include:
+
+- `பாரதிதாசன்` → `Bharathidasan`
+- `தமிழர்` → `Tamils`
+- `தமிழ்நாடு` → `Tamil Nadu`
+- `தமிழகம்` → `Tamilakam`
+- `பகுத்தறிவு` → `rationalism`
+- `அறிவு முழக்கம்` → `roar of reason`
+- `மணிவிழா` → `sixtieth-birthday jubilee / celebration`
+- `புரட்சிக் கவிஞர்` → `Revolutionary Poet`
+- quoted `அத்தான்` retained as `Aththaan`
+
+T1 source-sensitive choices requiring T2 review:
+
+1. frozen `இளைக் காத எழுத்துக்கள்` → provisional `writings that do not flag`;
+2. frozen `திருவிடத்தார்` retained as source-bearing `Tiruvitaththar` rather than silently normalised;
+3. quoted `வெள்ளம்போல் தமிழர்...` stanza requires line-by-line fidelity review;
+4. `Aththaan` treatment requires review before any gloss is considered;
+5. English title `Garland of Emotion` remains provisional.
+
+These are translation-review choices, not Tamil blockers.
+
+## English progress counts
+
+- T0 setup: **COMPLETE / PASS**
+- T1 drafts: **1 / 10**
+- T2 fidelity-reviewed: **0 / 10**
+- T3 voice-reviewed: **0 / 10**
+- T4 audited: **0 / 10**
+- T5 verified: **0 / 10**
+- E6: **NOT STARTED**
+- E7: **NOT STARTED**
+- English translation: **IN PROGRESS**
+- unresolved translation blockers: **0**
 
 ---
 
 # Exact next activity
 
-Execute **Article 1 T1 — complete close English draft for `உணர்ச்சி மாலை`** from frozen Tamil blob:
+Execute **Article 1 T2 — bilingual fidelity review** for `உணர்ச்சி மாலை` / provisional English title `Garland of Emotion` against frozen Tamil blob:
 
 `c63837a9f7c02d6f3a18171a512d46788f66ad92`
 
-T1 must:
+T2 must:
 
-1. translate the complete Article 1 paragraph by paragraph from the frozen Tamil assembly only;
-2. preserve all embedded verse lineation and every source scan-boundary comment for scans 6–9;
-3. establish a provisional English title and record initial living-lexicon decisions;
-4. preserve Kalaignar's directness, repetitions, commands, rhetorical questions, praise and polemical force;
-5. create `publications/unarchchimaalai/translations/en/01-unarchchi-maalai.md` with `translation_status: draft` and the exact frozen Tamil blob SHA;
-6. update the English tracker, lexicon, review ledger, publication plan and this handover;
-7. **stop before T2 bilingual fidelity review**.
+1. compare every Tamil paragraph and English paragraph clause by clause;
+2. check every quoted line, name, number, negative, comparison, logical connector, repetition and rhetorical question;
+3. verify all scan-boundary comments for scans 6–9 and all verse lineation;
+4. resolve or explicitly document the five provisional T1 choices without changing the frozen Tamil authority;
+5. make only fidelity corrections, not stylistic polishing;
+6. advance Article 1 to `translation_status: fidelity-reviewed` only if T2 passes;
+7. update the English tracker, lexicon, review ledger, translation plan and this handover;
+8. **stop before T3 Kalaignar voice review**.
 
 ## Current blockers
 
