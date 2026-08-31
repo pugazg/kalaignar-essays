@@ -85,7 +85,7 @@ Do not reopen for stylistic polishing unless a genuine source-supported or relea
 
 ---
 
-# Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE COMPLETE / FROZEN
+# Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE COMPLETE / FROZEN; ENGLISH T0 COMPLETE
 
 Workspace: `publications/unarchchimaalai/`  
 Supplied source: `TVA_BOK_0063821_உணர்ச்சிமாலை.pdf`
@@ -156,7 +156,6 @@ Independent heading witnesses remain frozen:
 - outstanding `needs-review` / blocked fidelity items: **0**
 - unresolved Tamil/body blockers: **0**
 - **Tamil source: COMPLETE / FROZEN**
-- English translation: **NOT STARTED**
 
 ## P5 durable recoveries / non-regression
 
@@ -173,7 +172,7 @@ Independent heading witnesses remain frozen:
 
 The complete 18-item lexical conflict ledger is in `publications/unarchchimaalai/VISUAL_TEXT_FIDELITY_REVIEW.md`. These conflicts are not blockers under the user's current lexical rule and must not be silently normalised.
 
-## Frozen Tamil article authorities for translation
+## Frozen Tamil article authorities for translation — T0 reverified
 
 1. Article 1 — `c63837a9f7c02d6f3a18171a512d46788f66ad92`
 2. Article 2 — `dda81363f512ee2f829c367ae929ce3610604fe9`
@@ -188,7 +187,34 @@ The complete 18-item lexical conflict ledger is in `publications/unarchchimaalai
 
 Any later Tamil correction reopens the affected frozen blob authority and downstream English gates.
 
-## Final Tamil records
+## English T0 — COMPLETE / PASS
+
+T0 was executed against live `main` after P5 closure.
+
+Created:
+
+- `publications/unarchchimaalai/TRANSLATION_PLAN.md`
+- `publications/unarchchimaalai/translations/en/README.md`
+- `publications/unarchchimaalai/translations/en/LEXICON.md`
+- `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md`
+
+T0 results:
+
+- frozen Tamil authorities verified against live `main`: **10 / 10 PASS**;
+- translation order recorded: **Articles 1 → 10 in source order**;
+- 18-item P5 Gemini/source conflict provenance carried into English review setup: **PASS**;
+- scan 19 and scan 42 source-recovered frozen text carried into translation authority notes: **PASS**;
+- English article bodies created: **0**;
+- T1 drafts: **0 / 10**;
+- T2 fidelity-reviewed: **0 / 10**;
+- T3 voice-reviewed: **0 / 10**;
+- T4 audited: **0 / 10**;
+- T5 verified: **0 / 10**;
+- unresolved T0 translation blockers: **0**.
+
+No English title or article body is frozen at T0. Article 1 will establish the initial publication voice baseline and first live lexicon decisions.
+
+## Final Tamil / translation setup records
 
 - `publications/unarchchimaalai/README.md`
 - `publications/unarchchimaalai/metadata/source.md`
@@ -197,25 +223,28 @@ Any later Tamil correction reopens the affected frozen blob authority and downst
 - `publications/unarchchimaalai/audit.md`
 - `publications/unarchchimaalai/VISUAL_TEXT_FIDELITY_REVIEW.md`
 - `publications/unarchchimaalai/PUBLICATION_COMPLETION_REVIEW.md`
-- `publications/unarchchimaalai/pages/0001-...` through `0050-back-cover-advertisement.md`
-- `publications/unarchchimaalai/articles/01-...` through `10-...`
+- `publications/unarchchimaalai/TRANSLATION_PLAN.md`
+- `publications/unarchchimaalai/translations/en/README.md`
+- `publications/unarchchimaalai/translations/en/LEXICON.md`
+- `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md`
 
 ---
 
 # Exact next activity
 
-Execute **T0 — English translation source prerequisite / setup** for Publication 3 `உணர்ச்சிமாலை` under `ESSAY_TRANSLATION_GUIDE.md` and `docs/FUTURE_WORK_GUIDELINES.md`.
+Execute **Article 1 T1 — complete close English draft for `உணர்ச்சி மாலை`** from frozen Tamil blob:
 
-T0 must:
+`c63837a9f7c02d6f3a18171a512d46788f66ad92`
 
-1. verify the ten frozen Tamil article blob SHAs above against live `main`;
-2. create `publications/unarchchimaalai/TRANSLATION_PLAN.md`;
-3. create `publications/unarchchimaalai/translations/en/README.md`;
-4. create `publications/unarchchimaalai/translations/en/LEXICON.md`;
-5. create `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md`;
-6. record the ten article source authorities and translation order;
-7. carry the publication-specific Gemini/source conflict provenance into translation notes where relevant;
-8. **do not begin T1 English body translation until T0 setup is complete**.
+T1 must:
+
+1. translate the complete Article 1 paragraph by paragraph from the frozen Tamil assembly only;
+2. preserve all embedded verse lineation and every source scan-boundary comment for scans 6–9;
+3. establish a provisional English title and record initial living-lexicon decisions;
+4. preserve Kalaignar's directness, repetitions, commands, rhetorical questions, praise and polemical force;
+5. create `publications/unarchchimaalai/translations/en/01-unarchchi-maalai.md` with `translation_status: draft` and the exact frozen Tamil blob SHA;
+6. update the English tracker, lexicon, review ledger, publication plan and this handover;
+7. **stop before T2 bilingual fidelity review**.
 
 ## Current blockers
 
