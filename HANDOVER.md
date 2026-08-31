@@ -100,38 +100,61 @@ English file: `publications/unarchchimaalai/translations/en/01-unarchchi-maalai.
 English title: **Garland of Emotion**  
 Final verified English blob: **`4246c9f1e206d5703fe50297657bb0af2a8e57e6`**
 
-### Gate record
+Gate record:
 
 - T1 close draft: **PASS**
 - T2 bilingual fidelity: **PASS** — **11** documented fidelity corrections
 - T3 Kalaignar voice: **PASS** — **7** meaning-neutral voice/cadence corrections
 - T4 terminology / quotation / citation / source audit: **PASS** — **0** body corrections
 - T5 final article verification: **PASS** — **0** body corrections
-
-### Article 1 final non-regression
-
-- metadata status: **`verified`**
-- title **Garland of Emotion**: verified
-- source-bearing `themmangu`, `Aththaan`, `Tiruvitaththar`: verified
-- frozen `இளைக் காத எழுத்துக்கள்` → `writings that do not tire`: verified
-- `Tamil Nadu` / `Tamilakam` distinction: verified
-- Article 1 proper names/referents: verified
-- `வெள்ளம்போல் தமிழர்...` stanza wording/lineation: preserved from T2
-- Rama/Kali remains unquoted Kalaignar prose
-- quoted `ரகளை` remains `ruckus`
-- scan comments 6–9: PASS
-- crow quotation scan 7/8 boundary: PASS
-- `Thyagaraja` / `Iyer` scan 8/9 boundary: PASS
-- frozen Tamil changed during English work: **No**
-- outside/web wording or published translation imported: **No**
 - unresolved Article 1 blockers: **0**
 
 Article 1 is individually verified, but publication-level E6/E7 release freezing waits until all ten articles pass T5.
 
+## Article 2 — `புரட்சி வளர்ந்த கதை` — T1 COMPLETE / DRAFT
+
+Frozen Tamil authority: `dda81363f512ee2f829c367ae929ce3610604fe9`  
+English file: `publications/unarchchimaalai/translations/en/02-puratchi-valarntha-kathai.md`  
+Provisional English title: **The Story of How the Revolution Grew**  
+T1 English draft blob: **`c036f2439874dacf6220e7da529e852cf28e223a`**
+
+### T1 results
+
+- complete close draft from scans 10–15: **PASS**
+- metadata status: **`draft`**
+- scan comments 10–15: **retained / ordered**
+- scan 11→12 `இரஷ்ய வரலாறு...` continuation: **retained**
+- scan 13→14 `ரஸ்புடீனை / சுட்டுக்கொன்றது` continuation: **retained**
+- dates/numbers and source questions/exclamations/repetition: **retained**
+- Article 1 verified voice baseline carried forward only where context supports it
+- frozen Tamil changed: **No**
+- outside/web historical reconstruction or published translation imported: **No**
+- unresolved T1 blockers: **0**
+- Article 2 T2: **NOT STARTED**
+
+### Article 2 T1 provisional decisions requiring T2 review
+
+- title `புரட்சி வளர்ந்த கதை` → **The Story of How the Revolution Grew**;
+- `பாட்டாளி மக்கள்` → **proletarian people**;
+- quoted `பவிசு` → **pomp**;
+- `மதவாதி` → **religionist** and `முதலாளி—மதவாதி வர்க்கம்` → **capitalist–religionist class**;
+- frozen `இலெனின்` / `லெனின்` both currently render **Lenin**, with the Tamil source variation documented;
+- frozen `பீட்ரோகிராட்` / `பீட்ரோ கிரோடு` both currently render **Petrograd**, with the source variation documented;
+- `மங்கையற்கரசி` → source-sensitive **Mangaiyarkkarasi**;
+- `குலச் சிறை` → source-sensitive **Kulachchirai**;
+- quoted `கிடுகிடு` → source-bearing **kidukidu**;
+- frozen `ரோமனால்` → source-sensitive **Romanal**, with no silent normalisation to another dynasty name;
+- `சிரஞ்சீவி` → source-bearing **Chiranjeevi**;
+- `கடவுளீயம்` → provisional **God-ism**;
+- `திராவிடம்` → provisional source-bearing **Dravidam**;
+- `சுயமரியாதை` → provisional **Self-Respect**.
+
+The full Article 2 provisional lexicon and T1 provenance are recorded in the English lexicon/review ledger.
+
 ## English progress
 
 - T0 setup: **PASS**
-- T1 drafts: **1 / 10**
+- T1 drafts: **2 / 10**
 - T2 fidelity-reviewed: **1 / 10**
 - T3 voice-reviewed: **1 / 10**
 - T4 audited: **1 / 10**
@@ -144,21 +167,23 @@ Article 1 is individually verified, but publication-level E6/E7 release freezing
 
 # Exact next activity
 
-Execute **Article 2 T1 — complete close English draft for `புரட்சி வளர்ந்த கதை`** from frozen Tamil blob:
+Execute **Article 2 T2 — bilingual fidelity review** for `புரட்சி வளர்ந்த கதை` / provisional English title **The Story of How the Revolution Grew** against frozen Tamil blob:
 
 `dda81363f512ee2f829c367ae929ce3610604fe9`
 
 Source scans: **10–15**.
 
-T1 must:
+T2 must:
 
-1. translate the complete frozen Tamil article paragraph by paragraph;
-2. preserve all source scan-boundary comments, quotations, questions, exclamations, repetition and argumentative rhythm;
-3. use the Article 1 verified voice baseline where context supports it, without mechanically forcing terminology;
-4. establish and record only the Article 2 terminology/proper-name decisions actually encountered, including source-bearing forms such as `இலெனின்`, `ஜார்`, `டூமா` if present in the frozen article;
-5. create `publications/unarchchimaalai/translations/en/02-puratchi-valarntha-kathai.md` with `translation_status: draft`;
-6. update tracker, lexicon, review ledger, plan and this handover;
-7. **stop before Article 2 T2 bilingual fidelity review**.
+1. compare every Tamil paragraph and English paragraph clause by clause;
+2. check every date, number, negative, comparison, rhetorical question, repeated image, proper name and political term;
+3. verify all scan comments 10–15 and the scan 11→12 / scan 13→14 continuations;
+4. resolve or explicitly document all provisional T1 choices listed above without changing the frozen Tamil authority;
+5. preserve the publication-specific Gemini lexical-baseline provenance, including frozen `மௌனமாகவே`;
+6. make only fidelity corrections, not T3-style cadence polishing;
+7. advance Article 2 to `translation_status: fidelity-reviewed` only if T2 passes;
+8. update tracker, lexicon, review ledger, translation plan and this handover;
+9. **stop before Article 2 T3 Kalaignar voice review**.
 
 ## Current blockers
 
