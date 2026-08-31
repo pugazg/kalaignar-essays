@@ -111,51 +111,63 @@ Gate record:
 
 Article 1 is individually verified, but publication-level E6/E7 release freezing waits until all ten articles pass T5.
 
-## Article 2 — `புரட்சி வளர்ந்த கதை` — T1 COMPLETE / DRAFT
+## Article 2 — `புரட்சி வளர்ந்த கதை` — T1–T2 COMPLETE / FIDELITY-REVIEWED
 
 Frozen Tamil authority: `dda81363f512ee2f829c367ae929ce3610604fe9`  
 English file: `publications/unarchchimaalai/translations/en/02-puratchi-valarntha-kathai.md`  
-Provisional English title: **The Story of How the Revolution Grew**  
-T1 English draft blob: **`c036f2439874dacf6220e7da529e852cf28e223a`**
+English title: **The Story of How the Revolution Grew**  
+T1 English draft blob: `c036f2439874dacf6220e7da529e852cf28e223a`  
+T2 fidelity-reviewed blob: **`ec61502524a073a45292202da71d8979b5d254b2`**
 
 ### T1 results
 
 - complete close draft from scans 10–15: **PASS**
-- metadata status: **`draft`**
 - scan comments 10–15: **retained / ordered**
 - scan 11→12 `இரஷ்ய வரலாறு...` continuation: **retained**
 - scan 13→14 `ரஸ்புடீனை / சுட்டுக்கொன்றது` continuation: **retained**
 - dates/numbers and source questions/exclamations/repetition: **retained**
-- Article 1 verified voice baseline carried forward only where context supports it
 - frozen Tamil changed: **No**
 - outside/web historical reconstruction or published translation imported: **No**
-- unresolved T1 blockers: **0**
-- Article 2 T2: **NOT STARTED**
 
-### Article 2 T1 provisional decisions requiring T2 review
+### T2 — COMPLETE / PASS
 
-- title `புரட்சி வளர்ந்த கதை` → **The Story of How the Revolution Grew**;
-- `பாட்டாளி மக்கள்` → **proletarian people**;
-- quoted `பவிசு` → **pomp**;
-- `மதவாதி` → **religionist** and `முதலாளி—மதவாதி வர்க்கம்` → **capitalist–religionist class**;
-- frozen `இலெனின்` / `லெனின்` both currently render **Lenin**, with the Tamil source variation documented;
-- frozen `பீட்ரோகிராட்` / `பீட்ரோ கிரோடு` both currently render **Petrograd**, with the source variation documented;
-- `மங்கையற்கரசி` → source-sensitive **Mangaiyarkkarasi**;
-- `குலச் சிறை` → source-sensitive **Kulachchirai**;
-- quoted `கிடுகிடு` → source-bearing **kidukidu**;
-- frozen `ரோமனால்` → source-sensitive **Romanal**, with no silent normalisation to another dynasty name;
-- `சிரஞ்சீவி` → source-bearing **Chiranjeevi**;
-- `கடவுளீயம்` → provisional **God-ism**;
-- `திராவிடம்` → provisional source-bearing **Dravidam**;
-- `சுயமரியாதை` → provisional **Self-Respect**.
+Article 2 advanced to `translation_status: fidelity-reviewed` after a complete clause-by-clause comparison across scans 10–15.
 
-The full Article 2 provisional lexicon and T1 provenance are recorded in the English lexicon/review ledger.
+T2 made **10 documented fidelity corrections**:
+
+1. `no refuge` → `there was no way out` for frozen `கதியிலை`;
+2. removed T1's added `That is the victory festival!` and restored the scan-10 accumulation to end directly `—a victory festival!`;
+3. `Tsar Nicholas` → **King Nicholas** for `நிக்கோலாஸ் மன்னன்`;
+4. restored `புன் சிரிப்பு` as **faint smile**;
+5. `struck Prince Sergius dead` → **beat Prince Sergius to death**;
+6. scan-12 `Society spat...` → **The people spat...** for `ஜனசமுதாயம்`;
+7. `price of knowledge` → **price of intelligence** for `அறிவு`;
+8. `another killing` → **another murder** for `கொலை`;
+9. removed T1's added imperative `Remember` from the scan 13→14 lion-cub/Rasputin continuation;
+10. `ceremony of Tsar's abdication` → **Tsar-king's abdication ceremony** for `ஜார் அரசனின் முடிதுறப்பு வைபவம்`.
+
+### Article 2 T2 terminology/source decisions
+
+- title **The Story of How the Revolution Grew**: confirmed;
+- `பாட்டாளி மக்கள்` → **proletarian people**: retained;
+- quoted `பவிசு` → **pomp**: retained source-sensitively;
+- `மதவாதி` → **religionist** / capitalist–religionist class: retained;
+- frozen `இலெனின்` / `லெனின்` → one conventional **Lenin**, source variation documented;
+- frozen `பீட்ரோகிராட்` / `பீட்ரோ கிரோடு` → one conventional **Petrograd**, source variation documented;
+- `Mangaiyarkkarasi`, `Kulachchirai`, `kidukidu`, `Romanal`, `Chiranjeevi`, `God-ism`, `Dravidam`, `Self-Respect`: explicitly reviewed and retained without outside reconstruction;
+- frozen scan-11 `மௌனமாகவே` remains controlling despite the P5 scan-appearing alternate;
+- scan comments 10–15 and both cross-scan continuations: **PASS**;
+- frozen Tamil changed: **No**;
+- outside/web historical wording or published English translation imported: **No**;
+- unresolved T2 blockers: **0**.
+
+Detailed T1/T2 provenance: `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md`.
 
 ## English progress
 
 - T0 setup: **PASS**
 - T1 drafts: **2 / 10**
-- T2 fidelity-reviewed: **1 / 10**
+- T2 fidelity-reviewed: **2 / 10**
 - T3 voice-reviewed: **1 / 10**
 - T4 audited: **1 / 10**
 - T5 verified: **1 / 10**
@@ -167,23 +179,20 @@ The full Article 2 provisional lexicon and T1 provenance are recorded in the Eng
 
 # Exact next activity
 
-Execute **Article 2 T2 — bilingual fidelity review** for `புரட்சி வளர்ந்த கதை` / provisional English title **The Story of How the Revolution Grew** against frozen Tamil blob:
+Execute **Article 2 T3 — Kalaignar voice review** for `புரட்சி வளர்ந்த கதை` / **The Story of How the Revolution Grew** against frozen Tamil blob:
 
 `dda81363f512ee2f829c367ae929ce3610604fe9`
 
-Source scans: **10–15**.
+T3 must:
 
-T2 must:
-
-1. compare every Tamil paragraph and English paragraph clause by clause;
-2. check every date, number, negative, comparison, rhetorical question, repeated image, proper name and political term;
-3. verify all scan comments 10–15 and the scan 11→12 / scan 13→14 continuations;
-4. resolve or explicitly document all provisional T1 choices listed above without changing the frozen Tamil authority;
-5. preserve the publication-specific Gemini lexical-baseline provenance, including frozen `மௌனமாகவே`;
-6. make only fidelity corrections, not T3-style cadence polishing;
-7. advance Article 2 to `translation_status: fidelity-reviewed` only if T2 passes;
-8. update tracker, lexicon, review ledger, translation plan and this handover;
-9. **stop before Article 2 T3 Kalaignar voice review**.
+1. preserve every T2 meaning/source decision and all source-sensitive treatments;
+2. review the English as English against the frozen Tamil for directness, repetition, rhetorical questions, exclamations, violent imagery, ridicule, accumulative dashes, `No...` reversals and class-political force;
+3. preserve `proletarian people`, `pomp`, `religionist`, `King Nicholas`, `Mangaiyarkkarasi`, `Kulachchirai`, `kidukidu`, `Romanal`, `Chiranjeevi`, `God-ism`, `Dravidam`, `Self-Respect`, and the T2 Lenin/Petrograd provenance unless a meaning-neutral cadence adjustment is needed around them;
+4. retain scan comments 10–15 and the scan 11→12 / scan 13→14 continuations;
+5. make only meaning-neutral voice/cadence corrections, not new fidelity reinterpretations;
+6. advance to `translation_status: voice-reviewed` only if T3 passes;
+7. update tracker, lexicon, review ledger, plan and this handover;
+8. **stop before Article 2 T4 terminology / quotation / source audit**.
 
 ## Current blockers
 
