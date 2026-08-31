@@ -178,19 +178,95 @@ Do not reopen Publication 2 for stylistic polishing unless a genuine source-supp
 
 ---
 
+# Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE ACTIVE
+
+Workspace: `publications/unarchchimaalai/`  
+Supplied source: `TVA_BOK_0063821_உணர்ச்சிமாலை.pdf`
+
+## Source identity
+
+- title-page witness: `உணர்ச்சிமாலை`
+- cover title is displayed over two lines as `உணர்ச்சி` / `மாலை`
+- author witnesses: `மு.கருணாநிதி` on cover; `மு. கருணாநிதி` on title page
+- edition statement: **`முதற்பதிப்பு—1951`**
+- publisher: **கருணாநிதி பதிப்பகம், சிந்தாதிரிப்பேட்டை, சென்னை-2.**
+- type: **10-article collection / multi-article publication**
+- physical scans: **50**
+- source SHA-256: `d2d45de049505218fd612bf71949135e34ecb317ffb5d003dfe59a3a0608461d`
+- source file size: **79,471,633 bytes**
+- source PDF committed: **No**
+- printed contents page: **none observed**
+
+## P0 intake result — COMPLETE
+
+- live `main` was checked before intake; no existing `உணர்ச்சிமாலை` publication tree was present
+- scans 1–5 are front matter; scan 50 is a separate illustrated back-cover advertisement
+- scans 6–49 contain ten article units
+- scan 49 carries the publication closing/imprint material after Article 10
+- publication metadata/source record created
+- source PDF remains outside the repository
+
+Initial article-boundary observations:
+
+1. `உணர்ச்சி மாலை` — scans **6–9**
+2. `புரட்சி வளர்ந்த கதை` — scans **10–15**
+3. `போகிறான்;போகிறான்..!` — scans **16–18**
+4. `இராவணன் நம் பாட்டன்` — scans **19–29**
+5. `இங்கல்ல! இரஷ்யாவில்` — scans **30–32**
+6. `3, 57, 90.` — scans **33–38**
+7. `30-1-1948` — scans **39–41**
+8. `பத்தினியே உன்போல்...!` — scans **42–44**
+9. `அன்னை நாகம்மையார்!` — scans **45–47**
+10. `கவிதையல்ல - கண்ணீர்க்கடல்!` — scans **48–49**
+
+P1 must re-record exact heading punctuation/spacing and every visible printed page number directly from the scans rather than inferring them from OCR.
+
+## Publication-specific user instruction — Gemini lexical baseline
+
+For Publication 3, the user explicitly instructed:
+
+> **Retain the words as in Gemini. Correct only indentation, punctuation, spaces, missing paragraphs, headings, and analogous structural/formatting features.**
+
+This is the controlling **workflow instruction for lexical tokens in the current Tamil pass**:
+
+- Gemini word choices are the working lexical baseline;
+- do not silently change Gemini word tokens from scan inspection;
+- the scan is used to restore/verify headings, punctuation, spacing, paragraph boundaries, verse/quotation layout, indentation and other non-lexical structure;
+- any apparent scan/Gemini lexical conflict must be logged for user decision, not silently resolved;
+- this rule is a user-directed exception for this publication and does not convert OCR into authority for physical-copy evidence or publication structure.
+
+Important non-regression distinction already visible: publication/title-page witness `உணர்ச்சிமாலை` vs Article 1 heading `உணர்ச்சி மாலை`; preserve them separately.
+
+## Current Tamil archival status
+
+- P0 source intake / publication identification: **COMPLETE**
+- P1 metadata + complete page map / article-boundary mapping: **NEXT**
+- page records: **0 / 50**
+- article assemblies: **0 / 10**
+- P4 source audit: **NOT STARTED**
+- P5 strict visual fidelity: **NOT STARTED**
+- English translation: **NOT STARTED**
+
+Source records:
+
+- `publications/unarchchimaalai/README.md`
+- `publications/unarchchimaalai/metadata/source.md`
+
+---
+
 # Exact next activity
 
-Publications 1 and 2 are both **COMPLETE / FROZEN / RELEASED**.
+Publications 1 and 2 remain **COMPLETE / FROZEN / RELEASED**. Publication 3 `உணர்ச்சிமாலை` is now the active Tamil source publication after P0 intake.
 
-The exact next normal activity is **P0 intake of the next supplied Kalaignar essay/article publication**:
+Execute **P1 — metadata + complete 50-scan page map / contents-boundary mapping** for Publication 3:
 
-1. obtain/attach the next controlling source PDF;
-2. fetch live `main` first;
-3. read `ESSAY_PROCESSING_GUIDE.md`, `docs/FUTURE_WORK_GUIDELINES.md`, this `HANDOVER.md`, and the future-publication handover template;
-4. inspect the source directly before creating the new publication workspace;
-5. register source identity, SHA-256, physical scan count, publication metadata and initial structure conservatively;
-6. do not infer or normalise unreadable Tamil; scan pixels control;
-7. do not start English translation until the new Tamil source layer reaches its required frozen state.
+1. inspect all 50 physical scans and create `publications/unarchchimaalai/indexes/page-map.md`;
+2. classify every scan, including front matter, all ten article units, scan-49 closing/imprint matter and scan-50 advertisement;
+3. create `indexes/contents.md`, explicitly recording that there is no printed contents page while separately mapping the ten scan-verified article headings/boundaries;
+4. record visible printed-page-number behaviour exactly and do not invent missing numerals;
+5. preserve publication/title/article-heading witness distinctions;
+6. preserve the user-established Gemini lexical-baseline rule; do not perform lexical corrections in P1;
+7. update the publication README/source record and this root handover after completing P1.
 
 ## Current blockers
 
