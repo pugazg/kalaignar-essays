@@ -40,17 +40,17 @@ If any frozen Tamil article changes because of a genuine source-supported correc
 | 9 | `அன்னை நாகம்மையார்!` | 45–47 | `articles/09-annai-nagammaiyar.md` | `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` |
 | 10 | `கவிதையல்ல - கண்ணீர்க்கடல் !` | 48–49 | `articles/10-kavithaiyalla-kannirkkadal.md` | `f856664d86695237a23d0ffc0bef088d32a82fe9` |
 
-These ten blob SHAs are the translation authorities for T1–T5 unless P5 is explicitly reopened.
+These ten blob SHAs remain the translation authorities unless P5 is explicitly reopened.
 
 ## Translation order
 
-Translate in source order, one complete article at a time. Article 1 establishes the initial publication voice baseline before accelerating later articles.
+Translate in source order, one complete article at a time. Article 1 establishes the initial publication voice baseline before later articles accelerate.
 
 ## Article tracker
 
 | # | Tamil title | English file | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|---|
-| 1 | உணர்ச்சி மாலை | [`translations/en/01-unarchchi-maalai.md`](translations/en/01-unarchchi-maalai.md) | `draft` | PASS | **PASS** | — | — | — | — |
+| 1 | உணர்ச்சி மாலை | [`translations/en/01-unarchchi-maalai.md`](translations/en/01-unarchchi-maalai.md) | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
 | 2 | புரட்சி வளர்ந்த கதை | `translations/en/02-puratchi-valarntha-kathai.md` | `not-started` | PASS | — | — | — | — | — |
 | 3 | போகிறான்;போகிறான்..! | `translations/en/03-pogiran-pogiran.md` | `not-started` | PASS | — | — | — | — | — |
 | 4 | இராவணன் நம் பாட்டன் | `translations/en/04-iravanan-nam-pattan.md` | `not-started` | PASS | — | — | — | — | — |
@@ -64,38 +64,50 @@ Translate in source order, one complete article at a time. Article 1 establishes
 ## Article 1 T1 — COMPLETE / PASS
 
 - frozen authority: `c63837a9f7c02d6f3a18171a512d46788f66ad92`;
-- English file created: `translations/en/01-unarchchi-maalai.md`;
-- provisional English title: **Garland of Emotion**;
-- metadata status: **draft**;
-- complete paragraph-by-paragraph translation: **PASS**;
-- scan comments for 6–9: **retained**;
-- quoted verse lineation: **retained**;
-- outside/web translation imported: **No**;
-- living lexicon updated with first Article 1 decisions: **PASS**;
-- T2: **NOT STARTED**.
+- English file: `translations/en/01-unarchchi-maalai.md`;
+- English title: **Garland of Emotion**;
+- complete paragraph-by-paragraph draft: **PASS**;
+- scan comments 6–9 and quoted lineation: **retained**;
+- outside/web translation imported: **No**.
 
-T1 intentionally leaves several source-sensitive matters for T2: frozen `இளைக் காத எழுத்துக்கள்`, frozen `திருவிடத்தார்`, quoted `அத்தான்`, the `வெள்ளம்போல் தமிழர்...` stanza and the provisional title.
+## Article 1 T2 — COMPLETE / PASS
+
+T2 performed a full clause-by-clause bilingual review against the unchanged frozen Tamil authority.
+
+Results:
+
+- metadata status advanced to **`fidelity-reviewed`**;
+- title **Garland of Emotion** retained and T2-confirmed;
+- all source scan comments 6–9 remain ordered;
+- all quoted/verse lineation remains traceable;
+- `Aththaan` remains source-bearing without an unsupported relationship gloss;
+- frozen `திருவிடத்தார்` remains source-sensitive **Tiruvitaththar**;
+- frozen `இளைக் காத எழுத்துக்கள்` now renders **`writings that do not tire`**;
+- the `வெள்ளம்போல் தமிழர்...` stanza was revised line by line for closer frozen-Tamil fidelity;
+- T1's invented quotation marks around the Rama/Kali prose were removed;
+- source-bearing `தெம்மாங்கு` now remains **themmangu**, replacing T1's explanatory `lilting song`;
+- total documented T2 fidelity corrections: **11**;
+- unresolved T2 blockers: **0**;
+- T3: **NOT STARTED**.
+
+Detailed correction provenance is in [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md); living terminology decisions are in [`translations/en/LEXICON.md`](translations/en/LEXICON.md).
 
 ## Publication-specific translation cautions
 
-1. Translate only from the frozen article assemblies above, not Gemini OCR, memory, web text or a later edition.
-2. The P5 review contains **18 documented scan/Gemini lexical conflicts**. English must follow the frozen assembly rather than silently substitute the scan-appearing alternative.
-3. Scan 19 contains a whole-page source-recovered block; it is valid frozen Tamil authority for Article 4.
-4. Scan 42 contains source-recovered `பதில் இல்லை.`; it must be translated in Article 8.
-5. Scan 43's `* * *` separator and Article 10 verse lineation must be preserved structurally.
-6. Article 10 must not import scan-49 publication-source note/imprint or scan-50 advertisement into the English body.
-7. Source-specific or apparently garbled forms such as Article 10 `ப்ழச்சளை` must not be confidently repaired or externally identified.
-8. Preserve rhetorically meaningful punctuation, questions, exclamations, repetition and direct address; normal English punctuation spacing is allowed.
-9. Retain Tamil source scan-boundary comments in each English article.
+1. Translate only from frozen article assemblies, not Gemini OCR, memory, web text or later editions.
+2. The P5 review contains **18 documented scan/Gemini lexical conflicts**; English follows the frozen assembly rather than a scan-appearing alternative.
+3. Article 4 scan 19 and Article 8 scan 42 contain frozen source-recovered text and must be translated.
+4. Article 8 scan 43 `* * *` and Article 10 verse lineation are structural source authority.
+5. Article 10 must exclude scan-49 publication-close matter and scan-50 advertisement.
+6. Apparently garbled/source-sensitive forms such as Article 10 `ப்ழச்சளை` must not be silently repaired or externally identified.
+7. Preserve rhetorically meaningful questions, exclamations, repetition, direct address and page-boundary comments.
 
 Full Tamil fidelity/conflict provenance: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Gate model
 
-Every article must pass T0 → T1 → T2 → T3 → T4 → T5. After 10 / 10 reach T5, run the publication-level English consistency/release gates before declaring English complete.
+Every article must pass T0 → T1 → T2 → T3 → T4 → T5. After 10 / 10 reach T5, run publication-level English consistency/release gates.
 
 ## Exact next activity
 
-Execute **Article 1 T2 — bilingual fidelity review** for `உணர்ச்சி மாலை` / provisional English title `Garland of Emotion` against frozen Tamil blob `c63837a9f7c02d6f3a18171a512d46788f66ad92`.
-
-Re-read Tamil and English clause by clause; check every quotation, name, number, negative, logical connector, repetition, scan comment and verse line; resolve/document the five provisional source-sensitive T1 choices; make only fidelity corrections; advance to `fidelity-reviewed` only if T2 passes; and **stop before T3**.
+Execute **Article 1 T3 — Kalaignar voice review** for `Garland of Emotion`. Preserve every T2 meaning/source decision while reviewing cadence, directness, repetition, commands, exclamations, imagery and polemical force. Make only meaning-neutral voice/cadence corrections, advance to `voice-reviewed` only if T3 passes, and **stop before T4**.
