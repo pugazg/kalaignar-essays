@@ -20,13 +20,15 @@
 - article strict-fidelity recheck: **10 / 10 PASS**
 - unresolved Tamil/body blockers: **0**
 - Tamil archival layer: **COMPLETE / FROZEN**
-- English translation: **NOT STARTED**
+- English T0 source prerequisite/setup: **COMPLETE / PASS**
+- English body translation: **NOT STARTED**
 
 Page map: [`../indexes/page-map.md`](../indexes/page-map.md)  
 Article/content map: [`../indexes/contents.md`](../indexes/contents.md)  
 Audit: [`../audit.md`](../audit.md)  
 Strict fidelity: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md)  
-Completion: [`../PUBLICATION_COMPLETION_REVIEW.md`](../PUBLICATION_COMPLETION_REVIEW.md)
+Completion: [`../PUBLICATION_COMPLETION_REVIEW.md`](../PUBLICATION_COMPLETION_REVIEW.md)  
+Translation plan: [`../TRANSLATION_PLAN.md`](../TRANSLATION_PLAN.md)
 
 ## Title / authorship witnesses
 
@@ -113,26 +115,39 @@ Important P5 structural recoveries:
 
 The full 18-item lexical conflict ledger is in `../VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-## Frozen Tamil article authorities
+## Frozen Tamil article authorities — T0 reverified
 
-| Article | Blob SHA |
-|---:|---|
-| 1 | `c63837a9f7c02d6f3a18171a512d46788f66ad92` |
-| 2 | `dda81363f512ee2f829c367ae929ce3610604fe9` |
-| 3 | `92eb1a68d65f65dd71274e5e79f3209e63359d9a` |
-| 4 | `006f2f75dbc3eea796170a29aee0befd162522e7` |
-| 5 | `c8ac4d7c241832e07bbb24c5cee935588673f4ac` |
-| 6 | `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` |
-| 7 | `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` |
-| 8 | `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` |
-| 9 | `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` |
-| 10 | `f856664d86695237a23d0ffc0bef088d32a82fe9` |
+| Article | Blob SHA | T0 |
+|---:|---|---|
+| 1 | `c63837a9f7c02d6f3a18171a512d46788f66ad92` | PASS |
+| 2 | `dda81363f512ee2f829c367ae929ce3610604fe9` | PASS |
+| 3 | `92eb1a68d65f65dd71274e5e79f3209e63359d9a` | PASS |
+| 4 | `006f2f75dbc3eea796170a29aee0befd162522e7` | PASS |
+| 5 | `c8ac4d7c241832e07bbb24c5cee935588673f4ac` | PASS |
+| 6 | `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` | PASS |
+| 7 | `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` | PASS |
+| 8 | `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` | PASS |
+| 9 | `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` | PASS |
+| 10 | `f856664d86695237a23d0ffc0bef088d32a82fe9` | PASS |
 
 These blobs are frozen translation authorities unless a later source-supported Tamil correction explicitly reopens P5.
 
+## English T0 setup — COMPLETE / PASS
+
+Created:
+
+- `../TRANSLATION_PLAN.md`
+- `../translations/en/README.md`
+- `../translations/en/LEXICON.md`
+- `../translations/en/TRANSLATION_REVIEW.md`
+
+The 18-item P5 lexical-conflict provenance and the source-recovered scan 19 / scan 42 material are carried into the English setup. Translation authority remains the frozen Tamil assembly; English must not silently switch to a scan-appearing alternative lexical form.
+
 ## Exact next gate
 
-**T0 — English translation source prerequisite / setup.** Under `ESSAY_TRANSLATION_GUIDE.md`, create `TRANSLATION_PLAN.md`, `translations/en/README.md`, `translations/en/LEXICON.md`, and `translations/en/TRANSLATION_REVIEW.md`; record the ten frozen Tamil article blob SHAs; do not begin T1 body translation until T0 is complete.
+**Article 1 T1 — complete close English draft for `உணர்ச்சி மாலை`** from frozen Tamil blob `c63837a9f7c02d6f3a18171a512d46788f66ad92`.
+
+T1 must preserve every source paragraph, verse line and scan-boundary comment, establish a provisional English title and live lexicon decisions, and leave the article at `translation_status: draft`. Do not mark T2/T5 complete during T1.
 
 ## Source authority / user-baseline rule
 
