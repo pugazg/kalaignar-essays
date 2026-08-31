@@ -178,7 +178,7 @@ Do not reopen Publication 2 for stylistic polishing unless a genuine source-supp
 
 ---
 
-# Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE ACTIVE / P2 COMPLETE
+# Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE ACTIVE / P3 COMPLETE
 
 Workspace: `publications/unarchchimaalai/`  
 Supplied source: `TVA_BOK_0063821_உணர்ச்சிமாலை.pdf`
@@ -186,7 +186,7 @@ Supplied source: `TVA_BOK_0063821_உணர்ச்சிமாலை.pdf`
 ## Source identity
 
 - title-page witness: `உணர்ச்சிமாலை`
-- cover title is displayed over two lines as `உணர்ச்சி` / `மாலை`
+- cover title: `உணர்ச்சி` / `மாலை`
 - author witnesses: `மு.கருணாநிதி` on cover; `மு. கருணாநிதி` on title page
 - edition statement: **`முதற்பதிப்பு—1951`**
 - publisher: **கருணாநிதி பதிப்பகம், சிந்தாதிரிப்பேட்டை, சென்னை-2.**
@@ -199,82 +199,106 @@ Supplied source: `TVA_BOK_0063821_உணர்ச்சிமாலை.pdf`
 
 ## P0 intake — COMPLETE
 
-- live `main` checked before intake; no existing publication tree was present
-- scans 1–5 front matter; scans 6–49 ten article units; scan 50 separate illustrated advertisement
-- source PDF remains outside the repository
+- live `main` checked before intake; no duplicate publication tree existed
+- scans 1–5 front matter; scans 6–49 ten article units; scan 50 separate advertisement
+- source PDF remains outside repository
 
 ## P1 metadata + complete page / boundary mapping — COMPLETE
 
-P1 directly inspected and classified all **50 / 50** physical scans.
+All **50 / 50** physical scans were inspected and classified.
 
-Verified article spans / heading witnesses:
+Verified article spans:
 
 1. `உணர்ச்சி மாலை` — scans **6–9**
 2. `புரட்சி வளர்ந்த கதை` — scans **10–15**
 3. `போகிறான்;போகிறான்..!` — scans **16–18**
-4. `இராவணன் நம் பாட்டன்` — scans **19–29**; heading physically two lines
+4. `இராவணன் நம் பாட்டன்` — scans **19–29**
 5. `இங்கல்ல! இரஷ்யாவில்` — scans **30–32**
 6. `3, 57, 90.` — scans **33–38**
 7. `30-1-1948` — scans **39–41**
-8. `பத்தினியே உன்போல்...!` — scans **42–44**; heading physically two lines
+8. `பத்தினியே உன்போல்...!` — scans **42–44**
 9. `அன்னை நாகம்மையார்!` — scans **45–47**
-10. `கவிதையல்ல - கண்ணீர்க்கடல் !` — scans **48–49**; heading physically `கவிதையல்ல -` / `கண்ணீர்க்கடல் !`
+10. `கவிதையல்ல - கண்ணீர்க்கடல் !` — scans **48–49**
 
-No printed contents page exists. Article-opening scans have no visible printed page numeral. Scan 20 preserves only the visible page-position `1`; an unseen `19` must never be invented.
+Scan 50 is a separate `மணமகள்` back-cover advertisement. No printed contents page exists. Every article-opening scan is unnumbered; scan 20 preserves only the visible page-position `1`, never an inferred `19`.
 
-Important non-regression distinction: publication/title-page witness `உணர்ச்சிமாலை` vs Article 1 heading `உணர்ச்சி மாலை`; preserve separately.
+Non-regression heading witnesses:
+
+- publication/title-page `உணர்ச்சிமாலை` vs Article 1 `உணர்ச்சி மாலை` remain distinct;
+- Article 3 `போகிறான்;போகிறான்..!`;
+- Article 4 physically `இராவணன்` / `நம் பாட்டன்`;
+- Article 8 physically `பத்தினியே` / `உன்போல்...!`;
+- Article 10 physically `கவிதையல்ல -` / `கண்ணீர்க்கடல் !`.
 
 ## Publication-specific user instruction — Gemini lexical baseline
 
-For Publication 3, the user explicitly instructed:
-
 > **Retain the words as in Gemini. Correct only indentation, punctuation, spaces, missing paragraphs, headings, and analogous structural/formatting features.**
 
-Controlling workflow rule for this Tamil pass:
+Therefore:
 
-- Gemini word choices are the working lexical baseline wherever Gemini supplied text;
-- do not silently change Gemini word tokens from scan inspection;
-- use the scan to restore/verify headings, punctuation, spacing, paragraph boundaries, verse/quotation layout, indentation and other non-lexical structure;
-- any apparent scan/Gemini lexical conflict must be logged for user decision, not silently resolved;
-- physical-copy evidence and page/section boundaries remain scan-controlled;
-- if Gemini omits a whole paragraph/page, source recovery is permitted only under the user's explicit missing-paragraph instruction and must be labelled as scan-derived rather than Gemini-derived.
+- Gemini word choices are the working lexical baseline wherever Gemini supplied wording;
+- do not silently alter Gemini word tokens from scan inspection;
+- scan controls headings, punctuation, spacing, paragraphs, quotation/verse lineation, boundaries and physical-copy evidence;
+- scan/Gemini lexical conflicts are logged, not silently resolved;
+- whole source blocks omitted by Gemini can be recovered only under the user's explicit missing-paragraph instruction with explicit source-recovery provenance.
 
 ## P2 page-level transcription — COMPLETE
 
-Completed and directly compared for the authorised structural layer:
-
-- scans **1–5** — front matter: **5 / 5**
-- Article 1 `உணர்ச்சி மாலை`, scans **6–9**: **4 / 4**
-- Article 2 `புரட்சி வளர்ந்த கதை`, scans **10–15**: **6 / 6**
-- Article 3 `போகிறான்;போகிறான்..!`, scans **16–18**: **3 / 3**
-- Article 4 `இராவணன் நம் பாட்டன்`, scans **19–29**: **11 / 11**
-- Article 5 `இங்கல்ல! இரஷ்யாவில்`, scans **30–32**: **3 / 3**
-- Article 6 `3, 57, 90.`, scans **33–38**: **6 / 6**
-- Article 7 `30-1-1948`, scans **39–41**: **3 / 3**
-- Article 8 `பத்தினியே உன்போல்...!`, scans **42–44**: **3 / 3**
-- Article 9 `அன்னை நாகம்மையார்!`, scans **45–47**: **3 / 3**
-- Article 10 `கவிதையல்ல - கண்ணீர்க்கடல் !`, scans **48–49**: **2 / 2**
-- scan **50** back-cover `மணமகள்` advertisement: **1 / 1**
+- scans **1–5** front matter: **5 / 5**
+- Article 1 scans **6–9**: **4 / 4**
+- Article 2 scans **10–15**: **6 / 6**
+- Article 3 scans **16–18**: **3 / 3**
+- Article 4 scans **19–29**: **11 / 11**
+- Article 5 scans **30–32**: **3 / 3**
+- Article 6 scans **33–38**: **6 / 6**
+- Article 7 scans **39–41**: **3 / 3**
+- Article 8 scans **42–44**: **3 / 3**
+- Article 9 scans **45–47**: **3 / 3**
+- Article 10 scans **48–49**: **2 / 2**
+- scan 50 advertisement: **1 / 1**
 - total page records: **50 / 50 verified**
 
-P2 non-regression notes:
+P2 durable non-regression notes:
 
-- every page record separates `# அச்சு உரை` from `## அச்சு அல்லாத / physical-copy marks`;
-- Gemini letters/word choices remain unchanged as the lexical baseline wherever present;
-- only scan-supported punctuation, spacing, paragraph breaks, headings and quotation/verse lineation are restored;
-- all article-opening scans remain `printed_page: null`;
-- scan 20 records only the visible incomplete page-number witness `1`; no `19` is inferred;
-- **scan 19 Gemini omission:** Gemini omitted the entire page body. Under the user's explicit missing-paragraph instruction, scan 19 was recovered directly from the controlling scan and explicitly labelled source-recovered;
-- **scan 32 lexical/order conflict:** Gemini supplies `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...`, while the scan visibly distributes those words differently. Gemini order is retained and the discrepancy is logged;
-- **scan 41 boundary:** Article 7 ends with source-visible `வரலாற்றை வீணாக்கிய`; scan 42 begins the separate Article 8 heading;
-- **scan 48 lexical conflict:** Gemini `ப்ழச்சளை` is retained although direct scan inspection shows a different reading; no silent lexical substitution;
-- **scan 49 lexical/order conflict:** Gemini places `விட்டாய்.` after `உனைத்தின்று!`, while the scan visibly places it earlier after `மறைந்து`; Gemini order is retained and the conflict logged;
-- intrusive non-source OCR artefacts such as scan-31 `ID`, scan-39 `1-48-1-30`, scan-44 `e`, scan-48 `செளே`, scan-50 leading `C`, and standalone page-number intrusions are excluded only when direct scan evidence proves they are not printed body text;
-- scan 49 preserves Article 10 conclusion plus separate printed publication-source note and printer imprint;
-- scan 50 remains a separate advertisement outside Article 10;
-- Article 1 through Article 10 page layers are complete;
-- article assemblies remain **0 / 10** because P3 has not begun;
-- P4/P5 and English translation remain **NOT STARTED**.
+- every page record separates printed text from physical-copy marks;
+- scan 19 whole-page Gemini omission is source-recovered and explicitly labelled;
+- scan 32 Gemini sequence `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...` remains retained despite scan-order disagreement;
+- scan 41 Article 7 ends with `வரலாற்றை வீணாக்கிய`; scan 42 begins Article 8;
+- scan 48 Gemini `ப்ழச்சளை` remains retained despite scan disagreement;
+- scan 49 Gemini places `விட்டாய்.` after `உனைத்தின்று!`; scan order differs, but Gemini order remains retained;
+- non-source OCR artefacts such as `ID`, `1-48-1-30`, `e`, `செளே`, scan-50 leading `C`, and standalone page-number intrusions were excluded only after direct scan evidence;
+- scan 49 publication-source note/imprint and scan 50 advertisement are not Article 10 body.
+
+## P3 article assembly — COMPLETE
+
+All **10 / 10** article reading copies are assembled exclusively from verified page records:
+
+1. `publications/unarchchimaalai/articles/01-unarchchi-maalai.md`
+2. `publications/unarchchimaalai/articles/02-puratchi-valarntha-kathai.md`
+3. `publications/unarchchimaalai/articles/03-pogiran-pogiran.md`
+4. `publications/unarchchimaalai/articles/04-iravanan-nam-pattan.md`
+5. `publications/unarchchimaalai/articles/05-ingalla-irashyavil.md`
+6. `publications/unarchchimaalai/articles/06-3-57-90.md`
+7. `publications/unarchchimaalai/articles/07-30-1-1948.md`
+8. `publications/unarchchimaalai/articles/08-paththiniye-unpol.md`
+9. `publications/unarchchimaalai/articles/09-annai-nagammaiyar.md`
+10. `publications/unarchchimaalai/articles/10-kavithaiyalla-kannirkkadal.md`
+
+P3 non-regression guarantees:
+
+- no lexical decision was reopened during assembly;
+- Gemini-baseline text and all logged P2 conflicts were carried forward unchanged;
+- scan 19 recovered block remains explicitly traceable by page-boundary provenance;
+- source-supported article heading lineation, quotation and verse structure were preserved;
+- every article includes physical scan-boundary comments in source order;
+- scan 49's printed `முரசொலி` / `மாலைமணி` publication-source note and `அன்பன் அச்சகம், சென்னை -1.` imprint are excluded from Article 10 body;
+- scan 50 advertisement is excluded from every article assembly.
+
+Downstream:
+
+- P4 source audit / completeness review: **NOT STARTED**
+- P5 strict visual fidelity: **NOT STARTED**
+- English translation: **NOT STARTED**
 
 Source/progress records:
 
@@ -283,21 +307,23 @@ Source/progress records:
 - `publications/unarchchimaalai/indexes/page-map.md`
 - `publications/unarchchimaalai/indexes/contents.md`
 - `publications/unarchchimaalai/pages/0001-...` through `0050-back-cover-advertisement.md`
+- `publications/unarchchimaalai/articles/01-...` through `10-...`
 
 ---
 
 # Exact next activity
 
-Execute **P3 — article assembly for all 10 articles** from the verified page records.
+Execute **P4 — source audit / completeness review** for Publication 3.
 
-1. create `publications/unarchchimaalai/articles/01-...md` through `10-...md`;
-2. assemble each article only from its mapped verified page records;
-3. preserve the Gemini lexical baseline and all logged P2 conflicts exactly; do not reopen lexical decisions during assembly;
-4. preserve source-supported headings, quotations and verse structure;
-5. include page-boundary provenance/comments sufficient to trace each assembly back to the physical scans;
-6. keep scan-49 publication-source note/imprint outside Article 10 body and keep scan-50 advertisement outside all articles;
-7. update publication README, metadata/source and this handover after P3;
-8. do **not** begin P4/P5 or English translation in the same activity unless the handover is explicitly advanced after P3.
+1. audit each of the ten article assemblies against its mapped verified page records;
+2. confirm every page-body segment appears exactly once and in correct source order;
+3. confirm article start/end boundaries and page-boundary comments;
+4. confirm scan 19 source-recovery provenance and all P2 lexical/order conflicts remain unchanged;
+5. confirm scan-49 publication-source note/imprint remains outside Article 10 body;
+6. confirm scan-50 advertisement remains outside all article assemblies;
+7. record any discrepancy explicitly; do not silently normalize or repair Gemini lexical wording during P4;
+8. update publication README, metadata/source and this handover after P4;
+9. do **not** begin P5 or English translation in the same activity unless the handover is explicitly advanced after P4.
 
 ## Current blockers
 
