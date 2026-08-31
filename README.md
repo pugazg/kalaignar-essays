@@ -127,18 +127,21 @@ Workspace: [`publications/unarchchimaalai/`](publications/unarchchimaalai/)
 - physical scans: **50**
 - source SHA-256: `d2d45de049505218fd612bf71949135e34ecb317ffb5d003dfe59a3a0608461d`
 - source PDF committed: **No**
-- printed contents page: **none observed**
+- printed contents page: **none**
 
-### P0 / current source status
+### Current source status
 
 - P0 source intake / publication identification: **COMPLETE**
-- P1 metadata + complete 50-scan page map / article-boundary mapping: **NEXT**
+- P1 metadata + complete 50-scan page map / article-boundary mapping: **COMPLETE**
+- P2 page-level transcription: **NEXT**
 - page records: **0 / 50**
 - article assemblies: **0 / 10**
 - strict visual-text-fidelity pass: **0 / 50**
 - English translation: **NOT STARTED**
 
-Initial structure: scans **1–5** front matter; scans **6–49** ten article units; scan **50** separate back-cover advertisement. Source/title witness `உணர்ச்சிமாலை` and Article 1 heading witness `உணர்ச்சி மாலை` are intentionally kept distinct.
+P1 inspected and classified all **50 / 50** scans, created the complete page map and editorial article map, and confirmed the ten article spans. Every article-opening scan is visibly unnumbered. On scan 20 only a single `1` is legible at the page-number position; the archive does not reconstruct an unseen digit.
+
+Source/title witness `உணர்ச்சிமாலை` and Article 1 heading witness `உணர்ச்சி மாலை` are intentionally kept distinct. Other source-supported heading witnesses include `போகிறான்;போகிறான்..!` and the two-line Article 10 heading `கவிதையல்ல -` / `கண்ணீர்க்கடல் !`.
 
 Publication-specific user instruction: **retain Gemini's words as the working lexical baseline**. Use the scan to correct indentation, punctuation, spacing, paragraph breaks, headings, quotation/verse layout and analogous non-lexical structure. Do not silently change a Gemini word token; log any scan/Gemini lexical conflict for user decision.
 
@@ -146,9 +149,11 @@ Source records:
 
 - [`README.md`](publications/unarchchimaalai/README.md)
 - [`metadata/source.md`](publications/unarchchimaalai/metadata/source.md)
+- [`indexes/page-map.md`](publications/unarchchimaalai/indexes/page-map.md)
+- [`indexes/contents.md`](publications/unarchchimaalai/indexes/contents.md)
 
 ## Current project state / exact next activity
 
 Publications 1 and 2 are **COMPLETE / FROZEN / RELEASED**. Publication 3 `உணர்ச்சிமாலை` is the active Tamil source publication.
 
-**Exact next activity:** execute **P1 — metadata + complete 50-scan page map / contents-boundary mapping** for Publication 3. Create `indexes/page-map.md` and `indexes/contents.md`, classify every physical scan, record visible printed-page-number behaviour without invention, preserve the ten article boundaries and title/heading witness distinctions, and keep the user-established Gemini lexical-baseline rule unchanged.
+**Exact next activity:** begin **P2 — page-level transcription**, processing **scans 1–18** as the first source-verified batch. Create one page record per physical scan; keep printed text separate from physical-copy marks; use Gemini words as the lexical baseline while restoring only source-supported punctuation, spaces, paragraphing, headings, quotation/verse layout and other non-lexical structure. Any lexical scan/Gemini conflict must be logged rather than silently changed.
