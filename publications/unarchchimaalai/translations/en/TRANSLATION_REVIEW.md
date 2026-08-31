@@ -49,7 +49,7 @@ Permanent guide: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TR
 - T5 body corrections: **0**
 - unresolved blockers: **0**
 
-# Article 3 — `போகிறான்;போகிறான்..!`
+# Article 3 — `போகிறான்;போகிறான்..!` — T0–T5 COMPLETE / VERIFIED
 
 Source authority:
 
@@ -61,7 +61,8 @@ Source authority:
 - English title: **He Goes; He Goes..!**
 - T1 draft blob: `41abd9d0071ee9f3511a0781bd3ab503404dff72`
 - T2 fidelity-reviewed blob: `1df8b58eb79e1193bdad761faf7ab2953af381fd`
-- T3 voice-reviewed / T4-audited candidate: **`b7e887172c7a549112a44caad43c7e7f5815f5d3`**
+- T3 voice-reviewed / T4-audited candidate: `b7e887172c7a549112a44caad43c7e7f5815f5d3`
+- final T5-verified English blob: **`1134185bc21478775419adb3560b110c001d2b75`**
 
 ## T1 — complete close draft — COMPLETE / PASS
 
@@ -81,40 +82,36 @@ T2 confirmed `paaraiyu`, `sel`, `That day`, `water-bubble bhajan`, the Kural lin
 
 ## T3 — Kalaignar voice review — COMPLETE / PASS
 
-T3 preserved every T2 meaning/source decision and made **11 meaning-neutral voice/cadence corrections**.
-
-The review strengthened the opening three-image cadence, obstacle/ideal-path movement, `ghastly dance` line, direct `crushed lead vessel` mockery, scan-18 adversary list, jealous speaker entry, ascetic refusal, `water-bubble bhajan` staging and the final `Yet ... goes—goes—keeps going` movement without changing T2 meaning.
+T3 preserved every T2 meaning/source decision and made **11 meaning-neutral voice/cadence corrections**. The review strengthened the opening three-image cadence, obstacle/ideal-path movement, `ghastly dance` line, direct `crushed lead vessel` mockery, scan-18 adversary list, jealous speaker entry, ascetic refusal, `water-bubble bhajan` staging and the final `Yet ... goes—goes—keeps going` movement without changing T2 meaning.
 
 ## T4 — terminology / quotation / citation / source audit — COMPLETE / PASS
 
 T4 audited the frozen Tamil authority, T3 English candidate, living lexicon and page/source traceability. It required **0 body corrections**.
 
-### T4 audit results
+Audit non-regression passed for metadata, scan/printed-page fields, scan comments 16–18, `paaraiyu`, `sel`, frozen `அன்று` → `That day`, `water-bubble bhajan`, the Kural line and quotation boundary, `Mahatmas`, `selfish bandicoots`, `pallid rascal`, `crushed lead vessel`, the `செல்வாக்கை / செல்லாக்காசு` wordplay, questions/exclamations and final repetition. No external citation, published English quotation, outside lexical repair or scan-alternate Gemini correction was imported.
 
-- metadata title / frozen Tamil SHA / scan field `16-18`: **PASS**;
-- printed-page field `16-17; scan 16 has no visible printed numeral`: **PASS**;
+## T5 — final article verification — COMPLETE / PASS
+
+T5 reconfirmed the complete T1–T4 chain and required **0 body corrections**.
+
+### T5 final checks
+
+- front matter publication/article/title fields: **PASS**;
+- frozen Tamil SHA `92eb1a68d65f65dd71274e5e79f3209e63359d9a`: **PASS**;
+- source scans `16-18`: **PASS**;
+- printed pages `16-17; scan 16 has no visible printed numeral`: **PASS**;
 - scan comments 16, 17 and 18 present and ordered: **PASS**;
-- `பாறையு` → `paaraiyu`: **PASS / source-sensitive / no expansion**;
-- `செல் மொய்த்த` → `swarmed by sel`: **PASS / source-sensitive / no outside repair**;
-- frozen `அன்று வீரமுழக்கம் செய்வான்` → `That day he will roar a warrior's cry`: **PASS**;
-- `நீர்மேற்குமிழி பஜனை` → `water-bubble bhajan`: **PASS / source-bearing**;
-- `இடுக்கண் வருங்கால் நகுக` → `Laugh when adversity comes`: **PASS; no published Kural translation imported**;
-- Kural quotation boundary: **PASS**;
-- `மகாத்மாக்கள்` → `Mahatmas`: **PASS**;
-- `சுயநல பெருச்சாளிகள்` → `selfish bandicoots`: **PASS / insult image retained**;
-- `பசலைப் பயலே` → `pallid rascal`: **PASS**;
-- `ஈயச் செம்பே` → `crushed lead vessel`: **PASS / source-sensitive**;
-- `செல்வாக்கை செல்லாக்காசாக்குகிறேன்` → `I will turn your influence into worthless coin`: **PASS / wordplay retained**;
-- anger speech quotation and scan-18 quotation boundaries: **PASS**;
-- questions and exclamations: **PASS**;
-- final `goes—goes—keeps going`: **PASS / retained**;
-- frozen scan-16 `பாறையு` and scan-17 `தனக்குக்`: **upstream Tamil authority unchanged**;
-- external citation required: **No**;
-- published English quotation imported: **No**;
-- outside lexical repair or scan-alternate Gemini correction imported: **No**;
-- unresolved T4 blockers: **0**.
+- `paaraiyu`, `sel`, frozen `அன்று` → `That day`, `water-bubble bhajan`: **PASS / source-sensitive non-regression**;
+- Kural quotation and all other quotation boundaries: **PASS**;
+- `Mahatmas`, `selfish bandicoots`, `pallid rascal`, `crushed lead vessel`: **PASS**;
+- `செல்வாக்கை / செல்லாக்காசு` wordplay: **PASS**;
+- questions/exclamations and direct speech: **PASS**;
+- final `goes—goes—keeps going`: **PASS**;
+- body changed at T5: **No**;
+- outside/web wording or alternate scan lexical reconstruction imported: **No**;
+- unresolved T5 blockers: **0**.
 
-**T4 RESULT: PASS. Article 3 remains `translation_status: voice-reviewed` until T5.**
+**T5 RESULT: PASS. Article 3 is `translation_status: verified`.**
 
 ## Article review tracker
 
@@ -122,7 +119,7 @@ T4 audited the frozen Tamil authority, T3 English candidate, living lexicon and 
 |---:|---|---|---|---|---|---|---|---|
 | 1 | உணர்ச்சி மாலை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 2 | புரட்சி வளர்ந்த கதை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 3 | போகிறான்;போகிறான்..! | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
+| 3 | போகிறான்;போகிறான்..! | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 4 | இராவணன் நம் பாட்டன் | `not-started` | PASS | — | — | — | — | — |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `not-started` | PASS | — | — | — | — | — |
 | 6 | 3, 57, 90. | `not-started` | PASS | — | — | — | — | — |
@@ -133,4 +130,4 @@ T4 audited the frozen Tamil authority, T3 English candidate, living lexicon and 
 
 ## Exact next activity
 
-Execute **Article 3 T5 — final article verification** against frozen Tamil blob `92eb1a68d65f65dd71274e5e79f3209e63359d9a` and T3/T4 English candidate blob `b7e887172c7a549112a44caad43c7e7f5815f5d3`, scans **16–18**. Reconfirm the complete T1–T4 chain, metadata/source SHA, scan/printed-page fields, source-sensitive terminology, Kural and other quotation boundaries, insults/wordplay, questions/exclamations and final repetition. Mark the article `verified` and record its final English blob only if all checks pass, and **stop before Article 4 T1**.
+Execute **Article 4 T1 — complete close English draft** for `இராவணன் நம் பாட்டன்` from frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7`, scans **19–29**. Translate only from the frozen Tamil assembly, preserve all scan-boundary comments and the frozen scan-19 source-recovered text/provenance, establish only terminology actually encountered, create `04-iravanan-nam-pattan.md` with `translation_status: draft`, and **stop before Article 4 T2**.
