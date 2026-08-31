@@ -178,7 +178,7 @@ Do not reopen Publication 2 for stylistic polishing unless a genuine source-supp
 
 ---
 
-# Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE ACTIVE / P3 COMPLETE
+# Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE ACTIVE / P4 COMPLETE
 
 Workspace: `publications/unarchchimaalai/`  
 Supplied source: `TVA_BOK_0063821_உணர்ச்சிமாலை.pdf`
@@ -294,9 +294,36 @@ P3 non-regression guarantees:
 - scan 49's printed `முரசொலி` / `மாலைமணி` publication-source note and `அன்பன் அச்சகம், சென்னை -1.` imprint are excluded from Article 10 body;
 - scan 50 advertisement is excluded from every article assembly.
 
+## P4 source audit / completeness review — PASS
+
+Detailed ledger: `publications/unarchchimaalai/audit.md`.
+
+P4 was executed against live `main` after P3 and audited all ten assemblies against the verified page layer.
+
+Results:
+
+- article assemblies: **10 / 10 PASS**;
+- every mapped article-body page segment appears exactly once: **PASS**;
+- page-body source order: **PASS**;
+- scan-boundary comments complete and ordered: **PASS**;
+- article start/end boundaries: **PASS**;
+- scan 19 source-recovery provenance retained: **PASS**;
+- scan 32 Gemini lexical/order conflict retained unchanged: **PASS**;
+- Article 7 terminal `வரலாற்றை வீணாக்கிய` retained at scan 41: **PASS**;
+- scan 48 Gemini `ப்ழச்சளை` retained under the user baseline: **PASS**;
+- scan 49 Gemini placement `ஓய்ந்தனவா உனைத்தின்று! விட்டாய்.` retained under the user baseline: **PASS**;
+- scan-49 publication-source note/imprint remains outside Article 10 body: **PASS**;
+- scan-50 `மணமகள்` advertisement remains outside every article: **PASS**;
+- missing mapped article-body segments: **0**;
+- duplicate mapped article-body segments: **0**;
+- out-of-order mapped article-body segments: **0**;
+- P4 Tamil body changes: **0**;
+- unresolved P4 blockers: **0**.
+
+P4 closes the source-completeness / assembly-consistency gate only. It does not replace the separate P5 strict visual scan recheck.
+
 Downstream:
 
-- P4 source audit / completeness review: **NOT STARTED**
 - P5 strict visual fidelity: **NOT STARTED**
 - English translation: **NOT STARTED**
 
@@ -306,6 +333,7 @@ Source/progress records:
 - `publications/unarchchimaalai/metadata/source.md`
 - `publications/unarchchimaalai/indexes/page-map.md`
 - `publications/unarchchimaalai/indexes/contents.md`
+- `publications/unarchchimaalai/audit.md`
 - `publications/unarchchimaalai/pages/0001-...` through `0050-back-cover-advertisement.md`
 - `publications/unarchchimaalai/articles/01-...` through `10-...`
 
@@ -313,17 +341,17 @@ Source/progress records:
 
 # Exact next activity
 
-Execute **P4 — source audit / completeness review** for Publication 3.
+Execute **P5 — strict visual word/punctuation fidelity pass** for Publication 3 across **all 50 physical scans**.
 
-1. audit each of the ten article assemblies against its mapped verified page records;
-2. confirm every page-body segment appears exactly once and in correct source order;
-3. confirm article start/end boundaries and page-boundary comments;
-4. confirm scan 19 source-recovery provenance and all P2 lexical/order conflicts remain unchanged;
-5. confirm scan-49 publication-source note/imprint remains outside Article 10 body;
-6. confirm scan-50 advertisement remains outside all article assemblies;
-7. record any discrepancy explicitly; do not silently normalize or repair Gemini lexical wording during P4;
-8. update publication README, metadata/source and this handover after P4;
-9. do **not** begin P5 or English translation in the same activity unless the handover is explicitly advanced after P4.
+1. recheck cover, front matter, every article page, scan-49 publication-close matter and scan-50 advertisement against the controlling scan;
+2. compare every visible word boundary, punctuation mark, quotation mark, heading, date, number, paragraph continuation and section/source boundary;
+3. preserve independent source witnesses rather than normalising them;
+4. continue to honour the publication-specific user instruction: Gemini word tokens remain the working lexical baseline wherever supplied;
+5. do **not** silently replace a Gemini word when scan inspection appears to disagree; retain/log known conflicts and record any new lexical conflict for user decision;
+6. propagate only user-authorised/source-supported structural corrections to page records and dependent article assemblies;
+7. create the publication-level strict-fidelity review record, and recheck all affected assemblies after any permitted correction;
+8. update publication README, source metadata, audit/completion records and this handover after P5;
+9. do **not** begin English translation until P5 is explicitly closed.
 
 ## Current blockers
 
