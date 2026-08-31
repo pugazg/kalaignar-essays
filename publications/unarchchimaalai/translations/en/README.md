@@ -10,7 +10,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - Tamil source/fidelity prerequisite: **PASSED / FROZEN**
 - Tamil articles: **10 / 10 strict-rechecked**
 - T0 source prerequisite/setup: **COMPLETE / PASS**
-- T1 close English drafts: **2 / 10**
+- T1 close English drafts: **3 / 10**
 - T2 fidelity-reviewed: **2 / 10**
 - T3 voice-reviewed: **2 / 10**
 - T4 audited: **2 / 10**
@@ -20,7 +20,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - English translation: **IN PROGRESS**
 - unresolved translation blockers: **0**
 
-Articles 1 and 2 have completed T0–T5 and are individually `verified`.
+Articles 1 and 2 have completed T0–T5 and are individually `verified`. Article 3 has completed T1 and is `draft`.
 
 ## Frozen Tamil translation authorities
 
@@ -43,7 +43,7 @@ Articles 1 and 2 have completed T0–T5 and are individually `verified`.
 |---:|---|---|---|---|---|---|---|---|---|
 | 1 | உணர்ச்சி மாலை | [`01-unarchchi-maalai.md`](01-unarchchi-maalai.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 2 | புரட்சி வளர்ந்த கதை | [`02-puratchi-valarntha-kathai.md`](02-puratchi-valarntha-kathai.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 3 | போகிறான்;போகிறான்..! | `03-pogiran-pogiran.md` | `not-started` | PASS | — | — | — | — | — |
+| 3 | போகிறான்;போகிறான்..! | [`03-pogiran-pogiran.md`](03-pogiran-pogiran.md) | `draft` | PASS | **PASS** | — | — | — | — |
 | 4 | இராவணன் நம் பாட்டன் | `04-iravanan-nam-pattan.md` | `not-started` | PASS | — | — | — | — | — |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `05-ingalla-irashyavil.md` | `not-started` | PASS | — | — | — | — | — |
 | 6 | 3, 57, 90. | `06-3-57-90.md` | `not-started` | PASS | — | — | — | — | — |
@@ -78,9 +78,20 @@ Articles 1 and 2 have completed T0–T5 and are individually `verified`.
 - T5 body corrections: **0**
 - scan comments 10–15 and scan 11→12 / 13→14 continuations: **PASS**
 - terminology, quotation, dates/numbers and source-sensitive forms: **PASS**
-- frozen Tamil changed: **No**
-- outside/web historical reconstruction imported: **No**
 - blockers: **0**
+
+## Article 3 T1 record
+
+- Tamil title: `போகிறான்;போகிறான்..!`
+- provisional English title: **He Goes; He Goes..!**
+- frozen Tamil authority: `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
+- source scans: **16–18**
+- T1 draft blob: **`41abd9d0071ee9f3511a0781bd3ab503404dff72`**
+- scan comments 16–18: **retained / ordered**
+- paragraph coverage: **complete**
+- outside/web wording imported: **No**
+- source-sensitive T1 forms queued for T2: `paaraiyu`, `crushed lead vessel`, `sel`, `That day`, `water-bubble bhajan`
+- T1 blockers: **0**
 
 ## Translation authority / special source rule
 
@@ -88,4 +99,4 @@ English authority is the frozen Tamil article assembly, not OCR, memory, web wor
 
 ## Exact next activity
 
-Execute **Article 3 T1 — complete close English draft for `போகிறான்;போகிறான்..!`** from frozen Tamil blob `92eb1a68d65f65dd71274e5e79f3209e63359d9a`, covering scans **16–18**. Preserve every paragraph, source-boundary comment, question, exclamation, repetition and source-sensitive wording; create `03-pogiran-pogiran.md` with `translation_status: draft`, update lexicon/review/tracker/plan/handover, and **stop before Article 3 T2**.
+Execute **Article 3 T2 — bilingual fidelity review** for `போகிறான்;போகிறான்..!` / **He Goes; He Goes..!** against frozen Tamil blob `92eb1a68d65f65dd71274e5e79f3209e63359d9a` and T1 English blob `41abd9d0071ee9f3511a0781bd3ab503404dff72`, scans **16–18**. Review every paragraph and clause, especially the provisional/source-sensitive treatments `paaraiyu`, `crushed lead vessel`, `sel`, `That day`, `water-bubble bhajan`, the Kural quotation, `Mahatmas`, the `செல்வாக்கை / செல்லாக்காசு` wordplay, and the final `போகிறான் -போகிறான்-போய்க் கொண்டே இருக்கிறான்` repetition. Make only fidelity corrections, advance to `fidelity-reviewed` only if T2 passes, and **stop before Article 3 T3**.
