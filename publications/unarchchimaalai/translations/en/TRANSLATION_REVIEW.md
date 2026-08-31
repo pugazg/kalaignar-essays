@@ -7,7 +7,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 ## Review rule
 
-A first draft is never automatically verified. Each article must pass T0 source confirmation, T1 close draft, T2 bilingual fidelity review, T3 Kalaignar-voice review, T4 terminology/quotation/source audit and T5 final verification. Only after 10 / 10 reach T5 may publication-level English consistency/release gates begin.
+Each article must pass T0 source confirmation, T1 close draft, T2 bilingual fidelity review, T3 Kalaignar-voice review, T4 terminology/quotation/source audit and T5 final verification. Only after 10 / 10 reach T5 may publication-level English consistency/release gates begin.
 
 ## T0 source record — COMPLETE / PASS
 
@@ -37,9 +37,7 @@ If any listed Tamil blob changes, the affected article's English gates reopen.
 
 ## Publication-specific frozen-source provenance
 
-For this publication the user-established lexical rule remains controlling upstream: Gemini word tokens were retained wherever supplied, with scan/Gemini disagreements documented rather than silently normalised. English therefore translates the frozen Tamil assembly, not an alternate scan reading.
-
-The full 18-item P5 conflict ledger remains in `../../VISUAL_TEXT_FIDELITY_REVIEW.md`. Additional durable source-sensitive items include scan 32's frozen Gemini word/order sequence, scan 48 `ப்ழச்சளை`, scan 49 placement of `விட்டாய்.`, Article 4 scan-19 source recovery, and Article 8 scan-42 `பதில் இல்லை.` recovery.
+For this publication, the user-established Gemini lexical-baseline rule remains controlling upstream. English translates the frozen Tamil assemblies, not alternate scan readings. The full 18-item P5 conflict ledger remains in `../../VISUAL_TEXT_FIDELITY_REVIEW.md`; source-recovered frozen material includes Article 4 scan 19 and Article 8 scan 42 `பதில் இல்லை.`.
 
 ---
 
@@ -55,54 +53,67 @@ Source authority:
 
 ## T1 — complete close draft — COMPLETE / PASS
 
-T1 created the complete paragraph-by-paragraph draft, retained scan comments 6–9 and quoted lineation, imported no outside translation, and left `translation_status: draft` pending bilingual review.
+T1 created the complete paragraph-by-paragraph draft, retained scan comments 6–9 and quoted lineation, imported no outside translation, and left `translation_status: draft` pending review.
 
 ## T2 — bilingual fidelity review — COMPLETE / PASS
 
-T2 re-read the frozen Tamil and English clause by clause across all four source scans. Checks covered every prose paragraph, quoted line, negative, comparison, name, number, repeated phrase, rhetorical turn and scan-boundary comment.
+T2 re-read the frozen Tamil and English clause by clause across all four source scans.
 
 ### T2 fidelity corrections made
 
 1. `the lightning's strike` → **`the lightning's flash`** for `மின்னலின் வீச்சு`.
-2. `the breeze's lilting song` → **`the breeze's themmangu`** for frozen `தென்றலின் தெம்மாங்கு`; T2 removed the explanatory gloss and retained the source-bearing term.
-3. `Here Tamil caresses us in the gait of spring!` → **`Here Tamil coos in the gait of spring!`**; the Tamil has no explicit object corresponding to `us`.
-4. First quoted verse `granted so that delight may spring for us` → **`granted to bring us delight`**, removing an added `spring` image not present in the frozen wording.
-5. The Rama/Kali sentence lost T1's invented quotation marks; the frozen Tamil presents it as Kalaignar's prose: **`Poetry only if one sings of Rama—a poet only if one receives Kali's boon—Bharathidasan overturned that condition headlong.`**
-6. `writings that do not flag` → **`writings that do not tire`** for frozen `இளைக் காத எழுத்துக்கள்`; this remains a contextual translation of the frozen phrase, not a Tamil correction.
-7. The `வெள்ளம்போல் தமிழர்...` stanza was revised line-by-line to: **`Like a flood, the Tamils cry out—a valour-filled / multitude, one in heart! Though seen as many in body, / they say, ‘Do not draw near with deceit’; / on what day shall we rejoice to see the world tremble?`** This removes T1's extra `when` framing and follows the frozen syntax more closely.
-8. `ways to let the poet circulate fully through Tamilakam` → **`ways of letting the poet move freely through Tamilakam`**, closer to `உலவ விடும்`.
-9. `After all, he is one who will not die!` → **`After all, he has become deathless!`**, correcting the temporal/grammatical force of `சாகாதவராயிற்றே`.
-10. `Thanjavur district is a grove where Tamils move about` → **`Thanjavur district is a grove in which Tamils roam`**, closer to `உலவும் சோலை`.
-11. `They must spread fragrance through Tamil life` → **`They must spread fragrance through the lives of Tamils`**, restoring the human referent in `தமிழர் வாழ்விலே`.
+2. `the breeze's lilting song` → **`the breeze's themmangu`** for frozen `தென்றலின் தெம்மாங்கு`.
+3. `Here Tamil caresses us in the gait of spring!` → **`Here Tamil coos in the gait of spring!`**, removing an added object.
+4. `granted so that delight may spring for us` → **`granted to bring us delight`**, removing an added image.
+5. Removed T1's invented quotation marks around the Rama/Kali prose.
+6. `writings that do not flag` → **`writings that do not tire`** for frozen `இளைக் காத எழுத்துக்கள்`.
+7. Revised the `வெள்ளம்போல் தமிழர்...` stanza line-by-line for closer frozen-Tamil syntax.
+8. `ways to let the poet circulate fully through Tamilakam` → **`ways of letting the poet move freely through Tamilakam`**.
+9. `he is one who will not die` → **`he has become deathless`** for `சாகாதவராயிற்றே`.
+10. `a grove where Tamils move about` → **`a grove in which Tamils roam`**.
+11. `spread fragrance through Tamil life` → **`spread fragrance through the lives of Tamils`**.
 
-### T2 provisional-choice resolutions
+T2 confirmed the title **Garland of Emotion**, retained `Aththaan`, retained source-sensitive `Tiruvitaththar`, and resolved frozen `இளைக் காத எழுத்துக்கள்` as `writings that do not tire` for the English layer.
 
-- **Title `Garland of Emotion`: retained / T2-confirmed.** It preserves the compact metaphor without adding interpretation.
-- **`Aththaan`: retained.** T2 found no support in the frozen article for a specific English kinship or relationship gloss; transliteration is safer.
-- **`திருவிடத்தார்` → `Tiruvitaththar`: retained.** The frozen token is source-sensitive/unclear; transliteration avoids silently substituting a different Tamil word or identity.
-- **`இளைக் காத எழுத்துக்கள்`: resolved for T2 as `writings that do not tire`.** Tamil remains untouched; the English is explicitly contextual.
-- **`வெள்ளம்போல் தமிழர்...` stanza: revised and T2-checked line by line.**
+T2 non-regression: frozen Tamil unchanged; scan comments 6–9 ordered; verse lineation preserved; outside/web wording imported: **No**; unresolved blockers: **0**.
 
-### T2 non-regression checks
+**T2 RESULT: PASS.** Article 1 advanced to `fidelity-reviewed`.
 
-- Tamil source blob unchanged: **PASS**;
-- English `source_tamil_blob_sha` matches frozen authority: **PASS**;
-- scan comments 6, 7, 8, 9 present and ordered: **PASS**;
-- crow quotation still crosses scan 7/8 at the correct source boundary: **PASS**;
-- verse/quoted line divisions retained: **PASS**;
-- omissions found after T2 corrections: **0**;
-- unsupported added claims remaining: **0 identified**;
-- dates/numbers/referents altered: **0**;
+## T3 — Kalaignar voice review — COMPLETE / PASS
+
+T3 re-read the fidelity-reviewed English against the same frozen Tamil authority. It preserved every T2 meaning/source decision and changed only cadence/directness where the T2 English sounded flatter or more explanatory than Kalaignar's rhetoric.
+
+### T3 meaning-neutral voice/cadence corrections
+
+1. `All these together are Bharathidasan's poetry.` → **`All this together—that is Bharathidasan's poetry.`** — restores the source's emphatic summing-up.
+2. `Poetry only if one sings of Rama—a poet only if one receives Kali's boon—Bharathidasan overturned that condition headlong.` → **`Only if one sings of Rama—poetry; only if one receives Kali's boon—a poet. Bharathidasan turned that condition upside down.`** — keeps the same meaning while sharpening the parallel attack.
+3. `To bring that day swiftly into being—that is the gratitude, the duty, the everything we show him!` → **`To bring that day about swiftly—that is our gratitude to him—our duty—everything!`** — preserves the source's accumulative cadence.
+4. `move freely through Tamilakam` → **`roam freely through Tamilakam`** — restores the movement image in `உலவ` without changing the T2 meaning.
+5. quoted `commotion` → **`ruckus`** for `ரகளை` — retains the mocking, colloquial force rather than formalising it.
+6. `was subjected to that opposition ... fell again` → **`faced that opposition ... once again fell`** — tighter cadence, same source relation.
+7. `Once every year, in district capitals, let there be a Bharathidasan festival for three or four days.` → **`Once every year, in the district capitals—a Bharathidasan festival for three or four days.`** — restores the source's compressed, rally-like fragment.
+
+### T3 non-regression checks
+
+- title **Garland of Emotion** unchanged: **PASS**;
+- `Bharathidasan`, `Tamils`, `Tamil Nadu`, `Tamilakam`: unchanged: **PASS**;
+- `themmangu`, `Aththaan`, `Tiruvitaththar`, `writings that do not tire`: unchanged: **PASS**;
+- T2 `வெள்ளம்போல் தமிழர்...` stanza wording/lineation preserved: **PASS**;
+- commands / `Let us...` sequence preserved: **PASS**;
+- questions, exclamations and repeated contrasts preserved: **PASS**;
+- scan comments 6–9 remain complete and ordered: **PASS**;
+- crow quotation still crosses scan 7/8 at the recorded boundary: **PASS**;
+- Tamil source changed during T3: **No**;
 - outside/web wording imported: **No**;
-- unresolved T2 blockers: **0**.
+- unresolved T3 blockers: **0**.
 
-**T2 RESULT: PASS.** Article 1 is now `translation_status: fidelity-reviewed`.
+**T3 RESULT: PASS.** Article 1 is now `translation_status: voice-reviewed`.
 
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 | Current blockers |
 |---:|---|---|---|---|---|---|---|---|---|
-| 1 | உணர்ச்சி மாலை | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — | 0 |
+| 1 | உணர்ச்சி மாலை | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — | 0 |
 | 2 | புரட்சி வளர்ந்த கதை | `not-started` | PASS | — | — | — | — | — | 0 |
 | 3 | போகிறான்;போகிறான்..! | `not-started` | PASS | — | — | — | — | — | — | 0 |
 | 4 | இராவணன் நம் பாட்டன் | `not-started` | PASS | — | — | — | — | — | — | 0 |
@@ -115,4 +126,4 @@ T2 re-read the frozen Tamil and English clause by clause across all four source 
 
 ## Exact next activity
 
-Execute **Article 1 T3 — Kalaignar voice review**. Re-read the fidelity-reviewed English against the frozen Tamil and test cadence, directness, rhetorical force, repetition, commands, exclamations, imagery, polemical bite and quotation voice. Preserve every T2 meaning/source decision. Make only meaning-neutral voice/cadence corrections. Advance to `voice-reviewed` only if T3 passes, and stop before T4.
+Execute **Article 1 T4 — terminology / quotation / citation / source audit**. Audit the unchanged frozen Tamil authority against the T3 English for terminology consistency, proper names/referents, quotations, source-bearing words, source-sensitive choices, scan comments and source-boundary traceability. T4 is an audit gate; keep article metadata `voice-reviewed` until T5 unless the permanent guide explicitly requires otherwise. Stop before T5.
