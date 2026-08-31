@@ -60,7 +60,8 @@ Source authority:
 - English article: [`03-pogiran-pogiran.md`](03-pogiran-pogiran.md)
 - English title: **He Goes; He Goes..!**
 - T1 draft blob: `41abd9d0071ee9f3511a0781bd3ab503404dff72`
-- T2 fidelity-reviewed blob: **`1df8b58eb79e1193bdad761faf7ab2953af381fd`**
+- T2 fidelity-reviewed blob: `1df8b58eb79e1193bdad761faf7ab2953af381fd`
+- T3 voice-reviewed blob: **`b7e887172c7a549112a44caad43c7e7f5815f5d3`**
 
 ## T1 — complete close draft — COMPLETE / PASS
 
@@ -70,43 +71,50 @@ T1 translated every frozen Tamil paragraph across scans 16–18 and preserved al
 
 T2 compared every Tamil paragraph/clause against the T1 draft and made **5 fidelity corrections**:
 
-1. `longs to dive for pearls` → **`longs to gather pearls`** for `முத்தெடுக்க நினைக்கும்` so no extra diving action is inserted;
+1. `longs to dive for pearls` → **`longs to gather pearls`** for `முத்தெடுக்க நினைக்கும்`;
 2. `public work` → **`public-welfare work`** for `பொதுநலப் பணி`;
-3. `pallid wretch` → **`pallid rascal`** for the insult `பசலைப் பயலே`;
+3. `pallid wretch` → **`pallid rascal`** for `பசலைப் பயலே`;
 4. `terraced mansion` → **`storeyed mansion`** for `மாட மாளிகை`;
-5. `the blind` → **`those with their eyes shut`** for `கண்மூடிகள்`, avoiding an added disability reading.
+5. `the blind` → **`those with their eyes shut`** for `கண்மூடிகள்`.
 
-### T2 source-sensitive decisions
+T2 confirmed `paaraiyu`, `sel`, `That day`, `water-bubble bhajan`, the Kural line, `Mahatmas`, `selfish bandicoots`, `crushed lead vessel`, the `செல்வாக்கை / செல்லாக்காசு` wordplay and final repetition without outside reconstruction.
 
-- title `போகிறான்;போகிறான்..!` → **He Goes; He Goes..!**: retained;
-- frozen scan-16 `பாறையு` → **`paaraiyu`**: retained source-sensitively; no silent expansion;
-- `இடுக்கண் வருங்கால் நகுக` → **“Laugh when adversity comes,”**: retained; no published Kural translation imported;
-- `ஈயச் செம்பே` → **`crushed lead vessel`**: retained provisionally as the frozen-source rendering;
-- `செல் மொய்த்த` → **`swarmed by sel`**: retained source-sensitively because frozen `செல்` is not repaired from outside context;
-- `மகாத்மாக்கள்` → **Mahatmas**: retained;
-- `சுயநல பெருச்சாளிகள்` → **selfish bandicoots**: retained; insult/image preserved;
-- `செல்வாக்கை செல்லாக்காசாக்குகிறேன்` → **I will turn your influence into worthless coin**: retained to carry the wordplay;
-- frozen `அன்று வீரமுழக்கம் செய்வான்` → **That day he will roar a warrior's cry**: retained; `அன்று` not normalised;
-- `நீர்மேற்குமிழி பஜனை` → **water-bubble bhajan**: retained source-bearing;
-- final `போகிறான் -போகிறான்-போய்க் கொண்டே இருக்கிறான்` → **goes—goes—keeps going**: retained.
+## T3 — Kalaignar voice review — COMPLETE / PASS
 
-### T2 completeness / non-regression
+T3 preserved every T2 meaning/source decision and made **11 meaning-neutral voice/cadence corrections**.
 
-- every Tamil paragraph/clause represented: **PASS**
-- no added claim after T2 corrections: **PASS**
-- scan comments 16–18: **PASS / ordered**
-- scan 16 no printed numeral, scan 17 printed 16, scan 18 printed 17: **PASS**
-- questions/exclamations: **PASS**
-- quoted anger speech and insult register: **PASS**
-- Kural quotation boundary: **PASS**
-- `செல்வாக்கை / செல்லாக்காசு` wordplay: **PASS**
-- final repeated motion: **PASS**
-- frozen scan-16 `பாறையு` and scan-17 `தனக்குக்`: **upstream Tamil authority unchanged**
-- frozen Tamil changed: **No**
-- outside/web translation or alternate scan lexical reconstruction imported: **No**
-- unresolved T2 blockers: **0**
+The review strengthened:
 
-**T2 RESULT: PASS. Article 3 advanced to `translation_status: fidelity-reviewed`.**
+1. the thorn/flower opening by removing stiff repetition while keeping the maiden's action;
+2. the wave/pearl sentence with a tighter `Though ... still ...` cadence;
+3. the rock/mine sentence with the same parallel drive;
+4. the obstacle/ideal-path sentence by making the subject more direct;
+5. the `ghastly dance` line without changing its image;
+6. the `mountains of flesh` / `crushed lead vessel` passage by restoring the insult as direct mockery;
+7. the scan-18 adversary list by driving it into the concluding clause with a dash;
+8. the jealous speaker's entry by placing the roar before the quotation;
+9. the ascetic/temptation refusal by tightening the final clause;
+10. `water-bubble bhajan` from `put on display` to `staged` without changing the source-bearing term;
+11. the final danger sequence to `destruction comes at him ... Yet ... goes—goes—keeps going`, preserving the repeated motion and argumentative force.
+
+### T3 non-regression
+
+- title **He Goes; He Goes..!**: unchanged;
+- all scan comments 16–18: **PASS / ordered**;
+- `paaraiyu`: **unchanged / source-sensitive**;
+- `sel`: **unchanged / source-sensitive**;
+- frozen `அன்று` → `That day`: **unchanged**;
+- `water-bubble bhajan`: **unchanged as source-bearing term**;
+- Kural line `Laugh when adversity comes`: **unchanged**;
+- `Mahatmas`, `selfish bandicoots`, `pallid rascal`, `crushed lead vessel`: **unchanged in meaning**;
+- `செல்வாக்கை / செல்லாக்காசு` wordplay: **unchanged**;
+- questions/exclamations and quoted anger speech: **PASS**;
+- final `goes—goes—keeps going`: **PASS / retained**;
+- frozen Tamil changed: **No**;
+- outside/web wording or alternate scan lexical reconstruction imported: **No**;
+- unresolved T3 blockers: **0**.
+
+**T3 RESULT: PASS. Article 3 advanced to `translation_status: voice-reviewed`.**
 
 ## Article review tracker
 
@@ -114,7 +122,7 @@ T2 compared every Tamil paragraph/clause against the T1 draft and made **5 fidel
 |---:|---|---|---|---|---|---|---|---|
 | 1 | உணர்ச்சி மாலை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 2 | புரட்சி வளர்ந்த கதை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 3 | போகிறான்;போகிறான்..! | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
+| 3 | போகிறான்;போகிறான்..! | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
 | 4 | இராவணன் நம் பாட்டன் | `not-started` | PASS | — | — | — | — | — |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `not-started` | PASS | — | — | — | — | — |
 | 6 | 3, 57, 90. | `not-started` | PASS | — | — | — | — | — |
@@ -125,4 +133,4 @@ T2 compared every Tamil paragraph/clause against the T1 draft and made **5 fidel
 
 ## Exact next activity
 
-Execute **Article 3 T3 — Kalaignar voice review** against frozen Tamil blob `92eb1a68d65f65dd71274e5e79f3209e63359d9a` and T2 English blob `1df8b58eb79e1193bdad761faf7ab2953af381fd`, scans **16–18**. Preserve every T2 meaning/source decision; review cadence, directness, mockery, insult force, accumulative lists, questions/exclamations and the closing repetition; make only meaning-neutral voice/cadence corrections; advance to `voice-reviewed` only if T3 passes; and **stop before T4**.
+Execute **Article 3 T4 — terminology / quotation / citation / source audit** against frozen Tamil blob `92eb1a68d65f65dd71274e5e79f3209e63359d9a` and T3 English blob `b7e887172c7a549112a44caad43c7e7f5815f5d3`, scans **16–18**. Audit the lexicon decisions, Kural quotation, source-sensitive forms, quotation boundaries, scan comments/printed-page fields, insult/wordplay decisions and final repetition. Keep metadata `voice-reviewed` unless a genuine T4 body defect is found, and **stop before T5**.
