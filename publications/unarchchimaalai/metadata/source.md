@@ -12,12 +12,15 @@
 - Controlling source: supplied scanned PDF
 - Publication type: **10-article collection / multi-article publication**
 - P0: **COMPLETE**
-- P1: **NOT STARTED / NEXT**
-- P2 page-level transcription: **NOT STARTED**
+- P1: **COMPLETE**
+- P2 page-level transcription: **NOT STARTED / NEXT**
 - P3 article assembly: **NOT STARTED — 0 / 10**
 - P4 source audit / completeness review: **NOT STARTED**
 - P5 strict visual text-fidelity pass: **NOT STARTED**
 - English translation: **NOT STARTED**
+
+Page map: [`../indexes/page-map.md`](../indexes/page-map.md)  
+Article/content map: [`../indexes/contents.md`](../indexes/contents.md)
 
 ## Title / authorship witnesses
 
@@ -48,7 +51,7 @@ Scan 4:
 Scan 49:
 
 - article 10 concludes on this scan
-- a parenthetical source note states that the pieces appeared in `முரசொலி` / `மாலைமணி`; exact punctuation and spacing must be fixed only from the scan during P1/P2
+- a parenthetical source note states that the pieces appeared in `முரசொலி` / `மாலைமணி`
 - printer/imprint line: `அன்பன் அச்சகம், சென்னை -1.`
 
 Scan 50:
@@ -56,27 +59,51 @@ Scan 50:
 - separate illustrated back-cover film advertisement for `மணமகள்`
 - not part of Article 10 body
 
-## Publication / article boundaries observed at P0
+## Publication / article boundaries — P1 verified
 
 - scans **1–5**: front matter
-- scans **6–49**: ten article units
+- scans **6–9**: Article 1 — `உணர்ச்சி மாலை`
+- scans **10–15**: Article 2 — `புரட்சி வளர்ந்த கதை`
+- scans **16–18**: Article 3 — `போகிறான்;போகிறான்..!`
+- scans **19–29**: Article 4 — `இராவணன் நம் பாட்டன்`
+- scans **30–32**: Article 5 — `இங்கல்ல! இரஷ்யாவில்`
+- scans **33–38**: Article 6 — `3, 57, 90.`
+- scans **39–41**: Article 7 — `30-1-1948`
+- scans **42–44**: Article 8 — `பத்தினியே உன்போல்...!`
+- scans **45–47**: Article 9 — `அன்னை நாகம்மையார்!`
+- scans **48–49**: Article 10 — `கவிதையல்ல - கண்ணீர்க்கடல் !`
 - scan **50**: separate back-cover advertisement
-- printed contents page: **none observed**
+- printed contents page: **none present in the supplied scan**
 
-Observed article-heading starts / spans:
+The article map in `indexes/contents.md` is therefore an editorial scan-derived index, not a transcription of a printed contents page.
 
-1. `உணர்ச்சி மாலை` — scans **6–9**
-2. `புரட்சி வளர்ந்த கதை` — scans **10–15**
-3. `போகிறான்;போகிறான்..!` — scans **16–18**
-4. `இராவணன் நம் பாட்டன்` — scans **19–29**
-5. `இங்கல்ல! இரஷ்யாவில்` — scans **30–32**
-6. `3, 57, 90.` — scans **33–38**
-7. `30-1-1948` — scans **39–41**
-8. `பத்தினியே உன்போல்...!` — scans **42–44**
-9. `அன்னை நாகம்மையார்!` — scans **45–47**
-10. `கவிதையல்ல - கண்ணீர்க்கடல்!` — scans **48–49**
+## Printed-page-number behaviour — P1 verified
 
-These are intake-level boundary observations. P1 must separately record every physical scan and visible printed-page-number behaviour.
+Article-opening scans have **no visible printed page numeral** in this supplied copy. Visible continuation-page numerals are preserved exactly rather than back-filling the implied missing start numbers.
+
+Visible sequence by article:
+
+- Article 1: scan 6 unnumbered; scans 7–9 show **6–8**
+- Article 2: scan 10 unnumbered; scans 11–15 show **10–14**
+- Article 3: scan 16 unnumbered; scans 17–18 show **16–17**
+- Article 4: scan 19 unnumbered; **scan 20 shows only a single visible `1` at the page-number position**; scans 21–29 show **20–28**
+- Article 5: scan 30 unnumbered; scans 31–32 show **30–31**
+- Article 6: scan 33 unnumbered; scans 34–38 show **33–37**
+- Article 7: scan 39 unnumbered; scans 40–41 show **39–40**
+- Article 8: scan 42 unnumbered; scans 43–44 show **42–43**
+- Article 9: scan 45 unnumbered; scans 46–47 show **45–46**
+- Article 10: scan 48 unnumbered; scan 49 shows **48**
+
+For scan 20, surrounding sequence may suggest a longer numeral, but no unseen digit is reconstructed. The page map records only the visible `1`.
+
+## Heading-format witnesses fixed at P1
+
+- Article 3 heading: `போகிறான்;போகிறான்..!` — no displayed space after the semicolon.
+- Article 4 heading is physically two lines: `இராவணன்` / `நம் பாட்டன்`.
+- Article 8 heading is physically two lines: `பத்தினியே` / `உன்போல்...!`.
+- Article 10 heading is physically two lines: `கவிதையல்ல -` / `கண்ணீர்க்கடல் !`; the space before the final exclamation mark is source-visible in the heading witness.
+
+These heading witnesses must remain distinct from any differently spaced OCR/body occurrence.
 
 ## Scan / physical-copy observations
 
@@ -85,6 +112,9 @@ These are intake-level boundary observations. P1 must separately record every ph
 - library/accession stamps and handwriting occur prominently on early front-matter scans
 - scan 1 contains illustrated cover art
 - scan 5 is effectively blank except for bleed-through / paper marks
+- scan 6 contains a prominent library stamp above the Article 1 heading
+- scan 29 ends Article 4 with a printed ornamental device
+- scan 49 is a mixed-role page: Article 10 conclusion plus publication-source note and printer imprint below the article body
 - scan 50 is an illustrated advertisement and must remain separate from article body
 
 ## Publication-specific user instruction — lexical baseline
@@ -98,20 +128,24 @@ The user explicitly supplied a Gemini OCR transcription and instructed that its 
 
 This is a publication-specific user-directed workflow rule. It does not turn OCR into evidence for physical-copy marks or publication structure; the scan still controls those layers.
 
-## P0 result
+## P1 result
 
-P0 source intake / publication identification is **COMPLETE**:
+P1 metadata + complete page / boundary mapping is **COMPLETE**:
 
-- source identity/checksum/file size/page count registered;
-- edition/publisher/title/author witnesses registered conservatively;
-- publication identified as a ten-article collection;
-- no duplicate existing publication tree was found on live `main` before intake;
-- initial article boundaries and front/back matter boundaries were identified directly from the scan;
-- source PDF remains outside GitHub.
+- all **50 / 50** physical scans inspected and classified;
+- front matter / article / closing-imprint / advertisement boundaries recorded;
+- all ten article-heading starts and scan spans rechecked;
+- no printed contents page confirmed;
+- `indexes/page-map.md` created with every physical scan;
+- `indexes/contents.md` created as a clearly labelled editorial scan-derived article map;
+- visible printed-page-number behaviour recorded without inventing omitted numerals;
+- scan-20 incomplete page-number witness preserved as visible `1` only;
+- publication/title/article-heading witness distinctions documented;
+- no Gemini lexical token was changed during P1.
 
 ## Exact next gate
 
-**P1 — metadata + complete 50-scan page map / contents-boundary mapping.** Create the complete scan-by-scan map and the no-printed-contents / editorial article index, record visible printed-page numbering without invention, and update the root handover.
+**P2 — page-level transcription.** Create a Markdown record for every physical scan, using the user-supplied Gemini words as the lexical baseline while restoring source-supported punctuation, spaces, paragraphs, headings, verse/quotation layout and physical-copy separation. Mark a page `verified` only after direct comparison with the scan. Do not silently resolve lexical scan/Gemini conflicts.
 
 ## Source authority / user-baseline rule
 
