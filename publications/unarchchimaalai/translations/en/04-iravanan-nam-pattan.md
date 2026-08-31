@@ -1,0 +1,127 @@
+---
+publication: "unarchchimaalai"
+article_number: 4
+title_ta: "இராவணன் நம் பாட்டன்"
+title_en: "Ravana Is Our Grandfather"
+source_tamil: "../../articles/04-iravanan-nam-pattan.md"
+source_tamil_blob_sha: "006f2f75dbc3eea796170a29aee0befd162522e7"
+source_scan_pages: "19-29"
+source_printed_pages: "scan 19 unnumbered; scan 20 visible `1` only; scans 21-29 show 20-28"
+language: "en"
+translation_status: "draft"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 complete draft from the frozen Tamil assembly"
+---
+
+# Ravana Is Our Grandfather
+
+<!-- Tamil source: scan 19 / printed numeral not visible / source-recovered Gemini omission -->
+
+Homeland of the mosquito. Birthplace of many kinds of life-drinking worms. A stench that makes one clutch one's nose from a distance beyond the reach of the eye. Final destination of refuse—the limit of obscenity. I see a man before a puddle like this. Ah! What honesty in these writhing worms... Do they not run twisting and bending like maidens dancing Bharata Natyam? Bhagavan's creation; creation! Saying, “Nowhere else can one smell this fragrance,” he falls into that mire and rolls in it.
+
+The next man says there is benefit in removing the stench of the puddle. His conclusion is that pouring fragrant substances into that little pool will do some good.
+
+The third man says that if all the water in the puddle is drained out, the puddle turned into a pond, fresh water let in and a suitable medicine mixed with it, it will benefit the people.
+
+<!-- Tamil source: scan 20 / printed page-position witness visible `1` only -->
+
+Among these three kinds of comrades, to whom your ‘vote’ goes is not my question! The problem is this: our Tamil Nadu's art has become like the stinking puddle described above—should it not be set right? A comrade has created the necessity to raise this problem again. I know that a few people fall into the art-puddle and roll about in it in order to lay out a path for livelihood and influence. The mud, it seems, appears to them as sandalwood paste; the stench rising from the mud, as a breeze that has brushed against jasmine. I also understand that trying to reform them or turn them around is like trying to straighten a dog's tail. Even so, in order that Dravidian youth should not be caught in the nets they cast, rather than preach non-violence—“Snake! Do not bite; scorpion! Do not sting!”—my purpose is to warn: ‘Venomous creatures, keep away!’
+
+A bewitching potion is sometimes mixed into the combination of the three fruits—banana, mango and jackfruit. With a colourful new sari and a youthful coating, an ageing woman too may cast her net.
+
+I happened to see an article of this kind in “Kumudam,” the monthly publication edited by R. M. Alagappa Chettiar. It was written by an art-lover.
+
+<!-- Tamil source: scan 21 / printed 20 -->
+
+The title of the article was Ravana Is Our Grandfather. The moment I saw the title, I leapt with joy: so even Alagappa's journal carries the scent of ethnic feeling! As though to prove that what I had thought was wholly wrong, beside the title stood a picture of ten-headed Ravana. Even so, the ethnic feeling mixed into the title urged me to read. Ravana is our grandfather! Ah! King of South Lanka—hero of heroes—ancestor of the Dravidians—does a true comrade who claims him as our grandfather have a place in ‘Kumudam’? My heart danced.
+
+I began to read. The comrade had begun with Kamban's description, “Those who saw the shoulders saw only the shoulders”! Having said Ravana is our grandfather... why is he standing in the passage describing Rama's beauty? At first I did not understand. Praising Kambar's description... I thought the writer would stop by singing a kavadi-chindu of praise—“Ah! Has not Kambanattazhvar created God-ist art!”—and that this would be embroidery of the same class as Kambar Tharum Katchi, Kamba Chithiram and Chithira Ramayanam. But the writer has proved very well that he is the ageing woman who came dressed in a colourful new sari to enchant the young man.
+
+<!-- Tamil source: scan 22 / printed 21 -->
+
+“If the true nature of the god-substance called art is understood, this quarrel has no place in the world of art. Art bears a form of beauty suited to each person's condition. One person's vision will not suit another. If this is understood, the frenzy to burn and the frenzy to bear will find no place in the world of art.”
+
+This is the idea the writer has inserted! This is what I call the ‘bewitching potion’ mixed into fruit juice. Like the trick of showing a ball of rice to catch a fish on a hook, the comrade shows the title Ravana Is Our Grandfather and tries to catch young people on the hook called Kambar's art.
+
+The comrade thinks of standing where Pasumalai Bharathi and Panditha Sethupillai could not stand. The friend is putting up scaffolding to rebuild the fallen building of the Kamba Ramayanam. Poor man; deserving of pity. “Long live art! But let the state in which art is a stinking puddle—a place crawling with worms—perish!” This is the camp-cry of the rationalist. Though the friend knows that this cry has already broken the backbones of race-traitors such as Kambar and Sekkizhar, he has stretched out his poisonous fang. He is the sort who calls the rotting stench of an obscene puddle the fragrance of evening jasmine! He covers the wrinkles of his face with a veil and says, look at my jasmine-
+
+<!-- Tamil source: scan 23 / printed 22 -->
+
+smile. I see no contradiction between such an old woman and the comrade's article. It is regrettable that the comrade does not even find a place among those who say, put attar and javvadu into the puddle to remove its stench.
+
+From the comrade's saying that the frenzy to twist should have no place in the world of art, it becomes clear that, unable even to stand among those who mix perfume into the stinking puddle, he slips and falls—and then snarls and leaps at the T. K. Chidambaranathars as well.
+
+Because he wrote ‘burning frenzy,’ the friend may claim that he has given heat to the Self-Respect Movement. He may even have received Alagappa's ‘applause.’ Without even knowing that what he holds in his hand is a pen, the writer has scribbled in the intoxication of art!
+
+It is a great wonder that this art-lover has forgotten how, in the war of words over whether the Kamba Ramayanam should be burnt or not, Sethupillai developed a headache and Somasundara Bharathiar an urgent need to travel when they could not stand on the stage against scholar Annadurai.
+
+The writer says, “Art bears a form of beauty suited to each person's condition.” My question is whether he accepts the robber treating robbery as an art, and the prostitute... treating the act of enchanting and toppling young men
+
+<!-- Tamil source: scan 24 / printed 23 -->
+
+as an art; whether he accepts their searching the Kamba Ramayanam for juicy passages suited to their trade—and, for that very reason, praising and extolling Kambar's art!
+
+“One person's vision will not suit another,” he says. True. I ask: is this the reason the thought of burning arises among the Self-Respecters?
+
+Kambar committed ethnic murder. Kambar showed an ordinary man as the protector of the world.
+
+Even when he came to sing the story of God, Kambar gave first place to erotic play.
+
+The author in Kumudam must understand that these accusations are the matchsticks that burn and throw away Kambar's art.
+
+To save Kambar's life, the article-writer has leapt in one bound into Bharathidasan's “In the Drizzle of Sanjeevi Parvatham.” A devotee of Rama, is he not? You say Kambar's descriptions are unbelievable; yet in Bharathidasan's poem In the Drizzle of Sanjeevi Parvatham, he says that with the help of a herb Kuppan and Vanchi could see those speaking in England and America—can that description be believed? This is the manner in which the comrade raises the issue.
+
+<!-- Tamil source: scan 25 / printed 24 -->
+
+We are not the ones who said the Kamba Ramayanam is nauseating because its descriptions exceed measure! Nor are we those who say so.
+
+When Rama left Ayodhya and went to the forest, Kambar did not stop with saying that the people of the city wept; he extended the description to “the maidens wept, the cat too wept.” Even seeing that, we did not grieve. We did not ask, “Does a cat cry?” We granted it an exception as the height of description.
+
+It is the passage in which Kambar describes the path taken by the tears shed by the maidens that gave room both to Anna's Kambarasam and to the verdict of the world of reason: “Throw the Kamba Ramayanam into the fire.” No one, including the comrade, can deny this.
+
+For the friend who blames the rationalist without having read it—if he has not read it so far—I shall mix a little water into what remains of Kambarasam and give it to him. Let the comrade drink! Let the intoxication of art clear!
+
+Rama goes to the forest. Ayodhya weeps. The maidens weep. Their tears run as a river. Look:
+
+> “The thick kumkum paste and sandalwood,  
+> sweeping here and there, drew the garlands along.  
+
+<!-- Tamil source: scan 26 / printed 25 -->
+
+> Climbing the mounds of close-set breasts, into the broad sea of the girdle  
+> did that flood of tears enter!”
+
+I think it is enough to state the sense in prose; since Anna has given fuller explanation in the book Kambarasam, let him read it there—that much will suffice!
+
+The water flowing from the women's eyes because of Rama's departure swells into a river, dissolves the kumkum and the kohl, passes across the jewelled garlands, climbs the mountains called breasts and falls into the sea called the “hidden place,” where the girdle-ornament is worn.
+
+“I am ashamed even to write it, comrade!...... Does asking whether this erotic art should be sung in the name of God seem to you an act of frenzy?” I ask my art-loving friend.
+
+Perhaps the friend is one who follows the philosophy: “Art bears a form of beauty suited to each person's condition”!
+
+To the comrade who places Bharathidasan and Kambar on the same line and looks at them together, I issue a ringing challenge: can this storehouse of lust be found in Bharathidasan's poetry? Should there not be a limit even to description? And in the history of Parandhaman—is this the splendour of the bedchamber?...
+
+<!-- Tamil source: scan 27 / printed 26 -->
+
+“Artists, drunkards, madmen, devotees—these are, for the most part, people of one state. To understand them, one must become like them. If that is not possible, one must simply step aside.” Thus the article-writer gives his conclusion. The comrade's course resembles a man who, unable to answer a question...... unable to carry the debate further, says, “What you speak is mere sophistry,” and runs away! The comrade's opinion resembles the trick of the noseless man who said, “Cut off your nose.... you can behold God.”
+
+The Self-Respecter points out the bald spot. The friend lies: “You have a blind eye”!
+
+“ There is no God-ism in the Kamba Ramayanam. The story is not true. Rama is an ordinary man. Read it only for the beauty of Tamil... for artistic subtlety. Do not think of Rama as God and conduct Sita's wedding or the ceremony of adorning Hanuman with a garland of vadas.” The eminent comrade does not dare print the Kamba Ramayanam with a preface saying this.... Yet in the wealthy man's Kumudam he rages against the reformer; why, I do not know.
+
+Art is needed so that the culture of the people may rise—not so that one may sink in a storeyed mansion—in a flower garden—on a couch—in a sea of pleasure, and describe the beauty of women,
+
+<!-- Tamil source: scan 28 / printed 27 -->
+
+remain submerged in an intoxication of delight, and search for examples of how tears overflow their banks and mingle with the sea. Art is not needed for that.
+
+Art must be the mirror of the age... the drum of ethnic awakening. Kambar's story... a song of the fortress of lust. A sindhu that conspires to topple the people into God-ism! A venpa that gave the agony of bowing to an alien race and dying! As I said at the beginning, a mass of worms writhing as it turns art into a stinking puddle.
+
+The comrade must understand that though Kambar's story was not put into the fire at the Salem Conference, the defeat of Sethupillai—Bharathiar was the fire set to the Kamba Ramayanam.
+
+“One must look without the jaundiced eye, with the art-garland eye..... Until certain truths such as these are understood, Ravana is indeed our grandfather, and Surpanakha is indeed our grandmother.” Thus the devotee of Kambar mockingly ends the article!
+
+If Kumudam's honorary editor Alagappa Chettiar, who gave the comrade space to write, ever goes to New Delhi, let him ask Pandit Jawaharlal Nehru who those described as rakshasas in the Ramayana are! “Those written of as rakshasas in the Ramayana are the Dravidians of South India,” Jawaharlal Nehru will tell Chettiar, and will produce evidence from the book he had earlier written, “Letters Jawaharlal Wrote to His Daughter.”
+
+<!-- Tamil source: scan 29 / printed 28 -->
+
+Then this comrade who knows nothing will learn whether Ravana is our grandfather or not; there is no other answer to give him.
