@@ -82,7 +82,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 ## English progress
 
 - T0 setup: **PASS**
-- T1 drafts: **2 / 10**
+- T1 drafts: **3 / 10**
 - T2 fidelity-reviewed: **2 / 10**
 - T3 voice-reviewed: **2 / 10**
 - T4 audited: **2 / 10**
@@ -125,19 +125,34 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - outside/web historical reconstruction: **none**
 - blockers: **0**
 
-Article 2 T5 reconfirmed the complete T1–T4 chain, metadata, source SHA and scan fields, all recorded corrections/audits, quotation/source traceability and T3 voice non-regression. It passed with **0 body corrections**.
+## Article 3 — `போகிறான்;போகிறான்..!` — T1 COMPLETE / DRAFT
+
+- provisional English title: **He Goes; He Goes..!**
+- frozen Tamil: `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
+- source scans: **16–18**
+- English file: `publications/unarchchimaalai/translations/en/03-pogiran-pogiran.md`
+- T1 draft blob: **`41abd9d0071ee9f3511a0781bd3ab503404dff72`**
+- paragraph coverage: **complete**
+- scan comments 16–18: **PASS / ordered**
+- questions, exclamations, quoted anger speech and final repetition: **retained**
+- frozen scan-16 `பாறையு`: retained source-sensitively as `paaraiyu`; not silently expanded
+- frozen scan-17 `தனக்குக்`: upstream Tamil authority unchanged
+- outside/web translation or literary reconstruction: **none**
+- T1 blockers: **0**
+
+T1 provisional/source-sensitive items requiring Article 3 T2 review: title **He Goes; He Goes..!**, `paaraiyu`, `crushed lead vessel`, `sel`, the Kural line **Laugh when adversity comes**, `Mahatmas`, `selfish bandicoots`, `pallid wretch`, the `செல்வாக்கை / செல்லாக்காசு` wordplay, frozen `அன்று` → **That day**, `water-bubble bhajan`, and final **goes—goes—keeps going** repetition.
 
 ---
 
 # Exact next activity
 
-Execute **Article 3 T1 — complete close English draft** for `போகிறான்;போகிறான்..!` from frozen Tamil blob:
+Execute **Article 3 T2 — bilingual fidelity review** for `போகிறான்;போகிறான்..!` / **He Goes; He Goes..!** against:
 
-`92eb1a68d65f65dd71274e5e79f3209e63359d9a`
+- frozen Tamil blob: `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
+- T1 English blob: `41abd9d0071ee9f3511a0781bd3ab503404dff72`
+- source scans: **16–18**
 
-Source scans: **16–18**.
-
-T1 must translate the complete frozen Article 3 paragraph by paragraph, preserve scan comments, questions, exclamations, repetition and source-sensitive wording, establish only terminology actually encountered, create `publications/unarchchimaalai/translations/en/03-pogiran-pogiran.md` with `translation_status: draft`, synchronize tracker/lexicon/review/plan/handover, and **stop before Article 3 T2**.
+T2 must compare every Tamil paragraph/clause with the English draft; verify no omissions/additions; review the provisional/source-sensitive items listed above; preserve source questions, exclamations, insults, wordplay, quotation boundaries, scan comments and final repetition; make only fidelity corrections; advance Article 3 to `translation_status: fidelity-reviewed` only if T2 passes; synchronize tracker/lexicon/review/plan/handover; and **stop before Article 3 T3**.
 
 ## Current blockers
 
