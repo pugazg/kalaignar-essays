@@ -32,86 +32,83 @@ Permanent guide: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TR
 
 - English title: **Garland of Emotion**
 - final verified English blob: `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
-- T2 fidelity corrections: **11**
-- T3 voice/cadence corrections: **7**
-- T4 body corrections: **0**
-- T5 body corrections: **0**
 - unresolved blockers: **0**
 
 # Article 2 — `புரட்சி வளர்ந்த கதை` — T0–T5 COMPLETE / VERIFIED
 
-- frozen Tamil authority: `dda81363f512ee2f829c367ae929ce3610604fe9`
 - English title: **The Story of How the Revolution Grew**
-- final T5-verified English blob: `f1599a8e7cae4ba749b9be2857705b152887f9f8`
-- T2 fidelity corrections: **10**
-- T3 meaning-neutral voice/cadence corrections: **10**
-- T4 body corrections: **0**
-- T5 body corrections: **0**
+- final verified English blob: `f1599a8e7cae4ba749b9be2857705b152887f9f8`
 - unresolved blockers: **0**
 
 # Article 3 — `போகிறான்;போகிறான்..!` — T0–T5 COMPLETE / VERIFIED
 
+- English title: **He Goes; He Goes..!**
+- final verified English blob: `1134185bc21478775419adb3560b110c001d2b75`
+- T2 fidelity corrections: **5**
+- T3 meaning-neutral voice/cadence corrections: **11**
+- T4 body corrections: **0**
+- T5 body corrections: **0**
+- unresolved blockers: **0**
+
+# Article 4 — `இராவணன் நம் பாட்டன்`
+
 Source authority:
 
-- Tamil article: `../../articles/03-pogiran-pogiran.md`
-- frozen Tamil blob SHA: `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
-- source scans: **16–18**
-- printed pages: **16–17; scan 16 has no visible printed numeral**
-- English article: [`03-pogiran-pogiran.md`](03-pogiran-pogiran.md)
-- English title: **He Goes; He Goes..!**
-- T1 draft blob: `41abd9d0071ee9f3511a0781bd3ab503404dff72`
-- T2 fidelity-reviewed blob: `1df8b58eb79e1193bdad761faf7ab2953af381fd`
-- T3 voice-reviewed / T4-audited candidate: `b7e887172c7a549112a44caad43c7e7f5815f5d3`
-- final T5-verified English blob: **`1134185bc21478775419adb3560b110c001d2b75`**
+- Tamil article: `../../articles/04-iravanan-nam-pattan.md`
+- frozen Tamil blob SHA: `006f2f75dbc3eea796170a29aee0befd162522e7`
+- source scans: **19–29**
+- printed pages: **scan 19 unnumbered; scan 20 visible `1` only; scans 21–29 show 20–28**
+- English article: [`04-iravanan-nam-pattan.md`](04-iravanan-nam-pattan.md)
+- provisional English title: **Ravana Is Our Grandfather**
+- T1 draft blob: **`ce50394af45c8bb69e003c3d3fd8de097cf34808`**
 
 ## T1 — complete close draft — COMPLETE / PASS
 
-T1 translated every frozen Tamil paragraph across scans 16–18 and preserved all three scan-boundary comments, questions, exclamations, direct speech, accumulative lists and the final `போகிறான் -போகிறான்-போய்க் கொண்டே இருக்கிறான்` repetition. No outside/web wording or literary reconstruction was imported.
+T1 translated the complete frozen Article 4 across scans 19–29 paragraph by paragraph. The frozen Tamil assembly, not the scan or outside knowledge, was the lexical authority.
 
-## T2 — bilingual fidelity review — COMPLETE / PASS
+### T1 completeness / source traceability
 
-T2 compared every Tamil paragraph/clause against the T1 draft and made **5 fidelity corrections**:
+- every body paragraph represented: **PASS**;
+- all scan comments 19–29 present and ordered: **PASS**;
+- scan 19 no visible printed numeral: **PASS**;
+- scan 20 printed-page witness is visible `1` only: **PASS / not reconstructed as `19`**;
+- scans 21–29 printed witnesses 20–28: **PASS**;
+- scan 19 entire body is source-recovered from the controlling scan after Gemini omitted the page: **PASS / provenance retained explicitly in the English comment**;
+- questions, exclamations, direct address, sarcasm, ridicule, insults and repeated stinking-puddle imagery: **retained**;
+- quoted `Kumudam` article passages: **retained as quotations**;
+- Kambar verse begins on scan 25 and continues on scan 26: **lineation and page-boundary comment retained**;
+- Kambar verse translated from frozen Tamil only: **PASS; no published English verse imported**;
+- final Jawaharlal Nehru quotation and source-book reference: **retained without external verification**;
+- outside/web translation, historical correction or literary reconstruction: **none**;
+- T1 blockers: **0**.
 
-1. `longs to dive for pearls` → **`longs to gather pearls`** for `முத்தெடுக்க நினைக்கும்`;
-2. `public work` → **`public-welfare work`** for `பொதுநலப் பணி`;
-3. `pallid wretch` → **`pallid rascal`** for `பசலைப் பயலே`;
-4. `terraced mansion` → **`storeyed mansion`** for `மாட மாளிகை`;
-5. `the blind` → **`those with their eyes shut`** for `கண்மூடிகள்`.
+### T1 provisional / source-sensitive choices queued for T2
 
-T2 confirmed `paaraiyu`, `sel`, `That day`, `water-bubble bhajan`, the Kural line, `Mahatmas`, `selfish bandicoots`, `crushed lead vessel`, the `செல்வாக்கை / செல்லாக்காசு` wordplay and final repetition without outside reconstruction.
+- title `இராவணன் நம் பாட்டன்` → **Ravana Is Our Grandfather**;
+- `திராவிட இளைஞர்கள்` → **Dravidian youth** and `திராவிடர்` → **Dravidians**;
+- `இன உணர்ச்சி` → **ethnic feeling**;
+- `இனத் துரோகிகள்` → **race-traitors**;
+- `இனக்கொலை` → **ethnic murder**;
+- `இன எழுச்சி` → **ethnic awakening**;
+- `வேற்றினம்` → **alien race**;
+- `கம்பர்` / `கம்பன்` → **Kambar / Kamban** by immediate source form;
+- `கம்பராமாயணம்` / `கம்ப ராமாயணம்` → **Kamba Ramayanam**;
+- `கம்பரசம்` → **Kambarasam**;
+- `கம்பநாட்டாழ்வார்` → **Kambanattazhvar**;
+- `காவடிச்சிந்து` → **kavadi-chindu**;
+- `கடவுள்பொருள்` → **god-substance**;
+- `கடவுளீயம்` → **God-ism**, carrying the Article 2 verified decision;
+- `எரிக்கும் வெறி / தரிக்கும் வெறி` → **frenzy to burn / frenzy to bear**;
+- scan-23 frozen `திரிக்கும் வெறி` → **frenzy to twist**, not silently harmonised with scan 22;
+- `சுயமரியாதை இயக்கம்` → **Self-Respect Movement**; `சுயமரியாதைக்காரர்` → **Self-Respecter**;
+- `கம்பர் தருங் காட்சி`, `கம்பசித்திரம்`, `சித்திர ராமாயணம்` → source-title transliterations **Kambar Tharum Katchi, Kamba Chithiram, Chithira Ramayanam**;
+- `சஞ்சீவி பர்வதத்தின் சாரலில்` → **In the Drizzle of Sanjeevi Parvatham**;
+- `அத்தர்`, `ஜவ்வாது` → **attar, javvadu**;
+- `சிந்து`, `வெண்பா` → **sindhu, venpa**;
+- `காமாலைக் கண் / கலைமாலைக் கண்` → **jaundiced eye / art-garland eye**, preserving the visible wordplay provisionally;
+- the scan 25→26 Kambar verse translation remains provisional for clause-level T2 checking.
 
-## T3 — Kalaignar voice review — COMPLETE / PASS
-
-T3 preserved every T2 meaning/source decision and made **11 meaning-neutral voice/cadence corrections**. The review strengthened the opening three-image cadence, obstacle/ideal-path movement, `ghastly dance` line, direct `crushed lead vessel` mockery, scan-18 adversary list, jealous speaker entry, ascetic refusal, `water-bubble bhajan` staging and the final `Yet ... goes—goes—keeps going` movement without changing T2 meaning.
-
-## T4 — terminology / quotation / citation / source audit — COMPLETE / PASS
-
-T4 audited the frozen Tamil authority, T3 English candidate, living lexicon and page/source traceability. It required **0 body corrections**.
-
-Audit non-regression passed for metadata, scan/printed-page fields, scan comments 16–18, `paaraiyu`, `sel`, frozen `அன்று` → `That day`, `water-bubble bhajan`, the Kural line and quotation boundary, `Mahatmas`, `selfish bandicoots`, `pallid rascal`, `crushed lead vessel`, the `செல்வாக்கை / செல்லாக்காசு` wordplay, questions/exclamations and final repetition. No external citation, published English quotation, outside lexical repair or scan-alternate Gemini correction was imported.
-
-## T5 — final article verification — COMPLETE / PASS
-
-T5 reconfirmed the complete T1–T4 chain and required **0 body corrections**.
-
-### T5 final checks
-
-- front matter publication/article/title fields: **PASS**;
-- frozen Tamil SHA `92eb1a68d65f65dd71274e5e79f3209e63359d9a`: **PASS**;
-- source scans `16-18`: **PASS**;
-- printed pages `16-17; scan 16 has no visible printed numeral`: **PASS**;
-- scan comments 16, 17 and 18 present and ordered: **PASS**;
-- `paaraiyu`, `sel`, frozen `அன்று` → `That day`, `water-bubble bhajan`: **PASS / source-sensitive non-regression**;
-- Kural quotation and all other quotation boundaries: **PASS**;
-- `Mahatmas`, `selfish bandicoots`, `pallid rascal`, `crushed lead vessel`: **PASS**;
-- `செல்வாக்கை / செல்லாக்காசு` wordplay: **PASS**;
-- questions/exclamations and direct speech: **PASS**;
-- final `goes—goes—keeps going`: **PASS**;
-- body changed at T5: **No**;
-- outside/web wording or alternate scan lexical reconstruction imported: **No**;
-- unresolved T5 blockers: **0**.
-
-**T5 RESULT: PASS. Article 3 is `translation_status: verified`.**
+**T1 RESULT: PASS. Article 4 is `translation_status: draft`.**
 
 ## Article review tracker
 
@@ -119,8 +116,8 @@ T5 reconfirmed the complete T1–T4 chain and required **0 body corrections**.
 |---:|---|---|---|---|---|---|---|---|
 | 1 | உணர்ச்சி மாலை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 2 | புரட்சி வளர்ந்த கதை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 3 | போகிறான்;போகிறான்..! | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 4 | இராவணன் நம் பாட்டன் | `not-started` | PASS | — | — | — | — | — |
+| 3 | போகிறான்;போகிறான்..! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
+| 4 | இராவணன் நம் பாட்டன் | `draft` | PASS | **PASS** | — | — | — | — |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `not-started` | PASS | — | — | — | — | — |
 | 6 | 3, 57, 90. | `not-started` | PASS | — | — | — | — | — |
 | 7 | 30-1-1948 | `not-started` | PASS | — | — | — | — | — |
@@ -130,4 +127,4 @@ T5 reconfirmed the complete T1–T4 chain and required **0 body corrections**.
 
 ## Exact next activity
 
-Execute **Article 4 T1 — complete close English draft** for `இராவணன் நம் பாட்டன்` from frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7`, scans **19–29**. Translate only from the frozen Tamil assembly, preserve all scan-boundary comments and the frozen scan-19 source-recovered text/provenance, establish only terminology actually encountered, create `04-iravanan-nam-pattan.md` with `translation_status: draft`, and **stop before Article 4 T2**.
+Execute **Article 4 T2 — bilingual fidelity review** against frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7` and T1 English blob `ce50394af45c8bb69e003c3d3fd8de097cf34808`, scans **19–29**. Compare every paragraph/clause; preserve scan-19 source-recovered provenance, scan-20 visible `1` witness and all scan comments; audit the Kambar verse and its scan 25→26 lineation; review every provisional/source-sensitive choice above; make only fidelity corrections; advance to `fidelity-reviewed` only if T2 passes; and **stop before T3**.
