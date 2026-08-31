@@ -39,7 +39,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 | 1 | உணர்ச்சி மாலை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 2 | புரட்சி வளர்ந்த கதை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 3 | போகிறான்;போகிறான்..! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 4 | இராவணன் நம் பாட்டன் | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
+| 4 | இராவணன் நம் பாட்டன் | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `not-started` | PASS | — | — | — | — | — |
 | 6 | 3, 57, 90. | `not-started` | PASS | — | — | — | — | — |
 | 7 | 30-1-1948 | `not-started` | PASS | — | — | — | — | — |
@@ -53,7 +53,7 @@ Article 1 final English blob: `4246c9f1e206d5703fe50297657bb0af2a8e57e6`.
 Article 2 final English blob: `f1599a8e7cae4ba749b9be2857705b152887f9f8`.  
 Article 3 final English blob: `1134185bc21478775419adb3560b110c001d2b75`.
 
-## Article 4 — T1–T3 COMPLETE / VOICE-REVIEWED
+## Article 4 — T1–T4 COMPLETE / VOICE-REVIEWED
 
 - Tamil title: `இராவணன் நம் பாட்டன்`
 - English title: **Ravana Is Our Grandfather**
@@ -62,17 +62,21 @@ Article 3 final English blob: `1134185bc21478775419adb3560b110c001d2b75`.
 - printed-page witnesses: **scan 19 unnumbered; scan 20 visible `1` only; scans 21–29 show 20–28**
 - T1 draft blob: `ce50394af45c8bb69e003c3d3fd8de097cf34808`
 - T2 fidelity-reviewed blob: `1e1f2db8a603e068921d8fb6b9b3e2e4a4c04447`
-- T3 voice-reviewed blob: **`3b28938aa7c884e7de04d0532482b220c6c73a5b`**
+- T3 voice-reviewed blob: `3b28938aa7c884e7de04d0532482b220c6c73a5b`
+- T4-audited candidate blob: **`324cf12bd42cb55e0a8db621965d93b82b383648`**
 - T2 fidelity corrections: **9** plus one non-semantic quotation-spacing cleanup
 - T3 meaning-neutral voice/cadence interventions: **15**
+- T4 terminology/quotation/source corrections: **9**
 - complete paragraph/clause coverage: **PASS**
-- all scan comments 19–29: **PASS / ordered**
+- all scan comments 19–29: **PASS / ordered and T4 source-transition placement audited**
 - scan 19 source-recovered Gemini omission: **PASS / provenance retained**
 - scan 20 visible printed `1`: **PASS / not reconstructed as `19`**
-- Kambar verse crossing scans 25→26: **T3 PASS / T2 wording and four-line page-boundary structure retained / no published translation imported**
-- T2 decisions `racial feeling`, `race-murder`, `racial awakening`, `T. K. Chidambaranathar`, `Arignar Annadurai`, source-sensitive `sagath-rakshakan`, `tastes bitter`, and `Dravidians of the South`: **T3 RETAINED**
-- `Dravidian youth` / `Dravidians`, source-form `Kambar` / `Kamban`, `Kamba Ramayanam`, `Kambarasam`, `Kambanattazhvar`, `kavadi-chindu`, `god-substance`, `frenzy to burn / frenzy to bear`, scan-23 `frenzy to twist`, `Self-Respect Movement` / `Self-Respecter`, source-title transliterations, `attar`, `javvadu`, `sindhu`, `venpa`, and `jaundiced eye / art-garland eye`: **T3 RETAINED**
-- rhetorical questions, exclamations, direct address, sarcasm, ridicule, insult force and repeated stinking-puddle imagery: **T3 PASS**
+- scan 25→26 Kambar verse: **PASS / four-line structure and page boundary retained / no published translation imported**
+- scan 28→29 Nehru quotation: **PASS / source boundary now inside the quotation at the frozen transition**
+- T4 terminology/proper-name/source-title audit: **PASS**
+- T4 quotation/citation/source audit: **PASS after 9 corrections**
+- source-sensitive `sagath-rakshakan`, distinct `frenzy to bear` / `frenzy to twist`, `Kambar` / `Kamban`, source titles and source-bearing transliterations: **PASS / retained**
+- `கவிஞர் பாரதிதாசன்` → **poet Bharathidasan**: **T4 corrected**
 - frozen Tamil changed: **No**
 - outside/web wording, historical reconstruction, published Kambar translation or alternate scan lexical reading imported: **No**
 - unresolved blockers: **0**
@@ -86,8 +90,8 @@ Article 3 final English blob: `1134185bc21478775419adb3560b110c001d2b75`.
 5. Article 10 excludes scan-49 publication-close matter and scan-50 advertisement.
 6. Do not silently repair source-sensitive forms such as Article 10 `ப்ழச்சளை`.
 7. Preserve questions, exclamations, repetition, direct address and page-boundary comments.
-8. Article 4 downstream audit must preserve the scan-19 source-recovered provenance, scan-20 visible `1`, source-sensitive `sagath-rakshakan`, and the distinct scan-22 `frenzy to bear` / scan-23 `frenzy to twist` witnesses.
+8. Article 4 T5 must preserve the T4-corrected scan-20→21 and scan-28→29 page-boundary placement, source-sensitive `sagath-rakshakan`, and distinct scan-22 `frenzy to bear` / scan-23 `frenzy to twist` witnesses.
 
 ## Exact next activity
 
-Execute **Article 4 T4 — terminology / quotation / citation / source audit** for `இராவணன் நம் பாட்டன்` / **Ravana Is Our Grandfather** against frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7` and T3 English blob `3b28938aa7c884e7de04d0532482b220c6c73a5b`, scans **19–29**. Audit the complete terminology/proper-name set, source titles, quoted `Kumudam` passages, all scan comments and printed-page witnesses, scan-19 source-recovered provenance, scan-20 visible `1`, source-sensitive `sagath-rakshakan`, distinct `frenzy to bear` / `frenzy to twist`, the scan 25→26 Kambar verse and the final Jawaharlal Nehru quotation/book reference. Keep metadata `voice-reviewed` through T4, make only genuine audit corrections if required, synchronize tracker/lexicon/review/plan/handover, and **stop before Article 4 T5**.
+Execute **Article 4 T5 — final article verification** for `இராவணன் நம் பாட்டன்` / **Ravana Is Our Grandfather** against frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7` and T4-audited English candidate `324cf12bd42cb55e0a8db621965d93b82b383648`, scans **19–29**. Reconfirm the complete T1–T4 chain and all non-regression/source checks. If all checks pass, set `translation_status: verified`, record the final English blob SHA, synchronize tracker/lexicon/review/plan/handover, and **stop before Article 5 T1**.
