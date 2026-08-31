@@ -4,7 +4,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Status
 
-**Articles 1–3 T5 VERIFIED; Article 4 T1–T3 COMPLETE / VOICE-REVIEWED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
+**Articles 1–3 T5 VERIFIED; Article 4 T1–T4 COMPLETE / VOICE-REVIEWED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
 
 > **Translate the language; do not neutralise the voice.**
 
@@ -107,55 +107,57 @@ Final verified English blob: `1134185bc21478775419adb3560b110c001d2b75`
 | `பாகு மொழி` | `syrupy speech` | T5 VERIFIED |
 | `போகிறான் -போகிறான்-போய்க் கொண்டே இருக்கிறான்` | `goes—goes—keeps going` | T5 VERIFIED |
 
-## Article 4 — T3-retained decisions
+## Article 4 — T4-audited decisions
 
 Frozen Tamil authority: `006f2f75dbc3eea796170a29aee0befd162522e7`  
 T1 draft blob: `ce50394af45c8bb69e003c3d3fd8de097cf34808`  
 T2 fidelity-reviewed blob: `1e1f2db8a603e068921d8fb6b9b3e2e4a4c04447`  
-T3 voice-reviewed blob: `3b28938aa7c884e7de04d0532482b220c6c73a5b`
+T3 voice-reviewed blob: `3b28938aa7c884e7de04d0532482b220c6c73a5b`  
+T4-audited English candidate blob: `324cf12bd42cb55e0a8db621965d93b82b383648`
 
 | Tamil / source form | English decision | Status / caution |
 |---|---|---|
-| `இராவணன் நம் பாட்டன்` | `Ravana Is Our Grandfather` | T2 CONFIRMED / T3 RETAINED |
-| `திராவிட இளைஞர்கள்` | `Dravidian youth` | T2 CONFIRMED / T3 RETAINED |
-| `திராவிடர்` | `Dravidians` | T2 CONFIRMED / T3 RETAINED; kept distinct from Article 2 source form `திராவிடம்` → `Dravidam` |
-| `இன உணர்ச்சி` | `racial feeling` | T2 CORRECTED / T3 RETAINED |
-| `இனத் துரோகிகள்` | `race-traitors` | T2 CONFIRMED / T3 RETAINED |
-| `இனக்கொலை` | `race-murder` | T2 CORRECTED / T3 RETAINED; polemical compound retained rather than softened |
-| `இன எழுச்சி` | `racial awakening` | T2 CORRECTED / T3 RETAINED |
-| `வேற்றினம்` | `alien race` | T2 CONFIRMED / T3 RETAINED |
-| `கம்பர்` | `Kambar` | T2 CONFIRMED / T3 RETAINED |
-| `கம்பன்` | `Kamban` | T2 CONFIRMED / T3 RETAINED; immediate source form retained rather than harmonised |
-| `கம்பராமாயணம்` / `கம்ப ராமாயணம்` | `Kamba Ramayanam` | T2 CONFIRMED / T3 RETAINED |
-| `கம்பரசம்` | `Kambarasam` | SOURCE-TITLE / T2 CONFIRMED / T3 RETAINED |
-| `கம்பநாட்டாழ்வார்` | `Kambanattazhvar` | SOURCE-BEARING / T2 CONFIRMED / T3 RETAINED |
-| `காவடிச்சிந்து` | `kavadi-chindu` | SOURCE-BEARING / T2 CONFIRMED / T3 RETAINED |
-| `கடவுள்பொருள்` | `god-substance` | SOURCE-SENSITIVE / T2 CONFIRMED / T3 RETAINED |
-| `கடவுளீயம்` | `God-ism` | Article 2 T5 VERIFIED decision reused / T2 CONFIRMED / T3 RETAINED |
-| `எரிக்கும் வெறி` | `frenzy to burn` | T2 CONFIRMED / T3 RETAINED |
-| `தரிக்கும் வெறி` | `frenzy to bear` | SOURCE-SENSITIVE / T2 CONFIRMED / T3 RETAINED |
-| scan-23 `திரிக்கும் வெறி` | `frenzy to twist` | SOURCE-SENSITIVE / T2 CONFIRMED / T3 RETAINED; deliberately not harmonised with scan 22 |
-| `சுயமரியாதை இயக்கம்` | `Self-Respect Movement` | T2 CONFIRMED / T3 RETAINED |
-| `சுயமரியாதைக்காரர்` | `Self-Respecter` | T2 CONFIRMED / T3 RETAINED |
-| `பகுத்தறிவாளன்` | `rationalist` | T2 CONFIRMED / T3 RETAINED; consistent with Article 1 `rationalism` |
-| `கலாரசிகர்` | `art-lover` / contextual `art-loving` | T2 CONFIRMED / T3 RETAINED |
-| `டி. கே. சிதம்பரநாதர்களின்` | `T. K. Chidambaranathar` | SOURCE-LABEL / T2 CORRECTED / T3 RETAINED |
-| `அறிஞர் அண்ணாதுரை` | `Arignar Annadurai` | SOURCE-LABEL / T2 CORRECTED / T3 RETAINED |
-| `சகத் ரக்ஷகன்` | `sagath-rakshakan` | SOURCE-SENSITIVE / T2 CORRECTED / T3 RETAINED; frozen token not silently normalised |
-| `கசக்கிறது` | `tastes bitter` | T2 CORRECTED / T3 RETAINED; sensory metaphor retained |
-| `கம்பர் தருங் காட்சி` | `Kambar Tharum Katchi` | SOURCE-TITLE / T2 CONFIRMED / T3 RETAINED |
-| `கம்பசித்திரம்` | `Kamba Chithiram` | SOURCE-TITLE / T2 CONFIRMED / T3 RETAINED |
-| `சித்திர ராமாயணம்` | `Chithira Ramayanam` | SOURCE-TITLE / T2 CONFIRMED / T3 RETAINED |
-| `சஞ்சீவி பர்வதத்தின் சாரலில்` | `In the Drizzle of Sanjeevi Parvatham` | SOURCE-TITLE / T2 CONFIRMED / T3 RETAINED |
-| `அத்தர்` | `attar` | SOURCE-BEARING / T2 CONFIRMED / T3 RETAINED |
-| `ஜவ்வாது` | `javvadu` | SOURCE-BEARING / T2 CONFIRMED / T3 RETAINED |
-| `சிந்து` | `sindhu` | SOURCE-BEARING / T2 CONFIRMED / T3 RETAINED |
-| `வெண்பா` | `venpa` | SOURCE-BEARING / T2 CONFIRMED / T3 RETAINED |
-| `காமாலைக் கண் / கலைமாலைக் கண்` | `jaundiced eye / art-garland eye` | WORDPLAY / T2 CONFIRMED / T3 RETAINED |
-| `தென்னாட்டிலுள்ள திராவிடர்` | `Dravidians of the South` | T2 CORRECTED / T3 RETAINED |
-| scan 25→26 Kambar verse | close English verse preserving four lines and page break | T2 CONFIRMED / T3 RETAINED; no published translation imported |
+| `இராவணன் நம் பாட்டன்` | `Ravana Is Our Grandfather` | T4 AUDITED |
+| `திராவிட இளைஞர்கள்` | `Dravidian youth` | T4 AUDITED |
+| `திராவிடர்` | `Dravidians` | T4 AUDITED; kept distinct from Article 2 source form `திராவிடம்` → `Dravidam` |
+| `இன உணர்ச்சி` | `racial feeling` | T2 CORRECTED / T4 AUDITED |
+| `இனத் துரோகிகள்` | `race-traitors` | T4 AUDITED |
+| `இனக்கொலை` | `race-murder` | T2 CORRECTED / T4 AUDITED; polemical compound retained rather than softened |
+| `இன எழுச்சி` | `racial awakening` | T2 CORRECTED / T4 AUDITED |
+| `வேற்றினம்` | `alien race` | T4 AUDITED |
+| `கம்பர்` | `Kambar` | T4 AUDITED |
+| `கம்பன்` | `Kamban` | T4 AUDITED; immediate source form retained rather than harmonised |
+| `கம்பராமாயணம்` / `கம்ப ராமாயணம்` | `Kamba Ramayanam` | T4 AUDITED |
+| `கம்பரசம்` | `Kambarasam` | SOURCE-TITLE / T4 AUDITED |
+| `கம்பநாட்டாழ்வார்` | `Kambanattazhvar` | SOURCE-BEARING / T4 AUDITED |
+| `காவடிச்சிந்து` | `kavadi-chindu` | SOURCE-BEARING / T4 AUDITED |
+| `கடவுள்பொருள்` | `god-substance` | SOURCE-SENSITIVE / T4 AUDITED |
+| `கடவுளீயம்` | `God-ism` | Article 2 T5 VERIFIED decision reused / T4 AUDITED |
+| `எரிக்கும் வெறி` | `frenzy to burn` | T4 AUDITED; scan-23 reference corrected to the same term without invented quotation marks |
+| `தரிக்கும் வெறி` | `frenzy to bear` | SOURCE-SENSITIVE / T4 AUDITED |
+| scan-23 `திரிக்கும் வெறி` | `frenzy to twist` | SOURCE-SENSITIVE / T4 AUDITED; deliberately not harmonised with scan 22 |
+| `சுயமரியாதை இயக்கம்` | `Self-Respect Movement` | T4 AUDITED |
+| `சுயமரியாதைக்காரர்` | `Self-Respecter` | T4 AUDITED |
+| `பகுத்தறிவாளன்` | `rationalist` | T4 AUDITED; consistent with Article 1 `rationalism` |
+| `கலாரசிகர்` | `art-lover` / contextual `art-loving` | T4 AUDITED |
+| `டி. கே. சிதம்பரநாதர்களின்` | `T. K. Chidambaranathar` | SOURCE-LABEL / T2 CORRECTED / T4 AUDITED |
+| `அறிஞர் அண்ணாதுரை` | `Arignar Annadurai` | SOURCE-LABEL / T2 CORRECTED / T4 AUDITED |
+| `கவிஞர் பாரதிதாசன்` | `poet Bharathidasan` | SOURCE-LABEL / T4 CORRECTED / AUDITED |
+| `சகத் ரக்ஷகன்` | `sagath-rakshakan` | SOURCE-SENSITIVE / T2 CORRECTED / T4 AUDITED; frozen token not silently normalised |
+| `கசக்கிறது` | `tastes bitter` | T2 CORRECTED / T4 AUDITED; sensory metaphor retained |
+| `கம்பர் தருங் காட்சி` | `Kambar Tharum Katchi` | SOURCE-TITLE / T4 AUDITED |
+| `கம்பசித்திரம்` | `Kamba Chithiram` | SOURCE-TITLE / T4 AUDITED |
+| `சித்திர ராமாயணம்` | `Chithira Ramayanam` | SOURCE-TITLE / T4 AUDITED |
+| `சஞ்சீவி பர்வதத்தின் சாரலில்` | `In the Drizzle of Sanjeevi Parvatham` | SOURCE-TITLE / T4 AUDITED |
+| `அத்தர்` | `attar` | SOURCE-BEARING / T4 AUDITED |
+| `ஜவ்வாது` | `javvadu` | SOURCE-BEARING / T4 AUDITED |
+| `சிந்து` | `sindhu` | SOURCE-BEARING / T4 AUDITED |
+| `வெண்பா` | `venpa` | SOURCE-BEARING / T4 AUDITED |
+| `காமாலைக் கண் / கலைமாலைக் கண்` | `jaundiced eye / art-garland eye` | WORDPLAY / T4 AUDITED |
+| `தென்னாட்டிலுள்ள திராவிடர்` | `Dravidians of the South` | T2 CORRECTED / T4 AUDITED |
+| scan 25→26 Kambar verse | close English verse preserving four lines and page break | T4 AUDITED; no published translation imported |
 
-T3 made **15 meaning-neutral voice/cadence corrections** and **0 terminology substitutions**. All T2 source-sensitive decisions survived unchanged, including `sagath-rakshakan`, the distinct `frenzy to bear` / `frenzy to twist` witnesses, `Kambar` / `Kamban`, the source-title transliterations and the scan 25→26 verse.
+T4 made **9 genuine terminology/quotation/source corrections**. It preserved every T2/T3 meaning decision while correcting source quotation scope, restoring `கவிஞர்` in `கவிஞர் பாரதிதாசன்`, aligning the scan-23 reference to `frenzy to burn`, and relocating scan-boundary comments at the frozen scan 20→21 `Kumudam` continuation and scan 28→29 Nehru quotation. The Article 4 metadata remains `voice-reviewed` pending T5.
 
 ## Decisions still to establish in later articles
 
@@ -173,4 +175,4 @@ T3 made **15 meaning-neutral voice/cadence corrections** and **0 terminology sub
 
 ## Next lexicon activity
 
-During **Article 4 T4**, audit the complete Article 4 terminology/proper-name set, quotation boundaries, source titles, scan comments, printed-page witnesses, source-sensitive `sagath-rakshakan`, distinct `frenzy to bear` / `frenzy to twist`, the scan 25→26 Kambar verse and final Jawaharlal Nehru quotation. Do not import outside historical, epic or published-translation wording.
+During **Article 4 T5**, verify the complete T1–T4 chain against frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7` and T4-audited English candidate `324cf12bd42cb55e0a8db621965d93b82b383648`. If all non-regression checks pass, mark Article 4 verified and freeze the resulting final English blob; do not start Article 5 in the same activity.
