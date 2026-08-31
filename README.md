@@ -1,12 +1,12 @@
 # கலைஞர் கட்டுரைகள் / ஆய்வுக் கட்டுரைகள் — மின்னாக்கக் களஞ்சியம்
 
-கலைஞர் மு. கருணாநிதியின் கட்டுரைகள், தொடர்கட்டுரைகள், சிறுநூல்கள் மற்றும் கட்டுரைத் தொகுப்புகளை **மூல ஸ்கேனை controlling source ஆகக் கொண்டு** Markdown வடிவில் பாதுகாக்கும் களஞ்சியம்.
+கலைஞர் மு. கருணாநிதியின் கட்டுரைகள், தொடர்கட்டுரைகள், சிறுநூல்கள் மற்றும் கட்டுரைத் தொகுப்புகளை source-first முறையில் Markdown வடிவில் பாதுகாக்கும் களஞ்சியம்.
 
 ## மூலக் கொள்கை
 
 > **மூல ஸ்கேன் தான் controlling source. Markdown ஒரு பாதுகாப்பு அடுக்கு; திருத்தப்பட்ட புதிய பதிப்பு அல்ல.**
 
-மூலத்தில் தெரியும் எழுத்து, பழைய எழுத்துப்பாங்கு, punctuation, பெயர்கள், எண்கள், மீளுரைகள், வழக்கத்திற்கு மாறான இலக்கணம் ஆகியவை அமைதியாகச் சீர்திருத்தப்படவோ நவீனப்படுத்தப்படவோ கூடாது. Source PDF files repository-யில் commit செய்யப்படாது.
+Source-visible wording, பழைய எழுத்துப்பாங்கு, punctuation, பெயர்கள், எண்கள், மீளுரைகள், வழக்கத்திற்கு மாறான இலக்கணம் மற்றும் source-witness வேறுபாடுகள் அமைதியாகச் சீர்திருத்தப்படவோ நவீனப்படுத்தப்படவோ கூடாது. Source PDF files repository-யில் commit செய்யப்படாது.
 
 ## Permanent workflow documents
 
@@ -21,102 +21,40 @@
 
 Workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
 
-- ஆசிரியர்: **கலைஞர் மு. கருணாநிதி**
-- first-edition statement: **மே 1956**
-- supplied edition: **2018 மறுபதிப்பு**
 - physical scans: **83**
-- printed contents: **14 கட்டுரைகள்**
-- source PDF committed: **No**
+- printed articles: **14**
 - Tamil page records: **83 / 83**
-- strict Tamil fidelity: **83 / 83**
+- strict Tamil fidelity: **83 / 83 PASS**
 - Tamil assemblies: **14 / 14**
-- English release: **COMPLETE / RELEASED**
+- English T0–T5: **14 / 14 complete**
+- E6: **PASS**
+- E7: **PASS / RELEASE COMPLETE**
+- unresolved blockers: **0**
 
-Detailed records:
-
-- [`PUBLICATION_COMPLETION_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/PUBLICATION_COMPLETION_REVIEW.md)
-- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sakkaravarththiyin-thirumagan/VISUAL_TEXT_FIDELITY_REVIEW.md)
-- [`translations/en/`](publications/sakkaravarththiyin-thirumagan/translations/en/)
-
-Do not restart or stylistically rewrite Publication 1 unless a genuine source-supported defect is discovered.
+Detailed records are inside the publication workspace. Do not reopen for stylistic polishing unless a genuine source-supported or release-blocking defect is discovered.
 
 ## Publication 2 — கயிற்றில் தொங்கிய கணபதி — COMPLETE / FROZEN / RELEASED
 
 Workspace: [`publications/kayittril-thongiya-kanapathi/`](publications/kayittril-thongiya-kanapathi/)
 
-- ஆசிரியர்: **மு. கருணாநிதி**
-- publication date: **ஜூலை 1949**
-- publisher: **அறிவுப்பண்ணை**
-- type: **standalone single-article pamphlet / சிறுநூல்**
 - physical scans: **17**
-- source SHA-256: `927d05fb27a2545d6732acd9bf8bde04dba2d22546d171b502703a773b40f45a`
-- source PDF committed: **No**
-
-### Tamil source status
-
-- P0: **COMPLETE**
-- P1: **COMPLETE**
-- P2 page records: **COMPLETE — 17 / 17 verified**
-- P3 article assembly: **COMPLETE — 1 / 1**
-- P4 source audit / completeness review: **COMPLETE / PASS**
-- P5 strict visual-text-fidelity pass: **COMPLETE — 17 / 17 PASS**
+- Tamil page records: **17 / 17**
+- P4: **PASS**
+- P5 strict visual fidelity: **17 / 17 PASS**
 - article strict-fidelity recheck: **1 / 1 PASS**
-- outstanding `NEEDS-PIXEL-REVIEW`: **0**
-- unresolved source/body blockers: **0**
-- **Tamil source: COMPLETE / FROZEN**
+- Tamil source: **COMPLETE / FROZEN**
+- English translation/release: **COMPLETE / RELEASED**
+- unresolved blockers: **0**
 
-Detailed source records:
+Detailed records:
 
 - [`PUBLICATION_COMPLETION_REVIEW.md`](publications/kayittril-thongiya-kanapathi/PUBLICATION_COMPLETION_REVIEW.md)
 - [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/kayittril-thongiya-kanapathi/VISUAL_TEXT_FIDELITY_REVIEW.md)
-- [`metadata/source.md`](publications/kayittril-thongiya-kanapathi/metadata/source.md)
-- [`indexes/page-map.md`](publications/kayittril-thongiya-kanapathi/indexes/page-map.md)
-- [`articles/01-kayittril-thongiya-kanapathi.md`](publications/kayittril-thongiya-kanapathi/articles/01-kayittril-thongiya-kanapathi.md)
+- [`translations/en/`](publications/kayittril-thongiya-kanapathi/translations/en/)
 
-Source structure is frozen as scans 1–5 front matter, scan 4 `பதிப்புரை`, scan 5 blank, scans 6–15 article, scans 16–17 separate advertisements. Scan 6 has no visible printed numeral; scans 7–15 carry printed pages 6–14.
+Do not reopen for stylistic polishing unless a genuine source-supported or release-blocking defect is discovered.
 
-Retrospective correction record:
-
-- `தூக்குபோட்டுவிட்டீர்களா 1` → **`தூக்குபோட்டுவிட்டீர்களா!`**. Only `1` → `!` is source-supported; earlier assistant `தூக்குபோட்டுவிட்டார்களா!` was wrong and is withdrawn.
-- `கொண்டிருக்கின்றார்.` → **`கொண்டிருக்கிறார்.`** — source revalidated.
-- `உரத்தகுரலில்;` → **`உரத்தகுரலில்,`** — source revalidated.
-
-Source-supported forms including `உரைந்திருக்கும்`, `அடபாபமே!`, `கவலைப்பட வில்லை.`, `சோறில்லை`, `நன்றுக`, `அவர்கட்கு`, `அக்கரை`, `சாவின் முனையிலே` and final `அளிக்குமாக /` are frozen against contextual modernisation.
-
-### English translation / release status
-
-Permanent rule: **Translate the language; do not neutralise the voice.**
-
-- frozen Tamil translation authority blob: `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`
-- T0 source prerequisite / setup: **COMPLETE / PASS**
-- T1 close English draft: **COMPLETE / PASS**
-- T2 bilingual fidelity review: **COMPLETE / PASS**
-- T3 Kalaignar voice review: **COMPLETE / PASS**
-- T4 terminology / quotation / citation / source audit: **COMPLETE / PASS**
-- T5 final article verification: **COMPLETE / PASS**
-- Article 1 metadata status: **verified**
-- verified articles: **1 / 1**
-- English title: **Ganapathi Who Hung from the Rope**
-- E6 publication-level English consistency review: **COMPLETE / PASS**
-- E7 English release closeout: **COMPLETE / PASS**
-- unresolved translation/release blockers: **0**
-- English translation: **COMPLETE**
-- English release gate: **CLOSED**
-
-Translation/release records:
-
-- [`TRANSLATION_PLAN.md`](publications/kayittril-thongiya-kanapathi/TRANSLATION_PLAN.md)
-- [`translations/en/README.md`](publications/kayittril-thongiya-kanapathi/translations/en/README.md)
-- [`translations/en/LEXICON.md`](publications/kayittril-thongiya-kanapathi/translations/en/LEXICON.md)
-- [`translations/en/TRANSLATION_REVIEW.md`](publications/kayittril-thongiya-kanapathi/translations/en/TRANSLATION_REVIEW.md)
-- [`translations/en/RELEASE_REPORT.md`](publications/kayittril-thongiya-kanapathi/translations/en/RELEASE_REPORT.md)
-- [`translations/en/01-kayittril-thongiya-kanapathi.md`](publications/kayittril-thongiya-kanapathi/translations/en/01-kayittril-thongiya-kanapathi.md)
-
-E7 confirmed the verified English article blob `bf01a5d6da90e8caf6c491ed43f46cbb5e9491ba` still points to frozen Tamil blob `b7c6d02cd7bc041318693306b8658e18c3f8fa5b`, all release-facing counts/links/statuses agree, source boundaries remain intact, and the pre-E7 recursive Git tree contains no `.pdf` file. E7 made no Tamil or English body-text change.
-
-Do not reopen Publication 2 for stylistic polishing unless a genuine source-supported or release-blocking defect is discovered.
-
-## Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE ACTIVE
+## Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE COMPLETE / FROZEN
 
 Workspace: [`publications/unarchchimaalai/`](publications/unarchchimaalai/)
 
@@ -129,31 +67,59 @@ Workspace: [`publications/unarchchimaalai/`](publications/unarchchimaalai/)
 - source PDF committed: **No**
 - printed contents page: **none**
 
-### Current source status
+### Publication-specific lexical rule
 
-- P0 source intake / publication identification: **COMPLETE**
-- P1 metadata + complete 50-scan page map / article-boundary mapping: **COMPLETE**
-- P2 page-level transcription: **NEXT**
-- page records: **0 / 50**
-- article assemblies: **0 / 10**
-- strict visual-text-fidelity pass: **0 / 50**
+For this publication only, the user explicitly established:
+
+> **Retain the words as in Gemini. Correct only indentation, punctuation, spaces, missing paragraphs, headings, and analogous structural/formatting features.**
+
+Therefore scan/Gemini lexical disagreements are documented instead of silently normalised.
+
+### Final Tamil source status
+
+- P0: **COMPLETE**
+- P1: **COMPLETE**
+- P2 page records: **COMPLETE — 50 / 50 verified**
+- P3 article assemblies: **COMPLETE — 10 / 10**
+- P4 source audit / completeness review: **PASS**
+- P5 strict visual-text-fidelity pass: **COMPLETE — 50 / 50 PASS**
+- article strict-fidelity recheck: **10 / 10 PASS**
+- source-supported P5 structural/punctuation/spacing/layout corrections propagated: **236**
+- documented Gemini/source lexical conflicts retained under the user rule: **18**
+- outstanding `needs-review` / blocked fidelity items: **0**
+- unresolved Tamil/body blockers: **0**
+- **Tamil source: COMPLETE / FROZEN**
 - English translation: **NOT STARTED**
 
-P1 inspected and classified all **50 / 50** scans, created the complete page map and editorial article map, and confirmed the ten article spans. Every article-opening scan is visibly unnumbered. On scan 20 only a single `1` is legible at the page-number position; the archive does not reconstruct an unseen digit.
+Important frozen P5 results include the corrected scan 33/34 boundary, source-recovered scan-42 `பதில் இல்லை.`, scan-43 `* * *`, scan-49 `அன்பன் அச்சகம், சென்னை-1.` outside Article 10, and stacked scan-50 `BALU` / `BROS` advertisement text.
 
-Source/title witness `உணர்ச்சிமாலை` and Article 1 heading witness `உணர்ச்சி மாலை` are intentionally kept distinct. Other source-supported heading witnesses include `போகிறான்;போகிறான்..!` and the two-line Article 10 heading `கவிதையல்ல -` / `கண்ணீர்க்கடல் !`.
-
-Publication-specific user instruction: **retain Gemini's words as the working lexical baseline**. Use the scan to correct indentation, punctuation, spacing, paragraph breaks, headings, quotation/verse layout and analogous non-lexical structure. Do not silently change a Gemini word token; log any scan/Gemini lexical conflict for user decision.
-
-Source records:
+Detailed final Tamil records:
 
 - [`README.md`](publications/unarchchimaalai/README.md)
 - [`metadata/source.md`](publications/unarchchimaalai/metadata/source.md)
 - [`indexes/page-map.md`](publications/unarchchimaalai/indexes/page-map.md)
 - [`indexes/contents.md`](publications/unarchchimaalai/indexes/contents.md)
+- [`audit.md`](publications/unarchchimaalai/audit.md)
+- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/unarchchimaalai/VISUAL_TEXT_FIDELITY_REVIEW.md)
+- [`PUBLICATION_COMPLETION_REVIEW.md`](publications/unarchchimaalai/PUBLICATION_COMPLETION_REVIEW.md)
+
+### Frozen Tamil article blob authorities
+
+1. `c63837a9f7c02d6f3a18171a512d46788f66ad92`
+2. `dda81363f512ee2f829c367ae929ce3610604fe9`
+3. `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
+4. `006f2f75dbc3eea796170a29aee0befd162522e7`
+5. `c8ac4d7c241832e07bbb24c5cee935588673f4ac`
+6. `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8`
+7. `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`
+8. `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`
+9. `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
+10. `f856664d86695237a23d0ffc0bef088d32a82fe9`
+
+These are the translation authorities unless a later source-supported Tamil correction explicitly reopens P5.
 
 ## Current project state / exact next activity
 
-Publications 1 and 2 are **COMPLETE / FROZEN / RELEASED**. Publication 3 `உணர்ச்சிமாலை` is the active Tamil source publication.
+Publications 1 and 2 are **COMPLETE / FROZEN / RELEASED**. Publication 3 `உணர்ச்சிமாலை` has a **COMPLETE / FROZEN Tamil source** and is now eligible for English setup.
 
-**Exact next activity:** begin **P2 — page-level transcription**, processing **scans 1–18** as the first source-verified batch. Create one page record per physical scan; keep printed text separate from physical-copy marks; use Gemini words as the lexical baseline while restoring only source-supported punctuation, spaces, paragraphing, headings, quotation/verse layout and other non-lexical structure. Any lexical scan/Gemini conflict must be logged rather than silently changed.
+**Exact next activity:** execute **T0 — English translation source prerequisite / setup** for Publication 3 under `ESSAY_TRANSLATION_GUIDE.md`: create `TRANSLATION_PLAN.md`, `translations/en/README.md`, `translations/en/LEXICON.md`, and `translations/en/TRANSLATION_REVIEW.md`; record all ten frozen Tamil article blob SHAs; do **not** begin T1 body translation until T0 is complete.
