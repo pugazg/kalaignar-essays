@@ -28,13 +28,15 @@ Among these three kinds of comrades, to whom your ‘vote’ goes is not my ques
 
 A bewitching potion is sometimes mixed into the three-fruit blend—banana, mango and jackfruit. With a colourful new sari and a youthful coating, an ageing woman too may cast her net.
 
-I happened to see an article of this kind in “Kumudam,” the monthly publication edited by R. M. Alagappa Chettiar. It was written by an art-lover.
+I happened to see an article of this kind in “Kumudam,”
 
 <!-- Tamil source: scan 21 / printed 20 -->
 
-The title of the article was Ravana Is Our Grandfather. The moment I saw the title, I leapt with joy: so even Alagappa's journal carries the scent of racial feeling! As if to prove me completely wrong, beside the title stood a picture of ten-headed Ravana. Even so, the racial feeling mixed into the title urged me to read. Ravana is our grandfather! Ah! King of South Lanka—hero of heroes—ancestor of the Dravidians—does a true comrade who claims him as our grandfather have a place in ‘Kumudam’? My heart danced.
+the monthly publication edited by R. M. Alagappa Chettiar. It was written by an art-lover.
 
-I began to read. The comrade had begun with Kamban's description, “Those who saw the shoulders saw only the shoulders”! Having said Ravana is our grandfather... why is he standing in the passage describing Rama's beauty? At first I did not understand. Praising Kambar's description... I thought the writer would stop by singing a kavadi-chindu of praise—“Ah! Has not Kambanattazhvar created God-ist art!”—and that this would be embroidery of the same class as Kambar Tharum Katchi, Kamba Chithiram and Chithira Ramayanam. But the writer has proved very well that he is the ageing woman who came dressed in a colourful new sari to enchant the young man.
+The title of the article was Ravana Is Our Grandfather. The moment I saw the title, I leapt with joy: so even Alagappa's journal carries the scent of racial feeling! As if to prove me completely wrong, beside the title stood a picture of ten-headed Ravana. Even so, the racial feeling mixed into the title urged me to read. Ravana is our grandfather! Ah! King of South Lanka—hero of heroes—ancestor of the Dravidians—for a true comrade who claims him as our grandfather, ‘Is there a place in Kumudam?’—my heart danced.
+
+I began to read. The comrade had begun with Kamban's description, “Those who saw the shoulders saw only the shoulders”! Having said Ravana is our grandfather... why is he standing in the passage describing Rama's beauty? At first I did not understand. Praising Kambar's description... I thought the writer would stop by singing a kavadi-chindu of praise—Ah! Has not Kambanattazhvar created God-ist art!—and that this would be embroidery of the same class as Kambar Tharum Katchi, Kamba Chithiram and Chithira Ramayanam. But the writer has proved very well that he is the ageing woman who came dressed in a colourful new sari to enchant the young man.
 
 <!-- Tamil source: scan 22 / printed 21 -->
 
@@ -50,7 +52,7 @@ smile. I see no contradiction between such an old woman and the comrade's articl
 
 By saying that the frenzy to twist should have no place in the world of art, the comrade makes it clear: unable even to stand among those who mix perfume into the stinking puddle, he slips and falls—then snarls and leaps at T. K. Chidambaranathar too.
 
-Because he wrote ‘burning frenzy,’ the friend may claim that he has given heat to the Self-Respect Movement. He may even have received Alagappa's ‘applause.’ Without even knowing that what he holds in his hand is a pen, the writer has scribbled in the intoxication of art!
+Because he wrote of a frenzy to burn, the friend may claim that he has given heat to the Self-Respect Movement. He may even have received Alagappa's ‘applause.’ Without even knowing that what he holds in his hand is a pen, the writer has scribbled in the intoxication of art!
 
 It is a great wonder that this art-lover has forgotten how, in the war of words over whether the Kamba Ramayanam should be burnt or not, Sethupillai developed a headache and Somasundara Bharathiar an urgent need to travel when they could not stand on the stage against Arignar Annadurai.
 
@@ -68,13 +70,13 @@ Even when he came to sing the story of God, Kambar gave first place to erotic pl
 
 The writer in Kumudam must understand: these accusations are the matchsticks that set Kambar's art ablaze and cast it away.
 
-To save Kambar's life, the article-writer has leapt in one bound into Bharathidasan's “In the Drizzle of Sanjeevi Parvatham.” A devotee of Rama, is he not? You say Kambar's descriptions are unbelievable; yet in Bharathidasan's poem In the Drizzle of Sanjeevi Parvatham, he says that with the help of a herb Kuppan and Vanchi could see those speaking in England and America—can that description be believed? This is the manner in which the comrade raises the issue.
+To save Kambar's life, the article-writer has leapt in one bound into poet Bharathidasan's “In the Drizzle of Sanjeevi Parvatham.” A devotee of Rama, is he not? You say Kambar's descriptions are unbelievable; yet in Bharathidasan's poem In the Drizzle of Sanjeevi Parvatham, he says that with the help of a herb Kuppan and Vanchi could see those speaking in England and America—can that description be believed? This is the manner in which the comrade raises the issue.
 
 <!-- Tamil source: scan 25 / printed 24 -->
 
 We are not the ones who said the Kamba Ramayanam tastes bitter because its descriptions exceed measure! Nor are we those who say so.
 
-When Rama left Ayodhya and went to the forest, Kambar did not stop at saying that the people of the city wept; he extended the description to “the maidens wept, the cat too wept.” Even seeing that, we did not grieve. We did not ask, “Does a cat cry?” We granted it an exception as the height of description.
+When Rama left Ayodhya and went to the forest, Kambar did not stop at saying that the people of the city wept; he extended the description to “the maidens wept, the cat too wept.” Even seeing that, we did not grieve. We did not even ask: Does a cat cry? We granted it an exception as the height of description.
 
 It is the passage in which Kambar describes the path taken by the tears shed by the maidens that gave room both to Anna's Kambarasam and to the verdict of the world of reason: “Throw the Kamba Ramayanam into the fire.” No one, including the comrade, can deny this.
 
@@ -102,7 +104,7 @@ To the comrade who places Bharathidasan and Kambar on the same line, I throw dow
 
 <!-- Tamil source: scan 27 / printed 26 -->
 
-“Artists, drunkards, madmen, devotees—these are, for the most part, people of one state. To understand them, one must become like them. If that is not possible, one must simply step aside.” Thus the article-writer gives his conclusion. The comrade's course is like that of a man who cannot answer a question...... cannot carry the debate further, so says, “What you speak is mere sophistry,” and runs away! The comrade's opinion resembles the trick of the noseless man who said, “Cut off your nose.... you can behold God.”
+“Artists, drunkards, madmen, devotees—these are, for the most part, people of one state. To understand them, one must become like them. If that is not possible, one must simply step aside.” Thus the article-writer gives his conclusion. The comrade's course is like that of a man who cannot answer a question...... cannot carry the debate further, so says: what you speak is mere sophistry—and runs away! The comrade's opinion resembles the trick of the noseless man who said: Cut off your nose.... you can behold God.
 
 The Self-Respecter points out the bald spot. The friend lies: “You have a blind eye”!
 
@@ -120,8 +122,10 @@ The comrade must understand that though Kambar's story was not put into the fire
 
 “One must look without the jaundiced eye, with the art-garland eye..... Until certain truths such as these are understood, Ravana is indeed our grandfather, and Surpanakha is indeed our grandmother.” Thus the devotee of Kambar mockingly ends the article!
 
-If Kumudam's honorary editor Alagappa Chettiar, who gave the comrade space to write, ever goes to New Delhi, let him ask Pandit Jawaharlal Nehru who those described as rakshasas in the Ramayana are! “Those written of as rakshasas in the Ramayana are the Dravidians of the South,” Jawaharlal Nehru will tell Chettiar, and will produce evidence from the book he had earlier written, “Letters Jawaharlal Wrote to His Daughter.”
+If Kumudam's honorary editor Alagappa Chettiar, who gave the comrade space to write, ever goes to New Delhi, let him ask Pandit Jawaharlal Nehru who those described as rakshasas in the Ramayana are! “Those written of as rakshasas in the Ramayana are
 
 <!-- Tamil source: scan 29 / printed 28 -->
+
+the Dravidians of the South,” Jawaharlal Nehru will tell Chettiar, and will produce evidence from the book he had earlier written, “Letters Jawaharlal Wrote to His Daughter.”
 
 Then this know-nothing comrade will learn whether Ravana is our grandfather or not. There is no other answer to give him.
