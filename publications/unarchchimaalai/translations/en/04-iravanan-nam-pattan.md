@@ -8,8 +8,8 @@ source_tamil_blob_sha: "006f2f75dbc3eea796170a29aee0befd162522e7"
 source_scan_pages: "19-29"
 source_printed_pages: "scan 19 unnumbered; scan 20 visible `1` only; scans 21-29 show 20-28"
 language: "en"
-translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed and T3 voice-reviewed against the frozen Tamil assembly"
+translation_status: "verified"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed, T3 voice-reviewed, T4 source-audited and T5 verified against the frozen Tamil assembly"
 ---
 
 # Ravana Is Our Grandfather
