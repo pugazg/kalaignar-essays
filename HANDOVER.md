@@ -98,77 +98,66 @@ Active files:
 Frozen Tamil authority: `c63837a9f7c02d6f3a18171a512d46788f66ad92`  
 English file: `publications/unarchchimaalai/translations/en/01-unarchchi-maalai.md`  
 English title: **Garland of Emotion**  
-Final verified English blob: **`4246c9f1e206d5703fe50297657bb0af2a8e57e6`**
+Final verified English blob: `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
 
-Gate record:
-
-- T1 close draft: **PASS**
-- T2 bilingual fidelity: **PASS** — **11** documented fidelity corrections
-- T3 Kalaignar voice: **PASS** — **7** meaning-neutral voice/cadence corrections
-- T4 terminology / quotation / citation / source audit: **PASS** — **0** body corrections
-- T5 final article verification: **PASS** — **0** body corrections
+- T1: **PASS**
+- T2: **PASS** — 11 fidelity corrections
+- T3: **PASS** — 7 meaning-neutral voice/cadence corrections
+- T4: **PASS** — 0 body corrections
+- T5: **PASS** — 0 body corrections
 - unresolved Article 1 blockers: **0**
 
-Article 1 is individually verified, but publication-level E6/E7 release freezing waits until all ten articles pass T5.
-
-## Article 2 — `புரட்சி வளர்ந்த கதை` — T1–T2 COMPLETE / FIDELITY-REVIEWED
+## Article 2 — `புரட்சி வளர்ந்த கதை` — T1–T3 COMPLETE / VOICE-REVIEWED
 
 Frozen Tamil authority: `dda81363f512ee2f829c367ae929ce3610604fe9`  
 English file: `publications/unarchchimaalai/translations/en/02-puratchi-valarntha-kathai.md`  
 English title: **The Story of How the Revolution Grew**  
-T1 English draft blob: `c036f2439874dacf6220e7da529e852cf28e223a`  
-T2 fidelity-reviewed blob: **`ec61502524a073a45292202da71d8979b5d254b2`**
-
-### T1 results
-
-- complete close draft from scans 10–15: **PASS**
-- scan comments 10–15: **retained / ordered**
-- scan 11→12 `இரஷ்ய வரலாறு...` continuation: **retained**
-- scan 13→14 `ரஸ்புடீனை / சுட்டுக்கொன்றது` continuation: **retained**
-- dates/numbers and source questions/exclamations/repetition: **retained**
-- frozen Tamil changed: **No**
-- outside/web historical reconstruction or published translation imported: **No**
+T1 draft blob: `c036f2439874dacf6220e7da529e852cf28e223a`  
+T2 fidelity-reviewed blob: `ec61502524a073a45292202da71d8979b5d254b2`  
+T3 voice-reviewed blob: **`cff1840ab297a00b933390ee41207afd9709e9b8`**
 
 ### T2 — COMPLETE / PASS
 
-Article 2 advanced to `translation_status: fidelity-reviewed` after a complete clause-by-clause comparison across scans 10–15.
+T2 made **10 documented fidelity corrections** and confirmed the Article 2 terminology/source-sensitive set, including `proletarian people`, `pomp`, `religionist`, `King Nicholas`, one English `Lenin` / `Petrograd` across frozen Tamil source-form variants, and retained `Mangaiyarkkarasi`, `Kulachchirai`, `kidukidu`, `Romanal`, `Chiranjeevi`, `God-ism`, `Dravidam`, `Self-Respect` without outside historical reconstruction.
 
-T2 made **10 documented fidelity corrections**:
+### T3 — COMPLETE / PASS
 
-1. `no refuge` → `there was no way out` for frozen `கதியிலை`;
-2. removed T1's added `That is the victory festival!` and restored the scan-10 accumulation to end directly `—a victory festival!`;
-3. `Tsar Nicholas` → **King Nicholas** for `நிக்கோலாஸ் மன்னன்`;
-4. restored `புன் சிரிப்பு` as **faint smile**;
-5. `struck Prince Sergius dead` → **beat Prince Sergius to death**;
-6. scan-12 `Society spat...` → **The people spat...** for `ஜனசமுதாயம்`;
-7. `price of knowledge` → **price of intelligence** for `அறிவு`;
-8. `another killing` → **another murder** for `கொலை`;
-9. removed T1's added imperative `Remember` from the scan 13→14 lion-cub/Rasputin continuation;
-10. `ceremony of Tsar's abdication` → **Tsar-king's abdication ceremony** for `ஜார் அரசனின் முடிதுறப்பு வைபவம்`.
+Article 2 advanced to `translation_status: voice-reviewed` after a full Kalaignar-voice review against the frozen Tamil. T3 made **10 meaning-neutral voice/cadence corrections** while preserving every T2 meaning/source decision.
 
-### Article 2 T2 terminology/source decisions
+T3 strengthened:
 
-- title **The Story of How the Revolution Grew**: confirmed;
-- `பாட்டாளி மக்கள்` → **proletarian people**: retained;
-- quoted `பவிசு` → **pomp**: retained source-sensitively;
-- `மதவாதி` → **religionist** / capitalist–religionist class: retained;
-- frozen `இலெனின்` / `லெனின்` → one conventional **Lenin**, source variation documented;
-- frozen `பீட்ரோகிராட்` / `பீட்ரோ கிரோடு` → one conventional **Petrograd**, source variation documented;
-- `Mangaiyarkkarasi`, `Kulachchirai`, `kidukidu`, `Romanal`, `Chiranjeevi`, `God-ism`, `Dravidam`, `Self-Respect`: explicitly reviewed and retained without outside reconstruction;
-- frozen scan-11 `மௌனமாகவே` remains controlling despite the P5 scan-appearing alternate;
-- scan comments 10–15 and both cross-scan continuations: **PASS**;
-- frozen Tamil changed: **No**;
-- outside/web historical wording or published English translation imported: **No**;
-- unresolved T2 blockers: **0**.
+1. the opening capitalist-class strangling image;
+2. the parallel jubilant-festival / throttled-lords sentence;
+3. Lenin's corpse-enthronement / warrior-dance image;
+4. the police `stood on their heads` idiom;
+5. the personified gallows / faint-smile action;
+6. the Rasputin/scorpion comparison cadence;
+7. `The Tsar himself set out!`;
+8. the emergency-session sentence by removing passive flattening;
+9. Lenin's rallying of workers' strength;
+10. the final `No...` foundation-ceremony reversal.
 
-Detailed T1/T2 provenance: `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md`.
+### Article 2 T3 non-regression
+
+- T2 terminology/source decisions: **PASS**
+- title: **PASS**
+- source-sensitive forms: **PASS / unchanged**
+- scan comments 10–15: **PASS / ordered**
+- scan 11→12 continuation: **PASS**
+- scan 13→14 Rasputin continuation: **PASS**
+- frozen scan-11 `மௌனமாகவே` authority: **unchanged**
+- frozen Tamil changed: **No**
+- outside/web historical reconstruction or published translation imported: **No**
+- unresolved T3 blockers: **0**
+
+Detailed provenance: `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md`.
 
 ## English progress
 
 - T0 setup: **PASS**
 - T1 drafts: **2 / 10**
 - T2 fidelity-reviewed: **2 / 10**
-- T3 voice-reviewed: **1 / 10**
+- T3 voice-reviewed: **2 / 10**
 - T4 audited: **1 / 10**
 - T5 verified: **1 / 10**
 - E6: **NOT STARTED**
@@ -179,20 +168,23 @@ Detailed T1/T2 provenance: `publications/unarchchimaalai/translations/en/TRANSLA
 
 # Exact next activity
 
-Execute **Article 2 T3 — Kalaignar voice review** for `புரட்சி வளர்ந்த கதை` / **The Story of How the Revolution Grew** against frozen Tamil blob:
+Execute **Article 2 T4 — terminology / quotation / citation / source audit** for `புரட்சி வளர்ந்த கதை` / **The Story of How the Revolution Grew** against:
 
-`dda81363f512ee2f829c367ae929ce3610604fe9`
+- frozen Tamil blob: `dda81363f512ee2f829c367ae929ce3610604fe9`
+- T3 English blob: `cff1840ab297a00b933390ee41207afd9709e9b8`
+- source scans: **10–15**
 
-T3 must:
+T4 must:
 
-1. preserve every T2 meaning/source decision and all source-sensitive treatments;
-2. review the English as English against the frozen Tamil for directness, repetition, rhetorical questions, exclamations, violent imagery, ridicule, accumulative dashes, `No...` reversals and class-political force;
-3. preserve `proletarian people`, `pomp`, `religionist`, `King Nicholas`, `Mangaiyarkkarasi`, `Kulachchirai`, `kidukidu`, `Romanal`, `Chiranjeevi`, `God-ism`, `Dravidam`, `Self-Respect`, and the T2 Lenin/Petrograd provenance unless a meaning-neutral cadence adjustment is needed around them;
-4. retain scan comments 10–15 and the scan 11→12 / scan 13→14 continuations;
-5. make only meaning-neutral voice/cadence corrections, not new fidelity reinterpretations;
-6. advance to `translation_status: voice-reviewed` only if T3 passes;
-7. update tracker, lexicon, review ledger, plan and this handover;
-8. **stop before Article 2 T4 terminology / quotation / source audit**.
+1. audit terminology, proper names and recurring political labels against the living lexicon;
+2. audit `proletarian people`, `pomp`, `religionist`, `King Nicholas`, `Lenin`, `Duma`, `Petrograd`, `Mangaiyarkkarasi`, `Kulachchirai`, `kidukidu`, `Romanal`, `Chiranjeevi`, `God-ism`, `Dravidam`, `Self-Respect`;
+3. confirm quotation boundaries, especially the personified gallows, `Duma`, `kidukidu`, `Shoot them down!`, `Tsar-king's abdication ceremony`, `Pyre! Pyre!`;
+4. audit dates/numbers and source-page comments 10–15;
+5. verify scan 11→12 and scan 13→14 continuations;
+6. preserve the publication-specific frozen Tamil/Gemini provenance and do not import outside historical corrections;
+7. keep article metadata at `voice-reviewed` until T5 unless a genuine T4 body defect is found;
+8. update tracker, lexicon, review ledger, plan and this handover;
+9. **stop before Article 2 T5 final verification**.
 
 ## Current blockers
 
