@@ -4,7 +4,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Status
 
-**Articles 1–2 T5 VERIFIED; Article 3 T1–T4 COMPLETE / T4 PASS.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
+**Articles 1–3 T5 VERIFIED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
 
 > **Translate the language; do not neutralise the voice.**
 
@@ -79,37 +79,35 @@ Final verified English blob: `f1599a8e7cae4ba749b9be2857705b152887f9f8`
 | `பவிசு` | `pomp` | SOURCE-SENSITIVE / T5 VERIFIED |
 | `மதவாதி` | `religionist` | T5 VERIFIED |
 
-## Article 3 — T4-audited decisions
+## Article 3 — T5-verified decisions
 
 Frozen Tamil authority: `92eb1a68d65f65dd71274e5e79f3209e63359d9a`  
-T1 draft blob: `41abd9d0071ee9f3511a0781bd3ab503404dff72`  
-T2 fidelity-reviewed blob: `1df8b58eb79e1193bdad761faf7ab2953af381fd`  
-T3/T4 English candidate blob: `b7e887172c7a549112a44caad43c7e7f5815f5d3`
+Final verified English blob: `1134185bc21478775419adb3560b110c001d2b75`
 
 | Tamil / source form | English decision | Status / caution |
 |---|---|---|
-| `போகிறான்;போகிறான்..!` | `He Goes; He Goes..!` | T4 PASS |
-| `இலட்சியம்` | `ideal` | T4 PASS; do not flatten to generic `goal` |
-| `இலட்சிய வீரன்` | `warrior of ideals` | T4 PASS |
-| `இலட்சியக்காரன்` / `இலட்சிய வாதி` | `idealist` | T4 PASS |
-| `பாறையு` | `paaraiyu` | SOURCE-SENSITIVE / T4 PASS; frozen token not expanded |
-| `இடுக்கண் வருங்கால் நகுக` | `Laugh when adversity comes` | T4 PASS; no published Kural translation imported |
-| `குறள்` | `Kural` | SOURCE-BEARING / T4 PASS |
-| `ஈயச் செம்பே` | `crushed lead vessel` | SOURCE-SENSITIVE / T4 PASS |
-| `பொதுநலப் பணி` | `public-welfare work` | T4 PASS |
-| `மகாத்மாக்கள்` | `Mahatmas` | T4 PASS; source label only |
-| `செல் மொய்த்த` | `swarmed by sel` | SOURCE-SENSITIVE / T4 PASS; no outside repair |
-| `சுயநல பெருச்சாளிகள்` | `selfish bandicoots` | T4 PASS; insulting animal image retained |
-| `பசலைப் பயலே` | `pallid rascal` | T4 PASS |
-| `செல்வாக்கை செல்லாக்காசாக்குகிறேன்` | `I will turn your influence into worthless coin` | T4 PASS; wordplay retained |
-| `அன்று வீரமுழக்கம் செய்வான்` | `That day he will roar a warrior's cry` | SOURCE-SENSITIVE / T4 PASS; frozen `அன்று` retained |
-| `மாட மாளிகை` | `storeyed mansion` | T4 PASS |
-| `நீர்மேற்குமிழி பஜனை` | `water-bubble bhajan` | SOURCE-BEARING / T4 PASS |
-| `கண்மூடிகள்` | `those with their eyes shut` | T4 PASS |
-| `பாகு மொழி` | `syrupy speech` | T4 PASS |
-| `போகிறான் -போகிறான்-போய்க் கொண்டே இருக்கிறான்` | `goes—goes—keeps going` | T4 PASS; repetition must survive T5 |
+| `போகிறான்;போகிறான்..!` | `He Goes; He Goes..!` | T5 VERIFIED |
+| `இலட்சியம்` | `ideal` | T5 VERIFIED; do not flatten to generic `goal` |
+| `இலட்சிய வீரன்` | `warrior of ideals` | T5 VERIFIED |
+| `இலட்சியக்காரன்` / `இலட்சிய வாதி` | `idealist` | T5 VERIFIED |
+| `பாறையு` | `paaraiyu` | SOURCE-SENSITIVE / T5 VERIFIED; frozen token not expanded |
+| `இடுக்கண் வருங்கால் நகுக` | `Laugh when adversity comes` | T5 VERIFIED; no published Kural translation imported |
+| `குறள்` | `Kural` | SOURCE-BEARING / T5 VERIFIED |
+| `ஈயச் செம்பே` | `crushed lead vessel` | SOURCE-SENSITIVE / T5 VERIFIED |
+| `பொதுநலப் பணி` | `public-welfare work` | T5 VERIFIED |
+| `மகாத்மாக்கள்` | `Mahatmas` | T5 VERIFIED; source label only |
+| `செல் மொய்த்த` | `swarmed by sel` | SOURCE-SENSITIVE / T5 VERIFIED; no outside repair |
+| `சுயநல பெருச்சாளிகள்` | `selfish bandicoots` | T5 VERIFIED; insulting animal image retained |
+| `பசலைப் பயலே` | `pallid rascal` | T5 VERIFIED |
+| `செல்வாக்கை செல்லாக்காசாக்குகிறேன்` | `I will turn your influence into worthless coin` | T5 VERIFIED; wordplay retained |
+| `அன்று வீரமுழக்கம் செய்வான்` | `That day he will roar a warrior's cry` | SOURCE-SENSITIVE / T5 VERIFIED; frozen `அன்று` retained |
+| `மாட மாளிகை` | `storeyed mansion` | T5 VERIFIED |
+| `நீர்மேற்குமிழி பஜனை` | `water-bubble bhajan` | SOURCE-BEARING / T5 VERIFIED |
+| `கண்மூடிகள்` | `those with their eyes shut` | T5 VERIFIED |
+| `பாகு மொழி` | `syrupy speech` | T5 VERIFIED |
+| `போகிறான் -போகிறான்-போய்க் கொண்டே இருக்கிறான்` | `goes—goes—keeps going` | T5 VERIFIED |
 
-T4 made **0 terminology substitutions and 0 body corrections**. Quotation/source boundaries, scan comments and printed-page fields also passed. No published Kural wording, outside lexical repair or scan-alternate Gemini reading was imported.
+T5 made **0 terminology substitutions and 0 body corrections**. Quotation/source boundaries, scan comments and printed-page fields passed final verification.
 
 ## Decisions still to establish in later articles
 
@@ -129,4 +127,4 @@ T4 made **0 terminology substitutions and 0 body corrections**. Quotation/source
 
 ## Next lexicon activity
 
-During **Article 3 T5**, reconfirm the Article 3 T4 decisions above as a non-regression set. Do not replace `paaraiyu`, `sel`, frozen `அன்று`, `water-bubble bhajan` or any other source-sensitive form with outside/scan reconstructions.
+During **Article 4 T1**, establish only terminology actually encountered in frozen `இராவணன் நம் பாட்டன்`, preserving scan-19 source-recovered provenance and avoiding assumptions from Article 2 `Dravidam` when the source uses a different form such as `திராவிடர்`.
