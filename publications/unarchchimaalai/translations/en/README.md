@@ -12,7 +12,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T0 source prerequisite/setup: **COMPLETE / PASS**
 - T1 close English drafts: **3 / 10**
 - T2 fidelity-reviewed: **3 / 10**
-- T3 voice-reviewed: **2 / 10**
+- T3 voice-reviewed: **3 / 10**
 - T4 audited: **2 / 10**
 - T5 verified: **2 / 10**
 - E6 publication consistency review: **NOT STARTED**
@@ -20,7 +20,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - English translation: **IN PROGRESS**
 - unresolved translation blockers: **0**
 
-Articles 1 and 2 have completed T0–T5 and are individually `verified`. Article 3 has completed T1–T2 and is `fidelity-reviewed`.
+Articles 1 and 2 have completed T0–T5 and are individually `verified`. Article 3 has completed T1–T3 and is `voice-reviewed`.
 
 ## Frozen Tamil translation authorities
 
@@ -43,7 +43,7 @@ Articles 1 and 2 have completed T0–T5 and are individually `verified`. Article
 |---:|---|---|---|---|---|---|---|---|---|
 | 1 | உணர்ச்சி மாலை | [`01-unarchchi-maalai.md`](01-unarchchi-maalai.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 2 | புரட்சி வளர்ந்த கதை | [`02-puratchi-valarntha-kathai.md`](02-puratchi-valarntha-kathai.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 3 | போகிறான்;போகிறான்..! | [`03-pogiran-pogiran.md`](03-pogiran-pogiran.md) | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
+| 3 | போகிறான்;போகிறான்..! | [`03-pogiran-pogiran.md`](03-pogiran-pogiran.md) | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
 | 4 | இராவணன் நம் பாட்டன் | `04-iravanan-nam-pattan.md` | `not-started` | PASS | — | — | — | — | — |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `05-ingalla-irashyavil.md` | `not-started` | PASS | — | — | — | — | — |
 | 6 | 3, 57, 90. | `06-3-57-90.md` | `not-started` | PASS | — | — | — | — | — |
@@ -74,25 +74,27 @@ Articles 1 and 2 have completed T0–T5 and are individually `verified`. Article
 - T5 body corrections: **0**
 - blockers: **0**
 
-## Article 3 T1–T2 record
+## Article 3 T1–T3 record
 
 - Tamil title: `போகிறான்;போகிறான்..!`
 - English title: **He Goes; He Goes..!**
 - frozen Tamil authority: `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
 - source scans: **16–18**
 - T1 draft blob: `41abd9d0071ee9f3511a0781bd3ab503404dff72`
-- T2 fidelity-reviewed blob: **`1df8b58eb79e1193bdad761faf7ab2953af381fd`**
+- T2 fidelity-reviewed blob: `1df8b58eb79e1193bdad761faf7ab2953af381fd`
+- T3 voice-reviewed blob: **`b7e887172c7a549112a44caad43c7e7f5815f5d3`**
 - T2 body fidelity corrections: **5**
+- T3 meaning-neutral voice/cadence corrections: **11**
 - complete paragraph/clause coverage: **PASS**
 - scan comments 16–18: **PASS / ordered**
-- questions, exclamations, quotation boundaries, insults and closing repetition: **PASS**
-- source-sensitive `paaraiyu`, `sel`, frozen `அன்று` → `That day`, and `water-bubble bhajan`: **retained**
-- Kural line `Laugh when adversity comes`, `Mahatmas`, `selfish bandicoots`, `crushed lead vessel`, and `செல்வாக்கை / செல்லாக்காசு` wordplay: **T2 confirmed**
+- questions, exclamations, quotation boundaries, insults, vivid imagery and closing repetition: **PASS**
+- source-sensitive `paaraiyu`, `sel`, frozen `அன்று` → `That day`, and `water-bubble bhajan`: **retained unchanged through T3**
+- Kural line `Laugh when adversity comes`, `Mahatmas`, `selfish bandicoots`, `crushed lead vessel`, and `செல்வாக்கை / செல்லாக்காசு` wordplay: **preserved through T3**
 - frozen scan-16 `பாறையு` and scan-17 `தனக்குக்`: **upstream authority unchanged**
 - outside/web wording or alternate scan lexical reconstruction imported: **No**
 - unresolved Article 3 blockers: **0**
 
-T2 corrections: `dive for pearls` → `gather pearls`; `public work` → `public-welfare work`; `pallid wretch` → `pallid rascal`; `terraced mansion` → `storeyed mansion`; `the blind` → `those with their eyes shut`.
+T3 tightened the opening three-image cadence, the obstacle/ideal-path sentence, ghastly-dance line, direct `crushed lead vessel` mockery, scan-18 list punctuation, jealous-voice entry, ascetic refusal cadence, `water-bubble bhajan` staging and the final destruction/`Yet ... goes—goes—keeps going` movement without changing T2 meaning decisions.
 
 ## Translation authority / special source rule
 
@@ -100,4 +102,4 @@ English authority is the frozen Tamil article assembly, not OCR, memory, web wor
 
 ## Exact next activity
 
-Execute **Article 3 T3 — Kalaignar voice review** for `போகிறான்;போகிறான்..!` / **He Goes; He Goes..!** against frozen Tamil blob `92eb1a68d65f65dd71274e5e79f3209e63359d9a` and T2 English blob `1df8b58eb79e1193bdad761faf7ab2953af381fd`, scans **16–18**. Preserve every T2 meaning/source decision while reviewing cadence, force, ridicule, direct address, accumulation, questions, exclamations and the closing `goes—goes—keeps going` movement. Make only meaning-neutral voice/cadence changes, advance to `voice-reviewed` only if T3 passes, and **stop before Article 3 T4**.
+Execute **Article 3 T4 — terminology / quotation / citation / source audit** for `போகிறான்;போகிறான்..!` / **He Goes; He Goes..!** against frozen Tamil blob `92eb1a68d65f65dd71274e5e79f3209e63359d9a` and T3 English blob `b7e887172c7a549112a44caad43c7e7f5815f5d3`, scans **16–18**. Audit the living lexicon, source-sensitive forms, Kural quotation, quotation boundaries, scan comments/printed-page fields, insult/wordplay decisions and final repeated motion. Keep metadata `voice-reviewed` unless a genuine T4 body defect is found, record the audit, and **stop before Article 3 T5**.
