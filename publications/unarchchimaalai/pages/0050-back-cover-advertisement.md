@@ -17,7 +17,8 @@ transcription_method: "Gemini lexical baseline retained for printed wording; adv
 
 ## மணமகள்
 
-BALU BROS
+BALU  
+BROS
 
 ## அச்சு அல்லாத / physical-copy marks
 
@@ -27,7 +28,8 @@ BALU BROS
 ## Audit note
 
 - This is a separate back-cover advertisement and is not part of Article 10.
-- Gemini's leading standalone `C` is excluded because no corresponding printed character is present before `எனெஸ்கே பிலிம்ஸாரின்` on the scan.
+- Gemini's leading standalone `C` remains excluded because no corresponding printed character is present before `எனெஸ்கே பிலிம்ஸாரின்` on the scan.
+- `BALU` / `BROS` is restored as the source-visible stacked two-line credit.
 - No printed page numeral is visible.
 
 <!-- மூல ஸ்கேன் பக்கம்: 50; அச்சுப் பக்கம்: — -->
