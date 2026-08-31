@@ -13,7 +13,7 @@
 - Publication type: **10-article collection / multi-article publication**
 - P0: **COMPLETE**
 - P1: **COMPLETE**
-- P2 page-level transcription: **ACTIVE — 38 / 50 verified**
+- P2 page-level transcription: **COMPLETE — 50 / 50 verified**
 - P3 article assembly: **NOT STARTED — 0 / 10**
 - P4 source audit / completeness review: **NOT STARTED**
 - P5 strict visual text-fidelity pass: **NOT STARTED**
@@ -116,8 +116,11 @@ These heading witnesses must remain distinct from any differently spaced OCR/bod
 - scan 19 opens Article 4 and contains body text omitted entirely from the supplied Gemini transcription
 - scan 29 ends Article 4 with a printed floral ornamental device
 - scan 32 contains a Gemini/scan lexical-order discrepancy explicitly logged in the page record; no silent lexical reorder was made
+- scan 41 ends Article 7 with the source-visible lead `வரலாற்றை வீணாக்கிய`; scan 42 opens Article 8 with the separate two-line heading `பத்தினியே` / `உன்போல்...!`
+- scan 48 contains a Gemini/source lexical conflict at Gemini `ப்ழச்சளை`; Gemini wording is retained and the discrepancy logged
+- scan 49 contains a Gemini/source lexical-order conflict for `விட்டாய்.`; Gemini order is retained and the discrepancy logged
 - scan 49 is a mixed-role page: Article 10 conclusion plus publication-source note and printer imprint below the article body
-- scan 50 is an illustrated advertisement and must remain separate from article body
+- scan 50 is an illustrated advertisement and remains separate from article body
 
 ## Publication-specific user instruction — lexical baseline
 
@@ -146,9 +149,9 @@ P1 metadata + complete page / boundary mapping is **COMPLETE**:
 - publication/title/article-heading witness distinctions documented;
 - no Gemini lexical token was changed during P1.
 
-## P2 progress — scans 1–38 complete
+## P2 result — COMPLETE
 
-Page records now exist for **38 / 50** physical scans and were directly compared with the source for the user-authorised structural layer.
+Page records now exist for **50 / 50** physical scans and were directly compared with the source for the user-authorised structural layer.
 
 Completed:
 
@@ -158,24 +161,31 @@ Completed:
 - scans **16–18** — Article 3 `போகிறான்;போகிறான்..!`;
 - scans **19–29** — Article 4 `இராவணன் நம் பாட்டன்`;
 - scans **30–32** — Article 5 `இங்கல்ல! இரஷ்யாவில்`;
-- scans **33–38** — Article 6 `3, 57, 90.`.
+- scans **33–38** — Article 6 `3, 57, 90.`;
+- scans **39–41** — Article 7 `30-1-1948`;
+- scans **42–44** — Article 8 `பத்தினியே உன்போல்...!`;
+- scans **45–47** — Article 9 `அன்னை நாகம்மையார்!`;
+- scans **48–49** — Article 10 `கவிதையல்ல - கண்ணீர்க்கடல் !`;
+- scan **50** — separate `மணமகள்` back-cover advertisement.
 
-P2 rules applied:
+P2 rules and non-regression notes:
 
-- `# அச்சு உரை` and `## அச்சு அல்லாத / physical-copy marks` kept separate;
-- Gemini letters/word choices retained as the lexical baseline wherever present;
-- scan-supported punctuation, spacing, paragraph breaks, headings and quotation/lineation restored;
-- visible printed page numerals preserved exactly;
-- article-opening scans 6, 10, 16, 19, 30 and 33 remain `printed_page: null`;
+- `# அச்சு உரை` and `## அச்சு அல்லாத / physical-copy marks` are separated on every page record;
+- Gemini letters/word choices are retained as the lexical baseline wherever present;
+- scan-supported punctuation, spacing, paragraph breaks, headings and quotation/verse lineation are restored;
+- visible printed page numerals are preserved exactly and every article-opening scan remains unnumbered;
 - scan 20 records only the visible incomplete page-position witness `1`, never an inferred `19`;
-- **Gemini omission at scan 19:** the supplied OCR jumps directly from Article 3 to scan-20 text. Under the user's explicit instruction to correct missing paragraphs, scan 19 was transcribed directly from the controlling scan and its page record explicitly labels the text as source-recovered rather than Gemini-derived;
-- **scan 32 lexical/order conflict:** Gemini supplies `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...`, while direct scan inspection visibly places/distributes those words differently. The Gemini sequence remains in the archival working layer and the discrepancy is logged for user decision rather than silently corrected;
-- intrusive non-source OCR artefacts such as `ID` and misread standalone page numbers are excluded only when direct scan evidence confirms they are not printed body text;
+- **scan 19:** whole-page Gemini omission was source-recovered only under the user's missing-paragraph instruction and is explicitly labelled as such;
+- **scan 32:** Gemini lexical/order conflict remains unresolved in favour of the Gemini working sequence, with provenance logged;
+- **scan 48:** Gemini `ப்ழச்சளை` remains retained despite a visibly different scan reading; no silent lexical correction;
+- **scan 49:** Gemini `விட்டாய்.` placement remains retained despite the scan placing it earlier; no silent lexical reordering;
+- intrusive non-source OCR artefacts (`ID`, `1-48-1-30`, `e`, `செளே`, leading scan-50 `C`, and standalone page-number intrusions) are excluded only after direct scan confirmation;
+- scan 49 publication-source note/imprint and scan 50 advertisement are not Article 10 body;
 - no English translation or article assembly work has begun.
 
 ## Exact next gate
 
-Finish **P2 — scans 39–50** in one closing page-layer batch: Articles 7–10 plus the separate scan-50 back-cover advertisement. Preserve unnumbered article-opening scans 39, 42, 45 and 48, preserve the scan-49 mixed-role closing/imprint material, retain Gemini words unchanged wherever supplied, and correct only the user-authorised structural/punctuation/spacing features.
+**P3 — article assembly for all 10 articles.** Assemble each reading copy from its verified page records without reopening lexical decisions. Preserve source-supported headings, quotation/verse structure and page-boundary provenance. Keep scan-49 publication-close matter and scan-50 advertisement outside Article 10.
 
 ## Source authority / user-baseline rule
 
