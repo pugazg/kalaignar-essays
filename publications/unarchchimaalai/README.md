@@ -42,7 +42,6 @@ Operationally:
 - outstanding `needs-review` / blocked fidelity items: **0**
 - unresolved Tamil/body blockers: **0**
 - **Tamil source: COMPLETE / FROZEN**
-- English translation: **NOT STARTED**
 
 Detailed final Tamil records:
 
@@ -111,15 +110,33 @@ P5 additionally records **18** explicit Gemini/source lexical conflicts in [`VIS
 9. [`articles/09-annai-nagammaiyar.md`](articles/09-annai-nagammaiyar.md) — `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
 10. [`articles/10-kavithaiyalla-kannirkkadal.md`](articles/10-kavithaiyalla-kannirkkadal.md) — `f856664d86695237a23d0ffc0bef088d32a82fe9`
 
-These are the frozen Tamil authorities for English T0 unless a later source-supported Tamil correction explicitly reopens P5.
+These remain frozen Tamil authorities unless a later source-supported Tamil correction explicitly reopens P5.
+
+## English translation — T0 COMPLETE / PASS
+
+Translation setup follows [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_GUIDE.md).
+
+- ten frozen Tamil blobs reverified against live `main`: **10 / 10 PASS**
+- T0 source prerequisite/setup: **COMPLETE / PASS**
+- T1 close drafts: **0 / 10**
+- T2 fidelity-reviewed: **0 / 10**
+- T3 voice-reviewed: **0 / 10**
+- T4 audited: **0 / 10**
+- T5 verified: **0 / 10**
+- English body translation started: **No**
+- unresolved T0 translation blockers: **0**
+
+Translation records:
+
+- [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
+- [`translations/en/README.md`](translations/en/README.md)
+- [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+
+The complete 18-item P5 lexical-conflict provenance has been carried into the English review setup. Translation must follow the frozen Tamil assemblies rather than silently substituting scan-appearing alternatives.
 
 ## Next activity
 
-Tamil source processing is **COMPLETE / FROZEN**. The next normal activity is **T0 — English translation source prerequisite / setup** under `ESSAY_TRANSLATION_GUIDE.md`:
+Execute **Article 1 T1 — complete close English draft for `உணர்ச்சி மாலை`** from frozen Tamil blob `c63837a9f7c02d6f3a18171a512d46788f66ad92`.
 
-- create `TRANSLATION_PLAN.md`;
-- create `translations/en/README.md`;
-- create `translations/en/LEXICON.md`;
-- create `translations/en/TRANSLATION_REVIEW.md`;
-- record all ten frozen Tamil article blob SHAs;
-- do **not** begin T1 body translation until T0 setup is complete.
+T1 must translate the complete article paragraph by paragraph, preserve verse structure and all Tamil-source scan-boundary comments, establish a provisional English title and initial living-lexicon decisions, leave `translation_status: draft`, update the translation tracker/review ledger, and stop before T2 bilingual review.
