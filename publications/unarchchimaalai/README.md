@@ -84,9 +84,9 @@ Notable anomaly: on **scan 20**, only a single visible `1` is legible at the pag
 
 Preserve these independent witnesses separately; do not normalize one from another.
 
-## P2 — page-level transcription — ACTIVE
+## P2 — page-level transcription — COMPLETE
 
-- page records: **38 / 50 verified**
+- page records: **50 / 50 verified**
 - scans **1–5** front matter: **complete**
 - Article 1 `உணர்ச்சி மாலை`, scans **6–9**: **4 / 4 complete**
 - Article 2 `புரட்சி வளர்ந்த கதை`, scans **10–15**: **6 / 6 complete**
@@ -94,12 +94,24 @@ Preserve these independent witnesses separately; do not normalize one from anoth
 - Article 4 `இராவணன் நம் பாட்டன்`, scans **19–29**: **11 / 11 complete**
 - Article 5 `இங்கல்ல! இரஷ்யாவில்`, scans **30–32**: **3 / 3 complete**
 - Article 6 `3, 57, 90.`, scans **33–38**: **6 / 6 complete**
-- Gemini lexical baseline retained throughout all portions where Gemini supplied wording; scan-supported punctuation, spacing, paragraphing, headings and quotation/lineation restored
+- Article 7 `30-1-1948`, scans **39–41**: **3 / 3 complete**
+- Article 8 `பத்தினியே உன்போல்...!`, scans **42–44**: **3 / 3 complete**
+- Article 9 `அன்னை நாகம்மையார்!`, scans **45–47**: **3 / 3 complete**
+- Article 10 `கவிதையல்ல - கண்ணீர்க்கடல் !`, scans **48–49**: **2 / 2 complete**
+- scan **50** back-cover `மணமகள்` advertisement: **complete**
+- Gemini lexical baseline retained throughout all portions where Gemini supplied wording; scan-supported punctuation, spacing, paragraphing, headings and quotation/verse lineation restored
 - **scan 19 exception:** Gemini omitted the entire page body; because the user explicitly authorised correction of missing paragraphs, scan 19 was recovered directly from the controlling scan and clearly documented as source-recovered rather than Gemini-derived
-- **scan 32 lexical-order conflict:** the Gemini stream supplies `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...`, while the scan visibly distributes that wording differently. The Gemini token sequence is retained and the conflict is explicitly logged rather than silently reordered or substituted
-- intrusive OCR artefacts such as scan-31 `ID` and Gemini page-number intrusions are excluded only where the scan confirms they are not printed body text
-- article-opening scans 30 and 33 remain unnumbered; visible continuation numbers 30–31 and 33–37 are preserved
-- printed-text and physical-copy layers kept separate
+- **scan 32 lexical-order conflict:** Gemini supplies `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...`, while the scan visibly distributes that wording differently; Gemini order is retained and the conflict logged
+- **scan 41 structural boundary:** Article 7 ends with source-visible `வரலாற்றை வீணாக்கிய`; scan 42 begins the separate Article 8 heading `பத்தினியே / உன்போல்...!`
+- **scan 48 lexical conflict:** Gemini `ப்ழச்சளை` is retained although direct scan inspection shows a different lexical reading; the discrepancy is logged rather than silently corrected
+- **scan 49 lexical/order conflict:** Gemini places `விட்டாய்.` after `உனைத்தின்று!`, whereas the scan visibly places it earlier after `மறைந்து`; Gemini order is retained and the conflict is logged
+- intrusive OCR artefacts such as scan-31 `ID`, scan-39 `1-48-1-30`, scan-44 `e`, scan-48 `செளே`, and scan-50 leading `C` are excluded only where direct scan evidence proves that they are not printed text
+- scan 49 preserves Article 10 conclusion separately from the printed `முரசொலி` / `மாலைமணி` publication-source note and `அன்பன் அச்சகம், சென்னை -1.` imprint
+- scan 50 remains outside Article 10 as a separate advertisement
+- printed-text and physical-copy layers kept separate on every page record
+
+## Downstream status
+
 - P3 article assemblies: **NOT STARTED — 0 / 10**
 - P4 source audit: **NOT STARTED**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
@@ -107,4 +119,11 @@ Preserve these independent witnesses separately; do not normalize one from anoth
 
 ## Exact next activity
 
-Finish **P2 — page-level transcription for scans 39–50** in one closing page-layer batch: Articles 7–10 plus the separate scan-50 back-cover advertisement. Preserve unnumbered article-opening scans 39, 42, 45 and 48; preserve all visible continuation numerals and the scan-49 mixed article-close/publication-imprint role; retain Gemini words unchanged except for explicitly source-recovered missing blocks, and correct only the user-authorised structural/punctuation/spacing features.
+Execute **P3 — article assembly for all 10 articles** from the verified page records.
+
+1. create `articles/01-...md` through `articles/10-...md` reading copies from their mapped page records;
+2. preserve the Gemini lexical baseline and all P2 logged conflicts exactly; do not re-decide lexical readings during assembly;
+3. preserve only source-supported article headings and meaningful quotation/verse structure;
+4. keep page-boundary comments/provenance so each assembly can be traced back to its physical scans;
+5. keep scan-49 publication-source note/imprint and scan-50 advertisement outside Article 10 body;
+6. do not begin P4/P5 or English translation in the same activity unless the handover is explicitly advanced after P3.
