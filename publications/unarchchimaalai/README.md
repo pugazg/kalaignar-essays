@@ -84,12 +84,15 @@ Notable anomaly: on **scan 20**, only a single visible `1` is legible at the pag
 
 Preserve these independent witnesses separately; do not normalize one from another.
 
-## Current Tamil archival status
+## P2 — page-level transcription — ACTIVE
 
-- P0 source intake / publication identification: **COMPLETE**
-- P1 metadata + complete 50-scan page map / article-boundary mapping: **COMPLETE**
-- P2 page-level transcription: **NOT STARTED / NEXT**
-- page records: **0 / 50**
+- page records: **18 / 50 verified**
+- scans **1–5** front matter: **complete**
+- Article 1 `உணர்ச்சி மாலை`, scans **6–9**: **4 / 4 complete**
+- Article 2 `புரட்சி வளர்ந்த கதை`, scans **10–15**: **6 / 6 complete**
+- Article 3 `போகிறான்;போகிறான்..!`, scans **16–18**: **3 / 3 complete**
+- Gemini lexical baseline retained throughout; scan-supported punctuation, spacing, paragraphing, headings and quotation/lineation restored
+- printed-text and physical-copy layers kept separate
 - P3 article assemblies: **NOT STARTED — 0 / 10**
 - P4 source audit: **NOT STARTED**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
@@ -97,4 +100,4 @@ Preserve these independent witnesses separately; do not normalize one from anoth
 
 ## Exact next activity
 
-Execute **P2 — page-level transcription** from the supplied Gemini lexical baseline and controlling scans. Create one page record for every physical scan, preserving printed text vs physical-copy marks separately. Restore only source-supported structure/punctuation/spacing/paragraphs/headings/verse or quotation layout; do not silently alter Gemini word tokens. Any apparent lexical conflict must be logged for user decision.
+Continue **P2 — page-level transcription for scans 19–29**, completing Article 4 `இராவணன் நம் பாட்டன்` in one page-layer batch. Preserve scan 19 as an unnumbered article opening and scan 20 as the incomplete visible page-number witness `1`; keep Gemini words unchanged and correct only the user-authorised structural/punctuation/spacing features.
