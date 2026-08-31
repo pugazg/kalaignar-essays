@@ -5,7 +5,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 ## Status
 
-**T0 COMPLETE; ARTICLE 1 T1–T4 COMPLETE.** Article 1 terminology and source-bearing decisions have passed bilingual fidelity, voice review and the formal T4 terminology/quotation/source audit. Nothing is release-frozen until T5 and later publication-level release gates pass.
+**T0 COMPLETE; ARTICLE 1 T1–T5 COMPLETE / VERIFIED.** Article 1 terminology and source-bearing decisions have passed bilingual fidelity, voice review, formal terminology/source audit and final article verification. They are article-verified, but publication-wide consistency/release freezing remains for E6/E7 after all ten articles are verified.
 
 > **Translate the language; do not neutralise the voice.**
 
@@ -20,32 +20,32 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 7. The publication-specific Gemini lexical-baseline rule remains upstream authority: English follows the frozen Tamil assembly, not a scan-appearing replacement form.
 8. Preserve verse lineation and rhetorical imagery; do not invent rhyme.
 
-## Article 1 — T4-audited living decisions
+## Article 1 — T5-verified living decisions
 
 | Tamil / source form | English decision | Context / exception | First established | Status |
 |---|---|---|---|---|
-| `உணர்ச்சி மாலை` | `Garland of Emotion` | Compact source metaphor retained; T4 found no terminology/source reason to change it. | Article 1 T1 | T4 AUDITED |
-| `பாரதிதாசன்` | `Bharathidasan` | Proper-name form retained; no biography/external identification inserted. | Article 1 T1 | T4 AUDITED |
-| `தமிழர்` | `Tamils` | Source `தமிழரல்லார்` remains `non-Tamils`; collective/political referent is not flattened. | Article 1 T1 | T4 AUDITED |
-| `தமிழ்நாடு` | `Tamil Nadu` | Used only where frozen Tamil says `தமிழ்நாடு`. | Article 1 T1 | T4 AUDITED |
-| `தமிழகம்` | `Tamilakam` | Kept distinct from `Tamil Nadu`; no harmonisation. | Article 1 T1 | T4 AUDITED |
-| `தெம்மாங்கு` | `themmangu` | Source-bearing term retained without an unsupported explanatory gloss. | Article 1 T2 | SOURCE-BEARING / T4 AUDITED |
-| `பகுத்தறிவு` | `rationalism` | `பகுத்தறிவுக்கோட்டை` → `fortress of rationalism`; ideological force retained. | Article 1 T1 | T4 AUDITED |
-| `அறிவு முழக்கம்` | `roar of reason` | Preserves the source roar/cry image and imperative cadence. | Article 1 T1 | T4 AUDITED |
-| `மணிவிழா` | `sixtieth-birthday jubilee` / `sixtieth-birthday celebration` | Context explicitly establishes sixty years; contextual variant retained. | Article 1 T1 | T4 AUDITED |
-| `நிதி விழா` | `fund-raising celebration` | Kept distinct from `மணிவிழா`. | Article 1 T1 | T4 AUDITED |
-| `புரட்சிக் கவிஞர்` | `Revolutionary Poet` | Source epithet retained as a title-like phrase. | Article 1 T1 | T4 AUDITED |
-| `அத்தான்` | `Aththaan` | Intimate/address term remains transliterated; no unsupported kinship/relationship gloss. | Article 1 T1 | SOURCE-BEARING / T4 AUDITED |
-| `அயோத்யாபுரி` | `Ayodhyapuri` | Source literary/place label retained without expansion. | Article 1 T1 | T4 AUDITED |
-| `சனிபகவான்` | `Sani Bhagavan` | Source religious label retained in the mocked contrast; no outside explanation added. | Article 1 T1 | T4 AUDITED |
-| `சாகித்யகர்த்தா` / `சாகித்ய கர்த்தா` | `composer` | Contextual rendering in the Thyagaraja passage; both frozen spacing witnesses refer to the same contextual role, without creating a global mechanical rule. | Article 1 T1 | T4 AUDITED |
-| `திருவிடத்தார்` | `Tiruvitaththar` | Frozen Tamil token remains source-sensitive/unclear; transliteration avoids silent normalisation or unsupported identification. | Article 1 T1 | SOURCE-SENSITIVE / T4 AUDITED |
-| `இளைக் காத எழுத்துக்கள்` | `writings that do not tire` | Contextual translation of the frozen phrase; Tamil remains untouched and no alternate scan reading is imported. | Article 1 T2 | SOURCE-SENSITIVE / T4 AUDITED |
-| `ரகளை` | `ruckus` | Quoted source word retains colloquial/mock force without adding identification or explanation. | Article 1 T3 | T4 AUDITED |
+| `உணர்ச்சி மாலை` | `Garland of Emotion` | Compact source metaphor retained. | Article 1 T1 | T5 VERIFIED |
+| `பாரதிதாசன்` | `Bharathidasan` | Proper-name form retained; no biography/external identification inserted. | Article 1 T1 | T5 VERIFIED |
+| `தமிழர்` | `Tamils` | Source `தமிழரல்லார்` remains `non-Tamils`; collective/political referent is not flattened. | Article 1 T1 | T5 VERIFIED |
+| `தமிழ்நாடு` | `Tamil Nadu` | Used only where frozen Tamil says `தமிழ்நாடு`. | Article 1 T1 | T5 VERIFIED |
+| `தமிழகம்` | `Tamilakam` | Kept distinct from `Tamil Nadu`; no harmonisation. | Article 1 T1 | T5 VERIFIED |
+| `தெம்மாங்கு` | `themmangu` | Source-bearing term retained without an unsupported explanatory gloss. | Article 1 T2 | SOURCE-BEARING / T5 VERIFIED |
+| `பகுத்தறிவு` | `rationalism` | `பகுத்தறிவுக்கோட்டை` → `fortress of rationalism`; ideological force retained. | Article 1 T1 | T5 VERIFIED |
+| `அறிவு முழக்கம்` | `roar of reason` | Preserves the source roar/cry image and imperative cadence. | Article 1 T1 | T5 VERIFIED |
+| `மணிவிழா` | `sixtieth-birthday jubilee` / `sixtieth-birthday celebration` | Context explicitly establishes sixty years; contextual variant retained. | Article 1 T1 | T5 VERIFIED |
+| `நிதி விழா` | `fund-raising celebration` | Kept distinct from `மணிவிழா`. | Article 1 T1 | T5 VERIFIED |
+| `புரட்சிக் கவிஞர்` | `Revolutionary Poet` | Source epithet retained as a title-like phrase. | Article 1 T1 | T5 VERIFIED |
+| `அத்தான்` | `Aththaan` | Intimate/address term remains transliterated; no unsupported kinship/relationship gloss. | Article 1 T1 | SOURCE-BEARING / T5 VERIFIED |
+| `அயோத்யாபுரி` | `Ayodhyapuri` | Source literary/place label retained without expansion. | Article 1 T1 | T5 VERIFIED |
+| `சனிபகவான்` | `Sani Bhagavan` | Source religious label retained in the mocked contrast; no outside explanation added. | Article 1 T1 | T5 VERIFIED |
+| `சாகித்யகர்த்தா` / `சாகித்ய கர்த்தா` | `composer` | Contextual rendering in the Thyagaraja passage; not a global mechanical rule. | Article 1 T1 | T5 VERIFIED |
+| `திருவிடத்தார்` | `Tiruvitaththar` | Frozen Tamil token remains source-sensitive/unclear; transliteration avoids silent normalisation or unsupported identification. | Article 1 T1 | SOURCE-SENSITIVE / T5 VERIFIED |
+| `இளைக் காத எழுத்துக்கள்` | `writings that do not tire` | Contextual translation of the frozen phrase; Tamil remains untouched and no alternate scan reading is imported. | Article 1 T2 | SOURCE-SENSITIVE / T5 VERIFIED |
+| `ரகளை` | `ruckus` | Quoted source word retains colloquial/mock force without adding explanation. | Article 1 T3 | T5 VERIFIED |
 
-## Article 1 T4 proper-name / referent audit
+## Article 1 proper-name / referent record
 
-The following Article 1 names/referents were checked against the frozen Tamil and require no body correction:
+The following Article 1 mappings passed T4 and T5:
 
 - `கோமளவல்லி` → `Komalavalli`;
 - `குப்பன்` → `Kuppan`;
@@ -58,32 +58,29 @@ The following Article 1 names/referents were checked against the frozen Tamil an
 
 No modern full names, biographies, caste expansions, geographic glosses or external identifications were inserted into the article body.
 
-## Article 1 T4 quotation / source-bearing audit
+## Article 1 quotation / source-bearing record
 
-- All quoted verse remains translated from the frozen Tamil assembly only; no published English translation is imported.
+- All quoted verse is translated from the frozen Tamil assembly only; no published English translation is imported.
 - The two-line `இனிமைத் தமிழ் மொழி...` quotation remains two lines.
 - The two-line `வளம்பெரிய தமிழ் நாட்டில்...` quotation remains two lines.
 - The four-line `தொண்டையினில்...` / `அத்தான்` quotation remains four lines and keeps `Aththaan` source-bearing.
 - `வியர்வைக்குளம்`, `இவ்வுலகு உழைப்பவர்க்கே`, and `சனிபகவானின் வாகனமே` remain visibly quoted/title-bearing in English.
-- The crow quotation still crosses the scan 7/8 boundary; the scan comment remains inside the continuing quotation at the corresponding source point.
-- The four-line `வெள்ளம்போல் தமிழர்...` stanza remains the T2-checked version; T3/T4 did not rewrite its meaning.
+- The crow quotation crosses scan 7/8 with the scan comment at the corresponding source boundary.
+- The four-line `வெள்ளம்போல் தமிழர்...` stanza remains the T2-checked version.
 - The Rama/Kali passage remains Kalaignar's prose, not an invented quotation.
-- Quoted `ரகளை` remains quoted as `ruckus`; quoted `திருவிழா` remains marked as `festival` in the Thiruvaiyaru passage.
-- The Iyengar statement remains indirect speech, matching the frozen Tamil rather than being converted into a fabricated direct quotation.
+- Quoted `ரகளை` remains `ruckus`; quoted `திருவிழா` remains `festival` in the Thiruvaiyaru passage.
+- The Iyengar statement remains indirect speech.
 
-## Article 1 T4 source / citation traceability
+## Article 1 final source traceability
 
-- frozen Tamil authority: `c63837a9f7c02d6f3a18171a512d46788f66ad92` — confirmed unchanged;
-- T4-audited English candidate blob: `28840cafd8b5ae435958979d140720586ea2a4ec`;
-- source comments present and ordered: scans **6, 7, 8, 9**;
-- scan 6 correctly states that the printed numeral is not visible;
-- continuation printed-page witnesses remain 6, 7 and 8 for scans 7, 8 and 9;
-- the `Thyagaraja` / `Iyer` phrase still crosses the scan 8/9 boundary at the recorded source point;
+- frozen Tamil authority: `c63837a9f7c02d6f3a18171a512d46788f66ad92`;
+- T4-audited pre-verification English candidate: `28840cafd8b5ae435958979d140720586ea2a4ec`;
+- T5-verified English blob: `4246c9f1e206d5703fe50297657bb0af2a8e57e6`;
+- scans 6, 7, 8, 9 comments present and ordered;
+- scan 6 correctly records no visible printed numeral;
+- `Thyagaraja` / `Iyer` crosses scan 8/9 at the recorded source boundary;
 - numeric references checked: sixty years, forty years, four/five days, three/four days;
-- Article 1 contains no source date citation or periodical-title citation requiring an English citation rendering;
-- no external/web citation or explanatory translator's note was inserted.
-
-**T4 body corrections required: 0.** The English article remains `translation_status: voice-reviewed` pending T5, as required by the permanent gate model.
+- no external/web citation or explanatory translator's note inserted.
 
 ## Article 1 voice baseline carried forward
 
@@ -123,4 +120,4 @@ Especially source-sensitive downstream items include Article 7 frozen `ஒடி
 
 ## Next lexicon activity
 
-During **Article 1 T5**, perform final article verification without reopening T4-audited terminology for stylistic preference. Only genuine verification defects should change the English candidate. Publication-wide release freezing happens later, after all articles pass their gates.
+During **Article 2 T1**, establish only the new terms actually encountered in `புரட்சி வளர்ந்த கதை` from frozen Tamil blob `dda81363f512ee2f829c367ae929ce3610604fe9`. Carry Article 1's verified voice/terminology baseline forward where genuinely applicable; do not mechanically force Article 1 renderings into different contexts.
