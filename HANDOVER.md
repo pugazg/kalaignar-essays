@@ -195,7 +195,7 @@ Supplied source: `TVA_BOK_0063821_உணர்ச்சிமாலை.pdf`
 - source SHA-256: `d2d45de049505218fd612bf71949135e34ecb317ffb5d003dfe59a3a0608461d`
 - source file size: **79,471,633 bytes**
 - source PDF committed: **No**
-- printed contents page: **none observed**
+- printed contents page: **none**
 
 ## P0 intake result — COMPLETE
 
@@ -206,20 +206,39 @@ Supplied source: `TVA_BOK_0063821_உணர்ச்சிமாலை.pdf`
 - publication metadata/source record created
 - source PDF remains outside the repository
 
-Initial article-boundary observations:
+## P1 metadata + complete page / boundary mapping — COMPLETE
+
+P1 directly inspected and classified all **50 / 50** physical scans.
+
+Created:
+
+- `publications/unarchchimaalai/indexes/page-map.md`
+- `publications/unarchchimaalai/indexes/contents.md`
+
+Verified article spans and heading witnesses:
 
 1. `உணர்ச்சி மாலை` — scans **6–9**
 2. `புரட்சி வளர்ந்த கதை` — scans **10–15**
 3. `போகிறான்;போகிறான்..!` — scans **16–18**
-4. `இராவணன் நம் பாட்டன்` — scans **19–29**
+4. `இராவணன் நம் பாட்டன்` — scans **19–29**; heading physically two lines
 5. `இங்கல்ல! இரஷ்யாவில்` — scans **30–32**
 6. `3, 57, 90.` — scans **33–38**
 7. `30-1-1948` — scans **39–41**
-8. `பத்தினியே உன்போல்...!` — scans **42–44**
+8. `பத்தினியே உன்போல்...!` — scans **42–44**; heading physically two lines
 9. `அன்னை நாகம்மையார்!` — scans **45–47**
-10. `கவிதையல்ல - கண்ணீர்க்கடல்!` — scans **48–49**
+10. `கவிதையல்ல - கண்ணீர்க்கடல் !` — scans **48–49**; heading physically `கவிதையல்ல -` / `கண்ணீர்க்கடல் !`
 
-P1 must re-record exact heading punctuation/spacing and every visible printed page number directly from the scans rather than inferring them from OCR.
+No printed contents page exists in the supplied scan. `indexes/contents.md` is explicitly an editorial scan-derived map, not a printed-contents transcription.
+
+### P1 printed-page findings
+
+- every article-opening scan has **no visible printed page numeral**;
+- continuation-page numerals are recorded exactly, without editorial back-filling;
+- scan **20** has only a single clearly visible `1` at the page-number position; no unseen second digit is reconstructed;
+- scan 49 is mixed-role: Article 10 conclusion + publication-source note + printer imprint;
+- scan 50 is a separate back-cover advertisement.
+
+Important non-regression distinction: publication/title-page witness `உணர்ச்சிமாலை` vs Article 1 heading `உணர்ச்சி மாலை`; preserve them separately.
 
 ## Publication-specific user instruction — Gemini lexical baseline
 
@@ -235,12 +254,11 @@ This is the controlling **workflow instruction for lexical tokens in the current
 - any apparent scan/Gemini lexical conflict must be logged for user decision, not silently resolved;
 - this rule is a user-directed exception for this publication and does not convert OCR into authority for physical-copy evidence or publication structure.
 
-Important non-regression distinction already visible: publication/title-page witness `உணர்ச்சிமாலை` vs Article 1 heading `உணர்ச்சி மாலை`; preserve them separately.
-
 ## Current Tamil archival status
 
 - P0 source intake / publication identification: **COMPLETE**
-- P1 metadata + complete page map / article-boundary mapping: **NEXT**
+- P1 metadata + complete page map / article-boundary mapping: **COMPLETE**
+- P2 page-level transcription: **NOT STARTED / NEXT**
 - page records: **0 / 50**
 - article assemblies: **0 / 10**
 - P4 source audit: **NOT STARTED**
@@ -251,22 +269,25 @@ Source records:
 
 - `publications/unarchchimaalai/README.md`
 - `publications/unarchchimaalai/metadata/source.md`
+- `publications/unarchchimaalai/indexes/page-map.md`
+- `publications/unarchchimaalai/indexes/contents.md`
 
 ---
 
 # Exact next activity
 
-Publications 1 and 2 remain **COMPLETE / FROZEN / RELEASED**. Publication 3 `உணர்ச்சிமாலை` is now the active Tamil source publication after P0 intake.
+Publications 1 and 2 remain **COMPLETE / FROZEN / RELEASED**. Publication 3 `உணர்ச்சிமாலை` is the active Tamil source publication after P1.
 
-Execute **P1 — metadata + complete 50-scan page map / contents-boundary mapping** for Publication 3:
+Execute **P2 — page-level transcription, scans 1–18** as the first source-verified batch:
 
-1. inspect all 50 physical scans and create `publications/unarchchimaalai/indexes/page-map.md`;
-2. classify every scan, including front matter, all ten article units, scan-49 closing/imprint matter and scan-50 advertisement;
-3. create `indexes/contents.md`, explicitly recording that there is no printed contents page while separately mapping the ten scan-verified article headings/boundaries;
-4. record visible printed-page-number behaviour exactly and do not invent missing numerals;
-5. preserve publication/title/article-heading witness distinctions;
-6. preserve the user-established Gemini lexical-baseline rule; do not perform lexical corrections in P1;
-7. update the publication README/source record and this root handover after completing P1.
+1. create one page record for each physical scan **1–18**;
+2. keep `# அச்சு உரை` separate from `## அச்சு அல்லாத / physical-copy marks`;
+3. use Gemini words as the lexical baseline;
+4. restore source-supported punctuation, spaces, paragraph breaks, headings, indentation and verse/quotation layout only;
+5. preserve visible printed-page-number behaviour from the P1 map, including unnumbered article-opening pages;
+6. if a source scan appears to contradict a Gemini lexical token, log the conflict for user decision rather than silently changing the word;
+7. mark a page `verified` only after direct visual comparison;
+8. update publication progress and this handover after the batch.
 
 ## Current blockers
 
