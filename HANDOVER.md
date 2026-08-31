@@ -83,7 +83,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 
 - T0 setup: **PASS**
 - T1 drafts: **3 / 10**
-- T2 fidelity-reviewed: **2 / 10**
+- T2 fidelity-reviewed: **3 / 10**
 - T3 voice-reviewed: **2 / 10**
 - T4 audited: **2 / 10**
 - T5 verified: **2 / 10**
@@ -106,53 +106,51 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 
 - English title: **The Story of How the Revolution Grew**
 - frozen Tamil: `dda81363f512ee2f829c367ae929ce3610604fe9`
-- source scans: **10–15**
-- T1: `c036f2439874dacf6220e7da529e852cf28e223a`
-- T2: `ec61502524a073a45292202da71d8979b5d254b2`
-- T3/T4 candidate: `cff1840ab297a00b933390ee41207afd9709e9b8`
-- final T5-verified English: **`f1599a8e7cae4ba749b9be2857705b152887f9f8`**
+- final T5-verified English: `f1599a8e7cae4ba749b9be2857705b152887f9f8`
 - T2 fidelity corrections: **10**
 - T3 meaning-neutral voice/cadence corrections: **10**
 - T4 body corrections: **0**
 - T5 body corrections: **0**
-- terminology/proper names/source-sensitive forms: **PASS**
-- quotation/source-bearing boundaries: **PASS**
-- dates/numbers: **PASS**
-- scan comments 10–15: **PASS / ordered**
-- scan 11→12 continuation: **PASS**
-- scan 13→14 `ரஸ்புடீனை / சுட்டுக்கொன்றது`: **PASS**
-- frozen scan-11 `மௌனமாகவே`: **unchanged**
-- outside/web historical reconstruction: **none**
 - blockers: **0**
 
-## Article 3 — `போகிறான்;போகிறான்..!` — T1 COMPLETE / DRAFT
+## Article 3 — `போகிறான்;போகிறான்..!` — T1–T2 COMPLETE / FIDELITY-REVIEWED
 
-- provisional English title: **He Goes; He Goes..!**
+- English title: **He Goes; He Goes..!**
 - frozen Tamil: `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
 - source scans: **16–18**
 - English file: `publications/unarchchimaalai/translations/en/03-pogiran-pogiran.md`
-- T1 draft blob: **`41abd9d0071ee9f3511a0781bd3ab503404dff72`**
-- paragraph coverage: **complete**
+- T1 draft blob: `41abd9d0071ee9f3511a0781bd3ab503404dff72`
+- T2 fidelity-reviewed blob: **`1df8b58eb79e1193bdad761faf7ab2953af381fd`**
+- T2 body fidelity corrections: **5**
+- paragraph/clause coverage: **PASS**
 - scan comments 16–18: **PASS / ordered**
-- questions, exclamations, quoted anger speech and final repetition: **retained**
+- questions, exclamations, direct speech, insults, wordplay and closing repetition: **PASS**
 - frozen scan-16 `பாறையு`: retained source-sensitively as `paaraiyu`; not silently expanded
 - frozen scan-17 `தனக்குக்`: upstream Tamil authority unchanged
-- outside/web translation or literary reconstruction: **none**
-- T1 blockers: **0**
+- `sel`, frozen `அன்று` → `That day`, `water-bubble bhajan`: retained source-sensitively
+- Kural line `Laugh when adversity comes`, `Mahatmas`, `selfish bandicoots`, `crushed lead vessel`, `செல்வாக்கை / செல்லாக்காசு` wordplay: **T2 confirmed**
+- outside/web translation, published Kural translation or alternate scan lexical reconstruction imported: **none**
+- T2 blockers: **0**
 
-T1 provisional/source-sensitive items requiring Article 3 T2 review: title **He Goes; He Goes..!**, `paaraiyu`, `crushed lead vessel`, `sel`, the Kural line **Laugh when adversity comes**, `Mahatmas`, `selfish bandicoots`, `pallid wretch`, the `செல்வாக்கை / செல்லாக்காசு` wordplay, frozen `அன்று` → **That day**, `water-bubble bhajan`, and final **goes—goes—keeps going** repetition.
+T2 corrections were:
+
+1. `dive for pearls` → `gather pearls`;
+2. `public work` → `public-welfare work`;
+3. `pallid wretch` → `pallid rascal`;
+4. `terraced mansion` → `storeyed mansion`;
+5. `the blind` → `those with their eyes shut`.
 
 ---
 
 # Exact next activity
 
-Execute **Article 3 T2 — bilingual fidelity review** for `போகிறான்;போகிறான்..!` / **He Goes; He Goes..!** against:
+Execute **Article 3 T3 — Kalaignar voice review** for `போகிறான்;போகிறான்..!` / **He Goes; He Goes..!** against:
 
 - frozen Tamil blob: `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
-- T1 English blob: `41abd9d0071ee9f3511a0781bd3ab503404dff72`
+- T2 English blob: `1df8b58eb79e1193bdad761faf7ab2953af381fd`
 - source scans: **16–18**
 
-T2 must compare every Tamil paragraph/clause with the English draft; verify no omissions/additions; review the provisional/source-sensitive items listed above; preserve source questions, exclamations, insults, wordplay, quotation boundaries, scan comments and final repetition; make only fidelity corrections; advance Article 3 to `translation_status: fidelity-reviewed` only if T2 passes; synchronize tracker/lexicon/review/plan/handover; and **stop before Article 3 T3**.
+T3 must preserve every T2 meaning/source decision and review the English for Kalaignar's cadence, directness, ridicule, insult force, vivid images, accumulative lists, questions, exclamations and final repeated motion. Make only meaning-neutral voice/cadence corrections; do not replace `paaraiyu`, `sel`, frozen `அன்று`, `water-bubble bhajan` or other source-sensitive forms with outside/scan reconstructions. Advance Article 3 to `translation_status: voice-reviewed` only if T3 passes; synchronize tracker/lexicon/review/plan/handover; and **stop before Article 3 T4**.
 
 ## Current blockers
 
