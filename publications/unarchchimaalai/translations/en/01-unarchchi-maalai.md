@@ -8,8 +8,8 @@ source_tamil_blob_sha: "c63837a9f7c02d6f3a18171a512d46788f66ad92"
 source_scan_pages: "6-9"
 source_printed_pages: "6-8; scan 6 has no visible printed numeral"
 language: "en"
-translation_status: "fidelity-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T2 bilingual fidelity-reviewed only against the frozen Tamil assembly"
+translation_status: "voice-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T2 bilingual fidelity-reviewed and T3 voice-reviewed against the frozen Tamil assembly"
 ---
 
 # Garland of Emotion
@@ -26,7 +26,7 @@ the waterfall's rush,
 the breeze's themmangu,  
 the moon's coolness,
 
-All these together are Bharathidasan's poetry.
+All this together—that is Bharathidasan's poetry.
 
 “Sweet Tamil is ours, a fine nectar  
 granted to bring us delight.”
@@ -59,7 +59,7 @@ A little village—an embanked field—a good canal holding river water—he wil
 
 that way, there is benefit.”
 
-Earth—tree—plant—creeper—bird—animal—human—all are boats floating in poet Bharathidasan's sea of poetry. Poetry only if one sings of Rama—a poet only if one receives Kali's boon—Bharathidasan overturned that condition headlong.
+Earth—tree—plant—creeper—bird—animal—human—all are boats floating in poet Bharathidasan's sea of poetry. Only if one sings of Rama—poetry; only if one receives Kali's boon—a poet. Bharathidasan turned that condition upside down.
 
 For him, a sixtieth-birthday jubilee—sixty years have flown away. What remains is forty years, by the arithmetic of human age! From the poet, Tamil Nadu has received deathless poems—writings that do not tire—literature untouched by disease.
 
@@ -70,16 +70,16 @@ multitude, one in heart! Though seen as many in body,
 they say, ‘Do not draw near with deceit’;  
 on what day shall we rejoice to see the world tremble?”
 
-To bring that day swiftly into being—that is the gratitude, the duty, the everything we show him!
+To bring that day about swiftly—that is our gratitude to him—our duty—everything!
 
-The fund-raising celebration and the sixtieth-birthday jubilee are ways of letting the poet move freely through Tamilakam. They are arrangements for placing his poems in the hearts of Tamils.
+The fund-raising celebration and the sixtieth-birthday jubilee are ways of letting the poet roam freely through Tamilakam. They are arrangements for placing his poems in the hearts of Tamils.
 
 The sixtieth-birthday celebration does not end here; it must not end. Every year, a festival should be held for the poet. Not only while the poet is alive! After all, he has become deathless! For composer Thyagaraja
 
 <!-- Tamil source: scan 9 / printed 8 -->
 
-Iyer, Thiruvaiyaru itself erupts into a “commotion.” Thanjavur district is a grove in which Tamils roam. At the Thiruvaiyaru “festival” that gives a garland of fame to one composer while giving no respect to Tamil artists—shame! A few years ago, at Thiruvaiyaru, an Iyengar singer said that if Tamil were sung, the stage would become polluted! The great musician who was subjected to that opposition went back this year and fell again at Thiruvaiyaru's feet. He is a Tamil. Tamil Nadu hangs its head. Ask why, and the answer is: only by taking part in Thiruvaiyaru's four or five days of celebrations does one get publicity!
+Iyer, Thiruvaiyaru itself erupts into a “ruckus.” Thanjavur district is a grove in which Tamils roam. At the Thiruvaiyaru “festival” that gives a garland of fame to one composer while giving no respect to Tamil artists—shame! A few years ago, at Thiruvaiyaru, an Iyengar singer said that if Tamil were sung, the stage would become polluted! The great musician who faced that opposition went back this year and once again fell at Thiruvaiyaru's feet. He is a Tamil. Tamil Nadu hangs its head. Ask why, and the answer is: only by taking part in Thiruvaiyaru's four or five days of celebrations does one get publicity!
 
 Let us change that condition. Let us sound the roar of reason. Let us make the Tamil heart a fortress of rationalism. Let us beat the drum and proclaim that the Tiruvitaththar are capable. My wish is that Bharathidasan's festival should serve that purpose.
 
-Once every year, in district capitals, let there be a Bharathidasan festival for three or four days. There, flowers of art must be showered in abundance. They must spread fragrance through the lives of Tamils. Across the land, good people must arise to honour the Revolutionary Poet.
+Once every year, in the district capitals—a Bharathidasan festival for three or four days. There, flowers of art must be showered in abundance. They must spread fragrance through the lives of Tamils. Across the land, good people must arise to honour the Revolutionary Poet.
