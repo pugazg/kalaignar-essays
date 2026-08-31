@@ -51,7 +51,7 @@ Translate in source order, one complete article at a time. Article 1 established
 | # | Tamil title | English file | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|---|
 | 1 | உணர்ச்சி மாலை | [`translations/en/01-unarchchi-maalai.md`](translations/en/01-unarchchi-maalai.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 2 | புரட்சி வளர்ந்த கதை | [`translations/en/02-puratchi-valarntha-kathai.md`](translations/en/02-puratchi-valarntha-kathai.md) | `draft` | PASS | **PASS** | — | — | — | — |
+| 2 | புரட்சி வளர்ந்த கதை | [`translations/en/02-puratchi-valarntha-kathai.md`](translations/en/02-puratchi-valarntha-kathai.md) | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
 | 3 | போகிறான்;போகிறான்..! | `translations/en/03-pogiran-pogiran.md` | `not-started` | PASS | — | — | — | — | — |
 | 4 | இராவணன் நம் பாட்டன் | `translations/en/04-iravanan-nam-pattan.md` | `not-started` | PASS | — | — | — | — | — |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `translations/en/05-ingalla-irashyavil.md` | `not-started` | PASS | — | — | — | — | — |
@@ -78,12 +78,13 @@ Gate record:
 
 Article 1 establishes the initial verified voice baseline: compact direct clauses, dash-driven accumulation, forceful collective commands, preservation of source-bearing terms, colloquial bite where present, and no smoothing that weakens rhetorical force.
 
-## Article 2 — T1 COMPLETE / DRAFT
+## Article 2 — T1 + T2 COMPLETE / FIDELITY-REVIEWED
 
 Frozen Tamil authority: `dda81363f512ee2f829c367ae929ce3610604fe9`  
 Source scans: **10–15**  
-Provisional English title: **The Story of How the Revolution Grew**  
-English T1 draft blob: **`c036f2439874dacf6220e7da529e852cf28e223a`**
+English title: **The Story of How the Revolution Grew**  
+T1 draft blob: `c036f2439874dacf6220e7da529e852cf28e223a`  
+T2 fidelity-reviewed blob: **`ec61502524a073a45292202da71d8979b5d254b2`**
 
 T1 results:
 
@@ -92,13 +93,26 @@ T1 results:
 - scan 11→12 and scan 13→14 sentence continuations: **retained**;
 - dates, numbers, questions, exclamations, repetitions and source reversals: **retained**;
 - frozen Tamil authority changed: **No**;
-- outside/web historical reconstruction or published translation imported: **No**;
-- unresolved T1 blockers: **0**;
-- T2: **NOT STARTED**.
+- outside/web historical reconstruction or published translation imported: **No**.
 
-Provisional Article 2 terminology/source-bearing choices are recorded in [`translations/en/LEXICON.md`](translations/en/LEXICON.md). T2 must especially review `proletarian people`, `pomp`, `religionist`, the frozen Lenin/Petrograd spelling variants, `Mangaiyarkkarasi`, `Kulachchirai`, `kidukidu`, `Romanal`, `Chiranjeevi`, `God-ism`, `Dravidam`, and `Self-Respect`.
+T2 results:
 
-Detailed review provenance: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
+- complete clause-by-clause bilingual review: **PASS**;
+- T2 fidelity corrections: **10**;
+- title: **T2 confirmed**;
+- `நிக்கோலாஸ் மன்னன்` corrected from T1 `Tsar Nicholas` to **King Nicholas**;
+- `புன் சிரிப்பு` restored as **faint smile**;
+- scan 12 `ஜனசமுதாயம்` restored as **The people** in context;
+- scan 13 added T1 imperative `Remember` removed;
+- `ஜார் அரசனின் முடிதுறப்பு வைபவம்` now preserves both source labels as **Tsar-king's abdication ceremony**;
+- source-sensitive `Mangaiyarkkarasi`, `Kulachchirai`, `kidukidu`, `Romanal`, `Chiranjeevi`, `God-ism`, `Dravidam`, `Self-Respect`, `pomp`, and `religionist`: **explicitly reviewed / retained**;
+- frozen source variants for Lenin/Petrograd remain provenance-bearing while conventional English forms are used;
+- frozen scan-11 `மௌனமாகவே` remains controlling;
+- scan comments and both cross-scan continuations: **PASS**;
+- unresolved T2 blockers: **0**;
+- T3: **NOT STARTED**.
+
+Detailed review provenance: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md). Living terminology decisions: [`translations/en/LEXICON.md`](translations/en/LEXICON.md).
 
 ## Publication-specific translation cautions
 
@@ -109,7 +123,7 @@ Detailed review provenance: [`translations/en/TRANSLATION_REVIEW.md`](translatio
 5. Article 10 must exclude scan-49 publication-close matter and scan-50 advertisement.
 6. Apparently garbled/source-sensitive forms such as Article 10 `ப்ழச்சளை` must not be silently repaired or externally identified.
 7. Preserve rhetorically meaningful questions, exclamations, repetition, direct address and page-boundary comments.
-8. Article 2 frozen source variants (`இலெனின்` / `லெனின்`, `பீட்ரோகிராட்` / `பீட்ரோ கிரோடு`) are provenance-bearing even when one conventional English form is used; T2 must explicitly audit that treatment.
+8. Article 2 frozen source variants (`இலெனின்` / `லெனின்`, `பீட்ரோகிராட்` / `பீட்ரோ கிரோடு`) are provenance-bearing even though one conventional English form is used.
 
 Full Tamil fidelity/conflict provenance: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
@@ -119,4 +133,4 @@ Every article must pass T0 → T1 → T2 → T3 → T4 → T5. After 10 / 10 rea
 
 ## Exact next activity
 
-Execute **Article 2 T2 — bilingual fidelity review** for `The Story of How the Revolution Grew` against frozen Tamil blob `dda81363f512ee2f829c367ae929ce3610604fe9`. Re-read every paragraph and clause across scans **10–15**, resolve or explicitly retain the T1 provisional choices without changing the frozen Tamil, make only fidelity corrections, advance Article 2 to `translation_status: fidelity-reviewed` only if T2 passes, and **stop before Article 2 T3**.
+Execute **Article 2 T3 — Kalaignar voice review** for `The Story of How the Revolution Grew`. Preserve every T2 meaning/source decision while reviewing directness, repetition, rhetorical questions, exclamations, accumulative dashes, ridicule, violent imagery, class-political labels and the closing question. Make only meaning-neutral voice/cadence corrections, advance Article 2 to `translation_status: voice-reviewed` only if T3 passes, and **stop before Article 2 T4**.
