@@ -8,8 +8,8 @@ source_tamil_blob_sha: "c63837a9f7c02d6f3a18171a512d46788f66ad92"
 source_scan_pages: "6-9"
 source_printed_pages: "6-8; scan 6 has no visible printed numeral"
 language: "en"
-translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T2 bilingual fidelity-reviewed and T3 voice-reviewed against the frozen Tamil assembly"
+translation_status: "verified"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T2 bilingual fidelity-reviewed, T3 voice-reviewed, T4 audited and T5 verified against the frozen Tamil assembly"
 ---
 
 # Garland of Emotion
