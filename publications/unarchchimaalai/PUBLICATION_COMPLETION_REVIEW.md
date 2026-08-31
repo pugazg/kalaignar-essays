@@ -89,7 +89,7 @@ These documented conflicts are not unresolved fidelity blockers under the user's
 | 9 | `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` |
 | 10 | `f856664d86695237a23d0ffc0bef088d32a82fe9` |
 
-These ten blobs are the frozen Tamil translation authorities for T0 unless a later source-supported Tamil correction explicitly reopens P5.
+These ten blobs are the frozen Tamil translation authorities unless a later source-supported Tamil correction explicitly reopens P5.
 
 ## Article assembly result
 
@@ -107,8 +107,19 @@ P5 rechecked all ten assemblies against the corrected page layer:
 
 **ARTICLE STRICT-FIDELITY RESULT: 10 / 10 PASS / FROZEN.**
 
+## English downstream setup — T0 COMPLETE / PASS
+
+T0 reverified all ten frozen article blob SHAs against live `main` and created:
+
+- [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
+- [`translations/en/README.md`](translations/en/README.md)
+- [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+
+T0 carried the 18-item P5 lexical-conflict provenance and source-recovered scan 19 / scan 42 material into the English setup. English body translation has **not** started; drafts remain **0 / 10**.
+
 ## Downstream gate
 
-Tamil translation prerequisites are now satisfied. English work may begin under `ESSAY_TRANSLATION_GUIDE.md` and `docs/FUTURE_WORK_GUIDELINES.md`.
+**Exact next activity:** execute **Article 1 T1 — complete close English draft for `உணர்ச்சி மாலை`** from frozen Tamil blob `c63837a9f7c02d6f3a18171a512d46788f66ad92`.
 
-**Exact next activity:** execute **T0 — English translation source prerequisite / setup** for this publication: record the ten frozen Tamil article blob SHAs, create `TRANSLATION_PLAN.md`, `translations/en/README.md`, `translations/en/LEXICON.md`, and `translations/en/TRANSLATION_REVIEW.md`, and do not begin T1 body translation until T0 setup is complete.
+T1 must create the complete English article with `translation_status: draft`, preserve scan comments and embedded verse, establish a provisional English title, update the living lexicon and review ledger with actual translation decisions, and stop before T2 bilingual review.
