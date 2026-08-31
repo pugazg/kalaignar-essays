@@ -28,21 +28,32 @@ Operationally:
 - apparent scan/Gemini lexical conflicts are logged for user decision rather than silently resolved;
 - if Gemini omitted a whole paragraph/page, source recovery is permitted only under the user's explicit missing-paragraph instruction and must be labelled source-recovered.
 
-## P0 — source intake — COMPLETE
+## Tamil archival gates — COMPLETE / FROZEN
 
-- live `main` checked before intake;
-- scans 1–5 front matter; scans 6–49 article region; scan 50 advertisement;
-- source PDF remains outside GitHub.
+- P0 source intake: **COMPLETE**
+- P1 metadata + complete 50-scan page/boundary map: **COMPLETE**
+- P2 page-level transcription: **COMPLETE — 50 / 50 verified**
+- P3 article assembly: **COMPLETE — 10 / 10**
+- P4 source audit / completeness review: **PASS**
+- P5 strict visual word/punctuation fidelity: **COMPLETE — 50 / 50 PASS**
+- article strict-fidelity recheck: **10 / 10 PASS**
+- P5 structural/punctuation/spacing/layout corrections propagated: **236**
+- documented Gemini/source lexical conflicts retained under user rule: **18**
+- outstanding `needs-review` / blocked fidelity items: **0**
+- unresolved Tamil/body blockers: **0**
+- **Tamil source: COMPLETE / FROZEN**
+- English translation: **NOT STARTED**
 
-## P1 — metadata + page/boundary map — COMPLETE
-
-All **50 / 50** scans were inspected and mapped in:
+Detailed final Tamil records:
 
 - [`metadata/source.md`](metadata/source.md)
 - [`indexes/page-map.md`](indexes/page-map.md)
 - [`indexes/contents.md`](indexes/contents.md)
+- [`audit.md`](audit.md)
+- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md)
+- [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md)
 
-Verified article spans:
+## Frozen article spans
 
 1. `உணர்ச்சி மாலை` — scans **6–9**
 2. `புரட்சி வளர்ந்த கதை` — scans **10–15**
@@ -55,96 +66,60 @@ Verified article spans:
 9. `அன்னை நாகம்மையார்!` — scans **45–47**
 10. `கவிதையல்ல - கண்ணீர்க்கடல் !` — scans **48–49**
 
-Scan **50** is the separate `மணமகள்` back-cover advertisement.
+Scan **50** is the separate `மணமகள்` back-cover advertisement and remains outside every article.
 
-## Printed-page-number / heading non-regression
+## Heading / page-number non-regression
 
 - every article-opening scan has no visible printed numeral;
 - scan 20 preserves only the visible page-position `1`; no unseen `19` is reconstructed;
 - publication/title-page witness `உணர்ச்சிமாலை` and Article 1 heading `உணர்ச்சி மாலை` remain distinct;
-- Article 3 heading: `போகிறான்;போகிறான்..!`;
-- Article 4 heading is physically `இராவணன்` / `நம் பாட்டன்`;
-- Article 8 heading is physically `பத்தினியே` / `உன்போல்...!`;
-- Article 10 heading is physically `கவிதையல்ல -` / `கண்ணீர்க்கடல் !`.
+- Article 3 heading remains `போகிறான்;போகிறான்..!`;
+- Article 4 is physically `இராவணன்` / `நம் பாட்டன்`;
+- Article 8 is physically `பத்தினியே` / `உன்போல்...!`;
+- Article 10 is physically `கவிதையல்ல -` / `கண்ணீர்க்கடல் !`.
 
-## P2 — page-level transcription — COMPLETE
+## Durable source / Gemini exceptions
 
-- page records: **50 / 50 verified**;
-- all ten article page layers complete;
-- front matter and scan-50 advertisement recorded separately;
-- printed text and physical-copy marks are separated on every page record.
+- **scan 19:** Gemini omitted the whole page body; it was recovered directly from the scan under the user's missing-paragraph rule and remains explicitly labelled source-recovered;
+- **scan 32:** Gemini lexical/order sequence remains retained despite scan-order disagreement;
+- **scan 41:** Article 7 remains closed at `வரலாற்றை வீணாக்கிய`;
+- **scan 48:** Gemini `ப்ழச்சளை` remains retained despite scan disagreement;
+- **scan 49:** Gemini placement of `விட்டாய்.` remains retained despite scan-order disagreement;
+- non-source OCR artefacts such as `ID`, `1-48-1-30`, `e`, `செளே`, scan-50 leading `C`, and standalone page-number intrusions remain excluded after scan verification;
+- scan 49 publication-source note/imprint and scan 50 advertisement remain outside Article 10 body.
 
-Durable P2 exceptions/conflicts:
+P5 additionally records **18** explicit Gemini/source lexical conflicts in [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md). They are retained, not silently normalised, under the user-established lexical-baseline rule.
 
-- **scan 19:** Gemini omitted the whole page body; it was recovered directly from the scan under the user's missing-paragraph rule and labelled source-recovered;
-- **scan 32:** Gemini sequence `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...` is retained although the scan visibly distributes the wording differently;
-- **scan 41:** Article 7 ends with source-visible `வரலாற்றை வீணாக்கிய`; scan 42 begins Article 8;
-- **scan 48:** Gemini `ப்ழச்சளை` is retained despite a visibly different scan reading;
-- **scan 49:** Gemini places `விட்டாய்.` after `உனைத்தின்று!`; scan order differs, but Gemini order is retained;
-- non-source OCR artefacts such as `ID`, `1-48-1-30`, `e`, `செளே`, scan-50 leading `C`, and standalone page-number intrusions were excluded only after scan verification;
-- scan 49 publication-source note/imprint and scan 50 advertisement are outside Article 10 body.
+## P5 structural recoveries frozen
 
-## P3 — article assembly — COMPLETE
+- scan 33/34 physical split: scan 33 ends at `சுய நலத்திற்காக`; scan 34 begins `சூதர்களை சுற்றி...`;
+- scan 42 source-visible `பதில் இல்லை.` restored under the explicit missing-text permission;
+- scan 43 `* * *` separator restored;
+- scan 49 printer line is `அன்பன் அச்சகம், சென்னை-1.` and remains outside Article 10;
+- scan 50 `BALU` / `BROS` is retained as stacked advertisement text.
 
-All **10 / 10** article reading copies were assembled exclusively from their verified page records with physical scan-boundary comments retained:
+## Frozen Tamil article authorities
 
-1. [`articles/01-unarchchi-maalai.md`](articles/01-unarchchi-maalai.md)
-2. [`articles/02-puratchi-valarntha-kathai.md`](articles/02-puratchi-valarntha-kathai.md)
-3. [`articles/03-pogiran-pogiran.md`](articles/03-pogiran-pogiran.md)
-4. [`articles/04-iravanan-nam-pattan.md`](articles/04-iravanan-nam-pattan.md)
-5. [`articles/05-ingalla-irashyavil.md`](articles/05-ingalla-irashyavil.md)
-6. [`articles/06-3-57-90.md`](articles/06-3-57-90.md)
-7. [`articles/07-30-1-1948.md`](articles/07-30-1-1948.md)
-8. [`articles/08-paththiniye-unpol.md`](articles/08-paththiniye-unpol.md)
-9. [`articles/09-annai-nagammaiyar.md`](articles/09-annai-nagammaiyar.md)
-10. [`articles/10-kavithaiyalla-kannirkkadal.md`](articles/10-kavithaiyalla-kannirkkadal.md)
+1. [`articles/01-unarchchi-maalai.md`](articles/01-unarchchi-maalai.md) — `c63837a9f7c02d6f3a18171a512d46788f66ad92`
+2. [`articles/02-puratchi-valarntha-kathai.md`](articles/02-puratchi-valarntha-kathai.md) — `dda81363f512ee2f829c367ae929ce3610604fe9`
+3. [`articles/03-pogiran-pogiran.md`](articles/03-pogiran-pogiran.md) — `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
+4. [`articles/04-iravanan-nam-pattan.md`](articles/04-iravanan-nam-pattan.md) — `006f2f75dbc3eea796170a29aee0befd162522e7`
+5. [`articles/05-ingalla-irashyavil.md`](articles/05-ingalla-irashyavil.md) — `c8ac4d7c241832e07bbb24c5cee935588673f4ac`
+6. [`articles/06-3-57-90.md`](articles/06-3-57-90.md) — `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8`
+7. [`articles/07-30-1-1948.md`](articles/07-30-1-1948.md) — `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`
+8. [`articles/08-paththiniye-unpol.md`](articles/08-paththiniye-unpol.md) — `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`
+9. [`articles/09-annai-nagammaiyar.md`](articles/09-annai-nagammaiyar.md) — `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
+10. [`articles/10-kavithaiyalla-kannirkkadal.md`](articles/10-kavithaiyalla-kannirkkadal.md) — `f856664d86695237a23d0ffc0bef088d32a82fe9`
 
-P3 assembly rules/results:
+These are the frozen Tamil authorities for English T0 unless a later source-supported Tamil correction explicitly reopens P5.
 
-- no lexical decision was reopened during assembly;
-- all P2 Gemini-baseline readings and logged conflicts were carried forward unchanged;
-- scan 19 source-recovered text remains explicitly traceable;
-- source-supported heading lineation, quotations and verse structure were preserved;
-- every article carries scan-boundary provenance comments;
-- scan 49's printed `முரசொலி` / `மாலைமணி` publication-source note and `அன்பன் அச்சகம், சென்னை -1.` imprint remain outside Article 10 assembly;
-- scan 50 advertisement remains outside all article assemblies.
+## Next activity
 
-## P4 — source audit / completeness review — PASS
+Tamil source processing is **COMPLETE / FROZEN**. The next normal activity is **T0 — English translation source prerequisite / setup** under `ESSAY_TRANSLATION_GUIDE.md`:
 
-Detailed ledger: [`audit.md`](audit.md).
-
-P4 audited all ten assemblies against the verified page layer and confirmed:
-
-- article assemblies: **10 / 10 PASS**;
-- all mapped article-body page segments appear exactly once and in correct source order;
-- all scan-boundary comments are complete and correctly ordered;
-- article start/end boundaries agree with the page map;
-- scan 19 source-recovery provenance remains intact;
-- scan 32, scan 48 and scan 49 Gemini/source conflicts remain deliberately unchanged;
-- Article 7 still ends on scan 41 at `வரலாற்றை வீணாக்கிய`;
-- scan-49 publication-source note/imprint remains outside Article 10 body;
-- scan-50 `மணமகள்` advertisement remains outside every article;
-- missing/duplicate/out-of-order mapped body segments: **0**;
-- P4 Tamil body edits: **0**.
-
-## Downstream status
-
-- P0: **COMPLETE**
-- P1: **COMPLETE**
-- P2: **COMPLETE — 50 / 50 verified**
-- P3 article assemblies: **COMPLETE — 10 / 10**
-- P4 source audit / completeness review: **PASS**
-- P5 strict visual word/punctuation fidelity: **NOT STARTED**
-- English translation: **NOT STARTED**
-
-## Exact next activity
-
-Execute **P5 — strict visual word/punctuation fidelity pass** for all **50 physical scans**.
-
-1. recheck every visible word boundary, punctuation mark, quotation mark, heading, date, number, paragraph continuation and source/non-body boundary against the scan;
-2. include front matter, all ten article spans, scan-49 publication-close matter and scan-50 advertisement;
-3. continue to honour the publication-specific user instruction: Gemini word tokens remain the working lexical baseline wherever supplied;
-4. do not silently replace known or newly noticed Gemini/source lexical conflicts; log them for user decision;
-5. propagate only user-authorised/source-supported structural corrections to page records and dependent assemblies;
-6. create the publication-level strict-fidelity review record and recheck the article assemblies after any permitted correction;
-7. do **not** begin English translation until P5 is explicitly closed.
+- create `TRANSLATION_PLAN.md`;
+- create `translations/en/README.md`;
+- create `translations/en/LEXICON.md`;
+- create `translations/en/TRANSLATION_REVIEW.md`;
+- record all ten frozen Tamil article blob SHAs;
+- do **not** begin T1 body translation until T0 setup is complete.
