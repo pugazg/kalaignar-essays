@@ -109,28 +109,42 @@ P3 assembly rules/results:
 - scan 49's printed `முரசொலி` / `மாலைமணி` publication-source note and `அன்பன் அச்சகம், சென்னை -1.` imprint remain outside Article 10 assembly;
 - scan 50 advertisement remains outside all article assemblies.
 
+## P4 — source audit / completeness review — PASS
+
+Detailed ledger: [`audit.md`](audit.md).
+
+P4 audited all ten assemblies against the verified page layer and confirmed:
+
+- article assemblies: **10 / 10 PASS**;
+- all mapped article-body page segments appear exactly once and in correct source order;
+- all scan-boundary comments are complete and correctly ordered;
+- article start/end boundaries agree with the page map;
+- scan 19 source-recovery provenance remains intact;
+- scan 32, scan 48 and scan 49 Gemini/source conflicts remain deliberately unchanged;
+- Article 7 still ends on scan 41 at `வரலாற்றை வீணாக்கிய`;
+- scan-49 publication-source note/imprint remains outside Article 10 body;
+- scan-50 `மணமகள்` advertisement remains outside every article;
+- missing/duplicate/out-of-order mapped body segments: **0**;
+- P4 Tamil body edits: **0**.
+
 ## Downstream status
 
 - P0: **COMPLETE**
 - P1: **COMPLETE**
 - P2: **COMPLETE — 50 / 50 verified**
 - P3 article assemblies: **COMPLETE — 10 / 10**
-- P4 source audit / completeness review: **NOT STARTED**
+- P4 source audit / completeness review: **PASS**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
 - English translation: **NOT STARTED**
 
 ## Exact next activity
 
-Execute **P4 — source audit / completeness review** for the full publication.
+Execute **P5 — strict visual word/punctuation fidelity pass** for all **50 physical scans**.
 
-Audit all ten assemblies against their mapped verified page records and confirm:
-
-1. every article starts/ends at the correct scan boundary;
-2. every verified page-body segment appears exactly once in its assembly;
-3. page-boundary comments are complete and correctly ordered;
-4. all P2 logged Gemini/source conflicts and the scan-19 source-recovery provenance remain unchanged;
-5. scan-49 publication-close material is excluded from Article 10 body;
-6. scan-50 advertisement is excluded from all articles;
-7. no silent normalization, lexical repair, or dropped source segment entered during P3.
-
-Do not begin P5 or English translation in the same activity unless the handover is explicitly advanced after P4.
+1. recheck every visible word boundary, punctuation mark, quotation mark, heading, date, number, paragraph continuation and source/non-body boundary against the scan;
+2. include front matter, all ten article spans, scan-49 publication-close matter and scan-50 advertisement;
+3. continue to honour the publication-specific user instruction: Gemini word tokens remain the working lexical baseline wherever supplied;
+4. do not silently replace known or newly noticed Gemini/source lexical conflicts; log them for user decision;
+5. propagate only user-authorised/source-supported structural corrections to page records and dependent assemblies;
+6. create the publication-level strict-fidelity review record and recheck the article assemblies after any permitted correction;
+7. do **not** begin English translation until P5 is explicitly closed.
