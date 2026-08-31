@@ -4,7 +4,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Status
 
-**Articles 1–2 T5 VERIFIED; Article 3 T1 COMPLETE / DRAFT.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
+**Articles 1–2 T5 VERIFIED; Article 3 T1–T2 COMPLETE / FIDELITY-REVIEWED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
 
 > **Translate the language; do not neutralise the voice.**
 
@@ -79,30 +79,34 @@ Final verified English blob: `f1599a8e7cae4ba749b9be2857705b152887f9f8`
 | `பவிசு` | `pomp` | SOURCE-SENSITIVE / T5 VERIFIED |
 | `மதவாதி` | `religionist` | T5 VERIFIED |
 
-## Article 3 — T1 provisional decisions
+## Article 3 — T2-confirmed decisions
 
 Frozen Tamil authority: `92eb1a68d65f65dd71274e5e79f3209e63359d9a`  
-T1 draft blob: `41abd9d0071ee9f3511a0781bd3ab503404dff72`
+T1 draft blob: `41abd9d0071ee9f3511a0781bd3ab503404dff72`  
+T2 fidelity-reviewed blob: `1df8b58eb79e1193bdad761faf7ab2953af381fd`
 
-| Tamil / source form | T1 English decision | Status / caution |
+| Tamil / source form | English decision | Status / caution |
 |---|---|---|
-| `போகிறான்;போகிறான்..!` | `He Goes; He Goes..!` | PROVISIONAL / T1 |
-| `இலட்சியம்` | `ideal` | T1; preserve ideological/aspirational force rather than flattening to generic `goal` |
-| `இலட்சிய வீரன்` | `warrior of ideals` | T1 PROVISIONAL |
-| `இலட்சியக்காரன்` / `இலட்சிய வாதி` | `idealist` | T1 PROVISIONAL; contextual noun |
-| `பாறையு` | `paaraiyu` | SOURCE-SENSITIVE / T1; frozen scan-16 token retained rather than silently expanded |
-| `இடுக்கண் வருங்கால் நகுக` | `Laugh when adversity comes` | T1 PROVISIONAL; translated from frozen Tamil only, no published English Kural imported |
-| `குறள்` | `Kural` | SOURCE-BEARING / T1 |
-| `ஈயச் செம்பே` | `crushed lead vessel` | SOURCE-SENSITIVE / T1 PROVISIONAL; recheck at T2 without alternate-Tamil repair |
-| `மகாத்மாக்கள்` | `Mahatmas` | T1 PROVISIONAL; preserve source label without external identification |
-| `செல் மொய்த்த` | `swarmed by sel` | SOURCE-SENSITIVE / T1; `sel` retained because frozen token is unclear |
-| `சுயநல பெருச்சாளிகள்` | `selfish bandicoots` | T1 PROVISIONAL; preserves insulting animal image |
-| `பசலைப் பயலே` | `pallid wretch` | T1 PROVISIONAL; insult not softened |
-| `செல்வாக்கை செல்லாக்காசாக்குகிறேன்` | `I will turn your influence into worthless coin` | T1 PROVISIONAL; preserves wordplay as closely as possible |
-| `அன்று வீரமுழக்கம் செய்வான்` | `That day he will roar a warrior's cry` | SOURCE-SENSITIVE / T1; frozen `அன்று` retained rather than silently normalised |
-| `நீர்மேற்குமிழி பஜனை` | `water-bubble bhajan` | SOURCE-BEARING / T1 PROVISIONAL |
-| `பாகு மொழி` | `syrupy speech` | T1 PROVISIONAL |
-| `போகிறான் -போகிறான்-போய்க் கொண்டே இருக்கிறான்` | `goes—goes—keeps going` | T1 PROVISIONAL; repetition must survive T2/T3 |
+| `போகிறான்;போகிறான்..!` | `He Goes; He Goes..!` | T2 CONFIRMED |
+| `இலட்சியம்` | `ideal` | T2 CONFIRMED; do not flatten to generic `goal` |
+| `இலட்சிய வீரன்` | `warrior of ideals` | T2 CONFIRMED |
+| `இலட்சியக்காரன்` / `இலட்சிய வாதி` | `idealist` | T2 CONFIRMED |
+| `பாறையு` | `paaraiyu` | SOURCE-SENSITIVE / T2 CONFIRMED; frozen token retained, not expanded |
+| `இடுக்கண் வருங்கால் நகுக` | `Laugh when adversity comes` | T2 CONFIRMED; no published Kural translation imported |
+| `குறள்` | `Kural` | SOURCE-BEARING / T2 CONFIRMED |
+| `ஈயச் செம்பே` | `crushed lead vessel` | SOURCE-SENSITIVE / T2 CONFIRMED |
+| `பொதுநலப் பணி` | `public-welfare work` | T2 CORRECTED / CONFIRMED |
+| `மகாத்மாக்கள்` | `Mahatmas` | T2 CONFIRMED; source label only |
+| `செல் மொய்த்த` | `swarmed by sel` | SOURCE-SENSITIVE / T2 CONFIRMED; no external repair |
+| `சுயநல பெருச்சாளிகள்` | `selfish bandicoots` | T2 CONFIRMED; insulting animal image retained |
+| `பசலைப் பயலே` | `pallid rascal` | T2 CORRECTED / CONFIRMED |
+| `செல்வாக்கை செல்லாக்காசாக்குகிறேன்` | `I will turn your influence into worthless coin` | T2 CONFIRMED; wordplay retained |
+| `அன்று வீரமுழக்கம் செய்வான்` | `That day he will roar a warrior's cry` | SOURCE-SENSITIVE / T2 CONFIRMED; frozen `அன்று` retained |
+| `மாட மாளிகை` | `storeyed mansion` | T2 CORRECTED / CONFIRMED |
+| `நீர்மேற்குமிழி பஜனை` | `water-bubble bhajan` | SOURCE-BEARING / T2 CONFIRMED |
+| `கண்மூடிகள்` | `those with their eyes shut` | T2 CORRECTED / CONFIRMED |
+| `பாகு மொழி` | `syrupy speech` | T2 CONFIRMED |
+| `போகிறான் -போகிறான்-போய்க் கொண்டே இருக்கிறான்` | `goes—goes—keeps going` | T2 CONFIRMED; repetition must survive T3/T4/T5 |
 
 ## Decisions still to establish in later articles
 
@@ -122,4 +126,4 @@ T1 draft blob: `41abd9d0071ee9f3511a0781bd3ab503404dff72`
 
 ## Next lexicon activity
 
-During **Article 3 T2**, audit only the Article 3 provisional decisions above against the frozen Tamil and page records. Do not replace `paaraiyu`, `sel`, `அன்று` or other source-sensitive witnesses with outside/scan reconstructions merely to make smoother English.
+During **Article 3 T3**, preserve all T2 decisions above while reviewing only meaning-neutral cadence/voice. Do not replace `paaraiyu`, `sel`, frozen `அன்று`, `water-bubble bhajan` or other source-sensitive forms with outside/scan reconstructions.
