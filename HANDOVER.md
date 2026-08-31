@@ -86,7 +86,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - T2 fidelity-reviewed: **3 / 10**
 - T3 voice-reviewed: **3 / 10**
 - T4 audited: **3 / 10**
-- T5 verified: **2 / 10**
+- T5 verified: **3 / 10**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - blockers: **0**
@@ -113,7 +113,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - T5 body corrections: **0**
 - blockers: **0**
 
-## Article 3 — `போகிறான்;போகிறான்..!` — T1–T4 COMPLETE / T4 PASS
+## Article 3 — `போகிறான்;போகிறான்..!` — T0–T5 COMPLETE / VERIFIED
 
 - English title: **He Goes; He Goes..!**
 - frozen Tamil: `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
@@ -121,10 +121,12 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - English file: `publications/unarchchimaalai/translations/en/03-pogiran-pogiran.md`
 - T1 draft blob: `41abd9d0071ee9f3511a0781bd3ab503404dff72`
 - T2 fidelity-reviewed blob: `1df8b58eb79e1193bdad761faf7ab2953af381fd`
-- T3/T4 English candidate blob: **`b7e887172c7a549112a44caad43c7e7f5815f5d3`**
+- T3/T4 English candidate blob: `b7e887172c7a549112a44caad43c7e7f5815f5d3`
+- final T5-verified English blob: **`1134185bc21478775419adb3560b110c001d2b75`**
 - T2 body fidelity corrections: **5**
 - T3 meaning-neutral voice/cadence corrections: **11**
 - T4 body corrections: **0**
+- T5 body corrections: **0**
 - paragraph/clause coverage: **PASS**
 - scan comments 16–18: **PASS / ordered**
 - printed pages: **PASS — scan 16 none, scan 17 = 16, scan 18 = 17**
@@ -132,25 +134,23 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - questions/exclamations, direct speech, insults, wordplay, vivid images and closing repetition: **PASS**
 - frozen scan-16 `பாறையு`: retained source-sensitively as `paaraiyu`; not silently expanded
 - frozen scan-17 `தனக்குக்`: upstream Tamil authority unchanged
-- `sel`, frozen `அன்று` → `That day`, `water-bubble bhajan`: **T4 PASS / retained source-sensitively**
-- Kural line `Laugh when adversity comes`, `Mahatmas`, `selfish bandicoots`, `crushed lead vessel`, `pallid rascal`, `செல்வாக்கை / செல்லாக்காசு` wordplay: **T4 PASS**
-- external citation required: **No**
+- `sel`, frozen `அன்று` → `That day`, `water-bubble bhajan`: **T5 VERIFIED / retained source-sensitively**
+- Kural line `Laugh when adversity comes`, `Mahatmas`, `selfish bandicoots`, `crushed lead vessel`, `pallid rascal`, `செல்வாக்கை / செல்லாக்காசு` wordplay: **T5 VERIFIED**
 - published Kural translation, outside/web wording, lexical repair or scan-alternate Gemini reconstruction imported: **none**
-- T4 blockers: **0**
+- T5 blockers: **0**
 
-T4 required **0 body corrections**. The T3 English body remains unchanged and Article 3 correctly remains `translation_status: voice-reviewed` until T5.
+T5 reconfirmed the complete T1–T4 chain with **0 body corrections** and froze Article 3 at final English blob `1134185bc21478775419adb3560b110c001d2b75`.
 
 ---
 
 # Exact next activity
 
-Execute **Article 3 T5 — final article verification** for `போகிறான்;போகிறான்..!` / **He Goes; He Goes..!** against:
+Execute **Article 4 T1 — complete close English draft** for `இராவணன் நம் பாட்டன்` from:
 
-- frozen Tamil blob: `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
-- T3/T4 English candidate blob: `b7e887172c7a549112a44caad43c7e7f5815f5d3`
-- source scans: **16–18**
+- frozen Tamil blob: `006f2f75dbc3eea796170a29aee0befd162522e7`
+- source scans: **19–29**
 
-T5 must reconfirm the complete T1–T4 chain, metadata/source SHA, scan/printed-page fields, source-sensitive lexicon, Kural and other quotation boundaries, questions/exclamations, insult/wordplay decisions and final repeated motion. Mark Article 3 `verified` and record its final English blob only if all checks pass; synchronize tracker/lexicon/review/plan/handover; and **stop before Article 4 T1**.
+T1 must translate the complete frozen Article 4 paragraph by paragraph, preserve every scan-boundary comment and the frozen scan-19 source-recovered text/provenance, preserve questions/exclamations/repetition/direct address, establish only terminology actually encountered, create `publications/unarchchimaalai/translations/en/04-iravanan-nam-pattan.md` with `translation_status: draft`, synchronize tracker/lexicon/review/plan/handover, and **stop before Article 4 T2**.
 
 ## Current blockers
 
