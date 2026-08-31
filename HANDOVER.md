@@ -60,7 +60,7 @@ Do not restart or stylistically rewrite Publication 1 unless a genuine source-su
 # Publication 2 — கயிற்றில் தொங்கிய கணபதி — RELEASE COMPLETE / FROZEN
 
 Workspace: `publications/kayittril-thongiya-kanapathi/`  
-Supplied source: `TVA_BOK_0064013_கயிற்றில்_தொங்கிய_கணபதி.pdf`
+Supplied source: `TVA_BOK_0064013_கலைஞரின்_கடிதங்கள்_தொகுதி_44.pdf`
 
 ## Source identity
 
@@ -178,7 +178,7 @@ Do not reopen Publication 2 for stylistic polishing unless a genuine source-supp
 
 ---
 
-# Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE ACTIVE / P2 18 OF 50
+# Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE ACTIVE / P2 29 OF 50
 
 Workspace: `publications/unarchchimaalai/`  
 Supplied source: `TVA_BOK_0063821_உணர்ச்சிமாலை.pdf`
@@ -237,11 +237,12 @@ For Publication 3, the user explicitly instructed:
 
 Controlling workflow rule for this Tamil pass:
 
-- Gemini word choices are the working lexical baseline;
+- Gemini word choices are the working lexical baseline wherever Gemini supplied text;
 - do not silently change Gemini word tokens from scan inspection;
 - use the scan to restore/verify headings, punctuation, spacing, paragraph boundaries, verse/quotation layout, indentation and other non-lexical structure;
 - any apparent scan/Gemini lexical conflict must be logged for user decision, not silently resolved;
-- physical-copy evidence and page/section boundaries remain scan-controlled.
+- physical-copy evidence and page/section boundaries remain scan-controlled;
+- if Gemini omits a whole paragraph/page, source recovery is permitted only under the user's explicit missing-paragraph instruction and must be labelled as scan-derived rather than Gemini-derived.
 
 ## P2 page-level transcription — ACTIVE
 
@@ -251,15 +252,19 @@ Completed and directly compared for the authorised structural layer:
 - Article 1 `உணர்ச்சி மாலை`, scans **6–9**: **4 / 4**
 - Article 2 `புரட்சி வளர்ந்த கதை`, scans **10–15**: **6 / 6**
 - Article 3 `போகிறான்;போகிறான்..!`, scans **16–18**: **3 / 3**
-- total page records: **18 / 50 verified**
+- Article 4 `இராவணன் நம் பாட்டன்`, scans **19–29**: **11 / 11**
+- total page records: **29 / 50 verified**
 
 P2 non-regression notes:
 
 - every page record separates `# அச்சு உரை` from `## அச்சு அல்லாத / physical-copy marks`;
-- Gemini letters/word choices remain unchanged as the lexical baseline;
+- Gemini letters/word choices remain unchanged as the lexical baseline wherever present;
 - only scan-supported punctuation, spacing, paragraph breaks, headings and quotation/lineation are restored;
-- scan 6, scan 10 and scan 16 remain `printed_page: null`;
-- Article 1, Article 2 and Article 3 page layers are complete;
+- scan 6, scan 10, scan 16 and scan 19 remain `printed_page: null`;
+- scan 20 records only the visible incomplete page-number witness `1`; no `19` is inferred;
+- **scan 19 Gemini omission:** Gemini's supplied transcription omits the entire page body. Under the user's explicit missing-paragraph instruction, the scan-19 body was recovered directly from the controlling scan and its page record clearly identifies it as source-recovered rather than Gemini-derived;
+- retained Gemini-specific forms in Article 4 include `உணாந்துவிட்டால்`, `வாணனையை`, `விவாதத்தை வளர்த்த முடியாமல்`, and `ஏது மறியாத`;
+- Article 1 through Article 4 page layers are complete;
 - article assemblies remain **0 / 10** because P3 has not begun;
 - P4/P5 and English translation remain **NOT STARTED**.
 
@@ -269,21 +274,21 @@ Source/progress records:
 - `publications/unarchchimaalai/metadata/source.md`
 - `publications/unarchchimaalai/indexes/page-map.md`
 - `publications/unarchchimaalai/indexes/contents.md`
-- `publications/unarchchimaalai/pages/0001-...` through scan-18 page records
+- `publications/unarchchimaalai/pages/0001-...` through scan-29 page records
 
 ---
 
 # Exact next activity
 
-Continue **P2 — page-level transcription, scans 19–29**, and complete Article 4 `இராவணன் நம் பாட்டன்` as one page-layer batch.
+Continue **P2 — page-level transcription, scans 30–38**, completing Article 5 `இங்கல்ல! இரஷ்யாவில்` (scans **30–32**) and Article 6 `3, 57, 90.` (scans **33–38**) as the next coherent page-layer batch.
 
-1. create page records for scans **19–29**;
-2. preserve the Article 4 heading as the two-line witness `இராவணன்` / `நம் பாட்டன்`;
-3. preserve scan 19 as an unnumbered article opening;
-4. preserve only the visible `1` in scan 20's page-number position; **do not reconstruct `19`**;
-5. retain Gemini word tokens unchanged;
-6. restore only scan-supported punctuation, spacing, paragraph breaks, quotation layout and other user-authorised structural features;
-7. keep physical-copy marks outside printed text;
+1. create page records for scans **30–38**;
+2. preserve scans 30 and 33 as unnumbered article openings;
+3. preserve Article 5 heading `இங்கல்ல! இரஷ்யாவில்` and Article 6 heading `3, 57, 90.` exactly as scan witnesses;
+4. retain Gemini word tokens unchanged wherever supplied;
+5. restore only scan-supported punctuation, spacing, paragraph breaks, quotation/verse layout and other user-authorised structural features;
+6. keep physical-copy marks outside printed text;
+7. if Gemini omits a source block, recover it only with explicit source-recovery provenance;
 8. update publication README, source metadata and this handover after the batch.
 
 ## Current blockers
