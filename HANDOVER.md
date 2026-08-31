@@ -105,8 +105,7 @@ Complete close draft from scans 6–9; scan comments and quoted lineation retain
 
 ### T2 — COMPLETE / PASS
 
-- metadata status: **`fidelity-reviewed`**
-- title **Garland of Emotion**: T2-confirmed
+- title **Garland of Emotion**: confirmed
 - `Aththaan`: retained source-bearing without unsupported relationship gloss
 - frozen `திருவிடத்தார்`: `Tiruvitaththar` retained source-sensitively
 - frozen `இளைக் காத எழுத்துக்கள்`: `writings that do not tire`
@@ -119,6 +118,30 @@ Complete close draft from scans 6–9; scan comments and quoted lineation retain
 - outside/web wording imported: **No**
 - unresolved T2 blockers: **0**
 
+### T3 — COMPLETE / PASS
+
+Article 1 is now `translation_status: voice-reviewed`.
+
+T3 preserved every T2 meaning/source decision and made **7 meaning-neutral voice/cadence corrections**:
+
+1. strengthened the opening summation to `All this together—that is Bharathidasan's poetry.`;
+2. sharpened the Rama/Kali parallel attack without changing meaning;
+3. tightened `our gratitude to him—our duty—everything!`;
+4. restored `உலவ` as `roam freely through Tamilakam`;
+5. rendered quoted `ரகளை` as `ruckus` rather than flatter `commotion`;
+6. tightened the Thiruvaiyaru opposition/falling-at-the-feet sentence;
+7. restored the final festival sentence to a compressed fragment-like cadence.
+
+T3 non-regression:
+
+- title / proper names / T2 source-bearing choices: **unchanged**
+- T2 `வெள்ளம்போல் தமிழர்...` stanza: **unchanged**
+- commands, rhetorical questions, exclamations and repetition: **preserved**
+- scan comments 6–9 and verse lineation: **PASS**
+- Tamil source changed: **No**
+- outside/web wording imported: **No**
+- unresolved T3 blockers: **0**
+
 Detailed correction provenance: `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md`.
 
 ## English progress
@@ -126,7 +149,7 @@ Detailed correction provenance: `publications/unarchchimaalai/translations/en/TR
 - T0: **PASS**
 - T1 drafts: **1 / 10**
 - T2 fidelity-reviewed: **1 / 10**
-- T3 voice-reviewed: **0 / 10**
+- T3 voice-reviewed: **1 / 10**
 - T4 audited: **0 / 10**
 - T5 verified: **0 / 10**
 - E6: **NOT STARTED**
@@ -137,9 +160,18 @@ Detailed correction provenance: `publications/unarchchimaalai/translations/en/TR
 
 # Exact next activity
 
-Execute **Article 1 T3 — Kalaignar voice review** for `Garland of Emotion` against frozen Tamil blob `c63837a9f7c02d6f3a18171a512d46788f66ad92`.
+Execute **Article 1 T4 — terminology / quotation / citation / source audit** for `Garland of Emotion` against frozen Tamil blob `c63837a9f7c02d6f3a18171a512d46788f66ad92`.
 
-T3 must preserve every T2 meaning/source decision while checking cadence, directness, commands, rhetorical questions, repetition, exclamations, imagery and argumentative force. Make only meaning-neutral voice/cadence corrections. Retain scan comments 6–9 and verse lineation. Advance to `translation_status: voice-reviewed` only if T3 passes. **Stop before T4.**
+T4 must:
+
+1. audit all Article 1 terminology and proper names/referents against the frozen Tamil and living lexicon;
+2. audit every quoted passage, verse line, source-bearing term and source-sensitive choice;
+3. verify scan comments 6–9 and source/page-boundary traceability;
+4. confirm the T3 voice changes did not alter T2 meaning or source relationships;
+5. document any T4 correction rather than silently changing terminology;
+6. treat T4 as an audit gate and keep metadata `voice-reviewed` until T5 unless the permanent guide explicitly requires otherwise;
+7. update tracker, lexicon, review ledger, plan and this handover;
+8. **stop before T5 final verification**.
 
 ## Current blockers
 
