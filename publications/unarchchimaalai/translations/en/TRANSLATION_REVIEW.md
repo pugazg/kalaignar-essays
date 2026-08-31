@@ -77,8 +77,9 @@ Source authority:
 - frozen Tamil blob SHA: `dda81363f512ee2f829c367ae929ce3610604fe9`
 - source scans: **10–15**
 - English article: [`02-puratchi-valarntha-kathai.md`](02-puratchi-valarntha-kathai.md)
-- provisional English title: **The Story of How the Revolution Grew**
+- English title: **The Story of How the Revolution Grew**
 - T1 English draft blob: `c036f2439874dacf6220e7da529e852cf28e223a`
+- T2 fidelity-reviewed English blob: `ec61502524a073a45292202da71d8979b5d254b2`
 
 ## T1 — complete close draft — COMPLETE / PASS
 
@@ -99,61 +100,63 @@ T1 translated the complete frozen Tamil article paragraph by paragraph and stopp
 
 ### T1 provisional terminology / proper-name decisions
 
-- `மேதினம்` → `May Day`;
-- `பாட்டாளி மக்கள்` → `proletarian people` — **T2 review required for English register**;
-- `முதலாளி வர்க்கம்` → `capitalist class`;
-- `இரஷ்யா` / `ரஷ்ய` → `Russia` / `Russian`;
-- frozen `இலெனின்` / `லெனின்` → `Lenin`, with the Tamil source-form variation explicitly recorded rather than erased from provenance;
-- `ஜார்` → `Tsar`;
-- `டூமா` → `Duma`, retaining the article's own gloss as a people's representative assembly;
-- `போல்ஷ்வெக்கர் கட்சி` / spacing variants → `Bolshevik Party`; `போல்ஷ்வெக்படையினர்` → `Bolshevik forces`;
-- `சோவியத் அரசாங்கம்` → `Soviet government`;
-- `தற்காலீக அரசாங்கம்` → `Provisional Government`;
-- `பீட்டர்ஸ்பர்க்` → `Petersburg`;
-- frozen `பீட்ரோகிராட்` / `பீட்ரோ கிரோடு` → `Petrograd`, with source variation documented;
-- `நிக்கோலாஸ்` → `Nicholas`; `செர்கியஸ் கோமகன்` → `Prince Sergius`;
-- `ரஸ்புடீன்` → `Rasputin`; `டான்னென்-பெர்க்` → `Tannenberg`;
-- `மங்கையற்கரசி` → source-sensitive `Mangaiyarkkarasi`;
-- `குலச் சிறை` → source-sensitive `Kulachchirai`;
-- quoted `கிடுகிடு` → source-bearing `kidukidu`;
-- frozen `ரோமனால்` → source-sensitive `Romanal`, with **no silent dynasty-name normalisation**;
-- `சிரஞ்சீவி` → source-bearing `Chiranjeevi`;
-- `கடவுளீயம்` → provisional source-bearing `God-ism`;
-- `திராவிடம்` → provisional source-bearing `Dravidam`;
-- `சுயமரியாதை` → provisional `Self-Respect`;
-- quoted `பவிசு` → provisional `pomp`;
-- `மதவாதி` → provisional `religionist`.
+T1 established `May Day`, `proletarian people`, `capitalist class`, `Russia` / `Russian`, `Lenin`, `Tsar`, `Duma`, `Bolshevik Party`, `Bolshevik forces`, `Soviet government`, `Provisional Government`, `Petersburg`, `Petrograd`, `Prince Sergius`, `Rasputin`, `Tannenberg`, source-sensitive `Mangaiyarkkarasi`, `Kulachchirai`, `kidukidu`, `Romanal`, `Chiranjeevi`, `God-ism`, `Dravidam`, `Self-Respect`, quoted `pomp`, and `religionist`. All were explicitly queued for T2 rather than treated as final.
 
-### T1 choices explicitly queued for T2
+**T1 RESULT: PASS.** Article 2 entered `translation_status: draft` with unresolved T1 blockers: **0**.
 
-1. title **The Story of How the Revolution Grew**;
-2. `proletarian people` for `பாட்டாளி மக்கள்`;
-3. `pomp` for quoted `பவிசு`;
-4. `religionist` and `capitalist–religionist class` for `மதவாதி` contexts;
-5. single English `Lenin` and `Petrograd` forms across the frozen Tamil spelling variants;
-6. `Mangaiyarkkarasi` / `Kulachchirai` source-bearing treatment;
-7. `kidukidu` onomatopoeia;
-8. frozen `ரோமனால்` → `Romanal`;
-9. `Chiranjeevi`;
-10. `God-ism` for `கடவுளீயம்`;
-11. `Dravidam` and `Self-Respect` in the closing political question;
-12. any T1 phrase whose close literal force reads awkwardly in English, without importing outside historical reconstruction.
+## T2 — bilingual fidelity review — COMPLETE / PASS
 
-### T1 non-regression
+T2 re-read the full frozen Tamil and English clause by clause across scans 10–15. It checked dates, numbers, logical relations, questions, exclamations, source labels, cross-scan continuations and all T1 provisional terminology.
 
-- scan 11 P5 lexical conflict remains upstream; T1 translates frozen `மௌனமாகவே`, not the scan-appearing alternate: **PASS**;
-- no source-sensitive frozen token was silently corrected in Tamil: **PASS**;
-- no explanatory historical note was inserted into the article body: **PASS**;
-- unresolved T1 blockers: **0**.
+### T2 fidelity corrections made
 
-**T1 RESULT: PASS.** Article 2 is `translation_status: draft`. T2 has not started.
+1. `who cried that they had no refuge` → **`who cried that there was no way out`** for frozen `கதியிலை`.
+2. Removed T1's added separate `That is the victory festival!`; the scan-10 accumulation now ends directly **`—a victory festival!`**.
+3. `Tsar Nicholas` → **`King Nicholas`** for source `நிக்கோலாஸ் மன்னன்`, restoring Kalaignar's actual title choice.
+4. `but to smile!` → **`but for a faint smile!`** for `புன் சிரிப்பு`.
+5. `He struck Prince Sergius dead.` → **`He beat Prince Sergius to death.`** for `சாக அடித்தான்`.
+6. `Society spat at Tsarist rule.` → **`The people spat at Tsarist rule.`** for `ஜனசமுதாயம்` in that sentence.
+7. `asked the price of knowledge` → **`asked the price of intelligence`** for `அறிவை விலை கேட்பவன்`.
+8. `another killing in the royal family` → **`another murder in the royal family`** for source `கொலை`.
+9. Removed T1's added imperative **`Remember`** from the scan 13→14 Rasputin continuation and restored the source's `lion cub ... echo of his smile` construction.
+10. `ceremony of Tsar's abdication` → **`Tsar-king's abdication ceremony`** for `ஜார் அரசனின் முடிதுறப்பு வைபவம்`, preserving both source labels.
+
+### T2 provisional-choice resolutions
+
+- title **The Story of How the Revolution Grew**: **retained / T2 confirmed**;
+- `பாட்டாளி மக்கள்` → **proletarian people**: **retained**;
+- quoted `பவிசு` → **pomp**: **retained as source-sensitive contextual rendering**;
+- `மதவாதி` → **religionist** and capitalist–religionist class: **retained**;
+- frozen `இலெனின்` / `லெனின்` → one conventional **Lenin** in English: **retained with source variation documented**;
+- frozen `பீட்ரோகிராட்` / `பீட்ரோ கிரோடு` → one conventional **Petrograd** in English: **retained with source variation documented**;
+- `Mangaiyarkkarasi` / `Kulachchirai`: **retained source-sensitively, no external identification**;
+- quoted `kidukidu`: **retained source-bearing**;
+- frozen `ரோமனால்` → **Romanal**: **retained, no silent dynasty-name normalisation**;
+- `Chiranjeevi`: **retained source-bearing**;
+- `கடவுளீயம்` → **God-ism**: **retained source-sensitively**;
+- `திராவிடம்` → **Dravidam**: **retained source-bearing**;
+- `சுயமரியாதை` → **Self-Respect**: **retained**.
+
+### T2 non-regression / traceability
+
+- frozen Tamil blob unchanged: **PASS**;
+- English `source_tamil_blob_sha` matches frozen authority: **PASS**;
+- scan comments 10–15 present and ordered: **PASS**;
+- scan 11→12 continuation remains at the correct source point: **PASS**;
+- scan 13→14 `ரஸ்புடீனை / சுட்டுக்கொன்றது` continuation remains at the correct source point: **PASS**;
+- frozen scan-11 `மௌனமாகவே` remains the translation authority despite the P5 scan-appearing alternate: **PASS**;
+- all recorded dates/numbers preserved: **PASS**;
+- no external historical reconstruction, web wording or published English translation imported: **PASS**;
+- unresolved T2 blockers: **0**.
+
+**T2 RESULT: PASS.** Article 2 is now `translation_status: fidelity-reviewed`. T3 has not started.
 
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 | Current blockers |
 |---:|---|---|---|---|---|---|---|---|---|
 | 1 | உணர்ச்சி மாலை | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** | 0 |
-| 2 | புரட்சி வளர்ந்த கதை | `draft` | PASS | **PASS** | — | — | — | — | 0 |
+| 2 | புரட்சி வளர்ந்த கதை | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — | 0 |
 | 3 | போகிறான்;போகிறான்..! | `not-started` | PASS | — | — | — | — | — | 0 |
 | 4 | இராவணன் நம் பாட்டன் | `not-started` | PASS | — | — | — | — | — | 0 |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `not-started` | PASS | — | — | — | — | — | 0 |
@@ -165,4 +168,4 @@ T1 translated the complete frozen Tamil article paragraph by paragraph and stopp
 
 ## Exact next activity
 
-Execute **Article 2 T2 — bilingual fidelity review**. Re-read frozen Tamil blob `dda81363f512ee2f829c367ae929ce3610604fe9` and the T1 English draft clause by clause across scans 10–15. Resolve or explicitly document the provisional T1 choices above, make only fidelity corrections, preserve all scan comments and source relationships, advance to `fidelity-reviewed` only if T2 passes, and stop before T3.
+Execute **Article 2 T3 — Kalaignar voice review** for `The Story of How the Revolution Grew`. Preserve every T2 meaning/source decision while reviewing directness, accumulative cadence, rhetorical questions, ridicule, violent imagery, repeated `No...` reversals, class-political labels and the closing question. Make only meaning-neutral voice/cadence corrections, advance to `voice-reviewed` only if T3 passes, and stop before T4.
