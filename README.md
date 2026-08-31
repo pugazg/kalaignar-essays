@@ -54,7 +54,7 @@ Detailed records:
 
 Do not reopen for stylistic polishing unless a genuine source-supported or release-blocking defect is discovered.
 
-## Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE COMPLETE / FROZEN
+## Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE COMPLETE / FROZEN; ENGLISH T0 COMPLETE
 
 Workspace: [`publications/unarchchimaalai/`](publications/unarchchimaalai/)
 
@@ -89,7 +89,6 @@ Therefore scan/Gemini lexical disagreements are documented instead of silently n
 - outstanding `needs-review` / blocked fidelity items: **0**
 - unresolved Tamil/body blockers: **0**
 - **Tamil source: COMPLETE / FROZEN**
-- English translation: **NOT STARTED**
 
 Important frozen P5 results include the corrected scan 33/34 boundary, source-recovered scan-42 `பதில் இல்லை.`, scan-43 `* * *`, scan-49 `அன்பன் அச்சகம், சென்னை-1.` outside Article 10, and stacked scan-50 `BALU` / `BROS` advertisement text.
 
@@ -102,6 +101,25 @@ Detailed final Tamil records:
 - [`audit.md`](publications/unarchchimaalai/audit.md)
 - [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/unarchchimaalai/VISUAL_TEXT_FIDELITY_REVIEW.md)
 - [`PUBLICATION_COMPLETION_REVIEW.md`](publications/unarchchimaalai/PUBLICATION_COMPLETION_REVIEW.md)
+
+### English translation status
+
+- T0 source prerequisite/setup: **COMPLETE / PASS**
+- ten frozen Tamil article blob authorities: **10 / 10 reverified against live `main`**
+- T1 drafts: **0 / 10**
+- T2 fidelity-reviewed: **0 / 10**
+- T3 voice-reviewed: **0 / 10**
+- T4 audited: **0 / 10**
+- T5 verified: **0 / 10**
+- English body translation: **NOT STARTED**
+- unresolved translation blockers: **0**
+
+Translation workspace:
+
+- [`TRANSLATION_PLAN.md`](publications/unarchchimaalai/TRANSLATION_PLAN.md)
+- [`translations/en/README.md`](publications/unarchchimaalai/translations/en/README.md)
+- [`translations/en/LEXICON.md`](publications/unarchchimaalai/translations/en/LEXICON.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md)
 
 ### Frozen Tamil article blob authorities
 
@@ -120,6 +138,6 @@ These are the translation authorities unless a later source-supported Tamil corr
 
 ## Current project state / exact next activity
 
-Publications 1 and 2 are **COMPLETE / FROZEN / RELEASED**. Publication 3 `உணர்ச்சிமாலை` has a **COMPLETE / FROZEN Tamil source** and is now eligible for English setup.
+Publications 1 and 2 are **COMPLETE / FROZEN / RELEASED**. Publication 3 `உணர்ச்சிமாலை` has a **COMPLETE / FROZEN Tamil source** and its English **T0 setup is COMPLETE / PASS**.
 
-**Exact next activity:** execute **T0 — English translation source prerequisite / setup** for Publication 3 under `ESSAY_TRANSLATION_GUIDE.md`: create `TRANSLATION_PLAN.md`, `translations/en/README.md`, `translations/en/LEXICON.md`, and `translations/en/TRANSLATION_REVIEW.md`; record all ten frozen Tamil article blob SHAs; do **not** begin T1 body translation until T0 is complete.
+**Exact next activity:** execute **Article 1 T1 — complete close English draft for `உணர்ச்சி மாலை`** from frozen Tamil blob `c63837a9f7c02d6f3a18171a512d46788f66ad92`. Preserve all verse and scan-boundary provenance, establish a provisional English title and initial living-lexicon decisions, leave the article at `translation_status: draft`, and stop before T2 bilingual review.
