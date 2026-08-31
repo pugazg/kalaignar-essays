@@ -107,14 +107,16 @@ Final verified English blob: `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
 - T5: **PASS** — 0 body corrections
 - unresolved Article 1 blockers: **0**
 
-## Article 2 — `புரட்சி வளர்ந்த கதை` — T1–T3 COMPLETE / VOICE-REVIEWED
+Article 1 is individually verified, but publication-level E6/E7 release freezing waits until all ten articles pass T5.
+
+## Article 2 — `புரட்சி வளர்ந்த கதை` — T1–T4 COMPLETE / T4-AUDITED
 
 Frozen Tamil authority: `dda81363f512ee2f829c367ae929ce3610604fe9`  
 English file: `publications/unarchchimaalai/translations/en/02-puratchi-valarntha-kathai.md`  
 English title: **The Story of How the Revolution Grew**  
 T1 draft blob: `c036f2439874dacf6220e7da529e852cf28e223a`  
 T2 fidelity-reviewed blob: `ec61502524a073a45292202da71d8979b5d254b2`  
-T3 voice-reviewed blob: **`cff1840ab297a00b933390ee41207afd9709e9b8`**
+T3 voice-reviewed / T4-audited blob: **`cff1840ab297a00b933390ee41207afd9709e9b8`**
 
 ### T2 — COMPLETE / PASS
 
@@ -122,35 +124,37 @@ T2 made **10 documented fidelity corrections** and confirmed the Article 2 termi
 
 ### T3 — COMPLETE / PASS
 
-Article 2 advanced to `translation_status: voice-reviewed` after a full Kalaignar-voice review against the frozen Tamil. T3 made **10 meaning-neutral voice/cadence corrections** while preserving every T2 meaning/source decision.
+T3 made **10 meaning-neutral voice/cadence corrections** while preserving every T2 meaning/source decision. It strengthened the opening capitalist-class strangling image, the parallel jubilant-festival / throttled-lords sentence, Lenin's corpse-enthronement / warrior-dance image, the police `stood on their heads` idiom, the personified gallows / faint-smile action, the Rasputin/scorpion cadence, `The Tsar himself set out!`, the emergency-session directness, Lenin's rallying of workers' strength, and the final `No...` reversal.
 
-T3 strengthened:
+### T4 — COMPLETE / PASS
 
-1. the opening capitalist-class strangling image;
-2. the parallel jubilant-festival / throttled-lords sentence;
-3. Lenin's corpse-enthronement / warrior-dance image;
-4. the police `stood on their heads` idiom;
-5. the personified gallows / faint-smile action;
-6. the Rasputin/scorpion comparison cadence;
-7. `The Tsar himself set out!`;
-8. the emergency-session sentence by removing passive flattening;
-9. Lenin's rallying of workers' strength;
-10. the final `No...` foundation-ceremony reversal.
+T4 audited the unchanged T3 candidate against the frozen Tamil article, page records for scans 10–15, the living lexicon and translation guide.
 
-### Article 2 T3 non-regression
-
-- T2 terminology/source decisions: **PASS**
-- title: **PASS**
-- source-sensitive forms: **PASS / unchanged**
+- terminology / proper names: **PASS**
+- source-sensitive transliterations: **PASS**
+- quotation/source-bearing boundaries: **PASS**
+- dates / numbers: **PASS**
 - scan comments 10–15: **PASS / ordered**
 - scan 11→12 continuation: **PASS**
-- scan 13→14 Rasputin continuation: **PASS**
+- scan 13→14 `ரஸ்புடீனை / சுட்டுக்கொன்றது` continuation: **PASS**
 - frozen scan-11 `மௌனமாகவே` authority: **unchanged**
 - frozen Tamil changed: **No**
-- outside/web historical reconstruction or published translation imported: **No**
-- unresolved T3 blockers: **0**
+- outside/web historical reconstruction, translator citation or published English wording imported: **No**
+- T4 body corrections: **0**
+- unresolved T4 blockers: **0**
 
-Detailed provenance: `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md`.
+Article 2 therefore remains `translation_status: voice-reviewed` until T5. Its T4-audited English blob is unchanged at `cff1840ab297a00b933390ee41207afd9709e9b8`.
+
+### Article 2 T4 non-regression
+
+- title **The Story of How the Revolution Grew**: PASS
+- `May Day`, `proletarian people`, `capitalist class`: PASS
+- `King Nicholas`, `Prince Sergius`, `Tsar`, `Duma`, `Lenin`, `Petrograd`, `Rasputin`, `Tannenberg`, `Kerensky`: PASS
+- `Bolshevik Party`, `Bolshevik forces`, `Soviet government`, `Provisional Government`: PASS
+- `pomp`, `religionist`, `Mangaiyarkkarasi`, `Kulachchirai`, `kidukidu`, `Romanal`, `Chiranjeevi`, `God-ism`, `Dravidam`, `Self-Respect`: PASS / retained
+- quoted gallows speech, `Duma`, `kidukidu`, `Shoot them down!`, `Tsar-king's abdication ceremony`, `Pyre! Pyre!`: PASS
+- dates 1905, 1906, 1907, 1912, 1914, 1915, 1916, March 8 1917 and November 7 1917: PASS
+- five-year Duma reference and both eight-month references: PASS
 
 ## English progress
 
@@ -158,7 +162,7 @@ Detailed provenance: `publications/unarchchimaalai/translations/en/TRANSLATION_R
 - T1 drafts: **2 / 10**
 - T2 fidelity-reviewed: **2 / 10**
 - T3 voice-reviewed: **2 / 10**
-- T4 audited: **1 / 10**
+- T4 audited: **2 / 10**
 - T5 verified: **1 / 10**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
@@ -168,23 +172,22 @@ Detailed provenance: `publications/unarchchimaalai/translations/en/TRANSLATION_R
 
 # Exact next activity
 
-Execute **Article 2 T4 — terminology / quotation / citation / source audit** for `புரட்சி வளர்ந்த கதை` / **The Story of How the Revolution Grew** against:
+Execute **Article 2 T5 — final article verification** for `புரட்சி வளர்ந்த கதை` / **The Story of How the Revolution Grew** against:
 
 - frozen Tamil blob: `dda81363f512ee2f829c367ae929ce3610604fe9`
-- T3 English blob: `cff1840ab297a00b933390ee41207afd9709e9b8`
+- T4-audited English blob: `cff1840ab297a00b933390ee41207afd9709e9b8`
 - source scans: **10–15**
 
-T4 must:
+T5 must:
 
-1. audit terminology, proper names and recurring political labels against the living lexicon;
-2. audit `proletarian people`, `pomp`, `religionist`, `King Nicholas`, `Lenin`, `Duma`, `Petrograd`, `Mangaiyarkkarasi`, `Kulachchirai`, `kidukidu`, `Romanal`, `Chiranjeevi`, `God-ism`, `Dravidam`, `Self-Respect`;
-3. confirm quotation boundaries, especially the personified gallows, `Duma`, `kidukidu`, `Shoot them down!`, `Tsar-king's abdication ceremony`, `Pyre! Pyre!`;
-4. audit dates/numbers and source-page comments 10–15;
-5. verify scan 11→12 and scan 13→14 continuations;
-6. preserve the publication-specific frozen Tamil/Gemini provenance and do not import outside historical corrections;
-7. keep article metadata at `voice-reviewed` until T5 unless a genuine T4 body defect is found;
-8. update tracker, lexicon, review ledger, plan and this handover;
-9. **stop before Article 2 T5 final verification**.
+1. reconfirm the complete T1–T4 chain and that all recorded corrections/audits are reflected in the current English candidate;
+2. verify metadata, title, source Tamil SHA and source scan/printed-page fields;
+3. reconfirm scan comments 10–15 and the scan 11→12 / scan 13→14 continuations;
+4. reconfirm terminology, quotation/source-bearing forms, dates/numbers and T3 voice non-regression;
+5. confirm there are no unresolved fidelity, voice, terminology, quotation, citation or source blockers;
+6. mark Article 2 `translation_status: verified` only if the complete chain passes;
+7. record the final verified English blob SHA and synchronize tracker, lexicon, review ledger, plan and this handover;
+8. **do not begin Article 3 in the same activity**.
 
 ## Current blockers
 

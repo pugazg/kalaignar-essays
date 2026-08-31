@@ -49,7 +49,7 @@ Translate in source order, one complete article at a time. Article 1 established
 | # | Tamil title | English file | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|---|
 | 1 | உணர்ச்சி மாலை | [`translations/en/01-unarchchi-maalai.md`](translations/en/01-unarchchi-maalai.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 2 | புரட்சி வளர்ந்த கதை | [`translations/en/02-puratchi-valarntha-kathai.md`](translations/en/02-puratchi-valarntha-kathai.md) | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
+| 2 | புரட்சி வளர்ந்த கதை | [`translations/en/02-puratchi-valarntha-kathai.md`](translations/en/02-puratchi-valarntha-kathai.md) | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
 | 3 | போகிறான்;போகிறான்..! | `translations/en/03-pogiran-pogiran.md` | `not-started` | PASS | — | — | — | — | — |
 | 4 | இராவணன் நம் பாட்டன் | `translations/en/04-iravanan-nam-pattan.md` | `not-started` | PASS | — | — | — | — | — |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `translations/en/05-ingalla-irashyavil.md` | `not-started` | PASS | — | — | — | — | — |
@@ -71,14 +71,14 @@ Final verified English blob: `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
 - T5 body corrections: **0**
 - unresolved blockers: **0**
 
-## Article 2 — T1–T3 COMPLETE / VOICE-REVIEWED
+## Article 2 — T1–T4 COMPLETE / T4-AUDITED
 
 Frozen Tamil authority: `dda81363f512ee2f829c367ae929ce3610604fe9`  
 Source scans: **10–15**  
 English title: **The Story of How the Revolution Grew**  
 T1 draft blob: `c036f2439874dacf6220e7da529e852cf28e223a`  
 T2 fidelity-reviewed blob: `ec61502524a073a45292202da71d8979b5d254b2`  
-T3 voice-reviewed blob: **`cff1840ab297a00b933390ee41207afd9709e9b8`**
+T3 voice-reviewed / T4-audited blob: **`cff1840ab297a00b933390ee41207afd9709e9b8`**
 
 ### T2 record
 
@@ -93,11 +93,26 @@ T3 voice-reviewed blob: **`cff1840ab297a00b933390ee41207afd9709e9b8`**
 
 T3 preserved every T2 meaning/source decision and made **10 meaning-neutral voice/cadence corrections**, strengthening the opening violence, parallel festival sentence, Lenin/warrior-dance image, police idiom, personified gallows, Rasputin comparison cadence, Tsar departure sentence, emergency-session directness, Lenin rally sentence and final `No...` reversal.
 
+### T4 record
+
+T4 audited the complete T3 candidate against the frozen Tamil, living lexicon and source traceability.
+
+- terminology / proper names: **PASS**;
+- source-sensitive transliterations: **PASS**;
+- quotation boundaries: **PASS**;
+- dates / numbers: **PASS**;
+- scan comments 10–15: **PASS**;
+- scan 11→12 and 13→14 continuations: **PASS**;
+- outside/web historical reconstruction imported: **No**;
+- body corrections required: **0**;
+- metadata remains `voice-reviewed` pending T5;
+- unresolved T4 blockers: **0**.
+
 Non-regression retained:
 
 - `proletarian people`, `pomp`, `religionist`, `King Nicholas`;
+- `Lenin`, `Duma`, `Petrograd`, `Bolshevik Party`, `Bolshevik forces`, `Soviet government`, `Provisional Government`;
 - `Mangaiyarkkarasi`, `Kulachchirai`, `kidukidu`, `Romanal`, `Chiranjeevi`, `God-ism`, `Dravidam`, `Self-Respect`;
-- one English `Lenin` / `Petrograd` while frozen source variants remain documented;
 - frozen scan-11 `மௌனமாகவே` authority;
 - all scan comments and scan 11→12 / 13→14 continuations.
 
@@ -112,7 +127,7 @@ Unresolved Article 2 blockers: **0**.
 5. Article 10 must exclude scan-49 publication-close matter and scan-50 advertisement.
 6. Apparently garbled/source-sensitive forms such as Article 10 `ப்ழச்சளை` must not be silently repaired or externally identified.
 7. Preserve rhetorically meaningful questions, exclamations, repetition, direct address and page-boundary comments.
-8. Article 2 frozen source variants and source-sensitive transliterations remain provenance-bearing through T4/T5.
+8. Article 2 frozen source variants and source-sensitive transliterations remain provenance-bearing through T5.
 
 ## Gate model
 
@@ -120,4 +135,4 @@ Every article must pass T0 → T1 → T2 → T3 → T4 → T5. After 10 / 10 rea
 
 ## Exact next activity
 
-Execute **Article 2 T4 — terminology / quotation / citation / source audit** for `The Story of How the Revolution Grew` against frozen Tamil blob `dda81363f512ee2f829c367ae929ce3610604fe9` and T3 English blob `cff1840ab297a00b933390ee41207afd9709e9b8`. Audit terminology/proper names/source-sensitive transliterations, quotation boundaries, dates/numbers, scan comments and the scan 11→12 / scan 13→14 continuations. Keep metadata at `voice-reviewed` until T5 and **stop before Article 2 T5**.
+Execute **Article 2 T5 — final article verification** for `The Story of How the Revolution Grew` against frozen Tamil blob `dda81363f512ee2f829c367ae929ce3610604fe9` and T4-audited English blob `cff1840ab297a00b933390ee41207afd9709e9b8`. Reconfirm T1–T4 completion, metadata, scans 10–15, quotation/source traceability and all non-regression decisions; mark the article `verified` only if the complete chain passes, record the final English blob SHA, update tracker/review/lexicon/plan/handover, and **do not begin Article 3 in the same activity**.

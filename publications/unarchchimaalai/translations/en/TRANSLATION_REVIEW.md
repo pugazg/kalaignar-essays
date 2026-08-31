@@ -61,7 +61,7 @@ Source authority:
 - English title: **The Story of How the Revolution Grew**
 - T1 English draft blob: `c036f2439874dacf6220e7da529e852cf28e223a`
 - T2 fidelity-reviewed blob: `ec61502524a073a45292202da71d8979b5d254b2`
-- T3 voice-reviewed blob: `cff1840ab297a00b933390ee41207afd9709e9b8`
+- T3 voice-reviewed / T4-audited blob: `cff1840ab297a00b933390ee41207afd9709e9b8`
 
 ## T1 — complete close draft — COMPLETE / PASS
 
@@ -115,12 +115,80 @@ T3 read the T2 English as English against the frozen Tamil and changed only dire
 
 **T3 RESULT: PASS.** Article 2 advanced to `translation_status: voice-reviewed`.
 
+## T4 — terminology / quotation / citation / source audit — COMPLETE / PASS
+
+T4 audited the unchanged T3 candidate against the frozen Tamil article, verified page records for scans 10–15, the living lexicon and the permanent translation guide. **No T4 body correction was required.** The English blob therefore remains `cff1840ab297a00b933390ee41207afd9709e9b8`, and metadata remains `voice-reviewed` pending T5.
+
+### T4 terminology / proper-name audit
+
+The following treatments passed without change:
+
+- `மேதினம்` → `May Day`;
+- `பாட்டாளி மக்கள்` → `proletarian people`;
+- `முதலாளி வர்க்கம்` → `capitalist class`;
+- `இரஷ்யா` / `ரஷ்ய` → `Russia` / `Russian`;
+- frozen `இலெனின்` / `லெனின்` → one conventional English `Lenin`, with source-form variation retained in provenance;
+- `ஜார்` → `Tsar`;
+- `நிக்கோலாஸ் மன்னன்` → `King Nicholas`;
+- `டூமா` → `Duma`, with the article's own `ஜனப்பிரதிநிதி சபை` gloss translated as `people's representative assembly`;
+- `போல்ஷ்வெக்கர் கட்சி` / `போல்ஷ்வெக்கட்சி` → `Bolshevik Party`;
+- `போல்ஷ்வெக்படையினர்` → `Bolshevik forces`;
+- `சோவியத் அரசாங்கம்` → `Soviet government`;
+- `தற்காலீக அரசாங்கம்` → `Provisional Government`;
+- `பீட்டர்ஸ்பர்க்` → `Petersburg`;
+- frozen `பீட்ரோகிராட்` / `பீட்ரோ கிரோடு` → one conventional `Petrograd`, with both Tamil witnesses documented;
+- `மாஸ்கோ செஞ்சதுக்கம்` → `Moscow's Red Square`;
+- `செர்கியஸ் கோமகன்` → `Prince Sergius`;
+- `ரஸ்புடீன்` → `Rasputin`;
+- `டான்னென்-பெர்க்` → `Tannenberg`;
+- `கெரென்ஸ்கி` → `Kerensky`;
+- source-sensitive `Mangaiyarkkarasi`, `Kulachchirai`, `kidukidu`, `Romanal`, `Chiranjeevi`, `God-ism`, `Dravidam`, `Self-Respect`, quoted `pomp` and polemical `religionist`: **PASS / retained without outside reconstruction**.
+
+### T4 quotation audit
+
+Quotation/source-bearing boundaries passed:
+
+- quoted `பவிசு` remains visibly quoted as `‘pomp’`;
+- the personified gallows quotation remains `“Murderer! I am going to drink your life.”` and is attributed to the gallows, not the condemned man;
+- scan-12 quoted `‘Duma’` witnesses remain quoted at their source loci while later explanatory uses remain unquoted;
+- quoted `கிடுகிடு` remains `‘kidukidu’`;
+- the Tsar's command remains `‘Shoot them down!’`;
+- the source quotation `“ஜார் அரசனின் முடிதுறப்பு வைபவம்”` remains `“Tsar-king's abdication ceremony.”`;
+- `“சிதையே சிதையே”` remains `“Pyre! Pyre!”`;
+- no quotation was imported from an external English source.
+
+### T4 dates / numbers / traceability audit
+
+Passed source references include:
+
+- March 8, 1917 — scans 11 and 14;
+- November 7, 1917 — scans 11 and 15;
+- 1905 — scans 11 and 13;
+- 1906, 1907, 1912 — scan 12;
+- five-year life of the third Duma — scan 12;
+- 1914, 1915, 1916 — scan 13;
+- eight-month strike reference — scan 12;
+- about eight months of later disturbances — scan 15.
+
+Traceability checks:
+
+- scan comments 10, 11, 12, 13, 14, 15 are present exactly once and ordered: **PASS**;
+- scan 11→12 continuation `இரஷ்ய வரலாறு தன்னை ஒதுக்கிவிடாது / என்ற நம்பிக்கை...`: **PASS**;
+- scan 13→14 continuation `ரஸ்புடீனை / சுட்டுக்கொன்றது`: **PASS**;
+- scan 10 opening remains correctly marked with no visible printed numeral: **PASS**;
+- frozen scan-11 `மௌனமாகவே` remains the translation authority despite the P5 scan-appearing alternate: **PASS**;
+- frozen Tamil changed during T4: **No**;
+- outside/web historical correction, explanatory citation or published English translation imported: **No**;
+- unresolved T4 blockers: **0**.
+
+**T4 RESULT: PASS.** Article 2 remains `translation_status: voice-reviewed` until final T5 verification.
+
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 | Current blockers |
 |---:|---|---|---|---|---|---|---|---|---|
 | 1 | உணர்ச்சி மாலை | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** | 0 |
-| 2 | புரட்சி வளர்ந்த கதை | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — | 0 |
+| 2 | புரட்சி வளர்ந்த கதை | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — | 0 |
 | 3 | போகிறான்;போகிறான்..! | `not-started` | PASS | — | — | — | — | — | 0 |
 | 4 | இராவணன் நம் பாட்டன் | `not-started` | PASS | — | — | — | — | — | 0 |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `not-started` | PASS | — | — | — | — | — | 0 |
@@ -132,4 +200,4 @@ T3 read the T2 English as English against the frozen Tamil and changed only dire
 
 ## Exact next activity
 
-Execute **Article 2 T4 — terminology / quotation / citation / source audit** against frozen Tamil blob `dda81363f512ee2f829c367ae929ce3610604fe9` and T3 English blob `cff1840ab297a00b933390ee41207afd9709e9b8`. Audit terminology/proper names/source-sensitive transliterations, quotation boundaries, dates/numbers, scan comments and the two cross-scan continuations. Keep metadata at `voice-reviewed` unless a genuine audit defect requires a body correction, and stop before T5.
+Execute **Article 2 T5 — final article verification** against frozen Tamil blob `dda81363f512ee2f829c367ae929ce3610604fe9` and T4-audited English blob `cff1840ab297a00b933390ee41207afd9709e9b8`. Reconfirm the T1–T4 chain, article metadata, complete scans 10–15 source traceability, terminology/quotation/date non-regression and absence of unresolved blockers. Mark the English article `translation_status: verified` only if T5 passes, record its final English blob SHA, update all dependent records, and **do not start Article 3 in the same activity**.
