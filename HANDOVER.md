@@ -85,7 +85,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - T1 drafts: **3 / 10**
 - T2 fidelity-reviewed: **3 / 10**
 - T3 voice-reviewed: **3 / 10**
-- T4 audited: **2 / 10**
+- T4 audited: **3 / 10**
 - T5 verified: **2 / 10**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
@@ -113,7 +113,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - T5 body corrections: **0**
 - blockers: **0**
 
-## Article 3 — `போகிறான்;போகிறான்..!` — T1–T3 COMPLETE / VOICE-REVIEWED
+## Article 3 — `போகிறான்;போகிறான்..!` — T1–T4 COMPLETE / T4 PASS
 
 - English title: **He Goes; He Goes..!**
 - frozen Tamil: `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
@@ -121,32 +121,36 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - English file: `publications/unarchchimaalai/translations/en/03-pogiran-pogiran.md`
 - T1 draft blob: `41abd9d0071ee9f3511a0781bd3ab503404dff72`
 - T2 fidelity-reviewed blob: `1df8b58eb79e1193bdad761faf7ab2953af381fd`
-- T3 voice-reviewed blob: **`b7e887172c7a549112a44caad43c7e7f5815f5d3`**
+- T3/T4 English candidate blob: **`b7e887172c7a549112a44caad43c7e7f5815f5d3`**
 - T2 body fidelity corrections: **5**
 - T3 meaning-neutral voice/cadence corrections: **11**
+- T4 body corrections: **0**
 - paragraph/clause coverage: **PASS**
 - scan comments 16–18: **PASS / ordered**
-- questions, exclamations, direct speech, insults, wordplay, vivid images and closing repetition: **PASS**
+- printed pages: **PASS — scan 16 none, scan 17 = 16, scan 18 = 17**
+- Kural quotation and all quotation/source boundaries: **PASS**
+- questions/exclamations, direct speech, insults, wordplay, vivid images and closing repetition: **PASS**
 - frozen scan-16 `பாறையு`: retained source-sensitively as `paaraiyu`; not silently expanded
 - frozen scan-17 `தனக்குக்`: upstream Tamil authority unchanged
-- `sel`, frozen `அன்று` → `That day`, `water-bubble bhajan`: retained source-sensitively through T3
-- Kural line `Laugh when adversity comes`, `Mahatmas`, `selfish bandicoots`, `crushed lead vessel`, `pallid rascal`, `செல்வாக்கை / செல்லாக்காசு` wordplay: **preserved through T3**
-- outside/web translation, published Kural translation or alternate scan lexical reconstruction imported: **none**
-- T3 blockers: **0**
+- `sel`, frozen `அன்று` → `That day`, `water-bubble bhajan`: **T4 PASS / retained source-sensitively**
+- Kural line `Laugh when adversity comes`, `Mahatmas`, `selfish bandicoots`, `crushed lead vessel`, `pallid rascal`, `செல்வாக்கை / செல்லாக்காசு` wordplay: **T4 PASS**
+- external citation required: **No**
+- published Kural translation, outside/web wording, lexical repair or scan-alternate Gemini reconstruction imported: **none**
+- T4 blockers: **0**
 
-T3 strengthened only voice/cadence: the opening three-image sequence, obstacle/ideal-path movement, ghastly-dance line, direct `crushed lead vessel` mockery, scan-18 adversary-list drive, jealous-voice entry, ascetic refusal, `water-bubble bhajan` staging and the final `Yet ... goes—goes—keeps going` movement. No T2 meaning/source decision was changed.
+T4 required **0 body corrections**. The T3 English body remains unchanged and Article 3 correctly remains `translation_status: voice-reviewed` until T5.
 
 ---
 
 # Exact next activity
 
-Execute **Article 3 T4 — terminology / quotation / citation / source audit** for `போகிறான்;போகிறான்..!` / **He Goes; He Goes..!** against:
+Execute **Article 3 T5 — final article verification** for `போகிறான்;போகிறான்..!` / **He Goes; He Goes..!** against:
 
 - frozen Tamil blob: `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
-- T3 English blob: `b7e887172c7a549112a44caad43c7e7f5815f5d3`
+- T3/T4 English candidate blob: `b7e887172c7a549112a44caad43c7e7f5815f5d3`
 - source scans: **16–18**
 
-T4 must audit the living lexicon, source-sensitive forms (`paaraiyu`, `sel`, frozen `அன்று`, `water-bubble bhajan`), Kural quotation and quotation boundaries, scan comments and printed-page fields, insult/wordplay decisions, questions/exclamations and final repeated motion. It must not import a published Kural translation, outside lexical repair or scan-alternate Gemini correction. Keep Article 3 metadata at `voice-reviewed` unless a genuine T4 body defect is found; record the T4 result in tracker/lexicon/review/plan/handover; and **stop before Article 3 T5**.
+T5 must reconfirm the complete T1–T4 chain, metadata/source SHA, scan/printed-page fields, source-sensitive lexicon, Kural and other quotation boundaries, questions/exclamations, insult/wordplay decisions and final repeated motion. Mark Article 3 `verified` and record its final English blob only if all checks pass; synchronize tracker/lexicon/review/plan/handover; and **stop before Article 4 T1**.
 
 ## Current blockers
 
