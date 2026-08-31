@@ -10,7 +10,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - Tamil source/fidelity prerequisite: **PASSED / FROZEN**
 - Tamil articles: **10 / 10 strict-rechecked**
 - T0 source prerequisite/setup: **COMPLETE / PASS**
-- T1 close English drafts: **3 / 10**
+- T1 close English drafts: **4 / 10**
 - T2 fidelity-reviewed: **3 / 10**
 - T3 voice-reviewed: **3 / 10**
 - T4 audited: **3 / 10**
@@ -20,7 +20,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - English translation: **IN PROGRESS**
 - unresolved translation blockers: **0**
 
-Articles 1, 2 and 3 have completed T0–T5 and are individually `verified`.
+Articles 1, 2 and 3 have completed T0–T5 and are individually `verified`. Article 4 has completed T1 and is `draft`.
 
 ## Frozen Tamil translation authorities
 
@@ -44,7 +44,7 @@ Articles 1, 2 and 3 have completed T0–T5 and are individually `verified`.
 | 1 | உணர்ச்சி மாலை | [`01-unarchchi-maalai.md`](01-unarchchi-maalai.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 2 | புரட்சி வளர்ந்த கதை | [`02-puratchi-valarntha-kathai.md`](02-puratchi-valarntha-kathai.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 3 | போகிறான்;போகிறான்..! | [`03-pogiran-pogiran.md`](03-pogiran-pogiran.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 4 | இராவணன் நம் பாட்டன் | `04-iravanan-nam-pattan.md` | `not-started` | PASS | — | — | — | — | — |
+| 4 | இராவணன் நம் பாட்டன் | [`04-iravanan-nam-pattan.md`](04-iravanan-nam-pattan.md) | `draft` | PASS | **PASS** | — | — | — | — |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `05-ingalla-irashyavil.md` | `not-started` | PASS | — | — | — | — | — |
 | 6 | 3, 57, 90. | `06-3-57-90.md` | `not-started` | PASS | — | — | — | — | — |
 | 7 | 30-1-1948 | `07-30-1-1948.md` | `not-started` | PASS | — | — | — | — | — |
@@ -58,39 +58,37 @@ Articles 1, 2 and 3 have completed T0–T5 and are individually `verified`.
 
 - frozen Tamil authority: `c63837a9f7c02d6f3a18171a512d46788f66ad92`
 - final verified English blob: `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
-- T2 corrections: **11**
-- T3 voice/cadence corrections: **7**
-- T4 body corrections: **0**
-- T5 body corrections: **0**
 - blockers: **0**
 
 ### Article 2 — The Story of How the Revolution Grew
 
 - frozen Tamil authority: `dda81363f512ee2f829c367ae929ce3610604fe9`
 - final T5-verified English blob: `f1599a8e7cae4ba749b9be2857705b152887f9f8`
-- T2 fidelity corrections: **10**
-- T3 meaning-neutral voice/cadence corrections: **10**
-- T4 body corrections: **0**
-- T5 body corrections: **0**
 - blockers: **0**
 
 ### Article 3 — He Goes; He Goes..!
 
 - frozen Tamil authority: `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
-- source scans: **16–18**
-- T1 draft blob: `41abd9d0071ee9f3511a0781bd3ab503404dff72`
-- T2 fidelity-reviewed blob: `1df8b58eb79e1193bdad761faf7ab2953af381fd`
-- T3/T4 audited English candidate blob: `b7e887172c7a549112a44caad43c7e7f5815f5d3`
-- final T5-verified English blob: **`1134185bc21478775419adb3560b110c001d2b75`**
-- T2 body fidelity corrections: **5**
-- T3 meaning-neutral voice/cadence corrections: **11**
-- T4 body corrections: **0**
-- T5 body corrections: **0**
-- scan comments 16–18 and printed-page fields: **PASS / ordered**
-- Kural quotation and all quotation/source boundaries: **PASS**
-- source-sensitive terminology, insults, wordplay, questions/exclamations and closing repetition: **PASS**
-- published Kural translation, outside lexical repair or scan-alternate Gemini correction imported: **No**
+- final T5-verified English blob: `1134185bc21478775419adb3560b110c001d2b75`
 - blockers: **0**
+
+## Article 4 T1 record
+
+- Tamil title: `இராவணன் நம் பாட்டன்`
+- provisional English title: **Ravana Is Our Grandfather**
+- frozen Tamil authority: `006f2f75dbc3eea796170a29aee0befd162522e7`
+- source scans: **19–29**
+- printed-page witnesses: **scan 19 unnumbered; scan 20 visible `1` only; scans 21–29 show 20–28**
+- T1 draft blob: **`ce50394af45c8bb69e003c3d3fd8de097cf34808`**
+- scan comments 19–29: **retained / ordered**
+- scan 19 whole-page source-recovered Gemini omission: **retained with explicit provenance comment**
+- Kambar verse across scans 25→26: **translated with lineation and page boundary retained; no published translation imported**
+- paragraph coverage: **complete**
+- questions, exclamations, direct address, ridicule, insults, repetition and quoted article passages: **retained**
+- outside/web wording or historical reconstruction imported: **No**
+- T1 blockers: **0**
+
+T1 provisional/source-sensitive items queued for T2 include: title **Ravana Is Our Grandfather**; `Dravidian youth` / `Dravidians`; `ethnic feeling`, `race-traitors`, `ethnic murder`, `ethnic awakening`, `alien race`; `Kambar` / `Kamban`, `Kamba Ramayanam`, `Kambarasam`; `Kambanattazhvar`; `kavadi-chindu`; `god-substance`; `frenzy to burn / frenzy to bear`; scan-23 `frenzy to twist`; `Self-Respect Movement` / `Self-Respecter`; `Kambar Tharum Katchi`, `Kamba Chithiram`, `Chithira Ramayanam`; `In the Drizzle of Sanjeevi Parvatham`; `attar`, `javvadu`; `sindhu`, `venpa`; and the `jaundiced eye / art-garland eye` wordplay.
 
 ## Translation authority / special source rule
 
@@ -98,4 +96,4 @@ English authority is the frozen Tamil article assembly, not OCR, memory, web wor
 
 ## Exact next activity
 
-Execute **Article 4 T1 — complete close English draft** for `இராவணன் நம் பாட்டன்` from frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7`, covering scans **19–29**. Translate only from the frozen Tamil assembly, preserve all scan-boundary comments and source-recovered scan-19 text, establish only terminology actually encountered, create `04-iravanan-nam-pattan.md` with `translation_status: draft`, synchronize tracker/lexicon/review/plan/handover, and **stop before Article 4 T2**.
+Execute **Article 4 T2 — bilingual fidelity review** for `இராவணன் நம் பாட்டன்` / **Ravana Is Our Grandfather** against frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7` and T1 English blob `ce50394af45c8bb69e003c3d3fd8de097cf34808`, scans **19–29**. Compare every paragraph/clause, preserve the scan-19 source-recovered provenance and all scan comments, audit the Kambar verse and cross-page lineation, review every provisional/source-sensitive terminology choice above, make only fidelity corrections, advance to `fidelity-reviewed` only if T2 passes, and **stop before Article 4 T3**.
