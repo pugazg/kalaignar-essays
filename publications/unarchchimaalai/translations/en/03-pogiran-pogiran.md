@@ -8,8 +8,8 @@ source_tamil_blob_sha: "92eb1a68d65f65dd71274e5e79f3209e63359d9a"
 source_scan_pages: "16-18"
 source_printed_pages: "16-17; scan 16 has no visible printed numeral"
 language: "en"
-translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed and T3 voice-reviewed against the frozen Tamil assembly"
+translation_status: "verified"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed, T3 voice-reviewed, T4 source-audited and T5 verified against the frozen Tamil assembly"
 ---
 
 # He Goes; He Goes..!
