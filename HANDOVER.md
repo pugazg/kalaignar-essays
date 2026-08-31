@@ -83,7 +83,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 
 - T0 setup: **PASS**
 - T1 drafts: **4 / 10**
-- T2 fidelity-reviewed: **3 / 10**
+- T2 fidelity-reviewed: **4 / 10**
 - T3 voice-reviewed: **3 / 10**
 - T4 audited: **3 / 10**
 - T5 verified: **3 / 10**
@@ -112,50 +112,40 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - final English: `1134185bc21478775419adb3560b110c001d2b75`
 - blockers: **0**
 
-## Article 4 — `இராவணன் நம் பாட்டன்` — T1 COMPLETE / DRAFT
+## Article 4 — `இராவணன் நம் பாட்டன்` — T1–T2 COMPLETE / FIDELITY-REVIEWED
 
-- provisional English title: **Ravana Is Our Grandfather**
+- English title: **Ravana Is Our Grandfather**
 - frozen Tamil: `006f2f75dbc3eea796170a29aee0befd162522e7`
 - source scans: **19–29**
 - English file: `publications/unarchchimaalai/translations/en/04-iravanan-nam-pattan.md`
-- T1 draft blob: **`ce50394af45c8bb69e003c3d3fd8de097cf34808`**
-- paragraph coverage: **complete / PASS**
+- T1 draft blob: `ce50394af45c8bb69e003c3d3fd8de097cf34808`
+- T2 fidelity-reviewed blob: **`1e1f2db8a603e068921d8fb6b9b3e2e4a4c04447`**
+- T2 fidelity corrections: **9** plus one non-semantic quotation-spacing cleanup
+- paragraph/clause coverage: **complete / PASS**
 - scan comments 19–29: **PASS / ordered**
 - printed-page witnesses: **scan 19 unnumbered; scan 20 visible `1` only; scans 21–29 show 20–28**
 - scan 19 entire body: **source-recovered after Gemini whole-page omission; provenance retained in English comment**
 - scan 20 visible `1`: **retained exactly as witness; not reconstructed as `19`**
-- Kambar verse across scans 25→26: **translated from frozen Tamil, four-line structure/page boundary retained, no published English translation imported**
-- questions/exclamations, direct address, sarcasm, ridicule, insults, repeated stinking-puddle imagery and quoted article passages: **retained**
-- T1 blockers: **0**
+- Kambar verse across scans 25→26: **T2 PASS / four-line structure and page boundary retained / no published English translation imported**
+- questions/exclamations, direct address, sarcasm, ridicule, insults, repeated stinking-puddle imagery and quoted article passages: **PASS**
+- T2 established `racial feeling`, `race-murder`, `racial awakening`, `T. K. Chidambaranathar`, `Arignar Annadurai`, source-sensitive `sagath-rakshakan`, `tastes bitter`, and `Dravidians of the South`
+- T2 retained `Dravidian youth` / `Dravidians`, source-form `Kambar` / `Kamban`, `Kamba Ramayanam`, `Kambarasam`, `Kambanattazhvar`, `kavadi-chindu`, `god-substance`, `frenzy to burn / frenzy to bear`, scan-23 frozen `frenzy to twist`, `Self-Respect Movement` / `Self-Respecter`, source-title transliterations, `attar`, `javvadu`, `sindhu`, `venpa`, and `jaundiced eye / art-garland eye`
+- outside/web wording, epic reconstruction, historical correction, published Kambar verse or alternate scan lexical reading imported: **none**
+- T2 blockers: **0**
 
-Article 4 T1 provisional/source-sensitive decisions requiring T2 review include:
-
-- title **Ravana Is Our Grandfather**;
-- `Dravidian youth` / `Dravidians`;
-- `ethnic feeling`, `race-traitors`, `ethnic murder`, `ethnic awakening`, `alien race` for the article's `இனம்` vocabulary;
-- `Kambar` / `Kamban`, `Kamba Ramayanam`, `Kambarasam`, `Kambanattazhvar`;
-- `kavadi-chindu`, `god-substance`;
-- `frenzy to burn / frenzy to bear` and scan-23 frozen `frenzy to twist`;
-- `Self-Respect Movement` / `Self-Respecter`;
-- `Kambar Tharum Katchi`, `Kamba Chithiram`, `Chithira Ramayanam`;
-- `In the Drizzle of Sanjeevi Parvatham`;
-- `attar`, `javvadu`, `sindhu`, `venpa`;
-- `jaundiced eye / art-garland eye` wordplay;
-- the scan 25→26 Kambar verse rendering.
-
-No outside/web translation, epic reconstruction, published Kambar verse or historical correction was imported. Frozen Tamil authority is unchanged.
+T2 preserved the distinct frozen scan-22 `தரிக்கும் வெறி` and scan-23 `திரிக்கும் வெறி` witnesses instead of harmonising them, and replaced the interpretive `protector of the world` with source-bearing `sagath-rakshakan` because the frozen Tamil is `சகத் ரக்ஷகன்`.
 
 ---
 
 # Exact next activity
 
-Execute **Article 4 T2 — bilingual fidelity review** for `இராவணன் நம் பாட்டன்` / **Ravana Is Our Grandfather** against:
+Execute **Article 4 T3 — Kalaignar voice review** for `இராவணன் நம் பாட்டன்` / **Ravana Is Our Grandfather** against:
 
 - frozen Tamil blob: `006f2f75dbc3eea796170a29aee0befd162522e7`
-- T1 English blob: `ce50394af45c8bb69e003c3d3fd8de097cf34808`
+- T2 English blob: `1e1f2db8a603e068921d8fb6b9b3e2e4a4c04447`
 - source scans: **19–29**
 
-T2 must compare every Tamil paragraph/clause with the English draft; verify no omissions/additions; preserve every scan comment, the scan-19 source-recovered provenance and scan-20 visible `1` witness; audit the scan 25→26 Kambar verse line-by-line without importing a published translation; review every provisional/source-sensitive choice listed above; preserve questions, exclamations, direct address, ridicule, insults and repeated imagery; make only fidelity corrections; advance Article 4 to `translation_status: fidelity-reviewed` only if T2 passes; synchronize tracker/lexicon/review/plan/handover; and **stop before Article 4 T3**.
+T3 must preserve every T2 meaning/source decision and review the English for Kalaignar's cadence, directness, sarcasm, ridicule, insult force, rhetorical questions, exclamations, repeated stinking-puddle imagery, quoted-article transitions and the Kambar verse/prose movement. Make only meaning-neutral voice/cadence corrections; do not replace `sagath-rakshakan`, `frenzy to bear`, `frenzy to twist`, `Kambar` / `Kamban` or other source-sensitive forms with outside reconstructions. Advance Article 4 to `translation_status: voice-reviewed` only if T3 passes; synchronize tracker/lexicon/review/plan/handover; and **stop before Article 4 T4**.
 
 ## Current blockers
 
