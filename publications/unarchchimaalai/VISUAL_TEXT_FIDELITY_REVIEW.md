@@ -2,18 +2,20 @@
 
 ## Status
 
-**P5 — IN PROGRESS**
+**P5 — COMPLETE / PASS**
 
-- physical scans visually reviewed: **50 / 50**
-- page records with identified source-supported structural corrections propagated: **complete**
-- article-assembly propagation/recheck: **pending**
+- physical scans visually reviewed: **50 / 50 PASS**
+- page-layer corrections propagated: **complete**
+- article-assembly propagation/recheck: **10 / 10 PASS**
+- unresolved `needs-review` / blocked fidelity items: **0**
+- documented Gemini/source lexical conflicts deliberately retained: **18**
 - English translation: **not started**
 
 This publication follows the user-established lexical rule:
 
 > **Retain the words as in Gemini. Correct only indentation, punctuation, spaces, missing paragraphs, headings, and analogous structural/formatting features.**
 
-Accordingly, this P5 pass does not silently replace Gemini lexical tokens merely because the controlling scan appears to show another word/form.
+Accordingly, P5 does not silently replace Gemini lexical tokens merely because the controlling scan appears to show another word/form.
 
 ## Scope and method
 
@@ -32,7 +34,7 @@ The pass rechecked visible punctuation, spacing, quotation marks, headings, date
 
 ## Page-layer correction result
 
-The visual pass identified **236 source-supported structural/punctuation/spacing/layout corrections** in the working page layer. Those permitted corrections have now been propagated to the affected `pages/*.md` records.
+The visual pass identified **236 source-supported structural/punctuation/spacing/layout corrections** in the working page layer. Those permitted corrections were propagated to the affected `pages/*.md` records.
 
 Important P5 structural recoveries include:
 
@@ -45,7 +47,7 @@ Important P5 structural recoveries include:
 
 ## Gemini/source lexical conflict ledger — retained, not silently changed
 
-The strict visual pass records the following **18** lexical/order conflicts. These remain deliberately unresolved in the canonical wording under the user's Gemini-baseline rule:
+The strict visual pass records the following **18** lexical/order conflicts. These remain deliberately unresolved in canonical wording under the user's Gemini-baseline rule:
 
 1. scan 2 — Gemini/repo `கருணாநிதி பதிப்பகம்` vs scan-appearing `கருணநிதி பதிப்பகம்`;
 2. scan 2 — Gemini `சிந்தாதிரிபேட்டை` vs scan-appearing `சிந்தாதிரிப்பேட்டை`;
@@ -66,7 +68,35 @@ The strict visual pass records the following **18** lexical/order conflicts. The
 17. scan 44 — Gemini `ஓருருவாகிப்` vs scan-appearing `ஒருருவாகிப்`;
 18. scan 49 — Gemini `எங்கனம்` vs scan-appearing `எங்ஙனம்`.
 
-Existing durable conflicts remain in force, including scan 32's Gemini word/order sequence, scan 48 `ப்ழச்சளை`, and scan 49 placement of `விட்டாய்.`.
+Existing durable conflicts also remain in force, including scan 32's Gemini word/order sequence, scan 48 `ப்ழச்சளை`, and scan 49 placement of `விட்டாய்.`.
+
+## Article assembly strict recheck — 10 / 10 PASS
+
+Every article was regenerated/propagated from the P5-corrected page layer and rechecked for source-order, scan-boundary provenance, article boundaries and non-body exclusion.
+
+| Article | Scans | P5 assembly result | Frozen Tamil blob SHA |
+|---:|---:|---|---|
+| 1 — `உணர்ச்சி மாலை` | 6–9 | **PASS** | `c63837a9f7c02d6f3a18171a512d46788f66ad92` |
+| 2 — `புரட்சி வளர்ந்த கதை` | 10–15 | **PASS** | `dda81363f512ee2f829c367ae929ce3610604fe9` |
+| 3 — `போகிறான்;போகிறான்..!` | 16–18 | **PASS** | `92eb1a68d65f65dd71274e5e79f3209e63359d9a` |
+| 4 — `இராவணன் நம் பாட்டன்` | 19–29 | **PASS** | `006f2f75dbc3eea796170a29aee0befd162522e7` |
+| 5 — `இங்கல்ல! இரஷ்யாவில்` | 30–32 | **PASS** | `c8ac4d7c241832e07bbb24c5cee935588673f4ac` |
+| 6 — `3, 57, 90.` | 33–38 | **PASS** | `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` |
+| 7 — `30-1-1948` | 39–41 | **PASS** | `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` |
+| 8 — `பத்தினியே உன்போல்...!` | 42–44 | **PASS** | `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` |
+| 9 — `அன்னை நாகம்மையார்!` | 45–47 | **PASS** | `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` |
+| 10 — `கவிதையல்ல - கண்ணீர்க்கடல் !` | 48–49 | **PASS** | `f856664d86695237a23d0ffc0bef088d32a82fe9` |
+
+Final recheck confirms:
+
+- all expected scan-boundary comments are present and ordered;
+- corrected scan 33/34 boundary is preserved in Article 6;
+- scan 42 source-recovered `பதில் இல்லை.` and scan 43 `* * *` are present in Article 8;
+- scan 19 source-recovery provenance remains traceable in Article 4;
+- the 18 listed Gemini/source lexical conflicts remain unnormalised;
+- scan 41 remains the end of Article 7;
+- scan 49 publication-source note/imprint remains outside Article 10 body;
+- scan 50 remains outside every article assembly.
 
 ## Non-regression boundaries
 
@@ -78,15 +108,20 @@ Existing durable conflicts remain in force, including scan 32's Gemini word/orde
 - scan 50 remains outside every article assembly;
 - no English translation has been started.
 
-## Remaining P5 closure work
+## P5 result
 
-Before P5 can be marked PASS:
+**P5 STRICT VISUAL TEXT-FIDELITY: PASS.**
 
-1. propagate the corrected page-layer punctuation/spacing/layout into all ten `articles/*.md` assemblies;
-2. preserve every scan-boundary comment and the corrected scan 33/34 boundary;
-3. include scan 42 source-recovered `பதில் இல்லை.` and scan 43 separator in Article 8;
-4. recheck all ten assemblies against the now-corrected page layer;
-5. confirm the 18 lexical conflicts remain unchanged;
-6. update publication README, source metadata, audit record and root `HANDOVER.md` with final P5 result.
+- physical scans checked: **50 / 50**
+- page records: **50 / 50 PASS**
+- article strict recheck: **10 / 10 PASS**
+- unresolved fidelity blockers: **0**
+- documented user-governed lexical conflicts: **18 retained**
 
-**Do not begin English translation before this closure is complete.**
+The Tamil archival layer is now eligible to be marked **COMPLETE / FROZEN**. Any later Tamil change must be backed by explicit source evidence or an explicit change to the user's Gemini-baseline instruction, and would reopen downstream translation authority.
+
+## Downstream gate
+
+English may begin only from these frozen Tamil assemblies under `ESSAY_TRANSLATION_GUIDE.md`.
+
+**Exact next activity:** execute **T0 — English translation source prerequisite / setup** for `உணர்ச்சிமாலை`: create `TRANSLATION_PLAN.md` and the English tracking/lexicon/review files, record all ten frozen Tamil article blob SHAs, and do not begin T1 body translation until T0 is complete.
