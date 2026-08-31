@@ -15,12 +15,13 @@
 - P1: **COMPLETE**
 - P2 page-level transcription: **COMPLETE — 50 / 50 verified**
 - P3 article assembly: **COMPLETE — 10 / 10**
-- P4 source audit / completeness review: **NOT STARTED**
+- P4 source audit / completeness review: **PASS**
 - P5 strict visual text-fidelity pass: **NOT STARTED**
 - English translation: **NOT STARTED**
 
 Page map: [`../indexes/page-map.md`](../indexes/page-map.md)  
-Article/content map: [`../indexes/contents.md`](../indexes/contents.md)
+Article/content map: [`../indexes/contents.md`](../indexes/contents.md)  
+P4 audit: [`../audit.md`](../audit.md)
 
 ## Title / authorship witnesses
 
@@ -113,9 +114,31 @@ P3 guarantees at this checkpoint:
 - scan-49 publication-source note/imprint was not included in Article 10 body;
 - scan 50 advertisement was not included in any article.
 
+## P4 result — PASS
+
+P4 audited every assembly against its mapped verified page records. Detailed ledger: [`../audit.md`](../audit.md).
+
+Final P4 checks:
+
+- article assemblies: **10 / 10 PASS**;
+- mapped article-body page segments present exactly once: **PASS**;
+- source order: **PASS**;
+- scan-boundary comments: **PASS**;
+- article start/end boundaries: **PASS**;
+- scan 19 source-recovery provenance: **PASS**;
+- scan 32 / scan 48 / scan 49 lexical-order conflicts preserved unchanged: **PASS**;
+- Article 7 terminal `வரலாற்றை வீணாக்கிய`: **PASS**;
+- scan-49 publication-close note/imprint excluded from Article 10: **PASS**;
+- scan-50 advertisement excluded from all articles: **PASS**;
+- missing/duplicate/out-of-order mapped article-body segments: **0**;
+- Tamil body changes during P4: **0**;
+- unresolved P4 blockers: **0**.
+
+P4 closes the source-completeness/assembly-consistency gate only. It does not replace P5 strict visual fidelity.
+
 ## Exact next gate
 
-**P4 — source audit / completeness review.** Compare all ten assemblies against the verified page layer for completeness, order, boundaries and non-regression. Confirm every mapped page-body segment appears exactly once, logged conflicts remain unchanged, and publication-close/advertisement material remains outside article bodies. Do not begin P5 or English translation until P4 is explicitly completed.
+**P5 — strict visual word/punctuation fidelity pass for all 50 physical scans.** Recheck every visible word boundary, punctuation mark, quotation mark, heading, date, number, paragraph continuation and source/non-body boundary, including front matter, scan-49 publication-close matter and scan-50 advertisement. Continue to honour the publication-specific Gemini lexical-baseline instruction: do not silently replace a Gemini word when scan inspection appears to disagree; log lexical conflicts for user decision and propagate only user-authorised/source-supported structural corrections. Do not begin English translation until P5 is explicitly closed.
 
 ## Source authority / user-baseline rule
 
