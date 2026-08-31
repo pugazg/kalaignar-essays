@@ -71,7 +71,7 @@ No printed contents page exists in the supplied scan. `indexes/contents.md` is t
 
 Every article-opening scan has **no visible printed page numeral**. Continuation-page numerals are recorded exactly in `indexes/page-map.md` without back-filling implied start numbers.
 
-Notable anomaly: on **scan 20**, only a single visible `1` is legible at the page-number position. The map does not reconstruct an unseen `19`.
+Notable anomaly: on **scan 20**, only a single visible `1` is legible at the page-number position. The map and page record do not reconstruct an unseen `19`.
 
 ## Source-witness distinctions that must not regress
 
@@ -86,12 +86,15 @@ Preserve these independent witnesses separately; do not normalize one from anoth
 
 ## P2 — page-level transcription — ACTIVE
 
-- page records: **18 / 50 verified**
+- page records: **29 / 50 verified**
 - scans **1–5** front matter: **complete**
 - Article 1 `உணர்ச்சி மாலை`, scans **6–9**: **4 / 4 complete**
 - Article 2 `புரட்சி வளர்ந்த கதை`, scans **10–15**: **6 / 6 complete**
 - Article 3 `போகிறான்;போகிறான்..!`, scans **16–18**: **3 / 3 complete**
-- Gemini lexical baseline retained throughout; scan-supported punctuation, spacing, paragraphing, headings and quotation/lineation restored
+- Article 4 `இராவணன் நம் பாட்டன்`, scans **19–29**: **11 / 11 complete**
+- Gemini lexical baseline retained throughout all portions where Gemini supplied wording; scan-supported punctuation, spacing, paragraphing, headings and quotation/lineation restored
+- **scan 19 exception:** Gemini omitted the entire page body; because the user explicitly authorised correction of missing paragraphs, scan 19 was recovered directly from the controlling scan and clearly documented as source-recovered rather than Gemini-derived
+- scan 19 remains an unnumbered article opening; scan 20 records only the incomplete visible page-number witness `1`
 - printed-text and physical-copy layers kept separate
 - P3 article assemblies: **NOT STARTED — 0 / 10**
 - P4 source audit: **NOT STARTED**
@@ -100,4 +103,4 @@ Preserve these independent witnesses separately; do not normalize one from anoth
 
 ## Exact next activity
 
-Continue **P2 — page-level transcription for scans 19–29**, completing Article 4 `இராவணன் நம் பாட்டன்` in one page-layer batch. Preserve scan 19 as an unnumbered article opening and scan 20 as the incomplete visible page-number witness `1`; keep Gemini words unchanged and correct only the user-authorised structural/punctuation/spacing features.
+Continue **P2 — page-level transcription for scans 30–38**, completing Article 5 `இங்கல்ல! இரஷ்யாவில்` (scans 30–32) and Article 6 `3, 57, 90.` (scans 33–38) as the next coherent page-layer batch. Preserve unnumbered article-opening scans 30 and 33, retain Gemini word tokens unchanged, and correct only the user-authorised structural/punctuation/spacing features.
