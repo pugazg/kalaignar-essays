@@ -112,31 +112,46 @@ P5 additionally records **18** explicit Gemini/source lexical conflicts in [`VIS
 
 These remain frozen Tamil authorities unless a later source-supported Tamil correction explicitly reopens P5.
 
-## English translation — T0 COMPLETE / PASS
+## English translation / release — COMPLETE / FROZEN
 
-Translation setup follows [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_GUIDE.md).
+Translation follows [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_GUIDE.md).
 
-- ten frozen Tamil blobs reverified against live `main`: **10 / 10 PASS**
 - T0 source prerequisite/setup: **COMPLETE / PASS**
-- T1 close drafts: **0 / 10**
-- T2 fidelity-reviewed: **0 / 10**
-- T3 voice-reviewed: **0 / 10**
-- T4 audited: **0 / 10**
-- T5 verified: **0 / 10**
-- English body translation started: **No**
-- unresolved T0 translation blockers: **0**
+- T1 close drafts: **10 / 10**
+- T2 fidelity-reviewed: **10 / 10**
+- T3 voice-reviewed: **10 / 10**
+- T4 audited: **10 / 10**
+- T5 verified: **10 / 10**
+- E6 publication-wide consistency review: **PASS**
+- E7 English release closeout: **PASS / RELEASE COMPLETE**
+- English body corrections during E6/E7: **0**
+- unresolved translation/release blockers: **0**
+- **English translation: COMPLETE / RELEASED / FROZEN**
 
-Translation records:
+Final English article blobs:
+
+1. `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
+2. `f1599a8e7cae4ba749b9be2857705b152887f9f8`
+3. `1134185bc21478775419adb3560b110c001d2b75`
+4. `03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`
+5. `c689ff90f08d389a5e7ebc4849c30d58dfe81766`
+6. `cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`
+7. `6cfb28e2d83ba84ee2daa54606561479b61498b0`
+8. `6b12e6b3cc09b6de402998bb3824e7a98808f885`
+9. `204ffed012f4bd91b3077065f031d6b2db747854`
+10. `cee8ea3c33495615ffc988a1875d71e40f8224a3`
+
+Release records:
 
 - [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 
-The complete 18-item P5 lexical-conflict provenance has been carried into the English review setup. Translation must follow the frozen Tamil assemblies rather than silently substituting scan-appearing alternatives.
+E6/E7 preserve the publication-specific lexical baseline and all deliberate source/context distinctions. No article body was reopened for stylistic polishing or conventionalisation.
 
-## Next activity
+## Release status / next activity
 
-Execute **Article 1 T1 — complete close English draft for `உணர்ச்சி மாலை`** from frozen Tamil blob `c63837a9f7c02d6f3a18171a512d46788f66ad92`.
+**உணர்ச்சிமாலை is COMPLETE / FROZEN / RELEASED in Tamil and English.**
 
-T1 must translate the complete article paragraph by paragraph, preserve verse structure and all Tamil-source scan-boundary comments, establish a provisional English title and initial living-lexicon decisions, leave `translation_status: draft`, update the translation tracker/review ledger, and stop before T2 bilingual review.
+No further activity is pending for this publication absent a genuine source-supported or release-blocking defect. The next project activity is intake of the next supplied Kalaignar essay/article publication.
