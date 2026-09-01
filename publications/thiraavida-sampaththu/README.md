@@ -88,11 +88,33 @@ Combined source audit: [`audit.md`](audit.md).
 - P4 source audit / completeness review: **PASS**
 - P5 strict word/punctuation fidelity pass: **16 / 16 PASS**
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- English translation: **NOT STARTED**
 - workflow blockers: **0**
+
+## English translation status
+
+- E0 translation planning/setup: **COMPLETE / PASS**
+- T0 source prerequisite: **2 / 2 PASS**
+- T1 close drafts: **0 / 2**
+- T2 fidelity-reviewed: **0 / 2**
+- T3 voice-reviewed: **0 / 2**
+- T4 audited: **0 / 2**
+- T5 verified: **0 / 2**
+- English article bodies created: **0 / 2**
+- English translation blockers: **0**
+
+English workspace:
+
+- [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
+- [`translations/en/README.md`](translations/en/README.md)
+- [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+
+E0 registered the two frozen strict-reviewed Tamil blobs above as the T0 translation authorities. English must not translate from OCR, the pre-P5 user transcription, alternate scan lexical readings or memory.
 
 ## Exact next activity
 
-Execute **E0 — English translation planning/setup** from the two frozen strict-reviewed Tamil article blobs above. Create `TRANSLATION_PLAN.md`, `translations/en/README.md`, `translations/en/LEXICON.md` and `translations/en/TRANSLATION_REVIEW.md`, and register the two frozen Tamil authorities as T0 sources.
+Execute **Article 1 T1 — complete close English draft for `திராவிட சம்பத்து` only** from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
 
-Do **not** reopen the frozen Tamil bodies for stylistic polishing, lexical conventionalisation or terminology homogenisation.
+Create `translations/en/01-thiraavida-sampaththu.md`, translate every surviving Tamil paragraph in order, preserve source-page comments for scans **5, 6, 13, 14, 15, 16**, preserve all `SOURCE DAMAGE` gaps without reconstruction, and update the translation tracker / lexicon / review ledger / root handover.
+
+Stop after T1. Do **not** perform T2 in the same activity, and do **not** reopen the frozen Tamil bodies for stylistic polishing, lexical conventionalisation or terminology homogenisation.
