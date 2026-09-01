@@ -8,8 +8,8 @@ source_tamil_blob_sha: "c8ac4d7c241832e07bbb24c5cee935588673f4ac"
 source_scan_pages: "30-32"
 source_printed_pages: "30-31; scan 30 has no visible printed numeral"
 language: "en"
-translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed and T3 voice-reviewed against the frozen Tamil assembly"
+translation_status: "verified"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed, T3 voice-reviewed, T4 audited and T5 verified against the frozen Tamil assembly"
 ---
 
 # Not Here! In Russia
@@ -44,7 +44,7 @@ There, Purananuru! Here, the Putradi Mariamman temple sindhu!
 
 In organisations such as collective farms, by 1940, 54,200 women held the posts of president, treasurer and secretary. In Russia!
 
-<!-- T3 source-sensitive: the frozen scan-32 sequence `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...` remains the translation authority in supplied lexical/order sequence; no scan-based reordering, lexical repair, smoothing or outside reconstruction has been introduced. -->
+<!-- T5 source-sensitive: the frozen scan-32 sequence `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...` remains the translation authority in supplied lexical/order sequence; no scan-based reordering, lexical repair, smoothing or outside reconstruction has been introduced. -->
 
 Knowledge, in the country; the kitchen; this, the enemies'—Nijulina included, 49 women, breaking the backbone and rendering service to the country, have received the award “Soviet Union Hero” (Hero of the Soviet union).—“Ah! Character exactly like Sita Devi” “Modesty like Arundhati” “Beauty like Ahalya” “Chastity like Draupadi”—these titles here, in dark Dravidam!
 
