@@ -151,7 +151,7 @@ Translation/release workspace:
 
 These Tamil and English authorities remain frozen unless a genuine source-supported or release-blocking defect explicitly reopens the affected gate.
 
-## Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 1 T4 PASS
+## Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 1 T5 VERIFIED
 
 Workspace: [`publications/thiraavida-sampaththu/`](publications/thiraavida-sampaththu/)
 
@@ -185,7 +185,7 @@ Frozen Tamil translation authorities:
 1. `திராவிட சம்பத்து` — scans **5–6, 13–16** — `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
 2. `ஐயர் அறிவிக்கிறார்!` — scans **12, 3** — `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
-P5 documented and retained the publication's source-witness conflicts and all torn-away text remains unreconstructed.
+P5 documented and retained the publication's source-witness conflicts; all torn-away text remains unreconstructed.
 
 ### English translation status
 
@@ -195,7 +195,7 @@ P5 documented and retained the publication's source-witness conflicts and all to
 - T2 fidelity-reviewed: **1 / 2 PASS**
 - T3 voice-reviewed: **1 / 2 PASS**
 - T4 audited: **1 / 2 PASS**
-- T5 verified: **0 / 2**
+- T5 verified: **1 / 2 PASS**
 - English article bodies: **1 / 2**
 - translation blockers: **0**
 
@@ -205,25 +205,26 @@ Translation workspace:
 - [`translations/en/README.md`](publications/thiraavida-sampaththu/translations/en/README.md)
 - [`translations/en/LEXICON.md`](publications/thiraavida-sampaththu/translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/thiraavida-sampaththu/translations/en/TRANSLATION_REVIEW.md)
-- [`translations/en/01-thiraavida-sampaththu.md`](publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md) — Article 1 T4 terminology/source-audited
+- [`translations/en/01-thiraavida-sampaththu.md`](publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md) — **Article 1 VERIFIED**
 
-Article 1 English title: **Dravidian Wealth** — T4 established / T5 verification pending.
+Article 1 English title: **Dravidian Wealth — VERIFIED**.
 
 - frozen Tamil blob: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
 - T1 baseline: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
 - T2 fidelity-reviewed: `155299ac2b71b0aaba431f63d3c882191a3c710b`
 - T3 voice-reviewed: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
 - T4 terminology/source-audited: `961ca3f724238ed699dba2607fa2d1be681f0ec4`
+- T5 final verified: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
 
-T4 audited title, recurring ideological vocabulary, names/source labels, mock epithets, source-bearing transliterations, quotation scope, metadata, all six source-page comments and all four scan-15/16 damage comments. It made **1 source-audit body correction**: `மித் (Myth)` is preserved as **`mit (Myth)`** rather than flattened to `myth (Myth)`. Frozen anomalous `பேச்சுல` is established as source-bearing **pechchul**, not repaired from the alternate scan reading.
+T5 made **0 English body corrections** and verified complete surviving coverage, all six source-page comments, all four scan-15/16 damage boundaries, quotation boundaries, T4-established source-bearing terminology, hidden reconstruction **0**, frozen Tamil changes **0**, and imported publisher matter **0**.
 
-Detailed Tamil closeout:
+Detailed Tamil/English closeout:
 
 - [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/thiraavida-sampaththu/VISUAL_TEXT_FIDELITY_REVIEW.md)
 - [`PUBLICATION_COMPLETION_REVIEW.md`](publications/thiraavida-sampaththu/PUBLICATION_COMPLETION_REVIEW.md)
 
 ## Current project state / exact next activity
 
-Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` has a frozen Tamil layer and **Article 1 T4 is PASS**.
+Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` has a frozen Tamil layer and **Article 1 is T5 VERIFIED**.
 
-**Exact next activity:** execute **Article 1 T5 — final article verification** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T4 English blob `961ca3f724238ed699dba2607fa2d1be681f0ec4`. Verify T1–T4 provenance, complete coverage, title, metadata, source-page and damage comments, quotation boundaries, T4-established terminology/source-bearing forms, no hidden reconstruction and no imported publisher matter. If all checks pass, set `translation_status: verified`, record the final English blob and stop after T5. Do not begin Article 2 T1 in the same activity.
+**Exact next activity:** execute **Article 2 T1 — complete close English draft for `ஐயர் அறிவிக்கிறார்!` only** from frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`. Preserve source-page comments for scans **12 and 3**, preserve damaged/ambiguous frozen `அயம்` without guessed repair, retain `ஐயர்` / `அய்யர்` source-form distinctions, keep quotation/inscription wording source-sensitive, and stop after T1. Do not perform Article 2 T2 in the same activity.
