@@ -94,12 +94,12 @@ Combined source audit: [`audit.md`](audit.md).
 
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **2 / 2 PASS**
-- T1 close drafts: **0 / 2**
+- T1 close drafts: **1 / 2**
 - T2 fidelity-reviewed: **0 / 2**
 - T3 voice-reviewed: **0 / 2**
 - T4 audited: **0 / 2**
 - T5 verified: **0 / 2**
-- English article bodies created: **0 / 2**
+- English article bodies created: **1 / 2**
 - English translation blockers: **0**
 
 English workspace:
@@ -108,13 +108,16 @@ English workspace:
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+- [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) — Article 1 T1 draft
 
-E0 registered the two frozen strict-reviewed Tamil blobs above as the T0 translation authorities. English must not translate from OCR, the pre-P5 user transcription, alternate scan lexical readings or memory.
+Article 1 working English title: **Dravidian Wealth**. It is not frozen yet. T1 draft blob: `06958bc15d198de42eb63f5a2cb33b64453134cc`.
+
+Article 1 T1 preserved source-page comments for scans **5, 6, 13, 14, 15, 16**, the source's rhetorical/polemical structure, and all scan-15/16 source-damage gaps without reconstructing hidden words. Frozen anomalous `பேச்சுல` remains represented provisionally as source-bearing `pechchul` pending T2/T4 review.
 
 ## Exact next activity
 
-Execute **Article 1 T1 — complete close English draft for `திராவிட சம்பத்து` only** from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
+Execute **Article 1 T2 — bilingual fidelity review** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T1 English blob `06958bc15d198de42eb63f5a2cb33b64453134cc`.
 
-Create `translations/en/01-thiraavida-sampaththu.md`, translate every surviving Tamil paragraph in order, preserve source-page comments for scans **5, 6, 13, 14, 15, 16**, preserve all `SOURCE DAMAGE` gaps without reconstruction, and update the translation tracker / lexicon / review ledger / root handover.
+Check every paragraph and clause for omissions, additions, logic, negatives, comparisons, names, quotations, repetitions, source-page comments and source-damage handling. Make only fidelity-required English corrections, record every correction in the review ledger, update the lexicon as necessary, and stop after T2.
 
-Stop after T1. Do **not** perform T2 in the same activity, and do **not** reopen the frozen Tamil bodies for stylistic polishing, lexical conventionalisation or terminology homogenisation.
+Do **not** perform T3 in the same activity, and do **not** reopen the frozen Tamil bodies for stylistic polishing, lexical conventionalisation or terminology homogenisation.
