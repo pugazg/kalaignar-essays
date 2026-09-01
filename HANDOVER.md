@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - Any checkpoint SHA means “last confirmed when prepared”; it is **not** a rollback target.
 - If `main` has advanced, preserve the newer durable state. Never reset, overwrite, repeat or reopen later completed work merely because an older prompt records an earlier boundary.
 - Re-fetch target files before writing when another chat/window may also be active.
-- Last confirmed live HEAD immediately before this handover synchronization: `9aca1aae6db9d12ba8a3216114eed49f5446598d` — `Mark Unarchchimaalai released in root README`.
+- Last confirmed live HEAD immediately before this handover synchronization: `097dba5059c73eb1a0197f0ab4e593f2c366b533` — `Register Thiraavida Sampaththu as active publication`.
 
 ---
 
@@ -201,12 +201,107 @@ The Article 9/10 documentation reconciliation remains durable:
 
 ---
 
+# Publication 4 — திராவிட சம்பத்து — ACTIVE / P2 COMPLETE
+
+Workspace: `publications/thiraavida-sampaththu/`  
+Supplied source: `TVA_BOK_0064196_திராவிட_சம்பத்து.pdf`
+
+- source title as printed: **திராவிட சம்பத்து**
+- author as printed: **கலைஞர் மு. கருணாநிதி**
+- physical scans: **16**
+- source SHA-256: `09d567abb30a0beacc1efd1e1fb757f01da93968f5582c9b1b8859b87dac2165`
+- file size: **26,071,193 bytes**
+- edition: **முதல பதிப்பு, செப்டம்பர் 1951**
+- publisher: **அறிவு மன்றம், சென்னை-1**
+- seller: **பாரி நிலையம், 59, பிராட்வே, சென்னை-1**
+- source PDF committed: **No**
+- printed contents page: **none**
+
+## Publication-specific source authority — USER ESTABLISHED
+
+The user supplied a transcription and explicitly instructed that it supplies the **lexical words for all surviving text**. Preserve those words unless the user later authorises a lexical change.
+
+The scan controls:
+
+- structure and heading hierarchy;
+- punctuation and quotation marks;
+- spacing and paragraph boundaries;
+- source reading order;
+- article/publisher-matter boundaries;
+- physical-copy evidence and damage.
+
+**Do not reconstruct text physically lost under torn-away paper from context.** Visible source text omitted by the supplied transcription may be restored only when directly readable and must be documented as a source recovery. Scan/transcription lexical disagreements are logged, not silently substituted.
+
+## Critical physical-order finding
+
+The PDF physical scan order is **not the publication reading order**. The surviving source appears scanned by leaf/imposition order. Pencil folio marks `2`–`8` occur on scans 3, 5, 7, 9, 11, 13 and 15; they are physical-copy marks, not printed page numbers.
+
+Reconstructed publication reading sequence:
+
+`1 → 2 → 9 → 10 → 5 → 6 → 13 → 14 → 15 → 16 → 7 → 8 → 11 → 12 → 3 → 4`
+
+Direct continuation witnesses include:
+
+- scan 6 `...என்று` → scan 13 `கூறினோம்.`;
+- scan 15 → scan 16;
+- scan 8 → scan 11 within `முக்கிய குறிப்பு`;
+- scan 12 `...வாயிலிலே நின்று` → scan 3 `கொண்டிருக்கிறார்...`.
+
+## Publication units / page progress
+
+| Unit | Source span | Status | Notes |
+|---|---|---|---|
+| cover | scan 1 | verified | publication title/author/seller |
+| imprint | scan 2 | verified | edition/date/price/publisher/printer |
+| `மன்றத்தில்` | scans 9–10 | verified | publisher foreword |
+| Article 1 `திராவிட சம்பத்து` | scans 5–6, 13–16 | P2 complete | heavily damaged on later scans |
+| `முக்கிய குறிப்பு` | scans 7–8, 11 | verified | publisher note; cues next article |
+| Article 2 `ஐயர் அறிவிக்கிறார்!` | scans 12, 3 | P2 complete | scan 3 heavily torn |
+| promotional advertisements | scan 4 | verified | illustration + two promotions |
+
+## Tamil archival status
+
+- P0 source intake / publication identification: **COMPLETE**
+- P1 metadata + page map + reconstructed reading order: **COMPLETE**
+- P2 page-level transcription / direct structural review: **16 / 16 COMPLETE**
+- P3 article assemblies: **NOT STARTED**
+- P4 source audit / completeness review: **NOT STARTED**
+- P5 strict visual word/punctuation fidelity pass: **NOT STARTED**
+- English translation: **NOT STARTED**
+
+## Source-damage non-regression
+
+- Large pieces of paper are missing from several scans, especially scans **3–4, 7–8, 11–16**.
+- Damage intersects printed lines on multiple body pages.
+- Surviving supplied-transcription tokens are retained; absent paper is represented by explicit `SOURCE DAMAGE` markers where needed.
+- No missing word is supplied merely because sentence context makes a reconstruction tempting.
+- Pencil folio marks, stains, ageing and reverse-side show-through are recorded outside printed text.
+
+## High-value source decisions already recorded
+
+- scan 16 visibly begins the surviving continuation with `மொழி.`; this was absent from the supplied transcription and is retained as a **documented source-visible missing-text recovery**, not a contextual guess.
+- scan 4 supplied advertisement-title reading `ரூசோ` is retained as the lexical baseline even though the scan appears to show a different title; this remains a **provisional lexical-witness conflict** for later explicit lexical review/P5, not a silent correction.
+- scan 3 supplied `அயம்` and other damaged/ambiguous surviving lexical tokens remain user-baseline readings unless later explicitly reopened.
+
+## Current blockers / unresolved questions
+
+- **No workflow blocker.**
+- Physical source loss is durable documented damage, not permission to reconstruct missing words.
+- Provisional lexical-witness conflicts remain documented for later P5 review under the user-established baseline rule.
+
+---
+
 # Exact next activity
 
-There is no remaining activity for `உணர்ச்சிமாலை`.
+Execute **P3 article assembly + initial P4 source/completeness audit** for `திராவிட சம்பத்து`.
 
-**Next project activity:** intake the next supplied Kalaignar essay/article publication using `docs/START_NEW_ESSAY_WORK_PROMPT.md` and the permanent processing/translation guides. Do not start a new publication until source material is supplied or the user explicitly identifies the next work.
+1. Build `articles/01-thiraavida-sampaththu.md` from scans **5–6, 13–16** in reconstructed reading order.
+2. Build `articles/02-aiyar-arivikkirar.md` from scans **12, 3** in reconstructed reading order.
+3. Preserve every page-boundary comment and every torn-text / `SOURCE DAMAGE` marker; do not invent hidden words.
+4. Run P4 source/completeness audit across the complete 16-scan publication, including `மன்றத்தில்`, `முக்கிய குறிப்பு` and the advertisement boundary.
+5. Propagate any structural corrections into page map, contents map, README and handover.
+6. **Do not start P5 or English translation in the same activity.**
 
 ## Current blockers
 
-**None.**
+**None beyond documented irreversible physical source loss.**
