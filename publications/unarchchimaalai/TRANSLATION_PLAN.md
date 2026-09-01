@@ -42,7 +42,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 | 4 | இராவணன் நம் பாட்டன் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 7 | 30-1-1948 | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
+| 7 | 30-1-1948 | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
 | 8 | பத்தினியே உன்போல்...! | `not-started` | PASS | — | — | — | — | — |
 | 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
@@ -62,7 +62,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - final T5-verified English: **`cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`**
 - blockers: **0**
 
-## Article 7 — T1–T3 COMPLETE / VOICE-REVIEWED
+## Article 7 — T1–T4 COMPLETE / VOICE-REVIEWED
 
 - Tamil / English title: **30-1-1948**
 - frozen Tamil authority: `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`
@@ -70,13 +70,15 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - printed pages: **39–40; scan 39 has no visible printed numeral**
 - T1 draft English: `6e7b49c9f15cb690d439e2bc5665c226bffccd7e`
 - T2 fidelity-reviewed English: `409685e516e32783299130b8205c71638bb8d90d`
-- T3 voice-reviewed English: **`b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`**
+- T3 voice-reviewed English: `b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`
+- T4-audited candidate: **`1879a5e49c3948bb41ffee15b7c37e6a72149cd5`**
 - T2 fidelity corrections: **5**
 - T3 meaning-neutral voice/cadence interventions: **9**
-- complete paragraph/clause coverage: **PASS**
-- scan comments/page boundaries 39–41: **PASS**
-- repeated mourning rhetoric, rhetorical questions/exclamations and direct bullet apostrophe: **T3 PASS**
-- `foreign army`, `Mohan Das Gandhi`, `zeal`, `and that too for you?`: **T2 decisions preserved through T3**
+- T4 source-audit corrections: **2 clause-level corrections** — `became` → `could become`; `ceased` → `could cease` — restoring frozen scan-41 `மாறுவதற்கு முன்` / `ஒய்வதற்கு முன்` without asserting completed outcomes.
+- complete paragraph/clause coverage: **T4 PASS**
+- scan comments/page boundaries 39–41: **T4 PASS**
+- quotation scopes, repeated mourning rhetoric, rhetorical questions/exclamations and direct bullet apostrophe: **T4 PASS**
+- `foreign army`, `Mohan Das Gandhi`, `zeal`, `and that too for you?`: **T4 PASS**
 - frozen source-sensitive `சோக பூகம்` / `சுக்குநூறாக்கம்`: **`soga poogam` / `sukkunooraakkam`; no repair**
 - `காந்தியார்`: **`Gandhiyar`**
 - `பார்ப்பனன்` / `பார்ப்பனர்கள்`: **`Parppanan` / `Parppanars`**
@@ -84,9 +86,10 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - `திராவிடம்`: **`Dravidam` / Article 2 decision reused**
 - `தெகிடுதத்தம்`: **source-bearing `thegiduthatham`**
 - `பாரப்பனீய வெறி`: **`Parppaniya frenzy`**
-- frozen scan-39 `ஒடி`, scan-41 `ஒய்வதற்கு`, final ordering and ending at `வரலாற்றை வீணாக்கிய`: **preserved / no alternate scan repair**
+- frozen scan-39 `ஒடி`, scan-41 `ஒய்வதற்கு`, final ordering and ending at `வரலாற்றை வீணாக்கிய`: **T4 PASS / no alternate scan repair**
 - outside/web historical wording, alternate scan reading or published translation imported: **No**
-- unresolved T3 blockers: **0**
+- external citation required: **No**
+- unresolved T4 blockers: **0**
 
 ## Publication-specific cautions
 
@@ -97,9 +100,9 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 5. Article 10 excludes scan-49 publication-close matter and scan-50 advertisement.
 6. Do not silently repair Article 10 `ப்ழச்சளை`.
 7. Preserve questions, exclamations, repetition, direct address and page-boundary comments.
-8. Article 7 ends on scan 41 at frozen `வரலாற்றை வீணாக்கிய`; T4 must not extend or reconstruct it from outside material.
+8. Article 7 ends on scan 41 at frozen `வரலாற்றை வீணாக்கிய`; T5 must not extend or reconstruct it from outside material.
 9. Article 7 source-sensitive frozen forms `சோக பூகம்`, `சுக்குநூறாக்கம்`, `ஒடி`, `ஒய்வதற்கு` and the scan-41 ordering remain upstream authority; do not substitute scan-appearing alternatives.
 
 ## Exact next activity
 
-Execute **Article 7 T4 — terminology / quotation / citation / source audit** for `30-1-1948` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` and T3 English blob `b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`, scans **39–41**. Audit the complete terminology/proper-name/source-bearing set, quotation scope, dates, all three scan comments and both page continuations, frozen lexical witnesses and the deliberately incomplete scan-41 ending. Do not import scan-appearing alternate lexical/order readings, outside historical wording or published translations. Keep `translation_status: voice-reviewed` through T4, synchronize records, and **stop before Article 7 T5**.
+Execute **Article 7 T5 — final article verification** for `30-1-1948` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` and T4-audited English candidate `1879a5e49c3948bb41ffee15b7c37e6a72149cd5`, scans **39–41**. Re-verify the complete T1–T4 chain, all metadata/source fields, paragraph/clause coverage, quotation scope, dates, source honorifics and source-bearing terminology, scan comments/page boundaries, frozen scan-39 `ஒடி` / `சோக பூகம்` / `சுக்குநூறாக்கம்`, scan-41 `ஒய்வதற்கு`, the T4-restored `could become` / `could cease` relation, frozen final ordering and the deliberately incomplete ending at `வரலாற்றை வீணாக்கிய`. Do not import scan-appearing alternate lexical/order readings, outside historical wording or published translations. If T5 passes, advance Article 7 to `verified`, synchronize records, and **do not begin Article 8 in the same activity**.
