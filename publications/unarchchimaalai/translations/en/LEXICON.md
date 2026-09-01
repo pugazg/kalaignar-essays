@@ -4,7 +4,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Status
 
-**Articles 1–9 T5 VERIFIED; Article 10 T1–T2 COMPLETE / FIDELITY-REVIEWED.** Publication-wide consistency/release freezing remains deferred until Article 10 passes T5.
+**Articles 1–9 T5 VERIFIED; Article 10 T1–T3 COMPLETE / VOICE-REVIEWED.** Publication-wide consistency/release freezing remains deferred until Article 10 passes T5.
 
 > **Translate the language; do not neutralise the voice.**
 
@@ -42,38 +42,39 @@ Final T5-verified English: **`204ffed012f4bd91b3077065f031d6b2db747854`**
 
 T5 made **0 body corrections**. All Article 9 decisions recorded in the durable history remain T5-verified, including `Periyar`, `Ramasami`, `Nagammaiyar / Nagamma`, `Ramasamiyar`, `Ammaiyar`, `minor-kaali`, the public-service/self-interest contrast, quoted `log`, horse/stable quotation, family-lamp declaration, flood-with-flood image, `many! many!`, never-drying life-river and `Duty that surpassed even love`.
 
-## Article 10 — T1–T2 fidelity-reviewed decisions
+## Article 10 — T1–T3 voice-reviewed decisions
 
 Frozen Tamil authority: `f856664d86695237a23d0ffc0bef088d32a82fe9`  
 T1 draft English: `a9864870a17c291304b1cab2480ea7eea4730e1a`  
-T2 fidelity-reviewed English: **`a85fb820c37f1a38cc904c79098cb7a858a5e3b4`**
+T2 fidelity-reviewed English: `a85fb820c37f1a38cc904c79098cb7a858a5e3b4`  
+T3 voice-reviewed English: **`47a8325721d06594a0e5a4f408ee2e84678f634e`**
 
 | Tamil / source form | English decision | Status / caution |
 |---|---|---|
-| `கவிதையல்ல - கண்ணீர்க்கடல் !` | `Not a Poem — an Ocean of Tears!` | T2 FIDELITY-REVIEWED |
-| `செல்வம்` | `Selvam` | SOURCE-NAME / T2 PASS; no outside identification |
-| `பெரியார்` | `Periyar` | Article 9 source-title decision reused / T2 PASS |
-| `அறிவியக்க வீரன்` | `warrior of the movement of reason` | T2 PASS |
-| `சாவுமோகம்` | `death-madness` | IMAGE / T2 PASS |
-| `ஆரியம்` | `Aryanism` | Article 6 ideological rendering reused / T2 PASS |
-| `குள்ளநரி ஆரியம்` | `dwarf-jackal Aryanism` | POLEMICAL IMAGE / T2 PASS |
-| frozen scan-48 `ப்ழச்சளை` | retain verbatim as `` `ப்ழச்சளை.` `` in English | SOURCE-SENSITIVE / T2 PASS; never guess or repair |
-| `பார்ப்பனீயம்` | `Parppaniyam` | SOURCE-BEARING / T2 PASS |
-| `நீ போய்விட்டாய்` | `You have gone` | T2 CORRECTED; perfective force restored |
-| `பன்னீர்ச்செல்வம்` | `Panneer Selvam` | SOURCE-NAME / T2 PASS; no outside identification |
-| `பாண்டியன் மீசை` | `Pandiyan moustache` | IMAGE / T2 PASS |
-| `பாழலைகள்` | `ruinous waves` | T2 CORRECTED; destructive force retained |
-| frozen scan-49 `விட்டாய்.` | `You left.` in the frozen source position | SOURCE-ORDER / T2 PASS; do not move upstream |
-| `திருவிடத்தார்` | `Tiruvitaththar` | Article 1 T5 decision reused / T2 PASS |
-| `பணத்தினில் பிறந்து பணத்தினில் வளர்ந்தும்` | `Though born in money and raised in money` | T2 CORRECTED; concessive retained |
-| `பாட்டாளிக் குணம்` | `proletarian character` | Article 2 proletarian vocabulary reused / T2 PASS |
-| `ஓமான்கடல்` | `Oman Sea` | Article 7 T5 decision reused / T2 PASS |
-| `திராவிடப் பொன்னாடு` | `golden Dravidian land` | T2 PASS |
-| `ஆரிய மது` | `Aryan liquor` | POLEMICAL IMAGE / T2 PASS |
-| `மக்களெல்லாம் விழித்தெழுதல் / இதுகாண்டல்` | `All the people / who drank Aryan liquor awakening and rising— / to see this...` | T2 CORRECTED; source action/sight relation restored |
-| `பஞ்சைகள்` | `paupers` | T2 PASS in immediate frozen context |
-| `தஞ்சைக் காவலன்` | `guardian of Tanjai` | SOURCE-BEARING / T2 PASS; no outside identification |
-| `வீழ்ந்திட நேரிடினும் நின் செயல்பாடி / வீழ்ந்திடுவோம்` | `Even if the time comes for us to fall, singing your deeds / we shall fall.` | REPETITION / T2 PASS |
+| `கவிதையல்ல - கண்ணீர்க்கடல் !` | `Not a Poem — an Ocean of Tears!` | T3 VOICE-REVIEWED |
+| `செல்வம்` | `Selvam` | SOURCE-NAME / T3 PASS; no outside identification |
+| `பெரியார்` | `Periyar` | Article 9 source-title decision reused / T3 PASS |
+| `அறிவியக்க வீரன்` | `warrior of the movement of reason` | T3 PASS |
+| `சாவுமோகம்` | `death-madness` | IMAGE / T3 PASS; T3 cadence `delusion-shrouded death-madness` |
+| `ஆரியம்` | `Aryanism` | Article 6 ideological rendering reused / T3 PASS |
+| `குள்ளநரி ஆரியம்` | `dwarf-jackal Aryanism` | POLEMICAL IMAGE / T3 PASS |
+| frozen scan-48 `ப்ழச்சளை` | retain verbatim as `` `ப்ழச்சளை.` `` in English | SOURCE-SENSITIVE / T3 PASS; never guess or repair |
+| `பார்ப்பனீயம்` | `Parppaniyam` | SOURCE-BEARING / T3 PASS |
+| `நீ போய்விட்டாய்` | `You have gone` | T2 CORRECTED / T3 PASS; perfective force retained |
+| `பன்னீர்ச்செல்வம்` | `Panneer Selvam` | SOURCE-NAME / T3 PASS; no outside identification |
+| `பாண்டியன் மீசை` | `Pandiyan moustache` | IMAGE / T3 PASS |
+| `பாழலைகள்` | `ruinous waves` | T2 CORRECTED / T3 PASS; destructive force retained |
+| frozen scan-49 `விட்டாய்.` | `You left.` in the frozen source position | SOURCE-ORDER / T3 PASS; do not move upstream |
+| `திருவிடத்தார்` | `Tiruvitaththar` | Article 1 T5 decision reused / T3 PASS |
+| `பணத்தினில் பிறந்து பணத்தினில் வளர்ந்தும்` | `Though born in money and raised in money` | T2 CORRECTED / T3 PASS; concessive retained |
+| `பாட்டாளிக் குணம்` | `proletarian character` | Article 2 proletarian vocabulary reused / T3 PASS |
+| `ஓமான்கடல்` | `Oman Sea` | Article 7 T5 decision reused / T3 PASS |
+| `திராவிடப் பொன்னாடு` | `golden Dravidian land` | T3 PASS |
+| `ஆரிய மது` | `Aryan liquor` | POLEMICAL IMAGE / T3 PASS |
+| `மக்களெல்லாம் விழித்தெழுதல் / இதுகாண்டல்` | `All the people / who drank Aryan liquor, awakening and rising— / to see this...` | T2 CORRECTED / T3 CADENCE; source action/sight relation retained |
+| `பஞ்சைகள்` | `paupers` | T3 PASS in immediate frozen context |
+| `தஞ்சைக் காவலன்` | `guardian of Tanjai` | SOURCE-BEARING / T3 PASS; no outside identification |
+| `வீழ்ந்திட நேரிடினும் நின் செயல்பாடி / வீழ்ந்திடுவோம்` | `Even if the time comes to fall, singing your deeds / we shall fall.` | REPETITION / T3 CADENCE; fall/deeds/fall structure retained |
 
 ### Article 10 T1 result
 
@@ -90,6 +91,10 @@ T2 made **4 fidelity corrections**:
 
 All other terminology, imagery, verse lineation, source comments, questions/exclamations/repetition, `ப்ழச்சளை`, frozen `You left.` placement, `Parppaniyam`, `Tiruvitaththar`, `Oman Sea`, `paupers`, final fall/sing-deeds close and exclusion rules passed. No outside identification, web wording, alternate scan reading or published translation was imported. T2 blockers: **0**.
 
+### Article 10 T3 result
+
+T3 made **12 meaning-neutral voice/cadence interventions** while preserving every T2 meaning/source decision. It tightened the opening subject order and Periyar drum line, compressed `death-madness shrouded in delusion` to `delusion-shrouded death-madness`, sharpened the cruel-sword/cave-lion imagery, tightened the Parppaniyam coward simile, made the Aryan-forest/hiding sequence more direct, smoothed the hunger-risen sea image, changed `where have you hidden?` to the more immediate `where did you hide?`, added the needed cadence pause after `Aryan liquor`, strengthened the cyclone verb, and tightened the final fall/deeds/fall line. Frozen `ப்ழச்சளை`, `You left.` placement, source lineation, page comments, questions/exclamations and all T2 terminology remain unchanged in meaning. No outside identification, web wording, alternate scan reading or published translation was imported. T3 blockers: **0**.
+
 ## Next lexicon activity
 
-During **Article 10 T3**, review only voice/cadence against frozen Tamil `f856664d86695237a23d0ffc0bef088d32a82fe9` and T2 English `a85fb820c37f1a38cc904c79098cb7a858a5e3b4`. Preserve every T2 meaning/source decision, especially frozen `ப்ழச்சளை`, frozen `You left.` placement and verse lineation. Stop before T4.
+During **Article 10 T4**, audit terminology, quotation/citation/source witnesses against frozen Tamil `f856664d86695237a23d0ffc0bef088d32a82fe9` and T3 English `47a8325721d06594a0e5a4f408ee2e84678f634e`. Recheck source labels/images, frozen `ப்ழச்சளை`, `Parppaniyam`, frozen `You left.` placement, Tiruvitaththar quotation, source lineation/page comments and exclusion rules. Keep Article 10 `voice-reviewed` through T4 and stop before T5.
