@@ -201,7 +201,7 @@ T5 re-verified the complete T1–T4 chain against frozen Tamil blob `f3634a63bff
 
 **T5 RESULT: PASS. Article 6 advanced to `translation_status: verified`. Final verified English blob: `cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`.**
 
-# Article 7 — `30-1-1948` — T1–T2 COMPLETE / FIDELITY-REVIEWED
+# Article 7 — `30-1-1948` — T1–T3 COMPLETE / VOICE-REVIEWED
 
 Source authority:
 
@@ -212,7 +212,8 @@ Source authority:
 - English article: [`07-30-1-1948.md`](07-30-1-1948.md)
 - English title: **30-1-1948**
 - T1 draft blob: `6e7b49c9f15cb690d439e2bc5665c226bffccd7e`
-- T2 fidelity-reviewed blob: **`409685e516e32783299130b8205c71638bb8d90d`**
+- T2 fidelity-reviewed blob: `409685e516e32783299130b8205c71638bb8d90d`
+- T3 voice-reviewed blob: **`b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`**
 
 ## T1 — close draft — COMPLETE / PASS
 
@@ -269,6 +270,36 @@ T2 non-regression checks:
 
 **T2 RESULT: PASS. Article 7 advanced to `translation_status: fidelity-reviewed`. T2 English blob: `409685e516e32783299130b8205c71638bb8d90d`.**
 
+## T3 — Kalaignar voice review — COMPLETE / PASS
+
+T3 made **9 meaning-neutral voice/cadence interventions** while preserving every T2 meaning/source/terminology decision:
+
+1. scan 39 opening `A day stained with blood...` → **`A blood-stained day...`** for a harder opening beat;
+2. scan 39 `The blood-tears shed by the people...` → **`The blood-tears the people shed...`** for tighter cadence;
+3. scan 39 prayer/foreign-army contrast — `not at a moment when...but at the moment when...` → **`not when...but when...`**;
+4. scan 39 `rejoiced on seeing` → **`rejoiced to see`**;
+5. scan 40 date turn — `On the 30th,` → **`On the 30th—`** before `Mohan Das Gandhi of the enchanting smile`;
+6. scan 40 bullet apostrophe — `How indeed...did you tear apart` → **`How could you...tear apart`**;
+7. scan 40 world-weeping cadence — `Why, even the whole world weeps.` → **`Why...the whole world itself weeps.`** without creating a new question or claim;
+8. scan 40 `We are not surprised! Because...` → **`We are not surprised! For...`**;
+9. scan 41 direct-address sequence — `Before freedom...could become true freedom...before the hunt for office could cease` → **`Before freedom...became true freedom...before the hunt for office ceased`**.
+
+T3 non-regression checks:
+
+- all three scan comments and both page continuations: **PASS / unchanged**
+- repeated `சுடப்பட்டார்` / `shot` mourning sequence: **PASS**
+- bullet apostrophe remains one quotation: **PASS**
+- rhetorical questions/exclamations and final accumulation: **PASS**
+- dates `30`, `31`, `30-1-1948`: **PASS**
+- T2 `foreign army`, `Mohan Das Gandhi`, `zeal`, `and that too for you?`: **PASS / meaning retained**
+- `Gandhiyar`, `soga poogam`, `sukkunooraakkam`, `Parppanan` / `Parppanars`, `Vaidheegam`, `Dravidam`, `Hindu Mahasabha`, `Sir Selvam`, `Oman Sea`, `Baniya`, `thegiduthatham`, `Parppaniya frenzy`, `Ayyo! Ayyo!`: **PASS / unchanged**
+- frozen scan-39 `ஒடி`, scan-41 `ஒய்வதற்கு`: **PASS / no alternate scan forms imported**
+- frozen final ordering and incomplete ending at `வரலாற்றை வீணாக்கிய`: **PASS / `that squandered history—` unchanged**
+- outside historical identification, web wording, published translation, alternate scan wording or source-normalising reconstruction imported: **No**
+- T3 blockers: **0**
+
+**T3 RESULT: PASS. Article 7 advanced to `translation_status: voice-reviewed`. T3 English blob: `b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`.**
+
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
@@ -279,11 +310,11 @@ T2 non-regression checks:
 | 4 | இராவணன் நம் பாட்டன் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 7 | 30-1-1948 | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
+| 7 | 30-1-1948 | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
 | 8 | பத்தினியே உன்போல்...! | `not-started` | PASS | — | — | — | — | — |
-| 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — | — |
-| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — | — |
+| 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — |
+| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
 
 ## Exact next activity
 
-Execute **Article 7 T3 — Kalaignar voice review** for `30-1-1948` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` and T2 English blob `409685e516e32783299130b8205c71638bb8d90d`, scans **39–41**. Preserve every T2 meaning/source/terminology decision while reviewing only cadence, directness, repeated mourning force, apostrophe, rhetorical questions/exclamations and accumulative polemical rhythm. Preserve all three scan comments, cross-page continuations, frozen `soga poogam`, `sukkunooraakkam`, `Gandhiyar`, `Mohan Das Gandhi`, `Parppanan` / `Parppanars`, `Vaidheegam`, `Baniya`, `thegiduthatham`, `Parppaniya frenzy`, corrected `foreign army`, `zeal`, and the deliberately incomplete scan-41 ending. Do not import alternate scan wording, outside historical material, web wording or published translations. Advance only to `voice-reviewed` if T3 passes and **stop before Article 7 T4**.
+Execute **Article 7 T4 — terminology / quotation / citation / source audit** for `30-1-1948` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` and T3 English blob `b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`, scans **39–41**. Audit every source honorific, proper name, polemical/source-bearing term, quotation boundary, date, scan comment/page continuation and the deliberately incomplete scan-41 ending. Review especially `Gandhiyar`, `Mohan Das Gandhi`, `soga poogam`, `sukkunooraakkam`, `Parppanan` / `Parppanars`, `Vaidheegam`, `Dravidam`, `Hindu Mahasabha`, `Sir Selvam`, `Oman Sea`, `Baniya`, `thegiduthatham`, `Parppaniya frenzy`, the bullet apostrophe, world-weeping line, frozen `ஒடி` / `ஒய்வதற்கு`, and final `வரலாற்றை வீணாக்கிய`. Do not import alternate scan lexical/order readings, outside historical wording, web wording or published translations. Keep `translation_status: voice-reviewed` through T4 and **stop before Article 7 T5**.
