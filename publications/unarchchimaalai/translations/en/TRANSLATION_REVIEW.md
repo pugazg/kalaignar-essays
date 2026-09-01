@@ -178,7 +178,7 @@ T5 re-verified the complete T1–T4 chain against frozen Tamil blob `c8ac4d7c241
 
 **T5 RESULT: PASS. Article 5 advanced to `translation_status: verified`. Final verified English blob: `c689ff90f08d389a5e7ebc4849c30d58dfe81766`.**
 
-# Article 6 — `3, 57, 90.` — T1–T2 COMPLETE / FIDELITY-REVIEWED
+# Article 6 — `3, 57, 90.` — T1–T3 COMPLETE / VOICE-REVIEWED
 
 Source authority:
 
@@ -189,7 +189,8 @@ Source authority:
 - English article: [`06-3-57-90.md`](06-3-57-90.md)
 - English title: **3, 57, 90.**
 - T1 draft blob: `03b33ab1aaa042266eb34163e688e415baa47be9`
-- T2 fidelity-reviewed blob: **`9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`**
+- T2 fidelity-reviewed blob: `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`
+- T3 voice-reviewed blob: **`1332512bbffdd618078813444c2cf24ebcea07ff`**
 
 ## T1 — close draft — COMPLETE / PASS
 
@@ -248,6 +249,38 @@ T2 additionally reconfirmed:
 
 **T2 RESULT: PASS. Article 6 advanced to `translation_status: fidelity-reviewed`. T2 English blob: `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`.**
 
+## T3 — Kalaignar voice review — COMPLETE / PASS
+
+T3 preserved every T2 meaning/source decision and made **10 meaning-neutral voice/cadence interventions**:
+
+1. tightened the opening flock-of-sheep challenge with `what's this—` while preserving the rhetorical question;
+2. changed `made that voice a little louder` to **`raised that voice a little louder`**;
+3. tightened the sacrificial-altar exclamation from `fell upon` to **`fell on`** without changing the image;
+4. compressed the demographic lead into **`College students: one hundred and fifty.`** and sharpened the 3-in-100 / 90-in-college contrast;
+5. strengthened the sarcastic scan-37 transition as **`And in this fine state of affairs`**;
+6. tightened the pleading accumulation to the 57 while preserving the physical `with our stomachs burning`, tears, begging posture and blood-tie;
+7. fronted **`Seeking strength`** in the Aryanism sentence to restore forward drive;
+8. changed `melody of victory` to **`song of victory`** in the Anjaneya/Sugriva comparison;
+9. tightened the final address from `even the fifty-seven of you too` to **`even you fifty-seven`** and `blind despite having eyes` to **`blind though you have eyes`**;
+10. sharpened the quoted `உள்ள ஒலி` demand as **`we make this demand an “inner voice”: take up the courage...`** without changing the source-quoted phrase.
+
+T3 non-regression checks:
+
+- all six scan comments 33–38: **PASS**
+- corrected scan-33/34 boundary: **PASS**
+- scan-35→36 college quotation: **PASS / wording unchanged**
+- scan-36→37 percentage continuation: **PASS**
+- scan-37→38 `Sir` / `Ramasamis` boundary and frozen `இழத்துக்`: **PASS**
+- seven opening quotations and two scan-34 hostile quotations: **PASS**
+- date `29-5-48`, all numbers/percentages, final `3, 57, 90.`: **PASS**
+- `communalism`, `communal representation`, `Aryanism`, `Brahmin` vs `Parppanar`, `Harijan`, `Adi-Dravidians`, `Dravidian Vibhishanas`, `Vediyars`, `Mail`, `Devasthanam Committee`: **T2 decisions preserved**
+- source-bearing `kabothi`, `sodha`, `othiya`, `mathith thalaivar`, `pira Prahaladas`, `Oriyantal College`: **preserved / no outside repair**
+- frozen `எழுதினான்`, `சம்மாதிக்காத`, `பிரிதிநிதித்துவத்தை`, `இழத்துக்`, `பிர பிரஹலாதர்களாக`, `வேண்டியுளது`, `ஒரியண்டல்`: **unchanged upstream / no scan-alternate import**
+- outside/web historical identification or lexical reconstruction: **none**
+- T3 blockers: **0**
+
+**T3 RESULT: PASS. Article 6 advanced to `translation_status: voice-reviewed`. T3 English blob: `1332512bbffdd618078813444c2cf24ebcea07ff`.**
+
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
@@ -257,7 +290,7 @@ T2 additionally reconfirmed:
 | 3 | போகிறான்;போகிறான்..! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 4 | இராவணன் நம் பாட்டன் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 6 | 3, 57, 90. | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
+| 6 | 3, 57, 90. | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
 | 7 | 30-1-1948 | `not-started` | PASS | — | — | — | — | — |
 | 8 | பத்தினியே உன்போல்...! | `not-started` | PASS | — | — | — | — | — | — |
 | 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — | — |
@@ -265,4 +298,4 @@ T2 additionally reconfirmed:
 
 ## Exact next activity
 
-Execute **Article 6 T3 — Kalaignar voice review** for `3, 57, 90.` against frozen Tamil blob `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` and T2 English blob `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`, scans **33–38**. Preserve every T2 meaning/source decision while reviewing cadence, directness, insult force, repeated attacks and appeals, rhetorical exclamations, the long quoted college statement, percentage accumulation, sarcastic `இந்த அழகில்`, the pleading address to the 57, the Anjaneya/Sugriva comparison, final direct challenge and repeated `3, 57, 90.`. Preserve all scan comments and cross-page continuations; do not import alternate scan lexical readings, web wording or outside historical reconstruction. Record only meaning-neutral voice/cadence interventions, advance only to `voice-reviewed` if the pass succeeds, and **stop before Article 6 T4**.
+Execute **Article 6 T4 — terminology / quotation / citation / source audit** for `3, 57, 90.` against frozen Tamil blob `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` and T3 English blob `1332512bbffdd618078813444c2cf24ebcea07ff`, scans **33–38**. Audit all Article 6 terminology/proper names/source-bearing forms, all quotation boundaries, source title `Mail`, date `29-5-48`, all numbers/percentages, all six scan comments and cross-page continuations, and the quoted `inner voice`. Reconfirm frozen `எழுதினான்`, `சம்மாதிக்காத`, `பிரிதிநிதித்துவத்தை`, `இழத்துக்`, `பிர பிரஹலாதர்களாக`, `வேண்டியுளது`, `ஒரியண்டல்`; preserve `Brahmin` vs `Parppanar`, earlier `Oriental College` vs final source-sensitive `Oriyantal College`, and all T2-reviewed/T3-preserved source-bearing transliterations. Do not import alternate scan readings, outside identifications or web wording. Article 6 remains `voice-reviewed` through T4 and **stop before T5**.
