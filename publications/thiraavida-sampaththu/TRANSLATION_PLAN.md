@@ -38,10 +38,10 @@ If either frozen Tamil blob changes because of a genuine source-supported correc
 | # | Tamil title | English file | Translation status | Gates |
 |---:|---|---|---|---|
 | 1 | `திராவிட சம்பத்து` | [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) | **verified** | **T0–T5 PASS** |
-| 2 | `ஐயர் அறிவிக்கிறார்!` | [`translations/en/02-aiyar-arivikkirar.md`](translations/en/02-aiyar-arivikkirar.md) | **voice-reviewed** | **T0 PASS; T1 PASS; T2 PASS; T3 PASS; T4 PASS; T5 next** |
+| 2 | `ஐயர் அறிவிக்கிறார்!` | [`translations/en/02-aiyar-arivikkirar.md`](translations/en/02-aiyar-arivikkirar.md) | **verified** | **T0–T5 PASS** |
 
 Article 1 English title: **Dravidian Wealth — VERIFIED**.  
-Article 2 English title: **Iyer Announces! — T4 audited / final verification pending T5**.
+Article 2 English title: **Iyer Announces! — VERIFIED**.
 
 ## Article 1 final gate history
 
@@ -52,14 +52,15 @@ Article 2 English title: **Iyer Announces! — T4 audited / final verification p
 - T4 terminology/source-audited English blob: `961ca3f724238ed699dba2607fa2d1be681f0ec4`
 - T5 final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
 
-## Article 2 T4 source-audited history
+## Article 2 final gate history
 
 - frozen Tamil authority: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
 - T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
 - T2 fidelity-reviewed English blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
 - T3 voice-reviewed English blob: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
 - T4 source-audited English blob: `9b2795e6c66dea08fdf46fcf7903550001e1a401`
-- title: **Iyer Announces! — T4 audited / final verification pending T5**
+- T5 final verified English blob: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
+- title: **Iyer Announces! — VERIFIED**
 - source-page comments: **2 / 2 present and ordered**
 - frozen `அயம்`: source-bearing **ayam**, unrepaired
 - `ஐயர்` / `அய்யர்`: **Iyer / Ayyar**, distinction retained
@@ -67,11 +68,10 @@ Article 2 English title: **Iyer Announces! — T4 audited / final verification p
 - normal `கல்லூரி`: **College**; frozen anomalous `கல்லுரி`: source-bearing **kalluri**
 - narrative fused `சாமிநாதய்யர்`: **Saminathayyar**; inscription `சாமிநாத அய்யர்`: **Saminatha Ayyar**
 - quoted inscription: **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**
-- first-paragraph quotation anomaly: two evident English quoted units formally documented at T4; no missing Tamil punctuation reconstructed
-- T4 English body corrections: **0**
-- T4 metadata/provenance updates: **1**
+- first-paragraph quotation anomaly: two evident English quoted units formally documented at T4 and re-verified at T5; no missing Tamil punctuation reconstructed
+- T5 English body corrections: **0**
 - frozen Tamil body changes: **0**
-- unresolved T4 blockers: **0**
+- unresolved T5 blockers: **0**
 
 ## Publication-specific translation constraints
 
@@ -83,8 +83,8 @@ Article 2 English title: **Iyer Announces! — T4 audited / final verification p
 6. Translate from the frozen Tamil lexical witness even where P5 recorded a scan/baseline conflict.
 7. Scan-3 frozen `அயம்` remains damaged/ambiguous for Article 2 and may not be silently repaired.
 8. Scan-3 frozen `கல்லுரி` remains the Article 2 translation authority at that position and may not be silently normalised during review.
-9. Preserve the T2/T4-secured distinction between narrative `சாமிநாதய்யர்` and inscription `சாமிநாத அய்யர்`.
-10. Preserve T3's meaning-neutral directness and ridicule and T4's source/quotation decisions through final verification.
+9. Preserve the verified distinction between narrative `சாமிநாதய்யர்` and inscription `சாமிநாத அய்யர்`.
+10. Preserve T3's meaning-neutral directness and ridicule and T4's source/quotation decisions through publication-level review.
 11. Publisher foreword `மன்றத்தில்`, publisher note `முக்கிய குறிப்பு` and scan-4 advertisements remain outside both article translations.
 
 ## Gate sequence
@@ -94,14 +94,14 @@ Article 2 English title: **Iyer Announces! — T4 audited / final verification p
 - **T2** — **2 / 2 PASS**
 - **T3** — **2 / 2 PASS**
 - **T4** — **2 / 2 PASS**
-- **T5** — **1 / 2 PASS**
+- **T5** — **2 / 2 PASS**
 - **E6** — NOT STARTED
 - **E7** — NOT STARTED
 
 ## Exact next activity
 
-Execute **Article 2 T5 — final article verification** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T4 source-audited English blob `9b2795e6c66dea08fdf46fcf7903550001e1a401`.
+Execute **E6 — publication-wide English consistency review** across both verified articles.
 
-Re-verify complete surviving coverage, title **Iyer Announces!**, all T4-established terminology/source-bearing forms, the documented first-paragraph quotation treatment, final inscription wording, metadata and both source-page comments. If PASS, set `translation_status: verified` and record the final verified English blob.
+Review recurring `Dravidam` / Dravidian terminology, source-bearing name distinctions, title style, quotation treatment, source-page comments, source-anomaly preservation, rhetorical consistency and accidental cross-article harmonisation. Do not alter verified text merely for stylistic preference; only genuine publication-level consistency or source/release defects may reopen an article gate, and any reopening must be documented.
 
-**Stop after Article 2 T5. Do not perform E6 in the same activity.**
+**Stop after E6. Do not perform E7 in the same activity.**
