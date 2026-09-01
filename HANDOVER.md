@@ -86,7 +86,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - T2 fidelity-reviewed: **7 / 10**
 - T3 voice-reviewed: **7 / 10**
 - T4 audited: **7 / 10**
-- T5 verified: **6 / 10**
+- T5 verified: **7 / 10**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - blockers: **0**
@@ -143,7 +143,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - English file: `publications/unarchchimaalai/translations/en/06-3-57-90.md`
 - T1 draft English: `03b33ab1aaa042266eb34163e688e415baa47be9`
 - T2 fidelity-reviewed English: `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`
-- T3 voice-reviewed / T4-audited English: `1332512bbffdd618078813444c2cf24ebcea07ff`
+- T3 voice-reviewed / T4-audited English: `1332512bbff94f5647dbbdfa7dfe9b1b0a2479d8`
 - final T5-verified English: **`cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`**
 - T2 fidelity corrections: **5**
 - T3 meaning-neutral voice/cadence interventions: **10**
@@ -155,7 +155,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 
 Article 6 is closed at T5. **Do not reopen it absent a genuine source-supported defect.**
 
-## Article 7 — `30-1-1948` — T1–T4 COMPLETE / VOICE-REVIEWED
+## Article 7 — `30-1-1948` — T0–T5 COMPLETE / VERIFIED
 
 - English title: **30-1-1948**
 - frozen Tamil: `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`
@@ -165,18 +165,20 @@ Article 6 is closed at T5. **Do not reopen it absent a genuine source-supported 
 - T1 draft English: `6e7b49c9f15cb690d439e2bc5665c226bffccd7e`
 - T2 fidelity-reviewed English: `409685e516e32783299130b8205c71638bb8d90d`
 - T3 voice-reviewed English: `b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`
-- T4-audited English candidate: **`1879a5e49c3948bb41ffee15b7c37e6a72149cd5`**
+- T4-audited English candidate: `1879a5e49c3948bb41ffee15b7c37e6a72149cd5`
+- final T5-verified English: **`6cfb28e2d83ba84ee2daa54606561479b61498b0`**
 - T2 fidelity corrections: **5**
 - T3 meaning-neutral voice/cadence interventions: **9**
 - T4 source-audit corrections: **2 clause-level corrections in one scan-41 sentence** — T3 `became` → `could become` and `ceased` → `could cease`, restoring the frozen `மாறுவதற்கு முன்` / `ஒய்வதற்கு முன்` prospective relation without asserting completed outcomes.
-- complete paragraph/clause coverage: **T4 PASS**
-- all scan comments 39–41 and scan-39→40 / scan-40→41 continuations: **T4 PASS**
-- scan-40→41 physical `உழைப்` / `பையும்` split: **T4 PASS / source witness retained through the page comment without reconstructing Tamil**
-- opening quotation `“வழிந்தோட......காந்தி மாண்டாரா ?”`: **T4 PASS / scope retained**
-- direct bullet apostrophe quotation: **T4 PASS / one continuous quotation**
-- source-quoted `‘சுதந்தரம்’`: **T4 PASS / English `‘freedom’` retained**
-- dates `30`, `31`, `30-1-1948`: **T4 PASS**
-- `காந்தியார்` → `Gandhiyar`; `உத்தமர் காந்தியார்` → `the noble Gandhiyar`; `அண்ணல் காந்தி` → `revered Gandhi`: **T4 PASS / source-label distinctions retained**
+- T5 body corrections: **0**
+- complete paragraph/clause coverage: **T5 PASS**
+- all scan comments 39–41 and scan-39→40 / scan-40→41 continuations: **T5 PASS**
+- scan-40→41 physical `உழைப்` / `பையும்` split: **T5 PASS / source witness retained through the page comment without reconstructing Tamil**
+- opening quotation `“வழிந்தோட......காந்தி மாண்டாரா ?”`: **T5 PASS / scope retained**
+- direct bullet apostrophe quotation: **T5 PASS / one continuous quotation**
+- source-quoted `‘சுதந்தரம்’`: **T5 PASS / English `‘freedom’` retained**
+- dates `30`, `31`, `30-1-1948`: **T5 PASS**
+- `காந்தியார்` → `Gandhiyar`; `உத்தமர் காந்தியார்` → `the noble Gandhiyar`; `அண்ணல் காந்தி` → `revered Gandhi`: **T5 VERIFIED / source-label distinctions retained**
 - `மோகன் தாஸ் காந்தி`: **`Mohan Das Gandhi` / frozen source spacing retained**
 - `வேற்றார்படை`: **`foreign army`**
 - frozen scan-39 `சோக பூகம்`: **`soga poogam` / no scan-alternate repair**
@@ -193,27 +195,27 @@ Article 6 is closed at T5. **Do not reopen it absent a genuine source-supported 
 - `பாரப்பனீய வெறி`: **`Parppaniya frenzy`**
 - `அதுவும் தங்களுக்கா ?`: **`and that too for you?` / T2 correction retained**
 - `அய்யய்யோ`: **`Ayyo! Ayyo!`**
-- scan-40 world-weeping line: **T4 PASS / `Why...the whole world itself weeps.` retains the emphatic continuation without adding a question**
+- scan-40 world-weeping line: **T5 PASS / `Why...the whole world itself weeps.` retains the emphatic continuation without adding a question**
 - frozen scan-39 `ஒடி`, scan-41 `ஒய்வதற்கு`: **frozen assembly retained / scan alternates not imported**
-- frozen scan-41 final ordering and ending `வரலாற்றை வீணாக்கிய`: **T4 PASS / deliberately incomplete English `that squandered history—`**
+- T4-restored `Before freedom...could become true freedom...before the hunt for office could cease`: **T5 PASS**
+- frozen scan-41 final ordering and ending `வரலாற்றை வீணாக்கிய`: **T5 PASS / deliberately incomplete English `that squandered history—`**
 - external citation required: **No**
 - outside historical identification, web wording, published translation, alternate scan lexical/order reading or source-normalising reconstruction imported: **none**
 - frozen Tamil changed: **No**
-- T4 blockers: **0**
+- blockers: **0**
 
-Article 7 remains downstream of T5. Do not begin Article 8 until Article 7 reaches T5.
+Article 7 is closed at T5. **Do not reopen it absent a genuine source-supported defect.**
 
 ---
 
 # Exact next activity
 
-Execute **Article 7 T5 — final article verification** for `30-1-1948` against:
+Execute **Article 8 T1 — complete close English draft** for `பத்தினியே உன்போல்...!` against:
 
-- frozen Tamil blob: `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`
-- T4-audited English candidate: `1879a5e49c3948bb41ffee15b7c37e6a72149cd5`
-- source scans: **39–41**
+- frozen Tamil blob: `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`
+- source scans: **42–44**
 
-T5 must re-verify the complete T1–T4 chain, metadata article number/title/source path/source Tamil SHA, scans/printed-page witnesses, complete paragraph/clause coverage, all three scan comments and both page continuations, quotation scope, repeated mourning rhetoric, dates, source honorifics/proper names and all source-bearing terminology. Recheck especially the T4-restored `Before freedom...could become true freedom...before the hunt for office could cease` against frozen `மாறுவதற்கு முன்` / `ஒய்வதற்கு முன்`; `Gandhiyar`, `Mohan Das Gandhi`, `foreign army`, `soga poogam`, `sukkunooraakkam`, `Parppanan` / `Parppanars`, `Vaidheegam`, `Dravidam`, `Hindu Mahasabha`, `Sir Selvam`, `Oman Sea`, `Baniya`, `thegiduthatham`, `Parppaniya frenzy`, `zeal`, the bullet apostrophe, world-weeping line, frozen scan-39 `ஒடி`, scan-41 `ஒய்வதற்கு`, the final frozen ordering and deliberately incomplete ending at `வரலாற்றை வீணாக்கிய`. Do not import scan-appearing alternate lexical/order readings, outside historical wording, web wording or published translations. If T5 passes, advance Article 7 to `translation_status: verified`, synchronize the English tracker/review/plan/lexicon/handover, and **do not begin Article 8 in the same activity**.
+T1 must translate the complete frozen Article 8 assembly paragraph by paragraph and clause by clause. Preserve all source-page comments, questions, exclamations, repetition and source-bearing terminology. Retain scan-42 source-recovered `பதில் இல்லை.` and scan-43 `* * *` as frozen structural/source witnesses. Follow the frozen Tamil assembly rather than scan-appearing alternate lexical forms; do not silently repair documented source/Gemini conflicts or import outside/web wording. Create/update the Article 8 English file, establish its provisional living-lexicon decisions, record T1 provenance in the review ledger and trackers, synchronize this handover, and **stop before Article 8 T2**.
 
 ## Current blockers
 
