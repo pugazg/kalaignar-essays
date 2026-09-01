@@ -94,12 +94,12 @@ Detailed records:
 
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **2 / 2 PASS**
-- T1 close drafts: **1 / 2**
+- T1 close drafts: **2 / 2**
 - T2 fidelity-reviewed: **1 / 2**
 - T3 voice-reviewed: **1 / 2**
 - T4 audited: **1 / 2**
 - T5 verified: **1 / 2**
-- English article bodies: **1 / 2**
+- English article bodies: **2 / 2**
 - translation blockers: **0**
 
 Article 1 `திராவிட சம்பத்து` is **T5 VERIFIED**:
@@ -107,11 +107,17 @@ Article 1 `திராவிட சம்பத்து` is **T5 VERIFIED**:
 - English title: **Dravidian Wealth**
 - final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
 - source Tamil blob: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
-- T5 body corrections: **0**
-- source-page comments: **6 / 6 PASS**
-- scan-15/16 damage boundaries: **4 / 4 PASS**
-- hidden torn wording reconstructed: **0**
-- frozen Tamil changes during English verification: **0**
+
+Article 2 `ஐயர் அறிவிக்கிறார்!` is **T1 COMPLETE / draft**:
+
+- working English title: **Iyer Announces!** — not frozen
+- T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
+- source Tamil blob: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
+- source-page comments: **2 / 2 present**
+- frozen `அயம்`: carried as source-bearing **ayam**, not repaired
+- frozen scan-3 `கல்லுரி`: carried as source-bearing **kalluri**, not silently normalised
+- frozen Tamil changes during T1: **0**
+- unresolved T1 blockers: **0**
 
 English records:
 
@@ -124,4 +130,4 @@ The English layer continues to translate only from the two frozen Tamil blobs ab
 
 ## Exact next gate
 
-Execute **Article 2 T1 — complete close English draft for `ஐயர் அறிவிக்கிறார்!`** from frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`. Preserve source-page comments for scans **12 and 3**, preserve damaged/ambiguous frozen `அயம்` without guessed repair, keep `ஐயர்` / `அய்யர்` source-form distinctions source-sensitive, and stop after T1. Do not perform Article 2 T2 in the same activity.
+Execute **Article 2 T2 — bilingual fidelity review** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T1 English blob `1b70952ae377668162fcb35eb045e142a0597190`. Audit all surviving clauses, `Iyer` / `Ayyar`, source-bearing `ayam`, `Enothano(s)`, normal `College` versus frozen anomalous `kalluri`, working title, quotation scope, inscription wording and both source-page comments. Stop after T2; do not perform Article 2 T3 in the same activity.
