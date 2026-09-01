@@ -37,34 +37,21 @@ If either frozen Tamil blob changes because of a genuine source-supported correc
 
 | # | Tamil title | English file | Translation status | Gates |
 |---:|---|---|---|---|
-| 1 | `திராவிட சம்பத்து` | [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) | **voice-reviewed / T4-audited** | **T0 PASS; T1 PASS; T2 PASS; T3 PASS; T4 PASS; T5 next** |
-| 2 | `ஐயர் அறிவிக்கிறார்!` | `translations/en/02-aiyar-arivikkirar.md` | **not-started** | **T0 PASS** |
+| 1 | `திராவிட சம்பத்து` | [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) | **verified** | **T0–T5 PASS** |
+| 2 | `ஐயர் அறிவிக்கிறார்!` | `translations/en/02-aiyar-arivikkirar.md` | **not-started** | **T0 PASS; T1 next** |
 
-Article 1 English title: **Dravidian Wealth** — **T4 established; T5 verification pending**.
+Article 1 English title: **Dravidian Wealth — VERIFIED**.
 
-## Article 1 gate history
+## Article 1 final gate history
 
 - frozen Tamil authority: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
 - T1 baseline English blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
 - T2 fidelity-reviewed English blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`
 - T3 voice-reviewed English blob: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
 - T4 terminology/source-audited English blob: `961ca3f724238ed699dba2607fa2d1be681f0ec4`
+- T5 final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
 
-T2 secured paragraph/clause fidelity, source labels and all damage boundaries. T3 made **17 meaning-neutral voice/cadence interventions** to restore directness, sarcasm, mockery, abrupt transitions, rhetorical challenge and the monkey/tail/poison imagery without changing T2-secured meaning.
-
-T4 then audited title, recurring ideological vocabulary, names/source labels, mock epithets, source-bearing transliterations, quotations, metadata, source-page comments and damage comments. It made **1 source-audit body correction**:
-
-- source `மித் (Myth)` is preserved as **`mit (Myth)`**, not flattened to `myth (Myth)`.
-
-T4 confirmed:
-
-- source-page comments for scans **5, 6, 13, 14, 15, 16**: **6 / 6 PASS**;
-- scan-15 damage boundaries: **2 / 2 PASS**;
-- scan-16 damage boundaries: **2 / 2 PASS**;
-- quotation boundaries: **PASS**;
-- hidden torn wording reconstructed: **0**;
-- frozen Tamil body changes: **0**;
-- unresolved T4 blockers: **0**.
+T5 re-confirmed complete surviving Article 1 coverage, title and metadata, source-page comments **6 / 6**, quotation boundaries, scan-15 damage boundaries **2 / 2**, scan-16 damage boundaries **2 / 2**, T4-established terminology/source-bearing forms, hidden torn wording reconstructed **0**, frozen Tamil changes **0**, publisher/front/back matter imported **0**, and unresolved T5 blockers **0**. T5 body corrections: **0**.
 
 ## Publication-specific translation constraints
 
@@ -77,29 +64,11 @@ T4 confirmed:
 7. Scan-3 frozen `அயம்` remains damaged/ambiguous for Article 2 and may not be silently repaired.
 8. Publisher foreword `மன்றத்தில்`, publisher note `முக்கிய குறிப்பு` and scan-4 advertisements remain outside both article translations.
 
-## Article 1 terminology/source state after T4
+## Article 1 verified terminology/source state
 
-T4 established the following Article 1 forms for T5 verification:
+Article 1 T4-established forms were re-confirmed by T5, including **Dravidian Wealth**, **Dravidam**, **Dravidians**, **Dravidian**, **Dravida Nadu**, **Ananda Vikatan**, **Vikatanar**, **Vikatar**, **Mahishasura Mardini**, **Comedy Monkey**, **Aryan Anjaneyar**, **racial hatred**, **attachment to one's race**, **racial clarion call**, **wedge-meddling monkey**, **cuckoos of the garbage heap**, source-bearing **mit (Myth)**, and frozen anomalous `பேச்சுல` → **pechchul**.
 
-- `திராவிடம்` → **Dravidam**;
-- `திராவிடர்` → **Dravidians**;
-- adjectival `திராவிட` → **Dravidian**;
-- `திராவிட சம்பத்து` → **Dravidian Wealth**;
-- `திராவிட நாடு` → **Dravida Nadu**;
-- `ஆனந்த விகடன்` / `ஆனந்தவிகடன்` → **Ananda Vikatan**;
-- `விகடனார்` → **Vikatanar**;
-- `விகடர்` / `விகடரே` / `ஆனந்தவிகடர்` → **Vikatar** / **Vikatar!** / **Ananda Vikatar**;
-- `மகிஷாசுரமர்த்தனி` → **Mahishasura Mardini**;
-- `நகைச்சுவை குரங்கார்` → **Comedy Monkey**;
-- `ஆரிய ஆஞ்சநேயர்` → **Aryan Anjaneyar**;
-- `இனவெறி` / `இனப்பற்று` → **racial hatred** / **attachment to one's race**;
-- `இனமுழக்கம்` → **racial clarion call**;
-- `ஆப்பசைத்த குரங்கு` → **wedge-meddling monkey**;
-- `குப்பை மேட்டுக் குயில்கள்` → **cuckoos of the garbage heap**;
-- `மித் (Myth)` → **mit (Myth)**;
-- frozen anomalous `பேச்சுல` → source-bearing **pechchul**, explicitly not repaired from the alternate scan reading.
-
-Do not alter an established T4 form during T5 merely for stylistic preference. Reopen only for a concrete verification defect.
+These Article 1 forms are verified and should not be altered for stylistic preference unless a concrete source-supported defect reopens the article.
 
 ## Gate sequence
 
@@ -108,14 +77,14 @@ Do not alter an established T4 form during T5 merely for stylistic preference. R
 - **T2** — **1 / 2 PASS**
 - **T3** — **1 / 2 PASS**
 - **T4** — **1 / 2 PASS**
-- **T5** — **0 / 2**
+- **T5** — **1 / 2 PASS**
 - **E6** — NOT STARTED
 - **E7** — NOT STARTED
 
 ## Exact next activity
 
-Execute **Article 1 T5 — final article verification** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T4 English blob `961ca3f724238ed699dba2607fa2d1be681f0ec4`.
+Execute **Article 2 T1 — complete close English draft for `ஐயர் அறிவிக்கிறார்!` only** from frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
-Re-confirm T1–T4 provenance, complete Article 1 coverage, title, metadata, source-page comments, quotation boundaries, all four damage boundaries, T4-established terminology/source-bearing forms, absence of hidden reconstruction and exclusion of publisher/front/back matter. Make only corrections required by a concrete verification defect.
+Create `translations/en/02-aiyar-arivikkirar.md`, translate every surviving Tamil paragraph in source order, preserve source-page comments for scans **12 and 3**, preserve frozen damaged/ambiguous `அயம்` without guessed repair, retain source-form distinctions such as `ஐயர்` / `அய்யர்`, keep quotation/inscription wording source-sensitive, and update the lexicon/review ledger only for terms actually encountered.
 
-If all checks pass, set `translation_status: verified`, record the final English blob, update all project records, and stop after T5. **Do not begin Article 2 T1 in the same activity.**
+**Stop after Article 2 T1. Do not perform Article 2 T2 in the same activity.**
