@@ -87,7 +87,7 @@ Combined source audit: [`audit.md`](audit.md).
 - T2 fidelity-reviewed: **1 / 2**
 - T3 voice-reviewed: **1 / 2**
 - T4 audited: **1 / 2**
-- T5 verified: **0 / 2**
+- T5 verified: **1 / 2**
 - English article bodies created: **1 / 2**
 - English translation blockers: **0**
 
@@ -97,27 +97,26 @@ English workspace:
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
-- [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) — Article 1 T4 terminology/source-audited
+- [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) — **Article 1 VERIFIED**
 
-Article 1 English title: **Dravidian Wealth** — **T4 established; T5 verification pending**.
+## Article 1 — verified English boundary
 
+- English title: **Dravidian Wealth — VERIFIED**
 - frozen Tamil authority: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
 - T1 baseline blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
 - T2 fidelity-reviewed blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`
 - T3 voice-reviewed blob: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
 - T4 terminology/source-audited blob: `961ca3f724238ed699dba2607fa2d1be681f0ec4`
-- metadata status: `voice-reviewed` — `verified` is reserved for T5
+- T5 final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
+- metadata status: `verified`
+- T5 body corrections: **0**
 
-Article 1 T4 audited the title, recurring ideological vocabulary, publication/personified source-name forms, mock epithets, source-bearing transliterations, quotation scope, metadata, all six source-page comments and all four scan-15/16 damage boundaries.
-
-T4 made **1 source-audit body correction**: frozen quote `மித் (Myth)` is now preserved in English as **`mit (Myth)`** rather than flattened to `myth (Myth)`. Frozen anomalous scan-16 `பேச்சுல` is T4-established as source-bearing **pechchul**, not repaired from the alternate scan reading.
-
-T4 result: quotation/source comments **PASS**; hidden torn wording reconstructed **0**; frozen Tamil changes **0**; unresolved T4 blockers **0**.
+T5 re-confirmed complete surviving Article 1 coverage, title/metadata, source-page comments **6 / 6**, quotation boundaries, scan-15 damage boundaries **2 / 2**, scan-16 damage boundaries **2 / 2**, all T4-established terminology/source-bearing forms, hidden torn wording reconstructed **0**, frozen Tamil changes **0**, publisher/front/back matter imported **0**, and unresolved blockers **0**.
 
 ## Exact next activity
 
-Execute **Article 1 T5 — final article verification** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T4 English blob `961ca3f724238ed699dba2607fa2d1be681f0ec4`.
+Execute **Article 2 T1 — complete close English draft for `ஐயர் அறிவிக்கிறார்!` only** from frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
-Re-confirm T1–T4 provenance, article completeness, title, metadata, all source-page comments, quotation boundaries, all four damage boundaries, T4-established terminology/source-bearing forms, absence of hidden reconstruction and exclusion of publisher/front/back matter. If all checks pass, set `translation_status: verified`, record the final English blob and synchronize all project records.
+Create `translations/en/02-aiyar-arivikkirar.md`, translate every surviving Tamil paragraph in source order, preserve source-page comments for scans **12 and 3**, preserve frozen damaged/ambiguous `அயம்` without guessed repair, retain source-form distinctions such as `ஐயர்` / `அய்யர்`, and keep quotation/inscription wording source-sensitive.
 
-Do **not** begin Article 2 T1 in the same activity, and do **not** reopen the frozen Tamil bodies absent a genuine source-supported correction.
+**Stop after Article 2 T1. Do not perform Article 2 T2 in the same activity, and do not reopen the frozen Tamil bodies absent a genuine source-supported correction.**
