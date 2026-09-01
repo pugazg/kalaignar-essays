@@ -84,7 +84,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - T0 setup: **PASS**
 - T1 drafts: **6 / 10**
 - T2 fidelity-reviewed: **6 / 10**
-- T3 voice-reviewed: **5 / 10**
+- T3 voice-reviewed: **6 / 10**
 - T4 audited: **5 / 10**
 - T5 verified: **5 / 10**
 - E6: **NOT STARTED**
@@ -150,7 +150,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - outside historical identification, web wording, alternate scan ordering or source-normalising repair imported: **none**
 - blockers: **0**
 
-## Article 6 — `3, 57, 90.` — T1–T2 COMPLETE / FIDELITY-REVIEWED
+## Article 6 — `3, 57, 90.` — T1–T3 COMPLETE / VOICE-REVIEWED
 
 - English title: **3, 57, 90.**
 - frozen Tamil: `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8`
@@ -158,44 +158,44 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - printed pages: **33–37; scan 33 has no visible printed numeral**
 - English file: `publications/unarchchimaalai/translations/en/06-3-57-90.md`
 - T1 draft English: `03b33ab1aaa042266eb34163e688e415baa47be9`
-- T2 fidelity-reviewed English: **`9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`**
+- T2 fidelity-reviewed English: `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`
+- T3 voice-reviewed English: **`1332512bbffdd618078813444c2cf24ebcea07ff`**
 - T2 fidelity corrections: **5**
-- complete paragraph/clause coverage: **T2 PASS**
-- all scan comments 33–38: **T2 PASS / preserved**
-- corrected scan-33/34 physical boundary: **T2 PASS**
-- seven opening hostile quotations: **T2 PASS**
-- scan-35→36 quoted college statement: **T2 PASS / one quotation across boundary**
-- scan-36→37 percentage continuation: **T2 PASS**
-- scan-37→38 `Sir` / `Ramasamis` continuation: **T2 PASS**
-- all explicit dates/numbers/percentages and final `3, 57, 90.`: **T2 PASS**
-- `சூதர்களை`: **T2 corrected from `cheats` to `gamblers`**
-- `திராவிடக் கும்பல்`: **T2 corrected from `Dravidian crowd` to `Dravidian gang`**
-- `வயிற்றெரிச்சலோடு`: **T2 corrected from abstract `burning anguish` to `with our stomachs burning`**
-- frozen scan-38 `இழத்துக்`: **T2 clarified as `Sir` / `Ramasamis and Shanmugams; having lost them...`, preserving both the frozen token and scan-37→38 name boundary without lexical repair**
-- final `கண்ணிருந்தும்...விலக நேர்ந்தாலும்` clause: **T2 reordered in English so blindness/savagery and leaving relation follow frozen Tamil**
-- source-bearing terminology retained: `communalism`, `communal representation`, `Aryanism`, `Dravidian Vibhishanas`, `Brahmin` vs `Parppanar`, `Harijan`, `Adi-Dravidians`, `Devasthanam Committee`, `gurukulam`, `sacred thread`, `Dravidian racial feeling`
-- source-bearing unresolved forms retained through T2: `kabothi`, `sodha`, `othiya`, `mathith thalaivar`, `Vediyars`, `pira Prahaladas`
-- frozen scan-33 `எழுதினான்`: **T2 PASS / scan alternate not imported**
-- frozen scan-35 `சம்மாதிக்காத`: **T2 PASS / contextual English retained; scan alternate not imported**
-- frozen scan-37 `பிரிதிநிதித்துவத்தை`: **T2 PASS / no silent Tamil correction**
-- frozen scan-38 `பிர பிரஹலாதர்களாக`, `வேண்டியுளது`, `ஒரியண்டல்`: **T2 PASS / no outside or scan-alternate repair**
+- T3 meaning-neutral voice/cadence interventions: **10**
+- complete paragraph/clause coverage: **T3 PASS**
+- all scan comments 33–38: **T3 PASS / preserved**
+- corrected scan-33/34 physical boundary: **T3 PASS**
+- seven opening hostile quotations: **T3 PASS**
+- scan-35→36 quoted college statement: **T3 PASS / wording and quotation scope preserved**
+- scan-36→37 percentage continuation: **T3 PASS**
+- scan-37→38 `Sir` / `Ramasamis` continuation: **T3 PASS**
+- all explicit dates/numbers/percentages and final `3, 57, 90.`: **T3 PASS**
+- T3 tightened the opening challenge, repeated-demand cadence, sacrificial-altar exclamation, demographic accumulation, sarcastic `இந்த அழகில்`, pleading address to the 57, strength-seeking sentence, Anjaneya/Sugriva comparison and final challenge without changing T2 meaning
+- `சூதர்களை` → `gamblers`, `திராவிடக் கும்பல்` → `Dravidian gang`, `வயிற்றெரிச்சலோடு` → `with our stomachs burning`: **T2 corrections preserved at T3**
+- frozen scan-38 `இழத்துக்`: **T3 preserved as `Sir` / `Ramasamis and Shanmugams; having lost them...`, with page boundary intact and no lexical repair**
+- source-bearing terminology retained through T3: `communalism`, `communal representation`, `Aryanism`, `Dravidian Vibhishanas`, `Brahmin` vs `Parppanar`, `Harijan`, `Adi-Dravidians`, `Devasthanam Committee`, `gurukulam`, `sacred thread`, `Dravidian racial feeling`
+- source-bearing forms retained through T3: `kabothi`, `sodha`, `othiya`, `mathith thalaivar`, `Vediyars`, `pira Prahaladas`
+- frozen scan-33 `எழுதினான்`: **T3 PASS / scan alternate not imported**
+- frozen scan-35 `சம்மாதிக்காத`: **T3 PASS / contextual English retained; scan alternate not imported**
+- frozen scan-37 `பிரிதிநிதித்துவத்தை`: **T3 PASS / no silent Tamil correction**
+- frozen scan-38 `பிர பிரஹலாதர்களாக`, `வேண்டியுளது`, `ஒரியண்டல்`: **T3 PASS / no outside or scan-alternate repair**
 - frozen scan-38 `ஒரியண்டல்`: **`Oriyantal College`, deliberately distinct from earlier `ஓரியண்டல்` → `Oriental College`**
 - outside/web historical wording, alternate scan lexical forms or external reconstruction imported: **none**
-- T2 blockers: **0**
+- T3 blockers: **0**
 
-Article 6 remains downstream of T3–T5. Do not begin Article 7 until Article 6 reaches T5.
+Article 6 remains downstream of T4–T5. Do not begin Article 7 until Article 6 reaches T5.
 
 ---
 
 # Exact next activity
 
-Execute **Article 6 T3 — Kalaignar voice review** for `3, 57, 90.` against:
+Execute **Article 6 T4 — terminology / quotation / citation / source audit** for `3, 57, 90.` against:
 
 - frozen Tamil blob: `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8`
-- T2 English blob: `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`
+- T3 English blob: `1332512bbffdd618078813444c2cf24ebcea07ff`
 - source scans: **33–38**
 
-T3 must preserve every T2 meaning/source decision while reviewing the English as English for Kalaignar's cadence, directness, insult force, repetition, sarcasm, rhetorical exclamations and accumulative movement. Review especially the seven opening attacks, `Poison tree of communalism`, repeated communal-representation demand, Aryanism/sacrificial-altar passage, long scan-35→36 college quotation, percentage accumulation, sarcastic `இந்த அழகில்`, the pleading address to the 57, Anjaneya/Sugriva comparison, final direct challenge and repeated `3, 57, 90.`. Preserve all six scan comments, the corrected scan-33/34 boundary, every cross-page continuation, and all T2-reviewed source-bearing terms/forms. Do not import alternate scan readings, outside identifications, web wording or source-normalising repair. Record only meaning-neutral T3 interventions. If the voice pass succeeds, advance Article 6 only to `translation_status: voice-reviewed`, synchronize the English tracker/review/plan/lexicon/handover, and **stop before Article 6 T4**.
+T4 must audit every Article 6 terminology/proper-name/source-bearing decision, all seven opening quotation boundaries, the two scan-34 hostile quotations, the scan-35→36 quoted college statement, source title `Mail`, date `29-5-48`, all numbers/percentages, all six scan comments and cross-page witnesses, and the quoted `inner voice`. Reconfirm the `Brahmin` vs `Parppanar` distinction, earlier `Oriental College` vs final source-sensitive `Oriyantal College`, and frozen source forms `எழுதினான்`, `சம்மாதிக்காத`, `பிரிதிநிதித்துவத்தை`, `இழத்துக்`, `பிர பிரஹலாதர்களாக`, `வேண்டியுளது`, `ஒரியண்டல்`. Preserve all T2-reviewed/T3-preserved source-bearing forms including `kabothi`, `sodha`, `othiya`, `mathith thalaivar`, `Vediyars`, `Dravidian Vibhishanas`, and `pira Prahaladas`. Do not import alternate scan readings, outside identifications, web wording or source-normalising repair. Record every T4 correction. Article 6 must remain `translation_status: voice-reviewed` through T4, synchronize the English tracker/review/plan/lexicon/handover, and **stop before Article 6 T5**.
 
 ## Current blockers
 
