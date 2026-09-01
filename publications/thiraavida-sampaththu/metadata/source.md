@@ -14,18 +14,18 @@
 
 - cover title: `திராவிட சம்பத்து`
 - cover author: `கலைஞர் மு. கருணாநிதி`
-- seller: `பாரி நிலையம்`, `59, பிராட்வே`, `சென்னை -1`
+- seller: `பாரி நிலையம்`, `59, பிராட்வே`, `சென்னை-1`
 - edition statement: `முதல பதிப்பு`
 - date: `செப்டம்பர் 1951`
 - price: `விலை அணா மூன்று`
 - publisher: `அறிவு மன்றம்`, `சென்னை-1`
-- printer: `அன்பன் அச்சகம், சென்னை -1.`
+- printer: `அன்பன் அச்சகம், சென்னை-1.`
 
 ## User-established lexical baseline
 
-The user supplied a transcription and explicitly instructed that its **words be used as the lexical baseline**. The scan is used to correct structure, punctuation, spacing, headings, paragraph boundaries, logical reading order and other non-lexical features.
+The user supplied a transcription and explicitly instructed that its **words be used as the lexical baseline**. The scan controls structure, punctuation, quotation marks, spacing, headings, paragraph boundaries, logical reading order, page/article boundaries and other non-lexical features.
 
-Text physically lost because the paper is torn away is **not reconstructed from context**. Any clear source-visible omission from the supplied transcription may be restored only as a documented source recovery. Any lexical disagreement between the supplied baseline and the visible scan is retained for later explicit review rather than silently changed.
+Text physically lost because the paper is torn away is **not reconstructed from context**. Any clear source-visible omission from the supplied transcription may be restored only as a documented source recovery. Any lexical disagreement between the supplied baseline and the visible scan is documented rather than silently changed.
 
 ## Source-order / imposition condition
 
@@ -76,22 +76,43 @@ Hidden/lost text under absent paper is never supplied from sentence meaning.
 - P2: **16 / 16 COMPLETE**
 - P3 article assemblies: **COMPLETE — 2 / 2**
 - P4 source/completeness audit: **PASS**
-- P5 strict visual word/punctuation fidelity: **NOT STARTED**
+- P5 strict visual word/punctuation fidelity: **16 / 16 PASS**
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - English translation: **NOT STARTED**
 
-P3 assemblies:
+Final strict-reviewed Tamil assemblies:
 
-- `../articles/01-thiraavida-sampaththu.md` — scans 5–6, 13–16 — blob `43c1123a0bdb14dc20dc351a581b1e46c9df04fa`;
-- `../articles/02-aiyar-arivikkirar.md` — scans 12, 3 — blob `357b7c7f7431b33e9c465956227337631550e2c1`.
+- `../articles/01-thiraavida-sampaththu.md` — scans 5–6, 13–16 — blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`;
+- `../articles/02-aiyar-arivikkirar.md` — scans 12, 3 — blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
-P4 confirmed every physical scan is accounted for exactly once in reconstructed reading order, both article assemblies agree with their verified page records, publisher matter and advertisements remain outside the article bodies, and no surviving user-baseline lexical token was silently replaced. Physical source loss remains explicitly documented rather than reconstructed.
+These are the frozen English-translation authorities.
 
-One clear structural/source recovery made during P2 remains durable: scan 16 visibly begins the surviving continuation with `மொழி.` after scan 15 ends `திராவிடம், திராவிட`; this visible token is retained as a documented missing-text recovery from the supplied transcription. No text beneath torn-away paper was reconstructed.
+## P5 fidelity closure
 
-A provisional lexical-witness conflict is also recorded on scan 4: the supplied baseline reads `ரூசோ` for the promoted title; the scan appears to show a different title. Under the user's rule the supplied word remains unchanged pending P5's explicit lexical-conflict ledger.
+P5 directly rechecked all **16 physical scans** and propagated source-supported structure/punctuation/spacing/layout corrections without silently replacing user-baseline lexical words.
 
-Detailed P4 record: [`../audit.md`](../audit.md).
+Documented lexical-witness conflicts retained:
+
+- scan 3 `கல்லுரி` vs scan-appearing `கல்லூரி`;
+- scan 4 promoted title `ரூசோ` vs scan-visible `ஜூலி`;
+- scan 5 `கண்னை` vs scan-appearing `கண்ணை`;
+- scan 16 `பேச்சுல` vs scan-appearing `பேச்சை`.
+
+Scan 3 `அயம்` remains a damaged/ambiguous supplied reading and is not silently normalised.
+
+Documented source-visible recoveries:
+
+- scan 16 `மொழி.` — earlier recovery retained after scan 15 `...திராவிடம், திராவிட`;
+- scan 15 `கிரேக்க மொழி` — P5 restored directly visible omitted `ழி` from supplied `கிரேக்க மொ`.
+
+No text beneath torn-away paper was reconstructed.
+
+Detailed records:
+
+- [`../audit.md`](../audit.md)
+- [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md)
+- [`../PUBLICATION_COMPLETION_REVIEW.md`](../PUBLICATION_COMPLETION_REVIEW.md)
 
 ## Exact next gate
 
-Execute **P5 — strict visual text-fidelity review across all 16 physical scans**. P5 must preserve the user-supplied lexical baseline, record scan/transcription lexical conflicts instead of silently correcting them, preserve torn-away gaps without reconstruction, propagate permitted structural/punctuation/spacing/layout corrections, and create the fidelity/completion records. Do not begin English translation during the P5 activity.
+Execute **E0 — English translation planning/setup** from the two frozen strict-reviewed Tamil blobs. Create the publication translation plan, English tracker, living lexicon and translation-review ledger. Do not reopen frozen Tamil bodies for stylistic polishing or lexical conventionalisation.
