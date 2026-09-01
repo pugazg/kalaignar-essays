@@ -85,7 +85,7 @@ to cherish and protec—
 
 <!-- SOURCE DAMAGE: torn continuation; no missing words reconstructed. -->
 
-...a great treasure  
+...a great treasure worthy...  
 that alone is the meaning."
 
 This is the course Vikatan's explanation takes! The man who denied the Dravidian race—who said that no such race ever existed—has accepted the Dravidian language and has also accepted the region where it was spoken.
