@@ -17,6 +17,18 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - unresolved Tamil/body blockers: **0**
 - publication-specific lexical rule: Gemini word tokens remain frozen where supplied; documented scan/Gemini conflicts are not silently normalised.
 
+## Publication English gates
+
+- T0: **PASS**
+- T1: **10 / 10**
+- T2: **10 / 10**
+- T3: **10 / 10**
+- T4: **10 / 10**
+- T5: **10 / 10**
+- E6 publication-wide consistency review: **COMPLETE / PASS**
+- E7 English release closeout: **NOT STARTED**
+- blockers: **0**
+
 ## Frozen Tamil authorities
 
 | # | Tamil title | Scans | Blob SHA |
@@ -45,9 +57,9 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 | 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 8 | பத்தினியே உன்போல்...! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 9 | அன்னை நாகம்மையார்! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
+| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 
-## Verified baseline
+## Verified baseline — unchanged by E6
 
 Articles 1–10 are individually T5-verified. Their final English blobs are:
 
@@ -75,32 +87,44 @@ Articles 1–10 are individually T5-verified. Their final English blobs are:
 - T4-audited English candidate: `c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`
 - final T5-verified English: **`cee8ea3c33495615ffc988a1875d71e40f8224a3`**
 - T2 fidelity corrections: **4**
-  1. `நீ போய்விட்டாய்` — `You are gone` → **`You have gone`**.
-  2. `பாழலைகள்` — `desolate waves` → **`ruinous waves`**, retaining destructive force.
-  3. `பணத்தினில் பிறந்து பணத்தினில் வளர்ந்தும்` — restored concessive **`Though born in money and raised in money`**.
-  4. `மக்களெல்லாம் விழித்தெழுதல் / இதுகாண்டல்` — restored the source action/sight relation as **`All the people / who drank Aryan liquor awakening and rising— / to see this...`**.
 - T3 meaning-neutral voice/cadence interventions: **12**
-- T4 body corrections: **1** — scan-49 `பார்க்காமல் மறைந்து` T3 `you hide away without watching—` → **`you hid away without watching—`**, restoring the source past/dependent action relation.
+- T4 body corrections: **1**
 - T5 body corrections: **0**
-- title/subtitle, source comments, verse lineation, questions/exclamations/repetition and `* * *`: **T5 PASS**
-- source labels/images including `Selvam`, `Periyar`, `Panneer Selvam`, `Pandiyan moustache`, `Aryanism`, `dwarf-jackal Aryanism`, `Parppaniyam`, `Tiruvitaththar`, `proletarian character`, `Oman Sea`, `golden Dravidian land`, `Aryan liquor`: **T5 PASS**
-- `பஞ்சைகள்` → `paupers`: **T5 PASS in immediate frozen context**
 - frozen scan-48 `ப்ழச்சளை`: **retained verbatim / no repair**
 - frozen scan-49 `விட்டாய்.`: **`You left.` retained at the frozen source position**
 - scan-49 publication-source note/printer imprint and scan-50 advertisement: **excluded / outside Article 10**
-- outside/web identification, alternate scan reading or published translation imported: **No**
 - blockers: **0**
+
+## E6 — publication-wide English consistency review — COMPLETE / PASS
+
+E6 systematically rechecked all ten article translations as one publication.
+
+- recurring names/epithets: **PASS**;
+- epic-name/source-form conventions: **PASS with deliberate exceptions preserved**;
+- `Aryan` / `Aryanism` and `Dravidam` / `Dravidian` / `Dravidians`: **PASS**;
+- `Brahmin` / source-bearing `Parppanar` forms / `Vediyars` / `Vaidheegam` family: **PASS with source-term distinctions preserved**;
+- recurring source-bearing transliterations, puns and insults: **PASS**;
+- source/publication titles and citation treatment: **PASS**;
+- quotation boundaries and quoted-passage treatment: **PASS**;
+- English title style: **PASS**;
+- tone, directness, sarcasm, ridicule, commands, rhetorical questions, exclamations and repetition: **PASS**;
+- accidental smoothing/harmonisation/modernisation/academic distancing: **none requiring correction**;
+- completeness and retained page-boundary comments: **10 / 10 PASS**;
+- durable source anomalies and exclusions: **PASS**.
+
+E6 made **0 English body corrections**, changed **0 article blob SHAs**, changed **0 frozen Tamil authorities**, and reopened **no source/fidelity gates**. Deliberate contextual/source-witness exceptions are recorded in `translations/en/LEXICON.md` and `translations/en/TRANSLATION_REVIEW.md` rather than mechanically harmonised.
 
 ## Publication-specific cautions
 
-1. Translate only from frozen Tamil assemblies.
+1. Translate/review only from frozen Tamil assemblies.
 2. Preserve documented P5 scan/Gemini lexical conflicts; never silently substitute alternate scan wording.
 3. Article 10 verse lineation is structural source authority.
 4. Article 10 excludes scan-49 publication-close matter and scan-50 advertisement.
 5. Do not silently repair Article 10 `ப்ழச்சளை`.
 6. Preserve frozen scan-49 `விட்டாய்.` placement.
 7. Preserve questions, exclamations, repetition, direct address and page-boundary comments.
+8. Preserve E6-recorded contextual/source-witness exceptions; consistency does not mean homogenisation.
 
 ## Exact next activity
 
-Execute **E6 — publication-wide English consistency review** across all ten individually T5-verified articles. Audit recurring names and epithets, Aryan/Dravidian and other ideological vocabulary, source-bearing terms/puns, source/publication titles, quotation treatment, title style, tone consistency, accidental smoothing, completeness and durable source anomalies. Record any consistency correction or deliberate contextual exception, synchronize the lexicon/review/tracker/plan/handover, and **do not begin E7 in the same activity**.
+Execute **E7 — English release closeout**. Use the E6-passed article baselines and canonical lexicon/review records; do not reopen individual article bodies unless a genuine release-blocking or source-supported defect is found.
