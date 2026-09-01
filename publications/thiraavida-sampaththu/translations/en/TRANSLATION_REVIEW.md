@@ -31,14 +31,15 @@ The Tamil archival layer is **COMPLETE / STRICT-REVIEWED / FROZEN** after P5 **1
 - T2 bilingual fidelity review: **COMPLETE / PASS**
 - T3 Kalaignar voice review: **COMPLETE / PASS**
 - T4 terminology / quotation / citation / source audit: **COMPLETE / PASS**
-- T5 verification: **NOT STARTED**
-- English title: **Dravidian Wealth** — T4 established; T5 verification pending
+- T5 verification: **COMPLETE / PASS**
+- English title: **Dravidian Wealth** — **VERIFIED**
 - source Tamil blob: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
 - T1 baseline English blob entering T2: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
 - T2 fidelity-reviewed English blob entering T3: `155299ac2b71b0aaba431f63d3c882191a3c710b`
 - T3 voice-reviewed English blob entering T4: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
-- T4 source-audited English blob: `961ca3f724238ed699dba2607fa2d1be681f0ec4`
-- English metadata status: `voice-reviewed` — `verified` is reserved for T5
+- T4 source-audited English blob entering T5: `961ca3f724238ed699dba2607fa2d1be681f0ec4`
+- final T5 verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
+- English metadata status: `verified`
 
 ### Article 1 T2 review scope
 
@@ -157,6 +158,34 @@ T4 established the Article 1 forms recorded in `LEXICON.md`, including:
 
 **ARTICLE 1 T4 TERMINOLOGY / QUOTATION / CITATION / SOURCE AUDIT: PASS.**
 
+### Article 1 T5 final verification
+
+T5 re-fetched and verified the frozen Tamil authority `6e9759aff9bc4801ee66b3b8c76a814be3e98015` against the T4 English authority `961ca3f724238ed699dba2607fa2d1be681f0ec4` and re-confirmed the complete T1→T2→T3→T4 provenance chain.
+
+T5 verified:
+
+- complete surviving Article 1 coverage: **PASS**;
+- title **Dravidian Wealth**: **PASS / VERIFIED**;
+- English metadata source path/blob/scan range: **PASS**;
+- source-page comments for scans **5, 6, 13, 14, 15, 16**: **6 / 6 PASS**;
+- quotation boundaries: **PASS**;
+- scan-15 `SOURCE DAMAGE` boundaries: **2 / 2 PASS**;
+- scan-16 `SOURCE DAMAGE` boundaries: **2 / 2 PASS**;
+- T4-established terminology/source-bearing forms: **PASS**;
+- `mit (Myth)`: **PASS**;
+- frozen anomalous `பேச்சுல` → `pechchul`: **PASS / source-bearing / unrepaired**;
+- hidden torn wording reconstructed: **0**;
+- frozen Tamil changes during T5: **0**;
+- publisher/front/back matter imported: **0**;
+- T5 English body corrections: **0**;
+- unresolved T5 blockers: **0**.
+
+T5 changed only English metadata/status from `voice-reviewed` to `verified` and recorded the final verification method; the article body is byte-for-byte the T4-audited body.
+
+Final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`.
+
+**ARTICLE 1 T5 FINAL VERIFICATION: PASS / VERIFIED.**
+
 ## Article 2 — `ஐயர் அறிவிக்கிறார்!`
 
 - T0 source prerequisite: **PASS**
@@ -176,15 +205,15 @@ T4 established the Article 1 forms recorded in `LEXICON.md`, including:
 - T2: **1 / 2 COMPLETE**
 - T3: **1 / 2 COMPLETE**
 - T4: **1 / 2 COMPLETE**
-- T5: **0 / 2**
+- T5: **1 / 2 COMPLETE**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - translation blockers: **0**
 
 ## Exact next activity
 
-Execute **Article 1 T5 — final article verification** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T4 English blob `961ca3f724238ed699dba2607fa2d1be681f0ec4`.
+Execute **Article 2 T1 — complete close English draft for `ஐயர் அறிவிக்கிறார்!` only** from frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
-Re-confirm T1–T4 provenance, article completeness, title, metadata, every source-page comment, all quotation boundaries, all four damage boundaries, established terminology/source-bearing forms and absence of hidden reconstruction or imported publisher matter. Make only corrections required by a concrete verification defect. If all checks pass, set `translation_status: verified`, record the final English blob, synchronize project records, and stop after Article 1 T5.
+Create `translations/en/02-aiyar-arivikkirar.md`, translate every surviving Tamil paragraph in source order, retain source-page comments for scans **12 and 3**, preserve damaged/ambiguous frozen `அயம்` without guessed repair, preserve source-form distinctions such as `ஐயர்` / `அய்யர்`, and keep quotation/inscription wording source-sensitive. Update the living lexicon and review ledger with only terms actually encountered.
 
-Do **not** begin Article 2 T1 in the same activity.
+Stop after Article 2 T1. **Do not perform Article 2 T2 in the same activity.**
