@@ -151,7 +151,7 @@ Translation/release workspace:
 
 These Tamil and English authorities remain frozen unless a genuine source-supported or release-blocking defect explicitly reopens the affected gate.
 
-## Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 2 T5 PASS
+## Publication 4 — திராவிட சம்பத்து — ACTIVE / E6 PASS
 
 Workspace: [`publications/thiraavida-sampaththu/`](publications/thiraavida-sampaththu/)
 
@@ -196,7 +196,7 @@ P5 documented and retained the publication's source-witness conflicts; all torn-
 - T3 voice-reviewed: **2 / 2 PASS**
 - T4 audited: **2 / 2 PASS**
 - T5 verified: **2 / 2 PASS**
-- E6 publication-wide consistency review: **NOT STARTED**
+- E6 publication-wide consistency review: **PASS**
 - E7 release closeout: **NOT STARTED**
 - English article bodies: **2 / 2**
 - translation blockers: **0**
@@ -207,31 +207,31 @@ Translation workspace:
 - [`translations/en/README.md`](publications/thiraavida-sampaththu/translations/en/README.md)
 - [`translations/en/LEXICON.md`](publications/thiraavida-sampaththu/translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/thiraavida-sampaththu/translations/en/TRANSLATION_REVIEW.md)
-- [`translations/en/01-thiraavida-sampaththu.md`](publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md) — **Article 1 VERIFIED**
-- [`translations/en/02-aiyar-arivikkirar.md`](publications/thiraavida-sampaththu/translations/en/02-aiyar-arivikkirar.md) — **Article 2 VERIFIED**
+- [`translations/en/01-thiraavida-sampaththu.md`](publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md) — **Article 1 VERIFIED / E6 PASS**
+- [`translations/en/02-aiyar-arivikkirar.md`](publications/thiraavida-sampaththu/translations/en/02-aiyar-arivikkirar.md) — **Article 2 VERIFIED / E6 PASS**
 
-Article 1 English title: **Dravidian Wealth — VERIFIED**.  
-Article 2 English title: **Iyer Announces! — VERIFIED**.
+Verified English authorities:
 
-Article 2 final T5:
+1. **Dravidian Wealth** — `10dca72882043db491fe8c6ad3f858bc4c9c584f`
+2. **Iyer Announces!** — `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
 
-- frozen Tamil blob: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
-- T1 draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
-- T2 fidelity-reviewed blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
-- T3 voice-reviewed blob: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
-- T4 source-audited blob: `9b2795e6c66dea08fdf46fcf7903550001e1a401`
-- final T5 verified blob: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
-- source comments: scans **12, 3 — 2 / 2 present and ordered**
-- `ஐயர்` / `அய்யர்`: **Iyer / Ayyar** distinction retained
-- frozen damaged `அயம்`: source-bearing **ayam**, unrepaired
-- `ஏனோதானோ` / `ஏனோதானோக்கள்`: **Enothano / Enothanos**, source-bearing / no outside identification
-- normal `கல்லூரி`: **College**; frozen `கல்லுரி`: source-bearing **kalluri**
-- narrative `சாமிநாதய்யர்`: **Saminathayyar**; inscription `சாமிநாத அய்யர்`: **Saminatha Ayyar**
-- inscription: source-bearing **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**
-- first-paragraph quotation anomaly: two evident English quoted units formally documented at T4 and re-verified at T5; no missing Tamil punctuation reconstructed
-- T5 English body corrections: **0**
+E6 publication-wide result:
+
+- recurring `Dravidam` / Dravidian terminology: **PASS**
+- Article 1 `Dravidian` vs Article 2 inscription `Dravida`: **PASS / deliberate source-form distinction**
+- source-bearing name/anomaly distinctions: **PASS / preserved**
+- title style: **PASS**
+- quotation handling: **PASS**
+- source-page comments: **8 / 8 total present and ordered**
+- source-anomaly preservation: **PASS**
+- rhetorical consistency: **PASS**
+- accidental cross-article harmonisation: **none found**
+- English body corrections: **0**
+- English metadata corrections: **0**
 - frozen Tamil changes: **0**
-- unresolved T5 blockers: **0**
+- article gates reopened: **No**
+- source/release defects discovered: **0**
+- unresolved E6 blockers: **0**
 
 Detailed Tamil/English records:
 
@@ -240,6 +240,6 @@ Detailed Tamil/English records:
 
 ## Current project state / exact next activity
 
-Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` has a frozen Tamil layer and both English articles are **T5 VERIFIED**.
+Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` has a frozen Tamil layer, both English articles are **T5 VERIFIED**, and **E6 is PASS**.
 
-**Exact next activity:** execute **E6 — publication-wide English consistency review** across the two verified articles. Review recurring terminology, source-bearing name distinctions, title style, quotation treatment, source-page comments, source-anomaly preservation, rhetorical consistency and accidental cross-article harmonisation. Do not alter verified text merely for stylistic preference. Stop after E6; do not perform E7 in the same activity.
+**Exact next activity:** execute **E7 — English release closeout** for `திராவிட சம்பத்து`. Re-confirm the two E6-passed English blobs and frozen Tamil authorities, verify all release records are synchronized and blockers remain zero, then mark the English translation **COMPLETE / RELEASED / FROZEN** if the release gate passes. Stop after E7.
