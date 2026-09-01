@@ -10,7 +10,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - Tamil source/fidelity prerequisite: **PASSED / FROZEN**
 - Tamil articles: **10 / 10 strict-rechecked**
 - T0 source prerequisite/setup: **COMPLETE / PASS**
-- T1 close English drafts: **7 / 10**
+- T1 close English drafts: **8 / 10**
 - T2 fidelity-reviewed: **7 / 10**
 - T3 voice-reviewed: **7 / 10**
 - T4 audited: **7 / 10**
@@ -20,7 +20,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - English translation: **IN PROGRESS**
 - unresolved translation blockers: **0**
 
-Articles 1–7 have completed T0–T5 and are individually `verified`. Article 8 has not started beyond its T0 source prerequisite.
+Articles 1–7 have completed T0–T5 and are individually `verified`. Article 8 has completed T1 and is `draft` pending T2.
 
 ## Frozen Tamil translation authorities
 
@@ -48,7 +48,7 @@ Articles 1–7 have completed T0–T5 and are individually `verified`. Article 8
 | 5 | இங்கல்ல! இரஷ்யாவில் | [`05-ingalla-irashyavil.md`](05-ingalla-irashyavil.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 6 | 3, 57, 90. | [`06-3-57-90.md`](06-3-57-90.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 7 | 30-1-1948 | [`07-30-1-1948.md`](07-30-1-1948.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 8 | பத்தினியே உன்போல்...! | `08-paththiniye-unpol.md` | `not-started` | PASS | — | — | — | — | — |
+| 8 | பத்தினியே உன்போல்...! | [`08-paththiniye-unpol.md`](08-paththiniye-unpol.md) | `draft` | PASS | **PASS** | — | — | — | — |
 | 9 | அன்னை நாகம்மையார்! | `09-annai-nagammaiyar.md` | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `10-kavithaiyalla-kannirkkadal.md` | `not-started` | PASS | — | — | — | — | — |
 
@@ -97,10 +97,26 @@ Articles 1–7 have completed T0–T5 and are individually `verified`. Article 8
 - outside historical identification, alternate scan wording, web wording or published translation imported: **No**
 - blockers: **0**
 
+## Article 8 T1 record
+
+- Tamil title: **பத்தினியே உன்போல்...!**
+- English title: **O Chaste Woman, Like You...!**
+- frozen Tamil authority: `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`
+- source scans: **42–44**
+- printed pages: **42–43; scan 42 has no visible printed numeral**
+- T1 draft English: **`af9c82ea95b65bc7e632ddf45ab1754217bffc39`**
+- complete paragraph/clause coverage: **T1 PASS**
+- all source comments 42–44 and scan-43→44 quotation continuation: **PASS**
+- scan-42 source-recovered `பதில் இல்லை.`: **represented as `No answer.`**
+- scan-43 `* * *`: **preserved**
+- source-sensitive frozen `அனுக்ரகம்`, `அழ்காக`, `பன் முறை`, `ஓருருவாகிப்`: **not repaired from scan alternatives/outside wording**
+- no outside historical, epic-source or published translation wording imported: **PASS**
+- T1 blockers: **0**
+
 ## Translation authority / special source rule
 
 English authority is the frozen Tamil article assembly, not OCR, memory, web wording or a scan-appearing alternate lexical reading. The publication's documented P5 scan/Gemini disagreements remain upstream provenance only.
 
 ## Exact next activity
 
-Execute **Article 8 T1 — complete close English draft** for `பத்தினியே உன்போல்...!` from frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`, scans **42–44**. Preserve all source-page comments and structural witnesses, including scan-42 source-recovered `பதில் இல்லை.` and scan-43 `* * *`; follow the frozen Tamil assembly rather than scan-appearing alternate lexical forms. Establish Article 8 terminology in `LEXICON.md`, record T1 provenance, update trackers/handover, and **stop before Article 8 T2**.
+Execute **Article 8 T2 — bilingual fidelity review** for `பத்தினியே உன்போல்...!` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` and T1 English blob `af9c82ea95b65bc7e632ddf45ab1754217bffc39`, scans **42–44**. Re-read Tamil and English paragraph by paragraph and clause by clause; verify all dialogue/quotation scopes, rhetorical questions/exclamations, scan-42 source-recovered `பதில் இல்லை.`, scan-43 `* * *`, the scan-43→44 quoted passage, dates/page citation `1937` / page `43`, all epic/source labels and provisional source-sensitive transliterations. Do not import scan-appearing alternate lexical forms, outside epic/history wording or published translations. Advance only to `fidelity-reviewed` if T2 passes, synchronize records, and **stop before Article 8 T3**.
