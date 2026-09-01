@@ -14,13 +14,13 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T2 fidelity-reviewed: **7 / 10**
 - T3 voice-reviewed: **7 / 10**
 - T4 audited: **7 / 10**
-- T5 verified: **6 / 10**
+- T5 verified: **7 / 10**
 - E6 publication consistency review: **NOT STARTED**
 - E7 release closeout: **NOT STARTED**
 - English translation: **IN PROGRESS**
 - unresolved translation blockers: **0**
 
-Articles 1–6 have completed T0–T5 and are individually `verified`. Article 7 has completed T1–T4 and remains `voice-reviewed` pending T5.
+Articles 1–7 have completed T0–T5 and are individually `verified`. Article 8 has not started beyond its T0 source prerequisite.
 
 ## Frozen Tamil translation authorities
 
@@ -47,7 +47,7 @@ Articles 1–6 have completed T0–T5 and are individually `verified`. Article 7
 | 4 | இராவணன் நம் பாட்டன் | [`04-iravanan-nam-pattan.md`](04-iravanan-nam-pattan.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 5 | இங்கல்ல! இரஷ்யாவில் | [`05-ingalla-irashyavil.md`](05-ingalla-irashyavil.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 6 | 3, 57, 90. | [`06-3-57-90.md`](06-3-57-90.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 7 | 30-1-1948 | [`07-30-1-1948.md`](07-30-1-1948.md) | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
+| 7 | 30-1-1948 | [`07-30-1-1948.md`](07-30-1-1948.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 8 | பத்தினியே உன்போல்...! | `08-paththiniye-unpol.md` | `not-started` | PASS | — | — | — | — | — |
 | 9 | அன்னை நாகம்மையார்! | `09-annai-nagammaiyar.md` | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `10-kavithaiyalla-kannirkkadal.md` | `not-started` | PASS | — | — | — | — | — |
@@ -79,30 +79,23 @@ Articles 1–6 have completed T0–T5 and are individually `verified`. Article 7
 - final T5-verified English: **`cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`**
 - blockers: **0**
 
-## Article 7 T1–T4 record
-
-- Tamil / English title: **30-1-1948**
+### Article 7 — 30-1-1948
 - frozen Tamil authority: `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`
 - source scans: **39–41**
 - printed pages: **39–40; scan 39 has no visible printed numeral**
 - T1 draft English: `6e7b49c9f15cb690d439e2bc5665c226bffccd7e`
 - T2 fidelity-reviewed English: `409685e516e32783299130b8205c71638bb8d90d`
 - T3 voice-reviewed English: `b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`
-- T4-audited English candidate: **`1879a5e49c3948bb41ffee15b7c37e6a72149cd5`**
+- T4-audited English candidate: `1879a5e49c3948bb41ffee15b7c37e6a72149cd5`
+- final T5-verified English: **`6cfb28e2d83ba84ee2daa54606561479b61498b0`**
 - T2 fidelity corrections: **5**
 - T3 meaning-neutral voice/cadence interventions: **9**
-- T4 source-audit body corrections: **2 clause-level corrections in one scan-41 sentence** — `became` → `could become` and `ceased` → `could cease`, restoring the frozen `மாறுவதற்கு முன்` / `ஒய்வதற்கு முன்` pending-before relation without implying completed outcomes.
-- all scan comments 39–41 and page continuations: **T4 PASS**
-- opening quotation and bullet-apostrophe quotation boundaries: **T4 PASS**
-- dates `30`, `31`, `30-1-1948`: **T4 PASS**
-- `Gandhiyar`, `the noble Gandhiyar`, `revered Gandhi`, `Mohan Das Gandhi`, `foreign army`, `Dravidam`, `Hindu Mahasabha`, `Sir Selvam`, `Oman Sea`: **T4 PASS**
-- source-sensitive `soga poogam`, `sukkunooraakkam`, `Parppanan` / `Parppanars`, `Vaidheegam`, `Baniya`, `thegiduthatham`, `Parppaniya frenzy`: **T4 PASS / no outside expansion or scan-alternate repair**
-- scan-40 world-weeping line `Why...the whole world itself weeps.`: **T4 PASS / source emphatic continuation retained without creating an unsupported question**
-- frozen scan-39 `ஒடி`, scan-41 `ஒய்வதற்கு`, and final ordering: **T4 PASS / no alternate scan repair**
-- frozen scan-41 ending at `வரலாற்றை வீணாக்கிய`: **T4 PASS / deliberately incomplete `that squandered history—` retained**
+- T4 source-audit body corrections: **2 clause-level corrections in one scan-41 sentence** — `became` → `could become` and `ceased` → `could cease`
+- T5 body corrections: **0**
+- all metadata, paragraphs/clauses, quotation boundaries, dates, scan comments/page continuations and source-bearing terminology: **T5 PASS**
+- frozen scan-39 `ஒடி`, `சோக பூகம்`, `சுக்குநூறாக்கம்`, scan-41 `ஒய்வதற்கு`, final ordering and ending at `வரலாற்றை வீணாக்கிய`: **T5 PASS / no alternate reconstruction**
 - outside historical identification, alternate scan wording, web wording or published translation imported: **No**
-- external citation required: **No**
-- T4 blockers: **0**
+- blockers: **0**
 
 ## Translation authority / special source rule
 
@@ -110,4 +103,4 @@ English authority is the frozen Tamil article assembly, not OCR, memory, web wor
 
 ## Exact next activity
 
-Execute **Article 7 T5 — final article verification** for `30-1-1948` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` and T4-audited English candidate `1879a5e49c3948bb41ffee15b7c37e6a72149cd5`, scans **39–41**. Re-verify the full T1–T4 chain, metadata/source SHA, all paragraph/clause coverage, quotation scopes, dates, scan comments/page continuations, source honorifics and source-bearing terminology, frozen scan-39 `ஒடி` / `சோக பூகம்` / `சுக்குநூறாக்கம்`, scan-41 `ஒய்வதற்கு`, the T4-restored `could become` / `could cease` relation, frozen final ordering and the deliberately incomplete ending at `வரலாற்றை வீணாக்கிய`. Do not import scan-appearing alternate lexical/order readings, outside historical wording, web wording or published translations. If T5 passes, advance Article 7 to `verified`, synchronize records, and **do not begin Article 8 in the same activity**.
+Execute **Article 8 T1 — complete close English draft** for `பத்தினியே உன்போல்...!` from frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`, scans **42–44**. Preserve all source-page comments and structural witnesses, including scan-42 source-recovered `பதில் இல்லை.` and scan-43 `* * *`; follow the frozen Tamil assembly rather than scan-appearing alternate lexical forms. Establish Article 8 terminology in `LEXICON.md`, record T1 provenance, update trackers/handover, and **stop before Article 8 T2**.
