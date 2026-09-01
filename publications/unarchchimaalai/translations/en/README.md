@@ -12,7 +12,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T0 source prerequisite/setup: **COMPLETE / PASS**
 - T1 close English drafts: **7 / 10**
 - T2 fidelity-reviewed: **7 / 10**
-- T3 voice-reviewed: **6 / 10**
+- T3 voice-reviewed: **7 / 10**
 - T4 audited: **6 / 10**
 - T5 verified: **6 / 10**
 - E6 publication consistency review: **NOT STARTED**
@@ -20,7 +20,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - English translation: **IN PROGRESS**
 - unresolved translation blockers: **0**
 
-Articles 1–6 have completed T0–T5 and are individually `verified`. Article 7 has completed T1–T2 and is `fidelity-reviewed` pending T3.
+Articles 1–6 have completed T0–T5 and are individually `verified`. Article 7 has completed T1–T3 and is `voice-reviewed` pending T4.
 
 ## Frozen Tamil translation authorities
 
@@ -47,7 +47,7 @@ Articles 1–6 have completed T0–T5 and are individually `verified`. Article 7
 | 4 | இராவணன் நம் பாட்டன் | [`04-iravanan-nam-pattan.md`](04-iravanan-nam-pattan.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 5 | இங்கல்ல! இரஷ்யாவில் | [`05-ingalla-irashyavil.md`](05-ingalla-irashyavil.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 6 | 3, 57, 90. | [`06-3-57-90.md`](06-3-57-90.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 7 | 30-1-1948 | [`07-30-1-1948.md`](07-30-1-1948.md) | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
+| 7 | 30-1-1948 | [`07-30-1-1948.md`](07-30-1-1948.md) | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
 | 8 | பத்தினியே உன்போல்...! | `08-paththiniye-unpol.md` | `not-started` | PASS | — | — | — | — | — |
 | 9 | அன்னை நாகம்மையார்! | `09-annai-nagammaiyar.md` | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `10-kavithaiyalla-kannirkkadal.md` | `not-started` | PASS | — | — | — | — | — |
@@ -79,33 +79,25 @@ Articles 1–6 have completed T0–T5 and are individually `verified`. Article 7
 - final T5-verified English: **`cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`**
 - blockers: **0**
 
-## Article 7 T1–T2 record
+## Article 7 T1–T3 record
 
 - Tamil / English title: **30-1-1948**
 - frozen Tamil authority: `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`
 - source scans: **39–41**
 - printed pages: **39–40; scan 39 has no visible printed numeral**
 - T1 draft English: `6e7b49c9f15cb690d439e2bc5665c226bffccd7e`
-- T2 fidelity-reviewed English: **`409685e516e32783299130b8205c71638bb8d90d`**
+- T2 fidelity-reviewed English: `409685e516e32783299130b8205c71638bb8d90d`
+- T3 voice-reviewed English: **`b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`**
 - T2 fidelity corrections: **5**
-- complete paragraph/clause coverage: **T2 PASS**
-- all scan comments 39–41 and page continuations: **T2 PASS**
-- frozen scan-39 opening quotation and repeated `shot` mourning rhetoric: **T2 PASS**
-- `வேற்றார்படை`: **T2 corrected to `foreign army`**
-- `மோகன் தாஸ் காந்தி`: **T2 corrected to `Mohan Das Gandhi` / frozen source spacing retained**
-- scan-40 `ஏன்...உலகமே அழுகிறது.`: **T2 corrected to `Why, even the whole world weeps.`**
-- `ஊக்கம்`: **T2 corrected to `zeal`**
-- `அதுவும் தங்களுக்கா ?`: **T2 corrected to `and that too for you?`**
-- source honorific `காந்தியார்`: **`Gandhiyar` / T2 PASS**
-- source-sensitive `சோக பூகம்` / `சுக்குநூறாக்கம்`: **`soga poogam` / `sukkunooraakkam` / T2 PASS; no repair**
-- `பார்ப்பனன்` / `பார்ப்பனர்கள்`: **`Parppanan` / `Parppanars` / T2 PASS**
-- `வைதீகம்`: **`Vaidheegam` / T2 PASS**
-- `திராவிடம்`: **`Dravidam` / Article 2 T5 decision reused**
-- `தெகிடுதத்தம்`: **`thegiduthatham` / T2 PASS**
-- `பாரப்பனீய வெறி`: **`Parppaniya frenzy` / T2 PASS**
-- scan-41 frozen ending at `வரலாற்றை வீணாக்கிய`: **intentionally incomplete `that squandered history—` / T2 PASS**
+- T3 meaning-neutral voice/cadence interventions: **9**
+- all scan comments 39–41 and page continuations: **PASS**
+- repeated `shot` mourning rhetoric and bullet apostrophe: **PASS**
+- T2 `foreign army`, `Mohan Das Gandhi`, `zeal`, `and that too for you?`: **preserved through T3**
+- source-sensitive `soga poogam`, `sukkunooraakkam`, `Gandhiyar`, `Parppanan` / `Parppanars`, `Vaidheegam`, `Baniya`, `thegiduthatham`, `Parppaniya frenzy`: **preserved**
+- frozen scan-39 `ஒடி`, scan-41 `ஒய்வதற்கு` and final ordering: **preserved / no alternate scan repair**
+- frozen scan-41 ending at `வரலாற்றை வீணாக்கிய`: **preserved as deliberately incomplete `that squandered history—`**
 - outside historical identification, alternate scan wording, web wording or published translation imported: **No**
-- T2 blockers: **0**
+- T3 blockers: **0**
 
 ## Translation authority / special source rule
 
@@ -113,4 +105,4 @@ English authority is the frozen Tamil article assembly, not OCR, memory, web wor
 
 ## Exact next activity
 
-Execute **Article 7 T3 — Kalaignar voice review** for `30-1-1948` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` and T2 English blob `409685e516e32783299130b8205c71638bb8d90d`, scans **39–41**. Preserve every T2 meaning/source decision while reviewing only cadence, directness, repeated mourning force, apostrophe, rhetorical questions/exclamations and accumulative polemical rhythm. Preserve all scan comments/page boundaries, source-bearing forms and the deliberately incomplete frozen scan-41 ending. Do not import scan-appearing alternate lexical/order readings, outside historical wording or published translations. Advance only to `voice-reviewed` if T3 passes and **stop before Article 7 T4**.
+Execute **Article 7 T4 — terminology / quotation / citation / source audit** for `30-1-1948` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` and T3 English blob `b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`, scans **39–41**. Audit all source honorifics, proper names, source-bearing/polemical terminology, quotation boundaries, dates, scan comments/page continuations, frozen lexical witnesses and the deliberately incomplete scan-41 ending. Do not import scan-appearing alternate lexical/order readings, outside historical wording or published translations. Keep Article 7 `voice-reviewed` through T4, synchronize records, and **stop before Article 7 T5**.
