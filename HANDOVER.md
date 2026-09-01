@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - Any checkpoint SHA in a prompt means “last confirmed when prepared”; it is **not** a rollback target.
 - If `main` has advanced, preserve the newer durable state. Never reset, overwrite, repeat or reopen later completed work merely because an older prompt records an earlier boundary.
 - Re-fetch target files before writing when another chat/window may also be active.
-- Last confirmed live HEAD immediately before this handover synchronization: `bd7acfcb1e2159b5943b594579a7eba4cf7bc043` — `Add fresh-window continuation and E6 discipline`.
+- Last confirmed live HEAD immediately before this handover synchronization: `eb97e85b35cc7b857291f2ed3772f2377ff098c8` — `Advance Unarchchimaalai translation plan to E7`.
 
 ---
 
@@ -56,7 +56,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 3 — உணர்ச்சிமாலை — TAMIL FROZEN / ENGLISH ACTIVE
+# Publication 3 — உணர்ச்சிமாலை — TAMIL FROZEN / ENGLISH E6 PASS
 
 Workspace: `publications/unarchchimaalai/`
 
@@ -74,7 +74,7 @@ Workspace: `publications/unarchchimaalai/`
 
 Publication-specific rule: Gemini word tokens remain the frozen Tamil lexical baseline wherever supplied; scan/Gemini lexical disagreements are documented rather than silently substituted. English translates the frozen Tamil assemblies.
 
-Durable non-regression includes scan-19 source recovery, frozen scan-32 word/order sequence, corrected scan-33/34 boundary, Article 7 ending on scan 41, recovered scan-42 `பதில் இல்லை.`, scan-43 `* * *`, frozen scan-48 `ப்ழச்சளை`, frozen scan-49 `விட்டாய்.` placement, scan-49 publication-close matter outside Article 10, and scan-50 advertisement outside all articles.
+Durable non-regression includes scan-19 source recovery, scan-20 visible numeral `1` only, frozen scan-32 word/order sequence, corrected scan-33/34 boundary, Article 7 ending on scan 41 at `வரலாற்றை வீணாக்கிய`, recovered scan-42 `பதில் இல்லை.`, scan-43 `* * *`, frozen scan-48 `ப்ழச்சளை`, frozen scan-49 `விட்டாய்.` placement, scan-49 publication-close matter outside Article 10, and scan-50 advertisement outside all articles.
 
 ## Frozen Tamil translation authorities
 
@@ -97,11 +97,11 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - T3 voice-reviewed: **10 / 10**
 - T4 audited: **10 / 10**
 - T5 verified: **10 / 10**
-- E6: **NOT STARTED**
-- E7: **NOT STARTED**
+- E6 publication-wide consistency review: **PASS**
+- E7 English release closeout: **NOT STARTED**
 - translation/body blockers: **0**
 
-## Verified Articles 1–10
+## Verified Articles 1–10 — unchanged by E6
 
 1. `உணர்ச்சி மாலை` — **Garland of Emotion** — `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
 2. `புரட்சி வளர்ந்த கதை` — **The Story of How the Revolution Grew** — `f1599a8e7cae4ba749b9be2857705b152887f9f8`
@@ -114,84 +114,104 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 9. `அன்னை நாகம்மையார்!` — **Mother Nagammaiyar!** — `204ffed012f4bd91b3077065f031d6b2db747854`
 10. `கவிதையல்ல - கண்ணீர்க்கடல் !` — **Not a Poem — an Ocean of Tears!** — `cee8ea3c33495615ffc988a1875d71e40f8224a3`
 
-All ten articles are closed at T5. Do not reopen any individual article absent a genuine source-supported defect or an E6 consistency finding that requires a controlled correction.
+All ten article bodies remain individually T5-verified. E6 required **0 English body corrections**, so all ten final English blob SHAs remain unchanged.
 
-## Article 10 — `கவிதையல்ல - கண்ணீர்க்கடல் !` — T0–T5 COMPLETE / VERIFIED
+## Article 10 durable T5 boundary
 
 - English title: **Not a Poem — an Ocean of Tears!**
 - frozen Tamil: `f856664d86695237a23d0ffc0bef088d32a82fe9`
 - source scans: **48–49**
-- printed pages: **48; scan 48 has no visible printed numeral**
-- English file: `publications/unarchchimaalai/translations/en/10-kavithaiyalla-kannirkkadal.md`
-- T1 draft English: `a9864870a17c291304b1cab2480ea7eea4730e1a`
-- T2 fidelity-reviewed English: `a85fb820c37f1a38cc904c79098cb7a858a5e3b4`
-- T3 voice-reviewed English: `47a8325721d06594a0e5a4f408ee2e84678f634e`
-- T4-audited English candidate: `c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`
-- final T5-verified English: **`cee8ea3c33495615ffc988a1875d71e40f8224a3`**
-- translation status: **`verified`**
+- final T5 English: `cee8ea3c33495615ffc988a1875d71e40f8224a3`
 - T2 corrections: **4**
-  1. `நீ போய்விட்டாய்`: `You are gone` → **`You have gone`**.
-  2. `பாழலைகள்`: `desolate waves` → **`ruinous waves`**.
-  3. `பணத்தினில் பிறந்து பணத்தினில் வளர்ந்தும்`: restored **`Though born in money and raised in money`**.
-  4. `மக்களெல்லாம் விழித்தெழுதல் / இதுகாண்டல்`: restored the source action/sight relation with **`awakening and rising— / to see this...`**.
 - T3 meaning-neutral voice/cadence interventions: **12**
-- T4 body corrections: **1** — scan-49 `பார்க்காமல் மறைந்து` T3 `you hide away without watching—` → **`you hid away without watching—`**, restoring the frozen past/dependent action relation after `தீ வைத்தாய்` and before `எங்கொளிந்தாய் ?`.
+- T4 body corrections: **1** — `you hide away without watching—` → `you hid away without watching—`
 - T5 body corrections: **0**
-- title/subtitle, complete verse-unit coverage, source lineation, `* * *`, both source-page comments, questions/exclamations/repetition/direct apostrophe: **T5 PASS**
-- source labels/images `Selvam`, `Periyar`, `Panneer Selvam`, `Pandiyan moustache`, `Aryanism`, `dwarf-jackal Aryanism`, `Parppaniyam`, `Tiruvitaththar`, `proletarian character`, `Oman Sea`, `golden Dravidian land`, `Aryan liquor`: **T5 PASS**
-- `பஞ்சைகள்` → `paupers`: **T5 PASS in immediate frozen context**
-- frozen scan-48 `ப்ழச்சளை`: **retained verbatim in English; no guessed repair**
-- frozen scan-49 `விட்டாய்.`: **translated as `You left.` in its frozen source position; not moved upstream**
-- Tiruvitaththar quotation scope, money/proletarian contrast, Oman Sea image, Dravidian-land/Aryan-liquor sequence, guardian-of-Tanjai label and final fall/deeds/fall close: **T5 PASS**
-- scan-49 publication-source note/printer imprint and scan-50 advertisement: **excluded / outside Article 10**
-- external citation required: **No**
-- outside identification, web wording, alternate scan reading or published translation imported: **No**
+- frozen `ப்ழச்சளை`: retained verbatim; no guessed repair
+- frozen `விட்டாய்.`: `You left.` retained at frozen source position
+- scan-49 publication-close note/imprint and scan-50 advertisement: excluded from Article 10
 - blockers: **0**
+
+## E6 — publication-wide English consistency review — PASS
+
+E6 audited all ten T5-verified articles for recurring names/epithets, epic-name conventions, ideological and socially/religiously loaded vocabulary, source-bearing transliterations/puns/insults, source/publication titles, quotation treatment, English title style, voice and rhetorical temperature, accidental smoothing/harmonisation/modernisation, completeness/page-boundary comments and all durable source anomalies.
+
+### E6 correction result
+
+- English body corrections required: **0**
+- final article blob changes: **0 / 10**
+- frozen Tamil changes: **0**
+- source/fidelity defects discovered: **0**
+- source/translation gates reopened: **No**
+- blockers: **0**
+
+### E6 consistent recurring decisions
+
+- `திராவிடம்` → `Dravidam` remains stable in Articles 2, 5 and 7.
+- `ஆரியம்` → `Aryanism` remains stable in Articles 6 and 10.
+- `Tiruvitaththar` remains stable in Articles 1 and 10.
+- `Oman Sea` remains stable in Articles 7 and 10.
+- proletarian vocabulary, `God-ism`, `syrupy speech` and `javvadu` remain consistent where their source function recurs.
+
+### E6 deliberate contextual/source-witness exceptions — NON-REGRESSION
+
+Do **not** mechanically harmonise these:
+
+- `Dravidam` / `Dravidians` / adjectival `Dravidian` according to immediate frozen Tamil form;
+- Article 4 `Kambar` / `Kamban` according to `கம்பர்` / `கம்பன்`;
+- Article 7 `Gandhiyar`, `revered Gandhi`, `Mohan Das Gandhi...` versus Article 8 `Gandhiji` according to immediate source label/epithet;
+- `Brahmin` / `non-Brahmin` versus source-bearing `Parppanar` / `Parppanan` / `Parppanars` / `non-Parppanar`; `Vediyars` stays separate;
+- noun `Vaidheegam` versus contextual `Vaidheega madmen`;
+- Article 6 `Harijan` versus Article 8 `Arijan journal`;
+- Article 6 `Oriental College` versus frozen later `Oriyantal College` witness;
+- Article 5 translated `Soviet Union Hero` versus source-English `(Hero of the Soviet union)`;
+- Article 9 `Ramasami` / `Ramasamiyar`, `Nagammaiyar` / `Nagamma`, `Ammaiyar`, `Periyar` according to immediate source label;
+- Article 8 epic-name forms and all established source-bearing oddities/transliterations, including raw frozen `ப்ழச்சளை`, remain unrepaired unless source policy is explicitly reopened.
+
+### E6 anomaly/completeness result
+
+- scan 19 source recovery / scan 20 numeral `1`: **PASS**
+- scan 32 frozen irregular order: **PASS / unreconstructed**
+- scan 33/34 boundary: **PASS**
+- Article 7 deliberately incomplete ending: **PASS**
+- scan 42 `No answer.` / scan 43 `* * *`: **PASS**
+- scan 48 `ப்ழச்சளை` / scan 49 `You left.` placement: **PASS**
+- scan 49 publication-close exclusion / scan 50 advertisement exclusion: **PASS**
+- all ten article units and required source-page comments: **PASS**
+- quotation boundaries, directness, sarcasm, ridicule, commands, rhetorical questions, exclamations and repetition: **PASS**
+
+Canonical E6 provenance is recorded in:
+
+- `publications/unarchchimaalai/translations/en/LEXICON.md`
+- `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md`
+- `publications/unarchchimaalai/translations/en/README.md`
+- `publications/unarchchimaalai/TRANSLATION_PLAN.md`
 
 ## Documentation reconciliation — COMPLETE / NON-DESTRUCTIVE
 
-At Article 10 T2 startup, canonical `LEXICON.md` and `TRANSLATION_REVIEW.md` lagged at Article 9 T4 while the authoritative handover/tracker/plan and Article 9 English file already recorded Article 9 T5, and `ARTICLE10_T1_PROVENANCE.md` carried Article 10 T1 provenance.
+The Article 9/10 documentation reconciliation remains durable:
 
-The lag was reconciled without deleting durable history:
+- pre-reconciliation lexicon history through Article 9 T4 is preserved byte-for-byte as `publications/unarchchimaalai/translations/en/LEXICON_HISTORY_THROUGH_ARTICLE9_T4.md`;
+- pre-reconciliation review history through Article 9 T4 is preserved byte-for-byte as `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md`;
+- canonical `LEXICON.md` and `TRANSLATION_REVIEW.md` remain the current records and now include E6;
+- history sidecars remain provenance only and must not replace canonical records.
 
-- prior canonical lexicon history through Article 9 T4 preserved byte-for-byte as `publications/unarchchimaalai/translations/en/LEXICON_HISTORY_THROUGH_ARTICLE9_T4.md`;
-- prior canonical review history through Article 9 T4 preserved byte-for-byte as `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md`;
-- canonical `LEXICON.md` now continues with Article 9 T5 and Article 10 T1–T5;
-- canonical `TRANSLATION_REVIEW.md` now continues with Article 9 T5 and Article 10 T1–T5;
-- the temporary `ARTICLE10_T1_PROVENANCE.md` sidecar is no longer needed after successful merge.
+## Fresh-window handoff
 
-## Fresh-window handoff prepared
-
-The repository now contains:
+The repository contains:
 
 - `docs/NEXT_CHAT_PROMPT.md` — current active-work continuation prompt;
 - `docs/START_NEW_ESSAY_WORK_PROMPT.md` — reusable prompt for a genuinely new supplied work;
-- `docs/FUTURE_WORK_GUIDELINES.md` — includes live-main continuation discipline and E6 correction rules.
+- `docs/FUTURE_WORK_GUIDELINES.md` — live-main continuation and E6/E7 gate discipline.
 
-A fresh window should begin from live `main`, not from conversational memory. For the current active publication, no source PDF is required merely to start E6 because the Tamil layer is already frozen and the ten English articles are T5-verified. If E6 uncovers a genuinely source-dependent visual question, pause that finding and resolve it from the controlling scan rather than guessing.
+A fresh window must begin from live `main`, not conversational memory. The Tamil layer remains frozen. E6 found no source/fidelity defect and did not require source-PDF reopening.
 
 ---
 
 # Exact next activity
 
-Execute **E6 — publication-wide English consistency review** across all ten T5-verified articles.
+Execute **E7 — English release closeout** for `உணர்ச்சிமாலை`.
 
-E6 must audit:
-
-- recurring names and author-chosen epithets;
-- `Aryan` / `Aryanism` / `Dravidian` / `Dravidam` and other ideological vocabulary;
-- recurring source-bearing terms, transliterations, puns and unexplained forms;
-- source/publication titles and epic-name conventions;
-- quotation and cited-passage treatment;
-- English title style;
-- tone, directness, sarcasm, ridicule, commands, rhetorical questions and emotional temperature across articles;
-- accidental smoothing, harmonisation or modernisation introduced in later articles;
-- completeness of all ten article units and page-boundary comments;
-- durable source anomalies, including source-recovered text, frozen lexical/order witnesses, corrected scan boundaries, frozen `ப்ழச்சளை`, frozen `விட்டாய்.` placement, publication-close exclusions and scan-50 advertisement exclusion.
-
-For each apparent inconsistency, classify it as **consistent**, **deliberate contextual/source-witness exception**, or **correction required**. Do not homogenise deliberate differences merely for style.
-
-Record every consistency correction or deliberate contextual exception in the lexicon/review records, synchronize the tracker/plan/handover, and **do not begin E7 in the same activity**.
+Use the ten unchanged E6-passed English article blobs and the canonical lexicon/review records. Perform the release-closeout checks required by `ESSAY_TRANSLATION_GUIDE.md`, synchronize the release/tracker/handover records, and mark the English publication release complete only if E7 passes. Do not reopen or rewrite individual article bodies unless E7 identifies a genuine release-blocking or source-supported defect.
 
 ## Current blockers
 
