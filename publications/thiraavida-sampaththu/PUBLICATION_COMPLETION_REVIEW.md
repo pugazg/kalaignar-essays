@@ -55,7 +55,7 @@ P5 retained documented lexical-witness conflicts on scans **3, 4, 5 and 16**, pr
 - T2 fidelity-reviewed: **2 / 2**
 - T3 voice-reviewed: **2 / 2**
 - T4 audited: **2 / 2**
-- T5 verified: **1 / 2**
+- T5 verified: **2 / 2**
 - E6 publication-wide consistency review: **NOT STARTED**
 - E7 release closeout: **NOT STARTED**
 - English article bodies: **2 / 2**
@@ -74,17 +74,18 @@ Article 1 `திராவிட சம்பத்து` has completed T0–T5
 
 **ARTICLE 1 ENGLISH TRANSLATION: VERIFIED.**
 
-## Article 2 English translation — T4 COMPLETE / PASS
+## Article 2 English verification — COMPLETE / PASS
 
-Article 2 `ஐயர் அறிவிக்கிறார்!` has completed the terminology / quotation / citation / source audit.
+Article 2 `ஐயர் அறிவிக்கிறார்!` has completed T0–T5.
 
-- English title: **Iyer Announces!** — T4 audited / final verification pending T5
+- English title: **Iyer Announces! — VERIFIED**
 - frozen Tamil authority: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
 - T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
 - T2 fidelity-reviewed English blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
 - T3 voice-reviewed English blob: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
 - T4 source-audited English blob: `9b2795e6c66dea08fdf46fcf7903550001e1a401`
-- metadata status: `voice-reviewed` — T5 alone may set `verified`
+- final T5 verified English blob: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
+- metadata status: `verified`
 - source-page comments: scans **12, 3 — 2 / 2 present and ordered**
 - `ஐயர்` / `அய்யர்`: **Iyer / Ayyar** distinction retained
 - frozen damaged/ambiguous `அயம்`: source-bearing **ayam**, not repaired
@@ -92,19 +93,18 @@ Article 2 `ஐயர் அறிவிக்கிறார்!` has completed 
 - normal `கல்லூரி`: **College**; frozen scan-3 `கல்லுரி`: source-bearing **kalluri**
 - narrative fused `சாமிநாதய்யர்`: **Saminathayyar**; inscription `சாமிநாத அய்யர்`: **Saminatha Ayyar**
 - quoted inscription: **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**
-- first-paragraph quotation anomaly: two evident English quoted units formally documented; no missing Tamil punctuation reconstructed
-- T4 English body corrections: **0**
-- T4 metadata/provenance updates: **1**
+- first-paragraph quotation anomaly: two evident English quoted units formally documented at T4 and re-verified at T5; no missing Tamil punctuation reconstructed
+- T5 English body corrections: **0**
 - external inscription wording imported: **No**
-- frozen Tamil changes during T4: **0**
-- unresolved T4 blockers: **0**.
+- frozen Tamil changes during T5: **0**
+- unresolved T5 blockers: **0**.
 
-**ARTICLE 2 T4 TERMINOLOGY / QUOTATION / CITATION / SOURCE AUDIT: PASS.**
+**ARTICLE 2 T5 FINAL VERIFICATION: PASS / VERIFIED.**
 
 ## Exact next activity
 
-Execute **Article 2 T5 — final article verification** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T4 source-audited English blob `9b2795e6c66dea08fdf46fcf7903550001e1a401`.
+Execute **E6 — publication-wide English consistency review** across both verified articles.
 
-Re-verify complete surviving coverage, title **Iyer Announces!**, all T4-established terminology/source-bearing forms, the documented first-paragraph quotation treatment, final inscription wording, metadata and both source-page comments. If PASS, set `translation_status: verified` and record the final verified English blob.
+Review recurring `Dravidam` / Dravidian terminology, source-bearing name distinctions, title style, quotation treatment, source-page comments, source-anomaly preservation, rhetorical consistency and accidental cross-article harmonisation. Do not alter verified text merely for stylistic preference; only genuine publication-level consistency or source/release defects may reopen an article gate, and any reopening must be documented.
 
-Stop after Article 2 T5. **Do not perform E6 in the same activity.**
+Stop after E6. **Do not perform E7 in the same activity.**
