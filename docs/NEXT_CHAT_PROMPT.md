@@ -16,7 +16,7 @@ Active publication:
 
 Fetch live `main` first. The last confirmed live HEAD immediately before this continuation prompt was synchronized was:
 
-`1edd786416d04ffc048201a7c18904fecca39bb8` — `Advance Thiraavida Sampaththu handover through Article 2 T4`
+`7b0da2eef9e77cc1c028e7f51acb7a3d6ee11ca0` — `Advance Thiraavida Sampaththu handover through Article 2 T5`
 
 If `main` has advanced beyond that checkpoint, preserve the newer durable state. **Do not reset, overwrite, repeat or reopen later completed work merely because this prompt contains an older checkpoint.**
 
@@ -38,19 +38,17 @@ Before making any repository change, read completely:
 10. `publications/thiraavida-sampaththu/translations/en/README.md`
 11. `publications/thiraavida-sampaththu/translations/en/LEXICON.md`
 12. `publications/thiraavida-sampaththu/translations/en/TRANSLATION_REVIEW.md`
-13. `publications/thiraavida-sampaththu/articles/02-aiyar-arivikkirar.md`
-14. `publications/thiraavida-sampaththu/translations/en/02-aiyar-arivikkirar.md`
+13. both frozen Tamil articles
+14. both verified English articles
 
-The controlling PDF is **not required for the normal Article 2 T5 final verification** because the frozen strict-reviewed Tamil assembly is the translation authority. Resolve the scan only if a concrete punctuation/boundary defect genuinely requires it; never use it to replace the frozen Tamil witness.
+The controlling PDF is **not required for the normal E6 publication-wide English consistency review** because the frozen strict-reviewed Tamil assemblies and verified English articles are the review authorities. Resolve the scan only if a concrete source punctuation/boundary defect genuinely requires it; never use it to replace a frozen Tamil witness.
 
 ## Frozen Tamil state
-
-Tamil archival work is **COMPLETE / STRICT-REVIEWED / FROZEN**:
 
 - P0: **COMPLETE**
 - P1: **COMPLETE**
 - P2: **16 / 16 COMPLETE**
-- P3: **2 / 2 article assemblies COMPLETE**
+- P3: **2 / 2 COMPLETE**
 - P4: **PASS**
 - P5: **16 / 16 PASS**
 - Tamil blockers: **0**
@@ -64,66 +62,48 @@ Do not reopen the frozen Tamil bodies for stylistic polishing, lexical conventio
 
 ## English translation state
 
-- E0 translation planning/setup: **COMPLETE / PASS**
-- T0 source prerequisite: **2 / 2 PASS**
-- T1 drafts: **2 / 2 PASS**
-- T2 fidelity-reviewed: **2 / 2 PASS**
-- T3 voice-reviewed: **2 / 2 PASS**
-- T4 audited: **2 / 2 PASS**
-- T5 verified: **1 / 2 PASS**
-- English article bodies: **2 / 2**
+- E0: **COMPLETE / PASS**
+- T0: **2 / 2 PASS**
+- T1: **2 / 2 PASS**
+- T2: **2 / 2 PASS**
+- T3: **2 / 2 PASS**
+- T4: **2 / 2 PASS**
+- T5: **2 / 2 PASS**
+- E6: **NOT STARTED**
+- E7: **NOT STARTED**
 - translation blockers: **0**
 
 Permanent rule:
 
 > **Translate the language; do not neutralise the voice.**
 
-## Article 1 verified durable state
+## Verified article authorities
 
-- English title: **Dravidian Wealth — VERIFIED**
-- frozen Tamil blob: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
-- final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
-- English file status: `verified`
-- unresolved Article 1 blockers: **0**
+1. **Dravidian Wealth** — final English blob `10dca72882043db491fe8c6ad3f858bc4c9c584f` — status `verified`.
+2. **Iyer Announces!** — final English blob `771094f9c2eaad4c56c6f9509db34adbd3fd97a5` — status `verified`.
 
-Do not reopen Article 1 for stylistic preference.
+Article 2 non-regression includes:
 
-## Article 2 T4 durable state
-
-- Tamil title: `ஐயர் அறிவிக்கிறார்!`
-- English title: **Iyer Announces!** — T4 audited / final verification pending T5
-- frozen Tamil blob: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
-- T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
-- T2 fidelity-reviewed English blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
-- T3 voice-reviewed English blob: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
-- T4 source-audited English blob: `9b2795e6c66dea08fdf46fcf7903550001e1a401`
-- source scans: **12, 3**
-- English file status: `voice-reviewed` — T5 alone may set `verified`
-- source-page comments: **2 / 2 present and ordered**
-- `ஐயர்` / `அய்யர்`: **Iyer / Ayyar** distinction retained
-- frozen damaged/ambiguous `அயம்`: source-bearing **ayam**, not repaired
-- `ஏனோதானோ` / `ஏனோதானோக்கள்`: **Enothano / Enothanos**, source-bearing / no outside identification
-- normal `கல்லூரி`: **College**; frozen scan-3 `கல்லுரி`: source-bearing **kalluri**
-- narrative fused `சாமிநாதய்யர்`: **Saminathayyar**; inscription `சாமிநாத அய்யர்`: **Saminatha Ayyar**
-- quoted inscription: **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**
-- first-paragraph irregular quotation punctuation: two evident English quoted units formally audited and documented; no missing Tamil punctuation reconstructed
-- T4 English body corrections: **0**
-- T4 metadata/provenance updates: **1**
-- frozen Tamil changes during T4: **0**
-- unresolved T4 blockers: **0**
+- `Iyer` / `Ayyar` distinction;
+- source-bearing `Enothano` / `Enothanos`;
+- damaged `ayam` unrepaired;
+- normal `College` versus frozen anomalous `kalluri`;
+- narrative `Saminathayyar` versus inscription `Saminatha Ayyar`;
+- source-bearing inscription **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**;
+- documented two-unit first-paragraph quotation treatment;
+- source-page comments for scans **12** and **3**.
 
 ## EXACT NEXT ACTIVITY
 
-Execute **Article 2 T5 — final article verification** only.
+Execute **E6 — publication-wide English consistency review** only.
 
-1. Re-fetch frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T4 source-audited English blob `9b2795e6c66dea08fdf46fcf7903550001e1a401`.
-2. Re-verify complete surviving Article 2 coverage and source/paragraph order.
-3. Re-verify title **Iyer Announces!**.
-4. Re-verify all T4-established terminology/source-bearing forms: `Iyer` / `Ayyar`, `Dravidam`, `Enothano(s)`, `ayam`, normal `College` versus frozen `kalluri`, narrative `Saminathayyar` versus inscription `Saminatha Ayyar`, and `Maha Mahopadhyaya Dravida Vidya Bhushana`.
-5. Re-verify the documented first-paragraph two-unit quotation treatment and final inscription wording.
-6. Re-verify English metadata source path/blob/scan range and source-page comments for scans **12** and **3**.
-7. If PASS, change `translation_status` from `voice-reviewed` to `verified`, record the final verified English blob, and synchronize project records.
-8. **Stop after Article 2 T5. Do not perform E6 in the same activity.**
+1. Re-fetch both verified English article blobs and both frozen Tamil authorities.
+2. Review recurring `Dravidam` / Dravidian terminology and other recurring ideological/source-bearing vocabulary across the publication.
+3. Review title style, source-bearing name distinctions, quotations, inscription handling, source-page comments and source-anomaly preservation.
+4. Review rhetorical consistency and check that later English work has not accidentally harmonised away source distinctions.
+5. Do not alter a verified article merely for stylistic preference. Change only a genuine publication-level consistency or source/release defect and explicitly document any reopened article gate.
+6. Synchronize the review ledger, lexicon/tracker/plan, publication records, root handover, root README and continuation prompt.
+7. **Stop after E6. Do not perform E7 in the same activity.**
 
 ## Previous publication non-regression
 
@@ -131,4 +111,4 @@ Publications 1–3 remain **COMPLETE / FROZEN / RELEASED**. Do not reopen them a
 
 ## Fresh-window execution rule
 
-When the user says **“Proceed with next activity”**, do not ask them to restate context. Fetch live `main`, read the authoritative handover/current translation records, re-fetch Article 2 Tamil and T4 English authorities, and execute the exact Article 2 T5 activity completely.
+When the user says **“Proceed with next activity”**, do not ask them to restate context. Fetch live `main`, read the authoritative handover/current translation records, re-fetch both verified English articles and frozen Tamil authorities, and execute the exact E6 activity completely.
