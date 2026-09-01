@@ -54,7 +54,7 @@ Detailed records:
 
 Do not reopen for stylistic polishing unless a genuine source-supported or release-blocking defect is discovered.
 
-## Publication 3 — உணர்ச்சிமாலை — TAMIL SOURCE COMPLETE / FROZEN; ENGLISH T0 COMPLETE
+## Publication 3 — உணர்ச்சிமாலை — COMPLETE / FROZEN / RELEASED
 
 Workspace: [`publications/unarchchimaalai/`](publications/unarchchimaalai/)
 
@@ -102,19 +102,21 @@ Detailed final Tamil records:
 - [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/unarchchimaalai/VISUAL_TEXT_FIDELITY_REVIEW.md)
 - [`PUBLICATION_COMPLETION_REVIEW.md`](publications/unarchchimaalai/PUBLICATION_COMPLETION_REVIEW.md)
 
-### English translation status
+### Final English translation / release status
 
 - T0 source prerequisite/setup: **COMPLETE / PASS**
-- ten frozen Tamil article blob authorities: **10 / 10 reverified against live `main`**
-- T1 drafts: **0 / 10**
-- T2 fidelity-reviewed: **0 / 10**
-- T3 voice-reviewed: **0 / 10**
-- T4 audited: **0 / 10**
-- T5 verified: **0 / 10**
-- English body translation: **NOT STARTED**
-- unresolved translation blockers: **0**
+- T1 drafts: **10 / 10**
+- T2 fidelity-reviewed: **10 / 10**
+- T3 voice-reviewed: **10 / 10**
+- T4 audited: **10 / 10**
+- T5 verified: **10 / 10**
+- E6 publication-wide English consistency review: **PASS**
+- E7 English release closeout: **PASS / RELEASE COMPLETE**
+- English body corrections during E6/E7: **0**
+- unresolved translation/release blockers: **0**
+- **English translation: COMPLETE / RELEASED / FROZEN**
 
-Translation workspace:
+Translation/release workspace:
 
 - [`TRANSLATION_PLAN.md`](publications/unarchchimaalai/TRANSLATION_PLAN.md)
 - [`translations/en/README.md`](publications/unarchchimaalai/translations/en/README.md)
@@ -134,10 +136,23 @@ Translation workspace:
 9. `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
 10. `f856664d86695237a23d0ffc0bef088d32a82fe9`
 
-These are the translation authorities unless a later source-supported Tamil correction explicitly reopens P5.
+### Final English article blob authorities
+
+1. `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
+2. `f1599a8e7cae4ba749b9be2857705b152887f9f8`
+3. `1134185bc21478775419adb3560b110c001d2b75`
+4. `03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`
+5. `c689ff90f08d389a5e7ebc4849c30d58dfe81766`
+6. `cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`
+7. `6cfb28e2d83ba84ee2daa54606561479b61498b0`
+8. `6b12e6b3cc09b6de402998bb3824e7a98808f885`
+9. `204ffed012f4bd91b3077065f031d6b2db747854`
+10. `cee8ea3c33495615ffc988a1875d71e40f8224a3`
+
+These Tamil and English authorities remain frozen unless a genuine source-supported or release-blocking defect explicitly reopens the affected gate.
 
 ## Current project state / exact next activity
 
-Publications 1 and 2 are **COMPLETE / FROZEN / RELEASED**. Publication 3 `உணர்ச்சிமாலை` has a **COMPLETE / FROZEN Tamil source** and its English **T0 setup is COMPLETE / PASS**.
+Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. No further work is pending for `உணர்ச்சிமாலை` absent a genuine source-supported or release-blocking defect.
 
-**Exact next activity:** execute **Article 1 T1 — complete close English draft for `உணர்ச்சி மாலை`** from frozen Tamil blob `c63837a9f7c02d6f3a18171a512d46788f66ad92`. Preserve all verse and scan-boundary provenance, establish a provisional English title and initial living-lexicon decisions, leave the article at `translation_status: draft`, and stop before T2 bilingual review.
+**Exact next activity:** intake the next supplied Kalaignar essay/article publication using [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md).
