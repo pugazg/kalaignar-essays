@@ -65,19 +65,31 @@ The surviving copy is materially damaged. Large tears intersect printed text, es
 
 The publication is source-complete for the surviving supplied copy, with irreversible physical-source-loss gaps and the documented user-baseline lexical exceptions preserved as part of the archival record.
 
-## English status
+## English translation setup — E0 COMPLETE / PASS
 
-- English translation: **NOT STARTED**;
-- E0 translation planning/setup: **NEXT**;
-- no English file should translate from OCR, memory, or alternate lexical scan readings.
+E0 created the publication English translation workspace and registered both frozen Tamil authorities as T0 sources.
+
+- `TRANSLATION_PLAN.md`: **created**;
+- `translations/en/README.md`: **created**;
+- `translations/en/LEXICON.md`: **created**;
+- `translations/en/TRANSLATION_REVIEW.md`: **created**;
+- Article 1 T0: **PASS** — Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`;
+- Article 2 T0: **PASS** — Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`;
+- T0 overall: **2 / 2 PASS**;
+- English article bodies created: **0 / 2**;
+- T1 drafts: **0 / 2**;
+- English titles frozen: **0 / 2**;
+- E0 Tamil body changes: **0**;
+- unresolved translation blockers: **0**.
+
+English must translate from the two strict-reviewed Tamil blobs above, not OCR, the pre-P5 user transcription, alternate scan-appearing lexical readings, remembered wording or later editions.
+
+The translation workspace also carries forward the non-reconstruction rule for torn source gaps, the scan-3 damaged `அயம்`, and the P5 lexical-witness exceptions without silently correcting the frozen Tamil source.
 
 ## Exact next activity
 
-Execute **E0 — English translation planning/setup**:
+Execute **Article 1 T1 — complete close English draft for `திராவிட சம்பத்து` only** from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
 
-1. create `TRANSLATION_PLAN.md`;
-2. create `translations/en/README.md`, `LEXICON.md` and `TRANSLATION_REVIEW.md`;
-3. register the two final Tamil blob SHAs above as T0 source authorities;
-4. establish publication-specific terminology/voice decisions without translating article bodies yet unless the E0 plan explicitly advances into the next separately authorised activity.
+Create `translations/en/01-thiraavida-sampaththu.md`, translate every surviving Tamil paragraph in order, preserve source-page comments for scans **5, 6, 13, 14, 15, 16**, preserve all explicit `SOURCE DAMAGE` gaps without reconstruction, and synchronize the tracker, lexicon, translation-review ledger and root handover.
 
-**Do not reopen the frozen Tamil bodies for stylistic polishing or lexical conventionalisation.** Reopen only for a genuine source-supported fidelity defect.
+Stop after T1. Do **not** perform T2 in the same activity. **Do not reopen the frozen Tamil bodies for stylistic polishing or lexical conventionalisation.**
