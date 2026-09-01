@@ -29,79 +29,31 @@ The Tamil archival layer is **COMPLETE / STRICT-REVIEWED / FROZEN** after P5 **1
 - T0 source prerequisite: **PASS**
 - T1 close draft: **COMPLETE / PASS**
 - T2 bilingual fidelity review: **COMPLETE / PASS**
-- T3 Kalaignar voice review: **NOT STARTED**
+- T3 Kalaignar voice review: **COMPLETE / PASS**
 - T4 terminology / quotation / citation / source audit: **NOT STARTED**
 - T5 verification: **NOT STARTED**
-- working English title: **Dravidian Wealth** — T2 semantic pass; not frozen
+- working English title: **Dravidian Wealth** — T2 semantic pass / T3 voice pass; not frozen
 - source Tamil blob: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
 - T1 baseline English blob entering T2: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
-- T2 fidelity-reviewed English blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`
-- English metadata status: `fidelity-reviewed`
+- T2 fidelity-reviewed English blob entering T3: `155299ac2b71b0aaba431f63d3c882191a3c710b`
+- T3 voice-reviewed English blob: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
+- English metadata status: `voice-reviewed`
 
 ### Article 1 T2 review scope
 
-Every surviving paragraph and clause was compared against the frozen Tamil authority. T2 checked:
-
-- omissions and additions;
-- negatives and logical relationships;
-- comparisons and repeated formulations;
-- names, personification and source labels;
-- quotation scope;
-- rhetorical questions/exclamations where they carry meaning;
-- all six source-page comments;
-- scan-15 and scan-16 damaged fragments;
-- frozen lexical-witness anomalies.
-
-No Tamil body was changed.
+Every surviving paragraph and clause was compared against the frozen Tamil authority. T2 checked omissions/additions, negatives, logical relationships, comparisons, repetitions, names, personification, source labels, quotation scope, source-page comments, damage fragments and frozen lexical-witness anomalies. No Tamil body was changed.
 
 ### Article 1 T2 fidelity corrections — 7 decisions
 
-1. **Masculine personification restored.**  
-   T1: `Vikatan is not that mad after all......it has ... hasn't it spat...`  
-   T2: `Vikatan isn't such a madman after all......he has ... hasn't he spat... ?`  
-   Reason: frozen Tamil shifts to masculine `பைத்தியக்காரனல்லவே ... கக்கியிருக்கிறான்`; T1's neuter pronouns flattened that source choice and also lost the rhetorical-question force of `அல்லவா`.
+1. Restored masculine personification and the rhetorical-question force in `பைத்தியக்காரனல்லவே ... கக்கியிருக்கிறான்`.
+2. Kept damaged scan-15 `சம்பத்து என்றா` incomplete as `Wealth mea—` rather than supplying `means`.
+3. Made the damaged `ழி வழங்கும்...` continuation conservative and avoided reconstructing a hidden noun.
+4. Retained `விகடர்`-family forms as `Vikatar` / `Vikatar!` / `Ananda Vikatar`, distinct from publication-name `Ananda Vikatan`.
+5. Distinguished language-geography `வழங்கிய` / `வழங்கும்` as `prevailed` / `prevails` from explicit `பேசியவர்கள்` = `those who spoke`.
+6. Preserved `தெரிந்தும்` as a concessive relationship.
+7. Advanced metadata to `fidelity-reviewed` without freezing title or terminology.
 
-2. **Scan-15 broken `என்றா` no longer grammatically completed.**  
-   T1: `Wealth means`  
-   T2: `Wealth mea—`  
-   Reason: the frozen Tamil itself is visibly truncated at `சம்பத்து என்றா` before the damage boundary. Completing the English verb supplied lost text.
-
-3. **Scan-15 damaged `ழி வழங்கும்...` made more conservative.**  
-   T1: `...in the region where ... is spoken`  
-   T2: `...[damaged fragment] in the region where it prevails`  
-   Reason: T1 effectively supplied a hidden noun from context. T2 translates the surviving relational sense without reconstructing the missing beginning.
-
-4. **`விகடர்`-family source label retained.**  
-   T1 flattened `விகடரின்`, `ஆனந்தவிகடருக்கு`, `விகடரே` to `Vikatan`.  
-   T2 uses `Vikatar's`, `Ananda Vikatar`, and `Vikatar!` while preserving the actual publication name `Ananda Vikatan` where the Tamil says `ஆனந்தவிகடன்`.
-
-5. **Language-geography verb distinction restored.**  
-   T1 rendered `வழங்கிய` repeatedly as `was spoken`.  
-   T2 uses `prevailed` / `prevails`, reserving `spoke` for the later explicit `பேசியவர்கள்`. This preserves the frozen Tamil's lexical distinction.
-
-6. **Known/knowing contrast tightened.**  
-   T1: `It knows, and still a little courage to conceal it clings to him!`  
-   T2: `Though he knows, a little courage to conceal it still clings to him!`  
-   Reason: reflects `தெரிந்தும்` as a concessive connector rather than a simple additive clause.
-
-7. **T2 metadata/status advanced without freezing terminology.**  
-   `translation_status` changed from `draft` to `fidelity-reviewed`; working title and source-specific mock labels remain open for T3/T4 rather than being silently frozen at T2.
-
-### T2 confirmed without body change
-
-The following T1 decisions were semantically acceptable and were retained for later voice/terminology review:
-
-- `Dravidian Wealth` for `திராவிட சம்பத்து`;
-- `Vikatanar` for `விகடனார்`;
-- `Comedy Monkey` for `நகைச்சுவை குரங்கார்`;
-- `Aryan Anjaneyar` for `ஆரிய ஆஞ்சநேயர்`;
-- `racial hatred` / `attachment to one's race` for `இனவெறி` / `இனப்பற்று`;
-- `racial clarion call` for `இனமுழக்கம்`;
-- `wedge-meddling monkey` for `ஆப்பசைத்த குரங்கு`;
-- `cuckoos of the garbage heap` for `குப்பை மேட்டுக் குயில்கள்`;
-- source-bearing `pechchul` for frozen anomalous `பேச்சுல`, pending T4.
-
-### T2 completeness / damage result
+### Article 1 T2 completeness / damage result
 
 - Tamil paragraphs/clauses checked: **all surviving Article 1 text**;
 - source-page comments: **6 / 6 present and ordered**;
@@ -113,6 +65,58 @@ The following T1 decisions were semantically acceptable and were retained for la
 - unresolved fidelity blockers: **0**.
 
 **ARTICLE 1 T2 BILINGUAL FIDELITY REVIEW: PASS.**
+
+### Article 1 T3 voice-review scope
+
+T3 read the T2-secured English as English while continuously checking the frozen Tamil for rhetorical action. It reviewed directness, sarcasm, ridicule, abruptness, repetition, rhetorical questions, personification, insults and the recurring monkey/tail/poison imagery. It made **17 meaning-neutral voice/cadence interventions** and made **0 substantive meaning changes**.
+
+### Article 1 T3 voice/cadence interventions — 17
+
+1. Tightened the opening from `They lie there with their eyes shut` to **`They lie there, eyes shut.`** to restore the clipped opening cadence.
+2. Tightened the `stunt` image to **`mouth shut, tail tucked in`**, preserving the source's compressed mockery.
+3. Changed the abstract `If there is benefit in that pounce` to **`If the pounce pays`**, keeping the same condition while restoring bite.
+4. Changed `has made a pounce at us` to **`has pounced at us`** without changing the attack image.
+5. Changed `The heading is Dravidian Wealth!` to the sharper **`The title: Dravidian Wealth!`**.
+6. Tightened `This is what it wrote first ... I kept turning it over and over` to **`That is how it begins ... I turned it over and over`**.
+7. Naturalised the rhetorical question `is saying this an ordinary matter?` to **`is that an ordinary thing to say?`** while keeping it a challenge, not an explanation.
+8. Replaced explanatory `therefore` with the abrupt **`It has written it. So I was amazed,`**.
+9. Tightened `We offer our thanks;` to **`We give thanks—`**, preserving the sarcastic pivot into `wisdom has dawned`.
+10. Changed `Notice what he uses ... for` to the direct **`Look what he uses ... for`**, and `supposedly` to the source-like **`it seems`**.
+11. Tightened `What has arisen in us is not...` to **`What we have is not...`**, preserving the racial-hatred/racial-attachment contrast.
+12. Added only idiomatic force to the contradiction challenge: **`at least manage to write without contradicting himself`**; the source meaning is unchanged.
+13. Recast the wedge-monkey climax into **`Finally, he sets out to find support for it—and becomes the wedge-meddling monkey. Poor thing!`**, restoring the source's comic punch and separate `பாபம்!` beat.
+14. Replaced detached `This is the course Vikatar's explanation takes!` with direct **`See where Vikatar's explanation goes!`**, and tightened the following denial/acceptance contrast.
+15. Recast the knowing/concealing line as **`It isn't that he doesn't know. He knows—and still has a little courage left to conceal it!`**, preserving the T2-secured concessive meaning while restoring taunt and cadence.
+16. Tightened the tree challenge to **`I certainly don't imagine that ... you'll climb down from the tree tomorrow itself.`**, preserving the metaphor and certainty.
+17. Recast the final purpose clause as **`I had to say this only so that the public would not be deceived...`**, bringing the speaker's direct intervention forward without changing the claim.
+
+### T3 deliberately retained without smoothing
+
+T3 did **not** neutralise or conventionalise the following source-bearing forms:
+
+- working title **Dravidian Wealth**;
+- `Vikatanar` and `Vikatar`-family distinctions;
+- `Comedy Monkey`;
+- `Aryan Anjaneyar`;
+- `racial hatred` / `attachment to one's race`;
+- `racial clarion call`;
+- `wedge-meddling monkey`;
+- `cuckoos of the garbage heap`;
+- frozen anomalous scan-16 `பேச்சுல` → source-bearing **`pechchul`** pending T4;
+- all visibly broken scan-15/16 fragments.
+
+### T3 completeness / non-regression result
+
+- T2-secured substantive claims changed: **0**;
+- source-page comments: **6 / 6 preserved and ordered**;
+- scan-15 damage boundaries: **2 / 2 preserved**;
+- scan-16 damage boundaries: **2 / 2 preserved**;
+- hidden torn wording reconstructed: **0**;
+- frozen Tamil body changes: **0**;
+- publisher/front/back matter imported: **0**;
+- unresolved voice blockers: **0**.
+
+**ARTICLE 1 T3 KALAIGNAR VOICE REVIEW: PASS.**
 
 ## Article 2 — `ஐயர் அறிவிக்கிறார்!`
 
@@ -131,7 +135,7 @@ The following T1 decisions were semantically acceptable and were retained for la
 - T0: **2 / 2 PASS**
 - T1: **1 / 2 COMPLETE**
 - T2: **1 / 2 COMPLETE**
-- T3: **0 / 2**
+- T3: **1 / 2 COMPLETE**
 - T4: **0 / 2**
 - T5: **0 / 2**
 - E6: **NOT STARTED**
@@ -140,8 +144,8 @@ The following T1 decisions were semantically acceptable and were retained for la
 
 ## Exact next activity
 
-Execute **Article 1 T3 — Kalaignar voice review** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T2 English blob `155299ac2b71b0aaba431f63d3c882191a3c710b`.
+Execute **Article 1 T4 — terminology / quotation / citation / source audit** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T3 English blob `1d2e7dae1c00200ab402fa43722167e73e8568a4`.
 
-Review the English for directness, sarcasm, ridicule, commands, rhetorical questions, repetition, monkey/tail/poison imagery, abrupt contrasts and argumentative cadence while preserving T2-secured meaning and all source-damage boundaries. Make only meaning-neutral voice/cadence corrections, document each intervention, update the lexicon where necessary, and stop after T3.
+Audit the working title, recurring `திராவிட` / `திராவிடம்` / `திராவிடர்` forms, `Vikatanar` / `Vikatar`, mock labels and insults, `Mahishasura Mardini`, quotation scope, source-page comments, damage comments, the frozen anomalous `பேச்சுல` handling, and all source-sensitive transliterations. Make only terminology/source-audit corrections, document them here and in the lexicon, and stop after T4.
 
-Do **not** perform T4 in the same activity.
+Do **not** perform T5 in the same activity.
