@@ -16,7 +16,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T3 voice-reviewed: **2 / 2**
 - T4 audited: **2 / 2**
 - T5 verified: **2 / 2**
-- E6 publication consistency review: **NOT STARTED**
+- E6 publication consistency review: **PASS**
 - E7 release closeout: **NOT STARTED**
 - unresolved translation blockers: **0**
 
@@ -24,11 +24,11 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 | # | Tamil article | Frozen Tamil blob | English file | Status | Gates |
 |---:|---|---|---|---|---|
-| 1 | `திராவிட சம்பத்து` | `6e9759aff9bc4801ee66b3b8c76a814be3e98015` | [`01-thiraavida-sampaththu.md`](01-thiraavida-sampaththu.md) | **verified** | **T0 PASS; T1 PASS; T2 PASS; T3 PASS; T4 PASS; T5 PASS** |
-| 2 | `ஐயர் அறிவிக்கிறார்!` | `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` | [`02-aiyar-arivikkirar.md`](02-aiyar-arivikkirar.md) | **verified** | **T0 PASS; T1 PASS; T2 PASS; T3 PASS; T4 PASS; T5 PASS** |
+| 1 | `திராவிட சம்பத்து` | `6e9759aff9bc4801ee66b3b8c76a814be3e98015` | [`01-thiraavida-sampaththu.md`](01-thiraavida-sampaththu.md) | **verified** | **T0 PASS; T1 PASS; T2 PASS; T3 PASS; T4 PASS; T5 PASS; E6 PASS** |
+| 2 | `ஐயர் அறிவிக்கிறார்!` | `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` | [`02-aiyar-arivikkirar.md`](02-aiyar-arivikkirar.md) | **verified** | **T0 PASS; T1 PASS; T2 PASS; T3 PASS; T4 PASS; T5 PASS; E6 PASS** |
 
-Article 1 English title: **Dravidian Wealth — VERIFIED**.  
-Article 2 English title: **Iyer Announces! — VERIFIED**.
+Article 1 English title: **Dravidian Wealth — VERIFIED / E6 PASS**.  
+Article 2 English title: **Iyer Announces! — VERIFIED / E6 PASS**.
 
 ## Translation authority
 
@@ -71,6 +71,26 @@ If a genuine source-supported Tamil correction changes either frozen blob, the a
 - frozen Tamil body changes: **0**
 - unresolved T5 blockers: **0**
 
+## E6 publication-wide consistency result — PASS
+
+E6 reviewed both verified English articles together against both frozen Tamil authorities.
+
+- Article 1 English authority: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
+- Article 2 English authority: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
+- recurring noun `திராவிடம்` → **Dravidam**: **PASS / consistent**
+- Article 1 adjectival `திராவிட` → **Dravidian** versus Article 2 inscription **Dravida Vidya Bhushana**: **PASS / deliberate source-form distinction**
+- title style: **PASS**
+- quotation/source-anomaly treatment: **PASS**
+- source-page comments: **8 / 8 total present and ordered**
+- source-bearing distinctions/anomalies: **PASS / preserved**
+- rhetorical consistency: **PASS**
+- accidental cross-article harmonisation: **none found**
+- English body corrections during E6: **0**
+- English metadata corrections during E6: **0**
+- article gates reopened: **No**
+- frozen Tamil changes: **0**
+- unresolved E6 blockers: **0**
+
 Full provenance: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).  
 Living terminology decisions: [`LEXICON.md`](LEXICON.md).
 
@@ -83,7 +103,7 @@ Living terminology decisions: [`LEXICON.md`](LEXICON.md).
 - frozen scan-3 `அயம்` remains ambiguous and may not be silently repaired in Article 2;
 - frozen scan-3 `கல்லுரி` remains source-bearing `kalluri` in Article 2;
 - preserve `ஐயர்` / `அய்யர்` and `சாமிநாதய்யர்` / `சாமிநாத அய்யர்` source-form distinctions;
-- both articles are individually verified; E6 must not harmonise them merely for stylistic preference;
+- both articles are individually verified and E6-passed; E7 must not harmonise them merely for stylistic preference;
 - `மன்றத்தில்`, `முக்கிய குறிப்பு` and scan-4 advertisements remain outside the two Kalaignar article translations.
 
 ## Gate legend
@@ -99,8 +119,8 @@ Living terminology decisions: [`LEXICON.md`](LEXICON.md).
 
 ## Exact next activity
 
-Execute **E6 — publication-wide English consistency review** across both verified articles.
+Execute **E7 — English release closeout** for `திராவிட சம்பத்து`.
 
-Re-check the two verified English articles together for recurring `Dravidam` / Dravidian terminology, source-bearing name distinctions, title style, quotation treatment, source-page comments, source-anomaly preservation, rhetorical consistency and accidental cross-article harmonisation. Do not alter a verified article merely for stylistic preference; change only a genuine publication-level consistency or source/release defect and document any reopened gate explicitly.
+Re-fetch both E6-passed verified English authorities and both frozen Tamil authorities, confirm all T0–T5 and E6 results remain durable, verify the review ledger/lexicon/tracker/plan/publication records are synchronized, confirm blockers remain zero, and if the release gate passes mark the English translation **COMPLETE / RELEASED / FROZEN**.
 
-**Stop after E6. Do not perform E7 in the same activity.**
+**Stop after E7.**
