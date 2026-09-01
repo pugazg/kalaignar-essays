@@ -23,8 +23,8 @@ transcription_method: "user-supplied lexical baseline; direct visual review for 
 
 <!-- SOURCE DAMAGE: torn text. -->
 
-கள ; அந்த குப்பை  
-மேட்டு குயில்களின் பேச்சுல பொதுமக்கள் ஏமாந்துவிடக் கூடாதே என்பதற்குத்தான் இதைச் சொல்ல நேரிட்டது. நீங்கள் போகலாம் வாலைச் சுருட்டிக்கொண்டு!
+கள; அந்த குப்பை  
+மேட்டு குயில்களின் பேச்சுல பொதுமக்கள் ஏமாந்து விடக் கூடாதே என்பதற்குத்தான் இதைச் சொல்ல நேரிட்டது. நீங்கள் போகலாம் வாலைச் சுருட்டிக் கொண்டு!
 
 ---
 
@@ -37,6 +37,7 @@ transcription_method: "user-supplied lexical baseline; direct visual review for 
 ## Audit note
 
 - `மொழி.` is clearly visible on the source and was absent from the supplied transcription; it is restored as a **source-visible missing-text recovery**, not a contextual guess.
+- P5 lexical-witness conflict: the supplied baseline `பேச்சுல` is retained; the scan appears to read `பேச்சை`. This is logged rather than silently substituted.
 - Remaining torn gaps are deliberately unreconstructed.
 - This closes Article 1 `திராவிட சம்பத்து`.
 
