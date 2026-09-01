@@ -16,7 +16,7 @@ Active publication:
 
 Fetch live `main` first. The last confirmed live HEAD immediately before this continuation prompt was synchronized was:
 
-`79be45f39394347e3a66847b3f91a2d6dcd691ab` — `Advance Thiraavida Sampaththu handover through Article 1 T1`
+`906bcc80aa8b03c61460c2feb2e7e40d3c0c5993` — `Advance Thiraavida Sampaththu root status through Article 1 T1`
 
 If `main` has advanced beyond that checkpoint, preserve the newer durable state. **Do not reset, overwrite, repeat or reopen later completed work merely because this prompt contains an older checkpoint.**
 
