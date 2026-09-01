@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - Any checkpoint SHA means “last confirmed when prepared”; it is **not** a rollback target.
 - If `main` has advanced, preserve the newer durable state. Never reset, overwrite, repeat or reopen later completed work merely because an older prompt records an earlier boundary.
 - Re-fetch target files before writing when another chat/window may also be active.
-- Last confirmed live HEAD immediately before this handover synchronization: `c0fdc8db207e4d44fbd74d744656cd5dceae51ce` — `Advance root status through Thiraavida Sampaththu Article 2 T1`.
+- Last confirmed live HEAD immediately before this handover synchronization: `35be67e755fbc1c3e431d475f11e16dcc8228a30` — `Advance root status through Article 2 T2`.
 
 ---
 
@@ -128,7 +128,7 @@ E7 re-confirmed the ten live English article blobs exactly match this E6-passed 
 
 ---
 
-# Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 2 T1 PASS
+# Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 2 T2 PASS
 
 Workspace: `publications/thiraavida-sampaththu/`  
 Supplied source: `TVA_BOK_0064196_திராவிட_சம்பத்து.pdf`
@@ -172,7 +172,7 @@ P5 retained lexical-witness conflicts on scans **3, 4, 5 and 16**, preserved dam
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **2 / 2 PASS**
 - T1 drafts: **2 / 2 PASS**
-- T2 fidelity-reviewed: **1 / 2 PASS**
+- T2 fidelity-reviewed: **2 / 2 PASS**
 - T3 voice-reviewed: **1 / 2 PASS**
 - T4 audited: **1 / 2 PASS**
 - T5 verified: **1 / 2 PASS**
@@ -201,26 +201,30 @@ Canonical English workspace:
 
 Article 1 should not be reopened for stylistic preference. Reopen only for a concrete source-supported defect.
 
-## Article 2 T1 durable boundary
+## Article 2 T2 durable boundary
 
 - Tamil title: `ஐயர் அறிவிக்கிறார்!`
-- working English title: **Iyer Announces!** — not frozen
+- working English title: **Iyer Announces!** — T2 semantic pass / not frozen
 - frozen Tamil authority: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
 - source scans: **12, 3**
 - T0: **PASS**
 - T1: **COMPLETE / PASS**
+- T2: **COMPLETE / PASS**
 - T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
-- English metadata status: `draft`
+- T2 fidelity-reviewed English blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
+- English metadata status: `fidelity-reviewed`
 - source-page comments: **2 / 2 present and ordered**
-- `ஐயர்` / `அய்யர்`: working **Iyer / Ayyar** distinction retained
+- `ஐயர்` / `அய்யர்`: **Iyer / Ayyar** distinction retained
 - damaged/ambiguous frozen `அயம்`: source-bearing **ayam**, not repaired
-- `ஏனோதானோ` / `ஏனோதானோக்கள்`: working **Enothano / Enothanos**
-- normal `கல்லூரி`: **College**; frozen scan-3 `கல்லுரி`: working source-bearing **kalluri**
-- quoted inscription: working source-bearing **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**
-- frozen first-paragraph quotation punctuation: T1 rendered as two evident quoted units; T2/T4 must audit scope
-- frozen Tamil changes during T1: **0**
+- `ஏனோதானோ` / `ஏனோதானோக்கள்`: **Enothano / Enothanos**
+- normal `கல்லூரி`: **College**; frozen scan-3 `கல்லுரி`: source-bearing **kalluri**
+- narrative fused `சாமிநாதய்யர்`: **Saminathayyar**; inscription `சாமிநாத அய்யர்`: **Saminatha Ayyar**
+- quoted inscription: source-bearing **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**
+- first-paragraph irregular quotation punctuation: T2 accepts the two evident quoted units; T4 must perform the formal quotation/source audit
+- T2 body corrections: **3**
+- frozen Tamil changes during T2: **0**
 - external inscription wording imported: **No**
-- unresolved T1 blockers: **0**
+- unresolved T2 blockers: **0**
 
 ## Non-regression for English work
 
@@ -229,7 +233,7 @@ Article 1 should not be reopened for stylistic preference. Reopen only for a con
 - never reconstruct torn-away source wording;
 - do not silently repair frozen `கல்லுரி`, `கண்னை`, `பேச்சுல` or damaged `அயம்` using alternate scan readings/context;
 - do not import publisher matter or scan-4 advertisements into the two English article bodies;
-- preserve Article 2 source-form distinctions and source-bearing transliterations unless a later fidelity gate records a source-supported change;
+- preserve Article 2 T2-secured source-form distinctions, including `Iyer` / `Ayyar`, `ayam`, `Enothano(s)`, `kalluri`, `Saminathayyar` / `Saminatha Ayyar`;
 - do not alter verified Article 1 terminology merely for stylistic preference;
 - if a genuine source-supported Tamil correction changes a frozen blob, explicitly reopen affected translation gates.
 
@@ -241,17 +245,17 @@ Article 1 should not be reopened for stylistic preference. Reopen only for a con
 
 # Exact next activity
 
-Execute **Article 2 T2 — bilingual fidelity review** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T1 English blob `1b70952ae377668162fcb35eb045e142a0597190`.
+Execute **Article 2 T3 — Kalaignar voice review** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T2 English blob `b7361d26a711d61938da24d33b3512ddf5653e53`.
 
 1. Re-fetch both authorities before any write.
-2. Compare every surviving Tamil clause and paragraph against the T1 English draft.
-3. Check omissions/additions, negatives, connectors, repetitions and rhetorical questions/direct address.
-4. Audit working title **Iyer Announces!** and source-form `Iyer` / `Ayyar` distinctions.
-5. Audit source-bearing `ayam`, `Enothano(s)`, normal `College` versus frozen anomalous `kalluri`, and `Saminatha Ayyar` forms.
-6. Audit the first-paragraph quotation scope and final inscription wording without importing outside text.
-7. Verify both source-page comments for scans **12 and 3**.
-8. Make only fidelity-required corrections; update review ledger/lexicon/tracker/plan and project records.
-9. **Stop after Article 2 T2. Do not perform Article 2 T3 in the same activity.**
+2. Read the T2-secured English as English while continuously checking the frozen Tamil for rhetorical action.
+3. Review direct address, commands, repetition, mockery and abruptness.
+4. Check the startled `அய்யராவது திராவிடத்தை ஒத்துக் கொள்வதாவது` construction and `உண்மை நண்பர்களே உண்மை!`.
+5. Check the fire-stepping image and the `ஏனோதானோ` ridicule.
+6. Check the imperative movement from `செல்லுங்கள்` through `சொல்லுங்கள்` / `படியுங்கள்` and the final inscription reveal.
+7. Preserve all T2 source-form distinctions, both source-page comments, quotation boundaries and inscription wording.
+8. Make only meaning-neutral voice/cadence changes and record each T3 intervention.
+9. **Stop after Article 2 T3. Do not perform Article 2 T4 in the same activity.**
 
 ## Current blockers
 
