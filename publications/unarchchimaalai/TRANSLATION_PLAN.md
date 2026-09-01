@@ -40,7 +40,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 | 2 | புரட்சி வளர்ந்த கதை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 3 | போகிறான்;போகிறான்..! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 4 | இராவணன் நம் பாட்டன் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 5 | இங்கல்ல! இரஷ்யாவில் | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
+| 5 | இங்கல்ல! இரஷ்யாவில் | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
 | 6 | 3, 57, 90. | `not-started` | PASS | — | — | — | — | — |
 | 7 | 30-1-1948 | `not-started` | PASS | — | — | — | — | — |
 | 8 | பத்தினியே உன்போல்...! | `not-started` | PASS | — | — | — | — | — |
@@ -62,7 +62,7 @@ Article 4 final English blob: `03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`.
 - final T5-verified English blob: **`03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`**
 - unresolved blockers: **0**
 
-## Article 5 — T1–T2 COMPLETE / FIDELITY-REVIEWED
+## Article 5 — T1–T3 COMPLETE / VOICE-REVIEWED
 
 - Tamil title: `இங்கல்ல! இரஷ்யாவில்`
 - English title: **Not Here! In Russia**
@@ -70,18 +70,21 @@ Article 4 final English blob: `03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`.
 - source scans: **30–32**
 - printed pages: **30–31; scan 30 has no visible printed numeral**
 - T1 draft blob: `af5d3bf7ae6377b8872076e3562f958299481259`
-- T2 fidelity-reviewed blob: **`82a58cabb1c973fb7781f80e8ec53dac14fb2720`**
+- T2 fidelity-reviewed blob: `82a58cabb1c973fb7781f80e8ec53dac14fb2720`
+- T3 voice-reviewed blob: **`eab4800f78cbf2900a5dca4225b7679d53001acf`**
 - T2 fidelity corrections: **2**
+- T3 meaning-neutral voice/cadence interventions: **8**
 - complete paragraph/clause coverage: **PASS**
 - opening seven-name list: **PASS / preserved line-for-line**
 - scan comments 30–32: **PASS / ordered**
 - scan-30 stove/education wording: **T2 corrected / no invented quotation marks**
 - scan-31 middle martial-mother outcry: **T2 corrected / interrogative force restored / added `My son` removed**
-- rhetorical questions/exclamations/repetition and `Here... There...` contrasts: **PASS**
+- T3 sharpened only cadence/directness in the opening Dravidam/backwardness sentence, queens-of-Tamil accumulation, middle martial-mother movement, `look!` interruption, Nijulina flight/attack line, date lead-ins and final Purananuru/Russia contrast
+- rhetorical questions/exclamations/repetition, `Not a man! A woman! Woman!!`, repeated `Here... There...` contrasts and the three martial-mother movements: **T3 PASS**
 - dates/numbers: **600; February 1, 1945; `10,55,000*`; 1940; 54,200; 49 — PASS**
-- source-sensitive proper names/terms and comparison labels: **T2 REVIEWED**
-- `Soviet Union Hero` plus source-English `(Hero of the Soviet union)`: **T2 REVIEWED / distinct witnesses retained**
-- frozen scan-32 lexical/order sequence: **T2 PASS / retained as translation authority / no scan-based reordering or repair**
+- source-sensitive proper names/terms and comparison labels: **all T2 decisions preserved through T3**
+- `Soviet Union Hero` plus source-English `(Hero of the Soviet union)`: **preserved as distinct source witnesses**
+- frozen scan-32 lexical/order sequence: **T3 PASS / retained as translation authority / no scan-based reordering, repair or smoothing**
 - outside/web historical wording or alternate scan reading imported: **No**
 - unresolved blockers: **0**
 
@@ -98,4 +101,4 @@ Article 4 final English blob: `03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`.
 
 ## Exact next activity
 
-Execute **Article 5 T3 — Kalaignar voice review** for `இங்கல்ல! இரஷ்யாவில்` against frozen Tamil blob `c8ac4d7c241832e07bbb24c5cee935588673f4ac` and T2 English blob `82a58cabb1c973fb7781f80e8ec53dac14fb2720`, scans **30–32**. Preserve all T2 meaning/source decisions while reviewing directness, ridicule, accumulative martial cadence, repeated `Here... There...` contrasts, `Not a man! A woman! Woman!!`, the three martial-mother movements and the final Purananuru/Russia contrast. The frozen scan-32 irregular lexical/order sequence must remain visibly unreconstructed. Make only meaning-neutral voice/cadence changes, synchronize records, and **stop before Article 5 T4**.
+Execute **Article 5 T4 — terminology / quotation / citation / source audit** for `இங்கல்ல! இரஷ்யாவில்` against frozen Tamil blob `c8ac4d7c241832e07bbb24c5cee935588673f4ac` and T3 English blob `eab4800f78cbf2900a5dca4225b7679d53001acf`, scans **30–32**. Audit terminology/proper names, all source quotation scopes, `Soviet Union Hero` and the source-English `(Hero of the Soviet union)`, dates/numbers, scan comments/printed-page witnesses, frozen scan-30 `பீடத்தில்`, frozen scan-31 `திரும்பினார்`, and the frozen scan-32 lexical/order anomaly. Keep Article 5 `voice-reviewed` through T4, make only genuine terminology/quotation/source corrections, synchronize records, and **stop before Article 5 T5**.
