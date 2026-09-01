@@ -40,7 +40,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 | 2 | புரட்சி வளர்ந்த கதை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 3 | போகிறான்;போகிறான்..! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 4 | இராவணன் நம் பாட்டன் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 5 | இங்கல்ல! இரஷ்யாவில் | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
+| 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 6 | 3, 57, 90. | `not-started` | PASS | — | — | — | — | — |
 | 7 | 30-1-1948 | `not-started` | PASS | — | — | — | — | — |
 | 8 | பத்தினியே உன்போல்...! | `not-started` | PASS | — | — | — | — | — |
@@ -49,49 +49,46 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 
 ## Verified baseline
 
-Article 1 final English blob: `4246c9f1e206d5703fe50297657bb0af2a8e57e6`.  
-Article 2 final English blob: `f1599a8e7cae4ba749b9be2857705b152887f9f8`.  
-Article 3 final English blob: `1134185bc21478775419adb3560b110c001d2b75`.  
-Article 4 final English blob: `03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`.
+- Article 1 final English: `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
+- Article 2 final English: `f1599a8e7cae4ba749b9be2857705b152887f9f8`
+- Article 3 final English: `1134185bc21478775419adb3560b110c001d2b75`
+- Article 4 final English: `03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`
+- Article 5 final English: `c689ff90f08d389a5e7ebc4849c30d58dfe81766`
 
-## Article 5 — T1–T4 COMPLETE / VOICE-REVIEWED
+## Article 5 — T0–T5 COMPLETE / VERIFIED
 
 - Tamil title: `இங்கல்ல! இரஷ்யாவில்`
 - English title: **Not Here! In Russia**
 - frozen Tamil authority: `c8ac4d7c241832e07bbb24c5cee935588673f4ac`
 - source scans: **30–32**
 - printed pages: **30–31; scan 30 has no visible printed numeral**
-- T1 draft blob: `af5d3bf7ae6377b8872076e3562f958299481259`
-- T2 fidelity-reviewed blob: `82a58cabb1c973fb7781f80e8ec53dac14fb2720`
-- T3 voice-reviewed blob: `eab4800f78cbf2900a5dca4225b7679d53001acf`
-- T4-audited candidate blob: **`eab4800f78cbf2900a5dca4225b7679d53001acf`**
+- T1 draft: `af5d3bf7ae6377b8872076e3562f958299481259`
+- T2 fidelity-reviewed: `82a58cabb1c973fb7781f80e8ec53dac14fb2720`
+- T3 voice-reviewed / T4-audited candidate: `eab4800f78cbf2900a5dca4225b7679d53001acf`
+- final T5-verified English: **`c689ff90f08d389a5e7ebc4849c30d58dfe81766`**
 - T2 fidelity corrections: **2**
 - T3 meaning-neutral voice/cadence interventions: **8**
 - T4 body corrections: **0**
-- complete paragraph/clause coverage: **PASS**
-- seven opening names and all scan comments/printed-page witnesses: **T4 PASS**
-- first and third martial-mother speeches quoted; middle outcry source-unquoted: **T4 PASS**
-- scan-30 stove/education phrase source-unquoted: **T4 PASS**
-- all dates/numbers, including literal `10,55,000*`: **T4 PASS**
-- `Soviet Union Hero` and source-English `(Hero of the Soviet union)`: **T4 PASS / distinct witnesses retained**
-- four scan-32 comparison labels: **T4 PASS / individually quoted**
-- frozen scan-30 `பீடத்தில்` and scan-31 `திரும்பினார்`: **T4 PASS / no alternate scan form imported**
-- frozen scan-32 lexical/order sequence: **T4 PASS / retained as translation authority / no reordering, lexical repair or smoothing**
+- T5 body corrections: **0**
+- seven opening names, scan comments, printed-page witnesses, quotation scopes and all dates/numbers: **T5 PASS**
+- literal `10,55,000*`: **retained; no unsupported footnote added**
+- `Soviet Union Hero` and source-English `(Hero of the Soviet union)`: **T5 PASS / distinct witnesses retained**
+- frozen scan-30 `பீடத்தில்` and scan-31 `திரும்பினார்`: **T5 PASS / no alternate scan forms imported**
+- frozen scan-32 lexical/order sequence: **T5 PASS / deliberately unreconstructed**
 - outside/web historical wording, alternate scan reading or source-normalising repair imported: **No**
 - unresolved blockers: **0**
 
 ## Publication-specific cautions
 
 1. Translate only from frozen Tamil assemblies.
-2. Preserve the 18 documented P5 scan/Gemini lexical conflicts as upstream provenance; do not silently translate from alternate scan readings.
+2. Preserve the documented P5 scan/Gemini lexical conflicts as upstream provenance; do not silently translate from alternate scan readings.
 3. Article 4 scan 19 and Article 8 scan 42 contain frozen source-recovered text.
 4. Article 8 scan 43 `* * *` and Article 10 verse lineation are structural source authority.
 5. Article 10 excludes scan-49 publication-close matter and scan-50 advertisement.
 6. Do not silently repair source-sensitive forms such as Article 10 `ப்ழச்சளை`.
 7. Preserve questions, exclamations, repetition, direct address and page-boundary comments.
-8. Article 5 T5 must preserve the frozen scan-32 lexical/order sequence rather than substitute the scan-appearing alternate ordering.
-9. T4 is an audit gate; Article 5 remains `voice-reviewed` until T5 passes.
+8. Article 6 must preserve the corrected physical scan-33/34 boundary and frozen Gemini lexical decisions.
 
 ## Exact next activity
 
-Execute **Article 5 T5 — final article verification** for `இங்கல்ல! இரஷ்யாவில்` against frozen Tamil blob `c8ac4d7c241832e07bbb24c5cee935588673f4ac` and T4-audited candidate blob `eab4800f78cbf2900a5dca4225b7679d53001acf`, scans **30–32**. Reconfirm the complete T1–T4 non-regression chain, metadata/source SHA, scan comments/printed-page witnesses, terminology/proper names, quotation scopes, dates/numbers, frozen scan-30 `பீடத்தில்`, frozen scan-31 `திரும்பினார்`, the distinct translated/source-English award witnesses and the unreconstructed scan-32 lexical/order sequence. If all checks pass, advance Article 5 to `verified`, record its final English blob SHA, synchronize records, and **stop before Article 6 T1**.
+Execute **Article 6 T1 — complete close English draft** for `3, 57, 90.` from frozen Tamil blob `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8`, scans **33–38**. Translate every paragraph/clause, retain all scan-boundary comments, questions, exclamations, quotation scopes, dates/numbers and source-bearing oddities. Preserve the corrected scan-33/34 physical boundary and do not substitute scan-appearing alternatives for frozen Gemini forms, including scan-33 `எழுதினான்`, scan-35 `சம்மாதிக்காத`, and scan-38 `ஒரியண்டல்`. Record provisional terminology in the living lexicon, enter `translation_status: draft` only after complete coverage, synchronize records, and **stop before Article 6 T2**.
