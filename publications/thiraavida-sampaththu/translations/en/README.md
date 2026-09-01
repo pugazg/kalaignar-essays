@@ -11,7 +11,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - Tamil articles: **2 / 2 strict-reviewed**
 - E0 translation planning/setup: **COMPLETE**
 - T0 source prerequisite/setup: **2 / 2 PASS**
-- T1 close English drafts: **1 / 2**
+- T1 close English drafts: **2 / 2**
 - T2 fidelity-reviewed: **1 / 2**
 - T3 voice-reviewed: **1 / 2**
 - T4 audited: **1 / 2**
@@ -25,9 +25,10 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | # | Tamil article | Frozen Tamil blob | English file | Status | Gates |
 |---:|---|---|---|---|---|
 | 1 | `திராவிட சம்பத்து` | `6e9759aff9bc4801ee66b3b8c76a814be3e98015` | [`01-thiraavida-sampaththu.md`](01-thiraavida-sampaththu.md) | **verified** | **T0 PASS; T1 PASS; T2 PASS; T3 PASS; T4 PASS; T5 PASS** |
-| 2 | `ஐயர் அறிவிக்கிறார்!` | `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` | `02-aiyar-arivikkirar.md` | **not-started** | **T0 PASS; T1 next** |
+| 2 | `ஐயர் அறிவிக்கிறார்!` | `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` | [`02-aiyar-arivikkirar.md`](02-aiyar-arivikkirar.md) | **draft** | **T0 PASS; T1 PASS; T2 next** |
 
-Article 1 English title: **Dravidian Wealth — VERIFIED**.
+Article 1 English title: **Dravidian Wealth — VERIFIED**.  
+Article 2 working English title: **Iyer Announces! — T1 only / not frozen**.
 
 ## Translation authority
 
@@ -48,18 +49,33 @@ If a genuine source-supported Tamil correction changes either frozen blob, the a
 - metadata status: `verified`
 - T5 body corrections: **0**
 
-T5 re-confirmed complete surviving Article 1 coverage, the title and metadata, all six source-page comments, all quotation boundaries, all four scan-15/16 damage boundaries and all T4-established source-bearing terminology. Hidden torn wording reconstructed: **0**; frozen Tamil changes: **0**; publisher/front/back matter imported: **0**; unresolved T5 blockers: **0**.
+## Article 2 T1 draft state
 
-Article 1 terminology/source decisions are frozen at the verified gate unless a concrete source-supported defect explicitly reopens the article. See [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
+- frozen Tamil authority: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
+- T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
+- metadata status: `draft`
+- source-page comments: scans **12, 3 — 2 / 2 present**
+- working title: **Iyer Announces!**
+- damaged/ambiguous frozen `அயம்`: carried as **ayam**, not guessed
+- `ஐயர்` / `அய்யர்`: carried as **Iyer** / **Ayyar**, not homogenised
+- `ஏனோதானோ` / `ஏனோதானோக்கள்`: working **Enothano / Enothanos**
+- normal `கல்லூரி`: **College**; frozen anomalous `கல்லுரி`: working source-bearing **kalluri**
+- inscription: working source-bearing **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**
+- frozen Tamil body changes: **0**
+- unresolved T1 blockers: **0**
+
+Full provenance: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).  
+Living terminology decisions: [`LEXICON.md`](LEXICON.md).
 
 ## Source-sensitive non-regression
 
 - physical-source tears remain genuine source loss; never reconstruct hidden wording in English;
 - retain source-page comments in every English article;
-- Article 1 preserves scan-15/16 `SOURCE DAMAGE` positions;
 - translate the frozen Tamil witness, not alternate scan-appearing lexical forms recorded during P5;
-- frozen anomalous `பேச்சுல` is verified as source-bearing `pechchul`, not silently repaired;
-- scan-3 frozen `அயம்` remains ambiguous and may not be silently repaired when Article 2 begins;
+- frozen anomalous `பேச்சுல` remains verified as Article 1 source-bearing `pechchul`;
+- frozen scan-3 `அயம்` remains ambiguous and may not be silently repaired in Article 2;
+- frozen scan-3 `கல்லுரி` must not be silently normalised during Article 2 review;
+- preserve `ஐயர்` / `அய்யர்` source-form distinctions unless a later fidelity gate establishes a different source-supported handling;
 - `மன்றத்தில்`, `முக்கிய குறிப்பு` and scan-4 advertisements remain outside the two Kalaignar article translations.
 
 ## Gate legend
@@ -75,8 +91,8 @@ Article 1 terminology/source decisions are frozen at the verified gate unless a 
 
 ## Exact next activity
 
-Execute **Article 2 T1 — complete close English draft for `ஐயர் அறிவிக்கிறார்!` only** from frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
+Execute **Article 2 T2 — bilingual fidelity review** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T1 English blob `1b70952ae377668162fcb35eb045e142a0597190`.
 
-Create `02-aiyar-arivikkirar.md`, translate all surviving Tamil text in source order, retain source-page comments for scans **12 and 3**, preserve frozen damaged/ambiguous `அயம்` without guessed repair, keep `ஐயர்` / `அய்யர்` source-form distinctions source-sensitive, and document only terminology actually encountered.
+Compare every surviving clause and paragraph side by side. Audit the working title, `Iyer` / `Ayyar`, source-bearing `ayam`, `Enothano(s)`, normal `College` versus frozen anomalous `kalluri`, quotation scope, inscription wording, and both source-page comments. Make only fidelity-required corrections.
 
-**Stop after Article 2 T1. Do not perform Article 2 T2 in the same activity.**
+**Stop after Article 2 T2. Do not perform Article 2 T3 in the same activity.**
