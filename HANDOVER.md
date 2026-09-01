@@ -13,10 +13,20 @@ Read completely before changing anything:
 2. `ESSAY_TRANSLATION_GUIDE.md`
 3. `docs/FUTURE_WORK_GUIDELINES.md`
 4. this `HANDOVER.md`
-5. active publication README / metadata / fidelity / completion records
-6. when translation is active: `TRANSLATION_PLAN.md`, English tracker, lexicon and review ledger
+5. `docs/NEXT_CHAT_PROMPT.md` when continuing the current active work in a fresh window
+6. active publication README / metadata / fidelity / completion records
+7. when translation is active: `TRANSLATION_PLAN.md`, English tracker, lexicon and review ledger
 
 Source PDFs are never committed. English translation follows: **Translate the language; do not neutralise the voice.**
+
+## Fresh-window continuation rule
+
+- **Fetch live `main` first. Live `main` is authoritative.**
+- `docs/NEXT_CHAT_PROMPT.md` is the current copy/paste continuation prompt, but it is a convenience summary only.
+- Any checkpoint SHA in a prompt means “last confirmed when prepared”; it is **not** a rollback target.
+- If `main` has advanced, preserve the newer durable state. Never reset, overwrite, repeat or reopen later completed work merely because an older prompt records an earlier boundary.
+- Re-fetch target files before writing when another chat/window may also be active.
+- Last confirmed live HEAD immediately before this handover synchronization: `bd7acfcb1e2159b5943b594579a7eba4cf7bc043` — `Add fresh-window continuation and E6 discipline`.
 
 ---
 
@@ -150,6 +160,16 @@ The lag was reconciled without deleting durable history:
 - canonical `TRANSLATION_REVIEW.md` now continues with Article 9 T5 and Article 10 T1–T5;
 - the temporary `ARTICLE10_T1_PROVENANCE.md` sidecar is no longer needed after successful merge.
 
+## Fresh-window handoff prepared
+
+The repository now contains:
+
+- `docs/NEXT_CHAT_PROMPT.md` — current active-work continuation prompt;
+- `docs/START_NEW_ESSAY_WORK_PROMPT.md` — reusable prompt for a genuinely new supplied work;
+- `docs/FUTURE_WORK_GUIDELINES.md` — includes live-main continuation discipline and E6 correction rules.
+
+A fresh window should begin from live `main`, not from conversational memory. For the current active publication, no source PDF is required merely to start E6 because the Tamil layer is already frozen and the ten English articles are T5-verified. If E6 uncovers a genuinely source-dependent visual question, pause that finding and resolve it from the controlling scan rather than guessing.
+
 ---
 
 # Exact next activity
@@ -168,6 +188,8 @@ E6 must audit:
 - accidental smoothing, harmonisation or modernisation introduced in later articles;
 - completeness of all ten article units and page-boundary comments;
 - durable source anomalies, including source-recovered text, frozen lexical/order witnesses, corrected scan boundaries, frozen `ப்ழச்சளை`, frozen `விட்டாய்.` placement, publication-close exclusions and scan-50 advertisement exclusion.
+
+For each apparent inconsistency, classify it as **consistent**, **deliberate contextual/source-witness exception**, or **correction required**. Do not homogenise deliberate differences merely for style.
 
 Record every consistency correction or deliberate contextual exception in the lexicon/review records, synchronize the tracker/plan/handover, and **do not begin E7 in the same activity**.
 
