@@ -151,7 +151,7 @@ Translation/release workspace:
 
 These Tamil and English authorities remain frozen unless a genuine source-supported or release-blocking defect explicitly reopens the affected gate.
 
-## Publication 4 — திராவிட சம்பத்து — ACTIVE / T0 PASS
+## Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 1 T1 PASS
 
 Workspace: [`publications/thiraavida-sampaththu/`](publications/thiraavida-sampaththu/)
 
@@ -191,12 +191,12 @@ P5 directly rechecked all **16 / 16** scans. Documented lexical conflicts remain
 
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **2 / 2 PASS**
-- T1 drafts: **0 / 2**
+- T1 drafts: **1 / 2 PASS**
 - T2 fidelity-reviewed: **0 / 2**
 - T3 voice-reviewed: **0 / 2**
 - T4 audited: **0 / 2**
 - T5 verified: **0 / 2**
-- English article bodies: **0 / 2**
+- English article bodies: **1 / 2**
 - translation blockers: **0**
 
 Translation workspace:
@@ -205,6 +205,11 @@ Translation workspace:
 - [`translations/en/README.md`](publications/thiraavida-sampaththu/translations/en/README.md)
 - [`translations/en/LEXICON.md`](publications/thiraavida-sampaththu/translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/thiraavida-sampaththu/translations/en/TRANSLATION_REVIEW.md)
+- [`translations/en/01-thiraavida-sampaththu.md`](publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md) — Article 1 T1 draft
+
+Article 1 working English title: **Dravidian Wealth** — not frozen. T1 English draft blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`.
+
+T1 preserved all six Article 1 source-page comments, direct/rhetorical structure, quotation boundaries and the scan-15/16 damage gaps without reconstructing hidden text. Working source-bearing choices are recorded in the living lexicon and remain subject to T2–T4 review.
 
 Detailed Tamil closeout:
 
@@ -213,6 +218,6 @@ Detailed Tamil closeout:
 
 ## Current project state / exact next activity
 
-Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` has a frozen Tamil layer, E0 translation setup is complete, and T0 is **2 / 2 PASS**.
+Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` has a frozen Tamil layer, E0/T0 are complete, and **Article 1 T1 is PASS**.
 
-**Exact next activity:** execute **Article 1 T1 — complete close English draft for `திராவிட சம்பத்து` only** from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`. Preserve source-page comments for scans **5, 6, 13, 14, 15, 16**, preserve all `SOURCE DAMAGE` gaps without reconstruction, update the living lexicon/review ledger, and stop after T1. Do not perform T2 in the same activity.
+**Exact next activity:** execute **Article 1 T2 — bilingual fidelity review** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T1 English blob `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`. Make only fidelity-required English corrections, preserve all damaged-source boundaries, update the review/lexicon/tracker/plan/handover records, and stop after T2. Do not perform T3 in the same activity.
