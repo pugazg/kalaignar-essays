@@ -8,8 +8,8 @@ source_tamil_blob_sha: "6e9759aff9bc4801ee66b3b8c76a814be3e98015"
 source_scan_pages: "5-6, 13-16"
 source_printed_pages: "none visible"
 language: "en"
-translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T2 bilingual fidelity-reviewed; T3 voice-reviewed; T4 terminology/quotation/citation/source-audited; source-damage gaps preserved without reconstruction"
+translation_status: "verified"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T2 bilingual fidelity-reviewed; T3 voice-reviewed; T4 terminology/quotation/citation/source-audited; T5 final-verified; source-damage gaps preserved without reconstruction"
 ---
 
 # Dravidian Wealth
