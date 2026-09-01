@@ -199,7 +199,7 @@ T5 made **0 body corrections**. It reconfirmed the complete T1–T4 non-regressi
 Frozen Tamil authority: `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8`  
 T1 draft English blob: `03b33ab1aaa042266eb34163e688e415baa47be9`  
 T2 fidelity-reviewed blob: `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`  
-T3 voice-reviewed / T4-audited candidate blob: `1332512bbff94f5647dbbdfa7dfe9b1b0a2479d8`  
+T3 voice-reviewed / T4-audited candidate blob: `1332512bbffdd618078813444c2cf24ebcea07ff`  
 Final verified English blob: **`cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`**
 
 | Tamil / source form | English decision | Status / caution |
