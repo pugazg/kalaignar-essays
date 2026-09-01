@@ -8,8 +8,8 @@ source_tamil_blob_sha: "4dd0bbc03f278c9bfc02b189b285a1891aa44d2d"
 source_scan_pages: "45-47"
 source_printed_pages: "45-46; scan 45 has no visible printed numeral"
 language: "en"
-translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed and T3 voice-reviewed against the frozen Tamil assembly"
+translation_status: "verified"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed, T3 voice-reviewed, T4 terminology/quotation/source-audited and T5 final-verified against the frozen Tamil assembly"
 ---
 
 # Mother Nagammaiyar!
