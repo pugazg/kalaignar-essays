@@ -85,7 +85,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - T1 drafts: **9 / 10**
 - T2 fidelity-reviewed: **9 / 10**
 - T3 voice-reviewed: **9 / 10**
-- T4 audited: **8 / 10**
+- T4 audited: **9 / 10**
 - T5 verified: **8 / 10**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
@@ -104,7 +104,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 
 Articles 1–8 are closed at T5. Do not reopen absent a genuine source-supported defect.
 
-## Article 9 — `அன்னை நாகம்மையார்!` — T1–T3 COMPLETE / VOICE-REVIEWED
+## Article 9 — `அன்னை நாகம்மையார்!` — T1–T4 COMPLETE / VOICE-REVIEWED
 
 - English title: **Mother Nagammaiyar!**
 - frozen Tamil: `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
@@ -113,7 +113,7 @@ Articles 1–8 are closed at T5. Do not reopen absent a genuine source-supported
 - English file: `publications/unarchchimaalai/translations/en/09-annai-nagammaiyar.md`
 - T1 draft English: `1d3ac3f7ef2fff5e79b23434f907b467ae1266f6`
 - T2 fidelity-reviewed English: `4336ef783678c165656ab843158e9c29d4695ed5`
-- T3 voice-reviewed English: **`6d8556b574f536f879a2ea3ca6efffb81609add2`**
+- T3 voice-reviewed / T4-audited English candidate: **`6d8556b574f536f879a2ea3ca6efffb81609add2`**
 - translation status: **`voice-reviewed`**
 
 ### Article 9 T2 result
@@ -140,26 +140,41 @@ T3 made **11 meaning-neutral voice/cadence interventions** while preserving ever
 10. made the never-drying life-river **`surge and run on`**;
 11. sharpened the grief-to-duty turn by setting `12-5-1933` off with dashes.
 
-### Article 9 T3 non-regression
+### Article 9 T4 result
+
+T4 made **0 body corrections**. The T3 English blob remains the T4-audited candidate `6d8556b574f536f879a2ea3ca6efffb81609add2`.
+
+T4 audit non-regression:
 
 - metadata/source Tamil SHA/scans/printed-page field: **PASS**
 - complete paragraph/clause coverage: **PASS**
-- all three source-page comments and printed-page witnesses: **PASS**
-- title `Mother Nagammaiyar!`: **PASS**
+- all three source-page comments scans 45–47 and printed-page witnesses: **PASS**
 - source labels `Periyar`, `Ramasami`, `Nagammaiyar` / `Nagamma`, `Ramasamiyar`, `Ammaiyar`: **PASS / no outside biographical conventionalisation**
-- source-sensitive `minor-kaali`: **PASS**
-- T2 public-service/self-interest contrast: **PASS / unchanged in meaning**
-- quoted `கட்டை` image → `A log must quickly be tied to the young fellow.`: **PASS / unchanged**
-- youthful vow: **PASS / unchanged**
-- Nagamma's marriage-or-death declaration: **PASS / unchanged**
-- horse/stable revolutionary quotation: **PASS / unchanged; no published version imported**
-- Ramasami's family-lamp declaration: **PASS / unchanged**
+- source-sensitive `minor-kaali`: **PASS / no outside identification**
+- T2 public-service/self-interest contrast: **PASS**
+- youthful vow: **PASS / quotation retained**
+- source “good boy” quotation: **PASS**
+- quoted parental `log` image: **PASS / no explanatory substitution**
+- Nagamma's marriage-or-death declaration: **PASS**
+- horse/stable revolutionary quotation: **PASS / no published version imported**
+- family-lamp declaration: **PASS**
+- old-man/Nagammaiyar quoted exchange: **PASS**
 - ages/dates/numbers `19`, `13`, `1898`, `35`, `1933`, `11-5-1933`, `12-5-1933`, `144`: **PASS**
-- tender hearts / young veenas / fresh flower / words of fire / herd cattle / flood-with-flood / `many! many!` / never-drying life-river / old-man-Nagammaiyar exchange / duty-surpassing-love imagery: **PASS / no neutralisation**
-- final `காதலையும் மீறிய கடமை` sentence: **PASS / unchanged in meaning**
-- outside/web biographical wording, conventional spellings, alternate source forms or published translation imported: **No**
+- flood-with-flood image: **PASS**
+- repeated `many! many!`: **PASS / T2 placement retained**
+- never-drying life-river: **PASS / T2 water-image continuity retained**
+- final `Duty that surpassed even love` close: **PASS**
+- external citation required: **No**
+- outside/web biographical wording, conventional spellings, alternate source forms or published translations imported: **No**
 - frozen Tamil changed: **No**
 - blockers: **0**
+
+Synchronized Article 9 T4 records:
+- English article / T4 candidate: `6d8556b574f536f879a2ea3ca6efffb81609add2`
+- English tracker: `081a1173cc5a0459365e0f5c7fd1cb4a70c8c2ae`
+- translation plan: `59742ac6b97b4aef468bb6a915d52cb0c6d7351e`
+- living lexicon: `9b3d9d237b17d265d9bff82614d23410d59ff465`
+- review ledger: `17d080d4d5a775d3893d5d99b6c31b26fd7fd156`
 
 ## Article 10
 
@@ -169,27 +184,13 @@ T3 made **11 meaning-neutral voice/cadence interventions** while preserving ever
 
 # Exact next activity
 
-Execute **Article 9 T4 — terminology / quotation / citation / source audit** for `அன்னை நாகம்மையார்!` against:
+Execute **Article 9 T5 — final article verification** for `அன்னை நாகம்மையார்!` against:
 
 - frozen Tamil blob: `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
-- T3 English blob: `6d8556b574f536f879a2ea3ca6efffb81609add2`
+- T4-audited English candidate: `6d8556b574f536f879a2ea3ca6efffb81609add2`
 - source scans: **45–47**
 
-T4 must audit the complete Article 9 terminology/proper-name/source-witness set, quotation scopes, ages/dates/numbers, source-page comments and printed-page witnesses. Recheck especially:
-
-- `Periyar`, `Ramasami`, `Nagammaiyar / Nagamma`, `Ramasamiyar`, `Ammaiyar`;
-- source-sensitive `minor-kaali`;
-- the quoted parental `log` image;
-- Nagamma's marriage-or-death declaration;
-- horse/stable revolutionary quotation;
-- family-lamp declaration;
-- T2-restored public-service/self-interest contrast;
-- `1898!`, `1933`, `11-5-1933`, `12-5-1933`, `Section 144` and all other ages/numbers;
-- flood-with-flood image, repeated `many! many!`, never-drying life-river;
-- old-man/Nagammaiyar affectionate exchange;
-- final `Duty that surpassed even love` close.
-
-Article 9 must remain `voice-reviewed` through T4. Do not change frozen Tamil, source labels, quotation scopes, source meaning or page witnesses. Do not import outside biographical wording, web wording, conventional spellings or published translations. If T4 passes, synchronize records and **stop before Article 9 T5**.
+T5 must re-verify the complete T1–T4 chain, metadata/source fields, paragraph/clause coverage, source labels and terminology, quotation scopes, ages/dates/numbers, source-page comments and printed-page witnesses. Recheck especially `Periyar`, `Ramasami`, `Nagammaiyar / Nagamma`, `Ramasamiyar`, `Ammaiyar`, source-sensitive `minor-kaali`, public-service/self-interest contrast, the quoted parental `log` image, Nagamma's marriage-or-death declaration, horse/stable revolutionary quotation, family-lamp declaration, flood-with-flood image, repeated `many! many!`, never-drying life-river, old-man/Nagammaiyar exchange, all dates/numbers and final `Duty that surpassed even love` close. Do not import outside biographical wording, web wording, conventional spellings, alternate source forms or published translations. If T5 passes, advance Article 9 to `verified`, synchronize records, and **do not begin Article 10 in the same activity**.
 
 ## Current blockers
 
