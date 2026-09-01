@@ -4,7 +4,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Status
 
-**Articles 1–6 T5 VERIFIED; Article 7 T1–T3 COMPLETE / VOICE-REVIEWED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
+**Articles 1–6 T5 VERIFIED; Article 7 T1–T4 COMPLETE / VOICE-REVIEWED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
 
 > **Translate the language; do not neutralise the voice.**
 
@@ -199,7 +199,7 @@ T5 made **0 body corrections**. It reconfirmed the complete T1–T4 non-regressi
 Frozen Tamil authority: `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8`  
 T1 draft English blob: `03b33ab1aaa042266eb34163e688e415baa47be9`  
 T2 fidelity-reviewed blob: `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`  
-T3 voice-reviewed / T4-audited candidate blob: `1332512bbffdd618078813444c2cf24ebcea07ff`  
+T3 voice-reviewed / T4-audited candidate blob: `1332512bbff94f5647dbbdfa7dfe9b1b0a2479d8`  
 Final verified English blob: **`cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`**
 
 | Tamil / source form | English decision | Status / caution |
@@ -248,7 +248,7 @@ Final verified English blob: **`cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`**
 
 ### Article 6 T2 result
 
-T2 made **5 fidelity corrections**: `சூதர்கள்` → `gamblers`; `திராவிடக் கும்பல்` → `Dravidian gang`; `வயிற்றெரிச்சலோடு` → `with our stomachs burning`; clarified frozen scan-38 `இழத்துக்` while preserving the `Sir` / `Ramasamis` page-boundary witness; and reordered the final blindness/savagery/leaving clause to match the frozen Tamil logical relation. All six scan comments, the corrected scan-33/34 split, quotation scopes, numbers/percentages, source-bearing lexical oddities and frozen Gemini forms passed. No outside/web wording or scan-alternate repair was imported.
+T2 made **5 fidelity corrections**: `சூதர்களை` → `gamblers`; `திராவிடக் கும்பல்` → `Dravidian gang`; `வயிற்றெரிச்சலோடு` → `with our stomachs burning`; clarified frozen scan-38 `இழத்துக்` while preserving the `Sir` / `Ramasamis` page-boundary witness; and reordered the final blindness/savagery/leaving clause to match the frozen Tamil logical relation. All six scan comments, the corrected scan-33/34 split, quotation scopes, numbers/percentages, source-bearing lexical oddities and frozen Gemini forms passed. No outside/web wording or scan-alternate repair was imported.
 
 ### Article 6 T3 result
 
@@ -262,38 +262,41 @@ T4 made **0 body corrections**. The complete terminology/proper-name/source-titl
 
 T5 made **0 body corrections**. It re-verified the full T1–T4 chain against the frozen Tamil, all metadata and source witnesses, quotation scopes, dates/numbers, terminology distinctions, scan boundaries and frozen/source-bearing lexical forms. Article 6 is `verified`; final English blob `cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`.
 
-## Article 7 — T1–T3 reviewed decisions
+## Article 7 — T1–T4 audited decisions
 
 Frozen Tamil authority: `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`  
 T1 draft English blob: `6e7b49c9f15cb690d439e2bc5665c226bffccd7e`  
 T2 fidelity-reviewed English blob: `409685e516e32783299130b8205c71638bb8d90d`  
-T3 voice-reviewed English blob: **`b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`**
+T3 voice-reviewed English blob: `b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`  
+T4-audited English candidate: **`1879a5e49c3948bb41ffee15b7c37e6a72149cd5`**
 
 | Tamil / source form | English decision | Status / caution |
 |---|---|---|
-| `30-1-1948` | `30-1-1948` | T3 VOICE-REVIEWED |
-| `காந்தியார்` | `Gandhiyar` | SOURCE-HONORIFIC / T3 VOICE-REVIEWED; do not flatten to plain `Gandhi` where the honorific form is chosen |
-| `உத்தமர் காந்தியார்` | `the noble Gandhiyar` | T3 VOICE-REVIEWED |
-| `அண்ணல் காந்தி` | `revered Gandhi` | SOURCE-LABEL / T3 VOICE-REVIEWED |
-| `மோகனப் புன்னகையார் மோகன் தாஸ் காந்தி` | `Mohan Das Gandhi of the enchanting smile` | SOURCE-EPITHET / T2 CORRECTED / T3 RETAINED; frozen name spacing retained |
-| `வேற்றார்படை` | `foreign army` | T2 CORRECTED / T3 RETAINED |
-| scan-39 `சோக பூகம்` | `soga poogam` | SOURCE-SENSITIVE / T3 VOICE-REVIEWED; frozen token retained without scan-alternate repair |
-| scan-39 `சுக்குநூறாக்கம்` | `sukkunooraakkam` | SOURCE-SENSITIVE / T3 VOICE-REVIEWED; do not add the scan-appearing extra lexical continuation |
-| `பார்ப்பனன்` | `Parppanan` | SOURCE-BEARING / T3 VOICE-REVIEWED |
-| `பார்ப்பனர்கள்` | `Parppanars` | SOURCE-BEARING / T3 VOICE-REVIEWED |
-| `வைதீகம்` | `Vaidheegam` | SOURCE-BEARING / T3 VOICE-REVIEWED |
-| `திராவிடம்` | `Dravidam` | Article 2 T5 decision reused / T3 VOICE-REVIEWED |
-| `இந்து மகா சபை` | `Hindu Mahasabha` | SOURCE-LABEL / T3 VOICE-REVIEWED |
-| `சர். செல்வம்` | `Sir Selvam` | SOURCE-LABEL / T3 VOICE-REVIEWED; no outside identification |
-| `ஓமான் கடல்` | `Oman Sea` | T3 VOICE-REVIEWED |
-| `பனியா` | `Baniya` | SOURCE-BEARING / T3 VOICE-REVIEWED |
-| `ஊக்கம்` | `zeal` | T2 CORRECTED / T3 RETAINED |
-| `தெகிடுதத்தம்` | `thegiduthatham` | SOURCE-SENSITIVE / T3 VOICE-REVIEWED; no outside expansion |
-| `பாரப்பனீய வெறி` | `Parppaniya frenzy` | SOURCE-BEARING / T3 VOICE-REVIEWED |
-| `அய்யய்யோ` | `Ayyo! Ayyo!` | VOICE / T3 VOICE-REVIEWED |
-| `ஏன்...உலகமே அழுகிறது.` | `Why...the whole world itself weeps.` | T3 CADENCE; T2 emphatic meaning retained without creating a question |
-| `அதுவும் தங்களுக்கா ?` | `and that too for you?` | T2 CORRECTED / T3 RETAINED |
-| scan-41 `வரலாற்றை வீணாக்கிய` | deliberately incomplete `that squandered history—` | SOURCE-SENSITIVE / T3 VOICE-REVIEWED; do not extend beyond frozen article ending |
+| `30-1-1948` | `30-1-1948` | T4 AUDITED |
+| `காந்தியார்` | `Gandhiyar` | SOURCE-HONORIFIC / T4 AUDITED; do not flatten to plain `Gandhi` where the honorific form is chosen |
+| `உத்தமர் காந்தியார்` | `the noble Gandhiyar` | T4 AUDITED |
+| `அண்ணல் காந்தி` | `revered Gandhi` | SOURCE-LABEL / T4 AUDITED |
+| `மோகனப் புன்னகையார் மோகன் தாஸ் காந்தி` | `Mohan Das Gandhi of the enchanting smile` | SOURCE-EPITHET / T2 CORRECTED / T4 AUDITED; frozen name spacing retained |
+| `வேற்றார்படை` | `foreign army` | T2 CORRECTED / T4 AUDITED |
+| scan-39 `சோக பூகம்` | `soga poogam` | SOURCE-SENSITIVE / T4 AUDITED; frozen token retained without scan-alternate repair |
+| scan-39 `சுக்குநூறாக்கம்` | `sukkunooraakkam` | SOURCE-SENSITIVE / T4 AUDITED; do not add the scan-appearing extra lexical continuation |
+| `பார்ப்பனன்` | `Parppanan` | SOURCE-BEARING / T4 AUDITED |
+| `பார்ப்பனர்கள்` | `Parppanars` | SOURCE-BEARING / T4 AUDITED |
+| `வைதீகம்` | `Vaidheegam` | SOURCE-BEARING / T4 AUDITED |
+| `திராவிடம்` | `Dravidam` | Article 2 T5 decision reused / T4 AUDITED |
+| `இந்து மகா சபை` | `Hindu Mahasabha` | SOURCE-LABEL / T4 AUDITED |
+| `சர். செல்வம்` | `Sir Selvam` | SOURCE-LABEL / T4 AUDITED; no outside identification |
+| `ஓமான் கடல்` | `Oman Sea` | T4 AUDITED |
+| `பனியா` | `Baniya` | SOURCE-BEARING / T4 AUDITED |
+| `ஊக்கம்` | `zeal` | T2 CORRECTED / T4 AUDITED |
+| `தெகிடுதத்தம்` | `thegiduthatham` | SOURCE-SENSITIVE / T4 AUDITED; no outside expansion |
+| `பாரப்பனீய வெறி` | `Parppaniya frenzy` | SOURCE-BEARING / T4 AUDITED |
+| `அய்யய்யோ` | `Ayyo! Ayyo!` | VOICE / T4 AUDITED |
+| `ஏன்...உலகமே அழுகிறது.` | `Why...the whole world itself weeps.` | T3 CADENCE / T4 AUDITED; emphatic continuation preserved without creating a question |
+| `அதுவும் தங்களுக்கா ?` | `and that too for you?` | T2 CORRECTED / T4 AUDITED |
+| `விடுதலை...உண்மை விடுதலையாக மாறுவதற்கு முன்` | `Before freedom...could become true freedom` | T4 CORRECTED; does not imply the prospective outcome occurred |
+| `பதவி வேட்டை ஒய்வதற்கு முன்` | `before the hunt for office could cease` | SOURCE-SENSITIVE / T4 CORRECTED; frozen `ஒய்வதற்கு` retained upstream and scan alternate not imported |
+| scan-41 `வரலாற்றை வீணாக்கிய` | deliberately incomplete `that squandered history—` | SOURCE-SENSITIVE / T4 AUDITED; do not extend beyond frozen article ending |
 
 ### Article 7 T2 result
 
@@ -302,6 +305,10 @@ T2 made **5 fidelity corrections**: `வேற்றார்படை` `enemy a
 ### Article 7 T3 result
 
 T3 made **9 meaning-neutral voice/cadence interventions** while preserving all T2 meaning/source/terminology decisions. It hardened the opening to `A blood-stained day`, tightened the blood-tears and prayer/foreign-army clauses, changed `rejoiced on seeing` to `rejoiced to see`, sharpened the 30th-date turn with an em dash, made the bullet apostrophe more direct with `How could you...`, restored the source-like world-weeping cadence as `Why...the whole world itself weeps.`, tightened `Because` to `For`, and made the final direct-address freedom/office-hunt sequence more immediate. All source-bearing terminology, scan comments/page boundaries, dates, rhetorical questions/exclamations and the frozen incomplete ending remained unchanged. No outside or scan-alternate wording was imported.
+
+### Article 7 T4 result
+
+T4 made **2 clause-level body corrections in one scan-41 sentence**: T3 `Before freedom...became true freedom` → **`Before freedom...could become true freedom`**, and `before the hunt for office ceased` → **`before the hunt for office could cease`**. The correction restores the frozen `மாறுவதற்கு முன்` / `ஒய்வதற்கு முன்` relation without implying those later outcomes occurred. The complete terminology/proper-name/source-bearing set, opening quotation, bullet-apostrophe quotation, source-quoted `‘freedom’`, all dates, all three scan comments and both cross-page continuations, world-weeping cadence, frozen scan-39 `ஒடி` / `சோக பூகம்` / `சுக்குநூறாக்கம்`, scan-41 `ஒய்வதற்கு`, final frozen order and incomplete ending all passed. No external citation was required; no outside historical identification, web wording, published translation, source-normalising reconstruction or alternate scan lexical/order reading was imported.
 
 ## Decisions still to establish in later articles
 
@@ -313,4 +320,4 @@ T3 made **9 meaning-neutral voice/cadence interventions** while preserving all T
 
 ## Next lexicon activity
 
-During **Article 7 T4**, audit the T3 candidate `b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376` for terminology, proper names, quotation/citation boundaries and source provenance. Preserve every T2/T3 meaning and source decision, especially `Gandhiyar`, `Mohan Das Gandhi`, `foreign army`, `soga poogam`, `sukkunooraakkam`, `Parppanan` / `Parppanars`, `Vaidheegam`, `Dravidam`, `Hindu Mahasabha`, `Sir Selvam`, `Oman Sea`, `Baniya`, `thegiduthatham`, `Parppaniya frenzy`, `zeal`, the bullet apostrophe, world-weeping cadence, all page boundaries and the deliberately incomplete scan-41 ending. Do not import alternate scan readings, outside historical identification, web wording or published translations.
+During **Article 7 T5**, final-verify T4 candidate `1879a5e49c3948bb41ffee15b7c37e6a72149cd5` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`. Recheck all Article 7 terminology/source-label decisions, quotation scopes, dates, scan comments/page continuations, frozen source-sensitive witnesses, the T4-restored `could become` / `could cease` relation and the deliberately incomplete scan-41 ending. Do not import alternate scan readings, outside historical identification, web wording or published translations.
