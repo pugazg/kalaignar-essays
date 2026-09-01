@@ -44,7 +44,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 | 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 8 | பத்தினியே உன்போல்...! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 9 | அன்னை நாகம்மையார்! | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
+| 9 | அன்னை நாகம்மையார்! | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
 
 ## Verified baseline
@@ -57,6 +57,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - Article 6 final English: `cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`
 - Article 7 final English: `6cfb28e2d83ba84ee2daa54606561479b61498b0`
 - Article 8 final English: `6b12e6b3cc09b6de402998bb3824e7a98808f885`
+- Article 9 final English: `204ffed012f4bd91b3077065f031d6b2db747854`
 
 ## Article 8 — T0–T5 COMPLETE / VERIFIED
 
@@ -66,7 +67,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - final T5-verified English: **`6b12e6b3cc09b6de402998bb3824e7a98808f885`**
 - blockers: **0**
 
-## Article 9 — T1–T4 COMPLETE / VOICE-REVIEWED
+## Article 9 — T0–T5 COMPLETE / VERIFIED
 
 - Tamil title: **அன்னை நாகம்மையார்!**
 - English title: **Mother Nagammaiyar!**
@@ -75,18 +76,20 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - printed pages: **45–46; scan 45 has no visible printed numeral**
 - T1 draft English: `1d3ac3f7ef2fff5e79b23434f907b467ae1266f6`
 - T2 fidelity-reviewed English: `4336ef783678c165656ab843158e9c29d4695ed5`
-- T3 voice-reviewed / T4-audited English candidate: **`6d8556b574f536f879a2ea3ca6efffb81609add2`**
+- T3 voice-reviewed / T4-audited English candidate: `6d8556b574f536f879a2ea3ca6efffb81609add2`
+- final T5-verified English: **`204ffed012f4bd91b3077065f031d6b2db747854`**
 - T2 fidelity corrections: **3**
   1. `பொதுநலவாழ்வில்` — restored the explicit public-service contrast with following `சுயநல வாழ்வில்`;
   2. scan 47 `பெண் உயர்வுக்கான சம்பவங்கள் பல! பல!` — restored the source placement of the repeated `many! many!` after the women's-uplift incidents;
   3. `வற்றாத உயிராறு` — `unfailing river of life` → **`never-drying river of life`**, preserving the preceding dry-up/water image.
-- T3 meaning-neutral voice/cadence interventions: **11** — opening young-Ramasami cadence; young-veena love-note; youth-dancing beat; “good boy” cadence; indelible-heart declaration; old-suitor ridicule; `spark-words` image; herd-cattle age framing; victory-symbol line; life-river surge/run; next-day duty turn.
+- T3 meaning-neutral voice/cadence interventions: **11**.
 - T4 body corrections: **0**.
-- source labels `Periyar`, `Ramasami`, `Nagammaiyar` / `Nagamma`, `Ramasamiyar`, `Ammaiyar`: **T4 PASS / no outside conventionalisation**.
-- `minor-kaali`, quoted `log` image, youthful vow, Nagamma's marriage-or-death declaration, horse/stable revolutionary verse and family-lamp declaration: **T4 PASS**.
-- all ages/dates/numbers `19`, `13`, `1898`, `35`, `1933`, `11-5-1933`, `12-5-1933`, `144`: **T4 PASS**.
-- all source-page comments and printed witnesses: **T4 PASS**.
-- public-service/self-interest contrast, flood-with-flood image, repeated `many! many!`, never-drying life-river, affectionate old-man/Nagammaiyar exchange and final `காதலையும் மீறிய கடமை` sentence: **T4 PASS**.
+- T5 body corrections: **0**.
+- source labels `Periyar`, `Ramasami`, `Nagammaiyar` / `Nagamma`, `Ramasamiyar`, `Ammaiyar`: **T5 VERIFIED / no outside conventionalisation**.
+- `minor-kaali`, quoted `log` image, youthful vow, Nagamma's marriage-or-death declaration, horse/stable revolutionary quotation and family-lamp declaration: **T5 PASS**.
+- all ages/dates/numbers `19`, `13`, `1898`, `35`, `1933`, `11-5-1933`, `12-5-1933`, `144`: **T5 PASS**.
+- all source-page comments and printed witnesses: **T5 PASS**.
+- public-service/self-interest contrast, flood-with-flood image, repeated `many! many!`, never-drying life-river, affectionate old-man/Nagammaiyar exchange and final `காதலையும் மீறிய கடமை` sentence: **T5 PASS**.
 - external citation required: **No**.
 - outside/web biographical wording, conventional spellings, alternate source forms or published translation imported: **No**.
 - blockers: **0**.
@@ -103,4 +106,4 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 
 ## Exact next activity
 
-Execute **Article 9 T5 — final article verification** for `அன்னை நாகம்மையார்!` against frozen Tamil blob `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` and T4-audited English candidate `6d8556b574f536f879a2ea3ca6efffb81609add2`, scans **45–47**. Re-verify the complete T1–T4 chain, metadata/source fields, paragraph/clause coverage, source labels and terminology, quotation scopes, all ages/dates/numbers, source-page comments and printed-page witnesses, source-sensitive `minor-kaali`, the T2-restored public-service/self-interest and never-drying-life-river choices, repeated `many! many!`, affectionate old-man/Nagammaiyar exchange and the final duty-surpassing-love close. Do not import outside biographical wording, web wording, conventional spellings, alternate source forms or published translations. If T5 passes, advance Article 9 to `verified`, synchronize records, and **do not begin Article 10 in the same activity**.
+Execute **Article 10 T1 — complete close English draft** for `கவிதையல்ல - கண்ணீர்க்கடல் !` against frozen Tamil blob `f856664d86695237a23d0ffc0bef088d32a82fe9`, scans **48–49**. Translate the complete frozen article paragraph by paragraph and verse unit by verse unit. Preserve source-page comments, Article 10 verse lineation, questions/exclamations/repetition and source-bearing terminology. Retain frozen scan-48 `ப்ழச்சளை` exactly as the Tamil authority, preserve frozen scan-49 `விட்டாய்.` placement, and exclude the scan-49 publication-source note/imprint and scan-50 advertisement because they are outside Article 10. Do not import alternate scan readings, outside identifications, web wording or published translations. Establish provisional Article 10 terminology, record T1 provenance, synchronize trackers/handover, and **stop before Article 10 T2**.
