@@ -15,12 +15,12 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T3 voice-reviewed: **10 / 10**
 - T4 audited: **10 / 10**
 - T5 verified: **10 / 10**
-- E6 publication consistency review: **NOT STARTED**
+- E6 publication consistency review: **COMPLETE / PASS**
 - E7 release closeout: **NOT STARTED**
-- English translation: **IN PROGRESS — ALL ARTICLES INDIVIDUALLY VERIFIED**
+- English translation: **IN PROGRESS — E6 PASSED; E7 REMAINS**
 - unresolved translation blockers: **0**
 
-Articles 1–10 have completed T0–T5 and are individually `verified`. Publication-level E6 and E7 remain.
+Articles 1–10 have completed T0–T5 and are individually `verified`. E6 has passed publication-wide consistency review with **0 English body corrections**. E7 release closeout remains.
 
 ## Frozen Tamil translation authorities
 
@@ -50,9 +50,9 @@ Articles 1–10 have completed T0–T5 and are individually `verified`. Publicat
 | 7 | 30-1-1948 | [`07-30-1-1948.md`](07-30-1-1948.md) | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 8 | பத்தினியே உன்போல்...! | [`08-paththiniye-unpol.md`](08-paththiniye-unpol.md) | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 9 | அன்னை நாகம்மையார்! | [`09-annai-nagammaiyar.md`](09-annai-nagammaiyar.md) | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | [`10-kavithaiyalla-kannirkkadal.md`](10-kavithaiyalla-kannirkkadal.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
+| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | [`10-kavithaiyalla-kannirkkadal.md`](10-kavithaiyalla-kannirkkadal.md) | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 
-## Verified article baseline
+## Verified article baseline — unchanged by E6
 
 1. `உணர்ச்சி மாலை` — **Garland of Emotion** — `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
 2. `புரட்சி வளர்ந்த கதை` — **The Story of How the Revolution Grew** — `f1599a8e7cae4ba749b9be2857705b152887f9f8`
@@ -89,10 +89,22 @@ Articles 1–10 have completed T0–T5 and are individually `verified`. Publicat
 - outside/web identification, alternate scan reading or published translation imported: **No**
 - blockers: **0**
 
+## E6 — publication-wide English consistency review — PASS
+
+E6 compared all ten T5-verified articles for recurring names and epithets, epic-name conventions, Aryan/Dravidian ideological vocabulary, Brahmin/Parppanar/Vaidheegam-family terminology, source-bearing transliterations and insults, source/publication titles, quotation treatment, title style, tone, completeness, page-boundary comments and durable source anomalies.
+
+- English body corrections required: **0**.
+- article blob SHAs changed: **0 / 10**.
+- frozen Tamil changes: **0**.
+- source/fidelity gates reopened: **No**.
+- E6 blockers: **0**.
+
+Deliberate source/context differences were preserved rather than homogenised, including `Dravidam` / `Dravidians` / adjectival `Dravidian`, `Kambar` / `Kamban`, Gandhi source-label variants, `Brahmin` versus source-bearing `Parppanar` forms, `Vediyars`, `Vaidheegam` / `Vaidheega`, `Harijan` versus `Arijan journal`, `Oriental College` versus frozen `Oriyantal College`, Article 5's translated award versus its separate source-English parenthetical, Article 9 name/honorific variants, and unresolved/source-bearing transliterations. Full E6 provenance is in [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
+
 ## Translation authority / special source rule
 
 English authority is the frozen Tamil article assembly, not OCR, memory, web wording or a scan-appearing alternate lexical reading. The publication's documented P5 scan/Gemini disagreements remain upstream provenance only.
 
 ## Exact next activity
 
-Execute **E6 — publication-wide English consistency review** across all ten individually verified articles. Audit recurring names and epithets, Aryan/Dravidian and other ideological vocabulary, source-bearing terms/puns, source/publication titles, quotation treatment, title style, tone consistency, accidental smoothing, completeness and durable source anomalies. Record any consistency correction or deliberate contextual exception, synchronize the lexicon/review/tracker/plan/handover, and **do not begin E7 in the same activity**.
+Execute **E7 — English release closeout**. Do not reopen the ten verified English bodies unless E7 identifies a genuine release-blocking or source-supported defect.
