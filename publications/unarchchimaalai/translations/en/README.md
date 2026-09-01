@@ -12,7 +12,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T0 source prerequisite/setup: **COMPLETE / PASS**
 - T1 close English drafts: **9 / 10**
 - T2 fidelity-reviewed: **9 / 10**
-- T3 voice-reviewed: **8 / 10**
+- T3 voice-reviewed: **9 / 10**
 - T4 audited: **8 / 10**
 - T5 verified: **8 / 10**
 - E6 publication consistency review: **NOT STARTED**
@@ -20,7 +20,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - English translation: **IN PROGRESS**
 - unresolved translation blockers: **0**
 
-Articles 1–8 have completed T0–T5 and are individually `verified`. Article 9 has completed T1–T2 and is `fidelity-reviewed`; T3 has not started.
+Articles 1–8 have completed T0–T5 and are individually `verified`. Article 9 has completed T1–T3 and is `voice-reviewed`; T4 has not started.
 
 ## Frozen Tamil translation authorities
 
@@ -49,7 +49,7 @@ Articles 1–8 have completed T0–T5 and are individually `verified`. Article 9
 | 6 | 3, 57, 90. | [`06-3-57-90.md`](06-3-57-90.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 7 | 30-1-1948 | [`07-30-1-1948.md`](07-30-1-1948.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 8 | பத்தினியே உன்போல்...! | [`08-paththiniye-unpol.md`](08-paththiniye-unpol.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 9 | அன்னை நாகம்மையார்! | [`09-annai-nagammaiyar.md`](09-annai-nagammaiyar.md) | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
+| 9 | அன்னை நாகம்மையார்! | [`09-annai-nagammaiyar.md`](09-annai-nagammaiyar.md) | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `10-kavithaiyalla-kannirkkadal.md` | `not-started` | PASS | — | — | — | — | — |
 
 ## Verified article records
@@ -89,7 +89,7 @@ Articles 1–8 have completed T0–T5 and are individually `verified`. Article 9
 - final T5-verified English: **`6b12e6b3cc09b6de402998bb3824e7a98808f885`**
 - blockers: **0**
 
-## Article 9 — T1–T2 COMPLETE / FIDELITY-REVIEWED
+## Article 9 — T1–T3 COMPLETE / VOICE-REVIEWED
 
 - Tamil title: **அன்னை நாகம்மையார்!**
 - English title: **Mother Nagammaiyar!**
@@ -97,12 +97,14 @@ Articles 1–8 have completed T0–T5 and are individually `verified`. Article 9
 - source scans: **45–47**
 - printed pages: **45–46; scan 45 has no visible printed numeral**
 - T1 draft English: `1d3ac3f7ef2fff5e79b23434f907b467ae1266f6`
-- T2 fidelity-reviewed English: **`4336ef783678c165656ab843158e9c29d4695ed5`**
+- T2 fidelity-reviewed English: `4336ef783678c165656ab843158e9c29d4695ed5`
+- T3 voice-reviewed English: **`6d8556b574f536f879a2ea3ca6efffb81609add2`**
 - T2 fidelity corrections: **3** — restored the `பொதுநலவாழ்வு` / `சுயநல வாழ்வு` public-service/self-interest contrast; restored the source placement of `பல! பல!` after the women's-uplift incidents; restored the drying/water image as `never-drying river of life`.
+- T3 meaning-neutral voice/cadence interventions: **11** — tightened the opening young-Ramasami phrasing; made the young-veena love-note ring more naturally; sharpened the youth-dancing and “good boy” beats; made Nagamma's indelible-heart declaration more direct; tightened the old-suitor ridicule; restored `spark-words` as a vivid image; tightened the herd-cattle age framing; strengthened the victory-symbol line; made the life-river both surge and run; and sharpened the next-day duty turn with the date set off by dashes.
 - source labels retained as `Periyar`, `Ramasami`, `Nagammaiyar` / `Nagamma`, `Ramasamiyar`, and `Ammaiyar` without outside biographical conventionalisation.
 - ages/dates/numbers preserved: `19`, `13`, `1898`, `35`, `1933`, `11-5-1933`, `12-5-1933`, `144`.
 - all three source-page comments and printed-page witnesses preserved.
-- youthful marriage vows, the quoted `log` image, horse/stable revolutionary verse, Ramasami's family-lamp declaration, old-man/Nagammaiyar exchange, affection, ridicule and polemical imagery: **T2 PASS**.
+- youthful marriage vows, the quoted `log` image, horse/stable revolutionary verse, Ramasami's family-lamp declaration, old-man/Nagammaiyar exchange, affection, ridicule and polemical imagery: **T3 PASS**.
 - outside/web biographical wording, alternate source forms or published translation imported: **No**.
 - blockers: **0**
 
@@ -112,4 +114,4 @@ English authority is the frozen Tamil article assembly, not OCR, memory, web wor
 
 ## Exact next activity
 
-Execute **Article 9 T3 — Kalaignar voice review** for `அன்னை நாகம்மையார்!` against frozen Tamil blob `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` and T2 English blob `4336ef783678c165656ab843158e9c29d4695ed5`, scans **45–47**. Preserve every T2 meaning/source decision while reviewing only directness, cadence, affectionate warmth, ridicule, repetition, exclamations and image force. Keep the source labels, `minor-kaali`, quoted `log` image, horse/stable revolutionary quotation, family-lamp declaration, all ages/dates/numbers, source-page comments and final duty-surpassing-love sentence unchanged in meaning. Stop before Article 9 T4.
+Execute **Article 9 T4 — terminology / quotation / citation / source audit** for `அன்னை நாகம்மையார்!` against frozen Tamil blob `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` and T3 English blob `6d8556b574f536f879a2ea3ca6efffb81609add2`, scans **45–47**. Audit all Article 9 source labels and terminology, quotation scopes, ages/dates/numbers, source-page comments and printed-page witnesses, source-sensitive `minor-kaali`, the quoted `log` image, horse/stable revolutionary quotation, family-lamp declaration, the T2-restored public-service/self-interest and life-river choices, the repeated `many! many!`, and the final duty-surpassing-love close. Article 9 must remain `voice-reviewed` through T4. Do not import outside biographical wording, web wording, conventional spellings or published translations. Stop before T5.
