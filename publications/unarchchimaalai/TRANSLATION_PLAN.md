@@ -41,8 +41,8 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 | 3 | போகிறான்;போகிறான்..! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 4 | இராவணன் நம் பாட்டன் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 7 | 30-1-1948 | `not-started` | PASS | — | — | — | — | — |
+| 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
+| 7 | 30-1-1948 | `draft` | PASS | **PASS** | — | — | — | — |
 | 8 | பத்தினியே உன்போல்...! | `not-started` | PASS | — | — | — | — | — |
 | 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
@@ -59,21 +59,30 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 ## Article 6 — T0–T5 COMPLETE / VERIFIED
 
 - frozen Tamil authority: `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8`
-- source scans: **33–38**
-- printed pages: **33–37; scan 33 has no visible printed numeral**
-- T1 draft: `03b33ab1aaa042266eb34163e688e415baa47be9`
-- T2 fidelity-reviewed: `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`
-- T3 voice-reviewed / T4-audited: `1332512bbffdd618078813444c2cf24ebcea07ff`
 - final T5-verified English: **`cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`**
-- T2 corrections: **5**; T3 interventions: **10**; T4 body corrections: **0**; T5 body corrections: **0**
-- six scan comments and corrected scan-33/34 boundary: **T5 PASS**
-- all quotation scopes and cross-page continuations: **T5 PASS**
-- `Mail`, `29-5-48`, all numbers/percentages and final `3, 57, 90.`: **T5 PASS**
-- `Brahmin` vs `Parppanar`; `Oriental College` vs final `Oriyantal College`: **T5 PASS / source distinctions retained**
-- frozen `எழுதினான்`, `சம்மாதிக்காத`, `பிரிதிநிதித்துவத்தை`, `இழத்துக்`, `பிர பிரஹலாதர்களாக`, `வேண்டியுளது`, `ஒரியண்டல்`: **T5 PASS / no repair**
-- source-bearing `kabothi`, `sodha`, `othiya`, `mathith thalaivar`, `Vediyars`, `Dravidian Vibhishanas`, `pira Prahaladas`: **T5 VERIFIED**
-- outside/web historical wording or alternate-scan repair imported: **No**
 - blockers: **0**
+
+## Article 7 — T1 COMPLETE / DRAFT
+
+- Tamil / English title: **30-1-1948**
+- frozen Tamil authority: `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`
+- source scans: **39–41**
+- printed pages: **39–40; scan 39 has no visible printed numeral**
+- T1 draft English: **`6e7b49c9f15cb690d439e2bc5665c226bffccd7e`**
+- complete paragraph/clause coverage: **PASS**
+- scan comments/page boundaries 39–41: **PASS**
+- repeated mourning rhetoric, rhetorical questions/exclamations and direct bullet apostrophe: **PASS**
+- frozen scan-39 quoted `flowing away......Has Gandhi died?` scope: **retained**
+- frozen source-sensitive `சோக பூகம்` / `சுக்குநூறாக்கம்`: **provisionally retained as `soga poogam` / `sukkunooraakkam`; no repair**
+- `காந்தியார்`: **provisional `Gandhiyar`**
+- `பார்ப்பனன்` / `பார்ப்பனர்கள்`: **provisional `Parppanan` / `Parppanars`**
+- `வைதீகம்`: **provisional `Vaidheegam`**
+- `திராவிடம்`: **`Dravidam` / Article 2 decision reused**
+- `தெகிடுதத்தம்`: **provisional source-bearing `thegiduthatham`**
+- `பாரப்பனீய வெறி`: **provisional `Parppaniya frenzy`**
+- frozen scan-41 ending `வரலாற்றை வீணாக்கிய`: **preserved as deliberately incomplete `that squandered history—`**
+- outside/web historical wording, alternate scan reading or published translation imported: **No**
+- unresolved T1 blockers: **0**
 
 ## Publication-specific cautions
 
@@ -84,8 +93,9 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 5. Article 10 excludes scan-49 publication-close matter and scan-50 advertisement.
 6. Do not silently repair Article 10 `ப்ழச்சளை`.
 7. Preserve questions, exclamations, repetition, direct address and page-boundary comments.
-8. Article 7 ends on scan 41 at frozen `வரலாற்றை வீணாக்கிய`; do not extend or reconstruct it from outside material.
+8. Article 7 ends on scan 41 at frozen `வரலாற்றை வீணாக்கிய`; T2 must not extend or reconstruct it from outside material.
+9. Article 7 source-sensitive frozen forms `சோக பூகம்`, `சுக்குநூறாக்கம்`, `ஒடி`, `ஒய்வதற்கு` and the scan-41 ordering remain upstream authority; do not substitute scan-appearing alternatives.
 
 ## Exact next activity
 
-Execute **Article 7 T1 — complete close English draft** for `30-1-1948` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`, scans **39–41**, printed pages **39–40; scan 39 has no visible printed numeral**. Translate the complete frozen assembly paragraph by paragraph and clause by clause; preserve scan comments/page boundaries, quotation scope, rhetorical questions/exclamations, repetitions, polemical labels, dates, source-bearing forms and the frozen scan-41 ending. Do not import alternate scan lexical/order readings, outside historical wording or published translations. Establish provisional Article 7 terminology in the lexicon, advance only to `draft` if T1 passes, synchronize records, and **stop before Article 7 T2**.
+Execute **Article 7 T2 — bilingual fidelity review** for `30-1-1948` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` and T1 English blob `6e7b49c9f15cb690d439e2bc5665c226bffccd7e`, scans **39–41**. Re-read the full article paragraph by paragraph and clause by clause, checking quotation scope, repeated mourning rhetoric, dates, source honorifics, polemical labels, provisional source-bearing forms, scan comments/page boundaries and the deliberately incomplete frozen scan-41 ending. Do not import scan-appearing alternate lexical/order readings, outside historical wording or published translations. Record every fidelity correction, advance only to `fidelity-reviewed` if T2 passes, synchronize records, and **stop before Article 7 T3**.
