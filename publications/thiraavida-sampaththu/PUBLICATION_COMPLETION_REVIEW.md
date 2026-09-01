@@ -53,7 +53,7 @@ P5 retained documented lexical-witness conflicts on scans **3, 4, 5 and 16**, pr
 - T0 source prerequisite: **2 / 2 PASS**
 - T1 close drafts: **2 / 2**
 - T2 fidelity-reviewed: **2 / 2**
-- T3 voice-reviewed: **1 / 2**
+- T3 voice-reviewed: **2 / 2**
 - T4 audited: **1 / 2**
 - T5 verified: **1 / 2**
 - E6 publication-wide consistency review: **NOT STARTED**
@@ -74,33 +74,35 @@ Article 1 `திராவிட சம்பத்து` has completed T0–T5
 
 **ARTICLE 1 ENGLISH TRANSLATION: VERIFIED.**
 
-## Article 2 English translation — T2 COMPLETE / PASS
+## Article 2 English translation — T3 COMPLETE / PASS
 
-Article 2 `ஐயர் அறிவிக்கிறார்!` has completed its bilingual fidelity review.
+Article 2 `ஐயர் அறிவிக்கிறார்!` has completed the Kalaignar voice review.
 
-- working English title: **Iyer Announces!** — T2 semantic pass / not frozen
+- working English title: **Iyer Announces!** — T3 voice pass / not frozen
 - frozen Tamil authority: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
 - T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
 - T2 fidelity-reviewed English blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
-- metadata status: `fidelity-reviewed`
+- T3 voice-reviewed English blob: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
+- metadata status: `voice-reviewed`
 - source-page comments: scans **12, 3 — 2 / 2 present and ordered**
 - `ஐயர்` / `அய்யர்`: **Iyer / Ayyar** distinction retained
 - frozen damaged/ambiguous `அயம்`: source-bearing **ayam**, not repaired
-- `ஏனோதானோ` / `ஏனோதானோக்கள்`: **Enothano / Enothanos**
+- `ஏனோதானோ` / `ஏனோதானோக்கள்`: **Enothano / Enothanos**, ridicule retained
 - normal `கல்லூரி`: **College**; frozen scan-3 `கல்லுரி`: source-bearing **kalluri**
 - narrative fused `சாமிநாதய்யர்`: **Saminathayyar**; inscription `சாமிநாத அய்யர்`: **Saminatha Ayyar**
 - quoted inscription: **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**
-- T2 English body corrections: **3**
+- T3 voice/cadence interventions: **9**
+- T2-secured substantive claims changed: **0**
 - external inscription wording imported: **No**
-- frozen Tamil changes during T2: **0**
-- unresolved T2 blockers: **0**.
+- frozen Tamil changes during T3: **0**
+- unresolved T3 blockers: **0**.
 
-**ARTICLE 2 T2 BILINGUAL FIDELITY REVIEW: PASS.**
+**ARTICLE 2 T3 KALAIGNAR VOICE REVIEW: PASS.**
 
 ## Exact next activity
 
-Execute **Article 2 T3 — Kalaignar voice review** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T2 English blob `b7361d26a711d61938da24d33b3512ddf5653e53`.
+Execute **Article 2 T4 — terminology / quotation / citation / source audit** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T3 English blob `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`.
 
-Review direct address, commands, repetition, mockery, the startled `அய்யராவது...` construction, `உண்மை நண்பர்களே உண்மை!`, the fire-stepping image, `ஏனோதானோ` ridicule, the imperative ending and the inscription reveal. Make only meaning-neutral voice/cadence changes while preserving all T2-secured source-form distinctions.
+Audit the working title, `Iyer` / `Ayyar`, `Dravidam`, `Enothano(s)`, source-bearing `ayam`, normal `College` versus frozen `kalluri`, narrative `Saminathayyar` versus inscription `Saminatha Ayyar`, `Maha Mahopadhyaya Dravida Vidya Bhushana`, first-paragraph quotation scope, final inscription wording, metadata and both source-page comments. Make only source/terminology/quotation corrections required by the frozen witness.
 
-Stop after Article 2 T3. **Do not perform Article 2 T4 in the same activity.**
+Stop after Article 2 T4. **Do not perform Article 2 T5 in the same activity.**
