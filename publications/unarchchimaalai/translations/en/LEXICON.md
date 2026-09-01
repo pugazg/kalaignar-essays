@@ -4,7 +4,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Status
 
-**Articles 1–5 T5 VERIFIED; Article 6 T1–T4 COMPLETE / VOICE-REVIEWED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
+**Articles 1–6 T5 VERIFIED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
 
 > **Translate the language; do not neutralise the voice.**
 
@@ -194,56 +194,57 @@ Final verified English blob: **`c689ff90f08d389a5e7ebc4849c30d58dfe81766`**
 
 T5 made **0 body corrections**. It reconfirmed the complete T1–T4 non-regression set, metadata/source SHA, scan comments and printed-page witnesses, quotation scopes, dates/numbers, source-English parenthetical, frozen scan-30 `பீடத்தில்`, frozen scan-31 `திரும்பினார்`, and the deliberately unreconstructed scan-32 lexical/order sequence. No outside/web wording or source-normalising repair was used.
 
-## Article 6 — T4-audited decisions
+## Article 6 — T5-verified decisions
 
 Frozen Tamil authority: `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8`  
 T1 draft English blob: `03b33ab1aaa042266eb34163e688e415baa47be9`  
 T2 fidelity-reviewed blob: `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`  
-T3 voice-reviewed / T4-audited candidate blob: **`1332512bbffdd618078813444c2cf24ebcea07ff`**
+T3 voice-reviewed / T4-audited candidate blob: `1332512bbffdd618078813444c2cf24ebcea07ff`  
+Final verified English blob: **`cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`**
 
 | Tamil / source form | English decision | Status / caution |
 |---|---|---|
-| `3, 57, 90.` | `3, 57, 90.` | T4 AUDITED |
-| `வகுப்பு வாதம்` / `வகுப்பு வாதி` | `communalism` / `communalist` | T4 AUDITED; historical/polemical register retained without outside expansion |
-| `வகுப்பு வாரி பிரதி நிதித்துவம்` / scan-37 `வகுப்புவாரி பிரிதிநிதித்துவத்தை` | `communal representation` | T4 AUDITED; frozen Tamil variants retained in provenance |
-| `ஆரியம்` | `Aryanism` | T4 AUDITED; personified ideological force retained |
-| `திராவிட சமுதாயம்` | `Dravidian society` | T4 AUDITED |
-| `நாஸ்திகன்` / `நாஸ்திகர்` | `atheist` | T4 AUDITED; polemical label retained |
-| `திராவிட விபீஷணர்கள்` | `Dravidian Vibhishanas` | SOURCE-BEARING / T4 AUDITED |
-| `விபீஷணர்கள்` | `Vibhishanas` | SOURCE-BEARING / T4 AUDITED |
-| `பாகு மொழி` | `syrupy speech` | Article 3 T5 decision reused / T4 AUDITED |
-| `பூணூல்` | `sacred thread` | T4 AUDITED |
-| `கபோதித் தன்மை` | `kabothi disposition` | SOURCE-BEARING / T4 AUDITED; no outside repair |
-| `சோதாப் பண்பு` | `sodha disposition` | SOURCE-BEARING / T4 AUDITED; no outside repair |
-| `சூதர்கள்` | `gamblers` | T2 CORRECTED / T4 AUDITED |
-| `ஒதிய மரங்கள்` | `othiya trees` | SOURCE-SENSITIVE / T4 AUDITED; frozen token not guessed |
-| `வேதியர்` | `Vediyars` | SOURCE-BEARING / T4 AUDITED; not conflated with `பிராமணர்` or `பார்ப்பனர்` |
-| `மதித் தலைவர்` | `mathith thalaivar` | SOURCE-SENSITIVE / T4 AUDITED; frozen form not repaired |
-| `ஓரியண்டல் கல்லூரி` | `Oriental College` | T4 AUDITED |
-| scan-38 frozen `ஒரியண்டல் கல்லூரி` | `Oriyantal College` | SOURCE-SENSITIVE / T4 AUDITED; deliberately distinct from earlier witness |
-| `தேவஸ்தானக் கமிட்டி` | `Devasthanam Committee` | T4 AUDITED |
-| `உபகாரச் சம்பளம்` | `scholarship allowance` | T4 AUDITED |
-| scan-35 frozen `சம்மாதிக்காத` | contextual `do not consent` | SOURCE-SENSITIVE / T4 AUDITED; Tamil token not normalised to scan alternate |
-| `பிராமணர்` / `பிராமணரல்லாத` | `Brahmin` / `non-Brahmin` | T4 AUDITED |
-| `பார்ப்பனர்` / `பார்ப்பனரல்லாத` | `Parppanar` / `non-Parppanar` | SOURCE-BEARING / T4 AUDITED; deliberately distinct from `பிராமணர்` |
-| `ஹரிஜன` | `Harijan` | SOURCE-LABEL / T4 AUDITED |
-| `பழங்குடி வகுப்பினர்` | `tribal class` | T4 AUDITED; source wording retained without outside category substitution |
-| `ஆதிதிராவிடர்` | `Adi-Dravidians` | SOURCE-LABEL / T4 AUDITED |
-| `திராவிடக் கும்பல்` | `Dravidian gang` | T2 CORRECTED / T4 AUDITED; pejorative force retained |
-| `பிராமணோத்தம குலத்துப் பெம்மான்` | `Brahmanottama-clan lord` | SOURCE-BEARING / T4 AUDITED; rhetorical register retained |
-| `ஸ்ரீ துரைசாமி அய்யங்கார்` | `Sri Duraisami Iyengar` | SOURCE-LABEL / T4 AUDITED |
-| `மெயில்` | `Mail` | SOURCE-TITLE / T4 AUDITED; no external title normalisation |
-| `குருகுலம்` | `gurukulam` | SOURCE-BEARING / T4 AUDITED |
-| `ஆரிய குல மகிபர்` | `lord of the Aryan clan` | T4 AUDITED |
-| `தன்மான மற்ற திராவிடர்` | `Dravidians devoid of self-respect` | T4 AUDITED |
-| `வயிற்றெரிச்சலோடு` | `with our stomachs burning` | IMAGE / T2 CORRECTED / T4 AUDITED |
-| `கீழ்பாக்கம் வைத்திய சாலை` | `Kilpauk Hospital` | T4 AUDITED |
-| `ஆஞ்சநேய சுக்ரீவர்கள்` | `Anjaneyas and Sugrivas` | SOURCE-BEARING / T4 AUDITED |
-| scan-38 frozen `இழத்துக்` | `Ramasamis and Shanmugams; having lost them...` | SOURCE-SENSITIVE / T2 CORRECTED / T4 AUDITED; scan-37→38 boundary preserved |
-| scan-38 `பிர பிரஹலாதர்களாக` | `pira Prahaladas` | SOURCE-SENSITIVE / T4 AUDITED; no lexical repair |
-| `கருவேப்பிலைகள்` | `curry leaves` | IMAGE / T4 AUDITED |
-| `திராவிட இன உணர்ச்சி` | `Dravidian racial feeling` | Article 4 `இன உணர்ச்சி` decision reused / T4 AUDITED |
-| `உள்ள ஒலி` | `inner voice` | SOURCE-QUOTED / T4 AUDITED; quotation scope retained |
+| `3, 57, 90.` | `3, 57, 90.` | T5 VERIFIED |
+| `வகுப்பு வாதம்` / `வகுப்பு வாதி` | `communalism` / `communalist` | T5 VERIFIED; historical/polemical register retained without outside expansion |
+| `வகுப்பு வாரி பிரதி நிதித்துவம்` / scan-37 `வகுப்புவாரி பிரிதிநிதித்துவத்தை` | `communal representation` | T5 VERIFIED; frozen Tamil variants retained in provenance |
+| `ஆரியம்` | `Aryanism` | T5 VERIFIED; personified ideological force retained |
+| `திராவிட சமுதாயம்` | `Dravidian society` | T5 VERIFIED |
+| `நாஸ்திகன்` / `நாஸ்திகர்` | `atheist` | T5 VERIFIED; polemical label retained |
+| `திராவிட விபீஷணர்கள்` | `Dravidian Vibhishanas` | SOURCE-BEARING / T5 VERIFIED |
+| `விபீஷணர்கள்` | `Vibhishanas` | SOURCE-BEARING / T5 VERIFIED |
+| `பாகு மொழி` | `syrupy speech` | Article 3 T5 decision reused / T5 VERIFIED |
+| `பூணூல்` | `sacred thread` | T5 VERIFIED |
+| `கபோதித் தன்மை` | `kabothi disposition` | SOURCE-BEARING / T5 VERIFIED; no outside repair |
+| `சோதாப் பண்பு` | `sodha disposition` | SOURCE-BEARING / T5 VERIFIED; no outside repair |
+| `சூதர்கள்` | `gamblers` | T2 CORRECTED / T5 VERIFIED |
+| `ஒதிய மரங்கள்` | `othiya trees` | SOURCE-SENSITIVE / T5 VERIFIED; frozen token not guessed |
+| `வேதியர்` | `Vediyars` | SOURCE-BEARING / T5 VERIFIED; not conflated with `பிராமணர்` or `பார்ப்பனர்` |
+| `மதித் தலைவர்` | `mathith thalaivar` | SOURCE-SENSITIVE / T5 VERIFIED; frozen form not repaired |
+| `ஓரியண்டல் கல்லூரி` | `Oriental College` | T5 VERIFIED |
+| scan-38 frozen `ஒரியண்டல் கல்லூரி` | `Oriyantal College` | SOURCE-SENSITIVE / T5 VERIFIED; deliberately distinct from earlier witness |
+| `தேவஸ்தானக் கமிட்டி` | `Devasthanam Committee` | T5 VERIFIED |
+| `உபகாரச் சம்பளம்` | `scholarship allowance` | T5 VERIFIED |
+| scan-35 frozen `சம்மாதிக்காத` | contextual `do not consent` | SOURCE-SENSITIVE / T5 VERIFIED; Tamil token not normalised to scan alternate |
+| `பிராமணர்` / `பிராமணரல்லாத` | `Brahmin` / `non-Brahmin` | T5 VERIFIED |
+| `பார்ப்பனர்` / `பார்ப்பனரல்லாத` | `Parppanar` / `non-Parppanar` | SOURCE-BEARING / T5 VERIFIED; deliberately distinct from `பிராமணர்` |
+| `ஹரிஜன` | `Harijan` | SOURCE-LABEL / T5 VERIFIED |
+| `பழங்குடி வகுப்பினர்` | `tribal class` | T5 VERIFIED; source wording retained without outside category substitution |
+| `ஆதிதிராவிடர்` | `Adi-Dravidians` | SOURCE-LABEL / T5 VERIFIED |
+| `திராவிடக் கும்பல்` | `Dravidian gang` | T2 CORRECTED / T5 VERIFIED; pejorative force retained |
+| `பிராமணோத்தம குலத்துப் பெம்மான்` | `Brahmanottama-clan lord` | SOURCE-BEARING / T5 VERIFIED; rhetorical register retained |
+| `ஸ்ரீ துரைசாமி அய்யங்கார்` | `Sri Duraisami Iyengar` | SOURCE-LABEL / T5 VERIFIED |
+| `மெயில்` | `Mail` | SOURCE-TITLE / T5 VERIFIED; no external title normalisation |
+| `குருகுலம்` | `gurukulam` | SOURCE-BEARING / T5 VERIFIED |
+| `ஆரிய குல மகிபர்` | `lord of the Aryan clan` | T5 VERIFIED |
+| `தன்மான மற்ற திராவிடர்` | `Dravidians devoid of self-respect` | T5 VERIFIED |
+| `வயிற்றெரிச்சலோடு` | `with our stomachs burning` | IMAGE / T2 CORRECTED / T5 VERIFIED |
+| `கீழ்பாக்கம் வைத்திய சாலை` | `Kilpauk Hospital` | T5 VERIFIED |
+| `ஆஞ்சநேய சுக்ரீவர்கள்` | `Anjaneyas and Sugrivas` | SOURCE-BEARING / T5 VERIFIED |
+| scan-38 frozen `இழத்துக்` | `Ramasamis and Shanmugams; having lost them...` | SOURCE-SENSITIVE / T2 CORRECTED / T5 VERIFIED; scan-37→38 boundary preserved |
+| scan-38 `பிர பிரஹலாதர்களாக` | `pira Prahaladas` | SOURCE-SENSITIVE / T5 VERIFIED; no lexical repair |
+| `கருவேப்பிலைகள்` | `curry leaves` | IMAGE / T5 VERIFIED |
+| `திராவிட இன உணர்ச்சி` | `Dravidian racial feeling` | Article 4 `இன உணர்ச்சி` decision reused / T5 VERIFIED |
+| `உள்ள ஒலி` | `inner voice` | SOURCE-QUOTED / T5 VERIFIED; quotation scope retained |
 
 ### Article 6 T2 result
 
@@ -257,6 +258,10 @@ T3 made **10 meaning-neutral voice/cadence interventions** while preserving all 
 
 T4 made **0 body corrections**. The complete terminology/proper-name/source-title/quotation/source audit passed, including `Mail`, `29-5-48`, all numbers/percentages, all six scan comments and cross-page witnesses, `Brahmin` vs `Parppanar`, `Oriental College` vs `Oriyantal College`, the source-quoted `inner voice`, and all frozen/source-bearing lexical witnesses. No external citation was required and no outside/web wording or source-normalising repair was used.
 
+### Article 6 T5 result
+
+T5 made **0 body corrections**. It re-verified the full T1–T4 chain against the frozen Tamil, all metadata and source witnesses, quotation scopes, dates/numbers, terminology distinctions, scan boundaries and frozen/source-bearing lexical forms. Article 6 is `verified`; final English blob `cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`.
+
 ## Decisions still to establish in later articles
 
 | Tamil / source form | Status / caution |
@@ -268,4 +273,4 @@ T4 made **0 body corrections**. The complete terminology/proper-name/source-titl
 
 ## Next lexicon activity
 
-During **Article 6 T5**, final-verify all T4-audited Article 6 decisions against frozen Tamil blob `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` and T4-audited English candidate `1332512bbffdd618078813444c2cf24ebcea07ff`. Preserve `Brahmin` vs `Parppanar`, `Oriental College` vs source-sensitive `Oriyantal College`, source-bearing `kabothi`, `sodha`, `othiya`, `mathith thalaivar`, `Vediyars`, `pira Prahaladas`, and frozen `இழத்துக்`. Promote Article 6 terms to T5 VERIFIED only if the final article verification passes.
+During **Article 7 T1**, establish provisional English decisions only from frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`, scans 39–41. Preserve source honorifics, polemical labels, repeated mourning rhetoric, quoted speech, dates, and the frozen scan-41 ending. Do not identify, normalise or replace source-bearing forms from outside knowledge, alternate scan readings, or published historical wording.
