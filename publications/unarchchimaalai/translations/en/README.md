@@ -11,7 +11,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - Tamil articles: **10 / 10 strict-rechecked**
 - T0 source prerequisite/setup: **COMPLETE / PASS**
 - T1 close English drafts: **8 / 10**
-- T2 fidelity-reviewed: **7 / 10**
+- T2 fidelity-reviewed: **8 / 10**
 - T3 voice-reviewed: **7 / 10**
 - T4 audited: **7 / 10**
 - T5 verified: **7 / 10**
@@ -20,7 +20,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - English translation: **IN PROGRESS**
 - unresolved translation blockers: **0**
 
-Articles 1–7 have completed T0–T5 and are individually `verified`. Article 8 has completed T1 and is `draft` pending T2.
+Articles 1–7 have completed T0–T5 and are individually `verified`. Article 8 has completed T1–T2 and is `fidelity-reviewed` pending T3.
 
 ## Frozen Tamil translation authorities
 
@@ -48,7 +48,7 @@ Articles 1–7 have completed T0–T5 and are individually `verified`. Article 8
 | 5 | இங்கல்ல! இரஷ்யாவில் | [`05-ingalla-irashyavil.md`](05-ingalla-irashyavil.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 6 | 3, 57, 90. | [`06-3-57-90.md`](06-3-57-90.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 7 | 30-1-1948 | [`07-30-1-1948.md`](07-30-1-1948.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 8 | பத்தினியே உன்போல்...! | [`08-paththiniye-unpol.md`](08-paththiniye-unpol.md) | `draft` | PASS | **PASS** | — | — | — | — |
+| 8 | பத்தினியே உன்போல்...! | [`08-paththiniye-unpol.md`](08-paththiniye-unpol.md) | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
 | 9 | அன்னை நாகம்மையார்! | `09-annai-nagammaiyar.md` | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `10-kavithaiyalla-kannirkkadal.md` | `not-started` | PASS | — | — | — | — | — |
 
@@ -97,21 +97,25 @@ Articles 1–7 have completed T0–T5 and are individually `verified`. Article 8
 - outside historical identification, alternate scan wording, web wording or published translation imported: **No**
 - blockers: **0**
 
-## Article 8 T1 record
+## Article 8 T1–T2 record
 
 - Tamil title: **பத்தினியே உன்போல்...!**
 - English title: **O Chaste Woman, Like You...!**
 - frozen Tamil authority: `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`
 - source scans: **42–44**
 - printed pages: **42–43; scan 42 has no visible printed numeral**
-- T1 draft English: **`af9c82ea95b65bc7e632ddf45ab1754217bffc39`**
-- complete paragraph/clause coverage: **T1 PASS**
+- T1 draft English: `af9c82ea95b65bc7e632ddf45ab1754217bffc39`
+- T2 fidelity-reviewed English: **`eccf5a9b0b2e042a115b8214ff0dc12333a225fe`**
+- T2 fidelity corrections: **4** — frozen `அரிஜன்` retained as source-bearing `Arijan` instead of inherited `Harijan`; `காதல கொண்டாளாமே` tightened from `fell in love` to `had love ... too`; the scan-43 negated `தொடாமல்...துவளாமல்...மறைந்து விட வில்லை` sequence was restored as a single negative construction with `swooning`; and `வெறுத்துப் பேசிவிட்டு` was restored as `speak with disgust` without adding an unsupported physical turn-away.
+- complete paragraph/clause coverage: **T2 PASS**
 - all source comments 42–44 and scan-43→44 quotation continuation: **PASS**
 - scan-42 source-recovered `பதில் இல்லை.`: **represented as `No answer.`**
 - scan-43 `* * *`: **preserved**
+- `1937` and page `43`: **PASS**
 - source-sensitive frozen `அனுக்ரகம்`, `அழ்காக`, `பன் முறை`, `ஓருருவாகிப்`: **not repaired from scan alternatives/outside wording**
+- source-quoted `பாரா முகம் உன்னையே`: **retained source-bearing / no outside identification**
 - no outside historical, epic-source or published translation wording imported: **PASS**
-- T1 blockers: **0**
+- T2 blockers: **0**
 
 ## Translation authority / special source rule
 
@@ -119,4 +123,4 @@ English authority is the frozen Tamil article assembly, not OCR, memory, web wor
 
 ## Exact next activity
 
-Execute **Article 8 T2 — bilingual fidelity review** for `பத்தினியே உன்போல்...!` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` and T1 English blob `af9c82ea95b65bc7e632ddf45ab1754217bffc39`, scans **42–44**. Re-read Tamil and English paragraph by paragraph and clause by clause; verify all dialogue/quotation scopes, rhetorical questions/exclamations, scan-42 source-recovered `பதில் இல்லை.`, scan-43 `* * *`, the scan-43→44 quoted passage, dates/page citation `1937` / page `43`, all epic/source labels and provisional source-sensitive transliterations. Do not import scan-appearing alternate lexical forms, outside epic/history wording or published translations. Advance only to `fidelity-reviewed` if T2 passes, synchronize records, and **stop before Article 8 T3**.
+Execute **Article 8 T3 — Kalaignar voice review** for `பத்தினியே உன்போல்...!` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` and T2 English blob `eccf5a9b0b2e042a115b8214ff0dc12333a225fe`, scans **42–44**. Preserve every T2 meaning/source decision while reviewing only English directness, dialogue bite, ridicule, repeated verbs, erotic/literary cadence, insults, commands, rhetorical questions/exclamations and the closing challenge. Preserve scan-42 source-recovered `No answer.`, scan-43 `* * *`, the scan-43→44 quotation boundary, `Arijan`, frozen/source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`, and the source-quoted `Paaraa Mugam Unnaiye`. Do not import alternate scan readings, outside epic/history wording or published translations. Advance only to `voice-reviewed` if T3 passes and **stop before Article 8 T4**.
