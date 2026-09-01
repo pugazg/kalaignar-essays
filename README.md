@@ -151,7 +151,7 @@ Translation/release workspace:
 
 These Tamil and English authorities remain frozen unless a genuine source-supported or release-blocking defect explicitly reopens the affected gate.
 
-## Publication 4 — திராவிட சம்பத்து — ACTIVE / P2 COMPLETE
+## Publication 4 — திராவிட சம்பத்து — ACTIVE / P4 PASS
 
 Workspace: [`publications/thiraavida-sampaththu/`](publications/thiraavida-sampaththu/)
 
@@ -188,12 +188,14 @@ The publication contains:
 - P0 source intake: **COMPLETE**
 - P1 metadata / page map / reading-order reconstruction: **COMPLETE**
 - P2 page-level transcription / structural review: **16 / 16 COMPLETE**
-- P3 article assemblies: **NOT STARTED**
-- P4 source/completeness audit: **NOT STARTED**
+- P3 article assemblies: **COMPLETE — 2 / 2**
+- P4 source/completeness audit: **PASS**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
 - English translation: **NOT STARTED**
 
-All torn text remains explicitly marked as source damage rather than guessed. A clearly visible scan-16 `மொழி.` omitted from the supplied transcription was restored as a documented source-visible recovery. A provisional scan-4 lexical-witness conflict around the supplied advertisement-title reading `ரூசோ` is logged without changing the user-supplied word.
+P4 confirmed all 16 scans are represented exactly once in reconstructed reading order; the two article assemblies match their verified page spans; `மன்றத்தில்`, `முக்கிய குறிப்பு` and scan-4 advertisements remain outside article bodies; no hidden torn text was reconstructed; and no surviving user-baseline lexical token was silently replaced.
+
+All torn text remains explicitly documented as source damage rather than guessed. A clearly visible scan-16 `மொழி.` omitted from the supplied transcription remains a documented source-visible recovery. The provisional scan-4 lexical-witness conflict around the supplied advertisement-title reading `ரூசோ` remains logged without changing the user-supplied word.
 
 Detailed records:
 
@@ -201,10 +203,12 @@ Detailed records:
 - [`metadata/source.md`](publications/thiraavida-sampaththu/metadata/source.md)
 - [`indexes/page-map.md`](publications/thiraavida-sampaththu/indexes/page-map.md)
 - [`indexes/contents.md`](publications/thiraavida-sampaththu/indexes/contents.md)
+- [`articles/`](publications/thiraavida-sampaththu/articles/)
+- [`audit.md`](publications/thiraavida-sampaththu/audit.md)
 - [`pages/`](publications/thiraavida-sampaththu/pages/)
 
 ## Current project state / exact next activity
 
-Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` is active with P0–P2 complete.
+Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` is active with **P0–P4 complete / P4 PASS**.
 
-**Exact next activity:** build P3 article assemblies for `திராவிட சம்பத்து` and `ஐயர் அறிவிக்கிறார்!` from the verified page layer in reconstructed reading order, preserving source-page comments and every torn-text marker; then run the initial P4 source/completeness audit. Do not start P5 or English translation in the same activity.
+**Exact next activity:** execute **P5 — strict visual text-fidelity review across all 16 physical scans**, record every permitted structural/punctuation/spacing/layout correction and every scan/transcription lexical conflict, preserve torn-away gaps without reconstruction, propagate corrections to dependent records, and create the fidelity/completion records if P5 passes. Do not begin English translation in the same activity.
