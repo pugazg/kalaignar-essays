@@ -9,7 +9,7 @@ source_scan_pages: "48-49"
 source_printed_pages: "48; scan 48 has no visible printed numeral"
 language: "en"
 translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed and T3 voice-reviewed against the frozen Tamil assembly"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed, T3 voice-reviewed and T4 terminology/quotation/source-audited against the frozen Tamil assembly"
 ---
 
 # Not a Poem — an Ocean of Tears!
@@ -50,7 +50,7 @@ Parppaniyam, if it sees you,
 will reel like a coward at the sight of an army.  
 You have gone...will your fame go with you?  
 You set the Aryan forest ablaze! As it  
-crackles and bursts, you hide away without watching—
+crackles and bursts, you hid away without watching—
 
 O Panneer Selvam! Where is your milk-dripping  
 face? Where is the Pandiyan moustache!  
