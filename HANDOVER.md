@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - Any checkpoint SHA means “last confirmed when prepared”; it is **not** a rollback target.
 - If `main` has advanced, preserve the newer durable state. Never reset, overwrite, repeat or reopen later completed work merely because an older prompt records an earlier boundary.
 - Re-fetch target files before writing when another chat/window may also be active.
-- Last confirmed live HEAD immediately before this handover synchronization: `097dba5059c73eb1a0197f0ab4e593f2c366b533` — `Register Thiraavida Sampaththu as active publication`.
+- Last confirmed live HEAD immediately before this handover synchronization: `22b7a63c238a9883c083c95c47acebf5344eb72a` — `Advance Thiraavida Sampaththu root status to P4`.
 
 ---
 
@@ -201,7 +201,7 @@ The Article 9/10 documentation reconciliation remains durable:
 
 ---
 
-# Publication 4 — திராவிட சம்பத்து — ACTIVE / P2 COMPLETE
+# Publication 4 — திராவிட சம்பத்து — ACTIVE / P4 PASS
 
 Workspace: `publications/thiraavida-sampaththu/`  
 Supplied source: `TVA_BOK_0064196_திராவிட_சம்பத்து.pdf`
@@ -243,7 +243,8 @@ Reconstructed publication reading sequence:
 Direct continuation witnesses include:
 
 - scan 6 `...என்று` → scan 13 `கூறினோம்.`;
-- scan 15 → scan 16;
+- scan 15 `...திராவிடம், திராவிட` → scan 16 `மொழி. திராவிட...`;
+- scan 7 `...முத` → scan 8 `லாவது...`;
 - scan 8 → scan 11 within `முக்கிய குறிப்பு`;
 - scan 12 `...வாயிலிலே நின்று` → scan 3 `கொண்டிருக்கிறார்...`.
 
@@ -251,56 +252,83 @@ Direct continuation witnesses include:
 
 | Unit | Source span | Status | Notes |
 |---|---|---|---|
-| cover | scan 1 | verified | publication title/author/seller |
-| imprint | scan 2 | verified | edition/date/price/publisher/printer |
-| `மன்றத்தில்` | scans 9–10 | verified | publisher foreword |
-| Article 1 `திராவிட சம்பத்து` | scans 5–6, 13–16 | P2 complete | heavily damaged on later scans |
-| `முக்கிய குறிப்பு` | scans 7–8, 11 | verified | publisher note; cues next article |
-| Article 2 `ஐயர் அறிவிக்கிறார்!` | scans 12, 3 | P2 complete | scan 3 heavily torn |
-| promotional advertisements | scan 4 | verified | illustration + two promotions |
+| cover | scan 1 | P4 PASS | publication title/author/seller |
+| imprint | scan 2 | P4 PASS | edition/date/price/publisher/printer |
+| `மன்றத்தில்` | scans 9–10 | P4 PASS | publisher foreword |
+| Article 1 `திராவிட சம்பத்து` | scans 5–6, 13–16 | P3 COMPLETE / P4 PASS | severe torn gaps retained |
+| `முக்கிய குறிப்பு` | scans 7–8, 11 | P4 PASS | publisher note; cues next article |
+| Article 2 `ஐயர் அறிவிக்கிறார்!` | scans 12, 3 | P3 COMPLETE / P4 PASS | scan 3 heavily torn |
+| promotional advertisements | scan 4 | P4 PASS | outside article bodies |
+
+## P3 article assemblies
+
+- `publications/thiraavida-sampaththu/articles/01-thiraavida-sampaththu.md` — scans 5–6, 13–16 — current blob `43c1123a0bdb14dc20dc351a581b1e46c9df04fa`.
+- `publications/thiraavida-sampaththu/articles/02-aiyar-arivikkirar.md` — scans 12, 3 — current blob `357b7c7f7431b33e9c465956227337631550e2c1`.
+
+Both assemblies preserve page-boundary comments, reconstructed reading order, user-baseline lexical tokens and the no-reconstruction rule for torn-away text.
 
 ## Tamil archival status
 
 - P0 source intake / publication identification: **COMPLETE**
 - P1 metadata + page map + reconstructed reading order: **COMPLETE**
 - P2 page-level transcription / direct structural review: **16 / 16 COMPLETE**
-- P3 article assemblies: **NOT STARTED**
-- P4 source audit / completeness review: **NOT STARTED**
+- P3 article assemblies: **COMPLETE — 2 / 2**
+- P4 source audit / completeness review: **PASS**
 - P5 strict visual word/punctuation fidelity pass: **NOT STARTED**
 - English translation: **NOT STARTED**
+
+## P4 result
+
+P4 confirmed:
+
+- all 16 physical scans are accounted for exactly once in reconstructed reading order;
+- both article assemblies contain every mapped page once and in the correct order;
+- required page-boundary comments are complete;
+- article starts/ends are correct;
+- `மன்றத்தில்` and `முக்கிய குறிப்பு` remain publisher matter outside the article bodies;
+- scan 4 remains advertisement/back matter outside both articles;
+- no mapped source segment is duplicated or omitted;
+- no surviving user-baseline lexical token was silently replaced;
+- no hidden text under torn paper was reconstructed;
+- no P4 body correction was required.
+
+Detailed ledger: `publications/thiraavida-sampaththu/audit.md`.
 
 ## Source-damage non-regression
 
 - Large pieces of paper are missing from several scans, especially scans **3–4, 7–8, 11–16**.
 - Damage intersects printed lines on multiple body pages.
 - Surviving supplied-transcription tokens are retained; absent paper is represented by explicit `SOURCE DAMAGE` markers where needed.
+- Scan-15/16 Article 1 damage markers remain in the assembly.
 - No missing word is supplied merely because sentence context makes a reconstruction tempting.
 - Pencil folio marks, stains, ageing and reverse-side show-through are recorded outside printed text.
 
 ## High-value source decisions already recorded
 
-- scan 16 visibly begins the surviving continuation with `மொழி.`; this was absent from the supplied transcription and is retained as a **documented source-visible missing-text recovery**, not a contextual guess.
-- scan 4 supplied advertisement-title reading `ரூசோ` is retained as the lexical baseline even though the scan appears to show a different title; this remains a **provisional lexical-witness conflict** for later explicit lexical review/P5, not a silent correction.
+- scan 16 visibly begins the surviving continuation with `மொழி.`; this was absent from the supplied transcription and remains a **documented source-visible missing-text recovery**, not a contextual guess.
+- scan 4 supplied advertisement-title reading `ரூசோ` is retained as the lexical baseline even though the scan appears to show a different title; this remains a **provisional lexical-witness conflict** for P5, not a silent correction.
 - scan 3 supplied `அயம்` and other damaged/ambiguous surviving lexical tokens remain user-baseline readings unless later explicitly reopened.
 
 ## Current blockers / unresolved questions
 
 - **No workflow blocker.**
 - Physical source loss is durable documented damage, not permission to reconstruct missing words.
-- Provisional lexical-witness conflicts remain documented for later P5 review under the user-established baseline rule.
+- Provisional lexical-witness conflicts remain documented for P5 under the user-established baseline rule.
 
 ---
 
 # Exact next activity
 
-Execute **P3 article assembly + initial P4 source/completeness audit** for `திராவிட சம்பத்து`.
+Execute **P5 — strict visual text-fidelity review across all 16 physical scans** for `திராவிட சம்பத்து`.
 
-1. Build `articles/01-thiraavida-sampaththu.md` from scans **5–6, 13–16** in reconstructed reading order.
-2. Build `articles/02-aiyar-arivikkirar.md` from scans **12, 3** in reconstructed reading order.
-3. Preserve every page-boundary comment and every torn-text / `SOURCE DAMAGE` marker; do not invent hidden words.
-4. Run P4 source/completeness audit across the complete 16-scan publication, including `மன்றத்தில்`, `முக்கிய குறிப்பு` and the advertisement boundary.
-5. Propagate any structural corrections into page map, contents map, README and handover.
-6. **Do not start P5 or English translation in the same activity.**
+1. Recheck cover, imprint, `மன்றத்தில்`, Article 1, `முக்கிய குறிப்பு`, Article 2 and scan-4 advertisements word by word and punctuation by punctuation.
+2. Preserve the user-supplied lexical baseline for surviving words; do not silently substitute a scan-appearing lexical form.
+3. Record every scan/transcription lexical disagreement explicitly.
+4. Correct only source-supported structure, punctuation, spacing, paragraphing, headings/layout and directly visible omitted material allowed by the user's rule.
+5. Preserve all torn-away text gaps without contextual reconstruction.
+6. Propagate any permitted corrections into page records, assemblies, indexes, README, metadata, audit and handover.
+7. Create `VISUAL_TEXT_FIDELITY_REVIEW.md` and, if P5 passes, `PUBLICATION_COMPLETION_REVIEW.md`.
+8. **Do not begin English translation in the same P5 activity.**
 
 ## Current blockers
 
