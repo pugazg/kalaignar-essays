@@ -4,7 +4,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Status
 
-**Articles 1–9 T5 VERIFIED; Article 10 T1–T4 COMPLETE / VOICE-REVIEWED.** Publication-wide consistency/release freezing remains deferred until Article 10 passes T5.
+**Articles 1–10 T5 VERIFIED.** Publication-wide consistency/release freezing remains deferred until E6 and E7 are complete.
 
 > **Translate the language; do not neutralise the voice.**
 
@@ -20,7 +20,7 @@ The complete canonical lexicon history through **Article 9 T4** is preserved byt
 4. English follows frozen Tamil assemblies, not alternate scan readings.
 5. Preserve verse, repetition, questions, exclamations and source-bearing oddities.
 
-## Verified Articles 1–9 baseline
+## Verified Articles 1–10 baseline
 
 | # | Tamil title | Final verified English blob |
 |---:|---|---|
@@ -33,6 +33,7 @@ The complete canonical lexicon history through **Article 9 T4** is preserved byt
 | 7 | `30-1-1948` | `6cfb28e2d83ba84ee2daa54606561479b61498b0` |
 | 8 | `பத்தினியே உன்போல்...!` | `6b12e6b3cc09b6de402998bb3824e7a98808f885` |
 | 9 | `அன்னை நாகம்மையார்!` | `204ffed012f4bd91b3077065f031d6b2db747854` |
+| 10 | `கவிதையல்ல - கண்ணீர்க்கடல் !` | `cee8ea3c33495615ffc988a1875d71e40f8224a3` |
 
 ## Article 9 — T5 closure
 
@@ -42,41 +43,42 @@ Final T5-verified English: **`204ffed012f4bd91b3077065f031d6b2db747854`**
 
 T5 made **0 body corrections**. All Article 9 decisions recorded in the durable history remain T5-verified, including `Periyar`, `Ramasami`, `Nagammaiyar / Nagamma`, `Ramasamiyar`, `Ammaiyar`, `minor-kaali`, the public-service/self-interest contrast, quoted `log`, horse/stable quotation, family-lamp declaration, flood-with-flood image, `many! many!`, never-drying life-river and `Duty that surpassed even love`.
 
-## Article 10 — T1–T4 audited decisions
+## Article 10 — T5-verified decisions
 
 Frozen Tamil authority: `f856664d86695237a23d0ffc0bef088d32a82fe9`  
 T1 draft English: `a9864870a17c291304b1cab2480ea7eea4730e1a`  
 T2 fidelity-reviewed English: `a85fb820c37f1a38cc904c79098cb7a858a5e3b4`  
 T3 voice-reviewed English: `47a8325721d06594a0e5a4f408ee2e84678f634e`  
-T4-audited English candidate: **`c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`**
+T4-audited English candidate: `c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`  
+Final T5-verified English: **`cee8ea3c33495615ffc988a1875d71e40f8224a3`**
 
 | Tamil / source form | English decision | Status / caution |
 |---|---|---|
-| `கவிதையல்ல - கண்ணீர்க்கடல் !` | `Not a Poem — an Ocean of Tears!` | T4 AUDITED |
-| `செல்வம்` | `Selvam` | SOURCE-NAME / T4 AUDITED; no outside identification |
-| `பெரியார்` | `Periyar` | Article 9 source-title decision reused / T4 AUDITED |
-| `அறிவியக்க வீரன்` | `warrior of the movement of reason` | T4 AUDITED |
-| `சாவுமோகம்` | `death-madness` | IMAGE / T4 AUDITED; cadence `delusion-shrouded death-madness` |
-| `ஆரியம்` | `Aryanism` | Article 6 ideological rendering reused / T4 AUDITED |
-| `குள்ளநரி ஆரியம்` | `dwarf-jackal Aryanism` | POLEMICAL IMAGE / T4 AUDITED |
-| frozen scan-48 `ப்ழச்சளை` | retain verbatim as `` `ப்ழச்சளை.` `` in English | SOURCE-SENSITIVE / T4 AUDITED; never guess or repair |
-| `பார்ப்பனீயம்` | `Parppaniyam` | SOURCE-BEARING / T4 AUDITED |
-| `நீ போய்விட்டாய்` | `You have gone` | T2 CORRECTED / T4 AUDITED; perfective force retained |
-| `தீ வைத்தாய் ஆரியக்காட்டில்...பார்க்காமல் மறைந்து` | `You set the Aryan forest ablaze!...you hid away without watching—` | T4 CORRECTED; past/dependent action relation restored |
-| `பன்னீர்ச்செல்வம்` | `Panneer Selvam` | SOURCE-NAME / T4 AUDITED; no outside identification |
-| `பாண்டியன் மீசை` | `Pandiyan moustache` | IMAGE / T4 AUDITED |
-| `பாழலைகள்` | `ruinous waves` | T2 CORRECTED / T4 AUDITED; destructive force retained |
-| frozen scan-49 `விட்டாய்.` | `You left.` in the frozen source position | SOURCE-ORDER / T4 AUDITED; do not move upstream |
-| `திருவிடத்தார்` | `Tiruvitaththar` | Article 1 T5 decision reused / T4 AUDITED |
-| `பணத்தினில் பிறந்து பணத்தினில் வளர்ந்தும்` | `Though born in money and raised in money` | T2 CORRECTED / T4 AUDITED; concessive retained |
-| `பாட்டாளிக் குணம்` | `proletarian character` | Article 2 proletarian vocabulary reused / T4 AUDITED |
-| `ஓமான்கடல்` | `Oman Sea` | Article 7 T5 decision reused / T4 AUDITED |
-| `திராவிடப் பொன்னாடு` | `golden Dravidian land` | T4 AUDITED |
-| `ஆரிய மது` | `Aryan liquor` | POLEMICAL IMAGE / T4 AUDITED |
-| `மக்களெல்லாம் விழித்தெழுதல் / இதுகாண்டல்` | `All the people / who drank Aryan liquor, awakening and rising— / to see this...` | T2 CORRECTED / T4 AUDITED; source action/sight relation retained |
-| `பஞ்சைகள்` | `paupers` | T4 AUDITED in immediate frozen context |
-| `தஞ்சைக் காவலன்` | `guardian of Tanjai` | SOURCE-BEARING / T4 AUDITED; no outside identification |
-| `வீழ்ந்திட நேரிடினும் நின் செயல்பாடி / வீழ்ந்திடுவோம்` | `Even if the time comes to fall, singing your deeds / we shall fall.` | REPETITION / T4 AUDITED; fall/deeds/fall structure retained |
+| `கவிதையல்ல - கண்ணீர்க்கடல் !` | `Not a Poem — an Ocean of Tears!` | T5 VERIFIED |
+| `செல்வம்` | `Selvam` | SOURCE-NAME / T5 VERIFIED; no outside identification |
+| `பெரியார்` | `Periyar` | Article 9 source-title decision reused / T5 VERIFIED |
+| `அறிவியக்க வீரன்` | `warrior of the movement of reason` | T5 VERIFIED |
+| `சாவுமோகம்` | `death-madness` | IMAGE / T5 VERIFIED; cadence `delusion-shrouded death-madness` |
+| `ஆரியம்` | `Aryanism` | Article 6 ideological rendering reused / T5 VERIFIED |
+| `குள்ளநரி ஆரியம்` | `dwarf-jackal Aryanism` | POLEMICAL IMAGE / T5 VERIFIED |
+| frozen scan-48 `ப்ழச்சளை` | retain verbatim as `` `ப்ழச்சளை.` `` in English | SOURCE-SENSITIVE / T5 VERIFIED; never guess or repair |
+| `பார்ப்பனீயம்` | `Parppaniyam` | SOURCE-BEARING / T5 VERIFIED |
+| `நீ போய்விட்டாய்` | `You have gone` | T2 CORRECTED / T5 VERIFIED; perfective force retained |
+| `தீ வைத்தாய் ஆரியக்காட்டில்...பார்க்காமல் மறைந்து` | `You set the Aryan forest ablaze!...you hid away without watching—` | T4 CORRECTED / T5 VERIFIED; past/dependent action relation restored |
+| `பன்னீர்ச்செல்வம்` | `Panneer Selvam` | SOURCE-NAME / T5 VERIFIED; no outside identification |
+| `பாண்டியன் மீசை` | `Pandiyan moustache` | IMAGE / T5 VERIFIED |
+| `பாழலைகள்` | `ruinous waves` | T2 CORRECTED / T5 VERIFIED; destructive force retained |
+| frozen scan-49 `விட்டாய்.` | `You left.` in the frozen source position | SOURCE-ORDER / T5 VERIFIED; do not move upstream |
+| `திருவிடத்தார்` | `Tiruvitaththar` | Article 1 T5 decision reused / T5 VERIFIED |
+| `பணத்தினில் பிறந்து பணத்தினில் வளர்ந்தும்` | `Though born in money and raised in money` | T2 CORRECTED / T5 VERIFIED; concessive retained |
+| `பாட்டாளிக் குணம்` | `proletarian character` | Article 2 proletarian vocabulary reused / T5 VERIFIED |
+| `ஓமான்கடல்` | `Oman Sea` | Article 7 T5 decision reused / T5 VERIFIED |
+| `திராவிடப் பொன்னாடு` | `golden Dravidian land` | T5 VERIFIED |
+| `ஆரிய மது` | `Aryan liquor` | POLEMICAL IMAGE / T5 VERIFIED |
+| `மக்களெல்லாம் விழித்தெழுதல் / இதுகாண்டல்` | `All the people / who drank Aryan liquor, awakening and rising— / to see this...` | T2 CORRECTED / T5 VERIFIED; source action/sight relation retained |
+| `பஞ்சைகள்` | `paupers` | T5 VERIFIED in immediate frozen context |
+| `தஞ்சைக் காவலன்` | `guardian of Tanjai` | SOURCE-BEARING / T5 VERIFIED; no outside identification |
+| `வீழ்ந்திட நேரிடினும் நின் செயல்பாடி / வீழ்ந்திடுவோம்` | `Even if the time comes to fall, singing your deeds / we shall fall.` | REPETITION / T5 VERIFIED; fall/deeds/fall structure retained |
 
 ### Article 10 T1 result
 
@@ -103,6 +105,10 @@ T4 made **1 body correction**: scan-49 frozen `பார்க்காமல்
 
 The terminology/quotation/citation/source audit otherwise passed: title and bracketed subtitle, source lineation, `* * *`, both page comments, `Selvam`, `Periyar`, `Panneer Selvam`, `Pandiyan moustache`, `Aryanism`, `dwarf-jackal Aryanism`, `Parppaniyam`, frozen `ப்ழச்சளை`, frozen `You left.` placement, Tiruvitaththar quotation scope, money/proletarian contrast, Oman Sea image, golden-Dravidian-land/Aryan-liquor sequence, `paupers`, guardian-of-Tanjai label, final fall/deeds/fall close, and exclusion of scan-49 publication-close matter plus scan-50 advertisement. No external citation was required. No outside identification, web wording, alternate scan reading or published translation was imported. T4 blockers: **0**.
 
+### Article 10 T5 result
+
+T5 made **0 body corrections**. It final-verified T4 candidate `c1d0e7447efd2080d2f2e6a81510da20b8b05aa3` against frozen Tamil `f856664d86695237a23d0ffc0bef088d32a82fe9` and scans 48–49. Metadata, title/subtitle, verse units and lineation, `* * *`, both page comments, questions/exclamations/direct apostrophe/repetition, all terminology and imagery, frozen raw `ப்ழச்சளை`, `You have gone`, T4-restored `you hid away without watching—`, frozen `You left.` placement, Tiruvitaththar quotation scope, money/proletarian contrast, Oman Sea image, golden-Dravidian-land/Aryan-liquor sequence, `paupers`, guardian-of-Tanjai label and final fall/deeds/fall close all passed. The scan-49 publication-source note and printer imprint and the scan-50 advertisement remain correctly excluded. No outside identification, web wording, alternate scan reading or published translation was imported. T5 blockers: **0**.
+
 ## Next lexicon activity
 
-During **Article 10 T5**, final-verify T4 candidate `c1d0e7447efd2080d2f2e6a81510da20b8b05aa3` against frozen Tamil `f856664d86695237a23d0ffc0bef088d32a82fe9`, including the T4-restored `you hid away without watching—` relation and every source-sensitive witness above. Do not import alternate scan readings, outside identification, web wording or published translations. If T5 passes, Article 10 becomes `verified`; E6 remains a separate next gate.
+Execute **E6 — publication-wide English consistency review** across all ten T5-verified articles. Audit recurring names and epithets, Aryan/Dravidian and other ideological vocabulary, source-bearing terms and puns, source titles, quotation treatment, title style, tone consistency, accidental smoothing, completeness and durable source anomalies. Do not begin E7 in the same activity.
