@@ -8,8 +8,8 @@ source_tamil_blob_sha: "2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f"
 source_scan_pages: "42-44"
 source_printed_pages: "42-43; scan 42 has no visible printed numeral"
 language: "en"
-translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed and T3 voice-reviewed against the frozen Tamil assembly"
+translation_status: "verified"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed, T3 voice-reviewed, T4 terminology/quotation/source-audited and T5 final-verified against the frozen Tamil assembly"
 ---
 
 # O Chaste Woman, Like You...!
