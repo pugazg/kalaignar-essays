@@ -44,7 +44,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 | 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 8 | பத்தினியே உன்போல்...! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 9 | அன்னை நாகம்மையார்! | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
+| 9 | அன்னை நாகம்மையார்! | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
 
 ## Verified baseline
@@ -66,7 +66,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - final T5-verified English: **`6b12e6b3cc09b6de402998bb3824e7a98808f885`**
 - blockers: **0**
 
-## Article 9 — T1–T2 COMPLETE / FIDELITY-REVIEWED
+## Article 9 — T1–T3 COMPLETE / VOICE-REVIEWED
 
 - Tamil title: **அன்னை நாகம்மையார்!**
 - English title: **Mother Nagammaiyar!**
@@ -74,16 +74,18 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - source scans: **45–47**
 - printed pages: **45–46; scan 45 has no visible printed numeral**
 - T1 draft English: `1d3ac3f7ef2fff5e79b23434f907b467ae1266f6`
-- T2 fidelity-reviewed English: **`4336ef783678c165656ab843158e9c29d4695ed5`**
+- T2 fidelity-reviewed English: `4336ef783678c165656ab843158e9c29d4695ed5`
+- T3 voice-reviewed English: **`6d8556b574f536f879a2ea3ca6efffb81609add2`**
 - T2 fidelity corrections: **3**
   1. `பொதுநலவாழ்வில்` — restored the explicit public-service contrast with following `சுயநல வாழ்வில்`;
   2. scan 47 `பெண் உயர்வுக்கான சம்பவங்கள் பல! பல!` — restored the source placement of the repeated `many! many!` after the women's-uplift incidents;
   3. `வற்றாத உயிராறு` — `unfailing river of life` → **`never-drying river of life`**, preserving the preceding dry-up/water image.
-- source labels `Periyar`, `Ramasami`, `Nagammaiyar` / `Nagamma`, `Ramasamiyar`, `Ammaiyar`: **T2 PASS / no outside conventionalisation**
-- `minor-kaali`, quoted `log` image, youthful vow, Nagamma's marriage-or-death declaration, horse/stable revolutionary verse and family-lamp declaration: **T2 PASS**
-- all ages/dates/numbers `19`, `13`, `1898`, `35`, `1933`, `11-5-1933`, `12-5-1933`, `144`: **T2 PASS**
-- all source-page comments and printed witnesses: **T2 PASS**
-- affectionate/polemical imagery and final `காதலையும் மீறிய கடமை` sentence: **T2 PASS / no neutralisation**
+- T3 meaning-neutral voice/cadence interventions: **11** — opening young-Ramasami cadence; young-veena love-note; youth-dancing beat; “good boy” cadence; indelible-heart declaration; old-suitor ridicule; `spark-words` image; herd-cattle age framing; victory-symbol line; life-river surge/run; next-day duty turn.
+- source labels `Periyar`, `Ramasami`, `Nagammaiyar` / `Nagamma`, `Ramasamiyar`, `Ammaiyar`: **T3 PASS / no outside conventionalisation**
+- `minor-kaali`, quoted `log` image, youthful vow, Nagamma's marriage-or-death declaration, horse/stable revolutionary verse and family-lamp declaration: **T3 PASS**
+- all ages/dates/numbers `19`, `13`, `1898`, `35`, `1933`, `11-5-1933`, `12-5-1933`, `144`: **T3 PASS**
+- all source-page comments and printed witnesses: **T3 PASS**
+- affectionate/polemical imagery and final `காதலையும் மீறிய கடமை` sentence: **T3 PASS / no neutralisation**
 - outside/web biographical wording, alternate source forms or published translation imported: **No**
 - blockers: **0**
 
@@ -99,4 +101,4 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 
 ## Exact next activity
 
-Execute **Article 9 T3 — Kalaignar voice review** for `அன்னை நாகம்மையார்!` against frozen Tamil blob `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` and T2 English blob `4336ef783678c165656ab843158e9c29d4695ed5`, scans **45–47**. Preserve every T2 meaning/source decision. Review only cadence, directness, affectionate warmth, ridicule, repetitions and exclamatory force, especially the tender-hearts/young-veenas opening, quoted `log` jab, fire-language sequence, herd-cattle comparison, flood/life-river imagery, old-man/Nagammaiyar exchange and final duty-surpassing-love close. Do not change source labels, ages/dates/numbers, page comments or source meaning. Stop before T4.
+Execute **Article 9 T4 — terminology / quotation / citation / source audit** for `அன்னை நாகம்மையார்!` against frozen Tamil blob `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` and T3 English blob `6d8556b574f536f879a2ea3ca6efffb81609add2`, scans **45–47**. Audit all source labels and terminology, quotation scopes, ages/dates/numbers, source-page comments and printed-page witnesses, source-sensitive `minor-kaali`, the quoted `log` image, horse/stable revolutionary quotation, family-lamp declaration, T2-restored public-service/self-interest and never-drying-life-river choices, repeated `many! many!`, and the final duty-surpassing-love close. Keep Article 9 `voice-reviewed` through T4 and stop before T5. Do not import outside biographical wording, web wording, conventional spellings or published translations.
