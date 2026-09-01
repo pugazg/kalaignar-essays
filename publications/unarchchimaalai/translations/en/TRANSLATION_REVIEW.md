@@ -6,7 +6,7 @@ Permanent guide: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TR
 
 ## Durable history
 
-The complete canonical review history through **Article 9 T4** is preserved byte-for-byte in [`TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md`](TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md). This file continues that history with Article 9 T5 and Article 10 T1–T3. No earlier review provenance is discarded.
+The complete canonical review history through **Article 9 T4** is preserved byte-for-byte in [`TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md`](TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md). This file continues that history with Article 9 T5 and Article 10 T1–T4. No earlier review provenance is discarded.
 
 ## Frozen source-authority matrix
 
@@ -55,7 +55,7 @@ The complete canonical review history through **Article 9 T4** is preserved byte
 
 T5 final-verified the complete T1–T4 chain against the frozen Tamil and source-page witnesses. All source labels, quotation scopes, ages/dates/numbers, `minor-kaali`, public-service/self-interest contrast, quoted `log`, horse/stable quotation, family-lamp declaration, flood-with-flood image, `many! many!`, never-drying life-river, old-man/Nagammaiyar exchange and final duty-surpassing-love close passed. No outside/web biographical wording, conventional spellings, alternate source forms or published translations were imported.
 
-# Article 10 — `கவிதையல்ல - கண்ணீர்க்கடல் !` — T1–T3 COMPLETE / VOICE-REVIEWED
+# Article 10 — `கவிதையல்ல - கண்ணீர்க்கடல் !` — T1–T4 COMPLETE / VOICE-REVIEWED
 
 Source authority:
 
@@ -67,93 +67,79 @@ Source authority:
 - English title: **Not a Poem — an Ocean of Tears!**
 - T1 draft: `a9864870a17c291304b1cab2480ea7eea4730e1a`
 - T2 fidelity-reviewed: `a85fb820c37f1a38cc904c79098cb7a858a5e3b4`
-- T3 voice-reviewed: **`47a8325721d06594a0e5a4f408ee2e84678f634e`**
+- T3 voice-reviewed: `47a8325721d06594a0e5a4f408ee2e84678f634e`
+- T4-audited candidate: **`c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`**
 
 ## T1 — close draft — COMPLETE / PASS
 
 T1 translated the complete frozen Article 10 assembly verse unit by verse unit across scans 48–49.
 
 - metadata/source fields: **PASS**
-- complete verse-unit coverage: **PASS**
-- source verse lineation: **PASS**
+- complete verse-unit coverage and source verse lineation: **PASS**
 - two-line title provenance and bracketed subtitle: **PASS**
-- `* * *` separator: **PASS**
-- scan-48 and scan-49 source comments: **PASS**
+- `* * *` separator and scan-48/49 source comments: **PASS**
 - questions, exclamations, repetition and direct apostrophe: **PASS**
 - frozen scan-48 `ப்ழச்சளை`: **retained verbatim in English / no repair**
 - frozen scan-49 `விட்டாய்.`: **translated as `You left.` at its frozen position**
 - publication-source note/printer imprint after Article 10 and scan-50 advertisement: **excluded**
-- outside identification, web wording, alternate scan reading or published translation imported: **No**
 - blockers: **0**
 
 **T1 RESULT: PASS.**
 
 ## T2 — bilingual fidelity review — COMPLETE / PASS
 
-T2 re-read the frozen Tamil and T1 English line by line and verse unit by verse unit. It made **4 fidelity corrections**:
+T2 made **4 fidelity corrections**:
 
-1. `நீ போய்விட்டாய்` — T1 `You are gone` → **`You have gone`**, restoring the perfective force.
-2. `பசியேறிய வெறிகடலின் பாழலைகள்` — T1 `desolate waves` → **`ruinous waves`**, retaining the destructive `பாழ்` force without outside expansion.
-3. `பணத்தினில் பிறந்து பணத்தினில் வளர்ந்தும்` — T1 lost the concessive; restored **`Though born in money and raised in money`**.
+1. `நீ போய்விட்டாய்` — `You are gone` → **`You have gone`**.
+2. `பசியேறிய வெறிகடலின் பாழலைகள்` — `desolate waves` → **`ruinous waves`**.
+3. `பணத்தினில் பிறந்து பணத்தினில் வளர்ந்தும்` — restored **`Though born in money and raised in money`**.
 4. `ஆரிய மதுவுண்ட மக்களெல்லாம் விழித்தெழுதல் / இதுகாண்டல்` — restored the source action/sight relation as **`All the people / who drank Aryan liquor awakening and rising— / to see this...is an offering to your work.`**
 
-T2 non-regression checks:
+All metadata, source lineation, bracketed subtitle, `* * *`, page comments, questions/exclamations/repetition/direct apostrophe, terminology and source-sensitive witnesses passed. No outside identification, web wording, alternate scan reading or published translation was imported.
 
-- metadata/source Tamil SHA/scans/printed-page field: **PASS**
-- complete verse-unit and line coverage after corrections: **PASS**
-- source lineation: **PASS**
-- bracketed subtitle and `* * *`: **PASS**
-- scan-48/49 source comments: **PASS**
-- rhetorical questions/exclamations/repetition/direct apostrophe: **PASS**
-- `Selvam`, `Periyar`, `Panneer Selvam`, `Pandiyan moustache`: **PASS**
-- `warrior of the movement of reason`, `death-madness`, `Aryanism`, `dwarf-jackal Aryanism`, `Parppaniyam`: **PASS**
-- `Tiruvitaththar`, `proletarian character`, `Oman Sea`, `golden Dravidian land`, `Aryan liquor`: **PASS**
-- `பஞ்சைகள்` → `paupers`: **T2 PASS in immediate frozen context**
-- frozen scan-48 `ப்ழச்சளை`: **PASS / retained verbatim; no guessed repair**
-- frozen scan-49 `விட்டாய்.` → `You left.`: **PASS / frozen placement retained; not moved upstream**
-- final fall/sing-deeds repetition: **PASS**
-- publication-source note/printer imprint after Article 10 and scan-50 advertisement: **PASS / excluded**
-- outside historical/personal identification, web wording, alternate scan lexical/order reading or published translation imported: **No**
-- frozen Tamil changed: **No**
-- T2 blockers: **0**
-
-**T2 RESULT: PASS. Article 10 advanced to `translation_status: fidelity-reviewed`. T2 English blob: `a85fb820c37f1a38cc904c79098cb7a858a5e3b4`.**
+**T2 RESULT: PASS. T2 English blob: `a85fb820c37f1a38cc904c79098cb7a858a5e3b4`.**
 
 ## T3 — Kalaignar voice review — COMPLETE / PASS
 
-T3 read the T2 English as English against the frozen Tamil and made **12 meaning-neutral voice/cadence interventions**:
+T3 made **12 meaning-neutral voice/cadence interventions** while preserving every T2 meaning/source decision. It tightened the opening syntax and Periyar drum line, compressed the death-madness phrase, sharpened the cruel-sword/cave-lion and Parppaniyam-coward imagery, tightened the Aryan-forest sequence, smoothed the hunger-risen sea image, changed `where have you hidden?` to `where did you hide?`, added a cadence pause after `Aryan liquor`, strengthened the cyclone verb and tightened the final fall/deeds/fall line.
 
-1. reordered the opening `the people...say those` construction to **`those who say the people...`** for direct rhetorical syntax;
-2. `the drum-sound of Periyar thundered` → **`Periyar's drum-sound thundered`**;
-3. `death-madness shrouded in delusion` → **`delusion-shrouded death-madness`**;
-4. `With a killing cruel sword` → **`With a cruel killing sword`**;
-5. `came out of the cave` → **`emerged from the cave`**;
-6. `will lose its footing like a coward who has seen an army` → **`will reel like a coward at the sight of an army`**;
-7. tightened the Aryan-forest sequence to **`You set the Aryan forest ablaze!...you hide away without watching—`**;
-8. smoothed `hunger-risen raging sea` to **`raging sea, swollen with hunger`** while retaining the hunger/raging/ruinous-wave image;
-9. `where have you hidden?` → **`where did you hide?`**;
-10. added a cadence comma after **`Aryan liquor`** before `awakening and rising` without changing the T2 action/sight relation;
-11. `roars like a cyclone` → **`rages like a cyclone`**;
-12. tightened the final first line to **`Even if the time comes to fall, singing your deeds`**, preserving the repeated fall/deeds/fall close.
+All T2 terminology/source decisions, source lineation, page comments, frozen `ப்ழச்சளை`, frozen `You left.` placement and exclusion rules remained intact.
 
-T3 non-regression checks:
+**T3 RESULT: PASS. T3 English blob: `47a8325721d06594a0e5a4f408ee2e84678f634e`.**
 
-- metadata/source Tamil SHA/scans/printed-page field: **PASS**
-- complete verse-unit and line coverage: **PASS**
-- source lineation: **PASS / line structure retained**
-- bracketed subtitle and `* * *`: **PASS**
-- scan-48/49 source comments: **PASS**
-- rhetorical questions/exclamations/repetition/direct apostrophe: **PASS**
-- T2 `You have gone`, `ruinous waves`, money/proletarian concessive and action/sight relation: **PASS / meaning retained**
-- `Selvam`, `Periyar`, `Panneer Selvam`, `Pandiyan moustache`, `Aryanism`, `dwarf-jackal Aryanism`, `Parppaniyam`, `Tiruvitaththar`, `Oman Sea`, `golden Dravidian land`, `Aryan liquor`, `paupers`, `guardian of Tanjai`: **PASS**
-- frozen scan-48 `ப்ழச்சளை`: **PASS / unchanged**
-- frozen scan-49 `விட்டாய்.` → `You left.`: **PASS / position unchanged**
+## T4 — terminology / quotation / citation / source audit — COMPLETE / PASS
+
+T4 audited the frozen Tamil assembly, verified page records for scans 48–49 and the T3 English candidate. It made **1 body correction**:
+
+1. scan-49 frozen `பார்க்காமல் மறைந்து` — T3 **`you hide away without watching—`** → **`you hid away without watching—`**. This restores the source's past/dependent action relation after `தீ வைத்தாய்` and aligns with the later `எங்கொளிந்தாய் ?` / `where did you hide?` question without adding any new claim.
+
+T4 audit checks:
+
+- metadata title/source path/frozen Tamil SHA/scans/printed-page field: **PASS**
+- complete verse-unit coverage and source lineation: **PASS**
+- two-line title provenance and bracketed subtitle: **PASS**
+- `* * *` separator: **PASS**
+- scan-48 and scan-49 source comments: **PASS**
+- all questions, exclamations, repetition and direct apostrophe: **PASS**
+- `Selvam`, `Periyar`, `Panneer Selvam`, `Pandiyan moustache`: **PASS**
+- `warrior of the movement of reason`, `delusion-shrouded death-madness`, `Aryanism`, `dwarf-jackal Aryanism`, `Parppaniyam`: **PASS**
+- frozen scan-48 `ப்ழச்சளை`: **PASS / retained verbatim; no guessed repair**
+- `நீ போய்விட்டாய்` → `You have gone`: **PASS**
+- frozen scan-49 `விட்டாய்.` → `You left.`: **PASS / frozen placement retained**
+- Tiruvitaththar quotation scope: **PASS / source-bearing label retained without outside identification**
+- money/proletarian contrast: **PASS**
+- `Oman Sea`, `golden Dravidian land`, `Aryan liquor`: **PASS**
+- action/sight relation `awakening and rising— / to see this...`: **PASS**
+- `பஞ்சைகள்` → `paupers`: **PASS in immediate frozen context**
+- `தஞ்சைக் காவலன்` → `guardian of Tanjai`: **PASS / no outside identification**
+- final fall/deeds/fall close: **PASS**
 - publication-source note/printer imprint and scan-50 advertisement: **PASS / excluded**
-- outside identification, web wording, alternate scan reading or published translation imported: **No**
+- external citation required: **No**
+- outside identification, web wording, alternate scan lexical/order reading or published translation imported: **No**
 - frozen Tamil changed: **No**
-- T3 blockers: **0**
+- T4 blockers: **0**
 
-**T3 RESULT: PASS. Article 10 advanced to `translation_status: voice-reviewed`. T3 English blob: `47a8325721d06594a0e5a4f408ee2e84678f634e`.**
+**T4 RESULT: PASS. Article 10 remains `translation_status: voice-reviewed`. T4-audited English candidate: `c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`.**
 
 ## Article review tracker
 
@@ -168,8 +154,8 @@ T3 non-regression checks:
 | 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 8 | பத்தினியே உன்போல்...! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 9 | அன்னை நாகம்மையார்! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
+| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
 
 ## Exact next activity
 
-Execute **Article 10 T4 — terminology / quotation / citation / source audit** against frozen Tamil `f856664d86695237a23d0ffc0bef088d32a82fe9` and T3 English `47a8325721d06594a0e5a4f408ee2e84678f634e`, scans **48–49**. Recheck all source labels/images, questions/exclamations/repetition, verse lineation, bracketed subtitle, `* * *`, both page comments, frozen `ப்ழச்சளை`, `Parppaniyam`, frozen `You left.` placement, quoted Tiruvitaththar line, money/proletarian contrast, Oman Sea image, Dravidian-land/Aryan-liquor sequence, `paupers`, guardian-of-Tanjai label, final fall/deeds/fall close and exclusion of scan-49 publication-close matter plus scan-50 advertisement. No outside identification, web wording, alternate scan reading or published translation. Keep Article 10 `voice-reviewed` through T4 and stop before T5.
+Execute **Article 10 T5 — final article verification** against frozen Tamil `f856664d86695237a23d0ffc0bef088d32a82fe9` and T4-audited English candidate `c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`, scans **48–49**. Recheck the complete T1–T4 chain, metadata/source fields, every verse unit and line, bracketed subtitle, `* * *`, both page comments, questions/exclamations/repetition/direct apostrophe, all terminology/source labels/images, frozen `ப்ழச்சளை`, `Parppaniyam`, frozen `You left.` placement, Tiruvitaththar quotation, money/proletarian contrast, Oman Sea image, Dravidian-land/Aryan-liquor sequence, `paupers`, guardian-of-Tanjai label, the T4-restored `you hid away without watching—` relation, final fall/deeds/fall close and exclusion rules. Do not import alternate scan readings, outside identification, web wording or published translations. If T5 passes, advance Article 10 to `verified` and stop before E6.
