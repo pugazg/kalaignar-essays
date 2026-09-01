@@ -16,7 +16,7 @@ Active publication:
 
 Fetch live `main` first. The last confirmed live HEAD immediately before this continuation prompt was synchronized was:
 
-`df6d9b2d736275d49a5ff0fdf4baa8bd2e025c31` — `Advance Thiraavida Sampaththu handover through E0`
+`79be45f39394347e3a66847b3f91a2d6dcd691ab` — `Advance Thiraavida Sampaththu handover through Article 1 T1`
 
 If `main` has advanced beyond that checkpoint, preserve the newer durable state. **Do not reset, overwrite, repeat or reopen later completed work merely because this prompt contains an older checkpoint.**
 
@@ -40,8 +40,9 @@ Before making any repository change, read completely:
 12. `publications/thiraavida-sampaththu/translations/en/LEXICON.md`
 13. `publications/thiraavida-sampaththu/translations/en/TRANSLATION_REVIEW.md`
 14. `publications/thiraavida-sampaththu/articles/01-thiraavida-sampaththu.md`
+15. `publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md`
 
-The controlling PDF is **not required for the normal T1 drafting activity** because English authority is the frozen strict-reviewed Tamil assembly. Resolve the scan only if a documented punctuation/source-boundary question genuinely requires it; do not use it to replace the frozen Tamil lexical witness.
+The controlling PDF is **not required for the normal Article 1 T2 comparison**, because the English authority is the frozen strict-reviewed Tamil assembly. Resolve the scan only if a documented punctuation/source-boundary question genuinely requires it; never use it to replace the frozen Tamil lexical witness.
 
 ## Frozen Tamil state
 
@@ -76,41 +77,56 @@ Do not reopen the frozen Tamil bodies for stylistic polishing, lexical conventio
 
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **2 / 2 PASS**
-- T1 drafts: **0 / 2**
+- T1 drafts: **1 / 2 PASS**
 - T2 fidelity-reviewed: **0 / 2**
 - T3 voice-reviewed: **0 / 2**
 - T4 audited: **0 / 2**
 - T5 verified: **0 / 2**
-- English article bodies: **0 / 2**
+- English article bodies: **1 / 2**
 - translation blockers: **0**
 
 Permanent rule:
 
 > **Translate the language; do not neutralise the voice.**
 
-Initial E0 terminology includes:
+## Article 1 T1 durable state
 
+- Tamil title: `திராவிட சம்பத்து`
+- working English title: **Dravidian Wealth** — not frozen
+- frozen Tamil blob: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
+- T1 English draft blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
+- English file status: `draft`
+- source comments: scans **5, 6, 13, 14, 15, 16 — all present**
+- scan-15/16 source-damage gaps: **preserved / unreconstructed**
+- frozen Tamil changes during T1: **0**
+
+Working T1 terminology includes:
+
+- `திராவிட சம்பத்து` → `Dravidian Wealth`;
 - `திராவிடம்` → `Dravidam`;
 - `திராவிடர்` → `Dravidians`;
-- adjectival `திராவிட` → `Dravidian` where grammatically required;
-- adjectival `ஆரிய` → `Aryan`;
-- `ஆனந்த விகடன்` → `Ananda Vikatan`.
+- `விகடனார்` → `Vikatanar`;
+- `நகைச்சுவை குரங்கார்` → `Comedy Monkey`;
+- `ஆரிய ஆஞ்சநேயர்` → `Aryan Anjaneyar`;
+- `இனவெறி` / `இனப்பற்று` → `racial hatred` / `attachment to one's race`;
+- `ஆப்பசைத்த குரங்கு` → `wedge-meddling monkey`;
+- `குப்பை மேட்டுக் குயில்கள்` → `cuckoos of the garbage heap`;
+- frozen anomalous `பேச்சுல` → provisional source-bearing `pechchul`.
 
-Source-specific insults/mock labels and difficult `சம்பத்து` usages remain contextual T1–T4 decisions; do not prematurely smooth or identify them.
+These are **working**, not release-frozen. T2 must test them for meaning; T3 later tests voice/cadence; T4 later audits terminology/source handling.
 
 ## EXACT NEXT ACTIVITY
 
-Execute **Article 1 T1 — complete close English draft for `திராவிட சம்பத்து` only**.
+Execute **Article 1 T2 — bilingual fidelity review** only.
 
-1. Re-fetch `articles/01-thiraavida-sampaththu.md` and confirm blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` before drafting.
-2. Create `translations/en/01-thiraavida-sampaththu.md` with the required English metadata and `translation_status: draft`.
-3. Translate every surviving Tamil paragraph in order; do not summarize or omit repetition.
-4. Preserve direct address, sarcasm, ridicule, rhetorical questions, exclamations and polemical labels.
-5. Preserve source-page comments for scans **5, 6, 13, 14, 15, 16**.
-6. Preserve explicit scan-15/16 `SOURCE DAMAGE` gaps without reconstruction or guessed bridging text.
-7. Update `translations/en/LEXICON.md` only with terminology actually used in the T1 draft.
-8. Record T1 completion in `translations/en/TRANSLATION_REVIEW.md`, the English tracker, `TRANSLATION_PLAN.md`, publication README and root `HANDOVER.md`.
-9. **Stop after Article 1 T1. Do not perform T2 in the same activity.**
+1. Re-fetch Article 1 frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T1 English blob `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`.
+2. Compare every Tamil paragraph and clause against English for omissions, added claims, negatives, comparisons, logical connectors, repetitions, names/referents and quotation scope.
+3. Confirm source-page comments for scans **5, 6, 13, 14, 15, 16** remain complete and correctly ordered.
+4. Audit both scan-15 and scan-16 damaged passages carefully. Translate surviving Tamil fragments only; do not reconstruct text hidden by missing paper.
+5. Test every T1 working terminology decision against the immediate Tamil context, including title/`சம்பத்து`, mock labels, race/identity vocabulary and frozen anomalous `பேச்சுல`.
+6. Make only fidelity-required English corrections; do not perform stylistic polishing that belongs to T3.
+7. Record every correction and unresolved source-sensitive choice in `translations/en/TRANSLATION_REVIEW.md`; update `LEXICON.md`, tracker, plan, publication README and root handover as needed.
+8. **Stop after Article 1 T2. Do not perform T3 in the same activity.**
 
 ## Previous publication non-regression
 
@@ -118,4 +134,4 @@ Publications 1–3 remain **COMPLETE / FROZEN / RELEASED**. Do not reopen them a
 
 ## Fresh-window execution rule
 
-When the user says **“Proceed with next activity”**, do not ask them to restate context. Fetch live `main`, read the authoritative handover/current translation records, confirm the frozen Article 1 blob, and execute the exact T1 activity completely.
+When the user says **“Proceed with next activity”**, do not ask them to restate context. Fetch live `main`, read the authoritative handover/current translation records, confirm both Article 1 blobs, and execute the exact T2 activity completely.
