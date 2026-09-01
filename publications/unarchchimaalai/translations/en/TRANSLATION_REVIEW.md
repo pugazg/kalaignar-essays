@@ -86,7 +86,7 @@ Permanent guide: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TR
 - English title: **Not Here! In Russia**
 - T1 draft: `af5d3bf7ae6377b8872076e3562f958299481259`
 - T2 fidelity-reviewed: `82a58cabb1c973fb7781f80e8ec53dac14fb2720`
-- T3 voice-reviewed / T4-audited candidate: `eab4800f78cbf2900a5dca4225b7679d53001acf`
+- T3 voice-reviewed / T4-audited candidate: `eab4800f78cb55e0a8db621965d93b82b383648`
 - final T5-verified English: **`c689ff90f08d389a5e7ebc4849c30d58dfe81766`**
 - T2 corrections: **2**
 - T3 interventions: **8**
@@ -380,7 +380,7 @@ T5 re-verified the complete T1–T4 chain against frozen Tamil blob `bac121257d2
 
 **T5 RESULT: PASS. Article 7 advanced to `translation_status: verified`. Final verified English blob: `6cfb28e2d83ba84ee2daa54606561479b61498b0`.**
 
-# Article 8 — `பத்தினியே உன்போல்...!` — T1–T3 COMPLETE / VOICE-REVIEWED
+# Article 8 — `பத்தினியே உன்போல்...!` — T1–T4 COMPLETE / SOURCE-AUDITED
 
 Source authority:
 
@@ -392,7 +392,7 @@ Source authority:
 - English title: **O Chaste Woman, Like You...!**
 - T1 draft blob: `af9c82ea95b65bc7e632ddf45ab1754217bffc39`
 - T2 fidelity-reviewed blob: `eccf5a9b0b2e042a115b8214ff0dc12333a225fe`
-- T3 voice-reviewed blob: **`2c5101765a57a01dce05e82d006a45d00f967d90`**
+- T3 voice-reviewed / T4-audited English candidate: **`2c5101765a57a01dce05e82d006a45d00f967d90`**
 
 ## T1 — close draft — COMPLETE / PASS
 
@@ -491,6 +491,45 @@ T3 non-regression checks:
 
 **T3 RESULT: PASS. Article 8 advanced to `translation_status: voice-reviewed`. T3 English blob: `2c5101765a57a01dce05e82d006a45d00f967d90`.**
 
+## T4 — terminology / quotation / citation / source audit — COMPLETE / PASS
+
+T4 audited the complete T3 English candidate against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` and verified page records for scans 42–44. It made **0 body corrections**.
+
+T4 audit checks:
+
+- metadata article number/title/source path/frozen Tamil SHA/scans/printed-page field: **PASS**
+- complete paragraph/clause coverage: **PASS**
+- all source-page comments 42–44 and printed-page witnesses: **PASS / ordered; scan 42 has no visible numeral**
+- opening dialogue quotation/question/exclamation scopes: **PASS**
+- scan-42 `“.........”` plus source-recovered unquoted `No answer.`: **PASS / structural distinction retained**
+- scan-43 dialogue quotation scopes: **PASS**
+- scan-43 `* * *`: **PASS / source separator retained**
+- embedded `“I have granted the boon,”`: **PASS / quotation scope retained**
+- command `Read it!`: **PASS**
+- scan-43→44 literary quotation opening at `“With pitambara...` and closing after `forgot herself!”`: **PASS / one continuous quotation across the page comment**
+- scan-44 insult quotation `“Ruiner of the clan! Blind fool! Do not slander the chaste woman!”`: **PASS**
+- source-quoted `“Paaraa Mugam Unnaiye,”`: **PASS / retained source-bearing, no external identification**
+- source-quoted title refrain `“O chaste woman, like you upon this earth.”`: **PASS**
+- source citation `1937` and page `43`: **PASS**
+- title `O Chaste Woman, Like You...!`: **PASS**
+- `pancha bhutas`, `Gandhiji`, frozen `Arijan journal`, repeated `philosophical meaning`: **PASS**
+- `Kunti Devi`, `Karnan`, source-sensitive `gave birth through her cheek`: **PASS**
+- frozen `Bhagavat anugraham`: **PASS / scan-appearing `அனுக்கிரகம்` not imported**
+- `Surya Bhagavan`, `Pandu Maharaja`, `Yamadharman`, `Dharmar`, `Vayu Bhagavan`, `Bhimar`, `Indran`, `Arjunan`, `Panchali`: **PASS**
+- `Sri Jath Govindaraja Iyengar`, `Villi Bharata Vasanam`: **PASS / source-derived only**
+- scan-43 negated `without touching Kunti, without her swooning` construction: **PASS**
+- frozen `azhgaaga`: **PASS / scan-appearing `அழகாக` not imported**
+- `pitambara`, `veerakandai`, frozen `pan murai` plus source `(not once)`: **PASS**
+- frozen `becoming one form` from `ஓருருவாகிப்`: **PASS / scan alternate not imported**
+- `wretch`, `Vaidheega madmen`, `Ruiner of the clan! Blind fool!`, old-toddy/new-pot image and `appa!`: **PASS / polemical force retained**
+- repeated erotic/literary verbs and imagery: **PASS / no neutralisation**
+- external citation required: **No**
+- alternate scan lexical readings, outside epic/history identification, web wording, published translation or source-normalising reconstruction imported: **No**
+- frozen Tamil changed: **No**
+- unresolved T4 blockers: **0**
+
+**T4 RESULT: PASS. Article 8 remains `translation_status: voice-reviewed`. T4-audited English candidate: `2c5101765a57a01dce05e82d006a45d00f967d90`.**
+
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
@@ -502,10 +541,10 @@ T3 non-regression checks:
 | 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 8 | பத்தினியே உன்போல்...! | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
+| 8 | பத்தினியே உன்போல்...! | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
 | 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
 
 ## Exact next activity
 
-Execute **Article 8 T4 — terminology / quotation / citation / source audit** for `பத்தினியே உன்போல்...!` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` and T3 English blob `2c5101765a57a01dce05e82d006a45d00f967d90`, scans **42–44**. Audit all terminology/proper-name/source-title decisions, all dialogue/quotation scopes, `1937` and page `43`, all source-page comments, scan-42 source-recovered `No answer.`, scan-43 `* * *`, the scan-43→44 literary quotation, `Arijan`, frozen/source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`, source-quoted `Paaraa Mugam Unnaiye`, the quoted title refrain and all polemical/erotic source-bearing language. Do not import alternate scan readings, outside epic/history identifications, web wording or published translations. Article 8 must remain `voice-reviewed` through T4 and **stop before T5**.
+Execute **Article 8 T5 — final article verification** for `பத்தினியே உன்போல்...!` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` and T4-audited English candidate `2c5101765a57a01dce05e82d006a45d00f967d90`, scans **42–44**. Re-verify the complete T1–T4 chain, metadata/source fields, complete paragraph/clause coverage, every dialogue/quotation boundary, `1937` / page `43`, all source-page comments, scan-42 source-recovered `No answer.`, scan-43 `* * *`, the scan-43→44 literary quotation, `Arijan`, all proper-name/source-title decisions, frozen/source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`, source-quoted `Paaraa Mugam Unnaiye`, quoted title refrain, repeated erotic/literary language and polemical force. Do not import alternate scan readings, outside epic/history identifications, web wording or published translations. If T5 passes, advance Article 8 to `verified`, synchronize records, and **do not begin Article 9 in the same activity**.
