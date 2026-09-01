@@ -83,7 +83,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 
 - T0 setup: **PASS**
 - T1 drafts: **5 / 10**
-- T2 fidelity-reviewed: **4 / 10**
+- T2 fidelity-reviewed: **5 / 10**
 - T3 voice-reviewed: **4 / 10**
 - T4 audited: **4 / 10**
 - T5 verified: **4 / 10**
@@ -119,38 +119,45 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - final T5-verified English blob: **`03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`**
 - blockers: **0**
 
-## Article 5 — `இங்கல்ல! இரஷ்யாவில்` — T1 COMPLETE / DRAFT
+## Article 5 — `இங்கல்ல! இரஷ்யாவில்` — T1–T2 COMPLETE / FIDELITY-REVIEWED
 
 - English title: **Not Here! In Russia**
 - frozen Tamil: `c8ac4d7c241832e07bbb24c5cee935588673f4ac`
 - source scans: **30–32**
 - printed pages: **30–31; scan 30 has no visible printed numeral**
 - English file: `publications/unarchchimaalai/translations/en/05-ingalla-irashyavil.md`
-- T1 draft blob: **`af5d3bf7ae6377b8872076e3562f958299481259`**
+- T1 draft blob: `af5d3bf7ae6377b8872076e3562f958299481259`
+- T2 fidelity-reviewed blob: **`82a58cabb1c973fb7781f80e8ec53dac14fb2720`**
+- T2 fidelity corrections: **2**
 - paragraph/clause coverage: **complete / PASS**
-- opening seven-name list: **preserved as seven source-bearing lines**
-- scan comments 30–32: **PASS / ordered**
-- rhetorical questions/exclamations, martial-mother accumulation, `Not a man! A woman! Woman!!` and `Here... There...` contrasts: **retained**
-- dates/numbers: **600; February 1, 1945; `10,55,000*`; 1940; 54,200; 49 — retained**
-- T1 provisional terms include `Purananuru`, `hidebound reactionaries`, `viruttam`, `pallid boy`, `Mariamman lullaby`, source-bearing `Idogiyo Nijulina`, `cradle`, `arasa tree`, `Putradi Mariamman temple sindhu`, `collective farm`, and `Soviet Union Hero`
-- source parenthetical `(Hero of the Soviet union)`: **retained exactly**
-- frozen scan-32 sequence `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...`: **retained as lexical/order authority; English kept deliberately literal/source-sensitive; no scan-based reordering or repair**
+- opening seven-name list: **PASS / preserved as seven source-bearing lines**
+- scan comments 30–32 and printed-page witnesses: **PASS**
+- scan-30 stove/education phrase: **T2 corrected / T1-added quotation marks removed because frozen Tamil is unquoted reported wording**
+- scan-31 `என் பாலைக்குடித்தவனா...`: **T2 corrected / interrogative force restored as `Was it he who drank my milk... ?` / unsupported T1 `My son` removed**
+- first and third martial-mother speeches remain quoted; middle outcry remains source-unquoted: **PASS**
+- rhetorical questions/exclamations, martial-mother accumulation, `Not a man! A woman! Woman!!` and `Here... There...` contrasts: **PASS**
+- dates/numbers: **600; February 1, 1945; `10,55,000*`; 1940; 54,200; 49 — PASS**
+- T2-reviewed terms include `Purananuru`, `hidebound reactionaries`, `viruttam`, `pallid boy`, `Mariamman lullaby`, source-bearing `Idogiyo Nijulina`, `cradle`, `arasa tree`, `Putradi Mariamman temple sindhu`, `collective farm`, and `Soviet Union Hero`
+- source parenthetical `(Hero of the Soviet union)`: **retained exactly and kept distinct from the translated Tamil award label**
+- comparison labels `Sita Devi / Arundhati / Ahalya / Draupadi`: **T2 REVIEWED**
+- frozen scan-30 `பீடத்தில்` and scan-31 `திரும்பினார்` continue to control over scan-appearing alternatives
+- frozen scan-32 sequence `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...`: **T2 PASS / retained as lexical-order authority / deliberately literal English / no scan-based reordering or repair**
 - outside historical identification, web wording or alternate scan ordering imported: **none**
-- T1 blockers: **0**
+- T2 blockers: **0**
 
-Article 5 remains a T1 draft. The source-irregular scan-32 sequence is not a Tamil-source blocker because the frozen assembly is authoritative; it is an explicit bilingual-fidelity item for T2.
+Article 5 is now ready for voice review. Its deliberately irregular scan-32 sequence must not be smoothed into a reconstructed historical sentence during T3.
 
 ---
 
 # Exact next activity
 
-Execute **Article 5 T2 — bilingual fidelity review** for `இங்கல்ல! இரஷ்யாவில்` / **Not Here! In Russia** against:
+Execute **Article 5 T3 — Kalaignar voice review** for `இங்கல்ல! இரஷ்யாவில்` / **Not Here! In Russia** against:
 
 - frozen Tamil blob: `c8ac4d7c241832e07bbb24c5cee935588673f4ac`
-- T1 English blob: `af5d3bf7ae6377b8872076e3562f958299481259`
+- T2 English blob: `82a58cabb1c973fb7781f80e8ec53dac14fb2720`
 - source scans: **30–32**
 
-T2 must compare every frozen Tamil paragraph/clause with the English draft; verify the seven opening names, the three martial-mother passages and source quotation scopes, every date/number, repeated exclamations/contrasts, and all provisional/source-sensitive terminology. Audit especially `பத்தாம்பசலிகள்`, `விருத்தம்`, `பசலைப் பையன்`, `ஏணை`, `அரசமரம்`, `புற்றடி மாரியம்மன் கோயில் சிந்து`, the `சோவியத் யூனியன் வீரர்` award phrase and source-English `(Hero of the Soviet union)`, and the frozen scan-32 lexical/order sequence. Make only fidelity corrections; do not silently substitute the scan-appearing alternate sequence or outside historical identification. Advance Article 5 to `translation_status: fidelity-reviewed` only if T2 passes; synchronize lexicon/review/tracker/plan/handover; and **stop before Article 5 T3**.
+T3 must preserve every T2 meaning and source-witness decision while reviewing the English as English for directness, accumulative martial cadence, ridicule of backwardness, praise/heroic temperature, repeated questions/exclamations, the three martial-mother movements, `Not a man! A woman! Woman!!`, the repeated `Here... There...` contrasts and the closing Purananuru/Russia contrast. The frozen scan-32 lexical/order sequence must remain visibly unreconstructed; do not smooth or historically repair it. Make only meaning-neutral voice/cadence corrections, update article metadata to `voice-reviewed` only if T3 passes, synchronize lexicon/review/tracker/plan/handover, and **stop before Article 5 T4**.
 
 ## Current blockers
 
