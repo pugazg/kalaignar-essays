@@ -10,7 +10,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - Tamil source/fidelity prerequisite: **PASSED / FROZEN**
 - Tamil articles: **10 / 10 strict-rechecked**
 - T0 source prerequisite/setup: **COMPLETE / PASS**
-- T1 close English drafts: **5 / 10**
+- T1 close English drafts: **6 / 10**
 - T2 fidelity-reviewed: **5 / 10**
 - T3 voice-reviewed: **5 / 10**
 - T4 audited: **5 / 10**
@@ -20,7 +20,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - English translation: **IN PROGRESS**
 - unresolved translation blockers: **0**
 
-Articles 1–5 have completed T0–T5 and are individually `verified`.
+Articles 1–5 have completed T0–T5 and are individually `verified`. Article 6 has completed T1 and is `draft` pending T2.
 
 ## Frozen Tamil translation authorities
 
@@ -46,7 +46,7 @@ Articles 1–5 have completed T0–T5 and are individually `verified`.
 | 3 | போகிறான்;போகிறான்..! | [`03-pogiran-pogiran.md`](03-pogiran-pogiran.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 4 | இராவணன் நம் பாட்டன் | [`04-iravanan-nam-pattan.md`](04-iravanan-nam-pattan.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 5 | இங்கல்ல! இரஷ்யாவில் | [`05-ingalla-irashyavil.md`](05-ingalla-irashyavil.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 6 | 3, 57, 90. | `06-3-57-90.md` | `not-started` | PASS | — | — | — | — | — |
+| 6 | 3, 57, 90. | [`06-3-57-90.md`](06-3-57-90.md) | `draft` | PASS | **PASS** | — | — | — | — |
 | 7 | 30-1-1948 | `07-30-1-1948.md` | `not-started` | PASS | — | — | — | — | — |
 | 8 | பத்தினியே உன்போல்...! | `08-paththiniye-unpol.md` | `not-started` | PASS | — | — | — | — | — |
 | 9 | அன்னை நாகம்மையார்! | `09-annai-nagammaiyar.md` | `not-started` | PASS | — | — | — | — | — |
@@ -78,20 +78,27 @@ Articles 1–5 have completed T0–T5 and are individually `verified`.
 - T2 fidelity-reviewed: `82a58cabb1c973fb7781f80e8ec53dac14fb2720`
 - T3 voice-reviewed / T4-audited candidate: `eab4800f78cbf2900a5dca4225b7679d53001acf`
 - final T5-verified English: **`c689ff90f08d389a5e7ebc4849c30d58dfe81766`**
-- T2 fidelity corrections: **2**
-- T3 meaning-neutral voice/cadence interventions: **8**
-- T4 body corrections: **0**
-- T5 body corrections: **0**
-- seven opening names, all scan comments and printed-page witnesses: **PASS**
-- first and third martial-mother speeches quoted; middle outcry source-unquoted: **PASS**
-- scan-30 stove/education phrase source-unquoted: **PASS**
-- all dates/numbers, including literal `10,55,000*`: **PASS**
-- `Soviet Union Hero` and source-English `(Hero of the Soviet union)`: **PASS / distinct witnesses retained**
-- four scan-32 comparison labels: **PASS / individually quoted**
-- frozen scan-30 `பீடத்தில்` and scan-31 `திரும்பினார்`: **PASS / alternate scan forms not imported**
-- frozen scan-32 lexical/order sequence: **PASS / deliberately unreconstructed**
-- outside/web historical wording, alternate scan reading or source-normalising repair imported: **No**
 - blockers: **0**
+
+## Article 6 T1 record
+
+- Tamil title / English title: **3, 57, 90.**
+- frozen Tamil authority: `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8`
+- source scans: **33–38**
+- printed pages: **33–37; scan 33 has no visible printed numeral**
+- T1 draft blob: **`03b33ab1aaa042266eb34163e688e415baa47be9`**
+- complete paragraph/clause coverage: **PASS**
+- scan comments 33–38: **PASS / preserved**
+- corrected scan-33/34 physical boundary: **PASS / preserved inside the running sentence**
+- opening seven hostile quoted remarks: **PASS / preserved as separate quotations**
+- scan-35→36 quoted college statement: **PASS / quotation continues across page boundary and closes on scan 36**
+- scan-36→37 percentage continuation: **PASS**
+- scan-37→38 `Sir` / `Ramasamis` continuation: **PASS**
+- final `3, 57, 90.` repetition: **PASS**
+- frozen scan-33 `எழுதினான்`, scan-35 `சம்மாதிக்காத`, scan-37 `பிரிதிநிதித்துவத்தை`, scan-38 `இழத்துக்`, `பிர பிரஹலாதர்களாக`, `வேண்டியுளது` and `ஒரியண்டல்`: **source authority retained; no Tamil normalisation imported**
+- provisional source-bearing English includes `kabothi`, `sodha`, `othiya`, `mathith thalaivar`, `Parppanar`, `Vediyars`, `Dravidian Vibhishanas`, `pira Prahaladas`, and final source-sensitive `Oriyantal College`
+- outside/web historical identification or alternate-scan repair imported: **No**
+- T1 blockers: **0**
 
 ## Translation authority / special source rule
 
@@ -99,4 +106,4 @@ English authority is the frozen Tamil article assembly, not OCR, memory, web wor
 
 ## Exact next activity
 
-Execute **Article 6 T1 — complete close English draft** for `3, 57, 90.` against frozen Tamil blob `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8`, scans **33–38**. Preserve the corrected scan-33/34 physical boundary and translate only from the frozen Tamil assembly. Do not substitute scan-appearing alternatives for frozen Gemini forms, including scan-33 `எழுதினான்`, scan-35 `சம்மாதிக்காத`, and scan-38 `ஒரியண்டல்`. Preserve questions, exclamations, quotations, numbers and scan comments; enter `translation_status: draft` only after complete paragraph/clause coverage; synchronize records; and **stop before Article 6 T2**.
+Execute **Article 6 T2 — bilingual fidelity review** for `3, 57, 90.` against frozen Tamil blob `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` and T1 English draft blob `03b33ab1aaa042266eb34163e688e415baa47be9`, scans **33–38**. Re-read every Tamil paragraph/clause against English; check omissions/additions, negatives, rhetorical force, quotation scope, names, numbers/percentages and cross-page continuations. Reconfirm the corrected scan-33/34 boundary and the frozen source forms `எழுதினான்`, `சம்மாதிக்காத`, `பிரிதிநிதித்துவத்தை`, `இழத்துக்`, `பிர பிரஹலாதர்களாக`, `வேண்டியுளது` and `ஒரியண்டல்`; do not import scan-appearing alternatives or outside historical wording. Record every T2 correction, advance only to `fidelity-reviewed` if the full bilingual pass succeeds, synchronize records, and **stop before Article 6 T3**.
