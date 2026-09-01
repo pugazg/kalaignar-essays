@@ -82,7 +82,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 ## English progress
 
 - T0 setup: **PASS**
-- T1 drafts: **4 / 10**
+- T1 drafts: **5 / 10**
 - T2 fidelity-reviewed: **4 / 10**
 - T3 voice-reviewed: **4 / 10**
 - T4 audited: **4 / 10**
@@ -116,44 +116,41 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 
 - English title: **Ravana Is Our Grandfather**
 - frozen Tamil: `006f2f75dbc3eea796170a29aee0befd162522e7`
-- source scans: **19–29**
-- English file: `publications/unarchchimaalai/translations/en/04-iravanan-nam-pattan.md`
-- T1 draft blob: `ce50394af45c8bb69e003c3d3fd8de097cf34808`
-- T2 fidelity-reviewed blob: `1e1f2db8a603e068921d8fb6b9b3e2e4a4c04447`
-- T3 voice-reviewed blob: `3b28938aa7c884e7de04d0532482b220c6c73a5b`
-- T4-audited English candidate blob: `324cf12bd42cb55e0a8db621965d93b82b383648`
 - final T5-verified English blob: **`03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`**
-- T2 fidelity corrections: **9** plus one non-semantic quotation-spacing cleanup
-- T3 meaning-neutral voice/cadence interventions: **15**
-- T4 terminology/quotation/source corrections: **9**
-- T5 body corrections: **0**
-- paragraph/clause coverage: **PASS**
-- scan comments 19–29: **T5 PASS / ordered and source-transition placement verified**
-- printed pages: **PASS — scan 19 unnumbered; scan 20 visible `1` only; scans 21–29 show 20–28**
-- scan 19 entire body: **source-recovered after Gemini whole-page omission; provenance retained in English comment**
-- scan 20 visible `1`: **retained exactly as witness; not reconstructed as `19`**
-- scan 20→21 `Kumudam` continuation: **T5 PASS / T4-corrected page boundary retained**
-- scan 25→26 Kambar verse: **T5 PASS / four-line structure and page boundary retained / no published English translation imported**
-- scan 28→29 Jawaharlal Nehru quotation: **T5 PASS / T4-corrected page boundary retained inside quotation**
-- `racial feeling`, `race-murder`, `racial awakening`, `T. K. Chidambaranathar`, `Arignar Annadurai`, `poet Bharathidasan`, source-sensitive `sagath-rakshakan`, `tastes bitter`, `Dravidians of the South`: **T5 VERIFIED**
-- `Dravidian youth` / `Dravidians`, source-form `Kambar` / `Kamban`, `Kamba Ramayanam`, `Kambarasam`, `Kambanattazhvar`, `kavadi-chindu`, `god-substance`, `frenzy to burn / frenzy to bear`, scan-23 frozen `frenzy to twist`, `Self-Respect Movement` / `Self-Respecter`, source-title transliterations, `attar`, `javvadu`, `sindhu`, `venpa`, `jaundiced eye / art-garland eye`: **T5 VERIFIED**
-- quotation scope and final Jawaharlal Nehru quotation/book reference: **T5 PASS**
-- outside/web wording, epic reconstruction, historical correction, published Kambar verse or alternate scan lexical reading imported: **none**
 - blockers: **0**
 
-Article 4 is individually verified but publication-level E6/E7 remain deferred until all ten articles complete T5.
+## Article 5 — `இங்கல்ல! இரஷ்யாவில்` — T1 COMPLETE / DRAFT
+
+- English title: **Not Here! In Russia**
+- frozen Tamil: `c8ac4d7c241832e07bbb24c5cee935588673f4ac`
+- source scans: **30–32**
+- printed pages: **30–31; scan 30 has no visible printed numeral**
+- English file: `publications/unarchchimaalai/translations/en/05-ingalla-irashyavil.md`
+- T1 draft blob: **`af5d3bf7ae6377b8872076e3562f958299481259`**
+- paragraph/clause coverage: **complete / PASS**
+- opening seven-name list: **preserved as seven source-bearing lines**
+- scan comments 30–32: **PASS / ordered**
+- rhetorical questions/exclamations, martial-mother accumulation, `Not a man! A woman! Woman!!` and `Here... There...` contrasts: **retained**
+- dates/numbers: **600; February 1, 1945; `10,55,000*`; 1940; 54,200; 49 — retained**
+- T1 provisional terms include `Purananuru`, `hidebound reactionaries`, `viruttam`, `pallid boy`, `Mariamman lullaby`, source-bearing `Idogiyo Nijulina`, `cradle`, `arasa tree`, `Putradi Mariamman temple sindhu`, `collective farm`, and `Soviet Union Hero`
+- source parenthetical `(Hero of the Soviet union)`: **retained exactly**
+- frozen scan-32 sequence `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...`: **retained as lexical/order authority; English kept deliberately literal/source-sensitive; no scan-based reordering or repair**
+- outside historical identification, web wording or alternate scan ordering imported: **none**
+- T1 blockers: **0**
+
+Article 5 remains a T1 draft. The source-irregular scan-32 sequence is not a Tamil-source blocker because the frozen assembly is authoritative; it is an explicit bilingual-fidelity item for T2.
 
 ---
 
 # Exact next activity
 
-Execute **Article 5 T1 — complete close English draft** for `இங்கல்ல! இரஷ்யாவில்` against:
+Execute **Article 5 T2 — bilingual fidelity review** for `இங்கல்ல! இரஷ்யாவில்` / **Not Here! In Russia** against:
 
 - frozen Tamil blob: `c8ac4d7c241832e07bbb24c5cee935588673f4ac`
+- T1 English blob: `af5d3bf7ae6377b8872076e3562f958299481259`
 - source scans: **30–32**
-- printed pages: **30–31; scan 30 has no visible printed numeral**
 
-Translate the complete frozen Article 5 paragraph by paragraph. Preserve every scan comment, rhetorical question/exclamation/repetition and source-bearing form. The frozen scan-32 lexical/order sequence is authoritative and must not be silently replaced by the scan-appearing alternate ordering. Establish provisional/source-sensitive terminology only as required, create/update `publications/unarchchimaalai/translations/en/05-ingalla-irashyavil.md` with `translation_status: draft` only after complete coverage, synchronize tracker/lexicon/review/plan/handover, and **stop before Article 5 T2**.
+T2 must compare every frozen Tamil paragraph/clause with the English draft; verify the seven opening names, the three martial-mother passages and source quotation scopes, every date/number, repeated exclamations/contrasts, and all provisional/source-sensitive terminology. Audit especially `பத்தாம்பசலிகள்`, `விருத்தம்`, `பசலைப் பையன்`, `ஏணை`, `அரசமரம்`, `புற்றடி மாரியம்மன் கோயில் சிந்து`, the `சோவியத் யூனியன் வீரர்` award phrase and source-English `(Hero of the Soviet union)`, and the frozen scan-32 lexical/order sequence. Make only fidelity corrections; do not silently substitute the scan-appearing alternate sequence or outside historical identification. Advance Article 5 to `translation_status: fidelity-reviewed` only if T2 passes; synchronize lexicon/review/tracker/plan/handover; and **stop before Article 5 T3**.
 
 ## Current blockers
 
