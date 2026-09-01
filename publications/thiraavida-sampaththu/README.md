@@ -36,9 +36,7 @@ Operationally:
 
 ## Critical source-order finding
 
-The PDF physical scan sequence is **not the publication reading sequence**. The surviving copy was scanned in a leaf/imposition order. Pencil folio numbers `2`–`8` appear on scans 3, 5, 7, 9, 11, 13 and 15; they are physical-copy marks, not printed page numerals.
-
-The reconstructed reading sequence from direct continuations and publisher cues is:
+The PDF physical scan sequence is **not the publication reading sequence**. The reconstructed reading sequence is:
 
 `1 → 2 → 9 → 10 → 5 → 6 → 13 → 14 → 15 → 16 → 7 → 8 → 11 → 12 → 3 → 4`
 
@@ -46,20 +44,16 @@ See [`indexes/page-map.md`](indexes/page-map.md).
 
 ## Source condition
 
-The book is heavily damaged. Large pieces of paper are missing from multiple scans, especially scans **3–4, 7–8, 11–16**. Damage cuts through printed lines on several body pages. Surviving words from the supplied transcription are retained; missing torn text is represented only by explicit source-damage comments and is not reconstructed.
+The book is heavily damaged. Large pieces of paper are missing from multiple scans, especially scans **3–4, 7–8, 11–16**. Missing torn text is represented only by explicit source-damage comments and is not reconstructed.
 
-Reverse-side show-through, ageing, stains and pencil folio marks are also visible. These are kept separate from printed text.
-
-## Final strict-reviewed article assemblies
+## Final strict-reviewed Tamil assemblies
 
 1. [`articles/01-thiraavida-sampaththu.md`](articles/01-thiraavida-sampaththu.md) — scans **5–6, 13–16** — **P5 PASS / strict-reviewed** — blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
 2. [`articles/02-aiyar-arivikkirar.md`](articles/02-aiyar-arivikkirar.md) — scans **12, 3** — **P5 PASS / strict-reviewed** — blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
-These two blobs are the frozen Tamil authorities for downstream English work. Both assemblies preserve reconstructed reading order, source-page comments and torn-text non-reconstruction. Article 1 retains the explicit scan-15/16 `SOURCE DAMAGE` markers.
+These are the frozen Tamil authorities for downstream English work.
 
 ## P5 non-regression
-
-P5 rechecked **16 / 16 physical scans** word by word and punctuation by punctuation.
 
 Documented lexical-witness conflicts were retained rather than silently substituted:
 
@@ -68,12 +62,7 @@ Documented lexical-witness conflicts were retained rather than silently substitu
 - scan 5: baseline `கண்னை` vs scan-appearing `கண்ணை`;
 - scan 16: baseline `பேச்சுல` vs scan-appearing `பேச்சை`.
 
-Source-visible omissions/recoveries:
-
-- scan 16 `மொழி.` — earlier documented recovery retained;
-- scan 15 `கிரேக்க மொழி` — P5 directly restored visible omitted `ழி` from supplied `கிரேக்க மொ`.
-
-No word physically hidden by missing paper was reconstructed.
+Source-visible recoveries include scan 16 `மொழி.` and scan 15 `கிரேக்க மொழி`. No word physically hidden by missing paper was reconstructed.
 
 Detailed P5 provenance: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).  
 Publication Tamil closeout: [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).  
@@ -81,12 +70,12 @@ Combined source audit: [`audit.md`](audit.md).
 
 ## Current Tamil archival status
 
-- P0 source intake / publication identification: **COMPLETE**
-- P1 metadata + reconstructed reading order + content map: **COMPLETE**
-- P2 page-level transcription / structural review: **16 / 16 COMPLETE**
-- P3 article assemblies: **COMPLETE — 2 / 2**
-- P4 source audit / completeness review: **PASS**
-- P5 strict word/punctuation fidelity pass: **16 / 16 PASS**
+- P0: **COMPLETE**
+- P1: **COMPLETE**
+- P2: **16 / 16 COMPLETE**
+- P3: **2 / 2 COMPLETE**
+- P4: **PASS**
+- P5: **16 / 16 PASS**
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - workflow blockers: **0**
 
@@ -96,7 +85,7 @@ Combined source audit: [`audit.md`](audit.md).
 - T0 source prerequisite: **2 / 2 PASS**
 - T1 close drafts: **1 / 2**
 - T2 fidelity-reviewed: **1 / 2**
-- T3 voice-reviewed: **0 / 2**
+- T3 voice-reviewed: **1 / 2**
 - T4 audited: **0 / 2**
 - T5 verified: **0 / 2**
 - English article bodies created: **1 / 2**
@@ -108,21 +97,22 @@ English workspace:
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
-- [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) — Article 1 T2 fidelity-reviewed
+- [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) — Article 1 T3 voice-reviewed
 
-Article 1 working English title: **Dravidian Wealth**. T2 found it semantically acceptable but it is not frozen yet.
+Article 1 working English title: **Dravidian Wealth**. It is not frozen yet.
 
 - frozen Tamil authority: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
 - T1 baseline blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
-- T2 fidelity-reviewed English blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`
-- metadata status: `fidelity-reviewed`
+- T2 fidelity-reviewed blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`
+- T3 voice-reviewed blob: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
+- metadata status: `voice-reviewed`
 
-Article 1 T2 checked every surviving paragraph/clause, retained source-page comments for scans **5, 6, 13, 14, 15, 16**, preserved all four scan-15/16 source-damage boundaries, reconstructed **0** hidden words, and made **0** frozen-Tamil changes. Fidelity corrections and terminology decisions are recorded in `translations/en/TRANSLATION_REVIEW.md` and `translations/en/LEXICON.md`.
+Article 1 T3 made **17 meaning-neutral voice/cadence interventions** after T2, strengthening directness, sarcasm, ridicule, abrupt contrasts and the recurring monkey/tail/poison imagery while changing **0** T2-secured substantive claims. All six source-page comments and all four scan-15/16 damage boundaries remain intact; hidden torn wording reconstructed: **0**; frozen Tamil changes: **0**.
 
 ## Exact next activity
 
-Execute **Article 1 T3 — Kalaignar voice review** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T2 English blob `155299ac2b71b0aaba431f63d3c882191a3c710b`.
+Execute **Article 1 T4 — terminology / quotation / citation / source audit** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T3 English blob `1d2e7dae1c00200ab402fa43722167e73e8568a4`.
 
-Review directness, sarcasm, ridicule, rhetorical questions, repetition, abrupt contrasts, insults and monkey/tail/poison imagery. Make only meaning-neutral voice/cadence corrections, preserve T2-secured meaning and every `SOURCE DAMAGE` boundary, document each intervention, and stop after T3.
+Audit the title, `Dravidam` / `Dravidians` / adjectival `Dravidian`, `Vikatanar` / `Vikatar` forms, mock labels/insults, `Mahishasura Mardini`, quotation scope, source-page comments, damage comments and frozen anomalous `pechchul`. Make only terminology/source-audit corrections, document them, and stop after T4.
 
-Do **not** perform T4 in the same activity, and do **not** reopen the frozen Tamil bodies for stylistic polishing, lexical conventionalisation or terminology homogenisation.
+Do **not** perform T5 in the same activity, and do **not** reopen the frozen Tamil bodies absent a genuine source-supported correction.
