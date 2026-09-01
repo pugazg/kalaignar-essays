@@ -43,7 +43,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 | 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 8 | பத்தினியே உன்போல்...! | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
+| 8 | பத்தினியே உன்போல்...! | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
 | 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
 
@@ -78,7 +78,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - outside/web historical wording, alternate scan reading or published translation imported: **No**
 - blockers: **0**
 
-## Article 8 — T1–T3 COMPLETE / VOICE-REVIEWED
+## Article 8 — T1–T4 COMPLETE / SOURCE-AUDITED
 
 - Tamil title: **பத்தினியே உன்போல்...!**
 - English title: **O Chaste Woman, Like You...!**
@@ -87,16 +87,19 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - printed pages: **42–43; scan 42 has no visible printed numeral**
 - T1 draft English: `af9c82ea95b65bc7e632ddf45ab1754217bffc39`
 - T2 fidelity-reviewed English: `eccf5a9b0b2e042a115b8214ff0dc12333a225fe`
-- T3 voice-reviewed English: **`2c5101765a57a01dce05e82d006a45d00f967d90`**
+- T3 voice-reviewed / T4-audited English candidate: **`2c5101765a57a01dce05e82d006a45d00f967d90`**
 - T2 fidelity corrections: **4** — `Harijan` → source-bearing `Arijan`; `fell in love with Karnan` → `had love for Karnan`; restored the negated `தொடாமல்...துவளாமல்...மறைந்து விட வில்லை` sequence and `swooning`; removed the unsupported physical turn-away from `வெறுத்துப் பேசிவிட்டு`.
 - T3 meaning-neutral voice/cadence interventions: **7** — sharpened the Karnan-taunt word order, `There is no fault...` → `No fault...`, recast the young man's thought for direct cadence, `experiences` → `finds`, tightened the old-toddy/new-pot sentence with a colon, `take and hold out` → `take up and hold out`, and `speak with disgust, saying` → `say in disgust`.
-- complete paragraph/clause coverage and T2 meanings: **T3 PASS**
-- all source-page comments and scan-43→44 quoted continuation: **T3 PASS**
-- scan-42 source-recovered `பதில் இல்லை.` and scan-43 `* * *`: **T3 PASS**
-- `1937` / page `43`: **T3 PASS**
-- repeated erotic/literary sequence `கூடிக் கூடி / குலவிக் குலவி / ஆடியாடி`: **T3 PASS / repetition retained**
-- frozen/source-sensitive `அனுக்ரகம்`, `அழ்காக`, `பன் முறை`, `ஓருருவாகிப்`: **T3 PASS / no scan-alternate repair**
-- source-quoted `பாரா முகம் உன்னையே`: **T3 PASS / retained without outside identification**
+- T4 body corrections: **0**
+- terminology/proper-name/source-title set: **T4 PASS**
+- dialogue and quoted-material boundaries: **T4 PASS**
+- scan-42 source-recovered `No answer.` and scan-43 `* * *`: **T4 PASS**
+- scan-43→44 literary quotation continuity: **T4 PASS**
+- `1937` / page `43`: **T4 PASS**
+- `Arijan`, source labels and epic forms: **T4 PASS / no outside normalisation**
+- frozen/source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`: **T4 PASS / no alternate-scan repair**
+- source-quoted `Paaraa Mugam Unnaiye` and quoted title refrain: **T4 PASS**
+- repeated erotic/literary language, insults and old-toddy/new-pot image: **T4 PASS / force retained**
 - outside epic/history wording, web wording or published translation imported: **No**
 - blockers: **0**
 
@@ -112,4 +115,4 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 
 ## Exact next activity
 
-Execute **Article 8 T4 — terminology / quotation / citation / source audit** for `பத்தினியே உன்போல்...!` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` and T3 English blob `2c5101765a57a01dce05e82d006a45d00f967d90`, scans **42–44**. Audit all Article 8 terminology, source labels, proper names, source-title/citation witnesses, dialogue and quotation scopes, scan-42 source-recovered `No answer.`, scan-43 `* * *`, the scan-43→44 literary quotation, `1937` / page `43`, `Arijan`, frozen/source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`, source-quoted `Paaraa Mugam Unnaiye`, and the quoted title refrain. Do not import alternate scan readings, outside epic/history wording or published translations. Article 8 must remain `voice-reviewed` through T4 and **stop before T5**.
+Execute **Article 8 T5 — final article verification** for `பத்தினியே உன்போல்...!` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` and T4-audited English candidate `2c5101765a57a01dce05e82d006a45d00f967d90`, scans **42–44**. Re-verify the complete T1–T4 chain, metadata/source fields, paragraph/clause coverage, all dialogue/quotation boundaries, source citation, all source-page comments and source-sensitive terminology. Preserve scan-42 source-recovered `No answer.`, scan-43 `* * *`, the scan-43→44 literary quotation, `Arijan`, frozen/source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`, source-quoted `Paaraa Mugam Unnaiye`, quoted title refrain and the article's repeated erotic/polemical force. Do not import alternate scan readings, outside epic/history wording or published translations. If T5 passes, advance Article 8 to `verified`, synchronize records, and **do not begin Article 9 in the same activity**.
