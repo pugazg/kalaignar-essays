@@ -45,27 +45,27 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | frozen scan-16 `பேச்சுல` | `pechchul` | Source-bearing transliteration retained because the frozen Tamil token is anomalous and must not be silently repaired to alternate scan reading `பேச்சை`. | T5 VERIFIED / SOURCE-SENSITIVE |
 | `ஆரிய சம்பத்து` | contextual rendering to be fixed when encountered in translated body | Occurs outside Article 1 body in current publication structure; do not pre-translate publisher matter into Article 1. | OPEN |
 
-## Article 2 terminology/source decisions through T3
+## Article 2 terminology/source decisions — T4 AUDITED
 
 | Tamil / source form | English handling | Review note | Status |
 |---|---|---|---|
-| `ஐயர்` | `Iyer` | Preserves the exact source form used in the Article 2 title and opening reference; not homogenised with `அய்யர்`. | T3 RETAINED / T4 AUDIT LATER |
-| `அய்யர்` | `Ayyar` | Preserves the source-form contrast with `ஐயர்`; no modern-name substitution. | T3 RETAINED / T4 AUDIT LATER |
-| `திராவிடம்` | `Dravidam` | Reuses the verified Article 1 noun handling where the same frozen source form recurs. | T3 RETAINED |
-| `பூணூல்` | `sacred thread` | Direct cultural rendering; no explanatory caste identification inserted. | T3 VOICE PASS |
-| `மொழி கற்கண்டு` | `language sugar-candy` | Keeps the compact confection/sweetness image rather than smoothing it into generic praise. | T3 VOICE PASS / T4 AUDIT LATER |
-| `ஏனோதானோ` / `ஏனோதானோக்கள்` | `Enothano` / `Enothanos` | Source-bearing transliteration of the unexplained mock/coined political label; ridicule preserved without outside identification. | T3 VOICE RETAINED / T4 AUDIT LATER |
-| frozen scan-3 `அயம்` | `ayam` | Damaged/ambiguous frozen token retained as source-bearing transliteration; no guessed `Iyer`/`Ayyar` repair. | T3 SOURCE-SENSITIVE RETAINED |
-| normal `கல்லூரி` | `College` | Ordinary source form in the first Presidency College reference. | T3 RETAINED |
-| frozen scan-3 `கல்லுரி` | `kalluri` | Deliberately carried source-bearing rather than silently normalised to `கல்லூரி`; source-witness distinction retained. | T3 SOURCE-SENSITIVE RETAINED / T4 AUDIT LATER |
-| narrative `சாமிநாதய்யர்` | `Saminathayyar` | T2 preserves the fused source form instead of flattening it to the separate `சாமிநாத அய்யர்` form used in the inscription. | T3 RETAINED / T4 AUDIT LATER |
-| inscription `சாமிநாத அய்யர்` | `Saminatha Ayyar` | Preserves the separate Ayyar form exactly as represented by the frozen quoted inscription. | T3 RETAINED / T4 AUDIT LATER |
-| `மகா மகோபாத்யாய திராவிட வித்ய பூஷண` | `Maha Mahopadhyaya Dravida Vidya Bhushana` | Source-bearing transliteration of the quoted inscription title; no external expansion or alternate published inscription imported. | T3 RETAINED / T4 AUDIT LATER |
-| `ஐயர் அறிவிக்கிறார்!` | `Iyer Announces!` | Semantically and rhetorically passes T3; title remains unfrozen until later gates. | T3 VOICE PASS / TITLE UNFROZEN |
+| `ஐயர்` | `Iyer` | Preserves the exact source form used in the Article 2 title and opening reference; not homogenised with `அய்யர்`. | T4 AUDITED |
+| `அய்யர்` | `Ayyar` | Preserves the source-form contrast with `ஐயர்`; no modern-name substitution. | T4 AUDITED |
+| `திராவிடம்` | `Dravidam` | Reuses the verified Article 1 noun handling where the same frozen source form recurs. | T4 AUDITED |
+| `பூணூல்` | `sacred thread` | Direct cultural rendering; no explanatory caste identification inserted. | T4 AUDITED |
+| `மொழி கற்கண்டு` | `language sugar-candy` | Keeps the compact confection/sweetness image rather than smoothing it into generic praise. | T4 AUDITED |
+| `ஏனோதானோ` / `ஏனோதானோக்கள்` | `Enothano` / `Enothanos` | Source-bearing transliteration of the unexplained mock/coined political label; no outside identification. | T4 AUDITED / SOURCE-BEARING |
+| frozen scan-3 `அயம்` | `ayam` | Damaged/ambiguous frozen token retained as source-bearing transliteration; no guessed `Iyer`/`Ayyar` repair. | T4 AUDITED / SOURCE-SENSITIVE |
+| normal `கல்லூரி` | `College` | Ordinary source form in the first Presidency College reference. | T4 AUDITED |
+| frozen scan-3 `கல்லுரி` | `kalluri` | Deliberately carried source-bearing rather than silently normalised to `கல்லூரி`; source-witness distinction retained. | T4 AUDITED / SOURCE-SENSITIVE |
+| narrative `சாமிநாதய்யர்` | `Saminathayyar` | Preserves the fused source form instead of flattening it to the separate `சாமிநாத அய்யர்` form used in the inscription. | T4 AUDITED |
+| inscription `சாமிநாத அய்யர்` | `Saminatha Ayyar` | Preserves the separate Ayyar form exactly as represented by the frozen quoted inscription. | T4 AUDITED |
+| `மகா மகோபாத்யாய திராவிட வித்ய பூஷண` | `Maha Mahopadhyaya Dravida Vidya Bhushana` | Source-bearing transliteration of the quoted inscription title; no external expansion or alternate published inscription imported. | T4 AUDITED |
+| `ஐயர் அறிவிக்கிறார்!` | `Iyer Announces!` | Title meaning and source-form `ஐயர்` pass the T4 terminology/source audit; final verification remains T5. | T4 TITLE AUDITED / T5 VERIFY |
 
 ## Article 2 T2 fidelity/source decisions
 
-- The frozen first paragraph has irregular quotation punctuation around `நாட்டினரே...` and the following `திராவிடம்...` quoted line. T2 confirms the T1 strategy of rendering these as two evident quoted units without importing missing punctuation/content from outside the frozen witness; T4 must still perform the formal quotation/source audit.
+- The frozen first paragraph has irregular quotation punctuation around `நாட்டினரே...` and the following `திராவிடம்...` quoted line. T2 confirmed the T1 strategy of rendering these as two evident quoted units without importing missing punctuation/content from outside the frozen witness.
 - The frozen paragraph break between `தெரிந்த` and `பிறகு` is represented in English: **`Once you know—`** ends the first paragraph and **`then tell...`** begins the next.
 - T2 removed the added idiomatic phrase **`for themselves`** from `போய்ப்பார்க்கும்படி`; the English stays at **`to go and see`**.
 - Narrative fused source form `சாமிநாதய்யர்` is **`Saminathayyar`**, while the separately written inscription form `சாமிநாத அய்யர்` remains **`Saminatha Ayyar`**.
@@ -83,6 +83,15 @@ T3 preserved every T2-secured semantic/source distinction and made only cadence/
 - The fire-stepping ridicule is tightened to **`at the very word Dravidam, leaps as though he has stepped on fire`**, and the ending to **`went away, head bowed`**.
 - The final imperative sequence now lands as **`to go and see. And along with that, read carefully what follows below.`**, preserving the commands while avoiding a softened explanatory flow.
 - `language sugar-candy`, `Enothano(s)`, `ayam`, `kalluri`, `Saminathayyar`, `Saminatha Ayyar`, the two quoted units and the inscription wording remain unchanged from T2.
+
+## Article 2 T4 quotation/source decisions
+
+- T4 formally audited the frozen first-paragraph quotation anomaly. The English keeps **two evident quoted units**—`"Countrymen; countrymen, a message."` and `"There is a word called Dravidam..."`—as a readable translation-layer treatment. This does **not** assert that the frozen Tamil contains a missing closing quotation mark, and no outside wording or punctuation was imported.
+- The final quoted inscription remains source-bearing **`Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar`**; no external or modernised inscription wording was substituted.
+- Narrative fused `சாமிநாதய்யர்` remains **`Saminathayyar`**, distinct from inscription `சாமிநாத அய்யர்` → **`Saminatha Ayyar`**.
+- Frozen damaged/ambiguous `அயம்` remains **`ayam`** and frozen anomalous `கல்லுரி` remains **`kalluri`**; neither was repaired from context or alternate scan readings.
+- Source-page comments for scans **12** and **3** remain present and ordered.
+- T4 required **0 English body corrections**; only translation metadata/provenance advanced.
 
 ## Article 1 source-damage decisions — T5 VERIFIED
 
@@ -104,11 +113,11 @@ The following are not permission to correct Tamil during translation:
 - scan 15 `கிரேக்க மொழி` and scan 16 `மொழி.` are documented source-visible recoveries already incorporated into the frozen Tamil authority;
 - scan 4 promoted-title conflict is outside both Kalaignar article bodies.
 
-## Title policy after Article 2 T3
+## Title policy after Article 2 T4
 
 - Article 1 `திராவிட சம்பத்து`: **Dravidian Wealth** — **VERIFIED**.
-- Article 2 `ஐயர் அறிவிக்கிறார்!`: working English title **Iyer Announces!** — **T3 voice pass / not frozen**.
+- Article 2 `ஐயர் அறிவிக்கிறார்!`: **Iyer Announces!** — **T4 AUDITED / final verification pending T5**.
 
 ## Next lexicon activity
 
-During **Article 2 T4**, perform the formal terminology / quotation / citation / source audit, including the title, `Iyer` / `Ayyar`, `Enothano(s)`, `ayam`, `kalluri`, fused/spaced Saminatha name forms, the two first-paragraph quoted units and the final inscription. Do not perform T5 in the same activity.
+During **Article 2 T5**, re-verify the T4-audited title, terminology, quotation treatment, source-page comments, metadata and complete body against the frozen Tamil authority. Do not reopen T4 decisions for stylistic preference.
