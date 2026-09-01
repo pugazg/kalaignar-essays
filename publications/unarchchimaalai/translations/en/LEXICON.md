@@ -4,7 +4,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Status
 
-**Articles 1–7 T5 VERIFIED; Article 8 T1 COMPLETE / DRAFT.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
+**Articles 1–7 T5 VERIFIED; Article 8 T1–T2 COMPLETE / FIDELITY-REVIEWED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
 
 > **Translate the language; do not neutralise the voice.**
 
@@ -315,49 +315,64 @@ T4 made **2 clause-level body corrections in one scan-41 sentence**: T3 `Before 
 
 T5 made **0 body corrections**. It final-verified the T4 candidate against the frozen Tamil and all page/source witnesses, reconfirming metadata, complete paragraph/clause coverage, quotation boundaries, dates, source honorifics, terminology, the T4-restored `could become` / `could cease` relation, frozen scan-39 `ஒடி` / `சோக பூகம்` / `சுக்குநூறாக்கம்`, scan-41 `ஒய்வதற்கு`, frozen final ordering and the deliberately incomplete ending. No outside or scan-alternate wording was introduced.
 
-## Article 8 — T1 provisional decisions
+## Article 8 — T1–T2 fidelity-reviewed decisions
 
 Frozen Tamil authority: `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`  
-T1 draft English blob: **`af9c82ea95b65bc7e632ddf45ab1754217bffc39`**
+T1 draft English blob: `af9c82ea95b65bc7e632ddf45ab1754217bffc39`  
+T2 fidelity-reviewed English blob: **`eccf5a9b0b2e042a115b8214ff0dc12333a225fe`**
 
 | Tamil / source form | English decision | Status / caution |
 |---|---|---|
-| `பத்தினியே உன்போல்...!` | `O Chaste Woman, Like You...!` | T1 PROVISIONAL |
-| `பஞ்ச பூதங்கள்` | `pancha bhutas` | SOURCE-BEARING / T1 PROVISIONAL |
-| `காந்திஜி` | `Gandhiji` | SOURCE-LABEL / T1 PROVISIONAL |
-| `அரிஜன் பத்திரிகை` | `Harijan journal` | Article 6 `Harijan` decision reused / T1 PROVISIONAL |
-| `தத்துவார்த்தம்` | `philosophical meaning` | T1 PROVISIONAL; repeated explanatory/ridiculing term |
-| scan-42 source-recovered `பதில் இல்லை.` | `No answer.` | SOURCE-RECOVERED / T1 PASS |
-| `குந்தி தேவி` | `Kunti Devi` | SOURCE-LABEL / T1 PROVISIONAL |
-| `கர்ணன்` | `Karnan` | SOURCE-FORM / T1 PROVISIONAL |
-| `கன்னத்தால் பெற்றாள்` | `gave birth through her cheek` | SOURCE-SENSITIVE / T1 PROVISIONAL; do not repair from outside epic knowledge |
-| frozen `பகவத் அனுக்ரகம்` | `Bhagavat anugraham` | SOURCE-SENSITIVE / T1 PROVISIONAL; scan-appearing `அனுக்கிரகம்` not imported |
-| `வரப்பிரசாதம்` | `gift of a boon` | T1 PROVISIONAL |
-| `சூரிய பகவான்` | `Surya Bhagavan` | SOURCE-LABEL / T1 PROVISIONAL |
-| `பாண்டு மகாராஜா` | `Pandu Maharaja` | SOURCE-LABEL / T1 PROVISIONAL |
-| `குளிகை` | `pill` | T1 PROVISIONAL |
-| `யமதர்மன் / தர்மர்` | `Yamadharman / Dharmar` | SOURCE-FORM / T1 PROVISIONAL |
-| `வாயுபகவான் / பீமர்` | `Vayu Bhagavan / Bhimar` | SOURCE-FORM / T1 PROVISIONAL |
-| `இந்திரன் / அர்ச்சுனர்` | `Indran / Arjunan` | SOURCE-FORM / T1 PROVISIONAL |
-| `தருதலை` | `wretch` | INSULT / T1 PROVISIONAL |
-| `சவ்வாது` | `javvadu` | Article 4 decision reused / T1 PROVISIONAL |
-| `பிரசங்க பூஷணங்கள்` | `preaching ornaments` | POLEMICAL / T1 PROVISIONAL; literal force retained |
-| `ஸ்ரீ ஜத் கோவிந்தராஜ அய்யங்கார்` | `Sri Jath Govindaraja Iyengar` | SOURCE-LABEL / T1 PROVISIONAL; no outside identification |
-| `வில்லிபாரத வசனம்` | `Villi Bharata Vasanam` | SOURCE-TITLE / T1 PROVISIONAL; no outside normalisation |
-| frozen scan-43 `அழ்காக` | `azhgaaga` | SOURCE-SENSITIVE / T1 PROVISIONAL; scan-appearing `அழகாக` not imported |
-| `பீதாம்பரம்` | `pitambara` | SOURCE-BEARING / T1 PROVISIONAL |
-| `வீரகண்டை` | `veerakandai` | SOURCE-BEARING / T1 PROVISIONAL |
-| frozen scan-44 `பன் முறை` | `pan murai` | SOURCE-SENSITIVE / T1 PROVISIONAL; source parenthetical `(not once)` retained |
-| frozen scan-44 `ஓருருவாகிப்` | `becoming one form` | SOURCE-SENSITIVE / T1 PROVISIONAL; scan-appearing alternate not imported |
-| `வைதீகப் பித்தர்கள்` | `Vaidheega madmen` | POLEMICAL / T1 PROVISIONAL |
-| `காலக்ஷேபம்` | `kalakshepam` | SOURCE-BEARING / T1 PROVISIONAL |
-| source-quoted `பாரா முகம் உன்னையே` | `Paaraa Mugam Unnaiye` | SOURCE-QUOTED / T1 PROVISIONAL; retained without outside identification/translation |
-| `பாஞ்சாலி` | `Panchali` | SOURCE-FORM / T1 PROVISIONAL |
-| `பத்தினியே உன் போல் இத்தரை மீதினில்` | `O chaste woman, like you upon this earth` | SOURCE-QUOTED / T1 PROVISIONAL |
+| `பத்தினியே உன்போல்...!` | `O Chaste Woman, Like You...!` | T2 REVIEWED |
+| `பஞ்ச பூதங்கள்` | `pancha bhutas` | SOURCE-BEARING / T2 REVIEWED |
+| `காந்திஜி` | `Gandhiji` | SOURCE-LABEL / T2 REVIEWED |
+| `அரிஜன் பத்திரிகை` | `Arijan journal` | SOURCE-SENSITIVE / T2 CORRECTED; distinct from Article 6 frozen `ஹரிஜன` → `Harijan` and not normalised from outside knowledge |
+| `தத்துவார்த்தம்` | `philosophical meaning` | T2 REVIEWED; repeated explanatory/ridiculing term |
+| scan-42 source-recovered `பதில் இல்லை.` | `No answer.` | SOURCE-RECOVERED / T2 PASS |
+| `குந்தி தேவி` | `Kunti Devi` | SOURCE-LABEL / T2 REVIEWED |
+| `கர்ணன்` | `Karnan` | SOURCE-FORM / T2 REVIEWED |
+| `கர்ணன் மேலுங் காதல கொண்டாளாமே` | `she also had love for Karnan` | T2 CORRECTED; avoids T1's stronger eventive `fell in love` |
+| `கன்னத்தால் பெற்றாள்` | `gave birth through her cheek` | SOURCE-SENSITIVE / T2 REVIEWED; do not repair from outside epic knowledge |
+| frozen `பகவத் அனுக்ரகம்` | `Bhagavat anugraham` | SOURCE-SENSITIVE / T2 REVIEWED; scan-appearing `அனுக்கிரகம்` not imported |
+| `வரப்பிரசாதம்` | `gift of a boon` | T2 REVIEWED |
+| `சூரிய பகவான்` | `Surya Bhagavan` | SOURCE-LABEL / T2 REVIEWED |
+| `பாண்டு மகாராஜா` | `Pandu Maharaja` | SOURCE-LABEL / T2 REVIEWED |
+| `குளிகை` | `pill` | T2 REVIEWED |
+| `யமதர்மன் / தர்மர்` | `Yamadharman / Dharmar` | SOURCE-FORM / T2 REVIEWED |
+| `வாயுபகவான் / பீமர்` | `Vayu Bhagavan / Bhimar` | SOURCE-FORM / T2 REVIEWED |
+| `இந்திரன் / அர்ச்சுனர்` | `Indran / Arjunan` | SOURCE-FORM / T2 REVIEWED |
+| `தருதலை` | `wretch` | INSULT / T2 REVIEWED |
+| `சவ்வாது` | `javvadu` | Article 4 decision reused / T2 REVIEWED |
+| `பிரசங்க பூஷணங்கள்` | `preaching ornaments` | POLEMICAL / T2 REVIEWED; literal force retained |
+| `ஸ்ரீ ஜத் கோவிந்தராஜ அய்யங்கார்` | `Sri Jath Govindaraja Iyengar` | SOURCE-LABEL / T2 REVIEWED; no outside identification |
+| `வில்லிபாரத வசனம்` | `Villi Bharata Vasanam` | SOURCE-TITLE / T2 REVIEWED; no outside normalisation |
+| `தொடாமல்...துவளாமல்...மறைந்து விட வில்லை` | `did not simply say ... and disappear without touching Kunti, without her swooning` | T2 CORRECTED; negation and `துவளாமல்` restored without adding an external narrative |
+| frozen scan-43 `அழ்காக` | `azhgaaga` | SOURCE-SENSITIVE / T2 REVIEWED; scan-appearing `அழகாக` not imported |
+| `பீதாம்பரம்` | `pitambara` | SOURCE-BEARING / T2 REVIEWED |
+| `வீரகண்டை` | `veerakandai` | SOURCE-BEARING / T2 REVIEWED |
+| frozen scan-44 `பன் முறை` | `pan murai` | SOURCE-SENSITIVE / T2 REVIEWED; source parenthetical `(not once)` retained |
+| frozen scan-44 `ஓருருவாகிப்` | `becoming one form` | SOURCE-SENSITIVE / T2 REVIEWED; scan-appearing alternate not imported |
+| `வைதீகப் பித்தர்கள்` | `Vaidheega madmen` | POLEMICAL / T2 REVIEWED |
+| `காலக்ஷேபம்` | `kalakshepam` | SOURCE-BEARING / T2 REVIEWED |
+| source-quoted `பாரா முகம் உன்னையே` | `Paaraa Mugam Unnaiye` | SOURCE-QUOTED / T2 REVIEWED; retained without outside identification/translation |
+| `வெறுத்துப் பேசிவிட்டு` | `speak with disgust, saying...` | T2 CORRECTED; T1 unsupported physical `turn away` removed |
+| `பாஞ்சாலி` | `Panchali` | SOURCE-FORM / T2 REVIEWED |
+| `பத்தினியே உன் போல் இத்தரை மீதினில்` | `O chaste woman, like you upon this earth` | SOURCE-QUOTED / T2 REVIEWED |
 
 ### Article 8 T1 result
 
 T1 translated the complete frozen Article 8 assembly across scans 42–44. All dialogue paragraphs, questions/exclamations, the source-recovered `No answer.`, scan-43 `* * *`, `1937` / page `43`, and the long quotation continuing from scan 43 into scan 44 are represented. The sexual imagery, repeated verbs and polemical insults were not softened. Frozen/source-sensitive `அனுக்ரகம்`, `அழ்காக`, `பன் முறை` and `ஓருருவாகிப்` were not replaced with scan-appearing alternates; no outside epic/history wording or published translation was imported. T1 blockers: **0**.
+
+### Article 8 T2 result
+
+T2 made **4 fidelity corrections** while preserving the T1 structure and source witnesses:
+
+1. frozen `அரிஜன் பத்திரிகை` — inherited `Harijan journal` → **`Arijan journal`**, retaining the immediate frozen source label rather than importing Article 6's distinct `ஹரிஜன` spelling;
+2. `கர்ணன் மேலுங் காதல கொண்டாளாமே` — `fell in love with Karnan` → **`also had love for Karnan`**, removing a stronger eventive claim;
+3. scan 43 `தோன்றியவன் குந்தியைத் தொடாமல். அவள் துவளாமல்... “வரந் தந்தேன்” என்று சொல்லி மறைந்து விட வில்லை` — restored as one negated construction, **`did not simply say ... and disappear without touching Kunti, without her swooning`**, correcting T1's awkward attachment and `yielding` sense;
+4. scan 44 `வெறுத்துப் பேசிவிட்டு` — removed T1's unsupported physical `turn away`; retained **`speak with disgust, saying...`**.
+
+All scan comments 42–44, quotation/dialogue boundaries, scan-42 source-recovered `No answer.`, scan-43 `* * *`, scan-43→44 literary quotation continuation, `1937`, page `43`, insults, repeated erotic verbs, frozen/source-sensitive `அனுக்ரகம்`, `அழ்காக`, `பன் முறை`, `ஓருருவாகிப்`, and source-quoted `பாரா முகம் உன்னையே` passed. No alternate scan wording, outside epic/history identification, web wording or published translation was imported. T2 blockers: **0**.
 
 ## Decisions still to establish in later articles
 
@@ -369,4 +384,4 @@ T1 translated the complete frozen Article 8 assembly across scans 42–44. All d
 
 ## Next lexicon activity
 
-During **Article 8 T2**, fidelity-review the provisional Article 8 choices against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` and T1 English blob `af9c82ea95b65bc7e632ddf45ab1754217bffc39`. Recheck especially the title, `கன்னத்தால்`, `அனுக்ரகம்`, `அழ்காக`, `பன் முறை`, `ஓருருவாகிப்`, epic/source labels, insults, source-quoted `பாரா முகம் உன்னையே`, the cross-page literary quotation and source-recovered `பதில் இல்லை.`. Do not import alternate scan readings, outside epic/history identifications or published translations.
+During **Article 8 T3**, voice-review T2 English blob `eccf5a9b0b2e042a115b8214ff0dc12333a225fe` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`. Preserve every T2 meaning/source decision while sharpening only English directness, dialogue bite, ridicule, commands, insults, repeated erotic/literary cadence and the closing challenge. Preserve source-recovered `No answer.`, scan-43 `* * *`, `Arijan`, `Bhagavat anugraham`, `azhgaaga`, `pan murai`, `becoming one form`, and source-quoted `Paaraa Mugam Unnaiye`; do not import alternate scan readings, outside epic/history identifications or published translations.
