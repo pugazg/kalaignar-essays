@@ -14,13 +14,13 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T2 fidelity-reviewed: **10 / 10**
 - T3 voice-reviewed: **10 / 10**
 - T4 audited: **10 / 10**
-- T5 verified: **9 / 10**
+- T5 verified: **10 / 10**
 - E6 publication consistency review: **NOT STARTED**
 - E7 release closeout: **NOT STARTED**
-- English translation: **IN PROGRESS**
+- English translation: **IN PROGRESS — ALL ARTICLES INDIVIDUALLY VERIFIED**
 - unresolved translation blockers: **0**
 
-Articles 1–9 have completed T0–T5 and are individually `verified`. Article 10 has completed T1–T4 and remains `voice-reviewed` pending T5.
+Articles 1–10 have completed T0–T5 and are individually `verified`. Publication-level E6 and E7 remain.
 
 ## Frozen Tamil translation authorities
 
@@ -50,7 +50,7 @@ Articles 1–9 have completed T0–T5 and are individually `verified`. Article 1
 | 7 | 30-1-1948 | [`07-30-1-1948.md`](07-30-1-1948.md) | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 8 | பத்தினியே உன்போல்...! | [`08-paththiniye-unpol.md`](08-paththiniye-unpol.md) | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 9 | அன்னை நாகம்மையார்! | [`09-annai-nagammaiyar.md`](09-annai-nagammaiyar.md) | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | [`10-kavithaiyalla-kannirkkadal.md`](10-kavithaiyalla-kannirkkadal.md) | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
+| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | [`10-kavithaiyalla-kannirkkadal.md`](10-kavithaiyalla-kannirkkadal.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 
 ## Verified article baseline
 
@@ -63,8 +63,9 @@ Articles 1–9 have completed T0–T5 and are individually `verified`. Article 1
 7. `30-1-1948` — **30-1-1948** — `6cfb28e2d83ba84ee2daa54606561479b61498b0`
 8. `பத்தினியே உன்போல்...!` — **O Chaste Woman, Like You...!** — `6b12e6b3cc09b6de402998bb3824e7a98808f885`
 9. `அன்னை நாகம்மையார்!` — **Mother Nagammaiyar!** — `204ffed012f4bd91b3077065f031d6b2db747854`
+10. `கவிதையல்ல - கண்ணீர்க்கடல் !` — **Not a Poem — an Ocean of Tears!** — `cee8ea3c33495615ffc988a1875d71e40f8224a3`
 
-## Article 10 — T1–T4 COMPLETE / VOICE-REVIEWED
+## Article 10 — T0–T5 COMPLETE / VERIFIED
 
 - English title: **Not a Poem — an Ocean of Tears!**
 - frozen Tamil: `f856664d86695237a23d0ffc0bef088d32a82fe9`
@@ -73,15 +74,17 @@ Articles 1–9 have completed T0–T5 and are individually `verified`. Article 1
 - T1 draft English: `a9864870a17c291304b1cab2480ea7eea4730e1a`
 - T2 fidelity-reviewed English: `a85fb820c37f1a38cc904c79098cb7a858a5e3b4`
 - T3 voice-reviewed English: `47a8325721d06594a0e5a4f408ee2e84678f634e`
-- T4-audited English candidate: **`c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`**
+- T4-audited English candidate: `c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`
+- final T5-verified English: **`cee8ea3c33495615ffc988a1875d71e40f8224a3`**
 - T2 corrections: **4**
 - T3 meaning-neutral voice/cadence interventions: **12**
 - T4 body corrections: **1** — scan-49 `பார்க்காமல் மறைந்து` T3 `you hide away without watching—` → **`you hid away without watching—`**, restoring the frozen past/dependent action relation before `where did you hide?`.
+- T5 body corrections: **0**
 - frozen scan-48 `ப்ழச்சளை`: retained verbatim in English; no repair
 - frozen scan-49 `விட்டாய்.`: retained in frozen position as `You left.`
-- source-page comments and verse lineation: **T4 PASS**
-- questions/exclamations, direct apostrophe, `* * *`, names/images and final fall/deeds/fall repetition: **T4 PASS**
-- Tiruvitaththar quotation scope, money/proletarian contrast, Oman Sea image, Dravidian-land/Aryan-liquor sequence, `paupers`, guardian-of-Tanjai label: **T4 PASS**
+- source-page comments and verse lineation: **T5 PASS**
+- questions/exclamations, direct apostrophe, `* * *`, names/images and final fall/deeds/fall repetition: **T5 PASS**
+- Tiruvitaththar quotation scope, money/proletarian contrast, Oman Sea image, Dravidian-land/Aryan-liquor sequence, `paupers`, guardian-of-Tanjai label: **T5 PASS**
 - scan-49 publication-source note/printer imprint and scan-50 advertisement: **excluded / outside Article 10**
 - outside/web identification, alternate scan reading or published translation imported: **No**
 - blockers: **0**
@@ -92,4 +95,4 @@ English authority is the frozen Tamil article assembly, not OCR, memory, web wor
 
 ## Exact next activity
 
-Execute **Article 10 T5 — final article verification** for `கவிதையல்ல - கண்ணீர்க்கடல் !` against frozen Tamil blob `f856664d86695237a23d0ffc0bef088d32a82fe9` and T4-audited English candidate `c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`, scans **48–49**. Re-verify the complete T1–T4 chain, metadata/source fields, complete verse-unit coverage and lineation, bracketed subtitle, `* * *`, both page comments, all questions/exclamations/repetition/direct apostrophe, terminology/source labels/images, frozen `ப்ழச்சளை`, `Parppaniyam`, `You left.` placement, Tiruvitaththar quotation, money/proletarian contrast, Oman Sea image, Dravidian-land/Aryan-liquor sequence, `paupers`, guardian-of-Tanjai label, the T4-restored `you hid away without watching—` relation and the final fall/deeds/fall close. Keep publication-close matter and scan-50 advertisement excluded. Do not import alternate scan readings, outside identification, web wording or published translations. If T5 passes, advance Article 10 to `verified`; do not begin E6 in the same activity.
+Execute **E6 — publication-wide English consistency review** across all ten individually verified articles. Audit recurring names and epithets, Aryan/Dravidian and other ideological vocabulary, source-bearing terms/puns, source/publication titles, quotation treatment, title style, tone consistency, accidental smoothing, completeness and durable source anomalies. Record any consistency correction or deliberate contextual exception, synchronize the lexicon/review/tracker/plan/handover, and **do not begin E7 in the same activity**.
