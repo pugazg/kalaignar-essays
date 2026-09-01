@@ -83,12 +83,12 @@ Combined source audit: [`audit.md`](audit.md).
 
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **2 / 2 PASS**
-- T1 close drafts: **1 / 2**
+- T1 close drafts: **2 / 2**
 - T2 fidelity-reviewed: **1 / 2**
 - T3 voice-reviewed: **1 / 2**
 - T4 audited: **1 / 2**
 - T5 verified: **1 / 2**
-- English article bodies created: **1 / 2**
+- English article bodies created: **2 / 2**
 - English translation blockers: **0**
 
 English workspace:
@@ -98,25 +98,36 @@ English workspace:
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 - [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) — **Article 1 VERIFIED**
+- [`translations/en/02-aiyar-arivikkirar.md`](translations/en/02-aiyar-arivikkirar.md) — **Article 2 T1 draft**
 
 ## Article 1 — verified English boundary
 
 - English title: **Dravidian Wealth — VERIFIED**
 - frozen Tamil authority: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
-- T1 baseline blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
-- T2 fidelity-reviewed blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`
-- T3 voice-reviewed blob: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
-- T4 terminology/source-audited blob: `961ca3f724238ed699dba2607fa2d1be681f0ec4`
-- T5 final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
+- final T5 verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
 - metadata status: `verified`
 - T5 body corrections: **0**
 
-T5 re-confirmed complete surviving Article 1 coverage, title/metadata, source-page comments **6 / 6**, quotation boundaries, scan-15 damage boundaries **2 / 2**, scan-16 damage boundaries **2 / 2**, all T4-established terminology/source-bearing forms, hidden torn wording reconstructed **0**, frozen Tamil changes **0**, publisher/front/back matter imported **0**, and unresolved blockers **0**.
+## Article 2 — T1 draft boundary
+
+- Tamil title: `ஐயர் அறிவிக்கிறார்!`
+- working English title: **Iyer Announces!** — not frozen
+- frozen Tamil authority: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
+- T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
+- metadata status: `draft`
+- source-page comments: **2 / 2 present**
+- `ஐயர்` / `அய்யர்`: working **Iyer / Ayyar** distinction retained
+- damaged/ambiguous frozen `அயம்`: **ayam**, not guessed
+- `ஏனோதானோ` / `ஏனோதானோக்கள்`: working **Enothano / Enothanos**
+- normal `கல்லூரி`: **College**; frozen scan-3 `கல்லுரி`: working source-bearing **kalluri**
+- quoted inscription: working source-bearing **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**
+- frozen Tamil changes during T1: **0**
+- unresolved T1 blockers: **0**
 
 ## Exact next activity
 
-Execute **Article 2 T1 — complete close English draft for `ஐயர் அறிவிக்கிறார்!` only** from frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
+Execute **Article 2 T2 — bilingual fidelity review** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T1 English blob `1b70952ae377668162fcb35eb045e142a0597190`.
 
-Create `translations/en/02-aiyar-arivikkirar.md`, translate every surviving Tamil paragraph in source order, preserve source-page comments for scans **12 and 3**, preserve frozen damaged/ambiguous `அயம்` without guessed repair, retain source-form distinctions such as `ஐயர்` / `அய்யர்`, and keep quotation/inscription wording source-sensitive.
+Compare every surviving clause and paragraph side by side. Audit the working title, `Iyer` / `Ayyar`, damaged source-bearing `ayam`, `Enothano(s)`, normal `College` versus frozen anomalous `kalluri`, quotation scope, inscription wording and both source-page comments. Make only fidelity-required corrections and document them.
 
-**Stop after Article 2 T1. Do not perform Article 2 T2 in the same activity, and do not reopen the frozen Tamil bodies absent a genuine source-supported correction.**
+**Stop after Article 2 T2. Do not perform Article 2 T3 in the same activity, and do not reopen the frozen Tamil bodies absent a genuine source-supported correction.**
