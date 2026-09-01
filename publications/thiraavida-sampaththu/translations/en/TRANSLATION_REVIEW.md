@@ -399,7 +399,7 @@ Authorities reviewed:
 
 Final E6-passed English authorities remain:
 
-1. **Dravidian Wealth** — `10dca72882043db491fe50297657bb0af2a8e57e6`
+1. **Dravidian Wealth** — `10dca72882043db491fe8c6ad3f858bc4c9c584f`
 2. **Iyer Announces!** — `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
 
 **E6 PUBLICATION-WIDE ENGLISH CONSISTENCY REVIEW: PASS.**
