@@ -82,7 +82,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 ## English progress
 
 - T0 setup: **PASS**
-- T1 drafts: **8 / 10**
+- T1 drafts: **9 / 10**
 - T2 fidelity-reviewed: **8 / 10**
 - T3 voice-reviewed: **8 / 10**
 - T4 audited: **8 / 10**
@@ -237,21 +237,47 @@ Article 7 is closed at T5. **Do not reopen it absent a genuine source-supported 
 - no outside epic/history identification, web wording, published translation, alternate scan lexical reading or source-normalising reconstruction imported: **none**
 - frozen Tamil changed: **No**
 - blockers: **0**
-- synchronized T5 records: English article `6b12e6b3cc09b6de402998bb3824e7a98808f885`; English tracker `302ec6904d104c0a70e1187707c55af720c8b553`; translation plan `ca7bd734dbad489209d36c91eb465fa13e325ad5`; lexicon `78cb7b70ae176933bfd8d49eb1a86b70b176ae54`; review ledger `4bec75758eff50bc7746e169f53e73a62686f258`.
 
 Article 8 is closed at T5. **Do not reopen it absent a genuine source-supported defect.**
+
+## Article 9 — `அன்னை நாகம்மையார்!` — T1 COMPLETE / DRAFT
+
+- English title: **Mother Nagammaiyar!**
+- frozen Tamil: `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
+- source scans: **45–47**
+- printed pages: **45–46; scan 45 has no visible printed numeral**
+- English file: `publications/unarchchimaalai/translations/en/09-annai-nagammaiyar.md`
+- T1 draft English: **`1d3ac3f7ef2fff5e79b23434f907b467ae1266f6`**
+- translation status: **`draft`**
+- complete paragraph/clause coverage across scans 45–47: **T1 PASS**
+- all three source-page comments and printed witnesses: **T1 PASS**
+- provisional source-label choices: `பெரியார்` → `Periyar`; `ராமசாமி` → `Ramasami`; `நாகம்மையார்` → `Nagammaiyar`; `நாகம்மா` → `Nagamma`; contextual `ராமசாமியார்` → `Ramasamiyar`; `அம்மையார்` → `Ammaiyar`.
+- title `அன்னை நாகம்மையார்!` → **`Mother Nagammaiyar!`** provisionally.
+- source-sensitive/polemical `மைனர்-காலி` retained as **`minor-kaali`** without outside expansion.
+- quoted `பிள்ளையாண்டானுக்கு சீக்கிரத்தில் ஒரு கட்டையைக் கட்டிவிட வேண்டும்` represented provisionally as **`A log must quickly be tied to the young fellow.`**; T2 must recheck idiom/image without outside conventionalisation.
+- youthful vow `நான் உன்னையே மணப்பேன்; வேறு யாரையும் மணக்க மாட்டேன்`: **represented as direct quotation**.
+- age/date/number witnesses `19`, `13`, `1898`, `35`, `1933`, `11-5-1933`, `12-5-1933`, `144`: **T1 PASS**.
+- Nagamma's quoted marriage-or-death declaration: **represented**.
+- horse/stable revolutionary quotation `லாயத்திலே...கனைத்திட உத்தரவுண்டு`: **represented as a quotation; no outside source imported**.
+- Ramasami's quoted `குடும்ப விளக்கு` declaration: **represented**.
+- affectionate/polemical images — tender hearts, young veenas, fresh flower, fiery words, herd cattle, flood joining flood, unfailing life-river, old-man/Nagammaiyar exchange, and duty surpassing love: **represented without neutralisation**.
+- final dates and Section `144` direct source witness: **represented without outside biographical expansion**.
+- outside/web biographical wording, alternate source forms or published translation imported: **none**.
+- frozen Tamil changed: **No**
+- blockers: **0**
 
 ---
 
 # Exact next activity
 
-Execute **Article 9 T1 — complete close English draft** for `அன்னை நாகம்மையார்!` against:
+Execute **Article 9 T2 — bilingual fidelity review** for `அன்னை நாகம்மையார்!` against:
 
 - frozen Tamil blob: `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
+- T1 English blob: `1d3ac3f7ef2fff5e79b23434f907b467ae1266f6`
 - source scans: **45–47**
 - printed pages: **45–46; scan 45 has no visible printed numeral**
 
-T1 must translate the complete frozen Article 9 assembly paragraph by paragraph and clause by clause. Preserve all source-page comments, quotation/question/exclamation structure, source ages/dates/numbers, direct speech, affectionate and polemical register, and immediate source labels. Establish provisional English choices from the frozen source especially for `பெரியார்`, `ராமசாமி`, `நாகம்மையார்` / `நாகம்மா`, the quoted youthful marriage vows, age witnesses `19` / `13`, year `1898`, and scan-47 year `1933`. Do not import outside biographical wording, web wording, alternate source forms or published translations. Record provisional Article 9 terminology and T1 provenance, synchronize trackers/handover, and **stop before Article 9 T2**.
+T2 must re-read the complete frozen Tamil and English paragraph by paragraph and clause by clause. Recheck the title and source-label handling (`பெரியார்`, `ராமசாமி`, `நாகம்மையார்` / `நாகம்மா`, `ராமசாமியார்`, `அம்மையார்`), the source-sensitive `மைனர்-காலி`, the quoted `கட்டை` image, all ages/dates/numbers, every quotation/direct-speech boundary, the horse/stable revolutionary quotation, Ramasami's family-lamp declaration, affectionate and polemical imagery, all source-page comments and the final `காதலையும் மீறிய கடமை` sentence. Do not import outside biographical wording, web wording, alternate source forms or published translations. If T2 passes, advance Article 9 to `fidelity-reviewed`, synchronize records, and **stop before Article 9 T3**.
 
 ## Current blockers
 
