@@ -13,7 +13,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T0 source prerequisite/setup: **2 / 2 PASS**
 - T1 close English drafts: **1 / 2**
 - T2 fidelity-reviewed: **1 / 2**
-- T3 voice-reviewed: **0 / 2**
+- T3 voice-reviewed: **1 / 2**
 - T4 audited: **0 / 2**
 - T5 verified: **0 / 2**
 - E6 publication consistency review: **NOT STARTED**
@@ -24,10 +24,10 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 | # | Tamil article | Frozen Tamil blob | English file | Status | Gates |
 |---:|---|---|---|---|---|
-| 1 | `திராவிட சம்பத்து` | `6e9759aff9bc4801ee66b3b8c76a814be3e98015` | [`01-thiraavida-sampaththu.md`](01-thiraavida-sampaththu.md) | **fidelity-reviewed** | **T0 PASS; T1 PASS; T2 PASS; T3 next** |
+| 1 | `திராவிட சம்பத்து` | `6e9759aff9bc4801ee66b3b8c76a814be3e98015` | [`01-thiraavida-sampaththu.md`](01-thiraavida-sampaththu.md) | **voice-reviewed** | **T0 PASS; T1 PASS; T2 PASS; T3 PASS; T4 next** |
 | 2 | `ஐயர் அறிவிக்கிறார்!` | `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` | `02-aiyar-arivikkirar.md` | **not-started** | **T0 PASS** |
 
-Article 1 working English title: **Dravidian Wealth**. T2 found it semantically acceptable, but it remains subject to T4/T5 and is not release-frozen.
+Article 1 working English title: **Dravidian Wealth**. It passed T2 semantically and T3 for voice, but remains subject to T4/T5 and is not release-frozen.
 
 ## Translation authority
 
@@ -38,31 +38,19 @@ English uses only the strict-reviewed Tamil assemblies:
 
 If a genuine source-supported Tamil correction changes either frozen blob, the affected English gates must reopen explicitly.
 
-## Article 1 T1 result
+## Article 1 gate history
 
-Article 1 T1 created a complete close draft from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and preserved all source-page comments, quotations, rhetorical structure and scan-15/16 source-damage gaps.
+- T1 baseline blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
+- T2 fidelity-reviewed blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`
+- T3 voice-reviewed blob: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
+- current metadata status: `voice-reviewed`
 
-T1 baseline blob entering T2: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`.
+T2 secured paragraph/clause fidelity and all damage boundaries. T3 then made **17 meaning-neutral voice/cadence interventions** to restore clipped directness, sarcasm, mockery, abrupt transitions and the source's monkey/tail/poison imagery without changing the T2-secured meaning.
 
-## Article 1 T2 result — COMPLETE / PASS
+T3 retained all source comments for scans **5, 6, 13, 14, 15, 16**, all four scan-15/16 damage boundaries, and reconstructed **0** hidden words. Frozen Tamil body changes during T3: **0**.
 
-T2 compared every surviving Tamil paragraph and clause with the T1 draft and made only fidelity-required English corrections.
-
-T2 fidelity-reviewed blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`.
-
-T2 corrections included:
-
-- restoring the Tamil's masculine personification and rhetorical-question force in the scan-13 poison sentence;
-- preventing grammatical reconstruction of damaged scan-15 `சம்பத்து என்றா` by rendering it `Wealth mea—`;
-- making the damaged `ழி வழங்கும்...` fragment more conservative rather than supplying a hidden noun;
-- retaining `விகடர்`-family forms as `Vikatar` instead of flattening them to `Vikatan`;
-- distinguishing language-geography `வழங்கிய` → `prevailed` from later `பேசியவர்கள்` → `those who spoke`;
-- preserving `தெரிந்தும்` as a concessive `Though he knows`;
-- advancing metadata to `translation_status: fidelity-reviewed` without freezing terminology prematurely.
-
-T2 retained all source comments for scans **5, 6, 13, 14, 15, 16**, all four scan-15/16 damage boundaries, and reconstructed **0** hidden words. Frozen Tamil body changes during T2: **0**.
-
-Full correction provenance: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
+Full T2/T3 provenance: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).  
+Current terminology state: [`LEXICON.md`](LEXICON.md).
 
 ## Source-sensitive non-regression
 
@@ -87,6 +75,6 @@ Full correction provenance: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
 
 ## Exact next activity
 
-Execute **Article 1 T3 — Kalaignar voice review** only. Review T2 blob `155299ac2b71b0aaba431f63d3c882191a3c710b` against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` for directness, sarcasm, ridicule, rhetorical questions, repetition, abrupt contrasts and monkey/tail/poison imagery. Make only meaning-neutral voice/cadence corrections and preserve every source-damage boundary.
+Execute **Article 1 T4 — terminology / quotation / citation / source audit** only. Audit T3 blob `1d2e7dae1c00200ab402fa43722167e73e8568a4` against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`, the living lexicon and source-sensitive records. Check the working title, `Dravidam` / `Dravidians` / adjectival `Dravidian`, `Vikatanar` / `Vikatar` forms, mock labels/insults, `Mahishasura Mardini`, quotation scope, source-page comments, damage comments and frozen anomalous `pechchul`.
 
-Do **not** perform T4 in the same activity.
+Make only terminology/source-audit corrections. Do **not** perform T5 in the same activity.
