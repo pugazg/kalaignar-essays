@@ -42,8 +42,8 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 | 4 | இராவணன் நம் பாட்டன் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 8 | பத்தினியே உன்போல்...! | `not-started` | PASS | — | — | — | — | — |
+| 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
+| 8 | பத்தினியே உன்போல்...! | `draft` | PASS | **PASS** | — | — | — | — |
 | 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
 
@@ -78,6 +78,24 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - outside/web historical wording, alternate scan reading or published translation imported: **No**
 - blockers: **0**
 
+## Article 8 — T1 COMPLETE / DRAFT
+
+- Tamil title: **பத்தினியே உன்போல்...!**
+- English title: **O Chaste Woman, Like You...!**
+- frozen Tamil authority: `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`
+- source scans: **42–44**
+- printed pages: **42–43; scan 42 has no visible printed numeral**
+- T1 draft English: **`af9c82ea95b65bc7e632ddf45ab1754217bffc39`**
+- complete paragraph/clause coverage: **PASS**
+- all three source-page comments and scan-43→44 quotation continuation: **PASS**
+- scan-42 source-recovered `பதில் இல்லை.`: **`No answer.` / preserved**
+- scan-43 `* * *`: **preserved**
+- source citation `1937` / page `43`: **preserved**
+- source-sensitive `அனுக்ரகம்` → provisional `anugraham`; `அழ்காக` → provisional `azhgaaga`; `பன் முறை` → provisional `pan murai`; `ஓருருவாகிப்` translated semantically without importing scan alternate: **T1 recorded**
+- quoted `பாரா முகம் உன்னையே`: **provisionally retained as source-bearing `Paaraa Mugam Unnaiye`; no outside identification**
+- outside epic/history wording or published translation imported: **No**
+- blockers: **0**
+
 ## Publication-specific cautions
 
 1. Translate only from frozen Tamil assemblies.
@@ -87,7 +105,8 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 5. Article 10 excludes scan-49 publication-close matter and scan-50 advertisement.
 6. Do not silently repair Article 10 `ப்ழச்சளை`.
 7. Preserve questions, exclamations, repetition, direct address and page-boundary comments.
+8. Article 8 T2 must audit the T1 handling of `கன்னத்தால்`, `அனுக்ரகம்`, `அழ்காக`, `பன் முறை`, `ஓருருவாகிப்`, the long quoted passage and the source-quoted `பாரா முகம் உன்னையே` without outside repair.
 
 ## Exact next activity
 
-Execute **Article 8 T1 — complete close English draft** for `பத்தினியே உன்போல்...!` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`, scans **42–44**. Translate the entire frozen article paragraph by paragraph, preserve all source-page comments, quotation/question/exclamation structure and source-bearing terminology, retain scan-42 source-recovered `பதில் இல்லை.` and scan-43 `* * *`, and follow the frozen Tamil assembly rather than scan-appearing alternate lexical forms. Establish Article 8 terms in the living lexicon, update the review ledger/tracker/plan/handover, and **stop before Article 8 T2**.
+Execute **Article 8 T2 — bilingual fidelity review** for `பத்தினியே உன்போல்...!` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` and T1 English blob `af9c82ea95b65bc7e632ddf45ab1754217bffc39`, scans **42–44**. Re-read every paragraph and clause; check all dialogue/quotation boundaries, the scan-42 source-recovered `பதில் இல்லை.`, scan-43 `* * *`, scan-43→44 quotation continuation, `1937` / page `43`, epic/source labels, insults, sexual imagery, repetition and provisional source-sensitive terms. Do not import scan-appearing alternate lexical forms, outside epic/history wording or published translations. Advance only to `fidelity-reviewed` if T2 passes, synchronize records, and **stop before Article 8 T3**.
