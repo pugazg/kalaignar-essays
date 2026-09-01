@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - Any checkpoint SHA means “last confirmed when prepared”; it is **not** a rollback target.
 - If `main` has advanced, preserve the newer durable state. Never reset, overwrite, repeat or reopen later completed work merely because an older prompt records an earlier boundary.
 - Re-fetch target files before writing when another chat/window may also be active.
-- Last confirmed live HEAD immediately before this handover synchronization: `68f1966c87c6a53690d8e753aa973b1f5be331c2` — `Refresh Article 1 T1 draft authority in publication README`.
+- Last confirmed live HEAD immediately before this handover synchronization: `6796d9e1ed2baef5c2f1fe94915bb1cc64975729` — `Advance Thiraavida Sampaththu publication status through Article 1 T2`.
 
 ---
 
@@ -201,7 +201,7 @@ The Article 9/10 documentation reconciliation remains durable:
 
 ---
 
-# Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 1 T1 PASS
+# Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 1 T2 PASS
 
 Workspace: `publications/thiraavida-sampaththu/`  
 Supplied source: `TVA_BOK_0064196_திராவிட_சம்பத்து.pdf`
@@ -251,7 +251,7 @@ Publisher foreword `மன்றத்தில்`, publisher note `முக�
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **2 / 2 PASS**
 - T1 drafts: **1 / 2 PASS**
-- T2 fidelity-reviewed: **0 / 2**
+- T2 fidelity-reviewed: **1 / 2 PASS**
 - T3 voice-reviewed: **0 / 2**
 - T4 audited: **0 / 2**
 - T5 verified: **0 / 2**
@@ -268,21 +268,23 @@ Canonical English workspace:
 - `publications/thiraavida-sampaththu/translations/en/TRANSLATION_REVIEW.md`
 - `publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md`
 
-## Article 1 T1 — COMPLETE / PASS
+## Article 1 T1/T2 durable boundary
 
 - Tamil title: `திராவிட சம்பத்து`
-- working English title: **Dravidian Wealth** — not frozen
+- working English title: **Dravidian Wealth** — T2 semantic pass / not frozen
 - frozen Tamil authority: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
-- T1 English draft blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
-- English metadata status: `draft`
+- T1 baseline English blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
+- T2 fidelity-reviewed English blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`
+- English metadata status: `fidelity-reviewed`
 - source scans: **5, 6, 13, 14, 15, 16**
 - source-page comments: **6 / 6 present**
-- scan-15/16 `SOURCE DAMAGE` gaps: **preserved / unreconstructed**
-- frozen Tamil changes during T1: **0**
+- scan-15/16 `SOURCE DAMAGE` boundaries: **4 / 4 preserved / unreconstructed**
+- frozen Tamil changes during T1/T2: **0**
+- T2 unresolved fidelity blockers: **0**
 
-T1 translated every surviving Tamil paragraph in order and retained the article's directness, questions, sarcasm, insults, monkey/tail/poison imagery, quotation structure and page tracing. It deliberately did not perform T2 bilingual correction or T3 voice polishing.
+T2 performed a paragraph/clause bilingual review and corrected fidelity issues without doing voice polishing. Durable T2 decisions include preserving masculine personification in the scan-13 poison sentence, retaining `Vikatar` for `விகடர்`-family forms, distinguishing `வழங்கிய` (`prevailed`) from `பேசியவர்கள்` (`those who spoke`), and making damaged scan-15 English fragments conservative enough not to reconstruct hidden Tamil wording.
 
-Working Article 1 choices include `திராவிட சம்பத்து` → **Dravidian Wealth**, `விகடனார்` → **Vikatanar**, `நகைச்சுவை குரங்கார்` → **Comedy Monkey**, `ஆரிய ஆஞ்சநேயர்` → **Aryan Anjaneyar**, `இனவெறி` / `இனப்பற்று` → **racial hatred** / **attachment to one's race**, `ஆப்பசைத்த குரங்கு` → **wedge-meddling monkey**, `குப்பை மேட்டுக் குயில்கள்` → **cuckoos of the garbage heap**, and frozen anomalous `பேச்சுல` → provisional source-bearing **pechchul**. These are not release-frozen and must be tested at T2/T3/T4.
+Working mock-label/title choices remain open for T3/T4. Frozen anomalous `பேச்சுல` remains provisional source-bearing `pechchul` pending T4.
 
 ## Non-regression for English work
 
@@ -301,16 +303,16 @@ Working Article 1 choices include `திராவிட சம்பத்த�
 
 # Exact next activity
 
-Execute **Article 1 T2 — bilingual fidelity review** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T1 English blob `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`.
+Execute **Article 1 T3 — Kalaignar voice review** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T2 English blob `155299ac2b71b0aaba431f63d3c882191a3c710b`.
 
-1. Re-fetch both blobs and compare every Tamil paragraph/clause with the T1 English draft.
-2. Check for omitted or added claims, negatives, comparisons, logical connectors, repetitions, names/referents and quotation scope.
-3. Confirm source-page comments for scans **5, 6, 13, 14, 15, 16** remain complete and ordered.
-4. Audit both scan-15 and scan-16 damaged passages without reconstructing hidden Tamil wording.
-5. Test every T1 working term against context; make only fidelity-required English corrections.
-6. Record every T2 correction and unresolved source-sensitive choice in `translations/en/TRANSLATION_REVIEW.md` and update `LEXICON.md` where necessary.
+1. Re-fetch both authorities before any write.
+2. Review directness, sarcasm, ridicule, rhetorical questions, repetition, abrupt contrasts, insults and monkey/tail/poison imagery.
+3. Preserve T2-secured meaning; do not introduce or remove claims.
+4. Preserve all source-page comments and all scan-15/16 damage boundaries.
+5. Make only meaning-neutral English voice/cadence corrections.
+6. Record every T3 intervention in `translations/en/TRANSLATION_REVIEW.md` and update `LEXICON.md` where a voice decision becomes durable.
 7. Synchronize the English tracker, translation plan, publication README and this handover.
-8. **Stop after T2. Do not perform T3 in the same activity.**
+8. **Stop after T3. Do not perform T4 in the same activity.**
 
 ## Current blockers
 
