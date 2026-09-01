@@ -14,7 +14,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 4. Contextual variants are allowed when the Tamil grammatical/rhetorical role genuinely changes; record them here.
 5. Do not use the P5 scan/baseline conflict ledger to “repair” the frozen Tamil in English.
 6. Physical-source gaps remain gaps; English must not manufacture hidden wording.
-7. T1 decisions are working translation choices until the relevant review gates establish them. Article 1 forms marked T5 VERIFIED are frozen for that verified article unless a concrete source-supported defect reopens the gate.
+7. T1 decisions are working translation choices until the relevant review gates establish them. Forms marked T5 VERIFIED are frozen for that verified article unless a concrete source-supported defect reopens the gate.
 
 ## Article 1 terminology/source decisions — T5 VERIFIED
 
@@ -45,23 +45,23 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | frozen scan-16 `பேச்சுல` | `pechchul` | Source-bearing transliteration retained because the frozen Tamil token is anomalous and must not be silently repaired to alternate scan reading `பேச்சை`. | T5 VERIFIED / SOURCE-SENSITIVE |
 | `ஆரிய சம்பத்து` | contextual rendering to be fixed when encountered in translated body | Occurs outside Article 1 body in current publication structure; do not pre-translate publisher matter into Article 1. | OPEN |
 
-## Article 2 terminology/source decisions — T4 AUDITED
+## Article 2 terminology/source decisions — T5 VERIFIED
 
 | Tamil / source form | English handling | Review note | Status |
 |---|---|---|---|
-| `ஐயர்` | `Iyer` | Preserves the exact source form used in the Article 2 title and opening reference; not homogenised with `அய்யர்`. | T4 AUDITED |
-| `அய்யர்` | `Ayyar` | Preserves the source-form contrast with `ஐயர்`; no modern-name substitution. | T4 AUDITED |
-| `திராவிடம்` | `Dravidam` | Reuses the verified Article 1 noun handling where the same frozen source form recurs. | T4 AUDITED |
-| `பூணூல்` | `sacred thread` | Direct cultural rendering; no explanatory caste identification inserted. | T4 AUDITED |
-| `மொழி கற்கண்டு` | `language sugar-candy` | Keeps the compact confection/sweetness image rather than smoothing it into generic praise. | T4 AUDITED |
-| `ஏனோதானோ` / `ஏனோதானோக்கள்` | `Enothano` / `Enothanos` | Source-bearing transliteration of the unexplained mock/coined political label; no outside identification. | T4 AUDITED / SOURCE-BEARING |
-| frozen scan-3 `அயம்` | `ayam` | Damaged/ambiguous frozen token retained as source-bearing transliteration; no guessed `Iyer`/`Ayyar` repair. | T4 AUDITED / SOURCE-SENSITIVE |
-| normal `கல்லூரி` | `College` | Ordinary source form in the first Presidency College reference. | T4 AUDITED |
-| frozen scan-3 `கல்லுரி` | `kalluri` | Deliberately carried source-bearing rather than silently normalised to `கல்லூரி`; source-witness distinction retained. | T4 AUDITED / SOURCE-SENSITIVE |
-| narrative `சாமிநாதய்யர்` | `Saminathayyar` | Preserves the fused source form instead of flattening it to the separate `சாமிநாத அய்யர்` form used in the inscription. | T4 AUDITED |
-| inscription `சாமிநாத அய்யர்` | `Saminatha Ayyar` | Preserves the separate Ayyar form exactly as represented by the frozen quoted inscription. | T4 AUDITED |
-| `மகா மகோபாத்யாய திராவிட வித்ய பூஷண` | `Maha Mahopadhyaya Dravida Vidya Bhushana` | Source-bearing transliteration of the quoted inscription title; no external expansion or alternate published inscription imported. | T4 AUDITED |
-| `ஐயர் அறிவிக்கிறார்!` | `Iyer Announces!` | Title meaning and source-form `ஐயர்` pass the T4 terminology/source audit; final verification remains T5. | T4 TITLE AUDITED / T5 VERIFY |
+| `ஐயர்` | `Iyer` | Preserves the exact source form used in the Article 2 title and opening reference; not homogenised with `அய்யர்`. | T5 VERIFIED |
+| `அய்யர்` | `Ayyar` | Preserves the source-form contrast with `ஐயர்`; no modern-name substitution. | T5 VERIFIED |
+| `திராவிடம்` | `Dravidam` | Reuses the verified Article 1 noun handling where the same frozen source form recurs. | T5 VERIFIED |
+| `பூணூல்` | `sacred thread` | Direct cultural rendering; no explanatory caste identification inserted. | T5 VERIFIED |
+| `மொழி கற்கண்டு` | `language sugar-candy` | Keeps the compact confection/sweetness image rather than smoothing it into generic praise. | T5 VERIFIED |
+| `ஏனோதானோ` / `ஏனோதானோக்கள்` | `Enothano` / `Enothanos` | Source-bearing transliteration of the unexplained mock/coined political label; no outside identification. | T5 VERIFIED / SOURCE-BEARING |
+| frozen scan-3 `அயம்` | `ayam` | Damaged/ambiguous frozen token retained as source-bearing transliteration; no guessed `Iyer`/`Ayyar` repair. | T5 VERIFIED / SOURCE-SENSITIVE |
+| normal `கல்லூரி` | `College` | Ordinary source form in the first Presidency College reference. | T5 VERIFIED |
+| frozen scan-3 `கல்லுரி` | `kalluri` | Deliberately carried source-bearing rather than silently normalised to `கல்லூரி`; source-witness distinction retained. | T5 VERIFIED / SOURCE-SENSITIVE |
+| narrative `சாமிநாதய்யர்` | `Saminathayyar` | Preserves the fused source form instead of flattening it to the separate `சாமிநாத அய்யர்` form used in the inscription. | T5 VERIFIED |
+| inscription `சாமிநாத அய்யர்` | `Saminatha Ayyar` | Preserves the separate Ayyar form exactly as represented by the frozen quoted inscription. | T5 VERIFIED |
+| `மகா மகோபாத்யாய திராவிட வித்ய பூஷண` | `Maha Mahopadhyaya Dravida Vidya Bhushana` | Source-bearing transliteration of the quoted inscription title; no external expansion or alternate published inscription imported. | T5 VERIFIED |
+| `ஐயர் அறிவிக்கிறார்!` | `Iyer Announces!` | Title meaning, source-form `ஐயர்`, and rhetorical force passed T4 and T5. | T5 TITLE VERIFIED |
 
 ## Article 2 T2 fidelity/source decisions
 
@@ -93,6 +93,14 @@ T3 preserved every T2-secured semantic/source distinction and made only cadence/
 - Source-page comments for scans **12** and **3** remain present and ordered.
 - T4 required **0 English body corrections**; only translation metadata/provenance advanced.
 
+## Article 2 T5 verification decisions
+
+- T5 re-confirmed every T4 terminology/source-bearing decision without body changes.
+- Title **Iyer Announces!** is now verified.
+- Both source-page comments and the documented two-unit quotation treatment remain intact.
+- The final inscription wording remains source-bearing and unexpanded.
+- Final verified English blob: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`.
+
 ## Article 1 source-damage decisions — T5 VERIFIED
 
 - scan 15 `சம்பத்து என்றா` remains **`Wealth mea—`**, not the grammatically completed `Wealth means`;
@@ -113,11 +121,11 @@ The following are not permission to correct Tamil during translation:
 - scan 15 `கிரேக்க மொழி` and scan 16 `மொழி.` are documented source-visible recoveries already incorporated into the frozen Tamil authority;
 - scan 4 promoted-title conflict is outside both Kalaignar article bodies.
 
-## Title policy after Article 2 T4
+## Title policy after Article 2 T5
 
 - Article 1 `திராவிட சம்பத்து`: **Dravidian Wealth** — **VERIFIED**.
-- Article 2 `ஐயர் அறிவிக்கிறார்!`: **Iyer Announces!** — **T4 AUDITED / final verification pending T5**.
+- Article 2 `ஐயர் அறிவிக்கிறார்!`: **Iyer Announces!** — **VERIFIED**.
 
 ## Next lexicon activity
 
-During **Article 2 T5**, re-verify the T4-audited title, terminology, quotation treatment, source-page comments, metadata and complete body against the frozen Tamil authority. Do not reopen T4 decisions for stylistic preference.
+During **E6**, review the two verified articles together for publication-wide consistency without flattening source-form distinctions or reopening a verified article merely for stylistic preference.
