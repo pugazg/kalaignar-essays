@@ -86,7 +86,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - T2 fidelity-reviewed: **4 / 10**
 - T3 voice-reviewed: **4 / 10**
 - T4 audited: **4 / 10**
-- T5 verified: **3 / 10**
+- T5 verified: **4 / 10**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - blockers: **0**
@@ -112,7 +112,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - final English: `1134185bc21478775419adb3560b110c001d2b75`
 - blockers: **0**
 
-## Article 4 — `இராவணன் நம் பாட்டன்` — T1–T4 COMPLETE / VOICE-REVIEWED
+## Article 4 — `இராவணன் நம் பாட்டன்` — T0–T5 COMPLETE / VERIFIED
 
 - English title: **Ravana Is Our Grandfather**
 - frozen Tamil: `006f2f75dbc3eea796170a29aee0befd162522e7`
@@ -121,38 +121,39 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - T1 draft blob: `ce50394af45c8bb69e003c3d3fd8de097cf34808`
 - T2 fidelity-reviewed blob: `1e1f2db8a603e068921d8fb6b9b3e2e4a4c04447`
 - T3 voice-reviewed blob: `3b28938aa7c884e7de04d0532482b220c6c73a5b`
-- T4-audited English candidate blob: **`324cf12bd42cb55e0a8db621965d93b82b383648`**
+- T4-audited English candidate blob: `324cf12bd42cb55e0a8db621965d93b82b383648`
+- final T5-verified English blob: **`03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`**
 - T2 fidelity corrections: **9** plus one non-semantic quotation-spacing cleanup
 - T3 meaning-neutral voice/cadence interventions: **15**
 - T4 terminology/quotation/source corrections: **9**
+- T5 body corrections: **0**
 - paragraph/clause coverage: **PASS**
-- scan comments 19–29: **PASS / ordered and source-transition placement audited**
+- scan comments 19–29: **T5 PASS / ordered and source-transition placement verified**
 - printed pages: **PASS — scan 19 unnumbered; scan 20 visible `1` only; scans 21–29 show 20–28**
 - scan 19 entire body: **source-recovered after Gemini whole-page omission; provenance retained in English comment**
 - scan 20 visible `1`: **retained exactly as witness; not reconstructed as `19`**
-- scan 20→21 `Kumudam` continuation: **T4 corrected / page-boundary comment now at the frozen transition**
-- scan 25→26 Kambar verse: **T4 PASS / four-line structure and page boundary retained / no published English translation imported**
-- scan 28→29 Jawaharlal Nehru quotation: **T4 corrected / page-boundary comment now inside the quotation at the frozen transition**
-- T4 source decisions `racial feeling`, `race-murder`, `racial awakening`, `T. K. Chidambaranathar`, `Arignar Annadurai`, `poet Bharathidasan`, source-sensitive `sagath-rakshakan`, `tastes bitter`, `Dravidians of the South`: **AUDITED**
-- `Dravidian youth` / `Dravidians`, source-form `Kambar` / `Kamban`, `Kamba Ramayanam`, `Kambarasam`, `Kambanattazhvar`, `kavadi-chindu`, `god-substance`, `frenzy to burn / frenzy to bear`, scan-23 frozen `frenzy to twist`, `Self-Respect Movement` / `Self-Respecter`, source-title transliterations, `attar`, `javvadu`, `sindhu`, `venpa`, `jaundiced eye / art-garland eye`: **T4 AUDITED**
-- quotation scope: **T4 PASS after removing four invented quoted-speech boundaries, restoring the scan-21 single-quoted scope and aligning scan-23 `frenzy to burn`**
-- final Jawaharlal Nehru quotation/book reference: **T4 PASS / source-derived only / no external verification**
+- scan 20→21 `Kumudam` continuation: **T5 PASS / T4-corrected page boundary retained**
+- scan 25→26 Kambar verse: **T5 PASS / four-line structure and page boundary retained / no published English translation imported**
+- scan 28→29 Jawaharlal Nehru quotation: **T5 PASS / T4-corrected page boundary retained inside quotation**
+- `racial feeling`, `race-murder`, `racial awakening`, `T. K. Chidambaranathar`, `Arignar Annadurai`, `poet Bharathidasan`, source-sensitive `sagath-rakshakan`, `tastes bitter`, `Dravidians of the South`: **T5 VERIFIED**
+- `Dravidian youth` / `Dravidians`, source-form `Kambar` / `Kamban`, `Kamba Ramayanam`, `Kambarasam`, `Kambanattazhvar`, `kavadi-chindu`, `god-substance`, `frenzy to burn / frenzy to bear`, scan-23 frozen `frenzy to twist`, `Self-Respect Movement` / `Self-Respecter`, source-title transliterations, `attar`, `javvadu`, `sindhu`, `venpa`, `jaundiced eye / art-garland eye`: **T5 VERIFIED**
+- quotation scope and final Jawaharlal Nehru quotation/book reference: **T5 PASS**
 - outside/web wording, epic reconstruction, historical correction, published Kambar verse or alternate scan lexical reading imported: **none**
-- T4 blockers: **0**
+- blockers: **0**
 
-T4 made only terminology/quotation/source corrections. Article 4 remains `voice-reviewed`; T5 is required before `verified`.
+Article 4 is individually verified but publication-level E6/E7 remain deferred until all ten articles complete T5.
 
 ---
 
 # Exact next activity
 
-Execute **Article 4 T5 — final article verification** for `இராவணன் நம் பாட்டன்` / **Ravana Is Our Grandfather** against:
+Execute **Article 5 T1 — complete close English draft** for `இங்கல்ல! இரஷ்யாவில்` against:
 
-- frozen Tamil blob: `006f2f75dbc3eea796170a29aee0befd162522e7`
-- T4-audited English candidate blob: `324cf12bd42cb55e0a8db621965d93b82b383648`
-- source scans: **19–29**
+- frozen Tamil blob: `c8ac4d7c241832e07bbb24c5cee935588673f4ac`
+- source scans: **30–32**
+- printed pages: **30–31; scan 30 has no visible printed numeral**
 
-T5 must reconfirm the complete T1–T4 chain; metadata/source SHA; every scan comment and printed-page witness; scan-19 source-recovered provenance; scan-20 visible `1`; T4-corrected scan 20→21 and scan 28→29 source-boundary placement; complete terminology/proper-name/source-title set; source-sensitive `sagath-rakshakan`; distinct scan-22 `frenzy to bear` / scan-23 `frenzy to twist`; quotation boundaries; scan 25→26 Kambar verse/prose boundary and lineation; and the final Jawaharlal Nehru quotation/book reference. If all checks pass, change Article 4 to `translation_status: verified`, record the final English blob SHA, synchronize tracker/lexicon/review/plan/handover, and **stop before Article 5 T1**.
+Translate the complete frozen Article 5 paragraph by paragraph. Preserve every scan comment, rhetorical question/exclamation/repetition and source-bearing form. The frozen scan-32 lexical/order sequence is authoritative and must not be silently replaced by the scan-appearing alternate ordering. Establish provisional/source-sensitive terminology only as required, create/update `publications/unarchchimaalai/translations/en/05-ingalla-irashyavil.md` with `translation_status: draft` only after complete coverage, synchronize tracker/lexicon/review/plan/handover, and **stop before Article 5 T2**.
 
 ## Current blockers
 
