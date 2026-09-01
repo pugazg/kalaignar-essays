@@ -97,7 +97,7 @@ Detailed records:
 - T1 close drafts: **2 / 2**
 - T2 fidelity-reviewed: **2 / 2**
 - T3 voice-reviewed: **2 / 2**
-- T4 audited: **1 / 2**
+- T4 audited: **2 / 2**
 - T5 verified: **1 / 2**
 - English article bodies: **2 / 2**
 - translation blockers: **0**
@@ -108,21 +108,23 @@ Article 1 `திராவிட சம்பத்து` is **T5 VERIFIED**:
 - final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
 - source Tamil blob: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
 
-Article 2 `ஐயர் அறிவிக்கிறார்!` is **T3 COMPLETE / voice-reviewed**:
+Article 2 `ஐயர் அறிவிக்கிறார்!` is **T4 COMPLETE / source-audited**:
 
-- working English title: **Iyer Announces!** — T3 voice pass / not frozen
+- English title: **Iyer Announces!** — T4 audited / final verification pending T5
 - T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
 - T2 fidelity-reviewed English blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
 - T3 voice-reviewed English blob: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
+- T4 source-audited English blob: `9b2795e6c66dea08fdf46fcf7903550001e1a401`
 - source Tamil blob: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
 - source-page comments: **2 / 2 present and ordered**
 - frozen `அயம்`: source-bearing **ayam**, not repaired
 - frozen scan-3 `கல்லுரி`: source-bearing **kalluri**, not silently normalised
 - narrative `சாமிநாதய்யர்`: **Saminathayyar**; inscription `சாமிநாத அய்யர்`: **Saminatha Ayyar**
-- T3 voice/cadence interventions: **9**
-- T2-secured substantive claims changed: **0**
-- frozen Tamil changes during T3: **0**
-- unresolved T3 blockers: **0**
+- first-paragraph quotation anomaly: two evident English quoted units formally documented; no missing Tamil punctuation reconstructed
+- T4 English body corrections: **0**
+- T4 metadata/provenance updates: **1**
+- frozen Tamil changes during T4: **0**
+- unresolved T4 blockers: **0**
 
 English records:
 
@@ -135,4 +137,4 @@ The English layer continues to translate only from the two frozen Tamil blobs ab
 
 ## Exact next gate
 
-Execute **Article 2 T4 — terminology / quotation / citation / source audit** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T3 English blob `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`. Audit the working title, source-form terminology, quotation scope, final inscription wording, metadata and both source-page comments. Stop after T4; do not perform Article 2 T5 in the same activity.
+Execute **Article 2 T5 — final article verification** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T4 source-audited English blob `9b2795e6c66dea08fdf46fcf7903550001e1a401`. Re-verify complete surviving coverage, title, terminology/source-bearing forms, quotation treatment, final inscription wording, metadata and both source-page comments. If PASS, set `translation_status: verified`. Stop after T5; do not perform E6 in the same activity.
