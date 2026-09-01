@@ -50,19 +50,28 @@ The book is heavily damaged. Large pieces of paper are missing from multiple sca
 
 Reverse-side show-through, ageing, stains and pencil folio marks are also visible. These are kept separate from printed text.
 
+## Article assemblies
+
+1. [`articles/01-thiraavida-sampaththu.md`](articles/01-thiraavida-sampaththu.md) — scans **5–6, 13–16** — P3 complete / P4 source-complete.
+2. [`articles/02-aiyar-arivikkirar.md`](articles/02-aiyar-arivikkirar.md) — scans **12, 3** — P3 complete / P4 source-complete.
+
+Both assemblies preserve the reconstructed reading order, source-page comments and torn-text non-reconstruction rule. Article 1 retains the explicit scan-15/16 `SOURCE DAMAGE` markers and the documented scan-16 source-visible recovery `மொழி.`.
+
 ## Current Tamil archival status
 
 - P0 source intake / publication identification: **COMPLETE**
 - P1 metadata + reconstructed reading order + content map: **COMPLETE**
 - P2 page-level transcription / structural review: **16 / 16 COMPLETE**
 - direct scan structure/punctuation/paragraph review: **16 / 16**
-- P3 article assemblies: **NOT STARTED**
-- P4 source audit / completeness review: **NOT STARTED**
+- P3 article assemblies: **COMPLETE — 2 / 2**
+- P4 source audit / completeness review: **PASS**
 - P5 strict word/punctuation fidelity pass: **NOT STARTED**
 - English translation: **NOT STARTED**
 
-P2 preserves all supplied lexical tokens while correcting source-supported layout, paragraphing, heading hierarchy, quotation structure and page order. Torn-away text remains explicitly unreconstructed.
+P4 confirmed all 16 physical scans are represented exactly once in the reconstructed publication order, both article boundaries are correct, publisher matter/advertisements remain outside the article bodies, no mapped body segment is missing or duplicated, and no user-baseline lexical token was silently replaced. Physical paper loss remains documented rather than reconstructed.
+
+Detailed P4 record: [`audit.md`](audit.md).
 
 ## Exact next activity
 
-Execute **P3 article assembly** for both `திராவிட சம்பத்து` and `ஐயர் அறிவிக்கிறார்!` from the verified page layer in reconstructed reading order. Preserve page-boundary comments and every source-damage marker. Then run the initial **P4 source/completeness audit**; do not start P5 or English translation in the same activity.
+Execute **P5 — strict visual text-fidelity review across all 16 physical scans**, word by word and punctuation by punctuation, under the publication-specific lexical-baseline rule. Record every permitted structural/punctuation/spacing/layout correction and every scan/transcription lexical conflict; preserve all torn-away gaps without reconstruction. Propagate corrections to dependent records and create `VISUAL_TEXT_FIDELITY_REVIEW.md` plus `PUBLICATION_COMPLETION_REVIEW.md` if P5 passes. Do **not** begin English translation in the same activity.
