@@ -190,14 +190,15 @@ Final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`.
 
 - T0 source prerequisite: **PASS**
 - T1 close draft: **COMPLETE / PASS**
-- T2 bilingual fidelity review: **NOT STARTED**
+- T2 bilingual fidelity review: **COMPLETE / PASS**
 - T3 Kalaignar voice review: **NOT STARTED**
 - T4 terminology / quotation / citation / source audit: **NOT STARTED**
 - T5 verification: **NOT STARTED**
-- working English title: **Iyer Announces!** — T1 only / not frozen
+- working English title: **Iyer Announces!** — T2 semantic pass / not frozen
 - source Tamil blob: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
-- T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
-- English metadata status: `draft`
+- T1 English draft blob entering T2: `1b70952ae377668162fcb35eb045e142a0597190`
+- T2 fidelity-reviewed English blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
+- English metadata status: `fidelity-reviewed`
 
 ### Article 2 T1 close-draft scope
 
@@ -209,10 +210,10 @@ T1 translated every surviving Article 2 body passage from the frozen Tamil autho
 2. Source `ஐயர்` → **Iyer** and `அய்யர்` → **Ayyar** are deliberately distinguished rather than mechanically homogenised.
 3. Frozen damaged/ambiguous scan-3 `அயம்` is carried as source-bearing **ayam**; no guessed repair is supplied.
 4. `ஏனோதானோ` / `ஏனோதானோக்கள்` are carried as **Enothano / Enothanos**, preserving the unexplained mock/coined function without outside identification.
-5. Normal `கல்லூரி` is translated **College**, while frozen anomalous scan-3 `கல்லுரி` is carried as source-bearing **kalluri** rather than silently repaired; T2/T4 must audit this choice.
+5. Normal `கல்லூரி` is translated **College**, while frozen anomalous scan-3 `கல்லுரி` is carried as source-bearing **kalluri** rather than silently repaired.
 6. The source inscription `மகா மகோபாத்யாய திராவிட வித்ய பூஷண ...` is carried as **Maha Mahopadhyaya Dravida Vidya Bhushana ...**, without importing an external inscription or explanatory expansion.
-7. `சாமிநாதய்யர்` / `சாமிநாத அய்யர்` are rendered **Saminatha Ayyar**, preserving the source's Ayyar-form naming rather than substituting a modern external name.
-8. The frozen first-paragraph quotation punctuation is irregular. T1 renders `நாட்டினரே...` and `திராவிடம்...` as two evident quoted units for readable English; quotation scope remains open for T2/T4 audit.
+7. T1 initially rendered both `சாமிநாதய்யர்` and `சாமிநாத அய்யர்` as **Saminatha Ayyar**; T2 subsequently separated the fused and spaced source forms.
+8. The frozen first-paragraph quotation punctuation is irregular. T1 renders `நாட்டினரே...` and `திராவிடம்...` as two evident quoted units for readable English; quotation scope remains open for the formal T4 source audit.
 9. `மொழி கற்கண்டு` is kept as the source-like image **language sugar-candy**, not smoothed into generic praise.
 
 ### Article 2 T1 completeness result
@@ -228,12 +229,39 @@ T1 translated every surviving Article 2 body passage from the frozen Tamil autho
 
 **ARTICLE 2 T1 CLOSE DRAFT: PASS.**
 
+### Article 2 T2 bilingual fidelity-review scope
+
+T2 re-fetched frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T1 English blob `1b70952ae377668162fcb35eb045e142a0597190`, then compared every surviving clause and paragraph. The review checked omissions/additions, source order, commands/direct address, logical connectors, repetitions, title meaning, source-form distinctions, quotation scope, inscription wording and both source-page comments.
+
+### Article 2 T2 fidelity corrections — 3 body decisions
+
+1. **Restored the frozen paragraph boundary at `தெரிந்த` / `பிறகு`.** T1 had merged the source break into one English paragraph. T2 now ends the first paragraph with **`Once you know—`** and begins the next with **`then tell...`**, preserving the frozen assembly's structure without inventing missing wording.
+2. **Removed the added idiomatic phrase `for themselves`.** Frozen `போய்ப்பார்க்கும்படி` is now kept at **`to go and see`** without the extra reflexive emphasis.
+3. **Separated the two source name forms.** Narrative fused `சாமிநாதய்யர்` is now **`Saminathayyar`**, while the final quoted inscription's separately written `சாமிநாத அய்யர்` remains **`Saminatha Ayyar`**.
+
+### Article 2 T2 fidelity/source decisions retained
+
+- working title **Iyer Announces!**: **semantic PASS / not frozen**;
+- `ஐயர்` / `அய்யர்` → **Iyer / Ayyar**: **PASS**;
+- frozen damaged/ambiguous `அயம்` → **ayam**: **PASS / unrepaired**;
+- `ஏனோதானோ` / `ஏனோதானோக்கள்` → **Enothano / Enothanos**: **PASS / source-bearing**;
+- normal `கல்லூரி` → **College** and frozen anomalous `கல்லுரி` → **kalluri**: **PASS / distinction retained**;
+- `மொழி கற்கண்டு` → **language sugar-candy**: **fidelity PASS; voice review later**;
+- first-paragraph irregular quotation punctuation: T1's two evident quoted units are **T2 fidelity-acceptable**; formal quotation/source audit remains for T4;
+- final inscription **`Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar`**: **PASS / no external wording imported**;
+- source-page comments for scans **12** and **3**: **2 / 2 present and ordered**;
+- frozen Tamil body changes during T2: **0**;
+- publisher/front/back matter imported: **0**;
+- unresolved T2 fidelity blockers: **0**.
+
+**ARTICLE 2 T2 BILINGUAL FIDELITY REVIEW: PASS.**
+
 ## Current English gate counts
 
 - E0: **COMPLETE / PASS**
 - T0: **2 / 2 PASS**
 - T1: **2 / 2 COMPLETE**
-- T2: **1 / 2 COMPLETE**
+- T2: **2 / 2 COMPLETE**
 - T3: **1 / 2 COMPLETE**
 - T4: **1 / 2 COMPLETE**
 - T5: **1 / 2 COMPLETE**
@@ -243,8 +271,8 @@ T1 translated every surviving Article 2 body passage from the frozen Tamil autho
 
 ## Exact next activity
 
-Execute **Article 2 T2 — bilingual fidelity review** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T1 English blob `1b70952ae377668162fcb35eb045e142a0597190`.
+Execute **Article 2 T3 — Kalaignar voice review** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T2 English blob `b7361d26a711d61938da24d33b3512ddf5653e53`.
 
-Compare every surviving clause and paragraph side by side. Audit omissions/additions, negatives and logical relationships, the `Iyer` / `Ayyar` distinction, source-bearing `ayam`, `Enothano(s)`, normal `College` versus frozen anomalous `kalluri`, the working title, quotation scope, inscription wording and both source-page comments. Make only fidelity-required corrections, record them here and in the lexicon, and stop after T2.
+Read the T2-secured English as English while continuously checking the frozen Tamil for rhetorical action. Review direct address, commands, repetition, mockery, the startled `அய்யராவது...` construction, `உண்மை நண்பர்களே உண்மை!`, the fire-stepping image, the `ஏனோதானோ` ridicule, the imperative ending and the inscription reveal. Make only meaning-neutral voice/cadence changes and preserve all T2 source-form distinctions and both source-page comments.
 
-**Do not perform Article 2 T3 in the same activity.**
+**Stop after Article 2 T3. Do not perform Article 2 T4 in the same activity.**
