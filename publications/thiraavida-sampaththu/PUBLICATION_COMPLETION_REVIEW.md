@@ -51,14 +51,14 @@ P5 retained documented lexical-witness conflicts on scans **3, 4, 5 and 16**, pr
 
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **2 / 2 PASS**
-- T1 close drafts: **1 / 2**
+- T1 close drafts: **2 / 2**
 - T2 fidelity-reviewed: **1 / 2**
 - T3 voice-reviewed: **1 / 2**
 - T4 audited: **1 / 2**
 - T5 verified: **1 / 2**
 - E6 publication-wide consistency review: **NOT STARTED**
 - E7 release closeout: **NOT STARTED**
-- English article bodies: **1 / 2**
+- English article bodies: **2 / 2**
 - unresolved translation blockers: **0**
 
 ## Article 1 English verification — COMPLETE / PASS
@@ -67,37 +67,37 @@ Article 1 `திராவிட சம்பத்து` has completed T0–T5
 
 - English title: **Dravidian Wealth — VERIFIED**
 - frozen Tamil authority: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
-- T1 baseline English blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
-- T2 fidelity-reviewed blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`
-- T3 voice-reviewed blob: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
-- T4 terminology/source-audited blob: `961ca3f724238ed699dba2607fa2d1be681f0ec4`
-- T5 final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
+- final T5 verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
 - metadata status: `verified`
-
-T5 verification result:
-
-- complete surviving article coverage: **PASS**;
-- source-page comments: **6 / 6 PASS**;
-- quotation boundaries: **PASS**;
-- scan-15 damage boundaries: **2 / 2 PASS**;
-- scan-16 damage boundaries: **2 / 2 PASS**;
-- T4-established terminology/source-bearing forms: **PASS**;
-- source `மித் (Myth)` → `mit (Myth)`: **PASS**;
-- frozen anomalous `பேச்சுல` → `pechchul`: **PASS / source-bearing / unrepaired**;
-- hidden torn wording reconstructed: **0**;
-- frozen Tamil changes during T5: **0**;
-- publisher/front/back matter imported: **0**;
-- T5 English body corrections: **0**;
-- unresolved T5 blockers: **0**.
+- T5 English body corrections: **0**
+- unresolved Article 1 blockers: **0**.
 
 **ARTICLE 1 ENGLISH TRANSLATION: VERIFIED.**
 
-Article 2 remains at T0 PASS only.
+## Article 2 English translation — T1 COMPLETE / PASS
+
+Article 2 `ஐயர் அறிவிக்கிறார்!` now has a complete close English draft.
+
+- working English title: **Iyer Announces!** — not frozen
+- frozen Tamil authority: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
+- T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
+- metadata status: `draft`
+- source-page comments: scans **12, 3 — 2 / 2 present**
+- `ஐயர்` / `அய்யர்`: working **Iyer / Ayyar** distinction retained
+- frozen damaged/ambiguous `அயம்`: working source-bearing **ayam**, not repaired
+- `ஏனோதானோ` / `ஏனோதானோக்கள்`: working **Enothano / Enothanos**
+- normal `கல்லூரி`: **College**; frozen scan-3 `கல்லுரி`: working source-bearing **kalluri**
+- quoted inscription: working source-bearing **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**
+- external inscription wording imported: **No**
+- frozen Tamil changes during T1: **0**
+- unresolved T1 blockers: **0**.
+
+**ARTICLE 2 T1 CLOSE DRAFT: PASS.**
 
 ## Exact next activity
 
-Execute **Article 2 T1 — complete close English draft for `ஐயர் அறிவிக்கிறார்!` only** from frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
+Execute **Article 2 T2 — bilingual fidelity review** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T1 English blob `1b70952ae377668162fcb35eb045e142a0597190`.
 
-Create `translations/en/02-aiyar-arivikkirar.md`, translate every surviving Tamil paragraph in source order, preserve source-page comments for scans **12 and 3**, preserve frozen damaged/ambiguous `அயம்` without guessed repair, preserve `ஐயர்` / `அய்யர்` source-form distinctions, and keep quotation/inscription terminology source-sensitive.
+Compare every surviving clause and paragraph side by side. Audit the working title, `Iyer` / `Ayyar`, damaged source-bearing `ayam`, `Enothano(s)`, normal `College` versus frozen anomalous `kalluri`, quotation scope, inscription wording and both source-page comments. Make only fidelity-required corrections and document them.
 
-Stop after Article 2 T1. **Do not perform Article 2 T2 in the same activity.**
+Stop after Article 2 T2. **Do not perform Article 2 T3 in the same activity.**
