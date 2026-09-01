@@ -69,15 +69,29 @@ No printed contents page is present.
 
 Hidden/lost text under absent paper is never supplied from sentence meaning.
 
-## P0/P1/P2 status
+## Archival gate status
 
 - P0: **COMPLETE**
 - P1: **COMPLETE**
 - P2: **16 / 16 COMPLETE**
-- P3: **NOT STARTED**
-- P4: **NOT STARTED**
-- P5: **NOT STARTED**
+- P3 article assemblies: **COMPLETE — 2 / 2**
+- P4 source/completeness audit: **PASS**
+- P5 strict visual word/punctuation fidelity: **NOT STARTED**
+- English translation: **NOT STARTED**
 
-One clear structural/source recovery made during P2: scan 16 visibly begins the surviving continuation with `மொழி.` after scan 15 ends `திராவிடம், திராவிட`; this visible token is retained as a documented missing-text recovery from the supplied transcription. No text beneath torn-away paper was reconstructed.
+P3 assemblies:
 
-A provisional lexical-witness conflict is also recorded on scan 4: the supplied baseline reads `ரூசோ` for the promoted title; the scan appears to show a different title. Under the user's rule the supplied word remains unchanged pending later explicit lexical review.
+- `../articles/01-thiraavida-sampaththu.md` — scans 5–6, 13–16 — blob `43c1123a0bdb14dc20dc351a581b1e46c9df04fa`;
+- `../articles/02-aiyar-arivikkirar.md` — scans 12, 3 — blob `357b7c7f7431b33e9c465956227337631550e2c1`.
+
+P4 confirmed every physical scan is accounted for exactly once in reconstructed reading order, both article assemblies agree with their verified page records, publisher matter and advertisements remain outside the article bodies, and no surviving user-baseline lexical token was silently replaced. Physical source loss remains explicitly documented rather than reconstructed.
+
+One clear structural/source recovery made during P2 remains durable: scan 16 visibly begins the surviving continuation with `மொழி.` after scan 15 ends `திராவிடம், திராவிட`; this visible token is retained as a documented missing-text recovery from the supplied transcription. No text beneath torn-away paper was reconstructed.
+
+A provisional lexical-witness conflict is also recorded on scan 4: the supplied baseline reads `ரூசோ` for the promoted title; the scan appears to show a different title. Under the user's rule the supplied word remains unchanged pending P5's explicit lexical-conflict ledger.
+
+Detailed P4 record: [`../audit.md`](../audit.md).
+
+## Exact next gate
+
+Execute **P5 — strict visual text-fidelity review across all 16 physical scans**. P5 must preserve the user-supplied lexical baseline, record scan/transcription lexical conflicts instead of silently correcting them, preserve torn-away gaps without reconstruction, propagate permitted structural/punctuation/spacing/layout corrections, and create the fidelity/completion records. Do not begin English translation during the P5 activity.
