@@ -31,13 +31,55 @@ The Tamil archival layer is **COMPLETE / STRICT-REVIEWED / FROZEN** after P5 **1
 ## Article 1 — `திராவிட சம்பத்து`
 
 - T0 source prerequisite: **PASS**
-- T1 close draft: **NOT STARTED**
+- T1 close draft: **COMPLETE / PASS**
 - T2 bilingual fidelity review: **NOT STARTED**
 - T3 Kalaignar voice review: **NOT STARTED**
 - T4 terminology / quotation / citation / source audit: **NOT STARTED**
 - T5 verification: **NOT STARTED**
-- English title: **not frozen**
-- unresolved translation choices: title rendering; context-sensitive `சம்பத்து`; source-specific mock labels/insults; damaged/source-bearing forms as encountered.
+- working English title: **Dravidian Wealth** — not frozen
+- T1 English file: `01-thiraavida-sampaththu.md`
+- T1 draft blob: `06958bc15d198de42eb63f5a2cb33b64453134cc`
+- source Tamil blob: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
+
+### Article 1 T1 completeness / preservation result
+
+T1 translated the entire surviving frozen Tamil assembly in order and created **one complete close draft**. It did not perform bilingual correction or voice polishing beyond what was necessary to produce a readable first translation.
+
+Checks completed at drafting time:
+
+- source-page comments present for scans **5, 6, 13, 14, 15, 16**;
+- section headings represented in English;
+- opening `*` retained;
+- quoted Ananda Vikatan passages retained as quotations;
+- rhetorical questions/exclamations and direct address retained;
+- repeated monkey/tail/poison imagery retained rather than neutralised;
+- scan-15 damaged quotation remains incomplete and carries both `SOURCE DAMAGE` positions;
+- scan-16 damaged final passage remains incomplete and carries both `SOURCE DAMAGE` positions;
+- hidden torn wording reconstructed: **0**;
+- publisher foreword/note/advertisement text imported into Article 1: **0**;
+- frozen Tamil body changes during T1: **0**.
+
+### T1 working choices requiring later audit
+
+These are intentionally **not finalised by T1**:
+
+- title / recurring `திராவிட சம்பத்து` → working **Dravidian Wealth**;
+- `விகடனார்` → **Vikatanar**;
+- `நகைச்சுவை குரங்கார்` → **Comedy Monkey**;
+- `ஆரிய ஆஞ்சநேயர்` → **Aryan Anjaneyar**;
+- `இனவெறி` / `இனப்பற்று` → **racial hatred** / **attachment to one's race**;
+- `இனமுழக்கம்` → **racial clarion call**;
+- `ஆப்பசைத்த குரங்கு` → **wedge-meddling monkey**;
+- `குப்பை மேட்டுக் குயில்கள்` → **cuckoos of the garbage heap**;
+- frozen anomalous scan-16 `பேச்சுல` → provisional source-bearing **pechchul**.
+
+T2 must test these against the Tamil sentence-by-sentence. T3 may then address voice/cadence without changing meaning. T4 will freeze or revise terminology/source-bearing forms.
+
+### Damaged passage strategy used in T1
+
+Where the Tamil assembly contains source loss, T1 translated only the surviving semantic fragments and preserved the explicit damage comments. It did not silently complete the damaged definition of `திராவிட சம்பத்து` or the damaged final assertion from contextual knowledge.
+
+This strategy is provisional until T2 confirms that no surviving Tamil fragment was omitted or over-interpreted.
 
 ## Article 2 — `ஐயர் அறிவிக்கிறார்!`
 
@@ -50,16 +92,23 @@ The Tamil archival layer is **COMPLETE / STRICT-REVIEWED / FROZEN** after P5 **1
 - English title: **not frozen**
 - unresolved translation choices: source-form handling of `ஐயர்` / `அய்யர்`; damaged `அயம்`; quoted inscription terminology.
 
-## E0 result
+## Current English gate counts
 
-**E0 TRANSLATION PLANNING / SETUP: COMPLETE / PASS.**
-
-T0 is **2 / 2 PASS**. No English body text was drafted and no frozen Tamil body was modified.
+- E0: **COMPLETE / PASS**
+- T0: **2 / 2 PASS**
+- T1: **1 / 2 COMPLETE**
+- T2: **0 / 2**
+- T3: **0 / 2**
+- T4: **0 / 2**
+- T5: **0 / 2**
+- E6: **NOT STARTED**
+- E7: **NOT STARTED**
+- translation blockers: **0**
 
 ## Exact next activity
 
-Execute **Article 1 T1 — complete close English draft** from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
+Execute **Article 1 T2 — bilingual fidelity review** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T1 English blob `06958bc15d198de42eb63f5a2cb33b64453134cc`.
 
-Create `01-thiraavida-sampaththu.md`, translate every surviving paragraph, preserve source-page comments and all source-damage boundaries, update the living lexicon with decisions actually used, and record the T1 result here.
+Check every paragraph and clause for omissions, additions, negatives, logic, comparisons, repetitions, names, quotations, source-page comments and damaged/source-bearing forms. Make only fidelity-required English corrections, document each correction here, update the lexicon where necessary, and stop after T2.
 
-Stop after T1; do **not** perform T2 in the same activity.
+Do **not** perform T3 in the same activity.
