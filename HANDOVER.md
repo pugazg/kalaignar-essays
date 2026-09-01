@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - Any checkpoint SHA means “last confirmed when prepared”; it is **not** a rollback target.
 - If `main` has advanced, preserve the newer durable state. Never reset, overwrite, repeat or reopen later completed work merely because an older prompt records an earlier boundary.
 - Re-fetch target files before writing when another chat/window may also be active.
-- Last confirmed live HEAD immediately before this handover synchronization: `22b7a63c238a9883c083c95c47acebf5344eb72a` — `Advance Thiraavida Sampaththu root status to P4`.
+- Last confirmed live HEAD immediately before this handover synchronization: `82de15dc8f2aa631b0453cda1a4dd8e70e9354a3` — `Advance Thiraavida Sampaththu root status through E0`.
 
 ---
 
@@ -201,7 +201,7 @@ The Article 9/10 documentation reconciliation remains durable:
 
 ---
 
-# Publication 4 — திராவிட சம்பத்து — ACTIVE / P4 PASS
+# Publication 4 — திராவிட சம்பத்து — ACTIVE / E0 COMPLETE / T0 2/2 PASS
 
 Workspace: `publications/thiraavida-sampaththu/`  
 Supplied source: `TVA_BOK_0064196_திராவிட_சம்பத்து.pdf`
@@ -219,117 +219,89 @@ Supplied source: `TVA_BOK_0064196_திராவிட_சம்பத்து
 
 ## Publication-specific source authority — USER ESTABLISHED
 
-The user supplied a transcription and explicitly instructed that it supplies the **lexical words for all surviving text**. Preserve those words unless the user later authorises a lexical change.
+The user-supplied transcription remains the lexical baseline for surviving Tamil words. The scan controls structure, punctuation, quotation marks, spacing, paragraphing, headings, reading order, boundaries and physical-copy evidence. Scan/baseline lexical disagreements are documented rather than silently substituted. Text physically lost under torn-away paper is never reconstructed from context.
 
-The scan controls:
+## Frozen Tamil archival state — COMPLETE / STRICT-REVIEWED / FROZEN
 
-- structure and heading hierarchy;
-- punctuation and quotation marks;
-- spacing and paragraph boundaries;
-- source reading order;
-- article/publisher-matter boundaries;
-- physical-copy evidence and damage.
+- P0: **COMPLETE**
+- P1: **COMPLETE**
+- P2: **16 / 16 COMPLETE**
+- P3 article assemblies: **2 / 2 COMPLETE**
+- P4: **PASS**
+- P5 strict visual fidelity: **16 / 16 PASS**
+- hidden torn text reconstructed: **0**
+- silent lexical substitutions: **0**
+- Tamil workflow blockers: **0**
 
-**Do not reconstruct text physically lost under torn-away paper from context.** Visible source text omitted by the supplied transcription may be restored only when directly readable and must be documented as a source recovery. Scan/transcription lexical disagreements are logged, not silently substituted.
+Frozen English-translation authorities:
 
-## Critical physical-order finding
+1. `திராவிட சம்பத்து` — scans **5–6, 13–16** — blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
+2. `ஐயர் அறிவிக்கிறார்!` — scans **12, 3** — blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
-The PDF physical scan order is **not the publication reading order**. The surviving source appears scanned by leaf/imposition order. Pencil folio marks `2`–`8` occur on scans 3, 5, 7, 9, 11, 13 and 15; they are physical-copy marks, not printed page numbers.
+P5 retained lexical-witness conflicts on scans **3, 4, 5 and 16**, preserved damaged scan-3 `அயம்`, retained the earlier scan-16 source-visible recovery `மொழி.`, and added the directly visible scan-15 recovery `கிரேக்க மொழி`. These are frozen source decisions for downstream translation.
 
-Reconstructed publication reading sequence:
+The physical reading order remains:
 
 `1 → 2 → 9 → 10 → 5 → 6 → 13 → 14 → 15 → 16 → 7 → 8 → 11 → 12 → 3 → 4`
 
-Direct continuation witnesses include:
+Publisher foreword `மன்றத்தில்`, publisher note `முக்கிய குறிப்பு` and scan-4 advertisements remain outside the two Kalaignar article bodies.
 
-- scan 6 `...என்று` → scan 13 `கூறினோம்.`;
-- scan 15 `...திராவிடம், திராவிட` → scan 16 `மொழி. திராவிட...`;
-- scan 7 `...முத` → scan 8 `லாவது...`;
-- scan 8 → scan 11 within `முக்கிய குறிப்பு`;
-- scan 12 `...வாயிலிலே நின்று` → scan 3 `கொண்டிருக்கிறார்...`.
+## English translation state
 
-## Publication units / page progress
+E0 translation planning/setup is **COMPLETE / PASS**.
 
-| Unit | Source span | Status | Notes |
-|---|---|---|---|
-| cover | scan 1 | P4 PASS | publication title/author/seller |
-| imprint | scan 2 | P4 PASS | edition/date/price/publisher/printer |
-| `மன்றத்தில்` | scans 9–10 | P4 PASS | publisher foreword |
-| Article 1 `திராவிட சம்பத்து` | scans 5–6, 13–16 | P3 COMPLETE / P4 PASS | severe torn gaps retained |
-| `முக்கிய குறிப்பு` | scans 7–8, 11 | P4 PASS | publisher note; cues next article |
-| Article 2 `ஐயர் அறிவிக்கிறார்!` | scans 12, 3 | P3 COMPLETE / P4 PASS | scan 3 heavily torn |
-| promotional advertisements | scan 4 | P4 PASS | outside article bodies |
+Created canonical English workspace:
 
-## P3 article assemblies
+- `publications/thiraavida-sampaththu/TRANSLATION_PLAN.md`
+- `publications/thiraavida-sampaththu/translations/en/README.md`
+- `publications/thiraavida-sampaththu/translations/en/LEXICON.md`
+- `publications/thiraavida-sampaththu/translations/en/TRANSLATION_REVIEW.md`
 
-- `publications/thiraavida-sampaththu/articles/01-thiraavida-sampaththu.md` — scans 5–6, 13–16 — current blob `43c1123a0bdb14dc20dc351a581b1e46c9df04fa`.
-- `publications/thiraavida-sampaththu/articles/02-aiyar-arivikkirar.md` — scans 12, 3 — current blob `357b7c7f7431b33e9c465956227337631550e2c1`.
+Current gate counts:
 
-Both assemblies preserve page-boundary comments, reconstructed reading order, user-baseline lexical tokens and the no-reconstruction rule for torn-away text.
+- T0 source prerequisite: **2 / 2 PASS**
+- T1 drafts: **0 / 2**
+- T2 fidelity-reviewed: **0 / 2**
+- T3 voice-reviewed: **0 / 2**
+- T4 audited: **0 / 2**
+- T5 verified: **0 / 2**
+- E6: **NOT STARTED**
+- E7: **NOT STARTED**
+- English article bodies: **0 / 2**
+- translation blockers: **0**
 
-## Tamil archival status
+E0 made **0 Tamil body changes** and created **0 English article bodies**. English must translate from the frozen strict-reviewed assemblies, never from OCR, the pre-P5 transcription, alternate scan-appearing lexical readings or memory.
 
-- P0 source intake / publication identification: **COMPLETE**
-- P1 metadata + page map + reconstructed reading order: **COMPLETE**
-- P2 page-level transcription / direct structural review: **16 / 16 COMPLETE**
-- P3 article assemblies: **COMPLETE — 2 / 2**
-- P4 source audit / completeness review: **PASS**
-- P5 strict visual word/punctuation fidelity pass: **NOT STARTED**
-- English translation: **NOT STARTED**
+Initial publication-specific translation decisions include `திராவிடம்` → `Dravidam`, `திராவிடர்` → `Dravidians`, adjectival `திராவிட` → `Dravidian`, adjectival `ஆரிய` → `Aryan`, and `ஆனந்த விகடன்` → `Ananda Vikatan`. Source-specific mock labels and difficult compounds remain contextual decisions for T1–T4 rather than being prematurely normalised.
 
-## P4 result
+## Non-regression for English work
 
-P4 confirmed:
+- preserve direct address, sarcasm, ridicule, rhetorical questions, repetition and exclamation;
+- preserve source-page trace comments;
+- retain Article 1 scan-15/16 `SOURCE DAMAGE` gaps without reconstruction;
+- do not silently repair frozen `கல்லுரி`, `கண்னை`, `பேச்சுல` or damaged `அயம்` using alternate scan readings/context;
+- do not import publisher matter or scan-4 advertisements into the two English article bodies;
+- if a genuine source-supported Tamil correction changes a frozen blob, explicitly reopen affected translation gates.
 
-- all 16 physical scans are accounted for exactly once in reconstructed reading order;
-- both article assemblies contain every mapped page once and in the correct order;
-- required page-boundary comments are complete;
-- article starts/ends are correct;
-- `மன்றத்தில்` and `முக்கிய குறிப்பு` remain publisher matter outside the article bodies;
-- scan 4 remains advertisement/back matter outside both articles;
-- no mapped source segment is duplicated or omitted;
-- no surviving user-baseline lexical token was silently replaced;
-- no hidden text under torn paper was reconstructed;
-- no P4 body correction was required.
+## Current blockers
 
-Detailed ledger: `publications/thiraavida-sampaththu/audit.md`.
-
-## Source-damage non-regression
-
-- Large pieces of paper are missing from several scans, especially scans **3–4, 7–8, 11–16**.
-- Damage intersects printed lines on multiple body pages.
-- Surviving supplied-transcription tokens are retained; absent paper is represented by explicit `SOURCE DAMAGE` markers where needed.
-- Scan-15/16 Article 1 damage markers remain in the assembly.
-- No missing word is supplied merely because sentence context makes a reconstruction tempting.
-- Pencil folio marks, stains, ageing and reverse-side show-through are recorded outside printed text.
-
-## High-value source decisions already recorded
-
-- scan 16 visibly begins the surviving continuation with `மொழி.`; this was absent from the supplied transcription and remains a **documented source-visible missing-text recovery**, not a contextual guess.
-- scan 4 supplied advertisement-title reading `ரூசோ` is retained as the lexical baseline even though the scan appears to show a different title; this remains a **provisional lexical-witness conflict** for P5, not a silent correction.
-- scan 3 supplied `அயம்` and other damaged/ambiguous surviving lexical tokens remain user-baseline readings unless later explicitly reopened.
-
-## Current blockers / unresolved questions
-
-- **No workflow blocker.**
-- Physical source loss is durable documented damage, not permission to reconstruct missing words.
-- Provisional lexical-witness conflicts remain documented for P5 under the user-established baseline rule.
+**None.** Irreversible physical source loss is documented and does not block translation of the surviving frozen Tamil witness.
 
 ---
 
 # Exact next activity
 
-Execute **P5 — strict visual text-fidelity review across all 16 physical scans** for `திராவிட சம்பத்து`.
+Execute **Article 1 T1 — complete close English draft for `திராவிட சம்பத்து` only** from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
 
-1. Recheck cover, imprint, `மன்றத்தில்`, Article 1, `முக்கிய குறிப்பு`, Article 2 and scan-4 advertisements word by word and punctuation by punctuation.
-2. Preserve the user-supplied lexical baseline for surviving words; do not silently substitute a scan-appearing lexical form.
-3. Record every scan/transcription lexical disagreement explicitly.
-4. Correct only source-supported structure, punctuation, spacing, paragraphing, headings/layout and directly visible omitted material allowed by the user's rule.
-5. Preserve all torn-away text gaps without contextual reconstruction.
-6. Propagate any permitted corrections into page records, assemblies, indexes, README, metadata, audit and handover.
-7. Create `VISUAL_TEXT_FIDELITY_REVIEW.md` and, if P5 passes, `PUBLICATION_COMPLETION_REVIEW.md`.
-8. **Do not begin English translation in the same P5 activity.**
+1. Re-fetch the frozen Article 1 Tamil assembly and confirm the blob SHA before drafting.
+2. Create `publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md` with the required English metadata.
+3. Translate every surviving Tamil paragraph in order.
+4. Preserve source-page comments for scans **5, 6, 13, 14, 15, 16**.
+5. Preserve all explicit scan-15/16 `SOURCE DAMAGE` gaps without reconstruction or guessed bridging text.
+6. Update the living lexicon only with terminology decisions actually used in the draft.
+7. Record T1 completion/provenance in `TRANSLATION_REVIEW.md`, the English tracker, plan and this handover.
+8. **Stop after T1. Do not perform T2 in the same activity.**
 
 ## Current blockers
 
-**None beyond documented irreversible physical source loss.**
+**None.**
