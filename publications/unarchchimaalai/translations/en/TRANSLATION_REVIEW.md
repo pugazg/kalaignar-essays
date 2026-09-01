@@ -178,7 +178,7 @@ T5 re-verified the complete T1–T4 chain against frozen Tamil blob `c8ac4d7c241
 
 **T5 RESULT: PASS. Article 5 advanced to `translation_status: verified`. Final verified English blob: `c689ff90f08d389a5e7ebc4849c30d58dfe81766`.**
 
-# Article 6 — `3, 57, 90.` — T1 COMPLETE / DRAFT
+# Article 6 — `3, 57, 90.` — T1–T2 COMPLETE / FIDELITY-REVIEWED
 
 Source authority:
 
@@ -188,7 +188,8 @@ Source authority:
 - printed pages: **33–37; scan 33 has no visible printed numeral**
 - English article: [`06-3-57-90.md`](06-3-57-90.md)
 - English title: **3, 57, 90.**
-- T1 draft blob: **`03b33ab1aaa042266eb34163e688e415baa47be9`**
+- T1 draft blob: `03b33ab1aaa042266eb34163e688e415baa47be9`
+- T2 fidelity-reviewed blob: **`9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`**
 
 ## T1 — close draft — COMPLETE / PASS
 
@@ -198,28 +199,54 @@ T1 translated the complete frozen Article 6 paragraph by paragraph and clause by
 - all six scan comments 33–38 present and ordered: **PASS**
 - corrected physical scan-33/34 boundary inside the running sentence: **PASS**
 - seven opening hostile remarks remain seven separate quotations: **PASS**
-- insults `நாஸ்திகனே` and `வகுப்பு வாத விஷ விருக்ஷமே` retain direct polemical force: **PASS / provisional English**
-- repeated demand `வகுப்பு வாரி பிரதி நிதித்துவம் வேண்டும்`: **represented as `We need communal representation.`**
+- repeated demand `வகுப்பு வாரி பிரதி நிதித்துவம் வேண்டும்`: **represented**
 - scan-35→36 long college statement remains one quotation across the source-page boundary: **PASS**
 - scan-36→37 percentage statement continues across the source-page boundary: **PASS**
 - scan-37→38 `சர்` / `ராமசாமிகளை...` continuation preserved across the source-page boundary: **PASS**
-- all explicit numbers/dates/percentages represented, including `150`, `90`, `3`, `57`, `29-5-48`, `100-க்கு 60`, `100-க்கு 38`, `100-க்கு 2`, `97`, and final `3, 57, 90.`: **PASS**
-- source distinctions `பிராமணர்` vs `பார்ப்பனர்`: **provisionally preserved as `Brahmin` vs `Parppanar`**
+- all explicit numbers/dates/percentages represented: **PASS**
+- source distinctions `பிராமணர்` vs `பார்ப்பனர்`: **preserved as `Brahmin` vs `Parppanar`**
 - source labels `ஹரிஜன` and `ஆதிதிராவிடர்`: **retained as `Harijan` and `Adi-Dravidians`**
-- Article 4 `இன உணர்ச்சி` → `racial feeling` reused in `திராவிட இன உணர்ச்சி` → `Dravidian racial feeling`: **provisional / non-regression**
-- Article 3 `பாகு மொழி` → `syrupy speech`: **reused**
-- frozen scan-33 `எழுதினான்`: **Tamil authority retained; scan alternate not imported**
-- frozen scan-35 `சம்மாதிக்காத`: **Tamil authority retained; translated contextually as `do not consent`; scan alternate not imported**
-- frozen scan-37 `பிரிதிநிதித்துவத்தை`: **Tamil authority retained; not silently corrected**
-- frozen scan-38 `இழத்துக்`: **rendered source-sensitively rather than repaired to a contextually expected alternate**
-- frozen scan-38 `பிர பிரஹலாதர்களாக`: **retained as source-bearing `pira Prahaladas`**
-- frozen scan-38 `வேண்டியுளது`: **Tamil authority retained**
-- frozen scan-38 `ஒரியண்டல்`: **rendered `Oriyantal College`, deliberately distinct from earlier `ஓரியண்டல்` → `Oriental College`**
-- unresolved source-bearing provisional forms `kabothi`, `sodha`, `othiya`, `mathith thalaivar`: **retained without outside repair**
+- frozen scan-33 `எழுதினான்`, scan-35 `சம்மாதிக்காத`, scan-37 `பிரிதிநிதித்துவத்தை`, scan-38 `இழத்துக்`, `பிர பிரஹலாதர்களாக`, `வேண்டியுளது` and `ஒரியண்டல்`: **not normalised**
+- unresolved source-bearing provisional forms retained without outside repair: **PASS**
 - outside/web historical identification, alternate scan wording or published translation imported: **No**
 - T1 blockers: **0**
 
 **T1 RESULT: PASS. Article 6 advanced to `translation_status: draft`. T1 English blob: `03b33ab1aaa042266eb34163e688e415baa47be9`.**
+
+## T2 — bilingual fidelity review — COMPLETE / PASS
+
+T2 re-read the full frozen Tamil and T1 English side by side across scans 33–38. It made **5 fidelity corrections**:
+
+1. scan 34 `சூதர்களை` — T1 generic `cheats` → **`gamblers`**, restoring the direct lexical sense while leaving source-sensitive `சோதாப் பண்பு` as `sodha disposition`;
+2. scan 36 `திராவிடக் கும்பல்` — `Dravidian crowd` → **`Dravidian gang`**, restoring the source's pejorative force;
+3. scan 37 `வயிற்றெரிச்சலோடு` — abstract `with burning anguish` → **`with our stomachs burning`**, restoring the physical image;
+4. scan 37→38 `சர்` / `ராமசாமிகளை, சண்முகங்களை இழத்துக் கொண்டு` — clarified as **`Sir` / `Ramasamis and Shanmugams; having lost them...`**, preserving both the source page boundary and frozen `இழத்துக்` without silently repairing it to a contextually expected alternate;
+5. scan 38 final `கண்ணிருந்தும் குருடராய்—காட்டுமிராண்டித் தன்மையராய் அவர்களோடுசேர்த்து விலக நேர்ந்தாலும்` — reordered the English so blindness/savagery modify the fifty-seven and the `end up leaving ... along with them` relation follows the frozen Tamil syntax.
+
+T2 additionally reconfirmed:
+
+- complete sentence/clause coverage: **PASS**
+- no added or omitted claims after corrections: **PASS**
+- all six scan comments and corrected scan-33/34 physical boundary: **PASS**
+- all seven opening quotations: **PASS**
+- scan-35→36 college quotation scope: **PASS**
+- scan-36→37 percentage continuation: **PASS**
+- scan-37→38 `Sir` / `Ramasamis` boundary: **PASS**
+- all names, date `29-5-48`, numbers and percentages: **PASS**
+- `வகுப்பு வாதம்` / `வகுப்பு வாரி பிரதிநிதித்துவம்`: `communalism` / `communal representation` — **T2 PASS**
+- `ஆரியம்`: `Aryanism` — **T2 PASS**
+- `பிராமணர்` vs `பார்ப்பனர்`: `Brahmin` vs source-bearing `Parppanar` — **T2 PASS / distinction retained**
+- source labels `Harijan`, `Adi-Dravidians`, `Sri Duraisami Iyengar`, `Mail`, `Devasthanam Committee`: **T2 PASS**
+- source-bearing `kabothi`, `sodha`, `othiya`, `mathith thalaivar`, `Vediyars`, `Dravidian Vibhishanas`, `pira Prahaladas`: **T2 PASS / no outside repair**
+- earlier `ஓரியண்டல்` → `Oriental College` versus frozen scan-38 `ஒரியண்டல்` → `Oriyantal College`: **T2 PASS / distinction retained**
+- frozen scan-33 `எழுதினான்`: **PASS / scan alternate not imported**
+- frozen scan-35 `சம்மாதிக்காத`: **PASS / contextual English retained; scan alternate not imported**
+- frozen scan-37 `பிரிதிநிதித்துவத்தை`: **PASS / no silent Tamil correction**
+- frozen scan-38 `இழத்துக்`, `பிர பிரஹலாதர்களாக`, `வேண்டியுளது`, `ஒரியண்டல்`: **PASS / no outside or scan-alternate repair**
+- external/web historical reconstruction: **none**
+- T2 blockers: **0**
+
+**T2 RESULT: PASS. Article 6 advanced to `translation_status: fidelity-reviewed`. T2 English blob: `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`.**
 
 ## Article review tracker
 
@@ -230,12 +257,12 @@ T1 translated the complete frozen Article 6 paragraph by paragraph and clause by
 | 3 | போகிறான்;போகிறான்..! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 4 | இராவணன் நம் பாட்டன் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 6 | 3, 57, 90. | `draft` | PASS | **PASS** | — | — | — | — |
+| 6 | 3, 57, 90. | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
 | 7 | 30-1-1948 | `not-started` | PASS | — | — | — | — | — |
-| 8 | பத்தினியே உன்போல்...! | `not-started` | PASS | — | — | — | — | — |
-| 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — |
-| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
+| 8 | பத்தினியே உன்போல்...! | `not-started` | PASS | — | — | — | — | — | — |
+| 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — | — |
+| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — | — |
 
 ## Exact next activity
 
-Execute **Article 6 T2 — bilingual fidelity review** for `3, 57, 90.` against frozen Tamil blob `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` and T1 English draft blob `03b33ab1aaa042266eb34163e688e415baa47be9`, scans **33–38**. Re-read every Tamil paragraph/clause against the English for omissions, additions, negatives, comparisons/logical connectors, quotation scope, names, dates, numbers/percentages and cross-page continuations. Reconfirm the corrected scan-33/34 boundary and frozen forms `எழுதினான்`, `சம்மாதிக்காத`, `பிரிதிநிதித்துவத்தை`, `இழத்துக்`, `பிர பிரஹலாதர்களாக`, `வேண்டியுளது` and `ஒரியண்டல்`; do not import scan-appearing alternatives, web wording or outside historical reconstruction. Record every T2 correction, advance only to `fidelity-reviewed` if the full bilingual pass succeeds, synchronize records, and **stop before Article 6 T3**.
+Execute **Article 6 T3 — Kalaignar voice review** for `3, 57, 90.` against frozen Tamil blob `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` and T2 English blob `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`, scans **33–38**. Preserve every T2 meaning/source decision while reviewing cadence, directness, insult force, repeated attacks and appeals, rhetorical exclamations, the long quoted college statement, percentage accumulation, sarcastic `இந்த அழகில்`, the pleading address to the 57, the Anjaneya/Sugriva comparison, final direct challenge and repeated `3, 57, 90.`. Preserve all scan comments and cross-page continuations; do not import alternate scan lexical readings, web wording or outside historical reconstruction. Record only meaning-neutral voice/cadence interventions, advance only to `voice-reviewed` if the pass succeeds, and **stop before Article 6 T4**.
