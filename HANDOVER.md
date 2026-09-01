@@ -82,14 +82,14 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 ## English progress
 
 - T0 setup: **PASS**
-- T1 drafts: **9 / 10**
+- T1 drafts: **10 / 10**
 - T2 fidelity-reviewed: **9 / 10**
 - T3 voice-reviewed: **9 / 10**
 - T4 audited: **9 / 10**
 - T5 verified: **9 / 10**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
-- blockers: **0**
+- translation/body blockers: **0**
 
 ## Verified articles 1–9
 
@@ -105,66 +105,81 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 
 Articles 1–9 are closed at T5. Do not reopen absent a genuine source-supported defect.
 
-## Article 9 — `அன்னை நாகம்மையார்!` — T0–T5 COMPLETE / VERIFIED
+## Article 9 durable T5 boundary
 
-- English title: **Mother Nagammaiyar!**
 - frozen Tamil: `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
 - source scans: **45–47**
-- printed pages: **45–46; scan 45 has no visible printed numeral**
-- English file: `publications/unarchchimaalai/translations/en/09-annai-nagammaiyar.md`
-- T1 draft English: `1d3ac3f7ef2fff5e79b23434f907b467ae1266f6`
-- T2 fidelity-reviewed English: `4336ef783678c165656ab843158e9c29d4695ed5`
-- T3 voice-reviewed / T4-audited English candidate: `6d8556b574f536f879a2ea3ca6efffb81609add2`
-- final T5-verified English: **`204ffed012f4bd91b3077065f031d6b2db747854`**
-- translation status: **`verified`**
-- T2 fidelity corrections: **3**
-- T3 meaning-neutral voice/cadence interventions: **11**
+- T1: `1d3ac3f7ef2fff5e79b23434f907b467ae1266f6`
+- T2: `4336ef783678c165656ab843158e9c29d4695ed5`
+- T3/T4: `6d8556b574f536f879a2ea3ca6efffb81609add2`
+- final T5: **`204ffed012f4bd91b3077065f031d6b2db747854`**
+- T2 corrections: **3**
+- T3 interventions: **11**
 - T4 body corrections: **0**
 - T5 body corrections: **0**
-
-### Article 9 T5 result
-
-T5 re-verified the complete T1–T4 chain against frozen Tamil blob `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` and T4 candidate `6d8556b574f536f879a2ea3ca6efffb81609add2`. It required **0 body corrections**.
-
-T5 non-regression:
-
-- metadata/source Tamil SHA/scans/printed-page field: **PASS**
-- complete paragraph/clause coverage: **PASS**
-- all three source-page comments scans 45–47 and printed-page witnesses: **PASS**
-- source labels `Periyar`, `Ramasami`, `Nagammaiyar` / `Nagamma`, `Ramasamiyar`, `Ammaiyar`: **PASS / no outside biographical conventionalisation**
-- source-sensitive `minor-kaali`: **PASS / no outside identification**
-- T2 public-service/self-interest contrast: **PASS**
-- youthful vow: **PASS / quotation retained**
-- source “good boy” quotation: **PASS**
-- quoted parental `log` image: **PASS / no explanatory substitution**
-- Nagamma's marriage-or-death declaration: **PASS**
-- horse/stable revolutionary quotation: **PASS / no published version imported**
-- family-lamp declaration: **PASS**
-- old-man/Nagammaiyar quoted exchange: **PASS**
-- ages/dates/numbers `19`, `13`, `1898`, `35`, `1933`, `11-5-1933`, `12-5-1933`, `144`: **PASS**
-- flood-with-flood image: **PASS**
-- repeated `many! many!`: **PASS / T2 placement retained**
-- never-drying life-river: **PASS / T2 water-image continuity retained**
-- final `Duty that surpassed even love` close: **PASS**
+- source labels, quotation scopes, ages/dates/numbers, `minor-kaali`, public-service/self-interest contrast, quoted `log`, horse/stable quotation, family-lamp declaration, flood-with-flood image, `many! many!`, never-drying life-river and final duty-surpassing-love close: **T5 PASS**
 - outside/web biographical wording, conventional spellings, alternate source forms or published translations imported: **No**
-- frozen Tamil changed: **No**
+
+## Article 10 — `கவிதையல்ல - கண்ணீர்க்கடல் !` — T1 COMPLETE / DRAFT
+
+- English title: **Not a Poem — an Ocean of Tears!**
+- frozen Tamil: `f856664d86695237a23d0ffc0bef088d32a82fe9`
+- source scans: **48–49**
+- printed pages: **48; scan 48 has no visible printed numeral**
+- English file: `publications/unarchchimaalai/translations/en/10-kavithaiyalla-kannirkkadal.md`
+- T1 draft English: **`a9864870a17c291304b1cab2480ea7eea4730e1a`**
+- translation status: **`draft`**
+- complete verse-unit coverage and source lineation: **T1 PASS**
+- two-line title, bracketed subtitle, `* * *`, scan-48/49 source-page comments, questions/exclamations/repetition and final fall/sing-deeds sequence: **T1 PASS**
+- frozen scan-48 `ப்ழச்சளை`: **retained verbatim in the English body; no repair or guessed transliteration**
+- frozen scan-49 `விட்டாய்.`: **translated as `You left.` in its frozen source position; not moved upstream to complete `மறைந்து`**
+- scan-49 publication-source note/printer imprint and scan-50 advertisement: **excluded / outside Article 10**
+- no outside identification, web wording, alternate scan reading or published translation imported
 - blockers: **0**
 
-## Article 10
+### Article 10 provisional T1 terminology
 
-`கவிதையல்ல - கண்ணீர்க்கடல் !` has completed only T0. Its frozen Tamil authority is `f856664d86695237a23d0ffc0bef088d32a82fe9`, source scans **48–49**.
+- `செல்வம்` → `Selvam`
+- `பெரியார்` → `Periyar`
+- `அறிவியக்க வீரன்` → `warrior of the movement of reason`
+- `சாவுமோகம்` → `death-madness`
+- `ஆரியம்` → `Aryanism`
+- `குள்ளநரி ஆரியம்` → `dwarf-jackal Aryanism`
+- `பார்ப்பனீயம்` → `Parppaniyam`
+- `பன்னீர்ச்செல்வம்` → `Panneer Selvam`
+- `பாண்டியன் மீசை` → `Pandiyan moustache`
+- `திருவிடத்தார்` → `Tiruvitaththar`
+- `பாட்டாளிக் குணம்` → `proletarian character`
+- `ஓமான்கடல்` → `Oman Sea`
+- `திராவிடப் பொன்னாடு` → `golden Dravidian land`
+- `ஆரிய மது` → `Aryan liquor`
+- `பஞ்சைகள்` → provisional `paupers` — recheck at T2
+- `தஞ்சைக் காவலன்` → `guardian of Tanjai`
+
+## Documentation synchronization note
+
+At Article 10 T1 startup, live `main` had already advanced through Article 9 T5 in the authoritative handover, English tracker, translation plan and Article 9 English file, but canonical `translations/en/LEXICON.md` and `translations/en/TRANSLATION_REVIEW.md` were still lagging at Article 9 T4. They were **not destructively overwritten** during T1.
+
+Article 10 T1 terminology and review provenance are durably captured in:
+
+`publications/unarchchimaalai/translations/en/ARTICLE10_T1_PROVENANCE.md`
+
+At the start of Article 10 T2, merge the missing Article 9 T5 closure plus Article 10 T1 provenance into the canonical lexicon/review ledger without deleting prior history, then remove the sidecar if the canonical merge is complete.
 
 ---
 
 # Exact next activity
 
-Execute **Article 10 T1 — complete close English draft** for `கவிதையல்ல - கண்ணீர்க்கடல் !` against:
+Execute **Article 10 T2 — bilingual fidelity review** for `கவிதையல்ல - கண்ணீர்க்கடல் !` against:
 
 - frozen Tamil blob: `f856664d86695237a23d0ffc0bef088d32a82fe9`
+- T1 English blob: `a9864870a17c291304b1cab2480ea7eea4730e1a`
 - source scans: **48–49**
 
-T1 must translate the complete frozen Article 10 assembly paragraph by paragraph and verse unit by verse unit. Preserve all source-page comments, Article 10 verse lineation, questions, exclamations, repetition and source-bearing terminology. Retain frozen scan-48 `ப்ழச்சளை` exactly as the Tamil translation authority; do not silently repair it. Preserve frozen scan-49 `விட்டாய்.` placement. Exclude the scan-49 publication-source note/imprint and scan-50 advertisement because they are outside Article 10. Do not import alternate scan lexical/order readings, outside identification, web wording or published translations. Create the Article 10 English file, establish provisional living-lexicon decisions, record T1 provenance in the review ledger and trackers, synchronize this handover, and **stop before Article 10 T2**.
+Before semantic review, reconcile the known `LEXICON.md` / `TRANSLATION_REVIEW.md` lag using `ARTICLE10_T1_PROVENANCE.md` and the durable Article 9 T5 record above.
+
+Then re-read the poem line by line and verse unit by verse unit. Check the title/subtitle, source comments, verse lineation, questions/exclamations/repetition, source labels and imagery, frozen scan-48 `ப்ழச்சளை`, frozen scan-49 `விட்டாய்.` placement, `Parppaniyam`, `Tiruvitaththar`, `Oman Sea`, provisional `பஞ்சைகள்` → `paupers`, and the final fall/sing-deeds close. Preserve exclusion of the scan-49 publication-source note/imprint and scan-50 advertisement. Do not import alternate scan readings, outside identification, web wording or published translations. If T2 passes, advance Article 10 to `fidelity-reviewed`, synchronize all canonical records, and **stop before T3**.
 
 ## Current blockers
 
-**None.**
+**No translation/body blockers.** One documentation synchronization debt remains: canonical `LEXICON.md` and `TRANSLATION_REVIEW.md` lag at Article 9 T4 and must be reconciled at Article 10 T2 startup.
