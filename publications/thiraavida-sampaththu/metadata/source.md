@@ -99,34 +99,29 @@ Detailed records:
 - T3 voice-reviewed: **2 / 2**
 - T4 audited: **2 / 2**
 - T5 verified: **2 / 2**
-- E6 publication-wide consistency review: **NOT STARTED**
+- E6 publication-wide consistency review: **PASS**
 - E7 release closeout: **NOT STARTED**
 - English article bodies: **2 / 2**
 - translation blockers: **0**
 
-Article 1 `திராவிட சம்பத்து` is **T5 VERIFIED**:
+Article 1 `திராவிட சம்பத்து` is **T5 VERIFIED / E6 PASS**:
 
 - English title: **Dravidian Wealth**
 - final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
 - source Tamil blob: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
 
-Article 2 `ஐயர் அறிவிக்கிறார்!` is **T5 VERIFIED**:
+Article 2 `ஐயர் அறிவிக்கிறார்!` is **T5 VERIFIED / E6 PASS**:
 
 - English title: **Iyer Announces!**
-- T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
-- T2 fidelity-reviewed English blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
-- T3 voice-reviewed English blob: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
-- T4 source-audited English blob: `9b2795e6c66dea08fdf46fcf7903550001e1a401`
-- final T5 verified English blob: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
+- final verified English blob: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
 - source Tamil blob: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
 - source-page comments: **2 / 2 present and ordered**
 - frozen `அயம்`: source-bearing **ayam**, not repaired
 - frozen scan-3 `கல்லுரி`: source-bearing **kalluri**, not silently normalised
 - narrative `சாமிநாதய்யர்`: **Saminathayyar**; inscription `சாமிநாத அய்யர்`: **Saminatha Ayyar**
-- first-paragraph quotation anomaly: two evident English quoted units formally documented at T4 and re-verified at T5; no missing Tamil punctuation reconstructed
-- T5 English body corrections: **0**
-- frozen Tamil changes during T5: **0**
-- unresolved T5 blockers: **0**
+- first-paragraph quotation anomaly: two evident English quoted units formally documented and preserved
+
+E6 publication review confirmed recurring `Dravidam` usage, title style, quotation treatment, source-page trace, source-anomaly preservation and rhetorical consistency. Article 1 adjectival **Dravidian** and Article 2 inscription **Dravida** remain deliberately distinct by source function. No English body or metadata correction was required, no article gate was reopened, and frozen Tamil changes remain **0**.
 
 English records:
 
@@ -135,8 +130,8 @@ English records:
 - [`../translations/en/LEXICON.md`](../translations/en/LEXICON.md)
 - [`../translations/en/TRANSLATION_REVIEW.md`](../translations/en/TRANSLATION_REVIEW.md)
 
-The English layer continues to translate only from the two frozen Tamil blobs above. It must not use OCR, pre-P5 transcription, alternate scan-appearing lexical readings or remembered wording as replacement authority.
+The English layer continues to use only the two frozen Tamil blobs above. It must not use OCR, pre-P5 transcription, alternate scan-appearing lexical readings or remembered wording as replacement authority.
 
 ## Exact next gate
 
-Execute **E6 — publication-wide English consistency review** across both verified articles. Review recurring terminology, source-bearing name distinctions, title style, quotation treatment, source-page comments, source-anomaly preservation, rhetorical consistency and accidental cross-article harmonisation. Stop after E6; do not perform E7 in the same activity.
+Execute **E7 — English release closeout**. Re-confirm both E6-passed English authorities, all frozen Tamil authorities, synchronized release records and zero blockers; if PASS, mark the English translation **COMPLETE / RELEASED / FROZEN**.
