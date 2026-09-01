@@ -110,13 +110,13 @@ English workspace:
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 - [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) — Article 1 T1 draft
 
-Article 1 working English title: **Dravidian Wealth**. It is not frozen yet. T1 draft blob: `06958bc15d198de42eb63f5a2cb33b64453134cc`.
+Article 1 working English title: **Dravidian Wealth**. It is not frozen yet. T1 draft blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`.
 
 Article 1 T1 preserved source-page comments for scans **5, 6, 13, 14, 15, 16**, the source's rhetorical/polemical structure, and all scan-15/16 source-damage gaps without reconstructing hidden words. Frozen anomalous `பேச்சுல` remains represented provisionally as source-bearing `pechchul` pending T2/T4 review.
 
 ## Exact next activity
 
-Execute **Article 1 T2 — bilingual fidelity review** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T1 English blob `06958bc15d198de42eb63f5a2cb33b64453134cc`.
+Execute **Article 1 T2 — bilingual fidelity review** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T1 English blob `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`.
 
 Check every paragraph and clause for omissions, additions, logic, negatives, comparisons, names, quotations, repetitions, source-page comments and source-damage handling. Make only fidelity-required English corrections, record every correction in the review ledger, update the lexicon as necessary, and stop after T2.
 
