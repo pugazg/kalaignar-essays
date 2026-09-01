@@ -95,7 +95,7 @@ Detailed records:
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **2 / 2 PASS**
 - T1 close drafts: **2 / 2**
-- T2 fidelity-reviewed: **1 / 2**
+- T2 fidelity-reviewed: **2 / 2**
 - T3 voice-reviewed: **1 / 2**
 - T4 audited: **1 / 2**
 - T5 verified: **1 / 2**
@@ -108,16 +108,19 @@ Article 1 `திராவிட சம்பத்து` is **T5 VERIFIED**:
 - final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
 - source Tamil blob: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
 
-Article 2 `ஐயர் அறிவிக்கிறார்!` is **T1 COMPLETE / draft**:
+Article 2 `ஐயர் அறிவிக்கிறார்!` is **T2 COMPLETE / fidelity-reviewed**:
 
-- working English title: **Iyer Announces!** — not frozen
+- working English title: **Iyer Announces!** — T2 semantic pass / not frozen
 - T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
+- T2 fidelity-reviewed English blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
 - source Tamil blob: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
-- source-page comments: **2 / 2 present**
-- frozen `அயம்`: carried as source-bearing **ayam**, not repaired
-- frozen scan-3 `கல்லுரி`: carried as source-bearing **kalluri**, not silently normalised
-- frozen Tamil changes during T1: **0**
-- unresolved T1 blockers: **0**
+- source-page comments: **2 / 2 present and ordered**
+- frozen `அயம்`: source-bearing **ayam**, not repaired
+- frozen scan-3 `கல்லுரி`: source-bearing **kalluri**, not silently normalised
+- narrative `சாமிநாதய்யர்`: **Saminathayyar**; inscription `சாமிநாத அய்யர்`: **Saminatha Ayyar**
+- T2 English body corrections: **3**
+- frozen Tamil changes during T2: **0**
+- unresolved T2 blockers: **0**
 
 English records:
 
@@ -130,4 +133,4 @@ The English layer continues to translate only from the two frozen Tamil blobs ab
 
 ## Exact next gate
 
-Execute **Article 2 T2 — bilingual fidelity review** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T1 English blob `1b70952ae377668162fcb35eb045e142a0597190`. Audit all surviving clauses, `Iyer` / `Ayyar`, source-bearing `ayam`, `Enothano(s)`, normal `College` versus frozen anomalous `kalluri`, working title, quotation scope, inscription wording and both source-page comments. Stop after T2; do not perform Article 2 T3 in the same activity.
+Execute **Article 2 T3 — Kalaignar voice review** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T2 English blob `b7361d26a711d61938da24d33b3512ddf5653e53`. Preserve T2-secured source-form distinctions and both source-page comments. Stop after T3; do not perform Article 2 T4 in the same activity.
