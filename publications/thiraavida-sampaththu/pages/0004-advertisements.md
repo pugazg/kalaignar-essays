@@ -16,7 +16,7 @@ transcription_method: "user-supplied lexical baseline; direct visual review for 
 
 பேரறிஞர் ரூஸோ  
 தீட்டிய  
-`ரூசோ`  
+'ரூசோ'  
 விலை ரூபாய் ஒன்று
 
 ---
@@ -34,6 +34,6 @@ transcription_method: "user-supplied lexical baseline; direct visual review for 
 
 ## Audit note
 
-- The supplied lexical baseline `ரூசோ` for the promoted title is retained exactly under the user's rule. The scan appears to show a different title; this is recorded as a **provisional lexical-witness conflict** for later P5 review, not silently substituted.
+- P5 lexical-witness conflict: the supplied lexical baseline `ரூசோ` for the promoted title is retained exactly under the user's rule; the scan visibly reads `ஜூலி`. The source quotation marks around the promoted title are preserved, but the lexical token is not silently substituted.
 
 <!-- மூல ஸ்கேன் பக்கம்: 4 -->
