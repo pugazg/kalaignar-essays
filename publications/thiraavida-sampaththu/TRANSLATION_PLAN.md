@@ -37,16 +37,32 @@ If either frozen Tamil blob changes because of a genuine source-supported correc
 
 E0 established the English workspace, living lexicon, translation-review ledger and article tracker. Both frozen Tamil assemblies were re-fetched from live `main`, confirmed `status: strict-reviewed`, and registered as the T0 source authorities above.
 
-No English article body was drafted during E0.
-
 ## Article tracker
 
 | # | Tamil title | English file | Translation status | Gates |
 |---:|---|---|---|---|
-| 1 | `திராவிட சம்பத்து` | `translations/en/01-thiraavida-sampaththu.md` | **not-started** | **T0 PASS; T1 next** |
+| 1 | `திராவிட சம்பத்து` | [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) | **draft** | **T0 PASS; T1 PASS; T2 next** |
 | 2 | `ஐயர் அறிவிக்கிறார்!` | `translations/en/02-aiyar-arivikkirar.md` | **not-started** | **T0 PASS** |
 
-English titles remain **unfrozen** until the relevant article reaches translation review. Do not choose a smoother title by ignoring the source's rhetorical function.
+Article 1 working English title: **Dravidian Wealth**. The title is not frozen and remains subject to T2/T4 review.
+
+## Article 1 T1 — COMPLETE / PASS
+
+T1 created a complete close English draft from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
+
+T1 draft blob: `06958bc15d198de42eb63f5a2cb33b64453134cc`.
+
+The draft preserves:
+
+- every surviving Tamil paragraph in order;
+- source-page comments for scans **5, 6, 13, 14, 15, 16**;
+- opening `*` and all source section boundaries;
+- direct address, sarcasm, ridicule, rhetorical questions, exclamations and repeated imagery;
+- quotation structure;
+- scan-15/16 `SOURCE DAMAGE` positions and visibly incomplete wording without contextual reconstruction;
+- frozen source-bearing Tamil choices, including the scan-16 anomaly `பேச்சுல`, carried provisionally as `pechchul` rather than silently repaired.
+
+T1 made **0 changes to the frozen Tamil source**. It is a close draft only and has not yet passed bilingual fidelity review.
 
 ## Publication-specific translation constraints
 
@@ -57,35 +73,39 @@ English titles remain **unfrozen** until the relevant article reaches translatio
 5. Preserve every Tamil source-page boundary in the English articles using comments such as `<!-- Tamil source: scan 5 -->`.
 6. Preserve documented `SOURCE DAMAGE` positions. Do **not** translate or reconstruct wording physically absent from the surviving copy.
 7. Translate from the frozen Tamil lexical witness even where P5 recorded a scan/baseline conflict. In particular, do not silently substitute scan-appearing `கல்லூரி`, `கண்ணை` or `பேச்சை` for frozen `கல்லுரி`, `கண்னை` or `பேச்சுல`.
-8. Scan-3 frozen `அயம்` is damaged/ambiguous. T1 must not guess a repaired Tamil word; use a source-bearing English strategy and record it in the review ledger if necessary.
+8. Scan-3 frozen `அயம்` is damaged/ambiguous. Article 2 T1 must not guess a repaired Tamil word; use a source-bearing English strategy and record it in the review ledger if necessary.
 9. Scan-4 advertisement material is outside both Kalaignar article bodies and is not to be imported into either English article.
 10. Publisher foreword `மன்றத்தில்` and publisher note `முக்கிய குறிப்பு` remain outside the two article translations unless a later activity explicitly creates separate translated front/back-matter records.
 
-## Initial terminology / voice setup
+## Terminology / voice state after Article 1 T1
 
-The living lexicon begins with conservative source-bearing decisions rather than exhaustive pre-translation normalisation:
+The living lexicon now records working Article 1 choices including:
 
-- `திராவிடம்` → **Dravidam** when used as the source political/civilisational noun;
+- `திராவிடம்` → **Dravidam**;
 - `திராவிடர்` → **Dravidians**;
-- adjectival `திராவிட` → contextual **Dravidian** where English grammar requires an adjective;
-- adjectival `ஆரிய` → **Aryan**; do not broaden into a different ideological label without source support;
+- adjectival `திராவிட` → **Dravidian**;
+- `திராவிட சம்பத்து` → working **Dravidian Wealth**;
 - `ஆனந்த விகடன்` → **Ananda Vikatan**;
-- `மகிஷாசுரமர்த்தனி` → **Mahishasura Mardini** unless a source-specific reason during T1–T4 requires another rendering;
-- source-specific mock labels / insults remain rhetorically marked; exact English wording is established article by article during T1–T4;
-- `ஐயர்` / `அய்யர்` source-form variation must not be mechanically homogenised before context review.
+- `விகடனார்` → **Vikatanar**;
+- `நகைச்சுவை குரங்கார்` → **Comedy Monkey**;
+- `ஆரிய ஆஞ்சநேயர்` → **Aryan Anjaneyar**;
+- `இனவெறி` / `இனப்பற்று` → **racial hatred** / **attachment to one's race**;
+- `ஆப்பசைத்த குரங்கு` → **wedge-meddling monkey**;
+- `குப்பை மேட்டுக் குயில்கள்` → **cuckoos of the garbage heap**;
+- frozen anomalous `பேச்சுல` → provisional source-bearing **pechchul**.
 
-The article title `திராவிட சம்பத்து`, the Article 2 title `ஐயர் அறிவிக்கிறார்!`, and difficult compounds such as `ஆரிய சம்பத்து` remain subject to contextual T1/T2/T4 review before final English forms are frozen.
+These are **not release-frozen at T1**. T2 must test them for semantic fidelity; T3 for voice; T4 for terminology/source handling.
 
 ## Gate sequence
 
 For each article:
 
 - **T0** — strict-reviewed Tamil source prerequisite + blob SHA — **2 / 2 PASS**
-- **T1** — complete close English draft
-- **T2** — bilingual fidelity review
-- **T3** — Kalaignar voice review
-- **T4** — terminology / quotation / citation / source audit
-- **T5** — final article verification
+- **T1** — complete close English draft — **1 / 2 PASS**
+- **T2** — bilingual fidelity review — **0 / 2**
+- **T3** — Kalaignar voice review — **0 / 2**
+- **T4** — terminology / quotation / citation / source audit — **0 / 2**
+- **T5** — final article verification — **0 / 2**
 
 After both articles reach T5:
 
@@ -94,8 +114,8 @@ After both articles reach T5:
 
 ## Exact next activity
 
-Execute **T1 — complete close English draft for Article 1 `திராவிட சம்பத்து` only** from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
+Execute **Article 1 T2 — bilingual fidelity review** from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` against T1 draft blob `06958bc15d198de42eb63f5a2cb33b64453134cc`.
 
-Create `translations/en/01-thiraavida-sampaththu.md`, translate every surviving Tamil paragraph in order, preserve source-page comments for scans **5, 6, 13, 14, 15, 16**, retain explicit source-damage gaps without reconstruction, and update the tracker / lexicon / review ledger / root handover.
+Compare every paragraph and clause for omissions, additions, logic, negatives, comparisons, names, quotations, repetitions, page-boundary comments and source-damage handling. Make only fidelity-required English corrections, record them in `translations/en/TRANSLATION_REVIEW.md`, update `translations/en/LEXICON.md` where necessary, and stop after T2.
 
-Stop after Article 1 T1. Do **not** perform T2 in the same activity.
+Do **not** perform T3 in the same activity.
