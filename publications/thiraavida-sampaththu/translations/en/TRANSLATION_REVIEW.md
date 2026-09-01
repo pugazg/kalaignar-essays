@@ -189,19 +189,50 @@ Final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`.
 ## Article 2 — `ஐயர் அறிவிக்கிறார்!`
 
 - T0 source prerequisite: **PASS**
-- T1 close draft: **NOT STARTED**
+- T1 close draft: **COMPLETE / PASS**
 - T2 bilingual fidelity review: **NOT STARTED**
 - T3 Kalaignar voice review: **NOT STARTED**
 - T4 terminology / quotation / citation / source audit: **NOT STARTED**
 - T5 verification: **NOT STARTED**
-- English title: **not frozen**
-- unresolved translation choices: source-form handling of `ஐயர்` / `அய்யர்`; damaged `அயம்`; quoted inscription terminology.
+- working English title: **Iyer Announces!** — T1 only / not frozen
+- source Tamil blob: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
+- T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
+- English metadata status: `draft`
+
+### Article 2 T1 close-draft scope
+
+T1 translated every surviving Article 2 body passage from the frozen Tamil authority in source order and created `02-aiyar-arivikkirar.md`. The draft preserves the Article 2 source-page comments for scans **12** and **3** and does not import publisher matter, the publisher note or scan-4 advertisements.
+
+### Article 2 T1 working source decisions
+
+1. Working title `ஐயர் அறிவிக்கிறார்!` → **Iyer Announces!**; title remains unfrozen.
+2. Source `ஐயர்` → **Iyer** and `அய்யர்` → **Ayyar** are deliberately distinguished rather than mechanically homogenised.
+3. Frozen damaged/ambiguous scan-3 `அயம்` is carried as source-bearing **ayam**; no guessed repair is supplied.
+4. `ஏனோதானோ` / `ஏனோதானோக்கள்` are carried as **Enothano / Enothanos**, preserving the unexplained mock/coined function without outside identification.
+5. Normal `கல்லூரி` is translated **College**, while frozen anomalous scan-3 `கல்லுரி` is carried as source-bearing **kalluri** rather than silently repaired; T2/T4 must audit this choice.
+6. The source inscription `மகா மகோபாத்யாய திராவிட வித்ய பூஷண ...` is carried as **Maha Mahopadhyaya Dravida Vidya Bhushana ...**, without importing an external inscription or explanatory expansion.
+7. `சாமிநாதய்யர்` / `சாமிநாத அய்யர்` are rendered **Saminatha Ayyar**, preserving the source's Ayyar-form naming rather than substituting a modern external name.
+8. The frozen first-paragraph quotation punctuation is irregular. T1 renders `நாட்டினரே...` and `திராவிடம்...` as two evident quoted units for readable English; quotation scope remains open for T2/T4 audit.
+9. `மொழி கற்கண்டு` is kept as the source-like image **language sugar-candy**, not smoothed into generic praise.
+
+### Article 2 T1 completeness result
+
+- surviving Tamil body covered: **all**;
+- source-page comments: **2 / 2 present and ordered**;
+- damaged/ambiguous `அயம்` guessed/repaired: **No**;
+- frozen `கல்லுரி` silently normalised: **No**;
+- outside identification added for `ஏனோதானோ`: **No**;
+- external inscription wording imported: **No**;
+- frozen Tamil body changes: **0**;
+- unresolved T1 blockers: **0**.
+
+**ARTICLE 2 T1 CLOSE DRAFT: PASS.**
 
 ## Current English gate counts
 
 - E0: **COMPLETE / PASS**
 - T0: **2 / 2 PASS**
-- T1: **1 / 2 COMPLETE**
+- T1: **2 / 2 COMPLETE**
 - T2: **1 / 2 COMPLETE**
 - T3: **1 / 2 COMPLETE**
 - T4: **1 / 2 COMPLETE**
@@ -212,8 +243,8 @@ Final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`.
 
 ## Exact next activity
 
-Execute **Article 2 T1 — complete close English draft for `ஐயர் அறிவிக்கிறார்!` only** from frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
+Execute **Article 2 T2 — bilingual fidelity review** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T1 English blob `1b70952ae377668162fcb35eb045e142a0597190`.
 
-Create `translations/en/02-aiyar-arivikkirar.md`, translate every surviving Tamil paragraph in source order, retain source-page comments for scans **12 and 3**, preserve damaged/ambiguous frozen `அயம்` without guessed repair, preserve source-form distinctions such as `ஐயர்` / `அய்யர்`, and keep quotation/inscription wording source-sensitive. Update the living lexicon and review ledger with only terms actually encountered.
+Compare every surviving clause and paragraph side by side. Audit omissions/additions, negatives and logical relationships, the `Iyer` / `Ayyar` distinction, source-bearing `ayam`, `Enothano(s)`, normal `College` versus frozen anomalous `kalluri`, the working title, quotation scope, inscription wording and both source-page comments. Make only fidelity-required corrections, record them here and in the lexicon, and stop after T2.
 
-Stop after Article 2 T1. **Do not perform Article 2 T2 in the same activity.**
+**Do not perform Article 2 T3 in the same activity.**
