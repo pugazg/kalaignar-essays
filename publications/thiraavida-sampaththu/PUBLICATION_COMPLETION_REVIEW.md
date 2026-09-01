@@ -56,7 +56,7 @@ P5 retained documented lexical-witness conflicts on scans **3, 4, 5 and 16**, pr
 - T3 voice-reviewed: **2 / 2**
 - T4 audited: **2 / 2**
 - T5 verified: **2 / 2**
-- E6 publication-wide consistency review: **NOT STARTED**
+- E6 publication-wide consistency review: **PASS**
 - E7 release closeout: **NOT STARTED**
 - English article bodies: **2 / 2**
 - unresolved translation blockers: **0**
@@ -101,10 +101,34 @@ Article 2 `ஐயர் அறிவிக்கிறார்!` has completed 
 
 **ARTICLE 2 T5 FINAL VERIFICATION: PASS / VERIFIED.**
 
+## E6 publication-wide English consistency review — PASS
+
+E6 reviewed both verified English articles together against the two frozen Tamil authorities.
+
+- Article 1 English authority: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
+- Article 2 English authority: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
+- recurring `Dravidam` / Dravidian terminology: **PASS**
+- Article 1 adjectival `Dravidian` vs Article 2 inscription `Dravida`: **PASS / deliberate source-bearing distinction**
+- source-bearing names and lexical anomalies: **PASS / preserved**
+- title style: **PASS**
+- quotation treatment: **PASS**
+- source-page comments: **8 / 8 total present and ordered**
+- source-damage/source-anomaly preservation: **PASS**
+- rhetorical consistency: **PASS**
+- accidental cross-article harmonisation: **none found**
+- English article body corrections during E6: **0**
+- English article metadata corrections during E6: **0**
+- frozen Tamil changes during E6: **0**
+- article gates reopened: **No**
+- source/release defects discovered: **0**
+- unresolved E6 blockers: **0**.
+
+**E6 PUBLICATION-WIDE ENGLISH CONSISTENCY REVIEW: PASS.**
+
 ## Exact next activity
 
-Execute **E6 — publication-wide English consistency review** across both verified articles.
+Execute **E7 — English release closeout** for `திராவிட சம்பத்து`.
 
-Review recurring `Dravidam` / Dravidian terminology, source-bearing name distinctions, title style, quotation treatment, source-page comments, source-anomaly preservation, rhetorical consistency and accidental cross-article harmonisation. Do not alter verified text merely for stylistic preference; only genuine publication-level consistency or source/release defects may reopen an article gate, and any reopening must be documented.
+Re-fetch both E6-passed English authorities and both frozen Tamil authorities, confirm T0–T5 and E6 remain durable, verify the translation tracker, lexicon, review ledger, translation plan and publication records are synchronized, confirm blockers remain zero, and if the release gate passes mark the English translation **COMPLETE / RELEASED / FROZEN**.
 
-Stop after E6. **Do not perform E7 in the same activity.**
+Stop after E7.
