@@ -88,7 +88,7 @@ Combined source audit: [`audit.md`](audit.md).
 - T3 voice-reviewed: **2 / 2**
 - T4 audited: **2 / 2**
 - T5 verified: **2 / 2**
-- E6 publication-wide consistency review: **NOT STARTED**
+- E6 publication-wide consistency review: **PASS**
 - E7 release closeout: **NOT STARTED**
 - English article bodies created: **2 / 2**
 - English translation blockers: **0**
@@ -99,8 +99,8 @@ English workspace:
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
-- [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) — **Article 1 VERIFIED**
-- [`translations/en/02-aiyar-arivikkirar.md`](translations/en/02-aiyar-arivikkirar.md) — **Article 2 VERIFIED**
+- [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) — **Article 1 VERIFIED / E6 PASS**
+- [`translations/en/02-aiyar-arivikkirar.md`](translations/en/02-aiyar-arivikkirar.md) — **Article 2 VERIFIED / E6 PASS**
 
 ## Article 1 — verified English boundary
 
@@ -133,10 +133,28 @@ English workspace:
 - frozen Tamil changes during T5: **0**
 - unresolved T5 blockers: **0**
 
+## E6 publication-wide English consistency review — PASS
+
+- Article 1 English authority: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
+- Article 2 English authority: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
+- recurring `Dravidam` / Dravidian vocabulary: **PASS**
+- Article 1 `Dravidian` versus Article 2 inscription `Dravida`: **PASS / deliberate source-form distinction**
+- source-bearing names/anomalies: **PASS / preserved**
+- title style: **PASS**
+- quotation handling: **PASS**
+- source-page comments: **8 / 8 total present and ordered**
+- rhetorical consistency: **PASS**
+- accidental cross-article harmonisation: **none found**
+- English body corrections: **0**
+- English metadata corrections: **0**
+- article gates reopened: **No**
+- frozen Tamil changes: **0**
+- unresolved E6 blockers: **0**
+
 ## Exact next activity
 
-Execute **E6 — publication-wide English consistency review** across both verified articles.
+Execute **E7 — English release closeout** for `திராவிட சம்பத்து`.
 
-Review recurring `Dravidam` / Dravidian terminology, source-bearing name distinctions, title style, quotation treatment, source-page comments, source-anomaly preservation, rhetorical consistency and accidental cross-article harmonisation. Do not alter verified text merely for stylistic preference; only genuine publication-level consistency or source/release defects may reopen an article gate, and any reopening must be documented.
+Re-fetch the two E6-passed English authorities and both frozen Tamil authorities, confirm all T0–T5 and E6 results remain durable, verify all release records are synchronized, confirm blockers remain zero, and if the release gate passes mark the English translation **COMPLETE / RELEASED / FROZEN**.
 
-**Stop after E6. Do not perform E7 in the same activity, and do not reopen the frozen Tamil bodies absent a genuine source-supported correction.**
+**Stop after E7. Do not reopen the frozen Tamil or verified English bodies absent a genuine source-supported or release-blocking defect.**
