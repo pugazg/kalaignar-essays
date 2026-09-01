@@ -8,8 +8,8 @@ source_tamil_blob_sha: "f856664d86695237a23d0ffc0bef088d32a82fe9"
 source_scan_pages: "48-49"
 source_printed_pages: "48; scan 48 has no visible printed numeral"
 language: "en"
-translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed, T3 voice-reviewed and T4 terminology/quotation/source-audited against the frozen Tamil assembly"
+translation_status: "verified"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed, T3 voice-reviewed, T4 terminology/quotation/source-audited and T5 final-verified against the frozen Tamil assembly"
 ---
 
 # Not a Poem — an Ocean of Tears!
