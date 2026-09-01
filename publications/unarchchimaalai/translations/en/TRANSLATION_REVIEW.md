@@ -6,7 +6,7 @@ Permanent guide: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TR
 
 ## Durable history
 
-The complete canonical review history through **Article 9 T4** is preserved byte-for-byte in [`TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md`](TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md). This file continues that history with Article 9 T5 and Article 10 T1–T4. No earlier review provenance is discarded.
+The complete canonical review history through **Article 9 T4** is preserved byte-for-byte in [`TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md`](TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md). This file continues that history with Article 9 T5 and Article 10 T1–T5. No earlier review provenance is discarded.
 
 ## Frozen source-authority matrix
 
@@ -23,7 +23,7 @@ The complete canonical review history through **Article 9 T4** is preserved byte
 | 9 | `அன்னை நாகம்மையார்!` | 45–47 | `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` |
 | 10 | `கவிதையல்ல - கண்ணீர்க்கடல் !` | 48–49 | `f856664d86695237a23d0ffc0bef088d32a82fe9` |
 
-## Verified Articles 1–9
+## Verified Articles 1–10
 
 | # | English title | Final verified English blob |
 |---:|---|---|
@@ -36,6 +36,7 @@ The complete canonical review history through **Article 9 T4** is preserved byte
 | 7 | 30-1-1948 | `6cfb28e2d83ba84ee2daa54606561479b61498b0` |
 | 8 | O Chaste Woman, Like You...! | `6b12e6b3cc09b6de402998bb3824e7a98808f885` |
 | 9 | Mother Nagammaiyar! | `204ffed012f4bd91b3077065f031d6b2db747854` |
+| 10 | Not a Poem — an Ocean of Tears! | `cee8ea3c33495615ffc988a1875d71e40f8224a3` |
 
 # Article 9 — `அன்னை நாகம்மையார்!` — T0–T5 COMPLETE / VERIFIED
 
@@ -55,7 +56,7 @@ The complete canonical review history through **Article 9 T4** is preserved byte
 
 T5 final-verified the complete T1–T4 chain against the frozen Tamil and source-page witnesses. All source labels, quotation scopes, ages/dates/numbers, `minor-kaali`, public-service/self-interest contrast, quoted `log`, horse/stable quotation, family-lamp declaration, flood-with-flood image, `many! many!`, never-drying life-river, old-man/Nagammaiyar exchange and final duty-surpassing-love close passed. No outside/web biographical wording, conventional spellings, alternate source forms or published translations were imported.
 
-# Article 10 — `கவிதையல்ல - கண்ணீர்க்கடல் !` — T1–T4 COMPLETE / VOICE-REVIEWED
+# Article 10 — `கவிதையல்ல - கண்ணீர்க்கடல் !` — T0–T5 COMPLETE / VERIFIED
 
 Source authority:
 
@@ -68,7 +69,8 @@ Source authority:
 - T1 draft: `a9864870a17c291304b1cab2480ea7eea4730e1a`
 - T2 fidelity-reviewed: `a85fb820c37f1a38cc904c79098cb7a858a5e3b4`
 - T3 voice-reviewed: `47a8325721d06594a0e5a4f408ee2e84678f634e`
-- T4-audited candidate: **`c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`**
+- T4-audited candidate: `c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`
+- final T5-verified English: **`cee8ea3c33495615ffc988a1875d71e40f8224a3`**
 
 ## T1 — close draft — COMPLETE / PASS
 
@@ -139,7 +141,36 @@ T4 audit checks:
 - frozen Tamil changed: **No**
 - T4 blockers: **0**
 
-**T4 RESULT: PASS. Article 10 remains `translation_status: voice-reviewed`. T4-audited English candidate: `c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`.**
+**T4 RESULT: PASS. T4-audited English candidate: `c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`.**
+
+## T5 — final article verification — COMPLETE / PASS
+
+T5 re-verified the complete T1–T4 chain against frozen Tamil blob `f856664d86695237a23d0ffc0bef088d32a82fe9`, T4 candidate `c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`, and source scans 48–49. It required **0 body corrections**.
+
+### T5 final checks
+
+- metadata article number/title/source path/source Tamil SHA/scans/printed-page field: **PASS**
+- complete verse-unit coverage and source lineation: **PASS**
+- bracketed subtitle and `* * *`: **PASS**
+- scan-48 and scan-49 page comments: **PASS**
+- questions, exclamations, repetition and direct apostrophe: **PASS**
+- `Selvam`, `Periyar`, `Panneer Selvam`, `Pandiyan moustache`: **PASS**
+- `Aryanism`, `dwarf-jackal Aryanism`, `Parppaniyam`: **PASS**
+- frozen raw `ப்ழச்சளை`: **PASS / retained verbatim; no repair**
+- `You have gone`: **PASS**
+- T4-restored `you hid away without watching—`: **PASS**
+- frozen `You left.` placement: **PASS**
+- Tiruvitaththar quotation scope: **PASS**
+- money/proletarian contrast: **PASS**
+- Oman Sea image and golden-Dravidian-land/Aryan-liquor sequence: **PASS**
+- `paupers` and guardian-of-Tanjai label: **PASS**
+- final fall/deeds/fall repetition: **PASS**
+- scan-49 publication-source note/printer imprint and scan-50 advertisement: **PASS / excluded**
+- outside identification, web wording, alternate scan lexical/order wording or published translation imported: **No**
+- frozen Tamil changed: **No**
+- unresolved T5 blockers: **0**
+
+**T5 RESULT: PASS. Article 10 advanced to `translation_status: verified`. Final verified English blob: `cee8ea3c33495615ffc988a1875d71e40f8224a3`.**
 
 ## Article review tracker
 
@@ -154,8 +185,8 @@ T4 audit checks:
 | 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 8 | பத்தினியே உன்போல்...! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 9 | அன்னை நாகம்மையார்! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
+| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 
 ## Exact next activity
 
-Execute **Article 10 T5 — final article verification** against frozen Tamil `f856664d86695237a23d0ffc0bef088d32a82fe9` and T4-audited English candidate `c1d0e7447efd2080d2f2e6a81510da20b8b05aa3`, scans **48–49**. Recheck the complete T1–T4 chain, metadata/source fields, every verse unit and line, bracketed subtitle, `* * *`, both page comments, questions/exclamations/repetition/direct apostrophe, all terminology/source labels/images, frozen `ப்ழச்சளை`, `Parppaniyam`, frozen `You left.` placement, Tiruvitaththar quotation, money/proletarian contrast, Oman Sea image, Dravidian-land/Aryan-liquor sequence, `paupers`, guardian-of-Tanjai label, the T4-restored `you hid away without watching—` relation, final fall/deeds/fall close and exclusion rules. Do not import alternate scan readings, outside identification, web wording or published translations. If T5 passes, advance Article 10 to `verified` and stop before E6.
+Execute **E6 — publication-wide English consistency review** across all ten T5-verified articles. Audit recurring names and epithets, Aryan/Dravidian and other ideological vocabulary, source-bearing terms/puns and unexplained forms, source/publication titles, quotation treatment, title style, tone consistency, accidental smoothing, completeness and the publication's durable source anomalies. Record every consistency correction or deliberate contextual exception, synchronize the lexicon/review/tracker/plan/handover, and **do not begin E7 in the same activity**.
