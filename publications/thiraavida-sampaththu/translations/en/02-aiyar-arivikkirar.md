@@ -8,8 +8,8 @@ source_tamil_blob_sha: "80b5bfd27953e55255ac4f015c3e7b965ee70ab6"
 source_scan_pages: "12, 3"
 source_printed_pages: "none visible"
 language: "en"
-translation_status: "draft"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; source-form distinctions and damaged/ambiguous frozen readings retained without guessed repair"
+translation_status: "fidelity-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T2 bilingual fidelity-reviewed; source-form distinctions and damaged/ambiguous frozen readings retained without guessed repair"
 ---
 
 # Iyer Announces!
@@ -24,8 +24,10 @@ Go at once to Chennai's seashore. At the gate of Presidency College stands
 
 <!-- Tamil source: scan 3 -->
 
-that ayam. You will know whether what I said is true or not. Once you know, tell those Enothanos—those things that lay somewhere—those place-seekers—to go and see for themselves; and along with that, read carefully what follows below.
+that ayam. You will know whether what I said is true or not. Once you know—
 
-The words written beneath the statue of Dr. U. Ve. Saminatha Ayyar at the gate of Presidency kalluri on Chennai's seashore:
+then tell those Enothanos—those things that lay somewhere—those place-seekers—to go and see; and along with that, read carefully what follows below.
+
+The words written beneath the statue of Dr. U. Ve. Saminathayyar at the gate of Presidency kalluri on Chennai's seashore:
 
 "Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar"—those are the words!
