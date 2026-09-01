@@ -192,13 +192,14 @@ Final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`.
 - T1 close draft: **COMPLETE / PASS**
 - T2 bilingual fidelity review: **COMPLETE / PASS**
 - T3 Kalaignar voice review: **COMPLETE / PASS**
-- T4 terminology / quotation / citation / source audit: **NOT STARTED**
+- T4 terminology / quotation / citation / source audit: **COMPLETE / PASS**
 - T5 verification: **NOT STARTED**
-- working English title: **Iyer Announces!** — T3 voice pass / not frozen
+- English title: **Iyer Announces!** — **T4 AUDITED / final verification pending T5**
 - source Tamil blob: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
 - T1 English draft blob entering T2: `1b70952ae377668162fcb35eb045e142a0597190`
 - T2 fidelity-reviewed English blob entering T3: `b7361d26a711d61938da24d33b3512ddf5653e53`
-- T3 voice-reviewed English blob: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
+- T3 voice-reviewed English blob entering T4: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
+- T4 source-audited English blob entering T5: `9b2795e6c66dea08fdf46fcf7903550001e1a401`
 - English metadata status: `voice-reviewed`
 
 ### Article 2 T1 close-draft scope
@@ -214,7 +215,7 @@ T1 translated every surviving Article 2 body passage from the frozen Tamil autho
 5. Normal `கல்லூரி` is translated **College**, while frozen anomalous scan-3 `கல்லுரி` is carried as source-bearing **kalluri** rather than silently repaired.
 6. The source inscription `மகா மகோபாத்யாய திராவிட வித்ய பூஷண ...` is carried as **Maha Mahopadhyaya Dravida Vidya Bhushana ...**, without importing an external inscription or explanatory expansion.
 7. T1 initially rendered both `சாமிநாதய்யர்` and `சாமிநாத அய்யர்` as **Saminatha Ayyar**; T2 subsequently separated the fused and spaced source forms.
-8. The frozen first-paragraph quotation punctuation is irregular. T1 renders `நாட்டினரே...` and `திராவிடம்...` as two evident quoted units for readable English; quotation scope remains open for the formal T4 source audit.
+8. The frozen first-paragraph quotation punctuation is irregular. T1 renders `நாட்டினரே...` and `திராவிடம்...` as two evident quoted units for readable English; T4 later formally audited this treatment.
 9. `மொழி கற்கண்டு` is kept as the source-like image **language sugar-candy**, not smoothed into generic praise.
 
 ### Article 2 T1 completeness result
@@ -248,7 +249,7 @@ T2 re-fetched frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T
 - `ஏனோதானோ` / `ஏனோதானோக்கள்` → **Enothano / Enothanos**: **PASS / source-bearing**;
 - normal `கல்லூரி` → **College** and frozen anomalous `கல்லுரி` → **kalluri**: **PASS / distinction retained**;
 - `மொழி கற்கண்டு` → **language sugar-candy**: **fidelity PASS**;
-- first-paragraph irregular quotation punctuation: T1's two evident quoted units are **T2 fidelity-acceptable**; formal quotation/source audit remains for T4;
+- first-paragraph irregular quotation punctuation: T1's two evident quoted units are **T2 fidelity-acceptable**;
 - final inscription **`Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar`**: **PASS / no external wording imported**;
 - source-page comments for scans **12** and **3**: **2 / 2 present and ordered**;
 - frozen Tamil body changes during T2: **0**;
@@ -292,6 +293,51 @@ T3 read the T2-secured English as English while continuously checking the frozen
 
 **ARTICLE 2 T3 KALAIGNAR VOICE REVIEW: PASS.**
 
+### Article 2 T4 audit scope
+
+T4 re-fetched frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T3 English blob `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`, then audited the English against the frozen witness and permanent translation guide for:
+
+- working title **Iyer Announces!**;
+- `Iyer` / `Ayyar` and `Dravidam`;
+- source-bearing `Enothano` / `Enothanos`;
+- damaged/ambiguous `ayam`;
+- normal `College` versus frozen anomalous `kalluri`;
+- narrative fused `Saminathayyar` versus inscription `Saminatha Ayyar`;
+- inscription title `Maha Mahopadhyaya Dravida Vidya Bhushana`;
+- first-paragraph quotation scope and punctuation anomaly;
+- final inscription quotation wording;
+- metadata source path/blob/scan range;
+- source-page comments for scans **12** and **3**.
+
+### Article 2 T4 terminology / quotation / source decisions
+
+1. **Title audited.** `ஐயர் அறிவிக்கிறார்!` → **Iyer Announces!** preserves the source-form `ஐயர்` and the declarative force of `அறிவிக்கிறார்`; final release verification remains T5.
+2. **Source-form distinctions audited.** `ஐயர்` / `அய்யர்` remain **Iyer / Ayyar**; `சாமிநாதய்யர்` remains **Saminathayyar** while inscription `சாமிநாத அய்யர்` remains **Saminatha Ayyar**.
+3. **Source-bearing anomalies audited.** Frozen `அயம்` remains **ayam** and frozen `கல்லுரி` remains **kalluri**; neither is repaired from context or alternate scan readings.
+4. **Mock/coined label audited.** `ஏனோதானோ` / `ஏனோதானோக்கள்` remain **Enothano / Enothanos** without outside identification.
+5. **Inscription audited.** `மகா மகோபாத்யாய திராவிட வித்ய பூஷண டாக்டர் சாமிநாத அய்யர்` remains **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**. No external or modernised inscription text was imported.
+6. **Quotation anomaly formally audited.** The frozen first paragraph opens a quotation before `நாட்டினரே...` but does not contain a matching visible closing quotation mark before the next quoted line. The English retains the established two evident quoted units for readability. This is a documented translation-layer treatment, not a reconstruction of missing Tamil punctuation.
+7. **Metadata and trace comments audited.** `source_tamil`, frozen blob SHA, scan range `12, 3`, and both source-page comments are correct and complete.
+
+### Article 2 T4 result
+
+- English body corrections required: **0**;
+- translation metadata/provenance update: **1**;
+- title: **T4 AUDITED**;
+- terminology/source-bearing forms: **PASS**;
+- quotation/source anomaly handling: **PASS / documented**;
+- final inscription wording: **PASS**;
+- source-page comments: **2 / 2 PASS**;
+- metadata source path/blob/scan range: **PASS**;
+- outside inscription wording imported: **0**;
+- frozen Tamil body changes: **0**;
+- publisher/front/back matter imported: **0**;
+- unresolved T4 blockers: **0**.
+
+T4 source-audited English blob entering T5: `9b2795e6c66dea08fdf46fcf7903550001e1a401`.
+
+**ARTICLE 2 T4 TERMINOLOGY / QUOTATION / CITATION / SOURCE AUDIT: PASS.**
+
 ## Current English gate counts
 
 - E0: **COMPLETE / PASS**
@@ -299,7 +345,7 @@ T3 read the T2-secured English as English while continuously checking the frozen
 - T1: **2 / 2 COMPLETE**
 - T2: **2 / 2 COMPLETE**
 - T3: **2 / 2 COMPLETE**
-- T4: **1 / 2 COMPLETE**
+- T4: **2 / 2 COMPLETE**
 - T5: **1 / 2 COMPLETE**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
@@ -307,8 +353,8 @@ T3 read the T2-secured English as English while continuously checking the frozen
 
 ## Exact next activity
 
-Execute **Article 2 T4 — terminology / quotation / citation / source audit** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T3 English blob `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`.
+Execute **Article 2 T5 — final article verification** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T4 source-audited English blob `9b2795e6c66dea08fdf46fcf7903550001e1a401`.
 
-Audit the working title **Iyer Announces!**, `Iyer` / `Ayyar`, `Dravidam`, `Enothano(s)`, source-bearing `ayam`, normal `College` versus frozen `kalluri`, narrative `Saminathayyar` versus inscription `Saminatha Ayyar`, `Maha Mahopadhyaya Dravida Vidya Bhushana`, the first-paragraph quotation scope, final inscription wording, metadata and both source-page comments. Make only source/terminology/quotation corrections required by the frozen witness.
+Re-verify complete surviving coverage, title **Iyer Announces!**, all T4-established terminology/source-bearing forms, the documented first-paragraph quotation treatment, final inscription wording, metadata and both source-page comments. If PASS, change `translation_status` to `verified` and record the final verified English blob.
 
-**Stop after Article 2 T4. Do not perform Article 2 T5 in the same activity.**
+**Stop after Article 2 T5. Do not perform E6 in the same activity.**
