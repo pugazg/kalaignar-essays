@@ -6,7 +6,7 @@ Permanent guide: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TR
 
 ## Durable history
 
-The complete canonical review history through **Article 9 T4** is preserved byte-for-byte in [`TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md`](TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md). This file continues that history with Article 9 T5 and Article 10 T1–T5. No earlier review provenance is discarded.
+The complete canonical review history through **Article 9 T4** is preserved byte-for-byte in [`TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md`](TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md). This file continues that history with Article 9 T5, Article 10 T1–T5 and the E6 publication-wide consistency review. No earlier review provenance is discarded.
 
 ## Frozen source-authority matrix
 
@@ -185,8 +185,70 @@ T5 re-verified the complete T1–T4 chain against frozen Tamil blob `f856664d866
 | 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 8 | பத்தினியே உன்போல்...! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 9 | அன்னை நாகம்மையார்! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
+| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
+
+# E6 — publication-wide English consistency review — COMPLETE / PASS
+
+E6 reviewed all ten T5-verified English articles as a single publication. Authority remained the frozen Tamil assemblies and established repository records. The preserved history sidecars were consulted only for provenance of decisions made before the Article 9/10 canonical reconciliation; they did not replace the canonical lexicon or review ledger. No web wording, external history, alternate scan lexical reading or published translation was imported.
+
+## E6 classification and findings
+
+| Audit area | Classification | Result |
+|---|---|---|
+| Recurring names and author-chosen epithets | **consistent + deliberate contextual exceptions** | `Periyar`, `Tiruvitaththar`, `Selvam`-family labels and other repeated forms are stable; Gandhi and Article 9 honorific/name variants follow immediate source labels. |
+| Epic-name conventions | **deliberate contextual/source-form exceptions** | `Kambar` / `Kamban` and Article 8 source forms (`Karnan`, `Indran`, `Arjunan`, `Bhimar`, `Dharmar`, `Panchali`, etc.) remain source-governed; no mechanical conventionalisation. |
+| `Aryan` / `Aryanism` vocabulary | **consistent + contextual forms** | `ஆரியம்` remains `Aryanism`; adjectival/source compounds remain `Aryan clan`, `Aryan forest`, `Aryan liquor`, etc. |
+| `Dravidam` / `Dravidian` / `Dravidians` | **consistent + grammatical/source-form exceptions** | `திராவிடம்` remains `Dravidam`; `திராவிடர்` remains `Dravidians`; adjectival compounds remain `Dravidian ...`. |
+| `Brahmin` / `Parppanar` / `Vaidheegam` family | **deliberate source-term distinctions** | `பிராமணர்` stays `Brahmin`; `பார்ப்பனர்` family stays source-bearing `Parppanar` forms; `Vediyars` remains separate; noun `Vaidheegam` and contextual `Vaidheega madmen` are preserved. |
+| `Harijan` / `Arijan` | **deliberate source-witness exception** | Article 6 `Harijan` and Article 8 `Arijan journal` remain distinct because the frozen Tamil witnesses differ. |
+| Recurring translated vocabulary | **consistent** | `God-ism`, `syrupy speech`, `javvadu`, `Oman Sea`, `Tiruvitaththar`, `proletarian` vocabulary and established ideological terms remain consistent where the source function recurs. |
+| Source-bearing transliterations / puns / insults | **consistent / preserve oddity** | No speculative repair required; established raw or transliterated forms retain their source-bearing function and polemical force. |
+| Publication/source titles and citations | **consistent + witness-sensitive** | Source titles and periodical labels remain as established; Article 5 translated award and source-English parenthetical remain separate witnesses. |
+| Quotation boundaries and quoted passages | **consistent** | Article 4 verse, Article 5 source-English parenthetical, Article 8 scan-43→44 literary quotation and Article 7 source-irregular ending remain correctly treated. |
+| English article-title style | **consistent** | All ten titles preserve their established source punctuation, dates/numerals and rhetorical title force; no homogenising restyle required. |
+| Voice / directness / sarcasm / ridicule / commands / questions / exclamations / repetition | **consistent** | No later-article academic distancing, politeness softening or publication-wide stylistic flattening requiring correction was found. |
+| Completeness / page-boundary comments | **consistent** | All ten article units remain complete against their frozen authorities and retain required Tamil-source scan-boundary comments. |
+| Durable source anomalies | **consistent / deliberate non-regression** | All recorded publication anomalies remain intact; none disclosed a source/fidelity defect requiring gate reopening. |
+
+## E6 deliberate exceptions recorded
+
+The following differences were specifically rechecked and must **not** be mechanically harmonised in E7 or later reuse:
+
+1. `Dravidam` / `Dravidians` / adjectival `Dravidian` according to the immediate frozen Tamil form.
+2. Article 4 `Kambar` / `Kamban` according to `கம்பர்` / `கம்பன்`.
+3. Article 7 `Gandhiyar`, `revered Gandhi`, `Mohan Das Gandhi...` versus Article 8 `Gandhiji`, each following its source label/epithet.
+4. `Brahmin` / `non-Brahmin` versus `Parppanar` / `Parppanan` / `Parppanars` / `non-Parppanar`; `Vediyars` remains separately source-bearing.
+5. Article 7 noun `Vaidheegam` versus Article 8 contextual `Vaidheega madmen`.
+6. Article 6 `Harijan` versus Article 8 `Arijan journal`.
+7. Article 6 `Oriental College` versus frozen later witness `Oriyantal College`.
+8. Article 5 translated `Soviet Union Hero` versus source-English `(Hero of the Soviet union)`.
+9. Article 9 `Ramasami` / `Ramasamiyar`, `Nagammaiyar` / `Nagamma`, `Ammaiyar`, `Periyar` according to immediate source form.
+10. Source-bearing and unresolved forms such as `themmangu`, `Aththaan`, `paaraiyu`, `sel`, `kabothi`, `sodha`, `mathith thalaivar`, `soga poogam`, `sukkunooraakkam`, `thegiduthatham`, `Bhagavat anugraham`, `azhgaaga`, `pan murai` and frozen raw `ப்ழச்சளை` remain unexpanded/unrepaired unless source policy is explicitly reopened.
+
+## E6 durable anomaly check
+
+- scan 19 source-recovered Article 4 body: **PASS**.
+- scan 20 visible printed numeral `1` only: **PASS**.
+- scan 32 frozen irregular lexical/order sequence: **PASS / unreconstructed**.
+- corrected scan 33/34 physical boundary: **PASS**.
+- Article 7 ending on scan 41 at `வரலாற்றை வீணாக்கிய`, with deliberately incomplete English ending: **PASS**.
+- scan 42 source-recovered `பதில் இல்லை.` → `No answer.`: **PASS**.
+- scan 43 `* * *`: **PASS**.
+- scan 48 frozen `ப்ழச்சளை`: **PASS / no repair**.
+- scan 49 frozen `விட்டாய்.` → `You left.` placement: **PASS**.
+- scan 49 publication-source note/printer imprint outside Article 10: **PASS**.
+- scan 50 advertisement outside all articles: **PASS**.
+
+## E6 correction result
+
+- English body corrections: **0**.
+- source/fidelity defects discovered: **0**.
+- frozen Tamil changes: **0**.
+- article final-English blob changes: **0 / 10**; the ten verified blobs above remain unchanged.
+- E6 blockers: **0**.
+
+**E6 RESULT: PASS.**
 
 ## Exact next activity
 
-Execute **E6 — publication-wide English consistency review** across all ten T5-verified articles. Audit recurring names and epithets, Aryan/Dravidian and other ideological vocabulary, source-bearing terms/puns and unexplained forms, source/publication titles, quotation treatment, title style, tone consistency, accidental smoothing, completeness and the publication's durable source anomalies. Record every consistency correction or deliberate contextual exception, synchronize the lexicon/review/tracker/plan/handover, and **do not begin E7 in the same activity**.
+Execute **E7 — English release closeout**. Do not reopen individual article bodies unless E7 identifies a genuine release-blocking or source-supported defect.
