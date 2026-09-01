@@ -171,11 +171,11 @@ T4 made **0 body corrections**.
 - external citation required: **No**
 - T4 blockers: **0**
 
-**T4 RESULT: PASS. T4-audited English candidate: `1332512bbff94f5647dbbdfa7dfe9b1b0a2479d8` is not the English blob; the English candidate remains `1332512bbff94f5647dbbdfa7dfe9b1b0a2479d8`.**
+**T4 RESULT: PASS. T4-audited English candidate: `1332512bbffdd618078813444c2cf24ebcea07ff`.**
 
 ## T5 — final article verification — COMPLETE / PASS
 
-T5 re-verified the complete T1–T4 chain against frozen Tamil blob `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` and T4 candidate `1332512bbff94f5647dbbdfa7dfe9b1b0a2479d8`. It required **0 body corrections**.
+T5 re-verified the complete T1–T4 chain against frozen Tamil blob `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` and T4 candidate `1332512bbffdd618078813444c2cf24ebcea07ff`. It required **0 body corrections**.
 
 ### T5 final checks
 
