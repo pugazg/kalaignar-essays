@@ -380,7 +380,7 @@ T5 re-verified the complete T1–T4 chain against frozen Tamil blob `bac121257d2
 
 **T5 RESULT: PASS. Article 7 advanced to `translation_status: verified`. Final verified English blob: `6cfb28e2d83ba84ee2daa54606561479b61498b0`.**
 
-# Article 8 — `பத்தினியே உன்போல்...!` — T1–T2 COMPLETE / FIDELITY-REVIEWED
+# Article 8 — `பத்தினியே உன்போல்...!` — T1–T3 COMPLETE / VOICE-REVIEWED
 
 Source authority:
 
@@ -391,7 +391,8 @@ Source authority:
 - English article: [`08-paththiniye-unpol.md`](08-paththiniye-unpol.md)
 - English title: **O Chaste Woman, Like You...!**
 - T1 draft blob: `af9c82ea95b65bc7e632ddf45ab1754217bffc39`
-- T2 fidelity-reviewed blob: **`eccf5a9b0b2e042a115b8214ff0dc12333a225fe`**
+- T2 fidelity-reviewed blob: `eccf5a9b0b2e042a115b8214ff0dc12333a225fe`
+- T3 voice-reviewed blob: **`2c5101765a57a01dce05e82d006a45d00f967d90`**
 
 ## T1 — close draft — COMPLETE / PASS
 
@@ -454,6 +455,42 @@ T2 non-regression checks:
 
 **T2 RESULT: PASS. Article 8 advanced to `translation_status: fidelity-reviewed`. T2 English blob: `eccf5a9b0b2e042a115b8214ff0dc12333a225fe`.**
 
+## T3 — Kalaignar voice review — COMPLETE / PASS
+
+T3 reviewed the T2 English as English against the frozen Tamil and made **7 meaning-neutral voice/cadence interventions**:
+
+1. scan 42 Karnan taunt — moved `too` to the end of `she had love for Karnan too` for a sharper mocking beat while preserving the T2 meaning;
+2. scan 43 `There is no fault in that either` → **`No fault in that either`** for a more abrupt defensive reply;
+3. scan 43 young-man paragraph — recast the internal question as **`The young man who asked the question turns away, thinking: why argue with someone older than I am?`** without changing the source action or claim;
+4. scan 44 `experiences this ecstasy` → **`finds this ecstasy`** for stronger directness;
+5. scan 44 old-toddy/new-pot sentence — replaced the explanatory `saying,` attachment with a colon before the source-like refrain, preserving meaning and keeping the prose moving;
+6. scan 44 `take and hold out` → **`take up and hold out`** for tighter cadence;
+7. scan 44 `speak with disgust, saying` → **`say in disgust`**, preserving T2's source-scope correction while removing verbal drag.
+
+T3 non-regression checks:
+
+- metadata/source Tamil SHA/scans/printed-page field: **PASS**
+- complete paragraph/clause coverage and all T2 meanings: **PASS**
+- all source-page comments 42–44: **PASS / unchanged and ordered**
+- scan-42 source-recovered `No answer.`: **PASS / unchanged**
+- opening dialogue quotation scopes, questions and exclamations: **PASS**
+- repeated `philosophical meaning` defence: **PASS / retained**
+- scan-43 `* * *`: **PASS / unchanged**
+- command `Read it!`: **PASS / retained as command**
+- `1937`, page `43`, `Villi Bharata Vasanam`, `Sri Jath Govindaraja Iyengar`: **PASS / unchanged**
+- scan-43→44 literary quotation: **PASS / one continuous quotation across page comment**
+- repeated erotic verbs `joining and joining`, `frolicking and frolicking`, `dancing and dancing`: **PASS / unchanged**
+- insults `wretch`, `Vaidheega madmen`, `Ruiner of the clan! Blind fool!`: **PASS / no softening**
+- `pancha bhutas`, `Gandhiji`, `Arijan`, all epic/source-label choices: **PASS / unchanged**
+- frozen/source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`: **PASS / unchanged**
+- source-quoted `Paaraa Mugam Unnaiye`: **PASS / unchanged and not externally identified**
+- quoted title refrain and closing `What can be done? The future alone must answer.`: **PASS / retained**
+- outside epic/history identification, web wording, published translation, alternate scan lexical form or source-normalising repair imported: **No**
+- frozen Tamil changed: **No**
+- T3 blockers: **0**
+
+**T3 RESULT: PASS. Article 8 advanced to `translation_status: voice-reviewed`. T3 English blob: `2c5101765a57a01dce05e82d006a45d00f967d90`.**
+
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
@@ -465,10 +502,10 @@ T2 non-regression checks:
 | 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 8 | பத்தினியே உன்போல்...! | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
+| 8 | பத்தினியே உன்போல்...! | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
 | 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
 
 ## Exact next activity
 
-Execute **Article 8 T3 — Kalaignar voice review** for `பத்தினியே உன்போல்...!` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` and T2 English blob `eccf5a9b0b2e042a115b8214ff0dc12333a225fe`, scans **42–44**. Preserve every T2 meaning/source decision. Review only English directness, dialogue bite, sarcasm/ridicule, commands, insults, rhetorical questions/exclamations, repeated erotic/literary verbs, the scan-43→44 quotation cadence and the closing challenge. Preserve scan-42 source-recovered `No answer.`, scan-43 `* * *`, `Arijan`, frozen/source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`, and source-quoted `Paaraa Mugam Unnaiye`. Do not import alternate scan readings, outside epic/history wording, web wording or published translations. If T3 passes, advance Article 8 to `voice-reviewed`, synchronize records, and **stop before Article 8 T4**.
+Execute **Article 8 T4 — terminology / quotation / citation / source audit** for `பத்தினியே உன்போல்...!` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` and T3 English blob `2c5101765a57a01dce05e82d006a45d00f967d90`, scans **42–44**. Audit all terminology/proper-name/source-title decisions, all dialogue/quotation scopes, `1937` and page `43`, all source-page comments, scan-42 source-recovered `No answer.`, scan-43 `* * *`, the scan-43→44 literary quotation, `Arijan`, frozen/source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`, source-quoted `Paaraa Mugam Unnaiye`, the quoted title refrain and all polemical/erotic source-bearing language. Do not import alternate scan readings, outside epic/history identifications, web wording or published translations. Article 8 must remain `voice-reviewed` through T4 and **stop before T5**.
