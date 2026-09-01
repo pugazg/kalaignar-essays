@@ -4,13 +4,13 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Status
 
-**Articles 1–10 T5 VERIFIED. E6 PUBLICATION-WIDE CONSISTENCY REVIEW: PASS.** E7 release closeout remains.
+**Articles 1–10 T5 VERIFIED. E6 PASS. E7 PASS / ENGLISH RELEASE COMPLETE / FROZEN.**
 
 > **Translate the language; do not neutralise the voice.**
 
 ## Durable history
 
-The complete canonical lexicon history through **Article 9 T4** is preserved byte-for-byte in [`LEXICON_HISTORY_THROUGH_ARTICLE9_T4.md`](LEXICON_HISTORY_THROUGH_ARTICLE9_T4.md). This current file continues from that durable history and records the Article 9 T5 closure, Article 10 T1–T5, and E6 publication-wide consistency review. No earlier lexical decision is discarded.
+The complete canonical lexicon history through **Article 9 T4** is preserved byte-for-byte in [`LEXICON_HISTORY_THROUGH_ARTICLE9_T4.md`](LEXICON_HISTORY_THROUGH_ARTICLE9_T4.md). This current file continues from that durable history and records the Article 9 T5 closure, Article 10 T1–T5, E6 publication-wide consistency review and E7 release closeout. No earlier lexical decision is discarded.
 
 ## Permanent rules
 
@@ -160,6 +160,20 @@ E6 reviewed all ten T5-verified English articles against the frozen Tamil author
 - final verified English article blob SHAs changed by E6: **0 / 10**; all ten baseline blobs above remain authoritative.
 - E6 blockers: **0**.
 
-## Next lexicon activity
+## E7 — release closeout
 
-Execute **E7 — English release closeout**. Do not reopen the ten verified English bodies unless E7 identifies a genuine release-blocking or source-supported defect.
+E7 re-confirmed the lexicon against the unchanged live release matrix.
+
+- ten English release blobs: **10 / 10 unchanged from E6**;
+- ten frozen Tamil authorities: **10 / 10 unchanged**;
+- E6 consistent recurring decisions: **preserved**;
+- all deliberate contextual/source-witness exceptions above: **preserved / frozen**;
+- speculative repairs or conventionalisations introduced during E7: **0**;
+- article-body changes during E7: **0**;
+- release blockers: **0**.
+
+**E7 RESULT: PASS. This lexicon is the canonical frozen terminology/non-regression record for the released `உணர்ச்சிமாலை` English translation.**
+
+## Release status
+
+No lexicon work remains for this publication absent a genuine source-supported or release-blocking defect. Future publications must establish their own publication-specific lexicon decisions rather than mechanically inheriting this file.
