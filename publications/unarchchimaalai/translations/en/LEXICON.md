@@ -4,13 +4,13 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Status
 
-**Articles 1–10 T5 VERIFIED.** Publication-wide consistency/release freezing remains deferred until E6 and E7 are complete.
+**Articles 1–10 T5 VERIFIED. E6 PUBLICATION-WIDE CONSISTENCY REVIEW: PASS.** E7 release closeout remains.
 
 > **Translate the language; do not neutralise the voice.**
 
 ## Durable history
 
-The complete canonical lexicon history through **Article 9 T4** is preserved byte-for-byte in [`LEXICON_HISTORY_THROUGH_ARTICLE9_T4.md`](LEXICON_HISTORY_THROUGH_ARTICLE9_T4.md). This current file continues from that durable history and records the Article 9 T5 closure plus Article 10 work. No earlier lexical decision is discarded.
+The complete canonical lexicon history through **Article 9 T4** is preserved byte-for-byte in [`LEXICON_HISTORY_THROUGH_ARTICLE9_T4.md`](LEXICON_HISTORY_THROUGH_ARTICLE9_T4.md). This current file continues from that durable history and records the Article 9 T5 closure, Article 10 T1–T5, and E6 publication-wide consistency review. No earlier lexical decision is discarded.
 
 ## Permanent rules
 
@@ -109,6 +109,57 @@ The terminology/quotation/citation/source audit otherwise passed: title and brac
 
 T5 made **0 body corrections**. It final-verified T4 candidate `c1d0e7447efd2080d2f2e6a81510da20b8b05aa3` against frozen Tamil `f856664d86695237a23d0ffc0bef088d32a82fe9` and scans 48–49. Metadata, title/subtitle, verse units and lineation, `* * *`, both page comments, questions/exclamations/direct apostrophe/repetition, all terminology and imagery, frozen raw `ப்ழச்சளை`, `You have gone`, T4-restored `you hid away without watching—`, frozen `You left.` placement, Tiruvitaththar quotation scope, money/proletarian contrast, Oman Sea image, golden-Dravidian-land/Aryan-liquor sequence, `paupers`, guardian-of-Tanjai label and final fall/deeds/fall close all passed. The scan-49 publication-source note and printer imprint and the scan-50 advertisement remain correctly excluded. No outside identification, web wording, alternate scan reading or published translation was imported. T5 blockers: **0**.
 
+## E6 — publication-wide English consistency review — PASS
+
+E6 reviewed all ten T5-verified English articles against the frozen Tamil authorities, the canonical lexicon/review records, and the preserved pre-reconciliation history only where earlier provenance was needed. No web wording, outside historical identification, alternate scan lexical reading or published translation was imported.
+
+### Cross-article terms confirmed consistent
+
+- `திராவிடம்` → `Dravidam` remains consistent in Articles 2, 5 and 7; adjectival `Dravidian` and plural `Dravidians` remain source-governed rather than mechanically collapsed into `Dravidam`.
+- `ஆரியம்` → `Aryanism` remains consistent in Articles 6 and 10; adjectival/source compounds such as `Aryan clan`, `Aryan forest` and `Aryan liquor` remain contextual forms.
+- `திருவிடத்தார்` → `Tiruvitaththar` is consistent in Articles 1 and 10.
+- `ஓமான் கடல்` / `ஓமான்கடல்` → `Oman Sea` is consistent in Articles 7 and 10.
+- proletarian vocabulary established in Article 2 remains consistent with Article 10 `proletarian character`.
+- `கடவுளீயம்` → `God-ism` is consistent in Articles 2 and 4.
+- `பாகு மொழி` → `syrupy speech` is consistent in Articles 3 and 6.
+- `ஜவ்வாது` / `சவ்வாது` → `javvadu` remains consistent across Articles 4 and 8 while preserving the frozen Tamil witnesses upstream.
+
+### Deliberate contextual / source-witness exceptions — preserve, do not harmonise
+
+| Area | Deliberate E6 decision |
+|---|---|
+| `திராவிடம்` / `திராவிடர்` / adjectival compounds | Preserve `Dravidam` / `Dravidians` / `Dravidian ...` according to the immediate frozen Tamil grammatical/source form. |
+| `கம்பர்` / `கம்பன்` | Preserve `Kambar` / `Kamban`; the Article 4 alternation follows distinct source forms and is not a naming inconsistency. |
+| Gandhi labels | Preserve Article 7 `Gandhiyar`, `revered Gandhi`, `Mohan Das Gandhi...` and Article 8 `Gandhiji`; each follows Kalaignar's immediate source label/epithet. |
+| `பிராமணர்` vs `பார்ப்பனர்` | Preserve `Brahmin` / `non-Brahmin` separately from `Parppanar`, `Parppanan`, `Parppanars` / `non-Parppanar`; do not erase the source distinction. |
+| `வேதியர்` | Preserve `Vediyars`; do not conflate with `Brahmin` or `Parppanar`. |
+| `வைதீகம்` / `வைதீகப் பித்தர்கள்` | Preserve noun `Vaidheegam` and contextual adjective `Vaidheega madmen`. |
+| `ஹரிஜன` vs frozen `அரிஜன்` | Preserve Article 6 `Harijan` and Article 8 `Arijan journal`; they are distinct frozen source witnesses. |
+| Oriental-college witness | Preserve Article 6 `Oriental College` and frozen later `Oriyantal College`; do not normalise the source-witness difference. |
+| Article 5 award witness | Preserve translated `Soviet Union Hero` separately from source-English `(Hero of the Soviet union)`. |
+| Article 9 personal/honorific forms | Preserve `Ramasami` / `Ramasamiyar`, `Nagammaiyar` / `Nagamma`, `Ammaiyar`, and `Periyar` according to the immediate source label. |
+| Epic-name forms | Preserve Article 8 `Karnan`, `Indran`, `Arjunan`, `Bhimar`, `Dharmar`, `Panchali` and related source forms; do not conventionalise them from outside knowledge. |
+| Source-bearing oddities | Preserve established forms including `themmangu`, `Aththaan`, `paaraiyu`, `sel`, `kabothi`, `sodha`, `mathith thalaivar`, `soga poogam`, `sukkunooraakkam`, `thegiduthatham`, `Bhagavat anugraham`, `azhgaaga`, `pan murai` and frozen raw `ப்ழச்சளை`; no speculative repair. |
+
+### E6 source/anomaly non-regression check
+
+- scan 19 source-recovered Article 4 text and scan 20 visible printed numeral `1` only: **PASS**.
+- frozen scan 32 supplied lexical/order sequence: **PASS / deliberately unreconstructed**.
+- corrected scan 33/34 Article 6 boundary: **PASS**.
+- Article 7 frozen ending at scan 41 `வரலாற்றை வீணாக்கிய` and deliberately incomplete English ending: **PASS**.
+- scan 42 source-recovered `பதில் இல்லை.` / `No answer.` and scan 43 `* * *`: **PASS**.
+- frozen scan 48 `ப்ழச்சளை` and scan 49 `விட்டாய்.` / `You left.` placement: **PASS**.
+- scan 49 publication-source note/printer imprint and scan 50 advertisement remain outside Article 10: **PASS**.
+- all ten article units retain their required Tamil-source page-boundary comments: **PASS**.
+- quotation boundaries, source titles, direct address, commands, rhetorical questions, sarcasm, ridicule, insults, exclamations, repetition and source-bearing roughness: **PASS**; no publication-wide smoothing or academic distancing was required.
+
+### E6 correction result
+
+- English article body corrections required: **0**.
+- frozen Tamil changes: **0**.
+- final verified English article blob SHAs changed by E6: **0 / 10**; all ten baseline blobs above remain authoritative.
+- E6 blockers: **0**.
+
 ## Next lexicon activity
 
-Execute **E6 — publication-wide English consistency review** across all ten T5-verified articles. Audit recurring names and epithets, Aryan/Dravidian and other ideological vocabulary, source-bearing terms and puns, source titles, quotation treatment, title style, tone consistency, accidental smoothing, completeness and durable source anomalies. Do not begin E7 in the same activity.
+Execute **E7 — English release closeout**. Do not reopen the ten verified English bodies unless E7 identifies a genuine release-blocking or source-supported defect.
