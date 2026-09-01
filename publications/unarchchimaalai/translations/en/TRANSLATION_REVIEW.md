@@ -50,7 +50,7 @@ Permanent guide: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TR
 - T5 body corrections: **0**
 - unresolved blockers: **0**
 
-# Article 4 — `இராவணன் நம் பாட்டன்`
+# Article 4 — `இராவணன் நம் பாட்டன்` — T0–T5 COMPLETE / VERIFIED
 
 Source authority:
 
@@ -63,7 +63,8 @@ Source authority:
 - T1 draft blob: `ce50394af45c8bb69e003c3d3fd8de097cf34808`
 - T2 fidelity-reviewed blob: `1e1f2db8a603e068921d8fb6b9b3e2e4a4c04447`
 - T3 voice-reviewed blob: `3b28938aa7c884e7de04d0532482b220c6c73a5b`
-- T4-audited English candidate blob: **`324cf12bd42cb55e0a8db621965d93b82b383648`**
+- T4-audited English candidate blob: `324cf12bd42cb55e0a8db621965d93b82b383648`
+- final T5-verified English blob: **`03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`**
 
 ## T1 — complete close draft — COMPLETE / PASS
 
@@ -206,6 +207,32 @@ T4 audited the T3 candidate against the frozen Tamil authority, living lexicon, 
 
 **T4 RESULT: PASS. Article 4 remains `translation_status: voice-reviewed` pending T5.**
 
+## T5 — final article verification — COMPLETE / PASS
+
+T5 re-verified the complete T1–T4 chain against frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7` and T4 candidate `324cf12bd42cb55e0a8db621965d93b82b383648`. It required **0 body corrections**.
+
+### T5 final checks
+
+- metadata article number/title/source path/source Tamil SHA: **PASS**;
+- source scans **19–29** and printed-page field: **PASS**;
+- all scan comments 19–29 present and ordered: **PASS**;
+- scan 19 source-recovered Gemini omission provenance: **PASS / retained explicitly**;
+- scan 20 visible printed witness `1`: **PASS / not reconstructed as `19`**;
+- T4-corrected scan 20→21 `Kumudam` source-boundary placement: **PASS**;
+- T4-corrected scan 28→29 Jawaharlal Nehru quotation transition: **PASS**;
+- complete terminology/proper-name/source-title set: **PASS**;
+- source-sensitive `sagath-rakshakan`: **PASS / unchanged**;
+- scan-22 `frenzy to bear` and scan-23 frozen `frenzy to twist`: **PASS / distinct witnesses retained**;
+- quotation boundaries after T4 corrections: **PASS**;
+- scan 25→26 Kambar verse four-line structure, page transition and separate prose gloss: **PASS**;
+- final Jawaharlal Nehru quotation and book reference: **PASS / source-derived only**;
+- rhetorical questions, exclamations, direct address, sarcasm, ridicule, insults and repeated stinking-puddle imagery: **PASS**;
+- outside/web wording, historical/epic reconstruction, published Kambar translation or alternate scan lexical reading imported: **No**;
+- frozen Tamil changed: **No**;
+- unresolved T5 blockers: **0**.
+
+**T5 RESULT: PASS. Article 4 advanced to `translation_status: verified`. Final verified English blob: `03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`.**
+
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
@@ -213,7 +240,7 @@ T4 audited the T3 candidate against the frozen Tamil authority, living lexicon, 
 | 1 | உணர்ச்சி மாலை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 2 | புரட்சி வளர்ந்த கதை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 3 | போகிறான்;போகிறான்..! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 4 | இராவணன் நம் பாட்டன் | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
+| 4 | இராவணன் நம் பாட்டன் | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `not-started` | PASS | — | — | — | — | — |
 | 6 | 3, 57, 90. | `not-started` | PASS | — | — | — | — | — |
 | 7 | 30-1-1948 | `not-started` | PASS | — | — | — | — | — |
@@ -223,4 +250,4 @@ T4 audited the T3 candidate against the frozen Tamil authority, living lexicon, 
 
 ## Exact next activity
 
-Execute **Article 4 T5 — final article verification** against frozen Tamil blob `006f2f75dbc3eea796170a29aee0befd162522e7` and T4-audited English candidate blob `324cf12bd42cb55e0a8db621965d93b82b383648`, scans **19–29**. Reconfirm the complete T1–T4 chain, metadata/source SHA, all scan comments and printed-page witnesses, scan-19 source-recovered provenance, scan-20 visible `1`, terminology/proper names/source titles, quotation boundaries, distinct source-sensitive witnesses, the scan 25→26 Kambar verse/prose boundary and the scan 28→29 Nehru quotation transition. If all checks pass, mark Article 4 `verified`, record the final English blob, synchronize all records, and **stop before Article 5 T1**.
+Execute **Article 5 T1 — complete close English draft** for `இங்கல்ல! இரஷ்யாவில்` against frozen Tamil blob `c8ac4d7c241832e07bbb24c5cee935588673f4ac`, scans **30–32**, printed pages **30–31; scan 30 has no visible printed numeral**. Translate paragraph by paragraph from the frozen Tamil assembly, preserve all scan comments, rhetorical force and the frozen scan-32 lexical/order sequence, record provisional/source-sensitive terminology in the living lexicon, set `translation_status: draft` only after complete coverage, synchronize records, and **stop before Article 5 T2**.
