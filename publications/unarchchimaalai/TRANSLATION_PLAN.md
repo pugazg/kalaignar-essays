@@ -43,7 +43,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 | 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 8 | பத்தினியே உன்போல்...! | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
+| 8 | பத்தினியே உன்போல்...! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
 
@@ -56,6 +56,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - Article 5 final English: `c689ff90f08d389a5e7ebc4849c30d58dfe81766`
 - Article 6 final English: `cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`
 - Article 7 final English: `6cfb28e2d83ba84ee2daa54606561479b61498b0`
+- Article 8 final English: `6b12e6b3cc09b6de402998bb3824e7a98808f885`
 
 ## Article 7 — T0–T5 COMPLETE / VERIFIED
 
@@ -78,7 +79,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - outside/web historical wording, alternate scan reading or published translation imported: **No**
 - blockers: **0**
 
-## Article 8 — T1–T4 COMPLETE / SOURCE-AUDITED
+## Article 8 — T0–T5 COMPLETE / VERIFIED
 
 - Tamil title: **பத்தினியே உன்போல்...!**
 - English title: **O Chaste Woman, Like You...!**
@@ -87,19 +88,21 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - printed pages: **42–43; scan 42 has no visible printed numeral**
 - T1 draft English: `af9c82ea95b65bc7e632ddf45ab1754217bffc39`
 - T2 fidelity-reviewed English: `eccf5a9b0b2e042a115b8214ff0dc12333a225fe`
-- T3 voice-reviewed / T4-audited English candidate: **`2c5101765a57a01dce05e82d006a45d00f967d90`**
+- T3 voice-reviewed / T4-audited English candidate: `2c5101765a57a01dce05e82d006a45d00f967d90`
+- final T5-verified English: **`6b12e6b3cc09b6de402998bb3824e7a98808f885`**
 - T2 fidelity corrections: **4** — `Harijan` → source-bearing `Arijan`; `fell in love with Karnan` → `had love for Karnan`; restored the negated `தொடாமல்...துவளாமல்...மறைந்து விட வில்லை` sequence and `swooning`; removed the unsupported physical turn-away from `வெறுத்துப் பேசிவிட்டு`.
 - T3 meaning-neutral voice/cadence interventions: **7** — sharpened the Karnan-taunt word order, `There is no fault...` → `No fault...`, recast the young man's thought for direct cadence, `experiences` → `finds`, tightened the old-toddy/new-pot sentence with a colon, `take and hold out` → `take up and hold out`, and `speak with disgust, saying` → `say in disgust`.
 - T4 body corrections: **0**
-- terminology/proper-name/source-title set: **T4 PASS**
-- dialogue and quoted-material boundaries: **T4 PASS**
-- scan-42 source-recovered `No answer.` and scan-43 `* * *`: **T4 PASS**
-- scan-43→44 literary quotation continuity: **T4 PASS**
-- `1937` / page `43`: **T4 PASS**
-- `Arijan`, source labels and epic forms: **T4 PASS / no outside normalisation**
-- frozen/source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`: **T4 PASS / no alternate-scan repair**
-- source-quoted `Paaraa Mugam Unnaiye` and quoted title refrain: **T4 PASS**
-- repeated erotic/literary language, insults and old-toddy/new-pot image: **T4 PASS / force retained**
+- T5 body corrections: **0**
+- terminology/proper-name/source-title set: **T5 VERIFIED**
+- dialogue and quoted-material boundaries: **T5 PASS**
+- scan-42 source-recovered `No answer.` and scan-43 `* * *`: **T5 PASS**
+- scan-43→44 literary quotation continuity: **T5 PASS**
+- `1937` / page `43`: **T5 PASS**
+- `Arijan`, source labels and epic forms: **T5 VERIFIED / no outside normalisation**
+- frozen/source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`: **T5 PASS / no alternate-scan repair**
+- source-quoted `Paaraa Mugam Unnaiye` and quoted title refrain: **T5 PASS**
+- repeated erotic/literary language, insults and old-toddy/new-pot image: **T5 PASS / force retained**
 - outside epic/history wording, web wording or published translation imported: **No**
 - blockers: **0**
 
@@ -115,4 +118,4 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 
 ## Exact next activity
 
-Execute **Article 8 T5 — final article verification** for `பத்தினியே உன்போல்...!` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` and T4-audited English candidate `2c5101765a57a01dce05e82d006a45d00f967d90`, scans **42–44**. Re-verify the complete T1–T4 chain, metadata/source fields, paragraph/clause coverage, all dialogue/quotation boundaries, source citation, all source-page comments and source-sensitive terminology. Preserve scan-42 source-recovered `No answer.`, scan-43 `* * *`, the scan-43→44 literary quotation, `Arijan`, frozen/source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`, source-quoted `Paaraa Mugam Unnaiye`, quoted title refrain and the article's repeated erotic/polemical force. Do not import alternate scan readings, outside epic/history wording or published translations. If T5 passes, advance Article 8 to `verified`, synchronize records, and **do not begin Article 9 in the same activity**.
+Execute **Article 9 T1 — complete close English draft** for `அன்னை நாகம்மையார்!` against frozen Tamil blob `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`, scans **45–47**, printed pages **45–46; scan 45 has no visible printed numeral**. Translate the entire frozen article paragraph by paragraph and clause by clause; preserve all source-page comments, quotation/question/exclamation structure, dates/ages/numbers, affectionate and polemical register, and source-bearing names/labels. Establish Article 9 terms from the frozen source, especially `பெரியார்`, `ராமசாமி`, `நாகம்மையார்` / `நாகம்மா`, and the youthful marriage vows; do not import outside biographical wording or silently conventionalise source forms. Record provisional Article 9 terminology, update review/tracker/handover, and **stop before Article 9 T2**.
