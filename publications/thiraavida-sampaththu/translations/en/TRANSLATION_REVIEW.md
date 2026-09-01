@@ -30,14 +30,15 @@ The Tamil archival layer is **COMPLETE / STRICT-REVIEWED / FROZEN** after P5 **1
 - T1 close draft: **COMPLETE / PASS**
 - T2 bilingual fidelity review: **COMPLETE / PASS**
 - T3 Kalaignar voice review: **COMPLETE / PASS**
-- T4 terminology / quotation / citation / source audit: **NOT STARTED**
+- T4 terminology / quotation / citation / source audit: **COMPLETE / PASS**
 - T5 verification: **NOT STARTED**
-- working English title: **Dravidian Wealth** — T2 semantic pass / T3 voice pass; not frozen
+- English title: **Dravidian Wealth** — T4 established; T5 verification pending
 - source Tamil blob: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
 - T1 baseline English blob entering T2: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
 - T2 fidelity-reviewed English blob entering T3: `155299ac2b71b0aaba431f63d3c882191a3c710b`
-- T3 voice-reviewed English blob: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
-- English metadata status: `voice-reviewed`
+- T3 voice-reviewed English blob entering T4: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
+- T4 source-audited English blob: `961ca3f724238ed699dba2607fa2d1be681f0ec4`
+- English metadata status: `voice-reviewed` — `verified` is reserved for T5
 
 ### Article 1 T2 review scope
 
@@ -72,38 +73,23 @@ T3 read the T2-secured English as English while continuously checking the frozen
 
 ### Article 1 T3 voice/cadence interventions — 17
 
-1. Tightened the opening from `They lie there with their eyes shut` to **`They lie there, eyes shut.`** to restore the clipped opening cadence.
-2. Tightened the `stunt` image to **`mouth shut, tail tucked in`**, preserving the source's compressed mockery.
-3. Changed the abstract `If there is benefit in that pounce` to **`If the pounce pays`**, keeping the same condition while restoring bite.
-4. Changed `has made a pounce at us` to **`has pounced at us`** without changing the attack image.
-5. Changed `The heading is Dravidian Wealth!` to the sharper **`The title: Dravidian Wealth!`**.
-6. Tightened `This is what it wrote first ... I kept turning it over and over` to **`That is how it begins ... I turned it over and over`**.
-7. Naturalised the rhetorical question `is saying this an ordinary matter?` to **`is that an ordinary thing to say?`** while keeping it a challenge, not an explanation.
-8. Replaced explanatory `therefore` with the abrupt **`It has written it. So I was amazed,`**.
-9. Tightened `We offer our thanks;` to **`We give thanks—`**, preserving the sarcastic pivot into `wisdom has dawned`.
-10. Changed `Notice what he uses ... for` to the direct **`Look what he uses ... for`**, and `supposedly` to the source-like **`it seems`**.
-11. Tightened `What has arisen in us is not...` to **`What we have is not...`**, preserving the racial-hatred/racial-attachment contrast.
-12. Added only idiomatic force to the contradiction challenge: **`at least manage to write without contradicting himself`**; the source meaning is unchanged.
-13. Recast the wedge-monkey climax into **`Finally, he sets out to find support for it—and becomes the wedge-meddling monkey. Poor thing!`**, restoring the source's comic punch and separate `பாபம்!` beat.
-14. Replaced detached `This is the course Vikatar's explanation takes!` with direct **`See where Vikatar's explanation goes!`**, and tightened the following denial/acceptance contrast.
-15. Recast the knowing/concealing line as **`It isn't that he doesn't know. He knows—and still has a little courage left to conceal it!`**, preserving the T2-secured concessive meaning while restoring taunt and cadence.
-16. Tightened the tree challenge to **`I certainly don't imagine that ... you'll climb down from the tree tomorrow itself.`**, preserving the metaphor and certainty.
-17. Recast the final purpose clause as **`I had to say this only so that the public would not be deceived...`**, bringing the speaker's direct intervention forward without changing the claim.
-
-### T3 deliberately retained without smoothing
-
-T3 did **not** neutralise or conventionalise the following source-bearing forms:
-
-- working title **Dravidian Wealth**;
-- `Vikatanar` and `Vikatar`-family distinctions;
-- `Comedy Monkey`;
-- `Aryan Anjaneyar`;
-- `racial hatred` / `attachment to one's race`;
-- `racial clarion call`;
-- `wedge-meddling monkey`;
-- `cuckoos of the garbage heap`;
-- frozen anomalous scan-16 `பேச்சுல` → source-bearing **`pechchul`** pending T4;
-- all visibly broken scan-15/16 fragments.
+1. Tightened the opening to **`They lie there, eyes shut.`**.
+2. Tightened the `stunt` image to **`mouth shut, tail tucked in`**.
+3. Changed the abstract condition to **`If the pounce pays`**.
+4. Changed `has made a pounce at us` to **`has pounced at us`**.
+5. Changed the title lead to **`The title: Dravidian Wealth!`**.
+6. Tightened the first Vikatan reaction to **`That is how it begins ... I turned it over and over`**.
+7. Naturalised the challenge to **`is that an ordinary thing to say?`**.
+8. Replaced explanatory `therefore` with **`It has written it. So I was amazed,`**.
+9. Tightened `We offer our thanks;` to **`We give thanks—`**.
+10. Changed `Notice what he uses ... for` to **`Look what he uses ... for`**, and `supposedly` to **`it seems`**.
+11. Tightened `What has arisen in us is not...` to **`What we have is not...`**.
+12. Added idiomatic force to **`at least manage to write without contradicting himself`**.
+13. Recast the wedge-monkey climax as **`Finally, he sets out to find support for it—and becomes the wedge-meddling monkey. Poor thing!`**.
+14. Replaced detached exposition with **`See where Vikatar's explanation goes!`** and tightened the denial/acceptance contrast.
+15. Recast the knowing/concealing taunt as **`It isn't that he doesn't know. He knows—and still has a little courage left to conceal it!`**.
+16. Tightened the tree challenge while preserving its certainty and metaphor.
+17. Recast the final purpose clause as **`I had to say this only so that the public would not be deceived...`**.
 
 ### T3 completeness / non-regression result
 
@@ -117,6 +103,59 @@ T3 did **not** neutralise or conventionalise the following source-bearing forms:
 - unresolved voice blockers: **0**.
 
 **ARTICLE 1 T3 KALAIGNAR VOICE REVIEW: PASS.**
+
+### Article 1 T4 audit scope
+
+T4 audited the T3 English against the frozen Tamil authority and the translation guide for:
+
+- article title and recurring `திராவிட` / `திராவிடம்` / `திராவிடர்` handling;
+- `Ananda Vikatan`, `Vikatanar`, `Vikatar` and `Ananda Vikatar` source-form distinctions;
+- `Mahishasura Mardini`, `Dravida Nadu`, `Maheswaran`, `agraharam` and `ammamis`;
+- ideological vocabulary `racial hatred`, `attachment to one's race` and `racial clarion call`;
+- mock epithets `Comedy Monkey`, `Aryan Anjaneyar`, `wedge-meddling monkey`, `cuckoos of the garbage heap`;
+- quotation boundaries and source-English material inside quotations;
+- all six source-page comments and all four source-damage comments;
+- frozen anomalous scan-16 `பேச்சுல` handling;
+- metadata source path, frozen Tamil blob and scan-page range.
+
+### Article 1 T4 body/source correction — 1
+
+**`மித் (Myth)` source form preserved more exactly.**  
+T3 English: `a myth (Myth)`  
+T4 English: `a mit (Myth)`  
+Reason: the frozen Tamil quote contains the Tamil transliteration `மித்` followed by the source's parenthesised English `Myth`. Rendering both as English `myth` flattened that bilingual source form. T4 keeps source-bearing `mit` while retaining `(Myth)` exactly as the quoted source presents it.
+
+### Article 1 T4 established terminology / source decisions
+
+T4 established the Article 1 forms recorded in `LEXICON.md`, including:
+
+- title `திராவிட சம்பத்து` → **Dravidian Wealth**;
+- noun `திராவிடம்` → **Dravidam**;
+- group noun `திராவிடர்` → **Dravidians**;
+- adjectival `திராவிட` → **Dravidian**;
+- `திராவிட நாடு` → **Dravida Nadu**;
+- publication-name `ஆனந்த விகடன்` / `ஆனந்தவிகடன்` → **Ananda Vikatan**;
+- personified/direct-address forms `விகடனார்`, `விகடர்`, `விகடரே`, `ஆனந்தவிகடர்` → **Vikatanar**, **Vikatar**, **Vikatar!**, **Ananda Vikatar**;
+- `மகிஷாசுரமர்த்தனி` → **Mahishasura Mardini**;
+- `நகைச்சுவை குரங்கார்` → **Comedy Monkey**;
+- `ஆரிய ஆஞ்சநேயர்` → **Aryan Anjaneyar**;
+- `ஆப்பசைத்த குரங்கு` → **wedge-meddling monkey**;
+- `குப்பை மேட்டுக் குயில்கள்` → **cuckoos of the garbage heap**;
+- frozen anomalous `பேச்சுல` → source-bearing **pechchul**, explicitly not repaired from the alternate scan reading.
+
+### Article 1 T4 quotation / citation / source result
+
+- quotation boundaries: **PASS**;
+- source-page comments: **6 / 6 present and ordered**;
+- scan-15 damage boundaries: **2 / 2 present**;
+- scan-16 damage boundaries: **2 / 2 present**;
+- metadata source Tamil path/blob/scan range: **PASS**;
+- hidden torn wording reconstructed: **0**;
+- frozen Tamil body changes: **0**;
+- publisher/front/back matter imported: **0**;
+- unresolved T4 blockers: **0**.
+
+**ARTICLE 1 T4 TERMINOLOGY / QUOTATION / CITATION / SOURCE AUDIT: PASS.**
 
 ## Article 2 — `ஐயர் அறிவிக்கிறார்!`
 
@@ -136,7 +175,7 @@ T3 did **not** neutralise or conventionalise the following source-bearing forms:
 - T1: **1 / 2 COMPLETE**
 - T2: **1 / 2 COMPLETE**
 - T3: **1 / 2 COMPLETE**
-- T4: **0 / 2**
+- T4: **1 / 2 COMPLETE**
 - T5: **0 / 2**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
@@ -144,8 +183,8 @@ T3 did **not** neutralise or conventionalise the following source-bearing forms:
 
 ## Exact next activity
 
-Execute **Article 1 T4 — terminology / quotation / citation / source audit** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T3 English blob `1d2e7dae1c00200ab402fa43722167e73e8568a4`.
+Execute **Article 1 T5 — final article verification** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T4 English blob `961ca3f724238ed699dba2607fa2d1be681f0ec4`.
 
-Audit the working title, recurring `திராவிட` / `திராவிடம்` / `திராவிடர்` forms, `Vikatanar` / `Vikatar`, mock labels and insults, `Mahishasura Mardini`, quotation scope, source-page comments, damage comments, the frozen anomalous `பேச்சுல` handling, and all source-sensitive transliterations. Make only terminology/source-audit corrections, document them here and in the lexicon, and stop after T4.
+Re-confirm T1–T4 provenance, article completeness, title, metadata, every source-page comment, all quotation boundaries, all four damage boundaries, established terminology/source-bearing forms and absence of hidden reconstruction or imported publisher matter. Make only corrections required by a concrete verification defect. If all checks pass, set `translation_status: verified`, record the final English blob, synchronize project records, and stop after Article 1 T5.
 
-Do **not** perform T5 in the same activity.
+Do **not** begin Article 2 T1 in the same activity.
