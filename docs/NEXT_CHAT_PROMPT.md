@@ -16,9 +16,9 @@ Active publication:
 
 ### LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` **first**. The last confirmed live HEAD when this continuation prompt was prepared was:
+Fetch live `main` **first**. The last confirmed live HEAD immediately before this continuation prompt was synchronized was:
 
-`ddd26a7267185899238622b0016c6ca01f3a6c8d` — `Complete Unarchchimaalai Article 10 T5 handover`
+`ab36f6255069ca79b79d78e0ccaae0b7555e88c9` — `Prepare Kalaignar essays fresh-window handover`
 
 If `main` has advanced beyond that checkpoint, preserve the newer durable state and continue from it. **Do not reset, overwrite, repeat or reopen later completed work merely because this prompt contains an older checkpoint.**
 
