@@ -11,6 +11,8 @@ This document is a reusable operational guide. It does **not** replace the perma
 
 When there is any conflict, those permanent documents control.
 
+For a fresh-window continuation of the **current active work**, [`NEXT_CHAT_PROMPT.md`](NEXT_CHAT_PROMPT.md) may be used as a copy/paste convenience. It is never authoritative over live `main` or the root handover. [`START_NEW_ESSAY_WORK_PROMPT.md`](START_NEW_ESSAY_WORK_PROMPT.md) is for intake of a new supplied work, not continuation of the current active publication.
+
 ## 1. Core principle
 
 > **The supplied scan is the controlling source.**
@@ -59,6 +61,21 @@ Before creating or changing files:
 8. continue existing work if present—never create a duplicate publication tree.
 
 The filename is a clue, not source authority.
+
+### 3A. Mandatory startup for a fresh-window continuation
+
+When continuing an already-active publication in another chat/window:
+
+1. **fetch live `main` first** and record the current HEAD;
+2. treat live `main` as authoritative over any SHA or status copied into a prior prompt;
+3. read the root `HANDOVER.md` completely before deciding what remains;
+4. read `docs/NEXT_CHAT_PROMPT.md` when present, but treat it only as a convenience summary;
+5. read the active publication's plan/tracker/lexicon/review records and the files named by the handover;
+6. if `main` has advanced beyond the prompt checkpoint, preserve the newer durable state and continue from it;
+7. never reset, overwrite, repeat or reopen later completed work merely because an older prompt records an earlier boundary;
+8. re-fetch each target file before writing, especially if another window may also be active.
+
+A stale prompt is not a rollback instruction.
 
 ## 4. Publication-first structure
 
@@ -265,6 +282,20 @@ Record:
 
 There must remain **one authoritative live handover**: the root `HANDOVER.md`.
 
+### 15A. Continuation-prompt discipline
+
+`docs/NEXT_CHAT_PROMPT.md` may summarize the active work for a new window, but it must never become a second authoritative handover.
+
+Whenever the active boundary materially changes:
+
+- update `HANDOVER.md` first or in the same synchronized activity;
+- update `NEXT_CHAT_PROMPT.md` if the fresh-window instructions or checkpoint have materially changed;
+- keep an explicit **LIVE MAIN IS AUTHORITATIVE** rule in the prompt;
+- record a checkpoint SHA only as “last confirmed when prepared,” never as a forced reset target;
+- if the prompt and handover disagree, re-fetch live `main` and follow the newer durable repository state.
+
+Historical snapshots or sidecars may preserve provenance, but canonical current records must remain clearly identified.
+
 ## 16. Completion sequence for a publication
 
 A future publication should normally move through these gates:
@@ -282,10 +313,32 @@ A future publication should normally move through these gates:
 
 Do not skip a gate merely because the text looks easy.
 
+### 16A. E6 consistency-review discipline
+
+E6 is a review of an already T5-verified publication; it is **not** permission to homogenise source-sensitive differences.
+
+For every apparent inconsistency, classify it as:
+
+- **consistent**;
+- **deliberate contextual/source-witness exception**; or
+- **correction required**.
+
+During E6:
+
+- compare English to the frozen Tamil authorities and living lexicon;
+- preserve different English forms when Kalaignar's source label, grammatical role, rhetorical function or source witness genuinely differs;
+- do not import web wording, external history, alternate scan lexical readings or published translations;
+- never modify frozen Tamil merely to make English terminology uniform;
+- if an English body change is required, record the exact E6 correction and update its final blob SHA in all dependent records;
+- if a finding reveals a true Tamil/source defect rather than an English consistency issue, explicitly reopen the affected source/translation gate instead of silently repairing it under E6;
+- synchronize the lexicon, review ledger, English tracker, translation plan and root handover;
+- stop after E6 and leave E7 as the next activity unless the handover explicitly says otherwise.
+
 ## 17. What “proceed with next activity” means
 
 When the user says **“Proceed with next activity”**:
 
+- fetch live `main` first;
 - read the root handover;
 - identify the exact next activity already recorded there;
 - execute it completely without asking the user to restate context;
