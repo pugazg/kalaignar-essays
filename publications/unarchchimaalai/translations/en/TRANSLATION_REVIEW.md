@@ -380,6 +380,43 @@ T5 re-verified the complete T1–T4 chain against frozen Tamil blob `bac121257d2
 
 **T5 RESULT: PASS. Article 7 advanced to `translation_status: verified`. Final verified English blob: `6cfb28e2d83ba84ee2daa54606561479b61498b0`.**
 
+# Article 8 — `பத்தினியே உன்போல்...!` — T1 COMPLETE / DRAFT
+
+Source authority:
+
+- Tamil article: `../../articles/08-paththiniye-unpol.md`
+- frozen Tamil blob: `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`
+- source scans: **42–44**
+- printed pages: **42–43; scan 42 has no visible printed numeral**
+- English article: [`08-paththiniye-unpol.md`](08-paththiniye-unpol.md)
+- English title: **O Chaste Woman, Like You...!**
+- T1 draft blob: **`af9c82ea95b65bc7e632ddf45ab1754217bffc39`**
+
+## T1 — close draft — COMPLETE / PASS
+
+T1 translated the complete frozen Article 8 paragraph by paragraph and clause by clause across scans 42–44.
+
+- metadata/source Tamil SHA/scans/printed-page field: **PASS**
+- complete paragraph/clause coverage: **PASS**
+- all three source-page comments 42–44 present and ordered: **PASS**
+- scan-42 source-recovered `பதில் இல்லை.`: **PASS / translated `No answer.`**
+- all opening dialogue quotations/questions/exclamations: **represented**
+- scan-43 source-visible `* * *`: **PASS / preserved**
+- source citation `1937` and page `43`: **PASS**
+- source title `வில்லிபாரத வசனம்`: **provisional `Villi Bharata Vasanam`; no outside normalisation**
+- scan-43→44 literary quotation: **one continuous quotation across page comment / PASS**
+- sexual imagery and repeated `கூடிக் கூடி / குலவிக் குலவி / ஆடியாடி`: **represented without softening**
+- polemical insults `தருதலை`, `வைதீகப் பித்தர்கள்`, `குடிகேடா`, `குருடா`: **represented without neutralisation**
+- frozen scan-42 `அனுக்ரகம்`: **source-sensitive provisional `anugraham`; scan alternate not imported**
+- frozen scan-43 `அழ்காக`: **source-sensitive provisional `azhgaaga`; scan alternate not imported**
+- frozen scan-44 `பன் முறை`: **source-sensitive provisional `pan murai`; parenthetical `(not once)` retained**
+- frozen scan-44 `ஓருருவாகிப்`: **translated as `becoming one form`; scan alternate not imported**
+- source-quoted `பாரா முகம் உன்னையே`: **provisionally retained as `Paaraa Mugam Unnaiye`; no outside identification/translation**
+- no external epic/history identification, web wording or published translation imported: **PASS**
+- T1 blockers: **0**
+
+**T1 RESULT: PASS. Article 8 is `translation_status: draft`.**
+
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
@@ -390,11 +427,11 @@ T5 re-verified the complete T1–T4 chain against frozen Tamil blob `bac121257d2
 | 4 | இராவணன் நம் பாட்டன் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 8 | பத்தினியே உன்போல்...! | `not-started` | PASS | — | — | — | — | — |
+| 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
+| 8 | பத்தினியே உன்போல்...! | `draft` | PASS | **PASS** | — | — | — | — |
 | 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
 
 ## Exact next activity
 
-Execute **Article 8 T1 — complete close English draft** for `பத்தினியே உன்போல்...!` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`, scans **42–44**. Translate the complete frozen article paragraph by paragraph and clause by clause; preserve all source-page comments, quotation/question/exclamation structure, source-bearing terminology, scan-42 source-recovered `பதில் இல்லை.` and scan-43 `* * *`. Follow the frozen Tamil assembly rather than scan-appearing alternate lexical forms, record provisional Article 8 terminology and T1 provenance, synchronize trackers/handover, and **stop before Article 8 T2**.
+Execute **Article 8 T2 — bilingual fidelity review** for `பத்தினியே உன்போல்...!` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` and T1 English blob `af9c82ea95b65bc7e632ddf45ab1754217bffc39`, scans **42–44**. Re-read the complete Tamil and English paragraph by paragraph and clause by clause. Verify no omissions/additions, all dialogue and quotation scopes, questions/exclamations, scan-42 source-recovered `பதில் இல்லை.`, scan-43 `* * *`, the scan-43→44 literary quotation, source citation `1937` / page `43`, epic/source labels, sexual imagery, insults and provisional source-sensitive forms (`கன்னத்தால்`, `அனுக்ரகம்`, `அழ்காக`, `பன் முறை`, `ஓருருவாகிப்`, `பாரா முகம் உன்னையே`). Do not import scan-appearing alternate lexical forms, outside epic/history wording, web wording or published translations. If T2 passes, advance only to `fidelity-reviewed`, synchronize records, and **stop before Article 8 T3**.
