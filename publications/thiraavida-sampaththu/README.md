@@ -50,28 +50,49 @@ The book is heavily damaged. Large pieces of paper are missing from multiple sca
 
 Reverse-side show-through, ageing, stains and pencil folio marks are also visible. These are kept separate from printed text.
 
-## Article assemblies
+## Final strict-reviewed article assemblies
 
-1. [`articles/01-thiraavida-sampaththu.md`](articles/01-thiraavida-sampaththu.md) — scans **5–6, 13–16** — P3 complete / P4 source-complete.
-2. [`articles/02-aiyar-arivikkirar.md`](articles/02-aiyar-arivikkirar.md) — scans **12, 3** — P3 complete / P4 source-complete.
+1. [`articles/01-thiraavida-sampaththu.md`](articles/01-thiraavida-sampaththu.md) — scans **5–6, 13–16** — **P5 PASS / strict-reviewed** — blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
+2. [`articles/02-aiyar-arivikkirar.md`](articles/02-aiyar-arivikkirar.md) — scans **12, 3** — **P5 PASS / strict-reviewed** — blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
-Both assemblies preserve the reconstructed reading order, source-page comments and torn-text non-reconstruction rule. Article 1 retains the explicit scan-15/16 `SOURCE DAMAGE` markers and the documented scan-16 source-visible recovery `மொழி.`.
+These two blobs are the frozen Tamil authorities for downstream English work. Both assemblies preserve reconstructed reading order, source-page comments and torn-text non-reconstruction. Article 1 retains the explicit scan-15/16 `SOURCE DAMAGE` markers.
+
+## P5 non-regression
+
+P5 rechecked **16 / 16 physical scans** word by word and punctuation by punctuation.
+
+Documented lexical-witness conflicts were retained rather than silently substituted:
+
+- scan 3: baseline `கல்லுரி` vs scan-appearing `கல்லூரி`;
+- scan 4: baseline promoted title `ரூசோ` vs scan-visible `ஜூலி`;
+- scan 5: baseline `கண்னை` vs scan-appearing `கண்ணை`;
+- scan 16: baseline `பேச்சுல` vs scan-appearing `பேச்சை`.
+
+Source-visible omissions/recoveries:
+
+- scan 16 `மொழி.` — earlier documented recovery retained;
+- scan 15 `கிரேக்க மொழி` — P5 directly restored visible omitted `ழி` from supplied `கிரேக்க மொ`.
+
+No word physically hidden by missing paper was reconstructed.
+
+Detailed P5 provenance: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).  
+Publication Tamil closeout: [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).  
+Combined source audit: [`audit.md`](audit.md).
 
 ## Current Tamil archival status
 
 - P0 source intake / publication identification: **COMPLETE**
 - P1 metadata + reconstructed reading order + content map: **COMPLETE**
 - P2 page-level transcription / structural review: **16 / 16 COMPLETE**
-- direct scan structure/punctuation/paragraph review: **16 / 16**
 - P3 article assemblies: **COMPLETE — 2 / 2**
 - P4 source audit / completeness review: **PASS**
-- P5 strict word/punctuation fidelity pass: **NOT STARTED**
+- P5 strict word/punctuation fidelity pass: **16 / 16 PASS**
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - English translation: **NOT STARTED**
-
-P4 confirmed all 16 physical scans are represented exactly once in the reconstructed publication order, both article boundaries are correct, publisher matter/advertisements remain outside the article bodies, no mapped body segment is missing or duplicated, and no user-baseline lexical token was silently replaced. Physical paper loss remains documented rather than reconstructed.
-
-Detailed P4 record: [`audit.md`](audit.md).
+- workflow blockers: **0**
 
 ## Exact next activity
 
-Execute **P5 — strict visual text-fidelity review across all 16 physical scans**, word by word and punctuation by punctuation, under the publication-specific lexical-baseline rule. Record every permitted structural/punctuation/spacing/layout correction and every scan/transcription lexical conflict; preserve all torn-away gaps without reconstruction. Propagate corrections to dependent records and create `VISUAL_TEXT_FIDELITY_REVIEW.md` plus `PUBLICATION_COMPLETION_REVIEW.md` if P5 passes. Do **not** begin English translation in the same activity.
+Execute **E0 — English translation planning/setup** from the two frozen strict-reviewed Tamil article blobs above. Create `TRANSLATION_PLAN.md`, `translations/en/README.md`, `translations/en/LEXICON.md` and `translations/en/TRANSLATION_REVIEW.md`, and register the two frozen Tamil authorities as T0 sources.
+
+Do **not** reopen the frozen Tamil bodies for stylistic polishing, lexical conventionalisation or terminology homogenisation.
