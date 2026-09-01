@@ -191,14 +191,15 @@ Final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`.
 - T0 source prerequisite: **PASS**
 - T1 close draft: **COMPLETE / PASS**
 - T2 bilingual fidelity review: **COMPLETE / PASS**
-- T3 Kalaignar voice review: **NOT STARTED**
+- T3 Kalaignar voice review: **COMPLETE / PASS**
 - T4 terminology / quotation / citation / source audit: **NOT STARTED**
 - T5 verification: **NOT STARTED**
-- working English title: **Iyer Announces!** — T2 semantic pass / not frozen
+- working English title: **Iyer Announces!** — T3 voice pass / not frozen
 - source Tamil blob: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
 - T1 English draft blob entering T2: `1b70952ae377668162fcb35eb045e142a0597190`
-- T2 fidelity-reviewed English blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
-- English metadata status: `fidelity-reviewed`
+- T2 fidelity-reviewed English blob entering T3: `b7361d26a711d61938da24d33b3512ddf5653e53`
+- T3 voice-reviewed English blob: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
+- English metadata status: `voice-reviewed`
 
 ### Article 2 T1 close-draft scope
 
@@ -246,7 +247,7 @@ T2 re-fetched frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T
 - frozen damaged/ambiguous `அயம்` → **ayam**: **PASS / unrepaired**;
 - `ஏனோதானோ` / `ஏனோதானோக்கள்` → **Enothano / Enothanos**: **PASS / source-bearing**;
 - normal `கல்லூரி` → **College** and frozen anomalous `கல்லுரி` → **kalluri**: **PASS / distinction retained**;
-- `மொழி கற்கண்டு` → **language sugar-candy**: **fidelity PASS; voice review later**;
+- `மொழி கற்கண்டு` → **language sugar-candy**: **fidelity PASS**;
 - first-paragraph irregular quotation punctuation: T1's two evident quoted units are **T2 fidelity-acceptable**; formal quotation/source audit remains for T4;
 - final inscription **`Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar`**: **PASS / no external wording imported**;
 - source-page comments for scans **12** and **3**: **2 / 2 present and ordered**;
@@ -256,13 +257,48 @@ T2 re-fetched frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T
 
 **ARTICLE 2 T2 BILINGUAL FIDELITY REVIEW: PASS.**
 
+### Article 2 T3 voice-review scope
+
+T3 read the T2-secured English as English while continuously checking the frozen Tamil for rhetorical action. It reviewed direct address, pointed aside, repetition, the startled Ayyar/Dravidam challenge, mockery, the fire-stepping image, imperative movement and the final inscription reveal. T3 made **9 meaning-neutral voice/cadence interventions** and **0 substantive meaning changes**.
+
+### Article 2 T3 voice/cadence interventions — 9
+
+1. `Everyone who goes and comes looks at him and passes on.` → **`All who come and go look at him as they pass.`**
+2. `He is indeed one who wears the sacred thread.` → **`He does wear the sacred thread.`**
+3. `The thread is simply hidden under the shirt he has on, that is all.` → **`The thread is only hidden beneath his shirt—that is all.`**
+4. `Looking at those who come toward the beach...` → **`To those coming toward the beach...`**
+5. `He does not stop there.` → **`And he doesn't stop there.`**
+6. `You will be startled: an Ayyar accepting Dravidam?` → **`An Ayyar accepting Dravidam? You will be startled.`**
+7. `He sang the song quoted above.` → **`He sang the song above.`**
+8. Tightened the fire-stepping ridicule to **`Even one member ... at the very word Dravidam, leaps as though he has stepped on fire ... and went away, head bowed.`** without changing the source-bearing `Enothano` label or the claim.
+9. Tightened the final imperative sequence from a semicolon-led continuation to **`to go and see. And along with that, read carefully what follows below.`**, preserving both commands and the T2-restored paragraph boundary.
+
+### Article 2 T3 non-regression result
+
+- T2-secured substantive claims changed: **0**;
+- source-page comments: **2 / 2 preserved and ordered**;
+- `Iyer` / `Ayyar` distinction: **preserved**;
+- source-bearing `ayam`: **preserved / unrepaired**;
+- `Enothano` / `Enothanos`: **preserved**;
+- normal `College` vs frozen anomalous `kalluri`: **preserved**;
+- narrative `Saminathayyar` vs inscription `Saminatha Ayyar`: **preserved**;
+- first-paragraph quoted units: **preserved**;
+- final inscription wording: **preserved**;
+- `language sugar-candy`: **preserved**;
+- external wording imported: **0**;
+- frozen Tamil body changes: **0**;
+- publisher/front/back matter imported: **0**;
+- unresolved T3 voice blockers: **0**.
+
+**ARTICLE 2 T3 KALAIGNAR VOICE REVIEW: PASS.**
+
 ## Current English gate counts
 
 - E0: **COMPLETE / PASS**
 - T0: **2 / 2 PASS**
 - T1: **2 / 2 COMPLETE**
 - T2: **2 / 2 COMPLETE**
-- T3: **1 / 2 COMPLETE**
+- T3: **2 / 2 COMPLETE**
 - T4: **1 / 2 COMPLETE**
 - T5: **1 / 2 COMPLETE**
 - E6: **NOT STARTED**
@@ -271,8 +307,8 @@ T2 re-fetched frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T
 
 ## Exact next activity
 
-Execute **Article 2 T3 — Kalaignar voice review** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T2 English blob `b7361d26a711d61938da24d33b3512ddf5653e53`.
+Execute **Article 2 T4 — terminology / quotation / citation / source audit** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T3 English blob `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`.
 
-Read the T2-secured English as English while continuously checking the frozen Tamil for rhetorical action. Review direct address, commands, repetition, mockery, the startled `அய்யராவது...` construction, `உண்மை நண்பர்களே உண்மை!`, the fire-stepping image, the `ஏனோதானோ` ridicule, the imperative ending and the inscription reveal. Make only meaning-neutral voice/cadence changes and preserve all T2 source-form distinctions and both source-page comments.
+Audit the working title **Iyer Announces!**, `Iyer` / `Ayyar`, `Dravidam`, `Enothano(s)`, source-bearing `ayam`, normal `College` versus frozen `kalluri`, narrative `Saminathayyar` versus inscription `Saminatha Ayyar`, `Maha Mahopadhyaya Dravida Vidya Bhushana`, the first-paragraph quotation scope, final inscription wording, metadata and both source-page comments. Make only source/terminology/quotation corrections required by the frozen witness.
 
-**Stop after Article 2 T3. Do not perform Article 2 T4 in the same activity.**
+**Stop after Article 2 T4. Do not perform Article 2 T5 in the same activity.**
