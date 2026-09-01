@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - Any checkpoint SHA means “last confirmed when prepared”; it is **not** a rollback target.
 - If `main` has advanced, preserve the newer durable state. Never reset, overwrite, repeat or reopen later completed work merely because an older prompt records an earlier boundary.
 - Re-fetch target files before writing when another chat/window may also be active.
-- Last confirmed live HEAD immediately before this handover synchronization: `f98f1ebb79d362913edfe29936ed16e1e0338e21` — `Advance Thiraavida Sampaththu publication status through Article 1 T4`.
+- Last confirmed live HEAD immediately before this handover synchronization: `a1056275e202694fb9bc0d0ebbc0b410c7f22339` — `Advance Thiraavida Sampaththu root status through Article 1 T5`.
 
 ---
 
@@ -97,7 +97,7 @@ Durable non-regression includes scan-19 source recovery, scan-20 visible numeral
 - T3 voice-reviewed: **10 / 10**
 - T4 audited: **10 / 10**
 - T5 verified: **10 / 10**
-- E6 publication-wide consistency review: **PASS**
+- E6 publication-wide English consistency review: **PASS**
 - E7 English release closeout: **PASS / RELEASE COMPLETE**
 - English body corrections in E6: **0**
 - English body corrections in E7: **0**
@@ -122,86 +122,13 @@ Durable non-regression includes scan-19 source recovery, scan-20 visible numeral
 
 E7 re-confirmed the ten live English article blobs exactly match this E6-passed baseline and the ten frozen Tamil authorities remain unchanged.
 
-## Article 10 durable boundary
-
-- English title: **Not a Poem — an Ocean of Tears!**
-- frozen Tamil: `f856664d86695237a23d0ffc0bef088d32a82fe9`
-- source scans: **48–49**
-- final English: `cee8ea3c33495615ffc988a1875d71e40f8224a3`
-- T2 corrections: **4**
-- T3 meaning-neutral voice/cadence interventions: **12**
-- T4 body corrections: **1** — `you hide away without watching—` → `you hid away without watching—`
-- T5 body corrections: **0**
-- frozen `ப்ழச்சளை`: retained verbatim; no guessed repair
-- frozen `விட்டாய்.`: `You left.` retained at frozen source position
-- scan-49 publication-close note/imprint and scan-50 advertisement: excluded from Article 10
-- blockers: **0**
-
-## E6 — publication-wide English consistency review — PASS
-
-E6 audited all ten T5-verified articles for recurring names/epithets, epic-name conventions, ideological and socially/religiously loaded vocabulary, source-bearing transliterations/puns/insults, source/publication titles, quotation treatment, English title style, voice and rhetorical temperature, accidental smoothing/harmonisation/modernisation, completeness/page-boundary comments and all durable source anomalies.
-
-### E6 consistent recurring decisions
-
-- `திராவிடம்` → `Dravidam` remains stable in Articles 2, 5 and 7.
-- `ஆரியம்` → `Aryanism` remains stable in Articles 6 and 10.
-- `Tiruvitaththar` remains stable in Articles 1 and 10.
-- `Oman Sea` remains stable in Articles 7 and 10.
-- proletarian vocabulary, `God-ism`, `syrupy speech` and `javvadu` remain consistent where their source function recurs.
-
-### E6 deliberate contextual/source-witness exceptions — PERMANENT NON-REGRESSION
-
-Do **not** mechanically harmonise these:
-
-- `Dravidam` / `Dravidians` / adjectival `Dravidian` according to immediate frozen Tamil form;
-- Article 4 `Kambar` / `Kamban` according to `கம்பர்` / `கம்பன்`;
-- Article 7 `Gandhiyar`, `revered Gandhi`, `Mohan Das Gandhi...` versus Article 8 `Gandhiji` according to immediate source label/epithet;
-- `Brahmin` / `non-Brahmin` versus source-bearing `Parppanar` / `Parppanan` / `Parppanars` / `non-Parppanar`; `Vediyars` stays separate;
-- noun `Vaidheegam` versus contextual `Vaidheega madmen`;
-- Article 6 `Harijan` versus Article 8 `Arijan journal`;
-- Article 6 `Oriental College` versus frozen later `Oriyantal College` witness;
-- Article 5 translated `Soviet Union Hero` versus source-English `(Hero of the Soviet union)`;
-- Article 9 `Ramasami` / `Ramasamiyar`, `Nagammaiyar` / `Nagamma`, `Ammaiyar`, `Periyar` according to immediate source label;
-- Article 8 epic-name forms and all established source-bearing oddities/transliterations, including raw frozen `ப்ழச்சளை`, remain unrepaired unless source policy is explicitly reopened.
-
-### E6/E7 anomaly and completeness result
-
-- scan 19 source recovery / scan 20 numeral `1`: **PASS**
-- scan 32 frozen irregular order: **PASS / unreconstructed**
-- scan 33/34 boundary: **PASS**
-- Article 7 deliberately incomplete ending: **PASS**
-- scan 42 `No answer.` / scan 43 `* * *`: **PASS**
-- scan 48 `ப்ழச்சளை` / scan 49 `You left.` placement: **PASS**
-- scan 49 publication-close exclusion / scan 50 advertisement exclusion: **PASS**
-- all ten article units and required source-page comments: **PASS**
-- quotation boundaries, directness, sarcasm, ridicule, commands, rhetorical questions, exclamations and repetition: **PASS**
-- E7 article-body changes: **0**
-- E7 release blockers: **0**
-
-Canonical release provenance is recorded in:
-
-- `publications/unarchchimaalai/PUBLICATION_COMPLETION_REVIEW.md`
-- `publications/unarchchimaalai/TRANSLATION_PLAN.md`
-- `publications/unarchchimaalai/translations/en/README.md`
-- `publications/unarchchimaalai/translations/en/LEXICON.md`
-- `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md`
-
-## Documentation reconciliation — COMPLETE / NON-DESTRUCTIVE
-
-The Article 9/10 documentation reconciliation remains durable:
-
-- pre-reconciliation lexicon history through Article 9 T4 is preserved byte-for-byte as `publications/unarchchimaalai/translations/en/LEXICON_HISTORY_THROUGH_ARTICLE9_T4.md`;
-- pre-reconciliation review history through Article 9 T4 is preserved byte-for-byte as `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md`;
-- canonical `LEXICON.md` and `TRANSLATION_REVIEW.md` are the current release records;
-- history sidecars remain provenance only and must not replace canonical records.
-
 ## Release boundary
 
 **உணர்ச்சிமாலை is COMPLETE / FROZEN / RELEASED in Tamil and English.** Do not reopen it for stylistic polishing, conventionalisation or terminology homogenisation. Reopen only for a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 1 T4 PASS
+# Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 1 T5 VERIFIED
 
 Workspace: `publications/thiraavida-sampaththu/`  
 Supplied source: `TVA_BOK_0064196_திராவிட_சம்பத்து.pdf`
@@ -248,7 +175,7 @@ P5 retained lexical-witness conflicts on scans **3, 4, 5 and 16**, preserved dam
 - T2 fidelity-reviewed: **1 / 2 PASS**
 - T3 voice-reviewed: **1 / 2 PASS**
 - T4 audited: **1 / 2 PASS**
-- T5 verified: **0 / 2**
+- T5 verified: **1 / 2 PASS**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - English article bodies: **1 / 2**
@@ -262,34 +189,47 @@ Canonical English workspace:
 - `publications/thiraavida-sampaththu/translations/en/TRANSLATION_REVIEW.md`
 - `publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md`
 
-## Article 1 T1–T4 durable boundary
+## Article 1 T1–T5 durable boundary
 
 - Tamil title: `திராவிட சம்பத்து`
-- English title: **Dravidian Wealth** — T4 established / T5 verification pending
+- English title: **Dravidian Wealth — VERIFIED**
 - frozen Tamil authority: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
 - T1 baseline English blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
 - T2 fidelity-reviewed English blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`
 - T3 voice-reviewed English blob: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
 - T4 terminology/source-audited English blob: `961ca3f724238ed699dba2607fa2d1be681f0ec4`
-- English metadata status: `voice-reviewed` — `verified` reserved for T5
+- T5 final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
+- English metadata status: `verified`
 - source scans: **5, 6, 13, 14, 15, 16**
-- source-page comments: **6 / 6 present**
-- scan-15/16 `SOURCE DAMAGE` boundaries: **4 / 4 preserved / unreconstructed**
-- frozen Tamil changes through T4: **0**
-- unresolved T4 blockers: **0**
+- source-page comments: **6 / 6 PASS**
+- scan-15/16 `SOURCE DAMAGE` boundaries: **4 / 4 PASS / unreconstructed**
+- T5 English body corrections: **0**
+- frozen Tamil changes through T5: **0**
+- publisher/front/back matter imported: **0**
+- unresolved Article 1 blockers: **0**
 
-T4 audited and established the Article 1 title, recurring `Dravidam` / `Dravidians` / `Dravidian` forms, `Ananda Vikatan` / `Vikatanar` / `Vikatar` distinctions, `Mahishasura Mardini`, mock labels/insults, ideological vocabulary, source-bearing transliterations, quotations, metadata, page comments and damage comments.
+T5 re-confirmed the complete T1→T4 provenance chain, complete surviving Article 1 coverage, title/metadata, quotation scope, source-page comments, all four source-damage boundaries and all T4-established terminology/source-bearing forms. Source `மித் (Myth)` remains **`mit (Myth)`**. Frozen anomalous `பேச்சுல` remains verified as source-bearing **pechchul** and is not repaired from the alternate scan reading.
 
-T4 made **1 source-audit English body correction**: frozen quote `மித் (Myth)` is now represented as **`mit (Myth)`** rather than flattened to `myth (Myth)`. Frozen anomalous `பேச்சுல` is T4-established as source-bearing **pechchul** and is not repaired from the alternate scan reading.
+Article 1 is now verified and should not be reopened for stylistic preference. Reopen only for a concrete source-supported defect.
+
+## Article 2 durable starting boundary
+
+- Tamil title: `ஐயர் அறிவிக்கிறார்!`
+- frozen Tamil authority: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
+- source scans: **12, 3**
+- T0: **PASS**
+- T1: **NOT STARTED**
+- English title: **not frozen**
+- source-sensitive issues carried forward: `ஐயர்` / `அய்யர்` form handling, damaged/ambiguous frozen `அயம்`, quoted inscription terminology.
 
 ## Non-regression for English work
 
 - preserve direct address, sarcasm, ridicule, rhetorical questions, repetition and exclamation;
 - preserve source-page trace comments;
-- retain Article 1 scan-15/16 `SOURCE DAMAGE` gaps without reconstruction;
+- never reconstruct torn-away source wording;
 - do not silently repair frozen `கல்லுரி`, `கண்னை`, `பேச்சுல` or damaged `அயம்` using alternate scan readings/context;
 - do not import publisher matter or scan-4 advertisements into the two English article bodies;
-- do not change T4-established Article 1 terminology merely for stylistic preference;
+- do not alter verified Article 1 terminology merely for stylistic preference;
 - if a genuine source-supported Tamil correction changes a frozen blob, explicitly reopen affected translation gates.
 
 ## Current blockers
@@ -300,16 +240,18 @@ T4 made **1 source-audit English body correction**: frozen quote `மித் (
 
 # Exact next activity
 
-Execute **Article 1 T5 — final article verification** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T4 English blob `961ca3f724238ed699dba2607fa2d1be681f0ec4`.
+Execute **Article 2 T1 — complete close English draft for `ஐயர் அறிவிக்கிறார்!` only** from frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
-1. Re-fetch both authorities before any write.
-2. Re-confirm T1–T4 provenance and complete surviving Article 1 coverage.
-3. Verify title, metadata, all six source-page comments, quotation boundaries and all four scan-15/16 damage boundaries.
-4. Verify all T4-established terminology/source-bearing forms, including `mit (Myth)` and frozen anomalous `pechchul`.
-5. Confirm hidden torn wording reconstructed: **0** and publisher/front/back matter imported: **0**.
-6. Make only corrections required by a concrete verification defect.
-7. If all checks pass, set `translation_status: verified`, record the final English blob and synchronize all project records.
-8. **Stop after Article 1 T5. Do not begin Article 2 T1 in the same activity.**
+1. Re-fetch Article 2 frozen Tamil authority before any write.
+2. Create `publications/thiraavida-sampaththu/translations/en/02-aiyar-arivikkirar.md`.
+3. Translate every surviving Tamil paragraph in source order.
+4. Preserve source-page comments for scans **12 and 3**.
+5. Preserve damaged/ambiguous frozen `அயம்` without guessed repair.
+6. Preserve source-form distinctions such as `ஐயர்` / `அய்யர்`; do not mechanically homogenise them.
+7. Keep quoted/inscription terminology source-sensitive and do not import outside wording.
+8. Update the living lexicon and review ledger only with terms actually encountered.
+9. Synchronize current project records after T1.
+10. **Stop after Article 2 T1. Do not perform Article 2 T2 in the same activity.**
 
 ## Current blockers
 
