@@ -86,12 +86,12 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - T2 fidelity-reviewed: **9 / 10**
 - T3 voice-reviewed: **9 / 10**
 - T4 audited: **9 / 10**
-- T5 verified: **8 / 10**
+- T5 verified: **9 / 10**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - blockers: **0**
 
-## Verified articles 1–8
+## Verified articles 1–9
 
 1. `உணர்ச்சி மாலை` — **Garland of Emotion** — final English `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
 2. `புரட்சி வளர்ந்த கதை` — **The Story of How the Revolution Grew** — `f1599a8e7cae4ba749b9be2857705b152887f9f8`
@@ -101,10 +101,11 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 6. `3, 57, 90.` — **3, 57, 90.** — `cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`
 7. `30-1-1948` — **30-1-1948** — `6cfb28e2d83ba84ee2daa54606561479b61498b0`
 8. `பத்தினியே உன்போல்...!` — **O Chaste Woman, Like You...!** — `6b12e6b3cc09b6de402998bb3824e7a98808f885`
+9. `அன்னை நாகம்மையார்!` — **Mother Nagammaiyar!** — `204ffed012f4bd91b3077065f031d6b2db747854`
 
-Articles 1–8 are closed at T5. Do not reopen absent a genuine source-supported defect.
+Articles 1–9 are closed at T5. Do not reopen absent a genuine source-supported defect.
 
-## Article 9 — `அன்னை நாகம்மையார்!` — T1–T4 COMPLETE / VOICE-REVIEWED
+## Article 9 — `அன்னை நாகம்மையார்!` — T0–T5 COMPLETE / VERIFIED
 
 - English title: **Mother Nagammaiyar!**
 - frozen Tamil: `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
@@ -113,38 +114,19 @@ Articles 1–8 are closed at T5. Do not reopen absent a genuine source-supported
 - English file: `publications/unarchchimaalai/translations/en/09-annai-nagammaiyar.md`
 - T1 draft English: `1d3ac3f7ef2fff5e79b23434f907b467ae1266f6`
 - T2 fidelity-reviewed English: `4336ef783678c165656ab843158e9c29d4695ed5`
-- T3 voice-reviewed / T4-audited English candidate: **`6d8556b574f536f879a2ea3ca6efffb81609add2`**
-- translation status: **`voice-reviewed`**
+- T3 voice-reviewed / T4-audited English candidate: `6d8556b574f536f879a2ea3ca6efffb81609add2`
+- final T5-verified English: **`204ffed012f4bd91b3077065f031d6b2db747854`**
+- translation status: **`verified`**
+- T2 fidelity corrections: **3**
+- T3 meaning-neutral voice/cadence interventions: **11**
+- T4 body corrections: **0**
+- T5 body corrections: **0**
 
-### Article 9 T2 result
+### Article 9 T5 result
 
-T2 made **3 fidelity corrections** while preserving the complete T1 structure:
+T5 re-verified the complete T1–T4 chain against frozen Tamil blob `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` and T4 candidate `6d8556b574f536f879a2ea3ca6efffb81609add2`. It required **0 body corrections**.
 
-1. opening `பொதுநலவாழ்வில்` — T1 generic `public life` → **`life of public service`**, restoring the explicit contrast with following `சுயநல வாழ்வில்` / `life of self-interest`;
-2. scan 47 `பெண் உயர்வுக்கான சம்பவங்கள் பல! பல!` — moved the repeated **`many! many!`** back after the women's-uplift incidents, preserving the frozen rhetorical order;
-3. scan 47 `வற்றாத உயிராறாகவே` — T1 `unfailing river of life` → **`never-drying river of life`**, preserving the preceding `அன்பு வரண்டு விடவில்லை` dry-up/water image.
-
-### Article 9 T3 result
-
-T3 made **11 meaning-neutral voice/cadence interventions** while preserving every T2 meaning/source decision:
-
-1. tightened the opening `Periyar Ramasami / young Ramasami` contrast;
-2. made the resolve-filled young-veena love-note **`tremble and ring`**;
-3. sharpened the youth-dancing exclamatory beat;
-4. tightened the “good boy” cadence;
-5. made Nagamma's indelible-heart declaration more direct with **`made it plain`**;
-6. tightened the old-suitor ridicule around the two-lost-wives interruption and youthful swagger;
-7. restored the compact **`spark-words`** fire image;
-8. tightened the herd-cattle age framing;
-9. changed the marriage from `became` to **`stood as`** a symbol of victory;
-10. made the never-drying life-river **`surge and run on`**;
-11. sharpened the grief-to-duty turn by setting `12-5-1933` off with dashes.
-
-### Article 9 T4 result
-
-T4 made **0 body corrections**. The T3 English blob remains the T4-audited candidate `6d8556b574f536f879a2ea3ca6efffb81609add2`.
-
-T4 audit non-regression:
+T5 non-regression:
 
 - metadata/source Tamil SHA/scans/printed-page field: **PASS**
 - complete paragraph/clause coverage: **PASS**
@@ -164,33 +146,24 @@ T4 audit non-regression:
 - repeated `many! many!`: **PASS / T2 placement retained**
 - never-drying life-river: **PASS / T2 water-image continuity retained**
 - final `Duty that surpassed even love` close: **PASS**
-- external citation required: **No**
 - outside/web biographical wording, conventional spellings, alternate source forms or published translations imported: **No**
 - frozen Tamil changed: **No**
 - blockers: **0**
 
-Synchronized Article 9 T4 records:
-- English article / T4 candidate: `6d8556b574f536f879a2ea3ca6efffb81609add2`
-- English tracker: `081a1173cc5a0459365e0f5c7fd1cb4a70c8c2ae`
-- translation plan: `59742ac6b97b4aef468bb6a915d52cb0c6d7351e`
-- living lexicon: `9b3d9d237b17d265d9bff82614d23410d59ff465`
-- review ledger: `17d080d4d5a775d3893d5d99b6c31b26fd7fd156`
-
 ## Article 10
 
-`கவிதையல்ல - கண்ணீர்க்கடல் !` has completed only T0. Do not start Article 10 while Article 9 remains below T5.
+`கவிதையல்ல - கண்ணீர்க்கடல் !` has completed only T0. Its frozen Tamil authority is `f856664d86695237a23d0ffc0bef088d32a82fe9`, source scans **48–49**.
 
 ---
 
 # Exact next activity
 
-Execute **Article 9 T5 — final article verification** for `அன்னை நாகம்மையார்!` against:
+Execute **Article 10 T1 — complete close English draft** for `கவிதையல்ல - கண்ணீர்க்கடல் !` against:
 
-- frozen Tamil blob: `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
-- T4-audited English candidate: `6d8556b574f536f879a2ea3ca6efffb81609add2`
-- source scans: **45–47**
+- frozen Tamil blob: `f856664d86695237a23d0ffc0bef088d32a82fe9`
+- source scans: **48–49**
 
-T5 must re-verify the complete T1–T4 chain, metadata/source fields, paragraph/clause coverage, source labels and terminology, quotation scopes, ages/dates/numbers, source-page comments and printed-page witnesses. Recheck especially `Periyar`, `Ramasami`, `Nagammaiyar / Nagamma`, `Ramasamiyar`, `Ammaiyar`, source-sensitive `minor-kaali`, public-service/self-interest contrast, the quoted parental `log` image, Nagamma's marriage-or-death declaration, horse/stable revolutionary quotation, family-lamp declaration, flood-with-flood image, repeated `many! many!`, never-drying life-river, old-man/Nagammaiyar exchange, all dates/numbers and final `Duty that surpassed even love` close. Do not import outside biographical wording, web wording, conventional spellings, alternate source forms or published translations. If T5 passes, advance Article 9 to `verified`, synchronize records, and **do not begin Article 10 in the same activity**.
+T1 must translate the complete frozen Article 10 assembly paragraph by paragraph and verse unit by verse unit. Preserve all source-page comments, Article 10 verse lineation, questions, exclamations, repetition and source-bearing terminology. Retain frozen scan-48 `ப்ழச்சளை` exactly as the Tamil translation authority; do not silently repair it. Preserve frozen scan-49 `விட்டாய்.` placement. Exclude the scan-49 publication-source note/imprint and scan-50 advertisement because they are outside Article 10. Do not import alternate scan lexical/order readings, outside identification, web wording or published translations. Create the Article 10 English file, establish provisional living-lexicon decisions, record T1 provenance in the review ledger and trackers, synchronize this handover, and **stop before Article 10 T2**.
 
 ## Current blockers
 
