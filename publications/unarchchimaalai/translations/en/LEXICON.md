@@ -4,7 +4,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Status
 
-**Articles 1–4 T5 VERIFIED; Article 5 T1–T2 COMPLETE / FIDELITY-REVIEWED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
+**Articles 1–4 T5 VERIFIED; Article 5 T1–T3 COMPLETE / VOICE-REVIEWED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
 
 > **Translate the language; do not neutralise the voice.**
 
@@ -160,38 +160,41 @@ Final verified English blob: `03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`
 
 T5 made **0 body corrections**. It reconfirmed the T4-corrected quotation/source-boundary decisions, all source-sensitive terminology and the complete T1–T4 non-regression chain before freezing the final verified English blob above.
 
-## Article 5 — T2 fidelity-reviewed decisions
+## Article 5 — T3 voice-reviewed decisions
 
 Frozen Tamil authority: `c8ac4d7c241832e07bbb24c5cee935588673f4ac`  
 T1 draft blob: `af5d3bf7ae6377b8872076e3562f958299481259`  
-T2 fidelity-reviewed blob: `82a58cabb1c973fb7781f80e8ec53dac14fb2720`
+T2 fidelity-reviewed blob: `82a58cabb1c973fb7781f80e8ec53dac14fb2720`  
+T3 voice-reviewed blob: `eab4800f78cbf2900a5dca4225b7679d53001acf`
 
 | Tamil / source form | English decision | Status / caution |
 |---|---|---|
-| `இங்கல்ல! இரஷ்யாவில்` | `Not Here! In Russia` | T2 REVIEWED |
-| `புறநானூறு` | `Purananuru` | SOURCE-TITLE / T2 REVIEWED |
-| `திராவிடம்` | `Dravidam` | Article 2 T5 VERIFIED decision reused / T2 REVIEWED |
-| `காக்கைபாடினியார்` | `Kakkaipadiniyar` | SOURCE-BEARING / T2 REVIEWED |
-| `நச்செள்ளையார்` | `Nachellaiyar` | SOURCE-BEARING / T2 REVIEWED |
-| `காவற்பெண்டு` | `Kavarpendu` | SOURCE-BEARING / T2 REVIEWED |
-| `பாரிமகளிர்` | `Pari Magalir` | SOURCE-BEARING / T2 REVIEWED |
-| `பெருங்கோப் பெண்டு` | `Perungop Pendu` | SOURCE-BEARING / T2 REVIEWED |
-| `வெண்ணிக்குயத்தியார்` | `Vennikkuyaththiyar` | SOURCE-BEARING / T2 REVIEWED |
-| `வெறிபாடிய காமக் கண்ணியார்` | `Veripadiya Kamak Kanniyar` | SOURCE-BEARING / T2 REVIEWED |
-| `பத்தாம்பசலிகள்` | `hidebound reactionaries` | T2 REVIEWED; insult/register retained |
-| `விருத்தம்` | `viruttam` | SOURCE-BEARING / T2 REVIEWED |
-| `பசலைப் பையன்` | `pallid boy` | T2 REVIEWED; Article 3 lexical family retained without forcing identical noun |
-| `மாரியம்மன் தாலாட்டு` | `Mariamman lullaby` | T2 REVIEWED |
-| `இடோகியோ நிஜுலினா` | `Idogiyo Nijulina` | SOURCE-BEARING / T2 REVIEWED; no outside identification |
-| `ஏணை` | `cradle` | SOURCE-SENSITIVE / T2 REVIEWED |
-| `அரசமரம்` | `arasa tree` | SOURCE-BEARING / T2 REVIEWED |
-| `புற்றடி மாரியம்மன் கோயில் சிந்து` | `Putradi Mariamman temple sindhu` | SOURCE-BEARING / T2 REVIEWED |
-| `கூட்டுப்பண்ணை` | `collective farm` | T2 REVIEWED |
-| `சோவியத் யூனியன் வீரர்` | `Soviet Union Hero` with source parenthetical `(Hero of the Soviet union)` retained separately | SOURCE/QUOTATION-SENSITIVE / T2 REVIEWED |
-| scan-32 `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...` | literal supplied-order English beginning `Knowledge, in the country; the kitchen; this, the enemies'—Nijulina included...` | SOURCE-SENSITIVE / T2 REVIEWED; frozen lexical/order sequence deliberately not repaired or reordered |
-| `சீதேவி / அருந்ததி / அகல்யா / திரௌபதி` | `Sita Devi / Arundhati / Ahalya / Draupadi` | T2 REVIEWED; source comparison labels retained |
+| `இங்கல்ல! இரஷ்யாவில்` | `Not Here! In Russia` | T2 REVIEWED / T3 PRESERVED |
+| `புறநானூறு` | `Purananuru` | SOURCE-TITLE / T2 REVIEWED / T3 PRESERVED |
+| `திராவிடம்` | `Dravidam` | Article 2 T5 VERIFIED decision reused / T3 PRESERVED |
+| `காக்கைபாடினியார்` | `Kakkaipadiniyar` | SOURCE-BEARING / T3 PRESERVED |
+| `நச்செள்ளையார்` | `Nachellaiyar` | SOURCE-BEARING / T3 PRESERVED |
+| `காவற்பெண்டு` | `Kavarpendu` | SOURCE-BEARING / T3 PRESERVED |
+| `பாரிமகளிர்` | `Pari Magalir` | SOURCE-BEARING / T3 PRESERVED |
+| `பெருங்கோப் பெண்டு` | `Perungop Pendu` | SOURCE-BEARING / T3 PRESERVED |
+| `வெண்ணிக்குயத்தியார்` | `Vennikkuyaththiyar` | SOURCE-BEARING / T3 PRESERVED |
+| `வெறிபாடிய காமக் கண்ணியார்` | `Veripadiya Kamak Kanniyar` | SOURCE-BEARING / T3 PRESERVED |
+| `பத்தாம்பசலிகள்` | `hidebound reactionaries` | T2 REVIEWED / T3 PRESERVED; insult/register retained |
+| `விருத்தம்` | `viruttam` | SOURCE-BEARING / T3 PRESERVED |
+| `பசலைப் பையன்` | `pallid boy` | T2 REVIEWED / T3 PRESERVED |
+| `மாரியம்மன் தாலாட்டு` | `Mariamman lullaby` | T2 REVIEWED / T3 PRESERVED |
+| `இடோகியோ நிஜுலினா` | `Idogiyo Nijulina` | SOURCE-BEARING / T3 PRESERVED; no outside identification |
+| `ஏணை` | `cradle` | SOURCE-SENSITIVE / T3 PRESERVED |
+| `அரசமரம்` | `arasa tree` | SOURCE-BEARING / T3 PRESERVED |
+| `புற்றடி மாரியம்மன் கோயில் சிந்து` | `Putradi Mariamman temple sindhu` | SOURCE-BEARING / T3 PRESERVED |
+| `கூட்டுப்பண்ணை` | `collective farm` | T2 REVIEWED / T3 PRESERVED |
+| `சோவியத் யூனியன் வீரர்` | `Soviet Union Hero` with source parenthetical `(Hero of the Soviet union)` retained separately | SOURCE/QUOTATION-SENSITIVE / T3 PRESERVED |
+| scan-32 `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...` | literal supplied-order English beginning `Knowledge, in the country; the kitchen; this, the enemies'—Nijulina included...` | SOURCE-SENSITIVE / T3 PRESERVED; frozen lexical/order sequence deliberately not repaired, reordered or smoothed |
+| `சீதேவி / அருந்ததி / அகல்யா / திரௌபதி` | `Sita Devi / Arundhati / Ahalya / Draupadi` | T2 REVIEWED / T3 PRESERVED |
 
-T2 made **2 fidelity corrections**: it removed invented quotation marks around the source-unquoted stove/education phrase on scan 30, and restored the interrogative force of scan 31 `என் பாலைக்குடித்தவனா...` while removing the T1-added `My son`. All names, numbers, source witnesses, source-English parenthetical and the frozen scan-32 lexical/order sequence were retained without outside repair.
+T2 made **2 fidelity corrections**: it removed invented quotation marks around the source-unquoted stove/education phrase on scan 30, and restored the interrogative force of scan 31 `என் பாலைக்குடித்தவனா...` while removing the T1-added `My son`.
+
+T3 made **8 meaning-neutral voice/cadence interventions** while preserving every T2 meaning and source-witness decision. It tightened the opening Dravidam/backwardness sentence, strengthened the queens-of-Tamil accumulation, sharpened the middle martial-mother cadence, restored a more forceful `look!` interruption, tightened the Nijulina flight/attack sentence, shortened the two date lead-ins (`By February 1, 1945`; `by 1940`), and strengthened the final buried/shining Purananuru contrast. The deliberately irregular scan-32 sentence was not smoothed or reconstructed.
 
 ## Decisions still to establish in later articles
 
@@ -209,4 +212,4 @@ T2 made **2 fidelity corrections**: it removed invented quotation marks around t
 
 ## Next lexicon activity
 
-During **Article 5 T3**, preserve every T2 meaning/source decision while reviewing the English for Kalaignar's directness, accumulative martial cadence, ridicule of backwardness, repeated `Here... There...` contrasts, `Not a man! A woman! Woman!!`, the final Purananuru/Russia contrast and the deliberately irregular frozen scan-32 sequence. Do not smooth the source-sensitive irregularity into a reconstructed historical sentence.
+During **Article 5 T4**, audit the T3 candidate for terminology/proper-name consistency, quotation boundaries, source-English parenthetical, scan comments/printed-page witnesses, dates/numbers, and the frozen scan-32 lexical/order anomaly. Article 5 remains `voice-reviewed` through T4; do not mark any Article 5 decision T5 verified until final article verification passes.
