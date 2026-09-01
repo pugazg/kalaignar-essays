@@ -121,11 +121,19 @@ The following are not permission to correct Tamil during translation:
 - scan 15 `கிரேக்க மொழி` and scan 16 `மொழி.` are documented source-visible recoveries already incorporated into the frozen Tamil authority;
 - scan 4 promoted-title conflict is outside both Kalaignar article bodies.
 
-## Title policy after Article 2 T5
+## E6 publication-wide terminology consistency — PASS
 
-- Article 1 `திராவிட சம்பத்து`: **Dravidian Wealth** — **VERIFIED**.
-- Article 2 `ஐயர் அறிவிக்கிறார்!`: **Iyer Announces!** — **VERIFIED**.
+- `திராவிடம்` is consistently **Dravidam** in both verified articles where it functions as the noun.
+- Article 1 adjectival `திராவிட` remains **Dravidian**; Article 2 inscription `திராவிட` remains source-bearing **Dravida** inside **Dravida Vidya Bhushana**. E6 explicitly treats this as a source/form-function distinction, not a terminology inconsistency.
+- Article 1 `Ananda Vikatan` / `Vikatanar` / `Vikatar` distinctions and Article 2 `Iyer` / `Ayyar`, `Saminathayyar` / `Saminatha Ayyar`, `College` / `kalluri` distinctions remain intentionally non-harmonised.
+- Article 1 source-sensitive `mit (Myth)` and `pechchul`, and Article 2 `ayam` and `Enothano(s)`, remain durable source-bearing forms.
+- No publication-wide terminology correction was required; no verified article gate was reopened.
+
+## Title policy after E6
+
+- Article 1 `திராவிட சம்பத்து`: **Dravidian Wealth** — **VERIFIED / E6 PASS**.
+- Article 2 `ஐயர் அறிவிக்கிறார்!`: **Iyer Announces!** — **VERIFIED / E6 PASS**.
 
 ## Next lexicon activity
 
-During **E6**, review the two verified articles together for publication-wide consistency without flattening source-form distinctions or reopening a verified article merely for stylistic preference.
+During **E7**, confirm the E6-passed terminology/source-bearing decisions are synchronized in the release records. Do not reopen verified terminology merely for stylistic preference.
