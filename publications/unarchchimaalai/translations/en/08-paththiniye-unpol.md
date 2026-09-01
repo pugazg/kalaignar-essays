@@ -8,8 +8,8 @@ source_tamil_blob_sha: "2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f"
 source_scan_pages: "42-44"
 source_printed_pages: "42-43; scan 42 has no visible printed numeral"
 language: "en"
-translation_status: "fidelity-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted and T2 bilingual fidelity-reviewed against the frozen Tamil assembly"
+translation_status: "voice-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted, T2 bilingual fidelity-reviewed and T3 voice-reviewed against the frozen Tamil assembly"
 ---
 
 # O Chaste Woman, Like You...!
@@ -20,7 +20,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice; 
 
 “The five mean the five pancha bhutas. Even Gandhiji has interpreted it that way in the Arijan journal. It is all philosophical meaning.”
 
-“Pancha bhutas?......All right...they say she also had love for Karnan. What might that sixth bhuta be?”
+“Pancha bhutas?......All right...they say she had love for Karnan too. What might that sixth bhuta be?”
 
 “.........” No answer.
 
@@ -36,11 +36,11 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice; 
 
 “Oh, is that so!...All right! They say that Kunti Devi, after marrying Pandu, bore Dharmar to Yamadharman, Bhimar to Vayu Bhagavan, and Arjunan to Indran...what about that?”
 
-“There is no fault in that either. Kunti Devi did not touch Yaman, Vayu or Indran with her hand. She swallowed the pill. They manifested before her. She worshipped them. Children appeared. All this is philosophical meaning, you wretch!”
+“No fault in that either. Kunti Devi did not touch Yaman, Vayu or Indran with her hand. She swallowed the pill. They manifested before her. She worshipped them. Children appeared. All this is philosophical meaning, you wretch!”
 
 * * *
 
-Thinking, why should I argue against someone older than I am, the young man who asked the question turns away. Or he ends the conversation with the satisfaction: will the fragrance of javvadu rise from a sewer?
+The young man who asked the question turns away, thinking: why argue with someone older than I am? Or he ends the conversation satisfied: will the fragrance of javvadu rise from a sewer?
 
 But one thing...let those preaching ornaments who set out to protect quarrelsome Puranas by throwing over them the veil of “philosophical meaning” turn for a moment to page 43 of *Villi Bharata Vasanam*, written by Sri Jath Govindaraja Iyengar and published in 1937.
 
@@ -54,8 +54,8 @@ a crown, a bow upon his shoulder, a spear in his hand, and the veerakandai shini
 
 The woman who descended into the sea of pleasure became love itself; joining and joining with her great god, frolicking and frolicking, dancing and dancing, her inner joy swelling, he himself becoming she and she herself becoming he, becoming one form, with great delight she obtained pleasure; exhausted in union, she forgot the earth and forgot herself!”
 
-King Pandu's wife experiences this ecstasy in another man's lap. If this is shown to our Vaidheega madmen...they will leap up shouting, “Ruiner of the clan! Blind fool! Do not slander the chaste woman!” They will pour the same old toddy into a new pot and conduct their kalakshepam, saying, the Pandavas are children born of boons, appa!
+King Pandu's wife finds this ecstasy in another man's lap. If this is shown to our Vaidheega madmen...they will leap up shouting, “Ruiner of the clan! Blind fool! Do not slander the chaste woman!” They will pour the same old toddy into a new pot and conduct their kalakshepam: the Pandavas are children born of boons, appa!
 
-If we take and hold out the description of the world of pleasure of Indran and Kunti that Iyengar himself has drawn, they will speak with disgust, saying, “Paaraa Mugam Unnaiye,” then stand before the statues of Panchali and Kunti and begin to sing, “O chaste woman, like you upon this earth.”
+If we take up and hold out the description of the world of pleasure of Indran and Kunti that Iyengar himself has drawn, they will say in disgust, “Paaraa Mugam Unnaiye,” then stand before the statues of Panchali and Kunti and begin to sing, “O chaste woman, like you upon this earth.”
 
 What can be done? The future alone must answer.
