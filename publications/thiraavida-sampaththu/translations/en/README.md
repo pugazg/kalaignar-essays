@@ -15,7 +15,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T2 fidelity-reviewed: **2 / 2**
 - T3 voice-reviewed: **2 / 2**
 - T4 audited: **2 / 2**
-- T5 verified: **1 / 2**
+- T5 verified: **2 / 2**
 - E6 publication consistency review: **NOT STARTED**
 - E7 release closeout: **NOT STARTED**
 - unresolved translation blockers: **0**
@@ -25,10 +25,10 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | # | Tamil article | Frozen Tamil blob | English file | Status | Gates |
 |---:|---|---|---|---|---|
 | 1 | `திராவிட சம்பத்து` | `6e9759aff9bc4801ee66b3b8c76a814be3e98015` | [`01-thiraavida-sampaththu.md`](01-thiraavida-sampaththu.md) | **verified** | **T0 PASS; T1 PASS; T2 PASS; T3 PASS; T4 PASS; T5 PASS** |
-| 2 | `ஐயர் அறிவிக்கிறார்!` | `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` | [`02-aiyar-arivikkirar.md`](02-aiyar-arivikkirar.md) | **voice-reviewed** | **T0 PASS; T1 PASS; T2 PASS; T3 PASS; T4 PASS; T5 next** |
+| 2 | `ஐயர் அறிவிக்கிறார்!` | `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` | [`02-aiyar-arivikkirar.md`](02-aiyar-arivikkirar.md) | **verified** | **T0 PASS; T1 PASS; T2 PASS; T3 PASS; T4 PASS; T5 PASS** |
 
 Article 1 English title: **Dravidian Wealth — VERIFIED**.  
-Article 2 English title: **Iyer Announces! — T4 audited / final verification pending T5**.
+Article 2 English title: **Iyer Announces! — VERIFIED**.
 
 ## Translation authority
 
@@ -49,27 +49,27 @@ If a genuine source-supported Tamil correction changes either frozen blob, the a
 - metadata status: `verified`
 - T5 body corrections: **0**
 
-## Article 2 T4 source-audited state
+## Article 2 final verified state
 
 - frozen Tamil authority: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
 - T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
 - T2 fidelity-reviewed English blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
 - T3 voice-reviewed English blob: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
 - T4 source-audited English blob: `9b2795e6c66dea08fdf46fcf7903550001e1a401`
-- metadata status: `voice-reviewed` — T5 alone may set `verified`
+- T5 final verified English blob: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
+- metadata status: `verified`
 - source-page comments: scans **12, 3 — 2 / 2 present and ordered**
-- title: **Iyer Announces! — T4 audited**
+- title: **Iyer Announces! — VERIFIED**
 - damaged/ambiguous frozen `அயம்`: **ayam**, unrepaired
 - `ஐயர்` / `அய்யர்`: **Iyer / Ayyar**, distinction retained
 - `ஏனோதானோ` / `ஏனோதானோக்கள்`: **Enothano / Enothanos**, source-bearing ridicule retained
 - normal `கல்லூரி`: **College**; frozen anomalous `கல்லுரி`: **kalluri**
 - narrative fused `சாமிநாதய்யர்`: **Saminathayyar**; inscription `சாமிநாத அய்யர்`: **Saminatha Ayyar**
 - inscription: **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**; no outside version imported
-- first-paragraph irregular quotation punctuation: two evident English quoted units retained and formally documented at T4
-- T4 English body corrections: **0**
-- T4 metadata/provenance updates: **1**
+- first-paragraph irregular quotation punctuation: two evident English quoted units retained and formally documented at T4, re-verified at T5
+- T5 English body corrections: **0**
 - frozen Tamil body changes: **0**
-- unresolved T4 blockers: **0**
+- unresolved T5 blockers: **0**
 
 Full provenance: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).  
 Living terminology decisions: [`LEXICON.md`](LEXICON.md).
@@ -81,9 +81,9 @@ Living terminology decisions: [`LEXICON.md`](LEXICON.md).
 - translate the frozen Tamil witness, not alternate scan-appearing lexical forms recorded during P5;
 - frozen anomalous `பேச்சுல` remains verified as Article 1 source-bearing `pechchul`;
 - frozen scan-3 `அயம்` remains ambiguous and may not be silently repaired in Article 2;
-- frozen scan-3 `கல்லுரி` must not be silently normalised during Article 2 review;
-- preserve `ஐயர்` / `அய்யர்` and `சாமிநாதய்யர்` / `சாமிநாத அய்யர்` source-form distinctions established through T4;
-- preserve T3 voice changes and T4 source/quotation decisions; do not use T5 for stylistic polishing;
+- frozen scan-3 `கல்லுரி` remains source-bearing `kalluri` in Article 2;
+- preserve `ஐயர்` / `அய்யர்` and `சாமிநாதய்யர்` / `சாமிநாத அய்யர்` source-form distinctions;
+- both articles are individually verified; E6 must not harmonise them merely for stylistic preference;
 - `மன்றத்தில்`, `முக்கிய குறிப்பு` and scan-4 advertisements remain outside the two Kalaignar article translations.
 
 ## Gate legend
@@ -99,8 +99,8 @@ Living terminology decisions: [`LEXICON.md`](LEXICON.md).
 
 ## Exact next activity
 
-Execute **Article 2 T5 — final article verification** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T4 source-audited English blob `9b2795e6c66dea08fdf46fcf7903550001e1a401`.
+Execute **E6 — publication-wide English consistency review** across both verified articles.
 
-Re-verify complete surviving coverage, title **Iyer Announces!**, all T4-established terminology/source-bearing forms, the documented first-paragraph quotation treatment, final inscription wording, metadata and both source-page comments. If PASS, set `translation_status: verified` and record the final verified English blob.
+Re-check the two verified English articles together for recurring `Dravidam` / Dravidian terminology, source-bearing name distinctions, title style, quotation treatment, source-page comments, source-anomaly preservation, rhetorical consistency and accidental cross-article harmonisation. Do not alter a verified article merely for stylistic preference; change only a genuine publication-level consistency or source/release defect and document any reopened gate explicitly.
 
-**Stop after Article 2 T5. Do not perform E6 in the same activity.**
+**Stop after E6. Do not perform E7 in the same activity.**
