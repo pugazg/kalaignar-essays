@@ -83,7 +83,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 
 - T0 setup: **PASS**
 - T1 drafts: **8 / 10**
-- T2 fidelity-reviewed: **7 / 10**
+- T2 fidelity-reviewed: **8 / 10**
 - T3 voice-reviewed: **7 / 10**
 - T4 audited: **7 / 10**
 - T5 verified: **7 / 10**
@@ -206,43 +206,46 @@ Article 6 is closed at T5. **Do not reopen it absent a genuine source-supported 
 
 Article 7 is closed at T5. **Do not reopen it absent a genuine source-supported defect.**
 
-## Article 8 — `பத்தினியே உன்போல்...!` — T1 COMPLETE / DRAFT
+## Article 8 — `பத்தினியே உன்போல்...!` — T1–T2 COMPLETE / FIDELITY-REVIEWED
 
 - English title: **O Chaste Woman, Like You...!**
 - frozen Tamil: `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`
 - source scans: **42–44**
 - printed pages: **42–43; scan 42 has no visible printed numeral**
 - English file: `publications/unarchchimaalai/translations/en/08-paththiniye-unpol.md`
-- T1 draft English: **`af9c82ea95b65bc7e632ddf45ab1754217bffc39`**
-- complete paragraph/clause coverage: **T1 PASS**
+- T1 draft English: `af9c82ea95b65bc7e632ddf45ab1754217bffc39`
+- T2 fidelity-reviewed English: **`eccf5a9b0b2e042a115b8214ff0dc12333a225fe`**
+- T2 fidelity corrections: **4** — frozen `அரிஜன்` is now source-bearing `Arijan`, distinct from Article 6 `ஹரிஜன` → `Harijan`; `காதல கொண்டாளாமே` is rendered `had love ... too` rather than stronger `fell in love`; the scan-43 negated `தொடாமல்...துவளாமல்...மறைந்து விட வில்லை` construction is restored with `swooning`; and T1's unsupported physical turn-away was removed from `வெறுத்துப் பேசிவிட்டு`.
+- complete paragraph/clause coverage: **T2 PASS**
 - all source comments 42–44: **PASS / ordered**
 - scan-42 source-recovered `பதில் இல்லை.`: **PASS / `No answer.`**
-- all dialogue quotation/question/exclamation structure: **represented**
+- all dialogue quotation/question/exclamation structure: **T2 PASS**
 - scan-43 source-visible `* * *`: **PASS / preserved**
 - source citation `1937` / page `43`: **PASS**
 - scan-43→44 literary quotation: **one continuous quotation / PASS**
 - repeated erotic imagery and `கூடிக் கூடி / குலவிக் குலவி / ஆடியாடி`: **preserved without softening**
 - source insults and polemical force: **preserved**
-- provisional source-sensitive choices: `கன்னத்தால்` → `through her cheek`; frozen `அனுக்ரகம்` → `anugraham`; frozen `அழ்காக` → `azhgaaga`; frozen `பன் முறை` → `pan murai`; frozen `ஓருருவாகிப்` → `becoming one form`
+- source-sensitive choices: `கன்னத்தால்` → `through her cheek`; frozen `அனுக்ரகம்` → `anugraham`; frozen `அழ்காக` → `azhgaaga`; frozen `பன் முறை` → `pan murai`; frozen `ஓருருவாகிப்` → `becoming one form`
 - source labels/proper forms include `Kunti Devi`, `Karnan`, `Surya Bhagavan`, `Pandu Maharaja`, `Yamadharman`, `Dharmar`, `Vayu Bhagavan`, `Bhimar`, `Indran`, `Arjunan`, `Sri Jath Govindaraja Iyengar`, `Villi Bharata Vasanam`, `Panchali`
-- source-quoted `பாரா முகம் உன்னையே`: **provisional `Paaraa Mugam Unnaiye`; no outside identification/translation**
+- source-quoted `பாரா முகம் உன்னையே`: **`Paaraa Mugam Unnaiye`; no outside identification/translation**
 - no outside epic/history identification, web wording, published translation or scan-alternate lexical repair imported: **none**
 - frozen Tamil changed: **No**
 - blockers: **0**
+- synchronized T2 records: English article `eccf5a9b0b2e042a115b8214ff0dc12333a225fe`; English tracker `a849476f0a5ed0f0bc9d2e3c86d3ea89dfdab302`; translation plan `3656a11b72106d66818d99cad4dfb6e6e69b7ee5`; lexicon `062fc04e94514d9f821d6d3b4e831ee0c6ec06a2`; review ledger `20d4e8313374c1331366627a78bb5b9bfcf72bad`.
 
-Article 8 remains downstream of T2–T5. **Do not begin Article 9 until Article 8 reaches T5.**
+Article 8 remains downstream of T3–T5. **Do not begin Article 9 until Article 8 reaches T5.**
 
 ---
 
 # Exact next activity
 
-Execute **Article 8 T2 — bilingual fidelity review** for `பத்தினியே உன்போல்...!` against:
+Execute **Article 8 T3 — Kalaignar voice review** for `பத்தினியே உன்போல்...!` against:
 
 - frozen Tamil blob: `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`
-- T1 English blob: `af9c82ea95b65bc7e632ddf45ab1754217bffc39`
+- T2 English blob: `eccf5a9b0b2e042a115b8214ff0dc12333a225fe`
 - source scans: **42–44**
 
-T2 must re-read the entire frozen Tamil and T1 English paragraph by paragraph and clause by clause. Verify no omissions or additions, all dialogue/quotation boundaries, rhetorical questions/exclamations, scan-42 source-recovered `பதில் இல்லை.`, scan-43 `* * *`, scan-43→44 quoted passage, source citation `1937` / page `43`, epic/source labels, insults, erotic imagery, repetition and provisional source-sensitive choices. Review especially `கன்னத்தால்`, frozen `அனுக்ரகம்`, frozen `அழ்காக`, frozen `பன் முறை`, frozen `ஓருருவாகிப்`, `வில்லிபாரத வசனம்`, `ஸ்ரீ ஜத் கோவிந்தராஜ அய்யங்கார்`, and source-quoted `பாரா முகம் உன்னையே`. Do not import scan-appearing alternate lexical forms, outside epic/history wording, web wording or published translations. If T2 passes, advance Article 8 only to `translation_status: fidelity-reviewed`, synchronize the English article/tracker/plan/lexicon/review/handover, and **stop before Article 8 T3**.
+T3 must preserve every T2 meaning/source decision and make only meaning-neutral English voice/cadence changes. Review especially the opening dialogue's mocking question-and-answer rhythm, the repeated `தத்துவார்த்தம்` defence, `No answer.`, the insults, the sewer/javvadu taunt, the command `Read it!`, the scan-43→44 literary quotation, repeated erotic verbs (`joining and joining`, `frolicking and frolicking`, `dancing and dancing`), `Vaidheega madmen`, the old-toddy/new-pot image, source-quoted `Paaraa Mugam Unnaiye`, and the closing `What can be done? The future alone must answer.` Preserve scan-42 source-recovered `No answer.`, scan-43 `* * *`, `Arijan`, frozen/source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`, all page comments/quotation boundaries and all T2 proper-name choices. Do not import scan-appearing alternate lexical forms, outside epic/history wording, web wording or published translations. If T3 passes, advance Article 8 only to `translation_status: voice-reviewed`, synchronize records, and **stop before Article 8 T4**.
 
 ## Current blockers
 
