@@ -18,10 +18,10 @@ transcription_method: "user-supplied lexical baseline; direct visual review for 
 
 கலைஞர் மு. கருணாநிதி
 
-விற்பனையாளர்:
+விற்பனையாளர் :
 
 பாரி நிலையம்  
-59, பிராட்வே — சென்னை -1
+59, பிராட்வே — சென்னை-1
 
 ## அச்சு அல்லாத / physical-copy marks
 
