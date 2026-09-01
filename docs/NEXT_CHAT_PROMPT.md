@@ -18,7 +18,7 @@ Active publication:
 
 Fetch live `main` **first**. The last confirmed live HEAD immediately before this continuation prompt was synchronized was:
 
-`ab36f6255069ca79b79d78e0ccaae0b7555e88c9` — `Prepare Kalaignar essays fresh-window handover`
+`f612d637141e31fe9d97ea50dfeadc6a70dac24e` — `Advance Kalaignar essays handover to E7`
 
 If `main` has advanced beyond that checkpoint, preserve the newer durable state and continue from it. **Do not reset, overwrite, repeat or reopen later completed work merely because this prompt contains an older checkpoint.**
 
@@ -57,7 +57,7 @@ Tamil archival layer is **COMPLETE / FROZEN**:
 - documented Gemini/source lexical conflicts retained under the publication-specific rule: **18**
 - Tamil/body blockers: **0**
 
-English article translation is complete through **T5 for all 10 articles**:
+English article translation is complete through **T5 for all 10 articles**, and **E6 publication-wide consistency review has PASSED**.
 
 1. `உணர்ச்சி மாலை` — **Garland of Emotion** — `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
 2. `புரட்சி வளர்ந்த கதை` — **The Story of How the Revolution Grew** — `f1599a8e7cae4ba749b9be2857705b152887f9f8`
@@ -78,29 +78,46 @@ Progress:
 - T3: **10/10**
 - T4: **10/10**
 - T5: **10/10**
-- E6: **NOT STARTED**
+- E6: **PASS**
 - E7: **NOT STARTED**
 - blockers: **0**
 
-All ten articles are individually verified. Do not reopen an article unless E6 finds a genuine cross-article consistency defect or a source-supported problem.
+E6 required **0 English body corrections**. All ten final English blob SHAs above remain unchanged. E6 found **0 source/fidelity defects** and reopened no Tamil or translation gate.
+
+### E6 non-regression decisions
+
+E6 explicitly confirmed that consistency does **not** mean homogenisation. Preserve deliberate contextual/source-witness differences, including:
+
+- `Dravidam` / `Dravidians` / adjectival `Dravidian` according to immediate frozen Tamil form;
+- Article 4 `Kambar` / `Kamban` according to `கம்பர்` / `கம்பன்`;
+- Article 7 `Gandhiyar`, `revered Gandhi`, `Mohan Das Gandhi...` versus Article 8 `Gandhiji` according to immediate source label/epithet;
+- `Brahmin` / `non-Brahmin` versus source-bearing `Parppanar` / `Parppanan` / `Parppanars` / `non-Parppanar`; `Vediyars` remains separate;
+- noun `Vaidheegam` versus contextual `Vaidheega madmen`;
+- Article 6 `Harijan` versus Article 8 `Arijan journal`;
+- Article 6 `Oriental College` versus frozen later `Oriyantal College`;
+- Article 5 translated `Soviet Union Hero` versus source-English `(Hero of the Soviet union)`;
+- Article 9 name/honorific variants (`Ramasami` / `Ramasamiyar`, `Nagammaiyar` / `Nagamma`, `Ammaiyar`, `Periyar`);
+- Article 8 epic-name forms and all established source-bearing/unexplained transliterations, including frozen raw `ப்ழச்சளை`.
+
+Recurring decisions confirmed consistent include `Dravidam`, `Aryanism`, `Tiruvitaththar`, `Oman Sea`, proletarian vocabulary, `God-ism`, `syrupy speech` and `javvadu` where their source function recurs.
 
 ### Publication-specific source rule — do not regress
 
-For `உணர்ச்சிமாலை`, the user explicitly established that Gemini lexical tokens remain the working/frozen lexical baseline wherever Gemini supplied wording. The scan controls structure, punctuation, spacing, paragraphing, headings, page/article boundaries and documented physical/source witnesses. Scan/Gemini lexical disagreements are **logged, not silently substituted**.
+For `உணர்ச்சிமாலை`, Gemini lexical tokens remain the working/frozen lexical baseline wherever Gemini supplied wording. The scan controls structure, punctuation, spacing, paragraphing, headings, page/article boundaries and documented physical/source witnesses. Scan/Gemini lexical disagreements are **logged, not silently substituted**.
 
-English authority is the frozen Tamil assembly. Do not use an alternate scan-appearing lexical reading to “improve” English during E6.
+English authority is the frozen Tamil assembly. Do not use an alternate scan-appearing lexical reading to “improve” English during E7.
 
-Durable non-regression includes, among other recorded witnesses:
+Durable non-regression includes:
 
 - scan 19 source-recovered Article 4 text;
 - scan 20 visible printed numeral `1` only;
 - frozen scan 32 irregular lexical/order sequence — deliberately unreconstructed;
 - corrected scan 33/34 physical boundary;
 - Article 7 frozen ending on scan 41 at `வரலாற்றை வீணாக்கிய`, with deliberately incomplete English ending;
-- scan 42 source-recovered `பதில் இல்லை.`;
+- scan 42 source-recovered `பதில் இல்லை.` / `No answer.`;
 - scan 43 `* * *`;
 - scan 48 frozen `ப்ழச்சளை` — never guess a repaired form;
-- scan 49 frozen `விட்டாய்.` placement;
+- scan 49 frozen `விட்டாய்.` / `You left.` placement;
 - scan 49 publication-source note/printer imprint outside Article 10;
 - scan 50 advertisement outside all articles.
 
@@ -110,47 +127,29 @@ Source PDF is never committed.
 
 > **Translate the language; do not neutralise the voice.**
 
-E6 must preserve Kalaignar's directness, commands, rhetorical questions, repetition, sarcasm, ridicule, polemical labels, emotional temperature, imagery, exclamations and source-bearing oddities. Do not turn consistency review into stylistic homogenisation.
-
 ### EXACT NEXT ACTIVITY
 
-Execute **E6 — publication-wide English consistency review** across all ten T5-verified articles.
+Execute **E7 — English release closeout** for `உணர்ச்சிமாலை`.
 
-Audit systematically:
+Use the E6-passed ten-article baseline and canonical records. E7 is a release/documentation closeout, not a fresh stylistic editing pass.
 
-- recurring names and author-chosen epithets;
-- epic-name conventions and deliberate source-form differences;
-- `Aryan`, `Aryanism`, `Dravidian`, `Dravidians`, `Dravidam` and related ideological vocabulary;
-- `Brahmin`, `Parppanar`, `Parppaniyam`, `Vaidheegam` / contextual forms and other socially/religiously loaded terminology;
-- recurring source-bearing transliterations, unexplained forms, puns and insults;
-- source/publication titles, periodical titles and citation treatment;
-- quotation boundaries and quoted-passage treatment;
-- English title style across all ten articles;
-- tone, directness, sarcasm, ridicule, commands, rhetorical questions, exclamations and repetition;
-- accidental smoothing, harmonisation, modernisation or academic distancing introduced in later articles;
-- all ten article units for completeness and retained page-boundary comments;
-- all durable source anomalies listed above and in `HANDOVER.md`, `LEXICON.md` and `TRANSLATION_REVIEW.md`.
+At minimum:
 
-Pay particular attention to **deliberate contextual exceptions**. A different English form is not automatically an inconsistency. Preserve a difference when the frozen Tamil/source label or rhetorical function differs, and record the exception rather than mechanically harmonising it.
+- re-confirm all ten current English article files still match the E6-passed blob SHAs above;
+- re-confirm all ten frozen Tamil authority SHAs remain unchanged;
+- verify T0–T5 = complete, E6 = PASS, blockers = 0 across the English tracker, translation plan, review ledger, lexicon and root handover;
+- verify all E6 deliberate contextual/source-witness exceptions remain documented and no body was silently harmonised after E6;
+- verify all ten article units retain required source-page comments and that durable source anomalies/exclusions remain represented in release records;
+- verify the publication is eligible under `ESSAY_TRANSLATION_GUIDE.md` to be described as **English-translation complete**;
+- if no release blocker exists, mark **E7 PASS / ENGLISH RELEASE COMPLETE** and synchronize `translations/en/README.md`, `TRANSLATION_PLAN.md`, `translations/en/LEXICON.md`, `translations/en/TRANSLATION_REVIEW.md`, root `HANDOVER.md`, and this continuation prompt as needed;
+- do not alter frozen Tamil;
+- do not alter an English article body merely for polish, style uniformity or conventionalisation;
+- if E7 identifies a genuine release-blocking or source-supported defect, explicitly reopen the affected gate instead of silently fixing it under release closeout.
 
-### E6 correction discipline
-
-For every E6 finding:
-
-- classify it as **consistent / deliberate contextual exception / correction required**;
-- make a body change only when a genuine consistency defect is established against the frozen Tamil and established publication policy;
-- never change frozen Tamil during E6;
-- never import web wording, external history, alternate scan lexical forms or published translations;
-- if an English body changes, update that article's final English blob SHA and record the exact E6 correction in the lexicon/review records;
-- if a finding reveals an actual source/fidelity defect rather than a consistency issue, stop and reopen the affected source/translation gate explicitly instead of silently fixing it under E6;
-- synchronize `translations/en/LEXICON.md`, `translations/en/TRANSLATION_REVIEW.md`, `translations/en/README.md`, `TRANSLATION_PLAN.md` and root `HANDOVER.md`.
-
-After E6 passes, record **E6 PASS** and set the exact next activity to **E7 — English release closeout**.
-
-**Do not execute E7 in the same activity.**
+Do not start a new publication or unrelated activity in the same E7 activity.
 
 ### Fresh-window execution rule
 
 When the user says **“Proceed with next activity”**, do not ask them to restate context. Fetch live `main`, read the authoritative handover and current records, then execute the exact next activity completely.
 
-At the end, report the E6 result, corrections/contextual exceptions, updated article SHAs if any, latest live `main` commit, blockers and exact next activity.
+At the end, report the E7 result, whether any release blocker or article change occurred, final release status, latest live `main` commit, blockers and exact next activity.
