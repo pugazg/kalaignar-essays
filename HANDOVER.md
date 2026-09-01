@@ -143,7 +143,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - English file: `publications/unarchchimaalai/translations/en/06-3-57-90.md`
 - T1 draft English: `03b33ab1aaa042266eb34163e688e415baa47be9`
 - T2 fidelity-reviewed English: `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`
-- T3 voice-reviewed / T4-audited English: `1332512bbff94f5647dbbdfa7dfe9b1b0a2479d8`
+- T3 voice-reviewed / T4-audited English: `1332512bbffdd618078813444c2cf24ebcea07ff`
 - final T5-verified English: **`cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`**
 - T2 fidelity corrections: **5**
 - T3 meaning-neutral voice/cadence interventions: **10**
@@ -203,6 +203,7 @@ Article 6 is closed at T5. **Do not reopen it absent a genuine source-supported 
 - outside historical identification, web wording, published translation, alternate scan lexical/order reading or source-normalising reconstruction imported: **none**
 - frozen Tamil changed: **No**
 - blockers: **0**
+- synchronized T5 records: English article `6cfb28e2d83ba84ee2daa54606561479b61498b0`; English tracker `e049b4599e7bfd566f940c132bd7d7a942c66bd4`; translation plan `8643148df9aac40b25c9bada9011ce50fc995e2d`; lexicon `fb87b4149cb708548f57adb42084da091e55741e`; review ledger `0f2ab96456c2433816a31b80190ac8c70c37975b`.
 
 Article 7 is closed at T5. **Do not reopen it absent a genuine source-supported defect.**
 
