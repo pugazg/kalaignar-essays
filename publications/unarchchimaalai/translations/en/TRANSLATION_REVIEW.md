@@ -243,7 +243,8 @@ Source authority:
 - printed pages: **30–31; scan 30 has no visible printed numeral**
 - English article: [`05-ingalla-irashyavil.md`](05-ingalla-irashyavil.md)
 - English title: **Not Here! In Russia**
-- T1 draft blob: **`af5d3bf7ae6377b8872076e3562f958299481259`**
+- T1 draft blob: `af5d3bf7ae6377b8872076e3562f958299481259`
+- T2 fidelity-reviewed blob: **`82a58cabb1c973fb7781f80e8ec53dac14fb2720`**
 
 ## T1 — complete close draft — COMPLETE / PASS
 
@@ -278,6 +279,35 @@ T1 translated the complete frozen Article 5 paragraph by paragraph across scans 
 
 **T1 RESULT: PASS. Article 5 entered `translation_status: draft`.**
 
+## T2 — bilingual fidelity review — COMPLETE / PASS
+
+T2 compared every Article 5 Tamil paragraph and clause against the T1 English draft across scans 30–32. It made **2 fidelity corrections** and retained all source-sensitive witnesses without outside reconstruction.
+
+### T2 fidelity corrections
+
+1. scan 30 `அடுப்பூதும் பெண்களுக்கு படிப்பேதுக்கடி என...`: removed T1-added quotation marks around **`what need have stove-blowing women for education?`** because the frozen Tamil presents it as unquoted reported wording after `என`;
+2. scan 31 `என் பாலைக்குடித்தவனா பகைவனின் ஈட்டியை முதுகினால் தாங்கினான்...`: changed the T1 declarative **`My son, who drank my milk, bore...`** to **`Was it he who drank my milk who took the enemy's spear on his back......?`**, restoring the interrogative `வனா` force and removing the unsupported T1-added `My son`.
+
+### T2 non-regression / source checks
+
+- title **Not Here! In Russia**: **PASS**;
+- seven opening source-name lines: **PASS / unchanged**;
+- all Tamil paragraphs represented with no added or omitted claim after corrections: **PASS**;
+- scan comments 30–32 and printed-page witnesses: **PASS**;
+- three martial-mother movements: **PASS / first and third quoted, middle source-unquoted outcry retained without quotation marks**;
+- dates/numbers `600`, February 1, 1945, `10,55,000*`, 1940, 54,200 and 49: **PASS**;
+- `Purananuru`, `Dravidam`, `hidebound reactionaries`, `viruttam`, `pallid boy`, `Mariamman lullaby`: **PASS / T2 reviewed**;
+- `Idogiyo Nijulina`, `cradle`, `arasa tree`, `Putradi Mariamman temple sindhu`, `collective farm`: **PASS / source-sensitive choices retained**;
+- `Soviet Union Hero` and source-English `(Hero of the Soviet union)`: **PASS / retained as distinct source witnesses**;
+- `Sita Devi / Arundhati / Ahalya / Draupadi` comparison labels: **PASS**;
+- scan-30 frozen `பீடத்தில்` rather than scan-appearing alternate: **PASS / English not changed from frozen authority**;
+- scan-31 frozen `திரும்பினார்` rather than scan-appearing alternate: **PASS / English follows frozen authority**;
+- scan-32 frozen sequence `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...`: **PASS / literal supplied-order English retained / no reordering or lexical repair**;
+- outside historical identification, alternate scan order or web wording imported: **No**;
+- unresolved T2 blockers: **0**.
+
+**T2 RESULT: PASS. Article 5 advanced to `translation_status: fidelity-reviewed`.**
+
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
@@ -286,7 +316,7 @@ T1 translated the complete frozen Article 5 paragraph by paragraph across scans 
 | 2 | புரட்சி வளர்ந்த கதை | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 3 | போகிறான்;போகிறான்..! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 4 | இராவணன் நம் பாட்டன் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 5 | இங்கல்ல! இரஷ்யாவில் | `draft` | PASS | **PASS** | — | — | — | — |
+| 5 | இங்கல்ல! இரஷ்யாவில் | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
 | 6 | 3, 57, 90. | `not-started` | PASS | — | — | — | — | — |
 | 7 | 30-1-1948 | `not-started` | PASS | — | — | — | — | — |
 | 8 | பத்தினியே உன்போல்...! | `not-started` | PASS | — | — | — | — | — |
@@ -295,4 +325,4 @@ T1 translated the complete frozen Article 5 paragraph by paragraph across scans 
 
 ## Exact next activity
 
-Execute **Article 5 T2 — bilingual fidelity review** against frozen Tamil blob `c8ac4d7c241832e07bbb24c5cee935588673f4ac` and T1 English blob `af5d3bf7ae6377b8872076e3562f958299481259`, scans **30–32**. Compare every clause and all three scan boundaries; audit the seven opening names, the three martial-mother passages, dates/numbers, `பத்தாம்பசலிகள்`, `விருத்தம்`, `பசலைப் பையன்`, `ஏணை`, `அரசமரம்`, the award phrase and source-English parenthetical, and especially the frozen scan-32 lexical/order sequence. Make only fidelity corrections, do not use the scan-appearing alternate order or outside historical identification, advance to `fidelity-reviewed` only if T2 passes, and **stop before Article 5 T3**.
+Execute **Article 5 T3 — Kalaignar voice review** against frozen Tamil blob `c8ac4d7c241832e07bbb24c5cee935588673f4ac` and T2 English blob `82a58cabb1c973fb7781f80e8ec53dac14fb2720`, scans **30–32**. Preserve every T2 meaning and source-witness decision while reviewing directness, ridicule, accumulative martial cadence, repeated `Here... There...` contrasts, `Not a man! A woman! Woman!!`, the three martial-mother movements and the final Purananuru/Russia contrast. The frozen scan-32 lexical/order sequence must remain visibly unreconstructed. Make only meaning-neutral voice/cadence changes and **stop before Article 5 T4**.
