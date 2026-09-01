@@ -10,7 +10,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - Tamil source/fidelity prerequisite: **PASSED / FROZEN**
 - Tamil articles: **10 / 10 strict-rechecked**
 - T0 source prerequisite/setup: **COMPLETE / PASS**
-- T1 close English drafts: **8 / 10**
+- T1 close English drafts: **9 / 10**
 - T2 fidelity-reviewed: **8 / 10**
 - T3 voice-reviewed: **8 / 10**
 - T4 audited: **8 / 10**
@@ -20,7 +20,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - English translation: **IN PROGRESS**
 - unresolved translation blockers: **0**
 
-Articles 1–8 have completed T0–T5 and are individually `verified`. Article 9 has not started beyond its T0 source prerequisite.
+Articles 1–8 have completed T0–T5 and are individually `verified`. Article 9 has completed T1 and is `draft`; T2 has not started.
 
 ## Frozen Tamil translation authorities
 
@@ -49,7 +49,7 @@ Articles 1–8 have completed T0–T5 and are individually `verified`. Article 9
 | 6 | 3, 57, 90. | [`06-3-57-90.md`](06-3-57-90.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 7 | 30-1-1948 | [`07-30-1-1948.md`](07-30-1-1948.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 8 | பத்தினியே உன்போல்...! | [`08-paththiniye-unpol.md`](08-paththiniye-unpol.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 9 | அன்னை நாகம்மையார்! | `09-annai-nagammaiyar.md` | `not-started` | PASS | — | — | — | — | — |
+| 9 | அன்னை நாகம்மையார்! | [`09-annai-nagammaiyar.md`](09-annai-nagammaiyar.md) | `draft` | PASS | **PASS** | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `10-kavithaiyalla-kannirkkadal.md` | `not-started` | PASS | — | — | — | — | — |
 
 ## Verified article records
@@ -81,47 +81,27 @@ Articles 1–8 have completed T0–T5 and are individually `verified`. Article 9
 
 ### Article 7 — 30-1-1948
 - frozen Tamil authority: `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`
-- source scans: **39–41**
-- printed pages: **39–40; scan 39 has no visible printed numeral**
-- T1 draft English: `6e7b49c9f15cb690d439e2bc5665c226bffccd7e`
-- T2 fidelity-reviewed English: `409685e516e32783299130b8205c71638bb8d90d`
-- T3 voice-reviewed English: `b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`
-- T4-audited English candidate: `1879a5e49c3948bb41ffee15b7c37e6a72149cd5`
 - final T5-verified English: **`6cfb28e2d83ba84ee2daa54606561479b61498b0`**
-- T2 fidelity corrections: **5**
-- T3 meaning-neutral voice/cadence interventions: **9**
-- T4 source-audit body corrections: **2 clause-level corrections in one scan-41 sentence** — `became` → `could become` and `ceased` → `could cease`
-- T5 body corrections: **0**
-- all metadata, paragraphs/clauses, quotation boundaries, dates, scan comments/page continuations and source-bearing terminology: **T5 PASS**
-- frozen scan-39 `ஒடி`, `சோக பூகம்`, `சுக்குநூறாக்கம்`, scan-41 `ஒய்வதற்கு`, final ordering and ending at `வரலாற்றை வீணாக்கிய`: **T5 PASS / no alternate reconstruction**
-- outside historical identification, alternate scan wording, web wording or published translation imported: **No**
 - blockers: **0**
 
-## Article 8 T0–T5 record
-
-- Tamil title: **பத்தினியே உன்போல்...!**
-- English title: **O Chaste Woman, Like You...!**
+### Article 8 — O Chaste Woman, Like You...!
 - frozen Tamil authority: `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`
-- source scans: **42–44**
-- printed pages: **42–43; scan 42 has no visible printed numeral**
-- T1 draft English: `af9c82ea95b65bc7e632ddf45ab1754217bffc39`
-- T2 fidelity-reviewed English: `eccf5a9b0b2e042a115b8214ff0dc12333a225fe`
-- T3 voice-reviewed / T4-audited English candidate: `2c5101765a57a01dce05e82d006a45d00f967d90`
 - final T5-verified English: **`6b12e6b3cc09b6de402998bb3824e7a98808f885`**
-- T2 fidelity corrections: **4** — frozen `அரிஜன்` retained as source-bearing `Arijan` instead of inherited `Harijan`; `காதல கொண்டாளாமே` tightened from `fell in love` to `had love ... too`; the scan-43 negated `தொடாமல்...துவளாமல்...மறைந்து விட வில்லை` sequence was restored as a single negative construction with `swooning`; and `வெறுத்துப் பேசிவிட்டு` was restored without adding an unsupported physical turn-away.
-- T3 meaning-neutral voice/cadence interventions: **7** — moved `too` to a sharper dialogue position; tightened `There is no fault...`; recast the young man's thought for direct rhetorical cadence; `experiences` → `finds`; tightened the old-toddy/new-pot kalakshepam sentence with a colon; `take and hold out` → `take up and hold out`; and `speak with disgust, saying` → `say in disgust`.
-- T4 body corrections: **0**
-- T5 body corrections: **0**
-- complete terminology/proper-name/source-title audit and paragraph/clause coverage: **T5 PASS**
-- all dialogue and quotation boundaries, including scan-43→44 continuous literary quotation: **T5 PASS**
-- scan-42 source-recovered `பதில் இல்லை.` / `No answer.` and scan-43 `* * *`: **T5 PASS**
-- source citation `1937` / page `43`: **T5 PASS**
-- `Arijan`, `Kunti Devi`, `Karnan`, `Surya Bhagavan`, `Pandu Maharaja`, `Yamadharman`, `Dharmar`, `Vayu Bhagavan`, `Bhimar`, `Indran`, `Arjunan`, `Sri Jath Govindaraja Iyengar`, `Villi Bharata Vasanam`, `Panchali`: **T5 VERIFIED / source-derived choices retained**
-- frozen/source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`: **T5 PASS / no scan-alternate repair**
-- source-quoted `Paaraa Mugam Unnaiye` and quoted title refrain: **T5 PASS**
-- repeated erotic language and polemical insults/images: **T5 PASS / no neutralisation**
-- outside epic/history identification, web wording, published translation or alternate scan lexical repair imported: **No**
 - blockers: **0**
+
+## Article 9 — T1 COMPLETE / DRAFT
+
+- Tamil title: **அன்னை நாகம்மையார்!**
+- English title: **Mother Nagammaiyar!**
+- frozen Tamil authority: `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
+- source scans: **45–47**
+- printed pages: **45–46; scan 45 has no visible printed numeral**
+- T1 draft English: **`1d3ac3f7ef2fff5e79b23434f907b467ae1266f6`**
+- source labels provisionally retained as `Periyar`, `Ramasami`, `Nagammaiyar` / `Nagamma`, `Ramasamiyar`, and `Ammaiyar` without outside biographical conventionalisation.
+- ages/dates/numbers preserved: `19`, `13`, `1898`, `35`, `1933`, `11-5-1933`, `12-5-1933`, `144`.
+- all three source-page comments and printed-page witnesses preserved.
+- youthful marriage vows, the quoted horse/stable revolutionary verse, Ramasami's family-lamp declaration, the old-man/Nagammaiyar exchange, affection, ridicule and polemical images retained.
+- T1 blockers: **0**
 
 ## Translation authority / special source rule
 
@@ -129,4 +109,4 @@ English authority is the frozen Tamil article assembly, not OCR, memory, web wor
 
 ## Exact next activity
 
-Execute **Article 9 T1 — complete close English draft** for `அன்னை நாகம்மையார்!` from frozen Tamil blob `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`, scans **45–47**, printed pages **45–46; scan 45 has no visible printed numeral**. Translate the complete frozen article paragraph by paragraph and clause by clause; preserve all source-page comments, quotation/question/exclamation structure, dates/ages/numbers and source-bearing labels. Establish Article 9 terminology from the immediate source, especially `பெரியார்`, `ராமசாமி`, `நாகம்மையார்` / `நாகம்மா`, the quoted youthful marriage vows and the source's polemical/affectionate register. Do not import outside biographical wording or silently conventionalise the frozen source. Record provisional Article 9 terminology and T1 provenance, synchronize trackers/handover, and **stop before Article 9 T2**.
+Execute **Article 9 T2 — bilingual fidelity review** for `அன்னை நாகம்மையார்!` against frozen Tamil blob `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` and T1 English blob `1d3ac3f7ef2fff5e79b23434f907b467ae1266f6`, scans **45–47**. Re-read paragraph by paragraph and clause by clause; verify the title, source labels `பெரியார்`, `ராமசாமி`, `நாகம்மையார்` / `நாகம்மா`, `ராமசாமியார்` / `அம்மையார்`, the source-sensitive `மைனர்-காலி` and `கட்டை` image, quoted youthful vows, age/date/number witnesses, the horse/stable revolutionary quotation, Ramasami's family-lamp declaration, affectionate and polemical imagery, scan comments and the final `காதலையும் மீறிய கடமை` sentence. Do not import outside biographical wording or silently conventionalise source forms. Stop before Article 9 T3.
