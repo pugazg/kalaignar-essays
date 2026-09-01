@@ -4,7 +4,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Status
 
-**Articles 1–4 T5 VERIFIED; Article 5 T1–T3 COMPLETE / VOICE-REVIEWED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
+**Articles 1–4 T5 VERIFIED; Article 5 T1–T4 COMPLETE / VOICE-REVIEWED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
 
 > **Translate the language; do not neutralise the voice.**
 
@@ -18,11 +18,14 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Article 1 — T5-verified decisions
 
+Final verified English blob: `4246c9f1e206d5703fe50297657bb0af2a8e57e6`.
+
 | Tamil / source form | English decision | Status |
 |---|---|---|
 | `உணர்ச்சி மாலை` | `Garland of Emotion` | T5 VERIFIED |
 | `பாரதிதாசன்` | `Bharathidasan` | T5 VERIFIED |
 | `தமிழர்` | `Tamils` | T5 VERIFIED |
+| `தமிழரல்லார்` | `non-Tamils` | T5 VERIFIED |
 | `தமிழ்நாடு` | `Tamil Nadu` | T5 VERIFIED |
 | `தமிழகம்` | `Tamilakam` | T5 VERIFIED |
 | `தெம்மாங்கு` | `themmangu` | SOURCE-BEARING / T5 VERIFIED |
@@ -34,12 +37,10 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `அத்தான்` | `Aththaan` | SOURCE-BEARING / T5 VERIFIED |
 | `அயோத்யாபுரி` | `Ayodhyapuri` | T5 VERIFIED |
 | `சனிபகவான்` | `Sani Bhagavan` | T5 VERIFIED |
-| `சாகித்யகர்த்தா` / `சாகித்ய கர்த்தா` | `composer` | T5 VERIFIED |
+| `சாகித்யகர்த்தா` / `சாகித்ய கர்த்தா` | contextual `composer` | T5 VERIFIED |
 | `திருவிடத்தார்` | `Tiruvitaththar` | SOURCE-SENSITIVE / T5 VERIFIED |
 | `இளைக் காத எழுத்துக்கள்` | `writings that do not tire` | SOURCE-SENSITIVE / T5 VERIFIED |
 | `ரகளை` | `ruckus` | T5 VERIFIED |
-
-Final Article 1 English blob: `4246c9f1e206d5703fe50297657bb0af2a8e57e6`.
 
 ## Article 2 — T5-verified decisions
 
@@ -53,16 +54,16 @@ Final verified English blob: `f1599a8e7cae4ba749b9be2857705b152887f9f8`
 | `பாட்டாளி மக்கள்` | `proletarian people` | T5 VERIFIED |
 | `முதலாளி வர்க்கம்` | `capitalist class` | T5 VERIFIED |
 | `இரஷ்யா` / `ரஷ்ய` | `Russia` / `Russian` | T5 VERIFIED |
-| `இலெனின்` / `லெனின்` | `Lenin` | T5 VERIFIED; Tamil variants retained in provenance |
+| `இலெனின்` / `லெனின்` | `Lenin` | T5 VERIFIED; source variants retained in provenance |
 | `ஜார்` | `Tsar` | T5 VERIFIED |
 | `நிக்கோலாஸ் மன்னன்` | `King Nicholas` | T5 VERIFIED |
 | `டூமா` | `Duma` | T5 VERIFIED |
-| `போல்ஷ்வெக்கர் கட்சி` / `போல்ஷ்வெக்கட்சி` | `Bolshevik Party` | T5 VERIFIED |
+| `போல்ஷ்வெக்கர் கட்சி` / variants | `Bolshevik Party` | T5 VERIFIED |
 | `போல்ஷ்வெக்படையினர்` | `Bolshevik forces` | T5 VERIFIED |
 | `சோவியத் அரசாங்கம்` | `Soviet government` | T5 VERIFIED |
 | `தற்காலீக அரசாங்கம்` | `Provisional Government` | T5 VERIFIED |
 | `பீட்டர்ஸ்பர்க்` | `Petersburg` | T5 VERIFIED |
-| `பீட்ரோகிராட்` / `பீட்ரோ கிரோடு` | `Petrograd` | T5 VERIFIED; Tamil variants retained in provenance |
+| `பீட்ரோகிராட்` / `பீட்ரோ கிரோடு` | `Petrograd` | T5 VERIFIED; source variants retained in provenance |
 | `மாஸ்கோ செஞ்சதுக்கம்` | `Moscow's Red Square` | T5 VERIFIED |
 | `செர்கியஸ் கோமகன்` | `Prince Sergius` | T5 VERIFIED |
 | `ரஸ்புடீன்` | `Rasputin` | T5 VERIFIED |
@@ -99,7 +100,7 @@ Final verified English blob: `1134185bc21478775419adb3560b110c001d2b75`
 | `செல் மொய்த்த` | `swarmed by sel` | SOURCE-SENSITIVE / T5 VERIFIED; no outside repair |
 | `சுயநல பெருச்சாளிகள்` | `selfish bandicoots` | T5 VERIFIED; insulting animal image retained |
 | `பசலைப் பயலே` | `pallid rascal` | T5 VERIFIED |
-| `செல்வாக்கை செல்லாக்காசாக்குகிறேன்` | `I will turn your influence into worthless coin` | T5 VERIFIED; wordplay retained |
+| `செல்வாக்கை செல்லாக்காசாக்குகிறேன்` | `I will turn your influence into worthless coin` | WORDPLAY / T5 VERIFIED |
 | `அன்று வீரமுழக்கம் செய்வான்` | `That day he will roar a warrior's cry` | SOURCE-SENSITIVE / T5 VERIFIED; frozen `அன்று` retained |
 | `மாட மாளிகை` | `storeyed mansion` | T5 VERIFIED |
 | `நீர்மேற்குமிழி பஜனை` | `water-bubble bhajan` | SOURCE-BEARING / T5 VERIFIED |
@@ -113,39 +114,39 @@ Frozen Tamil authority: `006f2f75dbc3eea796170a29aee0befd162522e7`
 T1 draft blob: `ce50394af45c8bb69e003c3d3fd8de097cf34808`  
 T2 fidelity-reviewed blob: `1e1f2db8a603e068921d8fb6b9b3e2e4a4c04447`  
 T3 voice-reviewed blob: `3b28938aa7c884e7de04d0532482b220c6c73a5b`  
-T4-audited English candidate blob: `324cf12bd42cb55e0a8db621965d93b82b383648`  
+T4-audited candidate blob: `324cf12bd42cb55e0a8db621965d93b82b383648`  
 Final verified English blob: `03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`
 
 | Tamil / source form | English decision | Status / caution |
 |---|---|---|
 | `இராவணன் நம் பாட்டன்` | `Ravana Is Our Grandfather` | T5 VERIFIED |
 | `திராவிட இளைஞர்கள்` | `Dravidian youth` | T5 VERIFIED |
-| `திராவிடர்` | `Dravidians` | T5 VERIFIED; kept distinct from Article 2 source form `திராவிடம்` → `Dravidam` |
+| `திராவிடர்` | `Dravidians` | T5 VERIFIED; distinct from Article 2 `திராவிடம்` → `Dravidam` |
 | `இன உணர்ச்சி` | `racial feeling` | T2 CORRECTED / T5 VERIFIED |
 | `இனத் துரோகிகள்` | `race-traitors` | T5 VERIFIED |
-| `இனக்கொலை` | `race-murder` | T2 CORRECTED / T5 VERIFIED; polemical compound retained rather than softened |
+| `இனக்கொலை` | `race-murder` | T2 CORRECTED / T5 VERIFIED |
 | `இன எழுச்சி` | `racial awakening` | T2 CORRECTED / T5 VERIFIED |
 | `வேற்றினம்` | `alien race` | T5 VERIFIED |
 | `கம்பர்` | `Kambar` | T5 VERIFIED |
-| `கம்பன்` | `Kamban` | T5 VERIFIED; immediate source form retained rather than harmonised |
+| `கம்பன்` | `Kamban` | T5 VERIFIED; immediate source form retained |
 | `கம்பராமாயணம்` / `கம்ப ராமாயணம்` | `Kamba Ramayanam` | T5 VERIFIED |
 | `கம்பரசம்` | `Kambarasam` | SOURCE-TITLE / T5 VERIFIED |
 | `கம்பநாட்டாழ்வார்` | `Kambanattazhvar` | SOURCE-BEARING / T5 VERIFIED |
 | `காவடிச்சிந்து` | `kavadi-chindu` | SOURCE-BEARING / T5 VERIFIED |
 | `கடவுள்பொருள்` | `god-substance` | SOURCE-SENSITIVE / T5 VERIFIED |
-| `கடவுளீயம்` | `God-ism` | Article 2 T5 VERIFIED decision reused / T5 VERIFIED in Article 4 |
-| `எரிக்கும் வெறி` | `frenzy to burn` | T5 VERIFIED; T4 source-scope correction retained |
+| `கடவுளீயம்` | `God-ism` | Article 2 decision reused / T5 VERIFIED |
+| `எரிக்கும் வெறி` | `frenzy to burn` | T4 source-scope corrected / T5 VERIFIED |
 | `தரிக்கும் வெறி` | `frenzy to bear` | SOURCE-SENSITIVE / T5 VERIFIED |
-| scan-23 `திரிக்கும் வெறி` | `frenzy to twist` | SOURCE-SENSITIVE / T5 VERIFIED; deliberately not harmonised with scan 22 |
+| scan-23 `திரிக்கும் வெறி` | `frenzy to twist` | SOURCE-SENSITIVE / T5 VERIFIED; deliberately not harmonised |
 | `சுயமரியாதை இயக்கம்` | `Self-Respect Movement` | T5 VERIFIED |
 | `சுயமரியாதைக்காரர்` | `Self-Respecter` | T5 VERIFIED |
-| `பகுத்தறிவாளன்` | `rationalist` | T5 VERIFIED; consistent with Article 1 `rationalism` |
+| `பகுத்தறிவாளன்` | `rationalist` | T5 VERIFIED |
 | `கலாரசிகர்` | `art-lover` / contextual `art-loving` | T5 VERIFIED |
 | `டி. கே. சிதம்பரநாதர்களின்` | `T. K. Chidambaranathar` | SOURCE-LABEL / T2 CORRECTED / T5 VERIFIED |
 | `அறிஞர் அண்ணாதுரை` | `Arignar Annadurai` | SOURCE-LABEL / T2 CORRECTED / T5 VERIFIED |
 | `கவிஞர் பாரதிதாசன்` | `poet Bharathidasan` | SOURCE-LABEL / T4 CORRECTED / T5 VERIFIED |
-| `சகத் ரக்ஷகன்` | `sagath-rakshakan` | SOURCE-SENSITIVE / T2 CORRECTED / T5 VERIFIED; frozen token not silently normalised |
-| `கசக்கிறது` | `tastes bitter` | T2 CORRECTED / T5 VERIFIED; sensory metaphor retained |
+| `சகத் ரக்ஷகன்` | `sagath-rakshakan` | SOURCE-SENSITIVE / T2 CORRECTED / T5 VERIFIED |
+| `கசக்கிறது` | `tastes bitter` | T2 CORRECTED / T5 VERIFIED |
 | `கம்பர் தருங் காட்சி` | `Kambar Tharum Katchi` | SOURCE-TITLE / T5 VERIFIED |
 | `கம்பசித்திரம்` | `Kamba Chithiram` | SOURCE-TITLE / T5 VERIFIED |
 | `சித்திர ராமாயணம்` | `Chithira Ramayanam` | SOURCE-TITLE / T5 VERIFIED |
@@ -158,43 +159,59 @@ Final verified English blob: `03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`
 | `தென்னாட்டிலுள்ள திராவிடர்` | `Dravidians of the South` | T2 CORRECTED / T5 VERIFIED |
 | scan 25→26 Kambar verse | close English verse preserving four lines and page break | T5 VERIFIED; no published translation imported |
 
-T5 made **0 body corrections**. It reconfirmed the T4-corrected quotation/source-boundary decisions, all source-sensitive terminology and the complete T1–T4 non-regression chain before freezing the final verified English blob above.
-
-## Article 5 — T3 voice-reviewed decisions
+## Article 5 — T4-audited decisions
 
 Frozen Tamil authority: `c8ac4d7c241832e07bbb24c5cee935588673f4ac`  
 T1 draft blob: `af5d3bf7ae6377b8872076e3562f958299481259`  
 T2 fidelity-reviewed blob: `82a58cabb1c973fb7781f80e8ec53dac14fb2720`  
-T3 voice-reviewed blob: `eab4800f78cbf2900a5dca4225b7679d53001acf`
+T3 voice-reviewed blob: `eab4800f78cbf2900a5dca4225b7679d53001acf`  
+T4-audited candidate blob: **`eab4800f78cbf2900a5dca4225b7679d53001acf`**
 
 | Tamil / source form | English decision | Status / caution |
 |---|---|---|
-| `இங்கல்ல! இரஷ்யாவில்` | `Not Here! In Russia` | T2 REVIEWED / T3 PRESERVED |
-| `புறநானூறு` | `Purananuru` | SOURCE-TITLE / T2 REVIEWED / T3 PRESERVED |
-| `திராவிடம்` | `Dravidam` | Article 2 T5 VERIFIED decision reused / T3 PRESERVED |
-| `காக்கைபாடினியார்` | `Kakkaipadiniyar` | SOURCE-BEARING / T3 PRESERVED |
-| `நச்செள்ளையார்` | `Nachellaiyar` | SOURCE-BEARING / T3 PRESERVED |
-| `காவற்பெண்டு` | `Kavarpendu` | SOURCE-BEARING / T3 PRESERVED |
-| `பாரிமகளிர்` | `Pari Magalir` | SOURCE-BEARING / T3 PRESERVED |
-| `பெருங்கோப் பெண்டு` | `Perungop Pendu` | SOURCE-BEARING / T3 PRESERVED |
-| `வெண்ணிக்குயத்தியார்` | `Vennikkuyaththiyar` | SOURCE-BEARING / T3 PRESERVED |
-| `வெறிபாடிய காமக் கண்ணியார்` | `Veripadiya Kamak Kanniyar` | SOURCE-BEARING / T3 PRESERVED |
-| `பத்தாம்பசலிகள்` | `hidebound reactionaries` | T2 REVIEWED / T3 PRESERVED; insult/register retained |
-| `விருத்தம்` | `viruttam` | SOURCE-BEARING / T3 PRESERVED |
-| `பசலைப் பையன்` | `pallid boy` | T2 REVIEWED / T3 PRESERVED |
-| `மாரியம்மன் தாலாட்டு` | `Mariamman lullaby` | T2 REVIEWED / T3 PRESERVED |
-| `இடோகியோ நிஜுலினா` | `Idogiyo Nijulina` | SOURCE-BEARING / T3 PRESERVED; no outside identification |
-| `ஏணை` | `cradle` | SOURCE-SENSITIVE / T3 PRESERVED |
-| `அரசமரம்` | `arasa tree` | SOURCE-BEARING / T3 PRESERVED |
-| `புற்றடி மாரியம்மன் கோயில் சிந்து` | `Putradi Mariamman temple sindhu` | SOURCE-BEARING / T3 PRESERVED |
-| `கூட்டுப்பண்ணை` | `collective farm` | T2 REVIEWED / T3 PRESERVED |
-| `சோவியத் யூனியன் வீரர்` | `Soviet Union Hero` with source parenthetical `(Hero of the Soviet union)` retained separately | SOURCE/QUOTATION-SENSITIVE / T3 PRESERVED |
-| scan-32 `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...` | literal supplied-order English beginning `Knowledge, in the country; the kitchen; this, the enemies'—Nijulina included...` | SOURCE-SENSITIVE / T3 PRESERVED; frozen lexical/order sequence deliberately not repaired, reordered or smoothed |
-| `சீதேவி / அருந்ததி / அகல்யா / திரௌபதி` | `Sita Devi / Arundhati / Ahalya / Draupadi` | T2 REVIEWED / T3 PRESERVED |
+| `இங்கல்ல! இரஷ்யாவில்` | `Not Here! In Russia` | T4 AUDITED |
+| `புறநானூறு` | `Purananuru` | SOURCE-TITLE / T4 AUDITED |
+| `திராவிடம்` | `Dravidam` | Article 2 T5 decision reused / T4 AUDITED |
+| `காக்கைபாடினியார்` | `Kakkaipadiniyar` | SOURCE-BEARING / T4 AUDITED |
+| `நச்செள்ளையார்` | `Nachellaiyar` | SOURCE-BEARING / T4 AUDITED |
+| `காவற்பெண்டு` | `Kavarpendu` | SOURCE-BEARING / T4 AUDITED |
+| `பாரிமகளிர்` | `Pari Magalir` | SOURCE-BEARING / T4 AUDITED |
+| `பெருங்கோப் பெண்டு` | `Perungop Pendu` | SOURCE-BEARING / T4 AUDITED |
+| `வெண்ணிக்குயத்தியார்` | `Vennikkuyaththiyar` | SOURCE-BEARING / T4 AUDITED |
+| `வெறிபாடிய காமக் கண்ணியார்` | `Veripadiya Kamak Kanniyar` | SOURCE-BEARING / T4 AUDITED |
+| `பத்தாம்பசலிகள்` | `hidebound reactionaries` | T4 AUDITED; insult/register retained |
+| `விருத்தம்` | `viruttam` | SOURCE-BEARING / T4 AUDITED |
+| `பசலைப் பையன்` | `pallid boy` | T4 AUDITED |
+| `மாரியம்மன் தாலாட்டு` | `Mariamman lullaby` | T4 AUDITED |
+| `இடோகியோ நிஜுலினா` | `Idogiyo Nijulina` | SOURCE-BEARING / T4 AUDITED; no outside identification |
+| `ஏணை` | `cradle` | SOURCE-SENSITIVE / T4 AUDITED |
+| `அரசமரம்` | `arasa tree` | SOURCE-BEARING / T4 AUDITED |
+| `புற்றடி மாரியம்மன் கோயில் சிந்து` | `Putradi Mariamman temple sindhu` | SOURCE-BEARING / T4 AUDITED |
+| `கூட்டுப்பண்ணை` | `collective farm` | T4 AUDITED |
+| `சோவியத் யூனியன் வீரர்` | `Soviet Union Hero` | SOURCE/QUOTATION-SENSITIVE / T4 AUDITED |
+| source English `(Hero of the Soviet union)` | retain exactly and separately from translated Tamil award label | SOURCE-WITNESS / T4 AUDITED |
+| scan-32 `அறிவு, நாட்டில் அடுப்பங்கரை இந் எதிரிகளின் நிஜுலினா...` | literal supplied-order English beginning `Knowledge, in the country; the kitchen; this, the enemies'—Nijulina included...` | SOURCE-SENSITIVE / T4 AUDITED; frozen sequence not repaired, reordered or smoothed |
+| `சீதேவி / அருந்ததி / அகல்யா / திரௌபதி` | `Sita Devi / Arundhati / Ahalya / Draupadi` | T4 AUDITED; four source comparison labels remain separately quoted |
 
-T2 made **2 fidelity corrections**: it removed invented quotation marks around the source-unquoted stove/education phrase on scan 30, and restored the interrogative force of scan 31 `என் பாலைக்குடித்தவனா...` while removing the T1-added `My son`.
+### Article 5 T4 result
 
-T3 made **8 meaning-neutral voice/cadence interventions** while preserving every T2 meaning and source-witness decision. It tightened the opening Dravidam/backwardness sentence, strengthened the queens-of-Tamil accumulation, sharpened the middle martial-mother cadence, restored a more forceful `look!` interruption, tightened the Nijulina flight/attack sentence, shortened the two date lead-ins (`By February 1, 1945`; `by 1940`), and strengthened the final buried/shining Purananuru contrast. The deliberately irregular scan-32 sentence was not smoothed or reconstructed.
+T4 made **0 body corrections**. The T3 English blob therefore remains the T4-audited candidate.
+
+Audit result:
+
+- complete terminology/proper-name set: **PASS**;
+- first and third martial-mother quotations: **PASS**;
+- middle martial-mother outcry remains source-unquoted: **PASS**;
+- scan-30 stove/education wording remains source-unquoted: **PASS**;
+- scan-32 `Soviet Union Hero` quotation and separate source-English parenthetical: **PASS**;
+- four scan-32 comparison labels remain individually quoted: **PASS**;
+- dates/numbers `600`, February 1, 1945, `10,55,000*`, 1940, 54,200 and 49: **PASS**;
+- literal source asterisk after `10,55,000*`: **retained; no unsupported note invented**;
+- scan comments 30–32 and printed-page witnesses: **PASS**;
+- frozen scan-30 `பீடத்தில்` and scan-31 `திரும்பினார்`: **PASS / alternate scan forms not imported**;
+- frozen scan-32 lexical/order sequence: **PASS / visibly unreconstructed**;
+- outside/web wording, historical identification or source-normalising repair: **not used**;
+- blockers: **0**.
 
 ## Decisions still to establish in later articles
 
@@ -212,4 +229,4 @@ T3 made **8 meaning-neutral voice/cadence interventions** while preserving every
 
 ## Next lexicon activity
 
-During **Article 5 T4**, audit the T3 candidate for terminology/proper-name consistency, quotation boundaries, source-English parenthetical, scan comments/printed-page witnesses, dates/numbers, and the frozen scan-32 lexical/order anomaly. Article 5 remains `voice-reviewed` through T4; do not mark any Article 5 decision T5 verified until final article verification passes.
+During **Article 5 T5**, re-verify the T4-audited candidate against frozen Tamil authority and the complete T1–T4 non-regression set. Do not mark Article 5 terms T5 VERIFIED until final article verification passes.
