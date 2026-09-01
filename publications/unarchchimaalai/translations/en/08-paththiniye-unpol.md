@@ -8,8 +8,8 @@ source_tamil_blob_sha: "2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f"
 source_scan_pages: "42-44"
 source_printed_pages: "42-43; scan 42 has no visible printed numeral"
 language: "en"
-translation_status: "draft"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted against the frozen Tamil assembly"
+translation_status: "fidelity-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted and T2 bilingual fidelity-reviewed against the frozen Tamil assembly"
 ---
 
 # O Chaste Woman, Like You...!
@@ -18,9 +18,9 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice; 
 
 “They say the Devi is an unfailing chaste woman to all five. How does that fit?”
 
-“The five mean the five pancha bhutas. Even Gandhiji has interpreted it that way in the Harijan journal. It is all philosophical meaning.”
+“The five mean the five pancha bhutas. Even Gandhiji has interpreted it that way in the Arijan journal. It is all philosophical meaning.”
 
-“Pancha bhutas?......All right...they say she also fell in love with Karnan. What might that sixth bhuta be?”
+“Pancha bhutas?......All right...they say she also had love for Karnan. What might that sixth bhuta be?”
 
 “.........” No answer.
 
@@ -44,7 +44,7 @@ Thinking, why should I argue against someone older than I am, the young man who 
 
 But one thing...let those preaching ornaments who set out to protect quarrelsome Puranas by throwing over them the veil of “philosophical meaning” turn for a moment to page 43 of *Villi Bharata Vasanam*, written by Sri Jath Govindaraja Iyengar and published in 1937.
 
-Wanting a child, Kunti swallows the pill. Indran appears. The one who appeared did not leave without touching Kunti, without her yielding...saying, “I have granted the boon,” and then vanishing. Read it! Iyengar himself says it `azhgaaga`! Adding flavour!
+Wanting a child, Kunti swallows the pill. Indran appears. The one who appeared did not simply say, “I have granted the boon,” and disappear without touching Kunti, without her swooning... Read it! Iyengar himself says it `azhgaaga`! Adding flavour!
 
 “With pitambara and golden ornaments, upon his head
 
@@ -56,6 +56,6 @@ The woman who descended into the sea of pleasure became love itself; joining and
 
 King Pandu's wife experiences this ecstasy in another man's lap. If this is shown to our Vaidheega madmen...they will leap up shouting, “Ruiner of the clan! Blind fool! Do not slander the chaste woman!” They will pour the same old toddy into a new pot and conduct their kalakshepam, saying, the Pandavas are children born of boons, appa!
 
-If we take and hold out the description of the world of pleasure of Indran and Kunti that Iyengar himself has drawn, they will turn away in disgust saying, “Paaraa Mugam Unnaiye,” then stand before the statues of Panchali and Kunti and begin to sing, “O chaste woman, like you upon this earth.”
+If we take and hold out the description of the world of pleasure of Indran and Kunti that Iyengar himself has drawn, they will speak with disgust, saying, “Paaraa Mugam Unnaiye,” then stand before the statues of Panchali and Kunti and begin to sing, “O chaste woman, like you upon this earth.”
 
 What can be done? The future alone must answer.
