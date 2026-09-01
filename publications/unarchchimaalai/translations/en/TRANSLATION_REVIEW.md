@@ -211,7 +211,7 @@ T4 made **0 body corrections**. All terminology, proper names, source title, quo
 
 T5 made **0 body corrections**. Final verified English blob: `6b12e6b3cc09b6de402998bb3824e7a98808f885`.
 
-# Article 9 — `அன்னை நாகம்மையார்!` — T1–T2 COMPLETE / FIDELITY-REVIEWED
+# Article 9 — `அன்னை நாகம்மையார்!` — T1–T3 COMPLETE / VOICE-REVIEWED
 
 Source authority:
 
@@ -222,7 +222,8 @@ Source authority:
 - English article: [`09-annai-nagammaiyar.md`](09-annai-nagammaiyar.md)
 - English title: **Mother Nagammaiyar!**
 - T1 draft blob: `1d3ac3f7ef2fff5e79b23434f907b467ae1266f6`
-- T2 fidelity-reviewed blob: **`4336ef783678c165656ab843158e9c29d4695ed5`**
+- T2 fidelity-reviewed blob: `4336ef783678c165656ab843158e9c29d4695ed5`
+- T3 voice-reviewed blob: **`6d8556b574f536f879a2ea3ca6efffb81609add2`**
 
 ## T1 — close draft — COMPLETE / PASS
 
@@ -275,6 +276,49 @@ T2 non-regression checks:
 
 **T2 RESULT: PASS. Article 9 advanced to `translation_status: fidelity-reviewed`. T2 English blob: `4336ef783678c165656ab843158e9c29d4695ed5`.**
 
+## T3 — Kalaignar voice review — COMPLETE / PASS
+
+T3 made **11 meaning-neutral voice/cadence interventions** while preserving every T2 meaning/source decision:
+
+1. opening `the young Ramasami` → **`young Ramasami`** for a cleaner Periyar/young-Ramasami contrast;
+2. `love-note brimming with resolve vibrated and sounded` → **`love-note, brimming with resolve, trembled and rang`**, keeping the young-veena image while making the line sound alive in English;
+3. `It was a time when youth danced upon his physique!` → **`A time when youth danced upon his physique!`** for a sharper exclamatory beat;
+4. `earned such a name as a “good boy”` → **`made such a name for himself as a “good boy”`**;
+5. `She did not fail to show` → **`She made it plain`**, keeping the indelible-heart claim direct;
+6. tightened the old-suitor sentence with an em-dash interruption around **`who had lost two wives`** and a harder `pouring out youthful swagger` cadence;
+7. `the sparks of the words` → **`the spark-words`**, retaining the frozen fire imagery more compactly;
+8. `It was a time when...according to the decision of mother and father` → **`It was an age when...by the decision of mother and father`**, sharpening the herd-cattle comparison without changing it;
+9. `Their marriage became a symbol of victory` → **`Their marriage stood as a symbol of victory`**;
+10. `It surged on as a never-drying river of life` → **`It surged and ran on as a never-drying river of life`**, strengthening the frozen `பெருக்கெடுத்தோடியது` motion while preserving the T2 dry-up/water continuity;
+11. `On the very next day, 12-5-1933,` → **`On the very next day—12-5-1933—`**, sharpening the grief-to-duty turn without changing the date or claim.
+
+T3 non-regression checks:
+
+- metadata/source Tamil SHA/scans/printed-page field: **PASS**
+- complete paragraph/clause coverage: **PASS**
+- all three source-page comments 45–47: **PASS / unchanged**
+- source labels `Periyar`, `Ramasami`, `Nagammaiyar` / `Nagamma`, `Ramasamiyar`, `Ammaiyar`: **PASS / unchanged**
+- T2 public-service/self-interest contrast: **PASS / unchanged in meaning**
+- `minor-kaali`: **PASS / unchanged**
+- tender hearts / young veenas: **PASS / images retained**
+- youthful vow: **PASS / quotation unchanged**
+- quoted `log` image: **PASS / quotation unchanged**
+- fresh-flower / old-suitor ridicule and words-of-fire sequence: **PASS / force retained**
+- Nagamma marriage-or-death declaration: **PASS / quotation unchanged**
+- horse/stable revolutionary quotation: **PASS / unchanged**
+- family-lamp declaration: **PASS / unchanged**
+- herd-cattle comparison and `1898!` turn: **PASS**
+- flood-with-flood image, `many! many!`, never-drying life-river: **PASS / T2 decisions preserved**
+- old-man/Nagammaiyar affectionate exchange: **PASS**
+- ages/dates/numbers `19`, `13`, `1898`, `35`, `1933`, `11-5-1933`, `12-5-1933`, `144`: **PASS**
+- grief → next-day duty sequence: **PASS / meaning unchanged**
+- final `Duty that surpassed even love` sentence: **PASS / unchanged in meaning**
+- outside/web biographical wording, conventional spellings, alternate source forms or published translation imported: **No**
+- frozen Tamil changed: **No**
+- T3 blockers: **0**
+
+**T3 RESULT: PASS. Article 9 advanced to `translation_status: voice-reviewed`. T3 English blob: `6d8556b574f536f879a2ea3ca6efffb81609add2`.**
+
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
@@ -287,9 +331,9 @@ T2 non-regression checks:
 | 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 8 | பத்தினியே உன்போல்...! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 9 | அன்னை நாகம்மையார்! | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
+| 9 | அன்னை நாகம்மையார்! | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
 
 ## Exact next activity
 
-Execute **Article 9 T3 — Kalaignar voice review** for `அன்னை நாகம்மையார்!` against frozen Tamil blob `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` and T2 English blob `4336ef783678c165656ab843158e9c29d4695ed5`, scans **45–47**. Preserve every T2 meaning/source decision while reviewing only directness, cadence, affectionate warmth, ridicule, repetition, exclamations and image force. Keep all source labels, `minor-kaali`, the quoted `log` image, horse/stable revolutionary quotation, family-lamp declaration, all ages/dates/numbers, source-page comments and the final duty-surpassing-love sentence unchanged in meaning. Do not import outside biographical wording, web wording, alternate source forms or published translations. If T3 passes, advance Article 9 to `voice-reviewed`, synchronize records, and **stop before Article 9 T4**.
+Execute **Article 9 T4 — terminology / quotation / citation / source audit** for `அன்னை நாகம்மையார்!` against frozen Tamil blob `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` and T3 English blob `6d8556b574f536f879a2ea3ca6efffb81609add2`, scans **45–47**. Audit all source labels and terminology, quotation scopes, ages/dates/numbers, source-page comments and printed-page witnesses, source-sensitive `minor-kaali`, the quoted `log` image, horse/stable revolutionary quotation, family-lamp declaration, the T2-restored public-service/self-interest and never-drying-life-river choices, repeated `many! many!`, and the final duty-surpassing-love close. Article 9 must remain `voice-reviewed` through T4. Do not import outside biographical wording, web wording, conventional spellings or published translations. Stop before T5.
