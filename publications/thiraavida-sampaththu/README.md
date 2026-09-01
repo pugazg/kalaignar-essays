@@ -36,7 +36,7 @@ Operationally:
 
 ## Critical source-order finding
 
-The PDF physical scan sequence is **not the publication reading sequence**. The reconstructed reading sequence is:
+The PDF physical scan sequence is **not** the publication reading sequence. The reconstructed reading sequence is:
 
 `1 → 2 → 9 → 10 → 5 → 6 → 13 → 14 → 15 → 16 → 7 → 8 → 11 → 12 → 3 → 4`
 
@@ -86,7 +86,7 @@ Combined source audit: [`audit.md`](audit.md).
 - T1 close drafts: **1 / 2**
 - T2 fidelity-reviewed: **1 / 2**
 - T3 voice-reviewed: **1 / 2**
-- T4 audited: **0 / 2**
+- T4 audited: **1 / 2**
 - T5 verified: **0 / 2**
 - English article bodies created: **1 / 2**
 - English translation blockers: **0**
@@ -97,22 +97,27 @@ English workspace:
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
-- [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) — Article 1 T3 voice-reviewed
+- [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) — Article 1 T4 terminology/source-audited
 
-Article 1 working English title: **Dravidian Wealth**. It is not frozen yet.
+Article 1 English title: **Dravidian Wealth** — **T4 established; T5 verification pending**.
 
 - frozen Tamil authority: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
 - T1 baseline blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
 - T2 fidelity-reviewed blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`
 - T3 voice-reviewed blob: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
-- metadata status: `voice-reviewed`
+- T4 terminology/source-audited blob: `961ca3f724238ed699dba2607fa2d1be681f0ec4`
+- metadata status: `voice-reviewed` — `verified` is reserved for T5
 
-Article 1 T3 made **17 meaning-neutral voice/cadence interventions** after T2, strengthening directness, sarcasm, ridicule, abrupt contrasts and the recurring monkey/tail/poison imagery while changing **0** T2-secured substantive claims. All six source-page comments and all four scan-15/16 damage boundaries remain intact; hidden torn wording reconstructed: **0**; frozen Tamil changes: **0**.
+Article 1 T4 audited the title, recurring ideological vocabulary, publication/personified source-name forms, mock epithets, source-bearing transliterations, quotation scope, metadata, all six source-page comments and all four scan-15/16 damage boundaries.
+
+T4 made **1 source-audit body correction**: frozen quote `மித் (Myth)` is now preserved in English as **`mit (Myth)`** rather than flattened to `myth (Myth)`. Frozen anomalous scan-16 `பேச்சுல` is T4-established as source-bearing **pechchul**, not repaired from the alternate scan reading.
+
+T4 result: quotation/source comments **PASS**; hidden torn wording reconstructed **0**; frozen Tamil changes **0**; unresolved T4 blockers **0**.
 
 ## Exact next activity
 
-Execute **Article 1 T4 — terminology / quotation / citation / source audit** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T3 English blob `1d2e7dae1c00200ab402fa43722167e73e8568a4`.
+Execute **Article 1 T5 — final article verification** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T4 English blob `961ca3f724238ed699dba2607fa2d1be681f0ec4`.
 
-Audit the title, `Dravidam` / `Dravidians` / adjectival `Dravidian`, `Vikatanar` / `Vikatar` forms, mock labels/insults, `Mahishasura Mardini`, quotation scope, source-page comments, damage comments and frozen anomalous `pechchul`. Make only terminology/source-audit corrections, document them, and stop after T4.
+Re-confirm T1–T4 provenance, article completeness, title, metadata, all source-page comments, quotation boundaries, all four damage boundaries, T4-established terminology/source-bearing forms, absence of hidden reconstruction and exclusion of publisher/front/back matter. If all checks pass, set `translation_status: verified`, record the final English blob and synchronize all project records.
 
-Do **not** perform T5 in the same activity, and do **not** reopen the frozen Tamil bodies absent a genuine source-supported correction.
+Do **not** begin Article 2 T1 in the same activity, and do **not** reopen the frozen Tamil bodies absent a genuine source-supported correction.
