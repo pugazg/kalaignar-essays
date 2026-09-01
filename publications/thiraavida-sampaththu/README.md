@@ -86,7 +86,7 @@ Combined source audit: [`audit.md`](audit.md).
 - T1 close drafts: **2 / 2**
 - T2 fidelity-reviewed: **2 / 2**
 - T3 voice-reviewed: **2 / 2**
-- T4 audited: **1 / 2**
+- T4 audited: **2 / 2**
 - T5 verified: **1 / 2**
 - English article bodies created: **2 / 2**
 - English translation blockers: **0**
@@ -98,7 +98,7 @@ English workspace:
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 - [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) — **Article 1 VERIFIED**
-- [`translations/en/02-aiyar-arivikkirar.md`](translations/en/02-aiyar-arivikkirar.md) — **Article 2 T3 voice-reviewed**
+- [`translations/en/02-aiyar-arivikkirar.md`](translations/en/02-aiyar-arivikkirar.md) — **Article 2 T4 source-audited**
 
 ## Article 1 — verified English boundary
 
@@ -108,31 +108,33 @@ English workspace:
 - metadata status: `verified`
 - T5 body corrections: **0**
 
-## Article 2 — T3 voice-reviewed boundary
+## Article 2 — T4 source-audited boundary
 
 - Tamil title: `ஐயர் அறிவிக்கிறார்!`
-- working English title: **Iyer Announces!** — T3 voice pass / not frozen
+- English title: **Iyer Announces!** — T4 audited / final verification pending T5
 - frozen Tamil authority: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
 - T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
 - T2 fidelity-reviewed English blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
 - T3 voice-reviewed English blob: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
-- metadata status: `voice-reviewed`
+- T4 source-audited English blob: `9b2795e6c66dea08fdf46fcf7903550001e1a401`
+- metadata status: `voice-reviewed` — T5 alone may set `verified`
 - source-page comments: **2 / 2 present and ordered**
 - `ஐயர்` / `அய்யர்`: **Iyer / Ayyar** distinction retained
 - damaged/ambiguous frozen `அயம்`: **ayam**, not guessed
-- `ஏனோதானோ` / `ஏனோதானோக்கள்`: **Enothano / Enothanos**, ridicule retained
+- `ஏனோதானோ` / `ஏனோதானோக்கள்`: **Enothano / Enothanos**, source-bearing ridicule retained
 - normal `கல்லூரி`: **College**; frozen scan-3 `கல்லுரி`: source-bearing **kalluri**
 - narrative `சாமிநாதய்யர்`: **Saminathayyar**; inscription `சாமிநாத அய்யர்`: **Saminatha Ayyar**
 - quoted inscription: **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**
-- T3 voice/cadence interventions: **9**
-- T2-secured substantive claims changed: **0**
-- frozen Tamil changes during T3: **0**
-- unresolved T3 blockers: **0**
+- first-paragraph quotation anomaly: two evident English quoted units formally documented; no missing Tamil punctuation reconstructed
+- T4 English body corrections: **0**
+- T4 metadata/provenance updates: **1**
+- frozen Tamil changes during T4: **0**
+- unresolved T4 blockers: **0**
 
 ## Exact next activity
 
-Execute **Article 2 T4 — terminology / quotation / citation / source audit** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T3 English blob `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`.
+Execute **Article 2 T5 — final article verification** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T4 source-audited English blob `9b2795e6c66dea08fdf46fcf7903550001e1a401`.
 
-Audit the working title, `Iyer` / `Ayyar`, `Dravidam`, source-bearing `Enothano(s)` and `ayam`, normal `College` versus frozen `kalluri`, narrative `Saminathayyar` versus inscription `Saminatha Ayyar`, the inscription title, first-paragraph quotation scope, metadata and both source-page comments. Make only source/terminology/quotation corrections required by the frozen witness.
+Re-verify complete surviving coverage, title **Iyer Announces!**, all T4-established terminology/source-bearing forms, the documented first-paragraph quotation treatment, final inscription wording, metadata and both source-page comments. If PASS, set `translation_status: verified` and record the final verified English blob.
 
-**Stop after Article 2 T4. Do not perform Article 2 T5 in the same activity, and do not reopen the frozen Tamil bodies absent a genuine source-supported correction.**
+**Stop after Article 2 T5. Do not perform E6 in the same activity, and do not reopen the frozen Tamil bodies absent a genuine source-supported correction.**
