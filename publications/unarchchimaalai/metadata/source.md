@@ -20,8 +20,11 @@
 - article strict-fidelity recheck: **10 / 10 PASS**
 - unresolved Tamil/body blockers: **0**
 - Tamil archival layer: **COMPLETE / FROZEN**
-- English T0 source prerequisite/setup: **COMPLETE / PASS**
-- English body translation: **NOT STARTED**
+- English T0–T5: **COMPLETE — 10 / 10 verified**
+- English E6 publication-wide consistency review: **PASS**
+- English E7 release closeout: **PASS / RELEASE COMPLETE**
+- English translation: **COMPLETE / RELEASED / FROZEN**
+- unresolved translation/release blockers: **0**
 
 Page map: [`../indexes/page-map.md`](../indexes/page-map.md)  
 Article/content map: [`../indexes/contents.md`](../indexes/contents.md)  
@@ -115,40 +118,49 @@ Important P5 structural recoveries:
 
 The full 18-item lexical conflict ledger is in `../VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-## Frozen Tamil article authorities — T0 reverified
+## Frozen Tamil article authorities — release reverified
 
-| Article | Blob SHA | T0 |
+| Article | Blob SHA | Status |
 |---:|---|---|
-| 1 | `c63837a9f7c02d6f3a18171a512d46788f66ad92` | PASS |
-| 2 | `dda81363f512ee2f829c367ae929ce3610604fe9` | PASS |
-| 3 | `92eb1a68d65f65dd71274e5e79f3209e63359d9a` | PASS |
-| 4 | `006f2f75dbc3eea796170a29aee0befd162522e7` | PASS |
-| 5 | `c8ac4d7c241832e07bbb24c5cee935588673f4ac` | PASS |
-| 6 | `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` | PASS |
-| 7 | `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` | PASS |
-| 8 | `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` | PASS |
-| 9 | `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` | PASS |
-| 10 | `f856664d86695237a23d0ffc0bef088d32a82fe9` | PASS |
+| 1 | `c63837a9f7c02d6f3a18171a512d46788f66ad92` | FROZEN |
+| 2 | `dda81363f512ee2f829c367ae929ce3610604fe9` | FROZEN |
+| 3 | `92eb1a68d65f65dd71274e5e79f3209e63359d9a` | FROZEN |
+| 4 | `006f2f75dbc3eea796170a29aee0befd162522e7` | FROZEN |
+| 5 | `c8ac4d7c241832e07bbb24c5cee935588673f4ac` | FROZEN |
+| 6 | `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` | FROZEN |
+| 7 | `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` | FROZEN |
+| 8 | `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` | FROZEN |
+| 9 | `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d` | FROZEN |
+| 10 | `f856664d86695237a23d0ffc0bef088d32a82fe9` | FROZEN |
 
-These blobs are frozen translation authorities unless a later source-supported Tamil correction explicitly reopens P5.
+These blobs remain the frozen translation authorities unless a later source-supported Tamil correction explicitly reopens P5.
 
-## English T0 setup — COMPLETE / PASS
+## English release record — E7 PASS
 
-Created:
+Final English article blobs:
+
+1. `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
+2. `f1599a8e7cae4ba749b9be2857705b152887f9f8`
+3. `1134185bc21478775419adb3560b110c001d2b75`
+4. `03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`
+5. `c689ff90f08d389a5e7ebc4849c30d58dfe81766`
+6. `cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`
+7. `6cfb28e2d83ba84ee2daa54606561479b61498b0`
+8. `6b12e6b3cc09b6de402998bb3824e7a98808f885`
+9. `204ffed012f4bd91b3077065f031d6b2db747854`
+10. `cee8ea3c33495615ffc988a1875d71e40f8224a3`
+
+E7 re-confirmed these ten English blobs and the ten Tamil authorities unchanged from the E6-passed state. English body corrections during E7: **0**. Frozen Tamil changes: **0**. Release blockers: **0**.
+
+Translation records:
 
 - `../TRANSLATION_PLAN.md`
 - `../translations/en/README.md`
 - `../translations/en/LEXICON.md`
 - `../translations/en/TRANSLATION_REVIEW.md`
 
-The 18-item P5 lexical-conflict provenance and the source-recovered scan 19 / scan 42 material are carried into the English setup. Translation authority remains the frozen Tamil assembly; English must not silently switch to a scan-appearing alternative lexical form.
-
-## Exact next gate
-
-**Article 1 T1 — complete close English draft for `உணர்ச்சி மாலை`** from frozen Tamil blob `c63837a9f7c02d6f3a18171a512d46788f66ad92`.
-
-T1 must preserve every source paragraph, verse line and scan-boundary comment, establish a provisional English title and live lexicon decisions, and leave the article at `translation_status: draft`. Do not mark T2/T5 complete during T1.
-
 ## Source authority / user-baseline rule
 
 Never silently modernise or normalize source structure. For lexical wording, continue the user-established Gemini-baseline rule until the user changes it. Any lexical discrepancy against the scan remains explicit rather than silently resolved. Any later Tamil correction reopens the affected translation authority.
+
+**Publication status: TAMIL COMPLETE / FROZEN; ENGLISH COMPLETE / RELEASED / FROZEN.**
