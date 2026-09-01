@@ -13,7 +13,7 @@ Read completely before changing anything:
 2. `ESSAY_TRANSLATION_GUIDE.md`
 3. `docs/FUTURE_WORK_GUIDELINES.md`
 4. this `HANDOVER.md`
-5. `docs/NEXT_CHAT_PROMPT.md` when continuing the current active work in a fresh window
+5. `docs/NEXT_CHAT_PROMPT.md` when continuing current work in a fresh window
 6. active publication README / metadata / fidelity / completion records
 7. when translation is active: `TRANSLATION_PLAN.md`, English tracker, lexicon and review ledger
 
@@ -22,11 +22,11 @@ Source PDFs are never committed. English translation follows: **Translate the la
 ## Fresh-window continuation rule
 
 - **Fetch live `main` first. Live `main` is authoritative.**
-- `docs/NEXT_CHAT_PROMPT.md` is the current copy/paste continuation prompt, but it is a convenience summary only.
-- Any checkpoint SHA in a prompt means “last confirmed when prepared”; it is **not** a rollback target.
+- `docs/NEXT_CHAT_PROMPT.md` is a convenience summary only and never overrides live `main` or this handover.
+- Any checkpoint SHA means “last confirmed when prepared”; it is **not** a rollback target.
 - If `main` has advanced, preserve the newer durable state. Never reset, overwrite, repeat or reopen later completed work merely because an older prompt records an earlier boundary.
 - Re-fetch target files before writing when another chat/window may also be active.
-- Last confirmed live HEAD immediately before this handover synchronization: `eb97e85b35cc7b857291f2ed3772f2377ff098c8` — `Advance Unarchchimaalai translation plan to E7`.
+- Last confirmed live HEAD immediately before this handover synchronization: `9aca1aae6db9d12ba8a3216114eed49f5446598d` — `Mark Unarchchimaalai released in root README`.
 
 ---
 
@@ -56,7 +56,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 3 — உணர்ச்சிமாலை — TAMIL FROZEN / ENGLISH E6 PASS
+# Publication 3 — உணர்ச்சிமாலை — RELEASE COMPLETE / FROZEN
 
 Workspace: `publications/unarchchimaalai/`
 
@@ -89,7 +89,7 @@ Durable non-regression includes scan-19 source recovery, scan-20 visible numeral
 9. `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
 10. `f856664d86695237a23d0ffc0bef088d32a82fe9`
 
-## English progress
+## Final English progress
 
 - T0 setup: **PASS**
 - T1 drafts: **10 / 10**
@@ -98,10 +98,16 @@ Durable non-regression includes scan-19 source recovery, scan-20 visible numeral
 - T4 audited: **10 / 10**
 - T5 verified: **10 / 10**
 - E6 publication-wide consistency review: **PASS**
-- E7 English release closeout: **NOT STARTED**
-- translation/body blockers: **0**
+- E7 English release closeout: **PASS / RELEASE COMPLETE**
+- English body corrections in E6: **0**
+- English body corrections in E7: **0**
+- frozen Tamil changes in E6/E7: **0**
+- source/fidelity defects discovered in E6/E7: **0**
+- source/translation gates reopened: **No**
+- translation/release blockers: **0**
+- **English translation: COMPLETE / RELEASED / FROZEN**
 
-## Verified Articles 1–10 — unchanged by E6
+## Released Articles 1–10
 
 1. `உணர்ச்சி மாலை` — **Garland of Emotion** — `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
 2. `புரட்சி வளர்ந்த கதை` — **The Story of How the Revolution Grew** — `f1599a8e7cae4ba749b9be2857705b152887f9f8`
@@ -114,14 +120,14 @@ Durable non-regression includes scan-19 source recovery, scan-20 visible numeral
 9. `அன்னை நாகம்மையார்!` — **Mother Nagammaiyar!** — `204ffed012f4bd91b3077065f031d6b2db747854`
 10. `கவிதையல்ல - கண்ணீர்க்கடல் !` — **Not a Poem — an Ocean of Tears!** — `cee8ea3c33495615ffc988a1875d71e40f8224a3`
 
-All ten article bodies remain individually T5-verified. E6 required **0 English body corrections**, so all ten final English blob SHAs remain unchanged.
+E7 re-confirmed the ten live English article blobs exactly match this E6-passed baseline and the ten frozen Tamil authorities remain unchanged.
 
-## Article 10 durable T5 boundary
+## Article 10 durable boundary
 
 - English title: **Not a Poem — an Ocean of Tears!**
 - frozen Tamil: `f856664d86695237a23d0ffc0bef088d32a82fe9`
 - source scans: **48–49**
-- final T5 English: `cee8ea3c33495615ffc988a1875d71e40f8224a3`
+- final English: `cee8ea3c33495615ffc988a1875d71e40f8224a3`
 - T2 corrections: **4**
 - T3 meaning-neutral voice/cadence interventions: **12**
 - T4 body corrections: **1** — `you hide away without watching—` → `you hid away without watching—`
@@ -135,15 +141,6 @@ All ten article bodies remain individually T5-verified. E6 required **0 English 
 
 E6 audited all ten T5-verified articles for recurring names/epithets, epic-name conventions, ideological and socially/religiously loaded vocabulary, source-bearing transliterations/puns/insults, source/publication titles, quotation treatment, English title style, voice and rhetorical temperature, accidental smoothing/harmonisation/modernisation, completeness/page-boundary comments and all durable source anomalies.
 
-### E6 correction result
-
-- English body corrections required: **0**
-- final article blob changes: **0 / 10**
-- frozen Tamil changes: **0**
-- source/fidelity defects discovered: **0**
-- source/translation gates reopened: **No**
-- blockers: **0**
-
 ### E6 consistent recurring decisions
 
 - `திராவிடம்` → `Dravidam` remains stable in Articles 2, 5 and 7.
@@ -152,7 +149,7 @@ E6 audited all ten T5-verified articles for recurring names/epithets, epic-name 
 - `Oman Sea` remains stable in Articles 7 and 10.
 - proletarian vocabulary, `God-ism`, `syrupy speech` and `javvadu` remain consistent where their source function recurs.
 
-### E6 deliberate contextual/source-witness exceptions — NON-REGRESSION
+### E6 deliberate contextual/source-witness exceptions — PERMANENT NON-REGRESSION
 
 Do **not** mechanically harmonise these:
 
@@ -167,7 +164,7 @@ Do **not** mechanically harmonise these:
 - Article 9 `Ramasami` / `Ramasamiyar`, `Nagammaiyar` / `Nagamma`, `Ammaiyar`, `Periyar` according to immediate source label;
 - Article 8 epic-name forms and all established source-bearing oddities/transliterations, including raw frozen `ப்ழச்சளை`, remain unrepaired unless source policy is explicitly reopened.
 
-### E6 anomaly/completeness result
+### E6/E7 anomaly and completeness result
 
 - scan 19 source recovery / scan 20 numeral `1`: **PASS**
 - scan 32 frozen irregular order: **PASS / unreconstructed**
@@ -178,13 +175,16 @@ Do **not** mechanically harmonise these:
 - scan 49 publication-close exclusion / scan 50 advertisement exclusion: **PASS**
 - all ten article units and required source-page comments: **PASS**
 - quotation boundaries, directness, sarcasm, ridicule, commands, rhetorical questions, exclamations and repetition: **PASS**
+- E7 article-body changes: **0**
+- E7 release blockers: **0**
 
-Canonical E6 provenance is recorded in:
+Canonical release provenance is recorded in:
 
+- `publications/unarchchimaalai/PUBLICATION_COMPLETION_REVIEW.md`
+- `publications/unarchchimaalai/TRANSLATION_PLAN.md`
+- `publications/unarchchimaalai/translations/en/README.md`
 - `publications/unarchchimaalai/translations/en/LEXICON.md`
 - `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md`
-- `publications/unarchchimaalai/translations/en/README.md`
-- `publications/unarchchimaalai/TRANSLATION_PLAN.md`
 
 ## Documentation reconciliation — COMPLETE / NON-DESTRUCTIVE
 
@@ -192,26 +192,20 @@ The Article 9/10 documentation reconciliation remains durable:
 
 - pre-reconciliation lexicon history through Article 9 T4 is preserved byte-for-byte as `publications/unarchchimaalai/translations/en/LEXICON_HISTORY_THROUGH_ARTICLE9_T4.md`;
 - pre-reconciliation review history through Article 9 T4 is preserved byte-for-byte as `publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md`;
-- canonical `LEXICON.md` and `TRANSLATION_REVIEW.md` remain the current records and now include E6;
+- canonical `LEXICON.md` and `TRANSLATION_REVIEW.md` are the current release records;
 - history sidecars remain provenance only and must not replace canonical records.
 
-## Fresh-window handoff
+## Release boundary
 
-The repository contains:
-
-- `docs/NEXT_CHAT_PROMPT.md` — current active-work continuation prompt;
-- `docs/START_NEW_ESSAY_WORK_PROMPT.md` — reusable prompt for a genuinely new supplied work;
-- `docs/FUTURE_WORK_GUIDELINES.md` — live-main continuation and E6/E7 gate discipline.
-
-A fresh window must begin from live `main`, not conversational memory. The Tamil layer remains frozen. E6 found no source/fidelity defect and did not require source-PDF reopening.
+**உணர்ச்சிமாலை is COMPLETE / FROZEN / RELEASED in Tamil and English.** Do not reopen it for stylistic polishing, conventionalisation or terminology homogenisation. Reopen only for a genuine source-supported or release-blocking defect.
 
 ---
 
 # Exact next activity
 
-Execute **E7 — English release closeout** for `உணர்ச்சிமாலை`.
+There is no remaining activity for `உணர்ச்சிமாலை`.
 
-Use the ten unchanged E6-passed English article blobs and the canonical lexicon/review records. Perform the release-closeout checks required by `ESSAY_TRANSLATION_GUIDE.md`, synchronize the release/tracker/handover records, and mark the English publication release complete only if E7 passes. Do not reopen or rewrite individual article bodies unless E7 identifies a genuine release-blocking or source-supported defect.
+**Next project activity:** intake the next supplied Kalaignar essay/article publication using `docs/START_NEW_ESSAY_WORK_PROMPT.md` and the permanent processing/translation guides. Do not start a new publication until source material is supplied or the user explicitly identifies the next work.
 
 ## Current blockers
 
