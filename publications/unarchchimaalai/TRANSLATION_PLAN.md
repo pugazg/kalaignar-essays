@@ -41,7 +41,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 | 3 | போகிறான்;போகிறான்..! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 4 | இராவணன் நம் பாட்டன் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 6 | 3, 57, 90. | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
+| 6 | 3, 57, 90. | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
 | 7 | 30-1-1948 | `not-started` | PASS | — | — | — | — | — |
 | 8 | பத்தினியே உன்போல்...! | `not-started` | PASS | — | — | — | — | — |
 | 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — |
@@ -65,7 +65,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - final T5-verified English: **`c689ff90f08d389a5e7ebc4849c30d58dfe81766`**
 - unresolved blockers: **0**
 
-## Article 6 — T1–T3 COMPLETE / VOICE-REVIEWED
+## Article 6 — T1–T4 COMPLETE / VOICE-REVIEWED
 
 - Tamil / English title: **3, 57, 90.**
 - frozen Tamil authority: `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8`
@@ -73,18 +73,22 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - printed pages: **33–37; scan 33 has no visible printed numeral**
 - T1 draft blob: `03b33ab1aaa042266eb34163e688e415baa47be9`
 - T2 fidelity-reviewed blob: `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`
-- T3 voice-reviewed blob: **`1332512bbffdd618078813444c2cf24ebcea07ff`**
+- T3 voice-reviewed / T4-audited candidate: **`1332512bbffdd618078813444c2cf24ebcea07ff`**
 - T2 fidelity corrections: **5**
 - T3 meaning-neutral voice/cadence interventions: **10**
-- all six scan comments and corrected physical continuations: **PASS**
-- corrected scan-33/34 physical boundary: **PASS / preserved**
-- seven opening quoted attacks and scan-35→36 college quotation: **PASS**
-- all numbers/percentages `150`, `90`, `3`, `57`, `100`, `60`, `38`, `2`, `97`, `29-5-48`, and final `3, 57, 90.`: **T3 PASS / unchanged from T2**
-- T3 strengthened cadence around the opening challenge, repeated demand, sacrificial altar, demographic accumulation, sarcastic `இந்த அழகில்`, pleading address, strength-seeking sentence, Anjaneya/Sugriva comparison and final direct challenge without changing T2 meaning
-- frozen `எழுதினான்`, `சம்மாதிக்காத`, `பிரிதிநிதித்துவத்தை`, `இழத்துக்`, `பிர பிரஹலாதர்களாக`, `வேண்டியுளது` and `ஒரியண்டல்`: **not normalised from alternate scan readings or outside knowledge**
-- source-bearing terminology retained through T3: `kabothi`, `sodha`, `othiya`, `mathith thalaivar`, `Parppanar`, `Vediyars`, `Dravidian Vibhishanas`, `pira Prahaladas`, `Oriyantal College`
+- T4 body corrections: **0**
+- all six scan comments and corrected physical continuations: **T4 PASS**
+- corrected scan-33/34 physical boundary: **T4 PASS / preserved**
+- seven opening quoted attacks, scan-34 hostile quotations, communal-representation quotation, and scan-35→36 college quotation: **T4 PASS**
+- source title `Mail`, date `29-5-48`, and all numbers/percentages `150`, `90`, `3`, `57`, `100`, `60`, `38`, `2`, `97`, final `3, 57, 90.`: **T4 PASS**
+- quoted `inner voice`: **T4 PASS / source quotation scope retained**
+- `Brahmin` vs `Parppanar`: **T4 PASS / source distinction retained**
+- earlier `Oriental College` vs final `Oriyantal College`: **T4 PASS / source-witness distinction retained**
+- frozen `எழுதினான்`, `சம்மாதிக்காத`, `பிரிதிநிதித்துவத்தை`, `இழத்துக்`, `பிர பிரஹலாதர்களாக`, `வேண்டியுளது`, `ஒரியண்டல்`: **T4 PASS / no scan-alternate or outside repair**
+- source-bearing `kabothi`, `sodha`, `othiya`, `mathith thalaivar`, `Parppanar`, `Vediyars`, `Dravidian Vibhishanas`, `pira Prahaladas`: **T4 PASS**
+- external citation required by frozen Article 6 body: **No**
 - outside/web historical wording imported: **No**
-- unresolved T3 blockers: **0**
+- unresolved T4 blockers: **0**
 
 ## Publication-specific cautions
 
@@ -95,9 +99,9 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 5. Article 10 excludes scan-49 publication-close matter and scan-50 advertisement.
 6. Do not silently repair source-sensitive forms such as Article 10 `ப்ழச்சளை`.
 7. Preserve questions, exclamations, repetition, direct address and page-boundary comments.
-8. Article 6 must preserve the corrected physical scan-33/34 boundary and frozen Gemini lexical decisions throughout T4–T5.
-9. Article 6 source-bearing choices such as `kabothi`, `sodha`, `othiya`, `mathith thalaivar`, `Parppanar`, `Vediyars`, `pira Prahaladas` and `Oriyantal College` passed T2 and were preserved at T3; do not silently replace them during T4.
+8. Article 6 must preserve the corrected physical scan-33/34 boundary and frozen Gemini lexical decisions through T5.
+9. Article 6 source-bearing choices such as `kabothi`, `sodha`, `othiya`, `mathith thalaivar`, `Parppanar`, `Vediyars`, `pira Prahaladas` and `Oriyantal College` are T4-audited but remain pending T5 final verification.
 
 ## Exact next activity
 
-Execute **Article 6 T4 — terminology / quotation / citation / source audit** for `3, 57, 90.` against frozen Tamil blob `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` and T3 English blob `1332512bbffdd618078813444c2cf24ebcea07ff`, scans **33–38**. Audit every Article 6 terminology/proper-name/source-bearing decision, every quotation boundary, source title `Mail`, date `29-5-48`, all numbers/percentages, all six scan comments and cross-page continuations, and the quoted `inner voice`. Preserve the `Brahmin` / `Parppanar` distinction, earlier `Oriental College` / final source-sensitive `Oriyantal College` distinction, and frozen forms `எழுதினான்`, `சம்மாதிக்காத`, `பிரிதிநிதித்துவத்தை`, `இழத்துக்`, `பிர பிரஹலாதர்களாக`, `வேண்டியுளது`, `ஒரியண்டல்`. Do not import outside identities, alternate scan lexical readings or web wording. Article 6 remains `voice-reviewed` through T4 and **stop before T5**.
+Execute **Article 6 T5 — final article verification** for `3, 57, 90.` against frozen Tamil blob `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` and T4-audited English candidate `1332512bbffdd618078813444c2cf24ebcea07ff`, scans **33–38**. Reconfirm metadata/source authority, all six scan comments and cross-page witnesses, every quotation scope, Article 6 terminology/proper names/source-bearing forms, `Mail`, `29-5-48`, every number/percentage, `Brahmin` vs `Parppanar`, `Oriental College` vs `Oriyantal College`, and all frozen lexical witnesses. If the final pass succeeds, advance Article 6 to `verified`, synchronize records, and **do not begin Article 7 in the same activity**.
