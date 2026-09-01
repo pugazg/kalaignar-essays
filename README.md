@@ -151,8 +151,60 @@ Translation/release workspace:
 
 These Tamil and English authorities remain frozen unless a genuine source-supported or release-blocking defect explicitly reopens the affected gate.
 
+## Publication 4 — திராவிட சம்பத்து — ACTIVE / P2 COMPLETE
+
+Workspace: [`publications/thiraavida-sampaththu/`](publications/thiraavida-sampaththu/)
+
+- title: **திராவிட சம்பத்து**
+- author: **கலைஞர் மு. கருணாநிதி**
+- edition: **முதல பதிப்பு, செப்டம்பர் 1951**
+- publisher: **அறிவு மன்றம், சென்னை-1**
+- seller: **பாரி நிலையம், 59, பிராட்வே, சென்னை-1**
+- physical scans: **16**
+- source SHA-256: `09d567abb30a0beacc1efd1e1fb757f01da93968f5582c9b1b8859b87dac2165`
+- source PDF committed: **No**
+- condition: **heavily damaged / multiple torn-away text areas**
+
+### Publication-specific lexical rule
+
+The user supplied a transcription that captured the surviving wording and established it as the lexical baseline. **Retain those words.** The scan controls structure, punctuation, spacing, paragraphing, headings, reading order, page/article boundaries and physical-copy evidence. Text physically lost under torn-away paper must not be reconstructed from context.
+
+### Critical reading-order finding
+
+The PDF physical order is not the publication reading order. Direct continuations and publisher cues establish:
+
+`1 → 2 → 9 → 10 → 5 → 6 → 13 → 14 → 15 → 16 → 7 → 8 → 11 → 12 → 3 → 4`
+
+The publication contains:
+
+1. publisher foreword `மன்றத்தில்` — scans 9–10;
+2. Article 1 `திராவிட சம்பத்து` — scans 5–6, 13–16;
+3. publisher note `முக்கிய குறிப்பு` — scans 7–8, 11;
+4. Article 2 `ஐயர் அறிவிக்கிறார்!` — scans 12, 3;
+5. promotional advertisements — scan 4.
+
+### Current Tamil status
+
+- P0 source intake: **COMPLETE**
+- P1 metadata / page map / reading-order reconstruction: **COMPLETE**
+- P2 page-level transcription / structural review: **16 / 16 COMPLETE**
+- P3 article assemblies: **NOT STARTED**
+- P4 source/completeness audit: **NOT STARTED**
+- P5 strict visual word/punctuation fidelity: **NOT STARTED**
+- English translation: **NOT STARTED**
+
+All torn text remains explicitly marked as source damage rather than guessed. A clearly visible scan-16 `மொழி.` omitted from the supplied transcription was restored as a documented source-visible recovery. A provisional scan-4 lexical-witness conflict around the supplied advertisement-title reading `ரூசோ` is logged without changing the user-supplied word.
+
+Detailed records:
+
+- [`README.md`](publications/thiraavida-sampaththu/README.md)
+- [`metadata/source.md`](publications/thiraavida-sampaththu/metadata/source.md)
+- [`indexes/page-map.md`](publications/thiraavida-sampaththu/indexes/page-map.md)
+- [`indexes/contents.md`](publications/thiraavida-sampaththu/indexes/contents.md)
+- [`pages/`](publications/thiraavida-sampaththu/pages/)
+
 ## Current project state / exact next activity
 
-Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. No further work is pending for `உணர்ச்சிமாலை` absent a genuine source-supported or release-blocking defect.
+Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` is active with P0–P2 complete.
 
-**Exact next activity:** intake the next supplied Kalaignar essay/article publication using [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md).
+**Exact next activity:** build P3 article assemblies for `திராவிட சம்பத்து` and `ஐயர் அறிவிக்கிறார்!` from the verified page layer in reconstructed reading order, preserving source-page comments and every torn-text marker; then run the initial P4 source/completeness audit. Do not start P5 or English translation in the same activity.
