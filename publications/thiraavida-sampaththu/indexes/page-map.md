@@ -24,3 +24,14 @@
 `1 → 2 → 9 → 10 → 5 → 6 → 13 → 14 → 15 → 16 → 7 → 8 → 11 → 12 → 3 → 4`
 
 All pencil numerals are recorded as physical-copy marks only.
+
+## P5 verification status
+
+- physical scans directly rechecked: **16 / 16 — PASS**;
+- reading positions changed during P5: **0**;
+- publication-unit boundaries changed during P5: **0**;
+- torn physical-source gaps: **preserved / unreconstructed**;
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**.
+
+Detailed P5 provenance: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).  
+Exact next activity: **E0 — English translation planning/setup**.
