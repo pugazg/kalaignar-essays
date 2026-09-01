@@ -86,7 +86,7 @@ Durable non-regression includes scan-19 source recovery, frozen scan-32 word/ord
 - T2 fidelity-reviewed: **8 / 10**
 - T3 voice-reviewed: **8 / 10**
 - T4 audited: **8 / 10**
-- T5 verified: **7 / 10**
+- T5 verified: **8 / 10**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - blockers: **0**
@@ -206,7 +206,7 @@ Article 6 is closed at T5. **Do not reopen it absent a genuine source-supported 
 
 Article 7 is closed at T5. **Do not reopen it absent a genuine source-supported defect.**
 
-## Article 8 — `பத்தினியே உன்போல்...!` — T1–T4 COMPLETE / SOURCE-AUDITED
+## Article 8 — `பத்தினியே உன்போல்...!` — T0–T5 COMPLETE / VERIFIED
 
 - English title: **O Chaste Woman, Like You...!**
 - frozen Tamil: `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`
@@ -215,41 +215,43 @@ Article 7 is closed at T5. **Do not reopen it absent a genuine source-supported 
 - English file: `publications/unarchchimaalai/translations/en/08-paththiniye-unpol.md`
 - T1 draft English: `af9c82ea95b65bc7e632ddf45ab1754217bffc39`
 - T2 fidelity-reviewed English: `eccf5a9b0b2e042a115b8214ff0dc12333a225fe`
-- T3 voice-reviewed / T4-audited English: **`2c5101765a57a01dce05e82d006a45d00f967d90`**
+- T3 voice-reviewed / T4-audited English candidate: `2c5101765a57a01dce05e82d006a45d00f967d90`
+- final T5-verified English: **`6b12e6b3cc09b6de402998bb3824e7a98808f885`**
 - T2 fidelity corrections: **4** — frozen `அரிஜன்` is source-bearing `Arijan`, distinct from Article 6 `ஹரிஜன` → `Harijan`; `காதல கொண்டாளாமே` is rendered `had love ... too` rather than stronger `fell in love`; the scan-43 negated `தொடாமல்...துவளாமல்...மறைந்து விட வில்லை` construction is restored with `swooning`; and T1's unsupported physical turn-away was removed from `வெறுத்துப் பேசிவிட்டு`.
 - T3 meaning-neutral voice/cadence interventions: **7** — moved `too` in the Karnan taunt for a sharper beat; `There is no fault...` → `No fault...`; recast the young man's thought for direct rhetorical cadence; `experiences this ecstasy` → `finds this ecstasy`; tightened the old-toddy/new-pot sentence with a colon; `take and hold out` → `take up and hold out`; and `speak with disgust, saying` → `say in disgust`.
 - T4 body corrections: **0**
-- complete paragraph/clause coverage: **T4 PASS**
-- all source comments 42–44 and printed-page witnesses: **T4 PASS / ordered; scan 42 has no visible numeral**
-- scan-42 source-recovered `பதில் இல்லை.`: **T4 PASS / quoted ellipsis plus unquoted `No answer.` distinction retained**
-- all dialogue quotation/question/exclamation scopes: **T4 PASS**
-- scan-43 source-visible `* * *`: **T4 PASS / preserved**
-- embedded `“I have granted the boon,”` and command `Read it!`: **T4 PASS**
-- source citation `1937` / page `43`: **T4 PASS**
-- scan-43→44 literary quotation: **T4 PASS / one continuous quotation across page comment**
-- scan-44 insult quotation, source-quoted `Paaraa Mugam Unnaiye`, and quoted title refrain: **T4 PASS**
-- terminology/proper/source-title set including `pancha bhutas`, `Gandhiji`, `Arijan`, `Kunti Devi`, `Karnan`, `Surya Bhagavan`, `Pandu Maharaja`, `Yamadharman`, `Dharmar`, `Vayu Bhagavan`, `Bhimar`, `Indran`, `Arjunan`, `Sri Jath Govindaraja Iyengar`, `Villi Bharata Vasanam`, `Panchali`: **T4 PASS**
-- source-sensitive choices: `கன்னத்தால்` → `through her cheek`; frozen `அனுக்ரகம்` → `anugraham`; frozen `அழ்காக` → `azhgaaga`; frozen `பன் முறை` → `pan murai`; frozen `ஓருருவாகிப்` → `becoming one form`: **T4 PASS / no alternate scan repair**
-- repeated erotic/literary verbs and imagery, `Vaidheega madmen`, `wretch`, `Ruiner of the clan! Blind fool!`, old-toddy/new-pot image and `appa!`: **T4 PASS / polemical force retained**
+- T5 body corrections: **0**
+- complete paragraph/clause coverage: **T5 PASS**
+- all source comments 42–44 and printed-page witnesses: **T5 PASS / ordered; scan 42 has no visible numeral**
+- scan-42 source-recovered `பதில் இல்லை.`: **T5 PASS / quoted ellipsis plus unquoted `No answer.` distinction retained**
+- all dialogue quotation/question/exclamation scopes: **T5 PASS**
+- scan-43 source-visible `* * *`: **T5 PASS / preserved**
+- embedded `“I have granted the boon,”` and command `Read it!`: **T5 PASS**
+- source citation `1937` / page `43`: **T5 PASS**
+- scan-43→44 literary quotation: **T5 PASS / one continuous quotation across page comment**
+- scan-44 insult quotation, source-quoted `Paaraa Mugam Unnaiye`, and quoted title refrain: **T5 PASS**
+- terminology/proper/source-title set including `pancha bhutas`, `Gandhiji`, `Arijan`, `Kunti Devi`, `Karnan`, `Surya Bhagavan`, `Pandu Maharaja`, `Yamadharman`, `Dharmar`, `Vayu Bhagavan`, `Bhimar`, `Indran`, `Arjunan`, `Sri Jath Govindaraja Iyengar`, `Villi Bharata Vasanam`, `Panchali`: **T5 VERIFIED**
+- source-sensitive choices: `கன்னத்தால்` → `through her cheek`; frozen `அனுக்ரகம்` → `anugraham`; frozen `அழ்காக` → `azhgaaga`; frozen `பன் முறை` → `pan murai`; frozen `ஓருருவாகிப்` → `becoming one form`: **T5 PASS / no alternate scan repair**
+- repeated erotic/literary verbs and imagery, `Vaidheega madmen`, `wretch`, `Ruiner of the clan! Blind fool!`, old-toddy/new-pot image and `appa!`: **T5 PASS / polemical force retained**
 - external citation required: **No**
 - no outside epic/history identification, web wording, published translation, alternate scan lexical reading or source-normalising reconstruction imported: **none**
 - frozen Tamil changed: **No**
 - blockers: **0**
-- synchronized T4 records: English candidate `2c5101765a57a01dce05e82d006a45d00f967d90`; English tracker `6cdd09f819a446a6a013c4bf9260ea784655a485`; translation plan `97fbb906dc91d77ee141eae17417b8a56659ceed`; lexicon `22c379d787199e2fc625815a682fad78bb42c9f9`; review ledger `d592e102519c30e89ce47658ed06debb350d027c`.
+- synchronized T5 records: English article `6b12e6b3cc09b6de402998bb3824e7a98808f885`; English tracker `302ec6904d104c0a70e1187707c55af720c8b553`; translation plan `ca7bd734dbad489209d36c91eb465fa13e325ad5`; lexicon `78cb7b70ae176933bfd8d49eb1a86b70b176ae54`; review ledger `4bec75758eff50bc7746e169f53e73a62686f258`.
 
-Article 8 remains downstream of T5. **Do not begin Article 9 until Article 8 reaches T5.**
+Article 8 is closed at T5. **Do not reopen it absent a genuine source-supported defect.**
 
 ---
 
 # Exact next activity
 
-Execute **Article 8 T5 — final article verification** for `பத்தினியே உன்போல்...!` against:
+Execute **Article 9 T1 — complete close English draft** for `அன்னை நாகம்மையார்!` against:
 
-- frozen Tamil blob: `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`
-- T4-audited English candidate: `2c5101765a57a01dce05e82d006a45d00f967d90`
-- source scans: **42–44**
+- frozen Tamil blob: `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
+- source scans: **45–47**
+- printed pages: **45–46; scan 45 has no visible printed numeral**
 
-T5 must re-verify the complete T1–T4 chain and make only genuine final source-fidelity corrections if required. Recheck metadata/source fields, complete paragraph/clause coverage, all source comments and printed-page witnesses, all dialogue quotation/question/exclamation scopes, scan-42 source-recovered `No answer.`, scan-43 `* * *`, embedded `“I have granted the boon,”`, command `Read it!`, the continuous scan-43→44 literary quotation, scan-44 insult quotation, `1937` / page `43`, all proper-name/source-title/terminology choices, `Arijan`, frozen/source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`, source-quoted `Paaraa Mugam Unnaiye`, quoted title refrain, repeated erotic/literary language and the polemical insults/images. Do not import scan-appearing alternate lexical forms, outside epic/history identification, web wording or published translations. If T5 passes, advance Article 8 to `translation_status: verified`, synchronize records, and **do not begin Article 9 in the same activity**.
+T1 must translate the complete frozen Article 9 assembly paragraph by paragraph and clause by clause. Preserve all source-page comments, quotation/question/exclamation structure, source ages/dates/numbers, direct speech, affectionate and polemical register, and immediate source labels. Establish provisional English choices from the frozen source especially for `பெரியார்`, `ராமசாமி`, `நாகம்மையார்` / `நாகம்மா`, the quoted youthful marriage vows, age witnesses `19` / `13`, year `1898`, and scan-47 year `1933`. Do not import outside biographical wording, web wording, alternate source forms or published translations. Record provisional Article 9 terminology and T1 provenance, synchronize trackers/handover, and **stop before Article 9 T2**.
 
 ## Current blockers
 
