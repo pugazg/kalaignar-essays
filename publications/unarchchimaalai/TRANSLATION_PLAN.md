@@ -26,7 +26,8 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - T4: **10 / 10**
 - T5: **10 / 10**
 - E6 publication-wide consistency review: **COMPLETE / PASS**
-- E7 English release closeout: **NOT STARTED**
+- E7 English release closeout: **COMPLETE / PASS**
+- English release: **COMPLETE / FROZEN**
 - blockers: **0**
 
 ## Frozen Tamil authorities
@@ -59,9 +60,9 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 | 9 | அன்னை நாகம்மையார்! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 
-## Verified baseline — unchanged by E6
+## Final released English baseline
 
-Articles 1–10 are individually T5-verified. Their final English blobs are:
+Articles 1–10 remain individually T5-verified and unchanged through E6/E7. Their release blobs are:
 
 1. `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
 2. `f1599a8e7cae4ba749b9be2857705b152887f9f8`
@@ -114,7 +115,24 @@ E6 systematically rechecked all ten article translations as one publication.
 
 E6 made **0 English body corrections**, changed **0 article blob SHAs**, changed **0 frozen Tamil authorities**, and reopened **no source/fidelity gates**. Deliberate contextual/source-witness exceptions are recorded in `translations/en/LEXICON.md` and `translations/en/TRANSLATION_REVIEW.md` rather than mechanically harmonised.
 
-## Publication-specific cautions
+## E7 — English release closeout — COMPLETE / PASS
+
+E7 re-confirmed the release state against live `main`:
+
+- E6-passed English blob matrix: **10 / 10 unchanged**;
+- frozen Tamil authority matrix: **10 / 10 unchanged**;
+- T0–T5: **complete**;
+- E6: **PASS**;
+- E6 deliberate contextual/source-witness exceptions: **preserved / documented**;
+- required source-page comments and durable anomaly/exclusion state: **release-valid / unchanged from E6**;
+- English article-body changes during E7: **0**;
+- frozen Tamil changes during E7: **0**;
+- source/fidelity gates reopened: **No**;
+- release blockers: **0**.
+
+The `ESSAY_TRANSLATION_GUIDE.md` publication-level release prerequisite is satisfied. **E7 RESULT: PASS / ENGLISH RELEASE COMPLETE / FROZEN.**
+
+## Publication-specific cautions — permanent non-regression
 
 1. Translate/review only from frozen Tamil assemblies.
 2. Preserve documented P5 scan/Gemini lexical conflicts; never silently substitute alternate scan wording.
@@ -124,7 +142,8 @@ E6 made **0 English body corrections**, changed **0 article blob SHAs**, changed
 6. Preserve frozen scan-49 `விட்டாய்.` placement.
 7. Preserve questions, exclamations, repetition, direct address and page-boundary comments.
 8. Preserve E6-recorded contextual/source-witness exceptions; consistency does not mean homogenisation.
+9. Do not reopen released English bodies for polish or conventionalisation absent a genuine source-supported or release-blocking defect.
 
-## Exact next activity
+## Next activity
 
-Execute **E7 — English release closeout**. Use the E6-passed article baselines and canonical lexicon/review records; do not reopen individual article bodies unless a genuine release-blocking or source-supported defect is found.
+No further translation activity is pending for `உணர்ச்சிமாலை`. The next project activity is **intake of the next supplied Kalaignar essay/article publication** under `docs/START_NEW_ESSAY_WORK_PROMPT.md`.
