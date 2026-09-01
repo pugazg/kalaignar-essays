@@ -9,7 +9,7 @@ source_scan_pages: "5-6, 13-16"
 source_printed_pages: "none visible"
 language: "en"
 translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T2 bilingual fidelity-reviewed; T3 voice-reviewed; source-damage gaps preserved without reconstruction"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T2 bilingual fidelity-reviewed; T3 voice-reviewed; T4 terminology/quotation/citation/source-audited; source-damage gaps preserved without reconstruction"
 ---
 
 # Dravidian Wealth
@@ -52,7 +52,7 @@ We give thanks—wisdom has dawned, even if late! But Vikatan isn't such a madma
 
 Afraid that, by calling it a Dravidian story, it might give room to the 'Dravida Nadu!' question, it says: "By Dravidian Wealth, we do not accept that such a race ever existed or exists."
 
-Look at Vikatan's poison. "The doctrine of racial hatred is a myth (Myth), that is, a mythological imagination, say today's scientific scholars and researchers."
+Look at Vikatan's poison. "The doctrine of racial hatred is a mit (Myth), that is, a mythological imagination, say today's scientific scholars and researchers."
 
 Look what he uses scientific scholars and researchers for, Vikatanar! The scholars, it seems, say the doctrine of racial hatred is wrong. With these words, the Comedy Monkey dreams of ruining our racial clarion call!
 
