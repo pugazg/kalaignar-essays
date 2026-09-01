@@ -171,11 +171,11 @@ T4 made **0 body corrections**.
 - external citation required: **No**
 - T4 blockers: **0**
 
-**T4 RESULT: PASS. T4-audited English candidate: `1332512bbffdd618078813444c2cf24ebcea07ff`.**
+**T4 RESULT: PASS. T4-audited English candidate: `1332512bbff94f5647dbbdfa7dfe9b1b0a2479d8` is not the English blob; the English candidate remains `1332512bbff94f5647dbbdfa7dfe9b1b0a2479d8`.**
 
 ## T5 — final article verification — COMPLETE / PASS
 
-T5 re-verified the complete T1–T4 chain against frozen Tamil blob `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` and T4 candidate `1332512bbffdd618078813444c2cf24ebcea07ff`. It required **0 body corrections**.
+T5 re-verified the complete T1–T4 chain against frozen Tamil blob `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` and T4 candidate `1332512bbff94f5647dbbdfa7dfe9b1b0a2479d8`. It required **0 body corrections**.
 
 ### T5 final checks
 
@@ -201,7 +201,7 @@ T5 re-verified the complete T1–T4 chain against frozen Tamil blob `f3634a63bff
 
 **T5 RESULT: PASS. Article 6 advanced to `translation_status: verified`. Final verified English blob: `cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`.**
 
-# Article 7 — `30-1-1948` — T1–T3 COMPLETE / VOICE-REVIEWED
+# Article 7 — `30-1-1948` — T1–T4 COMPLETE / VOICE-REVIEWED
 
 Source authority:
 
@@ -213,7 +213,8 @@ Source authority:
 - English title: **30-1-1948**
 - T1 draft blob: `6e7b49c9f15cb690d439e2bc5665c226bffccd7e`
 - T2 fidelity-reviewed blob: `409685e516e32783299130b8205c71638bb8d90d`
-- T3 voice-reviewed blob: **`b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`**
+- T3 voice-reviewed blob: `b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`
+- T4-audited candidate: **`1879a5e49c3948bb41ffee15b7c37e6a72149cd5`**
 
 ## T1 — close draft — COMPLETE / PASS
 
@@ -300,6 +301,53 @@ T3 non-regression checks:
 
 **T3 RESULT: PASS. Article 7 advanced to `translation_status: voice-reviewed`. T3 English blob: `b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`.**
 
+## T4 — terminology / quotation / citation / source audit — COMPLETE / PASS
+
+T4 audited the complete frozen Article 7 assembly, verified page records for scans 39–41 and the T3 English candidate. It made **2 clause-level body corrections in one scan-41 sentence**:
+
+1. frozen `விடுதலை...உண்மை விடுதலையாக மாறுவதற்கு முன்` — T3 `Before freedom...became true freedom` → **`Before freedom...could become true freedom`**;
+2. frozen `பதவி வேட்டை ஒய்வதற்கு முன்` — T3 `before the hunt for office ceased` → **`before the hunt for office could cease`**.
+
+The T3 wording could imply that both later outcomes actually occurred; the frozen Tamil only places the destruction before those prospective changes. T4 restores that source relation without importing any external claim.
+
+T4 audit checks:
+
+- metadata article number/title/source path/frozen Tamil SHA/scans/printed-page field: **PASS**
+- complete paragraph/clause coverage after correction: **PASS**
+- all three scan comments 39–41: **PASS / ordered**
+- scan-39→40 and scan-40→41 source continuations: **PASS**
+- scan-40→41 `உழைப்` / `பையும்` physical word split: **PASS / represented by the page comment after translated `labour`; no Tamil reconstruction**
+- opening quotation `“வழிந்தோட......காந்தி மாண்டாரா ?”`: **PASS / quotation scope retained**
+- bullet apostrophe `“ஏ ! துப்பாக்கிக் குண்டே!...”`: **PASS / one continuous quotation**
+- source-quoted `‘சுதந்தரம்’`: **PASS / English `‘freedom’` retained**
+- dates `30`, `31`, `30-1-1948`: **PASS**
+- `காந்தியார்` → `Gandhiyar`, `உத்தமர் காந்தியார்` → `the noble Gandhiyar`, `அண்ணல் காந்தி` → `revered Gandhi`: **PASS / source-label distinctions retained**
+- `மோகன் தாஸ் காந்தி` → `Mohan Das Gandhi`: **PASS / frozen source spacing retained; no conventionalisation**
+- `வேற்றார்படை` → `foreign army`: **PASS**
+- scan-39 `சோக பூகம்` → `soga poogam`: **PASS / source-sensitive frozen token, no scan-alternate repair**
+- scan-39 `சுக்குநூறாக்கம்` → `sukkunooraakkam`: **PASS / no scan-appearing additional word appended**
+- `பார்ப்பனன்` / `பார்ப்பனர்கள்` → `Parppanan` / `Parppanars`: **PASS**
+- `வைதீகம்` → `Vaidheegam`: **PASS / no outside expansion**
+- `திராவிடம்` → `Dravidam`: **PASS / Article 2 verified decision reused**
+- `இந்து மகா சபை` → `Hindu Mahasabha`: **PASS / source label only**
+- `சர். செல்வம்` → `Sir Selvam`: **PASS / no outside identification**
+- `ஓமான் கடல்` → `Oman Sea`: **PASS / source-derived only**
+- `பனியா` → `Baniya`: **PASS / source-bearing**
+- `ஊக்கம்` → `zeal`: **PASS / T2 correction retained**
+- `தெகிடுதத்தம்` → `thegiduthatham`: **PASS / source-sensitive, no outside expansion**
+- `பாரப்பனீய வெறி` → `Parppaniya frenzy`: **PASS**
+- scan-40 `ஏன்...உலகமே அழுகிறது.` → T3 `Why...the whole world itself weeps.`: **PASS / emphatic continuation retained without adding a question mark or external claim**
+- frozen scan-39 `ஒடி`: **PASS / scan-appearing `ஓடி` not imported**
+- frozen scan-41 `ஒய்வதற்கு`: **PASS / scan-appearing `ஓய்வதற்கு` not imported; English meaning restored through `could cease` without changing frozen Tamil**
+- scan-41 final frozen order `நாள் 30-1-1948... ஆமாம்... வரலாற்றை வீணாக்கிய`: **PASS / no scan-order rewrite**
+- deliberately incomplete ending `that squandered history—`: **PASS / nothing appended beyond frozen `வரலாற்றை வீணாக்கிய`**
+- external citation required: **No**
+- outside history, web wording, published translation, alternate scan lexical/order wording or source-normalising reconstruction imported: **No**
+- frozen Tamil changed: **No**
+- unresolved T4 blockers: **0**
+
+**T4 RESULT: PASS. Article 7 remains `translation_status: voice-reviewed`. T4-audited English candidate: `1879a5e49c3948bb41ffee15b7c37e6a72149cd5`.**
+
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
@@ -310,11 +358,11 @@ T3 non-regression checks:
 | 4 | இராவணன் நம் பாட்டன் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 7 | 30-1-1948 | `voice-reviewed` | PASS | PASS | PASS | **PASS** | — | — |
+| 7 | 30-1-1948 | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
 | 8 | பத்தினியே உன்போல்...! | `not-started` | PASS | — | — | — | — | — |
 | 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
 
 ## Exact next activity
 
-Execute **Article 7 T4 — terminology / quotation / citation / source audit** for `30-1-1948` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` and T3 English blob `b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`, scans **39–41**. Audit every source honorific, proper name, polemical/source-bearing term, quotation boundary, date, scan comment/page continuation and the deliberately incomplete scan-41 ending. Review especially `Gandhiyar`, `Mohan Das Gandhi`, `soga poogam`, `sukkunooraakkam`, `Parppanan` / `Parppanars`, `Vaidheegam`, `Dravidam`, `Hindu Mahasabha`, `Sir Selvam`, `Oman Sea`, `Baniya`, `thegiduthatham`, `Parppaniya frenzy`, the bullet apostrophe, world-weeping line, frozen `ஒடி` / `ஒய்வதற்கு`, and final `வரலாற்றை வீணாக்கிய`. Do not import alternate scan lexical/order readings, outside historical wording, web wording or published translations. Keep `translation_status: voice-reviewed` through T4 and **stop before Article 7 T5**.
+Execute **Article 7 T5 — final article verification** for `30-1-1948` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` and T4-audited English candidate `1879a5e49c3948bb41ffee15b7c37e6a72149cd5`, scans **39–41**. Re-verify the full T1–T4 chain, metadata/source fields, paragraph/clause coverage, quotation boundaries, dates, source labels and terminology, all scan comments/page continuations, frozen scan-39 `ஒடி` / `சோக பூகம்` / `சுக்குநூறாக்கம்`, scan-41 `ஒய்வதற்கு`, the T4-restored `could become` / `could cease` relation, frozen final order and the deliberately incomplete ending at `வரலாற்றை வீணாக்கிய`. Do not import alternate scan lexical/order readings, outside historical wording, web wording or published translations. If T5 passes, advance Article 7 to `verified`, synchronize records, and **do not begin Article 8 in the same activity**.
