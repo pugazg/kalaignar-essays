@@ -6,11 +6,11 @@ Controlling source: `TVA_BOK_0063821_உணர்ச்சிமாலை.pdf`
 Physical scans: **50**  
 Recorded SHA-256: `d2d45de049505218fd612bf71949135e34ecb317ffb5d003dfe59a3a0608461d`
 
-This record closes the Tamil archival gates through **P5**. The publication-specific user rule remains controlling for lexical wording:
+This record closes both the Tamil archival gates through **P5** and the English translation/release gates through **E7**. The publication-specific user rule remains controlling for lexical wording:
 
 > **Retain the words as in Gemini. Correct only indentation, punctuation, spaces, missing paragraphs, headings, and analogous structural/formatting features.**
 
-## Final completion gates
+## Final Tamil completion gates
 
 | Check | Result |
 |---|---|
@@ -74,7 +74,7 @@ P5 records **18** scan/Gemini lexical or ordering disagreements in `VISUAL_TEXT_
 
 These documented conflicts are not unresolved fidelity blockers under the user's current lexical-baseline instruction.
 
-## Frozen article authorities
+## Frozen Tamil article authorities
 
 | Article | Tamil blob SHA |
 |---:|---|
@@ -107,19 +107,50 @@ P5 rechecked all ten assemblies against the corrected page layer:
 
 **ARTICLE STRICT-FIDELITY RESULT: 10 / 10 PASS / FROZEN.**
 
-## English downstream setup — T0 COMPLETE / PASS
+## Final English translation / release gates
 
-T0 reverified all ten frozen article blob SHAs against live `main` and created:
+| Gate | Result |
+|---|---|
+| T0 source prerequisite/setup | **PASS** |
+| T1 complete drafts | **10 / 10 PASS** |
+| T2 bilingual fidelity review | **10 / 10 PASS** |
+| T3 Kalaignar voice review | **10 / 10 PASS** |
+| T4 terminology/quotation/source audit | **10 / 10 PASS** |
+| T5 article verification | **10 / 10 PASS** |
+| E6 publication-wide English consistency | **PASS** |
+| E6 English body corrections | **0** |
+| E6 source/fidelity defects | **0** |
+| E7 release closeout | **PASS** |
+| E7 English body corrections | **0** |
+| E7 frozen Tamil changes | **0** |
+| English release blockers | **0** |
+
+Final English article blobs:
+
+1. `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
+2. `f1599a8e7cae4ba749b9be2857705b152887f9f8`
+3. `1134185bc21478775419adb3560b110c001d2b75`
+4. `03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`
+5. `c689ff90f08d389a5e7ebc4849c30d58dfe81766`
+6. `cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`
+7. `6cfb28e2d83ba84ee2daa54606561479b61498b0`
+8. `6b12e6b3cc09b6de402998bb3824e7a98808f885`
+9. `204ffed012f4bd91b3077065f031d6b2db747854`
+10. `cee8ea3c33495615ffc988a1875d71e40f8224a3`
+
+E7 re-confirmed all ten current English article blobs against the E6-passed release baseline and all ten frozen Tamil authorities against live `main`. Because the E6-passed blobs remained unchanged, all required source-page comments, quotation treatment and durable anomaly/exclusion state remain release-valid. E6's deliberate contextual/source-witness exceptions remain documented in the canonical lexicon and review ledger.
+
+**FINAL ENGLISH RESULT: COMPLETE / RELEASED / FROZEN.**
+
+Release records:
 
 - [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 
-T0 carried the 18-item P5 lexical-conflict provenance and source-recovered scan 19 / scan 42 material into the English setup. English body translation has **not** started; drafts remain **0 / 10**.
+## Final publication result
 
-## Downstream gate
+**உணர்ச்சிமாலை: TAMIL COMPLETE / FROZEN; ENGLISH COMPLETE / RELEASED / FROZEN; BLOCKERS 0.**
 
-**Exact next activity:** execute **Article 1 T1 — complete close English draft for `உணர்ச்சி மாலை`** from frozen Tamil blob `c63837a9f7c02d6f3a18171a512d46788f66ad92`.
-
-T1 must create the complete English article with `translation_status: draft`, preserve scan comments and embedded verse, establish a provisional English title, update the living lexicon and review ledger with actual translation decisions, and stop before T2 bilingual review.
+No further work is pending for this publication absent a genuine source-supported or release-blocking defect. The next project activity is intake of the next supplied Kalaignar essay/article publication.
