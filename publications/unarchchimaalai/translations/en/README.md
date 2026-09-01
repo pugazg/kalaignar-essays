@@ -16,11 +16,11 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T4 audited: **10 / 10**
 - T5 verified: **10 / 10**
 - E6 publication consistency review: **COMPLETE / PASS**
-- E7 release closeout: **NOT STARTED**
-- English translation: **IN PROGRESS — E6 PASSED; E7 REMAINS**
+- E7 release closeout: **COMPLETE / PASS**
+- English translation: **COMPLETE / RELEASED / FROZEN**
 - unresolved translation blockers: **0**
 
-Articles 1–10 have completed T0–T5 and are individually `verified`. E6 has passed publication-wide consistency review with **0 English body corrections**. E7 release closeout remains.
+Articles 1–10 completed T0–T5 and are individually `verified`. E6 passed publication-wide consistency with **0 English body corrections**. E7 re-confirmed the complete frozen Tamil/English authority matrix and release documentation and found **0 release blockers**.
 
 ## Frozen Tamil translation authorities
 
@@ -52,7 +52,7 @@ Articles 1–10 have completed T0–T5 and are individually `verified`. E6 has p
 | 9 | அன்னை நாகம்மையார்! | [`09-annai-nagammaiyar.md`](09-annai-nagammaiyar.md) | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | [`10-kavithaiyalla-kannirkkadal.md`](10-kavithaiyalla-kannirkkadal.md) | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 
-## Verified article baseline — unchanged by E6
+## Final released English article baseline
 
 1. `உணர்ச்சி மாலை` — **Garland of Emotion** — `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
 2. `புரட்சி வளர்ந்த கதை` — **The Story of How the Revolution Grew** — `f1599a8e7cae4ba749b9be2857705b152887f9f8`
@@ -101,10 +101,27 @@ E6 compared all ten T5-verified articles for recurring names and epithets, epic-
 
 Deliberate source/context differences were preserved rather than homogenised, including `Dravidam` / `Dravidians` / adjectival `Dravidian`, `Kambar` / `Kamban`, Gandhi source-label variants, `Brahmin` versus source-bearing `Parppanar` forms, `Vediyars`, `Vaidheegam` / `Vaidheega`, `Harijan` versus `Arijan journal`, `Oriental College` versus frozen `Oriyantal College`, Article 5's translated award versus its separate source-English parenthetical, Article 9 name/honorific variants, and unresolved/source-bearing transliterations. Full E6 provenance is in [`LEXICON.md`](LEXICON.md) and [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
 
-## Translation authority / special source rule
+## E7 — English release closeout — PASS / RELEASE COMPLETE
 
-English authority is the frozen Tamil article assembly, not OCR, memory, web wording or a scan-appearing alternate lexical reading. The publication's documented P5 scan/Gemini disagreements remain upstream provenance only.
+E7 performed the release/documentation closeout against live `main` after E6.
 
-## Exact next activity
+- all ten current English article blobs match the E6-passed baseline above: **10 / 10 PASS**;
+- all ten frozen Tamil authority blobs remain unchanged: **10 / 10 PASS**;
+- T0–T5 completion and E6 PASS are internally consistent across release records: **PASS**;
+- E6 deliberate contextual/source-witness exceptions remain documented: **PASS**;
+- no article body was silently harmonised or edited after E6: **PASS**;
+- required source-page comments and E6 anomaly/exclusion state remain release-valid because the E6-passed article blobs are unchanged: **PASS**;
+- source/fidelity gates reopened: **No**;
+- English body corrections during E7: **0**;
+- frozen Tamil changes during E7: **0**;
+- release blockers: **0**.
 
-Execute **E7 — English release closeout**. Do not reopen the ten verified English bodies unless E7 identifies a genuine release-blocking or source-supported defect.
+Under `ESSAY_TRANSLATION_GUIDE.md`, the publication has completed individual article verification and the required publication-wide consistency gate. **E7 RESULT: PASS. ENGLISH TRANSLATION / RELEASE: COMPLETE / FROZEN.**
+
+## Translation authority / non-regression
+
+English authority remains the frozen Tamil article assembly, not OCR, memory, web wording or a scan-appearing alternate lexical reading. The publication's documented P5 scan/Gemini disagreements remain upstream provenance only. E6-recorded contextual/source-witness differences are part of the frozen English release and must not be homogenised later.
+
+## Next activity
+
+No further activity is pending for `உணர்ச்சிமாலை` absent a genuine source-supported or release-blocking defect. The next project activity is **intake of the next supplied Kalaignar essay/article publication** under `docs/START_NEW_ESSAY_WORK_PROMPT.md`.
