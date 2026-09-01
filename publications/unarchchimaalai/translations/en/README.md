@@ -11,7 +11,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - Tamil articles: **10 / 10 strict-rechecked**
 - T0 source prerequisite/setup: **COMPLETE / PASS**
 - T1 close English drafts: **7 / 10**
-- T2 fidelity-reviewed: **6 / 10**
+- T2 fidelity-reviewed: **7 / 10**
 - T3 voice-reviewed: **6 / 10**
 - T4 audited: **6 / 10**
 - T5 verified: **6 / 10**
@@ -20,7 +20,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - English translation: **IN PROGRESS**
 - unresolved translation blockers: **0**
 
-Articles 1–6 have completed T0–T5 and are individually `verified`. Article 7 has completed T1 and is `draft` pending T2.
+Articles 1–6 have completed T0–T5 and are individually `verified`. Article 7 has completed T1–T2 and is `fidelity-reviewed` pending T3.
 
 ## Frozen Tamil translation authorities
 
@@ -47,7 +47,7 @@ Articles 1–6 have completed T0–T5 and are individually `verified`. Article 7
 | 4 | இராவணன் நம் பாட்டன் | [`04-iravanan-nam-pattan.md`](04-iravanan-nam-pattan.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 5 | இங்கல்ல! இரஷ்யாவில் | [`05-ingalla-irashyavil.md`](05-ingalla-irashyavil.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 6 | 3, 57, 90. | [`06-3-57-90.md`](06-3-57-90.md) | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 7 | 30-1-1948 | [`07-30-1-1948.md`](07-30-1-1948.md) | `draft` | PASS | **PASS** | — | — | — | — |
+| 7 | 30-1-1948 | [`07-30-1-1948.md`](07-30-1-1948.md) | `fidelity-reviewed` | PASS | PASS | **PASS** | — | — | — |
 | 8 | பத்தினியே உன்போல்...! | `08-paththiniye-unpol.md` | `not-started` | PASS | — | — | — | — | — |
 | 9 | அன்னை நாகம்மையார்! | `09-annai-nagammaiyar.md` | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `10-kavithaiyalla-kannirkkadal.md` | `not-started` | PASS | — | — | — | — | — |
@@ -79,27 +79,33 @@ Articles 1–6 have completed T0–T5 and are individually `verified`. Article 7
 - final T5-verified English: **`cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`**
 - blockers: **0**
 
-## Article 7 T1 record
+## Article 7 T1–T2 record
 
 - Tamil / English title: **30-1-1948**
 - frozen Tamil authority: `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`
 - source scans: **39–41**
 - printed pages: **39–40; scan 39 has no visible printed numeral**
-- T1 draft English: **`6e7b49c9f15cb690d439e2bc5665c226bffccd7e`**
-- complete paragraph/clause coverage: **PASS**
-- all scan comments 39–41 and page continuations: **PASS**
-- frozen scan-39 opening sequence and quoted `flowing away......Has Gandhi died?` scope: **retained / T1 PASS**
-- frozen scan-39 source-sensitive `சோக பூகம்` and `சுக்குநூறாக்கம்`: **retained provisionally as `soga poogam` and `sukkunooraakkam`; no scan-alternate repair**
-- repeated `shot` mourning rhetoric and direct bullet apostrophe: **PASS**
-- source honorific `காந்தியார்`: **provisionally `Gandhiyar`**
-- source-bearing `பார்ப்பனன்` / `பார்ப்பனர்கள்`: **provisionally `Parppanan` / `Parppanars`**
-- source-bearing `வைதீகம்`: **provisionally `Vaidheegam`**
-- Article 2 `திராவிடம்` decision reused as **`Dravidam`**
-- source-specific `தெகிடுதத்தம்`: **retained provisionally as `thegiduthatham`**
-- `பாரப்பனீய வெறி`: **retained provisionally as `Parppaniya frenzy`**
-- scan-41 frozen ending at `வரலாற்றை வீணாக்கிய`: **preserved as an intentionally incomplete English ending `that squandered history—`**
+- T1 draft English: `6e7b49c9f15cb690d439e2bc5665c226bffccd7e`
+- T2 fidelity-reviewed English: **`409685e516e32783299130b8205c71638bb8d90d`**
+- T2 fidelity corrections: **5**
+- complete paragraph/clause coverage: **T2 PASS**
+- all scan comments 39–41 and page continuations: **T2 PASS**
+- frozen scan-39 opening quotation and repeated `shot` mourning rhetoric: **T2 PASS**
+- `வேற்றார்படை`: **T2 corrected to `foreign army`**
+- `மோகன் தாஸ் காந்தி`: **T2 corrected to `Mohan Das Gandhi` / frozen source spacing retained**
+- scan-40 `ஏன்...உலகமே அழுகிறது.`: **T2 corrected to `Why, even the whole world weeps.`**
+- `ஊக்கம்`: **T2 corrected to `zeal`**
+- `அதுவும் தங்களுக்கா ?`: **T2 corrected to `and that too for you?`**
+- source honorific `காந்தியார்`: **`Gandhiyar` / T2 PASS**
+- source-sensitive `சோக பூகம்` / `சுக்குநூறாக்கம்`: **`soga poogam` / `sukkunooraakkam` / T2 PASS; no repair**
+- `பார்ப்பனன்` / `பார்ப்பனர்கள்`: **`Parppanan` / `Parppanars` / T2 PASS**
+- `வைதீகம்`: **`Vaidheegam` / T2 PASS**
+- `திராவிடம்`: **`Dravidam` / Article 2 T5 decision reused**
+- `தெகிடுதத்தம்`: **`thegiduthatham` / T2 PASS**
+- `பாரப்பனீய வெறி`: **`Parppaniya frenzy` / T2 PASS**
+- scan-41 frozen ending at `வரலாற்றை வீணாக்கிய`: **intentionally incomplete `that squandered history—` / T2 PASS**
 - outside historical identification, alternate scan wording, web wording or published translation imported: **No**
-- T1 blockers: **0**
+- T2 blockers: **0**
 
 ## Translation authority / special source rule
 
@@ -107,4 +113,4 @@ English authority is the frozen Tamil article assembly, not OCR, memory, web wor
 
 ## Exact next activity
 
-Execute **Article 7 T2 — bilingual fidelity review** for `30-1-1948` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` and T1 English blob `6e7b49c9f15cb690d439e2bc5665c226bffccd7e`, scans **39–41**. Re-read paragraph by paragraph and clause by clause; verify quotation scope, repeated mourning rhetoric, dates, source honorifics, polemical labels, all provisional source-bearing forms, scan comments/page boundaries, and the deliberately incomplete frozen scan-41 ending. Do not import scan-appearing alternate lexical/order readings, outside historical wording or published translations. Record every fidelity correction, advance only to `fidelity-reviewed` if T2 passes, synchronize records, and **stop before Article 7 T3**.
+Execute **Article 7 T3 — Kalaignar voice review** for `30-1-1948` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` and T2 English blob `409685e516e32783299130b8205c71638bb8d90d`, scans **39–41**. Preserve every T2 meaning/source decision while reviewing only cadence, directness, repeated mourning force, apostrophe, rhetorical questions/exclamations and accumulative polemical rhythm. Preserve all scan comments/page boundaries, source-bearing forms and the deliberately incomplete frozen scan-41 ending. Do not import scan-appearing alternate lexical/order readings, outside historical wording or published translations. Advance only to `voice-reviewed` if T3 passes and **stop before Article 7 T4**.
