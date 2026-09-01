@@ -44,8 +44,8 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 | 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 8 | பத்தினியே உன்போல்...! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 9 | அன்னை நாகம்மையார்! | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
+| 9 | அன்னை நாகம்மையார்! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
+| 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `draft` | PASS | **PASS** | — | — | — | — |
 
 ## Verified baseline
 
@@ -94,6 +94,24 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - outside/web biographical wording, conventional spellings, alternate source forms or published translation imported: **No**.
 - blockers: **0**.
 
+## Article 10 — T1 COMPLETE / DRAFT
+
+- Tamil title: **கவிதையல்ல - கண்ணீர்க்கடல் !**
+- English title: **Not a Poem — an Ocean of Tears!**
+- frozen Tamil authority: `f856664d86695237a23d0ffc0bef088d32a82fe9`
+- source scans: **48–49**
+- printed pages: **48; scan 48 has no visible printed numeral**
+- T1 draft English: **`a9864870a17c291304b1cab2480ea7eea4730e1a`**
+- translation status: **`draft`**
+- complete verse-unit coverage and source lineation: **T1 PASS**
+- bracketed subtitle and `* * *` separator: **T1 PASS**
+- scan-48 frozen `ப்ழச்சளை`: **retained verbatim in English; no lexical repair**
+- scan-49 frozen `விட்டாய்.`: **retained in frozen position as `You left.`**
+- source-page comments scans 48–49: **PASS**
+- publication-source note/printer imprint on scan 49 and scan-50 advertisement: **excluded / outside Article 10**
+- no outside/web identification, alternate scan reading or published translation imported
+- blockers: **0**
+
 ## Publication-specific cautions
 
 1. Translate only from frozen Tamil assemblies.
@@ -106,4 +124,4 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 
 ## Exact next activity
 
-Execute **Article 10 T1 — complete close English draft** for `கவிதையல்ல - கண்ணீர்க்கடல் !` against frozen Tamil blob `f856664d86695237a23d0ffc0bef088d32a82fe9`, scans **48–49**. Translate the complete frozen article paragraph by paragraph and verse unit by verse unit. Preserve source-page comments, Article 10 verse lineation, questions/exclamations/repetition and source-bearing terminology. Retain frozen scan-48 `ப்ழச்சளை` exactly as the Tamil authority, preserve frozen scan-49 `விட்டாய்.` placement, and exclude the scan-49 publication-source note/imprint and scan-50 advertisement because they are outside Article 10. Do not import alternate scan readings, outside identifications, web wording or published translations. Establish provisional Article 10 terminology, record T1 provenance, synchronize trackers/handover, and **stop before Article 10 T2**.
+Execute **Article 10 T2 — bilingual fidelity review** for `கவிதையல்ல - கண்ணீர்க்கடல் !` against frozen Tamil blob `f856664d86695237a23d0ffc0bef088d32a82fe9` and T1 English blob `a9864870a17c291304b1cab2480ea7eea4730e1a`, scans **48–49**. Re-read the poem line by line and verse unit by verse unit; verify title/subtitle, page comments, verse lineation, questions/exclamations/repetition, source labels and imagery, frozen scan-48 `ப்ழச்சளை`, frozen scan-49 `விட்டாய்.` placement, `Parppaniyam`, `Tiruvitaththar`, `Oman Sea`, `பஞ்சைகள்`, and the final fall/sing-deeds close. Preserve the exclusion of scan-49 publication-close matter and scan-50 advertisement. Do not import alternate scan readings, outside identification, web wording or published translations. Stop before Article 10 T3.
