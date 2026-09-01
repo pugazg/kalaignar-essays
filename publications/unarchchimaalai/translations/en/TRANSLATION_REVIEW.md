@@ -6,7 +6,7 @@ Permanent guide: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TR
 
 ## Durable history
 
-The complete canonical review history through **Article 9 T4** is preserved byte-for-byte in [`TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md`](TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md). This file continues that history with Article 9 T5, Article 10 T1–T5 and the E6 publication-wide consistency review. No earlier review provenance is discarded.
+The complete canonical review history through **Article 9 T4** is preserved byte-for-byte in [`TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md`](TRANSLATION_REVIEW_HISTORY_THROUGH_ARTICLE9_T4.md). This file continues that history with Article 9 T5, Article 10 T1–T5, the E6 publication-wide consistency review and E7 English release closeout. No earlier review provenance is discarded.
 
 ## Frozen source-authority matrix
 
@@ -249,6 +249,32 @@ The following differences were specifically rechecked and must **not** be mechan
 
 **E6 RESULT: PASS.**
 
-## Exact next activity
+# E7 — English release closeout — COMPLETE / PASS
 
-Execute **E7 — English release closeout**. Do not reopen individual article bodies unless E7 identifies a genuine release-blocking or source-supported defect.
+E7 re-fetched live `main`, re-confirmed the current ten English article blobs and the ten frozen Tamil authorities, and reconciled the release records without reopening body text.
+
+## E7 release checks
+
+| Check | Result |
+|---|---|
+| English article blobs still match E6-passed baseline | **10 / 10 PASS** |
+| Frozen Tamil authority blobs unchanged | **10 / 10 PASS** |
+| T0–T5 completion | **PASS** |
+| E6 publication-wide consistency gate | **PASS** |
+| E6 deliberate contextual/source-witness exceptions still documented | **PASS** |
+| English article bodies changed after E6 | **0 / 10** |
+| Required source-page comments / durable anomaly state | **PASS via unchanged E6-passed blobs** |
+| Frozen Tamil changed during E7 | **No** |
+| Source/fidelity defects discovered during E7 | **0** |
+| Source/translation gates reopened | **No** |
+| Release blockers | **0** |
+
+E7 confirmed the durable non-regression set: `Dravidam` / `Dravidians` / `Dravidian` distinctions, `Kambar` / `Kamban`, Gandhi source labels, `Brahmin` versus source-bearing `Parppanar` forms, separate `Vediyars`, `Vaidheegam` / `Vaidheega`, `Harijan` / `Arijan`, `Oriental College` / frozen `Oriyantal College`, Article 5's source-English award witness, Article 9 name/honorific variants, source-bearing epic/transliterated forms, scan 32 frozen order, Article 7 incomplete ending, scan 42 `No answer.`, scan 43 `* * *`, frozen `ப்ழச்சளை`, frozen `You left.` placement and publication-close/advertisement exclusions.
+
+No web wording, external history, alternate scan lexical reading, published translation, stylistic homogenisation or conventionalisation was introduced.
+
+Under the publication-level English release gate in `ESSAY_TRANSLATION_GUIDE.md`, all individual articles are verified and E6 has passed. **E7 RESULT: PASS / ENGLISH TRANSLATION COMPLETE / RELEASE COMPLETE / FROZEN.**
+
+## Next activity
+
+No further review activity is pending for `உணர்ச்சிமாலை` absent a genuine source-supported or release-blocking defect. The next project activity is intake of the next supplied Kalaignar essay/article publication.
