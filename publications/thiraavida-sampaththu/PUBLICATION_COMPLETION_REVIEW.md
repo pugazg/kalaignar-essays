@@ -29,67 +29,75 @@
 
 These two assemblies are the downstream English-translation authorities.
 
-## Source-order closure
+## Source-order / fidelity closure
 
-The physical PDF remains non-linear. The publication reading sequence is frozen as:
+The frozen publication reading sequence is:
 
 `1 → 2 → 9 → 10 → 5 → 6 → 13 → 14 → 15 → 16 → 7 → 8 → 11 → 12 → 3 → 4`
 
 All **16** physical scans are represented exactly once. Publisher matter and the advertisement remain outside the two Kalaignar article bodies.
 
-## Fidelity / lexical-rule closure
+The user-established lexical rule remains permanent: supplied words are the lexical baseline for surviving text; the scan controls structure/punctuation/boundaries/physical evidence; scan/baseline lexical disagreements are documented rather than silently substituted; text physically lost under torn-away paper is not reconstructed.
 
-The user-established lexical rule remains permanent for this publication:
-
-- supplied words are the lexical baseline for surviving text;
-- the scan controls punctuation, quotation marks, spacing, paragraphing, headings, reading order, boundaries and physical-copy evidence;
-- scan/baseline lexical disagreements are documented rather than silently substituted;
-- directly visible supplied omissions may be restored with provenance;
-- text physically lost under torn-away paper is not reconstructed.
-
-P5 retained documented lexical-witness conflicts on scans **3, 4, 5 and 16** and preserved damaged scan-3 `அயம்` without unsupported correction. P5 also preserved the earlier scan-16 source recovery `மொழி.` and added the directly visible scan-15 recovery `கிரேக்க மொழி` from supplied `கிரேக்க மொ`.
-
-Detailed P5 provenance: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
-
-## Physical source loss
-
-The surviving copy is materially damaged. Large tears intersect printed text, especially on scans **3–4, 7–8, 11–16**. This irreversible loss is fully documented and does not block archival closure because missing wording has not been invented.
+P5 retained documented lexical-witness conflicts on scans **3, 4, 5 and 16**, preserved damaged scan-3 `அயம்`, retained scan-16 source recovery `மொழி.`, and restored directly visible scan-15 `கிரேக்க மொழி`.
 
 - hidden torn text reconstructed: **0**;
 - silent lexical substitutions: **0**;
-- unresolved workflow blockers: **0**.
-
-## Tamil completion result
+- unresolved Tamil workflow blockers: **0**.
 
 **TAMIL ARCHIVAL / STRICT-FIDELITY STATUS: COMPLETE / FROZEN.**
 
-The publication is source-complete for the surviving supplied copy, with irreversible physical-source-loss gaps and the documented user-baseline lexical exceptions preserved as part of the archival record.
+## English translation status
 
-## English translation setup — E0 COMPLETE / PASS
+- E0 translation planning/setup: **COMPLETE / PASS**
+- T0 source prerequisite: **2 / 2 PASS**
+- T1 close drafts: **1 / 2**
+- T2 fidelity-reviewed: **1 / 2**
+- T3 voice-reviewed: **1 / 2**
+- T4 audited: **1 / 2**
+- T5 verified: **1 / 2**
+- E6 publication-wide consistency review: **NOT STARTED**
+- E7 release closeout: **NOT STARTED**
+- English article bodies: **1 / 2**
+- unresolved translation blockers: **0**
 
-E0 created the publication English translation workspace and registered both frozen Tamil authorities as T0 sources.
+## Article 1 English verification — COMPLETE / PASS
 
-- `TRANSLATION_PLAN.md`: **created**;
-- `translations/en/README.md`: **created**;
-- `translations/en/LEXICON.md`: **created**;
-- `translations/en/TRANSLATION_REVIEW.md`: **created**;
-- Article 1 T0: **PASS** — Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`;
-- Article 2 T0: **PASS** — Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`;
-- T0 overall: **2 / 2 PASS**;
-- English article bodies created: **0 / 2**;
-- T1 drafts: **0 / 2**;
-- English titles frozen: **0 / 2**;
-- E0 Tamil body changes: **0**;
-- unresolved translation blockers: **0**.
+Article 1 `திராவிட சம்பத்து` has completed T0–T5.
 
-English must translate from the two strict-reviewed Tamil blobs above, not OCR, the pre-P5 user transcription, alternate scan-appearing lexical readings, remembered wording or later editions.
+- English title: **Dravidian Wealth — VERIFIED**
+- frozen Tamil authority: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
+- T1 baseline English blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
+- T2 fidelity-reviewed blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`
+- T3 voice-reviewed blob: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
+- T4 terminology/source-audited blob: `961ca3f724238ed699dba2607fa2d1be681f0ec4`
+- T5 final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
+- metadata status: `verified`
 
-The translation workspace also carries forward the non-reconstruction rule for torn source gaps, the scan-3 damaged `அயம்`, and the P5 lexical-witness exceptions without silently correcting the frozen Tamil source.
+T5 verification result:
+
+- complete surviving article coverage: **PASS**;
+- source-page comments: **6 / 6 PASS**;
+- quotation boundaries: **PASS**;
+- scan-15 damage boundaries: **2 / 2 PASS**;
+- scan-16 damage boundaries: **2 / 2 PASS**;
+- T4-established terminology/source-bearing forms: **PASS**;
+- source `மித் (Myth)` → `mit (Myth)`: **PASS**;
+- frozen anomalous `பேச்சுல` → `pechchul`: **PASS / source-bearing / unrepaired**;
+- hidden torn wording reconstructed: **0**;
+- frozen Tamil changes during T5: **0**;
+- publisher/front/back matter imported: **0**;
+- T5 English body corrections: **0**;
+- unresolved T5 blockers: **0**.
+
+**ARTICLE 1 ENGLISH TRANSLATION: VERIFIED.**
+
+Article 2 remains at T0 PASS only.
 
 ## Exact next activity
 
-Execute **Article 1 T1 — complete close English draft for `திராவிட சம்பத்து` only** from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
+Execute **Article 2 T1 — complete close English draft for `ஐயர் அறிவிக்கிறார்!` only** from frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
-Create `translations/en/01-thiraavida-sampaththu.md`, translate every surviving Tamil paragraph in order, preserve source-page comments for scans **5, 6, 13, 14, 15, 16**, preserve all explicit `SOURCE DAMAGE` gaps without reconstruction, and synchronize the tracker, lexicon, translation-review ledger and root handover.
+Create `translations/en/02-aiyar-arivikkirar.md`, translate every surviving Tamil paragraph in source order, preserve source-page comments for scans **12 and 3**, preserve frozen damaged/ambiguous `அயம்` without guessed repair, preserve `ஐயர்` / `அய்யர்` source-form distinctions, and keep quotation/inscription terminology source-sensitive.
 
-Stop after T1. Do **not** perform T2 in the same activity. **Do not reopen the frozen Tamil bodies for stylistic polishing or lexical conventionalisation.**
+Stop after Article 2 T1. **Do not perform Article 2 T2 in the same activity.**
