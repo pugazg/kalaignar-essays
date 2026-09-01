@@ -193,14 +193,15 @@ Final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`.
 - T2 bilingual fidelity review: **COMPLETE / PASS**
 - T3 Kalaignar voice review: **COMPLETE / PASS**
 - T4 terminology / quotation / citation / source audit: **COMPLETE / PASS**
-- T5 verification: **NOT STARTED**
-- English title: **Iyer Announces!** — **T4 AUDITED / final verification pending T5**
+- T5 verification: **COMPLETE / PASS**
+- English title: **Iyer Announces!** — **VERIFIED**
 - source Tamil blob: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
 - T1 English draft blob entering T2: `1b70952ae377668162fcb35eb045e142a0597190`
 - T2 fidelity-reviewed English blob entering T3: `b7361d26a711d61938da24d33b3512ddf5653e53`
 - T3 voice-reviewed English blob entering T4: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
 - T4 source-audited English blob entering T5: `9b2795e6c66dea08fdf46fcf7903550001e1a401`
-- English metadata status: `voice-reviewed`
+- final T5 verified English blob: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
+- English metadata status: `verified`
 
 ### Article 2 T1 close-draft scope
 
@@ -338,6 +339,31 @@ T4 source-audited English blob entering T5: `9b2795e6c66dea08fdf46fcf7903550001e
 
 **ARTICLE 2 T4 TERMINOLOGY / QUOTATION / CITATION / SOURCE AUDIT: PASS.**
 
+### Article 2 T5 final verification
+
+T5 re-fetched and verified frozen Tamil authority `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` against T4 English authority `9b2795e6c66dea08fdf46fcf7903550001e1a401` and re-confirmed the complete T1→T2→T3→T4 provenance chain.
+
+T5 verified:
+
+- complete surviving Article 2 coverage and source/paragraph order: **PASS**;
+- title **Iyer Announces!**: **PASS / VERIFIED**;
+- English metadata source path/blob/scan range: **PASS**;
+- source-page comments for scans **12** and **3**: **2 / 2 PASS**;
+- T4-documented first-paragraph two-unit quotation treatment: **PASS / documented source anomaly preserved**;
+- `Iyer` / `Ayyar`, `Dravidam`, `Enothano` / `Enothanos`, `ayam`, `College` / `kalluri`, `Saminathayyar` / `Saminatha Ayyar`: **PASS**;
+- final inscription **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**: **PASS**;
+- external inscription wording imported: **0**;
+- frozen Tamil changes during T5: **0**;
+- publisher/front/back matter imported: **0**;
+- T5 English body corrections: **0**;
+- unresolved T5 blockers: **0**.
+
+T5 changed only English metadata/status from `voice-reviewed` to `verified` and recorded the final verification method; the article body remains byte-for-byte the T4-audited body.
+
+Final verified English blob: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`.
+
+**ARTICLE 2 T5 FINAL VERIFICATION: PASS / VERIFIED.**
+
 ## Current English gate counts
 
 - E0: **COMPLETE / PASS**
@@ -346,15 +372,15 @@ T4 source-audited English blob entering T5: `9b2795e6c66dea08fdf46fcf7903550001e
 - T2: **2 / 2 COMPLETE**
 - T3: **2 / 2 COMPLETE**
 - T4: **2 / 2 COMPLETE**
-- T5: **1 / 2 COMPLETE**
+- T5: **2 / 2 COMPLETE**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - translation blockers: **0**
 
 ## Exact next activity
 
-Execute **Article 2 T5 — final article verification** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T4 source-audited English blob `9b2795e6c66dea08fdf46fcf7903550001e1a401`.
+Execute **E6 — publication-wide English consistency review** across both verified articles.
 
-Re-verify complete surviving coverage, title **Iyer Announces!**, all T4-established terminology/source-bearing forms, the documented first-paragraph quotation treatment, final inscription wording, metadata and both source-page comments. If PASS, change `translation_status` to `verified` and record the final verified English blob.
+Re-check the two verified English articles together for recurring `Dravidam` / Dravidian terminology, source-bearing name distinctions, title style, quotation treatment, source-page comments, source-anomaly preservation, rhetorical consistency and accidental cross-article harmonisation. Do not alter a verified article merely for stylistic preference; change only a genuine publication-level consistency or source/release defect and document any reopened gate explicitly.
 
-**Stop after Article 2 T5. Do not perform E6 in the same activity.**
+**Stop after E6. Do not perform E7 in the same activity.**
