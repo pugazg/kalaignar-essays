@@ -86,7 +86,7 @@ Permanent guide: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TR
 - English title: **Not Here! In Russia**
 - T1 draft: `af5d3bf7ae6377b8872076e3562f958299481259`
 - T2 fidelity-reviewed: `82a58cabb1c973fb7781f80e8ec53dac14fb2720`
-- T3 voice-reviewed / T4-audited candidate: `eab4800f78cb55e0a8db621965d93b82b383648`
+- T3 voice-reviewed / T4-audited candidate: `eab4800f78cbf2900a5dca4225b7679d53001acf`
 - final T5-verified English: **`c689ff90f08d389a5e7ebc4849c30d58dfe81766`**
 - T2 corrections: **2**
 - T3 interventions: **8**
