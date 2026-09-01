@@ -41,7 +41,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 | 3 | போகிறான்;போகிறான்..! | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 4 | இராவணன் நம் பாட்டன் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 6 | 3, 57, 90. | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
+| 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 7 | 30-1-1948 | `not-started` | PASS | — | — | — | — | — |
 | 8 | பத்தினியே உன்போல்...! | `not-started` | PASS | — | — | — | — | — |
 | 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — |
@@ -54,54 +54,38 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 - Article 3 final English: `1134185bc21478775419adb3560b110c001d2b75`
 - Article 4 final English: `03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`
 - Article 5 final English: `c689ff90f08d389a5e7ebc4849c30d58dfe81766`
+- Article 6 final English: `cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`
 
-## Article 5 — T0–T5 COMPLETE / VERIFIED
+## Article 6 — T0–T5 COMPLETE / VERIFIED
 
-- Tamil title: `இங்கல்ல! இரஷ்யாவில்`
-- English title: **Not Here! In Russia**
-- frozen Tamil authority: `c8ac4d7c241832e07bbb24c5cee935588673f4ac`
-- source scans: **30–32**
-- printed pages: **30–31; scan 30 has no visible printed numeral**
-- final T5-verified English: **`c689ff90f08d389a5e7ebc4849c30d58dfe81766`**
-- unresolved blockers: **0**
-
-## Article 6 — T1–T4 COMPLETE / VOICE-REVIEWED
-
-- Tamil / English title: **3, 57, 90.**
 - frozen Tamil authority: `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8`
 - source scans: **33–38**
 - printed pages: **33–37; scan 33 has no visible printed numeral**
-- T1 draft blob: `03b33ab1aaa042266eb34163e688e415baa47be9`
-- T2 fidelity-reviewed blob: `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`
-- T3 voice-reviewed / T4-audited candidate: **`1332512bbffdd618078813444c2cf24ebcea07ff`**
-- T2 fidelity corrections: **5**
-- T3 meaning-neutral voice/cadence interventions: **10**
-- T4 body corrections: **0**
-- all six scan comments and corrected physical continuations: **T4 PASS**
-- corrected scan-33/34 physical boundary: **T4 PASS / preserved**
-- seven opening quoted attacks, scan-34 hostile quotations, communal-representation quotation, and scan-35→36 college quotation: **T4 PASS**
-- source title `Mail`, date `29-5-48`, and all numbers/percentages `150`, `90`, `3`, `57`, `100`, `60`, `38`, `2`, `97`, final `3, 57, 90.`: **T4 PASS**
-- quoted `inner voice`: **T4 PASS / source quotation scope retained**
-- `Brahmin` vs `Parppanar`: **T4 PASS / source distinction retained**
-- earlier `Oriental College` vs final `Oriyantal College`: **T4 PASS / source-witness distinction retained**
-- frozen `எழுதினான்`, `சம்மாதிக்காத`, `பிரிதிநிதித்துவத்தை`, `இழத்துக்`, `பிர பிரஹலாதர்களாக`, `வேண்டியுளது`, `ஒரியண்டல்`: **T4 PASS / no scan-alternate or outside repair**
-- source-bearing `kabothi`, `sodha`, `othiya`, `mathith thalaivar`, `Parppanar`, `Vediyars`, `Dravidian Vibhishanas`, `pira Prahaladas`: **T4 PASS**
-- external citation required by frozen Article 6 body: **No**
-- outside/web historical wording imported: **No**
-- unresolved T4 blockers: **0**
+- T1 draft: `03b33ab1aaa042266eb34163e688e415baa47be9`
+- T2 fidelity-reviewed: `9c873f6cb4cd51f441b34cd2834d1b216e94bcf8`
+- T3 voice-reviewed / T4-audited: `1332512bbffdd618078813444c2cf24ebcea07ff`
+- final T5-verified English: **`cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`**
+- T2 corrections: **5**; T3 interventions: **10**; T4 body corrections: **0**; T5 body corrections: **0**
+- six scan comments and corrected scan-33/34 boundary: **T5 PASS**
+- all quotation scopes and cross-page continuations: **T5 PASS**
+- `Mail`, `29-5-48`, all numbers/percentages and final `3, 57, 90.`: **T5 PASS**
+- `Brahmin` vs `Parppanar`; `Oriental College` vs final `Oriyantal College`: **T5 PASS / source distinctions retained**
+- frozen `எழுதினான்`, `சம்மாதிக்காத`, `பிரிதிநிதித்துவத்தை`, `இழத்துக்`, `பிர பிரஹலாதர்களாக`, `வேண்டியுளது`, `ஒரியண்டல்`: **T5 PASS / no repair**
+- source-bearing `kabothi`, `sodha`, `othiya`, `mathith thalaivar`, `Vediyars`, `Dravidian Vibhishanas`, `pira Prahaladas`: **T5 VERIFIED**
+- outside/web historical wording or alternate-scan repair imported: **No**
+- blockers: **0**
 
 ## Publication-specific cautions
 
 1. Translate only from frozen Tamil assemblies.
-2. Preserve the documented P5 scan/Gemini lexical conflicts as upstream provenance; do not silently translate from alternate scan readings.
+2. Preserve documented P5 scan/Gemini lexical conflicts; never silently substitute alternate scan wording.
 3. Article 4 scan 19 and Article 8 scan 42 contain frozen source-recovered text.
 4. Article 8 scan 43 `* * *` and Article 10 verse lineation are structural source authority.
 5. Article 10 excludes scan-49 publication-close matter and scan-50 advertisement.
-6. Do not silently repair source-sensitive forms such as Article 10 `ப்ழச்சளை`.
+6. Do not silently repair Article 10 `ப்ழச்சளை`.
 7. Preserve questions, exclamations, repetition, direct address and page-boundary comments.
-8. Article 6 must preserve the corrected physical scan-33/34 boundary and frozen Gemini lexical decisions through T5.
-9. Article 6 source-bearing choices such as `kabothi`, `sodha`, `othiya`, `mathith thalaivar`, `Parppanar`, `Vediyars`, `pira Prahaladas` and `Oriyantal College` are T4-audited but remain pending T5 final verification.
+8. Article 7 ends on scan 41 at frozen `வரலாற்றை வீணாக்கிய`; do not extend or reconstruct it from outside material.
 
 ## Exact next activity
 
-Execute **Article 6 T5 — final article verification** for `3, 57, 90.` against frozen Tamil blob `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8` and T4-audited English candidate `1332512bbffdd618078813444c2cf24ebcea07ff`, scans **33–38**. Reconfirm metadata/source authority, all six scan comments and cross-page witnesses, every quotation scope, Article 6 terminology/proper names/source-bearing forms, `Mail`, `29-5-48`, every number/percentage, `Brahmin` vs `Parppanar`, `Oriental College` vs `Oriyantal College`, and all frozen lexical witnesses. If the final pass succeeds, advance Article 6 to `verified`, synchronize records, and **do not begin Article 7 in the same activity**.
+Execute **Article 7 T1 — complete close English draft** for `30-1-1948` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`, scans **39–41**, printed pages **39–40; scan 39 has no visible printed numeral**. Translate the complete frozen assembly paragraph by paragraph and clause by clause; preserve scan comments/page boundaries, quotation scope, rhetorical questions/exclamations, repetitions, polemical labels, dates, source-bearing forms and the frozen scan-41 ending. Do not import alternate scan lexical/order readings, outside historical wording or published translations. Establish provisional Article 7 terminology in the lexicon, advance only to `draft` if T1 passes, synchronize records, and **stop before Article 7 T2**.
