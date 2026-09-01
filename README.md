@@ -151,7 +151,7 @@ Translation/release workspace:
 
 These Tamil and English authorities remain frozen unless a genuine source-supported or release-blocking defect explicitly reopens the affected gate.
 
-## Publication 4 — திராவிட சம்பத்து — ACTIVE / P4 PASS
+## Publication 4 — திராவிட சம்பத்து — ACTIVE / T0 PASS
 
 Workspace: [`publications/thiraavida-sampaththu/`](publications/thiraavida-sampaththu/)
 
@@ -169,46 +169,50 @@ Workspace: [`publications/thiraavida-sampaththu/`](publications/thiraavida-sampa
 
 The user supplied a transcription that captured the surviving wording and established it as the lexical baseline. **Retain those words.** The scan controls structure, punctuation, spacing, paragraphing, headings, reading order, page/article boundaries and physical-copy evidence. Text physically lost under torn-away paper must not be reconstructed from context.
 
-### Critical reading-order finding
-
-The PDF physical order is not the publication reading order. Direct continuations and publisher cues establish:
-
-`1 → 2 → 9 → 10 → 5 → 6 → 13 → 14 → 15 → 16 → 7 → 8 → 11 → 12 → 3 → 4`
-
-The publication contains:
-
-1. publisher foreword `மன்றத்தில்` — scans 9–10;
-2. Article 1 `திராவிட சம்பத்து` — scans 5–6, 13–16;
-3. publisher note `முக்கிய குறிப்பு` — scans 7–8, 11;
-4. Article 2 `ஐயர் அறிவிக்கிறார்!` — scans 12, 3;
-5. promotional advertisements — scan 4.
-
-### Current Tamil status
+### Frozen Tamil source status
 
 - P0 source intake: **COMPLETE**
 - P1 metadata / page map / reading-order reconstruction: **COMPLETE**
 - P2 page-level transcription / structural review: **16 / 16 COMPLETE**
 - P3 article assemblies: **COMPLETE — 2 / 2**
 - P4 source/completeness audit: **PASS**
-- P5 strict visual word/punctuation fidelity: **NOT STARTED**
-- English translation: **NOT STARTED**
+- P5 strict visual word/punctuation fidelity: **16 / 16 PASS**
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
+- unresolved Tamil workflow blockers: **0**
 
-P4 confirmed all 16 scans are represented exactly once in reconstructed reading order; the two article assemblies match their verified page spans; `மன்றத்தில்`, `முக்கிய குறிப்பு` and scan-4 advertisements remain outside article bodies; no hidden torn text was reconstructed; and no surviving user-baseline lexical token was silently replaced.
+Frozen Tamil translation authorities:
 
-All torn text remains explicitly documented as source damage rather than guessed. A clearly visible scan-16 `மொழி.` omitted from the supplied transcription remains a documented source-visible recovery. The provisional scan-4 lexical-witness conflict around the supplied advertisement-title reading `ரூசோ` remains logged without changing the user-supplied word.
+1. `திராவிட சம்பத்து` — scans **5–6, 13–16** — `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
+2. `ஐயர் அறிவிக்கிறார்!` — scans **12, 3** — `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
-Detailed records:
+P5 directly rechecked all **16 / 16** scans. Documented lexical conflicts remain frozen rather than silently corrected: scan 3 `கல்லுரி`, scan 4 `ரூசோ`, scan 5 `கண்னை`, scan 16 `பேச்சுல`; damaged scan-3 `அயம்` remains unrepaired. Source-visible recoveries `மொழி.` and `கிரேக்க மொழி` are included in the frozen authorities. Torn-away text remains unreconstructed.
 
-- [`README.md`](publications/thiraavida-sampaththu/README.md)
-- [`metadata/source.md`](publications/thiraavida-sampaththu/metadata/source.md)
-- [`indexes/page-map.md`](publications/thiraavida-sampaththu/indexes/page-map.md)
-- [`indexes/contents.md`](publications/thiraavida-sampaththu/indexes/contents.md)
-- [`articles/`](publications/thiraavida-sampaththu/articles/)
-- [`audit.md`](publications/thiraavida-sampaththu/audit.md)
-- [`pages/`](publications/thiraavida-sampaththu/pages/)
+### English translation status
+
+- E0 translation planning/setup: **COMPLETE / PASS**
+- T0 source prerequisite: **2 / 2 PASS**
+- T1 drafts: **0 / 2**
+- T2 fidelity-reviewed: **0 / 2**
+- T3 voice-reviewed: **0 / 2**
+- T4 audited: **0 / 2**
+- T5 verified: **0 / 2**
+- English article bodies: **0 / 2**
+- translation blockers: **0**
+
+Translation workspace:
+
+- [`TRANSLATION_PLAN.md`](publications/thiraavida-sampaththu/TRANSLATION_PLAN.md)
+- [`translations/en/README.md`](publications/thiraavida-sampaththu/translations/en/README.md)
+- [`translations/en/LEXICON.md`](publications/thiraavida-sampaththu/translations/en/LEXICON.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](publications/thiraavida-sampaththu/translations/en/TRANSLATION_REVIEW.md)
+
+Detailed Tamil closeout:
+
+- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/thiraavida-sampaththu/VISUAL_TEXT_FIDELITY_REVIEW.md)
+- [`PUBLICATION_COMPLETION_REVIEW.md`](publications/thiraavida-sampaththu/PUBLICATION_COMPLETION_REVIEW.md)
 
 ## Current project state / exact next activity
 
-Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` is active with **P0–P4 complete / P4 PASS**.
+Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` has a frozen Tamil layer, E0 translation setup is complete, and T0 is **2 / 2 PASS**.
 
-**Exact next activity:** execute **P5 — strict visual text-fidelity review across all 16 physical scans**, record every permitted structural/punctuation/spacing/layout correction and every scan/transcription lexical conflict, preserve torn-away gaps without reconstruction, propagate corrections to dependent records, and create the fidelity/completion records if P5 passes. Do not begin English translation in the same activity.
+**Exact next activity:** execute **Article 1 T1 — complete close English draft for `திராவிட சம்பத்து` only** from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`. Preserve source-page comments for scans **5, 6, 13, 14, 15, 16**, preserve all `SOURCE DAMAGE` gaps without reconstruction, update the living lexicon/review ledger, and stop after T1. Do not perform T2 in the same activity.
