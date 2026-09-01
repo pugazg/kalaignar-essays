@@ -8,8 +8,8 @@ source_tamil_blob_sha: "4dd0bbc03f278c9bfc02b189b285a1891aa44d2d"
 source_scan_pages: "45-47"
 source_printed_pages: "45-46; scan 45 has no visible printed numeral"
 language: "en"
-translation_status: "draft"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted against the frozen Tamil assembly"
+translation_status: "fidelity-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted and T2 bilingual fidelity-reviewed against the frozen Tamil assembly"
 ---
 
 # Mother Nagammaiyar!
@@ -18,7 +18,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice; 
 
 The period when Periyar Ramasami was the young Ramasami is a part that gives flavour to historians.
 
-The title he received in public life was Periyar. In youth—in a life of self-interest—the crowns called ‘minor-kaali’ had been placed on Ramasami. In his nineteenth year, Nagammaiyar came to join him as his life-companion. Before the changes of adolescence bound them, those tender hearts had already mingled and frolicked together in the age of play.
+The title he received in his life of public service was Periyar. In youth—in a life of self-interest—the crowns called ‘minor-kaali’ had been placed on Ramasami. In his nineteenth year, Nagammaiyar came to join him as his life-companion. Before the changes of adolescence bound them, those tender hearts had already mingled and frolicked together in the age of play.
 
 “I will marry only you; I will not marry anyone else.” That love-note brimming with resolve vibrated and sounded at the same time from those young veenas. Ramasami was 19! It was a time when youth danced upon his physique! Young Ramasami earned such a name as a “good boy” that his parents decided, ‘A log must quickly be tied to the young fellow.’
 
@@ -36,6 +36,6 @@ It was a time when people thought marriage had to take place only according to t
 
 Their marriage became a symbol of victory.
 
-Their happy life, one flood merged with another flood, lasted thirty-five years. Until 1933! In the Ramasami-Nagamma family life there were events that stirred thought—many pranks that stirred rationalism—many! many! incidents for women's uplift! Even when the young Ramasami became the aged Ramasami Periyar, the love he bore Ammaiyar did not dry up. It surged on as an unfailing river of life.
+Their happy life, one flood merged with another flood, lasted thirty-five years. Until 1933! In the Ramasami-Nagamma family life there were events that stirred thought—many pranks that stirred rationalism—incidents for women's uplift, many! many! Even when the young Ramasami became the aged Ramasami Periyar, the love he bore Ammaiyar did not dry up. It surged on as a never-drying river of life.
 
 If anyone looked at old Ramasami and said, “An elder; an aged man; an old man;” he would at once point to Nagammaiyar and say, “Do not call me that; that lady will get angry.” You should have seen Nagamma's joy then! With affection gliding in her eyes, Ammaiyar would assent to Periyar's words! Yes! In their hearts they were young lovers indeed! Periyar lost Nagammaiyar, who had stood as his inseparable companion in domestic life and public life, on 11-5-1933. But he did not collapse in grief and lie down. On the very next day, 12-5-1933, Periyar conducted a Christian marriage in Trichy in violation of Section 144 and was arrested. Duty that surpassed even love wove a new literature into Periyar's very life.
