@@ -4,7 +4,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Status
 
-**Articles 1–8 T5 VERIFIED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
+**Articles 1–8 T5 VERIFIED; Article 9 T1–T2 COMPLETE / FIDELITY-REVIEWED.** Publication-wide consistency/release freezing remains deferred until all ten articles pass T5.
 
 > **Translate the language; do not neutralise the voice.**
 
@@ -388,14 +388,52 @@ T4 made **0 body corrections**. It audited the complete T3 candidate against the
 
 T5 made **0 body corrections**. It final-verified the complete T1–T4 chain against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f` and T4 candidate `2c5101765a57a01dce05e82d006a45d00f967d90`. Metadata/source fields, complete paragraph/clause coverage, all source-page comments, dialogue/quotation scopes, scan-42 `No answer.`, scan-43 `* * *`, embedded `“I have granted the boon,”`, command `Read it!`, the continuous scan-43→44 literary quotation, scan-44 insult quotation, `1937` / page `43`, all source-label/terminology choices, source-sensitive `anugraham`, `azhgaaga`, `pan murai`, `becoming one form`, source-quoted `Paaraa Mugam Unnaiye`, the title refrain, repeated erotic language and polemical force all passed. No alternate scan wording, outside epic/history identification, web wording or published translation was introduced. Article 8 is `verified`; final English blob `6b12e6b3cc09b6de402998bb3824e7a98808f885`.
 
+## Article 9 — T1–T2 fidelity-reviewed decisions
+
+Frozen Tamil authority: `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`  
+T1 draft English blob: `1d3ac3f7ef2fff5e79b23434f907b467ae1266f6`  
+T2 fidelity-reviewed English blob: **`4336ef783678c165656ab843158e9c29d4695ed5`**
+
+| Tamil / source form | English decision | Status / caution |
+|---|---|---|
+| `அன்னை நாகம்மையார்!` | `Mother Nagammaiyar!` | T2 FIDELITY-REVIEWED |
+| `பெரியார்` | `Periyar` | SOURCE-TITLE / T2 FIDELITY-REVIEWED; no outside expansion |
+| `ராமசாமி` | `Ramasami` | SOURCE-NAME / T2 FIDELITY-REVIEWED; do not conventionalise from outside knowledge |
+| `நாகம்மையார் / நாகம்மா` | `Nagammaiyar / Nagamma` | SOURCE-LABEL VARIATION / T2 FIDELITY-REVIEWED |
+| `ராமசாமியார்` | `Ramasamiyar` | SOURCE-HONORIFIC FORM / T2 FIDELITY-REVIEWED |
+| `அம்மையார்` | `Ammaiyar` | SOURCE-HONORIFIC / T2 FIDELITY-REVIEWED |
+| `பொதுநலவாழ்வில் / சுயநல வாழ்வில்` | `in his life of public service / in a life of self-interest` | T2 CORRECTED; source contrast restored |
+| `மைனர்-காலி` | `minor-kaali` | SOURCE-SENSITIVE / T2 FIDELITY-REVIEWED; no outside identification |
+| `கொழுந்து உள்ளங்கள்` | `tender hearts` | IMAGE / T2 FIDELITY-REVIEWED |
+| `இளம் வீணைகள்` | `young veenas` | IMAGE / SOURCE-BEARING / T2 FIDELITY-REVIEWED |
+| `கட்டை` in quoted parental jab | `log` in `A log must quickly be tied to the young fellow.` | SOURCE-IMAGE / T2 FIDELITY-REVIEWED; do not replace with outside explanation |
+| `புது மலர்` | `fresh flower` | IMAGE / T2 FIDELITY-REVIEWED |
+| `நெருப்பு மொழிகள்` | `words of fire` | IMAGE / T2 FIDELITY-REVIEWED |
+| `லாயத்திலே...கனைத்திட உத்தரவுண்டு` | `Even a horse shoved into a stable and shut in has leave to neigh.` | SOURCE-QUOTED / T2 FIDELITY-REVIEWED; no published version imported |
+| `குடும்ப விளக்கு` | `lamp of my family` | SOURCE-IMAGE / T2 FIDELITY-REVIEWED |
+| `மந்தை மாடுகள்` | `herd cattle` | POLEMICAL IMAGE / T2 FIDELITY-REVIEWED |
+| `காதல்புரட்சி` | `love-revolution` | SOURCE-COMPOUND / T2 FIDELITY-REVIEWED |
+| `வெள்ளத்தினோடொரு வெள்ளமாய்க் கலந்து` | `one flood merged with another flood` | IMAGE / T2 FIDELITY-REVIEWED |
+| `பெண் உயர்வுக்கான சம்பவங்கள் பல! பல!` | `incidents for women's uplift, many! many!` | T2 CORRECTED; repetition placement restored |
+| `வற்றாத உயிராறு` | `never-drying river of life` | IMAGE / T2 CORRECTED; dry-up/water continuity preserved |
+| `காதலையும் மீறிய கடமை` | `Duty that surpassed even love` | T2 FIDELITY-REVIEWED |
+| `144 செக்ஷன்` | `Section 144` | SOURCE-WITNESS / T2 FIDELITY-REVIEWED |
+
+### Article 9 T1 result
+
+T1 translated the complete frozen Article 9 assembly across scans 45–47. It preserved the three source-page comments, source labels, youthful vow, quoted `log` image, Nagamma's marriage-or-death declaration, the horse/stable revolutionary quotation, Ramasami's family-lamp declaration, all ages/dates/numbers, affectionate/polemical imagery and the final duty-surpassing-love sentence. No outside biographical wording, conventionalised source names or published translation was imported. T1 blockers: **0**.
+
+### Article 9 T2 result
+
+T2 made **3 fidelity corrections**: restored `பொதுநலவாழ்வில்` as `life of public service` to retain the explicit public-service/self-interest contrast; restored the source placement of `பல! பல!` after the women's-uplift incidents; and changed `unfailing river of life` to **`never-drying river of life`** so the `வரண்டு` / `வற்றாத` water image remains continuous. All source labels, quotations, ages/dates/numbers, source-page comments, `minor-kaali`, quoted `log` image, horse/stable quotation, family-lamp declaration, affectionate/polemical imagery and final duty-surpassing-love sentence passed. No outside/web biographical wording, alternate source forms or published translation was imported. T2 blockers: **0**.
+
 ## Decisions still to establish in later articles
 
 | Tamil / source form | Status / caution |
 |---|---|
 | `ஆரியர்` | TO ESTABLISH by frozen context; do not mechanically derive from Article 6 `ஆரியம்` |
-| `பெரியார்` | TO ESTABLISH in Article 9 from the author-chosen witness and immediate sentence context |
 | `ப்ழச்சளை` | SOURCE-SENSITIVE / TO ESTABLISH; never guess a corrected Tamil form |
 
 ## Next lexicon activity
 
-During **Article 9 T1**, establish provisional English decisions from frozen Tamil blob `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`, scans **45–47**. Recheck and record especially `பெரியார்`, `ராமசாமி`, `நாகம்மையார்` / `நாகம்மா`, source age/date witnesses, the quoted marriage vows and the article's affectionate/polemical labels. Do not import outside biographical wording or silently conventionalise source forms.
+During **Article 9 T3**, preserve all T2 terminology/source-label decisions while reviewing only voice and cadence. Keep `Periyar`, `Ramasami`, `Nagammaiyar / Nagamma`, `Ramasamiyar`, `Ammaiyar`, `minor-kaali`, the quoted `log` image, horse/stable quotation, family-lamp image, all ages/dates/numbers and the T2-restored public-service/self-interest, `many! many!`, and never-drying-life-river decisions unchanged in meaning. Stop before T4.
