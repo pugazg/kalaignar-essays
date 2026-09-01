@@ -50,7 +50,7 @@ Article 1 working English title: **Dravidian Wealth**. The title is not frozen a
 
 T1 created a complete close English draft from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
 
-T1 draft blob: `06958bc15d198de42eb63f5a2cb33b64453134cc`.
+T1 draft blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`.
 
 The draft preserves:
 
@@ -114,7 +114,7 @@ After both articles reach T5:
 
 ## Exact next activity
 
-Execute **Article 1 T2 — bilingual fidelity review** from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` against T1 draft blob `06958bc15d198de42eb63f5a2cb33b64453134cc`.
+Execute **Article 1 T2 — bilingual fidelity review** from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` against T1 draft blob `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`.
 
 Compare every paragraph and clause for omissions, additions, logic, negatives, comparisons, names, quotations, repetitions, page-boundary comments and source-damage handling. Make only fidelity-required English corrections, record them in `translations/en/TRANSLATION_REVIEW.md`, update `translations/en/LEXICON.md` where necessary, and stop after T2.
 
