@@ -78,7 +78,6 @@ Hidden/lost text under absent paper is never supplied from sentence meaning.
 - P4 source/completeness audit: **PASS**
 - P5 strict visual word/punctuation fidelity: **16 / 16 PASS**
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- English translation: **NOT STARTED**
 
 Final strict-reviewed Tamil assemblies:
 
@@ -113,6 +112,22 @@ Detailed records:
 - [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md)
 - [`../PUBLICATION_COMPLETION_REVIEW.md`](../PUBLICATION_COMPLETION_REVIEW.md)
 
+## English translation authority / E0 status
+
+- E0 translation planning/setup: **COMPLETE / PASS**
+- T0 source prerequisite: **2 / 2 PASS**
+- English article bodies: **0 / 2**
+- translation blockers: **0**
+
+E0 records:
+
+- [`../TRANSLATION_PLAN.md`](../TRANSLATION_PLAN.md)
+- [`../translations/en/README.md`](../translations/en/README.md)
+- [`../translations/en/LEXICON.md`](../translations/en/LEXICON.md)
+- [`../translations/en/TRANSLATION_REVIEW.md`](../translations/en/TRANSLATION_REVIEW.md)
+
+The English layer must translate the two frozen Tamil blobs above. It must not use OCR, the pre-P5 user transcription, alternate scan-appearing lexical readings or remembered wording as replacement authority.
+
 ## Exact next gate
 
-Execute **E0 — English translation planning/setup** from the two frozen strict-reviewed Tamil blobs. Create the publication translation plan, English tracker, living lexicon and translation-review ledger. Do not reopen frozen Tamil bodies for stylistic polishing or lexical conventionalisation.
+Execute **Article 1 T1 — complete close English draft for `திராவிட சம்பத்து`** from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`. Preserve all source-page trace comments and the scan-15/16 source-damage gaps; do not reconstruct missing text. Stop after T1 and do not perform T2 in the same activity.
