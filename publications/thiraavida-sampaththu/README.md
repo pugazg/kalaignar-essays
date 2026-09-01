@@ -95,7 +95,7 @@ Combined source audit: [`audit.md`](audit.md).
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **2 / 2 PASS**
 - T1 close drafts: **1 / 2**
-- T2 fidelity-reviewed: **0 / 2**
+- T2 fidelity-reviewed: **1 / 2**
 - T3 voice-reviewed: **0 / 2**
 - T4 audited: **0 / 2**
 - T5 verified: **0 / 2**
@@ -108,16 +108,21 @@ English workspace:
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
-- [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) — Article 1 T1 draft
+- [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) — Article 1 T2 fidelity-reviewed
 
-Article 1 working English title: **Dravidian Wealth**. It is not frozen yet. T1 draft blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`.
+Article 1 working English title: **Dravidian Wealth**. T2 found it semantically acceptable but it is not frozen yet.
 
-Article 1 T1 preserved source-page comments for scans **5, 6, 13, 14, 15, 16**, the source's rhetorical/polemical structure, and all scan-15/16 source-damage gaps without reconstructing hidden words. Frozen anomalous `பேச்சுல` remains represented provisionally as source-bearing `pechchul` pending T2/T4 review.
+- frozen Tamil authority: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
+- T1 baseline blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
+- T2 fidelity-reviewed English blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`
+- metadata status: `fidelity-reviewed`
+
+Article 1 T2 checked every surviving paragraph/clause, retained source-page comments for scans **5, 6, 13, 14, 15, 16**, preserved all four scan-15/16 source-damage boundaries, reconstructed **0** hidden words, and made **0** frozen-Tamil changes. Fidelity corrections and terminology decisions are recorded in `translations/en/TRANSLATION_REVIEW.md` and `translations/en/LEXICON.md`.
 
 ## Exact next activity
 
-Execute **Article 1 T2 — bilingual fidelity review** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T1 English blob `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`.
+Execute **Article 1 T3 — Kalaignar voice review** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T2 English blob `155299ac2b71b0aaba431f63d3c882191a3c710b`.
 
-Check every paragraph and clause for omissions, additions, logic, negatives, comparisons, names, quotations, repetitions, source-page comments and source-damage handling. Make only fidelity-required English corrections, record every correction in the review ledger, update the lexicon as necessary, and stop after T2.
+Review directness, sarcasm, ridicule, rhetorical questions, repetition, abrupt contrasts, insults and monkey/tail/poison imagery. Make only meaning-neutral voice/cadence corrections, preserve T2-secured meaning and every `SOURCE DAMAGE` boundary, document each intervention, and stop after T3.
 
-Do **not** perform T3 in the same activity, and do **not** reopen the frozen Tamil bodies for stylistic polishing, lexical conventionalisation or terminology homogenisation.
+Do **not** perform T4 in the same activity, and do **not** reopen the frozen Tamil bodies for stylistic polishing, lexical conventionalisation or terminology homogenisation.
