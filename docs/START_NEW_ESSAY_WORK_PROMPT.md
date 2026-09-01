@@ -1,5 +1,8 @@
 # Start a New Kalaignar Essay / Article Work — Reusable Prompt
 
+> **Use this file only for intake of a new supplied work/publication.**  
+> To continue the **current active repository work in another chat/window**, use [`NEXT_CHAT_PROMPT.md`](NEXT_CHAT_PROMPT.md). The continuation prompt is a convenience handoff; live `main` and root [`HANDOVER.md`](../HANDOVER.md) remain authoritative.
+
 Use the prompt below when opening a new chat/window for the next Kalaignar essay, article, pamphlet or multi-article publication.
 
 Replace only the bracketed placeholders. Attach the controlling PDF to the new conversation.
@@ -21,6 +24,10 @@ New supplied source PDF:
 Expected work/publication, if already known:
 
 `[EXPECTED TITLE OR "determine from scan"]`
+
+### LIVE MAIN IS AUTHORITATIVE
+
+Fetch live `main` first. Never assume a checkpoint copied into a prompt is still current. If `main` has advanced, preserve the newer durable state and continue from it; do not reset or overwrite later completed work.
 
 ### Mandatory startup
 
@@ -145,7 +152,7 @@ Do not mechanically import publication-specific editorial choices from earlier w
 
 The root `HANDOVER.md` is the **single authoritative live project handover**.
 
-Do not create competing handover files.
+Do not create competing handover files. `docs/NEXT_CHAT_PROMPT.md`, when present, is only a convenient fresh-window prompt and must defer to live `main` and `HANDOVER.md`.
 
 After every meaningful activity update `HANDOVER.md` with:
 
@@ -165,7 +172,7 @@ Use `docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md` as the structure when a new p
 
 Proceed with the largest safe coherent batch supported by the source and current project state; do not unnecessarily reduce every activity to a single page.
 
-When I later say **"Proceed with next activity"**, read the current root handover and execute the exact next activity recorded there without asking me to restate the project context.
+When I later say **"Proceed with next activity"**, read live `main` and the current root handover and execute the exact next activity recorded there without asking me to restate the project context.
 
 At the end of this startup activity, report:
 
