@@ -151,7 +151,7 @@ Translation/release workspace:
 
 These Tamil and English authorities remain frozen unless a genuine source-supported or release-blocking defect explicitly reopens the affected gate.
 
-## Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 2 T1 PASS
+## Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 2 T2 PASS
 
 Workspace: [`publications/thiraavida-sampaththu/`](publications/thiraavida-sampaththu/)
 
@@ -192,7 +192,7 @@ P5 documented and retained the publication's source-witness conflicts; all torn-
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **2 / 2 PASS**
 - T1 drafts: **2 / 2 PASS**
-- T2 fidelity-reviewed: **1 / 2 PASS**
+- T2 fidelity-reviewed: **2 / 2 PASS**
 - T3 voice-reviewed: **1 / 2 PASS**
 - T4 audited: **1 / 2 PASS**
 - T5 verified: **1 / 2 PASS**
@@ -206,23 +206,26 @@ Translation workspace:
 - [`translations/en/LEXICON.md`](publications/thiraavida-sampaththu/translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/thiraavida-sampaththu/translations/en/TRANSLATION_REVIEW.md)
 - [`translations/en/01-thiraavida-sampaththu.md`](publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md) — **Article 1 VERIFIED**
-- [`translations/en/02-aiyar-arivikkirar.md`](publications/thiraavida-sampaththu/translations/en/02-aiyar-arivikkirar.md) — **Article 2 T1 draft**
+- [`translations/en/02-aiyar-arivikkirar.md`](publications/thiraavida-sampaththu/translations/en/02-aiyar-arivikkirar.md) — **Article 2 T2 fidelity-reviewed**
 
 Article 1 English title: **Dravidian Wealth — VERIFIED**.  
-Article 2 working English title: **Iyer Announces! — T1 only / not frozen**.
+Article 2 working English title: **Iyer Announces! — T2 semantic pass / not frozen**.
 
-Article 2 T1:
+Article 2 T2:
 
 - frozen Tamil blob: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
 - T1 draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
-- source comments: scans **12, 3 — 2 / 2 present**
-- `ஐயர்` / `அய்யர்`: working **Iyer / Ayyar** distinction retained
+- T2 fidelity-reviewed blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
+- source comments: scans **12, 3 — 2 / 2 present and ordered**
+- `ஐயர்` / `அய்யர்`: **Iyer / Ayyar** distinction retained
 - frozen damaged `அயம்`: source-bearing **ayam**, unrepaired
-- `ஏனோதானோ` / `ஏனோதானோக்கள்`: working **Enothano / Enothanos**
-- normal `கல்லூரி`: **College**; frozen `கல்லுரி`: working source-bearing **kalluri**
-- inscription: working source-bearing **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**
+- `ஏனோதானோ` / `ஏனோதானோக்கள்`: **Enothano / Enothanos**
+- normal `கல்லூரி`: **College**; frozen `கல்லுரி`: source-bearing **kalluri**
+- narrative `சாமிநாதய்யர்`: **Saminathayyar**; inscription `சாமிநாத அய்யர்`: **Saminatha Ayyar**
+- inscription: source-bearing **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**
+- T2 body corrections: **3**
 - frozen Tamil changes: **0**
-- unresolved T1 blockers: **0**
+- unresolved T2 blockers: **0**
 
 Detailed Tamil/English records:
 
@@ -231,6 +234,6 @@ Detailed Tamil/English records:
 
 ## Current project state / exact next activity
 
-Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` has a frozen Tamil layer, Article 1 is **T5 VERIFIED**, and Article 2 is **T1 PASS**.
+Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` has a frozen Tamil layer, Article 1 is **T5 VERIFIED**, and Article 2 is **T2 PASS**.
 
-**Exact next activity:** execute **Article 2 T2 — bilingual fidelity review** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T1 English blob `1b70952ae377668162fcb35eb045e142a0597190`. Audit all surviving clauses, `Iyer` / `Ayyar`, source-bearing `ayam`, `Enothano(s)`, normal `College` versus frozen anomalous `kalluri`, working title, quotation scope, inscription wording and both source-page comments. Make only fidelity-required corrections and stop after T2. Do not perform Article 2 T3 in the same activity.
+**Exact next activity:** execute **Article 2 T3 — Kalaignar voice review** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T2 English blob `b7361d26a711d61938da24d33b3512ddf5653e53`. Review direct address, commands, repetition, mockery, the startled `அய்யராவது...` construction, `உண்மை நண்பர்களே உண்மை!`, the fire-stepping image, `ஏனோதானோ` ridicule, the imperative ending and the inscription reveal. Make only meaning-neutral voice/cadence changes and stop after T3. Do not perform Article 2 T4 in the same activity.
