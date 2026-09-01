@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - Any checkpoint SHA means “last confirmed when prepared”; it is **not** a rollback target.
 - If `main` has advanced, preserve the newer durable state. Never reset, overwrite, repeat or reopen later completed work merely because an older prompt records an earlier boundary.
 - Re-fetch target files before writing when another chat/window may also be active.
-- Last confirmed live HEAD immediately before this handover synchronization: `6796d9e1ed2baef5c2f1fe94915bb1cc64975729` — `Advance Thiraavida Sampaththu publication status through Article 1 T2`.
+- Last confirmed live HEAD immediately before this handover synchronization: `05c033fab6d0afa61bf31e293385cea41f9fb0e0` — `Advance Thiraavida Sampaththu publication status through Article 1 T3`.
 
 ---
 
@@ -201,7 +201,7 @@ The Article 9/10 documentation reconciliation remains durable:
 
 ---
 
-# Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 1 T2 PASS
+# Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 1 T3 PASS
 
 Workspace: `publications/thiraavida-sampaththu/`  
 Supplied source: `TVA_BOK_0064196_திராவிட_சம்பத்து.pdf`
@@ -238,13 +238,7 @@ Frozen English-translation authorities:
 1. `திராவிட சம்பத்து` — scans **5–6, 13–16** — blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
 2. `ஐயர் அறிவிக்கிறார்!` — scans **12, 3** — blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
-P5 retained lexical-witness conflicts on scans **3, 4, 5 and 16**, preserved damaged scan-3 `அயம்`, retained the earlier scan-16 source-visible recovery `மொழி.`, and added the directly visible scan-15 recovery `கிரேக்க மொழி`. These are frozen source decisions for downstream translation.
-
-The physical reading order remains:
-
-`1 → 2 → 9 → 10 → 5 → 6 → 13 → 14 → 15 → 16 → 7 → 8 → 11 → 12 → 3 → 4`
-
-Publisher foreword `மன்றத்தில்`, publisher note `முக்கிய குறிப்பு` and scan-4 advertisements remain outside the two Kalaignar article bodies.
+P5 retained lexical-witness conflicts on scans **3, 4, 5 and 16**, preserved damaged scan-3 `அயம்`, retained the earlier scan-16 source-visible recovery `மொழி.`, and added the directly visible scan-15 recovery `கிரேக்க மொழி`. These remain frozen source decisions.
 
 ## English translation state
 
@@ -252,7 +246,7 @@ Publisher foreword `மன்றத்தில்`, publisher note `முக�
 - T0 source prerequisite: **2 / 2 PASS**
 - T1 drafts: **1 / 2 PASS**
 - T2 fidelity-reviewed: **1 / 2 PASS**
-- T3 voice-reviewed: **0 / 2**
+- T3 voice-reviewed: **1 / 2 PASS**
 - T4 audited: **0 / 2**
 - T5 verified: **0 / 2**
 - E6: **NOT STARTED**
@@ -268,23 +262,22 @@ Canonical English workspace:
 - `publications/thiraavida-sampaththu/translations/en/TRANSLATION_REVIEW.md`
 - `publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md`
 
-## Article 1 T1/T2 durable boundary
+## Article 1 T1–T3 durable boundary
 
 - Tamil title: `திராவிட சம்பத்து`
-- working English title: **Dravidian Wealth** — T2 semantic pass / not frozen
+- working English title: **Dravidian Wealth** — semantic and voice pass / not frozen
 - frozen Tamil authority: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
 - T1 baseline English blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
 - T2 fidelity-reviewed English blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`
-- English metadata status: `fidelity-reviewed`
+- T3 voice-reviewed English blob: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
+- English metadata status: `voice-reviewed`
 - source scans: **5, 6, 13, 14, 15, 16**
 - source-page comments: **6 / 6 present**
 - scan-15/16 `SOURCE DAMAGE` boundaries: **4 / 4 preserved / unreconstructed**
-- frozen Tamil changes during T1/T2: **0**
-- T2 unresolved fidelity blockers: **0**
+- frozen Tamil changes through T3: **0**
+- unresolved voice/fidelity blockers: **0**
 
-T2 performed a paragraph/clause bilingual review and corrected fidelity issues without doing voice polishing. Durable T2 decisions include preserving masculine personification in the scan-13 poison sentence, retaining `Vikatar` for `விகடர்`-family forms, distinguishing `வழங்கிய` (`prevailed`) from `பேசியவர்கள்` (`those who spoke`), and making damaged scan-15 English fragments conservative enough not to reconstruct hidden Tamil wording.
-
-Working mock-label/title choices remain open for T3/T4. Frozen anomalous `பேச்சுல` remains provisional source-bearing `pechchul` pending T4.
+T2 secured meaning and source-damage fidelity. T3 made **17 meaning-neutral voice/cadence interventions**, restoring clipped directness, sarcasm, mockery, abrupt contrasts and the source's monkey/tail/poison imagery. T3 did not conventionalise the working title, mock labels or source-bearing `pechchul`; those remain for T4.
 
 ## Non-regression for English work
 
@@ -303,16 +296,16 @@ Working mock-label/title choices remain open for T3/T4. Frozen anomalous `பே
 
 # Exact next activity
 
-Execute **Article 1 T3 — Kalaignar voice review** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T2 English blob `155299ac2b71b0aaba431f63d3c882191a3c710b`.
+Execute **Article 1 T4 — terminology / quotation / citation / source audit** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T3 English blob `1d2e7dae1c00200ab402fa43722167e73e8568a4`.
 
 1. Re-fetch both authorities before any write.
-2. Review directness, sarcasm, ridicule, rhetorical questions, repetition, abrupt contrasts, insults and monkey/tail/poison imagery.
-3. Preserve T2-secured meaning; do not introduce or remove claims.
-4. Preserve all source-page comments and all scan-15/16 damage boundaries.
-5. Make only meaning-neutral English voice/cadence corrections.
-6. Record every T3 intervention in `translations/en/TRANSLATION_REVIEW.md` and update `LEXICON.md` where a voice decision becomes durable.
-7. Synchronize the English tracker, translation plan, publication README and this handover.
-8. **Stop after T3. Do not perform T4 in the same activity.**
+2. Audit the working title `Dravidian Wealth` and every recurring `திராவிட` / `திராவிடம்` / `திராவிடர்` rendering.
+3. Audit `Ananda Vikatan`, `Vikatanar`, `Vikatar`-family forms, `Mahishasura Mardini`, mock labels/insults and ideological vocabulary.
+4. Audit quotation scope, all six source-page comments and all four scan-15/16 damage comments.
+5. Decide and document the source-bearing treatment of frozen anomalous `பேச்சுல` / `pechchul` without repairing the Tamil source.
+6. Make only terminology/quotation/source-audit English corrections; no general voice polishing.
+7. Synchronize lexicon, review ledger, tracker, plan, publication README and this handover.
+8. **Stop after T4. Do not perform T5 in the same activity.**
 
 ## Current blockers
 
