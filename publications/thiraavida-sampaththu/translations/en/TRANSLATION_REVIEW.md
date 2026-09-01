@@ -38,7 +38,7 @@ The Tamil archival layer is **COMPLETE / STRICT-REVIEWED / FROZEN** after P5 **1
 - T5 verification: **NOT STARTED**
 - working English title: **Dravidian Wealth** — not frozen
 - T1 English file: `01-thiraavida-sampaththu.md`
-- T1 draft blob: `06958bc15d198de42eb63f5a2cb33b64453134cc`
+- T1 draft blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
 - source Tamil blob: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
 
 ### Article 1 T1 completeness / preservation result
@@ -107,7 +107,7 @@ This strategy is provisional until T2 confirms that no surviving Tamil fragment 
 
 ## Exact next activity
 
-Execute **Article 1 T2 — bilingual fidelity review** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T1 English blob `06958bc15d198de42eb63f5a2cb33b64453134cc`.
+Execute **Article 1 T2 — bilingual fidelity review** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T1 English blob `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`.
 
 Check every paragraph and clause for omissions, additions, negatives, logic, comparisons, repetitions, names, quotations, source-page comments and damaged/source-bearing forms. Make only fidelity-required English corrections, document each correction here, update the lexicon where necessary, and stop after T2.
 
