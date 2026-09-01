@@ -9,7 +9,7 @@ source_scan_pages: "12, 3"
 source_printed_pages: "none visible"
 language: "en"
 translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T2 bilingual fidelity-reviewed; T3 voice-reviewed; source-form distinctions and damaged/ambiguous frozen readings retained without guessed repair"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T2 bilingual fidelity-reviewed; T3 voice-reviewed; T4 terminology/quotation/source-audited; source-form distinctions and damaged/ambiguous frozen readings retained without guessed repair"
 ---
 
 # Iyer Announces!
