@@ -364,6 +364,46 @@ Final verified English blob: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`.
 
 **ARTICLE 2 T5 FINAL VERIFICATION: PASS / VERIFIED.**
 
+## E6 — publication-wide English consistency review — PASS
+
+E6 re-fetched both frozen Tamil authorities and both final T5 English authorities, then reviewed the publication as a two-article English set rather than reopening either article for stylistic preference.
+
+Authorities reviewed:
+
+- Article 1 Tamil: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
+- Article 1 English: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
+- Article 2 Tamil: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
+- Article 2 English: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
+
+### E6 publication-wide findings
+
+1. **`Dravidam` / Dravidian vocabulary is consistent where the source function matches.** Noun `திராவிடம்` remains **Dravidam** in both articles; adjectival `திராவிட` remains **Dravidian** in Article 1. Article 2's inscription **Dravida Vidya Bhushana** is intentionally source-bearing and is not harmonised to `Dravidian`.
+2. **Source-form distinctions remain intentional rather than inconsistent.** Article 2's `Iyer` / `Ayyar`, `ayam`, `College` / `kalluri`, and `Saminathayyar` / `Saminatha Ayyar` distinctions remain preserved. Article 1's `Ananda Vikatan` / `Vikatanar` / `Vikatar` family likewise remains distinct by source function.
+3. **Title style passes publication review.** **Dravidian Wealth** and **Iyer Announces!** preserve their respective source force without imposing a synthetic house style.
+4. **Quotation handling is internally coherent without erasing source anomalies.** Article 1's quoted Vikatan passages and damaged quotation remain source-traceable; Article 2's two-unit first-paragraph treatment remains explicitly documented as a translation-layer handling of irregular source punctuation, and the final inscription remains source-bearing.
+5. **Source-page trace is complete.** Article 1 retains scans **5, 6, 13, 14, 15, 16 — 6 / 6**; Article 2 retains scans **12, 3 — 2 / 2**.
+6. **Source anomalies remain preserved.** Article 1 retains all four scan-15/16 damage boundaries, `mit (Myth)` and source-bearing `pechchul`; Article 2 retains `ayam`, `kalluri`, `Enothano(s)` and the fused/spaced Saminatha name distinction.
+7. **Rhetorical register remains consistent with the permanent guide.** Direct address, commands, sarcasm, ridicule, rhetorical questions, repetition and abrupt polemical movement remain intact; neither article has been flattened into detached academic prose.
+8. **No accidental cross-article harmonisation was found.** No verified source-bearing form needs to be changed merely to match another article.
+9. Publisher foreword `மன்றத்தில்`, publisher note `முக்கிய குறிப்பு` and scan-4 advertisements remain outside the two Kalaignar English article bodies.
+
+### E6 result
+
+- English article body corrections: **0**;
+- English article metadata corrections: **0**;
+- verified English article blobs changed: **0**;
+- frozen Tamil changes: **0**;
+- article gates reopened: **No**;
+- source/release defects discovered: **0**;
+- unresolved E6 blockers: **0**.
+
+Final E6-passed English authorities remain:
+
+1. **Dravidian Wealth** — `10dca72882043db491fe50297657bb0af2a8e57e6`
+2. **Iyer Announces!** — `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
+
+**E6 PUBLICATION-WIDE ENGLISH CONSISTENCY REVIEW: PASS.**
+
 ## Current English gate counts
 
 - E0: **COMPLETE / PASS**
@@ -373,14 +413,14 @@ Final verified English blob: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`.
 - T3: **2 / 2 COMPLETE**
 - T4: **2 / 2 COMPLETE**
 - T5: **2 / 2 COMPLETE**
-- E6: **NOT STARTED**
+- E6: **PASS**
 - E7: **NOT STARTED**
 - translation blockers: **0**
 
 ## Exact next activity
 
-Execute **E6 — publication-wide English consistency review** across both verified articles.
+Execute **E7 — English release closeout** for `திராவிட சம்பத்து`.
 
-Re-check the two verified English articles together for recurring `Dravidam` / Dravidian terminology, source-bearing name distinctions, title style, quotation treatment, source-page comments, source-anomaly preservation, rhetorical consistency and accidental cross-article harmonisation. Do not alter a verified article merely for stylistic preference; change only a genuine publication-level consistency or source/release defect and document any reopened gate explicitly.
+Re-fetch the two E6-passed English article authorities and the frozen Tamil authorities, confirm that all T0–T5 gates and E6 remain durable, verify tracker/lexicon/review/plan/publication records are synchronized, confirm no source or translation blocker remains, then mark the publication's English translation **COMPLETE / RELEASED / FROZEN** if the release gate passes. Do not reopen verified article bodies for stylistic preference.
 
-**Stop after E6. Do not perform E7 in the same activity.**
+**Stop after E7.**
