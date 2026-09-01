@@ -8,8 +8,8 @@ source_tamil_blob_sha: "6e9759aff9bc4801ee66b3b8c76a814be3e98015"
 source_scan_pages: "5-6, 13-16"
 source_printed_pages: "none visible"
 language: "en"
-translation_status: "draft"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; source-damage gaps preserved without reconstruction"
+translation_status: "fidelity-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T2 bilingual fidelity-reviewed; source-damage gaps preserved without reconstruction"
 ---
 
 # Dravidian Wealth
@@ -46,7 +46,7 @@ Mythology has entered Dravidian stories. Yes; the Ramayana is a Dravidian story,
 
 said. Those who opposed it ...; now Vikatan says... that mythology entered the Dravidian story called Mahishasura Mardini!
 
-We offer our thanks; wisdom has dawned, even if late! But Vikatan is not that mad after all......it has not completely abandoned its old habit; at the end of the article, hasn't it spat out a little poison.
+We offer our thanks; wisdom has dawned, even if late! But Vikatan isn't such a madman after all......he has not completely abandoned his old habit; at the end of the article, hasn't he spat out a little poison?
 
 ## Poisonous Work
 
@@ -76,11 +76,11 @@ Finally, setting out to seek support for it, he becomes the wedge-meddling monke
 
 <!-- Tamil source: scan 15 -->
 
-Wealth means
+Wealth mea—
 
 <!-- SOURCE DAMAGE: paper is torn away inside the quotation; no missing words reconstructed. -->
 
-...in the region where ... is spoken  
+...[damaged fragment] in the region where it prevails  
 to cherish and protec—
 
 <!-- SOURCE DAMAGE: torn continuation; no missing words reconstructed. -->
@@ -88,13 +88,13 @@ to cherish and protec—
 ...a great treasure worthy...  
 that alone is the meaning."
 
-This is the course Vikatan's explanation takes! The man who denied the Dravidian race—who said that no such race ever existed—has accepted the Dravidian language and has also accepted the region where it was spoken.
+This is the course Vikatar's explanation takes! The man who denied the Dravidian race—who said that no such race ever existed—has accepted the Dravidian language and has also accepted the region where it was spoken.
 
 ## Cuckoos of the Garbage Heap
 
-The place where the English language was spoken is England; the country where the French language was spoken is France. Why, then, does Ananda Vikatan not know that the country where the Dravidian language was spoken is Dravida Nadu? It is not that it does not know. It knows, and still a little courage to conceal it clings to him!
+The place where the English language prevailed is England; the country where the French language prevailed is France. Why, then, does Ananda Vikatar not know that the country where the Dravidian language prevailed is Dravida Nadu? It is not that he does not know. Though he knows, a little courage to conceal it still clings to him!
 
-Let us leave aside region and country. Those who spoke the Dravidian language must have been Dravidians, mustn't they, Vikatan? Just as those who spoke Greek were Greeks, Vikatan! Poisoning truths through malice is your hereditary occupation. I certainly do not think that, because of the explanation I have given, you will climb down from the tree tomorrow itself. Dravidam, Dravidian
+Let us leave aside region and country. Those who spoke the Dravidian language must have been Dravidians, mustn't they, Vikatar? Just as those who spoke Greek were Greeks, Vikatar! Poisoning truths through malice is your hereditary occupation. I certainly do not think that, because of the explanation I have given, you will climb down from the tree tomorrow itself. Dravidam, Dravidian
 
 <!-- Tamil source: scan 16 -->
 
