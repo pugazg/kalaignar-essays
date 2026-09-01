@@ -151,7 +151,7 @@ Translation/release workspace:
 
 These Tamil and English authorities remain frozen unless a genuine source-supported or release-blocking defect explicitly reopens the affected gate.
 
-## Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 1 T1 PASS
+## Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 1 T3 PASS
 
 Workspace: [`publications/thiraavida-sampaththu/`](publications/thiraavida-sampaththu/)
 
@@ -185,15 +185,15 @@ Frozen Tamil translation authorities:
 1. `திராவிட சம்பத்து` — scans **5–6, 13–16** — `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
 2. `ஐயர் அறிவிக்கிறார்!` — scans **12, 3** — `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
-P5 directly rechecked all **16 / 16** scans. Documented lexical conflicts remain frozen rather than silently corrected: scan 3 `கல்லுரி`, scan 4 `ரூசோ`, scan 5 `கண்னை`, scan 16 `பேச்சுல`; damaged scan-3 `அயம்` remains unrepaired. Source-visible recoveries `மொழி.` and `கிரேக்க மொழி` are included in the frozen authorities. Torn-away text remains unreconstructed.
+P5 documented and retained the publication's source-witness conflicts and all torn-away text remains unreconstructed.
 
 ### English translation status
 
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **2 / 2 PASS**
 - T1 drafts: **1 / 2 PASS**
-- T2 fidelity-reviewed: **0 / 2**
-- T3 voice-reviewed: **0 / 2**
+- T2 fidelity-reviewed: **1 / 2 PASS**
+- T3 voice-reviewed: **1 / 2 PASS**
 - T4 audited: **0 / 2**
 - T5 verified: **0 / 2**
 - English article bodies: **1 / 2**
@@ -205,11 +205,16 @@ Translation workspace:
 - [`translations/en/README.md`](publications/thiraavida-sampaththu/translations/en/README.md)
 - [`translations/en/LEXICON.md`](publications/thiraavida-sampaththu/translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/thiraavida-sampaththu/translations/en/TRANSLATION_REVIEW.md)
-- [`translations/en/01-thiraavida-sampaththu.md`](publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md) — Article 1 T1 draft
+- [`translations/en/01-thiraavida-sampaththu.md`](publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md) — Article 1 T3 voice-reviewed
 
-Article 1 working English title: **Dravidian Wealth** — not frozen. T1 English draft blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`.
+Article 1 working title: **Dravidian Wealth** — not frozen.
 
-T1 preserved all six Article 1 source-page comments, direct/rhetorical structure, quotation boundaries and the scan-15/16 damage gaps without reconstructing hidden text. Working source-bearing choices are recorded in the living lexicon and remain subject to T2–T4 review.
+- frozen Tamil blob: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
+- T1 baseline: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
+- T2 fidelity-reviewed: `155299ac2b71b0aaba431f63d3c882191a3c710b`
+- T3 voice-reviewed: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
+
+T3 made **17 meaning-neutral voice/cadence interventions**, preserved T2-secured meaning, all six source-page comments and all four scan-15/16 source-damage boundaries, and made **0** frozen Tamil changes.
 
 Detailed Tamil closeout:
 
@@ -218,6 +223,6 @@ Detailed Tamil closeout:
 
 ## Current project state / exact next activity
 
-Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` has a frozen Tamil layer, E0/T0 are complete, and **Article 1 T1 is PASS**.
+Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` has a frozen Tamil layer and **Article 1 T3 is PASS**.
 
-**Exact next activity:** execute **Article 1 T2 — bilingual fidelity review** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T1 English blob `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`. Make only fidelity-required English corrections, preserve all damaged-source boundaries, update the review/lexicon/tracker/plan/handover records, and stop after T2. Do not perform T3 in the same activity.
+**Exact next activity:** execute **Article 1 T4 — terminology / quotation / citation / source audit** against frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and T3 English blob `1d2e7dae1c00200ab402fa43722167e73e8568a4`. Audit title, recurring terminology, names/source labels, mock epithets, quotations, source-page and damage comments, and frozen anomalous `pechchul`. Make only terminology/source-audit corrections and stop after T4. Do not perform T5 in the same activity.
