@@ -8,8 +8,8 @@ source_tamil_blob_sha: "f856664d86695237a23d0ffc0bef088d32a82fe9"
 source_scan_pages: "48-49"
 source_printed_pages: "48; scan 48 has no visible printed numeral"
 language: "en"
-translation_status: "draft"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted against the frozen Tamil assembly"
+translation_status: "fidelity-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; T1 drafted and T2 bilingual fidelity-reviewed against the frozen Tamil assembly"
 ---
 
 # Not a Poem — an Ocean of Tears!
@@ -48,23 +48,23 @@ O mountain-shouldered one! O ruby hill!
 
 Parppaniyam, if it sees you,  
 will lose its footing like a coward who has seen an army.  
-You are gone...will your fame go with you?  
+You have gone...will your fame go with you?  
 You set fire to the Aryan forest! As it  
 crackles and bursts, without watching—hiding away
 
 O Panneer Selvam! Where is your milk-dripping  
 face? Where is the Pandiyan moustache!  
-Have the desolate waves of the hunger-risen raging sea  
+Have the ruinous waves of the hunger-risen raging sea  
 ceased after devouring you! You left.  
 “Let it eat; let it eat and rejoice...let  
 Tiruvitaththar think of me”—saying so, where have you hidden?  
-Born in money and raised in money,  
+Though born in money and raised in money,  
 how did you learn proletarian character?  
 O lord! The tears we shed, weeping and weeping,  
 will conquer a thousand Oman Seas!  
-O flawless golden Dravidian land! To see all the people  
-who drank Aryan liquor awaken and rise—  
-this...is an offering to your work.  
+O flawless golden Dravidian land! All the people  
+who drank Aryan liquor awakening and rising—  
+to see this...is an offering to your work.  
 Though opposition all around roars like a cyclone,  
 we have set out declaring victory is ours!  
 We are no paupers..........  
