@@ -26,7 +26,7 @@ transcription_method: "user-supplied lexical baseline; direct visual review for 
 சென்னை-1
 
 அன்பன் அச்சகம்,  
-சென்னை -1.
+சென்னை-1.
 
 ## அச்சு அல்லாத / physical-copy marks
 
