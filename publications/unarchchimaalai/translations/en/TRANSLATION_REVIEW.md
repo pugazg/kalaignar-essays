@@ -201,7 +201,7 @@ T5 re-verified the complete T1–T4 chain against frozen Tamil blob `f3634a63bff
 
 **T5 RESULT: PASS. Article 6 advanced to `translation_status: verified`. Final verified English blob: `cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`.**
 
-# Article 7 — `30-1-1948` — T1–T4 COMPLETE / VOICE-REVIEWED
+# Article 7 — `30-1-1948` — T0–T5 COMPLETE / VERIFIED
 
 Source authority:
 
@@ -214,7 +214,8 @@ Source authority:
 - T1 draft blob: `6e7b49c9f15cb690d439e2bc5665c226bffccd7e`
 - T2 fidelity-reviewed blob: `409685e516e32783299130b8205c71638bb8d90d`
 - T3 voice-reviewed blob: `b716cbf16f0c47ba2a4d0e0a8e6cd748e6c42376`
-- T4-audited candidate: **`1879a5e49c3948bb41ffee15b7c37e6a72149cd5`**
+- T4-audited candidate: `1879a5e49c3948bb41ffee15b7c37e6a72149cd5`
+- final T5-verified English: **`6cfb28e2d83ba84ee2daa54606561479b61498b0`**
 
 ## T1 — close draft — COMPLETE / PASS
 
@@ -348,6 +349,37 @@ T4 audit checks:
 
 **T4 RESULT: PASS. Article 7 remains `translation_status: voice-reviewed`. T4-audited English candidate: `1879a5e49c3948bb41ffee15b7c37e6a72149cd5`.**
 
+## T5 — final article verification — COMPLETE / PASS
+
+T5 re-verified the complete T1–T4 chain against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` and T4 candidate `1879a5e49c3948bb41ffee15b7c37e6a72149cd5`. It required **0 body corrections**.
+
+### T5 final checks
+
+- metadata article number/title/source path/source Tamil SHA: **PASS**
+- source scans **39–41** and printed-page field: **PASS**
+- complete paragraph/clause coverage: **PASS**
+- all three scan comments present and ordered: **PASS**
+- scan-39→40 and scan-40→41 continuations: **PASS**
+- scan-40→41 `உழைப்` / `பையும்` physical split witness: **PASS**
+- opening quotation `“வழிந்தோட......காந்தி மாண்டாரா ?”`: **PASS**
+- repeated `சுடப்பட்டார்` / `shot` mourning rhetoric: **PASS**
+- bullet apostrophe quotation: **PASS / one continuous quotation**
+- source-quoted `‘சுதந்தரம்’` / `‘freedom’`: **PASS**
+- dates `30`, `31`, `30-1-1948`: **PASS**
+- `Gandhiyar`, `the noble Gandhiyar`, `revered Gandhi`, `Mohan Das Gandhi`, `foreign army`: **PASS**
+- `soga poogam`, `sukkunooraakkam`, `Parppanan`, `Parppanars`, `Vaidheegam`, `Dravidam`, `Hindu Mahasabha`, `Sir Selvam`, `Oman Sea`, `Baniya`, `zeal`, `thegiduthatham`, `Parppaniya frenzy`, `Ayyo! Ayyo!`: **PASS**
+- world-weeping line `Why...the whole world itself weeps.`: **PASS / source emphatic continuation retained without adding a question**
+- T4-restored `Before freedom...could become true freedom...before the hunt for office could cease`: **PASS / prospective relation preserved**
+- frozen scan-39 `ஒடி`, `சோக பூகம்`, `சுக்குநூறாக்கம்`: **PASS / no scan-alternate repair**
+- frozen scan-41 `ஒய்வதற்கு`: **PASS / no scan-alternate repair**
+- frozen scan-41 final order `நாள் 30-1-1948... ஆமாம்... வரலாற்றை வீணாக்கிய`: **PASS**
+- deliberately incomplete English ending `that squandered history—`: **PASS / nothing appended beyond frozen source boundary**
+- outside historical identification, web wording, published translation, alternate scan lexical/order wording or source-normalising reconstruction imported: **No**
+- frozen Tamil changed: **No**
+- unresolved T5 blockers: **0**
+
+**T5 RESULT: PASS. Article 7 advanced to `translation_status: verified`. Final verified English blob: `6cfb28e2d83ba84ee2daa54606561479b61498b0`.**
+
 ## Article review tracker
 
 | # | Tamil title | Translation status | T0 | T1 | T2 | T3 | T4 | T5 |
@@ -358,11 +390,11 @@ T4 audit checks:
 | 4 | இராவணன் நம் பாட்டன் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 5 | இங்கல்ல! இரஷ்யாவில் | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 6 | 3, 57, 90. | `verified` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 7 | 30-1-1948 | `voice-reviewed` | PASS | PASS | PASS | PASS | **PASS** | — |
+| 7 | 30-1-1948 | `verified` | PASS | PASS | PASS | PASS | PASS | **PASS** |
 | 8 | பத்தினியே உன்போல்...! | `not-started` | PASS | — | — | — | — | — |
 | 9 | அன்னை நாகம்மையார்! | `not-started` | PASS | — | — | — | — | — |
 | 10 | கவிதையல்ல - கண்ணீர்க்கடல் ! | `not-started` | PASS | — | — | — | — | — |
 
 ## Exact next activity
 
-Execute **Article 7 T5 — final article verification** for `30-1-1948` against frozen Tamil blob `bac121257d24477bc3c7e8c65f4b3f7b8a419bad` and T4-audited English candidate `1879a5e49c3948bb41ffee15b7c37e6a72149cd5`, scans **39–41**. Re-verify the full T1–T4 chain, metadata/source fields, paragraph/clause coverage, quotation boundaries, dates, source labels and terminology, all scan comments/page continuations, frozen scan-39 `ஒடி` / `சோக பூகம்` / `சுக்குநூறாக்கம்`, scan-41 `ஒய்வதற்கு`, the T4-restored `could become` / `could cease` relation, frozen final order and the deliberately incomplete ending at `வரலாற்றை வீணாக்கிய`. Do not import alternate scan lexical/order readings, outside historical wording, web wording or published translations. If T5 passes, advance Article 7 to `verified`, synchronize records, and **do not begin Article 8 in the same activity**.
+Execute **Article 8 T1 — complete close English draft** for `பத்தினியே உன்போல்...!` against frozen Tamil blob `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`, scans **42–44**. Translate the complete frozen article paragraph by paragraph and clause by clause; preserve all source-page comments, quotation/question/exclamation structure, source-bearing terminology, scan-42 source-recovered `பதில் இல்லை.` and scan-43 `* * *`. Follow the frozen Tamil assembly rather than scan-appearing alternate lexical forms, record provisional Article 8 terminology and T1 provenance, synchronize trackers/handover, and **stop before Article 8 T2**.
