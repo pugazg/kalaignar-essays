@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - Any checkpoint SHA means “last confirmed when prepared”; it is **not** a rollback target.
 - If `main` has advanced, preserve the newer durable state. Never reset, overwrite, repeat or reopen later completed work merely because an older prompt records an earlier boundary.
 - Re-fetch target files before writing when another chat/window may also be active.
-- Last confirmed live HEAD immediately before this handover synchronization: `87afe89fb402065c76aee30c354e92cc37047ece` — `Advance Thiraavida Sampaththu metadata through Article 2 T3`.
+- Last confirmed live HEAD immediately before this handover synchronization: `8ab3ff0d040fe67515944446fb01321c91df083d` — `Advance root status through Thiraavida Sampaththu Article 2 T4`.
 
 ---
 
@@ -128,7 +128,7 @@ E7 re-confirmed the ten live English article blobs exactly match this E6-passed 
 
 ---
 
-# Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 2 T3 PASS
+# Publication 4 — திராவிட சம்பத்து — ACTIVE / ARTICLE 2 T4 PASS
 
 Workspace: `publications/thiraavida-sampaththu/`  
 Supplied source: `TVA_BOK_0064196_திராவிட_சம்பத்து.pdf`
@@ -174,7 +174,7 @@ P5 retained lexical-witness conflicts on scans **3, 4, 5 and 16**, preserved dam
 - T1 drafts: **2 / 2 PASS**
 - T2 fidelity-reviewed: **2 / 2 PASS**
 - T3 voice-reviewed: **2 / 2 PASS**
-- T4 audited: **1 / 2 PASS**
+- T4 audited: **2 / 2 PASS**
 - T5 verified: **1 / 2 PASS**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
@@ -201,33 +201,35 @@ Canonical English workspace:
 
 Article 1 should not be reopened for stylistic preference. Reopen only for a concrete source-supported defect.
 
-## Article 2 T3 durable boundary
+## Article 2 T4 durable boundary
 
 - Tamil title: `ஐயர் அறிவிக்கிறார்!`
-- working English title: **Iyer Announces!** — T3 voice pass / not frozen
+- English title: **Iyer Announces!** — T4 audited / final verification pending T5
 - frozen Tamil authority: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
 - source scans: **12, 3**
 - T0: **PASS**
 - T1: **COMPLETE / PASS**
 - T2: **COMPLETE / PASS**
 - T3: **COMPLETE / PASS**
+- T4: **COMPLETE / PASS**
 - T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
 - T2 fidelity-reviewed English blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
 - T3 voice-reviewed English blob: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
-- English metadata status: `voice-reviewed`
+- T4 source-audited English blob: `9b2795e6c66dea08fdf46fcf7903550001e1a401`
+- English metadata status: `voice-reviewed` — T5 alone may set `verified`
 - source-page comments: **2 / 2 present and ordered**
 - `ஐயர்` / `அய்யர்`: **Iyer / Ayyar** distinction retained
 - damaged/ambiguous frozen `அயம்`: source-bearing **ayam**, not repaired
-- `ஏனோதானோ` / `ஏனோதானோக்கள்`: **Enothano / Enothanos**, ridicule retained
+- `ஏனோதானோ` / `ஏனோதானோக்கள்`: **Enothano / Enothanos**, source-bearing / no outside identification
 - normal `கல்லூரி`: **College**; frozen scan-3 `கல்லுரி`: source-bearing **kalluri**
 - narrative fused `சாமிநாதய்யர்`: **Saminathayyar**; inscription `சாமிநாத அய்யர்`: **Saminatha Ayyar**
 - quoted inscription: source-bearing **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**
-- first-paragraph irregular quotation punctuation: two evident quoted units retained; T4 must perform the formal quotation/source audit
-- T3 voice/cadence interventions: **9**
-- T2-secured substantive claims changed: **0**
-- frozen Tamil changes during T3: **0**
+- first-paragraph irregular quotation punctuation: two evident English quoted units formally audited and documented; no missing Tamil punctuation reconstructed
+- T4 English body corrections: **0**
+- T4 metadata/provenance updates: **1**
+- frozen Tamil changes during T4: **0**
 - external inscription wording imported: **No**
-- unresolved T3 blockers: **0**
+- unresolved T4 blockers: **0**
 
 ## Non-regression for English work
 
@@ -236,8 +238,9 @@ Article 1 should not be reopened for stylistic preference. Reopen only for a con
 - never reconstruct torn-away source wording;
 - do not silently repair frozen `கல்லுரி`, `கண்னை`, `பேச்சுல` or damaged `அயம்` using alternate scan readings/context;
 - do not import publisher matter or scan-4 advertisements into the two English article bodies;
-- preserve Article 2 T2/T3 source-form distinctions, including `Iyer` / `Ayyar`, `ayam`, `Enothano(s)`, `kalluri`, `Saminathayyar` / `Saminatha Ayyar`;
-- preserve T3's voice/cadence gains while T4 audits terminology and quotation/source details;
+- preserve Article 2 T4-established source-form distinctions, including `Iyer` / `Ayyar`, `ayam`, `Enothano(s)`, `kalluri`, `Saminathayyar` / `Saminatha Ayyar`;
+- preserve the documented two-unit quotation treatment and source-bearing inscription wording through T5;
+- preserve T3's voice/cadence gains; T5 is verification, not stylistic polishing;
 - do not alter verified Article 1 terminology merely for stylistic preference;
 - if a genuine source-supported Tamil correction changes a frozen blob, explicitly reopen affected translation gates.
 
@@ -249,16 +252,16 @@ Article 1 should not be reopened for stylistic preference. Reopen only for a con
 
 # Exact next activity
 
-Execute **Article 2 T4 — terminology / quotation / citation / source audit** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T3 English blob `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`.
+Execute **Article 2 T5 — final article verification** against frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6` and T4 source-audited English blob `9b2795e6c66dea08fdf46fcf7903550001e1a401`.
 
 1. Re-fetch both authorities before any write.
-2. Audit working title **Iyer Announces!**.
-3. Audit `Iyer` / `Ayyar`, `Dravidam`, `Enothano(s)`, source-bearing `ayam`, normal `College` versus frozen `kalluri`, and narrative `Saminathayyar` versus inscription `Saminatha Ayyar`.
-4. Audit source-bearing inscription title **Maha Mahopadhyaya Dravida Vidya Bhushana** without importing an outside version.
-5. Formally audit the first-paragraph quotation scope against the frozen Tamil punctuation and the final inscription quotation wording.
-6. Verify English metadata source path/blob/scan range and both source-page comments for scans **12** and **3**.
-7. Make only terminology/quotation/citation/source corrections required by the frozen witness; record every T4 decision and synchronize project records.
-8. **Stop after Article 2 T4. Do not perform Article 2 T5 in the same activity.**
+2. Re-verify complete surviving Article 2 coverage and paragraph/source order.
+3. Re-verify title **Iyer Announces!**.
+4. Re-verify all T4-established terminology/source-bearing forms: `Iyer` / `Ayyar`, `Dravidam`, `Enothano(s)`, `ayam`, normal `College` versus frozen `kalluri`, narrative `Saminathayyar` versus inscription `Saminatha Ayyar`, and `Maha Mahopadhyaya Dravida Vidya Bhushana`.
+5. Re-verify the documented first-paragraph two-unit quotation treatment and final inscription wording.
+6. Re-verify English metadata source path/blob/scan range and source-page comments for scans **12** and **3**.
+7. If PASS, change `translation_status` from `voice-reviewed` to `verified`, record the final verified English blob, and synchronize project records.
+8. **Stop after Article 2 T5. Do not perform E6 in the same activity.**
 
 ## Current blockers
 
