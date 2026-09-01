@@ -29,23 +29,11 @@ Text physically lost because the paper is torn away is **not reconstructed from 
 
 ## Source-order / imposition condition
 
-The PDF is not in publication reading order. The surviving material appears to have been scanned by leaf/imposition sequence. Pencil folio marks are visible on alternating scans:
-
-- scan 3: pencil `2`
-- scan 5: pencil `3`
-- scan 7: pencil `4`
-- scan 9: pencil `5`
-- scan 11: pencil `6`
-- scan 13: pencil `7`
-- scan 15: pencil `8`
-
-These are **not printed page numbers** and are excluded from `# அச்சு உரை`.
+The PDF is not in publication reading order. Pencil folio marks on alternating scans are physical-copy marks, not printed page numbers.
 
 Reconstructed reading order:
 
 `1, 2, 9, 10, 5, 6, 13, 14, 15, 16, 7, 8, 11, 12, 3, 4`.
-
-The sequence is supported by direct sentence continuations and the publisher's explicit cue in `முக்கிய குறிப்பு` that the reader should proceed to the next article about Dr. U. V. Saminatha Iyer.
 
 ## Publication units
 
@@ -64,8 +52,7 @@ No printed contents page is present.
 - extensive paper loss and tears, especially scans 3–4, 7–8, 11–16;
 - several tears cut directly through printed body lines;
 - ageing, staining and reverse-side show-through are widespread;
-- pencil folio marks occur on alternating scans;
-- scan 4 contains a printed promotional illustration/advertisement.
+- scan 4 contains printed promotional/advertisement matter.
 
 Hidden/lost text under absent paper is never supplied from sentence meaning.
 
@@ -88,8 +75,6 @@ These are the frozen English-translation authorities.
 
 ## P5 fidelity closure
 
-P5 directly rechecked all **16 physical scans** and propagated source-supported structure/punctuation/spacing/layout corrections without silently replacing user-baseline lexical words.
-
 Documented lexical-witness conflicts retained:
 
 - scan 3 `கல்லுரி` vs scan-appearing `கல்லூரி`;
@@ -97,14 +82,7 @@ Documented lexical-witness conflicts retained:
 - scan 5 `கண்னை` vs scan-appearing `கண்ணை`;
 - scan 16 `பேச்சுல` vs scan-appearing `பேச்சை`.
 
-Scan 3 `அயம்` remains a damaged/ambiguous supplied reading and is not silently normalised.
-
-Documented source-visible recoveries:
-
-- scan 16 `மொழி.` — earlier recovery retained after scan 15 `...திராவிடம், திராவிட`;
-- scan 15 `கிரேக்க மொழி` — P5 restored directly visible omitted `ழி` from supplied `கிரேக்க மொ`.
-
-No text beneath torn-away paper was reconstructed.
+Scan 3 `அயம்` remains a damaged/ambiguous supplied reading and is not silently normalised. Documented source-visible recoveries include scan 16 `மொழி.` and scan 15 `கிரேக்க மொழி`. No text beneath torn-away paper was reconstructed.
 
 Detailed records:
 
@@ -112,22 +90,38 @@ Detailed records:
 - [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md)
 - [`../PUBLICATION_COMPLETION_REVIEW.md`](../PUBLICATION_COMPLETION_REVIEW.md)
 
-## English translation authority / E0 status
+## English translation status
 
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **2 / 2 PASS**
-- English article bodies: **0 / 2**
+- T1 close drafts: **1 / 2**
+- T2 fidelity-reviewed: **1 / 2**
+- T3 voice-reviewed: **1 / 2**
+- T4 audited: **1 / 2**
+- T5 verified: **1 / 2**
+- English article bodies: **1 / 2**
 - translation blockers: **0**
 
-E0 records:
+Article 1 `திராவிட சம்பத்து` is **T5 VERIFIED**:
+
+- English title: **Dravidian Wealth**
+- final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
+- source Tamil blob: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
+- T5 body corrections: **0**
+- source-page comments: **6 / 6 PASS**
+- scan-15/16 damage boundaries: **4 / 4 PASS**
+- hidden torn wording reconstructed: **0**
+- frozen Tamil changes during English verification: **0**
+
+English records:
 
 - [`../TRANSLATION_PLAN.md`](../TRANSLATION_PLAN.md)
 - [`../translations/en/README.md`](../translations/en/README.md)
 - [`../translations/en/LEXICON.md`](../translations/en/LEXICON.md)
 - [`../translations/en/TRANSLATION_REVIEW.md`](../translations/en/TRANSLATION_REVIEW.md)
 
-The English layer must translate the two frozen Tamil blobs above. It must not use OCR, the pre-P5 user transcription, alternate scan-appearing lexical readings or remembered wording as replacement authority.
+The English layer continues to translate only from the two frozen Tamil blobs above. It must not use OCR, pre-P5 transcription, alternate scan-appearing lexical readings or remembered wording as replacement authority.
 
 ## Exact next gate
 
-Execute **Article 1 T1 — complete close English draft for `திராவிட சம்பத்து`** from frozen Tamil blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`. Preserve all source-page trace comments and the scan-15/16 source-damage gaps; do not reconstruct missing text. Stop after T1 and do not perform T2 in the same activity.
+Execute **Article 2 T1 — complete close English draft for `ஐயர் அறிவிக்கிறார்!`** from frozen Tamil blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`. Preserve source-page comments for scans **12 and 3**, preserve damaged/ambiguous frozen `அயம்` without guessed repair, keep `ஐயர்` / `அய்யர்` source-form distinctions source-sensitive, and stop after T1. Do not perform Article 2 T2 in the same activity.
