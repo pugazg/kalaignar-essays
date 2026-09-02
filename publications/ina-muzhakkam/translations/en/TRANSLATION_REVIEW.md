@@ -10,7 +10,7 @@ Live Tamil prerequisites were re-fetched and all six strict-reviewed authority b
 
 | # | Tamil title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|
-| 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **PASS** | NEXT | — | — | — | — |
+| 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **PASS** | **PASS** | NEXT | — | — | — |
 | 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **PASS** | — | — | — | — | — |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | **PASS** | — | — | — | — | — |
 | 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | **PASS** | — | — | — | — | — |
@@ -19,7 +19,7 @@ Live Tamil prerequisites were re-fetched and all six strict-reviewed authority b
 
 T0 result: **6 / 6 PASS**.  
 Tamil blockers: **0**.  
-English blockers at E0: **0**.
+English blockers: **0**.
 
 ## E0 translation constraints recorded
 
@@ -53,14 +53,36 @@ At T1–T5, English must follow the frozen Tamil context. Any material consequen
 ### 1. இன முழக்கம்
 
 - Tamil source blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
+- English file: `translations/en/01-ina-muzhakkam.md`
+- Working English title: **The Clarion Call of the Race**
 - T0: **PASS**
-- T1: **NOT STARTED — NEXT**
-- T2: NOT STARTED
+- T1: **PASS / COMPLETE**
+- T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
+- T2: **NOT STARTED — NEXT**
 - T3: NOT STARTED
 - T4: NOT STARTED
 - T5: NOT STARTED
-- English title: TBD at T1
-- unresolved translation choice: none yet
+- translation status: `draft`
+- source-page comments: **8 / 8 preserved in order** for scans 6–13
+- Tamil body omissions at T1: **0 known**
+- added outside claims: **0**
+- Tamil source changes: **0**
+- blockers: **0**
+
+#### Article 1 T1 decisions
+
+1. `இன முழக்கம்` → **The Clarion Call of the Race** as the working title; closing contextual occurrence → **the clarion call of the race**.
+2. Explicit `திராவிட இனம்` / `ஆரிய இனம்` → **Dravidian race / Aryan race**, preserving the source's ideological contrast rather than neutralising it to `community`.
+3. `திராவிடன்` → **Dravidian**.
+4. `சுயமரியாதைக்காரன்` → **Self-Respecter**; the earlier frozen incomplete `சுயமரியாதைக் ....` remains incomplete as **Self-Respect ....**, with no guessed missing Tamil word.
+5. Repeated `தமிழன்` is retained as **Tamilian**, preserving the repeated rhetorical target rather than smoothing it away.
+6. `கிராமணியார்` → **Gramaniyar**, source-bearing and unexplained.
+7. User-established frozen `கனக விசயர்` → **Kanaka Visayar**, retained as a source-bearing compound label rather than externally identifying or splitting it.
+8. `பாரிவள்ளல்` → **Vallal Pari**; descriptive `கொடை வள்ளல்` → **great giver**.
+9. `அருட்பெருஞ் சோதி` → **Arutperum Jothi**, retained without explanatory expansion inside the body.
+10. Rhetorical questions, speaker labels, ornaments, exclamations and the scan-9→10 split `அல்லலுற்` / `றோமே` are retained in the English structure; the English uses `suf—` / `fer......` across that page boundary rather than hiding the source continuation.
+
+T1 is a close draft, not a fidelity verdict. Title and terminology above remain subject to T2–T5 review.
 
 ### 2. சொர்க்க லோகத்தில்
 
@@ -95,4 +117,4 @@ At T1–T5, English must follow the frozen Tamil context. Any material consequen
 
 ## Exact next activity
 
-**Article 1 `இன முழக்கம்` — T1 close English draft only.** Re-fetch the frozen Tamil blob, establish the working English title and first lexicon decisions, translate the entire assembly with ordered source-page comments, document the T1 English blob and decisions here, then stop before T2.
+**Article 1 `இன முழக்கம்` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T1 English blob `b3022e69387662584064d51133e24f4f97e976b2`, compare every paragraph/clause and all eight source-page comments, correct only fidelity defects, record the resulting T2 English blob, then stop before T3.
