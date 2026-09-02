@@ -116,15 +116,39 @@ The six contents-listed assemblies were created directly from the verified P2 pa
 
 P3 preserves page-boundary provenance and all P2 wording. Promotions on scans 24 and 37, poetry front matter on scan 40 and the scan-50 catalogue remain outside the six reading assemblies. No lexical normalisation was introduced.
 
+## P4 source / completeness audit — PASS
+
+Canonical audit: [`../SOURCE_COMPLETENESS_AUDIT.md`](../SOURCE_COMPLETENESS_AUDIT.md).
+
+P4 confirms:
+
+- all **50 / 50** physical scans have canonical P2 records;
+- exactly **6 / 6** contents-listed P3 assemblies exist;
+- source-supported start/end boundaries and page continuations: **PASS**;
+- promotions/front matter/catalogue exclusions: **PASS**;
+- scan-10 `விசயர்` correction: **PASS**;
+- poetry headings and lineation: **PASS**;
+- contents-page start numbers remain separate witnesses from directly visible page numerals: **PASS**;
+- physical-copy marks imported into body text: **0**;
+- silent lexical normalisations introduced by P2/P3: **0**;
+- P4 `needs-review`: **0**;
+- P4 blocked items: **0**;
+- completeness blockers: **0**.
+
+Deferred for P5 source-fidelity classification without silent lexical replacement:
+
+- cover-author witness difference (`மு. கருணாநிதி` visible witness vs supplied `கலைஞர் கருணாநிதி` baseline);
+- scan-50 catalogue author/price lexical or numeric differences/omissions already documented in the canonical page record.
+
 ## Current gate status
 
 - P0 source intake / publication identification: **COMPLETE**
 - P1 metadata + contents + page-map reconstruction: **COMPLETE**
 - P2 canonical page records: **50 / 50 VERIFIED / COMPLETE**
 - P3 article/section assemblies: **6 / 6 COMPLETE / VERIFIED AGAINST P2**
-- P4 source/completeness audit: **NOT STARTED**
+- P4 source/completeness audit: **PASS / COMPLETE**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
 - English translation: **NOT STARTED**
 - blockers: **0**
 
-The archival layer continues to preserve the user-supplied lexical baseline; lexical source disagreements are not silently resolved.
+The archival layer continues to preserve the user-supplied lexical baseline. P5 is the next gate for explicit word/punctuation/source-witness fidelity classification; lexical source disagreements are not silently resolved.
