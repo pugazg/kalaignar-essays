@@ -41,7 +41,7 @@ Each unit passes T0 source prerequisite, T1 close draft, T2 bilingual fidelity r
 
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **4 / 6 PASS**
+- T1: **5 / 6 PASS**
 - T2: **4 / 6 PASS**
 - T3: **4 / 6 PASS**
 - T4: **4 / 6 PASS**
@@ -184,6 +184,34 @@ All other terminology/source-witness choices pass. Source-sensitive `பார�
 
 T5 reread the complete T4 English against the frozen Tamil and all T1–T4 decisions. Completeness, meaning, directness, polemical/religious-political force, terminology, source-witness distinctions, quotation/source treatment and page provenance all pass. **No final body correction was required.** Article 4 is individually frozen.
 
+## Article 5 — T1 COMPLETE / CLOSE DRAFT
+
+- Tamil authority: `articles/05-aariyam-pesugirathu.md`
+- frozen Tamil blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
+- English file: `translations/en/05-aariyam-pesugirathu.md`
+- working English title: **Aryanism Speaks**
+- T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
+- status: `draft`
+- source comments: **2 / 2 preserved in order** for scans 38–39
+- scan-38→39 trace: `Kula— / chirai`
+- blockers: **0**
+
+### Article 5 source-bearing decisions at T1
+
+1. `ஆரியம் பேசுகிறது` → **Aryanism Speaks**; recurring abstract `ஆரியம்` → **Aryanism**.
+2. `இரணியன் / பிரகலாதன்` → **Hiraniyan / Pragalathan**.
+3. `இராவணன் / விபீஷணன் / வாலி / சுக்ரீவன்` → **Ravanan / Vibheeshanan / Vali / Sugrivan**.
+4. `வாலிவதைப் படலம்` → **the chapter of Vali's slaying**.
+5. `கோடாரிக் காம்பு` → **axe-handle**; source name `குலச் சிறை` → **Kulachirai**, with the physical boundary retained as `Kula— / chirai`.
+6. recurring `காந்தியார் / கோட்சே` retain verified **Gandhiyar / Gotse**.
+7. `ஓமாந்தூரார்` → **Omaanthooraar**, without outside identification.
+8. quoted `ஆரியத்துக்கு எதிர்ப்பா?` → **“Opposition to Aryanism?”**.
+9. `கறுப்புப் படை` → **Black Army**, without outside expansion.
+10. closing plural `விபீஷண சுக்ரீவர்` → **Vibheeshanans and Sugrivans**; `உங்கள் இனம்` → **your race**.
+11. both source comments and the scan-38→39 physical name boundary remain explicit.
+
+T1 is a close rhetorical draft only. No T2 bilingual fidelity review has been performed.
+
 ## Publication-specific non-regression
 
 - Frozen Tamil controls; do not reopen Tamil for translation convenience or import scan alternatives.
@@ -199,9 +227,9 @@ T5 reread the complete T4 English against the frozen Tamil and all T1–T4 decis
 2. `சொர்க்க லோகத்தில்` — **T5 VERIFIED**
 3. `முரசறைவாய்` — **T5 VERIFIED**
 4. `பழிக்குப் பழி` — **T5 VERIFIED**
-5. `ஆரியம் பேசுகிறது` — **T1 NEXT**
+5. `ஆரியம் பேசுகிறது` — **T1 PASS / T2 NEXT**
 6. `கவிதைகள்`
 
 ## Exact next activity
 
-**Article 5 — `ஆரியம் பேசுகிறது` — T1 close English draft only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`; translate the complete article paragraph by paragraph from the frozen Tamil authority, preserving directness, quotation status, source comments, page trace and source-bearing forms; create/update the Article-5 English draft, record T1 provenance across durable records, and **stop before Article 5 T2**.
+**Article 5 — `ஆரியம் பேசுகிறது` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and T1 English blob `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`; compare the complete draft paragraph by paragraph for omitted meaning, added claims, names/referents, negatives, comparisons, causal relations, quotation scope and page provenance; preserve both source comments and `Kula— / chirai`; make T2 fidelity corrections only and **stop before Article 5 T3**.
