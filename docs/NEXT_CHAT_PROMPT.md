@@ -13,7 +13,7 @@ Fetch live `main` first. Preserve any newer durable state; never reset or repeat
 
 Last confirmed handover synchronization when this prompt was prepared:
 
-`8d77a987c0da3ffc96cd32e0493e610158254a15` — `Synchronize handover after Ina Muzhakkam Article 5 T1`
+`3496c35593afb4d3338a3a43dcadbcf65234bcf4` — `Synchronize handover after Ina Muzhakkam Article 5 T2`
 
 ## Mandatory startup
 
@@ -32,7 +32,7 @@ Read completely before changing anything:
 11. `publications/ina-muzhakkam/translations/en/LEXICON.md`
 12. `publications/ina-muzhakkam/translations/en/TRANSLATION_REVIEW.md`
 13. frozen Tamil `publications/ina-muzhakkam/articles/05-aariyam-pesugirathu.md`
-14. T1 English `publications/ina-muzhakkam/translations/en/05-aariyam-pesugirathu.md`
+14. T2 English `publications/ina-muzhakkam/translations/en/05-aariyam-pesugirathu.md`
 
 Articles 1–4 are T5 verified and individually frozen. They are non-regression references only; do not reopen them during Article 5 work without a genuine source-supported defect.
 
@@ -55,7 +55,7 @@ Frozen Tamil authorities:
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
 - T1: **5 / 6 PASS**
-- T2: **4 / 6 PASS**
+- T2: **5 / 6 PASS**
 - T3: **4 / 6 PASS**
 - T4: **4 / 6 PASS**
 - T5: **4 / 6 PASS**
@@ -71,19 +71,21 @@ Frozen Tamil authorities:
 
 Preserve their verified terminology/source-witness decisions only where the same Tamil form/function genuinely recurs.
 
-## Article 5 T1 durable boundary
+## Article 5 T2 durable boundary
 
 - Tamil title: `ஆரியம் பேசுகிறது`
 - frozen Tamil blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 - English file: `translations/en/05-aariyam-pesugirathu.md`
 - working English title: **Aryanism Speaks**
 - T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
-- `translation_status: draft`
+- T2 English blob: `508639503ab830e83d8cac547476c83d26a8494f`
+- `translation_status: fidelity-reviewed`
 - source comments: **2 / 2 preserved in order** for scans 38–39
 - scan-38→39: `Kula— / chirai`
+- T2 fidelity corrections: **2**
 - blockers: **0**
 
-### Article 5 source-bearing decisions at T1
+### Article 5 source-bearing decisions through T2
 
 1. `ஆரியம் பேசுகிறது` → **Aryanism Speaks**; recurring `ஆரியம்` → **Aryanism**.
 2. `இரணியன் / பிரகலாதன்` → **Hiraniyan / Pragalathan**.
@@ -96,7 +98,12 @@ Preserve their verified terminology/source-witness decisions only where the same
 9. `கறுப்புப் படை` → **Black Army**, without outside expansion.
 10. closing `விபீஷண சுக்ரீவர்` → **Vibheeshanans and Sugrivans**; `உங்கள் இனம்` → **your race**.
 
-These are T1 working decisions only. T2 must test them against the frozen Tamil rather than treating them as already verified.
+### Article 5 T2 fidelity corrections — preserve
+
+1. `அவனிடத்தில் ஆசை வலை விரித்தேன்.` — T1 **I spread a net of desire for him.** → T2 **I cast a net of desire around him.** This restores the source entrapment relation and removes the unintended implication that the speaker desires him.
+2. `ஓமாந்தூராரை அதட்டிக் கேட்டேன்` — T1 **I barked at Omaanthooraar** → T2 **I demanded of Omaanthooraar**. This removes an unsupported animal metaphor while preserving harsh questioning.
+
+T2 final findings: omitted clauses **0**; added claims **0**; name/referent defects **0**; negative/comparison/logical-relation defects **0**; quotation-scope defects **0**; source-comment/page-trace defects **0**; blockers **0**.
 
 ## Translation non-regression
 
@@ -110,17 +117,17 @@ These are T1 working decisions only. T2 must test them against the frozen Tamil 
 - preserve quotation status and source punctuation irregularities;
 - scans 24 and 37 promotions, scan 40 front matter/review and scan 50 catalogue stay outside the six English bodies;
 - Articles 1–4 verified English decisions must not be reopened without genuine source support;
-- Article 5 T1 is a draft boundary, not a verified boundary.
+- Article 5 T2 fidelity decisions are non-regression inputs to T3.
 
 ## EXACT NEXT ACTIVITY
 
-**Article 5 `ஆரியம் பேசுகிறது` — T2 bilingual fidelity review only.**
+**Article 5 `ஆரியம் பேசுகிறது` — T3 Kalaignar voice review only.**
 
 1. fetch live `main`;
 2. re-read translation plan, tracker, lexicon and review ledger;
 3. re-fetch frozen Tamil Article 5 and confirm blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`;
-4. re-fetch T1 English Article 5 and confirm blob `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`;
-5. compare the complete draft paragraph by paragraph for omitted meaning, added claims, names/referents, negatives, comparisons, causal relations, quotation scope and page provenance;
-6. preserve both source comments and `Kula— / chirai` unless a genuine source/fidelity defect requires correction;
-7. make **T2 fidelity corrections only** and record exact findings across durable records;
-8. **STOP AFTER ARTICLE 5 T2. DO NOT PERFORM ARTICLE 5 T3 IN THE SAME ACTIVITY.**
+4. re-fetch T2 English Article 5 and confirm blob `508639503ab830e83d8cac547476c83d26a8494f`;
+5. read the English as English while comparing to Tamil for directness, sarcasm, mockery, first-person personification, rhetorical questions, abrupt contrasts, vivid images and repeated force;
+6. preserve both T2 fidelity corrections, both source comments, `Kula— / chirai`, quotation scope and all source-bearing forms unless a genuine voice-only refinement is required;
+7. make **T3 voice/style-only corrections** and record exact findings across durable records;
+8. **STOP AFTER ARTICLE 5 T3. DO NOT PERFORM ARTICLE 5 T4 IN THE SAME ACTIVITY.**
