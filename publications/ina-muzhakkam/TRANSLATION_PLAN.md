@@ -59,7 +59,7 @@ After all six reach T5:
 - E0 planning/setup: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
 - T1: **1 / 6 PASS**
-- T2: **0 / 6**
+- T2: **1 / 6 PASS**
 - T3: **0 / 6**
 - T4: **0 / 6**
 - T5: **0 / 6**
@@ -67,18 +67,30 @@ After all six reach T5:
 - E7: **NOT STARTED**
 - blockers: **0**
 
-## Article 1 — T1 COMPLETE / PASS
+## Article 1 — T2 COMPLETE / PASS
 
 - Tamil authority: `articles/01-ina-muzhakkam.md`
 - frozen Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
 - English file: `translations/en/01-ina-muzhakkam.md`
-- working English title: **The Clarion Call of the Race**
+- working English title: **The Clarion Call of the Race** — T2 confirmed, not T5-frozen
 - T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
-- translation status: `draft`
+- T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`
+- translation status: `fidelity-reviewed`
 - source-page comments: **8 / 8 preserved in order**
+- T2 body corrections: **5**
+- omitted clauses after T2: **0**
+- added claims after T2: **0**
 - blockers: **0**
 
-T1 established the first contextual lexicon decisions for `இன முழக்கம்`, explicit `திராவிட இனம்` / `ஆரிய இனம்`, `திராவிடன்`, `சுயமரியாதைக்காரன்`, repeated `தமிழன்`, `கிராமணியார்`, frozen `கனக விசயர்`, `பாரிவள்ளல்`, and `அருட்பெருஞ் சோதி`. These are working T1 decisions and remain subject to T2–T5 review.
+T2 compared every frozen Tamil paragraph/clause against the T1 draft and made only fidelity corrections:
+
+1. `கல்லேற்றி`: `stones` → `a stone`.
+2. incomplete `அளித் ....`: removed the silently completed `I gave`; retained an incomplete English `giv....` treatment.
+3. `உங்களிடம் காட்டுவான்`: restored the explicit addressee with `show you`.
+4. `புலவர்களுக் கெல்லாம்`: restored `all the poets`.
+5. `நாட்டில்`: `through the country` → `in the country`.
+
+T2 confirmed the Article-1 working decisions for `இன முழக்கம்`, explicit `திராவிட இனம்` / `ஆரிய இனம்`, `திராவிடன்`, `சுயமரியாதைக்காரன்`, repeated `தமிழன்`, `காமராஜ நாடார்`, `கிராமணியார்`, frozen `கனக விசயர்`, `பாரிவள்ளல்`, and `அருட்பெருஞ் சோதி`. No T3 voice/style polishing was performed.
 
 ## Publication-specific translation constraints
 
@@ -97,11 +109,13 @@ T1 established the first contextual lexicon decisions for `இன முழக�
 
 The frozen Tamil assemblies preserve the user-approved lexical layer. Known scan/baseline disagreements include `பாரட்டத்`, `ஜோதில்கலந்தான்`, `மனமுள்ளார்`, `ஏறிபத்தர்`, `முடுக்கினாள்`, `போர் வீரனாம்`, and `கதறினாள்`. Translate the frozen Tamil context; do not translate from the scan alternative instead.
 
+Article 1 additionally has frozen incomplete forms `சுயமரியாதைக் ....` and `அளித் ....`; later gates must not silently complete them.
+
 The non-body scan-50 numeric/author conflicts are not translation inputs because the catalogue is excluded from the six bodies.
 
 ## Title policy
 
-English titles are established during each article's T1 activity from the frozen Tamil title. Article 1 working title is **The Clarion Call of the Race** and is not release-frozen until T5.
+English titles are established during each article's T1 activity from the frozen Tamil title. Article 1 working title **The Clarion Call of the Race** passed T2 fidelity review unchanged and is not release-frozen until T5.
 
 ## Article order
 
@@ -116,6 +130,6 @@ Translation proceeds in source order:
 
 ## Exact next activity
 
-**Article 1 — `இன முழக்கம்` — T2 bilingual fidelity review only.**
+**Article 1 — `இன முழக்கம்` — T3 Kalaignar voice review only.**
 
-Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T1 English blob `b3022e69387662584064d51133e24f4f97e976b2`, compare every paragraph/clause and all eight source-page comments, correct only fidelity defects, update tracker/lexicon/review/handover, then **stop before T3**.
+Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T2 English blob `6b37eec63209bff533666ce6ff8518c1cba6f733`; review directness, sarcasm, rhetorical questions, commands, repetition, imagery and polemical temperature while preserving every T2 fidelity correction, update tracker/lexicon/review/handover, then **stop before T4**.
