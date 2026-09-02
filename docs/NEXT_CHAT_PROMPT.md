@@ -13,7 +13,7 @@ Fetch live `main` first. Preserve any newer durable state; never reset or repeat
 
 Last confirmed handover synchronization when this prompt was prepared:
 
-`a265abb38a5bc746868dc197f105a659b040e044` — `Synchronize handover after Ina Muzhakkam Article 5 T3`
+`70c94ebdc1adac273fa0a16b80f873dfb45939a1` — `Synchronize handover after Ina Muzhakkam Article 5 T4`
 
 ## Mandatory startup
 
@@ -32,7 +32,7 @@ Read completely before changing anything:
 11. `publications/ina-muzhakkam/translations/en/LEXICON.md`
 12. `publications/ina-muzhakkam/translations/en/TRANSLATION_REVIEW.md`
 13. frozen Tamil `publications/ina-muzhakkam/articles/05-aariyam-pesugirathu.md`
-14. T3 English `publications/ina-muzhakkam/translations/en/05-aariyam-pesugirathu.md`
+14. T4 English `publications/ina-muzhakkam/translations/en/05-aariyam-pesugirathu.md`
 
 Articles 1–4 are T5 verified and individually frozen. They are non-regression references only; do not reopen them during Article 5 work without a genuine source-supported defect.
 
@@ -57,7 +57,7 @@ Frozen Tamil authorities:
 - T1: **5 / 6 PASS**
 - T2: **5 / 6 PASS**
 - T3: **5 / 6 PASS**
-- T4: **4 / 6 PASS**
+- T4: **5 / 6 PASS**
 - T5: **4 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
@@ -71,7 +71,7 @@ Frozen Tamil authorities:
 
 Preserve their verified terminology/source-witness decisions only where the same Tamil form/function genuinely recurs.
 
-## Article 5 T3 durable boundary
+## Article 5 T4 durable boundary
 
 - Tamil title: `ஆரியம் பேசுகிறது`
 - frozen Tamil blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
@@ -80,32 +80,33 @@ Preserve their verified terminology/source-witness decisions only where the same
 - T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
 - T2 English blob: `508639503ab830e83d8cac547476c83d26a8494f`
 - T3 English blob: `77310ccb8bac5304f15050ee0988ae26d8302b10`
-- `translation_status: voice-reviewed`
+- T4 English blob: `1ecb77039eec8976ac4b25e4ff1b7dd0de2fad7e`
+- `translation_status: voice-reviewed` pending T5
 - source comments: **2 / 2 preserved in order** for scans 38–39
 - scan-38→39: `Kula— / chirai`
-- T2 fidelity corrections: **2 / 2 preserved**
-- T3 voice/style body corrections: **0**
 - blockers: **0**
 
-### Article 5 source-bearing decisions through T3
+### Article 5 source-bearing decisions through T4
 
 1. `ஆரியம் பேசுகிறது` → **Aryanism Speaks**; recurring `ஆரியம்` → **Aryanism**.
 2. `இரணியன் / பிரகலாதன்` → **Hiraniyan / Pragalathan**.
 3. `இராவணன் / விபீஷணன் / வாலி / சுக்ரீவன்` → **Ravanan / Vibheeshanan / Vali / Sugrivan**.
 4. `வாலிவதைப் படலம்` → **the chapter of Vali's slaying**.
 5. `கோடாரிக் காம்பு` → **axe-handle**; `குலச் சிறை` → **Kulachirai**, preserving scan-38→39 as `Kula— / chirai`.
-6. recurring `காந்தியார் / கோட்சே` → verified **Gandhiyar / Gotse**.
-7. `ஓமாந்தூரார்` → **Omaanthooraar**, without outside identification.
+6. recurring `காந்தியார் / கோட்சே` → **Gandhiyar / Gotse**.
+7. `ஓமாந்தூரார்` → **Omaanthooraar**.
 8. quoted `ஆரியத்துக்கு எதிர்ப்பா?` → **“Opposition to Aryanism?”**.
-9. `கறுப்புப் படை` → **Black Army**, without outside expansion.
+9. `கறுப்புப் படை` → **Black Army**.
 10. closing `விபீஷண சுக்ரீவர்` → **Vibheeshanans and Sugrivans**; `உங்கள் இனம்` → **your race**.
 
-### Article 5 T2 corrections preserved at T3
+### T2 / T3 / T4 non-regression
+
+T2 made exactly two fidelity corrections and both remain intact:
 
 1. **I spread a net of desire for him.** → **I cast a net of desire around him.**
 2. **I barked at Omaanthooraar** → **I demanded of Omaanthooraar**.
 
-T3 found that the fidelity-reviewed English already preserved Kalaignar's first-person personification, sarcasm/mockery, rhetorical questions, abrupt contrasts, physical imagery, repetition and boastful cadence. **No T3 body correction was required.** Both T2 corrections, all source-bearing forms, both source comments, `Kula— / chirai` and quotation scope remain intact.
+T3 required **0** body corrections. T4 required **0** body corrections and closed with **0** terminology defects, **0** source-witness defects, **0** quotation/citation defects and **0** source-comment/page-trace defects. The T4 blob differs from T3 only because translation-method metadata records T4 completion.
 
 ## Translation non-regression
 
@@ -119,17 +120,17 @@ T3 found that the fidelity-reviewed English already preserved Kalaignar's first-
 - preserve quotation status and source punctuation irregularities;
 - scans 24 and 37 promotions, scan 40 front matter/review and scan 50 catalogue stay outside the six English bodies;
 - Articles 1–4 verified English decisions must not be reopened without genuine source support;
-- Article 5 T3 is voice-reviewed, not yet terminology/source-audited or verified.
+- Article 5 is not yet verified until T5 passes.
 
 ## EXACT NEXT ACTIVITY
 
-**Article 5 `ஆரியம் பேசுகிறது` — T4 terminology / quotation / citation / source audit only.**
+**Article 5 `ஆரியம் பேசுகிறது` — T5 final article verification only.**
 
 1. fetch live `main`;
 2. re-read translation plan, tracker, lexicon and review ledger;
 3. re-fetch frozen Tamil Article 5 and confirm blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`;
-4. re-fetch T3 English Article 5 and confirm blob `77310ccb8bac5304f15050ee0988ae26d8302b10`;
-5. audit the title and ideological terminology, source-specific proper names, recurring source-witness forms, quotation scope, source-page comments and scan-38→39 `Kula— / chirai`;
-6. preserve both T2 fidelity corrections and the T3 zero-body-change result unless a genuine T4 defect requires correction;
-7. make **T4 terminology / quotation / citation / source-audit corrections only** and record exact findings across durable records;
-8. **STOP AFTER ARTICLE 5 T4. DO NOT PERFORM ARTICLE 5 T5 IN THE SAME ACTIVITY.**
+4. re-fetch T4 English Article 5 and confirm blob `1ecb77039eec8976ac4b25e4ff1b7dd0de2fad7e`;
+5. reread the complete English against frozen Tamil and all T1–T4 decisions for final completeness, meaning, directness/voice, terminology, quotation/source treatment and page provenance;
+6. preserve both T2 corrections, T3 zero-body-change result, T4 zero-defect audit, all source-bearing forms, both source comments and `Kula— / chirai` unless a genuine final defect requires correction;
+7. if clean, set `translation_status: verified`, record the T5 verified English blob, mark Article 5 individually frozen, and synchronize durable records;
+8. **STOP AFTER ARTICLE 5 T5. DO NOT START ARTICLE 6 T1 IN THE SAME ACTIVITY.**
