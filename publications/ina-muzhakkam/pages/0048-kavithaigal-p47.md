@@ -8,21 +8,21 @@ page_type: "poetry-page"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-transcription_method: "user lexical baseline retained; poem close/new heading and source lineation directly verified against source scan"
+transcription_method: "user lexical baseline retained; P5 source dash punctuation, poem close/new heading and verse lineation directly verified against source scan"
 ---
 
 # அச்சு உரை
 
 பிறந்த போதும் மகிழ்ச்சிக்கு  
-எல்லையுண்டு - அவன்  
+எல்லையுண்டு—அவன்  
 இறந்து கிடந்தான் ஈட்டிக்கு மார்பு காட்டி!  
-இதைக் கண்டாள் - இதயங் குளிர்ந்தாள்!
+இதைக் கண்டாள்—இதயங் குளிர்ந்தாள்!
 
 “எதைக் கண்டாலும் இனிக்கவலை இல்லை  
 என் மகன் வீரனாய் இறந்தான்” என்றாள்  
 அறுத்தெறிய இருந்தேன்  
-அவன் குடித்த மார்பை  
-அடடா! கருத்தெரிய பொய் சொன்ன கயவனெங்கே?  
+அவன் குடித்த மார்பை அடடா!  
+கருத்தெரிய பொய் சொன்ன கயவனெங்கே?  
 வாளிங்கே! அவன் நாக்கெங்கே?
 
 # தோல்வி எப்பொழுது?
@@ -39,7 +39,8 @@ transcription_method: "user lexical baseline retained; poem close/new heading an
 வாகை சூடி வாழ்ந்திருந்து  
 சண்டைக்குச் சளைக்காத  
 சிங்கத் தமிழக்காளை யெல்லாம்  
-நண்டுக்குப் பயந்தொளிந்த நரியைப்போல் - ஆரிய  
+நண்டுக்குப் பயந்தொளிந்த  
+நரியைப்போல்—ஆரிய  
 வெண்டைக்காய் வீரரிடம்  
 வெற்றிகளைக் கொடுத்திடுவார்!
 
@@ -51,5 +52,7 @@ transcription_method: "user lexical baseline retained; poem close/new heading an
 
 - Printed page numeral `47` is directly visible.
 - Opening completes scan-47 `மகன்` and closes `வாளிங்கே!` before the new heading `தோல்வி எப்பொழுது?`.
+- **P5 scan 48 PASS:** source long-dash punctuation and verse lineation were restored at `எல்லையுண்டு—அவன்`, `கண்டாள்—இதயங்`, and `நரியைப்போல்—ஆரிய`; `அவன் குடித்த மார்பை அடடா!` is restored as one source line.
+- Lexical scan/baseline disagreements on scan 48: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 48; அச்சுப் பக்கம்: 47 -->
