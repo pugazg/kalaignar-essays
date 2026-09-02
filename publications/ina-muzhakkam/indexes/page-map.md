@@ -65,14 +65,36 @@ The PDF is already in physical reading order. Printed numerals are recorded only
 - canonical page records currently present: **50 / 50**
 - **P2 COMPLETE**
 
+## P3 assembly map
+
+| P3 unit | Canonical scan range | Reading assembly | P3 status |
+|---|---|---|---|
+| `இன முழக்கம்` | 6–13 | [`../articles/01-ina-muzhakkam.md`](../articles/01-ina-muzhakkam.md) | **complete** |
+| `சொர்க்க லோகத்தில்` | 14–24 | [`../articles/02-sorgga-logaththil.md`](../articles/02-sorgga-logaththil.md) | **complete** |
+| `முரசறைவாய்` | 25–29 | [`../articles/03-murasaraivai.md`](../articles/03-murasaraivai.md) | **complete** |
+| `பழிக்குப் பழி` | 30–37 | [`../articles/04-pazhikku-pazhi.md`](../articles/04-pazhikku-pazhi.md) | **complete** |
+| `ஆரியம் பேசுகிறது` | 38–39 | [`../articles/05-aariyam-pesugirathu.md`](../articles/05-aariyam-pesugirathu.md) | **complete** |
+| `கவிதைகள்` | 41–49 | [`../articles/06-kavithaigal.md`](../articles/06-kavithaigal.md) | **complete** |
+
+P3 total: **6 / 6 COMPLETE / VERIFIED AGAINST P2**.
+
+Excluded by design from P3 body assemblies:
+
+- scans 1–5 front matter;
+- scan-24 `திராவிட சம்பத்து` promotion;
+- scan-37 two-novel promotion;
+- scan-40 `கவிதைகளைப் பற்றி` / `மதிப்புரை` author-review front matter;
+- scan-50 catalogue / advertisement.
+
 ## Structural boundary findings
 
 - scan 10 user correction is controlling: `விசயர்` is not noise and belongs in `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`.
 - heading scans 6, 14, 25, 30 and 38 do not receive inferred printed numerals.
-- `பழிக்குப் பழி` final lines visible on scan 37 were misplaced into the supplied scan-36 transcription; they are canonically placed on scan 37.
+- `பழிக்குப் பழி` final lines visible on scan 37 were misplaced into the supplied scan-36 transcription; they are canonically placed on scan 37 and in the P3 assembly.
 - poem heading `வா!` belongs to scan 43, not the end of scan 42.
 - poem heading `யோசித்துப் பார்!` belongs to scan 44, not the end of scan 43.
-- scan 24 promotional matter after the separator is not part of `சொர்க்க லோகத்தில்`.
-- scan 37 promotional matter after the separator is not part of `பழிக்குப் பழி`.
-- scan 40 is poetry introductory/review matter; the contents witness `கவிதைகள் 40` corresponds to the poem section beginning on scan 41 / printed 40, so scan 40 is preserved separately rather than forced into the poem body.
+- scan 24 promotional matter after the separator is not part of `சொர்க்க லோகத்தில்` and is excluded from its assembly.
+- scan 37 promotional matter after the separator is not part of `பழிக்குப் பழி` and is excluded from its assembly.
+- scan 40 is poetry introductory/review matter; the contents witness `கவிதைகள் 40` corresponds to the poem section beginning on scan 41 / printed 40, so scan 40 remains outside the poem assembly.
 - scan 50 is catalogue matter outside all article/poetry bodies; structural author/title association is recorded without silently repairing lexical/number differences in the supplied baseline.
+- P3 preserves P2 page-boundary comments and introduces no lexical normalisation.
