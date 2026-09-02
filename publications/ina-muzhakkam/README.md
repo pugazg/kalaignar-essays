@@ -35,10 +35,15 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - P5 page-level strict review: **50 / 50 PASS**
 - P5 assembly recheck: **6 / 6 PASS**
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- English translation: **NOT STARTED**
+- E0 English translation planning/setup: **COMPLETE / PASS**
+- T0 source prerequisites: **6 / 6 PASS**
+- T1–T5: **0 / 6**
+- E6: **NOT STARTED**
+- E7: **NOT STARTED**
 - blockers: **0**
 
-Canonical P5 review: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
+Canonical P5 review: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).  
+English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 
 ## Frozen Tamil authorities
 
@@ -49,6 +54,8 @@ Canonical P5 review: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REV
 5. `ஆரியம் பேசுகிறது` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `கவிதைகள்` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
+All six were re-fetched and matched exactly at E0.
+
 ## Permanent non-regression
 
 - scan 10 remains `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
@@ -56,12 +63,18 @@ Canonical P5 review: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REV
 - scan 36→37 remains `இந்த மதத்தைப் பழிக்குப்` / `பழி வாங்க வேண்டாமா?`;
 - scan 41 heading remains `ஏற்பரோ!`;
 - scan 49 heading remains `வருணமா? மரணமா?`;
-- promotions/catalogue/front matter remain outside the six body assemblies;
-- no supplied lexical token is silently normalised.
+- promotions/catalogue/front matter remain outside the six body assemblies and therefore outside the six English translation bodies unless separately authorised;
+- no supplied lexical token is silently normalised;
+- English translation must use the frozen Tamil assemblies, not raw transcription/OCR or scan-alternate lexical readings;
+- `கவிதைகள்` English must preserve source poem headings and lineation.
 
 ## Important records
 
 - [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md)
+- [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
+- [`translations/en/README.md`](translations/en/README.md)
+- [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 - [`P5_PAGE_BY_PAGE_POLICY.md`](P5_PAGE_BY_PAGE_POLICY.md)
 - [`SOURCE_COMPLETENESS_AUDIT.md`](SOURCE_COMPLETENESS_AUDIT.md)
 - [`STRUCTURAL_REASSEMBLY_REVIEW.md`](STRUCTURAL_REASSEMBLY_REVIEW.md)
@@ -71,4 +84,4 @@ Canonical P5 review: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REV
 
 ## Exact next activity
 
-**E0 — English translation planning/setup only.** Create the translation plan/tracker/lexicon/review framework from the six frozen Tamil blobs above, then stop before T1 translation.
+**Article 1 — `இன முழக்கம்` — T1 close English draft only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`, establish the working English title and first lexicon decisions, translate the complete frozen assembly with ordered source-page comments, update tracker/lexicon/review/handover, then stop before T2.
