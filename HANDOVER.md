@@ -24,7 +24,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `5941c50827c752f433034e7281a6a4c4a9c6c572` — `Record Ina Muzhakkam Article 1 T2 provenance`.
+- Last confirmed live HEAD immediately before this handover synchronization: `d51e54fc62a6886a0c3c4343ba00a7d7930d4244` — `Record Ina Muzhakkam Article 1 T3 provenance`.
 
 ---
 
@@ -83,7 +83,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 5 — இன முழக்கம் — TAMIL FROZEN / ARTICLE 1 T2 PASS
+# Publication 5 — இன முழக்கம் — TAMIL FROZEN / ARTICLE 1 T3 PASS
 
 Workspace: `publications/ina-muzhakkam/`  
 Controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`
@@ -148,7 +148,7 @@ Canonical P5 record: `publications/ina-muzhakkam/VISUAL_TEXT_FIDELITY_REVIEW.md`
 5. `articles/05-aariyam-pesugirathu.md` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `articles/06-kavithaigal.md` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-E0 re-fetch verification: **6 / 6 exact SHA matches / T0 PASS**. Article 1 was re-fetched again at T2 and still matched its frozen SHA.
+E0 re-fetch verification: **6 / 6 exact SHA matches / T0 PASS**. Article 1 was re-fetched again at T2 and T3 and still matched its frozen SHA.
 
 ## English gate status
 
@@ -156,59 +156,68 @@ E0 re-fetch verification: **6 / 6 exact SHA matches / T0 PASS**. Article 1 was r
 - T0: **6 / 6 PASS**
 - T1: **1 / 6 PASS**
 - T2: **1 / 6 PASS**
-- T3: **0 / 6**
+- T3: **1 / 6 PASS**
 - T4: **0 / 6**
 - T5: **0 / 6**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - English blockers: **0**
 
-## Article 1 — `இன முழக்கம்` — T2 COMPLETE / PASS
+## Article 1 — `இன முழக்கம்` — T3 COMPLETE / PASS
 
 - frozen Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
 - English file: `publications/ina-muzhakkam/translations/en/01-ina-muzhakkam.md`
-- working English title: **The Clarion Call of the Race** — T2 confirmed, not T5-frozen
+- working English title: **The Clarion Call of the Race** — T3 confirmed, not T5-frozen
 - T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
 - T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`
-- `translation_status`: `fidelity-reviewed`
+- T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`
+- `translation_status`: `voice-reviewed`
 - source-page comments: **8 / 8 preserved in order** for scans 6–13
-- omitted Tamil sentences/clauses after T2: **0**
-- added outside claims after T2: **0**
-- incorrect negatives/comparisons/logical connectors after T2: **0**
-- name/referent defects after T2: **0**
-- quotation completeness defects after T2: **0**
-- deliberate-repetition losses after T2: **0**
+- T2 fidelity corrections preserved: **5 / 5**
+- T3 voice/style body corrections: **10**
+- meaning/fidelity regressions introduced at T3: **0**
 - Tamil source changes: **0**
 - blockers: **0**
 
-### Article 1 T2 fidelity corrections
+### Article 1 T2 fidelity corrections preserved
 
-T2 made **five fidelity-only body corrections**:
+1. `கல்லேற்றி` remains singular in English: **a stone**.
+2. frozen incomplete `அளித் ....` remains incomplete as **`giv....`**; no missing finite verb supplied.
+3. `உங்களிடம் காட்டுவான்` retains explicit **show you**.
+4. `புலவர்களுக் கெல்லாம்` retains **all the poets**.
+5. closing `நாட்டில்` remains **in the country**, not `through the country`.
 
-1. `கல்லேற்றி` — **“With stones loaded onto...”** → **“With a stone loaded onto...”**, removing an English plural not present in the frozen Tamil.
-2. frozen incomplete `அளித் ....` — removed the silently completed **“I gave”** and retained the source incompletion as **`giv....`**; do not guess the missing Tamil ending.
-3. `உங்களிடம் காட்டுவான்` — restored the omitted explicit addressee with **“He will show you the Bhagavad Gita...”**.
-4. `புலவர்களுக் கெல்லாம்` — restored the omitted quantifier as **“all the poets”**.
-5. closing `நாட்டில்` — **“sounding through the country”** → **“sounding in the country”**, removing the added `throughout` implication.
+### Article 1 T3 voice corrections
 
-### Article 1 T2-confirmed working decisions
+1. `இந்திரனைக் கூடிய` — **was with Indra** → **coupled with Indra**.
+2. `சந்திரனைக் காமுற்ற` — **desired the Moon** → **lusted after the Moon**.
+3. `அழியாத பத்தினி` — **imperishable chaste wife** → **immortal chaste wife**.
+4. Ilango's vow — stiff **I thundered in a vow** → **I thundered my vow**.
+5. Ilango's `என்பெயரும் ... சரியாகத் தெரியாது` received natural English word order without changing meaning.
+6. Pisiranthaiyar's death clause — **I had died** → **I was dead**, retaining `touch my ears`.
+7. Sai Baba ridicule was tightened without losing `heart / button / ring / body` imagery.
+8. Senguttuvan's action became active first person — **I loaded a stone... engraved... returned spreading...** — while preserving T2 singular and meaning.
+9. Vallal Pari `கேட்டுப் பாருங்கள்` became direct **try asking the Tamilian**, preserving the source page boundary.
+10. Closing rhetoric — **Thus asks** → **So asks**; `இந்நிலை மாறாதா?` → **Won't this state change?**.
+
+### Article 1 T3-confirmed working decisions
 
 - `இன முழக்கம்` → **The Clarion Call of the Race**; contextual closing occurrence → **the clarion call of the race**.
 - `திராவிடன்` → **Dravidian**.
 - explicit `திராவிட இனம்` / `ஆரிய இனம்` → **Dravidian race / Aryan race**.
 - `சுயமரியாதைக்காரன்` → **Self-Respecter**.
 - frozen incomplete `சுயமரியாதைக் ....` → **Self-Respect ....**; do not guess the missing source word.
-- frozen incomplete `அளித் ....` remains incomplete in English; do not silently restore a finite verb at later gates.
+- frozen incomplete `அளித் ....` remains incomplete; do not silently restore a finite verb.
 - repeated `தமிழன்` → **Tamilian**.
 - `காமராஜ நாடார்` → **Kamaraj Nadar**.
 - `கிராமணியார்` → **Gramaniyar**.
-- frozen user-established `கனக விசயர்` → **Kanaka Visayar**, retained as a source-bearing compound label without outside identification.
+- frozen `கனக விசயர்` → **Kanaka Visayar** without outside identification.
 - `பாரிவள்ளல்` → **Vallal Pari**; descriptive `கொடை வள்ளல்` → **great giver**.
 - `அருட்பெருஞ் சோதி` → **Arutperum Jothi**.
-- `வடலூர் இராமலிங்கம்` speaker label remains **Vadalur Ramalingam**, while source-vocative `வடலூர் இராமலிங்கரே` remains **Vadalur Ramalingar**; do not harmonise the source distinction merely for neatness.
-- scan-9→10 frozen split `அல்லலுற்` / `றோமே` remains traceable in English as `suf—` / `fer......`.
+- `வடலூர் இராமலிங்கம்` speaker label remains **Vadalur Ramalingam**, while vocative `வடலூர் இராமலிங்கரே` remains **Vadalur Ramalingar**.
+- scan-9→10 frozen split `அல்லலுற்` / `றோமே` remains traceable as `suf—` / `fer......`.
 
-These decisions passed T2 fidelity review but remain subject to T3–T5; they are not release-frozen.
+These decisions passed T3 voice review but remain subject to T4–T5 and are not release-frozen.
 
 ## Translation non-regression
 
@@ -231,17 +240,17 @@ These decisions passed T2 fidelity review but remain subject to T3–T5; they ar
 
 # Exact next activity
 
-**Publication 5 — Article 1 `இன முழக்கம்` — T3 Kalaignar voice review only.**
+**Publication 5 — Article 1 `இன முழக்கம்` — T4 terminology / quotation / citation / source audit only.**
 
 Required steps:
 
 1. fetch live `main` first;
 2. re-read translation plan, tracker, lexicon and review ledger;
 3. re-fetch frozen Tamil Article 1 and confirm blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`;
-4. re-fetch T2 English Article 1 and confirm blob `6b37eec63209bff533666ce6ff8518c1cba6f733`;
-5. review the English against Tamil for Kalaignar's directness, sarcasm, rhetorical questions, commands, deliberate repetition, vivid imagery, abrupt contrasts and polemical temperature;
-6. preserve all T2 fidelity corrections and all **8 / 8** ordered source-page comments;
-7. do not silently complete `சுயமரியாதைக் ....` or `அளித் ....`, neutralise ideological/social labels, or import outside identifications;
-8. make **voice/style corrections only where needed without changing T2 meaning/fidelity**;
-9. if PASS, set the appropriate T3 status, record the resulting T3 English blob and exact findings/corrections in tracker/plan/lexicon/review/handover;
-10. **stop after T3. Do not perform T4 in the same activity.**
+4. re-fetch T3 English Article 1 and confirm blob `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`;
+5. audit the working title, recurring ideological/social labels, names/referents, source-specific transliterations, quotation completeness/scope, all **8 / 8** source-page comments, source-sensitive incomplete forms and source-witness distinctions;
+6. preserve all T2 fidelity and T3 voice corrections unless a genuine T4 defect requires a source-supported change;
+7. do not silently complete `சுயமரியாதைக் ....` or `அளித் ....`, harmonise `Vadalur Ramalingam / Ramalingar`, identify `Kanaka Visayar` externally, or import scan-alternate Tamil readings;
+8. make **T4 audit corrections only**;
+9. if PASS, record the resulting T4 English blob and exact findings/corrections in tracker/plan/lexicon/review/handover;
+10. **stop after T4. Do not perform T5 in the same activity.**
