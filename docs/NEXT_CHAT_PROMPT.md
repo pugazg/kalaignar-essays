@@ -20,7 +20,7 @@ Controlling source:
 
 Fetch live `main` first. The last confirmed durable state before this prompt synchronization includes:
 
-`f348319ba16022edd425cdb92f62efff21c72bc5` — `Synchronize Ina Muzhakkam source metadata after P2`
+`e2aa7950ceb22211d5ec40513c9a86ac6ae3bc7f` — `Advance root status through Ina Muzhakkam P3 completion`
 
 If `main` has advanced, preserve the newer durable state. **Do not reset, overwrite, repeat or reopen later completed work merely because this prompt records an older checkpoint.**
 
@@ -42,6 +42,7 @@ Read completely before changing anything:
 10. `publications/ina-muzhakkam/STRUCTURAL_REASSEMBLY_REVIEW.md`
 11. `publications/ina-muzhakkam/transcription-intake/USER_CORRECTIONS.md`
 12. all canonical P2 records under `publications/ina-muzhakkam/pages/`
+13. all six P3 assemblies under `publications/ina-muzhakkam/articles/`
 
 ## Publication-specific user rule
 
@@ -49,7 +50,7 @@ The user supplied the complete word-to-word transcription and explicitly instruc
 
 > **Keep the words. Correct only structural order, punctuation, spacing, paragraphing, headings, misplaced words and analogous layout issues; remove unwanted non-source/OCR words.**
 
-The user transcription remains the lexical baseline. P2 has already applied source-supported structure and user-authorised placement corrections. Do **not** silently substitute scan-appearing lexical variants during P3 assembly.
+The user transcription remains the lexical baseline. P2 applied source-supported structure and user-authorised placement corrections; P3 assembled only from canonical P2 records. Do **not** silently substitute scan-appearing lexical variants during P4.
 
 ## Durable state
 
@@ -59,26 +60,37 @@ The user transcription remains the lexical baseline. P2 has already applied sour
 - P1: **COMPLETE**
 - structural transcription reassembly: **COMPLETE / STAGING**
 - P2 canonical page records: **50 / 50 VERIFIED / COMPLETE**
-- P3 assemblies: **0 / 6**
+- P3 assemblies: **6 / 6 COMPLETE / VERIFIED AGAINST P2**
 - P4: **NOT STARTED**
 - P5: **NOT STARTED**
 - English translation: **NOT STARTED**
 - blockers: **0**
 
-P2 non-regression:
+P3 assembly authorities:
 
-- printed text / physical-copy marks separated on all 50 records;
-- only directly visible printed numerals recorded;
+1. `articles/01-ina-muzhakkam.md` — blob `60e5247f54b3c96e66079bf4b34740fa5ccb1ad1`
+2. `articles/02-sorgga-logaththil.md` — blob `adff0de00c120e0c737aca0cd0bc9ed6adcaecd1`
+3. `articles/03-murasaraivai.md` — blob `698c178ee5a65e9fe53543be2136e6691f5a8dad`
+4. `articles/04-pazhikku-pazhi.md` — blob `d9c57a7a55ab33310b512c34322186cc55a04ef8`
+5. `articles/05-aariyam-pesugirathu.md` — blob `651063d641ddbc53c1688e92b13d976b169d04ee`
+6. `articles/06-kavithaigal.md` — blob `a11dfc65bfd83c316e090c793f1ede102a72ac21`
+
+Non-regression:
+
+- printed text / physical-copy marks remain separated on all 50 P2 records;
+- only directly visible printed numerals are recorded;
 - heading scans 6, 14, 25, 30 and 38 use `printed_page: null`;
-- scan 10 retains exactly `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
-- scan 22 trailing `2` excluded as non-source noise;
-- scan 24 promotion outside `சொர்க்க லோகத்தில்`;
-- `பழிக்குப் பழி` final lines canonically on scan 37, with following promotion outside article;
-- scan 40 is poetry introductory/review matter, outside the `கவிதைகள்` body;
+- scan 10 retains exactly `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...` in both P2 and P3;
+- scan 22 trailing `2` remains excluded as non-source noise;
+- scan 24 promotion remains outside `சொர்க்க லோகத்தில்`;
+- `பழிக்குப் பழி` final lines remain on scan 37 and the following promotion remains outside the article;
+- scan 40 remains poetry introductory/review matter outside the `கவிதைகள்` body;
 - `வா!` begins scan 43;
 - `யோசித்துப் பார்!` begins scan 44;
-- scans 41–49 preserve source-supported poetry headings/lineation;
-- scan 50 is catalogue matter outside all body units; source/baseline lexical or number differences there remain deferred rather than silently rewritten.
+- scans 41–49 preserve source-supported poetry headings and lineation;
+- scan 50 remains catalogue matter outside all body units;
+- no lexical normalisation was introduced in P3;
+- known cover-author and scan-50 lexical/number source/baseline differences remain deferred for explicit audit/fidelity handling.
 
 Printed contents witness:
 
@@ -91,26 +103,27 @@ Printed contents witness:
 
 ## EXACT NEXT ACTIVITY
 
-Proceed with **P3 article/section assembly** from the verified canonical P2 page records.
+Proceed with **P4 source/completeness audit** only.
 
-Create exactly these six reading assemblies:
+Audit the completed canonical P2 page layer and the six P3 assemblies. Confirm:
 
-1. `இன முழக்கம்` — scans 6–13;
-2. `சொர்க்க லோகத்தில்` — scans 14–24, excluding the scan-24 `திராவிட சம்பத்து` promotion;
-3. `முரசறைவாய்` — scans 25–29;
-4. `பழிக்குப் பழி` — scans 30–37, excluding the scan-37 two-novel promotion;
-5. `ஆரியம் பேசுகிறது` — scans 38–39;
-6. `கவிதைகள்` — scans 41–49, preserving all source-visible poem headings and verse lineation.
+1. all **50 / 50** physical scans have canonical P2 records;
+2. the six contents-listed reading assemblies exist exactly once;
+3. each assembly begins and ends on the source-supported scan boundaries recorded in the page map;
+4. page-to-page continuations occur in correct order with provenance comments retained;
+5. scan-10 `விசயர்` placement remains exact;
+6. scan-24 and scan-37 promotional matter is absent from article bodies;
+7. scan-40 `கவிதைகளைப் பற்றி` / `மதிப்புரை` material is absent from the `கவிதைகள்` body;
+8. scan-50 catalogue is absent from all six body assemblies;
+9. all poetry headings and verse lineation agree with canonical P2;
+10. contents-page start-number witnesses remain distinct from directly visible page numerals;
+11. no physical-copy marks were imported into printed/body text;
+12. no silent lexical normalisation was introduced during P2 or P3;
+13. known deferred scan/baseline lexical or number disagreements are explicitly classified/documented for P5 rather than silently corrected;
+14. blocked/needs-review counts and publication completeness result are explicitly recorded.
 
-Requirements:
+Create/update the appropriate P4 audit/completeness record and synchronize publication README, metadata/indexes, root `HANDOVER.md`, root README and this prompt as needed.
 
-1. assemble from canonical `pages/` records, **not** the staging transcription;
-2. preserve P2 wording and punctuation without lexical normalisation;
-3. include page-boundary provenance/comments;
-4. preserve scan-10 `விசயர்` placement exactly;
-5. do not import scans 1–5 front matter, scan 24/37 promotions, scan 40 author/review matter or scan 50 catalogue into the six body assemblies;
-6. preserve every poem heading and verse lineation from P2;
-7. update README, indexes and root handover after all six assemblies;
-8. **stop after P3** — do not begin P4 in the same activity.
+**Stop after P4 — do not begin P5 in the same activity.**
 
 Publications 1–4 remain **COMPLETE / FROZEN / RELEASED** and must not be reopened absent a genuine source-supported or release-blocking defect.
