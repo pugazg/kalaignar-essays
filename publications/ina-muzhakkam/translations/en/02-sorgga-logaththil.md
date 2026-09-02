@@ -8,15 +8,15 @@ source_tamil_blob_sha: "8fea1497ed2dcbdb395418590c1b9875e6066b8c"
 source_scan_pages: "14-24"
 source_printed_pages: "contents witness start 13; scan 14 numeral not visible; scans 15-24 visibly 14-23"
 language: "en"
-translation_status: "draft"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 2 T1 close draft complete"
+translation_status: "fidelity-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 2 T2 bilingual fidelity review complete"
 ---
 
 # In the Heavenly Realm
 
 <!-- Tamil source: scan 14 / printed numeral not visible -->
 
-The heavenly realm. The sun is setting. A beautiful flower garden. In one corner of the garden, a few devas were talking over personal matters; celestial maidens circled about plucking flowers, dancing like whirling beetles.
+The heavenly realm. The sun is setting. A beautiful flower garden. In one corner of the garden, a few devas were talking over personal matters; celestial maidens circled about plucking flowers, dancing like whirling bees.
 
 Such grace in the way they chatted with one another! Menaka looked at Rambha's navaratna necklace and asked, “What's this, girl?” Rambha said, “Indra gave it to me.....” “Oh-ho, a bedchamber gift?” the others teased...... And so each of them introduced her ornaments...... “This is a gift from the Moon; this is a present from the Sun; this is a reward from Manmathan.”
 
@@ -86,11 +86,7 @@ Kannappa Nayanar, Karaikkal Ammaiyar, Nandanar, Siruthondar ..... and all the ot
 
 **Eripatha Nayanar.**
 
-“Because they ate, during the famine, the paddy that had been stored for Siva..... out of devotion, my mother, my father,
-
-<!-- Tamil source: scan 19 / printed 18 -->
-
-my beloved wife.... and my dear child—because the child must have drunk the milk of the mother who ate the paddy—I cut them down with a curved blade and killed them. Only after that, forgiving my offence, the Red-Matted One wearing konrai appeared before me.”
+“Because, during the famine, my mother, my father and my beloved wife ate the paddy that had been stored for Siva..... out of devotion I cut them down with a curved blade and killed them; I killed my dear child as well, because the child must have drunk the milk of the mother who ate the paddy. Only after that, forgiving my offence, the Red-Matted One wearing konrai appeared before me.”
 
 **Kotpuli Nayanar**
 
@@ -150,7 +146,7 @@ Karaikkal Ammaiyar asked, “Is this true?”
 
 I rose, declaring loudly that it is to change this state that “The Clarion Call of the Race” is sounding.
 
-“What is it, little brother—were you dreaming?” my mother asked, waking me from my sleep.
+“What is it, son—were you dreaming?” my mother asked, waking me from my sleep.
 
 <!-- Tamil source: scan 24 / printed 23 -->
 
