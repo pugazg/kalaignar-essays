@@ -8,8 +8,8 @@ source_tamil_blob_sha: "df5907d3d6fa4981a2377fe621bf6f2d7ecc1010"
 source_scan_pages: "6-13"
 source_printed_pages: "contents witness start 4; scan 6 numeral not visible; scans 7-13 visibly 6-12"
 language: "en"
-translation_status: "draft"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 1 T1 complete"
+translation_status: "fidelity-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 1 T2 bilingual fidelity review complete"
 ---
 
 # The Clarion Call of the Race
@@ -82,7 +82,7 @@ What is the reason?
 
 * * *
 
-“With stones loaded onto the heads of Kanaka Visayar, heavy with arrogance, I engraved the flag on the Himalaya and returned after magnifying the fame of this land. I showed the world the valour of the Tamils.
+“With a stone loaded onto the heads of Kanaka Visayar, heavy with arrogance, I engraved the flag on the Himalaya and returned after magnifying the fame of this land. I showed the world the valour of the Tamils.
 
 “But ask the Tamilian: ‘Who is the example of valour?’ He will forget me and describe Lord Rama—the incarnation of Mahavishnu who killed Vali from hiding.
 
@@ -92,9 +92,9 @@ What is the reason?
 
 <!-- Tamil source: scan 11 / printed 10 -->
 
-For the world to prosper—for life to rise—for suffering to perish—for misery to end—after arduous toil I gave one thousand three hundred and thirty precious Kural verses ....
+For the world to prosper—for life to rise—for suffering to perish—for misery to end—after arduous toil, one thousand three hundred and thirty precious Kural verses I giv....
 
-But ask the Tamilian, “Who laid down the path for life to flourish?” He will point to the *Bhagavad Gita*, saying that it is the path Krishna showed.
+But ask the Tamilian, “Who laid down the path for life to flourish?” He will show you the *Bhagavad Gita*, saying that it is the path Krishna showed.
 
 What is the reason?
 
@@ -102,7 +102,7 @@ What is the reason?
 
 * * *
 
-“One day..... in the evening I was travelling in my chariot. A smiling mullai creeper struggled with no branch to embrace and climb. I stopped my chariot, let it climb on its post.... and returned to the palace on foot. I heaped gold and gems upon poets.
+“One day..... in the evening I was travelling in my chariot. A smiling mullai creeper struggled with no branch to embrace and climb. I stopped my chariot, let it climb on its post.... and returned to the palace on foot. I heaped gold and gems upon all the poets.
 
 “But look at the Tamilian and say, ‘Brother! Name one great giver,’ and
 
@@ -128,6 +128,6 @@ Here, Self-Respect .... gives the reason.
 
 ‘Will this state not change?’ Kannagi weeps.
 
-‘It will change ... that is why the clarion call of the race is sounding through the country,’ says the Self-Respecter, offering words of comfort, his eyes shining with resolve!”
+‘It will change ... that is why the clarion call of the race is sounding in the country,’ says the Self-Respecter, offering words of comfort, his eyes shining with resolve!”
 
 —→×←—
