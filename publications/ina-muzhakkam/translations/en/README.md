@@ -14,7 +14,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T1: **4 / 6 PASS**
 - T2: **4 / 6 PASS**
 - T3: **4 / 6 PASS**
-- T4: **3 / 6 PASS**
+- T4: **4 / 6 PASS**
 - T5: **3 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
@@ -26,7 +26,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **The Clarion Call of the Race** | **T5 PASS / verified** |
 | 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **In the Heavenly Realm** | **T5 PASS / verified** |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | **Beat the Drum** | **T5 PASS / verified** |
-| 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | **Revenge for Revenge** | **T3 PASS / voice-reviewed / T4 NEXT** |
+| 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | **Revenge for Revenge** | **T4 PASS / audited / T5 NEXT** |
 | 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | TBD | **T0 PASS** |
 | 6 | `கவிதைகள்` | `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` | TBD | **T0 PASS** |
 
@@ -35,7 +35,8 @@ Article 2 T5 verified blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`.
 Article 3 T5 verified blob: `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.  
 Article 4 T1 draft blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`.  
 Article 4 T2 fidelity-reviewed blob: `da8969239016948ff2330ecfca6a0963762db95c`.  
-Article 4 T3 voice-reviewed blob: `6e095b751ef39c780d11792a2be7f9293a8a905d`.
+Article 4 T3 voice-reviewed blob: `6e095b751ef39c780d11792a2be7f9293a8a905d`.  
+Article 4 T4 audited blob: `a5973f49b53ed37e0f16ceb6f72145d649e39093`.
 
 ## Translation authority
 
@@ -62,7 +63,7 @@ Article 4 T3 voice-reviewed blob: `6e095b751ef39c780d11792a2be7f9293a8a905d`.
 
 All three are individually frozen and must not be reopened without a genuine source-supported defect.
 
-## Article 4 T3 boundary
+## Article 4 T4 boundary
 
 - file: `04-pazhikku-pazhi.md`
 - working title: **Revenge for Revenge**
@@ -71,19 +72,23 @@ All three are individually frozen and must not be reopened without a genuine sou
 - T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
 - T2 English blob: `da8969239016948ff2330ecfca6a0963762db95c`
 - T3 English blob: `6e095b751ef39c780d11792a2be7f9293a8a905d`
+- T4 English blob: `a5973f49b53ed37e0f16ceb6f72145d649e39093`
 - source comments: **8 / 8 preserved in order** for scans 30–37
 - scan-31→32 trace: `its / taproot`
 - scan-34→35 trace: `would have / taken him away`
 - scan-35→36 trace: `three / bullets`
 - scan-36→37 trace: `revenge for / revenge`
 - T2 fidelity corrections: **4 / 4 preserved**
-- T3 voice/style corrections: **10**
+- T3 voice/style corrections: **10 / 10 preserved**
+- T4 audit body corrections: **1**
 - blockers: **0**
 
-T3 preserved every T2 meaning and source-bearing decision. Ten voice/style refinements sharpened Kalaignar's directness without changing claims: the welcome paragraph now uses clipped sentence cadence and **We rejoice:**; the pledge restores repeated **Let us**; **Communalism's seat of life** removes the awkward double-of construction; the Brahminism accusation is made more direct; the Brahminism/Brahmin Seva Associations sentence is recast as a direct cause-and-abolish sequence; **the true memorial to build** tightens the command-like assertion; the Working Committee resolution now **deserves high praise**; the assassination metaphor now explicitly **photographed the blood-soaked tongue** and showed it to the intended audience; **Gandhiyar preached these: truth—the path of satya** preserves the source demonstrative without flat filler; and the peace paragraph now ends with the direct proof sentence **The great riots in the country are proof...**.
+T4 confirmed all settled Article-4 terminology and source-witness distinctions and added **agraharam** and quoted **blood abhishekam** to the living lexicon. Source-sensitive `பாரட்டத்` and `ஜோதில்கலந்தான்` continue to follow the frozen Tamil authority without importing scan-alternate forms.
 
-All four T2 fidelity corrections remain intact: the corrected opening Congress relation, all three **seat of life** occurrences, **communalism disappears**, and **the partitioning off of Pakistan itself is proof**. All **8 / 8** source comments and all four page traces remain intact.
+One T4 body correction was required for quotation scope. Frozen Tamil has `“வகுப்பு வாதம்” வீழ்க என்கிறது காரியக் கமிட்டி.` with quotation marks only around `வகுப்பு வாதம்`; T3 had broadened this to **“Down with communalism,” says the Working Committee.** T4 now reads **“Communalism” must fall, says the Working Committee.** All four T2 fidelity corrections and all ten T3 voice/style corrections remain intact. All **8 / 8** source comments and all four page traces remain intact.
+
+T4 findings after correction: terminology defects **0**; source-witness defects **0**; quotation/citation defects **0**; source-comment/page-trace defects **0**; blockers **0**.
 
 ## Exact next activity
 
-**Article 4 `பழிக்குப் பழி` — T4 terminology / quotation / citation / source audit only.** Re-fetch frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8` and T3 English blob `6e095b751ef39c780d11792a2be7f9293a8a905d`; audit the complete English for terminology, source-witness distinctions, quotation scope, source/citation treatment, punctuation-bearing rhetoric and page provenance; preserve all four T2 fidelity corrections, all ten T3 voice corrections, all **8 / 8** source comments and all four page traces; make T4 audit corrections only and **stop before Article 4 T5**.
+**Article 4 `பழிக்குப் பழி` — T5 final article verification only.** Re-fetch frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8` and T4 English blob `a5973f49b53ed37e0f16ceb6f72145d649e39093`; reread the complete English against the frozen Tamil and all T1–T4 decisions; preserve the T4 quotation-scope correction, all four T2 fidelity corrections, all ten T3 voice/style corrections, all **8 / 8** source comments and all four page traces; if PASS set `translation_status: verified`, record the T5 blob and individually freeze Article 4; **stop before Article 5 T1**.
