@@ -8,15 +8,15 @@ source_tamil_blob_sha: "e140df7f6234e8362b9139793706533fec0c62d8"
 source_scan_pages: "30-37"
 source_printed_pages: "contents witness start 29; scan 30 numeral not visible; scans 31-37 visibly 30-36"
 language: "en"
-translation_status: "draft"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 4 T1 close draft complete"
+translation_status: "fidelity-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 4 T2 bilingual fidelity review complete"
 ---
 
 # Revenge for Revenge
 
 <!-- Tamil source: scan 30 / printed numeral not visible -->
 
-“If our country is to prosper, the communal hatreds in the country must be rooted out entirely; the eradication of communalism that could not achieve complete success during the Mahatma's lifetime must at least be achieved as a result of his death ........”
+“If our country is to prosper, the communal hatreds in the country must be rooted out entirely; the eradication of communalism in which complete success could not be achieved during the Mahatma's lifetime must at least be achieved as a result of his death ........”
 
 This is not a resolution of the Dravidar Kazhagam! It is the substance of a decision of the Congress Working Committee.
 
@@ -32,17 +32,17 @@ Let us forget what has happened. With our eyes fixed on the country's welfare...
 
 “Down with communalism,” says the Working Committee.
 
-The inquiry, ‘What is that accursed communalism?........ Where is the “lifeline” of that communalism......?’ is absolutely necessary.
+The inquiry, ‘What is that accursed communalism?........ Where is the “seat of life” of that communalism......?’ is absolutely necessary.
 
 The Puranic preachers say, ‘If you enter through the lotus stalk and go to the underworld...... Mayil Ravanan's life is in the great beetle flying in a crevice among the rocks there.’
 
-The lifeline of communalism, too, has been arranged in just that way. If communalism is to fall, superficial reforms are of no use! Its
+The seat of life of communalism, too, has been arranged in just that way. If communalism is to fall, superficial reforms are of no use! Its
 
 <!-- Tamil source: scan 32 / printed 31 -->
 
 taproot must be cut. To allow communal divisions and yet think of destroying communalism is impossible! It is like lighting a fire and then searching for water to put it out!
 
-When the communal division disappears, the doctrine disappears—when the communal division grows, communalism grows.
+When the communal division disappears, communalism disappears—when the communal division grows, communalism grows.
 
 Our enemies propagate that when we say Brahminism must not be—must not be allowed—it is communalism. Is the instrument that incites communal riots called communalism? Or are the Dravidar Kazhagam policies that smash communal discrimination called communalism?
 
@@ -54,7 +54,7 @@ If communal divisions—caste systems—high and low status by reason of birth a
 
 the distinctions of Paraiyan—Pallan—Brahmin will disappear. One association for each caste—competition among associations......... that condition will change. Equality will bloom. Samadharma will flourish.
 
-This alone is the true memorial to be built for Gandhiyar! The right way for communalism to fall...... is to swing the sword at the lifeline of communalism! Our rulers must do this.
+This alone is the true memorial to be built for Gandhiyar! The right way for communalism to fall...... is to swing the sword at the seat of life of communalism! Our rulers must do this.
 
 ‘Organizations based on religion must not be allowed to work with political aims.’
 
@@ -90,7 +90,7 @@ bullets as its gift. Gandhiyar laboured for ahimsa...... Gotse's cruel grin is p
 
 Gandhiyar preached truth—the path of satya—these things. The newspapers of the Hindu religion that distort the news and incite lawlessness are proof that he failed in that!
 
-Gandhiyar laboured for Hindu-Muslim unity—there too he had no success; Pakistan being divided off is proof!
+Gandhiyar laboured for Hindu-Muslim unity—there too he had no success; the partitioning off of Pakistan itself is proof!
 
 Gandhiyar paved the way for peace...... that he found no consolation there either is proved by the great riots in the country!
 
