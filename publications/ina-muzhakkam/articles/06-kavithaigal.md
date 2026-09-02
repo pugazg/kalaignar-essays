@@ -7,7 +7,7 @@ printed_pages: "40-48"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-assembly_method: "concatenated from verified canonical P2 poetry page records; scan-40 author/review front matter excluded; all source-visible poem headings and verse lineation preserved"
+assembly_method: "concatenated from verified canonical P2 poetry page records; P5 corrections propagated through scans 41-42; scan-40 author/review front matter excluded; source-visible headings and verse lineation preserved; user lexical baseline retained"
 ---
 
 # கவிதைகள்
@@ -19,17 +19,17 @@ assembly_method: "concatenated from verified canonical P2 poetry page records; s
 புண்ணுக்கு மருந்திட்டு  
 ஆற்ற வழி தேடிடுவாய்!  
 கண்ணுக்குள் பாவைபோல்  
-உருண்டிடும் உள்ளம் - கைம்பெண்ணுக்கு இருப்பதையும்  
+உருண்டிடும் உள்ளம்—கைம்  
+பெண்ணுக்கு இருப்பதையும்  
 உணர்ந்திடுவாய்!
 
 “என் மனைவி இறந்திட்டாள்”  
 வேறுமணம் வேண்டுமென்பாய்  
 பின் நீ சாவு முனை அடைந்திட்டால்  
 உன் மனையாள் காவு கொடுக்க  
-வேண்டுமோ காதல்தனை.  
-ஏற்பரோ!
+வேண்டுமோ காதல்தனை.
 
-## ஏற்றமே!
+## ஏற்பரோ!
 
 தருமனும் பீமனும் மற்று மூவரும் போதாது  
 கருணனையும் காதலித்தாள் பாஞ்சாலி!  
@@ -38,8 +38,10 @@ assembly_method: "concatenated from verified canonical P2 poetry page records; s
 கடல்தனை வெறுக்கவில்லை  
 கற்பிழந்து போனதால்!  
 கைச்சரக்கல்ல! கதையுண்டு!  
-இந்திரனுக்குடன் பட்டாள அகல்யை எனும் ரிஷி குலத்தாள்;  
-சந்திரனைக் காமுற்றாள் தாரையாம் தவப் பெண்ணாள்;  
+இந்திரனுக்குடன் பட்டாள  
+அகல்யை எனும் ரிஷி குலத்தாள்;  
+சந்திரனைக் காமுற்றாள் தாரையாம்  
+தவப் பெண்ணாள்;  
 இத்தனை புராணத்தையும்
 
 <!-- scan 42 / printed 41 -->
@@ -48,15 +50,16 @@ assembly_method: "concatenated from verified canonical P2 poetry page records; s
 முத்தமிழில் தீட்டித் தந்தார்  
 முதுகெலும்பு வளைந்ததாலே!
 
-“மலை வந்தெதிர்த்த போதும் கற்புக்குலையோம்” என  
-வீரமொழி பேசும் பெண்டீர்!  
+“மலை வந்தெதிர்த்த போதும் கற்புக்  
+குலையோம்” என வீரமொழி  
+பேசும் பெண்டீர்!  
 மேற்சொன்ன பெண்களெல்லாம்  
 தெய்வமென்றால்  
 ஏற்பாரோ மனமுள்ளார் உங்கள் பேச்சை.
 
 ## சைவரே!
 
-எறிபத்தர் எதிரிகளை மழுவால் வதைத்தார்!  
+ஏறிபத்தர் எதிரிகளை மழுவால் வதைத்தார்!  
 முறிபட்டார் தாய்தந்தை மனைவி மக்கள்,  
 கோட்புலியால்!  
 நிலைக்களமாம் அன்புக்குச்  
