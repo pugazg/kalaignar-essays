@@ -8,7 +8,7 @@ page_type: "poetry-page"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-transcription_method: "user lexical baseline retained; poem heading placement and source lineation directly verified against source scan"
+transcription_method: "user lexical baseline retained; P5 poem headings, quotation punctuation and source lineation directly verified against source scan"
 ---
 
 # அச்சு உரை
@@ -32,9 +32,10 @@ transcription_method: "user lexical baseline retained; poem heading placement an
 
 # பொதுவுடைமையே!
 
-‘முன்னூறு நானூறு வேலியேன் முதலாளியே!  
+‘முன்னூறு நானூறு வேலியேன்  
+முதலாளியே!  
 உன்னாலே ஓர் ஏழை  
-உயர்ந்த துண்டா?’ என்று  
+உயர்ந்த துண்டா?” என்று  
 என்னேரங் கேட்டிடும்  
 எந்நாட்டுத் தோழா!  
 உரமான உனது நெஞ்சின் வினாவை  
@@ -48,8 +49,11 @@ transcription_method: "user lexical baseline retained; poem heading placement an
 ## Audit note
 
 - Printed page numeral `42` is directly visible.
-- `வா!` begins at the top of this scan; earlier placement at the end of scan 42 is rejected.
+- `வா!` begins at the top of this scan; earlier placement at the end of scan 42 remains rejected.
 - `பொதுவுடைமையே!` is a second source-visible heading.
 - `யோசித்துப் பார்!` begins only on scan 44.
+- **P5 scan 43 PASS:** source verse lineation was restored, including the split `முன்னூறு நானூறு வேலியேன்` / `முதலாளியே!`, without changing supplied lexical words.
+- P5 restored the source-visible mixed quotation punctuation around `முன்னூறு...உயர்ந்த துண்டா?` rather than regularising it editorially.
+- Lexical scan/baseline disagreements on scan 43: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 43; அச்சுப் பக்கம்: 42 -->
