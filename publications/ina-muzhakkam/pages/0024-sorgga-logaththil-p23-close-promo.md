@@ -8,12 +8,12 @@ page_type: "mixed-article-promotion"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-transcription_method: "user lexical baseline retained; article/promotion boundary directly verified against source scan"
+transcription_method: "user lexical baseline retained; P5 article/promotion boundary and punctuation directly verified against source scan"
 ---
 
 # அச்சு உரை
 
-என் தூக்கம் கலைந்தது. காமராஜர் - கிராமாணியார் - தூக்கம் கலையவேண்டுமே?
+என் தூக்கம் கலைந்தது. காமராஜர்—கிராமாணியார்—தூக்கம் கலையவேண்டுமே?
 
 * * *
 
@@ -34,6 +34,7 @@ transcription_method: "user lexical baseline retained; article/promotion boundar
 ## Audit note
 
 - Printed page numeral `23` is directly visible.
+- P5 restores the source dash punctuation around the supplied lexical form `கிராமாணியார்`.
 - `சொர்க்க லோகத்தில்` ends before the promotional block; `திராவிட சம்பத்து` promotional matter is not imported into the article body.
 
 <!-- மூல ஸ்கேன் பக்கம்: 24; அச்சுப் பக்கம்: 23 -->
