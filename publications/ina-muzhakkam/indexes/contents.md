@@ -4,7 +4,7 @@ Source: scan **4** of `TVA_BOK_0063958_இன_முழக்கம்.pdf`.
 
 The contents witness is preserved independently from body headings/page numerals.
 
-| Order | Printed contents title | Printed start page | P3 reading assembly |
+| Order | Printed contents title | Printed start page | Frozen Tamil assembly |
 |---:|---|---:|---|
 | 1 | `இன முழக்கம்` | `4` | [`../articles/01-ina-muzhakkam.md`](../articles/01-ina-muzhakkam.md) |
 | 2 | `சொர்க்க லோகத்தில்` | `13` | [`../articles/02-sorgga-logaththil.md`](../articles/02-sorgga-logaththil.md) |
@@ -15,32 +15,25 @@ The contents witness is preserved independently from body headings/page numerals
 
 ## Witness rule
 
-Do not use these start-page numbers to silently rewrite or infer a body-page numeral. In particular, scan 6 opens `இன முழக்கம்`, but its top area is affected by a library stamp and no numeral is treated as securely visible during the structural intake pass. The contents `4` remains a separate source witness.
+Do not use these start-page numbers to silently rewrite or infer a body-page numeral. Contents numbering and directly visible body numerals remain separate source witnesses.
 
-## P3 assembly status
+## P5 frozen assembly status
 
-All six contents-listed units now have reading assemblies created directly from the canonical P2 page records: **6 / 6 COMPLETE**.
+All six contents-listed units have passed the strict visual-fidelity recheck against the final canonical page layer: **6 / 6 PASS**.
 
-Assembly source blobs at P3 completion:
+Frozen Tamil blobs:
 
-- `இன முழக்கம்` — `60e5247f54b3c96e66079bf4b34740fa5ccb1ad1`
-- `சொர்க்க லோகத்தில்` — `adff0de00c120e0c737aca0cd0bc9ed6adcaecd1`
-- `முரசறைவாய்` — `698c178ee5a65e9fe53543be2136e6691f5a8dad`
-- `பழிக்குப் பழி` — `d9c57a7a55ab33310b512c34322186cc55a04ef8`
-- `ஆரியம் பேசுகிறது` — `651063d641ddbc53c1688e92b13d976b169d04ee`
-- `கவிதைகள்` — `a11dfc65bfd83c316e090c793f1ede102a72ac21`
+- `இன முழக்கம்` — `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
+- `சொர்க்க லோகத்தில்` — `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
+- `முரசறைவாய்` — `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`
+- `பழிக்குப் பழி` — `e140df7f6234e8362b9139793706533fec0c62d8`
+- `ஆரியம் பேசுகிறது` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
+- `கவிதைகள்` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-The P3 assemblies preserve the contents/body witness distinction; they do not import scan-24/37 promotions, scan-40 poetry front matter or scan-50 catalogue matter.
+The assemblies continue to exclude scan-24/37 promotions, scan-40 poetry front matter and scan-50 catalogue matter.
 
-## P4 contents / assembly audit — PASS
+P5 canonical record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-P4 re-confirmed all six printed contents witnesses against the page map and the six P3 assemblies:
+Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**.
 
-- six printed contents entries: **6 / 6 present**;
-- six P3 assemblies: **6 / 6 present exactly once**;
-- contents start-page witnesses remain separate from visible body numerals: **PASS**;
-- heading scans 6, 14, 25, 30 and 38 remain unnumbered in the body layer: **PASS**;
-- `கவிதைகள் 40` continues to map to the poetry body beginning scan 41 / printed 40, while scan 40 remains separate front matter: **PASS**;
-- P4 contents/assembly blockers: **0**.
-
-Full P4 record: [`../SOURCE_COMPLETENESS_AUDIT.md`](../SOURCE_COMPLETENESS_AUDIT.md).
+Exact next activity: **E0 — English translation planning/setup only**.
