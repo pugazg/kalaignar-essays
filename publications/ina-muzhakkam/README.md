@@ -38,7 +38,8 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - E0 English translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisites: **6 / 6 PASS**
 - T1 close drafts: **1 / 6 PASS**
-- T2–T5: **0 / 6**
+- T2 fidelity reviews: **1 / 6 PASS**
+- T3–T5: **0 / 6**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - blockers: **0**
@@ -55,20 +56,22 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 5. `ஆரியம் பேசுகிறது` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `கவிதைகள்` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-All six were re-fetched and matched exactly at E0.
+All six were re-fetched and matched exactly at E0. Article 1 was re-fetched again and matched at T2.
 
-## English Article 1 — T1 COMPLETE
+## English Article 1 — T2 COMPLETE / PASS
 
 - Tamil title: `இன முழக்கம்`
-- working English title: **The Clarion Call of the Race**
+- working English title: **The Clarion Call of the Race** — T2 confirmed, not T5-frozen
 - English file: `translations/en/01-ina-muzhakkam.md`
 - frozen Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
 - T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
-- status: `draft`
-- source comments: **8 / 8 preserved**
-- T1 blockers: **0**
+- T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`
+- status: `fidelity-reviewed`
+- source comments: **8 / 8 preserved in order**
+- T2 corrections: **5 fidelity-only**
+- blockers: **0**
 
-The T1 title/terminology choices are working decisions and remain subject to T2–T5 review.
+T2 restored the frozen Tamil singular in `கல்லேற்றி`, preserved incomplete `அளித் ....` without silently completing it, restored `உங்களிடம்` and `புலவர்களுக் கெல்லாம்`, and narrowed `நாட்டில்` from `through the country` to `in the country`. Article-1 title/terminology choices otherwise passed T2 and remain subject to T3–T5.
 
 ## Permanent non-regression
 
@@ -80,6 +83,7 @@ The T1 title/terminology choices are working decisions and remain subject to T2�
 - promotions/catalogue/front matter remain outside the six body assemblies and therefore outside the six English translation bodies unless separately authorised;
 - no supplied lexical token is silently normalised;
 - English translation must use the frozen Tamil assemblies, not raw transcription/OCR or scan-alternate lexical readings;
+- Article 1 incomplete `சுயமரியாதைக் ....` and `அளித் ....` must not be silently completed in later English gates;
 - `கவிதைகள்` English must preserve source poem headings and lineation.
 
 ## Important records
@@ -98,4 +102,4 @@ The T1 title/terminology choices are working decisions and remain subject to T2�
 
 ## Exact next activity
 
-**Article 1 — `இன முழக்கம்` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T1 English blob `b3022e69387662584064d51133e24f4f97e976b2`, compare every paragraph/clause and all eight source-page comments, correct fidelity defects only, record the resulting T2 blob and findings, then stop before T3.
+**Article 1 — `இன முழக்கம்` — T3 Kalaignar voice review only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T2 English blob `6b37eec63209bff533666ce6ff8518c1cba6f733`; review directness, sarcasm, rhetorical questions, commands, repetition, imagery and polemical temperature without undoing T2 fidelity, record the T3 blob/findings, then stop before T4.
