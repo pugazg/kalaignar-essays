@@ -12,7 +12,7 @@ Branch: `main`
 
 Fetch live `main` first. The last confirmed live HEAD immediately before this prompt was refreshed was:
 
-`2890871c63ee99c174befe248a3d8184d6f1a3d1` — `Close Thiraavida Sampaththu project handover`
+`1e5b6cb183152045457ec2260de5ccebd0e85786` — `Mark Thiraavida Sampaththu released in root README`
 
 If `main` has advanced, preserve the newer durable state. **Do not reset, overwrite, repeat or reopen later completed work merely because this prompt contains an older checkpoint.**
 
