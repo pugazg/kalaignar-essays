@@ -37,7 +37,8 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - E0 English translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisites: **6 / 6 PASS**
-- T1–T5: **0 / 6**
+- T1 close drafts: **1 / 6 PASS**
+- T2–T5: **0 / 6**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - blockers: **0**
@@ -55,6 +56,19 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 6. `கவிதைகள்` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
 All six were re-fetched and matched exactly at E0.
+
+## English Article 1 — T1 COMPLETE
+
+- Tamil title: `இன முழக்கம்`
+- working English title: **The Clarion Call of the Race**
+- English file: `translations/en/01-ina-muzhakkam.md`
+- frozen Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
+- T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
+- status: `draft`
+- source comments: **8 / 8 preserved**
+- T1 blockers: **0**
+
+The T1 title/terminology choices are working decisions and remain subject to T2–T5 review.
 
 ## Permanent non-regression
 
@@ -84,4 +98,4 @@ All six were re-fetched and matched exactly at E0.
 
 ## Exact next activity
 
-**Article 1 — `இன முழக்கம்` — T1 close English draft only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`, establish the working English title and first lexicon decisions, translate the complete frozen assembly with ordered source-page comments, update tracker/lexicon/review/handover, then stop before T2.
+**Article 1 — `இன முழக்கம்` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T1 English blob `b3022e69387662584064d51133e24f4f97e976b2`, compare every paragraph/clause and all eight source-page comments, correct fidelity defects only, record the resulting T2 blob and findings, then stop before T3.
