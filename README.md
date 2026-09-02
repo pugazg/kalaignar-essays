@@ -77,7 +77,7 @@ Released English authorities:
 
 Do not reopen absent a genuine source-supported or release-blocking defect.
 
-## Publication 5 — இன முழக்கம் — ACTIVE / P2 25 OF 50 VERIFIED
+## Publication 5 — இன முழக்கம் — ACTIVE / P2 COMPLETE
 
 Workspace: [`publications/ina-muzhakkam/`](publications/ina-muzhakkam/)
 
@@ -93,7 +93,7 @@ Workspace: [`publications/ina-muzhakkam/`](publications/ina-muzhakkam/)
 
 > **Keep the words. Correct only structural order, punctuation, spacing, paragraphing, headings, misplaced words and analogous layout issues; remove unwanted non-source/OCR words.**
 
-The user's full 50-scan transcription has been structurally reassembled against the source into staging records without silently changing lexical tokens.
+The user's full 50-scan transcription has been structurally reassembled and transferred into a complete canonical P2 page layer without silently changing lexical tokens.
 
 Printed contents witness:
 
@@ -109,23 +109,26 @@ Current gates:
 - P0: **COMPLETE**
 - P1 metadata / contents / page map: **COMPLETE**
 - structural transcription intake: **COMPLETE / STAGING**
-- P2 canonical page records: **25 / 50 VERIFIED**
+- P2 canonical page records: **50 / 50 VERIFIED / COMPLETE**
 - P3 article/section assemblies: **0 / 6**
 - P4: **NOT STARTED**
 - P5: **NOT STARTED**
 - English translation: **NOT STARTED**
 - blockers: **0**
 
-P2 scans 1–25 now preserve:
+P2 preserves:
 
-- printed text separately from physical-copy marks;
+- printed text separately from physical-copy marks on all 50 scans;
 - only directly visible printed numerals;
 - page-to-page continuation notes;
-- scan-24 article/promotion boundary;
+- scan-10 user correction `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
+- scan-24 and scan-37 article/promotion boundaries;
 - scan-22 trailing `2` excluded as non-source noise;
-- scan-10 user correction `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`.
+- scan-40 author/review matter outside the poetry body;
+- source-supported poetry headings and lineation across scans 41–49;
+- scan-50 catalogue outside all body units, with structural row/column correction but no silent lexical/number repair.
 
-Important structural records:
+Important records:
 
 - [`STRUCTURAL_REASSEMBLY_REVIEW.md`](publications/ina-muzhakkam/STRUCTURAL_REASSEMBLY_REVIEW.md)
 - [`transcription-intake/USER_CORRECTIONS.md`](publications/ina-muzhakkam/transcription-intake/USER_CORRECTIONS.md)
@@ -134,6 +137,6 @@ Important structural records:
 
 ## Current project state / next activity
 
-Publications **1–4 are COMPLETE / FROZEN / RELEASED**. Publication 5 `இன முழக்கம்` is active with P0/P1 complete and P2 at **25 / 50 verified**.
+Publications **1–4 are COMPLETE / FROZEN / RELEASED**. Publication 5 `இன முழக்கம்` has P0, P1 and P2 complete.
 
-**Exact next activity:** create and directly verify **P2 canonical page records for scans 26–50**. Preserve the lexical baseline, article/promotion/catalogue boundaries and poetry lineation; do not begin P3 assemblies in the same activity.
+**Exact next activity:** P3 — create the six contents-listed reading assemblies from canonical P2 records, preserve page-boundary provenance and all established exclusions/poetry structure, then stop before P4.
