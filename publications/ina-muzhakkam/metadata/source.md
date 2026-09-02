@@ -83,7 +83,8 @@ Contents-page numbers remain independent source witnesses from directly visible 
 - T0 frozen-source registration: **6 / 6 PASS**
 - T1 close drafts: **1 / 6 PASS**
 - T2 fidelity reviews: **1 / 6 PASS**
-- T3–T5: **0 / 6**
+- T3 voice reviews: **1 / 6 PASS**
+- T4–T5: **0 / 6**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
@@ -99,21 +100,22 @@ English translation plan: [`../TRANSLATION_PLAN.md`](../TRANSLATION_PLAN.md).
 5. `articles/05-aariyam-pesugirathu.md` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `articles/06-kavithaigal.md` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-All six blobs were re-fetched and matched at E0. Article 1 was re-fetched again at T2 and still matched `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`. They remain the controlling translation authorities.
+All six blobs were re-fetched and matched at E0. Article 1 was re-fetched again at T2 and T3 and still matched `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`. They remain the controlling translation authorities.
 
-## English Article 1 T2 provenance
+## English Article 1 T3 provenance
 
-- working English title: **The Clarion Call of the Race** — T2 confirmed, not T5-frozen
+- working English title: **The Clarion Call of the Race** — T3 confirmed, not T5-frozen
 - English file: `../translations/en/01-ina-muzhakkam.md`
 - source Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
-- T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
 - T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`
-- status: `fidelity-reviewed`
+- T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`
+- status: `voice-reviewed`
 - source-page comments: **8 / 8 preserved in order**
-- T2 fidelity-only body corrections: **5**
+- T2 fidelity corrections preserved: **5 / 5**
+- T3 voice/style body corrections: **10**
 - blockers: **0**
 
-T2 corrections: restore singular `கல்லேற்றி`; preserve frozen incomplete `அளித் ....` rather than silently completing it; restore `உங்களிடம்`; restore `புலவர்களுக் கெல்லாம்`; render closing `நாட்டில்` as `in the country` rather than the broader `through the country`.
+T3 changed English voice only. It restored the blunt force of the Ahalya/Tara wording, tightened stiff English around Ilango and Pisiranthaiyar, preserved the Sai Baba ridicule, restored active first-person force to Senguttuvan, made the Vallal Pari challenge natural and direct, and sharpened the closing rhetorical questions. Frozen Tamil wording, source-sensitive incomplete forms and source-page trace were not changed.
 
 ## English translation exclusions / constraints
 
@@ -125,4 +127,4 @@ T2 corrections: restore singular `கல்லேற்றி`; preserve frozen 
 - `கவிதைகள்` English must preserve frozen headings and lineation;
 - source-page comments are required for bilingual traceability.
 
-Exact next activity: **Article 1 `இன முழக்கம்` — T3 Kalaignar voice review only; stop before T4.**
+Exact next activity: **Article 1 `இன முழக்கம்` — T4 terminology / quotation / citation / source audit only; stop before T5.**
