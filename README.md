@@ -77,7 +77,7 @@ Released English authorities:
 
 Do not reopen absent a genuine source-supported or release-blocking defect.
 
-## Publication 5 — இன முழக்கம் — ACTIVE / P3 COMPLETE
+## Publication 5 — இன முழக்கம் — ACTIVE / P4 COMPLETE
 
 Workspace: [`publications/ina-muzhakkam/`](publications/ina-muzhakkam/)
 
@@ -93,7 +93,7 @@ Workspace: [`publications/ina-muzhakkam/`](publications/ina-muzhakkam/)
 
 > **Keep the words. Correct only structural order, punctuation, spacing, paragraphing, headings, misplaced words and analogous layout issues; remove unwanted non-source/OCR words.**
 
-The user's full 50-scan transcription has been structurally reassembled, transferred into a complete canonical P2 page layer and assembled into all six contents-listed P3 reading units without silently changing lexical tokens.
+The user's full 50-scan transcription has been structurally reassembled, transferred into a complete canonical P2 page layer, assembled into all six contents-listed P3 reading units and passed the P4 source/completeness audit without silently changing lexical tokens.
 
 Printed contents witness:
 
@@ -111,7 +111,7 @@ Current gates:
 - structural transcription intake: **COMPLETE / STAGING**
 - P2 canonical page records: **50 / 50 VERIFIED / COMPLETE**
 - P3 article/section assemblies: **6 / 6 COMPLETE / VERIFIED AGAINST P2**
-- P4: **NOT STARTED**
+- P4 source/completeness audit: **PASS / COMPLETE**
 - P5: **NOT STARTED**
 - English translation: **NOT STARTED**
 - blockers: **0**
@@ -125,22 +125,28 @@ P3 assemblies:
 - [`ஆரியம் பேசுகிறது`](publications/ina-muzhakkam/articles/05-aariyam-pesugirathu.md) — scans 38–39
 - [`கவிதைகள்`](publications/ina-muzhakkam/articles/06-kavithaigal.md) — scans 41–49
 
-P2/P3 preserve:
+P4 confirms:
 
-- printed text separately from physical-copy marks on all 50 scans;
-- only directly visible printed numerals;
-- page-to-page continuation provenance;
-- scan-10 user correction `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
-- scan-24 and scan-37 promotions outside article bodies;
-- scan-22 trailing `2` excluded as non-source noise;
-- scan-40 author/review matter outside the poetry body;
-- source-supported poetry headings and lineation across scans 41–49;
-- scan-50 catalogue outside all body units;
-- no lexical normalisation introduced during P3.
+- canonical scan coverage: **50 / 50 PASS**;
+- six P3 assemblies exist exactly once with correct starts/ends: **PASS**;
+- page-continuation provenance: **PASS**;
+- scan-10 `விசயர்` correction: **PASS**;
+- scan-24/37 promotions, scan-40 front matter and scan-50 catalogue excluded from body assemblies: **PASS**;
+- poetry headings / lineation: **PASS**;
+- contents-page witnesses kept distinct from visible body numerals: **PASS**;
+- physical-copy marks imported into body text: **0**;
+- silent lexical normalisations introduced by P2/P3: **0**;
+- P4 needs-review / blocked / completeness blockers: **0 / 0 / 0**.
+
+Deferred for P5 classification rather than silent correction:
+
+- cover-author witness difference;
+- scan-50 catalogue lexical/number differences or omissions.
 
 Important records:
 
 - [`STRUCTURAL_REASSEMBLY_REVIEW.md`](publications/ina-muzhakkam/STRUCTURAL_REASSEMBLY_REVIEW.md)
+- [`SOURCE_COMPLETENESS_AUDIT.md`](publications/ina-muzhakkam/SOURCE_COMPLETENESS_AUDIT.md)
 - [`transcription-intake/USER_CORRECTIONS.md`](publications/ina-muzhakkam/transcription-intake/USER_CORRECTIONS.md)
 - [`indexes/page-map.md`](publications/ina-muzhakkam/indexes/page-map.md)
 - [`indexes/contents.md`](publications/ina-muzhakkam/indexes/contents.md)
@@ -149,6 +155,6 @@ Important records:
 
 ## Current project state / next activity
 
-Publications **1–4 are COMPLETE / FROZEN / RELEASED**. Publication 5 `இன முழக்கம்` has P0, P1, P2 and P3 complete.
+Publications **1–4 are COMPLETE / FROZEN / RELEASED**. Publication 5 `இன முழக்கம்` has P0 through P4 complete.
 
-**Exact next activity:** **P4 source/completeness audit** of the 50-page canonical layer and six P3 assemblies, including boundaries, exclusions, continuations, witness distinctions and deferred lexical/source disagreements. Stop after P4; do not begin P5 in the same activity.
+**Exact next activity:** **P5 strict visual word/punctuation fidelity** over all 50 physical scans. Re-check every visible printed word, punctuation mark, heading, number, quotation boundary, paragraph continuation, source-witness distinction, promotion/catalogue entry and physical-copy exclusion; explicitly classify the deferred cover-author and scan-50 catalogue differences; propagate every source-supported correction with provenance. Do not begin English translation in the same activity.
