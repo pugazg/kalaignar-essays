@@ -24,7 +24,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `42e9fdc73f2a56b420b0721f071a6cc6c8d2a957` — `Record Ina Muzhakkam Article 1 T4 provenance`.
+- Last confirmed live HEAD immediately before this handover synchronization: `f93fc755aad03c3833fb92e7f6831bad490c5cfc` — `Record Ina Muzhakkam Article 1 T5 provenance`.
 
 ---
 
@@ -83,7 +83,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 5 — இன முழக்கம் — TAMIL FROZEN / ARTICLE 1 T4 PASS
+# Publication 5 — இன முழக்கம் — TAMIL FROZEN / ARTICLE 1 T5 VERIFIED
 
 Workspace: `publications/ina-muzhakkam/`  
 Controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`
@@ -148,7 +148,7 @@ Canonical P5 record: `publications/ina-muzhakkam/VISUAL_TEXT_FIDELITY_REVIEW.md`
 5. `articles/05-aariyam-pesugirathu.md` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `articles/06-kavithaigal.md` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-E0 re-fetch verification: **6 / 6 exact SHA matches / T0 PASS**. Article 1 was re-fetched again at T2, T3 and T4 and still matched its frozen SHA.
+E0 re-fetch verification: **6 / 6 exact SHA matches / T0 PASS**. Article 1 was re-fetched again at T2, T3, T4 and T5 and still matched its frozen SHA.
 
 ## English gate status
 
@@ -158,41 +158,43 @@ E0 re-fetch verification: **6 / 6 exact SHA matches / T0 PASS**. Article 1 was r
 - T2: **1 / 6 PASS**
 - T3: **1 / 6 PASS**
 - T4: **1 / 6 PASS**
-- T5: **0 / 6**
+- T5: **1 / 6 PASS**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - English blockers: **0**
 
-## Article 1 — `இன முழக்கம்` — T4 COMPLETE / PASS
+## Article 1 — `இன முழக்கம்` — T5 COMPLETE / VERIFIED
 
 - frozen Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
 - English file: `publications/ina-muzhakkam/translations/en/01-ina-muzhakkam.md`
-- working English title: **The Clarion Call of the Race** — T4 confirmed, not T5-frozen
+- verified English title: **The Clarion Call of the Race**
 - T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
 - T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`
 - T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`
 - T4 English blob: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`
-- `translation_status`: `voice-reviewed` — retained until T5 verification
+- T5 verified English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
+- `translation_status`: `verified`
 - source-page comments: **8 / 8 preserved in order** for scans 6–13
 - T2 fidelity corrections preserved: **5 / 5**
 - T3 voice/style body corrections preserved: **10 / 10**
 - T4 body corrections: **0**
-- T4 metadata/provenance update: **1**
+- T5 body corrections: **0**
+- T5 status/provenance metadata updates: **2 fields**
 - Tamil source changes: **0**
 - blockers: **0**
 
-### Article 1 T4 audit findings
+### Article 1 T5 final verification findings
 
-1. Working title **The Clarion Call of the Race** remains supported; no T4 change.
-2. `Dravidian`, `Dravidian race`, `Aryan race`, `Self-Respecter`, incomplete `Self-Respect ....`, and repeated `Tamilian` remain consistent and unneutralised.
-3. Kamaraj Nadar, Gramaniyar, Kanaka Visayar, Vallal Pari, Arutperum Jothi, Cheran Senguttuvan and Poet Pisiranthaiyar remain source-bearing; no outside identification was introduced.
-4. Speaker label `வடலூர் இராமலிங்கம்` remains **Vadalur Ramalingam**, while vocative `வடலூர் இராமலிங்கரே` remains **Vadalur Ramalingar**; do not harmonise the source distinction.
-5. Frozen incomplete `சுயமரியாதைக் ....` remains **Self-Respect ....** and `அளித் ....` remains **giv....**.
-6. All **8 / 8** source-page comments remain ordered `6, 7, 8, 9, 10, 11, 12, 13` with printed-page witnesses unchanged.
-7. Quotation scope is preserved. In particular, the Vallal Pari unit retains the frozen Tamil's unmatched opening outer double quotation; do not invent a closing quotation mark at T5.
+1. Complete English/Tamil comparison found **0 omitted clauses** and **0 added claims**.
+2. The verified title **The Clarion Call of the Race** retains the Article-1 `திராவிட இனம்` / `ஆரிய இனம்` contrast and closing `இன முழக்கம்` force.
+3. All direct address, commands, repeated `What is the reason?` questions, ridicule, vivid imagery, abrupt contrasts and closing rhetorical challenge remain active in English.
+4. `Dravidian`, `Dravidian race`, `Aryan race`, `Self-Respecter`, repeated `Tamilian`, Kamaraj Nadar, Gramaniyar, Kanaka Visayar, Vallal Pari and Arutperum Jothi remain consistent and source-bearing.
+5. Frozen incomplete `சுயமரியாதைக் ....` remains **Self-Respect ....** and `அளித் ....` remains **giv....**; no missing wording was guessed.
+6. Speaker label `வடலூர் இராமலிங்கம்` remains **Vadalur Ramalingam**, while vocative `வடலூர் இராமலிங்கரே` remains **Vadalur Ramalingar**.
+7. All **8 / 8** source-page comments remain ordered `6, 7, 8, 9, 10, 11, 12, 13` with printed-page witnesses unchanged.
 8. Frozen scan-9→10 `அல்லலுற்` / `றோமே` remains traceable as `suf—` / `fer......`.
-9. Article 1 has no body dates, periodical titles or external citations requiring T4 action.
-10. **No T4 body correction was required.** The T4 English blob differs from T3 only because frontmatter `translation_method` now records T4 completion.
+9. Vallal Pari's unmatched outer opening quotation remains intentionally unmatched as a frozen source punctuation anomaly.
+10. **No T5 body correction was required.** Only `translation_status` and `translation_method` were advanced to record verification.
 
 ### Article 1 T2 fidelity corrections preserved
 
@@ -215,14 +217,14 @@ E0 re-fetch verification: **6 / 6 exact SHA matches / T0 PASS**. Article 1 was r
 9. Vallal Pari retains direct **try asking the Tamilian**.
 10. Closing rhetoric retains **So asks Thiruvalluvar** and **Won't this state change?**.
 
-### Article 1 T4-confirmed working decisions
+### Article 1 verified decisions — do not reopen casually
 
 - `இன முழக்கம்` → **The Clarion Call of the Race**; contextual closing occurrence → **the clarion call of the race**.
 - `திராவிடன்` → **Dravidian**.
 - explicit `திராவிட இனம்` / `ஆரிய இனம்` → **Dravidian race / Aryan race**.
 - `சுயமரியாதைக்காரன்` → **Self-Respecter**.
-- frozen incomplete `சுயமரியாதைக் ....` → **Self-Respect ....**; do not guess the missing source word.
-- frozen incomplete `அளித் ....` remains **giv....**; do not silently restore a finite verb.
+- frozen incomplete `சுயமரியாதைக் ....` → **Self-Respect ....**.
+- frozen incomplete `அளித் ....` → **giv....**.
 - repeated `தமிழன்` → **Tamilian**.
 - `காமராஜ நாடார்` → **Kamaraj Nadar**.
 - `கிராமணியார்` → **Gramaniyar**.
@@ -231,9 +233,9 @@ E0 re-fetch verification: **6 / 6 exact SHA matches / T0 PASS**. Article 1 was r
 - `அருட்பெருஞ் சோதி` → **Arutperum Jothi**.
 - `வடலூர் இராமலிங்கம்` / vocative `வடலூர் இராமலிங்கரே` remain **Vadalur Ramalingam / Vadalur Ramalingar**.
 - scan-9→10 frozen split `அல்லலுற்` / `றோமே` remains traceable as `suf—` / `fer......`.
-- Vallal Pari's unmatched outer opening quotation is a frozen source punctuation anomaly and remains unmatched.
+- Vallal Pari's unmatched outer opening quotation remains unmatched as a frozen source punctuation anomaly.
 
-These decisions passed T4 audit but remain subject to T5 final verification and are not release-frozen.
+Article 1 is individually frozen at T5. Reopen only for a genuine source-supported defect. Publication-wide consistency remains subject to E6 after all six articles reach T5.
 
 ## Translation non-regression
 
@@ -246,7 +248,7 @@ These decisions passed T4 audit but remain subject to T5 final verification and 
 - Scan-24 and scan-37 promotions, scan-40 `கவிதைகளைப் பற்றி` + `மதிப்புரை`, and scan-50 catalogue remain outside the six English bodies unless separately authorised.
 - `கவிதைகள்` English must preserve frozen headings and source lineation.
 - Frozen source-sensitive forms including `பாரட்டத்`, `ஜோதில்கலந்தான்`, `மனமுள்ளார்`, `ஏறிபத்தர்`, `முடுக்கினாள்`, `போர் வீரனாம்`, and `கதறினாள்` must not be replaced with scan alternatives during translation.
-- Article 1 frozen incomplete `சுயமரியாதைக் ....` and `அளித் ....` must remain incomplete; later gates must not silently supply missing source wording.
+- Article 1 verified decisions must not be reopened without a genuine source-supported defect.
 
 ## Current blockers
 
@@ -256,17 +258,16 @@ These decisions passed T4 audit but remain subject to T5 final verification and 
 
 # Exact next activity
 
-**Publication 5 — Article 1 `இன முழக்கம்` — T5 final article verification only.**
+**Publication 5 — Article 2 `சொர்க்க லோகத்தில்` — T1 close draft only.**
 
 Required steps:
 
 1. fetch live `main` first;
 2. re-read translation plan, tracker, lexicon and review ledger;
-3. re-fetch frozen Tamil Article 1 and confirm blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`;
-4. re-fetch T4 English Article 1 and confirm blob `8d3238ca5cd309660c6d938b8f546eca2ba5698c`;
-5. verify the complete English article against the frozen Tamil and all T1–T4 decisions, including title, meaning, voice, terminology, quotation scope, source comments, incomplete forms and source-witness distinctions;
-6. preserve every T2/T3 decision and the T4 audit findings unless a genuine final-verification defect is source-supported;
-7. do not silently complete `சுயமரியாதைக் ....` or `அளித் ....`, repair the Vallal Pari unmatched source quotation, harmonise `Vadalur Ramalingam / Ramalingar`, identify `Kanaka Visayar` externally, or import scan-alternate Tamil readings;
-8. make **T5 final-verification corrections only** if needed;
-9. if PASS, set `translation_status: verified`, record the resulting T5 English blob and exact findings/corrections in tracker/plan/lexicon/review/handover;
-10. **stop after Article 1 T5. Do not begin Article 2 in the same activity.**
+3. re-fetch frozen Tamil Article 2 and confirm blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c`;
+4. establish the English title from the frozen Tamil only;
+5. establish only the Article-2 terminology/source-bearing choices actually encountered, preserving Article-1 verified decisions and publication-wide non-regression rules;
+6. translate the complete Article-2 frozen Tamil paragraph by paragraph, preserving directness, quotation structure, commands, questions, repetition, polemical force and ordered source-page comments;
+7. do not use OCR, raw transcription, scan-alternate lexical readings, web text or outside identification as translation authority;
+8. create/update the Article-2 English file as `draft`, record its T1 English blob and exact title/lexicon decisions in tracker/plan/lexicon/review/handover;
+9. **stop after Article 2 T1. Do not perform Article 2 T2 in the same activity.**
