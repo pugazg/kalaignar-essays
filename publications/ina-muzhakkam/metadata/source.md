@@ -44,6 +44,9 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - scan 22 marginal printed `2` is non-body evidence;
 - Article 3 scan 25→26: `மணவாளன் மார்பினி` / `லே`;
 - Article 3 scan 28→29: `குள்ள` / `நரிக்`;
+- Article 4 scan 31→32: `அதன்` / `ஆணிவேர்`;
+- Article 4 scan 34→35: `அவரை அந்தக் கொலைக்காரர்களே` / `எடுத்துப் புதைத்துவிட்டு`;
+- Article 4 scan 35→36: `மூன்று` / `குண்டுகளை`;
 - scan 36→37: `இந்த மதத்தைப் பழிக்குப்` / `பழி வாங்க வேண்டாமா?`;
 - scan 41 heading: `ஏற்பரோ!`;
 - scan 49 heading: `வருணமா? மரணமா?`;
@@ -58,7 +61,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - P5 assembly recheck: **6 / 6 PASS**
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **3 / 6 PASS**
+- T1: **4 / 6 PASS**
 - T2: **3 / 6 PASS**
 - T3: **3 / 6 PASS**
 - T4: **3 / 6 PASS**
@@ -83,28 +86,22 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 
 Articles 1–3 are individually frozen.
 
-## English Article 3 provenance — T5 VERIFIED
+## English Article 4 provenance — T1 DRAFT
 
-- title: **Beat the Drum**
-- English file: `../translations/en/03-murasaraivai.md`
-- Tamil blob: `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`
-- T1 English blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`
-- T2 English blob: `02d75107effa010ee61b1cc4d999fe4787c66f31`
-- T3 English blob: `a4c2e482e4ba5a6a513cbed1b00879ba7fac90c2`
-- T4 English blob: `969dc675dc1610d4a3d8e1fb2009d459dc6c41ef`
-- T5 English blob: `c526195d7eb16b2dc446f8b3b15ae674c75548d5`
-- status: `verified`
-- source comments: **5 / 5 preserved in order**
-- scan-25→26 trace: `ches— / t`
-- scan-28→29 trace: `dwarf / fox`
-- T2 fidelity corrections: **3 / 3 preserved**
-- T3 voice/style corrections: **6 / 6 preserved**
-- T4 body corrections: **0**
-- T5 body corrections: **0**
+- title: **Revenge for Revenge**
+- English file: `../translations/en/04-pazhikku-pazhi.md`
+- Tamil blob: `e140df7f6234e8362b9139793706533fec0c62d8`
+- T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
+- status: `draft`
+- source comments: **8 / 8 preserved in order**
+- scan-31→32 trace: `its / taproot`
+- scan-34→35 trace: `would have / taken him away`
+- scan-35→36 trace: `three / bullets`
+- scan-36→37 trace: `revenge for / revenge`
 - Tamil source changes: **0**
 - blockers: **0**
 
-T5 reread the complete T4 English against frozen Tamil and all earlier gate decisions. No final body correction was required. `A Festival Day in Life` and `paarakku` retain exact source quotation scope; `இசயங்காட்டி` remains cautious **showing her *isayam*** without silent normalisation; `வேட்டாயிற்றே` remains **became a blast against a foreign king's fort** without outside expansion. All five comments and both physical page traces remain intact. Article 3 is individually frozen.
+T1 translates only frozen Article-4 Tamil. Working/source-bearing treatments include **communalism / communal division**, **Dravidar Kazhagam**, **Congress Working Committee**, source-distinct **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, source-bearing **Gotse**, **Varnashrama**, **ahimsa / satya**, **Pushpa Vimanam**, **heavenly realm**, **Paraiyan / Pallan / Brahmin**, and **Nandan / Ramalingar / Vallalar / Thirugnanasambandar**. These remain T1 working decisions pending T2 fidelity review.
 
 ## English translation exclusions / constraints
 
@@ -115,4 +112,4 @@ T5 reread the complete T4 English against frozen Tamil and all earlier gate deci
 - source-page comments are required for bilingual traceability;
 - Articles 1–3 verified decisions must not be reopened without genuine source support.
 
-Exact next activity: **Article 4 `பழிக்குப் பழி` — T1 close English draft only; stop before Article 4 T2.**
+Exact next activity: **Article 4 `பழிக்குப் பழி` — T2 bilingual fidelity review only; stop before Article 4 T3.**
