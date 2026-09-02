@@ -81,7 +81,8 @@ Contents-page numbers remain independent source witnesses from directly visible 
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - E0 English translation planning/setup: **COMPLETE / PASS**
 - T0 frozen-source registration: **6 / 6 PASS**
-- T1–T5: **NOT STARTED**
+- T1 close drafts: **1 / 6 PASS**
+- T2–T5: **0 / 6**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
@@ -99,6 +100,16 @@ English translation plan: [`../TRANSLATION_PLAN.md`](../TRANSLATION_PLAN.md).
 
 All six blobs were re-fetched and matched at E0. They remain the controlling translation authorities.
 
+## English Article 1 T1 provenance
+
+- working English title: **The Clarion Call of the Race**
+- English file: `../translations/en/01-ina-muzhakkam.md`
+- source Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
+- T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
+- status: `draft`
+- source-page comments: **8 / 8 preserved in order**
+- blockers: **0**
+
 ## English translation exclusions / constraints
 
 - scans 24 and 37 promotional blocks are not body translation inputs;
@@ -108,4 +119,4 @@ All six blobs were re-fetched and matched at E0. They remain the controlling tra
 - `கவிதைகள்` English must preserve frozen headings and lineation;
 - source-page comments are required for bilingual traceability.
 
-Exact next activity: **Article 1 `இன முழக்கம்` — T1 close English draft only; stop before T2.**
+Exact next activity: **Article 1 `இன முழக்கம்` — T2 bilingual fidelity review only; stop before T3.**
