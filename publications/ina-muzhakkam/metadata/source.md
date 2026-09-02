@@ -48,6 +48,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - Article 4 scan 34→35: `அவரை அந்தக் கொலைக்காரர்களே` / `எடுத்துப் புதைத்துவிட்டு`;
 - Article 4 scan 35→36: `மூன்று` / `குண்டுகளை`;
 - scan 36→37: `இந்த மதத்தைப் பழிக்குப்` / `பழி வாங்க வேண்டாமா?`;
+- Article 5 scan 38→39: `குலச்` / `சிறை`;
 - scan 41 heading: `ஏற்பரோ!`;
 - scan 49 heading: `வருணமா? மரணமா?`;
 - scan 50 catalogue remains outside all six body assemblies.
@@ -61,7 +62,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - P5 assembly recheck: **6 / 6 PASS**
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **4 / 6 PASS**
+- T1: **5 / 6 PASS**
 - T2: **4 / 6 PASS**
 - T3: **4 / 6 PASS**
 - T4: **4 / 6 PASS**
@@ -87,32 +88,19 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 
 Articles 1–4 are individually frozen.
 
-## English Article 4 provenance — T5 VERIFIED
+## English Article 5 provenance — T1 CLOSE DRAFT
 
-- title: **Revenge for Revenge**
-- English file: `../translations/en/04-pazhikku-pazhi.md`
-- Tamil blob: `e140df7f6234e8362b9139793706533fec0c62d8`
-- T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
-- T2 English blob: `da8969239016948ff2330ecfca6a0963762db95c`
-- T3 English blob: `6e095b751ef39c780d11792a2be7f9293a8a905d`
-- T4 English blob: `a5973f49b53ed37e0f16ceb6f72145d649e39093`
-- T5 verified English blob: `46627c3cecfd186e1735d8766ddda27414118e62`
-- status: `verified`
-- source comments: **8 / 8 preserved in order**
-- scan-31→32 trace: `its / taproot`
-- scan-34→35 trace: `would have / taken him away`
-- scan-35→36 trace: `three / bullets`
-- scan-36→37 trace: `revenge for / revenge`
-- T2 fidelity corrections: **4 / 4 preserved**
-- T3 voice/style corrections: **10 / 10 preserved**
-- T4 audit body corrections: **1 / 1 preserved**
-- T5 final body corrections: **0**
+- title: **Aryanism Speaks**
+- English file: `../translations/en/05-aariyam-pesugirathu.md`
+- Tamil blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
+- T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
+- status: `draft`
+- source comments: **2 / 2 preserved in order**
+- scan-38→39 trace: `Kula— / chirai`
 - Tamil source changes: **0**
 - blockers: **0**
 
-Article 4 freezes the source-bearing treatments **communalism / communal division**, **seat of life**, **Dravidar Kazhagam**, **Congress Working Committee**, source-distinct **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **agraharam**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, quoted **blood abhishekam**, source-bearing **Gotse**, **Varnashrama**, **ahimsa / satya**, **Pushpa Vimanam**, **heavenly realm**, **Paraiyan / Pallan / Brahmin**, and **Nandan / Ramalingar / Vallalar / Thirugnanasambandar**.
-
-The T4 quotation-scope correction remains frozen: `“வகுப்பு வாதம்” வீழ்க என்கிறது காரியக் கமிட்டி.` is rendered **“Communalism” must fall, says the Working Committee.** Source-sensitive `பாரட்டத்` and `ஜோதில்கலந்தான்` remain governed by the frozen Tamil authority and were not replaced by scan alternatives. All four T2 corrections, all ten T3 voice refinements, all **8 / 8** source comments and all four page traces remain intact. T5 found no final body defect.
+T1 establishes working/source-bearing treatments **Aryanism Speaks**, **Hiraniyan / Pragalathan**, **Ravanan / Vibheeshanan / Vali / Sugrivan**, **the chapter of Vali's slaying**, literal **axe-handle**, **Kulachirai**, recurring verified **Gandhiyar / Gotse**, **Omaanthooraar**, quoted **“Opposition to Aryanism?”**, **Black Army**, and closing **Vibheeshanans and Sugrivans / your race**. These are not yet fidelity-reviewed.
 
 ## English translation exclusions / constraints
 
@@ -123,4 +111,4 @@ The T4 quotation-scope correction remains frozen: `“வகுப்பு வ�
 - source-page comments are required for bilingual traceability;
 - Articles 1–4 verified decisions must not be reopened without genuine source support.
 
-Exact next activity: **Article 5 `ஆரியம் பேசுகிறது` — T1 close English draft only; stop before Article 5 T2.**
+Exact next activity: **Article 5 `ஆரியம் பேசுகிறது` — T2 bilingual fidelity review only; stop before Article 5 T3.**
