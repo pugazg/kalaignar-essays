@@ -8,8 +8,8 @@ source_tamil_blob_sha: "df5907d3d6fa4981a2377fe621bf6f2d7ecc1010"
 source_scan_pages: "6-13"
 source_printed_pages: "contents witness start 4; scan 6 numeral not visible; scans 7-13 visibly 6-12"
 language: "en"
-translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 1 T4 terminology / quotation / citation / source audit complete"
+translation_status: "verified"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 1 T5 final article verification complete"
 ---
 
 # The Clarion Call of the Race
