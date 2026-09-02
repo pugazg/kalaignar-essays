@@ -64,7 +64,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - T0: **6 / 6 PASS**
 - T1: **5 / 6 PASS**
 - T2: **5 / 6 PASS**
-- T3: **4 / 6 PASS**
+- T3: **5 / 6 PASS**
 - T4: **4 / 6 PASS**
 - T5: **4 / 6 PASS**
 - E6/E7: **NOT STARTED**
@@ -88,23 +88,23 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 
 Articles 1–4 are individually frozen.
 
-## English Article 5 provenance — T2 FIDELITY-REVIEWED
+## English Article 5 provenance — T3 VOICE-REVIEWED
 
 - title: **Aryanism Speaks**
 - English file: `../translations/en/05-aariyam-pesugirathu.md`
 - Tamil blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 - T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
 - T2 English blob: `508639503ab830e83d8cac547476c83d26a8494f`
-- status: `fidelity-reviewed`
+- T3 English blob: `77310ccb8bac5304f15050ee0988ae26d8302b10`
+- status: `voice-reviewed`
 - source comments: **2 / 2 preserved in order**
 - scan-38→39 trace: `Kula— / chirai`
-- T2 fidelity corrections: **2**
+- T2 fidelity corrections: **2 / 2 preserved**
+- T3 voice/style body corrections: **0**
 - Tamil source changes: **0**
 - blockers: **0**
 
-T2 confirms source-bearing treatments **Aryanism Speaks**, **Hiraniyan / Pragalathan**, **Ravanan / Vibheeshanan / Vali / Sugrivan**, **the chapter of Vali's slaying**, literal **axe-handle**, **Kulachirai**, recurring verified **Gandhiyar / Gotse**, **Omaanthooraar**, quoted **“Opposition to Aryanism?”**, **Black Army**, and closing **Vibheeshanans and Sugrivans / your race**.
-
-Two fidelity corrections were made against the frozen Tamil authority: `அவனிடத்தில் ஆசை வலை விரித்தேன்` now reads **I cast a net of desire around him** rather than T1 **I spread a net of desire for him**; and `ஓமாந்தூராரை அதட்டிக் கேட்டேன்` now reads **I demanded of Omaanthooraar** rather than T1 **I barked at Omaanthooraar**. The first restores the entrapment relation; the second removes an unsupported animal metaphor. After correction no fidelity or provenance defect remains.
+T3 reread the fidelity-reviewed English against frozen Tamil for voice only and required no body correction. Direct first-person personification, sarcasm/mockery, abrupt clauses, rhetorical questions, vivid physical imagery, repetition and the closing boast remain intact. Both T2 corrections, all source-bearing forms, both ordered comments and the physical `Kula— / chirai` boundary remain preserved.
 
 ## English translation exclusions / constraints
 
@@ -115,4 +115,4 @@ Two fidelity corrections were made against the frozen Tamil authority: `அவ�
 - source-page comments are required for bilingual traceability;
 - Articles 1–4 verified decisions must not be reopened without genuine source support.
 
-Exact next activity: **Article 5 `ஆரியம் பேசுகிறது` — T3 Kalaignar voice review only; stop before Article 5 T4.**
+Exact next activity: **Article 5 `ஆரியம் பேசுகிறது` — T4 terminology / quotation / citation / source audit only; stop before Article 5 T5.**
