@@ -12,7 +12,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
 - T1: **5 / 6 PASS**
-- T2: **4 / 6 PASS**
+- T2: **5 / 6 PASS**
 - T3: **4 / 6 PASS**
 - T4: **4 / 6 PASS**
 - T5: **4 / 6 PASS**
@@ -27,14 +27,15 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **In the Heavenly Realm** | **T5 PASS / verified** |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | **Beat the Drum** | **T5 PASS / verified** |
 | 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | **Revenge for Revenge** | **T5 PASS / verified** |
-| 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | **Aryanism Speaks** | **T1 PASS / draft / T2 NEXT** |
+| 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | **Aryanism Speaks** | **T2 PASS / fidelity-reviewed / T3 NEXT** |
 | 6 | `கவிதைகள்` | `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` | TBD | **T0 PASS** |
 
 Article 1 T5 blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.  
 Article 2 T5 verified blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`.  
 Article 3 T5 verified blob: `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.  
 Article 4 T5 verified blob: `46627c3cecfd186e1735d8766ddda27414118e62`.  
-Article 5 T1 draft blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`.
+Article 5 T1 draft blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`.  
+Article 5 T2 fidelity-reviewed blob: `508639503ab830e83d8cac547476c83d26a8494f`.
 
 ## Translation authority
 
@@ -62,19 +63,23 @@ Article 5 T1 draft blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`.
 
 All four are individually frozen and must not be reopened without a genuine source-supported defect.
 
-## Article 5 T1 boundary
+## Article 5 T2 boundary
 
 - file: `05-aariyam-pesugirathu.md`
 - working title: **Aryanism Speaks**
-- status: `draft`
+- status: `fidelity-reviewed`
 - Tamil blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 - T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
+- T2 English blob: `508639503ab830e83d8cac547476c83d26a8494f`
 - source comments: **2 / 2 preserved in order** for scans 38–39
 - scan-38→39 trace: `Kula— / chirai`
+- T2 fidelity corrections: **2**
 - blockers: **0**
 
-T1 translates the full frozen Article-5 assembly as a close rhetorical draft. Working/source-bearing treatments established at this gate are **Aryanism Speaks**, **Hiraniyan / Pragalathan**, **Ravanan / Vibheeshanan / Vali / Sugrivan**, **the chapter of Vali's slaying**, **axe-handle**, **Kulachirai**, verified recurring **Gandhiyar / Gotse**, **Omaanthooraar**, quoted **“Opposition to Aryanism?”**, **Black Army**, and closing **Vibheeshanans and Sugrivans / your race**. These remain T1 decisions pending bilingual fidelity review.
+T2 preserved the T1 source-bearing set **Aryanism Speaks**, **Hiraniyan / Pragalathan**, **Ravanan / Vibheeshanan / Vali / Sugrivan**, **the chapter of Vali's slaying**, **axe-handle / Kulachirai**, verified recurring **Gandhiyar / Gotse**, **Omaanthooraar**, quoted **“Opposition to Aryanism?”**, **Black Army**, and closing **Vibheeshanans and Sugrivans / your race**.
+
+Two fidelity corrections were made: `அவனிடத்தில் ஆசை வலை விரித்தேன்` is now **I cast a net of desire around him** rather than **I spread a net of desire for him**, removing an unintended implication about the speaker's desire; and `ஓமாந்தூராரை அதட்டிக் கேட்டேன்` is now **I demanded of Omaanthooraar** rather than **I barked at Omaanthooraar**, removing an added animal metaphor while retaining forceful questioning. After correction there are **0** omitted clauses, added claims, referent defects, logical/negative/comparison defects, quotation-scope defects, or page-provenance defects.
 
 ## Exact next activity
 
-**Article 5 `ஆரியம் பேசுகிறது` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and T1 English blob `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`; compare the complete English paragraph by paragraph for omitted meaning, added claims, names/referents, negatives, comparisons, causal relations, quotation scope and page provenance; preserve both source comments and `Kula— / chirai`; make T2 fidelity corrections only and **stop before Article 5 T3**.
+**Article 5 `ஆரியம் பேசுகிறது` — T3 Kalaignar voice review only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and T2 English blob `508639503ab830e83d8cac547476c83d26a8494f`; review directness, sarcasm, mockery, first-person personification, rhetorical questions, abrupt contrasts, vivid images and repeated force; preserve both T2 corrections, both source comments, `Kula— / chirai`, quotation scope and all source-bearing forms; make voice/style-only corrections and **stop before Article 5 T4**.
