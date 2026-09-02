@@ -42,7 +42,7 @@ Each unit passes T0 source prerequisite, T1 close draft, T2 bilingual fidelity r
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
 - T1: **3 / 6 PASS**
-- T2: **2 / 6 PASS**
+- T2: **3 / 6 PASS**
 - T3: **2 / 6 PASS**
 - T4: **2 / 6 PASS**
 - T5: **2 / 6 PASS**
@@ -56,39 +56,46 @@ Each unit passes T0 source prerequisite, T1 close draft, T2 bilingual fidelity r
 
 Both are individually frozen; reopen only for a genuine source-supported defect.
 
-## Article 3 — T1 COMPLETE / DRAFT
+## Article 3 — T2 COMPLETE / FIDELITY-REVIEWED
 
 - Tamil authority: `articles/03-murasaraivai.md`
 - frozen Tamil blob: `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`
 - English file: `translations/en/03-murasaraivai.md`
 - working English title: **Beat the Drum**
 - T1 English blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`
-- status: `draft`
+- T2 English blob: `02d75107effa010ee61b1cc4d999fe4787c66f31`
+- status: `fidelity-reviewed`
 - source comments: **5 / 5 preserved in order** for scans 25–29
 - scan-25→26 trace: `ches— / t`
 - scan-28→29 trace: `dwarf / fox`
+- T2 fidelity corrections: **3**
 - blockers: **0**
 
-### Article 3 T1 working decisions
+### Article 3 source-bearing decisions through T2
 
 1. `முரசறைவாய்` → **Beat the Drum**; `போர்முரசு / போர் முரசு` → **war drum**; `வெற்றி முரசு` → **victory drum**.
-2. Reuse verified **Tamilian / Dravidian / Tamil race** where the same Tamil forms/functions recur.
+2. Reuse verified **Tamilian / Dravidian / Tamil race** only where the same Tamil forms/functions genuinely recur.
 3. `கனகன் / விசயன்` → **Kanakan / Visayan**, preserving Article-3 source forms rather than importing Article-1 `Kanaka Visayar`.
-4. `ஆரியர்` → **Aryans / an Aryan** contextually; abstract `ஆரியம்` → working **Aryanism**.
-5. `வடவர்` → **Northerners** in the imperialism phrase.
-6. `உருட்டுச்சட்டிப் பொம்மைகள்` → working **tumbler-dolls**.
+4. `ஆரியர்` → **Aryans / an Aryan** contextually; abstract `ஆரியம்` → **Aryanism**.
+5. `வடவர்` → **Northerners**.
+6. `உருட்டுச்சட்டிப் பொம்மைகள்` → **tumbler-dolls**.
 7. quoted `பாராக்கு` → source-bearing **paarakku**, without outside identification.
-8. plural source forms `காமராஜர்கள் / சண்முகங்கள் / ஜீவாக்கள்` → **Kamarajars / Shanmugams / Jeevas**.
-9. `அத்தான்` → source-bearing **Aththaan**; `சோற்றுப் பொங்கல்` → working **rice-pongal**.
-10. frozen `இசயங்காட்டி` is not silently normalised; T1 retains cautious partial **showing her *isayam*** pending T2.
-11. `வேட்டாயிற்றே` → working **became a blast against a foreign king's fort**, pending T2.
+8. plural `காமராஜர்கள் / சண்முகங்கள் / ஜீவாக்கள்` → **Kamarajars / Shanmugams / Jeevas**.
+9. `அத்தான்` → **Aththaan**; `சோற்றுப் பொங்கல்` → **rice-pongal**.
+10. frozen `இசயங்காட்டி` remains deliberately unnormalised; English keeps cautious partial **showing her *isayam***.
+11. `வேட்டாயிற்றே` remains **became a blast against a foreign king's fort**.
 12. `குன்றெடுக்கும் நெடுந் தோளான்` → literal **long-shouldered hill-lifter**, without outside mythic identification.
 13. `சாணிப் பிள்ளையார் / சீனிப்பாயசம்` → **dung Pillaiyar / sugar payasam**.
-14. All five source-page comments and both physical page-boundary traces are retained.
+14. quoted `வாழ்விலோர் திருநாள்` remains **A Festival Day in Life**; `பனிப்பார்வை` remains **dewy glance**.
+15. All five source-page comments and both physical page-boundary traces remain explicit.
 
-### Article 3 T2 audit flags
+### Article 3 T2 fidelity corrections
 
-Explicitly recheck the title, `இசயங்காட்டி`, `உருட்டுச்சட்டிப் பொம்மைகள்`, `பாராக்கு`, `வேட்டாயிற்றே`, `வீரத்தை விலை கேட்கும் ஆரியம் கொண்டது ஏன்?`, quoted `வாழ்விலோர் திருநாள்`, `பனிப்பார்வை`, `சோற்றுப் பொங்கல்`, the literal hill-lifter allusion, and `சாணிப் பிள்ளையார் / சீனிப்பாயசம்`. Check every comparison, historical statement, command and rhetorical question against frozen Tamil. No outside identification or scan-alternate lexical reading may control T2.
+1. `துவண்டாயோ` — **Did you droop away searching for me?** → **Did you grow weary searching for me?**.
+2. `கேட்டுப் பார்` — **Ask and see your glories...** → **Hear of your glories...**.
+3. `கடல் கொள்ளாமல் ... வீரத்தை விலை கேட்கும் ஆரியம் கொண்டது ஏன்?` — corrected the implicit direct-address object from **your valour / it** to **you / you**; `வீரத்தை` remains within **which asks a price for valour**.
+
+T2 findings after correction: omitted clauses **0**; added claims **0**; unresolved names/referents **0**; remaining negative/comparison/logical-relation defects **0**; source-comment/page-trace defects **0**.
 
 ## Publication-specific non-regression
 
@@ -97,17 +104,17 @@ Explicitly recheck the title, `இசயங்காட்டி`, `உருட
 - Do not identify unexplained source labels from outside knowledge.
 - Preserve quotation status, ordered source-page comments and documented page boundaries.
 - Excluded scan-24/37 promotions, scan-40 review/front matter and scan-50 catalogue remain outside the six bodies.
-- Article 1 and Article 2 are T5-frozen.
+- Articles 1 and 2 are T5-frozen.
 
 ## Article order
 
 1. `இன முழக்கம்` — **T5 VERIFIED**
 2. `சொர்க்க லோகத்தில்` — **T5 VERIFIED**
-3. `முரசறைவாய்` — **T1 PASS / T2 NEXT**
+3. `முரசறைவாய்` — **T2 PASS / T3 NEXT**
 4. `பழிக்குப் பழி`
 5. `ஆரியம் பேசுகிறது`
 6. `கவிதைகள்`
 
 ## Exact next activity
 
-**Article 3 — `முரசறைவாய்` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` and T1 English blob `372a0572b95d6e0d02737f1b534f583b1dddf134`; compare every paragraph/clause for omissions, added claims, names/referents, negatives, comparisons, logical relations, deliberate repetition, commands and questions; audit the T1 working/source-bearing decisions above; verify all **5 / 5** comments and `ches— / t`, `dwarf / fox` traces; make fidelity corrections only, then **stop before Article 3 T3**.
+**Article 3 — `முரசறைவாய்` — T3 Kalaignar voice review only.** Re-fetch frozen Tamil blob `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` and T2 English blob `02d75107effa010ee61b1cc4d999fe4787c66f31`; review the complete English against Tamil for directness, martial cadence, commands, rhetorical questions, repetition, ridicule, Pongal wordplay, historical contrasts and closing polemical force; preserve all T2 meaning/source-bearing decisions, all **5 / 5** comments and `ches— / t`, `dwarf / fox` traces; make voice/style corrections only, then **stop before Article 3 T4**.
