@@ -37,7 +37,7 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - T1: **5 / 6 PASS**
 - T2: **5 / 6 PASS**
 - T3: **5 / 6 PASS**
-- T4: **4 / 6 PASS**
+- T4: **5 / 6 PASS**
 - T5: **4 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
@@ -63,7 +63,7 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 
 All four are individually frozen and must not be reopened without a genuine source-supported defect.
 
-## English Article 5 — T3 COMPLETE / VOICE-REVIEWED
+## English Article 5 — T4 COMPLETE / AUDITED
 
 - title: **Aryanism Speaks**
 - file: `translations/en/05-aariyam-pesugirathu.md`
@@ -71,14 +71,16 @@ All four are individually frozen and must not be reopened without a genuine sour
 - T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
 - T2 English blob: `508639503ab830e83d8cac547476c83d26a8494f`
 - T3 English blob: `77310ccb8bac5304f15050ee0988ae26d8302b10`
-- status: `voice-reviewed`
+- T4 English blob: `1ecb77039eec8976ac4b25e4ff1b7dd0de2fad7e`
+- status: `voice-reviewed` pending T5
 - source comments: **2 / 2 preserved in order**
 - scan-38→39: `Kula— / chirai`
 - T2 fidelity corrections: **2 / 2 preserved**
 - T3 voice/style body corrections: **0**
+- T4 terminology/quotation/citation/source body corrections: **0**
 - blockers: **0**
 
-T3 reread the complete fidelity-reviewed English against frozen Tamil for directness, sarcasm, mockery, first-person personification, rhetorical questions, abrupt contrasts, physical imagery, repetition and boastful cadence. No body correction was required: the translation already preserves the source's visceral boasts, clipped contrasts, repeated **writhed and writhed**, ironic **When the world sobbed and wept, I offered sweetness**, quoted challenge **“Opposition to Aryanism?”**, shaking seat of power, direct **Why are you glaring?**, and closing feast-boast. Both T2 fidelity corrections, all source-bearing forms, both comments and `Kula— / chirai` remain intact.
+T4 audited the title and ideological vocabulary, all source-specific names and transliterations, **axe-handle / Kulachirai**, recurring **Gandhiyar / Gotse**, **Omaanthooraar**, quoted **“Opposition to Aryanism?”**, **Black Army**, closing **Vibheeshanans and Sugrivans / your race**, both source comments and scan-38→39 `Kula— / chirai`. No terminology, source-witness, quotation/citation or page-provenance defect was found, so the body remains unchanged from T3. Both T2 fidelity corrections and the T3 zero-body-change result remain intact.
 
 ## Permanent non-regression
 
@@ -105,4 +107,4 @@ T3 reread the complete fidelity-reviewed English against frozen Tamil for direct
 
 ## Exact next activity
 
-**Article 5 `ஆரியம் பேசுகிறது` — T4 terminology / quotation / citation / source audit only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and T3 English blob `77310ccb8bac5304f15050ee0988ae26d8302b10`; audit the publication lexicon, source-specific names, ideological labels, quotation scope, source comments and scan-38→39 boundary; preserve both T2 corrections and the T3 zero-body-change result; make T4 audit corrections only and **stop before Article 5 T5**.
+**Article 5 `ஆரியம் பேசுகிறது` — T5 final article verification only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and T4 English blob `1ecb77039eec8976ac4b25e4ff1b7dd0de2fad7e`; reread the complete article against all T1–T4 decisions for final completeness, meaning, voice, terminology, quotation/source treatment and page provenance; preserve both T2 corrections, the T3 zero-body-change result, the T4 zero-defect audit, both comments and `Kula— / chirai`; if clean, mark Article 5 verified and individually freeze it; **stop before Article 6 T1**.
