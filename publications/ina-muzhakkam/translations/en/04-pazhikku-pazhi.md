@@ -8,8 +8,8 @@ source_tamil_blob_sha: "e140df7f6234e8362b9139793706533fec0c62d8"
 source_scan_pages: "30-37"
 source_printed_pages: "contents witness start 29; scan 30 numeral not visible; scans 31-37 visibly 30-36"
 language: "en"
-translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 4 T4 terminology/quotation/citation/source audit complete"
+translation_status: "verified"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 4 T5 final verification complete"
 ---
 
 # Revenge for Revenge
