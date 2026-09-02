@@ -8,7 +8,7 @@ page_type: "poetry-page"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-transcription_method: "user lexical baseline retained; poem heading and source lineation directly verified against source scan"
+transcription_method: "user lexical baseline retained; P5 source dash punctuation and verse lineation directly verified against source scan"
 ---
 
 # அச்சு உரை
@@ -17,14 +17,14 @@ transcription_method: "user lexical baseline retained; poem heading and source l
 
 குடிசைதான்! ஒருபுறத்தில்  
 கூரிய வேல்வாள்  
-வரிசையாய் அமைந்திருக்கும் - வையத்தைப்  
+வரிசையாய் அமைந்திருக்கும்—வையத்தைப்  
 பிடிப்பதற்கும் வெம்பகை முடிப்பதற்கும்  
 வடித்துவைத்த படைக்கலம்போல் மின்னும்;  
-புலியின் குகையினிலே அழகில்லை -  
+புலியின் குகையினிலே அழகில்லை—  
 புதுமையல்லவும்  
 கிலியும் மெய் சிலிர்ப்பும்  
 கீழிறங்கும் தன்மையும் தலைகாட்டா  
-மானத்தின் உறைவிடம் -  
+மானத்தின் உறைவிடம்—  
 மறவன் மாளிகை.
 
 இல்லத்தின் வாயிலிலே  
@@ -52,5 +52,7 @@ transcription_method: "user lexical baseline retained; poem heading and source l
 
 - Printed page numeral `44` is directly visible.
 - `வாளிங்கே!` begins here and continues through scans 46–48.
+- **P5 scan 45 PASS:** source verse lineation was confirmed and editorial spaced hyphens were restored to the printed long dash at `அமைந்திருக்கும்—வையத்தைப்`, `அழகில்லை—`, and `உறைவிடம்—`.
+- Lexical scan/baseline disagreements on scan 45: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 45; அச்சுப் பக்கம்: 44 -->
