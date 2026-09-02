@@ -64,7 +64,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - T1: **4 / 6 PASS**
 - T2: **4 / 6 PASS**
 - T3: **4 / 6 PASS**
-- T4: **3 / 6 PASS**
+- T4: **4 / 6 PASS**
 - T5: **3 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
@@ -86,7 +86,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 
 Articles 1–3 are individually frozen.
 
-## English Article 4 provenance — T3 VOICE-REVIEWED
+## English Article 4 provenance — T4 AUDITED
 
 - title: **Revenge for Revenge**
 - English file: `../translations/en/04-pazhikku-pazhi.md`
@@ -94,6 +94,7 @@ Articles 1–3 are individually frozen.
 - T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
 - T2 English blob: `da8969239016948ff2330ecfca6a0963762db95c`
 - T3 English blob: `6e095b751ef39c780d11792a2be7f9293a8a905d`
+- T4 English blob: `a5973f49b53ed37e0f16ceb6f72145d649e39093`
 - status: `voice-reviewed`
 - source comments: **8 / 8 preserved in order**
 - scan-31→32 trace: `its / taproot`
@@ -101,13 +102,14 @@ Articles 1–3 are individually frozen.
 - scan-35→36 trace: `three / bullets`
 - scan-36→37 trace: `revenge for / revenge`
 - T2 fidelity corrections: **4 / 4 preserved**
-- T3 voice/style corrections: **10**
+- T3 voice/style corrections: **10 / 10 preserved**
+- T4 audit body corrections: **1**
 - Tamil source changes: **0**
 - blockers: **0**
 
-T3 preserves Article-4 source-bearing treatments including **communalism / communal division**, **seat of life**, **Dravidar Kazhagam**, **Congress Working Committee**, source-distinct **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, source-bearing **Gotse**, **Varnashrama**, **ahimsa / satya**, **Pushpa Vimanam**, **heavenly realm**, **Paraiyan / Pallan / Brahmin**, and **Nandan / Ramalingar / Vallalar / Thirugnanasambandar**.
+T4 confirms the Article-4 source-bearing treatments including **communalism / communal division**, **seat of life**, **Dravidar Kazhagam**, **Congress Working Committee**, source-distinct **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **agraharam**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, quoted **blood abhishekam**, source-bearing **Gotse**, **Varnashrama**, **ahimsa / satya**, **Pushpa Vimanam**, **heavenly realm**, **Paraiyan / Pallan / Brahmin**, and **Nandan / Ramalingar / Vallalar / Thirugnanasambandar**.
 
-All four T2 fidelity corrections remain intact. T3 made ten voice/style-only refinements: clipped welcome cadence; repeated **Let us** in the pledge; **Communalism's seat of life**; a more direct Brahminism accusation; direct cause-and-abolish syntax for Brahminism/Brahmin Seva Associations; **the true memorial to build**; **deserves high praise**; the photographic image **photographed the blood-soaked tongue ... and shown it**; **Gandhiyar preached these: truth—the path of satya**; and the direct peace-proof cadence **The great riots in the country are proof...**. All **8 / 8** source comments and all four page traces remain intact.
+The one T4 body correction restores source quotation scope: `“வகுப்பு வாதம்” வீழ்க என்கிறது காரியக் கமிட்டி.` is rendered **“Communalism” must fall, says the Working Committee.** rather than T3's broadened fully quoted slogan. Source-sensitive `பாரட்டத்` and `ஜோதில்கலந்தான்` remain governed by the frozen Tamil authority and were not replaced by scan alternatives. All four T2 corrections, all ten T3 voice refinements, all **8 / 8** source comments and all four page traces remain intact.
 
 ## English translation exclusions / constraints
 
@@ -118,4 +120,4 @@ All four T2 fidelity corrections remain intact. T3 made ten voice/style-only ref
 - source-page comments are required for bilingual traceability;
 - Articles 1–3 verified decisions must not be reopened without genuine source support.
 
-Exact next activity: **Article 4 `பழிக்குப் பழி` — T4 terminology / quotation / citation / source audit only; stop before Article 4 T5.**
+Exact next activity: **Article 4 `பழிக்குப் பழி` — T5 final article verification only; stop before Article 5 T1.**
