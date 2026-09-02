@@ -34,7 +34,7 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - P5 assembly recheck: **6 / 6 PASS**
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **4 / 6 PASS**
+- T1: **5 / 6 PASS**
 - T2: **4 / 6 PASS**
 - T3: **4 / 6 PASS**
 - T4: **4 / 6 PASS**
@@ -63,37 +63,25 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 
 All four are individually frozen and must not be reopened without a genuine source-supported defect.
 
-## English Article 4 — T5 COMPLETE / VERIFIED
+## English Article 5 — T1 COMPLETE / CLOSE DRAFT
 
-- title: **Revenge for Revenge**
-- file: `translations/en/04-pazhikku-pazhi.md`
-- Tamil blob: `e140df7f6234e8362b9139793706533fec0c62d8`
-- T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
-- T2 English blob: `da8969239016948ff2330ecfca6a0963762db95c`
-- T3 English blob: `6e095b751ef39c780d11792a2be7f9293a8a905d`
-- T4 English blob: `a5973f49b53ed37e0f16ceb6f72145d649e39093`
-- T5 verified English blob: `46627c3cecfd186e1735d8766ddda27414118e62`
-- status: `verified`
-- source comments: **8 / 8 preserved in order**
-- scan-31→32: `its / taproot`
-- scan-34→35: `would have / taken him away`
-- scan-35→36: `three / bullets`
-- scan-36→37: `revenge for / revenge`
-- T2 fidelity corrections: **4 / 4 preserved**
-- T3 voice/style corrections: **10 / 10 preserved**
-- T4 audit body corrections: **1 / 1 preserved**
-- T5 final body corrections: **0**
+- title: **Aryanism Speaks**
+- file: `translations/en/05-aariyam-pesugirathu.md`
+- Tamil blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
+- T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
+- status: `draft`
+- source comments: **2 / 2 preserved in order**
+- scan-38→39: `Kula— / chirai`
 - blockers: **0**
 
-Article 4 freezes the source-bearing set **communalism / communal division**, **seat of life**, **Dravidar Kazhagam**, **Congress Working Committee**, **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **agraharam**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, quoted **blood abhishekam**, **Gotse**, **Varnashrama**, **ahimsa / satya**, **Pushpa Vimanam**, **heavenly realm**, **Paraiyan / Pallan / Brahmin**, and **Nandan / Ramalingar / Vallalar / Thirugnanasambandar**.
-
-T4's quotation-scope correction remains frozen: source `“வகுப்பு வாதம்” வீழ்க என்கிறது காரியக் கமிட்டி.` is **“Communalism” must fall, says the Working Committee.** All four T2 fidelity corrections and all ten T3 voice/style corrections remain intact. T5 found no final body defect; all **8 / 8** source comments and all four page traces remain intact.
+T1 translates the complete frozen Article-5 assembly and preserves its first-person boast, abrupt exclamations, rhetorical question and source quotation. Working/source-bearing forms are **Aryanism Speaks**, **Hiraniyan / Pragalathan**, **Ravanan / Vibheeshanan / Vali / Sugrivan**, **the chapter of Vali's slaying**, literal **axe-handle**, **Kulachirai**, recurring verified **Gandhiyar / Gotse**, **Omaanthooraar**, quoted **“Opposition to Aryanism?”**, **Black Army**, and closing **Vibheeshanans and Sugrivans / your race**. These remain T1 decisions pending T2 bilingual fidelity review.
 
 ## Permanent non-regression
 
 - scan 10 remains `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
 - scan 21→22 `நாயன்மார்கள்` boundary remains corrected;
 - scan 36→37 remains `இந்த மதத்தைப் பழிக்குப்` / `பழி வாங்க வேண்டாமா?`;
+- scan 38→39 Article-5 source boundary remains `குலச்` / `சிறை`, represented in T1 English as `Kula— / chirai`;
 - scan 41 heading remains `ஏற்பரோ!`;
 - scan 49 heading remains `வருணமா? மரணமா?`;
 - promotional/catalogue/front-matter exclusions remain outside the six English bodies;
@@ -113,4 +101,4 @@ T4's quotation-scope correction remains frozen: source `“வகுப்பு
 
 ## Exact next activity
 
-**Article 5 `ஆரியம் பேசுகிறது` — T1 close English draft only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`; translate the complete article paragraph by paragraph from the frozen Tamil authority, preserving directness, quotation status, source comments, page trace and source-bearing forms; record the T1 English blob and provenance across durable records; **stop before Article 5 T2**.
+**Article 5 `ஆரியம் பேசுகிறது` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and T1 English blob `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`; compare the complete draft paragraph by paragraph for omitted meaning, added claims, names/referents, negatives, comparisons, causal relations, quotation scope and page provenance; preserve both source comments and `Kula— / chirai`; make T2 fidelity corrections only and **stop before Article 5 T3**.
