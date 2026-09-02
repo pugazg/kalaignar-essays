@@ -84,7 +84,8 @@ Contents-page numbers remain independent source witnesses from directly visible 
 - T1 close drafts: **1 / 6 PASS**
 - T2 fidelity reviews: **1 / 6 PASS**
 - T3 voice reviews: **1 / 6 PASS**
-- T4–T5: **0 / 6**
+- T4 audits: **1 / 6 PASS**
+- T5: **0 / 6**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
@@ -100,22 +101,23 @@ English translation plan: [`../TRANSLATION_PLAN.md`](../TRANSLATION_PLAN.md).
 5. `articles/05-aariyam-pesugirathu.md` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `articles/06-kavithaigal.md` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-All six blobs were re-fetched and matched at E0. Article 1 was re-fetched again at T2 and T3 and still matched `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`. They remain the controlling translation authorities.
+All six blobs were re-fetched and matched at E0. Article 1 was re-fetched again at T2, T3 and T4 and still matched `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`. They remain the controlling translation authorities.
 
-## English Article 1 T3 provenance
+## English Article 1 T4 provenance
 
-- working English title: **The Clarion Call of the Race** — T3 confirmed, not T5-frozen
+- working English title: **The Clarion Call of the Race** — T4 confirmed, not T5-frozen
 - English file: `../translations/en/01-ina-muzhakkam.md`
 - source Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
-- T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`
 - T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`
-- status: `voice-reviewed`
+- T4 English blob: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`
+- status: `voice-reviewed` — retained until T5 verification
 - source-page comments: **8 / 8 preserved in order**
 - T2 fidelity corrections preserved: **5 / 5**
-- T3 voice/style body corrections: **10**
+- T3 voice/style body corrections preserved: **10 / 10**
+- T4 body corrections: **0**
 - blockers: **0**
 
-T3 changed English voice only. It restored the blunt force of the Ahalya/Tara wording, tightened stiff English around Ilango and Pisiranthaiyar, preserved the Sai Baba ridicule, restored active first-person force to Senguttuvan, made the Vallal Pari challenge natural and direct, and sharpened the closing rhetorical questions. Frozen Tamil wording, source-sensitive incomplete forms and source-page trace were not changed.
+T4 audited the working title, Article-1 ideological/social vocabulary, names/referents, source-specific transliterations, quotation scope, source-page trace, incomplete forms and source-witness distinctions. It confirmed the `Vadalur Ramalingam / Vadalur Ramalingar` distinction, frozen `Kanaka Visayar`, incomplete `Self-Respect ....` and `giv....`, and scan-9→10 `suf— / fer......` trace. It also recorded that the Vallal Pari unit's unmatched opening outer double quotation is a frozen source punctuation anomaly and must not be silently repaired. No English body correction was required; the T4 blob differs from T3 only through frontmatter provenance.
 
 ## English translation exclusions / constraints
 
@@ -127,4 +129,4 @@ T3 changed English voice only. It restored the blunt force of the Ahalya/Tara wo
 - `கவிதைகள்` English must preserve frozen headings and lineation;
 - source-page comments are required for bilingual traceability.
 
-Exact next activity: **Article 1 `இன முழக்கம்` — T4 terminology / quotation / citation / source audit only; stop before T5.**
+Exact next activity: **Article 1 `இன முழக்கம்` — T5 final article verification only; stop before Article 2.**
