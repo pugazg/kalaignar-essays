@@ -23,7 +23,6 @@ Workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkarav
 
 - physical scans: **83**
 - printed articles: **14**
-- Tamil page records: **83 / 83**
 - strict Tamil fidelity: **83 / 83 PASS**
 - Tamil assemblies: **14 / 14**
 - English T0–T5: **14 / 14 complete**
@@ -31,127 +30,35 @@ Workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkarav
 - E7: **PASS / RELEASE COMPLETE**
 - unresolved blockers: **0**
 
-Detailed records are inside the publication workspace. Do not reopen for stylistic polishing unless a genuine source-supported or release-blocking defect is discovered.
-
 ## Publication 2 — கயிற்றில் தொங்கிய கணபதி — COMPLETE / FROZEN / RELEASED
 
 Workspace: [`publications/kayittril-thongiya-kanapathi/`](publications/kayittril-thongiya-kanapathi/)
 
 - physical scans: **17**
 - Tamil page records: **17 / 17**
-- P4: **PASS**
 - P5 strict visual fidelity: **17 / 17 PASS**
-- article strict-fidelity recheck: **1 / 1 PASS**
 - Tamil source: **COMPLETE / FROZEN**
 - English translation/release: **COMPLETE / RELEASED**
 - unresolved blockers: **0**
-
-Detailed records:
-
-- [`PUBLICATION_COMPLETION_REVIEW.md`](publications/kayittril-thongiya-kanapathi/PUBLICATION_COMPLETION_REVIEW.md)
-- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/kayittril-thongiya-kanapathi/VISUAL_TEXT_FIDELITY_REVIEW.md)
-- [`translations/en/`](publications/kayittril-thongiya-kanapathi/translations/en/)
-
-Do not reopen for stylistic polishing unless a genuine source-supported or release-blocking defect is discovered.
 
 ## Publication 3 — உணர்ச்சிமாலை — COMPLETE / FROZEN / RELEASED
 
 Workspace: [`publications/unarchchimaalai/`](publications/unarchchimaalai/)
 
-- author witnesses: **`மு.கருணாநிதி` / `மு. கருணாநிதி`**
-- edition statement: **`முதற்பதிப்பு—1951`**
-- publisher: **கருணாநிதி பதிப்பகம், சிந்தாதிரிப்பேட்டை, சென்னை-2.**
-- type: **10-article collection / multi-article publication**
 - physical scans: **50**
-- source SHA-256: `d2d45de049505218fd612bf71949135e34ecb317ffb5d003dfe59a3a0608461d`
-- source PDF committed: **No**
-- printed contents page: **none**
+- Tamil P2: **50 / 50**
+- Tamil P3: **10 / 10**
+- P4: **PASS**
+- P5: **50 / 50 PASS**
+- English T0–T5: **10 / 10 PASS**
+- E6: **PASS**
+- E7: **PASS / RELEASE COMPLETE**
+- English translation: **COMPLETE / RELEASED / FROZEN**
+- unresolved blockers: **0**
 
-### Publication-specific lexical rule
+Detailed records remain in the publication workspace. Do not reopen absent a genuine source-supported or release-blocking defect.
 
-For this publication only, the user explicitly established:
-
-> **Retain the words as in Gemini. Correct only indentation, punctuation, spaces, missing paragraphs, headings, and analogous structural/formatting features.**
-
-Therefore scan/Gemini lexical disagreements are documented instead of silently normalised.
-
-### Final Tamil source status
-
-- P0: **COMPLETE**
-- P1: **COMPLETE**
-- P2 page records: **COMPLETE — 50 / 50 verified**
-- P3 article assemblies: **COMPLETE — 10 / 10**
-- P4 source audit / completeness review: **PASS**
-- P5 strict visual-text-fidelity pass: **COMPLETE — 50 / 50 PASS**
-- article strict-fidelity recheck: **10 / 10 PASS**
-- source-supported P5 structural/punctuation/spacing/layout corrections propagated: **236**
-- documented Gemini/source lexical conflicts retained under the user rule: **18**
-- outstanding `needs-review` / blocked fidelity items: **0**
-- unresolved Tamil/body blockers: **0**
-- **Tamil source: COMPLETE / FROZEN**
-
-Important frozen P5 results include the corrected scan 33/34 boundary, source-recovered scan-42 `பதில் இல்லை.`, scan-43 `* * *`, scan-49 `அன்பன் அச்சகம், சென்னை-1.` outside Article 10, and stacked scan-50 `BALU` / `BROS` advertisement text.
-
-Detailed final Tamil records:
-
-- [`README.md`](publications/unarchchimaalai/README.md)
-- [`metadata/source.md`](publications/unarchchimaalai/metadata/source.md)
-- [`indexes/page-map.md`](publications/unarchchimaalai/indexes/page-map.md)
-- [`indexes/contents.md`](publications/unarchchimaalai/indexes/contents.md)
-- [`audit.md`](publications/unarchchimaalai/audit.md)
-- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/unarchchimaalai/VISUAL_TEXT_FIDELITY_REVIEW.md)
-- [`PUBLICATION_COMPLETION_REVIEW.md`](publications/unarchchimaalai/PUBLICATION_COMPLETION_REVIEW.md)
-
-### Final English translation / release status
-
-- T0 source prerequisite/setup: **COMPLETE / PASS**
-- T1 drafts: **10 / 10**
-- T2 fidelity-reviewed: **10 / 10**
-- T3 voice-reviewed: **10 / 10**
-- T4 audited: **10 / 10**
-- T5 verified: **10 / 10**
-- E6 publication-wide English consistency review: **PASS**
-- E7 English release closeout: **PASS / RELEASE COMPLETE**
-- English body corrections during E6/E7: **0**
-- unresolved translation/release blockers: **0**
-- **English translation: COMPLETE / RELEASED / FROZEN**
-
-Translation/release workspace:
-
-- [`TRANSLATION_PLAN.md`](publications/unarchchimaalai/TRANSLATION_PLAN.md)
-- [`translations/en/README.md`](publications/unarchchimaalai/translations/en/README.md)
-- [`translations/en/LEXICON.md`](publications/unarchchimaalai/translations/en/LEXICON.md)
-- [`translations/en/TRANSLATION_REVIEW.md`](publications/unarchchimaalai/translations/en/TRANSLATION_REVIEW.md)
-
-### Frozen Tamil article blob authorities
-
-1. `c63837a9f7c02d6f3a18171a512d46788f66ad92`
-2. `dda81363f512ee2f829c367ae929ce3610604fe9`
-3. `92eb1a68d65f65dd71274e5e79f3209e63359d9a`
-4. `006f2f75dbc3eea796170a29aee0befd162522e7`
-5. `c8ac4d7c241832e07bbb24c5cee935588673f4ac`
-6. `f3634a63bff94f5647dbbdfa7dfe9b1b0a2479d8`
-7. `bac121257d24477bc3c7e8c65f4b3f7b8a419bad`
-8. `2e57a4c7c53ae4354942b5e64c5a2c4a33f3be2f`
-9. `4dd0bbc03f278c9bfc02b189b285a1891aa44d2d`
-10. `f856664d86695237a23d0ffc0bef088d32a82fe9`
-
-### Final English article blob authorities
-
-1. `4246c9f1e206d5703fe50297657bb0af2a8e57e6`
-2. `f1599a8e7cae4ba749b9be2857705b152887f9f8`
-3. `1134185bc21478775419adb3560b110c001d2b75`
-4. `03ac3b0fc25f38a4b56c352f53bf73915b1f33fb`
-5. `c689ff90f08d389a5e7ebc4849c30d58dfe81766`
-6. `cf9187b40bc1bc64806a1df84e45c884b1b8d9a8`
-7. `6cfb28e2d83ba84ee2daa54606561479b61498b0`
-8. `6b12e6b3cc09b6de402998bb3824e7a98808f885`
-9. `204ffed012f4bd91b3077065f031d6b2db747854`
-10. `cee8ea3c33495615ffc988a1875d71e40f8224a3`
-
-These Tamil and English authorities remain frozen unless a genuine source-supported or release-blocking defect explicitly reopens the affected gate.
-
-## Publication 4 — திராவிட சம்பத்து — ACTIVE / E6 PASS
+## Publication 4 — திராவிட சம்பத்து — COMPLETE / FROZEN / RELEASED
 
 Workspace: [`publications/thiraavida-sampaththu/`](publications/thiraavida-sampaththu/)
 
@@ -165,81 +72,59 @@ Workspace: [`publications/thiraavida-sampaththu/`](publications/thiraavida-sampa
 - source PDF committed: **No**
 - condition: **heavily damaged / multiple torn-away text areas**
 
-### Publication-specific lexical rule
+### Publication-specific source rule
 
-The user supplied a transcription that captured the surviving wording and established it as the lexical baseline. **Retain those words.** The scan controls structure, punctuation, spacing, paragraphing, headings, reading order, page/article boundaries and physical-copy evidence. Text physically lost under torn-away paper must not be reconstructed from context.
+The user-supplied transcription is the lexical baseline for surviving Tamil words. The scan controls structure, punctuation, spacing, paragraphing, headings, reading order, page/article boundaries and physical-copy evidence. Text physically lost under torn-away paper is not reconstructed from context.
 
 ### Frozen Tamil source status
 
-- P0 source intake: **COMPLETE**
-- P1 metadata / page map / reading-order reconstruction: **COMPLETE**
-- P2 page-level transcription / structural review: **16 / 16 COMPLETE**
-- P3 article assemblies: **COMPLETE — 2 / 2**
-- P4 source/completeness audit: **PASS**
-- P5 strict visual word/punctuation fidelity: **16 / 16 PASS**
+- P0: **COMPLETE**
+- P1: **COMPLETE**
+- P2: **16 / 16 COMPLETE**
+- P3: **2 / 2 COMPLETE**
+- P4: **PASS**
+- P5: **16 / 16 PASS**
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- unresolved Tamil workflow blockers: **0**
+- unresolved Tamil blockers: **0**
 
-Frozen Tamil translation authorities:
+Frozen Tamil authorities:
 
 1. `திராவிட சம்பத்து` — scans **5–6, 13–16** — `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
 2. `ஐயர் அறிவிக்கிறார்!` — scans **12, 3** — `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
-P5 documented and retained the publication's source-witness conflicts; all torn-away text remains unreconstructed.
+### Final English translation / release status
 
-### English translation status
-
-- E0 translation planning/setup: **COMPLETE / PASS**
-- T0 source prerequisite: **2 / 2 PASS**
-- T1 drafts: **2 / 2 PASS**
-- T2 fidelity-reviewed: **2 / 2 PASS**
-- T3 voice-reviewed: **2 / 2 PASS**
-- T4 audited: **2 / 2 PASS**
-- T5 verified: **2 / 2 PASS**
+- E0: **COMPLETE / PASS**
+- T0: **2 / 2 PASS**
+- T1: **2 / 2 PASS**
+- T2: **2 / 2 PASS**
+- T3: **2 / 2 PASS**
+- T4: **2 / 2 PASS**
+- T5: **2 / 2 PASS**
 - E6 publication-wide consistency review: **PASS**
-- E7 release closeout: **NOT STARTED**
-- English article bodies: **2 / 2**
-- translation blockers: **0**
+- E7 English release closeout: **PASS / RELEASE COMPLETE**
+- English translation: **COMPLETE / RELEASED / FROZEN**
+- unresolved translation/release blockers: **0**
 
-Translation workspace:
+Released English authorities:
 
+1. [`Dravidian Wealth`](publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md) — `10dca72882043db491fe8c6ad3f858bc4c9c584f`.
+2. [`Iyer Announces!`](publications/thiraavida-sampaththu/translations/en/02-aiyar-arivikkirar.md) — `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`.
+
+E7 confirmed both English blobs still match the E6-passed baseline, both frozen Tamil blobs remain unchanged, no article gate was reopened, no source/release defect was discovered and release blockers remain **0**.
+
+Detailed records:
+
+- [`README.md`](publications/thiraavida-sampaththu/README.md)
+- [`metadata/source.md`](publications/thiraavida-sampaththu/metadata/source.md)
+- [`PUBLICATION_COMPLETION_REVIEW.md`](publications/thiraavida-sampaththu/PUBLICATION_COMPLETION_REVIEW.md)
 - [`TRANSLATION_PLAN.md`](publications/thiraavida-sampaththu/TRANSLATION_PLAN.md)
 - [`translations/en/README.md`](publications/thiraavida-sampaththu/translations/en/README.md)
 - [`translations/en/LEXICON.md`](publications/thiraavida-sampaththu/translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/thiraavida-sampaththu/translations/en/TRANSLATION_REVIEW.md)
-- [`translations/en/01-thiraavida-sampaththu.md`](publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md) — **Article 1 VERIFIED / E6 PASS**
-- [`translations/en/02-aiyar-arivikkirar.md`](publications/thiraavida-sampaththu/translations/en/02-aiyar-arivikkirar.md) — **Article 2 VERIFIED / E6 PASS**
 
-Verified English authorities:
+## Current project state / next activity
 
-1. **Dravidian Wealth** — `10dca72882043db491fe8c6ad3f858bc4c9c584f`
-2. **Iyer Announces!** — `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
+Publications **1–4 are COMPLETE / FROZEN / RELEASED**. There is no pending review gate.
 
-E6 publication-wide result:
-
-- recurring `Dravidam` / Dravidian terminology: **PASS**
-- Article 1 `Dravidian` vs Article 2 inscription `Dravida`: **PASS / deliberate source-form distinction**
-- source-bearing name/anomaly distinctions: **PASS / preserved**
-- title style: **PASS**
-- quotation handling: **PASS**
-- source-page comments: **8 / 8 total present and ordered**
-- source-anomaly preservation: **PASS**
-- rhetorical consistency: **PASS**
-- accidental cross-article harmonisation: **none found**
-- English body corrections: **0**
-- English metadata corrections: **0**
-- frozen Tamil changes: **0**
-- article gates reopened: **No**
-- source/release defects discovered: **0**
-- unresolved E6 blockers: **0**
-
-Detailed Tamil/English records:
-
-- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/thiraavida-sampaththu/VISUAL_TEXT_FIDELITY_REVIEW.md)
-- [`PUBLICATION_COMPLETION_REVIEW.md`](publications/thiraavida-sampaththu/PUBLICATION_COMPLETION_REVIEW.md)
-
-## Current project state / exact next activity
-
-Publications 1, 2 and 3 are **COMPLETE / FROZEN / RELEASED**. Publication 4 `திராவிட சம்பத்து` has a frozen Tamil layer, both English articles are **T5 VERIFIED**, and **E6 is PASS**.
-
-**Exact next activity:** execute **E7 — English release closeout** for `திராவிட சம்பத்து`. Re-confirm the two E6-passed English blobs and frozen Tamil authorities, verify all release records are synchronized and blockers remain zero, then mark the English translation **COMPLETE / RELEASED / FROZEN** if the release gate passes. Stop after E7.
+**Next project activity:** intake of the next supplied Kalaignar essay/article publication. Fetch live `main` first, follow the permanent processing guide and do not reopen Publications 1–4 absent a genuine source-supported or release-blocking defect.
