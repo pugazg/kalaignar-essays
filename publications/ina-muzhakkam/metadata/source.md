@@ -85,7 +85,7 @@ Contents-page numbers remain independent source witnesses from directly visible 
 - T2 fidelity reviews: **1 / 6 PASS**
 - T3 voice reviews: **1 / 6 PASS**
 - T4 audits: **1 / 6 PASS**
-- T5: **0 / 6**
+- T5 verified: **1 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
@@ -101,23 +101,24 @@ English translation plan: [`../TRANSLATION_PLAN.md`](../TRANSLATION_PLAN.md).
 5. `articles/05-aariyam-pesugirathu.md` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `articles/06-kavithaigal.md` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-All six blobs were re-fetched and matched at E0. Article 1 was re-fetched again at T2, T3 and T4 and still matched `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`. They remain the controlling translation authorities.
+All six blobs were re-fetched and matched at E0. Article 1 was re-fetched again at T2, T3, T4 and T5 and still matched `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`. They remain the controlling translation authorities.
 
-## English Article 1 T4 provenance
+## English Article 1 T5 provenance
 
-- working English title: **The Clarion Call of the Race** — T4 confirmed, not T5-frozen
+- verified English title: **The Clarion Call of the Race**
 - English file: `../translations/en/01-ina-muzhakkam.md`
 - source Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
-- T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`
 - T4 English blob: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`
-- status: `voice-reviewed` — retained until T5 verification
+- T5 verified English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
+- status: `verified`
 - source-page comments: **8 / 8 preserved in order**
 - T2 fidelity corrections preserved: **5 / 5**
 - T3 voice/style body corrections preserved: **10 / 10**
 - T4 body corrections: **0**
+- T5 body corrections: **0**
 - blockers: **0**
 
-T4 audited the working title, Article-1 ideological/social vocabulary, names/referents, source-specific transliterations, quotation scope, source-page trace, incomplete forms and source-witness distinctions. It confirmed the `Vadalur Ramalingam / Vadalur Ramalingar` distinction, frozen `Kanaka Visayar`, incomplete `Self-Respect ....` and `giv....`, and scan-9→10 `suf— / fer......` trace. It also recorded that the Vallal Pari unit's unmatched opening outer double quotation is a frozen source punctuation anomaly and must not be silently repaired. No English body correction was required; the T4 blob differs from T3 only through frontmatter provenance.
+T5 performed a complete final article-level verification against the frozen Tamil and all T1–T4 decisions. No English body correction was required. The verified article retains the title, ideological/social vocabulary, source-bearing names, incomplete `Self-Respect ....` and `giv....`, `Vadalur Ramalingam / Vadalur Ramalingar` source distinction, all eight source comments, scan-9→10 `suf— / fer......` trace and Vallal Pari's source-irregular unmatched outer opening quotation. Only translation status/provenance metadata changed at T5.
 
 ## English translation exclusions / constraints
 
@@ -125,8 +126,9 @@ T4 audited the working title, Article-1 ideological/social vocabulary, names/ref
 - scan 40 `கவிதைகளைப் பற்றி` + `மதிப்புரை` remains outside `கவிதைகள்` translation;
 - scan 50 catalogue remains outside all six English bodies;
 - known P5 lexical-witness differences are not licences to translate from the scan alternative;
-- Article 1 frozen incomplete `சுயமரியாதைக் ....` and `அளித் ....` must not be silently completed at later gates;
+- Article 1 frozen incomplete `சுயமரியாதைக் ....` and `அளித் ....` are verified as intentionally incomplete in English and must not be silently completed later;
+- Article 1 verified English decisions must not be reopened without a genuine source-supported defect;
 - `கவிதைகள்` English must preserve frozen headings and lineation;
 - source-page comments are required for bilingual traceability.
 
-Exact next activity: **Article 1 `இன முழக்கம்` — T5 final article verification only; stop before Article 2.**
+Exact next activity: **Article 2 `சொர்க்க லோகத்தில்` — T1 close draft only; stop before Article 2 T2.**
