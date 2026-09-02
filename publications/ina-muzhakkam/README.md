@@ -39,7 +39,8 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - T0 source prerequisites: **6 / 6 PASS**
 - T1 close drafts: **1 / 6 PASS**
 - T2 fidelity reviews: **1 / 6 PASS**
-- T3–T5: **0 / 6**
+- T3 voice reviews: **1 / 6 PASS**
+- T4–T5: **0 / 6**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - blockers: **0**
@@ -56,22 +57,23 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 5. `ஆரியம் பேசுகிறது` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `கவிதைகள்` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-All six were re-fetched and matched exactly at E0. Article 1 was re-fetched again and matched at T2.
+All six were re-fetched and matched exactly at E0. Article 1 was re-fetched again and matched at T2 and T3.
 
-## English Article 1 — T2 COMPLETE / PASS
+## English Article 1 — T3 COMPLETE / PASS
 
 - Tamil title: `இன முழக்கம்`
-- working English title: **The Clarion Call of the Race** — T2 confirmed, not T5-frozen
+- working English title: **The Clarion Call of the Race** — T3 confirmed, not T5-frozen
 - English file: `translations/en/01-ina-muzhakkam.md`
 - frozen Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
-- T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
 - T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`
-- status: `fidelity-reviewed`
+- T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`
+- status: `voice-reviewed`
 - source comments: **8 / 8 preserved in order**
-- T2 corrections: **5 fidelity-only**
+- T2 fidelity corrections preserved: **5 / 5**
+- T3 voice/style corrections: **10**
 - blockers: **0**
 
-T2 restored the frozen Tamil singular in `கல்லேற்றி`, preserved incomplete `அளித் ....` without silently completing it, restored `உங்களிடம்` and `புலவர்களுக் கெல்லாம்`, and narrowed `நாட்டில்` from `through the country` to `in the country`. Article-1 title/terminology choices otherwise passed T2 and remain subject to T3–T5.
+T3 sharpened English voice only: the Ahalya/Tara wording is no longer euphemistic; the Draupadi irony, Ilango vow, Pisiranthaiyar line, Sai Baba ridicule, Senguttuvan first-person action, Vallal Pari direct challenge and final rhetorical questions now read more naturally and forcefully without changing the T2 meaning layer. No T4 audit was performed.
 
 ## Permanent non-regression
 
@@ -102,4 +104,4 @@ T2 restored the frozen Tamil singular in `கல்லேற்றி`, preserve
 
 ## Exact next activity
 
-**Article 1 — `இன முழக்கம்` — T3 Kalaignar voice review only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T2 English blob `6b37eec63209bff533666ce6ff8518c1cba6f733`; review directness, sarcasm, rhetorical questions, commands, repetition, imagery and polemical temperature without undoing T2 fidelity, record the T3 blob/findings, then stop before T4.
+**Article 1 — `இன முழக்கம்` — T4 terminology / quotation / citation / source audit only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T3 English blob `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`; audit title, names, labels, quotations, source comments, incomplete forms and source-witness distinctions, correct T4 defects only, record the T4 blob/findings, then stop before T5.
