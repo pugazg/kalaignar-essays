@@ -24,7 +24,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `c5baa78afa9dc2f58fb093f3c09ba4c136b4b7b7` — `Record Ina Muzhakkam Article 4 T4 provenance`.
+- Last confirmed live HEAD immediately before this handover synchronization: `576c493d8b784e95361e0f5f8ae48cf5de5dfae7` — `Record Ina Muzhakkam Article 4 T5 provenance`.
 
 ---
 
@@ -83,7 +83,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 5 — இன முழக்கம் — TAMIL FROZEN / ARTICLE 4 T4 PASS
+# Publication 5 — இன முழக்கம் — TAMIL FROZEN / ARTICLE 4 T5 VERIFIED
 
 Workspace: `publications/ina-muzhakkam/`  
 Controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`
@@ -145,28 +145,30 @@ The supplied transcription is the lexical baseline for the frozen Tamil layer; s
 - T2: **4 / 6 PASS**
 - T3: **4 / 6 PASS**
 - T4: **4 / 6 PASS**
-- T5: **3 / 6 PASS**
+- T5: **4 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - English blockers: **0**
 
-## Articles 1–3 — T5 VERIFIED / INDIVIDUALLY FROZEN
+## Articles 1–4 — T5 VERIFIED / INDIVIDUALLY FROZEN
 
 1. `இன முழக்கம்` — **The Clarion Call of the Race** — verified English `01d0d16c4f52cb134eba9fd35c06ad8376e256cb` — **8 / 8** source comments.
 2. `சொர்க்க லோகத்தில்` — **In the Heavenly Realm** — verified English `bcd98fb1abf03e3109da1c4802570b77fddfe015` — **11 / 11** source comments.
 3. `முரசறைவாய்` — **Beat the Drum** — verified English `c526195d7eb16b2dc446f8b3b15ae674c75548d5` — **5 / 5** source comments.
+4. `பழிக்குப் பழி` — **Revenge for Revenge** — verified English `46627c3cecfd186e1735d8766ddda27414118e62` — **8 / 8** source comments.
 
 Do not reopen these articles without a genuine source-supported defect.
 
-## Article 4 — `பழிக்குப் பழி` — T4 COMPLETE / AUDITED
+## Article 4 — `பழிக்குப் பழி` — T5 COMPLETE / VERIFIED
 
 - Tamil blob: `e140df7f6234e8362b9139793706533fec0c62d8`
 - English file: `publications/ina-muzhakkam/translations/en/04-pazhikku-pazhi.md`
-- working English title: **Revenge for Revenge**
+- verified English title: **Revenge for Revenge**
 - T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
 - T2 English blob: `da8969239016948ff2330ecfca6a0963762db95c`
 - T3 English blob: `6e095b751ef39c780d11792a2be7f9293a8a905d`
 - T4 English blob: `a5973f49b53ed37e0f16ceb6f72145d649e39093`
-- `translation_status`: `voice-reviewed`
+- T5 verified English blob: `46627c3cecfd186e1735d8766ddda27414118e62`
+- `translation_status`: `verified`
 - source comments: **8 / 8 preserved in order** for scans 30–37
 - scan-31→32 trace: `its / taproot`
 - scan-34→35 trace: `would have / taken him away`
@@ -174,11 +176,12 @@ Do not reopen these articles without a genuine source-supported defect.
 - scan-36→37 trace: `revenge for / revenge`
 - T2 fidelity corrections: **4 / 4 preserved**
 - T3 voice/style corrections: **10 / 10 preserved**
-- T4 audit body corrections: **1**
+- T4 audit body corrections: **1 / 1 preserved**
+- T5 final body corrections: **0**
 - Tamil source changes: **0**
 - blockers: **0**
 
-### Article 4 source-bearing decisions through T4
+### Article 4 source-bearing decisions through T5
 
 1. `பழிக்குப் பழி` → **Revenge for Revenge**.
 2. `வகுப்புவாதம்` → **communalism**; contextual `வகுப்பு` → **communal division**.
@@ -199,14 +202,14 @@ Do not reopen these articles without a genuine source-supported defect.
 17. source names **Nandan / Ramalingar / Vallalar / Thirugnanasambandar** retained without outside expansion.
 18. all **8 / 8** source comments and all four physical boundary traces remain explicit.
 
-### Article 4 T2 fidelity corrections — preserved at T4
+### Article 4 T2 fidelity corrections — preserved through T5
 
 1. Opening Congress quotation retains **the eradication of communalism in which complete success could not be achieved**.
 2. All three `உயிர்நிலை` occurrences retain **seat of life**.
 3. `வகுப்பு ஒழிந்தால் வாதம் ஒழியும்—வகுப்பு வளர்ந்தால் வகுப்பு வாதம் வளரும்.` retains **communalism disappears**.
 4. `பாகிஸ்தான் பகிர்ந்தளிக்கப் பட்டதே சான்று!` retains **the partitioning off of Pakistan itself is proof**.
 
-### Article 4 T3 Kalaignar voice corrections — preserved at T4
+### Article 4 T3 Kalaignar voice corrections — preserved through T5
 
 Ten voice/style-only corrections remain intact:
 
@@ -221,13 +224,15 @@ Ten voice/style-only corrections remain intact:
 9. **Gandhiyar preached these: truth—the path of satya**;
 10. direct proof cadence **The great riots in the country are proof that there, too, he found no consolation!**.
 
-### Article 4 T4 terminology / quotation / citation / source audit
+### Article 4 T4 terminology / quotation / citation / source audit — preserved at T5
 
-One body correction was required for quotation scope. Frozen Tamil has `“வகுப்பு வாதம்” வீழ்க என்கிறது காரியக் கமிட்டி.` with quotation marks around `வகுப்பு வாதம்` only. T3 had broadened the quotation to the entire English slogan **“Down with communalism,” says the Working Committee.** T4 corrects it to **“Communalism” must fall, says the Working Committee.** This preserves both the source quotation boundary and the command force of `வீழ்க`.
+One body correction was required for quotation scope. Frozen Tamil has `“வகுப்பு வாதம்” வீழ்க என்கிறது காரியக் கமிட்டி.` with quotation marks around `வகுப்பு வாதம்` only. T3 had broadened the quotation to the entire English slogan **“Down with communalism,” says the Working Committee.** T4 corrected it to **“Communalism” must fall, says the Working Committee.** This preserves both the source quotation boundary and the command force of `வீழ்க`.
 
-All other terminology/source-witness forms were confirmed. Source-sensitive `பாரட்டத்` and `ஜோதில்கலந்தான்` continue to follow the frozen Tamil authority without importing scan alternatives. `agraharam` and quoted `blood abhishekam` are explicitly registered in the living lexicon. All four T2 fidelity corrections, all ten T3 voice/style corrections, all **8 / 8** ordered source comments and all four page traces remain intact.
+All other terminology/source-witness forms were confirmed. Source-sensitive `பாரட்டத்` and `ஜோதில்கலந்தான்` continue to follow the frozen Tamil authority without importing scan alternatives. `agraharam` and quoted `blood abhishekam` remain explicitly registered in the living lexicon. All four T2 fidelity corrections, all ten T3 voice/style corrections, all **8 / 8** ordered source comments and all four page traces remain intact.
 
-T4 findings after correction: terminology defects **0**; source-witness defects **0**; quotation/citation defects **0**; source-comment/page-trace defects **0**; blockers **0**.
+### Article 4 T5 final verification
+
+T5 reread the complete T4 English against the frozen Tamil and all T1–T4 decisions. Completeness, meaning, directness, polemical/religious-political force, terminology, source-witness distinctions, quotation/source treatment and page provenance all pass. **No final body correction was required.** Article 4 is individually frozen.
 
 ## Translation non-regression
 
@@ -247,17 +252,15 @@ T4 findings after correction: terminology defects **0**; source-witness defects 
 
 # Exact next activity
 
-**Publication 5 — Article 4 `பழிக்குப் பழி` — T5 final article verification only.**
+**Publication 5 — Article 5 `ஆரியம் பேசுகிறது` — T1 close English draft only.**
 
 Required steps:
 
 1. fetch live `main` first;
 2. re-read translation plan, tracker, lexicon and review ledger;
-3. re-fetch frozen Tamil Article 4 and confirm blob `e140df7f6234e8362b9139793706533fec0c62d8`;
-4. re-fetch T4 English Article 4 and confirm blob `a5973f49b53ed37e0f16ceb6f72145d649e39093`;
-5. reread the complete English against the frozen Tamil and all T1–T4 decisions;
-6. preserve the T4 quotation-scope correction, all four T2 fidelity corrections and all ten T3 voice/style corrections unless a genuine final defect is found;
-7. verify all **8 / 8** source comments and all four page traces;
-8. make final verification corrections only if genuinely required;
-9. if PASS set `translation_status: verified`, record the T5 blob and individually freeze Article 4 across durable records;
-10. **STOP AFTER ARTICLE 4 T5. DO NOT PERFORM ARTICLE 5 T1 IN THE SAME ACTIVITY.**
+3. re-fetch frozen Tamil Article 5 and confirm blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`;
+4. translate the complete article paragraph by paragraph from the frozen Tamil authority;
+5. preserve directness, questions, commands, quotation status, source comments, page trace and source-bearing forms;
+6. establish new terminology only where the frozen Article-5 source requires it; reuse Articles 1–4 verified choices only when the same Tamil form/function genuinely recurs;
+7. create/update the Article-5 English draft with `translation_status: draft` and record the T1 blob across durable records;
+8. **STOP AFTER ARTICLE 5 T1. DO NOT PERFORM ARTICLE 5 T2 IN THE SAME ACTIVITY.**
