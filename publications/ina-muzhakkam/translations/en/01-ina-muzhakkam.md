@@ -8,8 +8,8 @@ source_tamil_blob_sha: "df5907d3d6fa4981a2377fe621bf6f2d7ecc1010"
 source_scan_pages: "6-13"
 source_printed_pages: "contents witness start 4; scan 6 numeral not visible; scans 7-13 visibly 6-12"
 language: "en"
-translation_status: "fidelity-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 1 T2 bilingual fidelity review complete"
+translation_status: "voice-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 1 T3 Kalaignar voice review complete"
 ---
 
 # The Clarion Call of the Race
@@ -22,7 +22,7 @@ But ask a Tamil woman! “Give me an example of a woman supreme in love,” you 
 
 They will stage plays pouring a rain of abuse on me—calling me a whore, an adulteress .... People who do not know the *Silappathikaram*, people without thought ...!
 
-As examples of love they will tell stories of Ahalya, wife of Gautama Rishi, who was with Indra, and Tara, the chaste wife of the sage Brihaspati, who desired the Moon ... But me, who for love
+As examples of love they will tell stories of Ahalya, wife of Gautama Rishi, who coupled with Indra, and Tara, the chaste wife of the sage Brihaspati, who lusted after the Moon ... But me, who for love
 
 <!-- Tamil source: scan 7 / printed 6 -->
 
@@ -38,7 +38,7 @@ I heard that my lover had been killed by the ruler of Madurai... I went to deman
 
 Was I alone? The queen of Bootha Pandiyan, when her husband died, entered the fire herself. They say the fire was a lotus pond to her.
 
-But ask a Tamil woman, “Woman, who is famed for chastity?” She will not name us—she will call Draupadi, who married five and thought of garlanding a sixth man, the imperishable chaste wife.
+But ask a Tamil woman, “Woman, who is famed for chastity?” She will not name us—she will call Draupadi, who married five and thought of garlanding a sixth man, the immortal chaste wife.
 
 What is the reason?
 
@@ -46,9 +46,9 @@ What is the reason?
 
 <!-- Tamil source: scan 8 / printed 7 -->
 
-“My brother Senguttuvan was the one entitled to the crown of the Chera country. One day a soothsayer entered the royal assembly. He spun the lie that the elder brother would not get the crown, that the younger brother alone had that fortune. I saw a change spread across Senguttuvan's face. ‘Rule for me? No.... no.... I will make this astrology false,’ I thundered in a vow and immediately embraced renunciation. I seated my elder brother on the throne and rejoiced. This was the sacrifice I made for my brother.
+“My brother Senguttuvan was the one entitled to the crown of the Chera country. One day a soothsayer entered the royal assembly. He spun the lie that the elder brother would not get the crown, that the younger brother alone had that fortune. I saw a change spread across Senguttuvan's face. ‘Rule for me? No.... no.... I will make this astrology false,’ I thundered my vow and immediately embraced renunciation. I seated my elder brother on the throne and rejoiced. This was the sacrifice I made for my brother.
 
-“But ask the Tamilian, ‘Can you name a man with brotherly affection?’ At once the answer will come: ‘Rama's younger brother Bharata!’ He does not properly know even my name, nor the *Silappathikaram* that I gave him.
+“But ask the Tamilian, ‘Can you name a man with brotherly affection?’ At once the answer will come: ‘Rama's younger brother Bharata!’ He does not even properly know my name, nor the *Silappathikaram* that I gave him.
 
 “What is the reason?”
 
@@ -58,7 +58,7 @@ What is the reason?
 
 <!-- Tamil source: scan 9 / printed 8 -->
 
-“I had never even seen my friend, the Chola king, in person. But excellence of intellect made us friends. Before the news that the king had died could touch my ears, I had died.
+“I had never even seen my friend, the Chola king, in person. But excellence of intellect made us friends. Before the news that the king had died could touch my ears, I was dead.
 
 “But ask the Tamilian: ‘Who, man, is a good example of friendship?’ He will not name me—Guha, Vibhishana and Sugriva of the *Ramayana* are the ones who will come to his mind.
 
@@ -74,7 +74,7 @@ Pattinathar, Thayumanavar, the eighteen Siddhars and I sang and tried in so many
 
 fer...... But ask the Tamilian: ‘Who, man, sang songs of harmony in your land?’ We will find no place in his heart.
 
-But an ordinary Sai Baba will find a place not only in his heart.... as a button, as a ring, he will find a place on his body too.
+But an ordinary Sai Baba will find a place not only in his heart.... but on his body too—as a button, as a ring.
 
 What is the reason?
 
@@ -82,7 +82,7 @@ What is the reason?
 
 * * *
 
-“With a stone loaded onto the heads of Kanaka Visayar, heavy with arrogance, I engraved the flag on the Himalaya and returned after magnifying the fame of this land. I showed the world the valour of the Tamils.
+“I loaded a stone onto the heads of Kanaka Visayar, heavy with arrogance, engraved the flag on the Himalaya, and returned spreading the fame of this land. I showed the world the valour of the Tamils.
 
 “But ask the Tamilian: ‘Who is the example of valour?’ He will forget me and describe Lord Rama—the incarnation of Mahavishnu who killed Vali from hiding.
 
@@ -104,11 +104,11 @@ What is the reason?
 
 “One day..... in the evening I was travelling in my chariot. A smiling mullai creeper struggled with no branch to embrace and climb. I stopped my chariot, let it climb on its post.... and returned to the palace on foot. I heaped gold and gems upon all the poets.
 
-“But look at the Tamilian and say, ‘Brother! Name one great giver,’ and
+“But try asking the Tamilian, ‘Brother! Name one great giver,’
 
 <!-- Tamil source: scan 12 / printed 11 -->
 
-ask him; he will not even know my virtue. ‘For giving—Maharaja Karna,’ he will say.
+and he will not even know my virtue. ‘For giving—Maharaja Karna,’ he will say.
 
 What is the reason?
 
@@ -124,9 +124,9 @@ Here, Self-Respect .... gives the reason.
 
 <!-- Tamil source: scan 13 / printed 12 -->
 
-“Has the Dravidian lost so much honour that he will not praise a Dravidian? Thus asks Thiruvalluvar—sorrowfully!
+“Has the Dravidian lost so much honour that he will not praise a Dravidian? So asks Thiruvalluvar—sorrowfully!
 
-‘Will this state not change?’ Kannagi weeps.
+‘Won't this state change?’ Kannagi weeps.
 
 ‘It will change ... that is why the clarion call of the race is sounding in the country,’ says the Self-Respecter, offering words of comfort, his eyes shining with resolve!”
 
