@@ -63,7 +63,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - T0: **6 / 6 PASS**
 - T1: **4 / 6 PASS**
 - T2: **4 / 6 PASS**
-- T3: **3 / 6 PASS**
+- T3: **4 / 6 PASS**
 - T4: **3 / 6 PASS**
 - T5: **3 / 6 PASS**
 - E6/E7: **NOT STARTED**
@@ -86,26 +86,28 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 
 Articles 1–3 are individually frozen.
 
-## English Article 4 provenance — T2 FIDELITY-REVIEWED
+## English Article 4 provenance — T3 VOICE-REVIEWED
 
 - title: **Revenge for Revenge**
 - English file: `../translations/en/04-pazhikku-pazhi.md`
 - Tamil blob: `e140df7f6234e8362b9139793706533fec0c62d8`
 - T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
 - T2 English blob: `da8969239016948ff2330ecfca6a0963762db95c`
-- status: `fidelity-reviewed`
+- T3 English blob: `6e095b751ef39c780d11792a2be7f9293a8a905d`
+- status: `voice-reviewed`
 - source comments: **8 / 8 preserved in order**
 - scan-31→32 trace: `its / taproot`
 - scan-34→35 trace: `would have / taken him away`
 - scan-35→36 trace: `three / bullets`
 - scan-36→37 trace: `revenge for / revenge`
-- T2 fidelity corrections: **4**
+- T2 fidelity corrections: **4 / 4 preserved**
+- T3 voice/style corrections: **10**
 - Tamil source changes: **0**
 - blockers: **0**
 
-T2 preserves Article-4 source-bearing treatments including **communalism / communal division**, **Dravidar Kazhagam**, **Congress Working Committee**, source-distinct **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, source-bearing **Gotse**, **Varnashrama**, **ahimsa / satya**, **Pushpa Vimanam**, **heavenly realm**, **Paraiyan / Pallan / Brahmin**, and **Nandan / Ramalingar / Vallalar / Thirugnanasambandar**.
+T3 preserves Article-4 source-bearing treatments including **communalism / communal division**, **seat of life**, **Dravidar Kazhagam**, **Congress Working Committee**, source-distinct **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, source-bearing **Gotse**, **Varnashrama**, **ahimsa / satya**, **Pushpa Vimanam**, **heavenly realm**, **Paraiyan / Pallan / Brahmin**, and **Nandan / Ramalingar / Vallalar / Thirugnanasambandar**.
 
-T2 corrected the opening Congress quotation's grammatical relation, replaced all three `உயிர்நிலை` renderings **lifeline** with **seat of life**, restored `வாதம்` in the causal sentence to **communalism**, and rendered `பாகிஸ்தான் பகிர்ந்தளிக்கப் பட்டதே சான்று!` as **the partitioning off of Pakistan itself is proof**. No omitted clauses, unresolved names/referents, quotation defects, source-comment defects or page-trace defects remain at T2.
+All four T2 fidelity corrections remain intact. T3 made ten voice/style-only refinements: clipped welcome cadence; repeated **Let us** in the pledge; **Communalism's seat of life**; a more direct Brahminism accusation; direct cause-and-abolish syntax for Brahminism/Brahmin Seva Associations; **the true memorial to build**; **deserves high praise**; the photographic image **photographed the blood-soaked tongue ... and shown it**; **Gandhiyar preached these: truth—the path of satya**; and the direct peace-proof cadence **The great riots in the country are proof...**. All **8 / 8** source comments and all four page traces remain intact.
 
 ## English translation exclusions / constraints
 
@@ -116,4 +118,4 @@ T2 corrected the opening Congress quotation's grammatical relation, replaced all
 - source-page comments are required for bilingual traceability;
 - Articles 1–3 verified decisions must not be reopened without genuine source support.
 
-Exact next activity: **Article 4 `பழிக்குப் பழி` — T3 Kalaignar voice review only; stop before Article 4 T4.**
+Exact next activity: **Article 4 `பழிக்குப் பழி` — T4 terminology / quotation / citation / source audit only; stop before Article 4 T5.**
