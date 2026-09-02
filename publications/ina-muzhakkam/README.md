@@ -36,7 +36,7 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - T0: **6 / 6 PASS**
 - T1: **5 / 6 PASS**
 - T2: **5 / 6 PASS**
-- T3: **4 / 6 PASS**
+- T3: **5 / 6 PASS**
 - T4: **4 / 6 PASS**
 - T5: **4 / 6 PASS**
 - E6/E7: **NOT STARTED**
@@ -63,22 +63,22 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 
 All four are individually frozen and must not be reopened without a genuine source-supported defect.
 
-## English Article 5 — T2 COMPLETE / FIDELITY-REVIEWED
+## English Article 5 — T3 COMPLETE / VOICE-REVIEWED
 
 - title: **Aryanism Speaks**
 - file: `translations/en/05-aariyam-pesugirathu.md`
 - Tamil blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 - T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
 - T2 English blob: `508639503ab830e83d8cac547476c83d26a8494f`
-- status: `fidelity-reviewed`
+- T3 English blob: `77310ccb8bac5304f15050ee0988ae26d8302b10`
+- status: `voice-reviewed`
 - source comments: **2 / 2 preserved in order**
 - scan-38→39: `Kula— / chirai`
-- T2 fidelity corrections: **2**
+- T2 fidelity corrections: **2 / 2 preserved**
+- T3 voice/style body corrections: **0**
 - blockers: **0**
 
-T2 preserves the Article-5 source-bearing set **Aryanism Speaks**, **Hiraniyan / Pragalathan**, **Ravanan / Vibheeshanan / Vali / Sugrivan**, **the chapter of Vali's slaying**, literal **axe-handle**, **Kulachirai**, recurring verified **Gandhiyar / Gotse**, **Omaanthooraar**, quoted **“Opposition to Aryanism?”**, **Black Army**, and closing **Vibheeshanans and Sugrivans / your race**.
-
-Two fidelity corrections were made. `அவனிடத்தில் ஆசை வலை விரித்தேன்` is now **I cast a net of desire around him**, replacing T1 **I spread a net of desire for him** so the English preserves entrapment rather than implying the speaker's desire. `ஓமாந்தூராரை அதட்டிக் கேட்டேன்` is now **I demanded of Omaanthooraar**, replacing T1 **I barked at Omaanthooraar** so no unsupported animal metaphor is added. After correction there are no unresolved omissions, added claims, referent/logical defects, quotation-scope defects or page-provenance defects.
+T3 reread the complete fidelity-reviewed English against frozen Tamil for directness, sarcasm, mockery, first-person personification, rhetorical questions, abrupt contrasts, physical imagery, repetition and boastful cadence. No body correction was required: the translation already preserves the source's visceral boasts, clipped contrasts, repeated **writhed and writhed**, ironic **When the world sobbed and wept, I offered sweetness**, quoted challenge **“Opposition to Aryanism?”**, shaking seat of power, direct **Why are you glaring?**, and closing feast-boast. Both T2 fidelity corrections, all source-bearing forms, both comments and `Kula— / chirai` remain intact.
 
 ## Permanent non-regression
 
@@ -105,4 +105,4 @@ Two fidelity corrections were made. `அவனிடத்தில் ஆசை
 
 ## Exact next activity
 
-**Article 5 `ஆரியம் பேசுகிறது` — T3 Kalaignar voice review only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and T2 English blob `508639503ab830e83d8cac547476c83d26a8494f`; review directness, sarcasm, mockery, first-person personification, rhetorical questions, abrupt contrasts, vivid images and repeated force; preserve both T2 corrections, both source comments, `Kula— / chirai`, quotation scope and all source-bearing forms; make voice/style-only corrections and **stop before Article 5 T4**.
+**Article 5 `ஆரியம் பேசுகிறது` — T4 terminology / quotation / citation / source audit only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and T3 English blob `77310ccb8bac5304f15050ee0988ae26d8302b10`; audit the publication lexicon, source-specific names, ideological labels, quotation scope, source comments and scan-38→39 boundary; preserve both T2 corrections and the T3 zero-body-change result; make T4 audit corrections only and **stop before Article 5 T5**.
