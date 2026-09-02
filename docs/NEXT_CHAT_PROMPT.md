@@ -1,30 +1,19 @@
 # Next Chat Prompt — Kalaignar Essays / இன முழக்கம்
 
-Use this file only as a convenience handoff. **Live `main` and root `HANDOVER.md` are authoritative.**
+Use this only as a convenience handoff. **Live `main` and root `HANDOVER.md` are authoritative.**
 
-Continue directly in:
-
-`pugazg/kalaignar-essays`
-
-Branch: `main`
-
-Active publication:
-
-`publications/ina-muzhakkam/` — **இன முழக்கம்**
-
-Controlling source:
-
-`TVA_BOK_0063958_இன_முழக்கம்.pdf`
+Repository: `pugazg/kalaignar-essays`  
+Branch: `main`  
+Active publication: `publications/ina-muzhakkam/` — **இன முழக்கம்**  
+Controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. The last confirmed durable state before this prompt synchronization includes:
+Fetch live `main` first. Preserve any newer durable state; never reset or repeat completed work because this prompt contains an older checkpoint.
 
-`a8ff7cf6da3e551abe9565dc0c3457b7bc03d22f` — `Synchronize Ina Muzhakkam P4 handover`
+The last confirmed durable handover synchronization before this prompt update is:
 
-If `main` has advanced, preserve the newer durable state. **Do not reset, overwrite, repeat or reopen later completed work merely because this prompt records an older checkpoint.**
-
-Before every write, re-fetch the target file and current live state as needed. Work directly on `main`.
+`b788f4b57c5800b36ada823197d6080ba92e0bd3` — `Record Ina Muzhakkam page-by-page P5 policy`
 
 ## Mandatory startup
 
@@ -34,127 +23,67 @@ Read completely before changing anything:
 2. `ESSAY_TRANSLATION_GUIDE.md`
 3. `docs/FUTURE_WORK_GUIDELINES.md`
 4. root `HANDOVER.md`
-5. this `docs/NEXT_CHAT_PROMPT.md`
+5. this prompt
 6. `publications/ina-muzhakkam/README.md`
-7. `publications/ina-muzhakkam/metadata/source.md`
-8. `publications/ina-muzhakkam/indexes/contents.md`
-9. `publications/ina-muzhakkam/indexes/page-map.md`
-10. `publications/ina-muzhakkam/STRUCTURAL_REASSEMBLY_REVIEW.md`
-11. `publications/ina-muzhakkam/SOURCE_COMPLETENESS_AUDIT.md`
-12. `publications/ina-muzhakkam/transcription-intake/USER_CORRECTIONS.md`
-13. all canonical P2 records under `publications/ina-muzhakkam/pages/`
-14. all six P3 assemblies under `publications/ina-muzhakkam/articles/`
+7. `publications/ina-muzhakkam/P5_PAGE_BY_PAGE_POLICY.md`
+8. active source metadata/indexes/audits
+9. the single next P5 page record and directly affected P3 assembly
 
-## Publication-specific user rule
-
-The user supplied the complete word-to-word transcription and explicitly instructed:
+## User lexical rule
 
 > **Keep the words. Correct only structural order, punctuation, spacing, paragraphing, headings, misplaced words and analogous layout issues; remove unwanted non-source/OCR words.**
 
-The user transcription remains the lexical baseline. P2 applied source-supported structure and user-authorised placement corrections; P3 assembled only from canonical P2 records; P4 completed the source/completeness audit without lexical normalisation. During P5, **do not silently substitute scan-appearing lexical variants**. Every lexical scan/baseline disagreement must be explicitly classified.
+The supplied transcription remains the lexical baseline. Scan/baseline lexical differences are documented, not silently substituted.
 
-## Durable state
+## Current durable state
 
-- source SHA-256: `f57e4070051d7bc77ab78d5d393dbefbe47791efcc3203c594c5f3949ef0dfbf`
 - physical scans: **50**
 - P0: **COMPLETE**
 - P1: **COMPLETE**
-- structural transcription reassembly: **COMPLETE / STAGING**
-- P2 canonical page records: **50 / 50 VERIFIED / COMPLETE**
-- P3 assemblies: **6 / 6 COMPLETE / VERIFIED AGAINST P2**
-- P4 source/completeness audit: **PASS / COMPLETE**
-- P5 strict visual fidelity: **NOT STARTED**
+- P2: **50 / 50 COMPLETE**
+- P3: **6 / 6 COMPLETE**
+- P4: **PASS / COMPLETE**
+- P5: **IN PROGRESS**
+- durable P5 page frontier: **scan 38 / 50**
 - English translation: **NOT STARTED**
 - blockers: **0**
 
-P3 assembly authorities before P5:
+Important non-regression:
 
-1. `articles/01-ina-muzhakkam.md` — blob `60e5247f54b3c96e66079bf4b34740fa5ccb1ad1`
-2. `articles/02-sorgga-logaththil.md` — blob `adff0de00c120e0c737aca0cd0bc9ed6adcaecd1`
-3. `articles/03-murasaraivai.md` — blob `698c178ee5a65e9fe53543be2136e6691f5a8dad`
-4. `articles/04-pazhikku-pazhi.md` — blob `d9c57a7a55ab33310b512c34322186cc55a04ef8`
-5. `articles/05-aariyam-pesugirathu.md` — blob `651063d641ddbc53c1688e92b13d976b169d04ee`
-6. `articles/06-kavithaigal.md` — blob `a11dfc65bfd83c316e090c793f1ede102a72ac21`
+- retain scan 10 exactly: `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
+- scan 21→22 `நாயன்மார்கள்` placement remains corrected;
+- scan 36→37 boundary remains `இந்த மதத்தைப் பழிக்குப்` / `பழி வாங்க வேண்டாமா?`;
+- physical-copy marks remain outside printed text;
+- promotions/catalogue/front matter remain outside body assemblies as established;
+- do not apply later-scan findings out of sequence.
 
-P4 confirmed:
+## PAGE-BY-PAGE P5 RULE — USER DIRECTIVE
 
-- canonical P2 scan coverage: **50 / 50 PASS**;
-- six P3 assemblies exist exactly once: **PASS**;
-- all source-supported start/end boundaries: **PASS**;
-- page-continuation/provenance order: **PASS**;
-- scan-10 `விசயர்`: **PASS**;
-- scan-24/37 promotions excluded from body assemblies: **PASS**;
-- scan-40 poetry front matter excluded from `கவிதைகள்`: **PASS**;
-- scan-50 catalogue excluded from body assemblies: **PASS**;
-- poetry headings/lineation: **PASS**;
-- contents-page start numbers remain separate from directly visible body numerals: **PASS**;
-- physical-copy marks imported into body text: **0**;
-- silent lexical normalisations introduced during P2/P3: **0**;
-- P4 needs-review: **0**;
-- P4 blocked: **0**;
-- completeness blockers: **0**.
+For the remainder of `இன முழக்கம்` P5, **one physical scan equals one activity**.
 
-P4 audit authority:
+When the user says `Proceed with next activity`:
 
-`publications/ina-muzhakkam/SOURCE_COMPLETENESS_AUDIT.md`
+1. process only the single next unclosed physical scan;
+2. visually verify that scan against its canonical page record and lexical baseline;
+3. document lexical disagreements without silently changing the words;
+4. apply only that scan's source-supported structural/punctuation/spacing/heading/placement/lineation corrections;
+5. update only its directly affected P3 assembly/provenance where necessary;
+6. commit the page-specific result;
+7. update progress;
+8. **stop after that one scan**. Never batch the following scan into the same activity.
 
-## Non-regression
-
-- printed text / physical-copy marks remain separated on all 50 P2 records;
-- only directly visible printed numerals are recorded;
-- heading scans 6, 14, 25, 30 and 38 use `printed_page: null`;
-- scan 10 retains exactly `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...` in both P2 and P3;
-- scan 22 trailing `2` remains excluded as non-source noise;
-- scan 24 promotion remains outside `சொர்க்க லோகத்தில்`;
-- `பழிக்குப் பழி` final lines remain on scan 37 and the following promotion remains outside the article;
-- scan 40 remains poetry introductory/review matter outside the `கவிதைகள்` body;
-- `வா!` begins scan 43;
-- `யோசித்துப் பார்!` begins scan 44;
-- scans 41–49 preserve source-supported poetry headings and lineation;
-- scan 50 remains catalogue matter outside all body units;
-- no lexical normalisation may be introduced during P5;
-- the cover-author and scan-50 catalogue issues are **P5 fidelity classifications**, not P4 completeness blockers.
-
-Printed contents witness:
-
-1. `இன முழக்கம்` — 4
-2. `சொர்க்க லோகத்தில்` — 13
-3. `முரசறைவாய்` — 24
-4. `பழிக்குப் பழி` — 29
-5. `ஆரியம் பேசுகிறது` — 37
-6. `கவிதைகள்` — 40
-
-## Deferred P5 witness items
-
-P5 must explicitly inspect and classify, without silently replacing the lexical baseline:
-
-1. **cover author** — visible scan witness `மு. கருணாநிதி` versus supplied baseline `கலைஞர் கருணாநிதி`;
-2. **scan 50 catalogue** — documented lexical/number differences or omissions, including the `அழகு நிலா` / `செல்வ குமாரி` price forms and missing `நாடறிந்த நட்சத்திரங்கள்` price.
-
-Any additional scan/baseline lexical disagreement found during the strict pass must be added to the same explicit fidelity record.
+After scan 50, run a separate P5 closeout activity for the 6/6 assembly recheck, final fidelity report, frozen Tamil blob SHAs and Tamil freeze. Do not begin English before that closeout passes.
 
 ## EXACT NEXT ACTIVITY
 
-Proceed with **P5 strict visual word/punctuation fidelity** over all **50 physical scans** only.
+**P5 — physical scan 39 only.**
 
-Requirements:
-
-1. fetch live `main` and preserve any newer durable state;
-2. directly inspect **every physical scan 1–50**, including cover, front matter, contents, prose, promotions, poetry front matter, poems and catalogue;
-3. check every visible printed word, word boundary/spacing, punctuation mark, quotation mark, heading, date, number, paragraph continuation, page boundary and source witness against the canonical page record;
-4. keep the user-supplied lexical baseline; **do not silently replace lexical tokens with scan-appearing variants**;
-5. explicitly classify every scan/baseline lexical disagreement in a permanent P5 fidelity record;
-6. preserve the user-established scan-10 sequence exactly: `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
-7. explicitly inspect/classify the cover-author witness and all scan-50 catalogue differences/omissions;
-8. re-confirm the scan-24 and scan-37 promotion boundaries, scan-40 poetry-front-matter boundary and scan-50 body exclusion;
-9. preserve every source-visible poetry heading and source lineation;
-10. for any source-supported **structural / punctuation / spacing / heading / placement** correction, record old reading → source-visible reading provenance;
-11. propagate every P5 correction to the corresponding page record and any affected P3 assembly, index, README/audit/handover record;
-12. create/update `publications/ina-muzhakkam/VISUAL_TEXT_FIDELITY_REVIEW.md` with all 50 scans checked, correction log, lexical-witness conflicts, physical-copy exclusions, needs-review/blocked counts and final gate result;
-13. after page-level P5, re-check all six P3 assemblies against the P5-corrected page layer;
-14. only if **50 / 50 scans** and **6 / 6 assemblies** pass with no unresolved body-text blocker, mark Tamil **P5 COMPLETE / FROZEN** and record the resulting six frozen Tamil article blob SHAs;
-15. synchronize publication README, metadata/indexes, root `HANDOVER.md`, root README and this continuation prompt.
-
-**Stop after P5. Do not begin English translation in the same activity.**
-
-Publications 1–4 remain **COMPLETE / FROZEN / RELEASED** and must not be reopened absent a genuine source-supported or release-blocking defect.
+- re-fetch live `main`;
+- inspect scan 39 directly;
+- compare every visible word boundary, spacing, punctuation mark, paragraph/continuation and source witness against `pages/0039-...md`;
+- retain the supplied lexical tokens;
+- apply scan-39 non-lexical source corrections only;
+- propagate any required scan-39 change to `articles/05-aariyam-pesugirathu.md`;
+- commit scan 39;
+- set scan 40 as next;
+- **stop. Do not process scan 40 in the same activity.**
