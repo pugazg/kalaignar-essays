@@ -9,7 +9,7 @@ Permanent rule: **Translate the language; do not neutralise the voice.**
 | `இன முழக்கம்` | **The Clarion Call of the Race**; contextual **the clarion call of the race** | Article 1 verified title; Article 2 closing reuses it. | Article 1 T1 | T5 VERIFIED |
 | `இனம்` | **race** where the source explicitly makes the Dravidian/Aryan contrast | Do not neutralise to `community`. | Article 1 T1 | T5 VERIFIED |
 | `திராவிடன்` / `திராவிட இனம்` | **Dravidian / Dravidian race** | Article 3 direct-address `திராவிடனே / திராவிடா` keeps **Dravidian**. | Article 1 T1 | T5 VERIFIED / A3 T5 VERIFIED |
-| `திராவிடர்` | **Dravidians** | Article 2 plural identity claim; Article 4 collective/direct address. | Article 2 T1 | T5 VERIFIED / A4 T1 WORKING |
+| `திராவிடர்` | **Dravidians** | Article 2 plural identity claim; Article 4 collective/direct address. | Article 2 T1 | T5 VERIFIED / A4 T2 REVIEWED |
 | `தமிழினம்` | **Tamil race** | Article 3 ideological contrast. | Article 3 T1 | A3 T5 VERIFIED |
 | `தமிழன்` | **Tamilian** | Preserve repeated rhetorical noun. | Article 1 T1 | T5 VERIFIED / A3 T5 VERIFIED |
 | `ஆரிய இனம்` | **Aryan race** | Article 1. | Article 1 T1 | T5 VERIFIED |
@@ -57,24 +57,25 @@ Permanent rule: **Translate the language; do not neutralise the voice.**
 | `குன்றெடுக்கும் நெடுந் தோளான்` | **long-shouldered hill-lifter** | Literal allusive treatment; no outside mythic identification. | Article 3 T1 | SOURCE-BEARING / A3 T5 VERIFIED |
 | `சாணிப் பிள்ளையார்` | **dung Pillaiyar** | Preserve source cultural label. | Article 3 T1 | A3 T5 VERIFIED |
 | `சீனிப்பாயசம்` | **sugar payasam** | Preserve source cultural label. | Article 3 T1 | A3 T5 VERIFIED |
-| title `பழிக்குப் பழி` | **Revenge for Revenge** | Article 4 title and closing source phrase. | Article 4 T1 | A4 T1 WORKING |
-| `வகுப்புவாதம்` | **communalism** | Period political/social use in Article 4; T2 must audit every occurrence. | Article 4 T1 | A4 T1 WORKING |
-| `வகுப்பு` in Article-4 causal contrast | **communal division** | Preserves `வகுப்பு / வகுப்புவாதம்` wordplay as closely as readable English permits. | Article 4 T1 | A4 T1 WORKING |
-| `திராவிடர் கழகம்` | **Dravidar Kazhagam** | Organization name; no outside expansion. | Article 4 T1 | SOURCE-BEARING / A4 T1 |
-| `காங்கிரஸ் காரியக் கமிட்டி` | **Congress Working Committee** | Article 4. | Article 4 T1 | A4 T1 WORKING |
-| `காந்தியார்` / `காந்திஜீ` / emphatic `காந்தி` | **Gandhiyar / Gandhiji / Gandhi** | Preserve Article-4 source-form distinctions; do not silently collapse them. | Article 4 T1 | SOURCE-WITNESS / A4 T1 |
-| `பார்ப்பனீயம்` / `பார்ப்பனியம்` | **Brahminism** | Frozen Tamil has two spellings; English semantic rendering is the same, but the source distinction remains documented. | Article 4 T1 | SOURCE-WITNESS / A4 T1 |
-| `பிராமண சேவா சங்கங்கள்` | **Brahmin Seva Associations** | Source-bearing organization label; no outside identification. | Article 4 T1 | A4 T1 WORKING |
-| `சமதர்மம்` | **Samadharma** | Source-bearing term; no explanatory expansion at T1. | Article 4 T1 | SOURCE-BEARING / A4 T1 |
-| `மயில் ராவணன்` | **Mayil Ravanan** | Puranic source label; no outside identification. | Article 4 T1 | SOURCE-BEARING / A4 T1 |
-| `ஜோதி` / `அருட் சோதி` | **Jothi / Arut Sothi** | Preserve Article-4 source forms; do not import Article-1 `Arutperum Jothi`. | Article 4 T1 | SOURCE-WITNESS / A4 T1 |
-| `கோட்சே` | **Gotse** | Source-bearing transliteration; no outside normalization/identification. | Article 4 T1 | SOURCE-BEARING / A4 T1 |
-| `வர்ணாஸ்ரமம்` | **Varnashrama** | Source-bearing treatment. | Article 4 T1 | A4 T1 WORKING |
-| `அகிம்ஸை` / `சத்திய` | **ahimsa / satya** | Preserve source concepts without expansion. | Article 4 T1 | A4 T1 WORKING |
-| Article-4 `சொர்க்கலோகம்` | **heavenly realm** | Same meaning as Article-2 verified form, though Article 4 is written as a compound. | Article 4 T1 | A4 T1 WORKING |
-| `புஷ்ப விமானம்` | **Pushpa Vimanam** | Source-bearing vehicle label; no outside identification. | Article 4 T1 | SOURCE-BEARING / A4 T1 |
-| `பறையன் / பள்ளன் / பார்ப்பனன்` | **Paraiyan / Pallan / Brahmin** | Preserve caste/source labels and contrast. | Article 4 T1 | A4 T1 WORKING |
-| `நந்தன் / இராமலிங்கர் / வள்ளலார் / திருஞானசம்பந்தர்` | **Nandan / Ramalingar / Vallalar / Thirugnanasambandar** | Preserve source forms without outside identification. | Article 4 T1 | SOURCE-BEARING / A4 T1 |
+| title `பழிக்குப் பழி` | **Revenge for Revenge** | Article 4 title and closing source phrase. | Article 4 T1 | A4 T2 REVIEWED |
+| `வகுப்புவாதம்` | **communalism** | Period political/social use in Article 4. | Article 4 T1 | A4 T2 REVIEWED |
+| `வகுப்பு` in Article-4 causal contrast | **communal division** | Preserves `வகுப்பு / வகுப்புவாதம்` relation as closely as readable English permits. | Article 4 T1 | A4 T2 REVIEWED |
+| `உயிர்நிலை` | **seat of life** | External-life/vital-seat image tied to Mayil Ravanan analogy and later sword image; T2 corrects T1 `lifeline`. | Article 4 T2 | A4 T2 REVIEWED |
+| `திராவிடர் கழகம்` | **Dravidar Kazhagam** | Organization name; no outside expansion. | Article 4 T1 | SOURCE-BEARING / A4 T2 REVIEWED |
+| `காங்கிரஸ் காரியக் கமிட்டி` | **Congress Working Committee** | Article 4. | Article 4 T1 | A4 T2 REVIEWED |
+| `காந்தியார்` / `காந்திஜீ` / emphatic `காந்தி` | **Gandhiyar / Gandhiji / Gandhi** | Preserve Article-4 source-form distinctions; do not silently collapse them. | Article 4 T1 | SOURCE-WITNESS / A4 T2 REVIEWED |
+| `பார்ப்பனீயம்` / `பார்ப்பனியம்` | **Brahminism** | Frozen Tamil has two spellings; English semantic rendering is the same, but the source distinction remains documented. | Article 4 T1 | SOURCE-WITNESS / A4 T2 REVIEWED |
+| `பிராமண சேவா சங்கங்கள்` | **Brahmin Seva Associations** | Source-bearing organization label; no outside identification. | Article 4 T1 | A4 T2 REVIEWED |
+| `சமதர்மம்` | **Samadharma** | Source-bearing term; no explanatory expansion. | Article 4 T1 | SOURCE-BEARING / A4 T2 REVIEWED |
+| `மயில் ராவணன்` | **Mayil Ravanan** | Puranic source label; no outside identification. | Article 4 T1 | SOURCE-BEARING / A4 T2 REVIEWED |
+| `ஜோதி` / `அருட் சோதி` | **Jothi / Arut Sothi** | Preserve Article-4 source forms; do not import Article-1 `Arutperum Jothi`. | Article 4 T1 | SOURCE-WITNESS / A4 T2 REVIEWED |
+| `கோட்சே` | **Gotse** | Source-bearing transliteration; no outside normalization/identification. | Article 4 T1 | SOURCE-BEARING / A4 T2 REVIEWED |
+| `வர்ணாஸ்ரமம்` | **Varnashrama** | Source-bearing treatment. | Article 4 T1 | A4 T2 REVIEWED |
+| `அகிம்ஸை` / `சத்திய` | **ahimsa / satya** | Preserve source concepts without expansion. | Article 4 T1 | A4 T2 REVIEWED |
+| Article-4 `சொர்க்கலோகம்` | **heavenly realm** | Same meaning as Article-2 verified form, though Article 4 is written as a compound. | Article 4 T1 | A4 T2 REVIEWED |
+| `புஷ்ப விமானம்` | **Pushpa Vimanam** | Source-bearing vehicle label; no outside identification. | Article 4 T1 | SOURCE-BEARING / A4 T2 REVIEWED |
+| `பறையன் / பள்ளன் / பார்ப்பனன்` | **Paraiyan / Pallan / Brahmin** | Preserve caste/source labels and contrast. | Article 4 T1 | A4 T2 REVIEWED |
+| `நந்தன் / இராமலிங்கர் / வள்ளலார் / திருஞானசம்பந்தர்` | **Nandan / Ramalingar / Vallalar / Thirugnanasambandar** | Preserve source forms without outside identification. | Article 4 T1 | SOURCE-BEARING / A4 T2 REVIEWED |
 | `கவிதைகள்` | title TBD at Article 6 T1 | Preserve headings and lineation. | E0 | OPEN |
 
 ## Verified boundaries
@@ -111,11 +112,11 @@ No body correction was required. Every Article-3 preferred form above was confir
 
 T5 reread the complete T4 English against frozen Tamil and all T1–T4 decisions. No final body correction was required. The verified English blob is `c526195d7eb16b2dc446f8b3b15ae674c75548d5`. All Article-3 preferred forms above, all three T2 fidelity corrections, all six T3 voice corrections, all **5 / 5** source comments and both page traces are frozen as verified.
 
-## Article 4 T1 working decisions
+## Article 4 T2 fidelity decisions
 
-T1 re-fetched frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8` and created the complete close English draft at blob `7040c4f488c9c2fdb5712cac826445969a5c230b` with working title **Revenge for Revenge**. The Article-4 table entries above are T1 working/source-bearing decisions only; T2 must audit them against every frozen occurrence before they are treated as fidelity-reviewed.
+T2 re-fetched frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8` and T1 English blob `7040c4f488c9c2fdb5712cac826445969a5c230b`. The fidelity-reviewed English blob is `da8969239016948ff2330ecfca6a0963762db95c`.
 
-All **8 / 8** ordered source comments are preserved. Explicit page traces retained are scan-31→32 `its / taproot`, scan-34→35 `would have / taken him away`, scan-35→36 `three / bullets`, and scan-36→37 `revenge for / revenge`.
+Four fidelity corrections were made: the opening Congress quotation's grammatical relation was restored; all three `உயிர்நிலை` occurrences now use **seat of life** instead of **lifeline**; the `வகுப்பு / வாதம்` causal sentence now says **communalism disappears** instead of **the doctrine disappears**; and `பாகிஸ்தான் பகிர்ந்தளிக்கப் பட்டதே` is rendered **the partitioning off of Pakistan itself is proof**. All Article-4 table entries above are now T2-reviewed. All **8 / 8** source comments and all four page traces remain intact.
 
 ## Frozen Tamil anomaly/conflict rule
 
@@ -131,4 +132,4 @@ Scan-24 and scan-37 promotions, scan-40 `கவிதைகளைப் பற�
 
 ## Next lexicon activity
 
-During **Article 4 `பழிக்குப் பழி` T2**, audit every Article-4 working/source-bearing form above against the frozen Tamil in context. Make fidelity corrections only; do not perform T3 voice polishing.
+During **Article 4 `பழிக்குப் பழி` T3**, preserve every T2-reviewed form above while reviewing voice. Do not change terminology or settled meaning merely for fluency; make voice/style corrections only.
