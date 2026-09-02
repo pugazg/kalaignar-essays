@@ -37,7 +37,7 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - T1: **2 / 6 PASS**
 - T2: **2 / 6 PASS**
 - T3: **2 / 6 PASS**
-- T4: **1 / 6 PASS**
+- T4: **2 / 6 PASS**
 - T5: **1 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
@@ -66,21 +66,23 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 
 Article 1 is individually frozen. Do not reopen without a genuine source-supported defect.
 
-## English Article 2 — T3 COMPLETE / VOICE-REVIEWED
+## English Article 2 — T4 COMPLETE / AUDITED
 
-- title: **In the Heavenly Realm** — T3 confirmed, not T5-frozen
+- title: **In the Heavenly Realm** — T4 confirmed, not T5-frozen
 - file: `translations/en/02-sorgga-logaththil.md`
 - Tamil blob: `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
 - T1 English blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`
 - T2 English blob: `b9ed854519806bbe65dc5b006183fb4675cb2c3a`
 - T3 English blob: `0d77a253523204f970b0cc89bfdc47f41ee793ef`
+- T4 English blob: `641c65e20b8f2636dae420d874d31af626517afb`
 - status: `voice-reviewed`
 - source comments: **11 / 11 preserved**
 - T2 fidelity corrections preserved: **3 / 3**
-- T3 voice/style corrections: **5**
+- T3 voice/style corrections preserved: **5 / 5**
+- T4 source/quotation body corrections: **2**
 - blockers: **0**
 
-T3 sharpened directness only: **It was no great debate**; **This heavenly realm is the fruit of that**; **You fellows are no different from the August martyrs!**; direct **How is it that...**; and active **I rose and declared loudly...**. It preserved all T2 source-bearing choices, the sacred-thread refrain, graphic/sexual satire, political ridicule, source-distinct `Aachariyar / Aachaariyar`, `Kamarajar / Gramaaniyar`, incomplete maternal-wife clause, all quotation/stage structure and `engag— / ed`, `boast— / ing` traces.
+T4 confirmed the title, heavenly-realm terminology, sacred-thread refrain, August political labels, `Dravidians / an Aryan`, source-distinct `Aachariyar / Aachaariyar` and `Kamarajar / Gramaaniyar`, source-cited *Thiruvilaiyadal Puranam* / `Mahapathagam Theertha Padalam`, nested speech, stage directions, all 11 source comments and page traces. It made two source-supported corrections: scan-22 `காரைக்காலம்மை` is now **Karaikkal Ammai** rather than the harmonised **Karaikkal Ammaiyar**; and the English-only inner quotation marks around **Mahapathagam Theertha Padalam** were removed. All T2/T3 decisions remain intact.
 
 ## Permanent non-regression
 
@@ -105,4 +107,4 @@ T3 sharpened directness only: **It was no great debate**; **This heavenly realm 
 
 ## Exact next activity
 
-**Article 2 `சொர்க்க லோகத்தில்` — T4 terminology / quotation / citation / source audit only.** Re-fetch frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c` and T3 English blob `0d77a253523204f970b0cc89bfdc47f41ee793ef`; audit title, terminology, names/source variants, ideological/social labels, sacred-thread refrain, source-cited work/chapter, quotation/nested-speech structure, all 11 source comments and page-boundary traces; preserve T2/T3 decisions unless a genuine T4 source/terminology defect is found; **stop before Article 2 T5**.
+**Article 2 `சொர்க்க லோகத்தில்` — T5 final article verification only.** Re-fetch frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c` and T4 English blob `641c65e20b8f2636dae420d874d31af626517afb`; verify the complete article against all T1–T4 decisions, source-witness distinctions, quotation/source trace and all 11 source comments; if PASS set `translation_status: verified`, record the verified blob, and **stop after Article 2 T5**.
