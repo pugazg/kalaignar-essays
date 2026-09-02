@@ -60,37 +60,29 @@ After all six reach T5:
 - T0: **6 / 6 PASS**
 - T1: **1 / 6 PASS**
 - T2: **1 / 6 PASS**
-- T3: **0 / 6**
+- T3: **1 / 6 PASS**
 - T4: **0 / 6**
 - T5: **0 / 6**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - blockers: **0**
 
-## Article 1 — T2 COMPLETE / PASS
+## Article 1 — T3 COMPLETE / PASS
 
 - Tamil authority: `articles/01-ina-muzhakkam.md`
 - frozen Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
 - English file: `translations/en/01-ina-muzhakkam.md`
-- working English title: **The Clarion Call of the Race** — T2 confirmed, not T5-frozen
-- T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
+- working English title: **The Clarion Call of the Race** — T3 confirmed, not T5-frozen
 - T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`
-- translation status: `fidelity-reviewed`
+- T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`
+- translation status: `voice-reviewed`
 - source-page comments: **8 / 8 preserved in order**
-- T2 body corrections: **5**
-- omitted clauses after T2: **0**
-- added claims after T2: **0**
+- T2 fidelity corrections preserved: **5 / 5**
+- T3 voice/style body corrections: **10**
+- meaning/fidelity regressions introduced at T3: **0**
 - blockers: **0**
 
-T2 compared every frozen Tamil paragraph/clause against the T1 draft and made only fidelity corrections:
-
-1. `கல்லேற்றி`: `stones` → `a stone`.
-2. incomplete `அளித் ....`: removed the silently completed `I gave`; retained an incomplete English `giv....` treatment.
-3. `உங்களிடம் காட்டுவான்`: restored the explicit addressee with `show you`.
-4. `புலவர்களுக் கெல்லாம்`: restored `all the poets`.
-5. `நாட்டில்`: `through the country` → `in the country`.
-
-T2 confirmed the Article-1 working decisions for `இன முழக்கம்`, explicit `திராவிட இனம்` / `ஆரிய இனம்`, `திராவிடன்`, `சுயமரியாதைக்காரன்`, repeated `தமிழன்`, `காமராஜ நாடார்`, `கிராமணியார்`, frozen `கனக விசயர்`, `பாரிவள்ளல்`, and `அருட்பெருஞ் சோதி`. No T3 voice/style polishing was performed.
+T3 preserved the frozen Tamil and every T2 correction while sharpening only English voice where T2 remained softened or stiff. Key changes restored the blunt `coupled with Indra` / `lusted after the Moon` contrast, tightened Ilango and Pisiranthaiyar, retained the Sai Baba ridicule, restored active first-person force for Senguttuvan, made the Vallal Pari challenge direct natural English, and sharpened the final rhetorical questions. No terminology/source audit beyond what was necessary for voice was performed.
 
 ## Publication-specific translation constraints
 
@@ -115,7 +107,7 @@ The non-body scan-50 numeric/author conflicts are not translation inputs because
 
 ## Title policy
 
-English titles are established during each article's T1 activity from the frozen Tamil title. Article 1 working title **The Clarion Call of the Race** passed T2 fidelity review unchanged and is not release-frozen until T5.
+English titles are established during each article's T1 activity from the frozen Tamil title. Article 1 working title **The Clarion Call of the Race** passed T2 fidelity and T3 voice review unchanged and is not release-frozen until T5.
 
 ## Article order
 
@@ -130,6 +122,6 @@ Translation proceeds in source order:
 
 ## Exact next activity
 
-**Article 1 — `இன முழக்கம்` — T3 Kalaignar voice review only.**
+**Article 1 — `இன முழக்கம்` — T4 terminology / quotation / citation / source audit only.**
 
-Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T2 English blob `6b37eec63209bff533666ce6ff8518c1cba6f733`; review directness, sarcasm, rhetorical questions, commands, repetition, imagery and polemical temperature while preserving every T2 fidelity correction, update tracker/lexicon/review/handover, then **stop before T4**.
+Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T3 English blob `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`; audit the working title, recurring names/labels, source-specific transliterations, quotations, page comments, incomplete source forms and source-witness distinctions; correct T4 defects only, update tracker/lexicon/review/handover, then **stop before T5**.
