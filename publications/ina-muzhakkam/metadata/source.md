@@ -82,7 +82,8 @@ Contents-page numbers remain independent source witnesses from directly visible 
 - E0 English translation planning/setup: **COMPLETE / PASS**
 - T0 frozen-source registration: **6 / 6 PASS**
 - T1 close drafts: **1 / 6 PASS**
-- T2–T5: **0 / 6**
+- T2 fidelity reviews: **1 / 6 PASS**
+- T3–T5: **0 / 6**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
@@ -98,17 +99,21 @@ English translation plan: [`../TRANSLATION_PLAN.md`](../TRANSLATION_PLAN.md).
 5. `articles/05-aariyam-pesugirathu.md` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `articles/06-kavithaigal.md` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-All six blobs were re-fetched and matched at E0. They remain the controlling translation authorities.
+All six blobs were re-fetched and matched at E0. Article 1 was re-fetched again at T2 and still matched `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`. They remain the controlling translation authorities.
 
-## English Article 1 T1 provenance
+## English Article 1 T2 provenance
 
-- working English title: **The Clarion Call of the Race**
+- working English title: **The Clarion Call of the Race** — T2 confirmed, not T5-frozen
 - English file: `../translations/en/01-ina-muzhakkam.md`
 - source Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
 - T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
-- status: `draft`
+- T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`
+- status: `fidelity-reviewed`
 - source-page comments: **8 / 8 preserved in order**
+- T2 fidelity-only body corrections: **5**
 - blockers: **0**
+
+T2 corrections: restore singular `கல்லேற்றி`; preserve frozen incomplete `அளித் ....` rather than silently completing it; restore `உங்களிடம்`; restore `புலவர்களுக் கெல்லாம்`; render closing `நாட்டில்` as `in the country` rather than the broader `through the country`.
 
 ## English translation exclusions / constraints
 
@@ -116,7 +121,8 @@ All six blobs were re-fetched and matched at E0. They remain the controlling tra
 - scan 40 `கவிதைகளைப் பற்றி` + `மதிப்புரை` remains outside `கவிதைகள்` translation;
 - scan 50 catalogue remains outside all six English bodies;
 - known P5 lexical-witness differences are not licences to translate from the scan alternative;
+- Article 1 frozen incomplete `சுயமரியாதைக் ....` and `அளித் ....` must not be silently completed at later gates;
 - `கவிதைகள்` English must preserve frozen headings and lineation;
 - source-page comments are required for bilingual traceability.
 
-Exact next activity: **Article 1 `இன முழக்கம்` — T2 bilingual fidelity review only; stop before T3.**
+Exact next activity: **Article 1 `இன முழக்கம்` — T3 Kalaignar voice review only; stop before T4.**
