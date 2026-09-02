@@ -8,12 +8,12 @@ page_type: "article-close-promotion"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-transcription_method: "user lexical baseline retained; article close/promotion boundary directly verified against source scan"
+transcription_method: "user lexical baseline retained; P5 article close/promotion boundary directly verified against source scan"
 ---
 
 # அச்சு உரை
 
-இந்த மதத்தைப் பழிக்குப்பழி வாங்க வேண்டாமா? மிஞ்சியுள்ள தலைவர்களையாவது காப்பாற்ற வேண்டாமா? திராவிடரே? சொல்லுங்கள்!
+பழி வாங்க வேண்டாமா? மிஞ்சியுள்ள தலைவர்களையாவது காப்பாற்ற வேண்டாமா? திராவிடரே? சொல்லுங்கள்!
 
 —→×←—
 
@@ -35,7 +35,7 @@ transcription_method: "user lexical baseline retained; article close/promotion b
 ## Audit note
 
 - Printed page numeral `36` is directly visible.
-- Closing lines were misplaced into supplied scan 36; the source places them here.
-- The two-novel promotion begins only after the ornament and is outside `பழிக்குப் பழி`.
+- **P5 page-boundary correction:** opening `பழி` continues scan-36 `இந்த மதத்தைப் பழிக்குப்`; the earlier canonical record incorrectly moved that whole phrase here.
+- The two-novel promotion begins only after the ornament and remains outside `பழிக்குப் பழி`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 37; அச்சுப் பக்கம்: 36 -->
