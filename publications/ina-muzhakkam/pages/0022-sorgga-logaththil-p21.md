@@ -8,12 +8,12 @@ page_type: "article-continuation"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-transcription_method: "user lexical baseline retained; structure/punctuation/page placement directly verified against source scan"
+transcription_method: "user lexical baseline retained; P5 word/punctuation fidelity and page boundary directly verified against source scan"
 ---
 
 # அச்சு உரை
 
-ஸ்தம்பித்து விட்டார்கள்.
+நாயன்மார்கள் ஸ்தம்பித்து விட்டார்கள்.
 
 காரைக்காலம்மை “இது உண்மையா?” என்றார்.
 
@@ -32,7 +32,7 @@ transcription_method: "user lexical baseline retained; structure/punctuation/pag
 ## Audit note
 
 - Printed page numeral `21` is directly visible.
-- Opening completes scan 21's `நாயன்மார்கள்` continuation.
-- The supplied trailing `2` is excluded as non-source OCR noise.
+- P5 correction: `நாயன்மார்கள்` is source-visible at the top of this scan and joins `ஸ்தம்பித்து விட்டார்கள்.` here; it was previously misplaced at the end of scan 21.
+- A small printed marginal numeral `2` is visible near the lower-left margin. It is preserved as a printed non-body marginal witness and is not article text; it is not classified as OCR noise.
 
 <!-- மூல ஸ்கேன் பக்கம்: 22; அச்சுப் பக்கம்: 21 -->
