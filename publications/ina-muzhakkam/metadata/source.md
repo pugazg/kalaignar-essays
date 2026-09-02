@@ -60,7 +60,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - T2: **2 / 6 PASS**
 - T3: **2 / 6 PASS**
 - T4: **2 / 6 PASS**
-- T5: **1 / 6 PASS**
+- T5: **2 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
@@ -84,24 +84,26 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 
 Article 1 is individually frozen.
 
-## English Article 2 provenance — T4 AUDITED
+## English Article 2 provenance — T5 VERIFIED
 
-- title: **In the Heavenly Realm** — T4 confirmed, not T5-frozen
+- title: **In the Heavenly Realm**
 - English file: `../translations/en/02-sorgga-logaththil.md`
 - Tamil blob: `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
 - T1 English blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`
 - T2 English blob: `b9ed854519806bbe65dc5b006183fb4675cb2c3a`
 - T3 English blob: `0d77a253523204f970b0cc89bfdc47f41ee793ef`
 - T4 English blob: `641c65e20b8f2636dae420d874d31af626517afb`
-- status: `voice-reviewed`
+- T5 verified English blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`
+- status: `verified`
 - source comments: **11 / 11 preserved**
 - T2 fidelity corrections preserved: **3 / 3**
 - T3 voice/style corrections preserved: **5 / 5**
-- T4 source/quotation body corrections: **2**
+- T4 source/quotation corrections preserved: **2 / 2**
+- T5 body corrections: **0**
 - Tamil source changes: **0**
 - blockers: **0**
 
-T4 audited title, terminology, deity/saint/source-bearing names, ideological/social labels, sacred-thread repetition, August political labels, *Thiruvilaiyadal Puranam* / `Mahapathagam Theertha Padalam`, quotation structure, source comments and page traces. Two corrections were source-supported: scan-22 `காரைக்காலம்மை` is now **Karaikkal Ammai** rather than harmonised **Karaikkal Ammaiyar**; and English-only inner quotation marks around **Mahapathagam Theertha Padalam** were removed because the frozen Tamil has no nested quotation there. All T2/T3 decisions and all 11 source comments remain intact.
+T5 reread the complete English against frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c` and T4 English blob `641c65e20b8f2636dae420d874d31af626517afb`. It confirmed completeness, meaning, voice, source-bearing terminology, source-witness distinctions, quotation/stage structure, all 11 source comments and all page-boundary traces with no remaining body correction. Article 2 is now individually frozen.
 
 ## English translation exclusions / constraints
 
@@ -110,7 +112,6 @@ T4 audited title, terminology, deity/saint/source-bearing names, ideological/soc
 - scan 50 catalogue remains outside all six English bodies;
 - known P5 lexical-witness differences are not licences to translate from scan alternatives;
 - source-page comments are required for bilingual traceability;
-- Article 1 verified decisions must not be reopened without genuine source support;
-- Article 2 T2–T4 decisions remain subject to T5 final verification but must not be casually rewritten.
+- Article 1 and Article 2 verified decisions must not be reopened without genuine source support.
 
-Exact next activity: **Article 2 `சொர்க்க லோகத்தில்` — T5 final article verification only; stop after T5.**
+Exact next activity: **Article 3 `முரசறைவாய்` — T1 close draft only; stop before Article 3 T2.**
