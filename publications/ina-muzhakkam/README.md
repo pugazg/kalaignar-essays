@@ -38,7 +38,7 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - T2: **2 / 6 PASS**
 - T3: **2 / 6 PASS**
 - T4: **2 / 6 PASS**
-- T5: **1 / 6 PASS**
+- T5: **2 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
@@ -66,23 +66,25 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 
 Article 1 is individually frozen. Do not reopen without a genuine source-supported defect.
 
-## English Article 2 — T4 COMPLETE / AUDITED
+## English Article 2 — T5 VERIFIED
 
-- title: **In the Heavenly Realm** — T4 confirmed, not T5-frozen
+- title: **In the Heavenly Realm**
 - file: `translations/en/02-sorgga-logaththil.md`
 - Tamil blob: `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
 - T1 English blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`
 - T2 English blob: `b9ed854519806bbe65dc5b006183fb4675cb2c3a`
 - T3 English blob: `0d77a253523204f970b0cc89bfdc47f41ee793ef`
 - T4 English blob: `641c65e20b8f2636dae420d874d31af626517afb`
-- status: `voice-reviewed`
+- T5 verified English blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`
+- status: `verified`
 - source comments: **11 / 11 preserved**
 - T2 fidelity corrections preserved: **3 / 3**
 - T3 voice/style corrections preserved: **5 / 5**
-- T4 source/quotation body corrections: **2**
+- T4 source/quotation corrections preserved: **2 / 2**
+- T5 body corrections: **0**
 - blockers: **0**
 
-T4 confirmed the title, heavenly-realm terminology, sacred-thread refrain, August political labels, `Dravidians / an Aryan`, source-distinct `Aachariyar / Aachaariyar` and `Kamarajar / Gramaaniyar`, source-cited *Thiruvilaiyadal Puranam* / `Mahapathagam Theertha Padalam`, nested speech, stage directions, all 11 source comments and page traces. It made two source-supported corrections: scan-22 `காரைக்காலம்மை` is now **Karaikkal Ammai** rather than the harmonised **Karaikkal Ammaiyar**; and the English-only inner quotation marks around **Mahapathagam Theertha Padalam** were removed. All T2/T3 decisions remain intact.
+T5 reread the complete English against the frozen Tamil and all T1–T4 decisions. No omitted clause, added claim, terminology/source-witness defect, quotation/stage defect or page-trace defect remained. The verified title, sacred-thread refrain, August political labels, `Dravidians / an Aryan`, source-distinct `Karaikkal Ammaiyar / Karaikkal Ammai`, `Aachariyar / Aachaariyar`, `Kamarajar / Gramaaniyar`, source-cited *Thiruvilaiyadal Puranam* / `Mahapathagam Theertha Padalam`, incomplete maternal-wife clause, all 11 source comments and all page-boundary traces remain intact. Article 2 is individually frozen.
 
 ## Permanent non-regression
 
@@ -94,6 +96,7 @@ T4 confirmed the title, heavenly-realm terminology, sacred-thread refrain, Augus
 - promotional/catalogue/front-matter exclusions remain outside the six English bodies;
 - no supplied lexical token is silently normalised;
 - known frozen source-sensitive forms must not be replaced by scan alternatives;
+- Article 1 and Article 2 are individually T5-frozen;
 - `கவிதைகள்` English must preserve source headings and lineation.
 
 ## Important records
@@ -107,4 +110,4 @@ T4 confirmed the title, heavenly-realm terminology, sacred-thread refrain, Augus
 
 ## Exact next activity
 
-**Article 2 `சொர்க்க லோகத்தில்` — T5 final article verification only.** Re-fetch frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c` and T4 English blob `641c65e20b8f2636dae420d874d31af626517afb`; verify the complete article against all T1–T4 decisions, source-witness distinctions, quotation/source trace and all 11 source comments; if PASS set `translation_status: verified`, record the verified blob, and **stop after Article 2 T5**.
+**Article 3 `முரசறைவாய்` — T1 close draft only.** Re-fetch frozen Tamil blob `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`; establish the English title and Article-3 terminology from the frozen Tamil only; translate the complete assembly preserving rhetorical action, quotation structure and ordered source comments; create/update `translations/en/03-murasaraivai.md` with `translation_status: draft`; record the T1 blob and decisions; **stop before Article 3 T2**.
