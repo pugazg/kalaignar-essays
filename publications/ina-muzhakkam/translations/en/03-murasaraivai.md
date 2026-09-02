@@ -8,8 +8,8 @@ source_tamil_blob_sha: "27ab358ac7cd06bc3c072e4bca425a1269f2c6b8"
 source_scan_pages: "25-29"
 source_printed_pages: "contents witness start 24; scan 25 numeral not visible; scans 26-29 visibly 25-28"
 language: "en"
-translation_status: "draft"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 3 T1 close draft complete"
+translation_status: "fidelity-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 3 T2 bilingual fidelity review complete"
 ---
 
 # Beat the Drum
@@ -20,7 +20,7 @@ The drum does not sound only to say, “Take up the sword! Life? Death? Let us f
 
 The valiant Tamilian who ruled in those days would meet Kanakan and Visayan on the battlefield. He would beat the war drum and spring like a tiger. With the heads of those Aryan kings crushed, he would bear a stone for Kannagi's statue and return with a lion's stride. The sound of the blood-stained victory drum and the song ‘Long live the Tamilian’ would rise in the Himalaya, echo in the Vindhyas, and mingle with the roar of Kanya Kumari's sea.
 
-The victory drum makes the languishing beloved spring up — showing her *isayam*, filled with a new throb, the golden beauty stands watching the road. Before the bull who has come saying, ‘Breeze! Did you droop away searching for me?’ can even open his mouth .... she sees a wound on the bridegroom's ches—
+The victory drum makes the languishing beloved spring up — showing her *isayam*, filled with a new throb, the golden beauty stands watching the road. Before the bull who has come saying, ‘Breeze! Did you grow weary searching for me?’ can even open his mouth .... she sees a wound on the bridegroom's ches—
 
 <!-- Tamil source: scan 26 / printed 25 -->
 
@@ -50,9 +50,9 @@ The Himalaya and Lanka bowed their heads at your command! Today you live as a sl
 
 You sang, ‘The sweet Tamil language is a fine nectar fashioned to give us delight’ — today you prostrate yourself before Hindi!
 
-Ask and see your glories projected on history's screen! How many tiger-like foes fell to your spear — — valiant son! If there is fire in your eyes, does that not mean the enemy camp is prey to flame! Your war cry became a blast against a foreign king's fort! Where are all those today?
+Hear of your glories displayed on history's screen! How many tiger-like foes fell to your spear — — valiant son! If there is fire in your eyes, does that not mean the enemy camp is prey to flame! Your war cry became a blast against a foreign king's fort! Where are all those today?
 
-The sea did not take your valour — — — — the flood of blood that rolled across the battlefield did not take it — the enemy's skill in war did not take it — why did Aryanism, which asks a price for valour, take it?
+The sea did not take you — — — — the flood of blood that rolled across the battlefield did not take you — the enemy's skill in war did not take you — why did Aryanism, which asks a price for valour, take you?
 
 Will that state not return? Will new life not bloom? It will bloom! If it is to bloom, Dravidian! Let your heart overflow this Pongal!
 
