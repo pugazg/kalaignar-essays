@@ -62,7 +62,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
 - T1: **4 / 6 PASS**
-- T2: **3 / 6 PASS**
+- T2: **4 / 6 PASS**
 - T3: **3 / 6 PASS**
 - T4: **3 / 6 PASS**
 - T5: **3 / 6 PASS**
@@ -86,22 +86,26 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 
 Articles 1–3 are individually frozen.
 
-## English Article 4 provenance — T1 DRAFT
+## English Article 4 provenance — T2 FIDELITY-REVIEWED
 
 - title: **Revenge for Revenge**
 - English file: `../translations/en/04-pazhikku-pazhi.md`
 - Tamil blob: `e140df7f6234e8362b9139793706533fec0c62d8`
 - T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
-- status: `draft`
+- T2 English blob: `da8969239016948ff2330ecfca6a0963762db95c`
+- status: `fidelity-reviewed`
 - source comments: **8 / 8 preserved in order**
 - scan-31→32 trace: `its / taproot`
 - scan-34→35 trace: `would have / taken him away`
 - scan-35→36 trace: `three / bullets`
 - scan-36→37 trace: `revenge for / revenge`
+- T2 fidelity corrections: **4**
 - Tamil source changes: **0**
 - blockers: **0**
 
-T1 translates only frozen Article-4 Tamil. Working/source-bearing treatments include **communalism / communal division**, **Dravidar Kazhagam**, **Congress Working Committee**, source-distinct **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, source-bearing **Gotse**, **Varnashrama**, **ahimsa / satya**, **Pushpa Vimanam**, **heavenly realm**, **Paraiyan / Pallan / Brahmin**, and **Nandan / Ramalingar / Vallalar / Thirugnanasambandar**. These remain T1 working decisions pending T2 fidelity review.
+T2 preserves Article-4 source-bearing treatments including **communalism / communal division**, **Dravidar Kazhagam**, **Congress Working Committee**, source-distinct **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, source-bearing **Gotse**, **Varnashrama**, **ahimsa / satya**, **Pushpa Vimanam**, **heavenly realm**, **Paraiyan / Pallan / Brahmin**, and **Nandan / Ramalingar / Vallalar / Thirugnanasambandar**.
+
+T2 corrected the opening Congress quotation's grammatical relation, replaced all three `உயிர்நிலை` renderings **lifeline** with **seat of life**, restored `வாதம்` in the causal sentence to **communalism**, and rendered `பாகிஸ்தான் பகிர்ந்தளிக்கப் பட்டதே சான்று!` as **the partitioning off of Pakistan itself is proof**. No omitted clauses, unresolved names/referents, quotation defects, source-comment defects or page-trace defects remain at T2.
 
 ## English translation exclusions / constraints
 
@@ -112,4 +116,4 @@ T1 translates only frozen Article-4 Tamil. Working/source-bearing treatments inc
 - source-page comments are required for bilingual traceability;
 - Articles 1–3 verified decisions must not be reopened without genuine source support.
 
-Exact next activity: **Article 4 `பழிக்குப் பழி` — T2 bilingual fidelity review only; stop before Article 4 T3.**
+Exact next activity: **Article 4 `பழிக்குப் பழி` — T3 Kalaignar voice review only; stop before Article 4 T4.**
