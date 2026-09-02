@@ -8,27 +8,27 @@ source_tamil_blob_sha: "27ab358ac7cd06bc3c072e4bca425a1269f2c6b8"
 source_scan_pages: "25-29"
 source_printed_pages: "contents witness start 24; scan 25 numeral not visible; scans 26-29 visibly 25-28"
 language: "en"
-translation_status: "fidelity-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 3 T2 bilingual fidelity review complete"
+translation_status: "voice-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 3 T3 Kalaignar voice review complete"
 ---
 
 # Beat the Drum
 
 <!-- Tamil source: scan 25 / printed numeral not visible -->
 
-The drum does not sound only to say, “Take up the sword! Life? Death? Let us find out in battle.” It also sounds to sing “A Festival Day in Life” and hail the bountiful land.
+The drum does not resound merely to say, “Take up the sword! Life? Death? Let us find out in battle.” It resounds, too, to sing “A Festival Day in Life” and hail the bountiful land.
 
 The valiant Tamilian who ruled in those days would meet Kanakan and Visayan on the battlefield. He would beat the war drum and spring like a tiger. With the heads of those Aryan kings crushed, he would bear a stone for Kannagi's statue and return with a lion's stride. The sound of the blood-stained victory drum and the song ‘Long live the Tamilian’ would rise in the Himalaya, echo in the Vindhyas, and mingle with the roar of Kanya Kumari's sea.
 
-The victory drum makes the languishing beloved spring up — showing her *isayam*, filled with a new throb, the golden beauty stands watching the road. Before the bull who has come saying, ‘Breeze! Did you grow weary searching for me?’ can even open his mouth .... she sees a wound on the bridegroom's ches—
+The victory drum makes the languishing beloved spring up — filled with a new throb, the golden beauty stands watching the road, showing her *isayam*. Before the bull who comes saying, ‘Breeze! Did you grow weary searching for me?’ can even open his mouth .... she sees a wound on the bridegroom's ches—
 
 <!-- Tamil source: scan 26 / printed 25 -->
 
-t, casts a dewy glance, and presses her face to his mountain-like shoulder — a poet, trying to turn that joy into a poem but unable to confine it within bounds, turns away with a face drooping in defeat.....
+t, casts a dewy glance, and presses her face to his mountain-like shoulder — a poet, trying to turn that joy into a poem but unable to confine it within bounds, turns away, his face hanging in defeat.....
 
-Thus love and valour once overflowed their banks in the Dravidian land! But this is no useless granny's tale of today! It is the history lived by our grandfathers and grandmothers! The culture they possessed!
+Thus love and valour once surged over their banks in Dravidian land! But this is no useless granny's tale of today! It is the history lived by our grandfathers and grandmothers! The culture they possessed!
 
-As tumbler-dolls for the Aryans to roll about in play, as those who cling to the tail of the Northerners' imperialism, more cruel than English imperialism — as soldiers who, to destroy glorious young Tamil and ruin the land of pure Tamil, cry ‘paarakku’ for the Hindi language — if no elation lingers in us even as we celebrate Pongal while comrades like these are among us, then in those days before Kamarajars, Shanmugams and Jeevas had appeared, in those days when honour and the Tamilian were inseparably bound — in those days when there lived a warrior lineage that lay on the battlefield having tasted the spear — would Pongal have been merely this rice-pongal!
+As tumbler-dolls for the Aryans to roll about in play, as those who cling to the tail of the Northerners' imperialism, more cruel than English imperialism — as soldiers who, to destroy glorious young Tamil and ruin the land of pure Tamil, cry ‘paarakku’ for the Hindi language — if no elation lingers in us even as we celebrate Pongal while comrades like these are among us, then in those days before Kamarajars, Shanmugams and Jeevas had appeared, in those days when honour and the Tamilian were inseparably bound — in those days when there lived a warrior lineage that lay on the battlefield having tasted the spear — would Pongal have been nothing more than this rice-pongal!
 
 <!-- Tamil source: scan 27 / printed 26 -->
 
@@ -40,7 +40,7 @@ When she asked, “Aththaan! Shouldn't we winnow the chaff?” and went to fetch
 
 Dravidian! Think of that day!
 
-The tender infant cries, “Hunger! Hunger!” The mother who bore it sees this and cries... The father cries, “Even on Pongal we are starving, my dear!” Think also of the horror of this present day!
+The tender infant cries, “Hunger! Hunger!” The mother who bore it sees this and cries... The father cries, “Even on Pongal we are starving, my dear!” Think, too, of the horror of this day!
 
 The Greek and Roman lands once lay with their mouths agape for the goods of your land! You lie with your mouth agape for a handful of rice and a cubit of cloth!
 
