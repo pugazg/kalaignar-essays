@@ -45,37 +45,40 @@ Each unit passes T0 source prerequisite, T1 close draft, T2 bilingual fidelity r
 - T2: **3 / 6 PASS**
 - T3: **3 / 6 PASS**
 - T4: **3 / 6 PASS**
-- T5: **2 / 6 PASS**
+- T5: **3 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
-## Articles 1–2 — T5 VERIFIED / FROZEN
+## Articles 1–3 — T5 VERIFIED / FROZEN
 
 1. `இன முழக்கம்` — **The Clarion Call of the Race** — Tamil `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` — verified English `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.
 2. `சொர்க்க லோகத்தில்` — **In the Heavenly Realm** — Tamil `8fea1497ed2dcbdb395418590c1b9875e6066b8c` — verified English `bcd98fb1abf03e3109da1c4802570b77fddfe015`.
+3. `முரசறைவாய்` — **Beat the Drum** — Tamil `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` — verified English `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.
 
-Both are individually frozen; reopen only for a genuine source-supported defect.
+All three are individually frozen; reopen only for a genuine source-supported defect.
 
-## Article 3 — T4 COMPLETE / AUDITED
+## Article 3 — T5 COMPLETE / VERIFIED
 
 - Tamil authority: `articles/03-murasaraivai.md`
 - frozen Tamil blob: `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`
 - English file: `translations/en/03-murasaraivai.md`
-- working English title: **Beat the Drum**
+- verified English title: **Beat the Drum**
 - T1 English blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`
 - T2 English blob: `02d75107effa010ee61b1cc4d999fe4787c66f31`
 - T3 English blob: `a4c2e482e4ba5a6a513cbed1b00879ba7fac90c2`
 - T4 English blob: `969dc675dc1610d4a3d8e1fb2009d459dc6c41ef`
-- status: `voice-reviewed`
+- T5 verified English blob: `c526195d7eb16b2dc446f8b3b15ae674c75548d5`
+- status: `verified`
 - source comments: **5 / 5 preserved in order** for scans 25–29
 - scan-25→26 trace: `ches— / t`
 - scan-28→29 trace: `dwarf / fox`
 - T2 fidelity corrections: **3 / 3 preserved**
 - T3 voice/style corrections: **6 / 6 preserved**
 - T4 terminology/quotation/citation/source body corrections: **0**
+- T5 body corrections: **0**
 - blockers: **0**
 
-### Article 3 source-bearing decisions through T4
+### Article 3 source-bearing decisions through T5
 
 1. `முரசறைவாய்` → **Beat the Drum**; `போர்முரசு / போர் முரசு` → **war drum**; `வெற்றி முரசு` → **victory drum**.
 2. Reuse verified **Tamilian / Dravidian / Tamil race** only where the same Tamil forms/functions genuinely recur.
@@ -93,13 +96,13 @@ Both are individually frozen; reopen only for a genuine source-supported defect.
 14. quoted `வாழ்விலோர் திருநாள்` remains **A Festival Day in Life**; `பனிப்பார்வை` remains **dewy glance**.
 15. All five source-page comments and both physical page-boundary traces remain explicit.
 
-### Article 3 T2 fidelity corrections — preserved through T4
+### Article 3 T2 fidelity corrections — preserved through T5
 
 1. `துவண்டாயோ` — **Did you droop away searching for me?** → **Did you grow weary searching for me?**.
 2. `கேட்டுப் பார்` — **Ask and see your glories...** → **Hear of your glories...**.
 3. `கடல் கொள்ளாமல் ... வீரத்தை விலை கேட்கும் ஆரியம் கொண்டது ஏன்?` — corrected the implicit direct-address object from **your valour / it** to **you / you**; `வீரத்தை` remains within **which asks a price for valour**.
 
-### Article 3 T3 Kalaignar voice corrections — preserved at T4
+### Article 3 T3 Kalaignar voice corrections — preserved through T5
 
 1. opening **does not sound only / It also sounds** → repeated **does not resound merely / It resounds, too**;
 2. reflowed the beloved sentence while retaining **showing her *isayam*** and direct **the bull who comes**;
@@ -108,9 +111,13 @@ Both are individually frozen; reopen only for a genuine source-supported defect.
 5. Pongal challenge **merely this rice-pongal** → **nothing more than this rice-pongal**;
 6. **Think also of the horror of this present day!** → **Think, too, of the horror of this day!**.
 
-### Article 3 T4 audit findings
+### Article 3 T4 audit findings — preserved at T5
 
-T4 audited the complete T3 English against frozen Tamil for terminology, source-witness distinctions, quotation scope, citation/source treatment, rhetorical dashes and page provenance. **No body correction was required.** The title and drum terminology are consistent; `Kanakan / Visayan` remain source-distinct from Article 1; ideological/social labels remain stable; `A Festival Day in Life` and `paarakku` preserve their source quotation scope without outside identification; source-sensitive `இசயங்காட்டி` and `வேட்டாயிற்றே` remain unexpanded; Pongal wordplay remains intact; all **5 / 5** source comments, `ches— / t`, and `dwarf / fox` remain preserved.
+T4 found **0** terminology defects, **0** source-witness defects, **0** quotation/citation defects and **0** source-comment/page-trace defects. No body correction was required.
+
+### Article 3 T5 final verification
+
+T5 reread the complete T4 English against the frozen Tamil and all T1–T4 decisions. Completeness, meaning, directness, martial/polemical voice, terminology, source-witness distinctions, quotation/source treatment and page provenance all pass. All three T2 fidelity corrections, all six T3 voice corrections, the T4 zero-defect findings, all **5 / 5** source comments, `ches— / t`, and `dwarf / fox` remain intact. **No final body correction was required.** Article 3 is individually frozen.
 
 ## Publication-specific non-regression
 
@@ -119,17 +126,17 @@ T4 audited the complete T3 English against frozen Tamil for terminology, source-
 - Do not identify unexplained source labels from outside knowledge.
 - Preserve quotation status, ordered source-page comments and documented page boundaries.
 - Excluded scan-24/37 promotions, scan-40 review/front matter and scan-50 catalogue remain outside the six bodies.
-- Articles 1 and 2 are T5-frozen.
+- Articles 1–3 are T5-frozen.
 
 ## Article order
 
 1. `இன முழக்கம்` — **T5 VERIFIED**
 2. `சொர்க்க லோகத்தில்` — **T5 VERIFIED**
-3. `முரசறைவாய்` — **T4 PASS / T5 NEXT**
-4. `பழிக்குப் பழி`
+3. `முரசறைவாய்` — **T5 VERIFIED**
+4. `பழிக்குப் பழி` — **T1 NEXT**
 5. `ஆரியம் பேசுகிறது`
 6. `கவிதைகள்`
 
 ## Exact next activity
 
-**Article 3 — `முரசறைவாய்` — T5 final article verification only.** Re-fetch frozen Tamil blob `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` and T4 English blob `969dc675dc1610d4a3d8e1fb2009d459dc6c41ef`; reread the complete English against frozen Tamil and all T1–T4 decisions for completeness, meaning, directness, martial/polemical voice, terminology, quotation/source treatment and page provenance; preserve all **5 / 5** comments and both page traces; make only genuine remaining final corrections; if PASS set `translation_status: verified`, record the T5 verified blob and freeze Article 3 individually, then **stop before Article 4 T1**.
+**Article 4 — `பழிக்குப் பழி` — T1 close English draft only.** Re-fetch frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8`; establish the English title and only terminology/source-bearing choices actually encountered from that frozen Tamil; translate the complete article paragraph by paragraph preserving voice, quotation structure and ordered source-page comments; create/update `translations/en/04-pazhikku-pazhi.md` with `translation_status: draft`; record the T1 blob and decisions across durable records; then **stop before Article 4 T2**.
