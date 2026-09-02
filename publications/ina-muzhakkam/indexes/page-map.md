@@ -3,117 +3,87 @@
 Controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`  
 Physical scans: **50**
 
-The PDF is already in physical reading order. Printed numerals are recorded only when directly visible in the source; contents-page expectations are not silently substituted for obscured/absent numerals.
+The PDF is in physical reading order. Printed numerals are recorded only when directly visible; contents-page expectations are preserved as separate witnesses.
 
-| Scan | Printed page | Unit / section | P2 | Notes |
+| Scan | Printed page | Unit / section | Status | Notes |
 |---:|---:|---|---|---|
-| 1 | — | cover | **verified** | title/author image; handwriting/marks present |
-| 2 | — | title / seller | **verified** | title-page witness; ownership stamps/handwriting present |
-| 3 | — | edition / publisher / printer | **verified** | edition, price, publisher, printer |
-| 4 | — | `உள்ளுறை` | **verified** | six-item contents witness; stamps present |
-| 5 | — | `பதிப்புரை` | **verified** | publisher preface |
-| 6 | — | `இன முழக்கம்` opening | **verified** | large stamp over top area; no numeral relied on |
-| 7 | 6 | `இன முழக்கம்` | **verified** | `மாதவி` / `கண்ணகி` units |
-| 8 | 7 | `இன முழக்கம்` | **verified** | `இளங்கோவடிகள்` |
-| 9 | 8 | `இன முழக்கம்` | **verified** | `புலவர் பிசிராந்தையார்`; `வடலூர் இராமலிங்கம்` begins |
-| 10 | 9 | `இன முழக்கம்` | **verified** | `வடலூர் இராமலிங்கம்`; `சேரன் செங்குட்டுவன்` begins; user correction retains `கனக விசயர்` |
-| 11 | 10 | `இன முழக்கம்` | **verified** | `திருவள்ளுவர்`; `பாரிவள்ளல்` begins |
-| 12 | 11 | `இன முழக்கம்` | **verified** | `பாரிவள்ளல்`; self-respect speaker begins |
-| 13 | 12 | `இன முழக்கம்` close | **verified** | closes with `இன முழக்கம் நடைபெறுகிறது`; ornament separator |
-| 14 | — | `சொர்க்க லோகத்தில்` opening | **verified** | heading scan; contents witness says start page 13, but no printed numeral is directly visible |
-| 15 | 14 | `சொர்க்க லோகத்தில்` | **verified** | prose scene continues |
-| 16 | 15 | `சொர்க்க லோகத்தில்` | **verified** | migrant-tag group; Kannappa / Siruththondar |
-| 17 | 16 | `சொர்க்க லோகத்தில்` | **verified** | Nandanar / Karaikkal Ammaiyar / Appar |
-| 18 | 17 | `சொர்க்க லோகத்தில்` | **verified** | Iyarppagai / Moorthi / Eripaththa; Kodpuli begins |
-| 19 | 18 | `சொர்க்க லோகத்தில்` | **verified** | Kodpuli; Iyer scene begins |
-| 20 | 19 | `சொர்க்க லோகத்தில்` | **verified** | Iyer speech continues |
-| 21 | 20 | `சொர்க்க லோகத்தில்` | **verified** | Kodpuli interruption / Iyer speech |
-| 22 | 21 | `சொர்க்க லோகத்தில்` | **verified** | dialogue and sacred-thread explanation |
-| 23 | 22 | `சொர்க்க லோகத்தில்` | **verified** | closing dialogue / dream awakening |
-| 24 | 23 | `சொர்க்க லோகத்தில்` close + promotion | **verified** | article closes; separate `திராவிட சம்பத்து` promotion follows ornament |
-| 25 | — | `முரசறைவாய்` opening | **verified** | heading scan; contents witness says start page 24, but no printed numeral is directly visible |
-| 26 | 25 | `முரசறைவாய்` | **verified** | continuation from `மணவாளன் மார்பினி` |
-| 27 | 26 | `முரசறைவாய்` | **verified** | harvest dialogue / direct address |
-| 28 | 27 | `முரசறைவாய்` | **verified** | rhetorical continuation; closes with `குள்ள` fragment |
-| 29 | 28 | `முரசறைவாய்` close | **verified** | `நரிக்` continues fragment; ends `போர் முரசறைவாய்`; ornament separator |
-| 30 | — | `பழிக்குப் பழி` opening | **verified** | heading scan; contents witness says start page 29, but no printed numeral is directly visible |
-| 31 | 30 | `பழிக்குப் பழி` | **verified** | continuation; final `அதன்` continues |
-| 32 | 31 | `பழிக்குப் பழி` | **verified** | continuation |
-| 33 | 32 | `பழிக்குப் பழி` | **verified** | Congress Working Committee quotation block |
-| 34 | 33 | `பழிக்குப் பழி` | **verified** | continuation |
-| 35 | 34 | `பழிக்குப் பழி` | **verified** | continuation; final `மூன்று` continues |
-| 36 | 35 | `பழிக்குப் பழி` | **verified** | continuation; article does **not** close here |
-| 37 | 36 | `பழிக்குப் பழி` close + promotion | **verified** | final lines belong here; then two-novel advertisement |
-| 38 | — | `ஆரியம் பேசுகிறது` opening | **verified** | heading scan; contents witness says start page 37, but no printed numeral is directly visible |
-| 39 | 38 | `ஆரியம் பேசுகிறது` close | **verified** | `குலச்` → `சிறை`; article closes; ornament separator |
-| 40 | — | poetry front matter | **verified** | `கவிதைகளைப் பற்றி`; `மதிப்புரை`; author/reviewer credits |
-| 41 | 40 | `கவிதைகள்` | **verified** | `நியாயத் திராசு!`; `ஏற்றமே!` begins |
-| 42 | 41 | `கவிதைகள்` | **verified** | `ஏற்றமே!` closes; `சைவரே!` |
-| 43 | 42 | `கவிதைகள்` | **verified** | `வா!`; `பொதுவுடைமையே!` |
-| 44 | 43 | `கவிதைகள்` | **verified** | `யோசித்துப் பார்!`; `மாணவர் எழுச்சி.` |
-| 45 | 44 | `கவிதைகள்` | **verified** | `வாளிங்கே!` begins |
-| 46 | 45 | `கவிதைகள்` | **verified** | `வாளிங்கே!` continues |
-| 47 | 46 | `கவிதைகள்` | **verified** | `வாளிங்கே!` continues; final `மகன்` continues |
-| 48 | 47 | `கவிதைகள்` | **verified** | `வாளிங்கே!` closes; `தோல்வி எப்பொழுது?` |
-| 49 | 48 | `கவிதைகள்` | **verified** | `இன்னுமா கூச்சல்?`; `வருணமா? மானமா?` |
-| 50 | — | catalogue / advertisement | **verified** | title/author/price columns structurally reassembled; lexical gaps/differences deferred to P5 |
+| 1 | — | cover | **strict-reviewed** | lexical baseline retained against abbreviated cover-author witness; handwriting/marks separate |
+| 2 | — | title / seller | **strict-reviewed** | title-page witness; ownership stamps/handwriting separate |
+| 3 | — | edition / publisher / printer | **strict-reviewed** | edition, price, publisher, printer |
+| 4 | — | `உள்ளுறை` | **strict-reviewed** | six-item contents witness; P5 layout/punctuation aligned |
+| 5 | — | `பதிப்புரை` | **strict-reviewed** | publisher preface |
+| 6 | — | `இன முழக்கம்` opening | **strict-reviewed** | large stamp over top area; no numeral relied on |
+| 7 | 6 | `இன முழக்கம்` | **strict-reviewed** | `மாதவி` / `கண்ணகி` units |
+| 8 | 7 | `இன முழக்கம்` | **strict-reviewed** | `இளங்கோவடிகள்` |
+| 9 | 8 | `இன முழக்கம்` | **strict-reviewed** | `புலவர் பிசிராந்தையார்`; `வடலூர் இராமலிங்கம்` begins |
+| 10 | 9 | `இன முழக்கம்` | **strict-reviewed** | non-regression: `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...` |
+| 11 | 10 | `இன முழக்கம்` | **strict-reviewed** | `திருவள்ளுவர்`; `பாரிவள்ளல்` begins |
+| 12 | 11 | `இன முழக்கம்` | **strict-reviewed** | `பாரிவள்ளல்`; self-respect speaker begins |
+| 13 | 12 | `இன முழக்கம்` close | **strict-reviewed** | closes with `இன முழக்கம் நடைபெறுகிறது`; ornament |
+| 14 | — | `சொர்க்க லோகத்தில்` opening | **strict-reviewed** | contents witness start `13`; numeral not directly visible |
+| 15 | 14 | `சொர்க்க லோகத்தில்` | **strict-reviewed** | prose scene continues |
+| 16 | 15 | `சொர்க்க லோகத்தில்` | **strict-reviewed** | migrant-tag group; Kannappa / Siruththondar |
+| 17 | 16 | `சொர்க்க லோகத்தில்` | **strict-reviewed** | Nandanar / Karaikkal Ammaiyar / Appar |
+| 18 | 17 | `சொர்க்க லோகத்தில்` | **strict-reviewed** | Iyarppagai / Moorthi / Eripaththa; Kodpuli begins |
+| 19 | 18 | `சொர்க்க லோகத்தில்` | **strict-reviewed** | Kodpuli; Iyer scene begins |
+| 20 | 19 | `சொர்க்க லோகத்தில்` | **strict-reviewed** | Iyer speech continues |
+| 21 | 20 | `சொர்க்க லோகத்தில்` | **strict-reviewed** | P5 page ends before `நாயன்மார்கள்` |
+| 22 | 21 | `சொர்க்க லோகத்தில்` | **strict-reviewed** | starts `நாயன்மார்கள் ஸ்தம்பித்து விட்டார்கள்.`; marginal printed `2` non-body |
+| 23 | 22 | `சொர்க்க லோகத்தில்` | **strict-reviewed** | closing dialogue / dream awakening |
+| 24 | 23 | `சொர்க்க லோகத்தில்` close + promotion | **strict-reviewed** | `காமராஜர்—கிராமாணியார்—...`; promotion excluded |
+| 25 | — | `முரசறைவாய்` opening | **strict-reviewed** | contents witness start `24`; numeral not directly visible |
+| 26 | 25 | `முரசறைவாய்` | **strict-reviewed** | continuation from `மணவாளன் மார்பினி` |
+| 27 | 26 | `முரசறைவாய்` | **strict-reviewed** | harvest dialogue / direct address |
+| 28 | 27 | `முரசறைவாய்` | **strict-reviewed** | rhetorical continuation; closes with `குள்ள` fragment |
+| 29 | 28 | `முரசறைவாய்` close | **strict-reviewed** | `நரிக்` continues fragment; ends `போர் முரசறைவாய்` |
+| 30 | — | `பழிக்குப் பழி` opening | **strict-reviewed** | contents witness start `29`; numeral not directly visible |
+| 31 | 30 | `பழிக்குப் பழி` | **strict-reviewed** | P5 paragraphs/spacing/ellipses aligned; final `அதன்` continues |
+| 32 | 31 | `பழிக்குப் பழி` | **strict-reviewed** | P5 spacing and long dashes aligned |
+| 33 | 32 | `பழிக்குப் பழி` | **strict-reviewed** | Congress Working Committee quotation; baseline `பாரட்டத்` retained |
+| 34 | 33 | `பழிக்குப் பழி` | **strict-reviewed** | P5 spacing/dash/pause aligned; baseline `ஜோதில்கலந்தான்` retained |
+| 35 | 34 | `பழிக்குப் பழி` | **strict-reviewed** | P5 spacing/dashes aligned; final `மூன்று` continues |
+| 36 | 35 | `பழிக்குப் பழி` | **strict-reviewed** | source page ends `இந்த மதத்தைப் பழிக்குப்` |
+| 37 | 36 | `பழிக்குப் பழி` close + promotion | **strict-reviewed** | begins `பழி வாங்க வேண்டாமா?`; promotion excluded |
+| 38 | — | `ஆரியம் பேசுகிறது` opening | **strict-reviewed** | P5 source spacing/paragraphs restored; contents witness start `37` |
+| 39 | 38 | `ஆரியம் பேசுகிறது` close | **strict-reviewed** | P5 word spacing/pause/final paragraphs restored |
+| 40 | — | poetry front matter | **strict-reviewed** | `கவிதைகளைப் பற்றி`; `மதிப்புரை`; remains outside poem body |
+| 41 | 40 | `கவிதைகள்` | **strict-reviewed** | `நியாயத் திராசு!`; source-and-baseline heading `ஏற்பரோ!` |
+| 42 | 41 | `கவிதைகள்` | **strict-reviewed** | `ஏற்பரோ!` closes; `சைவரே!`; lexical conflicts documented |
+| 43 | 42 | `கவிதைகள்` | **strict-reviewed** | `வா!`; `பொதுவுடைமையே!`; source lineation restored |
+| 44 | 43 | `கவிதைகள்` | **strict-reviewed** | `யோசித்துப் பார்!`; `மாணவர் எழுச்சி.` |
+| 45 | 44 | `கவிதைகள்` | **strict-reviewed** | `வாளிங்கே!` begins; source long dashes restored |
+| 46 | 45 | `கவிதைகள்` | **strict-reviewed** | `வாளிங்கே!` continues; lexical conflicts documented |
+| 47 | 46 | `கவிதைகள்` | **strict-reviewed** | `வாளிங்கே!` continues; baseline `கதறினாள்` retained |
+| 48 | 47 | `கவிதைகள்` | **strict-reviewed** | `வாளிங்கே!` closes; `தோல்வி எப்பொழுது?`; source lineation restored |
+| 49 | 48 | `கவிதைகள்` | **strict-reviewed** | `இன்னுமா கூச்சல்?`; corrected source-and-baseline `வருணமா? மரணமா?` |
+| 50 | — | catalogue / advertisement | **strict-reviewed** | structural rows/columns verified; lexical/number conflicts documented and baseline retained |
 
-## P2 progress
+## P2 / P3 / P4
 
-- scans **1–25: 25 / 25 verified**
-- scans **26–50: 25 / 25 verified**
-- canonical page records currently present: **50 / 50**
-- **P2 COMPLETE**
+- P2 canonical page records: **50 / 50 COMPLETE**
+- P3 assemblies: **6 / 6 COMPLETE**
+- P4 source/completeness audit: **PASS**
 
-## P3 assembly map
+Excluded from the six body assemblies by design: scans 1–5 front matter; scan-24 promotion; scan-37 promotion; scan-40 poetry front matter; scan-50 catalogue.
 
-| P3 unit | Canonical scan range | Reading assembly | P3 status |
-|---|---|---|---|
-| `இன முழக்கம்` | 6–13 | [`../articles/01-ina-muzhakkam.md`](../articles/01-ina-muzhakkam.md) | **complete** |
-| `சொர்க்க லோகத்தில்` | 14–24 | [`../articles/02-sorgga-logaththil.md`](../articles/02-sorgga-logaththil.md) | **complete** |
-| `முரசறைவாய்` | 25–29 | [`../articles/03-murasaraivai.md`](../articles/03-murasaraivai.md) | **complete** |
-| `பழிக்குப் பழி` | 30–37 | [`../articles/04-pazhikku-pazhi.md`](../articles/04-pazhikku-pazhi.md) | **complete** |
-| `ஆரியம் பேசுகிறது` | 38–39 | [`../articles/05-aariyam-pesugirathu.md`](../articles/05-aariyam-pesugirathu.md) | **complete** |
-| `கவிதைகள்` | 41–49 | [`../articles/06-kavithaigal.md`](../articles/06-kavithaigal.md) | **complete** |
+## P5 strict visual fidelity — PASS / FROZEN
 
-P3 total: **6 / 6 COMPLETE / VERIFIED AGAINST P2**.
+Canonical P5 record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-Excluded by design from P3 body assemblies:
+- physical scans rechecked: **50 / 50 PASS**
+- six assemblies rechecked after propagation: **6 / 6 PASS**
+- lexical/numeric conflicts silently substituted: **0**
+- blockers: **0**
 
-- scans 1–5 front matter;
-- scan-24 `திராவிட சம்பத்து` promotion;
-- scan-37 two-novel promotion;
-- scan-40 `கவிதைகளைப் பற்றி` / `மதிப்புரை` author-review front matter;
-- scan-50 catalogue / advertisement.
+Frozen Tamil assembly blobs:
 
-## Structural boundary findings
+1. `இன முழக்கம்` — `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
+2. `சொர்க்க லோகத்தில்` — `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
+3. `முரசறைவாய்` — `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`
+4. `பழிக்குப் பழி` — `e140df7f6234e8362b9139793706533fec0c62d8`
+5. `ஆரியம் பேசுகிறது` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
+6. `கவிதைகள்` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-- scan 10 user correction is controlling: `விசயர்` is not noise and belongs in `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`.
-- heading scans 6, 14, 25, 30 and 38 do not receive inferred printed numerals.
-- `பழிக்குப் பழி` final lines visible on scan 37 were misplaced into the supplied scan-36 transcription; they are canonically placed on scan 37 and in the P3 assembly.
-- poem heading `வா!` belongs to scan 43, not the end of scan 42.
-- poem heading `யோசித்துப் பார்!` belongs to scan 44, not the end of scan 43.
-- scan 24 promotional matter after the separator is not part of `சொர்க்க லோகத்தில்` and is excluded from its assembly.
-- scan 37 promotional matter after the separator is not part of `பழிக்குப் பழி` and is excluded from its assembly.
-- scan 40 is poetry introductory/review matter; the contents witness `கவிதைகள் 40` corresponds to the poem section beginning on scan 41 / printed 40, so scan 40 remains outside the poem assembly.
-- scan 50 is catalogue matter outside all article/poetry bodies; structural author/title association is recorded without silently repairing lexical/number differences in the supplied baseline.
-- P3 preserves P2 page-boundary comments and introduces no lexical normalisation.
+Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**.
 
-## P4 source / completeness audit — PASS
-
-P4 audit record: [`../SOURCE_COMPLETENESS_AUDIT.md`](../SOURCE_COMPLETENESS_AUDIT.md).
-
-P4 confirms:
-
-- every physical scan from **1 through 50** has exactly one canonical P2 record;
-- all six P3 assemblies match the scan ranges above and exist exactly once;
-- page-to-page continuation order and source-page provenance comments are preserved;
-- scan-10 `விசயர்`, scan-24/37 exclusions, scan-40 exclusion, scan-50 exclusion and poetry heading placements all remain intact;
-- contents-page start-number witnesses remain separate from directly visible body numerals;
-- physical-copy marks imported into body text: **0**;
-- silent lexical normalisations introduced during P2/P3: **0**;
-- P4 `needs-review`: **0**;
-- P4 blocked items: **0**;
-- completeness blockers: **0**.
-
-Deferred source/baseline lexical or number differences are explicitly reserved for P5 classification, especially the cover-author witness and scan-50 catalogue differences.
+Exact next activity: **E0 — English translation planning/setup only**.
