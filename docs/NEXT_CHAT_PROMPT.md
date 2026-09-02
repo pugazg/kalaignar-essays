@@ -13,7 +13,7 @@ Fetch live `main` first. Preserve any newer durable state; never reset or repeat
 
 Last confirmed handover synchronization when this prompt was prepared:
 
-`baf34e58044a41b74b0063fdf15839e7c36c9f2e` — `Synchronize handover after Ina Muzhakkam Article 3 T5`
+`78c86e0faef67ce5bf5a7129217bbca54e9b0208` — `Synchronize handover after Ina Muzhakkam Article 4 T1`
 
 ## Mandatory startup
 
@@ -32,6 +32,7 @@ Read completely before changing anything:
 11. `publications/ina-muzhakkam/translations/en/LEXICON.md`
 12. `publications/ina-muzhakkam/translations/en/TRANSLATION_REVIEW.md`
 13. frozen Tamil `publications/ina-muzhakkam/articles/04-pazhikku-pazhi.md`
+14. T1 English `publications/ina-muzhakkam/translations/en/04-pazhikku-pazhi.md`
 
 Articles 1–3 are T5 verified and individually frozen. They are non-regression references only; do not reopen them during Article 4 work without a genuine source-supported defect.
 
@@ -53,7 +54,7 @@ Frozen Tamil authorities:
 - Tamil P0–P5: **COMPLETE / FROZEN**
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **3 / 6 PASS**
+- T1: **4 / 6 PASS**
 - T2: **3 / 6 PASS**
 - T3: **3 / 6 PASS**
 - T4: **3 / 6 PASS**
@@ -69,22 +70,39 @@ Frozen Tamil authorities:
 
 Preserve their verified terminology/source-witness decisions where the same Tamil form/function genuinely recurs; do not mechanically overwrite distinct Article-4 source forms.
 
-## Article 3 T5 durable boundary
+## Article 4 T1 durable boundary
 
-- frozen Tamil blob: `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`
-- verified English blob: `c526195d7eb16b2dc446f8b3b15ae674c75548d5`
-- verified title: **Beat the Drum**
-- `translation_status: verified`
-- source comments: **5 / 5 preserved in order**
-- scan-25→26: `ches— / t`
-- scan-28→29: `dwarf / fox`
-- T2 fidelity corrections: **3 / 3 preserved**
-- T3 voice/style corrections: **6 / 6 preserved**
-- T4 body corrections: **0**
-- T5 body corrections: **0**
+- Tamil title: `பழிக்குப் பழி`
+- frozen Tamil blob: `e140df7f6234e8362b9139793706533fec0c62d8`
+- English file: `translations/en/04-pazhikku-pazhi.md`
+- working English title: **Revenge for Revenge**
+- T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
+- `translation_status: draft`
+- source comments: **8 / 8 preserved in order** for scans 30–37
+- scan-31→32: `its / taproot`
+- scan-34→35: `would have / taken him away`
+- scan-35→36: `three / bullets`
+- scan-36→37: `revenge for / revenge`
 - blockers: **0**
 
-T5 reread the complete T4 English against frozen Tamil and all T1–T4 decisions. Completeness, meaning, directness, martial/polemical voice, terminology, source-witness distinctions, quotation/source treatment and page provenance all passed. No final body correction was required. Article 3 is individually frozen.
+### Article 4 T1 working/source-bearing decisions
+
+1. `பழிக்குப் பழி` → **Revenge for Revenge**.
+2. `வகுப்புவாதம்` → **communalism**; contextual `வகுப்பு` in the causal wordplay → **communal division**.
+3. `திராவிடர் கழகம்` → **Dravidar Kazhagam**; `திராவிடர்` → **Dravidians** where collective/direct.
+4. `காங்கிரஸ் காரியக் கமிட்டி` → **Congress Working Committee**.
+5. `காந்தியார் / காந்திஜீ / காந்தி` → **Gandhiyar / Gandhiji / Gandhi**, preserving source forms.
+6. `பார்ப்பனீயம் / பார்ப்பனியம்` → **Brahminism**, with the frozen Tamil spelling distinction documented; `பிராமண சேவா சங்கங்கள்` → **Brahmin Seva Associations**.
+7. `சமதர்மம்` → **Samadharma**.
+8. `மயில் ராவணன்` → **Mayil Ravanan**.
+9. `ஜோதி / அருட் சோதி` → **Jothi / Arut Sothi**, distinct from Article-1 `Arutperum Jothi`.
+10. `கோட்சே` → **Gotse**, without outside normalization or identification.
+11. `வர்ணாஸ்ரமம்` → **Varnashrama**; `அகிம்ஸை / சத்திய` → **ahimsa / satya**.
+12. Article-4 `சொர்க்கலோகம்` → **heavenly realm**; `புஷ்ப விமானம்` → **Pushpa Vimanam**.
+13. `பறையன் / பள்ளன் / பார்ப்பனன்` → **Paraiyan / Pallan / Brahmin**.
+14. source forms **Nandan / Ramalingar / Vallalar / Thirugnanasambandar** retained without outside identification.
+
+T1 is a close draft only. None of these Article-4 decisions is T2-final yet.
 
 ## Translation non-regression
 
@@ -97,19 +115,20 @@ T5 reread the complete T4 English against frozen Tamil and all T1–T4 decisions
 - retain ordered source comments and documented page-boundary traces;
 - preserve quotation status and source punctuation irregularities;
 - scans 24 and 37 promotions, scan 40 front matter/review and scan 50 catalogue stay outside the six English bodies;
-- Articles 1–3 verified English decisions must not be reopened without genuine source support.
+- Articles 1–3 verified English decisions must not be reopened without genuine source support;
+- Article 4 T1 choices are non-regression inputs to T2 unless T2 finds a fidelity defect.
 
 ## EXACT NEXT ACTIVITY
 
-**Article 4 `பழிக்குப் பழி` — T1 close English draft only.**
+**Article 4 `பழிக்குப் பழி` — T2 bilingual fidelity review only.**
 
 1. fetch live `main`;
 2. re-read translation plan, tracker, lexicon and review ledger;
 3. re-fetch frozen Tamil Article 4 and confirm blob `e140df7f6234e8362b9139793706533fec0c62d8`;
-4. establish the English title from frozen Tamil only;
-5. establish only terminology/source-bearing choices actually encountered, preserving Articles 1–3 verified decisions where the same form/function genuinely recurs but not mechanically harmonising distinct forms;
-6. translate the complete frozen Article 4 paragraph by paragraph preserving direct address, commands, rhetorical questions, repetition, polemical force, quotation structure and every ordered source-page comment;
-7. do not use OCR, raw supplied transcription, scan-alternate lexical readings, web text, later editions or outside identification as translation authority;
-8. create/update `publications/ina-muzhakkam/translations/en/04-pazhikku-pazhi.md` with `translation_status: draft`;
-9. record the T1 English blob, title and exact lexicon/source-bearing decisions across durable records;
-10. **STOP AFTER ARTICLE 4 T1. DO NOT PERFORM ARTICLE 4 T2 IN THE SAME ACTIVITY.**
+4. re-fetch T1 English Article 4 and confirm blob `7040c4f488c9c2fdb5712cac826445969a5c230b`;
+5. compare every Tamil paragraph/clause against English for omissions, additions, names/referents, negatives, comparisons, causal/logical relations, commands/questions, repetition and polemical force;
+6. audit **Revenge for Revenge** and all T1 working/source-bearing choices, especially **communalism / communal division**, **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Samadharma**, **Jothi / Arut Sothi**, **Gotse**, **Varnashrama**, `சொர்க்கலோகம்` → **heavenly realm**, and the source-specific caste/name forms;
+7. verify quotation scope and all **8 / 8** source comments;
+8. verify all four page traces: `its / taproot`, `would have / taken him away`, `three / bullets`, `revenge for / revenge`;
+9. make **T2 fidelity corrections only**; if PASS set `translation_status: fidelity-reviewed` and record the T2 blob/findings across durable records;
+10. **STOP AFTER ARTICLE 4 T2. DO NOT PERFORM ARTICLE 4 T3 IN THE SAME ACTIVITY.**
