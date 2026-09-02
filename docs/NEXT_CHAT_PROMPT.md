@@ -13,7 +13,7 @@ Fetch live `main` first. Preserve any newer durable state; never reset or repeat
 
 Last confirmed handover synchronization when this prompt was prepared:
 
-`0bdd6d9e4f6146a5c7d10e5396dbe1507d32335b` — `Synchronize handover after Ina Muzhakkam E0`
+`bbbbc971fce73fea8c740c3e8c5abd06db759c2d` — `Synchronize handover after Ina Muzhakkam Article 1 T1`
 
 ## Mandatory startup
 
@@ -31,11 +31,12 @@ Read completely before changing anything:
 10. `publications/ina-muzhakkam/translations/en/README.md`
 11. `publications/ina-muzhakkam/translations/en/LEXICON.md`
 12. `publications/ina-muzhakkam/translations/en/TRANSLATION_REVIEW.md`
-13. all six frozen Tamil assemblies; for the next activity especially Article 1.
+13. frozen Tamil `articles/01-ina-muzhakkam.md`
+14. T1 English `translations/en/01-ina-muzhakkam.md`
 
 ## Frozen Tamil authority
 
-The completed P5 Tamil layer is **COMPLETE / STRICT-REVIEWED / FROZEN**. Do not reopen it for translation convenience.
+The Tamil P5 layer is **COMPLETE / STRICT-REVIEWED / FROZEN**. Do not reopen it for translation convenience.
 
 Frozen Tamil authorities:
 
@@ -46,46 +47,69 @@ Frozen Tamil authorities:
 5. `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` — `ஆரியம் பேசுகிறது`
 6. `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` — `கவிதைகள்`
 
-E0 re-fetched all six: **6 / 6 exact SHA matches / T0 PASS**.
-
 ## Current durable state
 
 - Tamil P0–P5: **COMPLETE / FROZEN**
-- E0 translation planning/setup: **COMPLETE / PASS**
+- E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **0 / 6**
+- T1: **1 / 6 PASS**
 - T2: **0 / 6**
 - T3: **0 / 6**
 - T4: **0 / 6**
 - T5: **0 / 6**
-- E6: **NOT STARTED**
-- E7: **NOT STARTED**
+- E6/E7: **NOT STARTED**
 - blockers: **0**
+
+## Article 1 T1 durable boundary
+
+- Tamil title: `இன முழக்கம்`
+- frozen Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
+- English file: `translations/en/01-ina-muzhakkam.md`
+- working English title: **The Clarion Call of the Race**
+- T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
+- `translation_status: draft`
+- source-page comments: **8 / 8 preserved in order**
+- blockers: **0**
+
+Working T1 decisions include:
+
+- `இன முழக்கம்` → **The Clarion Call of the Race**;
+- `திராவிடன்` → **Dravidian**;
+- `திராவிட இனம்` / `ஆரிய இனம்` → **Dravidian race / Aryan race**;
+- `சுயமரியாதைக்காரன்` → **Self-Respecter**;
+- incomplete `சுயமரியாதைக் ....` → **Self-Respect ....**, with no guessed completion;
+- repeated `தமிழன்` → **Tamilian**;
+- `கிராமணியார்` → **Gramaniyar**;
+- frozen `கனக விசயர்` → **Kanaka Visayar**;
+- `பாரிவள்ளல்` → **Vallal Pari**;
+- `அருட்பெருஞ் சோதி` → **Arutperum Jothi**.
+
+These are T1 working choices and must be tested at T2 rather than treated as release-frozen.
 
 ## Translation non-regression
 
 > **Translate the language; do not neutralise the voice.**
 
-- translate only the frozen strict-reviewed Tamil assemblies, not OCR/raw transcription/scan-alternate lexical readings;
+- translate only the frozen strict-reviewed Tamil assemblies;
+- do not use OCR/raw transcription/scan-alternate lexical readings as translation authority;
 - preserve direct address, commands, rhetorical questions, repetition, sarcasm, ridicule, exclamations and loaded ideological/social labels;
-- do not silently identify unexplained epithets or labels from outside knowledge;
+- do not silently identify unexplained source labels from outside knowledge;
 - retain ordered `<!-- Tamil source: scan ... -->` comments;
-- preserve quotation status and document material source punctuation anomalies rather than inventing missing Tamil punctuation;
-- scan-24 and scan-37 promotions, scan-40 `கவிதைகளைப் பற்றி` + `மதிப்புரை`, and scan-50 catalogue are outside the six English bodies unless separately authorised;
-- `கவிதைகள்` translation must preserve frozen poem headings and lineation;
-- source-sensitive frozen forms such as `பாரட்டத்`, `ஜோதில்கலந்தான்`, `மனமுள்ளார்`, `ஏறிபத்தர்`, `முடுக்கினாள்`, `போர் வீரனாம்`, and `கதறினாள்` must not be replaced with scan alternatives during translation;
-- English titles are established article by article at T1, not pre-frozen globally at E0.
+- preserve quotation status and document material source punctuation anomalies;
+- scans 24 and 37 promotions, scan 40 front matter/review and scan 50 catalogue stay outside the six English bodies;
+- frozen source-sensitive forms such as `பாரட்டத்`, `ஜோதில்கலந்தான்`, `மனமுள்ளார்`, `ஏறிபத்தர்`, `முடுக்கினாள்`, `போர் வீரனாம்`, and `கதறினாள்` must not be replaced with scan alternatives.
 
 ## EXACT NEXT ACTIVITY
 
-**Article 1 `இன முழக்கம்` — T1 close English draft only.**
+**Article 1 `இன முழக்கம்` — T2 bilingual fidelity review only.**
 
 1. fetch live `main`;
-2. re-fetch `articles/01-ina-muzhakkam.md` and confirm blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`;
-3. establish the working English title from the frozen Tamil title and record it in `LEXICON.md` and `TRANSLATION_REVIEW.md`;
-4. establish only Article-1 terminology actually encountered; do not pre-freeze later-article choices;
-5. translate the entire frozen Article 1 paragraph by paragraph, preserving quotation structure, questions, exclamations, repetition and rhetoric;
-6. retain every ordered source-page comment in English form;
-7. create `translations/en/01-ina-muzhakkam.md` with `translation_status: draft` and the frozen Tamil blob SHA;
-8. record the T1 English blob and decisions in tracker/plan/lexicon/review/handover;
-9. **stop after T1. Do not perform T2 in the same activity.**
+2. re-fetch frozen Tamil Article 1 and confirm blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`;
+3. re-fetch T1 English Article 1 and confirm blob `b3022e69387662584064d51133e24f4f97e976b2`;
+4. compare every Tamil paragraph and clause against the T1 English draft;
+5. check for omitted clauses, added claims, incorrect negatives/comparisons/connectors, names/referents, quotation completeness and deliberate repetition;
+6. verify all **8 / 8** source-page comments remain present and ordered;
+7. audit the working title and Article-1 lexicon decisions against the frozen Tamil authority;
+8. correct **fidelity defects only**; do not perform T3 voice/style polishing;
+9. if PASS, set `translation_status: fidelity-reviewed`, record the T2 English blob and exact corrections/findings in tracker/plan/lexicon/review/handover;
+10. **stop after T2. Do not perform T3 in the same activity.**
