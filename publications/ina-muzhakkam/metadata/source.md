@@ -81,7 +81,7 @@ Contents-page numbers remain independent source witnesses from directly visible 
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - E0 English translation planning/setup: **COMPLETE / PASS**
 - T0 frozen-source registration: **6 / 6 PASS**
-- T1 close drafts: **1 / 6 PASS**
+- T1 close drafts: **2 / 6 PASS**
 - T2 fidelity reviews: **1 / 6 PASS**
 - T3 voice reviews: **1 / 6 PASS**
 - T4 audits: **1 / 6 PASS**
@@ -101,24 +101,36 @@ English translation plan: [`../TRANSLATION_PLAN.md`](../TRANSLATION_PLAN.md).
 5. `articles/05-aariyam-pesugirathu.md` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `articles/06-kavithaigal.md` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-All six blobs were re-fetched and matched at E0. Article 1 was re-fetched again at T2, T3, T4 and T5 and still matched `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`. They remain the controlling translation authorities.
+All six blobs were re-fetched and matched at E0. Article 1 was re-fetched again at T2–T5 and remained exact. Article 2 was re-fetched at T1 and matched `8fea1497ed2dcbdb395418590c1b9875e6066b8c` before drafting.
 
 ## English Article 1 T5 provenance
 
 - verified English title: **The Clarion Call of the Race**
 - English file: `../translations/en/01-ina-muzhakkam.md`
 - source Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
-- T4 English blob: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`
 - T5 verified English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
 - status: `verified`
 - source-page comments: **8 / 8 preserved in order**
-- T2 fidelity corrections preserved: **5 / 5**
-- T3 voice/style body corrections preserved: **10 / 10**
-- T4 body corrections: **0**
 - T5 body corrections: **0**
 - blockers: **0**
 
-T5 performed a complete final article-level verification against the frozen Tamil and all T1–T4 decisions. No English body correction was required. The verified article retains the title, ideological/social vocabulary, source-bearing names, incomplete `Self-Respect ....` and `giv....`, `Vadalur Ramalingam / Vadalur Ramalingar` source distinction, all eight source comments, scan-9→10 `suf— / fer......` trace and Vallal Pari's source-irregular unmatched outer opening quotation. Only translation status/provenance metadata changed at T5.
+Article 1 is individually verified and frozen at the article level. Reopen only for a genuine source-supported defect.
+
+## English Article 2 T1 provenance
+
+- working English title: **In the Heavenly Realm**
+- English file: `../translations/en/02-sorgga-logaththil.md`
+- source Tamil blob: `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
+- T1 English blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`
+- status: `draft`
+- source-page comments: **11 / 11 preserved in order** for scans 14–24
+- scan-14→15 word trace: `ஈடுபட்டிருந்` / `தார்கள்` → `engag— / ed`
+- scan-19→20 word trace: `பெருமை` / `யடித்துக்` → `boast— / ing`
+- blockers: **0**
+
+T1 is a close draft only. It uses the frozen Article-2 Tamil authority and preserves the satirical heavenly setting, graphic devotional-sacrifice speeches, sacred-thread refrain, political comparison, Dravidian/Aryan contrast, dream frame, source quotation/stage structure and all eleven page comments. The scan-24 `திராவிட சம்பத்து` promotion remains excluded.
+
+T1 working source-bearing decisions include **In the Heavenly Realm**, badge **‘Immigrant’**, **sacred thread**, **Ayyar**, **August martyrs / August struggle**, source-distinct **Aachariyar / Aachaariyar**, **Dravidians / an Aryan**, closing source-distinct **Kamarajar / Gramaaniyar**, the verified Article-1 title **The Clarion Call of the Race** for quoted `இனமுழக்கம்`, and source-bearing ***Thiruvilaiyadal Puranam* / Mahapathagam Theertha Padalam**. The source-irregular `மாதாவை மகா மனைவியாக்குவது மல்லவா` clause remains deliberately cautious/incomplete in English pending T2.
 
 ## English translation exclusions / constraints
 
@@ -126,9 +138,9 @@ T5 performed a complete final article-level verification against the frozen Tami
 - scan 40 `கவிதைகளைப் பற்றி` + `மதிப்புரை` remains outside `கவிதைகள்` translation;
 - scan 50 catalogue remains outside all six English bodies;
 - known P5 lexical-witness differences are not licences to translate from the scan alternative;
-- Article 1 frozen incomplete `சுயமரியாதைக் ....` and `அளித் ....` are verified as intentionally incomplete in English and must not be silently completed later;
 - Article 1 verified English decisions must not be reopened without a genuine source-supported defect;
+- Article 2 T1 decisions are provisional until T2–T5;
 - `கவிதைகள்` English must preserve frozen headings and lineation;
 - source-page comments are required for bilingual traceability.
 
-Exact next activity: **Article 2 `சொர்க்க லோகத்தில்` — T1 close draft only; stop before Article 2 T2.**
+Exact next activity: **Article 2 `சொர்க்க லோகத்தில்` — T2 bilingual fidelity review only; stop before Article 2 T3.**
