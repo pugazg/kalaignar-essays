@@ -11,7 +11,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - Tamil assemblies: **6 / 6 strict-reviewed**
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **3 / 6 PASS**
+- T1: **4 / 6 PASS**
 - T2: **3 / 6 PASS**
 - T3: **3 / 6 PASS**
 - T4: **3 / 6 PASS**
@@ -26,17 +26,14 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **The Clarion Call of the Race** | **T5 PASS / verified** |
 | 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **In the Heavenly Realm** | **T5 PASS / verified** |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | **Beat the Drum** | **T5 PASS / verified** |
-| 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | TBD | **T0 PASS / T1 NEXT** |
+| 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | **Revenge for Revenge** | **T1 PASS / draft / T2 NEXT** |
 | 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | TBD | **T0 PASS** |
 | 6 | `கவிதைகள்` | `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` | TBD | **T0 PASS** |
 
 Article 1 T5 blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.  
 Article 2 T5 verified blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`.  
-Article 3 T1 draft blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`.  
-Article 3 T2 fidelity-reviewed blob: `02d75107effa010ee61b1cc4d999fe4787c66f31`.  
-Article 3 T3 voice-reviewed blob: `a4c2e482e4ba5a6a513cbed1b00879ba7fac90c2`.  
-Article 3 T4 audited blob: `969dc675dc1610d4a3d8e1fb2009d459dc6c41ef`.  
-Article 3 T5 verified blob: `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.
+Article 3 T5 verified blob: `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.  
+Article 4 T1 draft blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`.
 
 ## Translation authority
 
@@ -63,28 +60,24 @@ Article 3 T5 verified blob: `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.
 
 All three are individually frozen and must not be reopened without a genuine source-supported defect.
 
-## Article 3 T5 boundary
+## Article 4 T1 boundary
 
-- file: `03-murasaraivai.md`
-- verified title: **Beat the Drum**
-- status: `verified`
-- Tamil blob: `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`
-- T1 English blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`
-- T2 English blob: `02d75107effa010ee61b1cc4d999fe4787c66f31`
-- T3 English blob: `a4c2e482e4ba5a6a513cbed1b00879ba7fac90c2`
-- T4 English blob: `969dc675dc1610d4a3d8e1fb2009d459dc6c41ef`
-- T5 English blob: `c526195d7eb16b2dc446f8b3b15ae674c75548d5`
-- source comments: **5 / 5 preserved in order** for scans 25–29
-- scan-25→26 trace: `ches— / t`
-- scan-28→29 trace: `dwarf / fox`
-- T2 fidelity corrections: **3 / 3 preserved**
-- T3 voice/style corrections: **6 / 6 preserved**
-- T4 body corrections: **0**
-- T5 body corrections: **0**
+- file: `04-pazhikku-pazhi.md`
+- working title: **Revenge for Revenge**
+- status: `draft`
+- Tamil blob: `e140df7f6234e8362b9139793706533fec0c62d8`
+- T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
+- source comments: **8 / 8 preserved in order** for scans 30–37
+- scan-31→32 trace: `its / taproot`
+- scan-34→35 trace: `would have / taken him away`
+- scan-35→36 trace: `three / bullets`
+- scan-36→37 trace: `revenge for / revenge`
 - blockers: **0**
 
-T5 reread the complete T4 English against frozen Tamil and all T1–T4 decisions. No final body correction was required. The title, terminology, source-sensitive treatments, direct-address chain, martial/polemical voice, quotations, all five source comments and both page traces remain intact. Article 3 is individually frozen.
+T1 establishes **communalism / communal division**, **Dravidar Kazhagam**, **Congress Working Committee**, source-bearing **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, source-bearing **Gotse**, **Varnashrama**, **ahimsa**, **satya**, **Pushpa Vimanam**, and source labels **Paraiyan / Pallan / Brahmin**. Article-4 compound `சொர்க்கலோகம்` reuses verified **heavenly realm**. The proper/source forms **Nandan, Ramalingar, Vallalar, Thirugnanasambandar** are retained without outside identification.
+
+T1 is a close draft only. T2 has not been performed.
 
 ## Exact next activity
 
-**Article 4 `பழிக்குப் பழி` — T1 close English draft only.** Re-fetch frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8`; establish the English title and only terminology/source-bearing choices actually encountered; translate the complete frozen article paragraph by paragraph preserving voice, quotations and ordered source-page comments; create/update `04-pazhikku-pazhi.md` with `translation_status: draft`; record the T1 blob and decisions; then **stop before Article 4 T2**.
+**Article 4 `பழிக்குப் பழி` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8` and T1 English blob `7040c4f488c9c2fdb5712cac826445969a5c230b`; compare every paragraph/clause for completeness and fidelity; audit title/terminology/source-bearing forms, quotation scope and rhetorical relations; verify all **8 / 8** source comments and all four page traces; make fidelity corrections only and **stop before Article 4 T3**.
