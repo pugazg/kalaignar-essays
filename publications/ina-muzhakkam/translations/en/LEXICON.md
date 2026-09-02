@@ -8,22 +8,22 @@ Permanent rule: **Translate the language; do not neutralise the voice.**
 
 | Tamil / source form | Preferred English | Context / exception | First established | Status |
 |---|---|---|---|---|
-| `இன முழக்கம்` | **The Clarion Call of the Race**; contextual **the clarion call of the race** | Article/publication title established from frozen Article 1. The final occurrence is translated as an active call sounding **in the country**; T2 removed the broader T1 `through the country`. | Article 1 T1 | T4 CONFIRMED |
-| `இனம்` | **race** where Article 1 explicitly contrasts `திராவிட இனம்` / `ஆரிய இனம்` | Retains Kalaignar's period ideological/rhetorical category rather than neutralising it to generic `community`. | Article 1 T1 | T4 CONFIRMED |
-| `திராவிடன்` / `திராவிட இனம்` | **Dravidian** / **Dravidian race** | Preserve singular rhetorical identity and explicit race contrast. | Article 1 T1 | T4 CONFIRMED |
+| `இன முழக்கம்` | **The Clarion Call of the Race**; contextual **the clarion call of the race** | Article/publication title established from frozen Article 1. The final occurrence is translated as an active call sounding **in the country**; T2 removed the broader T1 `through the country`. | Article 1 T1 | T5 VERIFIED |
+| `இனம்` | **race** where Article 1 explicitly contrasts `திராவிட இனம்` / `ஆரிய இனம்` | Retains Kalaignar's period ideological/rhetorical category rather than neutralising it to generic `community`. | Article 1 T1 | T5 VERIFIED |
+| `திராவிடன்` / `திராவிட இனம்` | **Dravidian** / **Dravidian race** | Preserve singular rhetorical identity and explicit race contrast. | Article 1 T1 | T5 VERIFIED |
 | `திராவிடர்` | **establish contextually in later article when encountered** | Do not flatten into a generic social group. | E0 | OPEN |
-| `ஆரிய இனம்` | **Aryan race** | Explicit counterpart to `திராவிட இனம்` in Article 1. | Article 1 T1 | T4 CONFIRMED |
+| `ஆரிய இனம்` | **Aryan race** | Explicit counterpart to `திராவிட இனம்` in Article 1. | Article 1 T1 | T5 VERIFIED |
 | `ஆரியர்` / `ஆரியம்` | **establish contextually in later article when encountered** | Preserve Kalaignar's polemical label and grammatical role. | E0 | OPEN |
-| `சுயமரியாதைக்காரன்` | **Self-Respecter** | Source-bearing movement label; no explanatory expansion inside body text. | Article 1 T1 | T4 CONFIRMED |
-| incomplete `சுயமரியாதைக் ....` | **Self-Respect ....** | Preserve the frozen incomplete/source-irregular form rather than supplying a missing Tamil word. | Article 1 T1 | SOURCE-SENSITIVE / T4 CONFIRMED |
-| incomplete `அளித் ....` | **giv....** in the Article 1 sentence | Frozen Tamil ends with an incomplete verb after `அருங் குறட்பாக்கள்`; T2 removed T1's silently completed `I gave`. Do not supply the missing Tamil ending at later gates. | Article 1 T2 | SOURCE-SENSITIVE / T4 CONFIRMED |
-| `தமிழன்` | **Tamilian** | Used in repeated direct/rhetorical questioning; preserve the repeated noun rather than smoothing it away. | Article 1 T1 | T4 CONFIRMED |
-| `காமராஜ நாடார்` | **Kamaraj Nadar** | Preserve the source label as given. | Article 1 T1 | T4 CONFIRMED |
-| `கிராமணியார்` | **Gramaniyar** | Source-bearing transliteration; frozen lexical form controls. | Article 1 T1 | SOURCE-SENSITIVE / T4 CONFIRMED |
-| `கனக விசயர்` | **Kanaka Visayar** | User-established frozen placement on scan 10; retain as a source-bearing compound label rather than externally identifying/splitting it. | Article 1 T1 | SOURCE-SENSITIVE / T4 CONFIRMED |
-| `வள்ளல் பாரி` / `பாரிவள்ளல்` | **Vallal Pari** | Preserve the honorific/name form; descriptive `கொடை வள்ளல்` is rendered **great giver** in context. | Article 1 T1 | T4 CONFIRMED |
-| `அருட்பெருஞ் சோதி` | **Arutperum Jothi** | Source-bearing devotional phrase/name retained rather than expanded in the body. | Article 1 T1 | T4 CONFIRMED |
-| `வடலூர் இராமலிங்கம்` / vocative `வடலூர் இராமலிங்கரே` | **Vadalur Ramalingam** / **Vadalur Ramalingar** | Preserve the frozen source distinction between speaker label and vocative; do not harmonise for English neatness. | Article 1 T1 | SOURCE-WITNESS / T4 CONFIRMED |
+| `சுயமரியாதைக்காரன்` | **Self-Respecter** | Source-bearing movement label; no explanatory expansion inside body text. | Article 1 T1 | T5 VERIFIED |
+| incomplete `சுயமரியாதைக் ....` | **Self-Respect ....** | Preserve the frozen incomplete/source-irregular form rather than supplying a missing Tamil word. | Article 1 T1 | SOURCE-SENSITIVE / T5 VERIFIED |
+| incomplete `அளித் ....` | **giv....** in the Article 1 sentence | Frozen Tamil ends with an incomplete verb after `அருங் குறட்பாக்கள்`; T2 removed T1's silently completed `I gave`. Do not supply the missing Tamil ending. | Article 1 T2 | SOURCE-SENSITIVE / T5 VERIFIED |
+| `தமிழன்` | **Tamilian** | Used in repeated direct/rhetorical questioning; preserve the repeated noun rather than smoothing it away. | Article 1 T1 | T5 VERIFIED |
+| `காமராஜ நாடார்` | **Kamaraj Nadar** | Preserve the source label as given. | Article 1 T1 | T5 VERIFIED |
+| `கிராமணியார்` | **Gramaniyar** | Source-bearing transliteration; frozen lexical form controls. | Article 1 T1 | SOURCE-SENSITIVE / T5 VERIFIED |
+| `கனக விசயர்` | **Kanaka Visayar** | User-established frozen placement on scan 10; retain as a source-bearing compound label rather than externally identifying/splitting it. | Article 1 T1 | SOURCE-SENSITIVE / T5 VERIFIED |
+| `வள்ளல் பாரி` / `பாரிவள்ளல்` | **Vallal Pari** | Preserve the honorific/name form; descriptive `கொடை வள்ளல்` is rendered **great giver** in context. | Article 1 T1 | T5 VERIFIED |
+| `அருட்பெருஞ் சோதி` | **Arutperum Jothi** | Source-bearing devotional phrase/name retained rather than expanded in the body. | Article 1 T1 | T5 VERIFIED |
+| `வடலூர் இராமலிங்கம்` / vocative `வடலூர் இராமலிங்கரே` | **Vadalur Ramalingam** / **Vadalur Ramalingar** | Preserve the frozen source distinction between speaker label and vocative; do not harmonise for English neatness. | Article 1 T1 | SOURCE-WITNESS / T5 VERIFIED |
 | `பூணூல்` | **establish contextually** | Preserve caste/religious rhetorical function. | E0 | OPEN |
 | `ஆச்சரியார்` | **source-bearing treatment required** | Do not silently substitute a modern personal name; establish handling when first encountered. | E0 | OPEN |
 | `வகுப்புவாதம்` | **establish contextually** | Preserve the period political/social meaning and repeated argument; avoid neutralising paraphrase. | E0 | OPEN |
@@ -31,14 +31,14 @@ Permanent rule: **Translate the language; do not neutralise the voice.**
 | `வர்ணாஸ்ரமம்` | **source-bearing translation/transliteration to establish** | Do not silently replace with a broader modern category. | E0 | OPEN |
 | `கவிதைகள்` | **title TBD at Article 6 T1** | Translation must preserve all frozen poem headings and lineation. | E0 | OPEN |
 
-## Article 1 title decision — T4 CONFIRMED
+## Article 1 title decision — T5 VERIFIED
 
 Frozen Tamil title: `இன முழக்கம்`  
-Working English title: **The Clarion Call of the Race**
+Verified English title: **The Clarion Call of the Race**
 
 Reason for treatment: `முழக்கம்` functions as a forceful public call/cry in the article's closing sentence, while `இனம்` is explicitly framed through the `திராவிட இனம்` / `ஆரிய இனம்` contrast. The title therefore retains the source's rhetorical and ideological force rather than softening it to a generic `message` or `appeal`.
 
-T2 found no fidelity reason to change the title, T3 found no voice reason to change it, and T4 found no terminology/source reason to change it. It remains subject to T5 and is not release-frozen.
+T2 found no fidelity reason to change the title, T3 found no voice reason to change it, T4 found no terminology/source reason to change it, and T5 final verification confirmed it unchanged.
 
 ## Article 1 T2 fidelity decisions
 
@@ -86,7 +86,28 @@ Confirmed without body change:
 - scan-9→10 `suf—` / `fer......` page-boundary trace;
 - all eight source comments and frozen quotation scope, including the Vallal Pari unit's unmatched opening outer double quotation inherited from the frozen Tamil rather than silently repaired.
 
-No Article-1 T4 body correction was required. T4 English blob `8d3238ca5cd309660c6d938b8f546eca2ba5698c` differs from T3 only because frontmatter `translation_method` now records T4 completion.
+No Article-1 T4 body correction was required. T4 English blob: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`.
+
+## Article 1 T5 final verification
+
+T5 re-fetched frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T4 English blob `8d3238ca5cd309660c6d938b8f546eca2ba5698c`, then reread the complete article as a single final verification pass.
+
+Result: **PASS / VERIFIED**.
+
+- body corrections at T5: **0**;
+- all Article-1 T1–T4 lexicon decisions retained;
+- all five T2 fidelity corrections retained;
+- all ten T3 voice corrections retained;
+- all T4 quotation/source decisions retained;
+- all eight ordered source comments retained;
+- incomplete `Self-Respect ....` and `giv....` retained without guessed completion;
+- `Vadalur Ramalingam / Vadalur Ramalingar` distinction retained;
+- `Kanaka Visayar` remains source-bearing and externally unidentified;
+- Vallal Pari unmatched outer opening quotation remains a documented frozen-source anomaly;
+- scan-9→10 `suf— / fer......` trace retained;
+- verified English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.
+
+Article 1 terminology is now frozen at the article level. Publication-wide consistency remains subject to E6 after all six articles reach T5.
 
 ## Frozen Tamil anomaly/conflict rule
 
@@ -123,4 +144,4 @@ No lexicon decision from the following non-body matter should be imported into t
 
 ## Next lexicon activity
 
-During **Article 1 T5**, verify all T1–T4 Article-1 decisions as one final article-level pass. Do not begin Article 2 in the same activity.
+During **Article 2 `சொர்க்க லோகத்தில்` T1**, establish only the new Article-2 title and terminology actually encountered in its frozen Tamil authority. Preserve all Article-1 verified decisions and do not reopen them without a genuine source-supported defect.
