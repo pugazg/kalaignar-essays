@@ -8,7 +8,7 @@ page_type: "advertisement-catalogue"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-transcription_method: "user lexical baseline retained; catalogue rows/column associations structurally reassembled against source scan without silently repairing lexical/number differences"
+transcription_method: "user lexical/number baseline retained; P5 catalogue row/column associations and source layout directly verified; scan/baseline omissions or conflicts documented without silent substitution"
 ---
 
 # அச்சு உரை
@@ -41,7 +41,7 @@ transcription_method: "user lexical baseline retained; catalogue rows/column ass
 | மா சே துங் (சீனப் பிரதமர் சரித்திரம்) |  | 0 8 0 |
 | தமிழ் வாத்தியார் |  | 0 12 0 |
 | சுதந்திர இந்தியா | நேதாஜி | 0 10 0 |
-| ரஷ்யப் பிரச்னை (ஸ்டாலின் பரிசு பெற்றது) |  | 1 4 0 |
+| ரஷ்யப் பிரச்னை | (ஸ்டாலின் பரிசு பெற்றது) | 1 4 0 |
 | காதல் கொலை வழக்குகள் | (அச்சில்) |  |
 
 **பாரி நிலையம்**  
@@ -59,6 +59,9 @@ K. G. Press, Madras-1.
 - Catalogue is outside all prose/poetry body units.
 - `தில்லை வில்லாளன்` is structurally placed with `தங்கத்தாமரை`, not with the preceding `அண்ணாவின் வாழ்க்கைக் குறிப்புகள்` row.
 - `நேதாஜி` is structurally placed with `சுதந்திர இந்தியா` from the source column layout.
-- Where the supplied lexical baseline omits or differs in a price/author token (for example the `அழகு நிலா` / `செல்வ குமாரி` price forms and the missing `நாடறிந்த நட்சத்திரங்கள்` price), P2 does not silently manufacture/replace the lexical token; those are deferred for explicit P5/source-fidelity handling.
+- `(ஸ்டாலின் பரிசு பெற்றது)` is a source note associated with `ரஷ்யப் பிரச்னை`; P5 places it in the note column without changing its words.
+- **P5 scan 50 PASS:** catalogue row/column associations were directly rechecked against the scan. The supplied lexical/number baseline remains controlling rather than silently importing differing or omitted source tokens.
+- Documented scan/baseline conflicts or omissions retained without substitution: source shows `அழகு நிலா` price `1 0 0` versus supplied `0 10`; source shows `செல்வ குமாரி` price `1 0 0` versus supplied `0 10`; source visibly gives `நாடறிந்த நட்சத்திரங்கள்` price `0 4 0` while the supplied baseline omits it; source visibly supplies `ம. ரா.` with `தமிழ் வாத்தியார்` while the supplied baseline omits that author token.
+- No lexical/number token was silently added or replaced.
 
 <!-- மூல ஸ்கேன் பக்கம்: 50 -->
