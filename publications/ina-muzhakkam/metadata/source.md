@@ -61,7 +61,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - T1: **3 / 6 PASS**
 - T2: **3 / 6 PASS**
 - T3: **3 / 6 PASS**
-- T4: **2 / 6 PASS**
+- T4: **3 / 6 PASS**
 - T5: **2 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
@@ -82,7 +82,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 
 Articles 1 and 2 are individually frozen.
 
-## English Article 3 provenance — T3 VOICE-REVIEWED
+## English Article 3 provenance — T4 AUDITED
 
 - title: **Beat the Drum**
 - English file: `../translations/en/03-murasaraivai.md`
@@ -90,18 +90,18 @@ Articles 1 and 2 are individually frozen.
 - T1 English blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`
 - T2 English blob: `02d75107effa010ee61b1cc4d999fe4787c66f31`
 - T3 English blob: `a4c2e482e4ba5a6a513cbed1b00879ba7fac90c2`
+- T4 English blob: `969dc675dc1610d4a3d8e1fb2009d459dc6c41ef`
 - status: `voice-reviewed`
 - source comments: **5 / 5 preserved in order**
 - scan-25→26 trace: `ches— / t`
 - scan-28→29 trace: `dwarf / fox`
 - T2 fidelity corrections: **3 / 3 preserved**
-- T3 voice/style corrections: **6**
+- T3 voice/style corrections: **6 / 6 preserved**
+- T4 body corrections: **0**
 - Tamil source changes: **0**
 - blockers: **0**
 
-T2 corrected `துவண்டாயோ` to **grow weary**, `கேட்டுப் பார்` to **Hear of...**, and the implicit direct-address object in `கடல் கொள்ளாமல் ... ஆரியம் கொண்டது ஏன்?` from T1 **your valour / it** to **you / you**. T3 preserved those decisions and every source-bearing term, then made voice/style-only changes: repeated opening **resound / resounds**, smoother beloved-sentence cadence while retaining **showing her *isayam***, **turns away, his face hanging in defeat**, **surged over their banks**, **nothing more than this rice-pongal**, and **Think, too, of the horror of this day!**.
-
-No Tamil source reading changed. All five source comments and both physical page traces remain intact.
+T4 audited all Article-3 terminology/source-bearing forms, quotation scope, source/citation treatment, rhetorical dashes and page provenance against frozen Tamil. No body correction was required. `A Festival Day in Life` and `paarakku` retain exact source quotation scope; `இசயங்காட்டி` remains cautious **showing her *isayam*** without silent normalisation; `வேட்டாயிற்றே` remains **became a blast against a foreign king's fort** without outside expansion. All five comments and both physical page traces remain intact.
 
 ## English translation exclusions / constraints
 
@@ -112,4 +112,4 @@ No Tamil source reading changed. All five source comments and both physical page
 - source-page comments are required for bilingual traceability;
 - Articles 1 and 2 verified decisions must not be reopened without genuine source support.
 
-Exact next activity: **Article 3 `முரசறைவாய்` — T4 terminology / quotation / citation / source audit only; stop before Article 3 T5.**
+Exact next activity: **Article 3 `முரசறைவாய்` — T5 final article verification only; stop before Article 4 T1.**
