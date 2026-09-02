@@ -29,10 +29,11 @@ When the user says `Proceed with next activity` while `இன முழக்க
 
 ## Current durable frontier
 
-- P5 page-level processing is durably completed through **scan 39**.
-- Scan 39 strict visual fidelity: **PASS**; lexical scan/baseline disagreements: **0**.
-- Scan 39 source-supported spacing, punctuation and paragraph corrections have been propagated to its canonical page record and the scan-39 portion of Article 5.
-- **Next page-level activity: scan 40 only.**
-- Scans **41–50** must then follow one scan per activity in sequence.
+- P5 page-level processing is durably completed through **scan 40**.
+- Scan 40 strict visual fidelity: **PASS**; lexical scan/baseline disagreements: **0**.
+- Scan 40 source-supported spacing, dash punctuation and paragraph structure have been propagated to its canonical page record.
+- Scan 40 remains poetry introductory/review matter outside the `கவிதைகள்` body; no P3 body assembly update was required.
+- **Next page-level activity: scan 41 only.**
+- Scans **42–50** must then follow one scan per activity in sequence.
 
 After scan 50 is closed, perform a **separate P5 closeout activity** for the 6/6 assembly recheck, final fidelity report, frozen Tamil blob SHAs and Tamil freeze. English translation starts only after that closeout passes.
