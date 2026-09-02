@@ -35,7 +35,7 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
 - T1: **5 / 6 PASS**
-- T2: **4 / 6 PASS**
+- T2: **5 / 6 PASS**
 - T3: **4 / 6 PASS**
 - T4: **4 / 6 PASS**
 - T5: **4 / 6 PASS**
@@ -63,25 +63,29 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 
 All four are individually frozen and must not be reopened without a genuine source-supported defect.
 
-## English Article 5 — T1 COMPLETE / CLOSE DRAFT
+## English Article 5 — T2 COMPLETE / FIDELITY-REVIEWED
 
 - title: **Aryanism Speaks**
 - file: `translations/en/05-aariyam-pesugirathu.md`
 - Tamil blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 - T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
-- status: `draft`
+- T2 English blob: `508639503ab830e83d8cac547476c83d26a8494f`
+- status: `fidelity-reviewed`
 - source comments: **2 / 2 preserved in order**
 - scan-38→39: `Kula— / chirai`
+- T2 fidelity corrections: **2**
 - blockers: **0**
 
-T1 translates the complete frozen Article-5 assembly and preserves its first-person boast, abrupt exclamations, rhetorical question and source quotation. Working/source-bearing forms are **Aryanism Speaks**, **Hiraniyan / Pragalathan**, **Ravanan / Vibheeshanan / Vali / Sugrivan**, **the chapter of Vali's slaying**, literal **axe-handle**, **Kulachirai**, recurring verified **Gandhiyar / Gotse**, **Omaanthooraar**, quoted **“Opposition to Aryanism?”**, **Black Army**, and closing **Vibheeshanans and Sugrivans / your race**. These remain T1 decisions pending T2 bilingual fidelity review.
+T2 preserves the Article-5 source-bearing set **Aryanism Speaks**, **Hiraniyan / Pragalathan**, **Ravanan / Vibheeshanan / Vali / Sugrivan**, **the chapter of Vali's slaying**, literal **axe-handle**, **Kulachirai**, recurring verified **Gandhiyar / Gotse**, **Omaanthooraar**, quoted **“Opposition to Aryanism?”**, **Black Army**, and closing **Vibheeshanans and Sugrivans / your race**.
+
+Two fidelity corrections were made. `அவனிடத்தில் ஆசை வலை விரித்தேன்` is now **I cast a net of desire around him**, replacing T1 **I spread a net of desire for him** so the English preserves entrapment rather than implying the speaker's desire. `ஓமாந்தூராரை அதட்டிக் கேட்டேன்` is now **I demanded of Omaanthooraar**, replacing T1 **I barked at Omaanthooraar** so no unsupported animal metaphor is added. After correction there are no unresolved omissions, added claims, referent/logical defects, quotation-scope defects or page-provenance defects.
 
 ## Permanent non-regression
 
 - scan 10 remains `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
 - scan 21→22 `நாயன்மார்கள்` boundary remains corrected;
 - scan 36→37 remains `இந்த மதத்தைப் பழிக்குப்` / `பழி வாங்க வேண்டாமா?`;
-- scan 38→39 Article-5 source boundary remains `குலச்` / `சிறை`, represented in T1 English as `Kula— / chirai`;
+- scan 38→39 Article-5 source boundary remains `குலச்` / `சிறை`, represented in English as `Kula— / chirai`;
 - scan 41 heading remains `ஏற்பரோ!`;
 - scan 49 heading remains `வருணமா? மரணமா?`;
 - promotional/catalogue/front-matter exclusions remain outside the six English bodies;
@@ -101,4 +105,4 @@ T1 translates the complete frozen Article-5 assembly and preserves its first-per
 
 ## Exact next activity
 
-**Article 5 `ஆரியம் பேசுகிறது` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and T1 English blob `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`; compare the complete draft paragraph by paragraph for omitted meaning, added claims, names/referents, negatives, comparisons, causal relations, quotation scope and page provenance; preserve both source comments and `Kula— / chirai`; make T2 fidelity corrections only and **stop before Article 5 T3**.
+**Article 5 `ஆரியம் பேசுகிறது` — T3 Kalaignar voice review only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and T2 English blob `508639503ab830e83d8cac547476c83d26a8494f`; review directness, sarcasm, mockery, first-person personification, rhetorical questions, abrupt contrasts, vivid images and repeated force; preserve both T2 corrections, both source comments, `Kula— / chirai`, quotation scope and all source-bearing forms; make voice/style-only corrections and **stop before Article 5 T4**.
