@@ -35,7 +35,7 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
 - T1: **3 / 6 PASS**
-- T2: **2 / 6 PASS**
+- T2: **3 / 6 PASS**
 - T3: **2 / 6 PASS**
 - T4: **2 / 6 PASS**
 - T5: **2 / 6 PASS**
@@ -54,37 +54,28 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 5. `ஆரியம் பேசுகிறது` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `கவிதைகள்` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-## English Article 1 — T5 VERIFIED
+## English Articles 1–2 — T5 VERIFIED
 
-- title: **The Clarion Call of the Race**
-- English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
-- status: `verified`
-- source comments: **8 / 8 preserved**
+1. **The Clarion Call of the Race** — English blob `01d0d16c4f52cb134eba9fd35c06ad8376e256cb` — **8 / 8** source comments.
+2. **In the Heavenly Realm** — English blob `bcd98fb1abf03e3109da1c4802570b77fddfe015` — **11 / 11** source comments.
 
-Article 1 is individually frozen.
+Both are individually frozen and must not be reopened without a genuine source-supported defect.
 
-## English Article 2 — T5 VERIFIED
+## English Article 3 — T2 COMPLETE / FIDELITY-REVIEWED
 
-- title: **In the Heavenly Realm**
-- English blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`
-- status: `verified`
-- source comments: **11 / 11 preserved**
-
-Article 2 is individually frozen. Its verified source-witness distinctions, sacred-thread and August refrains, source citation, incomplete-source treatment and page traces are non-regression requirements.
-
-## English Article 3 — T1 COMPLETE / DRAFT
-
-- title: **Beat the Drum** — working T1 title
+- title: **Beat the Drum**
 - file: `translations/en/03-murasaraivai.md`
 - Tamil blob: `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`
 - T1 English blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`
-- status: `draft`
+- T2 English blob: `02d75107effa010ee61b1cc4d999fe4787c66f31`
+- status: `fidelity-reviewed`
 - source comments: **5 / 5 preserved in order**
 - scan-25→26: `ches— / t`
 - scan-28→29: `dwarf / fox`
+- T2 fidelity corrections: **3**
 - blockers: **0**
 
-T1 translates all frozen Article-3 paragraphs and preserves commands, rhetorical questions, contrasts, quotation structure and page trace. Working/source-bearing choices include **Beat the Drum**, **Kanakan / Visayan**, **Tamilian / Dravidian / Tamil race**, **Aryans / Aryanism**, **war drum / victory drum**, **Northerners**, **tumbler-dolls**, **paarakku**, **Kamarajars / Shanmugams / Jeevas**, **Aththaan**, **rice-pongal**, literal **long-shouldered hill-lifter**, and **dung Pillaiyar / sugar payasam**. Frozen `இசயங்காட்டி` was not silently normalised; T1 retains cautious **showing her *isayam*** for T2 audit.
+T2 corrected `துவண்டாயோ` to **grow weary**, corrected `கேட்டுப் பார்` to **Hear of...**, and restored the direct-address object in `கடல் கொள்ளாமல் ... ஆரியம் கொண்டது ஏன்?` from T1 **your valour / it** to **you / you**. T2 confirmed the working title, drum terminology, **Kanakan / Visayan**, **Tamilian / Dravidian / Tamil race**, **Aryans / Aryanism**, **Northerners**, **tumbler-dolls**, **paarakku**, **Kamarajars / Shanmugams / Jeevas**, **Aththaan**, **rice-pongal**, source-sensitive **showing her *isayam***, **dewy glance**, **became a blast**, literal **long-shouldered hill-lifter**, and **dung Pillaiyar / sugar payasam**.
 
 ## Permanent non-regression
 
@@ -96,7 +87,7 @@ T1 translates all frozen Article-3 paragraphs and preserves commands, rhetorical
 - promotional/catalogue/front-matter exclusions remain outside the six English bodies;
 - no supplied lexical token is silently normalised;
 - known frozen source-sensitive forms must not be replaced by scan alternatives;
-- Article 1 and Article 2 are individually T5-frozen;
+- Articles 1 and 2 are individually T5-frozen;
 - `கவிதைகள்` English must preserve source headings and lineation.
 
 ## Important records
@@ -110,4 +101,4 @@ T1 translates all frozen Article-3 paragraphs and preserves commands, rhetorical
 
 ## Exact next activity
 
-**Article 3 `முரசறைவாய்` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` and T1 English blob `372a0572b95d6e0d02737f1b534f583b1dddf134`; compare every paragraph/clause for fidelity and explicitly audit the T1 source-bearing/uncertain choices, all **5 / 5** comments and both page-boundary traces; make fidelity corrections only and **stop before Article 3 T3**.
+**Article 3 `முரசறைவாய்` — T3 Kalaignar voice review only.** Re-fetch frozen Tamil blob `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` and T2 English blob `02d75107effa010ee61b1cc4d999fe4787c66f31`; review directness, martial cadence, questions, commands, repetition, ridicule, Pongal wordplay, historical contrasts and closing polemical force; preserve all T2 meaning/source-bearing decisions, all **5 / 5** comments and both page traces; make voice/style corrections only and **stop before Article 3 T4**.
