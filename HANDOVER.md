@@ -24,7 +24,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `700272b1c0785c0989a7b0d7ab737bfdbc227f76` — `Record Ina Muzhakkam Article 4 T1 provenance`.
+- Last confirmed live HEAD immediately before this handover synchronization: `a2d75913ba341762165c476f5c4ecc2eb110c035` — `Record Ina Muzhakkam Article 4 T2 review findings`.
 
 ---
 
@@ -83,7 +83,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 5 — இன முழக்கம் — TAMIL FROZEN / ARTICLE 4 T1 PASS
+# Publication 5 — இன முழக்கம் — TAMIL FROZEN / ARTICLE 4 T2 PASS
 
 Workspace: `publications/ina-muzhakkam/`  
 Controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`
@@ -142,7 +142,7 @@ The supplied transcription is the lexical baseline for the frozen Tamil layer; s
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
 - T1: **4 / 6 PASS**
-- T2: **3 / 6 PASS**
+- T2: **4 / 6 PASS**
 - T3: **3 / 6 PASS**
 - T4: **3 / 6 PASS**
 - T5: **3 / 6 PASS**
@@ -157,25 +157,27 @@ The supplied transcription is the lexical baseline for the frozen Tamil layer; s
 
 Do not reopen these articles without a genuine source-supported defect.
 
-## Article 4 — `பழிக்குப் பழி` — T1 COMPLETE / DRAFT
+## Article 4 — `பழிக்குப் பழி` — T2 COMPLETE / FIDELITY-REVIEWED
 
 - Tamil blob: `e140df7f6234e8362b9139793706533fec0c62d8`
 - English file: `publications/ina-muzhakkam/translations/en/04-pazhikku-pazhi.md`
 - working English title: **Revenge for Revenge**
 - T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
-- `translation_status`: `draft`
+- T2 English blob: `da8969239016948ff2330ecfca6a0963762db95c`
+- `translation_status`: `fidelity-reviewed`
 - source comments: **8 / 8 preserved in order** for scans 30–37
 - scan-31→32 trace: `its / taproot`
 - scan-34→35 trace: `would have / taken him away`
 - scan-35→36 trace: `three / bullets`
 - scan-36→37 trace: `revenge for / revenge`
+- T2 fidelity corrections: **4**
 - Tamil source changes: **0**
 - blockers: **0**
 
-### Article 4 T1 working/source-bearing decisions
+### Article 4 source-bearing decisions through T2
 
 1. `பழிக்குப் பழி` → **Revenge for Revenge**.
-2. `வகுப்புவாதம்` → **communalism**; contextual `வகுப்பு` in the repeated causal contrast → **communal division**.
+2. `வகுப்புவாதம்` → **communalism**; contextual `வகுப்பு` → **communal division**.
 3. `திராவிடர் கழகம்` → **Dravidar Kazhagam**; collective/direct `திராவிடர்` → **Dravidians**.
 4. `காங்கிரஸ் காரியக் கமிட்டி` → **Congress Working Committee**.
 5. `காந்தியார் / காந்திஜீ / காந்தி` → source-distinct **Gandhiyar / Gandhiji / Gandhi**.
@@ -190,7 +192,14 @@ Do not reopen these articles without a genuine source-supported defect.
 14. source names **Nandan / Ramalingar / Vallalar / Thirugnanasambandar** retained without outside expansion.
 15. all **8 / 8** source comments and all four physical boundary traces remain explicit.
 
-T1 is a close draft only. No T2 fidelity review has been performed yet.
+### Article 4 T2 fidelity corrections
+
+1. Opening Congress quotation: **the eradication of communalism that could not achieve complete success** → **the eradication of communalism in which complete success could not be achieved**.
+2. `உயிர்நிலை` in all three occurrences: **lifeline** → **seat of life**, preserving the Mayil Ravanan analogy and sword image.
+3. `வகுப்பு ஒழிந்தால் வாதம் ஒழியும்—வகுப்பு வளர்ந்தால் வகுப்பு வாதம் வளரும்.`: **the doctrine disappears** → **communalism disappears**.
+4. `பாகிஸ்தான் பகிர்ந்தளிக்கப் பட்டதே சான்று!`: **Pakistan being divided off is proof** → **the partitioning off of Pakistan itself is proof**.
+
+T2 final findings: omitted clauses **0**; added claims after correction **0**; unresolved names/referents **0**; remaining negative/comparison/causal-logical defects **0**; quotation defects **0**; source-comment/page-trace defects **0**.
 
 ## Translation non-regression
 
@@ -210,17 +219,17 @@ T1 is a close draft only. No T2 fidelity review has been performed yet.
 
 # Exact next activity
 
-**Publication 5 — Article 4 `பழிக்குப் பழி` — T2 bilingual fidelity review only.**
+**Publication 5 — Article 4 `பழிக்குப் பழி` — T3 Kalaignar voice review only.**
 
 Required steps:
 
 1. fetch live `main` first;
 2. re-read translation plan, tracker, lexicon and review ledger;
 3. re-fetch frozen Tamil Article 4 and confirm blob `e140df7f6234e8362b9139793706533fec0c62d8`;
-4. re-fetch T1 English Article 4 and confirm blob `7040c4f488c9c2fdb5712cac826445969a5c230b`;
-5. compare every Tamil paragraph/clause against English for omitted material, added claims, names/referents, negatives, comparisons, causal/logical relations, commands/questions, repetition and polemical force;
-6. audit the title **Revenge for Revenge** and every Article-4 T1 working/source-bearing decision above, especially **communalism / communal division**, **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Samadharma**, **Jothi / Arut Sothi**, **Gotse**, **Varnashrama**, and the `சொர்க்கலோகம்` / **heavenly realm** reuse;
-7. verify quotation scope and all **8 / 8** ordered source comments;
-8. verify all four explicit page traces: `its / taproot`, `would have / taken him away`, `three / bullets`, `revenge for / revenge`;
-9. make **T2 fidelity corrections only**; if PASS set `translation_status: fidelity-reviewed`, record the T2 blob and exact corrections/findings across durable records;
-10. **STOP AFTER ARTICLE 4 T2. DO NOT PERFORM ARTICLE 4 T3 IN THE SAME ACTIVITY.**
+4. re-fetch T2 English Article 4 and confirm blob `da8969239016948ff2330ecfca6a0963762db95c`;
+5. review the complete English against Tamil for directness, accusation, rhetorical questions, repetition, religious/political polemic, vivid images and abrupt contrasts;
+6. preserve all four T2 fidelity corrections and all Article-4 source-bearing decisions unless a genuine meaning defect is found;
+7. verify all **8 / 8** source comments and all four page traces;
+8. make **T3 voice/style corrections only**;
+9. if PASS set `translation_status: voice-reviewed`, record the T3 blob and exact corrections/findings across durable records;
+10. **STOP AFTER ARTICLE 4 T3. DO NOT PERFORM ARTICLE 4 T4 IN THE SAME ACTIVITY.**
