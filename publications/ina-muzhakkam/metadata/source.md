@@ -62,7 +62,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - T2: **3 / 6 PASS**
 - T3: **3 / 6 PASS**
 - T4: **3 / 6 PASS**
-- T5: **2 / 6 PASS**
+- T5: **3 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
@@ -75,14 +75,15 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 5. `articles/05-aariyam-pesugirathu.md` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `articles/06-kavithaigal.md` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-## English Articles 1–2 provenance — T5 VERIFIED
+## English Articles 1–3 provenance — T5 VERIFIED
 
 1. **The Clarion Call of the Race** — T5 English `01d0d16c4f52cb134eba9fd35c06ad8376e256cb` — **8 / 8** comments.
 2. **In the Heavenly Realm** — T5 English `bcd98fb1abf03e3109da1c4802570b77fddfe015` — **11 / 11** comments.
+3. **Beat the Drum** — T5 English `c526195d7eb16b2dc446f8b3b15ae674c75548d5` — **5 / 5** comments.
 
-Articles 1 and 2 are individually frozen.
+Articles 1–3 are individually frozen.
 
-## English Article 3 provenance — T4 AUDITED
+## English Article 3 provenance — T5 VERIFIED
 
 - title: **Beat the Drum**
 - English file: `../translations/en/03-murasaraivai.md`
@@ -91,17 +92,19 @@ Articles 1 and 2 are individually frozen.
 - T2 English blob: `02d75107effa010ee61b1cc4d999fe4787c66f31`
 - T3 English blob: `a4c2e482e4ba5a6a513cbed1b00879ba7fac90c2`
 - T4 English blob: `969dc675dc1610d4a3d8e1fb2009d459dc6c41ef`
-- status: `voice-reviewed`
+- T5 English blob: `c526195d7eb16b2dc446f8b3b15ae674c75548d5`
+- status: `verified`
 - source comments: **5 / 5 preserved in order**
 - scan-25→26 trace: `ches— / t`
 - scan-28→29 trace: `dwarf / fox`
 - T2 fidelity corrections: **3 / 3 preserved**
 - T3 voice/style corrections: **6 / 6 preserved**
 - T4 body corrections: **0**
+- T5 body corrections: **0**
 - Tamil source changes: **0**
 - blockers: **0**
 
-T4 audited all Article-3 terminology/source-bearing forms, quotation scope, source/citation treatment, rhetorical dashes and page provenance against frozen Tamil. No body correction was required. `A Festival Day in Life` and `paarakku` retain exact source quotation scope; `இசயங்காட்டி` remains cautious **showing her *isayam*** without silent normalisation; `வேட்டாயிற்றே` remains **became a blast against a foreign king's fort** without outside expansion. All five comments and both physical page traces remain intact.
+T5 reread the complete T4 English against frozen Tamil and all earlier gate decisions. No final body correction was required. `A Festival Day in Life` and `paarakku` retain exact source quotation scope; `இசயங்காட்டி` remains cautious **showing her *isayam*** without silent normalisation; `வேட்டாயிற்றே` remains **became a blast against a foreign king's fort** without outside expansion. All five comments and both physical page traces remain intact. Article 3 is individually frozen.
 
 ## English translation exclusions / constraints
 
@@ -110,6 +113,6 @@ T4 audited all Article-3 terminology/source-bearing forms, quotation scope, sour
 - scan 50 catalogue remains outside all six English bodies;
 - known P5 lexical-witness differences are not licences to translate from scan alternatives;
 - source-page comments are required for bilingual traceability;
-- Articles 1 and 2 verified decisions must not be reopened without genuine source support.
+- Articles 1–3 verified decisions must not be reopened without genuine source support.
 
-Exact next activity: **Article 3 `முரசறைவாய்` — T5 final article verification only; stop before Article 4 T1.**
+Exact next activity: **Article 4 `பழிக்குப் பழி` — T1 close English draft only; stop before Article 4 T2.**
