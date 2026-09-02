@@ -32,44 +32,47 @@ The PDF is already in physical reading order. Printed numerals are recorded only
 | 23 | 22 | `சொர்க்க லோகத்தில்` | **verified** | closing dialogue / dream awakening |
 | 24 | 23 | `சொர்க்க லோகத்தில்` close + promotion | **verified** | article closes; separate `திராவிட சம்பத்து` promotion follows ornament |
 | 25 | — | `முரசறைவாய்` opening | **verified** | heading scan; contents witness says start page 24, but no printed numeral is directly visible |
-| 26 | 25 | `முரசறைவாய்` | pending | continuation |
-| 27 | 26 | `முரசறைவாய்` | pending | harvest dialogue / direct address |
-| 28 | 27 | `முரசறைவாய்` | pending | rhetorical continuation |
-| 29 | 28 | `முரசறைவாய்` close | pending | ends `போர் முரசறைவாய்`; ornament separator |
-| 30 | 29 | `பழிக்குப் பழி` opening | pending | article heading |
-| 31 | 30 | `பழிக்குப் பழி` | pending | continuation |
-| 32 | 31 | `பழிக்குப் பழி` | pending | continuation |
-| 33 | 32 | `பழிக்குப் பழி` | pending | continuation |
-| 34 | 33 | `பழிக்குப் பழி` | pending | continuation |
-| 35 | 34 | `பழிக்குப் பழி` | pending | continuation |
-| 36 | 35 | `பழிக்குப் பழி` | pending | continuation; article does **not** close here |
-| 37 | 36 | `பழிக்குப் பழி` close + promotion | pending | final lines belong here; then two-novel advertisement |
-| 38 | 37 | `ஆரியம் பேசுகிறது` opening | pending | article heading |
-| 39 | 38 | `ஆரியம் பேசுகிறது` close | pending | article closes; ornament separator |
-| 40 | — | poetry front matter | pending | `கவிதைகளைப் பற்றி`; `மதிப்புரை`; author/reviewer credits |
-| 41 | 40 | `கவிதைகள்` | pending | `நியாயத் திராசு!`; `ஏற்றமே!` begins |
-| 42 | 41 | `கவிதைகள்` | pending | `ஏற்றமே!` closes; `சைவரே!` |
-| 43 | 42 | `கவிதைகள்` | pending | `வா!`; `பொதுவுடைமையே!` |
-| 44 | 43 | `கவிதைகள்` | pending | `யோசித்துப் பார்!`; `மாணவர் எழுச்சி.` |
-| 45 | 44 | `கவிதைகள்` | pending | `வாளிங்கே!` begins |
-| 46 | 45 | `கவிதைகள்` | pending | `வாளிங்கே!` continues |
-| 47 | 46 | `கவிதைகள்` | pending | `வாளிங்கே!` continues |
-| 48 | 47 | `கவிதைகள்` | pending | `வாளிங்கே!` closes; `தோல்வி எப்பொழுது?` |
-| 49 | 48 | `கவிதைகள்` | pending | `இன்னுமா கூச்சல்?`; `வருணமா? மானமா?` |
-| 50 | — | catalogue / advertisement | pending | book list, authors/prices, Pari Nilayam / K. G. Press |
+| 26 | 25 | `முரசறைவாய்` | **verified** | continuation from `மணவாளன் மார்பினி` |
+| 27 | 26 | `முரசறைவாய்` | **verified** | harvest dialogue / direct address |
+| 28 | 27 | `முரசறைவாய்` | **verified** | rhetorical continuation; closes with `குள்ள` fragment |
+| 29 | 28 | `முரசறைவாய்` close | **verified** | `நரிக்` continues fragment; ends `போர் முரசறைவாய்`; ornament separator |
+| 30 | — | `பழிக்குப் பழி` opening | **verified** | heading scan; contents witness says start page 29, but no printed numeral is directly visible |
+| 31 | 30 | `பழிக்குப் பழி` | **verified** | continuation; final `அதன்` continues |
+| 32 | 31 | `பழிக்குப் பழி` | **verified** | continuation |
+| 33 | 32 | `பழிக்குப் பழி` | **verified** | Congress Working Committee quotation block |
+| 34 | 33 | `பழிக்குப் பழி` | **verified** | continuation |
+| 35 | 34 | `பழிக்குப் பழி` | **verified** | continuation; final `மூன்று` continues |
+| 36 | 35 | `பழிக்குப் பழி` | **verified** | continuation; article does **not** close here |
+| 37 | 36 | `பழிக்குப் பழி` close + promotion | **verified** | final lines belong here; then two-novel advertisement |
+| 38 | — | `ஆரியம் பேசுகிறது` opening | **verified** | heading scan; contents witness says start page 37, but no printed numeral is directly visible |
+| 39 | 38 | `ஆரியம் பேசுகிறது` close | **verified** | `குலச்` → `சிறை`; article closes; ornament separator |
+| 40 | — | poetry front matter | **verified** | `கவிதைகளைப் பற்றி`; `மதிப்புரை`; author/reviewer credits |
+| 41 | 40 | `கவிதைகள்` | **verified** | `நியாயத் திராசு!`; `ஏற்றமே!` begins |
+| 42 | 41 | `கவிதைகள்` | **verified** | `ஏற்றமே!` closes; `சைவரே!` |
+| 43 | 42 | `கவிதைகள்` | **verified** | `வா!`; `பொதுவுடைமையே!` |
+| 44 | 43 | `கவிதைகள்` | **verified** | `யோசித்துப் பார்!`; `மாணவர் எழுச்சி.` |
+| 45 | 44 | `கவிதைகள்` | **verified** | `வாளிங்கே!` begins |
+| 46 | 45 | `கவிதைகள்` | **verified** | `வாளிங்கே!` continues |
+| 47 | 46 | `கவிதைகள்` | **verified** | `வாளிங்கே!` continues; final `மகன்` continues |
+| 48 | 47 | `கவிதைகள்` | **verified** | `வாளிங்கே!` closes; `தோல்வி எப்பொழுது?` |
+| 49 | 48 | `கவிதைகள்` | **verified** | `இன்னுமா கூச்சல்?`; `வருணமா? மானமா?` |
+| 50 | — | catalogue / advertisement | **verified** | title/author/price columns structurally reassembled; lexical gaps/differences deferred to P5 |
 
 ## P2 progress
 
 - scans **1–25: 25 / 25 verified**
-- scans **26–50: pending**
-- canonical page records currently present: **25 / 50**
+- scans **26–50: 25 / 25 verified**
+- canonical page records currently present: **50 / 50**
+- **P2 COMPLETE**
 
 ## Structural boundary findings
 
 - scan 10 user correction is controlling: `விசயர்` is not noise and belongs in `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`.
-- `பழிக்குப் பழி` final lines visible on scan 37 were misplaced into the supplied scan-36 transcription; they must be moved to scan 37.
+- heading scans 6, 14, 25, 30 and 38 do not receive inferred printed numerals.
+- `பழிக்குப் பழி` final lines visible on scan 37 were misplaced into the supplied scan-36 transcription; they are canonically placed on scan 37.
 - poem heading `வா!` belongs to scan 43, not the end of scan 42.
 - poem heading `யோசித்துப் பார்!` belongs to scan 44, not the end of scan 43.
 - scan 24 promotional matter after the separator is not part of `சொர்க்க லோகத்தில்`.
 - scan 37 promotional matter after the separator is not part of `பழிக்குப் பழி`.
 - scan 40 is poetry introductory/review matter; the contents witness `கவிதைகள் 40` corresponds to the poem section beginning on scan 41 / printed 40, so scan 40 is preserved separately rather than forced into the poem body.
+- scan 50 is catalogue matter outside all article/poetry bodies; structural author/title association is recorded without silently repairing lexical/number differences in the supplied baseline.
