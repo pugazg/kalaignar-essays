@@ -98,3 +98,22 @@ Excluded by design from P3 body assemblies:
 - scan 40 is poetry introductory/review matter; the contents witness `கவிதைகள் 40` corresponds to the poem section beginning on scan 41 / printed 40, so scan 40 remains outside the poem assembly.
 - scan 50 is catalogue matter outside all article/poetry bodies; structural author/title association is recorded without silently repairing lexical/number differences in the supplied baseline.
 - P3 preserves P2 page-boundary comments and introduces no lexical normalisation.
+
+## P4 source / completeness audit — PASS
+
+P4 audit record: [`../SOURCE_COMPLETENESS_AUDIT.md`](../SOURCE_COMPLETENESS_AUDIT.md).
+
+P4 confirms:
+
+- every physical scan from **1 through 50** has exactly one canonical P2 record;
+- all six P3 assemblies match the scan ranges above and exist exactly once;
+- page-to-page continuation order and source-page provenance comments are preserved;
+- scan-10 `விசயர்`, scan-24/37 exclusions, scan-40 exclusion, scan-50 exclusion and poetry heading placements all remain intact;
+- contents-page start-number witnesses remain separate from directly visible body numerals;
+- physical-copy marks imported into body text: **0**;
+- silent lexical normalisations introduced during P2/P3: **0**;
+- P4 `needs-review`: **0**;
+- P4 blocked items: **0**;
+- completeness blockers: **0**.
+
+Deferred source/baseline lexical or number differences are explicitly reserved for P5 classification, especially the cover-author witness and scan-50 catalogue differences.
