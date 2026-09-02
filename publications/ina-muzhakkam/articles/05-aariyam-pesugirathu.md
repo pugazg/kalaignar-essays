@@ -4,10 +4,10 @@ article_number: 5
 title_ta: "ஆரியம் பேசுகிறது"
 scan_pages: "38-39"
 printed_pages: "contents witness start 37; scan 38 numeral not visible; scan 39 visibly 38"
-status: "verified"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-assembly_method: "concatenated from verified canonical P2 page records; user lexical baseline retained; page-boundary provenance preserved; scan 39 P5 fidelity corrections propagated"
+assembly_method: "concatenated from verified canonical page records; P5 fidelity corrections through scans 38-39 propagated; user lexical baseline retained; page-boundary provenance preserved"
 ---
 
 # ஆரியம் பேசுகிறது.
