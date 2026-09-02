@@ -12,7 +12,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisites: **6 / 6 PASS**
 - T1 close drafts: **2 / 6 PASS**
-- T2 fidelity-reviewed: **1 / 6 PASS**
+- T2 fidelity-reviewed: **2 / 6 PASS**
 - T3 voice-reviewed: **1 / 6 PASS**
 - T4 audited: **1 / 6 PASS**
 - T5 verified: **1 / 6 PASS**
@@ -25,18 +25,15 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | # | Tamil title | Frozen Tamil blob | English title | Status |
 |---:|---|---|---|---|
 | 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **The Clarion Call of the Race** | **T5 PASS / verified** |
-| 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **In the Heavenly Realm** | **T1 PASS / draft / T2 NEXT** |
+| 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **In the Heavenly Realm** | **T2 PASS / fidelity-reviewed / T3 NEXT** |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | TBD | **T0 PASS** |
 | 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | TBD | **T0 PASS** |
 | 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | TBD | **T0 PASS** |
 | 6 | `கவிதைகள்` | `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` | TBD | **T0 PASS** |
 
-Article 1 T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`.  
-Article 1 T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`.  
-Article 1 T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`.  
-Article 1 T4 English blob: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`.  
 Article 1 T5 verified English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.  
-Article 2 T1 English blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`.
+Article 2 T1 English blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`.  
+Article 2 T2 English blob: `b9ed854519806bbe65dc5b006183fb4675cb2c3a`.
 
 ## Translation authority
 
@@ -63,34 +60,30 @@ For every English article:
 - title: **The Clarion Call of the Race** — **T5 verified / article-frozen**
 - translation status: `verified`
 - Tamil source blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
-- T4 English blob: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`
 - T5 verified English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
 - source-page comments: **8 / 8 preserved in order**
-- T2 fidelity corrections preserved: **5 / 5**
-- T3 voice/style body corrections preserved: **10 / 10**
-- T4 body corrections preserved: **0 required**
-- T5 body corrections: **0**
-- Tamil source changes: **0**
 - blockers: **0**
 
-Article 1 is individually verified and frozen at the article level. It must not be reopened without a genuine source-supported defect. Publication-wide consistency remains subject to E6 after all six articles reach T5.
+Article 1 remains individually frozen. Do not reopen without a genuine source-supported defect.
 
-## Article 2 T1 boundary
+## Article 2 T2 boundary
 
 - English file: `02-sorgga-logaththil.md`
 - working English title: **In the Heavenly Realm**
-- translation status: `draft`
+- translation status: `fidelity-reviewed`
 - Tamil source blob: `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
 - T1 English blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`
+- T2 English blob: `b9ed854519806bbe65dc5b006183fb4675cb2c3a`
 - source-page comments: **11 / 11 preserved in order** for scans 14–24
+- T2 fidelity body corrections: **3**
 - scan-14→15 `ஈடுபட்டிருந்` / `தார்கள்` trace: **`engag—` / `ed`**
 - scan-19→20 `பெருமை` / `யடித்துக்` trace: **`boast—` / `ing`**
 - blockers: **0**
 
-T1 establishes only a close draft. It preserves the article's satirical heavenly tableau, graphic Nayanmar sacrifice speeches, the sacred-thread refrain, direct political comparison, loaded `Dravidian / Aryan` contrast, dream frame, source quotation structure and page trace. No T2 bilingual fidelity review has yet been performed.
+T2 compared the full frozen Tamil and T1 English clause by clause. It made three fidelity corrections only: `சுழல் வண்டுகளென` **whirling beetles → whirling bees**; the Kotpuli killing sentence was restructured so the mother/father/wife and child reasons are grammatically unambiguous while preserving the scan-18→19 boundary; and the mother's `தம்பி` address was corrected from literal **little brother** to contextual **son**. No outside identification, source normalisation or voice-polishing was introduced.
 
-Article-2 source-bearing choices established at T1 include **heavenly realm** for `சொர்க்க லோகம்`, **‘Immigrant’** for the shoulder badge `குடியேறியவர்`, **sacred thread** for `பூணூல்`, **Ayyar** for `அய்யர்`, **August martyrs / August struggle** without outside event identification, source-distinct **Aachariyar / Aachaariyar** for frozen `ஆச்சரியார் / ஆச்சாரியார்`, **Dravidians / an Aryan** for `திராவிடர் / ஆரியர்`, source-distinct **Kamarajar / Gramaaniyar** at the closing rather than harmonising Article 1's `Kamaraj Nadar / Gramaniyar`, and the verified Article-1 title **The Clarion Call of the Race** for the quoted closing `இனமுழக்கம்`.
+T2 confirmed the working title and the Article-2 source-bearing choices: **‘Immigrant’**, **sacred thread**, **Ayyar**, **August martyrs / August struggle**, source-distinct **Aachariyar / Aachaariyar**, **Dravidians / an Aryan**, closing **Kamarajar / Gramaaniyar**, ***Thiruvilaiyadal Puranam*** / **Mahapathagam Theertha Padalam**, and the cautious incomplete treatment **“Making one's mother into a great wife—is it not...?”**. All **11 / 11** source comments remain ordered scans 14–24.
 
 ## Exact next activity
 
-**Article 2 `சொர்க்க லோகத்தில்` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c` and T1 English blob `b02cc0e167e1f69aa324d5b761878f6be7134b5f`; compare every paragraph and clause, names/referents, negatives, comparisons, quotation scope, source-sensitive labels, page-boundary comments and the source-irregular `மாதாவை மகா மனைவியாக்குவது மல்லவா` clause; make fidelity corrections only, record the T2 blob/findings, then stop before Article 2 T3.
+**Article 2 `சொர்க்க லோகத்தில்` — T3 Kalaignar voice review only.** Re-fetch frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c` and T2 English blob `b9ed854519806bbe65dc5b006183fb4675cb2c3a`; review directness, satire, sexual mockery, graphic devotional claims, commands/questions, repetition, political ridicule and closing force without changing fidelity decisions; record any voice-only corrections and stop before T4.
