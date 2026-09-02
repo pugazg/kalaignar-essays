@@ -34,7 +34,7 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - P5 assembly recheck: **6 / 6 PASS**
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **3 / 6 PASS**
+- T1: **4 / 6 PASS**
 - T2: **3 / 6 PASS**
 - T3: **3 / 6 PASS**
 - T4: **3 / 6 PASS**
@@ -62,27 +62,21 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 
 All three are individually frozen and must not be reopened without a genuine source-supported defect.
 
-## English Article 3 — T5 COMPLETE / VERIFIED
+## English Article 4 — T1 COMPLETE / DRAFT
 
-- title: **Beat the Drum**
-- file: `translations/en/03-murasaraivai.md`
-- Tamil blob: `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`
-- T1 English blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`
-- T2 English blob: `02d75107effa010ee61b1cc4d999fe4787c66f31`
-- T3 English blob: `a4c2e482e4ba5a6a513cbed1b00879ba7fac90c2`
-- T4 English blob: `969dc675dc1610d4a3d8e1fb2009d459dc6c41ef`
-- T5 English blob: `c526195d7eb16b2dc446f8b3b15ae674c75548d5`
-- status: `verified`
-- source comments: **5 / 5 preserved in order**
-- scan-25→26: `ches— / t`
-- scan-28→29: `dwarf / fox`
-- T2 fidelity corrections: **3 / 3 preserved**
-- T3 voice/style corrections: **6 / 6 preserved**
-- T4 body corrections: **0**
-- T5 body corrections: **0**
+- title: **Revenge for Revenge**
+- file: `translations/en/04-pazhikku-pazhi.md`
+- Tamil blob: `e140df7f6234e8362b9139793706533fec0c62d8`
+- T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
+- status: `draft`
+- source comments: **8 / 8 preserved in order**
+- scan-31→32: `its / taproot`
+- scan-34→35: `would have / taken him away`
+- scan-35→36: `three / bullets`
+- scan-36→37: `revenge for / revenge`
 - blockers: **0**
 
-T5 reread the complete T4 English against frozen Tamil and all earlier gate decisions. No final body correction was required. It preserves **Beat the Drum**, **war drum / victory drum**, **Kanakan / Visayan**, **Tamilian / Dravidian / Tamil race**, **Aryans / Aryanism**, **Northerners**, **tumbler-dolls**, **paarakku**, **Kamarajars / Shanmugams / Jeevas**, **Aththaan**, **rice-pongal**, source-sensitive **showing her *isayam***, **dewy glance**, **became a blast**, literal **long-shouldered hill-lifter**, **dung Pillaiyar / sugar payasam**, exact quotation scope, all five comments and both page traces. Article 3 is individually frozen.
+T1 establishes the working title **Revenge for Revenge** and working/source-bearing treatments including **communalism / communal division**, **Dravidar Kazhagam**, **Congress Working Committee**, **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, **Gotse**, **Varnashrama**, **ahimsa / satya**, **Pushpa Vimanam**, **heavenly realm**, **Paraiyan / Pallan / Brahmin**, and the source names **Nandan / Ramalingar / Vallalar / Thirugnanasambandar**. T1 uses frozen Tamil only; T2 has not been performed.
 
 ## Permanent non-regression
 
@@ -108,4 +102,4 @@ T5 reread the complete T4 English against frozen Tamil and all earlier gate deci
 
 ## Exact next activity
 
-**Article 4 `பழிக்குப் பழி` — T1 close English draft only.** Re-fetch frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8`; establish the English title and only terminology/source-bearing choices actually encountered; translate the complete frozen article paragraph by paragraph preserving voice, quotation structure and ordered source-page comments; create/update `translations/en/04-pazhikku-pazhi.md` with `translation_status: draft`; record the T1 blob and decisions; then **stop before Article 4 T2**.
+**Article 4 `பழிக்குப் பழி` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8` and T1 English blob `7040c4f488c9c2fdb5712cac826445969a5c230b`; compare every paragraph/clause for completeness, meaning, source-bearing forms, logical relations, quotation scope and direct rhetorical action; verify all **8 / 8** source comments and all four page traces; make fidelity corrections only and **stop before Article 4 T3**.
