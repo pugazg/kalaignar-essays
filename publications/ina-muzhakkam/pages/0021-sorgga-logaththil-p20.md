@@ -8,7 +8,7 @@ page_type: "article-continuation"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-transcription_method: "user lexical baseline retained; structure/punctuation/page placement directly verified against source scan"
+transcription_method: "user lexical baseline retained; P5 word/punctuation fidelity and page boundary directly verified against source scan"
 ---
 
 # அச்சு உரை
@@ -21,8 +21,6 @@ transcription_method: "user lexical baseline retained; structure/punctuation/pag
 
 உனக்கா சொர்க்கவாசல் திறந்தது என்று கேட்கிறீர்களா? ஆமாம்; எனக்குத்தான் சொர்க்கம் சுலபத்தில் வழிவிட்டது. ‘அரகர மகாதேவா’ என்றேன்; அம்மையை அணைத்தபடி அப்பன், ரிடபவாகன ரூடராய் அருள்மழை பொழிந்தார். ஆனந்தமாக சொர்க்க பூமிக்கு வந்துவிட்டேன்.”
 
-நாயன்மார்கள்
-
 ## அச்சு அல்லாத / physical-copy marks
 
 - Aged paper and light show-through are visible.
@@ -30,6 +28,6 @@ transcription_method: "user lexical baseline retained; structure/punctuation/pag
 ## Audit note
 
 - Printed page numeral `20` is directly visible.
-- The page begins with the Kodpuli interruption; final `நாயன்மார்கள்` continues grammatically onto scan 22.
+- P5 correction: the source page ends after `ஆனந்தமாக சொர்க்க பூமிக்கு வந்துவிட்டேன்.”`; `நாயன்மார்கள்` begins on scan 22 and is not retained here.
 
 <!-- மூல ஸ்கேன் பக்கம்: 21; அச்சுப் பக்கம்: 20 -->
