@@ -24,7 +24,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `6d26cb630c1e6d59bfdb7c917c31646ef030a99e` — `Record Ina Muzhakkam Article 3 T5 provenance in source metadata`.
+- Last confirmed live HEAD immediately before this handover synchronization: `700272b1c0785c0989a7b0d7ab737bfdbc227f76` — `Record Ina Muzhakkam Article 4 T1 provenance`.
 
 ---
 
@@ -83,7 +83,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 5 — இன முழக்கம் — TAMIL FROZEN / ARTICLE 3 T5 VERIFIED
+# Publication 5 — இன முழக்கம் — TAMIL FROZEN / ARTICLE 4 T1 PASS
 
 Workspace: `publications/ina-muzhakkam/`  
 Controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`
@@ -141,7 +141,7 @@ The supplied transcription is the lexical baseline for the frozen Tamil layer; s
 
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **3 / 6 PASS**
+- T1: **4 / 6 PASS**
 - T2: **3 / 6 PASS**
 - T3: **3 / 6 PASS**
 - T4: **3 / 6 PASS**
@@ -157,67 +157,40 @@ The supplied transcription is the lexical baseline for the frozen Tamil layer; s
 
 Do not reopen these articles without a genuine source-supported defect.
 
-## Article 3 — `முரசறைவாய்` — T5 COMPLETE / VERIFIED
+## Article 4 — `பழிக்குப் பழி` — T1 COMPLETE / DRAFT
 
-- Tamil blob: `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`
-- English file: `publications/ina-muzhakkam/translations/en/03-murasaraivai.md`
-- verified English title: **Beat the Drum**
-- T1 English blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`
-- T2 English blob: `02d75107effa010ee61b1cc4d999fe4787c66f31`
-- T3 English blob: `a4c2e482e4ba5a6a513cbed1b00879ba7fac90c2`
-- T4 English blob: `969dc675dc1610d4a3d8e1fb2009d459dc6c41ef`
-- T5 verified English blob: `c526195d7eb16b2dc446f8b3b15ae674c75548d5`
-- `translation_status`: `verified`
-- source comments: **5 / 5 preserved in order** for scans 25–29
-- scan-25→26 trace: `ches— / t`
-- scan-28→29 trace: `dwarf / fox`
-- T2 fidelity corrections: **3 / 3 preserved**
-- T3 voice/style corrections: **6 / 6 preserved**
-- T4 terminology/quotation/citation/source body corrections: **0**
-- T5 body corrections: **0**
+- Tamil blob: `e140df7f6234e8362b9139793706533fec0c62d8`
+- English file: `publications/ina-muzhakkam/translations/en/04-pazhikku-pazhi.md`
+- working English title: **Revenge for Revenge**
+- T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
+- `translation_status`: `draft`
+- source comments: **8 / 8 preserved in order** for scans 30–37
+- scan-31→32 trace: `its / taproot`
+- scan-34→35 trace: `would have / taken him away`
+- scan-35→36 trace: `three / bullets`
+- scan-36→37 trace: `revenge for / revenge`
 - Tamil source changes: **0**
 - blockers: **0**
 
-### Article 3 source-bearing decisions through T5
+### Article 4 T1 working/source-bearing decisions
 
-1. `முரசறைவாய்` → **Beat the Drum**; `போர்முரசு / போர் முரசு` → **war drum**; `வெற்றி முரசு` → **victory drum**.
-2. **Tamilian / Dravidian / Tamil race** remain stable where the same frozen forms/functions recur.
-3. `கனகன் / விசயன்` → **Kanakan / Visayan**, source-distinct from Article-1 `Kanaka Visayar`.
-4. `ஆரியர் / ஆரியம்` → **Aryans / an Aryan / Aryanism** contextually.
-5. `வடவர்` → **Northerners**.
-6. `உருட்டுச்சட்டிப் பொம்மைகள்` → **tumbler-dolls**.
-7. quoted `பாராக்கு` → source-bearing **paarakku**, without outside identification.
-8. `காமராஜர்கள் / சண்முகங்கள் / ஜீவாக்கள்` → **Kamarajars / Shanmugams / Jeevas**.
-9. `அத்தான்` → **Aththaan**; `சோற்றுப் பொங்கல்` → **rice-pongal**.
-10. frozen `இசயங்காட்டி` remains deliberately unnormalised as cautious **showing her *isayam***.
-11. quoted `வாழ்விலோர் திருநாள்` → **A Festival Day in Life**; `பனிப்பார்வை` → **dewy glance**.
-12. `வேட்டாயிற்றே` → **became a blast against a foreign king's fort**.
-13. `குன்றெடுக்கும் நெடுந் தோளான்` → literal **long-shouldered hill-lifter**, with no outside mythic identification.
-14. `சாணிப் பிள்ளையார் / சீனிப்பாயசம்` → **dung Pillaiyar / sugar payasam**.
-15. all **5 / 5** source comments and both physical page-boundary traces remain explicit.
+1. `பழிக்குப் பழி` → **Revenge for Revenge**.
+2. `வகுப்புவாதம்` → **communalism**; contextual `வகுப்பு` in the repeated causal contrast → **communal division**.
+3. `திராவிடர் கழகம்` → **Dravidar Kazhagam**; collective/direct `திராவிடர்` → **Dravidians**.
+4. `காங்கிரஸ் காரியக் கமிட்டி` → **Congress Working Committee**.
+5. `காந்தியார் / காந்திஜீ / காந்தி` → source-distinct **Gandhiyar / Gandhiji / Gandhi**.
+6. `பார்ப்பனீயம் / பார்ப்பனியம்` → **Brahminism**, while preserving/documenting the frozen Tamil spelling distinction; `பிராமண சேவா சங்கங்கள்` → **Brahmin Seva Associations**.
+7. `சமதர்மம்` → **Samadharma**.
+8. `மயில் ராவணன்` → **Mayil Ravanan**, without outside identification.
+9. `ஜோதி / அருட் சோதி` → **Jothi / Arut Sothi**, preserving Article-4 forms rather than importing Article-1 `Arutperum Jothi`.
+10. `கோட்சே` → source-bearing **Gotse**, without outside normalization or identification.
+11. `வர்ணாஸ்ரமம்` → **Varnashrama**; `அகிம்ஸை / சத்திய` → **ahimsa / satya**.
+12. Article-4 `சொர்க்கலோகம்` → **heavenly realm**; `புஷ்ப விமானம்` → **Pushpa Vimanam**.
+13. `பறையன் / பள்ளன் / பார்ப்பனன்` → **Paraiyan / Pallan / Brahmin**.
+14. source names **Nandan / Ramalingar / Vallalar / Thirugnanasambandar** retained without outside expansion.
+15. all **8 / 8** source comments and all four physical boundary traces remain explicit.
 
-### Article 3 T2 fidelity corrections — preserved through T5
-
-1. `துவண்டாயோ` → **Did you grow weary searching for me?**.
-2. `கேட்டுப் பார்` → **Hear of your glories...**.
-3. `கடல் கொள்ளாமல் ... வீரத்தை விலை கேட்கும் ஆரியம் கொண்டது ஏன்?` retains direct-address **you / you**; `வீரத்தை` remains inside **which asks a price for valour**.
-
-### Article 3 T3 voice corrections — preserved through T5
-
-1. repeated opening **resound / resounds** cadence;
-2. reflowed beloved sentence while retaining **showing her *isayam*** and **the bull who comes**;
-3. **turns away, his face hanging in defeat**;
-4. **surged over their banks in Dravidian land**;
-5. **nothing more than this rice-pongal**;
-6. **Think, too, of the horror of this day!**.
-
-### Article 3 T4 audit findings — preserved at T5
-
-T4 found terminology defects **0**; source-witness defects **0**; quotation/citation defects **0**; source-comment/page-trace defects **0**; body corrections **0**.
-
-### Article 3 T5 final verification
-
-T5 reread the complete T4 English against frozen Tamil and all T1–T4 decisions. Completeness, meaning, directness, martial/polemical voice, terminology, source-witness distinctions, quotation/source treatment and page provenance all pass. All three T2 fidelity corrections, all six T3 voice corrections, the T4 zero-defect findings, all five comments, `ches— / t` and `dwarf / fox` remain intact. **No final body correction was required.** Article 3 is individually frozen.
+T1 is a close draft only. No T2 fidelity review has been performed yet.
 
 ## Translation non-regression
 
@@ -237,17 +210,17 @@ T5 reread the complete T4 English against frozen Tamil and all T1–T4 decisions
 
 # Exact next activity
 
-**Publication 5 — Article 4 `பழிக்குப் பழி` — T1 close English draft only.**
+**Publication 5 — Article 4 `பழிக்குப் பழி` — T2 bilingual fidelity review only.**
 
 Required steps:
 
 1. fetch live `main` first;
 2. re-read translation plan, tracker, lexicon and review ledger;
 3. re-fetch frozen Tamil Article 4 and confirm blob `e140df7f6234e8362b9139793706533fec0c62d8`;
-4. establish the English title from frozen Tamil only;
-5. establish only terminology/source-bearing choices actually encountered, preserving Articles 1–3 verified decisions where the same form/function genuinely recurs but not mechanically harmonising distinct forms;
-6. translate the complete frozen Article 4 paragraph by paragraph preserving direct address, commands, rhetorical questions, repetition, polemical force, quotation structure and every ordered source-page comment;
-7. do not use OCR, raw supplied transcription, scan-alternate lexical readings, web text, later editions or outside identification as translation authority;
-8. create/update `publications/ina-muzhakkam/translations/en/04-pazhikku-pazhi.md` with `translation_status: draft`;
-9. record the T1 English blob, title and exact lexicon/source-bearing decisions across durable records;
-10. **STOP AFTER ARTICLE 4 T1. DO NOT PERFORM ARTICLE 4 T2 IN THE SAME ACTIVITY.**
+4. re-fetch T1 English Article 4 and confirm blob `7040c4f488c9c2fdb5712cac826445969a5c230b`;
+5. compare every Tamil paragraph/clause against English for omitted material, added claims, names/referents, negatives, comparisons, causal/logical relations, commands/questions, repetition and polemical force;
+6. audit the title **Revenge for Revenge** and every Article-4 T1 working/source-bearing decision above, especially **communalism / communal division**, **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Samadharma**, **Jothi / Arut Sothi**, **Gotse**, **Varnashrama**, and the `சொர்க்கலோகம்` / **heavenly realm** reuse;
+7. verify quotation scope and all **8 / 8** ordered source comments;
+8. verify all four explicit page traces: `its / taproot`, `would have / taken him away`, `three / bullets`, `revenge for / revenge`;
+9. make **T2 fidelity corrections only**; if PASS set `translation_status: fidelity-reviewed`, record the T2 blob and exact corrections/findings across durable records;
+10. **STOP AFTER ARTICLE 4 T2. DO NOT PERFORM ARTICLE 4 T3 IN THE SAME ACTIVITY.**
