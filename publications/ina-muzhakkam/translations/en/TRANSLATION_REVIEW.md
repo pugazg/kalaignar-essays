@@ -10,7 +10,7 @@ Live Tamil prerequisites were re-fetched and all six strict-reviewed authority b
 
 | # | Tamil title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|
-| 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **PASS** | **PASS** | NEXT | — | — | — |
+| 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **PASS** | **PASS** | **PASS** | NEXT | — | — |
 | 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **PASS** | — | — | — | — | — |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | **PASS** | — | — | — | — | — |
 | 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | **PASS** | — | — | — | — | — |
@@ -58,14 +58,19 @@ At T1–T5, English must follow the frozen Tamil context. Any material consequen
 - T0: **PASS**
 - T1: **PASS / COMPLETE**
 - T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
-- T2: **NOT STARTED — NEXT**
-- T3: NOT STARTED
+- T2: **PASS / COMPLETE**
+- T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`
+- T3: **NOT STARTED — NEXT**
 - T4: NOT STARTED
 - T5: NOT STARTED
-- translation status: `draft`
+- translation status: `fidelity-reviewed`
 - source-page comments: **8 / 8 preserved in order** for scans 6–13
-- Tamil body omissions at T1: **0 known**
-- added outside claims: **0**
+- omitted Tamil sentences/clauses after T2: **0**
+- added outside claims after T2: **0**
+- incorrect negatives/comparisons/logical connectors after T2: **0**
+- name/referent defects after T2: **0**
+- quotation completeness defects after T2: **0**
+- deliberate-repetition losses after T2: **0**
 - Tamil source changes: **0**
 - blockers: **0**
 
@@ -82,7 +87,33 @@ At T1–T5, English must follow the frozen Tamil context. Any material consequen
 9. `அருட்பெருஞ் சோதி` → **Arutperum Jothi**, retained without explanatory expansion inside the body.
 10. Rhetorical questions, speaker labels, ornaments, exclamations and the scan-9→10 split `அல்லலுற்` / `றோமே` are retained in the English structure; the English uses `suf—` / `fer......` across that page boundary rather than hiding the source continuation.
 
-T1 is a close draft, not a fidelity verdict. Title and terminology above remain subject to T2–T5 review.
+#### Article 1 T2 bilingual fidelity findings / corrections
+
+Frozen authorities were re-fetched immediately before review and matched exactly:
+
+- Tamil: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
+- T1 English: `b3022e69387662584064d51133e24f4f97e976b2`
+
+Every Tamil paragraph and clause was compared against the T1 English draft. T2 made **five fidelity-only body corrections**:
+
+1. `கல்லேற்றி` — changed **“With stones loaded onto...”** to **“With a stone loaded onto...”** so English does not introduce a plural absent from the frozen Tamil.
+2. Frozen incomplete `அளித் ....` — removed the silently completed finite **“I gave”** and retained the source incompletion as **“... Kural verses I giv....”**; no missing Tamil ending is guessed.
+3. `உங்களிடம் காட்டுவான்` — restored the omitted addressee: **“He will show you the Bhagavad Gita...”**.
+4. `புலவர்களுக் கெல்லாம்` — restored the omitted quantifier: **“all the poets”**.
+5. `நாட்டில்` — narrowed **“sounding through the country”** to **“sounding in the country”**, removing the added implication of `throughout` while retaining the working `முழக்கம்` → `clarion call` treatment.
+
+T2 also confirmed without change:
+
+- working title **The Clarion Call of the Race**;
+- `Dravidian race / Aryan race` and singular `Dravidian`;
+- `Self-Respecter` and source-incomplete `Self-Respect ....`;
+- repeated `Tamilian`;
+- `Kamaraj Nadar`, `Gramaniyar`, `Kanaka Visayar`, `Vallal Pari`, `Arutperum Jothi`;
+- `Vadalur Ramalingam` speaker label versus source-vocative `Vadalur Ramalingar`;
+- all **8 / 8** `<!-- Tamil source: scan ... -->` comments, still ordered `6, 7, 8, 9, 10, 11, 12, 13`;
+- quotation scope, repeated `What is the reason?` pattern, speaker labels and ornaments.
+
+No T3 voice/style polishing was performed. The title and terminology remain subject to T3–T5, but no T2 fidelity defect remains.
 
 ### 2. சொர்க்க லோகத்தில்
 
@@ -117,4 +148,4 @@ T1 is a close draft, not a fidelity verdict. Title and terminology above remain 
 
 ## Exact next activity
 
-**Article 1 `இன முழக்கம்` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T1 English blob `b3022e69387662584064d51133e24f4f97e976b2`, compare every paragraph/clause and all eight source-page comments, correct only fidelity defects, record the resulting T2 English blob, then stop before T3.
+**Article 1 `இன முழக்கம்` — T3 Kalaignar voice review only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T2 English blob `6b37eec63209bff533666ce6ff8518c1cba6f733`, review directness, sarcasm, commands, rhetorical questions, repetition, vivid imagery and polemical temperature while preserving every T2 fidelity decision, record the T3 blob/findings if any, then stop before T4.
