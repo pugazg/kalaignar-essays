@@ -77,7 +77,7 @@ Released English authorities:
 
 Do not reopen absent a genuine source-supported or release-blocking defect.
 
-## Publication 5 — இன முழக்கம் — ACTIVE / P1 COMPLETE
+## Publication 5 — இன முழக்கம் — ACTIVE / P2 25 OF 50 VERIFIED
 
 Workspace: [`publications/ina-muzhakkam/`](publications/ina-muzhakkam/)
 
@@ -109,22 +109,31 @@ Current gates:
 - P0: **COMPLETE**
 - P1 metadata / contents / page map: **COMPLETE**
 - structural transcription intake: **COMPLETE / STAGING**
-- P2 canonical page records: **0 / 50**
+- P2 canonical page records: **25 / 50 VERIFIED**
 - P3 article/section assemblies: **0 / 6**
 - P4: **NOT STARTED**
 - P5: **NOT STARTED**
 - English translation: **NOT STARTED**
 - blockers: **0**
 
-Important structural corrections and the corrected staging transcription are recorded in:
+P2 scans 1–25 now preserve:
+
+- printed text separately from physical-copy marks;
+- only directly visible printed numerals;
+- page-to-page continuation notes;
+- scan-24 article/promotion boundary;
+- scan-22 trailing `2` excluded as non-source noise;
+- scan-10 user correction `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`.
+
+Important structural records:
 
 - [`STRUCTURAL_REASSEMBLY_REVIEW.md`](publications/ina-muzhakkam/STRUCTURAL_REASSEMBLY_REVIEW.md)
-- [`transcription-intake/scans-0001-0020.md`](publications/ina-muzhakkam/transcription-intake/scans-0001-0020.md)
-- [`transcription-intake/scans-0021-0040.md`](publications/ina-muzhakkam/transcription-intake/scans-0021-0040.md)
-- [`transcription-intake/scans-0041-0050.md`](publications/ina-muzhakkam/transcription-intake/scans-0041-0050.md)
+- [`transcription-intake/USER_CORRECTIONS.md`](publications/ina-muzhakkam/transcription-intake/USER_CORRECTIONS.md)
+- [`indexes/page-map.md`](publications/ina-muzhakkam/indexes/page-map.md)
+- [`pages/`](publications/ina-muzhakkam/pages/)
 
 ## Current project state / next activity
 
-Publications **1–4 are COMPLETE / FROZEN / RELEASED**. Publication 5 `இன முழக்கம்` is active with P0/P1 and the full structural staging transcription complete.
+Publications **1–4 are COMPLETE / FROZEN / RELEASED**. Publication 5 `இன முழக்கம்` is active with P0/P1 complete and P2 at **25 / 50 verified**.
 
-**Exact next activity:** create and directly verify **P2 canonical page records for scans 1–25**. Preserve printed text separately from physical-copy marks and do not begin P3 assemblies in the same activity.
+**Exact next activity:** create and directly verify **P2 canonical page records for scans 26–50**. Preserve the lexical baseline, article/promotion/catalogue boundaries and poetry lineation; do not begin P3 assemblies in the same activity.
