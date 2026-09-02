@@ -9,7 +9,7 @@ source_scan_pages: "14-24"
 source_printed_pages: "contents witness start 13; scan 14 numeral not visible; scans 15-24 visibly 14-23"
 language: "en"
 translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 2 T3 Kalaignar voice review complete"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 2 T4 terminology / quotation / citation / source audit complete"
 ---
 
 # In the Heavenly Realm
@@ -128,9 +128,9 @@ ing that you made great, great sacrifices to come to the realm of moksha; when I
 
 The Nayanmars were struck speechless.
 
-Karaikkal Ammaiyar asked, “Is this true?”
+Karaikkal Ammai asked, “Is this true?”
 
-“Still you doubt? If you have doubts, look at the ‘Mahapathagam Theertha Padalam’ in the *Thiruvilaiyadal Puranam*,” said the Ayyar.
+“Still you doubt? If you have doubts, look at the Mahapathagam Theertha Padalam in the *Thiruvilaiyadal Puranam*,” said the Ayyar.
 
 “How is it that you, a sinner, alone obtained life in the heavenly realm so easily?” asked Siruthondar.
 
