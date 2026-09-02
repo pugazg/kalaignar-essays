@@ -24,7 +24,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `576c493d8b784e95361e0f5f8ae48cf5de5dfae7` — `Record Ina Muzhakkam Article 4 T5 provenance`.
+- Last confirmed live HEAD immediately before this handover synchronization: `6343bf314781be45c41f52ef056ff9df56bb691b` — `Record Ina Muzhakkam Article 5 T1 provenance`.
 
 ---
 
@@ -83,7 +83,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 5 — இன முழக்கம் — TAMIL FROZEN / ARTICLE 4 T5 VERIFIED
+# Publication 5 — இன முழக்கம் — TAMIL FROZEN / ARTICLE 5 T1 PASS
 
 Workspace: `publications/ina-muzhakkam/`  
 Controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`
@@ -141,7 +141,7 @@ The supplied transcription is the lexical baseline for the frozen Tamil layer; s
 
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **4 / 6 PASS**
+- T1: **5 / 6 PASS**
 - T2: **4 / 6 PASS**
 - T3: **4 / 6 PASS**
 - T4: **4 / 6 PASS**
@@ -158,81 +158,33 @@ The supplied transcription is the lexical baseline for the frozen Tamil layer; s
 
 Do not reopen these articles without a genuine source-supported defect.
 
-## Article 4 — `பழிக்குப் பழி` — T5 COMPLETE / VERIFIED
+## Article 5 — `ஆரியம் பேசுகிறது` — T1 COMPLETE / CLOSE DRAFT
 
-- Tamil blob: `e140df7f6234e8362b9139793706533fec0c62d8`
-- English file: `publications/ina-muzhakkam/translations/en/04-pazhikku-pazhi.md`
-- verified English title: **Revenge for Revenge**
-- T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
-- T2 English blob: `da8969239016948ff2330ecfca6a0963762db95c`
-- T3 English blob: `6e095b751ef39c780d11792a2be7f9293a8a905d`
-- T4 English blob: `a5973f49b53ed37e0f16ceb6f72145d649e39093`
-- T5 verified English blob: `46627c3cecfd186e1735d8766ddda27414118e62`
-- `translation_status`: `verified`
-- source comments: **8 / 8 preserved in order** for scans 30–37
-- scan-31→32 trace: `its / taproot`
-- scan-34→35 trace: `would have / taken him away`
-- scan-35→36 trace: `three / bullets`
-- scan-36→37 trace: `revenge for / revenge`
-- T2 fidelity corrections: **4 / 4 preserved**
-- T3 voice/style corrections: **10 / 10 preserved**
-- T4 audit body corrections: **1 / 1 preserved**
-- T5 final body corrections: **0**
+- Tamil blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
+- English file: `publications/ina-muzhakkam/translations/en/05-aariyam-pesugirathu.md`
+- working English title: **Aryanism Speaks**
+- T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
+- `translation_status`: `draft`
+- source comments: **2 / 2 preserved in order** for scans 38–39
+- scan-38→39 trace: `Kula— / chirai`
 - Tamil source changes: **0**
 - blockers: **0**
 
-### Article 4 source-bearing decisions through T5
+### Article 5 T1 source-bearing decisions
 
-1. `பழிக்குப் பழி` → **Revenge for Revenge**.
-2. `வகுப்புவாதம்` → **communalism**; contextual `வகுப்பு` → **communal division**.
-3. `உயிர்நிலை` → **seat of life**.
-4. `திராவிடர் கழகம்` → **Dravidar Kazhagam**; collective/direct `திராவிடர்` → **Dravidians**.
-5. `காங்கிரஸ் காரியக் கமிட்டி` → **Congress Working Committee**.
-6. `காந்தியார் / காந்திஜீ / காந்தி` → source-distinct **Gandhiyar / Gandhiji / Gandhi**.
-7. `பார்ப்பனீயம் / பார்ப்பனியம்` → **Brahminism**, while preserving/documenting the frozen Tamil spelling distinction; `பிராமண சேவா சங்கங்கள்` → **Brahmin Seva Associations**.
-8. `அக்கிரகாரம்` → **agraharam**.
-9. `சமதர்மம்` → **Samadharma**.
-10. `மயில் ராவணன்` → **Mayil Ravanan**, without outside identification.
-11. `ஜோதி / அருட் சோதி` → **Jothi / Arut Sothi**, preserving Article-4 forms rather than importing Article-1 `Arutperum Jothi`.
-12. `ரத்த அபிஷேகம்` → **blood abhishekam**, preserving quotation status.
-13. `கோட்சே` → source-bearing **Gotse**, without outside normalization or identification.
-14. `வர்ணாஸ்ரமம்` → **Varnashrama**; `அகிம்ஸை / சத்திய` → **ahimsa / satya**.
-15. Article-4 `சொர்க்கலோகம்` → **heavenly realm**; `புஷ்ப விமானம்` → **Pushpa Vimanam**.
-16. `பறையன் / பள்ளன் / பார்ப்பனன்` → **Paraiyan / Pallan / Brahmin**.
-17. source names **Nandan / Ramalingar / Vallalar / Thirugnanasambandar** retained without outside expansion.
-18. all **8 / 8** source comments and all four physical boundary traces remain explicit.
+1. `ஆரியம் பேசுகிறது` → **Aryanism Speaks**; recurring abstract `ஆரியம்` → **Aryanism**.
+2. `இரணியன் / பிரகலாதன்` → **Hiraniyan / Pragalathan**.
+3. `இராவணன் / விபீஷணன் / வாலி / சுக்ரீவன்` → **Ravanan / Vibheeshanan / Vali / Sugrivan**.
+4. `வாலிவதைப் படலம்` → **the chapter of Vali's slaying**.
+5. `கோடாரிக் காம்பு` → **axe-handle**; source name `குலச் சிறை` → **Kulachirai**, preserving the physical scan boundary as `Kula— / chirai`.
+6. recurring `காந்தியார் / கோட்சே` retain verified **Gandhiyar / Gotse**.
+7. `ஓமாந்தூரார்` → **Omaanthooraar**, without outside identification.
+8. quoted `ஆரியத்துக்கு எதிர்ப்பா?` → **“Opposition to Aryanism?”**.
+9. `கறுப்புப் படை` → **Black Army**, without outside expansion.
+10. closing plural `விபீஷண சுக்ரீவர்` → **Vibheeshanans and Sugrivans**; `உங்கள் இனம்` → **your race**.
+11. both source-page comments and the scan-38→39 boundary remain explicit.
 
-### Article 4 T2 fidelity corrections — preserved through T5
-
-1. Opening Congress quotation retains **the eradication of communalism in which complete success could not be achieved**.
-2. All three `உயிர்நிலை` occurrences retain **seat of life**.
-3. `வகுப்பு ஒழிந்தால் வாதம் ஒழியும்—வகுப்பு வளர்ந்தால் வகுப்பு வாதம் வளரும்.` retains **communalism disappears**.
-4. `பாகிஸ்தான் பகிர்ந்தளிக்கப் பட்டதே சான்று!` retains **the partitioning off of Pakistan itself is proof**.
-
-### Article 4 T3 Kalaignar voice corrections — preserved through T5
-
-Ten voice/style-only corrections remain intact:
-
-1. clipped welcome cadence and **We rejoice:**;
-2. repeated **Let us** in the pledge and direct eye-fixing action;
-3. **Communalism's seat of life**;
-4. direct **our saying ... is communalism** accusation;
-5. direct cause-and-abolish syntax for Brahminism/Brahmin Seva Associations;
-6. **the true memorial to build for Gandhiyar**;
-7. **deserves high praise**;
-8. the photographic image **photographed the blood-soaked tongue ... and shown it**;
-9. **Gandhiyar preached these: truth—the path of satya**;
-10. direct proof cadence **The great riots in the country are proof that there, too, he found no consolation!**.
-
-### Article 4 T4 terminology / quotation / citation / source audit — preserved at T5
-
-One body correction was required for quotation scope. Frozen Tamil has `“வகுப்பு வாதம்” வீழ்க என்கிறது காரியக் கமிட்டி.` with quotation marks around `வகுப்பு வாதம்` only. T3 had broadened the quotation to the entire English slogan **“Down with communalism,” says the Working Committee.** T4 corrected it to **“Communalism” must fall, says the Working Committee.** This preserves both the source quotation boundary and the command force of `வீழ்க`.
-
-All other terminology/source-witness forms were confirmed. Source-sensitive `பாரட்டத்` and `ஜோதில்கலந்தான்` continue to follow the frozen Tamil authority without importing scan alternatives. `agraharam` and quoted `blood abhishekam` remain explicitly registered in the living lexicon. All four T2 fidelity corrections, all ten T3 voice/style corrections, all **8 / 8** ordered source comments and all four page traces remain intact.
-
-### Article 4 T5 final verification
-
-T5 reread the complete T4 English against the frozen Tamil and all T1–T4 decisions. Completeness, meaning, directness, polemical/religious-political force, terminology, source-witness distinctions, quotation/source treatment and page provenance all pass. **No final body correction was required.** Article 4 is individually frozen.
+T1 is a close rhetorical draft only. T2 bilingual fidelity review has not been performed.
 
 ## Translation non-regression
 
@@ -243,6 +195,7 @@ T5 reread the complete T4 English against the frozen Tamil and all T1–T4 decis
 - Scan-24/37 promotions, scan-40 front matter/review and scan-50 catalogue remain excluded.
 - `கவிதைகள்` English must preserve frozen headings and lineation.
 - Known source-sensitive forms including `பாரட்டத்`, `ஜோதில்கலந்தான்`, `மனமுள்ளார்`, `ஏறிபத்தர்`, `முடுக்கினாள்`, `போர் வீரனாம்`, `கதறினாள்` must not be replaced with scan alternatives.
+- Articles 1–4 are individually T5-frozen.
 
 ## Current blockers
 
@@ -252,15 +205,15 @@ T5 reread the complete T4 English against the frozen Tamil and all T1–T4 decis
 
 # Exact next activity
 
-**Publication 5 — Article 5 `ஆரியம் பேசுகிறது` — T1 close English draft only.**
+**Publication 5 — Article 5 `ஆரியம் பேசுகிறது` — T2 bilingual fidelity review only.**
 
 Required steps:
 
 1. fetch live `main` first;
 2. re-read translation plan, tracker, lexicon and review ledger;
 3. re-fetch frozen Tamil Article 5 and confirm blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`;
-4. translate the complete article paragraph by paragraph from the frozen Tamil authority;
-5. preserve directness, questions, commands, quotation status, source comments, page trace and source-bearing forms;
-6. establish new terminology only where the frozen Article-5 source requires it; reuse Articles 1–4 verified choices only when the same Tamil form/function genuinely recurs;
-7. create/update the Article-5 English draft with `translation_status: draft` and record the T1 blob across durable records;
-8. **STOP AFTER ARTICLE 5 T1. DO NOT PERFORM ARTICLE 5 T2 IN THE SAME ACTIVITY.**
+4. re-fetch T1 English Article 5 and confirm blob `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`;
+5. compare the complete draft paragraph by paragraph for omitted meaning, added claims, names/referents, negatives, comparisons, causal relations, quotation scope and page provenance;
+6. preserve both source comments and `Kula— / chirai` unless a genuine source/fidelity defect requires correction;
+7. make **T2 fidelity corrections only** and record exact findings across durable records;
+8. **STOP AFTER ARTICLE 5 T2. DO NOT PERFORM ARTICLE 5 T3 IN THE SAME ACTIVITY.**
