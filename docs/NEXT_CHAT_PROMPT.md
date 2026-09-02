@@ -13,7 +13,7 @@ Fetch live `main` first. Preserve any newer durable state; never reset or repeat
 
 Last confirmed handover synchronization when this prompt was prepared:
 
-`77c63caa19a9d23cc3911fe9d76241bcecc10a92` — `Synchronize handover after Ina Muzhakkam P5 closeout`
+`0bdd6d9e4f6146a5c7d10e5396dbe1507d32335b` — `Synchronize handover after Ina Muzhakkam E0`
 
 ## Mandatory startup
 
@@ -27,29 +27,15 @@ Read completely before changing anything:
 6. `publications/ina-muzhakkam/README.md`
 7. `publications/ina-muzhakkam/VISUAL_TEXT_FIDELITY_REVIEW.md`
 8. `publications/ina-muzhakkam/metadata/source.md`
-9. `publications/ina-muzhakkam/indexes/contents.md`
-10. `publications/ina-muzhakkam/indexes/page-map.md`
-11. all six frozen Tamil assemblies
+9. `publications/ina-muzhakkam/TRANSLATION_PLAN.md`
+10. `publications/ina-muzhakkam/translations/en/README.md`
+11. `publications/ina-muzhakkam/translations/en/LEXICON.md`
+12. `publications/ina-muzhakkam/translations/en/TRANSLATION_REVIEW.md`
+13. all six frozen Tamil assemblies; for the next activity especially Article 1.
 
-## User lexical rule
+## Frozen Tamil authority
 
-> **Keep the words. Correct only structural order, punctuation, spacing, paragraphing, headings, misplaced words and analogous layout issues; remove unwanted non-source/OCR words.**
-
-The supplied transcription remains the Tamil lexical baseline; the completed P5 layer is now frozen. Do not reopen it for translation convenience.
-
-## Current durable state
-
-- physical scans: **50**
-- P0: **COMPLETE**
-- P1: **COMPLETE**
-- P2: **50 / 50 COMPLETE**
-- P3: **6 / 6 COMPLETE**
-- P4: **PASS / COMPLETE**
-- P5: **50 / 50 PASS**
-- P5 assembly recheck: **6 / 6 PASS**
-- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- English translation: **NOT STARTED**
-- blockers: **0**
+The completed P5 Tamil layer is **COMPLETE / STRICT-REVIEWED / FROZEN**. Do not reopen it for translation convenience.
 
 Frozen Tamil authorities:
 
@@ -60,24 +46,46 @@ Frozen Tamil authorities:
 5. `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` — `ஆரியம் பேசுகிறது`
 6. `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` — `கவிதைகள்`
 
-Important non-regression:
+E0 re-fetched all six: **6 / 6 exact SHA matches / T0 PASS**.
 
-- retain scan-10 `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
-- retain all P5 source/baseline conflict classifications rather than silently normalising them in Tamil;
-- promotions on scans 24 and 37, scan-40 poetry front matter and scan-50 catalogue are outside the six translation bodies unless separately authorised;
-- poem lineation/headings in the frozen `கவிதைகள்` authority control translation structure.
+## Current durable state
+
+- Tamil P0–P5: **COMPLETE / FROZEN**
+- E0 translation planning/setup: **COMPLETE / PASS**
+- T0: **6 / 6 PASS**
+- T1: **0 / 6**
+- T2: **0 / 6**
+- T3: **0 / 6**
+- T4: **0 / 6**
+- T5: **0 / 6**
+- E6: **NOT STARTED**
+- E7: **NOT STARTED**
+- blockers: **0**
+
+## Translation non-regression
+
+> **Translate the language; do not neutralise the voice.**
+
+- translate only the frozen strict-reviewed Tamil assemblies, not OCR/raw transcription/scan-alternate lexical readings;
+- preserve direct address, commands, rhetorical questions, repetition, sarcasm, ridicule, exclamations and loaded ideological/social labels;
+- do not silently identify unexplained epithets or labels from outside knowledge;
+- retain ordered `<!-- Tamil source: scan ... -->` comments;
+- preserve quotation status and document material source punctuation anomalies rather than inventing missing Tamil punctuation;
+- scan-24 and scan-37 promotions, scan-40 `கவிதைகளைப் பற்றி` + `மதிப்புரை`, and scan-50 catalogue are outside the six English bodies unless separately authorised;
+- `கவிதைகள்` translation must preserve frozen poem headings and lineation;
+- source-sensitive frozen forms such as `பாரட்டத்`, `ஜோதில்கலந்தான்`, `மனமுள்ளார்`, `ஏறிபத்தர்`, `முடுக்கினாள்`, `போர் வீரனாம்`, and `கதறினாள்` must not be replaced with scan alternatives during translation;
+- English titles are established article by article at T1, not pre-frozen globally at E0.
 
 ## EXACT NEXT ACTIVITY
 
-**E0 — English translation planning/setup only.**
+**Article 1 `இன முழக்கம்` — T1 close English draft only.**
 
 1. fetch live `main`;
-2. verify all six frozen Tamil blob SHAs;
-3. create `publications/ina-muzhakkam/TRANSLATION_PLAN.md`;
-4. create `publications/ina-muzhakkam/translations/en/README.md`;
-5. create `publications/ina-muzhakkam/translations/en/LEXICON.md`;
-6. create `publications/ina-muzhakkam/translations/en/TRANSLATION_REVIEW.md`;
-7. register all six authorities as T0 prerequisites;
-8. record publication-specific translation constraints and source-sensitive forms;
-9. synchronize status/handover records;
-10. **stop after E0. Do not start Article 1 T1 in the same activity.**
+2. re-fetch `articles/01-ina-muzhakkam.md` and confirm blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`;
+3. establish the working English title from the frozen Tamil title and record it in `LEXICON.md` and `TRANSLATION_REVIEW.md`;
+4. establish only Article-1 terminology actually encountered; do not pre-freeze later-article choices;
+5. translate the entire frozen Article 1 paragraph by paragraph, preserving quotation structure, questions, exclamations, repetition and rhetoric;
+6. retain every ordered source-page comment in English form;
+7. create `translations/en/01-ina-muzhakkam.md` with `translation_status: draft` and the frozen Tamil blob SHA;
+8. record the T1 English blob and decisions in tracker/plan/lexicon/review/handover;
+9. **stop after T1. Do not perform T2 in the same activity.**
