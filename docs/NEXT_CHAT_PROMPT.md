@@ -1,24 +1,20 @@
-# Next Chat Prompt — Kalaignar Essays / திராவிட சம்பத்து
+# Next Chat Prompt — Kalaignar Essays / Articles
 
-Use this file only as a convenience handoff. **Live `main` and the root `HANDOVER.md` are authoritative.**
+Use this file only as a convenience handoff. **Live `main` and root `HANDOVER.md` are authoritative.**
 
-Continue the Kalaignar Essays / Articles project directly in:
+Continue the project directly in:
 
 `pugazg/kalaignar-essays`
 
 Branch: `main`
 
-Active publication:
-
-`publications/thiraavida-sampaththu/` — **திராவிட சம்பத்து**
-
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. The last confirmed live HEAD immediately before this continuation prompt was synchronized was:
+Fetch live `main` first. The last confirmed live HEAD immediately before this prompt was refreshed was:
 
-`4ecd5b697a4bdd4408a72af9d0326ac7463ee141` — `Advance Thiraavida Sampaththu handover through E6`
+`2890871c63ee99c174befe248a3d8184d6f1a3d1` — `Close Thiraavida Sampaththu project handover`
 
-If `main` has advanced beyond that checkpoint, preserve the newer durable state. **Do not reset, overwrite, repeat or reopen later completed work merely because this prompt contains an older checkpoint.**
+If `main` has advanced, preserve the newer durable state. **Do not reset, overwrite, repeat or reopen later completed work merely because this prompt contains an older checkpoint.**
 
 Before every write, re-fetch the target file and current live state as needed. Work directly on `main`.
 
@@ -31,94 +27,57 @@ Before making any repository change, read completely:
 3. `docs/FUTURE_WORK_GUIDELINES.md`
 4. `HANDOVER.md`
 5. this `docs/NEXT_CHAT_PROMPT.md`
-6. `publications/thiraavida-sampaththu/README.md`
-7. `publications/thiraavida-sampaththu/metadata/source.md`
-8. `publications/thiraavida-sampaththu/PUBLICATION_COMPLETION_REVIEW.md`
-9. `publications/thiraavida-sampaththu/TRANSLATION_PLAN.md`
-10. `publications/thiraavida-sampaththu/translations/en/README.md`
-11. `publications/thiraavida-sampaththu/translations/en/LEXICON.md`
-12. `publications/thiraavida-sampaththu/translations/en/TRANSLATION_REVIEW.md`
-13. both frozen Tamil articles
-14. both verified English articles
 
-The controlling PDF is **not required for the normal E7 release closeout** because the frozen strict-reviewed Tamil assemblies, E6-passed verified English articles and synchronized release records are the release authorities. Resolve the scan only if a concrete source/release defect genuinely requires it; never use it to replace a frozen Tamil witness.
+Then read the source-specific README / metadata / processing records for the next supplied publication before changing anything.
 
-## Frozen Tamil state
+## Current project state
 
-- P0: **COMPLETE**
-- P1: **COMPLETE**
-- P2: **16 / 16 COMPLETE**
-- P3: **2 / 2 COMPLETE**
-- P4: **PASS**
-- P5: **16 / 16 PASS**
-- Tamil blockers: **0**
+Publications 1–4 are **COMPLETE / FROZEN / RELEASED**.
 
-Frozen translation authorities:
+1. `சக்கரவர்த்தியின் திருமகன்` — release complete / frozen.
+2. `கயிற்றில் தொங்கிய கணபதி` — release complete / frozen.
+3. `உணர்ச்சிமாலை` — release complete / frozen.
+4. `திராவிட சம்பத்து` — release complete / frozen.
 
-1. Article 1 `திராவிட சம்பத்து` — scans **5–6, 13–16** — blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
-2. Article 2 `ஐயர் அறிவிக்கிறார்!` — scans **12, 3** — blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
+Do not reopen any of these publications for stylistic polishing, conventionalisation or terminology homogenisation. Reopen only for a genuine source-supported or release-blocking defect.
 
-Do not reopen the frozen Tamil bodies for stylistic polishing, lexical conventionalisation or terminology homogenisation.
+## Publication 4 release boundary — திராவிட சம்பத்து
 
-## English translation state
+Tamil archival state:
 
-- E0: **COMPLETE / PASS**
-- T0: **2 / 2 PASS**
-- T1: **2 / 2 PASS**
-- T2: **2 / 2 PASS**
-- T3: **2 / 2 PASS**
-- T4: **2 / 2 PASS**
-- T5: **2 / 2 PASS**
+- P0–P5: **COMPLETE / PASS**
+- physical scans: **16**
+- frozen Tamil Article 1: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
+- frozen Tamil Article 2: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
+
+English release state:
+
+- T0–T5: **2 / 2 PASS**
 - E6: **PASS**
-- E7: **NOT STARTED**
-- translation blockers: **0**
+- E7: **PASS / RELEASE COMPLETE**
+- **English translation: COMPLETE / RELEASED / FROZEN**
 
-Permanent rule:
+Released English authorities:
 
-> **Translate the language; do not neutralise the voice.**
+1. **Dravidian Wealth** — `10dca72882043db491fe8c6ad3f858bc4c9c584f`
+2. **Iyer Announces!** — `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
 
-## E6-passed verified article authorities
-
-1. **Dravidian Wealth** — final English blob `10dca72882043db491fe8c6ad3f858bc4c9c584f` — status `verified`.
-2. **Iyer Announces!** — final English blob `771094f9c2eaad4c56c6f9509db34adbd3fd97a5` — status `verified`.
-
-E6 passed with:
-
-- English body corrections: **0**;
-- English metadata corrections: **0**;
-- frozen Tamil changes: **0**;
-- article gates reopened: **No**;
-- source/release defects discovered: **0**;
-- blockers: **0**.
-
-Durable E6 non-regression includes:
-
-- noun `திராவிடம்` → **Dravidam** across both articles;
-- Article 1 adjectival **Dravidian** versus Article 2 inscription **Dravida** as a deliberate source-form distinction;
-- Article 1 `Ananda Vikatan` / `Vikatanar` / `Vikatar` distinctions;
-- Article 1 scan-15/16 damage boundaries, `mit (Myth)` and `pechchul`;
-- Article 2 `Iyer` / `Ayyar`, `Enothano(s)`, `ayam`, `College` / `kalluri`, and `Saminathayyar` / `Saminatha Ayyar` distinctions;
-- Article 2 source-bearing inscription **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**;
-- documented two-unit first-paragraph quotation treatment;
-- source-page comments: **8 / 8 total present and ordered**.
+E7 release closeout confirmed no English body or metadata changes after E6, no frozen Tamil changes, no reopened gates, no source/release defects and no blockers.
 
 ## EXACT NEXT ACTIVITY
 
-Execute **E7 — English release closeout** only.
+There is no pending review gate for Publications 1–4.
 
-1. Re-fetch both E6-passed verified English article blobs and both frozen Tamil authorities.
-2. Confirm both English blobs remain exactly `10dca72882043db491fe8c6ad3f858bc4c9c584f` and `771094f9c2eaad4c56c6f9509db34adbd3fd97a5` unless live `main` legitimately advanced with a documented reopened gate.
-3. Confirm both frozen Tamil blobs remain exactly `6e9759aff9bc4801ee66b3b8c76a814be3e98015` and `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
-4. Verify T0–T5 and E6 remain durable and no article/source gate has been reopened.
-5. Verify `TRANSLATION_REVIEW.md`, `LEXICON.md`, English tracker, `TRANSLATION_PLAN.md`, publication README, completion review, metadata, root handover and root README are synchronized.
-6. Confirm English body corrections during E6 remain **0**, frozen Tamil changes remain **0**, source/release defects remain **0**, and blockers remain **0**.
-7. If PASS, mark the publication's English translation **COMPLETE / RELEASED / FROZEN**, record the two released English blob authorities and update all release records.
-8. **Stop after E7. Do not begin another publication in the same activity.**
+**The next project activity is intake of the next supplied Kalaignar essay/article publication.**
 
-## Previous publication non-regression
+When the next source is supplied:
 
-Publications 1–3 remain **COMPLETE / FROZEN / RELEASED**. Do not reopen them absent a genuine source-supported or release-blocking defect.
+1. fetch live `main` first;
+2. read the permanent processing/translation guides and authoritative handover;
+3. identify the publication/source exactly from the supplied material;
+4. create or continue the correct publication workspace;
+5. record source identity, source hash/scan count when available, boundaries and controlling-source rules;
+6. follow the Tamil archival gates before English translation;
+7. never reopen Publications 1–4 merely to harmonise style.
 
-## Fresh-window execution rule
-
-When the user says **“Proceed with next activity”**, do not ask them to restate context. Fetch live `main`, read the authoritative handover/current E6 records, re-fetch both verified English and frozen Tamil authorities, and execute the exact E7 release-closeout activity completely.
+If no new source has been supplied yet, make no speculative repository change.
