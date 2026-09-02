@@ -10,7 +10,7 @@ Live Tamil prerequisites were re-fetched and all six strict-reviewed authority b
 
 | # | Tamil title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|
-| 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **PASS** | **PASS** | **PASS** | NEXT | — | — |
+| 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **PASS** | **PASS** | **PASS** | **PASS** | NEXT | — |
 | 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **PASS** | — | — | — | — | — |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | **PASS** | — | — | — | — | — |
 | 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | **PASS** | — | — | — | — | — |
@@ -60,17 +60,15 @@ At T1–T5, English must follow the frozen Tamil context. Any material consequen
 - T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
 - T2: **PASS / COMPLETE**
 - T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`
-- T3: **NOT STARTED — NEXT**
-- T4: NOT STARTED
+- T3: **PASS / COMPLETE**
+- T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`
+- T4: **NOT STARTED — NEXT**
 - T5: NOT STARTED
-- translation status: `fidelity-reviewed`
+- translation status: `voice-reviewed`
 - source-page comments: **8 / 8 preserved in order** for scans 6–13
-- omitted Tamil sentences/clauses after T2: **0**
-- added outside claims after T2: **0**
-- incorrect negatives/comparisons/logical connectors after T2: **0**
-- name/referent defects after T2: **0**
-- quotation completeness defects after T2: **0**
-- deliberate-repetition losses after T2: **0**
+- T2 fidelity corrections preserved at T3: **5 / 5**
+- T3 voice/style body corrections: **10**
+- meaning/fidelity regressions introduced at T3: **0**
 - Tamil source changes: **0**
 - blockers: **0**
 
@@ -79,13 +77,13 @@ At T1–T5, English must follow the frozen Tamil context. Any material consequen
 1. `இன முழக்கம்` → **The Clarion Call of the Race** as the working title; closing contextual occurrence → **the clarion call of the race**.
 2. Explicit `திராவிட இனம்` / `ஆரிய இனம்` → **Dravidian race / Aryan race**, preserving the source's ideological contrast rather than neutralising it to `community`.
 3. `திராவிடன்` → **Dravidian**.
-4. `சுயமரியாதைக்காரன்` → **Self-Respecter**; the earlier frozen incomplete `சுயமரியாதைக் ....` remains incomplete as **Self-Respect ....**, with no guessed missing Tamil word.
-5. Repeated `தமிழன்` is retained as **Tamilian**, preserving the repeated rhetorical target rather than smoothing it away.
-6. `கிராமணியார்` → **Gramaniyar**, source-bearing and unexplained.
-7. User-established frozen `கனக விசயர்` → **Kanaka Visayar**, retained as a source-bearing compound label rather than externally identifying or splitting it.
+4. `சுயமரியாதைக்காரன்` → **Self-Respecter**; frozen incomplete `சுயமரியாதைக் ....` remains **Self-Respect ....**.
+5. Repeated `தமிழன்` remains **Tamilian**.
+6. `கிராமணியார்` → **Gramaniyar**.
+7. Frozen `கனக விசயர்` → **Kanaka Visayar** without outside identification.
 8. `பாரிவள்ளல்` → **Vallal Pari**; descriptive `கொடை வள்ளல்` → **great giver**.
-9. `அருட்பெருஞ் சோதி` → **Arutperum Jothi**, retained without explanatory expansion inside the body.
-10. Rhetorical questions, speaker labels, ornaments, exclamations and the scan-9→10 split `அல்லலுற்` / `றோமே` are retained in the English structure; the English uses `suf—` / `fer......` across that page boundary rather than hiding the source continuation.
+9. `அருட்பெருஞ் சோதி` → **Arutperum Jothi**.
+10. Rhetorical questions, speaker labels, ornaments, exclamations and scan-9→10 `அல்லலுற்` / `றோமே` are retained; English preserves `suf—` / `fer......`.
 
 #### Article 1 T2 bilingual fidelity findings / corrections
 
@@ -96,24 +94,39 @@ Frozen authorities were re-fetched immediately before review and matched exactly
 
 Every Tamil paragraph and clause was compared against the T1 English draft. T2 made **five fidelity-only body corrections**:
 
-1. `கல்லேற்றி` — changed **“With stones loaded onto...”** to **“With a stone loaded onto...”** so English does not introduce a plural absent from the frozen Tamil.
-2. Frozen incomplete `அளித் ....` — removed the silently completed finite **“I gave”** and retained the source incompletion as **“... Kural verses I giv....”**; no missing Tamil ending is guessed.
-3. `உங்களிடம் காட்டுவான்` — restored the omitted addressee: **“He will show you the Bhagavad Gita...”**.
-4. `புலவர்களுக் கெல்லாம்` — restored the omitted quantifier: **“all the poets”**.
-5. `நாட்டில்` — narrowed **“sounding through the country”** to **“sounding in the country”**, removing the added implication of `throughout` while retaining the working `முழக்கம்` → `clarion call` treatment.
+1. `கல்லேற்றி` — **“With stones loaded onto...”** → **“With a stone loaded onto...”**.
+2. Frozen incomplete `அளித் ....` — removed silently completed **“I gave”** and retained **“... Kural verses I giv....”**.
+3. `உங்களிடம் காட்டுவான்` — restored **“show you”**.
+4. `புலவர்களுக் கெல்லாம்` — restored **“all the poets”**.
+5. `நாட்டில்` — **“through the country”** → **“in the country”**.
 
-T2 also confirmed without change:
+T2 confirmed all **8 / 8** source comments, quotation scope, the repeated `What is the reason?` pattern, names/referents and the Article-1 working lexicon.
 
-- working title **The Clarion Call of the Race**;
-- `Dravidian race / Aryan race` and singular `Dravidian`;
-- `Self-Respecter` and source-incomplete `Self-Respect ....`;
-- repeated `Tamilian`;
-- `Kamaraj Nadar`, `Gramaniyar`, `Kanaka Visayar`, `Vallal Pari`, `Arutperum Jothi`;
-- `Vadalur Ramalingam` speaker label versus source-vocative `Vadalur Ramalingar`;
-- all **8 / 8** `<!-- Tamil source: scan ... -->` comments, still ordered `6, 7, 8, 9, 10, 11, 12, 13`;
-- quotation scope, repeated `What is the reason?` pattern, speaker labels and ornaments.
+#### Article 1 T3 Kalaignar voice findings / corrections
 
-No T3 voice/style polishing was performed. The title and terminology remain subject to T3–T5, but no T2 fidelity defect remains.
+T3 re-fetched and confirmed:
+
+- frozen Tamil: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`;
+- T2 English: `6b37eec63209bff533666ce6ff8518c1cba6f733`.
+
+The English was reread against Tamil for directness, ridicule, rhetorical questions, commands, repetition, vivid imagery, abrupt contrast and polemical temperature. All T2 meaning/fidelity decisions and all **8 / 8** ordered source-page comments were preserved.
+
+T3 made **10 voice/style-only changes**:
+
+1. `இந்திரனைக் கூடிய` — **“was with Indra”** → **“coupled with Indra”**, restoring the source's blunt sexual wording.
+2. `சந்திரனைக் காமுற்ற` — **“desired the Moon”** → **“lusted after the Moon”**, removing a softened English euphemism.
+3. `அழியாத பத்தினி` — **“imperishable chaste wife”** → **“immortal chaste wife”**, keeping the pointed ironic phrase while making the English natural.
+4. Ilango's `சபதம் ஒலித்து` — stiff **“I thundered in a vow”** → **“I thundered my vow”**, preserving the audible emphatic action.
+5. `என்பெயரும் ... சரியாகத் தெரியாது` — **“does not properly know even my name”** → **“does not even properly know my name”**, removing stiff word order without changing force.
+6. Pisiranthaiyar's `நான் மாண்டுவிட்டேன்` — **“I had died”** → **“I was dead”** after the retained vivid `touch my ears`, producing more direct English without changing sequence.
+7. Sai Baba ridicule — compressed the repeated English `find a place` into **“not only in his heart.... but on his body too—as a button, as a ring”**, retaining the concrete mockery and all source images.
+8. Senguttuvan passage — passive **“With a stone loaded onto...”** became active **“I loaded a stone onto...”**; awkward **“returned after magnifying the fame”** became **“returned spreading the fame”**. T2 singular `a stone` was preserved.
+9. Vallal Pari challenge — stiff **“look at the Tamilian and say ... and ask him”** became direct **“try asking the Tamilian...”** while preserving the scan-11→12 source boundary and meaning.
+10. Closing rhetoric — formal **“Thus asks Thiruvalluvar”** → **“So asks Thiruvalluvar”** and `இந்நிலை மாறாதா?` → natural direct **“Won't this state change?”**.
+
+T3 found no reason to alter the working title or Article-1 ideological/name choices. Frozen incomplete `சுயமரியாதைக் ....` and `அளித் ....` remain incomplete, and no outside identification was introduced.
+
+T3 result: **PASS**. English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`.
 
 ### 2. சொர்க்க லோகத்தில்
 
@@ -148,4 +161,4 @@ No T3 voice/style polishing was performed. The title and terminology remain subj
 
 ## Exact next activity
 
-**Article 1 `இன முழக்கம்` — T3 Kalaignar voice review only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T2 English blob `6b37eec63209bff533666ce6ff8518c1cba6f733`, review directness, sarcasm, commands, rhetorical questions, repetition, vivid imagery and polemical temperature while preserving every T2 fidelity decision, record the T3 blob/findings if any, then stop before T4.
+**Article 1 `இன முழக்கம்` — T4 terminology / quotation / citation / source audit only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T3 English blob `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`; audit title, recurring labels, names/referents, quoted material, source-page comments, source-sensitive incomplete forms and source-witness distinctions; correct T4 defects only, record the resulting T4 blob/findings, then stop before T5.
