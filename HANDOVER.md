@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - Any checkpoint SHA is the last confirmed state when written; it is **not** a rollback target.
 - If `main` has advanced, preserve the newer durable state. Never reset, overwrite, repeat or reopen later completed work because an older prompt records an earlier boundary.
 - Re-fetch target files immediately before writes when another window may also be active.
-- Last confirmed live HEAD immediately before this P3 handover synchronization: `ffe6c4ab5cce020cc782e05b82d37e871cd3151d` — `Record Ina Muzhakkam P3 assembly map`.
+- Last confirmed live HEAD immediately before this P4 handover synchronization: `2e7b684b1a88dd5e6707dc0f9a09fbbcd9df777f` — `Advance root status through Ina Muzhakkam P4 completion`.
 
 ---
 
@@ -96,7 +96,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 5 — இன முழக்கம் — ACTIVE / P3 COMPLETE
+# Publication 5 — இன முழக்கம் — ACTIVE / P4 COMPLETE
 
 Workspace: `publications/ina-muzhakkam/`  
 Supplied source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`
@@ -160,6 +160,7 @@ Canonical records:
 - `publications/ina-muzhakkam/indexes/contents.md`
 - `publications/ina-muzhakkam/indexes/page-map.md`
 - `publications/ina-muzhakkam/STRUCTURAL_REASSEMBLY_REVIEW.md`
+- `publications/ina-muzhakkam/SOURCE_COMPLETENESS_AUDIT.md`
 - `publications/ina-muzhakkam/transcription-intake/scans-0001-0020.md`
 - `publications/ina-muzhakkam/transcription-intake/scans-0021-0040.md`
 - `publications/ina-muzhakkam/transcription-intake/scans-0041-0050.md`
@@ -221,7 +222,34 @@ P3 checks:
 - lexical normalisation introduced: **0**;
 - P3 blockers: **0**.
 
-Known source/baseline points deliberately deferred rather than silently rewritten include the cover-author witness and scan-50 catalogue lexical/number differences or omissions. These remain for explicit audit/fidelity classification.
+## P4 durable result — PASS / COMPLETE
+
+Audit record: `publications/ina-muzhakkam/SOURCE_COMPLETENESS_AUDIT.md`.
+
+P4 audited the full canonical P2 layer and all six P3 assemblies and confirmed:
+
+- physical scans represented by canonical P2 records: **50 / 50 PASS**;
+- contents-listed P3 assemblies: **6 / 6 present exactly once**;
+- source-supported start/end boundaries: **6 / 6 PASS**;
+- page-to-page continuations and provenance comments: **PASS**;
+- scan-10 `விசயர்` placement: **PASS**;
+- scan-24 and scan-37 promotional matter excluded from article bodies: **PASS**;
+- scan-40 `கவிதைகளைப் பற்றி` / `மதிப்புரை` excluded from `கவிதைகள்`: **PASS**;
+- scan-50 catalogue excluded from all body assemblies: **PASS**;
+- poetry headings and verse lineation: **PASS**;
+- contents-page start-number witnesses kept distinct from directly visible body numerals: **PASS**;
+- physical-copy marks imported into printed/body text: **0**;
+- silent lexical normalisations introduced during P2/P3: **0**;
+- P4 `needs-review` items: **0**;
+- P4 blocked items: **0**;
+- unresolved body-completeness blockers: **0**.
+
+Deferred for explicit P5 source-fidelity classification rather than silent correction:
+
+1. **cover-author witness** — visible scan witness `மு. கருணாநிதி` versus supplied lexical baseline `கலைஞர் கருணாநிதி`;
+2. **scan-50 catalogue** — documented lexical/number differences or omissions, including `அழகு நிலா` / `செல்வ குமாரி` price forms and the missing `நாடறிந்த நட்சத்திரங்கள்` price.
+
+These are not P4 completeness blockers. They must be checked and classified explicitly during P5 under the user-established lexical rule.
 
 ## Tamil archival status
 
@@ -230,14 +258,14 @@ Known source/baseline points deliberately deferred rather than silently rewritte
 - full supplied transcription structural reassembly: **COMPLETE / STAGING**
 - P2 canonical page records: **50 / 50 VERIFIED / COMPLETE**
 - P3 article/section assemblies: **6 / 6 COMPLETE / VERIFIED AGAINST P2**
-- P4 source/completeness audit: **NOT STARTED**
+- P4 source/completeness audit: **PASS / COMPLETE**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
 - blocked body readings: **0 known**
 
 ## English translation status
 
 - English translation: **NOT STARTED**
-- prerequisite: complete/freeze Tamil P4–P5 first
+- prerequisite: complete/freeze Tamil P5 first
 
 ## Non-regression
 
@@ -250,7 +278,8 @@ Known source/baseline points deliberately deferred rather than silently rewritte
 - keep promotions/catalogue outside the five prose article bodies and poetry body;
 - preserve poem headings and source lineation;
 - preserve scan 40 as poetry front matter, outside the `கவிதைகள்` assembly;
-- if scan pixels conflict lexically with the baseline, document the conflict and follow the publication-specific rule rather than silently substituting.
+- if scan pixels conflict lexically with the baseline, document the conflict and follow the publication-specific rule rather than silently substituting;
+- preserve the P4 classification of the cover-author and scan-50 catalogue issues as deferred P5 fidelity items, not completeness blockers.
 
 ## Current blockers
 
@@ -260,26 +289,26 @@ Known source/baseline points deliberately deferred rather than silently rewritte
 
 # Exact next activity
 
-Proceed with **P4 source/completeness audit** only.
+Proceed with **P5 strict visual word/punctuation fidelity** over all **50 physical scans**.
 
-Audit the completed canonical P2 layer and all six P3 assemblies for:
+P5 must:
 
-1. all **50 / 50** physical scans represented in the canonical page layer;
-2. all six contents-listed body units present exactly once in `articles/`;
-3. each assembly start/end boundary agreeing with the P2 page map;
-4. every page-boundary continuation represented in the correct order;
-5. scan-10 `விசயர்` placement retained exactly;
-6. scan-24 and scan-37 promotions excluded from article bodies;
-7. scan-40 author/review front matter excluded from `கவிதைகள்`;
-8. scan-50 catalogue excluded from all body assemblies;
-9. every poetry heading and verse-line structure retained from P2;
-10. contents-page start-number witnesses kept separate from directly visible body numerals;
-11. no physical-copy marks imported into printed/body text;
-12. no silent lexical normalisation introduced during P2/P3;
-13. all known deferred source/baseline lexical or number disagreements classified and recorded for P5 without silently changing the lexical baseline;
-14. blocked/needs-review counts and publication completeness result explicitly recorded.
+1. directly re-check every physical scan, including cover, front matter, contents, all body pages, promotions, poetry front matter and catalogue;
+2. compare every visible printed word, word boundary, punctuation mark, quotation mark, heading, date, number, paragraph continuation and source witness against the canonical page record;
+3. preserve the user-supplied lexical baseline and **not silently substitute alternate scan-appearing lexical tokens**;
+4. explicitly classify every scan/baseline lexical disagreement found;
+5. retain scan-10 `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...` exactly;
+6. explicitly inspect and classify the deferred cover-author witness;
+7. explicitly inspect and classify the deferred scan-50 catalogue lexical/number differences and omissions;
+8. re-confirm scan-24/37 promotion boundaries, scan-40 poetry-front-matter boundary and scan-50 body exclusion;
+9. preserve all poetry headings and verse lineation;
+10. record every P5 source-supported structural/punctuation/spacing correction with old reading → source-visible reading provenance;
+11. propagate every P5 correction to affected page records, P3 assemblies, indexes and documentation;
+12. create/update `publications/ina-muzhakkam/VISUAL_TEXT_FIDELITY_REVIEW.md` with physical scans checked, corrections, source/baseline conflicts, blocked/needs-review counts and final result;
+13. recheck all six P3 assemblies against the P5-corrected page layer before freezing Tamil;
+14. mark P5 complete/freeze Tamil only when all 50 scans and all six assemblies pass with no unresolved body-text blocker.
 
-Update the publication README/metadata/indexes and root handover after P4. **Stop after P4; do not begin P5 in the same activity.**
+**Stop after P5. Do not begin English translation in the same activity.**
 
 ## Current blockers
 
