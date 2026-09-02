@@ -11,8 +11,8 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | PASS | NEXT | — | — | — | — |
+| 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | PASS | PASS | PASS | PASS | PASS | PASS |
+| 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | PASS | **PASS** | NEXT | — | — | — |
 | 6 | `கவிதைகள்` | `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` | PASS | — | — | — | — | — |
 
 Tamil blockers: **0**. English blockers: **0**.
@@ -145,10 +145,38 @@ T5 result: **PASS / VERIFIED**. Article 4 is individually frozen.
 
 ---
 
-## 5. ஆரியம் பேசுகிறது
+## 5. ஆரியம் பேசுகிறது — T1 COMPLETE / CLOSE DRAFT
 
-- Tamil blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
-- T0 PASS; **T1 NEXT**; T2–T5 not started.
+- Tamil source blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
+- English file: `translations/en/05-aariyam-pesugirathu.md`
+- working English title: **Aryanism Speaks**
+- T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
+- status: `draft`
+- source comments: **2 / 2 preserved in order** for scans 38–39
+- scan-38→39 trace: `Kula— / chirai`
+- Tamil source changes: **0**
+- blockers: **0**
+
+### Article 5 T1 source basis
+
+T1 re-fetched and confirmed frozen Tamil authority `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`. The complete article was translated paragraph by paragraph from that frozen assembly only. No OCR, raw transcript, scan-alternate lexical reading, later edition, web text or outside mythological/historical identification was used as translation authority.
+
+### Article 5 T1 source-bearing decisions
+
+- title `ஆரியம் பேசுகிறது` → **Aryanism Speaks**; recurring `ஆரியம்` → **Aryanism**;
+- `இரணியன் / பிரகலாதன்` → **Hiraniyan / Pragalathan**;
+- `இராவணன் / விபீஷணன் / வாலி / சுக்ரீவன்` → **Ravanan / Vibheeshanan / Vali / Sugrivan**;
+- `வாலிவதைப் படலம்` → **the chapter of Vali's slaying**;
+- `கோடாரிக் காம்பு` → **axe-handle**; `குலச் சிறை` → **Kulachirai**, with scan-38→39 represented as `Kula— / chirai`;
+- recurring `காந்தியார் / கோட்சே` → verified **Gandhiyar / Gotse**;
+- `ஓமாந்தூரார்` → **Omaanthooraar**, without outside identification;
+- quoted `ஆரியத்துக்கு எதிர்ப்பா?` → **“Opposition to Aryanism?”**;
+- `கறுப்புப் படை` → **Black Army**, without outside expansion;
+- closing `விபீஷண சுக்ரீவர்` → **Vibheeshanans and Sugrivans**; `உங்கள் இனம்` → **your race**.
+
+T1 preserved both ordered source comments and the physical `Kula— / chirai` boundary. T2 has not been performed.
+
+---
 
 ## 6. கவிதைகள்
 
@@ -158,4 +186,4 @@ T5 result: **PASS / VERIFIED**. Article 4 is individually frozen.
 
 ## Exact next activity
 
-**Article 5 `ஆரியம் பேசுகிறது` — T1 close English draft only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`; translate the complete article paragraph by paragraph from the frozen Tamil authority, preserving directness, quotation status, source comments, page trace and source-bearing forms; create/update the Article-5 English draft and record T1 provenance across durable records; **stop before Article 5 T2**.
+**Article 5 `ஆரியம் பேசுகிறது` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and T1 English blob `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`; compare the complete draft paragraph by paragraph for omitted meaning, added claims, names/referents, negatives, comparisons, causal relations, quotation scope and page provenance; preserve both source comments and `Kula— / chirai`; make T2 fidelity corrections only and **stop before Article 5 T3**.
