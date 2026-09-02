@@ -58,7 +58,7 @@ After all six reach T5:
 
 - E0 planning/setup: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **0 / 6**
+- T1: **1 / 6 PASS**
 - T2: **0 / 6**
 - T3: **0 / 6**
 - T4: **0 / 6**
@@ -66,6 +66,19 @@ After all six reach T5:
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - blockers: **0**
+
+## Article 1 — T1 COMPLETE / PASS
+
+- Tamil authority: `articles/01-ina-muzhakkam.md`
+- frozen Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
+- English file: `translations/en/01-ina-muzhakkam.md`
+- working English title: **The Clarion Call of the Race**
+- T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
+- translation status: `draft`
+- source-page comments: **8 / 8 preserved in order**
+- blockers: **0**
+
+T1 established the first contextual lexicon decisions for `இன முழக்கம்`, explicit `திராவிட இனம்` / `ஆரிய இனம்`, `திராவிடன்`, `சுயமரியாதைக்காரன்`, repeated `தமிழன்`, `கிராமணியார்`, frozen `கனக விசயர்`, `பாரிவள்ளல்`, and `அருட்பெருஞ் சோதி`. These are working T1 decisions and remain subject to T2–T5 review.
 
 ## Publication-specific translation constraints
 
@@ -88,7 +101,7 @@ The non-body scan-50 numeric/author conflicts are not translation inputs because
 
 ## Title policy
 
-English titles are **not pre-frozen at E0**. Establish each title during its T1 activity from the frozen Tamil title and record it in the living lexicon/review ledger. Do not harmonise titles merely for stylistic symmetry.
+English titles are established during each article's T1 activity from the frozen Tamil title. Article 1 working title is **The Clarion Call of the Race** and is not release-frozen until T5.
 
 ## Article order
 
@@ -103,6 +116,6 @@ Translation proceeds in source order:
 
 ## Exact next activity
 
-**Article 1 — `இன முழக்கம்` — T1 close English draft only.**
+**Article 1 — `இன முழக்கம்` — T2 bilingual fidelity review only.**
 
-Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`, establish the working English title and first-article lexicon decisions, translate the complete unit with source-page comments, update tracker/lexicon/review/handover, then **stop before T2**.
+Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T1 English blob `b3022e69387662584064d51133e24f4f97e976b2`, compare every paragraph/clause and all eight source-page comments, correct only fidelity defects, update tracker/lexicon/review/handover, then **stop before T3**.
