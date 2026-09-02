@@ -7,14 +7,14 @@ Permanent rule: **Translate the language; do not neutralise the voice.**
 | Tamil / source form | Preferred English | Context / exception | First established | Status |
 |---|---|---|---|---|
 | `இன முழக்கம்` | **The Clarion Call of the Race**; contextual **the clarion call of the race** | Article 1 verified title; Article 2 closing reuses it. | Article 1 T1 | T5 VERIFIED |
-| `இனம்` | **race** where the source explicitly makes the Dravidian/Aryan contrast | Do not neutralise to `community`; Article 5 closing `உங்கள் இனம்` is **your race**. | Article 1 T1 | T5 VERIFIED / A5 T1 DRAFT |
+| `இனம்` | **race** where the source explicitly makes the Dravidian/Aryan contrast | Do not neutralise to `community`; Article 5 closing `உங்கள் இனம்` is **your race**. | Article 1 T1 | T5 VERIFIED / A5 T2 FIDELITY-REVIEWED |
 | `திராவிடன்` / `திராவிட இனம்` | **Dravidian / Dravidian race** | Article 3 direct-address `திராவிடனே / திராவிடா` keeps **Dravidian**. | Article 1 T1 | T5 VERIFIED / A3 T5 VERIFIED |
 | `திராவிடர்` | **Dravidians** | Article 2 plural identity claim; Article 4 collective/direct address. | Article 2 T1 | T5 VERIFIED / A4 T5 VERIFIED |
 | `தமிழினம்` | **Tamil race** | Article 3 ideological contrast. | Article 3 T1 | A3 T5 VERIFIED |
 | `தமிழன்` | **Tamilian** | Preserve repeated rhetorical noun. | Article 1 T1 | T5 VERIFIED / A3 T5 VERIFIED |
 | `ஆரிய இனம்` | **Aryan race** | Article 1. | Article 1 T1 | T5 VERIFIED |
 | `ஆரியர்` | **Aryans / an Aryan** contextually | Preserve source singular/plural and rhetorical contrast. | Article 2 T1 | T5 VERIFIED / A3 T5 VERIFIED |
-| `ஆரியம்` | **Aryanism** | Abstract ideological agent; Article 5 personifies it in first person. | Article 3 T1 | A3 T5 VERIFIED / A5 T1 DRAFT |
+| `ஆரியம்` | **Aryanism** | Abstract ideological agent; Article 5 personifies it in first person. | Article 3 T1 | A3 T5 VERIFIED / A5 T2 FIDELITY-REVIEWED |
 | `சுயமரியாதைக்காரன்` | **Self-Respecter** | Article 1. | Article 1 T1 | T5 VERIFIED |
 | incomplete `சுயமரியாதைக் ....` | **Self-Respect ....** | Do not guess missing source wording. | Article 1 T1 | SOURCE-SENSITIVE / T5 VERIFIED |
 | incomplete `அளித் ....` | **giv....** | Article 1 source-incomplete verb. | Article 1 T2 | SOURCE-SENSITIVE / T5 VERIFIED |
@@ -63,7 +63,7 @@ Permanent rule: **Translate the language; do not neutralise the voice.**
 | `உயிர்நிலை` | **seat of life** | External-life/vital-seat image tied to Mayil Ravanan analogy and later sword image; T2 corrects T1 `lifeline`. | Article 4 T2 | A4 T5 VERIFIED |
 | `திராவிடர் கழகம்` | **Dravidar Kazhagam** | Organization name; no outside expansion. | Article 4 T1 | SOURCE-BEARING / A4 T5 VERIFIED |
 | `காங்கிரஸ் காரியக் கமிட்டி` | **Congress Working Committee** | Article 4. | Article 4 T1 | A4 T5 VERIFIED |
-| `காந்தியார்` / `காந்திஜீ` / emphatic `காந்தி` | **Gandhiyar / Gandhiji / Gandhi** | Preserve Article-4 source-form distinctions; Article 5 recurs with **Gandhiyar**. | Article 4 T1 | SOURCE-WITNESS / A4 T5 VERIFIED / A5 T1 DRAFT |
+| `காந்தியார்` / `காந்திஜீ` / emphatic `காந்தி` | **Gandhiyar / Gandhiji / Gandhi** | Preserve Article-4 source-form distinctions; Article 5 recurs with **Gandhiyar**. | Article 4 T1 | SOURCE-WITNESS / A4 T5 VERIFIED / A5 T2 FIDELITY-REVIEWED |
 | `பார்ப்பனீயம்` / `பார்ப்பனியம்` | **Brahminism** | Frozen Tamil has two spellings; English semantic rendering is the same, but the source distinction remains documented. | Article 4 T1 | SOURCE-WITNESS / A4 T5 VERIFIED |
 | `பிராமண சேவா சங்கங்கள்` | **Brahmin Seva Associations** | Source-bearing organization label; no outside identification. | Article 4 T1 | A4 T5 VERIFIED |
 | `அக்கிரகாரம்` | **agraharam** | Article 4 source-cultural place term; retained rather than generalized. | Article 4 T4 | SOURCE-BEARING / A4 T5 VERIFIED |
@@ -71,23 +71,25 @@ Permanent rule: **Translate the language; do not neutralise the voice.**
 | `மயில் ராவணன்` | **Mayil Ravanan** | Puranic source label; no outside identification. | Article 4 T1 | SOURCE-BEARING / A4 T5 VERIFIED |
 | `ஜோதி` / `அருட் சோதி` | **Jothi / Arut Sothi** | Preserve Article-4 source forms; do not import Article-1 `Arutperum Jothi`. | Article 4 T1 | SOURCE-WITNESS / A4 T5 VERIFIED |
 | `ரத்த அபிஷேகம்` | **blood abhishekam** | Preserve the source ritual term inside quotation marks; no explanatory expansion. | Article 4 T4 | SOURCE-BEARING / A4 T5 VERIFIED |
-| `கோட்சே` | **Gotse** | Source-bearing transliteration; no outside normalization/identification; reused in Article 5. | Article 4 T1 | SOURCE-BEARING / A4 T5 VERIFIED / A5 T1 DRAFT |
+| `கோட்சே` | **Gotse** | Source-bearing transliteration; no outside normalization/identification; reused in Article 5. | Article 4 T1 | SOURCE-BEARING / A4 T5 VERIFIED / A5 T2 FIDELITY-REVIEWED |
 | `வர்ணாஸ்ரமம்` | **Varnashrama** | Source-bearing treatment. | Article 4 T1 | A4 T5 VERIFIED |
 | `அகிம்ஸை` / `சத்திய` | **ahimsa / satya** | Preserve source concepts without expansion. | Article 4 T1 | A4 T5 VERIFIED |
 | Article-4 `சொர்க்கலோகம்` | **heavenly realm** | Same meaning as Article-2 verified form, though Article 4 is written as a compound. | Article 4 T1 | A4 T5 VERIFIED |
 | `புஷ்ப விமானம்` | **Pushpa Vimanam** | Source-bearing vehicle label; no outside identification. | Article 4 T1 | SOURCE-BEARING / A4 T5 VERIFIED |
 | `பறையன் / பள்ளன் / பார்ப்பனன்` | **Paraiyan / Pallan / Brahmin** | Preserve caste/source labels and contrast. | Article 4 T1 | A4 T5 VERIFIED |
 | `நந்தன் / இராமலிங்கர் / வள்ளலார் / திருஞானசம்பந்தர்` | **Nandan / Ramalingar / Vallalar / Thirugnanasambandar** | Preserve source forms without outside identification. | Article 4 T1 | SOURCE-BEARING / A4 T5 VERIFIED |
-| title `ஆரியம் பேசுகிறது` | **Aryanism Speaks** | Article 5 personifies Aryanism in a first-person boast. | Article 5 T1 | A5 T1 DRAFT |
-| `இரணியன் / பிரகலாதன்` | **Hiraniyan / Pragalathan** | Preserve Article-5 source forms; no outside normalization. | Article 5 T1 | SOURCE-BEARING / A5 T1 DRAFT |
-| `இராவணன் / விபீஷணன் / வாலி / சுக்ரீவன்` | **Ravanan / Vibheeshanan / Vali / Sugrivan** | Preserve Article-5 source forms; no outside identification. | Article 5 T1 | SOURCE-BEARING / A5 T1 DRAFT |
-| `வாலிவதைப் படலம்` | **the chapter of Vali's slaying** | Retain the source's chapter/episode framing. | Article 5 T1 | A5 T1 DRAFT |
-| `கோடாரிக் காம்பு` | **axe-handle** | Preserve source metaphor; do not explain it from outside knowledge. | Article 5 T1 | SOURCE-BEARING / A5 T1 DRAFT |
-| `குலச் சிறை` | **Kulachirai** | Source name; physical scan-38→39 boundary represented as `Kula— / chirai`. | Article 5 T1 | SOURCE-WITNESS / A5 T1 DRAFT |
-| `ஓமாந்தூரார்` | **Omaanthooraar** | Preserve source form without outside identification. | Article 5 T1 | SOURCE-BEARING / A5 T1 DRAFT |
-| quoted `ஆரியத்துக்கு எதிர்ப்பா?` | **“Opposition to Aryanism?”** | Preserve source quotation scope and interrogative force. | Article 5 T1 | A5 T1 DRAFT |
-| `கறுப்புப் படை` | **Black Army** | Preserve source label without outside expansion/identification. | Article 5 T1 | SOURCE-BEARING / A5 T1 DRAFT |
-| closing `விபீஷண சுக்ரீவர்` | **Vibheeshanans and Sugrivans** | Preserve the source's pluralized name-labels. | Article 5 T1 | SOURCE-BEARING / A5 T1 DRAFT |
+| title `ஆரியம் பேசுகிறது` | **Aryanism Speaks** | Article 5 personifies Aryanism in a first-person boast. | Article 5 T1 | A5 T2 FIDELITY-REVIEWED |
+| `இரணியன் / பிரகலாதன்` | **Hiraniyan / Pragalathan** | Preserve Article-5 source forms; no outside normalization. | Article 5 T1 | SOURCE-BEARING / A5 T2 FIDELITY-REVIEWED |
+| `இராவணன் / விபீஷணன் / வாலி / சுக்ரீவன்` | **Ravanan / Vibheeshanan / Vali / Sugrivan** | Preserve Article-5 source forms; no outside identification. | Article 5 T1 | SOURCE-BEARING / A5 T2 FIDELITY-REVIEWED |
+| `வாலிவதைப் படலம்` | **the chapter of Vali's slaying** | Retain the source's chapter/episode framing. | Article 5 T1 | A5 T2 FIDELITY-REVIEWED |
+| `கோடாரிக் காம்பு` | **axe-handle** | Preserve source metaphor; do not explain it from outside knowledge. | Article 5 T1 | SOURCE-BEARING / A5 T2 FIDELITY-REVIEWED |
+| `குலச் சிறை` | **Kulachirai** | Source name; physical scan-38→39 boundary represented as `Kula— / chirai`. | Article 5 T1 | SOURCE-WITNESS / A5 T2 FIDELITY-REVIEWED |
+| `அவனிடத்தில் ஆசை வலை விரித்தேன்` | **I cast a net of desire around him** | T2 replaces T1 **for him**, which could imply the speaker's desire rather than entrapment. | Article 5 T2 | A5 T2 FIDELITY-REVIEWED |
+| `ஓமாந்தூரார்` | **Omaanthooraar** | Preserve source form without outside identification. | Article 5 T1 | SOURCE-BEARING / A5 T2 FIDELITY-REVIEWED |
+| `அதட்டிக் கேட்டேன்` | **I demanded of Omaanthooraar** | T2 removes T1's added animal metaphor **barked at** while retaining harsh questioning. | Article 5 T2 | A5 T2 FIDELITY-REVIEWED |
+| quoted `ஆரியத்துக்கு எதிர்ப்பா?` | **“Opposition to Aryanism?”** | Preserve source quotation scope and interrogative force. | Article 5 T1 | A5 T2 FIDELITY-REVIEWED |
+| `கறுப்புப் படை` | **Black Army** | Preserve source label without outside expansion/identification. | Article 5 T1 | SOURCE-BEARING / A5 T2 FIDELITY-REVIEWED |
+| closing `விபீஷண சுக்ரீவர்` | **Vibheeshanans and Sugrivans** | Preserve the source's pluralized name-labels. | Article 5 T1 | SOURCE-BEARING / A5 T2 FIDELITY-REVIEWED |
 | `கவிதைகள்` | title TBD at Article 6 T1 | Preserve headings and lineation. | E0 | OPEN |
 
 ## Verified boundaries
@@ -152,13 +154,16 @@ T4 findings after correction: terminology defects **0**; source-witness defects 
 
 T5 reread the T4 audited English against frozen Tamil and all prior Article-4 decisions. No final body correction was required. The verified English blob is `46627c3cecfd186e1735d8766ddda27414118e62`. The T4 quotation-scope correction, all four T2 fidelity corrections, all ten T3 voice/style corrections, all Article-4 preferred forms, all **8 / 8** source comments and all four page traces are frozen as verified.
 
-## Article 5 T1 close-draft decisions
+## Article 5 T2 fidelity decisions
 
-T1 re-fetched frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and created English draft blob `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`.
+T2 re-fetched frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and T1 English blob `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`. The fidelity-reviewed English blob is `508639503ab830e83d8cac547476c83d26a8494f`.
 
-The working title is **Aryanism Speaks**. T1 establishes source-bearing **Hiraniyan / Pragalathan**, **Ravanan / Vibheeshanan / Vali / Sugrivan**, **the chapter of Vali's slaying**, literal metaphor **axe-handle**, source name **Kulachirai**, recurring verified **Gandhiyar / Gotse**, **Omaanthooraar**, quoted **“Opposition to Aryanism?”**, **Black Army**, and closing plural **Vibheeshanans and Sugrivans / your race**. Both source-page comments are preserved, with scan-38→39 represented as `Kula— / chirai`.
+Two fidelity corrections were made:
 
-These are T1 working decisions only and remain open to T2 bilingual fidelity correction.
+1. `அவனிடத்தில் ஆசை வலை விரித்தேன்.` — **I spread a net of desire for him.** → **I cast a net of desire around him.**, preserving the entrapment image without implying the speaker's desire.
+2. `ஓமாந்தூராரை அதட்டிக் கேட்டேன்` — **I barked at Omaanthooraar** → **I demanded of Omaanthooraar**, removing an added animal metaphor while preserving forceful questioning.
+
+T2 confirmed **Aryanism Speaks**, **Hiraniyan / Pragalathan**, **Ravanan / Vibheeshanan / Vali / Sugrivan**, **the chapter of Vali's slaying**, **axe-handle / Kulachirai**, recurring verified **Gandhiyar / Gotse**, **Omaanthooraar**, quoted **“Opposition to Aryanism?”**, **Black Army**, and closing **Vibheeshanans and Sugrivans / your race**. Both source comments and scan-38→39 `Kula— / chirai` remain intact. After correction there are no unresolved fidelity defects or blockers.
 
 ## Frozen Tamil anomaly/conflict rule
 
@@ -174,4 +179,4 @@ Scan-24 and scan-37 promotions, scan-40 `கவிதைகளைப் பற�
 
 ## Next lexicon activity
 
-During **Article 5 `ஆரியம் பேசுகிறது` T2**, audit the T1 Article-5 forms against frozen Tamil for exact meaning, names/referents, quotation scope and page provenance. Preserve both source comments and `Kula— / chirai`; make fidelity corrections only and stop before T3.
+During **Article 5 `ஆரியம் பேசுகிறது` T3**, review the fidelity-reviewed English for Kalaignar's first-person personification, mockery, rhetorical questions, abrupt contrasts, physical imagery and boastful cadence. Preserve both T2 corrections, both source comments, `Kula— / chirai`, quotation scope and all source-bearing forms; make voice/style-only corrections and stop before T4.
