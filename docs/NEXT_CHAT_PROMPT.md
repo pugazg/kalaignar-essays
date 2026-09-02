@@ -20,7 +20,7 @@ Controlling source:
 
 Fetch live `main` first. The last confirmed durable state before this prompt synchronization includes:
 
-`76fd0b54bd03f6a06822cd12f0862b680e7524d3` — `Add Ina Muzhakkam active publication to root README`
+`03c3ab85a69fbabde663f1189bd83c71a4e720fa` — `Record Ina Muzhakkam Visayar placement correction in handover`
 
 If `main` has advanced, preserve the newer durable state. **Do not reset, overwrite, repeat or reopen later completed work merely because this prompt records an older checkpoint.**
 
@@ -40,7 +40,7 @@ Read completely before changing anything:
 8. `publications/ina-muzhakkam/indexes/contents.md`
 9. `publications/ina-muzhakkam/indexes/page-map.md`
 10. `publications/ina-muzhakkam/STRUCTURAL_REASSEMBLY_REVIEW.md`
-11. all three files under `publications/ina-muzhakkam/transcription-intake/`
+11. all staging files under `publications/ina-muzhakkam/transcription-intake/`, including `USER_CORRECTIONS.md`
 
 ## Publication-specific user rule
 
@@ -80,7 +80,8 @@ Important structural decisions already established:
 - non-source stamps/handwriting/OCR garbage excluded from printed text;
 - edition/date/price belong to scan 3;
 - source speaker labels and ornaments restored in `இன முழக்கம்`;
-- stray `விசயர்` and scan-22 trailing `2` removed;
+- **scan 10 `விசயர்` correction:** it is a misplaced supplied word, not noise. Retain it after `கர்வத்தால் கனத்துப்போன கனக`, yielding `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`; the earlier removal decision is superseded;
+- scan-22 trailing `2` removed;
 - scan-24 and scan-37 promotional matter kept outside article bodies;
 - `பழிக்குப் பழி` final lines belong on scan 37, not scan 36;
 - scan 40 is poetry introductory/review matter;
@@ -98,10 +99,11 @@ For each scan:
 1. inspect the controlling PDF directly;
 2. create one `pages/` Markdown record;
 3. separate `# அச்சு உரை` from `## அச்சு அல்லாத / physical-copy marks`;
-4. preserve the user lexical baseline while carrying forward the established structural corrections;
-5. record a printed page numeral only when directly visible;
-6. record page-to-page continuation and article/promotion boundaries in audit notes;
-7. update page-map/README/root handover after the batch;
-8. **stop after scans 1–25 P2** — do not begin P3 assemblies in the same activity.
+4. preserve the user lexical baseline while carrying forward the established structural corrections and `USER_CORRECTIONS.md` overrides;
+5. on scan 10, preserve the exact corrected sequence `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
+6. record a printed page numeral only when directly visible;
+7. record page-to-page continuation and article/promotion boundaries in audit notes;
+8. update page-map/README/root handover after the batch;
+9. **stop after scans 1–25 P2** — do not begin P3 assemblies in the same activity.
 
 Publications 1–4 remain **COMPLETE / FROZEN / RELEASED** and must not be reopened absent a genuine source-supported or release-blocking defect.
