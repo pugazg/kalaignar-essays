@@ -9,7 +9,7 @@ source_scan_pages: "6-13"
 source_printed_pages: "contents witness start 4; scan 6 numeral not visible; scans 7-13 visibly 6-12"
 language: "en"
 translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 1 T3 Kalaignar voice review complete"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 1 T4 terminology / quotation / citation / source audit complete"
 ---
 
 # The Clarion Call of the Race
