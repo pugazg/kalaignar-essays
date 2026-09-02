@@ -8,7 +8,7 @@ page_type: "poetry-page"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-transcription_method: "user lexical baseline retained; poem continuation/heading and source lineation directly verified against source scan"
+transcription_method: "user lexical baseline retained; P5 continuation, heading, source lineation and lexical-witness conflicts directly verified against source scan"
 ---
 
 # அச்சு உரை
@@ -17,15 +17,16 @@ transcription_method: "user lexical baseline retained; poem continuation/heading
 முத்தமிழில் தீட்டித் தந்தார்  
 முதுகெலும்பு வளைந்ததாலே!
 
-“மலை வந்தெதிர்த்த போதும் கற்புக்குலையோம்” என  
-வீரமொழி பேசும் பெண்டீர்!  
+“மலை வந்தெதிர்த்த போதும் கற்புக்  
+குலையோம்” என வீரமொழி  
+பேசும் பெண்டீர்!  
 மேற்சொன்ன பெண்களெல்லாம்  
 தெய்வமென்றால்  
 ஏற்பாரோ மனமுள்ளார் உங்கள் பேச்சை.
 
 # சைவரே!
 
-எறிபத்தர் எதிரிகளை மழுவால் வதைத்தார்!  
+ஏறிபத்தர் எதிரிகளை மழுவால் வதைத்தார்!  
 முறிபட்டார் தாய்தந்தை மனைவி மக்கள்,  
 கோட்புலியால்!  
 நிலைக்களமாம் அன்புக்குச்  
@@ -49,8 +50,13 @@ transcription_method: "user lexical baseline retained; poem continuation/heading
 ## Audit note
 
 - Printed page numeral `41` is directly visible.
-- Opening lines continue `ஏற்றமே!` from scan 41.
+- Opening lines continue `ஏற்பரோ!` from scan 41.
 - `சைவரே!` begins on this scan.
 - `வா!` does **not** belong here; it begins scan 43.
+- **P5 scan 42 PASS:** source lineation was restored while preserving the user-supplied lexical baseline.
+- The source splits `கற்புக்குலையோம்` across lines as `கற்புக்` / `குலையோம்`; this structural word-break is retained without changing the lexical reading.
+- Lexical witness conflict retained, not silently normalised: supplied baseline `மனமுள்ளார்`; scan appears `மனமுள்ளர்`.
+- Lexical witness conflict retained, not silently normalised: supplied baseline `ஏறிபத்தர்`; scan appears `எறிபத்தர்`.
+- Lexical scan/baseline disagreements on scan 42: **2**, both resolved by retaining the user-supplied lexical baseline under the publication-specific rule.
 
 <!-- மூல ஸ்கேன் பக்கம்: 42; அச்சுப் பக்கம்: 41 -->
