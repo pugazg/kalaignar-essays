@@ -35,7 +35,7 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
 - T1: **4 / 6 PASS**
-- T2: **3 / 6 PASS**
+- T2: **4 / 6 PASS**
 - T3: **3 / 6 PASS**
 - T4: **3 / 6 PASS**
 - T5: **3 / 6 PASS**
@@ -62,21 +62,25 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 
 All three are individually frozen and must not be reopened without a genuine source-supported defect.
 
-## English Article 4 — T1 COMPLETE / DRAFT
+## English Article 4 — T2 COMPLETE / FIDELITY-REVIEWED
 
 - title: **Revenge for Revenge**
 - file: `translations/en/04-pazhikku-pazhi.md`
 - Tamil blob: `e140df7f6234e8362b9139793706533fec0c62d8`
 - T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
-- status: `draft`
+- T2 English blob: `da8969239016948ff2330ecfca6a0963762db95c`
+- status: `fidelity-reviewed`
 - source comments: **8 / 8 preserved in order**
 - scan-31→32: `its / taproot`
 - scan-34→35: `would have / taken him away`
 - scan-35→36: `three / bullets`
 - scan-36→37: `revenge for / revenge`
+- T2 fidelity corrections: **4**
 - blockers: **0**
 
-T1 establishes the working title **Revenge for Revenge** and working/source-bearing treatments including **communalism / communal division**, **Dravidar Kazhagam**, **Congress Working Committee**, **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, **Gotse**, **Varnashrama**, **ahimsa / satya**, **Pushpa Vimanam**, **heavenly realm**, **Paraiyan / Pallan / Brahmin**, and the source names **Nandan / Ramalingar / Vallalar / Thirugnanasambandar**. T1 uses frozen Tamil only; T2 has not been performed.
+T2 preserves the T1 source-bearing set: **communalism / communal division**, **Dravidar Kazhagam**, **Congress Working Committee**, **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, **Gotse**, **Varnashrama**, **ahimsa / satya**, **Pushpa Vimanam**, **heavenly realm**, **Paraiyan / Pallan / Brahmin**, and **Nandan / Ramalingar / Vallalar / Thirugnanasambandar**.
+
+Four fidelity corrections were made: the opening Congress quotation now reads **the eradication of communalism in which complete success could not be achieved**; all three `உயிர்நிலை` occurrences use **seat of life** instead of **lifeline**; the `வகுப்பு ... வாதம்` causal sentence now uses **communalism disappears** instead of generic **the doctrine disappears**; and the Pakistan sentence now reads **the partitioning off of Pakistan itself is proof**. No omitted clauses, unresolved referents, quotation defects, source-comment defects or page-trace defects remain at T2.
 
 ## Permanent non-regression
 
@@ -102,4 +106,4 @@ T1 establishes the working title **Revenge for Revenge** and working/source-bear
 
 ## Exact next activity
 
-**Article 4 `பழிக்குப் பழி` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8` and T1 English blob `7040c4f488c9c2fdb5712cac826445969a5c230b`; compare every paragraph/clause for completeness, meaning, source-bearing forms, logical relations, quotation scope and direct rhetorical action; verify all **8 / 8** source comments and all four page traces; make fidelity corrections only and **stop before Article 4 T3**.
+**Article 4 `பழிக்குப் பழி` — T3 Kalaignar voice review only.** Re-fetch frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8` and T2 English blob `da8969239016948ff2330ecfca6a0963762db95c`; review directness, accusation, repetition, rhetorical questions, religious/political polemic, imagery and source-bearing oddities; preserve all four T2 corrections, all **8 / 8** source comments and all four page traces; make voice/style corrections only and **stop before Article 4 T4**.
