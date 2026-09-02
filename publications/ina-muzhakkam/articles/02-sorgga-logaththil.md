@@ -4,10 +4,10 @@ article_number: 2
 title_ta: "சொர்க்க லோகத்தில்"
 scan_pages: "14-24"
 printed_pages: "contents witness start 13; scan 14 numeral not visible; scans 15-24 visibly 14-23"
-status: "verified"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-assembly_method: "concatenated from verified canonical P2 page records; scan-24 promotion excluded; user lexical baseline retained; page-boundary provenance preserved"
+assembly_method: "concatenated from verified canonical page records; P5 page-boundary and punctuation corrections propagated; scan-24 promotion excluded; user lexical baseline retained; page-boundary provenance preserved"
 ---
 
 # சொர்க்க லோகத்தில்
@@ -122,11 +122,9 @@ assembly_method: "concatenated from verified canonical P2 page records; scan-24 
 
 உனக்கா சொர்க்கவாசல் திறந்தது என்று கேட்கிறீர்களா? ஆமாம்; எனக்குத்தான் சொர்க்கம் சுலபத்தில் வழிவிட்டது. ‘அரகர மகாதேவா’ என்றேன்; அம்மையை அணைத்தபடி அப்பன், ரிடபவாகன ரூடராய் அருள்மழை பொழிந்தார். ஆனந்தமாக சொர்க்க பூமிக்கு வந்துவிட்டேன்.”
 
-நாயன்மார்கள்
-
 <!-- scan 22 / printed 21 -->
 
-ஸ்தம்பித்து விட்டார்கள்.
+நாயன்மார்கள் ஸ்தம்பித்து விட்டார்கள்.
 
 காரைக்காலம்மை “இது உண்மையா?” என்றார்.
 
@@ -154,7 +152,7 @@ assembly_method: "concatenated from verified canonical P2 page records; scan-24 
 
 <!-- scan 24 / printed 23 -->
 
-என் தூக்கம் கலைந்தது. காமராஜர் - கிராமாணியார் - தூக்கம் கலையவேண்டுமே?
+என் தூக்கம் கலைந்தது. காமராஜர்—கிராமாணியார்—தூக்கம் கலையவேண்டுமே?
 
 * * *
 
