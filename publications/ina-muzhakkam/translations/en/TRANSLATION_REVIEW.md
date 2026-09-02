@@ -10,7 +10,7 @@ Live Tamil prerequisites were re-fetched and all six strict-reviewed authority b
 
 | # | Tamil title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|
-| 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **PASS** | **PASS** | **PASS** | **PASS** | NEXT | — |
+| 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | NEXT |
 | 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **PASS** | — | — | — | — | — |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | **PASS** | — | — | — | — | — |
 | 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | **PASS** | — | — | — | — | — |
@@ -62,13 +62,15 @@ At T1–T5, English must follow the frozen Tamil context. Any material consequen
 - T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`
 - T3: **PASS / COMPLETE**
 - T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`
-- T4: **NOT STARTED — NEXT**
-- T5: NOT STARTED
-- translation status: `voice-reviewed`
+- T4: **PASS / COMPLETE**
+- T4 English blob: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`
+- T5: **NOT STARTED — NEXT**
+- translation status: `voice-reviewed` — retained until T5 verification, per permanent status policy
 - source-page comments: **8 / 8 preserved in order** for scans 6–13
-- T2 fidelity corrections preserved at T3: **5 / 5**
-- T3 voice/style body corrections: **10**
-- meaning/fidelity regressions introduced at T3: **0**
+- T2 fidelity corrections preserved: **5 / 5**
+- T3 voice/style body corrections preserved: **10 / 10**
+- T4 body corrections: **0**
+- T4 metadata/provenance update: **1** (`translation_method` records T4 completion)
 - Tamil source changes: **0**
 - blockers: **0**
 
@@ -113,20 +115,40 @@ The English was reread against Tamil for directness, ridicule, rhetorical questi
 
 T3 made **10 voice/style-only changes**:
 
-1. `இந்திரனைக் கூடிய` — **“was with Indra”** → **“coupled with Indra”**, restoring the source's blunt sexual wording.
-2. `சந்திரனைக் காமுற்ற` — **“desired the Moon”** → **“lusted after the Moon”**, removing a softened English euphemism.
-3. `அழியாத பத்தினி` — **“imperishable chaste wife”** → **“immortal chaste wife”**, keeping the pointed ironic phrase while making the English natural.
-4. Ilango's `சபதம் ஒலித்து` — stiff **“I thundered in a vow”** → **“I thundered my vow”**, preserving the audible emphatic action.
-5. `என்பெயரும் ... சரியாகத் தெரியாது` — **“does not properly know even my name”** → **“does not even properly know my name”**, removing stiff word order without changing force.
-6. Pisiranthaiyar's `நான் மாண்டுவிட்டேன்` — **“I had died”** → **“I was dead”** after the retained vivid `touch my ears`, producing more direct English without changing sequence.
-7. Sai Baba ridicule — compressed the repeated English `find a place` into **“not only in his heart.... but on his body too—as a button, as a ring”**, retaining the concrete mockery and all source images.
-8. Senguttuvan passage — passive **“With a stone loaded onto...”** became active **“I loaded a stone onto...”**; awkward **“returned after magnifying the fame”** became **“returned spreading the fame”**. T2 singular `a stone` was preserved.
-9. Vallal Pari challenge — stiff **“look at the Tamilian and say ... and ask him”** became direct **“try asking the Tamilian...”** while preserving the scan-11→12 source boundary and meaning.
-10. Closing rhetoric — formal **“Thus asks Thiruvalluvar”** → **“So asks Thiruvalluvar”** and `இந்நிலை மாறாதா?` → natural direct **“Won't this state change?”**.
-
-T3 found no reason to alter the working title or Article-1 ideological/name choices. Frozen incomplete `சுயமரியாதைக் ....` and `அளித் ....` remain incomplete, and no outside identification was introduced.
+1. `இந்திரனைக் கூடிய` — **“was with Indra”** → **“coupled with Indra”**.
+2. `சந்திரனைக் காமுற்ற` — **“desired the Moon”** → **“lusted after the Moon”**.
+3. `அழியாத பத்தினி` — **“imperishable chaste wife”** → **“immortal chaste wife”**.
+4. Ilango's `சபதம் ஒலித்து` — **“I thundered in a vow”** → **“I thundered my vow”**.
+5. `என்பெயரும் ... சரியாகத் தெரியாது` received natural English word order without changing force.
+6. Pisiranthaiyar's `நான் மாண்டுவிட்டேன்` — **“I had died”** → **“I was dead”**.
+7. Sai Baba ridicule was tightened while retaining the `heart / button / ring / body` imagery.
+8. Senguttuvan's passage was restored to active first person while retaining T2 singular **a stone**.
+9. Vallal Pari `கேட்டுப் பாருங்கள்` became direct **“try asking the Tamilian”**.
+10. Closing rhetoric became **“So asks Thiruvalluvar”** and **“Won't this state change?”**.
 
 T3 result: **PASS**. English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`.
+
+#### Article 1 T4 terminology / quotation / citation / source audit
+
+T4 re-fetched and confirmed:
+
+- frozen Tamil authority: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`;
+- T3 English authority: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`.
+
+Audit findings:
+
+1. **Title:** **The Clarion Call of the Race** remains supported by the explicit `திராவிட இனம்` / `ஆரிய இனம்` contrast and final contextual `இன முழக்கம்`; no T4 change required.
+2. **Ideological/social labels:** `Dravidian`, `Dravidian race`, `Aryan race`, `Self-Respecter`, source-incomplete `Self-Respect ....`, and repeated `Tamilian` are consistent and unneutralised.
+3. **Names/referents:** Kamaraj Nadar, Gramaniyar, Kanaka Visayar, Vallal Pari, Arutperum Jothi, Cheran Senguttuvan and Poet Pisiranthaiyar remain source-bearing; no outside identification was introduced. Conventional epic-name English does not alter the source referents.
+4. **Source-witness distinction:** speaker label `வடலூர் இராமலிங்கம்` remains **Vadalur Ramalingam**, while vocative `வடலூர் இராமலிங்கரே` remains **Vadalur Ramalingar**; the distinction is intentionally not harmonised.
+5. **Incomplete source forms:** `சுயமரியாதைக் ....` remains **Self-Respect ....** and `அளித் ....` remains **giv....**; neither is silently completed.
+6. **Page trace:** all **8 / 8** source comments are present and ordered `6, 7, 8, 9, 10, 11, 12, 13`, with the recorded printed-page witnesses unchanged.
+7. **Quotation scope:** Ilango Adigal, Pisiranthaiyar and Cheran Senguttuvan outer quotations and their nested quotations remain properly separated. The Vallal Pari unit preserves the frozen Tamil's source-irregular unmatched opening double quotation rather than inventing a closing mark. The final scan-13 outer quotation and nested direct speech remain distinct.
+8. **Page-boundary source witness:** frozen scan-9→10 `அல்லலுற்` / `றோமே` remains traceable as `suf—` / `fer......`.
+9. **Dates / periodical titles / external citations:** none occur in Article 1 body; no audit action required.
+10. **Body correction result:** **0** T4 body corrections. T2 and T3 body decisions remain intact. Only the English frontmatter `translation_method` was updated to record T4 completion.
+
+T4 result: **PASS**. T4 English blob: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`.
 
 ### 2. சொர்க்க லோகத்தில்
 
@@ -161,4 +183,4 @@ T3 result: **PASS**. English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`.
 
 ## Exact next activity
 
-**Article 1 `இன முழக்கம்` — T4 terminology / quotation / citation / source audit only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T3 English blob `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`; audit title, recurring labels, names/referents, quoted material, source-page comments, source-sensitive incomplete forms and source-witness distinctions; correct T4 defects only, record the resulting T4 blob/findings, then stop before T5.
+**Article 1 `இன முழக்கம்` — T5 final article verification only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T4 English blob `8d3238ca5cd309660c6d938b8f546eca2ba5698c`; verify the complete Article-1 English file against all T1–T4 decisions, confirm source trace and metadata, make final-verification corrections only if a genuine defect remains, mark the article `verified` only if it passes, record the T5 blob/findings, then stop before Article 2.
