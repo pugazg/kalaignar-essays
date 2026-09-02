@@ -8,7 +8,7 @@ page_type: "poetry-page"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-transcription_method: "user lexical baseline retained; poem heading placement and source lineation directly verified against source scan"
+transcription_method: "user lexical baseline retained; P5 poem headings and source lineation directly verified against source scan"
 ---
 
 # அச்சு உரை
@@ -34,8 +34,8 @@ transcription_method: "user lexical baseline retained; poem heading placement an
 கொடுத்திடுங்கள் நாட்டை!  
 பிரிவினை வேண்டாமெனும்  
 பெரும் உபதேசம்  
-நரிகளின் ஊளை!  
-நாட்டு வெறி பிடித்த காளைகளே!  
+நரிகளின் ஊளை! நாட்டு  
+வெறி பிடித்த காளைகளே!  
 கிலிபிடித்த மனிதர்களைக்  
 கீறியெறியுங்கள்!  
 புலி வாழ்வின் உச்சியிலே  
@@ -48,7 +48,9 @@ transcription_method: "user lexical baseline retained; poem heading placement an
 ## Audit note
 
 - Printed page numeral `43` is directly visible.
-- `யோசித்துப் பார்!` begins at the top of this scan; earlier placement at the end of scan 43 is rejected.
+- `யோசித்துப் பார்!` begins at the top of this scan; earlier placement at the end of scan 43 remains rejected.
 - `மாணவர் எழுச்சி.` begins later on the same scan.
+- **P5 scan 44 PASS:** source verse lineation was restored, notably `நரிகளின் ஊளை! நாட்டு` / `வெறி பிடித்த காளைகளே!`, without changing supplied lexical words.
+- Lexical scan/baseline disagreements on scan 44: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 44; அச்சுப் பக்கம்: 43 -->
