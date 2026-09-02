@@ -13,7 +13,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T0 source prerequisites: **6 / 6 PASS**
 - T1 close drafts: **1 / 6 PASS**
 - T2 fidelity-reviewed: **1 / 6 PASS**
-- T3 voice-reviewed: **0 / 6**
+- T3 voice-reviewed: **1 / 6 PASS**
 - T4 audited: **0 / 6**
 - T5 verified: **0 / 6**
 - E6 publication consistency review: **NOT STARTED**
@@ -24,7 +24,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 | # | Tamil title | Frozen Tamil blob | English title | Status |
 |---:|---|---|---|---|
-| 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **The Clarion Call of the Race** | **T2 PASS / fidelity-reviewed / T3 NEXT** |
+| 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **The Clarion Call of the Race** | **T3 PASS / voice-reviewed / T4 NEXT** |
 | 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | TBD | **T0 PASS** |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | TBD | **T0 PASS** |
 | 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | TBD | **T0 PASS** |
@@ -32,7 +32,8 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | 6 | `கவிதைகள்` | `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` | TBD | **T0 PASS** |
 
 Article 1 T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`.  
-Article 1 T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`.
+Article 1 T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`.  
+Article 1 T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`.
 
 ## Translation authority
 
@@ -53,20 +54,23 @@ For every English article:
 - scans 24 and 37 promotions, scan 40 poetry front matter/review, and scan 50 catalogue stay outside the six English bodies unless separately authorised;
 - known P5 lexical-witness conflicts remain Tamil-source provenance and must not be silently replaced by the scan alternative during translation.
 
-## Article 1 T2 boundary
+## Article 1 T3 boundary
 
 - English file: `01-ina-muzhakkam.md`
-- title: **The Clarion Call of the Race** — T2-confirmed working title, not yet T5-frozen
-- translation status: `fidelity-reviewed`
+- title: **The Clarion Call of the Race** — T3-confirmed working title, not yet T5-frozen
+- translation status: `voice-reviewed`
 - Tamil source blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
-- T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
 - T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`
+- T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`
 - source-page comments: **8 / 8 preserved in order**
-- T2 body corrections: **5** — `கல்லேற்றி` singular restored; incomplete `அளித் ....` no longer silently completed; `உங்களிடம்` restored; `புலவர்களுக் கெல்லாம்` restored; `நாட்டில்` narrowed from `through` to `in`.
-- omitted clauses after T2: **0**
-- added claims after T2: **0**
+- T2 fidelity corrections preserved: **5 / 5**
+- T3 voice/style body corrections: **10**
+- meaning/fidelity regressions introduced at T3: **0**
+- Tamil source changes: **0**
 - blockers: **0**
+
+T3 sharpened only the English rhetorical voice: restored the sexual bluntness of the Ahalya/Tara contrast; strengthened the ironic Draupadi phrase; removed stiff English around Ilango's vow and Pisiranthaiyar's death; tightened the Sai Baba ridicule; made Senguttuvan's action active rather than passive; made the Vallal Pari challenge natural direct English; and sharpened the final Thiruvalluvar/Kannagi questions. No T4 terminology/citation/source audit was performed.
 
 ## Exact next activity
 
-**Article 1 `இன முழக்கம்` — T3 Kalaignar voice review only.** Compare frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` with T2 English blob `6b37eec63209bff533666ce6ff8518c1cba6f733`; review directness, sarcasm, rhetorical questions, commands, repetition, imagery and polemical temperature without undoing T2 fidelity, record the T3 blob/findings, then stop before T4.
+**Article 1 `இன முழக்கம்` — T4 terminology / quotation / citation / source audit only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T3 English blob `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`; audit title, names, recurring labels, quotations, source-page comments, source-sensitive incomplete forms and source-witness distinctions; correct T4 defects only, record the T4 blob/findings, then stop before T5.
