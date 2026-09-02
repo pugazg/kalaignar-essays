@@ -76,7 +76,7 @@ Important structural fixes include:
 
 ## P2 canonical page layer — COMPLETE
 
-All **50 / 50** physical scans now have canonical records under [`pages/`](pages/) and have been directly checked against the controlling PDF for the P2 scope.
+All **50 / 50** physical scans have canonical records under [`pages/`](pages/) and were directly checked against the controlling PDF for the P2 scope.
 
 P2 decisions now durable:
 
@@ -98,16 +98,41 @@ P2 batch result:
 - total P2: **50 / 50 VERIFIED / COMPLETE**
 - blockers: **0**
 
+## P3 article / section assemblies — COMPLETE
+
+The six contents-listed reading assemblies have been created under [`articles/`](articles/) directly from the canonical P2 page layer:
+
+1. [`01-ina-muzhakkam.md`](articles/01-ina-muzhakkam.md) — scans 6–13 — blob `60e5247f54b3c96e66079bf4b34740fa5ccb1ad1`
+2. [`02-sorgga-logaththil.md`](articles/02-sorgga-logaththil.md) — scans 14–24 — blob `adff0de00c120e0c737aca0cd0bc9ed6adcaecd1`
+3. [`03-murasaraivai.md`](articles/03-murasaraivai.md) — scans 25–29 — blob `698c178ee5a65e9fe53543be2136e6691f5a8dad`
+4. [`04-pazhikku-pazhi.md`](articles/04-pazhikku-pazhi.md) — scans 30–37 — blob `d9c57a7a55ab33310b512c34322186cc55a04ef8`
+5. [`05-aariyam-pesugirathu.md`](articles/05-aariyam-pesugirathu.md) — scans 38–39 — blob `651063d641ddbc53c1688e92b13d976b169d04ee`
+6. [`06-kavithaigal.md`](articles/06-kavithaigal.md) — scans 41–49 — blob `a11dfc65bfd83c316e090c793f1ede102a72ac21`
+
+P3 non-regression checks:
+
+- assemblies were copied from canonical P2 records, not the staging transcription;
+- page-boundary comments/provenance are retained;
+- scan 10 retains exactly `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
+- scan 24 `திராவிட சம்பத்து` promotion is excluded from `சொர்க்க லோகத்தில்`;
+- scan 37 two-novel promotion is excluded from `பழிக்குப் பழி`;
+- scan 40 `கவிதைகளைப் பற்றி` / `மதிப்புரை` author-review matter is excluded from the `கவிதைகள்` body;
+- scan 50 catalogue is excluded from all six assemblies;
+- every source-visible poetry heading and P2 verse lineation is retained in the poetry assembly;
+- no lexical normalisation was introduced during assembly;
+- P3 blockers: **0**.
+
 ## Current archival gates
 
 - P0 source intake / publication identification: **COMPLETE**
 - P1 metadata + contents + physical page map: **COMPLETE**
 - structural reassembly of supplied transcription: **COMPLETE / STAGING**
 - P2 canonical page records: **50 / 50 VERIFIED / COMPLETE**
-- P3 article/section assemblies: **0 / 6**
+- P3 article/section assemblies: **6 / 6 COMPLETE / VERIFIED AGAINST P2**
 - P4 source/completeness audit: **NOT STARTED**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
 - English translation: **NOT STARTED**
+- blockers: **0**
 
 ## Non-regression
 
@@ -122,4 +147,4 @@ P2 batch result:
 
 ## Exact next activity
 
-Proceed to **P3 article/section assembly** from the verified P2 page layer. Create the six contents-listed reading assemblies — `இன முழக்கம்`, `சொர்க்க லோகத்தில்`, `முரசறைவாய்`, `பழிக்குப் பழி`, `ஆரியம் பேசுகிறது`, and `கவிதைகள்` — preserving page-boundary comments, source wording, the scan-10 `விசயர்` correction, article/promotion exclusions, and poem headings/lineation. Do not begin P4 in the same activity.
+Proceed to **P4 source/completeness audit**. Audit the full canonical P2 layer and all six P3 assemblies for complete scan coverage, correct starts/ends, page-boundary continuity, required exclusions, source-witness distinctions and absence of silent lexical normalisation. Record all deferred lexical/source disagreements without silently resolving them. **Stop after P4; do not begin P5 in the same activity.**
