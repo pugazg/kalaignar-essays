@@ -4,10 +4,10 @@ article_number: 6
 title_ta: "கவிதைகள்"
 scan_pages: "41-49"
 printed_pages: "40-48"
-status: "verified"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-assembly_method: "concatenated from verified canonical P2 poetry page records; P5 corrections propagated through all poetry scans 41-49; scan-40 author/review front matter and scan-50 catalogue excluded; source-visible headings, punctuation and verse lineation preserved; user lexical baseline retained; scan-visible lexical disagreements documented without silent substitution"
+assembly_method: "concatenated from verified canonical poetry page records; P5 corrections propagated through all poetry scans 41-49; scan-40 author/review front matter and scan-50 catalogue excluded; source-visible headings, punctuation and verse lineation preserved; user lexical baseline retained; scan-visible lexical disagreements documented without silent substitution"
 ---
 
 # கவிதைகள்
