@@ -40,7 +40,8 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - T1 close drafts: **1 / 6 PASS**
 - T2 fidelity reviews: **1 / 6 PASS**
 - T3 voice reviews: **1 / 6 PASS**
-- T4–T5: **0 / 6**
+- T4 audits: **1 / 6 PASS**
+- T5: **0 / 6**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - blockers: **0**
@@ -57,23 +58,24 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 5. `ஆரியம் பேசுகிறது` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `கவிதைகள்` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-All six were re-fetched and matched exactly at E0. Article 1 was re-fetched again and matched at T2 and T3.
+All six were re-fetched and matched exactly at E0. Article 1 was re-fetched again and matched at T2, T3 and T4.
 
-## English Article 1 — T3 COMPLETE / PASS
+## English Article 1 — T4 COMPLETE / PASS
 
 - Tamil title: `இன முழக்கம்`
-- working English title: **The Clarion Call of the Race** — T3 confirmed, not T5-frozen
+- working English title: **The Clarion Call of the Race** — T4 confirmed, not T5-frozen
 - English file: `translations/en/01-ina-muzhakkam.md`
 - frozen Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
-- T2 English blob: `6b37eec63209bff533666ce6ff8518c1cba6f733`
 - T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`
-- status: `voice-reviewed`
+- T4 English blob: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`
+- status: `voice-reviewed` — retained until T5 verification
 - source comments: **8 / 8 preserved in order**
 - T2 fidelity corrections preserved: **5 / 5**
-- T3 voice/style corrections: **10**
+- T3 voice/style body corrections preserved: **10 / 10**
+- T4 body corrections: **0**
 - blockers: **0**
 
-T3 sharpened English voice only: the Ahalya/Tara wording is no longer euphemistic; the Draupadi irony, Ilango vow, Pisiranthaiyar line, Sai Baba ridicule, Senguttuvan first-person action, Vallal Pari direct challenge and final rhetorical questions now read more naturally and forcefully without changing the T2 meaning layer. No T4 audit was performed.
+T4 audited title, ideological/social labels, names and source-bearing transliterations, quotation scope, source-page comments, incomplete forms and source-witness distinctions. It confirmed `Vadalur Ramalingam / Vadalur Ramalingar`, `Kanaka Visayar`, incomplete `Self-Respect ....`, incomplete `giv....`, and the scan-9→10 `suf— / fer......` trace. It also confirmed that the Vallal Pari unit inherits an unmatched opening outer double quotation from the frozen Tamil and must not be silently repaired. No body correction was required; only frontmatter provenance was advanced to record T4 completion.
 
 ## Permanent non-regression
 
@@ -104,4 +106,4 @@ T3 sharpened English voice only: the Ahalya/Tara wording is no longer euphemisti
 
 ## Exact next activity
 
-**Article 1 — `இன முழக்கம்` — T4 terminology / quotation / citation / source audit only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T3 English blob `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`; audit title, names, labels, quotations, source comments, incomplete forms and source-witness distinctions, correct T4 defects only, record the T4 blob/findings, then stop before T5.
+**Article 1 — `இன முழக்கம்` — T5 final article verification only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T4 English blob `8d3238ca5cd309660c6d938b8f546eca2ba5698c`; verify the complete English article against all T1–T4 decisions and source trace, make final-verification corrections only if a genuine defect remains, mark the article `verified` only if it passes, record the T5 blob/findings, then stop before Article 2.
