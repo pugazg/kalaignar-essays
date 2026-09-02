@@ -10,8 +10,8 @@ Live Tamil prerequisites were re-fetched and all six strict-reviewed authority b
 
 | # | Tamil title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|
-| 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | NEXT |
-| 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **PASS** | — | — | — | — | — |
+| 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
+| 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **PASS** | NEXT | — | — | — | — |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | **PASS** | — | — | — | — | — |
 | 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | **PASS** | — | — | — | — | — |
 | 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | **PASS** | — | — | — | — | — |
@@ -54,7 +54,7 @@ At T1–T5, English must follow the frozen Tamil context. Any material consequen
 
 - Tamil source blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
 - English file: `translations/en/01-ina-muzhakkam.md`
-- Working English title: **The Clarion Call of the Race**
+- Verified English title: **The Clarion Call of the Race**
 - T0: **PASS**
 - T1: **PASS / COMPLETE**
 - T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
@@ -64,13 +64,15 @@ At T1–T5, English must follow the frozen Tamil context. Any material consequen
 - T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`
 - T4: **PASS / COMPLETE**
 - T4 English blob: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`
-- T5: **NOT STARTED — NEXT**
-- translation status: `voice-reviewed` — retained until T5 verification, per permanent status policy
+- T5: **PASS / VERIFIED**
+- T5 English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
+- translation status: `verified`
 - source-page comments: **8 / 8 preserved in order** for scans 6–13
 - T2 fidelity corrections preserved: **5 / 5**
 - T3 voice/style body corrections preserved: **10 / 10**
 - T4 body corrections: **0**
-- T4 metadata/provenance update: **1** (`translation_method` records T4 completion)
+- T5 body corrections: **0**
+- T5 metadata/status updates: **2 fields** (`translation_status`, `translation_method`)
 - Tamil source changes: **0**
 - blockers: **0**
 
@@ -150,11 +152,36 @@ Audit findings:
 
 T4 result: **PASS**. T4 English blob: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`.
 
+#### Article 1 T5 final article verification
+
+T5 re-fetched and confirmed:
+
+- frozen Tamil authority: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`;
+- T4 English authority: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`.
+
+The complete English article was reread against the frozen Tamil and all accumulated T1–T4 decisions. Final-verification findings:
+
+1. **Completeness / meaning:** no omitted Tamil sentence or clause and no added claim remained.
+2. **Voice:** direct address, commands, repeated `What is the reason?`, ridicule, vivid imagery, abrupt contrasts and the closing rhetorical challenge remain active in English.
+3. **Terminology:** the Article-1 title, `Dravidian / Dravidian race / Aryan race`, `Self-Respecter`, repeated `Tamilian`, names and source-bearing transliterations remain consistent.
+4. **Source-sensitive forms:** incomplete `Self-Respect ....` and `giv....` remain incomplete; no missing source wording is supplied.
+5. **Source-witness distinctions:** `Vadalur Ramalingam / Vadalur Ramalingar`, `Kanaka Visayar`, and scan-9→10 `suf— / fer......` remain exactly as previously audited.
+6. **Quotation scope:** the Vallal Pari unmatched outer opening double quotation remains intentionally unmatched because the frozen Tamil is source-irregular; no T5 punctuation repair was introduced.
+7. **Page trace:** all **8 / 8** ordered `<!-- Tamil source: scan ... -->` comments remain present with unchanged printed-page witnesses.
+8. **T2/T3/T4 non-regression:** all five T2 fidelity corrections, all ten T3 voice corrections and all T4 audit findings remain intact.
+9. **Body correction result:** **0** T5 body corrections.
+10. **Status/provenance:** frontmatter now records `translation_status: verified` and T5 completion in `translation_method`.
+
+T5 result: **PASS / VERIFIED**. Verified English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.
+
+Article 1 is now individually frozen at T5. Publication-wide E6/E7 remain unavailable until all six articles reach T5.
+
 ### 2. சொர்க்க லோகத்தில்
 
 - Tamil source blob: `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
 - T0: **PASS**
-- T1–T5: NOT STARTED
+- T1: **NOT STARTED — NEXT**
+- T2–T5: NOT STARTED
 
 ### 3. முரசறைவாய்
 
@@ -183,4 +210,4 @@ T4 result: **PASS**. T4 English blob: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`
 
 ## Exact next activity
 
-**Article 1 `இன முழக்கம்` — T5 final article verification only.** Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T4 English blob `8d3238ca5cd309660c6d938b8f546eca2ba5698c`; verify the complete Article-1 English file against all T1–T4 decisions, confirm source trace and metadata, make final-verification corrections only if a genuine defect remains, mark the article `verified` only if it passes, record the T5 blob/findings, then stop before Article 2.
+**Article 2 `சொர்க்க லோகத்தில்` — T1 close draft only.** Re-fetch frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c`, establish the English title and Article-2 terminology from the frozen Tamil, create the complete paragraph-by-paragraph English draft with ordered source-page comments, record the T1 English blob/decisions, then stop before Article 2 T2.
