@@ -79,10 +79,14 @@ Contents-page numbers remain independent source witnesses from directly visible 
 - P5 strict visual fidelity: **50 / 50 PASS**
 - P5 assembly recheck: **6 / 6 PASS**
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- English translation: **NOT STARTED**
+- E0 English translation planning/setup: **COMPLETE / PASS**
+- T0 frozen-source registration: **6 / 6 PASS**
+- T1–T5: **NOT STARTED**
+- E6/E7: **NOT STARTED**
 - blockers: **0**
 
-Canonical P5 review: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
+Canonical P5 review: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).  
+English translation plan: [`../TRANSLATION_PLAN.md`](../TRANSLATION_PLAN.md).
 
 ## Frozen Tamil authorities
 
@@ -93,4 +97,15 @@ Canonical P5 review: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELI
 5. `articles/05-aariyam-pesugirathu.md` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `articles/06-kavithaigal.md` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-Exact next activity: **E0 — English translation planning/setup only**.
+All six blobs were re-fetched and matched at E0. They remain the controlling translation authorities.
+
+## English translation exclusions / constraints
+
+- scans 24 and 37 promotional blocks are not body translation inputs;
+- scan 40 `கவிதைகளைப் பற்றி` + `மதிப்புரை` remains outside `கவிதைகள்` translation;
+- scan 50 catalogue remains outside all six English bodies;
+- known P5 lexical-witness differences are not licences to translate from the scan alternative;
+- `கவிதைகள்` English must preserve frozen headings and lineation;
+- source-page comments are required for bilingual traceability.
+
+Exact next activity: **Article 1 `இன முழக்கம்` — T1 close English draft only; stop before T2.**
