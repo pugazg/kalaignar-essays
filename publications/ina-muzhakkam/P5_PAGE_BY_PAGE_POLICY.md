@@ -9,7 +9,7 @@ P5 normally proceeds **two consecutive physical scans per activity**.
 When the user says `Proceed with next activity` while `இன முழக்கம்` P5 is active:
 
 1. fetch live `main` first and preserve any newer durable state;
-2. identify the **next two unclosed physical scans** in sequence;
+2. identify the next unclosed physical scans in sequence;
 3. visually compare those scans only against their canonical page records and the user-supplied lexical baseline;
 4. preserve the supplied lexical words; do not silently substitute a scan-appearing lexical variant;
 5. correct only source-supported structure, punctuation, spacing, quotation boundaries, headings, page/paragraph placement, lineation and analogous non-lexical matters;
@@ -19,7 +19,7 @@ When the user says `Proceed with next activity` while `இன முழக்க
 9. update P5 progress/status as needed;
 10. stop at the requested activity boundary.
 
-An explicit user instruction naming a different set or count of consecutive pages overrides the normal two-scan cadence for that activity only. If only one physical scan remains before scan 50, process that final scan alone. After scan 50 is closed, perform the separate P5 closeout activity described below.
+An explicit user instruction naming a different set or count of consecutive pages overrides the normal two-scan cadence for that activity only.
 
 ## Non-regression
 
@@ -31,13 +31,22 @@ An explicit user instruction naming a different set or count of consecutive page
 
 ## Current durable frontier
 
-- P5 page-level processing is durably completed through **scan 47**.
-- **Scan 45 PASS:** source long-dash punctuation and verse lineation restored; lexical scan/baseline disagreements **0**.
-- **Scan 46 PASS:** source long-dash punctuation and verse lineation restored; baseline retained against scan-visible `முடுக்கினள்` / baseline `முடுக்கினாள்` and scan-visible `போர் வீரனும்` / baseline `போர் வீரனாம்`; lexical scan/baseline disagreements **2**.
-- **Scan 47 PASS:** source long-dash punctuation and verse lineation restored; baseline retained against scan-visible `கதறினள்` / baseline `கதறினாள்`; lexical scan/baseline disagreements **1**.
-- Scan 45–47 corrections have been propagated to the canonical page records and the corresponding `கவிதைகள்` assembly portion.
-- The three-scan 45–47 activity was an explicit user override of the normal two-scan cadence.
-- **Next P5 activity under the standing cadence: scans 48–49 only.**
-- Then process **scan 50 alone**, unless the user explicitly requests another activity boundary.
+- P5 **page-level** processing is now durably completed through **scan 50 / 50**.
+- **Scan 48 PASS:** source long-dash punctuation and verse lineation restored, including `எல்லையுண்டு—அவன்`, `கண்டாள்—இதயங்`, `அவன் குடித்த மார்பை அடடா!`, and `நரியைப்போல்—ஆரிய`; lexical scan/baseline disagreements **0**.
+- **Scan 49 PASS:** P2-introduced heading error `வருணமா? மானமா?` corrected to source-and-baseline `வருணமா? மரணமா?`; source verse lineation retained; lexical scan/baseline disagreements **0**.
+- **Scan 50 PASS:** catalogue row/column structure directly rechecked; supplied lexical/number baseline retained against source-visible conflicts/omissions, including `அழகு நிலா` price, `செல்வ குமாரி` price, omitted `நாடறிந்த நட்சத்திரங்கள்` price, and omitted `ம. ரா.` author token for `தமிழ் வாத்தியார்`; no silent lexical/number substitution.
+- Scan 48–49 corrections have been propagated to the `கவிதைகள்` assembly; scan 50 remains outside all body assemblies.
+- The three-scan 48–50 activity was an explicit user override of the normal two-scan cadence.
 
-After scan 50 is closed, perform a **separate P5 closeout activity** for the 6/6 assembly recheck, final fidelity report, frozen Tamil blob SHAs and Tamil freeze. English translation starts only after that closeout passes.
+## Exact next activity
+
+Perform the **separate P5 closeout only**:
+
+1. recheck all **6/6** P3 assemblies against the now-final P5 canonical page layer;
+2. create/finalize `VISUAL_TEXT_FIDELITY_REVIEW.md` with page-level corrections and lexical-witness conflict ledger;
+3. confirm blockers = 0 or record any blocker explicitly;
+4. if PASS, record final frozen Tamil assembly blob SHAs and freeze the Tamil archival layer;
+5. synchronize publication README, metadata, indexes/completion records, root README, `HANDOVER.md`, and `docs/NEXT_CHAT_PROMPT.md` as required;
+6. stop before English translation setup.
+
+English translation starts only after this P5 closeout passes.
