@@ -42,6 +42,8 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - scan 10: `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
 - scan 21→22: `நாயன்மார்கள்` begins on scan 22 and joins `ஸ்தம்பித்து விட்டார்கள்.`;
 - scan 22 marginal printed `2` is non-body evidence;
+- Article 3 scan 25→26: `மணவாளன் மார்பினி` / `லே`;
+- Article 3 scan 28→29: `குள்ள` / `நரிக்`;
 - scan 36→37: `இந்த மதத்தைப் பழிக்குப்` / `பழி வாங்க வேண்டாமா?`;
 - scan 41 heading: `ஏற்பரோ!`;
 - scan 49 heading: `வருணமா? மரணமா?`;
@@ -56,7 +58,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - P5 assembly recheck: **6 / 6 PASS**
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **2 / 6 PASS**
+- T1: **3 / 6 PASS**
 - T2: **2 / 6 PASS**
 - T3: **2 / 6 PASS**
 - T4: **2 / 6 PASS**
@@ -76,34 +78,35 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 ## English Article 1 provenance — T5 VERIFIED
 
 - title: **The Clarion Call of the Race**
-- English file: `../translations/en/01-ina-muzhakkam.md`
 - Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
 - T5 English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
 - status: `verified`
 - source comments: **8 / 8 preserved**
 
-Article 1 is individually frozen.
-
 ## English Article 2 provenance — T5 VERIFIED
 
 - title: **In the Heavenly Realm**
-- English file: `../translations/en/02-sorgga-logaththil.md`
 - Tamil blob: `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
-- T1 English blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`
-- T2 English blob: `b9ed854519806bbe65dc5b006183fb4675cb2c3a`
-- T3 English blob: `0d77a253523204f970b0cc89bfdc47f41ee793ef`
-- T4 English blob: `641c65e20b8f2636dae420d874d31af626517afb`
-- T5 verified English blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`
+- T5 English blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`
 - status: `verified`
 - source comments: **11 / 11 preserved**
-- T2 fidelity corrections preserved: **3 / 3**
-- T3 voice/style corrections preserved: **5 / 5**
-- T4 source/quotation corrections preserved: **2 / 2**
-- T5 body corrections: **0**
+
+Articles 1 and 2 are individually frozen.
+
+## English Article 3 provenance — T1 DRAFT
+
+- title: **Beat the Drum** — working T1 title
+- English file: `../translations/en/03-murasaraivai.md`
+- Tamil blob: `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`
+- T1 English blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`
+- status: `draft`
+- source comments: **5 / 5 preserved in order**
+- scan-25→26 trace: `ches— / t`
+- scan-28→29 trace: `dwarf / fox`
 - Tamil source changes: **0**
 - blockers: **0**
 
-T5 reread the complete English against frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c` and T4 English blob `641c65e20b8f2636dae420d874d31af626517afb`. It confirmed completeness, meaning, voice, source-bearing terminology, source-witness distinctions, quotation/stage structure, all 11 source comments and all page-boundary traces with no remaining body correction. Article 2 is now individually frozen.
+T1 translated only the frozen Article-3 assembly. Working/source-bearing choices include **Beat the Drum**, **Kanakan / Visayan**, **Tamilian / Dravidian / Tamil race**, **Aryans / Aryanism**, **war drum / victory drum**, **Northerners**, **tumbler-dolls**, **paarakku**, **Kamarajars / Shanmugams / Jeevas**, **Aththaan**, **rice-pongal**, literal **long-shouldered hill-lifter**, and **dung Pillaiyar / sugar payasam**. Frozen `இசயங்காட்டி` remains unnormalised; T1 uses cautious **showing her *isayam*** pending T2 fidelity review.
 
 ## English translation exclusions / constraints
 
@@ -114,4 +117,4 @@ T5 reread the complete English against frozen Tamil blob `8fea1497ed2dcbdb395418
 - source-page comments are required for bilingual traceability;
 - Article 1 and Article 2 verified decisions must not be reopened without genuine source support.
 
-Exact next activity: **Article 3 `முரசறைவாய்` — T1 close draft only; stop before Article 3 T2.**
+Exact next activity: **Article 3 `முரசறைவாய்` — T2 bilingual fidelity review only; stop before Article 3 T3.**
