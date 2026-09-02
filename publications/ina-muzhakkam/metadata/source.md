@@ -59,7 +59,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
 - T1: **3 / 6 PASS**
-- T2: **2 / 6 PASS**
+- T2: **3 / 6 PASS**
 - T3: **2 / 6 PASS**
 - T4: **2 / 6 PASS**
 - T5: **2 / 6 PASS**
@@ -75,38 +75,29 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 5. `articles/05-aariyam-pesugirathu.md` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `articles/06-kavithaigal.md` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-## English Article 1 provenance — T5 VERIFIED
+## English Articles 1–2 provenance — T5 VERIFIED
 
-- title: **The Clarion Call of the Race**
-- Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
-- T5 English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
-- status: `verified`
-- source comments: **8 / 8 preserved**
-
-## English Article 2 provenance — T5 VERIFIED
-
-- title: **In the Heavenly Realm**
-- Tamil blob: `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
-- T5 English blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`
-- status: `verified`
-- source comments: **11 / 11 preserved**
+1. **The Clarion Call of the Race** — T5 English `01d0d16c4f52cb134eba9fd35c06ad8376e256cb` — **8 / 8** comments.
+2. **In the Heavenly Realm** — T5 English `bcd98fb1abf03e3109da1c4802570b77fddfe015` — **11 / 11** comments.
 
 Articles 1 and 2 are individually frozen.
 
-## English Article 3 provenance — T1 DRAFT
+## English Article 3 provenance — T2 FIDELITY-REVIEWED
 
-- title: **Beat the Drum** — working T1 title
+- title: **Beat the Drum**
 - English file: `../translations/en/03-murasaraivai.md`
 - Tamil blob: `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`
 - T1 English blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`
-- status: `draft`
+- T2 English blob: `02d75107effa010ee61b1cc4d999fe4787c66f31`
+- status: `fidelity-reviewed`
 - source comments: **5 / 5 preserved in order**
 - scan-25→26 trace: `ches— / t`
 - scan-28→29 trace: `dwarf / fox`
+- T2 fidelity corrections: **3**
 - Tamil source changes: **0**
 - blockers: **0**
 
-T1 translated only the frozen Article-3 assembly. Working/source-bearing choices include **Beat the Drum**, **Kanakan / Visayan**, **Tamilian / Dravidian / Tamil race**, **Aryans / Aryanism**, **war drum / victory drum**, **Northerners**, **tumbler-dolls**, **paarakku**, **Kamarajars / Shanmugams / Jeevas**, **Aththaan**, **rice-pongal**, literal **long-shouldered hill-lifter**, and **dung Pillaiyar / sugar payasam**. Frozen `இசயங்காட்டி` remains unnormalised; T1 uses cautious **showing her *isayam*** pending T2 fidelity review.
+T2 compared every frozen Article-3 paragraph/clause against the T1 English. It corrected `துவண்டாயோ` to **grow weary**, `கேட்டுப் பார்` to **Hear of...**, and the implicit direct-address object in `கடல் கொள்ளாமல் ... ஆரியம் கொண்டது ஏன்?` from T1 **your valour / it** to **you / you**. It confirmed the title and all other listed source-bearing choices, including source-sensitive `இசயங்காட்டி` → cautious **showing her *isayam*** without silent normalisation. No omitted clause, added claim, unresolved referent, remaining comparison/logical-relation defect, source-comment defect or page-trace defect remains at T2.
 
 ## English translation exclusions / constraints
 
@@ -115,6 +106,6 @@ T1 translated only the frozen Article-3 assembly. Working/source-bearing choices
 - scan 50 catalogue remains outside all six English bodies;
 - known P5 lexical-witness differences are not licences to translate from scan alternatives;
 - source-page comments are required for bilingual traceability;
-- Article 1 and Article 2 verified decisions must not be reopened without genuine source support.
+- Articles 1 and 2 verified decisions must not be reopened without genuine source support.
 
-Exact next activity: **Article 3 `முரசறைவாய்` — T2 bilingual fidelity review only; stop before Article 3 T3.**
+Exact next activity: **Article 3 `முரசறைவாய்` — T3 Kalaignar voice review only; stop before Article 3 T4.**
