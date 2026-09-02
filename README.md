@@ -62,69 +62,69 @@ Detailed records remain in the publication workspace. Do not reopen absent a gen
 
 Workspace: [`publications/thiraavida-sampaththu/`](publications/thiraavida-sampaththu/)
 
-- title: **திராவிட சம்பத்து**
-- author: **கலைஞர் மு. கருணாநிதி**
-- edition: **முதல பதிப்பு, செப்டம்பர் 1951**
-- publisher: **அறிவு மன்றம், சென்னை-1**
-- seller: **பாரி நிலையம், 59, பிராட்வே, சென்னை-1**
 - physical scans: **16**
-- source SHA-256: `09d567abb30a0beacc1efd1e1fb757f01da93968f5582c9b1b8859b87dac2165`
-- source PDF committed: **No**
-- condition: **heavily damaged / multiple torn-away text areas**
-
-### Publication-specific source rule
-
-The user-supplied transcription is the lexical baseline for surviving Tamil words. The scan controls structure, punctuation, spacing, paragraphing, headings, reading order, page/article boundaries and physical-copy evidence. Text physically lost under torn-away paper is not reconstructed from context.
-
-### Frozen Tamil source status
-
-- P0: **COMPLETE**
-- P1: **COMPLETE**
-- P2: **16 / 16 COMPLETE**
-- P3: **2 / 2 COMPLETE**
-- P4: **PASS**
-- P5: **16 / 16 PASS**
-- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- unresolved Tamil blockers: **0**
-
-Frozen Tamil authorities:
-
-1. `திராவிட சம்பத்து` — scans **5–6, 13–16** — `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
-2. `ஐயர் அறிவிக்கிறார்!` — scans **12, 3** — `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
-
-### Final English translation / release status
-
-- E0: **COMPLETE / PASS**
-- T0: **2 / 2 PASS**
-- T1: **2 / 2 PASS**
-- T2: **2 / 2 PASS**
-- T3: **2 / 2 PASS**
-- T4: **2 / 2 PASS**
-- T5: **2 / 2 PASS**
-- E6 publication-wide consistency review: **PASS**
-- E7 English release closeout: **PASS / RELEASE COMPLETE**
+- Tamil P0–P5: **COMPLETE / FROZEN**
+- English T0–T5: **2 / 2 PASS**
+- E6: **PASS**
+- E7: **PASS / RELEASE COMPLETE**
 - English translation: **COMPLETE / RELEASED / FROZEN**
-- unresolved translation/release blockers: **0**
+- unresolved blockers: **0**
 
 Released English authorities:
 
 1. [`Dravidian Wealth`](publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md) — `10dca72882043db491fe8c6ad3f858bc4c9c584f`.
 2. [`Iyer Announces!`](publications/thiraavida-sampaththu/translations/en/02-aiyar-arivikkirar.md) — `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`.
 
-E7 confirmed both English blobs still match the E6-passed baseline, both frozen Tamil blobs remain unchanged, no article gate was reopened, no source/release defect was discovered and release blockers remain **0**.
+Do not reopen absent a genuine source-supported or release-blocking defect.
 
-Detailed records:
+## Publication 5 — இன முழக்கம் — ACTIVE / P1 COMPLETE
 
-- [`README.md`](publications/thiraavida-sampaththu/README.md)
-- [`metadata/source.md`](publications/thiraavida-sampaththu/metadata/source.md)
-- [`PUBLICATION_COMPLETION_REVIEW.md`](publications/thiraavida-sampaththu/PUBLICATION_COMPLETION_REVIEW.md)
-- [`TRANSLATION_PLAN.md`](publications/thiraavida-sampaththu/TRANSLATION_PLAN.md)
-- [`translations/en/README.md`](publications/thiraavida-sampaththu/translations/en/README.md)
-- [`translations/en/LEXICON.md`](publications/thiraavida-sampaththu/translations/en/LEXICON.md)
-- [`translations/en/TRANSLATION_REVIEW.md`](publications/thiraavida-sampaththu/translations/en/TRANSLATION_REVIEW.md)
+Workspace: [`publications/ina-muzhakkam/`](publications/ina-muzhakkam/)
+
+- controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`
+- physical scans: **50**
+- source SHA-256: `f57e4070051d7bc77ab78d5d393dbefbe47791efcc3203c594c5f3949ef0dfbf`
+- edition: **முதற் பதிப்பு: செப்டம்பர் 1951**
+- publisher: **முன்னேற்றப் பண்ணை, சென்னை**
+- seller: **பாரி நிலையம், 59, பிராட்வே, சென்னை**
+- source PDF committed: **No**
+
+### Publication-specific user rule
+
+> **Keep the words. Correct only structural order, punctuation, spacing, paragraphing, headings, misplaced words and analogous layout issues; remove unwanted non-source/OCR words.**
+
+The user's full 50-scan transcription has been structurally reassembled against the source into staging records without silently changing lexical tokens.
+
+Printed contents witness:
+
+1. `இன முழக்கம்` — 4
+2. `சொர்க்க லோகத்தில்` — 13
+3. `முரசறைவாய்` — 24
+4. `பழிக்குப் பழி` — 29
+5. `ஆரியம் பேசுகிறது` — 37
+6. `கவிதைகள்` — 40
+
+Current gates:
+
+- P0: **COMPLETE**
+- P1 metadata / contents / page map: **COMPLETE**
+- structural transcription intake: **COMPLETE / STAGING**
+- P2 canonical page records: **0 / 50**
+- P3 article/section assemblies: **0 / 6**
+- P4: **NOT STARTED**
+- P5: **NOT STARTED**
+- English translation: **NOT STARTED**
+- blockers: **0**
+
+Important structural corrections and the corrected staging transcription are recorded in:
+
+- [`STRUCTURAL_REASSEMBLY_REVIEW.md`](publications/ina-muzhakkam/STRUCTURAL_REASSEMBLY_REVIEW.md)
+- [`transcription-intake/scans-0001-0020.md`](publications/ina-muzhakkam/transcription-intake/scans-0001-0020.md)
+- [`transcription-intake/scans-0021-0040.md`](publications/ina-muzhakkam/transcription-intake/scans-0021-0040.md)
+- [`transcription-intake/scans-0041-0050.md`](publications/ina-muzhakkam/transcription-intake/scans-0041-0050.md)
 
 ## Current project state / next activity
 
-Publications **1–4 are COMPLETE / FROZEN / RELEASED**. There is no pending review gate.
+Publications **1–4 are COMPLETE / FROZEN / RELEASED**. Publication 5 `இன முழக்கம்` is active with P0/P1 and the full structural staging transcription complete.
 
-**Next project activity:** intake of the next supplied Kalaignar essay/article publication. Fetch live `main` first, follow the permanent processing guide and do not reopen Publications 1–4 absent a genuine source-supported or release-blocking defect.
+**Exact next activity:** create and directly verify **P2 canonical page records for scans 1–25**. Preserve printed text separately from physical-copy marks and do not begin P3 assemblies in the same activity.
