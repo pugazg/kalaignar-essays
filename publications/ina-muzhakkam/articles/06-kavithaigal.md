@@ -7,7 +7,7 @@ printed_pages: "40-48"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-assembly_method: "concatenated from verified canonical P2 poetry page records; P5 corrections propagated through scans 41-42; scan-40 author/review front matter excluded; source-visible headings and verse lineation preserved; user lexical baseline retained"
+assembly_method: "concatenated from verified canonical P2 poetry page records; P5 corrections propagated through scans 41-44; scan-40 author/review front matter excluded; source-visible headings and verse lineation preserved; user lexical baseline retained"
 ---
 
 # கவிதைகள்
@@ -97,9 +97,10 @@ assembly_method: "concatenated from verified canonical P2 poetry page records; P
 
 ## பொதுவுடைமையே!
 
-‘முன்னூறு நானூறு வேலியேன் முதலாளியே!  
+‘முன்னூறு நானூறு வேலியேன்  
+முதலாளியே!  
 உன்னாலே ஓர் ஏழை  
-உயர்ந்த துண்டா?’ என்று  
+உயர்ந்த துண்டா?” என்று  
 என்னேரங் கேட்டிடும்  
 எந்நாட்டுத் தோழா!  
 உரமான உனது நெஞ்சின் வினாவை  
@@ -129,8 +130,8 @@ assembly_method: "concatenated from verified canonical P2 poetry page records; P
 கொடுத்திடுங்கள் நாட்டை!  
 பிரிவினை வேண்டாமெனும்  
 பெரும் உபதேசம்  
-நரிகளின் ஊளை!  
-நாட்டு வெறி பிடித்த காளைகளே!  
+நரிகளின் ஊளை! நாட்டு  
+வெறி பிடித்த காளைகளே!  
 கிலிபிடித்த மனிதர்களைக்  
 கீறியெறியுங்கள்!  
 புலி வாழ்வின் உச்சியிலே  
