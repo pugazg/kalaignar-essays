@@ -8,8 +8,8 @@ source_tamil_blob_sha: "8fea1497ed2dcbdb395418590c1b9875e6066b8c"
 source_scan_pages: "14-24"
 source_printed_pages: "contents witness start 13; scan 14 numeral not visible; scans 15-24 visibly 14-23"
 language: "en"
-translation_status: "fidelity-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 2 T2 bilingual fidelity review complete"
+translation_status: "voice-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 2 T3 Kalaignar voice review complete"
 ---
 
 # In the Heavenly Realm
@@ -48,7 +48,7 @@ Ignoring all this, a group sat on the grass. From each person's shoulder hung a 
 
 strip of cloth. In blue letters it was marked ‘Immigrant’. One look at their faces made it clear that they were earth-dwellers. Yes...... earth-dwellers indeed!
 
-Kannappa Nayanar, Karaikkal Ammaiyar, Nandanar, Siruthondar ..... and all the others were there. Their talk did not become a great debate. Each had a word to say. It was about the way each of them had come to the heavenly realm!
+Kannappa Nayanar, Karaikkal Ammaiyar, Nandanar, Siruthondar ..... and all the others were there. It was no great debate. Each had a word to say. It was about the way each of them had come to the heavenly realm!
 
 “Only after I gouged out both my eyes did I receive God's grace.”
 
@@ -78,7 +78,7 @@ Kannappa Nayanar, Karaikkal Ammaiyar, Nandanar, Siruthondar ..... and all the ot
 
 **Iyarpagai Nayanar.**
 
-“I rubbed my elbow in place of a sandalwood block and performed worship of Bhagavan. The fruit of that is this heavenly realm for me.”
+“I rubbed my elbow in place of a sandalwood block and performed worship of Bhagavan. This heavenly realm is the fruit of that.”
 
 **Murthi Nayanar.**
 
@@ -96,7 +96,7 @@ and my beloved wife ate the paddy that had been stored for Siva..... out of devo
 
 Thus the devotees recounted their sacrifices and swelled with pride. They heaved deep sighs.
 
-“There is no difference between you and the August martyrs, fellows!” A sudden voice rang out. Kannappar, who had opened his mouth to speak, stopped. Everyone turned and looked.
+“You fellows are no different from the August martyrs!” A sudden voice rang out. Kannappar, who had opened his mouth to speak, stopped. Everyone turned and looked.
 
 A sacred-thread-wearing Ayyar stood there with an arm around the shoulder of a woman whose youth had faded. All those jewels among devotees stared at his mouth. The Ayyar spoke.
 
@@ -132,7 +132,7 @@ Karaikkal Ammaiyar asked, “Is this true?”
 
 “Still you doubt? If you have doubts, look at the ‘Mahapathagam Theertha Padalam’ in the *Thiruvilaiyadal Puranam*,” said the Ayyar.
 
-“What is the reason that you, a sinner, alone obtained life in the heavenly realm so easily?” asked Siruthondar.
+“How is it that you, a sinner, alone obtained life in the heavenly realm so easily?” asked Siruthondar.
 
 “This is the reason,” said the Ayyar, pulling out his sacred thread and showing it.
 
@@ -148,7 +148,7 @@ Karaikkal Ammaiyar asked, “Is this true?”
 
 “We are all Dravidians; he is an Aryan. Even in going to the heavenly realm, the Aryan–Dravidian difference has taken root, my friend!” Appar said, shedding two tears.
 
-I rose, declaring loudly that it is to change this state that “The Clarion Call of the Race” is sounding.
+I rose and declared loudly: “The Clarion Call of the Race” is sounding to change this state.
 
 “What is it, son—were you dreaming?” my mother asked, waking me from my sleep.
 
