@@ -11,21 +11,33 @@ Permanent rule: **Translate the language; do not neutralise the voice.**
 | `இன முழக்கம்` | **The Clarion Call of the Race**; contextual **the clarion call of the race** | Article/publication title established from frozen Article 1. The final occurrence is translated as an active call sounding **in the country**; T2 removed the broader T1 `through the country`. | Article 1 T1 | T5 VERIFIED |
 | `இனம்` | **race** where Article 1 explicitly contrasts `திராவிட இனம்` / `ஆரிய இனம்` | Retains Kalaignar's period ideological/rhetorical category rather than neutralising it to generic `community`. | Article 1 T1 | T5 VERIFIED |
 | `திராவிடன்` / `திராவிட இனம்` | **Dravidian** / **Dravidian race** | Preserve singular rhetorical identity and explicit race contrast. | Article 1 T1 | T5 VERIFIED |
-| `திராவிடர்` | **establish contextually in later article when encountered** | Do not flatten into a generic social group. | E0 | OPEN |
+| `திராவிடர்` | **Dravidians** | Article 2 plural identity claim `நாமெல்லாம் திராவிடர்`; preserve direct ideological label. | Article 2 T1 | T1 WORKING |
 | `ஆரிய இனம்` | **Aryan race** | Explicit counterpart to `திராவிட இனம்` in Article 1. | Article 1 T1 | T5 VERIFIED |
-| `ஆரியர்` / `ஆரியம்` | **establish contextually in later article when encountered** | Preserve Kalaignar's polemical label and grammatical role. | E0 | OPEN |
+| `ஆரியர்` | **an Aryan** in Article 2 singular contrast | Article 2 `அவர் ஆரியர்`; preserve the personal rhetorical contrast rather than genericising. | Article 2 T1 | T1 WORKING |
+| `ஆரியம்` | **establish contextually in later article when encountered** | Preserve Kalaignar's polemical label and grammatical role. | E0 | OPEN |
 | `சுயமரியாதைக்காரன்` | **Self-Respecter** | Source-bearing movement label; no explanatory expansion inside body text. | Article 1 T1 | T5 VERIFIED |
 | incomplete `சுயமரியாதைக் ....` | **Self-Respect ....** | Preserve the frozen incomplete/source-irregular form rather than supplying a missing Tamil word. | Article 1 T1 | SOURCE-SENSITIVE / T5 VERIFIED |
 | incomplete `அளித் ....` | **giv....** in the Article 1 sentence | Frozen Tamil ends with an incomplete verb after `அருங் குறட்பாக்கள்`; T2 removed T1's silently completed `I gave`. Do not supply the missing Tamil ending. | Article 1 T2 | SOURCE-SENSITIVE / T5 VERIFIED |
 | `தமிழன்` | **Tamilian** | Used in repeated direct/rhetorical questioning; preserve the repeated noun rather than smoothing it away. | Article 1 T1 | T5 VERIFIED |
-| `காமராஜ நாடார்` | **Kamaraj Nadar** | Preserve the source label as given. | Article 1 T1 | T5 VERIFIED |
-| `கிராமணியார்` | **Gramaniyar** | Source-bearing transliteration; frozen lexical form controls. | Article 1 T1 | SOURCE-SENSITIVE / T5 VERIFIED |
+| `காமராஜ நாடார்` | **Kamaraj Nadar** | Preserve the Article-1 source label as given. | Article 1 T1 | T5 VERIFIED |
+| `காமராஜர்` | **Kamarajar** | Article-2 closing source form; do not harmonise to Article-1 `Kamaraj Nadar`. | Article 2 T1 | SOURCE-WITNESS / T1 WORKING |
+| `கிராமணியார்` | **Gramaniyar** | Article-1 source-bearing transliteration; frozen lexical form controls. | Article 1 T1 | SOURCE-SENSITIVE / T5 VERIFIED |
+| `கிராமாணியார்` | **Gramaaniyar** | Article-2 closing frozen spelling; intentionally not harmonised to Article-1 `Gramaniyar`. | Article 2 T1 | SOURCE-WITNESS / T1 WORKING |
 | `கனக விசயர்` | **Kanaka Visayar** | User-established frozen placement on scan 10; retain as a source-bearing compound label rather than externally identifying/splitting it. | Article 1 T1 | SOURCE-SENSITIVE / T5 VERIFIED |
 | `வள்ளல் பாரி` / `பாரிவள்ளல்` | **Vallal Pari** | Preserve the honorific/name form; descriptive `கொடை வள்ளல்` is rendered **great giver** in context. | Article 1 T1 | T5 VERIFIED |
 | `அருட்பெருஞ் சோதி` | **Arutperum Jothi** | Source-bearing devotional phrase/name retained rather than expanded in the body. | Article 1 T1 | T5 VERIFIED |
 | `வடலூர் இராமலிங்கம்` / vocative `வடலூர் இராமலிங்கரே` | **Vadalur Ramalingam** / **Vadalur Ramalingar** | Preserve the frozen source distinction between speaker label and vocative; do not harmonise for English neatness. | Article 1 T1 | SOURCE-WITNESS / T5 VERIFIED |
-| `பூணூல்` | **establish contextually** | Preserve caste/religious rhetorical function. | E0 | OPEN |
-| `ஆச்சரியார்` | **source-bearing treatment required** | Do not silently substitute a modern personal name; establish handling when first encountered. | E0 | OPEN |
+| `சொர்க்க லோகம்` / title `சொர்க்க லோகத்தில்` | **heavenly realm** / **In the Heavenly Realm** | Article 2 recurring setting and title. Keep distinguishable from `Sivalokam`, `Kailasa`, `realm of moksha`, etc. | Article 2 T1 | T1 WORKING |
+| badge `குடியேறியவர்` | **‘Immigrant’** | Satirical shoulder-badge label for earth-dwellers in Article 2; do not explain inside body. | Article 2 T1 | T1 WORKING |
+| `பூணூல்` | **sacred thread** | Central Article-2 caste/religious satirical motif. Preserve repeated wording. | Article 2 T1 | T1 WORKING |
+| `அய்யர்` / `பூனூல்கார அய்யர்` | **Ayyar** / **sacred-thread-wearing Ayyar** | Retain source-bearing label rather than replacing with an externally identified individual. | Article 2 T1 | T1 WORKING |
+| `ஆச்சரியார்` | **Aachariyar** | Frozen Article-2 scan-20 form. Preserve as source-bearing; no outside personal identification. | Article 2 T1 | SOURCE-WITNESS / T1 WORKING |
+| later `ஆச்சாரியார்` | **Aachaariyar** | Frozen Article-2 scan-23 variant; kept distinct from `ஆச்சரியார்` rather than silently harmonised. | Article 2 T1 | SOURCE-WITNESS / T1 WORKING |
+| `ஆகஸ்ட் தியாகிகள்` | **August martyrs** | Period political label in Article 2. Do not identify the historical event from outside knowledge inside body. | Article 2 T1 | T1 WORKING |
+| `ஆகஸ்ட் போராட்டம்` | **August struggle** | Source political label; preserve opposition/repetition without external expansion. | Article 2 T1 | T1 WORKING |
+| `திருவிளையாடல் புராணம்` | ***Thiruvilaiyadal Puranam*** | Source-cited work title; do not import a published English title. | Article 2 T1 | T1 WORKING |
+| `மாபாதகம் தீர்த்த படலம்` | **Mahapathagam Theertha Padalam** | Source-cited chapter label; retained source-bearing without outside expansion. | Article 2 T1 | T1 WORKING |
+| source-irregular `மாதாவை மகா மனைவியாக்குவது மல்லவா` | **“Making one's mother into a great wife—is it not...?”** | T1 preserves the frozen irregular/incomplete sense rather than supplying a missing predicate. T2 must audit. | Article 2 T1 | SOURCE-SENSITIVE / T1 WORKING |
 | `வகுப்புவாதம்` | **establish contextually** | Preserve the period political/social meaning and repeated argument; avoid neutralising paraphrase. | E0 | OPEN |
 | `பார்ப்பனீயம்` / `பார்ப்பனியம்` | **follow frozen Tamil occurrence** | Do not harmonise source forms merely for English neatness; choose an English rendering that preserves polemical force. | E0 | OPEN |
 | `வர்ணாஸ்ரமம்` | **source-bearing translation/transliteration to establish** | Do not silently replace with a broader modern category. | E0 | OPEN |
@@ -109,6 +121,29 @@ Result: **PASS / VERIFIED**.
 
 Article 1 terminology is now frozen at the article level. Publication-wide consistency remains subject to E6 after all six articles reach T5.
 
+## Article 2 T1 title / terminology decisions
+
+Frozen Tamil title: `சொர்க்க லோகத்தில்`  
+Working English title: **In the Heavenly Realm**  
+T1 English blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`
+
+T1 establishes a close-draft vocabulary only; all Article-2 choices remain subject to T2–T5.
+
+- `சொர்க்க லோகம்` → **heavenly realm**, while distinct source terms such as `Sivalokam`, `Kailasa` and `realm of moksha` remain distinguishable rather than being flattened into one generic `heaven`;
+- shoulder badge `குடியேறியவர்` → **‘Immigrant’**;
+- `பூணூல்` → **sacred thread**, repeated as the article's central satirical explanation;
+- `அய்யர்` → **Ayyar**, preserving the source-bearing label;
+- `ஆகஸ்ட் தியாகிகள்` / `ஆகஸ்ட் போராட்டம்` → **August martyrs / August struggle**, without outside historical identification;
+- frozen variants `ஆச்சரியார்` / `ஆச்சாரியார்` → **Aachariyar / Aachaariyar**, deliberately not harmonised at T1;
+- `திராவிடர்` / `ஆரியர்` → **Dravidians / an Aryan**, consistent with the verified Article-1 ideological vocabulary;
+- closing `காமராஜர்` / `கிராமாணியார்` → **Kamarajar / Gramaaniyar**, preserving Article-2 forms rather than importing Article-1 `Kamaraj Nadar / Gramaniyar`;
+- quoted closing `இனமுழக்கம்` reuses verified Article-1 title **The Clarion Call of the Race**;
+- `திருவிளையாடல் புராணம்` / `மாபாதகம் தீர்த்த படலம்` remain ***Thiruvilaiyadal Puranam*** / **Mahapathagam Theertha Padalam** without outside title expansion;
+- source-irregular `மாதாவை மகா மனைவியாக்குவது மல்லவா` remains cautious/incomplete in English rather than receiving a guessed missing predicate;
+- scan-14→15 and scan-19→20 word breaks remain traceable as `engag— / ed` and `boast— / ing`.
+
+T2 must audit all of these against the frozen Tamil before any choice is treated as fidelity-confirmed.
+
 ## Frozen Tamil anomaly/conflict rule
 
 Translation always follows the frozen Tamil authority, not a scan alternative. The following body forms are explicitly source-sensitive because P5 recorded a scan/baseline disagreement:
@@ -144,4 +179,4 @@ No lexicon decision from the following non-body matter should be imported into t
 
 ## Next lexicon activity
 
-During **Article 2 `சொர்க்க லோகத்தில்` T1**, establish only the new Article-2 title and terminology actually encountered in its frozen Tamil authority. Preserve all Article-1 verified decisions and do not reopen them without a genuine source-supported defect.
+During **Article 2 `சொர்க்க லோகத்தில்` T2**, audit every T1 title/terminology choice against the frozen Tamil, especially `Aachariyar / Aachaariyar`, `Kamarajar / Gramaaniyar`, `sacred thread`, `August martyrs / August struggle`, the source-irregular mother/wife clause, and the two page-boundary word splits. Do not perform T3 in the same activity.
