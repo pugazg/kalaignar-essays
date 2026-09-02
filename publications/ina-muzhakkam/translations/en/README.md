@@ -14,7 +14,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T1: **2 / 6 PASS**
 - T2: **2 / 6 PASS**
 - T3: **2 / 6 PASS**
-- T4: **1 / 6 PASS**
+- T4: **2 / 6 PASS**
 - T5: **1 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
@@ -24,7 +24,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | # | Tamil title | Frozen Tamil blob | English title | Status |
 |---:|---|---|---|---|
 | 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **The Clarion Call of the Race** | **T5 PASS / verified** |
-| 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **In the Heavenly Realm** | **T3 PASS / voice-reviewed / T4 NEXT** |
+| 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **In the Heavenly Realm** | **T4 PASS / voice-reviewed / T5 NEXT** |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | TBD | **T0 PASS** |
 | 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | TBD | **T0 PASS** |
 | 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | TBD | **T0 PASS** |
@@ -33,7 +33,8 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 Article 1 T5 blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.  
 Article 2 T1 blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`.  
 Article 2 T2 blob: `b9ed854519806bbe65dc5b006183fb4675cb2c3a`.  
-Article 2 T3 blob: `0d77a253523204f970b0cc89bfdc47f41ee793ef`.
+Article 2 T3 blob: `0d77a253523204f970b0cc89bfdc47f41ee793ef`.  
+Article 2 T4 blob: `641c65e20b8f2636dae420d874d31af626517afb`.
 
 ## Translation authority
 
@@ -63,24 +64,26 @@ Article 2 T3 blob: `0d77a253523204f970b0cc89bfdc47f41ee793ef`.
 
 Article 1 is individually frozen and must not be reopened without a genuine source-supported defect.
 
-## Article 2 T3 boundary
+## Article 2 T4 boundary
 
 - file: `02-sorgga-logaththil.md`
-- working title: **In the Heavenly Realm** — T3 confirmed, not T5-frozen
+- working title: **In the Heavenly Realm** — T4 confirmed, not T5-frozen
 - status: `voice-reviewed`
 - Tamil blob: `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
 - T1 blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`
 - T2 blob: `b9ed854519806bbe65dc5b006183fb4675cb2c3a`
 - T3 blob: `0d77a253523204f970b0cc89bfdc47f41ee793ef`
+- T4 blob: `641c65e20b8f2636dae420d874d31af626517afb`
 - source comments: **11 / 11 preserved in order** for scans 14–24
 - T2 fidelity corrections preserved: **3 / 3**
-- T3 voice/style corrections: **5**
+- T3 voice/style corrections preserved: **5 / 5**
+- T4 source/quotation body corrections: **2**
 - scan-14→15 trace: `engag— / ed`
 - scan-19→20 trace: `boast— / ing`
 - blockers: **0**
 
-T3 sharpened only English voice: `It was no great debate`; `This heavenly realm is the fruit of that`; `You fellows are no different from the August martyrs!`; direct `How is it that...`; and active closing `I rose and declared loudly...`. It preserved all T2 meanings, the sacred-thread refrain, sexual and devotional mockery, political ridicule, source-distinct `Aachariyar / Aachaariyar`, `Kamarajar / Gramaaniyar`, the incomplete maternal-wife clause, nested speech, stage directions and every source comment.
+T4 audited the title, recurring heavenly-realm terminology, deity/saint/source-bearing names, source-distinct `Aachariyar / Aachaariyar` and `Kamarajar / Gramaaniyar`, `Dravidians / an Aryan`, the sacred-thread refrain, August political labels, source-cited *Thiruvilaiyadal Puranam* / `Mahapathagam Theertha Padalam`, quotation scope, nested speech, stage directions, all 11 source comments and both page-boundary traces. Two source/quotation corrections were required: scan-22 source form `காரைக்காலம்மை` is now **Karaikkal Ammai**, distinct from earlier **Karaikkal Ammaiyar**; and the editorial inner quotation marks around **Mahapathagam Theertha Padalam** were removed because the frozen Tamil does not mark the chapter label as a nested quotation. All T2/T3 decisions remain intact.
 
 ## Exact next activity
 
-**Article 2 `சொர்க்க லோகத்தில்` — T4 terminology / quotation / citation / source audit only.** Re-fetch frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c` and T3 English blob `0d77a253523204f970b0cc89bfdc47f41ee793ef`; audit title, terminology, names/source variants, ideological/social labels, sacred-thread refrain, quotation scope, nested speech, source-cited work/chapter, source comments and page-boundary traces; make T4 corrections only if source-supported and **stop before Article 2 T5**.
+**Article 2 `சொர்க்க லோகத்தில்` — T5 final article verification only.** Re-fetch frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c` and T4 English blob `641c65e20b8f2636dae420d874d31af626517afb`; reread the complete article against T1–T4 decisions for final completeness, meaning, voice, terminology, quotation/source trace and non-regression; if PASS set `translation_status: verified`, record the verified blob, and **stop after Article 2 T5**.
