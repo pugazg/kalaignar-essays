@@ -103,14 +103,28 @@ Printed numerals are recorded only when directly visible:
 - `வா!` begins scan 43 and `யோசித்துப் பார்!` begins scan 44;
 - scan 50 is a catalogue outside all body units. Structural row/column associations were restored without silently repairing baseline lexical/number gaps or differences.
 
+## P3 reading assemblies — complete
+
+The six contents-listed assemblies were created directly from the verified P2 page records:
+
+1. `articles/01-ina-muzhakkam.md` — scans 6–13 — blob `60e5247f54b3c96e66079bf4b34740fa5ccb1ad1`
+2. `articles/02-sorgga-logaththil.md` — scans 14–24 — blob `adff0de00c120e0c737aca0cd0bc9ed6adcaecd1`
+3. `articles/03-murasaraivai.md` — scans 25–29 — blob `698c178ee5a65e9fe53543be2136e6691f5a8dad`
+4. `articles/04-pazhikku-pazhi.md` — scans 30–37 — blob `d9c57a7a55ab33310b512c34322186cc55a04ef8`
+5. `articles/05-aariyam-pesugirathu.md` — scans 38–39 — blob `651063d641ddbc53c1688e92b13d976b169d04ee`
+6. `articles/06-kavithaigal.md` — scans 41–49 — blob `a11dfc65bfd83c316e090c793f1ede102a72ac21`
+
+P3 preserves page-boundary provenance and all P2 wording. Promotions on scans 24 and 37, poetry front matter on scan 40 and the scan-50 catalogue remain outside the six reading assemblies. No lexical normalisation was introduced.
+
 ## Current gate status
 
 - P0 source intake / publication identification: **COMPLETE**
 - P1 metadata + contents + page-map reconstruction: **COMPLETE**
 - P2 canonical page records: **50 / 50 VERIFIED / COMPLETE**
-- P3 article/section assemblies: **NOT STARTED (0 / 6)**
+- P3 article/section assemblies: **6 / 6 COMPLETE / VERIFIED AGAINST P2**
 - P4 source/completeness audit: **NOT STARTED**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
 - English translation: **NOT STARTED**
+- blockers: **0**
 
 The archival layer continues to preserve the user-supplied lexical baseline; lexical source disagreements are not silently resolved.
