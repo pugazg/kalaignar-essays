@@ -13,7 +13,7 @@ Fetch live `main` first. Preserve any newer durable state; never reset or repeat
 
 Last confirmed handover synchronization when this prompt was prepared:
 
-`efe0e859f5a41e943cc52742c32a5632d87c4a55` — `Synchronize handover after Ina Muzhakkam Article 2 T4`
+`d7f01e87eb3adf1c45d77d940274dc9dccab9bd5` — `Synchronize handover after Ina Muzhakkam Article 2 T5`
 
 ## Mandatory startup
 
@@ -31,10 +31,9 @@ Read completely before changing anything:
 10. `publications/ina-muzhakkam/translations/en/README.md`
 11. `publications/ina-muzhakkam/translations/en/LEXICON.md`
 12. `publications/ina-muzhakkam/translations/en/TRANSLATION_REVIEW.md`
-13. frozen Tamil `articles/02-sorgga-logaththil.md`
-14. T4 English `translations/en/02-sorgga-logaththil.md`
+13. frozen Tamil `publications/ina-muzhakkam/articles/03-murasaraivai.md`
 
-Article 1 `translations/en/01-ina-muzhakkam.md` is T5 verified and is an article-level non-regression reference. Do not reopen it during Article 2 work without a genuine source-supported defect.
+Articles 1 and 2 are T5 verified and individually frozen. They are non-regression references only; do not reopen them during Article 3 work without a genuine source-supported defect.
 
 ## Frozen Tamil authority
 
@@ -58,7 +57,7 @@ Frozen Tamil authorities:
 - T2: **2 / 6 PASS**
 - T3: **2 / 6 PASS**
 - T4: **2 / 6 PASS**
-- T5: **1 / 6 PASS**
+- T5: **2 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
@@ -66,64 +65,42 @@ Frozen Tamil authorities:
 
 - Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
 - English title: **The Clarion Call of the Race**
-- English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
+- verified English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
 - `translation_status: verified`
 - source comments: **8 / 8 preserved**
 
-Preserve Article-1 verified terminology and source-witness decisions where the same Tamil form/function genuinely recurs; do not mechanically overwrite distinct Article-2 source forms.
-
-## Article 2 T4 durable boundary
+## Article 2 T5 verified boundary
 
 - Tamil title: `சொர்க்க லோகத்தில்`
 - frozen Tamil blob: `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
 - English file: `translations/en/02-sorgga-logaththil.md`
-- working English title: **In the Heavenly Realm** — T4 confirmed, not T5-frozen
+- verified English title: **In the Heavenly Realm**
 - T1 English blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`
 - T2 English blob: `b9ed854519806bbe65dc5b006183fb4675cb2c3a`
 - T3 English blob: `0d77a253523204f970b0cc89bfdc47f41ee793ef`
 - T4 English blob: `641c65e20b8f2636dae420d874d31af626517afb`
-- `translation_status: voice-reviewed`
+- T5 verified English blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`
+- `translation_status: verified`
 - source comments: **11 / 11 preserved in order**
-- T2 fidelity corrections preserved: **3 / 3**
-- T3 voice/style corrections preserved: **5 / 5**
-- T4 source/quotation body corrections: **2**
+- T2 fidelity corrections: **3 / 3 preserved**
+- T3 voice corrections: **5 / 5 preserved**
+- T4 source/quotation corrections: **2 / 2 preserved**
+- T5 body corrections: **0**
 - blockers: **0**
 
-### Article 2 source-bearing decisions through T4
+### Article 2 verified source-bearing non-regression
 
-1. `சொர்க்க லோகம் / சொர்க்க லோகத்தில்` → **heavenly realm / In the Heavenly Realm**.
-2. `குடியேறியவர்` → **‘Immigrant’**.
-3. `பூணூல் / பூனூல்கார அய்யர்` → **sacred thread / sacred-thread-wearing Ayyar**.
-4. `ஆகஸ்ட் தியாகிகள் / ஆகஸ்ட் போராட்டம்` → **August martyrs / August struggle**, no outside identification.
-5. `ஆச்சரியார் / ஆச்சாரியார்` → **Aachariyar / Aachaariyar**, source-distinct.
-6. `திராவிடர் / ஆரியர்` → **Dravidians / an Aryan**.
-7. closing `காமராஜர் / கிராமாணியார்` → **Kamarajar / Gramaaniyar**.
-8. quoted closing `இனமுழக்கம்` → **The Clarion Call of the Race**.
-9. `திருவிளையாடல் புராணம் / மாபாதகம் தீர்த்த படலம்` → ***Thiruvilaiyadal Puranam*** / **Mahapathagam Theertha Padalam**.
-10. `காரைக்கால் அம்மையார் / காரைக்காலம்மை` → **Karaikkal Ammaiyar / Karaikkal Ammai**, preserving the scan-22 source-form distinction.
-11. source-irregular `மாதாவை மகா மனைவியாக்குவது மல்லவா` remains **“Making one's mother into a great wife—is it not...?”** without guessed completion.
-12. scan-14→15 `ஈடுபட்டிருந் / தார்கள்` → `engag— / ed`.
-13. scan-19→20 `பெருமை / யடித்துக்` → `boast— / ing`.
-14. all 11 source comments, nested quotations and parenthetical stage directions remain intact.
-
-### Article 2 T2 fidelity corrections — preserve
-
-1. `சுழல் வண்டுகளென` → **whirling bees**.
-2. Kotpuli Nayanar's adult paddy-eating cause and child's milk-derived cause remain grammatically distinct, with scan-18→19 after **my father,**.
-3. Mother's `தம்பி` → **son**.
-
-### Article 2 T3 voice corrections — preserve
-
-1. **Their talk did not become a great debate.** → **It was no great debate.**
-2. **The fruit of that is this heavenly realm for me.** → **This heavenly realm is the fruit of that.**
-3. **There is no difference between you and the August martyrs, fellows!** → **You fellows are no different from the August martyrs!**
-4. **What is the reason that...** → direct **How is it that...**.
-5. **I rose, declaring loudly...** → active **I rose and declared loudly...**.
-
-### Article 2 T4 source / quotation corrections — preserve
-
-1. scan-22 `காரைக்காலம்மை`: harmonised **Karaikkal Ammaiyar** → source-distinct **Karaikkal Ammai**.
-2. `மாபாதகம் தீர்த்த படலம்`: removed English-only nested quotation marks around **Mahapathagam Theertha Padalam** because the frozen Tamil does not mark the chapter label as an inner quotation.
+- **In the Heavenly Realm / heavenly realm** remains distinct from `Sivalokam`, `Kailasa`, `realm of moksha` and other source-specific afterlife/place terms.
+- `குடியேறியவர்` → **‘Immigrant’**.
+- `பூணூல் / பூனூல்கார அய்யர்` → **sacred thread / sacred-thread-wearing Ayyar**.
+- `ஆகஸ்ட் தியாகிகள் / ஆகஸ்ட் போராட்டம்` → **August martyrs / August struggle** without outside identification.
+- `ஆச்சரியார் / ஆச்சாரியார்` → **Aachariyar / Aachaariyar**.
+- `திராவிடர் / ஆரியர்` → **Dravidians / an Aryan**.
+- `காமராஜர் / கிராமாணியார்` → **Kamarajar / Gramaaniyar**.
+- `காரைக்கால் அம்மையார் / காரைக்காலம்மை` → **Karaikkal Ammaiyar / Karaikkal Ammai**.
+- `திருவிளையாடல் புராணம் / மாபாதகம் தீர்த்த படலம்` → ***Thiruvilaiyadal Puranam*** / **Mahapathagam Theertha Padalam**.
+- incomplete `மாதாவை மகா மனைவியாக்குவது மல்லவா` remains **“Making one's mother into a great wife—is it not...?”** without guessed completion.
+- all 11 source comments, nested quotations, stage directions, `engag— / ed`, scan-18→19 after **my father,**, and `boast— / ing` remain frozen.
 
 ## Translation non-regression
 
@@ -136,20 +113,20 @@ Preserve Article-1 verified terminology and source-witness decisions where the s
 - retain ordered source comments and documented page-boundary traces;
 - preserve quotation status and source punctuation irregularities;
 - scans 24 and 37 promotions, scan 40 front matter/review and scan 50 catalogue stay outside the six English bodies;
-- Article 1 verified English decisions must not be reopened without genuine source support;
-- Article 2 T2–T4 decisions are non-regression inputs to T5 and must not be casually rewritten.
+- Article 1 and Article 2 verified English decisions must not be reopened without genuine source support;
+- when the same Tamil form/function genuinely recurs in Article 3, preserve verified terminology; do not mechanically overwrite distinct Article-3 source forms.
 
 ## EXACT NEXT ACTIVITY
 
-**Article 2 `சொர்க்க லோகத்தில்` — T5 final article verification only.**
+**Article 3 `முரசறைவாய்` — T1 close draft only.**
 
 1. fetch live `main`;
 2. re-read translation plan, tracker, lexicon and review ledger;
-3. re-fetch frozen Tamil Article 2 and confirm blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c`;
-4. re-fetch T4 English Article 2 and confirm blob `641c65e20b8f2636dae420d874d31af626517afb`;
-5. reread the complete English against frozen Tamil and every T1–T4 decision for final completeness, meaning, directness, satire, terminology, source-witness distinctions, quotation/citation structure, stage directions and source-page trace;
-6. verify all three T2 fidelity corrections, all five T3 voice corrections and both T4 source/quotation corrections remain intact;
-7. verify all **11 / 11** source comments, `engag— / ed`, scan-18→19 after **my father,**, and `boast— / ing`;
-8. make a final correction only for a genuine remaining defect;
-9. if PASS, set `translation_status: verified`, record the T5 verified English blob and freeze Article 2 at article level;
-10. **stop after Article 2 T5. Do not begin Article 3 T1 in the same activity.**
+3. re-fetch frozen Tamil Article 3 and confirm blob `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`;
+4. establish the English title from frozen Tamil only;
+5. establish only Article-3 terminology/source-bearing choices actually encountered; preserve Article-1/2 verified decisions only where the same Tamil form/function genuinely recurs;
+6. translate the complete frozen Article-3 Tamil paragraph by paragraph, preserving direct address, commands, rhetorical questions, repetition, polemical force, quotation structure and every ordered source-page comment;
+7. do not use OCR, raw supplied transcription, scan-alternate lexical readings, later editions, web text or outside identification as translation authority;
+8. create/update `publications/ina-muzhakkam/translations/en/03-murasaraivai.md` with `translation_status: draft`;
+9. record the T1 English blob, English title and exact terminology/source-bearing decisions in tracker/plan/lexicon/review/handover;
+10. **stop after Article 3 T1. Do not perform Article 3 T2 in the same activity.**
