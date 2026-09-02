@@ -37,7 +37,7 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - T1: **3 / 6 PASS**
 - T2: **3 / 6 PASS**
 - T3: **3 / 6 PASS**
-- T4: **2 / 6 PASS**
+- T4: **3 / 6 PASS**
 - T5: **2 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
@@ -61,7 +61,7 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 
 Both are individually frozen and must not be reopened without a genuine source-supported defect.
 
-## English Article 3 — T3 COMPLETE / VOICE-REVIEWED
+## English Article 3 — T4 COMPLETE / AUDITED
 
 - title: **Beat the Drum**
 - file: `translations/en/03-murasaraivai.md`
@@ -69,17 +69,17 @@ Both are individually frozen and must not be reopened without a genuine source-s
 - T1 English blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`
 - T2 English blob: `02d75107effa010ee61b1cc4d999fe4787c66f31`
 - T3 English blob: `a4c2e482e4ba5a6a513cbed1b00879ba7fac90c2`
+- T4 English blob: `969dc675dc1610d4a3d8e1fb2009d459dc6c41ef`
 - status: `voice-reviewed`
 - source comments: **5 / 5 preserved in order**
 - scan-25→26: `ches— / t`
 - scan-28→29: `dwarf / fox`
 - T2 fidelity corrections: **3 / 3 preserved**
-- T3 voice/style corrections: **6**
+- T3 voice/style corrections: **6 / 6 preserved**
+- T4 body corrections: **0**
 - blockers: **0**
 
-T3 retained all T2 meaning/source-bearing choices and sharpened voice only: the opening repeated drum cadence now uses **resound / resounds**; the beloved sentence was reflowed while retaining source-sensitive **showing her *isayam***; the poet now **turns away, his face hanging in defeat**; love and valour **surged over their banks**; the Pongal challenge is **nothing more than this rice-pongal**; and the present-day contrast is **Think, too, of the horror of this day!**. All three T2 fidelity corrections remain intact.
-
-T3 preserves **Beat the Drum**, **war drum / victory drum**, **Kanakan / Visayan**, **Tamilian / Dravidian / Tamil race**, **Aryans / Aryanism**, **Northerners**, **tumbler-dolls**, **paarakku**, **Kamarajars / Shanmugams / Jeevas**, **Aththaan**, **rice-pongal**, **dewy glance**, **became a blast**, literal **long-shouldered hill-lifter**, and **dung Pillaiyar / sugar payasam**.
+T4 audited terminology, quotation scope, source-witness distinctions, source/citation treatment, rhetorical dashes and page provenance against the frozen Tamil. No body correction was required. It confirmed **Beat the Drum**, **war drum / victory drum**, **Kanakan / Visayan**, **Tamilian / Dravidian / Tamil race**, **Aryans / Aryanism**, **Northerners**, **tumbler-dolls**, **paarakku**, **Kamarajars / Shanmugams / Jeevas**, **Aththaan**, **rice-pongal**, source-sensitive **showing her *isayam***, **dewy glance**, **became a blast**, literal **long-shouldered hill-lifter**, and **dung Pillaiyar / sugar payasam**. Quoted **A Festival Day in Life** and **paarakku** preserve source quotation scope; all five comments and both page traces remain intact.
 
 ## Permanent non-regression
 
@@ -105,4 +105,4 @@ T3 preserves **Beat the Drum**, **war drum / victory drum**, **Kanakan / Visayan
 
 ## Exact next activity
 
-**Article 3 `முரசறைவாய்` — T4 terminology / quotation / citation / source audit only.** Re-fetch frozen Tamil blob `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` and T3 English blob `a4c2e482e4ba5a6a513cbed1b00879ba7fac90c2`; audit title/drum terminology, ideological/social labels, source-bearing names/forms, quoted `வாழ்விலோர் திருநாள்` / `பாராக்கு`, source-sensitive `இசயங்காட்டி`, `வேட்டாயிற்றே`, Pongal wordplay, quotation scope/punctuation, all **5 / 5** comments and both page traces; make T4 source/terminology/quotation corrections only if genuinely required and **stop before Article 3 T5**.
+**Article 3 `முரசறைவாய்` — T5 final article verification only.** Re-fetch frozen Tamil blob `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` and T4 English blob `969dc675dc1610d4a3d8e1fb2009d459dc6c41ef`; reread the complete English against frozen Tamil and all T1–T4 decisions for completeness, meaning, voice, terminology, quotation/source treatment and page provenance; preserve all **5 / 5** comments and both page traces; make only genuine remaining final corrections; if PASS set `translation_status: verified`, record the T5 verified blob and freeze Article 3 individually, then **stop before Article 4 T1**.
