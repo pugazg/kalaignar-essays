@@ -8,7 +8,7 @@ page_type: "poetry-page"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-transcription_method: "user lexical baseline retained; poem headings and source lineation directly verified against source scan"
+transcription_method: "user lexical baseline retained; P5 heading, punctuation, word-break and source lineation directly verified against source scan"
 ---
 
 # அச்சு உரை
@@ -18,17 +18,17 @@ transcription_method: "user lexical baseline retained; poem headings and source 
 புண்ணுக்கு மருந்திட்டு  
 ஆற்ற வழி தேடிடுவாய்!  
 கண்ணுக்குள் பாவைபோல்  
-உருண்டிடும் உள்ளம் - கைம்பெண்ணுக்கு இருப்பதையும்  
+உருண்டிடும் உள்ளம்—கைம்  
+பெண்ணுக்கு இருப்பதையும்  
 உணர்ந்திடுவாய்!
 
 “என் மனைவி இறந்திட்டாள்”  
 வேறுமணம் வேண்டுமென்பாய்  
 பின் நீ சாவு முனை அடைந்திட்டால்  
 உன் மனையாள் காவு கொடுக்க  
-வேண்டுமோ காதல்தனை.  
-ஏற்பரோ!
+வேண்டுமோ காதல்தனை.
 
-# ஏற்றமே!
+# ஏற்பரோ!
 
 தருமனும் பீமனும் மற்று மூவரும் போதாது  
 கருணனையும் காதலித்தாள் பாஞ்சாலி!  
@@ -37,8 +37,10 @@ transcription_method: "user lexical baseline retained; poem headings and source 
 கடல்தனை வெறுக்கவில்லை  
 கற்பிழந்து போனதால்!  
 கைச்சரக்கல்ல! கதையுண்டு!  
-இந்திரனுக்குடன் பட்டாள அகல்யை எனும் ரிஷி குலத்தாள்;  
-சந்திரனைக் காமுற்றாள் தாரையாம் தவப் பெண்ணாள்;  
+இந்திரனுக்குடன் பட்டாள  
+அகல்யை எனும் ரிஷி குலத்தாள்;  
+சந்திரனைக் காமுற்றாள் தாரையாம்  
+தவப் பெண்ணாள்;  
 இத்தனை புராணத்தையும்
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -48,7 +50,12 @@ transcription_method: "user lexical baseline retained; poem headings and source 
 ## Audit note
 
 - Printed page numeral `40` is directly visible.
-- `நியாயத் திராசு!` and `ஏற்றமே!` are separate source-visible headings.
+- `நியாயத் திராசு!` and `ஏற்பரோ!` are separate source-visible headings.
 - Final line continues onto scan 42.
+- **P5 scan 41 PASS:** source lineation and punctuation were restored without changing the user-supplied lexical baseline.
+- P2-introduced heading error corrected: `ஏற்றமே!` → `ஏற்பரோ!`; the supplied transcription and scan agree on `ஏற்பரோ!`.
+- Source word-break/lineation restored: `உருண்டிடும் உள்ளம் - கைம்பெண்ணுக்கு இருப்பதையும்` → `உருண்டிடும் உள்ளம்—கைம்` / `பெண்ணுக்கு இருப்பதையும்`.
+- Source lineation restored for `இந்திரனுக்குடன் பட்டாள` / `அகல்யை எனும் ரிஷி குலத்தாள்;` and `சந்திரனைக் காமுற்றாள் தாரையாம்` / `தவப் பெண்ணாள்;`.
+- Lexical scan/baseline disagreements on scan 41: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 41; அச்சுப் பக்கம்: 40 -->
