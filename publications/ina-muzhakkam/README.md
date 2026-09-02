@@ -122,6 +122,33 @@ P3 non-regression checks:
 - no lexical normalisation was introduced during assembly;
 - P3 blockers: **0**.
 
+## P4 source / completeness audit — PASS
+
+Audit record: [`SOURCE_COMPLETENESS_AUDIT.md`](SOURCE_COMPLETENESS_AUDIT.md).
+
+P4 confirmed:
+
+- canonical P2 coverage: **50 / 50 physical scans**;
+- P3 assemblies: **6 / 6, exactly once**;
+- all six source-supported start/end boundaries: **PASS**;
+- page-boundary order/provenance: **PASS**;
+- scan-10 `விசயர்` placement: **PASS**;
+- scan-24 / scan-37 promotions excluded from article bodies: **PASS**;
+- scan-40 author/review matter excluded from `கவிதைகள்`: **PASS**;
+- scan-50 catalogue excluded from all body assemblies: **PASS**;
+- poetry headings and source lineation: **PASS**;
+- contents-page number witnesses kept distinct from directly visible body numerals: **PASS**;
+- physical-copy marks imported into body text: **0**;
+- silent lexical normalisations introduced during P2/P3: **0**;
+- P4 `needs-review`: **0**;
+- P4 blocked items: **0**;
+- completeness blockers: **0**.
+
+Deferred for explicit P5 source-fidelity classification rather than silent correction:
+
+- cover-author witness (`மு. கருணாநிதி` visible witness vs supplied `கலைஞர் கருணாநிதி` baseline);
+- scan-50 catalogue lexical/number differences or omissions already documented in the page record.
+
 ## Current archival gates
 
 - P0 source intake / publication identification: **COMPLETE**
@@ -129,7 +156,7 @@ P3 non-regression checks:
 - structural reassembly of supplied transcription: **COMPLETE / STAGING**
 - P2 canonical page records: **50 / 50 VERIFIED / COMPLETE**
 - P3 article/section assemblies: **6 / 6 COMPLETE / VERIFIED AGAINST P2**
-- P4 source/completeness audit: **NOT STARTED**
+- P4 source/completeness audit: **PASS / COMPLETE**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
 - English translation: **NOT STARTED**
 - blockers: **0**
@@ -143,8 +170,8 @@ P3 non-regression checks:
 - preserve poem headings on their actual scans;
 - scan 10 must retain `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
 - scan 37, scan 40 and scan 50 boundaries must not regress;
-- lexical disagreements with scan pixels belong to later source-fidelity review and must be documented rather than silently corrected.
+- lexical disagreements with scan pixels must be explicitly classified during P5 rather than silently corrected.
 
 ## Exact next activity
 
-Proceed to **P4 source/completeness audit**. Audit the full canonical P2 layer and all six P3 assemblies for complete scan coverage, correct starts/ends, page-boundary continuity, required exclusions, source-witness distinctions and absence of silent lexical normalisation. Record all deferred lexical/source disagreements without silently resolving them. **Stop after P4; do not begin P5 in the same activity.**
+Proceed to **P5 strict visual word/punctuation fidelity** across all **50 physical scans**. Re-check every visible printed word, punctuation mark, heading, number, quotation boundary, paragraph continuation, source-witness distinction, promotion/catalogue entry and physical-copy exclusion against the controlling scan under the user-established lexical rule. Propagate every source-supported P5 correction with provenance to page records, assemblies, indexes and status records. Explicitly classify the deferred cover-author and scan-50 catalogue differences. **Do not begin English translation in the same activity.**
