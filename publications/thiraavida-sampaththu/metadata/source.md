@@ -56,7 +56,7 @@ No printed contents page is present.
 
 Hidden/lost text under absent paper is never supplied from sentence meaning.
 
-## Archival gate status
+## Final archival gate status
 
 - P0: **COMPLETE**
 - P1: **COMPLETE**
@@ -68,21 +68,12 @@ Hidden/lost text under absent paper is never supplied from sentence meaning.
 
 Final strict-reviewed Tamil assemblies:
 
-- `../articles/01-thiraavida-sampaththu.md` — scans 5–6, 13–16 — blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`;
-- `../articles/02-aiyar-arivikkirar.md` — scans 12, 3 — blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
-
-These are the frozen English-translation authorities.
+- `../articles/01-thiraavida-sampaththu.md` — scans 5–6, 13–16 — `6e9759aff9bc4801ee66b3b8c76a814be3e98015`;
+- `../articles/02-aiyar-arivikkirar.md` — scans 12, 3 — `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
 ## P5 fidelity closure
 
-Documented lexical-witness conflicts retained:
-
-- scan 3 `கல்லுரி` vs scan-appearing `கல்லூரி`;
-- scan 4 promoted title `ரூசோ` vs scan-visible `ஜூலி`;
-- scan 5 `கண்னை` vs scan-appearing `கண்ணை`;
-- scan 16 `பேச்சுல` vs scan-appearing `பேச்சை`.
-
-Scan 3 `அயம்` remains a damaged/ambiguous supplied reading and is not silently normalised. Documented source-visible recoveries include scan 16 `மொழி.` and scan 15 `கிரேக்க மொழி`. No text beneath torn-away paper was reconstructed.
+Documented lexical-witness conflicts remain frozen. Scan 3 `அயம்` remains damaged/ambiguous and is not silently normalised. Source-visible recoveries include scan 16 `மொழி.` and scan 15 `கிரேக்க மொழி`. No text beneath torn-away paper was reconstructed.
 
 Detailed records:
 
@@ -90,38 +81,27 @@ Detailed records:
 - [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md)
 - [`../PUBLICATION_COMPLETION_REVIEW.md`](../PUBLICATION_COMPLETION_REVIEW.md)
 
-## English translation status
+## Final English translation / release status
 
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **2 / 2 PASS**
-- T1 close drafts: **2 / 2**
-- T2 fidelity-reviewed: **2 / 2**
-- T3 voice-reviewed: **2 / 2**
-- T4 audited: **2 / 2**
-- T5 verified: **2 / 2**
+- T1 close drafts: **2 / 2 PASS**
+- T2 fidelity-reviewed: **2 / 2 PASS**
+- T3 voice-reviewed: **2 / 2 PASS**
+- T4 audited: **2 / 2 PASS**
+- T5 verified: **2 / 2 PASS**
 - E6 publication-wide consistency review: **PASS**
-- E7 release closeout: **NOT STARTED**
+- E7 English release closeout: **PASS / RELEASE COMPLETE**
 - English article bodies: **2 / 2**
-- translation blockers: **0**
+- translation/release blockers: **0**
+- **English translation: COMPLETE / RELEASED / FROZEN**
 
-Article 1 `திராவிட சம்பத்து` is **T5 VERIFIED / E6 PASS**:
+Released English authorities:
 
-- English title: **Dravidian Wealth**
-- final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
-- source Tamil blob: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
+- `திராவிட சம்பத்து` — **Dravidian Wealth** — `10dca72882043db491fe8c6ad3f858bc4c9c584f`;
+- `ஐயர் அறிவிக்கிறார்!` — **Iyer Announces!** — `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`.
 
-Article 2 `ஐயர் அறிவிக்கிறார்!` is **T5 VERIFIED / E6 PASS**:
-
-- English title: **Iyer Announces!**
-- final verified English blob: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
-- source Tamil blob: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
-- source-page comments: **2 / 2 present and ordered**
-- frozen `அயம்`: source-bearing **ayam**, not repaired
-- frozen scan-3 `கல்லுரி`: source-bearing **kalluri**, not silently normalised
-- narrative `சாமிநாதய்யர்`: **Saminathayyar**; inscription `சாமிநாத அய்யர்`: **Saminatha Ayyar**
-- first-paragraph quotation anomaly: two evident English quoted units formally documented and preserved
-
-E6 publication review confirmed recurring `Dravidam` usage, title style, quotation treatment, source-page trace, source-anomaly preservation and rhetorical consistency. Article 1 adjectival **Dravidian** and Article 2 inscription **Dravida** remain deliberately distinct by source function. No English body or metadata correction was required, no article gate was reopened, and frozen Tamil changes remain **0**.
+E7 re-confirmed both English authorities and both frozen Tamil authorities on live `main`. English body changes after E6: **0 / 2**; English metadata changes after E6: **0 / 2**; frozen Tamil changes during E7: **0**; source/translation gates reopened: **No**; source/release defects discovered: **0**; release blockers: **0**.
 
 English records:
 
@@ -130,8 +110,6 @@ English records:
 - [`../translations/en/LEXICON.md`](../translations/en/LEXICON.md)
 - [`../translations/en/TRANSLATION_REVIEW.md`](../translations/en/TRANSLATION_REVIEW.md)
 
-The English layer continues to use only the two frozen Tamil blobs above. It must not use OCR, pre-P5 transcription, alternate scan-appearing lexical readings or remembered wording as replacement authority.
+## Final boundary
 
-## Exact next gate
-
-Execute **E7 — English release closeout**. Re-confirm both E6-passed English authorities, all frozen Tamil authorities, synchronized release records and zero blockers; if PASS, mark the English translation **COMPLETE / RELEASED / FROZEN**.
+`திராவிட சம்பத்து` is **COMPLETE / FROZEN / RELEASED in Tamil and English**. No further gate is pending absent a genuine source-supported or release-blocking defect.
