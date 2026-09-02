@@ -11,7 +11,7 @@ Live Tamil prerequisites were re-fetched and all six strict-reviewed authority b
 | # | Tamil title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|
 | 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
-| 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **PASS** | NEXT | — | — | — | — |
+| 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **PASS** | **PASS** | NEXT | — | — | — |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | **PASS** | — | — | — | — | — |
 | 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | **PASS** | — | — | — | — | — |
 | 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | **PASS** | — | — | — | — | — |
@@ -179,9 +179,38 @@ Article 1 is now individually frozen at T5. Publication-wide E6/E7 remain unavai
 ### 2. சொர்க்க லோகத்தில்
 
 - Tamil source blob: `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
+- English file: `translations/en/02-sorgga-logaththil.md`
+- Working English title: **In the Heavenly Realm**
 - T0: **PASS**
-- T1: **NOT STARTED — NEXT**
-- T2–T5: NOT STARTED
+- T1: **PASS / COMPLETE**
+- T1 English blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`
+- T2: **NOT STARTED — NEXT**
+- T3–T5: NOT STARTED
+- translation status: `draft`
+- source-page comments: **11 / 11 preserved in order** for scans 14–24
+- Tamil source changes: **0**
+- blockers: **0**
+
+#### Article 2 T1 close-draft decisions
+
+T1 re-fetched the frozen Tamil authority and confirmed blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c`, then created a complete paragraph-by-paragraph English draft from that authority only.
+
+1. **Title / recurring setting:** `சொர்க்க லோகம்` / `சொர்க்க லோகத்தில்` → **heavenly realm / In the Heavenly Realm**. Distinct source terms such as `Sivalokam`, `Kailasa` and `realm of moksha` remain distinguishable.
+2. **Satirical badge:** `குடியேறியவர்` → **‘Immigrant’**.
+3. **Sacred-thread refrain:** `பூணூல்` → **sacred thread**; `பூனூல்கார அய்யர்` → **sacred-thread-wearing Ayyar**.
+4. **Political labels:** `ஆகஸ்ட் தியாகிகள்` / `ஆகஸ்ட் போராட்டம்` → **August martyrs / August struggle**. No outside event identification was imported.
+5. **Source variants:** frozen `ஆச்சரியார்` / later `ஆச்சாரியார்` → **Aachariyar / Aachaariyar** at T1, intentionally not harmonised or externally identified.
+6. **Ideological contrast:** `திராவிடர்` / `ஆரியர்` → **Dravidians / an Aryan**, consistent with Article 1's verified vocabulary without flattening the source labels.
+7. **Closing source forms:** `காமராஜர்` / `கிராமாணியார்` → **Kamarajar / Gramaaniyar**, preserving Article-2 forms rather than importing Article-1 `Kamaraj Nadar / Gramaniyar`.
+8. **Cross-article title reuse:** quoted closing `இனமுழக்கம்` → **The Clarion Call of the Race**, reusing the verified Article-1 title.
+9. **Source citation:** `திருவிளையாடல் புராணம்` / `மாபாதகம் தீர்த்த படலம்` → ***Thiruvilaiyadal Puranam*** / **Mahapathagam Theertha Padalam**, without outside title expansion.
+10. **Source-irregular clause:** `மாதாவை மகா மனைவியாக்குவது மல்லவா` is rendered **“Making one's mother into a great wife—is it not...?”** rather than silently supplying a missing predicate. This requires explicit T2 review.
+11. **Page trace:** all **11 / 11** source comments are present and ordered scans `14–24`; scan-14→15 `ஈடுபட்டிருந்` / `தார்கள்` is traceable as `engag— / ed`, and scan-19→20 `பெருமை` / `யடித்துக்` as `boast— / ing`.
+12. **Quotation/stage structure:** long outer speech quotations, nested direct speech and parenthetical stage directions are retained as a close-draft structure rather than normalised into narrative prose.
+
+T1 result: **PASS / COMPLETE DRAFT**. English blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`.
+
+This is not a fidelity-reviewed article yet. T2 must compare every clause and may correct only fidelity defects.
 
 ### 3. முரசறைவாய்
 
@@ -210,4 +239,4 @@ Article 1 is now individually frozen at T5. Publication-wide E6/E7 remain unavai
 
 ## Exact next activity
 
-**Article 2 `சொர்க்க லோகத்தில்` — T1 close draft only.** Re-fetch frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c`, establish the English title and Article-2 terminology from the frozen Tamil, create the complete paragraph-by-paragraph English draft with ordered source-page comments, record the T1 English blob/decisions, then stop before Article 2 T2.
+**Article 2 `சொர்க்க லோகத்தில்` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c` and T1 English blob `b02cc0e167e1f69aa324d5b761878f6be7134b5f`; compare every paragraph and clause, names/referents, numbers, negatives, comparisons, quotation scope, Article-2 source-bearing terminology, all **11 / 11** source comments, page-boundary word traces and the source-irregular `மாதாவை மகா மனைவியாக்குவது மல்லவா` clause; make fidelity corrections only, record the resulting T2 blob/findings, then stop before Article 2 T3.
