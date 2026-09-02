@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - Any checkpoint SHA is the last confirmed state when written; it is **not** a rollback target.
 - If `main` has advanced, preserve the newer durable state. Never reset, overwrite, repeat or reopen later completed work because an older prompt records an earlier boundary.
 - Re-fetch target files immediately before writes when another window may also be active.
-- Last confirmed live HEAD immediately before this new-publication handover synchronization: `57e29b27d3360f7ac3b215d6873760b25d71d822` — `Create Ina Muzhakkam publication workspace`.
+- Last confirmed live HEAD immediately before this correction handover synchronization: `71e6c041e8ee79f6e7f680194ee73b21459f7456` — `Correct scan 10 Visayar placement in structural review`.
 
 ---
 
@@ -163,12 +163,13 @@ Canonical intake records:
 - `publications/ina-muzhakkam/transcription-intake/scans-0001-0020.md`
 - `publications/ina-muzhakkam/transcription-intake/scans-0021-0040.md`
 - `publications/ina-muzhakkam/transcription-intake/scans-0041-0050.md`
+- `publications/ina-muzhakkam/transcription-intake/USER_CORRECTIONS.md`
 
-## Structural corrections already applied to staging transcription
+## Structural corrections already established
 
 - front-matter edition/date/price restored to scan 3; stamp/handwriting/OCR garbage removed from printed text;
 - source speaker labels and `* * *` ornaments reattached correctly in `இன முழக்கம்`;
-- stray `விசயர்` removed from scan 10;
+- **scan 10 correction:** `விசயர்` is not stray/noise. The user established that it is a misplaced supplied token and belongs after `கர்வத்தால் கனத்துப்போன கனக`, yielding `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில் கல்லேற்றி...`; this supersedes the earlier removal decision and must be applied in P2 and downstream assemblies;
 - stray trailing `2` removed from scan 22;
 - scan-24 `திராவிட சம்பத்து` promotion separated from `சொர்க்க லோகத்தில்`;
 - `பழிக்குப் பழி` final lines moved from supplied scan 36 to source scan 37;
@@ -183,12 +184,12 @@ Canonical intake records:
 
 - P0 source intake / publication identification: **COMPLETE**
 - P1 metadata + contents + page map: **COMPLETE**
-- full supplied transcription structural reassembly: **COMPLETE / STAGING**
+- full supplied transcription structural reassembly: **COMPLETE / STAGING**, with `USER_CORRECTIONS.md` as a durable override for user-established placement corrections
 - P2 canonical page records: **0 / 50**
 - P3 article/section assemblies: **0 / 6**
 - P4 source/completeness audit: **NOT STARTED**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
-- unresolved lexical/source conflicts: **not yet classified; structural pass intentionally did not alter words**
+- unresolved lexical/source conflicts: **not yet classified; structural pass intentionally does not silently alter words**
 - blocked body readings: **0 known at intake**
 
 ## English translation status
@@ -200,6 +201,8 @@ Canonical intake records:
 
 - do not treat physical-copy marks as printed text;
 - do not silently correct supplied lexical words during P2 structural transfer;
+- **retain scan-10 `விசயர்` and place it after `கர்வத்தால் கனத்துப்போன கனக`; never delete it as noise**;
+- apply all entries in `transcription-intake/USER_CORRECTIONS.md` before canonical P2 text is written;
 - preserve contents/page-number witnesses separately;
 - preserve page-boundary word continuations;
 - keep promotions/catalogue outside the five prose article bodies and poetry body;
@@ -214,18 +217,19 @@ Canonical intake records:
 
 # Exact next activity
 
-Create and directly verify **P2 canonical page records for scans 1–25** of `இன முழக்கம்` from the corrected staging transcription.
+Create and directly verify **P2 canonical page records for scans 1–25** of `இன முழக்கம்` from the corrected staging transcription and `transcription-intake/USER_CORRECTIONS.md`.
 
 Requirements:
 
 1. inspect each scan directly;
 2. create one `pages/` record per physical scan;
 3. separate `# அச்சு உரை` from `## அச்சு அல்லாத / physical-copy marks`;
-4. preserve the user lexical baseline while applying the already-established structural corrections;
-5. record printed page numerals only when directly visible;
-6. preserve continuations and article/promotion boundaries;
-7. update page map/README/handover after the batch;
-8. **stop after scans 1–25 P2**; do not begin P3 assemblies in the same activity.
+4. preserve the user lexical baseline while applying the already-established structural corrections and user-correction overrides;
+5. for scan 10, retain the exact sequence `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
+6. record printed page numerals only when directly visible;
+7. preserve continuations and article/promotion boundaries;
+8. update page map/README/handover after the batch;
+9. **stop after scans 1–25 P2**; do not begin P3 assemblies in the same activity.
 
 ## Current blockers
 
