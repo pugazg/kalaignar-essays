@@ -24,7 +24,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `042ef71a80b12767905c008bdc8aeee3bcb3707a` — `Record Ina Muzhakkam Article 3 T2 provenance`.
+- Last confirmed live HEAD immediately before this handover synchronization: `524364c64ca677d9195f9567a25f89d1aefbc450` — `Record Ina Muzhakkam Article 3 T3 provenance in source metadata`.
 
 ---
 
@@ -83,7 +83,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 5 — இன முழக்கம் — TAMIL FROZEN / ARTICLE 3 T2 PASS
+# Publication 5 — இன முழக்கம் — TAMIL FROZEN / ARTICLE 3 T3 PASS
 
 Workspace: `publications/ina-muzhakkam/`  
 Controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`
@@ -143,7 +143,7 @@ The supplied transcription is the lexical baseline for the frozen Tamil layer; s
 - T0: **6 / 6 PASS**
 - T1: **3 / 6 PASS**
 - T2: **3 / 6 PASS**
-- T3: **2 / 6 PASS**
+- T3: **3 / 6 PASS**
 - T4: **2 / 6 PASS**
 - T5: **2 / 6 PASS**
 - E6/E7: **NOT STARTED**
@@ -156,22 +156,24 @@ The supplied transcription is the lexical baseline for the frozen Tamil layer; s
 
 Do not reopen either article without a genuine source-supported defect. Preserve Article 1's source-sensitive incomplete forms and name distinctions; preserve Article 2's verified `Karaikkal Ammaiyar / Karaikkal Ammai`, `Aachariyar / Aachaariyar`, `Kamarajar / Gramaaniyar`, `Dravidians / an Aryan`, sacred-thread refrain, August labels, source-cited work/chapter, incomplete maternal-wife clause and page-boundary traces.
 
-## Article 3 — `முரசறைவாய்` — T2 COMPLETE / PASS
+## Article 3 — `முரசறைவாய்` — T3 COMPLETE / PASS
 
 - Tamil blob: `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`
 - English file: `publications/ina-muzhakkam/translations/en/03-murasaraivai.md`
 - working English title: **Beat the Drum**
 - T1 English blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`
 - T2 English blob: `02d75107effa010ee61b1cc4d999fe4787c66f31`
-- `translation_status`: `fidelity-reviewed`
+- T3 English blob: `a4c2e482e4ba5a6a513cbed1b00879ba7fac90c2`
+- `translation_status`: `voice-reviewed`
 - source comments: **5 / 5 preserved in order** for scans 25–29
 - scan-25→26 trace: `ches— / t`
 - scan-28→29 trace: `dwarf / fox`
-- T2 fidelity corrections: **3**
+- T2 fidelity corrections: **3 / 3 preserved**
+- T3 voice/style corrections: **6**
 - Tamil source changes: **0**
 - blockers: **0**
 
-### Article 3 source-bearing decisions through T2
+### Article 3 source-bearing decisions through T3
 
 1. `முரசறைவாய்` → **Beat the Drum**; `போர்முரசு / போர் முரசு` → **war drum**; `வெற்றி முரசு` → **victory drum**.
 2. Reuse verified **Tamilian / Dravidian / Tamil race** only where the same Tamil form/function genuinely recurs.
@@ -189,21 +191,22 @@ Do not reopen either article without a genuine source-supported defect. Preserve
 14. `சாணிப் பிள்ளையார் / சீனிப்பாயசம்` → **dung Pillaiyar / sugar payasam**.
 15. all **5 / 5** source comments and both physical page-boundary traces remain explicit.
 
-### Article 3 T2 fidelity corrections
+### Article 3 T2 fidelity corrections — preserved at T3
 
 1. `துவண்டாயோ` — **Did you droop away searching for me?** → **Did you grow weary searching for me?**.
 2. `கேட்டுப் பார்` — **Ask and see your glories...** → **Hear of your glories...**.
 3. `கடல் கொள்ளாமல் ... வீரத்தை விலை கேட்கும் ஆரியம் கொண்டது ஏன்?` — corrected T1's implicit object **your valour / it** to direct-address **you / you**; `வீரத்தை` remains within **which asks a price for valour**.
 
-### Article 3 T2 final findings
+### Article 3 T3 voice/style corrections
 
-- omitted clauses: **0**;
-- added claims after correction: **0**;
-- unresolved names/referents: **0**;
-- remaining negative/comparison/logical-relation defects: **0**;
-- quotation/command/question omissions: **0**;
-- source-comment/page-trace defects: **0**;
-- all **5 / 5** comments, `ches— / t`, and `dwarf / fox` remain intact.
+1. opening **does not sound only / It also sounds** → repeated **does not resound merely / It resounds, too**;
+2. reflowed the beloved sentence while preserving **showing her *isayam***; **the bull who has come** → **the bull who comes**;
+3. **turns away with a face drooping in defeat** → **turns away, his face hanging in defeat**;
+4. **overflowed their banks in the Dravidian land** → **surged over their banks in Dravidian land**;
+5. **merely this rice-pongal** → **nothing more than this rice-pongal**;
+6. **Think also of the horror of this present day!** → **Think, too, of the horror of this day!**.
+
+T3 changed no settled meaning or terminology. It preserved all three T2 corrections, source-distinct names, ideological/social labels, quoted material, source-sensitive `இசயங்காட்டி`, `வேட்டாயிற்றே`, Pongal wordplay, all five comments and both page traces.
 
 ## Translation non-regression
 
@@ -223,17 +226,17 @@ Do not reopen either article without a genuine source-supported defect. Preserve
 
 # Exact next activity
 
-**Publication 5 — Article 3 `முரசறைவாய்` — T3 Kalaignar voice review only.**
+**Publication 5 — Article 3 `முரசறைவாய்` — T4 terminology / quotation / citation / source audit only.**
 
 Required steps:
 
 1. fetch live `main` first;
 2. re-read translation plan, tracker, lexicon and review ledger;
 3. re-fetch frozen Tamil Article 3 and confirm blob `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`;
-4. re-fetch T2 English Article 3 and confirm blob `02d75107effa010ee61b1cc4d999fe4787c66f31`;
-5. review the full English against Tamil for directness, martial cadence, commands, rhetorical questions, repetition, ridicule, Pongal wordplay, historical contrasts and closing polemical force;
-6. preserve every T2 meaning/source-bearing decision, especially `இசயங்காட்டி`, **tumbler-dolls**, **paarakku**, **Aryanism**, **rice-pongal**, **long-shouldered hill-lifter**, **dung Pillaiyar / sugar payasam**, and the corrected direct-address object in `கடல் கொள்ளாமல் ... ஆரியம் கொண்டது ஏன்?`;
-7. preserve all **5 / 5** ordered source comments and the `ches— / t`, `dwarf / fox` page traces;
-8. make **T3 voice/style corrections only**;
-9. if PASS, set `translation_status: voice-reviewed` and record the T3 blob and exact voice corrections across durable records;
-10. **STOP AFTER ARTICLE 3 T3. DO NOT PERFORM ARTICLE 3 T4 IN THE SAME ACTIVITY.**
+4. re-fetch T3 English Article 3 and confirm blob `a4c2e482e4ba5a6a513cbed1b00879ba7fac90c2`;
+5. audit **Beat the Drum**, `war drum / victory drum`, **Tamilian / Dravidian / Tamil race**, **Kanakan / Visayan**, **Aryans / Aryanism**, **Northerners**, **tumbler-dolls**, **Kamarajars / Shanmugams / Jeevas**, **Aththaan**, **rice-pongal**, **long-shouldered hill-lifter**, and **dung Pillaiyar / sugar payasam** for terminology/source-witness consistency;
+6. audit quoted `வாழ்விலோர் திருநாள்` → **A Festival Day in Life** and quoted `பாராக்கு` → **paarakku**, with exact quotation scope and no outside identification;
+7. audit source-sensitive `இசயங்காட்டி` → **showing her *isayam*** and `வேட்டாயிற்றே` → **became a blast against a foreign king's fort** without importing scan-alternate or outside readings;
+8. verify all quotation punctuation, rhetorical dashes, all **5 / 5** ordered source comments and the `ches— / t`, `dwarf / fox` page traces;
+9. make **T4 terminology/quotation/citation/source corrections only** if genuinely required; record the T4 blob and findings across durable records;
+10. **STOP AFTER ARTICLE 3 T4. DO NOT PERFORM ARTICLE 3 T5 IN THE SAME ACTIVITY.**
