@@ -44,7 +44,7 @@ Each unit passes T0 source prerequisite, T1 close draft, T2 bilingual fidelity r
 - T1: **4 / 6 PASS**
 - T2: **4 / 6 PASS**
 - T3: **4 / 6 PASS**
-- T4: **3 / 6 PASS**
+- T4: **4 / 6 PASS**
 - T5: **3 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
@@ -119,7 +119,7 @@ T4 found **0** terminology defects, **0** source-witness defects, **0** quotatio
 
 T5 reread the complete T4 English against the frozen Tamil and all T1–T4 decisions. Completeness, meaning, directness, martial/polemical voice, terminology, source-witness distinctions, quotation/source treatment and page provenance all pass. All three T2 fidelity corrections, all six T3 voice corrections, the T4 zero-defect findings, all **5 / 5** source comments, `ches— / t`, and `dwarf / fox` remain intact. **No final body correction was required.** Article 3 is individually frozen.
 
-## Article 4 — T3 COMPLETE / VOICE-REVIEWED
+## Article 4 — T4 COMPLETE / AUDITED
 
 - Tamil authority: `articles/04-pazhikku-pazhi.md`
 - frozen Tamil blob: `e140df7f6234e8362b9139793706533fec0c62d8`
@@ -128,6 +128,7 @@ T5 reread the complete T4 English against the frozen Tamil and all T1–T4 decis
 - T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
 - T2 English blob: `da8969239016948ff2330ecfca6a0963762db95c`
 - T3 English blob: `6e095b751ef39c780d11792a2be7f9293a8a905d`
+- T4 English blob: `a5973f49b53ed37e0f16ceb6f72145d649e39093`
 - status: `voice-reviewed`
 - source comments: **8 / 8 preserved in order** for scans 30–37
 - scan-31→32 trace: `its / taproot`
@@ -135,10 +136,11 @@ T5 reread the complete T4 English against the frozen Tamil and all T1–T4 decis
 - scan-35→36 trace: `three / bullets`
 - scan-36→37 trace: `revenge for / revenge`
 - T2 fidelity corrections: **4 / 4 preserved**
-- T3 voice/style corrections: **10**
+- T3 voice/style corrections: **10 / 10 preserved**
+- T4 audit body corrections: **1**
 - blockers: **0**
 
-### Article 4 source-bearing decisions through T3
+### Article 4 source-bearing decisions through T4
 
 1. `பழிக்குப் பழி` → **Revenge for Revenge**.
 2. `வகுப்புவாதம்` → **communalism**; contextual `வகுப்பு` → **communal division**.
@@ -147,38 +149,35 @@ T5 reread the complete T4 English against the frozen Tamil and all T1–T4 decis
 5. `காங்கிரஸ் காரியக் கமிட்டி` → **Congress Working Committee**.
 6. `காந்தியார் / காந்திஜீ / காந்தி` → source-distinct **Gandhiyar / Gandhiji / Gandhi**.
 7. `பார்ப்பனீயம் / பார்ப்பனியம்` → **Brahminism**, preserving the frozen Tamil spelling distinction in provenance; `பிராமண சேவா சங்கங்கள்` → **Brahmin Seva Associations**.
-8. `சமதர்மம்` → **Samadharma**.
-9. `மயில் ராவணன்` → **Mayil Ravanan**, without outside identification.
-10. `ஜோதி / அருட் சோதி` → **Jothi / Arut Sothi**, without importing Article-1 wording.
-11. `கோட்சே` → **Gotse**, without outside normalization or identification.
-12. `வர்ணாஸ்ரமம்` → **Varnashrama**; `அகிம்ஸை / சத்திய` → **ahimsa / satya**.
-13. `சொர்க்கலோகம்` → **heavenly realm**; `புஷ்ப விமானம்` → **Pushpa Vimanam**.
-14. `பறையன் / பள்ளன் / பார்ப்பனன்` → **Paraiyan / Pallan / Brahmin**; **Nandan, Ramalingar, Vallalar, Thirugnanasambandar** remain source-bearing.
-15. all **8 / 8** source comments and all four explicit physical boundary traces remain visible.
+8. `அக்கிரகாரம்` → **agraharam**.
+9. `சமதர்மம்` → **Samadharma**.
+10. `மயில் ராவணன்` → **Mayil Ravanan**, without outside identification.
+11. `ஜோதி / அருட் சோதி` → **Jothi / Arut Sothi**, without importing Article-1 wording.
+12. `ரத்த அபிஷேகம்` → **blood abhishekam**, preserving quotation status.
+13. `கோட்சே` → **Gotse**, without outside normalization or identification.
+14. `வர்ணாஸ்ரமம்` → **Varnashrama**; `அகிம்ஸை / சத்திய` → **ahimsa / satya**.
+15. `சொர்க்கலோகம்` → **heavenly realm**; `புஷ்ப விமானம்` → **Pushpa Vimanam**.
+16. `பறையன் / பள்ளன் / பார்ப்பனன்` → **Paraiyan / Pallan / Brahmin**; **Nandan, Ramalingar, Vallalar, Thirugnanasambandar** remain source-bearing.
+17. all **8 / 8** source comments and all four explicit physical boundary traces remain visible.
 
-### Article 4 T2 fidelity corrections — preserved at T3
+### Article 4 T2 fidelity corrections — preserved at T4
 
 1. Opening Congress quotation retains **the eradication of communalism in which complete success could not be achieved**.
 2. All three `உயிர்நிலை` occurrences retain **seat of life**.
 3. `வகுப்பு ஒழிந்தால் வாதம் ஒழியும்—வகுப்பு வளர்ந்தால் வகுப்பு வாதம் வளரும்.` retains **communalism disappears**.
 4. `பாகிஸ்தான் பகிர்ந்தளிக்கப் பட்டதே சான்று!` retains **the partitioning off of Pakistan itself is proof**.
 
-### Article 4 T3 Kalaignar voice corrections
+### Article 4 T3 Kalaignar voice corrections — preserved at T4
 
-Ten voice/style-only refinements were made without changing settled meaning or terminology:
+Ten voice/style-only refinements remain intact: clipped welcome cadence; repeated **Let us** in the pledge; **Communalism's seat of life**; direct Brahminism accusation; direct cause-and-abolish syntax for Brahminism/Brahmin Seva Associations; **the true memorial to build for Gandhiyar**; **deserves high praise**; the photographic image **photographed the blood-soaked tongue ... and shown it**; **Gandhiyar preached these: truth—the path of satya**; and the direct proof sentence **The great riots in the country are proof that there, too, he found no consolation!**.
 
-1. the welcome paragraph now uses clipped sentence cadence and **We rejoice:**;
-2. the pledge restores repeated **Let us** and direct eye-fixing action;
-3. the awkward **seat of life of communalism** construction becomes **Communalism's seat of life**;
-4. the Brahminism accusation becomes the more direct **our saying ... is communalism**;
-5. the Brahminism/Brahmin Seva Associations sentence becomes a direct cause-and-abolish sequence;
-6. **the true memorial to build for Gandhiyar** tightens the assertion;
-7. the Working Committee resolution now **deserves high praise**;
-8. the assassination passage directly preserves the photographic image: **photographed the blood-soaked tongue ... and shown it**;
-9. **Gandhiyar preached these: truth—the path of satya** preserves the source demonstrative without flat filler;
-10. the peace paragraph ends with the direct proof sentence **The great riots in the country are proof that there, too, he found no consolation!**.
+### Article 4 T4 audit findings
 
-T3 found no meaning defect requiring reopening T2. All four T2 fidelity corrections, every T2-reviewed source-bearing form, all **8 / 8** source comments and all four page traces remain intact.
+T4 found one quotation-scope defect and corrected it. Frozen Tamil has `“வகுப்பு வாதம்” வீழ்க என்கிறது காரியக் கமிட்டி.` with quotation marks around `வகுப்பு வாதம்` only. T3 had broadened this to the fully quoted **“Down with communalism,” says the Working Committee.** T4 now reads **“Communalism” must fall, says the Working Committee.**, preserving the source quotation boundary and the command force of `வீழ்க`.
+
+All other terminology/source-witness choices pass. Source-sensitive `பாரட்டத்` and `ஜோதில்கலந்தான்` remain governed by the frozen Tamil authority; **agraharam** and quoted **blood abhishekam** are explicitly registered in the living lexicon. All four T2 corrections, all ten T3 voice refinements, all **8 / 8** source comments and all four page traces remain intact.
+
+T4 findings after correction: terminology defects **0**; source-witness defects **0**; quotation/citation defects **0**; source-comment/page-trace defects **0**; blockers **0**.
 
 ## Publication-specific non-regression
 
@@ -194,10 +193,10 @@ T3 found no meaning defect requiring reopening T2. All four T2 fidelity correcti
 1. `இன முழக்கம்` — **T5 VERIFIED**
 2. `சொர்க்க லோகத்தில்` — **T5 VERIFIED**
 3. `முரசறைவாய்` — **T5 VERIFIED**
-4. `பழிக்குப் பழி` — **T3 PASS / T4 NEXT**
+4. `பழிக்குப் பழி` — **T4 PASS / T5 NEXT**
 5. `ஆரியம் பேசுகிறது`
 6. `கவிதைகள்`
 
 ## Exact next activity
 
-**Article 4 — `பழிக்குப் பழி` — T4 terminology / quotation / citation / source audit only.** Re-fetch frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8` and T3 English blob `6e095b751ef39c780d11792a2be7f9293a8a905d`; audit terminology, source-witness distinctions, quotation scope, source/citation treatment, punctuation-bearing rhetoric and page provenance; preserve all four T2 fidelity corrections, all ten T3 voice corrections, all **8 / 8** source comments and all four boundary traces; make T4 audit corrections only; then **stop before Article 4 T5**.
+**Article 4 — `பழிக்குப் பழி` — T5 final article verification only.** Re-fetch frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8` and T4 English blob `a5973f49b53ed37e0f16ceb6f72145d649e39093`; reread the complete article against the frozen Tamil and all T1–T4 decisions; preserve the T4 quotation-scope correction, all four T2 fidelity corrections, all ten T3 voice/style corrections, all **8 / 8** source comments and all four page traces; if PASS set `translation_status: verified`, record the T5 blob and freeze Article 4; then **stop before Article 5 T1**.
