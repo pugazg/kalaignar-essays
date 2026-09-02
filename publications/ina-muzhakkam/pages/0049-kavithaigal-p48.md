@@ -8,7 +8,7 @@ page_type: "poetry-page"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-transcription_method: "user lexical baseline retained; poem headings and source lineation directly verified against source scan"
+transcription_method: "user lexical baseline retained; P5 poem headings and source verse lineation directly verified against source scan"
 ---
 
 # அச்சு உரை
@@ -30,7 +30,7 @@ transcription_method: "user lexical baseline retained; poem headings and source 
 பளிச் செனப் பாய்வர் பாசறை வீரர்!  
 இளித்தவாயரே! இன்னுமா கூச்சல்?
 
-# வருணமா? மானமா?
+# வருணமா? மரணமா?
 
 பரணி பலபாடிப் பாங்குடன்  
 வாழ்ந்த பைந்தமிழ் நாட்டில்  
@@ -48,7 +48,9 @@ transcription_method: "user lexical baseline retained; poem headings and source 
 ## Audit note
 
 - Printed page numeral `48` is directly visible.
-- `இன்னுமா கூச்சல்?` and `வருணமா? மானமா?` are two source-visible poem headings on this scan.
+- `இன்னுமா கூச்சல்?` and `வருணமா? மரணமா?` are two source-visible poem headings on this scan.
+- **P5 scan 49 PASS:** the P2-introduced heading error `வருணமா? மானமா?` is corrected to the source-and-user-baseline `வருணமா? மரணமா?`; source verse lineation is retained.
+- Lexical scan/baseline disagreements on scan 49: **0**.
 - Poetry body ends here; scan 50 is catalogue matter.
 
 <!-- மூல ஸ்கேன் பக்கம்: 49; அச்சுப் பக்கம்: 48 -->
