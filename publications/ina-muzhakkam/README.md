@@ -38,7 +38,7 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - T2: **4 / 6 PASS**
 - T3: **4 / 6 PASS**
 - T4: **4 / 6 PASS**
-- T5: **3 / 6 PASS**
+- T5: **4 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
@@ -54,15 +54,16 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 5. `ஆரியம் பேசுகிறது` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `கவிதைகள்` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-## English Articles 1–3 — T5 VERIFIED
+## English Articles 1–4 — T5 VERIFIED
 
 1. **The Clarion Call of the Race** — English blob `01d0d16c4f52cb134eba9fd35c06ad8376e256cb` — **8 / 8** source comments.
 2. **In the Heavenly Realm** — English blob `bcd98fb1abf03e3109da1c4802570b77fddfe015` — **11 / 11** source comments.
 3. **Beat the Drum** — English blob `c526195d7eb16b2dc446f8b3b15ae674c75548d5` — **5 / 5** source comments.
+4. **Revenge for Revenge** — English blob `46627c3cecfd186e1735d8766ddda27414118e62` — **8 / 8** source comments.
 
-All three are individually frozen and must not be reopened without a genuine source-supported defect.
+All four are individually frozen and must not be reopened without a genuine source-supported defect.
 
-## English Article 4 — T4 COMPLETE / AUDITED
+## English Article 4 — T5 COMPLETE / VERIFIED
 
 - title: **Revenge for Revenge**
 - file: `translations/en/04-pazhikku-pazhi.md`
@@ -71,7 +72,8 @@ All three are individually frozen and must not be reopened without a genuine sou
 - T2 English blob: `da8969239016948ff2330ecfca6a0963762db95c`
 - T3 English blob: `6e095b751ef39c780d11792a2be7f9293a8a905d`
 - T4 English blob: `a5973f49b53ed37e0f16ceb6f72145d649e39093`
-- status: `voice-reviewed`
+- T5 verified English blob: `46627c3cecfd186e1735d8766ddda27414118e62`
+- status: `verified`
 - source comments: **8 / 8 preserved in order**
 - scan-31→32: `its / taproot`
 - scan-34→35: `would have / taken him away`
@@ -79,12 +81,13 @@ All three are individually frozen and must not be reopened without a genuine sou
 - scan-36→37: `revenge for / revenge`
 - T2 fidelity corrections: **4 / 4 preserved**
 - T3 voice/style corrections: **10 / 10 preserved**
-- T4 audit body corrections: **1**
+- T4 audit body corrections: **1 / 1 preserved**
+- T5 final body corrections: **0**
 - blockers: **0**
 
-T4 confirms the Article-4 source-bearing set and all T2/T3 decisions: **communalism / communal division**, **seat of life**, **Dravidar Kazhagam**, **Congress Working Committee**, **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **agraharam**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, quoted **blood abhishekam**, **Gotse**, **Varnashrama**, **ahimsa / satya**, **Pushpa Vimanam**, **heavenly realm**, **Paraiyan / Pallan / Brahmin**, and **Nandan / Ramalingar / Vallalar / Thirugnanasambandar**.
+Article 4 freezes the source-bearing set **communalism / communal division**, **seat of life**, **Dravidar Kazhagam**, **Congress Working Committee**, **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **agraharam**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, quoted **blood abhishekam**, **Gotse**, **Varnashrama**, **ahimsa / satya**, **Pushpa Vimanam**, **heavenly realm**, **Paraiyan / Pallan / Brahmin**, and **Nandan / Ramalingar / Vallalar / Thirugnanasambandar**.
 
-One T4 body correction restored exact quotation scope: source `“வகுப்பு வாதம்” வீழ்க என்கிறது காரியக் கமிட்டி.` is now **“Communalism” must fall, says the Working Committee.** instead of T3's broadened **“Down with communalism,” says the Working Committee.** All four T2 fidelity corrections and all ten T3 voice/style corrections remain intact; all **8 / 8** source comments and all four page traces remain intact. T4 closes with **0** remaining terminology, source-witness, quotation/citation, or provenance defects.
+T4's quotation-scope correction remains frozen: source `“வகுப்பு வாதம்” வீழ்க என்கிறது காரியக் கமிட்டி.` is **“Communalism” must fall, says the Working Committee.** All four T2 fidelity corrections and all ten T3 voice/style corrections remain intact. T5 found no final body defect; all **8 / 8** source comments and all four page traces remain intact.
 
 ## Permanent non-regression
 
@@ -96,7 +99,7 @@ One T4 body correction restored exact quotation scope: source `“வகுப�
 - promotional/catalogue/front-matter exclusions remain outside the six English bodies;
 - no supplied lexical token is silently normalised;
 - known frozen source-sensitive forms must not be replaced by scan alternatives;
-- Articles 1–3 are individually T5-frozen;
+- Articles 1–4 are individually T5-frozen;
 - `கவிதைகள்` English must preserve source headings and lineation.
 
 ## Important records
@@ -110,4 +113,4 @@ One T4 body correction restored exact quotation scope: source `“வகுப�
 
 ## Exact next activity
 
-**Article 4 `பழிக்குப் பழி` — T5 final article verification only.** Re-fetch frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8` and T4 English blob `a5973f49b53ed37e0f16ceb6f72145d649e39093`; verify the entire article against the frozen Tamil and all T1–T4 decisions; preserve the T4 quotation-scope correction, all four T2 fidelity corrections, all ten T3 voice/style corrections, all **8 / 8** source comments and all four page traces; if PASS set `translation_status: verified`, record the final T5 blob and freeze Article 4; **stop before Article 5 T1**.
+**Article 5 `ஆரியம் பேசுகிறது` — T1 close English draft only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`; translate the complete article paragraph by paragraph from the frozen Tamil authority, preserving directness, quotation status, source comments, page trace and source-bearing forms; record the T1 English blob and provenance across durable records; **stop before Article 5 T2**.
