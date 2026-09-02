@@ -11,7 +11,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - Tamil assemblies: **6 / 6 strict-reviewed**
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **2 / 6 PASS**
+- T1: **3 / 6 PASS**
 - T2: **2 / 6 PASS**
 - T3: **2 / 6 PASS**
 - T4: **2 / 6 PASS**
@@ -25,17 +25,14 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 |---:|---|---|---|---|
 | 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **The Clarion Call of the Race** | **T5 PASS / verified** |
 | 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **In the Heavenly Realm** | **T5 PASS / verified** |
-| 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | TBD | **T0 PASS / T1 NEXT** |
+| 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | **Beat the Drum** | **T1 PASS / draft / T2 NEXT** |
 | 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | TBD | **T0 PASS** |
 | 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | TBD | **T0 PASS** |
 | 6 | `கவிதைகள்` | `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` | TBD | **T0 PASS** |
 
 Article 1 T5 blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.  
-Article 2 T1 blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`.  
-Article 2 T2 blob: `b9ed854519806bbe65dc5b006183fb4675cb2c3a`.  
-Article 2 T3 blob: `0d77a253523204f970b0cc89bfdc47f41ee793ef`.  
-Article 2 T4 blob: `641c65e20b8f2636dae420d874d31af626517afb`.  
-Article 2 T5 verified blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`.
+Article 2 T5 verified blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`.  
+Article 3 T1 draft blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`.
 
 ## Translation authority
 
@@ -68,23 +65,28 @@ Article 1 is individually frozen and must not be reopened without a genuine sour
 ## Article 2 T5 verified boundary
 
 - file: `02-sorgga-logaththil.md`
-- verified title: **In the Heavenly Realm**
+- title: **In the Heavenly Realm**
 - status: `verified`
 - Tamil blob: `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
-- T1 blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`
-- T2 blob: `b9ed854519806bbe65dc5b006183fb4675cb2c3a`
-- T3 blob: `0d77a253523204f970b0cc89bfdc47f41ee793ef`
-- T4 blob: `641c65e20b8f2636dae420d874d31af626517afb`
-- T5 verified blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`
-- source comments: **11 / 11 preserved in order** for scans 14–24
-- T2 fidelity corrections preserved: **3 / 3**
-- T3 voice/style corrections preserved: **5 / 5**
-- T4 source/quotation corrections preserved: **2 / 2**
-- T5 body corrections: **0**
+- verified English blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`
+- source comments: **11 / 11 preserved in order**
+
+Article 2 is individually frozen. Preserve its verified source-witness distinctions, sacred-thread refrain, August labels, source-cited work/chapter, incomplete source clause and page-boundary traces unless a genuine source-supported defect is found.
+
+## Article 3 T1 boundary
+
+- file: `03-murasaraivai.md`
+- working title: **Beat the Drum**
+- status: `draft`
+- Tamil blob: `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`
+- T1 English blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`
+- source comments: **5 / 5 preserved in order** for scans 25–29
+- scan-25→26 trace: `ches— / t`
+- scan-28→29 trace: `dwarf / fox`
 - blockers: **0**
 
-T5 reread the complete English against the frozen Tamil and all T1–T4 decisions. No omitted clause, added claim, remaining terminology/source-witness defect, quotation defect, stage-direction defect or page-trace defect remained. **Karaikkal Ammaiyar / Karaikkal Ammai**, **Aachariyar / Aachaariyar**, **Kamarajar / Gramaaniyar**, **Dravidians / an Aryan**, the sacred-thread refrain, August political labels, *Thiruvilaiyadal Puranam* / **Mahapathagam Theertha Padalam**, the incomplete maternal-wife clause, `engag— / ed`, scan-18→19 after **my father,**, `boast— / ing` and all 11 source comments remain intact. Article 2 is now individually frozen.
+T1 established working **Beat the Drum**, reused verified **Tamilian / Dravidian / Tamil race** where the same functions recur, and preserved source-distinct **Kanakan / Visayan** rather than harmonising to Article 1. It established **war drum / victory drum**, source-bearing **Aththaan**, **paarakku**, **Kamarajars / Shanmugams / Jeevas**, **Northerners' imperialism**, contextual **Aryanism**, literal **long-shouldered hill-lifter**, and **dung Pillaiyar / sugar payasam**. Frozen `இசயங்காட்டி` is not silently repaired; T1 carries the cautious partial treatment **showing her *isayam*** for T2 audit.
 
 ## Exact next activity
 
-**Article 3 `முரசறைவாய்` — T1 close draft only.** Re-fetch frozen Tamil blob `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`; establish the English title and Article-3 terminology from the frozen Tamil only; translate the complete frozen assembly preserving rhetorical action, quotation structure and ordered source comments; create/update `03-murasaraivai.md` with `translation_status: draft`; record the T1 blob and decisions, then **stop before Article 3 T2**.
+**Article 3 `முரசறைவாய்` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` and T1 English blob `372a0572b95d6e0d02737f1b534f583b1dddf134`; compare every paragraph/clause for completeness, meaning, names/referents, negatives, comparisons, logical relations, repeated commands/questions and source trace; explicitly audit `இசயங்காட்டி`, `உருட்டுச்சட்டிப் பொம்மைகள்`, `பாராக்கு`, `வேட்டாயிற்றே`, `வீரத்தை விலை கேட்கும் ஆரியம் கொண்டது ஏன்?`, the title and Pongal wordplay; preserve all **5 / 5** comments and both page-boundary traces; make fidelity corrections only and **stop before Article 3 T3**.
