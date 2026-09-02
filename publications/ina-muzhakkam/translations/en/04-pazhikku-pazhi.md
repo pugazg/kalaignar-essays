@@ -9,7 +9,7 @@ source_scan_pages: "30-37"
 source_printed_pages: "contents witness start 29; scan 30 numeral not visible; scans 31-37 visibly 30-36"
 language: "en"
 translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 4 T3 Kalaignar voice review complete"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 4 T4 terminology/quotation/citation/source audit complete"
 ---
 
 # Revenge for Revenge
@@ -30,7 +30,7 @@ Had this clarity and this decision become action earlier, the horrific murder of
 
 Let us forget what happened. Let us fix our eyes on the country's welfare........ at least from now on, let us walk the good path........ That is the pledge the Dravidians need now!
 
-“Down with communalism,” says the Working Committee.
+“Communalism” must fall, says the Working Committee.
 
 The inquiry, ‘What is that accursed communalism?........ Where is the “seat of life” of that communalism......?’ is absolutely necessary.
 
