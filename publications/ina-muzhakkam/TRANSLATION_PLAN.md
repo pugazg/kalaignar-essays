@@ -62,28 +62,30 @@ After all six reach T5:
 - T2: **1 / 6 PASS**
 - T3: **1 / 6 PASS**
 - T4: **1 / 6 PASS**
-- T5: **0 / 6**
+- T5: **1 / 6 PASS**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
 - blockers: **0**
 
-## Article 1 — T4 COMPLETE / PASS
+## Article 1 — T5 COMPLETE / VERIFIED
 
 - Tamil authority: `articles/01-ina-muzhakkam.md`
 - frozen Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
 - English file: `translations/en/01-ina-muzhakkam.md`
-- working English title: **The Clarion Call of the Race** — T4 confirmed, not T5-frozen
+- verified English title: **The Clarion Call of the Race**
 - T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`
 - T4 English blob: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`
-- translation status: `voice-reviewed` — retained until T5 verification
+- T5 verified English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
+- translation status: `verified`
 - source-page comments: **8 / 8 preserved in order**
 - T2 fidelity corrections preserved: **5 / 5**
 - T3 voice/style body corrections preserved: **10 / 10**
 - T4 body corrections: **0**
-- T4 metadata/provenance update: **1**
+- T5 body corrections: **0**
+- T5 metadata/status update: `translation_status` → `verified`; `translation_method` records T5 completion
 - blockers: **0**
 
-T4 audited the title, recurring ideological/social labels, names/referents, source-specific transliterations, quotation scope, page comments, source-incomplete forms and source-witness distinctions. It confirmed the working `Dravidian / Dravidian race / Aryan race`, `Self-Respecter`, `Tamilian`, Kamaraj Nadar, Gramaniyar, Kanaka Visayar, Vallal Pari and Arutperum Jothi treatments; retained the `Vadalur Ramalingam / Vadalur Ramalingar` source distinction; retained incomplete `Self-Respect ....` and `giv....`; confirmed all eight source comments; and preserved the frozen Vallal Pari unit's unmatched opening outer double quotation rather than silently repairing it. No body correction was required.
+T5 re-fetched frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T4 English blob `8d3238ca5cd309660c6d938b8f546eca2ba5698c`, then verified the complete article against the accumulated T1–T4 decisions. No final-verification body defect remained. The title, meaning, voice, ideological/social labels, names/referents, source-sensitive incomplete forms, source-witness distinctions, all eight source comments, scan-9→10 page-boundary trace and the Vallal Pari unmatched source quotation anomaly all remain intact. Article 1 is now individually verified; publication-level E6/E7 remain blocked until all six articles reach T5.
 
 ## Publication-specific translation constraints
 
@@ -102,20 +104,20 @@ T4 audited the title, recurring ideological/social labels, names/referents, sour
 
 The frozen Tamil assemblies preserve the user-approved lexical layer. Known scan/baseline disagreements include `பாரட்டத்`, `ஜோதில்கலந்தான்`, `மனமுள்ளார்`, `ஏறிபத்தர்`, `முடுக்கினாள்`, `போர் வீரனாம்`, and `கதறினாள்`. Translate the frozen Tamil context; do not translate from the scan alternative instead.
 
-Article 1 additionally has frozen incomplete forms `சுயமரியாதைக் ....` and `அளித் ....`; later gates must not silently complete them.
+Article 1 additionally has frozen incomplete forms `சுயமரியாதைக் ....` and `அளித் ....`; they remain intentionally incomplete in the verified English article.
 
 The non-body scan-50 numeric/author conflicts are not translation inputs because the catalogue is excluded from the six bodies.
 
 ## Title policy
 
-English titles are established during each article's T1 activity from the frozen Tamil title. Article 1 working title **The Clarion Call of the Race** passed T2 fidelity, T3 voice and T4 terminology/source audit unchanged and is not release-frozen until T5.
+English titles are established during each article's T1 activity from the frozen Tamil title. Article 1 title **The Clarion Call of the Race** passed T2 fidelity, T3 voice, T4 terminology/source audit and T5 final verification and is now the verified Article-1 English title.
 
 ## Article order
 
 Translation proceeds in source order:
 
-1. `இன முழக்கம்`
-2. `சொர்க்க லோகத்தில்`
+1. `இன முழக்கம்` — **T5 VERIFIED**
+2. `சொர்க்க லோகத்தில்` — **T1 NEXT**
 3. `முரசறைவாய்`
 4. `பழிக்குப் பழி`
 5. `ஆரியம் பேசுகிறது`
@@ -123,6 +125,6 @@ Translation proceeds in source order:
 
 ## Exact next activity
 
-**Article 1 — `இன முழக்கம்` — T5 final article verification only.**
+**Article 2 — `சொர்க்க லோகத்தில்` — T1 close draft only.**
 
-Re-fetch frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T4 English blob `8d3238ca5cd309660c6d938b8f546eca2ba5698c`; verify the complete English article against all T1–T4 decisions, source trace and metadata, make final-verification corrections only if a genuine defect remains, mark the article `verified` only if it passes, record the T5 blob/findings, then **stop before Article 2**.
+Re-fetch frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c`; establish the English title and Article-2 lexicon choices from the frozen Tamil, create the complete paragraph-by-paragraph English draft with ordered source-page comments, record the resulting T1 English blob and decisions in tracker/lexicon/review/handover, then **stop before Article 2 T2**.
