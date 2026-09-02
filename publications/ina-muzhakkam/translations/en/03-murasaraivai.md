@@ -8,8 +8,8 @@ source_tamil_blob_sha: "27ab358ac7cd06bc3c072e4bca425a1269f2c6b8"
 source_scan_pages: "25-29"
 source_printed_pages: "contents witness start 24; scan 25 numeral not visible; scans 26-29 visibly 25-28"
 language: "en"
-translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 3 T4 terminology / quotation / citation / source audit complete"
+translation_status: "verified"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 3 T5 final article verification complete"
 ---
 
 # Beat the Drum
