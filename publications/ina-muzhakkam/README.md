@@ -59,14 +59,14 @@ Staging files:
 - [`transcription-intake/scans-0001-0020.md`](transcription-intake/scans-0001-0020.md)
 - [`transcription-intake/scans-0021-0040.md`](transcription-intake/scans-0021-0040.md)
 - [`transcription-intake/scans-0041-0050.md`](transcription-intake/scans-0041-0050.md)
-- [`transcription-intake/USER_CORRECTIONS.md`](transcription-intake/USER_CORRECTIONS.md) — user-authorised corrections that supersede conflicting staging notes during P2 transfer
+- [`transcription-intake/USER_CORRECTIONS.md`](transcription-intake/USER_CORRECTIONS.md)
 - [`STRUCTURAL_REASSEMBLY_REVIEW.md`](STRUCTURAL_REASSEMBLY_REVIEW.md)
 
 Important structural fixes include:
 
 - front-matter edition/price moved to scan 3 and library/handwriting/OCR noise removed from printed text;
 - `மாதவி`, `கண்ணகி`, `இளங்கோவடிகள்`, `புலவர் பிசிராந்தையார்`, `வடலூர் இராமலிங்கம்`, `சேரன் செங்குட்டுவன்`, `திருவள்ளுவர்`, `பாரிவள்ளல்` labels restored to their source positions;
-- scan 10 `விசயர்` is **not noise**: the user corrected its placement to `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`; this correction supersedes the earlier removal decision;
+- **scan 10 `விசயர்` correction:** retain the misplaced supplied word after `கர்வத்தால் கனத்துப்போன கனக`, yielding `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
 - scan-22 trailing `2` removed as non-source transcription noise;
 - scan-24 and scan-37 promotional matter separated from article bodies;
 - `பழிக்குப் பழி` final lines moved from supplied scan 36 to source scan 37;
@@ -74,12 +74,26 @@ Important structural fixes include:
 - poetry lineation restored across scans 41–49;
 - scan-50 catalogue restored as a structured catalogue rather than running prose.
 
+## P2 canonical page layer
+
+Scans **1–25** have now been transferred into canonical `pages/` records and directly checked against the controlling PDF.
+
+P2 decisions now durable:
+
+- printed text is separated from physical-copy marks on every page record;
+- visible printed numerals are recorded only when directly visible;
+- heading scans **6, 14 and 25** do not receive inferred printed numerals;
+- page-to-page word continuations are recorded in audit notes;
+- scan 24 article/promotion boundary is explicit;
+- scan 10 preserves the user correction `கனக விசயர்`;
+- scan 22 trailing `2` remains excluded as non-source noise.
+
 ## Current archival gates
 
 - P0 source intake / publication identification: **COMPLETE**
 - P1 metadata + contents + physical page map: **COMPLETE**
 - structural reassembly of supplied transcription: **COMPLETE / STAGING**
-- P2 canonical page records: **0 / 50**
+- P2 canonical page records: **25 / 50 VERIFIED**
 - P3 article/section assemblies: **0 / 6**
 - P4 source/completeness audit: **NOT STARTED**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
@@ -89,12 +103,12 @@ Important structural fixes include:
 
 - do not treat stamps/handwriting as printed text;
 - do not silently change user-supplied lexical tokens during structural processing;
-- apply `transcription-intake/USER_CORRECTIONS.md` during P2 transfer; specifically retain and reposition scan-10 `விசயர்` rather than deleting it;
 - preserve contents/body page-number witnesses separately;
 - preserve promotional/catalogue matter outside article bodies;
 - preserve poem headings on their actual scans;
+- scan 10 must retain `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
 - lexical disagreements with scan pixels belong to later source-fidelity review and must be documented rather than silently corrected.
 
 ## Exact next activity
 
-Create and directly verify **P2 canonical page records for scans 1–25** from the structurally corrected staging transcription **plus the user-correction override file**, preserving printed text separately from physical-copy marks and recording every page continuation/boundary. Do not begin P3 article assemblies until the relevant page layer is durable.
+Create and directly verify **P2 canonical page records for scans 26–50**, preserving the same lexical-baseline rule, physical-copy separation, continuation handling, article/promotion boundaries and poetry lineation. After that batch, update the page map/README/handover and stop before P3 article assemblies.
