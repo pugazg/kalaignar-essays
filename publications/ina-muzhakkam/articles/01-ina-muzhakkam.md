@@ -4,10 +4,10 @@ article_number: 1
 title_ta: "இன முழக்கம்"
 scan_pages: "6-13"
 printed_pages: "contents witness start 4; scan 6 numeral not visible; scans 7-13 visibly 6-12"
-status: "verified"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-assembly_method: "concatenated from verified canonical P2 page records; user lexical baseline retained; P2 structure and page-boundary provenance preserved"
+assembly_method: "concatenated from verified canonical page records; P5 strict visual fidelity recheck passed with no body correction required; user lexical baseline retained; page-boundary provenance preserved"
 ---
 
 # இன முழக்கம்
