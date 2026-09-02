@@ -59,7 +59,10 @@ Current gates:
 - P5 page-level review: **50 / 50 PASS**
 - P5 assembly recheck: **6 / 6 PASS**
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- English: **NOT STARTED**
+- E0 English planning/setup: **COMPLETE / PASS**
+- T0: **6 / 6 PASS**
+- T1–T5: **0 / 6**
+- E6/E7: **NOT STARTED**
 - blockers: **0**
 
 Frozen Tamil authorities:
@@ -71,6 +74,7 @@ Frozen Tamil authorities:
 5. `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` — `ஆரியம் பேசுகிறது`
 6. `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` — `கவிதைகள்`
 
-Canonical P5 record: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/ina-muzhakkam/VISUAL_TEXT_FIDELITY_REVIEW.md).
+Canonical P5 record: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/ina-muzhakkam/VISUAL_TEXT_FIDELITY_REVIEW.md).  
+English plan/tracker: [`TRANSLATION_PLAN.md`](publications/ina-muzhakkam/TRANSLATION_PLAN.md) / [`translations/en/README.md`](publications/ina-muzhakkam/translations/en/README.md).
 
-**Exact next activity: E0 — English translation planning/setup only.**
+**Exact next activity: Article 1 `இன முழக்கம்` — T1 close English draft only; stop before T2.**
