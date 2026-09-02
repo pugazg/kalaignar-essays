@@ -1,83 +1,107 @@
-# Next Chat Prompt — Kalaignar Essays / Articles
+# Next Chat Prompt — Kalaignar Essays / இன முழக்கம்
 
 Use this file only as a convenience handoff. **Live `main` and root `HANDOVER.md` are authoritative.**
 
-Continue the project directly in:
+Continue directly in:
 
 `pugazg/kalaignar-essays`
 
 Branch: `main`
 
+Active publication:
+
+`publications/ina-muzhakkam/` — **இன முழக்கம்**
+
+Controlling source:
+
+`TVA_BOK_0063958_இன_முழக்கம்.pdf`
+
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. The last confirmed live HEAD immediately before this prompt was refreshed was:
+Fetch live `main` first. The last confirmed durable state before this prompt synchronization includes:
 
-`1e5b6cb183152045457ec2260de5ccebd0e85786` — `Mark Thiraavida Sampaththu released in root README`
+`76fd0b54bd03f6a06822cd12f0862b680e7524d3` — `Add Ina Muzhakkam active publication to root README`
 
-If `main` has advanced, preserve the newer durable state. **Do not reset, overwrite, repeat or reopen later completed work merely because this prompt contains an older checkpoint.**
+If `main` has advanced, preserve the newer durable state. **Do not reset, overwrite, repeat or reopen later completed work merely because this prompt records an older checkpoint.**
 
 Before every write, re-fetch the target file and current live state as needed. Work directly on `main`.
 
 ## Mandatory startup
 
-Before making any repository change, read completely:
+Read completely before changing anything:
 
 1. `ESSAY_PROCESSING_GUIDE.md`
 2. `ESSAY_TRANSLATION_GUIDE.md`
 3. `docs/FUTURE_WORK_GUIDELINES.md`
-4. `HANDOVER.md`
+4. root `HANDOVER.md`
 5. this `docs/NEXT_CHAT_PROMPT.md`
+6. `publications/ina-muzhakkam/README.md`
+7. `publications/ina-muzhakkam/metadata/source.md`
+8. `publications/ina-muzhakkam/indexes/contents.md`
+9. `publications/ina-muzhakkam/indexes/page-map.md`
+10. `publications/ina-muzhakkam/STRUCTURAL_REASSEMBLY_REVIEW.md`
+11. all three files under `publications/ina-muzhakkam/transcription-intake/`
 
-Then read the source-specific README / metadata / processing records for the next supplied publication before changing anything.
+## Publication-specific user rule
 
-## Current project state
+The user supplied the complete word-to-word transcription and explicitly instructed:
 
-Publications 1–4 are **COMPLETE / FROZEN / RELEASED**.
+> **Keep the words. Correct only structural order, punctuation, spacing, paragraphing, headings, misplaced words and analogous layout issues; remove unwanted non-source/OCR words.**
 
-1. `சக்கரவர்த்தியின் திருமகன்` — release complete / frozen.
-2. `கயிற்றில் தொங்கிய கணபதி` — release complete / frozen.
-3. `உணர்ச்சிமாலை` — release complete / frozen.
-4. `திராவிட சம்பத்து` — release complete / frozen.
+Treat the user transcription as the lexical baseline during structural/P2 transfer. The scan controls structure and physical evidence. Do **not** silently change a word because the scan appears to carry another spelling; document such a lexical witness issue for later fidelity handling.
 
-Do not reopen any of these publications for stylistic polishing, conventionalisation or terminology homogenisation. Reopen only for a genuine source-supported or release-blocking defect.
+## Durable intake state
 
-## Publication 4 release boundary — திராவிட சம்பத்து
+- source SHA-256: `f57e4070051d7bc77ab78d5d393dbefbe47791efcc3203c594c5f3949ef0dfbf`
+- physical scans: **50**
+- first edition: **செப்டம்பர் 1951**
+- publisher: **முன்னேற்றப் பண்ணை, சென்னை**
+- P0: **COMPLETE**
+- P1 metadata / contents / physical page map: **COMPLETE**
+- supplied 50-scan structural transcription reassembly: **COMPLETE / STAGING**
+- P2 canonical page records: **0 / 50**
+- P3 assemblies: **0 / 6**
+- P4: **NOT STARTED**
+- P5: **NOT STARTED**
+- English translation: **NOT STARTED**
+- blockers: **0**
 
-Tamil archival state:
+Printed contents witness:
 
-- P0–P5: **COMPLETE / PASS**
-- physical scans: **16**
-- frozen Tamil Article 1: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
-- frozen Tamil Article 2: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
+1. `இன முழக்கம்` — 4
+2. `சொர்க்க லோகத்தில்` — 13
+3. `முரசறைவாய்` — 24
+4. `பழிக்குப் பழி` — 29
+5. `ஆரியம் பேசுகிறது` — 37
+6. `கவிதைகள்` — 40
 
-English release state:
+Important structural decisions already established:
 
-- T0–T5: **2 / 2 PASS**
-- E6: **PASS**
-- E7: **PASS / RELEASE COMPLETE**
-- **English translation: COMPLETE / RELEASED / FROZEN**
-
-Released English authorities:
-
-1. **Dravidian Wealth** — `10dca72882043db491fe8c6ad3f858bc4c9c584f`
-2. **Iyer Announces!** — `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
-
-E7 release closeout confirmed no English body or metadata changes after E6, no frozen Tamil changes, no reopened gates, no source/release defects and no blockers.
+- non-source stamps/handwriting/OCR garbage excluded from printed text;
+- edition/date/price belong to scan 3;
+- source speaker labels and ornaments restored in `இன முழக்கம்`;
+- stray `விசயர்` and scan-22 trailing `2` removed;
+- scan-24 and scan-37 promotional matter kept outside article bodies;
+- `பழிக்குப் பழி` final lines belong on scan 37, not scan 36;
+- scan 40 is poetry introductory/review matter;
+- `வா!` begins scan 43;
+- `யோசித்துப் பார்!` begins scan 44;
+- poetry lineation is restored in the staging transcription;
+- scan 50 is a catalogue/advertisement unit.
 
 ## EXACT NEXT ACTIVITY
 
-There is no pending review gate for Publications 1–4.
+Create and directly verify **P2 canonical page records for scans 1–25**.
 
-**The next project activity is intake of the next supplied Kalaignar essay/article publication.**
+For each scan:
 
-When the next source is supplied:
+1. inspect the controlling PDF directly;
+2. create one `pages/` Markdown record;
+3. separate `# அச்சு உரை` from `## அச்சு அல்லாத / physical-copy marks`;
+4. preserve the user lexical baseline while carrying forward the established structural corrections;
+5. record a printed page numeral only when directly visible;
+6. record page-to-page continuation and article/promotion boundaries in audit notes;
+7. update page-map/README/root handover after the batch;
+8. **stop after scans 1–25 P2** — do not begin P3 assemblies in the same activity.
 
-1. fetch live `main` first;
-2. read the permanent processing/translation guides and authoritative handover;
-3. identify the publication/source exactly from the supplied material;
-4. create or continue the correct publication workspace;
-5. record source identity, source hash/scan count when available, boundaries and controlling-source rules;
-6. follow the Tamil archival gates before English translation;
-7. never reopen Publications 1–4 merely to harmonise style.
-
-If no new source has been supplied yet, make no speculative repository change.
+Publications 1–4 remain **COMPLETE / FROZEN / RELEASED** and must not be reopened absent a genuine source-supported or release-blocking defect.
