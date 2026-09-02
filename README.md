@@ -6,7 +6,7 @@
 
 > **மூல ஸ்கேன் தான் controlling source. Markdown ஒரு பாதுகாப்பு அடுக்கு; திருத்தப்பட்ட புதிய பதிப்பு அல்ல.**
 
-Source-visible wording, பழைய எழுத்துப்பாங்கு, punctuation, பெயர்கள், எண்கள், மீளுரைகள், வழக்கத்திற்கு மாறான இலக்கணம் மற்றும் source-witness வேறுபாடுகள் அமைதியாகச் சீர்திருத்தப்படவோ நவீனப்படுத்தப்படவோ கூடாது. Source PDF files repository-யில் commit செய்யப்படாது.
+Source PDF files repository-யில் commit செய்யப்படாது. Source-visible wording மற்றும் source-witness வேறுபாடுகள் அமைதியாக modernise/normalise செய்யப்படக்கூடாது.
 
 ## Permanent workflow documents
 
@@ -14,147 +14,59 @@ Source-visible wording, பழைய எழுத்துப்பாங்க�
 - [`ESSAY_TRANSLATION_GUIDE.md`](ESSAY_TRANSLATION_GUIDE.md)
 - [`HANDOVER.md`](HANDOVER.md)
 - [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md)
-- [`docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`](docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md)
-- [`docs/START_NEW_ESSAY_WORK_PROMPT.md`](docs/START_NEW_ESSAY_WORK_PROMPT.md)
 
-## Publication 1 — சக்கரவர்த்தியின் திருமகன் — COMPLETE / FROZEN / RELEASED
+## Publication status
 
-Workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
+### Publication 1 — சக்கரவர்த்தியின் திருமகன்
 
-- physical scans: **83**
-- printed articles: **14**
-- strict Tamil fidelity: **83 / 83 PASS**
-- Tamil assemblies: **14 / 14**
-- English T0–T5: **14 / 14 complete**
-- E6: **PASS**
-- E7: **PASS / RELEASE COMPLETE**
-- unresolved blockers: **0**
+**COMPLETE / FROZEN / RELEASED** — Tamil strict fidelity **83/83 PASS**, English T0–T5 **14/14**, E6 PASS, E7 PASS, blockers 0.
 
-## Publication 2 — கயிற்றில் தொங்கிய கணபதி — COMPLETE / FROZEN / RELEASED
+### Publication 2 — கயிற்றில் தொங்கிய கணபதி
 
-Workspace: [`publications/kayittril-thongiya-kanapathi/`](publications/kayittril-thongiya-kanapathi/)
+**COMPLETE / FROZEN / RELEASED** — Tamil P5 **17/17 PASS**, English release complete, blockers 0.
 
-- physical scans: **17**
-- Tamil page records: **17 / 17**
-- P5 strict visual fidelity: **17 / 17 PASS**
-- Tamil source: **COMPLETE / FROZEN**
-- English translation/release: **COMPLETE / RELEASED**
-- unresolved blockers: **0**
+### Publication 3 — உணர்ச்சிமாலை
 
-## Publication 3 — உணர்ச்சிமாலை — COMPLETE / FROZEN / RELEASED
+**COMPLETE / FROZEN / RELEASED** — Tamil P5 **50/50 PASS**, article recheck **10/10 PASS**, English T0–T5 **10/10**, E6 PASS, E7 PASS, blockers 0.
 
-Workspace: [`publications/unarchchimaalai/`](publications/unarchchimaalai/)
+### Publication 4 — திராவிட சம்பத்து
 
-- physical scans: **50**
-- Tamil P2: **50 / 50**
-- Tamil P3: **10 / 10**
-- P4: **PASS**
-- P5: **50 / 50 PASS**
-- English T0–T5: **10 / 10 PASS**
-- E6: **PASS**
-- E7: **PASS / RELEASE COMPLETE**
-- English translation: **COMPLETE / RELEASED / FROZEN**
-- unresolved blockers: **0**
-
-Detailed records remain in the publication workspace. Do not reopen absent a genuine source-supported or release-blocking defect.
-
-## Publication 4 — திராவிட சம்பத்து — COMPLETE / FROZEN / RELEASED
-
-Workspace: [`publications/thiraavida-sampaththu/`](publications/thiraavida-sampaththu/)
-
-- physical scans: **16**
-- Tamil P0–P5: **COMPLETE / FROZEN**
-- English T0–T5: **2 / 2 PASS**
-- E6: **PASS**
-- E7: **PASS / RELEASE COMPLETE**
-- English translation: **COMPLETE / RELEASED / FROZEN**
-- unresolved blockers: **0**
+**COMPLETE / FROZEN / RELEASED** — Tamil P0–P5 complete, English T0–T5 **2/2**, E6 PASS, E7 PASS, blockers 0.
 
 Released English authorities:
 
-1. [`Dravidian Wealth`](publications/thiraavida-sampaththu/translations/en/01-thiraavida-sampaththu.md) — `10dca72882043db491fe8c6ad3f858bc4c9c584f`.
-2. [`Iyer Announces!`](publications/thiraavida-sampaththu/translations/en/02-aiyar-arivikkirar.md) — `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`.
+- **Dravidian Wealth** — `10dca72882043db491fe8c6ad3f858bc4c9c584f`
+- **Iyer Announces!** — `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
 
-Do not reopen absent a genuine source-supported or release-blocking defect.
+### Publication 5 — இன முழக்கம்
 
-## Publication 5 — இன முழக்கம் — ACTIVE / P4 COMPLETE
+Workspace: [`publications/ina-muzhakkam/`](publications/ina-muzhakkam/)  
+Controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`  
+Physical scans: **50**  
+Source SHA-256: `f57e4070051d7bc77ab78d5d393dbefbe47791efcc3203c594c5f3949ef0dfbf`
 
-Workspace: [`publications/ina-muzhakkam/`](publications/ina-muzhakkam/)
-
-- controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`
-- physical scans: **50**
-- source SHA-256: `f57e4070051d7bc77ab78d5d393dbefbe47791efcc3203c594c5f3949ef0dfbf`
-- edition: **முதற் பதிப்பு: செப்டம்பர் 1951**
-- publisher: **முன்னேற்றப் பண்ணை, சென்னை**
-- seller: **பாரி நிலையம், 59, பிராட்வே, சென்னை**
-- source PDF committed: **No**
-
-### Publication-specific user rule
+User-established lexical rule:
 
 > **Keep the words. Correct only structural order, punctuation, spacing, paragraphing, headings, misplaced words and analogous layout issues; remove unwanted non-source/OCR words.**
-
-The user's full 50-scan transcription has been structurally reassembled, transferred into a complete canonical P2 page layer, assembled into all six contents-listed P3 reading units and passed the P4 source/completeness audit without silently changing lexical tokens.
-
-Printed contents witness:
-
-1. `இன முழக்கம்` — 4
-2. `சொர்க்க லோகத்தில்` — 13
-3. `முரசறைவாய்` — 24
-4. `பழிக்குப் பழி` — 29
-5. `ஆரியம் பேசுகிறது` — 37
-6. `கவிதைகள்` — 40
 
 Current gates:
 
 - P0: **COMPLETE**
-- P1 metadata / contents / page map: **COMPLETE**
-- structural transcription intake: **COMPLETE / STAGING**
-- P2 canonical page records: **50 / 50 VERIFIED / COMPLETE**
-- P3 article/section assemblies: **6 / 6 COMPLETE / VERIFIED AGAINST P2**
-- P4 source/completeness audit: **PASS / COMPLETE**
-- P5: **NOT STARTED**
-- English translation: **NOT STARTED**
+- P1: **COMPLETE**
+- P2: **50 / 50 COMPLETE**
+- P3: **6 / 6 COMPLETE**
+- P4: **PASS / COMPLETE**
+- P5: **IN PROGRESS**
+- durable P5 page frontier: **scan 38 / 50**
+- English: **NOT STARTED**
 - blockers: **0**
 
-P3 assemblies:
+### P5 page-by-page rule
 
-- [`இன முழக்கம்`](publications/ina-muzhakkam/articles/01-ina-muzhakkam.md) — scans 6–13
-- [`சொர்க்க லோகத்தில்`](publications/ina-muzhakkam/articles/02-sorgga-logaththil.md) — scans 14–24
-- [`முரசறைவாய்`](publications/ina-muzhakkam/articles/03-murasaraivai.md) — scans 25–29
-- [`பழிக்குப் பழி`](publications/ina-muzhakkam/articles/04-pazhikku-pazhi.md) — scans 30–37
-- [`ஆரியம் பேசுகிறது`](publications/ina-muzhakkam/articles/05-aariyam-pesugirathu.md) — scans 38–39
-- [`கவிதைகள்`](publications/ina-muzhakkam/articles/06-kavithaigal.md) — scans 41–49
+The user has explicitly directed that the remainder of `இன முழக்கம்` P5 be performed **one physical scan per activity**. See [`P5_PAGE_BY_PAGE_POLICY.md`](publications/ina-muzhakkam/P5_PAGE_BY_PAGE_POLICY.md).
 
-P4 confirms:
+A `Proceed with next activity` request processes only the next unclosed scan, commits that page's result and directly affected assembly/provenance changes, then stops. No multi-page P5 batching is allowed for this work.
 
-- canonical scan coverage: **50 / 50 PASS**;
-- six P3 assemblies exist exactly once with correct starts/ends: **PASS**;
-- page-continuation provenance: **PASS**;
-- scan-10 `விசயர்` correction: **PASS**;
-- scan-24/37 promotions, scan-40 front matter and scan-50 catalogue excluded from body assemblies: **PASS**;
-- poetry headings / lineation: **PASS**;
-- contents-page witnesses kept distinct from visible body numerals: **PASS**;
-- physical-copy marks imported into body text: **0**;
-- silent lexical normalisations introduced by P2/P3: **0**;
-- P4 needs-review / blocked / completeness blockers: **0 / 0 / 0**.
+**Exact next activity: P5 scan 39 only.**
 
-Deferred for P5 classification rather than silent correction:
-
-- cover-author witness difference;
-- scan-50 catalogue lexical/number differences or omissions.
-
-Important records:
-
-- [`STRUCTURAL_REASSEMBLY_REVIEW.md`](publications/ina-muzhakkam/STRUCTURAL_REASSEMBLY_REVIEW.md)
-- [`SOURCE_COMPLETENESS_AUDIT.md`](publications/ina-muzhakkam/SOURCE_COMPLETENESS_AUDIT.md)
-- [`transcription-intake/USER_CORRECTIONS.md`](publications/ina-muzhakkam/transcription-intake/USER_CORRECTIONS.md)
-- [`indexes/page-map.md`](publications/ina-muzhakkam/indexes/page-map.md)
-- [`indexes/contents.md`](publications/ina-muzhakkam/indexes/contents.md)
-- [`pages/`](publications/ina-muzhakkam/pages/)
-- [`articles/`](publications/ina-muzhakkam/articles/)
-
-## Current project state / next activity
-
-Publications **1–4 are COMPLETE / FROZEN / RELEASED**. Publication 5 `இன முழக்கம்` has P0 through P4 complete.
-
-**Exact next activity:** **P5 strict visual word/punctuation fidelity** over all 50 physical scans. Re-check every visible printed word, punctuation mark, heading, number, quotation boundary, paragraph continuation, source-witness distinction, promotion/catalogue entry and physical-copy exclusion; explicitly classify the deferred cover-author and scan-50 catalogue differences; propagate every source-supported correction with provenance. Do not begin English translation in the same activity.
+After scan 50, a separate P5 closeout will recheck all 6/6 assemblies, finish the fidelity report, record frozen Tamil blob SHAs and freeze Tamil before English translation begins.
