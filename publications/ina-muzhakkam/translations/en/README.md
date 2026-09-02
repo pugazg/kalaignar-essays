@@ -14,7 +14,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T1: **5 / 6 PASS**
 - T2: **5 / 6 PASS**
 - T3: **5 / 6 PASS**
-- T4: **4 / 6 PASS**
+- T4: **5 / 6 PASS**
 - T5: **4 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
@@ -27,7 +27,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **In the Heavenly Realm** | **T5 PASS / verified** |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | **Beat the Drum** | **T5 PASS / verified** |
 | 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | **Revenge for Revenge** | **T5 PASS / verified** |
-| 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | **Aryanism Speaks** | **T3 PASS / voice-reviewed / T4 NEXT** |
+| 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | **Aryanism Speaks** | **T4 PASS / audited / T5 NEXT** |
 | 6 | `கவிதைகள்` | `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` | TBD | **T0 PASS** |
 
 Article 1 T5 blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.  
@@ -36,7 +36,8 @@ Article 3 T5 verified blob: `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.
 Article 4 T5 verified blob: `46627c3cecfd186e1735d8766ddda27414118e62`.  
 Article 5 T1 draft blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`.  
 Article 5 T2 fidelity-reviewed blob: `508639503ab830e83d8cac547476c83d26a8494f`.  
-Article 5 T3 voice-reviewed blob: `77310ccb8bac5304f15050ee0988ae26d8302b10`.
+Article 5 T3 voice-reviewed blob: `77310ccb8bac5304f15050ee0988ae26d8302b10`.  
+Article 5 T4 audited blob: `1ecb77039eec8976ac4b25e4ff1b7dd0de2fad7e`.
 
 ## Translation authority
 
@@ -64,23 +65,25 @@ Article 5 T3 voice-reviewed blob: `77310ccb8bac5304f15050ee0988ae26d8302b10`.
 
 All four are individually frozen and must not be reopened without a genuine source-supported defect.
 
-## Article 5 T3 boundary
+## Article 5 T4 boundary
 
 - file: `05-aariyam-pesugirathu.md`
 - working title: **Aryanism Speaks**
-- status: `voice-reviewed`
+- status: `voice-reviewed` (T4 audited; T5 not yet run)
 - Tamil blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 - T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
 - T2 English blob: `508639503ab830e83d8cac547476c83d26a8494f`
 - T3 English blob: `77310ccb8bac5304f15050ee0988ae26d8302b10`
+- T4 English blob: `1ecb77039eec8976ac4b25e4ff1b7dd0de2fad7e`
 - source comments: **2 / 2 preserved in order** for scans 38–39
 - scan-38→39 trace: `Kula— / chirai`
 - T2 fidelity corrections: **2 / 2 preserved**
 - T3 voice/style body corrections: **0**
+- T4 terminology/quotation/citation/source body corrections: **0**
 - blockers: **0**
 
-T3 reread the complete T2 English against the frozen Tamil for directness, sarcasm, mockery, first-person personification, rhetorical questions, abrupt contrasts, vivid images and repeated force. The T2 English already retained the source's sharp first-person boast and clipped contrasts without academic smoothing, so no body correction was required. Both T2 fidelity corrections, all source-bearing forms, both ordered source comments, the `Kula— / chirai` boundary and quotation scope remain intact.
+T4 audited **Aryanism Speaks**, the source-specific names **Hiraniyan / Pragalathan / Ravanan / Vibheeshanan / Vali / Sugrivan / Kulachirai / Omaanthooraar / Gandhiyar / Gotse**, ideological/source-bearing **Aryanism**, **Black Army**, the source metaphor **axe-handle**, quoted **“Opposition to Aryanism?”**, the closing **Vibheeshanans and Sugrivans / your race**, both source comments, and scan-38→39 `Kula— / chirai`. No terminology, source-witness, quotation/citation or page-provenance defect was found, so no body correction was required. Both T2 fidelity corrections and the T3 zero-body-change result remain intact.
 
 ## Exact next activity
 
-**Article 5 `ஆரியம் பேசுகிறது` — T4 terminology / quotation / citation / source audit only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and T3 English blob `77310ccb8bac5304f15050ee0988ae26d8302b10`; audit the publication lexicon, proper/source names, ideological labels, quotation scope, source-page comments and scan-38→39 boundary; preserve both T2 corrections and the T3 zero-body-change result; make T4 audit corrections only and **stop before Article 5 T5**.
+**Article 5 `ஆரியம் பேசுகிறது` — T5 final article verification only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and T4 English blob `1ecb77039eec8976ac4b25e4ff1b7dd0de2fad7e`; reread the complete article against all T1–T4 decisions for final completeness, meaning, voice, terminology, quotation/source treatment and page provenance; preserve both T2 corrections, the T3 zero-body-change result, the T4 zero-defect audit, both comments and `Kula— / chirai`; if clean, mark Article 5 verified and individually freeze it; **stop before Article 6 T1**.
