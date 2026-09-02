@@ -12,7 +12,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
 - T1: **4 / 6 PASS**
-- T2: **3 / 6 PASS**
+- T2: **4 / 6 PASS**
 - T3: **3 / 6 PASS**
 - T4: **3 / 6 PASS**
 - T5: **3 / 6 PASS**
@@ -26,14 +26,15 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | **The Clarion Call of the Race** | **T5 PASS / verified** |
 | 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | **In the Heavenly Realm** | **T5 PASS / verified** |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | **Beat the Drum** | **T5 PASS / verified** |
-| 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | **Revenge for Revenge** | **T1 PASS / draft / T2 NEXT** |
+| 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | **Revenge for Revenge** | **T2 PASS / fidelity-reviewed / T3 NEXT** |
 | 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | TBD | **T0 PASS** |
 | 6 | `கவிதைகள்` | `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` | TBD | **T0 PASS** |
 
 Article 1 T5 blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.  
 Article 2 T5 verified blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`.  
 Article 3 T5 verified blob: `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.  
-Article 4 T1 draft blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`.
+Article 4 T1 draft blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`.  
+Article 4 T2 fidelity-reviewed blob: `da8969239016948ff2330ecfca6a0963762db95c`.
 
 ## Translation authority
 
@@ -60,24 +61,26 @@ Article 4 T1 draft blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`.
 
 All three are individually frozen and must not be reopened without a genuine source-supported defect.
 
-## Article 4 T1 boundary
+## Article 4 T2 boundary
 
 - file: `04-pazhikku-pazhi.md`
 - working title: **Revenge for Revenge**
-- status: `draft`
+- status: `fidelity-reviewed`
 - Tamil blob: `e140df7f6234e8362b9139793706533fec0c62d8`
 - T1 English blob: `7040c4f488c9c2fdb5712cac826445969a5c230b`
+- T2 English blob: `da8969239016948ff2330ecfca6a0963762db95c`
 - source comments: **8 / 8 preserved in order** for scans 30–37
 - scan-31→32 trace: `its / taproot`
 - scan-34→35 trace: `would have / taken him away`
 - scan-35→36 trace: `three / bullets`
 - scan-36→37 trace: `revenge for / revenge`
+- T2 fidelity corrections: **4**
 - blockers: **0**
 
-T1 establishes **communalism / communal division**, **Dravidar Kazhagam**, **Congress Working Committee**, source-bearing **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, source-bearing **Gotse**, **Varnashrama**, **ahimsa**, **satya**, **Pushpa Vimanam**, and source labels **Paraiyan / Pallan / Brahmin**. Article-4 compound `சொர்க்கலோகம்` reuses verified **heavenly realm**. The proper/source forms **Nandan, Ramalingar, Vallalar, Thirugnanasambandar** are retained without outside identification.
+T2 preserves the Article-4 source-bearing set established at T1: **communalism / communal division**, **Dravidar Kazhagam**, **Congress Working Committee**, **Gandhiyar / Gandhiji / Gandhi**, **Brahminism**, **Brahmin Seva Associations**, **Samadharma**, **Mayil Ravanan**, **Jothi / Arut Sothi**, **Gotse**, **Varnashrama**, **ahimsa**, **satya**, **Pushpa Vimanam**, **heavenly realm**, **Paraiyan / Pallan / Brahmin**, and **Nandan / Ramalingar / Vallalar / Thirugnanasambandar**.
 
-T1 is a close draft only. T2 has not been performed.
+T2 made four fidelity corrections: the opening Congress quotation now restores the proper relation in **the eradication of communalism in which complete success could not be achieved**; all three `உயிர்நிலை` occurrences use **seat of life** instead of **lifeline**; the `வகுப்பு ... வாதம்` causal sentence now says **communalism disappears** instead of generic **the doctrine disappears**; and `பாகிஸ்தான் பகிர்ந்தளிக்கப் பட்டதே` is now **the partitioning off of Pakistan itself is proof**. Omitted clauses **0**; added claims after correction **0**; unresolved names/referents **0**; quotation defects **0**; source-comment/page-trace defects **0**.
 
 ## Exact next activity
 
-**Article 4 `பழிக்குப் பழி` — T2 bilingual fidelity review only.** Re-fetch frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8` and T1 English blob `7040c4f488c9c2fdb5712cac826445969a5c230b`; compare every paragraph/clause for completeness and fidelity; audit title/terminology/source-bearing forms, quotation scope and rhetorical relations; verify all **8 / 8** source comments and all four page traces; make fidelity corrections only and **stop before Article 4 T3**.
+**Article 4 `பழிக்குப் பழி` — T3 Kalaignar voice review only.** Re-fetch frozen Tamil blob `e140df7f6234e8362b9139793706533fec0c62d8` and T2 English blob `da8969239016948ff2330ecfca6a0963762db95c`; review directness, accusation, repetition, rhetorical questions, religious/political polemic, imagery and source-bearing oddities without changing settled meaning; preserve all four T2 fidelity corrections, all **8 / 8** source comments and all four page traces; make voice/style corrections only and **stop before Article 4 T4**.
