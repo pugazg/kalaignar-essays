@@ -11,20 +11,15 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 
 ## Objective
 
-Translate the six frozen strict-reviewed Tamil assemblies into readable English while preserving meaning, rhetorical action, source-page trace, quotation structure, polemical force and poetry lineation.
-
-The frozen Tamil assemblies below are the only translation authorities. Do not translate from the raw supplied transcript, OCR, alternate scan readings, later editions, web text or memory.
+Translate the six frozen strict-reviewed Tamil assemblies into readable English while preserving meaning, rhetorical action, source-page trace, quotation structure, polemical force and poetry lineation. The frozen Tamil assemblies are the only translation authorities; do not translate from raw transcription, OCR, alternate scan readings, later editions, web text or memory.
 
 ## Tamil prerequisite — COMPLETE / FROZEN
 
-- P0: **COMPLETE**
-- P1: **COMPLETE**
+- P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - P2 canonical pages: **50 / 50 COMPLETE**
 - P3 assemblies: **6 / 6 COMPLETE**
-- P4 source/completeness audit: **PASS**
 - P5 strict visual fidelity: **50 / 50 PASS**
 - P5 assembly recheck: **6 / 6 PASS**
-- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - unresolved Tamil blockers: **0**
 
 ## Frozen Tamil translation authorities — T0 registered
@@ -40,84 +35,77 @@ The frozen Tamil assemblies below are the only translation authorities. Do not t
 
 ## Translation gate sequence
 
-Each article/unit must pass independently: T0 source prerequisite, T1 close draft, T2 bilingual fidelity review, T3 Kalaignar voice review, T4 terminology/quotation/citation/source audit, and T5 final article verification. After all six reach T5, run E6 publication-wide consistency and E7 release closeout.
+Each unit passes T0 source prerequisite, T1 close draft, T2 bilingual fidelity review, T3 Kalaignar voice review, T4 terminology/quotation/citation/source audit and T5 final verification. After all six reach T5, run E6 publication-wide consistency and E7 release closeout.
 
 ## Current English gate status
 
-- E0 planning/setup: **COMPLETE / PASS**
+- E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
 - T1: **2 / 6 PASS**
 - T2: **2 / 6 PASS**
-- T3: **1 / 6 PASS**
+- T3: **2 / 6 PASS**
 - T4: **1 / 6 PASS**
 - T5: **1 / 6 PASS**
-- E6: **NOT STARTED**
-- E7: **NOT STARTED**
+- E6/E7: **NOT STARTED**
 - blockers: **0**
 
 ## Article 1 — T5 COMPLETE / VERIFIED
 
-- Tamil authority: `articles/01-ina-muzhakkam.md`
 - frozen Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
 - English file: `translations/en/01-ina-muzhakkam.md`
-- verified English title: **The Clarion Call of the Race**
-- T5 verified English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
-- translation status: `verified`
-- source-page comments: **8 / 8 preserved in order**
+- verified title: **The Clarion Call of the Race**
+- T5 English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
+- status: `verified`
+- source comments: **8 / 8 preserved**
 - blockers: **0**
 
-Article 1 is individually verified and article-frozen. Publication-level E6/E7 remain blocked until all six articles reach T5.
+Article 1 is individually frozen. Do not reopen without a genuine source-supported defect.
 
-## Article 2 — T2 COMPLETE / FIDELITY-REVIEWED
+## Article 2 — T3 COMPLETE / VOICE-REVIEWED
 
 - Tamil authority: `articles/02-sorgga-logaththil.md`
 - frozen Tamil blob: `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
 - English file: `translations/en/02-sorgga-logaththil.md`
-- working English title: **In the Heavenly Realm**
+- working English title: **In the Heavenly Realm** — T3 confirmed, not T5-frozen
 - T1 English blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`
 - T2 English blob: `b9ed854519806bbe65dc5b006183fb4675cb2c3a`
-- translation status: `fidelity-reviewed`
-- source-page comments: **11 / 11 preserved in order** for scans 14–24
-- T2 fidelity body corrections: **3**
+- T3 English blob: `0d77a253523204f970b0cc89bfdc47f41ee793ef`
+- status: `voice-reviewed`
+- source comments: **11 / 11 preserved in order**
+- T2 fidelity corrections preserved: **3 / 3**
+- T3 voice/style body corrections: **5**
 - blockers: **0**
 
-T2 compared every frozen Tamil paragraph/clause against the T1 English draft for completeness, meaning, names/referents, negatives, comparisons, logical relations, deliberate repetition, quotation scope, stage directions and source trace. It found no omitted clause or added claim after correction.
+### Article 2 T2 fidelity corrections preserved
 
-### Article 2 T2 fidelity corrections
+1. `சுழல் வண்டுகளென`: **whirling bees**.
+2. Kotpuli Nayanar's killing sentence keeps the adult paddy-eating cause distinct from the child's milk-derived cause, with scan-18→19 immediately after `my father,`.
+3. Mother's `தம்பி`: **son**.
 
-1. `சுழல் வண்டுகளென` — **whirling beetles** → **whirling bees**, matching the flower-garden comparison.
-2. Kotpuli Nayanar's killing sentence was restructured so the source's mother/father/wife paddy-eating cause and the child's milk-derived cause are unambiguous in English; the scan-18→19 boundary after `my father,` remains preserved.
-3. Mother's closing `தம்பி` address — literal **little brother** → contextual **son**, preserving the actual speaker/addressee relation.
+### Article 2 T3 voice/style corrections
 
-T2 confirmed without change: **In the Heavenly Realm**, **‘Immigrant’**, **sacred thread**, **sacred-thread-wearing Ayyar**, **August martyrs / August struggle**, source-distinct **Aachariyar / Aachaariyar**, **Dravidians / an Aryan**, closing **Kamarajar / Gramaaniyar**, ***Thiruvilaiyadal Puranam*** / **Mahapathagam Theertha Padalam**, the quoted **The Clarion Call of the Race**, and the deliberately incomplete **“Making one's mother into a great wife—is it not...?”**. The page-boundary traces `engag— / ed` and `boast— / ing` remain intact.
+1. `அவர்கள் பேச்சு பெரிய விவாதமாக அமையவில்லை` — stiff **“Their talk did not become a great debate”** → direct **“It was no great debate.”**
+2. Murthi Nayanar `அதன் பலன்தான் எனக்குச் சொர்க்க லோகம்` — stiff **“The fruit of that is this heavenly realm for me”** → **“This heavenly realm is the fruit of that.”**
+3. `உங்களுக்கும் ஆகஸ்ட் தியாகிகளுக்கும் வித்தியாசமில்லையப்பா` — **“There is no difference between you and the August martyrs, fellows!”** → sharper **“You fellows are no different from the August martyrs!”**
+4. Siruthondar's question `காரணம் என்ன?` — bureaucratic **“What is the reason that...”** → direct **“How is it that...”**.
+5. Closing `உரத்துக் கூறியபடி எழுந்தேன் நான்` — passive/stiff **“I rose, declaring loudly...”** → active **“I rose and declared loudly...”** while retaining the quoted **The Clarion Call of the Race**.
 
-## Publication-specific translation constraints
+T3 preserved the complete meaning, graphic devotional claims, sexual mockery, political satire, deliberate repetition, nested speech, stage directions, source-distinct `Aachariyar / Aachaariyar`, `Kamarajar / Gramaaniyar`, incomplete maternal-wife clause, `engag— / ed`, `boast— / ing`, and all 11 source comments. No T2 fidelity decision was reversed.
 
-1. Frozen Tamil controls; do not reopen Tamil for translation convenience.
-2. Source-witness conflicts remain source facts; do not import scan alternatives.
-3. Preserve Kalaignar's ideological/social labels and polemical force.
-4. Do not identify unexplained labels from outside knowledge.
-5. Preserve direct address, questions, commands, exclamations, repetition, mockery, irony and abrupt contrasts.
-6. Preserve quotation status and document source irregularities rather than inventing punctuation.
-7. Preserve ordered source-page comments.
-8. Preserve poetry headings and lineation in `கவிதைகள்`.
-9. Excluded promotional/front-matter/catalogue matter stays outside the six bodies.
-10. If a genuine Tamil-source defect is found, reopen the source gate explicitly rather than silently repairing English.
+## Publication-specific non-regression
 
-## P5 source-sensitive forms that must not be silently replaced
-
-Known scan/baseline disagreements include `பாரட்டத்`, `ஜோதில்கலந்தான்`, `மனமுள்ளார்`, `ஏறிபத்தர்`, `முடுக்கினாள்`, `போர் வீரனாம்`, and `கதறினாள்`. Translate the frozen Tamil context, not the scan alternative.
-
-Article 1's incomplete `சுயமரியாதைக் ....` and `அளித் ....` remain intentionally incomplete in its verified English.
-
-## Title policy
-
-Article 1 title **The Clarion Call of the Race** is verified. Article 2 working title **In the Heavenly Realm** has passed T2 fidelity and remains subject to T3–T5.
+- Frozen Tamil controls; do not reopen Tamil for translation convenience or import scan alternatives.
+- Preserve ideological/social labels, direct address, questions, commands, exclamations, repetition, mockery, irony and abrupt contrasts.
+- Do not identify unexplained source labels from outside knowledge.
+- Preserve quotation status and ordered source-page comments.
+- Excluded scan-24/37 promotions, scan-40 review/front matter and scan-50 catalogue remain outside the six bodies.
+- Known source-sensitive forms include `பாரட்டத்`, `ஜோதில்கலந்தான்`, `மனமுள்ளார்`, `ஏறிபத்தர்`, `முடுக்கினாள்`, `போர் வீரனாம்`, and `கதறினாள்`; translate the frozen Tamil, not scan alternatives.
+- Article 1's incomplete `சுயமரியாதைக் ....` and `அளித் ....` remain intentionally incomplete in verified English.
 
 ## Article order
 
 1. `இன முழக்கம்` — **T5 VERIFIED**
-2. `சொர்க்க லோகத்தில்` — **T2 PASS / T3 NEXT**
+2. `சொர்க்க லோகத்தில்` — **T3 PASS / T4 NEXT**
 3. `முரசறைவாய்`
 4. `பழிக்குப் பழி`
 5. `ஆரியம் பேசுகிறது`
@@ -125,4 +113,4 @@ Article 1 title **The Clarion Call of the Race** is verified. Article 2 working 
 
 ## Exact next activity
 
-**Article 2 — `சொர்க்க லோகத்தில்` — T3 Kalaignar voice review only.** Re-fetch frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c` and T2 English blob `b9ed854519806bbe65dc5b006183fb4675cb2c3a`; review directness, satire, sexual mockery, graphic devotional claims, commands/questions, repetition, political ridicule and closing force; preserve all T2 fidelity decisions unless a genuine voice-only refinement can be made without meaning drift; record the T3 blob/findings, then **stop before Article 2 T4**.
+**Article 2 — `சொர்க்க லோகத்தில்` — T4 terminology / quotation / citation / source audit only.** Re-fetch frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c` and T3 English blob `0d77a253523204f970b0cc89bfdc47f41ee793ef`; audit title, recurring terminology, names/source variants, ideological/social labels, sacred-thread refrain, quotation scope, nested speech, source-cited work/chapter, all 11 source comments and page-boundary traces; preserve T2/T3 decisions unless a genuine T4 source/terminology defect is found; record the T4 blob/findings and **stop before Article 2 T5**.
