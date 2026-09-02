@@ -27,10 +27,12 @@ When the user says `Proceed with next activity` while `இன முழக்க
 - Promotions/catalogue/front matter remain outside body assemblies according to the established boundaries.
 - P5 is not permission to normalise lexical wording.
 
-## Current durable frontier when this policy was created
+## Current durable frontier
 
-- P5 page-layer propagation is durably completed through **scan 38**.
-- **Next page-level activity: scan 39 only.**
-- Scans **40–50** must then follow one scan per activity in sequence.
+- P5 page-level processing is durably completed through **scan 39**.
+- Scan 39 strict visual fidelity: **PASS**; lexical scan/baseline disagreements: **0**.
+- Scan 39 source-supported spacing, punctuation and paragraph corrections have been propagated to its canonical page record and the scan-39 portion of Article 5.
+- **Next page-level activity: scan 40 only.**
+- Scans **41–50** must then follow one scan per activity in sequence.
 
 After scan 50 is closed, perform a **separate P5 closeout activity** for the 6/6 assembly recheck, final fidelity report, frozen Tamil blob SHAs and Tamil freeze. English translation starts only after that closeout passes.
