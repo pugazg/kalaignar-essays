@@ -59,13 +59,15 @@ Staging files:
 - [`transcription-intake/scans-0001-0020.md`](transcription-intake/scans-0001-0020.md)
 - [`transcription-intake/scans-0021-0040.md`](transcription-intake/scans-0021-0040.md)
 - [`transcription-intake/scans-0041-0050.md`](transcription-intake/scans-0041-0050.md)
+- [`transcription-intake/USER_CORRECTIONS.md`](transcription-intake/USER_CORRECTIONS.md) — user-authorised corrections that supersede conflicting staging notes during P2 transfer
 - [`STRUCTURAL_REASSEMBLY_REVIEW.md`](STRUCTURAL_REASSEMBLY_REVIEW.md)
 
 Important structural fixes include:
 
 - front-matter edition/price moved to scan 3 and library/handwriting/OCR noise removed from printed text;
 - `மாதவி`, `கண்ணகி`, `இளங்கோவடிகள்`, `புலவர் பிசிராந்தையார்`, `வடலூர் இராமலிங்கம்`, `சேரன் செங்குட்டுவன்`, `திருவள்ளுவர்`, `பாரிவள்ளல்` labels restored to their source positions;
-- stray `விசயர்` and scan-22 trailing `2` removed as non-source transcription noise;
+- scan 10 `விசயர்` is **not noise**: the user corrected its placement to `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`; this correction supersedes the earlier removal decision;
+- scan-22 trailing `2` removed as non-source transcription noise;
 - scan-24 and scan-37 promotional matter separated from article bodies;
 - `பழிக்குப் பழி` final lines moved from supplied scan 36 to source scan 37;
 - `வா!` moved to scan 43; `யோசித்துப் பார்!` moved to scan 44;
@@ -87,6 +89,7 @@ Important structural fixes include:
 
 - do not treat stamps/handwriting as printed text;
 - do not silently change user-supplied lexical tokens during structural processing;
+- apply `transcription-intake/USER_CORRECTIONS.md` during P2 transfer; specifically retain and reposition scan-10 `விசயர்` rather than deleting it;
 - preserve contents/body page-number witnesses separately;
 - preserve promotional/catalogue matter outside article bodies;
 - preserve poem headings on their actual scans;
@@ -94,4 +97,4 @@ Important structural fixes include:
 
 ## Exact next activity
 
-Create and directly verify **P2 canonical page records for scans 1–25** from the structurally corrected staging transcription, preserving printed text separately from physical-copy marks and recording every page continuation/boundary. Do not begin P3 article assemblies until the relevant page layer is durable.
+Create and directly verify **P2 canonical page records for scans 1–25** from the structurally corrected staging transcription **plus the user-correction override file**, preserving printed text separately from physical-copy marks and recording every page continuation/boundary. Do not begin P3 article assemblies until the relevant page layer is durable.
