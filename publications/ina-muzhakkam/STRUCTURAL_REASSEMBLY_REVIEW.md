@@ -8,6 +8,8 @@ Review scope: **structure / punctuation / spacing / paragraph order / page place
 
 The user's supplied words are retained as the lexical baseline. This review does **not** silently substitute alternate scan-appearing spellings or modernised forms. The source scan controls where those words belong and how the printed structure is represented.
 
+User-authorised corrections that supersede an earlier staging decision are recorded in [`transcription-intake/USER_CORRECTIONS.md`](transcription-intake/USER_CORRECTIONS.md).
+
 ## Front-matter cleanup
 
 - scan 1: handwriting/OCR garbage such as `சென்டா`, `Darya Same`, `Tin.`, `GOPERIYAS WAMY`, `Periya Same` is excluded from printed text and treated as physical-copy/OCR noise;
@@ -21,7 +23,7 @@ The user's supplied words are retained as the lexical baseline. This review does
 - scan 7: `மாதவி.` belongs after the first `காரணம் என்ன?` and **before** the `* * *` separator; `கண்ணகி.` belongs after the second `காரணம் என்ன?`; transcript hyphen/list artefacts are removed;
 - scan 8: `இளங்கோவடிகள்.` follows `காரணம் என்ன?`; the source ornament is `* * *`, not a stray hyphen/star fragment;
 - scan 9: `புலவர் பிசிராந்தையார்.` follows its `காரணம் என்ன?`; source separator restored before the `வடலூர் இராமலிங்கம்` unit;
-- scan 10: stray/misplaced `விசயர்` is removed; `வடலூர் இராமலிங்கம்.` and `சேரன் செங்குட்டுவன்.` are restored as speaker/subject labels in their source positions;
+- scan 10: user correction establishes that `விசயர்` is **misplaced, not stray**. It belongs after `கர்வத்தால் கனத்துப்போன கனக`, giving the source-supported sequence `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில் கல்லேற்றி...`; the earlier removal decision is superseded. `வடலூர் இராமலிங்கம்.` and `சேரன் செங்குட்டுவன்.` remain restored as speaker/subject labels in their source positions;
 - scan 11: `திருவள்ளுவர்` and `பாரிவள்ளல்.` labels are separated from the `* * *` ornaments;
 - scans 12–13: self-respect-speaker dialogue is paragraphised and quotation punctuation restored from the scan; no supplied lexical token is normalised.
 
@@ -70,11 +72,13 @@ The user's supplied words are retained as the lexical baseline. This review does
 
 This pass intentionally does **not** resolve lexical scan/baseline disagreements. Any such difference discovered while laying out the pages must be recorded during P2/P5 and requires source/user-authorised handling; it must not be silently corrected here.
 
+The scan-10 `விசயர்` correction is not a lexical substitution: the user-supplied token is retained and only its source-supported position is corrected.
+
 ## Result
 
 - publication identified: **PASS**
 - 50-scan physical order mapped: **PASS**
 - major section/article boundaries: **PASS / structurally established**
-- supplied transcription structural reassembly: **COMPLETE as staging baseline**
+- supplied transcription structural reassembly: **COMPLETE as staging baseline, with `USER_CORRECTIONS.md` override applied during P2 transfer**
 - canonical per-scan P2 records: **NEXT**
 - strict visual word/punctuation fidelity P5: **NOT STARTED**
