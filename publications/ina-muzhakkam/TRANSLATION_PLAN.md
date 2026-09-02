@@ -58,7 +58,7 @@ After all six reach T5:
 
 - E0 planning/setup: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **1 / 6 PASS**
+- T1: **2 / 6 PASS**
 - T2: **1 / 6 PASS**
 - T3: **1 / 6 PASS**
 - T4: **1 / 6 PASS**
@@ -73,7 +73,6 @@ After all six reach T5:
 - frozen Tamil blob: `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
 - English file: `translations/en/01-ina-muzhakkam.md`
 - verified English title: **The Clarion Call of the Race**
-- T3 English blob: `7fa9874226ed878b8ac0a3db7d55c117961f8cb1`
 - T4 English blob: `8d3238ca5cd309660c6d938b8f546eca2ba5698c`
 - T5 verified English blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
 - translation status: `verified`
@@ -82,10 +81,38 @@ After all six reach T5:
 - T3 voice/style body corrections preserved: **10 / 10**
 - T4 body corrections: **0**
 - T5 body corrections: **0**
-- T5 metadata/status update: `translation_status` → `verified`; `translation_method` records T5 completion
 - blockers: **0**
 
-T5 re-fetched frozen Tamil blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` and T4 English blob `8d3238ca5cd309660c6d938b8f546eca2ba5698c`, then verified the complete article against the accumulated T1–T4 decisions. No final-verification body defect remained. The title, meaning, voice, ideological/social labels, names/referents, source-sensitive incomplete forms, source-witness distinctions, all eight source comments, scan-9→10 page-boundary trace and the Vallal Pari unmatched source quotation anomaly all remain intact. Article 1 is now individually verified; publication-level E6/E7 remain blocked until all six articles reach T5.
+Article 1 is individually verified and article-frozen. Publication-level E6/E7 remain blocked until all six articles reach T5.
+
+## Article 2 — T1 COMPLETE / DRAFT
+
+- Tamil authority: `articles/02-sorgga-logaththil.md`
+- frozen Tamil blob: `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
+- English file: `translations/en/02-sorgga-logaththil.md`
+- working English title: **In the Heavenly Realm**
+- T1 English blob: `b02cc0e167e1f69aa324d5b761878f6be7134b5f`
+- translation status: `draft`
+- source-page comments: **11 / 11 preserved in order** for scans 14–24
+- blockers: **0**
+
+T1 translates the complete frozen Article-2 body paragraph by paragraph and preserves its satirical heavenly tableau, explicit sexual mockery, graphic Nayanmar sacrifice accounts, political comparison, sacred-thread refrain, dream frame, Dravidian/Aryan contrast, quotation structure, parenthetical stage directions and source-page trace.
+
+### Article 2 T1 working decisions
+
+1. `சொர்க்க லோகம்` / title `சொர்க்க லோகத்தில்` → **heavenly realm / In the Heavenly Realm**.
+2. badge `குடியேறியவர்` → **‘Immigrant’**, retaining the satirical migration label.
+3. `பூணூல்` → **sacred thread**; `பூனூல்கார அய்யர்` → **sacred-thread-wearing Ayyar**.
+4. `ஆகஸ்ட் தியாகிகள்` / `ஆகஸ்ட் போராட்டம்` → **August martyrs / August struggle** without externally identifying the historical event.
+5. frozen `ஆச்சரியார்` / later `ஆச்சாரியார்` → source-distinct **Aachariyar / Aachaariyar**; no modern personal identification is imported.
+6. `திராவிடர்` / `ஆரியர்` → **Dravidians / an Aryan**, consistent with Article 1's verified ideological vocabulary.
+7. closing `காமராஜர்` / `கிராமாணியார்` → source-distinct **Kamarajar / Gramaaniyar**, not harmonised to Article 1's verified `Kamaraj Nadar / Gramaniyar` forms.
+8. quoted closing `இனமுழக்கம்` → verified Article-1 title **The Clarion Call of the Race**.
+9. `திருவிளையாடல் புராணம்` / `மாபாதகம் தீர்த்த படலம்` remain source-bearing as ***Thiruvilaiyadal Puranam*** / **Mahapathagam Theertha Padalam** without outside expansion.
+10. source-irregular `மாதாவை மகா மனைவியாக்குவது மல்லவா` is rendered cautiously as **“Making one's mother into a great wife—is it not...?”** rather than silently supplying a missing predicate; T2 must audit this specifically.
+11. scan-14→15 `ஈடுபட்டிருந்` / `தார்கள்` and scan-19→20 `பெருமை` / `யடித்துக்` are kept traceable in English as **`engag— / ed`** and **`boast— / ing`**.
+
+No T2 bilingual fidelity review has yet been performed. These are T1 working decisions only.
 
 ## Publication-specific translation constraints
 
@@ -110,14 +137,14 @@ The non-body scan-50 numeric/author conflicts are not translation inputs because
 
 ## Title policy
 
-English titles are established during each article's T1 activity from the frozen Tamil title. Article 1 title **The Clarion Call of the Race** passed T2 fidelity, T3 voice, T4 terminology/source audit and T5 final verification and is now the verified Article-1 English title.
+English titles are established during each article's T1 activity from the frozen Tamil title. Article 1 title **The Clarion Call of the Race** is verified. Article 2 working title **In the Heavenly Realm** is T1-established and remains subject to T2–T5.
 
 ## Article order
 
 Translation proceeds in source order:
 
 1. `இன முழக்கம்` — **T5 VERIFIED**
-2. `சொர்க்க லோகத்தில்` — **T1 NEXT**
+2. `சொர்க்க லோகத்தில்` — **T1 PASS / T2 NEXT**
 3. `முரசறைவாய்`
 4. `பழிக்குப் பழி`
 5. `ஆரியம் பேசுகிறது`
@@ -125,6 +152,6 @@ Translation proceeds in source order:
 
 ## Exact next activity
 
-**Article 2 — `சொர்க்க லோகத்தில்` — T1 close draft only.**
+**Article 2 — `சொர்க்க லோகத்தில்` — T2 bilingual fidelity review only.**
 
-Re-fetch frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c`; establish the English title and Article-2 lexicon choices from the frozen Tamil, create the complete paragraph-by-paragraph English draft with ordered source-page comments, record the resulting T1 English blob and decisions in tracker/lexicon/review/handover, then **stop before Article 2 T2**.
+Re-fetch frozen Tamil blob `8fea1497ed2dcbdb395418590c1b9875e6066b8c` and T1 English blob `b02cc0e167e1f69aa324d5b761878f6be7134b5f`; compare every paragraph/clause, names/referents, numbers, negatives, comparisons, quotation scope, political/social labels, all 11 source-page comments, page-boundary word traces and the source-irregular `மாதாவை மகா மனைவியாக்குவது மல்லவா` clause; make fidelity corrections only, record the T2 blob/findings, then **stop before Article 2 T3**.
