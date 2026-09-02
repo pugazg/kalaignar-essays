@@ -7,7 +7,7 @@ printed_pages: "40-48"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0063958_இன_முழக்கம்.pdf"
-assembly_method: "concatenated from verified canonical P2 poetry page records; P5 corrections propagated through scans 41-47; scan-40 author/review front matter excluded; source-visible headings and verse lineation preserved; user lexical baseline retained; scan-visible lexical disagreements documented without silent substitution"
+assembly_method: "concatenated from verified canonical P2 poetry page records; P5 corrections propagated through all poetry scans 41-49; scan-40 author/review front matter and scan-50 catalogue excluded; source-visible headings, punctuation and verse lineation preserved; user lexical baseline retained; scan-visible lexical disagreements documented without silent substitution"
 ---
 
 # கவிதைகள்
@@ -237,15 +237,15 @@ assembly_method: "concatenated from verified canonical P2 poetry page records; P
 <!-- scan 48 / printed 47 -->
 
 பிறந்த போதும் மகிழ்ச்சிக்கு  
-எல்லையுண்டு - அவன்  
+எல்லையுண்டு—அவன்  
 இறந்து கிடந்தான் ஈட்டிக்கு மார்பு காட்டி!  
-இதைக் கண்டாள் - இதயங் குளிர்ந்தாள்!
+இதைக் கண்டாள்—இதயங் குளிர்ந்தாள்!
 
 “எதைக் கண்டாலும் இனிக்கவலை இல்லை  
 என் மகன் வீரனாய் இறந்தான்” என்றாள்  
 அறுத்தெறிய இருந்தேன்  
-அவன் குடித்த மார்பை  
-அடடா! கருத்தெரிய பொய் சொன்ன கயவனெங்கே?  
+அவன் குடித்த மார்பை அடடா!  
+கருத்தெரிய பொய் சொன்ன கயவனெங்கே?  
 வாளிங்கே! அவன் நாக்கெங்கே?
 
 ## தோல்வி எப்பொழுது?
@@ -262,7 +262,8 @@ assembly_method: "concatenated from verified canonical P2 poetry page records; P
 வாகை சூடி வாழ்ந்திருந்து  
 சண்டைக்குச் சளைக்காத  
 சிங்கத் தமிழக்காளை யெல்லாம்  
-நண்டுக்குப் பயந்தொளிந்த நரியைப்போல் - ஆரிய  
+நண்டுக்குப் பயந்தொளிந்த  
+நரியைப்போல்—ஆரிய  
 வெண்டைக்காய் வீரரிடம்  
 வெற்றிகளைக் கொடுத்திடுவார்!
 
@@ -285,7 +286,7 @@ assembly_method: "concatenated from verified canonical P2 poetry page records; P
 பளிச் செனப் பாய்வர் பாசறை வீரர்!  
 இளித்தவாயரே! இன்னுமா கூச்சல்?
 
-## வருணமா? மானமா?
+## வருணமா? மரணமா?
 
 பரணி பலபாடிப் பாங்குடன்  
 வாழ்ந்த பைந்தமிழ் நாட்டில்  
