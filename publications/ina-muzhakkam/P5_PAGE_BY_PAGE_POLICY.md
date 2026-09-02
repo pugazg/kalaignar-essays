@@ -31,11 +31,11 @@ If only one physical scan remains before scan 50, process that final scan alone.
 
 ## Current durable frontier
 
-- P5 page-level processing is durably completed through **scan 42**.
-- **Scan 41 PASS:** source heading/lineation restored; P2-introduced `ஏற்றமே!` corrected to source-and-baseline `ஏற்பரோ!`; lexical scan/baseline disagreements **0**.
-- **Scan 42 PASS:** source lineation restored; supplied lexical baseline retained for scan-visible conflicts `மனமுள்ளர்` vs baseline `மனமுள்ளார்` and `எறிபத்தர்` vs baseline `ஏறிபத்தர்`; lexical scan/baseline disagreements **2**.
-- Scan 41–42 corrections have been propagated to the canonical page records and the corresponding `கவிதைகள்` assembly portion.
-- **Next P5 activity: scans 43–44 only.**
-- Thereafter proceed in two-scan batches: **45–46**, **47–48**, then **49–50**.
+- P5 page-level processing is durably completed through **scan 44**.
+- **Scan 43 PASS:** source headings, mixed quotation punctuation and verse lineation restored; lexical scan/baseline disagreements **0**.
+- **Scan 44 PASS:** source headings and verse lineation restored, including `நரிகளின் ஊளை! நாட்டு` / `வெறி பிடித்த காளைகளே!`; lexical scan/baseline disagreements **0**.
+- Scan 43–44 corrections have been propagated to the canonical page records and the corresponding `கவிதைகள்` assembly portion.
+- **Next P5 activity: scans 45–46 only.**
+- Thereafter proceed in two-scan batches: **47–48**, then **49–50**.
 
 After scan 50 is closed, perform a **separate P5 closeout activity** for the 6/6 assembly recheck, final fidelity report, frozen Tamil blob SHAs and Tamil freeze. English translation starts only after that closeout passes.
