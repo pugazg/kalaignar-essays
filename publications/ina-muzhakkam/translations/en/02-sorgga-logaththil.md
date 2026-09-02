@@ -8,8 +8,8 @@ source_tamil_blob_sha: "8fea1497ed2dcbdb395418590c1b9875e6066b8c"
 source_scan_pages: "14-24"
 source_printed_pages: "contents witness start 13; scan 14 numeral not visible; scans 15-24 visibly 14-23"
 language: "en"
-translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 2 T4 terminology / quotation / citation / source audit complete"
+translation_status: "verified"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 2 T5 final article verification complete"
 ---
 
 # In the Heavenly Realm
