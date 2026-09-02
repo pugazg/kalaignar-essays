@@ -36,7 +36,7 @@ The supplied transcription is the lexical baseline. The scan controls structure 
 - T0: **6 / 6 PASS**
 - T1: **3 / 6 PASS**
 - T2: **3 / 6 PASS**
-- T3: **2 / 6 PASS**
+- T3: **3 / 6 PASS**
 - T4: **2 / 6 PASS**
 - T5: **2 / 6 PASS**
 - E6/E7: **NOT STARTED**
@@ -61,21 +61,25 @@ English plan: [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md).
 
 Both are individually frozen and must not be reopened without a genuine source-supported defect.
 
-## English Article 3 — T2 COMPLETE / FIDELITY-REVIEWED
+## English Article 3 — T3 COMPLETE / VOICE-REVIEWED
 
 - title: **Beat the Drum**
 - file: `translations/en/03-murasaraivai.md`
 - Tamil blob: `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8`
 - T1 English blob: `372a0572b95d6e0d02737f1b534f583b1dddf134`
 - T2 English blob: `02d75107effa010ee61b1cc4d999fe4787c66f31`
-- status: `fidelity-reviewed`
+- T3 English blob: `a4c2e482e4ba5a6a513cbed1b00879ba7fac90c2`
+- status: `voice-reviewed`
 - source comments: **5 / 5 preserved in order**
 - scan-25→26: `ches— / t`
 - scan-28→29: `dwarf / fox`
-- T2 fidelity corrections: **3**
+- T2 fidelity corrections: **3 / 3 preserved**
+- T3 voice/style corrections: **6**
 - blockers: **0**
 
-T2 corrected `துவண்டாயோ` to **grow weary**, corrected `கேட்டுப் பார்` to **Hear of...**, and restored the direct-address object in `கடல் கொள்ளாமல் ... ஆரியம் கொண்டது ஏன்?` from T1 **your valour / it** to **you / you**. T2 confirmed the working title, drum terminology, **Kanakan / Visayan**, **Tamilian / Dravidian / Tamil race**, **Aryans / Aryanism**, **Northerners**, **tumbler-dolls**, **paarakku**, **Kamarajars / Shanmugams / Jeevas**, **Aththaan**, **rice-pongal**, source-sensitive **showing her *isayam***, **dewy glance**, **became a blast**, literal **long-shouldered hill-lifter**, and **dung Pillaiyar / sugar payasam**.
+T3 retained all T2 meaning/source-bearing choices and sharpened voice only: the opening repeated drum cadence now uses **resound / resounds**; the beloved sentence was reflowed while retaining source-sensitive **showing her *isayam***; the poet now **turns away, his face hanging in defeat**; love and valour **surged over their banks**; the Pongal challenge is **nothing more than this rice-pongal**; and the present-day contrast is **Think, too, of the horror of this day!**. All three T2 fidelity corrections remain intact.
+
+T3 preserves **Beat the Drum**, **war drum / victory drum**, **Kanakan / Visayan**, **Tamilian / Dravidian / Tamil race**, **Aryans / Aryanism**, **Northerners**, **tumbler-dolls**, **paarakku**, **Kamarajars / Shanmugams / Jeevas**, **Aththaan**, **rice-pongal**, **dewy glance**, **became a blast**, literal **long-shouldered hill-lifter**, and **dung Pillaiyar / sugar payasam**.
 
 ## Permanent non-regression
 
@@ -101,4 +105,4 @@ T2 corrected `துவண்டாயோ` to **grow weary**, corrected `கே�
 
 ## Exact next activity
 
-**Article 3 `முரசறைவாய்` — T3 Kalaignar voice review only.** Re-fetch frozen Tamil blob `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` and T2 English blob `02d75107effa010ee61b1cc4d999fe4787c66f31`; review directness, martial cadence, questions, commands, repetition, ridicule, Pongal wordplay, historical contrasts and closing polemical force; preserve all T2 meaning/source-bearing decisions, all **5 / 5** comments and both page traces; make voice/style corrections only and **stop before Article 3 T4**.
+**Article 3 `முரசறைவாய்` — T4 terminology / quotation / citation / source audit only.** Re-fetch frozen Tamil blob `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` and T3 English blob `a4c2e482e4ba5a6a513cbed1b00879ba7fac90c2`; audit title/drum terminology, ideological/social labels, source-bearing names/forms, quoted `வாழ்விலோர் திருநாள்` / `பாராக்கு`, source-sensitive `இசயங்காட்டி`, `வேட்டாயிற்றே`, Pongal wordplay, quotation scope/punctuation, all **5 / 5** comments and both page traces; make T4 source/terminology/quotation corrections only if genuinely required and **stop before Article 3 T5**.
