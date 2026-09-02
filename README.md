@@ -56,17 +56,21 @@ Current gates:
 - P2: **50 / 50 COMPLETE**
 - P3: **6 / 6 COMPLETE**
 - P4: **PASS / COMPLETE**
-- P5: **IN PROGRESS**
-- durable P5 page frontier: **scan 38 / 50**
+- P5 page-level review: **50 / 50 PASS**
+- P5 assembly recheck: **6 / 6 PASS**
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - English: **NOT STARTED**
 - blockers: **0**
 
-### P5 page-by-page rule
+Frozen Tamil authorities:
 
-The user has explicitly directed that the remainder of `இன முழக்கம்` P5 be performed **one physical scan per activity**. See [`P5_PAGE_BY_PAGE_POLICY.md`](publications/ina-muzhakkam/P5_PAGE_BY_PAGE_POLICY.md).
+1. `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` — `இன முழக்கம்`
+2. `8fea1497ed2dcbdb395418590c1b9875e6066b8c` — `சொர்க்க லோகத்தில்`
+3. `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` — `முரசறைவாய்`
+4. `e140df7f6234e8362b9139793706533fec0c62d8` — `பழிக்குப் பழி`
+5. `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` — `ஆரியம் பேசுகிறது`
+6. `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` — `கவிதைகள்`
 
-A `Proceed with next activity` request processes only the next unclosed scan, commits that page's result and directly affected assembly/provenance changes, then stops. No multi-page P5 batching is allowed for this work.
+Canonical P5 record: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/ina-muzhakkam/VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-**Exact next activity: P5 scan 39 only.**
-
-After scan 50, a separate P5 closeout will recheck all 6/6 assemblies, finish the fidelity report, record frozen Tamil blob SHAs and freeze Tamil before English translation begins.
+**Exact next activity: E0 — English translation planning/setup only.**
