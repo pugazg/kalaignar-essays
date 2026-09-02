@@ -31,3 +31,16 @@ Assembly source blobs at P3 completion:
 - `கவிதைகள்` — `a11dfc65bfd83c316e090c793f1ede102a72ac21`
 
 The P3 assemblies preserve the contents/body witness distinction; they do not import scan-24/37 promotions, scan-40 poetry front matter or scan-50 catalogue matter.
+
+## P4 contents / assembly audit — PASS
+
+P4 re-confirmed all six printed contents witnesses against the page map and the six P3 assemblies:
+
+- six printed contents entries: **6 / 6 present**;
+- six P3 assemblies: **6 / 6 present exactly once**;
+- contents start-page witnesses remain separate from visible body numerals: **PASS**;
+- heading scans 6, 14, 25, 30 and 38 remain unnumbered in the body layer: **PASS**;
+- `கவிதைகள் 40` continues to map to the poetry body beginning scan 41 / printed 40, while scan 40 remains separate front matter: **PASS**;
+- P4 contents/assembly blockers: **0**.
+
+Full P4 record: [`../SOURCE_COMPLETENESS_AUDIT.md`](../SOURCE_COMPLETENESS_AUDIT.md).
