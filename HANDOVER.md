@@ -14,7 +14,8 @@ Before changing anything:
 3. read `docs/FUTURE_WORK_GUIDELINES.md` completely;
 4. fetch live `main` and read this `HANDOVER.md` completely;
 5. read `docs/NEXT_CHAT_PROMPT.md` only as a convenience summary;
-6. read the active publication README / metadata / indexes / audit / fidelity records.
+6. read the active publication README / metadata / indexes / audit / fidelity records;
+7. for active `இன முழக்கம்` English work, also read `TRANSLATION_PLAN.md`, `translations/en/README.md`, `translations/en/LEXICON.md`, and `translations/en/TRANSLATION_REVIEW.md`.
 
 Source PDFs are never committed. English translation follows: **Translate the language; do not neutralise the voice.**
 
@@ -23,7 +24,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `f20fa49173c9f1b0dc91ba1a05211ec2cd7b8ec0` — `Advance root status through Ina Muzhakkam P5 closeout`.
+- Last confirmed live HEAD immediately before this handover synchronization: `5c12abf28a4abc7b18b6d2611ecd3af06cbf03cb` — `Advance root status through Ina Muzhakkam E0`.
 
 ---
 
@@ -82,7 +83,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 5 — இன முழக்கம் — TAMIL COMPLETE / FROZEN; ENGLISH NOT STARTED
+# Publication 5 — இன முழக்கம் — TAMIL FROZEN / ENGLISH E0 COMPLETE
 
 Workspace: `publications/ina-muzhakkam/`  
 Controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`
@@ -106,10 +107,11 @@ Controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`
 
 Therefore:
 
-- supplied transcription = lexical baseline;
+- supplied transcription = lexical baseline for the completed Tamil archival layer;
 - scan = structure, punctuation, quotation scope, page/paragraph placement, headings, poetry lineation and physical-copy evidence;
 - scan/baseline lexical or numeric disagreements are documented, not silently substituted;
-- stamps, handwriting, show-through, damage and marginal marks remain outside printed body text.
+- stamps, handwriting, show-through, damage and marginal marks remain outside printed body text;
+- English translation now uses only the **frozen strict-reviewed Tamil assemblies** below.
 
 ## Publication boundaries
 
@@ -123,7 +125,7 @@ Therefore:
 - scans 41–49 — `கவிதைகள்`
 - scan 50 — catalogue / advertisement
 
-## Gate status
+## Tamil gate status
 
 - P0: **COMPLETE**
 - P1: **COMPLETE**
@@ -133,12 +135,11 @@ Therefore:
 - P5 page-level strict review: **50 / 50 PASS**
 - P5 final assembly recheck: **6 / 6 PASS**
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- English translation: **NOT STARTED**
-- blockers: **0**
+- Tamil blockers: **0**
 
 Canonical P5 record: `publications/ina-muzhakkam/VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-## Frozen Tamil authorities
+## Frozen Tamil translation authorities — reverified at E0
 
 1. `articles/01-ina-muzhakkam.md` — `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`
 2. `articles/02-sorgga-logaththil.md` — `8fea1497ed2dcbdb395418590c1b9875e6066b8c`
@@ -147,19 +148,42 @@ Canonical P5 record: `publications/ina-muzhakkam/VISUAL_TEXT_FIDELITY_REVIEW.md`
 5. `articles/05-aariyam-pesugirathu.md` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `articles/06-kavithaigal.md` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-## P5 non-regression
+E0 re-fetch verification: **6 / 6 exact SHA matches / PASS**.
 
-- scan 10 remains `கர்வத்தால் கனத்துப்போன கனக விசயர் தலைகளில்...`;
-- scan 21→22 `நாயன்மார்கள்` placement remains corrected;
-- scan 22 marginal printed `2` remains a non-body source witness;
-- scan 24 promotion stays outside `சொர்க்க லோகத்தில்`;
-- scan 36→37 boundary remains `இந்த மதத்தைப் பழிக்குப்` / `பழி வாங்க வேண்டாமா?`;
-- scan 37 promotion stays outside `பழிக்குப் பழி`;
-- scan 40 stays outside `கவிதைகள்`;
-- scan 41 heading remains `ஏற்பரோ!`;
-- scan 49 heading remains `வருணமா? மரணமா?`;
-- scan 50 catalogue stays outside all body assemblies;
-- lexical/numeric scan/baseline conflicts remain documented without silent substitution.
+## English translation setup — E0 COMPLETE / PASS
+
+Created and initialized:
+
+- `publications/ina-muzhakkam/TRANSLATION_PLAN.md`
+- `publications/ina-muzhakkam/translations/en/README.md`
+- `publications/ina-muzhakkam/translations/en/LEXICON.md`
+- `publications/ina-muzhakkam/translations/en/TRANSLATION_REVIEW.md`
+
+English gate counts:
+
+- E0: **COMPLETE / PASS**
+- T0: **6 / 6 PASS**
+- T1: **0 / 6**
+- T2: **0 / 6**
+- T3: **0 / 6**
+- T4: **0 / 6**
+- T5: **0 / 6**
+- E6: **NOT STARTED**
+- E7: **NOT STARTED**
+- English blockers: **0**
+
+## Translation non-regression
+
+- **Translate the language; do not neutralise the voice.**
+- Do not translate from raw OCR/transcription or scan-alternate lexical readings; translate the six frozen Tamil blobs only.
+- Preserve direct address, commands, rhetorical questions, repetition, sarcasm, mockery, exclamations and politically/socially loaded labels.
+- Do not silently identify unexplained epithets/labels from outside knowledge.
+- Preserve ordered source-page comments in every English unit.
+- Preserve quotation status and document material source punctuation anomalies instead of inventing Tamil punctuation.
+- Scan-24 and scan-37 promotions, scan-40 `கவிதைகளைப் பற்றி` + `மதிப்புரை`, and scan-50 catalogue remain outside the six English bodies unless separately authorised.
+- `கவிதைகள்` translation must preserve frozen poem headings and source lineation; do not flatten to prose or invent rhyme.
+- P5 source-sensitive frozen forms including `பாரட்டத்`, `ஜோதில்கலந்தான்`, `மனமுள்ளார்`, `ஏறிபத்தர்`, `முடுக்கினாள்`, `போர் வீரனாம்`, and `கதறினாள்` must not be replaced with scan alternatives during translation.
+- English titles are not pre-frozen at E0; establish each during its T1 gate from the frozen Tamil title.
 
 ## Current blockers
 
@@ -169,18 +193,16 @@ Canonical P5 record: `publications/ina-muzhakkam/VISUAL_TEXT_FIDELITY_REVIEW.md`
 
 # Exact next activity
 
-**Publication 5 — E0 English translation planning/setup only.**
+**Publication 5 — Article 1 `இன முழக்கம்` — T1 close English draft only.**
 
-Required E0 steps:
+Required steps:
 
 1. fetch live `main` first;
-2. read `ESSAY_TRANSLATION_GUIDE.md` completely;
-3. re-fetch all six frozen Tamil assemblies and confirm the exact blob SHAs above;
-4. create `publications/ina-muzhakkam/TRANSLATION_PLAN.md`;
-5. create `publications/ina-muzhakkam/translations/en/README.md`;
-6. create `publications/ina-muzhakkam/translations/en/LEXICON.md`;
-7. create `publications/ina-muzhakkam/translations/en/TRANSLATION_REVIEW.md`;
-8. register all **6 / 6** frozen Tamil authorities as T0 prerequisites;
-9. record publication-specific source-sensitive translation constraints, including retained lexical anomalies/conflicts, promotions/front matter exclusions and poetry lineation;
-10. synchronize publication/root handover records;
-11. **stop after E0. Do not begin Article 1 T1 translation in the same activity.**
+2. re-read translation plan, English tracker, lexicon and review ledger;
+3. re-fetch frozen Tamil Article 1 and confirm blob `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010`;
+4. establish a working English title from the frozen Tamil title and record it in the lexicon/review ledger;
+5. translate the complete Article 1 assembly paragraph by paragraph, preserving rhetorical force, quotation structure and every ordered source-page comment;
+6. establish only the terminology actually encountered in Article 1; do not prematurely freeze later-article choices;
+7. create `publications/ina-muzhakkam/translations/en/01-ina-muzhakkam.md` with `translation_status: draft` and the frozen Tamil blob SHA;
+8. record the T1 English blob SHA and decisions in tracker/plan/lexicon/review/handover;
+9. **stop after Article 1 T1. Do not perform T2 in the same activity.**
