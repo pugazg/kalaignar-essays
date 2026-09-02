@@ -9,13 +9,13 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 
 > **Translate the language; do not neutralise the voice.**
 
-## Objective
+## Objective — COMPLETE
 
-Translate the two frozen Kalaignar article assemblies into readable English while preserving direct address, sarcasm, ridicule, rhetorical questions, repetitions, exclamations, ideological vocabulary, source-chosen labels, quotation structure and the pamphlet's deliberately polemical cadence.
+Translate the two frozen Kalaignar article assemblies into readable English while preserving source meaning, rhetorical action, quotation structure, page trace, source-witness distinctions and documented physical-source loss.
 
-English must translate the **frozen strict-reviewed Tamil assemblies**, not OCR, the user-supplied pre-P5 transcription, memory, alternate scan-appearing lexical readings or later editions.
+English authority remains the **frozen strict-reviewed Tamil assemblies**, not OCR, remembered wording, alternate scan readings or later editions.
 
-## Tamil source prerequisite — PASSED / FROZEN
+## Frozen Tamil prerequisite — COMPLETE / FROZEN
 
 - P0: **COMPLETE**
 - P1: **COMPLETE**
@@ -24,93 +24,83 @@ English must translate the **frozen strict-reviewed Tamil assemblies**, not OCR,
 - P4 source/completeness audit: **PASS**
 - P5 strict visual fidelity: **16 / 16 PASS**
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- unresolved workflow blockers: **0**
+- unresolved Tamil blockers: **0**
 
 Frozen translation authorities:
 
-1. `articles/01-thiraavida-sampaththu.md` — `திராவிட சம்பத்து` — scans **5–6, 13–16** — blob `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
-2. `articles/02-aiyar-arivikkirar.md` — `ஐயர் அறிவிக்கிறார்!` — scans **12, 3** — blob `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
+1. `articles/01-thiraavida-sampaththu.md` — `திராவிட சம்பத்து` — scans **5–6, 13–16** — `6e9759aff9bc4801ee66b3b8c76a814be3e98015`.
+2. `articles/02-aiyar-arivikkirar.md` — `ஐயர் அறிவிக்கிறார்!` — scans **12, 3** — `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`.
 
-If either frozen Tamil blob changes because of a genuine source-supported correction, all affected downstream English gates must explicitly reopen.
+## Final article tracker
 
-## Article tracker
-
-| # | Tamil title | English file | Translation status | Gates |
+| # | Tamil title | English title | Final English blob | Status |
 |---:|---|---|---|---|
-| 1 | `திராவிட சம்பத்து` | [`translations/en/01-thiraavida-sampaththu.md`](translations/en/01-thiraavida-sampaththu.md) | **verified** | **T0–T5 PASS; E6 PASS** |
-| 2 | `ஐயர் அறிவிக்கிறார்!` | [`translations/en/02-aiyar-arivikkirar.md`](translations/en/02-aiyar-arivikkirar.md) | **verified** | **T0–T5 PASS; E6 PASS** |
+| 1 | `திராவிட சம்பத்து` | **Dravidian Wealth** | `10dca72882043db491fe8c6ad3f858bc4c9c584f` | **T0–T5 PASS / E6 PASS / E7 RELEASED** |
+| 2 | `ஐயர் அறிவிக்கிறார்!` | **Iyer Announces!** | `771094f9c2eaad4c56c6f9509db34adbd3fd97a5` | **T0–T5 PASS / E6 PASS / E7 RELEASED** |
 
-Article 1 English title: **Dravidian Wealth — VERIFIED / E6 PASS**.  
-Article 2 English title: **Iyer Announces! — VERIFIED / E6 PASS**.
+Both English article files retain `translation_status: verified`; E7 is the publication-level release closeout.
 
-## Article 1 final gate history
+## Final gate history
 
-- frozen Tamil authority: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
-- T1 baseline English blob: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
-- T2 fidelity-reviewed English blob: `155299ac2b71b0aaba431f63d3c882191a3c710b`
-- T3 voice-reviewed English blob: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
-- T4 terminology/source-audited English blob: `961ca3f724238ed699dba2607fa2d1be681f0ec4`
-- T5 final verified English blob: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
+Article 1:
 
-## Article 2 final gate history
+- T1: `bb5937921ab00d532d91bc89c5a9df57dc8acaa2`
+- T2: `155299ac2b71b0aaba431f63d3c882191a3c710b`
+- T3: `1d2e7dae1c00200ab402fa43722167e73e8568a4`
+- T4: `961ca3f724238ed699dba2607fa2d1be681f0ec4`
+- T5 / released authority: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
 
-- frozen Tamil authority: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
-- T1 English draft blob: `1b70952ae377668162fcb35eb045e142a0597190`
-- T2 fidelity-reviewed English blob: `b7361d26a711d61938da24d33b3512ddf5653e53`
-- T3 voice-reviewed English blob: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
-- T4 source-audited English blob: `9b2795e6c66dea08fdf46fcf7903550001e1a401`
-- T5 final verified English blob: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
-- title: **Iyer Announces! — VERIFIED**
-- source-page comments: **2 / 2 present and ordered**
-- frozen `அயம்`: source-bearing **ayam**, unrepaired
-- `ஐயர்` / `அய்யர்`: **Iyer / Ayyar**, distinction retained
-- `ஏனோதானோ` / `ஏனோதானோக்கள்`: **Enothano / Enothanos**, source-bearing and unaffiliated with outside identification
-- normal `கல்லூரி`: **College**; frozen anomalous `கல்லுரி`: source-bearing **kalluri**
-- narrative fused `சாமிநாதய்யர்`: **Saminathayyar**; inscription `சாமிநாத அய்யர்`: **Saminatha Ayyar**
-- quoted inscription: **Maha Mahopadhyaya Dravida Vidya Bhushana Dr. Saminatha Ayyar**
-- first-paragraph quotation anomaly: two evident English quoted units formally documented at T4 and re-verified at T5; no missing Tamil punctuation reconstructed
-- T5 English body corrections: **0**
-- frozen Tamil body changes: **0**
-- unresolved T5 blockers: **0**
+Article 2:
 
-## E6 publication-wide consistency review — PASS
+- T1: `1b70952ae377668162fcb35eb045e142a0597190`
+- T2: `b7361d26a711d61938da24d33b3512ddf5653e53`
+- T3: `ace9ff13b1c45bfe6d7c4c99571bc9b9b7b7ac7c`
+- T4: `9b2795e6c66dea08fdf46fcf7903550001e1a401`
+- T5 / released authority: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
 
-Authorities reviewed:
+## E6 publication consistency gate — PASS
 
-- Article 1 Tamil: `6e9759aff9bc4801ee66b3b8c76a814be3e98015`
-- Article 1 English: `10dca72882043db491fe8c6ad3f858bc4c9c584f`
-- Article 2 Tamil: `80b5bfd27953e55255ac4f015c3e7b965ee70ab6`
-- Article 2 English: `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
+E6 reviewed both verified English articles together against both frozen Tamil authorities.
 
-E6 confirmed:
+- recurring terminology: **PASS / consistent where source function matches**
+- deliberate source-form distinctions: **PASS / preserved**
+- title style: **PASS**
+- quotation and source-anomaly handling: **PASS**
+- source-page comments: **8 / 8 total present and ordered**
+- rhetorical consistency: **PASS**
+- accidental cross-article harmonisation: **none found**
+- English body corrections: **0**
+- English metadata corrections: **0**
+- article gates reopened: **No**
+- frozen Tamil changes: **0**
+- E6 blockers: **0**
 
-- recurring noun `திராவிடம்` → **Dravidam** is consistent across both articles;
-- Article 1 adjectival **Dravidian** and Article 2 source-bearing inscription **Dravida** are a deliberate source/form-function distinction, not an inconsistency;
-- source-bearing name and anomaly distinctions remain intact;
-- title style, quotation handling, source-page comments and rhetorical register are publication-consistent;
-- no accidental cross-article harmonisation was found;
-- English article body corrections: **0**;
-- English metadata corrections: **0**;
-- article gates reopened: **No**;
-- frozen Tamil changes: **0**;
-- unresolved E6 blockers: **0**.
+## E7 release closeout — PASS / RELEASE COMPLETE
 
-## Publication-specific translation constraints
+E7 re-fetched live `main`, both E6-passed English authorities and both frozen Tamil authorities.
 
-1. **Translate the language; do not neutralise the voice.**
-2. Preserve source labels and polemical forms; do not replace them with detached academic prose.
-3. Preserve commands/direct address, rhetorical questions and meaningful exclamations.
-4. Preserve quotation boundaries and source-page comments.
-5. Preserve documented `SOURCE DAMAGE` positions; never reconstruct absent wording.
-6. Translate from the frozen Tamil lexical witness even where P5 recorded a scan/baseline conflict.
-7. Scan-3 frozen `அயம்` remains damaged/ambiguous for Article 2 and may not be silently repaired.
-8. Scan-3 frozen `கல்லுரி` remains the Article 2 translation authority at that position and may not be silently normalised during review.
-9. Preserve the verified distinction between narrative `சாமிநாதய்யர்` and inscription `சாமிநாத அய்யர்`.
-10. Preserve T3's meaning-neutral directness and ridicule and T4's source/quotation decisions through release closeout.
-11. Preserve E6's explicit `Dravidian` versus source-bearing inscription `Dravida` distinction; do not harmonise it in E7.
-12. Publisher foreword `மன்றத்தில்`, publisher note `முக்கிய குறிப்பு` and scan-4 advertisements remain outside both article translations.
+- English article blobs match E6 baseline: **2 / 2 PASS**
+- frozen Tamil authority blobs unchanged: **2 / 2 PASS**
+- T0–T5: **PASS / durable**
+- E6: **PASS / durable**
+- English body changes after E6: **0 / 2**
+- English metadata changes after E6: **0 / 2**
+- frozen Tamil changes during E7: **0**
+- source/translation gates reopened: **No**
+- source/release defects discovered: **0**
+- release blockers: **0**
 
-## Gate sequence
+**E7 RESULT: PASS / ENGLISH TRANSLATION COMPLETE / RELEASE COMPLETE / FROZEN.**
+
+## Permanent non-regression
+
+1. Do not reopen a released article merely for stylistic preference or terminology homogenisation.
+2. Preserve verified source-page comments and documented physical-source damage boundaries.
+3. Preserve documented source-form distinctions and source-bearing transliterations.
+4. Publisher foreword, publisher note and scan-4 advertisement remain outside the two Kalaignar article translations.
+5. If a genuine source-supported Tamil correction changes a frozen blob, explicitly reopen the affected English gates.
+
+## Final gate sequence
 
 - **T0** — **2 / 2 PASS**
 - **T1** — **2 / 2 PASS**
@@ -119,12 +109,8 @@ E6 confirmed:
 - **T4** — **2 / 2 PASS**
 - **T5** — **2 / 2 PASS**
 - **E6** — **PASS**
-- **E7** — NOT STARTED
+- **E7** — **PASS / RELEASE COMPLETE**
 
-## Exact next activity
+## Next activity
 
-Execute **E7 — English release closeout** for `திராவிட சம்பத்து`.
-
-Re-fetch both E6-passed verified English authorities and both frozen Tamil authorities. Confirm all article gates and E6 remain durable, verify all English/publication records are synchronized, confirm blockers remain zero, and if the release gate passes mark the publication's English translation **COMPLETE / RELEASED / FROZEN**.
-
-**Stop after E7.**
+No further English translation/review activity is pending for `திராவிட சம்பத்து` absent a genuine source-supported or release-blocking defect. The next project activity is intake of the next supplied Kalaignar essay/article publication.
