@@ -86,7 +86,11 @@ Kannappa Nayanar, Karaikkal Ammaiyar, Nandanar, Siruthondar ..... and all the ot
 
 **Eripatha Nayanar.**
 
-“Because, during the famine, my mother, my father and my beloved wife ate the paddy that had been stored for Siva..... out of devotion I cut them down with a curved blade and killed them; I killed my dear child as well, because the child must have drunk the milk of the mother who ate the paddy. Only after that, forgiving my offence, the Red-Matted One wearing konrai appeared before me.”
+“Because, during the famine, my mother, my father,
+
+<!-- Tamil source: scan 19 / printed 18 -->
+
+and my beloved wife ate the paddy that had been stored for Siva..... out of devotion I cut them down with a curved blade and killed them; I killed my dear child as well, because the child must have drunk the milk of the mother who ate the paddy. Only after that, forgiving my offence, the Red-Matted One wearing konrai appeared before me.”
 
 **Kotpuli Nayanar**
 
