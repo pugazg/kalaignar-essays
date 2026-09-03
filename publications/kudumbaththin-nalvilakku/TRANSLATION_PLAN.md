@@ -29,54 +29,73 @@ Translate the one frozen strict-reviewed Tamil article into readable English whi
 
 There is one article only. Scans 1–3 and 14–16 are publication/front/end matter and are not separate English article units.
 
-## E0 setup status
+## English gate status
 
 - E0 translation planning/setup: **COMPLETE / PASS**
-- English article files created: **0 / 1**
-- T0: **NOT STARTED**
-- T1: **NOT STARTED**
-- T2: **NOT STARTED**
-- T3: **NOT STARTED**
-- T4: **NOT STARTED**
-- T5: **NOT STARTED**
+- T0 source prerequisite: **1 / 1 PASS**
+- T1 close draft: **1 / 1 COMPLETE**
+- T2 bilingual fidelity: **0 / 1 PASS**
+- T3 voice review: **0 / 1 PASS**
+- T4 terminology/quotation/source audit: **0 / 1 PASS**
+- T5 verified: **0 / 1 PASS**
 - E6 publication-wide consistency: **NOT STARTED**
 - E7 release closeout: **NOT STARTED**
 - blockers: **0**
 
-## Article translation sequence
+## T0 / T1 durable result
 
-### T0 — source prerequisite
-
-Before drafting, re-fetch `articles/01-kudumbaththin-nalvilakku.md` and confirm its blob is exactly:
+T0 re-fetched the strict-reviewed Tamil authority and confirmed exact blob match:
 
 `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
 
-If the Tamil authority has changed for a genuine source-supported reason, stop and reconcile before translation.
+T1 created the complete English close draft:
 
-### T1 — close draft
+`translations/en/01-kudumbaththin-nalvilakku.md`
 
-Translate the entire article paragraph by paragraph. Preserve:
+Current English draft blob:
 
-- all source-page comments for scans 4–13;
-- rhetorical questions and exclamations;
-- direct appeals to religious communities and the audience;
-- the repeated Pakistan/China invasion analogy;
-- numerical examples (`39`, `41`, `1951—52`, `32`, `21`, etc.);
-- the printed scan-7 `சமுதாயக்கடமை` footnote as a translated/source note with its page association intact;
-- the sequence of religious/mythological examples without explanatory expansion inside the body;
-- the source ending and its emphatic appeal for cooperation.
+`d5ae4e7696534f560e34578763dd0c735b689b86`
+
+Draft title: **The Family's Lamp of Well-Being**.
+
+T1 trace checks:
+
+- complete body: **YES**
+- source-page comments scans 4–13: **10 / 10**
+- scan-7 `சமுதாயக்கடமை` footnote: **PRESERVED / associated with scan 7**
+- source ending: **PRESERVED**
+- frozen Tamil changes: **0**
+- outside explanatory additions: **0**
+- blockers: **0**
+
+The T1 lexicon establishes draft choices such as **family welfare programme**, **family planning**, **invasion**, **sin**, **Social Duty**, **Krishna Paramatma**, **Kuchelan**, and **Kailaiyangiri**. These remain subject to T2–T4 review.
+
+## Remaining article translation sequence
 
 ### T2 — bilingual fidelity review
 
-Check Tamil and English side by side for omissions, additions, negatives, comparisons, logical connectors, numbers, proper names, source-page comments, repetitions and quotation/question scope.
+Re-read frozen Tamil and English side by side, sentence by sentence and clause by clause. Check:
+
+- no omitted sentence or clause;
+- no added claim;
+- negatives, comparisons and logical connectors preserved;
+- names/referents correct;
+- dates and numbers correct;
+- quotations/questions/exclamations complete;
+- deliberate repetitions retained;
+- all ten source-page comments preserved in order;
+- scan-7 footnote wording and association correct;
+- draft-established lexicon choices fit their immediate Tamil contexts.
+
+Priority T2 checks include the contextual English renderings of frozen `மூர்த்தன்யமாக` and `ஆலாய்ப் பறந்தார்கள்`, the parliamentary `39 / 41 / 1951—52` argument, and the literal/metaphorical `படை எடுப்பு` chain.
 
 ### T3 — Kalaignar voice review
 
-Check that the English remains direct, argumentative and rhetorical rather than academic or bureaucratic; do not soften mockery, challenge or emphatic examples.
+Read the English as English while comparing to Tamil. Preserve directness, rhetorical questions, humour/mockery, repetition, accumulative cadence, abrupt comparisons and the force of the religious examples. Do not polish the argument into detached academic prose.
 
 ### T4 — terminology / quotation / citation audit
 
-Audit recurring family-welfare terminology, religious vocabulary, government/institutional terms, names, numbers, source-page comments and the scan-7 footnote against the living lexicon.
+Audit the living lexicon, source-chosen religious labels, institutional/historical terms, numbers, source-page comments and scan-7 footnote. Recheck the draft title before release-stabilising it.
 
 ### T5 — article verification
 
@@ -91,36 +110,8 @@ Only after T1–T4 pass may the English article be marked `verified`.
 - Do not insert present-day political, medical, religious or historical commentary into Kalaignar's body text.
 - Do not import external translations of quoted/religious material unless explicitly authorised.
 - Retain source distinctions and ambiguity; explain only in clearly separated translator/source notes when needed.
-- Normal English punctuation spacing is allowed, but source-significant punctuation and question/exclamation force must be preserved.
-
-## E0 high-risk terminology inventory
-
-The living lexicon is initialized with source terms that require deliberate choices during T1. No preferred English rendering is frozen at E0.
-
-- `குடும்பநலத் திட்டம்`
-- `குடும்பக் கட்டுப்பாடு`
-- `மதமாச்சரியம் / மதமாச்சரியங்கள்`
-- `பாபம் / பாபகரமாக`
-- `படை எடுப்பு`
-- `சமுதாயக்கடமை`
-- `மக்கள் தொகை`
-- `சதவிகிதம்`
-- `நாடாளுமன்றம்`
-- `மத்திய சர்க்கார்`
-- `தமிழ்நாட்டு அரசாங்கம்`
-- `கிருஷ்ணபரமாத்மா`
-- `குசேலன்`
-- `நாரத மகாமுனிவர்`
-- `கயிலையங்கிரி`
+- Normal English punctuation spacing is allowed, but source-significant question/exclamation force and source trace must be preserved.
 
 ## Exact next activity
 
-Execute **E1 — Article 1 T0 + T1 close English draft** from frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
-
-1. Re-fetch live `main` and confirm the frozen Tamil blob.
-2. Mark Article 1 T0 **PASS** only after that confirmation.
-3. Create `translations/en/01-kudumbaththin-nalvilakku.md` and translate the complete article paragraph by paragraph.
-4. Preserve all ten source-page comments and the scan-7 footnote association.
-5. Update the living lexicon and review ledger with decisions made during drafting.
-6. Mark T1 **COMPLETE** only after the full article draft is present.
-7. **STOP AFTER T1. Do not begin T2 bilingual fidelity review in the same activity.**
+Execute **E2 — Article 1 T2 bilingual fidelity review** against frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`. Correct fidelity defects, update the living lexicon and review/tracker records, and **STOP AFTER T2. Do not begin T3 in the same activity.**
