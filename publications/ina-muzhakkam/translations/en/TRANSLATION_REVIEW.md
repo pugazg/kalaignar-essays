@@ -12,8 +12,8 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | PASS | PASS | PASS | PASS | PASS | **PASS** |
-| 6 | `கவிதைகள்` | `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` | PASS | NEXT | — | — | — | — |
+| 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | PASS | PASS | PASS | PASS | PASS | PASS |
+| 6 | `கவிதைகள்` | `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` | PASS | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** |
 
 Tamil blockers: **0**. English blockers: **0**.
 
@@ -116,39 +116,95 @@ Article 4 is individually frozen.
 - `கறுப்புப் படை` → **Black Army**;
 - closing `விபீஷண சுக்ரீவர்` → **Vibheeshanans and Sugrivans**; `உங்கள் இனம்` → **your race**.
 
-### Article 5 T2 bilingual fidelity review — preserved through T5
+### Article 5 review history
 
-Two fidelity corrections remain intact:
-
-1. `அவனிடத்தில் ஆசை வலை விரித்தேன்.` — **I spread a net of desire for him.** → **I cast a net of desire around him.**
-2. `ஓமாந்தூராரை அதட்டிக் கேட்டேன்` — **I barked at Omaanthooraar** → **I demanded of Omaanthooraar**.
-
-After T2: omitted clauses **0**; added claims **0**; name/referent defects **0**; negative/comparison/logical-relation defects **0**; quotation-scope defects **0**; page-provenance defects **0**.
-
-### Article 5 T3 Kalaignar voice review — preserved through T5
-
-T3 found the fidelity-reviewed English already preserved direct first-person personification, sarcasm/mockery, rhetorical questions, abrupt contrasts, visceral imagery, repetition and boastful cadence. **No T3 body correction was required.**
-
-### Article 5 T4 terminology / quotation / citation / source audit — preserved at T5
-
-T4 confirmed the title and ideological term **Aryanism Speaks / Aryanism**, all source-specific names and transliterations, **axe-handle / Kulachirai**, recurring **Gandhiyar / Gotse**, **Omaanthooraar**, quoted **“Opposition to Aryanism?”**, **Black Army**, closing **Vibheeshanans and Sugrivans / your race**, both ordered source comments and scan-38→39 `Kula— / chirai`.
-
-T4 findings: terminology defects **0**; source-witness defects **0**; quotation/citation defects **0**; source-comment/page-trace defects **0**; body corrections **0**; blockers **0**.
-
-### Article 5 T5 final verification
-
-T5 reread the complete T4 English against frozen Tamil and every T1–T4 decision for completeness, meaning, directness, first-person polemical voice, terminology, source-name treatment, quotation/source treatment and page provenance. Both T2 corrections, the T3 zero-body-change result, the T4 zero-defect audit, both source comments and `Kula— / chirai` remain intact. **No final body correction was required.**
-
-T5 result: **PASS / VERIFIED**. Article 5 is individually frozen.
+T2 made two fidelity corrections: **I spread a net of desire for him** → **I cast a net of desire around him**; **I barked at Omaanthooraar** → **I demanded of Omaanthooraar**. T3 required no body correction. T4 found **0** terminology, source-witness, quotation/citation or page-provenance defects and required **0** body corrections. T5 found no final body defect. Article 5 is individually frozen.
 
 ---
 
-## 6. கவிதைகள்
+## 6. கவிதைகள் — T5 VERIFIED / INDIVIDUALLY FROZEN
 
-- Tamil blob: `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
-- T0 PASS; T1–T5 not started.
-- preserve frozen poem headings, lineation and source trace.
+- Tamil source blob: `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
+- English file: `translations/en/06-kavithaigal.md`
+- verified English title: **Poems**
+- T1 English blob: `fedc9d4dc196fc458b593cb60fa08f075c661f1e`
+- T2 English blob: `9da9bcbd0e5fd31d1d4f5a9592d8b1ffdc059bbe`
+- T3 English blob: `ca33119ed5b7d69a1fedb57349610d222d14ff71`
+- T4 English blob: `099397023559005dfd73087e4e14bb94eef7f672`
+- T5 verified English blob: `9e6f90b00bfa9a5059f1eef6875e8cef3c3652c`
+- `translation_status`: `verified`
+- source comments: **9 / 9 preserved in order** for scans 41–49
+- poem headings: **11 / 11 preserved**, including source punctuation
+- Tamil source changes: **0**
+- blockers: **0**
+
+### Article 6 source-bearing decisions through T5
+
+- `கவிதைகள்` → **Poems**;
+- `நியாயத் திராசு!` → **Scale of Justice!**;
+- `ஏற்பரோ!` → **Will They Accept!**, retaining the source exclamation rather than editorially changing it to a question mark;
+- `சைவரே! / சைவம்` → **Saivites! / Saivism**;
+- `வா!` → **Come!**;
+- `பொதுவுடைமையே!` → **Common Ownership!**;
+- `யோசித்துப் பார்!` → **Think It Over!**;
+- `மாணவர் எழுச்சி.` → **Student Uprising.**;
+- `வாளிங்கே!` → **Here Is the Sword!**;
+- `தோல்வி எப்பொழுது?` → **When Will There Be Defeat?**;
+- `இன்னுமா கூச்சல்?` → **Still This Clamour?**;
+- `வருணமா? மரணமா?` → **Varna or Death?**;
+- source-bearing **Dharman / Bhiman / Karunan / Panchali / Lakshmi / Parvathi / Kalaimagal / Ahalyai / Indran / Tharai / Chandran / Eripaththar / Kotpuli / Kulachirai / Kambar / Kizhar** retained without outside identification;
+- source-cultural **Muthamizh**, **sotha / sothas**, **payasam**, **velis**, **Varna** retained without explanatory expansion;
+- recurring ideological **Dravidian / Aryan / Tamilian** follows the established publication policy only where the same Tamil function recurs;
+- source-irregular `மனமுள்ளார்`, `ஏறிபத்தர்`, `முடுக்கினாள்`, `போர் வீரனாம்`, `கதறினாள்` remain translated from the frozen Tamil rather than scan alternatives;
+- the source's mismatched quotation marks in `பொதுவுடைமையே!` are preserved as an unmatched English opening/closing quote rather than silently regularised.
+
+### Article 6 T1 close draft
+
+T1 translated all eleven poem units from the frozen Tamil assembly, preserving all nine source comments and source verse lineation. No OCR, scan-alternate reading, later edition or outside source was used. T1 English blob: `fedc9d4dc196fc458b593cb60fa08f075c661f1e`.
+
+### Article 6 T2 bilingual fidelity review
+
+Five fidelity corrections were made:
+
+1. `பொதுவுடைமையே!` stanza — restored the exact nine-line source structure rather than compressing the opening address;
+2. `முழவு` — removed T1's unsupported **war** from **war drum**, leaving **drum**;
+3. `செந்தமிழ்க் காளைகள் / நந்தமிழ் நாட்டை` — restored source modifiers as **pure-Tamil bulls / our fair Tamil land**;
+4. `கருத்தெரிய` — **truth** → **matter**, avoiding a stronger claim than the frozen Tamil;
+5. `வண்டமிழ்` — **honeyed Tamil land** → **rich Tamil land**, removing an unsupported image.
+
+After correction: omitted poem lines **0**; added claims **0**; name/referent defects **0**; command/question/exclamation defects **0**; source-comment defects **0**; verse-lineation defects **0**. T2 English blob: `9da9bcbd0e5fd31d1d4f5a9592d8b1ffdc059bbe`.
+
+### Article 6 T3 Kalaignar voice review
+
+Five voice/style-only refinements were made while preserving meaning and lineation:
+
+1. **put medicine on a wound** → **dress a wound with medicine**;
+2. **straightened herself once** → **drew herself upright**;
+3. **urged on her pace** → **quickened her pace**;
+4. **tell me where my warrior's milk went** → **tell me what became of my warrior's milk**;
+5. **At the news that a mouse has come** → **At word that a mouse has come**.
+
+All T2 corrections and source-bearing forms remain intact. T3 English blob: `ca33119ed5b7d69a1fedb57349610d222d14ff71`.
+
+### Article 6 T4 terminology / quotation / citation / source audit
+
+Four audit corrections were made:
+
+1. heading **Scales of Justice!** → **Scale of Justice!**, restoring source singular `திராசு`;
+2. heading **Will They Accept?** → **Will They Accept!**, restoring source punctuation `ஏற்பரோ!`;
+3. removed the added object **us** from the Saivism net image, leaving the source's object unstated;
+4. restored the source-aligned sequence and lineation in the final half of **When Will There Be Defeat?**, so the crab/fox comparison precedes the Aryan `okra-warriors` and final victory clause as in Tamil.
+
+T4 then found terminology defects **0**; source-witness defects **0**; quotation/citation defects **0**; source-comment defects **0**; heading/lineation defects **0**; blockers **0**. T4 English blob: `099397023559005dfd73087e4e14bb94eef7f672`.
+
+### Article 6 T5 final verification
+
+T5 reread the complete T4 English against frozen Tamil and all T1–T4 decisions. Completeness, poem ordering, headings, lineation, meaning, commands/questions/exclamations, polemical and narrative voice, terminology, source-specific names, source-cultural transliterations, quotation treatment and all **9 / 9** page comments pass. All T2, T3 and T4 corrections remain intact. **No final body correction was required.**
+
+T5 result: **PASS / VERIFIED**. Article 6 is individually frozen.
+
+---
 
 ## Exact next activity
 
-**Article 6 `கவிதைகள்` — T1 close English draft only.** Re-fetch frozen Tamil blob `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`; translate only the frozen assembly; preserve headings, lineation, parallelism, direct address, commands, questions, exclamations and ordered source-page comments; prioritise semantic/rhetorical fidelity over invented rhyme; record new source-bearing decisions in the lexicon and ledger; and **stop before Article 6 T2**.
+**E6 — publication-wide English consistency review only.** Review all six verified English units together for recurring names and epithets, Aryan/Dravidian vocabulary, source-specific transliterations, title style, quotation/source treatment, page provenance, source-cultural terms and accidental smoothing. Preserve individually verified source-witness distinctions unless a genuine cross-article defect is found. **Stop before E7 release closeout.**
