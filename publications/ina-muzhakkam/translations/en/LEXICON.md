@@ -137,16 +137,16 @@ Three correction groups were required:
 2. Article 5: **Vibheeshanan / Sugrivan / Vibheeshanans / Sugrivans** → **Vibhishana / Sugriva / Vibhishanas / Sugrivas**, because the same frozen Tamil names recur in Article 1.
 3. Article 6: **Parvathi / Ahalyai / Indran / Tharai / Chandran** → **Parvati / Ahalya / Indra / Tara / the Moon**, harmonising recurring mythic names already established in Articles 1–2.
 
-Current E6 release-candidate English blobs:
+## Released English authorities
 
-1. Article 1 — `01d0d16c4f52cb134eba9fd35c06ad8376e256cb` unchanged.
+1. Article 1 — `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.
 2. Article 2 — `605db7873d4eaf45cbe04e683280b9b6bd649498`.
-3. Article 3 — `c526195d7eb16b2dc446f8b3b15ae674c75548d5` unchanged.
-4. Article 4 — `46627c3cecfd186e1735d8766ddda27414118e62` unchanged.
+3. Article 3 — `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.
+4. Article 4 — `46627c3cecfd186e1735d8766ddda27414118e62`.
 5. Article 5 — `71656666ae7536a57f88fb5e47938c9c6c9b8e01`.
 6. Article 6 — `15b9a08a0aa32305360fd6350e2fab8bb7cd40fb`.
 
-Deliberate exceptions retained include **Kamaraj Nadar / Kamarajar / Kamarajars**, **Gramaniyar / Gramaaniyar**, **Aachariyar / Aachaariyar**, **Kanaka Visayar / Kanakan / Visayan**, **Vadalur Ramalingam / Ramalingar**, **Arutperum Jothi / Arut Sothi**, Article-2 **Eripatha Nayanar** versus source-sensitive Article-6 **Eripaththar**, and **Varnashrama / Varna**. These differences follow distinct frozen Tamil witnesses or grammatical/rhetorical functions and must not be homogenised.
+Deliberate exceptions retained include **Kamaraj Nadar / Kamarajar / Kamarajars**, **Gramaniyar / Gramaaniyar**, **Aachariyar / Aachaariyar**, **Kanaka Visayar / Kanakan / Visayan**, **Vadalur Ramalingam / Ramalingar**, **Arutperum Jothi / Arut Sothi**, Article-2 **Eripatha Nayanar** versus source-sensitive Article-6 **Eripaththar**, Article-2 **Kotpuli Nayanar** versus Article-6 **Kotpuli**, Article-4 **Varnashrama** versus Article-6 **Varna**, and Article-2 **Parvati Devi** versus Article-6 **Parvati**. These differences follow distinct frozen Tamil witnesses or grammatical/rhetorical functions and must not be homogenised.
 
 E6 also confirmed publication-wide consistency for **Dravidian / Dravidians / Dravidian race / Dravidian land**, **Aryan / Aryans / Aryan race / Aryanism**, **Gandhiyar / Gandhiji / Gandhi**, **Gotse**, **Kulachirai**, **heavenly realm**, title style, quotation/source treatment, all ordered source-page comments, and Article-6 heading/lineation fidelity.
 
@@ -162,6 +162,8 @@ For `கவிதைகள்`, retain headings, source lineation, parallelism, 
 
 Scan-24 and scan-37 promotions, scan-40 `கவிதைகளைப் பற்றி` / `மதிப்புரை`, and scan-50 catalogue stay outside the six English bodies unless separately authorised.
 
-## Next lexicon activity
+## Release-frozen boundary
 
-**E7 English release closeout only.** Treat the E6 release-candidate blobs above as the current English authorities. Do not reopen E6 decisions without a genuine source-supported or release-blocking defect.
+E7 confirmed the six released English blobs above exactly, all six frozen Tamil authority blobs unchanged, **43 / 43** ordered source-page comments, Article-6 **11 / 11** headings/source lineation, source exclusions and **0** release blockers. No terminology or source-form change was made during E7.
+
+This lexicon is now **release-frozen with `இன முழக்கம்`**. Do not change a released form merely for stylistic preference, conventionalisation or cross-article uniformity. Reopen only for a concrete source-supported or release-blocking defect.
