@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows:
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `ae2252343bf57dbbcf949e2a5589d56304ff2ece` — `Record Kolaikkalam source metadata`.
+- Last confirmed live HEAD immediately before this handover synchronization: `0c90aa46162498834a07e28b9747d9db3760b4e8` — `Record Kolaikkalam P1 canonical structure`.
 
 ---
 
@@ -129,7 +129,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 7 — கொலைக்களம்! — P0 COMPLETE / ACTIVE
+# Publication 7 — கொலைக்களம்! — P0–P1 COMPLETE / ACTIVE
 
 Workspace: `publications/kolaikkalam/`  
 Controlling source: `TVA_BOK_0063657_கொலைக்களம்.pdf`
@@ -138,72 +138,97 @@ Controlling source: `TVA_BOK_0063657_கொலைக்களம்.pdf`
 
 - cover title: **`கொலைக்களம்!`**
 - cover author line: **`கலைஞர். மு. கருணாநிதி`**
-- cover imprint/publisher line: **`முன்னேற்றப் பண்ணை`**, **`சென்னை-1`**
+- cover imprint/publisher: **`முன்னேற்றப் பண்ணை`**, **`சென்னை-1`**
 - scan-2 edition line: **`முதற் பதிப்பு-52`**
 - scan-2 price: **`விலை அணா எட்டு`**
-- scan-2 distributor/sales-rights name: **`எஸ். எம். ராஜமுத்து கம்பெனி`**
+- scan-2 sales-rights/distributor name: **`எஸ். எம். ராஜமுத்து கம்பெனி`**
 - scan-40 printer line: **`ஸ்ரீமகள் பிரஸ், சென்னை-1`**
 - physical scans: **40**
 - source SHA-256: `674a534f6c29e5abed9c7ebf52c3cfd143f494d6a21341b5d0624871c187a96c`
 - file size: **55,495,728 bytes**
 - source PDF committed: **No**
-- prior repository work for title/source ID: **not found**
+- prior repository work for title/source ID before intake: **not found**
 
-The printed edition witness contains only `52`; do not silently expand that source form inside diplomatic transcription.
+The edition witness is printed only as `52`; do not silently expand it in the diplomatic layer.
 
-## P0 publication-form assessment
+## P1 canonical publication structure
 
-The source is a **multi-piece pamphlet / essay publication**, not a single standalone article. No printed contents page was identified at intake.
+Printed contents page: **ABSENT / CONFIRMED**.
 
-Preliminary heading witnesses, subject to P1 boundary confirmation:
+Front matter:
 
-| Heading | Opening scan | Intake status |
-|---|---:|---|
-| `இன்பத் துளி!` | 3 | introductory/prefatory piece; exact status pending P1 |
-| `கொலைக்களம்!` | 5 | apparent main prose unit |
-| `‘அஸ்தி’ கரையட்டும்!` | 10 | apparent main prose unit |
-| `பலியை நிறுத்துங்கள்!` | 17 | apparent main prose unit |
-| `விழலுக்கு நீர் இறைத்து...` | 23 | apparent main prose unit |
-| `சோதனை!` | 28 | apparent main prose unit |
-| `வீரமுழக்கம் செய்திடுவீர்!` | 34 | apparent main prose unit |
+- scan 1 — front cover;
+- scan 2 — copyright / edition / price / sales-rights page;
+- scans 3–4 — introductory signed note **`இன்பத் துளி!`**.
 
-Do not treat this as the canonical article map until P1 confirms every boundary.
+`இன்பத் துளி!` is classified as **introductory front matter**, not one of the numbered main prose units. Scan 4 ends with the signed `மு. கருணாநிதி` / `பண்ணையாளர்` witness and scan 5 opens the first main prose heading.
+
+Canonical main prose units:
+
+1. `கொலைக்களம்!` — scans **5–9**;
+2. `‘அஸ்தி’ கரையட்டும்!` — scans **10–16**;
+3. `பலியை நிறுத்துங்கள்!` — scans **17–22**;
+4. `விழலுக்கு நீர் இறைத்து...` — scans **23–27**;
+5. `சோதனை!` — scans **28–33**;
+6. `வீரமுழக்கம் செய்திடுவீர்!` — scans **34–40**.
+
+Scan 40 contains the ending of Unit 6 plus the printer line; no separate back cover is present in the supplied PDF.
+
+Canonical P1 records:
+
+- `publications/kolaikkalam/indexes/page-map.md`
+- `publications/kolaikkalam/indexes/contents.md`
+
+## Printed-page behaviour
+
+Visible printed numerals occur on **31 / 40** scans:
+
+`4`, `6–9`, `11–16`, `18–22`, `24–27`, `29–33`, `35–40`.
+
+Visibly unnumbered scans:
+
+`1, 2, 3, 5, 10, 17, 23, 28, 34`.
+
+Printed numerals inferred at P1: **0**.
 
 ## Physical-copy evidence
 
-- scan 1 has multiple library stamps, handwritten accession/date marks, pen cancellation/overwriting and a prominent paper crack/tear across the upper area;
-- scan 2 has a circular library stamp, upper-right tear/damage, dark ink marks and later handwriting/signature near the bottom;
-- scan 3 has handwriting/stamp overlap in the upper area;
-- general age wear/spotting is visible across the copy.
+- scan 1: multiple library stamps, handwritten accession/date marks, pen cancellation/overwriting and a prominent crack/tear;
+- scan 2: circular library stamp, upper-right paper damage, dark ink marks and later handwriting/signature;
+- scan 3: handwriting/stamp overlap in the upper area;
+- general age wear/spotting/handling marks occur throughout.
 
-Printed text and physical-copy marks must remain separate.
+Keep physical-copy marks separate from `# அச்சு உரை`; never reconstruct obscured text merely from context.
 
 ## Gate status
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**
-- P1 — metadata + canonical page map + contents/unit mapping: **NOT STARTED**
+- P1 — metadata + canonical page map + contents/unit mapping: **COMPLETE / PASS**
 - P2 — page-level transcription: **NOT STARTED**
 - P3 — article/unit assemblies: **NOT STARTED**
 - P4 — source/completeness audit: **NOT STARTED**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
-- physical page records: **0 / 40**
-- article/unit assemblies: **0**
+- physical scans structurally mapped: **40 / 40**
+- page records: **0 / 40**
+- canonical main prose units: **6**
+- article/unit assemblies: **0 / 6**
 - direct lexical page verification: **0 / 40**
 - English translation: **NOT STARTED**
-- blockers at P0: **0**
+- blockers: **0**
 
 ## Source authority / non-regression
 
-The supplied scan is controlling. Preserve source-visible old glyphs, spelling, punctuation, heading forms, names, numbers and separate physical-copy marks. Do not import OCR, web wording, later editions or contextual guesses into the archival layer.
+The supplied scan is controlling. Preserve source-visible old glyphs, spelling, punctuation, headings, names, numbers, repetitions and separate source witnesses. Do not import OCR, web wording, later editions or contextual guesses into the archival layer.
 
 ## Exact next activity
 
-**P1 — metadata + canonical page map + contents/unit mapping for all 40 scans.**
+**P2 — page-level transcription and direct visual verification for all 40 physical scans.**
 
-1. Re-resolve the controlling PDF and inspect scans 1–40 in order.
-2. Create `publications/kolaikkalam/indexes/page-map.md` with one row per physical scan and only source-visible printed numerals.
-3. Create `publications/kolaikkalam/indexes/contents.md`, explicitly recording whether a printed contents page exists and mapping the heading witnesses.
-4. Confirm the exact span/status of `இன்பத் துளி!` and each apparent main prose unit from source starts/ends.
-5. Record cover/imprint/printer and physical-copy distinctions without beginning lexical body transcription.
-6. Synchronize publication README/source metadata, this handover and `docs/NEXT_CHAT_PROMPT.md`.
-7. **STOP AFTER P1. DO NOT BEGIN P2 TRANSCRIPTION IN THE SAME ACTIVITY.**
+1. Re-resolve the controlling PDF and use the canonical P1 page/unit map.
+2. Create one page record for every scan **1–40**.
+3. Transcribe all source-visible printed material exactly, including front matter, `இன்பத் துளி!`, all six main prose units, and the scan-40 printer witness.
+4. Keep stamps, handwriting, tears, stains and other physical-copy marks outside `# அச்சு உரை`.
+5. Preserve visible punctuation, old glyphs, headings, numbers, paragraph boundaries and continuations; do not modernise or silently normalise.
+6. Mark a page `verified` only after direct visual comparison; flag genuinely unresolved text rather than guessing.
+7. Synchronize README/metadata/indexes/handover/prompt after all 40 page records are complete.
+8. **STOP AFTER P2. DO NOT BEGIN P3 ASSEMBLY IN THE SAME ACTIVITY.**
