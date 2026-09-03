@@ -9,14 +9,14 @@ source_scan_pages: "41-49"
 source_printed_pages: "40-48"
 language: "en"
 translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 6 T3 Kalaignar voice review complete; source headings and verse lineation preserved"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 6 T4 terminology / quotation / citation / source audit complete; source headings and verse lineation preserved"
 ---
 
 # Poems
 
 <!-- Tamil source: scan 41 / printed 40 -->
 
-## Scales of Justice!
+## Scale of Justice!
 
 You will dress a wound with medicine  
 and seek a way to heal it!  
@@ -31,7 +31,7 @@ then, if you reach the edge of death,
 must your wife make a sacrifice  
 of her love?
 
-## Will They Accept?
+## Will They Accept!
 
 Dharman and Bhiman and the other three were not enough—  
 Panchali loved Karunan too!  
@@ -70,8 +70,8 @@ In the killing field, through Kulachirai,
 Jains died!  
 O true devotees, babbling  
 with swollen heads!  
-The Saivism you nurtured  
-to trap us in a net—  
+For trapping in a net,  
+the Saivism you nurtured—  
 we shall strike it with death and swiftly  
 bring it down!  
 We are not the breeze  
@@ -261,13 +261,13 @@ stands sweating in panic!
 If these great spectacles  
 unseen in the world  
 come to rich Tamil land,  
+having lived crowned with victory,  
+never shrinking from battle,  
 all the lion-like Tamil bulls  
-who have lived crowned with victory  
-and never shrank from battle  
-will give victories  
-to Aryan okra-warriors—  
-like a fox that hid  
-in fear of a crab!
+who hid in fear of a crab  
+like a fox—to Aryan  
+okra-warriors  
+would give their victories!
 
 <!-- Tamil source: scan 49 / printed 48 -->
 
