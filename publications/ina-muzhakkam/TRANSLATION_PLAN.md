@@ -46,43 +46,45 @@ Each unit passes T0 source prerequisite, T1 close draft, T2 bilingual fidelity r
 - T3: **6 / 6 PASS**
 - T4: **6 / 6 PASS**
 - T5: **6 / 6 PASS**
-- E6/E7: **NOT STARTED**
+- E6: **PASS / COMPLETE**
+- E7: **NOT STARTED**
 - blockers: **0**
 
-## Articles 1–6 — T5 VERIFIED / FROZEN
+## Historical T5 boundaries
 
-1. `இன முழக்கம்` — **The Clarion Call of the Race** — verified English `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.
-2. `சொர்க்க லோகத்தில்` — **In the Heavenly Realm** — verified English `bcd98fb1abf03e3109da1c4802570b77fddfe015`.
-3. `முரசறைவாய்` — **Beat the Drum** — verified English `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.
-4. `பழிக்குப் பழி` — **Revenge for Revenge** — verified English `46627c3cecfd186e1735d8766ddda27414118e62`.
-5. `ஆரியம் பேசுகிறது` — **Aryanism Speaks** — verified English `4b1666afd885c3d8b800b08410a3dbfe498856bc`.
-6. `கவிதைகள்` — **Poems** — verified English `9e6f90b00bfa9a5059f1eef6875e8cef3c3652c3`.
+1. `இன முழக்கம்` — **The Clarion Call of the Race** — `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.
+2. `சொர்க்க லோகத்தில்` — **In the Heavenly Realm** — `bcd98fb1abf03e3109da1c4802570b77fddfe015`.
+3. `முரசறைவாய்` — **Beat the Drum** — `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.
+4. `பழிக்குப் பழி` — **Revenge for Revenge** — `46627c3cecfd186e1735d8766ddda27414118e62`.
+5. `ஆரியம் பேசுகிறது` — **Aryanism Speaks** — `4b1666afd885c3d8b800b08410a3dbfe498856bc`.
+6. `கவிதைகள்` — **Poems** — `9e6f90b00bfa9a5059f1eef6875e8cef3c3652c3`.
 
-All six are individually frozen; reopen only for a genuine source-supported defect. Detailed gate provenance is in `translations/en/TRANSLATION_REVIEW.md`; terminology/source-witness decisions are in `translations/en/LEXICON.md`.
+These remain historical article-level T5 checkpoints. E6 publication-wide consistency corrections are recorded separately below.
 
-## Article 6 — T5 COMPLETE / VERIFIED
+## E6 publication-wide consistency review — PASS / COMPLETE
 
-- Tamil authority: `articles/06-kavithaigal.md`
-- frozen Tamil blob: `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
-- English file: `translations/en/06-kavithaigal.md`
-- verified English title: **Poems**
-- T1 English blob: `fedc9d4dc196fc458b593cb60fa08f075c661f1e`
-- T2 English blob: `9da9bcbd0e5fd31d1d4f5a9592d8b1ffdc059bbe`
-- T3 English blob: `ca33119ed5b7d69a1fedb57349610d222d14ff71`
-- T4 English blob: `099397023559005dfd73087e4e14bb94eef7f672`
-- T5 verified English blob: `9e6f90b00bfa9a5059f1eef6875e8cef3c3652c3`
-- status: `verified`
-- source comments: **9 / 9 preserved in order** for scans 41–49
-- poem headings: **11 / 11 preserved**
-- blockers: **0**
+E6 reviewed all six verified units together for recurring names/epithets, Aryan/Dravidian vocabulary, source-specific transliterations, title style, quotation/source treatment, source-page trace, source-cultural terms and accidental smoothing. Every apparent variation was classified as **consistent**, **deliberate contextual/source-witness exception**, or **correction required**.
 
-### Article 6 review history
+Three correction groups were required and completed:
 
-T1 translated all eleven poem units from frozen Tamil, preserving headings, lineation, commands, questions, exclamations and page comments. T2 made five fidelity corrections: exact `Common Ownership!` lineation; `drum` instead of unsupported `war drum`; source modifiers `pure-Tamil / fair Tamil`; `matter` instead of `truth`; and `rich Tamil` instead of `honeyed Tamil`. T3 made five voice/style refinements without changing meaning or lineation. T4 made four audit corrections: **Scale of Justice!**, source punctuation **Will They Accept!**, removal of added `us` from the Saivism-net image, and source-aligned ordering/lineation in **When Will There Be Defeat?**. T5 required **0** final body corrections.
+1. Article 2 — **Tirugnana Sambandar** → **Thirugnana Sambandar**, harmonising the transliteration root with Article 4 while preserving Article-2 spaced `திருஞான சம்பந்தர்` versus Article-4 unspaced `திருஞானசம்பந்தர்`.
+2. Article 5 — **Vibheeshanan / Sugrivan / Vibheeshanans / Sugrivans** → **Vibhishana / Sugriva / Vibhishanas / Sugrivas**, because the same frozen Tamil names `விபீஷணன் / சுக்ரீவன்` recur in Article 1.
+3. Article 6 — **Parvathi / Ahalyai / Indran / Tharai / Chandran** → **Parvati / Ahalya / Indra / Tara / the Moon**, matching recurring mythic-name treatment already established in Articles 1–2.
 
-### Article 6 source-bearing decisions
+E6 deliberately retained source-supported distinctions including **Kamaraj Nadar / Kamarajar / Kamarajars**, **Gramaniyar / Gramaaniyar**, **Aachariyar / Aachaariyar**, **Kanaka Visayar / Kanakan / Visayan**, **Vadalur Ramalingam / Ramalingar**, **Arutperum Jothi / Arut Sothi**, Article-2 **Eripatha Nayanar** versus Article-6 **Eripaththar**, Article-2 **Kotpuli Nayanar** versus Article-6 **Kotpuli**, and Article-4 **Varnashrama** versus Article-6 **Varna**.
 
-Preserve **Muthamizh**, **sotha / sothas**, **veli / velis**, **payasam**, **Saivites / Saivism**, **Eripaththar**, **Kotpuli**, **Kulachirai**, **Varna**, and the source-chosen epic/name forms recorded in the lexicon. Preserve the unmatched quotation treatment in `Common Ownership!` because the frozen Tamil itself has mismatched opening/closing quote styles.
+After correction: recurring names/epithets **PASS**; Aryan/Dravidian vocabulary **PASS**; title style **PASS**; quotation/source treatment **PASS**; source-cultural terms/explanatory restraint **PASS**; voice consistency **PASS**; accidental smoothing defects **0**; ordered source-page comments **43 / 43 preserved**; Article-6 headings **11 / 11 preserved**; Tamil source changes **0**; blockers **0**.
+
+## E6 release-candidate English authorities
+
+1. Article 1 — `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.
+2. Article 2 — `605db7873d4eaf45cbe04e683280b9b6bd649498`.
+3. Article 3 — `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.
+4. Article 4 — `46627c3cecfd186e1735d8766ddda27414118e62`.
+5. Article 5 — `71656666ae7536a57f88fb5e47938c9c6c9b8e01`.
+6. Article 6 — `15b9a08a0aa32305360fd6350e2fab8bb7cd40fb`.
+
+All six English files remain `translation_status: verified`. Detailed E6 provenance is in `translations/en/TRANSLATION_REVIEW.md`; terminology and deliberate exceptions are recorded in `translations/en/LEXICON.md`.
 
 ## Publication-specific non-regression
 
@@ -91,17 +93,9 @@ Preserve **Muthamizh**, **sotha / sothas**, **veli / velis**, **payasam**, **Sai
 - Do not identify unexplained source labels from outside knowledge.
 - Preserve quotation status, ordered source-page comments and documented page boundaries.
 - Excluded scan-24/37 promotions, scan-40 review/front matter and scan-50 catalogue remain outside the six bodies.
-- Articles 1–6 are T5-frozen.
-
-## Article order
-
-1. `இன முழக்கம்` — **T5 VERIFIED**
-2. `சொர்க்க லோகத்தில்` — **T5 VERIFIED**
-3. `முரசறைவாய்` — **T5 VERIFIED**
-4. `பழிக்குப் பழி` — **T5 VERIFIED**
-5. `ஆரியம் பேசுகிறது` — **T5 VERIFIED**
-6. `கவிதைகள்` — **T5 VERIFIED**
+- Preserve deliberately source-distinct forms documented by E6.
+- Treat the E6 release-candidate blobs above as the current English authorities for E7.
 
 ## Exact next activity
 
-**E6 — publication-wide English consistency review only.** Cross-check all six verified units for recurring names/epithets, Aryan/Dravidian vocabulary, source-specific transliterations, title style, quotation/source treatment, page trace, source-cultural terms and accidental smoothing. Preserve deliberately source-distinct forms. **Stop before E7 release closeout.**
+**E7 — English release closeout only.** Re-fetch live `main`; confirm the six E6 release-candidate blobs and the synchronized plan/tracker/lexicon/review records; verify release metadata, exclusions and zero-blocker state without reopening content unless a genuine release-blocking defect is found; if clean, mark `இன முழக்கம்` English-translation complete / release complete and synchronize durable records. **Do not start another publication in the same activity.**
