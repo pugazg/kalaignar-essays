@@ -66,7 +66,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - T2: **5 / 6 PASS**
 - T3: **5 / 6 PASS**
 - T4: **5 / 6 PASS**
-- T5: **4 / 6 PASS**
+- T5: **5 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
@@ -79,16 +79,17 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 5. `articles/05-aariyam-pesugirathu.md` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `articles/06-kavithaigal.md` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-## English Articles 1–4 provenance — T5 VERIFIED
+## English Articles 1–5 provenance — T5 VERIFIED
 
 1. **The Clarion Call of the Race** — T5 English `01d0d16c4f52cb134eba9fd35c06ad8376e256cb` — **8 / 8** comments.
 2. **In the Heavenly Realm** — T5 English `bcd98fb1abf03e3109da1c4802570b77fddfe015` — **11 / 11** comments.
 3. **Beat the Drum** — T5 English `c526195d7eb16b2dc446f8b3b15ae674c75548d5` — **5 / 5** comments.
 4. **Revenge for Revenge** — T5 English `46627c3cecfd186e1735d8766ddda27414118e62` — **8 / 8** comments.
+5. **Aryanism Speaks** — T5 English `4b1666afd885c3d8b800b08410a3dbfe498856bc` — **2 / 2** comments.
 
-Articles 1–4 are individually frozen.
+Articles 1–5 are individually frozen.
 
-## English Article 5 provenance — T4 AUDITED
+## English Article 5 provenance — T5 VERIFIED
 
 - title: **Aryanism Speaks**
 - English file: `../translations/en/05-aariyam-pesugirathu.md`
@@ -97,16 +98,18 @@ Articles 1–4 are individually frozen.
 - T2 English blob: `508639503ab830e83d8cac547476c83d26a8494f`
 - T3 English blob: `77310ccb8bac5304f15050ee0988ae26d8302b10`
 - T4 English blob: `1ecb77039eec8976ac4b25e4ff1b7dd0de2fad7e`
-- status: `voice-reviewed` pending T5
+- T5 verified English blob: `4b1666afd885c3d8b800b08410a3dbfe498856bc`
+- status: `verified`
 - source comments: **2 / 2 preserved in order**
 - scan-38→39 trace: `Kula— / chirai`
 - T2 fidelity corrections: **2 / 2 preserved**
 - T3 voice/style body corrections: **0**
 - T4 terminology/quotation/citation/source body corrections: **0**
+- T5 final body corrections: **0**
 - Tamil source changes: **0**
 - blockers: **0**
 
-T4 audited the Article-5 title, ideological vocabulary, source-specific names and transliterations, source metaphor **axe-handle**, **Kulachirai**, recurring **Gandhiyar / Gotse**, **Omaanthooraar**, quoted **“Opposition to Aryanism?”**, **Black Army**, closing **Vibheeshanans and Sugrivans / your race**, both ordered comments and the physical `Kula— / chirai` trace. No terminology, source-witness, quotation/citation or page-provenance defect was found. The English body is unchanged from T3; both T2 corrections and the T3 zero-body-change result remain intact.
+T5 reread the T4-audited English against frozen Tamil and all T1–T4 decisions. It confirmed completeness, meaning, first-person polemical voice, terminology, source-specific names, quotation scope and page provenance. Both T2 fidelity corrections, the T3 zero-body-change result, the T4 zero-defect audit, both ordered comments and the physical `Kula— / chirai` trace remain intact. No final body correction was required.
 
 ## English translation exclusions / constraints
 
@@ -115,6 +118,6 @@ T4 audited the Article-5 title, ideological vocabulary, source-specific names an
 - scan 50 catalogue remains outside all six English bodies;
 - known P5 lexical-witness differences are not licences to translate from scan alternatives;
 - source-page comments are required for bilingual traceability;
-- Articles 1–4 verified decisions must not be reopened without genuine source support.
+- Articles 1–5 verified decisions must not be reopened without genuine source support.
 
-Exact next activity: **Article 5 `ஆரியம் பேசுகிறது` — T5 final article verification only; if clean mark verified and individually freeze it; stop before Article 6 T1.**
+Exact next activity: **Article 6 `கவிதைகள்` — T1 close English draft only; preserve frozen headings, lineation and source trace; stop before Article 6 T2.**
