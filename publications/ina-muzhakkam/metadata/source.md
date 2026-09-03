@@ -53,7 +53,7 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - scan 49 heading: `வருணமா? மரணமா?`;
 - scan 50 catalogue remains outside all six body assemblies.
 
-## Gate status
+## Final gate status
 
 - Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - P2: **50 / 50 COMPLETE**
@@ -63,8 +63,9 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - E0: **COMPLETE / PASS**
 - T0–T5: **6 / 6 PASS at every gate**
 - E6: **PASS / COMPLETE**
-- E7: **NOT STARTED**
+- E7: **PASS / RELEASE COMPLETE**
 - blockers: **0**
+- **English translation: COMPLETE / RELEASED / FROZEN**
 
 ## Frozen Tamil authorities
 
@@ -75,9 +76,9 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 5. `articles/05-aariyam-pesugirathu.md` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `articles/06-kavithaigal.md` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-## E6 English release-candidate provenance
+## Released English provenance
 
-Historical article-level T5 blobs remain recorded in `translations/en/TRANSLATION_REVIEW.md`. E6 publication-wide consistency completed with these current release-candidate English blobs:
+Historical article-level T5 blobs remain recorded in `translations/en/TRANSLATION_REVIEW.md`. E6 publication-wide consistency produced the final release authorities confirmed by E7:
 
 1. **The Clarion Call of the Race** — `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.
 2. **In the Heavenly Realm** — `605db7873d4eaf45cbe04e683280b9b6bd649498`.
@@ -88,9 +89,25 @@ Historical article-level T5 blobs remain recorded in `translations/en/TRANSLATIO
 
 E6 made English-only consistency corrections in Articles 2, 5 and 6: **Thirugnana Sambandar**; recurring **Vibhishana / Sugriva** forms; and recurring **Parvati / Ahalya / Indra / Tara / the Moon** treatment. Frozen Tamil source changes: **0**.
 
-E6 preserved deliberate source-witness distinctions rather than homogenising them, including **Kamaraj Nadar / Kamarajar / Kamarajars**, **Gramaniyar / Gramaaniyar**, **Aachariyar / Aachaariyar**, **Kanaka Visayar / Kanakan / Visayan**, **Vadalur Ramalingam / Ramalingar**, **Arutperum Jothi / Arut Sothi**, **Eripatha Nayanar / Eripaththar**, and **Varnashrama / Varna**.
+E6 preserved deliberate source-witness distinctions rather than homogenising them, including **Kamaraj Nadar / Kamarajar / Kamarajars**, **Gramaniyar / Gramaaniyar**, **Aachariyar / Aachaariyar**, **Kanaka Visayar / Kanakan / Visayan**, **Vadalur Ramalingam / Ramalingar**, **Arutperum Jothi / Arut Sothi**, **Eripatha Nayanar / Eripaththar**, **Kotpuli Nayanar / Kotpuli**, **Varnashrama / Varna**, and **Parvati Devi / Parvati** where source wording differs.
 
-Publication-wide E6 checks after correction: ordered source-page comments **43 / 43 preserved**; Article-6 poem headings **11 / 11 preserved**; title/quotation/source treatment **PASS**; voice consistency **PASS**; English blockers **0**.
+## E7 release closeout provenance
+
+E7 confirmed:
+
+- six released English blobs: **6 / 6 exact match**;
+- frozen Tamil authority blobs: **6 / 6 unchanged**;
+- ordered source-page comments: **43 / 43 preserved**;
+- Article-6 poem headings/source lineation: **11 / 11 preserved**;
+- source exclusions: **PASS**;
+- English body changes after E6: **0 / 6**;
+- English metadata changes after E6: **0 / 6**;
+- frozen Tamil changes during E7: **0**;
+- source/translation gates reopened: **No**;
+- release defects: **0**;
+- release blockers: **0**.
+
+**E7 RESULT: PASS / ENGLISH TRANSLATION COMPLETE / RELEASE COMPLETE / FROZEN.**
 
 ## English translation exclusions / constraints
 
@@ -98,7 +115,9 @@ Publication-wide E6 checks after correction: ordered source-page comments **43 /
 - scan 40 front matter/review remains outside `கவிதைகள்`;
 - scan 50 catalogue remains outside all six English bodies;
 - known P5 lexical-witness differences are not licences to translate from scan alternatives;
-- source-page comments are required for bilingual traceability;
-- E6-documented deliberate source-witness distinctions must remain distinct.
+- source-page comments remain required for bilingual traceability;
+- E6-documented deliberate source-witness distinctions remain release-frozen.
 
-Exact next activity: **E7 English release closeout only; confirm the six E6 release-candidate blobs and synchronized records, then mark English release complete if no release-blocking defect exists. Do not start another publication in the same activity.**
+## Final boundary
+
+`இன முழக்கம்` is complete, released and frozen in Tamil and English. No further activity is pending for this publication absent a genuine source-supported or release-blocking defect.
