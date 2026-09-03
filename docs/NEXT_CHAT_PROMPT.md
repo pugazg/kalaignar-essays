@@ -4,8 +4,7 @@ Use this only as a convenience handoff. **Live `main` and root `HANDOVER.md` are
 
 Repository: `pugazg/kalaignar-essays`  
 Branch: `main`  
-Active publication: `publications/kudumbaththin-nalvilakku/` — **குடும்பத்தின் நல்விளக்கு**  
-Controlling source: `TVA_BOK_0065602_குடும்பத்தின்_நல்விளக்கு.pdf`
+Active publication: `publications/kudumbaththin-nalvilakku/` — **குடும்பத்தின் நல்விளக்கு**
 
 ## LIVE MAIN IS AUTHORITATIVE
 
@@ -13,7 +12,7 @@ Fetch live `main` first. Preserve any newer durable state; never reset, repeat o
 
 Last confirmed handover synchronization when this prompt was prepared:
 
-`8954db7b849648412479536cb816a783fa9208d5` — `Synchronize handover after Kudumbaththin Nalvilakku P5`
+`fabb629f4ede30080b46198b8d9675ba85c875ff` — `Synchronize handover after Kudumbaththin Nalvilakku E0`
 
 ## Mandatory startup
 
@@ -25,90 +24,73 @@ Before changing anything, read completely:
 4. root `HANDOVER.md`
 5. this prompt
 6. `publications/kudumbaththin-nalvilakku/README.md`
-7. `publications/kudumbaththin-nalvilakku/metadata/source.md`
-8. `publications/kudumbaththin-nalvilakku/indexes/page-map.md`
-9. `publications/kudumbaththin-nalvilakku/indexes/contents.md`
-10. `publications/kudumbaththin-nalvilakku/audit.md`
+7. `publications/kudumbaththin-nalvilakku/TRANSLATION_PLAN.md`
+8. `publications/kudumbaththin-nalvilakku/translations/en/README.md`
+9. `publications/kudumbaththin-nalvilakku/translations/en/LEXICON.md`
+10. `publications/kudumbaththin-nalvilakku/translations/en/TRANSLATION_REVIEW.md`
 11. `publications/kudumbaththin-nalvilakku/VISUAL_TEXT_FIDELITY_REVIEW.md`
 12. frozen Tamil article `publications/kudumbaththin-nalvilakku/articles/01-kudumbaththin-nalvilakku.md`
 
-English now enters scope only for **planning/setup**. Do not translate the body during E0.
+## Frozen Tamil authority
 
-## Source identity
+Tamil P0–P5 is **COMPLETE / STRICT-REVIEWED / FROZEN**.
 
-- SHA-256: `1c3389ec76507b0c6f2ae294a4523633e81084d570a1443c7b730ac899e15971`
-- file size: **34,464,808 bytes**
-- physical scans: **16**
-- title: **குடும்பத்தின் நல்விளக்கு**
-- printed author line: **முதல்வர் டாக்டர் கலைஞர் மு. கருணாநிதி**
-- publication type: **standalone single-article family-welfare pamphlet**
-- edition/year: **not visibly established**
-- back-cover printer line after strict review: `மாநில குடும்பநல அச்சகம்,சென்னை-6`
-
-The source PDF is not committed to GitHub.
-
-## Tamil archival state — P0–P5 COMPLETE / FROZEN
-
-- P0: **COMPLETE / PASS**
-- P1: **COMPLETE / PASS**
-- P2: **COMPLETE / PASS**
-- P3: **COMPLETE / PASS**
-- P4: **COMPLETE / PASS**
-- P5: **COMPLETE / PASS**
-- physical scans strict-reviewed: **16 / 16**
-- page records: **16 / 16**
-- body scans: **10 / 10**
-- article assemblies: **1 / 1**
-- unresolved fidelity discrepancies: **0**
-- blockers: **0**
-- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-
-Frozen Tamil article authority:
-
-`f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
-
-Article path:
+Frozen article path:
 
 `publications/kudumbaththin-nalvilakku/articles/01-kudumbaththin-nalvilakku.md`
 
-## Old-glyph / source-reading non-regression
+Frozen blob:
 
-The prior user review and P5 strict pass are frozen source decisions. Do not reopen Tamil for conventional spelling or stylistic preference.
+`f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
 
-Source-sensitive forms include `பிரச்சனையாக`, `படைவீரர்களை`, `முறைகளை`, `பொறுப்பிலே`, `இந்து மார்க்கத்திலே`, `கொள்கைகளை`, `மூர்த்தன்யமாக`, `தாயாரையும்`, `எடுத்தும்`, `நம்பிக்கைகளிலிருந்தெல்லாம்`, `குறைந்தது`, `நாடாளுமன்றத்திலே`, `கேட்டுக்கொண்டிருக்கிறோம்`, `என்கின்ற`, `பதினாறு`, `நாலைந்து`, `தகப்பனாரும்`, `நிறைவேற்றாத`, `அவல் வாங்கிச் சாப்பிட்டு`, `ஆலாய்ப்`, `கயிலையங்கிரியில்`, and `இந்து மதத்திலே`.
+Do not reopen the Tamil body for conventional spelling, old-glyph normalization, stylistic preference or translation convenience.
 
-The user explicitly retained `சிந்தித்துச்` on scan 5 and `ஒருபுறத்திலே` on scan 9 unchanged.
+The source-sensitive user-reviewed readings remain frozen, including `பிரச்சனையாக`, `படைவீரர்களை`, `முறைகளை`, `பொறுப்பிலே`, `இந்து மார்க்கத்திலே`, `கொள்கைகளை`, `மூர்த்தன்யமாக`, `தாயாரையும்`, `எடுத்தும்`, `நம்பிக்கைகளிலிருந்தெல்லாம்`, `குறைந்தது`, `நாடாளுமன்றத்திலே`, `கேட்டுக்கொண்டிருக்கிறோம்`, `என்கின்ற`, `பதினாறு`, `நாலைந்து`, `தகப்பனாரும்`, `நிறைவேற்றாத`, `அவல் வாங்கிச் சாப்பிட்டு`, `ஆலாய்ப்`, `கயிலையங்கிரியில்`, and `இந்து மதத்திலே`; the user explicitly retained `சிந்தித்துச்` and `ஒருபுறத்திலே`.
 
-## P5 final review
+## E0 durable state — COMPLETE / PASS
 
-Detailed provenance:
+E0 English planning/setup is complete.
 
-`publications/kudumbaththin-nalvilakku/VISUAL_TEXT_FIDELITY_REVIEW.md`
+Created:
 
-P5 rechecked all **16 / 16** scans and recorded **10 correction occurrences** across scans 4, 6, 7, 10, 11, 13 and 16. All body corrections were propagated into the article and the final article was rechecked.
+- `publications/kudumbaththin-nalvilakku/TRANSLATION_PLAN.md`
+- `publications/kudumbaththin-nalvilakku/translations/en/README.md`
+- `publications/kudumbaththin-nalvilakku/translations/en/LEXICON.md`
+- `publications/kudumbaththin-nalvilakku/translations/en/TRANSLATION_REVIEW.md`
 
-Final strict-reviewed Tamil blob: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
+Current English state:
+
+- E0: **COMPLETE / PASS**
+- English articles: **0 / 1**
+- T0: **0 / 1 PASS**
+- T1: **0 / 1 COMPLETE**
+- T2–T5: **0 / 1 PASS**
+- E6/E7: **NOT STARTED**
+- blockers: **0**
+
+No English body text was written in E0. The lexicon contains only a high-risk Tamil terminology inventory; preferred English renderings remain pending.
 
 ## Translation principle
 
-Permanent English rule:
-
 > **Translate the language; do not neutralise the voice.**
 
-Translation authority is the frozen Tamil article above, never OCR, the user's earlier comparison transcription, raw scans, web text, another edition, or memory.
+Translation authority is the frozen Tamil article only. Do not translate from OCR, the earlier comparison transcription, raw scan alternatives, web text, another edition or memory.
+
+Preserve direct address, rhetorical questions, repetition, the invasion analogy, humour/mockery, exclamations, numbers, source-page trace and the scan-7 `சமுதாயக்கடமை` footnote association. Do not insert present-day explanatory commentary into the body.
 
 ## EXACT NEXT ACTIVITY
 
-**E0 — English translation planning/setup only.**
+**E1 — Article 1 T0 + T1 close English draft.**
 
 1. fetch live `main` first;
-2. reread all mandatory startup records above;
-3. treat Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc` as the frozen translation source;
-4. create `publications/kudumbaththin-nalvilakku/TRANSLATION_PLAN.md`;
-5. create `publications/kudumbaththin-nalvilakku/translations/en/README.md`;
-6. create `publications/kudumbaththin-nalvilakku/translations/en/LEXICON.md`;
-7. create `publications/kudumbaththin-nalvilakku/translations/en/TRANSLATION_REVIEW.md`;
-8. register the single article inventory and T0–T5 gate sequence;
-9. record voice, direct-address, rhetorical-question, quotation, terminology and source-note rules appropriate to this article without changing frozen Tamil;
-10. update root `HANDOVER.md` and this prompt after E0;
-11. **STOP AFTER E0. DO NOT BEGIN THE ENGLISH ARTICLE TRANSLATION IN THE SAME ACTIVITY.**
+2. reread all mandatory records above;
+3. re-fetch the frozen Tamil article and confirm blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`;
+4. mark Article 1 T0 **PASS** only after that confirmation;
+5. create `publications/kudumbaththin-nalvilakku/translations/en/01-kudumbaththin-nalvilakku.md`;
+6. translate the entire article paragraph by paragraph from the frozen Tamil authority;
+7. retain all **10** source-page comments in English trace form and preserve the scan-7 footnote association;
+8. update `LEXICON.md` as terminology decisions are established;
+9. update `TRANSLATION_REVIEW.md`, tracker and `TRANSLATION_PLAN.md` with T0/T1 results;
+10. mark T1 **COMPLETE** only after the complete article draft exists;
+11. update root `HANDOVER.md` and this prompt;
+12. **STOP AFTER T1. DO NOT BEGIN T2 BILINGUAL FIDELITY REVIEW IN THE SAME ACTIVITY.**
