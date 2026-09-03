@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows:
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `59fbc23979cbbd8965d1c773e30164a2cdc9039b` — `Synchronize Kolaikkalam P2 continuation prompt`.
+- Last confirmed live HEAD immediately before this handover synchronization: `d80a08025c47e47793cd3b221af2f9e48686a307` — `Transcribe Kolaikkalam scan 16`.
 
 ---
 
@@ -129,7 +129,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 7 — கொலைக்களம்! — P0–P1 COMPLETE / ACTIVE
+# Publication 7 — கொலைக்களம்! — P2 IN PROGRESS / ACTIVE
 
 Workspace: `publications/kolaikkalam/`  
 Controlling source: `TVA_BOK_0063657_கொலைக்களம்.pdf`
@@ -141,17 +141,19 @@ Controlling source: `TVA_BOK_0063657_கொலைக்களம்.pdf`
 - cover imprint/publisher: **`முன்னேற்றப் பண்ணை`**, **`சென்னை-1`**
 - scan-2 edition line: **`முதற் பதிப்பு-52`**
 - scan-2 price: **`விலை அணா எட்டு`**
-- scan-2 sales-rights/distributor name: **`எஸ். எம். ராஜமுத்து கம்பெனி`**
+- scan-2 P2-direct sales-rights/distributor: **`எச். எஸ். ராமுலு கம்பெனி`**
+- scan-2 address: **`286, அப்பா பில்டிங்ஸ் - எஸ்பிளனேட்`**, **`சென்னை-1`**
+- scan-4 P2-direct signature: **`மு. நமசிவாயம்` / `பண்ணையாளர்.`**
 - scan-40 printer line: **`ஸ்ரீமகள் பிரஸ், சென்னை-1`**
 - physical scans: **40**
 - source SHA-256: `674a534f6c29e5abed9c7ebf52c3cfd143f494d6a21341b5d0624871c187a96c`
 - file size: **55,495,728 bytes**
 - source PDF committed: **No**
-- prior repository work for title/source ID before intake: **not found**
+- blockers: **0**
 
 The edition witness is printed only as `52`; do not silently expand it in the diplomatic layer.
 
-## P1 canonical publication structure
+## Canonical publication structure
 
 Printed contents page: **ABSENT / CONFIRMED**.
 
@@ -161,7 +163,7 @@ Front matter:
 - scan 2 — copyright / edition / price / sales-rights page;
 - scans 3–4 — introductory signed note **`இன்பத் துளி!`**.
 
-`இன்பத் துளி!` is classified as **introductory front matter**, not one of the numbered main prose units. Scan 4 ends with the signed `மு. கருணாநிதி` / `பண்ணையாளர்` witness and scan 5 opens the first main prose heading.
+P2 direct verification corrected the earlier P1 signature identification: scan 4 closes with **`மு. நமசிவாயம்` / `பண்ணையாளர்.`**, not `மு. கருணாநிதி`. `இன்பத் துளி!` remains introductory front matter, not one of the six numbered main prose units.
 
 Canonical main prose units:
 
@@ -170,14 +172,11 @@ Canonical main prose units:
 3. `பலியை நிறுத்துங்கள்!` — scans **17–22**;
 4. `விழலுக்கு நீர் இறைத்து...` — scans **23–27**;
 5. `சோதனை!` — scans **28–33**;
-6. `வீரமுழக்கம் செய்திடுவீர்!` — scans **34–40**.
+6. `வீரமுழக்கஞ் செய்திடுவீர்!` — scans **34–40**.
+
+The Unit-6 heading above is a direct P2 source correction of the earlier normalized P1 form `வீரமுழக்கம் செய்திடுவீர்!`.
 
 Scan 40 contains the ending of Unit 6 plus the printer line; no separate back cover is present in the supplied PDF.
-
-Canonical P1 records:
-
-- `publications/kolaikkalam/indexes/page-map.md`
-- `publications/kolaikkalam/indexes/contents.md`
 
 ## Printed-page behaviour
 
@@ -189,55 +188,51 @@ Visibly unnumbered scans:
 
 `1, 2, 3, 5, 10, 17, 23, 28, 34`.
 
-Printed numerals inferred at P1: **0**.
+Printed numerals inferred: **0**.
 
-## Physical-copy evidence
+## Durable P2 progress
 
-- scan 1: multiple library stamps, handwritten accession/date marks, pen cancellation/overwriting and a prominent crack/tear;
-- scan 2: circular library stamp, upper-right paper damage, dark ink marks and later handwriting/signature;
-- scan 3: handwriting/stamp overlap in the upper area;
-- general age wear/spotting/handling marks occur throughout.
+Canonical verified page records now exist for scans **1–16**:
 
-Keep physical-copy marks separate from `# அச்சு உரை`; never reconstruct obscured text merely from context.
+- front matter: **4 / 4 verified**;
+- Unit 1 `கொலைக்களம்!`: **5 / 5 verified**;
+- Unit 2 `‘அஸ்தி’ கரையட்டும்!`: **7 / 7 verified**;
+- total page records: **16 / 40**;
+- direct lexical page verification: **16 / 40**.
+
+Durable source corrections established during P2:
+
+1. scan 2 distributor/address is controlled by `pages/0002-publication-data.md`, including `எச். எஸ். ராமுலு கம்பெனி`;
+2. scan 4 signature is `மு. நமசிவாயம்` / `பண்ணையாளர்.`;
+3. scan 34 heading is `வீரமுழக்கஞ் செய்திடுவீர்!`;
+4. source-specific forms already captured include scan 9 `சிசுஹத்தி` and scan 10 `மித்திரன்—இந்து`.
+
+Do **not** repeat scans 1–16 or regress these readings unless a fresh direct source comparison demonstrates a genuine correction.
 
 ## Gate status
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**
-- P1 — metadata + canonical page map + contents/unit mapping: **COMPLETE / PASS**
-- P2 — page-level transcription: **NOT STARTED**
+- P1 — metadata + canonical page map + unit mapping: **COMPLETE / PASS, with P2 source corrections propagated**
+- P2 — page-level transcription: **IN PROGRESS — 16 / 40**
 - P3 — article/unit assemblies: **NOT STARTED**
 - P4 — source/completeness audit: **NOT STARTED**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
-- physical scans structurally mapped: **40 / 40**
-- page records: **0 / 40**
-- canonical main prose units: **6**
 - article/unit assemblies: **0 / 6**
-- direct lexical page verification: **0 / 40**
 - English translation: **NOT STARTED**
 - blockers: **0**
 
-## Fresh-chat transfer note — 2026-09-03
-
-- P2 was invoked in the current chat, and direct scan inspection / temporary local renders and crops began, but **no P2 page record was committed to the repository**.
-- Therefore the durable repository state remains exactly **P2 NOT STARTED / 0 of 40 page records**.
-- Temporary rendered images/crops from the previous chat are not repository artifacts and must not be treated as durable transcription evidence.
-- In a fresh chat, **attach or otherwise resolve `TVA_BOK_0063657_கொலைக்களம்.pdf` again before page-level visual verification**.
-- Do not infer that any scan has been transcribed or verified merely because it was visually inspected in the previous window.
-
 ## Source authority / non-regression
 
-The supplied scan is controlling. Preserve source-visible old glyphs, spelling, punctuation, headings, names, numbers, repetitions and separate source witnesses. Do not import OCR, web wording, later editions or contextual guesses into the archival layer.
+The supplied scan is controlling. Preserve source-visible old glyphs, spelling, punctuation, headings, names, numbers, repetitions and separate source witnesses. Do not import OCR, web wording, later editions or contextual guesses into the archival layer. OCR may assist only as a draft aid; `verified` requires direct scan comparison.
 
 ## Exact next activity
 
-**P2 — page-level transcription and direct visual verification for all 40 physical scans.**
+**Continue P2 — page-level transcription and direct visual verification for scans 17–40.**
 
-1. Fetch live `main` first and preserve any newer durable state.
-2. Re-resolve/attach the controlling PDF and use the canonical P1 page/unit map.
-3. Create one page record for every scan **1–40**.
-4. Transcribe all source-visible printed material exactly, including front matter, `இன்பத் துளி!`, all six main prose units, and the scan-40 printer witness.
-5. Keep stamps, handwriting, tears, stains and other physical-copy marks outside `# அச்சு உரை`.
-6. Preserve visible punctuation, old glyphs, headings, numbers, paragraph boundaries and continuations; do not modernise or silently normalise.
-7. Mark a page `verified` only after direct visual comparison; flag genuinely unresolved text rather than guessing.
-8. Synchronize README/metadata/indexes/handover/prompt after all 40 page records are complete.
-9. **STOP AFTER P2. DO NOT BEGIN P3 ASSEMBLY IN THE SAME ACTIVITY.**
+1. Fetch live `main` first and preserve newer durable work.
+2. Preserve verified scans **1–16**; resume at scan **17**.
+3. Complete canonical page records and direct visual verification through scan **40**, including the final printer witness.
+4. Keep stamps, handwriting, tears, stains and other physical-copy marks outside `# அச்சு உரை`.
+5. Preserve source-visible punctuation, old glyphs, headings, numbers, paragraph boundaries and continuations; mark genuinely unresolved text rather than guessing.
+6. After page records reach **40 / 40**, synchronize README/source metadata/page-map/contents/root handover/prompt to P2 complete.
+7. **STOP AFTER P2. DO NOT BEGIN P3 ASSEMBLY IN THE SAME ACTIVITY.**
