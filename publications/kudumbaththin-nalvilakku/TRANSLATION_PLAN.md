@@ -36,11 +36,11 @@ Translate the one frozen strict-reviewed Tamil article into readable English whi
 - T3 voice review: **1 / 1 PASS**
 - T4 terminology/quotation/source audit: **1 / 1 PASS**
 - T5 article verification: **1 / 1 PASS / VERIFIED**
-- E6 publication-wide consistency: **NOT STARTED**
+- E6 publication-wide consistency: **PASS / COMPLETE**
 - E7 release closeout: **NOT STARTED**
 - blockers: **0**
 
-## Verified English authority
+## Verified / E6 release-candidate English authority
 
 Article:
 
@@ -50,7 +50,7 @@ Verified title:
 
 **The Family's Lamp of Well-Being**
 
-Final T5 English blob:
+T5 and E6 English blob:
 
 `08cb986a4079ca45bce75c376cd19e603818eeb2`
 
@@ -67,21 +67,28 @@ Final T5 English blob:
 - unresolved translation choices: **0**
 - frozen Tamil changes during English work: **0**
 
-### T2 corrections
+T2 corrected four fidelity issues; T3 restored spoken/rhetorical force without changing source meaning; T4 finalized terminology/source-label choices and source-bearing `Kayilaiyangiri`; T5 verified the complete article.
 
-T2 corrected four fidelity issues: explicit `birth of children` wording in the invasion analogy; the `39 seats` referent; the scan-11 limited-family-size clause; and an unsupported `he brings` addition in the Kuchelan question.
+## E6 publication-wide consistency review — PASS / COMPLETE
 
-### T3 corrections
+E6 rechecked the single verified article as a complete publication and classified apparent differences instead of mechanically homogenizing them.
 
-T3 restored direct spoken force in several sentences without changing source meaning, including the Gandhi transition/response, the government causal sentence, the home `starting point` metaphor, repeated `left uncared for`, and the humorous divine family-planning example.
+- title and body `lamp of well-being` metaphor: **CONSISTENT**
+- **family welfare programme / family planning**: **CONSISTENT / deliberate source distinction**
+- literal/metaphorical **invasion**: **CONSISTENT**
+- **Tamil Nadu Government / Delhi Government / Central Government**: **DELIBERATE SOURCE-LABEL DISTINCTIONS / RETAINED**
+- **Lord Shiva / Shiva / Parama Sivan**: **DELIBERATE SOURCE-LABEL DISTINCTIONS / RETAINED**
+- source-bearing names and transliterations, including **Kayilaiyangiri**: **PASS**
+- source-page comments: **10 / 10 PASS**
+- scan-7 footnote: **PASS**
+- numbers/dates/parliamentary sequence: **PASS**
+- English body changes required: **0**
+- metadata changes required: **0**
+- lexicon corrections required: **0**
+- frozen Tamil changes: **0**
+- release-readiness blockers: **0**
 
-### T4 corrections
-
-T4 preserved the literal Markdown footnote marker and corrected **Kailaiyangiri** → **Kayilaiyangiri**, following frozen source `கயிலையங்கிரி` rather than an external normalized place-name form.
-
-### T5 verification
-
-T5 re-fetched the Tamil and English authorities, confirmed all prior gates and trace requirements, and set `translation_status: verified`. Final verified blob: `08cb986a4079ca45bce75c376cd19e603818eeb2`.
+E6 preserves the T5 English authority unchanged: `08cb986a4079ca45bce75c376cd19e603818eeb2`.
 
 ## Non-regression
 
@@ -90,9 +97,9 @@ T5 re-fetched the Tamil and English authorities, confirmed all prior gates and t
 - Do not silently modernise or reinterpret unusual Tamil forms.
 - Preserve rhetorical action, not merely propositional meaning.
 - Do not insert present-day political, medical, religious or historical commentary into Kalaignar's body text.
-- Retain source-label distinctions and source-bearing names/transliterations recorded in the verified lexicon.
-- Do not reopen the T5-verified English merely for stylistic preference or conventionalisation.
+- Retain source-label distinctions and source-bearing names/transliterations recorded in the E6-confirmed lexicon.
+- Do not reopen the T5/E6 English merely for stylistic preference or conventionalisation.
 
 ## Exact next activity
 
-Execute **E6 — publication-wide English consistency review**. Although this publication contains only one translated article, E6 remains required by project policy. Recheck the T5 English authority, verified lexicon, title, source-label distinctions, page trace and release readiness at publication level. **Stop before E7 release closeout.**
+Execute **E7 — English release closeout**. Re-fetch live `main`, confirm frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc` and E6 release-candidate English blob `08cb986a4079ca45bce75c376cd19e603818eeb2`, verify T0–T5 and E6 durability, source-page trace, footnote, title, metadata and release records, then mark the English publication **COMPLETE / RELEASED / FROZEN** only if all checks remain clean.
