@@ -9,7 +9,7 @@ page_type: "article-opening"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065602_குடும்பத்தின்_நல்விளக்கு.pdf"
-transcription_method: "direct visual transcription from supplied scan"
+transcription_method: "direct visual transcription from supplied scan; P5 strict visual recheck"
 ---
 
 # அச்சு உரை
@@ -29,5 +29,6 @@ transcription_method: "direct visual transcription from supplied scan"
 
 - No printed page numeral is visible.
 - Final phrase continues directly onto scan 5.
+- P5 removed two non-source commas previously inserted after the second `இருந்தாலும்` and after `அப்பாற்பட்டு`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 4 -->
