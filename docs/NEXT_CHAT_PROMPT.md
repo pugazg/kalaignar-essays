@@ -13,7 +13,7 @@ Fetch live `main` first. Preserve any newer durable state; never reset, repeat o
 
 Last confirmed handover synchronization when this prompt was prepared:
 
-`1a1fea8cb0bf378b0c10b5d84d807861897eaa9d` — `Synchronize handover after Kudumbaththin Nalvilakku P2`
+`3cd8c176a63c65c7457955206936bf0e908e54ed` — `Synchronize handover after Kudumbaththin Nalvilakku P2 corrections`
 
 ## Mandatory startup
 
@@ -27,7 +27,7 @@ Before changing anything, read completely:
 6. `publications/kudumbaththin-nalvilakku/metadata/source.md`
 7. `publications/kudumbaththin-nalvilakku/indexes/page-map.md`
 8. `publications/kudumbaththin-nalvilakku/indexes/contents.md`
-9. verified page records `publications/kudumbaththin-nalvilakku/pages/0004-article-opening.md` through `0013-article-ending.md`
+9. corrected verified page records `publications/kudumbaththin-nalvilakku/pages/0004-article-opening.md` through `0013-article-ending.md`
 
 Read `ESSAY_TRANSLATION_GUIDE.md` only when English later enters scope; English is not active.
 
@@ -41,7 +41,7 @@ Read `ESSAY_TRANSLATION_GUIDE.md` only when English later enters scope; English 
 - publication type: **standalone single-article family-welfare pamphlet**
 - edition/year: **not visibly established**
 
-The source PDF is not committed to GitHub. P3 assembly authority is the verified P2 page layer; resolve the PDF again only when a source question requires pixel-level confirmation.
+The source PDF is not committed to GitHub. P3 assembly authority is the corrected verified P2 page layer; resolve the PDF again only when a source question requires pixel-level confirmation.
 
 ## Current durable state — P0–P2 COMPLETE
 
@@ -59,7 +59,9 @@ The source PDF is not committed to GitHub. P3 assembly authority is the verified
 
 Article boundary remains scans **4–13**. Visible printed numerals remain `2–9` on scans 5–12 only; do not infer `1` or `10`.
 
-Source-sensitive forms to preserve during assembly include `மூர்த்தன்யமாக`, `நம்பிக்கைகளிலிருந்தெல்லாம்`, `பதினறு`, `அவல் வாங்கிச் சாப்பிட்டு`, `ஆலாயப்`, and `கயிலியங்கிரியில்`.
+A post-P2 comparison/user-review batch corrected **35 word-form occurrences** across scans 4–13, including old-glyph misreadings. The user explicitly retained `சிந்தித்துச்` on scan 5 and `ஒருபுறத்திலே` on scan 9 unchanged.
+
+Source-sensitive forms to preserve during assembly now include `மூர்த்தன்யமாக`, `நம்பிக்கைகளிலிருந்தெல்லாம்`, `பதினாறு`, `அவல் வாங்கிச் சாப்பிட்டு`, `ஆலாய்ப்`, `கயிலையங்கிரியில்`, and `இந்து மதத்திலே`. Meaning-bearing corrections such as `தாயாரையும்` and `நிறைவேற்றாத` are also authoritative in the page layer.
 
 ## EXACT NEXT ACTIVITY
 
@@ -67,9 +69,9 @@ Source-sensitive forms to preserve during assembly include `மூர்த்�
 
 1. fetch live `main` first;
 2. reread root handover and all mandatory active records;
-3. use verified page records scans **4–13** as the assembly authority;
+3. use corrected verified page records scans **4–13** as the assembly authority;
 4. create `publications/kudumbaththin-nalvilakku/articles/01-kudumbaththin-nalvilakku.md`;
-5. preserve exact Tamil wording, punctuation, paragraphing, quotations, numbers, the scan-7 printed footnote, and unusual forms;
+5. preserve exact Tamil wording, punctuation, paragraphing, quotations, numbers, the scan-7 printed footnote, and source-sensitive forms;
 6. insert page-boundary source comments for every body scan and verify each continuation;
 7. do not copy page-record audit notes, physical-copy marks, or editorial commentary into the article body;
 8. update dependent README/metadata/handover/prompt after assembly;
