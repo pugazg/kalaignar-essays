@@ -92,6 +92,36 @@ Final strict-reviewed Tamil article blob:
 
 `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
 
+## English translation setup
+
+### E0 — COMPLETE / PASS
+
+English planning/setup is now initialized from the frozen Tamil authority only.
+
+Created:
+
+- [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
+- [`translations/en/README.md`](translations/en/README.md)
+- [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+
+Current English status:
+
+- article units: **1**
+- English article files: **0 / 1**
+- T0: **0 / 1 PASS**
+- T1: **0 / 1 COMPLETE**
+- T2–T5: **0 / 1 PASS**
+- E6: **NOT STARTED**
+- E7: **NOT STARTED**
+- blockers: **0**
+
+No English body translation was created during E0. The high-risk terminology inventory is initialized without freezing preferred English renderings.
+
+Permanent translation principle:
+
+> **Translate the language; do not neutralise the voice.**
+
 ## Physical-copy condition
 
 - general foxing / age staining;
@@ -111,11 +141,12 @@ Printed text and physical-copy marks remain separate in the page records.
 - P3 — article assembly: **COMPLETE / PASS**
 - P4 — source/completeness audit: **COMPLETE / PASS**
 - P5 — strict visual text-fidelity pass: **COMPLETE / PASS**
+- E0 — English translation planning/setup: **COMPLETE / PASS**
 - physical scans strict-reviewed: **16 / 16**
 - article assemblies strict-reviewed: **1 / 1**
 - unresolved blockers: **0**
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- English translation: **NOT STARTED**
+- English body translation: **NOT STARTED**
 
 ## Frozen source authority / non-regression
 
@@ -125,12 +156,15 @@ The supplied PDF scan remains the controlling witness for this edition. The fina
 
 Do not silently modernise, conventionalise, stylistically polish, homogenise terminology, or reopen source-sensitive spellings. Reopen the Tamil layer only for a genuine source-supported archival defect.
 
+English translation must use the frozen article assembly above, never OCR, the earlier comparison transcription, raw scan alternatives, web text, another edition or memory.
+
 ## Exact next activity
 
-**E0 — English translation planning/setup only.**
+**E1 — Article 1 T0 + T1 close English draft.**
 
-1. Read `ESSAY_TRANSLATION_GUIDE.md` completely.
-2. Register frozen Tamil authority `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
-3. Create `TRANSLATION_PLAN.md` and the English tracker / lexicon / review scaffolding under `translations/en/`.
-4. Record translation-source and non-regression rules.
-5. **STOP AFTER E0. Do not begin the English article translation in the same activity.**
+1. Re-fetch live `main` and confirm `articles/01-kudumbaththin-nalvilakku.md` still has blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
+2. Mark T0 PASS only after that confirmation.
+3. Create `translations/en/01-kudumbaththin-nalvilakku.md` and translate the entire article paragraph by paragraph.
+4. Preserve all ten source-page comments and the scan-7 footnote association.
+5. Update the living lexicon and translation review ledger with T1 decisions.
+6. **STOP AFTER T1. Do not begin T2 in the same activity.**
