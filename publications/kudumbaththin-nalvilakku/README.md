@@ -47,7 +47,7 @@ Frozen Tamil blob:
 
 The post-P2 old-glyph/user review and P5 strict pass are frozen source decisions. Do not reopen Tamil for conventional spelling, modernization, translation convenience or stylistic preference.
 
-## English translation — T0–T5 COMPLETE / VERIFIED
+## English translation — T0–T5 VERIFIED / E6 COMPLETE
 
 Permanent principle:
 
@@ -68,7 +68,7 @@ Verified title:
 
 **The Family's Lamp of Well-Being**
 
-Final verified English blob:
+T5 verified / E6 release-candidate English blob:
 
 `08cb986a4079ca45bce75c376cd19e603818eeb2`
 
@@ -81,7 +81,7 @@ Final verified English blob:
 - T3: **1 / 1 PASS**
 - T4: **1 / 1 PASS**
 - T5: **1 / 1 PASS / VERIFIED**
-- E6: **NOT STARTED**
+- E6: **PASS / COMPLETE**
 - E7: **NOT STARTED**
 - English blockers: **0**
 
@@ -89,24 +89,32 @@ Final verified English blob:
 
 T2 corrected four fidelity issues; T3 made nine voice-level refinements; T4 completed terminology/source audit and corrected the literal Markdown footnote marker plus `Kailaiyangiri` → **Kayilaiyangiri**; T5 re-fetched the frozen Tamil and T4 candidate and verified the article.
 
-Final trace checks:
+### E6 publication-wide consistency result
 
+E6 reviewed the one verified English article as a complete publication and required **0 body changes**, **0 metadata changes** and **0 lexicon corrections**.
+
+- title / later `lamp of well-being` image: **CONSISTENT**
+- **family welfare programme / family planning**: **CONSISTENT / deliberate source distinction**
+- literal/metaphorical **invasion**: **CONSISTENT**
+- **Tamil Nadu Government / Delhi Government / Central Government**: **DELIBERATE SOURCE-LABEL DISTINCTIONS**
+- **Lord Shiva / Shiva / Parama Sivan**: **DELIBERATE SOURCE-LABEL DISTINCTIONS**
+- source-bearing names/transliterations including **Kayilaiyangiri**: **PASS**
 - source-page comments scans 4–13: **10 / 10 PASS**
 - scan-7 `சமுதாயக்கடமை` / **Social Duty** footnote: **PASS**
 - source ending: **PASS**
 - numbers / dates / parliamentary sequence: **PASS**
-- frozen Tamil changes during English work: **0**
-- unresolved translation choices: **0**
+- frozen Tamil changes during E6: **0**
+- release-readiness blockers: **0**
 
-Detailed phase-by-phase correction provenance is in `translations/en/TRANSLATION_REVIEW.md`.
+E6 therefore preserves English blob `08cb986a4079ca45bce75c376cd19e603818eeb2` unchanged and marks the publication **READY FOR E7 RELEASE CLOSEOUT**.
 
 ## Non-regression
 
 - Frozen Tamil authority remains `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
-- Verified English authority is `08cb986a4079ca45bce75c376cd19e603818eeb2` through T5.
+- E6 release-candidate English authority is `08cb986a4079ca45bce75c376cd19e603818eeb2`.
 - Do not reopen either layer merely for stylistic preference or conventionalisation.
 - Reopen only for a genuine source-supported Tamil defect or a genuine English fidelity/voice/terminology/release-blocking defect.
 
 ## Exact next activity
 
-**E6 — publication-wide English consistency review.** This publication has one translated article, but E6 remains required by project policy to confirm the T5 English authority, final lexicon, title, source-label consistency, source-page trace and publication-level release readiness. **STOP BEFORE E7.**
+**E7 — English release closeout.** Re-fetch live `main`, confirm both frozen Tamil and E6 English authorities, verify T0–T5/E6 durability and release records, then mark the publication English translation **COMPLETE / RELEASED / FROZEN** only if every release check remains clean.
