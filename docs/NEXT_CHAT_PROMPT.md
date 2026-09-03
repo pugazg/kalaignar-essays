@@ -14,9 +14,23 @@ Controlling source:
 
 Fetch live `main` first. Preserve any newer durable state; never reset, repeat or reopen completed work because this prompt contains an older checkpoint.
 
-Last confirmed handover synchronization when this prompt was prepared:
+Last confirmed authoritative handover synchronization when this prompt was prepared:
 
-`2fd3f52ccb2cb5a528b1cbf96260f64d031f049b` — `Advance Kolaikkalam handover to P2`.
+`d262d324b86e1dd41365f5a149c8b3a1ce383cab` — `Refresh Kolaikkalam fresh-chat P2 handover`.
+
+## Fresh-chat source requirement
+
+**Attach or otherwise resolve the controlling PDF again in the fresh chat before any page-level visual verification.**
+
+The previous chat began direct scan inspection and created temporary local renders/crops, but **no P2 page record was committed**. Those temporary images are not durable repository artifacts and must not be treated as completed transcription work.
+
+Durable P2 state remains:
+
+- page records: **0 / 40**
+- direct lexical verification: **0 / 40**
+- P2: **NOT STARTED**
+
+Do not skip scans because they may have been visually inspected in the previous chat window.
 
 ## Mandatory startup
 
@@ -106,12 +120,14 @@ The supplied scan is controlling. Do not silently modernise, correct, normalize,
 
 **P2 — page-level transcription and direct visual verification for all 40 physical scans.**
 
-1. Re-resolve the attached controlling PDF and use the canonical P1 page/unit map.
-2. Create one canonical page record for every scan **1–40**.
-3. Transcribe all source-visible printed material exactly, including cover/front matter, `இன்பத் துளி!`, all six main prose units and the scan-40 printer witness.
-4. Keep library stamps, handwriting, accession marks, tears, stains and other physical-copy marks outside `# அச்சு உரை`.
-5. Preserve visible punctuation, headings, old glyphs, numbers, paragraph boundaries and page-to-page continuations; do not modernise or silently normalise.
-6. For difficult readings, inspect the scan closely and mark unresolved text explicitly rather than guessing.
-7. Mark a page `verified` only after direct visual comparison.
-8. Update README/source metadata/indexes/root `HANDOVER.md`/this prompt after all 40 page records are complete.
-9. **STOP AFTER P2. DO NOT BEGIN P3 ASSEMBLY IN THE SAME ACTIVITY.**
+1. Fetch live `main` first and reread the authoritative root handover.
+2. Attach/re-resolve `TVA_BOK_0063657_கொலைக்களம்.pdf` in the fresh chat.
+3. Use the canonical P1 page/unit map.
+4. Create one canonical page record for every scan **1–40**.
+5. Transcribe all source-visible printed material exactly, including cover/front matter, `இன்பத் துளி!`, all six main prose units and the scan-40 printer witness.
+6. Keep library stamps, handwriting, accession marks, tears, stains and other physical-copy marks outside `# அச்சு உரை`.
+7. Preserve visible punctuation, headings, old glyphs, numbers, paragraph boundaries and page-to-page continuations; do not modernise or silently normalise.
+8. For difficult readings, inspect enlarged source pixels and mark unresolved text explicitly rather than guessing.
+9. Mark a page `verified` only after direct visual comparison.
+10. Update README/source metadata/indexes/root `HANDOVER.md`/this prompt after all 40 page records are complete.
+11. **STOP AFTER P2. DO NOT BEGIN P3 ASSEMBLY IN THE SAME ACTIVITY.**
