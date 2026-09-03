@@ -18,8 +18,8 @@ Do not translate from OCR, earlier comparison text, web text, alternate editions
 ## English gate status
 
 - E0 planning/setup: **COMPLETE / PASS**
-- T0 source prerequisite: **0 / 1 PASS**
-- T1 close draft: **0 / 1 COMPLETE**
+- T0 source prerequisite: **1 / 1 PASS**
+- T1 close draft: **1 / 1 COMPLETE**
 - T2 bilingual fidelity: **0 / 1 PASS**
 - T3 voice review: **0 / 1 PASS**
 - T4 terminology/quotation/source audit: **0 / 1 PASS**
@@ -30,11 +30,22 @@ Do not translate from OCR, earlier comparison text, web text, alternate editions
 
 ## Article tracker
 
-| # | Tamil title | Source scans | Frozen Tamil blob | English file | Status | T0 | T1 | T2 | T3 | T4 | T5 |
-|---:|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | `குடும்பத்தின் நல்விளக்கு` | `4–13` | `f9416fc2ad122ec803d1c75197215ddfbd13f0fc` | `01-kudumbaththin-nalvilakku.md` | `not-started` | pending | pending | pending | pending | pending | pending |
+| # | Tamil title | Source scans | Frozen Tamil blob | English file | English draft blob | Status | T0 | T1 | T2 | T3 | T4 | T5 |
+|---:|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | `குடும்பத்தின் நல்விளக்கு` | `4–13` | `f9416fc2ad122ec803d1c75197215ddfbd13f0fc` | `01-kudumbaththin-nalvilakku.md` | `d5ae4e7696534f560e34578763dd0c735b689b86` | `draft` | PASS | COMPLETE | pending | pending | pending | pending |
 
-The English article file does **not** exist at E0. It is created only during T1 after T0 confirms the frozen Tamil blob.
+Draft English title: **The Family's Lamp of Well-Being**.
+
+## T1 trace status
+
+- complete article body translated: **YES**
+- source-page comments for scans 4–13: **10 / 10**
+- scan-7 printed `சமுதாயக்கடமை` footnote association: **PRESERVED**
+- source ending: **PRESERVED**
+- outside explanatory additions to body: **0**
+- frozen Tamil modifications: **0**
+
+The living lexicon contains T1 draft-established terminology. These choices remain subject to T2–T4 review and are not release-final merely because they are recorded.
 
 ## Translation rules for this publication
 
@@ -43,10 +54,10 @@ The English article file does **not** exist at E0. It is created only during T1 
 - Preserve numerical/historical references exactly as carried by the frozen Tamil authority.
 - Preserve the scan-7 `சமுதாயக்கடமை` footnote and its page association.
 - Do not insert modern explanatory commentary into the article body.
-- Keep uncertain culturally marked terms source-bearing until the Tamil context supports an English choice.
-- Record recurring decisions in [`LEXICON.md`](LEXICON.md) as they are established.
+- Keep source-sensitive culturally marked terms restrained/source-bearing where needed.
+- Record recurring decisions in [`LEXICON.md`](LEXICON.md).
 - Record all review findings and corrections in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
 
 ## Exact next activity
 
-**E1 — Article 1 T0 + T1 close draft.** Confirm frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`, then translate the complete article and stop before T2.
+**E2 — Article 1 T2 bilingual fidelity review.** Compare the complete English draft against frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc` sentence by sentence and clause by clause; correct fidelity defects and update the lexicon/review records. **Stop before T3.**
