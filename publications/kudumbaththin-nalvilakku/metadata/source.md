@@ -104,12 +104,25 @@ The supplied scan is the controlling source for this edition. Preserve source-vi
 - page records directly visually verified: **16 / 16**
 - body pages fully transcribed: **10 / 10** (`4–13`)
 - unresolved / blocked body readings: **0**
-- article assembly created: **0 / 1** — deferred to P3
 
 Post-P2 comparison against the user's word-for-word transcription, direct scan rechecks, and a follow-up old-Tamil-glyph review produced **35 corrected word-form occurrences** across scans 4–13. The user explicitly retained `சிந்தித்துச்` (scan 5) and `ஒருபுறத்திலே` (scan 9) unchanged.
 
 Current source-sensitive readings preserved for later independent P5 recheck include `மூர்த்தன்யமாக` (scan 7), `நம்பிக்கைகளிலிருந்தெல்லாம்` (scan 8), `பதினாறு` twice (scan 10), `அவல் வாங்கிச் சாப்பிட்டு` (scan 12), and `ஆலாய்ப்` / `கயிலையங்கிரியில்` / `இந்து மதத்திலே` (scan 13).
 
+### P3 — COMPLETE / PASS
+
+Canonical Tamil article assembly:
+
+- path: `publications/kudumbaththin-nalvilakku/articles/01-kudumbaththin-nalvilakku.md`
+- blob SHA: `8bb645af0b7d1a8781e1425734ba9a104910e640`
+- authority: corrected verified P2 page records scans **4–13**
+- body source-page comments: **10 / 10 preserved**
+- scan-to-scan continuations: **9 / 9 checked**
+- scan-7 printed footnote: **preserved**
+- physical-copy/audit-note material inserted into article body: **0**
+- assembly-time lexical normalization: **0**
+- blockers: **0**
+
 ## Exact next activity
 
-**P3 — assemble the single article `குடும்பத்தின் நல்விளக்கு` from verified page records scans 4–13.** Preserve wording and paragraphing exactly, retain page-boundary trace comments, verify every continuation, keep editorial notes outside the body, and **stop before P4 source/completeness audit**.
+**P4 — source/completeness audit for the full 16-scan publication.** Reconcile the page layer, article assembly, indexes, front/end matter and source boundaries; identify any omissions, duplication or cross-layer drift and record corrections explicitly. **Stop before P5 strict visual word/punctuation fidelity.**
