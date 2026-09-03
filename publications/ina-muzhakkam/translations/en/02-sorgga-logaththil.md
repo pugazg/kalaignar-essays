@@ -9,7 +9,7 @@ source_scan_pages: "14-24"
 source_printed_pages: "contents witness start 13; scan 14 numeral not visible; scans 15-24 visibly 14-23"
 language: "en"
 translation_status: "verified"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 2 T5 final article verification complete"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 2 T5 final article verification complete; E6 publication-wide consistency correction applied"
 ---
 
 # In the Heavenly Realm
@@ -68,7 +68,7 @@ Kannappa Nayanar, Karaikkal Ammaiyar, Nandanar, Siruthondar ..... and all the ot
 
 **Karaikkal Ammaiyar.**
 
-“I weeded grass in temples. I carried the palanquin of Tirugnana Sambandar, the Brahmin. Only after doing all that did I receive permission to come to the realm of the immortals!”
+“I weeded grass in temples. I carried the palanquin of Thirugnana Sambandar, the Brahmin. Only after doing all that did I receive permission to come to the realm of the immortals!”
 
 **Appar.**
 
