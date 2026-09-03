@@ -14,17 +14,19 @@ Before changing anything:
 3. read `docs/FUTURE_WORK_GUIDELINES.md` completely;
 4. fetch live `main` and read this `HANDOVER.md` completely;
 5. read `docs/NEXT_CHAT_PROMPT.md` only as a convenience summary;
-6. read the active publication README / metadata / indexes / fidelity records relevant to the current phase;
+6. read the active publication README / metadata / indexes / fidelity / translation records relevant to the current phase;
 7. preserve every released publication unless a genuine source-supported or release-blocking defect requires reopening it.
 
-Source PDFs are never committed. English translation follows: **Translate the language; do not neutralise the voice.**
+Source PDFs are never committed. English translation follows:
+
+> **Translate the language; do not neutralise the voice.**
 
 ## Live-main rule
 
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `6588a44a77f03111365d8770577c1bac10e4cc69` — `Synchronize Kudumbaththin Nalvilakku page map through P5`.
+- Last confirmed live HEAD immediately before this handover synchronization: `bb4136d389e35a339da52fb4d19a245cb50aa9cf` — `Record Kudumbaththin Nalvilakku E0 translation setup`.
 
 ---
 
@@ -108,7 +110,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 6 — குடும்பத்தின் நல்விளக்கு — TAMIL P0–P5 COMPLETE / FROZEN / ACTIVE FOR ENGLISH
+# Publication 6 — குடும்பத்தின் நல்விளக்கு — TAMIL FROZEN / E0 COMPLETE / ACTIVE FOR ENGLISH
 
 Workspace: `publications/kudumbaththin-nalvilakku/`  
 Controlling source: `TVA_BOK_0065602_குடும்பத்தின்_நல்விளக்கு.pdf`
@@ -138,126 +140,94 @@ Controlling source: `TVA_BOK_0065602_குடும்பத்தின்_ந
 
 Printed contents page: **ABSENT / CONFIRMED**. Article boundary: **scans 4–13 CONFIRMED**.
 
-Printed-page evidence remains source-visible only:
+Visible printed numerals remain `2–9` on scans 5–12 only; no inferred `1` or `10`.
 
-- scan 4 — no visible numeral;
-- scans 5–12 — **2–9**;
-- scan 13 — no visible numeral;
-- inferred `1` / `10`: **not inserted**.
+## Tamil archival authority — P0–P5 COMPLETE / FROZEN
 
-## P2 durable page layer
+- P0: **COMPLETE / PASS**
+- P1: **COMPLETE / PASS**
+- P2: **COMPLETE / PASS**
+- P3: **COMPLETE / PASS**
+- P4: **COMPLETE / PASS**
+- P5: **COMPLETE / PASS**
+- strict visual scans: **16 / 16**
+- article assemblies strict-reviewed: **1 / 1**
+- unresolved Tamil blockers: **0**
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
 
-Page records under `publications/kudumbaththin-nalvilakku/pages/` are **16 / 16 COMPLETE / VERIFIED**.
-
-- front/end matter records: **6 / 6**
-- body lexical records scans 4–13: **10 / 10**
-- P2 direct visual verification: **16 / 16**
-- unresolved / blocked body readings: **0**
-- physical-copy marks kept separate from printed text: **PASS**
-
-### Post-P2 old-glyph / user-review correction batch
-
-Comparison against the user-supplied word-for-word transcription, direct source rechecks, and the user's follow-up old Tamil glyph review corrected **35 word-form occurrences** across scans 4–13.
-
-The user explicitly retained `சிந்தித்துச்` on scan 5 and `ஒருபுறத்திலே` on scan 9 unchanged.
-
-Source-sensitive forms frozen by that review include `பிரச்சனையாக`, `படைவீரர்களை`, `முறைகளை`, `பொறுப்பிலே`, `இந்து மார்க்கத்திலே`, `கொள்கைகளை`, `மூர்த்தன்யமாக`, `தாயாரையும்`, `எடுத்தும்`, `நம்பிக்கைகளிலிருந்தெல்லாம்`, `குறைந்தது`, `நாடாளுமன்றத்திலே`, `கேட்டுக்கொண்டிருக்கிறோம்`, `என்கின்ற`, `பதினாறு`, `நாலைந்து`, `தகப்பனாரும்`, `நிறைவேற்றாத`, `அவல் வாங்கிச் சாப்பிட்டு`, `ஆலாய்ப்`, `கயிலையங்கிரியில்`, and `இந்து மதத்திலே`.
-
-## P3 canonical article assembly
-
-P3: **COMPLETE / PASS**.
-
-Article path:
+Frozen Tamil article:
 
 `publications/kudumbaththin-nalvilakku/articles/01-kudumbaththin-nalvilakku.md`
 
-- article assemblies: **1 / 1**
-- source-page comments: **10 / 10**
-- scan-to-scan continuations: **9 / 9**
-- scan-7 printed footnote preserved: **PASS**
-- physical-copy/audit material copied into article body: **0**.
-
-## P4 source/completeness audit
-
-P4: **COMPLETE / PASS**.
-
-Detailed ledger:
-
-`publications/kudumbaththin-nalvilakku/audit.md`
-
-- physical scans reconciled: **16 / 16**
-- page records reconciled: **16 / 16**
-- article assemblies reconciled: **1 / 1**
-- body omissions: **0**
-- duplicated body text: **0**
-- page-order errors: **0**
-- unresolved completeness blockers: **0**.
-
-P4 found one placement-only defect: the scan-7 footnote was positioned after scan-8 body text in the initial assembly. It was moved back to the scan-7 location with **0 lexical change**.
-
-## P5 strict visual fidelity
-
-P5: **COMPLETE / PASS**.
-
-Detailed provenance:
-
-`publications/kudumbaththin-nalvilakku/VISUAL_TEXT_FIDELITY_REVIEW.md`
-
-All **16 / 16 physical scans** were directly rechecked word-by-word / punctuation-by-punctuation.
-
-P5 correction occurrences: **10**, across scans **4, 6, 7, 10, 11, 13 and 16**:
-
-- scan 4 — removed two non-source commas;
-- scan 6 — `கூடா தென்று` → `கூடாதென்று`;
-- scan 7 — `பிறக்கக்கூடா தென்று` → `பிறக்கக்கூடாதென்று`; `பலபேர்` → `பல பேர்`; `*நூல்` → `* நூல்`;
-- scan 10 — `மாறியிருக்குமே யானால்` → `மாறியிருக்குமேயானால்`;
-- scan 11 — `ஏற்படவேண்டுமே யானால்` → `ஏற்படவேண்டுமேயானால்`;
-- scan 13 — `மிகவேகமாக` → `மிக வேகமாக`;
-- scan 16 — `அச்சகம், சென்னை-6` → `அச்சகம்,சென்னை-6`.
-
-No user-approved old-glyph lexical reading was reversed.
-
-Final strict-reviewed Tamil article blob:
+Frozen Tamil blob:
 
 `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
 
-P5 unresolved fidelity discrepancies: **0**.  
-P5 blockers: **0**.
+P4 audit: `publications/kudumbaththin-nalvilakku/audit.md`.  
+P5 provenance: `publications/kudumbaththin-nalvilakku/VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-## Current Tamil archival status
+### Tamil non-regression
 
-- P0 — **COMPLETE / PASS**
-- P1 — **COMPLETE / PASS**
-- P2 — **COMPLETE / PASS**
-- P3 — **COMPLETE / PASS**
-- P4 — **COMPLETE / PASS**
-- P5 — **COMPLETE / PASS**
-- strict visual scans: **16 / 16**
-- article assemblies strict-reviewed: **1 / 1**
-- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- frozen Tamil article authority: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+The post-P2 user review and P5 strict pass are frozen source decisions. Do not reopen Tamil for conventional spelling, modernisation, translation convenience or stylistic preference.
+
+Source-sensitive forms include `பிரச்சனையாக`, `படைவீரர்களை`, `முறைகளை`, `பொறுப்பிலே`, `இந்து மார்க்கத்திலே`, `கொள்கைகளை`, `மூர்த்தன்யமாக`, `தாயாரையும்`, `எடுத்தும்`, `நம்பிக்கைகளிலிருந்தெல்லாம்`, `குறைந்தது`, `நாடாளுமன்றத்திலே`, `கேட்டுக்கொண்டிருக்கிறோம்`, `என்கின்ற`, `பதினாறு`, `நாலைந்து`, `தகப்பனாரும்`, `நிறைவேற்றாத`, `அவல் வாங்கிச் சாப்பிட்டு`, `ஆலாய்ப்`, `கயிலையங்கிரியில்`, and `இந்து மதத்திலே`.
+
+The user explicitly retained `சிந்தித்துச்` on scan 5 and `ஒருபுறத்திலே` on scan 9 unchanged.
+
+## English E0 — COMPLETE / PASS
+
+E0 planning/setup has been completed without creating an English article body.
+
+Created:
+
+- `publications/kudumbaththin-nalvilakku/TRANSLATION_PLAN.md`
+- `publications/kudumbaththin-nalvilakku/translations/en/README.md`
+- `publications/kudumbaththin-nalvilakku/translations/en/LEXICON.md`
+- `publications/kudumbaththin-nalvilakku/translations/en/TRANSLATION_REVIEW.md`
+
+Translation authority registered:
+
+`f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+
+Article inventory:
+
+| # | Tamil title | Scans | Frozen Tamil blob | English status |
+|---:|---|---|---|---|
+| 1 | `குடும்பத்தின் நல்விளக்கு` | `4–13` | `f9416fc2ad122ec803d1c75197215ddfbd13f0fc` | `not-started` |
+
+Current English gates:
+
+- E0: **COMPLETE / PASS**
+- T0: **0 / 1 PASS**
+- T1: **0 / 1 COMPLETE**
+- T2: **0 / 1 PASS**
+- T3: **0 / 1 PASS**
+- T4: **0 / 1 PASS**
+- T5: **0 / 1 PASS**
+- E6: **NOT STARTED**
+- E7: **NOT STARTED**
+- English body files: **0 / 1**
 - blockers: **0**
 
-## Source authority / non-regression
+The E0 lexicon contains only a high-risk Tamil terminology inventory; preferred English renderings are still pending and must be established from the frozen article during T1.
 
-The supplied PDF remains the controlling witness. The frozen Tamil article authority is `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
+## English non-regression
 
-Do not reopen the Tamil body for stylistic polishing, conventional spelling, modernisation, spacing preferences or terminology homogenisation. Reopen only for a genuine source-supported archival defect.
-
-## English translation status
-
-- English translation: **NOT STARTED**
-- Tamil prerequisite: **SATISFIED / FROZEN**
-- translation source authority: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+- Translation authority is the frozen Tamil article, not OCR, the earlier comparison transcription, raw scan alternatives, web text, another edition or memory.
+- Preserve direct address, rhetorical questions, repetition, comparisons, humour/mockery, exclamations, numbers and source-page trace.
+- Preserve the scan-7 `சமுதாயக்கடமை` footnote and page association.
+- Do not add present-day political, medical, religious or historical commentary to Kalaignar's body text.
+- Use the living lexicon as a consistency aid, not a mechanical substitution table.
 
 ## Exact next activity
 
-**E0 — English translation planning/setup only.**
+**E1 — Article 1 T0 + T1 close English draft.**
 
-1. Fetch live `main` first.
-2. Read `ESSAY_TRANSLATION_GUIDE.md` completely, plus this handover and active publication records.
-3. Register frozen Tamil authority `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
-4. Create `publications/kudumbaththin-nalvilakku/TRANSLATION_PLAN.md`.
-5. Create English scaffolding under `publications/kudumbaththin-nalvilakku/translations/en/`: `README.md`, `LEXICON.md`, and `TRANSLATION_REVIEW.md`.
-6. Record the T0–T5 sequence, source authority, voice/non-regression rules and article inventory.
-7. **STOP AFTER E0. DO NOT BEGIN THE ENGLISH ARTICLE TRANSLATION IN THE SAME ACTIVITY.**
+1. Fetch live `main` first and reread this handover plus the translation plan/tracker/lexicon/review ledger.
+2. Re-fetch `articles/01-kudumbaththin-nalvilakku.md` and confirm its blob is exactly `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
+3. Mark Article 1 T0 **PASS** only after that confirmation.
+4. Create `translations/en/01-kudumbaththin-nalvilakku.md` and translate the entire article paragraph by paragraph.
+5. Preserve all **10** source-page comments and the scan-7 footnote association.
+6. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker and plan with T1 decisions/status.
+7. Mark T1 **COMPLETE** only when the full article draft is present.
+8. **STOP AFTER T1. DO NOT BEGIN T2 BILINGUAL FIDELITY REVIEW IN THE SAME ACTIVITY.**
