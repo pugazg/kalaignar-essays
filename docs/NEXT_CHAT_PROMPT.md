@@ -13,7 +13,7 @@ Fetch live `main` first. Preserve any newer durable state; never reset or repeat
 
 Last confirmed handover synchronization when this prompt was prepared:
 
-`8cbf4c5f017aaf19a0a1ef7cbdbcba80795371e2` — `Synchronize handover after Ina Muzhakkam Article 5 T5`
+`160776e4930fc21760c2e0d78f09720c92136e8c` — `Synchronize handover after Ina Muzhakkam Article 6 T5`
 
 ## Mandatory startup
 
@@ -31,9 +31,7 @@ Read completely before changing anything:
 10. `publications/ina-muzhakkam/translations/en/README.md`
 11. `publications/ina-muzhakkam/translations/en/LEXICON.md`
 12. `publications/ina-muzhakkam/translations/en/TRANSLATION_REVIEW.md`
-13. frozen Tamil `publications/ina-muzhakkam/articles/06-kavithaigal.md`
-
-Articles 1–5 are T5 verified and individually frozen. They are non-regression references only; do not reopen them during Article 6 work without a genuine source-supported defect.
+13. all six verified English units in `publications/ina-muzhakkam/translations/en/`
 
 ## Frozen Tamil authority
 
@@ -53,42 +51,40 @@ Frozen Tamil authorities:
 - Tamil P0–P5: **COMPLETE / FROZEN**
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **5 / 6 PASS**
-- T2: **5 / 6 PASS**
-- T3: **5 / 6 PASS**
-- T4: **5 / 6 PASS**
-- T5: **5 / 6 PASS**
+- T1: **6 / 6 PASS**
+- T2: **6 / 6 PASS**
+- T3: **6 / 6 PASS**
+- T4: **6 / 6 PASS**
+- T5: **6 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
-## Articles 1–5 verified boundary
+## Six verified English authorities
 
-- Article 1 `இன முழக்கம்` — **The Clarion Call of the Race** — T5 English `01d0d16c4f52cb134eba9fd35c06ad8376e256cb` — 8/8 comments.
-- Article 2 `சொர்க்க லோகத்தில்` — **In the Heavenly Realm** — T5 English `bcd98fb1abf03e3109da1c4802570b77fddfe015` — 11/11 comments.
-- Article 3 `முரசறைவாய்` — **Beat the Drum** — T5 English `c526195d7eb16b2dc446f8b3b15ae674c75548d5` — 5/5 comments.
-- Article 4 `பழிக்குப் பழி` — **Revenge for Revenge** — T5 English `46627c3cecfd186e1735d8766ddda27414118e62` — 8/8 comments.
-- Article 5 `ஆரியம் பேசுகிறது` — **Aryanism Speaks** — T5 English `4b1666afd885c3d8b800b08410a3dbfe498856bc` — 2/2 comments; scan-38→39 `Kula— / chirai`.
+1. `இன முழக்கம்` — **The Clarion Call of the Race** — `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
+2. `சொர்க்க லோகத்தில்` — **In the Heavenly Realm** — `bcd98fb1abf03e3109da1c4802570b77fddfe015`
+3. `முரசறைவாய்` — **Beat the Drum** — `c526195d7eb16b2dc446f8b3b15ae674c75548d5`
+4. `பழிக்குப் பழி` — **Revenge for Revenge** — `46627c3cecfd186e1735d8766ddda27414118e62`
+5. `ஆரியம் பேசுகிறது` — **Aryanism Speaks** — `4b1666afd885c3d8b800b08410a3dbfe498856bc`
+6. `கவிதைகள்` — **Poems** — `9e6f90b00bfa9a5059f1eef6875e8cef3c3652c3`
 
-Preserve their verified terminology/source-witness decisions only where the same Tamil form/function genuinely recurs.
+All six are individually T5 verified and frozen. Reopen an article only for a genuine source-supported defect.
 
-## Article 5 final non-regression
+## Article 6 T1–T5 durable boundary
 
-Article 5 T2 made exactly two fidelity corrections: **I cast a net of desire around him** and **I demanded of Omaanthooraar**. T3 required **0** body corrections. T4 required **0** body corrections and found **0** terminology, source-witness, quotation/citation or page-provenance defects. T5 required **0** final body corrections. Article 5 is now individually frozen at verified English blob `4b1666afd885c3d8b800b08410a3dbfe498856bc`.
+- Tamil blob: `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
+- T1 English blob: `fedc9d4dc196fc458b593cb60fa08f075c661f1e`
+- T2 English blob: `9da9bcbd0e5fd31d1d4f5a9592d8b1ffdc059bbe`
+- T3 English blob: `ca33119ed5b7d69a1fedb57349610d222d14ff71`
+- T4 English blob: `099397023559005dfd73087e4e14bb94eef7f672`
+- T5 verified English blob: `9e6f90b00bfa9a5059f1eef6875e8cef3c3652c3`
+- source comments: **9 / 9 preserved in order**
+- poem headings: **11 / 11 preserved**, including source punctuation
+- blockers: **0**
 
-## Article 6 poetry constraints
+T2 made five fidelity corrections: exact `Common Ownership!` lineation; `drum` instead of unsupported `war drum`; `pure-Tamil / fair Tamil`; `matter` instead of `truth`; and `rich Tamil` instead of `honeyed Tamil`. T3 made five voice/style-only refinements. T4 made four audit corrections: **Scale of Justice!**, source punctuation **Will They Accept!**, removal of added `us` in the Saivism-net image, and source-aligned ordering/lineation in **When Will There Be Defeat?**. T5 required **0** final body corrections.
 
-`கவிதைகள்` is the final untranslated unit. Its frozen Tamil authority is `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`, covering scans 41–49. Scan 40 `கவிதைகளைப் பற்றி` / `மதிப்புரை` is excluded, and scan 50 catalogue is excluded.
-
-For Article 6 English:
-
-- translate only the frozen strict-reviewed Tamil assembly;
-- preserve every frozen poem heading and the exact source lineation as the structural baseline;
-- preserve parallelism, repeated words/images, direct address, commands, rhetorical questions and exclamations;
-- prioritise semantic and rhetorical fidelity over rhyme;
-- do not invent rhyme, imagery, connective prose or explanatory material;
-- preserve ordered source-page comments for bilingual traceability;
-- do not replace known frozen source-sensitive forms with scan alternatives;
-- register genuinely new source-bearing choices in the living lexicon and review ledger.
+Preserve Article-6 source-bearing **Muthamizh**, **sotha / sothas**, **veli / velis**, **payasam**, **Saivites / Saivism**, **Eripaththar**, **Kotpuli**, **Kulachirai**, **Varna**, and the source-chosen epic/name forms. Preserve the unmatched quotation treatment in `Common Ownership!`; it follows the frozen Tamil rather than editorial normalization.
 
 ## Translation non-regression
 
@@ -101,17 +97,16 @@ For Article 6 English:
 - retain ordered source comments and documented page-boundary traces;
 - preserve quotation status and source punctuation irregularities;
 - scans 24 and 37 promotions, scan 40 front matter/review and scan 50 catalogue stay outside the six English bodies;
-- Articles 1–5 verified English decisions must not be reopened without genuine source support.
+- preserve deliberately source-distinct names and spellings rather than harmonising them for neatness.
 
 ## EXACT NEXT ACTIVITY
 
-**Article 6 `கவிதைகள்` — T1 close English draft only.**
+**E6 — publication-wide English consistency review only.**
 
 1. fetch live `main`;
 2. re-read translation plan, tracker, lexicon and review ledger;
-3. re-fetch frozen Tamil Article 6 and confirm blob `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`;
-4. translate the complete frozen assembly poem by poem / line by line into a close English draft;
-5. preserve every heading, source lineation, parallelism, direct address, command, question, exclamation and ordered source-page comment;
-6. prioritise semantic/rhetorical fidelity over rhyme and do not add imagery or connective prose absent from the Tamil;
-7. record T1 source-bearing choices and the resulting English blob across durable records;
-8. **STOP AFTER ARTICLE 6 T1. DO NOT PERFORM ARTICLE 6 T2 IN THE SAME ACTIVITY.**
+3. re-fetch/read all six verified English units;
+4. cross-check recurring names and epithets, Aryan/Dravidian vocabulary, source-specific transliterations, title style, quotation/source treatment, source-page comments, source-cultural terms and voice consistency;
+5. preserve deliberately source-distinct forms and all individually verified decisions unless a genuine cross-article defect is found;
+6. record exact E6 findings and any corrections across durable records;
+7. **STOP AFTER E6. DO NOT PERFORM E7 RELEASE CLOSEOUT IN THE SAME ACTIVITY.**
