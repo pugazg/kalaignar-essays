@@ -77,10 +77,11 @@ Printed text and physical-copy evidence remain separate in every page record.
 
 Directly compared page records now committed:
 
-- scans **1–10**: **10 / 10 verified**;
+- scans **1–16**: **16 / 16 verified**;
 - front matter scans **1–4**: complete at P2;
 - Unit 1 `கொலைக்களம்!`: scans **5–9**, complete at page-record level;
-- Unit 2 `‘அஸ்தி’ கரையட்டும்!`: scan **10** opening complete; scans **11–16** remain.
+- Unit 2 `‘அஸ்தி’ கரையட்டும்!`: scans **10–16**, complete at page-record level;
+- next unprocessed scan: **17**.
 
 P2 source corrections established so far:
 
@@ -94,14 +95,14 @@ These are direct source readings and must not regress to the earlier P1 convenie
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**
 - P1 — metadata + canonical page map + contents/unit mapping: **COMPLETE / PASS, with P2 source corrections propagated**
-- P2 — page-level transcription: **IN PROGRESS**
+- P2 — page-level transcription: **IN PROGRESS — 16 / 40**
 - P3 — article/unit assemblies: **NOT STARTED**
 - P4 — source/completeness audit: **NOT STARTED**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
 - physical scans structurally mapped: **40 / 40**
 - canonical main prose units: **6**
-- page records: **10 / 40**
-- direct lexical page verification: **10 / 40**
+- page records: **16 / 40**
+- direct lexical page verification: **16 / 40**
 - article/unit assemblies: **0 / 6**
 - English translation: **NOT STARTED**
 - blockers: **0**
@@ -112,10 +113,10 @@ The supplied PDF scan is controlling. Do not silently modernise, correct, normal
 
 ## Exact next activity
 
-**Continue P2 — page-level transcription and direct visual verification for scans 11–40.**
+**Continue P2 — page-level transcription and direct visual verification for scans 17–40.**
 
-1. Preserve committed verified scans **1–10**; do not repeat or overwrite them without a source-supported correction.
-2. Resume with scan **11** and create one canonical page record for every remaining scan through **40**.
+1. Preserve committed verified scans **1–16**; do not repeat or overwrite them without a source-supported correction.
+2. Resume with scan **17** and create one canonical page record for every remaining scan through **40**.
 3. Keep physical-copy marks outside `# அச்சு உரை` and preserve source-visible punctuation, old glyphs, numbers, paragraph boundaries and continuations.
 4. Mark each remaining page `verified` only after direct scan comparison; flag genuinely unresolved readings rather than guessing.
 5. After all **40 / 40** page records are complete, synchronize README/source metadata/indexes/root `HANDOVER.md`/`docs/NEXT_CHAT_PROMPT.md` to P2 complete.
