@@ -77,16 +77,29 @@ P3 is **COMPLETE / PASS**.
 Canonical article assembly:
 
 - [`articles/01-kudumbaththin-nalvilakku.md`](articles/01-kudumbaththin-nalvilakku.md)
-- assembly blob SHA: `8bb645af0b7d1a8781e1425734ba9a104910e640`
+- current assembly blob SHA after P4 reconciliation: `f33d195f0952c1888510eb75e9c9b72e1fc9d6f0`
 - assembly authority: corrected verified P2 page records scans **4–13**
 - body source-page comments preserved: **10 / 10**
 - scan-to-scan continuations checked: **9 / 9**
-- scan-7 printed footnote preserved: **PASS**
 - page-record audit notes / physical-copy marks copied into article body: **0**
 - additional lexical normalization during assembly: **0**
-- P3 blockers: **0**
 
-The article assembly is a reading copy only; the verified page layer remains the granular source authority until the later P4/P5 gates are complete.
+P4 later corrected one **placement-only** issue in the assembly: the scan-7 printed footnote had been preserved lexically but sat after scan-8 body text. It is now attached to scan 7 immediately before the scan-8 page-boundary comment. No footnote wording changed.
+
+## P4 source/completeness audit
+
+P4 is **COMPLETE / PASS**. Detailed ledger: [`audit.md`](audit.md).
+
+- physical scans reconciled: **16 / 16**;
+- page records reconciled against canonical structure: **16 / 16**;
+- article assemblies reconciled: **1 / 1**;
+- body scan comments: **10 / 10**;
+- scan-to-scan continuations: **9 / 9**;
+- body omissions: **0**;
+- duplicated body text: **0**;
+- page-order errors: **0**;
+- P4 corrections: **1 placement-only footnote correction**;
+- unresolved completeness blockers: **0**.
 
 ## Physical-copy condition
 
@@ -105,7 +118,7 @@ Printed text and physical-copy marks remain separate in the page records.
 - P1 — metadata + page map + contents mapping: **COMPLETE / PASS**
 - P2 — page-level transcription: **COMPLETE / PASS**
 - P3 — article assembly: **COMPLETE / PASS**
-- P4 — source/completeness audit: **NOT STARTED**
+- P4 — source/completeness audit: **COMPLETE / PASS**
 - P5 — strict visual text-fidelity pass: **NOT STARTED**
 - article boundaries mapped: **1 / 1**
 - article assemblies: **1 / 1**
@@ -118,4 +131,4 @@ The supplied PDF scan is the controlling witness for this edition. Do not silent
 
 ## Exact next activity
 
-**P4 — source/completeness audit for the full publication only.** Reconcile all **16/16** page records, the single article assembly, structural indexes, front/end matter and article boundary; confirm no omissions, duplication or cross-layer drift; record any corrections explicitly. **Stop before P5 strict visual word/punctuation fidelity.**
+**P5 — strict visual word-by-word / punctuation-by-punctuation fidelity review over all 16 physical scans.** Re-resolve the controlling PDF, recheck every visible word/punctuation/heading/number/continuation against the page layer, record every correction with provenance, propagate genuine corrections, create `VISUAL_TEXT_FIDELITY_REVIEW.md`, and **stop before English translation**.
