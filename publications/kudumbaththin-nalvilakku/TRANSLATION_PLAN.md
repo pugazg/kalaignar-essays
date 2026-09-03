@@ -13,21 +13,19 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 
 Translate the one frozen strict-reviewed Tamil article into readable English while preserving meaning, rhetorical action, direct address, questions, repetition, religious/political examples, source-page trace, quotation structure, numbers and the source footnote. The frozen Tamil assembly is the only translation authority.
 
-## Tamil prerequisite — COMPLETE / FROZEN
+## Frozen Tamil authority
 
 - P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - physical scans: **16 / 16 strict-reviewed**
-- body article assemblies: **1 / 1 strict-reviewed**
+- article assemblies: **1 / 1 strict-reviewed**
 - unresolved Tamil blockers: **0**
-- frozen Tamil authority: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
-
-## Frozen Tamil translation authority
+- frozen Tamil blob: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
 
 | # | Tamil title | Source scans | Tamil assembly | Frozen Tamil blob |
 |---:|---|---|---|---|
 | 1 | `குடும்பத்தின் நல்விளக்கு` | `4–13` | `articles/01-kudumbaththin-nalvilakku.md` | `f9416fc2ad122ec803d1c75197215ddfbd13f0fc` |
 
-## Current English gate status
+## Final English gate status
 
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **1 / 1 PASS**
@@ -37,26 +35,27 @@ Translate the one frozen strict-reviewed Tamil article into readable English whi
 - T4 terminology/quotation/source audit: **1 / 1 PASS**
 - T5 article verification: **1 / 1 PASS / VERIFIED**
 - E6 publication-wide consistency: **PASS / COMPLETE**
-- E7 release closeout: **NOT STARTED**
+- E7 release closeout: **PASS / RELEASE COMPLETE**
 - blockers: **0**
+- English translation: **COMPLETE / RELEASED / FROZEN**
 
-## Verified / E6 release-candidate English authority
+## Released English authority
 
 Article:
 
 `translations/en/01-kudumbaththin-nalvilakku.md`
 
-Verified title:
+Released title:
 
 **The Family's Lamp of Well-Being**
 
-T5 and E6 English blob:
+Released English blob:
 
 `08cb986a4079ca45bce75c376cd19e603818eeb2`
 
 ## T0–T5 durable result
 
-- frozen Tamil authority re-confirmed at T0 and again at T5: **PASS**
+- frozen Tamil authority confirmed at T0 and T5: **PASS**
 - complete article translated: **PASS**
 - bilingual fidelity: **PASS**
 - Kalaignar voice: **PASS**
@@ -67,39 +66,32 @@ T5 and E6 English blob:
 - unresolved translation choices: **0**
 - frozen Tamil changes during English work: **0**
 
-T2 corrected four fidelity issues; T3 restored spoken/rhetorical force without changing source meaning; T4 finalized terminology/source-label choices and source-bearing `Kayilaiyangiri`; T5 verified the complete article.
+T2 corrected four fidelity issues; T3 restored spoken/rhetorical force without changing source meaning; T4 finalized terminology/source-label choices and source-bearing **Kayilaiyangiri**; T5 verified the article.
 
-## E6 publication-wide consistency review — PASS / COMPLETE
+## E6 — publication-wide consistency
 
-E6 rechecked the single verified article as a complete publication and classified apparent differences instead of mechanically homogenizing them.
+**PASS / COMPLETE.** E6 required **0 body changes**, **0 metadata changes**, **0 lexicon corrections** and **0 Tamil changes**. Deliberate source distinctions such as **family welfare programme / family planning**, **Tamil Nadu Government / Delhi Government / Central Government**, and **Lord Shiva / Shiva / Parama Sivan** were retained rather than homogenized.
 
-- title and body `lamp of well-being` metaphor: **CONSISTENT**
-- **family welfare programme / family planning**: **CONSISTENT / deliberate source distinction**
-- literal/metaphorical **invasion**: **CONSISTENT**
-- **Tamil Nadu Government / Delhi Government / Central Government**: **DELIBERATE SOURCE-LABEL DISTINCTIONS / RETAINED**
-- **Lord Shiva / Shiva / Parama Sivan**: **DELIBERATE SOURCE-LABEL DISTINCTIONS / RETAINED**
-- source-bearing names and transliterations, including **Kayilaiyangiri**: **PASS**
-- source-page comments: **10 / 10 PASS**
-- scan-7 footnote: **PASS**
-- numbers/dates/parliamentary sequence: **PASS**
-- English body changes required: **0**
-- metadata changes required: **0**
-- lexicon corrections required: **0**
-- frozen Tamil changes: **0**
-- release-readiness blockers: **0**
+E6 release-candidate blob remained `08cb986a4079ca45bce75c376cd19e603818eeb2`.
 
-E6 preserves the T5 English authority unchanged: `08cb986a4079ca45bce75c376cd19e603818eeb2`.
+## E7 — release closeout
 
-## Non-regression
+**PASS / RELEASE COMPLETE.** E7 re-fetched live `main` and directly confirmed both release authorities:
 
-- Frozen Tamil controls: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
-- Do not reopen user-approved old-glyph readings for translation convenience.
-- Do not silently modernise or reinterpret unusual Tamil forms.
-- Preserve rhetorical action, not merely propositional meaning.
-- Do not insert present-day political, medical, religious or historical commentary into Kalaignar's body text.
-- Retain source-label distinctions and source-bearing names/transliterations recorded in the E6-confirmed lexicon.
-- Do not reopen the T5/E6 English merely for stylistic preference or conventionalisation.
+- Tamil: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+- English: `08cb986a4079ca45bce75c376cd19e603818eeb2`
 
-## Exact next activity
+Release checks passed for T0–T5/E6 durability, title/metadata, source scans `4–13`, all **10 / 10** source-page comments, scan-7 footnote marker/title/association, source ending, and exclusion of scans 1–3 and 14–16 from the English article body. English body/metadata drift after E6: **0**. Frozen Tamil changes during E7: **0**. Release blockers: **0**.
 
-Execute **E7 — English release closeout**. Re-fetch live `main`, confirm frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc` and E6 release-candidate English blob `08cb986a4079ca45bce75c376cd19e603818eeb2`, verify T0–T5 and E6 durability, source-page trace, footnote, title, metadata and release records, then mark the English publication **COMPLETE / RELEASED / FROZEN** only if all checks remain clean.
+Final completion review: [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md).
+
+## Final non-regression
+
+- Frozen Tamil authority: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
+- Released English authority: `08cb986a4079ca45bce75c376cd19e603818eeb2`.
+- Do not reopen user-approved old-glyph readings or released English merely for translation convenience, stylistic preference, modernisation or conventionalisation.
+- Reopen only for a genuine source-supported or release-blocking defect.
+
+## Next activity
+
+No further translation activity is pending for `குடும்பத்தின் நல்விளக்கு` absent a genuine source-supported or release-blocking defect. Continue or intake another explicitly selected publication.
