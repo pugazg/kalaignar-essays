@@ -11,7 +11,7 @@ Source PDF committed: **No**
 
 The cover and title page identify the publication as **`குடும்பத்தின் நல்விளக்கு`** and attribute it to `முதல்வர் டாக்டர் கலைஞர் மு. கருணாநிதி`.
 
-The title page carries `தமிழ்நாடு குடும்பநலத்துறை வெளியீடு`. The back cover repeats that departmental line and gives `மாநில குடும்பநல அச்சகம், சென்னை-6`.
+The title page carries `தமிழ்நாடு குடும்பநலத்துறை வெளியீடு`. The back cover repeats that departmental line and, after the P5 strict visual recheck, the printer line is preserved exactly as `மாநில குடும்பநல அச்சகம்,சென்னை-6`.
 
 No edition statement or publication year is visibly established in the supplied 16 scans. Internal dates/history in the article are not publication-date evidence.
 
@@ -44,12 +44,12 @@ Only source-visible numerals are recorded:
 
 Do **not** infer `1` for scan 4 or `10` for scan 13.
 
-## P2 page layer
+## Tamil source layer
 
-P2 is **COMPLETE / PASS**.
+### P2 page layer — COMPLETE / PASS
 
 - physical page records: **16 / 16**;
-- directly visually verified: **16 / 16**;
+- directly visually verified at P2: **16 / 16**;
 - body scans with complete lexical transcription: **10 / 10** (`4–13`);
 - printed/non-printed physical-copy layers kept separate: **16 / 16**;
 - unresolved / blocked body readings: **0**.
@@ -58,48 +58,39 @@ Page records are under [`pages/`](pages/).
 
 ### Post-P2 old-glyph / user-review correction batch
 
-After comparison against the user-supplied word-for-word transcription, direct scan rechecks, and the user's follow-up review of old Tamil glyphs, **35 word-form occurrences** across body scans 4–13 were corrected in the canonical page layer. The user explicitly left `சிந்தித்துச்` (scan 5) and `ஒருபுறத்திலே` (scan 9) unchanged.
+Comparison against the user-supplied word-for-word transcription, direct scan rechecks, and the user's old-Tamil-glyph review corrected **35 word-form occurrences** across body scans 4–13.
 
-Current source-sensitive forms to preserve include:
+The user explicitly left `சிந்தித்துச்` (scan 5) and `ஒருபுறத்திலே` (scan 9) unchanged.
 
-- scan 7 — `மூர்த்தன்யமாக`;
-- scan 8 — `நம்பிக்கைகளிலிருந்தெல்லாம்`;
-- scan 10 — `பதினாறு` (twice);
-- scan 12 — `அவல் வாங்கிச் சாப்பிட்டு`;
-- scan 13 — `ஆலாய்ப்`, `கயிலையங்கிரியில்`, `இந்து மதத்திலே`.
+Source-sensitive forms preserved include `பிரச்சனையாக`, `படைவீரர்களை`, `முறைகளை`, `பொறுப்பிலே`, `இந்து மார்க்கத்திலே`, `கொள்கைகளை`, `மூர்த்தன்யமாக`, `தாயாரையும்`, `எடுத்தும்`, `நம்பிக்கைகளிலிருந்தெல்லாம்`, `குறைந்தது`, `நாடாளுமன்றத்திலே`, `கேட்டுக்கொண்டிருக்கிறோம்`, `என்கின்ற`, `பதினாறு`, `நாலைந்து`, `தகப்பனாரும்`, `நிறைவேற்றாத`, `அவல் வாங்கிச் சாப்பிட்டு`, `ஆலாய்ப்`, `கயிலையங்கிரியில்`, and `இந்து மதத்திலே`.
 
-These are source readings, not editorial normalizations. P5 will independently recheck every visible word and punctuation mark.
-
-## P3 article assembly
-
-P3 is **COMPLETE / PASS**.
+### P3 article assembly — COMPLETE / PASS
 
 Canonical article assembly:
 
 - [`articles/01-kudumbaththin-nalvilakku.md`](articles/01-kudumbaththin-nalvilakku.md)
-- current assembly blob SHA after P4 reconciliation: `f33d195f0952c1888510eb75e9c9b72e1fc9d6f0`
-- assembly authority: corrected verified P2 page records scans **4–13**
-- body source-page comments preserved: **10 / 10**
-- scan-to-scan continuations checked: **9 / 9**
-- page-record audit notes / physical-copy marks copied into article body: **0**
-- additional lexical normalization during assembly: **0**
+- source-page comments: **10 / 10**
+- scan-to-scan continuations: **9 / 9**
+- scan-7 printed footnote: **preserved**
+- physical-copy/audit material inserted into article body: **0**.
 
-P4 later corrected one **placement-only** issue in the assembly: the scan-7 printed footnote had been preserved lexically but sat after scan-8 body text. It is now attached to scan 7 immediately before the scan-8 page-boundary comment. No footnote wording changed.
+### P4 source/completeness audit — COMPLETE / PASS
 
-## P4 source/completeness audit
+P4 reconciled all **16 / 16** page records, the full structural inventory, and the article assembly. It found one assembly-only placement issue: the scan-7 printed footnote had been placed after scan-8 body text. P4 moved it back to the scan-7 position without changing its wording.
 
-P4 is **COMPLETE / PASS**. Detailed ledger: [`audit.md`](audit.md).
+See [`audit.md`](audit.md).
 
-- physical scans reconciled: **16 / 16**;
-- page records reconciled against canonical structure: **16 / 16**;
-- article assemblies reconciled: **1 / 1**;
-- body scan comments: **10 / 10**;
-- scan-to-scan continuations: **9 / 9**;
-- body omissions: **0**;
-- duplicated body text: **0**;
-- page-order errors: **0**;
-- P4 corrections: **1 placement-only footnote correction**;
-- unresolved completeness blockers: **0**.
+### P5 strict visual fidelity — COMPLETE / PASS
+
+All **16 / 16 physical scans** were directly rechecked at the final word/punctuation fidelity gate.
+
+P5 recorded **10 correction occurrences** across scans 4, 6, 7, 10, 11, 13 and 16. They are principally punctuation and word-boundary corrections caused by old typography / lineation. No user-approved old-glyph lexical reading was reversed.
+
+Detailed provenance: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
+
+Final strict-reviewed Tamil article blob:
+
+`f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
 
 ## Physical-copy condition
 
@@ -119,16 +110,27 @@ Printed text and physical-copy marks remain separate in the page records.
 - P2 — page-level transcription: **COMPLETE / PASS**
 - P3 — article assembly: **COMPLETE / PASS**
 - P4 — source/completeness audit: **COMPLETE / PASS**
-- P5 — strict visual text-fidelity pass: **NOT STARTED**
-- article boundaries mapped: **1 / 1**
-- article assemblies: **1 / 1**
+- P5 — strict visual text-fidelity pass: **COMPLETE / PASS**
+- physical scans strict-reviewed: **16 / 16**
+- article assemblies strict-reviewed: **1 / 1**
+- unresolved blockers: **0**
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - English translation: **NOT STARTED**
-- blockers: **0**
 
-## Source authority
+## Frozen source authority / non-regression
 
-The supplied PDF scan is the controlling witness for this edition. Do not silently modernise, correct, normalise, reconstruct or replace its Tamil from OCR, web text, memory or another edition. Source PDFs are never committed to the repository.
+The supplied PDF scan remains the controlling witness for this edition. The final frozen Tamil article authority is:
+
+`f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+
+Do not silently modernise, conventionalise, stylistically polish, homogenise terminology, or reopen source-sensitive spellings. Reopen the Tamil layer only for a genuine source-supported archival defect.
 
 ## Exact next activity
 
-**P5 — strict visual word-by-word / punctuation-by-punctuation fidelity review over all 16 physical scans.** Re-resolve the controlling PDF, recheck every visible word/punctuation/heading/number/continuation against the page layer, record every correction with provenance, propagate genuine corrections, create `VISUAL_TEXT_FIDELITY_REVIEW.md`, and **stop before English translation**.
+**E0 — English translation planning/setup only.**
+
+1. Read `ESSAY_TRANSLATION_GUIDE.md` completely.
+2. Register frozen Tamil authority `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
+3. Create `TRANSLATION_PLAN.md` and the English tracker / lexicon / review scaffolding under `translations/en/`.
+4. Record translation-source and non-regression rules.
+5. **STOP AFTER E0. Do not begin the English article translation in the same activity.**
