@@ -24,7 +24,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `ee4af3d0b991a98f774e039ebbc76905fdae181d` — `Link Kudumbaththin Nalvilakku P3 assembly`.
+- Last confirmed live HEAD immediately before this handover synchronization: `30d9ca56b659cd68237acf7afee80db7a75fc5d6` — `Record Kudumbaththin Nalvilakku P4 source audit`.
 
 ---
 
@@ -108,7 +108,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 6 — குடும்பத்தின் நல்விளக்கு — P0–P3 COMPLETE / ACTIVE
+# Publication 6 — குடும்பத்தின் நல்விளக்கு — P0–P4 COMPLETE / ACTIVE
 
 Workspace: `publications/kudumbaththin-nalvilakku/`  
 Controlling source: `TVA_BOK_0065602_குடும்பத்தின்_நல்விளக்கு.pdf`
@@ -174,17 +174,43 @@ Meaning-bearing fixes include scan 8 `தாயாரையும்`, scan 12 `
 P3 is **COMPLETE / PASS**.
 
 - article path: `publications/kudumbaththin-nalvilakku/articles/01-kudumbaththin-nalvilakku.md`
-- assembly blob SHA: `8bb645af0b7d1a8781e1425734ba9a104910e640`
+- current assembly blob SHA after P4 reconciliation: `f33d195f0952c1888510eb75e9c9b72e1fc9d6f0`
 - assembly authority: corrected verified P2 page records scans **4–13**
 - article assemblies: **1 / 1**
 - source-page comments in assembly: **10 / 10**
 - scan-to-scan continuations checked: **9 / 9**
-- scan-7 printed footnote preserved: **PASS**
 - page-record audit notes / physical-copy marks copied into article body: **0**
-- lexical normalizations introduced at P3: **0**
-- P3 blockers: **0**
+- lexical normalizations introduced at P3/P4: **0**
 
-Continuation traces include scan 4→5 `பாகிஸ்தானத்திலே இருக்கின்ற` / `இஸ்லாமியர்கள்`, scan 6→7 final `ஒரு` / `மூலையிலே`, scan 7→8 `புகைப்படம் எடுத்துக் கொள்வதிலே` / `ஆபத்தில்லை`, scan 8→9 `மூன்று கோடி நான்கு கோடியாக` / `மாறியிருக்கும்பொழுது`, scan 9→10 final dash / `குடும்பநலத் திட்டத்திலும்`, scan 10→11 `வீட்டிலே` / `இருப்பவர்கள்`, scan 11→12 `குழந்தைகளும்` / `அரைப்பட்டினி`, and scan 12→13 `தம்புரா தூக்கிக்` / `கொண்டு ஊரெல்லாம்`.
+## P4 source/completeness audit
+
+P4 is **COMPLETE / PASS**. Detailed ledger:
+
+`publications/kudumbaththin-nalvilakku/audit.md`
+
+Results:
+
+- physical scans reconciled: **16 / 16**
+- page records reconciled against page map / unit map: **16 / 16**
+- article assemblies reconciled: **1 / 1**
+- source-page comments in assembly: **10 / 10**
+- scan-to-scan continuations: **9 / 9**
+- cover/title/portrait/body/blank/illustration/back-cover inventory: **PASS**
+- article boundary scans 4–13: **PASS**
+- body omissions: **0**
+- duplicated body text: **0**
+- page-order errors: **0**
+- unresolved completeness blockers: **0**
+
+### P4 correction
+
+P4 found one assembly-layer placement defect. The scan-7 printed footnote:
+
+`* தமிழ்நாடு குடும்ப நலத்துறையின் வெளியீடான “சமுதாயக்கடமை”.`
+
+was lexically present in the initial P3 article, but had been placed after scan-8 body text. P4 moved it back to its scan-7 association immediately before the scan-8 page-boundary comment. Footnote wording changed: **0**. Page-layer files changed: **0**.
+
+Corrected assembly blob: `f33d195f0952c1888510eb75e9c9b72e1fc9d6f0`.
 
 ## Current Tamil archival status
 
@@ -192,7 +218,7 @@ Continuation traces include scan 4→5 `பாகிஸ்தானத்தி�
 - P1 — metadata + page map + contents mapping: **COMPLETE / PASS**
 - P2 — page-level transcription: **COMPLETE / PASS**
 - P3 — article assembly: **COMPLETE / PASS**
-- P4 — source/completeness audit: **NOT STARTED**
+- P4 — source/completeness audit: **COMPLETE / PASS**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
 - physical scans structurally mapped: **16 / 16**
 - physical page records: **16 / 16**
@@ -203,7 +229,7 @@ Continuation traces include scan 4→5 `பாகிஸ்தானத்தி�
 
 ## Source authority / non-regression
 
-The supplied PDF scan remains controlling. The corrected verified P2 page layer is the assembly authority; the P3 article is a reading assembly derived from it. Do not silently modernise, correct, normalise, reconstruct or replace its Tamil from OCR, web text, memory or another edition. P5 will independently recheck every visible word and punctuation mark.
+The supplied PDF scan remains controlling. The corrected verified P2 page layer is the source authority; the P4-reconciled article is the current reading assembly. Do not silently modernise, correct, normalise, reconstruct or replace its Tamil from OCR, web text, memory or another edition. P5 must independently recheck every visible word and punctuation mark.
 
 ## English translation status
 
@@ -212,13 +238,15 @@ The supplied PDF scan remains controlling. The corrected verified P2 page layer 
 
 ## Exact next activity
 
-**P4 — source/completeness audit for the full publication only.**
+**P5 — strict visual word-by-word / punctuation-by-punctuation fidelity review over all 16 physical scans.**
 
-1. Fetch live `main` first and reread this handover plus the active publication records.
-2. Reconcile all **16 / 16** physical page records against the structural indexes.
-3. Reconcile the P3 article assembly against corrected page records scans **4–13**.
-4. Confirm the cover/title/portrait/body/blank/illustration/back-cover inventory and the single article boundary.
-5. Confirm no body omissions, duplication, page-order errors, page-comment loss, footnote loss or cross-layer drift.
-6. Record any P4 correction explicitly and propagate it to dependent records.
-7. If clean, mark P4 **COMPLETE / PASS** and set P5 as the exact next activity.
-8. **STOP AFTER P4. DO NOT BEGIN P5 STRICT VISUAL WORD/PUNCTUATION FIDELITY IN THE SAME ACTIVITY.**
+1. Fetch live `main` first and reread this handover plus active publication records.
+2. Re-resolve the exact controlling PDF `TVA_BOK_0065602_குடும்பத்தின்_நல்விளக்கு.pdf`.
+3. Recheck every physical scan **1–16** directly against its page record.
+4. Recheck every visible word, word boundary, punctuation mark, quotation mark, heading, date, number, paragraph boundary and page continuation.
+5. Preserve old Tamil glyphs and multiple source witnesses exactly; do not normalize from context.
+6. Record every correction with **old reading → source-visible reading** provenance.
+7. Propagate genuine corrections to page records, article assembly, indexes and durable documentation.
+8. Create `publications/kudumbaththin-nalvilakku/VISUAL_TEXT_FIDELITY_REVIEW.md`.
+9. If clean after propagation, mark P5 **COMPLETE / PASS** and freeze the Tamil archival layer.
+10. **STOP AFTER P5. DO NOT BEGIN ENGLISH TRANSLATION IN THE SAME ACTIVITY.**
