@@ -8,7 +8,7 @@
 - File size: **34,464,808 bytes**
 - Physical scans: **16**
 - Language/script: Tamil
-- Publication type at P0: **standalone single-article family-welfare pamphlet**
+- Publication type: **standalone single-article family-welfare pamphlet**
 
 ## Printed identity witnesses
 
@@ -28,11 +28,13 @@
 - departmental line: `தமிழ்நாடு குடும்பநலத்துறை வெளியீடு`
 - printing line: `மாநில குடும்பநல அச்சகம், சென்னை-6`
 
-No edition statement or publication year is visibly established at P0. Internal dates/history in the body are not publication-date evidence and must not be used to invent one.
+No edition statement or publication year is visibly established in the supplied scans. Internal dates/history in the body are not publication-date evidence and must not be used to invent one.
 
-## Preliminary physical structure
+## Canonical P1 physical structure
 
-| Scan | P0 identification | Printed page evidence |
+The canonical map is [`../indexes/page-map.md`](../indexes/page-map.md).
+
+| Scan | Structural role | Printed page visible |
 |---:|---|---|
 | 1 | front cover | none |
 | 2 | title page | none |
@@ -47,21 +49,25 @@ No edition statement or publication year is visibly established at P0. Internal 
 | 11 | article body | `8` |
 | 12 | article body | `9` |
 | 13 | article ending | no visible numeral |
-| 14 | visually blank / faint show-through | none |
+| 14 | blank/non-body leaf with faint show-through | none |
 | 15 | full-page family illustration | none |
 | 16 | back cover | none |
 
-This table is an intake-level structural identification only. P1 must create the canonical page map from a fresh direct scan review.
+The archive records visible numerals only. It does **not** infer `1` for scan 4 or `10` for scan 13.
 
-## Contents / article count
+## Contents / article count — P1
 
-- printed contents page: **not present in supplied scans**
-- body articles identified at P0: **1**
-- article heading witness: `குடும்பத்தின் நல்விளக்கு` on scan 4
-- preliminary article span: **scans 4–13**
-- article ending witness: scan 13 ends with the closing paragraph followed by a short horizontal rule
+Canonical contents record: [`../indexes/contents.md`](../indexes/contents.md).
 
-Do not infer additional articles from cover/back matter or illustrations.
+- printed contents page: **ABSENT / CONFIRMED**
+- body articles: **1**
+- article title: `குடும்பத்தின் நல்விளக்கு`
+- article span: **scans 4–13**
+- start witness: scan 4 heading `குடும்பத்தின் நல்விளக்கு`
+- end witness: scan 13 closing paragraph followed by a short horizontal rule
+- scan 14 is non-body/blank show-through, confirming the body has ended
+
+No additional article heading or body unit is visible.
 
 ## Physical-copy marks / scan condition
 
@@ -76,23 +82,33 @@ The physical copy shows age and library-use evidence that must remain separate f
 - faint show-through on scan 14;
 - additional surface marks/staining on the back cover.
 
-At P0 no body text is declared blocked. This does **not** mean the body has been transcribed or verified; lexical work begins only at P2.
+No lexical body transcription has been performed during P1. No body text is declared blocked at the structural-map stage.
 
 ## Source authority
 
 The supplied scan is the controlling source for this edition. Preserve source-visible wording, spelling, punctuation, names, dates, numbers, repetitions and unusual forms. Do not silently modernise, normalise, reconstruct hidden text, or import wording from OCR, web text, memory or another edition.
 
-## P0 result
+## Gate results
+
+### P0 — COMPLETE / PASS
 
 - source file identity: **CONFIRMED**
-- duplicate publication in repository: **NOT FOUND** by title/source-ID search at intake
-- publication title: **CONFIRMED from cover + title page**
-- publication form: **single-article pamphlet**
-- physical scan count: **16 CONFIRMED**
+- duplicate publication in repository: **NOT FOUND** at intake
+- publication title/form: **CONFIRMED**
+- physical scan count: **16**
 - checksum / file size: **RECORDED**
-- P0 blockers: **0**
-- P0 status: **COMPLETE / PASS**
+- blockers: **0**
+
+### P1 — COMPLETE / PASS
+
+- physical scans structurally mapped: **16 / 16**
+- contents-page presence: **ABSENT / CONFIRMED**
+- body article units: **1 / 1**
+- article boundary: **scans 4–13 CONFIRMED**
+- visible printed numerals mapped: **8** (`2–9` on scans 5–12)
+- inferred printed numerals inserted: **0**
+- structural blockers: **0**
 
 ## Exact next activity
 
-**P1 — metadata + page map + contents mapping only.** Re-inspect all 16 scans and create canonical `indexes/page-map.md` plus `indexes/contents.md` (explicitly recording the absence of a printed contents page), confirm article boundary and printed-number behaviour, and preserve physical-copy marks separately. **Do not begin P2 body transcription in the same activity.**
+**P2 — create and directly verify page records for all 16 physical scans, including full lexical transcription of body scans 4–13.** Keep printed text and physical-copy marks separate, preserve exact source wording/punctuation, document page continuations and difficult readings explicitly, and do not infer hidden text. **Stop before P3 article assembly.**
