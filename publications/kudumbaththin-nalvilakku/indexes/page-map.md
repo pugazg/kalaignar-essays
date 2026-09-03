@@ -3,7 +3,7 @@
 Controlling source: `TVA_BOK_0065602_குடும்பத்தின்_நல்விளக்கு.pdf`  
 Physical scans: **16**
 
-This is the canonical structural/page-record map through **P2**. Printed-page numerals are recorded only when directly source-visible.
+This is the canonical structural/page-record map through **P3**. Printed-page numerals are recorded only when directly source-visible.
 
 | Scan | Printed page visible | Structural role | Article / unit | P2 page record | Status |
 |---:|---|---|---|---|---|
@@ -56,17 +56,39 @@ The body continuations were directly checked across every scan boundary. Notable
 
 Earlier scan-to-scan continuations are documented in the relevant page records.
 
-## P2 result
+## Corrected P2 source-sensitive readings
+
+The post-P2 old-glyph/user-review correction batch is authoritative. Current forms include:
+
+- scan 7 — `மூர்த்தன்யமாக`;
+- scan 8 — `நம்பிக்கைகளிலிருந்தெல்லாம்`;
+- scan 10 — `பதினாறு` twice;
+- scan 12 — `அவல் வாங்கிச் சாப்பிட்டு`;
+- scan 13 — `ஆலாய்ப்`, `கயிலையங்கிரியில்`, `இந்து மதத்திலே`.
+
+The user explicitly retained `சிந்தித்துச்` on scan 5 and `ஒருபுறத்திலே` on scan 9 unchanged.
+
+## P3 assembly
+
+Canonical reading assembly: `articles/01-kudumbaththin-nalvilakku.md`  
+Assembly blob SHA: `8bb645af0b7d1a8781e1425734ba9a104910e640`
+
+- article assemblies: **1 / 1**
+- body source-page comments represented: **10 / 10**
+- scan-to-scan continuations checked against page records: **9 / 9**
+- scan-7 footnote preserved: **PASS**
+- P3 blockers: **0**
+
+## Current result
 
 - physical scans mapped and recorded: **16 / 16**
 - directly visually verified page records: **16 / 16**
 - complete lexical body transcription: **10 / 10 scans (4–13)**
+- article assemblies: **1 / 1**
 - unresolved / blocked body readings: **0**
 - inferred printed numerals inserted: **0**
-- P2 blockers: **0**
-
-Source-sensitive forms such as `மூர்த்தன்யமாக`, `பதினறு`, `ஆலாயப்` and `கயிலியங்கிரியில்` remain deliberately source-faithful and will be independently rechecked during P5.
+- P0–P3: **COMPLETE / PASS**
 
 ## Exact next activity
 
-**P3 — assemble the single article from verified page records scans 4–13 only. Stop before P4.**
+**P4 — source/completeness audit across all 16 scans, the verified page layer, the single article assembly and structural indexes. Stop before P5 strict visual word/punctuation fidelity.**
