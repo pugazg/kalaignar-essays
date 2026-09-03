@@ -7,180 +7,106 @@ Physical scans: **16**
 Source SHA-256: `1c3389ec76507b0c6f2ae294a4523633e81084d570a1443c7b730ac899e15971`  
 Source PDF committed: **No**
 
-## Source identity
+## Source identity / structure
 
-The cover and title page identify the publication as **`குடும்பத்தின் நல்விளக்கு`** and attribute it to `முதல்வர் டாக்டர் கலைஞர் மு. கருணாநிதி`.
+- title: **குடும்பத்தின் நல்விளக்கு**
+- printed author line: `முதல்வர் டாக்டர் கலைஞர் மு. கருணாநிதி`
+- title-page department line: `தமிழ்நாடு குடும்பநலத்துறை வெளியீடு`
+- strict-reviewed back-cover printer line: `மாநில குடும்பநல அச்சகம்,சென்னை-6`
+- edition / publication year visibly established: **No**
+- form: **standalone single-article family-welfare pamphlet**
+- scans 1–3: cover / title / portrait
+- scans 4–13: article `குடும்பத்தின் நல்விளக்கு`
+- scan 14: blank/show-through leaf
+- scan 15: family illustration
+- scan 16: back cover
+- printed contents page: **ABSENT / CONFIRMED**
+- visible printed numerals: scans 5–12 = `2–9`; scans 4 and 13 unnumbered; no inferred `1` or `10`
 
-The title page carries `தமிழ்நாடு குடும்பநலத்துறை வெளியீடு`. The back cover repeats that departmental line and, after the P5 strict visual recheck, the printer line is preserved exactly as `மாநில குடும்பநல அச்சகம்,சென்னை-6`.
+Canonical Tamil structural records remain in `pages/`, `indexes/`, `audit.md` and `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-No edition statement or publication year is visibly established in the supplied 16 scans. Internal dates/history in the article are not publication-date evidence.
+## Tamil archival layer — COMPLETE / STRICT-REVIEWED / FROZEN
 
-## Publication form / structure
+- P0: **COMPLETE / PASS**
+- P1: **COMPLETE / PASS**
+- P2: **COMPLETE / PASS**
+- P3: **COMPLETE / PASS**
+- P4: **COMPLETE / PASS**
+- P5: **COMPLETE / PASS**
+- physical scans strict-reviewed: **16 / 16**
+- article assemblies strict-reviewed: **1 / 1**
+- unresolved Tamil blockers: **0**
 
-This source is a **standalone single-article family-welfare pamphlet**.
+Frozen Tamil article:
 
-- scan 1 — front cover;
-- scan 2 — title page;
-- scan 3 — author portrait;
-- scans 4–13 — article `குடும்பத்தின் நல்விளக்கு`;
-- scan 14 — blank/non-body leaf with faint show-through;
-- scan 15 — full-page family illustration;
-- scan 16 — back cover.
+[`articles/01-kudumbaththin-nalvilakku.md`](articles/01-kudumbaththin-nalvilakku.md)
 
-There is **no printed contents page**. The single article boundary remains **scans 4–13**, with scan 13 ending in a short horizontal rule and scan 14 non-body.
-
-Canonical maps:
-
-- [`indexes/page-map.md`](indexes/page-map.md)
-- [`indexes/contents.md`](indexes/contents.md)
-
-## Printed page-number behaviour
-
-Only source-visible numerals are recorded:
-
-- scan 4 — no visible numeral;
-- scans 5–12 — **2–9** respectively;
-- scan 13 — no visible numeral.
-
-Do **not** infer `1` for scan 4 or `10` for scan 13.
-
-## Tamil source layer
-
-### P2 page layer — COMPLETE / PASS
-
-- physical page records: **16 / 16**;
-- directly visually verified at P2: **16 / 16**;
-- body scans with complete lexical transcription: **10 / 10** (`4–13`);
-- printed/non-printed physical-copy layers kept separate: **16 / 16**;
-- unresolved / blocked body readings: **0**.
-
-Page records are under [`pages/`](pages/).
-
-### Post-P2 old-glyph / user-review correction batch
-
-Comparison against the user-supplied word-for-word transcription, direct scan rechecks, and the user's old-Tamil-glyph review corrected **35 word-form occurrences** across body scans 4–13.
-
-The user explicitly left `சிந்தித்துச்` (scan 5) and `ஒருபுறத்திலே` (scan 9) unchanged.
-
-Source-sensitive forms preserved include `பிரச்சனையாக`, `படைவீரர்களை`, `முறைகளை`, `பொறுப்பிலே`, `இந்து மார்க்கத்திலே`, `கொள்கைகளை`, `மூர்த்தன்யமாக`, `தாயாரையும்`, `எடுத்தும்`, `நம்பிக்கைகளிலிருந்தெல்லாம்`, `குறைந்தது`, `நாடாளுமன்றத்திலே`, `கேட்டுக்கொண்டிருக்கிறோம்`, `என்கின்ற`, `பதினாறு`, `நாலைந்து`, `தகப்பனாரும்`, `நிறைவேற்றாத`, `அவல் வாங்கிச் சாப்பிட்டு`, `ஆலாய்ப்`, `கயிலையங்கிரியில்`, and `இந்து மதத்திலே`.
-
-### P3 article assembly — COMPLETE / PASS
-
-Canonical article assembly:
-
-- [`articles/01-kudumbaththin-nalvilakku.md`](articles/01-kudumbaththin-nalvilakku.md)
-- source-page comments: **10 / 10**
-- scan-to-scan continuations: **9 / 9**
-- scan-7 printed footnote: **preserved**
-- physical-copy/audit material inserted into article body: **0**.
-
-### P4 source/completeness audit — COMPLETE / PASS
-
-P4 reconciled all **16 / 16** page records, the full structural inventory, and the article assembly. It found one assembly-only placement issue: the scan-7 printed footnote had been placed after scan-8 body text. P4 moved it back to the scan-7 position without changing its wording.
-
-See [`audit.md`](audit.md).
-
-### P5 strict visual fidelity — COMPLETE / PASS
-
-All **16 / 16 physical scans** were directly rechecked at the final word/punctuation fidelity gate.
-
-P5 recorded **10 correction occurrences** across scans 4, 6, 7, 10, 11, 13 and 16. They are principally punctuation and word-boundary corrections caused by old typography / lineation. No user-approved old-glyph lexical reading was reversed.
-
-Detailed provenance: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
-
-Final strict-reviewed Tamil article blob:
+Frozen Tamil blob:
 
 `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
 
-## English translation
+The post-P2 old-glyph/user review and P5 strict pass are frozen source decisions. Do not reopen Tamil for conventional spelling, modernization, translation convenience or stylistic preference.
 
-### E0 — COMPLETE / PASS
+## English translation — T0–T5 COMPLETE / VERIFIED
 
-English planning/setup is initialized from the frozen Tamil authority only:
+Permanent principle:
+
+> **Translate the language; do not neutralise the voice.**
+
+Translation records:
 
 - [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 
-### E1 / Article 1 T0 + T1 — COMPLETE
-
-T0 confirmed the frozen Tamil blob exactly:
-
-`f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
-
-Complete English close draft:
+Verified English article:
 
 [`translations/en/01-kudumbaththin-nalvilakku.md`](translations/en/01-kudumbaththin-nalvilakku.md)
 
-Current English draft blob:
+Verified title:
 
-`d5ae4e7696534f560e34578763dd0c735b689b86`
+**The Family's Lamp of Well-Being**
 
-Draft English title: **The Family's Lamp of Well-Being**.
+Final verified English blob:
 
-T1 results:
+`08cb986a4079ca45bce75c376cd19e603818eeb2`
 
-- complete article translated: **1 / 1**
-- source-page trace comments scans 4–13: **10 / 10**
-- scan-7 printed `சமுதாயக்கடமை` footnote association: **PRESERVED**
-- source ending: **PRESERVED**
-- outside explanatory additions to body: **0**
-- frozen Tamil changes: **0**
-- blockers: **0**.
+### English gate status
 
-The living lexicon now records T1 draft-established terminology. These choices are not release-final until T2–T4 review.
-
-Permanent translation principle:
-
-> **Translate the language; do not neutralise the voice.**
-
-## Physical-copy condition
-
-- general foxing / age staining;
-- blue-ink handwriting and library stamps on scan 2;
-- library stamp in the upper-right margin of scan 4;
-- partial circular library stamp in the lower-left margin of scan 13;
-- faint show-through on scan 14;
-- surface staining on the back cover.
-
-Printed text and physical-copy marks remain separate in the page records.
-
-## Gate status
-
-- P0 — source intake / publication identification: **COMPLETE / PASS**
-- P1 — metadata + page map + contents mapping: **COMPLETE / PASS**
-- P2 — page-level transcription: **COMPLETE / PASS**
-- P3 — article assembly: **COMPLETE / PASS**
-- P4 — source/completeness audit: **COMPLETE / PASS**
-- P5 — strict visual text-fidelity pass: **COMPLETE / PASS**
-- E0 — English translation planning/setup: **COMPLETE / PASS**
-- T0 — source prerequisite: **1 / 1 PASS**
-- T1 — close draft: **1 / 1 COMPLETE**
-- T2–T5: **0 / 1 PASS**
+- E0: **COMPLETE / PASS**
+- T0: **1 / 1 PASS**
+- T1: **1 / 1 COMPLETE**
+- T2: **1 / 1 PASS**
+- T3: **1 / 1 PASS**
+- T4: **1 / 1 PASS**
+- T5: **1 / 1 PASS / VERIFIED**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
-- unresolved blockers: **0**
-- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- English translation: **DRAFT / ACTIVE**
+- English blockers: **0**
 
-## Frozen source authority / non-regression
+### T2–T5 review result
 
-The supplied PDF scan remains the controlling witness for this edition. The final frozen Tamil article authority is:
+T2 corrected four fidelity issues; T3 made nine voice-level refinements; T4 completed terminology/source audit and corrected the literal Markdown footnote marker plus `Kailaiyangiri` → **Kayilaiyangiri**; T5 re-fetched the frozen Tamil and T4 candidate and verified the article.
 
-`f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+Final trace checks:
 
-Do not silently modernise, conventionalise, stylistically polish, homogenise terminology, or reopen source-sensitive spellings. Reopen the Tamil layer only for a genuine source-supported archival defect.
+- source-page comments scans 4–13: **10 / 10 PASS**
+- scan-7 `சமுதாயக்கடமை` / **Social Duty** footnote: **PASS**
+- source ending: **PASS**
+- numbers / dates / parliamentary sequence: **PASS**
+- frozen Tamil changes during English work: **0**
+- unresolved translation choices: **0**
 
-English translation must use the frozen article assembly above, never OCR, the earlier comparison transcription, raw scan alternatives, web text, another edition or memory.
+Detailed phase-by-phase correction provenance is in `translations/en/TRANSLATION_REVIEW.md`.
+
+## Non-regression
+
+- Frozen Tamil authority remains `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
+- Verified English authority is `08cb986a4079ca45bce75c376cd19e603818eeb2` through T5.
+- Do not reopen either layer merely for stylistic preference or conventionalisation.
+- Reopen only for a genuine source-supported Tamil defect or a genuine English fidelity/voice/terminology/release-blocking defect.
 
 ## Exact next activity
 
-**E2 — Article 1 T2 bilingual fidelity review.**
-
-1. Fetch live `main` and confirm the frozen Tamil authority and current English draft.
-2. Compare Tamil and English sentence by sentence and clause by clause.
-3. Correct omissions, additions, negative/comparison/connective errors, names, numbers, quotation/question scope, repetitions and page-trace defects.
-4. Recheck the scan-7 footnote and T1 terminology against the immediate Tamil context.
-5. Update the living lexicon, tracker, review ledger and durable handover records with every T2 finding.
-6. **STOP AFTER T2. Do not begin T3 in the same activity.**
+**E6 — publication-wide English consistency review.** This publication has one translated article, but E6 remains required by project policy to confirm the T5 English authority, final lexicon, title, source-label consistency, source-page trace and publication-level release readiness. **STOP BEFORE E7.**
