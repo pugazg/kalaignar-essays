@@ -9,11 +9,11 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | # | Tamil title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|
 | 1 | `இன முழக்கம்` | `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcb395418590c1b9875e6066b8c` | PASS | PASS | PASS | PASS | PASS | PASS |
+| 2 | `சொர்க்க லோகத்தில்` | `8fea1497ed2dcbdb395418590c1b9875e6066b8c` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | PASS | PASS | PASS | PASS | PASS | PASS |
 | 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | PASS | PASS | PASS | PASS | PASS | PASS |
-| 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | PASS | PASS | PASS | PASS | **PASS** | NEXT |
-| 6 | `கவிதைகள்` | `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` | PASS | — | — | — | — | — |
+| 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | PASS | PASS | PASS | PASS | PASS | **PASS** |
+| 6 | `கவிதைகள்` | `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` | PASS | NEXT | — | — | — | — |
 
 Tamil blockers: **0**. English blockers: **0**.
 
@@ -87,22 +87,23 @@ Article 4 is individually frozen.
 
 ---
 
-## 5. ஆரியம் பேசுகிறது — T4 COMPLETE / AUDITED
+## 5. ஆரியம் பேசுகிறது — T5 VERIFIED / INDIVIDUALLY FROZEN
 
 - Tamil source blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 - English file: `translations/en/05-aariyam-pesugirathu.md`
-- working English title: **Aryanism Speaks**
+- verified English title: **Aryanism Speaks**
 - T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
 - T2 English blob: `508639503ab830e83d8cac547476c83d26a8494f`
 - T3 English blob: `77310ccb8bac5304f15050ee0988ae26d8302b10`
 - T4 English blob: `1ecb77039eec8976ac4b25e4ff1b7dd0de2fad7e`
-- `translation_status`: `voice-reviewed` pending T5
+- T5 verified English blob: `4b1666afd885c3d8b800b08410a3dbfe498856bc`
+- `translation_status`: `verified`
 - source comments: **2 / 2 preserved in order** for scans 38–39
 - scan-38→39 trace: `Kula— / chirai`
 - Tamil source changes: **0**
 - blockers: **0**
 
-### Article 5 source-bearing decisions through T4
+### Article 5 source-bearing decisions through T5
 
 - title `ஆரியம் பேசுகிறது` → **Aryanism Speaks**; recurring `ஆரியம்` → **Aryanism**;
 - `இரணியன் / பிரகலாதன்` → **Hiraniyan / Pragalathan**;
@@ -115,7 +116,7 @@ Article 4 is individually frozen.
 - `கறுப்புப் படை` → **Black Army**;
 - closing `விபீஷண சுக்ரீவர்` → **Vibheeshanans and Sugrivans**; `உங்கள் இனம்` → **your race**.
 
-### Article 5 T2 bilingual fidelity review — preserved through T4
+### Article 5 T2 bilingual fidelity review — preserved through T5
 
 Two fidelity corrections remain intact:
 
@@ -124,15 +125,21 @@ Two fidelity corrections remain intact:
 
 After T2: omitted clauses **0**; added claims **0**; name/referent defects **0**; negative/comparison/logical-relation defects **0**; quotation-scope defects **0**; page-provenance defects **0**.
 
-### Article 5 T3 Kalaignar voice review — preserved at T4
+### Article 5 T3 Kalaignar voice review — preserved through T5
 
 T3 found the fidelity-reviewed English already preserved direct first-person personification, sarcasm/mockery, rhetorical questions, abrupt contrasts, visceral imagery, repetition and boastful cadence. **No T3 body correction was required.**
 
-### Article 5 T4 terminology / quotation / citation / source audit
+### Article 5 T4 terminology / quotation / citation / source audit — preserved at T5
 
-T4 audited the publication lexicon against the frozen Tamil and T3 English. It confirmed the title and ideological term **Aryanism Speaks / Aryanism**, all source-specific names and transliterations, **axe-handle / Kulachirai**, recurring **Gandhiyar / Gotse**, **Omaanthooraar**, quoted **“Opposition to Aryanism?”**, **Black Army**, and the closing **Vibheeshanans and Sugrivans / your race**. It also rechecked both ordered source comments and the scan-38→39 `Kula— / chirai` trace.
+T4 confirmed the title and ideological term **Aryanism Speaks / Aryanism**, all source-specific names and transliterations, **axe-handle / Kulachirai**, recurring **Gandhiyar / Gotse**, **Omaanthooraar**, quoted **“Opposition to Aryanism?”**, **Black Army**, closing **Vibheeshanans and Sugrivans / your race**, both ordered source comments and scan-38→39 `Kula— / chirai`.
 
-T4 findings: terminology defects **0**; source-witness defects **0**; quotation/citation defects **0**; source-comment/page-trace defects **0**; body corrections **0**; blockers **0**. The T4 English body is unchanged from T3; the new blob differs only because the translation-method metadata records T4 completion.
+T4 findings: terminology defects **0**; source-witness defects **0**; quotation/citation defects **0**; source-comment/page-trace defects **0**; body corrections **0**; blockers **0**.
+
+### Article 5 T5 final verification
+
+T5 reread the complete T4 English against frozen Tamil and every T1–T4 decision for completeness, meaning, directness, first-person polemical voice, terminology, source-name treatment, quotation/source treatment and page provenance. Both T2 corrections, the T3 zero-body-change result, the T4 zero-defect audit, both source comments and `Kula— / chirai` remain intact. **No final body correction was required.**
+
+T5 result: **PASS / VERIFIED**. Article 5 is individually frozen.
 
 ---
 
@@ -144,4 +151,4 @@ T4 findings: terminology defects **0**; source-witness defects **0**; quotation/
 
 ## Exact next activity
 
-**Article 5 `ஆரியம் பேசுகிறது` — T5 final article verification only.** Re-fetch frozen Tamil blob `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and T4 English blob `1ecb77039eec8976ac4b25e4ff1b7dd0de2fad7e`; reread the complete article against all T1–T4 decisions for final completeness, meaning, voice, terminology, quotation/source treatment and page provenance; preserve both T2 corrections, T3 zero-body-change result, T4 zero-defect audit, both source comments and `Kula— / chirai`; if clean, mark Article 5 `verified` and individually freeze it; **stop before Article 6 T1**.
+**Article 6 `கவிதைகள்` — T1 close English draft only.** Re-fetch frozen Tamil blob `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`; translate only the frozen assembly; preserve headings, lineation, parallelism, direct address, commands, questions, exclamations and ordered source-page comments; prioritise semantic/rhetorical fidelity over invented rhyme; record new source-bearing decisions in the lexicon and ledger; and **stop before Article 6 T2**.
