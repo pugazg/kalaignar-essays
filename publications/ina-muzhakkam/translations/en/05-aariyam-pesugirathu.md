@@ -8,8 +8,8 @@ source_tamil_blob_sha: "e5bf851cd8384dfd9a84c1607c5f22cc5fa59675"
 source_scan_pages: "38-39"
 source_printed_pages: "contents witness start 37; scan 38 numeral not visible; scan 39 visibly 38"
 language: "en"
-translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 5 T4 terminology / quotation / citation / source audit complete"
+translation_status: "verified"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 5 T5 final verification complete"
 ---
 
 # Aryanism Speaks
