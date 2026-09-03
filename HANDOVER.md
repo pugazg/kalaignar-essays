@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows:
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `0c90aa46162498834a07e28b9747d9db3760b4e8` — `Record Kolaikkalam P1 canonical structure`.
+- Last confirmed live HEAD immediately before this handover synchronization: `59fbc23979cbbd8965d1c773e30164a2cdc9039b` — `Synchronize Kolaikkalam P2 continuation prompt`.
 
 ---
 
@@ -216,6 +216,14 @@ Keep physical-copy marks separate from `# அச்சு உரை`; never reco
 - English translation: **NOT STARTED**
 - blockers: **0**
 
+## Fresh-chat transfer note — 2026-09-03
+
+- P2 was invoked in the current chat, and direct scan inspection / temporary local renders and crops began, but **no P2 page record was committed to the repository**.
+- Therefore the durable repository state remains exactly **P2 NOT STARTED / 0 of 40 page records**.
+- Temporary rendered images/crops from the previous chat are not repository artifacts and must not be treated as durable transcription evidence.
+- In a fresh chat, **attach or otherwise resolve `TVA_BOK_0063657_கொலைக்களம்.pdf` again before page-level visual verification**.
+- Do not infer that any scan has been transcribed or verified merely because it was visually inspected in the previous window.
+
 ## Source authority / non-regression
 
 The supplied scan is controlling. Preserve source-visible old glyphs, spelling, punctuation, headings, names, numbers, repetitions and separate source witnesses. Do not import OCR, web wording, later editions or contextual guesses into the archival layer.
@@ -224,11 +232,12 @@ The supplied scan is controlling. Preserve source-visible old glyphs, spelling, 
 
 **P2 — page-level transcription and direct visual verification for all 40 physical scans.**
 
-1. Re-resolve the controlling PDF and use the canonical P1 page/unit map.
-2. Create one page record for every scan **1–40**.
-3. Transcribe all source-visible printed material exactly, including front matter, `இன்பத் துளி!`, all six main prose units, and the scan-40 printer witness.
-4. Keep stamps, handwriting, tears, stains and other physical-copy marks outside `# அச்சு உரை`.
-5. Preserve visible punctuation, old glyphs, headings, numbers, paragraph boundaries and continuations; do not modernise or silently normalise.
-6. Mark a page `verified` only after direct visual comparison; flag genuinely unresolved text rather than guessing.
-7. Synchronize README/metadata/indexes/handover/prompt after all 40 page records are complete.
-8. **STOP AFTER P2. DO NOT BEGIN P3 ASSEMBLY IN THE SAME ACTIVITY.**
+1. Fetch live `main` first and preserve any newer durable state.
+2. Re-resolve/attach the controlling PDF and use the canonical P1 page/unit map.
+3. Create one page record for every scan **1–40**.
+4. Transcribe all source-visible printed material exactly, including front matter, `இன்பத் துளி!`, all six main prose units, and the scan-40 printer witness.
+5. Keep stamps, handwriting, tears, stains and other physical-copy marks outside `# அச்சு உரை`.
+6. Preserve visible punctuation, old glyphs, headings, numbers, paragraph boundaries and continuations; do not modernise or silently normalise.
+7. Mark a page `verified` only after direct visual comparison; flag genuinely unresolved text rather than guessing.
+8. Synchronize README/metadata/indexes/handover/prompt after all 40 page records are complete.
+9. **STOP AFTER P2. DO NOT BEGIN P3 ASSEMBLY IN THE SAME ACTIVITY.**
