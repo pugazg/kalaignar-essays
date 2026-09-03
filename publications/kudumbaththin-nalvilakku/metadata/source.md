@@ -106,7 +106,9 @@ The supplied scan is the controlling source for this edition. Preserve source-vi
 - unresolved / blocked body readings: **0**
 - article assembly created: **0 / 1** — deferred to P3
 
-P2 source-sensitive readings deliberately preserved for independent later P5 recheck include `மூர்த்தன்யமாக` (scan 7), `நம்பிக்கைகளிலிருந்தெல்லாம்` (scan 8), `பதினறு` twice (scan 10), `அவல் வாங்கிச் சாப்பிட்டு` (scan 12), and `ஆலாயப்` / `கயிலியங்கிரியில்` (scan 13).
+Post-P2 comparison against the user's word-for-word transcription, direct scan rechecks, and a follow-up old-Tamil-glyph review produced **35 corrected word-form occurrences** across scans 4–13. The user explicitly retained `சிந்தித்துச்` (scan 5) and `ஒருபுறத்திலே` (scan 9) unchanged.
+
+Current source-sensitive readings preserved for later independent P5 recheck include `மூர்த்தன்யமாக` (scan 7), `நம்பிக்கைகளிலிருந்தெல்லாம்` (scan 8), `பதினாறு` twice (scan 10), `அவல் வாங்கிச் சாப்பிட்டு` (scan 12), and `ஆலாய்ப்` / `கயிலையங்கிரியில்` / `இந்து மதத்திலே` (scan 13).
 
 ## Exact next activity
 
