@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows:
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `e88c9641d5bc8ffac7f7d90f15eaab6bafe17540` — `Synchronize Kudumbaththin Nalvilakku after E6`.
+- Last confirmed live HEAD immediately before this handover synchronization: `b32d96ca3e775493fe9dce3ca306b6d4d81984bc` — `Mark Kudumbaththin Nalvilakku publication released`.
 
 ---
 
@@ -110,7 +110,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 6 — குடும்பத்தின் நல்விளக்கு — TAMIL FROZEN / ENGLISH E6 COMPLETE / ACTIVE
+# Publication 6 — குடும்பத்தின் நல்விளக்கு — RELEASE COMPLETE / FROZEN
 
 Workspace: `publications/kudumbaththin-nalvilakku/`  
 Controlling source: `TVA_BOK_0065602_குடும்பத்தின்_நல்விளக்கு.pdf`
@@ -130,7 +130,7 @@ Controlling source: `TVA_BOK_0065602_குடும்பத்தின்_ந
 - printed contents page: **ABSENT / CONFIRMED**
 - visible printed numerals: scans 5–12 = `2–9`; scans 4 and 13 unnumbered; inferred `1` / `10`: **not inserted**
 
-## Tamil archival authority
+## Tamil archival authority — COMPLETE / FROZEN
 
 - P0–P5: **COMPLETE / PASS**
 - strict visual scans: **16 / 16**
@@ -148,28 +148,21 @@ Frozen Tamil blob:
 
 Do not reopen the user-reviewed old-glyph/source decisions or P5-frozen Tamil merely for conventional spelling, modernization, translation convenience or stylistic preference.
 
-## English translation — T0–T5 VERIFIED / E6 COMPLETE
+## English translation — COMPLETE / RELEASED / FROZEN
 
-Records:
-
-- `publications/kudumbaththin-nalvilakku/TRANSLATION_PLAN.md`
-- `publications/kudumbaththin-nalvilakku/translations/en/README.md`
-- `publications/kudumbaththin-nalvilakku/translations/en/LEXICON.md`
-- `publications/kudumbaththin-nalvilakku/translations/en/TRANSLATION_REVIEW.md`
-
-Verified English article:
+Released English article:
 
 `publications/kudumbaththin-nalvilakku/translations/en/01-kudumbaththin-nalvilakku.md`
 
-Verified English title:
+Released English title:
 
 **The Family's Lamp of Well-Being**
 
-T5 verified / E6 release-candidate English blob:
+Released English blob:
 
 `08cb986a4079ca45bce75c376cd19e603818eeb2`
 
-Current English gates:
+Final English gates:
 
 - E0: **COMPLETE / PASS**
 - T0: **1 / 1 PASS**
@@ -179,58 +172,42 @@ Current English gates:
 - T4: **1 / 1 PASS**
 - T5: **1 / 1 PASS / VERIFIED**
 - E6: **PASS / COMPLETE**
-- E7: **NOT STARTED**
+- E7: **PASS / RELEASE COMPLETE**
 - blockers: **0**
 
-### T2–T5 durable review summary
+### E7 durable closeout
 
-- T2 corrected **4 fidelity issues**: explicit `birth of children` wording, `39 seats` referent, scan-11 limited-family-size clause, and an unsupported `he brings` addition in the Kuchelan question.
-- T3 made **9 voice-level refinements** while preserving meaning and source force.
-- T4 confirmed terminology/name/institutional distinctions, all numbers and all **10 / 10** source-page comments; it preserved the literal scan-7 footnote marker and corrected `Kailaiyangiri` → **Kayilaiyangiri** from frozen `கயிலையங்கிரி`.
-- T5 re-fetched the frozen Tamil and T4 candidate, confirmed T0–T4 durability, and set `translation_status: verified`.
+E7 re-fetched live `main` and directly confirmed:
 
-### E6 publication-wide English consistency review
+- frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`: **PASS / unchanged**;
+- E6 English release-candidate blob `08cb986a4079ca45bce75c376cd19e603818eeb2`: **PASS / unchanged**;
+- T0–T5 and E6 durability: **PASS**;
+- article metadata/title/source scans `4–13`: **PASS**;
+- ordered source-page comments: **10 / 10 PASS**;
+- scan-7 `சமுதாயக்கடமை` / **Social Duty** footnote marker/title/association: **PASS**;
+- source ending / horizontal rule: **PASS**;
+- source exclusions scans 1–3 and 14–16: **PASS**;
+- English body/metadata drift after E6: **0**;
+- frozen Tamil changes during E7: **0**;
+- release defects / blockers: **0**.
 
-E6: **PASS / COMPLETE**.
+No verified wording was rewritten during E7. No outside wording, alternate-source replacement, stylistic homogenisation or conventionalisation was introduced.
 
-Because this publication has one English article, E6 tested publication-level internal consistency and release readiness rather than cross-article homogenization.
+Final completion record:
 
-- T5 English blob still `08cb986a4079ca45bce75c376cd19e603818eeb2`: **PASS**
-- frozen Tamil blob still `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`: **PASS**
-- title / later `lamp of well-being` image: **CONSISTENT**
-- **family welfare programme / family planning**: **CONSISTENT / deliberate source distinction**
-- literal/metaphorical **invasion** chain: **CONSISTENT**
-- **Tamil Nadu Government / Delhi Government / Central Government**: **DELIBERATE SOURCE-LABEL DISTINCTIONS / RETAINED**
-- **Lord Shiva / Shiva / Parama Sivan**: **DELIBERATE SOURCE-LABEL DISTINCTIONS / RETAINED**
-- source-bearing names/transliterations including **Kayilaiyangiri**: **PASS**
-- source-page comments: **10 / 10 PASS**
-- scan-7 **Social Duty** footnote marker/title/association: **PASS**
-- source ending: **PASS**
-- numbers/dates/parliamentary sequence: **PASS**
-- English body changes at E6: **0**
-- English metadata changes at E6: **0**
-- lexicon corrections at E6: **0**
-- frozen Tamil changes at E6: **0**
-- release-readiness blockers: **0**
+`publications/kudumbaththin-nalvilakku/PUBLICATION_COMPLETION_REVIEW.md`
 
-**E6 RESULT: PASS / COMPLETE / READY FOR E7 RELEASE CLOSEOUT.**
+**E7 RESULT: PASS / ENGLISH TRANSLATION COMPLETE / RELEASE COMPLETE / FROZEN.**
 
-## English non-regression
+## Non-regression
 
-- Translation authority remains frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
-- E6 English release-candidate authority is `08cb986a4079ca45bce75c376cd19e603818eeb2`.
-- Do not reopen verified English merely for stylistic preference or terminology conventionalisation.
-- Reopen only for a genuine fidelity, voice, terminology or release-blocking defect.
+- Frozen Tamil authority remains `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
+- Released English authority is `08cb986a4079ca45bce75c376cd19e603818eeb2`.
+- Do not reopen Tamil or English merely for stylistic preference, conventionalisation, terminology homogenisation or translation convenience.
+- Reopen only for a genuine source-supported or release-blocking defect.
 
 ## Exact next activity
 
-**E7 — English release closeout.**
+No further archival, fidelity, translation or review activity is pending for `குடும்பத்தின் நல்விளக்கு` absent a genuine source-supported or release-blocking defect.
 
-1. Fetch live `main` first and reread this handover plus the active translation records.
-2. Confirm frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
-3. Confirm E6 release-candidate English blob `08cb986a4079ca45bce75c376cd19e603818eeb2`.
-4. Confirm T0–T5 and E6 remain durable and all release records agree.
-5. Recheck article metadata/title, all **10 / 10** source-page comments, scan-7 footnote, source ending and source exclusions.
-6. Confirm no English body/metadata drift after E6 and no frozen Tamil changes.
-7. If clean, mark E7 **PASS / RELEASE COMPLETE** and the English translation **COMPLETE / RELEASED / FROZEN**.
-8. Do not rewrite verified wording merely for stylistic preference during E7.
+The next project activity is **intake or continuation of another explicitly selected Kalaignar essay/article publication**. Fetch live `main` first and follow the applicable startup guide for that publication.
