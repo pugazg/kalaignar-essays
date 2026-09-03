@@ -11,11 +11,11 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - Tamil assemblies: **6 / 6 strict-reviewed**
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **5 / 6 PASS**
-- T2: **5 / 6 PASS**
-- T3: **5 / 6 PASS**
-- T4: **5 / 6 PASS**
-- T5: **5 / 6 PASS**
+- T1: **6 / 6 PASS**
+- T2: **6 / 6 PASS**
+- T3: **6 / 6 PASS**
+- T4: **6 / 6 PASS**
+- T5: **6 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
@@ -28,17 +28,16 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | 3 | `முரசறைவாய்` | `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` | **Beat the Drum** | **T5 PASS / verified** |
 | 4 | `பழிக்குப் பழி` | `e140df7f6234e8362b9139793706533fec0c62d8` | **Revenge for Revenge** | **T5 PASS / verified** |
 | 5 | `ஆரியம் பேசுகிறது` | `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` | **Aryanism Speaks** | **T5 PASS / verified** |
-| 6 | `கவிதைகள்` | `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` | TBD | **T0 PASS / T1 NEXT** |
+| 6 | `கவிதைகள்` | `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` | **Poems** | **T5 PASS / verified** |
 
-Article 1 T5 blob: `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.  
-Article 2 T5 verified blob: `bcd98fb1abf03e3109da1c4802570b77fddfe015`.  
-Article 3 T5 verified blob: `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.  
-Article 4 T5 verified blob: `46627c3cecfd186e1735d8766ddda27414118e62`.  
-Article 5 T1 draft blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`.  
-Article 5 T2 fidelity-reviewed blob: `508639503ab830e83d8cac547476c83d26a8494f`.  
-Article 5 T3 voice-reviewed blob: `77310ccb8bac5304f15050ee0988ae26d8302b10`.  
-Article 5 T4 audited blob: `1ecb77039eec8976ac4b25e4ff1b7dd0de2fad7e`.  
-Article 5 T5 verified blob: `4b1666afd885c3d8b800b08410a3dbfe498856bc`.
+Verified English blobs:
+
+1. Article 1 — `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.
+2. Article 2 — `bcd98fb1abf03e3109da1c4802570b77fddfe015`.
+3. Article 3 — `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.
+4. Article 4 — `46627c3cecfd186e1735d8766ddda27414118e62`.
+5. Article 5 — `4b1666afd885c3d8b800b08410a3dbfe498856bc`.
+6. Article 6 — `9e6f90b00bfa9a5059f1eef6875e8cef3c3652c`.
 
 ## Translation authority
 
@@ -57,37 +56,32 @@ Article 5 T5 verified blob: `4b1666afd885c3d8b800b08410a3dbfe498856bc`.
 - scans 24 and 37 promotions, scan 40 poetry front matter/review, and scan 50 catalogue remain outside the six English bodies;
 - known P5 lexical-witness conflicts must not be replaced by scan alternatives.
 
-## Articles 1–5 T5 boundary
+## Articles 1–6 T5 boundary
 
-1. `01-ina-muzhakkam.md` — **The Clarion Call of the Race** — verified English `01d0d16c4f52cb134eba9fd35c06ad8376e256cb` — **8 / 8** source comments.
-2. `02-sorgga-logaththil.md` — **In the Heavenly Realm** — verified English `bcd98fb1abf03e3109da1c4802570b77fddfe015` — **11 / 11** source comments.
-3. `03-murasaraivai.md` — **Beat the Drum** — verified English `c526195d7eb16b2dc446f8b3b15ae674c75548d5` — **5 / 5** source comments.
-4. `04-pazhikku-pazhi.md` — **Revenge for Revenge** — verified English `46627c3cecfd186e1735d8766ddda27414118e62` — **8 / 8** source comments.
-5. `05-aariyam-pesugirathu.md` — **Aryanism Speaks** — verified English `4b1666afd885c3d8b800b08410a3dbfe498856bc` — **2 / 2** source comments.
+All six English units are individually verified and frozen. Reopen only for a genuine source-supported defect.
 
-All five are individually frozen and must not be reopened without a genuine source-supported defect.
+## Article 6 T1–T5 boundary
 
-## Article 5 T5 boundary
-
-- file: `05-aariyam-pesugirathu.md`
-- verified title: **Aryanism Speaks**
+- file: `06-kavithaigal.md`
+- verified title: **Poems**
 - status: `verified`
-- Tamil blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
-- T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
-- T2 English blob: `508639503ab830e83d8cac547476c83d26a8494f`
-- T3 English blob: `77310ccb8bac5304f15050ee0988ae26d8302b10`
-- T4 English blob: `1ecb77039eec8976ac4b25e4ff1b7dd0de2fad7e`
-- T5 verified English blob: `4b1666afd885c3d8b800b08410a3dbfe498856bc`
-- source comments: **2 / 2 preserved in order** for scans 38–39
-- scan-38→39 trace: `Kula— / chirai`
-- T2 fidelity corrections: **2 / 2 preserved**
-- T3 voice/style body corrections: **0**
-- T4 terminology/quotation/citation/source body corrections: **0**
+- Tamil blob: `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
+- T1 English blob: `fedc9d4dc196fc458b593cb60fa08f075c661f1e`
+- T2 English blob: `9da9bcbd0e5fd31d1d4f5a9592d8b1ffdc059bbe`
+- T3 English blob: `ca33119ed5b7d69a1fedb57349610d222d14ff71`
+- T4 English blob: `099397023559005dfd73087e4e14bb94eef7f672`
+- T5 verified English blob: `9e6f90b00bfa9a5059f1eef6875e8cef3c3652c`
+- source comments: **9 / 9 preserved in order** for scans 41–49
+- poem headings: **11 / 11 preserved** with source punctuation
+- T2 fidelity corrections: **5** — restored exact lineation in `Common Ownership!`; removed unsupported `war` from `drum`; restored `pure-Tamil` / `fair Tamil land`; corrected `truth` to `matter`; corrected `honeyed Tamil land` to `rich Tamil land`.
+- T3 voice/style refinements: **5** — `dress a wound`; `drew herself upright`; `quickened her pace`; `what became of my warrior's milk`; `At word that a mouse has come`.
+- T4 audit corrections: **4** — singular **Scale of Justice!**; source exclamation in **Will They Accept!**; removed added `us` from the Saivism net image; restored source-aligned sequence/lineation in the closing half of **When Will There Be Defeat?**.
 - T5 final body corrections: **0**
+- Tamil source changes: **0**
 - blockers: **0**
 
-T5 reread the complete T4 English against frozen Tamil and the T1–T4 decisions. Completeness, meaning, directness, personified polemical voice, terminology, proper/source-name treatment, quotation scope and page provenance all pass. No final body correction was required. Article 5 is individually frozen.
+Article 6 preserves source-bearing **Muthamizh**, **sotha / sothas**, **velis**, **payasam**, **Saivism / Saivites**, **Eripaththar**, **Kotpuli**, **Kulachirai**, **Varna**, epic/source names and all nine physical page comments. The source-irregular opening/closing quotation marks in `Common Ownership!` remain deliberately unmatched in English rather than being silently regularised.
 
 ## Exact next activity
 
-**Article 6 `கவிதைகள்` — T1 close English draft only.** Re-fetch frozen Tamil blob `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`; translate only from that frozen assembly; preserve all frozen poem headings, lineation, parallelism, direct address, commands, questions, exclamations and source-page comments; prioritise semantic/rhetorical fidelity over invented rhyme; record new source-bearing choices in the living lexicon and review ledger; and **stop before Article 6 T2**.
+**E6 — publication-wide English consistency review only.** Cross-check all six verified English units for recurring names/epithets, Aryan/Dravidian vocabulary, source-specific transliterations, title style, quotation treatment, source-page trace, voice consistency and accidental smoothing. Preserve each article's individually verified source-witness decisions unless a genuine cross-article defect is found. **Stop before E7 release closeout.**
