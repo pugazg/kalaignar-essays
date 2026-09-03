@@ -8,8 +8,8 @@ source_tamil_blob_sha: "6f0f6fc7ac0ed3132172d92bc1fa0378528c790c"
 source_scan_pages: "41-49"
 source_printed_pages: "40-48"
 language: "en"
-translation_status: "voice-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 6 T4 terminology / quotation / citation / source audit complete; source headings and verse lineation preserved"
+translation_status: "verified"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 6 T5 final verification complete; source headings and verse lineation preserved"
 ---
 
 # Poems
