@@ -8,73 +8,97 @@ Source SHA-256: `674a534f6c29e5abed9c7ebf52c3cfd143f494d6a21341b5d0624871c187a96
 File size: **55,495,728 bytes**  
 Source PDF committed: **No**
 
-## P0 source identity
+## Source identity
 
-The supplied scan is a small multi-piece Kalaignar publication whose cover prints:
+The supplied scan prints:
 
-- title: **`கொலைக்களம்!`**;
-- author: **`கலைஞர். மு. கருணாநிதி`**;
-- imprint/publisher line: **`முன்னேற்றப் பண்ணை`**, **`சென்னை-1`**.
+- cover title: **`கொலைக்களம்!`**;
+- cover author: **`கலைஞர். மு. கருணாநிதி`**;
+- cover imprint/publisher: **`முன்னேற்றப் பண்ணை`**, **`சென்னை-1`**;
+- scan 2: `பதிப்புரிமை`, `முதற் பதிப்பு-52`, `விலை அணா எட்டு`, and sales-rights/distributor name `எஸ். எம். ராஜமுத்து கம்பெனி`;
+- scan 40 printer witness: **`ஸ்ரீமகள் பிரஸ், சென்னை-1`**.
 
-Scan 2 prints `பதிப்புரிமை`, `முதற் பதிப்பு-52`, and `விலை அணா எட்டு`. The source prints only the abbreviated edition year `52`; this workspace must not silently expand the printed witness in diplomatic transcription. The same page carries a sales-rights/distributor line for `எஸ். எம். ராஜமுத்து கம்பெனி`; its full address is left for page-level transcription rather than normalized at intake.
+The source gives the edition year only as `52`; do not silently expand that printed witness in diplomatic transcription.
 
-The final scan (scan 40 / printed `40`) carries the printer line **`ஸ்ரீமகள் பிரஸ், சென்னை-1`**.
+## Publication form — P1 canonical structure
 
-## Publication form — P0 assessment
+This is a **multi-piece pamphlet / essay publication**.
 
-This is **not a single standalone article**. The scan contains front matter followed by a sequence of separately headed prose units.
+There is **no printed contents page** in the supplied 40 scans.
 
-Preliminary source-visible structure for P1 confirmation:
+Front matter:
 
 - scan 1 — front cover;
 - scan 2 — copyright / edition / price / sales-rights page;
-- scans 3–4 — introductory/prefatory piece headed **`இன்பத் துளி!`**;
-- scan 5 — heading **`கொலைக்களம்!`**;
-- scan 10 — heading **`‘அஸ்தி’ கரையட்டும்!`**;
-- scan 17 — heading **`பலியை நிறுத்துங்கள்!`**;
-- scan 23 — heading **`விழலுக்கு நீர் இறைத்து...`**;
-- scan 28 — heading **`சோதனை!`**;
-- scan 34 — heading **`வீரமுழக்கம் செய்திடுவீர்!`**;
-- scan 40 — final body page plus printer line.
+- scans 3–4 — introductory signed front-matter note headed **`இன்பத் துளி!`**.
 
-These are **P0 heading witnesses only**. P1 must confirm every physical scan, exact start/end boundaries, printed-page behaviour, and whether `இன்பத் துளி!` is front matter or a numbered content unit. Do not create article assemblies from this preliminary list.
+`இன்பத் துளி!` is preserved as source text but is **not counted among the six canonical main prose units** because scan 4 closes it with a signed `மு. கருணாநிதி` / `பண்ணையாளர்` ending and scan 5 begins the first main titled piece.
 
-No printed contents page has been identified in the supplied 40 scans at P0.
+Canonical main prose units:
 
-## Physical-copy evidence observed at intake
+1. **`கொலைக்களம்!`** — scans **5–9**;
+2. **`‘அஸ்தி’ கரையட்டும்!`** — scans **10–16**;
+3. **`பலியை நிறுத்துங்கள்!`** — scans **17–22**;
+4. **`விழலுக்கு நீர் இறைத்து...`** — scans **23–27**;
+5. **`சோதனை!`** — scans **28–33**;
+6. **`வீரமுழக்கம் செய்திடுவீர்!`** — scans **34–40**.
 
-The copy has substantial library/use evidence, especially in the front matter:
+Scan 40 contains the ending of Unit 6 and the final printer line; there is no separate back-cover scan in the supplied PDF.
+
+Canonical structural records:
+
+- [`indexes/page-map.md`](indexes/page-map.md)
+- [`indexes/contents.md`](indexes/contents.md)
+
+## Printed-page behaviour
+
+Only source-visible numerals are recorded. Visible numerals occur on **31 / 40** scans:
+
+`4`, `6–9`, `11–16`, `18–22`, `24–27`, `29–33`, `35–40`.
+
+Visibly unnumbered scans are:
+
+`1, 2, 3, 5, 10, 17, 23, 28, 34`.
+
+No missing numerals were inferred at P1.
+
+## Physical-copy evidence
 
 - scan 1: multiple library stamps, handwritten accession/date marks, heavy pen cancellation/marking, and a prominent paper crack/tear across the upper area;
 - scan 2: circular library stamp, upper-right paper damage/tear, dark ink marks, and later handwriting/signature near the bottom;
-- scan 3: library stamp/handwriting overlaps the upper area;
-- later body scans show age wear / spotting to varying degrees.
+- scan 3: library stamp/handwriting overlap in the upper area;
+- general age wear / spotting / handling marks are visible across the copy.
 
-Printed text and physical-copy marks must remain separate in page records.
+Printed text and physical-copy evidence must remain separate in every page record.
 
 ## Gate status
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**
-- P1 — metadata + canonical page map + contents/unit mapping: **NOT STARTED**
+- P1 — metadata + canonical page map + contents/unit mapping: **COMPLETE / PASS**
 - P2 — page-level transcription: **NOT STARTED**
 - P3 — article/unit assemblies: **NOT STARTED**
 - P4 — source/completeness audit: **NOT STARTED**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
+- physical scans structurally mapped: **40 / 40**
+- canonical main prose units: **6**
+- page records: **0 / 40**
+- article/unit assemblies: **0 / 6**
+- direct lexical page verification: **0 / 40**
 - English translation: **NOT STARTED**
-- current blockers at intake: **0**
+- blockers: **0**
 
 ## Source authority / non-regression
 
-The supplied PDF scan is the controlling witness for this edition. Do not silently modernise, correct, normalise or reconstruct Tamil. Preserve separate source witnesses, old glyphs, punctuation, headings, names, numbers, and physical-copy evidence. OCR/parsed text may assist but is not authoritative.
+The supplied PDF scan is controlling. Do not silently modernise, correct, normalise, reconstruct or improve Tamil. Preserve source-visible spelling, old glyphs, punctuation, heading forms, names, numbers, repetitions and independent source witnesses. OCR/parsed text may assist but is never authoritative.
 
 ## Exact next activity
 
-**P1 — metadata + canonical page map + contents/unit mapping for all 40 scans.**
+**P2 — page-level transcription and direct visual verification for all 40 physical scans.**
 
-1. Re-resolve the controlling PDF and inspect all scans 1–40 in order.
-2. Create `indexes/page-map.md` with one row per physical scan and only source-visible printed page numbers.
-3. Create `indexes/contents.md` recording the absence/presence of a printed contents page and the source-visible unit-heading witnesses.
-4. Confirm the exact span and status of `இன்பத் துளி!` and each of the six apparent main prose units.
-5. Record cover/imprint/printer/source-witness distinctions without beginning lexical body transcription.
-6. Update this README, `metadata/source.md`, root `HANDOVER.md`, and `docs/NEXT_CHAT_PROMPT.md`.
-7. **STOP AFTER P1. Do not begin P2 transcription in the same activity.**
+1. Create one canonical page record for every scan **1–40**.
+2. Transcribe all source-visible printed material exactly, including cover/front matter, `இன்பத் துளி!`, all six main prose units, and the final printer witness.
+3. Keep library stamps, handwriting, accession marks, tears, stains and other physical-copy marks outside `# அச்சு உரை`.
+4. Preserve visible punctuation, headings, old glyphs, numbers, paragraph boundaries and page-to-page continuations; do not modernise or silently normalise.
+5. Mark a page `verified` only after direct visual comparison; unresolved difficult readings must be flagged rather than guessed.
+6. Update dependent P2 status records after all 40 page records are complete.
+7. **STOP AFTER P2. DO NOT BEGIN P3 ASSEMBLY IN THE SAME ACTIVITY.**
