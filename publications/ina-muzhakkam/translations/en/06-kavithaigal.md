@@ -9,7 +9,7 @@ source_scan_pages: "41-49"
 source_printed_pages: "40-48"
 language: "en"
 translation_status: "verified"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 6 T5 final verification complete; source headings and verse lineation preserved"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 6 T5 final verification complete; source headings and verse lineation preserved; E6 publication-wide consistency corrections applied"
 ---
 
 # Poems
@@ -35,15 +35,15 @@ of her love?
 
 Dharman and Bhiman and the other three were not enough—  
 Panchali loved Karunan too!  
-Ah! Lakshmi and Parvathi,  
+Ah! Lakshmi and Parvati,  
 and Kalaimagal, treasure of music,  
 did not hate the sea  
 for having lost chastity!  
 Not sleight of hand! There is a story!  
-Ahalyai, a woman of a rishi clan,  
-lay with Indran;  
-Tharai, the ascetic woman,  
-desired Chandran;  
+Ahalya, a woman of a rishi clan,  
+lay with Indra;  
+Tara, the ascetic woman,  
+desired the Moon;  
 all these Puranas
 
 <!-- Tamil source: scan 42 / printed 41 -->
