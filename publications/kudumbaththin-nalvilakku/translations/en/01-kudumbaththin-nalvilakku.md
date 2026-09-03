@@ -38,7 +38,7 @@ corner—we now see many such ideas accepted within that same Hindu faith and pu
 
 Many things were considered sins. I myself spoke about one such matter at a meeting, and our friends have even brought it out in book form.* My father, at one time, was afraid even to have his photograph taken. One day a photographer came to my village. When he came and said that he would photograph everyone, many people gathered around him. They warned that having one's photograph taken would shorten one's life—that one should not be photographed. But those in my household who had travelled a little to towns and learnt that civilisation—my relatives—said that there was no danger in being photographed and
 
-* “Social Duty”, a publication of the Tamil Nadu Family Welfare Department.
+\* “Social Duty”, a publication of the Tamil Nadu Family Welfare Department.
 
 <!-- Tamil source: scan 8 / printed page 5 -->
 
@@ -76,7 +76,7 @@ Likewise, the great sage Narada assumed a woman's form and had sixty children. I
 
 <!-- Tamil source: scan 13 / printed page unnumbered -->
 
-wander all over the land, we read in mythology; we do not read that he lived properly with those sixty children. So mythology itself gives us a good example. Those who had many children were driven to run about in distress. Parama Sivan, who had only two children, lives a most exalted life in Kailaiyangiri, we read. Therefore I ask those in the Hindu religion to follow our gods at least and involve yourselves vigorously in this family welfare programme.
+wander all over the land, we read in mythology; we do not read that he lived properly with those sixty children. So mythology itself gives us a good example. Those who had many children were driven to run about in distress. Parama Sivan, who had only two children, lives a most exalted life in Kayilaiyangiri, we read. Therefore I ask those in the Hindu religion to follow our gods at least and involve yourselves vigorously in this family welfare programme.
 
 In matters of national security, just as you have taken a position that rises above religion, I ask all those of the other religions to cooperate with the measures of this Government. Through the earnest efforts of Professor Anbazhagan, who has responsibility for this department, the family welfare programme is proceeding very rapidly and successfully in Tamil Nadu. In that spirit, I ask everyone to extend their cooperation.
 
