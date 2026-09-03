@@ -16,14 +16,14 @@ No dedicated printed contents/table-of-contents page appears anywhere in the sup
 | FM2 | copyright / edition / price / sales-rights page | 2 | publication front matter | publication-data page before prose |
 | FM3 | `இன்பத் துளி!` | 3–4 | **introductory signed front-matter note** | heading begins scan 3; P2 direct verification shows scan 4 closes with `மு. நமசிவாயம்` / `பண்ணையாளர்.`; next scan opens the first main titled prose unit |
 
-`இன்பத் துளி!` is therefore not counted among the six main prose units for canonical article numbering. Its scans **3–4** now have verified P2 page records.
+`இன்பத் துளி!` is therefore not counted among the six main prose units for canonical article numbering. Its scans **3–4** have verified P2 page records.
 
 ## Canonical main-unit inventory
 
 | Unit | Source heading witness | Scan span | Start evidence | End evidence | P2 page layer |
 |---:|---|---:|---|---|---|
 | 1 | `கொலைக்களம்!` | **5–9** | large heading on scan 5 | scan 9 closes before the new heading on scan 10 | **5 / 5 verified** |
-| 2 | `‘அஸ்தி’ கரையட்டும்!` | **10–16** | heading on scan 10 | scan 16 closes before the new heading on scan 17 | **1 / 7 verified** |
+| 2 | `‘அஸ்தி’ கரையட்டும்!` | **10–16** | heading on scan 10 | scan 16 closes before the new heading on scan 17 | **7 / 7 verified** |
 | 3 | `பலியை நிறுத்துங்கள்!` | **17–22** | heading on scan 17 | scan 22 closes before the new heading on scan 23 | **0 / 6** |
 | 4 | `விழலுக்கு நீர் இறைத்து...` | **23–27** | heading on scan 23 | scan 27 closes before the new heading on scan 28 | **0 / 5** |
 | 5 | `சோதனை!` | **28–33** | heading on scan 28 | scan 33 closes before the new heading on scan 34 | **0 / 6** |
@@ -31,9 +31,9 @@ No dedicated printed contents/table-of-contents page appears anywhere in the sup
 
 ## P2 source corrections
 
+- scan 2 P2 publication-data record controls the distributor/address reading, including `எச். எஸ். ராமுலு கம்பெனி`;
 - scan 4 signature is **`மு. நமசிவாயம்`**, not the earlier P1 identification `மு. கருணாநிதி`;
-- scan 34 heading is **`வீரமுழக்கஞ் செய்திடுவீர்!`**, not the earlier normalized P1 form `வீரமுழக்கம் செய்திடுவீர்!`;
-- scan 2 publication-data page is transcribed independently in its P2 page record and must control over earlier summary-level guesses.
+- scan 34 heading is **`வீரமுழக்கஞ் செய்திடுவீர்!`**, not the earlier normalized P1 form `வீரமுழக்கம் செய்திடுவீர்!`.
 
 ## Source-witness rules
 
@@ -50,5 +50,5 @@ No dedicated printed contents/table-of-contents page appears anywhere in the sup
 - canonical main prose units: **6**;
 - main-unit boundaries confirmed: **6 / 6**;
 - source scans accounted for structurally: **40 / 40**;
-- P2 page records: **10 / 40 verified**;
-- next P2 scan: **11**.
+- P2 page records: **16 / 40 verified**;
+- next P2 scan: **17**.
