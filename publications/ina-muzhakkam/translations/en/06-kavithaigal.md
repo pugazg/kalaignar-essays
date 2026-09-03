@@ -8,8 +8,8 @@ source_tamil_blob_sha: "6f0f6fc7ac0ed3132172d92bc1fa0378528c790c"
 source_scan_pages: "41-49"
 source_printed_pages: "40-48"
 language: "en"
-translation_status: "draft"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 6 T1 close English draft complete; source headings and verse lineation preserved"
+translation_status: "fidelity-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 6 T2 bilingual fidelity review complete; source headings and verse lineation preserved"
 ---
 
 # Poems
@@ -99,11 +99,12 @@ come swiftly, you!
 
 ## Common Ownership!
 
-‘O capitalist of three hundred, four hundred velis!  
+‘Of three hundred, four hundred velis,  
+O capitalist!  
 Has even one poor person  
 risen because of you?”—  
-O comrade of whatever land  
-who asks this at every moment!  
+O comrade who asks at every moment,  
+from whatever land!  
 I welcome the question from your sturdy heart,  
 honour it and rejoice;  
 yet become a tree the moment my question rises!
@@ -190,7 +191,7 @@ Tell me,” she said—“On the back,” he said.
 
 The old woman trembled; her heart  
 burst; she took the sword;  
-toward the direction where the war drum sounded,  
+toward the direction where the drum sounded,  
 she urged on her pace!
 
 “I gave milk to a coward?  
@@ -226,9 +227,9 @@ nearing eighty.
 
 Reaching the street corner, she turned over  
 the scattered  
-Tamil bulls  
+pure-Tamil bulls  
 and looked—there,  
-to protect our Tamil land,  
+to protect our fair Tamil land,  
 a flood of blood ran!  
 Through the heap of corpses, panting,  
 she walked!  
@@ -246,7 +247,7 @@ She saw it—her heart cooled!
 my son died a warrior,” she said.  
 I was ready to cut away  
 the breast he drank from—ah!  
-Where is the scoundrel who lied without knowing the truth?  
+Where is the scoundrel who lied without knowing the matter?  
 Here is the sword! Where is his tongue?
 
 ## When Will There Be Defeat?
@@ -259,7 +260,7 @@ the mongoose that sees it
 stands sweating in panic!  
 If these great spectacles  
 unseen in the world  
-come to honeyed Tamil land,  
+come to rich Tamil land,  
 all the lion-like Tamil bulls  
 who have lived crowned with victory  
 and never shrank from battle  
