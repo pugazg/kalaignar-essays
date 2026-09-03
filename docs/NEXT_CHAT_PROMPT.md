@@ -12,7 +12,7 @@ Fetch live `main` first. Preserve any newer durable state; never reset, repeat o
 
 Last confirmed handover synchronization when this prompt was prepared:
 
-`45142ccfefb8ce5655cd1988fa5b8711796fe64c` — `Synchronize handover after Kudumbaththin Nalvilakku T5`
+`3ed64a69e84b99a656c045cf6f214c92dc68ca0f` — `Synchronize handover after Kudumbaththin Nalvilakku E6`
 
 ## Mandatory startup
 
@@ -41,13 +41,13 @@ Frozen blob:
 
 Do not reopen the Tamil body for conventional spelling, old-glyph normalization, stylistic preference or translation convenience.
 
-## English durable state — T0–T5 COMPLETE / VERIFIED
+## English durable state — T0–T5 VERIFIED / E6 COMPLETE
 
 Verified English title:
 
 **The Family's Lamp of Well-Being**
 
-Verified English blob:
+T5 verified / E6 release-candidate English blob:
 
 `08cb986a4079ca45bce75c376cd19e603818eeb2`
 
@@ -60,24 +60,28 @@ Current gates:
 - T3: **1 / 1 PASS**
 - T4: **1 / 1 PASS**
 - T5: **1 / 1 PASS / VERIFIED**
-- E6: **NOT STARTED**
+- E6: **PASS / COMPLETE**
 - E7: **NOT STARTED**
 - blockers: **0**
 
-## T2–T5 durable review summary
+## E6 durable result
 
-T2 corrected four fidelity issues; T3 made nine voice-level refinements; T4 completed the terminology/source audit, preserved the literal scan-7 footnote marker and corrected `Kailaiyangiri` → **Kayilaiyangiri** from frozen `கயிலையங்கிரி`; T5 re-fetched the authorities and verified the article.
+E6 reviewed the single verified article as a complete publication and found **0 English body changes**, **0 metadata changes**, **0 lexicon corrections**, **0 frozen Tamil changes** and **0 release-readiness blockers**.
 
-Final trace state:
+Confirmed publication-level consistency:
 
-- source-page comments scans 4–13: **10 / 10 PASS**
+- title / `lamp of well-being` image: **PASS**
+- **family welfare programme / family planning**: deliberate source distinction
+- literal/metaphorical **invasion**: **PASS**
+- **Tamil Nadu Government / Delhi Government / Central Government**: deliberate source-label distinctions
+- **Lord Shiva / Shiva / Parama Sivan**: deliberate source-label distinctions
+- source-bearing names/transliterations including **Kayilaiyangiri**: **PASS**
+- source-page comments: **10 / 10 PASS**
 - scan-7 `சமுதாயக்கடமை` / **Social Duty** footnote: **PASS**
 - source ending: **PASS**
 - numbers/dates/parliamentary sequence: **PASS**
-- unresolved translation choices: **0**
-- frozen Tamil changes during English work: **0**
 
-Verified lexicon decisions include **family welfare programme**, **family planning**, **invasion**, **sin**, **Social Duty**, **Krishna Paramatma**, **Kuchelan**, **Arignar Anna**, **Parama Sivan**, **Kayilaiyangiri**, `மூர்த்தன்யமாக` → **fiercely**, and `ஆலாய்ப் பறந்தார்கள்` → **were driven to run about in distress**.
+E6 preserved the English authority unchanged at `08cb986a4079ca45bce75c376cd19e603818eeb2`.
 
 ## Translation principle
 
@@ -87,14 +91,15 @@ Do not reopen verified English merely for stylistic preference or conventionalis
 
 ## EXACT NEXT ACTIVITY
 
-**E6 — publication-wide English consistency review.**
+**E7 — English release closeout.**
 
 1. fetch live `main` first;
-2. confirm frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc` and T5 English blob `08cb986a4079ca45bce75c376cd19e603818eeb2`;
-3. review the verified English, final lexicon, title, proper-name/source-label choices, recurring terminology, source-page trace, footnote and source ending at publication level;
-4. classify each apparent inconsistency as consistent, deliberate contextual/source exception, or correction required;
-5. do not modify frozen Tamil under E6;
-6. if English corrections are genuinely required, record them and update all dependent final blob references;
-7. synchronize plan/tracker/lexicon/review/README/handover/prompt;
-8. mark E6 **PASS / COMPLETE** only when publication-level consistency and release readiness are clean;
-9. **STOP AFTER E6. DO NOT BEGIN E7 RELEASE CLOSEOUT IN THE SAME ACTIVITY.**
+2. reread all mandatory active records above;
+3. confirm frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`;
+4. confirm E6 release-candidate English blob `08cb986a4079ca45bce75c376cd19e603818eeb2`;
+5. confirm T0–T5 and E6 remain durable and all release records agree;
+6. recheck English article metadata/title, source scans `4–13`, all **10 / 10** source-page comments, scan-7 footnote marker/title/association, source ending and publication source exclusions;
+7. confirm English body/metadata drift after E6: **0**, frozen Tamil changes: **0**, release blockers: **0**;
+8. if all checks remain clean, mark E7 **PASS / RELEASE COMPLETE** and English translation **COMPLETE / RELEASED / FROZEN** across plan/tracker/review/README/handover/prompt;
+9. create/update any publication completion/release review required by current repository precedent;
+10. do not rewrite verified English merely for stylistic preference during E7.
