@@ -14,7 +14,7 @@ Before changing anything:
 3. read `docs/FUTURE_WORK_GUIDELINES.md` completely;
 4. fetch live `main` and read this `HANDOVER.md` completely;
 5. read `docs/NEXT_CHAT_PROMPT.md` only as a convenience summary;
-6. read the active publication README / metadata / fidelity records;
+6. read the active publication README / metadata / indexes / fidelity records relevant to the current phase;
 7. preserve every released publication unless a genuine source-supported or release-blocking defect requires reopening it.
 
 Source PDFs are never committed. English translation follows: **Translate the language; do not neutralise the voice.**
@@ -24,7 +24,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `c4e6e704d0e49fd080b679baa6ba6f46f0671106` — `Record Ina Muzhakkam final release provenance`.
+- Last confirmed live HEAD immediately before this handover synchronization: `55004d985be61ba068535ed16c261104cbeb97a6` — `Record Kudumbaththin Nalvilakku source metadata`.
 
 ---
 
@@ -85,68 +85,13 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 # Publication 5 — இன முழக்கம் — RELEASE COMPLETE / FROZEN
 
-Workspace: `publications/ina-muzhakkam/`  
-Controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`
+Workspace: `publications/ina-muzhakkam/`
 
-## Source identity
-
-- title: **இன முழக்கம்**
-- title-page author: **கலைஞர் கருணாநிதி**
-- first edition: **செப்டம்பர் 1951**
-- publisher: **முன்னேற்றப் பண்ணை, சென்னை**
-- seller: **பாரி நிலையம், 59, பிராட்வே, சென்னை**
-- price: **அணா 0-8-0**
-- printer: **கே. ஜி. பிரஸ், சென்னை—1**
-- physical scans: **50**
-- source SHA-256: `f57e4070051d7bc77ab78d5d393dbefbe47791efcc3203c594c5f3949ef0dfbf`
-- source PDF committed: **No**
-
-## Publication-specific authority — USER ESTABLISHED
-
-> **Keep the words. Correct only structural order, punctuation, spacing, paragraphing, headings, misplaced words and analogous layout issues; remove unwanted non-source/OCR words.**
-
-The supplied transcription is the lexical baseline for the frozen Tamil layer; scans control structure/punctuation/quotation/page placement; scan/baseline lexical or numeric disagreements are documented, not silently substituted; English translates only frozen strict-reviewed Tamil assemblies.
-
-## Publication boundaries / exclusions
-
-- scans 1–5 — front matter / `பதிப்புரை`
-- scans 6–13 — `இன முழக்கம்`
-- scans 14–24 — `சொர்க்க லோகத்தில்`
-- scans 25–29 — `முரசறைவாய்`
-- scans 30–37 — `பழிக்குப் பழி`
-- scans 38–39 — `ஆரியம் பேசுகிறது`
-- scan 40 — `கவிதைகளைப் பற்றி` + `மதிப்புரை`
-- scans 41–49 — `கவிதைகள்`
-- scan 50 — catalogue / advertisement
-
-Scan-24/37 promotions, scan-40 front matter/review and scan-50 catalogue remain outside the six English bodies.
-
-## Final Tamil state
-
-- P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- P2: **50 / 50 COMPLETE**
-- P3: **6 / 6 COMPLETE**
-- P5 page review: **50 / 50 PASS**
-- P5 assembly recheck: **6 / 6 PASS**
-- Tamil blockers: **0**
-
-Frozen Tamil authorities:
-
-1. `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` — `இன முழக்கம்`
-2. `8fea1497ed2dcbdb395418590c1b9875e6066b8c` — `சொர்க்க லோகத்தில்`
-3. `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` — `முரசறைவாய்`
-4. `e140df7f6234e8362b9139793706533fec0c62d8` — `பழிக்குப் பழி`
-5. `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` — `ஆரியம் பேசுகிறது`
-6. `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` — `கவிதைகள்`
-
-## Final English state
-
-- E0: **COMPLETE / PASS**
-- T0–T5: **6 / 6 PASS at every gate**
+- Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**
+- English T0–T5: **6 / 6 PASS at every gate**
 - E6: **PASS / COMPLETE**
 - E7: **PASS / RELEASE COMPLETE**
-- English/release blockers: **0**
-- **English translation: COMPLETE / RELEASED / FROZEN**
+- blockers: **0**
 
 Released English authorities:
 
@@ -157,51 +102,107 @@ Released English authorities:
 5. **Aryanism Speaks** — `71656666ae7536a57f88fb5e47938c9c6c9b8e01`
 6. **Poems** — `15b9a08a0aa32305360fd6350e2fab8bb7cd40fb`
 
-All six English files retain `translation_status: verified`; E7 is publication-level release closeout.
-
-## E6 consistency boundary
-
-E6 made exactly three correction groups:
-
-1. Article 2: **Tirugnana Sambandar** → **Thirugnana Sambandar**, preserving source spacing against Article 4.
-2. Article 5: **Vibheeshanan / Sugrivan** and plural labels → **Vibhishana / Sugriva / Vibhishanas / Sugrivas**.
-3. Article 6: **Parvathi / Ahalyai / Indran / Tharai / Chandran** → **Parvati / Ahalya / Indra / Tara / the Moon**.
-
-Deliberate source-supported distinctions remain frozen: **Kamaraj Nadar / Kamarajar / Kamarajars**; **Gramaniyar / Gramaaniyar**; **Aachariyar / Aachaariyar**; **Kanaka Visayar / Kanakan / Visayan**; **Vadalur Ramalingam / Ramalingar**; **Arutperum Jothi / Arut Sothi**; Article-2 **Eripatha Nayanar** / Article-6 **Eripaththar**; Article-2 **Kotpuli Nayanar** / Article-6 **Kotpuli**; Article-4 **Varnashrama** / Article-6 **Varna**; Article-2 **Parvati Devi** / Article-6 **Parvati**.
-
-## E7 release closeout boundary
-
-- six E6 release-candidate English blobs: **6 / 6 exact match**
-- six frozen Tamil authority blobs: **6 / 6 unchanged**
-- ordered source-page comments: **43 / 43 preserved**
-- Article-6 poem headings/source lineation: **11 / 11 preserved**
-- English body changes after E6: **0 / 6**
-- English metadata changes after E6: **0 / 6**
-- source exclusions: **PASS**
-- frozen Tamil changes during E7: **0**
-- source/translation gates reopened: **No**
-- release defects: **0**
-- release blockers: **0**
-
-**E7 RESULT: PASS / ENGLISH TRANSLATION COMPLETE / RELEASE COMPLETE / FROZEN.**
-
 Final release review: `publications/ina-muzhakkam/PUBLICATION_COMPLETION_REVIEW.md`.
 
-## Permanent non-regression
-
-- Translate/review from frozen Tamil only; never substitute OCR, web, later-edition or scan-alternate lexical readings.
-- Preserve direct address, commands, questions, repetition, sarcasm, mockery, exclamations and loaded ideological/social labels.
-- Preserve source comments, page-boundary traces, quotation status and Article-6 headings/lineation.
-- Known source-sensitive forms including `பாரட்டத்`, `ஜோதில்கலந்தான்`, `மனமுள்ளார்`, `ஏறிபத்தர்`, `முடுக்கினாள்`, `போர் வீரனாம்`, `கதறினாள்` remain frozen-source governed.
-- Do not reopen released content merely for stylistic preference, terminology homogenisation or conventionalisation.
-- Reopen only for a genuine source-supported or release-blocking defect.
-
-## Current blockers
-
-**None.**
+Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Exact next activity
+# Publication 6 — குடும்பத்தின் நல்விளக்கு — P0 COMPLETE / ACTIVE
 
-No further activity is pending for `இன முழக்கம்`. **Do not automatically start another publication.** Wait for the user to identify an existing publication to continue or supply/authorize the next Kalaignar essay/article publication. When they do, fetch live `main` first and follow the corresponding live handover/source state.
+Workspace: `publications/kudumbaththin-nalvilakku/`  
+Controlling source: `TVA_BOK_0065602_குடும்பத்தின்_நல்விளக்கு.pdf`
+
+## Source identity — P0
+
+- title from cover and title page: **குடும்பத்தின் நல்விளக்கு**
+- author line as printed: **முதல்வர் டாக்டர் கலைஞர் மு. கருணாநிதி**
+- departmental publication line: **தமிழ்நாடு குடும்பநலத்துறை வெளியீடு**
+- back-cover printing line: **மாநில குடும்பநல அச்சகம், சென்னை-6**
+- physical scans: **16**
+- source SHA-256: `1c3389ec76507b0c6f2ae294a4523633e81084d570a1443c7b730ac899e15971`
+- file size: **34,464,808 bytes**
+- source PDF committed: **No**
+- edition / publication year visible in supplied scans: **not established at P0**
+- prior repository work for this title/source ID: **not found**
+
+## Publication form
+
+P0 identifies this as a **standalone single-article family-welfare pamphlet**.
+
+Preliminary physical structure from the supplied scan:
+
+- scan 1 — front cover;
+- scan 2 — title page;
+- scan 3 — author portrait;
+- scans 4–13 — single article body headed `குடும்பத்தின் நல்விளக்கு`;
+- scan 14 — visually blank page with faint show-through;
+- scan 15 — full-page family illustration;
+- scan 16 — back cover.
+
+No printed contents page is visible.
+
+## Printed-page evidence — preliminary
+
+- scan 4 article opening: no visible printed numeral;
+- scans 5–12: visible printed numbers **2–9**;
+- scan 13 article ending: no visible printed numeral.
+
+Do **not** infer missing printed page numbers into canonical records. P1 must map only source-visible evidence.
+
+## Physical-copy evidence noted at intake
+
+- general foxing / age staining;
+- blue-ink handwriting on scan 2;
+- library stamps on scan 2, including a circular stamp overlapping the lower title-page area;
+- library stamp in the upper-right margin of scan 4;
+- partial circular library stamp in the lower-left margin of scan 13;
+- faint show-through on scan 14;
+- surface marks/staining on the back cover.
+
+Printed text and physical-copy marks must remain separate in later page records. No body-text blockage has been declared at P0; lexical transcription has not begun.
+
+## Current Tamil archival status
+
+- P0 — source intake / publication identification: **COMPLETE / PASS**
+- P1 — metadata + page map + contents mapping: **NOT STARTED**
+- P2 — page-level transcription: **NOT STARTED**
+- P3 — article assembly: **NOT STARTED**
+- P4 — source/completeness audit: **NOT STARTED**
+- P5 — strict visual word/punctuation fidelity: **NOT STARTED**
+- physical page records: **0 / 16**
+- article assemblies: **0 / 1**
+- direct page verification: **0 / 16**
+- strict visual fidelity: **0 / 16**
+- blocked body readings: **0 at P0**
+
+Source records created:
+
+- `publications/kudumbaththin-nalvilakku/README.md`
+- `publications/kudumbaththin-nalvilakku/metadata/source.md`
+
+## Source authority
+
+The supplied PDF scan is the controlling witness for this edition. Do not silently modernise, correct, normalise, reconstruct or replace its Tamil from OCR, web text, memory or another edition. The filename is not authority over the scan.
+
+## English translation status
+
+- English translation: **NOT STARTED**
+- prerequisite: complete P0–P5 and freeze Tamil source first
+
+## Current blockers / unresolved questions
+
+- **No P0 blocker.**
+- Edition/year is **not visible/established** in the currently inspected source witnesses; leave it unknown unless a later direct scan witness establishes it.
+
+## Exact next activity
+
+**P1 — metadata + page map + contents mapping only.**
+
+1. Re-resolve the controlling PDF in the active chat and inspect all **16** physical scans directly.
+2. Create `publications/kudumbaththin-nalvilakku/indexes/page-map.md` covering every scan.
+3. Create `publications/kudumbaththin-nalvilakku/indexes/contents.md` explicitly recording that no printed contents page exists and that P0 identifies one article.
+4. Confirm the article boundary **scan 4 → scan 13** from source-visible heading/end evidence.
+5. Record only visible printed page numbers and physical-copy marks; do not infer missing numerals or begin lexical transcription.
+6. Synchronize README, metadata, handover and continuation prompt.
+7. **STOP AFTER P1. DO NOT BEGIN P2 PAGE TRANSCRIPTION IN THE SAME ACTIVITY.**
