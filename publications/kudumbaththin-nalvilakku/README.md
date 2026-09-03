@@ -57,13 +57,17 @@ P2 is **COMPLETE / PASS**.
 
 Page records are under [`pages/`](pages/).
 
-Source-sensitive forms deliberately retained at P2 include:
+### Post-P2 old-glyph / user-review correction batch
+
+After comparison against the user-supplied word-for-word transcription, direct scan rechecks, and the user's follow-up review of old Tamil glyphs, **35 word-form occurrences** across body scans 4–13 were corrected in the canonical page layer. The user explicitly left `சிந்தித்துச்` (scan 5) and `ஒருபுறத்திலே` (scan 9) unchanged.
+
+Current source-sensitive forms to preserve include:
 
 - scan 7 — `மூர்த்தன்யமாக`;
 - scan 8 — `நம்பிக்கைகளிலிருந்தெல்லாம்`;
-- scan 10 — `பதினறு` (twice);
+- scan 10 — `பதினாறு` (twice);
 - scan 12 — `அவல் வாங்கிச் சாப்பிட்டு`;
-- scan 13 — `ஆலாயப்`, `கயிலியங்கிரியில்`.
+- scan 13 — `ஆலாய்ப்`, `கயிலையங்கிரியில்`, `இந்து மதத்திலே`.
 
 These are source readings, not editorial normalizations. P5 will independently recheck every visible word and punctuation mark.
 
