@@ -24,7 +24,7 @@ Source PDFs are never committed. English translation follows: **Translate the la
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `a5c7606a7eec372c783950f334f8e20aa213fd1e` — `Advance Kudumbaththin Nalvilakku page map through P2`.
+- Last confirmed live HEAD immediately before this handover synchronization: `579aedb977662d2d75388fd26a4ba5faad9e1d29` — `Update Kudumbaththin Nalvilakku P2 source readings`.
 
 ---
 
@@ -147,7 +147,7 @@ Printed-page evidence remains source-visible only:
 
 ## P2 durable page layer
 
-Page records under `publications/kudumbaththin-nalvilakku/pages/` are now **16 / 16 COMPLETE / VERIFIED**.
+Page records under `publications/kudumbaththin-nalvilakku/pages/` are **16 / 16 COMPLETE / VERIFIED**.
 
 - front/end matter records: **6 / 6**
 - body lexical records scans 4–13: **10 / 10**
@@ -156,15 +156,19 @@ Page records under `publications/kudumbaththin-nalvilakku/pages/` are now **16 /
 - physical-copy marks kept separate from printed text: **PASS**
 - article assembly: **0 / 1** — not yet started
 
-Notable source-sensitive P2 readings preserved without normalization:
+### Post-P2 old-glyph / user-review correction batch
+
+After comparison against the user-supplied word-for-word transcription, direct source rechecks, and the user's follow-up review of old Tamil glyphs, **35 word-form occurrences** across body scans 4–13 were corrected in the canonical page layer. The user explicitly left `சிந்தித்துச்` on scan 5 and `ஒருபுறத்திலே` on scan 9 unchanged.
+
+Current source-sensitive readings to preserve include:
 
 - scan 7 — `மூர்த்தன்யமாக`;
 - scan 8 — `நம்பிக்கைகளிலிருந்தெல்லாம்`;
-- scan 10 — `பதினறு` twice;
+- scan 10 — `பதினாறு` twice;
 - scan 12 — `அவல் வாங்கிச் சாப்பிட்டு`;
-- scan 13 — `ஆலாயப்`, `கயிலியங்கிரியில்`.
+- scan 13 — `ஆலாய்ப்`, `கயிலையங்கிரியில்`, `இந்து மதத்திலே`.
 
-These remain subject to the independent P5 word/punctuation fidelity pass; their unusual appearance is not permission to modernize them.
+The correction batch also includes meaning-bearing fixes such as scan 8 `தாயாரையும்`, scan 12 `நிறைவேற்றாத`, and scan 13 `இந்து மதத்திலே`. These corrected page records are the authority for P3. P5 will still independently recheck every word and punctuation mark.
 
 Body continuation traces explicitly verified include scan 8→9 `மூன்று கோடி நான்கு கோடியாக` / `மாறியிருக்கும்பொழுது`, scan 9→10 final dash / `குடும்பநலத் திட்டத்திலும்`, scan 10→11 `வீட்டிலே` / `இருப்பவர்கள்`, scan 11→12 `குழந்தைகளும்` / `அரைப்பட்டினி`, and scan 12→13 `தம்புரா தூக்கிக்` / `கொண்டு ஊரெல்லாம்`.
 
@@ -185,7 +189,7 @@ Body continuation traces explicitly verified include scan 8→9 `மூன்ற
 
 ## Source authority / non-regression
 
-The supplied PDF scan remains controlling. Do not silently modernise, correct, normalise, reconstruct or replace its Tamil from OCR, web text, memory or another edition. Preserve the P2 page layer unless a later direct source-supported review identifies a genuine transcription defect.
+The supplied PDF scan remains controlling. Do not silently modernise, correct, normalise, reconstruct or replace its Tamil from OCR, web text, memory or another edition. Preserve the corrected P2 page layer unless a later direct source-supported review identifies a genuine transcription defect.
 
 ## English translation status
 
@@ -197,7 +201,7 @@ The supplied PDF scan remains controlling. Do not silently modernise, correct, n
 **P3 — article assembly for the single article `குடும்பத்தின் நல்விளக்கு` only.**
 
 1. Fetch live `main` first and reread this handover plus active publication records.
-2. Use only verified page records `pages/0004-article-opening.md` through `pages/0013-article-ending.md` as assembly authority.
+2. Use only corrected verified page records `pages/0004-article-opening.md` through `pages/0013-article-ending.md` as assembly authority.
 3. Create `articles/01-kudumbaththin-nalvilakku.md` as a source-faithful reading assembly.
 4. Preserve exact source wording, punctuation, paragraph structure, footnote and unusual forms; do not normalize.
 5. Retain page-boundary comments for scans 4–13 and verify each continuation across boundaries.
