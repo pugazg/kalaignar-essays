@@ -62,11 +62,11 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - P5 assembly recheck: **6 / 6 PASS**
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
-- T1: **5 / 6 PASS**
-- T2: **5 / 6 PASS**
-- T3: **5 / 6 PASS**
-- T4: **5 / 6 PASS**
-- T5: **5 / 6 PASS**
+- T1: **6 / 6 PASS**
+- T2: **6 / 6 PASS**
+- T3: **6 / 6 PASS**
+- T4: **6 / 6 PASS**
+- T5: **6 / 6 PASS**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
@@ -79,37 +79,34 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 5. `articles/05-aariyam-pesugirathu.md` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `articles/06-kavithaigal.md` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-## English Articles 1–5 provenance — T5 VERIFIED
+## English Articles 1–6 provenance — T5 VERIFIED
 
 1. **The Clarion Call of the Race** — T5 English `01d0d16c4f52cb134eba9fd35c06ad8376e256cb` — **8 / 8** comments.
 2. **In the Heavenly Realm** — T5 English `bcd98fb1abf03e3109da1c4802570b77fddfe015` — **11 / 11** comments.
 3. **Beat the Drum** — T5 English `c526195d7eb16b2dc446f8b3b15ae674c75548d5` — **5 / 5** comments.
 4. **Revenge for Revenge** — T5 English `46627c3cecfd186e1735d8766ddda27414118e62` — **8 / 8** comments.
 5. **Aryanism Speaks** — T5 English `4b1666afd885c3d8b800b08410a3dbfe498856bc` — **2 / 2** comments.
+6. **Poems** — T5 English `9e6f90b00bfa9a5059f1eef6875e8cef3c3652c3` — **9 / 9** comments; **11 / 11** poem headings.
 
-Articles 1–5 are individually frozen.
+Articles 1–6 are individually frozen.
 
-## English Article 5 provenance — T5 VERIFIED
+## English Article 6 provenance — T5 VERIFIED
 
-- title: **Aryanism Speaks**
-- English file: `../translations/en/05-aariyam-pesugirathu.md`
-- Tamil blob: `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
-- T1 English blob: `4630e6b7ae5539e71e279ff461f6bc75fb7acbe3`
-- T2 English blob: `508639503ab830e83d8cac547476c83d26a8494f`
-- T3 English blob: `77310ccb8bac5304f15050ee0988ae26d8302b10`
-- T4 English blob: `1ecb77039eec8976ac4b25e4ff1b7dd0de2fad7e`
-- T5 verified English blob: `4b1666afd885c3d8b800b08410a3dbfe498856bc`
+- title: **Poems**
+- English file: `../translations/en/06-kavithaigal.md`
+- Tamil blob: `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
+- T1 English blob: `fedc9d4dc196fc458b593cb60fa08f075c661f1e`
+- T2 English blob: `9da9bcbd0e5fd31d1d4f5a9592d8b1ffdc059bbe`
+- T3 English blob: `ca33119ed5b7d69a1fedb57349610d222d14ff71`
+- T4 English blob: `099397023559005dfd73087e4e14bb94eef7f672`
+- T5 verified English blob: `9e6f90b00bfa9a5059f1eef6875e8cef3c3652c3`
 - status: `verified`
-- source comments: **2 / 2 preserved in order**
-- scan-38→39 trace: `Kula— / chirai`
-- T2 fidelity corrections: **2 / 2 preserved**
-- T3 voice/style body corrections: **0**
-- T4 terminology/quotation/citation/source body corrections: **0**
-- T5 final body corrections: **0**
+- source comments: **9 / 9 preserved in order**
+- poem headings: **11 / 11 preserved**
 - Tamil source changes: **0**
 - blockers: **0**
 
-T5 reread the T4-audited English against frozen Tamil and all T1–T4 decisions. It confirmed completeness, meaning, first-person polemical voice, terminology, source-specific names, quotation scope and page provenance. Both T2 fidelity corrections, the T3 zero-body-change result, the T4 zero-defect audit, both ordered comments and the physical `Kula— / chirai` trace remain intact. No final body correction was required.
+Article 6 was translated only from the frozen strict-reviewed Tamil assembly. T2 corrected five fidelity points; T3 made five voice/style refinements; T4 corrected four heading/source/lineation issues; T5 found no final body defect. Source-sensitive `மனமுள்ளார்`, `ஏறிபத்தர்`, `முடுக்கினாள்`, `போர் வீரனாம்`, and `கதறினாள்` remain governed by the frozen Tamil, not scan alternatives. The source-irregular quotation marks in the `பொதுவுடைமையே!` poem remain deliberately unmatched in English.
 
 ## English translation exclusions / constraints
 
@@ -118,6 +115,6 @@ T5 reread the T4-audited English against frozen Tamil and all T1–T4 decisions.
 - scan 50 catalogue remains outside all six English bodies;
 - known P5 lexical-witness differences are not licences to translate from scan alternatives;
 - source-page comments are required for bilingual traceability;
-- Articles 1–5 verified decisions must not be reopened without genuine source support.
+- Articles 1–6 verified decisions must not be reopened without genuine source support.
 
-Exact next activity: **Article 6 `கவிதைகள்` — T1 close English draft only; preserve frozen headings, lineation and source trace; stop before Article 6 T2.**
+Exact next activity: **E6 publication-wide English consistency review only; stop before E7 release closeout.**
