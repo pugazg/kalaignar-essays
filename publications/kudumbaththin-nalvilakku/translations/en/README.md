@@ -22,59 +22,58 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T3 voice review: **1 / 1 PASS**
 - T4 terminology/quotation/source audit: **1 / 1 PASS**
 - T5 verified: **1 / 1 PASS**
-- E6 publication consistency: **NOT STARTED**
+- E6 publication consistency: **PASS / COMPLETE**
 - E7 release closeout: **NOT STARTED**
 - blockers: **0**
 
 ## Article tracker
 
-| # | Tamil title | Source scans | Frozen Tamil blob | English file | Verified English blob | Status | T0 | T1 | T2 | T3 | T4 | T5 |
+| # | Tamil title | Source scans | Frozen Tamil blob | English file | E6 release-candidate English blob | Status | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | `குடும்பத்தின் நல்விளக்கு` | `4–13` | `f9416fc2ad122ec803d1c75197215ddfbd13f0fc` | `01-kudumbaththin-nalvilakku.md` | `08cb986a4079ca45bce75c376cd19e603818eeb2` | `verified` | PASS | COMPLETE | PASS | PASS | PASS | PASS |
+| 1 | `குடும்பத்தின் நல்விளக்கு` | `4–13` | `f9416fc2ad122ec803d1c75197215ddfbd13f0fc` | `01-kudumbaththin-nalvilakku.md` | `08cb986a4079ca45bce75c376cd19e603818eeb2` | `verified / E6-ready` | PASS | COMPLETE | PASS | PASS | PASS | PASS |
 
 Verified English title: **The Family's Lamp of Well-Being**.
 
 ## T2–T5 closeout summary
 
-### T2 — fidelity
+T2 corrected four fidelity issues; T3 restored direct spoken force in nine places; T4 completed terminology/source audit, preserved the literal scan-7 footnote marker and corrected `Kailaiyangiri` → **Kayilaiyangiri**; T5 re-fetched the authorities and verified the article.
 
-T2 compared the full English draft sentence-by-sentence and clause-by-clause against the frozen Tamil and corrected four fidelity issues: the explicit `birth of children` invasion phrase, the `39 seats` referent, the scan-11 `there should not be more than two or three children` clause, and an unsupported `he brings` addition in the Kuchelan question.
+## E6 publication-wide consistency review — PASS / COMPLETE
 
-### T3 — voice
+Although this publication contains one translated article, E6 performed the required publication-level consistency and release-readiness check.
 
-T3 restored direct spoken force where English had become stiff, including the Gandhi transition, causal sentence, `starting point` home metaphor, repeated `left uncared for`, and the humorous `God Himself conducts Himself very properly` family-planning line. `மூர்த்தன்யமாக` → **fiercely** and `ஆலாய்ப் பறந்தார்கள்` → **were driven to run about in distress** were deliberately retained after review.
+- T5 English authority unchanged: **PASS**
+- frozen Tamil authority unchanged: **PASS**
+- title / body lamp metaphor: **CONSISTENT**
+- **family welfare programme / family planning** distinction: **CONSISTENT / deliberate**
+- literal/metaphorical **invasion** chain: **CONSISTENT**
+- **Tamil Nadu Government / Delhi Government / Central Government**: **DELIBERATE SOURCE-LABEL DISTINCTIONS**
+- **Lord Shiva / Shiva / Parama Sivan**: **DELIBERATE SOURCE-LABEL DISTINCTIONS**
+- source-bearing names/transliterations: **PASS**
+- source-page comments: **10 / 10 PASS**
+- scan-7 **Social Duty** footnote marker/title/association: **PASS**
+- source ending: **PASS**
+- numbers/dates/parliamentary sequence: **PASS**
+- English body changes required at E6: **0**
+- English metadata changes required at E6: **0**
+- lexicon corrections required at E6: **0**
+- frozen Tamil changes at E6: **0**
+- release-readiness blockers: **0**
 
-### T4 — terminology / source audit
-
-T4 confirmed terminology/name/institutional distinctions, all numbers, all **10 / 10** source-page comments and the scan-7 footnote. It corrected the Markdown footnote marker so the literal `*` is preserved and changed `Kailaiyangiri` → **Kayilaiyangiri** as the source-bearing transliteration of frozen `கயிலையங்கிரி`.
-
-### T5 — verification
-
-T5 re-fetched the frozen Tamil and T4 candidate, confirmed T0–T4 durability, source trace, footnote, title and metadata, and advanced the article to `translation_status: verified`.
-
-Final verified English blob:
+E6 release-candidate English blob remains:
 
 `08cb986a4079ca45bce75c376cd19e603818eeb2`
 
-## Final trace status
-
-- complete translated body: **YES**
-- source-page comments scans 4–13: **10 / 10 PASS**
-- scan-7 printed `சமுதாயக்கடமை` / **Social Duty** footnote association: **PASS**
-- source ending: **PASS**
-- outside explanatory additions: **0**
-- frozen Tamil modifications: **0**
-- unresolved translation choices: **0**
-
-Detailed correction provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); verified terminology is in [`LEXICON.md`](LEXICON.md).
+Detailed gate and consistency provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); E6-confirmed terminology is in [`LEXICON.md`](LEXICON.md).
 
 ## Non-regression
 
 - Translation authority remains frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
+- E6 release-candidate English authority is `08cb986a4079ca45bce75c376cd19e603818eeb2`.
 - Do not reopen verified English merely for stylistic preference or conventionalisation.
 - Reopen only for a genuine fidelity, voice, terminology or release-blocking defect.
 - Do not alter frozen Tamil to make English smoother.
 
 ## Exact next activity
 
-**E6 — publication-wide English consistency review.** This publication has one translated article, but E6 remains required by project policy to confirm the verified English, final lexicon, title, source-label consistency, page trace and publication-level release readiness. **Stop before E7 release closeout.**
+**E7 — English release closeout.** Re-fetch live `main`, confirm the frozen Tamil authority and E6 release-candidate English blob, verify T0–T5 and E6 durability, source trace, footnote, title, metadata and release records, then mark the English translation **COMPLETE / RELEASED / FROZEN** only if all checks remain clean.
