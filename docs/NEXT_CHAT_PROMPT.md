@@ -13,7 +13,7 @@ Fetch live `main` first. Preserve any newer durable state; never reset, repeat o
 
 Last confirmed handover synchronization when this prompt was prepared:
 
-`7a702185f81d43832538d46933b08030af99b64f` — `Synchronize handover after Kudumbaththin Nalvilakku P1`
+`1a1fea8cb0bf378b0c10b5d84d807861897eaa9d` — `Synchronize handover after Kudumbaththin Nalvilakku P2`
 
 ## Mandatory startup
 
@@ -27,90 +27,50 @@ Before changing anything, read completely:
 6. `publications/kudumbaththin-nalvilakku/metadata/source.md`
 7. `publications/kudumbaththin-nalvilakku/indexes/page-map.md`
 8. `publications/kudumbaththin-nalvilakku/indexes/contents.md`
+9. verified page records `publications/kudumbaththin-nalvilakku/pages/0004-article-opening.md` through `0013-article-ending.md`
 
-Read `ESSAY_TRANSLATION_GUIDE.md` only when English later enters scope; English is not yet active.
+Read `ESSAY_TRANSLATION_GUIDE.md` only when English later enters scope; English is not active.
 
-## Source must be resolved in the fresh chat
-
-The source PDF is **not committed to GitHub**. Attach or otherwise resolve the exact controlling PDF before direct scan-level work:
-
-`TVA_BOK_0065602_குடும்பத்தின்_நல்விளக்கு.pdf`
-
-Expected identity:
+## Source identity
 
 - SHA-256: `1c3389ec76507b0c6f2ae294a4523633e81084d570a1443c7b730ac899e15971`
 - file size: **34,464,808 bytes**
 - physical scans: **16**
-
-Do not substitute a different edition or web/OCR text.
-
-## Current durable state — P0–P1 COMPLETE
-
-Source identity:
-
 - title: **குடும்பத்தின் நல்விளக்கு**
 - printed author line: **முதல்வர் டாக்டர் கலைஞர் மு. கருணாநிதி**
-- departmental publication line: **தமிழ்நாடு குடும்பநலத்துறை வெளியீடு**
-- back-cover printing line: **மாநில குடும்பநல அச்சகம், சென்னை-6**
 - publication type: **standalone single-article family-welfare pamphlet**
-- edition/year: **not visibly established in the supplied scans**
+- edition/year: **not visibly established**
 
-P1 canonical structure:
+The source PDF is not committed to GitHub. P3 assembly authority is the verified P2 page layer; resolve the PDF again only when a source question requires pixel-level confirmation.
 
-1. scan 1 — front cover
-2. scan 2 — title page
-3. scan 3 — author portrait
-4. scans 4–13 — body article `குடும்பத்தின் நல்விளக்கு`
-5. scan 14 — blank/non-body leaf with faint show-through
-6. scan 15 — full-page family illustration
-7. scan 16 — back cover
+## Current durable state — P0–P2 COMPLETE
 
-Printed contents page: **ABSENT / CONFIRMED**.
-
-Article boundary: **scans 4–13 CONFIRMED**. Scan 4 carries the body heading; scan 13 ends with the closing paragraph and short horizontal rule; scan 14 is non-body.
-
-Visible printed-page evidence only:
-
-- scan 4 — no visible numeral
-- scans 5–12 — visible numerals **2–9**
-- scan 13 — no visible numeral
-
-Do not infer `1` or `10`.
-
-Canonical indexes:
-
-- `indexes/page-map.md`
-- `indexes/contents.md`
-
-## Current gate status
-
-- P0 — source intake / publication identification: **COMPLETE / PASS**
-- P1 — metadata + page map + contents mapping: **COMPLETE / PASS**
-- P2 — page-level transcription: **NOT STARTED**
-- P3 — article assembly: **NOT STARTED**
-- P4 — source/completeness audit: **NOT STARTED**
-- P5 — strict visual fidelity: **NOT STARTED**
-- physical scans structurally mapped: **16 / 16**
-- physical page records: **0 / 16**
-- English translation: **NOT STARTED**
+- P0: **COMPLETE / PASS**
+- P1: **COMPLETE / PASS**
+- P2: **COMPLETE / PASS**
+- page records: **16 / 16 verified**
+- body lexical page records scans 4–13: **10 / 10 complete**
+- unresolved / blocked P2 body readings: **0**
+- P3: **NOT STARTED**
+- P4: **NOT STARTED**
+- P5: **NOT STARTED**
+- English: **NOT STARTED**
 - blockers: **0**
 
-## Source authority
+Article boundary remains scans **4–13**. Visible printed numerals remain `2–9` on scans 5–12 only; do not infer `1` or `10`.
 
-The supplied scan is controlling. Do not silently modernise, correct, normalise, reconstruct or improve Kalaignar's Tamil. Separate printed text from library stamps, handwriting, foxing, show-through and other physical-copy marks. OCR/parsed text is not authoritative.
+Source-sensitive forms to preserve during assembly include `மூர்த்தன்யமாக`, `நம்பிக்கைகளிலிருந்தெல்லாம்`, `பதினறு`, `அவல் வாங்கிச் சாப்பிட்டு`, `ஆலாயப்`, and `கயிலியங்கிரியில்`.
 
 ## EXACT NEXT ACTIVITY
 
-**P2 — page-level transcription and direct verification for all 16 physical scans.**
+**P3 — article assembly for `குடும்பத்தின் நல்விளக்கு` only.**
 
 1. fetch live `main` first;
-2. re-read root handover, README, source metadata and both P1 indexes;
-3. resolve the exact controlling PDF;
-4. create page records for scans **1–16** under `publications/kudumbaththin-nalvilakku/pages/`;
-5. transcribe all source-visible printed matter exactly; body scans **4–13** require complete lexical transcription;
-6. keep physical-copy marks separate from `# அச்சு உரை`;
-7. preserve source punctuation, paragraphing, numbers, headings and page continuations; do not silently modernise or normalise;
-8. inspect difficult readings closely and record unresolved text explicitly rather than guessing;
-9. mark each page `verified` only after direct visual comparison;
-10. synchronize dependent records after all 16 page records are complete;
-11. **STOP AFTER P2. DO NOT BEGIN P3 ARTICLE ASSEMBLY IN THE SAME ACTIVITY.**
+2. reread root handover and all mandatory active records;
+3. use verified page records scans **4–13** as the assembly authority;
+4. create `publications/kudumbaththin-nalvilakku/articles/01-kudumbaththin-nalvilakku.md`;
+5. preserve exact Tamil wording, punctuation, paragraphing, quotations, numbers, the scan-7 printed footnote, and unusual forms;
+6. insert page-boundary source comments for every body scan and verify each continuation;
+7. do not copy page-record audit notes, physical-copy marks, or editorial commentary into the article body;
+8. update dependent README/metadata/handover/prompt after assembly;
+9. **STOP AFTER P3. DO NOT BEGIN P4 SOURCE/COMPLETENESS AUDIT IN THE SAME ACTIVITY.**
