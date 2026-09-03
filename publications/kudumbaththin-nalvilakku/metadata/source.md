@@ -26,7 +26,7 @@
 ### Scan 16 — back cover
 
 - departmental line: `தமிழ்நாடு குடும்பநலத்துறை வெளியீடு`
-- printing line: `மாநில குடும்பநல அச்சகம், சென்னை-6`
+- printer line after P5 strict visual recheck: `மாநில குடும்பநல அச்சகம்,சென்னை-6`
 
 No edition statement or publication year is visibly established in the supplied scans. Internal dates/history in the body are not publication-date evidence and must not be used to invent one.
 
@@ -60,23 +60,25 @@ The archive records visible numerals only. It does **not** infer `1` for scan 4 
 - article title: `குடும்பத்தின் நல்விளக்கு`
 - article span: **scans 4–13**
 - start witness: scan 4 heading `குடும்பத்தின் நல்விளக்கு`
-- end witness: scan 13 closing paragraph followed by a short horizontal rule
-- scan 14 is non-body/blank show-through
+- end witness: scan 13 closing paragraph followed by short horizontal rule
+- scan 14: non-body blank/show-through leaf
 
 ## Physical-copy marks / scan condition
 
-The physical copy shows age and library-use evidence kept separately from printed text in page records:
-
 - foxing and brown spotting on covers and internal leaves;
 - blue-ink handwriting and library stamps on scan 2;
-- library stamp in the upper-right margin of scan 4;
-- partial circular library stamp in the lower-left margin of scan 13;
+- library stamp upper-right on scan 4;
+- partial circular library stamp lower-left on scan 13;
 - faint show-through on scan 14;
-- additional surface marks/staining on the back cover.
+- surface staining / foxing on back cover.
+
+Printed text and physical-copy marks remain separate in page records.
 
 ## Source authority
 
 The supplied scan is the controlling source for this edition. Preserve source-visible wording, spelling, punctuation, names, dates, numbers, repetitions and unusual forms. Do not silently modernise, normalise, reconstruct hidden text, or import wording from OCR, web text, memory or another edition.
+
+The prior user review specifically established old-glyph/source readings. P5 does not override those decisions merely because a modern form appears more familiar.
 
 ## Gate results
 
@@ -105,36 +107,51 @@ The supplied scan is the controlling source for this edition. Preserve source-vi
 - body pages fully transcribed: **10 / 10** (`4–13`)
 - unresolved / blocked body readings: **0**
 
-Post-P2 comparison against the user's word-for-word transcription, direct scan rechecks, and a follow-up old-Tamil-glyph review produced **35 corrected word-form occurrences** across scans 4–13. The user explicitly retained `சிந்தித்துச்` (scan 5) and `ஒருபுறத்திலே` (scan 9) unchanged.
-
-Current source-sensitive readings preserved for later independent P5 recheck include `மூர்த்தன்யமாக` (scan 7), `நம்பிக்கைகளிலிருந்தெல்லாம்` (scan 8), `பதினாறு` twice (scan 10), `அவல் வாங்கிச் சாப்பிட்டு` (scan 12), and `ஆலாய்ப்` / `கயிலையங்கிரியில்` / `இந்து மதத்திலே` (scan 13).
+Post-P2 comparison against the user's word-for-word transcription, direct scan rechecks, and the follow-up old-Tamil-glyph review produced **35 corrected word-form occurrences** across scans 4–13. The user explicitly retained `சிந்தித்துச்` on scan 5 and `ஒருபுறத்திலே` on scan 9 unchanged.
 
 ### P3 — COMPLETE / PASS
 
 Canonical Tamil article assembly:
 
-- path: `publications/kudumbaththin-nalvilakku/articles/01-kudumbaththin-nalvilakku.md`
-- current blob SHA after P4 reconciliation: `f33d195f0952c1888510eb75e9c9b72e1fc9d6f0`
-- authority: corrected verified P2 page records scans **4–13**
-- body source-page comments: **10 / 10 preserved**
-- scan-to-scan continuations: **9 / 9 checked**
-- physical-copy/audit-note material inserted into article body: **0**
-- assembly-time lexical normalization: **0**
+`publications/kudumbaththin-nalvilakku/articles/01-kudumbaththin-nalvilakku.md`
+
+- article assemblies: **1 / 1**
+- source-page comments: **10 / 10**
+- continuations: **9 / 9**
+- scan-7 footnote preserved: **PASS**
+- physical-copy/audit material inserted into body: **0**.
 
 ### P4 — COMPLETE / PASS
 
-Detailed ledger: `publications/kudumbaththin-nalvilakku/audit.md`.
+The full 16-scan source inventory and article assembly were reconciled. One placement-only correction moved the scan-7 footnote back before the scan-8 boundary. No footnote wording changed.
 
-- physical scans reconciled: **16 / 16**
-- page records reconciled: **16 / 16**
-- article assembly reconciled: **1 / 1**
-- body source-page comments: **10 / 10**
-- body omissions: **0**
-- duplicated body text: **0**
-- page-order errors: **0**
-- unresolved completeness blockers: **0**
-- P4 corrections: **1 placement-only correction** — the scan-7 printed `சமுதாயக்கடமை` footnote was moved from after scan-8 body text to its correct scan-7 association; wording unchanged.
+### P5 — COMPLETE / PASS
+
+All **16 / 16 physical scans** were rechecked directly at the strict word/punctuation fidelity gate.
+
+P5 correction occurrences: **10**, across scans **4, 6, 7, 10, 11, 13 and 16**.
+
+Correction provenance is recorded in:
+
+`publications/kudumbaththin-nalvilakku/VISUAL_TEXT_FIDELITY_REVIEW.md`
+
+Final strict-reviewed Tamil article blob:
+
+`f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+
+Unresolved fidelity discrepancies: **0**.  
+Blockers: **0**.
+
+## Frozen Tamil authority
+
+Tamil archival status: **COMPLETE / STRICT-REVIEWED / FROZEN**.
+
+Frozen article authority:
+
+`f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+
+Do not reopen this Tamil body for stylistic polishing, conventionalisation, modern spelling, spacing preference, or terminology homogenisation. Reopen only for a genuine source-supported archival defect.
 
 ## Exact next activity
 
-**P5 — strict visual word-by-word / punctuation-by-punctuation fidelity review over all 16 physical scans.** Re-resolve the controlling PDF and recheck every visible word, punctuation mark, quotation mark, number, heading and continuation against the page layer. Record every correction with provenance, propagate genuine corrections, create `VISUAL_TEXT_FIDELITY_REVIEW.md`, and **stop before English translation**.
+**E0 — English translation planning/setup only.** Read `ESSAY_TRANSLATION_GUIDE.md` completely, create the translation scaffolding, register frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`, and **stop before translating the article body**.
