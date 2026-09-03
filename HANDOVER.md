@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows:
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `b32d96ca3e775493fe9dce3ca306b6d4d81984bc` — `Mark Kudumbaththin Nalvilakku publication released`.
+- Last confirmed live HEAD immediately before this handover synchronization: `ae2252343bf57dbbcf949e2a5589d56304ff2ece` — `Record Kolaikkalam source metadata`.
 
 ---
 
@@ -112,102 +112,98 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 # Publication 6 — குடும்பத்தின் நல்விளக்கு — RELEASE COMPLETE / FROZEN
 
-Workspace: `publications/kudumbaththin-nalvilakku/`  
-Controlling source: `TVA_BOK_0065602_குடும்பத்தின்_நல்விளக்கு.pdf`
+Workspace: `publications/kudumbaththin-nalvilakku/`
+
+- Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**
+- English T0–T5: **1 / 1 PASS / VERIFIED**
+- E6: **PASS / COMPLETE**
+- E7: **PASS / RELEASE COMPLETE**
+- frozen Tamil blob: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+- released English title: **The Family's Lamp of Well-Being**
+- released English blob: `08cb986a4079ca45bce75c376cd19e603818eeb2`
+- blockers: **0**
+
+Final release review: `publications/kudumbaththin-nalvilakku/PUBLICATION_COMPLETION_REVIEW.md`.
+
+Do not reopen without a genuine source-supported or release-blocking defect.
+
+---
+
+# Publication 7 — கொலைக்களம்! — P0 COMPLETE / ACTIVE
+
+Workspace: `publications/kolaikkalam/`  
+Controlling source: `TVA_BOK_0063657_கொலைக்களம்.pdf`
 
 ## Source identity
 
-- title: **குடும்பத்தின் நல்விளக்கு**
-- printed author line: **முதல்வர் டாக்டர் கலைஞர் மு. கருணாநிதி**
-- departmental publication line: **தமிழ்நாடு குடும்பநலத்துறை வெளியீடு**
-- strict-reviewed back-cover printer line: **மாநில குடும்பநல அச்சகம்,சென்னை-6**
-- physical scans: **16**
-- source SHA-256: `1c3389ec76507b0c6f2ae294a4523633e81084d570a1443c7b730ac899e15971`
-- file size: **34,464,808 bytes**
+- cover title: **`கொலைக்களம்!`**
+- cover author line: **`கலைஞர். மு. கருணாநிதி`**
+- cover imprint/publisher line: **`முன்னேற்றப் பண்ணை`**, **`சென்னை-1`**
+- scan-2 edition line: **`முதற் பதிப்பு-52`**
+- scan-2 price: **`விலை அணா எட்டு`**
+- scan-2 distributor/sales-rights name: **`எஸ். எம். ராஜமுத்து கம்பெனி`**
+- scan-40 printer line: **`ஸ்ரீமகள் பிரஸ், சென்னை-1`**
+- physical scans: **40**
+- source SHA-256: `674a534f6c29e5abed9c7ebf52c3cfd143f494d6a21341b5d0624871c187a96c`
+- file size: **55,495,728 bytes**
 - source PDF committed: **No**
-- edition / publication year visible: **not established**
-- article boundary: **scans 4–13 CONFIRMED**
-- printed contents page: **ABSENT / CONFIRMED**
-- visible printed numerals: scans 5–12 = `2–9`; scans 4 and 13 unnumbered; inferred `1` / `10`: **not inserted**
+- prior repository work for title/source ID: **not found**
 
-## Tamil archival authority — COMPLETE / FROZEN
+The printed edition witness contains only `52`; do not silently expand that source form inside diplomatic transcription.
 
-- P0–P5: **COMPLETE / PASS**
-- strict visual scans: **16 / 16**
-- strict-reviewed article assemblies: **1 / 1**
-- blockers: **0**
-- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
+## P0 publication-form assessment
 
-Frozen Tamil article:
+The source is a **multi-piece pamphlet / essay publication**, not a single standalone article. No printed contents page was identified at intake.
 
-`publications/kudumbaththin-nalvilakku/articles/01-kudumbaththin-nalvilakku.md`
+Preliminary heading witnesses, subject to P1 boundary confirmation:
 
-Frozen Tamil blob:
+| Heading | Opening scan | Intake status |
+|---|---:|---|
+| `இன்பத் துளி!` | 3 | introductory/prefatory piece; exact status pending P1 |
+| `கொலைக்களம்!` | 5 | apparent main prose unit |
+| `‘அஸ்தி’ கரையட்டும்!` | 10 | apparent main prose unit |
+| `பலியை நிறுத்துங்கள்!` | 17 | apparent main prose unit |
+| `விழலுக்கு நீர் இறைத்து...` | 23 | apparent main prose unit |
+| `சோதனை!` | 28 | apparent main prose unit |
+| `வீரமுழக்கம் செய்திடுவீர்!` | 34 | apparent main prose unit |
 
-`f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+Do not treat this as the canonical article map until P1 confirms every boundary.
 
-Do not reopen the user-reviewed old-glyph/source decisions or P5-frozen Tamil merely for conventional spelling, modernization, translation convenience or stylistic preference.
+## Physical-copy evidence
 
-## English translation — COMPLETE / RELEASED / FROZEN
+- scan 1 has multiple library stamps, handwritten accession/date marks, pen cancellation/overwriting and a prominent paper crack/tear across the upper area;
+- scan 2 has a circular library stamp, upper-right tear/damage, dark ink marks and later handwriting/signature near the bottom;
+- scan 3 has handwriting/stamp overlap in the upper area;
+- general age wear/spotting is visible across the copy.
 
-Released English article:
+Printed text and physical-copy marks must remain separate.
 
-`publications/kudumbaththin-nalvilakku/translations/en/01-kudumbaththin-nalvilakku.md`
+## Gate status
 
-Released English title:
+- P0 — source intake / publication identification: **COMPLETE / PASS**
+- P1 — metadata + canonical page map + contents/unit mapping: **NOT STARTED**
+- P2 — page-level transcription: **NOT STARTED**
+- P3 — article/unit assemblies: **NOT STARTED**
+- P4 — source/completeness audit: **NOT STARTED**
+- P5 — strict visual word/punctuation fidelity: **NOT STARTED**
+- physical page records: **0 / 40**
+- article/unit assemblies: **0**
+- direct lexical page verification: **0 / 40**
+- English translation: **NOT STARTED**
+- blockers at P0: **0**
 
-**The Family's Lamp of Well-Being**
+## Source authority / non-regression
 
-Released English blob:
-
-`08cb986a4079ca45bce75c376cd19e603818eeb2`
-
-Final English gates:
-
-- E0: **COMPLETE / PASS**
-- T0: **1 / 1 PASS**
-- T1: **1 / 1 COMPLETE**
-- T2: **1 / 1 PASS**
-- T3: **1 / 1 PASS**
-- T4: **1 / 1 PASS**
-- T5: **1 / 1 PASS / VERIFIED**
-- E6: **PASS / COMPLETE**
-- E7: **PASS / RELEASE COMPLETE**
-- blockers: **0**
-
-### E7 durable closeout
-
-E7 re-fetched live `main` and directly confirmed:
-
-- frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`: **PASS / unchanged**;
-- E6 English release-candidate blob `08cb986a4079ca45bce75c376cd19e603818eeb2`: **PASS / unchanged**;
-- T0–T5 and E6 durability: **PASS**;
-- article metadata/title/source scans `4–13`: **PASS**;
-- ordered source-page comments: **10 / 10 PASS**;
-- scan-7 `சமுதாயக்கடமை` / **Social Duty** footnote marker/title/association: **PASS**;
-- source ending / horizontal rule: **PASS**;
-- source exclusions scans 1–3 and 14–16: **PASS**;
-- English body/metadata drift after E6: **0**;
-- frozen Tamil changes during E7: **0**;
-- release defects / blockers: **0**.
-
-No verified wording was rewritten during E7. No outside wording, alternate-source replacement, stylistic homogenisation or conventionalisation was introduced.
-
-Final completion record:
-
-`publications/kudumbaththin-nalvilakku/PUBLICATION_COMPLETION_REVIEW.md`
-
-**E7 RESULT: PASS / ENGLISH TRANSLATION COMPLETE / RELEASE COMPLETE / FROZEN.**
-
-## Non-regression
-
-- Frozen Tamil authority remains `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
-- Released English authority is `08cb986a4079ca45bce75c376cd19e603818eeb2`.
-- Do not reopen Tamil or English merely for stylistic preference, conventionalisation, terminology homogenisation or translation convenience.
-- Reopen only for a genuine source-supported or release-blocking defect.
+The supplied scan is controlling. Preserve source-visible old glyphs, spelling, punctuation, heading forms, names, numbers and separate physical-copy marks. Do not import OCR, web wording, later editions or contextual guesses into the archival layer.
 
 ## Exact next activity
 
-No further archival, fidelity, translation or review activity is pending for `குடும்பத்தின் நல்விளக்கு` absent a genuine source-supported or release-blocking defect.
+**P1 — metadata + canonical page map + contents/unit mapping for all 40 scans.**
 
-The next project activity is **intake or continuation of another explicitly selected Kalaignar essay/article publication**. Fetch live `main` first and follow the applicable startup guide for that publication.
+1. Re-resolve the controlling PDF and inspect scans 1–40 in order.
+2. Create `publications/kolaikkalam/indexes/page-map.md` with one row per physical scan and only source-visible printed numerals.
+3. Create `publications/kolaikkalam/indexes/contents.md`, explicitly recording whether a printed contents page exists and mapping the heading witnesses.
+4. Confirm the exact span/status of `இன்பத் துளி!` and each apparent main prose unit from source starts/ends.
+5. Record cover/imprint/printer and physical-copy distinctions without beginning lexical body transcription.
+6. Synchronize publication README/source metadata, this handover and `docs/NEXT_CHAT_PROMPT.md`.
+7. **STOP AFTER P1. DO NOT BEGIN P2 TRANSCRIPTION IN THE SAME ACTIVITY.**
