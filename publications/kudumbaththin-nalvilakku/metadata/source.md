@@ -114,15 +114,27 @@ Current source-sensitive readings preserved for later independent P5 recheck inc
 Canonical Tamil article assembly:
 
 - path: `publications/kudumbaththin-nalvilakku/articles/01-kudumbaththin-nalvilakku.md`
-- blob SHA: `8bb645af0b7d1a8781e1425734ba9a104910e640`
+- current blob SHA after P4 reconciliation: `f33d195f0952c1888510eb75e9c9b72e1fc9d6f0`
 - authority: corrected verified P2 page records scans **4–13**
 - body source-page comments: **10 / 10 preserved**
 - scan-to-scan continuations: **9 / 9 checked**
-- scan-7 printed footnote: **preserved**
 - physical-copy/audit-note material inserted into article body: **0**
 - assembly-time lexical normalization: **0**
-- blockers: **0**
+
+### P4 — COMPLETE / PASS
+
+Detailed ledger: `publications/kudumbaththin-nalvilakku/audit.md`.
+
+- physical scans reconciled: **16 / 16**
+- page records reconciled: **16 / 16**
+- article assembly reconciled: **1 / 1**
+- body source-page comments: **10 / 10**
+- body omissions: **0**
+- duplicated body text: **0**
+- page-order errors: **0**
+- unresolved completeness blockers: **0**
+- P4 corrections: **1 placement-only correction** — the scan-7 printed `சமுதாயக்கடமை` footnote was moved from after scan-8 body text to its correct scan-7 association; wording unchanged.
 
 ## Exact next activity
 
-**P4 — source/completeness audit for the full 16-scan publication.** Reconcile the page layer, article assembly, indexes, front/end matter and source boundaries; identify any omissions, duplication or cross-layer drift and record corrections explicitly. **Stop before P5 strict visual word/punctuation fidelity.**
+**P5 — strict visual word-by-word / punctuation-by-punctuation fidelity review over all 16 physical scans.** Re-resolve the controlling PDF and recheck every visible word, punctuation mark, quotation mark, number, heading and continuation against the page layer. Record every correction with provenance, propagate genuine corrections, create `VISUAL_TEXT_FIDELITY_REVIEW.md`, and **stop before English translation**.
