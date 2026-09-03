@@ -1,9 +1,11 @@
-# Next Chat Prompt — Kalaignar Essays
+# Next Chat Prompt — Kalaignar Essays / குடும்பத்தின் நல்விளக்கு
 
 Use this only as a convenience handoff. **Live `main` and root `HANDOVER.md` are authoritative.**
 
 Repository: `pugazg/kalaignar-essays`  
-Branch: `main`
+Branch: `main`  
+Active publication: `publications/kudumbaththin-nalvilakku/` — **குடும்பத்தின் நல்விளக்கு**  
+Controlling source: `TVA_BOK_0065602_குடும்பத்தின்_நல்விளக்கு.pdf`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
@@ -11,55 +13,91 @@ Fetch live `main` first. Preserve any newer durable state; never reset, repeat o
 
 Last confirmed handover synchronization when this prompt was prepared:
 
-`2c20fa48c54548982a40294a66b151a81781170c` — `Synchronize handover after Ina Muzhakkam E7`
+`61564a57a53b70d761c5ba3f0779fc6640900187` — `Activate Kudumbaththin Nalvilakku after P0 intake`
 
 ## Mandatory startup
 
-Before changing anything:
+Before changing anything, read completely:
 
-1. read `ESSAY_PROCESSING_GUIDE.md` completely;
-2. read `ESSAY_TRANSLATION_GUIDE.md` completely when English is in scope;
-3. read `docs/FUTURE_WORK_GUIDELINES.md` completely;
-4. fetch live `main` and read root `HANDOVER.md` completely;
-5. read this prompt only as a convenience summary;
-6. read the selected publication's own README / source / fidelity / translation records before modifying it.
+1. `ESSAY_PROCESSING_GUIDE.md`
+2. `docs/FUTURE_WORK_GUIDELINES.md`
+3. root `HANDOVER.md`
+4. this prompt
+5. `docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`
+6. `publications/kudumbaththin-nalvilakku/README.md`
+7. `publications/kudumbaththin-nalvilakku/metadata/source.md`
 
-## Completed publication boundary — இன முழக்கம்
+Read `ESSAY_TRANSLATION_GUIDE.md` only when English later enters scope; English is not yet active.
 
-`publications/ina-muzhakkam/` is **COMPLETE / RELEASED / FROZEN in Tamil and English**.
+## Source must be resolved in the fresh chat
 
-- Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- P2: **50 / 50 COMPLETE**
-- P3: **6 / 6 COMPLETE**
-- P5 page review: **50 / 50 PASS**
-- P5 assembly recheck: **6 / 6 PASS**
-- E0: **COMPLETE / PASS**
-- T0–T5: **6 / 6 PASS at every gate**
-- E6: **PASS / COMPLETE**
-- E7: **PASS / RELEASE COMPLETE**
-- source-page comments: **43 / 43 preserved**
-- Article-6 poem headings/source lineation: **11 / 11 preserved**
-- blockers: **0**
+The source PDF is **not committed to GitHub**. Attach or otherwise resolve the exact controlling PDF before direct scan-level work:
 
-Released English authorities:
+`TVA_BOK_0065602_குடும்பத்தின்_நல்விளக்கு.pdf`
 
-1. **The Clarion Call of the Race** — `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`
-2. **In the Heavenly Realm** — `605db7873d4eaf45cbe04e683280b9b6bd649498`
-3. **Beat the Drum** — `c526195d7eb16b2dc446f8b3b15ae674c75548d5`
-4. **Revenge for Revenge** — `46627c3cecfd186e1735d8766ddda27414118e62`
-5. **Aryanism Speaks** — `71656666ae7536a57f88fb5e47938c9c6c9b8e01`
-6. **Poems** — `15b9a08a0aa32305360fd6350e2fab8bb7cd40fb`
+Expected identity:
 
-Final release review: `publications/ina-muzhakkam/PUBLICATION_COMPLETION_REVIEW.md`.
+- SHA-256: `1c3389ec76507b0c6f2ae294a4523633e81084d570a1443c7b730ac899e15971`
+- file size: **34,464,808 bytes**
+- physical scans: **16**
 
-Do not reopen `இன முழக்கம்` merely for stylistic preference, terminology homogenisation or conventionalisation. Reopen only for a genuine source-supported or release-blocking defect.
+Do not substitute a different edition or web/OCR text.
 
-## Other released publications
+## Current durable state — P0 COMPLETE
 
-The root handover also records completed/frozen boundaries for `சக்கரவர்த்தியின் திருமகன்`, `கயிற்றில் தொங்கிய கணபதி`, `உணர்ச்சிமாலை`, and `திராவிட சம்பத்து`. Treat those live boundaries as authoritative.
+The supplied scan identifies a standalone single-article family-welfare pamphlet:
 
-## NEXT ACTIVITY
+- title: **குடும்பத்தின் நல்விளக்கு**
+- printed author line: **முதல்வர் டாக்டர் கலைஞர் மு. கருணாநிதி**
+- departmental publication line: **தமிழ்நாடு குடும்பநலத்துறை வெளியீடு**
+- back-cover printing line: **மாநில குடும்பநல அச்சகம், சென்னை-6**
+- printed contents page: **none visible**
+- edition/year: **not established from the supplied scans at P0**
+- prior work/duplicate source ID in repo: **not found**
 
-There is **no automatically pending activity** for `இன முழக்கம்`.
+Preliminary scan structure:
 
-Wait for the user to identify an existing publication to continue or to supply/authorize the next Kalaignar essay/article publication. Once they do, fetch live `main` first, read the root handover, and continue from the exact live state. Do not choose or start another publication without the user's direction.
+1. scan 1 — front cover
+2. scan 2 — title page, with library stamps/handwriting
+3. scan 3 — author portrait
+4. scans 4–13 — body article `குடும்பத்தின் நல்விளக்கு`
+5. scan 14 — visually blank / faint show-through
+6. scan 15 — full-page family illustration
+7. scan 16 — back cover
+
+Preliminary printed-page evidence:
+
+- scan 4 — article opening, no visible numeral
+- scans 5–12 — visible printed numerals **2–9**
+- scan 13 — article ending, no visible numeral
+
+Do not infer missing page numbers.
+
+## Current gate status
+
+- P0 — source intake / publication identification: **COMPLETE / PASS**
+- P1 — metadata + page map + contents mapping: **NOT STARTED**
+- P2 — page-level transcription: **NOT STARTED**
+- P3 — article assembly: **NOT STARTED**
+- P4 — source/completeness audit: **NOT STARTED**
+- P5 — strict visual fidelity: **NOT STARTED**
+- English translation: **NOT STARTED**
+- blockers: **0 at P0**
+
+## Source authority
+
+The supplied scan is controlling. Do not silently modernise, correct, normalise, reconstruct or improve Kalaignar's Tamil. Separate printed text from library stamps, handwriting, foxing, show-through and other physical-copy marks. OCR/parsed text is not authoritative.
+
+## EXACT NEXT ACTIVITY
+
+**P1 — metadata + page map + contents mapping only.**
+
+1. fetch live `main` first;
+2. re-read root handover and active README/source record;
+3. resolve and directly inspect all **16** scans;
+4. create `publications/kudumbaththin-nalvilakku/indexes/page-map.md` covering every physical scan;
+5. create `publications/kudumbaththin-nalvilakku/indexes/contents.md`, explicitly recording that no printed contents page exists and that P0 identifies one body article;
+6. confirm the article start/end from scan-visible evidence, currently **scan 4 → scan 13**;
+7. record only visible printed page numbers and physical-copy marks; do not infer absent numerals;
+8. synchronize README, metadata, root handover and this prompt;
+9. **STOP AFTER P1. DO NOT BEGIN P2 PAGE TRANSCRIPTION IN THE SAME ACTIVITY.**
