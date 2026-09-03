@@ -52,8 +52,7 @@ P2 is **COMPLETE / PASS**.
 - directly visually verified: **16 / 16**;
 - body scans with complete lexical transcription: **10 / 10** (`4–13`);
 - printed/non-printed physical-copy layers kept separate: **16 / 16**;
-- unresolved / blocked body readings: **0**;
-- article assembly: **not yet created** — belongs to P3.
+- unresolved / blocked body readings: **0**.
 
 Page records are under [`pages/`](pages/).
 
@@ -71,6 +70,24 @@ Current source-sensitive forms to preserve include:
 
 These are source readings, not editorial normalizations. P5 will independently recheck every visible word and punctuation mark.
 
+## P3 article assembly
+
+P3 is **COMPLETE / PASS**.
+
+Canonical article assembly:
+
+- [`articles/01-kudumbaththin-nalvilakku.md`](articles/01-kudumbaththin-nalvilakku.md)
+- assembly blob SHA: `8bb645af0b7d1a8781e1425734ba9a104910e640`
+- assembly authority: corrected verified P2 page records scans **4–13**
+- body source-page comments preserved: **10 / 10**
+- scan-to-scan continuations checked: **9 / 9**
+- scan-7 printed footnote preserved: **PASS**
+- page-record audit notes / physical-copy marks copied into article body: **0**
+- additional lexical normalization during assembly: **0**
+- P3 blockers: **0**
+
+The article assembly is a reading copy only; the verified page layer remains the granular source authority until the later P4/P5 gates are complete.
+
 ## Physical-copy condition
 
 - general foxing / age staining;
@@ -87,10 +104,11 @@ Printed text and physical-copy marks remain separate in the page records.
 - P0 — source intake / publication identification: **COMPLETE / PASS**
 - P1 — metadata + page map + contents mapping: **COMPLETE / PASS**
 - P2 — page-level transcription: **COMPLETE / PASS**
-- P3 — article assembly: **NOT STARTED**
+- P3 — article assembly: **COMPLETE / PASS**
 - P4 — source/completeness audit: **NOT STARTED**
 - P5 — strict visual text-fidelity pass: **NOT STARTED**
 - article boundaries mapped: **1 / 1**
+- article assemblies: **1 / 1**
 - English translation: **NOT STARTED**
 - blockers: **0**
 
@@ -100,4 +118,4 @@ The supplied PDF scan is the controlling witness for this edition. Do not silent
 
 ## Exact next activity
 
-**P3 — assemble the single article `குடும்பத்தின் நல்விளக்கு` from verified page records 0004–0013 only.** Preserve exact source wording and paragraphing, add page-boundary trace comments, keep editorial/audit notes outside the body, verify every scan-to-scan continuation, update dependent records, and **stop before P4 source/completeness audit**.
+**P4 — source/completeness audit for the full publication only.** Reconcile all **16/16** page records, the single article assembly, structural indexes, front/end matter and article boundary; confirm no omissions, duplication or cross-layer drift; record any corrections explicitly. **Stop before P5 strict visual word/punctuation fidelity.**
