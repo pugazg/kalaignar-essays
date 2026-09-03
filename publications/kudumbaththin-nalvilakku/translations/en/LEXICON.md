@@ -6,53 +6,47 @@ Frozen Tamil authority: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
 
 This lexicon is a consistency aid. It does not override the frozen Tamil context and it is not permission to translate every occurrence mechanically the same way.
 
-## T2 status
+## Final T5 status
 
-T2 has checked the complete draft against the frozen Tamil article sentence by sentence and clause by clause. The choices below are **fidelity-reviewed** unless explicitly marked for T3/T4 review. They are not release-final until T5.
+Article 1 has passed **T0–T5**. The choices below are verified for this publication/article and remain source-contextual rather than universal project rules.
 
-| Tamil | Preferred English | Context / exception | First established in | Status |
-|---|---|---|---|---|
-| `குடும்பத்தின் நல்விளக்கு` | **The Family's Lamp of Well-Being** | Keeps the lamp metaphor and links `நல்` to well-being. No T2 fidelity defect; recheck voice/title style at T3/T4. | Article 1 T1 | T3/T4 review |
-| `குடும்பநலத் திட்டம்` | **family welfare programme** | Recurring policy/programme term. Kept distinct from `குடும்பக் கட்டுப்பாடு`. | Article 1 T1 | fidelity-reviewed |
-| `குடும்பக் கட்டுப்பாடு` | **family planning** | Family-size limitation / contraception context; historical force carried by surrounding argument rather than literal `family control`. | Article 1 T1 | fidelity-reviewed |
-| `மதமாச்சரியம் / மதமாச்சரியங்கள்` | **religious prejudice / religious prejudices** | Divisions/partialities to be crossed in treating family welfare as a national problem. | Article 1 T1 | fidelity-reviewed |
-| `பாபம் / பாபகரமாக` | **sin / sinful** | Retains repeated religious-moral register. | Article 1 T1 | fidelity-reviewed |
-| `படை எடுப்பு` | **invasion** | Literal Pakistan/China references and metaphorical child-birth chain. T2 confirmed the repetition is complete. | Article 1 T1 | fidelity-reviewed |
-| `சமுதாயக்கடமை` | **Social Duty** | Scan-7 printed footnote title; title status and page association preserved. | Article 1 T1 | fidelity-reviewed; T4 audit |
-| `மக்கள் தொகை` | **population** | Demographic term; distinct from generic `people`. | Article 1 T1 | fidelity-reviewed |
-| `சதவிகிதம்` | **percentage** | Parliamentary/demographic numerical argument. | Article 1 T1 | fidelity-reviewed |
-| `நாடாளுமன்றம்` | **Parliament** | Stable institutional rendering. | Article 1 T1 | fidelity-reviewed |
-| `தமிழ்நாட்டு அரசாங்கம்` | **Tamil Nadu Government** | Preserves source governmental reference without modern editorial expansion. | Article 1 T1 | fidelity-reviewed |
-| `மத்திய சர்க்கார்` | **Central Government** | Historical source wording rendered plainly. | Article 1 T1 | fidelity-reviewed |
-| `தில்லி சர்க்கார்` | **Delhi Government** | Preserves Kalaignar's source label rather than silently substituting another institutional name. | Article 1 T1 | fidelity-reviewed |
-| `கிருஷ்ணபரமாத்மா` | **Krishna Paramatma** | Source-chosen religious name/title retained rather than shortened. | Article 1 T1 | fidelity-reviewed; T4 audit |
-| `குசேலன்` | **Kuchelan** | Source-bearing name retained; no alternate mythological identification imported. | Article 1 T1 | fidelity-reviewed; T4 audit |
-| `குபேரன்` | **Kubera** | Used in the source's Kuchelan example. | Article 1 T1 | fidelity-reviewed; T4 audit |
-| `நாரத மகாமுனிவர்` | **the great sage Narada** | Carries the source honorific function in readable English. | Article 1 T1 | fidelity-reviewed; T4 audit |
-| `பிள்ளையார்` | **Pillaiyar** | Source label retained rather than silently substituting another name. | Article 1 T1 | fidelity-reviewed; T4 audit |
-| `பரமசிவன்` | **Parama Sivan** | Source-bearing form in the closing comparison; distinguish from earlier `சிவபெருமான்` rendered `Lord Shiva` / `Shiva`. | Article 1 T1 | fidelity-reviewed; T4 audit |
-| `கயிலையங்கிரி` | **Kailaiyangiri** | User-reviewed frozen Tamil reading; deliberately not normalized to a familiar place name. Transliteration form requires T4 check. | Article 1 T1 | T4 review |
-| `அவல்` | **flattened rice** | T2 removed the added phrase `he brings`; no outside narrative remains. | Article 1 T1 | fidelity-reviewed |
-| `ஆலாய்ப் பறந்தார்கள்` | **were driven to run about in distress** | No T2 semantic contradiction found; explicit T3 voice/idiom review remains. | Article 1 T1 | T3 review |
-| `அறிஞர் அண்ணா` | **Arignar Anna** | Source honorific/name form retained in the English body. | Article 1 T1 | fidelity-reviewed; T4 audit |
-| `மூர்த்தன்யமாக` | **fiercely** | Contextual rendering of the frozen unusual source form; semantically acceptable at T2, explicit T3 voice check remains. | Article 1 T1 | T3 review |
+| Tamil | Preferred English | Context / exception | Status |
+|---|---|---|---|
+| `குடும்பத்தின் நல்விளக்கு` | **The Family's Lamp of Well-Being** | Preserves the `நல்விளக்கு` lamp metaphor and matches the later image of the lamp of well-being burning in homes. | verified |
+| `குடும்பநலத் திட்டம்` | **family welfare programme** | Recurring policy/programme term; distinct from `குடும்பக் கட்டுப்பாடு`. | verified |
+| `குடும்பக் கட்டுப்பாடு` | **family planning** | Family-size limitation / contraception context. | verified |
+| `மதமாச்சரியம் / மதமாச்சரியங்கள்` | **religious prejudice / religious prejudices** | Religious divisions/partialities to be crossed. | verified |
+| `பாபம் / பாபகரமாக` | **sin / sinful** | Retains repeated religious-moral register. | verified |
+| `படை எடுப்பு` | **invasion** | Literal Pakistan/China references and metaphorical child-birth chain. | verified |
+| `சமுதாயக்கடமை` | **Social Duty** | Scan-7 printed footnote title; literal footnote marker and page association preserved. | verified |
+| `மக்கள் தொகை` | **population** | Demographic term. | verified |
+| `சதவிகிதம்` | **percentage** | Parliamentary/demographic numerical argument. | verified |
+| `நாடாளுமன்றம்` | **Parliament** | Stable institutional rendering. | verified |
+| `தமிழ்நாட்டு அரசாங்கம்` | **Tamil Nadu Government** | Source governmental label. | verified |
+| `மத்திய சர்க்கார்` | **Central Government** | Source label retained without modern editorial expansion. | verified |
+| `தில்லி சர்க்கார்` | **Delhi Government** | Preserves Kalaignar's distinct source label. | verified |
+| `கிருஷ்ணபரமாத்மா` | **Krishna Paramatma** | Source-chosen religious name/title retained. | verified |
+| `குசேலன்` | **Kuchelan** | Source-bearing name; no alternate mythological identification imported. | verified |
+| `குபேரன்` | **Kubera** | Conventional readable form in the Kuchelan example. | verified |
+| `நாரத மகாமுனிவர்` | **the great sage Narada** | Carries the source honorific function. | verified |
+| `பிள்ளையார்` | **Pillaiyar** | Source label retained. | verified |
+| `பரமசிவன்` | **Parama Sivan** | Preserves the source switch from earlier `சிவபெருமான்` rendered `Lord Shiva` / `Shiva`. | verified |
+| `கயிலையங்கிரி` | **Kayilaiyangiri** | Source-bearing transliteration of the user-reviewed frozen Tamil; deliberately not normalized to a familiar external place name. | verified |
+| `அவல்` | **flattened rice** | No outside narrative added after T2 correction. | verified |
+| `ஆலாய்ப் பறந்தார்கள்` | **were driven to run about in distress** | Deliberately slightly rough to preserve movement/distress rather than abstract the unusual source phrase. | verified |
+| `அறிஞர் அண்ணா` | **Arignar Anna** | Source honorific/name form retained. | verified |
+| `மூர்த்தன்யமாக` | **fiercely** | Contextual rendering of the frozen unusual source form; Tamil spelling remains untouched. | verified |
 
-## T2 correction notes
+## Final non-regression
 
-- `குழந்தைகளுடைய ‘பிறப்பு’` is now explicitly rendered as **the ‘birth’ of children** inside the invasion analogy.
-- The parliamentary `39` is explicitly identified as **39 seats** from its source context; all `39 / 41 / 1951—52` values remain unchanged.
-- `இருத்தல் ஆகாது என்கின்ற சலிப்பு` is rendered as **come to feel that there should not be more than two or three children**, replacing the stronger draft wording `grow weary`.
-- The Kuchelan sentence no longer adds `he brings` to `அவல் வாங்கிச் சாப்பிட்டு`.
-
-## Non-regression
-
-- Frozen Tamil controls every English choice.
-- User-reviewed old-glyph forms are not editorial errors to be modernised during translation.
+- Frozen Tamil controls: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
+- Do not reopen user-reviewed old-glyph Tamil for English convenience.
 - Keep **family welfare programme** distinct from **family planning**.
 - Preserve literal/metaphorical **invasion** repetition.
-- Do not import external identifications or standardize source-bearing names merely for familiarity.
-- T3 should review rhetorical force of `மூர்த்தன்யமாக` and `ஆலாய்ப் பறந்தார்கள்`; T4 should audit title/name/transliteration consistency.
+- Preserve source-label distinctions **Tamil Nadu Government / Delhi Government / Central Government**.
+- Preserve source-bearing names and the final **Kayilaiyangiri** transliteration; do not substitute familiar external identifications merely for conventionality.
+- Do not reopen verified English merely for stylistic preference; reopen only for a genuine fidelity, voice, terminology or release-blocking defect.
 
-## Exact next lexicon activity
+## Next lexicon activity
 
-During **T3 voice review**, test whether the T2-faithful English still carries Kalaignar's directness, humour, questions, repetitions and sharp comparisons. Then audit terminology/names at T4 as explicitly authorised by the user.
+Use this verified lexicon in **E6 publication-wide English consistency review**. Since this publication has one article, E6 should still confirm internal consistency and release readiness without reopening T5 merely for preference.
