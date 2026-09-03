@@ -9,7 +9,7 @@ source_scan_pages: "38-39"
 source_printed_pages: "contents witness start 37; scan 38 numeral not visible; scan 39 visibly 38"
 language: "en"
 translation_status: "verified"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 5 T5 final verification complete"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 5 T5 final verification complete; E6 publication-wide consistency correction applied"
 ---
 
 # Aryanism Speaks
@@ -18,9 +18,9 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice; 
 
 I smashed to dust Pragalathan's affection for his father, Hiraniyan........ I set Pragalathan against his father, drank Hiraniyan's life and belched.
 
-Vibheeshanan was the younger brother of Ravanan, king of southern Lanka. I cast a net of desire around him. He was caught. Lanka grew dark. I lived on after taking my revenge on Ravanan.
+Vibhishana was the younger brother of Ravanan, king of southern Lanka. I cast a net of desire around him. He was caught. Lanka grew dark. I lived on after taking my revenge on Ravanan.
 
-Vali and Sugrivan were inseparable brothers; a quarrel in the family! I used it for the growth of my clan, set Vali and Sugrivan against each other, and witnessed the chapter of Vali's slaying.
+Vali and Sugriva were inseparable brothers; a quarrel in the family! I used it for the growth of my clan, set Vali and Sugriva against each other, and witnessed the chapter of Vali's slaying.
 
 Eight thousand Jain elders! Do you know what hardships they endured to nurture Jainism? I found an axe-handle called Kula—
 
@@ -34,6 +34,6 @@ Because a few Dravidian newspapers wrote of my dreadful form, I demanded of Omaa
 
 Why are you glaring? If I wish, I can remove anyone from the throne.
 
-As long as there are Vibheeshanans and Sugrivans in your race, there will be a feast for me here!
+As long as there are Vibhishanas and Sugrivas in your race, there will be a feast for me here!
 
 —→×←—
