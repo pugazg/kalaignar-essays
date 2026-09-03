@@ -8,8 +8,8 @@ source_tamil_blob_sha: "6f0f6fc7ac0ed3132172d92bc1fa0378528c790c"
 source_scan_pages: "41-49"
 source_printed_pages: "40-48"
 language: "en"
-translation_status: "fidelity-reviewed"
-translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 6 T2 bilingual fidelity review complete; source headings and verse lineation preserved"
+translation_status: "voice-reviewed"
+translation_method: "close rhetorical translation preserving Kalaignar's voice; Article 6 T3 Kalaignar voice review complete; source headings and verse lineation preserved"
 ---
 
 # Poems
@@ -18,7 +18,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice; 
 
 ## Scales of Justice!
 
-You will put medicine on a wound  
+You will dress a wound with medicine  
 and seek a way to heal it!  
 Like the pupil within the eye,  
 the heart rolls—a widow  
@@ -182,7 +182,7 @@ This is no time for fun, grandmother—leave
 your customary teasing.  
 ‘Your son died in the field,’  
 he said—her heart  
-broke; the old mother straightened herself once!
+broke; the old mother drew herself upright!
 
 “When playing dice, pieces  
 are cut down—the battlefield is the same.  
@@ -192,7 +192,7 @@ Tell me,” she said—“On the back,” he said.
 The old woman trembled; her heart  
 burst; she took the sword;  
 toward the direction where the drum sounded,  
-she urged on her pace!
+she quickened her pace!
 
 “I gave milk to a coward?  
 This fellow lying face-down—  
@@ -219,8 +219,8 @@ as a son—you ate and grew fat;
 where are those shoulders surging with arrogance?  
 Did they not even itch, alas!  
 O coward unable to show  
-the spear its way—tell me where  
-my warrior's milk went!”
+the spear its way—tell me what became  
+of my warrior's milk!”
 
 Thus wailed the poor old woman  
 nearing eighty.
@@ -252,7 +252,7 @@ Here is the sword! Where is his tongue?
 
 ## When Will There Be Defeat?
 
-At the news that a mouse has come,  
+At word that a mouse has come,  
 a fierce cat hides  
 beside the stove!  
 As a snake darts dancing by,  
