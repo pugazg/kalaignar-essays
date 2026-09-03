@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows:
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `bb4136d389e35a339da52fb4d19a245cb50aa9cf` — `Record Kudumbaththin Nalvilakku E0 translation setup`.
+- Last confirmed live HEAD immediately before this handover synchronization: `cccbc687fa8cd2cbe93c0c557c36b0565e916044` — `Record Kudumbaththin Nalvilakku English draft status`.
 
 ---
 
@@ -110,7 +110,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 6 — குடும்பத்தின் நல்விளக்கு — TAMIL FROZEN / E0 COMPLETE / ACTIVE FOR ENGLISH
+# Publication 6 — குடும்பத்தின் நல்விளக்கு — TAMIL FROZEN / ENGLISH T1 COMPLETE / ACTIVE
 
 Workspace: `publications/kudumbaththin-nalvilakku/`  
 Controlling source: `TVA_BOK_0065602_குடும்பத்தின்_நல்விளக்கு.pdf`
@@ -176,40 +176,75 @@ The user explicitly retained `சிந்தித்துச்` on scan 5 an
 
 ## English E0 — COMPLETE / PASS
 
-E0 planning/setup has been completed without creating an English article body.
-
-Created:
+Translation setup records:
 
 - `publications/kudumbaththin-nalvilakku/TRANSLATION_PLAN.md`
 - `publications/kudumbaththin-nalvilakku/translations/en/README.md`
 - `publications/kudumbaththin-nalvilakku/translations/en/LEXICON.md`
 - `publications/kudumbaththin-nalvilakku/translations/en/TRANSLATION_REVIEW.md`
 
-Translation authority registered:
+Translation authority: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
+
+## English E1 — Article 1 T0 + T1 COMPLETE
+
+T0 re-fetched the frozen Tamil article and confirmed the blob exactly:
 
 `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
 
-Article inventory:
+Complete English close draft:
 
-| # | Tamil title | Scans | Frozen Tamil blob | English status |
-|---:|---|---|---|---|
-| 1 | `குடும்பத்தின் நல்விளக்கு` | `4–13` | `f9416fc2ad122ec803d1c75197215ddfbd13f0fc` | `not-started` |
+`publications/kudumbaththin-nalvilakku/translations/en/01-kudumbaththin-nalvilakku.md`
 
-Current English gates:
+Current English draft blob:
+
+`d5ae4e7696534f560e34578763dd0c735b689b86`
+
+Draft English title:
+
+**The Family's Lamp of Well-Being**
+
+T1 results:
+
+- English article files: **1 / 1**
+- article status: **draft**
+- complete body translated: **YES**
+- source-page trace comments scans 4–13: **10 / 10**
+- scan-7 printed `சமுதாயக்கடமை` footnote association: **PRESERVED**
+- source ending / rule: **PRESERVED**
+- frozen Tamil changes: **0**
+- outside explanatory additions to body: **0**
+- blockers: **0**.
+
+The first draft initially missed only the explicit scan-11 trace comment; the translated text itself was present. This was corrected before T1 closure. Current trace count is **10 / 10**.
+
+### T1 living-lexicon decisions
+
+Draft-established choices include:
+
+- `குடும்பநலத் திட்டம்` → **family welfare programme**;
+- `குடும்பக் கட்டுப்பாடு` → **family planning**;
+- `படை எடுப்பு` → **invasion** in both literal and metaphorical uses;
+- `பாபம்` → **sin**;
+- `சமுதாயக்கடமை` → **Social Duty**;
+- `கிருஷ்ணபரமாத்மா` → **Krishna Paramatma**;
+- `குசேலன்` → **Kuchelan**;
+- `கயிலையங்கிரி` → **Kailaiyangiri**.
+
+`ஆலாய்ப் பறந்தார்கள்` and the contextual English force of frozen `மூர்த்தன்யமாக` remain explicit T2/T3 review priorities. T1 choices are not release-final merely because they are in the lexicon.
+
+## Current English gates
 
 - E0: **COMPLETE / PASS**
-- T0: **0 / 1 PASS**
-- T1: **0 / 1 COMPLETE**
+- T0: **1 / 1 PASS**
+- T1: **1 / 1 COMPLETE**
 - T2: **0 / 1 PASS**
 - T3: **0 / 1 PASS**
 - T4: **0 / 1 PASS**
 - T5: **0 / 1 PASS**
 - E6: **NOT STARTED**
 - E7: **NOT STARTED**
-- English body files: **0 / 1**
+- English body files: **1 / 1 draft**
 - blockers: **0**
-
-The E0 lexicon contains only a high-risk Tamil terminology inventory; preferred English renderings are still pending and must be established from the frozen article during T1.
 
 ## English non-regression
 
@@ -218,16 +253,17 @@ The E0 lexicon contains only a high-risk Tamil terminology inventory; preferred 
 - Preserve the scan-7 `சமுதாயக்கடமை` footnote and page association.
 - Do not add present-day political, medical, religious or historical commentary to Kalaignar's body text.
 - Use the living lexicon as a consistency aid, not a mechanical substitution table.
+- Do not alter frozen Tamil to make English smoother.
 
 ## Exact next activity
 
-**E1 — Article 1 T0 + T1 close English draft.**
+**E2 — Article 1 T2 bilingual fidelity review.**
 
 1. Fetch live `main` first and reread this handover plus the translation plan/tracker/lexicon/review ledger.
-2. Re-fetch `articles/01-kudumbaththin-nalvilakku.md` and confirm its blob is exactly `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
-3. Mark Article 1 T0 **PASS** only after that confirmation.
-4. Create `translations/en/01-kudumbaththin-nalvilakku.md` and translate the entire article paragraph by paragraph.
-5. Preserve all **10** source-page comments and the scan-7 footnote association.
-6. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker and plan with T1 decisions/status.
-7. Mark T1 **COMPLETE** only when the full article draft is present.
-8. **STOP AFTER T1. DO NOT BEGIN T2 BILINGUAL FIDELITY REVIEW IN THE SAME ACTIVITY.**
+2. Re-fetch frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc` and current English draft.
+3. Compare them sentence by sentence and clause by clause.
+4. Check omissions/additions, negatives, comparisons, logical connectors, names/referents, dates/numbers, quotations/questions/exclamations, repetitions and all ten source-page comments.
+5. Recheck the scan-7 footnote and every T1 lexicon choice against immediate Tamil context.
+6. Record every T2 finding/correction in `TRANSLATION_REVIEW.md` and update the lexicon/tracker/plan and dependent records.
+7. Mark T2 **PASS** only after the whole article has been reviewed.
+8. **STOP AFTER T2. DO NOT BEGIN T3 VOICE REVIEW IN THE SAME ACTIVITY.**
