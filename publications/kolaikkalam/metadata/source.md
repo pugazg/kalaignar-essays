@@ -101,18 +101,19 @@ Physical-copy marks remain outside the printed-text section of page records. Tex
 
 ## P2 durable progress
 
-- scans directly transcribed and verified: **1–10**;
-- page records committed: **10 / 40**;
-- direct lexical page verification: **10 / 40**;
+- scans directly transcribed and verified: **1–16**;
+- page records committed: **16 / 40**;
+- direct lexical page verification: **16 / 40**;
 - front matter P2 page layer: **4 / 4 complete**;
 - Unit 1 page layer: **5 / 5 complete**;
-- Unit 2 page layer: **1 / 7 complete**.
+- Unit 2 page layer: **7 / 7 complete**;
+- next unprocessed scan: **17**.
 
 ## Gate status
 
 - P0: **COMPLETE / PASS**
 - P1: **COMPLETE / PASS, with P2 source corrections propagated**
-- P2: **IN PROGRESS — 10 / 40**
+- P2: **IN PROGRESS — 16 / 40**
 - P3: **NOT STARTED**
 - P4: **NOT STARTED**
 - P5 strict visual fidelity: **NOT STARTED**
@@ -122,4 +123,4 @@ Physical-copy marks remain outside the printed-text section of page records. Tex
 
 ## Exact next activity
 
-**Continue P2 with scans 11–40.** Preserve the verified page records for scans 1–10, resume at scan 11, complete direct visual page-level transcription through scan 40, then synchronize all dependent status records and **stop before P3**.
+**Continue P2 with scans 17–40.** Preserve the verified page records for scans 1–16, resume at scan 17, complete direct visual page-level transcription through scan 40, then synchronize all dependent status records and **stop before P3**.
