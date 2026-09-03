@@ -92,31 +92,44 @@ Final strict-reviewed Tamil article blob:
 
 `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
 
-## English translation setup
+## English translation
 
 ### E0 — COMPLETE / PASS
 
-English planning/setup is now initialized from the frozen Tamil authority only.
-
-Created:
+English planning/setup is initialized from the frozen Tamil authority only:
 
 - [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 
-Current English status:
+### E1 / Article 1 T0 + T1 — COMPLETE
 
-- article units: **1**
-- English article files: **0 / 1**
-- T0: **0 / 1 PASS**
-- T1: **0 / 1 COMPLETE**
-- T2–T5: **0 / 1 PASS**
-- E6: **NOT STARTED**
-- E7: **NOT STARTED**
-- blockers: **0**
+T0 confirmed the frozen Tamil blob exactly:
 
-No English body translation was created during E0. The high-risk terminology inventory is initialized without freezing preferred English renderings.
+`f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+
+Complete English close draft:
+
+[`translations/en/01-kudumbaththin-nalvilakku.md`](translations/en/01-kudumbaththin-nalvilakku.md)
+
+Current English draft blob:
+
+`d5ae4e7696534f560e34578763dd0c735b689b86`
+
+Draft English title: **The Family's Lamp of Well-Being**.
+
+T1 results:
+
+- complete article translated: **1 / 1**
+- source-page trace comments scans 4–13: **10 / 10**
+- scan-7 printed `சமுதாயக்கடமை` footnote association: **PRESERVED**
+- source ending: **PRESERVED**
+- outside explanatory additions to body: **0**
+- frozen Tamil changes: **0**
+- blockers: **0**.
+
+The living lexicon now records T1 draft-established terminology. These choices are not release-final until T2–T4 review.
 
 Permanent translation principle:
 
@@ -142,11 +155,14 @@ Printed text and physical-copy marks remain separate in the page records.
 - P4 — source/completeness audit: **COMPLETE / PASS**
 - P5 — strict visual text-fidelity pass: **COMPLETE / PASS**
 - E0 — English translation planning/setup: **COMPLETE / PASS**
-- physical scans strict-reviewed: **16 / 16**
-- article assemblies strict-reviewed: **1 / 1**
+- T0 — source prerequisite: **1 / 1 PASS**
+- T1 — close draft: **1 / 1 COMPLETE**
+- T2–T5: **0 / 1 PASS**
+- E6: **NOT STARTED**
+- E7: **NOT STARTED**
 - unresolved blockers: **0**
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- English body translation: **NOT STARTED**
+- English translation: **DRAFT / ACTIVE**
 
 ## Frozen source authority / non-regression
 
@@ -160,11 +176,11 @@ English translation must use the frozen article assembly above, never OCR, the e
 
 ## Exact next activity
 
-**E1 — Article 1 T0 + T1 close English draft.**
+**E2 — Article 1 T2 bilingual fidelity review.**
 
-1. Re-fetch live `main` and confirm `articles/01-kudumbaththin-nalvilakku.md` still has blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
-2. Mark T0 PASS only after that confirmation.
-3. Create `translations/en/01-kudumbaththin-nalvilakku.md` and translate the entire article paragraph by paragraph.
-4. Preserve all ten source-page comments and the scan-7 footnote association.
-5. Update the living lexicon and translation review ledger with T1 decisions.
-6. **STOP AFTER T1. Do not begin T2 in the same activity.**
+1. Fetch live `main` and confirm the frozen Tamil authority and current English draft.
+2. Compare Tamil and English sentence by sentence and clause by clause.
+3. Correct omissions, additions, negative/comparison/connective errors, names, numbers, quotation/question scope, repetitions and page-trace defects.
+4. Recheck the scan-7 footnote and T1 terminology against the immediate Tamil context.
+5. Update the living lexicon, tracker, review ledger and durable handover records with every T2 finding.
+6. **STOP AFTER T2. Do not begin T3 in the same activity.**
