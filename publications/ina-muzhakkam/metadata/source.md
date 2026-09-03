@@ -61,13 +61,9 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 - P5 page review: **50 / 50 PASS**
 - P5 assembly recheck: **6 / 6 PASS**
 - E0: **COMPLETE / PASS**
-- T0: **6 / 6 PASS**
-- T1: **6 / 6 PASS**
-- T2: **6 / 6 PASS**
-- T3: **6 / 6 PASS**
-- T4: **6 / 6 PASS**
-- T5: **6 / 6 PASS**
-- E6/E7: **NOT STARTED**
+- T0–T5: **6 / 6 PASS at every gate**
+- E6: **PASS / COMPLETE**
+- E7: **NOT STARTED**
 - blockers: **0**
 
 ## Frozen Tamil authorities
@@ -79,34 +75,22 @@ Scans 1–5 are front matter; scan 40 is `கவிதைகளைப் பற�
 5. `articles/05-aariyam-pesugirathu.md` — `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675`
 6. `articles/06-kavithaigal.md` — `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
 
-## English Articles 1–6 provenance — T5 VERIFIED
+## E6 English release-candidate provenance
 
-1. **The Clarion Call of the Race** — T5 English `01d0d16c4f52cb134eba9fd35c06ad8376e256cb` — **8 / 8** comments.
-2. **In the Heavenly Realm** — T5 English `bcd98fb1abf03e3109da1c4802570b77fddfe015` — **11 / 11** comments.
-3. **Beat the Drum** — T5 English `c526195d7eb16b2dc446f8b3b15ae674c75548d5` — **5 / 5** comments.
-4. **Revenge for Revenge** — T5 English `46627c3cecfd186e1735d8766ddda27414118e62` — **8 / 8** comments.
-5. **Aryanism Speaks** — T5 English `4b1666afd885c3d8b800b08410a3dbfe498856bc` — **2 / 2** comments.
-6. **Poems** — T5 English `9e6f90b00bfa9a5059f1eef6875e8cef3c3652c3` — **9 / 9** comments; **11 / 11** poem headings.
+Historical article-level T5 blobs remain recorded in `translations/en/TRANSLATION_REVIEW.md`. E6 publication-wide consistency completed with these current release-candidate English blobs:
 
-Articles 1–6 are individually frozen.
+1. **The Clarion Call of the Race** — `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.
+2. **In the Heavenly Realm** — `605db7873d4eaf45cbe04e683280b9b6bd649498`.
+3. **Beat the Drum** — `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.
+4. **Revenge for Revenge** — `46627c3cecfd186e1735d8766ddda27414118e62`.
+5. **Aryanism Speaks** — `71656666ae7536a57f88fb5e47938c9c6c9b8e01`.
+6. **Poems** — `15b9a08a0aa32305360fd6350e2fab8bb7cd40fb`.
 
-## English Article 6 provenance — T5 VERIFIED
+E6 made English-only consistency corrections in Articles 2, 5 and 6: **Thirugnana Sambandar**; recurring **Vibhishana / Sugriva** forms; and recurring **Parvati / Ahalya / Indra / Tara / the Moon** treatment. Frozen Tamil source changes: **0**.
 
-- title: **Poems**
-- English file: `../translations/en/06-kavithaigal.md`
-- Tamil blob: `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c`
-- T1 English blob: `fedc9d4dc196fc458b593cb60fa08f075c661f1e`
-- T2 English blob: `9da9bcbd0e5fd31d1d4f5a9592d8b1ffdc059bbe`
-- T3 English blob: `ca33119ed5b7d69a1fedb57349610d222d14ff71`
-- T4 English blob: `099397023559005dfd73087e4e14bb94eef7f672`
-- T5 verified English blob: `9e6f90b00bfa9a5059f1eef6875e8cef3c3652c3`
-- status: `verified`
-- source comments: **9 / 9 preserved in order**
-- poem headings: **11 / 11 preserved**
-- Tamil source changes: **0**
-- blockers: **0**
+E6 preserved deliberate source-witness distinctions rather than homogenising them, including **Kamaraj Nadar / Kamarajar / Kamarajars**, **Gramaniyar / Gramaaniyar**, **Aachariyar / Aachaariyar**, **Kanaka Visayar / Kanakan / Visayan**, **Vadalur Ramalingam / Ramalingar**, **Arutperum Jothi / Arut Sothi**, **Eripatha Nayanar / Eripaththar**, and **Varnashrama / Varna**.
 
-Article 6 was translated only from the frozen strict-reviewed Tamil assembly. T2 corrected five fidelity points; T3 made five voice/style refinements; T4 corrected four heading/source/lineation issues; T5 found no final body defect. Source-sensitive `மனமுள்ளார்`, `ஏறிபத்தர்`, `முடுக்கினாள்`, `போர் வீரனாம்`, and `கதறினாள்` remain governed by the frozen Tamil, not scan alternatives. The source-irregular quotation marks in the `பொதுவுடைமையே!` poem remain deliberately unmatched in English.
+Publication-wide E6 checks after correction: ordered source-page comments **43 / 43 preserved**; Article-6 poem headings **11 / 11 preserved**; title/quotation/source treatment **PASS**; voice consistency **PASS**; English blockers **0**.
 
 ## English translation exclusions / constraints
 
@@ -115,6 +99,6 @@ Article 6 was translated only from the frozen strict-reviewed Tamil assembly. T2
 - scan 50 catalogue remains outside all six English bodies;
 - known P5 lexical-witness differences are not licences to translate from scan alternatives;
 - source-page comments are required for bilingual traceability;
-- Articles 1–6 verified decisions must not be reopened without genuine source support.
+- E6-documented deliberate source-witness distinctions must remain distinct.
 
-Exact next activity: **E6 publication-wide English consistency review only; stop before E7 release closeout.**
+Exact next activity: **E7 English release closeout only; confirm the six E6 release-candidate blobs and synchronized records, then mark English release complete if no release-blocking defect exists. Do not start another publication in the same activity.**
