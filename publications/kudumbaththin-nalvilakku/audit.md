@@ -7,9 +7,9 @@ Recorded source SHA-256: `1c3389ec76507b0c6f2ae294a4523633e81084d570a1443c7b730a
 Physical scans: **16**  
 Article assemblies: **1**
 
-This ledger records **P4 — source audit / completeness review**. P5 strict visual word/punctuation fidelity is still pending.
+This ledger records **P4 — source audit / completeness review** and **P5 — strict visual word/punctuation fidelity review**.
 
-The supplied PDF scan remains the controlling witness. The corrected verified P2 page records remain the lexical/source layer for P4 assembly reconciliation.
+The supplied PDF scan is the controlling witness. The user-reviewed old-glyph readings remain authoritative where explicitly approved; P5 does not modernise them from context or conventional spelling.
 
 ## P4 — source completeness / assembly consistency — PASS
 
@@ -36,17 +36,18 @@ Every physical scan is represented exactly once and in source reading order:
 - printed contents page: **ABSENT / CONFIRMED**;
 - article units: **1 / 1**;
 - article boundary: **scans 4–13 CONFIRMED**;
-- visible printed numerals remain **2–9 on scans 5–12 only**; inferred `1` / `10`: **0**.
+- visible printed numerals: **2–9 on scans 5–12 only**;
+- inferred `1` / `10`: **0**.
 
 ### Front/end-matter reconciliation
 
-- scan 1 cover identity agrees with README/source metadata: **PASS**;
-- scan 2 title/author/departmental publication line agrees with metadata: **PASS**;
-- scan 3 is portrait-only with no printed caption: **PASS**;
-- scan 14 is non-body blank/show-through and follows the scan-13 end rule: **PASS**;
-- scan 15 is a non-body full-page family illustration with no printed caption: **PASS**;
-- scan 16 carries the departmental publication and printer lines recorded in metadata: **PASS**;
-- library marks, handwriting, foxing and show-through remain outside printed-text layers: **PASS**.
+- scan 1 cover identity: **PASS**;
+- scan 2 title/author/departmental publication line: **PASS**;
+- scan 3 portrait-only / no printed caption: **PASS**;
+- scan 14 non-body blank/show-through after scan-13 end rule: **PASS**;
+- scan 15 non-body family illustration / no printed caption: **PASS**;
+- scan 16 departmental publication/printer lines represented: **PASS**;
+- physical-copy marks remain separate from printed text: **PASS**.
 
 ### Article assembly reconciliation
 
@@ -57,7 +58,6 @@ Canonical assembly: `articles/01-kudumbaththin-nalvilakku.md`.
 - scan-to-scan continuations: **9 / 9 PASS**;
 - opening heading: **PASS**;
 - scan-13 closing rule: **PASS**;
-- corrected P2 lexical readings propagated into assembly: **PASS**;
 - body omissions: **0**;
 - duplicated body text: **0**;
 - page-order errors: **0**;
@@ -65,57 +65,84 @@ Canonical assembly: `articles/01-kudumbaththin-nalvilakku.md`.
 
 ### P4 correction
 
-P4 found **one assembly-layer placement defect**: the scan-7 printed footnote `* தமிழ்நாடு குடும்ப நலத்துறையின் வெளியீடான “சமுதாயக்கடமை”.` had been preserved but was positioned after scan-8 body text in the initial P3 assembly.
+P4 found one assembly-layer placement defect: the scan-7 printed footnote
 
-Correction applied during P4:
+`* தமிழ்நாடு குடும்ப நலத்துறையின் வெளியீடான “சமுதாயக்கடமை”.`
 
-- **before:** footnote content appeared after the scan-8 first body paragraph;
-- **after:** footnote is attached to scan 7, immediately before the scan-8 page-boundary comment, matching the page record/source-page association;
-- lexical footnote content changed: **0**;
-- page-layer files changed by this correction: **0**.
+had been preserved but positioned after scan-8 body text. P4 moved it back to scan 7, immediately before the scan-8 page-boundary comment. Lexical footnote content changed: **0**.
 
-Corrected assembly blob after P4: `f33d195f0952c1888510eb75e9c9b72e1fc9d6f0`.
-
-### Corrected P2 authority retained
-
-The prior post-P2 old-glyph/user-review batch remains authoritative. In particular, retain the approved source readings including:
-
-- `பிரச்சனையாக`;
-- `படைவீரர்களை`;
-- scan-6 `முறைகளை`, `பொறுப்பிலே`, `இந்து மார்க்கத்திலே`;
-- scan-7 `கொள்கைகளை`, `மூர்த்தன்யமாக`;
-- scan-8 `தாயாரையும்`, `எடுத்தும்`, `நம்பிக்கைகளிலிருந்தெல்லாம்`;
-- scan-9 `குறைந்தது`, `நாடாளுமன்றத்திலே`, `கேட்டுக்கொண்டிருக்கிறோம்`, `என்கின்ற`;
-- scan-10 `விளைவுகளைத்`, `பயனை`, `தடுக்கப்பட்டாக`, `பதினாறு` twice, `பொருளை` twice, `நிலைமை`, `மக்களுக்குத்`, `இவைகளை`;
-- scan-11 `நாலைந்து` twice;
-- scan-12 `தகப்பனாரும்`, `நிறைவேற்றாத`, `அவல் வாங்கிச் சாப்பிட்டு`;
-- scan-13 `ஆலாய்ப்`, `கயிலையங்கிரியில்`, `இந்து மதத்திலே`.
-
-The user explicitly retained `சிந்தித்துச்` on scan 5 and `ஒருபுறத்திலே` on scan 9 unchanged.
-
-## P4 result
+P4 corrected assembly blob: `f33d195f0952c1888510eb75e9c9b72e1fc9d6f0`.
 
 **P4 SOURCE / COMPLETENESS AUDIT: COMPLETE / PASS.**
 
-- physical scans reconciled: **16 / 16**;
-- page records reconciled: **16 / 16**;
-- article assemblies reconciled: **1 / 1**;
-- assembly page comments: **10 / 10**;
-- continuation checks: **9 / 9**;
-- P4 corrections: **1 placement-only correction**;
-- unresolved completeness blockers: **0**;
-- P5 strict visual fidelity: **NOT STARTED**.
+## P5 — strict visual text-fidelity review — PASS
+
+All **16 / 16 physical scans** were re-resolved from the controlling PDF and checked directly again at the final fidelity gate. Body scans 4–13 were rechecked word by word and punctuation by punctuation; cover/title/portrait/blank/illustration/back-cover witnesses were also rechecked.
+
+Detailed correction provenance is recorded in [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
+
+### P5 corrections
+
+P5 produced **10 correction occurrences** across scans **4, 6, 7, 10, 11, 13 and 16**:
+
+1. scan 4: remove comma after second `இருந்தாலும்`;
+2. scan 4: remove comma after `அப்பாற்பட்டு`;
+3. scan 6: `கூடா தென்று` → `கூடாதென்று`;
+4. scan 7: `பிறக்கக்கூடா தென்று` → `பிறக்கக்கூடாதென்று`;
+5. scan 7: `பலபேர்` → `பல பேர்`;
+6. scan 7: `*நூல்` → `* நூல்`;
+7. scan 10: `மாறியிருக்குமே யானால்` → `மாறியிருக்குமேயானால்`;
+8. scan 11: `ஏற்படவேண்டுமே யானால்` → `ஏற்படவேண்டுமேயானால்`;
+9. scan 13: `மிகவேகமாக` → `மிக வேகமாக`;
+10. scan 16: `மாநில குடும்பநல அச்சகம், சென்னை-6` → `மாநில குடும்பநல அச்சகம்,சென்னை-6`.
+
+These are punctuation/word-boundary/source-spacing corrections. They do not reverse the prior user-approved old-glyph lexical review.
+
+### Approved old-glyph readings retained
+
+Among the source-sensitive forms explicitly preserved are `பிரச்சனையாக`, `படைவீரர்களை`, `முறைகளை`, `பொறுப்பிலே`, `இந்து மார்க்கத்திலே`, `கொள்கைகளை`, `மூர்த்தன்யமாக`, `தாயாரையும்`, `எடுத்தும்`, `நம்பிக்கைகளிலிருந்தெல்லாம்`, `குறைந்தது`, `நாடாளுமன்றத்திலே`, `கேட்டுக்கொண்டிருக்கிறோம்`, `என்கின்ற`, `பதினாறு`, `நாலைந்து`, `தகப்பனாரும்`, `நிறைவேற்றாத`, `அவல் வாங்கிச் சாப்பிட்டு`, `ஆலாய்ப்`, `கயிலையங்கிரியில்`, and `இந்து மதத்திலே`.
+
+The user explicitly retained `சிந்தித்துச்` on scan 5 and `ஒருபுறத்திலே` on scan 9 unchanged.
+
+### Final article recheck
+
+Final strict-reviewed Tamil article:
+
+`articles/01-kudumbaththin-nalvilakku.md`
+
+Final blob SHA:
+
+`f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+
+Post-propagation results:
+
+- article assembly rechecked: **1 / 1 PASS**;
+- page comments: **10 / 10 PASS**;
+- continuations: **9 / 9 PASS**;
+- scan-7 footnote page association: **PASS**;
+- P5 body corrections propagated: **PASS**;
+- unresolved fidelity discrepancies: **0**;
+- blockers: **0**.
+
+**P5 STRICT VISUAL TEXT-FIDELITY REVIEW: COMPLETE / PASS.**
+
+## Current Tamil archival state
+
+- P0: **COMPLETE / PASS**
+- P1: **COMPLETE / PASS**
+- P2: **COMPLETE / PASS — 16 / 16 page records**
+- P3: **COMPLETE / PASS — 1 / 1 article assembly**
+- P4: **COMPLETE / PASS**
+- P5: **COMPLETE / PASS — 16 / 16 strict visual recheck**
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
+- frozen Tamil article authority: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+- unresolved blockers: **0**
+- English translation: **NOT STARTED**
+
+Do not reopen the Tamil body for stylistic polishing, conventionalisation, spacing preference, or terminology homogenisation. Reopen only for a genuine source-supported archival defect.
 
 ## Exact next activity
 
-Execute **P5 — strict visual word-by-word / punctuation-by-punctuation fidelity review over all 16 physical scans**.
+Execute **E0 — English translation planning/setup** from frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`.
 
-1. Re-resolve the controlling PDF.
-2. Recheck every physical scan 1–16 directly against its page record.
-3. Recheck every visible word, punctuation mark, quotation mark, number, heading, paragraph boundary and continuation.
-4. Preserve multiple source witnesses independently and do not normalise old Tamil glyphs from context.
-5. Record every P5 correction with old reading → source-visible reading provenance.
-6. Propagate genuine corrections to page records, article assembly, indexes and durable documentation.
-7. Create `VISUAL_TEXT_FIDELITY_REVIEW.md`.
-8. If clean after propagation, mark P5 COMPLETE / PASS and freeze the Tamil archival layer.
-9. **STOP AFTER P5. Do not begin English translation in the same activity.**
+Read `ESSAY_TRANSLATION_GUIDE.md` completely before English work. Create the translation plan/tracker/lexicon/review scaffolding, register the frozen Tamil authority, and **stop before the English article translation itself**.
