@@ -8,7 +8,8 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - frozen Tamil article: `../../articles/01-kudumbaththin-nalvilakku.md`
 - frozen Tamil blob: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
 - English article: `01-kudumbaththin-nalvilakku.md`
-- final verified English blob: `08cb986a4079ca45bce75c376cd19e603818eeb2`
+- T5 verified English blob: `08cb986a4079ca45bce75c376cd19e603818eeb2`
+- E6 release-candidate English blob: `08cb986a4079ca45bce75c376cd19e603818eeb2`
 - frozen Tamil changes during English work: **0**
 
 ## E0 — setup
@@ -134,9 +135,46 @@ T5 re-fetched live `main`, the frozen Tamil authority and the T4 English candida
 
 Article metadata was advanced from `translation_status: draft` to **`translation_status: verified`** with no body-text change after the T4 candidate.
 
-Final verified English blob:
+Final T5 verified English blob:
 
 `08cb986a4079ca45bce75c376cd19e603818eeb2`
+
+## E6 — publication-wide English consistency review
+
+**PASS / COMPLETE.**
+
+E6 re-fetched live `main`, the frozen Tamil authority, the T5-verified English article, the verified lexicon and publication-level translation records. Because this publication contains one translated article, E6 tested internal publication consistency and release readiness rather than cross-article harmonization.
+
+### E6 consistency classification
+
+- title `The Family's Lamp of Well-Being` and the later `lamp of well-being` image: **CONSISTENT**.
+- `குடும்பநலத் திட்டம்` → **family welfare programme** versus `குடும்பக் கட்டுப்பாடு` → **family planning**: **CONSISTENT / deliberate source distinction**.
+- literal and metaphorical `படை எடுப்பு` → **invasion**: **CONSISTENT**.
+- **Tamil Nadu Government / Delhi Government / Central Government**: **DELIBERATE SOURCE-LABEL DISTINCTIONS / RETAINED**.
+- **Lord Shiva / Shiva / Parama Sivan**: **DELIBERATE SOURCE-LABEL DISTINCTIONS / RETAINED**.
+- **Pillaiyar, Murugan, Krishna Paramatma, Kuchelan, Kubera, the great sage Narada, Arignar Anna, Professor Anbazhagan**: **CONSISTENT**.
+- frozen `கயிலையங்கிரி` → **Kayilaiyangiri**: **CONSISTENT / source-bearing transliteration retained**.
+- `மூர்த்தன்யமாக` → **fiercely**: **CONSISTENT / contextual choice retained**.
+- `ஆலாய்ப் பறந்தார்கள்` → **were driven to run about in distress**: **CONSISTENT / contextual choice retained**.
+- source-page comments: **10 / 10 PASS, ordered 4–13**.
+- scan-7 literal footnote marker, **Social Duty** title and page association: **PASS**.
+- source ending / horizontal rule: **PASS**.
+- numbers, dates, crore examples and `39 / 41 / 1951—52` parliamentary sequence: **PASS**.
+- article metadata/title/source blob/source scans: **PASS**.
+
+### E6 changes
+
+- English body changes required: **0**.
+- English metadata changes required: **0**.
+- verified lexicon corrections required: **0**.
+- frozen Tamil changes: **0**.
+- release-readiness blockers: **0**.
+
+E6 therefore preserves the T5 English authority unchanged:
+
+`08cb986a4079ca45bce75c376cd19e603818eeb2`
+
+**E6 RESULT: PASS / COMPLETE / READY FOR E7 RELEASE CLOSEOUT.**
 
 ## Article 1 final gate status
 
@@ -146,8 +184,9 @@ Final verified English blob:
 - T3: **PASS**
 - T4: **PASS**
 - T5: **PASS / VERIFIED**
+- E6: **PASS / COMPLETE**
 - blockers: **0**
 
 ## Exact next activity
 
-Execute **E6 — publication-wide English consistency review**. This publication contains one translated article, but E6 remains required by project policy: confirm the verified article, final lexicon, title, source labels, page trace and release readiness as a publication-level gate. **Do not perform E7 release closeout in the same activity unless separately authorised.**
+Execute **E7 — English release closeout**. Re-fetch live `main`, confirm frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc` and E6 release-candidate English blob `08cb986a4079ca45bce75c376cd19e603818eeb2`, confirm T0–T5 and E6 durability, release records and source trace, then mark the publication English translation **COMPLETE / RELEASED / FROZEN** only if all checks remain clean. Do not reopen verified wording merely for stylistic preference.
