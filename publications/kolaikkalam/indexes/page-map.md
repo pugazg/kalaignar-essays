@@ -24,12 +24,12 @@ Physical scans: **40**
 | 8 | `8` | continuation | Unit 1 | verified |
 | 9 | `9` | ending | Unit 1 | verified |
 | 10 | — | heading/opening: `‘அஸ்தி’ கரையட்டும்!` | Unit 2 | verified |
-| 11 | `11` | continuation | Unit 2 | not started |
-| 12 | `12` | continuation | Unit 2 | not started |
-| 13 | `13` | continuation | Unit 2 | not started |
-| 14 | `14` | continuation | Unit 2 | not started |
-| 15 | `15` | continuation | Unit 2 | not started |
-| 16 | `16` | ending | Unit 2 | not started |
+| 11 | `11` | continuation | Unit 2 | verified |
+| 12 | `12` | continuation | Unit 2 | verified |
+| 13 | `13` | continuation | Unit 2 | verified |
+| 14 | `14` | continuation | Unit 2 | verified |
+| 15 | `15` | continuation | Unit 2 | verified |
+| 16 | `16` | ending | Unit 2 | verified |
 | 17 | — | heading/opening: `பலியை நிறுத்துங்கள்!` | Unit 3 | not started |
 | 18 | `18` | continuation | Unit 3 | not started |
 | 19 | `19` | continuation | Unit 3 | not started |
@@ -57,6 +57,7 @@ Physical scans: **40**
 
 ## P2 source corrections
 
+- scan 2 publication-data record directly reads `எச். எஸ். ராமுலு கம்பெனி` and the associated Chennai address;
 - scan 4 signed ending: direct source reads `மு. நமசிவாயம்` / `பண்ணையாளர்.`;
 - scan 34 heading: direct source reads **`வீரமுழக்கஞ் செய்திடுவீர்!`**, superseding the earlier normalized P1 label `வீரமுழக்கம் செய்திடுவீர்!`.
 
@@ -93,5 +94,5 @@ Scan 40 contains the end of Unit 6 and the printed printer witness `ஸ்ரீ
 - printed contents page: **absent / confirmed**;
 - introductory front-matter piece: **1** (`இன்பத் துளி!`, scans 3–4);
 - main prose units: **6**;
-- P2 page records: **10 / 40 verified**;
-- next unprocessed scan: **11**.
+- P2 page records: **16 / 40 verified**;
+- next unprocessed scan: **17**.
