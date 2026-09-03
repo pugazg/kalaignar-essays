@@ -19,70 +19,70 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 Tamil source: `../../articles/01-kudumbaththin-nalvilakku.md`  
 Source scans: `4–13`  
 Frozen Tamil blob: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`  
-English file: `01-kudumbaththin-nalvilakku.md`  
-Current English draft blob: `d5ae4e7696534f560e34578763dd0c735b689b86`
+English file: `01-kudumbaththin-nalvilakku.md`
 
 ### T0 — source prerequisite
 
 - status: **PASS / COMPLETE**
-- live `main` was fetched before drafting;
-- frozen Tamil assembly was re-fetched by blob SHA;
-- observed Tamil blob: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`;
-- expected frozen authority: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`;
-- authority match: **PASS**;
-- unresolved Tamil blockers: **0**.
-
-No Tamil text was changed or reopened during T0/T1.
+- observed Tamil blob: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+- expected frozen authority: `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+- authority match: **PASS**
+- unresolved Tamil blockers: **0**
+- frozen Tamil changes during English work: **0**
 
 ### T1 — close draft
 
 - status: **COMPLETE**
-- translation status in article metadata: `draft`
-- draft title: **The Family's Lamp of Well-Being**
 - full article translated: **YES**
 - source scans represented in order: **10 / 10** (`4–13`)
 - English source-page trace comments: **10 / 10**
 - scan-7 printed footnote association: **PRESERVED**
 - source ending / horizontal rule: **PRESERVED**
-- numbers retained in the draft, including `39`, `41`, `1951—52`, `32`, `21`, and the crore examples: **YES**
-- body explanatory notes imported from outside the source: **0**
-- frozen Tamil changes: **0**
-- blockers: **0**.
-
-The first draft initially omitted the explicit scan-11 trace comment while still carrying the translated text. This was caught before T1 closure and corrected in the draft; the current draft therefore has all **10 / 10** source-page comments.
-
-#### T1 terminology decisions
-
-The living lexicon now records draft-established choices, notably:
-
-- `குடும்பநலத் திட்டம்` → **family welfare programme**;
-- `குடும்பக் கட்டுப்பாடு` → **family planning**;
-- `படை எடுப்பு` → **invasion**, retained in both literal and metaphorical uses;
-- `பாபம்` → **sin**;
-- `சமுதாயக்கடமை` → **Social Duty**;
-- `கிருஷ்ணபரமாத்மா` → **Krishna Paramatma**;
-- `குசேலன்` → **Kuchelan**;
-- `கயிலையங்கிரி` → **Kailaiyangiri**.
-
-`ஆலாய்ப் பறந்தார்கள்` and the contextual rendering of the unusual frozen `மூர்த்தன்யமாக` are explicitly marked for close T2/T3 review rather than treated as final.
+- outside explanatory notes imported into body: **0**
+- T1 draft blob before T2: `d5ae4e7696534f560e34578763dd0c735b689b86`
 
 ### T2 — bilingual fidelity review
 
-- status: **NOT STARTED**
-- omissions/additions check: pending
-- negatives/comparisons/connectors: pending
-- names/numbers/dates: pending
-- quotations/questions/exclamations: pending
-- repetition and page trace: pending
-- terminology choices against immediate Tamil context: pending
-- findings/corrections: none yet
+- status: **PASS / COMPLETE**
+- review basis: complete English draft against frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc`
+- review scope: sentence-by-sentence and clause-by-clause across scans **4–13**
+- omissions after correction: **0**
+- unsupported additions after correction: **0**
+- negatives/comparisons/connectors: **PASS**
+- names/referents: **PASS**
+- dates/numbers: **PASS** (`39`, `41`, `1951—52`, `32`, `21`, crore examples)
+- quotations/questions/exclamations: **PASS**
+- deliberate repetition: **PASS**
+- source-page comments: **10 / 10 PASS**
+- scan-7 `சமுதாயக்கடமை` footnote wording/association: **PASS**
+- literal/metaphorical `படை எடுப்பு` chain: **PASS**
+- frozen Tamil changes: **0**
+- blockers: **0**
+
+#### T2 corrections
+
+T2 made four English fidelity corrections without altering Tamil:
+
+1. Scan 5: `invasions called ‘births’` → **`invasions called the ‘birth’ of children`**, restoring explicit `குழந்தைகளுடைய ‘பிறப்பு’`.
+2. Scan 9: `even these 39 may be in danger` → **`even these 39 seats may be in danger`**, making the parliamentary referent explicit from the source context; the following sentence was correspondingly tightened to `One or two of them may be reduced as well.`
+3. Scan 11: `families with means and opportunities grow weary at having more than two or three children` → **`families with means and opportunities come to feel that there should not be more than two or three children`**, restoring the force of `இருத்தல் ஆகாது என்கின்ற சலிப்பு` without adding a stronger emotion.
+4. Scan 12: removed unsupported explanatory wording `he brings` from the Kuchelan question; the frozen Tamil says only `அவல் வாங்கிச் சாப்பிட்டு` and does not state that Kuchelan brings it in that clause.
+
+English blob after T2 corrections: `a6599e3cb889565f29614cac89c2da91bed74f20`.
+
+#### T2 review-priority outcomes
+
+- `மூர்த்தன்யமாக` → **fiercely**: semantically acceptable at T2; retain for dedicated T3 voice check.
+- `ஆலாய்ப் பறந்தார்கள்` → **were driven to run about in distress**: no semantic contradiction found; retain for T3 idiomatic/voice review.
+- **The Family's Lamp of Well-Being**: no source-fidelity defect found; retain for T3/T4 title review.
+- parliamentary `39 / 41 / 1951—52` sequence: **PASS**; no historical correction imported.
 
 ### T3 — Kalaignar voice review
 
 - status: **NOT STARTED**
 - directness: pending
 - rhetorical questions: pending
-- polemical/ironic force: pending
+- humour/mockery: pending
 - repetition and accumulative cadence: pending
 - over-academic smoothing check: pending
 - findings/corrections: none yet
@@ -93,26 +93,15 @@ The living lexicon now records draft-established choices, notably:
 - living lexicon consistency: pending
 - proper names/religious labels: pending
 - institutional/historical terms: pending
-- scan-7 footnote: pending
-- source-page comments: pending
-- findings/corrections: none yet
+- scan-7 footnote: T2 fidelity PASS; T4 terminology audit pending
+- source-page comments: T2 fidelity PASS; T4 audit pending
 
 ### T5 — article verification
 
 - status: **NOT STARTED**
 - final English blob: pending
-- unresolved translation choices: T2/T3 review priorities remain; no release blocker established
-
-## Risk register for T2–T4
-
-1. Verify that **family welfare programme** and **family planning** continue to map to their distinct Tamil source terms without accidental flattening.
-2. Recheck every literal/metaphorical occurrence of **invasion** so the Pakistan/China/birth parallel remains complete.
-3. Recheck the religious examples for referent fidelity, humour and source-chosen labels without importing explanatory theology.
-4. Recheck the parliamentary argument, especially `39`, `41`, `1951—52`, percentages and causal wording, against the frozen Tamil without historically correcting the source.
-5. Recheck the scan-7 **Social Duty** footnote wording and placement.
-6. Recheck `ஆலாய்ப் பறந்தார்கள்` and `மூர்த்தன்யமாக` closely because their frozen Tamil forms are unusual and the T1 English renderings are contextual choices.
-7. Recheck the draft title **The Family's Lamp of Well-Being** for metaphor and voice before it becomes release-stable.
+- unresolved translation choices: T3/T4 review still pending
 
 ## Exact next activity
 
-Execute **E2 — Article 1 T2 bilingual fidelity review**. Compare the complete English draft against frozen Tamil blob `f9416fc2ad122ec803d1c75197215ddfbd13f0fc` sentence by sentence and clause by clause; correct omissions/additions, negatives, comparisons, connectors, names, numbers, quotation/question scope, repetition and page trace. Update the lexicon/tracker/review ledger with every finding. **STOP AFTER T2; do not begin T3 in the same activity.**
+Execute **T3 — Kalaignar voice review** on the T2-corrected English article. Preserve directness, questions, humour/mockery, repetition, analogy and rhetorical force; correct only genuine voice-neutralisation or awkwardness that weakens the source. Then continue to T4/T5 only because the user explicitly authorised processing T2–T5 sequentially in one activity.
