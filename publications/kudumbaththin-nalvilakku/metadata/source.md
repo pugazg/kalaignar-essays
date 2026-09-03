@@ -30,9 +30,7 @@
 
 No edition statement or publication year is visibly established in the supplied scans. Internal dates/history in the body are not publication-date evidence and must not be used to invent one.
 
-## Canonical P1 physical structure
-
-The canonical map is [`../indexes/page-map.md`](../indexes/page-map.md).
+## Canonical physical structure
 
 | Scan | Structural role | Printed page visible |
 |---:|---|---|
@@ -55,9 +53,7 @@ The canonical map is [`../indexes/page-map.md`](../indexes/page-map.md).
 
 The archive records visible numerals only. It does **not** infer `1` for scan 4 or `10` for scan 13.
 
-## Contents / article count — P1
-
-Canonical contents record: [`../indexes/contents.md`](../indexes/contents.md).
+## Contents / article count
 
 - printed contents page: **ABSENT / CONFIRMED**
 - body articles: **1**
@@ -65,24 +61,18 @@ Canonical contents record: [`../indexes/contents.md`](../indexes/contents.md).
 - article span: **scans 4–13**
 - start witness: scan 4 heading `குடும்பத்தின் நல்விளக்கு`
 - end witness: scan 13 closing paragraph followed by a short horizontal rule
-- scan 14 is non-body/blank show-through, confirming the body has ended
-
-No additional article heading or body unit is visible.
+- scan 14 is non-body/blank show-through
 
 ## Physical-copy marks / scan condition
 
-The physical copy shows age and library-use evidence that must remain separate from printed text:
+The physical copy shows age and library-use evidence kept separately from printed text in page records:
 
 - foxing and brown spotting on covers and internal leaves;
-- blue-ink handwriting near the top of scan 2;
-- rectangular/inked library stamp across part of scan 2;
-- large circular library stamp overlapping the lower title-page area on scan 2;
+- blue-ink handwriting and library stamps on scan 2;
 - library stamp in the upper-right margin of scan 4;
 - partial circular library stamp in the lower-left margin of scan 13;
 - faint show-through on scan 14;
 - additional surface marks/staining on the back cover.
-
-No lexical body transcription has been performed during P1. No body text is declared blocked at the structural-map stage.
 
 ## Source authority
 
@@ -92,8 +82,7 @@ The supplied scan is the controlling source for this edition. Preserve source-vi
 
 ### P0 — COMPLETE / PASS
 
-- source file identity: **CONFIRMED**
-- duplicate publication in repository: **NOT FOUND** at intake
+- source identity: **CONFIRMED**
 - publication title/form: **CONFIRMED**
 - physical scan count: **16**
 - checksum / file size: **RECORDED**
@@ -107,8 +96,18 @@ The supplied scan is the controlling source for this edition. Preserve source-vi
 - article boundary: **scans 4–13 CONFIRMED**
 - visible printed numerals mapped: **8** (`2–9` on scans 5–12)
 - inferred printed numerals inserted: **0**
-- structural blockers: **0**
+- blockers: **0**
+
+### P2 — COMPLETE / PASS
+
+- page records created: **16 / 16**
+- page records directly visually verified: **16 / 16**
+- body pages fully transcribed: **10 / 10** (`4–13`)
+- unresolved / blocked body readings: **0**
+- article assembly created: **0 / 1** — deferred to P3
+
+P2 source-sensitive readings deliberately preserved for independent later P5 recheck include `மூர்த்தன்யமாக` (scan 7), `நம்பிக்கைகளிலிருந்தெல்லாம்` (scan 8), `பதினறு` twice (scan 10), `அவல் வாங்கிச் சாப்பிட்டு` (scan 12), and `ஆலாயப்` / `கயிலியங்கிரியில்` (scan 13).
 
 ## Exact next activity
 
-**P2 — create and directly verify page records for all 16 physical scans, including full lexical transcription of body scans 4–13.** Keep printed text and physical-copy marks separate, preserve exact source wording/punctuation, document page continuations and difficult readings explicitly, and do not infer hidden text. **Stop before P3 article assembly.**
+**P3 — assemble the single article `குடும்பத்தின் நல்விளக்கு` from verified page records scans 4–13.** Preserve wording and paragraphing exactly, retain page-boundary trace comments, verify every continuation, keep editorial notes outside the body, and **stop before P4 source/completeness audit**.
