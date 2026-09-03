@@ -11,7 +11,7 @@ Permanent rule: **Translate the language; do not neutralise the voice.**
 | `திராவிடன்` / `திராவிட இனம்` | **Dravidian / Dravidian race** | Article 3 direct-address `திராவிடனே / திராவிடா` keeps **Dravidian**. | Article 1 T1 | T5 VERIFIED / A3 T5 VERIFIED |
 | `திராவிடர்` | **Dravidians** | Article 2 plural identity claim; Article 4 collective/direct address. | Article 2 T1 | T5 VERIFIED / A4 T5 VERIFIED |
 | `தமிழினம்` | **Tamil race** | Article 3 ideological contrast. | Article 3 T1 | A3 T5 VERIFIED |
-| `தமிழன்` | **Tamilian** | Preserve repeated rhetorical noun. | Article 1 T1 | T5 VERIFIED / A3 T5 VERIFIED |
+| `தமிழன்` | **Tamilian** | Preserve repeated rhetorical noun; Article 6 vocative `மறத் தமிழா` is **warrior Tamilian**. | Article 1 T1 | T5 VERIFIED / A3 T5 VERIFIED / A6 T5 VERIFIED |
 | `ஆரிய இனம்` | **Aryan race** | Article 1. | Article 1 T1 | T5 VERIFIED |
 | `ஆரியர்` | **Aryans / an Aryan** contextually | Preserve source singular/plural and rhetorical contrast. | Article 2 T1 | T5 VERIFIED / A3 T5 VERIFIED |
 | `ஆரியம்` | **Aryanism** | Abstract ideological agent; Article 5 personifies it in first person. | Article 3 T1 | A3 T5 VERIFIED / A5 T5 VERIFIED |
@@ -83,30 +83,53 @@ Permanent rule: **Translate the language; do not neutralise the voice.**
 | `இராவணன் / விபீஷணன் / வாலி / சுக்ரீவன்` | **Ravanan / Vibheeshanan / Vali / Sugrivan** | Preserve source forms; no outside identification. | Article 5 T1 | SOURCE-BEARING / A5 T5 VERIFIED |
 | `வாலிவதைப் படலம்` | **the chapter of Vali's slaying** | Retain source chapter framing. | Article 5 T1 | A5 T5 VERIFIED |
 | `கோடாரிக் காம்பு` | **axe-handle** | Preserve source metaphor. | Article 5 T1 | SOURCE-BEARING / A5 T5 VERIFIED |
-| `குலச் சிறை` | **Kulachirai** | Physical scan-38→39 boundary is `Kula— / chirai`. | Article 5 T1 | SOURCE-WITNESS / A5 T5 VERIFIED |
+| `குலச் சிறை` | **Kulachirai** | Physical scan-38→39 boundary is `Kula— / chirai`; Article 6 reuses the same source name. | Article 5 T1 | SOURCE-WITNESS / A5 T5 VERIFIED / A6 T5 VERIFIED |
 | `அவனிடத்தில் ஆசை வலை விரித்தேன்` | **I cast a net of desire around him** | T2 corrected T1 `for him`. | Article 5 T2 | A5 T5 VERIFIED |
 | `ஓமாந்தூரார்` | **Omaanthooraar** | Preserve source form without outside identification. | Article 5 T1 | SOURCE-BEARING / A5 T5 VERIFIED |
 | `அதட்டிக் கேட்டேன்` | **I demanded of Omaanthooraar** | T2 removed unsupported animal metaphor. | Article 5 T2 | A5 T5 VERIFIED |
 | quoted `ஆரியத்துக்கு எதிர்ப்பா?` | **“Opposition to Aryanism?”** | Preserve quotation scope and question force. | Article 5 T1 | A5 T5 VERIFIED |
 | `கறுப்புப் படை` | **Black Army** | Preserve source label without outside expansion. | Article 5 T1 | SOURCE-BEARING / A5 T5 VERIFIED |
 | closing `விபீஷண சுக்ரீவர்` | **Vibheeshanans and Sugrivans** | Preserve pluralized source-name labels. | Article 5 T1 | SOURCE-BEARING / A5 T5 VERIFIED |
-| `கவிதைகள்` | title TBD at Article 6 T1 | Preserve headings and lineation. | E0 | OPEN / T1 NEXT |
+| `கவிதைகள்` | **Poems** | Article 6 collection title. | Article 6 T1 | A6 T5 VERIFIED |
+| `நியாயத் திராசு!` | **Scale of Justice!** | T4 restored source singular `திராசு`. | Article 6 T1 | A6 T5 VERIFIED |
+| `ஏற்பரோ!` | **Will They Accept!** | Preserve source exclamation rather than editorially changing it to `?`. | Article 6 T1 | SOURCE-WITNESS / A6 T5 VERIFIED |
+| `சைவரே!` / `சைவம்` | **Saivites! / Saivism** | Preserve direct address and religious label. | Article 6 T1 | A6 T5 VERIFIED |
+| `பொதுவுடைமையே!` | **Common Ownership!** | Keep source ideological abstraction; do not replace with an outside political label. | Article 6 T1 | A6 T5 VERIFIED |
+| `முத்தமிழ்` | **Muthamizh** | Source-cultural term; no explanatory expansion in body. | Article 6 T1 | SOURCE-BEARING / A6 T5 VERIFIED |
+| `சோதா / சோதாக்கள்` | **sotha / sothas** | Source-specific insult/label retained rather than confidently identifying from outside knowledge. | Article 6 T1 | SOURCE-BEARING / A6 T5 VERIFIED |
+| `வேலி` | **veli / velis** | Source land-measure term; no conversion inserted. | Article 6 T1 | SOURCE-BEARING / A6 T5 VERIFIED |
+| `பாயாசம்` | **payasam** | Source-cultural food term. | Article 6 T1 | SOURCE-BEARING / A6 T5 VERIFIED |
+| `ஏறிபத்தர்` | **Eripaththar** | Translate frozen source form; do not replace with scan-alternate spelling. | Article 6 T1 | SOURCE-SENSITIVE / A6 T5 VERIFIED |
+| `கோட்புலி` | **Kotpuli** | Preserve source form; no outside identification. | Article 6 T1 | SOURCE-BEARING / A6 T5 VERIFIED |
+| `தருமன் / பீமன் / கருணன் / பாஞ்சாலி` | **Dharman / Bhiman / Karunan / Panchali** | Preserve source-chosen epic labels; no outside substitution. | Article 6 T1 | SOURCE-BEARING / A6 T5 VERIFIED |
+| `இலக்குமி / பார்வதி / கலைமகள்` | **Lakshmi / Parvathi / Kalaimagal** | Readable conventional/source-bearing forms without outside expansion. | Article 6 T1 | A6 T5 VERIFIED |
+| `அகல்யை / இந்திரன் / தாரை / சந்திரன்` | **Ahalyai / Indran / Tharai / Chandran** | Preserve source forms without outside identification. | Article 6 T1 | SOURCE-BEARING / A6 T5 VERIFIED |
+| `கம்பர் / கிழார்` | **Kambar / Kizhar** | Preserve source forms; no outside identification. | Article 6 T1 | SOURCE-BEARING / A6 T5 VERIFIED |
+| `முழவு` | **drum** | Article 6 T2 removed unsupported T1 `war`. | Article 6 T2 | A6 T5 VERIFIED |
+| `செந்தமிழ்க் காளைகள்` / `நந்தமிழ் நாட்டை` | **pure-Tamil bulls / our fair Tamil land** | Preserve source modifiers. | Article 6 T2 | A6 T5 VERIFIED |
+| `வண்டமிழ்` | **rich Tamil** | T2 removed unsupported T1 `honeyed`. | Article 6 T2 | A6 T5 VERIFIED |
+| `வருணம்` | **Varna** | Source ideological term in `வருணமா? மரணமா?`; distinct from Article-4 `Varnashrama`. | Article 6 T1 | SOURCE-BEARING / A6 T5 VERIFIED |
+| source-irregular `மனமுள்ளார்` | **those with a mind** | Follow frozen Tamil; do not import scan alternative. | Article 6 T1 | SOURCE-SENSITIVE / A6 T5 VERIFIED |
+| source-sensitive `முடுக்கினாள்` | **quickened her pace** | T3 voice refinement from T2 `urged on her pace`; frozen Tamil remains authority. | Article 6 T3 | SOURCE-SENSITIVE / A6 T5 VERIFIED |
+| source-sensitive `போர் வீரனாம்` | **a war-hero** | Preserve the source phrase and rhetorical challenge. | Article 6 T1 | SOURCE-SENSITIVE / A6 T5 VERIFIED |
+| source-sensitive `கதறினாள்` | **wailed** | Preserve source emotional force. | Article 6 T1 | SOURCE-SENSITIVE / A6 T5 VERIFIED |
 
 ## Verified boundaries
 
-Articles 1–5 are individually T5 verified and frozen:
+Articles 1–6 are individually T5 verified and frozen:
 
 1. `இன முழக்கம்` — `01d0d16c4f52cb134eba9fd35c06ad8376e256cb`.
 2. `சொர்க்க லோகத்தில்` — `bcd98fb1abf03e3109da1c4802570b77fddfe015`.
 3. `முரசறைவாய்` — `c526195d7eb16b2dc446f8b3b15ae674c75548d5`.
 4. `பழிக்குப் பழி` — `46627c3cecfd186e1735d8766ddda27414118e62`.
 5. `ஆரியம் பேசுகிறது` — `4b1666afd885c3d8b800b08410a3dbfe498856bc`.
+6. `கவிதைகள்` — `9e6f90b00bfa9a5059f1eef6875e8cef3c3652c3`.
 
-Do not reopen their verified terminology or source-witness distinctions without a genuine source-supported defect.
+Do not reopen verified terminology or source-witness distinctions without a genuine source-supported defect.
 
-## Article 5 review history
+## Article 6 review history
 
-T2 re-fetched frozen Tamil `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` and corrected two fidelity points: **I cast a net of desire around him** and **I demanded of Omaanthooraar**. T3 required no body change: the first-person personification, sarcasm/mockery, rhetorical questions, abrupt contrasts, visceral imagery, repetition and boastful cadence were already intact. T4 found **0** terminology, source-witness, quotation/citation or page-provenance defects and required **0** body corrections. T5 reread the complete T4 English and required **0** final body corrections. All Article-5 entries above are now T5 verified.
+T1 established the poetry titles, source-specific names and source-cultural terms while preserving 11/11 headings, all verse lineation and 9/9 source comments. T2 made five fidelity corrections: the `Common Ownership!` lineation, `drum`, `pure-Tamil / fair Tamil`, `matter`, and `rich Tamil`. T3 made five voice/style refinements without changing meaning or lineation. T4 made four source/terminology corrections: singular **Scale of Justice!**, source punctuation **Will They Accept!**, removal of added `us` in the Saivism-net image, and source-aligned ordering/lineation in **When Will There Be Defeat?**. T5 found no final body defect. Article 6 is individually frozen.
 
 ## Frozen Tamil anomaly/conflict rule
 
@@ -122,4 +145,4 @@ Scan-24 and scan-37 promotions, scan-40 `கவிதைகளைப் பற�
 
 ## Next lexicon activity
 
-During **Article 6 `கவிதைகள்` T1**, register only genuinely recurring or source-bearing terms needed by the frozen poetry assembly. Preserve poem headings and lineation; do not force rhyme or import outside identifications; stop before Article 6 T2.
+During **E6 publication-wide consistency review**, use this lexicon to cross-check all six verified units. Do not harmonise deliberately source-distinct forms merely for neatness. Stop before E7.
