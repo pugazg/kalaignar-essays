@@ -10,45 +10,52 @@ No dedicated printed contents/table-of-contents page appears anywhere in the sup
 
 ## Front matter
 
-| Order | Heading / witness | Scan span | Classification | Boundary evidence |
+| Order | Heading / witness | Scan span | Classification | P2 page layer |
 |---:|---|---:|---|---|
-| FM1 | front cover `கொலைக்களம்!` | 1 | cover | cover identity |
-| FM2 | copyright / edition / price / sales-rights page | 2 | publication front matter | publication-data page before prose |
-| FM3 | `இன்பத் துளி!` | 3–4 | **introductory signed front-matter note** | heading begins scan 3; P2 direct verification shows scan 4 closes with `மு. நமசிவாயம்` / `பண்ணையாளர்.`; next scan opens the first main titled prose unit |
+| FM1 | front cover `கொலைக்களம்!` | 1 | cover | **verified** |
+| FM2 | copyright / edition / price / sales-rights page | 2 | publication front matter | **verified** |
+| FM3 | `இன்பத் துளி!` | 3–4 | introductory signed front-matter note | **2 / 2 verified** |
 
-`இன்பத் துளி!` is therefore not counted among the six main prose units for canonical article numbering. Its scans **3–4** have verified P2 page records.
+`இன்பத் துளி!` is not counted among the six main prose units for canonical article numbering. P2 direct verification shows scan 4 closes with `மு. நமசிவாயம்` / `பண்ணையாளர்.`.
 
 ## Canonical main-unit inventory
 
 | Unit | Source heading witness | Scan span | Start evidence | End evidence | P2 page layer |
 |---:|---|---:|---|---|---|
-| 1 | `கொலைக்களம்!` | **5–9** | large heading on scan 5 | scan 9 closes before the new heading on scan 10 | **5 / 5 verified** |
-| 2 | `‘அஸ்தி’ கரையட்டும்!` | **10–16** | heading on scan 10 | scan 16 closes before the new heading on scan 17 | **7 / 7 verified** |
-| 3 | `பலியை நிறுத்துங்கள்!` | **17–22** | heading on scan 17 | scan 22 closes before the new heading on scan 23 | **0 / 6** |
-| 4 | `விழலுக்கு நீர் இறைத்து...` | **23–27** | heading on scan 23 | scan 27 closes before the new heading on scan 28 | **0 / 5** |
-| 5 | `சோதனை!` | **28–33** | heading on scan 28 | scan 33 closes before the new heading on scan 34 | **0 / 6** |
-| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | **34–40** | direct heading witness on scan 34 | scan 40 is the source ending and carries the final printer line | **0 / 7** |
+| 1 | `கொலைக்களம்!` | **5–9** | heading on scan 5 | scan 9 closes before scan-10 heading | **5 / 5 verified** |
+| 2 | `‘அஸ்தி’ கரையட்டும்!` | **10–16** | heading on scan 10 | scan 16 closes before scan-17 heading | **7 / 7 verified** |
+| 3 | `பலியை நிறுத்துங்கள்!` | **17–22** | heading on scan 17 | scan 22 closes before scan-23 heading | **6 / 6 verified** |
+| 4 | `விழலுக்கு நீர் இறைத்து...` | **23–27** | heading on scan 23 | scan 27 closes before scan-28 heading | **5 / 5 verified** |
+| 5 | `சோதனை!` | **28–33** | heading on scan 28 | scan 33 closes before scan-34 heading | **6 / 6 verified** |
+| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | **34–40** | direct heading witness on scan 34 | scan 40 source ending + printer line | **7 / 7 verified** |
 
 ## P2 source corrections
 
-- scan 2 P2 publication-data record controls the distributor/address reading, including `எச். எஸ். ராமுலு கம்பெனி`;
+- scan 2 publication-data record controls the distributor/address reading, including `எச். எஸ். ராமுலு கம்பெனி`;
 - scan 4 signature is **`மு. நமசிவாயம்`**, not the earlier P1 identification `மு. கருணாநிதி`;
-- scan 34 heading is **`வீரமுழக்கஞ் செய்திடுவீர்!`**, not the earlier normalized P1 form `வீரமுழக்கம் செய்திடுவீர்!`.
+- scan 34 heading is **`வீரமுழக்கஞ் செய்திடுவீர்!`**, not the earlier normalized P1 form `வீரமுழக்கம் செய்திடுவீர்!`;
+- scan 40 printer witness is **`ஸ்ரீமகள் பிரஸ், சென்னை—1`** and is not part of Unit 6 prose body.
 
 ## Source-witness rules
 
-- Preserve each heading exactly as its own source witness; do not silently harmonise punctuation or quotation marks between title/cover/unit headings.
-- The publication cover title `கொலைக்களம்!` and Unit 1 heading `கொலைக்களம்!` are separate occurrences of the same visible form and are transcribed independently.
-- `‘அஸ்தி’ கரையட்டும்!` includes a quoted `அஸ்தி` witness; punctuation remains source-controlled.
-- `விழலுக்கு நீர் இறைத்து...` carries an ellipsis-style ending in its heading witness and must not be converted into a different title punctuation convention.
-- Printer/imprint wording on scan 40 is not part of Unit 6 prose body merely because it shares the same physical scan.
+- Preserve each heading exactly as its own source witness; do not silently harmonise punctuation or quotation marks.
+- The cover title `கொலைக்களம்!` and Unit 1 heading `கொலைக்களம்!` are independent source occurrences.
+- `‘அஸ்தி’ கரையட்டும்!` retains its quoted `அஸ்தி` witness.
+- `விழலுக்கு நீர் இறைத்து...` retains its source-visible ellipsis-style ending.
+- Printer/imprint wording on scan 40 stays outside the Unit 6 prose assembly.
 
-## Current result
+## P2 result
 
 - printed contents page: **ABSENT / CONFIRMED**;
 - introductory signed front-matter prose piece: **1**;
 - canonical main prose units: **6**;
 - main-unit boundaries confirmed: **6 / 6**;
 - source scans accounted for structurally: **40 / 40**;
-- P2 page records: **16 / 40 verified**;
-- next P2 scan: **17**.
+- P2 page records: **40 / 40 verified**;
+- direct lexical page verification: **40 / 40**;
+- P2: **COMPLETE / PASS**;
+- P3 article/unit assemblies: **0 / 6 — NOT STARTED**.
+
+## Exact next activity
+
+**P3 — assemble the six canonical main prose units from the verified P2 page records.** Preserve source wording and page provenance. Do not begin English translation. **This P2 activity stops before P3.**
