@@ -16,7 +16,7 @@ Fetch live `main` first. Preserve any newer durable state; never reset, repeat o
 
 Last confirmed authoritative handover synchronization when this prompt was prepared:
 
-`ebd3358be98f10e6a85082d5aeaf87f3817e7225` — `Synchronize handover after Kolaikkalam P3`.
+`476d6483fa41b60495165e10de2bc39d05e8d137` — `Synchronize handover after Kolaikkalam P4`.
 
 ## Mandatory startup
 
@@ -30,11 +30,12 @@ Before changing anything, read completely:
 6. `publications/kolaikkalam/P2_COMPLETION.md`
 7. `publications/kolaikkalam/LEXICAL_RECONCILIATION_2026-09-04.md`
 8. `publications/kolaikkalam/P3_COMPLETION.md`
-9. `publications/kolaikkalam/metadata/source.md`
-10. `publications/kolaikkalam/indexes/page-map.md`
-11. `publications/kolaikkalam/indexes/contents.md`
-12. all six live `publications/kolaikkalam/articles/*.md` assemblies
-13. the reconciled canonical page records underlying those assemblies
+9. `publications/kolaikkalam/P4_SOURCE_COMPLETENESS_AUDIT.md`
+10. `publications/kolaikkalam/metadata/source.md`
+11. `publications/kolaikkalam/indexes/page-map.md`
+12. `publications/kolaikkalam/indexes/contents.md`
+13. all 40 canonical page records
+14. all six live `publications/kolaikkalam/articles/*.md` assemblies
 
 English is **not** in scope. Do not begin translation before Tamil P0–P5 are complete/frozen.
 
@@ -68,7 +69,7 @@ Front matter:
 
 `இன்பத் துளி!` is not numbered as a main prose unit.
 
-Canonical main prose units and completed P3 assemblies:
+Canonical main prose units and P3 assemblies:
 
 1. `கொலைக்களம்!` — scans **5–9** — `articles/01-kolaikkalam.md` — blob `cf73a98ee5eca043e35e2b6195993175754d6794`
 2. `‘அஸ்தி’ கரையட்டும்!` — scans **10–16** — `articles/02-asthi-karaiyattum.md` — blob `3b1a00fc928917d32be5a655fb0ac87f935e33aa`
@@ -135,7 +136,23 @@ All six canonical assemblies have been created from the reconciled live page rec
 - scan-40 printer witness kept outside Unit 6 prose body;
 - durable ledger: `publications/kolaikkalam/P3_COMPLETION.md`.
 
-Do not repeat P3 merely because an older prompt shows 0 / 6.
+## P4 — COMPLETE / PASS
+
+All six P3 assemblies have been source/completeness audited against the reconciled canonical page layer:
+
+- assemblies audited: **6 / 6 PASS**;
+- main-unit scans represented: **36 / 36 (5–40)**;
+- missing, duplicate or out-of-order assembly scans: **0**;
+- start/end boundary defects: **0**;
+- page-boundary continuity defects: **0**;
+- source-supported heading/subheading defects: **0**;
+- physical-copy/audit contamination in article prose: **0**;
+- scan-40 printer witness leakage into Unit 6 prose: **0**;
+- assembly-only corrections required: **0**;
+- blockers: **0**;
+- durable audit: `publications/kolaikkalam/P4_SOURCE_COMPLETENESS_AUDIT.md`.
+
+Do not repeat P4 merely because an older prompt shows it as not started.
 
 ## Current gates
 
@@ -144,7 +161,7 @@ Do not repeat P3 merely because an older prompt shows 0 / 6.
 - P2: **COMPLETE / PASS — 40 / 40**
 - post-P2 lexical reconciliation: **COMPLETE for adjudicated differences through scan 39, with later scan-34 manual correction propagated**
 - P3: **COMPLETE / PASS — 6 / 6 assemblies**
-- P4: **NOT STARTED**
+- P4: **COMPLETE / PASS — 6 / 6 assemblies audited**
 - P5: **NOT STARTED**
 - English translation: **NOT STARTED**
 - blockers: **0**
@@ -155,21 +172,15 @@ The supplied scan remains controlling. The reconciled live page records are the 
 
 ## EXACT NEXT ACTIVITY
 
-**P4 — source/completeness audit of all six P3 assemblies against the reconciled canonical page layer.**
+**P5 — strict visual word-by-word / punctuation-by-punctuation fidelity pass over all 40 physical scans.**
 
 1. Fetch live `main` first and reread the authoritative root handover.
-2. Read `publications/kolaikkalam/P3_COMPLETION.md` and `publications/kolaikkalam/LEXICAL_RECONCILIATION_2026-09-04.md` before auditing.
-3. Re-fetch all six live assembly files and their underlying page records.
-4. For each unit, verify exact scan coverage with no missing or duplicated page body:
-   - Unit 1 — scans **5–9**;
-   - Unit 2 — scans **10–16**;
-   - Unit 3 — scans **17–22**;
-   - Unit 4 — scans **23–27**;
-   - Unit 5 — scans **28–33**;
-   - Unit 6 — scans **34–40**.
-5. Verify start/end boundaries and every page-boundary continuation.
-6. Verify source-supported headings/internal subheadings and ensure no `physical-copy marks`, `Audit note`, YAML/page-record metadata or other editorial text entered article prose.
-7. Confirm scan-40 printer witness `ஸ்ரீமகள் பிரஸ், சென்னை—1` remains outside Unit 6 prose body.
-8. Record any assembly-only defect with provenance and propagate its correction to dependent records.
-9. Mark P4 complete only after all six assemblies pass this source/completeness audit.
-10. **STOP after P4. Do not perform P5 in the same activity. DO NOT BEGIN ENGLISH TRANSLATION.**
+2. Read `ESSAY_PROCESSING_GUIDE.md` section 12 and `publications/kolaikkalam/P4_SOURCE_COMPLETENESS_AUDIT.md` before P5 work.
+3. Resolve/attach the controlling PDF in the fresh chat before direct visual verification.
+4. Recheck physical scans **1–40** directly against the canonical page records — cover, front matter, introductory note, all six units and final printer witness.
+5. Compare every visible word, word boundary/spacing, punctuation mark, quotation mark, heading, date/number and paragraph continuation.
+6. Preserve the nine user-reviewed controlling damaged readings unless a later source-supported correction is explicitly established.
+7. For every P5 correction, record **old reading → source-visible reading** with scan/page provenance and propagate the correction into the relevant P3 article assembly and dependent records.
+8. Recheck all six article assemblies after any propagation.
+9. Create the publication-level visual-text-fidelity report required by `ESSAY_PROCESSING_GUIDE.md`, including scans checked, corrections, unresolved discrepancies, blockers and final gate result.
+10. **STOP after P5. DO NOT BEGIN ENGLISH TRANSLATION.**
