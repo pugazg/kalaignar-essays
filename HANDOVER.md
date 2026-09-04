@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows:
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `b80ebb1a77deb38f2311e6897eeafd4f920fd9f1` — `Complete Kolaikkalam P2 contents tracker`.
+- Last confirmed live HEAD immediately before this handover synchronization: `3a6781e2e9c221e04450663bb46935816b32a4ed` — `Update Kolaikkalam P2 completion after reconciliation`.
 
 ---
 
@@ -129,7 +129,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 7 — கொலைக்களம்! — P0–P2 COMPLETE / ACTIVE
+# Publication 7 — கொலைக்களம்! — P0–P2 COMPLETE / RECONCILED / ACTIVE
 
 Workspace: `publications/kolaikkalam/`  
 Controlling source: `TVA_BOK_0063657_கொலைக்களம்.pdf`
@@ -141,9 +141,9 @@ Controlling source: `TVA_BOK_0063657_கொலைக்களம்.pdf`
 - cover imprint/publisher: **`முன்னேற்றப் பண்ணை`**, **`சென்னை-1`**
 - scan-2 edition line: **`முதற் பதிப்பு-52`**
 - scan-2 price: **`விலை அணா எட்டு`**
-- scan-2 P2-direct sales-rights/distributor: **`எச். எஸ். ராமுலு கம்பெனி`**
+- scan-2 reconciled sales-rights/distributor: **`எம். எஸ். ராமுலு கம்பெனி`**
 - scan-2 address: **`286, அப்பா பில்டிங்ஸ் - எஸ்பிளனேட்`**, **`சென்னை-1`**
-- scan-4 P2-direct signature: **`மு. நமசிவாயம்` / `பண்ணையாளர்.`**
+- scan-4 signature: **`மு. நமசிவாயம்` / `பண்ணையாளர்.`**
 - scan-40 printer line: **`ஸ்ரீமகள் பிரஸ், சென்னை—1`**
 - physical scans: **40**
 - source SHA-256: `674a534f6c29e5abed9c7ebf52c3cfd143f494d6a21341b5d0624871c187a96c`
@@ -163,7 +163,7 @@ Front matter:
 - scan 2 — copyright / edition / price / sales-rights page;
 - scans 3–4 — introductory signed note **`இன்பத் துளி!`**.
 
-P2 direct verification corrected the earlier P1 signature identification: scan 4 closes with **`மு. நமசிவாயம்` / `பண்ணையாளர்.`**, not `மு. கருணாநிதி`. `இன்பத் துளி!` remains introductory front matter, not one of the six numbered main prose units.
+Direct verification corrected the earlier P1 signature identification: scan 4 closes with **`மு. நமசிவாயம்` / `பண்ணையாளர்.`**, not `மு. கருணாநிதி`. `இன்பத் துளி!` remains introductory front matter, not one of the six numbered main prose units.
 
 Canonical main prose units:
 
@@ -173,8 +173,6 @@ Canonical main prose units:
 4. `விழலுக்கு நீர் இறைத்து...` — scans **23–27**;
 5. `சோதனை!` — scans **28–33**;
 6. `வீரமுழக்கஞ் செய்திடுவீர்!` — scans **34–40**.
-
-The Unit-6 heading is a direct P2 source correction of the earlier normalized P1 form `வீரமுழக்கம் செய்திடுவீர்!`.
 
 Scan 40 contains the ending of Unit 6 plus the printer line; no separate back cover is present in the supplied PDF.
 
@@ -190,9 +188,9 @@ Visibly unnumbered scans:
 
 Printed numerals inferred: **0**.
 
-## P2 completion
+## P2 completion + lexical reconciliation
 
-Canonical verified page records now exist for **all scans 1–40**:
+Canonical verified page records exist for **all scans 1–40**:
 
 - front matter: **4 / 4 verified**;
 - Unit 1 `கொலைக்களம்!`: **5 / 5 verified**;
@@ -202,24 +200,39 @@ Canonical verified page records now exist for **all scans 1–40**:
 - Unit 5 `சோதனை!`: **6 / 6 verified**;
 - Unit 6 `வீரமுழக்கஞ் செய்திடுவீர்!`: **7 / 7 verified**;
 - total page records: **40 / 40**;
-- direct lexical page verification: **40 / 40**;
-- unresolved P2 page readings: **0**.
+- direct lexical page verification: **40 / 40**.
 
-Durable source corrections established during P2:
+A post-P2 lexical reconciliation was completed on **2026-09-04** by comparing the supplied manual transcription with the live page records and adjudicating word/text differences against high-resolution source views. Corrected live page records supersede older P2 lexical readings. Durable reconciliation record:
 
-1. scan 2 distributor/address is controlled by `pages/0002-publication-data.md`, including `எச். எஸ். ராமுலு கம்பெனி`;
-2. scan 4 signature is `மு. நமசிவாயம்` / `பண்ணையாளர்.`;
-3. scan 34 heading is `வீரமுழக்கஞ் செய்திடுவீர்!`;
-4. scan 40 printer witness is `ஸ்ரீமகள் பிரஸ், சென்னை—1`;
-5. source-specific forms already captured in the verified page layer must not be normalized during P3 assembly.
+`publications/kolaikkalam/LEXICAL_RECONCILIATION_2026-09-04.md`
 
-The completed P2 page layer is authoritative unless a fresh direct source comparison demonstrates a genuine correction.
+User-reviewed damaged readings that are controlling unless a later source-supported correction is established:
+
+1. scan 5 — `யுத்தம்`;
+2. scan 8 — `நமக்கெல்லாம்`;
+3. scan 23 — `மனிதனான தப்பா`;
+4. scan 23 — `கண்ணாடிக் கன்னத்தை`;
+5. scan 25 — `இதற்குத்தானா`;
+6. scan 28 — `சூத்திரர்களை`;
+7. scan 29 — `புயலெனச்`;
+8. scan 30 — `இதுதானா`.
+
+Other durable source corrections include:
+
+- scan 2 distributor/address is controlled by `pages/0002-publication-data.md`, including `எம். எஸ். ராமுலு கம்பெனி`;
+- scan 4 signature is `மு. நமசிவாயம்` / `பண்ணையாளர்.`;
+- scan 34 heading is `வீரமுழக்கஞ் செய்திடுவீர்!`;
+- scan 40 printer witness remains `ஸ்ரீமகள் பிரஸ், சென்னை—1`;
+- source-visible old/irregular forms restored by the 2026-09-04 reconciliation must not be normalized during P3 assembly.
+
+Scan 40 was not reopened in the 2026-09-04 lexical-difference adjudication pass; its existing verified record remains unchanged.
 
 ## Gate status
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**
-- P1 — metadata + canonical page map + unit mapping: **COMPLETE / PASS, with P2 source corrections propagated**
+- P1 — metadata + canonical page map + unit mapping: **COMPLETE / PASS, with later source corrections propagated**
 - P2 — page-level transcription/direct lexical verification: **COMPLETE / PASS — 40 / 40**
+- post-P2 lexical reconciliation: **COMPLETE for adjudicated differences through scan 39**
 - P3 — article/unit assemblies: **NOT STARTED — 0 / 6**
 - P4 — source/completeness audit: **NOT STARTED**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
@@ -228,16 +241,16 @@ The completed P2 page layer is authoritative unless a fresh direct source compar
 
 ## Source authority / non-regression
 
-The supplied scan is controlling. Preserve source-visible old glyphs, spelling, punctuation, headings, names, numbers, repetitions and separate source witnesses. Do not import OCR, web wording, later editions or contextual guesses into the archival layer. P3 must assemble from the verified P2 page records without editorial normalization.
+The supplied scan is controlling. Preserve source-visible old glyphs, spelling, punctuation, headings, names, numbers, repetitions and separate source witnesses. Do not import OCR, web wording, later editions or contextual guesses into the archival layer. The reconciled live page records are the canonical transcription layer. User-reviewed damaged readings recorded in `LEXICAL_RECONCILIATION_2026-09-04.md` are controlling unless a later source-supported correction is established.
 
 ## Exact next activity
 
-**P3 — assemble the six canonical main prose units from the verified P2 page records.**
+**P3 — assemble the six canonical main prose units from the reconciled live page records.**
 
 1. Fetch live `main` first and preserve newer durable work.
-2. Read the completed page records; do not repeat P2 merely because an older prompt says it was incomplete.
-3. Create six article assemblies from scans **5–9**, **10–16**, **17–22**, **23–27**, **28–33**, and **34–40**.
-4. Preserve source wording, punctuation, paragraph sequence and page-boundary provenance.
-5. Keep the scan-40 printer witness outside Unit 6 prose body.
-6. P4 and P5 remain later Tamil gates; English translation remains out of scope.
-7. **The completed P2 activity stops here. Do not begin P3 in the same activity.**
+2. Read this handover, `publications/kolaikkalam/LEXICAL_RECONCILIATION_2026-09-04.md`, and the live page records before assembly.
+3. Do not repeat P2 or restore superseded lexical readings from an older prompt/checkpoint.
+4. Create six article assemblies from scans **5–9**, **10–16**, **17–22**, **23–27**, **28–33**, and **34–40**.
+5. Preserve source wording, punctuation, paragraph sequence and page-boundary provenance.
+6. Keep the scan-40 printer witness outside Unit 6 prose body.
+7. P4 and P5 remain later Tamil gates; English translation remains out of scope.
