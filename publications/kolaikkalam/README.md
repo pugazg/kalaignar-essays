@@ -61,12 +61,12 @@ Current gates:
 - E0: **COMPLETE / PASS**
 - T0: **5 / 6 PASS**
 - T1: **5 / 6 PASS**
-- T2: **4 / 6 PASS**
-- T3: **4 / 6 PASS**
-- T4: **4 / 6 PASS**
-- T5: **4 / 6 PASS / VERIFIED**
+- T2: **5 / 6 PASS**
+- T3: **5 / 6 PASS**
+- T4: **5 / 6 PASS**
+- T5: **5 / 6 PASS / VERIFIED**
 - English article files: **5 / 6**
-- verified English articles: **4 / 6**
+- verified English articles: **5 / 6**
 - blockers: **0**
 
 Verified English authorities:
@@ -75,18 +75,21 @@ Verified English authorities:
 2. `‘அஸ்தி’ கரையட்டும்!` → **Let the ‘Ashes’ Dissolve!** — `d20e579836ff2749664d7ee1ed5def5237293e60`
 3. `பலியை நிறுத்துங்கள்!` → **Stop the Sacrifice!** — `812c36b9e5350608dd1a951d08c2e48074549697`
 4. `விழலுக்கு நீர் இறைத்து...` → **Watering the Weeds...** — `455e229bf216b21c8bc08c192be3b9e44c54940e`
+5. `சோதனை!` → **Search!** — `fe5a7ea3c17c1bce940d4688365892aaa720285b`
 
-Article 4 preserves **5 / 5** source-page comments and closes with **0** unresolved translation choices. T4 verified the repeated weeds/water futile-labour image, **pitch of valour**, source-bearing **kattai**, **self-rule / good-rule**, **Chandala-ness**, **makes the street-corners laugh**, **capitalist sewer**, **drum of imperialism**, **Congress Purana**, and all source labels/proper names without outside expansion.
-
-## Article 5 — T0/T1 PASS / DRAFT
+## Article 5 — T0–T5 PASS / VERIFIED
 
 - Tamil authority: `articles/05-sothanai.md` — `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`;
-- English draft: `translations/en/05-sothanai.md` — `c3b0c4e22053395dddc4adf6d6b132464c7af80f`;
+- T1 draft: `c3b0c4e22053395dddc4adf6d6b132464c7af80f`;
+- T2 fidelity-reviewed: `07358cf38466fa8783e17635a05615a110a9e069`;
+- T3 voice-reviewed / T4 body authority: `f1f376ff274dc1131e31c1707ef5d8f9dde17bcc`;
+- T5 verified English: `translations/en/05-sothanai.md` — `fe5a7ea3c17c1bce940d4688365892aaa720285b`;
 - source scans/comments: **28–33 / 6 of 6 preserved**;
-- working English title: **Search!** — provisional until T4;
-- title context: police-search/search-the-heart senses dominate the body; the closing line deliberately shifts to **trial / test**;
-- T1 terminology includes **Shudras**, **religious neutrality**, **class hatred**, **arrows of repression**, **blank shots**, **police darbar**, **awakening of the race**, **religious axes** and the closing **achievement / search / trial / test** turn;
-- `சந்தர்ப்பபேத` remains a T2/T4 nuance check;
+- verified English title: **Search!**;
+- title context: the article repeatedly challenges police searches and redirects the search toward the Aryan heart; its closing line broadens `சோதனை` to **trial / test**, which is deliberately retained as a contextual shift;
+- `சந்தர்ப்பபேத` verified as **divisions created according to circumstance**;
+- durable terminology includes **Shudras**, **religious neutrality**, **class hatred**, **arrows of repression**, **blank shots**, **police darbar**, **awakening of the race**, **religious axes**, and **sacred place**;
+- unresolved translation choices: **0**;
 - blockers: **0**.
 
 Article 6 remains not started. Its working title remains provisional.
@@ -97,4 +100,4 @@ Follow `ESSAY_TRANSLATION_GUIDE.md`: **Translate the language; do not neutralise
 
 ## Exact next activity
 
-**Article 5 `சோதனை!` — T2 bilingual fidelity review.** Re-fetch frozen Tamil blob `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` and T1 English draft blob `c3b0c4e22053395dddc4adf6d6b132464c7af80f`; compare every clause for omissions, additions, referents, negatives, logical relations, quotation scope and repetition; preserve all **6 / 6** source-page comments; review `சந்தர்ப்பபேத`; keep **Search!** provisional until T4. Preserve Articles 1–4 as verified and do not begin Article 6.
+**Article 6 `வீரமுழக்கஞ் செய்திடுவீர்!` — T0 then T1.** Re-fetch and require frozen Tamil blob `9e0b9e437a7548ca31ce352ab485b1e342bedb95`, then create the complete close English draft. Keep the scan-40 printer witness outside Unit-6 prose, preserve all ordered source-page comments, keep **Raise the Heroic Cry!** provisional until T4, and preserve Articles 1–5 as verified.
