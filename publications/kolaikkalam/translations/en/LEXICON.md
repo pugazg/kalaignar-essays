@@ -8,19 +8,19 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 |---|---|---|---|---|
 | `ஆரியம்` | Aryanism | Preserve Kalaignar's ideological label; do not flatten to a generic ethnic description. | E0 | **verified through A5 T4** |
 | `ஆரியர்` | Aryans | Context-sensitive person/group form; retain polemical source function. | E0 | provisional |
-| `திராவிடர்` | Dravidians | Preserve source political/social terminology. | E0 | **verified through A5 T4** |
-| `திராவிடம்` | Dravidian land / Dravidian country / Dravidian polity | Articles 1–2 and 5 use **Dravidian land** where the sentence denotes the land/polity; choose by sentence rather than mechanically. | E0 / A1 T1 | **verified through A5 T4** |
+| `திராவிடர்` | Dravidians | Preserve source political/social terminology. | E0 | **verified through A6 T4** |
+| `திராவிடம்` | Dravidian land / Dravidian country / Dravidian polity | Articles 1–2, 5 and 6 use **Dravidian land / Dravidian country** by sentence; Article 6 also uses the polity sense in the South Indian Federation argument. | E0 / A1 T1 | **verified through A6 T4** |
 | `பார்ப்பனர்` / `பார்ப்பனன்` | Brahmins / Brahmin | Preserve source referent and rhetorical force. | E0 | **verified through A3 T4** |
 | `பார்ப்பனீயம்` | Brahminism | Ideological/system label; do not soften to a neutral description. | E0 | **verified A2 T4** |
 | `பகுத்தறிவு` | rationalism / rational thought | Contextual choice; preserve movement/polemical force where present. Article 5 uses **rationalist propaganda / rationalist service / rationalist lions** by grammar and rhetorical function. | E0 / A5 T1 | **verified through A5 T4** |
-| `தேசீயம்` | nationalism / national / nationalist | Article 2 `தேசீயப் போர்வை` → **cloak of nationalism**; Article 3 uses nationalism/nationalist by sentence. | E0 | **verified through A3 T4** |
-| `மாகாணம்` | province | Preserve period administrative frame rather than modernising silently. | E0 | provisional |
-| `மத்ய சர்க்கார்` | Central Government | Source-visible period form; translate function, not spelling anomaly. | E0 | provisional |
-| `சர்க்கார்` | Government | Context may require government/administration. | E0 | provisional |
+| `தேசீயம்` | nationalism / national / nationalist | Article 2 `தேசீயப் போர்வை` and Article 6 `தேசியப் போர்வை` → **cloak of nationalism**; use national/nationalist by grammar elsewhere. | E0 | **verified through A6 T4** |
+| `மாகாணம்` | province | Preserve period administrative frame rather than modernising silently. Article 6 uses **province / provincial** throughout its centre–province argument. | E0 | **verified A6 T4** |
+| `மத்ய சர்க்கார்` / `மத்திய சர்க்கார்` | Central Government | Article 6 preserves the source's period orthographic variation while English renders both functionally as **Central Government**. | E0 / A6 T1 | **verified A6 T4** |
+| `சர்க்கார்` | Government | Context may require government/administration. | E0 | **verified through A6 T4** |
 | `அஸ்தி` | ashes | Preserve source quotation marks where present. Article 2 deliberately keeps **dissolve** across ritual and blood-sea uses to retain the repeated `கரை` image. | E0 / A2 T1 | **verified A2 T4** |
 | `சோதனை` | search / trial / test | Article 5 uses **search** for police/search-the-heart senses, then deliberately shifts to **trial / test** in the closing line. The title **Search!** is verified because the article's central action is the challenged and redirected search; the closing polysemy remains explicit in English rather than being homogenised. | E0 / A5 T1 | **verified A5 T4** |
 | `விழல்` | weeds | Article 4 uses the repeated futile-labour image **poured water on weeds / shall not cease pouring water on weeds**; title **Watering the Weeds...** preserves the image without adding an explanatory gloss. | E0 / A4 T1 | **verified A4 T4** |
-| `வீரமுழக்கம்` / `வீரமுழக்கஞ்` | heroic cry / battle cry | Preserve exhortative force; title working choice is `Raise the Heroic Cry!`. | E0 | provisional |
+| `வீரமுழக்கம்` / `வீரமுழக்கஞ்` | heroic cry | Article 6 title **Raise the Heroic Cry!** and closing imperative both retain the exhortative `முழக்கம்` image. | E0 / A6 T1 | **verified A6 T4** |
 | `கொலைக்களம்` | killing field | Article 1 title **The Killing Field!**. | A1 T1 | **verified A1 T4** |
 | `போர் முரசு` | war drum | Preserve martial image rather than flattening to “war”. | A1 T1 | **verified A1 T4** |
 | `விடுதலை விருத்தம்` | hymn to freedom | Preserve rhetorical image. | A1 T1 | **verified A1 T4** |
@@ -33,7 +33,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `சமரச சற்குண வழிகாட்டி` | guide to harmonious virtue | Preserve compact parallel phrase and cadence. | A1 T3 | **verified A1 T4** |
 | `சங்கநாதம்` | conch-blast | Preserve warning-call image. | A1 T1 | **verified A1 T4** |
 | `நடுநிலைமையா? / நடுக்க நிலைமையா?` | state of neutrality? / state of trembling? | Preserve the sound/semantic contrast as a rhetorical pair. | A1 T1 | **verified A1 T4** |
-| `ஆச்சாரியார்` | Achariyar | Preserve source-chosen label; do not silently substitute a modern full name. | A2 T1 | **verified A2 T4** |
+| `ஆச்சாரியார்` | Achariyar | Preserve source-chosen label; Article 6 retains **Achariyar** rather than silently substituting a modern full name. | A2 T1 | **verified through A6 T4** |
 | `திராவிட கழகம்` / `திராவிடக் கழகம்` | Dravidar Kazhagam | Source-bearing organisation name; retain transliteration. | A2 T1 | **verified A2 T4** |
 | `சாணக்கிய` | Chanakyan | Preserve source-bearing historical/polemical adjective without outside substitution. | A2 T1 | **verified A2 T4** |
 | `பத்திரிகை தர்மம்` | journalistic dharma | Preserve the source's `தர்மம்` formulation. | A2 T1 | **verified A2 T4** |
@@ -48,7 +48,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `இன முழக்கம்` | clarion call of the race | Article 2 preserves the slogan-like force. | A2 T1 | **verified A2 T4** |
 | `பலி / பலியிடு / பலி பீடம்` | sacrifice / sacrifice / altar | Article 3 uses this repeated image from devotional sacrifice to nationalism. Keep the family visible rather than varying it away. | A3 T1 | **verified A3 T4** |
 | `உயிர்ப்பலி / வாழ்வு பலி` | sacrifice of life / life itself is being sacrificed | Preserve the deliberate contrast; do not narrow `உயிர்ப்பலி` to “blood sacrifice”. | A3 T2 | **verified A3 T4** |
-| `பாரத மாதா` | Bharat Mata | Preserve source-bearing national personification rather than silently replacing it with a different label. | A3 T2 | **verified A3 T4** |
+| `பாரத மாதா` | Bharat Mata | Preserve source-bearing national personification rather than silently replacing it with a different label; Article 6 repeats it in direct address and satire. | A3 T2 | **verified through A6 T4** |
 | `கோரா கும்பர்` | Gora Kumbhar | Source-bearing name; retain transliteration without unsupported explanatory expansion. | A3 T1 | **verified A3 T4** |
 | `வகுப்புத்துவேஷம்` | class hatred | Preserve the source category; do not silently substitute “caste hatred” or “communal hatred”. | A3 T1 | **verified through A5 T4** |
 | `வடமொழி` | northern language | Do not silently identify a particular language when the source does not name it. | A3 T1 | **verified A3 T4** |
@@ -78,6 +78,19 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `மதக் கோடரிகள்` | religious axes | Preserve the violent image of religion splitting people into classes. | A5 T1 | **verified A5 T4** |
 | `சாதனை / சோதனை` | achievement / search; trial; test | Article 5 closes on a deliberate sound/semantic turn from `சாதனை` to the multiple senses of `சோதனை`; English preserves the distinction and documents the unavoidable loss of same-word repetition across senses. | A5 T1 | **verified A5 T4** |
 | `திரு இடம்` | sacred place | Quoted source expression in Article 5's closing social ideal; do not add an explanatory religious claim. | A5 T1 | **verified A5 T4** |
+| `மாகாண உணர்ச்சி` | provincial feeling | Article 6's recurring centre–province term; retain the ideological/political repetition instead of varying it away. | A6 T1 | **verified A6 T4** |
+| `தென்னிந்திய பெடரேஷன்` | South Indian Federation | Source-bearing political formulation; Article 6 explicitly equates it in argument with a separate Dravidian country while retaining the source label. | A6 T1 | **verified A6 T4** |
+| `மொழிவாரி மாகாணப் பிரிவினை` | linguistic provincial division | Preserve the source's period centre–province framing rather than silently substituting a later administrative label. | A6 T1 | **verified A6 T4** |
+| `விவேக (!) சிந்தாமணி` | Viveka (!) Chintamani | Retain the source-bearing satirical expression rather than inventing an unsupported identification or smoothing it into generic “wisdom”. | A6 T1 | **verified A6 T4** |
+| `பிரகஸ்பதிகள்` | Brihaspatis | Retain the source-bearing sarcastic learned-person label without outside expansion. | A6 T1 | **verified A6 T4** |
+| `ராஷ்டிர பாஷை` | Rashtra Bhasha | Retain source-bearing period language label alongside **national language** and the source's Hindi/Hindustani contrast. | A6 T1 | **verified A6 T4** |
+| `பட்டாணிஸ்தான்` | Pathanistan | Preserve the source-visible political name; do not silently replace it with another historical spelling. | A6 T1 | **verified A6 T4** |
+| `கபார்கான்` | Kabar Khan | Preserve the source-visible name and do not silently expand or normalize it from outside knowledge. | A6 T1 | **verified A6 T4** |
+| `அரசியல் மொழி` | language of government | Article 6 Lower-Bengal passage; functional close rendering without importing an external constitutional label. | A6 T2 | **verified A6 T4** |
+| `மாற்றாந்தாய்க் கொடுமை` | stepmother's cruelty | Preserve the source's accusatory family metaphor for Central Government treatment. | A6 T1 | **verified A6 T4** |
+| `இரும்பு முதலாளித் தத்துவம்` | iron capitalist doctrine | Preserve the deliberately hard physical/political image in the Article-6 closing attack. | A6 T1 | **verified A6 T4** |
+| `காமார்க்குங் குடியல்லோம்` | Kaamaarkkung kudiyallom | Frozen scan-40 source reading is retained as a source-bearing transliteration; do **not** normalize it to a more familiar quotation from memory or outside sources. | A6 T1 | **verified A6 T4** |
+| `திராவிடநாடு திராவிடருக்கே` | Dravidian land for the Dravidians | Preserve the closing slogan and its direct declarative force. | A6 T1 | **verified A6 T4** |
 
 ## Proper-name / source-label policy
 
@@ -89,6 +102,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 - Article 3 retains **Gora Kumbhar**, **Bharat Mata**, **V.O. Chidambaram**, **Tiruppur Kumaran**, **Comrade Durgabai**, **Saraswati**, **Arjuna** and **Draupadi** with no added historical explanation in the body.
 - Article 4 retains source-bearing **Madana**, **Prakasam**, **Omandurar**, **Chokkalingam**, **Dinasaari**, **Bharata Devi**, **Sri Vaidyanatha Iyer**, **Vadapathimangalam**, **Naadi Muthus** and **Vaidyanatha Iyers** without outside identification or harmonisation.
 - Article 5 retains source-bearing **Indra**, **Agni**, **Shudras**, **Vedas**, **Agamas**, **Puranas**, **Itihasas**, **Congress Government** and the quoted institutional/polemical labels without adding outside historical explanation.
+- Article 6 retains source-bearing **Pandit Jawaharlal**, **Achariyar**, **Shanmugam Chettiar**, **Vasishta**, **Brihaspatis**, **Kabar Khan**, **Pathanistan**, **Lower Bengal**, **Birla**, **Bajaj**, **Tata**, **Dalmia**, **Viveka Chintamani** and **Kaamaarkkung kudiyallom** without unsupported outside expansion or normalization.
 
 ## Title status
 
@@ -97,6 +111,6 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 - `பலியை நிறுத்துங்கள்!` → **Stop the Sacrifice!** — **verified A3 T4/T5**.
 - `விழலுக்கு நீர் இறைத்து...` → **Watering the Weeds...** — **verified A4 T4/T5**; the repeated Article-4 image makes the title's futile-labour force clear without adding an explanatory subtitle.
 - `சோதனை!` → **Search!** — **verified A5 T4/T5**; the body repeatedly challenges police searches and redirects the search toward the Aryan heart, while the closing line broadens the same Tamil word to **trial / test**. The title keeps the article's dominant action and the review ledger records the polysemy.
-- `வீரமுழக்கஞ் செய்திடுவீர்!` → working **Raise the Heroic Cry!**.
+- `வீரமுழக்கஞ் செய்திடுவீர்!` → **Raise the Heroic Cry!** — **verified A6 T4/T5**; the title matches the article's final direct imperative and preserves the repeated heroic-cry image without reducing it to a neutral “appeal”.
 
-Articles 1–5 titles are verified; Article 6 remains provisional until its own gates.
+Articles 1–6 titles are verified.
