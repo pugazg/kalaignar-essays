@@ -59,22 +59,25 @@ Translation records:
 Current gates:
 
 - E0: **COMPLETE / PASS**
-- T0: **2 / 6 PASS**
-- T1: **2 / 6 PASS**
-- T2: **2 / 6 PASS**
-- T3: **2 / 6 PASS**
-- T4: **2 / 6 PASS**
-- T5: **2 / 6 PASS / VERIFIED**
-- English article files: **2 / 6**
-- verified English articles: **2 / 6**
+- T0: **3 / 6 PASS**
+- T1: **3 / 6 PASS**
+- T2: **3 / 6 PASS**
+- T3: **3 / 6 PASS**
+- T4: **3 / 6 PASS**
+- T5: **3 / 6 PASS / VERIFIED**
+- English article files: **3 / 6**
+- verified English articles: **3 / 6**
 - blockers: **0**
 
 Verified English authorities:
 
 1. `கொலைக்களம்!` → **The Killing Field!** — `c0ca9a883720d51a2637b811b7f38ca1635ba848`
 2. `‘அஸ்தி’ கரையட்டும்!` → **Let the ‘Ashes’ Dissolve!** — `d20e579836ff2749664d7ee1ed5def5237293e60`
+3. `பலியை நிறுத்துங்கள்!` → **Stop the Sacrifice!** — `812c36b9e5350608dd1a951d08c2e48074549697`
 
-Articles 3–6 remain not started. Their working titles remain provisional.
+Article 3 preserves **6 / 6** source-page comments and closes with **0** unresolved translation choices. Its verified terminology preserves the sacrifice/altar family, the `உயிர்ப்பலி / வாழ்வு` contrast, **Bharat Mata**, source-bearing **Gora Kumbhar**, `class hatred`, `northern language`, `technical vocabulary`, `original inhabitants`, `growth of the race`, `sacrifice of the race`, and **Down with Brahmins** without unsupported outside expansion.
+
+Articles 4–6 remain not started. Their working titles remain provisional.
 
 ## Translation non-regression
 
@@ -82,4 +85,4 @@ Follow `ESSAY_TRANSLATION_GUIDE.md`: **Translate the language; do not neutralise
 
 ## Exact next activity
 
-**Article 3 `பலியை நிறுத்துங்கள்!` — T0 then T1.** Re-fetch and require frozen Tamil blob `e9df22b14e6102c691fe4cc81417eda1051d8f25`, then create the complete close English draft. Preserve Articles 1–2 as verified.
+**Article 4 `விழலுக்கு நீர் இறைத்து...` — T0 then T1.** Re-fetch and require frozen Tamil blob `91f764f73c9514b2ce1eefdd94d3a1320a0c228e`, then create the complete close English draft. The working title **Watering the Weeds...** remains image-sensitive; review it in context but do not finalize it before T4. Preserve Articles 1–3 as verified.
