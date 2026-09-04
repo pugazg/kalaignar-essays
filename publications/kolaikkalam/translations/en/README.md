@@ -2,7 +2,8 @@
 
 Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TRANSLATION_GUIDE.md)  
 Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)  
-Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)
+Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)  
+E6 review: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)
 
 > **Translate the language; do not neutralise the voice.**
 
@@ -18,7 +19,7 @@ Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)
 - T5: **6 / 6 PASS / VERIFIED**
 - English article files: **6 / 6**
 - verified English articles: **6 / 6**
-- E6 publication-wide consistency review: **not-started**
+- E6 publication-wide consistency review: **PASS / COMPLETE**
 - E7 release closeout: **not-started**
 - blockers: **0**
 
@@ -35,7 +36,9 @@ Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)
 
 All six article titles are verified.
 
-## Verified English authorities
+## E6 release-candidate English authorities
+
+No English body correction was required by E6, so the T5 blobs remain unchanged:
 
 1. `கொலைக்களம்!` → **The Killing Field!** — `c0ca9a883720d51a2637b811b7f38ca1635ba848`
 2. `‘அஸ்தி’ கரையட்டும்!` → **Let the ‘Ashes’ Dissolve!** — `d20e579836ff2749664d7ee1ed5def5237293e60`
@@ -44,29 +47,31 @@ All six article titles are verified.
 5. `சோதனை!` → **Search!** — `fe5a7ea3c17c1bce940d4688365892aaa720285b`
 6. `வீரமுழக்கஞ் செய்திடுவீர்!` → **Raise the Heroic Cry!** — `726217a73d55e573176b29da61a0c3dfb3cff611`
 
-## Article 6 verified authority
+## E6 publication-wide consistency review — PASS
 
-- frozen Tamil authority: `9e0b9e437a7548ca31ce352ab485b1e342bedb95`
-- T1 draft: `440dd63458e1f43a764fc7c4006b30bbf0110a0e`
-- T2 fidelity-reviewed: `d3f49494a6a782b544252b2d7047685215413cd1`
-- T3 voice-reviewed / T4 body authority: `8615ad98e1d1e37f2d53fd931f9bc86c3a0d2a73`
-- T5 verified English: `726217a73d55e573176b29da61a0c3dfb3cff611`
-- source-page comments: **7 / 7 preserved**
-- scan-40 printer witness in prose: **excluded / PASS**
-- unresolved choices: **0**
-- blockers: **0**
+- recurring ideological vocabulary: **PASS**;
+- recurring names / epithets: **PASS**;
+- title style: **PASS**;
+- quotation/source treatment: **PASS**;
+- source-bearing transliterations and explanatory restraint: **PASS**;
+- source-sensitive contextual differences preserved rather than homogenised: **PASS**;
+- ordered source-page comments: **36 / 36 preserved**;
+- Article-6 scan-40 printer witness in prose: **excluded / PASS**;
+- English body corrections required: **0 / 6**;
+- frozen Tamil changes: **0**;
+- blockers: **0**.
 
-T4 verified **Raise the Heroic Cry!** from the article's final direct imperative. Durable Article-6 choices include **provincial feeling**, **Central Government**, **South Indian Federation**, source-bearing **Viveka (!) Chintamani**, **Brihaspatis**, **Rashtra Bhasha**, **Pathanistan**, **Kabar Khan**, **language of government**, **iron capitalist doctrine**, **Kaamaarkkung kudiyallom**, **Dravidian land for the Dravidians!**, and the reused **cloak of nationalism**. The scan-40 printer witness remains outside the English prose.
+Deliberate E6 exceptions include **Dravidian land / Dravidian country** by source sense, **nationalism / national / nationalist** by grammar, Article-2 **Jawahar** versus Article-6 **Pandit Jawaharlal**, Article-1 **Hindustan** versus Article-6 **India / united India**, Article-4 **pitch of valour** versus Article-6 **heroic cry**, and Article-5 contextual **search / trial / test**. Source-bearing **Kuyyo! Muraiyo!**, **Neeli tears**, **Vibhishanas**, **Venganna**, **Chanakyan**, **kattai**, **Chandala-ness**, **Viveka (!) Chintamani**, **Brihaspatis**, **Rashtra Bhasha**, **Pathanistan**, **Kabar Khan**, and **Kaamaarkkung kudiyallom** remain intentionally unnormalised.
 
 ## Translation files
 
-1. `01-kolaikkalam.md` — **VERIFIED**
-2. `02-asthi-karaiyattum.md` — **VERIFIED**
-3. `03-paliyai-niruththungal.md` — **VERIFIED**
-4. `04-vizhalukku-neer-iraiththu.md` — **VERIFIED**
-5. `05-sothanai.md` — **VERIFIED**
-6. `06-veeramuzhakkam-seythiduveer.md` — **VERIFIED**
+1. `01-kolaikkalam.md` — **VERIFIED / E6 release candidate**
+2. `02-asthi-karaiyattum.md` — **VERIFIED / E6 release candidate**
+3. `03-paliyai-niruththungal.md` — **VERIFIED / E6 release candidate**
+4. `04-vizhalukku-neer-iraiththu.md` — **VERIFIED / E6 release candidate**
+5. `05-sothanai.md` — **VERIFIED / E6 release candidate**
+6. `06-veeramuzhakkam-seythiduveer.md` — **VERIFIED / E6 release candidate**
 
 ## Exact next activity
 
-Perform **E6 — publication-wide English consistency review** across all six verified articles. Preserve source-sensitive differences; classify every apparent inconsistency as **consistent**, **deliberate contextual/source-witness exception**, or **correction required**. If E6 requires a body correction, update the affected verified blob and all dependent records. Stop after E6; E7 remains separate.
+Perform **E7 — English release closeout**. Re-fetch the six E6 release-candidate English blobs and all six frozen Tamil authorities, confirm no post-E6 body or metadata drift, verify **36 / 36** ordered source-page comments and the Article-6 scan-40 printer-witness exclusion, synchronize final release documentation, and mark the English translation **COMPLETE / RELEASED / FROZEN** only if no blocker is found.
