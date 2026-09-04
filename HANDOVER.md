@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows:
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before Kolaikkalam E0 setup: `46adbcc0d5099bc15816b3fdbe678cfa0829af98` — `Close Kolaikkalam P5 strict visual fidelity`.
+- Last confirmed live HEAD immediately before Kolaikkalam Article-1 T0/T1: `45d65c22701aff9313d750ae7252efc3711ad078` — `Set up Kolaikkalam English translation E0`.
 
 ---
 
@@ -129,7 +129,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 7 — கொலைக்களம்! — TAMIL FROZEN / ENGLISH E0 COMPLETE / T1 NOT STARTED
+# Publication 7 — கொலைக்களம்! — TAMIL FROZEN / ARTICLE 1 T0–T1 COMPLETE / ACTIVE
 
 Workspace: `publications/kolaikkalam/`  
 Controlling source: `TVA_BOK_0063657_கொலைக்களம்.pdf`
@@ -234,18 +234,35 @@ Working English title witnesses:
 5. `சோதனை!` → **Search!** — provisional/context-sensitive
 6. `வீரமுழக்கஞ் செய்திடுவீர்!` → **Raise the Heroic Cry!**
 
-Titles are planning witnesses only until article T4/T5.
+Titles remain provisional until article T4/T5.
 
-English gate state:
+## Article 1 — T0 / T1 complete
+
+Article: `கொலைக்களம்!`  
+English file: `publications/kolaikkalam/translations/en/01-kolaikkalam.md`
+
+- frozen Tamil blob required: `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`;
+- live Tamil blob re-fetched before translation: **exact match / T0 PASS**;
+- source scans: **5–9**;
+- English draft blob at T1 close: `546a4b075e794237dd6299bcbddc09c17f79583a`;
+- ordered source-page comments: **5 / 5 preserved**;
+- translation status: `draft`;
+- T1 complete paragraph-by-paragraph from frozen Tamil only;
+- T2–T5: not started;
+- blockers: **0**.
+
+T1 established/activated translation choices including `Hindustan` for source `இந்துஸ்தான்`, `Dravidian land` for the Article-1 occurrence of `திராவிடம்`, `Nazism` for `நாசீசம்`, `infanticide` for `சிசுஹத்தி`, and generic `international organisation` for `சர்வ தேச சங்கம்` because the source does not itself name a specific body. The title **The Killing Field!** remains provisional until T4/T5.
+
+## Current English gate state
 
 - E0: **COMPLETE / PASS**
-- T0: **0 / 6**
-- T1: **0 / 6**
+- T0: **1 / 6 PASS**
+- T1: **1 / 6 PASS**
 - T2: **0 / 6**
 - T3: **0 / 6**
 - T4: **0 / 6**
 - T5: **0 / 6**
-- English article files: **0 / 6**
+- English article files: **1 / 6**
 - blockers: **0**
 
 ## Translation non-regression
@@ -261,11 +278,11 @@ Follow `ESSAY_TRANSLATION_GUIDE.md` exactly:
 
 ## Exact next activity
 
-Process **Article 1 — `கொலைக்களம்!`** only:
+Process **Article 1 — `கொலைக்களம்!` — T2 bilingual fidelity review only**:
 
-1. T0 — re-fetch `publications/kolaikkalam/articles/01-kolaikkalam.md` and require blob `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`.
-2. Create `publications/kolaikkalam/translations/en/01-kolaikkalam.md` with required metadata.
-3. T1 — translate the complete article paragraph by paragraph from that frozen Tamil authority only.
-4. Preserve all source-page comments for traceability.
-5. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, `translations/en/README.md`, root `HANDOVER.md` and `docs/NEXT_CHAT_PROMPT.md`.
-6. Do not begin Article 2 in the same activity unless the user explicitly changes the cadence.
+1. re-fetch frozen Tamil blob `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274` and the live English draft;
+2. compare every Tamil paragraph/clause with English;
+3. check omissions/additions, names/referents, numbers, quotations, negatives, comparisons, logical connectors and repetitions;
+4. preserve all **5 / 5** ordered source-page comments;
+5. document every T2 correction in `translations/en/TRANSLATION_REVIEW.md` and update tracker/lexicon as needed;
+6. do **not** begin T3 or Article 2 in the same activity unless the user explicitly changes the cadence.

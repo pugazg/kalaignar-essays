@@ -45,13 +45,45 @@ Completed:
 
 - frozen Tamil blob: `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`
 - working English title: **The Killing Field!**
-- T0: not-started
-- T1: not-started
+- English file: `01-kolaikkalam.md`
+- English draft blob at T1 close: `546a4b075e794237dd6299bcbddc09c17f79583a`
+- T0: **PASS**
+- T1: **PASS / complete draft**
 - T2: not-started
 - T3: not-started
 - T4: not-started
 - T5: not-started
-- unresolved translation choices: none yet
+
+#### T0 source prerequisite
+
+- live `articles/01-kolaikkalam.md` was re-fetched immediately before translation;
+- live blob SHA: `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`;
+- required frozen SHA: `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`;
+- strict-reviewed status: confirmed;
+- source scans: `5–9`;
+- result: **PASS**.
+
+#### T1 close draft
+
+- complete article translated paragraph by paragraph from the frozen Tamil assembly only;
+- source-page comments preserved in order: **5 / 5**;
+- rhetorical questions retained as questions;
+- repeated `War! War! War...` preserved;
+- war/volcano/body imagery retained rather than abstracted;
+- direct accusation and polemical tone retained;
+- `Hindustan` retained where the source chooses `இந்துஸ்தான்` rather than silently replacing it with `India`;
+- `சர்வ தேச சங்கம்` rendered generically as `international organisation` because the source does not itself name a specific body;
+- `சிசுஹத்தி` rendered `infanticide`, preserving the harsh infant metaphor;
+- working title **The Killing Field!** retained through T1 but remains provisional until T4/T5;
+- no external/web wording or raw manual transcript used as translation authority;
+- unresolved source blockers: **0**.
+
+#### T1 choices requiring T2/T4 attention
+
+- recheck the long scan-6→7 cumulative sentence for clause-by-clause logical correspondence;
+- recheck the rhetorical wordplay `நடுநிலைமையா? / நடுக்க நிலைமையா?` rendered as `state of neutrality? / state of trembling?`;
+- recheck `சிரமறுத்தல் வேந்தனுக்குப் பொழுது போக்கு...` for exact force while preserving the violent aphoristic structure;
+- title remains provisional until terminology/title audit.
 
 ### Article 2 — `‘அஸ்தி’ கரையட்டும்!`
 
@@ -87,4 +119,4 @@ Completed:
 
 ## Exact next activity
 
-Article 1 T0, followed by Article 1 T1 close draft from the frozen Tamil authority only. Record all material terminology/title decisions here and in `LEXICON.md` as they arise.
+Article 1 **T2 bilingual fidelity review** only. Compare every Tamil paragraph/clause against `translations/en/01-kolaikkalam.md`, correct omissions/additions/referent or logical errors, preserve all five source-page comments, and document every T2 correction here. Do not begin Article 2 yet.

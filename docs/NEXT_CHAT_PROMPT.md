@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Essays / கொலைக்களம்! — Article 1 T0/T1
+# Next Chat Prompt — Kalaignar Essays / கொலைக்களம்! — Article 1 T2
 
 Use this only as a convenience handoff. **Live `main` and root `HANDOVER.md` are authoritative.**
 
@@ -12,7 +12,7 @@ Fetch live `main` first. Preserve any newer durable work. Do not reopen the froz
 
 ## Mandatory startup
 
-Before English article work, read completely:
+Before continuing English work, read completely:
 
 1. `ESSAY_TRANSLATION_GUIDE.md`
 2. `docs/FUTURE_WORK_GUIDELINES.md`
@@ -25,52 +25,58 @@ Before English article work, read completely:
 9. `publications/kolaikkalam/translations/en/LEXICON.md`
 10. `publications/kolaikkalam/translations/en/TRANSLATION_REVIEW.md`
 11. frozen Tamil Article 1 assembly `publications/kolaikkalam/articles/01-kolaikkalam.md`
+12. live English draft `publications/kolaikkalam/translations/en/01-kolaikkalam.md`
 
 ## Tamil state — FROZEN
 
 P0–P5 are complete. Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**. Do not alter Tamil for translation convenience.
 
-## E0 state — COMPLETE / PASS
+Frozen Article-1 authority:
 
-English planning/setup is complete:
+`bc22ad3acec0bacc70ef69e0fb46f85fa3fed274` — `கொலைக்களம்!` — scans 5–9.
 
-- translation plan created;
-- frozen source map created;
-- tracker, living lexicon and review ledger initialized;
-- article order fixed to 1→6;
-- English article files: **0 / 6**;
-- T0–T5: **0 / 6**;
-- blockers: **0**.
+## English state
 
-Working title witnesses:
+- E0: **COMPLETE / PASS**
+- Article 1 T0: **PASS**
+- Article 1 T1: **PASS / complete draft**
+- Article 1 English draft: `translations/en/01-kolaikkalam.md`
+- T1 draft blob at close: `546a4b075e794237dd6299bcbddc09c17f79583a`
+- ordered source-page comments: **5 / 5 preserved**
+- translation status: `draft`
+- T2–T5: **not started**
+- Articles 2–6: **not started**
+- blockers: **0**
 
-1. `கொலைக்களம்!` → **The Killing Field!**
-2. `‘அஸ்தி’ கரையட்டும்!` → **Let the ‘Ashes’ Dissolve!**
-3. `பலியை நிறுத்துங்கள்!` → **Stop the Sacrifice!**
-4. `விழலுக்கு நீர் இறைத்து...` → **Watering the Weeds...** — provisional/image-sensitive
-5. `சோதனை!` → **Search!** — provisional/context-sensitive
-6. `வீரமுழக்கஞ் செய்திடுவீர்!` → **Raise the Heroic Cry!**
+Current overall gates:
 
-Titles remain provisional until article T4/T5.
+- T0: **1 / 6 PASS**
+- T1: **1 / 6 PASS**
+- T2: **0 / 6**
+- T3: **0 / 6**
+- T4: **0 / 6**
+- T5: **0 / 6**
 
-## Frozen Tamil authorities
+## Article-1 T1 choices to preserve/review
 
-1. `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274` — `கொலைக்களம்!`
-2. `c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5` — `‘அஸ்தி’ கரையட்டும்!`
-3. `e9df22b14e6102c691fe4cc81417eda1051d8f25` — `பலியை நிறுத்துங்கள்!`
-4. `91f764f73c9514b2ce1eefdd94d3a1320a0c228e` — `விழலுக்கு நீர் இறைத்து...`
-5. `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` — `சோதனை!`
-6. `9e0b9e437a7548ca31ce352ab485b1e342bedb95` — `வீரமுழக்கஞ் செய்திடுவீர்!`
+- working title: **The Killing Field!** — still provisional until T4/T5;
+- `இந்துஸ்தான்` → **Hindustan**;
+- Article-1 `திராவிடம்` → **Dravidian land**;
+- `நாசீசம்` → **Nazism**;
+- `சிசுஹத்தி` → **infanticide**;
+- `சர்வ தேச சங்கம்` → **international organisation**, deliberately generic because the Tamil source does not name a specific body;
+- preserve `நடுநிலைமையா? / நடுக்க நிலைமையா?` rhetorical wordplay and the violent aphoristic imagery on scan 8.
 
 Do not translate from raw `Kolaikalam.md`, OCR, page drafts, historical P3 blobs, web text or memory.
 
-## EXACT NEXT ACTIVITY
+## EXACT NEXT ACTIVITY — ARTICLE 1 T2 ONLY
 
-Process **Article 1 — `கொலைக்களம்!`** only:
-
-1. **T0:** re-fetch `articles/01-kolaikkalam.md` and require its blob SHA to equal `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274` before translation.
-2. Create `translations/en/01-kolaikkalam.md` with the metadata required by `ESSAY_TRANSLATION_GUIDE.md`.
-3. **T1:** translate the entire article paragraph by paragraph from that frozen Tamil authority only.
-4. Preserve direct address, rhetorical questions, exclamations, repetition, sarcasm, dashes, quotation structure and all source-page comments.
-5. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, `translations/en/README.md`, root `HANDOVER.md` and this prompt after the draft.
-6. Do not begin Article 2 in the same activity unless a later user instruction explicitly changes the cadence.
+1. Re-fetch live `main` and require Tamil Article 1 blob to remain `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`.
+2. Re-fetch `translations/en/01-kolaikkalam.md`.
+3. Perform **T2 bilingual fidelity review** paragraph by paragraph and clause by clause.
+4. Check for omitted or added meaning, names/referents, numbers, quotation scope, negatives, comparisons, logical connectors, repetitions and rhetorical questions.
+5. Recheck especially the long scan-6→7 cumulative sentence, `நடுநிலைமையா? / நடுக்க நிலைமையா?`, and `சிரமறுத்தல் வேந்தனுக்குப் பொழுது போக்கு...`.
+6. Preserve all **5 / 5** ordered source-page comments.
+7. Record every correction in `TRANSLATION_REVIEW.md`; update `LEXICON.md` and the tracker if choices change.
+8. Mark T2 PASS only after the full bilingual check.
+9. **STOP after T2. Do not begin T3 or Article 2 in the same activity.**
