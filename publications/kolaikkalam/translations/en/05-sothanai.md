@@ -8,7 +8,7 @@ source_tamil_blob_sha: "3eec6fa58a307cf1b0350a9a26f45a114908a9dd"
 source_scan_pages: "28-33"
 source_printed_pages: "scan 28 numeral not visible; scans 29-33 visibly 29-33"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -38,7 +38,7 @@ even though they have not descended into violence and committed terrifying acts�
 
 Even if these are called....even if they are taken for....the ‘blank shots’ that little children fire into the sky, we do not wish to hide the fact that they are warning shots to the Dravidians!
 
-Even if unlawful arrows have not blocked our path of purpose—to continue the Dravidians' rationalist propaganda—we may expect Aryanism to begin that too!
+Though unlawful arrows have not blocked our path of purpose—to continue the Dravidians' rationalist propaganda—we may expect Aryanism to begin that too!
 
 For is not the rule being carried on here one that turns at the mere movement of its index finger?
 
@@ -52,7 +52,7 @@ O collapsing society! Your land is becoming a fortress of conspirators!
 
 Scoundrels are hunting down your consciousness of race!
 
-“Do not bend! Stand! Stand upright!”—is this the honour given to the young lions for whom the conch sounded so?
+“Do not bend! Stand! Stand upright!”—is this the honour given to the young lions who sounded the conch thus?
 
 Hearing these questions, the seas surrounding Dravidian land are raging!
 
@@ -72,7 +72,7 @@ Confiscation of books that tell what is!
 
 A ban on enlightened plays that show what is happening in the country!
 
-Though they have hands that can take up the sword, courage to grip the gun, though they were born in a lineage of manly valour capable, at the mere thought, of annihilating thousands upon thousands of formations—yet, taking the Leader's command upon their heads....Patience! A police darbar in the homes of comrades who wear patience as their ornament!
+Taking the Leader's command upon their heads, though they have hands that can take up the sword, courage to grip the gun, though they were born in a lineage of manly valour capable, at the mere thought, of annihilating thousands upon thousands of formations....Patience! A police darbar in the homes of comrades who wear patience as their ornament!
 
 Search! Investigation! Are the places where these ought to be carried out the centres of Dravidians who know no intrigue? No!..... No!!.........
 
@@ -88,7 +88,7 @@ There will be found—found for certain—the deceitful spears hurled at the val
 
 Put gags on all those! Confiscate them all!
 
-Is that all? There you will see conspiracy letters prepared so that society may be set against itself....divisions manufactured to suit the occasion..........and delight taken in it!
+Is that all? There you will see conspiracy letters prepared so that society may be set against itself....divisions created according to circumstance..........and delight taken in it!
 
 Ban those—if the darbar were conducted there, it would not be wrong!
 
@@ -106,6 +106,6 @@ The place where the thought—and the fury—of those who wield the sceptre ough
 
 To protect classical Tamil—to safeguard the self-respect of the Tamils—to spread rationalism—to build a ‘sacred place’ without hunger—disease—starvation—high—low—achievement! Conduct the search there! Necessarily! Why, urgently too!
 
-Search! A trial in life! A test on the road to victory! Warriors, do not be daunted—do not be bewildered! Let Dravidian land triumph!
+Search! A trial in life! A test for victory! Warriors, do not be daunted—do not be bewildered! Let Dravidian land triumph!
 
 ---
