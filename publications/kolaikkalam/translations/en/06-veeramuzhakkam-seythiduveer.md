@@ -8,7 +8,7 @@ source_tamil_blob_sha: "9e0b9e437a7548ca31ce352ab485b1e342bedb95"
 source_scan_pages: "34-40"
 source_printed_pages: "scan 34 numeral not visible; scans 35-40 visibly 35-40"
 language: "en"
-translation_status: "voice-reviewed"
+translation_status: "verified"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
