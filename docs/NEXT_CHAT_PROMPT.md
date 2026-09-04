@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Essays / கொலைக்களம்! — Article 5 T0/T1
+# Next Chat Prompt — Kalaignar Essays / கொலைக்களம்! — Article 5 T2
 
 Use this only as a convenience handoff. **Live `main` and root `HANDOVER.md` are authoritative.**
 
@@ -9,6 +9,12 @@ Active publication: `publications/kolaikkalam/` — **கொலைக்கள�
 ## LIVE MAIN IS AUTHORITATIVE
 
 Fetch live `main` first. Preserve newer durable work. Do not reopen the frozen Tamil layer or verified English Articles 1–4 merely because an older prompt records an earlier checkpoint.
+
+Last confirmed authoritative handover synchronization when this prompt was prepared:
+
+`05792c7d54eb40cccfbe255da0ce1acd3b0076e9` — `Advance Kolaikkalam handover through Article 5 T1`
+
+If live `main` is newer, preserve the newer durable state.
 
 ## Mandatory startup
 
@@ -25,6 +31,7 @@ Read completely before English work:
 9. `publications/kolaikkalam/translations/en/LEXICON.md`
 10. `publications/kolaikkalam/translations/en/TRANSLATION_REVIEW.md`
 11. frozen Tamil Article 5 assembly `publications/kolaikkalam/articles/05-sothanai.md`
+12. Article 5 English draft `publications/kolaikkalam/translations/en/05-sothanai.md`
 
 ## Tamil state — FROZEN
 
@@ -34,19 +41,20 @@ Frozen Article-5 authority:
 
 `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` — `சோதனை!` — scans **28–33**.
 
-Do not translate from OCR, raw manual transcript, page drafts, historical blobs, web text or memory.
+Do not use OCR, raw manual transcript, page drafts, historical blobs, web text or memory as translation authority.
 
 User-reviewed damaged readings inside Article 5 that must not regress include scan 28 `சூத்திரர்களை`, scan 29 `புயலெனச்`, and scan 30 `இதுதானா`.
 
 ## English state
 
 - E0: **COMPLETE / PASS**
-- T0: **4 / 6 PASS**
-- T1: **4 / 6 PASS**
+- T0: **5 / 6 PASS**
+- T1: **5 / 6 PASS**
 - T2: **4 / 6 PASS**
 - T3: **4 / 6 PASS**
 - T4: **4 / 6 PASS**
 - T5: **4 / 6 PASS / VERIFIED**
+- English files: **5 / 6**
 - verified articles: **4 / 6**
 - blockers: **0**
 
@@ -59,20 +67,34 @@ Verified authorities:
 
 Article 4 completed T0–T5 with **5 / 5** source-page comments preserved, **0** unresolved choices and no Tamil changes. Preserve its repeated weeds/water image, **pitch of valour**, source-bearing **kattai**, **self-rule / good-rule**, **Chandala-ness**, **makes the street-corners laugh**, **capitalist sewer**, **drum of imperialism** and **Congress Purana** choices.
 
+## Article 5 T0/T1 checkpoint
+
+- frozen Tamil authority: `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`;
+- T1 English draft: `publications/kolaikkalam/translations/en/05-sothanai.md`;
+- T1 draft blob: `c3b0c4e22053395dddc4adf6d6b132464c7af80f`;
+- source scans/comments: **28–33 / 6 of 6 preserved**;
+- working title: **Search!** — provisional until T4;
+- title context: police-search/search-the-heart senses dominate the body, while the closing line deliberately shifts `சோதனை` to **trial / test**;
+- T1 retained direct address, accusations, commands, questions, repeated arrows/blank-shot imagery, police search/investigation/darbar language, the Aryan-heart counter-search, religious axes, deceitful spears and the closing `சாதனை / சோதனை` turn;
+- T1 review flag: `சந்தர்ப்பபேத` currently rendered **divisions manufactured to suit the occasion**;
+- Tamil changes: **0**;
+- blockers: **0**.
+
 ## Article-5 title flag
 
 Working title: **Search!**
 
-`சோதனை` is context-sensitive and may carry search/test/trial senses. Translate the full article first and test the title against the completed context. Do not mark the title final until T4.
+Do not finalize it at T2. `சோதனை` is deliberately polysemous in the article: **search** in the police/search-the-heart passages, then **trial / test** in the closing exhortation. Final title decision remains a T4 responsibility.
 
-## EXACT NEXT ACTIVITY — ARTICLE 5 T0/T1
+## EXACT NEXT ACTIVITY — ARTICLE 5 T2
 
-1. Fetch live `main`.
-2. Re-fetch `publications/kolaikkalam/articles/05-sothanai.md` and require blob `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`.
-3. **T0:** confirm strict-reviewed frozen source and scans 28–33.
-4. Create `publications/kolaikkalam/translations/en/05-sothanai.md` with required metadata.
-5. **T1:** translate the entire article paragraph-by-paragraph from the frozen Tamil only.
-6. Preserve direct address, accusations, questions, commands, repetition, exclamation, source labels, ideological terminology and every ordered source-page comment.
-7. Review the `சோதனை` title sense in the completed article, but keep the English title provisional until T4.
-8. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, `translations/en/README.md`, `TRANSLATION_PLAN.md`, publication README, root `HANDOVER.md` and this prompt.
-9. Preserve Articles 1–4 as verified authorities.
+1. Fetch live `main` and preserve any newer durable work.
+2. Re-fetch `publications/kolaikkalam/articles/05-sothanai.md` and require frozen blob `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`.
+3. Re-fetch `publications/kolaikkalam/translations/en/05-sothanai.md`; use T1 draft blob `c3b0c4e22053395dddc4adf6d6b132464c7af80f` unless live `main` contains a newer documented Article-5 draft.
+4. **T2:** compare Tamil and English paragraph-by-paragraph and clause-by-clause.
+5. Check for omitted clauses, added claims, wrong subject/object/referent, negatives, modal force, logical connectors, quotation scope, numbers, repetitions, metaphors and commands.
+6. Preserve all **6 / 6** ordered source-page comments.
+7. Explicitly review `சந்தர்ப்பபேத` and any other T1 wording that needs fidelity correction.
+8. Keep **Search!** provisional until T4; do not perform T3/T4/T5 unless the live handover has advanced the boundary.
+9. Preserve verified Articles 1–4 and do not begin Article 6.
+10. Update the English draft if needed, `LEXICON.md`, `TRANSLATION_REVIEW.md`, `translations/en/README.md`, `TRANSLATION_PLAN.md`, publication README, root `HANDOVER.md` and this prompt after T2.
