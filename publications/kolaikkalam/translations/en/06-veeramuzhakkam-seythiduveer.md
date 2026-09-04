@@ -8,7 +8,7 @@ source_tamil_blob_sha: "9e0b9e437a7548ca31ce352ab485b1e342bedb95"
 source_scan_pages: "34-40"
 source_printed_pages: "scan 34 numeral not visible; scans 35-40 visibly 35-40"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -28,15 +28,15 @@ Therefore, patriots! Men of sacrifice! Sons of Bharat Mata! Do not foster provin
 
 In this fashion Pandit Jawaharlal, praised as a political scholar and as the Premier of India, spoke in Coimbatore and in Delhi!
 
-Our dear Achariyar, for his part, preaches the counsel that this feeling is not wanted now.
+Our dear Achariyar, for his part, preaches that this feeling is not wanted now.
 
 The sun of freedom rose in August! Not many years have passed! Yet already the broad-minded (!) are reading out a Viveka (!) Chintamani that this separatist mentality must not exist!
 
 <!-- Tamil source: scan 35 / printed 35 -->
 
-The economic condition looks ready to collapse. Wherever one looks, there is only the cry of hunger! Starvation! Famine! Only sobs of suffering!
+The economic condition seems about to collapse. Wherever one looks, there is only the cry of hunger! Starvation! Famine! Only sobs of suffering!
 
-If everyone is to have food and clothing, abandon provincial feeling and labour for a powerful Central Government—Shanmugam Chettiar, who has received from Vasishta's mouth the rishi (!) titles ‘egalitarian Tamilian, clever Finance Minister’, keeps insisting on this again and again!
+If everyone is to have food and clothing, abandon provincial feeling and labour for a powerful Central Government—Shanmugam Chettiar, who, from Vasishta's mouth, has received the rishi (!) titles ‘egalitarian Tamilian, clever Finance Minister’, keeps insisting on this again and again!
 
 Why are so many people, with such great concern, girding their loins to save the Central Government?
 
@@ -44,7 +44,7 @@ For what reason, even after losing Bharat Mata in the east and the west, do they
 
 Freedom has come! To what extent is the freedom that came useful to the people?
 
-If we think about how far the cooperation between the Central Government and the provincial governments has gained strength, we cannot fail to understand at least some of the truth!
+If we ask how far cooperation between the Central Government and the provincial governments has gained strength, at least some measure of the truth becomes clear to us!
 
 An agitation demanding an Andhra province! Karnataka is being demanded! Kerala and Tamil Nadu likewise!
 
@@ -104,7 +104,7 @@ We know that the Central Government hobnobs with the leaders of Bombay province,
 
 We see an unavoidable split arising between the Central Government and the provincial governments; even in places where it has not arisen, we see the split beginning!
 
-Seeing, in so many ways, those at the Centre trying to strengthen themselves and the provinces striving to obtain their respective rights, we—the Dravidians of the South—must have no difference of opinion that our country must become a separate country; if there is such a difference, we must destroy it!
+Seeing, in so many ways, those at the Centre trying to strengthen themselves and the provinces striving to obtain their respective rights, we—the Dravidians of the South—must have no difference of opinion that our country must become a separate country; if there is such a difference, we must wipe it out!
 
 Those who belittle our agitation, our struggle, must either be people who do not know us well, or people who know us and yet have descended into mischief.
 
@@ -112,19 +112,19 @@ Those who supported Kabar Khan when he raised the cry that Pathanistan was neede
 
 Is it the apprehension that their glittering life will fade?
 
-Is it yearning that their autocracy will diminish—that it will be cut down? Is it grief?
+Is it anxiety that their autocracy will diminish—that it will be cut down? Is it grief?
 
 Is it fear that their intoxication with power will clear—will certainly clear—must clear? Is it weariness?
 
 <!-- Tamil source: scan 40 / printed 40 -->
 
-Or is it the imperialist mentality that South India—Dravidian land—which has the means to live prosperously for ever, economically and in every other way, must be kept as a slave to the North, as a forest for the North's exploitation?
+Or is it the imperialist mentality that wants South India—Dravidian land—which has the means to live prosperously for ever, economically and in every other way, kept as a slave to the North, as a forest for the North's exploitation?
 
 Why? Why should they deny the blossoming of our life?
 
 Why should they block the path by which our life can prosper?
 
-Should not the friends who boast of having driven out the white man who enslaved the Indian land and ruled it in a frenzy of authority know this?
+Should not the friends who boast of having driven out the white man who enslaved the Indian land and ruled it in a lust for power know this?
 
 Knowing that domination, arrogance, police, armies and press power are not permanent, why this obstinacy?
 
