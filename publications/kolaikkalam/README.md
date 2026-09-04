@@ -59,14 +59,14 @@ Translation records:
 Current gates:
 
 - E0: **COMPLETE / PASS**
-- T0: **3 / 6 PASS**
-- T1: **3 / 6 PASS**
-- T2: **3 / 6 PASS**
-- T3: **3 / 6 PASS**
-- T4: **3 / 6 PASS**
-- T5: **3 / 6 PASS / VERIFIED**
-- English article files: **3 / 6**
-- verified English articles: **3 / 6**
+- T0: **4 / 6 PASS**
+- T1: **4 / 6 PASS**
+- T2: **4 / 6 PASS**
+- T3: **4 / 6 PASS**
+- T4: **4 / 6 PASS**
+- T5: **4 / 6 PASS / VERIFIED**
+- English article files: **4 / 6**
+- verified English articles: **4 / 6**
 - blockers: **0**
 
 Verified English authorities:
@@ -74,10 +74,11 @@ Verified English authorities:
 1. `கொலைக்களம்!` → **The Killing Field!** — `c0ca9a883720d51a2637b811b7f38ca1635ba848`
 2. `‘அஸ்தி’ கரையட்டும்!` → **Let the ‘Ashes’ Dissolve!** — `d20e579836ff2749664d7ee1ed5def5237293e60`
 3. `பலியை நிறுத்துங்கள்!` → **Stop the Sacrifice!** — `812c36b9e5350608dd1a951d08c2e48074549697`
+4. `விழலுக்கு நீர் இறைத்து...` → **Watering the Weeds...** — `455e229bf216b21c8bc08c192be3b9e44c54940e`
 
-Article 3 preserves **6 / 6** source-page comments and closes with **0** unresolved translation choices. Its verified terminology preserves the sacrifice/altar family, the `உயிர்ப்பலி / வாழ்வு` contrast, **Bharat Mata**, source-bearing **Gora Kumbhar**, `class hatred`, `northern language`, `technical vocabulary`, `original inhabitants`, `growth of the race`, `sacrifice of the race`, and **Down with Brahmins** without unsupported outside expansion.
+Article 4 preserves **5 / 5** source-page comments and closes with **0** unresolved translation choices. T4 verified the repeated weeds/water futile-labour image, **pitch of valour**, source-bearing **kattai**, **self-rule / good-rule**, **Chandala-ness**, **makes the street-corners laugh**, **capitalist sewer**, **drum of imperialism**, **Congress Purana**, and all source labels/proper names without outside expansion.
 
-Articles 4–6 remain not started. Their working titles remain provisional.
+Articles 5–6 remain not started. Their working titles remain provisional.
 
 ## Translation non-regression
 
@@ -85,4 +86,4 @@ Follow `ESSAY_TRANSLATION_GUIDE.md`: **Translate the language; do not neutralise
 
 ## Exact next activity
 
-**Article 4 `விழலுக்கு நீர் இறைத்து...` — T0 then T1.** Re-fetch and require frozen Tamil blob `91f764f73c9514b2ce1eefdd94d3a1320a0c228e`, then create the complete close English draft. The working title **Watering the Weeds...** remains image-sensitive; review it in context but do not finalize it before T4. Preserve Articles 1–3 as verified.
+**Article 5 `சோதனை!` — T0 then T1.** Re-fetch and require frozen Tamil blob `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`, then create the complete close English draft. The working title **Search!** remains context-sensitive; review it in context but do not finalize it before T4. Preserve Articles 1–4 as verified.
