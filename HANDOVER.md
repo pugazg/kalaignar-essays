@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation principle:
 - **Live `main` is authoritative.**
 - Never reset or repeat newer durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Kolaikkalam Articles 1–3 are individually verified and must not be reopened without a genuine source-supported defect.
+- Kolaikkalam Articles 1–4 are individually verified and must not be reopened without a genuine source-supported defect.
 
 ---
 
@@ -43,7 +43,7 @@ Do not reopen publications 1–6 without a genuine source-supported or release-b
 
 ---
 
-# Publication 7 — கொலைக்களம்! — TAMIL FROZEN / ARTICLES 1–3 VERIFIED / ACTIVE
+# Publication 7 — கொலைக்களம்! — TAMIL FROZEN / ARTICLES 1–4 VERIFIED / ACTIVE
 
 Workspace: `publications/kolaikkalam/`  
 Controlling source: `TVA_BOK_0063657_கொலைக்களம்.pdf`
@@ -101,14 +101,14 @@ These six blobs are the only Tamil authorities for English work.
 ## English state
 
 - E0: **COMPLETE / PASS**
-- T0: **3 / 6 PASS**
-- T1: **3 / 6 PASS**
-- T2: **3 / 6 PASS**
-- T3: **3 / 6 PASS**
-- T4: **3 / 6 PASS**
-- T5: **3 / 6 PASS / VERIFIED**
-- English files: **3 / 6**
-- verified English articles: **3 / 6**
+- T0: **4 / 6 PASS**
+- T1: **4 / 6 PASS**
+- T2: **4 / 6 PASS**
+- T3: **4 / 6 PASS**
+- T4: **4 / 6 PASS**
+- T5: **4 / 6 PASS / VERIFIED**
+- English files: **4 / 6**
+- verified English articles: **4 / 6**
 - blockers: **0**
 
 ### Article 1 — `கொலைக்களம்!` — VERIFIED
@@ -123,39 +123,44 @@ These six blobs are the only Tamil authorities for English work.
 
 - title: **Let the ‘Ashes’ Dissolve!**
 - frozen Tamil: `c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5`
-- T1 draft: `53180ae587c5bff354d7c12201206f63580bc428`
-- T2 fidelity-reviewed: `1562e882ea051a90f0a760d7164a7722e1d6c291`
-- T3 voice-reviewed/T4 body authority: `5218724729ad355e74e0922833d19ce5d651bbac`
 - T5 verified English: `d20e579836ff2749664d7ee1ed5def5237293e60`
 - source scans/comments: **7 / 7 preserved**
 - unresolved choices: **0**
 
-Article-2 durable choices include quoted **‘ashes’** and repeated **dissolve**, **Aryanism**, **Brahminism**, **Dravidians**, **Achariyar**, **Dravidar Kazhagam**, **cloak of nationalism**, and source-bearing/unexpanded **Kuyyo! Muraiyo!**, **Neeli tears**, **Vibhishanas**, **Venganna**, **Chanakyan**, `gotra`, `darbha` and `kamandalu`.
+Durable Article-2 choices include quoted **‘ashes’** and repeated **dissolve**, **Aryanism**, **Brahminism**, **Dravidians**, **Achariyar**, **Dravidar Kazhagam**, **cloak of nationalism**, and source-bearing/unexpanded **Kuyyo! Muraiyo!**, **Neeli tears**, **Vibhishanas**, **Venganna**, **Chanakyan**, `gotra`, `darbha` and `kamandalu`.
 
 ### Article 3 — `பலியை நிறுத்துங்கள்!` — VERIFIED
 
 - title: **Stop the Sacrifice!**
 - frozen Tamil: `e9df22b14e6102c691fe4cc81417eda1051d8f25`
-- T1 draft: `c03a2ce1c45ebd33d6559d12455df566fc28a229`
-- T2 fidelity-reviewed: `8bfb86126a6e26e00e5a0e7d1254c2256fa48380`
-- T3 voice-reviewed/T4 body authority: `85c73dfe2681f84f272d11ba966f7f35390a20fb`
 - T5 verified English: `812c36b9e5350608dd1a951d08c2e48074549697`
 - source scans/comments: **6 / 6 preserved**
 - unresolved choices: **0**
+
+Durable Article-3 choices include the repeated sacrifice/altar family, `உயிர்ப்பலி / வாழ்வு` → **the sacrifice of life ... life itself is being sacrificed**, **Bharat Mata**, **Gora Kumbhar**, **class hatred**, **northern language**, **technical vocabulary**, **original inhabitants**, **growth of the race**, **sacrifice of the race**, **Down with Brahmins**, `archana` and `abhishekam`.
+
+### Article 4 — `விழலுக்கு நீர் இறைத்து...` — VERIFIED
+
+- title: **Watering the Weeds...**
+- frozen Tamil: `91f764f73c9514b2ce1eefdd94d3a1320a0c228e`
+- T1 draft: `3fed2f78f29c98c177952a843f21ccb5ad953b61`
+- T2 fidelity-reviewed: `ac4c20d5c95c0bd0dc1f5c612d67322f206402d7`
+- T3 voice-reviewed/T4 body authority: `ec4270e526c51f6269b310ea96199ebb9da2fa62`
+- T5 verified English: `455e229bf216b21c8bc08c192be3b9e44c54940e`
+- source scans/comments: **5 / 5 preserved**
+- unresolved choices: **0**
 - blockers: **0**
 
-Article-3 durable choices:
+Article-4 durable choices:
 
-- preserve the repeated `பலி / பலியிடு / பலி பீடம்` family as **sacrifice / sacrifice / altar**;
-- preserve `உயிர்ப்பலி / வாழ்வு` as **the sacrifice of life ... but life itself is being sacrificed** rather than narrowing it to “blood sacrifice”;
-- `பாரத மாதா` → **Bharat Mata**; source-bearing `கோரா கும்பர்` → **Gora Kumbhar**;
-- `வகுப்புத்துவேஷம்` → **class hatred**, without silently changing the source category;
-- `வடமொழி` → **northern language**, with no unsupported identification;
-- `கலைச் சொற்கள்` → **technical vocabulary**; `பூர்வகுடிகள்` → **original inhabitants**;
-- `இன வளர்ச்சி` → **growth of the race**; `இனப்பலி` → **sacrifice of the race**;
-- `பார்ப்பனர் ஒழிக` → **Down with Brahmins**; surrounding source clarification that this is not the author's demand must remain intact;
-- preserve `archana`, `abhishekam`, **V.O. Chidambaram**, **Tiruppur Kumaran**, **Comrade Durgabai**, **Saraswati**, **Arjuna**, **Draupadi** and all six page comments;
-- no external explanatory claim was inserted into Article 3 body.
+- title `விழலுக்கு நீர் இறைத்து...` → **Watering the Weeds...**; repeated body image remains **We poured water on weeds / We shall not cease pouring water on weeds**;
+- `வீரசுருதி` → **pitch of valour**; `நாலரைக் கட்டை / அரைக்கட்டை` remains source-bearing **four-and-a-half kattai / half a kattai**;
+- `சுயராஜ்யம் / சுகராஜ்யம்` → **self-rule / good-rule**, preserving the parallel wordplay;
+- `சண்டாளத்தனம்` → **Chandala-ness**, without neutralisation or outside expansion;
+- `சந்தி சிரிக்கும்` → **makes the street-corners laugh**;
+- `முதலாளித்தத்துவச் சாக்கடை` → **capitalist sewer**; `ஏகாதிபத்தியத்தின் முரசு` → **drum of imperialism**;
+- `காங்கிரஸ் புராணம்` → **Congress Purana**;
+- preserve source-bearing **Madana**, **Prakasam**, **Omandurar**, **Chokkalingam**, **Dinasaari**, **Bharata Devi**, **Sri Vaidyanatha Iyer**, **Vadapathimangalam**, **Naadi Muthus**, **Vaidyanatha Iyers** and all five page comments without unsupported outside identification.
 
 ## Translation non-regression
 
@@ -163,15 +168,15 @@ Article-3 durable choices:
 - preserve source labels rather than silently modernising/expanding them;
 - preserve page comments and quotation status;
 - keep the living lexicon current;
-- verified Articles 1–3 must not be reopened without a genuine source-supported defect.
+- verified Articles 1–4 must not be reopened without a genuine source-supported defect.
 
 ## Exact next activity
 
-Process **Article 4 — `விழலுக்கு நீர் இறைத்து...`**:
+Process **Article 5 — `சோதனை!`**:
 
-1. re-fetch `publications/kolaikkalam/articles/04-vizhalukku-neer-iraiththu.md` and require blob `91f764f73c9514b2ce1eefdd94d3a1320a0c228e`;
+1. re-fetch `publications/kolaikkalam/articles/05-sothanai.md` and require blob `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`;
 2. T0 — confirm strict-reviewed source pin;
 3. T1 — create the complete English draft from that frozen Tamil authority only;
 4. preserve ordered source-page comments and living-lexicon decisions;
-5. treat working title **Watering the Weeds...** as image-sensitive and do not finalize before T4;
-6. preserve verified Articles 1–3.
+5. treat working title **Search!** as context-sensitive and do not finalize before T4;
+6. preserve verified Articles 1–4.
