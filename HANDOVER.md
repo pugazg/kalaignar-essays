@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows:
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this P5 documentation synchronization: `4b66e33f112ca49c8fa19bd8450dab86c36822c2` — `P5 propagate fidelity corrections to all assemblies`.
+- Last confirmed live HEAD immediately before Kolaikkalam E0 setup: `46adbcc0d5099bc15816b3fdbe678cfa0829af98` — `Close Kolaikkalam P5 strict visual fidelity`.
 
 ---
 
@@ -129,7 +129,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 7 — கொலைக்களம்! — TAMIL P0–P5 COMPLETE / STRICT-REVIEWED / FROZEN — ENGLISH NOT STARTED
+# Publication 7 — கொலைக்களம்! — TAMIL FROZEN / ENGLISH E0 COMPLETE / T1 NOT STARTED
 
 Workspace: `publications/kolaikkalam/`  
 Controlling source: `TVA_BOK_0063657_கொலைக்களம்.pdf`
@@ -176,23 +176,19 @@ Canonical main prose units:
 
 Scan 40 contains the ending of Unit 6 plus the printer line; no separate back cover is present. The printer witness remains outside Unit 6 prose assembly.
 
-## Printed-page behaviour
+## Tamil archival state
 
-Visible printed numerals occur on **31 / 40** scans:
+- P0: **COMPLETE / PASS**
+- P1: **COMPLETE / PASS**
+- P2: **COMPLETE / PASS — 40 / 40**
+- post-P2 lexical reconciliation: **COMPLETE**
+- P3: **COMPLETE / PASS — 6 / 6**
+- P4: **COMPLETE / PASS — 6 / 6**
+- P5: **COMPLETE / PASS — 40 / 40 physical scans; 6 / 6 assemblies**
+- unresolved fidelity discrepancies: **0**
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
 
-`4`, `6–9`, `11–16`, `18–22`, `24–27`, `29–33`, `35–40`.
-
-Visibly unnumbered scans:
-
-`1, 2, 3, 5, 10, 17, 23, 28, 34`.
-
-Printed numerals inferred: **0**.
-
-## P2 completion + lexical reconciliation
-
-Canonical verified page records exist for **all scans 1–40**. A post-P2 lexical reconciliation was completed on **2026-09-04** using high-resolution source views and the user's manual review of damaged print.
-
-User-reviewed damaged readings that are controlling unless a later genuine source-supported correction is established:
+User-reviewed damaged readings that remain controlling:
 
 1. scan 5 — `யுத்தம்`;
 2. scan 8 — `நமக்கெல்லாம்`;
@@ -204,90 +200,72 @@ User-reviewed damaged readings that are controlling unless a later genuine sourc
 8. scan 30 — `இதுதானா`;
 9. scan 34 — `பலம்`.
 
-Other durable source corrections include scan 2 distributor/address, scan 4 `மு. நமசிவாயம் / பண்ணையாளர்.`, scan 34 heading `வீரமுழக்கஞ் செய்திடுவீர்!`, and source-visible old/irregular forms documented in `publications/kolaikkalam/LEXICAL_RECONCILIATION_2026-09-04.md`.
+P5 scan-40 final readings include `போலீசோ`, `டாடாவோ`, `காமார்க்குங் குடியல்லோம்`, and `திராவிடநாடு திராவிடருக்கே!`.
 
-## P3 completion
+## Frozen strict-reviewed Tamil translation authorities
 
-P3 article/unit assembly completed all six canonical units from the reconciled page layer. Historical P3-era blob SHAs remain recorded in `publications/kolaikkalam/P3_COMPLETION.md`.
+1. `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274` — `கொலைக்களம்!` — scans 5–9
+2. `c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5` — `‘அஸ்தி’ கரையட்டும்!` — scans 10–16
+3. `e9df22b14e6102c691fe4cc81417eda1051d8f25` — `பலியை நிறுத்துங்கள்!` — scans 17–22
+4. `91f764f73c9514b2ce1eefdd94d3a1320a0c228e` — `விழலுக்கு நீர் இறைத்து...` — scans 23–27
+5. `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` — `சோதனை!` — scans 28–33
+6. `9e0b9e437a7548ca31ce352ab485b1e342bedb95` — `வீரமுழக்கஞ் செய்திடுவீர்!` — scans 34–40
 
-## P4 completion
+These six blobs are the only Tamil authorities for English work. Do not translate from raw manual transcript, OCR, page drafts, historical P3 blobs, web text or memory.
 
-P4 source/completeness audit completed with **6 / 6 PASS**:
+## English E0 planning/setup — COMPLETE / PASS
 
-- main-unit source scans: **36 / 36 (5–40)**;
-- missing/duplicate/out-of-order assembly scans: **0**;
-- start/end boundary defects: **0**;
-- page-boundary continuity defects: **0**;
-- physical-copy/audit contamination: **0**;
-- assembly-only corrections required during P4: **0**.
+E0 created:
 
-## P5 strict visual fidelity — COMPLETE / PASS
+- `publications/kolaikkalam/TRANSLATION_PLAN.md`;
+- `publications/kolaikkalam/translations/en/SOURCE_MAP.md`;
+- `publications/kolaikkalam/translations/en/README.md`;
+- `publications/kolaikkalam/translations/en/LEXICON.md`;
+- `publications/kolaikkalam/translations/en/TRANSLATION_REVIEW.md`.
 
-P5 directly reopened **all 40 / 40 physical scans** against the canonical page records, including front matter and the final printer witness.
+Translation order is fixed to **1 → 2 → 3 → 4 → 5 → 6**.
 
-P5 findings propagated:
+Working English title witnesses:
 
-- scan 5 — restored short printed rule below `கொலைக்களம்!`;
-- scan 9 — restored short Unit-1 ending rule;
-- scan 10 — restored short rule below `‘அஸ்தி’ கரையட்டும்!`;
-- scan 17 — restored short rule below `பலியை நிறுத்துங்கள்!`;
-- scan 22 — isolated dark `1`-like mark classified as physical-copy/non-body evidence;
-- scan 28 — restored short rule below `சோதனை!`;
-- scan 40 — `போலிசோ` → **`போலீசோ`**;
-- scan 40 — `டாட்டாவோ` → **`டாடாவோ`**;
-- scan 40 — `காமார்க்கங் குடியல்லோம்` → **`காமார்க்குங் குடியல்லோம்`**;
-- scan 40 — closing witness confirmed as **`திராவிடநாடு திராவிடருக்கே!`**;
-- scan 40 — printer witness remains **`ஸ்ரீமகள் பிரஸ், சென்னை—1`**, outside Unit 6 prose.
+1. `கொலைக்களம்!` → **The Killing Field!**
+2. `‘அஸ்தி’ கரையட்டும்!` → **Let the ‘Ashes’ Dissolve!**
+3. `பலியை நிறுத்துங்கள்!` → **Stop the Sacrifice!**
+4. `விழலுக்கு நீர் இறைத்து...` → **Watering the Weeds...** — provisional/image-sensitive
+5. `சோதனை!` → **Search!** — provisional/context-sensitive
+6. `வீரமுழக்கஞ் செய்திடுவீர்!` → **Raise the Heroic Cry!**
 
-The nine user-reviewed damaged readings all survived P5 unchanged.
+Titles are planning witnesses only until article T4/T5.
 
-Final P5 result:
+English gate state:
 
-- physical scans strict-reviewed: **40 / 40 PASS**;
-- final assembly strict recheck: **6 / 6 PASS**;
-- unresolved fidelity discrepancies: **0**;
-- unresolved needs-review pages: **0**;
-- blockers: **0**;
-- durable report: `publications/kolaikkalam/VISUAL_TEXT_FIDELITY_REVIEW.md`.
-
-## Frozen strict-reviewed Tamil authorities
-
-Use these six blobs for every downstream English activity:
-
-1. `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274` — `கொலைக்களம்!`
-2. `c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5` — `‘அஸ்தி’ கரையட்டும்!`
-3. `e9df22b14e6102c691fe4cc81417eda1051d8f25` — `பலியை நிறுத்துங்கள்!`
-4. `91f764f73c9514b2ce1eefdd94d3a1320a0c228e` — `விழலுக்கு நீர் இறைத்து...`
-5. `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` — `சோதனை!`
-6. `9e0b9e437a7548ca31ce352ab485b1e342bedb95` — `வீரமுழக்கஞ் செய்திடுவீர்!`
-
-Do **not** translate from the raw manual transcript, OCR, superseded page drafts or historical P3-era blobs.
-
-## Gate status
-
-- P0 — source intake / publication identification: **COMPLETE / PASS**
-- P1 — metadata + canonical page map + unit mapping: **COMPLETE / PASS**
-- P2 — page-level transcription/direct lexical verification: **COMPLETE / PASS — 40 / 40**
-- post-P2 lexical reconciliation: **COMPLETE**
-- P3 — article/unit assemblies: **COMPLETE / PASS — 6 / 6**
-- P4 — source/completeness audit: **COMPLETE / PASS — 6 / 6**
-- P5 — strict visual word/punctuation fidelity: **COMPLETE / PASS — 40 / 40; 6 / 6 assemblies**
-- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- English translation: **NOT STARTED**
+- E0: **COMPLETE / PASS**
+- T0: **0 / 6**
+- T1: **0 / 6**
+- T2: **0 / 6**
+- T3: **0 / 6**
+- T4: **0 / 6**
+- T5: **0 / 6**
+- English article files: **0 / 6**
 - blockers: **0**
 
-## Source authority / non-regression
+## Translation non-regression
 
-The supplied scan remains controlling. Preserve source-visible old glyphs, spelling, punctuation, headings, names, numbers, repetitions and separate source witnesses. User-reviewed damaged readings remain controlling. The six frozen strict-reviewed blobs above are the only Tamil authorities for translation.
+Follow `ESSAY_TRANSLATION_GUIDE.md` exactly:
+
+- translate the language; do not neutralise the voice;
+- preserve direct address, commands, rhetorical questions, repetition, sarcasm, polemical bite, abrupt contrasts and exclamation;
+- preserve source-chosen political/social labels and names rather than silently modernising or expanding them;
+- preserve quotation status and ordered source-page comments;
+- keep the living lexicon current during T1–T4;
+- if a frozen Tamil blob changes for a genuine source-supported reason, reopen every affected English downstream gate.
 
 ## Exact next activity
 
-**E0 — English translation planning/setup only.**
+Process **Article 1 — `கொலைக்களம்!`** only:
 
-1. Fetch live `main` first and preserve newer durable work.
-2. Read `ESSAY_TRANSLATION_GUIDE.md` completely; English planning is now in scope.
-3. Read this handover, `publications/kolaikkalam/VISUAL_TEXT_FIDELITY_REVIEW.md`, README, metadata, contents/page map, and the six frozen strict-reviewed Tamil assemblies.
-4. Create the publication-level English translation plan/source map, article order and proposed English title witnesses.
-5. Pin the six frozen Tamil blobs above as the sole translation sources.
-6. Do not translate from raw OCR/manual transcript or historical P3 blobs.
-7. **STOP after E0. Do not begin T1/article translation in the same activity.**
+1. T0 — re-fetch `publications/kolaikkalam/articles/01-kolaikkalam.md` and require blob `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`.
+2. Create `publications/kolaikkalam/translations/en/01-kolaikkalam.md` with required metadata.
+3. T1 — translate the complete article paragraph by paragraph from that frozen Tamil authority only.
+4. Preserve all source-page comments for traceability.
+5. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, `translations/en/README.md`, root `HANDOVER.md` and `docs/NEXT_CHAT_PROMPT.md`.
+6. Do not begin Article 2 in the same activity unless the user explicitly changes the cadence.
