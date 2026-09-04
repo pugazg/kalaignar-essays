@@ -9,7 +9,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `ஆரியம்` | Aryanism | Preserve Kalaignar's ideological label; do not flatten to a generic ethnic description. | E0 | provisional |
 | `ஆரியர்` | Aryans | Context-sensitive person/group form; retain polemical source function. | E0 | provisional |
 | `திராவிடர்` | Dravidians | Preserve source political/social terminology. | E0 | provisional |
-| `திராவிடம்` | Dravidian land / Dravidian country / Dravidian polity | Article 1 scan 9 uses **Dravidian land**; choose by sentence rather than mechanically. | E0 / A1 T1 | active |
+| `திராவிடம்` | Dravidian land / Dravidian country / Dravidian polity | Article 1 scan 9 uses **Dravidian land**; choose by sentence rather than mechanically. | E0 / A1 T1 | confirmed through A1 T2 |
 | `பார்ப்பனர்` / `பார்ப்பனன்` | Brahmins / Brahmin | Preserve source referent and rhetorical force. | E0 | provisional |
 | `பார்ப்பனீயம்` | Brahminism | Ideological/system label; do not soften to a neutral description. | E0 | provisional |
 | `பகுத்தறிவு` | rationalism / rational thought | Contextual choice; preserve movement/polemical force where present. | E0 | provisional |
@@ -22,13 +22,22 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `விழல்` | weeds / barren growth | Image-sensitive Unit-4 title term; final rendering requires T1/T4 review. | E0 | provisional |
 | `வீரமுழக்கம்` / `வீரமுழக்கஞ்` | heroic cry / battle cry | Preserve exhortative force; title working choice is `Raise the Heroic Cry!`. | E0 | provisional |
 | `கொலைக்களம்` | killing field | Article 1 working title **The Killing Field!**; retain the violent field/arena image. | A1 T1 | provisional until T4/T5 |
-| `போர் முரசு` | war drum | Preserve the source's martial image rather than flattening to “war”. | A1 T1 | active |
-| `விடுதலை விருத்தம்` | hymn to freedom | Article 1 rhetorical image for Truman's public invocation of freedom; do not convert to neutral reported speech. | A1 T1 | active |
-| `நாசீசம்` | Nazism | Article 1 historical ideological term. | A1 T1 | active |
-| `சர்வ தேச சங்கம்` | international organisation | Keep generic because the Tamil source itself does not name a specific organisation. | A1 T1 | active |
-| `இந்துஸ்தான்` | Hindustan | Preserve the source's chosen political/geographical label rather than silently replacing it with “India” inside the body. | A1 T1 | active |
-| `சிசுஹத்தி` | infanticide | Preserve the harsh source term and the infant metaphor in Article 1's close. | A1 T1 | active |
-| `அணுகுண்டு` | atom bomb | Period wording used throughout Article 1. | A1 T1 | active |
+| `போர் முரசு` | war drum | Preserve the source's martial image rather than flattening to “war”. | A1 T1 | confirmed through A1 T2 |
+| `விடுதலை விருத்தம்` | hymn to freedom | Article 1 rhetorical image for Truman's public invocation of freedom; do not convert to neutral reported speech. | A1 T1 | confirmed through A1 T2 |
+| `நாசீசம்` | Nazism | Article 1 historical ideological term. | A1 T1 | confirmed through A1 T2 |
+| `சர்வ தேச சங்கம்` | international organisation | Keep generic because the Tamil source itself does not name a specific organisation. | A1 T1 | confirmed through A1 T2 |
+| `இந்துஸ்தான்` | Hindustan | Preserve the source's chosen political/geographical label rather than silently replacing it with “India” inside the body. | A1 T1 | confirmed through A1 T2 |
+| `சிசுஹத்தி` | infanticide | Preserve the harsh source term and the infant metaphor in Article 1's close. | A1 T1 | confirmed through A1 T2 |
+| `அணுகுண்டு` | atom bomb | Period wording used throughout Article 1. | A1 T1 | confirmed through A1 T2 |
+
+## Article 1 T2 fidelity audit
+
+T2 completed a full bilingual paragraph/clause check against frozen Tamil blob `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`.
+
+- No Article-1 lexicon substitution was reversed.
+- `Hindustan`, `Dravidian land`, `Nazism`, `infanticide`, `atom bomb`, `war drum`, `hymn to freedom`, and generic `international organisation` remain source-supported working choices.
+- T2 corrected a grammatical/referential drift from plural **leaders** back to singular **leader** for source `தலைவர்`; this is a sentence-level fidelity correction rather than a reusable lexicon entry.
+- The working title **The Killing Field!** remains provisional until T4/T5.
 
 ## Proper-name / source-label policy
 
@@ -40,7 +49,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 
 ## Title flags
 
-- `கொலைக்களம்!` → working **The Killing Field!** — retained through Article 1 T1; still provisional until T4/T5.
+- `கொலைக்களம்!` → working **The Killing Field!** — retained through Article 1 T2; still provisional until T4/T5.
 - `‘அஸ்தி’ கரையட்டும்!` → working **Let the ‘Ashes’ Dissolve!**
 - `பலியை நிறுத்துங்கள்!` → working **Stop the Sacrifice!**
 - `விழலுக்கு நீர் இறைத்து...` → working **Watering the Weeds...** — final image choice pending T1/T4

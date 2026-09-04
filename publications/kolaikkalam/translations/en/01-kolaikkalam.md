@@ -8,7 +8,7 @@ source_tamil_blob_sha: "bc22ad3acec0bacc70ef69e0fb46f85fa3fed274"
 source_scan_pages: "5-9"
 source_printed_pages: "scan 5 numeral not visible; scans 6-9 visibly 6-9"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -54,7 +54,7 @@ A condition in which shame and anguish are mingled!
 
 If this crisis is to be nipped in the bud, Stalin, Truman and Attlee must meet. Or Truman must be removed from the presidential chair. George Marshall must be driven out of the American administration—many warn with proposals such as these.
 
-The blood-crazed leaders will not lend an ear to these proposals!
+The blood-crazed leader will not lend an ear to these proposals!
 
 War! War! War is going to come!
 
@@ -66,10 +66,10 @@ The volcano is rumbling! In just a little while, molten fire will be poured out,
 
 ‘We shall not hesitate to enter into a defence pact with Pakistan,’ says Pandit Nehru. That alone will not send us into rapture.
 
-Looking at the course Hindustan's rule is taking, we are forced to think that it may reach a state where, embracing America and Britain........even if without strength, it opposes Russia with words of ridicule!
+Looking at the course Hindustan's rule is taking, we are forced to think that, embracing America and Britain........though lacking strength, it may come to oppose Russia with mocking words!
 
 Hindustan is a little child, by their own dictionary! It has not even reached crawling age! And a very weak infant at that!
 
-We warn them not to commit infanticide—with the concern that the rulers' plan will affect Dravidian land too!
+We warn: do not commit infanticide—with the concern that the rulers' plan will affect Dravidian land too!
 
 ---

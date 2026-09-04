@@ -13,7 +13,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 
 Prepare the English translation layer, pin the frozen Tamil authorities, establish article order and working English title witnesses, create the English tracker/lexicon/review records, and define the T0–T5 review sequence.
 
-E0 itself created no English article body. Article 1 T0/T1 has subsequently been completed as the first downstream translation activity.
+E0 itself created no English article body. Article 1 has subsequently completed T0, T1 and T2.
 
 ## Tamil prerequisite — COMPLETE / FROZEN
 
@@ -29,7 +29,7 @@ The six strict-reviewed Tamil assemblies below are the sole translation authorit
 
 | # | Exact Tamil title witness | Source scans | Tamil assembly | Frozen Tamil blob | Working English title | Title status |
 |---:|---|---:|---|---|---|---|
-| 1 | `கொலைக்களம்!` | `5–9` | `articles/01-kolaikkalam.md` | `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274` | **The Killing Field!** | provisional through T1 |
+| 1 | `கொலைக்களம்!` | `5–9` | `articles/01-kolaikkalam.md` | `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274` | **The Killing Field!** | provisional through T2 |
 | 2 | `‘அஸ்தி’ கரையட்டும்!` | `10–16` | `articles/02-asthi-karaiyattum.md` | `c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5` | **Let the ‘Ashes’ Dissolve!** | provisional |
 | 3 | `பலியை நிறுத்துங்கள்!` | `17–22` | `articles/03-paliyai-niruththungal.md` | `e9df22b14e6102c691fe4cc81417eda1051d8f25` | **Stop the Sacrifice!** | provisional |
 | 4 | `விழலுக்கு நீர் இறைத்து...` | `23–27` | `articles/04-vizhalukku-neer-iraiththu.md` | `91f764f73c9514b2ce1eefdd94d3a1320a0c228e` | **Watering the Weeds...** | provisional / image-sensitive |
@@ -60,7 +60,7 @@ In addition to the permanent guide:
 
 ## Initial title/term review flags
 
-- `கொலைக்களம்` — working title `The Killing Field`; Article 1 T1 retains it, with final title verification deferred to T4/T5.
+- `கொலைக்களம்` — working title `The Killing Field`; Article 1 T2 retains it, with final title verification deferred to T4/T5.
 - `விழல்` in Unit 4 — working title uses `weeds`; confirm the image and idiomatic force during T1/T4 before final title verification.
 - `சோதனை` in Unit 5 — context includes search/investigation/test senses; working title `Search!` is provisional and contextual renderings may differ inside the article.
 - `அஸ்தி` — retain its quoted/source-bearing character in the title; do not silently expand it beyond what the Tamil supports.
@@ -85,7 +85,7 @@ publications/kolaikkalam/
       06-veeramuzhakkam-seythiduveer.md
 ```
 
-Article 1 draft now exists; Articles 2–6 remain not started.
+Article 1 fidelity-reviewed file now exists; Articles 2–6 remain not started.
 
 ## Article gates
 
@@ -105,15 +105,16 @@ After all six articles reach T5, run the repository-precedent publication-wide c
 - E0: **COMPLETE / PASS**
 - T0: **1 / 6 PASS**
 - T1: **1 / 6 PASS**
-- T2: **0 / 6**
+- T2: **1 / 6 PASS**
 - T3: **0 / 6**
 - T4: **0 / 6**
 - T5: **0 / 6**
 - English article files: **1 / 6**
 - blockers: **0**
 
-Article 1 T1 draft authority: `translations/en/01-kolaikkalam.md`, initial draft blob `546a4b075e794237dd6299bcbddc09c17f79583a`.
+Article 1 T1 draft blob: `546a4b075e794237dd6299bcbddc09c17f79583a`.  
+Article 1 T2 fidelity-reviewed blob: `d0534b8859fed307e7bfb0cfe174281f20418fc4`.
 
 ## Exact next activity
 
-Proceed with **Article 1 — `கொலைக்களம்!` — T2 bilingual fidelity review** only, against frozen Tamil blob `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`. Record all corrections and do not begin Article 2 yet.
+Proceed with **Article 1 — `கொலைக்களம்!` — T3 Kalaignar voice review only**, using fidelity-reviewed English blob `d0534b8859fed307e7bfb0cfe174281f20418fc4` and frozen Tamil blob `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`. Record all voice corrections and do not begin T4 or Article 2 yet.

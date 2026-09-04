@@ -12,7 +12,7 @@ Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)
 - E0 planning/setup: **COMPLETE / PASS**
 - T0: **1 / 6 PASS**
 - T1: **1 / 6 PASS**
-- T2: **0 / 6**
+- T2: **1 / 6 PASS**
 - T3: **0 / 6**
 - T4: **0 / 6**
 - T5: **0 / 6**
@@ -23,7 +23,7 @@ Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)
 
 | # | Tamil title | Working English title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|---|
-| 1 | `கொலைக்களம்!` | **The Killing Field!** | `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274` | **PASS** | **PASS / draft** | not-started | not-started | not-started | not-started |
+| 1 | `கொலைக்களம்!` | **The Killing Field!** | `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274` | **PASS** | **PASS** | **PASS / fidelity-reviewed** | not-started | not-started | not-started |
 | 2 | `‘அஸ்தி’ கரையட்டும்!` | **Let the ‘Ashes’ Dissolve!** | `c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5` | not-started | not-started | not-started | not-started | not-started | not-started |
 | 3 | `பலியை நிறுத்துங்கள்!` | **Stop the Sacrifice!** | `e9df22b14e6102c691fe4cc81417eda1051d8f25` | not-started | not-started | not-started | not-started | not-started | not-started |
 | 4 | `விழலுக்கு நீர் இறைத்து...` | **Watering the Weeds...** | `91f764f73c9514b2ce1eefdd94d3a1320a0c228e` | not-started | not-started | not-started | not-started | not-started | not-started |
@@ -32,20 +32,25 @@ Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)
 
 Working titles remain provisional until article-level T4/T5 verification.
 
-## Article 1 T0/T1 result
+## Article 1 T0–T2 result
 
-- live Tamil source blob re-fetched and matched the frozen authority exactly: `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`;
-- English draft: `01-kolaikkalam.md`;
+- live Tamil source blob matched frozen authority exactly: `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`;
+- English file: `01-kolaikkalam.md`;
+- T1 draft blob: `546a4b075e794237dd6299bcbddc09c17f79583a`;
+- T2 fidelity-reviewed blob: `d0534b8859fed307e7bfb0cfe174281f20418fc4`;
 - source scans represented: **5 / 5 (5–9)**;
 - ordered Tamil-source page comments preserved: **5 / 5**;
-- translation status: `draft`;
+- translation status: `fidelity-reviewed`;
 - T0: **PASS**;
 - T1: **PASS**;
-- T2–T5: **not started**.
+- T2: **PASS**;
+- T3–T5: **not started**.
+
+T2 made three fidelity corrections: restored singular **leader** for scan-8 `தலைவர்`, clarified the scan-9 Hindustan clause without changing its meaning, and removed an added English pronoun from the final `சிசுஹத்தி` warning. No Tamil source change was made.
 
 ## Translation file naming
 
-1. `01-kolaikkalam.md` — **draft exists**
+1. `01-kolaikkalam.md` — **fidelity-reviewed**
 2. `02-asthi-karaiyattum.md` — not started
 3. `03-paliyai-niruththungal.md` — not started
 4. `04-vizhalukku-neer-iraiththu.md` — not started
@@ -54,4 +59,4 @@ Working titles remain provisional until article-level T4/T5 verification.
 
 ## Exact next activity
 
-Article 1 `கொலைக்களம்!`: perform **T2 bilingual fidelity review** of `01-kolaikkalam.md` against frozen Tamil blob `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`. Check every clause, name, number, quotation, negative, repetition, rhetorical question and page-boundary comment. Record all T2 corrections in `TRANSLATION_REVIEW.md`; do not begin Article 2 yet.
+Article 1 `கொலைக்களம்!`: perform **T3 Kalaignar voice review only** on fidelity-reviewed blob `d0534b8859fed307e7bfb0cfe174281f20418fc4`. Check directness, sarcasm, rhetorical questions, repetitions, abrupt contrasts, violent imagery and polemical force against the frozen Tamil. Record every T3 correction; do not begin T4 or Article 2 in the same activity.

@@ -47,9 +47,10 @@ Completed:
 - working English title: **The Killing Field!**
 - English file: `01-kolaikkalam.md`
 - English draft blob at T1 close: `546a4b075e794237dd6299bcbddc09c17f79583a`
+- English fidelity-reviewed blob at T2 close: `d0534b8859fed307e7bfb0cfe174281f20418fc4`
 - T0: **PASS**
 - T1: **PASS / complete draft**
-- T2: not-started
+- T2: **PASS / fidelity-reviewed**
 - T3: not-started
 - T4: not-started
 - T5: not-started
@@ -78,12 +79,39 @@ Completed:
 - no external/web wording or raw manual transcript used as translation authority;
 - unresolved source blockers: **0**.
 
-#### T1 choices requiring T2/T4 attention
+#### T2 bilingual fidelity review — PASS
 
-- recheck the long scan-6→7 cumulative sentence for clause-by-clause logical correspondence;
-- recheck the rhetorical wordplay `நடுநிலைமையா? / நடுக்க நிலைமையா?` rendered as `state of neutrality? / state of trembling?`;
-- recheck `சிரமறுத்தல் வேந்தனுக்குப் பொழுது போக்கு...` for exact force while preserving the violent aphoristic structure;
-- title remains provisional until terminology/title audit.
+T2 compared the complete English draft against frozen Tamil blob `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274` paragraph by paragraph and clause by clause.
+
+Checks passed:
+
+- omitted Tamil body paragraphs/clauses: **0**;
+- added substantive claims: **0** after correction;
+- names/referents: **PASS**;
+- numbers/ranges, including `thirty to five hundred`: **PASS**;
+- quotations and quotation scope: **PASS**;
+- negatives/comparisons/logical connectors: **PASS**;
+- rhetorical questions and deliberate repetition: **PASS**;
+- scan-6→7 cumulative sentence: **PASS**;
+- `நடுநிலைமையா? / நடுக்க நிலைமையா?` wordplay: **PASS** as `state of neutrality? / state of trembling?`;
+- `சிரமறுத்தல் வேந்தனுக்குப் பொழுது போக்கு...` violent aphoristic structure: **PASS**;
+- ordered source-page comments: **5 / 5 preserved**;
+- Tamil source changes during T2: **0**;
+- blockers: **0**.
+
+T2 corrections made:
+
+1. **scan 8** — `The blood-crazed leaders will not...` → **`The blood-crazed leader will not...`** to preserve singular source `தலைவர்` rather than regularising it to the following plural verb.
+2. **scan 9** — `even if without strength, it opposes Russia...` → **`though lacking strength, it may come to oppose Russia...`** to restore the source's modal `ஏற்படலாம்` and keep Hindustan as the explicit clause subject.
+3. **scan 9** — `We warn them not to commit infanticide...` → **`We warn: do not commit infanticide...`** to remove an English-only object pronoun not stated in the Tamil while retaining the imperative force of `செய்துவிட வேண்டாம் என்று எச்சரிக்கிறோம்`.
+
+No other body-text correction was required during T2. Translation status advanced from `draft` to `fidelity-reviewed`.
+
+#### T3 focus carried forward
+
+- test whether `The Killing Field!` and the article's English cadence retain Kalaignar's polemical pressure without smoothing;
+- review `at a mere ‘hmm’`, `twirling their moustaches`, the scan-8 aphorism, `War! War! War`, and the infant/infanticide close for rhetorical force rather than only semantic accuracy;
+- do not alter source-referent choices merely for conventional English style.
 
 ### Article 2 — `‘அஸ்தி’ கரையட்டும்!`
 
@@ -119,4 +147,4 @@ Completed:
 
 ## Exact next activity
 
-Article 1 **T2 bilingual fidelity review** only. Compare every Tamil paragraph/clause against `translations/en/01-kolaikkalam.md`, correct omissions/additions/referent or logical errors, preserve all five source-page comments, and document every T2 correction here. Do not begin Article 2 yet.
+Article 1 **T3 Kalaignar voice review only**. Review the fidelity-reviewed English against the frozen Tamil for directness, sarcasm, rhetorical questions, repetition, abrupt contrasts, imagery and polemical bite. Record every T3 correction here. Do not begin T4 or Article 2 yet.
