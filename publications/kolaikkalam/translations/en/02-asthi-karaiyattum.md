@@ -8,7 +8,7 @@ source_tamil_blob_sha: "c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5"
 source_scan_pages: "10-16"
 source_printed_pages: "scan 10 numeral not visible; scans 11-16 visibly 11-16"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -20,7 +20,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 The ritual of dissolving Gandhi's ‘ashes’—Gandhi, murdered by a deceitful Brahmin of jackal-like nature—has also been carried out according to Hindu religious custom in many holy(!) rivers.
 
-No one expected that the body of revered Gandhi would be consumed by fire so soon and that the time would come to dissolve his ‘ashes’.
+No one expected that the body of revered Gandhi would be broken down in fire so soon and that the time would come to dissolve his ‘ashes’.
 
 Having done that deed, Aryanism did not stop with distributing sweets to celebrate that ‘joyous freedom’; it is turning Gandhi's murder to advantage for its own policy and preparing to create a ghastly charnel ground in Dravidian land.
 
@@ -40,7 +40,7 @@ Look here.....—how many heroes' lives have been plundered by the intrigues of 
 
 <!-- Tamil source: scan 12 / printed 12 -->
 
-In the days before guns were carried, by displaying tulasi-bead garlands and darbha grass, how many strong-shouldered lives has your race pierced!
+In the days before guns were carried, by displaying tulasi-bead garlands and darbha grass, how many lives of strong-shouldered men has your race pierced!
 
 All who fought like bulls on the battlefield became helpless corpses before the kamandalu of your people! Why say so much? ....
 
@@ -50,7 +50,7 @@ The one who lost an eye and a leg at Salem—and Velayudham at Udayarpalayam, to
 
 Your race, which came here to settle and make a living, has let its cruel teeth taste Gandhi too; its blood-lust still unsated, those teeth now take aim at the throats of the Dravidians!
 
-Aryanism commands: ‘The Dravidians are using the news that a Brahmin killed Gandhi to stir up hatred of Brahmins! Therefore the authorities must turn their gaze toward them!’
+‘The Dravidians are using the news that a Brahmin killed Gandhi to stir up hatred of Brahmins! Therefore the authorities must turn their gaze toward them!’—so commands Aryanism!
 
 <!-- Tamil source: scan 13 / printed 13 -->
 
@@ -112,7 +112,7 @@ We say: let the rulers' ‘bullets’ tear through our shirts and split our hear
 
 Among those who rule, the Prime Minister is a Dravidian, one of the Dravidian race! Let the bullet he fires strike the chest of the Dravidians!
 
-We shall die saying: ‘A Dravidian fired the shot—therefore this death tastes sweet.’
+We shall die saying: ‘The one who fired the shot was a Dravidian—therefore this death tastes sweet.’
 
 Aryanism killed Gandhi and dissolved his ‘ashes’!
 
