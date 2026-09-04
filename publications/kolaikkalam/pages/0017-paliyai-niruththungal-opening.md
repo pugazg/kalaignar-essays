@@ -15,6 +15,8 @@ transcription_method: "direct visual comparison with source scan"
 
 # பலியை நிறுத்துங்கள்!
 
+---
+
 பக்தர் குழாம் நிறைந்திருந்தது. ஆண்டவன் சந்நிதியில்!
 
 பயபக்தியோடு வணங்கினார்கள்! கன்னத்தில் அடித்துக்கொண்டனர்!
@@ -37,5 +39,6 @@ transcription_method: "direct visual comparison with source scan"
 
 - No printed page numeral is directly visible on this scan.
 - This scan opens Unit 3 `பலியை நிறுத்துங்கள்!`; the prose continues on scan 18.
+- The short printed rule directly below the Unit 3 heading is represented above.
 
 <!-- மூல ஸ்கேன் பக்கம்: 17 -->

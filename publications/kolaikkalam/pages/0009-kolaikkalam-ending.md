@@ -21,6 +21,8 @@ transcription_method: "direct visual comparison with source scan"
 
 சிசுஹத்தி செய்துவிட வேண்டாம் என்று எச்சரிக்கிறோம்; ஆட்சியாளர் திட்டம் திராவிடத்தையும் பாதிக்கும் என்ற கவலையோடு!
 
+---
+
 ## அச்சு அல்லாத / physical-copy marks
 
 - Minor age wear/spotting is visible.
@@ -29,6 +31,7 @@ transcription_method: "direct visual comparison with source scan"
 
 - Printed page numeral `9` is directly visible.
 - Unit 1 ends on this scan; scan 10 opens a new main prose unit.
+- The short printed rule below the Unit 1 ending is represented above.
 - Unusual source form `சிசுஹத்தி` is preserved from the scan.
 
 <!-- மூல ஸ்கேன் பக்கம்: 9 -->

@@ -15,6 +15,8 @@ transcription_method: "direct visual comparison with source scan"
 
 # ‘அஸ்தி’ கரையட்டும்!
 
+---
+
 குள்ளநரிக் குணம்படைத்த ஒரு வஞ்சகப் பார்ப்பனனால் கொலை செய்யப்பட்ட காந்தியாரின் ‘அஸ்தி’ கரைப்புச் சடங்கும் இந்துமத முறைப்படி, அநேக புண்ய(!) நதிகளில் நடைபெற்றுவிட்டது.
 
 அண்ணல் காந்தியாரின் உடல் இவ்வளவு சீக்கிரத்தில் நெருப்பில் நொறுக்கப்பட்டு, ‘அஸ்தி’ கரைக்கும் நிலைமை ஏற்படும் என யாரும் எதிர் பார்க்கவில்லை.
@@ -33,5 +35,6 @@ transcription_method: "direct visual comparison with source scan"
 
 - No printed page numeral is visible.
 - The quoted heading witness and punctuation are transcribed from this scan rather than harmonized from another record.
+- The short printed rule directly below the Unit 2 heading is represented above.
 
 <!-- மூல ஸ்கேன் பக்கம்: 10 -->

@@ -15,6 +15,8 @@ transcription_method: "direct visual comparison with source scan"
 
 # சோதனை!
 
+---
+
 “ஏ! இந்திரனே! எதிரிகளை ஒழிக்க வரம் தருவாய்!”
 
 “அக்கினியே! சூத்திரர்களை சுட்டுச் சாம்பலாக்க எழுந்தருள்வாய்!”
@@ -37,6 +39,7 @@ transcription_method: "direct visual comparison with source scan"
 
 - No printed page numeral is visible on this unit-opening scan.
 - Heading `சோதனை!` is directly visible.
+- The short printed rule directly below the Unit 5 heading is represented above.
 - The damaged reading `சூத்திரர்களை` is preserved from the user's manual review.
 - The final sentence continues directly onto scan 29.
 

@@ -36,11 +36,13 @@ transcription_method: "direct visual comparison with source scan"
 ## அச்சு அல்லாத / physical-copy marks
 
 - Minor age wear/spotting is visible.
+- A small dark `1`-like mark appears between printed text lines; it is treated as a physical-copy/non-body mark and is not included in `# அச்சு உரை`.
 
 ## Audit note
 
 - Printed page numeral `22` is directly visible.
 - Unit 3 ends on this scan; scan 23 opens the next main prose unit.
 - The short printed rule at the end of the unit is represented above.
+- The isolated `1`-like mark is not part of the printed prose.
 
 <!-- மூல ஸ்கேன் பக்கம்: 22 -->
