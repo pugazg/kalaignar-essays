@@ -17,7 +17,7 @@ transcription_method: "direct visual comparison with source scan"
 
 ---
 
-இந்திய அரசியல் உலகிலே - குறிப்பாக ஆட்சிப் பீடத்திலுள்ளவர் உலவும் வட்டாரங்களிலே, பலம் பொருந்திய ‘மத்திய சர்க்கார்!’ தேவை என்ற குரல் சிலகாலமாகக் கிளம்புகிறது!
+இந்திய அரசியல் உலகிலே - குறிப்பாக ஆட்சிப் பீடத்திலுள்ளவர் உலவும் வட்டாரங்களிலே, பலழ் பொருந்திய ‘மத்திய சர்க்கார்!’ தேவை என்ற குரல் சிலகாலமாகக் கிளம்புகிறது!
 
 “மாகாண உணர்ச்சி, பேதத்தை, பிளவை, வேற்றுமையை அதிகரிக்கச் செய்யும் நச்சுக் கொள்கை.”
 
@@ -39,6 +39,7 @@ transcription_method: "direct visual comparison with source scan"
 
 - This scan is visibly unnumbered; no printed page numeral is inferred.
 - Unit 6 opens here with the directly verified heading `வீரமுழக்கஞ் செய்திடுவீர்!`.
+- Source-visible unusual form `பலழ்` is retained without normalization.
 - The short printed rule below the heading is represented by the separator above.
 
 <!-- மூல ஸ்கேன் பக்கம்: 34 -->
