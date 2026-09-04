@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation principle:
 - **Live `main` is authoritative.**
 - Never reset or repeat newer durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Kolaikkalam Articles 1–6 are individually verified and must not be reopened without a genuine source-supported defect or an E6 correction finding.
+- Kolaikkalam Articles 1–6 are individually verified and E6-reviewed; do not reopen them without a genuine source-supported or release-blocking defect.
 
 ---
 
@@ -43,7 +43,7 @@ Do not reopen publications 1–6 without a genuine source-supported or release-b
 
 ---
 
-# Publication 7 — கொலைக்களம்! — TAMIL FROZEN / ALL 6 ARTICLES VERIFIED / E6 NEXT
+# Publication 7 — கொலைக்களம்! — TAMIL FROZEN / 6/6 ENGLISH VERIFIED / E6 PASS / E7 NEXT
 
 Workspace: `publications/kolaikkalam/`  
 Controlling source: `TVA_BOK_0063657_கொலைக்களம்.pdf`
@@ -109,7 +109,7 @@ These six blobs remain the only Tamil authorities for English work.
 - T5: **6 / 6 PASS / VERIFIED**
 - English files: **6 / 6**
 - verified English articles: **6 / 6**
-- E6 publication-wide consistency review: **not-started**
+- E6 publication-wide consistency review: **PASS / COMPLETE**
 - E7 release closeout: **not-started**
 - blockers: **0**
 
@@ -211,24 +211,68 @@ Article-6 durable choices:
 - scan-40 printer witness remains outside prose;
 - Tamil changes through T0–T5: **0**.
 
+## E6 publication-wide English consistency review — PASS / COMPLETE
+
+Detailed audit: `publications/kolaikkalam/translations/en/E6_CONSISTENCY_REVIEW.md`.
+
+E6 re-fetched all six verified English files and all six frozen Tamil authorities and classified apparent inconsistencies as **consistent**, **deliberate contextual/source-witness exception**, or **correction required**.
+
+Results:
+
+- recurring ideological vocabulary: **PASS**;
+- recurring names / epithets: **PASS**;
+- title style: **PASS**;
+- quotation/source treatment: **PASS**;
+- source-bearing transliterations and explanatory restraint: **PASS**;
+- ordered source-page comments: **36 / 36 preserved** (`5 + 7 + 6 + 5 + 6 + 7`);
+- all English metadata source pins: **6 / 6 PASS**;
+- Article-6 scan-40 printer witness in prose: **excluded / PASS**;
+- English body corrections required by E6: **0 / 6**;
+- frozen Tamil changes during E6: **0**;
+- blockers: **0**.
+
+The six T5 English blobs therefore remain the unchanged E6 release-candidate authorities:
+
+1. `c0ca9a883720d51a2637b811b7f38ca1635ba848`
+2. `d20e579836ff2749664d7ee1ed5def5237293e60`
+3. `812c36b9e5350608dd1a951d08c2e48074549697`
+4. `455e229bf216b21c8bc08c192be3b9e44c54940e`
+5. `fe5a7ea3c17c1bce940d4688365892aaa720285b`
+6. `726217a73d55e573176b29da61a0c3dfb3cff611`
+
+Deliberate E6 exceptions that must not be homogenised:
+
+- **Dravidian land / Dravidian country** according to source sense;
+- **nationalism / national / nationalist** according to grammar, with **cloak of nationalism** retained where the source repeats that image;
+- Article 2 **Jawahar** versus Article 6 **Pandit Jawaharlal**;
+- Article 1 **Hindustan** versus Article 6 **India / united India**;
+- Article 4 **pitch of valour** versus Article 6 **heroic cry**;
+- Article 5 contextual **search / trial / test**;
+- Article 6 `மத்ய சர்க்கார் / மத்திய சர்க்கார்` source-witness spelling variation → functional **Central Government**;
+- source-bearing **Kuyyo! Muraiyo!**, **Neeli tears**, **Vibhishanas**, **Venganna**, **Chanakyan**, **kattai**, **Chandala-ness**, **Viveka (!) Chintamani**, **Brihaspatis**, **Rashtra Bhasha**, **Pathanistan**, **Kabar Khan**, and **Kaamaarkkung kudiyallom** remain intentionally unnormalised.
+
+**E6 RESULT: PASS / COMPLETE.**
+
 ## Translation non-regression
 
 - preserve direct address, commands, rhetorical questions, repetition, sarcasm, polemical bite and source imagery;
 - preserve source labels rather than silently modernising/expanding them;
 - preserve page comments and quotation status;
 - keep the living lexicon current;
-- verified Articles 1–6 must not be reopened without a genuine source-supported defect or a documented E6 correction finding;
-- E6 must preserve deliberate source/context differences rather than homogenising them for stylistic neatness.
+- verified Articles 1–6 and their E6 release-candidate blobs must not be reopened merely for stylistic preference or terminology homogenisation;
+- reopen only for a genuine source-supported or release-blocking defect discovered at E7 or later.
 
 ## Exact next activity
 
-Process **E6 — publication-wide English consistency review**:
+Process **E7 — English release closeout**:
 
-1. re-fetch all six verified English files and their six frozen Tamil authorities;
-2. verify recurring names/epithets, **Aryan / Dravidian**, **Bharat Mata**, **Achariyar**, nationalism/source labels, recurring political vocabulary, title style and quoted material;
-3. check all source-bearing transliterations, especially publication-specific oddities such as **Kuyyo! Muraiyo!**, **Neeli tears**, **Venganna**, **kattai**, **Chandala-ness**, **Kaamaarkkung kudiyallom**, **Brihaspatis**, **Kabar Khan** and **Pathanistan**;
-4. verify source-page comments and source-witness distinctions across all six articles;
-5. classify each apparent inconsistency as **consistent**, **deliberate contextual/source-witness exception**, or **correction required**;
-6. do not alter frozen Tamil;
-7. if an English correction is required, record it and update the affected final blob in every dependent record;
-8. stop after E6 and leave **E7 release closeout** as the next activity.
+1. fetch live `main` and preserve newer durable work;
+2. re-fetch the six E6 release-candidate English authorities above and require exact blob matches unless live `main` contains a newer documented release correction;
+3. re-fetch all six frozen Tamil authorities and require their pinned blobs;
+4. confirm no post-E6 English body or metadata drift;
+5. verify **36 / 36** ordered source-page comments;
+6. confirm the Article-6 scan-40 printer witness remains outside English prose;
+7. confirm all source-sensitive E6 distinctions and source-bearing forms remain intact;
+8. synchronize final release documentation;
+9. if blockers remain **0**, mark the English translation **COMPLETE / RELEASED / FROZEN**;
+10. do not alter verified bodies merely for stylistic preference.
