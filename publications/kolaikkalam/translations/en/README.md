@@ -12,12 +12,12 @@ Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)
 - E0: **COMPLETE / PASS**
 - T0: **5 / 6 PASS**
 - T1: **5 / 6 PASS**
-- T2: **4 / 6 PASS**
-- T3: **4 / 6 PASS**
-- T4: **4 / 6 PASS**
-- T5: **4 / 6 PASS / VERIFIED**
+- T2: **5 / 6 PASS**
+- T3: **5 / 6 PASS**
+- T4: **5 / 6 PASS**
+- T5: **5 / 6 PASS / VERIFIED**
 - English article files: **5 / 6**
-- verified English articles: **4 / 6**
+- verified English articles: **5 / 6**
 - blockers: **0**
 
 ## Article tracker
@@ -28,10 +28,10 @@ Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)
 | 2 | `‘அஸ்தி’ கரையட்டும்!` | **Let the ‘Ashes’ Dissolve!** | `c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS / VERIFIED** |
 | 3 | `பலியை நிறுத்துங்கள்!` | **Stop the Sacrifice!** | `e9df22b14e6102c691fe4cc81417eda1051d8f25` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS / VERIFIED** |
 | 4 | `விழலுக்கு நீர் இறைத்து...` | **Watering the Weeds...** | `91f764f73c9514b2ce1eefdd94d3a1320a0c228e` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS / VERIFIED** |
-| 5 | `சோதனை!` | **Search!** *(provisional)* | `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` | **PASS** | **PASS** | not-started | not-started | not-started | not-started |
-| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | **Raise the Heroic Cry!** | `9e0b9e437a7548ca31ce352ab485b1e342bedb95` | not-started | not-started | not-started | not-started | not-started | not-started |
+| 5 | `சோதனை!` | **Search!** | `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS / VERIFIED** |
+| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | **Raise the Heroic Cry!** *(provisional)* | `9e0b9e437a7548ca31ce352ab485b1e342bedb95` | not-started | not-started | not-started | not-started | not-started | not-started |
 
-Articles 1–4 titles are verified. Article 5 has completed T1 with working title **Search!**, which remains provisional until T4 because the article moves from police-search senses to **trial / test** in the closing line. Article 6 title remains provisional.
+Articles 1–5 titles are verified. Article 6 remains provisional until its own T4/T5 gates.
 
 ## Verified English authorities
 
@@ -39,19 +39,20 @@ Articles 1–4 titles are verified. Article 5 has completed T1 with working titl
 2. `‘அஸ்தி’ கரையட்டும்!` → **Let the ‘Ashes’ Dissolve!** — `d20e579836ff2749664d7ee1ed5def5237293e60`
 3. `பலியை நிறுத்துங்கள்!` → **Stop the Sacrifice!** — `812c36b9e5350608dd1a951d08c2e48074549697`
 4. `விழலுக்கு நீர் இறைத்து...` → **Watering the Weeds...** — `455e229bf216b21c8bc08c192be3b9e44c54940e`
+5. `சோதனை!` → **Search!** — `fe5a7ea3c17c1bce940d4688365892aaa720285b`
 
-Article 4 preserves all **5 / 5** source-page comments. T4 verified the repeated weeds/water futile-labour image, **pitch of valour**, **four-and-a-half kattai / half a kattai**, **self-rule / good-rule**, source-bearing **Chandala-ness**, **makes the street-corners laugh**, **capitalist sewer**, **drum of imperialism**, **Congress Purana**, and the unexpanded source labels/proper names.
+## Article 5 verified authority
 
-## Article 5 T1 draft authority
-
-- English file: `05-sothanai.md`
 - frozen Tamil authority: `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`
-- T1 English draft blob: `c3b0c4e22053395dddc4adf6d6b132464c7af80f`
+- T1 draft: `c3b0c4e22053395dddc4adf6d6b132464c7af80f`
+- T2 fidelity-reviewed: `07358cf38466fa8783e17635a05615a110a9e069`
+- T3 voice-reviewed / T4 body authority: `f1f376ff274dc1131e31c1707ef5d8f9dde17bcc`
+- T5 verified English: `fe5a7ea3c17c1bce940d4688365892aaa720285b`
 - source-page comments: **6 / 6 preserved**
-- working title: **Search!** — provisional until T4
+- unresolved choices: **0**
 - blockers: **0**
 
-T1 preserves the opening Indra/Agni quotations, the Aryanism petition frame, the Congress repression list and arrows/blank-shot imagery, direct addresses and commands, police search/investigation/darbar language, the counter-search of the Aryan heart, religious-axis/spear/conspiracy imagery, and the final `சாதனை / சோதனை` semantic turn. `சந்தர்ப்பபேத` remains a T2/T4 nuance check.
+T4 verified **Search!** as the title because the article's main action is the challenged and redirected search, while the closing `சோதனை` deliberately broadens to **trial / test**. The closing `சாதனை / சோதனை` distinction remains explicit. `சந்தர்ப்பபேத` is verified as **divisions created according to circumstance**. Other durable Article-5 choices include **Shudras**, **religious neutrality**, **class hatred**, **arrows of repression**, **blank shots**, **police darbar**, **awakening of the race**, **religious axes**, and **sacred place**.
 
 ## Translation files
 
@@ -59,9 +60,9 @@ T1 preserves the opening Indra/Agni quotations, the Aryanism petition frame, the
 2. `02-asthi-karaiyattum.md` — **VERIFIED**
 3. `03-paliyai-niruththungal.md` — **VERIFIED**
 4. `04-vizhalukku-neer-iraiththu.md` — **VERIFIED**
-5. `05-sothanai.md` — **T1 DRAFT / T0-T1 PASS**
+5. `05-sothanai.md` — **VERIFIED**
 6. `06-veeramuzhakkam-seythiduveer.md` — not started
 
 ## Exact next activity
 
-Article 5 `சோதனை!`: perform **T2 bilingual fidelity review** against frozen Tamil blob `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` and T1 draft blob `c3b0c4e22053395dddc4adf6d6b132464c7af80f`. Check every clause for omissions/additions/referents/logical relations, preserve all **6 / 6** ordered source-page comments, review the flagged `சந்தர்ப்பபேத` rendering, and keep **Search!** provisional until T4. Preserve Articles 1–4 as verified authorities and do not begin Article 6.
+Article 6 `வீரமுழக்கஞ் செய்திடுவீர்!`: confirm T0 against frozen Tamil blob `9e0b9e437a7548ca31ce352ab485b1e342bedb95`, then perform the complete T1 close English draft. Keep **Raise the Heroic Cry!** provisional until T4, preserve the scan-40 printer witness outside Unit-6 prose, and preserve verified Articles 1–5.
