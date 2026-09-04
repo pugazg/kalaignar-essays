@@ -8,7 +8,7 @@ source_tamil_blob_sha: "91f764f73c9514b2ce1eefdd94d3a1320a0c228e"
 source_scan_pages: "23-27"
 source_printed_pages: "scan 23 numeral not visible; scans 24-27 visibly 24-27"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -22,7 +22,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 On an emerald cot lying there, she was like a statue of gold!
 
-Her cool glance came first; bud-like teeth showed as though through a cracked pot; with a little smile, ‘Madana, come!’ she called in a cuckoo's voice, like the music of a veena, stealing my heart....That manner of calling....that sidelong glance....it simply bewitched me!
+Outstripping her cool gaze, her bud-like teeth showed as though a pot had cracked open; with a little smile, ‘Madana, come!’ she called in a cuckoo's voice, like the music of a veena, stealing my heart....That manner of calling....that sidelong glance....it simply bewitched me!
 
 Was my state any different from that of a drunken man!....My heart was all excitement, throbbing......My feet hurriedly stepped forward!
 
@@ -34,15 +34,15 @@ choked, sorrow mingled with pity, pain swelled, and the man who had described th
 
 Congress friends—true workers—once raised and thundered the song “Even if the sky crashes down upon the crown of the head” with fury, and the line “No fear” in a voice filled with pride and resonance....Their ‘pitch of valour’ has dropped from four-and-a-half kattai to half a kattai! It has fallen, and keeps falling! Why?
 
-“Do not fall prey to foreign imperialist exploitation!” “Come running to cast off the English grip!” “Down with the demon of office and the traitor to his brother!”—with freedom as their one aim, Congress friends once raised a mighty cry. Their condition now resembles that of a man who, after seeing a youthful woman in a dream and losing himself in the shine of her body, her elegant coiffure and her heart-stealing form, opens his eyes and is stunned to find that nothing is there!
+“Do not fall prey to foreign imperialist exploitation!” “Come running to cast off the English grip!” “Down with possession by the demon of office! Down with the betrayer of brothers!”—with freedom as their one aim, Congress friends once raised a mighty cry. Their condition now resembles that of a man who, after seeing a youthful woman in a dream and losing himself in the shine of her body, her elegant coiffure and her heart-stealing form, opens his eyes and is stunned to find that nothing is there!
 
-They thought that when their leaders said, ‘Once self-rule comes, good-rule will come,’ truly they and the country could live for ever in comfort without any kind of harm! But.......!
+They thought, when the leaders told them, ‘Once self-rule comes, good-rule will come,’ that truly they and the country could live for ever in comfort without any kind of harm! But.......!
 
 <!-- Tamil source: scan 25 / printed 25 -->
 
 The troubles of life have not flown away; nor has the panic of hunger, hunger. Not only that! After freedom is said to have arrived, when hunger, starvation, suffering, want, poverty, distress and all the other afflictions are seen everywhere, it is no wonder that in one corner of the hearts of friends who truly dreamed of a good life there arises the thought, “Was it for this that we suffered so much?” It could hardly be otherwise!
 
-And in a country that claimed its duty was to abolish the suffering of the poor—among them men of ideals, heroes of sacrifice, people who gave body, wealth and soul for the country—and its ideal was to abolish caste difference and Chandala-ness, they are bound to grieve when they see the Congress itself as a punctured cart, a rotten beam.
+And in a country that claimed its duty was to abolish the suffering of the poor—among them men of ideals, heroes of sacrifice, those who gave body, wealth and soul for the country—and its ideal was to abolish caste difference and Chandala-ness, they are bound to grieve when they see the Congress itself as a punctured cart, a rotten beam.
 
 Instead of having in their hearts the thought, “We came to rule the country; we came to make the people's lives good lives,” office-mania—and the great greed to secure the platform of office even if everything must be given away for it—has become the very ideal of life of those called Congress leaders!
 
