@@ -15,11 +15,11 @@ transcription_method: "direct visual comparison with source scan"
 
 # சோதனை!
 
-“ஏ! இந்தியனே! எதிரிகளை ஒழிக்க வரம் தருவாய்!”
+“ஏ! இந்திரனே! எதிரிகளை ஒழிக்க வரம் தருவாய்!”
 
-“அக்கினியே! சுத்திரர்களை சுட்டுச் சாம்பலாக்க எழுந்தருள்வாய்!”
+“அக்கினியே! சூத்திரர்களை சுட்டுச் சாம்பலாக்க எழுந்தருள்வாய்!”
 
-அன்றொரு நாள் — மாற்றுராம் திராவிடரை மாய்க்க, அழிக்க—ஒழிக்க, ஆரியம் போட்ட மனு!
+அன்றொரு நாள் — மாற்றாராம் திராவிடரை மாய்க்க, அழிக்க—ஒழிக்க, ஆரியம் போட்ட மனு!
 
 வேதம், ஆகமம், புராணம், இதிகாசம் இன்ன பிறவற்றில் காணக்கிடைக்கும் கண் கண்ட வாசகங்கள் மேலே தீட்டப்பட்டவை!
 
@@ -27,7 +27,7 @@ transcription_method: "direct visual comparison with source scan"
 
 அதே விண்ணப்பத்தை இன்று ‘வகுப்புத் துவேஷம்’ என்ற போர்வையில் பெற்று வருகிறது; மேலும் கேட்டுக்கொண்டே இருக்கிறது!
 
-திராவிடர் தனியாக ஒரு படை அமைத்து அதற்குப் பயிற்சி அளித்து—சதிக்கூட்டங்கள், அமைத்துக்
+திராவிடர் தனியாக ஒரு படை அமைத்து அதற்குப் பயிற்சி அளித்து—சதிக்கூடங்கள், அமைத்துக்
 
 ## அச்சு அல்லாத / physical-copy marks
 
@@ -37,7 +37,7 @@ transcription_method: "direct visual comparison with source scan"
 
 - No printed page numeral is visible on this unit-opening scan.
 - Heading `சோதனை!` is directly visible.
-- The source-visible form `மாற்றுராம்` is retained without normalization.
+- The damaged reading `சூத்திரர்களை` is preserved from the user's manual review.
 - The final sentence continues directly onto scan 29.
 
 <!-- மூல ஸ்கேன் பக்கம்: 28 -->
