@@ -16,7 +16,7 @@ Fetch live `main` first. Preserve any newer durable state; never reset, repeat o
 
 Last confirmed authoritative handover synchronization when this prompt was prepared:
 
-`fda5d944a19ff151dedfe2e720fc9fe23859aecc` — `Synchronize handover after Kolaikkalam lexical reconciliation`.
+`ebd3358be98f10e6a85082d5aeaf87f3817e7225` — `Synchronize handover after Kolaikkalam P3`.
 
 ## Mandatory startup
 
@@ -29,10 +29,12 @@ Before changing anything, read completely:
 5. `publications/kolaikkalam/README.md`
 6. `publications/kolaikkalam/P2_COMPLETION.md`
 7. `publications/kolaikkalam/LEXICAL_RECONCILIATION_2026-09-04.md`
-8. `publications/kolaikkalam/metadata/source.md`
-9. `publications/kolaikkalam/indexes/page-map.md`
-10. `publications/kolaikkalam/indexes/contents.md`
-11. the reconciled live page records relevant to each assembly
+8. `publications/kolaikkalam/P3_COMPLETION.md`
+9. `publications/kolaikkalam/metadata/source.md`
+10. `publications/kolaikkalam/indexes/page-map.md`
+11. `publications/kolaikkalam/indexes/contents.md`
+12. all six live `publications/kolaikkalam/articles/*.md` assemblies
+13. the reconciled canonical page records underlying those assemblies
 
 English is **not** in scope. Do not begin translation before Tamil P0–P5 are complete/frozen.
 
@@ -66,14 +68,14 @@ Front matter:
 
 `இன்பத் துளி!` is not numbered as a main prose unit.
 
-Canonical main prose units:
+Canonical main prose units and completed P3 assemblies:
 
-1. `கொலைக்களம்!` — scans **5–9**
-2. `‘அஸ்தி’ கரையட்டும்!` — scans **10–16**
-3. `பலியை நிறுத்துங்கள்!` — scans **17–22**
-4. `விழலுக்கு நீர் இறைத்து...` — scans **23–27**
-5. `சோதனை!` — scans **28–33**
-6. `வீரமுழக்கஞ் செய்திடுவீர்!` — scans **34–40**
+1. `கொலைக்களம்!` — scans **5–9** — `articles/01-kolaikkalam.md` — blob `cf73a98ee5eca043e35e2b6195993175754d6794`
+2. `‘அஸ்தி’ கரையட்டும்!` — scans **10–16** — `articles/02-asthi-karaiyattum.md` — blob `3b1a00fc928917d32be5a655fb0ac87f935e33aa`
+3. `பலியை நிறுத்துங்கள்!` — scans **17–22** — `articles/03-paliyai-niruththungal.md` — blob `683c7fb13b576c8190918429ec03afbdbe763250`
+4. `விழலுக்கு நீர் இறைத்து...` — scans **23–27** — `articles/04-vizhalukku-neer-iraiththu.md` — blob `faae377bcd01f21f1f6a156dadfb5cc7598d7abb`
+5. `சோதனை!` — scans **28–33** — `articles/05-sothanai.md` — blob `77c6d48082218e75405ae95d1e259982e4171c5d`
+6. `வீரமுழக்கஞ் செய்திடுவீர்!` — scans **34–40** — `articles/06-veeramuzhakkam-seythiduveer.md` — blob `f74ee0d0543eb9cc248d9a29902a7e71d5ac8794`
 
 Visible printed numerals occur on **31 / 40** scans:
 
@@ -110,24 +112,38 @@ User-reviewed damaged readings that must remain durable:
 - scan 25 `இதற்குத்தானா`;
 - scan 28 `சூத்திரர்களை`;
 - scan 29 `புயலெனச்`;
-- scan 30 `இதுதானா`.
+- scan 30 `இதுதானா`;
+- scan 34 `பலம்`.
 
 Other important durable corrections include:
 
 - scan 2 distributor: `எம். எஸ். ராமுலு கம்பெனி`;
 - scan 4 signature: `மு. நமசிவாயம்` / `பண்ணையாளர்.`;
 - scan 34 heading: `வீரமுழக்கஞ் செய்திடுவீர்!`;
+- scan 34 `பலம்` supersedes the earlier misread `பலழ்`;
 - scan 40 printer witness: `ஸ்ரீமகள் பிரஸ், சென்னை—1`.
 
 Scan 40 was not reopened in the 2026-09-04 lexical-difference adjudication pass and remains at its prior verified reading.
+
+## P3 — COMPLETE / PASS
+
+All six canonical assemblies have been created from the reconciled live page records:
+
+- assemblies: **6 / 6 COMPLETE / PASS**;
+- source wording, punctuation, paragraph sequence and page-boundary provenance preserved;
+- source-supported headings/internal subheadings retained;
+- scan-40 printer witness kept outside Unit 6 prose body;
+- durable ledger: `publications/kolaikkalam/P3_COMPLETION.md`.
+
+Do not repeat P3 merely because an older prompt shows 0 / 6.
 
 ## Current gates
 
 - P0: **COMPLETE / PASS**
 - P1: **COMPLETE / PASS, with later source corrections propagated**
 - P2: **COMPLETE / PASS — 40 / 40**
-- post-P2 lexical reconciliation: **COMPLETE for adjudicated differences through scan 39**
-- P3: **NOT STARTED — 0 / 6 assemblies**
+- post-P2 lexical reconciliation: **COMPLETE for adjudicated differences through scan 39, with later scan-34 manual correction propagated**
+- P3: **COMPLETE / PASS — 6 / 6 assemblies**
 - P4: **NOT STARTED**
 - P5: **NOT STARTED**
 - English translation: **NOT STARTED**
@@ -135,23 +151,25 @@ Scan 40 was not reopened in the 2026-09-04 lexical-difference adjudication pass 
 
 ## Source authority
 
-The supplied scan remains controlling. The reconciled live page records are the canonical transcription layer for assembly. Do not silently modernise, correct, normalize, reconstruct or import wording from OCR/web/another edition. Preserve old glyphs, spelling, punctuation, headings, numbers, names, repetitions and page-boundary provenance. The explicit damaged-print readings in `LEXICAL_RECONCILIATION_2026-09-04.md` are controlling unless a later source-supported correction is established.
+The supplied scan remains controlling. The reconciled live page records are the canonical transcription layer; P3 assemblies are reading copies derived from that layer. Do not silently modernise, correct, normalize, reconstruct or import wording from OCR/web/another edition. Preserve old glyphs, spelling, punctuation, headings, numbers, names, repetitions and page-boundary provenance. The explicit damaged-print readings in `LEXICAL_RECONCILIATION_2026-09-04.md` are controlling unless a later source-supported correction is established.
 
 ## EXACT NEXT ACTIVITY
 
-**P3 — assemble the six canonical main prose units from the reconciled live page records.**
+**P4 — source/completeness audit of all six P3 assemblies against the reconciled canonical page layer.**
 
 1. Fetch live `main` first and reread the authoritative root handover.
-2. Read `publications/kolaikkalam/LEXICAL_RECONCILIATION_2026-09-04.md` before assembly.
-3. Preserve all **40 / 40** reconciled page records; do not repeat P2.
-4. Create six article assemblies from these scan spans:
+2. Read `publications/kolaikkalam/P3_COMPLETION.md` and `publications/kolaikkalam/LEXICAL_RECONCILIATION_2026-09-04.md` before auditing.
+3. Re-fetch all six live assembly files and their underlying page records.
+4. For each unit, verify exact scan coverage with no missing or duplicated page body:
    - Unit 1 — scans **5–9**;
    - Unit 2 — scans **10–16**;
    - Unit 3 — scans **17–22**;
    - Unit 4 — scans **23–27**;
    - Unit 5 — scans **28–33**;
    - Unit 6 — scans **34–40**.
-5. Assemble only from the reconciled live page records; preserve wording, punctuation, paragraph sequence and page-boundary provenance.
-6. Keep the scan-40 printer witness outside Unit 6 prose body.
-7. Do not perform P4/P5 in the same step unless the repository's durable next activity explicitly advances after P3 completion.
-8. **DO NOT BEGIN ENGLISH TRANSLATION.**
+5. Verify start/end boundaries and every page-boundary continuation.
+6. Verify source-supported headings/internal subheadings and ensure no `physical-copy marks`, `Audit note`, YAML/page-record metadata or other editorial text entered article prose.
+7. Confirm scan-40 printer witness `ஸ்ரீமகள் பிரஸ், சென்னை—1` remains outside Unit 6 prose body.
+8. Record any assembly-only defect with provenance and propagate its correction to dependent records.
+9. Mark P4 complete only after all six assemblies pass this source/completeness audit.
+10. **STOP after P4. Do not perform P5 in the same activity. DO NOT BEGIN ENGLISH TRANSLATION.**
