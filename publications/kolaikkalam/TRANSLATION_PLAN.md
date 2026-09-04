@@ -30,7 +30,7 @@ The six strict-reviewed Tamil assemblies below are the sole translation authorit
 | 5 | `சோதனை!` | 28–33 | `articles/05-sothanai.md` | `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` | **Search! — VERIFIED** |
 | 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | 34–40 | `articles/06-veeramuzhakkam-seythiduveer.md` | `9e0b9e437a7548ca31ce352ab485b1e342bedb95` | **Raise the Heroic Cry! — VERIFIED** |
 
-Translation order was **1 → 2 → 3 → 4 → 5 → 6** and is now complete at article level.
+Translation order was **1 → 2 → 3 → 4 → 5 → 6** and is complete at article level.
 
 ## Publication-specific principles
 
@@ -57,11 +57,13 @@ Each article passes T0 source pin → T1 close draft → T2 bilingual fidelity �
 - T5: **6 / 6 PASS / VERIFIED**
 - English files: **6 / 6**
 - verified English articles: **6 / 6**
-- E6 publication-wide consistency review: **not-started**
+- E6 publication-wide consistency review: **PASS / COMPLETE**
 - E7 release closeout: **not-started**
 - blockers: **0**
 
-Verified English authorities:
+## E6 release-candidate English authorities
+
+E6 required no English body corrections, so the T5 blobs remain unchanged:
 
 1. **The Killing Field!** — `c0ca9a883720d51a2637b811b7f38ca1635ba848`
 2. **Let the ‘Ashes’ Dissolve!** — `d20e579836ff2749664d7ee1ed5def5237293e60`
@@ -70,22 +72,24 @@ Verified English authorities:
 5. **Search!** — `fe5a7ea3c17c1bce940d4688365892aaa720285b`
 6. **Raise the Heroic Cry!** — `726217a73d55e573176b29da61a0c3dfb3cff611`
 
-## Article 6 T0–T5 checkpoint
+## E6 publication-wide consistency checkpoint
 
-- frozen Tamil authority: `9e0b9e437a7548ca31ce352ab485b1e342bedb95`;
-- source scans: **34–40**;
-- T1 draft: `440dd63458e1f43a764fc7c4006b30bbf0110a0e`;
-- T2 fidelity-reviewed: `d3f49494a6a782b544252b2d7047685215413cd1`;
-- T3 voice-reviewed / T4 body authority: `8615ad98e1d1e37f2d53fd931f9bc86c3a0d2a73`;
-- T5 verified English: `726217a73d55e573176b29da61a0c3dfb3cff611`;
-- ordered source-page comments: **7 / 7 preserved**;
-- scan-40 printer witness: **excluded from prose / PASS**;
-- verified title: **Raise the Heroic Cry!**;
-- source-bearing `காமார்க்குங் குடியல்லோம்` retained as **Kaamaarkkung kudiyallom**, with no normalization from outside knowledge;
-- source-bearing **Viveka Chintamani**, **Brihaspatis**, **Rashtra Bhasha**, **Pathanistan**, **Kabar Khan** retained without unsupported expansion;
-- unresolved choices: **0**;
+Detailed audit: [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSISTENCY_REVIEW.md)
+
+- recurring names / epithets: **PASS**;
+- Aryan / Dravidian and other ideological vocabulary: **PASS**;
+- title style: **PASS**;
+- quotation/source treatment: **PASS**;
+- source-bearing transliterations / explanatory restraint: **PASS**;
+- source-sensitive contextual exceptions retained: **PASS**;
+- ordered source-page comments: **36 / 36 preserved**;
+- Article-6 scan-40 printer witness: **excluded from prose / PASS**;
+- English body corrections required by E6: **0 / 6**;
+- Tamil changes during E6: **0**;
 - blockers: **0**.
+
+Deliberate differences retained include **Dravidian land / Dravidian country** by source sense; **nationalism / national / nationalist** by grammar; Article-2 **Jawahar** versus Article-6 **Pandit Jawaharlal**; Article-1 **Hindustan** versus Article-6 **India / united India**; Article-4 **pitch of valour** versus Article-6 **heroic cry**; and Article-5 contextual **search / trial / test**. Source-bearing oddities such as **Kuyyo! Muraiyo!**, **Neeli tears**, **Vibhishanas**, **Venganna**, **Chanakyan**, **kattai**, **Chandala-ness**, **Viveka (!) Chintamani**, **Brihaspatis**, **Rashtra Bhasha**, **Pathanistan**, **Kabar Khan** and **Kaamaarkkung kudiyallom** remain unnormalised.
 
 ## Exact next activity
 
-Proceed with **E6 — publication-wide English consistency review** across all six T5-verified articles. Compare recurring names/epithets, Aryan/Dravidian vocabulary, Bharat Mata, Achariyar, nationalism/source labels, title style, quoted material, source-bearing transliterations, page comments and tone against the six frozen Tamil authorities and the living lexicon. Classify apparent differences as **consistent**, **deliberate contextual/source-witness exception**, or **correction required**. Do not homogenise source-sensitive distinctions. Stop after E6; E7 release closeout remains separate.
+Proceed with **E7 — English release closeout**. Re-fetch all six E6 release-candidate English blobs and all six frozen Tamil authorities, confirm no post-E6 body/metadata drift, verify **36 / 36** ordered source-page comments and the Article-6 scan-40 printer-witness exclusion, synchronize final release documentation, and only then mark the English translation **COMPLETE / RELEASED / FROZEN** if no blocker is found.
