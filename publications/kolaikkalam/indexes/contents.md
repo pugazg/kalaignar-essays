@@ -16,7 +16,7 @@ No dedicated printed contents/table-of-contents page appears anywhere in the sup
 | FM2 | copyright / edition / price / sales-rights page | 2 | publication front matter | **verified** |
 | FM3 | `இன்பத் துளி!` | 3–4 | introductory signed front-matter note | **2 / 2 verified** |
 
-`இன்பத் துளி!` is not counted among the six main prose units for canonical article numbering. P2 direct verification shows scan 4 closes with `மு. நமசிவாயம்` / `பண்ணையாளர்.`.
+`இன்பத் துளி!` is not counted among the six main prose units for canonical article numbering. Direct verification shows scan 4 closes with `மு. நமசிவாயம்` / `பண்ணையாளர்.`.
 
 ## Canonical main-unit inventory
 
@@ -29,12 +29,13 @@ No dedicated printed contents/table-of-contents page appears anywhere in the sup
 | 5 | `சோதனை!` | **28–33** | heading on scan 28 | scan 33 closes before scan-34 heading | **6 / 6 verified** |
 | 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | **34–40** | direct heading witness on scan 34 | scan 40 source ending + printer line | **7 / 7 verified** |
 
-## P2 source corrections
+## Durable source corrections
 
-- scan 2 publication-data record controls the distributor/address reading, including `எச். எஸ். ராமுலு கம்பெனி`;
+- scan 2 publication-data record controls the distributor/address reading, including `எம். எஸ். ராமுலு கம்பெனி`;
 - scan 4 signature is **`மு. நமசிவாயம்`**, not the earlier P1 identification `மு. கருணாநிதி`;
 - scan 34 heading is **`வீரமுழக்கஞ் செய்திடுவீர்!`**, not the earlier normalized P1 form `வீரமுழக்கம் செய்திடுவீர்!`;
-- scan 40 printer witness is **`ஸ்ரீமகள் பிரஸ், சென்னை—1`** and is not part of Unit 6 prose body.
+- scan 40 printer witness is **`ஸ்ரீமகள் பிரஸ், சென்னை—1`** and is not part of Unit 6 prose body;
+- the post-P2 lexical reconciliation is recorded in `../LEXICAL_RECONCILIATION_2026-09-04.md` and supersedes older page-word readings wherever corrected.
 
 ## Source-witness rules
 
@@ -43,8 +44,9 @@ No dedicated printed contents/table-of-contents page appears anywhere in the sup
 - `‘அஸ்தி’ கரையட்டும்!` retains its quoted `அஸ்தி` witness.
 - `விழலுக்கு நீர் இறைத்து...` retains its source-visible ellipsis-style ending.
 - Printer/imprint wording on scan 40 stays outside the Unit 6 prose assembly.
+- User-reviewed damaged readings listed in `../LEXICAL_RECONCILIATION_2026-09-04.md` are controlling unless a later source-supported correction is established.
 
-## P2 result
+## Current result
 
 - printed contents page: **ABSENT / CONFIRMED**;
 - introductory signed front-matter prose piece: **1**;
@@ -53,9 +55,9 @@ No dedicated printed contents/table-of-contents page appears anywhere in the sup
 - source scans accounted for structurally: **40 / 40**;
 - P2 page records: **40 / 40 verified**;
 - direct lexical page verification: **40 / 40**;
-- P2: **COMPLETE / PASS**;
+- post-P2 lexical reconciliation: **complete for adjudicated differences through scan 39**;
 - P3 article/unit assemblies: **0 / 6 — NOT STARTED**.
 
 ## Exact next activity
 
-**P3 — assemble the six canonical main prose units from the verified P2 page records.** Preserve source wording and page provenance. Do not begin English translation. **This P2 activity stops before P3.**
+**P3 — assemble the six canonical main prose units from the reconciled live page records.** Preserve source wording and page provenance. Do not begin English translation.
