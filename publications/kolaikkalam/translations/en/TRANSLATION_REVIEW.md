@@ -315,12 +315,135 @@ Voice corrections:
 
 ---
 
-### Article 6 — `வீரமுழக்கஞ் செய்திடுவீர்!`
+### Article 6 — `வீரமுழக்கஞ் செய்திடுவீர்!` — T0–T5 PASS / VERIFIED
 
+- verified English title: **Raise the Heroic Cry!**
+- English file: `06-veeramuzhakkam-seythiduveer.md`
 - frozen Tamil blob: `9e0b9e437a7548ca31ce352ab485b1e342bedb95`
-- working English title: **Raise the Heroic Cry!**
-- T0–T5: not-started
+- T1 draft blob: `440dd63458e1f43a764fc7c4006b30bbf0110a0e`
+- T2 fidelity-reviewed blob: `d3f49494a6a782b544252b2d7047685215413cd1`
+- T3 voice-reviewed/T4 body authority: `8615ad98e1d1e37f2d53fd931f9bc86c3a0d2a73`
+- T5 verified English blob: `726217a73d55e573176b29da61a0c3dfb3cff611`
+- source scans: **34–40 / 7 of 7**
+- ordered source-page comments: **7 / 7 preserved**
+- scan-40 printer witness in English prose: **excluded / PASS**
+- unresolved translation choices: **0**
+- blockers: **0**
+
+#### T0 source prerequisite — PASS
+
+- frozen Article-6 assembly was re-fetched directly and matched required blob `9e0b9e437a7548ca31ce352ab485b1e342bedb95`;
+- assembly status `strict-reviewed` and source span `34–40`: confirmed;
+- supplied scans **34–40** were the controlling visual witness for source-boundary and punctuation checking;
+- user-reviewed scan-34 `பலம்` remains unchanged;
+- P5 scan-40 readings `போலீசோ`, `டாடாவோ`, `காமார்க்குங் குடியல்லோம்` remain unchanged in the frozen Tamil authority;
+- the separate scan-40 printer witness remains outside Article-6 prose;
+- Tamil source changes: **0**.
+
+#### T1 close draft — PASS
+
+- complete Article 6 translated paragraph-by-paragraph from the frozen Tamil assembly only;
+- all **7 / 7** ordered source-page comments preserved;
+- powerful-Central-Government argument, provincial-feeling attack, direct patriotic address, Jawaharlal/Achariyar/Shanmugam satire, hunger/famine sequence, centre–province disputes, South Indian Federation argument, resources/rivers/electricity/food-production case, linguistic-province argument, United Provinces finance quotation, Hindi/Hindustani language conflict, centre–province split, Kabar-Khan/Lower-Bengal challenge and final anti-domination exhortation all retained;
+- direct address, rhetorical questions, repeated exclamations, sarcastic `(!)` markers, quotation scope and accumulative final command preserved;
+- source-bearing **Pandit Jawaharlal**, **Achariyar**, **Shanmugam Chettiar**, **Vasishta**, **Brihaspatis**, **Rashtra Bhasha**, **Kabar Khan**, **Pathanistan**, **Lower Bengal**, **Birla**, **Bajaj**, **Tata**, **Dalmia**, **Viveka Chintamani** and **Kaamaarkkung kudiyallom** retained without outside expansion;
+- scan-40 printer witness was not translated into the prose body;
+- no OCR, web text, raw transcript or remembered historical wording was used as translation authority.
+
+#### T2 bilingual fidelity review — PASS
+
+The complete T1 draft was checked clause-by-clause against frozen Tamil `9e0b9e437a7548ca31ce352ab485b1e342bedb95`.
+
+Checks:
+
+- omitted body paragraphs/clauses: **0**;
+- added substantive claims: **0** after correction;
+- centre/province subjects and referents: **PASS**;
+- questions, negatives and modal force: **PASS**;
+- quoted United-Provinces finance statement: **PASS**;
+- repeated direct-address and list structures: **PASS**;
+- source labels / names / political vocabulary: **PASS**;
+- ordered source-page comments: **7 / 7 PASS**;
+- scan-40 printer witness excluded: **PASS**.
+
+T2 corrections:
+
+1. **scan 34** — `Sacrificers!` → **`Men of sacrifice!`**, preserving `தியாகிகளே` without the unnatural English agent noun;
+2. **scan 35** — `cooperation ... has taken root` → **`cooperation ... has gained strength`**, removing an English-only plant metaphor and restoring the force of `உரம் பெற்றிருக்கிறது`;
+3. **scans 37–38** — tightened the finance quotation to **`the provinces do not receive the finance they need—not even enough to protect themselves`** and changed **`India's political structure`** to **`India's political arrangement`**, avoiding an added structural interpretation;
+4. **scan 39** — `official language` → **`language of government`** for `அரசியல் மொழி`, keeping a closer functional rendering without importing a later constitutional label;
+5. **scan 39** — `mental fear` → **`apprehension`** for `மன மருட்சி`, removing the awkward English compound while retaining the rhetorical anxiety;
+6. **scan 40** — restored the repeated source list as **`Birla or Bajaj or Tata or Dalmia`**, preserving the accumulative `-வோ` cadence instead of flattening it to a plain conjunction.
+
+T2 preserved the frozen scan-40 `காமார்க்குங் குடியல்லோம்` as source-bearing **Kaamaarkkung kudiyallom** rather than normalizing it from memory or outside sources.
+
+#### T3 Kalaignar voice review — PASS
+
+T3 reread the fidelity-reviewed English beside the Tamil for sarcasm, direct address, economic accusation, centre–province conflict, rhetorical question chains and the final heroic exhortation.
+
+Voice corrections:
+
+1. **scan 34** — `preaches the counsel that` → **`preaches that`**, retaining the pointed Achariyar sentence without cumbersome translator phrasing;
+2. **scan 35** — `looks ready to collapse` → **`seems about to collapse`**, keeping the source's immediate sense of economic decline;
+3. **scan 35** — recast the Shanmugam Chettiar/Vasishta sentence around its satirical parenthesis while preserving the quoted titles and `rishi (!)` marker;
+4. **scan 35** — tightened the cooperation sentence to **`at least some measure of the truth becomes clear to us!`**, preserving the source's emphatic conclusion;
+5. **scan 39** — `destroy it` → **`wipe it out!`** for the internal difference-of-opinion command, retaining polemical force;
+6. **scan 39** — `yearning` → **`anxiety`** in the autocracy-reduction question, preserving the hostile rhetorical sense in English;
+7. **scan 40** — recast the opening as **`Or is it the imperialist mentality that wants...`**, keeping the accusation direct rather than syntactically passive;
+8. **scan 40** — `frenzy of authority` → **`lust for power`** for `அதிகார வெறி`, restoring the source's sharper emotional force.
+
+- semantic additions introduced by T3: **0**;
+- T2 corrections regressed: **0**;
+- Tamil changes: **0**.
+
+#### T4 terminology / quotation / citation audit — PASS
+
+- title `வீரமுழக்கஞ் செய்திடுவீர்!` → **Raise the Heroic Cry!**: **VERIFIED**; the article closes with the direct imperative `வீர முழக்கஞ் செய்யுங்கள்`, making **Raise the Heroic Cry!** the source-supported title rather than a neutral “appeal”;
+- `வீரமுழக்கம்` → **heroic cry**: **PASS**;
+- `மாகாண உணர்ச்சி` → **provincial feeling**: **PASS**, recurring political term kept visible;
+- `மத்ய சர்க்கார் / மத்திய சர்க்கார்` → **Central Government**: **PASS**, source orthographic variation not turned into a false semantic distinction;
+- `தென்னிந்திய பெடரேஷன்` → **South Indian Federation**: **PASS**;
+- `மொழிவாரி மாகாணப் பிரிவினை` → **linguistic provincial division**: **PASS**;
+- `விவேக (!) சிந்தாமணி` → **Viveka (!) Chintamani**: **PASS**, source-bearing satirical phrase retained without unsupported identification;
+- `பிரகஸ்பதிகள்` → **Brihaspatis**: **PASS**, source-bearing sarcastic label retained;
+- `ராஷ்டிர பாஷை` → **Rashtra Bhasha**: **PASS**;
+- `பட்டாணிஸ்தான்` → **Pathanistan** and `கபார்கான்` → **Kabar Khan**: **PASS**, source-visible forms retained without silent historical normalization;
+- `அரசியல் மொழி` → **language of government**: **PASS**;
+- Article-6 reuse of **Bharat Mata**, **Achariyar**, **cloak of nationalism**, **Dravidians / Dravidian land**: **PASS** against the living lexicon;
+- `இரும்பு முதலாளித் தத்துவம்` → **iron capitalist doctrine**: **PASS**;
+- `காமார்க்குங் குடியல்லோம்` → **Kaamaarkkung kudiyallom**: **PASS**, frozen source reading retained and not normalized to a more familiar quotation;
+- `திராவிடநாடு திராவிடருக்கே!` → **Dravidian land for the Dravidians!**: **PASS**;
+- quotation status and sarcastic `(!)` markers: **PASS**;
+- ordered source-page comments: **7 / 7 PASS**;
+- scan-40 printer witness excluded: **PASS**;
+- external explanatory body claims: **0**;
+- T4 body corrections required: **0**; T4 body authority remains `8615ad98e1d1e37f2d53fd931f9bc86c3a0d2a73`.
+
+#### T5 article verification — PASS / VERIFIED
+
+- frozen Tamil authority unchanged: **PASS**;
+- T0: **PASS**;
+- T1: **PASS**;
+- T2: **PASS**;
+- T3: **PASS**;
+- T4: **PASS**;
+- source scans represented: **7 / 7**;
+- ordered source-page comments: **7 / 7**;
+- scan-40 printer witness excluded from prose: **PASS**;
+- unresolved translation choices: **0**;
+- blockers: **0**;
+- final metadata: `translation_status: verified`;
+- verified English title: **Raise the Heroic Cry!**;
+- verified English blob: `726217a73d55e573176b29da61a0c3dfb3cff611`.
+
+**ARTICLE 6 T5 RESULT: PASS / VERIFIED.**
+
+---
+
+## Publication article-level English status
+
+All six articles are now individually **T0–T5 PASS / VERIFIED**. Article-level blockers: **0**.
 
 ## Exact next activity
 
-Proceed with **Article 6 — `வீரமுழக்கஞ் செய்திடுவீர்!` — T0 source-pin confirmation followed by T1 complete English draft**, using only frozen Tamil blob `9e0b9e437a7548ca31ce352ab485b1e342bedb95`. Preserve verified Articles 1–5, keep the scan-40 printer witness outside Unit-6 prose, preserve every ordered source-page comment, and keep **Raise the Heroic Cry!** provisional until Article-6 T4.
+Proceed with **E6 — publication-wide English consistency review** across all six verified articles. Compare the six verified English blobs against their frozen Tamil authorities and the living lexicon; classify apparent inconsistencies as **consistent**, **deliberate contextual/source-witness exception**, or **correction required**. Preserve source-sensitive differences and do not homogenise merely for neatness. Check recurring names/epithets, Aryan/Dravidian vocabulary, Bharat Mata, Achariyar, nationalism/source labels, title style, quoted material, source-bearing transliterations, page comments and tone. If E6 finds a genuine English defect, correct it and update all dependent final blob records; otherwise leave the six verified bodies unchanged. Stop after E6; E7 release closeout remains separate.
