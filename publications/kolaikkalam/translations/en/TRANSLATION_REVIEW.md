@@ -2,7 +2,8 @@
 
 Permanent translation policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TRANSLATION_GUIDE.md)  
 Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)  
-Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)
+Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)  
+Detailed E6 audit: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)
 
 ## E0 planning/setup — PASS
 
@@ -442,8 +443,61 @@ Voice corrections:
 
 ## Publication article-level English status
 
-All six articles are now individually **T0–T5 PASS / VERIFIED**. Article-level blockers: **0**.
+All six articles are individually **T0–T5 PASS / VERIFIED**. Article-level blockers: **0**.
+
+## E6 publication-wide English consistency review — PASS
+
+Date: **2026-09-04**
+
+All six T5 English authorities were re-fetched and compared publication-wide against their frozen Tamil authorities and the living lexicon.
+
+### Consistent
+
+- **Aryanism / Aryans**, **Dravidians**, **Brahminism / Brahmins**, **Bharat Mata**, **Achariyar**, **class hatred** and **cloak of nationalism** remain consistent where the Tamil referent and grammatical role agree.
+- Article 6 centre–province vocabulary remains internally consistent: **Central Government**, **province / provincial**, **South Indian Federation**, **Rashtra Bhasha**.
+- article-specific rhetorical images remain distinct and intact rather than flattened across the publication.
+- all six verified English titles remain source-supported.
+- quotation treatment, sarcastic `(!)` markers, direct address, rhetorical questions, commands, repetitions and exclamations remain preserved.
+
+### Deliberate contextual / source-witness exceptions
+
+- `திராவிடம் / திராவிட நாடு` → **Dravidian land / Dravidian country** by sentence and polity/land sense;
+- `தேசீயம்` → **nationalism / national / nationalist** by grammar, while matching cloak passages remain **cloak of nationalism**;
+- Article 2 **Jawahar** versus Article 6 **Pandit Jawaharlal** follows different source labels;
+- Article 1 **Hindustan** versus Article 6 **India / united India** follows the respective source wording;
+- Article 4 `வீரசுருதி` → **pitch of valour** versus Article 6 `வீரமுழக்கம்` → **heroic cry** preserves different metaphors;
+- Article 5 `சோதனை` remains contextual **search / trial / test**;
+- Article 6 `மத்ய சர்க்கார் / மத்திய சர்க்கார்` source spelling variation maps functionally to the same **Central Government**;
+- source-bearing forms **Kuyyo! Muraiyo!**, **Neeli tears**, **Vibhishanas**, **Venganna**, **Chanakyan**, **kattai**, **Chandala-ness**, **Viveka (!) Chintamani**, **Brihaspatis**, **Rashtra Bhasha**, **Pathanistan**, **Kabar Khan** and **Kaamaarkkung kudiyallom** remain intentionally unnormalised.
+
+### Correction required
+
+**0 findings.** No English article body changed during E6.
+
+### E6 structural checks
+
+- T5 English authorities unchanged: **6 / 6**;
+- frozen Tamil authorities unchanged: **6 / 6**;
+- ordered source-page comments: **36 / 36 preserved**;
+- correct frozen Tamil blob in each English metadata block: **6 / 6 PASS**;
+- all six titles: **PASS**;
+- source-bearing transliterations / explanatory restraint: **PASS**;
+- Article-6 scan-40 printer witness in prose: **excluded / PASS**;
+- English body corrections made during E6: **0 / 6**;
+- Tamil changes during E6: **0**;
+- blockers: **0**.
+
+E6 release-candidate English blobs therefore remain:
+
+1. `c0ca9a883720d51a2637b811b7f38ca1635ba848`
+2. `d20e579836ff2749664d7ee1ed5def5237293e60`
+3. `812c36b9e5350608dd1a951d08c2e48074549697`
+4. `455e229bf216b21c8bc08c192be3b9e44c54940e`
+5. `fe5a7ea3c17c1bce940d4688365892aaa720285b`
+6. `726217a73d55e573176b29da61a0c3dfb3cff611`
+
+**E6 RESULT: PASS / COMPLETE.**
 
 ## Exact next activity
 
-Proceed with **E6 — publication-wide English consistency review** across all six verified articles. Compare the six verified English blobs against their frozen Tamil authorities and the living lexicon; classify apparent inconsistencies as **consistent**, **deliberate contextual/source-witness exception**, or **correction required**. Preserve source-sensitive differences and do not homogenise merely for neatness. Check recurring names/epithets, Aryan/Dravidian vocabulary, Bharat Mata, Achariyar, nationalism/source labels, title style, quoted material, source-bearing transliterations, page comments and tone. If E6 finds a genuine English defect, correct it and update all dependent final blob records; otherwise leave the six verified bodies unchanged. Stop after E6; E7 release closeout remains separate.
+Proceed with **E7 — English release closeout**. Re-fetch the six E6 release-candidate English authorities and six frozen Tamil authorities; confirm no post-E6 body or metadata drift; verify **36 / 36** ordered source-page comments and the Article-6 scan-40 printer-witness exclusion; synchronize final release documentation; and mark the English translation **COMPLETE / RELEASED / FROZEN** only if no blocker is found.
