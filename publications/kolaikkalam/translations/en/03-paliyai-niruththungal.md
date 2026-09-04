@@ -8,7 +8,7 @@ source_tamil_blob_sha: "e9df22b14e6102c691fe4cc81417eda1051d8f25"
 source_scan_pages: "17-22"
 source_printed_pages: "scan 17 numeral not visible; scans 18-22 visibly 18-22"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -20,7 +20,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 A throng of devotees filled the Lord's sanctum!
 
-They bowed in fearful devotion! They struck their cheeks!
+They bowed in fear and devotion! They struck their cheeks!
 
 They performed archana! Abhishekam took place!
 
@@ -44,7 +44,7 @@ Thinking that its father would lovingly lift it, hold it without hurting its bod
 
 The next second! Broken bones. Torn sinews. Red lips scattered and flung apart; skin, flesh—a little island of meat in the middle of a pool of blood!
 
-The altar called devotion, which had taken the emblem of love as its sacrifice, looked at that motionless idol and smiled a victorious smile!
+The altar called devotion, which had taken the emblem of love as its sacrifice, looked at that motionless idol and smiled a triumphant smile!
 
 What has been sketched above is the story of the devotee Gora Kumbhar!
 
@@ -62,7 +62,7 @@ But in the name of nationalism, the lives of the Dravidian people—the descenda
 
 Modern Gora Kumbhars! Priests who intoxicate them with the drug called devotion; journals that praise and glorify that sacrifice—there are countless numbers of them everywhere!
 
-Some have erected a defence called ‘class hatred’ and are working in disciplined fashion.
+Some have built themselves a shield called ‘class hatred’ and work with discipline.
 
 With the arrogance that they have the strength of the press and the support of a few rich men, they treat the people as gambling pieces without life or feeling and move them about as they please.
 
@@ -74,9 +74,9 @@ We commend her!
 
 <!-- Tamil source: scan 20 / printed 20 -->
 
-No one should object to Saraswati being common property; but why should the concern the lady shows that the Goddess's (Saraswati—education) sanctum must be common property not also be shown toward the Lord's sanctum!
+No one should object to Saraswati being common property. But why should the concern the lady shows that the Goddess's (Saraswati—education) sanctum must be common property not also be shown toward the Lord's sanctum!
 
-Six daily offerings as food for one class, eternal starvation for another—this has gone on permanently!
+Six daily offerings as food for one class; eternal starvation for another—this has gone on without end!
 
 Why has she not found the will to oppose it—to change it!
 
@@ -94,7 +94,7 @@ When an agitation arises to set aside even English—a great world language fill
 
 <!-- Tamil source: scan 21 / printed 21 -->
 
-Just as we respect dead human beings, we respect a language no longer in use; but we warn our people that if it is left outside without being buried, it will begin to stink!
+Just as we respect dead human beings, we respect a language no longer in use; but we warn our people: leave it outside unburied, and it will raise a stench!
 
 When serving food to a man writhing with hunger, there is neither intelligence nor meaning in thinking that, in the name of equality, a share must also be given to a man suffering from indigestion!
 
@@ -118,7 +118,7 @@ We must not stop with empty shouting alone; we must act!
 
 This is what we have been saying for all these years; this is what we have been telling the whole country.
 
-Nationalist comrades too must understand this. Come, serve! Out of love, we call upon nationalist comrades and leaders alike.
+Nationalist comrades too must understand this. Come, render service! Out of love, we call upon nationalist comrades and leaders alike.
 
 Do not sacrifice the growth of the race upon the altar called nationalism.
 
