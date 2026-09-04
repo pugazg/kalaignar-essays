@@ -8,7 +8,7 @@ source_tamil_blob_sha: "e9df22b14e6102c691fe4cc81417eda1051d8f25"
 source_scan_pages: "17-22"
 source_printed_pages: "scan 17 numeral not visible; scans 18-22 visibly 18-22"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -50,11 +50,11 @@ What has been sketched above is the story of the devotee Gora Kumbhar!
 
 We may dismiss it all as a tale from a barbaric age, a Puranic story!
 
-But in this modern age, in this time that prides itself on civilisation, blood sacrifice has stopped to some extent—but life itself is being sacrificed!
+But in this modern age, in this time that prides itself on civilisation, the sacrifice of life has stopped to some extent—but life itself is being sacrificed!
 
 <!-- Tamil source: scan 19 / printed 19 -->
 
-A crowd of devotees fills the sanctum of Mother Bharata!
+A crowd of devotees fills the sanctum of Bharat Mata!
 
 Bodies bow, hearts melt, and they worship!
 
@@ -76,7 +76,7 @@ We commend her!
 
 No one should object to Saraswati being common property; but why should the concern the lady shows that the Goddess's (Saraswati—education) sanctum must be common property not also be shown toward the Lord's sanctum!
 
-Six daily offerings for one class, eternal starvation for another—this has gone on permanently!
+Six daily offerings as food for one class, eternal starvation for another—this has gone on permanently!
 
 Why has she not found the will to oppose it—to change it!
 
@@ -102,19 +102,19 @@ Everyone must show concern in lifting up people whose condition is low; minister
 
 Those who till the land, conduct trade, and labour day and night in factories, constantly increasing the country's material wealth, are the Dravidians, the original inhabitants of this land! The fruit of their labour is what today pays the wages of those who rule the land!
 
-If no effort is made to correct the condition in which they live, there is no course left to us but to cite this one Kural: ‘There is deliverance even for one who destroys any good; there is no deliverance for the man who destroys gratitude for good done’!
+If no effort is made to correct the condition in which they live, there is no course left to us but to cite this one Kural: ‘There is deliverance even for one who destroys any good; there is no deliverance for the man who destroys the good done to him’!
 
 The moment we hear that the slogan ‘Down with Brahmins’ has arisen in the Government mansion, we know that the echo of the heartbeat of the Dravidian people is present there!
 
 <!-- Tamil source: scan 22 / printed 22 -->
 
-But that is not what we demand; Brahmins need not perish—let them remain!
+But that is not what we demand; Brahmins need not disappear—let them remain!
 
 Let Brahmins remain; let them remain among us, just like us!
 
 In caste observances, in matters of God, in temple festivals, in our festivals, and above all in Hindu law, Aryan domination and the influence of the northern language must disappear—must be destroyed!
 
-It must not be stopped with empty shouting alone; action must be taken!
+We must not stop with empty shouting alone; we must act!
 
 This is what we have been saying for all these years; this is what we have been telling the whole country.
 
