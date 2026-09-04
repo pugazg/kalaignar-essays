@@ -67,14 +67,14 @@ Printed contents page: **ABSENT / CONFIRMED**.
 
 ### Main prose units
 
-| Unit | Exact heading witness | Scan span |
-|---:|---|---:|
-| 1 | `கொலைக்களம்!` | **5–9** |
-| 2 | `‘அஸ்தி’ கரையட்டும்!` | **10–16** |
-| 3 | `பலியை நிறுத்துங்கள்!` | **17–22** |
-| 4 | `விழலுக்கு நீர் இறைத்து...` | **23–27** |
-| 5 | `சோதனை!` | **28–33** |
-| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | **34–40** |
+| Unit | Exact heading witness | Scan span | P3 assembly |
+|---:|---|---:|---|
+| 1 | `கொலைக்களம்!` | **5–9** | `articles/01-kolaikkalam.md` |
+| 2 | `‘அஸ்தி’ கரையட்டும்!` | **10–16** | `articles/02-asthi-karaiyattum.md` |
+| 3 | `பலியை நிறுத்துங்கள்!` | **17–22** | `articles/03-paliyai-niruththungal.md` |
+| 4 | `விழலுக்கு நீர் இறைத்து...` | **23–27** | `articles/04-vizhalukku-neer-iraiththu.md` |
+| 5 | `சோதனை!` | **28–33** | `articles/05-sothanai.md` |
+| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | **34–40** | `articles/06-veeramuzhakkam-seythiduveer.md` |
 
 The Unit-6 heading is a direct-scan correction of the earlier P1 normalized form `வீரமுழக்கம் செய்திடுவீர்!`.
 
@@ -123,9 +123,18 @@ User-reviewed damaged readings recorded as controlling:
 - scan 25 `இதற்குத்தானா`;
 - scan 28 `சூத்திரர்களை`;
 - scan 29 `புயலெனச்`;
-- scan 30 `இதுதானா`.
+- scan 30 `இதுதானா`;
+- scan 34 `பலம்`.
 
 Scan 40 was not reopened in this lexical-difference pass and remains unchanged from the prior verified page record.
+
+## P3 assembly completion
+
+- article/unit assemblies: **6 / 6 COMPLETE / PASS**;
+- assembly record: `publications/kolaikkalam/P3_COMPLETION.md`;
+- assemblies were built only from the reconciled canonical page layer;
+- page-boundary provenance is retained in all six assemblies;
+- the scan-40 printer witness remains outside Unit 6 prose body.
 
 ## Gate status
 
@@ -133,13 +142,13 @@ Scan 40 was not reopened in this lexical-difference pass and remains unchanged f
 - P1: **COMPLETE / PASS, with later source corrections propagated**
 - P2 lexical page transcription: **COMPLETE / PASS — 40 / 40**
 - post-P2 lexical reconciliation: **COMPLETE for adjudicated differences through scan 39**
-- P3: **NOT STARTED**
+- P3: **COMPLETE / PASS — 6 / 6**
 - P4: **NOT STARTED**
 - P5 strict visual fidelity: **NOT STARTED**
-- article/unit assemblies: **0 / 6**
+- article/unit assemblies: **6 / 6**
 - English translation: **NOT STARTED**
 - blockers: **0**
 
 ## Exact next activity
 
-**P3 — assemble the six canonical prose units from the reconciled live page records.** Read `LEXICAL_RECONCILIATION_2026-09-04.md` first, preserve source wording and page provenance, keep the scan-40 printer witness outside Unit 6 body text, and do not begin English translation.
+**P4 — source/completeness audit of all six P3 assemblies against the reconciled canonical page layer.** Verify complete scan coverage, unit boundaries, page-boundary continuity, headings/subheadings, and exclusion of physical-copy/audit text and the scan-40 printer witness from article prose. Do not perform P5 or begin English translation in the same activity.
