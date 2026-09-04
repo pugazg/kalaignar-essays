@@ -8,7 +8,7 @@ source_tamil_blob_sha: "bc22ad3acec0bacc70ef69e0fb46f85fa3fed274"
 source_scan_pages: "5-9"
 source_printed_pages: "scan 5 numeral not visible; scans 6-9 visibly 6-9"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -18,7 +18,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 5 / printed numeral not visible -->
 
-War—having turned lakhs of warriors into corpses; having drunk the lives of tender infants and young women as they trembled; having made crores of mothers cry out in anguish and then smiled a little smile at their wailing; having multiplied widows and laughed till its ribs hurt at their agony........having scratched at Mussolini's iron heart and tasted it, ended Hitler's life, handed Goering a cup of poison and feasted on his flesh, scraped Hiroshima with its crazed tongues and savoured it, and played in the mire of blood by planting bones there........war........unable to remain much longer behind the curtain called peace, now sings its dreadful song: ‘Here I come, here I come.’
+War—having turned lakhs of warriors into corpses; having drunk the lives of tender infants and young women as they trembled and quivered; having made crores of mothers cry out in anguish and then smiled a little smile at their wailing; having multiplied widows and laughed till its ribs hurt at their agony........having scratched at Mussolini's iron heart and tasted it, ended Hitler's life, handed Goering a cup of poison and feasted on his flesh, scraped Hiroshima with its crazed tongues and savoured it, and played in the mire of blood by planting bones there........war........unable to remain much longer behind the curtain called peace, now sings its dreadful song: ‘Here I come, here I come.’
 
 War again? The world recoils. Another war before the wounds made by this war have even dried? Another war before the wound in the skull has healed? The war drum before ruined life has been repaired?
 
@@ -46,17 +46,17 @@ Britain—America—Russia, the three nations that stood together then to destro
 
 The crores of devotees of Jesus, who preached the abolition of violence, want to stage swimming games in a sea of blood!
 
-‘Beheading is a pastime for the king; for all of us it is the agony of life’...............At that level, sitting safely under protection...............the leaders deliver heroic speeches: ‘We shall invade! We shall destroy the world!’
+‘Beheading is a pastime for the king; for all of us it is the agony of life’...............So it is: sitting safely under protection...............the leaders deliver heroic speeches: ‘We shall invade! We shall destroy the world!’
 
-Religion of righteousness—the guide of conciliatory virtue—the international organisation. With all this, still war!
+The religion of righteousness—the guide to harmonious virtue—the international organisation. All these—and still war!
 
 A condition in which shame and anguish are mingled!
 
-If this crisis is to be nipped in the bud, Stalin, Truman and Attlee must meet. Or Truman must be removed from the presidential chair. George Marshall must be driven out of the American administration—many warn with proposals such as these.
+If this crisis is to be nipped in the bud, Stalin, Truman and Attlee must meet. Or Truman must be removed from the presidential chair. George Marshall must be driven out of the American administration. Many sound warnings with proposals such as these.
 
 The blood-crazed leader will not lend an ear to these proposals!
 
-War! War! War is going to come!
+War! War! War is bound to come!
 
 The volcano is rumbling! In just a little while, molten fire will be poured out, ladle after ladle!
 
