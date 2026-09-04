@@ -60,6 +60,7 @@ Physical scans: **40**
 - scan 2 publication-data record directly reads `எம். எஸ். ராமுலு கம்பெனி` and the associated Chennai address;
 - scan 4 signed ending directly reads `மு. நமசிவாயம்` / `பண்ணையாளர்.`;
 - scan 34 heading directly reads **`வீரமுழக்கஞ் செய்திடுவீர்!`**, superseding the earlier normalized P1 label `வீரமுழக்கம் செய்திடுவீர்!`;
+- scan 34 body reading `பலம்` is the user's manually confirmed controlling reading, superseding the earlier misread `பலழ்`;
 - scan 40 final printer witness is **`ஸ்ரீமகள் பிரஸ், சென்னை—1`**;
 - the 2026-09-04 lexical reconciliation and user-reviewed damaged readings are recorded in `../LEXICAL_RECONCILIATION_2026-09-04.md` and control over older P2 lexical forms.
 
@@ -99,8 +100,9 @@ Scan 40 contains the end of Unit 6 and the printed printer witness `ஸ்ரீ
 - P2 page records: **40 / 40 verified**;
 - direct lexical page verification: **40 / 40**;
 - post-P2 lexical reconciliation: **complete for adjudicated differences through scan 39**;
-- P3 article assemblies: **0 / 6 — NOT STARTED**.
+- P3 article assemblies: **6 / 6 — COMPLETE / PASS**;
+- P3 completion record: `../P3_COMPLETION.md`.
 
 ## Exact next activity
 
-**P3 — assemble the six canonical main prose units from the reconciled live page records.** Read `../LEXICAL_RECONCILIATION_2026-09-04.md` before assembly.
+**P4 — source/completeness audit of the six P3 article assemblies against the reconciled canonical page layer.** Verify scan coverage, boundaries, page-boundary continuity, source-supported headings/subheadings, and that physical-copy/audit text plus the scan-40 printer witness are not inside article prose. Do not perform P5 or begin English translation in the same activity.
