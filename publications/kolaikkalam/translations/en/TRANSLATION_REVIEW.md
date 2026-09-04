@@ -41,7 +41,7 @@ Date: **2026-09-04**
 
 T2 corrections preserved: singular **leader** for source `தலைவர்`; restored Hindustan as subject and the source modal force; removed the English-only object pronoun from the final infanticide warning.
 
-T3 corrections preserved: **trembled and quivered**; tightened the scan-8 aphorism transition; **All these—and still war!**; separated the George Marshall command/warning cadence; **War! War! War is bound to come!**. T4 verified title, terminology, quotations, names and all five page comments with no further body correction.
+T3 corrections preserved: **trembled and quivered**; tightened the scan-8 aphorism transition; **All these—and still war!**; separated the George Marshall command/warning cadence; **War! War! War is bound to come!**. T4 verified the title, terminology, quotations, proper names and all five page comments with no further body correction.
 
 ---
 
@@ -60,7 +60,7 @@ T3 corrections preserved: **trembled and quivered**; tightened the scan-8 aphori
 
 T2 corrections preserved: `நெருப்பில் நொறுக்கப்பட்டு` recovered with the physical force later finalized as **shattered in fire**; `தோள்வலி கொண்டோரின் வாழ்வு` → **lives of strong-shouldered men**; the Aryanism-command sentence retains **—so commands Aryanism!**; `சுட்டது திராவிடர்` → **The one who fired the shot was a Dravidian**.
 
-T3 voice corrections preserved: **The fright of the Hindu—Mithran papers!**; **Our honour is lost!**; **How swiftly your venomous propaganda would have raced!**; **This is no journalistic dharma!**; the Bhashyam Iyengar/Hindu/Mithran three-part charge; **under the cloak of nationalism**; the head-bearing command image; **Dravidian race-consciousness**.
+T3 corrections preserved: **The fright of the Hindu—Mithran papers!**; **Our honour is lost!**; **How swiftly your venomous propaganda would have raced!**; **This is no journalistic dharma!**; the Bhashyam Iyengar/Hindu/Mithran three-part charge; **under the cloak of nationalism**; the head-bearing command image; **Dravidian race-consciousness**.
 
 T4 verified quoted **‘ashes’** and the repeated **dissolve** motif, plus Aryanism/Brahminism/Dravidians, **Achariyar**, **Dravidar Kazhagam**, **Chanakyan**, **journalistic dharma**, and source-bearing **Kuyyo! Muraiyo!**, **Neeli tears**, **Vibhishanas**, **Venganna**, `gotra`, `darbha` and `kamandalu`. No unsupported outside identification was inserted.
 
@@ -73,65 +73,90 @@ T4 verified quoted **‘ashes’** and the repeated **dissolve** motif, plus Ary
 - frozen Tamil blob: `e9df22b14e6102c691fe4cc81417eda1051d8f25`
 - T1 draft blob: `c03a2ce1c45ebd33d6559d12455df566fc28a229`
 - T2 fidelity-reviewed blob: `8bfb86126a6e26e00e5a0e7d1254c2256fa48380`
-- T3 voice-reviewed blob: `85c73dfe2681f84f272d11ba966f7f35390a20fb`
-- T4 body authority: `85c73dfe2681f84f272d11ba966f7f35390a20fb` — no T4 body correction required
+- T3 voice-reviewed/T4 body authority: `85c73dfe2681f84f272d11ba966f7f35390a20fb`
 - T5 verified English blob: `812c36b9e5350608dd1a951d08c2e48074549697`
-- source scans: **17–22 / 6 of 6**
-- ordered source-page comments: **6 / 6 preserved**
+- source scans/comments: **6 / 6 preserved**
+- unresolved choices: **0**
+- blockers: **0**
+
+T2 corrections preserved: `உயிர்ப்பலி / வாழ்வு` → **the sacrifice of life ... life itself is being sacrificed**; `பாரத மாதா` → **Bharat Mata**; restored `ஒரு வகுப்பார் உணவுக்கும்` in the six-daily-offerings contrast; tightened the Kural proposition; `ஒழிய` → **disappear**, not “perish”; restored first-person agency in **We must not stop with empty shouting alone; we must act!**
+
+T3 corrections preserved: **fear and devotion**; **smiled a triumphant smile**; **built themselves a shield called ‘class hatred’**; sharpened the Saraswati/food contrast; **leave it outside unburied, and it will raise a stench!**; **Come, render service!**
+
+T4 verified **Stop the Sacrifice!**, the repeated sacrifice/altar family, **Bharat Mata**, source-bearing **Gora Kumbhar**, `class hatred`, `northern language`, `technical vocabulary`, `original inhabitants`, `growth of the race`, `sacrifice of the race`, **Down with Brahmins**, `archana`, `abhishekam`, the Bible quotation, Kural quotation and all six page comments.
+
+---
+
+### Article 4 — `விழலுக்கு நீர் இறைத்து...` — T0–T5 PASS / VERIFIED
+
+- verified English title: **Watering the Weeds...**
+- English file: `04-vizhalukku-neer-iraiththu.md`
+- frozen Tamil blob: `91f764f73c9514b2ce1eefdd94d3a1320a0c228e`
+- T1 draft blob: `3fed2f78f29c98c177952a843f21ccb5ad953b61`
+- T2 fidelity-reviewed blob: `ac4c20d5c95c0bd0dc1f5c612d67322f206402d7`
+- T3 voice-reviewed blob: `ec4270e526c51f6269b310ea96199ebb9da2fa62`
+- T4 body authority: `ec4270e526c51f6269b310ea96199ebb9da2fa62` — no T4 body correction required
+- T5 verified English blob: `455e229bf216b21c8bc08c192be3b9e44c54940e`
+- source scans: **23–27 / 5 of 5**
+- ordered source-page comments: **5 / 5 preserved**
 - unresolved translation choices: **0**
 - blockers: **0**
 
 #### T0 source prerequisite — PASS
 
-- frozen Article-3 blob was re-fetched directly: `e9df22b14e6102c691fe4cc81417eda1051d8f25`;
-- strict-reviewed status and source span `17–22`: confirmed;
+- frozen Article-4 blob was re-fetched directly: `91f764f73c9514b2ce1eefdd94d3a1320a0c228e`;
+- strict-reviewed status and source span `23–27`: confirmed;
+- the user-reviewed scan-23 readings `மனிதனான தப்பா` and `கண்ணாடிக் கன்னத்தை`, plus scan-25 `இதற்குத்தானா`, remain untouched in the Tamil authority;
 - Tamil source changes: **0**.
 
 #### T1 close draft — PASS
 
 - complete article translated paragraph-by-paragraph from the frozen Tamil assembly only;
-- all **6 / 6** ordered source-page comments preserved;
-- devotional opening, infant-sacrifice narrative, Bharat Mata parallel, social/political argument, burial/stench image, Kural quotation and closing sacrifice refrain all retained;
-- direct address, commands, rhetorical questions, repetition, accusations and exclamations preserved;
-- source-bearing `Gora Kumbhar`, `Bharat Mata`, `V.O. Chidambaram`, `Tiruppur Kumaran`, `Comrade Durgabai`, `archana` and `abhishekam` retained without outside expansion;
+- all **5 / 5** ordered source-page comments preserved;
+- dream/awakening frame, Congress pitch metaphor, freedom slogans, self-rule/good-rule wordplay, hunger/poverty list, office-hunt satire, circus image, `சந்தி சிரிக்கும்` ridicule, capitalist-sewer/imperial-drum attack, Marx quotation and final weeds/water lament all retained;
+- direct speech, rhetorical questions, repetitions, exclamations, ellipses and abrupt contrasts preserved;
+- source-bearing **Madana**, **Prakasam**, **Omandurar**, **Chokkalingam**, **Dinasaari**, **Bharata Devi**, **Sri Vaidyanatha Iyer**, **Vadapathimangalam**, **Naadi Muthus** and **Vaidyanatha Iyers** retained without outside identification;
 - no OCR/web/manual-transcript wording used as translation authority.
 
 #### T2 bilingual fidelity review — PASS
 
-The complete T1 draft was checked clause-by-clause against frozen Tamil `e9df22b14e6102c691fe4cc81417eda1051d8f25`.
+The complete T1 draft was checked clause-by-clause against frozen Tamil `91f764f73c9514b2ce1eefdd94d3a1320a0c228e`.
 
 Checks:
 
 - omitted body paragraphs/clauses: **0**;
 - added substantive claims: **0** after correction;
-- names/referents: **PASS**;
-- quotation scope, including the Bible sentence and Kural: **PASS**;
-- negatives, comparisons, commands, questions and repeated sacrifice imagery: **PASS**;
-- source comments: **6 / 6 PASS**.
+- dream-frame speaker/listener relations: **PASS**;
+- numbers, including **thirty-two teeth** and **four-and-a-half kattai / half a kattai**: **PASS**;
+- quotation scope and slogans: **PASS**;
+- repeated `விழல் / நீர் இறைத்து` image: **PASS**;
+- names/source labels: **PASS**;
+- source comments: **5 / 5 PASS**.
 
 T2 corrections:
 
-1. **scan 18** — `blood sacrifice has stopped to some extent` → **`the sacrifice of life has stopped to some extent—but life itself is being sacrificed`**, preserving the source contrast `உயிர்ப்பலி / வாழ்வு` rather than importing a narrower “blood sacrifice” label;
-2. **scan 19** — **Mother Bharata** → **Bharat Mata**, retaining the source-bearing `பாரத மாதா` label;
-3. **scan 20** — **six daily offerings for one class** → **six daily offerings as food for one class**, restoring source `ஒரு வகுப்பார் உணவுக்கும்`;
-4. **scan 21** — Kural close `destroys gratitude for good done` → **`destroys the good done to him`**, avoiding an added abstraction and keeping the quoted source proposition;
-5. **scan 22** — `Brahmins need not perish` → **`Brahmins need not disappear`**, preserving `ஒழிய` without adding a death sense;
-6. **scan 22** — passive `It must not be stopped with empty shouting alone` → **`We must not stop with empty shouting alone; we must act!`**, restoring the source's exhortative agency.
+1. **scan 23** — `Her cool glance came first` → **`Outstripping her cool gaze...`**, keeping the source `முந்திக்கொண்டு` relation rather than flattening the image;
+2. **scan 24** — the office/brother slogan was recast as **`Down with possession by the demon of office! Down with the betrayer of brothers!`**, retaining both source attacks rather than merging them into one noun phrase;
+3. **scan 24** — restored the explicit addressee relation in **`when the leaders told them`** for source `தங்களிடம் ... தலைவர்கள் கூறிய பொழுது`;
+4. **scan 25** — retained `சண்டாளத்தனம்` as source-bearing **Chandala-ness** rather than silently neutralising the caste-loaded formulation;
+5. **scans 26–27** — repeated `சந்தி சிரிக்கும்` and `விழல் / நீர் இறைத்து` images were kept lexically visible across their recurrences rather than paraphrased away.
 
 #### T3 Kalaignar voice review — PASS
 
-T3 reread the fidelity-reviewed English beside the Tamil for accusation, satire, rhetorical imagery, abruptness, exclamation and the sacrifice refrain.
+T3 reread the fidelity-reviewed English beside the Tamil for dreamlike seduction, mockery, slogans, musical imagery, polemical lists, ridicule and the final futile-labour refrain.
 
 Voice corrections:
 
-1. **scan 17** — `fearful devotion` → **`fear and devotion`**, keeping the two-part force of `பயபக்தி` without turning it into flat description;
-2. **scan 18** — `smiled a victorious smile` → **`smiled a triumphant smile`**, preserving the deliberate repeated-smile construction while making it forceful English;
-3. **scan 19** — `erected a defence called ‘class hatred’` → **`built themselves a shield called ‘class hatred’`**, carrying the defensive image in `தற்காப்பை அமைத்துக் கொண்டு`;
-4. **scan 20** — split the Saraswati challenge into **`No one should object... But why...!`** and sharpened the contrast to **`Six daily offerings as food for one class; eternal starvation for another—this has gone on without end!`**;
-5. **scan 21** — the obsolete-language image became **`leave it outside unburied, and it will raise a stench!`**, retaining the burial/decay attack rather than smoothing it;
-6. **scan 22** — `Come, serve!` → **`Come, render service!`**, preserving the exhortative `வாரீர் தொண்டாற்ற`.
+1. **scan 23** — `scatter even a sculptor's imagination` → **`shatter even a sculptor's imagination`**, restoring the violence of `சிதறடிக்கும்`;
+2. **scan 23** — `They carried my eyes away!` → **`They snatched my eyes away!`**, preserving the source's exaggerated `கண்ணைப் பறித்துக்கொண்டு போயின`;
+3. **scan 24** — reordered the waking sentence to **`the voice choked, pity mingled with sorrow, anguish swelled`** to keep the source's cumulative emotional cadence;
+4. **scan 24** — tightened the falling musical image to **`It has fallen—and keeps falling! Why?`**;
+5. **scan 25** — `a punctured cart, a rotten beam` → **`a cart riddled with holes, a worm-eaten beam`**, preserving the contemptuous physical images;
+6. **scan 25** — `everything must be given away` → **`everything must be surrendered`**, retaining the office-greed attack without adding a new object;
+7. **scan 26** — `farce` → **`grotesque farce`** for the source's `ரசாபாசம்` ridicule;
+8. **scan 27** — final refrain tightened to **`We shall not cease pouring water on weeds`**, keeping the vow-like `ஓயமாட்டோம்` inside the song of pain.
 
-T3 deliberately retained source-bearing or abrasive forms rather than neutralising them: the rough-stone/Bible comparison, the infant's violent death image, **Modern Gora Kumbhars!**, the gambling-piece comparison, `class hatred`, the Arjuna/Draupadi taunt, the dead-language burial image, **Down with Brahmins**, and the closing **Stop the sacrifice! Stop the sacrifice of the race!**
+T3 deliberately retained source-bearing or deliberately abrasive forms rather than smoothing them away: **glass-like cheek**, **all thirty-two teeth**, **pitch of valour**, **four-and-a-half kattai / half a kattai**, **self-rule / good-rule**, **Chandala-ness**, **Congress Purana**, **annual auction**, **makes the street-corners laugh**, **capitalist sewer**, **drum of imperialism**, **money-bags**, and the closing **water on weeds** image.
 
 - semantic additions introduced by T3: **0**;
 - T2 corrections regressed: **0**;
@@ -139,25 +164,19 @@ T3 deliberately retained source-bearing or abrasive forms rather than neutralisi
 
 #### T4 terminology / quotation / citation audit — PASS
 
-- title `பலியை நிறுத்துங்கள்!` → **Stop the Sacrifice!**: **VERIFIED**;
-- repeated `பலி / பலியிடு / பலி பீடம்` → **sacrifice / sacrifice / altar** family: **PASS**;
-- `உயிர்ப்பலி / வாழ்வு பலி` contrast → **sacrifice of life / life itself is being sacrificed**: **PASS**;
-- `பாரத மாதா` → **Bharat Mata**: **PASS**;
-- `கோரா கும்பர்` → **Gora Kumbhar**: **PASS**, source-bearing transliteration retained without explanatory expansion;
-- `தேசீயம்` → **nationalism / nationalist** by context: **PASS**;
-- `வகுப்புத்துவேஷம்` → **class hatred**: **PASS**, source category retained rather than silently substituting another social classification;
-- `வடமொழி` → **northern language**: **PASS**, no unsupported language identification inserted;
-- `கலைச் சொற்கள்` → **technical vocabulary**: **PASS**;
-- `பூர்வகுடிகள்` → **original inhabitants**: **PASS**;
-- `திராவிடர் / திராவிட இன மக்கள்` → **Dravidians / Dravidian people**: **PASS**;
-- `ஆரிய ஆதிக்கம்` → **Aryan domination**: **PASS**;
-- `இன வளர்ச்சி` → **growth of the race** and `இனப்பலி` → **sacrifice of the race**: **PASS**, preserving the publication's source use of `இனம்`;
-- `பார்ப்பனர் ஒழிக` → **Down with Brahmins**: **PASS**;
-- `அரசியல் நிர்ணய சபை` → **Constituent Assembly** and source `சென்னை சட்ட சபை` → **Chennai Legislative Assembly**: **PASS**;
-- `அர்ச்சனை / அபிஷேகம்` → **archana / abhishekam**: **PASS**, source-bearing ritual terms retained;
-- Bible quotation status and Kural quotation status: **PASS**;
-- proper/source labels `V.O. Chidambaram`, `Tiruppur Kumaran`, `Comrade Durgabai`, `Saraswati`, `Arjuna`, `Draupadi`: **PASS**;
-- ordered source-page comments: **6 / 6 PASS**;
+- title `விழலுக்கு நீர் இறைத்து...` → **Watering the Weeds...**: **VERIFIED**;
+- `விழல்` → **weeds**: **PASS**; the article itself repeats the futile-labour image as **We poured water on weeds** and **We shall not cease pouring water on weeds**, supporting the title without an added explanatory gloss;
+- `வீரசுருதி` → **pitch of valour**: **PASS**;
+- `நாலரைக் கட்டை / அரைக்கட்டை` → **four-and-a-half kattai / half a kattai**: **PASS**, source-bearing unit retained without unsupported technical expansion;
+- `சுயராஜ்யம் / சுகராஜ்யம்` → **self-rule / good-rule**: **PASS**, parallel compound preserves the source wordplay;
+- `சண்டாளத்தனம்` → **Chandala-ness**: **PASS**, source force retained without neutralisation or outside expansion;
+- `சந்தி சிரிக்கும்` → **makes the street-corners laugh**: **PASS**, repeated ridicule image preserved;
+- `முதலாளித்தத்துவச் சாக்கடை` → **capitalist sewer**: **PASS**;
+- `ஏகாதிபத்தியத்தின் முரசு` → **drum of imperialism**: **PASS**;
+- `காங்கிரஸ் புராணம்` → **Congress Purana**: **PASS**;
+- Marx quotation status: **PASS**, with no external citation or explanatory claim added;
+- source labels/proper names: **PASS**;
+- ordered source-page comments: **5 / 5 PASS**;
 - external explanatory body claims: **0**;
 - T4 body corrections required: **0**.
 
@@ -169,30 +188,24 @@ T3 deliberately retained source-bearing or abrasive forms rather than neutralisi
 - T2: **PASS**;
 - T3: **PASS**;
 - T4: **PASS**;
-- source scans represented: **6 / 6**;
-- ordered source-page comments: **6 / 6**;
+- source scans represented: **5 / 5**;
+- ordered source-page comments: **5 / 5**;
 - unresolved translation choices: **0**;
 - blockers: **0**;
 - final metadata: `translation_status: verified`;
-- verified English title: **Stop the Sacrifice!**;
-- verified English blob: `812c36b9e5350608dd1a951d08c2e48074549697`.
+- verified English title: **Watering the Weeds...**;
+- verified English blob: `455e229bf216b21c8bc08c192be3b9e44c54940e`.
 
-**ARTICLE 3 T5 RESULT: PASS / VERIFIED.**
+**ARTICLE 4 T5 RESULT: PASS / VERIFIED.**
 
 ---
-
-### Article 4 — `விழலுக்கு நீர் இறைத்து...`
-
-- frozen Tamil blob: `91f764f73c9514b2ce1eefdd94d3a1320a0c228e`
-- working English title: **Watering the Weeds...**
-- T0–T5: not-started
-- title/image choice remains context-sensitive for T1/T4.
 
 ### Article 5 — `சோதனை!`
 
 - frozen Tamil blob: `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`
 - working English title: **Search!**
 - T0–T5: not-started
+- title remains context-sensitive and must be reviewed during T1/T4.
 
 ### Article 6 — `வீரமுழக்கஞ் செய்திடுவீர்!`
 
@@ -202,4 +215,4 @@ T3 deliberately retained source-bearing or abrasive forms rather than neutralisi
 
 ## Exact next activity
 
-Proceed with **Article 4 — `விழலுக்கு நீர் இறைத்து...` — T0 source-pin confirmation followed by T1 complete English draft**, using frozen Tamil blob `91f764f73c9514b2ce1eefdd94d3a1320a0c228e`. Review the title image during T1 but do not finalize it before T4. Preserve verified Articles 1–3.
+Proceed with **Article 5 — `சோதனை!` — T0 source-pin confirmation followed by T1 complete English draft**, using frozen Tamil blob `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`. Review the title sense in context during T1 but do not finalize it before T4. Preserve verified Articles 1–4.
