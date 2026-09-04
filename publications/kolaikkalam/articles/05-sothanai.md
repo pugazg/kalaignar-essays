@@ -4,13 +4,15 @@ article_number: 5
 title_ta: "சோதனை!"
 scan_pages: "28-33"
 printed_pages: "scan 28 numeral not visible; scans 29-33 visibly 29-33"
-status: "assembled"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0063657_கொலைக்களம்.pdf"
-assembly_method: "concatenated from reconciled verified canonical page records; page-boundary provenance preserved"
+assembly_method: "concatenated from reconciled verified canonical page records; page-boundary provenance preserved; P5 strict visual corrections propagated"
 ---
 
 # சோதனை!
+
+---
 
 <!-- scan 28 / printed numeral not visible -->
 

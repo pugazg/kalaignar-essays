@@ -4,13 +4,15 @@ article_number: 1
 title_ta: "கொலைக்களம்!"
 scan_pages: "5-9"
 printed_pages: "scan 5 numeral not visible; scans 6-9 visibly 6-9"
-status: "assembled"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0063657_கொலைக்களம்.pdf"
-assembly_method: "concatenated from reconciled verified canonical page records; page-boundary provenance preserved"
+assembly_method: "concatenated from reconciled verified canonical page records; page-boundary provenance preserved; P5 strict visual corrections propagated"
 ---
 
 # கொலைக்களம்!
+
+---
 
 <!-- scan 5 / printed numeral not visible -->
 
@@ -67,3 +69,5 @@ assembly_method: "concatenated from reconciled verified canonical page records; 
 இந்துஸ்தான் சிறு குழந்தை, அவர்கள் அகராதிப்படி! தவழும் பருவங்கூட வரவில்லை! அதிலும் பல ஹீனமான சிசு!
 
 சிசுஹத்தி செய்துவிட வேண்டாம் என்று எச்சரிக்கிறோம்; ஆட்சியாளர் திட்டம் திராவிடத்தையும் பாதிக்கும் என்ற கவலையோடு!
+
+---

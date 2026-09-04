@@ -4,10 +4,10 @@ article_number: 6
 title_ta: "வீரமுழக்கஞ் செய்திடுவீர்!"
 scan_pages: "34-40"
 printed_pages: "scan 34 numeral not visible; scans 35-40 visibly 35-40"
-status: "assembled"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0063657_கொலைக்களம்.pdf"
-assembly_method: "concatenated from reconciled verified canonical page records; page-boundary provenance preserved; scan-40 printer witness excluded from article prose"
+assembly_method: "concatenated from reconciled verified canonical page records; page-boundary provenance preserved; scan-40 printer witness excluded from article prose; P5 strict visual corrections propagated"
 ---
 
 # வீரமுழக்கஞ் செய்திடுவீர்!
@@ -124,8 +124,8 @@ assembly_method: "concatenated from reconciled verified canonical page records; 
 
 இந்திய பூபாகத்தை அடிமை கொண்டு, அதிகார வெறியில் ஆண்ட வெள்ளையனை விரட்டியதாகப் பெருமை பேசும் அன்பர்கள் அறிய வேண்டாமா?
 
-ஆதிக்கமோ, ஆணவமோ, போலிசோ, பட்டாளங்களோ, பத்திரிகை பலமோ, நிரந்தரமானதல்ல, என்பதை அறிந்தும், ஏன் இந்தப் பிடிவாதம்?
+ஆதிக்கமோ, ஆணவமோ, போலீசோ, பட்டாளங்களோ, பத்திரிகை பலமோ, நிரந்தரமானதல்ல, என்பதை அறிந்தும், ஏன் இந்தப் பிடிவாதம்?
 
-ஆணவக்காரனின் பிடிவாதத்தை நொறுக்க, நமது மாகாணம் (திராவிட நாடு) பூரண சுதந்திரத்துடன் வாழ, தேவையில்லாத இந்தி நுழையாமலிருக்க, நமது செல்வத்தை நாம் அனுபவிக்க, பிர்லாவோ, பஜாஜோ, டாட்டாவோ, டால்மியாவோ தேசியப் போர்வையில் வளர்க்கும் வடநாட்டு இரும்பு முதலாளித் தத்துவத்தை முறியடித்து, சமத்துவ வழி வகுக்க, இன்பத் திராவிடம் பெற, ‘காமார்க்கங் குடியல்லோம்’ ‘திராவிடநாடு திராவிடருக்கே!’ என்று வீர முழக்கஞ் செய்யுங்கள்.
+ஆணவக்காரனின் பிடிவாதத்தை நொறுக்க, நமது மாகாணம் (திராவிட நாடு) பூரண சுதந்திரத்துடன் வாழ, தேவையில்லாத இந்தி நுழையாமலிருக்க, நமது செல்வத்தை நாம் அனுபவிக்க, பிர்லாவோ, பஜாஜோ, டாடாவோ, டால்மியாவோ தேசியப் போர்வையில் வளர்க்கும் வடநாட்டு இரும்பு முதலாளித் தத்துவத்தை முறியடித்து, சமத்துவ வழி வகுக்க, இன்பத் திராவிடம் பெற, ‘காமார்க்குங் குடியல்லோம்’ ‘திராவிடநாடு திராவிடருக்கே!’ என்று வீர முழக்கஞ் செய்யுங்கள்.
 
 ---

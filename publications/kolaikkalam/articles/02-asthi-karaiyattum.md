@@ -4,13 +4,15 @@ article_number: 2
 title_ta: "‘அஸ்தி’ கரையட்டும்!"
 scan_pages: "10-16"
 printed_pages: "scan 10 numeral not visible; scans 11-16 visibly 11-16"
-status: "assembled"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0063657_கொலைக்களம்.pdf"
-assembly_method: "concatenated from reconciled verified canonical page records; page-boundary provenance preserved"
+assembly_method: "concatenated from reconciled verified canonical page records; page-boundary provenance preserved; P5 strict visual corrections propagated"
 ---
 
 # ‘அஸ்தி’ கரையட்டும்!
+
+---
 
 <!-- scan 10 / printed numeral not visible -->
 

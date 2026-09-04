@@ -4,13 +4,15 @@ article_number: 3
 title_ta: "பலியை நிறுத்துங்கள்!"
 scan_pages: "17-22"
 printed_pages: "scan 17 numeral not visible; scans 18-22 visibly 18-22"
-status: "assembled"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0063657_கொலைக்களம்.pdf"
-assembly_method: "concatenated from reconciled verified canonical page records; page-boundary provenance preserved"
+assembly_method: "concatenated from reconciled verified canonical page records; page-boundary provenance preserved; P5 strict visual corrections propagated"
 ---
 
 # பலியை நிறுத்துங்கள்!
+
+---
 
 <!-- scan 17 / printed numeral not visible -->
 

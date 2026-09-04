@@ -4,10 +4,10 @@ article_number: 4
 title_ta: "விழலுக்கு நீர் இறைத்து..."
 scan_pages: "23-27"
 printed_pages: "scan 23 numeral not visible; scans 24-27 visibly 24-27"
-status: "assembled"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0063657_கொலைக்களம்.pdf"
-assembly_method: "concatenated from reconciled verified canonical page records; page-boundary provenance preserved"
+assembly_method: "concatenated from reconciled verified canonical page records; page-boundary provenance preserved; P5 strict visual corrections propagated"
 ---
 
 விழலுக்கு : :
