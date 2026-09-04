@@ -19,7 +19,7 @@ transcription_method: "direct visual comparison with source scan"
 விலை அணா எட்டு
 
 விற்பனை உரிமை:-  
-எச். எஸ். ராமுலு கம்பெனி  
+எம். எஸ். ராமுலு கம்பெனி  
 286, அப்பா பில்டிங்ஸ் - எஸ்பிளனேட்  
 சென்னை-1
 
