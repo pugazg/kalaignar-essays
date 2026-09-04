@@ -38,6 +38,7 @@ transcription_method: "direct visual comparison with source scan"
 ## Audit note
 
 - Printed page numeral `8` is directly visible.
+- The damaged reading `நமக்கெல்லாம்` is preserved from the user's manual review.
 - The final question is visibly emphasized in the source.
 
 <!-- மூல ஸ்கேன் பக்கம்: 8 -->
