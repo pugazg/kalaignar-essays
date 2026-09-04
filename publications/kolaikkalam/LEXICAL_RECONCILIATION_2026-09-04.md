@@ -23,7 +23,8 @@ The following print was damaged or visually ambiguous. The user manually reviewe
 - scan 25 — `இதற்குத்தானா`;
 - scan 28 — `சூத்திரர்களை`;
 - scan 29 — `புயலெனச்`;
-- scan 30 — `இதுதானா`.
+- scan 30 — `இதுதானா`;
+- scan 34 — `பலம்`.
 
 ## High-resolution source corrections propagated
 
@@ -46,7 +47,9 @@ The reconciliation corrected source-supported lexical defects across the page la
 - scan 24 — `கண்ணை விழித்துப்`, `எண்ணினர்`;
 - scans 25–27 — multiple source-word corrections including `செய்பவர்கள்`, `இன்னலை`, `வாழ்வுப்படுத்த`, `நடாத்திச்`, `பரிகாசப்`, `நிலைமை`, `ஏற்படத்தானே`, `கீதமாக்கத்`;
 - scans 28–33 — substantial lexical corrections including `இந்திரனே`, `மாற்றாராம்`, `சதிக்கூடங்கள்`, `சின்னஞ்சிறார்`, `எச்சரிக்கை வெடி`, `சுட்டுவிரல்`, `தரணியாண்டோம்`, `தூண்டுதலைக்`, `சூரர்களின் பணி மனைகளில்`, `அநியாய`, `சதிக் கடிதங்கள்`, `சாதி வெறி`, `ஆரியக் கோட்டையில்`, and `சாதனை! சோதனை நடத்துக`;
-- scans 34–39 — source-visible old/irregular forms restored, including `பலழ்`, `மத்ய`, `நிதிமந்திரி`, `கர்னாடகம்`, `அஸ்ஸாம்`, `நிலைமையில்தான்`, `நேரத்தில்தான்`, `பண்படுத்தப்படாமல்`, `திடீர்த் தாக்குதல்`, `ஐக்யமாகாணத்திலிருந்து`, `தீட்டப்பட்டுள்ளது`, `பிரகஸ்பதிகளுக்குப்`, `மாகாணங்கள் ஒன்றி`, `எதேச்சாதிகாரமாகவோ`, `தேசீய`, `ஏற்படாத`, `தங்களைப் பலப்படுத்த`, `கபார்கானை`, and `ஜொலிக்கும்`.
+- scans 34–39 — source-visible old/irregular forms restored, including `மத்ய`, `நிதிமந்திரி`, `கர்னாடகம்`, `அஸ்ஸாம்`, `நிலைமையில்தான்`, `நேரத்தில்தான்`, `பண்படுத்தப்படாமல்`, `திடீர்த் தாக்குதல்`, `ஐக்யமாகாணத்திலிருந்து`, `தீட்டப்பட்டுள்ளது`, `பிரகஸ்பதிகளுக்குப்`, `மாகாணங்கள் ஒன்றி`, `எதேச்சாதிகாரமாகவோ`, `தேசீய`, `ஏற்படாத`, `தங்களைப் பலப்படுத்த`, `கபார்கானை`, and `ஜொலிக்கும்`.
+
+Scan 34 was subsequently corrected from the earlier misread `பலழ்` to the user's manually confirmed `பலம்`.
 
 ## Scan 40
 
@@ -56,7 +59,7 @@ Scan 40 was not part of the newly completed high-resolution difference adjudicat
 
 - canonical page records remain **40 / 40**;
 - post-P2 lexical reconciliation: **COMPLETE for the adjudicated differences through scan 39**;
-- user-reviewed damaged readings: **8 explicit controlling readings recorded**;
+- user-reviewed damaged readings: **9 explicit controlling readings recorded**;
 - P3 assemblies: **0 / 6 — NOT STARTED**;
 - English translation: **NOT STARTED**.
 
