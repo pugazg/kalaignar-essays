@@ -8,7 +8,7 @@ source_tamil_blob_sha: "3eec6fa58a307cf1b0350a9a26f45a114908a9dd"
 source_scan_pages: "28-33"
 source_printed_pages: "scan 28 numeral not visible; scans 29-33 visibly 29-33"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -22,9 +22,9 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 “O Agni! Arise to burn the Shudras to ashes!”
 
-Once upon a time—this was the petition Aryanism submitted to make those adversaries, the Dravidians, vanish, to destroy—to annihilate them!
+Once, in days past—this was the petition Aryanism submitted to make those adversaries, the Dravidians, vanish, to destroy—to annihilate them!
 
-The lines written above are words one can see for oneself in the Vedas, Agamas, Puranas, Itihasas and other such works!
+The lines written above are plainly visible words found in the Vedas, Agamas, Puranas, Itihasas and other such works!
 
 Under British rule, Aryanism obtained that same petition through ‘Hindu’ law, through ‘religious neutrality’, and protected itself.
 
@@ -44,7 +44,7 @@ For is not the rule being carried on here one that turns at the mere movement of
 
 Are these the rewards for singing the tune, “The Aryan illusion must depart—what else do we need”?
 
-With an unquenchable zeal to level unbearable sufferings....“Dravidians! We once ruled the earth—we are humbled today....from now on we shall live—we shall live at all costs!”—is this the reward for the young men who sounded that bugle-call?
+With an unquenchable zeal to raze unbearable suffering to the ground....“Dravidians! We once ruled the earth—we are humbled today....from now on we shall live—we shall live at all costs!”—is this the reward for the young men who sounded that bugle-call?
 
 <!-- Tamil source: scan 30 / printed 30 -->
 
@@ -58,21 +58,21 @@ Hearing these questions, the seas surrounding Dravidian land are raging!
 
 Even the southern breeze blows hot........Even the moonlight pours down as fire! In breath—in speech—in everything, sparks fly!
 
-Will the rulers—those seated on the throne of government—realise and see? Will they reflect: “We rushed after listening to Aryanism's words and incitement; we have loosed the arrows of repression”?
+Will those who came to rule—those seated on the throne of government—realise and see? Will they reflect: “We rushed after listening to Aryanism's words and incitement; we have loosed the arrows of repression”?
 
 A search in the workplaces of warriors who know no deceit!
 
 <!-- Tamil source: scan 31 / printed 31 -->
 
-An investigation in the camps of the loving army that has peace for its weapon!
+An investigation in the camps of the army of love that has peace for its weapon!
 
-A gag for non-violent rationalists doing the work of rationalism!
+A gag for non-violent rationalists doing rationalist service!
 
 Confiscation of books that tell what is!
 
 A ban on enlightened plays that show what is happening in the country!
 
-Taking the Leader's command upon their heads, though they have hands that can take up the sword, courage to grip the gun, though they were born in a lineage of manly valour capable, at the mere thought, of annihilating thousands upon thousands of formations....Patience! A police darbar in the homes of comrades who wear patience as their ornament!
+Taking the Leader's command upon their heads, though they have hands that can draw the sword, courage to grip the gun, though they were born in a lineage of manly valour capable, at the mere thought, of annihilating thousands upon thousands of formations....Patience! A police darbar in the homes of comrades who wear patience as their ornament!
 
 Search! Investigation! Are the places where these ought to be carried out the centres of Dravidians who know no intrigue? No!..... No!!.........
 
@@ -94,9 +94,9 @@ Ban those—if the darbar were conducted there, it would not be wrong!
 
 That is the conspiracy warehouse to which the rulers' attention must turn—Aryanism—the Aryan heart!
 
-It is an explosives factory filled with malice and jealousy!
+It is an explosives factory filled with spite and jealousy!
 
-A place the police cannot enter!........A philosophy whose form cannot be seen, which creates internal enmity among kith and kin, flourishes there!
+A place the police cannot enter!........Its form cannot be seen; there flourishes a philosophy that creates internal enmity among kith and kin!
 
 In the name of religion—of righteousness, it is the place where caste hatred is stirred—there! There! In the Aryan fortress!
 
