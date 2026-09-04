@@ -8,7 +8,7 @@ source_tamil_blob_sha: "9e0b9e437a7548ca31ce352ab485b1e342bedb95"
 source_scan_pages: "34-40"
 source_printed_pages: "scan 34 numeral not visible; scans 35-40 visibly 35-40"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -24,7 +24,7 @@ In the Indian political world—especially in the circles frequented by those se
 
 If that doctrine spreads in India, it will pave the way for Indian society to be shattered to pieces instead of becoming a powerful organisation.
 
-Therefore, patriots! Sacrificers! Sons of Bharat Mata! Do not foster provincial feeling! Even if it grows, suppress it!
+Therefore, patriots! Men of sacrifice! Sons of Bharat Mata! Do not foster provincial feeling! Even if it grows, suppress it!
 
 In this fashion Pandit Jawaharlal, praised as a political scholar and as the Premier of India, spoke in Coimbatore and in Delhi!
 
@@ -44,7 +44,7 @@ For what reason, even after losing Bharat Mata in the east and the west, do they
 
 Freedom has come! To what extent is the freedom that came useful to the people?
 
-If we think about how firmly cooperation between the Central Government and the provincial governments has taken root, we cannot fail to understand at least some of the truth!
+If we think about how far the cooperation between the Central Government and the provincial governments has gained strength, we cannot fail to understand at least some of the truth!
 
 An agitation demanding an Andhra province! Karnataka is being demanded! Kerala and Tamil Nadu likewise!
 
@@ -82,7 +82,7 @@ If linguistic provinces are formed, political gamblers may think that separatist
 
 In this situation another sudden attack arises from the United Provinces.
 
-“The Central Government exercises excessive domination over provincial financial matters. As a result, the provinces do not receive enough finance—even enough to protect themselves to the extent they require. India's political structure has been drawn up so that the Central Government collects in the provinces many lucrative taxes; this
+“The Central Government exercises excessive domination over provincial financial matters. As a result, the provinces do not receive the finance they need—not even enough to protect themselves. India's political arrangement has been drawn up so that the Central Government collects in the provinces many lucrative taxes; this
 
 <!-- Tamil source: scan 38 / printed 38 -->
 
@@ -108,9 +108,9 @@ Seeing, in so many ways, those at the Centre trying to strengthen themselves and
 
 Those who belittle our agitation, our struggle, must either be people who do not know us well, or people who know us and yet have descended into mischief.
 
-Those who supported Kabar Khan when he raised the cry that Pathanistan was needed in Pakistan; the nationalist comrades in Lower Bengal who stated emphatically that Bengali must be the official language—what reason have they for opposing our demand?
+Those who supported Kabar Khan when he raised the cry that Pathanistan was needed in Pakistan; the nationalist comrades in Lower Bengal who stated emphatically that Bengali must be the language of government—what reason have they for opposing our demand?
 
-Is it the mental fear that their glittering life will fade?
+Is it the apprehension that their glittering life will fade?
 
 Is it yearning that their autocracy will diminish—that it will be cut down? Is it grief?
 
@@ -128,6 +128,6 @@ Should not the friends who boast of having driven out the white man who enslaved
 
 Knowing that domination, arrogance, police, armies and press power are not permanent, why this obstinacy?
 
-To smash the arrogant man's obstinacy; to make our province (Dravidian country) live in complete freedom; to keep unwanted Hindi from entering; to enjoy our own wealth; to break the iron capitalist doctrine of the North that Birla, Bajaj, Tata and Dalmia nurture under the cloak of nationalism; to make way for equality; to obtain a joyous Dravidian land—raise the heroic cry: ‘Kaamaarkkung kudiyallom!’ ‘Dravidian land for the Dravidians!’
+To smash the arrogant man's obstinacy; to make our province (Dravidian country) live in complete freedom; to keep unwanted Hindi from entering; to enjoy our own wealth; to break the iron capitalist doctrine of the North that Birla or Bajaj or Tata or Dalmia nurture under the cloak of nationalism; to make way for equality; to obtain a joyous Dravidian land—raise the heroic cry: ‘Kaamaarkkung kudiyallom!’ ‘Dravidian land for the Dravidians!’
 
 ---
