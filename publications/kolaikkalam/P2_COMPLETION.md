@@ -1,6 +1,6 @@
 # P2 Completion — கொலைக்களம்!
 
-P2 page-level direct visual transcription is complete for all 40 physical scans of `TVA_BOK_0063657_கொலைக்களம்.pdf`.
+P2 page-level direct visual transcription was completed for all 40 physical scans of `TVA_BOK_0063657_கொலைக்களம்.pdf`.
 
 - page records: **40 / 40 verified**
 - direct lexical page verification: **40 / 40**
@@ -11,26 +11,12 @@ P2 page-level direct visual transcription is complete for all 40 physical scans 
 - Unit 4 `விழலுக்கு நீர் இறைத்து...`: **5 / 5 verified**
 - Unit 5 `சோதனை!`: **6 / 6 verified**
 - Unit 6 `வீரமுழக்கஞ் செய்திடுவீர்!`: **7 / 7 verified**
-- article/unit assemblies: **6 / 6**
-- P3: **COMPLETE / PASS**
-- P4: **COMPLETE / PASS**
-- P5: **NOT STARTED**
-- English translation: **NOT STARTED**
 
 ## Post-P2 lexical reconciliation
 
-On **2026-09-04**, the completed page layer was compared word-by-word with the supplied manual transcription and high-resolution scan inspection. Source-supported corrections were propagated into the live page records through scan 39. See `LEXICAL_RECONCILIATION_2026-09-04.md`.
+On **2026-09-04**, the completed page layer was compared word-by-word with the supplied manual transcription and high-resolution scan inspection. Source-supported corrections were propagated into the live page records. See `LEXICAL_RECONCILIATION_2026-09-04.md`.
 
-The reconciled live page records supersede older P2 lexical readings wherever changed.
-
-Durable source corrections that must not regress include:
-
-- scan 2 distributor: `எம். எஸ். ராமுலு கம்பெனி`;
-- scan 4 signature: `மு. நமசிவாயம்` / `பண்ணையாளர்.`;
-- scan 34 heading: `வீரமுழக்கஞ் செய்திடுவீர்!`;
-- scan 40 printer witness: `ஸ்ரீமகள் பிரஸ், சென்னை—1`.
-
-User-reviewed damaged readings that must not regress:
+User-reviewed damaged readings that remain controlling:
 
 - scan 5 `யுத்தம்`;
 - scan 8 `நமக்கெல்லாம்`;
@@ -42,30 +28,50 @@ User-reviewed damaged readings that must not regress:
 - scan 30 `இதுதானா`;
 - scan 34 `பலம்`.
 
-Scan 40 was not reopened in this lexical-difference pass; its existing verified record remains unchanged.
+Other durable corrections include scan 2 `எம். எஸ். ராமுலு கம்பெனி`, scan 4 `மு. நமசிவாயம் / பண்ணையாளர்.`, scan 34 heading `வீரமுழக்கஞ் செய்திடுவீர்!`, and scan 40 printer witness `ஸ்ரீமகள் பிரஸ், சென்னை—1`.
 
-## Subsequent P3 completion
+## Subsequent P3 / P4 completion
 
-P3 was subsequently completed from the reconciled live page layer:
+P3 subsequently assembled all six canonical units from the reconciled page layer and P4 audited them for complete source coverage and boundaries:
 
-- six canonical article assemblies: **6 / 6 COMPLETE / PASS**;
-- assembly record: `P3_COMPLETION.md`;
-- source wording, punctuation, paragraph order and page-boundary comments preserved;
-- scan-40 printer witness kept outside Unit 6 prose body.
+- P3: **6 / 6 COMPLETE / PASS**;
+- P4: **6 / 6 COMPLETE / PASS**;
+- missing/duplicate/out-of-order assembly scans: **0**;
+- boundary/continuity defects: **0**.
 
-## Subsequent P4 audit
+## Subsequent P5 strict visual completion
 
-P4 subsequently audited all six assemblies against the reconciled canonical page layer:
+P5 returned to the controlling PDF and directly rechecked **all 40 / 40 physical scans**. The P2 page layer remains the canonical archival layer, with these later strict-fidelity findings propagated:
 
-- assemblies audited: **6 / 6 PASS**;
-- missing/duplicate/out-of-order scans: **0**;
-- boundary or page-continuity defects: **0**;
-- physical-copy/audit contamination: **0**;
-- assembly-only corrections required: **0**;
-- audit record: `P4_SOURCE_COMPLETENESS_AUDIT.md`.
+- scans 5, 9, 10, 17 and 28 — source-visible short printed rules restored/documented;
+- scan 22 — isolated dark `1`-like mark classified as physical-copy/non-body evidence;
+- scan 40 — `போலிசோ` → `போலீசோ`;
+- scan 40 — `டாட்டாவோ` → `டாடாவோ`;
+- scan 40 — `காமார்க்கங் குடியல்லோம்` → `காமார்க்குங் குடியல்லோம்`;
+- scan 40 closing witness confirmed as `திராவிடநாடு திராவிடருக்கே!`.
+
+P5 final result:
+
+- physical scans strict-reviewed: **40 / 40 PASS**;
+- six article assemblies strict-rechecked: **6 / 6 PASS**;
+- unresolved fidelity discrepancies: **0**;
+- blockers: **0**;
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**.
+
+See `VISUAL_TEXT_FIDELITY_REVIEW.md` for the final P5 ledger and frozen assembly blobs.
+
+## Current gates
+
+- P0: **COMPLETE / PASS**
+- P1: **COMPLETE / PASS**
+- P2: **COMPLETE / PASS — 40 / 40**
+- post-P2 lexical reconciliation: **COMPLETE**
+- P3: **COMPLETE / PASS — 6 / 6**
+- P4: **COMPLETE / PASS — 6 / 6**
+- P5: **COMPLETE / PASS — 40 / 40; 6 / 6 assemblies**
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
+- English translation: **NOT STARTED**
 
 ## Next gate
 
-**P5 — strict visual word-by-word / punctuation-by-punctuation fidelity pass over all 40 physical scans, with any corrections propagated into the canonical page layer and six assemblies, followed by a publication-level visual-text-fidelity report.**
-
-Do not begin English translation.
+**E0 — English translation planning/setup only**, using only the six frozen strict-reviewed Tamil assemblies recorded in `VISUAL_TEXT_FIDELITY_REVIEW.md`. Do not begin article translation in the same activity.

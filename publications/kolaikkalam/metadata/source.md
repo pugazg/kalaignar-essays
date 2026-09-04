@@ -41,8 +41,6 @@ The signed end of `இன்பத் துளி!` is directly read as:
 - **`மு. நமசிவாயம்`**
 - **`பண்ணையாளர்.`**
 
-This supersedes the earlier P1 statement that scan 4 was signed `மு. கருணாநிதி`.
-
 ### Final printer witness — scan 40
 
 - **`ஸ்ரீமகள் பிரஸ், சென்னை—1`**
@@ -63,20 +61,16 @@ Printed contents page: **ABSENT / CONFIRMED**.
 | copyright / edition / price / sales-rights | 2 | publication front matter |
 | `இன்பத் துளி!` | 3–4 | introductory signed front-matter note |
 
-`இன்பத் துளி!` closes on scan 4 with the verified signed `மு. நமசிவாயம்` / `பண்ணையாளர்.` ending and precedes the first main prose heading on scan 5. It is preserved as front matter rather than numbered as one of the six main prose units.
-
 ### Main prose units
 
-| Unit | Exact heading witness | Scan span | P3 assembly | P4 |
-|---:|---|---:|---|---|
-| 1 | `கொலைக்களம்!` | **5–9** | `articles/01-kolaikkalam.md` | PASS |
-| 2 | `‘அஸ்தி’ கரையட்டும்!` | **10–16** | `articles/02-asthi-karaiyattum.md` | PASS |
-| 3 | `பலியை நிறுத்துங்கள்!` | **17–22** | `articles/03-paliyai-niruththungal.md` | PASS |
-| 4 | `விழலுக்கு நீர் இறைத்து...` | **23–27** | `articles/04-vizhalukku-neer-iraiththu.md` | PASS |
-| 5 | `சோதனை!` | **28–33** | `articles/05-sothanai.md` | PASS |
-| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | **34–40** | `articles/06-veeramuzhakkam-seythiduveer.md` | PASS |
-
-The Unit-6 heading is a direct-scan correction of the earlier P1 normalized form `வீரமுழக்கம் செய்திடுவீர்!`.
+| Unit | Exact heading witness | Scan span | Assembly | P4 | P5 |
+|---:|---|---:|---|---|---|
+| 1 | `கொலைக்களம்!` | **5–9** | `articles/01-kolaikkalam.md` | PASS | PASS |
+| 2 | `‘அஸ்தி’ கரையட்டும்!` | **10–16** | `articles/02-asthi-karaiyattum.md` | PASS | PASS |
+| 3 | `பலியை நிறுத்துங்கள்!` | **17–22** | `articles/03-paliyai-niruththungal.md` | PASS | PASS |
+| 4 | `விழலுக்கு நீர் இறைத்து...` | **23–27** | `articles/04-vizhalukku-neer-iraiththu.md` | PASS | PASS |
+| 5 | `சோதனை!` | **28–33** | `articles/05-sothanai.md` | PASS | PASS |
+| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | **34–40** | `articles/06-veeramuzhakkam-seythiduveer.md` | PASS | PASS |
 
 ## Printed-page behaviour
 
@@ -95,26 +89,18 @@ No numeral is inferred for an unnumbered scan.
 - scan 1: multiple library stamps, handwritten accession/date marks, pen cancellation/overwriting, and a prominent crack/tear across the upper portion;
 - scan 2: circular library stamp, upper-right tear/paper damage, dark ink marks, and handwriting/signature near the bottom;
 - scan 3: upper-area handwriting/stamp overlap;
+- scan 22: isolated dark `1`-like non-body mark between prose lines;
 - general age wear, spotting and handling marks occur throughout.
 
-Physical-copy marks remain outside the printed-text section of page records. Text hidden by marks/damage must not be reconstructed merely from context.
+Physical-copy marks remain outside the printed-text section of page records.
 
 ## P2 completion + post-P2 reconciliation
 
 - scans directly transcribed and verified: **1–40**;
 - page records committed: **40 / 40**;
-- direct lexical page verification: **40 / 40**;
-- front matter page layer: **4 / 4 complete**;
-- Unit 1 page layer: **5 / 5 complete**;
-- Unit 2 page layer: **7 / 7 complete**;
-- Unit 3 page layer: **6 / 6 complete**;
-- Unit 4 page layer: **5 / 5 complete**;
-- Unit 5 page layer: **6 / 6 complete**;
-- Unit 6 page layer: **7 / 7 complete**.
+- direct lexical page verification: **40 / 40**.
 
-A high-resolution lexical reconciliation was completed on **2026-09-04** for the adjudicated word/text differences through scan 39. The reconciled live page records supersede older P2 readings wherever changed. Full record: `publications/kolaikkalam/LEXICAL_RECONCILIATION_2026-09-04.md`.
-
-User-reviewed damaged readings recorded as controlling:
+A high-resolution lexical reconciliation was completed on **2026-09-04** for the adjudicated word/text differences through scan 39. User-reviewed damaged readings recorded as controlling:
 
 - scan 5 `யுத்தம்`;
 - scan 8 `நமக்கெல்லாம்`;
@@ -126,41 +112,53 @@ User-reviewed damaged readings recorded as controlling:
 - scan 30 `இதுதானா`;
 - scan 34 `பலம்`.
 
-Scan 40 was not reopened in this lexical-difference pass and remains unchanged from the prior verified page record.
+P5 subsequently reopened scan 40 directly and propagated:
 
-## P3 assembly completion
+- `போலிசோ` → `போலீசோ`;
+- `டாட்டாவோ` → `டாடாவோ`;
+- `காமார்க்கங் குடியல்லோம்` → `காமார்க்குங் குடியல்லோம்`;
+- confirmed closing witness `திராவிடநாடு திராவிடருக்கே!`;
+- printer witness remains `ஸ்ரீமகள் பிரஸ், சென்னை—1`.
 
-- article/unit assemblies: **6 / 6 COMPLETE / PASS**;
-- assembly record: `publications/kolaikkalam/P3_COMPLETION.md`;
-- assemblies were built only from the reconciled canonical page layer;
-- page-boundary provenance is retained in all six assemblies;
-- the scan-40 printer witness remains outside Unit 6 prose body.
+## P3 / P4
 
-## P4 source / completeness audit
-
-- P4 record: `publications/kolaikkalam/P4_SOURCE_COMPLETENESS_AUDIT.md`;
-- assemblies audited: **6 / 6 COMPLETE / PASS**;
-- main-unit scan coverage checked: **36 / 36 (scans 5–40)**;
+- P3 assemblies: **6 / 6 COMPLETE / PASS**;
+- P4 source/completeness audit: **6 / 6 COMPLETE / PASS**;
 - missing/duplicate/out-of-order assembly scans: **0**;
-- start/end boundary defects: **0**;
-- page-boundary continuity defects: **0**;
-- physical-copy/audit contamination: **0**;
-- assembly-only corrections required: **0**;
+- boundary/continuity defects: **0**;
 - blockers: **0**.
+
+## P5 strict visual fidelity
+
+- physical scans directly rechecked: **40 / 40 PASS**;
+- page layer after P5: **40 / 40 verified**;
+- assembly strict recheck after propagation: **6 / 6 PASS**;
+- unresolved fidelity discrepancies: **0**;
+- blockers: **0**;
+- review record: `publications/kolaikkalam/VISUAL_TEXT_FIDELITY_REVIEW.md`.
+
+Frozen strict-reviewed Tamil assembly blobs:
+
+1. `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`
+2. `c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5`
+3. `e9df22b14e6102c691fe4cc81417eda1051d8f25`
+4. `91f764f73c9514b2ce1eefdd94d3a1320a0c228e`
+5. `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`
+6. `9e0b9e437a7548ca31ce352ab485b1e342bedb95`
 
 ## Gate status
 
 - P0: **COMPLETE / PASS**
-- P1: **COMPLETE / PASS, with later source corrections propagated**
-- P2 lexical page transcription: **COMPLETE / PASS — 40 / 40**
-- post-P2 lexical reconciliation: **COMPLETE for adjudicated differences through scan 39, with later scan-34 manual correction propagated**
+- P1: **COMPLETE / PASS**
+- P2: **COMPLETE / PASS — 40 / 40**
+- post-P2 lexical reconciliation: **COMPLETE**
 - P3: **COMPLETE / PASS — 6 / 6**
 - P4: **COMPLETE / PASS — 6 / 6**
-- P5 strict visual fidelity: **NOT STARTED**
-- article/unit assemblies: **6 / 6**
+- P5: **COMPLETE / PASS — 40 / 40; 6 / 6 assemblies**
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - English translation: **NOT STARTED**
 - blockers: **0**
 
 ## Exact next activity
 
-**P5 — strict visual word-by-word / punctuation-by-punctuation fidelity pass over all 40 physical scans, with correction provenance and propagation into the six assemblies where necessary.** Create the publication-level visual-text-fidelity report required by `ESSAY_PROCESSING_GUIDE.md`. Do not begin English translation.
+**E0 — English translation planning/setup only.** Use only the six frozen strict-reviewed Tamil assemblies above as translation sources. Do not translate from the raw manual transcript, OCR, page-record drafts or superseded P3 blobs. Stop after E0.
