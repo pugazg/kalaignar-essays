@@ -12,13 +12,13 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `திராவிடம்` | Dravidian land / Dravidian country / Dravidian polity | Articles 1–2 use **Dravidian land**; choose by sentence rather than mechanically. | E0 / A1 T1 | **verified through A2 T4** |
 | `பார்ப்பனர்` / `பார்ப்பனன்` | Brahmins / Brahmin | Preserve source referent and rhetorical force. | E0 | **verified through A3 T4** |
 | `பார்ப்பனீயம்` | Brahminism | Ideological/system label; do not soften to a neutral description. | E0 | **verified A2 T4** |
-| `பகுத்தறிவு` | rationalism / rational thought | Contextual choice; preserve movement/polemical force where present. | E0 | provisional |
+| `பகுத்தறிவு` | rationalism / rational thought | Contextual choice; preserve movement/polemical force where present. Article 5 T1 uses **rationalist propaganda / work of rationalism / rationalist lions** by grammar and rhetorical function. | E0 / A5 T1 | provisional |
 | `தேசீயம்` | nationalism / national / nationalist | Article 2 `தேசீயப் போர்வை` → **cloak of nationalism**; Article 3 uses nationalism/nationalist by sentence. | E0 | **verified through A3 T4** |
 | `மாகாணம்` | province | Preserve period administrative frame rather than modernising silently. | E0 | provisional |
 | `மத்ய சர்க்கார்` | Central Government | Source-visible period form; translate function, not spelling anomaly. | E0 | provisional |
 | `சர்க்கார்` | Government | Context may require government/administration. | E0 | provisional |
 | `அஸ்தி` | ashes | Preserve source quotation marks where present. Article 2 deliberately keeps **dissolve** across ritual and blood-sea uses to retain the repeated `கரை` image. | E0 / A2 T1 | **verified A2 T4** |
-| `சோதனை` | search / test / trial | Unit 5 is context-sensitive; do not force one rendering mechanically. | E0 | provisional |
+| `சோதனை` | search / test / trial | Article 5 T1 uses **search** for police/search-the-heart senses, then deliberately shifts to **trial / test** in the closing line. Working title **Search!** remains provisional until T4. | E0 / A5 T1 | **provisional through A5 T1** |
 | `விழல்` | weeds | Article 4 uses the repeated futile-labour image **poured water on weeds / shall not cease pouring water on weeds**; title **Watering the Weeds...** preserves the image without adding an explanatory gloss. | E0 / A4 T1 | **verified A4 T4** |
 | `வீரமுழக்கம்` / `வீரமுழக்கஞ்` | heroic cry / battle cry | Preserve exhortative force; title working choice is `Raise the Heroic Cry!`. | E0 | provisional |
 | `கொலைக்களம்` | killing field | Article 1 title **The Killing Field!**. | A1 T1 | **verified A1 T4** |
@@ -50,7 +50,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `உயிர்ப்பலி / வாழ்வு பலி` | sacrifice of life / life itself is being sacrificed | Preserve the deliberate contrast; do not narrow `உயிர்ப்பலி` to “blood sacrifice”. | A3 T2 | **verified A3 T4** |
 | `பாரத மாதா` | Bharat Mata | Preserve source-bearing national personification rather than silently replacing it with a different label. | A3 T2 | **verified A3 T4** |
 | `கோரா கும்பர்` | Gora Kumbhar | Source-bearing name; retain transliteration without unsupported explanatory expansion. | A3 T1 | **verified A3 T4** |
-| `வகுப்புத்துவேஷம்` | class hatred | Preserve the source category; do not silently substitute “caste hatred” or “communal hatred”. | A3 T1 | **verified A3 T4** |
+| `வகுப்புத்துவேஷம்` | class hatred | Preserve the source category; do not silently substitute “caste hatred” or “communal hatred”. | A3 T1 | **verified through A5 T1** |
 | `வடமொழி` | northern language | Do not silently identify a particular language when the source does not name it. | A3 T1 | **verified A3 T4** |
 | `கலைச் சொற்கள்` | technical vocabulary | Article 3 contrast with English. | A3 T1 | **verified A3 T4** |
 | `பூர்வகுடிகள்` | original inhabitants | Preserve source political/social claim without added explanation. | A3 T1 | **verified A3 T4** |
@@ -68,6 +68,16 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `முதலாளித்தத்துவச் சாக்கடை` | capitalist sewer | Preserve the deliberately degrading image. | A4 T1 | **verified A4 T4** |
 | `ஏகாதிபத்தியத்தின் முரசு` | drum of imperialism | Preserve the source's martial/public-proclamation image. | A4 T1 | **verified A4 T4** |
 | `காங்கிரஸ் புராணம்` | Congress Purana | Preserve the satirical source label rather than normalising it to “history of Congress”. | A4 T1 | **verified A4 T4** |
+| `சூத்திரர்` | Shudras | Article 5 opening quotation; preserve the caste-bearing source term without euphemism. | A5 T1 | provisional |
+| `மத நடுநிலைமை` | religious neutrality | Preserve the source's quoted political/legal label. | A5 T1 | provisional |
+| `அடக்குமுறைக் கணைகள்` | arrows of repression | Preserve the repeated missile image across bans, gags and prosecutions. | A5 T1 | provisional |
+| `வெத்து வேட்டு` | blank shots | Article 5 contrasts apparently harmless shots with a warning shot to Dravidians. | A5 T1 | provisional |
+| `போலீஸ் தர்பார்` | police darbar | Retain source-bearing `darbar` rather than flattening the contemptuous image into neutral administration. | A5 T1 | provisional |
+| `இன எழுச்சி` | awakening of the race | Preserve publication use of `இனம்` and the movement-rhetorical force. | A5 T1 | provisional |
+| `சந்தர்ப்பபேத` | divisions manufactured to suit the occasion | Working contextual rendering for the conspiracy-letter passage; recheck at T2/T4. | A5 T1 | provisional |
+| `மதக் கோடரிகள்` | religious axes | Preserve the violent image of religion splitting people into classes. | A5 T1 | provisional |
+| `சாதனை / சோதனை` | achievement / search; trial; test | Article 5 closes on a deliberate sound/semantic turn from `சாதனை` to the multiple senses of `சோதனை`; do not homogenise them. | A5 T1 | provisional |
+| `திரு இடம்` | sacred place | Quoted source expression in Article 5's closing social ideal; do not add an explanatory religious claim. | A5 T1 | provisional |
 
 ## Proper-name / source-label policy
 
@@ -78,6 +88,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 - Article 2 retains source-chosen **Jawahar**, **Bhashyam Iyengar**, **Achariyar**, **Mithran—Hindu**, **Velayudham**, **Udayarpalayam**, **Dravidar Kazhagam**, **Vibhishanas**, **Venganna** and **Chanakyan** without outside expansion.
 - Article 3 retains **Gora Kumbhar**, **Bharat Mata**, **V.O. Chidambaram**, **Tiruppur Kumaran**, **Comrade Durgabai**, **Saraswati**, **Arjuna** and **Draupadi** with no added historical explanation in the body.
 - Article 4 retains source-bearing **Madana**, **Prakasam**, **Omandurar**, **Chokkalingam**, **Dinasaari**, **Bharata Devi**, **Sri Vaidyanatha Iyer**, **Vadapathimangalam**, **Naadi Muthus** and **Vaidyanatha Iyers** without outside identification or harmonisation.
+- Article 5 retains source-bearing **Indra**, **Agni**, **Shudras**, **Vedas**, **Agamas**, **Puranas**, **Itihasas**, **Congress Government** and the quoted institutional/polemical labels without adding outside historical explanation.
 
 ## Title status
 
@@ -85,7 +96,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 - `‘அஸ்தி’ கரையட்டும்!` → **Let the ‘Ashes’ Dissolve!** — **verified A2 T4/T5**.
 - `பலியை நிறுத்துங்கள்!` → **Stop the Sacrifice!** — **verified A3 T4/T5**.
 - `விழலுக்கு நீர் இறைத்து...` → **Watering the Weeds...** — **verified A4 T4/T5**; the repeated Article-4 image makes the title's futile-labour force clear without adding an explanatory subtitle.
-- `சோதனை!` → working **Search!** — context-sensitive title pending T1/T4.
+- `சோதனை!` → working **Search!** — Article 5 T1 confirms the dominant police-search / search-the-heart sense while the closing line deliberately shifts to **trial / test**; title remains provisional until T4.
 - `வீரமுழக்கஞ் செய்திடுவீர்!` → working **Raise the Heroic Cry!**.
 
-Articles 1–4 titles are verified; Articles 5–6 remain provisional until their own gates.
+Articles 1–4 titles are verified; Article 5 has completed T1 with a provisional title; Article 6 remains not started.
