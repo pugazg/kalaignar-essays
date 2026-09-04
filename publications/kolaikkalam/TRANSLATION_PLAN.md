@@ -23,14 +23,14 @@ The six strict-reviewed Tamil assemblies below are the sole translation authorit
 
 | # | Tamil title | Scans | Tamil assembly | Frozen Tamil blob | English title/status |
 |---:|---|---:|---|---|---|
-| 1 | `கொலைக்களம்!` | 5–9 | `articles/01-kolaikkalam.md` | `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274` | **The Killing Field! — VERIFIED** |
-| 2 | `‘அஸ்தி’ கரையட்டும்!` | 10–16 | `articles/02-asthi-karaiyattum.md` | `c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5` | **Let the ‘Ashes’ Dissolve! — VERIFIED** |
-| 3 | `பலியை நிறுத்துங்கள்!` | 17–22 | `articles/03-paliyai-niruththungal.md` | `e9df22b14e6102c691fe4cc81417eda1051d8f25` | **Stop the Sacrifice! — VERIFIED** |
-| 4 | `விழலுக்கு நீர் இறைத்து...` | 23–27 | `articles/04-vizhalukku-neer-iraiththu.md` | `91f764f73c9514b2ce1eefdd94d3a1320a0c228e` | **Watering the Weeds... — VERIFIED** |
-| 5 | `சோதனை!` | 28–33 | `articles/05-sothanai.md` | `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` | **Search! — VERIFIED** |
-| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | 34–40 | `articles/06-veeramuzhakkam-seythiduveer.md` | `9e0b9e437a7548ca31ce352ab485b1e342bedb95` | **Raise the Heroic Cry! — VERIFIED** |
+| 1 | `கொலைக்களம்!` | 5–9 | `articles/01-kolaikkalam.md` | `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274` | **The Killing Field! — RELEASED / FROZEN** |
+| 2 | `‘அஸ்தி’ கரையட்டும்!` | 10–16 | `articles/02-asthi-karaiyattum.md` | `c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5` | **Let the ‘Ashes’ Dissolve! — RELEASED / FROZEN** |
+| 3 | `பலியை நிறுத்துங்கள்!` | 17–22 | `articles/03-paliyai-niruththungal.md` | `e9df22b14e6102c691fe4cc81417eda1051d8f25` | **Stop the Sacrifice! — RELEASED / FROZEN** |
+| 4 | `விழலுக்கு நீர் இறைத்து...` | 23–27 | `articles/04-vizhalukku-neer-iraiththu.md` | `91f764f73c9514b2ce1eefdd94d3a1320a0c228e` | **Watering the Weeds... — RELEASED / FROZEN** |
+| 5 | `சோதனை!` | 28–33 | `articles/05-sothanai.md` | `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` | **Search! — RELEASED / FROZEN** |
+| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | 34–40 | `articles/06-veeramuzhakkam-seythiduveer.md` | `9e0b9e437a7548ca31ce352ab485b1e342bedb95` | **Raise the Heroic Cry! — RELEASED / FROZEN** |
 
-Translation order was **1 → 2 → 3 → 4 → 5 → 6** and is complete at article level.
+Translation order was **1 → 2 → 3 → 4 → 5 → 6** and is complete.
 
 ## Publication-specific principles
 
@@ -44,9 +44,9 @@ Translation order was **1 → 2 → 3 → 4 → 5 → 6** and is complete at art
 
 ## Article gates
 
-Each article passes T0 source pin → T1 close draft → T2 bilingual fidelity → T3 voice → T4 terminology/quotation/citation → T5 verification.
+Each article passed T0 source pin → T1 close draft → T2 bilingual fidelity → T3 voice → T4 terminology/quotation/citation → T5 verification.
 
-## Current English status
+## Final English status
 
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
@@ -58,12 +58,13 @@ Each article passes T0 source pin → T1 close draft → T2 bilingual fidelity �
 - English files: **6 / 6**
 - verified English articles: **6 / 6**
 - E6 publication-wide consistency review: **PASS / COMPLETE**
-- E7 release closeout: **not-started**
+- E7 release closeout: **PASS / RELEASE COMPLETE**
 - blockers: **0**
+- **English translation: COMPLETE / RELEASED / FROZEN**
 
-## E6 release-candidate English authorities
+## Released English authorities
 
-E6 required no English body corrections, so the T5 blobs remain unchanged:
+E6 required no English body corrections and E7 confirmed no post-E6 drift:
 
 1. **The Killing Field!** — `c0ca9a883720d51a2637b811b7f38ca1635ba848`
 2. **Let the ‘Ashes’ Dissolve!** — `d20e579836ff2749664d7ee1ed5def5237293e60`
@@ -90,6 +91,29 @@ Detailed audit: [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_
 
 Deliberate differences retained include **Dravidian land / Dravidian country** by source sense; **nationalism / national / nationalist** by grammar; Article-2 **Jawahar** versus Article-6 **Pandit Jawaharlal**; Article-1 **Hindustan** versus Article-6 **India / united India**; Article-4 **pitch of valour** versus Article-6 **heroic cry**; and Article-5 contextual **search / trial / test**. Source-bearing oddities such as **Kuyyo! Muraiyo!**, **Neeli tears**, **Vibhishanas**, **Venganna**, **Chanakyan**, **kattai**, **Chandala-ness**, **Viveka (!) Chintamani**, **Brihaspatis**, **Rashtra Bhasha**, **Pathanistan**, **Kabar Khan** and **Kaamaarkkung kudiyallom** remain unnormalised.
 
-## Exact next activity
+## E7 release closeout — PASS
 
-Proceed with **E7 — English release closeout**. Re-fetch all six E6 release-candidate English blobs and all six frozen Tamil authorities, confirm no post-E6 body/metadata drift, verify **36 / 36** ordered source-page comments and the Article-6 scan-40 printer-witness exclusion, synchronize final release documentation, and only then mark the English translation **COMPLETE / RELEASED / FROZEN** if no blocker is found.
+Detailed release record: [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md)
+
+- six E6 English release candidates re-fetched: **6 / 6 exact blob matches**;
+- six frozen Tamil authorities re-fetched: **6 / 6 exact blob matches**;
+- correct Tamil authority pins in English metadata: **6 / 6 PASS**;
+- `translation_status: verified`: **6 / 6 PASS**;
+- English body changes after E6: **0 / 6**;
+- English metadata changes after E6: **0 / 6**;
+- ordered source-page comments: **36 / 36 PASS**;
+- Article-6 scan-40 printer witness: **excluded / PASS**;
+- source-sensitive E6 distinctions: **PASS**;
+- frozen Tamil changes during E7: **0**;
+- release defects: **0**;
+- blockers: **0**.
+
+**E7 RESULT: PASS / ENGLISH TRANSLATION COMPLETE / RELEASE COMPLETE / FROZEN.**
+
+## Final boundary
+
+`கொலைக்களம்!` is release-frozen in Tamil and English. Do not reopen for stylistic preference, terminology homogenisation, historical conventionalisation or outside-source normalization. Reopen only for a genuine source-supported or release-blocking defect.
+
+## Next activity
+
+No further translation/review activity is pending for `கொலைக்களம்!` absent a genuine source-supported or release-blocking defect. The next project activity is intake or continuation of another explicitly selected Kalaignar essay/article publication.
