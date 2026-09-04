@@ -79,9 +79,9 @@ P5 also confirmed scan-40 `போலீசோ`, `டாடாவோ`, `காம
 
 These six blobs are the sole Tamil authorities for English translation.
 
-## English E0 planning/setup — COMPLETE / PASS
+## English translation state
 
-English planning records:
+English planning/review records:
 
 - [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
 - [`translations/en/SOURCE_MAP.md`](translations/en/SOURCE_MAP.md)
@@ -89,19 +89,40 @@ English planning records:
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 
-Working title witnesses:
+Title witnesses:
 
-1. `கொலைக்களம்!` → **The Killing Field!**
-2. `‘அஸ்தி’ கரையட்டும்!` → **Let the ‘Ashes’ Dissolve!**
-3. `பலியை நிறுத்துங்கள்!` → **Stop the Sacrifice!**
+1. `கொலைக்களம்!` → **The Killing Field!** — **verified T4/T5**
+2. `‘அஸ்தி’ கரையட்டும்!` → **Let the ‘Ashes’ Dissolve!** — provisional
+3. `பலியை நிறுத்துங்கள்!` → **Stop the Sacrifice!** — provisional
 4. `விழலுக்கு நீர் இறைத்து...` → **Watering the Weeds...** — provisional/image-sensitive
 5. `சோதனை!` → **Search!** — provisional/context-sensitive
-6. `வீரமுழக்கஞ் செய்திடுவீர்!` → **Raise the Heroic Cry!**
+6. `வீரமுழக்கஞ் செய்திடுவீர்!` → **Raise the Heroic Cry!** — provisional
+
+Current gate totals:
 
 - E0: **COMPLETE / PASS**
-- T0–T5: **0 / 6**
-- English article files: **0 / 6**
+- T0: **1 / 6 PASS**
+- T1: **1 / 6 PASS**
+- T2: **1 / 6 PASS**
+- T3: **1 / 6 PASS**
+- T4: **1 / 6 PASS**
+- T5: **1 / 6 PASS / VERIFIED**
+- English article files: **1 / 6**
+- verified English articles: **1 / 6**
 - blockers: **0**
+
+### Article 1 — `கொலைக்களம்!` — VERIFIED
+
+- frozen Tamil blob: `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`;
+- verified English title: **The Killing Field!**;
+- verified English blob: `c0ca9a883720d51a2637b811b7f38ca1635ba848`;
+- source scans: **5–9**;
+- ordered source-page comments: **5 / 5 preserved**;
+- T0–T5: **PASS at every gate**;
+- unresolved translation choices: **0**;
+- blockers: **0**.
+
+T3 strengthened source-supported rhetorical force without adding claims; T4 passed the terminology/quotation/citation audit with no further body correction; T5 marked the article `verified`.
 
 ## Translation authority / non-regression
 
@@ -109,4 +130,4 @@ Follow `ESSAY_TRANSLATION_GUIDE.md`: **Translate the language; do not neutralise
 
 ## Exact next activity
 
-**Article 1 `கொலைக்களம்!` — T0 then T1.** Re-fetch and pin frozen Tamil blob `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`, then create the complete close English draft paragraph by paragraph. Update the living lexicon and translation review ledger. Do not begin Article 2 in the same activity unless the user changes the cadence.
+**Article 2 `‘அஸ்தி’ கரையட்டும்!` — T0 then T1 only.** Re-fetch and require frozen Tamil blob `c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5`, then create the complete close English draft paragraph by paragraph, preserving ordered source-page comments and quoted/source-bearing `‘அஸ்தி’`. Update the living lexicon and review ledger. Do not begin Article-2 T2 in the same activity unless the user changes the cadence.
