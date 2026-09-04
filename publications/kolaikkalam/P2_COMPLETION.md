@@ -13,7 +13,7 @@ P2 page-level direct visual transcription is complete for all 40 physical scans 
 - Unit 6 `வீரமுழக்கஞ் செய்திடுவீர்!`: **7 / 7 verified**
 - article/unit assemblies: **6 / 6**
 - P3: **COMPLETE / PASS**
-- P4: **NOT STARTED**
+- P4: **COMPLETE / PASS**
 - P5: **NOT STARTED**
 - English translation: **NOT STARTED**
 
@@ -53,8 +53,19 @@ P3 was subsequently completed from the reconciled live page layer:
 - source wording, punctuation, paragraph order and page-boundary comments preserved;
 - scan-40 printer witness kept outside Unit 6 prose body.
 
+## Subsequent P4 audit
+
+P4 subsequently audited all six assemblies against the reconciled canonical page layer:
+
+- assemblies audited: **6 / 6 PASS**;
+- missing/duplicate/out-of-order scans: **0**;
+- boundary or page-continuity defects: **0**;
+- physical-copy/audit contamination: **0**;
+- assembly-only corrections required: **0**;
+- audit record: `P4_SOURCE_COMPLETENESS_AUDIT.md`.
+
 ## Next gate
 
-**P4 — source/completeness audit of the six P3 assemblies against the reconciled canonical page layer.**
+**P5 — strict visual word-by-word / punctuation-by-punctuation fidelity pass over all 40 physical scans, with any corrections propagated into the canonical page layer and six assemblies, followed by a publication-level visual-text-fidelity report.**
 
-Do not perform the separate P5 strict visual fidelity pass in the same activity, and do not begin English translation.
+Do not begin English translation.
