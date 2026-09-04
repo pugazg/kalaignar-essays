@@ -11,8 +11,8 @@ P2 page-level direct visual transcription is complete for all 40 physical scans 
 - Unit 4 `விழலுக்கு நீர் இறைத்து...`: **5 / 5 verified**
 - Unit 5 `சோதனை!`: **6 / 6 verified**
 - Unit 6 `வீரமுழக்கஞ் செய்திடுவீர்!`: **7 / 7 verified**
-- article/unit assemblies: **0 / 6**
-- P3: **NOT STARTED**
+- article/unit assemblies: **6 / 6**
+- P3: **COMPLETE / PASS**
 - P4: **NOT STARTED**
 - P5: **NOT STARTED**
 - English translation: **NOT STARTED**
@@ -39,12 +39,22 @@ User-reviewed damaged readings that must not regress:
 - scan 25 `இதற்குத்தானா`;
 - scan 28 `சூத்திரர்களை`;
 - scan 29 `புயலெனச்`;
-- scan 30 `இதுதானா`.
+- scan 30 `இதுதானா`;
+- scan 34 `பலம்`.
 
 Scan 40 was not reopened in this lexical-difference pass; its existing verified record remains unchanged.
 
+## Subsequent P3 completion
+
+P3 was subsequently completed from the reconciled live page layer:
+
+- six canonical article assemblies: **6 / 6 COMPLETE / PASS**;
+- assembly record: `P3_COMPLETION.md`;
+- source wording, punctuation, paragraph order and page-boundary comments preserved;
+- scan-40 printer witness kept outside Unit 6 prose body.
+
 ## Next gate
 
-**P3 — assemble the six canonical prose units from the reconciled live page records.**
+**P4 — source/completeness audit of the six P3 assemblies against the reconciled canonical page layer.**
 
-Read `LEXICAL_RECONCILIATION_2026-09-04.md` before assembly. Do not begin English translation. P4/P5 remain later Tamil gates.
+Do not perform the separate P5 strict visual fidelity pass in the same activity, and do not begin English translation.
