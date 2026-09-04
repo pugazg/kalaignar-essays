@@ -3,11 +3,12 @@
 Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TRANSLATION_GUIDE.md)  
 Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)  
 Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)  
-E6 review: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)
+E6 review: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)  
+Publication completion review: [`../../PUBLICATION_COMPLETION_REVIEW.md`](../../PUBLICATION_COMPLETION_REVIEW.md)
 
 > **Translate the language; do not neutralise the voice.**
 
-## Current status
+## Final status
 
 - Tamil prerequisite: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - E0: **COMPLETE / PASS**
@@ -20,8 +21,9 @@ E6 review: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)
 - English article files: **6 / 6**
 - verified English articles: **6 / 6**
 - E6 publication-wide consistency review: **PASS / COMPLETE**
-- E7 release closeout: **not-started**
+- E7 release closeout: **PASS / RELEASE COMPLETE**
 - blockers: **0**
+- **English translation: COMPLETE / RELEASED / FROZEN**
 
 ## Article tracker
 
@@ -36,9 +38,9 @@ E6 review: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)
 
 All six article titles are verified.
 
-## E6 release-candidate English authorities
+## Released English authorities
 
-No English body correction was required by E6, so the T5 blobs remain unchanged:
+E6 required no body correction and E7 found no post-E6 drift, so the E6 candidates are the released authorities:
 
 1. `கொலைக்களம்!` → **The Killing Field!** — `c0ca9a883720d51a2637b811b7f38ca1635ba848`
 2. `‘அஸ்தி’ கரையட்டும்!` → **Let the ‘Ashes’ Dissolve!** — `d20e579836ff2749664d7ee1ed5def5237293e60`
@@ -46,6 +48,8 @@ No English body correction was required by E6, so the T5 blobs remain unchanged:
 4. `விழலுக்கு நீர் இறைத்து...` → **Watering the Weeds...** — `455e229bf216b21c8bc08c192be3b9e44c54940e`
 5. `சோதனை!` → **Search!** — `fe5a7ea3c17c1bce940d4688365892aaa720285b`
 6. `வீரமுழக்கஞ் செய்திடுவீர்!` → **Raise the Heroic Cry!** — `726217a73d55e573176b29da61a0c3dfb3cff611`
+
+All six English files retain `translation_status: verified`.
 
 ## E6 publication-wide consistency review — PASS
 
@@ -63,15 +67,27 @@ No English body correction was required by E6, so the T5 blobs remain unchanged:
 
 Deliberate E6 exceptions include **Dravidian land / Dravidian country** by source sense, **nationalism / national / nationalist** by grammar, Article-2 **Jawahar** versus Article-6 **Pandit Jawaharlal**, Article-1 **Hindustan** versus Article-6 **India / united India**, Article-4 **pitch of valour** versus Article-6 **heroic cry**, and Article-5 contextual **search / trial / test**. Source-bearing **Kuyyo! Muraiyo!**, **Neeli tears**, **Vibhishanas**, **Venganna**, **Chanakyan**, **kattai**, **Chandala-ness**, **Viveka (!) Chintamani**, **Brihaspatis**, **Rashtra Bhasha**, **Pathanistan**, **Kabar Khan**, and **Kaamaarkkung kudiyallom** remain intentionally unnormalised.
 
-## Translation files
+## E7 release checks — PASS
 
-1. `01-kolaikkalam.md` — **VERIFIED / E6 release candidate**
-2. `02-asthi-karaiyattum.md` — **VERIFIED / E6 release candidate**
-3. `03-paliyai-niruththungal.md` — **VERIFIED / E6 release candidate**
-4. `04-vizhalukku-neer-iraiththu.md` — **VERIFIED / E6 release candidate**
-5. `05-sothanai.md` — **VERIFIED / E6 release candidate**
-6. `06-veeramuzhakkam-seythiduveer.md` — **VERIFIED / E6 release candidate**
+- English blobs match E6 release-candidate baseline: **6 / 6 PASS**;
+- frozen Tamil authorities unchanged: **6 / 6 PASS**;
+- correct Tamil source pins in English metadata: **6 / 6 PASS**;
+- `translation_status: verified`: **6 / 6 PASS**;
+- English body changes after E6: **0 / 6**;
+- English metadata changes after E6: **0 / 6**;
+- ordered source-page comments: **36 / 36 PASS**;
+- Article-6 scan-40 printer witness: **excluded / PASS**;
+- source-sensitive E6 distinctions: **PASS**;
+- frozen Tamil changes during E7: **0**;
+- release defects: **0**;
+- blockers: **0**.
 
-## Exact next activity
+**E7 RESULT: PASS / ENGLISH TRANSLATION COMPLETE / RELEASE COMPLETE / FROZEN.**
 
-Perform **E7 — English release closeout**. Re-fetch the six E6 release-candidate English blobs and all six frozen Tamil authorities, confirm no post-E6 body or metadata drift, verify **36 / 36** ordered source-page comments and the Article-6 scan-40 printer-witness exclusion, synchronize final release documentation, and mark the English translation **COMPLETE / RELEASED / FROZEN** only if no blocker is found.
+## Permanent non-regression
+
+The frozen Tamil authorities, source-page trace, quotation treatment, rhetorical force, source-bearing labels/transliterations and deliberate E6 contextual distinctions remain controlling. Do not reopen a released article merely for stylistic preference, terminology homogenisation, outside historical normalization or conventionalisation. Reopen only for a genuine source-supported or release-blocking defect.
+
+## Next activity
+
+No further English translation/review activity is pending for `கொலைக்களம்!` absent a genuine source-supported or release-blocking defect. The next project activity is intake or continuation of another explicitly selected Kalaignar essay/article publication.
