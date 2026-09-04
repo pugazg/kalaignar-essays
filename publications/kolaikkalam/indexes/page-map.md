@@ -99,10 +99,12 @@ Scan 40 contains the end of Unit 6 and the printed printer witness `ஸ்ரீ
 - main prose units: **6**;
 - P2 page records: **40 / 40 verified**;
 - direct lexical page verification: **40 / 40**;
-- post-P2 lexical reconciliation: **complete for adjudicated differences through scan 39**;
+- post-P2 lexical reconciliation: **complete for adjudicated differences through scan 39, with later scan-34 manual correction propagated**;
 - P3 article assemblies: **6 / 6 — COMPLETE / PASS**;
-- P3 completion record: `../P3_COMPLETION.md`.
+- P4 source/completeness audit: **6 / 6 — COMPLETE / PASS**;
+- P4 audit record: `../P4_SOURCE_COMPLETENESS_AUDIT.md`;
+- assembly structural defects: **0**.
 
 ## Exact next activity
 
-**P4 — source/completeness audit of the six P3 article assemblies against the reconciled canonical page layer.** Verify scan coverage, boundaries, page-boundary continuity, source-supported headings/subheadings, and that physical-copy/audit text plus the scan-40 printer witness are not inside article prose. Do not perform P5 or begin English translation in the same activity.
+**P5 — strict visual word-by-word / punctuation-by-punctuation fidelity pass over all 40 physical scans against the canonical page records, with any corrections propagated into the six assemblies.** Create the publication-level visual-text-fidelity report. Do not begin English translation.
