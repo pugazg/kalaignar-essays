@@ -3,7 +3,8 @@
 Permanent translation policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TRANSLATION_GUIDE.md)  
 Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)  
 Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)  
-Detailed E6 audit: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)
+Detailed E6 audit: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)  
+Publication completion review: [`../../PUBLICATION_COMPLETION_REVIEW.md`](../../PUBLICATION_COMPLETION_REVIEW.md)
 
 ## E0 planning/setup — PASS
 
@@ -498,6 +499,44 @@ E6 release-candidate English blobs therefore remain:
 
 **E6 RESULT: PASS / COMPLETE.**
 
-## Exact next activity
+## E7 English release closeout — PASS / RELEASE COMPLETE
 
-Proceed with **E7 — English release closeout**. Re-fetch the six E6 release-candidate English authorities and six frozen Tamil authorities; confirm no post-E6 body or metadata drift; verify **36 / 36** ordered source-page comments and the Article-6 scan-40 printer-witness exclusion; synchronize final release documentation; and mark the English translation **COMPLETE / RELEASED / FROZEN** only if no blocker is found.
+Date: **2026-09-04**
+
+E7 re-fetched live `main`, the six E6 release-candidate English authorities and all six frozen Tamil authorities.
+
+- live-main baseline before E7: `6bee26a25b25e2d193838641de6c9f61d0afa567`;
+- English release-candidate blobs: **6 / 6 exact matches**;
+- frozen Tamil authorities: **6 / 6 exact matches**;
+- English metadata source pins: **6 / 6 PASS**;
+- `translation_status: verified`: **6 / 6 PASS**;
+- T0–T5: **6 / 6 PASS at every gate**;
+- E6: **PASS / durable**;
+- post-E6 English body changes: **0 / 6**;
+- post-E6 English metadata changes: **0 / 6**;
+- ordered source-page comments: **36 / 36 PASS**;
+- Article-6 scan-40 printer witness in English prose: **excluded / PASS**;
+- source-sensitive E6 distinctions: **PASS**;
+- frozen Tamil changes during E7: **0**;
+- source/translation gates reopened: **No**;
+- release defects discovered: **0**;
+- release blockers: **0**.
+
+Released English authorities are unchanged from E6:
+
+1. **The Killing Field!** — `c0ca9a883720d51a2637b811b7f38ca1635ba848`
+2. **Let the ‘Ashes’ Dissolve!** — `d20e579836ff2749664d7ee1ed5def5237293e60`
+3. **Stop the Sacrifice!** — `812c36b9e5350608dd1a951d08c2e48074549697`
+4. **Watering the Weeds...** — `455e229bf216b21c8bc08c192be3b9e44c54940e`
+5. **Search!** — `fe5a7ea3c17c1bce940d4688365892aaa720285b`
+6. **Raise the Heroic Cry!** — `726217a73d55e573176b29da61a0c3dfb3cff611`
+
+No outside wording, alternate-source replacement, stylistic homogenisation, historical conventionalisation or silent normalization was introduced during E7.
+
+**E7 RESULT: PASS / ENGLISH TRANSLATION COMPLETE / RELEASE COMPLETE / FROZEN.**
+
+---
+
+## Final boundary
+
+`கொலைக்களம்!` is release-frozen in Tamil and English. Reopen only for a genuine source-supported or release-blocking defect. No further translation/review activity is pending for this publication.
