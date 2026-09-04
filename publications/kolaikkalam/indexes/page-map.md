@@ -30,36 +30,37 @@ Physical scans: **40**
 | 14 | `14` | continuation | Unit 2 | verified |
 | 15 | `15` | continuation | Unit 2 | verified |
 | 16 | `16` | ending | Unit 2 | verified |
-| 17 | — | heading/opening: `பலியை நிறுத்துங்கள்!` | Unit 3 | not started |
-| 18 | `18` | continuation | Unit 3 | not started |
-| 19 | `19` | continuation | Unit 3 | not started |
-| 20 | `20` | continuation | Unit 3 | not started |
-| 21 | `21` | continuation | Unit 3 | not started |
-| 22 | `22` | ending | Unit 3 | not started |
-| 23 | — | heading/opening: `விழலுக்கு நீர் இறைத்து...` | Unit 4 | not started |
-| 24 | `24` | continuation | Unit 4 | not started |
-| 25 | `25` | continuation | Unit 4 | not started |
-| 26 | `26` | continuation | Unit 4 | not started |
-| 27 | `27` | ending | Unit 4 | not started |
-| 28 | — | heading/opening: `சோதனை!` | Unit 5 | not started |
-| 29 | `29` | continuation | Unit 5 | not started |
-| 30 | `30` | continuation | Unit 5 | not started |
-| 31 | `31` | continuation | Unit 5 | not started |
-| 32 | `32` | continuation | Unit 5 | not started |
-| 33 | `33` | ending | Unit 5 | not started |
-| 34 | — | heading/opening: `வீரமுழக்கஞ் செய்திடுவீர்!` | Unit 6 | not started |
-| 35 | `35` | continuation | Unit 6 | not started |
-| 36 | `36` | continuation | Unit 6 | not started |
-| 37 | `37` | continuation | Unit 6 | not started |
-| 38 | `38` | continuation | Unit 6 | not started |
-| 39 | `39` | continuation | Unit 6 | not started |
-| 40 | `40` | ending + printer line | Unit 6 / final imprint | not started |
+| 17 | — | heading/opening: `பலியை நிறுத்துங்கள்!` | Unit 3 | verified |
+| 18 | `18` | continuation | Unit 3 | verified |
+| 19 | `19` | continuation | Unit 3 | verified |
+| 20 | `20` | continuation | Unit 3 | verified |
+| 21 | `21` | continuation | Unit 3 | verified |
+| 22 | `22` | ending | Unit 3 | verified |
+| 23 | — | heading/opening: `விழலுக்கு நீர் இறைத்து...` | Unit 4 | verified |
+| 24 | `24` | continuation | Unit 4 | verified |
+| 25 | `25` | continuation | Unit 4 | verified |
+| 26 | `26` | continuation | Unit 4 | verified |
+| 27 | `27` | ending | Unit 4 | verified |
+| 28 | — | heading/opening: `சோதனை!` | Unit 5 | verified |
+| 29 | `29` | continuation | Unit 5 | verified |
+| 30 | `30` | continuation | Unit 5 | verified |
+| 31 | `31` | continuation | Unit 5 | verified |
+| 32 | `32` | continuation | Unit 5 | verified |
+| 33 | `33` | ending | Unit 5 | verified |
+| 34 | — | heading/opening: `வீரமுழக்கஞ் செய்திடுவீர்!` | Unit 6 | verified |
+| 35 | `35` | continuation | Unit 6 | verified |
+| 36 | `36` | continuation | Unit 6 | verified |
+| 37 | `37` | continuation | Unit 6 | verified |
+| 38 | `38` | continuation | Unit 6 | verified |
+| 39 | `39` | continuation | Unit 6 | verified |
+| 40 | `40` | ending + printer line | Unit 6 / final imprint | verified |
 
 ## P2 source corrections
 
 - scan 2 publication-data record directly reads `எச். எஸ். ராமுலு கம்பெனி` and the associated Chennai address;
-- scan 4 signed ending: direct source reads `மு. நமசிவாயம்` / `பண்ணையாளர்.`;
-- scan 34 heading: direct source reads **`வீரமுழக்கஞ் செய்திடுவீர்!`**, superseding the earlier normalized P1 label `வீரமுழக்கம் செய்திடுவீர்!`.
+- scan 4 signed ending directly reads `மு. நமசிவாயம்` / `பண்ணையாளர்.`;
+- scan 34 heading directly reads **`வீரமுழக்கஞ் செய்திடுவீர்!`**, superseding the earlier normalized P1 label `வீரமுழக்கம் செய்திடுவீர்!`;
+- scan 40 final printer witness is **`ஸ்ரீமகள் பிரஸ், சென்னை—1`**.
 
 ## Visible printed-page behaviour
 
@@ -85,14 +86,21 @@ No implied numeral is inserted into the diplomatic layer for an unnumbered scan.
 - Unit 5 `சோதனை!`: scans **28–33**;
 - Unit 6 `வீரமுழக்கஞ் செய்திடுவீர்!`: scans **34–40**.
 
-Scan 40 contains the end of Unit 6 and the printed printer witness `ஸ்ரீமகள் பிரஸ், சென்னை-1`; there is no separate back-cover scan in this supplied PDF.
+Scan 40 contains the end of Unit 6 and the printed printer witness `ஸ்ரீமகள் பிரஸ், சென்னை—1`; there is no separate back-cover scan in this supplied PDF.
 
-## Current result
+## P2 result
 
 - physical scans structurally mapped: **40 / 40**;
 - printed numerals inferred: **0**;
 - printed contents page: **absent / confirmed**;
 - introductory front-matter piece: **1** (`இன்பத் துளி!`, scans 3–4);
 - main prose units: **6**;
-- P2 page records: **16 / 40 verified**;
-- next unprocessed scan: **17**.
+- P2 page records: **40 / 40 verified**;
+- direct lexical page verification: **40 / 40**;
+- unresolved P2 page readings: **0**;
+- P2: **COMPLETE / PASS**;
+- P3 article assemblies: **0 / 6 — NOT STARTED**.
+
+## Exact next activity
+
+**P3 — assemble the six canonical main prose units from these verified page records.** This P2 activity stops before P3.
