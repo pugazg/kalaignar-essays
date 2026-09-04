@@ -45,9 +45,9 @@ This supersedes the earlier P1 statement that scan 4 was signed `மு. கர�
 
 ### Final printer witness — scan 40
 
-- **`ஸ்ரீமகள் பிரஸ், சென்னை-1`**
+- **`ஸ்ரீமகள் பிரஸ், சென்னை—1`**
 
-The printer line shares scan 40 with the end of the final prose unit and must remain structurally distinct from that body text.
+The printer line shares scan 40 with the end of the final prose unit and remains structurally distinct from that body text.
 
 ## Canonical publication structure
 
@@ -99,21 +99,25 @@ No numeral is inferred for an unnumbered scan.
 
 Physical-copy marks remain outside the printed-text section of page records. Text hidden by marks/damage must not be reconstructed merely from context.
 
-## P2 durable progress
+## P2 completion
 
-- scans directly transcribed and verified: **1–16**;
-- page records committed: **16 / 40**;
-- direct lexical page verification: **16 / 40**;
-- front matter P2 page layer: **4 / 4 complete**;
+- scans directly transcribed and verified: **1–40**;
+- page records committed: **40 / 40**;
+- direct lexical page verification: **40 / 40**;
+- front matter page layer: **4 / 4 complete**;
 - Unit 1 page layer: **5 / 5 complete**;
 - Unit 2 page layer: **7 / 7 complete**;
-- next unprocessed scan: **17**.
+- Unit 3 page layer: **6 / 6 complete**;
+- Unit 4 page layer: **5 / 5 complete**;
+- Unit 5 page layer: **6 / 6 complete**;
+- Unit 6 page layer: **7 / 7 complete**;
+- unresolved P2 page readings: **0**.
 
 ## Gate status
 
 - P0: **COMPLETE / PASS**
 - P1: **COMPLETE / PASS, with P2 source corrections propagated**
-- P2: **IN PROGRESS — 16 / 40**
+- P2 lexical page transcription: **COMPLETE / PASS — 40 / 40**
 - P3: **NOT STARTED**
 - P4: **NOT STARTED**
 - P5 strict visual fidelity: **NOT STARTED**
@@ -123,4 +127,4 @@ Physical-copy marks remain outside the printed-text section of page records. Tex
 
 ## Exact next activity
 
-**Continue P2 with scans 17–40.** Preserve the verified page records for scans 1–16, resume at scan 17, complete direct visual page-level transcription through scan 40, then synchronize all dependent status records and **stop before P3**.
+**P3 — assemble the six canonical prose units from the verified P2 page records.** Preserve the P2 page layer as authority, retain source wording and page provenance, keep the scan-40 printer witness outside Unit 6 body text, and do not begin English translation. **This P2 activity stops before P3.**
