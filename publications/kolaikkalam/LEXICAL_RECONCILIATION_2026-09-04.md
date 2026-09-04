@@ -10,7 +10,7 @@ This record documents the post-P2 word-level reconciliation of the canonical pag
 - comparison ignored decorative marks, punctuation-only differences, spacing, line breaks and formatting when identifying lexical differences;
 - actual repository corrections were made only where a word/text difference was supported by high-resolution scan inspection or by the user's explicit manual review of damaged print;
 - page records remain the canonical archival layer;
-- P3 assembly had **not** started when the reconciliation itself was performed; P3 was subsequently completed from this reconciled page layer.
+- P3 assembly had **not** started when the reconciliation itself was performed; P3 and P4 were subsequently completed from/audited against this reconciled page layer.
 
 ## User-reviewed damaged readings — controlling overrides
 
@@ -55,13 +55,22 @@ Scan 34 was subsequently corrected from the earlier misread `பலழ்` to th
 
 Scan 40 was not part of the newly completed high-resolution difference adjudication in this reconciliation pass. Its existing verified page record and printer witness were left unchanged.
 
+## Subsequent P3 / P4 state
+
+- P3 assemblies: **6 / 6 — COMPLETE / PASS**;
+- P3 completion record: `P3_COMPLETION.md`;
+- P4 source/completeness audit: **6 / 6 — COMPLETE / PASS**;
+- P4 audit record: `P4_SOURCE_COMPLETENESS_AUDIT.md`;
+- P4 found **0** assembly-only defects and required **0** article-body corrections.
+
 ## Result
 
 - canonical page records remain **40 / 40**;
 - post-P2 lexical reconciliation: **COMPLETE for the adjudicated differences through scan 39**;
 - user-reviewed damaged readings: **9 explicit controlling readings recorded**;
-- P3 assemblies: **6 / 6 — COMPLETE / PASS**;
-- P3 completion record: `P3_COMPLETION.md`;
+- P3: **COMPLETE / PASS**;
+- P4: **COMPLETE / PASS**;
+- P5: **NOT STARTED**;
 - English translation: **NOT STARTED**.
 
-P3 was assembled only from the reconciled live page records. Do not restore superseded P2 readings from older handoffs or prompts. The exact next activity is P4 source/completeness audit; P5 and English remain later gates.
+Do not restore superseded P2 readings from older handoffs or prompts. The exact next activity is **P5 strict visual word/punctuation fidelity over all 40 physical scans**. English remains out of scope.
