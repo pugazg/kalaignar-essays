@@ -59,13 +59,13 @@ Translation records:
 Current gates:
 
 - E0: **COMPLETE / PASS**
-- T0: **4 / 6 PASS**
-- T1: **4 / 6 PASS**
+- T0: **5 / 6 PASS**
+- T1: **5 / 6 PASS**
 - T2: **4 / 6 PASS**
 - T3: **4 / 6 PASS**
 - T4: **4 / 6 PASS**
 - T5: **4 / 6 PASS / VERIFIED**
-- English article files: **4 / 6**
+- English article files: **5 / 6**
 - verified English articles: **4 / 6**
 - blockers: **0**
 
@@ -78,7 +78,18 @@ Verified English authorities:
 
 Article 4 preserves **5 / 5** source-page comments and closes with **0** unresolved translation choices. T4 verified the repeated weeds/water futile-labour image, **pitch of valour**, source-bearing **kattai**, **self-rule / good-rule**, **Chandala-ness**, **makes the street-corners laugh**, **capitalist sewer**, **drum of imperialism**, **Congress Purana**, and all source labels/proper names without outside expansion.
 
-Articles 5–6 remain not started. Their working titles remain provisional.
+## Article 5 — T0/T1 PASS / DRAFT
+
+- Tamil authority: `articles/05-sothanai.md` — `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`;
+- English draft: `translations/en/05-sothanai.md` — `c3b0c4e22053395dddc4adf6d6b132464c7af80f`;
+- source scans/comments: **28–33 / 6 of 6 preserved**;
+- working English title: **Search!** — provisional until T4;
+- title context: police-search/search-the-heart senses dominate the body; the closing line deliberately shifts to **trial / test**;
+- T1 terminology includes **Shudras**, **religious neutrality**, **class hatred**, **arrows of repression**, **blank shots**, **police darbar**, **awakening of the race**, **religious axes** and the closing **achievement / search / trial / test** turn;
+- `சந்தர்ப்பபேத` remains a T2/T4 nuance check;
+- blockers: **0**.
+
+Article 6 remains not started. Its working title remains provisional.
 
 ## Translation non-regression
 
@@ -86,4 +97,4 @@ Follow `ESSAY_TRANSLATION_GUIDE.md`: **Translate the language; do not neutralise
 
 ## Exact next activity
 
-**Article 5 `சோதனை!` — T0 then T1.** Re-fetch and require frozen Tamil blob `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`, then create the complete close English draft. The working title **Search!** remains context-sensitive; review it in context but do not finalize it before T4. Preserve Articles 1–4 as verified.
+**Article 5 `சோதனை!` — T2 bilingual fidelity review.** Re-fetch frozen Tamil blob `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` and T1 English draft blob `c3b0c4e22053395dddc4adf6d6b132464c7af80f`; compare every clause for omissions, additions, referents, negatives, logical relations, quotation scope and repetition; preserve all **6 / 6** source-page comments; review `சந்தர்ப்பபேத`; keep **Search!** provisional until T4. Preserve Articles 1–4 as verified and do not begin Article 6.
