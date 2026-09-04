@@ -21,7 +21,7 @@ Main prose units:
 5. `சோதனை!` — scans **28–33**
 6. `வீரமுழக்கஞ் செய்திடுவீர்!` — scans **34–40**
 
-Scan 40 contains the Unit-6 ending plus the separate printer witness; the printer line is not part of the prose assembly or English translation.
+Scan 40 contains the Unit-6 ending plus the separate printer witness; the printer line is not part of the prose assembly or English body.
 
 ## Tamil archival result — COMPLETE / FROZEN
 
@@ -55,6 +55,7 @@ Translation records:
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+- [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSISTENCY_REVIEW.md)
 
 Current gates:
 
@@ -67,11 +68,13 @@ Current gates:
 - T5: **6 / 6 PASS / VERIFIED**
 - English article files: **6 / 6**
 - verified English articles: **6 / 6**
-- E6 publication-wide consistency review: **not-started**
+- E6 publication-wide consistency review: **PASS / COMPLETE**
 - E7 release closeout: **not-started**
 - blockers: **0**
 
-Verified English authorities:
+## E6 release-candidate English authorities
+
+No English body correction was required at E6, so the T5 blobs remain unchanged:
 
 1. `கொலைக்களம்!` → **The Killing Field!** — `c0ca9a883720d51a2637b811b7f38ca1635ba848`
 2. `‘அஸ்தி’ கரையட்டும்!` → **Let the ‘Ashes’ Dissolve!** — `d20e579836ff2749664d7ee1ed5def5237293e60`
@@ -80,27 +83,29 @@ Verified English authorities:
 5. `சோதனை!` → **Search!** — `fe5a7ea3c17c1bce940d4688365892aaa720285b`
 6. `வீரமுழக்கஞ் செய்திடுவீர்!` → **Raise the Heroic Cry!** — `726217a73d55e573176b29da61a0c3dfb3cff611`
 
-## Article 6 — T0–T5 PASS / VERIFIED
+## E6 publication-wide consistency result — PASS
 
-- Tamil authority: `articles/06-veeramuzhakkam-seythiduveer.md` — `9e0b9e437a7548ca31ce352ab485b1e342bedb95`;
-- T1 draft: `440dd63458e1f43a764fc7c4006b30bbf0110a0e`;
-- T2 fidelity-reviewed: `d3f49494a6a782b544252b2d7047685215413cd1`;
-- T3 voice-reviewed / T4 body authority: `8615ad98e1d1e37f2d53fd931f9bc86c3a0d2a73`;
-- T5 verified English: `translations/en/06-veeramuzhakkam-seythiduveer.md` — `726217a73d55e573176b29da61a0c3dfb3cff611`;
-- source scans/comments: **34–40 / 7 of 7 preserved**;
-- scan-40 printer witness: **excluded from English prose / PASS**;
-- verified English title: **Raise the Heroic Cry!**;
-- durable terminology includes **provincial feeling**, **Central Government**, **South Indian Federation**, **Viveka (!) Chintamani**, **Brihaspatis**, **Rashtra Bhasha**, **Pathanistan**, **Kabar Khan**, **language of government**, **iron capitalist doctrine**, **Kaamaarkkung kudiyallom**, **Dravidian land for the Dravidians!**, and the reused **cloak of nationalism**;
-- frozen `காமார்க்குங் குடியல்லோம்` was retained as a source-bearing transliteration and was not normalized from memory or outside sources;
-- unresolved translation choices: **0**;
+- recurring names / epithets: **PASS**;
+- Aryan / Dravidian and related ideological vocabulary: **PASS**;
+- **Bharat Mata**, **Achariyar**, **class hatred**, nationalism/source-label treatment: **PASS**;
+- centre–province vocabulary in Article 6: **PASS**;
+- title style: **PASS**;
+- quotation/source treatment: **PASS**;
+- source-bearing transliterations and explanatory restraint: **PASS**;
+- ordered source-page comments: **36 / 36 preserved**;
+- Article-6 scan-40 printer witness in English prose: **excluded / PASS**;
+- English body corrections required by E6: **0 / 6**;
+- frozen Tamil changes during E6: **0**;
 - blockers: **0**.
 
-All six English articles are individually verified. The publication is **not yet English-release complete** because E6 and E7 remain.
+Deliberate source/context differences remain frozen rather than homogenised, including **Dravidian land / Dravidian country**, **nationalism / national / nationalist**, Article-2 **Jawahar** versus Article-6 **Pandit Jawaharlal**, Article-1 **Hindustan** versus Article-6 **India / united India**, Article-4 **pitch of valour** versus Article-6 **heroic cry**, and Article-5 contextual **search / trial / test**.
+
+Source-bearing forms remain intentionally unnormalised where the supplied Tamil does not support expansion or correction: **Kuyyo! Muraiyo!**, **Neeli tears**, **Vibhishanas**, **Venganna**, **Chanakyan**, **kattai**, **Chandala-ness**, **Viveka (!) Chintamani**, **Brihaspatis**, **Rashtra Bhasha**, **Pathanistan**, **Kabar Khan**, and frozen scan-40 **Kaamaarkkung kudiyallom**.
 
 ## Translation non-regression
 
-Follow `ESSAY_TRANSLATION_GUIDE.md`: **Translate the language; do not neutralise the voice.** Use only frozen Tamil assemblies as translation authorities; preserve source-page trace, source labels, ideological vocabulary, quotation structure and rhetorical force. Verified English articles must not be reopened without a genuine source-supported defect.
+Follow `ESSAY_TRANSLATION_GUIDE.md`: **Translate the language; do not neutralise the voice.** Use only frozen Tamil assemblies as translation authorities; preserve source-page trace, source labels, ideological vocabulary, quotation structure and rhetorical force. Verified English articles must not be reopened without a genuine source-supported defect or a documented release-blocking E7 finding.
 
 ## Exact next activity
 
-**E6 — publication-wide English consistency review.** Review all six verified English articles against the frozen Tamil authorities and living lexicon. Classify apparent inconsistencies as **consistent**, **deliberate contextual/source-witness exception**, or **correction required**; preserve source-sensitive differences rather than homogenising them. If E6 requires a body correction, update the affected verified blob and all dependent records. Stop after E6; E7 release closeout remains separate.
+**E7 — English release closeout.** Re-fetch the six E6 release-candidate English authorities and six frozen Tamil authorities; confirm no post-E6 body or metadata drift; verify **36 / 36** ordered source-page comments and the Article-6 scan-40 printer-witness exclusion; synchronize final release documentation; and mark the English translation **COMPLETE / RELEASED / FROZEN** only if no blocker is found.
