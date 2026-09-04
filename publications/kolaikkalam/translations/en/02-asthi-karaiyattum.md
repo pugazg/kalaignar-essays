@@ -8,7 +8,7 @@ source_tamil_blob_sha: "c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5"
 source_scan_pages: "10-16"
 source_printed_pages: "scan 10 numeral not visible; scans 11-16 visibly 11-16"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -20,7 +20,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 The ritual of dissolving Gandhi's ‘ashes’—Gandhi, murdered by a deceitful Brahmin of jackal-like nature—has also been carried out according to Hindu religious custom in many holy(!) rivers.
 
-No one expected that the body of revered Gandhi would be broken down in fire so soon and that the time would come to dissolve his ‘ashes’.
+No one expected that the body of revered Gandhi would be shattered in fire so soon and that the time would come to dissolve his ‘ashes’.
 
 Having done that deed, Aryanism did not stop with distributing sweets to celebrate that ‘joyous freedom’; it is turning Gandhi's murder to advantage for its own policy and preparing to create a ghastly charnel ground in Dravidian land.
 
@@ -30,11 +30,11 @@ Comrade Bhashyam Iyengar has conducted that stone-laying ceremony!
 
 <!-- Tamil source: scan 11 / printed 11 -->
 
-At a time when the newspapers have concealed the news that the man who killed Gandhi was a Brahmin, the fact that the Dravidians are exposing it—that is the thunderbolt that has fallen into Iyengar's heart! The panic that has seized the Hindu—Mithran papers!
+At a time when the newspapers have concealed the news that the man who killed Gandhi was a Brahmin, the fact that the Dravidians are exposing it—that is the thunderbolt that has fallen into Iyengar's heart! The fright of the Hindu—Mithran papers!
 
 Even before anyone knew who had tried to kill Jawahar—they published the news that he was a Muslim, inflamed Hindu—Muslim conflict in many places and caused property losses of lakhs of rupees in places such as Erode—and today, when firm news emerges that the man who drank the life of noble Gandhi was a profligate Brahmin, Aryanism! Why do you growl?
 
-‘Alas! Our honour is going! Because one Brahmin committed murder, you drag our whole gotra into the street!’—O people of the Hindu newspaper who wail ‘Kuyyo! Muraiyo!’ in lament! First wipe away your Neeli tears! Turn a few pages of the old record of your race!
+‘Alas! Our honour is lost! Because one Brahmin committed murder, you drag our whole gotra into the street!’—O people of the Hindu newspaper who wail ‘Kuyyo! Muraiyo!’ in lament! First wipe away your Neeli tears! Turn a few pages of the old record of your race!
 
 Look here.....—how many heroes' lives have been plundered by the intrigues of your class!........
 
@@ -58,7 +58,7 @@ According to the Aryan dictionary, publishing true news is hatred!
 
 Should such a dictionary exist? Should it be allowed to exist? That is the question we ask the Dravidians!
 
-O Aryan paper! If, by some chance, a Muslim had killed Gandhi, by now you would have dyed India's soil blood-red! You would have floated corpses in the Bay of Bengal—and the Arabian Sea! Your venomous propaganda would have moved with that much speed!
+O Aryan paper! If, by some chance, a Muslim had killed Gandhi, by now you would have dyed India's soil blood-red! You would have floated corpses in the Bay of Bengal—and the Arabian Sea! How swiftly your venomous propaganda would have raced!
 
 Instead........why incite people with ‘Hurl the arrow of illegality at them!’ against those who warn, ‘At least after Gandhi has been killed, do not trust Brahminism, Dravidians!’?
 
@@ -72,7 +72,7 @@ Gandhi laboured peacefully. Even before Gandhi's ashes have dissolved, you cast 
 
 ‘Gandhi may be killed by a Brahmin.... But publishing it is a crime!’ That is your conclusion, isn't it!
 
-This is not journalistic dharma! Is not the very name for publishing news without concealing it—journalism!
+This is no journalistic dharma! Is not publishing news without concealing it what journalism means!
 
 When the welfare of the race is harmed, is taking scissors to the news the secret resolution of the All-India Editors' Conference?
 
@@ -88,23 +88,23 @@ Even the Vibhishanas who lay at your feet, after your ghastly deed, have opened 
 
 <!-- Tamil source: scan 15 / printed 15 -->
 
-If you are to live the old Venganna life; if you are to create a Chanakyan empire; if the sheen of your race is to remain unfaded—unshaken, living in pleasure—as a society that does not labour—shaping life on the principle that eating and sleeping alone are the purpose for which one is born; then you must finish off the Dravidians, Dravidian racial consciousness, the clarion call of the race!
+If you are to live the old Venganna life; if you are to create a Chanakyan empire; if the sheen of your race is to remain unfaded—unshaken, living in pleasure—as a society that does not labour—shaping life on the principle that eating and sleeping alone are the purpose for which one is born; then you must finish off the Dravidians, Dravidian race-consciousness, the clarion call of the race!
 
-That is why Bhashyam Iyengar's charge—the Hindu newspaper's outpouring—Mithran's threats are taking place!
+That is what drives Bhashyam Iyengar's charge—the Hindu newspaper's outpouring—Mithran's threats!
 
 The Dravidians' programme is not to oppose Brahmins; nor to destroy them! It is to oppose Brahminism; to destroy it!
 
-Though it knows this, Aryanism has begun a hate campaign in the language of not knowing, under the cloak of nationalism!
+Though it knows this—speaking as though it does not know, under the cloak of nationalism—Aryanism has begun its hate campaign!
 
 We are not afraid! We come from a lineage that calls a man who blinks at the thrust of a spear a coward!
 
 Again—not once, but many times—we say: ‘Brahminism itself killed Gandhi! Dravidian! At least now, do not trust Brahminism!’
 
-The authorities may place the command of the Aryan newspapers upon their heads and pounce in fury upon the Dravidians!
+The authorities may carry the command of the Aryan newspapers on their heads and pounce in fury upon the Dravidians!
 
 <!-- Tamil source: scan 16 / printed 16 -->
 
-When that fury and pouncing come, the members of the Dravidar Kazhagam are not people who lose heart and turn their backs!
+When that fury and that charge come, the members of the Dravidar Kazhagam are not people who lose heart and turn their backs!
 
 Gandhi showed his chest to the bullets that sprang from the hand of Brahminism!
 
