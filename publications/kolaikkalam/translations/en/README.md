@@ -10,14 +10,16 @@ Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)
 
 - Tamil prerequisite: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - E0: **COMPLETE / PASS**
-- T0: **5 / 6 PASS**
-- T1: **5 / 6 PASS**
-- T2: **5 / 6 PASS**
-- T3: **5 / 6 PASS**
-- T4: **5 / 6 PASS**
-- T5: **5 / 6 PASS / VERIFIED**
-- English article files: **5 / 6**
-- verified English articles: **5 / 6**
+- T0: **6 / 6 PASS**
+- T1: **6 / 6 PASS**
+- T2: **6 / 6 PASS**
+- T3: **6 / 6 PASS**
+- T4: **6 / 6 PASS**
+- T5: **6 / 6 PASS / VERIFIED**
+- English article files: **6 / 6**
+- verified English articles: **6 / 6**
+- E6 publication-wide consistency review: **not-started**
+- E7 release closeout: **not-started**
 - blockers: **0**
 
 ## Article tracker
@@ -29,9 +31,9 @@ Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)
 | 3 | `பலியை நிறுத்துங்கள்!` | **Stop the Sacrifice!** | `e9df22b14e6102c691fe4cc81417eda1051d8f25` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS / VERIFIED** |
 | 4 | `விழலுக்கு நீர் இறைத்து...` | **Watering the Weeds...** | `91f764f73c9514b2ce1eefdd94d3a1320a0c228e` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS / VERIFIED** |
 | 5 | `சோதனை!` | **Search!** | `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS / VERIFIED** |
-| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | **Raise the Heroic Cry!** *(provisional)* | `9e0b9e437a7548ca31ce352ab485b1e342bedb95` | not-started | not-started | not-started | not-started | not-started | not-started |
+| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | **Raise the Heroic Cry!** | `9e0b9e437a7548ca31ce352ab485b1e342bedb95` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS / VERIFIED** |
 
-Articles 1–5 titles are verified. Article 6 remains provisional until its own T4/T5 gates.
+All six article titles are verified.
 
 ## Verified English authorities
 
@@ -40,19 +42,21 @@ Articles 1–5 titles are verified. Article 6 remains provisional until its own 
 3. `பலியை நிறுத்துங்கள்!` → **Stop the Sacrifice!** — `812c36b9e5350608dd1a951d08c2e48074549697`
 4. `விழலுக்கு நீர் இறைத்து...` → **Watering the Weeds...** — `455e229bf216b21c8bc08c192be3b9e44c54940e`
 5. `சோதனை!` → **Search!** — `fe5a7ea3c17c1bce940d4688365892aaa720285b`
+6. `வீரமுழக்கஞ் செய்திடுவீர்!` → **Raise the Heroic Cry!** — `726217a73d55e573176b29da61a0c3dfb3cff611`
 
-## Article 5 verified authority
+## Article 6 verified authority
 
-- frozen Tamil authority: `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`
-- T1 draft: `c3b0c4e22053395dddc4adf6d6b132464c7af80f`
-- T2 fidelity-reviewed: `07358cf38466fa8783e17635a05615a110a9e069`
-- T3 voice-reviewed / T4 body authority: `f1f376ff274dc1131e31c1707ef5d8f9dde17bcc`
-- T5 verified English: `fe5a7ea3c17c1bce940d4688365892aaa720285b`
-- source-page comments: **6 / 6 preserved**
+- frozen Tamil authority: `9e0b9e437a7548ca31ce352ab485b1e342bedb95`
+- T1 draft: `440dd63458e1f43a764fc7c4006b30bbf0110a0e`
+- T2 fidelity-reviewed: `d3f49494a6a782b544252b2d7047685215413cd1`
+- T3 voice-reviewed / T4 body authority: `8615ad98e1d1e37f2d53fd931f9bc86c3a0d2a73`
+- T5 verified English: `726217a73d55e573176b29da61a0c3dfb3cff611`
+- source-page comments: **7 / 7 preserved**
+- scan-40 printer witness in prose: **excluded / PASS**
 - unresolved choices: **0**
 - blockers: **0**
 
-T4 verified **Search!** as the title because the article's main action is the challenged and redirected search, while the closing `சோதனை` deliberately broadens to **trial / test**. The closing `சாதனை / சோதனை` distinction remains explicit. `சந்தர்ப்பபேத` is verified as **divisions created according to circumstance**. Other durable Article-5 choices include **Shudras**, **religious neutrality**, **class hatred**, **arrows of repression**, **blank shots**, **police darbar**, **awakening of the race**, **religious axes**, and **sacred place**.
+T4 verified **Raise the Heroic Cry!** from the article's final direct imperative. Durable Article-6 choices include **provincial feeling**, **Central Government**, **South Indian Federation**, source-bearing **Viveka (!) Chintamani**, **Brihaspatis**, **Rashtra Bhasha**, **Pathanistan**, **Kabar Khan**, **language of government**, **iron capitalist doctrine**, **Kaamaarkkung kudiyallom**, **Dravidian land for the Dravidians!**, and the reused **cloak of nationalism**. The scan-40 printer witness remains outside the English prose.
 
 ## Translation files
 
@@ -61,8 +65,8 @@ T4 verified **Search!** as the title because the article's main action is the ch
 3. `03-paliyai-niruththungal.md` — **VERIFIED**
 4. `04-vizhalukku-neer-iraiththu.md` — **VERIFIED**
 5. `05-sothanai.md` — **VERIFIED**
-6. `06-veeramuzhakkam-seythiduveer.md` — not started
+6. `06-veeramuzhakkam-seythiduveer.md` — **VERIFIED**
 
 ## Exact next activity
 
-Article 6 `வீரமுழக்கஞ் செய்திடுவீர்!`: confirm T0 against frozen Tamil blob `9e0b9e437a7548ca31ce352ab485b1e342bedb95`, then perform the complete T1 close English draft. Keep **Raise the Heroic Cry!** provisional until T4, preserve the scan-40 printer witness outside Unit-6 prose, and preserve verified Articles 1–5.
+Perform **E6 — publication-wide English consistency review** across all six verified articles. Preserve source-sensitive differences; classify every apparent inconsistency as **consistent**, **deliberate contextual/source-witness exception**, or **correction required**. If E6 requires a body correction, update the affected verified blob and all dependent records. Stop after E6; E7 remains separate.
