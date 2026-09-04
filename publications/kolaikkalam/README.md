@@ -8,6 +8,12 @@ Source SHA-256: `674a534f6c29e5abed9c7ebf52c3cfd143f494d6a21341b5d0624871c187a96
 File size: **55,495,728 bytes**  
 Source PDF committed: **No**
 
+## Final publication status
+
+**COMPLETE / FROZEN / RELEASED in Tamil and English.**
+
+Reopen only for a genuine source-supported or release-blocking defect.
+
 ## Canonical structure
 
 Front matter: scans **1–4** (`இன்பத் துளி!` on scans 3–4). Printed contents page: **ABSENT / CONFIRMED**.
@@ -46,9 +52,9 @@ Frozen Tamil authorities:
 5. `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`
 6. `9e0b9e437a7548ca31ce352ab485b1e342bedb95`
 
-## English translation state
+## English translation result — COMPLETE / RELEASED / FROZEN
 
-Translation records:
+Translation/release records:
 
 - [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
 - [`translations/en/SOURCE_MAP.md`](translations/en/SOURCE_MAP.md)
@@ -56,8 +62,9 @@ Translation records:
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 - [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSISTENCY_REVIEW.md)
+- [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md)
 
-Current gates:
+Final gates:
 
 - E0: **COMPLETE / PASS**
 - T0: **6 / 6 PASS**
@@ -69,12 +76,12 @@ Current gates:
 - English article files: **6 / 6**
 - verified English articles: **6 / 6**
 - E6 publication-wide consistency review: **PASS / COMPLETE**
-- E7 release closeout: **not-started**
+- E7 release closeout: **PASS / RELEASE COMPLETE**
 - blockers: **0**
 
-## E6 release-candidate English authorities
+## Released English authorities
 
-No English body correction was required at E6, so the T5 blobs remain unchanged:
+E6 required no English body correction and E7 found no post-E6 drift:
 
 1. `கொலைக்களம்!` → **The Killing Field!** — `c0ca9a883720d51a2637b811b7f38ca1635ba848`
 2. `‘அஸ்தி’ கரையட்டும்!` → **Let the ‘Ashes’ Dissolve!** — `d20e579836ff2749664d7ee1ed5def5237293e60`
@@ -102,10 +109,26 @@ Deliberate source/context differences remain frozen rather than homogenised, inc
 
 Source-bearing forms remain intentionally unnormalised where the supplied Tamil does not support expansion or correction: **Kuyyo! Muraiyo!**, **Neeli tears**, **Vibhishanas**, **Venganna**, **Chanakyan**, **kattai**, **Chandala-ness**, **Viveka (!) Chintamani**, **Brihaspatis**, **Rashtra Bhasha**, **Pathanistan**, **Kabar Khan**, and frozen scan-40 **Kaamaarkkung kudiyallom**.
 
+## E7 release closeout result — PASS
+
+- six E6 English candidates re-fetched: **6 / 6 exact blob matches**;
+- six frozen Tamil authorities re-fetched: **6 / 6 exact blob matches**;
+- correct Tamil source pins in English metadata: **6 / 6 PASS**;
+- `translation_status: verified`: **6 / 6 PASS**;
+- post-E6 English body drift: **0 / 6**;
+- post-E6 metadata drift: **0 / 6**;
+- ordered source-page comments: **36 / 36 PASS**;
+- Article-6 scan-40 printer witness: **excluded / PASS**;
+- frozen Tamil changes during E7: **0**;
+- release defects: **0**;
+- blockers: **0**.
+
+**E7 RESULT: PASS / ENGLISH TRANSLATION COMPLETE / RELEASE COMPLETE / FROZEN.**
+
 ## Translation non-regression
 
-Follow `ESSAY_TRANSLATION_GUIDE.md`: **Translate the language; do not neutralise the voice.** Use only frozen Tamil assemblies as translation authorities; preserve source-page trace, source labels, ideological vocabulary, quotation structure and rhetorical force. Verified English articles must not be reopened without a genuine source-supported defect or a documented release-blocking E7 finding.
+Follow `ESSAY_TRANSLATION_GUIDE.md`: **Translate the language; do not neutralise the voice.** The six frozen Tamil assemblies remain the only translation authorities. Preserve source-page trace, source labels, ideological vocabulary, quotation structure, rhetorical force and deliberate E6 distinctions. Do not reopen released English articles merely for stylistic preference, terminology homogenisation, conventionalisation or outside historical normalization.
 
-## Exact next activity
+## Next activity
 
-**E7 — English release closeout.** Re-fetch the six E6 release-candidate English authorities and six frozen Tamil authorities; confirm no post-E6 body or metadata drift; verify **36 / 36** ordered source-page comments and the Article-6 scan-40 printer-witness exclusion; synchronize final release documentation; and mark the English translation **COMPLETE / RELEASED / FROZEN** only if no blocker is found.
+No further archival/translation/review activity is pending for `கொலைக்களம்!` absent a genuine source-supported or release-blocking defect. The next project activity is intake or continuation of another explicitly selected Kalaignar essay/article publication.
