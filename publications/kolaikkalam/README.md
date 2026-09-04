@@ -16,15 +16,14 @@ The supplied scan prints:
 - cover author: **`கலைஞர். மு. கருணாநிதி`**;
 - cover imprint/publisher: **`முன்னேற்றப் பண்ணை`**, **`சென்னை-1`**;
 - scan 2: `பதிப்புரிமை`, `முதற் பதிப்பு-52`, `விலை அணா எட்டு`, and the P2-direct sales-rights/distributor reading **`எச். எஸ். ராமுலு கம்பெனி`**;
-- scan 40 printer witness: **`ஸ்ரீமகள் பிரஸ், சென்னை-1`**.
+- scan 4 signed ending: **`மு. நமசிவாயம்` / `பண்ணையாளர்.`**;
+- scan 40 printer witness: **`ஸ்ரீமகள் பிரஸ், சென்னை—1`**.
 
 The source gives the edition year only as `52`; do not silently expand that printed witness in diplomatic transcription.
 
 ## Publication form — canonical structure
 
-This is a **multi-piece pamphlet / essay publication**.
-
-There is **no printed contents page** in the supplied 40 scans.
+This is a **multi-piece pamphlet / essay publication**. There is **no printed contents page** in the supplied 40 scans.
 
 Front matter:
 
@@ -32,7 +31,7 @@ Front matter:
 - scan 2 — copyright / edition / price / sales-rights page;
 - scans 3–4 — introductory signed front-matter note headed **`இன்பத் துளி!`**.
 
-`இன்பத் துளி!` is preserved as source text but is **not counted among the six canonical main prose units**. P2 direct verification corrected the earlier P1 signature identification: scan 4 closes with **`மு. நமசிவாயம்` / `பண்ணையாளர்.`**, not `மு. கருணாநிதி`. Scan 5 begins the first main titled piece.
+`இன்பத் துளி!` is preserved as source text but is **not counted among the six canonical main prose units**. P2 direct verification corrected the earlier P1 signature identification: scan 4 closes with **`மு. நமசிவாயம்` / `பண்ணையாளர்.`**, not `மு. கருணாநிதி`.
 
 Canonical main prose units:
 
@@ -43,14 +42,15 @@ Canonical main prose units:
 5. **`சோதனை!`** — scans **28–33**;
 6. **`வீரமுழக்கஞ் செய்திடுவீர்!`** — scans **34–40**.
 
-The Unit-6 heading above is the P2 direct-scan correction of the earlier normalized P1 form `வீரமுழக்கம் செய்திடுவீர்!`.
+The Unit-6 heading is the P2 direct-scan correction of the earlier normalized P1 form `வீரமுழக்கம் செய்திடுவீர்!`.
 
 Scan 40 contains the ending of Unit 6 and the final printer line; there is no separate back-cover scan in the supplied PDF.
 
-Canonical structural records:
+Canonical records:
 
 - [`indexes/page-map.md`](indexes/page-map.md)
 - [`indexes/contents.md`](indexes/contents.md)
+- [`P2_COMPLETION.md`](P2_COMPLETION.md)
 
 ## Printed-page behaviour
 
@@ -73,51 +73,52 @@ No missing numerals are inferred.
 
 Printed text and physical-copy evidence remain separate in every page record.
 
-## P2 durable progress
+## P2 completion
 
-Directly compared page records now committed:
+Direct visual page-level transcription is now complete for **all 40 scans**:
 
-- scans **1–16**: **16 / 16 verified**;
-- front matter scans **1–4**: complete at P2;
-- Unit 1 `கொலைக்களம்!`: scans **5–9**, complete at page-record level;
-- Unit 2 `‘அஸ்தி’ கரையட்டும்!`: scans **10–16**, complete at page-record level;
-- next unprocessed scan: **17**.
+- front matter scans **1–4**: **4 / 4 verified**;
+- Unit 1 `கொலைக்களம்!`: **5 / 5 verified**;
+- Unit 2 `‘அஸ்தி’ கரையட்டும்!`: **7 / 7 verified**;
+- Unit 3 `பலியை நிறுத்துங்கள்!`: **6 / 6 verified**;
+- Unit 4 `விழலுக்கு நீர் இறைத்து...`: **5 / 5 verified**;
+- Unit 5 `சோதனை!`: **6 / 6 verified**;
+- Unit 6 `வீரமுழக்கஞ் செய்திடுவீர்!`: **7 / 7 verified**;
+- total page records: **40 / 40 verified**;
+- direct lexical page verification: **40 / 40**.
 
-P2 source corrections established so far:
+P2 source corrections that must not regress:
 
 - scan 2 sales-rights/distributor: `எச். எஸ். ராமுலு கம்பெனி`;
 - scan 4 signature: `மு. நமசிவாயம்` / `பண்ணையாளர்.`;
-- scan 34 heading: `வீரமுழக்கஞ் செய்திடுவீர்!`.
-
-These are direct source readings and must not regress to the earlier P1 convenience readings.
+- scan 34 heading: `வீரமுழக்கஞ் செய்திடுவீர்!`;
+- scan 40 printer witness: `ஸ்ரீமகள் பிரஸ், சென்னை—1`.
 
 ## Gate status
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**
 - P1 — metadata + canonical page map + contents/unit mapping: **COMPLETE / PASS, with P2 source corrections propagated**
-- P2 — page-level transcription: **IN PROGRESS — 16 / 40**
+- P2 — page-level transcription: **COMPLETE / PASS — 40 / 40**
 - P3 — article/unit assemblies: **NOT STARTED**
 - P4 — source/completeness audit: **NOT STARTED**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
 - physical scans structurally mapped: **40 / 40**
 - canonical main prose units: **6**
-- page records: **16 / 40**
-- direct lexical page verification: **16 / 40**
 - article/unit assemblies: **0 / 6**
 - English translation: **NOT STARTED**
 - blockers: **0**
 
 ## Source authority / non-regression
 
-The supplied PDF scan is controlling. Do not silently modernise, correct, normalise, reconstruct or improve Tamil. Preserve source-visible spelling, old glyphs, punctuation, heading forms, names, numbers, repetitions and independent source witnesses. OCR may assist only as a draft aid; it is never authoritative.
+The supplied PDF scan is controlling. Do not silently modernise, correct, normalise, reconstruct or improve Tamil. Preserve source-visible spelling, old glyphs, punctuation, heading forms, names, numbers, repetitions and independent source witnesses. The verified P2 page records are now the canonical transcription layer; reopen them only for a genuine source-supported correction.
 
 ## Exact next activity
 
-**Continue P2 — page-level transcription and direct visual verification for scans 17–40.**
+**P3 — assemble the six canonical main prose units from the verified P2 page records.**
 
-1. Preserve committed verified scans **1–16**; do not repeat or overwrite them without a source-supported correction.
-2. Resume with scan **17** and create one canonical page record for every remaining scan through **40**.
-3. Keep physical-copy marks outside `# அச்சு உரை` and preserve source-visible punctuation, old glyphs, numbers, paragraph boundaries and continuations.
-4. Mark each remaining page `verified` only after direct scan comparison; flag genuinely unresolved readings rather than guessing.
-5. After all **40 / 40** page records are complete, synchronize README/source metadata/indexes/root `HANDOVER.md`/`docs/NEXT_CHAT_PROMPT.md` to P2 complete.
-6. **STOP AFTER P2. DO NOT BEGIN P3 ASSEMBLY IN THE SAME ACTIVITY.**
+1. Treat page records **1–40** as the completed P2 authority unless a source-supported defect is found.
+2. Create six article assemblies from scans **5–9**, **10–16**, **17–22**, **23–27**, **28–33**, and **34–40**.
+3. Preserve source wording, punctuation, paragraph sequence and page-boundary provenance; do not normalize text during assembly.
+4. Keep the scan-40 printer line outside the Unit-6 prose body.
+5. P4/P5 remain later Tamil gates; English remains out of scope.
+6. **This P2 activity stops here. Do not begin P3 in the same activity.**
