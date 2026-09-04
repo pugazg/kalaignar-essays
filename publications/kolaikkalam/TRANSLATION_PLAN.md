@@ -27,7 +27,7 @@ The six strict-reviewed Tamil assemblies below are the sole translation authorit
 | 2 | `‘அஸ்தி’ கரையட்டும்!` | 10–16 | `articles/02-asthi-karaiyattum.md` | `c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5` | **Let the ‘Ashes’ Dissolve! — VERIFIED** |
 | 3 | `பலியை நிறுத்துங்கள்!` | 17–22 | `articles/03-paliyai-niruththungal.md` | `e9df22b14e6102c691fe4cc81417eda1051d8f25` | **Stop the Sacrifice! — VERIFIED** |
 | 4 | `விழலுக்கு நீர் இறைத்து...` | 23–27 | `articles/04-vizhalukku-neer-iraiththu.md` | `91f764f73c9514b2ce1eefdd94d3a1320a0c228e` | **Watering the Weeds... — VERIFIED** |
-| 5 | `சோதனை!` | 28–33 | `articles/05-sothanai.md` | `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` | **Search! — T0/T1 PASS; provisional title** |
+| 5 | `சோதனை!` | 28–33 | `articles/05-sothanai.md` | `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` | **Search! — VERIFIED** |
 | 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | 34–40 | `articles/06-veeramuzhakkam-seythiduveer.md` | `9e0b9e437a7548ca31ce352ab485b1e342bedb95` | **Raise the Heroic Cry! — provisional** |
 
 Translation order remains **1 → 2 → 3 → 4 → 5 → 6**.
@@ -51,12 +51,12 @@ Each article must pass T0 source pin → T1 close draft → T2 bilingual fidelit
 - E0: **COMPLETE / PASS**
 - T0: **5 / 6 PASS**
 - T1: **5 / 6 PASS**
-- T2: **4 / 6 PASS**
-- T3: **4 / 6 PASS**
-- T4: **4 / 6 PASS**
-- T5: **4 / 6 PASS / VERIFIED**
+- T2: **5 / 6 PASS**
+- T3: **5 / 6 PASS**
+- T4: **5 / 6 PASS**
+- T5: **5 / 6 PASS / VERIFIED**
 - English files: **5 / 6**
-- verified English articles: **4 / 6**
+- verified English articles: **5 / 6**
 - blockers: **0**
 
 Verified English authorities:
@@ -65,21 +65,23 @@ Verified English authorities:
 2. **Let the ‘Ashes’ Dissolve!** — `d20e579836ff2749664d7ee1ed5def5237293e60`
 3. **Stop the Sacrifice!** — `812c36b9e5350608dd1a951d08c2e48074549697`
 4. **Watering the Weeds...** — `455e229bf216b21c8bc08c192be3b9e44c54940e`
+5. **Search!** — `fe5a7ea3c17c1bce940d4688365892aaa720285b`
 
-Article 4 T4 verified the repeated `விழல் / நீர் இறைத்து` futile-labour image as **weeds / water**, the title **Watering the Weeds...**, `வீரசுருதி` → **pitch of valour**, `நாலரைக் கட்டை / அரைக்கட்டை` → source-bearing **four-and-a-half kattai / half a kattai**, `சுயராஜ்யம் / சுகராஜ்யம்` → **self-rule / good-rule**, and retained the article's source-specific names/labels without outside expansion.
+## Article 5 T0–T5 checkpoint
 
-## Article 5 T0/T1 checkpoint
-
-- frozen Tamil authority re-fetched and matched: `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`;
+- frozen Tamil authority: `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`;
 - source scans: **28–33**;
-- T1 English draft: `translations/en/05-sothanai.md`;
-- T1 draft blob: `c3b0c4e22053395dddc4adf6d6b132464c7af80f`;
+- T1 draft: `c3b0c4e22053395dddc4adf6d6b132464c7af80f`;
+- T2 fidelity-reviewed: `07358cf38466fa8783e17635a05615a110a9e069`;
+- T3 voice-reviewed / T4 body authority: `f1f376ff274dc1131e31c1707ef5d8f9dde17bcc`;
+- T5 verified English: `fe5a7ea3c17c1bce940d4688365892aaa720285b`;
 - ordered source-page comments: **6 / 6 preserved**;
-- working title: **Search!** — remains provisional until T4;
-- title evidence: Article 5 repeatedly uses police-search / search-the-heart senses, while the closing line deliberately broadens `சோதனை` to **trial / test**;
-- T1 review flag: `சந்தர்ப்பபேத` currently rendered **divisions manufactured to suit the occasion** for T2/T4 recheck;
+- verified title: **Search!**;
+- title decision: the body repeatedly centres actual searches and the counter-command to search the Aryan heart; the closing line broadens `சோதனை` to **trial / test**, which remains documented rather than flattened;
+- `சந்தர்ப்பபேத` verified as **divisions created according to circumstance**;
+- unresolved choices: **0**;
 - blockers: **0**.
 
 ## Exact next activity
 
-Proceed with **Article 5 — `சோதனை!` — T2 bilingual fidelity review**, using frozen Tamil blob `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` and T1 draft blob `c3b0c4e22053395dddc4adf6d6b132464c7af80f`. Compare every paragraph and clause for omissions, additions, referents, negatives, logical relations, quotation scope and repetition; preserve all **6 / 6** source-page comments; review `சந்தர்ப்பபேத`; keep **Search!** provisional until T4; preserve verified Articles 1–4 and do not begin Article 6.
+Proceed with **Article 6 — `வீரமுழக்கஞ் செய்திடுவீர்!` — T0 source-pin confirmation followed by T1 complete English draft**, using only frozen Tamil blob `9e0b9e437a7548ca31ce352ab485b1e342bedb95`. Preserve verified Articles 1–5, keep the scan-40 printer witness outside Unit-6 prose, preserve all ordered source-page comments, and keep **Raise the Heroic Cry!** provisional until T4.
