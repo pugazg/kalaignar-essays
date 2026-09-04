@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows:
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `d80a08025c47e47793cd3b221af2f9e48686a307` — `Transcribe Kolaikkalam scan 16`.
+- Last confirmed live HEAD immediately before this handover synchronization: `b80ebb1a77deb38f2311e6897eeafd4f920fd9f1` — `Complete Kolaikkalam P2 contents tracker`.
 
 ---
 
@@ -129,7 +129,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 7 — கொலைக்களம்! — P2 IN PROGRESS / ACTIVE
+# Publication 7 — கொலைக்களம்! — P0–P2 COMPLETE / ACTIVE
 
 Workspace: `publications/kolaikkalam/`  
 Controlling source: `TVA_BOK_0063657_கொலைக்களம்.pdf`
@@ -144,7 +144,7 @@ Controlling source: `TVA_BOK_0063657_கொலைக்களம்.pdf`
 - scan-2 P2-direct sales-rights/distributor: **`எச். எஸ். ராமுலு கம்பெனி`**
 - scan-2 address: **`286, அப்பா பில்டிங்ஸ் - எஸ்பிளனேட்`**, **`சென்னை-1`**
 - scan-4 P2-direct signature: **`மு. நமசிவாயம்` / `பண்ணையாளர்.`**
-- scan-40 printer line: **`ஸ்ரீமகள் பிரஸ், சென்னை-1`**
+- scan-40 printer line: **`ஸ்ரீமகள் பிரஸ், சென்னை—1`**
 - physical scans: **40**
 - source SHA-256: `674a534f6c29e5abed9c7ebf52c3cfd143f494d6a21341b5d0624871c187a96c`
 - file size: **55,495,728 bytes**
@@ -174,7 +174,7 @@ Canonical main prose units:
 5. `சோதனை!` — scans **28–33**;
 6. `வீரமுழக்கஞ் செய்திடுவீர்!` — scans **34–40**.
 
-The Unit-6 heading above is a direct P2 source correction of the earlier normalized P1 form `வீரமுழக்கம் செய்திடுவீர்!`.
+The Unit-6 heading is a direct P2 source correction of the earlier normalized P1 form `வீரமுழக்கம் செய்திடுவீர்!`.
 
 Scan 40 contains the ending of Unit 6 plus the printer line; no separate back cover is present in the supplied PDF.
 
@@ -190,49 +190,54 @@ Visibly unnumbered scans:
 
 Printed numerals inferred: **0**.
 
-## Durable P2 progress
+## P2 completion
 
-Canonical verified page records now exist for scans **1–16**:
+Canonical verified page records now exist for **all scans 1–40**:
 
 - front matter: **4 / 4 verified**;
 - Unit 1 `கொலைக்களம்!`: **5 / 5 verified**;
 - Unit 2 `‘அஸ்தி’ கரையட்டும்!`: **7 / 7 verified**;
-- total page records: **16 / 40**;
-- direct lexical page verification: **16 / 40**.
+- Unit 3 `பலியை நிறுத்துங்கள்!`: **6 / 6 verified**;
+- Unit 4 `விழலுக்கு நீர் இறைத்து...`: **5 / 5 verified**;
+- Unit 5 `சோதனை!`: **6 / 6 verified**;
+- Unit 6 `வீரமுழக்கஞ் செய்திடுவீர்!`: **7 / 7 verified**;
+- total page records: **40 / 40**;
+- direct lexical page verification: **40 / 40**;
+- unresolved P2 page readings: **0**.
 
 Durable source corrections established during P2:
 
 1. scan 2 distributor/address is controlled by `pages/0002-publication-data.md`, including `எச். எஸ். ராமுலு கம்பெனி`;
 2. scan 4 signature is `மு. நமசிவாயம்` / `பண்ணையாளர்.`;
 3. scan 34 heading is `வீரமுழக்கஞ் செய்திடுவீர்!`;
-4. source-specific forms already captured include scan 9 `சிசுஹத்தி` and scan 10 `மித்திரன்—இந்து`.
+4. scan 40 printer witness is `ஸ்ரீமகள் பிரஸ், சென்னை—1`;
+5. source-specific forms already captured in the verified page layer must not be normalized during P3 assembly.
 
-Do **not** repeat scans 1–16 or regress these readings unless a fresh direct source comparison demonstrates a genuine correction.
+The completed P2 page layer is authoritative unless a fresh direct source comparison demonstrates a genuine correction.
 
 ## Gate status
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**
 - P1 — metadata + canonical page map + unit mapping: **COMPLETE / PASS, with P2 source corrections propagated**
-- P2 — page-level transcription: **IN PROGRESS — 16 / 40**
-- P3 — article/unit assemblies: **NOT STARTED**
+- P2 — page-level transcription/direct lexical verification: **COMPLETE / PASS — 40 / 40**
+- P3 — article/unit assemblies: **NOT STARTED — 0 / 6**
 - P4 — source/completeness audit: **NOT STARTED**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
-- article/unit assemblies: **0 / 6**
 - English translation: **NOT STARTED**
 - blockers: **0**
 
 ## Source authority / non-regression
 
-The supplied scan is controlling. Preserve source-visible old glyphs, spelling, punctuation, headings, names, numbers, repetitions and separate source witnesses. Do not import OCR, web wording, later editions or contextual guesses into the archival layer. OCR may assist only as a draft aid; `verified` requires direct scan comparison.
+The supplied scan is controlling. Preserve source-visible old glyphs, spelling, punctuation, headings, names, numbers, repetitions and separate source witnesses. Do not import OCR, web wording, later editions or contextual guesses into the archival layer. P3 must assemble from the verified P2 page records without editorial normalization.
 
 ## Exact next activity
 
-**Continue P2 — page-level transcription and direct visual verification for scans 17–40.**
+**P3 — assemble the six canonical main prose units from the verified P2 page records.**
 
 1. Fetch live `main` first and preserve newer durable work.
-2. Preserve verified scans **1–16**; resume at scan **17**.
-3. Complete canonical page records and direct visual verification through scan **40**, including the final printer witness.
-4. Keep stamps, handwriting, tears, stains and other physical-copy marks outside `# அச்சு உரை`.
-5. Preserve source-visible punctuation, old glyphs, headings, numbers, paragraph boundaries and continuations; mark genuinely unresolved text rather than guessing.
-6. After page records reach **40 / 40**, synchronize README/source metadata/page-map/contents/root handover/prompt to P2 complete.
-7. **STOP AFTER P2. DO NOT BEGIN P3 ASSEMBLY IN THE SAME ACTIVITY.**
+2. Read the completed page records; do not repeat P2 merely because an older prompt says it was incomplete.
+3. Create six article assemblies from scans **5–9**, **10–16**, **17–22**, **23–27**, **28–33**, and **34–40**.
+4. Preserve source wording, punctuation, paragraph sequence and page-boundary provenance.
+5. Keep the scan-40 printer witness outside Unit 6 prose body.
+6. P4 and P5 remain later Tamil gates; English translation remains out of scope.
+7. **The completed P2 activity stops here. Do not begin P3 in the same activity.**
