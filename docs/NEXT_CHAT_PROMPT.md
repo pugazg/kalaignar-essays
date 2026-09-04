@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Essays / கொலைக்களம்! — Article 1 T3
+# Next Chat Prompt — Kalaignar Essays / கொலைக்களம்! — Article 2 T0/T1
 
 Use this only as a convenience handoff. **Live `main` and root `HANDOVER.md` are authoritative.**
 
@@ -8,7 +8,7 @@ Active publication: `publications/kolaikkalam/` — **கொலைக்கள�
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve any newer durable work. Do not reopen the frozen Tamil archival layer merely because an older prompt records an earlier state.
+Fetch live `main` first. Preserve any newer durable work. Do not reopen the frozen Tamil archival layer or verified Article 1 merely because an older prompt records an earlier state.
 
 ## Mandatory startup
 
@@ -24,80 +24,74 @@ Before continuing English work, read completely:
 8. `publications/kolaikkalam/translations/en/SOURCE_MAP.md`
 9. `publications/kolaikkalam/translations/en/LEXICON.md`
 10. `publications/kolaikkalam/translations/en/TRANSLATION_REVIEW.md`
-11. frozen Tamil Article 1 assembly `publications/kolaikkalam/articles/01-kolaikkalam.md`
-12. fidelity-reviewed English `publications/kolaikkalam/translations/en/01-kolaikkalam.md`
+11. frozen Tamil Article 2 assembly `publications/kolaikkalam/articles/02-asthi-karaiyattum.md`
+12. verified Article 1 English only as precedent if needed: `publications/kolaikkalam/translations/en/01-kolaikkalam.md`
 
 ## Tamil state — FROZEN
 
 P0–P5 are complete. Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**. Do not alter Tamil for translation convenience.
 
-Frozen Article-1 authority:
+Frozen Tamil authorities:
 
-`bc22ad3acec0bacc70ef69e0fb46f85fa3fed274` — `கொலைக்களம்!` — scans 5–9.
+1. `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274` — `கொலைக்களம்!`
+2. `c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5` — `‘அஸ்தி’ கரையட்டும்!`
+3. `e9df22b14e6102c691fe4cc81417eda1051d8f25` — `பலியை நிறுத்துங்கள்!`
+4. `91f764f73c9514b2ce1eefdd94d3a1320a0c228e` — `விழலுக்கு நீர் இறைத்து...`
+5. `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` — `சோதனை!`
+6. `9e0b9e437a7548ca31ce352ab485b1e342bedb95` — `வீரமுழக்கஞ் செய்திடுவீர்!`
+
+Do not translate from raw `Kolaikalam.md`, OCR, page drafts, historical P3 blobs, web text or memory.
 
 ## English state
 
-- E0: **COMPLETE / PASS**
-- Article 1 T0: **PASS**
-- Article 1 T1: **PASS / complete draft**
-- Article 1 T2: **PASS / fidelity-reviewed**
-- Article 1 English file: `translations/en/01-kolaikkalam.md`
+Article 1 `கொலைக்களம்!` is **T0–T5 COMPLETE / VERIFIED**.
+
+- verified title: **The Killing Field!**
+- frozen Tamil blob: `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`
 - T1 draft blob: `546a4b075e794237dd6299bcbddc09c17f79583a`
 - T2 fidelity-reviewed blob: `d0534b8859fed307e7bfb0cfe174281f20418fc4`
+- T3 voice-reviewed blob: `83de20d819e6c9fe31402576fa277ad8001b08b3`
+- T4 body authority: `83de20d819e6c9fe31402576fa277ad8001b08b3`
+- T5 verified English blob: `c0ca9a883720d51a2637b811b7f38ca1635ba848`
 - ordered source-page comments: **5 / 5 preserved**
-- translation status: `fidelity-reviewed`
-- T3–T5: **not started**
-- Articles 2–6: **not started**
+- unresolved translation choices: **0**
 - blockers: **0**
 
 Current overall gates:
 
+- E0: **COMPLETE / PASS**
 - T0: **1 / 6 PASS**
 - T1: **1 / 6 PASS**
 - T2: **1 / 6 PASS**
-- T3: **0 / 6**
-- T4: **0 / 6**
-- T5: **0 / 6**
+- T3: **1 / 6 PASS**
+- T4: **1 / 6 PASS**
+- T5: **1 / 6 PASS / VERIFIED**
+- verified English articles: **1 / 6**
 
-## Article-1 T2 result to preserve
+Articles 2–6 are not started.
 
-T2 completed a full paragraph/clause bilingual review and made exactly three English corrections:
+## Article-1 non-regression precedent
 
-1. scan 8 — plural `leaders` → singular **`leader`** for source `தலைவர்`;
-2. scan 9 — restored Hindustan as the subject and the source modal force: **`though lacking strength, it may come to oppose Russia with mocking words`**;
-3. scan 9 — removed English-only `them`: **`We warn: do not commit infanticide...`**.
+Preserve established translation principles:
 
-T2 confirmed:
+- translate the language; do not neutralise the voice;
+- preserve directness, sarcasm, ridicule, rhetorical questions, commands, repetition, abrupt contrasts and violent imagery;
+- retain source-chosen political/geographical labels such as **Hindustan** where the Tamil chooses them;
+- retain source-specific quotation and page-boundary trace;
+- do not add explanatory historical claims into body text;
+- conventional English forms for well-established international names are allowed only without altering the Tamil referent.
 
-- no omitted body paragraph/clause;
-- no added substantive claim after correction;
-- names/referents, numbers, quotations, negatives, comparisons and logical connectors: PASS;
-- scan-6→7 cumulative sentence: PASS;
-- `நடுநிலைமையா? / நடுக்க நிலைமையா?` → `state of neutrality? / state of trembling?`: PASS;
-- scan-8 `சிரமறுத்தல்...` aphoristic structure: PASS;
-- all 5/5 source-page comments preserved;
-- Tamil source changes: 0.
+Article-1 verified terminology includes `Dravidian land`, `Nazism`, `infanticide`, `atom bomb`, `war drum`, `hymn to freedom`, generic `international organisation`, `religion of righteousness`, `guide to harmonious virtue`, and `conch-blast` in their documented contexts.
 
-Working choices retained through T2:
+## EXACT NEXT ACTIVITY — ARTICLE 2 T0/T1 ONLY
 
-- title **The Killing Field!** — still provisional until T4/T5;
-- `இந்துஸ்தான்` → **Hindustan**;
-- Article-1 `திராவிடம்` → **Dravidian land**;
-- `நாசீசம்` → **Nazism**;
-- `சிசுஹத்தி` → **infanticide**;
-- `சர்வ தேச சங்கம்` → **international organisation**, deliberately generic because the Tamil source does not name a specific body.
+Process **Article 2 — `‘அஸ்தி’ கரையட்டும்!`** only:
 
-Do not translate from raw `Kolaikalam.md`, OCR, page drafts, historical P3 blobs, web text or memory.
-
-## EXACT NEXT ACTIVITY — ARTICLE 1 T3 ONLY
-
-1. Re-fetch live `main` and require Tamil Article 1 blob to remain `bc22ad3acec0bacc70ef69e0fb46f85fa3fed274`.
-2. Require live English Article 1 to match T2 blob `d0534b8859fed307e7bfb0cfe174281f20418fc4` before review.
-3. Perform **T3 Kalaignar voice review** while comparing with the frozen Tamil.
-4. Check directness, sarcasm, ridicule, rhetorical questions, commands, repetition, abrupt contrasts, exclamations, accumulative cadence, bodily/war imagery and polemical bite.
-5. Recheck especially `at a mere ‘hmm’`, `twirling their moustaches`, the scan-8 aphorism, `War! War! War`, the volcano passage, and the infant/infanticide close.
-6. Do not undo T2 referent/modal corrections merely for stylistic smoothness.
-7. Preserve all **5 / 5** ordered source-page comments.
-8. Record every voice correction in `TRANSLATION_REVIEW.md`; update `LEXICON.md` and tracker if choices change.
-9. Mark T3 PASS only after the complete voice review.
-10. **STOP after T3. Do not begin T4 or Article 2 in the same activity.**
+1. Re-fetch live `main` and require `publications/kolaikkalam/articles/02-asthi-karaiyattum.md` to have blob `c7e29e10bc9a7d9d2f0ff9b66bb47d663410bbc5`.
+2. Create `publications/kolaikkalam/translations/en/02-asthi-karaiyattum.md` with metadata required by `ESSAY_TRANSLATION_GUIDE.md`.
+3. Perform **T1 complete close English draft** paragraph by paragraph from that frozen Tamil authority only.
+4. Preserve all ordered source-page comments, rhetorical questions, repetition, polemical force and quotation structure.
+5. Preserve the quoted/source-bearing title term `‘அஸ்தி’`; working title remains **Let the ‘Ashes’ Dissolve!** until T4/T5.
+6. Update `LEXICON.md`, `TRANSLATION_REVIEW.md`, `translations/en/README.md`, `TRANSLATION_PLAN.md`, publication README, root `HANDOVER.md` and this prompt.
+7. Do not reopen verified Article 1.
+8. **STOP after Article-2 T1. Do not begin Article-2 T2 in the same activity unless the user explicitly changes the cadence.**
