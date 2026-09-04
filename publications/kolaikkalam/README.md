@@ -33,18 +33,18 @@ Front matter:
 
 `இன்பத் துளி!` is preserved as source text but is **not counted among the six canonical main prose units**. P2 direct verification corrected the earlier P1 signature identification: scan 4 closes with **`மு. நமசிவாயம்` / `பண்ணையாளர்.`**, not `மு. கருணாநிதி`.
 
-Canonical main prose units:
+Canonical main prose units and P3 assemblies:
 
-1. **`கொலைக்களம்!`** — scans **5–9**;
-2. **`‘அஸ்தி’ கரையட்டும்!`** — scans **10–16**;
-3. **`பலியை நிறுத்துங்கள்!`** — scans **17–22**;
-4. **`விழலுக்கு நீர் இறைத்து...`** — scans **23–27**;
-5. **`சோதனை!`** — scans **28–33**;
-6. **`வீரமுழக்கஞ் செய்திடுவீர்!`** — scans **34–40**.
+1. **`கொலைக்களம்!`** — scans **5–9** — `articles/01-kolaikkalam.md`;
+2. **`‘அஸ்தி’ கரையட்டும்!`** — scans **10–16** — `articles/02-asthi-karaiyattum.md`;
+3. **`பலியை நிறுத்துங்கள்!`** — scans **17–22** — `articles/03-paliyai-niruththungal.md`;
+4. **`விழலுக்கு நீர் இறைத்து...`** — scans **23–27** — `articles/04-vizhalukku-neer-iraiththu.md`;
+5. **`சோதனை!`** — scans **28–33** — `articles/05-sothanai.md`;
+6. **`வீரமுழக்கஞ் செய்திடுவீர்!`** — scans **34–40** — `articles/06-veeramuzhakkam-seythiduveer.md`.
 
 The Unit-6 heading is the P2 direct-scan correction of the earlier normalized P1 form `வீரமுழக்கம் செய்திடுவீர்!`.
 
-Scan 40 contains the ending of Unit 6 and the final printer line; there is no separate back-cover scan in the supplied PDF.
+Scan 40 contains the ending of Unit 6 and the final printer line; there is no separate back-cover scan in the supplied PDF. The printer witness is deliberately excluded from the Unit-6 prose assembly.
 
 Canonical records:
 
@@ -52,6 +52,7 @@ Canonical records:
 - [`indexes/contents.md`](indexes/contents.md)
 - [`P2_COMPLETION.md`](P2_COMPLETION.md)
 - [`LEXICAL_RECONCILIATION_2026-09-04.md`](LEXICAL_RECONCILIATION_2026-09-04.md)
+- [`P3_COMPLETION.md`](P3_COMPLETION.md)
 
 ## Printed-page behaviour
 
@@ -88,7 +89,7 @@ Direct visual page-level transcription remains complete for **all 40 scans**:
 - total page records: **40 / 40 verified**;
 - direct lexical page verification: **40 / 40**.
 
-A post-P2 word-level reconciliation was completed on **2026-09-04** against high-resolution scan inspection and the user's manual review of damaged print. The live page records now supersede the earlier P2 lexical readings wherever corrected. See `LEXICAL_RECONCILIATION_2026-09-04.md`.
+A post-P2 word-level reconciliation was completed on **2026-09-04** against high-resolution scan inspection and the user's manual review of damaged print. The live page records supersede the earlier P2 lexical readings wherever corrected. See `LEXICAL_RECONCILIATION_2026-09-04.md`.
 
 User-reviewed damaged readings that must not regress:
 
@@ -99,27 +100,42 @@ User-reviewed damaged readings that must not regress:
 - scan 25 `இதற்குத்தானா`;
 - scan 28 `சூத்திரர்களை`;
 - scan 29 `புயலெனச்`;
-- scan 30 `இதுதானா`.
+- scan 30 `இதுதானா`;
+- scan 34 `பலம்`.
 
 Other durable source corrections include:
 
 - scan 2 sales-rights/distributor: `எம். எஸ். ராமுலு கம்பெனி`;
 - scan 4 signature: `மு. நமசிவாயம்` / `பண்ணையாளர்.`;
 - scan 34 heading: `வீரமுழக்கஞ் செய்திடுவீர்!`;
+- scan 34 body reading: `பலம்`, superseding the earlier misread `பலழ்`;
 - scan 40 printer witness: `ஸ்ரீமகள் பிரஸ், சென்னை—1`.
+
+## P3 assembly completion
+
+P3 is complete for all six canonical units:
+
+- article/unit assemblies: **6 / 6 COMPLETE / PASS**;
+- all assemblies were concatenated only from reconciled live page records;
+- source wording, punctuation, paragraph sequence and page-boundary provenance are preserved;
+- source-supported internal headings/subheadings are retained;
+- scan-40 printer witness is outside Unit 6 prose body;
+- no P4/P5 or English work was performed as part of P3.
+
+See `P3_COMPLETION.md` for the assembly ledger and frozen P3 blob SHAs.
 
 ## Gate status
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**
 - P1 — metadata + canonical page map + contents/unit mapping: **COMPLETE / PASS, with later source corrections propagated**
 - P2 — page-level transcription: **COMPLETE / PASS — 40 / 40**
-- post-P2 lexical reconciliation: **COMPLETE for adjudicated differences through scan 39**
-- P3 — article/unit assemblies: **NOT STARTED**
+- post-P2 lexical reconciliation: **COMPLETE for adjudicated differences through scan 39, with later scan-34 manual correction propagated**
+- P3 — article/unit assemblies: **COMPLETE / PASS — 6 / 6**
 - P4 — source/completeness audit: **NOT STARTED**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
 - physical scans structurally mapped: **40 / 40**
 - canonical main prose units: **6**
-- article/unit assemblies: **0 / 6**
+- article/unit assemblies: **6 / 6**
 - English translation: **NOT STARTED**
 - blockers: **0**
 
@@ -129,11 +145,12 @@ The supplied PDF scan is controlling. Do not silently modernise, correct, normal
 
 ## Exact next activity
 
-**P3 — assemble the six canonical main prose units from the reconciled page records.**
+**P4 — source/completeness audit of all six P3 assemblies against the reconciled canonical page layer.**
 
-1. Treat live page records **1–40** as the completed P2/reconciled authority unless a source-supported defect is found.
-2. Read `LEXICAL_RECONCILIATION_2026-09-04.md` before assembly.
-3. Create six article assemblies from scans **5–9**, **10–16**, **17–22**, **23–27**, **28–33**, and **34–40**.
-4. Preserve source wording, punctuation, paragraph sequence and page-boundary provenance; do not normalize text during assembly.
-5. Keep the scan-40 printer line outside the Unit-6 prose body.
-6. P4/P5 remain later Tamil gates; English remains out of scope.
+1. Re-fetch live `main` and all six assembly files before audit.
+2. Verify each assembly covers its exact canonical scan span with no missing or duplicated page body.
+3. Verify article start/end boundaries and every page-boundary continuation.
+4. Verify source-supported headings and internal subheadings are retained and no editorial/physical-copy/audit text has entered article prose.
+5. Confirm the scan-40 printer witness remains outside Unit 6 prose body.
+6. Record assembly-only defects and propagate corrections if found.
+7. Stop after P4. P5 remains a separate strict visual word/punctuation fidelity gate; English remains out of scope.
