@@ -200,12 +200,44 @@ T3 deliberately retained source-bearing or deliberately abrasive forms rather th
 
 ---
 
-### Article 5 — `சோதனை!`
+### Article 5 — `சோதனை!` — T0/T1 PASS / DRAFT
 
+- English file: `05-sothanai.md`
 - frozen Tamil blob: `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`
-- working English title: **Search!**
-- T0–T5: not-started
-- title remains context-sensitive and must be reviewed during T1/T4.
+- T1 draft blob: `c3b0c4e22053395dddc4adf6d6b132464c7af80f`
+- working English title: **Search!** — provisional until T4
+- source scans: **28–33 / 6 of 6**
+- ordered source-page comments: **6 / 6 preserved**
+- blockers: **0**
+
+#### T0 source prerequisite — PASS
+
+- frozen Article-5 assembly was re-fetched directly and matched required blob `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`;
+- assembly status `strict-reviewed` and source span `28–33`: confirmed;
+- the controlling scan range was checked against the supplied source PDF;
+- user-reviewed damaged readings scan 28 `சூத்திரர்களை`, scan 29 `புயலெனச்`, and scan 30 `இதுதானா` remain unchanged in the Tamil authority;
+- Tamil source changes: **0**.
+
+#### T1 close draft — PASS
+
+- complete Article 5 translated paragraph-by-paragraph from the frozen Tamil assembly only;
+- all **6 / 6** ordered source-page comments preserved;
+- opening Indra/Agni quotations, Aryanism petition frame, Congress repression list, arrows/blank-shot warning imagery, direct address to Dravidians, sea/breeze/moon/fire imagery, search/investigation sequence, police-darbar accusation, Aryan-heart counter-search, religious-axis/spear/conspiracy-store imagery and closing `சாதனை / சோதனை` turn all retained;
+- direct address, accusations, commands, rhetorical questions, repetition, exclamation, ellipses and dashes preserved rather than smoothed into academic prose;
+- source-bearing **Aryanism**, **Dravidians**, **Shudras**, **Vedas**, **Agamas**, **Puranas**, **Itihasas**, quoted **‘Hindu’**, **‘religious neutrality’**, **‘class hatred’**, **Section 144**, **police darbar** and movement terminology retained without outside explanatory insertion;
+- `சோதனை` is rendered contextually: **search** in the raid/search-the-heart passages, then **trial / test** in the closing line;
+- working title **Search!** remains provisional: the article strongly supports the police-search sense, but its final line deliberately broadens `சோதனை` to life-trial/victory-test senses; final title decision is deferred to T4 as required;
+- `சந்தர்ப்பபேத` currently reads **divisions manufactured to suit the occasion** and remains a T2/T4 review point;
+- no OCR, web text, raw transcript or historical alternate wording was used as translation authority.
+
+T1 review flags carried forward, not blockers:
+
+1. final title sense for `சோதனை!` at T4;
+2. contextual nuance of `சந்தர்ப்பபேத` during T2/T4.
+
+**ARTICLE 5 T0/T1 RESULT: PASS / DRAFT.**
+
+---
 
 ### Article 6 — `வீரமுழக்கஞ் செய்திடுவீர்!`
 
@@ -215,4 +247,4 @@ T3 deliberately retained source-bearing or deliberately abrasive forms rather th
 
 ## Exact next activity
 
-Proceed with **Article 5 — `சோதனை!` — T0 source-pin confirmation followed by T1 complete English draft**, using frozen Tamil blob `3eec6fa58a307cf1b0350a9a26f45a114908a9dd`. Review the title sense in context during T1 but do not finalize it before T4. Preserve verified Articles 1–4.
+Proceed with **Article 5 — `சோதனை!` — T2 bilingual fidelity review**. Re-fetch frozen Tamil blob `3eec6fa58a307cf1b0350a9a26f45a114908a9dd` and the T1 English draft, compare them clause-by-clause, correct omissions/additions/referents/logical relations if found, preserve all **6 / 6** ordered source-page comments, and keep the title **Search!** provisional until T4. Preserve verified Articles 1–4 and do not begin Article 6.
