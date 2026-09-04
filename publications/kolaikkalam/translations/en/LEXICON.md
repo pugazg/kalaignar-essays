@@ -19,7 +19,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `சர்க்கார்` | Government | Context may require government/administration. | E0 | provisional |
 | `அஸ்தி` | ashes | Preserve source quotation marks where present. Article 2 deliberately keeps **dissolve** across ritual and blood-sea uses to retain the repeated `கரை` image. | E0 / A2 T1 | **verified A2 T4** |
 | `சோதனை` | search / test / trial | Unit 5 is context-sensitive; do not force one rendering mechanically. | E0 | provisional |
-| `விழல்` | weeds / barren growth | Image-sensitive Unit-4 title term; final rendering requires T1/T4 review. | E0 | provisional |
+| `விழல்` | weeds | Article 4 uses the repeated futile-labour image **poured water on weeds / shall not cease pouring water on weeds**; title **Watering the Weeds...** preserves the image without adding an explanatory gloss. | E0 / A4 T1 | **verified A4 T4** |
 | `வீரமுழக்கம்` / `வீரமுழக்கஞ்` | heroic cry / battle cry | Preserve exhortative force; title working choice is `Raise the Heroic Cry!`. | E0 | provisional |
 | `கொலைக்களம்` | killing field | Article 1 title **The Killing Field!**. | A1 T1 | **verified A1 T4** |
 | `போர் முரசு` | war drum | Preserve martial image rather than flattening to “war”. | A1 T1 | **verified A1 T4** |
@@ -61,6 +61,13 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `அபிஷேகம்` | abhishekam | Source-bearing ritual term. | A3 T1 | **verified A3 T4** |
 | `அரசியல் நிர்ணய சபை` | Constituent Assembly | Functional English rendering of source institutional label. | A3 T1 | **verified A3 T4** |
 | `சென்னை சட்ட சபை` | Chennai Legislative Assembly | Keep the source `சென்னை` label rather than silently historical-normalising it. | A3 T1 | **verified A3 T4** |
+| `வீரசுருதி` | pitch of valour | Article 4 keeps the musical/political image; source `நாலரைக் கட்டை / அரைக்கட்டை` remains **four-and-a-half kattai / half a kattai** rather than receiving an unsupported technical expansion. | A4 T1 | **verified A4 T4** |
+| `சுயராஜ்யம் / சுகராஜ்யம்` | self-rule / good-rule | Preserve the source wordplay by parallel English compounds rather than collapsing it into a paraphrase. | A4 T1 | **verified A4 T4** |
+| `சண்டாளத்தனம்` | Chandala-ness | Preserve the source's abrasive caste-bearing formulation without silently neutralising or expanding it. | A4 T1 | **verified A4 T4** |
+| `சந்தி சிரிக்கும்` | makes the street-corners laugh | Preserve the repeated ridicule image rather than replacing it with detached “public embarrassment”. | A4 T1 | **verified A4 T4** |
+| `முதலாளித்தத்துவச் சாக்கடை` | capitalist sewer | Preserve the deliberately degrading image. | A4 T1 | **verified A4 T4** |
+| `ஏகாதிபத்தியத்தின் முரசு` | drum of imperialism | Preserve the source's martial/public-proclamation image. | A4 T1 | **verified A4 T4** |
+| `காங்கிரஸ் புராணம்` | Congress Purana | Preserve the satirical source label rather than normalising it to “history of Congress”. | A4 T1 | **verified A4 T4** |
 
 ## Proper-name / source-label policy
 
@@ -70,14 +77,15 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 - Article 1 uses **Truman**, **Gromyko**, **Stalin**, **Attlee**, **George Marshall**, **Pandit Nehru**, **Pakistan**, **Hindustan**, **Mussolini**, **Hitler**, **Goering** and **Hiroshima**.
 - Article 2 retains source-chosen **Jawahar**, **Bhashyam Iyengar**, **Achariyar**, **Mithran—Hindu**, **Velayudham**, **Udayarpalayam**, **Dravidar Kazhagam**, **Vibhishanas**, **Venganna** and **Chanakyan** without outside expansion.
 - Article 3 retains **Gora Kumbhar**, **Bharat Mata**, **V.O. Chidambaram**, **Tiruppur Kumaran**, **Comrade Durgabai**, **Saraswati**, **Arjuna** and **Draupadi** with no added historical explanation in the body.
+- Article 4 retains source-bearing **Madana**, **Prakasam**, **Omandurar**, **Chokkalingam**, **Dinasaari**, **Bharata Devi**, **Sri Vaidyanatha Iyer**, **Vadapathimangalam**, **Naadi Muthus** and **Vaidyanatha Iyers** without outside identification or harmonisation.
 
 ## Title status
 
 - `கொலைக்களம்!` → **The Killing Field!** — **verified A1 T4/T5**.
 - `‘அஸ்தி’ கரையட்டும்!` → **Let the ‘Ashes’ Dissolve!** — **verified A2 T4/T5**.
 - `பலியை நிறுத்துங்கள்!` → **Stop the Sacrifice!** — **verified A3 T4/T5**.
-- `விழலுக்கு நீர் இறைத்து...` → working **Watering the Weeds...** — final image choice pending T1/T4.
+- `விழலுக்கு நீர் இறைத்து...` → **Watering the Weeds...** — **verified A4 T4/T5**; the repeated Article-4 image makes the title's futile-labour force clear without adding an explanatory subtitle.
 - `சோதனை!` → working **Search!** — context-sensitive title pending T1/T4.
 - `வீரமுழக்கஞ் செய்திடுவீர்!` → working **Raise the Heroic Cry!**.
 
-Articles 1–3 titles are verified; Articles 4–6 remain provisional until their own gates.
+Articles 1–4 titles are verified; Articles 5–6 remain provisional until their own gates.
