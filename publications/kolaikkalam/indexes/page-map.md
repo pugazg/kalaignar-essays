@@ -8,7 +8,7 @@ Physical scans: **40**
 - This map records **physical scan order** and only **source-visible printed page numerals**.
 - No missing numeral is inferred from sequence.
 - Unit boundaries are based on directly visible heading starts and the next heading/end witness.
-- P2 direct visual readings supersede earlier P1 convenience/normalized lexical labels when a discrepancy is found.
+- Reconciled direct visual readings supersede earlier P1/P2 convenience or normalized lexical labels when a discrepancy is found.
 
 ## Canonical page map
 
@@ -55,12 +55,13 @@ Physical scans: **40**
 | 39 | `39` | continuation | Unit 6 | verified |
 | 40 | `40` | ending + printer line | Unit 6 / final imprint | verified |
 
-## P2 source corrections
+## Durable source corrections
 
-- scan 2 publication-data record directly reads `எச். எஸ். ராமுலு கம்பெனி` and the associated Chennai address;
+- scan 2 publication-data record directly reads `எம். எஸ். ராமுலு கம்பெனி` and the associated Chennai address;
 - scan 4 signed ending directly reads `மு. நமசிவாயம்` / `பண்ணையாளர்.`;
 - scan 34 heading directly reads **`வீரமுழக்கஞ் செய்திடுவீர்!`**, superseding the earlier normalized P1 label `வீரமுழக்கம் செய்திடுவீர்!`;
-- scan 40 final printer witness is **`ஸ்ரீமகள் பிரஸ், சென்னை—1`**.
+- scan 40 final printer witness is **`ஸ்ரீமகள் பிரஸ், சென்னை—1`**;
+- the 2026-09-04 lexical reconciliation and user-reviewed damaged readings are recorded in `../LEXICAL_RECONCILIATION_2026-09-04.md` and control over older P2 lexical forms.
 
 ## Visible printed-page behaviour
 
@@ -88,7 +89,7 @@ No implied numeral is inserted into the diplomatic layer for an unnumbered scan.
 
 Scan 40 contains the end of Unit 6 and the printed printer witness `ஸ்ரீமகள் பிரஸ், சென்னை—1`; there is no separate back-cover scan in this supplied PDF.
 
-## P2 result
+## Current result
 
 - physical scans structurally mapped: **40 / 40**;
 - printed numerals inferred: **0**;
@@ -97,10 +98,9 @@ Scan 40 contains the end of Unit 6 and the printed printer witness `ஸ்ரீ
 - main prose units: **6**;
 - P2 page records: **40 / 40 verified**;
 - direct lexical page verification: **40 / 40**;
-- unresolved P2 page readings: **0**;
-- P2: **COMPLETE / PASS**;
+- post-P2 lexical reconciliation: **complete for adjudicated differences through scan 39**;
 - P3 article assemblies: **0 / 6 — NOT STARTED**.
 
 ## Exact next activity
 
-**P3 — assemble the six canonical main prose units from these verified page records.** This P2 activity stops before P3.
+**P3 — assemble the six canonical main prose units from the reconciled live page records.** Read `../LEXICAL_RECONCILIATION_2026-09-04.md` before assembly.
