@@ -20,20 +20,21 @@ No dedicated printed contents/table-of-contents page appears anywhere in the sup
 
 ## Canonical main-unit inventory
 
-| Unit | Source heading witness | Scan span | Start evidence | End evidence | P2 page layer |
-|---:|---|---:|---|---|---|
-| 1 | `கொலைக்களம்!` | **5–9** | heading on scan 5 | scan 9 closes before scan-10 heading | **5 / 5 verified** |
-| 2 | `‘அஸ்தி’ கரையட்டும்!` | **10–16** | heading on scan 10 | scan 16 closes before scan-17 heading | **7 / 7 verified** |
-| 3 | `பலியை நிறுத்துங்கள்!` | **17–22** | heading on scan 17 | scan 22 closes before scan-23 heading | **6 / 6 verified** |
-| 4 | `விழலுக்கு நீர் இறைத்து...` | **23–27** | heading on scan 23 | scan 27 closes before scan-28 heading | **5 / 5 verified** |
-| 5 | `சோதனை!` | **28–33** | heading on scan 28 | scan 33 closes before scan-34 heading | **6 / 6 verified** |
-| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | **34–40** | direct heading witness on scan 34 | scan 40 source ending + printer line | **7 / 7 verified** |
+| Unit | Source heading witness | Scan span | Start evidence | End evidence | P2 page layer | P3 assembly |
+|---:|---|---:|---|---|---|---|
+| 1 | `கொலைக்களம்!` | **5–9** | heading on scan 5 | scan 9 closes before scan-10 heading | **5 / 5 verified** | `articles/01-kolaikkalam.md` |
+| 2 | `‘அஸ்தி’ கரையட்டும்!` | **10–16** | heading on scan 10 | scan 16 closes before scan-17 heading | **7 / 7 verified** | `articles/02-asthi-karaiyattum.md` |
+| 3 | `பலியை நிறுத்துங்கள்!` | **17–22** | heading on scan 17 | scan 22 closes before scan-23 heading | **6 / 6 verified** | `articles/03-paliyai-niruththungal.md` |
+| 4 | `விழலுக்கு நீர் இறைத்து...` | **23–27** | heading on scan 23 | scan 27 closes before scan-28 heading | **5 / 5 verified** | `articles/04-vizhalukku-neer-iraiththu.md` |
+| 5 | `சோதனை!` | **28–33** | heading on scan 28 | scan 33 closes before scan-34 heading | **6 / 6 verified** | `articles/05-sothanai.md` |
+| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | **34–40** | direct heading witness on scan 34 | scan 40 source ending + printer line | **7 / 7 verified** | `articles/06-veeramuzhakkam-seythiduveer.md` |
 
 ## Durable source corrections
 
 - scan 2 publication-data record controls the distributor/address reading, including `எம். எஸ். ராமுலு கம்பெனி`;
 - scan 4 signature is **`மு. நமசிவாயம்`**, not the earlier P1 identification `மு. கருணாநிதி`;
 - scan 34 heading is **`வீரமுழக்கஞ் செய்திடுவீர்!`**, not the earlier normalized P1 form `வீரமுழக்கம் செய்திடுவீர்!`;
+- scan 34 body reading **`பலம்`** is the user's manually confirmed controlling reading and supersedes the earlier misread `பலழ்`;
 - scan 40 printer witness is **`ஸ்ரீமகள் பிரஸ், சென்னை—1`** and is not part of Unit 6 prose body;
 - the post-P2 lexical reconciliation is recorded in `../LEXICAL_RECONCILIATION_2026-09-04.md` and supersedes older page-word readings wherever corrected.
 
@@ -55,9 +56,10 @@ No dedicated printed contents/table-of-contents page appears anywhere in the sup
 - source scans accounted for structurally: **40 / 40**;
 - P2 page records: **40 / 40 verified**;
 - direct lexical page verification: **40 / 40**;
-- post-P2 lexical reconciliation: **complete for adjudicated differences through scan 39**;
-- P3 article/unit assemblies: **0 / 6 — NOT STARTED**.
+- post-P2 lexical reconciliation: **complete for adjudicated differences through scan 39, with later scan-34 manual correction propagated**;
+- P3 article/unit assemblies: **6 / 6 — COMPLETE / PASS**;
+- P3 completion record: `../P3_COMPLETION.md`.
 
 ## Exact next activity
 
-**P3 — assemble the six canonical main prose units from the reconciled live page records.** Preserve source wording and page provenance. Do not begin English translation.
+**P4 — source/completeness audit of all six P3 assemblies against the reconciled canonical page layer.** Verify complete scan coverage, start/end boundaries, page-boundary continuity, source-supported headings/subheadings, absence of physical-copy/audit text in article prose, and exclusion of the scan-40 printer witness from Unit 6 prose. Do not perform P5 or begin English translation in the same activity.
