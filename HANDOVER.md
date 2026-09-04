@@ -26,7 +26,7 @@ Source PDFs are never committed. English translation follows:
 - **Live `main` is authoritative.**
 - Never reset, overwrite, repeat or reopen later durable work because an older prompt records an earlier checkpoint.
 - Re-fetch target files before writes.
-- Last confirmed live HEAD immediately before this handover synchronization: `04c9bd5e165d189b45bd6d7793fb0ea32ed50dd7` — `Record Kolaikkalam P3 completion in README`.
+- Last confirmed live HEAD immediately before this handover synchronization: `b5742661e220d51c7367fdd4b8ec53e7390fb9af` — `Record Kolaikkalam P4 status in contents map`.
 
 ---
 
@@ -129,7 +129,7 @@ Do not reopen without a genuine source-supported or release-blocking defect.
 
 ---
 
-# Publication 7 — கொலைக்களம்! — P0–P3 COMPLETE / RECONCILED / ACTIVE
+# Publication 7 — கொலைக்களம்! — P0–P4 COMPLETE / RECONCILED / ACTIVE
 
 Workspace: `publications/kolaikkalam/`  
 Controlling source: `TVA_BOK_0063657_கொலைக்களம்.pdf`
@@ -244,6 +244,24 @@ P3 article/unit assembly is complete:
 
 Assemblies were built only from reconciled page records. Source wording, punctuation, paragraph sequence and page-boundary provenance were preserved. The scan-40 printer witness was excluded from Unit 6 prose body.
 
+## P4 completion
+
+P4 source/completeness audit is complete:
+
+- durable audit record: `publications/kolaikkalam/P4_SOURCE_COMPLETENESS_AUDIT.md`;
+- assemblies audited: **6 / 6 COMPLETE / PASS**;
+- main-unit source scans checked in assembly layer: **36 / 36 (5–40)**;
+- missing/duplicate/out-of-order assembly scans: **0**;
+- start/end boundary defects: **0**;
+- page-boundary continuity defects: **0**;
+- source-supported heading/subheading defects: **0**;
+- physical-copy/audit contamination in article prose: **0**;
+- scan-40 printer witness leakage into Unit 6 prose: **0**;
+- assembly-only corrections required: **0**;
+- blockers: **0**.
+
+P4 did not re-run the separate P5 visual fidelity gate and did not alter the six P3 article bodies.
+
 ## Gate status
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**
@@ -251,7 +269,7 @@ Assemblies were built only from reconciled page records. Source wording, punctua
 - P2 — page-level transcription/direct lexical verification: **COMPLETE / PASS — 40 / 40**
 - post-P2 lexical reconciliation: **COMPLETE for adjudicated differences through scan 39, with later scan-34 manual correction propagated**
 - P3 — article/unit assemblies: **COMPLETE / PASS — 6 / 6**
-- P4 — source/completeness audit: **NOT STARTED**
+- P4 — source/completeness audit: **COMPLETE / PASS — 6 / 6**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
 - English translation: **NOT STARTED**
 - blockers: **0**
@@ -262,13 +280,14 @@ The supplied scan is controlling. Preserve source-visible old glyphs, spelling, 
 
 ## Exact next activity
 
-**P4 — source/completeness audit of all six P3 assemblies against the reconciled canonical page layer.**
+**P5 — strict visual word-by-word / punctuation-by-punctuation fidelity pass over all 40 physical scans.**
 
 1. Fetch live `main` first and preserve newer durable work.
-2. Read this handover, `publications/kolaikkalam/P3_COMPLETION.md`, `publications/kolaikkalam/LEXICAL_RECONCILIATION_2026-09-04.md`, all six live assemblies, and their canonical page records.
-3. Verify each assembly covers its exact scan span with no missing or duplicated page body.
-4. Verify start/end boundaries and every page-boundary continuation.
-5. Verify source-supported headings/internal subheadings and ensure no physical-copy or audit text entered article prose.
-6. Confirm the scan-40 printer witness remains outside Unit 6 prose body.
-7. Record and propagate any assembly-only defect found.
-8. Stop after P4. P5 remains a separate strict visual word/punctuation fidelity gate; English translation remains out of scope.
+2. Read this handover, `ESSAY_PROCESSING_GUIDE.md` section 12, `publications/kolaikkalam/P4_SOURCE_COMPLETENESS_AUDIT.md`, `publications/kolaikkalam/LEXICAL_RECONCILIATION_2026-09-04.md`, all 40 canonical page records, and all six live assemblies.
+3. Return to the controlling PDF and directly recheck every physical scan 1–40.
+4. Compare every visible word, word boundary/spacing, punctuation mark, quotation mark, heading, number/date and paragraph continuation against the page record.
+5. Preserve the nine user-reviewed controlling damaged readings unless a later source-supported correction is explicitly established.
+6. Record every P5 correction as old reading → source-visible reading with page provenance and propagate it into the relevant assembly and dependent records.
+7. Recheck all six assemblies after any propagation.
+8. Create the publication-level visual-text-fidelity report required by `ESSAY_PROCESSING_GUIDE.md`.
+9. Stop after P5. Do **not** begin English translation unless a later explicit activity authorises it.
