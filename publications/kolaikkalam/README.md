@@ -53,6 +53,7 @@ Canonical records:
 - [`P2_COMPLETION.md`](P2_COMPLETION.md)
 - [`LEXICAL_RECONCILIATION_2026-09-04.md`](LEXICAL_RECONCILIATION_2026-09-04.md)
 - [`P3_COMPLETION.md`](P3_COMPLETION.md)
+- [`P4_SOURCE_COMPLETENESS_AUDIT.md`](P4_SOURCE_COMPLETENESS_AUDIT.md)
 
 ## Printed-page behaviour
 
@@ -119,10 +120,25 @@ P3 is complete for all six canonical units:
 - all assemblies were concatenated only from reconciled live page records;
 - source wording, punctuation, paragraph sequence and page-boundary provenance are preserved;
 - source-supported internal headings/subheadings are retained;
-- scan-40 printer witness is outside Unit 6 prose body;
-- no P4/P5 or English work was performed as part of P3.
+- scan-40 printer witness is outside Unit 6 prose body.
 
-See `P3_COMPLETION.md` for the assembly ledger and frozen P3 blob SHAs.
+See `P3_COMPLETION.md` for the assembly ledger and P3 blob SHAs.
+
+## P4 source / completeness audit
+
+P4 is **COMPLETE / PASS** for all six assemblies.
+
+- assemblies audited: **6 / 6**;
+- main-unit source scans covered in assemblies: **36 / 36 (scans 5–40)**;
+- missing, duplicate or out-of-order assembly scans: **0**;
+- start/end boundary defects: **0**;
+- page-boundary continuity defects: **0**;
+- physical-copy/audit text contamination in article prose: **0**;
+- scan-40 printer witness leakage into Unit 6 prose: **0**;
+- assembly-only corrections required: **0**;
+- blockers: **0**.
+
+See `P4_SOURCE_COMPLETENESS_AUDIT.md` for the unit-by-unit audit ledger.
 
 ## Gate status
 
@@ -131,7 +147,7 @@ See `P3_COMPLETION.md` for the assembly ledger and frozen P3 blob SHAs.
 - P2 — page-level transcription: **COMPLETE / PASS — 40 / 40**
 - post-P2 lexical reconciliation: **COMPLETE for adjudicated differences through scan 39, with later scan-34 manual correction propagated**
 - P3 — article/unit assemblies: **COMPLETE / PASS — 6 / 6**
-- P4 — source/completeness audit: **NOT STARTED**
+- P4 — source/completeness audit: **COMPLETE / PASS — 6 / 6**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
 - physical scans structurally mapped: **40 / 40**
 - canonical main prose units: **6**
@@ -145,12 +161,12 @@ The supplied PDF scan is controlling. Do not silently modernise, correct, normal
 
 ## Exact next activity
 
-**P4 — source/completeness audit of all six P3 assemblies against the reconciled canonical page layer.**
+**P5 — strict visual word-by-word / punctuation-by-punctuation fidelity pass over all 40 physical scans.**
 
-1. Re-fetch live `main` and all six assembly files before audit.
-2. Verify each assembly covers its exact canonical scan span with no missing or duplicated page body.
-3. Verify article start/end boundaries and every page-boundary continuation.
-4. Verify source-supported headings and internal subheadings are retained and no editorial/physical-copy/audit text has entered article prose.
-5. Confirm the scan-40 printer witness remains outside Unit 6 prose body.
-6. Record assembly-only defects and propagate corrections if found.
-7. Stop after P4. P5 remains a separate strict visual word/punctuation fidelity gate; English remains out of scope.
+1. Return to the controlling PDF and inspect every physical scan 1–40 directly.
+2. Recheck every visible word, word boundary/spacing, punctuation mark, quotation mark, heading, number/date and paragraph continuation against the canonical page record.
+3. Record every P5 correction as old reading → source-visible reading with provenance; preserve the nine user-reviewed controlling readings unless a later source-supported correction is explicitly established.
+4. Propagate any page correction into the relevant P3 article assembly and dependent records.
+5. Recheck all six assemblies after propagation.
+6. Create the publication-level visual-text-fidelity report required by `ESSAY_PROCESSING_GUIDE.md`.
+7. Stop after P5. Do **not** begin English translation unless a later explicit activity authorises it.
