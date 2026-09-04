@@ -67,14 +67,14 @@ Printed contents page: **ABSENT / CONFIRMED**.
 
 ### Main prose units
 
-| Unit | Exact heading witness | Scan span | P3 assembly |
-|---:|---|---:|---|
-| 1 | `கொலைக்களம்!` | **5–9** | `articles/01-kolaikkalam.md` |
-| 2 | `‘அஸ்தி’ கரையட்டும்!` | **10–16** | `articles/02-asthi-karaiyattum.md` |
-| 3 | `பலியை நிறுத்துங்கள்!` | **17–22** | `articles/03-paliyai-niruththungal.md` |
-| 4 | `விழலுக்கு நீர் இறைத்து...` | **23–27** | `articles/04-vizhalukku-neer-iraiththu.md` |
-| 5 | `சோதனை!` | **28–33** | `articles/05-sothanai.md` |
-| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | **34–40** | `articles/06-veeramuzhakkam-seythiduveer.md` |
+| Unit | Exact heading witness | Scan span | P3 assembly | P4 |
+|---:|---|---:|---|---|
+| 1 | `கொலைக்களம்!` | **5–9** | `articles/01-kolaikkalam.md` | PASS |
+| 2 | `‘அஸ்தி’ கரையட்டும்!` | **10–16** | `articles/02-asthi-karaiyattum.md` | PASS |
+| 3 | `பலியை நிறுத்துங்கள்!` | **17–22** | `articles/03-paliyai-niruththungal.md` | PASS |
+| 4 | `விழலுக்கு நீர் இறைத்து...` | **23–27** | `articles/04-vizhalukku-neer-iraiththu.md` | PASS |
+| 5 | `சோதனை!` | **28–33** | `articles/05-sothanai.md` | PASS |
+| 6 | `வீரமுழக்கஞ் செய்திடுவீர்!` | **34–40** | `articles/06-veeramuzhakkam-seythiduveer.md` | PASS |
 
 The Unit-6 heading is a direct-scan correction of the earlier P1 normalized form `வீரமுழக்கம் செய்திடுவீர்!`.
 
@@ -136,14 +136,26 @@ Scan 40 was not reopened in this lexical-difference pass and remains unchanged f
 - page-boundary provenance is retained in all six assemblies;
 - the scan-40 printer witness remains outside Unit 6 prose body.
 
+## P4 source / completeness audit
+
+- P4 record: `publications/kolaikkalam/P4_SOURCE_COMPLETENESS_AUDIT.md`;
+- assemblies audited: **6 / 6 COMPLETE / PASS**;
+- main-unit scan coverage checked: **36 / 36 (scans 5–40)**;
+- missing/duplicate/out-of-order assembly scans: **0**;
+- start/end boundary defects: **0**;
+- page-boundary continuity defects: **0**;
+- physical-copy/audit contamination: **0**;
+- assembly-only corrections required: **0**;
+- blockers: **0**.
+
 ## Gate status
 
 - P0: **COMPLETE / PASS**
 - P1: **COMPLETE / PASS, with later source corrections propagated**
 - P2 lexical page transcription: **COMPLETE / PASS — 40 / 40**
-- post-P2 lexical reconciliation: **COMPLETE for adjudicated differences through scan 39**
+- post-P2 lexical reconciliation: **COMPLETE for adjudicated differences through scan 39, with later scan-34 manual correction propagated**
 - P3: **COMPLETE / PASS — 6 / 6**
-- P4: **NOT STARTED**
+- P4: **COMPLETE / PASS — 6 / 6**
 - P5 strict visual fidelity: **NOT STARTED**
 - article/unit assemblies: **6 / 6**
 - English translation: **NOT STARTED**
@@ -151,4 +163,4 @@ Scan 40 was not reopened in this lexical-difference pass and remains unchanged f
 
 ## Exact next activity
 
-**P4 — source/completeness audit of all six P3 assemblies against the reconciled canonical page layer.** Verify complete scan coverage, unit boundaries, page-boundary continuity, headings/subheadings, and exclusion of physical-copy/audit text and the scan-40 printer witness from article prose. Do not perform P5 or begin English translation in the same activity.
+**P5 — strict visual word-by-word / punctuation-by-punctuation fidelity pass over all 40 physical scans, with correction provenance and propagation into the six assemblies where necessary.** Create the publication-level visual-text-fidelity report required by `ESSAY_PROCESSING_GUIDE.md`. Do not begin English translation.
