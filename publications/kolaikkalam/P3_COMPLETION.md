@@ -24,23 +24,36 @@ Article/unit assemblies: **6 / 6 COMPLETE**.
 - preserved the user-reviewed damaged readings recorded in `LEXICAL_RECONCILIATION_2026-09-04.md`, including scan 34 `பலம்`;
 - retained printed unit-ending rules where represented in the canonical page layer;
 - kept the scan-40 printer witness `ஸ்ரீமகள் பிரஸ், சென்னை—1` outside Unit 6 prose body;
-- did not reopen P2 or begin P4/P5;
 - English translation remains out of scope.
 
-## Gate status after P3
+## Subsequent P4 audit result
+
+P4 has now audited the six P3 assemblies against the reconciled canonical page layer. See `P4_SOURCE_COMPLETENESS_AUDIT.md`.
+
+- assemblies audited: **6 / 6 PASS**;
+- main-unit scans covered: **36 / 36 (5–40)**;
+- missing, duplicate or out-of-order assembly scans: **0**;
+- start/end boundary defects: **0**;
+- page-boundary continuity defects: **0**;
+- source-supported heading/subheading defects: **0**;
+- physical-copy/audit contamination in article prose: **0**;
+- scan-40 printer witness leakage into Unit 6 prose: **0**;
+- assembly-only corrections required: **0**.
+
+The six P3 body blobs therefore remain unchanged after P4.
+
+## Current gate status
 
 - P0: **COMPLETE / PASS**
 - P1: **COMPLETE / PASS**
 - P2: **COMPLETE / PASS — 40 / 40**
 - post-P2 lexical reconciliation: **COMPLETE for adjudicated differences through scan 39, with later user correction on scan 34 propagated**
 - P3: **COMPLETE / PASS — 6 / 6 assemblies**
-- P4: **NOT STARTED**
+- P4: **COMPLETE / PASS — 6 / 6 assemblies audited**
 - P5: **NOT STARTED**
 - English translation: **NOT STARTED**
 - blockers: **0**
 
 ## Exact next activity
 
-**P4 — source/completeness audit of all six P3 assemblies against the reconciled canonical page layer.**
-
-Check each assembly for complete scan coverage, correct start/end boundaries, page-boundary continuity, source-supported headings/subheadings, absence of physical-copy/audit text inside prose, and exclusion of the scan-40 printer witness from Unit 6 prose. Record any assembly-only defect and propagate a correction if found. Do not perform the separate P5 strict visual word/punctuation fidelity pass in the same activity, and do not begin English translation.
+**P5 — strict visual word-by-word / punctuation-by-punctuation fidelity pass over all 40 physical scans, with any corrections propagated into the canonical page records and six P3 assemblies, followed by a publication-level visual-text-fidelity report.** Do not begin English translation.
