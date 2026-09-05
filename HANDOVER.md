@@ -175,77 +175,104 @@ No activity is pending for `கொலைக்களம்!`.
 
 ---
 
-# Publication 8 — சிந்தனையும் செயலும் — INTAKE STAGED / CONTROLLING SCAN NOT YET RESOLVED
+# Publication 8 — சிந்தனையும் செயலும் — P0/P1 COMPLETE / P2 NEXT
 
-Expected workspace after scan confirmation: `publications/sinthanaiyum-seyalum/`
+Workspace: `publications/sinthanaiyum-seyalum/`
 
-## Intake status
+## Controlling source
 
-The user has explicitly selected `சிந்தனையும் செயலும்` as the next publication and supplied bibliographic/intake information, but **no controlling PDF is available in the current conversation and no matching PDF was found in the accessible file Library**. Therefore P0 source intake cannot yet be completed and no scan-derived publication files or page records have been created.
+The controlling witness is one **226-scan publication** supplied as five non-overlapping transfer PDFs under source identifier `TVA_BOK_0065568`.
 
-Repository search on live `main` found no existing `சிந்தனையும் செயலும்` publication or matching text, so there is no prior repository tree to continue at this checkpoint.
+| Part | Global scans | PDF pages | Bytes | SHA-256 |
+|---:|---:|---:|---:|---|
+| 001 | 1–55 | 55 | 139,200,528 | `55b55a445972248515c549c3c18223412f784220baf3e959367fe8d0a7f7c53d` |
+| 002 | 56–109 | 54 | 137,950,874 | `f8f98c948b1c0bba3960905350a97bd6e68a5eeef9107bc0dd9dcf9ea03e578a` |
+| 003 | 110–164 | 55 | 138,370,584 | `c05d1a108bff78d018ef542a0afadea62f9802ab7e982b0cf4d97cb789b702cd` |
+| 004 | 165–219 | 55 | 138,940,454 | `7bcb93642b2291a575c82a10b08800ce8892e894e1807040da50d830102b60bc` |
+| 005 | 220–226 | 7 | 18,787,263 | `d587cc69c41db3c8c2c34a8e4e41e28ef34fe47b7b5c0379df898ef603cf3228` |
 
-## User-supplied expected identity — NOT YET SCAN-VERIFIED
+- physical scans: **226**
+- split-set size: **573,249,703 bytes**
+- split continuity: **PASS — no gaps or overlaps**
+- original unsplit-PDF SHA-256: **not available from the supplied split files; never fabricate it**
+- source PDFs committed to repository: **No**
 
-These details are intake clues only until the actual supplied scan is inspected:
+## Scan-verified printed identity
 
-- expected title: `சிந்தனையும் செயலும்`
-- expected author: `கலைஞர் மு. கருணாநிதி`
-- expected publisher: `தமிழ்க்கனி பதிப்பகம்`
-- expected edition: `மூன்றாம் பதிப்பு, 2010`
-- user description: a collection containing two Murasoli letters — `பாசியும் தூசியும்` dated **27.04.2005** and `அதிக உயரம் தாண்டுவதற்கு` dated **29.04.2005** — together with **50 articles**.
+Direct P0/P1 visual inspection establishes:
 
-A separate older bibliographic witness accessible outside the repository describes a **first edition, June 2006** from the same publisher. That older-edition witness must **not** be used to normalise, replace, or infer the controlling 2010 third-edition scan. Edition-specific differences must remain separate.
+- cover/title: `சிந்தனையும் செயலும்`
+- author: `கலைஞர் மு. கருணாநிதி`
+- publisher witness on scan 5: `தமிழ்க்கனி பதிப்பகம்`
+- first edition: `ஜூன், 2006`
+- second edition: `மார்ச், 2007`
+- third edition: `ஜனவரி, 2010`
+- rights: `ஆசிரியருக்கே`
+- price: `ரூ. 120/-`
+- printer: `ஈகில் பிரஸ், சென்னை - 600 013.`
+- title/back-cover sales-rights witness: `பூம்புகார் பதிப்பகம்`, Chennai.
 
-## Source identity — UNRESOLVED
+Front matter also contains `பதிப்புரை` on scans 6–7 and `அணிந்துரை` by `டாக்டர் வா. செ. குழந்தைசாமி` on scans 8–12. Printed `பொருளடக்கம்` occupies scans 14–15.
 
-- controlling source filename: **not available**
-- source SHA-256: **not available**
-- file size: **not available**
-- physical scan count: **not available**
-- title / author / publisher / edition as printed in scan: **not yet verified**
-- printed contents / article count as printed: **not yet verified**
-- source PDF committed to repository: **No**
+## Publication structure — P1
 
-## Publication structure
+- scans 1–17: cover/front matter/contents/internal-title/blank-verso witnesses;
+- scans 18–225: body area;
+- scan 226: back-cover/promotional witness;
+- printed contents: **50 numbered units total**;
+- Unit 1 `பாசியும் - தூசியும்!` — contents start printed page 17; expected scans 18–23; directly visible closing date **27-4-2005**;
+- Unit 2 `அதிக உயரம் தாண்டுவதற்கு` — contents start printed page 23; expected scans 24–27; directly visible closing date **29-4-2005**;
+- Units 3–50: P1 contents-derived expected spans are recorded in `indexes/page-map.md`; final boundaries remain pending direct P2 visual verification.
 
-Not yet created. Per repository policy, do not create scan-derived `metadata/source.md`, contents mapping, page map, page records, article boundaries, or assemblies until the actual controlling scan is resolved and inspected.
+The separate user/older bibliographic description says “two letters and 50 articles.” Preserve that statement as a separate bibliographic witness only. The controlling scan's own contents numbers **50 units total**, with Units 1–2 being the two letter-form pieces. Do **not** silently turn the scan into 52 units.
+
+## Source-witness distinctions that must not regress
+
+- `தமிழ்க்கனி பதிப்பகம்` publisher witness and `பூம்புகார் பதிப்பகம்` sales-rights witness serve different printed functions; do not collapse them.
+- contents titles and article-heading titles are independent witnesses; P2 must preserve punctuation/spelling differences instead of normalising them.
+- scan 226 promotional/back-cover excerpts are not body authorities.
+- the external “2 letters + 50 articles” description is not authority over the scan's 50-entry contents.
+- cover, title page, internal title page and back cover remain separate source witnesses.
+
+## Physical-copy condition
+
+Intake inspection shows circular library stamps on front matter, yellow/brown spotting/foxing, handling stains and bleed-through on blank/verso leaves. Printed text and physical-copy marks must remain in separate sections.
 
 ## Tamil archival status
 
-- P0 source intake: **BLOCKED — controlling scan unavailable**
-- P1 metadata + page map + contents mapping: **NOT STARTED**
-- P2 page-level transcription: **NOT STARTED**
-- P3 article assemblies: **NOT STARTED**
-- P4 source audit: **NOT STARTED**
+- P0 source intake / split resolution: **COMPLETE / PASS**
+- P1 metadata + contents + page map: **COMPLETE / PASS**
+- physical scan records: **226 / 226 CREATED**
+- front/back records structurally inspected but not source-complete: **18 partial** (scans 1–17 and 226)
+- body page records: **208 not-started** (scans 18–225)
+- pages marked `verified`: **0 / 226**
+- P2 direct transcription/verification: **NOT STARTED / NEXT**
+- P3 article assemblies: **0 / 50; NOT STARTED**
+- P4 source/completeness audit: **NOT STARTED**
 - P5 strict visual word/punctuation pass: **NOT STARTED**
-- direct page verification: **0 / unknown**
-- article assemblies: **0 / unknown**
-- unresolved body readings: **not assessable until scan inspection**
-- Tamil archival phase: **INTAKE STAGED / SOURCE BLOCKED**
+- Tamil archival phase: **P0/P1 COMPLETE / P2 ACTIVE NEXT**
 
 ## English translation status
 
 - English translation: **NOT STARTED**
-- prerequisite: complete and freeze the Tamil source through the required strict visual-fidelity gate first.
+- translation workspace: **NOT CREATED**
+- prerequisite: complete/freeze Tamil through strict P5 before English begins.
 
-## Permanent source rule
+## Current unresolved source questions
 
-The eventual supplied 2010 third-edition scan is the controlling witness for this publication. Do not use the older 2006 bibliographic witness, OCR, web text, memory, or another edition to silently fill or normalise the source.
-
-## Current blocker
-
-- **Controlling PDF not available in the current conversation or accessible Library.** The scan must be attached or otherwise resolved before any page-level or metadata claims can be made.
+- Exact article-heading punctuation/spelling and final start/end boundaries for most Units 3–50 remain unverified at P1; the contents-derived spans are navigation hints only.
+- Original unsplit 574 MB PDF checksum is unavailable from the five supplied transfer parts; only the exact five part hashes above are authoritative for the received source.
+- No body-text reading is being guessed from contents or outside bibliography.
 
 ## Exact next activity
 
-**Resolve/attach the actual `சிந்தனையும் செயலும்` controlling PDF, then perform P0/P1 in one coherent intake batch: compute filename/SHA-256/file size/physical scan count, visually inspect cover/title/imprint/contents and other front matter, determine the publication form and exact contents/article witnesses from the scan, create `publications/sinthanaiyum-seyalum/` with `README.md`, `metadata/source.md`, `indexes/contents.md` when applicable, `indexes/page-map.md`, and initial page records for every physical scan with non-body/front-matter classification. Do not mark any page verified without direct visual comparison.**
+**P2 — directly transcribe and verify scans 1–27 in one coherent batch: front matter scans 1–17 plus Unit 1 `பாசியும் - தூசியும்!` scans 18–23 and Unit 2 `அதிக உயரம் தாண்டுவதற்கு` scans 24–27. Record every source-visible word/punctuation and physical-copy mark, directly verify Unit-1/Unit-2 starts and endings, preserve contents-title versus heading-title differences as separate witnesses, create/refresh dependent records only from the verified page layer, and update this root handover.**
 
 ## Rules for the next session
 
 1. Fetch live `main` and read this handover first.
 2. Preserve Publications 1–7 as frozen.
-3. Resolve the actual 2010 third-edition controlling scan before creating source-derived records.
-4. Treat the user-supplied bibliographic details as expected identity until confirmed from the scan.
-5. Keep any 2006 first-edition witness separate; never use it to normalise the 2010 source.
-6. After P0/P1, update this handover with exact source identity, scan/page counts, contents/article mapping, unresolved scan difficulties, and the next transcription batch.
+3. Read `publications/sinthanaiyum-seyalum/README.md`, `metadata/source.md`, `indexes/contents.md`, and `indexes/page-map.md` before P2 writes.
+4. Treat all P1 unit spans as provisional until directly verified from scan headings/endings.
+5. Do not mark a page verified without complete direct visual comparison.
+6. Do not begin English translation.
