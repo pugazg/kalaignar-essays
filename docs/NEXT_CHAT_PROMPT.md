@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Essays / சிந்தனையும் செயலும் — P2 Scans 82–111
+# Next Chat Prompt — Kalaignar Essays / சிந்தனையும் செயலும் — Integrity Reconciliation 56–81
 
 Use this only as a convenience handoff. **Live `main` and root `HANDOVER.md` are authoritative.**
 
@@ -23,43 +23,30 @@ Read completely before changing anything:
 7. `publications/sinthanaiyum-seyalum/indexes/contents.md`
 8. `publications/sinthanaiyum-seyalum/indexes/page-map.md`
 9. `publications/sinthanaiyum-seyalum/articles/README.md`
+10. `publications/sinthanaiyum-seyalum/P2_INTEGRITY_REPAIR_56_81.md`
 
-English is not in scope yet.
+English is not in scope.
 
-## Durable P2 boundary
+## Durable P2 boundary after repair
 
-- P0/P1: **PASS**
-- physical page records: **226 / 226**
-- scans **1–81 P2 VERIFIED**
-- Units **1–17 assemblies VERIFIED**
-- unresolved readings in verified range: **0**
-- P5: **NOT STARTED**
-- English: **NOT STARTED**
-
-Preserve independent witnesses and source-sensitive forms recorded in root `HANDOVER.md`. In particular:
-
-- Unit 11 contents `வெற்றி - தோல்வி!` ↔ heading **`வெற்றி தோல்வி!`**
-- Unit 15 contents `இன்பமும் துன்பமும்` ↔ heading **`இன்பமும் துன்பமும்!`**
-
-Do not modernise or silently harmonise any witness.
+- scans **1–81 P2 page layer VERIFIED**
+- all physical page records 56–81 are present and non-placeholder after the integrity repair
+- Units **1–10 assemblies VERIFIED**
+- Units **11–17 assemblies REMOVED / PENDING REBUILD**
+- P3 verified assemblies: **10 / 50**
+- scans 82+ remain unverified
 
 ## Exact next activity
 
-**P2 — directly transcribe and verify scans 82–111 in one coherent batch, covering Units 18–25:**
+**Rebuild Units 11–17 assemblies strictly from canonical page records 56–81. Then run an explicit consistency gate proving:**
 
-18. `சோதிட சோகம்!`
-19. `ஆன்மிக ஆழ்கடல்!`
-20. `தேனில் குழைத்துக் கொடுத்தாலும்...!`
-21. `வியாதிக்கு விருந்தா?`
-22. `விளையாட்டு`
-23. `தன்னை வெல்வான்`
-24. `இட்லர்`
-25. `இங்கர்சால்`
+1. all files `pages/0056.md` through `pages/0081.md` have `status: "verified"`;
+2. none contains `_NOT STARTED._` or `_NOT YET REVIEWED._`;
+3. each rebuilt assembly uses exactly the canonical page text in scan order, with no independent rewriting;
+4. contents-vs-heading witness differences remain preserved;
+5. article scan spans and closing dates agree with `indexes/page-map.md`;
+6. README, article tracker, metadata, page-map and root handover counts agree.
 
-Source-part boundary: global scans **82–109** are in `TVA_BOK_0065568_சிந்தனையும்_செயலும்_2010_part_002_pages_56-109.pdf`; global scans **110–111** cross into Part 003. Resolve the Part 003 source before final verification of Unit 25's continuation/end and the following Unit 26 boundary.
-
-For each unit, inspect the actual supplied scan, verify heading/start and following heading/end, preserve contents-vs-heading differences, transcribe every visible word/punctuation, keep physical-copy marks separate, and create an article assembly only after all included page records are verified.
-
-After the batch, update README/source metadata/contents/page map/article tracker/root HANDOVER and record the next exact P2 batch.
+Only after this gate passes may the next P2 batch begin at scans **82–111 / Units 18–25**.
 
 Do not use OCR or outside text as authority. Source PDFs must not be committed.

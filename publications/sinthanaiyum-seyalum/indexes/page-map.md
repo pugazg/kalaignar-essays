@@ -123,7 +123,7 @@ Body span: **scans 18–225**. Scan 226 is a separate back-cover/promotional wit
 | 16 | `ஒழுக்கம்` | 75–77 | `14 - 7 - 2005` |
 | 17 | `வசிய மருந்து` | 78–81 | `18 - 7 - 2005` |
 
-Global scan **82** directly shows Unit 18 heading `சோதிட சோகம்!`, independently confirming Unit 17 ends at scan 81.
+Global scan **82** directly shows Unit 18 heading `சோதிட சோகம்!`, independently confirming Unit 17 ends at scan 81. Unit 18 itself remains pending P2.
 
 ## Current result
 
@@ -132,10 +132,14 @@ Global scan **82** directly shows Unit 18 heading `சோதிட சோகம�
 - P2 page records verified: **81 / 226**
 - P2 verified range: **1–81**
 - verified body units: **17 / 50**
-- article assemblies created from verified page layer: **17 / 50**
-- unresolved readings in verified range: **0**
+- article assemblies created from verified page layer: **10 / 50**
+- Units 11–17 assemblies: **removed / pending rebuild after integrity repair**
 - remaining direct article boundaries: **Units 18–50 pending**
+
+## Integrity note
+
+The repaired P2 page layer covers scans 1–81. Derived assemblies 11–17 were removed because the prior commit had not actually written all 26 page records for scans 56–81.
 
 ## Exact next activity
 
-**P2 scans 82–111: directly transcribe/verify Units 18–25 (`சோதிட சோகம்!` through `இங்கர்சால்`). Scans 82–109 are in Part 002; scans 110–111 cross into Part 003. Verify every heading/start and following heading/end, preserve contents-vs-heading witness differences, assemble only verified units, and update the root handover.**
+**Rebuild assemblies 11–17 from canonical page records 56–81 and pass a page/assembly consistency audit before P2 proceeds to scans 82–111.**

@@ -197,12 +197,6 @@ The controlling witness is one **226-scan publication** supplied as five non-ove
 - original unsplit-PDF SHA-256: **not available from the supplied split files; never fabricate it**
 - source PDFs committed to repository: **No**
 
-## Scan-verified printed identity
-
-P2 direct visual review confirms title `சிந்தனையும் செயலும்`, author `கலைஞர் மு. கருணாநிதி`, publisher `தமிழ்க்கனி பதிப்பகம்`, first edition `ஜூன், 2006`, second edition `மார்ச், 2007`, third edition `ஜனவரி, 2010`, rights `ஆசிரியருக்கே`, price `ரூ. 120/-`, printer **`ஈகிள் பிரஸ், சென்னை - 600 013.`**, and the separate `பூம்புகார் பதிப்பகம்` sales-rights witness.
-
-Front matter scans **1–17** are P2 verified.
-
 ## Verified body structure through Unit 17
 
 1. `பாசியும் - தூசியும்!` — **18–23**, `27- 4 - 2005`
@@ -223,21 +217,22 @@ Front matter scans **1–17** are P2 verified.
 16. `ஒழுக்கம்` — **75–77**, `14 - 7 - 2005`
 17. `வசிய மருந்து` — **78–81**, `18 - 7 - 2005`
 
-Global scan **82** directly begins Unit 18 with heading `சோதிட சோகம்!`, confirming Unit 17 ends at scan 81.
+Global scan **82** directly begins Unit 18 with heading `சோதிட சோகம்!`, confirming Unit 17 ends at scan 81. Unit 18 body remains pending P2.
 
-## Independent witness distinctions / frozen non-regression
+## Independent witness / source-sensitive non-regression
 
-- Unit 3 contents `என் பெயர் புரட்சி` ↔ heading `என் பெயர் புரட்சி!`.
-- Unit 6 contents `வாக்குச் சீட்டின் வலிமை` ↔ heading `வாக்குச்சீட்டின் வலிமை`.
-- Unit 9 contents `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`.
-- Unit 11 contents `வெற்றி - தோல்வி!` ↔ heading `வெற்றி தோல்வி!`.
-- Unit 15 contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!`.
-- P1 printer `ஈகில் பிரஸ்` was corrected by scan to `ஈகிள் பிரஸ்`.
-- contents Unit 18 is `சோதிட சோகம்!`; Unit 44 is `குரு பீடமும்; குறள் பீடமும்!`; Unit 41 preserves `வலி அறிவிக்கும் வாயில்லா மொழி !`.
-- preserve earlier source-visible forms including `கருப்பாதை`, `‘ஜனநாயக’த்தில்`, `‘துறவு’ம்`, `எதிர் காலம்`, `விலங்கொடிக்க`, `காலிப் புட்டிகளாக`, `வழங்கப்பட்டோர் பெயர்கள்`, `பிடிப்பின்றித்`, `செயலாக்கம்`, `முதன்முதல்`, `அனைத்திந்திய`, `சித்ரவதை`, `உறுதிபட`, `போதாகி மலர்கின்ற`, `அங்கனமாயின்`, `கவிதைக்குப் பூசும் தங்க முலாம்.`, `உருமாற்றவும்தான்`, `கூடவேகூடாது`.
-- preserve batch-56–81 source-visible forms including `தேறல்`, `தன்மான`, `அந்நாள்`, `ஒரு பகுதியில்`, `அல்வழிச்`, `உற்பத்தியாகக்`, `‘நகுதல்’ எனப்படும் சிரித்து மகிழ்ந்து பழகுவதே`, `மருத்துவ (டாக்டர்) நண்பர்`, `மருத்துவ நண்பருக்குரிய`, `நாகரிகமாக`, `நகுதற் பொருட்டுதான்`, `வீண் வெறுப்புக்கு`, `விளையாட்டு போலவே`, `ஓங்கி`, `ஓசை`, `ஒன்பது மணி`, `எதென்சிலும்`, `எதென்ஸ்`, `2000ஆம்`, `2004ஆம்`, `2012ஆம்`, `இஃதோர் தூண்டுதலாகட்டும்`, `நடைபெறுமேயானால்`, `காரணமானவர்களைச் சட்டத்தின்`, `வயிற்றுப் பிழைப்பு சார்`, `திருந்துவார்களோ?`, `பகுத்தறிவு பரப்புவதைத்`.
+Preserve contents and heading witnesses independently, including:
 
-Do not modernise, silently correct or harmonise these witnesses.
+- Unit 3 `என் பெயர் புரட்சி` ↔ `என் பெயர் புரட்சி!`;
+- Unit 6 `வாக்குச் சீட்டின் வலிமை` ↔ `வாக்குச்சீட்டின் வலிமை`;
+- Unit 9 `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`;
+- Unit 11 `வெற்றி - தோல்வி!` ↔ `வெற்றி தோல்வி!`;
+- Unit 15 `இன்பமும் துன்பமும்` ↔ `இன்பமும் துன்பமும்!`;
+- contents Unit 18 `சோதிட சோகம்!`, Unit 44 `குரு பீடமும்; குறள் பீடமும்!`, Unit 41 `வலி அறிவிக்கும் வாயில்லா மொழி !`.
+
+Direct scans 56–81 additionally freeze source-visible readings such as `அவளுடைய மகனுக்கு`, `அவன் கையால் அளித்ததை`, the printed Kural spacing under `அழுக்காறு`, `அனுமதியின்றி`, `உடற்பரிசோதனை`, `திரைப்படத் தயாரிப்புக்கூடம்`, `மெளனமாகவும்`, `இருவிதமாகக்`, `இஃதோர்`, unusual `வற்கைச் சட்டத்தின்`, `வயிற்றுப் பிழைப்பு`, and `பகுத்தறிவு பரப்புவதைத்`.
+
+Do not modernise, silently correct, or harmonise these source witnesses.
 
 ## Tamil archival status
 
@@ -247,7 +242,8 @@ Do not modernise, silently correct or harmonise these witnesses.
 - P2 directly verified pages: **81 / 226**
 - P2 verified range: **1–81**
 - P2 verified body units: **17 / 50**
-- P3 article assemblies: **17 / 50 VERIFIED**
+- P3 article assemblies: **10 / 50 VERIFIED**
+- Units 11–17 derived assemblies from commit `c43bfc804fff68f0617c8122d09f9a08a0ee3eab`: **INVALIDATED / REMOVED PENDING REBUILD** because that commit advanced trackers while only 12/26 page records for scans 56–81 were actually written.
 - P4 source/completeness audit: **NOT STARTED**
 - P5 strict visual word/punctuation pass: **NOT STARTED**
 - unresolved readings in verified scans 1–81: **0**
@@ -259,21 +255,26 @@ Do not modernise, silently correct or harmonise these witnesses.
 - translation workspace: **NOT CREATED**
 - prerequisite: complete/freeze Tamil through strict P5 first.
 
-## Current unresolved source questions
+## Current unresolved source / integrity questions
 
 - Units 18–50 remain pending direct P2 transcription/boundary verification.
+- Units 11–17 assemblies remain pending deterministic rebuild from the repaired canonical page layer.
 - Original unsplit 574 MB PDF checksum remains unavailable; only the five transfer-part checksums are authoritative.
 - No body-text reading may be imported from external bibliography or inferred from contents alone.
 
+## Integrity repair after `c43bfc8`
+
+Commit `c43bfc804fff68f0617c8122d09f9a08a0ee3eab` correctly advanced source review through scan 81 but incompletely wrote the canonical page layer: only scans 57, 58, 59, 62, 63, 65, 66, 67, 70, 72, 73 and 81 were changed. The repair commit restores the missing page records 56, 60, 61, 64, 68, 69, 71, 74–80 and directly rechecks scan 56 (`சங்க இலக்கியப் பூக்காடுகளில்`). Because Units 11–17 assemblies were derived while the page layer was incomplete and Unit 11 shows text drift from the page/source layer, those seven assemblies are removed from the canonical P3 layer until rebuilt.
+
 ## Exact next activity
 
-**P2 — directly transcribe and verify scans 82–111 in one coherent batch, covering Units 18–25 (`சோதிட சோகம்!` through `இங்கர்சால்`). Scans 82–109 are in Part 002 and scans 110–111 cross into Part 003. Verify each unit heading/start and the following heading/end directly from the scan, preserve contents-title versus heading-title differences as independent witnesses, record printed text and physical-copy marks separately, create article assemblies only after every included page is verified, propagate source corrections to indexes/README, and update this root handover.**
+**P3 integrity reconciliation — rebuild Units 11–17 assemblies strictly from the repaired verified page records 56–81, then run an explicit page/assembly consistency gate confirming all 26 page files are `status: verified`, none contains `_NOT STARTED._`, every assembly scan block equals its canonical page text, and tracker counts agree. Do not start scans 82–111 until this gate passes.**
 
 ## Rules for the next session
 
 1. Fetch live `main` and read this handover first.
 2. Preserve Publications 1–7 as frozen.
 3. Preserve all P2-verified scans 1–81 unless a genuine source-supported correction is found.
-4. Treat Units 18–50 P1 spans as provisional until direct visual verification.
-5. Resolve the supplied Part 003 source before final verification of global scans 110–111.
+4. Units 11–17 assemblies are pending rebuild and must not be called P3 verified until the consistency gate passes.
+5. Treat Units 18–50 P1 spans as provisional until direct visual verification.
 6. Do not begin English translation.

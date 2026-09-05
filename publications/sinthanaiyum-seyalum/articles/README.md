@@ -1,6 +1,6 @@
 # Article Assemblies — சிந்தனையும் செயலும்
 
-P2 has directly verified and assembled Units **1–17**:
+P3 currently has verified assemblies for Units **1–10**:
 
 1. [`01-paasiyum-thoosiyum.md`](01-paasiyum-thoosiyum.md) — `பாசியும் - தூசியும்!` — scans **18–23** — **VERIFIED**
 2. [`02-athiga-uyaram-thaanduvatharku.md`](02-athiga-uyaram-thaanduvatharku.md) — `அதிக உயரம் தாண்டுவதற்கு` — scans **24–27** — **VERIFIED**
@@ -12,18 +12,21 @@ P2 has directly verified and assembled Units **1–17**:
 8. [`08-manithanin-marupakkam.md`](08-manithanin-marupakkam.md) — `மனிதனின் மறுபக்கம்` — scans **46–48** — **VERIFIED**
 9. [`09-vinnai-thottu-mannil-pudhaivatha.md`](09-vinnai-thottu-mannil-pudhaivatha.md) — heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` — scans **49–51** — **VERIFIED**
 10. [`10-manithanum-marupiraviyum.md`](10-manithanum-marupiraviyum.md) — `மனிதனும் மறுபிறவியும்` — scans **52–55** — **VERIFIED**
-11. [`11-vetri-tholvi.md`](11-vetri-tholvi.md) — heading `வெற்றி தோல்வி!` — scans **56–58** — **VERIFIED**
-12. [`12-azhukkaru.md`](12-azhukkaru.md) — `அழுக்காறு` — scans **59–61** — **VERIFIED**
-13. [`13-miguthikkan.md`](13-miguthikkan.md) — `மிகுதிக்கண்...` — scans **62–65** — **VERIFIED**
-14. [`14-valivum-polivum.md`](14-valivum-polivum.md) — `வலிவும், பொலிவும்!` — scans **66–68** — **VERIFIED**
-15. [`15-inbamum-thunbamum.md`](15-inbamum-thunbamum.md) — heading `இன்பமும் துன்பமும்!` — scans **69–74** — **VERIFIED**
-16. [`16-ozhukkam.md`](16-ozhukkam.md) — `ஒழுக்கம்` — scans **75–77** — **VERIFIED**
-17. [`17-vasiya-marunthu.md`](17-vasiya-marunthu.md) — `வசிய மருந்து` — scans **78–81** — **VERIFIED**
 
-Contents-title and heading-title differences are preserved in each assembly's metadata rather than normalised. In particular, Unit 11 contents `வெற்றி - தோல்வி!` differs from heading `வெற்றி தோல்வி!`, and Unit 15 contents `இன்பமும் துன்பமும்` differs from heading `இன்பமும் துன்பமும்!`.
+Units **11–17 are not currently P3-verified assemblies.** The earlier derived files were removed during the scans-56–81 integrity repair because commit `c43bfc804fff68f0617c8122d09f9a08a0ee3eab` advanced assembly trackers while the canonical page layer was incomplete. Their P2 page boundaries remain source-reviewed and are now repaired:
 
-Units **18–50** remain pending P2 direct page verification. Their P1 spans are navigation expectations only until headings/endings are inspected from the scan.
+11. heading `வெற்றி தோல்வி!` — scans **56–58** — **P2 PAGE LAYER VERIFIED / ASSEMBLY PENDING REBUILD**
+12. `அழுக்காறு` — scans **59–61** — **P2 PAGE LAYER VERIFIED / ASSEMBLY PENDING REBUILD**
+13. `மிகுதிக்கண்...` — scans **62–65** — **P2 PAGE LAYER VERIFIED / ASSEMBLY PENDING REBUILD**
+14. `வலிவும், பொலிவும்!` — scans **66–68** — **P2 PAGE LAYER VERIFIED / ASSEMBLY PENDING REBUILD**
+15. heading `இன்பமும் துன்பமும்!` — scans **69–74** — **P2 PAGE LAYER VERIFIED / ASSEMBLY PENDING REBUILD**
+16. `ஒழுக்கம்` — scans **75–77** — **P2 PAGE LAYER VERIFIED / ASSEMBLY PENDING REBUILD**
+17. `வசிய மருந்து` — scans **78–81** — **P2 PAGE LAYER VERIFIED / ASSEMBLY PENDING REBUILD**
+
+Contents-title and heading-title differences remain independent witnesses.
+
+Units **18–50** remain pending P2 direct page verification.
 
 ## Next
 
-P2 next processes scans **82–111**, covering Units **18–25** (`சோதிட சோகம்!` through `இங்கர்சால்`). Scans **82–109** are in Part 002; scans **110–111** cross into Part 003.
+Rebuild assemblies **11–17** strictly from canonical page records **56–81**, run the page/assembly consistency gate, and only after PASS resume P2 at scans **82–111**.

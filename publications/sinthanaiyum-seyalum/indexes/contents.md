@@ -4,7 +4,9 @@ Source witness: physical scans **14–15**, heading **`பொருளடக்�
 
 ## Source rule
 
-This file preserves the printed contents witness as read directly from the scan. It does **not** silently normalise article-heading witnesses. The printed contents contains **50 numbered entries total**. Entries 1–2 are the two dated letter-form pieces. A separate bibliographic description saying “two letters and 50 articles” does not expand this controlling contents witness to 52 units.
+This file preserves the printed contents witness as read directly from the scan. It does **not** silently normalise article-heading witnesses. During P2 each heading page must be compared directly; if a heading differs in spelling, punctuation or wording, preserve both witnesses separately.
+
+The printed contents contains **50 numbered entries total**. Entries 1–2 are the two dated letter-form pieces. A separate bibliographic description saying “two letters and 50 articles” is not allowed to expand this controlling contents witness to 52 units.
 
 Scans **14–15 are P2 VERIFIED**.
 
@@ -61,27 +63,36 @@ Scans **14–15 are P2 VERIFIED**.
 | 49 | `அந்தாதி பாடிய அருதகுட்டி நாடார்` | 213 |
 | 50 | `சிந்தனை செய் மனமே` | 220 |
 
-## P2 corrections to P1 contents intake
+## P2 corrections to P1 intake readings
+
+Direct visual comparison of scans 14–15 corrected:
 
 - Unit 18: `சோதி சோகம்!` → **`சோதிட சோகம்!`**
 - Unit 44: `குரு பீடமும்; குருவி பீடமும்!` → **`குரு பீடமும்; குறள் பீடமும்!`**
-- Unit 41 preserves the visible space in **`மொழி !`**.
+
+Unit 41 also preserves the visible space in **`மொழி !`**.
 
 ## Directly verified heading witnesses
 
-- Units 1–2: contents/heading agree; scans **18–27 VERIFIED**.
+- Unit 1: contents/heading `பாசியும் - தூசியும்!`; scans **18–23 VERIFIED**.
+- Unit 2: contents/heading `அதிக உயரம் தாண்டுவதற்கு`; scans **24–27 VERIFIED**.
 - Unit 3: contents `என் பெயர் புரட்சி` ↔ heading **`என் பெயர் புரட்சி!`**; scans **28–32 VERIFIED**.
-- Units 4–5: contents/heading agree; scans **33–38 VERIFIED**.
+- Unit 4: contents/heading `குருகுலம்!`; scans **33–35 VERIFIED**.
+- Unit 5: contents/heading `ஜனநாயக நெறி`; scans **36–38 VERIFIED**.
 - Unit 6: contents `வாக்குச் சீட்டின் வலிமை` ↔ heading **`வாக்குச்சீட்டின் வலிமை`**; scans **39–41 VERIFIED**.
-- Units 7–8: contents/heading agree; scans **42–48 VERIFIED**.
+- Unit 7: contents/heading `சுயமரியாதைத் திருமணம்`; scans **42–45 VERIFIED**.
+- Unit 8: contents/heading `மனிதனின் மறுபக்கம்`; scans **46–48 VERIFIED**.
 - Unit 9: contents `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ heading **`விண்ணைத் தொட்டு மண்ணில் புதைவதா?`**; scans **49–51 VERIFIED**.
-- Unit 10: contents/heading agree; scans **52–55 VERIFIED**.
+- Unit 10: contents/heading `மனிதனும் மறுபிறவியும்`; scans **52–55 VERIFIED**.
 - Unit 11: contents `வெற்றி - தோல்வி!` ↔ heading **`வெற்றி தோல்வி!`**; scans **56–58 VERIFIED**.
-- Units 12–14: contents/heading agree; scans **59–68 VERIFIED**.
+- Unit 12: contents/heading `அழுக்காறு`; scans **59–61 VERIFIED**.
+- Unit 13: contents/heading `மிகுதிக்கண்...`; scans **62–65 VERIFIED**.
+- Unit 14: contents/heading `வலிவும், பொலிவும்!`; scans **66–68 VERIFIED**.
 - Unit 15: contents `இன்பமும் துன்பமும்` ↔ heading **`இன்பமும் துன்பமும்!`**; scans **69–74 VERIFIED**.
-- Units 16–17: contents/heading agree; scans **75–81 VERIFIED**.
-- Global scan **82** visibly begins Unit 18 heading **`சோதிட சோகம்!`**, confirming Unit 17 ends at scan 81.
+- Unit 16: contents/heading `ஒழுக்கம்`; scans **75–77 VERIFIED**.
+- Unit 17: contents/heading `வசிய மருந்து`; scans **78–81 VERIFIED**.
+- Unit 18 boundary witness: global scan 82 visibly begins heading **`சோதிட சோகம்!`**; Unit 18 body remains pending P2.
 
 ## Next
 
-P2 next batch: **scans 82–111, Units 18–25**.
+Integrity repair prerequisite: **rebuild Units 11–17 assemblies from the repaired P2 page layer (scans 56–81) and pass the page/assembly consistency gate**. Only after that PASS does P2 proceed to scans 82–111 / Units 18–25.
