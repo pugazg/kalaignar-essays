@@ -1,13 +1,10 @@
-# Next Chat Prompt — Kalaignar Essays / சிந்தனையும் செயலும் — Source Intake
+# Next Chat Prompt — Kalaignar Essays / சிந்தனையும் செயலும் — P2
 
 Use this only as a convenience handoff. **Live `main` and root `HANDOVER.md` are authoritative.**
 
 Repository: `pugazg/kalaignar-essays`  
-Branch: `main`
-
-Active selected publication: `சிந்தனையும் செயலும்`
-
-Expected workspace after source confirmation: `publications/sinthanaiyum-seyalum/`
+Branch: `main`  
+Active publication: `publications/sinthanaiyum-seyalum/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
@@ -21,59 +18,61 @@ Before changing anything, read completely:
 2. `ESSAY_TRANSLATION_GUIDE.md`
 3. `docs/FUTURE_WORK_GUIDELINES.md`
 4. root `HANDOVER.md`
-5. `docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`
-6. this prompt
-
-If the publication workspace exists on live `main`, read its current `README.md`, `metadata/source.md`, `indexes/page-map.md`, contents/fidelity records and continue the newer durable state rather than creating duplicates.
+5. this prompt
+6. `publications/sinthanaiyum-seyalum/README.md`
+7. `publications/sinthanaiyum-seyalum/metadata/source.md`
+8. `publications/sinthanaiyum-seyalum/indexes/contents.md`
+9. `publications/sinthanaiyum-seyalum/indexes/page-map.md`
 
 ## Current durable boundary
 
-Publications **1–7 are RELEASE COMPLETE / FROZEN**.
+Publication 8 `சிந்தனையும் செயலும்` has completed **P0/P1**.
 
-`சிந்தனையும் செயலும்` has been selected as Publication 8, but the controlling PDF was **not available in the conversation or accessible file Library when this prompt was prepared**. Therefore no scan-derived publication tree, metadata, page map, page records, article boundaries or assemblies were created at that checkpoint.
+- source identifier: `TVA_BOK_0065568`
+- controlling witness: one publication supplied as **5 non-overlapping transfer PDFs**
+- physical scans: **226**
+- split ranges: **1–55 / 56–109 / 110–164 / 165–219 / 220–226**
+- split continuity: **PASS**
+- third edition witness: **`ஜனவரி, 2010`**
+- publisher witness: **`தமிழ்க்கனி பதிப்பகம்`**
+- physical page records: **226 / 226 CREATED**
+- pages verified: **0 / 226**
+- printed contents: **50 numbered units total**
+- P2: **NOT STARTED / NEXT**
+- P3/P4/P5: **NOT STARTED**
+- English: **NOT STARTED**
 
-## User-supplied expected identity — NOT YET SCAN-VERIFIED
+The original unsplit-PDF SHA-256 cannot be recovered from the five transfer parts; use only the exact per-part hashes in `metadata/source.md` and never fabricate a whole-PDF checksum.
 
-Treat these as intake clues until verified against the controlling scan:
+## Source-witness cautions
 
-- expected title: `சிந்தனையும் செயலும்`
-- expected author: `கலைஞர் மு. கருணாநிதி`
-- expected publisher: `தமிழ்க்கனி பதிப்பகம்`
-- expected edition: `மூன்றாம் பதிப்பு, 2010`
-- expected contents description: two Murasoli letters — `பாசியும் தூசியும்` dated **27.04.2005** and `அதிக உயரம் தாண்டுவதற்கு` dated **29.04.2005** — plus **50 articles**.
-
-An older bibliographic witness describes a **2006 first edition**. Keep that edition strictly separate; do not use it to infer, normalise or fill the 2010 third-edition scan.
+- The scan's `பொருளடக்கம்` contains **50 numbered units total**; Units 1–2 are the two dated letter-form pieces. A separate bibliographic description saying “two letters + 50 articles” is not authority to turn the scan into 52 units.
+- Contents titles and heading-page titles are independent witnesses. Never silently harmonise spelling/punctuation.
+- `தமிழ்க்கனி பதிப்பகம்` is the publisher witness; `பூம்புகார் பதிப்பகம்` appears as a sales-rights witness. Preserve the functions separately.
+- scan 226 is a back-cover/promotional witness, not article-body authority.
+- P1 body spans in `indexes/page-map.md` are navigation expectations derived from the printed contents and observed continuity; final boundaries require direct P2 inspection.
 
 ## Source authority
 
-The actual supplied 2010 third-edition scan is the controlling witness.
+The supplied scan pixels are controlling. Do not silently modernise, correct, normalise, reconstruct or improve Kalaignar's Tamil. Preserve source-visible wording, spelling, punctuation, names, dates, numbers, repetitions and typographical forms. Separate printed text from stamps, damage, spotting, bleed-through and other physical-copy marks.
 
-Do not silently modernise, correct, normalise, reconstruct or improve Kalaignar's Tamil. Preserve source-visible wording, spelling, punctuation, names, dates, numbers, repetitions and typographical forms. Separate printed text from stamps, handwriting, accession marks, damage and bleed-through.
-
-OCR or parsed text may assist but is never authoritative. Source PDFs must not be committed.
+OCR/parsed text may assist but is never authoritative. Source PDFs must not be committed.
 
 ## Exact next activity
 
-**Resolve/attach the actual `சிந்தனையும் செயலும்` controlling PDF and execute P0/P1 as one coherent intake batch:**
+**P2 — directly transcribe and verify scans 1–27 in one coherent batch:**
 
-1. compute exact source filename, SHA-256, file size and physical scan count;
-2. visually inspect cover, title, imprint/edition, contents and other front matter;
-3. determine the publication form and exact article/letter witnesses from the scan rather than from the filename or older bibliography;
-4. confirm whether live `main` already contains any newer workspace for this publication;
-5. if genuinely new, create `publications/sinthanaiyum-seyalum/` with:
-   - `README.md`
-   - `metadata/source.md`
-   - `indexes/contents.md` when applicable
-   - `indexes/page-map.md`
-   - `pages/` records covering **every physical scan**, including covers/front matter/blank/advertisement/back cover
-   - `articles/` directory/workspace as supported by confirmed source boundaries;
-6. do not mark a page `verified` until direct visual comparison;
-7. update root `HANDOVER.md` with exact source identity, page/article mapping, source-witness distinctions, unresolved difficulties and the next transcription batch.
+- scans **1–17** — cover/front matter/blank-verso/title/publication data/`பதிப்புரை`/`அணிந்துரை`/contents/internal title;
+- scans **18–23** — Unit 1 `பாசியும் - தூசியும்!`, including its directly visible dated closing **27-4-2005**;
+- scans **24–27** — Unit 2 `அதிக உயரம் தாண்டுவதற்கு`, including its directly visible dated closing **29-4-2005**.
+
+For every scan, transcribe directly from pixels, preserve punctuation/paragraphing, record physical-copy marks separately, and mark `verified` only after complete visual comparison. Directly confirm Unit-1 and Unit-2 boundaries and preserve any contents-title versus heading-title differences as separate witnesses. Create the two article assemblies only after their page records are source-complete. Then update `README.md`, `metadata/source.md`, `indexes/page-map.md`, any new assemblies, and root `HANDOVER.md` with the exact next batch.
 
 ## Non-regression
 
 - live `main` beats this prompt;
-- do not reopen released Publications 1–7;
-- do not treat the older 2006 edition as authority for the 2010 edition;
-- do not infer article boundaries from contents-page numbers alone;
-- do not begin English translation until the Tamil source is frozen through strict fidelity.
+- do not reopen Publications 1–7;
+- do not infer missing printed numerals;
+- do not promote P1 expected spans into verified boundaries without scan inspection;
+- do not use the older 2006 bibliographic witness to rewrite the 2010 scan;
+- do not begin English translation until Tamil is frozen through P5.
