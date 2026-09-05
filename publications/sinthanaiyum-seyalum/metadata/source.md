@@ -86,26 +86,31 @@ Back-cover promotional text remains a separate witness from article body text. I
 
 ## Publication form
 
-This is a **multi-unit essay/letter collection**. The printed contents numbers **50 units total**. Direct P2 scan inspection now confirms:
+This is a **multi-unit essay/letter collection**. The printed contents numbers **50 units total**. Direct P2 scan inspection now confirms Units 1–10:
 
-1. `பாசியும் - தூசியும்!` — scans **18–23**, closes **`27- 4 - 2005`**;
-2. `அதிக உயரம் தாண்டுவதற்கு` — scans **24–27**, closes **`29-4-2005`**;
-3. contents `என் பெயர் புரட்சி` / heading **`என் பெயர் புரட்சி!`** — scans **28–32**, closes **`1-5-2005`**;
-4. `குருகுலம்!` — scans **33–35**, closes **`3-5-2005`**.
+1. `பாசியும் - தூசியும்!` — scans **18–23**, closes `27- 4 - 2005`;
+2. `அதிக உயரம் தாண்டுவதற்கு` — scans **24–27**, closes `29-4-2005`;
+3. heading `என் பெயர் புரட்சி!` — scans **28–32**, closes `1 - 5 - 2005`;
+4. `குருகுலம்!` — scans **33–35**, closes `3 - 5 - 2005`;
+5. `ஜனநாயக நெறி` — scans **36–38**, closes `7-5-2005`;
+6. heading `வாக்குச்சீட்டின் வலிமை` — scans **39–41**, closes `9-5-2005`;
+7. `சுயமரியாதைத் திருமணம்` — scans **42–45**, closes `13-5-2005`;
+8. `மனிதனின் மறுபக்கம்` — scans **46–48**, closes `15-5-2005`;
+9. heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` — scans **49–51**, closes `16-5-2005`;
+10. `மனிதனும் மறுபிறவியும்` — scans **52–55**, closes `6-6-2005`.
 
 The separate user/bibliographic statement “two letters and 50 articles” is retained as an external description only. It is not used to turn the scan's 50 numbered contents entries into 52 archival units.
 
+### Contents/heading witness distinctions through Unit 10
+
+- Unit 3: contents `என் பெயர் புரட்சி` ↔ heading `என் பெயர் புரட்சி!`.
+- Unit 6: contents `வாக்குச் சீட்டின் வலிமை` ↔ heading `வாக்குச்சீட்டின் வலிமை`.
+- Unit 9: contents `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`.
+- Unit 11 boundary observation: contents `வெற்றி - தோல்வி!` ↔ scan-56 heading `வெற்றி தோல்வி!`; Unit 11 body not yet P2-verified.
+
 ## Printed-page behaviour / split continuity
 
-Observed body numbering confirms the physical/printed offset. P2 records numerals only when directly visible:
-
-- opening scan of each verified unit (18, 24, 28, 33): unit marker visible but no printed page numeral;
-- scans 19–23: printed **18–22**;
-- scans 25–27: printed **24–26**;
-- scans 29–32: printed **28–31**;
-- scans 34–35: printed **33–34**.
-
-The offset must **not** be used to invent a numeral on an unnumbered page.
+Observed body numbering confirms the physical/printed offset. P2 records numerals only when directly visible. Heading pages carry the source unit marker rather than a printed page numeral; following pages through scan 55 show the corresponding printed numerals. The offset must **not** be used to invent a numeral on an unnumbered page.
 
 ## Physical-copy condition / provenance marks
 
@@ -113,38 +118,24 @@ P2 confirms:
 
 - circular library stamps on front matter, including scans 2, 4 and 6;
 - yellow/brown spotting/foxing and handling stains;
-- visible bleed-through on several blank/verso and body pages;
+- visible bleed-through on several blank/verso/body pages;
+- scans 18–55 show no later body-text stamp/handwriting affecting the verified reading;
 - blank/near-blank scans remain physical records rather than being omitted.
 
 Printed publication text and later physical-copy marks remain separate page-record sections.
-
-## P2 source-sensitive body readings now protected
-
-Scans 28–35 directly support, among others:
-
-- `காலிப் புட்டிகளாக`
-- `காலமெலாம்`
-- `கருப்பாதை`
-- `மணம் தருமெனக் கருதாதீர்`
-- `மாசுதான்`
-- `பீடத்திற்கே`
-- `அரும்பிடாத வைகறைப் பொழுதில்கூட`
-- `வாய்ப்பு ஏற்படின்`
-- `தரக் கூடியதாகும்`
-
-These forms must not be silently modernised or replaced by OCR/conventional readings.
 
 ## P0/P1/P2 gate
 
 - P0 source resolution / split continuity / source identity: **COMPLETE / PASS**
 - P1 publication identity, contents witness and provisional page mapping: **COMPLETE / PASS**
 - physical page records created: **226 / 226**
-- P2 directly verified page records: **35 / 226**
-- verified range: **scans 1–35**
-- verified article boundaries: **Units 1–4**
-- article assemblies: **4 / 50 VERIFIED**
+- P2 directly verified page records: **55 / 226**
+- verified range: **scans 1–55**
+- verified article boundaries: **Units 1–10**
+- article assemblies: **10 / 50 VERIFIED**
+- unresolved readings within verified scans 1–55: **0**
 - P5 strict visual fidelity: **NOT STARTED**
 
 ## Exact next activity
 
-**Continue P2 with scans 36–55 (Units 5–10), verifying every heading/start and following heading/end from the source, preserving contents-vs-heading witnesses independently, recording physical-copy marks, then creating/updating article assemblies only from the verified page layer and synchronising the root handover.**
+**Directly transcribe and verify scans 56–81 (Units 11–17), verifying every heading/start and following heading/end from the source, preserving contents-vs-heading witnesses independently, recording physical-copy marks, then creating/updating article assemblies only from the verified page layer and synchronising the root handover.**

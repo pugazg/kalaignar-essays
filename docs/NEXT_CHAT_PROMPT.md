@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Essays / சிந்தனையும் செயலும் — P2 Scans 28–55
+# Next Chat Prompt — Kalaignar Essays / சிந்தனையும் செயலும் — P2 Scans 56–81
 
 Use this only as a convenience handoff. **Live `main` and root `HANDOVER.md` are authoritative.**
 
@@ -30,35 +30,27 @@ English is not in scope yet.
 
 - P0/P1: **PASS**
 - physical page records: **226 / 226**
-- scans **1–27 P2 VERIFIED**
-- Units 1–2 assemblies: **VERIFIED**
+- scans **1–55 P2 VERIFIED**
+- Units **1–10 assemblies VERIFIED**
+- unresolved readings in verified range: **0**
 - P5: **NOT STARTED**
 - English: **NOT STARTED**
 
-Preserve direct-source corrections already established:
-
-- `ஈகிள் பிரஸ்`
-- contents Unit 18 `சோதிட சோகம்!`
-- contents Unit 44 `குரு பீடமும்; குறள் பீடமும்!`
-- Unit 41 `வலி அறிவிக்கும் வாயில்லா மொழி !`
-- source forms such as `கருப்பாதை`, `‘துறவு’ம்`, `‘ஜனநாயக’த்தில்`, `எதிர் காலம்`, `விலங்கொடிக்க`
-
-Do not silently modernise them.
+Preserve independent witnesses and source-sensitive forms recorded in root `HANDOVER.md`. In particular, do not harmonise Unit 11 contents `வெற்றி - தோல்வி!` with the scan-56 heading **`வெற்றி தோல்வி!`**.
 
 ## Exact next activity
 
-**P2 — directly transcribe and verify scans 28–55 in one coherent batch, covering Units 3–10:**
+**P2 — directly transcribe and verify scans 56–81 in one coherent batch, covering Units 11–17:**
 
-3. `என் பெயர் புரட்சி`
-4. `குருகுலம்!`
-5. `ஜனநாயக நெறி`
-6. `வாக்குச் சீட்டின் வலிமை`
-7. `சுயமரியாதைத் திருமணம்`
-8. `மனிதனின் மறுபக்கம்`
-9. `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?`
-10. `மனிதனும் மறுபிறவியும்`
+11. heading observed `வெற்றி தோல்வி!` (contents `வெற்றி - தோல்வி!`)
+12. `அழுக்காறு`
+13. `மிகுதிக்கண்...`
+14. `வலிவும், பொலிவும்!`
+15. `இன்பமும் துன்பமும்`
+16. `ஒழுக்கம்`
+17. `வசிய மருந்து`
 
-For each unit, inspect the actual attached scan, verify heading/start and following heading/end, preserve contents-vs-heading differences, transcribe every visible word/punctuation, keep physical-copy marks separate, and create an article assembly only after all included page records are verified.
+For each unit, inspect the actual supplied scan, verify heading/start and following heading/end, preserve contents-vs-heading differences, transcribe every visible word/punctuation, keep physical-copy marks separate, and create an article assembly only after all included page records are verified.
 
 After the batch, update README/source metadata/page map/article tracker/root HANDOVER and record the next exact P2 batch.
 

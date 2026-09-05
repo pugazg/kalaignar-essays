@@ -8,8 +8,8 @@ Source form: five transfer PDFs representing one publication.
 
 - Physical scan order is authoritative.
 - Printed page numerals are recorded only when directly visible; no numeral is invented from sequence.
-- Units **1–4** now have P2-directly verified boundaries.
-- Units **5–50** remain P1 contents-derived expected spans until their headings/ends are directly verified.
+- Units **1–10** now have P2-directly verified boundaries.
+- Units **11–50** remain P1 contents-derived expected spans until their headings/ends are directly verified.
 - Independent contents, heading and promotional/back-cover witnesses must remain separate.
 
 ## Transfer-part map
@@ -50,14 +50,14 @@ Total: **226 scans**, no gap or overlap.
 |---:|---|---:|---:|---|
 | 1 | `பாசியும் - தூசியும்!` | 17 | **18–23** | **P2 VERIFIED** |
 | 2 | `அதிக உயரம் தாண்டுவதற்கு` | 23 | **24–27** | **P2 VERIFIED** |
-| 3 | `என் பெயர் புரட்சி` | 27 | **28–32** | **P2 VERIFIED** — heading `என் பெயர் புரட்சி!` |
+| 3 | `என் பெயர் புரட்சி` | 27 | **28–32** | **P2 VERIFIED** |
 | 4 | `குருகுலம்!` | 32 | **33–35** | **P2 VERIFIED** |
-| 5 | `ஜனநாயக நெறி` | 35 | 36–38 | provisional |
-| 6 | `வாக்குச் சீட்டின் வலிமை` | 38 | 39–41 | provisional |
-| 7 | `சுயமரியாதைத் திருமணம்` | 41 | 42–45 | provisional |
-| 8 | `மனிதனின் மறுபக்கம்` | 45 | 46–48 | provisional |
-| 9 | `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` | 48 | 49–51 | provisional |
-| 10 | `மனிதனும் மறுபிறவியும்` | 51 | 52–55 | provisional |
+| 5 | `ஜனநாயக நெறி` | 35 | **36–38** | **P2 VERIFIED** |
+| 6 | `வாக்குச் சீட்டின் வலிமை` | 38 | **39–41** | **P2 VERIFIED** |
+| 7 | `சுயமரியாதைத் திருமணம்` | 41 | **42–45** | **P2 VERIFIED** |
+| 8 | `மனிதனின் மறுபக்கம்` | 45 | **46–48** | **P2 VERIFIED** |
+| 9 | `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` | 48 | **49–51** | **P2 VERIFIED** |
+| 10 | `மனிதனும் மறுபிறவியும்` | 51 | **52–55** | **P2 VERIFIED** |
 | 11 | `வெற்றி - தோல்வி!` | 55 | 56–58 | provisional |
 | 12 | `அழுக்காறு` | 58 | 59–61 | provisional |
 | 13 | `மிகுதிக்கண்...` | 61 | 62–65 | provisional |
@@ -101,49 +101,33 @@ Total: **226 scans**, no gap or overlap.
 
 Body span: **scans 18–225**. Scan 226 is a separate back-cover/promotional witness.
 
-## P2 boundary evidence — Units 1–4
+## P2 boundary evidence — Units 1–10
 
-### Unit 1
+| Unit | Heading witness | Verified scans | Closing date |
+|---:|---|---:|---|
+| 1 | `பாசியும் - தூசியும்!` | 18–23 | `27- 4 - 2005` |
+| 2 | `அதிக உயரம் தாண்டுவதற்கு` | 24–27 | `29-4-2005` |
+| 3 | `என் பெயர் புரட்சி!` | 28–32 | `1 - 5 - 2005` |
+| 4 | `குருகுலம்!` | 33–35 | `3 - 5 - 2005` |
+| 5 | `ஜனநாயக நெறி` | 36–38 | `7-5-2005` |
+| 6 | `வாக்குச்சீட்டின் வலிமை` | 39–41 | `9-5-2005` |
+| 7 | `சுயமரியாதைத் திருமணம்` | 42–45 | `13-5-2005` |
+| 8 | `மனிதனின் மறுபக்கம்` | 46–48 | `15-5-2005` |
+| 9 | `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` | 49–51 | `16-5-2005` |
+| 10 | `மனிதனும் மறுபிறவியும்` | 52–55 | `6-6-2005` |
 
-- heading/start directly visible on scan **18**: `பாசியும் - தூசியும்!`
-- ending directly visible on scan **23**
-- closing date: **`27- 4 - 2005`**
-- Unit 2 heading begins scan 24
-- verified span: **18–23**
-
-### Unit 2
-
-- heading/start directly visible on scan **24**: `அதிக உயரம் தாண்டுவதற்கு`
-- ending/sign-off directly visible on scan **27**
-- closing date: **`29-4-2005`**
-- verified span: **24–27**
-
-### Unit 3
-
-- heading/start directly visible on scan **28**: `என் பெயர் புரட்சி!`
-- printed contents witness is `என் பெயர் புரட்சி` without the exclamation mark
-- ending directly visible on scan **32**
-- closing date: **`1-5-2005`**
-- Unit 4 heading begins scan 33
-- verified span: **28–32**
-
-### Unit 4
-
-- heading/start directly visible on scan **33**: `குருகுலம்!`
-- ending directly visible on scan **35**
-- closing date: **`3-5-2005`**
-- Unit 5 heading begins scan 36
-- verified span: **33–35**
+Global scan **56** directly shows Unit 11 heading `வெற்றி தோல்வி!`, independently confirming Unit 10 ends at scan 55. Unit 11 itself remains pending P2.
 
 ## Current result
 
 - physical scans accounted for: **226 / 226**
 - page records created: **226 / 226**
-- P2 page records verified: **35 / 226**
-- verified body units: **4 / 50**
-- article assemblies created from verified page layer: **4 / 50**
-- remaining final direct article boundaries: **Units 5–50 pending**
+- P2 page records verified: **55 / 226**
+- P2 verified range: **1–55**
+- verified body units: **10 / 50**
+- article assemblies created from verified page layer: **10 / 50**
+- remaining direct article boundaries: **Units 11–50 pending**
 
 ## Exact next activity
 
-**Continue P2 with scans 36–55: directly transcribe/verify Units 5–10, verify every heading/start and following heading/end, preserve contents-vs-heading witness differences, assemble only verified units, and update metadata/root handover.**
+**P2 scans 56–81: directly transcribe/verify Units 11–17, verify every heading/start and following heading/end, preserve contents-vs-heading witness differences, assemble only verified units, and update the root handover.**

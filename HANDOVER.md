@@ -175,7 +175,7 @@ No activity is pending for `கொலைக்களம்!`.
 
 ---
 
-# Publication 8 — சிந்தனையும் செயலும் — P2 ACTIVE / SCANS 1–27 VERIFIED
+# Publication 8 — சிந்தனையும் செயலும் — P2 ACTIVE / SCANS 1–55 VERIFIED
 
 Workspace: `publications/sinthanaiyum-seyalum/`
 
@@ -199,64 +199,50 @@ The controlling witness is one **226-scan publication** supplied as five non-ove
 
 ## Scan-verified printed identity
 
-P2 direct visual review confirms:
+P2 direct visual review confirms title `சிந்தனையும் செயலும்`, author `கலைஞர் மு. கருணாநிதி`, publisher `தமிழ்க்கனி பதிப்பகம்`, first edition `ஜூன், 2006`, second edition `மார்ச், 2007`, third edition `ஜனவரி, 2010`, rights `ஆசிரியருக்கே`, price `ரூ. 120/-`, printer **`ஈகிள் பிரஸ், சென்னை - 600 013.`**, and the separate `பூம்புகார் பதிப்பகம்` sales-rights witness.
 
-- cover/title: `சிந்தனையும் செயலும்`
-- author: `கலைஞர் மு. கருணாநிதி`
-- publisher witness: `தமிழ்க்கனி பதிப்பகம்`
-- first edition: `ஜூன், 2006`
-- second edition: `மார்ச், 2007`
-- third edition: `ஜனவரி, 2010`
-- rights: `ஆசிரியருக்கே`
-- price: `ரூ. 120/-`
-- printer: **`ஈகிள் பிரஸ், சென்னை - 600 013.`**
-- title/back-cover sales-rights witness: `பூம்புகார் பதிப்பகம்`, Chennai.
+Front matter scans **1–17** are P2 verified.
 
-P1 had `ஈகில் பிரஸ்`; direct high-resolution P2 comparison corrected it to `ஈகிள் பிரஸ்`.
+## Verified body structure through Unit 10
 
-Front matter `பதிப்புரை` scans 6–7, `அணிந்துரை` scans 8–12, contents scans 14–15, cover/title/blank witnesses through scan 17 are now directly transcribed and verified.
+1. `பாசியும் - தூசியும்!` — **18–23**, `27- 4 - 2005`
+2. `அதிக உயரம் தாண்டுவதற்கு` — **24–27**, `29-4-2005`
+3. heading `என் பெயர் புரட்சி!` — **28–32**, `1 - 5 - 2005`
+4. `குருகுலம்!` — **33–35**, `3 - 5 - 2005`
+5. `ஜனநாயக நெறி` — **36–38**, `7-5-2005`
+6. heading `வாக்குச்சீட்டின் வலிமை` — **39–41**, `9-5-2005`
+7. `சுயமரியாதைத் திருமணம்` — **42–45**, `13-5-2005`
+8. `மனிதனின் மறுபக்கம்` — **46–48**, `15-5-2005`
+9. heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` — **49–51**, `16-5-2005`
+10. `மனிதனும் மறுபிறவியும்` — **52–55**, `6-6-2005`
 
-## Publication structure
+Global scan 56 directly begins Unit 11 with heading `வெற்றி தோல்வி!`, confirming Unit 10 ends at scan 55. Unit 11 body is not yet P2-verified.
 
-- scans 1–17: front matter — **P2 VERIFIED**
-- Unit 1 `பாசியும் - தூசியும்!` — scans **18–23 P2 VERIFIED**, closes `27- 4 - 2005`
-- Unit 2 `அதிக உயரம் தாண்டுவதற்கு` — scans **24–27 P2 VERIFIED**, closes `29-4-2005`
-- Units 3–50: remain pending direct P2 verification
-- scan 226: separate back-cover/promotional witness, pending P2
+## Independent witness distinctions / frozen non-regression
 
-The controlling contents witness numbers **50 units total**. The external “two letters + 50 articles” description remains a separate bibliographic witness and does not create 52 archival units.
+- Unit 3 contents `என் பெயர் புரட்சி` ↔ heading `என் பெயர் புரட்சி!`.
+- Unit 6 contents `வாக்குச் சீட்டின் வலிமை` ↔ heading `வாக்குச்சீட்டின் வலிமை`.
+- Unit 9 contents `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`.
+- Unit 11 contents `வெற்றி - தோல்வி!` ↔ scan-56 heading `வெற்றி தோல்வி!`.
+- P1 printer `ஈகில் பிரஸ்` was corrected by scan to `ஈகிள் பிரஸ்`.
+- contents Unit 18 is `சோதிட சோகம்!`; Unit 44 is `குரு பீடமும்; குறள் பீடமும்!`; Unit 41 preserves `வலி அறிவிக்கும் வாயில்லா மொழி !`.
+- preserve source-visible forms including `கருப்பாதை`, `‘ஜனநாயக’த்தில்`, `‘துறவு’ம்`, `எதிர் காலம்`, `விலங்கொடிக்க`, `காலிப் புட்டிகளாக`, `வழங்கப்பட்டோர் பெயர்கள்`, `பிடிப்பின்றித்`, `செயலாக்கம்`, `முதன்முதல்`, `அனைத்திந்திய`, `சித்ரவதை`, `உறுதிபட`, `போதாகி மலர்கின்ற`, `அங்கனமாயின்`, `கவிதைக்குப் பூசும் தங்க முலாம்.`, `உருமாற்றவும்தான்`, `கூடவேகூடாது`.
 
-## P2 source corrections / non-regression decisions
-
-Direct scans 1–27 establish:
-
-- scan 5 printer `ஈகிள் பிரஸ்`
-- Unit 18 contents title `சோதிட சோகம்!`
-- Unit 44 contents title `குரு பீடமும்; குறள் பீடமும்!`
-- Unit 41 contents witness `வலி அறிவிக்கும் வாயில்லா மொழி !` with source-visible space before `!`
-- Unit 1 source-sensitive readings include `அப்படியொரு நிலை பெறுவது`, `கருப்பாதை`, `‘ஜனநாயக’த்தில்`, `‘துறவு’ம்`
-- Unit 2 source-sensitive readings include `அந்த மெல்லிய ஒலியைத் தவிர`, `எதிர் காலம்`, `விலங்கொடிக்க`
-
-Do not modernise or silently harmonise these source-visible forms.
+Do not modernise, silently correct or harmonise these witnesses.
 
 ## Tamil archival status
 
 - P0: **COMPLETE / PASS**
 - P1: **COMPLETE / PASS**
 - physical scan records: **226 / 226 CREATED**
-- P2 directly verified pages: **27 / 226**
-- P2 verified range: **1–27**
-- P2 verified body units: **2 / 50**
-- P3 article assemblies: **2 / 50 VERIFIED**
+- P2 directly verified pages: **55 / 226**
+- P2 verified range: **1–55**
+- P2 verified body units: **10 / 50**
+- P3 article assemblies: **10 / 50 VERIFIED**
 - P4 source/completeness audit: **NOT STARTED**
 - P5 strict visual word/punctuation pass: **NOT STARTED**
-- unresolved readings in verified scans 1–27: **0**
+- unresolved readings in verified scans 1–55: **0**
 - Tamil archival phase: **P2 ACTIVE**
-
-Verified article assemblies:
-
-1. `articles/01-paasiyum-thoosiyum.md`
-2. `articles/02-athiga-uyaram-thaanduvatharku.md`
 
 ## English translation status
 
@@ -266,19 +252,18 @@ Verified article assemblies:
 
 ## Current unresolved source questions
 
-- Exact heading punctuation/spelling and final boundaries for Units 3–50 remain unverified except intake observations explicitly labelled as such.
+- Units 11–50 remain pending direct P2 transcription/boundary verification.
 - Original unsplit 574 MB PDF checksum remains unavailable; only the five transfer-part checksums are authoritative.
-- No body-text reading may be imported from the external bibliography or inferred from contents alone.
+- No body-text reading may be imported from external bibliography or inferred from contents alone.
 
 ## Exact next activity
 
-**P2 — directly transcribe and verify scans 28–55 in one coherent batch, covering Units 3–10 (`என் பெயர் புரட்சி` through `மனிதனும் மறுபிறவியும்`). Verify each unit heading/start and the following heading/end directly from the scan, preserve contents-title versus heading-title differences as independent witnesses, record printed text and physical-copy marks separately, create article assemblies only after every included page is verified, propagate source corrections to indexes/README, and update this root handover.**
+**P2 — directly transcribe and verify scans 56–81 in one coherent batch, covering Units 11–17 (`வெற்றி தோல்வி!` through `வசிய மருந்து`). Verify each unit heading/start and the following heading/end directly from the scan, preserve contents-title versus heading-title differences as independent witnesses, record printed text and physical-copy marks separately, create article assemblies only after every included page is verified, propagate source corrections to indexes/README, and update this root handover.**
 
 ## Rules for the next session
 
 1. Fetch live `main` and read this handover first.
 2. Preserve Publications 1–7 as frozen.
-3. Read the active publication README, source metadata, contents and page map before P2 writes.
-4. Preserve all P2-verified scans 1–27 unless a genuine source-supported correction is found.
-5. Treat Unit 3–50 P1 spans as provisional until direct visual verification.
-6. Do not begin English translation.
+3. Preserve all P2-verified scans 1–55 unless a genuine source-supported correction is found.
+4. Treat Unit 11–50 P1 spans as provisional until direct visual verification.
+5. Do not begin English translation.

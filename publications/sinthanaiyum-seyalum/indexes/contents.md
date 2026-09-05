@@ -74,13 +74,18 @@ Unit 41 also preserves the visible space in **`மொழி !`**.
 
 ## Directly verified heading witnesses
 
-- Unit 1 begins scan 18; heading witness: **`பாசியும் - தூசியும்!`**; scans **18–23 VERIFIED**.
-- Unit 2 begins scan 24; heading witness: **`அதிக உயரம் தாண்டுவதற்கு`**; scans **24–27 VERIFIED**.
-- Unit 3 begins scan 28; heading witness: **`என் பெயர் புரட்சி!`**; scans **28–32 VERIFIED**. The printed contents omits the heading-page exclamation mark, so both witnesses are preserved.
-- Unit 4 begins scan 33; heading witness: **`குருகுலம்!`**; scans **33–35 VERIFIED**.
-- Unit 11 intake observation on scan 56 shows heading `வெற்றி தோல்வி!`, demonstrating why contents and heading witnesses remain separate; this is not yet P2-verified.
-- Units 5–50 remain pending direct P2 heading/boundary verification unless separately recorded later.
+- Unit 1: contents/heading `பாசியும் - தூசியும்!`; scans **18–23 VERIFIED**.
+- Unit 2: contents/heading `அதிக உயரம் தாண்டுவதற்கு`; scans **24–27 VERIFIED**.
+- Unit 3: contents `என் பெயர் புரட்சி` ↔ heading **`என் பெயர் புரட்சி!`**; scans **28–32 VERIFIED**.
+- Unit 4: contents/heading `குருகுலம்!`; scans **33–35 VERIFIED**.
+- Unit 5: contents/heading `ஜனநாயக நெறி`; scans **36–38 VERIFIED**.
+- Unit 6: contents `வாக்குச் சீட்டின் வலிமை` ↔ heading **`வாக்குச்சீட்டின் வலிமை`**; scans **39–41 VERIFIED**.
+- Unit 7: contents/heading `சுயமரியாதைத் திருமணம்`; scans **42–45 VERIFIED**.
+- Unit 8: contents/heading `மனிதனின் மறுபக்கம்`; scans **46–48 VERIFIED**.
+- Unit 9: contents `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ heading **`விண்ணைத் தொட்டு மண்ணில் புதைவதா?`**; scans **49–51 VERIFIED**.
+- Unit 10: contents/heading `மனிதனும் மறுபிறவியும்`; scans **52–55 VERIFIED**.
+- Unit 11 boundary witness: global scan 56 visibly begins heading **`வெற்றி தோல்வி!`** while contents has `வெற்றி - தோல்வி!`; Unit 11 body remains pending P2.
 
 ## Next
 
-Continue P2 with **scans 36–55, Units 5–10**.
+P2 next batch: **scans 56–81, Units 11–17**.
