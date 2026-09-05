@@ -2,11 +2,13 @@
 
 Source witness: physical scans **14–15**, heading **`பொருளடக்கம்`**.
 
-## P1 source rule
+## Source rule
 
-This file preserves the printed contents witness as read from the scan. It does **not** silently normalise article-heading witnesses. During P2 each heading page must be compared directly; if a heading differs in spelling, punctuation or wording, preserve both witnesses separately.
+This file preserves the printed contents witness as read directly from the scan. It does **not** silently normalise article-heading witnesses. During P2 each heading page must be compared directly; if a heading differs in spelling, punctuation or wording, preserve both witnesses separately.
 
 The printed contents contains **50 numbered entries total**. Entries 1–2 are the two dated letter-form pieces. A separate bibliographic description saying “two letters and 50 articles” is not allowed to expand this controlling contents witness to 52 units.
+
+Scans **14–15 are P2 VERIFIED**.
 
 | No. | Contents-page title witness | Printed start page |
 |---:|---|---:|
@@ -27,7 +29,7 @@ The printed contents contains **50 numbered entries total**. Entries 1–2 are t
 | 15 | `இன்பமும் துன்பமும்` | 68 |
 | 16 | `ஒழுக்கம்` | 74 |
 | 17 | `வசிய மருந்து` | 77 |
-| 18 | `சோதி சோகம்!` | 81 |
+| 18 | `சோதிட சோகம்!` | 81 |
 | 19 | `ஆன்மிக ஆழ்கடல்!` | 84 |
 | 20 | `தேனில் குழைத்துக் கொடுத்தாலும்...!` | 89 |
 | 21 | `வியாதிக்கு விருந்தா?` | 93 |
@@ -50,10 +52,10 @@ The printed contents contains **50 numbered entries total**. Entries 1–2 are t
 | 38 | `செய்ந்நன்றி` | 162 |
 | 39 | `பகுத்தறிவுப் பாதை!` | 166 |
 | 40 | `பெண்ணியப் புரட்சி!` | 172 |
-| 41 | `வலி அறிவிக்கும் வாயில்லா மொழி!` | 177 |
+| 41 | `வலி அறிவிக்கும் வாயில்லா மொழி !` | 177 |
 | 42 | `வருமுன் காப்பதா? வந்தபின் காப்பதா?` | 181 |
 | 43 | `எங்கே சொர்க்கம்? எங்கே சொர்க்கம்?` | 187 |
-| 44 | `குரு பீடமும்; குருவி பீடமும்!` | 191 |
+| 44 | `குரு பீடமும்; குறள் பீடமும்!` | 191 |
 | 45 | `இறையனார் குறளும்; இனியவை நாற்பதும்!` | 194 |
 | 46 | `படகுக்கு ஒரு கணக்கு; நாட்டுக்கு ஒரு கணக்கா?` | 198 |
 | 47 | `கலசங்கள், கலங்கரை விளக்கங்களாகலாம்!` | 203 |
@@ -61,15 +63,22 @@ The printed contents contains **50 numbered entries total**. Entries 1–2 are t
 | 49 | `அந்தாதி பாடிய அருதகுட்டி நாடார்` | 213 |
 | 50 | `சிந்தனை செய் மனமே` | 220 |
 
-## Directly inspected heading witnesses already seen during intake
+## P2 corrections to P1 intake readings
 
-A few heading pages were necessarily inspected while checking split continuity and source identity. These observations do not constitute full P2 verification and remain subject to exact diplomatic transcription:
+Direct visual comparison of scans 14–15 corrected:
 
-- Unit 1 begins global scan 18; heading witness visibly reads `பாசியும் - தூசியும்!`.
-- Unit 2 begins global scan 24; heading witness visibly reads `அதிக உயரம் தாண்டுவதற்கு`.
-- Unit 11 begins global scan 56; heading `வெற்றி தோல்வி!` is visible on the scan, illustrating why contents and heading witnesses must remain separate rather than silently harmonised.
-- Unit 25 begins global scan 109.
-- Unit 49 begins global scan 214.
-- Unit 50 begins global scan 221; heading witness `சிந்தனை செய் மனமே` is visible.
+- Unit 18: `சோதி சோகம்!` → **`சோதிட சோகம்!`**
+- Unit 44: `குரு பீடமும்; குருவி பீடமும்!` → **`குரு பீடமும்; குறள் பீடமும்!`**
 
-These are intake observations only; P2 must establish exact punctuation/wording and final boundaries directly.
+Unit 41 also preserves the visible space in **`மொழி !`**.
+
+## Directly verified heading witnesses
+
+- Unit 1 begins scan 18; heading witness: **`பாசியும் - தூசியும்!`**; scans **18–23 VERIFIED**.
+- Unit 2 begins scan 24; heading witness: **`அதிக உயரம் தாண்டுவதற்கு`**; scans **24–27 VERIFIED**.
+- Unit 11 intake observation on scan 56 shows heading `வெற்றி தோல்வி!`, demonstrating why contents and heading witnesses remain separate; this is not yet P2-verified.
+- Units 3–50 remain pending direct P2 heading/boundary verification unless separately recorded later.
+
+## Next
+
+P2 next batch: **scans 28–55, Units 3–10**.

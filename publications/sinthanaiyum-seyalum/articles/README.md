@@ -1,9 +1,12 @@
 # Article Assemblies — சிந்தனையும் செயலும்
 
-No article assembly is authoritative yet.
+P2 has directly verified and assembled the first two numbered units:
 
-The printed contents has 50 numbered entries, but P1 spans are only contents-derived expectations. Create `articles/NN-....md` files only after the corresponding source start/end boundaries and all included page records have been directly verified in P2.
+1. [`01-paasiyum-thoosiyum.md`](01-paasiyum-thoosiyum.md) — `பாசியும் - தூசியும்!` — scans **18–23** — **VERIFIED**
+2. [`02-athiga-uyaram-thaanduvatharku.md`](02-athiga-uyaram-thaanduvatharku.md) — `அதிக உயரம் தாண்டுவதற்கு` — scans **24–27** — **VERIFIED**
+
+Units **3–50** remain pending P2 direct page verification. Their P1 spans are navigation expectations only until headings/endings are inspected from the scan.
 
 ## Next
 
-P2 will first verify scans **1–27**, including Unit 1 `பாசியும் - தூசியும்!` and Unit 2 `அதிக உயரம் தாண்டுவதற்கு`. Their assemblies may be created only after the page layer for those units is source-complete.
+P2 next processes scans **28–55**, covering Units **3–10**.
