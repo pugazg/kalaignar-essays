@@ -171,4 +171,81 @@ E7 began from live `main` `6bee26a25b25e2d193838641de6c9f61d0afa567` and re-fetc
 
 ## Exact next activity
 
-No activity is pending for `கொலைக்களம்!`. Continue only when the user explicitly selects another Kalaignar essay/article publication for intake or continuation, or supplies a genuine source-supported defect in a released publication.
+No activity is pending for `கொலைக்களம்!`.
+
+---
+
+# Publication 8 — சிந்தனையும் செயலும் — INTAKE STAGED / CONTROLLING SCAN NOT YET RESOLVED
+
+Expected workspace after scan confirmation: `publications/sinthanaiyum-seyalum/`
+
+## Intake status
+
+The user has explicitly selected `சிந்தனையும் செயலும்` as the next publication and supplied bibliographic/intake information, but **no controlling PDF is available in the current conversation and no matching PDF was found in the accessible file Library**. Therefore P0 source intake cannot yet be completed and no scan-derived publication files or page records have been created.
+
+Repository search on live `main` found no existing `சிந்தனையும் செயலும்` publication or matching text, so there is no prior repository tree to continue at this checkpoint.
+
+## User-supplied expected identity — NOT YET SCAN-VERIFIED
+
+These details are intake clues only until the actual supplied scan is inspected:
+
+- expected title: `சிந்தனையும் செயலும்`
+- expected author: `கலைஞர் மு. கருணாநிதி`
+- expected publisher: `தமிழ்க்கனி பதிப்பகம்`
+- expected edition: `மூன்றாம் பதிப்பு, 2010`
+- user description: a collection containing two Murasoli letters — `பாசியும் தூசியும்` dated **27.04.2005** and `அதிக உயரம் தாண்டுவதற்கு` dated **29.04.2005** — together with **50 articles**.
+
+A separate older bibliographic witness accessible outside the repository describes a **first edition, June 2006** from the same publisher. That older-edition witness must **not** be used to normalise, replace, or infer the controlling 2010 third-edition scan. Edition-specific differences must remain separate.
+
+## Source identity — UNRESOLVED
+
+- controlling source filename: **not available**
+- source SHA-256: **not available**
+- file size: **not available**
+- physical scan count: **not available**
+- title / author / publisher / edition as printed in scan: **not yet verified**
+- printed contents / article count as printed: **not yet verified**
+- source PDF committed to repository: **No**
+
+## Publication structure
+
+Not yet created. Per repository policy, do not create scan-derived `metadata/source.md`, contents mapping, page map, page records, article boundaries, or assemblies until the actual controlling scan is resolved and inspected.
+
+## Tamil archival status
+
+- P0 source intake: **BLOCKED — controlling scan unavailable**
+- P1 metadata + page map + contents mapping: **NOT STARTED**
+- P2 page-level transcription: **NOT STARTED**
+- P3 article assemblies: **NOT STARTED**
+- P4 source audit: **NOT STARTED**
+- P5 strict visual word/punctuation pass: **NOT STARTED**
+- direct page verification: **0 / unknown**
+- article assemblies: **0 / unknown**
+- unresolved body readings: **not assessable until scan inspection**
+- Tamil archival phase: **INTAKE STAGED / SOURCE BLOCKED**
+
+## English translation status
+
+- English translation: **NOT STARTED**
+- prerequisite: complete and freeze the Tamil source through the required strict visual-fidelity gate first.
+
+## Permanent source rule
+
+The eventual supplied 2010 third-edition scan is the controlling witness for this publication. Do not use the older 2006 bibliographic witness, OCR, web text, memory, or another edition to silently fill or normalise the source.
+
+## Current blocker
+
+- **Controlling PDF not available in the current conversation or accessible Library.** The scan must be attached or otherwise resolved before any page-level or metadata claims can be made.
+
+## Exact next activity
+
+**Resolve/attach the actual `சிந்தனையும் செயலும்` controlling PDF, then perform P0/P1 in one coherent intake batch: compute filename/SHA-256/file size/physical scan count, visually inspect cover/title/imprint/contents and other front matter, determine the publication form and exact contents/article witnesses from the scan, create `publications/sinthanaiyum-seyalum/` with `README.md`, `metadata/source.md`, `indexes/contents.md` when applicable, `indexes/page-map.md`, and initial page records for every physical scan with non-body/front-matter classification. Do not mark any page verified without direct visual comparison.**
+
+## Rules for the next session
+
+1. Fetch live `main` and read this handover first.
+2. Preserve Publications 1–7 as frozen.
+3. Resolve the actual 2010 third-edition controlling scan before creating source-derived records.
+4. Treat the user-supplied bibliographic details as expected identity until confirmed from the scan.
+5. Keep any 2006 first-edition witness separate; never use it to normalise the 2010 source.
+6. After P0/P1, update this handover with exact source identity, scan/page counts, contents/article mapping, unresolved scan difficulties, and the next transcription batch.
