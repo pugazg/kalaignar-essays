@@ -76,9 +76,11 @@ Unit 41 also preserves the visible space in **`மொழி !`**.
 
 - Unit 1 begins scan 18; heading witness: **`பாசியும் - தூசியும்!`**; scans **18–23 VERIFIED**.
 - Unit 2 begins scan 24; heading witness: **`அதிக உயரம் தாண்டுவதற்கு`**; scans **24–27 VERIFIED**.
+- Unit 3 begins scan 28; heading witness: **`என் பெயர் புரட்சி!`**; scans **28–32 VERIFIED**. The printed contents omits the heading-page exclamation mark, so both witnesses are preserved.
+- Unit 4 begins scan 33; heading witness: **`குருகுலம்!`**; scans **33–35 VERIFIED**.
 - Unit 11 intake observation on scan 56 shows heading `வெற்றி தோல்வி!`, demonstrating why contents and heading witnesses remain separate; this is not yet P2-verified.
-- Units 3–50 remain pending direct P2 heading/boundary verification unless separately recorded later.
+- Units 5–50 remain pending direct P2 heading/boundary verification unless separately recorded later.
 
 ## Next
 
-P2 next batch: **scans 28–55, Units 3–10**.
+Continue P2 with **scans 36–55, Units 5–10**.
