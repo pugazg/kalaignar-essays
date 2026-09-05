@@ -13,9 +13,9 @@ Source PDFs committed: **No**
 - P0 source intake: **COMPLETE / PASS**
 - P1 metadata + contents + page-map intake: **COMPLETE / PASS**
 - physical page records: **226 / 226 CREATED**
-- P2 page-level diplomatic transcription / direct verification: **27 / 226 VERIFIED**
-- P2 completed range: **scans 1–27**
-- P3 article assemblies: **2 / 50 VERIFIED**
+- P2 page-level diplomatic transcription / direct verification: **35 / 226 VERIFIED**
+- P2 completed range: **scans 1–35**
+- P3 article assemblies: **4 / 50 VERIFIED**
 - P4 source audit: **NOT STARTED**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
 - English translation: **NOT STARTED**
@@ -41,18 +41,20 @@ See [`metadata/source.md`](metadata/source.md) for the five-part checksums and p
 
 ## Publication structure
 
-Scans **14–15** contain a printed `பொருளடக்கம்` with **50 numbered units**. The first two units are the dated letter-form pieces:
+Scans **14–15** contain a printed `பொருளடக்கம்` with **50 numbered units**. P2 has now directly verified:
 
 1. `பாசியும் - தூசியும்!` — **scans 18–23 VERIFIED**, closes `27- 4 - 2005`;
-2. `அதிக உயரம் தாண்டுவதற்கு` — **scans 24–27 VERIFIED**, closes `29-4-2005`.
+2. `அதிக உயரம் தாண்டுவதற்கு` — **scans 24–27 VERIFIED**, closes `29-4-2005`;
+3. contents `என் பெயர் புரட்சி` / heading **`என் பெயர் புரட்சி!`** — **scans 28–32 VERIFIED**, closes `1-5-2005`;
+4. `குருகுலம்!` — **scans 33–35 VERIFIED**, closes `3-5-2005`.
 
 A separate user/bibliographic description says “two letters and 50 articles.” That remains a separate bibliographic witness. The controlling scan numbers **50 units total**, so the archival layer does not convert it into 52 units.
 
-The remaining Unit 3–50 spans in [`indexes/page-map.md`](indexes/page-map.md) remain provisional until each heading/end boundary is directly verified.
+The remaining Unit 5–50 spans in [`indexes/page-map.md`](indexes/page-map.md) remain provisional until each heading/end boundary is directly verified.
 
-## P2 corrections propagated from direct scan review
+## P2 corrections / source-sensitive readings
 
-P2 scans 1–27 corrected three P1 convenience readings:
+Earlier P2 corrected three P1 convenience readings:
 
 - scan 5 printer: `ஈகில் பிரஸ்` → **`ஈகிள் பிரஸ்`**
 - contents Unit 18: `சோதி சோகம்!` → **`சோதிட சோகம்!`**
@@ -60,10 +62,12 @@ P2 scans 1–27 corrected three P1 convenience readings:
 
 The contents witness also preserves source-visible `வலி அறிவிக்கும் வாயில்லா மொழி !` with the space before `!`.
 
+Scans 28–35 additionally establish source forms including `காலிப் புட்டிகளாக`, `காலமெலாம்`, `கருப்பாதை`, `மணம் தருமெனக் கருதாதீர்`, `மாசுதான்`, `பீடத்திற்கே`, `அரும்பிடாத வைகறைப் பொழுதில்கூட`, `வாய்ப்பு ஏற்படின்`, and `தரக் கூடியதாகும்`.
+
 ## Source-witness rule
 
 Contents titles, heading-page titles, repeated promotional/back-cover excerpts, title-page publisher/sales-rights statements and later source witnesses remain independent. One witness must never silently normalise another.
 
 ## Exact next activity
 
-**P2 — directly transcribe and verify scans 28–55 in one coherent batch, covering Units 3–10 (`என் பெயர் புரட்சி` through `மனிதனும் மறுபிறவியும்`). Directly verify each heading/start and the following heading/end, preserve contents-vs-heading title differences, record physical-copy marks separately, build article assemblies only after every included page is verified, and update the root handover.**
+**Continue P2 with scans 36–55, covering Units 5–10 (`ஜனநாயக நெறி` through `மனிதனும் மறுபிறவியும்`). Complete direct visual transcription/verification, verify each heading/start and following heading/end, preserve contents-vs-heading title differences, record physical-copy marks separately, assemble only fully verified units, and synchronise indexes, metadata and root handover.**
