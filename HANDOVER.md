@@ -175,7 +175,7 @@ No activity is pending for `கொலைக்களம்!`.
 
 ---
 
-# Publication 8 — சிந்தனையும் செயலும் — P0/P1 COMPLETE / P2 NEXT
+# Publication 8 — சிந்தனையும் செயலும் — P2 ACTIVE / SCANS 1–27 VERIFIED
 
 Workspace: `publications/sinthanaiyum-seyalum/`
 
@@ -199,80 +199,86 @@ The controlling witness is one **226-scan publication** supplied as five non-ove
 
 ## Scan-verified printed identity
 
-Direct P0/P1 visual inspection establishes:
+P2 direct visual review confirms:
 
 - cover/title: `சிந்தனையும் செயலும்`
 - author: `கலைஞர் மு. கருணாநிதி`
-- publisher witness on scan 5: `தமிழ்க்கனி பதிப்பகம்`
+- publisher witness: `தமிழ்க்கனி பதிப்பகம்`
 - first edition: `ஜூன், 2006`
 - second edition: `மார்ச், 2007`
 - third edition: `ஜனவரி, 2010`
 - rights: `ஆசிரியருக்கே`
 - price: `ரூ. 120/-`
-- printer: `ஈகில் பிரஸ், சென்னை - 600 013.`
+- printer: **`ஈகிள் பிரஸ், சென்னை - 600 013.`**
 - title/back-cover sales-rights witness: `பூம்புகார் பதிப்பகம்`, Chennai.
 
-Front matter also contains `பதிப்புரை` on scans 6–7 and `அணிந்துரை` by `டாக்டர் வா. செ. குழந்தைசாமி` on scans 8–12. Printed `பொருளடக்கம்` occupies scans 14–15.
+P1 had `ஈகில் பிரஸ்`; direct high-resolution P2 comparison corrected it to `ஈகிள் பிரஸ்`.
 
-## Publication structure — P1
+Front matter `பதிப்புரை` scans 6–7, `அணிந்துரை` scans 8–12, contents scans 14–15, cover/title/blank witnesses through scan 17 are now directly transcribed and verified.
 
-- scans 1–17: cover/front matter/contents/internal-title/blank-verso witnesses;
-- scans 18–225: body area;
-- scan 226: back-cover/promotional witness;
-- printed contents: **50 numbered units total**;
-- Unit 1 `பாசியும் - தூசியும்!` — contents start printed page 17; expected scans 18–23; directly visible closing date **27-4-2005**;
-- Unit 2 `அதிக உயரம் தாண்டுவதற்கு` — contents start printed page 23; expected scans 24–27; directly visible closing date **29-4-2005**;
-- Units 3–50: P1 contents-derived expected spans are recorded in `indexes/page-map.md`; final boundaries remain pending direct P2 visual verification.
+## Publication structure
 
-The separate user/older bibliographic description says “two letters and 50 articles.” Preserve that statement as a separate bibliographic witness only. The controlling scan's own contents numbers **50 units total**, with Units 1–2 being the two letter-form pieces. Do **not** silently turn the scan into 52 units.
+- scans 1–17: front matter — **P2 VERIFIED**
+- Unit 1 `பாசியும் - தூசியும்!` — scans **18–23 P2 VERIFIED**, closes `27- 4 - 2005`
+- Unit 2 `அதிக உயரம் தாண்டுவதற்கு` — scans **24–27 P2 VERIFIED**, closes `29-4-2005`
+- Units 3–50: remain pending direct P2 verification
+- scan 226: separate back-cover/promotional witness, pending P2
 
-## Source-witness distinctions that must not regress
+The controlling contents witness numbers **50 units total**. The external “two letters + 50 articles” description remains a separate bibliographic witness and does not create 52 archival units.
 
-- `தமிழ்க்கனி பதிப்பகம்` publisher witness and `பூம்புகார் பதிப்பகம்` sales-rights witness serve different printed functions; do not collapse them.
-- contents titles and article-heading titles are independent witnesses; P2 must preserve punctuation/spelling differences instead of normalising them.
-- scan 226 promotional/back-cover excerpts are not body authorities.
-- the external “2 letters + 50 articles” description is not authority over the scan's 50-entry contents.
-- cover, title page, internal title page and back cover remain separate source witnesses.
+## P2 source corrections / non-regression decisions
 
-## Physical-copy condition
+Direct scans 1–27 establish:
 
-Intake inspection shows circular library stamps on front matter, yellow/brown spotting/foxing, handling stains and bleed-through on blank/verso leaves. Printed text and physical-copy marks must remain in separate sections.
+- scan 5 printer `ஈகிள் பிரஸ்`
+- Unit 18 contents title `சோதிட சோகம்!`
+- Unit 44 contents title `குரு பீடமும்; குறள் பீடமும்!`
+- Unit 41 contents witness `வலி அறிவிக்கும் வாயில்லா மொழி !` with source-visible space before `!`
+- Unit 1 source-sensitive readings include `அப்படியொரு நிலை பெறுவது`, `கருப்பாதை`, `‘ஜனநாயக’த்தில்`, `‘துறவு’ம்`
+- Unit 2 source-sensitive readings include `அந்த மெல்லிய ஒலியைத் தவிர`, `எதிர் காலம்`, `விலங்கொடிக்க`
+
+Do not modernise or silently harmonise these source-visible forms.
 
 ## Tamil archival status
 
-- P0 source intake / split resolution: **COMPLETE / PASS**
-- P1 metadata + contents + page map: **COMPLETE / PASS**
+- P0: **COMPLETE / PASS**
+- P1: **COMPLETE / PASS**
 - physical scan records: **226 / 226 CREATED**
-- front/back records structurally inspected but not source-complete: **18 partial** (scans 1–17 and 226)
-- body page records: **208 not-started** (scans 18–225)
-- pages marked `verified`: **0 / 226**
-- P2 direct transcription/verification: **NOT STARTED / NEXT**
-- P3 article assemblies: **0 / 50; NOT STARTED**
+- P2 directly verified pages: **27 / 226**
+- P2 verified range: **1–27**
+- P2 verified body units: **2 / 50**
+- P3 article assemblies: **2 / 50 VERIFIED**
 - P4 source/completeness audit: **NOT STARTED**
 - P5 strict visual word/punctuation pass: **NOT STARTED**
-- Tamil archival phase: **P0/P1 COMPLETE / P2 ACTIVE NEXT**
+- unresolved readings in verified scans 1–27: **0**
+- Tamil archival phase: **P2 ACTIVE**
+
+Verified article assemblies:
+
+1. `articles/01-paasiyum-thoosiyum.md`
+2. `articles/02-athiga-uyaram-thaanduvatharku.md`
 
 ## English translation status
 
 - English translation: **NOT STARTED**
 - translation workspace: **NOT CREATED**
-- prerequisite: complete/freeze Tamil through strict P5 before English begins.
+- prerequisite: complete/freeze Tamil through strict P5 first.
 
 ## Current unresolved source questions
 
-- Exact article-heading punctuation/spelling and final start/end boundaries for most Units 3–50 remain unverified at P1; the contents-derived spans are navigation hints only.
-- Original unsplit 574 MB PDF checksum is unavailable from the five supplied transfer parts; only the exact five part hashes above are authoritative for the received source.
-- No body-text reading is being guessed from contents or outside bibliography.
+- Exact heading punctuation/spelling and final boundaries for Units 3–50 remain unverified except intake observations explicitly labelled as such.
+- Original unsplit 574 MB PDF checksum remains unavailable; only the five transfer-part checksums are authoritative.
+- No body-text reading may be imported from the external bibliography or inferred from contents alone.
 
 ## Exact next activity
 
-**P2 — directly transcribe and verify scans 1–27 in one coherent batch: front matter scans 1–17 plus Unit 1 `பாசியும் - தூசியும்!` scans 18–23 and Unit 2 `அதிக உயரம் தாண்டுவதற்கு` scans 24–27. Record every source-visible word/punctuation and physical-copy mark, directly verify Unit-1/Unit-2 starts and endings, preserve contents-title versus heading-title differences as separate witnesses, create/refresh dependent records only from the verified page layer, and update this root handover.**
+**P2 — directly transcribe and verify scans 28–55 in one coherent batch, covering Units 3–10 (`என் பெயர் புரட்சி` through `மனிதனும் மறுபிறவியும்`). Verify each unit heading/start and the following heading/end directly from the scan, preserve contents-title versus heading-title differences as independent witnesses, record printed text and physical-copy marks separately, create article assemblies only after every included page is verified, propagate source corrections to indexes/README, and update this root handover.**
 
 ## Rules for the next session
 
 1. Fetch live `main` and read this handover first.
 2. Preserve Publications 1–7 as frozen.
-3. Read `publications/sinthanaiyum-seyalum/README.md`, `metadata/source.md`, `indexes/contents.md`, and `indexes/page-map.md` before P2 writes.
-4. Treat all P1 unit spans as provisional until directly verified from scan headings/endings.
-5. Do not mark a page verified without complete direct visual comparison.
+3. Read the active publication README, source metadata, contents and page map before P2 writes.
+4. Preserve all P2-verified scans 1–27 unless a genuine source-supported correction is found.
+5. Treat Unit 3–50 P1 spans as provisional until direct visual verification.
 6. Do not begin English translation.

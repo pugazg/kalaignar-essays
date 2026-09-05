@@ -21,7 +21,7 @@ Source identifier: `TVA_BOK_0065568`
 - source PDFs committed to repository: **No**
 - source authority: supplied scan pixels; filenames are identifiers/range labels only.
 
-## Printed identity — direct intake witnesses
+## Printed identity — direct visual witnesses
 
 ### Scan 1 — front cover
 
@@ -40,7 +40,7 @@ Source identifier: `TVA_BOK_0065568`
 
 ### Scan 5 — publication / edition data
 
-Directly visible publication data:
+Direct P2 visual comparison establishes:
 
 - `பதிப்பாளர் : தமிழ்க்கனி பதிப்பகம்`
 - `முதற்பதிப்பு : ஜூன், 2006`
@@ -48,68 +48,84 @@ Directly visible publication data:
 - `மூன்றாம் பதிப்பு : ஜனவரி, 2010`
 - `உரிமை : ஆசிரியருக்கே`
 - `விலை. ரூ. 120/-`
-- printer line: **`அச்சிட்டவர்கள் : ஈகில் பிரஸ், சென்னை - 600 013.`**
+- printer line: **`அச்சிட்டவர்கள் : ஈகிள் பிரஸ், சென்னை - 600 013.`**
+
+P1 intake had `ஈகில் பிரஸ்`; P2 high-resolution visual review corrected it to **`ஈகிள் பிரஸ்`**.
 
 ### Scans 6–7 — publisher's note
 
 - heading: **`பதிப்புரை`**
-- ending/signature witness on scan 7: **`– தமிழ்க்கனி பதிப்பகத்தார்`**.
+- ending/signature witness on scan 7: **`- தமிழ்க்கனி பதிப்பகத்தார்`**.
+- scans **6–7 VERIFIED** in P2.
 
 ### Scans 8–12 — foreword
 
 - heading: **`அணிந்துரை`**
 - byline/opening witness: **`டாக்டர் வா. செ. குழந்தைசாமி`**
-- signed ending on scan 12: **`(வா. செ. குழந்தைசாமி)`**.
+- signed ending on scan 12: **`(வா. செ. குழந்தைசாமி)`**
+- scans **8–12 VERIFIED** in P2.
 
 ### Scans 14–15 — printed contents
 
 - heading: **`பொருளடக்கம்`**
 - numbered contents units: **50**
-- detailed diplomatic P1 witness: `../indexes/contents.md`.
+- scans **14–15 VERIFIED** in P2.
+- P2 corrected two P1 readings: Unit 18 **`சோதிட சோகம்!`** and Unit 44 **`குரு பீடமும்; குறள் பீடமும்!`**.
+- Unit 41 preserves source-visible **`வலி அறிவிக்கும் வாயில்லா மொழி !`** with the space before `!`.
+- detailed diplomatic witness: `../indexes/contents.md`.
 
 ### Scan 16 — internal title page
 
 - `சிந்தனையும் செயலும்`
-- `கலைஞர் மு. கருணாநிதி`.
+- `- கலைஞர் மு. கருணாநிதி`
+- scan **16 VERIFIED** in P2.
 
 ### Scan 226 — back cover / promotional witness
 
-Back-cover promotional text is a separate witness from article body text. It also carries the sales-rights/publisher-address block for **`பூம்புகார் பதிப்பகம்`**. Do not use the promotional excerpts to normalise body wording.
+Back-cover promotional text remains a separate witness from article body text. It also carries the sales-rights/publisher-address block for **`பூம்புகார் பதிப்பகம்`**. Do not use the promotional excerpts to normalise body wording. Scan 226 remains pending P2.
 
 ## Publication form
 
-At P1 this is classified as a **multi-unit essay/letter collection**. The printed contents numbers **50 units total**. Direct scan inspection confirms the first two are letter-form pieces with closing dates:
+This is a **multi-unit essay/letter collection**. The printed contents numbers **50 units total**. Direct P2 scan inspection confirms:
 
-1. `பாசியும் - தூசியும்!` — closes **27-4-2005**;
-2. `அதிக உயரம் தாண்டுவதற்கு` — closes **29-4-2005**.
+1. `பாசியும் - தூசியும்!` — scans **18–23**, closes **`27- 4 - 2005`**;
+2. `அதிக உயரம் தாண்டுவதற்கு` — scans **24–27**, closes **`29-4-2005`**.
 
 The separate user/bibliographic statement “two letters and 50 articles” is retained as an external description only. It is not used to turn the scan's 50 numbered contents entries into 52 archival units.
 
 ## Printed-page behaviour / split continuity
 
-The body shows a stable physical/printed offset in observed numbered examples: global scan 55 visibly carries printed page 54; global scan 57 carries printed page 56; global scan 110 carries printed page 109; global scan 165 carries printed page 164; global scan 220 carries printed page 219. This validates transfer continuity across all five split boundaries.
+Observed body numbering confirms the physical/printed offset. P2 now records numerals only when directly visible. In the first verified body range:
 
-This observed offset must **not** be used to invent a printed numeral on an unnumbered page. Individual page records keep `printed_page: null` until the numeral is directly visible and recorded during P2.
+- scan 18: no printed numeral visible;
+- scans 19–23: printed **18–22**;
+- scan 24: no printed numeral visible;
+- scans 25–27: printed **24–26**.
+
+The offset must **not** be used to invent a numeral on an unnumbered page.
 
 ## Physical-copy condition / provenance marks
 
-Intake inspection shows:
+P2 confirms:
 
 - circular library stamps on front matter, including scans 2, 4 and 6;
-- yellow/brown spotting/foxing and handling stains on many scans;
+- yellow/brown spotting/foxing and handling stains;
 - visible bleed-through on several blank/verso pages;
-- front-matter blank/near-blank scans that must remain physical records rather than being omitted.
+- blank/near-blank scans remain physical records rather than being omitted.
 
-Printed publication text and later physical-copy marks must remain in separate page-record sections.
+Printed publication text and later physical-copy marks remain separate page-record sections.
 
-## P0/P1 gate
+## P0/P1/P2 gate
 
 - P0 source resolution / split continuity / source identity: **COMPLETE / PASS**
 - P1 publication identity, contents witness and provisional page mapping: **COMPLETE / PASS**
 - physical page records created: **226 / 226**
-- pages marked `verified`: **0 / 226**
-- P2 direct page transcription/verification: **NEXT**
+- P2 directly verified page records: **27 / 226**
+- verified range: **scans 1–27**
+- verified article boundaries: **Units 1–2**
+- article assemblies: **2 / 50 VERIFIED**
+- P5 strict visual fidelity: **NOT STARTED**
 
 ## Exact next activity
 
-**Directly transcribe and verify scans 1–27 (front matter 1–17 and the first two letter units 18–27), recording all source-visible text/punctuation and physical-copy marks, directly verify Unit-1/Unit-2 boundaries, preserve contents-title versus heading-title witnesses independently, and update dependent records plus root `HANDOVER.md`.**
+**Directly transcribe and verify scans 28–55 (Units 3–10), verifying every heading/start and following heading/end from the source, preserving contents-vs-heading witnesses independently, recording physical-copy marks, then creating/updating article assemblies only from the verified page layer and synchronising the root handover.**
