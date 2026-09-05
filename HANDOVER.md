@@ -175,7 +175,7 @@ No activity is pending for `கொலைக்களம்!`.
 
 ---
 
-# Publication 8 — சிந்தனையும் செயலும் — P2 ACTIVE / SCANS 1–55 VERIFIED
+# Publication 8 — சிந்தனையும் செயலும் — P2 ACTIVE / SCANS 1–81 VERIFIED
 
 Workspace: `publications/sinthanaiyum-seyalum/`
 
@@ -203,7 +203,7 @@ P2 direct visual review confirms title `சிந்தனையும் செ
 
 Front matter scans **1–17** are P2 verified.
 
-## Verified body structure through Unit 10
+## Verified body structure through Unit 17
 
 1. `பாசியும் - தூசியும்!` — **18–23**, `27- 4 - 2005`
 2. `அதிக உயரம் தாண்டுவதற்கு` — **24–27**, `29-4-2005`
@@ -215,18 +215,27 @@ Front matter scans **1–17** are P2 verified.
 8. `மனிதனின் மறுபக்கம்` — **46–48**, `15-5-2005`
 9. heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` — **49–51**, `16-5-2005`
 10. `மனிதனும் மறுபிறவியும்` — **52–55**, `6-6-2005`
+11. heading `வெற்றி தோல்வி!` — **56–58**, `8 - 6 - 2005`
+12. `அழுக்காறு` — **59–61**, `10 - 6 - 2005`
+13. `மிகுதிக்கண்...` — **62–65**, `1 - 7 - 2005`
+14. `வலிவும், பொலிவும்!` — **66–68**, `8 - 7 - 2005`
+15. heading `இன்பமும் துன்பமும்!` — **69–74**, `9 - 7 - 2005`
+16. `ஒழுக்கம்` — **75–77**, `14 - 7 - 2005`
+17. `வசிய மருந்து` — **78–81**, `18 - 7 - 2005`
 
-Global scan 56 directly begins Unit 11 with heading `வெற்றி தோல்வி!`, confirming Unit 10 ends at scan 55. Unit 11 body is not yet P2-verified.
+Global scan **82** directly begins Unit 18 with heading `சோதிட சோகம்!`, confirming Unit 17 ends at scan 81.
 
 ## Independent witness distinctions / frozen non-regression
 
 - Unit 3 contents `என் பெயர் புரட்சி` ↔ heading `என் பெயர் புரட்சி!`.
 - Unit 6 contents `வாக்குச் சீட்டின் வலிமை` ↔ heading `வாக்குச்சீட்டின் வலிமை`.
 - Unit 9 contents `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`.
-- Unit 11 contents `வெற்றி - தோல்வி!` ↔ scan-56 heading `வெற்றி தோல்வி!`.
+- Unit 11 contents `வெற்றி - தோல்வி!` ↔ heading `வெற்றி தோல்வி!`.
+- Unit 15 contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!`.
 - P1 printer `ஈகில் பிரஸ்` was corrected by scan to `ஈகிள் பிரஸ்`.
 - contents Unit 18 is `சோதிட சோகம்!`; Unit 44 is `குரு பீடமும்; குறள் பீடமும்!`; Unit 41 preserves `வலி அறிவிக்கும் வாயில்லா மொழி !`.
-- preserve source-visible forms including `கருப்பாதை`, `‘ஜனநாயக’த்தில்`, `‘துறவு’ம்`, `எதிர் காலம்`, `விலங்கொடிக்க`, `காலிப் புட்டிகளாக`, `வழங்கப்பட்டோர் பெயர்கள்`, `பிடிப்பின்றித்`, `செயலாக்கம்`, `முதன்முதல்`, `அனைத்திந்திய`, `சித்ரவதை`, `உறுதிபட`, `போதாகி மலர்கின்ற`, `அங்கனமாயின்`, `கவிதைக்குப் பூசும் தங்க முலாம்.`, `உருமாற்றவும்தான்`, `கூடவேகூடாது`.
+- preserve earlier source-visible forms including `கருப்பாதை`, `‘ஜனநாயக’த்தில்`, `‘துறவு’ம்`, `எதிர் காலம்`, `விலங்கொடிக்க`, `காலிப் புட்டிகளாக`, `வழங்கப்பட்டோர் பெயர்கள்`, `பிடிப்பின்றித்`, `செயலாக்கம்`, `முதன்முதல்`, `அனைத்திந்திய`, `சித்ரவதை`, `உறுதிபட`, `போதாகி மலர்கின்ற`, `அங்கனமாயின்`, `கவிதைக்குப் பூசும் தங்க முலாம்.`, `உருமாற்றவும்தான்`, `கூடவேகூடாது`.
+- preserve batch-56–81 source-visible forms including `தேறல்`, `தன்மான`, `அந்நாள்`, `ஒரு பகுதியில்`, `அல்வழிச்`, `உற்பத்தியாகக்`, `‘நகுதல்’ எனப்படும் சிரித்து மகிழ்ந்து பழகுவதே`, `மருத்துவ (டாக்டர்) நண்பர்`, `மருத்துவ நண்பருக்குரிய`, `நாகரிகமாக`, `நகுதற் பொருட்டுதான்`, `வீண் வெறுப்புக்கு`, `விளையாட்டு போலவே`, `ஓங்கி`, `ஓசை`, `ஒன்பது மணி`, `எதென்சிலும்`, `எதென்ஸ்`, `2000ஆம்`, `2004ஆம்`, `2012ஆம்`, `இஃதோர் தூண்டுதலாகட்டும்`, `நடைபெறுமேயானால்`, `காரணமானவர்களைச் சட்டத்தின்`, `வயிற்றுப் பிழைப்பு சார்`, `திருந்துவார்களோ?`, `பகுத்தறிவு பரப்புவதைத்`.
 
 Do not modernise, silently correct or harmonise these witnesses.
 
@@ -235,13 +244,13 @@ Do not modernise, silently correct or harmonise these witnesses.
 - P0: **COMPLETE / PASS**
 - P1: **COMPLETE / PASS**
 - physical scan records: **226 / 226 CREATED**
-- P2 directly verified pages: **55 / 226**
-- P2 verified range: **1–55**
-- P2 verified body units: **10 / 50**
-- P3 article assemblies: **10 / 50 VERIFIED**
+- P2 directly verified pages: **81 / 226**
+- P2 verified range: **1–81**
+- P2 verified body units: **17 / 50**
+- P3 article assemblies: **17 / 50 VERIFIED**
 - P4 source/completeness audit: **NOT STARTED**
 - P5 strict visual word/punctuation pass: **NOT STARTED**
-- unresolved readings in verified scans 1–55: **0**
+- unresolved readings in verified scans 1–81: **0**
 - Tamil archival phase: **P2 ACTIVE**
 
 ## English translation status
@@ -252,18 +261,19 @@ Do not modernise, silently correct or harmonise these witnesses.
 
 ## Current unresolved source questions
 
-- Units 11–50 remain pending direct P2 transcription/boundary verification.
+- Units 18–50 remain pending direct P2 transcription/boundary verification.
 - Original unsplit 574 MB PDF checksum remains unavailable; only the five transfer-part checksums are authoritative.
 - No body-text reading may be imported from external bibliography or inferred from contents alone.
 
 ## Exact next activity
 
-**P2 — directly transcribe and verify scans 56–81 in one coherent batch, covering Units 11–17 (`வெற்றி தோல்வி!` through `வசிய மருந்து`). Verify each unit heading/start and the following heading/end directly from the scan, preserve contents-title versus heading-title differences as independent witnesses, record printed text and physical-copy marks separately, create article assemblies only after every included page is verified, propagate source corrections to indexes/README, and update this root handover.**
+**P2 — directly transcribe and verify scans 82–111 in one coherent batch, covering Units 18–25 (`சோதிட சோகம்!` through `இங்கர்சால்`). Scans 82–109 are in Part 002 and scans 110–111 cross into Part 003. Verify each unit heading/start and the following heading/end directly from the scan, preserve contents-title versus heading-title differences as independent witnesses, record printed text and physical-copy marks separately, create article assemblies only after every included page is verified, propagate source corrections to indexes/README, and update this root handover.**
 
 ## Rules for the next session
 
 1. Fetch live `main` and read this handover first.
 2. Preserve Publications 1–7 as frozen.
-3. Preserve all P2-verified scans 1–55 unless a genuine source-supported correction is found.
-4. Treat Unit 11–50 P1 spans as provisional until direct visual verification.
-5. Do not begin English translation.
+3. Preserve all P2-verified scans 1–81 unless a genuine source-supported correction is found.
+4. Treat Units 18–50 P1 spans as provisional until direct visual verification.
+5. Resolve the supplied Part 003 source before final verification of global scans 110–111.
+6. Do not begin English translation.

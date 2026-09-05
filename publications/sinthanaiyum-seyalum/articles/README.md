@@ -1,6 +1,6 @@
 # Article Assemblies — சிந்தனையும் செயலும்
 
-P2 has directly verified and assembled Units **1–10**:
+P2 has directly verified and assembled Units **1–17**:
 
 1. [`01-paasiyum-thoosiyum.md`](01-paasiyum-thoosiyum.md) — `பாசியும் - தூசியும்!` — scans **18–23** — **VERIFIED**
 2. [`02-athiga-uyaram-thaanduvatharku.md`](02-athiga-uyaram-thaanduvatharku.md) — `அதிக உயரம் தாண்டுவதற்கு` — scans **24–27** — **VERIFIED**
@@ -12,11 +12,18 @@ P2 has directly verified and assembled Units **1–10**:
 8. [`08-manithanin-marupakkam.md`](08-manithanin-marupakkam.md) — `மனிதனின் மறுபக்கம்` — scans **46–48** — **VERIFIED**
 9. [`09-vinnai-thottu-mannil-pudhaivatha.md`](09-vinnai-thottu-mannil-pudhaivatha.md) — heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` — scans **49–51** — **VERIFIED**
 10. [`10-manithanum-marupiraviyum.md`](10-manithanum-marupiraviyum.md) — `மனிதனும் மறுபிறவியும்` — scans **52–55** — **VERIFIED**
+11. [`11-vetri-tholvi.md`](11-vetri-tholvi.md) — heading `வெற்றி தோல்வி!` — scans **56–58** — **VERIFIED**
+12. [`12-azhukkaru.md`](12-azhukkaru.md) — `அழுக்காறு` — scans **59–61** — **VERIFIED**
+13. [`13-miguthikkan.md`](13-miguthikkan.md) — `மிகுதிக்கண்...` — scans **62–65** — **VERIFIED**
+14. [`14-valivum-polivum.md`](14-valivum-polivum.md) — `வலிவும், பொலிவும்!` — scans **66–68** — **VERIFIED**
+15. [`15-inbamum-thunbamum.md`](15-inbamum-thunbamum.md) — heading `இன்பமும் துன்பமும்!` — scans **69–74** — **VERIFIED**
+16. [`16-ozhukkam.md`](16-ozhukkam.md) — `ஒழுக்கம்` — scans **75–77** — **VERIFIED**
+17. [`17-vasiya-marunthu.md`](17-vasiya-marunthu.md) — `வசிய மருந்து` — scans **78–81** — **VERIFIED**
 
-Contents-title and heading-title differences are preserved in each assembly's metadata rather than normalised.
+Contents-title and heading-title differences are preserved in each assembly's metadata rather than normalised. In particular, Unit 11 contents `வெற்றி - தோல்வி!` differs from heading `வெற்றி தோல்வி!`, and Unit 15 contents `இன்பமும் துன்பமும்` differs from heading `இன்பமும் துன்பமும்!`.
 
-Units **11–50** remain pending P2 direct page verification. Their P1 spans are navigation expectations only until headings/endings are inspected from the scan.
+Units **18–50** remain pending P2 direct page verification. Their P1 spans are navigation expectations only until headings/endings are inspected from the scan.
 
 ## Next
 
-P2 next processes scans **56–81**, covering Units **11–17**.
+P2 next processes scans **82–111**, covering Units **18–25** (`சோதிட சோகம்!` through `இங்கர்சால்`). Scans **82–109** are in Part 002; scans **110–111** cross into Part 003.

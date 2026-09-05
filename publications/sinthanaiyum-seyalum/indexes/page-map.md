@@ -8,8 +8,8 @@ Source form: five transfer PDFs representing one publication.
 
 - Physical scan order is authoritative.
 - Printed page numerals are recorded only when directly visible; no numeral is invented from sequence.
-- Units **1–10** now have P2-directly verified boundaries.
-- Units **11–50** remain P1 contents-derived expected spans until their headings/ends are directly verified.
+- Units **1–17** now have P2-directly verified boundaries.
+- Units **18–50** remain P1 contents-derived expected spans until their headings/ends are directly verified.
 - Independent contents, heading and promotional/back-cover witnesses must remain separate.
 
 ## Transfer-part map
@@ -58,13 +58,13 @@ Total: **226 scans**, no gap or overlap.
 | 8 | `மனிதனின் மறுபக்கம்` | 45 | **46–48** | **P2 VERIFIED** |
 | 9 | `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` | 48 | **49–51** | **P2 VERIFIED** |
 | 10 | `மனிதனும் மறுபிறவியும்` | 51 | **52–55** | **P2 VERIFIED** |
-| 11 | `வெற்றி - தோல்வி!` | 55 | 56–58 | provisional |
-| 12 | `அழுக்காறு` | 58 | 59–61 | provisional |
-| 13 | `மிகுதிக்கண்...` | 61 | 62–65 | provisional |
-| 14 | `வலிவும், பொலிவும்!` | 65 | 66–68 | provisional |
-| 15 | `இன்பமும் துன்பமும்` | 68 | 69–74 | provisional |
-| 16 | `ஒழுக்கம்` | 74 | 75–77 | provisional |
-| 17 | `வசிய மருந்து` | 77 | 78–81 | provisional |
+| 11 | `வெற்றி - தோல்வி!` | 55 | **56–58** | **P2 VERIFIED** |
+| 12 | `அழுக்காறு` | 58 | **59–61** | **P2 VERIFIED** |
+| 13 | `மிகுதிக்கண்...` | 61 | **62–65** | **P2 VERIFIED** |
+| 14 | `வலிவும், பொலிவும்!` | 65 | **66–68** | **P2 VERIFIED** |
+| 15 | `இன்பமும் துன்பமும்` | 68 | **69–74** | **P2 VERIFIED** |
+| 16 | `ஒழுக்கம்` | 74 | **75–77** | **P2 VERIFIED** |
+| 17 | `வசிய மருந்து` | 77 | **78–81** | **P2 VERIFIED** |
 | 18 | `சோதிட சோகம்!` | 81 | 82–84 | provisional |
 | 19 | `ஆன்மிக ஆழ்கடல்!` | 84 | 85–89 | provisional |
 | 20 | `தேனில் குழைத்துக் கொடுத்தாலும்...!` | 89 | 90–93 | provisional |
@@ -101,7 +101,7 @@ Total: **226 scans**, no gap or overlap.
 
 Body span: **scans 18–225**. Scan 226 is a separate back-cover/promotional witness.
 
-## P2 boundary evidence — Units 1–10
+## P2 boundary evidence — Units 1–17
 
 | Unit | Heading witness | Verified scans | Closing date |
 |---:|---|---:|---|
@@ -115,19 +115,27 @@ Body span: **scans 18–225**. Scan 226 is a separate back-cover/promotional wit
 | 8 | `மனிதனின் மறுபக்கம்` | 46–48 | `15-5-2005` |
 | 9 | `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` | 49–51 | `16-5-2005` |
 | 10 | `மனிதனும் மறுபிறவியும்` | 52–55 | `6-6-2005` |
+| 11 | `வெற்றி தோல்வி!` | 56–58 | `8 - 6 - 2005` |
+| 12 | `அழுக்காறு` | 59–61 | `10 - 6 - 2005` |
+| 13 | `மிகுதிக்கண்...` | 62–65 | `1 - 7 - 2005` |
+| 14 | `வலிவும், பொலிவும்!` | 66–68 | `8 - 7 - 2005` |
+| 15 | `இன்பமும் துன்பமும்!` | 69–74 | `9 - 7 - 2005` |
+| 16 | `ஒழுக்கம்` | 75–77 | `14 - 7 - 2005` |
+| 17 | `வசிய மருந்து` | 78–81 | `18 - 7 - 2005` |
 
-Global scan **56** directly shows Unit 11 heading `வெற்றி தோல்வி!`, independently confirming Unit 10 ends at scan 55. Unit 11 itself remains pending P2.
+Global scan **82** directly shows Unit 18 heading `சோதிட சோகம்!`, independently confirming Unit 17 ends at scan 81.
 
 ## Current result
 
 - physical scans accounted for: **226 / 226**
 - page records created: **226 / 226**
-- P2 page records verified: **55 / 226**
-- P2 verified range: **1–55**
-- verified body units: **10 / 50**
-- article assemblies created from verified page layer: **10 / 50**
-- remaining direct article boundaries: **Units 11–50 pending**
+- P2 page records verified: **81 / 226**
+- P2 verified range: **1–81**
+- verified body units: **17 / 50**
+- article assemblies created from verified page layer: **17 / 50**
+- unresolved readings in verified range: **0**
+- remaining direct article boundaries: **Units 18–50 pending**
 
 ## Exact next activity
 
-**P2 scans 56–81: directly transcribe/verify Units 11–17, verify every heading/start and following heading/end, preserve contents-vs-heading witness differences, assemble only verified units, and update the root handover.**
+**P2 scans 82–111: directly transcribe/verify Units 18–25 (`சோதிட சோகம்!` through `இங்கர்சால்`). Scans 82–109 are in Part 002; scans 110–111 cross into Part 003. Verify every heading/start and following heading/end, preserve contents-vs-heading witness differences, assemble only verified units, and update the root handover.**
