@@ -86,21 +86,24 @@ Back-cover promotional text remains a separate witness from article body text. I
 
 ## Publication form
 
-This is a **multi-unit essay/letter collection**. The printed contents numbers **50 units total**. Direct P2 scan inspection confirms:
+This is a **multi-unit essay/letter collection**. The printed contents numbers **50 units total**. Direct P2 scan inspection now confirms:
 
 1. `பாசியும் - தூசியும்!` — scans **18–23**, closes **`27- 4 - 2005`**;
-2. `அதிக உயரம் தாண்டுவதற்கு` — scans **24–27**, closes **`29-4-2005`**.
+2. `அதிக உயரம் தாண்டுவதற்கு` — scans **24–27**, closes **`29-4-2005`**;
+3. contents `என் பெயர் புரட்சி` / heading **`என் பெயர் புரட்சி!`** — scans **28–32**, closes **`1-5-2005`**;
+4. `குருகுலம்!` — scans **33–35**, closes **`3-5-2005`**.
 
 The separate user/bibliographic statement “two letters and 50 articles” is retained as an external description only. It is not used to turn the scan's 50 numbered contents entries into 52 archival units.
 
 ## Printed-page behaviour / split continuity
 
-Observed body numbering confirms the physical/printed offset. P2 now records numerals only when directly visible. In the first verified body range:
+Observed body numbering confirms the physical/printed offset. P2 records numerals only when directly visible:
 
-- scan 18: no printed numeral visible;
+- opening scan of each verified unit (18, 24, 28, 33): unit marker visible but no printed page numeral;
 - scans 19–23: printed **18–22**;
-- scan 24: no printed numeral visible;
-- scans 25–27: printed **24–26**.
+- scans 25–27: printed **24–26**;
+- scans 29–32: printed **28–31**;
+- scans 34–35: printed **33–34**.
 
 The offset must **not** be used to invent a numeral on an unnumbered page.
 
@@ -110,22 +113,38 @@ P2 confirms:
 
 - circular library stamps on front matter, including scans 2, 4 and 6;
 - yellow/brown spotting/foxing and handling stains;
-- visible bleed-through on several blank/verso pages;
+- visible bleed-through on several blank/verso and body pages;
 - blank/near-blank scans remain physical records rather than being omitted.
 
 Printed publication text and later physical-copy marks remain separate page-record sections.
+
+## P2 source-sensitive body readings now protected
+
+Scans 28–35 directly support, among others:
+
+- `காலிப் புட்டிகளாக`
+- `காலமெலாம்`
+- `கருப்பாதை`
+- `மணம் தருமெனக் கருதாதீர்`
+- `மாசுதான்`
+- `பீடத்திற்கே`
+- `அரும்பிடாத வைகறைப் பொழுதில்கூட`
+- `வாய்ப்பு ஏற்படின்`
+- `தரக் கூடியதாகும்`
+
+These forms must not be silently modernised or replaced by OCR/conventional readings.
 
 ## P0/P1/P2 gate
 
 - P0 source resolution / split continuity / source identity: **COMPLETE / PASS**
 - P1 publication identity, contents witness and provisional page mapping: **COMPLETE / PASS**
 - physical page records created: **226 / 226**
-- P2 directly verified page records: **27 / 226**
-- verified range: **scans 1–27**
-- verified article boundaries: **Units 1–2**
-- article assemblies: **2 / 50 VERIFIED**
+- P2 directly verified page records: **35 / 226**
+- verified range: **scans 1–35**
+- verified article boundaries: **Units 1–4**
+- article assemblies: **4 / 50 VERIFIED**
 - P5 strict visual fidelity: **NOT STARTED**
 
 ## Exact next activity
 
-**Directly transcribe and verify scans 28–55 (Units 3–10), verifying every heading/start and following heading/end from the source, preserving contents-vs-heading witnesses independently, recording physical-copy marks, then creating/updating article assemblies only from the verified page layer and synchronising the root handover.**
+**Continue P2 with scans 36–55 (Units 5–10), verifying every heading/start and following heading/end from the source, preserving contents-vs-heading witnesses independently, recording physical-copy marks, then creating/updating article assemblies only from the verified page layer and synchronising the root handover.**
