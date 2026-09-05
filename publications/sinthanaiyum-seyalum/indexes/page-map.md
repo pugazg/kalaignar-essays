@@ -8,8 +8,8 @@ Source form: five transfer PDFs representing one publication.
 
 - Physical scan order is authoritative.
 - Printed page numerals are recorded only when directly visible; no numeral is invented from sequence.
-- Units **1–2** now have P2-directly verified boundaries.
-- Units **3–50** remain P1 contents-derived expected spans until their headings/ends are directly verified.
+- Units **1–4** now have P2-directly verified boundaries.
+- Units **5–50** remain P1 contents-derived expected spans until their headings/ends are directly verified.
 - Independent contents, heading and promotional/back-cover witnesses must remain separate.
 
 ## Transfer-part map
@@ -50,8 +50,8 @@ Total: **226 scans**, no gap or overlap.
 |---:|---|---:|---:|---|
 | 1 | `பாசியும் - தூசியும்!` | 17 | **18–23** | **P2 VERIFIED** |
 | 2 | `அதிக உயரம் தாண்டுவதற்கு` | 23 | **24–27** | **P2 VERIFIED** |
-| 3 | `என் பெயர் புரட்சி` | 27 | 28–32 | provisional |
-| 4 | `குருகுலம்!` | 32 | 33–35 | provisional |
+| 3 | `என் பெயர் புரட்சி` | 27 | **28–32** | **P2 VERIFIED** — heading `என் பெயர் புரட்சி!` |
+| 4 | `குருகுலம்!` | 32 | **33–35** | **P2 VERIFIED** |
 | 5 | `ஜனநாயக நெறி` | 35 | 36–38 | provisional |
 | 6 | `வாக்குச் சீட்டின் வலிமை` | 38 | 39–41 | provisional |
 | 7 | `சுயமரியாதைத் திருமணம்` | 41 | 42–45 | provisional |
@@ -101,7 +101,7 @@ Total: **226 scans**, no gap or overlap.
 
 Body span: **scans 18–225**. Scan 226 is a separate back-cover/promotional witness.
 
-## P2 boundary evidence — Units 1–2
+## P2 boundary evidence — Units 1–4
 
 ### Unit 1
 
@@ -118,15 +118,32 @@ Body span: **scans 18–225**. Scan 226 is a separate back-cover/promotional wit
 - closing date: **`29-4-2005`**
 - verified span: **24–27**
 
+### Unit 3
+
+- heading/start directly visible on scan **28**: `என் பெயர் புரட்சி!`
+- printed contents witness is `என் பெயர் புரட்சி` without the exclamation mark
+- ending directly visible on scan **32**
+- closing date: **`1-5-2005`**
+- Unit 4 heading begins scan 33
+- verified span: **28–32**
+
+### Unit 4
+
+- heading/start directly visible on scan **33**: `குருகுலம்!`
+- ending directly visible on scan **35**
+- closing date: **`3-5-2005`**
+- Unit 5 heading begins scan 36
+- verified span: **33–35**
+
 ## Current result
 
 - physical scans accounted for: **226 / 226**
 - page records created: **226 / 226**
-- P2 page records verified: **27 / 226**
-- verified body units: **2 / 50**
-- article assemblies created from verified page layer: **2 / 50**
-- remaining final direct article boundaries: **Units 3–50 pending**
+- P2 page records verified: **35 / 226**
+- verified body units: **4 / 50**
+- article assemblies created from verified page layer: **4 / 50**
+- remaining final direct article boundaries: **Units 5–50 pending**
 
 ## Exact next activity
 
-**P2 scans 28–55: directly transcribe/verify Units 3–10, verify every heading/start and following heading/end, preserve contents-vs-heading witness differences, assemble only verified units, and update the root handover.**
+**Continue P2 with scans 36–55: directly transcribe/verify Units 5–10, verify every heading/start and following heading/end, preserve contents-vs-heading witness differences, assemble only verified units, and update metadata/root handover.**
