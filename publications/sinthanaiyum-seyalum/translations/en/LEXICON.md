@@ -4,7 +4,7 @@ This lexicon is a consistency aid under `ESSAY_TRANSLATION_GUIDE.md`; context st
 
 | Tamil | Preferred English | Context / exception | First established in | Status |
 |---|---|---|---|---|
-| `உடன்பிறப்பே` | `Dear sibling,` | Source-bearing kinship salutation; do not silently replace with “Comrade” or a personal-name address. | Article 1 | T4-confirmed |
+| `உடன்பிறப்பே` | `Udanpirappē` | **Permanent user-established transliteration.** Literally evokes “one born alongside me”; Kalaignar uses it as a distinctive address of shared identity, equality, affection and solidarity within the movement. Never flatten it into `brother`, `sister`, `sibling`, or `comrade`. In direct salutation use `Udanpirappē,`. | Article 1; user policy correction after Article 6 | **user-established / permanent** |
 | `பாசி` | `moss` | Pond-growth image in Article 1 title/ending. | Article 1 | T4-confirmed |
 | `தூசி` | `dust` | Dust in one’s own eye in Article 1 closing image. | Article 1 | T4-confirmed |
 | `அரசியல்` | `politics` | Preserve direct evaluative/polemical force; do not academicise without contextual need. | Article 1 | T4-confirmed |
@@ -50,6 +50,7 @@ This lexicon is a consistency aid under `ESSAY_TRANSLATION_GUIDE.md`; context st
 
 ## Publication-level principles established through Articles 1–6
 
+- **`உடன்பிறப்பே` is always retained as `Udanpirappē`.** This permanent user-established rule supersedes the earlier `Dear sibling,` choice and applies to every future occurrence. Do not flatten Kalaignar’s distinctive movement address into `brother`, `sister`, `sibling`, or `comrade`.
 - Translate embedded quotations from the frozen Tamil wording; do not import published English versions unless explicitly authorised.
 - Preserve commands, rhetorical questions, repeated punctuation, repetition, accusation, irony and abrupt contrast.
 - Keep ordered Tamil source-page comments in every English article.
