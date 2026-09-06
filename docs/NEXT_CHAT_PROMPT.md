@@ -22,6 +22,12 @@ Read completely before English work:
 
 Tamil source authority is frozen; do not reopen it for translation convenience.
 
+## Permanent `உடன்பிறப்பே` rule — USER ESTABLISHED
+
+Whenever the frozen Tamil uses `உடன்பிறப்பே`, the English must retain **`Udanpirappē`**. In direct salutation use **`Udanpirappē,`**.
+
+Do **not** translate or flatten it as `brother`, `sister`, `sibling`, `Dear sibling`, or `comrade`. Literally evoking “one born alongside me,” it is Kalaignar’s distinctive address of shared identity, equality, affection and solidarity within the movement. This rule supersedes the earlier `Dear sibling,` rendering. Verified Articles 1 and 2 have already been corrected without changing their T5 status.
+
 ## Current state
 
 - Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**
@@ -63,7 +69,7 @@ Verified English Articles 1–6 are the durable baseline. Article 1 is the origi
 For **each** article, in order:
 
 1. **T0** — fetch its live frozen Tamil assembly, confirm `status: verified`, record the actual live blob SHA, scans and printed-page witness;
-2. **T1** — translate the entire frozen article paragraph by paragraph; preserve all ordered `<!-- Tamil source: scan ... -->` comments, quotations, lineation, dates, numbers, questions, repetition and directness;
+2. **T1** — translate the entire frozen article paragraph by paragraph; preserve all ordered `<!-- Tamil source: scan ... -->` comments, quotations, lineation, dates, numbers, questions, repetition and directness; preserve every `உடன்பிறப்பே` as `Udanpirappē`;
 3. **T2** — compare Tamil/English sentence by sentence and clause by clause; record every omission/addition/referent/logic correction as old English → corrected English;
 4. **T3** — review Kalaignar’s voice: directness, satire, insults, commands, questions, repetitions, abrupt contrasts and vivid metaphors must not be softened;
 5. **T4** — audit living lexicon, names/epithets, source-specific transliterations, quotations/citations, dates/numbers, source comments and independent contents/heading witnesses; do not import published English quotation wording;
@@ -73,6 +79,7 @@ For **each** article, in order:
 
 ## Standing precedents from verified Articles 1–6
 
+- `உடன்பிறப்பே` → **`Udanpirappē`** is a permanent user-established non-translation rule;
 - surprising frozen-source wording must be translated as written rather than silently repaired (`காண விரும்பாத` in Article 2);
 - source epithets remain source epithets (`பாவேந்தர்` → `Paavendhar` in Article 3);
 - culturally/source-specific terms may be retained (`gurukulam`, `akara practice`, `kudavolai`) when explanation is already supplied by context;
