@@ -18,9 +18,72 @@ Source PDF files repository-யில் commit செய்யப்படா�
 
 ## Publication status
 
-### Publications 1–7
+### Publication 1 — சக்கரவர்த்தியின் திருமகன்
 
-**COMPLETE / FROZEN / RELEASED** under their publication-specific Tamil and English release records. Preserve them unless a genuine source-supported defect requires reopening.
+**COMPLETE / FROZEN / RELEASED** — Tamil strict fidelity **83/83 PASS**, English T0–T5 **14/14**, E6 PASS, E7 PASS, blockers 0.
+
+Workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
+
+### Publication 2 — கயிற்றில் தொங்கிய கணபதி
+
+**COMPLETE / FROZEN / RELEASED** — Tamil P5 **17/17 PASS**, English release complete, blockers 0.
+
+Workspace: [`publications/kayittril-thongiya-kanapathi/`](publications/kayittril-thongiya-kanapathi/)
+
+### Publication 3 — உணர்ச்சிமாலை
+
+**COMPLETE / FROZEN / RELEASED** — Tamil P5 **50/50 PASS**, article recheck **10/10 PASS**, English T0–T5 **10/10**, E6 PASS, E7 PASS, blockers 0.
+
+Workspace: [`publications/unarchchimaalai/`](publications/unarchchimaalai/)
+
+### Publication 4 — திராவிட சம்பத்து
+
+**COMPLETE / FROZEN / RELEASED** — Tamil P0–P5 complete, English T0–T5 **2/2**, E6 PASS, E7 PASS, blockers 0.
+
+Workspace: [`publications/thiraavida-sampaththu/`](publications/thiraavida-sampaththu/)
+
+### Publication 5 — இன முழக்கம்
+
+**COMPLETE / FROZEN / RELEASED in Tamil and English.**
+
+- Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**
+- P2 canonical pages: **50 / 50 COMPLETE**
+- P3 assemblies: **6 / 6 COMPLETE**
+- P5 page review: **50 / 50 PASS**
+- P5 assembly recheck: **6 / 6 PASS**
+- T0–T5: **6 / 6 PASS at every gate**
+- E6: **PASS / COMPLETE**
+- E7: **PASS / RELEASE COMPLETE**
+- blockers: **0**
+
+Workspace: [`publications/ina-muzhakkam/`](publications/ina-muzhakkam/)
+
+### Publication 6 — குடும்பத்தின் நல்விளக்கு
+
+**COMPLETE / FROZEN / RELEASED in Tamil and English.**
+
+- physical scans: **16 / 16 strict-reviewed**
+- Tamil P0–P5: **COMPLETE / PASS**
+- article assemblies: **1 / 1 strict-reviewed**
+- English T0–T5: **1 / 1 PASS**
+- E6: **PASS / COMPLETE**
+- E7: **PASS / RELEASE COMPLETE**
+- blockers: **0**
+
+Workspace: [`publications/kudumbaththin-nalvilakku/`](publications/kudumbaththin-nalvilakku/)
+
+### Publication 7 — கொலைக்களம்!
+
+**COMPLETE / FROZEN / RELEASED in Tamil and English.**
+
+- physical scans: **40 / 40 P5 PASS**
+- Tamil assemblies: **6 / 6 PASS**
+- English T0–T5: **6 / 6 PASS**
+- E6: **PASS / COMPLETE**
+- E7: **PASS / RELEASE COMPLETE**
+- blockers: **0**
+
+Workspace: [`publications/kolaikkalam/`](publications/kolaikkalam/)
 
 ### Publication 8 — சிந்தனையும் செயலும்
 
@@ -51,12 +114,12 @@ English records:
 - [`translations/en/LEXICON.md`](publications/sinthanaiyum-seyalum/translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/sinthanaiyum-seyalum/translations/en/TRANSLATION_REVIEW.md)
 
-Article 1 `பாசியும் - தூசியும்!` / **Moss and Dust!** has completed **T0–T3**. T3 made **9 voice-preservation corrections**, with 0 unresolved voice blockers and all **6 / 6** source-page comments preserved.
+Article 1 `பாசியும் - தூசியும்!` / **Moss and Dust!** has completed **T0, T1, T2 and T3**. T2 made **8 fidelity corrections**; T3 made **9 voice-preservation corrections**. All **6 / 6** source-page comments remain preserved and there are **0 unresolved T3 blockers**.
 
 Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seyalum/)
 
 ## Current repository-level next activity
 
-`சிந்தனையும் செயலும்` Article 1 — **T4 terminology / quotation / citation audit only**. Stop before T5 and do not begin Article 2 until Article 1 completes its voice-baseline verification sequence.
+`சிந்தனையும் செயலும்` Article 1 `பாசியும் - தூசியும்!` — **T4 terminology / quotation / citation audit only**. Stop before T5 and do not begin Article 2 until the Article 1 voice baseline completes its verification sequence.
 
-`HANDOVER.md` and live `main` remain authoritative over copied prompts or older checkpoints.
+Preserve Publications 1–7 as released/frozen and Publication 8's Tamil layer as frozen. `HANDOVER.md` and live `main` remain authoritative over copied prompts or older checkpoints.

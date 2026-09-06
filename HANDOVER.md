@@ -26,21 +26,32 @@ Source PDFs are never committed.
 
 Workspace: `publications/sinthanaiyum-seyalum/`
 
+## Controlling Tamil source
+
+One **226-scan** publication supplied as five non-overlapping PDFs under `TVA_BOK_0065568`. Split continuity **PASS**; source PDFs committed **No**.
+
 ## Final Tamil state
 
 - P0–P5: **COMPLETE / PASS**
 - P2: **226 / 226 VERIFIED**
-- body units / P3 assemblies: **50 / 50**
+- body units: **50 / 50 COMPLETE**
+- P3 assemblies: **50 / 50 VERIFIED**
 - publication-wide P4: **PASS**
 - publication-wide P5: **226 / 226 PASS / COMPLETE**
 - unresolved source/fidelity discrepancies: **0**
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
 
+Frozen Tamil final records: `PUBLICATION_WIDE_P4.md`, `VISUAL_TEXT_FIDELITY_REVIEW.md`, `PUBLICATION_COMPLETION_REVIEW.md`.
+
 ## English authorization / policy
 
-The user explicitly authorized English translation. Translate only from strict-reviewed Tamil assemblies under `ESSAY_TRANSLATION_GUIDE.md`:
+The user explicitly authorized English translation. English work is in scope.
+
+Permanent rule from `ESSAY_TRANSLATION_GUIDE.md`:
 
 > **Translate the language; do not neutralise the voice.**
+
+Translate only from strict-reviewed Tamil assemblies. Do not use OCR, web text, alternate editions, memory or general knowledge as replacement source authority.
 
 ## Current English state
 
@@ -55,6 +66,7 @@ The user explicitly authorized English translation. Translate only from strict-r
 - English files: **1 / 50**
 - verified English: **0 / 50**
 - blockers: **0**
+- latest synchronized English checkpoint: **Article 1 T3 PASS / trackers synchronized**
 
 ## Article 1 — voice baseline
 
@@ -65,31 +77,40 @@ Frozen Tamil blob: `79791aad807179e85b4275539fff8283d2ff61b2`
 English file: `publications/sinthanaiyum-seyalum/translations/en/01-paasiyum-thoosiyum.md`  
 Status: **T0 PASS / T1 COMPLETE / T2 PASS / T3 PASS / `draft`**
 
-### T3 result
+### Article 1 T2 result
 
-Article 1's T3 Kalaignar voice review completed with **9 corrections** and **0 unresolved voice blockers**. Important non-regression decisions:
+T2 made **8 fidelity corrections**. After T2: omitted source claims **0**, added substantive claims **0**, numbers/date/quotation completeness **PASS**, ordered source comments **6 / 6 PASS**, unresolved T2 blockers **0**, Tamil changes **0**.
 
-1. repeated `இலக்கணம்` is restored as **grammar of renunciation / grammar of politics**;
-2. `ஆவேசத் தாண்டவம்` is provisionally **frenzied dance**, with terminology form still for T4;
-3. direct admonition, rhetorical questions, exclamations and the polemical words `scoundrels`, `sewer`, `wickedness`, `anarchy` remain unsmoothed;
-4. the `அருவெறுப்பு` sentence now keeps its direct `no wonder / revulsion` force;
-5. the garment/dirt dominance image and closing pond/moss challenge remain concrete rather than abstracted;
-6. ordered source-page comments remain **6 / 6 PASS**;
-7. Tamil changes during T3: **0**.
+### Article 1 T3 result
 
-The complete old → corrected T3 provenance is in `publications/sinthanaiyum-seyalum/translations/en/TRANSLATION_REVIEW.md`.
+T3 made **9 voice-preservation corrections**, with complete old → corrected provenance in `translations/en/TRANSLATION_REVIEW.md`.
+
+Important T3 decisions:
+
+1. repeated `இலக்கணம்` is restored as **grammar of renunciation / grammar of politics** rather than split into `defining mark` / `code`;
+2. direct love/politics admonition and exasperated rhetorical questions remain direct;
+3. `அருவெறுப்பு` keeps its `no wonder / revulsion` force;
+4. `ஆவேசத் தாண்டவம்` is provisionally **frenzied dance**, with final terminology treatment reserved for T4;
+5. polemical words such as `scoundrels`, `sewer`, `wickedness`, `anarchy` are not softened;
+6. garment/dirt, field/weeds, water-pot and pond/moss images remain concrete;
+7. ordered source-page comments remain **6 / 6 PASS**;
+8. unresolved T3 blockers: **0**;
+9. Tamil changes during T3: **0**.
+
+Source-bearing choices carried into T4 include `Dear sibling,`, **Moss and Dust!**, `Resources`, `the path to conception`, `Ayya Valluvar`, repeated `grammar`, `punugu`, `javvadu`, provisional `frenzied dance`, `Mayandi`, `Mannar`, and the grain/harvest metaphor.
 
 ## Exact next activity
 
 Perform **Article 1 T4 terminology / quotation / citation audit only**:
 
-1. re-fetch live `main`, frozen Tamil blob `79791aad807179e85b4275539fff8283d2ff61b2`, T3-corrected English, `LEXICON.md` and `TRANSLATION_REVIEW.md`;
-2. audit Porutpaal division labels, `Ayya Valluvar`, `இலக்கணம்`, `punugu`, `javvadu`, `Mayandi`, `Mannar`, `ஆவேசத் தாண்டவம்`, and other recurring/source-bearing terms;
-3. audit every Tirukkural/Bharathi/Bharathidasan quotation for attribution, quotation boundaries and lineation without importing published English versions;
-4. audit numbers `70`, `25`, date `27- 4 - 2005`, and all **6 / 6** ordered source-page comments;
-5. record every T4 correction or explicit no-change decision in `TRANSLATION_REVIEW.md` and update `LEXICON.md` where terminology is established;
-6. keep `translation_status: draft`;
-7. **stop before T5 and do not begin Article 2**.
+1. re-fetch live `main`, the frozen Tamil blob `79791aad807179e85b4275539fff8283d2ff61b2`, the T3-corrected English file, `LEXICON.md` and `TRANSLATION_REVIEW.md`;
+2. audit Porutpaal division labels, especially `கூழியல்` → `Resources`;
+3. audit `Ayya Valluvar`, repeated `இலக்கணம்`, `punugu`, `javvadu`, `Mayandi`, `Mannar`, `ஆவேசத் தாண்டவம்` and other source-bearing terms;
+4. audit every Tirukkural/Bharathi/Bharathidasan quotation for attribution, quotation boundaries and lineation without importing published English versions;
+5. audit numbers `70`, `25`, date `27- 4 - 2005`, and all **6 / 6** ordered source-page comments;
+6. record every T4 correction or explicit no-change decision in `TRANSLATION_REVIEW.md` and update `LEXICON.md` where terminology is established;
+7. keep `translation_status: draft`;
+8. **stop before T5 and do not begin Article 2**.
 
 ## Non-regression
 

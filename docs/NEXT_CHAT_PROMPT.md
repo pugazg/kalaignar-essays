@@ -13,12 +13,13 @@ Read completely before English work:
 1. `ESSAY_TRANSLATION_GUIDE.md`;
 2. root `HANDOVER.md`;
 3. this prompt;
-4. `publications/sinthanaiyum-seyalum/TRANSLATION_PLAN.md`;
-5. `publications/sinthanaiyum-seyalum/translations/en/README.md`;
-6. `publications/sinthanaiyum-seyalum/translations/en/LEXICON.md`;
-7. `publications/sinthanaiyum-seyalum/translations/en/TRANSLATION_REVIEW.md`;
-8. frozen Tamil `publications/sinthanaiyum-seyalum/articles/01-paasiyum-thoosiyum.md`;
-9. T3-corrected English `publications/sinthanaiyum-seyalum/translations/en/01-paasiyum-thoosiyum.md`.
+4. `publications/sinthanaiyum-seyalum/README.md`;
+5. `publications/sinthanaiyum-seyalum/TRANSLATION_PLAN.md`;
+6. `publications/sinthanaiyum-seyalum/translations/en/README.md`;
+7. `publications/sinthanaiyum-seyalum/translations/en/LEXICON.md`;
+8. `publications/sinthanaiyum-seyalum/translations/en/TRANSLATION_REVIEW.md`;
+9. frozen Tamil `publications/sinthanaiyum-seyalum/articles/01-paasiyum-thoosiyum.md`;
+10. T3-corrected English `publications/sinthanaiyum-seyalum/translations/en/01-paasiyum-thoosiyum.md`.
 
 Tamil source authority is frozen; do not reopen it for translation convenience.
 
@@ -36,9 +37,10 @@ Tamil source authority is frozen; do not reopen it for translation convenience.
 - Article 1 status: `draft`
 - blockers: **0**
 
-## Article 1 completed T3
+## Article 1 authority / completed T3
 
-- title: `பாசியும் - தூசியும்!` / **Moss and Dust!**
+- title: `பாசியும் - தூசியும்!`
+- working English: **Moss and Dust!**
 - scans: **18–23**
 - frozen Tamil blob: `79791aad807179e85b4275539fff8283d2ff61b2`
 - ordered source comments: **6 / 6 PASS**
@@ -46,7 +48,7 @@ Tamil source authority is frozen; do not reopen it for translation convenience.
 - T3 corrections: **9**
 - unresolved T3 blockers: **0**
 
-T3 restored the repeated `இலக்கணம்` metaphor as `grammar of renunciation / grammar of politics`, retained the force of `அருவெறுப்பு`, sharpened the `ஆவேசத் தாண்டவம்` image provisionally to `frenzied dance`, and removed remaining voice-level smoothing from several rhetorical passages.
+T3 restored the repeated `இலக்கணம்` metaphor as `grammar of renunciation / grammar of politics`, retained the force of `அருவெறுப்பு`, sharpened the `ஆவேசத் தாண்டவம்` image provisionally to `frenzied dance`, and removed remaining voice-level smoothing from rhetorical passages. Do not redo T2/T3 absent a genuine defect.
 
 ## Exact next activity — T4 only
 
