@@ -7,11 +7,12 @@ Branch: `main`
 
 ## Mandatory startup
 
-1. read `ESSAY_PROCESSING_GUIDE.md` completely;
-2. read `docs/FUTURE_WORK_GUIDELINES.md` completely;
-3. fetch live `main` and read this handover;
-4. read `docs/NEXT_CHAT_PROMPT.md` as the convenience continuation prompt;
-5. preserve released/frozen work unless a genuine controlling-scan defect requires reopening it.
+1. read `ESSAY_PROCESSING_GUIDE.md` completely when source/Tamil work is relevant;
+2. read `ESSAY_TRANSLATION_GUIDE.md` completely before English work;
+3. read `docs/FUTURE_WORK_GUIDELINES.md` completely;
+4. fetch live `main` and read this handover;
+5. read `docs/NEXT_CHAT_PROMPT.md` as the convenience continuation prompt;
+6. preserve released/frozen work unless a genuine source-supported defect requires reopening it.
 
 Source PDFs are never committed.
 
@@ -21,65 +22,80 @@ Source PDFs are never committed.
 
 ---
 
-# Publication 8 — சிந்தனையும் செயலும் — TAMIL ARCHIVAL COMPLETE / FROZEN
+# Publication 8 — சிந்தனையும் செயலும் — TAMIL FROZEN / ENGLISH ACTIVE
 
 Workspace: `publications/sinthanaiyum-seyalum/`
 
-## Controlling source
+## Controlling Tamil source
 
 One **226-scan** publication supplied as five non-overlapping PDFs under `TVA_BOK_0065568`. Split continuity **PASS**; source PDFs committed **No**.
 
 ## Final Tamil state
 
-- P0: **PASS / COMPLETE**
-- P1: **PASS / COMPLETE**
-- physical page records: **226 / 226 CREATED**
-- P2 direct verified: **226 / 226**
+- P0–P5: **COMPLETE / PASS**
+- P2: **226 / 226 VERIFIED**
 - body units: **50 / 50 COMPLETE**
 - P3 assemblies: **50 / 50 VERIFIED**
-- Units 1–50 scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
-- terminal scan 226 scoped P4/P5: **PASS**
 - publication-wide P4: **PASS**
 - publication-wide P5: **226 / 226 PASS / COMPLETE**
-- visual-text-fidelity: **COMPLETE**
 - unresolved source/fidelity discrepancies: **0**
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- English: **NOT STARTED / OUT OF SCOPE**
 
-## Final authority records
+Frozen Tamil final records: `PUBLICATION_WIDE_P4.md`, `VISUAL_TEXT_FIDELITY_REVIEW.md`, `PUBLICATION_COMPLETION_REVIEW.md`.
 
-Read when this publication is relevant:
+## English authorization / policy
 
-1. `publications/sinthanaiyum-seyalum/README.md`
-2. `publications/sinthanaiyum-seyalum/PUBLICATION_WIDE_P4.md`
-3. `publications/sinthanaiyum-seyalum/VISUAL_TEXT_FIDELITY_REVIEW.md`
-4. `publications/sinthanaiyum-seyalum/PUBLICATION_COMPLETION_REVIEW.md`
-5. `publications/sinthanaiyum-seyalum/indexes/page-map.md`
-6. `publications/sinthanaiyum-seyalum/articles/README.md`
+The user explicitly authorized beginning English translation. English work is therefore in scope.
 
-Final boundaries:
+Permanent rule from `ESSAY_TRANSLATION_GUIDE.md`:
 
-- U47 `கலசங்கள், கலங்கரை விளக்கங்களாகலாம்!`: **204–209**, closes `27 - 10 - 2005`;
-- U48 heading `நல்வழிக்கு நாட்டாரய்யாவின் உரை!`: **210–213**, closes `29 - 10 - 2005`;
-- U49 `அந்தாதி பாடிய அருதகுட்டி நாடார்`: **214–220**, closes `30 - 10 - 2005`;
-- U50 `சிந்தனை செய் மனமே`: **221–225**, closes `31 - 10 - 2005`;
-- scan 226: terminal/back-cover witness.
+> **Translate the language; do not neutralise the voice.**
 
-## Final publication-wide P5 result
+Translate only from the strict-reviewed Tamil assemblies. Do not use OCR, web text, alternate editions, memory or general knowledge as replacement source authority.
 
-After the source was fully complete, **all 226 physical scans were re-opened and visually rechecked** under `ESSAY_PROCESSING_GUIDE.md` §12. The final sweep found **0 new canonical corrections** and **0 unresolved fidelity discrepancies**. The 50 assemblies remain reconciled to the canonical layer.
+## Current English state
+
+- E0: **COMPLETE / PASS**
+- T0: **1 / 50 PASS**
+- T1: **1 / 50 COMPLETE**
+- T2: **0 / 50**
+- T3: **0 / 50**
+- T4: **0 / 50**
+- T5: **0 / 50**
+- E6/E7: **NOT STARTED**
+- English files: **1 / 50**
+- verified English: **0 / 50**
+- source blockers: **0**
+
+## Article 1 — voice baseline
+
+Tamil title: `பாசியும் - தூசியும்!`  
+Working English title: **Moss and Dust!**  
+Scans: **18–23**  
+Frozen Tamil blob: `79791aad807179e85b4275539fff8283d2ff61b2`  
+English file: `publications/sinthanaiyum-seyalum/translations/en/01-paasiyum-thoosiyum.md`  
+Status: **T0 PASS / T1 COMPLETE / `draft`**
+
+T1 preserves all **6 / 6** ordered source-page comments. Working choices requiring T2 scrutiny are recorded in `TRANSLATION_REVIEW.md` and `LEXICON.md`, especially `உடன்பிறப்பே` → `Dear sibling,`, the Tirukkural division terms, Bharathidasan `கருப்பாதை`, `punugu` / `javvadu`, and the Mayandi/Mannar examples.
 
 ## Exact next activity
 
-There is **no remaining Tamil archival/review activity** for `சிந்தனையும் செயலும்`.
+Perform **Article 1 T2 bilingual fidelity review only**:
 
-Do not start its English translation unless the user explicitly authorizes it. Otherwise continue only with another user-selected Kalaignar essay/article publication or a genuine controlling-scan defect.
+1. re-fetch live `main` and frozen Tamil blob `79791aad807179e85b4275539fff8283d2ff61b2`;
+2. compare every Tamil sentence/clause against the English draft;
+3. check omissions/additions, negatives, comparisons, connectors, dates/numbers, quotation completeness, referents and deliberate repetition;
+4. resolve or document the working T1 translation choices without outside-source substitution;
+5. record every old English reading → corrected English reading in `translations/en/TRANSLATION_REVIEW.md`;
+6. update `LEXICON.md` where a choice is established;
+7. keep translation status `draft` until later gates;
+8. **stop before T3 and do not begin Article 2**.
 
 ## Non-regression
 
-1. Preserve Publications 1–7 frozen.
-2. Preserve Publication 8's complete Tamil layer; reopen only for a genuine controlling-scan defect.
-3. Canonical pages remain authority for assemblies.
-4. Printed marginal/form evidence and physical-copy marks stay outside article prose.
-5. Preserve independent contents/heading/back-cover witnesses without harmonization.
-6. Do not use OCR, web text, memory or another edition as source authority.
+1. Preserve Publications 1–7 released/frozen.
+2. Preserve Publication 8 Tamil frozen; English convenience is not a reason to alter source text.
+3. Preserve independent Tamil contents/heading/back-cover witnesses.
+4. Preserve page-boundary comments in English for bilingual traceability.
+5. Do not silently soften insults, accusations, irony, repetition, commands or rhetorical questions.
+6. Do not import published English quotations unless explicitly authorised.

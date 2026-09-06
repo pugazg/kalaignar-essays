@@ -87,36 +87,34 @@ Workspace: [`publications/kolaikkalam/`](publications/kolaikkalam/)
 
 ### Publication 8 — சிந்தனையும் செயலும்
 
-**TAMIL ARCHIVAL COMPLETE / STRICT-REVIEWED / FROZEN.**
+**TAMIL ARCHIVAL COMPLETE / FROZEN — ENGLISH TRANSLATION ACTIVE.**
 
 Controlling source identifier: `TVA_BOK_0065568` — **226 physical scans** supplied as five non-overlapping transfer PDFs.
 
-- P0: **PASS / COMPLETE**
-- P1: **PASS / COMPLETE**
+- Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - P2 direct verification: **226 / 226 PASS**
-- printed body units: **50 / 50 COMPLETE**
-- P3 assemblies: **50 / 50 VERIFIED**
-- scoped P4/P5: **50 / 50 units PASS / STRICT-REVIEWED**
+- body units / P3 assemblies: **50 / 50**
 - publication-wide P4: **PASS**
-- publication-wide P5: **226 / 226 PASS / COMPLETE**
-- unresolved source/fidelity discrepancies: **0**
-- English translation: **NOT STARTED / OUT OF CURRENT SCOPE**
+- publication-wide P5: **226 / 226 PASS**
+- unresolved Tamil/source discrepancies: **0**
+- English E0: **COMPLETE / PASS**
+- T0: **1 / 50 PASS**
+- T1: **1 / 50 COMPLETE**
+- T2–T5: **0 / 50**
+- English files: **1 / 50**, Article 1 `draft`
+- English verified: **0 / 50**
 
-Final Tamil authority records:
+English records:
 
-- [`PUBLICATION_WIDE_P4.md`](publications/sinthanaiyum-seyalum/PUBLICATION_WIDE_P4.md)
-- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sinthanaiyum-seyalum/VISUAL_TEXT_FIDELITY_REVIEW.md)
-- [`PUBLICATION_COMPLETION_REVIEW.md`](publications/sinthanaiyum-seyalum/PUBLICATION_COMPLETION_REVIEW.md)
+- [`TRANSLATION_PLAN.md`](publications/sinthanaiyum-seyalum/TRANSLATION_PLAN.md)
+- [`translations/en/README.md`](publications/sinthanaiyum-seyalum/translations/en/README.md)
+- [`translations/en/LEXICON.md`](publications/sinthanaiyum-seyalum/translations/en/LEXICON.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](publications/sinthanaiyum-seyalum/translations/en/TRANSLATION_REVIEW.md)
 
 Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seyalum/)
 
 ## Current repository-level next activity
 
-There is **no pending archival/review activity for Publications 1–8** under their currently authorized scopes.
+`சிந்தனையும் செயலும்` Article 1 `பாசியும் - தூசியும்!` — **T2 bilingual fidelity review only**. Stop before T3 and do not begin Article 2 until the Article 1 voice baseline advances through its review gates.
 
-- Preserve Publications 1–7 as released/frozen.
-- Preserve Publication 8's completed Tamil layer as frozen.
-- Do **not** start `சிந்தனையும் செயலும்` English translation unless explicitly authorized.
-- The next project activity is intake or continuation of another **explicitly selected** Kalaignar essay/article publication, or correction of a genuine controlling-source defect.
-
-`HANDOVER.md` and live `main` remain authoritative over copied prompts or older checkpoints.
+Preserve Publications 1–7 as released/frozen and Publication 8's Tamil layer as frozen. `HANDOVER.md` and live `main` remain authoritative over copied prompts or older checkpoints.
