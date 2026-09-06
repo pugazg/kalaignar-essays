@@ -132,14 +132,14 @@ Global scan **82** directly shows Unit 18 heading `சோதிட சோகம�
 - P2 page records verified: **81 / 226**
 - P2 verified range: **1–81**
 - verified body units: **17 / 50**
-- article assemblies created from verified page layer: **10 / 50**
-- Units 11–17 assemblies: **removed / pending rebuild after integrity repair**
+- article assemblies created from verified page layer: **17 / 50**
+- Units 11–17 assemblies: **REBUILT / CONSISTENCY GATE PASS**
 - remaining direct article boundaries: **Units 18–50 pending**
 
 ## Integrity note
 
-The repaired P2 page layer covers scans 1–81. Derived assemblies 11–17 were removed because the prior commit had not actually written all 26 page records for scans 56–81.
+The repaired P2 page layer covers scans 1–81. Units 11–17 have now been rebuilt strictly from that canonical page layer; all 26 files in scans 56–81 are verified/non-placeholder and the seven rebuilt assemblies passed page-block equality.
 
 ## Exact next activity
 
-**Rebuild assemblies 11–17 from canonical page records 56–81 and pass a page/assembly consistency audit before P2 proceeds to scans 82–111.**
+**Proceed with P2 scans 82–111 / Units 18–25.**

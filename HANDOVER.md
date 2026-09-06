@@ -242,8 +242,8 @@ Do not modernise, silently correct, or harmonise these source witnesses.
 - P2 directly verified pages: **81 / 226**
 - P2 verified range: **1–81**
 - P2 verified body units: **17 / 50**
-- P3 article assemblies: **10 / 50 VERIFIED**
-- Units 11–17 derived assemblies from commit `c43bfc804fff68f0617c8122d09f9a08a0ee3eab`: **INVALIDATED / REMOVED PENDING REBUILD** because that commit advanced trackers while only 12/26 page records for scans 56–81 were actually written.
+- P3 article assemblies: **17 / 50 VERIFIED**
+- Units 11–17: **REBUILT FROM CANONICAL P2 PAGE RECORDS / PAGE-ASSEMBLY CONSISTENCY GATE PASS**.
 - P4 source/completeness audit: **NOT STARTED**
 - P5 strict visual word/punctuation pass: **NOT STARTED**
 - unresolved readings in verified scans 1–81: **0**
@@ -258,23 +258,26 @@ Do not modernise, silently correct, or harmonise these source witnesses.
 ## Current unresolved source / integrity questions
 
 - Units 18–50 remain pending direct P2 transcription/boundary verification.
-- Units 11–17 assemblies remain pending deterministic rebuild from the repaired canonical page layer.
 - Original unsplit 574 MB PDF checksum remains unavailable; only the five transfer-part checksums are authoritative.
 - No body-text reading may be imported from external bibliography or inferred from contents alone.
 
-## Integrity repair after `c43bfc8`
+## Integrity repair and P3 reconciliation after `c43bfc8`
 
-Commit `c43bfc804fff68f0617c8122d09f9a08a0ee3eab` correctly advanced source review through scan 81 but incompletely wrote the canonical page layer: only scans 57, 58, 59, 62, 63, 65, 66, 67, 70, 72, 73 and 81 were changed. The repair commit restores the missing page records 56, 60, 61, 64, 68, 69, 71, 74–80 and directly rechecks scan 56 (`சங்க இலக்கியப் பூக்காடுகளில்`). Because Units 11–17 assemblies were derived while the page layer was incomplete and Unit 11 shows text drift from the page/source layer, those seven assemblies are removed from the canonical P3 layer until rebuilt.
+Commit `c43bfc804fff68f0617c8122d09f9a08a0ee3eab` correctly advanced source review through scan 81 but incompletely wrote the canonical page layer: only scans 57, 58, 59, 62, 63, 65, 66, 67, 70, 72, 73 and 81 were changed. Repair commit `b72d3e33d2175a7bd3341c1699188514664205d6` restored the missing page records 56, 60, 61, 64, 68, 69, 71, 74–80 and removed Units 11–17 assemblies pending reconciliation.
+
+The P3 integrity reconciliation then rechecked the twelve originally-written pages against the controlling scan. Source drift was corrected in scans 58, 59, 62, 63, 65, 66, 67 and 70, including `அவளுடைய மகனுக்கு`, the source-visible Kural spacing under `அழுக்காறு`, `கூட்டத்தில்`, `உடற்பரிசோதனை`, `திரைக் கலைஞர்களும்`, `மெளனமாகவும்`, `நாள் தவறாமல்`, `“றற”`, `ஒன்றரை மணி`, `அமைந்தொழிப்பதை`, and `நடைபெற்ற பிறகு`.
+
+Gate result: **26 / 26 pages verified and non-placeholder; 7 / 7 Units 11–17 assemblies rebuilt; 26 / 26 assembly scan blocks equal the canonical page text; tracker reconciliation PASS.** Durable record: `publications/sinthanaiyum-seyalum/P3_INTEGRITY_RECONCILIATION_56_81.md`.
 
 ## Exact next activity
 
-**P3 integrity reconciliation — rebuild Units 11–17 assemblies strictly from the repaired verified page records 56–81, then run an explicit page/assembly consistency gate confirming all 26 page files are `status: verified`, none contains `_NOT STARTED._`, every assembly scan block equals its canonical page text, and tracker counts agree. Do not start scans 82–111 until this gate passes.**
+**P2 — directly transcribe and verify scans 82–111 in one coherent batch, covering Units 18–25 (`சோதிட சோகம்!` through `இங்கர்சால்`). Scans 82–109 are in Part 002; scans 110–111 cross into Part 003. Verify each heading/start and following heading/end directly, preserve contents-vs-heading witness differences, write canonical page records first, build article assemblies only after all included pages are verified, and synchronize all trackers/handover.**
 
 ## Rules for the next session
 
 1. Fetch live `main` and read this handover first.
 2. Preserve Publications 1–7 as frozen.
 3. Preserve all P2-verified scans 1–81 unless a genuine source-supported correction is found.
-4. Units 11–17 assemblies are pending rebuild and must not be called P3 verified until the consistency gate passes.
+4. Preserve the Units 11–17 rebuilt assemblies and their page/assembly equality gate; do not edit assembly prose independently of canonical page text.
 5. Treat Units 18–50 P1 spans as provisional until direct visual verification.
 6. Do not begin English translation.

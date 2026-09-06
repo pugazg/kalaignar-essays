@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Essays / சிந்தனையும் செயலும் — Integrity Reconciliation 56–81
+# Next Chat Prompt — Kalaignar Essays / சிந்தனையும் செயலும் — P2 scans 82–111
 
 Use this only as a convenience handoff. **Live `main` and root `HANDOVER.md` are authoritative.**
 
@@ -24,29 +24,31 @@ Read completely before changing anything:
 8. `publications/sinthanaiyum-seyalum/indexes/page-map.md`
 9. `publications/sinthanaiyum-seyalum/articles/README.md`
 10. `publications/sinthanaiyum-seyalum/P2_INTEGRITY_REPAIR_56_81.md`
+11. `publications/sinthanaiyum-seyalum/P3_INTEGRITY_RECONCILIATION_56_81.md`
 
 English is not in scope.
 
-## Durable P2 boundary after repair
+## Durable checkpoint
 
-- scans **1–81 P2 page layer VERIFIED**
-- all physical page records 56–81 are present and non-placeholder after the integrity repair
-- Units **1–10 assemblies VERIFIED**
-- Units **11–17 assemblies REMOVED / PENDING REBUILD**
-- P3 verified assemblies: **10 / 50**
+- scans **1–81 P2 VERIFIED**
+- all page records `0056.md`–`0081.md`: **26 / 26 verified / non-placeholder**
+- Units **1–17 P3 assemblies VERIFIED**
+- P3 verified assemblies: **17 / 50**
 - scans 82+ remain unverified
+- page/assembly consistency gate for Units 11–17: **PASS**
+- source drift found during reconciliation in scans 58, 59, 62, 63, 65, 66, 67 and 70 has been corrected and recorded
 
 ## Exact next activity
 
-**Rebuild Units 11–17 assemblies strictly from canonical page records 56–81. Then run an explicit consistency gate proving:**
+**P2 — directly transcribe and verify scans 82–111 in one coherent batch, covering Units 18–25 (`சோதிட சோகம்!` through `இங்கர்சால்`).**
 
-1. all files `pages/0056.md` through `pages/0081.md` have `status: "verified"`;
-2. none contains `_NOT STARTED._` or `_NOT YET REVIEWED._`;
-3. each rebuilt assembly uses exactly the canonical page text in scan order, with no independent rewriting;
-4. contents-vs-heading witness differences remain preserved;
-5. article scan spans and closing dates agree with `indexes/page-map.md`;
-6. README, article tracker, metadata, page-map and root handover counts agree.
-
-Only after this gate passes may the next P2 batch begin at scans **82–111 / Units 18–25**.
+- scans **82–109** are Part 002;
+- scans **110–111** cross into Part 003;
+- verify each heading/start and following heading/end directly from the scan;
+- preserve contents-title versus heading-title differences as independent witnesses;
+- keep printed text and physical-copy marks separate;
+- write/verify canonical page records before creating an assembly;
+- build an article assembly only when every included page is verified;
+- synchronize README, metadata, contents, page-map, articles tracker, root handover and this prompt.
 
 Do not use OCR or outside text as authority. Source PDFs must not be committed.

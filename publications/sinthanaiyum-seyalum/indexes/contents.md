@@ -95,4 +95,4 @@ Unit 41 also preserves the visible space in **`மொழி !`**.
 
 ## Next
 
-Integrity repair prerequisite: **rebuild Units 11–17 assemblies from the repaired P2 page layer (scans 56–81) and pass the page/assembly consistency gate**. Only after that PASS does P2 proceed to scans 82–111 / Units 18–25.
+Integrity reconciliation: **PASS** — Units 11–17 were rebuilt from the repaired canonical page layer and page/assembly equality was confirmed. Next P2 batch: **scans 82–111 / Units 18–25**.

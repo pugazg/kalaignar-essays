@@ -32,6 +32,6 @@ Therefore the tracker claim and the canonical page layer were internally inconsi
 
 A tracker may never advance beyond the actual canonical page files. A derived article assembly may never be treated as verified if any included page record is missing, placeholder, non-verified, or differs from the assembly text.
 
-## Next gate
+## Next gate — COMPLETED
 
-Rebuild Units 11–17 from scans 56–81 and prove page/assembly equality before resuming P2 at scan 82.
+The subsequent P3 integrity reconciliation completed this gate: all 26 canonical page records 56–81 are verified/non-placeholder, eight residual source-drift defects were corrected by direct scan comparison, Units 11–17 were rebuilt from the canonical page layer, and all seven assemblies passed page-block equality. See `P3_INTEGRITY_RECONCILIATION_56_81.md`.

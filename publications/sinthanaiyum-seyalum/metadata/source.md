@@ -141,15 +141,15 @@ Printed publication text and later physical-copy marks remain separate page-reco
 - P2 directly verified page records: **81 / 226**
 - verified range: **scans 1–81**
 - verified article boundaries: **Units 1–17**
-- article assemblies: **10 / 50 VERIFIED**
-- Units 11–17 assemblies: **removed / pending rebuild after page-layer integrity repair**
+- article assemblies: **17 / 50 VERIFIED**
+- Units 11–17 assemblies: **REBUILT / CONSISTENCY GATE PASS**
 - unresolved readings within verified scans 1–81: **0**
 - P5 strict visual fidelity: **NOT STARTED**
 
 ## Integrity repair note
 
-The scans-56–81 commit wrote only 12/26 page records while advancing trackers. The repair restores the missing 14 canonical page records; derived Units 11–17 assemblies are intentionally removed until regenerated from the repaired page layer.
+The scans-56–81 commit wrote only 12/26 page records while advancing trackers. The first repair restored the missing 14 canonical page records and removed the invalid derived assemblies. The P3 integrity reconciliation then rechecked the twelve originally-written pages against the scan, corrected source drift in scans 58, 59, 62, 63, 65, 66, 67 and 70, rebuilt Units 11–17 from canonical page text, and passed the 26-page / 7-assembly equality gate.
 
 ## Exact next activity
 
-**Rebuild Units 11–17 assemblies from pages 56–81 and pass the page/assembly consistency gate before beginning scans 82–111.**
+**P2 scans 82–111 / Units 18–25 (`சோதிட சோகம்!` through `இங்கர்சால்`), with direct visual verification and canonical page records before assembly creation.**

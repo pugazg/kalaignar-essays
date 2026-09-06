@@ -16,8 +16,8 @@ Source PDFs committed: **No**
 - P2 page-level diplomatic transcription / direct verification: **81 / 226 VERIFIED**
 - P2 completed range: **scans 1–81**
 - P2 verified body units: **17 / 50**
-- P3 article assemblies: **10 / 50 VERIFIED**
-- Units 11–17 assemblies: **REMOVED / PENDING REBUILD AFTER PAGE-LAYER INTEGRITY REPAIR**
+- P3 article assemblies: **17 / 50 VERIFIED**
+- Units 11–17 assemblies: **REBUILT / PAGE-ASSEMBLY CONSISTENCY GATE PASS**
 - P4 source audit: **NOT STARTED**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
 - English translation: **NOT STARTED**
@@ -96,8 +96,8 @@ Contents titles, heading-page titles, repeated promotional/back-cover excerpts, 
 
 ## Repository-integrity repair
 
-The scan-56–81 source review is retained, but commit `c43bfc804fff68f0617c8122d09f9a08a0ee3eab` wrote only 12 of the 26 canonical page records while advancing the trackers. The repair restores the missing 14 page records and invalidates/removes derived assemblies 11–17 pending regeneration from the complete page layer.
+The scan-56–81 source review is retained, but commit `c43bfc804fff68f0617c8122d09f9a08a0ee3eab` wrote only 12 of the 26 canonical page records while advancing the trackers. The first repair restored the missing 14 page records and invalidated the derived assemblies 11–17. The subsequent P3 integrity reconciliation rechecked the twelve originally-written page records against the scan, corrected source drift in pages 58, 59, 62, 63, 65, 66, 67 and 70, rebuilt Units 11–17 strictly from the complete canonical page layer, and passed the explicit 26-page / 7-assembly consistency gate. See [`P3_INTEGRITY_RECONCILIATION_56_81.md`](P3_INTEGRITY_RECONCILIATION_56_81.md).
 
 ## Exact next activity
 
-**Rebuild Units 11–17 assemblies from repaired pages 56–81 and pass the explicit page/assembly consistency gate before any work on scans 82–111.**
+**P2 — directly transcribe and verify scans 82–111 in one coherent batch, covering Units 18–25 (`சோதிட சோகம்!` through `இங்கர்சால்`). Scans 82–109 are in Part 002 and scans 110–111 cross into Part 003.**
