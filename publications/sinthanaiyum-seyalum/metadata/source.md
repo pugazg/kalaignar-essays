@@ -38,21 +38,20 @@ Direct visual witnesses establish:
 
 Scans 6–7 are `பதிப்புரை`; scans 8–12 are `அணிந்துரை` by `டாக்டர் வா. செ. குழந்தைசாமி`; scans 14–15 are the printed `பொருளடக்கம்` with **50** numbered units; scan 16 is an internal title page. Scan 226 is a separate back-cover/promotional witness and remains pending P2.
 
-## Publication form
+## Publication form / verified structure
 
 This is a **multi-unit essay/letter collection**. The controlling contents witness numbers **50 units total**. A separate bibliographic description saying “two letters and 50 articles” remains external and does not expand the archival unit count to 52.
 
-## Directly verified structure through Unit 26; Unit 27 partial
+Units **1–29** are directly verified complete units. Recent verified boundaries:
 
-Units **1–26** are directly verified complete units and occupy scans **18–116**. Unit 27 `தியானம்???` is directly verified through scans **117–121** but remains incomplete.
-
-Recent verified boundaries:
-
-- Unit 23 `தன்னை வெல்வான்` — scans 101–103 — closes `11 - 8 - 2005`
-- Unit 24 `இட்லர்` — scans 104–108 — closes `13 - 8 - 2005`
-- Unit 25 `இங்கர்சால்` — scans 109–111 — closes `24 - 8 - 2005`
-- Unit 26 `மகளிர் இட ஒதுக்கீடு!` — scans 112–116 — closes `26 - 8 - 2005`
-- Unit 27 `தியானம்???` — scans 117–121 verified so far; scan 121 ends mid-sentence; ending not claimed.
+- Unit 23 `தன்னை வெல்வான்` — **101–103** — `11 - 8 - 2005`
+- Unit 24 `இட்லர்` — **104–108** — `13 - 8 - 2005`
+- Unit 25 `இங்கர்சால்` — **109–111** — `24 - 8 - 2005`
+- Unit 26 `மகளிர் இட ஒதுக்கீடு!` — **112–116** — `26 - 8 - 2005`
+- Unit 27 `தியானம்???` — **117–122** — `3 - 9 - 2005`
+- Unit 28 `விபத்து` — **123–125** — `6 - 9 - 2005`
+- Unit 29 `சின்னத்திரை “செல்வி”` — **126–129** — `7 - 9 - 2005`
+- Unit 30 `மருந்தென ஒன்று!` — scans **130–131 VERIFIED / PARTIAL**; ending not yet claimed.
 
 Unit 25 crosses the Part-002 → Part-003 transfer boundary without a source discontinuity.
 
@@ -67,7 +66,9 @@ Preserve independently:
 - Unit 15 `இன்பமும் துன்பமும்` ↔ `இன்பமும் துன்பமும்!`
 - Unit 19 `ஆன்மிக ஆழ்கடல்!` ↔ `ஆன்மிக ஆழ்கடல்`
 
-Units 20–27 currently have matching contents/heading wording in directly inspected openings.
+Units 20–30 have matching contents/heading wording in directly inspected openings.
+
+Unit 29 preserves the printed Kural witness `காப்புவென் செய்யும் ?` exactly as visible rather than importing a conventional reading.
 
 ## Physical-copy / printed marginal evidence
 
@@ -82,25 +83,27 @@ Recurring printed production/form witnesses:
 - scan 82: `6 - சி. செ. பூ. வெ. எண். 750`
 - scan 98: `7 - சி. செ. பூ. வெ. எண். 750`
 - scan 114: `8 - சி. செ. பூ. வெ. எண். 750`
+- scan 130: `9 - சி. செ. பூ. வெ. எண். 750`
 
-These are preserved as printed marginal witnesses, not article prose.
+These are printed marginal witnesses, not article prose.
 
-Unit 26 opening scan 112 has printed woman-profile/floral/butterfly title decoration. Unit 27 opening scan 117 has printed monk/lamp decoration. These are design evidence and are not inserted into title prose.
+Recent heading designs remain design evidence only: Unit 28 vehicle/ambulance imagery; Unit 29 boxed woman/flower imagery; Unit 30 mortar/herbal imagery.
 
 ## Current archival gate
 
 - page records created: **226 / 226**
-- P2 directly verified: **121 / 226**
-- contiguous verified range: **1–121**
-- complete verified body units: **26 / 50**
-- Unit 27 P2 partial: **117–121**
-- P3 assemblies: **26 / 50**
+- P2 directly verified: **131 / 226**
+- contiguous verified range: **1–131**
+- complete verified body units: **29 / 50**
+- P3 assemblies: **29 / 50**
+- Unit 30 P2 partial: **130–131**
 - scoped P4/P5 Units 1–25: **PASS / STRICT-REVIEWED**
 - scoped P4/P5 Unit 26: **PASS / STRICT-REVIEWED**
+- scoped P4/P5 Units 27–29: **PASS / 13 / 13 scans / STRICT-REVIEWED**
 - publication-wide P4/P5: **PENDING**
-- unresolved readings in verified scans 1–121: **0**
+- unresolved readings in verified scans 1–131: **0**
 - English: **NOT STARTED**
 
 ## Next
 
-P2 scans **122–131 only**. Do not process scan 132 in that iteration.
+P2 scans **132–141 only**. Do not process scan 142 in that iteration.

@@ -68,7 +68,7 @@ The printed contents has **50 numbered entries total**.
 - Unit 44: `குரு பீடமும்; குருவி பீடமும்!` → `குரு பீடமும்; குறள் பீடமும்!`
 - Unit 41 preserves source-visible spacing in `மொழி !`.
 
-## Directly verified heading witnesses through Unit 27 opening
+## Directly verified heading witnesses through Unit 30 opening
 
 - Units 1–2: contents/heading match.
 - Unit 3: contents `என் பெயர் புரட்சி` ↔ heading `என் பெயர் புரட்சி!`.
@@ -82,14 +82,15 @@ The printed contents has **50 numbered entries total**.
 - Unit 15: contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!`.
 - Units 16–18: match.
 - Unit 19: contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்`.
-- Units 20–27: match in directly inspected opening scans.
+- Units 20–30: match in directly inspected opening scans.
 
-Units **1–26** have directly verified boundaries. Unit **27** is P2-partial through scan 121. Entries **28–50** remain P1-provisional until direct scan review.
+Units **1–29** have directly verified boundaries and strict-reviewed Tamil status. Unit **30** is P2-partial through scans **130–131**. Entries **31–50** remain P1-provisional until direct scan review.
 
 ## Current status / next
 
-- P2 verified range: **1–121**
-- complete units: **26 / 50**
-- Unit 27: **117–121 VERIFIED / PARTIAL**
-- completed Units 1–26: scoped P4/P5 **PASS / STRICT-REVIEWED**
-- next P2 batch: **122–131 only**; do not process 132.
+- P2 verified range: **1–131**
+- complete units: **29 / 50**
+- P3 assemblies: **29 / 50**
+- Unit 30: **130–131 VERIFIED / PARTIAL / no assembly**
+- completed Units 1–29: scoped P4/P5 **PASS / STRICT-REVIEWED**
+- next P2 batch: **132–141 only**; do not process 142.
