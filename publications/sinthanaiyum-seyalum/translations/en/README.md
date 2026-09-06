@@ -11,20 +11,21 @@ Translation plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - E0: **COMPLETE / PASS**
 - T0: **1 / 50 PASS**
 - T1: **1 / 50 COMPLETE**
-- T2: **0 / 50**
+- T2: **1 / 50 PASS**
 - T3: **0 / 50**
 - T4: **0 / 50**
 - T5: **0 / 50**
 - E6/E7: **NOT STARTED**
+- English files: **1 / 50**
 - draft English files: **1 / 50**
 - verified English files: **0 / 50**
-- blockers: **0 source blockers**
+- blockers: **0**
 
 ## Article queue
 
 | # | Tamil title | Scans | English title | Status |
 |---:|---|---:|---|---|
-| 1 | `பாசியும் - தூசியும்!` | 18–23 | **Moss and Dust!** | `draft` — T0 PASS, T1 COMPLETE |
+| 1 | `பாசியும் - தூசியும்!` | 18–23 | **Moss and Dust!** | `draft` — T0 PASS, T1 COMPLETE, T2 PASS; T3 next |
 | 2 | `அதிக உயரம் தாண்டுவதற்கு` | 24–27 | — | `not-started` |
 | 3 | `என் பெயர் புரட்சி!` | 28–32 | — | `not-started` |
 | 4 | `குருகுலம்!` | 33–35 | — | `not-started` |
@@ -77,14 +78,21 @@ Translation plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 The Tamil-title column follows each article assembly heading. Independent contents-page differences remain documented in the Tamil layer and must not be used to overwrite article-heading witnesses.
 
-## Article 1 authority
+## Article 1 authority / T2 result
 
 - Tamil source: `../../articles/01-paasiyum-thoosiyum.md`
 - frozen Tamil blob: `79791aad807179e85b4275539fff8283d2ff61b2`
-- English draft: [`01-paasiyum-thoosiyum.md`](01-paasiyum-thoosiyum.md)
+- English file: [`01-paasiyum-thoosiyum.md`](01-paasiyum-thoosiyum.md)
 - ordered Tamil source-page comments: **6 / 6 preserved**
-- current gate: **T1 COMPLETE / draft**
+- T2 fidelity corrections: **8**
+- omitted source claims after T2: **0**
+- added substantive claims after T2: **0**
+- unresolved T2 blockers: **0**
+- current gate: **T2 PASS / T3 NEXT**
+- metadata status remains: `draft`
 
 ## Exact next activity
 
-Article 1 **T2 bilingual fidelity review only**. Stop before T3.
+Article 1 **T3 Kalaignar voice review only**. Compare the corrected English with the frozen Tamil for directness, bite, questions, commands, repetition, abrupt contrasts and vivid metaphor. Record every T3 correction, then stop before T4.
+
+Do **not** begin Article 2 yet.
