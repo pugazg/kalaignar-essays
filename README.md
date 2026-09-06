@@ -102,9 +102,10 @@ Controlling source identifier: `TVA_BOK_0065568` — **226 physical scans** supp
 - T1: **1 / 50 COMPLETE**
 - T2: **1 / 50 PASS**
 - T3: **1 / 50 PASS**
-- T4–T5: **0 / 50**
-- English files: **1 / 50**, Article 1 `draft`
-- English verified: **0 / 50**
+- T4: **1 / 50 PASS**
+- T5: **1 / 50 PASS**
+- English files: **1 / 50**
+- English verified: **1 / 50**
 - blockers: **0**
 
 English records:
@@ -114,12 +115,12 @@ English records:
 - [`translations/en/LEXICON.md`](publications/sinthanaiyum-seyalum/translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/sinthanaiyum-seyalum/translations/en/TRANSLATION_REVIEW.md)
 
-Article 1 `பாசியும் - தூசியும்!` / **Moss and Dust!** has completed **T0, T1, T2 and T3**. T2 made **8 fidelity corrections**; T3 made **9 voice-preservation corrections**. All **6 / 6** source-page comments remain preserved and there are **0 unresolved T3 blockers**.
+Article 1 `பாசியும் - தூசியும்!` / **Moss and Dust!** is now **T0–T5 PASS / VERIFIED**. T2 made **8 fidelity corrections**, T3 made **9 voice-preservation corrections**, T4 required **0 body corrections**, and all **6 / 6** source-page comments remain preserved with **0 unresolved blockers**.
 
 Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seyalum/)
 
 ## Current repository-level next activity
 
-`சிந்தனையும் செயலும்` Article 1 `பாசியும் - தூசியும்!` — **T4 terminology / quotation / citation audit only**. Stop before T5 and do not begin Article 2 until the Article 1 voice baseline completes its verification sequence.
+`சிந்தனையும் செயலும்` Article 2 `அதிக உயரம் தாண்டுவதற்கு` — perform **T0 source prerequisite + T1 close draft only** from the live frozen Tamil assembly, then stop before Article 2 T2.
 
-Preserve Publications 1–7 as released/frozen and Publication 8's Tamil layer as frozen. `HANDOVER.md` and live `main` remain authoritative over copied prompts or older checkpoints.
+Preserve Publications 1–7 as released/frozen, Publication 8's Tamil layer as frozen, and Article 1 as the verified English voice baseline. `HANDOVER.md` and live `main` remain authoritative over copied prompts or older checkpoints.
