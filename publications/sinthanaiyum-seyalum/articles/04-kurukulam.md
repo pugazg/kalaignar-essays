@@ -8,7 +8,7 @@ printed_pages: "scan 33 unit marker only; scans 34-35 visibly 33-34"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065568_சிந்தனையும்_செயலும்_2010_part_001_pages_1-55.pdf"
-assembly_method: "concatenated from P2 directly verified canonical page records; page-boundary provenance preserved"
+assembly_method: "mechanically concatenated from P2 directly verified canonical page records; printed marginal witnesses excluded from prose"
 ---
 
 # குருகுலம்!
@@ -30,8 +30,6 @@ assembly_method: "concatenated from P2 directly verified canonical page records;
 இசைப்பயிற்சி; வாய்ப்பாட்டு - நரம்புக் கருவி, தோல் கருவி, இவற்றில் நிறைவு பெற; குரு பீடத்துடன் நீங்காமல் இருந்து நித்த நித்தம் கற்றுக் கொள்வது போலவே; கற்பித்தல் நேரம் என்று குறிப்பாக எதுவும் குறிக்கப்படாமல்; இரவு உணவுக்குப் பிறகு வெளி மாடியின் நிலா முற்றத்தில் - பகல் நேரத்தில் அலுவலக அறையில் - காலை அரும்பிடாத வைகறைப் பொழுதில்கூட இல்லத்துத் தாழ்வாரத்தில் - இப்படி அவ்வப்போது வாய்ப்பான வேளையில், வாய்ப்பான நேரத்தில் ஈரோட்டுக் குருகுலத்தில் படித்த பயனை இன்றும் பெற்றிருப்பது எத்துணை பெருமை - எத்துணை சிறப்பு - எத்துணை உறுதியை எனக்களித்து உதவுகிறது!
 
 நன்கு கற்றுத் தேறினும் - நற்சான்றுகள் எண்ணற்றவை பெற்றிருப்பினும் - நண்பனையே சில நேரங்களில் குருவாக
-
-3 - சி. செ. பூ. வெ. எண். 750
 
 <!-- scan 35 -->
 
