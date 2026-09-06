@@ -29,11 +29,12 @@ Source PDFs committed: **No**
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **1 / 50 PASS**
 - T1 close draft: **1 / 50 COMPLETE**
-- T2–T5: **0 / 50**
+- T2 bilingual fidelity review: **1 / 50 PASS**
+- T3–T5: **0 / 50**
 - E6/E7: **NOT STARTED**
 - English files: **1 / 50**, Article 1 status `draft`
 - English verified: **0 / 50**
-- source blockers: **0**
+- blockers: **0**
 
 Translation records:
 
@@ -42,14 +43,18 @@ Translation records:
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 
-Article 1 voice-baseline draft:
+Article 1 voice baseline:
 
 - Tamil: `பாசியும் - தூசியும்!`
 - working English title: **Moss and Dust!**
 - scans: **18–23**
 - frozen Tamil blob: `79791aad807179e85b4275539fff8283d2ff61b2`
 - English file: [`translations/en/01-paasiyum-thoosiyum.md`](translations/en/01-paasiyum-thoosiyum.md)
-- current gate: **T1 COMPLETE / T2 NEXT**
+- T2 corrections: **8**
+- ordered source comments: **6 / 6 PASS**
+- omitted source claims after T2: **0**
+- added substantive claims after T2: **0**
+- current gate: **T2 PASS / T3 NEXT**
 
 ## Final Tamil records
 
@@ -75,7 +80,7 @@ Article 1 voice-baseline draft:
 
 Never harmonise independent source witnesses. Frozen Tamil distinctions include Units **3, 6, 9, 11, 15, 19, 41 and 48**. Unit 29's source-visible Kural reading `காப்புவென் செய்யும் ?` remains frozen and must not be conventionally normalized.
 
-These distinctions remain relevant during T2/T4 English review; the translation layer must not silently choose a conventional source reading in place of the frozen assembly.
+These distinctions remain relevant during English review; the translation layer must not silently choose a conventional source reading in place of the frozen assembly.
 
 ## Tamil freeze / English authority
 
@@ -87,4 +92,6 @@ English work follows `ESSAY_TRANSLATION_GUIDE.md`:
 
 ## Exact next activity
 
-**Article 1 `பாசியும் - தூசியும்!` — T2 bilingual fidelity review only.** Re-read frozen Tamil and the English draft side by side; record every correction, update the living lexicon as needed, then stop before T3. Do not begin Article 2 yet; Article 1 is the voice baseline.
+**Article 1 `பாசியும் - தூசியும்!` — T3 Kalaignar voice review only.** Read the T2-corrected English against the frozen Tamil for directness, sarcasm/polemical bite, rhetorical questions, commands, repetition, abrupt contrasts and vivid images. Record every T3 correction, then stop before T4.
+
+Do not begin Article 2 yet; Article 1 remains the publication voice baseline.
