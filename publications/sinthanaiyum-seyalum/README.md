@@ -11,18 +11,32 @@ Source PDFs committed: **No**
 - P0 source intake: **COMPLETE / PASS**
 - P1 metadata + contents + page map: **COMPLETE / PASS**
 - physical page records: **226 / 226 CREATED**
-- P2 direct page verification: **151 / 226 VERIFIED**
-- contiguous P2 range: **scans 1–151**
-- complete verified body units: **34 / 50**
-- P3 article assemblies: **34 / 50 VERIFIED**
-- completed Units 1–34 scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
+- P2 direct page verification: **161 / 226 VERIFIED**
+- contiguous P2 range: **scans 1–161**
+- complete verified body units: **36 / 50**
+- P3 article assemblies: **36 / 50 VERIFIED**
+- Unit 37 `சிலம்பும் மணியும்!`: **scans 159–161 VERIFIED / PARTIAL / no assembly**
+- completed Units 1–36 scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
 - publication-wide P4/P5: **PENDING**
-- unresolved readings in verified scans 1–151: **0**
+- unresolved readings in verified scans 1–161: **0**
 - English translation: **NOT STARTED / OUT OF CURRENT SCOPE**
 
-Recent batch closeout: [`P2_BATCH_142_151.md`](P2_BATCH_142_151.md), [`P4_UNITS_32_34.md`](P4_UNITS_32_34.md), [`P5_VISUAL_TEXT_FIDELITY_UNITS_32_34.md`](P5_VISUAL_TEXT_FIDELITY_UNITS_32_34.md), [`COMPLETED_UNITS_32_34_CLOSEOUT.md`](COMPLETED_UNITS_32_34_CLOSEOUT.md).
+Recent closeout records:
+
+- [`P2_BATCH_142_151.md`](P2_BATCH_142_151.md)
+- [`P4_UNITS_32_34.md`](P4_UNITS_32_34.md)
+- [`P5_VISUAL_TEXT_FIDELITY_UNITS_32_34.md`](P5_VISUAL_TEXT_FIDELITY_UNITS_32_34.md)
+- [`COMPLETED_UNITS_32_34_CLOSEOUT.md`](COMPLETED_UNITS_32_34_CLOSEOUT.md)
+- [`P2_BATCH_152_161.md`](P2_BATCH_152_161.md)
+- [`P4_UNITS_35_36.md`](P4_UNITS_35_36.md)
+- [`P5_VISUAL_TEXT_FIDELITY_UNITS_35_36.md`](P5_VISUAL_TEXT_FIDELITY_UNITS_35_36.md)
+- [`COMPLETED_UNITS_35_36_CLOSEOUT.md`](COMPLETED_UNITS_35_36_CLOSEOUT.md)
+
+Earlier completed-unit P4/P5 closeout records remain authoritative for Units 1–31.
 
 ## Scan-verified publication identity
+
+The supplied 2010 edition directly supports:
 
 - title: `சிந்தனையும் செயலும்`
 - author: `கலைஞர் மு. கருணாநிதி`
@@ -37,44 +51,20 @@ Recent batch closeout: [`P2_BATCH_142_151.md`](P2_BATCH_142_151.md), [`P4_UNITS_
 
 See [`metadata/source.md`](metadata/source.md) for split-file checksums and physical-copy evidence.
 
-## Directly verified body structure — Units 1–34
+## Most recent directly verified boundaries
 
-1. `பாசியும் - தூசியும்!` — **18–23** — `27- 4 - 2005`
-2. `அதிக உயரம் தாண்டுவதற்கு` — **24–27** — `29-4-2005`
-3. heading `என் பெயர் புரட்சி!` — **28–32** — `1 - 5 - 2005`
-4. `குருகுலம்!` — **33–35** — `3-5-2005`
-5. `ஜனநாயக நெறி` — **36–38** — `7-5-2005`
-6. heading `வாக்குச்சீட்டின் வலிமை` — **39–41** — `9-5-2005`
-7. `சுயமரியாதைத் திருமணம்` — **42–45** — `13-5-2005`
-8. `மனிதனின் மறுபக்கம்` — **46–48** — `15-5-2005`
-9. heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` — **49–51** — `16-5-2005`
-10. `மனிதனும் மறுபிறவியும்` — **52–55** — `6-6-2005`
-11. heading `வெற்றி தோல்வி!` — **56–58** — `8 - 6 - 2005`
-12. `அழுக்காறு` — **59–61** — `10 - 6 - 2005`
-13. `மிகுதிக்கண்...` — **62–65** — `1 - 7 - 2005`
-14. `வலிவும், பொலிவும்!` — **66–68** — `8 - 7 - 2005`
-15. heading `இன்பமும் துன்பமும்!` — **69–74** — `9 - 7 - 2005`
-16. `ஒழுக்கம்` — **75–77** — `14 - 7 - 2005`
-17. `வசிய மருந்து` — **78–81** — `18 - 7 - 2005`
-18. `சோதிட சோகம்!` — **82–84** — `1 - 8 - 2005`
-19. heading `ஆன்மிக ஆழ்கடல்` — **85–89** — `4 - 8 - 2005`
-20. `தேனில் குழைத்துக் கொடுத்தாலும்...!` — **90–93** — `5 - 8 - 2005`
-21. `வியாதிக்கு விருந்தா?` — **94–97** — `7 - 8 - 2005`
-22. `விளையாட்டு` — **98–100** — `9 - 8 - 2005`
-23. `தன்னை வெல்வான்` — **101–103** — `11 - 8 - 2005`
-24. `இட்லர்` — **104–108** — `13 - 8 - 2005`
-25. `இங்கர்சால்` — **109–111** — `24 - 8 - 2005`
-26. `மகளிர் இட ஒதுக்கீடு!` — **112–116** — `26 - 8 - 2005`
-27. `தியானம்???` — **117–122** — `3 - 9 - 2005`
-28. `விபத்து` — **123–125** — `6 - 9 - 2005`
-29. `சின்னத்திரை “செல்வி”` — **126–129** — `7 - 9 - 2005`
-30. `மருந்தென ஒன்று!` — **130–133** — `8 - 9 - 2005`
-31. `சிறிய நூல்தான்` — **134–138** — `10 - 9 - 2005`
-32. `மண்டேலா` — **139–144** — `12 - 9 - 2005`
-33. `தொண்டுள்ளம்` — **145–147** — `15 - 9 - 2005`
-34. `மகளிர் பேரணி!` — **148–151** — `22 - 9 - 2005`
+- Unit 30 `மருந்தென ஒன்று!` — **130–133** — `8 - 9 - 2005`
+- Unit 31 `சிறிய நூல்தான்` — **134–138** — `10 - 9 - 2005`
+- Unit 32 `மண்டேலா` — **139–144** — `12 - 9 - 2005`
+- Unit 33 `தொண்டுள்ளம்` — **145–147** — `15 - 9 - 2005`
+- Unit 34 `மகளிர் பேரணி!` — **148–151** — `22 - 9 - 2005`
+- Unit 35 `திரிகடுகம்` — **152–154** — `26 - 9 - 2005`
+- Unit 36 `தீக்குச்சி தேடாதீர்!` — **155–158** — `27 - 9 - 2005`
+- Unit 37 `சிலம்பும் மணியும்!` — **159–161 P2 VERIFIED / PARTIAL**; no ending witness yet.
 
 ## Independent source witnesses
+
+Do not harmonise contents and heading witnesses:
 
 - Unit 3: contents `என் பெயர் புரட்சி` ↔ heading `என் பெயர் புரட்சி!`
 - Unit 6: contents `வாக்குச் சீட்டின் வலிமை` ↔ heading `வாக்குச்சீட்டின் வலிமை`
@@ -82,35 +72,50 @@ See [`metadata/source.md`](metadata/source.md) for split-file checksums and phys
 - Unit 11: contents `வெற்றி - தோல்வி!` ↔ heading `வெற்றி தோல்வி!`
 - Unit 15: contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!`
 - Unit 19: contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்`
-- Units 20–34: directly inspected opening-heading wording matches the printed contents witness.
+- Units 20–37: directly inspected opening-heading wording matches the printed contents witness.
 
-Unit 29 preserves source-visible Kural wording `காப்புவென் செய்யும் ?`; no conventional wording is imported.
+Unit 29 preserves its own printed Kural witness exactly, including source-visible `காப்புவென் செய்யும் ?`; no conventional Kural wording is imported.
 
 ## Printed marginal witnesses
 
-Recurring printed production/form lines remain separate from article prose: scans 18 (`2`), 34 (`3`), 50 (`4`), 66 (`5`), 82 (`6`), 98 (`7`), 114 (`8`), 130 (`9`), and **146 (`10`)**, each in the form `… - சி. செ. பூ. வெ. எண். 750`.
+Recurring printed production/form witnesses are preserved separately from article prose:
 
-## Batch 142–151 / strict-closeout notes
+- scan 18: `2 - சி. செ. பூ. வெ. எண். 750`
+- scan 34: `3 - சி. செ. பூ. வெ. எண். 750`
+- scan 50: `4 - சி. செ. பூ. வெ. எண். 750`
+- scan 66: `5 - சி. செ. பூ. வெ. எண். 750`
+- scan 82: `6 - சி. செ. பூ. வெ. எண். 750`
+- scan 98: `7 - சி. செ. பூ. வெ. எண். 750`
+- scan 114: `8 - சி. செ. பூ. வெ. எண். 750`
+- scan 130: `9 - சி. செ. பூ. வெ. எண். 750`
+- scan 146: `10 - சி. செ. பூ. வெ. எண். 750`
 
-- scans **142–151** canonical gate: **10 / 10 VERIFIED / no placeholders**;
-- Units 32–34 page/assembly equality: **13 / 13 PASS**;
-- Units 32–34 scoped P4: **PASS**;
-- Units 32–34 scoped P5: **13 / 13 scans; 3 / 3 units PASS / STRICT-REVIEWED**;
-- no post-P2 lexical correction was required in scans 139–151;
-- scan 152 was not processed.
+No new production/form witness was seen in scans 152–161.
 
-Source-sensitive forms preserved in this batch include `அறிவிக்கப்பட்டவே`, `தனக்குற்ற`, `ஒளியுமிழ்ந்து`, `ஒலைக் கீற்றுகளாக`, `இளைஞர்கட்கு`, `எடுத்துரைக்கும்பாணியில்`, `தங்களிஷ்டம்போல்`, and `பெருங்குறையாடு!`.
+## Batch 152–161 / strict-closeout notes
+
+- scans **152–161** canonical gate: **10 / 10 VERIFIED / no placeholders**;
+- Unit 35 page/assembly equality: **3 / 3 PASS**;
+- Unit 36 page/assembly equality: **4 / 4 PASS**;
+- Units 35–36 scoped P4: **PASS**;
+- Units 35–36 scoped P5: **7 / 7 scans; 2 / 2 units PASS / STRICT-REVIEWED**;
+- strict reread corrected scan 156 first-pass `உயிரினைய` → source-visible `உயிரனைய`, propagated to Unit 36 assembly;
+- Unit 37: **159–161 P2 VERIFIED / PARTIAL / no assembly**;
+- scan 162 was not processed.
+
+Source-sensitive readings include Unit 35 `வனல்லவா`, `இந்தநூலில்`, `தன்மையி லாளர்`, `பயத்த லில.`, `எடுத்தொளித்துக்`, `பாராளுமன்ற மாயினும்`, `தெரிவுபடுத்துவது`; Unit 36 `பாடாதபாடுபட்டனர்`, `பெருமிதங்`, `தீயிற்பட்ட`, `உயிரனைய`, `பதங் கெட்டுப் போன பண்டத்தை`, `பெருமித்ததை`, `மண் எண்ணெயைத்`; Unit 37 `ஆசைகளைக்`, `ரசிகபுத்`, `அயம்பெருங்காப்பிய`, `வெறுத்தொதுக்கிட`, `பிரித் திடும்போது`, `பெயர்பட்டியலிட`.
 
 ## Freeze / non-regression
 
-Completed Units **1–34** are strict-reviewed Tamil units. Reopen only for a genuine controlling-scan defect.
+Completed Units **1–36** are strict-reviewed Tamil units. Reopen their wording, punctuation, title witnesses or source-sensitive readings only for a genuine controlling-scan defect. This does not freeze unfinished Unit 37 or later units.
 
 ## Exact next activity
 
-Continue the **10 physical scans per iteration** rule with **scans 152–161 only**.
+Continue the **10 physical scans per iteration** rule with **scans 162–171 only**.
 
-- expected Unit 35 `திரிகடுகம்`: scans **152–154**; verify, assemble and run scoped P4/P5 only if the direct boundary passes;
-- expected Unit 36 `தீக்குச்சி தேடாதீர்!`: scans **155–158**; verify, assemble and run scoped P4/P5 only if complete;
-- expected Unit 37 `சிலம்பும் மணியும்!`: verify scans **159–161** only; P1 expects continuation to scan 162, so leave deliberately unassembled if incomplete;
-- **do not process scan 162**;
+- scan **162**: expected to finish Unit 37 `சிலம்பும் மணியும்!`; assemble only after direct ending verification, then run scoped P4/P5;
+- expected Unit 38 `செய்ந்நன்றி`: scans **163–166**; verify, assemble and run scoped P4/P5 only if complete;
+- expected Unit 39 `பகுத்தறிவுப் பாதை!`: verify scans **167–171** only; P1 expects continuation through scan 172, so leave it deliberately unassembled if incomplete;
+- **do not process scan 172**;
+- the next batch crosses Part-003 → Part-004 after global scan 164; resolve both controlling source parts before source-level work;
 - P1 spans remain provisional until direct visual verification.

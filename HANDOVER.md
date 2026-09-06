@@ -31,7 +31,7 @@ Publication-specific completion records remain authoritative. Do not reopen Publ
 
 ---
 
-# Publication 8 — சிந்தனையும் செயலும் — P2 ACTIVE / UNITS 1–34 P5-CLOSED
+# Publication 8 — சிந்தனையும் செயலும் — P2 ACTIVE / UNITS 1–36 P5-CLOSED
 
 Workspace: `publications/sinthanaiyum-seyalum/`
 
@@ -44,36 +44,37 @@ One **226-scan** publication supplied as five non-overlapping transfer PDFs unde
 - P0: **PASS**
 - P1: **PASS**
 - physical page records: **226 / 226 CREATED**
-- P2 direct verified pages: **151 / 226**
-- contiguous verified range: **1–151**
-- complete verified body units: **34 / 50**
-- P3 assemblies: **34 / 50 VERIFIED**
-- unresolved readings in verified scans 1–151: **0**
-- completed Units 1–34 scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
+- P2 direct verified pages: **161 / 226**
+- contiguous verified range: **1–161**
+- complete verified body units: **36 / 50**
+- P3 assemblies: **36 / 50 VERIFIED**
+- Unit 37 `சிலம்பும் மணியும்!`: **159–161 P2 VERIFIED / PARTIAL / no assembly**
+- unresolved readings in verified scans 1–161: **0**
+- completed Units 1–36 scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
 - publication-wide P4/P5: **PENDING**
 - Tamil archival phase for publication as a whole: **P2 ACTIVE**
 
-## New durable batch — scans 142–151
+## New durable batch — scans 152–161
 
 Read:
 
-1. `publications/sinthanaiyum-seyalum/P2_BATCH_142_151.md`
-2. `publications/sinthanaiyum-seyalum/P4_UNITS_32_34.md`
-3. `publications/sinthanaiyum-seyalum/P5_VISUAL_TEXT_FIDELITY_UNITS_32_34.md`
-4. `publications/sinthanaiyum-seyalum/COMPLETED_UNITS_32_34_CLOSEOUT.md`
+1. `publications/sinthanaiyum-seyalum/P2_BATCH_152_161.md`
+2. `publications/sinthanaiyum-seyalum/P4_UNITS_35_36.md`
+3. `publications/sinthanaiyum-seyalum/P5_VISUAL_TEXT_FIDELITY_UNITS_35_36.md`
+4. `publications/sinthanaiyum-seyalum/COMPLETED_UNITS_35_36_CLOSEOUT.md`
 
 Results:
 
-- Unit 32 `மண்டேலா`: **139–144 VERIFIED**, closes `12 - 9 - 2005`;
-- Unit 33 `தொண்டுள்ளம்`: **145–147 VERIFIED**, closes `15 - 9 - 2005`;
-- Unit 34 `மகளிர் பேரணி!`: **148–151 VERIFIED**, closes `22 - 9 - 2005`;
-- P3 equality: **13 / 13 scan blocks PASS**;
-- P4: **3 / 3 units PASS**;
-- P5: **13 / 13 physical scans, 3 / 3 units PASS / STRICT-REVIEWED**;
-- scan 146 printed production witness `10 - சி. செ. பூ. வெ. எண். 750` is separate from prose;
-- scan 152 was **not processed**.
+- Unit 35 `திரிகடுகம்`: **152–154 VERIFIED**, closes `26 - 9 - 2005`;
+- Unit 36 `தீக்குச்சி தேடாதீர்!`: **155–158 VERIFIED**, closes `27 - 9 - 2005`;
+- Units 35–36 P3 equality: **7 / 7 scan blocks PASS**;
+- Units 35–36 P4: **2 / 2 units PASS**;
+- Units 35–36 P5: **7 / 7 physical scans, 2 / 2 units PASS / STRICT-REVIEWED**;
+- strict review corrected scan 156 first-pass `உயிரினைய` → source-visible `உயிரனைய`; correction propagated to Unit 36 assembly;
+- Unit 37 `சிலம்பும் மணியும்!`: scans **159–161 VERIFIED / PARTIAL**, deliberately unassembled;
+- scan 162 was **not processed**.
 
-Source-sensitive readings include `அறிவிக்கப்பட்டவே`, `‘லாசா சிடிங்ஸ்கி’`, `தனக்குற்ற`, `ஒளியுமிழ்ந்து`, `ஒலைக் கீற்றுகளாக`, `இளைஞர்கட்கு`, `எடுத்துரைக்கும்பாணியில்`, `தங்களிஷ்டம்போல்`, `பெருங்குறையாடு!`, `அர்த்தநாரீசுவர`, and `அரிவையர்க்கு`.
+Source-sensitive decisions retained in this batch include Unit 35 `வனல்லவா`, `இந்தநூலில்`, `தன்மையி லாளர்`, `பயத்த லில.`, `எடுத்தொளித்துக்`, `பாராளுமன்ற மாயினும்`, `தெரிவுபடுத்துவது`; Unit 36 `பாடாதபாடுபட்டனர்`, `பெருமிதங்`, `தீயிற்பட்ட`, `உயிரனைய`, `பதங் கெட்டுப் போன பண்டத்தை`, `பெருமித்ததை`, `மண் எண்ணெயைத்`; Unit 37 `ஆசைகளைக்`, `ரசிகபுத்`, `அயம்பெருங்காப்பிய`, `வெறுத்தொதுக்கிட`, `பிரித் திடும்போது`, `பெயர்பட்டியலிட` and its source-visible displayed-verse spacing.
 
 ## Frozen independent title witnesses
 
@@ -86,7 +87,7 @@ Preserve:
 - Unit 15 contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!`
 - Unit 19 contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்`
 
-Units 20–34 heading wording matches the contents witness in directly inspected opening scans.
+Units 20–37 heading wording matches the contents witness in directly inspected opening scans.
 
 ## English
 
@@ -97,19 +98,22 @@ Units 20–34 heading wording matches the contents witness in directly inspected
 
 ## Exact next activity
 
-Continue the user-directed **10 physical scans per iteration** P2 cadence with **scans 152–161 only**.
+Continue the user-directed **10 physical scans per iteration** P2 cadence with:
 
-- expected Unit 35 `திரிகடுகம்`: scans **152–154**; verify directly, assemble only after complete boundary verification, then run scoped P4/P5;
-- expected Unit 36 `தீக்குச்சி தேடாதீர்!`: scans **155–158**; verify directly, assemble only after complete boundary verification, then run scoped P4/P5;
-- expected Unit 37 `சிலம்பும் மணியும்!`: verify scans **159–161** only; P1 expects continuation through scan 162, so leave it deliberately unassembled if incomplete;
-- **do not process scan 162**;
+**scans 162–171 only**.
+
+- scan **162**: expected to finish Unit 37 `சிலம்பும் மணியும்!`; create its assembly only after direct ending verification, then run scoped P4/P5;
+- expected Unit 38 `செய்ந்நன்றி`: scans **163–166**; verify directly, assemble only after complete boundary verification, then run scoped P4/P5;
+- expected Unit 39 `பகுத்தறிவுப் பாதை!`: verify scans **167–171** only; P1 expects continuation through scan 172, so leave it deliberately unassembled if incomplete;
+- **do not process scan 172**;
+- this batch crosses Part-003 → Part-004 after global scan 164; resolve both controlling source parts before source-dependent work;
 - canonical pages first, assemblies second;
 - any newly completed essay must receive scoped P4/P5 before the handover advances.
 
 ## Non-regression
 
 1. Preserve Publications 1–7 frozen.
-2. Preserve completed Units 1–34 of `சிந்தனையும் செயலும்` as strict-reviewed Tamil unless a genuine source defect is proven.
+2. Preserve completed Units 1–36 of `சிந்தனையும் செயலும்` as strict-reviewed Tamil unless a genuine source defect is proven.
 3. Canonical page records precede assemblies.
 4. Printed marginal / physical-copy evidence stays outside article prose.
 5. Do not use OCR, web text, memory or another edition as source authority.

@@ -8,8 +8,9 @@ Physical scans: **226**
 - physical scan order is authoritative;
 - printed numerals are recorded only when directly visible;
 - contents and heading witnesses remain independent;
-- Units **1–34** have P2-directly verified boundaries;
-- Units **35–50** remain P1-provisional until direct inspection.
+- Units **1–36** have P2-directly verified boundaries;
+- Unit **37** is P2-partial through scan 161;
+- Units **38–50** remain P1-provisional until direct inspection.
 
 ## Transfer map
 
@@ -78,9 +79,9 @@ Continuity: **PASS — no gap or overlap**.
 | 32 | `மண்டேலா` | **139–144** | **P2 VERIFIED** |
 | 33 | `தொண்டுள்ளம்` | **145–147** | **P2 VERIFIED** |
 | 34 | `மகளிர் பேரணி!` | **148–151** | **P2 VERIFIED** |
-| 35 | `திரிகடுகம்` | 152–154 | provisional |
-| 36 | `தீக்குச்சி தேடாதீர்!` | 155–158 | provisional |
-| 37 | `சிலம்பும் மணியும்!` | 159–162 | provisional |
+| 35 | `திரிகடுகம்` | **152–154** | **P2 VERIFIED** |
+| 36 | `தீக்குச்சி தேடாதீர்!` | **155–158** | **P2 VERIFIED** |
+| 37 | `சிலம்பும் மணியும்!` | 159–162 | **P2 PARTIAL — 159–161 VERIFIED; 162 pending** |
 | 38 | `செய்ந்நன்றி` | 163–166 | provisional |
 | 39 | `பகுத்தறிவுப் பாதை!` | 167–172 | provisional |
 | 40 | `பெண்ணியப் புரட்சி!` | 173–177 | provisional |
@@ -97,7 +98,7 @@ Continuity: **PASS — no gap or overlap**.
 
 Body span: **18–225**. Scan 226 is separate.
 
-## Direct boundary evidence through Unit 34
+## Direct boundary evidence through Unit 36
 
 | Unit | Heading witness | Scans | Closing date |
 |---:|---|---:|---|
@@ -135,13 +136,16 @@ Body span: **18–225**. Scan 226 is separate.
 | 32 | `மண்டேலா` | 139–144 | `12 - 9 - 2005` |
 | 33 | `தொண்டுள்ளம்` | 145–147 | `15 - 9 - 2005` |
 | 34 | `மகளிர் பேரணி!` | 148–151 | `22 - 9 - 2005` |
+| 35 | `திரிகடுகம்` | 152–154 | `26 - 9 - 2005` |
+| 36 | `தீக்குச்சி தேடாதீர்!` | 155–158 | `27 - 9 - 2005` |
 
 ## Current result
 
 - physical scans accounted for: **226 / 226**
 - page records created: **226 / 226**
-- P2 verified: **151 / 226**
-- complete verified body units: **34 / 50**
-- P3 assemblies: **34 / 50**
-- completed Units 1–34: scoped P4/P5 **PASS / STRICT-REVIEWED**
-- next: **scans 152–161 only; stop before 162**.
+- P2 verified: **161 / 226**
+- complete verified body units: **36 / 50**
+- P3 assemblies: **36 / 50**
+- Unit 37: **159–161 P2 VERIFIED / PARTIAL**
+- completed Units 1–36: scoped P4/P5 **PASS / STRICT-REVIEWED**
+- next: **scans 162–171 only; stop before 172**.
