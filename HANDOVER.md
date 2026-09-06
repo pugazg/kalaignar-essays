@@ -66,6 +66,7 @@ Translate only from strict-reviewed Tamil assemblies. Do not use OCR, web text, 
 - English files: **1 / 50**
 - verified English: **0 / 50**
 - blockers: **0**
+- latest synchronized English checkpoint: **Article 1 T2 PASS / trackers synchronized**
 
 ## Article 1 — voice baseline
 
