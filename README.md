@@ -14,6 +14,7 @@ Source PDF files repository-யில் commit செய்யப்படா�
 - [`ESSAY_TRANSLATION_GUIDE.md`](ESSAY_TRANSLATION_GUIDE.md)
 - [`HANDOVER.md`](HANDOVER.md)
 - [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md)
+- [`docs/NEXT_CHAT_PROMPT.md`](docs/NEXT_CHAT_PROMPT.md)
 
 ## Publication status
 
@@ -21,68 +22,101 @@ Source PDF files repository-யில் commit செய்யப்படா�
 
 **COMPLETE / FROZEN / RELEASED** — Tamil strict fidelity **83/83 PASS**, English T0–T5 **14/14**, E6 PASS, E7 PASS, blockers 0.
 
+Workspace: [`publications/sakkaravarththiyin-thirumagan/`](publications/sakkaravarththiyin-thirumagan/)
+
 ### Publication 2 — கயிற்றில் தொங்கிய கணபதி
 
 **COMPLETE / FROZEN / RELEASED** — Tamil P5 **17/17 PASS**, English release complete, blockers 0.
+
+Workspace: [`publications/kayittril-thongiya-kanapathi/`](publications/kayittril-thongiya-kanapathi/)
 
 ### Publication 3 — உணர்ச்சிமாலை
 
 **COMPLETE / FROZEN / RELEASED** — Tamil P5 **50/50 PASS**, article recheck **10/10 PASS**, English T0–T5 **10/10**, E6 PASS, E7 PASS, blockers 0.
 
+Workspace: [`publications/unarchchimaalai/`](publications/unarchchimaalai/)
+
 ### Publication 4 — திராவிட சம்பத்து
 
 **COMPLETE / FROZEN / RELEASED** — Tamil P0–P5 complete, English T0–T5 **2/2**, E6 PASS, E7 PASS, blockers 0.
 
-Released English authorities:
-
-- **Dravidian Wealth** — `10dca72882043db491fe8c6ad3f858bc4c9c584f`
-- **Iyer Announces!** — `771094f9c2eaad4c56c6f9509db34adbd3fd97a5`
+Workspace: [`publications/thiraavida-sampaththu/`](publications/thiraavida-sampaththu/)
 
 ### Publication 5 — இன முழக்கம்
 
-Workspace: [`publications/ina-muzhakkam/`](publications/ina-muzhakkam/)  
-Controlling source: `TVA_BOK_0063958_இன_முழக்கம்.pdf`  
-Physical scans: **50**  
-Source SHA-256: `f57e4070051d7bc77ab78d5d393dbefbe47791efcc3203c594c5f3949ef0dfbf`
+**COMPLETE / FROZEN / RELEASED in Tamil and English.**
 
-User-established lexical rule:
-
-> **Keep the words. Correct only structural order, punctuation, spacing, paragraphing, headings, misplaced words and analogous layout issues; remove unwanted non-source/OCR words.**
-
-Current gates:
-
-- P0: **COMPLETE**
-- P1: **COMPLETE**
-- P2: **50 / 50 COMPLETE**
-- P3: **6 / 6 COMPLETE**
-- P4: **PASS / COMPLETE**
-- P5 page-level review: **50 / 50 PASS**
+- Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**
+- P2 canonical pages: **50 / 50 COMPLETE**
+- P3 assemblies: **6 / 6 COMPLETE**
+- P5 page review: **50 / 50 PASS**
 - P5 assembly recheck: **6 / 6 PASS**
-- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- E0 English planning/setup: **COMPLETE / PASS**
-- T0: **6 / 6 PASS**
-- T1: **1 / 6 PASS**
-- T2–T5: **0 / 6**
-- E6/E7: **NOT STARTED**
+- T0–T5: **6 / 6 PASS at every gate**
+- E6: **PASS / COMPLETE**
+- E7: **PASS / RELEASE COMPLETE**
 - blockers: **0**
 
-Frozen Tamil authorities:
+Workspace: [`publications/ina-muzhakkam/`](publications/ina-muzhakkam/)
 
-1. `df5907d3d6fa4981a2377fe621bf6f2d7ecc1010` — `இன முழக்கம்`
-2. `8fea1497ed2dcbdb395418590c1b9875e6066b8c` — `சொர்க்க லோகத்தில்`
-3. `27ab358ac7cd06bc3c072e4bca425a1269f2c6b8` — `முரசறைவாய்`
-4. `e140df7f6234e8362b9139793706533fec0c62d8` — `பழிக்குப் பழி`
-5. `e5bf851cd8384dfd9a84c1607c5f22cc5fa59675` — `ஆரியம் பேசுகிறது`
-6. `6f0f6fc7ac0ed3132172d92bc1fa0378528c790c` — `கவிதைகள்`
+### Publication 6 — குடும்பத்தின் நல்விளக்கு
 
-Article 1 English T1:
+**COMPLETE / FROZEN / RELEASED in Tamil and English.**
 
-- working title: **The Clarion Call of the Race**
-- T1 English blob: `b3022e69387662584064d51133e24f4f97e976b2`
-- status: `draft`
-- source-page comments: **8/8 preserved**
+- physical scans: **16 / 16 strict-reviewed**
+- Tamil P0–P5: **COMPLETE / PASS**
+- article assemblies: **1 / 1 strict-reviewed**
+- English T0–T5: **1 / 1 PASS**
+- E6: **PASS / COMPLETE**
+- E7: **PASS / RELEASE COMPLETE**
+- blockers: **0**
 
-Canonical P5 record: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/ina-muzhakkam/VISUAL_TEXT_FIDELITY_REVIEW.md).  
-English plan/tracker: [`TRANSLATION_PLAN.md`](publications/ina-muzhakkam/TRANSLATION_PLAN.md) / [`translations/en/README.md`](publications/ina-muzhakkam/translations/en/README.md).
+Workspace: [`publications/kudumbaththin-nalvilakku/`](publications/kudumbaththin-nalvilakku/)
 
-**Exact next activity: Article 1 `இன முழக்கம்` — T2 bilingual fidelity review only; stop before T3.**
+### Publication 7 — கொலைக்களம்!
+
+**COMPLETE / FROZEN / RELEASED in Tamil and English.**
+
+- physical scans: **40 / 40 P5 PASS**
+- Tamil assemblies: **6 / 6 PASS**
+- English T0–T5: **6 / 6 PASS**
+- E6: **PASS / COMPLETE**
+- E7: **PASS / RELEASE COMPLETE**
+- blockers: **0**
+
+Workspace: [`publications/kolaikkalam/`](publications/kolaikkalam/)
+
+### Publication 8 — சிந்தனையும் செயலும்
+
+**TAMIL ARCHIVAL COMPLETE / STRICT-REVIEWED / FROZEN.**
+
+Controlling source identifier: `TVA_BOK_0065568` — **226 physical scans** supplied as five non-overlapping transfer PDFs.
+
+- P0: **PASS / COMPLETE**
+- P1: **PASS / COMPLETE**
+- P2 direct verification: **226 / 226 PASS**
+- printed body units: **50 / 50 COMPLETE**
+- P3 assemblies: **50 / 50 VERIFIED**
+- scoped P4/P5: **50 / 50 units PASS / STRICT-REVIEWED**
+- publication-wide P4: **PASS**
+- publication-wide P5: **226 / 226 PASS / COMPLETE**
+- unresolved source/fidelity discrepancies: **0**
+- English translation: **NOT STARTED / OUT OF CURRENT SCOPE**
+
+Final Tamil authority records:
+
+- [`PUBLICATION_WIDE_P4.md`](publications/sinthanaiyum-seyalum/PUBLICATION_WIDE_P4.md)
+- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/sinthanaiyum-seyalum/VISUAL_TEXT_FIDELITY_REVIEW.md)
+- [`PUBLICATION_COMPLETION_REVIEW.md`](publications/sinthanaiyum-seyalum/PUBLICATION_COMPLETION_REVIEW.md)
+
+Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seyalum/)
+
+## Current repository-level next activity
+
+There is **no pending archival/review activity for Publications 1–8** under their currently authorized scopes.
+
+- Preserve Publications 1–7 as released/frozen.
+- Preserve Publication 8's completed Tamil layer as frozen.
+- Do **not** start `சிந்தனையும் செயலும்` English translation unless explicitly authorized.
+- The next project activity is intake or continuation of another **explicitly selected** Kalaignar essay/article publication, or correction of a genuine controlling-source defect.
+
+`HANDOVER.md` and live `main` remain authoritative over copied prompts or older checkpoints.
