@@ -49,6 +49,16 @@ Permanent rule from `ESSAY_TRANSLATION_GUIDE.md`:
 
 Translate only from strict-reviewed frozen Tamil assemblies. Do not use OCR, web text, alternate editions, memory or general knowledge as replacement source authority.
 
+### Permanent `உடன்பிறப்பே` rule — USER ESTABLISHED
+
+- `உடன்பிறப்பே` → **`Udanpirappē`**;
+- never translate or flatten it as `brother`, `sister`, `sibling`, `Dear sibling`, or `comrade`;
+- literally it evokes **“one born alongside me”** and functions as Kalaignar's distinctive address of shared identity, equality, affection and solidarity within the movement;
+- in direct salutation use **`Udanpirappē,`**;
+- this rule supersedes the earlier `Dear sibling,` choice;
+- verified Articles 1 and 2 have been corrected to `Udanpirappē,` without changing their T5 status or the frozen Tamil source;
+- apply this rule to every future occurrence.
+
 ## Current English state
 
 - E0: **COMPLETE / PASS**
@@ -62,7 +72,7 @@ Translate only from strict-reviewed frozen Tamil assemblies. Do not use OCR, web
 - English files: **6 / 50**
 - verified English: **6 / 50**
 - blockers: **0**
-- latest durable English checkpoint: **Articles 1–6 T0–T5 PASS / VERIFIED**.
+- latest durable English checkpoint: **Articles 1–6 T0–T5 PASS / VERIFIED; Udanpirappē policy correction applied to Articles 1–2**.
 
 ## Verified English authority pins
 
@@ -77,7 +87,7 @@ Translate only from strict-reviewed frozen Tamil assemblies. Do not use OCR, web
 
 ## Article 1 — verified voice baseline
 
-Article 1 completed T0–T5 with 8 T2 fidelity corrections, 9 T3 voice corrections, 0 T4 body corrections, 6/6 ordered source comments and 0 blockers. Its T4-confirmed lexicon decisions guide later work **contextually, not mechanically**.
+Article 1 completed T0–T5 with 8 T2 fidelity corrections, 9 T3 voice corrections, 0 T4 body corrections, 6/6 ordered source comments and 0 blockers. Its T4-confirmed lexicon decisions guide later work **contextually, not mechanically**. The later user-established salutation rule changes `Dear sibling,` to `Udanpirappē,`; Article 1 remains verified.
 
 ## Articles 2–6 — completed five-article batch
 
@@ -87,6 +97,7 @@ The user directed the next five articles to be processed through T5 each. Result
 
 - English: **To Clear a Greater Height**;
 - source comments: **4 / 4 PASS**;
+- opening `உடன்பிறப்பே` is now **`Udanpirappē,`** under the permanent user-established rule;
 - important T2 non-regression: frozen `காண விரும்பாத` is translated as written (`a dream I did not wish to dream in my youth`) despite its surprising context; no semantic repair was made;
 - names/labels `Anna Arivalayam`, `the Professor`, `Anna`, `Ayya Periyar`, `Kudiyarasu`, `Honourable Abdul Kalam`: T4 PASS;
 - T0–T5: **PASS / verified**.
@@ -154,8 +165,9 @@ For each article:
 1. Preserve Publications 1–7 released/frozen.
 2. Preserve Publication 8 Tamil frozen.
 3. Preserve Articles 1–6 as verified English unless a genuine frozen-source defect is demonstrated.
-4. Preserve independent Tamil contents/heading/back-cover witnesses.
-5. Preserve ordered source-page comments in every English file.
-6. Do not import published English quotations unless explicitly authorised.
-7. Do not silently repair surprising source semantics; Article 2 `காண விரும்பாத` is the explicit precedent.
-8. After all 50 articles reach T5, run E6 publication-wide consistency and E7 release closeout before declaring English complete.
+4. **Every source occurrence of `உடன்பிறப்பே` must remain `Udanpirappē`; never translate it as brother/sister/sibling/comrade.**
+5. Preserve independent Tamil contents/heading/back-cover witnesses.
+6. Preserve ordered source-page comments in every English file.
+7. Do not import published English quotations unless explicitly authorised.
+8. Do not silently repair surprising source semantics; Article 2 `காண விரும்பாத` is the explicit precedent.
+9. After all 50 articles reach T5, run E6 publication-wide consistency and E7 release closeout before declaring English complete.
