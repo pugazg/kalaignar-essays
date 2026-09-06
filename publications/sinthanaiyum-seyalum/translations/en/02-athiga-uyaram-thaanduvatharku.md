@@ -84,7 +84,7 @@ scholars—
 patrons—  
 and may dream of shining in such roles.
 
-My first dream—the dream I wished for in my youth—was to study through college. That became a shattered dream. But the advancement of my language, my people, my country and its people became my dream that never shattered. Those who dream in this way can only receive society’s “stamp of acceptance” as exceptions.
+My first dream—a dream I did not wish to dream in my youth—was to study through college. It ended up as a shattered dream. But the advancement of my language, my people, my country and its people became my dream that never shattered. Those who dream in this way can only receive society’s “stamp of acceptance” as exceptions.
 
 The dream every young person should dream is this: let us learn well, gain clarity and mastery, and in the field to which we are committed, stand as central figures whom the nation honours. There is no need to sleep in order to dream that dream. On the contrary: wake up to dream it! Only when we awaken will dreams come true. It is easy to dream of anything; it is difficult for that dream to come true without hard work!
 

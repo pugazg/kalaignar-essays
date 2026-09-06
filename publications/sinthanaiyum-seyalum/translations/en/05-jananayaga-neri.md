@@ -44,7 +44,7 @@ People’s rule is for whom? For the people!
 
 But if the right to constitute that rule is being snatched from those very people, cunningly or brazenly, should not the people prepare themselves for a great revolution against those who would seize it, so that it cannot be taken away?
 
-If the philosophy of people’s rule should, by mischance, fall into the hands of religious fanatics crazed by sectarian hatred or into the hands of those possessed by the frenzy of dictatorship, then every citizen must understand this truth: “Democracy has no freedom” until it is liberated from those cruel people. Only then can democracy remain alive! Otherwise we shall have to stand and watch while its body is left to rot.
+If the philosophy of people’s rule should, by mischance, fall into the hands of religious fanatics crazed by sectarian division or into the hands of those possessed by the frenzy of dictatorship, then every citizen must understand this truth: “Democracy has no freedom” until it is liberated from those cruel people. Only then can democracy remain alive! Otherwise we shall have to stand and watch while its body is left to rot.
 
 7-5-2005
 

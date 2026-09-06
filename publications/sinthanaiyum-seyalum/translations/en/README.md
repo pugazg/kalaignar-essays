@@ -9,16 +9,16 @@ Translation plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 - Tamil authority: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - E0: **COMPLETE / PASS**
-- T0: **1 / 50 PASS**
-- T1: **1 / 50 COMPLETE**
-- T2: **1 / 50 PASS**
-- T3: **1 / 50 PASS**
-- T4: **1 / 50 PASS**
-- T5: **1 / 50 PASS**
+- T0: **6 / 50 PASS**
+- T1: **6 / 50 COMPLETE**
+- T2: **6 / 50 PASS**
+- T3: **6 / 50 PASS**
+- T4: **6 / 50 PASS**
+- T5: **6 / 50 PASS**
 - E6/E7: **NOT STARTED**
-- English files: **1 / 50**
+- English files: **6 / 50**
 - draft English files: **0 / 50**
-- verified English files: **1 / 50**
+- verified English files: **6 / 50**
 - blockers: **0**
 
 ## Article queue
@@ -26,11 +26,11 @@ Translation plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | # | Tamil title | Scans | English title | Status |
 |---:|---|---:|---|---|
 | 1 | `பாசியும் - தூசியும்!` | 18–23 | **Moss and Dust!** | `verified` — T0–T5 PASS |
-| 2 | `அதிக உயரம் தாண்டுவதற்கு` | 24–27 | — | `not-started` |
-| 3 | `என் பெயர் புரட்சி!` | 28–32 | — | `not-started` |
-| 4 | `குருகுலம்!` | 33–35 | — | `not-started` |
-| 5 | `ஜனநாயக நெறி` | 36–38 | — | `not-started` |
-| 6 | `வாக்குச்சீட்டின் வலிமை` | 39–41 | — | `not-started` |
+| 2 | `அதிக உயரம் தாண்டுவதற்கு` | 24–27 | **To Clear a Greater Height** | `verified` — T0–T5 PASS |
+| 3 | `என் பெயர் புரட்சி!` | 28–32 | **My Name Is Revolution!** | `verified` — T0–T5 PASS |
+| 4 | `குருகுலம்!` | 33–35 | **Gurukulam!** | `verified` — T0–T5 PASS |
+| 5 | `ஜனநாயக நெறி` | 36–38 | **The Way of Democracy** | `verified` — T0–T5 PASS |
+| 6 | `வாக்குச்சீட்டின் வலிமை` | 39–41 | **The Power of the Ballot** | `verified` — T0–T5 PASS |
 | 7 | `சுயமரியாதைத் திருமணம்` | 42–45 | — | `not-started` |
 | 8 | `மனிதனின் மறுபக்கம்` | 46–48 | — | `not-started` |
 | 9 | `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` | 49–51 | — | `not-started` |
@@ -76,24 +76,31 @@ Translation plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | 49 | `அந்தாதி பாடிய அருதகுட்டி நாடார்` | 214–220 | — | `not-started` |
 | 50 | `சிந்தனை செய் மனமே` | 221–225 | — | `not-started` |
 
-The Tamil-title column follows each article assembly heading. Independent contents-page differences remain documented in the Tamil layer and must not be used to overwrite article-heading witnesses.
+The Tamil-title column follows each frozen article assembly heading. Independent contents-page differences remain documented in the Tamil layer and must not be used to overwrite article-heading witnesses.
 
-## Article 1 authority / verified baseline
+## Verified baseline and first batch
 
-- Tamil source: `../../articles/01-paasiyum-thoosiyum.md`
-- frozen Tamil blob: `79791aad807179e85b4275539fff8283d2ff61b2`
-- English file: [`01-paasiyum-thoosiyum.md`](01-paasiyum-thoosiyum.md)
-- ordered Tamil source-page comments: **6 / 6 preserved**
-- T2 fidelity corrections: **8**
-- T3 voice corrections: **9**
-- T4 body corrections: **0**
-- T4 terminology / quotation / citation audit: **PASS**
-- T5 verification: **PASS**
-- unresolved Article 1 blockers: **0**
-- metadata status: **`verified`**
+Article 1 established the publication voice baseline through T0–T5. Articles 2–6 were then processed from their live frozen Tamil blobs through **all five article gates**, with complete correction provenance in `TRANSLATION_REVIEW.md`.
 
-T4 confirmed the Article 1 treatment of `Resources`, `Ayya Valluvar`, repeated `grammar`, `punugu`, `javvadu`, `frenzied dance`, `Mayandi`, `Mannar`, all seven embedded literary quotation passages, numbers `70`/`25`, the date, and all six source comments. These choices guide later articles contextually rather than mechanically.
+Frozen Tamil pins now recorded:
+
+- Article 1: `79791aad807179e85b4275539fff8283d2ff61b2`
+- Article 2: `9f1e9442c20c86d0d10918dfbff0de22f346342f`
+- Article 3: `262febdac5ac90d78b1a6007120c3eab6f95e780`
+- Article 4: `4ddbb1e64f50a471f91d402220a05814b1e2e198`
+- Article 5: `b5a8f2fa1414ec7c490a0da50d42da217d4581e0`
+- Article 6: `00fe01bd3e899ca4da814c7e58428fffbd51c5f9`
 
 ## Exact next activity
 
-Article 2 `அதிக உயரம் தாண்டுவதற்கு` — perform **T0 source prerequisite**, pin the live frozen Tamil assembly blob, then complete **T1 close draft only** while preserving ordered source-page comments. Stop before Article 2 T2.
+Process the next five articles, **Articles 7–11**, through T5 one article at a time:
+
+1. fetch each live frozen Tamil assembly and pin its actual blob SHA at T0;
+2. create a complete T1 close draft with ordered source comments;
+3. run T2 bilingual fidelity review and record all corrections;
+4. run T3 Kalaignar voice review;
+5. run T4 terminology / quotation / citation audit and update `LEXICON.md` contextually;
+6. mark `verified` only after T5 passes;
+7. synchronize trackers/handover after the five-article batch.
+
+Do not begin Article 12 until Articles 7–11 are durably T5-verified.

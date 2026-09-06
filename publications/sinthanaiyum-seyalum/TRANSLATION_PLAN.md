@@ -13,7 +13,7 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 
 Translate all **50** frozen strict-reviewed Tamil article assemblies into readable English while preserving meaning, rhetorical action, source-page trace, quotation structure, repetition, commands, questions, irony, polemical force and literary lineation.
 
-The frozen Tamil assemblies in `articles/` are the only translation authorities. Do not translate from OCR, web text, alternate editions, remembered wording or raw pre-fidelity transcriptions.
+The frozen Tamil assemblies in `articles/` are the translation authorities. OCR, web text, alternate editions and remembered wording must not replace them.
 
 ## Tamil prerequisite — COMPLETE / FROZEN
 
@@ -24,84 +24,74 @@ The frozen Tamil assemblies in `articles/` are the only translation authorities.
 - publication-wide P5: **226 / 226 PASS**
 - unresolved Tamil/source-fidelity blockers: **0**
 
-Final Tamil records remain `PUBLICATION_WIDE_P4.md`, `VISUAL_TEXT_FIDELITY_REVIEW.md` and `PUBLICATION_COMPLETION_REVIEW.md`.
-
-## Translation queue / authority
-
-The canonical 50-unit order and scan spans are fixed by [`articles/README.md`](articles/README.md). T0 source pins are recorded article-by-article before drafting rather than inferred from filenames.
-
-### Article 1 voice-baseline authority — VERIFIED
+## Translation authority pins completed
 
 | # | Tamil title | Scans | Frozen Tamil blob | T0–T5 |
 |---:|---|---|---|---|
-| 1 | `பாசியும் - தூசியும்!` | `18–23` | `79791aad807179e85b4275539fff8283d2ff61b2` | **PASS / VERIFIED** |
+| 1 | `பாசியும் - தூசியும்!` | 18–23 | `79791aad807179e85b4275539fff8283d2ff61b2` | **PASS / verified** |
+| 2 | `அதிக உயரம் தாண்டுவதற்கு` | 24–27 | `9f1e9442c20c86d0d10918dfbff0de22f346342f` | **PASS / verified** |
+| 3 | `என் பெயர் புரட்சி!` | 28–32 | `262febdac5ac90d78b1a6007120c3eab6f95e780` | **PASS / verified** |
+| 4 | `குருகுலம்!` | 33–35 | `4ddbb1e64f50a471f91d402220a05814b1e2e198` | **PASS / verified** |
+| 5 | `ஜனநாயக நெறி` | 36–38 | `b5a8f2fa1414ec7c490a0da50d42da217d4581e0` | **PASS / verified** |
+| 6 | `வாக்குச்சீட்டின் வலிமை` | 39–41 | `00fe01bd3e899ca4da814c7e58428fffbd51c5f9` | **PASS / verified** |
 
-English title: **Moss and Dust!**
-
-Article 1 has completed the full T0–T5 sequence and is now the publication's verified voice baseline.
+Article 1 remains the voice baseline; Articles 2–6 demonstrate how its choices are applied **contextually rather than mechanically**.
 
 ## Current English gate status
 
 - E0 translation planning/setup: **COMPLETE / PASS**
-- T0 source prerequisite: **1 / 50 PASS**
-- T1 close draft: **1 / 50 COMPLETE**
-- T2 bilingual fidelity review: **1 / 50 PASS**
-- T3 Kalaignar voice review: **1 / 50 PASS**
-- T4 terminology / quotation / citation audit: **1 / 50 PASS**
-- T5 article verification: **1 / 50 PASS**
+- T0 source prerequisite: **6 / 50 PASS**
+- T1 close draft: **6 / 50 COMPLETE**
+- T2 bilingual fidelity review: **6 / 50 PASS**
+- T3 Kalaignar voice review: **6 / 50 PASS**
+- T4 terminology / quotation / citation audit: **6 / 50 PASS**
+- T5 article verification: **6 / 50 PASS**
 - E6 publication-wide consistency review: **NOT STARTED**
 - E7 release closeout: **NOT STARTED**
-- English files: **1 / 50**
-- verified English: **1 / 50**
+- English files: **6 / 50**
+- verified English: **6 / 50**
 - translation blockers: **0**
 
-## Article 1 review summary
+## First five-article acceleration batch — Articles 2–6
 
-### T2
+User-authorised batch scope: process the next five articles through T5 each.
 
-T2 made **8 fidelity corrections**, all preserved with old → corrected provenance in `translations/en/TRANSLATION_REVIEW.md`. After correction: omitted source claims **0**, added substantive claims **0**, numbers/dates/quotations **PASS**, ordered source comments **6/6 PASS**, unresolved T2 blockers **0**.
+Results:
 
-### T3
+- Article 2 **To Clear a Greater Height** — T0–T5 PASS;
+- Article 3 **My Name Is Revolution!** — T0–T5 PASS;
+- Article 4 **Gurukulam!** — T0–T5 PASS;
+- Article 5 **The Way of Democracy** — T0–T5 PASS;
+- Article 6 **The Power of the Ballot** — T0–T5 PASS;
+- unresolved blockers across batch: **0**;
+- Tamil changes caused by English work: **0**.
 
-T3 made **9 voice-preservation corrections**, including restoration of repeated `இலக்கணம்` as **grammar of renunciation / grammar of politics**, stronger source-faithful handling of `அருவெறுப்பு`, direct rhetorical cadence, and preservation of garment/dirt and pond/moss imagery. Unresolved T3 blockers **0**.
+Important non-regression outcomes:
 
-### T4
+- Article 2 source-visible `காண விரும்பாத` was retained even though it reads unexpectedly in context; translation must not “repair” frozen Tamil semantics.
+- Article 3 source epithet `பாவேந்தர்` remains **Paavendhar**, and the personified Revolution’s violence, ridicule and satire are not softened.
+- Article 4 retains `gurukulam` and `akara practice`, with the honey/powder teaching contrast intact.
+- Article 5 translates its historical/political claims exactly from the frozen source and does not externally reconcile them.
+- Article 6 preserves the ballot, pillar, one-day-wage, sesame-tip and dusty-field images.
 
-T4 audited terminology, proper names, quotations, dates/numbers and source-page trace. **No body-text correction was required.** Established/confirmed Article 1 choices include:
+## Working method for every remaining article
 
-- `உடன்பிறப்பே` → **Dear sibling,**;
-- title `பாசியும் - தூசியும்!` → **Moss and Dust!**;
-- `பொருட்பால்` → **Porutpaal**;
-- `கூழியல்` → **Resources** in this Porutpaal-list context;
-- `அய்யன் வள்ளுவர்` → **Ayya Valluvar**, while plain `வள்ளுவர்` remains plain **Valluvar**;
-- `பாரதி` / `பாரதிதாசன்` → **Bharathi / Bharathidasan**;
-- Bharathidasan `கருப்பாதை` → **the path to conception**;
-- repeated `இலக்கணம்` → **grammar**;
-- `புனுகு`, `சவ்வாது` → **punugu**, **javvadu**;
-- `ஆவேசத் தாண்டவம்` → **frenzied dance**;
-- `மாயாண்டி`, `மன்னார்` → **Mayandi**, **Mannar**;
-- `அறநெறி தானிய விளைச்சல்` retains its grain/harvest image.
-
-Seven embedded literary quotation passages, all three displayed Tirukkural couplets, numbers `70`/`25`, date `27- 4 - 2005` and all six source comments passed audit. No published English quotation was imported.
-
-### T5
-
-T5 confirmed T0–T4 PASS, **0 unresolved blockers**, `translation_status: verified`, and Article 1 tracker status `verified`.
-
-## Working method
-
-For each article:
-
-1. T0 — fetch the live frozen Tamil assembly and pin its blob SHA;
+1. T0 — fetch live frozen Tamil assembly and pin blob SHA;
 2. T1 — translate paragraph by paragraph, preserving ordered `<!-- Tamil source: scan ... -->` comments;
-3. T2 — bilingual omission/addition/referent/number/logic review;
-4. T3 — voice, directness, sarcasm, command/question/repetition review;
-5. T4 — lexicon, proper-name, quotation, citation and source-comment audit;
-6. T5 — mark `verified` only after T1–T4 pass;
+3. T2 — omission/addition/referent/number/logic review;
+4. T3 — directness, sarcasm, command/question/repetition and image review;
+5. T4 — lexicon, names, quotations, citations, source comments and source-witness audit;
+6. T5 — set `verified` only after T1–T4 pass;
 7. after all 50 T5 passes, run E6 cross-article consistency and E7 release closeout.
-
-The living lexicon and review ledger must be updated during the work, not reconstructed at the end.
 
 ## Exact next activity
 
-**Article 2 `அதிக உயரம் தாண்டுவதற்கு` — T0 + T1 only.** Fetch the live frozen Tamil assembly `articles/02-athiga-uyaram-thaanduvatharku.md`, record its actual blob SHA and scan/printed-page metadata, then create the complete English close draft with ordered source-page comments. Apply the verified Article 1 voice baseline contextually, not mechanically. Stop before Article 2 T2.
+Process **Articles 7–11** through T5 each, in order:
+
+7. `சுயமரியாதைத் திருமணம்` — scans 42–45;
+8. `மனிதனின் மறுபக்கம்` — scans 46–48;
+9. `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` — scans 49–51;
+10. `மனிதனும் மறுபிறவியும்` — scans 52–55;
+11. `வெற்றி தோல்வி!` — scans 56–58.
+
+For each article, fetch and pin the **live** Tamil blob before drafting. Stop after Article 11 T5 and synchronize all English trackers before beginning Article 12.
