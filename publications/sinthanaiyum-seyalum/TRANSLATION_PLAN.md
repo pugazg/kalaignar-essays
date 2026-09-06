@@ -30,15 +30,15 @@ Final Tamil records remain `PUBLICATION_WIDE_P4.md`, `VISUAL_TEXT_FIDELITY_REVIE
 
 The canonical 50-unit order and scan spans are fixed by [`articles/README.md`](articles/README.md). T0 source pins are recorded article-by-article before drafting rather than inferred from filenames.
 
-### Article 1 voice-baseline authority
+### Article 1 voice-baseline authority — VERIFIED
 
-| # | Tamil title | Scans | Frozen Tamil blob | T0 |
+| # | Tamil title | Scans | Frozen Tamil blob | T0–T5 |
 |---:|---|---|---|---|
-| 1 | `பாசியும் - தூசியும்!` | `18–23` | `79791aad807179e85b4275539fff8283d2ff61b2` | **PASS** |
+| 1 | `பாசியும் - தூசியும்!` | `18–23` | `79791aad807179e85b4275539fff8283d2ff61b2` | **PASS / VERIFIED** |
 
-Working English title: **Moss and Dust!**
+English title: **Moss and Dust!**
 
-Article 1 is the publication's voice baseline. Complete its T1–T5 sequence before accelerating later articles.
+Article 1 has completed the full T0–T5 sequence and is now the publication's verified voice baseline.
 
 ## Current English gate status
 
@@ -47,62 +47,46 @@ Article 1 is the publication's voice baseline. Complete its T1–T5 sequence bef
 - T1 close draft: **1 / 50 COMPLETE**
 - T2 bilingual fidelity review: **1 / 50 PASS**
 - T3 Kalaignar voice review: **1 / 50 PASS**
-- T4 terminology / quotation / citation audit: **0 / 50**
-- T5 article verification: **0 / 50**
+- T4 terminology / quotation / citation audit: **1 / 50 PASS**
+- T5 article verification: **1 / 50 PASS**
 - E6 publication-wide consistency review: **NOT STARTED**
 - E7 release closeout: **NOT STARTED**
-- English files: **1 / 50**, Article 1 status `draft`
+- English files: **1 / 50**
+- verified English: **1 / 50**
 - translation blockers: **0**
 
-## Article 1 T2 result
+## Article 1 review summary
 
-Article 1 was compared sentence-by-sentence and clause-by-clause against frozen Tamil blob `79791aad807179e85b4275539fff8283d2ff61b2`.
+### T2
 
-T2 made **8 fidelity corrections**, all recorded with old → corrected wording in `translations/en/TRANSLATION_REVIEW.md`. They remove or narrow T1 over-interpretation/addition while preserving the source's rhetorical structure. Key corrections include:
+T2 made **8 fidelity corrections**, all preserved with old → corrected provenance in `translations/en/TRANSLATION_REVIEW.md`. After correction: omitted source claims **0**, added substantive claims **0**, numbers/dates/quotations **PASS**, ordered source comments **6/6 PASS**, unresolved T2 blockers **0**.
 
-- `swells through the whole day` → `matures through the whole day`;
-- `spectacle of jumping from branch to branch` → `an amusing game of jumping from branch to branch`;
-- removal of unsupported first-person `betrayed us`;
-- removal of added `day` in the Parliament/adjournment sentence;
-- `upstairs house` / `easy splendour` → `storeyed house` / `live in comfort`;
-- removal of added `reserved for them` from `உரிமை ஆவணம்`;
-- clarification of the purity/wearer dependency;
-- `destroying democracy` → `undermine democracy` for source `சீர்குலைக்கும்`.
+### T3
 
-After correction: omitted source claims **0**, added substantive claims **0**, numbers/dates/quotations **PASS**, ordered source comments **6/6 PASS**, unresolved T2 fidelity blockers **0**. Tamil changed **0**.
+T3 made **9 voice-preservation corrections**, including restoration of repeated `இலக்கணம்` as **grammar of renunciation / grammar of politics**, stronger source-faithful handling of `அருவெறுப்பு`, direct rhetorical cadence, and preservation of garment/dirt and pond/moss imagery. Unresolved T3 blockers **0**.
 
-## Article 1 T3 result
+### T4
 
-T3 made **9 voice-preservation corrections**, all recorded with old → corrected wording in `translations/en/TRANSLATION_REVIEW.md`.
-
-Key T3 decisions:
-
-- `he gives love its very recognition` → **he grants love full recognition**;
-- the love/politics parallel was made more direct and admonitory;
-- repeated `இலக்கணம்` was restored as **grammar of renunciation / grammar of politics** rather than split into `defining mark` / `code`;
-- `அநாகரிகக் கூடம்` retains a concrete hall image as **hall of incivility**;
-- `என்னதான் கூற முடியும் ?` regains the exasperated **What indeed can one say...?**;
-- `அருவெறுப்பு` keeps its stronger **revulsion** force and `வியப்பில்லைதான்` its **no wonder** construction;
-- `ஆவேசத் தாண்டவம்` is provisionally **frenzied dance**, with final terminology treatment reserved for T4;
-- the purity/garment cadence and `அழுக்கின் ஆதிக்கம்` image were sharpened without adding a claim;
-- the closing pond/moss rhetorical question was made direct English without abstracting the image.
-
-After T3: directness **PASS**, polemical bite **PASS**, rhetorical questions **PASS**, commands/appeals **PASS**, repetition/exclamations **PASS**, vivid metaphors **PASS**, ordered source comments **6/6 PASS**, Tamil changes **0**, unresolved T3 blockers **0**.
-
-Article 1 remains `translation_status: draft`; T4/T5 are pending.
-
-## Source-bearing choices carried into T4
+T4 audited terminology, proper names, quotations, dates/numbers and source-page trace. **No body-text correction was required.** Established/confirmed Article 1 choices include:
 
 - `உடன்பிறப்பே` → **Dear sibling,**;
 - title `பாசியும் - தூசியும்!` → **Moss and Dust!**;
-- `கூழியல்` → **Resources**;
+- `பொருட்பால்` → **Porutpaal**;
+- `கூழியல்` → **Resources** in this Porutpaal-list context;
+- `அய்யன் வள்ளுவர்` → **Ayya Valluvar**, while plain `வள்ளுவர்` remains plain **Valluvar**;
+- `பாரதி` / `பாரதிதாசன்` → **Bharathi / Bharathidasan**;
 - Bharathidasan `கருப்பாதை` → **the path to conception**;
-- `அய்யன் வள்ளுவர்` → **Ayya Valluvar**;
-- `இலக்கணம்` → **grammar** in the repeated Article 1 metaphor;
+- repeated `இலக்கணம்` → **grammar**;
 - `புனுகு`, `சவ்வாது` → **punugu**, **javvadu**;
-- `ஆவேசத் தாண்டவம்` → provisional **frenzied dance**;
+- `ஆவேசத் தாண்டவம்` → **frenzied dance**;
 - `மாயாண்டி`, `மன்னார்` → **Mayandi**, **Mannar**;
 - `அறநெறி தானிய விளைச்சல்` retains its grain/harvest image.
+
+Seven embedded literary quotation passages, all three displayed Tirukkural couplets, numbers `70`/`25`, date `27- 4 - 2005` and all six source comments passed audit. No published English quotation was imported.
+
+### T5
+
+T5 confirmed T0–T4 PASS, **0 unresolved blockers**, `translation_status: verified`, and Article 1 tracker status `verified`.
 
 ## Working method
 
@@ -120,6 +104,4 @@ The living lexicon and review ledger must be updated during the work, not recons
 
 ## Exact next activity
 
-**Article 1 `பாசியும் - தூசியும்!` — T4 terminology / quotation / citation audit only.** Audit the T3-corrected English against the living lexicon and frozen Tamil for proper names, epithets, Porutpaal division labels, source-bearing transliterations, all quoted material, dates/numbers and all six ordered source-page comments. Record every T4 correction or explicit no-change decision, then stop before T5.
-
-Do not begin Article 2 yet.
+**Article 2 `அதிக உயரம் தாண்டுவதற்கு` — T0 + T1 only.** Fetch the live frozen Tamil assembly `articles/02-athiga-uyaram-thaanduvatharku.md`, record its actual blob SHA and scan/printed-page metadata, then create the complete English close draft with ordered source-page comments. Apply the verified Article 1 voice baseline contextually, not mechanically. Stop before Article 2 T2.
