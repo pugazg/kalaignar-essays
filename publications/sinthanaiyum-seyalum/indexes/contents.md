@@ -3,11 +3,7 @@
 Source witness: physical scans **14–15**, heading `பொருளடக்கம்`.  
 Status: **P2 VERIFIED**.
 
-## Source rule
-
-This is the diplomatic printed-contents witness. Article headings are separate witnesses and must not silently normalise this table.
-
-The printed contents has **50 numbered entries total**.
+This is the diplomatic printed-contents witness. Article headings are independent witnesses and must not silently normalize this table.
 
 | No. | Contents-page title witness | Printed start page |
 |---:|---|---:|
@@ -62,32 +58,17 @@ The printed contents has **50 numbered entries total**.
 | 49 | `அந்தாதி பாடிய அருதகுட்டி நாடார்` | 213 |
 | 50 | `சிந்தனை செய் மனமே` | 220 |
 
-## Frozen P2 corrections to P1 contents intake
+## Frozen contents/heading distinctions
 
-- Unit 18: `சோதி சோகம்!` → `சோதிட சோகம்!`
-- Unit 44: `குரு பீடமும்; குருவி பீடமும்!` → `குரு பீடமும்; குறள் பீடமும்!`
-- Unit 41 preserves source-visible spacing in contents `மொழி !`.
+- U3 contents `என் பெயர் புரட்சி` ↔ heading `என் பெயர் புரட்சி!`;
+- U6 `வாக்குச் சீட்டின் வலிமை` ↔ `வாக்குச்சீட்டின் வலிமை`;
+- U9 `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`;
+- U11 `வெற்றி - தோல்வி!` ↔ `வெற்றி தோல்வி!`;
+- U15 `இன்பமும் துன்பமும்` ↔ `இன்பமும் துன்பமும்!`;
+- U19 `ஆன்மிக ஆழ்கடல்!` ↔ `ஆன்மிக ஆழ்கடல்`;
+- U41 `வலி அறிவிக்கும் வாயில்லா மொழி !` ↔ `வலி அறிவிக்கும் வாயில்லா மொழி!`;
+- U48 `நல்வழிக்கு நாட்டாரய்யாவின் உரை!...` ↔ `நல்வழிக்கு நாட்டாரய்யாவின் உரை!`.
 
-## Directly verified heading witnesses through Unit 46
+## Current status
 
-Frozen differences:
-
-- Unit 3 contents `என் பெயர் புரட்சி` ↔ heading `என் பெயர் புரட்சி!`.
-- Unit 6 contents `வாக்குச் சீட்டின் வலிமை` ↔ heading `வாக்குச்சீட்டின் வலிமை`.
-- Unit 9 contents `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`.
-- Unit 11 contents `வெற்றி - தோல்வி!` ↔ heading `வெற்றி தோல்வி!`.
-- Unit 15 contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!`.
-- Unit 19 contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்`.
-- Unit 41 contents `வலி அறிவிக்கும் வாயில்லா மொழி !` ↔ heading `வலி அறிவிக்கும் வாயில்லா மொழி!`.
-
-Other directly inspected openings through Unit 46 match the printed contents wording.
-
-Units **1–46** have directly verified boundaries and strict-reviewed Tamil status. Entries **47–50** remain P1-provisional until direct scan review.
-
-## Current status / next
-
-- P2 verified range: **1–203**
-- complete units: **46 / 50**
-- P3 assemblies: **46 / 50**
-- completed Units 1–46: scoped P4/P5 **PASS / STRICT-REVIEWED / FROZEN**
-- next: Units **47–50** + terminal scan **226**; resolve Part-004 and Part-005 first.
+All **50 / 50** contents entries now have directly verified opening/ending boundaries and P3 assemblies. Publication-wide P4 is PASS; final publication-wide P5 remains active.

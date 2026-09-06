@@ -4,57 +4,52 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reopen Publications 1–7 or completed Units 1–46 because a copied prompt contains an older checkpoint.
+Fetch live `main` first. Preserve newer durable work. Do not reopen Publications 1–7 or any of the 50 source-complete body units merely because this copied prompt is older.
 
 ## Mandatory startup
 
-Read completely before source-dependent changes:
+Read completely:
 
-1. `ESSAY_PROCESSING_GUIDE.md`
-2. `docs/FUTURE_WORK_GUIDELINES.md`
-3. root `HANDOVER.md`
-4. this prompt
-5. `publications/sinthanaiyum-seyalum/README.md`
-6. `metadata/source.md`
-7. `indexes/contents.md`
-8. `indexes/page-map.md`
-9. `articles/README.md`
-10. `P2_UNITS_42_46.md`
-11. `P4_UNITS_42_46.md`
-12. `P5_VISUAL_TEXT_FIDELITY_UNITS_42_46.md`
-13. `COMPLETED_UNITS_42_46_CLOSEOUT.md`
+1. `ESSAY_PROCESSING_GUIDE.md`, especially §§11–12;
+2. `docs/FUTURE_WORK_GUIDELINES.md`;
+3. root `HANDOVER.md`;
+4. this prompt;
+5. publication `README.md`;
+6. `metadata/source.md`;
+7. `indexes/contents.md`;
+8. `indexes/page-map.md`;
+9. `articles/README.md`;
+10. `P2_FINAL_220_226.md`;
+11. `P4_UNITS_49_50_AND_TERMINAL.md`;
+12. `P5_VISUAL_TEXT_FIDELITY_UNITS_49_50_AND_TERMINAL.md`;
+13. `PUBLICATION_WIDE_P4.md`.
 
-English is out of scope, so do not read/start the translation workflow unless the user explicitly changes scope.
+English remains out of scope.
 
-## Current authoritative Tamil state
+## Current authoritative state
 
-- physical page records: **226 / 226 CREATED**
-- P2: **203 / 226 VERIFIED**, contiguous scans **1–203**
-- complete body units: **46 / 50**
-- P3 assemblies: **46 / 50**
-- Units **1–46**: scoped P4/P5 **PASS / STRICT-REVIEWED / FROZEN**
-- unresolved through scan 203: **0**
-- publication-wide P4/P5: **PENDING**
-- English: **NOT STARTED / OUT OF SCOPE**
-- scan **204 has not been processed**.
+- P2: **226 / 226 VERIFIED**
+- body units: **50 / 50 COMPLETE**
+- P3: **50 / 50 VERIFIED**
+- all 50 units scoped P4/P5: **PASS / STRICT-REVIEWED**
+- terminal scan 226 scoped P4/P5: **PASS**
+- publication-wide P4: **PASS**
+- publication-wide P5: **ACTIVE / NOT YET CLOSED**
+- unresolved: **0**
 
-## Exact next activity — finish remaining source
+## Exact next activity — publication-wide P5
 
-The user changed the cadence to **five units per activity**. Only four body units remain, so process all remaining body units plus the terminal witness in one activity:
+Run the final `ESSAY_PROCESSING_GUIDE.md` §12 strict visual re-pass across **all 226 physical scans** after full source completion.
 
-1. U47 `கலசங்கள், கலங்கரை விளக்கங்களாகலாம்!` — P1 provisional scans **204–209**.
-2. U48 `நல்வழிக்கு நாட்டாரய்யாவின் உரை!...` — provisional **210–213**.
-3. U49 `அந்தாதி பாடிய அருதகுட்டி நாடார்` — provisional **214–220**; this crosses Part-004 → Part-005.
-4. U50 `சிந்தனை செய் மனமே` — provisional **221–225**.
-5. Scan **226** — separate terminal/back-cover promotional witness.
+For every scan:
 
-Resolve both controlling files before visual work:
+- directly re-view controlling pixels;
+- compare every visible word, word boundary, spacing, punctuation, quotation mark, heading, date, numeral and paragraph/page continuation against the canonical page record;
+- preserve independent contents/article/back-cover witnesses separately;
+- record every correction as old reading → source-visible reading;
+- propagate page corrections to assemblies and indexes/trackers;
+- maintain zero silent normalization.
 
-- `TVA_BOK_0065568_சிந்தனையும்_செயலும்_2010_part_004_pages_165-219.pdf`
-- `TVA_BOK_0065568_சிந்தனையும்_செயலும்_2010_part_005_pages_220-226.pdf`
+After the sweep, create `VISUAL_TEXT_FIDELITY_REVIEW.md`, reconcile all 50 assemblies, verify blocked/needs-review/unresolved counts, and only then mark Tamil archival completion.
 
-P1 spans are provisional until source pixels establish each ending. Canonical pages first. Build assemblies only after direct boundary verification. Every completed unit gets scoped P4/P5. Keep printed marginal/form evidence outside prose. Do not use OCR/web/memory/alternate editions as authority.
-
-After scans **204–226** are directly verified and Units **47–50** are assembled, synchronize all trackers and then run **publication-wide P4/P5** over the complete 226-scan source before declaring Tamil archival closure.
-
-Do not start English.
+Do not begin English unless explicitly authorized.

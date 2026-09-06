@@ -23,8 +23,6 @@ Source identifier: `TVA_BOK_0065568`
 
 ## Printed identity
 
-Direct visual witnesses establish:
-
 - title: `சிந்தனையும் செயலும்`
 - author: `கலைஞர் மு. கருணாநிதி`
 - publisher: `தமிழ்க்கனி பதிப்பகம்`
@@ -36,56 +34,33 @@ Direct visual witnesses establish:
 - printer: `ஈகிள் பிரஸ், சென்னை - 600 013.`
 - sales-rights witness: `பூம்புகார் பதிப்பகம்`
 
-Scans 6–7 are `பதிப்புரை`; scans 8–12 are `அணிந்துரை` by `டாக்டர் வா. செ. குழந்தைசாமி`; scans 14–15 are the printed `பொருளடக்கம்` with **50** numbered units; scan 16 is an internal title page. Scan 226 is a separate back-cover/promotional witness and remains pending P2.
+## Verified structure
 
-## Publication form / verified structure
+- scans 1–17: cover/front matter/contents/internal title/blank witnesses;
+- scans 18–225: **50 directly verified body units**;
+- scan 226: verified back-cover/promotional witness;
+- P2: **226 / 226 VERIFIED**;
+- P3: **50 / 50 assemblies**;
+- publication-wide P4: **PASS**;
+- publication-wide P5: **ACTIVE / NOT YET CLOSED**;
+- unresolved readings: **0**.
 
-This is a **multi-unit essay/letter collection**. The controlling contents witness numbers **50 units total**. A separate bibliographic description saying “two letters and 50 articles” remains external and does not expand the archival unit count to 52.
+Final units:
 
-Direct P2 boundary verification is complete through **Unit 46 / scan 203**. Transfer-boundary joins already verified without textual discontinuity include Unit 25 across Part-002 → Part-003 and Unit 38 across Part-003 → Part-004.
+- U47 204–209;
+- U48 210–213;
+- U49 214–220, crossing Part-004 → Part-005;
+- U50 221–225;
+- terminal 226.
 
-The remaining Unit 49 provisional span crosses Part-004 → Part-005 and must be verified from both source parts.
+## Contents / heading distinctions
 
-## Contents / heading witness distinctions
+Independent witness differences are preserved for Units **3, 6, 9, 11, 15, 19, 41, 48**. Unit 29's printed Kural witness `காப்புவென் செய்யும் ?` remains source-faithful and is not replaced by a conventional reading.
 
-Preserve independently:
+## Printed marginal/form evidence
 
-- Unit 3 `என் பெயர் புரட்சி` ↔ `என் பெயர் புரட்சி!`
-- Unit 6 `வாக்குச் சீட்டின் வலிமை` ↔ `வாக்குச்சீட்டின் வலிமை`
-- Unit 9 `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`
-- Unit 11 `வெற்றி - தோல்வி!` ↔ `வெற்றி தோல்வி!`
-- Unit 15 `இன்பமும் துன்பமும்` ↔ `இன்பமும் துன்பமும்!`
-- Unit 19 `ஆன்மிக ஆழ்கடல்!` ↔ `ஆன்மிக ஆழ்கடல்`
-- Unit 41 `வலி அறிவிக்கும் வாயில்லா மொழி !` ↔ `வலி அறிவிக்கும் வாயில்லா மொழி!`
+Recurring production witness series is directly verified at scans 18 through 210 every 16 scans, sequence numbers **2–14**, each with `சி. செ. பூ. வெ. எண். 750`. These witnesses remain outside article prose.
 
-Other directly inspected openings through Unit 46 match their contents wording.
+## Next gate
 
-Unit 29 preserves the printed Kural witness `காப்புவென் செய்யும் ?` exactly rather than importing a conventional reading.
-
-## Physical-copy / printed marginal evidence
-
-P2/P5 confirms library stamps, spotting/foxing, handling wear and bleed-through at various locations. Printed text and later physical-copy marks remain separate.
-
-Recurring printed production/form witnesses are present at scans **18, 34, 50, 66, 82, 98, 114, 130, 146, 162, 178, 194**, carrying sequence numbers **2–13** followed by `சி. செ. பூ. வெ. எண். 750`. They are not article prose.
-
-## Strict-fidelity repairs / decisions
-
-Earlier durable corrections include scan 130 `மாத` → source-visible `மாசு` and scan 156 first-pass `உயிரினைய` → source-visible `உயிரனைய`, each propagated to its assembly.
-
-Units 42–46 retain source-sensitive readings such as `சிற்றார் பேரூர்`, `உதவாதினி ஒரு தாமதம்`, `கற்பனை பென்றாலும்`, `முன்வரவில்லைய`, `வெருகேற்றி`, `அவரையன்னியில்`, `இதனைக்கும்`, `ஒருவா தனிடமுள்ள`, `ஓர் என்பது ஆண்டுகளுக்குள்`, `நிறந்து பரிமாறி`, and `பெருங்குறையேயாகும்`.
-
-## Current archival gate
-
-- page records created: **226 / 226**
-- P2 directly verified: **203 / 226**
-- contiguous verified range: **1–203**
-- complete verified body units: **46 / 50**
-- P3 assemblies: **46 / 50**
-- completed Units 1–46 scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
-- publication-wide P4/P5: **PENDING**
-- unresolved readings in verified scans 1–203: **0**
-- English: **NOT STARTED / OUT OF CURRENT SCOPE**
-
-## Next
-
-Verify remaining body Units **47–50** plus terminal scan **226**. Resolve Part-004 and Part-005 before source-level work. After all 226 scans are P2-complete and all 50 units assembled, run publication-wide P4/P5. Do not begin English yet.
+Dedicated publication-wide strict visual text-fidelity re-pass over all 226 scans per `ESSAY_PROCESSING_GUIDE.md` §12.

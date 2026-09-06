@@ -1,62 +1,65 @@
 # Article Assemblies — சிந்தனையும் செயலும்
 
-P3 has verified assemblies for Units **1–46**. The assembly layer is mechanically dependent on the canonical page layer; never edit article prose independently.
+P3 has verified assemblies for all **50 / 50** printed contents units. Assemblies are mechanically dependent on canonical page records; never edit article prose independently.
 
-1. [`01-paasiyum-thoosiyum.md`](01-paasiyum-thoosiyum.md) — `பாசியும் - தூசியும்!` — 18–23
-2. [`02-athiga-uyaram-thaanduvatharku.md`](02-athiga-uyaram-thaanduvatharku.md) — `அதிக உயரம் தாண்டுவதற்கு` — 24–27
-3. [`03-en-peyar-puratchi.md`](03-en-peyar-puratchi.md) — heading `என் பெயர் புரட்சி!` — 28–32
-4. [`04-kurukulam.md`](04-kurukulam.md) — `குருகுலம்!` — 33–35
-5. [`05-jananayaga-neri.md`](05-jananayaga-neri.md) — `ஜனநாயக நெறி` — 36–38
-6. [`06-vaakkuseettin-valimai.md`](06-vaakkuseettin-valimai.md) — heading `வாக்குச்சீட்டின் வலிமை` — 39–41
-7. [`07-suyamariyathai-thirumanam.md`](07-suyamariyathai-thirumanam.md) — `சுயமரியாதைத் திருமணம்` — 42–45
-8. [`08-manithanin-marupakkam.md`](08-manithanin-marupakkam.md) — `மனிதனின் மறுபக்கம்` — 46–48
-9. [`09-vinnai-thottu-mannil-pudhaivatha.md`](09-vinnai-thottu-mannil-pudhaivatha.md) — heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` — 49–51
-10. [`10-manithanum-marupiraviyum.md`](10-manithanum-marupiraviyum.md) — `மனிதனும் மறுபிறவியும்` — 52–55
-11. [`11-vetri-tholvi.md`](11-vetri-tholvi.md) — heading `வெற்றி தோல்வி!` — 56–58
-12. [`12-azhukkaru.md`](12-azhukkaru.md) — `அழுக்காறு` — 59–61
-13. [`13-miguthikkan.md`](13-miguthikkan.md) — `மிகுதிக்கண்...` — 62–65
-14. [`14-valivum-polivum.md`](14-valivum-polivum.md) — `வலிவும், பொலிவும்!` — 66–68
-15. [`15-inbamum-thunbamum.md`](15-inbamum-thunbamum.md) — heading `இன்பமும் துன்பமும்!` — 69–74
-16. [`16-ozhukkam.md`](16-ozhukkam.md) — `ஒழுக்கம்` — 75–77
-17. [`17-vasiya-marunthu.md`](17-vasiya-marunthu.md) — `வசிய மருந்து` — 78–81
-18. [`18-sothida-sogam.md`](18-sothida-sogam.md) — `சோதிட சோகம்!` — 82–84
-19. [`19-aanmiga-aazhkadal.md`](19-aanmiga-aazhkadal.md) — heading `ஆன்மிக ஆழ்கடல்` — 85–89
-20. [`20-thenil-kuzhaithu-koduthaalum.md`](20-thenil-kuzhaithu-koduthaalum.md) — `தேனில் குழைத்துக் கொடுத்தாலும்...!` — 90–93
-21. [`21-viyaathikku-viruntha.md`](21-viyaathikku-viruntha.md) — `வியாதிக்கு விருந்தா?` — 94–97
-22. [`22-vilaiyaattu.md`](22-vilaiyaattu.md) — `விளையாட்டு` — 98–100
-23. [`23-thannai-velvaan.md`](23-thannai-velvaan.md) — `தன்னை வெல்வான்` — 101–103
-24. [`24-idlar.md`](24-idlar.md) — `இட்லர்` — 104–108
-25. [`25-ingarsaal.md`](25-ingarsaal.md) — `இங்கர்சால்` — 109–111
-26. [`26-magalir-ida-othukkeedu.md`](26-magalir-ida-othukkeedu.md) — `மகளிர் இட ஒதுக்கீடு!` — 112–116
-27. [`27-thiyanam.md`](27-thiyanam.md) — `தியானம்???` — 117–122
-28. [`28-vibaththu.md`](28-vibaththu.md) — `விபத்து` — 123–125
-29. [`29-chinnathirai-selvi.md`](29-chinnathirai-selvi.md) — `சின்னத்திரை “செல்வி”` — 126–129
-30. [`30-marunthena-onru.md`](30-marunthena-onru.md) — `மருந்தென ஒன்று!` — 130–133
-31. [`31-siriya-noolthaan.md`](31-siriya-noolthaan.md) — `சிறிய நூல்தான்` — 134–138
-32. [`32-mandela.md`](32-mandela.md) — `மண்டேலா` — 139–144
-33. [`33-thondullam.md`](33-thondullam.md) — `தொண்டுள்ளம்` — 145–147
-34. [`34-magalir-perani.md`](34-magalir-perani.md) — `மகளிர் பேரணி!` — 148–151
-35. [`35-thirikadugam.md`](35-thirikadugam.md) — `திரிகடுகம்` — 152–154
-36. [`36-theekkuchchi-thedatheer.md`](36-theekkuchchi-thedatheer.md) — `தீக்குச்சி தேடாதீர்!` — 155–158
-37. [`37-silambum-maniyum.md`](37-silambum-maniyum.md) — `சிலம்பும் மணியும்!` — 159–162
-38. [`38-seynnanri.md`](38-seynnanri.md) — `செய்ந்நன்றி` — 163–166
-39. [`39-pagutharivu-paathai.md`](39-pagutharivu-paathai.md) — `பகுத்தறிவுப் பாதை!` — 167–172
-40. [`40-penniyap-puratchi.md`](40-penniyap-puratchi.md) — `பெண்ணியப் புரட்சி!` — 173–177
-41. [`41-vali-arivikkum-vaayillaa-mozhi.md`](41-vali-arivikkum-vaayillaa-mozhi.md) — heading `வலி அறிவிக்கும் வாயில்லா மொழி!` — 178–181
-42. [`42-varumun-kaappathaa-vanthapin-kaappathaa.md`](42-varumun-kaappathaa-vanthapin-kaappathaa.md) — `வருமுன் காப்பதா? வந்தபின் காப்பதா?` — 182–187
-43. [`43-enge-sorgam-enge-sorgam.md`](43-enge-sorgam-enge-sorgam.md) — `எங்கே சொர்க்கம்? எங்கே சொர்க்கம்?` — 188–191
-44. [`44-guru-peedamum-kural-peedamum.md`](44-guru-peedamum-kural-peedamum.md) — `குரு பீடமும்; குறள் பீடமும்!` — 192–194
-45. [`45-iraiyanaar-kuralum-iniyavai-naarpathum.md`](45-iraiyanaar-kuralum-iniyavai-naarpathum.md) — `இறையனார் குறளும்; இனியவை நாற்பதும்!` — 195–198
-46. [`46-padagukku-oru-kanakku-naattukku-oru-kanakkaa.md`](46-padagukku-oru-kanakku-naattukku-oru-kanakkaa.md) — `படகுக்கு ஒரு கணக்கு; நாட்டுக்கு ஒரு கணக்கா?` — 199–203
+1. `01-paasiyum-thoosiyum.md` — 18–23
+2. `02-athiga-uyaram-thaanduvatharku.md` — 24–27
+3. `03-en-peyar-puratchi.md` — 28–32
+4. `04-kurukulam.md` — 33–35
+5. `05-jananayaga-neri.md` — 36–38
+6. `06-vaakkuseettin-valimai.md` — 39–41
+7. `07-suyamariyathai-thirumanam.md` — 42–45
+8. `08-manithanin-marupakkam.md` — 46–48
+9. `09-vinnai-thottu-mannil-pudhaivatha.md` — 49–51
+10. `10-manithanum-marupiraviyum.md` — 52–55
+11. `11-vetri-tholvi.md` — 56–58
+12. `12-azhukkaru.md` — 59–61
+13. `13-miguthikkan.md` — 62–65
+14. `14-valivum-polivum.md` — 66–68
+15. `15-inbamum-thunbamum.md` — 69–74
+16. `16-ozhukkam.md` — 75–77
+17. `17-vasiya-marunthu.md` — 78–81
+18. `18-sothida-sogam.md` — 82–84
+19. `19-aanmiga-aazhkadal.md` — 85–89
+20. `20-thenil-kuzhaithu-koduthaalum.md` — 90–93
+21. `21-viyaathikku-viruntha.md` — 94–97
+22. `22-vilaiyaattu.md` — 98–100
+23. `23-thannai-velvaan.md` — 101–103
+24. `24-idlar.md` — 104–108
+25. `25-ingarsaal.md` — 109–111
+26. `26-magalir-ida-othukkeedu.md` — 112–116
+27. `27-thiyanam.md` — 117–122
+28. `28-vibaththu.md` — 123–125
+29. `29-chinnathirai-selvi.md` — 126–129
+30. `30-marunthena-onru.md` — 130–133
+31. `31-siriya-noolthaan.md` — 134–138
+32. `32-mandela.md` — 139–144
+33. `33-thondullam.md` — 145–147
+34. `34-magalir-perani.md` — 148–151
+35. `35-thirikadugam.md` — 152–154
+36. `36-theekkuchchi-thedatheer.md` — 155–158
+37. `37-silambum-maniyum.md` — 159–162
+38. `38-seynnanri.md` — 163–166
+39. `39-pagutharivu-paathai.md` — 167–172
+40. `40-penniyap-puratchi.md` — 173–177
+41. `41-vali-arivikkum-vaayillaa-mozhi.md` — 178–181
+42. `42-varumun-kaappathaa-vanthapin-kaappathaa.md` — 182–187
+43. `43-enge-sorgam-enge-sorgam.md` — 188–191
+44. `44-guru-peedamum-kural-peedamum.md` — 192–194
+45. `45-iraiyanaar-kuralum-iniyavai-naarpathum.md` — 195–198
+46. `46-padagukku-oru-kanakku-naattukku-oru-kanakkaa.md` — 199–203
+47. `47-kalasangal-kalangarai-vilakkangalaagalam.md` — 204–209
+48. `48-nalvazhikku-naattarayyaavin-urai.md` — 210–213
+49. `49-anthaathi-paadiya-aruthakutti-naadar.md` — 214–220
+50. `50-sinthanai-sey-maname.md` — 221–225
 
-## Integrity / closeout
+## Integrity
 
-- Units 1–46: **P2/P3 complete**;
-- completed-subset P4/P5: **PASS / STRICT-REVIEWED / FROZEN**;
-- latest Units 42–46 page/assembly equality: **22 / 22 PASS**;
-- printed marginal/form witnesses remain outside article prose;
-- unresolved through scan 203: **0**.
+- body canonical scans: **208 / 208** represented exactly once;
+- assemblies: **50 / 50 VERIFIED**;
+- unit-level/scoped P4/P5: **50 / 50 PASS / STRICT-REVIEWED**;
+- unresolved assembly/source discrepancies: **0**;
+- publication-wide P4: **PASS**;
+- publication-wide P5: **ACTIVE / NOT YET CLOSED**.
 
-## Next
-
-P2/P3 Units **47–50** plus terminal scan **226**, then publication-wide P4/P5. English remains out of scope.
+Scan 226 is a separate back-cover promotional witness and is correctly excluded from article prose.
