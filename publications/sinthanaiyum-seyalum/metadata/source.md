@@ -2,7 +2,7 @@
 
 ## Controlling source
 
-The controlling witness is one **226-scan publication** supplied for transfer as five non-overlapping PDF parts. The split files together represent the edition; they are not separate publications.
+The controlling witness is one **226-scan publication** supplied as five non-overlapping transfer PDFs. The parts are transfer containers, not separate publications.
 
 Source identifier: `TVA_BOK_0065568`
 
@@ -16,153 +16,79 @@ Source identifier: `TVA_BOK_0065568`
 
 - physical scans: **226**
 - split-set size: **573,249,703 bytes**
-- split continuity: **PASS — 1–55, 56–109, 110–164, 165–219, 220–226; no gap or overlap**
-- original unsplit-PDF SHA-256: **not available from the supplied split files; do not fabricate**
-- source PDFs committed to repository: **No**
-- source authority: supplied scan pixels; filenames are identifiers/range labels only.
+- split continuity: **PASS — no gaps or overlaps**
+- original unsplit-PDF SHA-256: **not available; never fabricate it**
+- source PDFs committed: **No**
+- authority: **supplied scan pixels**
 
-## Printed identity — direct visual witnesses
+## Printed identity
 
-### Scan 1 — front cover
+Direct visual witnesses establish:
 
-- author line: **`கலைஞர் மு. கருணாநிதி`**
-- title: **`சிந்தனையும் செயலும்`**
-- portrait cover.
-
-### Scan 4 — title page
-
-- title: **`சிந்தனையும் செயலும்`**
-- author: **`கலைஞர் மு. கருணாநிதி`**
-- sales-rights line: **`விற்பனை உரிமை : பூம்புகார் பதிப்பகம்`**
-- address: `127 (ப. எண். 63), பிரகாசம் சாலை (பிராட்வே)`, `சென்னை - 600 108`
-- telephone: `25267543`
-- circular library stamp overlaps the upper-right area.
-
-### Scan 5 — publication / edition data
-
-Direct P2 visual comparison establishes:
-
-- `பதிப்பாளர் : தமிழ்க்கனி பதிப்பகம்`
+- title: `சிந்தனையும் செயலும்`
+- author: `கலைஞர் மு. கருணாநிதி`
+- publisher: `தமிழ்க்கனி பதிப்பகம்`
 - `முதற்பதிப்பு : ஜூன், 2006`
 - `இரண்டாம் பதிப்பு : மார்ச், 2007`
 - `மூன்றாம் பதிப்பு : ஜனவரி, 2010`
 - `உரிமை : ஆசிரியருக்கே`
 - `விலை. ரூ. 120/-`
-- printer line: **`அச்சிட்டவர்கள் : ஈகிள் பிரஸ், சென்னை - 600 013.`**
+- printer: `ஈகிள் பிரஸ், சென்னை - 600 013.`
+- sales-rights witness: `பூம்புகார் பதிப்பகம்`
 
-P1 intake had `ஈகில் பிரஸ்`; P2 high-resolution visual review corrected it to **`ஈகிள் பிரஸ்`**.
-
-### Scans 6–7 — publisher's note
-
-- heading: **`பதிப்புரை`**
-- ending/signature witness on scan 7: **`- தமிழ்க்கனி பதிப்பகத்தார்`**.
-- scans **6–7 VERIFIED** in P2.
-
-### Scans 8–12 — foreword
-
-- heading: **`அணிந்துரை`**
-- byline/opening witness: **`டாக்டர் வா. செ. குழந்தைசாமி`**
-- signed ending on scan 12: **`(வா. செ. குழந்தைசாமி)`**
-- scans **8–12 VERIFIED** in P2.
-
-### Scans 14–15 — printed contents
-
-- heading: **`பொருளடக்கம்`**
-- numbered contents units: **50**
-- scans **14–15 VERIFIED** in P2.
-- P2 corrected two P1 readings: Unit 18 **`சோதிட சோகம்!`** and Unit 44 **`குரு பீடமும்; குறள் பீடமும்!`**.
-- Unit 41 preserves source-visible **`வலி அறிவிக்கும் வாயில்லா மொழி !`** with the space before `!`.
-- detailed diplomatic witness: `../indexes/contents.md`.
-
-### Scan 16 — internal title page
-
-- `சிந்தனையும் செயலும்`
-- `- கலைஞர் மு. கருணாநிதி`
-- scan **16 VERIFIED** in P2.
-
-### Scan 226 — back cover / promotional witness
-
-Back-cover promotional text remains a separate witness from article body text. It also carries the sales-rights/publisher-address block for **`பூம்புகார் பதிப்பகம்`**. Do not use the promotional excerpts to normalise body wording. Scan 226 remains pending P2.
+Scans 6–7 are `பதிப்புரை`; scans 8–12 are `அணிந்துரை` by `டாக்டர் வா. செ. குழந்தைசாமி`; scans 14–15 are the printed `பொருளடக்கம்` with **50** numbered units; scan 16 is an internal title page. Scan 226 is a separate back-cover/promotional witness and remains pending P2.
 
 ## Publication form
 
-This is a **multi-unit essay/letter collection**. The printed contents numbers **50 units total**. Direct P2 scan inspection now confirms Units 1–22 and the opening of Unit 23:
+This is a **multi-unit essay/letter collection**. The controlling contents witness numbers **50 units total**. A separate bibliographic description saying “two letters and 50 articles” remains external and does not expand the archival unit count to 52.
 
-1. `பாசியும் - தூசியும்!` — scans **18–23**, closes `27- 4 - 2005`;
-2. `அதிக உயரம் தாண்டுவதற்கு` — scans **24–27**, closes `29-4-2005`;
-3. heading `என் பெயர் புரட்சி!` — scans **28–32**, closes `1 - 5 - 2005`;
-4. `குருகுலம்!` — scans **33–35**, closes `3 - 5 - 2005`;
-5. `ஜனநாயக நெறி` — scans **36–38**, closes `7-5-2005`;
-6. heading `வாக்குச்சீட்டின் வலிமை` — scans **39–41**, closes `9-5-2005`;
-7. `சுயமரியாதைத் திருமணம்` — scans **42–45**, closes `13-5-2005`;
-8. `மனிதனின் மறுபக்கம்` — scans **46–48**, closes `15-5-2005`;
-9. heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` — scans **49–51**, closes `16-5-2005`;
-10. `மனிதனும் மறுபிறவியும்` — scans **52–55**, closes `6-6-2005`;
-11. heading `வெற்றி தோல்வி!` — scans **56–58**, closes `8 - 6 - 2005`;
-12. `அழுக்காறு` — scans **59–61**, closes `10 - 6 - 2005`;
-13. `மிகுதிக்கண்...` — scans **62–65**, closes `1 - 7 - 2005`;
-14. `வலிவும், பொலிவும்!` — scans **66–68**, closes `8 - 7 - 2005`;
-15. heading `இன்பமும் துன்பமும்!` — scans **69–74**, closes `9 - 7 - 2005`;
-16. `ஒழுக்கம்` — scans **75–77**, closes `14 - 7 - 2005`;
-17. `வசிய மருந்து` — scans **78–81**, closes `18 - 7 - 2005`;
-18. `சோதிட சோகம்!` — scans **82–84**, closes `1 - 8 - 2005`;
-19. heading `ஆன்மிக ஆழ்கடல்` — scans **85–89**, closes `4 - 8 - 2005`;
-20. `தேனில் குழைத்துக் கொடுத்தாலும்...!` — scans **90–93**, closes `5 - 8 - 2005`;
-21. `வியாதிக்கு விருந்தா?` — scans **94–97**, closes `7 - 8 - 2005`;
-22. `விளையாட்டு` — scans **98–100**, closes `9 - 8 - 2005`;
-23. `தன்னை வெல்வான்` — scan **101 VERIFIED**; scans 102–103 pending.
+## Directly verified structure through Unit 25
 
-The separate user/bibliographic statement “two letters and 50 articles” is retained as an external description only. It is not used to turn the scan's 50 numbered contents entries into 52 archival units.
+Units **1–25** are directly verified and occupy scans **18–111**. Unit 25 crosses the transfer boundary from Part 002 scan 109 to Part 003 scans 110–111 without a source discontinuity.
 
-### Contents/heading witness distinctions through Unit 23
+Closing boundary witnesses through Unit 25 are recorded in `../indexes/page-map.md` and the P2 batch records. Units 26–50 remain provisional P1 spans until direct inspection.
 
-- Unit 3: contents `என் பெயர் புரட்சி` ↔ heading `என் பெயர் புரட்சி!`.
-- Unit 6: contents `வாக்குச் சீட்டின் வலிமை` ↔ heading `வாக்குச்சீட்டின் வலிமை`.
-- Unit 9: contents `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`.
-- Unit 11: contents `வெற்றி - தோல்வி!` ↔ heading `வெற்றி தோல்வி!`.
-- Unit 15: contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!`.
-- Unit 18: contents/heading `சோதிட சோகம்!`.
-- Unit 19: contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்`.
-- Units 20–23 currently show matching contents/heading wording in their directly inspected openings.
+## Contents / heading witness distinctions
 
-## Printed-page behaviour / split continuity
+Preserve independently:
 
-Observed body numbering confirms the physical/printed offset. P2 records numerals only when directly visible. Heading pages carry the source unit marker rather than a printed page numeral; following pages through scan 101 show the corresponding printed numerals where visible. The offset must **not** be used to invent a numeral on an unnumbered page.
+- Unit 3 `என் பெயர் புரட்சி` ↔ `என் பெயர் புரட்சி!`
+- Unit 6 `வாக்குச் சீட்டின் வலிமை` ↔ `வாக்குச்சீட்டின் வலிமை`
+- Unit 9 `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`
+- Unit 11 `வெற்றி - தோல்வி!` ↔ `வெற்றி தோல்வி!`
+- Unit 15 `இன்பமும் துன்பமும்` ↔ `இன்பமும் துன்பமும்!`
+- Unit 19 `ஆன்மிக ஆழ்கடல்!` ↔ `ஆன்மிக ஆழ்கடல்`
 
-## Physical-copy condition / provenance marks
+Units 20–25 currently have matching contents/heading wording.
 
-P2 confirms:
+## Physical-copy / printed marginal evidence
 
-- circular library stamps on front matter, including scans 2, 4 and 6;
-- yellow/brown spotting/foxing and handling stains;
-- visible bleed-through on several blank/verso/body pages;
-- no later body-text stamp/handwriting affecting the verified reading through scan 101;
-- scan 98 carries the printed marginal/production witness `7 - சி. செ. பூ. வெ. எண். 750`, recorded separately from article prose;
-- blank/near-blank scans remain physical records rather than being omitted.
+P2/P5 confirms library stamps, spotting/foxing, handling wear and bleed-through at various locations. Printed text and later physical-copy marks remain separate.
 
-Printed publication text and later physical-copy marks remain separate page-record sections.
+The strict completed-subset review also establishes a recurring printed production/form witness:
 
-## P0/P1/P2 gate
+- scan 18: `2 - சி. செ. பூ. வெ. எண். 750`
+- scan 34: `3 - சி. செ. பூ. வெ. எண். 750`
+- scan 50: `4 - சி. செ. பூ. வெ. எண். 750`
+- scan 66: `5 - சி. செ. பூ. வெ. எண். 750`
+- scan 82: `6 - சி. செ. பூ. வெ. எண். 750`
+- scan 98: `7 - சி. செ. பூ. வெ. எண். 750`
 
-- P0 source resolution / split continuity / source identity: **COMPLETE / PASS**
-- P1 publication identity, contents witness and provisional page mapping: **COMPLETE / PASS**
-- physical page records created: **226 / 226**
-- P2 directly verified page records: **101 / 226**
-- verified range: **scans 1–101**
-- verified article boundaries: **Units 1–22**; Unit 23 partial
-- article assemblies: **22 / 50 VERIFIED**
-- Units 11–17 assemblies: **REBUILT / CONSISTENCY GATE PASS**
-- scans 92–101 page gate: **10 / 10 PASS**
-- Units 20–22 assembly scan-block equality: **11 / 11 PASS**
-- unresolved readings within verified scans 1–101: **0**
-- P5 strict visual fidelity: **NOT STARTED**
+These are preserved as printed marginal witnesses, not article prose.
 
-## Integrity repair note
+## Current archival gate
 
-The scans-56–81 commit wrote only 12/26 page records while advancing trackers. The first repair restored the missing 14 canonical page records and removed the invalid derived assemblies. The P3 integrity reconciliation then rechecked the twelve originally-written pages against the scan, corrected source drift in scans 58, 59, 62, 63, 65, 66, 67 and 70, rebuilt Units 11–17 from canonical page text, and passed the 26-page / 7-assembly equality gate.
+- page records created: **226 / 226**
+- P2 directly verified: **111 / 226**
+- contiguous verified range: **1–111**
+- complete verified body units: **25 / 50**
+- P3 assemblies: **25 / 50**
+- scoped P4 completed Units 1–25: **PASS**
+- scoped P5 completed Units 1–25: **94 / 94 body scans; 25 / 25 units PASS / STRICT-REVIEWED**
+- publication-wide P4/P5: **PENDING**
+- unresolved readings in verified scans 1–111: **0**
+- English: **NOT STARTED**
 
-The scans 92–101 iteration independently passed a **10 / 10 canonical-page non-placeholder gate** and an **11 / 11 complete-unit page/assembly equality gate** for Units 20–22. Direct enlarged-pixel review corrected scan 92 to `இந்தக் கற்களும் பயன்பட்டும்` and scan 96 to `அதைக் காவல் தெய்வமாகத்`; the Unit-20 assembly was rebuilt from canonical pages so scan 91's verified `புகட்டிடும்வண்ணம்` remained authoritative.
+## Next
 
-## Exact next activity
-
-**User-directed 10-scan P2 iteration: scans 102–111 only. Finish Unit 23 on 102–103, verify Unit 24 on 104–108, and verify Unit 25 on 109–111. Canonical page records must precede assembly creation. Stop before scan 112.**
+P2 scans **112–121 only**. Do not process scan 122 in that iteration.
