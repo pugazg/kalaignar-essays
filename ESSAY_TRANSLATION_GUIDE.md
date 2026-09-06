@@ -87,6 +87,20 @@ Examples of the rule:
 
 Conventional English forms may be used for well-established epic proper names for readability, but the translator must not use that convention to alter Kalaignar's actual referent or rhetorical contrast.
 
+### `உடன்பிறப்பே` — permanent transliteration rule
+
+When Kalaignar uses `உடன்பிறப்பே`, retain **`Udanpirappē`** in the English translation.
+
+Do **not** flatten it into `brother`, `sister`, `sibling`, or `comrade`.
+
+Literally evoking **“one born alongside me,”** `Udanpirappē` functions as Kalaignar's distinctive address of **shared identity, equality, affection, and solidarity within the movement**. Preserving the transliteration keeps that political, relational and rhetorical identity intact instead of forcing it into a narrower English kinship or organisational category.
+
+Normal English punctuation may surround the transliteration; as a direct salutation use:
+
+`Udanpirappē,`
+
+This is a **user-established permanent translation rule** and supersedes any earlier use of `Dear sibling,` or other English substitutions in this repository. Existing English translations must be corrected when the source address is `உடன்பிறப்பே`, without altering the frozen Tamil source or otherwise reopening a verified article.
+
 ## 6. Culturally loaded and source-specific terms
 
 Do not force a culturally loaded Tamil term into the nearest English social category merely because that category is familiar.
