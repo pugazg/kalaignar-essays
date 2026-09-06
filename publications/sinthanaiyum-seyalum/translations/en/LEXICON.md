@@ -47,8 +47,24 @@ This lexicon is a consistency aid under `ESSAY_TRANSLATION_GUIDE.md`; context st
 | `அரிஸ்டாட்டில்` | `Aristotle` | Conventional English proper-name form. | Article 6 | T4-confirmed |
 | `பிரபுக்கள் சபை` | `council of lords` | Avoid silently identifying it with a specific modern institution. | Article 6 | T4-confirmed |
 | `எள் முனையளவு` | `a sesame-seed’s tip worth` | Preserve source’s deliberately tiny concrete measure in rhetorical question. | Article 6 | T4-confirmed |
+| `சுயமரியாதைத் திருமணம்` | `Self-Respect marriage` | Named reform-marriage form. Capitalise `Self-Respect`; retain legal-validity/legal-recognition distinctions contextually. | Article 7 | T4-confirmed |
+| `தந்தை பெரியார்` | `Thanthai Periyar` | Preserve source epithet; do not mechanically replace with `Ayya Periyar`, which reflects a different Tamil witness. | Article 7 | T4-confirmed |
+| `தினமலர்` | `Dinamalar` | Source periodical name; transliterate rather than translate. | Article 7 | T4-confirmed |
+| `நெஞ்சுக்கு நீதி` | `Nenjukku Neethi` | Source book title; no outside English title imported. | Article 7 | T4-confirmed |
+| `நல்லறிவு` | `sound understanding` | Article 8 contrast with `புல்லறிவு`; later contexts may require `good knowledge` if the syntax demands it. | Article 8 | T4-confirmed |
+| `புல்லறிவு` | `petty understanding` | Preserve the pejorative contrast with `நல்லறிவு`; do not neutralise as mere lack of information. | Article 8 | T4-confirmed |
+| `மாசு` | `stain` | Moral/character image in Article 8; context controls elsewhere. | Article 8 | T4-confirmed |
+| `மனிதாபிமானம்` | `humaneness` | Article 9’s humaneness/civilisation contrast; avoid adding an ideological label not present in source. | Article 9 | T4-confirmed |
+| `திதி` | `tithi` | Source-bearing ritual term in Article 10 quotation; no doctrinal expansion in body text. | Article 10 | T4-confirmed |
+| `திவசம்` | `divasam` | Paired ritual term with `tithi`; retain transliteration. | Article 10 | T4-confirmed |
+| `தட்சணை` | `dakshina` | Source-bearing ritual/payment term in quoted question; retain transliteration. | Article 10 | T4-confirmed |
+| `மானம்` | `honour` | Central Article 11 contrast: honour may outweigh victory or life. | Article 11 | T4-confirmed |
+| `விழுப்புண்` | `honour-wound` | Deliberately concrete heroic wound; do not flatten into generic bravery. | Article 11 | T4-confirmed |
+| `தேறல்` | `theral` | Source liquor/drink term in Article 11; source glossary controls. | Article 11 | T4-confirmed |
+| `புறநானூறு` | `Purananuru` | Source work title; embedded verse translated from frozen Tamil, not from published English. | Article 11 | T4-confirmed |
+| `கனக விசயர்` | `Kanaka Visayar` | Preserve source name/form and source description; no external historical normalization. | Article 11 | T4-confirmed |
 
-## Publication-level principles established through Articles 1–6
+## Publication-level principles established through Articles 1–11
 
 - **`உடன்பிறப்பே` is always retained as `Udanpirappē`.** This permanent user-established rule supersedes the earlier `Dear sibling,` choice and applies to every future occurrence. Do not flatten Kalaignar’s distinctive movement address into `brother`, `sister`, `sibling`, or `comrade`.
 - Translate embedded quotations from the frozen Tamil wording; do not import published English versions unless explicitly authorised.
@@ -58,3 +74,4 @@ This lexicon is a consistency aid under `ESSAY_TRANSLATION_GUIDE.md`; context st
 - Fidelity review must preserve surprising or internally awkward frozen-source wording rather than silently “correcting” it. Article 2 `காண விரும்பாத` is the standing example.
 - Source-specific wordplay and odd labels may remain slightly strange in English when smoothing them would erase Kalaignar’s rhetorical action.
 - Tamil contents-page and article-heading differences remain separate witnesses; English titles follow the frozen article assembly heading unless a later explicit editorial policy says otherwise.
+- Historical, literary and news-report claims are translated from the frozen Tamil source; T4 does not silently fact-check or harmonise them from outside sources.
