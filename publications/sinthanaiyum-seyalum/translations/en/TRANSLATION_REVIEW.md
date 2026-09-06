@@ -348,16 +348,294 @@ All gates passed; status `verified`; blockers **0**; Tamil changes **0**.
 
 ---
 
+## Post-Article-6 permanent salutation correction
+
+The user established a publication-wide and future-project rule for Kalaignar’s distinctive `உடன்பிறப்பே` address:
+
+- retain it as **`Udanpirappē`** in Tamil transliteration;
+- do not flatten it into `brother`, `sister`, `sibling`, or `comrade`;
+- in direct salutation use `Udanpirappē,`;
+- the term literally evokes “one born alongside me” and carries Kalaignar’s movement-specific sense of shared identity, equality, affection and solidarity.
+
+Verified Articles 1 and 2 were corrected from the earlier `Dear sibling,` rendering to `Udanpirappē,`. This explicit user-established terminology correction does not alter the frozen Tamil layer or reopen their other T0–T5 decisions.
+
+---
+
+# Article 7 — `சுயமரியாதைத் திருமணம்`
+
+English title: **Self-Respect Marriage**  
+Tamil authority: `../../articles/07-suyamariyathai-thirumanam.md`  
+Frozen Tamil blob: `5d55659fb745340dbb357aba7e266ecfc8b9b57b`  
+Tamil scans: **42–45**
+
+## T0 / T1
+
+- strict-reviewed frozen Tamil pin: **PASS**;
+- complete question-and-answer translation, including the embedded `Nenjukku Neethi` quotation: **PASS**;
+- ordered source comments: **4 / 4**.
+
+## T2 — bilingual fidelity review
+
+Material corrections/decisions:
+
+1. a generic `legalise Self-Respect marriage` paraphrase was rejected in favour of the source’s repeated **legal validity / legal recognition** language.
+2. all source quantities and dates remain explicit: about **80 years**, **60 years** of public life, **not fewer than 1,000** marriages personally conducted, **1967**, **July 1967**, and the roughly **40-year** Tamil Nadu legal-recognition span.
+3. the source says copies were sent to the Prime Minister and the **Speaker of Parliament**; no outside institutional substitution was inserted.
+4. the legal-recognition passage remains non-compulsory: Self-Respect/reform or priestly method is presented as a matter of choice, exactly as the frozen Tamil states.
+
+Omitted claim **0**; added substantive claim **0**; Tamil changes **0**.
+
+**T2 RESULT: PASS.**
+
+## T3 — voice review
+
+- opening `மிக்க மகிழ்ச்சி!` remains the sharp **Very happy!** response;
+- the praise-through-condemnation irony directed at `Dinamalar` is retained;
+- obstruction as `walls / verbal blows / stone blows` remains concrete;
+- Buddha/blackout comparison and the final swimming-against-the-current image remain intact;
+- closing `Even now, we shall win through it` retains confidence rather than being neutralised.
+
+**T3 RESULT: PASS.**
+
+## T4 — terminology / quotation / citation
+
+- `Self-Respect marriage`, `Thanthai Periyar`, `Anna`, `Dinamalar`, `Nenjukku Neethi`, `DMK`, Law Minister Madhavan: **PASS** as source-bearing forms;
+- `தன்மான இயக்கம்` is rendered contextually as Periyar’s **movement for dignity**, without overwriting named `சுயமரியாதை / Self-Respect` elsewhere;
+- no outside version of the `Nenjukku Neethi` passage was imported;
+- source comments **4 / 4 PASS**;
+- date `13-5-2005` **PASS**.
+
+**T4 RESULT: PASS.**
+
+## T5
+
+T0–T4 passed; metadata `verified`; blockers **0**; Tamil changes **0**.
+
+**T5 RESULT: PASS / ARTICLE VERIFIED.**
+
+---
+
+# Article 8 — `மனிதனின் மறுபக்கம்`
+
+English title: **The Other Side of Man**  
+Tamil authority: `../../articles/08-manithanin-marupakkam.md`  
+Frozen Tamil blob: `0d7992751ad0c55d32cd47e2dff74189ef1a0a8d`  
+Tamil scans: **46–48**
+
+## T0 / T1
+
+- frozen Tamil source pin: **PASS**;
+- complete close translation: **PASS**;
+- ordered source comments: **3 / 3**.
+
+## T2 — bilingual fidelity review
+
+Material corrections/decisions:
+
+1. an untranslated Tamil token in the working English sentence `If நல்லறிவு means full knowledge...` was corrected to **If sound understanding means full knowledge...**.
+2. `நல்லறிவு / புல்லறிவு` remain a deliberate contrast, rendered contextually as **sound understanding / petty understanding**, rather than collapsing both into generic `knowledge`.
+3. the milk-and-poison comparison preserves both directions: poison mixed into milk and milk poured into poison.
+4. no identity or doctrinal explanation was added around Socrates beyond the source’s `Know yourself` mirror image.
+
+Omitted source claim **0**; added substantive claim **0**; Tamil changes **0**.
+
+**T2 RESULT: PASS.**
+
+## T3 — voice review
+
+- the long accumulative catalogue of honorific descriptions remains deliberately breathless;
+- `Buddha incarnate`, `jewel among devotees`, and `flame of rationalism` remain side by side without ideological smoothing;
+- conscience tearing away the screen, milk/poison and mirror images remain concrete;
+- the article’s direct `Let us come straight to the point` turn is retained.
+
+**T3 RESULT: PASS.**
+
+## T4 — terminology / quotation / citation
+
+- `sound understanding`, `petty understanding`, `good/bad character`, `stain`, `weapon of knowledge`, `Socrates`: **PASS**;
+- `weapon of knowledge` follows the established source metaphor contextually;
+- source comments **3 / 3 PASS**;
+- date `15-5-2005` **PASS**.
+
+**T4 RESULT: PASS.**
+
+## T5
+
+T0–T4 passed; status `verified`; blockers **0**; Tamil changes **0**.
+
+**T5 RESULT: PASS / ARTICLE VERIFIED.**
+
+---
+
+# Article 9 — `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`
+
+English title: **Touching the Sky, Buried in the Earth?**  
+Tamil authority: `../../articles/09-vinnai-thottu-mannil-pudhaivatha.md`  
+Frozen Tamil blob: `bc8d633334532801065c59a02d4df340dfcd7d96`  
+Tamil scans: **49–51**
+
+## T0 / T1
+
+- frozen source pin: **PASS**;
+- complete translation including the quoted Punjab report: **PASS**;
+- ordered source comments: **3 / 3**.
+
+## T2 — bilingual fidelity review
+
+Material corrections/decisions:
+
+1. English follows the frozen article heading `...புதைவதா?`; the independent contents witness `...புதைவதோ?` is **not** used to rewrite the Tamil or English article authority.
+2. the source report’s names/place remain **Bhagat Singh, Ferozepur, Bali, Chinna Singh** without external verification or alteration.
+3. the printed production witness on scan 50 (`4 - சி. செ. பூ. வெ. எண். 750`) remains excluded from English article prose.
+4. the brutality in the source report—head shaving, torture, stripping and naked public parade—is translated without omission or euphemistic softening.
+
+Omitted source claim **0**; added substantive claim **0**; Tamil changes **0**.
+
+**T2 RESULT: PASS.**
+
+## T3 — voice review
+
+- high-thought garden versus sewage pits and streams of blood remains the governing contrast;
+- the apparent preface/story mismatch is retained as Kalaignar’s own rhetorical setup;
+- `touch the sky / buried in the earth` contrast remains a question rather than being converted into summary prose;
+- indignation over violence against women is not softened.
+
+**T3 RESULT: PASS.**
+
+## T4 — terminology / quotation / citation
+
+- place/person forms and quoted-news boundaries: **PASS**;
+- `humaneness` carries the source `மனிதாபிமான` idea without importing a new political label;
+- source comments **3 / 3 PASS**;
+- date `16-5-2005` **PASS**;
+- source-witness distinction heading vs contents: **PASS**.
+
+**T4 RESULT: PASS.**
+
+## T5
+
+T0–T4 passed; status `verified`; blockers **0**; Tamil changes **0**.
+
+**T5 RESULT: PASS / ARTICLE VERIFIED.**
+
+---
+
+# Article 10 — `மனிதனும் மறுபிறவியும்`
+
+English title: **Man and Rebirth**  
+Tamil authority: `../../articles/10-manithanum-marupiraviyum.md`  
+Frozen Tamil blob: `47a682dfcc482287ca9a64743947e27e5a808ee1`  
+Tamil scans: **52–55**
+
+## T0 / T1
+
+- frozen Tamil pin: **PASS**;
+- prose, both displayed poetic blocks, puranic examples and Periyar aphorism translated: **PASS**;
+- ordered source comments: **4 / 4**.
+
+## T2 — bilingual fidelity review
+
+Material corrections/decisions:
+
+1. the opening quotation is attributed only as the source does, to beloved younger brother **Veeramani** in that year’s `Murasoli` birthday special; no outside bibliographic expansion was added.
+2. the Valluvar/Anna rebirth image remains explicitly described by Kalaignar as **poetic, ornamental imagination**, not converted into a factual or devotional assertion.
+3. `tithi`, `divasam`, and `dakshina` are retained as source-bearing transliterations in the quoted question rather than replaced by a doctrinal explanation.
+4. all displayed verse lineation and the two-line Periyar aphorism are preserved; no published English verse was imported.
+
+Omitted claim **0**; added substantive claim **0**; Tamil changes **0**.
+
+**T2 RESULT: PASS.**
+
+## T3 — voice review
+
+- `What height—height—towering height` preserves deliberate repetition and exclamation;
+- curse/prophecy/Parvati examples keep their mocking cumulative rhythm;
+- seed/tree, conception and mid-air-avatar images remain concrete;
+- the closing attack on selfishness remains direct rather than academicised.
+
+**T3 RESULT: PASS.**
+
+## T4 — terminology / quotation / citation
+
+- `Thanthai Periyar`, `Veeramani`, `Murasoli`, `Mother Tamil`, `Tirukkural`, `Kanchi`, `Valluvar`, `Anna`, `tithi`, `divasam`, `dakshina`, `Kural`: **PASS**;
+- quotation boundaries and displayed lineation: **PASS**;
+- source comments **4 / 4 PASS**;
+- date `6-6-2005` **PASS**.
+
+**T4 RESULT: PASS.**
+
+## T5
+
+T0–T4 passed; status `verified`; blockers **0**; Tamil changes **0**.
+
+**T5 RESULT: PASS / ARTICLE VERIFIED.**
+
+---
+
+# Article 11 — `வெற்றி தோல்வி!`
+
+English title: **Victory and Defeat!**  
+Tamil authority: `../../articles/11-vetri-tholvi.md`  
+Frozen Tamil blob: `40110b107efeea60e9a149b06f24b3cefd6aba9c`  
+Tamil scans: **56–58**
+
+## T0 / T1
+
+- frozen Tamil pin: **PASS**;
+- complete prose translation, displayed `Purananuru` verse and source glossary: **PASS**;
+- ordered source comments: **3 / 3**.
+
+## T2 — bilingual fidelity review
+
+Material corrections/decisions:
+
+1. English title follows heading `வெற்றி தோல்வி!`; contents witness `வெற்றி - தோல்வி!` remains an independent frozen Tamil witness.
+2. `மானம்` is rendered as **honour** throughout the central contrast; `விழுப்புண்` is kept as the concrete **honour-wound** rather than flattened into generic bravery.
+3. the source glossary controls the verse rendering: `seccai` = ram, `mandai` = the liquor `theral`, `kaal-kazhi kattil` = legless cot/bier.
+4. `கனக விசயர்` remains source-bearing **Kanaka Visayar**, described only as the source’s `Aryan kings`; no external historical normalization is introduced.
+
+Omitted source claim **0**; added substantive claim **0**; Tamil changes **0**.
+
+**T2 RESULT: PASS.**
+
+## T3 — voice review
+
+- victory versus honourable defeat remains the article’s sharp governing reversal;
+- the mother’s lament and Kalaignar’s tears retain emotional force;
+- body/wound/bier imagery is not softened;
+- final political lesson retains the insistence that an honour-preserving defeat belongs on the list of victories and that truth **certainly will** rise.
+
+**T3 RESULT: PASS.**
+
+## T4 — terminology / quotation / citation
+
+- `Sangam`, `Cheraman Kanaikkal Irumporai`, `theral`, `Avvai / Avvaiyar`, `Purananuru`, `Cheran Senguttuvan`, `Kanaka Visayar`, `Kuyilaluvam`, `Kannagi`, `Aryan kings`, `honour-wound`: **PASS**;
+- displayed `Purananuru` verse and source glossary retained without importing a published English translation;
+- source comments **3 / 3 PASS**;
+- date `8 - 6 - 2005` **PASS**;
+- heading/contents witness distinction: **PASS**.
+
+**T4 RESULT: PASS.**
+
+## T5
+
+T0–T4 passed; status `verified`; blockers **0**; Tamil changes **0**.
+
+**T5 RESULT: PASS / ARTICLE VERIFIED.**
+
+---
+
 ## Current publication English checkpoint
 
-- T0: **6 / 50 PASS**
-- T1: **6 / 50 COMPLETE**
-- T2: **6 / 50 PASS**
-- T3: **6 / 50 PASS**
-- T4: **6 / 50 PASS**
-- T5: **6 / 50 PASS**
-- verified English files: **6 / 50**
+- T0: **11 / 50 PASS**
+- T1: **11 / 50 COMPLETE**
+- T2: **11 / 50 PASS**
+- T3: **11 / 50 PASS**
+- T4: **11 / 50 PASS**
+- T5: **11 / 50 PASS**
+- verified English files: **11 / 50**
+- draft English files: **0 / 50**
 - unresolved English blockers: **0**
 - Tamil changes caused by English work: **0**
 
-Next batch: Articles **7–11**, beginning with fresh T0 pins from live `main` and carrying each article through T5 before it is marked verified.
+Next batch: Articles **12–16**, each through T0–T5, applying the permanent `Udanpirappē` rule whenever the frozen Tamil has `உடன்பிறப்பே`.
