@@ -31,10 +31,11 @@ Source PDFs committed: **No**
 - T1 close draft: **1 / 50 COMPLETE**
 - T2 bilingual fidelity review: **1 / 50 PASS**
 - T3 Kalaignar voice review: **1 / 50 PASS**
-- T4–T5: **0 / 50**
+- T4 terminology / quotation / citation audit: **1 / 50 PASS**
+- T5 article verification: **1 / 50 PASS**
 - E6/E7: **NOT STARTED**
-- English files: **1 / 50**, Article 1 status `draft`
-- English verified: **0 / 50**
+- English files: **1 / 50**
+- English verified: **1 / 50**
 - blockers: **0**
 
 Translation records:
@@ -44,20 +45,22 @@ Translation records:
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 
-Article 1 voice baseline:
+Article 1 verified voice baseline:
 
 - Tamil: `பாசியும் - தூசியும்!`
-- working English title: **Moss and Dust!**
+- English: **Moss and Dust!**
 - scans: **18–23**
 - frozen Tamil blob: `79791aad807179e85b4275539fff8283d2ff61b2`
 - English file: [`translations/en/01-paasiyum-thoosiyum.md`](translations/en/01-paasiyum-thoosiyum.md)
 - T2 corrections: **8**
 - T3 corrections: **9**
+- T4 body corrections: **0**
+- T4 terminology / quotation / citation audit: **PASS**
+- T5: **PASS / VERIFIED**
 - ordered source comments: **6 / 6 PASS**
-- unresolved T3 blockers: **0**
-- current gate: **T3 PASS / T4 NEXT**
+- unresolved Article 1 blockers: **0**
 
-T3 restored repeated `இலக்கணம்` as **grammar of renunciation / grammar of politics**, retained direct admonition and polemical bite, strengthened the source `அருவெறுப்பு` / `ஆவேசத் தாண்டவம்` force without outside substitution, and preserved the garment/dirt and pond/moss images.
+T4 confirmed Article 1's contextual treatment of `Resources`, `Ayya Valluvar`, repeated `grammar`, `punugu`, `javvadu`, `frenzied dance`, `Mayandi`, `Mannar`, seven embedded literary quotation passages, numbers `70`/`25`, date `27- 4 - 2005`, and all six source comments. No published English quotation was imported.
 
 ## Final Tamil records
 
@@ -95,6 +98,4 @@ English work follows `ESSAY_TRANSLATION_GUIDE.md`:
 
 ## Exact next activity
 
-**Article 1 `பாசியும் - தூசியும்!` — T4 terminology / quotation / citation audit only.** Audit the T3-corrected English against the frozen Tamil and living lexicon for proper names, source-bearing terms, Porutpaal division labels, quotations, dates/numbers and all **6 / 6** source-page comments. Record every correction or explicit no-change decision, then stop before T5.
-
-Do not begin Article 2 yet; Article 1 remains the publication voice baseline.
+**Article 2 `அதிக உயரம் தாண்டுவதற்கு` — T0 + T1 only.** Fetch live frozen Tamil `articles/02-athiga-uyaram-thaanduvatharku.md`, pin its actual blob SHA and metadata, then create the complete English close draft with ordered source-page comments. Apply Article 1's verified voice baseline contextually. Stop before Article 2 T2.
