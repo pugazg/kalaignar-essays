@@ -60,87 +60,71 @@ Translate only from strict-reviewed Tamil assemblies. Do not use OCR, web text, 
 - T1: **1 / 50 COMPLETE**
 - T2: **1 / 50 PASS**
 - T3: **1 / 50 PASS**
-- T4: **0 / 50**
-- T5: **0 / 50**
+- T4: **1 / 50 PASS**
+- T5: **1 / 50 PASS**
 - E6/E7: **NOT STARTED**
 - English files: **1 / 50**
-- verified English: **0 / 50**
+- verified English: **1 / 50**
 - blockers: **0**
-- latest synchronized English checkpoint: **Article 1 T3 PASS / trackers synchronized**
+- latest synchronized English checkpoint: **Article 1 T0–T5 PASS / VERIFIED**
 
-## Article 1 — voice baseline
+## Article 1 — verified voice baseline
 
 Tamil title: `பாசியும் - தூசியும்!`  
-Working English title: **Moss and Dust!**  
+English title: **Moss and Dust!**  
 Scans: **18–23**  
 Frozen Tamil blob: `79791aad807179e85b4275539fff8283d2ff61b2`  
 English file: `publications/sinthanaiyum-seyalum/translations/en/01-paasiyum-thoosiyum.md`  
-Status: **T0 PASS / T1 COMPLETE / T2 PASS / T3 PASS / `draft`**
+Status: **T0–T5 PASS / `verified`**
 
-### Article 1 T2 result
+### Article 1 review record
 
-Article 1 was re-read Tamil/English sentence-by-sentence and clause-by-clause. T2 made **8 fidelity corrections**, with complete old → corrected provenance in `translations/en/TRANSLATION_REVIEW.md`.
+- T2 made **8 fidelity corrections**; omitted source claims after T2 **0**, added substantive claims **0**.
+- T3 made **9 voice-preservation corrections**, including restoration of repeated `இலக்கணம்` as **grammar of renunciation / grammar of politics**.
+- T4 required **0 body-text corrections** and confirmed terminology / quotation / citation consistency.
+- T5 marked the English file and tracker **verified**.
+- ordered source-page comments: **6 / 6 PASS**.
+- unresolved Article 1 blockers: **0**.
+- Tamil changes during English work: **0**.
 
-Corrections addressed:
+T4-confirmed Article 1 choices include:
 
-1. `பகலெலாம் போதாகி` — `swells` → `matures`;
-2. `வேடிக்கை விளையாட்டு` — restored explicit amusing-game sense;
-3. removed unsupported first-person `betrayed us`;
-4. removed added `day` from the Parliament adjournment sentence;
-5. `மாடி வீடு` / `மந்தகாச வாழ்வினர்` — `storeyed house` / `those who live in comfort`;
-6. removed added `reserved for them` from `உரிமை ஆவணம்`;
-7. clarified `அவற்றை அணிபவர்களைப் பொறுத்துத்தான் நீடிக்கும்` without adding a claim;
-8. `சீர்குலைக்கும்` — `destroying` → `undermine`.
+- `உடன்பிறப்பே` → `Dear sibling,`;
+- `பாசியும் - தூசியும்!` → `Moss and Dust!`;
+- `பொருட்பால்` → `Porutpaal`;
+- `கூழியல்` → `Resources` in this Porutpaal-list context;
+- plain `வள்ளுவர்` → `Valluvar`, source honorific `அய்யன் வள்ளுவர்` → `Ayya Valluvar`;
+- `பாரதி` / `பாரதிதாசன்` → `Bharathi` / `Bharathidasan`;
+- `கருப்பாதை` → `the path to conception` in the quoted line;
+- repeated `இலக்கணம்` → `grammar`;
+- `புனுகு` / `சவ்வாது` → `punugu` / `javvadu`;
+- `ஆவேசத் தாண்டவம்` → `frenzied dance`;
+- `மாயாண்டி` / `மன்னார்` → `Mayandi` / `Mannar`;
+- `அறநெறி தானிய விளைச்சல்` retains the grain/harvest image.
 
-After T2:
-
-- omitted source claims: **0**;
-- added substantive claims: **0**;
-- names/referents: **PASS at T2**;
-- numbers `70`, `25` and date `27- 4 - 2005`: **PASS**;
-- quotation completeness: **PASS**;
-- displayed Tirukkural lineation: **PASS**;
-- ordered source-page comments: **6 / 6 PASS**;
-- unresolved T2 blockers: **0**;
-- Tamil changes: **0**.
-
-### Article 1 T3 result
-
-T3 made **9 voice-preservation corrections**, with complete old → corrected provenance in `translations/en/TRANSLATION_REVIEW.md`.
-
-Important T3 decisions:
-
-1. repeated `இலக்கணம்` is restored as **grammar of renunciation / grammar of politics** rather than split into `defining mark` / `code`;
-2. direct love/politics admonition and exasperated rhetorical questions remain direct;
-3. `அருவெறுப்பு` keeps its `no wonder / revulsion` force;
-4. `ஆவேசத் தாண்டவம்` is provisionally **frenzied dance**, with final terminology treatment reserved for T4;
-5. polemical words such as `scoundrels`, `sewer`, `wickedness`, `anarchy` are not softened;
-6. garment/dirt, field/weeds, water-pot and pond/moss images remain concrete;
-7. ordered source-page comments remain **6 / 6 PASS**;
-8. unresolved T3 blockers: **0**;
-9. Tamil changes during T3: **0**.
-
-Source-bearing choices carried into T4 include `Dear sibling,`, **Moss and Dust!**, `Resources`, `the path to conception`, `Ayya Valluvar`, repeated `grammar`, `punugu`, `javvadu`, provisional `frenzied dance`, `Mayandi`, `Mannar`, and the grain/harvest metaphor.
+These are contextual publication standards, not mechanical overrides for later source contexts.
 
 ## Exact next activity
 
-Perform **Article 1 T4 terminology / quotation / citation audit only**:
+Proceed to **Article 2 `அதிக உயரம் தாண்டுவதற்கு` — T0 + T1 only**:
 
-1. re-fetch live `main`, the frozen Tamil blob `79791aad807179e85b4275539fff8283d2ff61b2`, the T3-corrected English file, `LEXICON.md` and `TRANSLATION_REVIEW.md`;
-2. audit Porutpaal division labels, especially `கூழியல்` → `Resources`;
-3. audit `Ayya Valluvar`, repeated `இலக்கணம்`, `punugu`, `javvadu`, `Mayandi`, `Mannar`, `ஆவேசத் தாண்டவம்` and other source-bearing terms;
-4. audit every Tirukkural/Bharathi/Bharathidasan quotation for attribution, quotation boundaries and lineation without importing published English versions;
-5. audit numbers `70`, `25`, date `27- 4 - 2005`, and all **6 / 6** ordered source-page comments;
-6. record every T4 correction or explicit no-change decision in `TRANSLATION_REVIEW.md` and update `LEXICON.md` where terminology is established;
-7. keep `translation_status: draft`;
-8. **stop before T5 and do not begin Article 2**.
+1. re-fetch live `main`;
+2. fetch frozen Tamil `publications/sinthanaiyum-seyalum/articles/02-athiga-uyaram-thaanduvatharku.md`;
+3. confirm it remains strict-reviewed and record its actual live blob SHA, scans and printed-page witness in the review ledger/translation file;
+4. create the complete English close draft paragraph by paragraph from that frozen assembly only;
+5. preserve ordered source-page comments, quotations, numbers, questions, exclamations, repetition and directness;
+6. apply Article 1's verified voice baseline contextually, not mechanically;
+7. update `LEXICON.md`, tracker, plan and this handover with T0/T1 progress;
+8. keep Article 2 `translation_status: draft`;
+9. **stop before Article 2 T2**.
 
 ## Non-regression
 
 1. Preserve Publications 1–7 released/frozen.
 2. Preserve Publication 8 Tamil frozen; English convenience is not a reason to alter source text.
-3. Preserve independent Tamil contents/heading/back-cover witnesses.
-4. Preserve page-boundary comments in English for bilingual traceability.
-5. Do not silently soften insults, accusations, irony, repetition, commands or rhetorical questions.
-6. Do not import published English quotations unless explicitly authorised.
-7. Article 1 remains the publication voice baseline until T5 completes.
+3. Preserve Article 1 as the verified English voice baseline unless a genuine source-supported defect is demonstrated.
+4. Preserve independent Tamil contents/heading/back-cover witnesses.
+5. Preserve page-boundary comments in English for bilingual traceability.
+6. Do not silently soften insults, accusations, irony, repetition, commands or rhetorical questions.
+7. Do not import published English quotations unless explicitly authorised.
+8. After all 50 articles reach T5, run E6 publication-wide consistency and E7 release closeout before declaring English complete.
