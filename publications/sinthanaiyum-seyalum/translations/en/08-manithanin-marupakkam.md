@@ -46,7 +46,7 @@ Thus the “other side” of man is shaped by the combinations of sound understa
 
 I know my own faults and weaknesses. Others may infer some of them from my actions. Yet there may also be things that remain hidden, deceiving those around me.
 
-If `நல்லறிவு` means full knowledge, and ability joins hands with bad character, the harm it can cause will be enormous.
+If sound understanding means full knowledge, and ability joins hands with bad character, the harm it can cause will be enormous.
 
 Whether poison is mixed into milk or milk is poured into poison, the milk is spoiled. In the same way, when sound understanding is mixed with bad character—or bad character with sound understanding—the understanding itself is corrupted.
 
