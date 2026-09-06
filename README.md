@@ -98,18 +98,23 @@ Controlling source identifier: `TVA_BOK_0065568` — **226 physical scans** supp
 - publication-wide P5: **226 / 226 PASS**
 - unresolved Tamil/source discrepancies: **0**
 - English E0: **COMPLETE / PASS**
-- T0: **6 / 50 PASS**
-- T1: **6 / 50 COMPLETE**
-- T2: **6 / 50 PASS**
-- T3: **6 / 50 PASS**
-- T4: **6 / 50 PASS**
-- T5: **6 / 50 PASS**
-- English files: **6 / 50**
-- English verified: **6 / 50**
+- T0: **11 / 50 PASS**
+- T1: **11 / 50 COMPLETE**
+- T2: **11 / 50 PASS**
+- T3: **11 / 50 PASS**
+- T4: **11 / 50 PASS**
+- T5: **11 / 50 PASS**
+- English files: **11 / 50**
+- English verified: **11 / 50**
+- English drafts: **0 / 50**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
-Verified English currently covers Articles **1–6**, from **Moss and Dust!** through **The Power of the Ballot**. Articles 2–6 were processed as a five-article T0–T5 batch with full correction provenance and 0 Tamil changes.
+Verified English currently covers Articles **1–11**, from **Moss and Dust!** through **Victory and Defeat!**. Articles 7–11 were completed as the latest five-article T0–T5 batch with full correction provenance and **0 Tamil changes**.
+
+### Permanent `உடன்பிறப்பே` translation rule
+
+Whenever Kalaignar uses `உடன்பிறப்பே`, retain **`Udanpirappē`**. Do not flatten it into `brother`, `sister`, `sibling`, `Dear sibling`, or `comrade`. Literally evoking “one born alongside me,” it carries Kalaignar’s distinctive movement address of shared identity, equality, affection and solidarity. Articles 1 and 2 have already been corrected to `Udanpirappē,`.
 
 English records:
 
@@ -122,6 +127,14 @@ Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seya
 
 ## Current repository-level next activity
 
-`சிந்தனையும் செயலும்` English — process **Articles 7–11 through T5 each**, beginning with live T0 source pins and stopping after Article 11 until all trackers/handover are synchronized.
+`சிந்தனையும் செயலும்` English — process **Articles 12–16 through T5 each**:
+
+- `அழுக்காறு` — scans 59–61;
+- `மிகுதிக்கண்...` — scans 62–65;
+- `வலிவும், பொலிவும்!` — scans 66–68;
+- `இன்பமும் துன்பமும்!` — scans 69–74;
+- `ஒழுக்கம்` — scans 75–77.
+
+Apply `Udanpirappē` to every source occurrence of `உடன்பிறப்பே`. Stop after Article 16 and synchronize before Article 17.
 
 Preserve Publications 1–7 as released/frozen and Publication 8’s Tamil layer as frozen. `HANDOVER.md` and live `main` remain authoritative over copied prompts or older checkpoints.
