@@ -27,15 +27,15 @@ Source PDFs committed: **No**
 ### English translation — ACTIVE
 
 - E0 translation planning/setup: **COMPLETE / PASS**
-- T0 source prerequisite: **1 / 50 PASS**
-- T1 close draft: **1 / 50 COMPLETE**
-- T2 bilingual fidelity review: **1 / 50 PASS**
-- T3 Kalaignar voice review: **1 / 50 PASS**
-- T4 terminology / quotation / citation audit: **1 / 50 PASS**
-- T5 article verification: **1 / 50 PASS**
+- T0 source prerequisite: **6 / 50 PASS**
+- T1 close draft: **6 / 50 COMPLETE**
+- T2 bilingual fidelity review: **6 / 50 PASS**
+- T3 Kalaignar voice review: **6 / 50 PASS**
+- T4 terminology / quotation / citation audit: **6 / 50 PASS**
+- T5 article verification: **6 / 50 PASS**
 - E6/E7: **NOT STARTED**
-- English files: **1 / 50**
-- English verified: **1 / 50**
+- English files: **6 / 50**
+- English verified: **6 / 50**
 - blockers: **0**
 
 Translation records:
@@ -45,22 +45,28 @@ Translation records:
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 
-Article 1 verified voice baseline:
+## Verified English articles
 
-- Tamil: `பாசியும் - தூசியும்!`
-- English: **Moss and Dust!**
-- scans: **18–23**
-- frozen Tamil blob: `79791aad807179e85b4275539fff8283d2ff61b2`
-- English file: [`translations/en/01-paasiyum-thoosiyum.md`](translations/en/01-paasiyum-thoosiyum.md)
-- T2 corrections: **8**
-- T3 corrections: **9**
-- T4 body corrections: **0**
-- T4 terminology / quotation / citation audit: **PASS**
-- T5: **PASS / VERIFIED**
-- ordered source comments: **6 / 6 PASS**
-- unresolved Article 1 blockers: **0**
+1. `பாசியும் - தூசியும்!` → **Moss and Dust!** — scans 18–23 — T0–T5 PASS;
+2. `அதிக உயரம் தாண்டுவதற்கு` → **To Clear a Greater Height** — scans 24–27 — T0–T5 PASS;
+3. `என் பெயர் புரட்சி!` → **My Name Is Revolution!** — scans 28–32 — T0–T5 PASS;
+4. `குருகுலம்!` → **Gurukulam!** — scans 33–35 — T0–T5 PASS;
+5. `ஜனநாயக நெறி` → **The Way of Democracy** — scans 36–38 — T0–T5 PASS;
+6. `வாக்குச்சீட்டின் வலிமை` → **The Power of the Ballot** — scans 39–41 — T0–T5 PASS.
 
-T4 confirmed Article 1's contextual treatment of `Resources`, `Ayya Valluvar`, repeated `grammar`, `punugu`, `javvadu`, `frenzied dance`, `Mayandi`, `Mannar`, seven embedded literary quotation passages, numbers `70`/`25`, date `27- 4 - 2005`, and all six source comments. No published English quotation was imported.
+Frozen Tamil blob pins for these six articles are recorded in `TRANSLATION_PLAN.md` and `TRANSLATION_REVIEW.md`.
+
+## Batch 2–6 review result
+
+The user authorised Articles 2–6 to be processed through T5 in one batch. All five passed T0–T5 with **0 unresolved blockers** and **0 Tamil changes**.
+
+Important source-fidelity decisions include:
+
+- Article 2 preserves source-visible `காண விரும்பாத` rather than silently repairing its apparently surprising meaning;
+- Article 3 preserves personified Revolution’s violent/satirical voice, source epithet `பாவேந்தர்` as **Paavendhar**, and the source-specific `vegetarian eater / meat-eater` joke;
+- Article 4 retains **gurukulam**, **akara practice**, and the honey-versus-powder teaching metaphor;
+- Article 5 does not externally reconcile the frozen source’s historical/electoral claims and preserves `kudavolai`, `Annal Ambedkar`, and `separate-constituency mode of election`;
+- Article 6 preserves the pillar, ballot, one-day-wage, sesame-tip and dusty-field metaphors.
 
 ## Final Tamil records
 
@@ -84,9 +90,14 @@ T4 confirmed Article 1's contextual treatment of `Resources`, `Ayya Valluvar`, r
 
 ## Independent contents / heading witnesses
 
-Never harmonise independent source witnesses. Frozen Tamil distinctions include Units **3, 6, 9, 11, 15, 19, 41 and 48**. Unit 29's source-visible Kural reading `காப்புவென் செய்யும் ?` remains frozen and must not be conventionally normalized.
+Never harmonise independent source witnesses. Frozen Tamil distinctions include Units **3, 6, 9, 11, 15, 19, 41 and 48**. Unit 29’s source-visible Kural reading `காப்புவென் செய்யும் ?` remains frozen and must not be conventionally normalized.
 
-These distinctions remain relevant during English review; the translation layer must not silently choose a conventional source reading in place of the frozen assembly.
+For the verified English batch specifically:
+
+- Article 3 contents witness `என் பெயர் புரட்சி` differs from heading `என் பெயர் புரட்சி!`;
+- Article 6 contents witness `வாக்குச் சீட்டின் வலிமை` differs in spacing from heading `வாக்குச்சீட்டின் வலிமை`.
+
+The English layer follows the frozen article assembly heading and never overwrites those independent Tamil witnesses.
 
 ## Tamil freeze / English authority
 
@@ -98,4 +109,12 @@ English work follows `ESSAY_TRANSLATION_GUIDE.md`:
 
 ## Exact next activity
 
-**Article 2 `அதிக உயரம் தாண்டுவதற்கு` — T0 + T1 only.** Fetch live frozen Tamil `articles/02-athiga-uyaram-thaanduvatharku.md`, pin its actual blob SHA and metadata, then create the complete English close draft with ordered source-page comments. Apply Article 1's verified voice baseline contextually. Stop before Article 2 T2.
+Process the next five frozen articles, **Articles 7–11**, through T5 each:
+
+- 7 `சுயமரியாதைத் திருமணம்` — scans 42–45;
+- 8 `மனிதனின் மறுபக்கம்` — scans 46–48;
+- 9 `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` — scans 49–51;
+- 10 `மனிதனும் மறுபிறவியும்` — scans 52–55;
+- 11 `வெற்றி தோல்வி!` — scans 56–58.
+
+Fetch and pin each **live** Tamil blob at T0, then complete T1→T5 in order. Stop after Article 11 and synchronize trackers before beginning Article 12.

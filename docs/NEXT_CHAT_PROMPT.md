@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — `சிந்தனையும் செயலும்` English / Article 2 T0–T1
+# NEXT CHAT PROMPT — `சிந்தனையும் செயலும்` English / Articles 7–11 T0–T5
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/sinthanaiyum-seyalum/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Do not reopen Publications 1–7, Publication 8's frozen Tamil layer, or verified Article 1 merely because a copied prompt is older.
+Fetch live `main` first and preserve newer durable work. Do not reopen Publications 1–7, Publication 8’s frozen Tamil layer, or verified English Articles 1–6 merely because this copied prompt is older.
 
 ## Mandatory startup
 
@@ -18,7 +18,7 @@ Read completely before English work:
 6. `publications/sinthanaiyum-seyalum/translations/en/README.md`;
 7. `publications/sinthanaiyum-seyalum/translations/en/LEXICON.md`;
 8. `publications/sinthanaiyum-seyalum/translations/en/TRANSLATION_REVIEW.md`;
-9. frozen Tamil `publications/sinthanaiyum-seyalum/articles/02-athiga-uyaram-thaanduvatharku.md`.
+9. the frozen Tamil assemblies for Articles 7–11 as each article is begun.
 
 Tamil source authority is frozen; do not reopen it for translation convenience.
 
@@ -27,43 +27,56 @@ Tamil source authority is frozen; do not reopen it for translation convenience.
 - Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - Tamil assemblies: **50 / 50**
 - English E0: **PASS / COMPLETE**
-- T0: **1 / 50 PASS**
-- T1: **1 / 50 COMPLETE**
-- T2: **1 / 50 PASS**
-- T3: **1 / 50 PASS**
-- T4: **1 / 50 PASS**
-- T5: **1 / 50 PASS**
-- English files: **1 / 50**
-- verified English: **1 / 50**
+- T0: **6 / 50 PASS**
+- T1: **6 / 50 COMPLETE**
+- T2: **6 / 50 PASS**
+- T3: **6 / 50 PASS**
+- T4: **6 / 50 PASS**
+- T5: **6 / 50 PASS**
+- verified English: **6 / 50**
 - blockers: **0**
 
-## Verified Article 1 baseline
+Verified English Articles 1–6 are the durable baseline. Article 1 is the original voice baseline; Articles 2–6 demonstrate contextual lexicon use and source-witness restraint.
 
-Article 1 `பாசியும் - தூசியும்!` / **Moss and Dust!** is **T0–T5 PASS / VERIFIED**.
+## Exact next activity — process five articles through T5 each
 
-- frozen Tamil blob: `79791aad807179e85b4275539fff8283d2ff61b2`;
-- scans: **18–23**;
-- T2 corrections: **8**;
-- T3 corrections: **9**;
-- T4 body corrections: **0**;
-- source comments: **6 / 6 PASS**;
-- unresolved blockers: **0**.
+### Article 7
 
-Article 1 establishes contextual voice/lexicon precedent including `Dear sibling,`, `Porutpaal`, Article-1 `Resources`, `Ayya Valluvar`, repeated `grammar`, `punugu`, `javvadu`, `frenzied dance`, `Mayandi`, `Mannar` and the grain/harvest image. Do not apply these mechanically when Article 2's Tamil context differs.
+`சுயமரியாதைத் திருமணம்` — scans **42–45**
 
-## Exact next activity — Article 2 T0 + T1 only
+### Article 8
 
-Article 2 Tamil title: `அதிக உயரம் தாண்டுவதற்கு`  
-Recorded scan span from the frozen Tamil tracker: **24–27**. Reconfirm live metadata from the Article 2 assembly before drafting.
+`மனிதனின் மறுபக்கம்` — scans **46–48**
 
-1. Fetch `publications/sinthanaiyum-seyalum/articles/02-athiga-uyaram-thaanduvatharku.md` from live `main`.
-2. Confirm the Tamil assembly is still `verified` / strict-reviewed and record its **actual live blob SHA**.
-3. Record source scans and printed-page witness exactly from the assembly.
-4. Create `publications/sinthanaiyum-seyalum/translations/en/02-athiga-uyaram-thaanduvatharku.md` with `translation_status: draft`.
-5. Translate the complete article paragraph by paragraph from the frozen Tamil assembly only.
-6. Preserve ordered `<!-- Tamil source: scan ... -->` comments, quotations, citations, names, dates/numbers, questions, exclamations, repetition, commands and abrupt contrasts.
-7. Update the living lexicon only for genuine recurring/source-bearing decisions.
-8. Add Article 2 T0/T1 provenance to `TRANSLATION_REVIEW.md` and synchronize tracker/plan/handover.
-9. **Stop before Article 2 T2.**
+### Article 9
 
-Do not use OCR, web text, alternate editions, memory or published English quotations as replacement authority.
+`விண்ணைத் தொட்டு மண்ணில் புதைவதா?` — scans **49–51**
+
+### Article 10
+
+`மனிதனும் மறுபிறவியும்` — scans **52–55**
+
+### Article 11
+
+`வெற்றி தோல்வி!` — scans **56–58**
+
+For **each** article, in order:
+
+1. **T0** — fetch its live frozen Tamil assembly, confirm `status: verified`, record the actual live blob SHA, scans and printed-page witness;
+2. **T1** — translate the entire frozen article paragraph by paragraph; preserve all ordered `<!-- Tamil source: scan ... -->` comments, quotations, lineation, dates, numbers, questions, repetition and directness;
+3. **T2** — compare Tamil/English sentence by sentence and clause by clause; record every omission/addition/referent/logic correction as old English → corrected English;
+4. **T3** — review Kalaignar’s voice: directness, satire, insults, commands, questions, repetitions, abrupt contrasts and vivid metaphors must not be softened;
+5. **T4** — audit living lexicon, names/epithets, source-specific transliterations, quotations/citations, dates/numbers, source comments and independent contents/heading witnesses; do not import published English quotation wording;
+6. **T5** — only after T0–T4 PASS, set `translation_status: verified` and mark the tracker/ledger verified;
+7. update `LEXICON.md` and `TRANSLATION_REVIEW.md` while working, not retrospectively;
+8. preserve all Tamil files unchanged unless a genuine source defect is separately demonstrated.
+
+## Standing precedents from verified Articles 1–6
+
+- surprising frozen-source wording must be translated as written rather than silently repaired (`காண விரும்பாத` in Article 2);
+- source epithets remain source epithets (`பாவேந்தர்` → `Paavendhar` in Article 3);
+- culturally/source-specific terms may be retained (`gurukulam`, `akara practice`, `kudavolai`) when explanation is already supplied by context;
+- do not add external historical reconciliation to Kalaignar’s body text;
+- independent Tamil contents/heading differences remain frozen witnesses, not translation problems.
+
+**Stop after Article 11 T5. Do not begin Article 12 until the five-article batch and all trackers/handover are synchronized.**

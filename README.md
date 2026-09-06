@@ -98,15 +98,18 @@ Controlling source identifier: `TVA_BOK_0065568` — **226 physical scans** supp
 - publication-wide P5: **226 / 226 PASS**
 - unresolved Tamil/source discrepancies: **0**
 - English E0: **COMPLETE / PASS**
-- T0: **1 / 50 PASS**
-- T1: **1 / 50 COMPLETE**
-- T2: **1 / 50 PASS**
-- T3: **1 / 50 PASS**
-- T4: **1 / 50 PASS**
-- T5: **1 / 50 PASS**
-- English files: **1 / 50**
-- English verified: **1 / 50**
+- T0: **6 / 50 PASS**
+- T1: **6 / 50 COMPLETE**
+- T2: **6 / 50 PASS**
+- T3: **6 / 50 PASS**
+- T4: **6 / 50 PASS**
+- T5: **6 / 50 PASS**
+- English files: **6 / 50**
+- English verified: **6 / 50**
+- E6/E7: **NOT STARTED**
 - blockers: **0**
+
+Verified English currently covers Articles **1–6**, from **Moss and Dust!** through **The Power of the Ballot**. Articles 2–6 were processed as a five-article T0–T5 batch with full correction provenance and 0 Tamil changes.
 
 English records:
 
@@ -115,12 +118,10 @@ English records:
 - [`translations/en/LEXICON.md`](publications/sinthanaiyum-seyalum/translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/sinthanaiyum-seyalum/translations/en/TRANSLATION_REVIEW.md)
 
-Article 1 `பாசியும் - தூசியும்!` / **Moss and Dust!** is now **T0–T5 PASS / VERIFIED**. T2 made **8 fidelity corrections**, T3 made **9 voice-preservation corrections**, T4 required **0 body corrections**, and all **6 / 6** source-page comments remain preserved with **0 unresolved blockers**.
-
 Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seyalum/)
 
 ## Current repository-level next activity
 
-`சிந்தனையும் செயலும்` Article 2 `அதிக உயரம் தாண்டுவதற்கு` — perform **T0 source prerequisite + T1 close draft only** from the live frozen Tamil assembly, then stop before Article 2 T2.
+`சிந்தனையும் செயலும்` English — process **Articles 7–11 through T5 each**, beginning with live T0 source pins and stopping after Article 11 until all trackers/handover are synchronized.
 
-Preserve Publications 1–7 as released/frozen, Publication 8's Tamil layer as frozen, and Article 1 as the verified English voice baseline. `HANDOVER.md` and live `main` remain authoritative over copied prompts or older checkpoints.
+Preserve Publications 1–7 as released/frozen and Publication 8’s Tamil layer as frozen. `HANDOVER.md` and live `main` remain authoritative over copied prompts or older checkpoints.
