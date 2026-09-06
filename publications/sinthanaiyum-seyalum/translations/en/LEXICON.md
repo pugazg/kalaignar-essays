@@ -1,6 +1,6 @@
 # Living English Lexicon — சிந்தனையும் செயலும்
 
-This lexicon is a consistency aid under `ESSAY_TRANSLATION_GUIDE.md`; context still controls. Entries marked **T2-confirmed** have passed Article 1 bilingual fidelity review but remain subject to later T3/T4 voice/terminology review. Do not use the lexicon to overwrite source-specific distinctions.
+This lexicon is a consistency aid under `ESSAY_TRANSLATION_GUIDE.md`; context still controls. Entries marked **T2-confirmed** have passed Article 1 bilingual fidelity review; T3-established entries have additionally been tested for voice but remain subject to T4 terminology review. Do not use the lexicon to overwrite source-specific distinctions.
 
 | Tamil | Preferred English | Context / exception | First established in | Status |
 |---|---|---|---|---|
@@ -15,17 +15,20 @@ This lexicon is a consistency aid under `ESSAY_TRANSLATION_GUIDE.md`; context st
 | `கருப்பாதை` | `the path to conception` | Bharathidasan quotation; retain close source meaning without importing an outside published translation. | Article 1 T1 | T2-retained |
 | `புறந்தூய்மை` | `outward purity` | Paired with `அகந்தூய்மை`. | Article 1 T1 | T2-confirmed |
 | `அகந்தூய்மை` | `inner purity` | Paired with `புறந்தூய்மை`. | Article 1 T1 | T2-confirmed |
+| `இலக்கணம்` | `grammar` | Article 1 deliberately repeats `துறவுக்கு இலக்கணம்` / `அரசியலுக்கு இலக்கணம்`; preserve the repeated metaphor as `grammar of renunciation` / `grammar of politics` rather than splitting it into `defining mark` / `code`. | Article 1 T3 | T3-established / T4 pending |
 | `புனுகு` | `punugu` | Source-bearing aromatic term retained without outside expansion. | Article 1 T1 | T2-retained |
 | `சவ்வாது` | `javvadu` | Source-bearing aromatic term retained without outside expansion. | Article 1 T1 | T2-retained |
 | `மந்தகாச வாழ்வினர்` | `those who live in comfort` | T2 replaces the more interpretive T1 wording “those who live in easy splendour.” | Article 1 T2 | T2-confirmed |
+| `ஆவேசத் தாண்டவம்` | `frenzied dance` | Preserve the vivid dance image and emotional intensity; T4 must still decide whether a source-bearing `tandava` transliteration is warranted. | Article 1 T3 | T3-established / T4 pending |
 | `மாயாண்டி` | `Mayandi` | Source example/name; do not invent identity or social biography. | Article 1 T1 | T2-confirmed |
 | `மன்னார்` | `Mannar` | Source example/name; preserve alongside Mayandi without outside identification. | Article 1 T1 | T2-confirmed |
 | `அறநெறி தானிய விளைச்சல்` | `the harvest of the grain of righteous conduct` | Preserve the agricultural metaphor rather than abstracting it into “morality.” | Article 1 T1 | T2-confirmed |
 
-## Publication-level principles established at E0/T2
+## Publication-level principles established at E0/T3
 
 - Translate embedded quotations from the frozen Tamil wording; do not import published English versions unless explicitly authorised.
 - Preserve commands, rhetorical questions, repeated punctuation, repetition, accusation, irony and abrupt contrast.
 - Keep ordered Tamil source-page comments in every English article.
 - Names/epithets follow the referential form chosen in the Tamil sentence; do not silently modernise or expand them from outside knowledge.
 - T2 removes unsupported added specificity even when the English reads smoothly; fidelity takes priority over explanatory convenience.
+- T3 preserves repeated metaphors and deliberately forceful imagery even when a smoother English paraphrase would sound more conventional.

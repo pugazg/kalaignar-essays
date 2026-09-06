@@ -46,7 +46,7 @@ Article 1 is the publication's voice baseline. Complete its T1–T5 sequence bef
 - T0 source prerequisite: **1 / 50 PASS**
 - T1 close draft: **1 / 50 COMPLETE**
 - T2 bilingual fidelity review: **1 / 50 PASS**
-- T3 Kalaignar voice review: **0 / 50**
+- T3 Kalaignar voice review: **1 / 50 PASS**
 - T4 terminology / quotation / citation audit: **0 / 50**
 - T5 article verification: **0 / 50**
 - E6 publication-wide consistency review: **NOT STARTED**
@@ -54,33 +54,35 @@ Article 1 is the publication's voice baseline. Complete its T1–T5 sequence bef
 - English files: **1 / 50**, Article 1 status `draft`
 - translation blockers: **0**
 
-## Article 1 T2 result
+## Article 1 completed reviews
 
-Article 1 was compared sentence-by-sentence and clause-by-clause against frozen Tamil blob `79791aad807179e85b4275539fff8283d2ff61b2`.
+### T2 fidelity
 
-T2 made **8 fidelity corrections**, all recorded with old → corrected wording in `translations/en/TRANSLATION_REVIEW.md`. They remove or narrow T1 over-interpretation/addition while preserving the source's rhetorical structure. Key corrections include:
+T2 made **8** source-fidelity corrections. After correction: omitted source claims **0**, added substantive claims **0**, numbers/dates/quotations **PASS**, ordered source comments **6/6 PASS**, unresolved T2 blockers **0**.
 
-- `swells through the whole day` → `matures through the whole day`;
-- `spectacle of jumping from branch to branch` → `an amusing game of jumping from branch to branch`;
-- removal of unsupported first-person `betrayed us`;
-- removal of added `day` in the Parliament/adjournment sentence;
-- `upstairs house` / `easy splendour` → `storeyed house` / `live in comfort`;
-- removal of added `reserved for them` from `உரிமை ஆவணம்`;
-- clarification of the purity/wearer dependency;
-- `destroying democracy` → `undermine democracy` for source `சீர்குலைக்கும்`.
+### T3 voice
 
-After correction: omitted source claims **0**, added substantive claims **0**, numbers/dates/quotations **PASS**, ordered source comments **6/6 PASS**, unresolved T2 fidelity blockers **0**. Tamil changed **0**.
+T3 made **9** voice-preservation corrections. The most important established decisions are:
 
-Article 1 remains `translation_status: draft`; T3–T5 are still pending.
+- restore repeated `இலக்கணம்` as **grammar of renunciation / grammar of politics** rather than splitting the metaphor into `defining mark` and `code`;
+- sharpen `ஆவேசத் தாண்டவம்` provisionally to **frenzied dance**, with terminology form still reserved for T4;
+- retain direct admonition and rhetorical questions rather than smoothing them into detached prose;
+- preserve the force of `அருவெறுப்பு`, the garment/dirt dominance image, and the closing pond/moss challenge.
 
-## Article 1 source-bearing choices retained through T2
+After T3: directness **PASS**, polemical bite **PASS**, rhetorical questions **PASS**, deliberate repetition/exclamations **PASS**, vivid metaphors **PASS**, source-page comments **6/6 PASS**, Tamil changes **0**, unresolved T3 blockers **0**.
+
+Article 1 remains `translation_status: draft`; T4/T5 are pending.
+
+## Source-bearing choices carried into T4
 
 - `உடன்பிறப்பே` → **Dear sibling,**;
 - title `பாசியும் - தூசியும்!` → **Moss and Dust!**;
-- `கூழியல்` → **Resources** pending T4 terminology audit;
+- `கூழியல்` → **Resources**;
 - Bharathidasan `கருப்பாதை` → **the path to conception**;
+- `அய்யன் வள்ளுவர்` → **Ayya Valluvar**;
+- `இலக்கணம்` → **grammar** in the repeated Article 1 metaphor;
 - `புனுகு`, `சவ்வாது` → **punugu**, **javvadu**;
-- `மந்தகாச வாழ்வினர்` → **those who live in comfort**;
+- `ஆவேசத் தாண்டவம்` → provisional **frenzied dance**;
 - `மாயாண்டி`, `மன்னார்` → **Mayandi**, **Mannar**;
 - `அறநெறி தானிய விளைச்சல்` retains its grain/harvest image.
 
@@ -100,6 +102,6 @@ The living lexicon and review ledger must be updated during the work, not recons
 
 ## Exact next activity
 
-**Article 1 `பாசியும் - தூசியும்!` — T3 Kalaignar voice review only.** Read the corrected English as English while comparing with the frozen Tamil. Check directness, sarcasm/polemical bite, rhetorical questions, commands, repetition, abrupt contrasts and vivid images; record every T3 correction in `TRANSLATION_REVIEW.md`, then stop before T4.
+**Article 1 `பாசியும் - தூசியும்!` — T4 terminology / quotation / citation audit only.** Audit the T3-corrected English against the living lexicon and frozen Tamil for proper names, epithets, Porutpaal division labels, source-bearing transliterations, all quoted material, dates/numbers and all six ordered source-page comments. Record every T4 correction or explicit no-change decision, then stop before T5.
 
 Do not begin Article 2 yet.

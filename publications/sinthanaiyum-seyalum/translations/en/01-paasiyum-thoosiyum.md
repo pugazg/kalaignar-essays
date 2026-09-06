@@ -30,7 +30,7 @@ Because “love” fails to come to fruition—or because love brings disappoint
 
 Instead, fondly chiding it as “a disease that buds in the morning, matures through the whole day and blooms in the evening,”
 
-he gives love its very recognition: “When eye meets eye in answering gaze, what use are words spoken by the mouth?”
+he grants love full recognition: “When eye meets eye in answering gaze, what use are words spoken by the mouth?”
 
 “Love! Love! Love! If love is gone—death! death!” thunders Bharathi.
 
@@ -38,7 +38,7 @@ he gives love its very recognition: “When eye meets eye in answering gaze, wha
 
 Those who enter into love may be irresolute, may possess wavering minds, or may treat it as an amusing game of jumping from branch to branch. Seeing such people, surely we should not conclude that love itself deserves hatred?
 
-So too, just as with love, we should not belittle and hate politics by judging it only from the conduct of those who handle it.
+So it is with politics, just as with love: we must not belittle and hate politics because of the conduct of those who handle it.
 
 Just as there are people who love and deceive, there may be a few—or even many—such people among politicians. Those who love and deceive—those who love for the very purpose of deceiving: is all this the fault of love? We may hate the lover, man or woman, who loved someone, then abandoned and betrayed that person; but can we therefore treat “love” itself as worthy of hatred? It is the same with politics. Because it becomes a refuge
 
@@ -46,7 +46,7 @@ Just as there are people who love and deceive, there may be a few—or even many
 
 for some scoundrels, what is needed is to drive those people out; what use can there be in hating politics itself?
 
-“Renunciation,” the opposite of love, is the same—renunciation is pure! I am not speaking of outward purity! That too can be used as a disguise! Inner purity is the defining mark of renunciation—and this too is said by Ayya Valluvar, the very one who laid down the code for politics.
+“Renunciation,” the opposite of love, is the same—renunciation is pure! I am not speaking of outward purity! That too can be used as a disguise! Inner purity is the grammar of renunciation—and this too is said by Ayya Valluvar, the very one who wrote the grammar of politics.
 
 * “Outward purity comes through water; inner purity
   is seen through truthfulness.”
@@ -59,17 +59,17 @@ for some scoundrels, what is needed is to drive those people out; what use can t
 
 He says there is no one more merciless than those who put on the guise of an ascetic and practise deceit!
 
-Just as people speak of renunciation while engaging in wickedness, there have been—there are—and there may be in the future—those who turn the political arena into an uncivilized hall, into a field of anarchy.
+Just as people speak of renunciation while engaging in wickedness, there have been—there are—and there may be in the future—those who turn the political arena into a hall of incivility, into a field of anarchy.
 
 For that reason, one cannot say in general that “politics” is a sewer—or a business! One must not say it!
 
 Whether it is sandal paste, punugu or javvadu—it surely depends on how much is applied and on the person who applies it!
 
-What can be said of those who, without thinking in this way, arrive at the conclusion that politics by definition is something to be condemned?
+What indeed can one say of those who, without thinking in this way, arrive at the conclusion that politics by definition is something to be condemned?
 
 <!-- Tamil source: scan 21 / printed 20 -->
 
-Today, those who look deeply at certain states in this sacred land of India can hardly be surprised if they develop disgust for “politics.”
+Today, for those who look closely at certain states in this sacred land of India, it is no wonder that they feel revulsion toward “politics.”
 
 The nation's Parliament meets each day only to be adjourned.
 
@@ -77,7 +77,7 @@ Our State Legislative Assembly, meanwhile, meets each day only to expel the Oppo
 
 Here in the Assembly, only the ruling party is able to speak; the Opposition cannot even open its mouth to answer the accusations levelled against it.
 
-There in Parliament, the Opposition performs its furious dance—the ruling party is rendered mute, and it ends in adjournment.
+There in Parliament, the Opposition performs its frenzied dance—the ruling party is rendered mute, and it ends in adjournment.
 
 There is no one in the Opposition even to take up the people's problems or important bills.
 
@@ -99,7 +99,7 @@ Or can we stand beside that pot, declare that it belongs to one person alone, an
 
 Therefore, “love”—“renunciation”—“politics”—all of them are pure!
 
-The continuance of that purity depends entirely on those who wear them! The cleanliness of the garment is determined by the extent to which dirt takes command!
+How long that purity lasts depends entirely on those who wear them! The garment's cleanliness depends on how far dirt holds sway!
 
 For the dignity of people's rule called democracy to take root, flourish and bear fruit,
 
@@ -120,7 +120,7 @@ Once they are weeded out, politics will become clean!
 
 “The harvest of the grain of righteous conduct” will grow in abundance!
 
-Without clearing the moss spread across the pond, to blame the pond—is that not the fault of those who blame it?
+Blaming the pond without clearing the moss spread across it—isn't that the fault of those who do the blaming?
 
 To see the moss, let us first remove the dust that has fallen into our own eyes.
 
