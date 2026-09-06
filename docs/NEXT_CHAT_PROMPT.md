@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Essays / சிந்தனையும் செயலும் — P2 scans 92–101
+# Next Chat Prompt — Kalaignar Essays / சிந்தனையும் செயலும் — P2 scans 102–111
 
 Use this only as a convenience handoff. **Live `main` and root `HANDOVER.md` are authoritative.**
 
@@ -26,18 +26,21 @@ Read completely before changing anything:
 10. `publications/sinthanaiyum-seyalum/P2_INTEGRITY_REPAIR_56_81.md`
 11. `publications/sinthanaiyum-seyalum/P3_INTEGRITY_RECONCILIATION_56_81.md`
 12. `publications/sinthanaiyum-seyalum/P2_BATCH_82_91.md`
+13. `publications/sinthanaiyum-seyalum/P2_BATCH_92_101.md`
 
 English is not in scope.
 
 ## Durable checkpoint
 
-- scans **1–91 P2 VERIFIED**
-- P2 canonical page records: **91 / 226**
-- Units **1–19 boundaries VERIFIED**
-- P3 verified assemblies: **19 / 50**
-- Unit 20 `தேனில் குழைத்துக் கொடுத்தாலும்...!`: scans **90–91 / 90–93 VERIFIED**, still incomplete and deliberately unassembled
+- scans **1–101 P2 VERIFIED**
+- P2 canonical page records: **101 / 226**
+- Units **1–22 boundaries VERIFIED**
+- P3 verified assemblies: **22 / 50**
+- Unit 23 `தன்னை வெல்வான்`: scan **101 / 101–103 VERIFIED**, still incomplete and deliberately unassembled
 - Units 11–17 repair/reconciliation gate: **PASS**
-- Units 18–19 page/assembly gate: **PASS**
+- scans 82–91 batch gate: **PASS**
+- scans 92–101 canonical page gate: **10 / 10 PASS**
+- Units 20–22 page/assembly equality: **11 / 11 scan blocks PASS**
 
 ## User-directed batching rule
 
@@ -45,13 +48,12 @@ Process **10 physical scans per iteration** until the user changes this instruct
 
 ## Exact next activity
 
-**P2 scans 92–101 only.**
+**P2 scans 102–111 only.**
 
-- scans **92–93**: finish Unit 20 and only then build Unit-20 assembly;
-- scans **94–97**: verify Unit 21 `வியாதிக்கு விருந்தா?` and build its assembly only after all four pages pass;
-- scans **98–100**: verify Unit 22 `விளையாட்டு` and build its assembly only after all three pages pass;
-- scan **101**: verify the opening of Unit 23 `தன்னை வெல்வான்`; do **not** create Unit-23 assembly yet;
-- all are in Part 002;
+- scans **102–103**: finish Unit 23 `தன்னை வெல்வான்`; build its assembly only after all three pages 101–103 pass;
+- scans **104–108**: verify Unit 24 `இட்லர்`; build its assembly only after all five pages pass;
+- scans **109–111**: verify Unit 25 `இங்கர்சால்`; note that global scan 110 crosses from Part 002 to Part 003; build its assembly only after all three pages pass;
+- do **not** process scan 112 in this iteration;
 - preserve contents-title versus heading-title differences as independent witnesses;
 - keep printed text and physical-copy marks separate;
 - canonical page records must be written before any assembly;

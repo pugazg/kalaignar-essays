@@ -8,8 +8,8 @@ Source form: five transfer PDFs representing one publication.
 
 - Physical scan order is authoritative.
 - Printed page numerals are recorded only when directly visible; no numeral is invented from sequence.
-- Units **1–19** now have P2-directly verified boundaries.
-- Unit **20** is P2-partial through scan 91; Units **21–50** remain P1 contents-derived expected spans until directly verified.
+- Units **1–22** now have P2-directly verified boundaries.
+- Unit **23** is P2-partial at scan 101; Units **24–50** remain P1 contents-derived expected spans until directly verified.
 - Independent contents, heading and promotional/back-cover witnesses must remain separate.
 
 ## Transfer-part map
@@ -67,10 +67,10 @@ Total: **226 scans**, no gap or overlap.
 | 17 | `வசிய மருந்து` | 77 | **78–81** | **P2 VERIFIED** |
 | 18 | `சோதிட சோகம்!` | 81 | **82–84** | **P2 VERIFIED** |
 | 19 | `ஆன்மிக ஆழ்கடல்!` | 84 | **85–89** | **P2 VERIFIED** |
-| 20 | `தேனில் குழைத்துக் கொடுத்தாலும்...!` | 89 | 90–93 | **P2 PARTIAL — 90–91 VERIFIED; 92–93 pending** |
-| 21 | `வியாதிக்கு விருந்தா?` | 93 | 94–97 | provisional |
-| 22 | `விளையாட்டு` | 97 | 98–100 | provisional |
-| 23 | `தன்னை வெல்வான்` | 100 | 101–103 | provisional |
+| 20 | `தேனில் குழைத்துக் கொடுத்தாலும்...!` | 89 | **90–93** | **P2 VERIFIED** |
+| 21 | `வியாதிக்கு விருந்தா?` | 93 | **94–97** | **P2 VERIFIED** |
+| 22 | `விளையாட்டு` | 97 | **98–100** | **P2 VERIFIED** |
+| 23 | `தன்னை வெல்வான்` | 100 | 101–103 | **P2 PARTIAL — scan 101 VERIFIED; 102–103 pending** |
 | 24 | `இட்லர்` | 103 | 104–108 | provisional |
 | 25 | `இங்கர்சால்` | 108 | 109–111 | provisional |
 | 26 | `மகளிர் இட ஒதுக்கீடு!` | 111 | 112–116 | provisional |
@@ -101,7 +101,7 @@ Total: **226 scans**, no gap or overlap.
 
 Body span: **scans 18–225**. Scan 226 is a separate back-cover/promotional witness.
 
-## P2 boundary evidence — Units 1–19; Unit 20 partial
+## P2 boundary evidence — Units 1–22; Unit 23 partial
 
 | Unit | Heading witness | Verified scans | Closing date |
 |---:|---|---:|---|
@@ -124,24 +124,30 @@ Body span: **scans 18–225**. Scan 226 is a separate back-cover/promotional wit
 | 17 | `வசிய மருந்து` | 78–81 | `18 - 7 - 2005` |
 | 18 | `சோதிட சோகம்!` | 82–84 | `1 - 8 - 2005` |
 | 19 | `ஆன்மிக ஆழ்கடல்` | 85–89 | `4 - 8 - 2005` |
+| 20 | `தேனில் குழைத்துக் கொடுத்தாலும்...!` | 90–93 | `5 - 8 - 2005` |
+| 21 | `வியாதிக்கு விருந்தா?` | 94–97 | `7 - 8 - 2005` |
+| 22 | `விளையாட்டு` | 98–100 | `9 - 8 - 2005` |
+| 23 | `தன்னை வெல்வான்` | 101 verified so far | pending |
 
-Global scan **90** directly shows Unit 20 heading `தேனில் குழைத்துக் கொடுத்தாலும்...!`, independently confirming Unit 19 ends at scan 89. Scans **90–91** are verified as the first half of Unit 20; scans 92–93 remain pending.
+Global scan **101** directly begins Unit 23, independently confirming Unit 22 ends at scan 100. Scan 101 is verified; scans 102–103 remain pending, so Unit 23 is deliberately unassembled.
 
 ## Current result
 
 - physical scans accounted for: **226 / 226**
 - page records created: **226 / 226**
-- P2 page records verified: **91 / 226**
-- P2 verified range: **1–91**
-- verified body units: **19 / 50**; Unit 20 partial
-- article assemblies created from verified page layer: **19 / 50**
+- P2 page records verified: **101 / 226**
+- P2 verified range: **1–101**
+- verified body units: **22 / 50**; Unit 23 partial
+- article assemblies created from verified page layer: **22 / 50**
 - Units 11–17 assemblies: **REBUILT / CONSISTENCY GATE PASS**
-- remaining direct article boundaries: **Unit 20 completion + Units 21–50 pending**
+- scans 92–101 canonical page gate: **10 / 10 PASS**
+- Units 20–22 page/assembly equality: **11 / 11 scan blocks PASS**
+- remaining direct article boundaries: **Unit 23 completion + Units 24–50 pending**
 
 ## Integrity note
 
-The repaired/reconciled P2 page layer covers scans 1–81. This 10-scan iteration extends the canonical verified page layer through scan 91. Units 18–19 were assembled only after their page records were written; Unit 20 remains deliberately unassembled while scans 92–93 are pending.
+The repaired/reconciled P2 page layer covers scans 1–81. The scans 82–91 iteration extended the canonical verified page layer through scan 91. This 10-scan iteration extends it through scan 101. Units 20–22 were assembled only after all constituent page records were verified; Unit 23 remains deliberately unassembled while scans 102–103 are pending.
 
 ## Exact next activity
 
-**Proceed with exactly the next 10 scans: P2 scans 92–101.**
+**Proceed with exactly the next 10 scans: P2 scans 102–111. Finish Unit 23 (102–103), verify Unit 24 (104–108), and verify Unit 25 (109–111). Stop before scan 112.**

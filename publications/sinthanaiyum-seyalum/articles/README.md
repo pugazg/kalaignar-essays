@@ -1,6 +1,6 @@
 # Article Assemblies — சிந்தனையும் செயலும்
 
-P3 currently has verified assemblies for Units **1–19**:
+P3 currently has verified assemblies for Units **1–22**:
 
 1. [`01-paasiyum-thoosiyum.md`](01-paasiyum-thoosiyum.md) — `பாசியும் - தூசியும்!` — scans **18–23** — **VERIFIED**
 2. [`02-athiga-uyaram-thaanduvatharku.md`](02-athiga-uyaram-thaanduvatharku.md) — `அதிக உயரம் தாண்டுவதற்கு` — scans **24–27** — **VERIFIED**
@@ -22,14 +22,19 @@ Units **11–17 were deterministically rebuilt from the repaired canonical page 
 15. [`15-inbamum-thunbamum.md`](15-inbamum-thunbamum.md) — heading `இன்பமும் துன்பமும்!` — scans **69–74** — **VERIFIED**
 16. [`16-ozhukkam.md`](16-ozhukkam.md) — `ஒழுக்கம்` — scans **75–77** — **VERIFIED**
 17. [`17-vasiya-marunthu.md`](17-vasiya-marunthu.md) — `வசிய மருந்து` — scans **78–81** — **VERIFIED**
-18. [`18-sothida-sogam.md`](18-sothida-sogam.md) — `சோதிட சோகம்!` — scans **82–84** — **VERIFIED**
-19. [`19-aanmiga-aazhkadal.md`](19-aanmiga-aazhkadal.md) — heading `ஆன்மிக ஆழ்கடல்` — scans **85–89** — **VERIFIED**
 
 Gate evidence is recorded in [`../P3_INTEGRITY_RECONCILIATION_56_81.md`](../P3_INTEGRITY_RECONCILIATION_56_81.md).
 Contents-title and heading-title differences remain independent witnesses.
 
-Unit **20** is P2-partial: scans **90–91 / 90–93 VERIFIED**; no assembly exists yet. Units **21–50** remain pending direct P2 page verification.
+18. [`18-sothida-sogam.md`](18-sothida-sogam.md) — `சோதிட சோகம்!` — scans **82–84** — **VERIFIED**
+19. [`19-aanmiga-aazhkadal.md`](19-aanmiga-aazhkadal.md) — heading `ஆன்மிக ஆழ்கடல்` (contents `ஆன்மிக ஆழ்கடல்!`) — scans **85–89** — **VERIFIED**
+
+20. [`20-thenil-kuzhaithu-koduthaalum.md`](20-thenil-kuzhaithu-koduthaalum.md) — `தேனில் குழைத்துக் கொடுத்தாலும்...!` — scans **90–93** — **VERIFIED**
+21. [`21-viyaathikku-viruntha.md`](21-viyaathikku-viruntha.md) — `வியாதிக்கு விருந்தா?` — scans **94–97** — **VERIFIED**
+22. [`22-vilaiyaattu.md`](22-vilaiyaattu.md) — `விளையாட்டு` — scans **98–100** — **VERIFIED**
+
+The scans **92–101** integrity gate passes: **10 / 10 new canonical page files verified/non-placeholder** and **11 / 11 complete-unit assembly scan blocks equal canonical page text**. Unit 23 `தன்னை வெல்வான்` has scan **101** verified but remains deliberately unassembled until scans 102–103 are verified.
 
 ## Next
 
-Proceed with the user-directed **10-scan** P2 batch **92–101**. Finish Unit 20, verify Units 21–22, and begin Unit 23; create an assembly only after every page in that unit is verified.
+Proceed with the next user-directed **10-scan** P2 batch **102–111 only**. Finish Unit 23, then verify Units 24–25. Stop before scan 112.

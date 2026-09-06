@@ -86,7 +86,7 @@ Back-cover promotional text remains a separate witness from article body text. I
 
 ## Publication form
 
-This is a **multi-unit essay/letter collection**. The printed contents numbers **50 units total**. Direct P2 scan inspection now confirms Units 1–19 and the opening half of Unit 20:
+This is a **multi-unit essay/letter collection**. The printed contents numbers **50 units total**. Direct P2 scan inspection now confirms Units 1–22 and the opening of Unit 23:
 
 1. `பாசியும் - தூசியும்!` — scans **18–23**, closes `27- 4 - 2005`;
 2. `அதிக உயரம் தாண்டுவதற்கு` — scans **24–27**, closes `29-4-2005`;
@@ -107,24 +107,27 @@ This is a **multi-unit essay/letter collection**. The printed contents numbers *
 17. `வசிய மருந்து` — scans **78–81**, closes `18 - 7 - 2005`;
 18. `சோதிட சோகம்!` — scans **82–84**, closes `1 - 8 - 2005`;
 19. heading `ஆன்மிக ஆழ்கடல்` — scans **85–89**, closes `4 - 8 - 2005`;
-20. heading `தேனில் குழைத்துக் கொடுத்தாலும்...!` — scans **90–91 verified so far**, with scans 92–93 pending.
+20. `தேனில் குழைத்துக் கொடுத்தாலும்...!` — scans **90–93**, closes `5 - 8 - 2005`;
+21. `வியாதிக்கு விருந்தா?` — scans **94–97**, closes `7 - 8 - 2005`;
+22. `விளையாட்டு` — scans **98–100**, closes `9 - 8 - 2005`;
+23. `தன்னை வெல்வான்` — scan **101 VERIFIED**; scans 102–103 pending.
 
 The separate user/bibliographic statement “two letters and 50 articles” is retained as an external description only. It is not used to turn the scan's 50 numbered contents entries into 52 archival units.
 
-### Contents/heading witness distinctions through Unit 19
+### Contents/heading witness distinctions through Unit 23
 
 - Unit 3: contents `என் பெயர் புரட்சி` ↔ heading `என் பெயர் புரட்சி!`.
 - Unit 6: contents `வாக்குச் சீட்டின் வலிமை` ↔ heading `வாக்குச்சீட்டின் வலிமை`.
 - Unit 9: contents `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`.
 - Unit 11: contents `வெற்றி - தோல்வி!` ↔ heading `வெற்றி தோல்வி!`.
 - Unit 15: contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!`.
-- Unit 18: contents/heading `சோதிட சோகம்!`; scans 82–84 verified.
+- Unit 18: contents/heading `சோதிட சோகம்!`.
 - Unit 19: contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்`.
-- Unit 20 opening observation: contents/heading `தேனில் குழைத்துக் கொடுத்தாலும்...!`; scans 90–91 verified, closing boundary pending.
+- Units 20–23 currently show matching contents/heading wording in their directly inspected openings.
 
 ## Printed-page behaviour / split continuity
 
-Observed body numbering confirms the physical/printed offset. P2 records numerals only when directly visible. Heading pages carry the source unit marker rather than a printed page numeral; following pages through scan 91 show the corresponding printed numerals. The offset must **not** be used to invent a numeral on an unnumbered page.
+Observed body numbering confirms the physical/printed offset. P2 records numerals only when directly visible. Heading pages carry the source unit marker rather than a printed page numeral; following pages through scan 101 show the corresponding printed numerals where visible. The offset must **not** be used to invent a numeral on an unnumbered page.
 
 ## Physical-copy condition / provenance marks
 
@@ -133,7 +136,8 @@ P2 confirms:
 - circular library stamps on front matter, including scans 2, 4 and 6;
 - yellow/brown spotting/foxing and handling stains;
 - visible bleed-through on several blank/verso/body pages;
-- scans 18–91 show no later body-text stamp/handwriting affecting the verified reading;
+- no later body-text stamp/handwriting affecting the verified reading through scan 101;
+- scan 98 carries the printed marginal/production witness `7 - சி. செ. பூ. வெ. எண். 750`, recorded separately from article prose;
 - blank/near-blank scans remain physical records rather than being omitted.
 
 Printed publication text and later physical-copy marks remain separate page-record sections.
@@ -143,18 +147,22 @@ Printed publication text and later physical-copy marks remain separate page-reco
 - P0 source resolution / split continuity / source identity: **COMPLETE / PASS**
 - P1 publication identity, contents witness and provisional page mapping: **COMPLETE / PASS**
 - physical page records created: **226 / 226**
-- P2 directly verified page records: **91 / 226**
-- verified range: **scans 1–91**
-- verified article boundaries: **Units 1–19**; Unit 20 partial
-- article assemblies: **19 / 50 VERIFIED**
+- P2 directly verified page records: **101 / 226**
+- verified range: **scans 1–101**
+- verified article boundaries: **Units 1–22**; Unit 23 partial
+- article assemblies: **22 / 50 VERIFIED**
 - Units 11–17 assemblies: **REBUILT / CONSISTENCY GATE PASS**
-- unresolved readings within verified scans 1–91: **0**
+- scans 92–101 page gate: **10 / 10 PASS**
+- Units 20–22 assembly scan-block equality: **11 / 11 PASS**
+- unresolved readings within verified scans 1–101: **0**
 - P5 strict visual fidelity: **NOT STARTED**
 
 ## Integrity repair note
 
 The scans-56–81 commit wrote only 12/26 page records while advancing trackers. The first repair restored the missing 14 canonical page records and removed the invalid derived assemblies. The P3 integrity reconciliation then rechecked the twelve originally-written pages against the scan, corrected source drift in scans 58, 59, 62, 63, 65, 66, 67 and 70, rebuilt Units 11–17 from canonical page text, and passed the 26-page / 7-assembly equality gate.
 
+The scans 92–101 iteration independently passed a **10 / 10 canonical-page non-placeholder gate** and an **11 / 11 complete-unit page/assembly equality gate** for Units 20–22. Direct enlarged-pixel review corrected scan 92 to `இந்தக் கற்களும் பயன்பட்டும்` and scan 96 to `அதைக் காவல் தெய்வமாகத்`; the Unit-20 assembly was rebuilt from canonical pages so scan 91's verified `புகட்டிடும்வண்ணம்` remained authoritative.
+
 ## Exact next activity
 
-**User-directed 10-scan P2 iteration: scans 92–101 only. Finish Unit 20 (92–93), verify Units 21–22 (94–100), and begin Unit 23 at scan 101. Canonical page records must precede assembly creation.**
+**User-directed 10-scan P2 iteration: scans 102–111 only. Finish Unit 23 on 102–103, verify Unit 24 on 104–108, and verify Unit 25 on 109–111. Canonical page records must precede assembly creation. Stop before scan 112.**

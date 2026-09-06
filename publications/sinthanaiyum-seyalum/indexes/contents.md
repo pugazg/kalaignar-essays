@@ -93,8 +93,19 @@ Unit 41 also preserves the visible space in **`மொழி !`**.
 - Unit 17: contents/heading `வசிய மருந்து`; scans **78–81 VERIFIED**.
 - Unit 18: contents/heading `சோதிட சோகம்!`; scans **82–84 VERIFIED**.
 - Unit 19: contents `ஆன்மிக ஆழ்கடல்!` ↔ heading **`ஆன்மிக ஆழ்கடல்`**; scans **85–89 VERIFIED**.
-- Unit 20: contents/heading `தேனில் குழைத்துக் கொடுத்தாலும்...!`; scans **90–91 VERIFIED / 92–93 pending**; boundary not yet claimed.
+- Unit 20: contents/heading `தேனில் குழைத்துக் கொடுத்தாலும்...!`; scans **90–93 VERIFIED**.
+- Unit 21: contents/heading `வியாதிக்கு விருந்தா?`; scans **94–97 VERIFIED**.
+- Unit 22: contents/heading `விளையாட்டு`; scans **98–100 VERIFIED**.
+- Unit 23: contents/heading `தன்னை வெல்வான்`; scans **101 VERIFIED / 102–103 pending**.
+
+## Batch / integrity status
+
+- Units 11–17 canonical-page repair and page/assembly reconciliation: **PASS**.
+- Scans 82–91 canonical page-layer / complete-unit assembly gate: **PASS**.
+- Scans 92–101 canonical page-layer / complete-unit assembly gate: **PASS**.
+- P2 verified range: **1–101**.
+- Unit 23 is P2-partial through scan 101; its boundary is not yet claimed.
 
 ## Next
 
-Integrity reconciliation: **PASS** — Units 11–17 were rebuilt from the repaired canonical page layer and page/assembly equality was confirmed. The user has now fixed P2 work at **10 scans per iteration**. Next batch: **scans 92–101**.
+User-directed **10 scans per iteration** remains active. Next batch: **scans 102–111 only** — finish Unit 23 on 102–103, verify Unit 24 on 104–108, and verify Unit 25 on 109–111. Do not process scan 112 in that iteration.
