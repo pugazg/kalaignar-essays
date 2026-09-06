@@ -53,13 +53,16 @@ P3 has verified assemblies for all **50 / 50** printed contents units. Assemblie
 49. `49-anthaathi-paadiya-aruthakutti-naadar.md` — 214–220
 50. `50-sinthanai-sey-maname.md` — 221–225
 
-## Integrity
+## Integrity / final closeout
 
 - body canonical scans: **208 / 208** represented exactly once;
-- assemblies: **50 / 50 VERIFIED**;
+- assemblies: **50 / 50 VERIFIED / RECHECKED**;
 - unit-level/scoped P4/P5: **50 / 50 PASS / STRICT-REVIEWED**;
-- unresolved assembly/source discrepancies: **0**;
 - publication-wide P4: **PASS**;
-- publication-wide P5: **ACTIVE / NOT YET CLOSED**.
+- publication-wide P5: **226 / 226 physical scans PASS / COMPLETE**;
+- unresolved assembly/source discrepancies: **0**;
+- Tamil archival layer: **COMPLETE / FROZEN**.
 
 Scan 226 is a separate back-cover promotional witness and is correctly excluded from article prose.
+
+Canonical final fidelity record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).

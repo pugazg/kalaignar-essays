@@ -21,7 +21,7 @@ Source PDFs are never committed.
 
 ---
 
-# Publication 8 — சிந்தனையும் செயலும் — SOURCE COMPLETE / FINAL P5 ACTIVE
+# Publication 8 — சிந்தனையும் செயலும் — TAMIL ARCHIVAL COMPLETE / FROZEN
 
 Workspace: `publications/sinthanaiyum-seyalum/`
 
@@ -29,30 +29,33 @@ Workspace: `publications/sinthanaiyum-seyalum/`
 
 One **226-scan** publication supplied as five non-overlapping PDFs under `TVA_BOK_0065568`. Split continuity **PASS**; source PDFs committed **No**.
 
-## Current Tamil state
+## Final Tamil state
 
-- P0: **PASS**
-- P1: **PASS**
+- P0: **PASS / COMPLETE**
+- P1: **PASS / COMPLETE**
 - physical page records: **226 / 226 CREATED**
 - P2 direct verified: **226 / 226**
 - body units: **50 / 50 COMPLETE**
 - P3 assemblies: **50 / 50 VERIFIED**
 - Units 1–50 scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
 - terminal scan 226 scoped P4/P5: **PASS**
-- unresolved source readings: **0**
 - publication-wide P4: **PASS**
-- publication-wide P5: **ACTIVE / NOT YET CLOSED**
+- publication-wide P5: **226 / 226 PASS / COMPLETE**
+- visual-text-fidelity: **COMPLETE**
+- unresolved source/fidelity discrepancies: **0**
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - English: **NOT STARTED / OUT OF SCOPE**
 
-## Final source closeout
+## Final authority records
 
-Read:
+Read when this publication is relevant:
 
-1. `publications/sinthanaiyum-seyalum/P2_FINAL_220_226.md`
-2. `publications/sinthanaiyum-seyalum/P4_UNITS_49_50_AND_TERMINAL.md`
-3. `publications/sinthanaiyum-seyalum/P5_VISUAL_TEXT_FIDELITY_UNITS_49_50_AND_TERMINAL.md`
-4. `publications/sinthanaiyum-seyalum/COMPLETED_UNITS_49_50_CLOSEOUT.md`
-5. `publications/sinthanaiyum-seyalum/PUBLICATION_WIDE_P4.md`
+1. `publications/sinthanaiyum-seyalum/README.md`
+2. `publications/sinthanaiyum-seyalum/PUBLICATION_WIDE_P4.md`
+3. `publications/sinthanaiyum-seyalum/VISUAL_TEXT_FIDELITY_REVIEW.md`
+4. `publications/sinthanaiyum-seyalum/PUBLICATION_COMPLETION_REVIEW.md`
+5. `publications/sinthanaiyum-seyalum/indexes/page-map.md`
+6. `publications/sinthanaiyum-seyalum/articles/README.md`
 
 Final boundaries:
 
@@ -62,23 +65,21 @@ Final boundaries:
 - U50 `சிந்தனை செய் மனமே`: **221–225**, closes `31 - 10 - 2005`;
 - scan 226: terminal/back-cover witness.
 
+## Final publication-wide P5 result
+
+After the source was fully complete, **all 226 physical scans were re-opened and visually rechecked** under `ESSAY_PROCESSING_GUIDE.md` §12. The final sweep found **0 new canonical corrections** and **0 unresolved fidelity discrepancies**. The 50 assemblies remain reconciled to the canonical layer.
+
 ## Exact next activity
 
-Perform the dedicated **publication-wide P5 strict visual text-fidelity re-pass** mandated by `ESSAY_PROCESSING_GUIDE.md` §12:
+There is **no remaining Tamil archival/review activity** for `சிந்தனையும் செயலும்`.
 
-- re-open and visually compare **all 226 physical scans** against their canonical page records;
-- include covers, front matter, contents, every article page and back cover;
-- compare every visible word, word boundary/spacing, punctuation, quote mark, heading, number/date and continuation;
-- propagate any correction to P3 assemblies and indexes/trackers;
-- create `publications/sinthanaiyum-seyalum/VISUAL_TEXT_FIDELITY_REVIEW.md` with corrections and final counts;
-- only after that passes may `சிந்தனையும் செயலும்` be marked **Tamil archival-complete / visual-text-fidelity complete**.
-
-Do not start English unless the user explicitly changes scope.
+Do not start its English translation unless the user explicitly authorizes it. Otherwise continue only with another user-selected Kalaignar essay/article publication or a genuine controlling-scan defect.
 
 ## Non-regression
 
 1. Preserve Publications 1–7 frozen.
-2. Preserve the 50 source-complete Tamil units unless a controlling-scan defect is proven.
+2. Preserve Publication 8's complete Tamil layer; reopen only for a genuine controlling-scan defect.
 3. Canonical pages remain authority for assemblies.
 4. Printed marginal/form evidence and physical-copy marks stay outside article prose.
-5. Do not use OCR, web text, memory or another edition as source authority.
+5. Preserve independent contents/heading/back-cover witnesses without harmonization.
+6. Do not use OCR, web text, memory or another edition as source authority.

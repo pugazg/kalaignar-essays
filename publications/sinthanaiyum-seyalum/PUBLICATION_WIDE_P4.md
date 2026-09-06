@@ -47,4 +47,10 @@ Contents headings and article headings remain independent. Known differences are
 
 **PUBLICATION-WIDE P4: PASS.**
 
-The publication is structurally/source complete. The remaining release gate is the dedicated publication-wide strict visual text-fidelity pass required by `ESSAY_PROCESSING_GUIDE.md` §12. Until that pass is closed, do not label the publication archival-complete.
+The publication is structurally/source complete.
+
+## Post-P4 closure status
+
+The subsequently required dedicated `ESSAY_PROCESSING_GUIDE.md` §12 publication-wide strict visual pass has also completed successfully. See [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
+
+**Publication-wide P5: PASS / Tamil archival layer: COMPLETE / FROZEN.**

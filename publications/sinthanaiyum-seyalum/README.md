@@ -18,19 +18,23 @@ Source PDFs committed: **No**
 - completed Units **1–50** scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
 - terminal scan 226 scoped P4/P5: **PASS**
 - publication-wide P4: **PASS**
-- publication-wide P5: **ACTIVE / NOT YET CLOSED**
-- unresolved source readings: **0**
+- publication-wide P5: **226 / 226 PASS / COMPLETE**
+- visual-text-fidelity: **COMPLETE**
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**
+- unresolved source/fidelity discrepancies: **0**
 - English translation: **NOT STARTED / OUT OF CURRENT SCOPE**
 
-Final-source records:
+Final records:
 
 - [`P2_FINAL_220_226.md`](P2_FINAL_220_226.md)
 - [`P4_UNITS_49_50_AND_TERMINAL.md`](P4_UNITS_49_50_AND_TERMINAL.md)
 - [`P5_VISUAL_TEXT_FIDELITY_UNITS_49_50_AND_TERMINAL.md`](P5_VISUAL_TEXT_FIDELITY_UNITS_49_50_AND_TERMINAL.md)
 - [`COMPLETED_UNITS_49_50_CLOSEOUT.md`](COMPLETED_UNITS_49_50_CLOSEOUT.md)
 - [`PUBLICATION_WIDE_P4.md`](PUBLICATION_WIDE_P4.md)
+- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md)
+- [`PUBLICATION_COMPLETION_REVIEW.md`](PUBLICATION_COMPLETION_REVIEW.md)
 
-Earlier completed-subset closeout records remain authoritative for Units 1–48.
+Earlier completed-subset closeout records remain authoritative for their scoped fidelity decisions.
 
 ## Scan-verified publication identity
 
@@ -66,6 +70,8 @@ Never harmonise independent source witnesses:
 - Unit 41 contents `வலி அறிவிக்கும் வாயில்லா மொழி !` ↔ heading `வலி அறிவிக்கும் வாயில்லா மொழி!`
 - Unit 48 contents `நல்வழிக்கு நாட்டாரய்யாவின் உரை!...` ↔ heading `நல்வழிக்கு நாட்டாரய்யாவின் உரை!`.
 
+Unit 29's source-visible Kural reading `காப்புவென் செய்யும் ?` remains frozen and must not be conventionally normalized.
+
 ## Printed marginal witnesses
 
 Recurring production/form witnesses remain outside article prose. Directly confirmed sequence:
@@ -73,14 +79,16 @@ Recurring production/form witnesses remain outside article prose. Directly confi
 - scans **18, 34, 50, 66, 82, 98, 114, 130, 146, 162, 178, 194, 210**;
 - printed sequence numbers **2–14** with `சி. செ. பூ. வெ. எண். 750`.
 
+## Publication-wide strict re-pass
+
+The dedicated post-source-completion §12 pass re-opened **all 226 physical scans**. It found **0 new canonical corrections**, **0 blocked/needs-review/partial records**, and **0 unresolved fidelity discrepancies**. Existing scoped corrections and source-sensitive decisions remain propagated and frozen.
+
 ## Freeze / non-regression
 
-All **50 body units** are directly source-complete and scoped P5 strict-reviewed. Reopen wording, punctuation, title witnesses or source-sensitive readings only for a genuine controlling-scan defect.
+All **50 body units**, all front matter and the terminal witness are Tamil archival-complete. Reopen wording, punctuation, title witnesses, source-sensitive readings, marginal witnesses or physical-copy evidence only for a genuine defect demonstrated by the controlling scan pixels.
 
-The publication is **not yet publication-level archival-complete** because `ESSAY_PROCESSING_GUIDE.md` §12 requires a dedicated final publication-wide visual re-pass after full source completion.
+## Next activity
 
-## Exact next activity
+No further Tamil archival/review activity is pending for `சிந்தனையும் செயலும்`.
 
-Run the **publication-wide P5 final strict visual text-fidelity pass** over all **226 physical scans**. Re-read every cover/front-matter/body/back-cover scan against its canonical record, propagate any corrections into assemblies/indexes/trackers, create `VISUAL_TEXT_FIDELITY_REVIEW.md`, and only then declare Tamil archival closure.
-
-Do not start English unless the user explicitly changes scope.
+Do **not** begin English unless the user explicitly authorizes it. Otherwise, the next repository activity should be intake or continuation of another user-selected Kalaignar essay/article publication.

@@ -1,55 +1,45 @@
-# NEXT CHAT PROMPT — Kalaignar Essays / `சிந்தனையும் செயலும்`
+# NEXT CHAT PROMPT — Kalaignar Essays / post-`சிந்தனையும் செயலும்` Tamil closure
 
-Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/sinthanaiyum-seyalum/`.
+Continue directly in `pugazg/kalaignar-essays`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Preserve newer durable work. Do not reopen Publications 1–7 or any of the 50 source-complete body units merely because this copied prompt is older.
+Fetch live `main` first. Preserve newer durable work. Do not reopen Publications 1–7 or the completed Tamil layer of `publications/sinthanaiyum-seyalum/` merely because a copied prompt is older.
 
 ## Mandatory startup
 
 Read completely:
 
-1. `ESSAY_PROCESSING_GUIDE.md`, especially §§11–12;
+1. `ESSAY_PROCESSING_GUIDE.md`;
 2. `docs/FUTURE_WORK_GUIDELINES.md`;
 3. root `HANDOVER.md`;
-4. this prompt;
-5. publication `README.md`;
-6. `metadata/source.md`;
-7. `indexes/contents.md`;
-8. `indexes/page-map.md`;
-9. `articles/README.md`;
-10. `P2_FINAL_220_226.md`;
-11. `P4_UNITS_49_50_AND_TERMINAL.md`;
-12. `P5_VISUAL_TEXT_FIDELITY_UNITS_49_50_AND_TERMINAL.md`;
-13. `PUBLICATION_WIDE_P4.md`.
+4. this prompt.
 
-English remains out of scope.
+If `சிந்தனையும் செயலும்` is relevant, also read:
 
-## Current authoritative state
+5. `publications/sinthanaiyum-seyalum/README.md`;
+6. `publications/sinthanaiyum-seyalum/PUBLICATION_WIDE_P4.md`;
+7. `publications/sinthanaiyum-seyalum/VISUAL_TEXT_FIDELITY_REVIEW.md`;
+8. `publications/sinthanaiyum-seyalum/PUBLICATION_COMPLETION_REVIEW.md`.
 
-- P2: **226 / 226 VERIFIED**
+## `சிந்தனையும் செயலும்` final Tamil state
+
+- physical scans: **226 / 226 VERIFIED**
 - body units: **50 / 50 COMPLETE**
-- P3: **50 / 50 VERIFIED**
-- all 50 units scoped P4/P5: **PASS / STRICT-REVIEWED**
-- terminal scan 226 scoped P4/P5: **PASS**
+- P3 assemblies: **50 / 50 VERIFIED**
+- scoped P4/P5: **50 / 50 units PASS / STRICT-REVIEWED**
 - publication-wide P4: **PASS**
-- publication-wide P5: **ACTIVE / NOT YET CLOSED**
-- unresolved: **0**
+- publication-wide P5: **226 / 226 PASS / COMPLETE**
+- unresolved source/fidelity discrepancies: **0**
+- Tamil archival layer: **COMPLETE / VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**
+- English: **NOT STARTED / OUT OF SCOPE**
 
-## Exact next activity — publication-wide P5
+The dedicated post-source-completion §12 pass found **0 new canonical corrections**. Preserve all existing source-sensitive readings and independent witness differences.
 
-Run the final `ESSAY_PROCESSING_GUIDE.md` §12 strict visual re-pass across **all 226 physical scans** after full source completion.
+## Exact next activity
 
-For every scan:
+No further Tamil work is pending for `சிந்தனையும் செயலும்`.
 
-- directly re-view controlling pixels;
-- compare every visible word, word boundary, spacing, punctuation, quotation mark, heading, date, numeral and paragraph/page continuation against the canonical page record;
-- preserve independent contents/article/back-cover witnesses separately;
-- record every correction as old reading → source-visible reading;
-- propagate page corrections to assemblies and indexes/trackers;
-- maintain zero silent normalization.
+Wait for the user's next explicitly selected publication/source, or for explicit authorization to begin English. If a new source is supplied, follow the permanent source-first intake workflow. If English is explicitly authorized, read `ESSAY_TRANSLATION_GUIDE.md` before creating any translation file.
 
-After the sweep, create `VISUAL_TEXT_FIDELITY_REVIEW.md`, reconcile all 50 assemblies, verify blocked/needs-review/unresolved counts, and only then mark Tamil archival completion.
-
-Do not begin English unless explicitly authorized.
+Do not reopen frozen Tamil work without a genuine controlling-scan defect.

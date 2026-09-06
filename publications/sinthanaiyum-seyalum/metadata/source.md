@@ -34,7 +34,7 @@ Source identifier: `TVA_BOK_0065568`
 - printer: `ஈகிள் பிரஸ், சென்னை - 600 013.`
 - sales-rights witness: `பூம்புகார் பதிப்பகம்`
 
-## Verified structure
+## Verified structure / final gates
 
 - scans 1–17: cover/front matter/contents/internal title/blank witnesses;
 - scans 18–225: **50 directly verified body units**;
@@ -42,8 +42,10 @@ Source identifier: `TVA_BOK_0065568`
 - P2: **226 / 226 VERIFIED**;
 - P3: **50 / 50 assemblies**;
 - publication-wide P4: **PASS**;
-- publication-wide P5: **ACTIVE / NOT YET CLOSED**;
-- unresolved readings: **0**.
+- publication-wide P5: **226 / 226 PASS / COMPLETE**;
+- visual-text-fidelity: **COMPLETE**;
+- Tamil archival layer: **COMPLETE / FROZEN**;
+- unresolved source/fidelity discrepancies: **0**.
 
 Final units:
 
@@ -61,6 +63,8 @@ Independent witness differences are preserved for Units **3, 6, 9, 11, 15, 19, 4
 
 Recurring production witness series is directly verified at scans 18 through 210 every 16 scans, sequence numbers **2–14**, each with `சி. செ. பூ. வெ. எண். 750`. These witnesses remain outside article prose.
 
-## Next gate
+## Final archival record
 
-Dedicated publication-wide strict visual text-fidelity re-pass over all 226 scans per `ESSAY_PROCESSING_GUIDE.md` §12.
+See [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md) and [`../PUBLICATION_COMPLETION_REVIEW.md`](../PUBLICATION_COMPLETION_REVIEW.md).
+
+No further Tamil archival gate is pending. English remains out of scope unless explicitly authorized.

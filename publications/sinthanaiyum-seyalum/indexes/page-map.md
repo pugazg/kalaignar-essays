@@ -91,4 +91,5 @@ Body span: **18–225 = 208 scans**, with every scan assigned exactly once.
 Canonical P2: **226 / 226 VERIFIED**.  
 P3: **50 / 50 assemblies**.  
 Publication-wide P4: **PASS**.  
-Publication-wide P5: **ACTIVE / PENDING FINAL RE-PASS**.
+Publication-wide P5: **226 / 226 PASS / COMPLETE**.  
+Tamil archival layer: **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**.
