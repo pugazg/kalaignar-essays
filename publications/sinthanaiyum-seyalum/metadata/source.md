@@ -42,7 +42,7 @@ Scans 6–7 are `பதிப்புரை`; scans 8–12 are `அணிந்
 
 This is a **multi-unit essay/letter collection**. The controlling contents witness numbers **50 units total**. A separate bibliographic description saying “two letters and 50 articles” remains external and does not expand the archival unit count to 52.
 
-Units **1–29** are directly verified complete units. Recent verified boundaries:
+Units **1–31** are directly verified complete units. Recent verified boundaries:
 
 - Unit 23 `தன்னை வெல்வான்` — **101–103** — `11 - 8 - 2005`
 - Unit 24 `இட்லர்` — **104–108** — `13 - 8 - 2005`
@@ -51,7 +51,9 @@ Units **1–29** are directly verified complete units. Recent verified boundarie
 - Unit 27 `தியானம்???` — **117–122** — `3 - 9 - 2005`
 - Unit 28 `விபத்து` — **123–125** — `6 - 9 - 2005`
 - Unit 29 `சின்னத்திரை “செல்வி”` — **126–129** — `7 - 9 - 2005`
-- Unit 30 `மருந்தென ஒன்று!` — scans **130–131 VERIFIED / PARTIAL**; ending not yet claimed.
+- Unit 30 `மருந்தென ஒன்று!` — **130–133** — `8 - 9 - 2005`
+- Unit 31 `சிறிய நூல்தான்` — **134–138** — `10 - 9 - 2005`
+- Unit 32 `மண்டேலா` — scans **139–141 VERIFIED / PARTIAL**; ending not yet claimed.
 
 Unit 25 crosses the Part-002 → Part-003 transfer boundary without a source discontinuity.
 
@@ -66,7 +68,7 @@ Preserve independently:
 - Unit 15 `இன்பமும் துன்பமும்` ↔ `இன்பமும் துன்பமும்!`
 - Unit 19 `ஆன்மிக ஆழ்கடல்!` ↔ `ஆன்மிக ஆழ்கடல்`
 
-Units 20–30 have matching contents/heading wording in directly inspected openings.
+Units 20–32 have matching contents/heading wording in directly inspected openings.
 
 Unit 29 preserves the printed Kural witness `காப்புவென் செய்யும் ?` exactly as visible rather than importing a conventional reading.
 
@@ -87,23 +89,33 @@ Recurring printed production/form witnesses:
 
 These are printed marginal witnesses, not article prose.
 
-Recent heading designs remain design evidence only: Unit 28 vehicle/ambulance imagery; Unit 29 boxed woman/flower imagery; Unit 30 mortar/herbal imagery.
+Recent heading designs remain design evidence only: Unit 28 vehicle/ambulance imagery; Unit 29 boxed woman/flower imagery; Unit 30 mortar/herbal imagery; Unit 31 reader/books imagery; Unit 32 birds/leaves imagery.
+
+## Strict-fidelity repair from scans 132–141 closeout
+
+The Unit 30 strict reread corrected scan 130:
+
+- prior canonical reading: `மாத`
+- source-visible reading: `மாசு`
+
+The correction is propagated to the Unit 30 assembly. No other lexical/punctuation correction was required in the Unit 30–31 P5 pass.
 
 ## Current archival gate
 
 - page records created: **226 / 226**
-- P2 directly verified: **131 / 226**
-- contiguous verified range: **1–131**
-- complete verified body units: **29 / 50**
-- P3 assemblies: **29 / 50**
-- Unit 30 P2 partial: **130–131**
+- P2 directly verified: **141 / 226**
+- contiguous verified range: **1–141**
+- complete verified body units: **31 / 50**
+- P3 assemblies: **31 / 50**
+- Unit 32 P2 partial: **139–141**
 - scoped P4/P5 Units 1–25: **PASS / STRICT-REVIEWED**
 - scoped P4/P5 Unit 26: **PASS / STRICT-REVIEWED**
 - scoped P4/P5 Units 27–29: **PASS / 13 / 13 scans / STRICT-REVIEWED**
+- scoped P4/P5 Units 30–31: **PASS / 9 / 9 scans / STRICT-REVIEWED**
 - publication-wide P4/P5: **PENDING**
-- unresolved readings in verified scans 1–131: **0**
+- unresolved readings in verified scans 1–141: **0**
 - English: **NOT STARTED**
 
 ## Next
 
-P2 scans **132–141 only**. Do not process scan 142 in that iteration.
+P2 scans **142–151 only**. Do not process scan 152 in that iteration.

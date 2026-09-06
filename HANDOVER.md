@@ -31,7 +31,7 @@ Publication-specific completion records remain authoritative for their frozen de
 
 ---
 
-# Publication 8 — சிந்தனையும் செயலும் — P2 ACTIVE / UNITS 1–29 P5-CLOSED
+# Publication 8 — சிந்தனையும் செயலும் — P2 ACTIVE / UNITS 1–31 P5-CLOSED
 
 Workspace: `publications/sinthanaiyum-seyalum/`
 
@@ -54,40 +54,41 @@ Split continuity: **PASS**. Source PDFs committed: **No**.
 - P0: **PASS**
 - P1: **PASS**
 - physical page records: **226 / 226 CREATED**
-- P2 direct verified pages: **131 / 226**
-- contiguous verified range: **1–131**
-- complete verified body units: **29 / 50**
-- P3 assemblies: **29 / 50 VERIFIED**
-- Unit 30 `மருந்தென ஒன்று!`: **130–131 P2 VERIFIED / PARTIAL / no assembly**
-- unresolved readings in verified scans 1–131: **0**
+- P2 direct verified pages: **141 / 226**
+- contiguous verified range: **1–141**
+- complete verified body units: **31 / 50**
+- P3 assemblies: **31 / 50 VERIFIED**
+- Unit 32 `மண்டேலா`: **139–141 P2 VERIFIED / PARTIAL / no assembly**
+- unresolved readings in verified scans 1–141: **0**
 - Units 1–25 scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
 - Unit 26 scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
-- Units 27–29 scoped P4/P5: **PASS / 13 / 13 scans / STRICT-REVIEWED / FROZEN**
+- Units 27–29 scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
+- Units 30–31 scoped P4/P5: **PASS / 9 / 9 scans / STRICT-REVIEWED / FROZEN**
 - publication-wide P4/P5: **PENDING**
 - Tamil archival phase for publication as a whole: **P2 ACTIVE**
 
-## New durable batch — scans 122–131
+## New durable batch — scans 132–141
 
 Read:
 
-1. `publications/sinthanaiyum-seyalum/P2_BATCH_122_131.md`
-2. `publications/sinthanaiyum-seyalum/P4_UNITS_27_29.md`
-3. `publications/sinthanaiyum-seyalum/P5_VISUAL_TEXT_FIDELITY_UNITS_27_29.md`
-4. `publications/sinthanaiyum-seyalum/COMPLETED_UNITS_27_29_CLOSEOUT.md`
+1. `publications/sinthanaiyum-seyalum/P2_BATCH_132_141.md`
+2. `publications/sinthanaiyum-seyalum/P4_UNITS_30_31.md`
+3. `publications/sinthanaiyum-seyalum/P5_VISUAL_TEXT_FIDELITY_UNITS_30_31.md`
+4. `publications/sinthanaiyum-seyalum/COMPLETED_UNITS_30_31_CLOSEOUT.md`
 
 Results:
 
-- Unit 27 `தியானம்???`: **117–122 VERIFIED**, closes `3 - 9 - 2005`;
-- Unit 28 `விபத்து`: **123–125 VERIFIED**, closes `6 - 9 - 2005`;
-- Unit 29 `சின்னத்திரை “செல்வி”`: **126–129 VERIFIED**, closes `7 - 9 - 2005`;
-- Units 27–29 P3 equality: **13 / 13 scan blocks PASS**;
-- Units 27–29 P4: **PASS**;
-- Units 27–29 P5: **13 / 13 physical scans, 3 / 3 units PASS / STRICT-REVIEWED**;
-- Unit 30 `மருந்தென ஒன்று!`: scans **130–131 VERIFIED / PARTIAL**, deliberately unassembled;
-- scan 130 printed production witness `9 - சி. செ. பூ. வெ. எண். 750` is separate from prose;
-- scan 132 was **not processed**.
+- Unit 30 `மருந்தென ஒன்று!`: **130–133 VERIFIED**, closes `8 - 9 - 2005`;
+- Unit 31 `சிறிய நூல்தான்`: **134–138 VERIFIED**, closes `10 - 9 - 2005`;
+- Units 30–31 P3 equality: **9 / 9 scan blocks PASS**;
+- Units 30–31 P4: **PASS**;
+- Units 30–31 P5: **9 / 9 physical scans, 2 / 2 units PASS / STRICT-REVIEWED**;
+- strict review corrected scan 130 prior `மாத` → source-visible `மாசு`; correction propagated to Unit 30 assembly;
+- scan 130 printed production witness `9 - சி. செ. பூ. வெ. எண். 750` remains separate from prose;
+- Unit 32 `மண்டேலா`: scans **139–141 VERIFIED / PARTIAL**, deliberately unassembled;
+- scan 142 was **not processed**.
 
-Source-sensitive decisions from this batch include Unit 29's source-visible Kural wording `காப்புவென் செய்யும் ?`, the joined form `தூயஉறவில்`, and Unit 30 forms `மன்மோகன்சிங்`, `பறித்தெடுத்த`, `முகஞ்சுளிக்கும்`, `நுண்ணிய குழாயிலிட்டோ`.
+Source-sensitive decisions retained in this batch include Unit 31 `ஹிமானா சையத்`, `‘4906’`, `மல்லாரி கிளினிக்`, `சித்தார்கோட்டை`, `பனைக்குளம்`, `அழகன்குளம்`, `சத்தியேந்திரன்`, `குப்புசாமி சேர்வை`, `க.சோ. கணேசன்`, `விபரங்கள்`, and Unit 32 `ஃகோசா`, `ஜோங்கின்டாபா`, `கயூனு`, `ஜோன் கின்டாபா`, `ஹெல்ட் டவுன்`, `போர்ட் ஹேர்`.
 
 ## Frozen independent title witnesses
 
@@ -100,7 +101,7 @@ Preserve:
 - Unit 15 contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!`
 - Unit 19 contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்`
 
-Units 20–30 heading wording matches the contents witness in directly inspected opening scans.
+Units 20–32 heading wording matches the contents witness in directly inspected opening scans.
 
 ## English
 
@@ -113,19 +114,19 @@ Units 20–30 heading wording matches the contents witness in directly inspected
 
 Continue the user-directed **10 physical scans per iteration** P2 cadence with:
 
-**scans 132–141 only**.
+**scans 142–151 only**.
 
-- scans **132–133**: expected to finish Unit 30 `மருந்தென ஒன்று!`; create its assembly only after direct ending verification, then run its scoped P4/P5 closeout;
-- expected Unit 31 `சிறிய நூல்தான்`: scans **134–138**; verify directly, assemble only after complete boundary verification, then run scoped P4/P5;
-- expected Unit 32 `மண்டேலா`: verify scans **139–141** only; P1 expects continuation through scan 144, so leave it unassembled;
-- **do not process scan 142**;
+- scans **142–144**: expected to finish Unit 32 `மண்டேலா`; create its assembly only after direct ending verification, then run scoped P4/P5;
+- expected Unit 33 `தொண்டுள்ளம்`: scans **145–147**; verify directly, assemble only after complete boundary verification, then run scoped P4/P5;
+- expected Unit 34 `மகளிர் பேரணி!`: scans **148–151**; verify directly, assemble only after complete boundary verification, then run scoped P4/P5;
+- **do not process scan 152**;
 - canonical pages first, assemblies second;
 - any newly completed essay must receive scoped P4/P5 before the handover advances.
 
 ## Non-regression
 
 1. Preserve Publications 1–7 frozen.
-2. Preserve completed Units 1–29 of `சிந்தனையும் செயலும்` as strict-reviewed Tamil unless a genuine source defect is proven.
+2. Preserve completed Units 1–31 of `சிந்தனையும் செயலும்` as strict-reviewed Tamil unless a genuine source defect is proven.
 3. Canonical page records precede assemblies.
 4. Printed marginal / physical-copy evidence stays outside article prose.
 5. Do not use OCR, web text, memory or another edition as source authority.

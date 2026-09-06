@@ -1,6 +1,6 @@
 # Article Assemblies — சிந்தனையும் செயலும்
 
-P3 has verified assemblies for Units **1–29**:
+P3 has verified assemblies for Units **1–31**:
 
 1. [`01-paasiyum-thoosiyum.md`](01-paasiyum-thoosiyum.md) — `பாசியும் - தூசியும்!` — 18–23
 2. [`02-athiga-uyaram-thaanduvatharku.md`](02-athiga-uyaram-thaanduvatharku.md) — `அதிக உயரம் தாண்டுவதற்கு` — 24–27
@@ -31,25 +31,29 @@ P3 has verified assemblies for Units **1–29**:
 27. [`27-thiyanam.md`](27-thiyanam.md) — `தியானம்???` — 117–122
 28. [`28-vibaththu.md`](28-vibaththu.md) — `விபத்து` — 123–125
 29. [`29-chinnathirai-selvi.md`](29-chinnathirai-selvi.md) — `சின்னத்திரை “செல்வி”` — 126–129
+30. [`30-marunthena-onru.md`](30-marunthena-onru.md) — `மருந்தென ஒன்று!` — 130–133
+31. [`31-siriya-noolthaan.md`](31-siriya-noolthaan.md) — `சிறிய நூல்தான்` — 134–138
 
-All 29 carry `status: "verified"`. The assembly layer remains mechanically dependent on the canonical page layer; do not edit prose independently.
+All 31 carry `status: "verified"`. The assembly layer remains mechanically dependent on the canonical page layer; do not edit prose independently.
 
 ## Integrity / closeout
 
 - Units 1–25 scoped P4/P5: **PASS / STRICT-REVIEWED**
 - Unit 26 P3/P4/P5: **5 / 5 page blocks PASS / P4 PASS / P5 PASS / STRICT-REVIEWED**
-- Units 27–29 canonical pages: **13 / 13 VERIFIED**
-- Units 27–29 page/assembly equality: **13 / 13 PASS**
-- Units 27–29 scoped P4: **PASS**
-- Units 27–29 scoped P5: **13 / 13 scans; 3 / 3 units PASS / STRICT-REVIEWED**
-- Unit 30 `மருந்தென ஒன்று!`: scans **130–131 P2 VERIFIED / PARTIAL**; deliberately **no assembly**
+- Units 27–29 page/assembly equality: **13 / 13 PASS**; scoped P4/P5 **PASS / STRICT-REVIEWED**
+- Unit 30 page/assembly equality: **4 / 4 PASS**
+- Unit 31 page/assembly equality: **5 / 5 PASS**
+- Units 30–31 scoped P4: **PASS**
+- Units 30–31 scoped P5: **9 / 9 scans; 2 / 2 units PASS / STRICT-REVIEWED**
+- strict pass repaired scan 130 `மாத` → `மாசு`, propagated to Unit 30 assembly
+- Unit 32 `மண்டேலா`: scans **139–141 P2 VERIFIED / PARTIAL**; deliberately **no assembly**
 
 Printed marginal production/form witnesses remain outside article prose, including scan 130 `9 - சி. செ. பூ. வெ. எண். 750`.
 
 ## Freeze
 
-Completed Units **1–29** are strict-reviewed Tamil units. Reopen only for a genuine source-supported defect. Publication-wide P5 remains pending because Unit 30 and Units 31–50 are incomplete.
+Completed Units **1–31** are strict-reviewed Tamil units. Reopen only for a genuine source-supported defect. Publication-wide P5 remains pending because Unit 32 and Units 33–50 are incomplete.
 
 ## Next
 
-P2 **132–141 only**. Expected: finish Unit 30; complete Unit 31 `சிறிய நூல்தான்`; begin Unit 32 `மண்டேலா` through scan 141 only. Do not process scan 142.
+P2 **142–151 only**. Expected: finish Unit 32; complete Unit 33 `தொண்டுள்ளம்`; complete Unit 34 `மகளிர் பேரணி!`; run full P3/P4/P5 for every newly completed unit. Do not process scan 152.
