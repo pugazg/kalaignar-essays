@@ -16,7 +16,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 # To Clear a Greater Height
 
-Dear sibling,
+Udanpirappē,
 
 A young man named Jayakumar came to Anna Arivalayam and met me. He handed me a sheet of paper and asked me to read what he had written.
 
