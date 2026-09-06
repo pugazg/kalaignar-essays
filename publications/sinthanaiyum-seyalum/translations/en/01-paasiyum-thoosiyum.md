@@ -28,7 +28,7 @@ has no place in our culture, would not be wisdom for anyone.
 
 Because “love” fails to come to fruition—or because love brings disappointment—Valluvar did not therefore revile “love” itself as something evil.
 
-Instead, fondly chiding it as “a disease that buds in the morning, swells through the whole day and blooms in the evening,”
+Instead, fondly chiding it as “a disease that buds in the morning, matures through the whole day and blooms in the evening,”
 
 he gives love its very recognition: “When eye meets eye in answering gaze, what use are words spoken by the mouth?”
 
@@ -36,11 +36,11 @@ he gives love its very recognition: “When eye meets eye in answering gaze, wha
 
 “Let us find a door that opens the way to love and shuts the path to conception,” says Bharathidasan.
 
-Those who enter into love may be irresolute, may possess wavering minds, or may treat it as a spectacle of jumping from branch to branch. Seeing such people, surely we should not conclude that love itself deserves hatred?
+Those who enter into love may be irresolute, may possess wavering minds, or may treat it as an amusing game of jumping from branch to branch. Seeing such people, surely we should not conclude that love itself deserves hatred?
 
 So too, just as with love, we should not belittle and hate politics by judging it only from the conduct of those who handle it.
 
-Just as there are people who love and deceive, there may be a few—or even many—such people among politicians. Those who love and deceive—those who love for the very purpose of deceiving: is all this the fault of love? We may hate the lover, man or woman, who loved, abandoned and betrayed us; but can we therefore treat “love” itself as worthy of hatred? It is the same with politics. Because it becomes a refuge
+Just as there are people who love and deceive, there may be a few—or even many—such people among politicians. Those who love and deceive—those who love for the very purpose of deceiving: is all this the fault of love? We may hate the lover, man or woman, who loved someone, then abandoned and betrayed that person; but can we therefore treat “love” itself as worthy of hatred? It is the same with politics. Because it becomes a refuge
 
 <!-- Tamil source: scan 20 / printed 19 -->
 
@@ -77,7 +77,7 @@ Our State Legislative Assembly, meanwhile, meets each day only to expel the Oppo
 
 Here in the Assembly, only the ruling party is able to speak; the Opposition cannot even open its mouth to answer the accusations levelled against it.
 
-There in Parliament, the Opposition performs its furious dance—the ruling party is rendered mute, and the day ends in adjournment.
+There in Parliament, the Opposition performs its furious dance—the ruling party is rendered mute, and it ends in adjournment.
 
 There is no one in the Opposition even to take up the people's problems or important bills.
 
@@ -87,7 +87,7 @@ Is not “democracy” a charter accepted by all the people of the country?
 
 Can it be denied that politics is the panacea for the growth and life of democracy? And if we reject medicine as poison—or, unable to tell the difference, use poison as medicine—can thinking people fail to consider how much danger and pain would result?
 
-People's rule is not a will written only for the upstairs house—for the mansion—for those who live in easy splendour! Nor is it a deed of rights reserved for them! It is a proclamation of equality that cattle-grazing
+People's rule is not a will written only for the storeyed house—for the mansion—for those who live in comfort! Nor is it a document of rights! It is a proclamation of equality that cattle-grazing
 
 <!-- Tamil source: scan 22 / printed 21 -->
 
@@ -99,13 +99,13 @@ Or can we stand beside that pot, declare that it belongs to one person alone, an
 
 Therefore, “love”—“renunciation”—“politics”—all of them are pure!
 
-That purity lasts according to those who wear them! The cleanliness of the garment is determined by the extent to which dirt takes command!
+The continuance of that purity depends entirely on those who wear them! The cleanliness of the garment is determined by the extent to which dirt takes command!
 
 For the dignity of people's rule called democracy to take root, flourish and bear fruit,
 
 the Kural says that just as the land must be ploughed, manured and watered, weeds must also be removed and the crop guarded; and among all these, the arrangement for removing weeds is especially important.
 
-If movements or governments that act as weeds destroying democracy are allowed to grow together with the crop, what use is there in ploughing—what use in manuring—what use in watering? The weeds alone will grow; the good grain will not!
+If movements or governments that act as weeds that undermine democracy are allowed to grow together with the crop, what use is there in ploughing—what use in manuring—what use in watering? The weeds alone will grow; the good grain will not!
 
 Politics is like land! It must be used to grow the crop of democracy—if that crop alone grows, human wealth—the wealth of secularism and religious harmony—will flourish in abundance!
 
