@@ -1,6 +1,6 @@
 # Article Assemblies — சிந்தனையும் செயலும்
 
-P3 has verified assemblies for Units **1–36**:
+P3 has verified assemblies for Units **1–46**. The assembly layer is mechanically dependent on the canonical page layer; never edit article prose independently.
 
 1. [`01-paasiyum-thoosiyum.md`](01-paasiyum-thoosiyum.md) — `பாசியும் - தூசியும்!` — 18–23
 2. [`02-athiga-uyaram-thaanduvatharku.md`](02-athiga-uyaram-thaanduvatharku.md) — `அதிக உயரம் தாண்டுவதற்கு` — 24–27
@@ -38,24 +38,25 @@ P3 has verified assemblies for Units **1–36**:
 34. [`34-magalir-perani.md`](34-magalir-perani.md) — `மகளிர் பேரணி!` — 148–151
 35. [`35-thirikadugam.md`](35-thirikadugam.md) — `திரிகடுகம்` — 152–154
 36. [`36-theekkuchchi-thedatheer.md`](36-theekkuchchi-thedatheer.md) — `தீக்குச்சி தேடாதீர்!` — 155–158
-
-All 36 carry `status: "verified"`. The assembly layer remains mechanically dependent on the canonical page layer; do not edit prose independently.
+37. [`37-silambum-maniyum.md`](37-silambum-maniyum.md) — `சிலம்பும் மணியும்!` — 159–162
+38. [`38-seynnanri.md`](38-seynnanri.md) — `செய்ந்நன்றி` — 163–166
+39. [`39-pagutharivu-paathai.md`](39-pagutharivu-paathai.md) — `பகுத்தறிவுப் பாதை!` — 167–172
+40. [`40-penniyap-puratchi.md`](40-penniyap-puratchi.md) — `பெண்ணியப் புரட்சி!` — 173–177
+41. [`41-vali-arivikkum-vaayillaa-mozhi.md`](41-vali-arivikkum-vaayillaa-mozhi.md) — heading `வலி அறிவிக்கும் வாயில்லா மொழி!` — 178–181
+42. [`42-varumun-kaappathaa-vanthapin-kaappathaa.md`](42-varumun-kaappathaa-vanthapin-kaappathaa.md) — `வருமுன் காப்பதா? வந்தபின் காப்பதா?` — 182–187
+43. [`43-enge-sorgam-enge-sorgam.md`](43-enge-sorgam-enge-sorgam.md) — `எங்கே சொர்க்கம்? எங்கே சொர்க்கம்?` — 188–191
+44. [`44-guru-peedamum-kural-peedamum.md`](44-guru-peedamum-kural-peedamum.md) — `குரு பீடமும்; குறள் பீடமும்!` — 192–194
+45. [`45-iraiyanaar-kuralum-iniyavai-naarpathum.md`](45-iraiyanaar-kuralum-iniyavai-naarpathum.md) — `இறையனார் குறளும்; இனியவை நாற்பதும்!` — 195–198
+46. [`46-padagukku-oru-kanakku-naattukku-oru-kanakkaa.md`](46-padagukku-oru-kanakku-naattukku-oru-kanakkaa.md) — `படகுக்கு ஒரு கணக்கு; நாட்டுக்கு ஒரு கணக்கா?` — 199–203
 
 ## Integrity / closeout
 
-- completed Units 1–34: scoped P4/P5 **PASS / STRICT-REVIEWED**
-- Units 35–36 canonical page/assembly equality: **7 / 7 PASS**
-- Units 35–36 scoped P4: **2 / 2 units PASS**
-- Units 35–36 scoped P5: **7 / 7 scans; 2 / 2 units PASS / STRICT-REVIEWED**
-- strict pass repaired scan 156 first-pass `உயிரினைய` → source-visible `உயிரனைய`, propagated to Unit 36 assembly
-- Unit 37 `சிலம்பும் மணியும்!`: scans **159–161 P2 VERIFIED / PARTIAL**; deliberately **no assembly**
-
-Printed marginal production/form witnesses remain outside article prose. No new production witness occurred in completed scans 152–158.
-
-## Freeze
-
-Completed Units **1–36** are strict-reviewed Tamil units. Reopen only for a genuine source-supported defect. Publication-wide P5 remains pending because Unit 37 and Units 38–50 are incomplete.
+- Units 1–46: **P2/P3 complete**;
+- completed-subset P4/P5: **PASS / STRICT-REVIEWED / FROZEN**;
+- latest Units 42–46 page/assembly equality: **22 / 22 PASS**;
+- printed marginal/form witnesses remain outside article prose;
+- unresolved through scan 203: **0**.
 
 ## Next
 
-P2 **162–171 only**. Expected: finish Unit 37; complete Unit 38 `செய்ந்நன்றி`; begin Unit 39 `பகுத்தறிவுப் பாதை!` through scan 171 only. Do not process scan 172. Resolve both Part-003 and Part-004 because the batch crosses the transfer boundary after scan 164.
+P2/P3 Units **47–50** plus terminal scan **226**, then publication-wide P4/P5. English remains out of scope.

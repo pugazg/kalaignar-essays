@@ -66,31 +66,28 @@ The printed contents has **50 numbered entries total**.
 
 - Unit 18: `சோதி சோகம்!` → `சோதிட சோகம்!`
 - Unit 44: `குரு பீடமும்; குருவி பீடமும்!` → `குரு பீடமும்; குறள் பீடமும்!`
-- Unit 41 preserves source-visible spacing in `மொழி !`.
+- Unit 41 preserves source-visible spacing in contents `மொழி !`.
 
-## Directly verified heading witnesses through Unit 37 opening
+## Directly verified heading witnesses through Unit 46
 
-- Units 1–2: contents/heading match.
-- Unit 3: contents `என் பெயர் புரட்சி` ↔ heading `என் பெயர் புரட்சி!`.
-- Units 4–5: match.
-- Unit 6: contents `வாக்குச் சீட்டின் வலிமை` ↔ heading `வாக்குச்சீட்டின் வலிமை`.
-- Units 7–8: match.
-- Unit 9: contents `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`.
-- Unit 10: match.
-- Unit 11: contents `வெற்றி - தோல்வி!` ↔ heading `வெற்றி தோல்வி!`.
-- Units 12–14: match.
-- Unit 15: contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!`.
-- Units 16–18: match.
-- Unit 19: contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்`.
-- Units 20–37: match in directly inspected opening scans.
+Frozen differences:
 
-Units **1–36** have directly verified boundaries and strict-reviewed Tamil status. Unit **37** is P2-partial through scans **159–161**. Entries **38–50** remain P1-provisional until direct scan review.
+- Unit 3 contents `என் பெயர் புரட்சி` ↔ heading `என் பெயர் புரட்சி!`.
+- Unit 6 contents `வாக்குச் சீட்டின் வலிமை` ↔ heading `வாக்குச்சீட்டின் வலிமை`.
+- Unit 9 contents `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`.
+- Unit 11 contents `வெற்றி - தோல்வி!` ↔ heading `வெற்றி தோல்வி!`.
+- Unit 15 contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!`.
+- Unit 19 contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்`.
+- Unit 41 contents `வலி அறிவிக்கும் வாயில்லா மொழி !` ↔ heading `வலி அறிவிக்கும் வாயில்லா மொழி!`.
+
+Other directly inspected openings through Unit 46 match the printed contents wording.
+
+Units **1–46** have directly verified boundaries and strict-reviewed Tamil status. Entries **47–50** remain P1-provisional until direct scan review.
 
 ## Current status / next
 
-- P2 verified range: **1–161**
-- complete units: **36 / 50**
-- P3 assemblies: **36 / 50**
-- Unit 37: **159–161 VERIFIED / PARTIAL / no assembly**
-- completed Units 1–36: scoped P4/P5 **PASS / STRICT-REVIEWED**
-- next P2 batch: **162–171 only**; do not process 172.
+- P2 verified range: **1–203**
+- complete units: **46 / 50**
+- P3 assemblies: **46 / 50**
+- completed Units 1–46: scoped P4/P5 **PASS / STRICT-REVIEWED / FROZEN**
+- next: Units **47–50** + terminal scan **226**; resolve Part-004 and Part-005 first.
