@@ -23,8 +23,6 @@ Source identifier: `TVA_BOK_0065568`
 
 ## Printed identity
 
-Direct visual witnesses establish:
-
 - title: `சிந்தனையும் செயலும்`
 - author: `கலைஞர் மு. கருணாநிதி`
 - publisher: `தமிழ்க்கனி பதிப்பகம்`
@@ -38,39 +36,26 @@ Direct visual witnesses establish:
 
 Scans 6–7 are `பதிப்புரை`; scans 8–12 are `அணிந்துரை` by `டாக்டர் வா. செ. குழந்தைசாமி`; scans 14–15 are the printed `பொருளடக்கம்` with **50** numbered units; scan 16 is an internal title page. Scan 226 is a separate back-cover/promotional witness and remains pending P2.
 
-## Publication form / verified structure
+## Publication form / directly verified structure
 
-This is a **multi-unit essay/letter collection**. The controlling contents witness numbers **50 units total**. A separate bibliographic description saying “two letters and 50 articles” remains external and does not expand the archival unit count to 52.
+This is a **multi-unit essay/letter collection**. The controlling contents witness numbers **50 units total**. Units **1–34** are now directly verified complete.
 
-Units **1–31** are directly verified complete units. Recent verified boundaries:
+Recent boundaries:
 
-- Unit 23 `தன்னை வெல்வான்` — **101–103** — `11 - 8 - 2005`
-- Unit 24 `இட்லர்` — **104–108** — `13 - 8 - 2005`
-- Unit 25 `இங்கர்சால்` — **109–111** — `24 - 8 - 2005`
-- Unit 26 `மகளிர் இட ஒதுக்கீடு!` — **112–116** — `26 - 8 - 2005`
-- Unit 27 `தியானம்???` — **117–122** — `3 - 9 - 2005`
-- Unit 28 `விபத்து` — **123–125** — `6 - 9 - 2005`
 - Unit 29 `சின்னத்திரை “செல்வி”` — **126–129** — `7 - 9 - 2005`
 - Unit 30 `மருந்தென ஒன்று!` — **130–133** — `8 - 9 - 2005`
 - Unit 31 `சிறிய நூல்தான்` — **134–138** — `10 - 9 - 2005`
-- Unit 32 `மண்டேலா` — scans **139–141 VERIFIED / PARTIAL**; ending not yet claimed.
+- Unit 32 `மண்டேலா` — **139–144** — `12 - 9 - 2005`
+- Unit 33 `தொண்டுள்ளம்` — **145–147** — `15 - 9 - 2005`
+- Unit 34 `மகளிர் பேரணி!` — **148–151** — `22 - 9 - 2005`
 
-Unit 25 crosses the Part-002 → Part-003 transfer boundary without a source discontinuity.
+Unit 25 crosses the Part-002 → Part-003 transfer boundary without source discontinuity.
 
 ## Contents / heading witness distinctions
 
-Preserve independently:
+Preserve independently: Unit 3 `என் பெயர் புரட்சி` ↔ `என் பெயர் புரட்சி!`; Unit 6 `வாக்குச் சீட்டின் வலிமை` ↔ `வாக்குச்சீட்டின் வலிமை`; Unit 9 `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`; Unit 11 `வெற்றி - தோல்வி!` ↔ `வெற்றி தோல்வி!`; Unit 15 `இன்பமும் துன்பமும்` ↔ `இன்பமும் துன்பமும்!`; Unit 19 `ஆன்மிக ஆழ்கடல்!` ↔ `ஆன்மிக ஆழ்கடல்`. Units 20–34 have matching contents/heading wording in directly inspected openings.
 
-- Unit 3 `என் பெயர் புரட்சி` ↔ `என் பெயர் புரட்சி!`
-- Unit 6 `வாக்குச் சீட்டின் வலிமை` ↔ `வாக்குச்சீட்டின் வலிமை`
-- Unit 9 `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`
-- Unit 11 `வெற்றி - தோல்வி!` ↔ `வெற்றி தோல்வி!`
-- Unit 15 `இன்பமும் துன்பமும்` ↔ `இன்பமும் துன்பமும்!`
-- Unit 19 `ஆன்மிக ஆழ்கடல்!` ↔ `ஆன்மிக ஆழ்கடல்`
-
-Units 20–32 have matching contents/heading wording in directly inspected openings.
-
-Unit 29 preserves the printed Kural witness `காப்புவென் செய்யும் ?` exactly as visible rather than importing a conventional reading.
+Unit 29 preserves printed Kural witness `காப்புவென் செய்யும் ?` exactly.
 
 ## Physical-copy / printed marginal evidence
 
@@ -86,36 +71,28 @@ Recurring printed production/form witnesses:
 - scan 98: `7 - சி. செ. பூ. வெ. எண். 750`
 - scan 114: `8 - சி. செ. பூ. வெ. எண். 750`
 - scan 130: `9 - சி. செ. பூ. வெ. எண். 750`
+- scan 146: `10 - சி. செ. பூ. வெ. எண். 750`
 
 These are printed marginal witnesses, not article prose.
 
-Recent heading designs remain design evidence only: Unit 28 vehicle/ambulance imagery; Unit 29 boxed woman/flower imagery; Unit 30 mortar/herbal imagery; Unit 31 reader/books imagery; Unit 32 birds/leaves imagery.
+Recent heading designs remain design evidence only: Unit 32 birds/leaves; Unit 33 candle / flower-mask; Unit 34 woman-with-flag.
 
-## Strict-fidelity repair from scans 132–141 closeout
+## Strict-fidelity notes
 
-The Unit 30 strict reread corrected scan 130:
-
-- prior canonical reading: `மாத`
-- source-visible reading: `மாசு`
-
-The correction is propagated to the Unit 30 assembly. No other lexical/punctuation correction was required in the Unit 30–31 P5 pass.
+The earlier Unit 30 strict reread corrected scan 130 prior `மாத` → source-visible `மாசு`. The Units 32–34 strict pass found **0** new corrections to already-P2-verified scans 139–141 and **0** unresolved discrepancies across scans 139–151.
 
 ## Current archival gate
 
 - page records created: **226 / 226**
-- P2 directly verified: **141 / 226**
-- contiguous verified range: **1–141**
-- complete verified body units: **31 / 50**
-- P3 assemblies: **31 / 50**
-- Unit 32 P2 partial: **139–141**
-- scoped P4/P5 Units 1–25: **PASS / STRICT-REVIEWED**
-- scoped P4/P5 Unit 26: **PASS / STRICT-REVIEWED**
-- scoped P4/P5 Units 27–29: **PASS / 13 / 13 scans / STRICT-REVIEWED**
-- scoped P4/P5 Units 30–31: **PASS / 9 / 9 scans / STRICT-REVIEWED**
+- P2 directly verified: **151 / 226**
+- contiguous verified range: **1–151**
+- complete verified body units: **34 / 50**
+- P3 assemblies: **34 / 50**
+- completed Units 1–34 scoped P4/P5: **PASS / STRICT-REVIEWED**
 - publication-wide P4/P5: **PENDING**
-- unresolved readings in verified scans 1–141: **0**
+- unresolved readings in verified scans 1–151: **0**
 - English: **NOT STARTED**
 
 ## Next
 
-P2 scans **142–151 only**. Do not process scan 152 in that iteration.
+P2 scans **152–161 only**. Expected Unit 35 152–154, Unit 36 155–158, Unit 37 partial 159–161. Do not process scan 162 in that iteration.

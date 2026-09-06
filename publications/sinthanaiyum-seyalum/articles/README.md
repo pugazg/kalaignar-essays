@@ -1,6 +1,6 @@
 # Article Assemblies — சிந்தனையும் செயலும்
 
-P3 has verified assemblies for Units **1–31**:
+P3 has verified assemblies for Units **1–34**:
 
 1. [`01-paasiyum-thoosiyum.md`](01-paasiyum-thoosiyum.md) — `பாசியும் - தூசியும்!` — 18–23
 2. [`02-athiga-uyaram-thaanduvatharku.md`](02-athiga-uyaram-thaanduvatharku.md) — `அதிக உயரம் தாண்டுவதற்கு` — 24–27
@@ -33,27 +33,26 @@ P3 has verified assemblies for Units **1–31**:
 29. [`29-chinnathirai-selvi.md`](29-chinnathirai-selvi.md) — `சின்னத்திரை “செல்வி”` — 126–129
 30. [`30-marunthena-onru.md`](30-marunthena-onru.md) — `மருந்தென ஒன்று!` — 130–133
 31. [`31-siriya-noolthaan.md`](31-siriya-noolthaan.md) — `சிறிய நூல்தான்` — 134–138
+32. [`32-mandela.md`](32-mandela.md) — `மண்டேலா` — 139–144
+33. [`33-thondullam.md`](33-thondullam.md) — `தொண்டுள்ளம்` — 145–147
+34. [`34-magalir-perani.md`](34-magalir-perani.md) — `மகளிர் பேரணி!` — 148–151
 
-All 31 carry `status: "verified"`. The assembly layer remains mechanically dependent on the canonical page layer; do not edit prose independently.
+All 34 carry `status: "verified"`. The assembly layer remains mechanically dependent on the canonical page layer; do not edit prose independently.
 
 ## Integrity / closeout
 
-- Units 1–25 scoped P4/P5: **PASS / STRICT-REVIEWED**
-- Unit 26 P3/P4/P5: **5 / 5 page blocks PASS / P4 PASS / P5 PASS / STRICT-REVIEWED**
-- Units 27–29 page/assembly equality: **13 / 13 PASS**; scoped P4/P5 **PASS / STRICT-REVIEWED**
-- Unit 30 page/assembly equality: **4 / 4 PASS**
-- Unit 31 page/assembly equality: **5 / 5 PASS**
-- Units 30–31 scoped P4: **PASS**
-- Units 30–31 scoped P5: **9 / 9 scans; 2 / 2 units PASS / STRICT-REVIEWED**
-- strict pass repaired scan 130 `மாத` → `மாசு`, propagated to Unit 30 assembly
-- Unit 32 `மண்டேலா`: scans **139–141 P2 VERIFIED / PARTIAL**; deliberately **no assembly**
+- Units 1–31: prior scoped P4/P5 **PASS / STRICT-REVIEWED**.
+- Units 32–34 canonical/assembly equality: **13 / 13 PASS**.
+- Units 32–34 scoped P4: **PASS**.
+- Units 32–34 scoped P5: **13 / 13 scans; 3 / 3 units PASS / STRICT-REVIEWED**.
+- no unresolved fidelity discrepancy remains through scan 151.
 
-Printed marginal production/form witnesses remain outside article prose, including scan 130 `9 - சி. செ. பூ. வெ. எண். 750`.
+Printed marginal production/form witnesses remain outside article prose, including scan 146 `10 - சி. செ. பூ. வெ. எண். 750`.
 
 ## Freeze
 
-Completed Units **1–31** are strict-reviewed Tamil units. Reopen only for a genuine source-supported defect. Publication-wide P5 remains pending because Unit 32 and Units 33–50 are incomplete.
+Completed Units **1–34** are strict-reviewed Tamil units. Reopen only for a genuine source-supported defect. Publication-wide P5 remains pending because Units 35–50 are incomplete.
 
 ## Next
 
-P2 **142–151 only**. Expected: finish Unit 32; complete Unit 33 `தொண்டுள்ளம்`; complete Unit 34 `மகளிர் பேரணி!`; run full P3/P4/P5 for every newly completed unit. Do not process scan 152.
+P2 **152–161 only**. Expected: complete Unit 35 `திரிகடுகம்`; complete Unit 36 `தீக்குச்சி தேடாதீர்!`; begin Unit 37 `சிலம்பும் மணியும்!` through scan 161 only. Do not process scan 162.

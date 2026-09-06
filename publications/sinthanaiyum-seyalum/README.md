@@ -11,38 +11,18 @@ Source PDFs committed: **No**
 - P0 source intake: **COMPLETE / PASS**
 - P1 metadata + contents + page map: **COMPLETE / PASS**
 - physical page records: **226 / 226 CREATED**
-- P2 direct page verification: **141 / 226 VERIFIED**
-- contiguous P2 range: **scans 1–141**
-- complete verified body units: **31 / 50**
-- P3 article assemblies: **31 / 50 VERIFIED**
-- Unit 32 `மண்டேலா`: **scans 139–141 VERIFIED / PARTIAL / no assembly**
-- Units 1–25 scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
-- Unit 26 scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
-- Units 27–29 scoped P4/P5: **PASS / 13 / 13 scans / STRICT-REVIEWED / FROZEN**
-- Units 30–31 scoped P4/P5: **PASS / 9 / 9 scans / STRICT-REVIEWED / FROZEN**
+- P2 direct page verification: **151 / 226 VERIFIED**
+- contiguous P2 range: **scans 1–151**
+- complete verified body units: **34 / 50**
+- P3 article assemblies: **34 / 50 VERIFIED**
+- completed Units 1–34 scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
 - publication-wide P4/P5: **PENDING**
-- unresolved readings in verified scans 1–141: **0**
+- unresolved readings in verified scans 1–151: **0**
 - English translation: **NOT STARTED / OUT OF CURRENT SCOPE**
 
-Recent closeout records:
-
-- [`P4_COMPLETED_UNITS_01_25.md`](P4_COMPLETED_UNITS_01_25.md)
-- [`P5_VISUAL_TEXT_FIDELITY_01_25.md`](P5_VISUAL_TEXT_FIDELITY_01_25.md)
-- [`COMPLETED_UNITS_01_25_CLOSEOUT.md`](COMPLETED_UNITS_01_25_CLOSEOUT.md)
-- [`P4_UNIT_26.md`](P4_UNIT_26.md)
-- [`P5_VISUAL_TEXT_FIDELITY_UNIT_26.md`](P5_VISUAL_TEXT_FIDELITY_UNIT_26.md)
-- [`COMPLETED_UNIT_26_CLOSEOUT.md`](COMPLETED_UNIT_26_CLOSEOUT.md)
-- [`P4_UNITS_27_29.md`](P4_UNITS_27_29.md)
-- [`P5_VISUAL_TEXT_FIDELITY_UNITS_27_29.md`](P5_VISUAL_TEXT_FIDELITY_UNITS_27_29.md)
-- [`COMPLETED_UNITS_27_29_CLOSEOUT.md`](COMPLETED_UNITS_27_29_CLOSEOUT.md)
-- [`P2_BATCH_132_141.md`](P2_BATCH_132_141.md)
-- [`P4_UNITS_30_31.md`](P4_UNITS_30_31.md)
-- [`P5_VISUAL_TEXT_FIDELITY_UNITS_30_31.md`](P5_VISUAL_TEXT_FIDELITY_UNITS_30_31.md)
-- [`COMPLETED_UNITS_30_31_CLOSEOUT.md`](COMPLETED_UNITS_30_31_CLOSEOUT.md)
+Recent batch closeout: [`P2_BATCH_142_151.md`](P2_BATCH_142_151.md), [`P4_UNITS_32_34.md`](P4_UNITS_32_34.md), [`P5_VISUAL_TEXT_FIDELITY_UNITS_32_34.md`](P5_VISUAL_TEXT_FIDELITY_UNITS_32_34.md), [`COMPLETED_UNITS_32_34_CLOSEOUT.md`](COMPLETED_UNITS_32_34_CLOSEOUT.md).
 
 ## Scan-verified publication identity
-
-The supplied 2010 edition directly supports:
 
 - title: `சிந்தனையும் செயலும்`
 - author: `கலைஞர் மு. கருணாநிதி`
@@ -57,7 +37,7 @@ The supplied 2010 edition directly supports:
 
 See [`metadata/source.md`](metadata/source.md) for split-file checksums and physical-copy evidence.
 
-## Directly verified body structure — Units 1–31
+## Directly verified body structure — Units 1–34
 
 1. `பாசியும் - தூசியும்!` — **18–23** — `27- 4 - 2005`
 2. `அதிக உயரம் தாண்டுவதற்கு` — **24–27** — `29-4-2005`
@@ -90,12 +70,11 @@ See [`metadata/source.md`](metadata/source.md) for split-file checksums and phys
 29. `சின்னத்திரை “செல்வி”` — **126–129** — `7 - 9 - 2005`
 30. `மருந்தென ஒன்று!` — **130–133** — `8 - 9 - 2005`
 31. `சிறிய நூல்தான்` — **134–138** — `10 - 9 - 2005`
-
-Unit 32 `மண்டேலா` begins at scan **139**. Scans **139–141** are directly verified; no closing date / `★★★` witness has yet been seen, so it remains deliberately unassembled.
+32. `மண்டேலா` — **139–144** — `12 - 9 - 2005`
+33. `தொண்டுள்ளம்` — **145–147** — `15 - 9 - 2005`
+34. `மகளிர் பேரணி!` — **148–151** — `22 - 9 - 2005`
 
 ## Independent source witnesses
-
-Do not harmonise contents and heading witnesses:
 
 - Unit 3: contents `என் பெயர் புரட்சி` ↔ heading `என் பெயர் புரட்சி!`
 - Unit 6: contents `வாக்குச் சீட்டின் வலிமை` ↔ heading `வாக்குச்சீட்டின் வலிமை`
@@ -103,46 +82,35 @@ Do not harmonise contents and heading witnesses:
 - Unit 11: contents `வெற்றி - தோல்வி!` ↔ heading `வெற்றி தோல்வி!`
 - Unit 15: contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!`
 - Unit 19: contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்`
-- Units 20–32: directly inspected opening-heading wording matches the printed contents witness.
+- Units 20–34: directly inspected opening-heading wording matches the printed contents witness.
 
-Unit 29 preserves its own printed Kural witness exactly, including source-visible `காப்புவென் செய்யும் ?`; no conventional Kural wording is imported.
+Unit 29 preserves source-visible Kural wording `காப்புவென் செய்யும் ?`; no conventional wording is imported.
 
 ## Printed marginal witnesses
 
-Recurring printed production/form witnesses are preserved separately from article prose:
+Recurring printed production/form lines remain separate from article prose: scans 18 (`2`), 34 (`3`), 50 (`4`), 66 (`5`), 82 (`6`), 98 (`7`), 114 (`8`), 130 (`9`), and **146 (`10`)**, each in the form `… - சி. செ. பூ. வெ. எண். 750`.
 
-- scan 18: `2 - சி. செ. பூ. வெ. எண். 750`
-- scan 34: `3 - சி. செ. பூ. வெ. எண். 750`
-- scan 50: `4 - சி. செ. பூ. வெ. எண். 750`
-- scan 66: `5 - சி. செ. பூ. வெ. எண். 750`
-- scan 82: `6 - சி. செ. பூ. வெ. எண். 750`
-- scan 98: `7 - சி. செ. பூ. வெ. எண். 750`
-- scan 114: `8 - சி. செ. பூ. வெ. எண். 750`
-- scan 130: `9 - சி. செ. பூ. வெ. எண். 750`
+## Batch 142–151 / strict-closeout notes
 
-## Batch 132–141 / strict-closeout notes
+- scans **142–151** canonical gate: **10 / 10 VERIFIED / no placeholders**;
+- Units 32–34 page/assembly equality: **13 / 13 PASS**;
+- Units 32–34 scoped P4: **PASS**;
+- Units 32–34 scoped P5: **13 / 13 scans; 3 / 3 units PASS / STRICT-REVIEWED**;
+- no post-P2 lexical correction was required in scans 139–151;
+- scan 152 was not processed.
 
-- scans **132–141** canonical gate: **10 / 10 VERIFIED / no placeholders**;
-- Unit 30 page/assembly equality: **4 / 4 PASS**;
-- Unit 31 page/assembly equality: **5 / 5 PASS**;
-- Units 30–31 scoped P4: **PASS**;
-- Units 30–31 scoped P5: **9 / 9 scans; 2 / 2 units PASS / STRICT-REVIEWED**;
-- P5 corrected scan 130 prior `மாத` → source-visible `மாசு`, propagated to Unit 30 assembly;
-- Unit 32: **139–141 P2 VERIFIED / PARTIAL / no assembly**;
-- scan 142 was not processed.
-
-Source-sensitive Unit 32 forms currently include `ஃகோசா`, `ஜோங்கின்டாபா`, `கயூனு`, `ஜோன் கின்டாபா`, `ஹெல்ட் டவுன்`, and `போர்ட் ஹேர்`.
+Source-sensitive forms preserved in this batch include `அறிவிக்கப்பட்டவே`, `தனக்குற்ற`, `ஒளியுமிழ்ந்து`, `ஒலைக் கீற்றுகளாக`, `இளைஞர்கட்கு`, `எடுத்துரைக்கும்பாணியில்`, `தங்களிஷ்டம்போல்`, and `பெருங்குறையாடு!`.
 
 ## Freeze / non-regression
 
-Completed Units **1–31** are strict-reviewed Tamil units. Reopen their wording, punctuation, title witnesses or source-sensitive readings only for a genuine controlling-scan defect. This does not freeze unfinished Unit 32 or later units.
+Completed Units **1–34** are strict-reviewed Tamil units. Reopen only for a genuine controlling-scan defect.
 
 ## Exact next activity
 
-Continue the **10 physical scans per iteration** rule with **scans 142–151 only**.
+Continue the **10 physical scans per iteration** rule with **scans 152–161 only**.
 
-- scans **142–144**: expected to finish Unit 32 `மண்டேலா`; assemble only after direct ending verification, then run scoped P4/P5;
-- expected Unit 33 `தொண்டுள்ளம்`: scans **145–147**; verify, assemble and run scoped P4/P5 only if complete;
-- expected Unit 34 `மகளிர் பேரணி!`: scans **148–151**; verify, assemble and run scoped P4/P5 only if complete;
-- **do not process scan 152**;
+- expected Unit 35 `திரிகடுகம்`: scans **152–154**; verify, assemble and run scoped P4/P5 only if the direct boundary passes;
+- expected Unit 36 `தீக்குச்சி தேடாதீர்!`: scans **155–158**; verify, assemble and run scoped P4/P5 only if complete;
+- expected Unit 37 `சிலம்பும் மணியும்!`: verify scans **159–161** only; P1 expects continuation to scan 162, so leave deliberately unassembled if incomplete;
+- **do not process scan 162**;
 - P1 spans remain provisional until direct visual verification.
