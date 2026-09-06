@@ -31,7 +31,7 @@ Publication-specific completion records remain authoritative for their frozen de
 
 ---
 
-# Publication 8 — சிந்தனையும் செயலும் — P2 ACTIVE / COMPLETED UNITS 1–25 P5-CLOSED
+# Publication 8 — சிந்தனையும் செயலும் — P2 ACTIVE / UNITS 1–26 P5-CLOSED
 
 Workspace: `publications/sinthanaiyum-seyalum/`
 
@@ -54,27 +54,35 @@ Split continuity: **PASS**. Source PDFs committed: **No**.
 - P0: **PASS**
 - P1: **PASS**
 - physical page records: **226 / 226 CREATED**
-- P2 direct verified pages: **111 / 226**
-- contiguous verified range: **1–111**
-- complete verified body units: **25 / 50**
-- P3 assemblies: **25 / 50 VERIFIED**
-- unresolved readings in verified scans 1–111: **0**
-- scoped P4 for completed Units 1–25: **25 / 25 PASS**
-- scoped P5 for completed Units 1–25: **94 / 94 body scans; 25 / 25 units PASS**
-- completed Units 1–25: **STRICT-REVIEWED / FROZEN SUBSET**
+- P2 direct verified pages: **121 / 226**
+- contiguous verified range: **1–121**
+- complete verified body units: **26 / 50**
+- P3 assemblies: **26 / 50 VERIFIED**
+- Unit 27 `தியானம்???`: **scans 117–121 P2 VERIFIED / PARTIAL / no assembly**
+- unresolved readings in verified scans 1–121: **0**
+- Units 1–25 scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
+- Unit 26 scoped P4/P5: **PASS / STRICT-REVIEWED / FROZEN**
 - publication-wide P4/P5: **PENDING**
 - Tamil archival phase for publication as a whole: **P2 ACTIVE**
 
-## Completed-subset closeout
+## New durable batch — scans 112–121
 
-Read before touching Units 1–25:
+Read:
 
-1. `publications/sinthanaiyum-seyalum/P4_COMPLETED_UNITS_01_25.md`
-2. `publications/sinthanaiyum-seyalum/P5_VISUAL_TEXT_FIDELITY_01_25.md`
-3. `publications/sinthanaiyum-seyalum/COMPLETED_UNITS_01_25_CLOSEOUT.md`
-4. earlier integrity/batch records for scans 56–111.
+1. `publications/sinthanaiyum-seyalum/P2_BATCH_112_121.md`
+2. `publications/sinthanaiyum-seyalum/P4_UNIT_26.md`
+3. `publications/sinthanaiyum-seyalum/P5_VISUAL_TEXT_FIDELITY_UNIT_26.md`
+4. `publications/sinthanaiyum-seyalum/COMPLETED_UNIT_26_CLOSEOUT.md`
 
-The P5 pass directly revisited all completed essay scans **18–111 (94 / 94)**. It found **0 new lexical body-text corrections**. It corrected the layer assignment of recurring printed production/form witnesses on scans 18, 34, 50, 66 and 82; scan 98 was already correct. Units 1 and 4 assemblies were regenerated so those marks remain outside article prose.
+Results:
+
+- Unit 26 `மகளிர் இட ஒதுக்கீடு!`: **112–116 VERIFIED**, closes `26 - 8 - 2005`;
+- Unit 26 P3 assembly: **5 / 5 page blocks PASS**;
+- Unit 26 P4: **PASS**;
+- Unit 26 P5: **5 / 5 scans PASS / 0 unresolved / STRICT-REVIEWED**;
+- scan 114 printed production witness `8 - சி. செ. பூ. வெ. எண். 750` is preserved separately from prose;
+- Unit 27 `தியானம்???`: scans **117–121 VERIFIED**; scan 121 ends mid-sentence `அவருக்கு`, so the ending is not claimed and no assembly was created;
+- scan 122 was **not processed**.
 
 ## Frozen independent title witnesses
 
@@ -87,30 +95,33 @@ Preserve:
 - Unit 15 contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!`
 - Unit 19 contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்`
 
-Units 20–25 heading wording matches the contents witness.
+Units 20–27 heading wording matches the contents witness in directly inspected opening scans.
 
 ## English
 
 - English translation: **NOT STARTED**
 - translation workspace: **NOT CREATED**
 - English remains **out of current scope**.
-- Do not start English merely because Units 1–25 are subset-frozen; the publication-level Tamil source is not complete.
+- Do not start English while the publication-level Tamil source is incomplete.
 
 ## Exact next activity
 
-Resume the user-directed **10 physical scans per iteration** P2 cadence with:
+Continue the user-directed **10 physical scans per iteration** P2 cadence with:
 
-**scans 112–121 only**.
+**scans 122–131 only**.
 
-- expected Unit 26 `மகளிர் இட ஒதுக்கீடு!`: scans **112–116**; verify directly and assemble only if the complete source boundary passes;
-- expected Unit 27 `தியானம்???`: scans **117–121** in this iteration; P1 expects it to continue to scan 122, so leave it deliberately unassembled;
-- **do not process scan 122** in this iteration;
-- P1 spans remain provisional until direct visual verification.
+- scan 122: finish Unit 27 `தியானம்???`; assemble only if its ending is directly verified;
+- expected Unit 28 `விபத்து`: scans **123–125**, provisional until direct inspection;
+- expected Unit 29 `சின்னத்திரை “செல்வி”`: scans **126–129**, provisional until direct inspection;
+- expected Unit 30 `மருந்தென ஒன்று!`: verify scans **130–131** only in this iteration; leave unassembled if it continues;
+- **do not process scan 132**;
+- canonical pages first, assemblies second;
+- completed essays should move through their scoped P4/P5 closeout before advancing further, consistent with the user's standing instruction.
 
 ## Non-regression
 
 1. Preserve Publications 1–7 frozen.
-2. Preserve Units 1–25 of `சிந்தனையும் செயலும்` as strict-reviewed Tamil unless a genuine source defect is proven.
+2. Preserve completed Units 1–26 of `சிந்தனையும் செயலும்` as strict-reviewed Tamil unless a genuine source defect is proven.
 3. Canonical page records precede assemblies.
 4. Printed marginal / physical-copy evidence stays outside article prose.
 5. Do not use OCR, web text, memory or another edition as source authority.
