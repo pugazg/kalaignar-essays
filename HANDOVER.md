@@ -79,7 +79,30 @@ Status: **T0 PASS / T1 COMPLETE / T2 PASS / T3 PASS / `draft`**
 
 ### Article 1 T2 result
 
-T2 made **8 fidelity corrections**. After T2: omitted source claims **0**, added substantive claims **0**, numbers/date/quotation completeness **PASS**, ordered source comments **6 / 6 PASS**, unresolved T2 blockers **0**, Tamil changes **0**.
+Article 1 was re-read Tamil/English sentence-by-sentence and clause-by-clause. T2 made **8 fidelity corrections**, with complete old → corrected provenance in `translations/en/TRANSLATION_REVIEW.md`.
+
+Corrections addressed:
+
+1. `பகலெலாம் போதாகி` — `swells` → `matures`;
+2. `வேடிக்கை விளையாட்டு` — restored explicit amusing-game sense;
+3. removed unsupported first-person `betrayed us`;
+4. removed added `day` from the Parliament adjournment sentence;
+5. `மாடி வீடு` / `மந்தகாச வாழ்வினர்` — `storeyed house` / `those who live in comfort`;
+6. removed added `reserved for them` from `உரிமை ஆவணம்`;
+7. clarified `அவற்றை அணிபவர்களைப் பொறுத்துத்தான் நீடிக்கும்` without adding a claim;
+8. `சீர்குலைக்கும்` — `destroying` → `undermine`.
+
+After T2:
+
+- omitted source claims: **0**;
+- added substantive claims: **0**;
+- names/referents: **PASS at T2**;
+- numbers `70`, `25` and date `27- 4 - 2005`: **PASS**;
+- quotation completeness: **PASS**;
+- displayed Tirukkural lineation: **PASS**;
+- ordered source-page comments: **6 / 6 PASS**;
+- unresolved T2 blockers: **0**;
+- Tamil changes: **0**.
 
 ### Article 1 T3 result
 

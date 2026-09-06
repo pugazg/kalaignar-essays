@@ -54,22 +54,40 @@ Article 1 is the publication's voice baseline. Complete its T1–T5 sequence bef
 - English files: **1 / 50**, Article 1 status `draft`
 - translation blockers: **0**
 
-## Article 1 completed reviews
+## Article 1 T2 result
 
-### T2 fidelity
+Article 1 was compared sentence-by-sentence and clause-by-clause against frozen Tamil blob `79791aad807179e85b4275539fff8283d2ff61b2`.
 
-T2 made **8** source-fidelity corrections. After correction: omitted source claims **0**, added substantive claims **0**, numbers/dates/quotations **PASS**, ordered source comments **6/6 PASS**, unresolved T2 blockers **0**.
+T2 made **8 fidelity corrections**, all recorded with old → corrected wording in `translations/en/TRANSLATION_REVIEW.md`. They remove or narrow T1 over-interpretation/addition while preserving the source's rhetorical structure. Key corrections include:
 
-### T3 voice
+- `swells through the whole day` → `matures through the whole day`;
+- `spectacle of jumping from branch to branch` → `an amusing game of jumping from branch to branch`;
+- removal of unsupported first-person `betrayed us`;
+- removal of added `day` in the Parliament/adjournment sentence;
+- `upstairs house` / `easy splendour` → `storeyed house` / `live in comfort`;
+- removal of added `reserved for them` from `உரிமை ஆவணம்`;
+- clarification of the purity/wearer dependency;
+- `destroying democracy` → `undermine democracy` for source `சீர்குலைக்கும்`.
 
-T3 made **9** voice-preservation corrections. The most important established decisions are:
+After correction: omitted source claims **0**, added substantive claims **0**, numbers/dates/quotations **PASS**, ordered source comments **6/6 PASS**, unresolved T2 fidelity blockers **0**. Tamil changed **0**.
 
-- restore repeated `இலக்கணம்` as **grammar of renunciation / grammar of politics** rather than splitting the metaphor into `defining mark` and `code`;
-- sharpen `ஆவேசத் தாண்டவம்` provisionally to **frenzied dance**, with terminology form still reserved for T4;
-- retain direct admonition and rhetorical questions rather than smoothing them into detached prose;
-- preserve the force of `அருவெறுப்பு`, the garment/dirt dominance image, and the closing pond/moss challenge.
+## Article 1 T3 result
 
-After T3: directness **PASS**, polemical bite **PASS**, rhetorical questions **PASS**, deliberate repetition/exclamations **PASS**, vivid metaphors **PASS**, source-page comments **6/6 PASS**, Tamil changes **0**, unresolved T3 blockers **0**.
+T3 made **9 voice-preservation corrections**, all recorded with old → corrected wording in `translations/en/TRANSLATION_REVIEW.md`.
+
+Key T3 decisions:
+
+- `he gives love its very recognition` → **he grants love full recognition**;
+- the love/politics parallel was made more direct and admonitory;
+- repeated `இலக்கணம்` was restored as **grammar of renunciation / grammar of politics** rather than split into `defining mark` / `code`;
+- `அநாகரிகக் கூடம்` retains a concrete hall image as **hall of incivility**;
+- `என்னதான் கூற முடியும் ?` regains the exasperated **What indeed can one say...?**;
+- `அருவெறுப்பு` keeps its stronger **revulsion** force and `வியப்பில்லைதான்` its **no wonder** construction;
+- `ஆவேசத் தாண்டவம்` is provisionally **frenzied dance**, with final terminology treatment reserved for T4;
+- the purity/garment cadence and `அழுக்கின் ஆதிக்கம்` image were sharpened without adding a claim;
+- the closing pond/moss rhetorical question was made direct English without abstracting the image.
+
+After T3: directness **PASS**, polemical bite **PASS**, rhetorical questions **PASS**, commands/appeals **PASS**, repetition/exclamations **PASS**, vivid metaphors **PASS**, ordered source comments **6/6 PASS**, Tamil changes **0**, unresolved T3 blockers **0**.
 
 Article 1 remains `translation_status: draft`; T4/T5 are pending.
 
