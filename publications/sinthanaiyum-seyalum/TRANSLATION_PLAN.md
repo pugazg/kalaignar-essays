@@ -15,6 +15,10 @@ Translate all **50** frozen strict-reviewed Tamil article assemblies into readab
 
 The frozen Tamil assemblies in `articles/` are the translation authorities. OCR, web text, alternate editions and remembered wording must not replace them.
 
+## Permanent `உடன்பிறப்பே` policy
+
+`உடன்பிறப்பே` is retained as **`Udanpirappē`**. Never flatten Kalaignar’s distinctive movement address into `brother`, `sister`, `sibling`, or `comrade`. This explicit user-established rule applies to every remaining article and supersedes the earlier Article 1/2 `Dear sibling,` choice.
+
 ## Tamil prerequisite — COMPLETE / FROZEN
 
 - P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**
@@ -34,45 +38,48 @@ The frozen Tamil assemblies in `articles/` are the translation authorities. OCR,
 | 4 | `குருகுலம்!` | 33–35 | `4ddbb1e64f50a471f91d402220a05814b1e2e198` | **PASS / verified** |
 | 5 | `ஜனநாயக நெறி` | 36–38 | `b5a8f2fa1414ec7c490a0da50d42da217d4581e0` | **PASS / verified** |
 | 6 | `வாக்குச்சீட்டின் வலிமை` | 39–41 | `00fe01bd3e899ca4da814c7e58428fffbd51c5f9` | **PASS / verified** |
+| 7 | `சுயமரியாதைத் திருமணம்` | 42–45 | `5d55659fb745340dbb357aba7e266ecfc8b9b57b` | **PASS / verified** |
+| 8 | `மனிதனின் மறுபக்கம்` | 46–48 | `0d7992751ad0c55d32cd47e2dff74189ef1a0a8d` | **PASS / verified** |
+| 9 | `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` | 49–51 | `bc8d633334532801065c59a02d4df340dfcd7d96` | **PASS / verified** |
+| 10 | `மனிதனும் மறுபிறவியும்` | 52–55 | `47a682dfcc482287ca9a64743947e27e5a808ee1` | **PASS / verified** |
+| 11 | `வெற்றி தோல்வி!` | 56–58 | `40110b107efeea60e9a149b06f24b3cefd6aba9c` | **PASS / verified** |
 
-Article 1 remains the voice baseline; Articles 2–6 demonstrate how its choices are applied **contextually rather than mechanically**.
+Article 1 remains the voice baseline; later decisions are applied **contextually rather than mechanically**.
 
 ## Current English gate status
 
 - E0 translation planning/setup: **COMPLETE / PASS**
-- T0 source prerequisite: **6 / 50 PASS**
-- T1 close draft: **6 / 50 COMPLETE**
-- T2 bilingual fidelity review: **6 / 50 PASS**
-- T3 Kalaignar voice review: **6 / 50 PASS**
-- T4 terminology / quotation / citation audit: **6 / 50 PASS**
-- T5 article verification: **6 / 50 PASS**
+- T0 source prerequisite: **11 / 50 PASS**
+- T1 close draft: **11 / 50 COMPLETE**
+- T2 bilingual fidelity review: **11 / 50 PASS**
+- T3 Kalaignar voice review: **11 / 50 PASS**
+- T4 terminology / quotation / citation audit: **11 / 50 PASS**
+- T5 article verification: **11 / 50 PASS**
 - E6 publication-wide consistency review: **NOT STARTED**
 - E7 release closeout: **NOT STARTED**
-- English files: **6 / 50**
-- verified English: **6 / 50**
+- English files: **11 / 50**
+- verified English: **11 / 50**
 - translation blockers: **0**
 
-## First five-article acceleration batch — Articles 2–6
+## Completed acceleration batches
 
-User-authorised batch scope: process the next five articles through T5 each.
+### Articles 2–6
 
-Results:
+All five passed T0–T5, with **0 unresolved blockers** and **0 Tamil changes**.
 
-- Article 2 **To Clear a Greater Height** — T0–T5 PASS;
-- Article 3 **My Name Is Revolution!** — T0–T5 PASS;
-- Article 4 **Gurukulam!** — T0–T5 PASS;
-- Article 5 **The Way of Democracy** — T0–T5 PASS;
-- Article 6 **The Power of the Ballot** — T0–T5 PASS;
-- unresolved blockers across batch: **0**;
-- Tamil changes caused by English work: **0**.
+### Articles 7–11
 
-Important non-regression outcomes:
+All five passed T0–T5, with **0 unresolved blockers** and **0 Tamil changes**.
 
-- Article 2 source-visible `காண விரும்பாத` was retained even though it reads unexpectedly in context; translation must not “repair” frozen Tamil semantics.
-- Article 3 source epithet `பாவேந்தர்` remains **Paavendhar**, and the personified Revolution’s violence, ridicule and satire are not softened.
-- Article 4 retains `gurukulam` and `akara practice`, with the honey/powder teaching contrast intact.
-- Article 5 translates its historical/political claims exactly from the frozen source and does not externally reconcile them.
-- Article 6 preserves the ballot, pillar, one-day-wage, sesame-tip and dusty-field images.
+Non-regression outcomes include:
+
+- Article 7 retains named **Self-Respect marriage**, `Thanthai Periyar`, `Dinamalar`, `Nenjukku Neethi`, legal-validity distinctions, all source numbers/dates, and the swimming-against-the-current image.
+- Article 8 preserves the sound-understanding / petty-understanding contrast, milk/poison image and Socrates mirror without importing explanatory doctrine.
+- Article 9 follows heading `...புதைவதா?` rather than the independent contents `...புதைவதோ?`, excludes scan 50’s production witness from prose, and translates the source news report without euphemism or outside reconciliation.
+- Article 10 preserves poetic lineation, the Valluvar/Anna rebirth image explicitly as Kalaignar’s poetic imagination, and source ritual terms `tithi`, `divasam`, `dakshina`.
+- Article 11 preserves the heading/contents difference, `honour`, `honour-wound`, the source-controlled `Purananuru` glossary, and `Kanaka Visayar` without external normalization.
+
+Full provenance: `translations/en/TRANSLATION_REVIEW.md`. Living terminology: `translations/en/LEXICON.md`.
 
 ## Working method for every remaining article
 
@@ -86,12 +93,12 @@ Important non-regression outcomes:
 
 ## Exact next activity
 
-Process **Articles 7–11** through T5 each, in order:
+Process **Articles 12–16** through T5 each, in order:
 
-7. `சுயமரியாதைத் திருமணம்` — scans 42–45;
-8. `மனிதனின் மறுபக்கம்` — scans 46–48;
-9. `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` — scans 49–51;
-10. `மனிதனும் மறுபிறவியும்` — scans 52–55;
-11. `வெற்றி தோல்வி!` — scans 56–58.
+12. `அழுக்காறு` — scans 59–61;
+13. `மிகுதிக்கண்...` — scans 62–65;
+14. `வலிவும், பொலிவும்!` — scans 66–68;
+15. `இன்பமும் துன்பமும்!` — scans 69–74;
+16. `ஒழுக்கம்` — scans 75–77.
 
-For each article, fetch and pin the **live** Tamil blob before drafting. Stop after Article 11 T5 and synchronize all English trackers before beginning Article 12.
+Fetch and pin each live Tamil blob at T0. Apply **`Udanpirappē`** wherever frozen Tamil has `உடன்பிறப்பே`. Stop after Article 16 T5 and synchronize before beginning Article 17.
