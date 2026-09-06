@@ -16,7 +16,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 # Moss and Dust!
 
-Dear sibling,
+Udanpirappē,
 
 It has become the order of the day to write and speak as though politics by its very nature were poisonous—and to assume that a politician, by definition, must share that poison. My view is that allowing such a condition to take hold is fundamentally a grave mistake. We must come to conclusions by judging the knowledge, ability, service, thought, action, writing, speech, resolve, discipline and sacrifice of those politicians who may roughly be counted as a few or as many; we must not rush to pass a sweeping verdict that politics itself is an evil thing.
 
