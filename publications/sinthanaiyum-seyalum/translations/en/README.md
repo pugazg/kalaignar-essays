@@ -13,19 +13,19 @@ Translation plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T1: **1 / 50 COMPLETE**
 - T2: **1 / 50 PASS**
 - T3: **1 / 50 PASS**
-- T4: **0 / 50**
-- T5: **0 / 50**
+- T4: **1 / 50 PASS**
+- T5: **1 / 50 PASS**
 - E6/E7: **NOT STARTED**
 - English files: **1 / 50**
-- draft English files: **1 / 50**
-- verified English files: **0 / 50**
+- draft English files: **0 / 50**
+- verified English files: **1 / 50**
 - blockers: **0**
 
 ## Article queue
 
 | # | Tamil title | Scans | English title | Status |
 |---:|---|---:|---|---|
-| 1 | `பாசியும் - தூசியும்!` | 18–23 | **Moss and Dust!** | `draft` — T0 PASS, T1 COMPLETE, T2 PASS, T3 PASS; T4 next |
+| 1 | `பாசியும் - தூசியும்!` | 18–23 | **Moss and Dust!** | `verified` — T0–T5 PASS |
 | 2 | `அதிக உயரம் தாண்டுவதற்கு` | 24–27 | — | `not-started` |
 | 3 | `என் பெயர் புரட்சி!` | 28–32 | — | `not-started` |
 | 4 | `குருகுலம்!` | 33–35 | — | `not-started` |
@@ -78,7 +78,7 @@ Translation plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 The Tamil-title column follows each article assembly heading. Independent contents-page differences remain documented in the Tamil layer and must not be used to overwrite article-heading witnesses.
 
-## Article 1 authority / T3 result
+## Article 1 authority / verified baseline
 
 - Tamil source: `../../articles/01-paasiyum-thoosiyum.md`
 - frozen Tamil blob: `79791aad807179e85b4275539fff8283d2ff61b2`
@@ -86,14 +86,14 @@ The Tamil-title column follows each article assembly heading. Independent conten
 - ordered Tamil source-page comments: **6 / 6 preserved**
 - T2 fidelity corrections: **8**
 - T3 voice corrections: **9**
-- unresolved T3 blockers: **0**
-- current gate: **T3 PASS / T4 NEXT**
-- metadata status remains: `draft`
+- T4 body corrections: **0**
+- T4 terminology / quotation / citation audit: **PASS**
+- T5 verification: **PASS**
+- unresolved Article 1 blockers: **0**
+- metadata status: **`verified`**
 
-T3 restored the repeated `இலக்கணம்` metaphor as `grammar of renunciation / grammar of politics`, retained direct rhetorical force, and preserved the `அருவெறுப்பு`, `ஆவேசத் தாண்டவம்`, garment/dirt and pond/moss images without outside substitution.
+T4 confirmed the Article 1 treatment of `Resources`, `Ayya Valluvar`, repeated `grammar`, `punugu`, `javvadu`, `frenzied dance`, `Mayandi`, `Mannar`, all seven embedded literary quotation passages, numbers `70`/`25`, the date, and all six source comments. These choices guide later articles contextually rather than mechanically.
 
 ## Exact next activity
 
-Article 1 **T4 terminology / quotation / citation audit only**. Audit the living lexicon, source-bearing terminology, quotations, dates/numbers and all six ordered source-page comments. Record corrections/no-change decisions, then stop before T5.
-
-Do **not** begin Article 2 yet.
+Article 2 `அதிக உயரம் தாண்டுவதற்கு` — perform **T0 source prerequisite**, pin the live frozen Tamil assembly blob, then complete **T1 close draft only** while preserving ordered source-page comments. Stop before Article 2 T2.
