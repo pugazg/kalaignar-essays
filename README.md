@@ -100,9 +100,11 @@ Controlling source identifier: `TVA_BOK_0065568` — **226 physical scans** supp
 - English E0: **COMPLETE / PASS**
 - T0: **1 / 50 PASS**
 - T1: **1 / 50 COMPLETE**
-- T2–T5: **0 / 50**
+- T2: **1 / 50 PASS**
+- T3–T5: **0 / 50**
 - English files: **1 / 50**, Article 1 `draft`
 - English verified: **0 / 50**
+- blockers: **0**
 
 English records:
 
@@ -111,10 +113,12 @@ English records:
 - [`translations/en/LEXICON.md`](publications/sinthanaiyum-seyalum/translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/sinthanaiyum-seyalum/translations/en/TRANSLATION_REVIEW.md)
 
+Article 1 `பாசியும் - தூசியும்!` / **Moss and Dust!** has completed **T0, T1 and T2**. T2 made **8 fidelity corrections**, with 0 remaining omission/addition blockers and all 6 source-page comments preserved.
+
 Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seyalum/)
 
 ## Current repository-level next activity
 
-`சிந்தனையும் செயலும்` Article 1 `பாசியும் - தூசியும்!` — **T2 bilingual fidelity review only**. Stop before T3 and do not begin Article 2 until the Article 1 voice baseline advances through its review gates.
+`சிந்தனையும் செயலும்` Article 1 `பாசியும் - தூசியும்!` — **T3 Kalaignar voice review only**. Stop before T4 and do not begin Article 2 until the Article 1 voice baseline completes its review gates.
 
 Preserve Publications 1–7 as released/frozen and Publication 8's Tamil layer as frozen. `HANDOVER.md` and live `main` remain authoritative over copied prompts or older checkpoints.
