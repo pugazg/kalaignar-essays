@@ -42,11 +42,19 @@ Scans 6–7 are `பதிப்புரை`; scans 8–12 are `அணிந்
 
 This is a **multi-unit essay/letter collection**. The controlling contents witness numbers **50 units total**. A separate bibliographic description saying “two letters and 50 articles” remains external and does not expand the archival unit count to 52.
 
-## Directly verified structure through Unit 25
+## Directly verified structure through Unit 26; Unit 27 partial
 
-Units **1–25** are directly verified and occupy scans **18–111**. Unit 25 crosses the transfer boundary from Part 002 scan 109 to Part 003 scans 110–111 without a source discontinuity.
+Units **1–26** are directly verified complete units and occupy scans **18–116**. Unit 27 `தியானம்???` is directly verified through scans **117–121** but remains incomplete.
 
-Closing boundary witnesses through Unit 25 are recorded in `../indexes/page-map.md` and the P2 batch records. Units 26–50 remain provisional P1 spans until direct inspection.
+Recent verified boundaries:
+
+- Unit 23 `தன்னை வெல்வான்` — scans 101–103 — closes `11 - 8 - 2005`
+- Unit 24 `இட்லர்` — scans 104–108 — closes `13 - 8 - 2005`
+- Unit 25 `இங்கர்சால்` — scans 109–111 — closes `24 - 8 - 2005`
+- Unit 26 `மகளிர் இட ஒதுக்கீடு!` — scans 112–116 — closes `26 - 8 - 2005`
+- Unit 27 `தியானம்???` — scans 117–121 verified so far; scan 121 ends mid-sentence; ending not claimed.
+
+Unit 25 crosses the Part-002 → Part-003 transfer boundary without a source discontinuity.
 
 ## Contents / heading witness distinctions
 
@@ -59,13 +67,13 @@ Preserve independently:
 - Unit 15 `இன்பமும் துன்பமும்` ↔ `இன்பமும் துன்பமும்!`
 - Unit 19 `ஆன்மிக ஆழ்கடல்!` ↔ `ஆன்மிக ஆழ்கடல்`
 
-Units 20–25 currently have matching contents/heading wording.
+Units 20–27 currently have matching contents/heading wording in directly inspected openings.
 
 ## Physical-copy / printed marginal evidence
 
 P2/P5 confirms library stamps, spotting/foxing, handling wear and bleed-through at various locations. Printed text and later physical-copy marks remain separate.
 
-The strict completed-subset review also establishes a recurring printed production/form witness:
+Recurring printed production/form witnesses:
 
 - scan 18: `2 - சி. செ. பூ. வெ. எண். 750`
 - scan 34: `3 - சி. செ. பூ. வெ. எண். 750`
@@ -73,22 +81,26 @@ The strict completed-subset review also establishes a recurring printed producti
 - scan 66: `5 - சி. செ. பூ. வெ. எண். 750`
 - scan 82: `6 - சி. செ. பூ. வெ. எண். 750`
 - scan 98: `7 - சி. செ. பூ. வெ. எண். 750`
+- scan 114: `8 - சி. செ. பூ. வெ. எண். 750`
 
 These are preserved as printed marginal witnesses, not article prose.
+
+Unit 26 opening scan 112 has printed woman-profile/floral/butterfly title decoration. Unit 27 opening scan 117 has printed monk/lamp decoration. These are design evidence and are not inserted into title prose.
 
 ## Current archival gate
 
 - page records created: **226 / 226**
-- P2 directly verified: **111 / 226**
-- contiguous verified range: **1–111**
-- complete verified body units: **25 / 50**
-- P3 assemblies: **25 / 50**
-- scoped P4 completed Units 1–25: **PASS**
-- scoped P5 completed Units 1–25: **94 / 94 body scans; 25 / 25 units PASS / STRICT-REVIEWED**
+- P2 directly verified: **121 / 226**
+- contiguous verified range: **1–121**
+- complete verified body units: **26 / 50**
+- Unit 27 P2 partial: **117–121**
+- P3 assemblies: **26 / 50**
+- scoped P4/P5 Units 1–25: **PASS / STRICT-REVIEWED**
+- scoped P4/P5 Unit 26: **PASS / STRICT-REVIEWED**
 - publication-wide P4/P5: **PENDING**
-- unresolved readings in verified scans 1–111: **0**
+- unresolved readings in verified scans 1–121: **0**
 - English: **NOT STARTED**
 
 ## Next
 
-P2 scans **112–121 only**. Do not process scan 122 in that iteration.
+P2 scans **122–131 only**. Do not process scan 132 in that iteration.
