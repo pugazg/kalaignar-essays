@@ -8,8 +8,9 @@ Physical scans: **226**
 - physical scan order is authoritative;
 - printed numerals are recorded only when directly visible;
 - contents and heading witnesses remain independent;
-- Units **1–25** have P2-directly verified boundaries;
-- Units **26–50** remain P1-provisional until direct inspection.
+- Units **1–26** have P2-directly verified boundaries;
+- Unit **27** is P2-partial through scan 121;
+- Units **28–50** remain P1-provisional until direct inspection.
 
 ## Transfer map
 
@@ -69,8 +70,8 @@ Continuity: **PASS — no gap or overlap**.
 | 23 | `தன்னை வெல்வான்` | **101–103** | **P2 VERIFIED** |
 | 24 | `இட்லர்` | **104–108** | **P2 VERIFIED** |
 | 25 | `இங்கர்சால்` | **109–111** | **P2 VERIFIED** |
-| 26 | `மகளிர் இட ஒதுக்கீடு!` | 112–116 | provisional |
-| 27 | `தியானம்???` | 117–122 | provisional |
+| 26 | `மகளிர் இட ஒதுக்கீடு!` | **112–116** | **P2 VERIFIED** |
+| 27 | `தியானம்???` | 117–122 | **P2 PARTIAL — 117–121 VERIFIED; 122 not processed** |
 | 28 | `விபத்து` | 123–125 | provisional |
 | 29 | `சின்னத்திரை “செல்வி”` | 126–129 | provisional |
 | 30 | `மருந்தென ஒன்று!` | 130–133 | provisional |
@@ -97,7 +98,7 @@ Continuity: **PASS — no gap or overlap**.
 
 Body span: **18–225**. Scan 226 is separate.
 
-## Direct boundary evidence through Unit 25
+## Direct boundary evidence through Unit 26
 
 | Unit | Heading witness | Scans | Closing date |
 |---:|---|---:|---|
@@ -126,12 +127,17 @@ Body span: **18–225**. Scan 226 is separate.
 | 23 | `தன்னை வெல்வான்` | 101–103 | `11 - 8 - 2005` |
 | 24 | `இட்லர்` | 104–108 | `13 - 8 - 2005` |
 | 25 | `இங்கர்சால்` | 109–111 | `24 - 8 - 2005` |
+| 26 | `மகளிர் இட ஒதுக்கீடு!` | 112–116 | `26 - 8 - 2005` |
+
+Unit 27 heading `தியானம்???` is directly verified on scan 117, but no closing boundary is claimed.
 
 ## Current result
 
 - physical scans accounted for: **226 / 226**
 - page records created: **226 / 226**
-- P2 verified: **111 / 226**
-- P3 assemblies: **25 / 50**
-- completed Units 1–25: **94 body scans / P4 PASS / P5 PASS**
-- next: **scans 112–121 only; stop before 122**.
+- P2 verified: **121 / 226**
+- complete units: **26 / 50**
+- P3 assemblies: **26 / 50**
+- completed Units 1–26: **scoped P4/P5 PASS / STRICT-REVIEWED**
+- Unit 27: **P2 PARTIAL through scan 121**
+- next: **scans 122–131 only; stop before 132**.
