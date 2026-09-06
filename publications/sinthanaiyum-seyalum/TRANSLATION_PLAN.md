@@ -45,26 +45,44 @@ Article 1 is the publication's voice baseline. Complete its T1–T5 sequence bef
 - E0 translation planning/setup: **COMPLETE / PASS**
 - T0 source prerequisite: **1 / 50 PASS**
 - T1 close draft: **1 / 50 COMPLETE**
-- T2 bilingual fidelity review: **0 / 50**
+- T2 bilingual fidelity review: **1 / 50 PASS**
 - T3 Kalaignar voice review: **0 / 50**
 - T4 terminology / quotation / citation audit: **0 / 50**
 - T5 article verification: **0 / 50**
 - E6 publication-wide consistency review: **NOT STARTED**
 - E7 release closeout: **NOT STARTED**
 - English files: **1 / 50**, Article 1 status `draft`
-- translation blockers: **0 source blockers**
+- translation blockers: **0**
 
-## Article 1 T1 baseline decisions
+## Article 1 T2 result
 
-These are working T1 choices, not release-frozen decisions. T2 must test them against the Tamil side by side:
+Article 1 was compared sentence-by-sentence and clause-by-clause against frozen Tamil blob `79791aad807179e85b4275539fff8283d2ff61b2`.
 
-- `உடன்பிறப்பே` → **Dear sibling,** as a source-bearing kinship salutation rather than silently substituting “Comrade” or a personal-name address;
-- `பாசியும் - தூசியும்!` → **Moss and Dust!**, preserving the closing pond/eye image;
-- Tirukkural Porutpaal division labels use close descriptive English, with `கூழியல்` provisionally **Resources**;
-- `அய்யன் வள்ளுவர்` retains the source honorific as **Ayya Valluvar**;
-- `புனுகு`, `சவ்வாது` retain source-bearing **punugu**, **javvadu** rather than speculative expansion;
-- `மாயாண்டி`, `மன்னார்` remain **Mayandi**, **Mannar** without outside identification;
-- embedded verse is translated from the frozen Tamil text, not imported from published English versions.
+T2 made **8 fidelity corrections**, all recorded with old → corrected wording in `translations/en/TRANSLATION_REVIEW.md`. They remove or narrow T1 over-interpretation/addition while preserving the source's rhetorical structure. Key corrections include:
+
+- `swells through the whole day` → `matures through the whole day`;
+- `spectacle of jumping from branch to branch` → `an amusing game of jumping from branch to branch`;
+- removal of unsupported first-person `betrayed us`;
+- removal of added `day` in the Parliament/adjournment sentence;
+- `upstairs house` / `easy splendour` → `storeyed house` / `live in comfort`;
+- removal of added `reserved for them` from `உரிமை ஆவணம்`;
+- clarification of the purity/wearer dependency;
+- `destroying democracy` → `undermine democracy` for source `சீர்குலைக்கும்`.
+
+After correction: omitted source claims **0**, added substantive claims **0**, numbers/dates/quotations **PASS**, ordered source comments **6/6 PASS**, unresolved T2 fidelity blockers **0**. Tamil changed **0**.
+
+Article 1 remains `translation_status: draft`; T3–T5 are still pending.
+
+## Article 1 source-bearing choices retained through T2
+
+- `உடன்பிறப்பே` → **Dear sibling,**;
+- title `பாசியும் - தூசியும்!` → **Moss and Dust!**;
+- `கூழியல்` → **Resources** pending T4 terminology audit;
+- Bharathidasan `கருப்பாதை` → **the path to conception**;
+- `புனுகு`, `சவ்வாது` → **punugu**, **javvadu**;
+- `மந்தகாச வாழ்வினர்` → **those who live in comfort**;
+- `மாயாண்டி`, `மன்னார்` → **Mayandi**, **Mannar**;
+- `அறநெறி தானிய விளைச்சல்` retains its grain/harvest image.
 
 ## Working method
 
@@ -82,4 +100,6 @@ The living lexicon and review ledger must be updated during the work, not recons
 
 ## Exact next activity
 
-**Article 1 `பாசியும் - தூசியும்!` — T2 bilingual fidelity review only.** Compare the frozen Tamil blob `79791aad807179e85b4275539fff8283d2ff61b2` against `translations/en/01-paasiyum-thoosiyum.md` paragraph by paragraph. Record every T2 correction in `TRANSLATION_REVIEW.md`, update the lexicon where required, then stop before T3.
+**Article 1 `பாசியும் - தூசியும்!` — T3 Kalaignar voice review only.** Read the corrected English as English while comparing with the frozen Tamil. Check directness, sarcasm/polemical bite, rhetorical questions, commands, repetition, abrupt contrasts and vivid images; record every T3 correction in `TRANSLATION_REVIEW.md`, then stop before T4.
+
+Do not begin Article 2 yet.
