@@ -1,4 +1,4 @@
-# Next Chat Prompt — Kalaignar Essays / சிந்தனையும் செயலும் — P2 scans 82–111
+# Next Chat Prompt — Kalaignar Essays / சிந்தனையும் செயலும் — P2 scans 92–101
 
 Use this only as a convenience handoff. **Live `main` and root `HANDOVER.md` are authoritative.**
 
@@ -25,30 +25,37 @@ Read completely before changing anything:
 9. `publications/sinthanaiyum-seyalum/articles/README.md`
 10. `publications/sinthanaiyum-seyalum/P2_INTEGRITY_REPAIR_56_81.md`
 11. `publications/sinthanaiyum-seyalum/P3_INTEGRITY_RECONCILIATION_56_81.md`
+12. `publications/sinthanaiyum-seyalum/P2_BATCH_82_91.md`
 
 English is not in scope.
 
 ## Durable checkpoint
 
-- scans **1–81 P2 VERIFIED**
-- all page records `0056.md`–`0081.md`: **26 / 26 verified / non-placeholder**
-- Units **1–17 P3 assemblies VERIFIED**
-- P3 verified assemblies: **17 / 50**
-- scans 82+ remain unverified
-- page/assembly consistency gate for Units 11–17: **PASS**
-- source drift found during reconciliation in scans 58, 59, 62, 63, 65, 66, 67 and 70 has been corrected and recorded
+- scans **1–91 P2 VERIFIED**
+- P2 canonical page records: **91 / 226**
+- Units **1–19 boundaries VERIFIED**
+- P3 verified assemblies: **19 / 50**
+- Unit 20 `தேனில் குழைத்துக் கொடுத்தாலும்...!`: scans **90–91 / 90–93 VERIFIED**, still incomplete and deliberately unassembled
+- Units 11–17 repair/reconciliation gate: **PASS**
+- Units 18–19 page/assembly gate: **PASS**
+
+## User-directed batching rule
+
+Process **10 physical scans per iteration** until the user changes this instruction. Do not enlarge the batch merely because more source is available.
 
 ## Exact next activity
 
-**P2 — directly transcribe and verify scans 82–111 in one coherent batch, covering Units 18–25 (`சோதிட சோகம்!` through `இங்கர்சால்`).**
+**P2 scans 92–101 only.**
 
-- scans **82–109** are Part 002;
-- scans **110–111** cross into Part 003;
-- verify each heading/start and following heading/end directly from the scan;
+- scans **92–93**: finish Unit 20 and only then build Unit-20 assembly;
+- scans **94–97**: verify Unit 21 `வியாதிக்கு விருந்தா?` and build its assembly only after all four pages pass;
+- scans **98–100**: verify Unit 22 `விளையாட்டு` and build its assembly only after all three pages pass;
+- scan **101**: verify the opening of Unit 23 `தன்னை வெல்வான்`; do **not** create Unit-23 assembly yet;
+- all are in Part 002;
 - preserve contents-title versus heading-title differences as independent witnesses;
 - keep printed text and physical-copy marks separate;
-- write/verify canonical page records before creating an assembly;
-- build an article assembly only when every included page is verified;
+- canonical page records must be written before any assembly;
+- run a page-file/non-placeholder gate and page/assembly equality gate before advancing trackers;
 - synchronize README, metadata, contents, page-map, articles tracker, root handover and this prompt.
 
 Do not use OCR or outside text as authority. Source PDFs must not be committed.

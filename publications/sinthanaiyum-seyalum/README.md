@@ -13,10 +13,10 @@ Source PDFs committed: **No**
 - P0 source intake: **COMPLETE / PASS**
 - P1 metadata + contents + page-map intake: **COMPLETE / PASS**
 - physical page records: **226 / 226 CREATED**
-- P2 page-level diplomatic transcription / direct verification: **81 / 226 VERIFIED**
-- P2 completed range: **scans 1–81**
-- P2 verified body units: **17 / 50**
-- P3 article assemblies: **17 / 50 VERIFIED**
+- P2 page-level diplomatic transcription / direct verification: **91 / 226 VERIFIED**
+- P2 completed range: **scans 1–91**
+- P2 verified body units: **19 / 50**; Unit 20 scans **90–91 / 90–93** verified in progress
+- P3 article assemblies: **19 / 50 VERIFIED**
 - Units 11–17 assemblies: **REBUILT / PAGE-ASSEMBLY CONSISTENCY GATE PASS**
 - P4 source audit: **NOT STARTED**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
@@ -41,7 +41,7 @@ The supplied 2010 scan directly supports:
 
 See [`metadata/source.md`](metadata/source.md) for the five-part checksums and physical-copy details.
 
-## Verified publication structure through Unit 17
+## Verified publication structure through Unit 19; Unit 20 partial
 
 Scans **14–15** contain a printed `பொருளடக்கம்` with **50 numbered units**. Direct P2 visual review now establishes:
 
@@ -61,7 +61,10 @@ Scans **14–15** contain a printed `பொருளடக்கம்` with **5
 14. `வலிவும், பொலிவும்!` — scans **66–68**, closes `8 - 7 - 2005`;
 15. heading `இன்பமும் துன்பமும்!` — scans **69–74**, closes `9 - 7 - 2005`;
 16. `ஒழுக்கம்` — scans **75–77**, closes `14 - 7 - 2005`;
-17. `வசிய மருந்து` — scans **78–81**, closes `18 - 7 - 2005`.
+17. `வசிய மருந்து` — scans **78–81**, closes `18 - 7 - 2005`;
+18. `சோதிட சோகம்!` — scans **82–84**, closes `1 - 8 - 2005`;
+19. heading `ஆன்மிக ஆழ்கடல்` — scans **85–89**, closes `4 - 8 - 2005`;
+20. heading `தேனில் குழைத்துக் கொடுத்தாலும்...!` — scans **90–91 VERIFIED so far**; scans 92–93 and the closing boundary remain pending.
 
 A separate user/bibliographic description says “two letters and 50 articles.” That remains a separate bibliographic witness. The controlling scan numbers **50 units total**, so the archival layer does not convert it into 52 units.
 
@@ -73,11 +76,12 @@ Do not harmonise the printed contents with the heading pages:
 - Unit 6 contents `வாக்குச் சீட்டின் வலிமை` ↔ heading **`வாக்குச்சீட்டின் வலிமை`**;
 - Unit 9 contents `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ heading **`விண்ணைத் தொட்டு மண்ணில் புதைவதா?`**;
 - Unit 11 contents `வெற்றி - தோல்வி!` ↔ heading **`வெற்றி தோல்வி!`**;
-- Unit 15 contents `இன்பமும் துன்பமும்` ↔ heading **`இன்பமும் துன்பமும்!`**.
+- Unit 15 contents `இன்பமும் துன்பமும்` ↔ heading **`இன்பமும் துன்பமும்!`**;
+- Unit 19 contents `ஆன்மிக ஆழ்கடல்!` ↔ heading **`ஆன்மிக ஆழ்கடல்`**.
 
 ## Durable source-sensitive readings
 
-Direct P2 comparison through scan 81 preserves, among others:
+Direct P2 comparison through scan 91 preserves, among others:
 
 - `ஈகிள் பிரஸ்`
 - `கருப்பாதை`, `‘ஜனநாயக’த்தில்`, `‘துறவு’ம்`, `எதிர் காலம்`, `விலங்கொடிக்க`
@@ -87,6 +91,7 @@ Direct P2 comparison through scan 81 preserves, among others:
 - `போதாகி மலர்கின்ற`, `அங்கனமாயின்`, `கவிதைக்குப் பூசும் தங்க முலாம்.`
 - `உருமாற்றவும்தான்`, `கூடவேகூடாது`
 - Units 11–17 additionally preserve `அவளுடைய மகனுக்கு`, `அவன் கையால் அளித்ததை`, source Kural spacing in `அழுக்காறு`, `அனுமதியின்றி`, `உடற்பரிசோதனை`, `திரைப்படத் தயாரிப்புக்கூடம்`, `மெளனமாகவும்`, `இருவிதமாகக்`, `இஃதோர்`, `வற்கைச் சட்டத்தின்`, `வயிற்றுப் பிழைப்பு`, `பகுத்தறிவு பரப்புவதைத்`.
+- Scans 82–91 additionally freeze `அறிவுத் தோணி`, `சமூகப் பிரக்ஞையற்றவராக`, poem-internal source spacing in the குன்றக்குடி அடிகளார் quotation, `அமைந்திடல் வேண்டுமென்பதற்கும்`, `முதலையனைய நாடுகள்`, `ஓராபி மன்னர்கள்`, `சீழ்பிடித்த புண்களின்`, and `நந்தவனத்துப் புற்றுகள் நாலைந்தில்`.
 
 Contents corrections already frozen remain Unit 18 **`சோதிட சோகம்!`**, Unit 44 **`குரு பீடமும்; குறள் பீடமும்!`**, and Unit 41 **`வலி அறிவிக்கும் வாயில்லா மொழி !`**.
 
@@ -100,4 +105,4 @@ The scan-56–81 source review is retained, but commit `c43bfc804fff68f0617c8122
 
 ## Exact next activity
 
-**P2 — directly transcribe and verify scans 82–111 in one coherent batch, covering Units 18–25 (`சோதிட சோகம்!` through `இங்கர்சால்`). Scans 82–109 are in Part 002 and scans 110–111 cross into Part 003.**
+**P2 — directly transcribe and verify the next user-directed 10-scan batch, scans 92–101. This finishes Unit 20 (92–93), covers Units 21–22 (94–100), and starts Unit 23 at scan 101. Do not process beyond scan 101 in this iteration.**

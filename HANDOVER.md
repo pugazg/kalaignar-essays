@@ -175,7 +175,7 @@ No activity is pending for `கொலைக்களம்!`.
 
 ---
 
-# Publication 8 — சிந்தனையும் செயலும் — P2 ACTIVE / SCANS 1–81 VERIFIED
+# Publication 8 — சிந்தனையும் செயலும் — P2 ACTIVE / SCANS 1–91 VERIFIED
 
 Workspace: `publications/sinthanaiyum-seyalum/`
 
@@ -197,7 +197,7 @@ The controlling witness is one **226-scan publication** supplied as five non-ove
 - original unsplit-PDF SHA-256: **not available from the supplied split files; never fabricate it**
 - source PDFs committed to repository: **No**
 
-## Verified body structure through Unit 17
+## Verified body structure through Unit 19; Unit 20 partial
 
 1. `பாசியும் - தூசியும்!` — **18–23**, `27- 4 - 2005`
 2. `அதிக உயரம் தாண்டுவதற்கு` — **24–27**, `29-4-2005`
@@ -216,8 +216,11 @@ The controlling witness is one **226-scan publication** supplied as five non-ove
 15. heading `இன்பமும் துன்பமும்!` — **69–74**, `9 - 7 - 2005`
 16. `ஒழுக்கம்` — **75–77**, `14 - 7 - 2005`
 17. `வசிய மருந்து` — **78–81**, `18 - 7 - 2005`
+18. `சோதிட சோகம்!` — **82–84**, `1 - 8 - 2005`
+19. heading `ஆன்மிக ஆழ்கடல்` — **85–89**, `4 - 8 - 2005`
+20. heading `தேனில் குழைத்துக் கொடுத்தாலும்...!` — **90–91 VERIFIED so far**; scans 92–93 pending
 
-Global scan **82** directly begins Unit 18 with heading `சோதிட சோகம்!`, confirming Unit 17 ends at scan 81. Unit 18 body remains pending P2.
+Global scan **90** directly begins Unit 20 with heading `தேனில் குழைத்துக் கொடுத்தாலும்...!`, confirming Unit 19 ends at scan 89. Scans 90–91 are P2 verified; Unit 20 remains incomplete pending scans 92–93.
 
 ## Independent witness / source-sensitive non-regression
 
@@ -228,9 +231,12 @@ Preserve contents and heading witnesses independently, including:
 - Unit 9 `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`;
 - Unit 11 `வெற்றி - தோல்வி!` ↔ `வெற்றி தோல்வி!`;
 - Unit 15 `இன்பமும் துன்பமும்` ↔ `இன்பமும் துன்பமும்!`;
+- Unit 19 `ஆன்மிக ஆழ்கடல்!` ↔ `ஆன்மிக ஆழ்கடல்`;
 - contents Unit 18 `சோதிட சோகம்!`, Unit 44 `குரு பீடமும்; குறள் பீடமும்!`, Unit 41 `வலி அறிவிக்கும் வாயில்லா மொழி !`.
 
 Direct scans 56–81 additionally freeze source-visible readings such as `அவளுடைய மகனுக்கு`, `அவன் கையால் அளித்ததை`, the printed Kural spacing under `அழுக்காறு`, `அனுமதியின்றி`, `உடற்பரிசோதனை`, `திரைப்படத் தயாரிப்புக்கூடம்`, `மெளனமாகவும்`, `இருவிதமாகக்`, `இஃதோர்`, unusual `வற்கைச் சட்டத்தின்`, `வயிற்றுப் பிழைப்பு`, and `பகுத்தறிவு பரப்புவதைத்`.
+
+Scans 82–91 additionally freeze `அறிவுத் தோணி`, `சமூகப் பிரக்ஞையற்றவராக`, source poem spacing in the குன்றக்குடி அடிகளார் quotation, `அமைந்திடல் வேண்டுமென்பதற்கும்`, `முதலையனைய நாடுகள்`, `ஓராபி மன்னர்கள்`, `சீழ்பிடித்த புண்களின்`, and `நந்தவனத்துப் புற்றுகள் நாலைந்தில்`.
 
 Do not modernise, silently correct, or harmonise these source witnesses.
 
@@ -239,14 +245,14 @@ Do not modernise, silently correct, or harmonise these source witnesses.
 - P0: **COMPLETE / PASS**
 - P1: **COMPLETE / PASS**
 - physical scan records: **226 / 226 CREATED**
-- P2 directly verified pages: **81 / 226**
-- P2 verified range: **1–81**
-- P2 verified body units: **17 / 50**
-- P3 article assemblies: **17 / 50 VERIFIED**
+- P2 directly verified pages: **91 / 226**
+- P2 verified range: **1–91**
+- P2 verified body units: **19 / 50**; Unit 20 partial through scan 91
+- P3 article assemblies: **19 / 50 VERIFIED**
 - Units 11–17: **REBUILT FROM CANONICAL P2 PAGE RECORDS / PAGE-ASSEMBLY CONSISTENCY GATE PASS**.
 - P4 source/completeness audit: **NOT STARTED**
 - P5 strict visual word/punctuation pass: **NOT STARTED**
-- unresolved readings in verified scans 1–81: **0**
+- unresolved readings in verified scans 1–91: **0**
 - Tamil archival phase: **P2 ACTIVE**
 
 ## English translation status
@@ -257,7 +263,7 @@ Do not modernise, silently correct, or harmonise these source witnesses.
 
 ## Current unresolved source / integrity questions
 
-- Units 18–50 remain pending direct P2 transcription/boundary verification.
+- Unit 20 scans 92–93 remain pending; Units 21–50 remain pending direct P2 transcription/boundary verification.
 - Original unsplit 574 MB PDF checksum remains unavailable; only the five transfer-part checksums are authoritative.
 - No body-text reading may be imported from external bibliography or inferred from contents alone.
 
@@ -271,13 +277,14 @@ Gate result: **26 / 26 pages verified and non-placeholder; 7 / 7 Units 11–17 a
 
 ## Exact next activity
 
-**P2 — directly transcribe and verify scans 82–111 in one coherent batch, covering Units 18–25 (`சோதிட சோகம்!` through `இங்கர்சால்`). Scans 82–109 are in Part 002; scans 110–111 cross into Part 003. Verify each heading/start and following heading/end directly, preserve contents-vs-heading witness differences, write canonical page records first, build article assemblies only after all included pages are verified, and synchronize all trackers/handover.**
+**User-directed 10-page iteration rule is now active. P2 next batch = scans 92–101 only. Finish Unit 20 on scans 92–93, verify Unit 21 on 94–97 and Unit 22 on 98–100, then transcribe/verify scan 101 as the opening of Unit 23. Do not process beyond scan 101 in this iteration. Write canonical page records first; build assemblies only for units whose complete page span is verified; synchronize all trackers/handover.**
 
 ## Rules for the next session
 
 1. Fetch live `main` and read this handover first.
 2. Preserve Publications 1–7 as frozen.
-3. Preserve all P2-verified scans 1–81 unless a genuine source-supported correction is found.
+3. Preserve all P2-verified scans 1–91 unless a genuine source-supported correction is found.
 4. Preserve the Units 11–17 rebuilt assemblies and their page/assembly equality gate; do not edit assembly prose independently of canonical page text.
-5. Treat Units 18–50 P1 spans as provisional until direct visual verification.
-6. Do not begin English translation.
+5. Treat the unfinished portion of Unit 20 and Units 21–50 P1 spans as provisional until direct visual verification.
+6. Respect the user-directed **10 scans per iteration** cap until the user changes it.
+7. Do not begin English translation.

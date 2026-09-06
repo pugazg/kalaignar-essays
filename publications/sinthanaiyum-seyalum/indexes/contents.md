@@ -91,8 +91,10 @@ Unit 41 also preserves the visible space in **`மொழி !`**.
 - Unit 15: contents `இன்பமும் துன்பமும்` ↔ heading **`இன்பமும் துன்பமும்!`**; scans **69–74 VERIFIED**.
 - Unit 16: contents/heading `ஒழுக்கம்`; scans **75–77 VERIFIED**.
 - Unit 17: contents/heading `வசிய மருந்து`; scans **78–81 VERIFIED**.
-- Unit 18 boundary witness: global scan 82 visibly begins heading **`சோதிட சோகம்!`**; Unit 18 body remains pending P2.
+- Unit 18: contents/heading `சோதிட சோகம்!`; scans **82–84 VERIFIED**.
+- Unit 19: contents `ஆன்மிக ஆழ்கடல்!` ↔ heading **`ஆன்மிக ஆழ்கடல்`**; scans **85–89 VERIFIED**.
+- Unit 20: contents/heading `தேனில் குழைத்துக் கொடுத்தாலும்...!`; scans **90–91 VERIFIED / 92–93 pending**; boundary not yet claimed.
 
 ## Next
 
-Integrity reconciliation: **PASS** — Units 11–17 were rebuilt from the repaired canonical page layer and page/assembly equality was confirmed. Next P2 batch: **scans 82–111 / Units 18–25**.
+Integrity reconciliation: **PASS** — Units 11–17 were rebuilt from the repaired canonical page layer and page/assembly equality was confirmed. The user has now fixed P2 work at **10 scans per iteration**. Next batch: **scans 92–101**.
