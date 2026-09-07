@@ -116,9 +116,9 @@ Is he not a man of injustice?”
 The daughter answers and manages her mother:
 
 “It was not injustice, Mother—listen!
-To that very Seeralan
-he granted the state of liberation,
-making him one among the sages.”
+For that very Seeralan,
+as one among the sages, to Sengattu Nangai
+he granted the state of liberation.”
 
 The daughter, entranced, praises Mahesan’s dance of bliss. The mother, refusing even that, sheds tears:
 
