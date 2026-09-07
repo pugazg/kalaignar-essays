@@ -73,6 +73,7 @@ Canonical P1 records:
 Source-title corrections after direct scan reinspection:
 
 - scan 36 / printed p.35: `முக்கை சித்தர்` → **`அகப்பை சித்தர்`**;
+- scan 42 / printed p.41: `கள்ளி` → **`தளிர்`**;
 - scan 136 / printed p.135: `மயிற்கு` → **`மயிலிறகு`**;
 - boundaries/page spans changed: **0**;
 - corrected-title duplicate blockers: **0**.
