@@ -17,7 +17,7 @@
 ### Cover — scan 1
 
 - lexical title: `வேதனைச் சிறையினின்றும் விடுதலை பெற`
-- cover punctuation witness: the title ends with a spaced ellipsis before `!` (`... !`)
+- cover punctuation witness: `பெற ... !`
 - creator line: `முதல்வர் டாக்டர் கலைஞர்`
 - large portrait photograph of Kalaignar
 - later/physical-copy circular blue library stamp at upper right; this is not printed publication text
@@ -25,7 +25,7 @@
 ### Title page — scan 2
 
 - lexical title is the same: `வேதனைச் சிறையினின்றும் விடுதலை பெற`
-- title-page punctuation uses a visibly longer dotted run before the final `!` than the cover; preserve the two witnesses independently rather than normalising one from the other
+- P5-confirmed title-page punctuation witness: `பெற..........!` — **10 printed dots** before final `!`
 - creator/office witness: `தமிழ்நாடு முதல்வர் மாண்புமிகு டாக்டர் கலைஞர் மு. கருணாநிதி`
 - issuing body: `தமிழ்நாடு குடும்ப நலத்துறை வெளியீடு`
 
@@ -62,62 +62,59 @@ Duplicate checks before intake:
 - body scans show light reverse-side show-through;
 - traditional/pre-reform Tamil glyph forms are used throughout the body;
 - historical glyph shapes are resolved to scan-supported underlying Tamil characters, while genuine source spelling/wording is **not** modernised;
-- no major body-text loss was found during P2 direct visual transcription;
-- P4 found **0 unresolved body-completeness blockers**.
+- no major body-text loss was found;
+- P4 source/completeness blockers: **0**;
+- P5 unresolved fidelity discrepancies: **0**.
 
 ## Page map summary
 
-| Scan | Printed folio | Role | P2 |
+| Scan | Printed folio | Role | Final Tamil status |
 |---:|---|---|---|
-| 1 | — | front cover / portrait / title | VERIFIED |
-| 2 | — | title page / creator / issuing body | VERIFIED |
-| 3 | no visible folio | body begins | VERIFIED |
-| 4 | 4 | body | VERIFIED |
-| 5 | 5 | body | VERIFIED |
-| 6 | 6 | body | VERIFIED |
-| 7 | 7 | body close + bracketed source/occasion note | VERIFIED |
-| 8 | — | back cover / printer line | VERIFIED |
+| 1 | — | front cover / portrait / title | P5 PASS |
+| 2 | — | title page / creator / issuing body | P5 PASS after dotted-run correction |
+| 3 | no visible folio | body begins | P5 PASS |
+| 4 | 4 | body | P5 PASS |
+| 5 | 5 | body | P5 PASS |
+| 6 | 6 | body | P5 PASS |
+| 7 | 7 | body close + bracketed source/occasion note | P5 PASS after word-boundary correction |
+| 8 | — | back cover / printer line | P5 PASS |
 
 There is **no printed contents page**.
 
-## P2/P3 source-sensitive forms retained
+## P5 source-sensitive forms confirmed
 
-Preserve through P5:
+Direct P5 scan recheck confirms:
 
 - scan 3 `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `யானைப் பசிக்குப் போட்ட சோளப் பொறி`;
 - scan 4 `உலகு`, `யந்திரங்களாகவே`;
 - scan 5 `அறுவை சிகிச்சைகள்` versus later `அறுவைச் சிகிச்சைக்கென்று`;
-- scan 5/6 `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` — retained and specifically queued for independent P5 recheck;
-- scan 7 `முன்பியக்கம்`, `முன்பியக்கக்`, and source-note phrasing `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`;
-- independent scan-1 / scan-2 title punctuation witnesses.
+- scan 5 `நாடாளு மன்றத்தில்`;
+- scan 6 `நாடாளு மன்றமே`;
+- scan 7 `முன்பியக்கம்`, `முன்பியக்கக்`;
+- scan-7 source note `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`.
 
-## P3 canonical assembly
+The unusual `நாடாளு மன்ற...` witnesses are source-confirmed and are not normalised.
+
+## P5 correction provenance
+
+1. scan 2 title-page dotted run: `பெற........!` → `பெற..........!`;
+2. scan 7 final paragraph: `வெற்றிக் கனியினைக்` → `வெற்றிக்கனியினைக்`.
+
+The scan-7 correction was propagated into the canonical strict-reviewed article assembly.
+
+## Canonical Tamil authority
 
 `../articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
 
-- assembled only from verified P2 body records scans 3–7;
-- ordered source-boundary comments preserved;
+- source scans: **3 → 4 → 5 → 6 → 7**;
+- status: **`strict-reviewed`**;
 - scan-7 bracketed source/occasion note retained outside the message body;
-- body omission / duplication / reorder: **0 / 0 / 0**;
-- P3 changes to P2 wording: **0**.
+- unresolved Tamil fidelity discrepancies: **0**.
 
-## P4 source/completeness audit
+## Audit records
 
-Canonical record: [`../SOURCE_COMPLETENESS_AUDIT.md`](../SOURCE_COMPLETENESS_AUDIT.md).
-
-**P4 RESULT: PASS.**
-
-- 8 / 8 canonical P2 page records present and `verified`;
-- 1 / 1 canonical P3 assembly present;
-- body source order 3 → 4 → 5 → 6 → 7: PASS;
-- source comments 5 / 5 present once and ordered;
-- scan-7 printed occasion note outside message body: PASS;
-- scans 1, 2 and 8 excluded from message body: PASS;
-- active P4 `needs-review` / `blocked`: 0 / 0;
-- source/completeness blockers: 0;
-- Tamil page/article-body changes during P4: 0.
-
-P4 is not the publication-wide strict P5 visual fidelity gate.
+- P4: [`../SOURCE_COMPLETENESS_AUDIT.md`](../SOURCE_COMPLETENESS_AUDIT.md) — **PASS**
+- P5: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md) — **PASS / 8 of 8**
 
 ## Current workflow status
 
@@ -126,7 +123,8 @@ P4 is not the publication-wide strict P5 visual fidelity gate.
 - P2 page-level transcription: **8 / 8 VERIFIED / COMPLETE**
 - P3 single-text assembly: **1 / 1 COMPLETE / PASS**
 - P4 source/completeness audit: **COMPLETE / PASS**
-- P5 strict visual word/punctuation fidelity: **NOT STARTED**
-- English workflow: **NOT STARTED; prohibited until the Tamil layer is frozen**
+- P5 strict visual word/punctuation fidelity: **8 / 8 COMPLETE / PASS**
+- Tamil archival authority: **COMPLETE / STRICT-REVIEWED / FROZEN**
+- English workflow: **NOT STARTED / UNBLOCKED**
 
-Exact next activity: **P5 strict visual word/punctuation fidelity over all 8 physical scans.**
+Exact next activity: **E0 English translation planning/setup from the frozen strict-reviewed Tamil assembly.**
