@@ -19,7 +19,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 A life of income and expenditure that does not know the measure of what is in hand and live accordingly will seem to exist, then diminish and disappear. Though Ayya Valluvar, when he said that “if a person does not know the measure of the strength and resources he possesses and live accordingly, they will diminish and disappear,” was not speaking of life itself, after strength and wealth have vanished, does not life too become useless?
 
-In another Kural in the chapter on `Knowing Strength`, he does not fail to explain that even if income is small, if one ensures that expenditure does not cross its limit, the evil called poverty can be prevented before it comes.
+In another Kural in the chapter called `Valiyuruthal`, he does not fail to explain that even if income is small, if one ensures that expenditure does not cross its limit, the evil called poverty can be prevented before it comes.
 
 The great poet Puthanchenthanar points to further strengthening counsels for making a person’s life pleasant in the work `Iniyavai Narpathu`. This too is one of the `Pathinenkeezhkanakku` works.
 
