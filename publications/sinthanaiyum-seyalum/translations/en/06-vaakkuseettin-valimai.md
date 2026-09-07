@@ -2,6 +2,7 @@
 publication: "sinthanaiyum-seyalum"
 article_number: 6
 title_ta: "வாக்குச்சீட்டின் வலிமை"
+contents_title_ta: "வாக்குச் சீட்டின் வலிமை"
 title_en: "The Power of the Ballot"
 source_tamil: "../../articles/06-vaakkuseettin-valimai.md"
 source_tamil_blob_sha: "00fe01bd3e899ca4da814c7e58428fffbd51c5f9"
