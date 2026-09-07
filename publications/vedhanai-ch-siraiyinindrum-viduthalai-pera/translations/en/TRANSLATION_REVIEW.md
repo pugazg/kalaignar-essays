@@ -19,73 +19,71 @@ Printed pages: **scan 3 unnumbered; scans 4–7 visibly 4–7**
 
 ## T1 — close English draft
 
-**COMPLETE / PASS.**
-
+**COMPLETE / PASS.**  
 T1 draft blob: `9a1f1fcc60104b561909380addbcbae422688fb2`.
 
-The complete message was translated paragraph by paragraph; all five source comments and the separated scan-7 source note were retained. The central prison metaphor, child-production/machine metaphors, elephant/sorghum image, scan-6 cumulative dash structure, snail image and closing harvest metaphor were preserved.
+The complete message was translated paragraph by paragraph with all five source comments and the separated scan-7 source note retained.
 
 ## T2 — bilingual fidelity review
 
-**COMPLETE / PASS.**
-
+**COMPLETE / PASS.**  
 Final T2 blob: `5377b7b90f87247dc910741b92244772a07bdf56`.
 
-T2 corrections included:
-
-1. `observed` → `celebrated` for `கொண்டாடப்பட்டு இருக்கிறது`;
-2. restored explicit `funds` in the crores sentence;
-3. `The one way` → `The only way` for `ஒரே வழி`;
-4. tightened Tamil Nadu's paired concern/success clause;
-5. `operations` → `surgical procedures` in the target sentence;
-6. repaired the two scan-5 funding/action transitions so English did not invent a false causal relation;
-7. restored the successive-obstacles sense;
-8. `within limits` → `at a moderate level` for `ஓரளவில் இருக்குமாறு`.
-
-T2 final checks: omissions **0**; added claims **0**; dates/numbers changed **0**; lost negatives/comparisons **0**; source comments **5/5**; source-note boundary **PASS**; unresolved fidelity defects **0**.
+Material T2 corrections restored the source force/logic of `கொண்டாடப்பட்டு இருக்கிறது`, explicit funds in the crores sentence, `ஒரே வழி`, surgery terminology, scan-5 funding/action relations, successive obstacles, and `ஓரளவில் இருக்குமாறு`. Final T2 omissions **0**, added claims **0**, changed dates/numbers **0**, unresolved fidelity defects **0**.
 
 ## T3 — Kalaignar voice review
 
+**COMPLETE / PASS.**  
+T3 blob: `df9750cfc46ac1f3519ff2d40bbe8bb3b69073a6`.
+
+Voice review strengthened directness and cadence without changing T2 meaning: `inflicts a cruelty`, `with grace and uplift`, `There seems to be no country at all...`, `we cannot proudly say`, `assailed us one after another`, `throwing itself wholeheartedly`, `is fully convinced`, `overall progress`, `I have every confidence`, and the closing `I appeal to the public`.
+
+T3 checks: rhetorical questions **PASS**; exclamation/dash force **PASS**; vivid images lost **0**; child-production/machine metaphor softening **0**; academic framing inserted **0**; unresolved voice blockers **0**.
+
+## T4 — terminology / quotation / citation audit
+
 **COMPLETE / PASS.**
 
-T3 English blob: `df9750cfc46ac1f3519ff2d40bbe8bb3b69073a6`.
+Final T4 English blob:
 
-T3 preserved T2 meaning while restoring force and cadence where English had become unnecessarily bureaucratic or flat.
+`943be32674cb3952c655f6bfed9f8b1fc0410969`
 
-### T3 voice refinements
+Canonical living lexicon: [`LEXICON.md`](LEXICON.md) — **T4 PASS**.
 
-- `wreaks a cruelty` → **`inflicts a cruelty`** while retaining the flood comparison and shock;
-- `with splendour and uplift` → **`with grace and uplift`** to keep the compact paired cadence;
-- country-response sentence made more direct: **`There seems to be no country at all that has not...`**;
-- United Nations sentence tightened without removing the source-driving dash;
-- women's-rights sentence strengthened to **`we cannot proudly say`**;
-- successive-obstacles sentence strengthened to **`assailed us one after another`** and `முழுமூச்சுடன்` carried as **`throwing itself wholeheartedly`** into driving the programme forward;
-- Tamil Nadu Government conclusion strengthened from abstract `complete faith` to **`is fully convinced`**;
-- `complete progress` → **`overall progress`** while preserving the unity contrast;
-- `I am filled with confidence` → **`I have every confidence`**;
-- closing `வேண்டிக் கொள்கிறேன்` rendered as **`I appeal to the public`**, retaining the direct closing request.
+### T4 findings
 
-### T3 voice checks
+- English title vs central body metaphor: **PASS / consistent**;
+- `Family Welfare Programme` / `Family Welfare Programme Fortnight`: **PASS / consistent**;
+- source labels `World Population Year` / `World Women's Year`: **PASS**;
+- source distinction `United Nations` / `U.N.`: **PASS**;
+- `small-family norm`: **PASS / both quoted occurrences retained**;
+- `childbearing`: **PASS / source quotation retained**;
+- `slackening`: **PASS / source quotation retained**;
+- `advance drive` / `advance-drive period`: **PASS / linked source term preserved**;
+- `in Parliament` / `Parliament itself`: **PASS / emphatic distinction preserved without editing frozen Tamil**;
+- elephant/sorghum image: **one T4 correction** — source quotation marks missing after T3 were restored around `a puffed sorghum grain tossed to an elephant's hunger`;
+- scan-6 cumulative dash sequence: **PASS**;
+- `crawl like snails`: **PASS / image preserved**;
+- closing `reap the fruit of success`: **PASS / harvest metaphor preserved**;
+- source comments: **5 / 5 present, ordered 3 → 4 → 5 → 6 → 7**;
+- scan-7 source/occasion note: **outside body / PASS**;
+- source-note exact-date discipline: **PASS**;
+- title/source-page metadata: **PASS**;
+- source-controlled years/numbers: **PASS** — 1972–73, 1974–75, 1974, 1975, 41, 39, 22, ten years, December 15, 1975;
+- outside official terminology silently imported: **0**;
+- translator explanations inserted into body: **0**;
+- frozen Tamil changes during T4: **0**;
+- unresolved terminology/quotation/citation blockers: **0**.
 
-- rhetorical questions remain questions: **PASS**;
-- commands/appeals remain direct: **PASS**;
-- exclamation-driven emphasis retained: **PASS**;
-- deliberate dashes retained where they drive accumulation/contrast: **PASS**;
-- vivid source images abstracted away: **0**;
-- harsh child-production/machine imagery softened: **0**;
-- explanatory academic framing inserted: **0**;
-- frozen Tamil changes during T3: **0**;
-- unresolved voice blockers: **0**.
+## Current established terminology
 
-## Current terminology decisions
-
+- `வேதனைச் சிறை` → **prison of suffering**;
 - `குடும்ப நலத்திட்டம்` → **Family Welfare Programme**;
 - `குடும்ப நலத்திட்ட இருவார விழா` → **Family Welfare Programme Fortnight**;
 - `பேறுகாலம்` → **childbearing**;
 - `சிறு குடும்ப நெறி` → **small-family norm**;
 - `முன்பியக்கம்` / `முன்பியக்கக் காலம்` → **advance drive / advance-drive period**;
-- `ஐக்கிய நாடுகள் மன்றம்` → **United Nations**; `ஐ.நா.` → **U.N.**;
-- `நாடாளு மன்றத்தில்` → **in Parliament**; `நாடாளு மன்றமே` → **Parliament itself**;
+- `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` → **in Parliament / Parliament itself**;
 - `வெற்றிக்கனியினைக் கொய்திட` → **reap the fruit of success**.
 
 ## Gate tracker
@@ -97,11 +95,11 @@ T3 preserved T2 meaning while restoring force and cadence where English had beco
 | T1 | **PASS** | `9a1f1fcc60104b561909380addbcbae422688fb2` |
 | T2 | **PASS** | `5377b7b90f87247dc910741b92244772a07bdf56` |
 | T3 | **PASS** | `df9750cfc46ac1f3519ff2d40bbe8bb3b69073a6` |
-| T4 | **NEXT** | terminology / quotation / citation audit |
-| T5 | **NOT STARTED** | final article verification |
+| T4 | **PASS** | `943be32674cb3952c655f6bfed9f8b1fc0410969` |
+| T5 | **NEXT** | final article verification |
 | E6 | **NOT STARTED** | publication consistency review |
 | E7 | **NOT STARTED** | release closeout |
 
 ## Exact next activity
 
-**T4 — terminology / quotation / citation audit.** Check the living lexicon, source-bearing labels, quoted phrases, all dates/numbers, five source comments, scan-7 note boundary, title consistency, source abbreviation handling and punctuation/source anomalies. Do not reopen the frozen Tamil layer.
+**T5 — article verification.** Reconfirm the frozen Tamil source blob, final English article completeness, all five source comments, source-note boundary, final lexicon decisions, metadata and zero unresolved translation blockers. If all pass, mark the English article `verified`. Do not begin E6 in the same gate.
