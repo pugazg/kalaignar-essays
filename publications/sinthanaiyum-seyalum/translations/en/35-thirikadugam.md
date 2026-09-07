@@ -33,10 +33,10 @@ Even so, noble ideas like stars flashing between clouds do not fail to attract u
 
 Here is a poem that seems to stab a finger at the condition of today's Tamil Nadu:
 
-“A town without a Kanakkayar who teaches,
-an assembly without elders who can end disputes,
-and living beside one who will not share out food—
-these three do not produce good.”
+“A town without a Kanakkayar who teaches, and
+an assembly without elders who can end disputes—and one who eats by sharing,
+yet a neighbour lacking that nature—these three
+do not produce good.”
 
 Its meaning is as follows:
 
