@@ -102,7 +102,7 @@ P1 direct-source result:
 4. `கடலே` — 28–30 / pp.27–29
 5. `ஆறு` — 31–33 / pp.30–32
 6. `வாழிய வைகறை` — 34–35 / pp.33–34
-7. `முக்கை சித்தர்` — 36–38 / pp.35–37
+7. `அகப்பை சித்தர்` — 36–38 / pp.35–37
 8. `மலையே வாழி` — 39–41 / pp.38–40
 9. `கள்ளி` — 42–45 / pp.41–44
 10. `விண்மீன்` — 46–48 / pp.45–47
@@ -121,11 +121,20 @@ P1 direct-source result:
 23. `சேவல் சண்டை` — 115–122 / pp.114–121
 24. `மடல்` — 123–128 / pp.122–127
 25. `ஆண்டு விழா` — 129–135 / pp.128–134
-26. `மயிற்கு` — 136–145 / pp.135–144
+26. `மயிலிறகு` — 136–145 / pp.135–144
+
+### Targeted P1 title-reading corrections
+
+User review identified two title misreads. Direct source reinspection confirmed:
+
+- scan 36 / printed p.35: `முக்கை சித்தர்` → **`அகப்பை சித்தர்`**;
+- scan 136 / printed p.135: `மயிற்கு` → **`மயிலிறகு`**.
+
+These corrections changed **no unit boundaries, no printed-page spans, and no unit count**. The two corrected titles were separately searched against live `kalaignar-essays`; both returned **0 exact pre-existing hits**. Duplicate blockers remain **0**.
 
 ### P1 duplicate reconciliation
 
-All **26 / 26** mapped unit titles were searched against live `pugazg/kalaignar-essays`.
+All **26 / 26 corrected mapped unit titles** have been searched against live `pugazg/kalaignar-essays`.
 
 - exact pre-existing unit-title hits returned: **0**;
 - possible duplicate blockers requiring merge/hold: **0**;
@@ -147,7 +156,7 @@ This is repository-specific only; it does not make a claim about external editio
 ## Gate state
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**;
-- P1 — metadata + page map + unit/contents mapping + duplicate reconciliation: **COMPLETE / PASS**;
+- P1 — metadata + page map + unit/contents mapping + duplicate reconciliation: **COMPLETE / PASS — corrected source-title readings synchronized**;
 - P2 — page-level transcription: **NOT STARTED / NEXT**;
 - P3 — assemblies: **NOT STARTED**;
 - P4 — source/completeness audit: **NOT STARTED**;
