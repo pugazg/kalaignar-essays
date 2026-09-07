@@ -70,13 +70,20 @@ Canonical P1 records:
 - [`indexes/contents.md`](publications/meesai-mulaiththa-vayathil/indexes/contents.md)
 - [`audit.md`](publications/meesai-mulaiththa-vayathil/audit.md)
 
-Main-unit sequence begins with `பிறையே` at scan 18 / printed p.17 and ends with `மயிற்கு` at scans 136–145 / printed pp.135–144.
+Source-title corrections after direct scan reinspection:
+
+- scan 36 / printed p.35: `முக்கை சித்தர்` → **`அகப்பை சித்தர்`**;
+- scan 136 / printed p.135: `மயிற்கு` → **`மயிலிறகு`**;
+- boundaries/page spans changed: **0**;
+- corrected-title duplicate blockers: **0**.
+
+Main-unit sequence begins with `பிறையே` at scan 18 / printed p.17 and ends with `மயிலிறகு` at scans 136–145 / printed pp.135–144.
 
 English remains **BLOCKED until Tamil P5 freeze**.
 
 ## Current repository boundary
 
-Publication 10 has **P0–P1 COMPLETE / PASS**.
+Publication 10 has **P0–P1 COMPLETE / PASS** with corrected source-visible unit titles synchronized.
 
 Exact next activity: **P2 — begin canonical page-level transcription from scan 1, creating one page record per physical scan and keeping printed text separate from physical-copy marks.**
 
