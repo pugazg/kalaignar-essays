@@ -9,33 +9,37 @@ Translation plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 - Tamil authority: **COMPLETE / STRICT-REVIEWED / RE-FROZEN**
 - E0: **COMPLETE / PASS**
-- T0: **36 / 50 PASS**
-- T1: **36 / 50 COMPLETE**
-- T2: **36 / 50 PASS**
-- T3: **36 / 50 PASS**
-- T4: **36 / 50 PASS**
-- T5: **36 / 50 PASS**
-- verified English files: **36 / 50**
+- T0: **50 / 50 PASS**
+- T1: **50 / 50 COMPLETE**
+- T2: **50 / 50 PASS**
+- T3: **50 / 50 PASS**
+- T4: **50 / 50 PASS**
+- T5: **50 / 50 PASS**
+- verified English files: **50 / 50**
 - draft English files: **0 / 50**
 - blockers: **0**
 - E6/E7: **NOT STARTED**
+
+**Article-level English translation is complete.**
 
 ## Permanent salutation rule
 
 Every exact frozen-source `உடன்பிறப்பே` remains **`Udanpirappē`**; direct salutation: **`Udanpirappē,`**. Never flatten it into `brother`, `sister`, `sibling`, `Dear sibling`, or `comrade`.
 
-Related movement-address forms now established by source context include `Udanpirappugal` and `Kazhaga Udanpirappugalē`; these supplement but do not alter the permanent exact-form rule.
+Related source-bearing movement-address forms established by the collection include `Udanpirappugal` and `Kazhaga Udanpirappugalē`; these supplement but do not alter the permanent exact-form rule.
 
 ## Review / lexicon authority chain
 
 - [`TRANSLATION_REVIEW_THROUGH_16.md`](TRANSLATION_REVIEW_THROUGH_16.md) — exact Articles 1–16 review history;
 - [`TRANSLATION_REVIEW_17_21.md`](TRANSLATION_REVIEW_17_21.md) — exact Articles 17–21 review history;
 - [`TRANSLATION_REVIEW_22_26.md`](TRANSLATION_REVIEW_22_26.md) — exact Articles 22–26 review history;
-- [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) — living review from Article 27 onward;
-- [`LEXICON_THROUGH_16.md`](LEXICON_THROUGH_16.md) — terminology through Article 16;
-- [`LEXICON.md`](LEXICON.md) — living inherited lexicon, now confirmed through Article 36.
+- [`TRANSLATION_REVIEW_27_36.md`](TRANSLATION_REVIEW_27_36.md) — exact Articles 27–36 review history;
+- [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) — final article block, Articles 37–50;
+- [`LEXICON_THROUGH_16.md`](LEXICON_THROUGH_16.md) — historical terminology through Article 16;
+- [`LEXICON_THROUGH_36.md`](LEXICON_THROUGH_36.md) — exact terminology/non-regression state through Article 36;
+- [`LEXICON.md`](LEXICON.md) — living continuation through Article 50.
 
-All remain active authority.
+All remain active authority for E6/E7.
 
 ## Article queue
 
@@ -77,40 +81,44 @@ All remain active authority.
 | 34 | `மகளிர் பேரணி!` | 148–151 | **Women's Rally!** | `verified` |
 | 35 | `திரிகடுகம்` | 152–154 | **Thirikadugam** | `verified` |
 | 36 | `தீக்குச்சி தேடாதீர்!` | 155–158 | **Don't Look for a Matchstick!** | `verified` |
-| 37 | `சிலம்பும் மணியும்!` | 159–162 | — | `not-started` |
-| 38 | `செய்ந்நன்றி` | 163–166 | — | `not-started` |
-| 39 | `பகுத்தறிவுப் பாதை!` | 167–172 | — | `not-started` |
-| 40 | `பெண்ணியப் புரட்சி!` | 173–177 | — | `not-started` |
-| 41 | `வலி அறிவிக்கும் வாயில்லா மொழி!` | 178–181 | — | `not-started` |
-| 42 | `வருமுன் காப்பதா? வந்தபின் காப்பதா?` | 182–187 | — | `not-started` |
-| 43 | `எங்கே சொர்க்கம்? எங்கே சொர்க்கம்?` | 188–191 | — | `not-started` |
-| 44 | `குரு பீடமும்; குறள் பீடமும்!` | 192–194 | — | `not-started` |
-| 45 | `இறையனார் குறளும்; இனியவை நாற்பதும்!` | 195–198 | — | `not-started` |
-| 46 | `படகுக்கு ஒரு கணக்கு; நாட்டுக்கு ஒரு கணக்கா?` | 199–203 | — | `not-started` |
-| 47 | `கலசங்கள், கலங்கரை விளக்கங்களாகலாம்!` | 204–209 | — | `not-started` |
-| 48 | `நல்வழிக்கு நாட்டாரய்யாவின் உரை!` | 210–213 | — | `not-started` |
-| 49 | `அந்தாதி பாடிய அருதகுட்டி நாடார்` | 214–220 | — | `not-started` |
-| 50 | `சிந்தனை செய் மனமே` | 221–225 | — | `not-started` |
+| 37 | `சிலம்பும் மணியும்!` | 159–162 | **The Anklet and the Gem!** | `verified` |
+| 38 | `செய்ந்நன்றி` | 163–166 | **Gratitude for Help Received** | `verified` |
+| 39 | `பகுத்தறிவுப் பாதை!` | 167–172 | **The Path of Rationalism!** | `verified` |
+| 40 | `பெண்ணியப் புரட்சி!` | 173–177 | **A Feminist Revolution!** | `verified` |
+| 41 | `வலி அறிவிக்கும் வாயில்லா மொழி!` | 178–181 | **The Mute Language That Tells of Pain!** | `verified` |
+| 42 | `வருமுன் காப்பதா? வந்தபின் காப்பதா?` | 182–187 | **Protect Before It Comes? Or After It Comes?** | `verified` |
+| 43 | `எங்கே சொர்க்கம்? எங்கே சொர்க்கம்?` | 188–191 | **Where Is Heaven? Where Is Heaven?** | `verified` |
+| 44 | `குரு பீடமும்; குறள் பீடமும்!` | 192–194 | **The Guru Peedam and the Kural Peedam!** | `verified` |
+| 45 | `இறையனார் குறளும்; இனியவை நாற்பதும்!` | 195–198 | **Iraiyanar's Kural and Iniyavai Narpathu!** | `verified` |
+| 46 | `படகுக்கு ஒரு கணக்கு; நாட்டுக்கு ஒரு கணக்கா?` | 199–203 | **One Calculation for a Boat; Another for a Country?** | `verified` |
+| 47 | `கலசங்கள், கலங்கரை விளக்கங்களாகலாம்!` | 204–209 | **Finials Can Become Lighthouses!** | `verified` |
+| 48 | `நல்வழிக்கு நாட்டாரய்யாவின் உரை!` | 210–213 | **Nattarayya's Commentary on Nalvazhi!** | `verified` |
+| 49 | `அந்தாதி பாடிய அருதகுட்டி நாடார்` | 214–220 | **Aruthakutti Nadar Who Sang an Anthathi** | `verified` |
+| 50 | `சிந்தனை செய் மனமே` | 221–225 | **Think, O Mind** | `verified` |
 
-## Frozen Tamil authority pins — Articles 27–36
+## Frozen Tamil authority pins — final article block
 
-| # | Frozen Tamil blob | English blob |
-|---:|---|---|
-| 27 | `202077d37c7211d14b0b2794d95e4240637b4c7a` | `673556b5473cc0e127a65e6c11bb918666a2022b` |
-| 28 | `64c753343356883615cd830ca5e182bc983d86fb` | `f6461a03ff624886cfb40070e8b15ef69cd53bfa` |
-| 29 | `5439e26c4b00dde37bc1842ea3665bdee721dab6` | `2c07e586c5fb456eeb1399f7b3571c768ed69b24` |
-| 30 | `3d59167549195f7603b0705e747197bf5f0b0c04` | `316b1cf10dbf2ba87968eef711d064d8b405ac1f` |
-| 31 | `62c72d2c042484757da76a40de48c021aa28e236` | `b29b5ec7a7872c3827ac3222b8186c9a390ae5c0` |
-| 32 | `c3be3082aa9bc1a3da96a819e481190974c8756e` | `d47db0613c886ae2902d43a943eaca8b9bfd0a1d` |
-| 33 | `b02e252ade6a73cf24456d41091e53fccc3a18d0` | `bd69684bb4a237d11cba87f1166e85e103cce665` |
-| 34 | `762d5ae85ebf9fb7137ed44fcb07d9cf131a4fa7` | `f03dfaa40215069366a47ea9b0ebbf1725d45498` |
-| 35 | `31df896e40b0a05d983a47e64983afe9e1b36b1b` | `f579c7d0ff5b9b1045635fff7952b56fd117b9e5` |
-| 36 | `20be4a5c41cdc88db16663e9a8e2b38f2c630470` | `4cb91f68ed4e56e4feb912c81d832fc8d9633f35` |
+| # | Frozen Tamil blob |
+|---:|---|
+| 37 | `1a65655c9637560e237e0dfbd5e8eca3e73ac438` |
+| 38 | `a9f0e266370df5624cd45180268a48642ed4e2be` |
+| 39 | `35e5cfa6e9c3ac917de1622e2b1c14482d6ba1e7` |
+| 40 | `b5d9686d8212deca7f97d48ecd73699ea28d7b94` |
+| 41 | `50df8bf451c7549cbd7a4fdd6c0955132493901c` |
+| 42 | `6f31faec899241419698e4cef24a32d5cd60c893` |
+| 43 | `ebf00e89c4efe4e825af9c72c25bbf1bec770de2` |
+| 44 | `3ab7d8009fa6d5e0d4e5ca9ef33693b74d66c1b0` |
+| 45 | `77174a3a5c70a16901725094d5939ab3552c25e4` |
+| 46 | `4a8f138d7d28cd9250b258ed0333690e20be8966` |
+| 47 | `c0a9dc605acc95a249cb9136ba0ce4ac23fb9e53` |
+| 48 | `9989a5a1265da59123e364e947fe49eaf47b4003` |
+| 49 | `b927d97b916050f6bd2bcbc62f4cfdf7ced2f50a` |
+| 50 | `e390b3b525306a4f68d37752ff6f0154912c2bed` |
 
-Articles **27–36** passed T0–T5 with **42 / 42 ordered source comments**, **0 blockers**, and **0 Tamil changes**. Review corrections made before closure are recorded in `TRANSLATION_REVIEW.md`.
+Articles **37–50** passed T0–T5 with **67 / 67 ordered source comments**, **0 blockers**, and **0 Tamil changes**. Corrections found during T2/T3—verse lineation, Article 40 `கைம்பெண்` → `widow`, Article 45 source chapter form, Article 46 non-invention of a number, Article 49 `Sengattu Nangai`, and Article 50’s missed scan-222 reflection—were all resolved before T5 and are documented in `TRANSLATION_REVIEW.md`.
 
-## Current boundary / cadence
+## Current boundary
 
-Articles **1–36** are durable verified English authority. Article **37 has not been started**.
+Articles **1–50 are durable verified English authority**. No article remains untranslated.
 
-Per user instruction, normal continuation now processes **10 articles in each iteration** where enough remain. The next prepared iteration is Articles **37–46**; stop after 46 before the final 47–50 block.
+**Next activity: E6 publication-wide English consistency review. E6 has not been started.** Run E7 release closeout only after E6 passes.
