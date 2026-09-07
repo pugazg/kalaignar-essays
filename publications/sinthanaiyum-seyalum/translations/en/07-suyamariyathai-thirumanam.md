@@ -2,6 +2,7 @@
 publication: "sinthanaiyum-seyalum"
 article_number: 7
 title_ta: "சுயமரியாதைத் திருமணம்"
+contents_title_ta: "சுயமரியாதைத் திருமணம்"
 title_en: "Self-Respect Marriage"
 source_tamil: "../../articles/07-suyamariyathai-thirumanam.md"
 source_tamil_blob_sha: "5d55659fb745340dbb357aba7e266ecfc8b9b57b"
