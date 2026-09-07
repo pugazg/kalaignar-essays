@@ -13,7 +13,7 @@ Publications **1–9 are RELEASE COMPLETE / FROZEN**. Do not reopen them from st
 Publication 10 `மீசை முளைத்த வயதில்` has completed:
 
 - P0 source intake / publication identification: **PASS**;
-- P1 metadata + complete 146-scan page map + full unit mapping / duplicate reconciliation: **PASS**, with two source-title corrections synchronized.
+- P1 metadata + complete 146-scan page map + full unit mapping / duplicate reconciliation: **PASS**, with three source-title corrections synchronized.
 
 Exact next activity: **P2 page-level transcription — scans 1–10 only**.
 
@@ -55,6 +55,7 @@ P1 duplicate reconciliation searched all **26 / 26 corrected source-visible unit
 Direct source-pixel reinspection after user review established:
 
 - scan 36 / printed p.35: **`அகப்பை சித்தர்`**, not `முக்கை சித்தர்`;
+- scan 42 / printed p.41: **`தளிர்`**, not `கள்ளி`;
 - scan 136 / printed p.135: **`மயிலிறகு`**, not `மயிற்கு`.
 
 Do not regress these readings in P2/P3. These title corrections changed no boundaries or printed-page spans.
@@ -118,7 +119,7 @@ For each record:
 
 - source PDF is never committed;
 - Publications 1–9 stay frozen;
-- corrected P1 titles `அகப்பை சித்தர்` and `மயிலிறகு` are permanent source readings unless new controlling-source evidence proves otherwise;
+- corrected P1 titles `அகப்பை சித்தர்`, `தளிர்`, and `மயிலிறகு` are permanent source readings unless new controlling-source evidence proves otherwise;
 - no P1 boundaries are changed merely for stylistic preference;
 - if direct P2 pixels prove another genuine P1 title/boundary defect, document and correct it explicitly rather than silently;
 - English remains blocked until Tamil P5 freeze.
