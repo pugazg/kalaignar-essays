@@ -87,7 +87,7 @@ P1 therefore created [`../indexes/contents.md`](../indexes/contents.md) as an ex
 | 4 | `கடலே` | 28–30 | 27–29 |
 | 5 | `ஆறு` | 31–33 | 30–32 |
 | 6 | `வாழிய வைகறை` | 34–35 | 33–34 |
-| 7 | `முக்கை சித்தர்` | 36–38 | 35–37 |
+| 7 | `அகப்பை சித்தர்` | 36–38 | 35–37 |
 | 8 | `மலையே வாழி` | 39–41 | 38–40 |
 | 9 | `கள்ளி` | 42–45 | 41–44 |
 | 10 | `விண்மீன்` | 46–48 | 45–47 |
@@ -106,15 +106,24 @@ P1 therefore created [`../indexes/contents.md`](../indexes/contents.md) as an ex
 | 23 | `சேவல் சண்டை` | 115–122 | 114–121 |
 | 24 | `மடல்` | 123–128 | 122–127 |
 | 25 | `ஆண்டு விழா` | 129–135 | 128–134 |
-| 26 | `மயிற்கு` | 136–145 | 135–144 |
+| 26 | `மயிலிறகு` | 136–145 | 135–144 |
 
 Source-titled units accounted for: **26 / 26**.  
 Boundary overlaps: **0**.  
 Unmapped body pages: **0**.
 
+## Source-title correction provenance
+
+After user review, direct source reinspection corrected two P1 heading readings:
+
+1. scan 36 / printed p.35: `முக்கை சித்தர்` → **`அகப்பை சித்தர்`**;
+2. scan 136 / printed p.135: `மயிற்கு` → **`மயிலிறகு`**.
+
+These were title-reading corrections only. Unit boundaries, printed-page spans and the 26-unit count remain unchanged. Both corrected titles were re-screened against live `pugazg/kalaignar-essays`; no exact pre-existing title hit was returned.
+
 ## P1 duplicate reconciliation
 
-Live `pugazg/kalaignar-essays/main` was searched for every one of the **26** source-visible main-unit titles after the complete source map was established.
+Live `pugazg/kalaignar-essays/main` has been searched for every one of the **26** source-visible main-unit titles, including the two corrected source readings above.
 
 - exact pre-existing unit-title hits returned: **0 / 26**;
 - possible duplicate blockers requiring merge/hold: **0**;
@@ -146,7 +155,7 @@ Do not infer a composition date for an individual internal piece merely from the
 ## Current workflow status
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**
-- P1 — metadata + full page map + unit/contents mapping + duplicate reconciliation: **COMPLETE / PASS**
+- P1 — metadata + full page map + unit/contents mapping + duplicate reconciliation: **COMPLETE / PASS — corrected source-title readings synchronized**
 - P2 — page-level transcription: **NOT STARTED / NEXT**
 - P3 — assemblies: **NOT STARTED**
 - P4 — source/completeness audit: **NOT STARTED**
