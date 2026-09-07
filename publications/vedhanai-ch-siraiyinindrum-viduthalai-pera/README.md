@@ -53,7 +53,8 @@ No printed contents page is present. One continuous message body runs through sc
 - source scans: **3 → 4 → 5 → 6 → 7**;
 - ordered source comments retained: **5 / 5**;
 - scan-7 bracketed occasion/source note remains outside the message body;
-- assembly status: **`strict-reviewed`**.
+- assembly status: **`strict-reviewed`**;
+- frozen Tamil blob SHA: `1c5870212186b2bf7ff095b245e15cd875de76f0`.
 
 ## P4 source/completeness audit
 
@@ -96,6 +97,38 @@ Independent title witnesses remain:
 - scan 1 cover: `பெற ... !`;
 - scan 2 title page: `பெற..........!`.
 
+## English translation setup
+
+### E0 — COMPLETE / PASS
+
+English planning/setup is initialized from the frozen strict-reviewed Tamil authority only.
+
+Created:
+
+- [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
+- [`translations/en/README.md`](translations/en/README.md)
+- [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+
+T0 was marked PASS only after live `main` reconfirmed the Tamil authority at blob:
+
+`1c5870212186b2bf7ff095b245e15cd875de76f0`
+
+Current English setup:
+
+- article units: **1**;
+- English article files: **0 / 1**;
+- E0: **COMPLETE / PASS**;
+- T0: **1 / 1 PASS**;
+- T1: **NOT STARTED**;
+- T2–T5: **NOT STARTED**;
+- E6/E7: **NOT STARTED**;
+- setup blockers: **0**.
+
+Working English title: **Freedom from the Prison of Suffering**.
+
+No English body translation was created during E0. Publication-specific risk passages and provisional terminology are recorded in the living lexicon and review ledger without altering the frozen Tamil layer.
+
 ## Workflow state
 
 ### Tamil archival layer
@@ -113,12 +146,14 @@ Independent title witnesses remain:
 
 ### English
 
-**NOT STARTED.** English is now unblocked because the Tamil archival authority is frozen.
+- E0 translation planning/setup: **COMPLETE / PASS**
+- T0 source prerequisite: **1 / 1 PASS**
+- T1 close English draft: **NOT STARTED**
+- English article files: **0 / 1**
+- blockers: **0**
 
 ## Exact next activity
 
-**E0 — English translation planning/setup** from the frozen strict-reviewed Tamil authority:
+**T1 — close English draft for Article 1.**
 
-`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
-
-Do not translate from OCR, raw PDF text, or a pre-P5 transcription.
+Create `translations/en/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md` from frozen Tamil blob `1c5870212186b2bf7ff095b245e15cd875de76f0`, translate the complete message paragraph by paragraph, retain all five ordered source comments, keep the scan-7 source/occasion note outside the message body, update the living lexicon/review ledger, and stop before T2.
