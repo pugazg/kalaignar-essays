@@ -22,7 +22,7 @@ Source identity:
 
 Printed p.7 says the `குடும்ப நலத்திட்ட இருவார விழா` began on **15 December 1975**. That is the fortnight start; the exact message/publication date is not separately stated.
 
-## Tamil archival authority
+## Tamil archival authority — COMPLETE / FROZEN
 
 Canonical article:
 
@@ -41,14 +41,14 @@ Tamil gates:
 - P5: **8 / 8 PASS** — [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md);
 - unresolved Tamil blockers: **0**.
 
-P5 source-supported corrections remain:
+P5 source-supported corrections remain frozen:
 
 1. scan 2 `பெற........!` → `பெற..........!`;
 2. scan 7 `வெற்றிக் கனியினைக்` → `வெற்றிக்கனியினைக்`.
 
 P5 also independently confirmed `நாடாளு மன்றத்தில்`, `நாடாளு மன்றமே`, `எங்கணும்`, `உறையுள்`, `உலகு`, `யந்திரங்களாகவே`, `முன்பியக்கம்`, `முன்பியக்கக்` and the scan-7 date-note wording without conventionalisation.
 
-## English translation — T0–T5 VERIFIED / E6 PASS
+## English translation — RELEASE COMPLETE / FROZEN
 
 English workspace:
 
@@ -57,11 +57,13 @@ English workspace:
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 - [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSISTENCY_REVIEW.md)
+- [`translations/en/E7_RELEASE_CLOSEOUT.md`](translations/en/E7_RELEASE_CLOSEOUT.md)
 - [`translations/en/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](translations/en/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md)
 
 English title: **Freedom from the Prison of Suffering**.
 
-Verified English blob: **`57bb332530e5e6de12c74f2cd40ceaccf22e41b9`**.
+Released English blob: **`57bb332530e5e6de12c74f2cd40ceaccf22e41b9`**.  
+Article frontmatter remains **`translation_status: verified`**.
 
 English gate state:
 
@@ -73,37 +75,38 @@ English gate state:
 - T4: **1 / 1 PASS**;
 - T5: **1 / 1 PASS / VERIFIED**;
 - E6: **PASS / COMPLETE**;
-- E7: **NOT STARTED / NEXT**;
+- E7: **PASS / RELEASE COMPLETE**;
 - unresolved English/release blockers: **0**.
 
-### E6 result
+### E7 release result
 
-E6 re-fetched both live authorities and confirmed:
+E7 re-fetched both live authorities and confirmed:
 
 - frozen Tamil blob unchanged: **PASS**;
-- verified English blob unchanged since T5: **PASS**;
-- source metadata linkage: **PASS**;
-- five ordered source comments `3 → 4 → 5 → 6 → 7`: **PASS**;
-- scan-7 source/occasion note outside the message body: **PASS**;
-- title/body `prison of suffering` consistency: **PASS**;
-- terminology/source-label/abbreviation consistency: **PASS**;
-- imagery/rhetorical consistency: **PASS**;
-- dates/numbers/date discipline: **PASS**;
-- English body corrections during E6: **0**;
-- English metadata corrections during E6: **0**;
-- Tamil changes during E6: **0**;
-- E6 blockers: **0**.
+- T5/E6 English blob unchanged: **PASS**;
+- English source-Tamil SHA pin: **PASS**;
+- `translation_status: verified`: **PASS**;
+- post-E6 English body drift: **0**;
+- post-E6 English metadata drift: **0**;
+- Tamil changes during E7: **0**;
+- release-blocking defects: **0**;
+- release blockers: **0**.
 
-T1–T5/E6 preserve the central prison metaphor, child-production/machine imagery, quoted elephant/sorghum image, scan-6 dash accumulation, snail imagery, closing fruit/harvest metaphor, source labels/abbreviation distinctions and all source-controlled dates/numbers.
+The final release preserves the five ordered source comments `3 → 4 → 5 → 6 → 7`, scan-7 source-note separation, central prison metaphor, child-production/machine imagery, quoted elephant/sorghum image, scan-6 dash accumulation, snail imagery, closing fruit/harvest metaphor, source labels/abbreviation distinctions and all source-controlled dates/numbers.
 
-## Current workflow state
+## Final workflow state
 
 - Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**;
 - English T0–T5: **1 / 1 COMPLETE / PASS / VERIFIED**;
 - E6: **COMPLETE / PASS**;
-- E7: **NOT STARTED / NEXT**;
-- blockers: **0**.
+- E7: **COMPLETE / PASS / RELEASE COMPLETE**;
+- blockers: **0**;
+- **Publication 9 overall: RELEASE COMPLETE / FROZEN**.
 
-## Exact next activity
+## Permanent non-regression
 
-**E7 — English release closeout.** Re-fetch the E6-passed verified English authority and frozen Tamil authority, confirm the complete T0–T5 + E6 chain and zero blockers, record the release baseline, synchronize final release status, and stop. Do not modify frozen Tamil or the verified English body unless a genuine release-blocking defect is discovered.
+Do not reopen this publication merely for stylistic preference, terminology homogenisation or modernisation. Reopen only for a genuine source-supported Tamil defect or release-blocking English defect, with explicit downstream gate reopening.
+
+## Next activity
+
+No further Publication 9 activity is pending. The next project activity is intake/onboarding of the next supplied Kalaignar essay/article publication.
