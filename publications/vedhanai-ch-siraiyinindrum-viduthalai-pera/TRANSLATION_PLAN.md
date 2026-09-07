@@ -46,8 +46,8 @@ Frontmatter status: **`translation_status: verified`**.
 | T3 | **PASS** | `df9750cfc46ac1f3519ff2d40bbe8bb3b69073a6` |
 | T4 | **PASS** | `943be32674cb3952c655f6bfed9f8b1fc0410969` |
 | T5 | **PASS / VERIFIED** | `57bb332530e5e6de12c74f2cd40ceaccf22e41b9` |
-| E6 | **NOT STARTED / NEXT** | publication consistency review |
-| E7 | **NOT STARTED** | release closeout |
+| E6 | **PASS / COMPLETE** | [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSISTENCY_REVIEW.md) |
+| E7 | **NOT STARTED / NEXT** | release closeout |
 
 ## T1–T5 outcome
 
@@ -59,6 +59,26 @@ Frontmatter status: **`translation_status: verified`**.
 - added factual claims at T5: **0**;
 - unresolved translation blockers: **0**;
 - frozen Tamil changes during English T1–T5: **0**.
+
+## E6 publication consistency outcome
+
+E6 re-fetched the live authorities and reviewed the already verified article as the complete publication English set.
+
+- frozen Tamil authority unchanged: **PASS**;
+- verified English authority unchanged since T5: **PASS**;
+- metadata/source pin: **PASS**;
+- source comments `3 → 4 → 5 → 6 → 7`: **5 / 5 PASS**;
+- scan-7 source-note boundary/date discipline: **PASS**;
+- title/metaphor consistency: **PASS**;
+- lexicon/source-label/abbreviation consistency: **PASS**;
+- imagery/rhetorical-force consistency: **PASS**;
+- dates/numbers: **PASS**;
+- English body corrections during E6: **0**;
+- English metadata corrections during E6: **0**;
+- Tamil changes during E6: **0**;
+- E6 blockers: **0**.
+
+**E6 RESULT: PASS / COMPLETE.**
 
 ## Established translation decisions
 
@@ -74,7 +94,8 @@ Frontmatter status: **`translation_status: verified`**.
 High-risk metaphors remain preserved: child production, machines for bearing children, the quoted elephant/sorghum image, snail imagery, the scan-6 dash accumulation and the closing fruit/harvest image.
 
 Detailed decisions: [`translations/en/LEXICON.md`](translations/en/LEXICON.md).  
-Full review provenance: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
+Full review provenance: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).  
+E6 record: [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSISTENCY_REVIEW.md).
 
 ## Source-note / date discipline
 
@@ -86,4 +107,4 @@ English authority is the verified article above, downstream of frozen Tamil blob
 
 ## Exact next activity
 
-Proceed with **E6 — publication-level English consistency review**. Re-fetch the verified English article and frozen Tamil authority, review title/terminology/source-note consistency and tracker state, record E6 PASS only if blockers remain 0, and stop before E7 unless separately authorised.
+Proceed with **E7 — English release closeout**. Re-fetch the E6-passed verified English authority and frozen Tamil authority, confirm the durable T0–T5 + E6 chain and zero blockers, record the release baseline, synchronize final release status, and stop. Do not change the frozen Tamil or verified English body unless a genuine release-blocking defect is found.
