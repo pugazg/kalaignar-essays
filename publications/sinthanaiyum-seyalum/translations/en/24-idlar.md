@@ -21,13 +21,13 @@ Generally, when autocrats and dictators are described, it is customary for only 
 
 “Where is Germany? It is following behind Hitler. Where is Hitler? He is striding proudly ahead of Germany.”
 
-Adolf Hitler once stood as the imposing owner of such lines of praise. I want everyone to know what I learned about him from that book, and so I give it here in the very form of the words of the book’s author, Mr. V. Saminatha Sarma.
+Adolf Hitler once stood as the proud possessor of such lines of praise. I want everyone to know what I learned about him from that book, and so I give it here in the very form of the words of the book’s author, Mr. V. Saminatha Sarma.
 
 <!-- Tamil source: scan 105 / printed 104 -->
 
 “Adolf Hitler would speak with great affection to children, whoever their parents were; he would joke with them and run about playing with them. Seeing the extraordinary affection he had for children, the people of the country, during the celebration of his 47th birthday (20-4-1936), bought about a thousand cradles. He ordered that all of them be given for the use of poor children.
 
-Hitler was outstanding in personal discipline. That is why he was full of self-confidence and strictness. He did not use cigarettes and such things; he did not drink alcohol; he would not even touch meat with his hand. The food he ate was like that of an ordinary peasant. There were no many varieties. He was satisfied with bread, fruit, milk and one kind of pulse. Even this simple food he would not sit and eat alone. He would eat only with one or two friends as guests.
+Hitler was outstanding in personal discipline. That is why he was full of self-confidence and strictness. He did not use cigarettes and such things; he did not drink alcohol; he would not even touch meat with his hand. The food he ate was like that of an ordinary peasant. There were not many varieties. He was satisfied with bread, fruit, milk and one kind of pulse. Even this simple food he would not sit and eat alone. He would eat only with one or two friends as guests.
 
 He behaved towards women with great affection and respect. The fact that he gave motherhood a lawful place of honour itself shows the reverence he displayed towards the world of women.
 
