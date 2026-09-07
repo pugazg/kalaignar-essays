@@ -16,85 +16,59 @@ Source PDFs repository-யில் commit செய்யப்படாது.
 - [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md)
 - [`docs/NEXT_CHAT_PROMPT.md`](docs/NEXT_CHAT_PROMPT.md)
 
-A compatibility pointer for historical translation-review links is retained at [`publications/ESSAY_TRANSLATION_GUIDE.md`](publications/ESSAY_TRANSLATION_GUIDE.md); the root translation guide remains canonical.
-
 ## Publication status
 
 Publications **1–8 are COMPLETE / FROZEN / RELEASED** in their established Tamil/English workflows.
 
 ### Publication 8 — சிந்தனையும் செயலும்
 
-Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seyalum/)
-
-**RELEASE COMPLETE / FROZEN.**
-
-- Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / RE-FROZEN**;
-- P2: **226 / 226 VERIFIED**;
-- P3: **50 / 50 VERIFIED**;
-- P5: **226 / 226 PASS**;
-- English T0–T5: **50 / 50 PASS**;
-- E6: **COMPLETE / PASS**;
-- E7: **COMPLETE / PASS**;
-- blockers: **0**.
-
-Canonical closeout records:
-
-- [`publications/sinthanaiyum-seyalum/translations/en/E6_CONSISTENCY_REVIEW.md`](publications/sinthanaiyum-seyalum/translations/en/E6_CONSISTENCY_REVIEW.md)
-- [`publications/sinthanaiyum-seyalum/translations/en/E7_RELEASE_CLOSEOUT.md`](publications/sinthanaiyum-seyalum/translations/en/E7_RELEASE_CLOSEOUT.md)
+**RELEASE COMPLETE / FROZEN.** Tamil P0–P5 complete/re-frozen; English T0–T5 **50 / 50 PASS**; E6/E7 **PASS**; blockers **0**.
 
 ### Publication 9 — வேதனைச் சிறையினின்றும் விடுதலை பெற
 
 Workspace: [`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/)
 
-**TAMIL COMPLETE / STRICT-REVIEWED / FROZEN — ENGLISH E0/T0 COMPLETE; T1 NEXT.**
+**TAMIL COMPLETE / STRICT-REVIEWED / FROZEN — ENGLISH T0–T5 COMPLETE / ARTICLE VERIFIED — E6 NEXT.**
 
 - controlling source: `TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf`;
-- SHA-256: `d6429304ca8e53324e41fbe6695a31d1411b12ec5e04bf5a35d8cc8a51d06651`;
+- source SHA-256: `d6429304ca8e53324e41fbe6695a31d1411b12ec5e04bf5a35d8cc8a51d06651`;
 - physical scans: **8**;
-- source form: **image-only government public-message pamphlet**;
-- issuing body: `தமிழ்நாடு குடும்ப நலத்துறை வெளியீடு`;
-- body: scans **3–7**;
-- source p.7 calls the text a `செய்தி` issued during the family-planning fortnight that began **15 December 1975**; exact message/publication date is not separately stated;
-- P0–P5: **COMPLETE / PASS**;
-- P5: **8 / 8 physical scans PASS**;
-- unresolved Tamil fidelity discrepancies: **0**;
-- Tamil workflow blockers: **0**;
-- frozen Tamil authority: [`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md), blob `1c5870212186b2bf7ff095b245e15cd875de76f0`;
-- E0 English planning/setup: **COMPLETE / PASS**;
-- T0 source prerequisite: **1 / 1 PASS**;
-- English article files: **0 / 1**;
-- T1 close draft: **NOT STARTED / NEXT**;
-- English setup blockers: **0**.
+- source type: **image-only government public-message pamphlet**;
+- Tamil P0–P5: **COMPLETE / PASS**;
+- Tamil P5 scans: **8 / 8 PASS**;
+- frozen Tamil authority: [`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md) — blob `1c5870212186b2bf7ff095b245e15cd875de76f0`;
+- English title: **Freedom from the Prison of Suffering**;
+- English T0–T5: **1 / 1 PASS**;
+- verified English authority: [`translations/en/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md) — blob `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`;
+- E6: **NOT STARTED / NEXT**;
+- E7: **NOT STARTED**;
+- unresolved Tamil blockers: **0**;
+- unresolved English translation blockers: **0**.
 
-English setup records:
+English gate history:
 
-- [`TRANSLATION_PLAN.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/TRANSLATION_PLAN.md)
-- [`translations/en/README.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/README.md)
-- [`translations/en/LEXICON.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/LEXICON.md)
-- [`translations/en/TRANSLATION_REVIEW.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/TRANSLATION_REVIEW.md)
+- T1 `9a1f1fcc60104b561909380addbcbae422688fb2`;
+- T2 `5377b7b90f87247dc910741b92244772a07bdf56`;
+- T3 `df9750cfc46ac1f3519ff2d40bbe8bb3b69073a6`;
+- T4 `943be32674cb3952c655f6bfed9f8b1fc0410969`;
+- T5 verified `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
-Working English title: **Freedom from the Prison of Suffering**.
-
-No English body was drafted during E0. The future T1 translation must use the frozen strict-reviewed Tamil assembly only, preserve the five source-page comments, and keep the scan-7 source/occasion note outside the message body.
-
-Canonical Tamil audit records:
+Canonical records:
 
 - [`SOURCE_COMPLETENESS_AUDIT.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/SOURCE_COMPLETENESS_AUDIT.md)
 - [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/VISUAL_TEXT_FIDELITY_REVIEW.md)
+- [`TRANSLATION_PLAN.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/TRANSLATION_PLAN.md)
+- [`translations/en/LEXICON.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/LEXICON.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/TRANSLATION_REVIEW.md)
 
-P5 source-supported corrections remain frozen:
-
-1. scan 2 title page: `பெற........!` → `பெற..........!` — **10 printed dots** before `!`;
-2. scan 7 final paragraph: `வெற்றிக் கனியினைக்` → `வெற்றிக்கனியினைக்`.
-
-The independently rechecked source forms `நாடாளு மன்றத்தில்` and `நாடாளு மன்றமே` are confirmed from the source pixels and remain unchanged. Other flagged historical/source-sensitive forms, including `எங்கணும்`, `உறையுள்`, `உலகு`, `யந்திரங்களாகவே`, `முன்பியக்கம்` and `முன்பியக்கக்`, also passed P5 without conventionalisation.
+P5 source-supported corrections remain frozen: scan 2 `பெற........!` → `பெற..........!`; scan 7 `வெற்றிக் கனியினைக்` → `வெற்றிக்கனியினைக்`. P5-confirmed unusual Tamil forms such as `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` remain unchanged.
 
 ### Permanent `உடன்பிறப்பே` rule
 
-Every exact source `உடன்பிறப்பே` is retained as **`Udanpirappē`** in English; direct salutation **`Udanpirappē,`**. Related plural movement-address forms remain source-bearing.
+Every exact source `உடன்பிறப்பே` is retained as **`Udanpirappē`** in English; direct salutation **`Udanpirappē,`**.
 
 ## Current repository boundary
 
-Publication 9 Tamil is **COMPLETE / STRICT-REVIEWED / FROZEN** and English **E0/T0 is COMPLETE / PASS**. Exact next activity: **T1 — close English draft for Article 1**, translating only from frozen Tamil blob `1c5870212186b2bf7ff095b245e15cd875de76f0` and stopping before T2.
+Publication 9 English article-level work is complete through **T5 / VERIFIED**. Exact next activity: **E6 — publication-level English consistency review**. Do not perform E7 in the same activity unless separately authorised.
 
 Live `main` and root [`HANDOVER.md`](HANDOVER.md) remain authoritative.
