@@ -2,6 +2,7 @@
 publication: "sinthanaiyum-seyalum"
 article_number: 3
 title_ta: "என் பெயர் புரட்சி!"
+contents_title_ta: "என் பெயர் புரட்சி"
 title_en: "My Name Is Revolution!"
 source_tamil: "../../articles/03-en-peyar-puratchi.md"
 source_tamil_blob_sha: "262febdac5ac90d78b1a6007120c3eab6f95e780"
