@@ -16,7 +16,7 @@ Source PDFs repository-யில் commit செய்யப்படாது.
 - [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md)
 - [`docs/NEXT_CHAT_PROMPT.md`](docs/NEXT_CHAT_PROMPT.md)
 
-A compatibility pointer for historical translation-review links is retained at [`publications/ESSAY_TRANSLATION_GUIDE.md`](publications/ESSAY_TRANSLATION_GUIDE.md); the root translation guide above remains canonical.
+A compatibility pointer for historical translation-review links is retained at [`publications/ESSAY_TRANSLATION_GUIDE.md`](publications/ESSAY_TRANSLATION_GUIDE.md); the root translation guide remains canonical.
 
 ## Publication status
 
@@ -28,20 +28,16 @@ Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seya
 
 **RELEASE COMPLETE / FROZEN.**
 
-- controlling source: `TVA_BOK_0065568`, **226 scans**;
 - Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / RE-FROZEN**;
 - P2: **226 / 226 VERIFIED**;
 - P3: **50 / 50 VERIFIED**;
 - P5: **226 / 226 PASS**;
-- unresolved Tamil/source discrepancies: **0**;
-- English T0–T5: **50 / 50 PASS at every gate**;
-- verified English: **50 / 50**;
-- drafts: **0 / 50**;
+- English T0–T5: **50 / 50 PASS**;
 - E6: **COMPLETE / PASS**;
 - E7: **COMPLETE / PASS**;
-- release blockers: **0**.
+- blockers: **0**.
 
-Canonical release records:
+Canonical closeout records:
 
 - [`publications/sinthanaiyum-seyalum/translations/en/E6_CONSISTENCY_REVIEW.md`](publications/sinthanaiyum-seyalum/translations/en/E6_CONSISTENCY_REVIEW.md)
 - [`publications/sinthanaiyum-seyalum/translations/en/E7_RELEASE_CLOSEOUT.md`](publications/sinthanaiyum-seyalum/translations/en/E7_RELEASE_CLOSEOUT.md)
@@ -50,7 +46,7 @@ Canonical release records:
 
 Workspace: [`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/)
 
-**ACTIVE — P0/P1/P2 COMPLETE; P3 NEXT.**
+**ACTIVE — P0/P1/P2/P3 COMPLETE; P4 NEXT.**
 
 - controlling source: `TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf`;
 - SHA-256: `d6429304ca8e53324e41fbe6695a31d1411b12ec5e04bf5a35d8cc8a51d06651`;
@@ -59,14 +55,21 @@ Workspace: [`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/`](publicat
 - issuing body: `தமிழ்நாடு குடும்ப நலத்துறை வெளியீடு`;
 - body: scans **3–7**;
 - visible printed folios: **4–7** on scans 4–7; scan 3 has no visible folio;
-- source p.7 calls the text a `செய்தி` issued during the family-planning fortnight that began **15 December 1975**; the exact message/publication date is not separately stated;
-- P0 source intake: **COMPLETE / PASS**;
-- P1 metadata/page-map/contents mapping: **COMPLETE / PASS**;
-- P2 direct-visual page transcription: **8 / 8 VERIFIED / COMPLETE**;
-- P3/P4/P5: **NOT STARTED**;
+- source p.7 calls the text a `செய்தி` issued during the family-planning fortnight that began **15 December 1975**; exact message/publication date is not separately stated;
+- P0: **COMPLETE / PASS**;
+- P1: **COMPLETE / PASS**;
+- P2: **8 / 8 VERIFIED / COMPLETE**;
+- P3 single-message assembly: **1 / 1 COMPLETE / PASS**;
+- P4/P5: **NOT STARTED**;
 - English: **NOT STARTED; blocked until Tamil freeze**.
 
-P2 preserved traditional-glyph underlying characters and source-specific forms without silent modernisation. The scan-5/6 `நாடாளு மன்ற...` witnesses are retained for an independent P5 recheck rather than conventionally corrected.
+Canonical P3 assembly:
+
+- [`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md)
+
+P3 preserved ordered source comments for scans 3–7 and kept the scan-7 bracketed occasion/source note outside the message body. No body omission, duplication, reorder or P2 text correction was required.
+
+Source-sensitive forms remain frozen only at the P2/P3 level pending P5, especially `எங்கணும்`, `உறையுள்`, `உலகு`, `யந்திரங்களாகவே`, `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே`, and `முன்பியக்கம்`. The `நாடாளு மன்ற...` witnesses must receive independent P5 recheck rather than silent normalisation.
 
 Current records:
 
@@ -74,6 +77,7 @@ Current records:
 - [`indexes/page-map.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/indexes/page-map.md)
 - [`audit.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/audit.md)
 - [`pages/`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/pages/)
+- [`articles/`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/articles/)
 
 ### Permanent `உடன்பிறப்பே` rule
 
@@ -81,6 +85,6 @@ Every exact source `உடன்பிறப்பே` is retained as **`Udanpir
 
 ## Current repository boundary
 
-Publication 9 is the **active publication**. Exact next activity: **P3 single-text assembly from verified P2 scans 3–7**. Keep scan 7's bracketed source/occasion note outside the body and do not begin P4/P5/English in the same activity unless separately authorised.
+Publication 9 is the **active publication**. Exact next activity: **P4 source/completeness audit**. Do not begin P5 or English in the same activity unless separately authorised.
 
 Live `main` and root [`HANDOVER.md`](HANDOVER.md) remain authoritative.
