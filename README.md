@@ -34,18 +34,20 @@ Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seya
 - P5: **226 / 226 PASS**;
 - unresolved Tamil/source discrepancies: **0**;
 - English E0: **PASS / COMPLETE**;
-- T0–T5: **26 / 50 PASS at every gate**;
-- verified English: **26 / 50**;
+- T0–T5: **36 / 50 PASS at every gate**;
+- verified English: **36 / 50**;
 - drafts: **0 / 50**;
 - blockers: **0**;
 - E6/E7: **NOT STARTED**.
 
-Verified English currently covers Articles **1–26**, from **Moss and Dust!** through **Women's Reservation!**. The latest five-article batch, Articles 22–26, passed T0–T5 with **19 / 19 ordered source comments**, **0 blockers**, and **0 Tamil changes**.
+Verified English currently covers Articles **1–36**, from **Moss and Dust!** through **Don't Look for a Matchstick!**. The latest ten-article iteration, Articles 27–36, passed T0–T5 with **42 / 42 ordered source comments**, **0 blockers**, and **0 Tamil changes**.
 
 ### Permanent `உடன்பிறப்பே` rule
 
-Every source `உடன்பிறப்பே` is retained as **`Udanpirappē`**; direct salutation **`Udanpirappē,`**. Never flatten it into brother/sister/sibling/Dear sibling/comrade.
+Every exact source `உடன்பிறப்பே` is retained as **`Udanpirappē`**; direct salutation **`Udanpirappē,`**. Never flatten it into brother/sister/sibling/Dear sibling/comrade. Related plural movement-address forms remain source-bearing.
 
-## Current repository boundary
+## Current repository boundary / cadence
 
-Article **27 (`தியானம்???`, scans 117–122) has not been started**. The prepared next batch is Articles **27–31**, but live `main` and root [`HANDOVER.md`](HANDOVER.md) remain authoritative and the batch must not begin until user authorization.
+Article **37 (`சிலம்பும் மணியும்!`, scans 159–162) has not been started**.
+
+Per user instruction, normal continuation now processes **10 articles per iteration** where enough remain. The next prepared iteration is Articles **37–46**. Live `main` and root [`HANDOVER.md`](HANDOVER.md) remain authoritative.
