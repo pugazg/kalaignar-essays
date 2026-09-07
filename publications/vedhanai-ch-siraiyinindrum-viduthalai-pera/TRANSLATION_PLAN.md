@@ -9,33 +9,26 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 
 > **Translate the language; do not neutralise the voice.**
 
-## Frozen Tamil prerequisite
+## Final status
 
-Canonical Tamil authority:
+Tamil archival authority: **COMPLETE / STRICT-REVIEWED / FROZEN**.  
+English translation: **COMPLETE / RELEASED / FROZEN**.
+
+Frozen Tamil authority:
 
 `articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
 
-Frozen blob SHA:
+Frozen blob SHA: **`1c5870212186b2bf7ff095b245e15cd875de76f0`**.
 
-`1c5870212186b2bf7ff095b245e15cd875de76f0`
-
-- article status: **`strict-reviewed`**;
-- source scans: **3–7**;
-- P0–P5: **COMPLETE / PASS**;
-- unresolved Tamil fidelity discrepancies: **0**;
-- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**.
-
-**T0 SOURCE PREREQUISITE: PASS — 1 / 1.**
-
-## Verified English article
+Released English authority:
 
 `translations/en/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
 
 English title: **Freedom from the Prison of Suffering**  
-Final verified English blob: **`57bb332530e5e6de12c74f2cd40ceaccf22e41b9`**  
-Frontmatter status: **`translation_status: verified`**.
+Released English blob: **`57bb332530e5e6de12c74f2cd40ceaccf22e41b9`**  
+Article status: **`translation_status: verified`**.
 
-## Gate history
+## Final gate history
 
 | Gate | Result | English blob / note |
 |---|---|---|
@@ -47,38 +40,21 @@ Frontmatter status: **`translation_status: verified`**.
 | T4 | **PASS** | `943be32674cb3952c655f6bfed9f8b1fc0410969` |
 | T5 | **PASS / VERIFIED** | `57bb332530e5e6de12c74f2cd40ceaccf22e41b9` |
 | E6 | **PASS / COMPLETE** | [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSISTENCY_REVIEW.md) |
-| E7 | **NOT STARTED / NEXT** | release closeout |
+| E7 | **PASS / RELEASE COMPLETE** | [`translations/en/E7_RELEASE_CLOSEOUT.md`](translations/en/E7_RELEASE_CLOSEOUT.md) |
 
-## T1–T5 outcome
+## Final release checks
 
 - complete English article units: **1 / 1**;
 - verified English article units: **1 / 1**;
 - source comments: **5 / 5 present and ordered**;
 - scan-7 source/occasion note: **outside message body / PASS**;
-- omitted Tamil paragraphs/clauses at T5: **0**;
-- added factual claims at T5: **0**;
-- unresolved translation blockers: **0**;
-- frozen Tamil changes during English T1–T5: **0**.
-
-## E6 publication consistency outcome
-
-E6 re-fetched the live authorities and reviewed the already verified article as the complete publication English set.
-
-- frozen Tamil authority unchanged: **PASS**;
-- verified English authority unchanged since T5: **PASS**;
-- metadata/source pin: **PASS**;
-- source comments `3 → 4 → 5 → 6 → 7`: **5 / 5 PASS**;
-- scan-7 source-note boundary/date discipline: **PASS**;
-- title/metaphor consistency: **PASS**;
-- lexicon/source-label/abbreviation consistency: **PASS**;
-- imagery/rhetorical-force consistency: **PASS**;
-- dates/numbers: **PASS**;
-- English body corrections during E6: **0**;
-- English metadata corrections during E6: **0**;
-- Tamil changes during E6: **0**;
-- E6 blockers: **0**.
-
-**E6 RESULT: PASS / COMPLETE.**
+- frozen Tamil source pin: **PASS**;
+- T5/E6 English authority unchanged at E7: **PASS**;
+- post-E6 English body drift: **0**;
+- post-E6 English metadata drift: **0**;
+- frozen Tamil changes during E7: **0**;
+- unresolved Tamil blockers: **0**;
+- unresolved English/release blockers: **0**.
 
 ## Established translation decisions
 
@@ -93,18 +69,19 @@ E6 re-fetched the live authorities and reviewed the already verified article as 
 
 High-risk metaphors remain preserved: child production, machines for bearing children, the quoted elephant/sorghum image, snail imagery, the scan-6 dash accumulation and the closing fruit/harvest image.
 
-Detailed decisions: [`translations/en/LEXICON.md`](translations/en/LEXICON.md).  
-Full review provenance: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).  
-E6 record: [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSISTENCY_REVIEW.md).
+Detailed terminology: [`translations/en/LEXICON.md`](translations/en/LEXICON.md).  
+Review provenance: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).  
+E6 consistency: [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSISTENCY_REVIEW.md).  
+E7 release: [`translations/en/E7_RELEASE_CLOSEOUT.md`](translations/en/E7_RELEASE_CLOSEOUT.md).
 
 ## Source-note / date discipline
 
 The translated scan-7 bracketed note remains separated after the message body. It states that the Family Welfare Programme Fortnight began on **December 15, 1975**; it does not create a separately stated exact message date or publication date.
 
-## Non-regression
+## Permanent non-regression
 
-English authority is the verified article above, downstream of frozen Tamil blob `1c5870212186b2bf7ff095b245e15cd875de76f0`. Do not translate/revise from OCR, raw PDF, web text, another edition or memory. If a genuine source-supported Tamil correction changes the frozen blob, explicitly reopen the affected English gates.
+Do not revise from OCR, raw PDF, web text, another edition or memory. Do not reopen this released publication merely for stylistic preference or terminology homogenisation. If a genuine source-supported Tamil correction changes the frozen blob, explicitly reopen every affected downstream English gate.
 
-## Exact next activity
+## Next activity
 
-Proceed with **E7 — English release closeout**. Re-fetch the E6-passed verified English authority and frozen Tamil authority, confirm the durable T0–T5 + E6 chain and zero blockers, record the release baseline, synchronize final release status, and stop. Do not change the frozen Tamil or verified English body unless a genuine release-blocking defect is found.
+No further translation gate is pending for this publication. The next project activity is intake/onboarding of the next supplied Kalaignar essay/article publication.
