@@ -40,23 +40,15 @@ Independent witnesses remain independent, including:
 - Unit 41 contents `வலி அறிவிக்கும் வாயில்லா மொழி !` ↔ heading `வலி அறிவிக்கும் வாயில்லா மொழி!`;
 - Unit 48 contents `நல்வழிக்கு நாட்டாரய்யாவின் உரை!...` ↔ heading `நல்வழிக்கு நாட்டாரய்யாவின் உரை!`.
 
-Unit 29’s unusual printed Kural witness `காப்புவென் செய்யும் ?` remains frozen and is not conventionally normalized. Article 29 English translation preserves this frozen witness rather than importing a conventional Kural text.
-
-Recurring printed production/form witnesses and physical-copy marks remain separated from article prose according to the canonical page records.
+Unit 29’s unusual printed Kural witness `காப்புவென் செய்யும் ?` remains frozen and is not conventionally normalized.
 
 ## Earlier strict-review corrections
 
 Earlier scoped P5 corrections remain authoritative, including scan 130 source-visible `மாசு`, scan 156 source-visible `உயிரனைய`, and scan 218 source-visible `தில்லைக் கோவிந்தர்`.
 
-## Post-freeze targeted source correction — scan 76
+### Post-freeze targeted source correction — scan 76
 
-During Article 16 English T4 source-witness review, global scan 76 was reopened directly from controlling pixels. It visibly reads:
-
-`அதற்குக் காரணமானவர்களைச் சட்டத்தின் முன்னால்`
-
-The then-frozen canonical page/assembly had `வற்கைச் சட்டத்தின்`. This was a genuine scan-demonstrated defect, not modernization or translation convenience.
-
-The correction was applied only to page 0076 and Article 16, both were re-verified/re-frozen, and no other Tamil prose changed. Unresolved discrepancies remain **0**.
+Controlling scan 76 demonstrated `அதற்குக் காரணமானவர்களைச் சட்டத்தின் முன்னால்`, not the then-canonical `வற்கைச் சட்டத்தின்`. The correction was applied only to page 0076 and Article 16, both were re-verified/re-frozen. This remains the only post-freeze Tamil correction.
 
 ## Final Tamil result
 
@@ -66,15 +58,21 @@ The correction was applied only to page 0076 and Article 16, both were re-verifi
 
 Reopen this Tamil layer only for a genuine defect demonstrated by controlling scan pixels.
 
-## Current downstream English status
+## Downstream English status after E6
 
-English translation does not alter the Tamil authority.
+English work has not altered the frozen Tamil authority.
 
 - Articles **1–50**: **T0–T5 PASS / VERIFIED**;
 - verified English: **50 / 50**;
+- **E6: COMPLETE / PASS**;
+- E7: **NOT STARTED**;
+- E6 source-pin check: **50 / 50 MATCH**;
+- E6 ordered source-comment check: **208 / 208 PASS** for scans 18–225;
 - current English blockers: **0**;
-- final Articles 37–50 block: **67 / 67 ordered source comments PASS**;
-- Tamil changes caused by Articles 37–50 English work: **0**;
-- E6/E7: **NOT STARTED**.
+- Tamil changes caused by E6: **0**.
 
-The article-translation phase is complete. Next downstream activity is **E6 publication-wide English consistency review**; it must preserve this frozen Tamil result and must not reopen Tamil absent controlling-scan proof.
+E6 added only missing `contents_title_ta` metadata to English Articles 1–10. That work preserved the source-witness distinctions above and did not change article prose or source comments.
+
+Canonical E6 record: [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSISTENCY_REVIEW.md).
+
+**Exact next downstream activity: E7 release closeout.**
