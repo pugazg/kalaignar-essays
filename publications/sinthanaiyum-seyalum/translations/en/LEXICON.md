@@ -21,66 +21,103 @@ Established earlier terms such as `Thanthai Periyar`, `Ayya Valluvar`, `Nenjukku
 | `வசிய மருந்து` | `enchantment drug` | Article 17’s supposed drug for drawing another person under one’s control. Preserve the fraud/superstition context; do not recast as a modern pharmacological diagnosis. | Article 17 | T4-confirmed |
 | `செய்வினை` | `sorcery` | Article 17 fraudster’s fallback explanation when stomach pain returns; no added ritual doctrine. | Article 17 | T4-confirmed |
 | `சித்த மருத்துவக் களஞ்சியம்` | `Siddha Maruthuva Kalanjiyam` | Source book title; retain transliteration rather than importing an outside English title. | Article 17 | T4-confirmed |
-| `பகுத்தறிவு` | `rationalism` | Article 17 closing call to educated youth; context may require `rationalist` as adjective elsewhere. | Article 17 | T4-confirmed |
-| `சோதிடம்` | `astrology` | Article 18 central term. Preserve source argument rather than externally fact-checking individual claims. | Article 18 | T4-confirmed |
-| `ஆரூடம்` | `omens` | Article 18 opening catalogue; context-specific. | Article 18 | T4-confirmed |
-| `சித்தயோகம்` | `Siddha-yogam` | Almanac-belief term in Article 18; retain source-bearing form. | Article 18 | T4-confirmed |
-| `அமிர்தயோகம்` | `Amrita-yogam` | Almanac-belief term in Articles 18 and 23; retain source-bearing form. | Article 18 | T4-confirmed |
-| `மரணயோகம்` | `Marana-yogam` | Almanac-belief term in Articles 18 and 23; retain source-bearing form. | Article 18 | T4-confirmed |
-| `அறிவியக்கம்` | `rationalist movement` | Rational-thought/reform movement context; preserve polemical force. | Article 18 | T4-confirmed |
-| `குன்றக்குடி அடிகளார்` | `Kundrakudi Adigalar` | Preserve source referential form; do not replace with outside biographical naming. | Article 19 | T4-confirmed |
-| `ஆதீனம்` | `Adheenam` | Source institutional/religious term; retain transliteration. | Article 19 | T4-confirmed |
-| `மகா சன்னிதானம்` | `Maha Sannidhanam` | Periyar’s source address for Kundrakudi Adigalar; preserve rather than substitute an outside ecclesiastical equivalent. | Article 19 | T4-confirmed |
-| `ஆன்மிக ஆழ்கடல்` | `a deep ocean of spirituality` | Article 19 title/image. Heading has no exclamation; contents witness independently has one. | Article 19 | T4-confirmed |
-| `பயங்கரவாதம்` | `terrorism` | Article 20 explicitly contrasts this label with `தீவிரவாதம்`; keep both source labels distinct. | Article 20 | T4-confirmed |
-| `தீவிரவாதம்` | `extremism` | Article 20 says some use this as the more delicate label for `பயங்கரவாதம்`; do not silently harmonise the pair. | Article 20 | T4-confirmed |
-| `ஓராபி மன்னர்கள்` | `Orabi kings` | Source-visible historical form in Article 20; retain without outside normalization or identification. | Article 20 | T4-confirmed |
-| `சாத்வீக மார்க்க நன்னெறி` | `the good path of peaceful means` | Article 20 contrast with violent extremist action; contextual rendering, not a universal doctrinal gloss. | Article 20 | T4-confirmed |
-| `மோர்சிங்` | `morsing` | Article 21 joke comparing tongue-wetting envelope adhesive to playing the instrument; retain source-bearing term without outside expansion. | Article 21 | T4-confirmed |
-| `(Infection)` | preserve source English parenthetical | Article 21 already contains this English witness inside Tamil prose; keep it visibly source-derived rather than silently deleting it. | Article 21 | T4-confirmed |
-| `அழுக்குச் சேமிப்பு ஆலை` | `dirt-storage factory` | Article 21 closing satirical image; preserve the deliberately unpleasant concreteness. | Article 21 | T4-confirmed |
-| `விளையாட்டு` | `sport` / contextual `play` | Article 22 title and national competition discussion use **sport**; the opening Ramayana/proverb passage requires **play**. Do not force one English word across both rhetorical functions. | Article 22 | T4-confirmed |
-| `விளையாட்டு வினையாகும்` | `play can turn into trouble` | Article 22 proverb; preserve warning/action rather than importing an unrelated English proverb. | Article 22 | T4-confirmed |
-| `குதிரைக் கொம்பு` | `as rare as a horse’s horn` | Article 22 deliberately concrete image for something virtually unattainable/rare. | Article 22 | T4-confirmed |
-| `குடத்து விளக்கு` | `lamp shut inside a pot` | Article 22 contrast with a lighthouse spreading light in all four directions; preserve the narrow-vision image. | Article 22 | T4-confirmed |
-| `மிட்டாதார்` | `Mittadar` | Article 23 source-bearing social/title form. Retain rather than silently identify or replace it from outside knowledge. | Article 23 | T4-confirmed |
-| `தோஷம்` | `dosham` | Article 23 `தோஷம் கழித்தல்` context; retain source-bearing ritual term without doctrinal expansion. | Article 23 | T4-confirmed |
-| `ராகு காலம்` | `Rahu Kalam` | Article 23 astrology catalogue; retain source-bearing form. | Article 23 | T4-confirmed |
-| `குளிகை காலம்` | `Kuligai Kalam` | Article 23 astrology catalogue; retain source-bearing form. | Article 23 | T4-confirmed |
-| `இட்லர்` / `ஹிட்லர்` | `Hitler` | Article 24 uses source Tamil variants; English uses the conventional proper-name form while translating all dates/claims from the frozen source without outside correction. | Article 24 | T4-confirmed |
-| `வான்கார்` | `Vankaar` | Article 24 source-visible name; retain source-bearing form rather than externally identifying/normalising it. | Article 24 | T4-confirmed |
-| `இங்கர்சால்` | `Ingersoll` | Article 25 English proper-name form; do not expand to a fuller identity not supplied by the frozen article. | Article 25 | T4-confirmed |
-| `திரிஸ்டன்` | `Tristan` | Article 25 source village form; no outside place correction imported. | Article 25 | T4-confirmed |
-| `கிளரிமண்ட்` | `Klarimont` | Article 25 source-bearing place form; retain instead of silently normalising from outside geography. | Article 25 | T4-confirmed |
-| `நீக்ரோ` | `Negro` | Article 25 historical source label is retained to represent the frozen wording. **Source-specific historical usage only; not a general preferred term.** | Article 25 | T4-confirmed |
-| `மகளிர் இட ஒதுக்கீடு` | `women’s reservation` | Article 26 central political/legal term; title **Women’s Reservation!**. | Article 26 | T4-confirmed |
-| `உள் ஒதுக்கீடு` | `internal reservation` | Article 26 proposed later step within women’s reservation for Backward / Most Backward Classes. | Article 26 | T4-confirmed |
-| `தனித் தொகுதி` | `reserved constituency` | Article 26 Dalit/electoral context. Contextual exception to earlier Article 5’s source-specific `separate-constituency mode of election`; do not mechanically unify them. | Article 26 | T4-confirmed |
-| `சனாதனச் சம்பிரதாயம்` | `Sanatana tradition` | Article 26 description of the patriarchal tradition blocking women’s candidacy; preserve loaded source form rather than neutralising it. | Article 26 | T4-confirmed |
-| `சமதர்மக் கொள்கை` | `principle of egalitarianism` | Article 26 opening social-equality/social-progress sequence; contextual rendering. | Article 26 | T4-confirmed |
-| `மகளிர் சுய உதவிக் குழு` | `Women’s Self-Help Group` | Article 26 source programme label; retain source capitalization as an English title-style label. | Article 26 | T4-confirmed |
+| `பகுத்தறிவு` | `rationalism` | Common noun/ideological sense. When it is the Article 27 journal title, retain `Pagutharivu`. | Article 17 | T4-confirmed |
+| `சோதிடம்` | `astrology` | Preserve source argument rather than externally fact-checking individual claims. | Article 18 | T4-confirmed |
+| `ஆரூடம்` | `omens` | Context-specific. | Article 18 | T4-confirmed |
+| `சித்தயோகம்` | `Siddha-yogam` | Almanac-belief term; retain source-bearing form. | Article 18 | T4-confirmed |
+| `அமிர்தயோகம்` | `Amrita-yogam` | Almanac-belief term in Articles 18 and 23. | Article 18 | T4-confirmed |
+| `மரணயோகம்` | `Marana-yogam` | Almanac-belief term in Articles 18 and 23. | Article 18 | T4-confirmed |
+| `அறிவியக்கம்` | `rationalist movement` | Rational-thought/reform movement context. | Article 18 | T4-confirmed |
+| `குன்றக்குடி அடிகளார்` | `Kundrakudi Adigalar` | Preserve source referential form. | Article 19 | T4-confirmed |
+| `ஆதீனம்` | `Adheenam` | Source institutional/religious term. | Article 19 | T4-confirmed |
+| `மகா சன்னிதானம்` | `Maha Sannidhanam` | Preserve source address. | Article 19 | T4-confirmed |
+| `ஆன்மிக ஆழ்கடல்` | `a deep ocean of spirituality` | Article 19 title/image. Heading has no exclamation; contents independently has one. | Article 19 | T4-confirmed |
+| `பயங்கரவாதம்` | `terrorism` | Keep distinct from `தீவிரவாதம்`. | Article 20 | T4-confirmed |
+| `தீவிரவாதம்` | `extremism` | Keep distinct from `பயங்கரவாதம்`. | Article 20 | T4-confirmed |
+| `ஓராபி மன்னர்கள்` | `Orabi kings` | Preserve source-visible historical form. | Article 20 | T4-confirmed |
+| `சாத்வீக மார்க்க நன்னெறி` | `the good path of peaceful means` | Contextual rendering. | Article 20 | T4-confirmed |
+| `மோர்சிங்` | `morsing` | Source-bearing instrument term. | Article 21 | T4-confirmed |
+| `(Infection)` | preserve source English parenthetical | Keep visibly source-derived. | Article 21 | T4-confirmed |
+| `அழுக்குச் சேமிப்பு ஆலை` | `dirt-storage factory` | Preserve satirical concreteness. | Article 21 | T4-confirmed |
+| `விளையாட்டு` | `sport` / contextual `play` | Article 22 title/competition uses sport; Ramayana/proverb opening uses play. | Article 22 | T4-confirmed |
+| `விளையாட்டு வினையாகும்` | `play can turn into trouble` | Preserve source warning rather than importing an unrelated proverb. | Article 22 | T4-confirmed |
+| `குதிரைக் கொம்பு` | `as rare as a horse’s horn` | Preserve concrete rarity image. | Article 22 | T4-confirmed |
+| `குடத்து விளக்கு` | `lamp shut inside a pot` | Contrast with lighthouse. | Article 22 | T4-confirmed |
+| `மிட்டாதார்` | `Mittadar` | Source-bearing social/title form. | Article 23 | T4-confirmed |
+| `தோஷம்` | `dosham` | Ritual term without doctrinal expansion. | Article 23 | T4-confirmed |
+| `ராகு காலம்` | `Rahu Kalam` | Source-bearing astrology term. | Article 23 | T4-confirmed |
+| `குளிகை காலம்` | `Kuligai Kalam` | Source-bearing astrology term. | Article 23 | T4-confirmed |
+| `இட்லர்` / `ஹிட்லர்` | `Hitler` | Conventional proper-name form; claims still controlled by frozen Tamil. | Article 24 | T4-confirmed |
+| `வான்கார்` | `Vankaar` | Preserve source-visible name without outside normalization. | Article 24 | T4-confirmed |
+| `இங்கர்சால்` | `Ingersoll` | English proper-name form; no outside biographical expansion. | Article 25 | T4-confirmed |
+| `திரிஸ்டன்` | `Tristan` | Source village form. | Article 25 | T4-confirmed |
+| `கிளரிமண்ட்` | `Klarimont` | Source-bearing place form. | Article 25 | T4-confirmed |
+| `நீக்ரோ` | `Negro` | Historical source label only; not a general preferred term. | Article 25 | T4-confirmed |
+| `மகளிர் இட ஒதுக்கீடு` | `women’s reservation` | Central political/legal term. | Article 26 | T4-confirmed |
+| `உள் ஒதுக்கீடு` | `internal reservation` | Later sub-reservation step in source argument. | Article 26 | T4-confirmed |
+| `தனித் தொகுதி` | `reserved constituency` | Article 26 electoral context; contextual exception to earlier source-specific wording. | Article 26 | T4-confirmed |
+| `சனாதனச் சம்பிரதாயம்` | `Sanatana tradition` | Patriarchal tradition in Article 26. | Article 26 | T4-confirmed |
+| `சமதர்மக் கொள்கை` | `principle of egalitarianism` | Article 26 opening sequence. | Article 26 | T4-confirmed |
+| `மகளிர் சுய உதவிக் குழு` | `Women’s Self-Help Group` | Source programme label. | Article 26 | T4-confirmed |
 
-## Source-witness decisions through Article 26
+## Additions confirmed in Articles 27–36
 
-- Article 19 contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்`; English follows the **heading**, so **A Deep Ocean of Spirituality** has no exclamation mark.
-- Article 19’s long Kundrakudi Adigalar poem is translated from the frozen Tamil wording only, with lineation preserved; no published English poem is imported.
-- Article 20 preserves `terrorism / extremism` as the source’s own two-label distinction and keeps source-visible `Orabi kings` without external historical reconciliation.
-- Article 21 preserves unpleasant hygiene imagery, the source `morsing` joke, the Parvati/Vinayagar comparison and the already-English `(Infection)` witness without sanitising or doctrinal expansion.
-- Article 22 preserves the deliberate shift between childhood **play** and organised **sport**, the horse-horn image, medal/population figures and lighthouse/pot-lamp contrast.
-- Article 23 preserves the source’s recursive horoscope logic and source-bearing `Mittadar`, `dosham`, Rahu/Kuligai/Amrita/Marana terms without outside astrological reconciliation.
-- Article 24 translates the favourable biographical passage explicitly as Kalaignar’s quoted source witness; its historical dates, names and claims are not externally corrected or endorsed by the translator.
-- Article 25 preserves source historical terminology (`நீக்ரோ` → `Negro`) and source place forms; the closing praise passage retains the source’s displayed lineation.
-- Article 26 translates Rousseau only from Kalaignar’s frozen Tamil quotation, preserves `Sanatana tradition`, the reservation/internal-reservation sequence, all percentages/numbers and the signed M.K. note.
+| Tamil | Preferred English | Context / exception | First established in | Status |
+|---|---|---|---|---|
+| `பகுத்தறிவு` | `Pagutharivu` | Article 27 journal title; distinct from common-noun `rationalism`. | Article 27 | T4-confirmed |
+| `உண்மை` | `Unmai` | Article 27 journal title; do not translate as `Truth` in the body. | Article 27 | T4-confirmed |
+| `சிலம்பம்` | `silambam` | Martial-art source term. | Article 27 | T4-confirmed |
+| `குத்துவரிசை` | `kuthuvarisai` | Martial-art source term; retain transliteration. | Article 27 | T4-confirmed |
+| `அ.ஆ. படிப்பு` | `A, Aa` / alphabet-learning image | Article 27 comparison: yoga described as only an elementary beginning. Preserve Tamil alphabet image rather than substituting an unrelated English metaphor. | Article 27 | T4-confirmed |
+| `பிளவை` | `pilavai` | Article 27 source disease term concerning Ramana Munivar; do not supply an outside diagnosis. | Article 27 | T4-confirmed |
+| `சனாதன முலாம்` | `Sanatana varnish` | Article 28 image for fatalistic consolation coated in Sanatana thinking. | Article 28 | T4-confirmed |
+| `கலையரசி ராதிகா` | `Kalaiyarasi Radhika` | Article 29 source epithet + name; preserve rather than silently reducing to a plain outside-known name. | Article 29 | T4-confirmed |
+| `உடன்பிறப்புகள்` | `Udanpirappugal` | Source-bearing plural movement-identity form in Article 31. This supplements, never replaces, the permanent exact `உடன்பிறப்பே` → `Udanpirappē` rule. | Article 31 | T4-confirmed |
+| `கழக உடன்பிறப்புக்களே` | `Kazhaga Udanpirappugalē` | Article 32 collective direct salutation at the 1990 conference; preserve movement identity. | Article 32 | T4-confirmed |
+| `மானமிகு` | `Maanamigu` — honour/self-respect | Article 33 wordplay with `மாண்புமிகு`; retain both Tamil-sound forms with concise gloss. | Article 33 | T4-confirmed |
+| `மாண்புமிகு` | `Maanbumigu` — Honourable | Article 33 wordplay: without `Maanamigu`, `Maanbumigu` has no value. | Article 33 | T4-confirmed |
+| `மகளிர் பேரணி` | `Women’s Rally` | Article 34 title/political mobilisation. | Article 34 | T4-confirmed |
+| `திரிகடுகம்` | `Thirikadugam` | Classical work title; transliterate. | Article 35 | T4-confirmed |
+| `பத்துப்பாட்டு` | `Pathuppaattu` | Classical corpus title; transliterate. | Article 35 | T4-confirmed |
+| `எட்டுத்தொகை` | `Ettuthogai` | Classical corpus title; transliterate. | Article 35 | T4-confirmed |
+| `பதினெண்கீழ்க்கணக்கு` | `Pathinenkeezhkanakku` | Classical corpus title; transliterate. | Article 35 | T4-confirmed |
+| `கணக்காயர்` | `Kanakkayar` | Article 35 source term, explained by Kalaignar himself as teachers who impart learning/literacy. | Article 35 | T4-confirmed |
+| `நான்மணிக்கடிகை` | `Nanmanikkadigai` | Article 36 classical work title; transliterate. | Article 36 | T4-confirmed |
+| `யாழ்` | `yaazh` | Article 36 instrument within literary comparison; retain source-bearing form. | Article 36 | T4-confirmed |
+| `பறை` | `parai` | Article 36 instrument within literary comparison. | Article 36 | T4-confirmed |
+| `பசைந்தார்` | `Pasaindhar` / contextual `friend` | Article 36 source supplies its own glossary `பசைந்தார் = நண்பர்`; preserve that source glossary. | Article 36 | T4-confirmed |
+
+## Source-witness / non-regression decisions through Article 36
+
+- Article 19 contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்`; English follows the heading.
+- Article 19 Kundrakudi Adigalar poem is translated only from frozen Tamil with lineation preserved.
+- Article 20 preserves `terrorism / extremism` and source-visible `Orabi kings`.
+- Article 21 preserves unpleasant imagery, `morsing`, Parvati/Vinayagar comparison and source-English `(Infection)`.
+- Article 22 preserves contextual **play / sport**, horse-horn rarity and lighthouse/pot-lamp contrast.
+- Article 23 preserves recursive horoscope logic and source-bearing astrology terms.
+- Article 24 treats the favourable Hitler material solely as Kalaignar’s quoted source witness; no outside correction or translator endorsement.
+- Article 25 preserves source historical terminology and place forms.
+- Article 26 translates Rousseau only from frozen Tamil and preserves reservation/internal-reservation distinctions.
+- Article 27 distinguishes the proper-name journal `Pagutharivu` from common-noun rationalism; source health claims remain source claims.
+- Article 29 preserves the frozen Kural witness—including `சிறைகாக்கும் காப்புவென் செய்யும் ?`—and does not import a published Kural translation.
+- Article 30’s Siddha/allopathy and food/health claims are translated as source claims only.
+- Article 31 preserves plural movement-address `Udanpirappugal`; medical/heredity claims remain source claims.
+- Article 32 preserves source-specific Mandela-era names/forms rather than replacing them from external biography, and keeps `Kazhaga Udanpirappugalē!`.
+- Article 33 preserves the `Maanamigu / Maanbumigu` sound-and-meaning contrast.
+- Article 34 preserves its difficult family/sexual/legal argument without sanitising and removes translator distancing from the source's rally claim.
+- Article 35 preserves the unusual opening wordplay, classical titles, `Kanakkayar`, and the embedded venpa as a four-line source-derived translation.
+- Article 36 preserves the literary `enter the fire` line only within Kalaignar's argument, together with his explicit warning not to destroy life; Poem 15 remains four-line and source-derived.
 
 ## Publication-level principles — still binding
 
 - Translate the frozen Tamil authority; do not neutralise Kalaignar’s voice.
 - Preserve questions, commands, repetition, satire, accusation, abrupt contrast, unusual source forms and concrete imagery.
 - Preserve ordered source-scan comments in every English article.
-- Translate embedded quotations from frozen Tamil only; do not import published English wording unless the user explicitly authorises it.
+- Translate embedded quotations from frozen Tamil only; do not import published English wording unless explicitly authorised.
 - Keep names and epithets in the referential form chosen by the source; do not silently identify or modernise from outside knowledge.
 - Keep independent contents-page and article-heading witnesses separate.
 - Historical, literary, medical, political and news claims are translated as source claims; T4 is a fidelity audit, not an external fact-reconciliation pass.
 - Reopen frozen Tamil only for a genuine defect demonstrated by controlling scan pixels. Article 16 scan 76 remains the standing precedent.
+- Normal acceleration cadence is now **10 articles per user-authorised iteration** where enough articles remain.
 
-Current terminology checkpoint: **Articles 1–26 T4-confirmed / blockers 0**.
+Current terminology checkpoint: **Articles 1–36 T4-confirmed / blockers 0**.
