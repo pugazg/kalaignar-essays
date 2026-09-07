@@ -90,13 +90,12 @@ Each country is compared and assessed through indicators showing, in particular,
 
 Nor can we forget or deny that population growth is one important reason India has moved from exporting food products to importing them.
 
-Natural resources such as water, land and minerals already existed within a fixed boundary. When they cannot grow in competition with population growth, and the number of people alone increases three or four times within some eighty years, future generations must be prepared to live lamenting that the country’s economic progress has become paralysed—that there is no growth, only decline.
+Natural resources such as water, land and minerals already existed within a fixed boundary. When they cannot grow in competition with population growth, and the number of people alone increases three or four times within a certain span of years, future generations must be prepared to live lamenting that the country’s economic progress has become paralysed—that there is no growth, only decline.
 
 Food cooked for three people can be stretched and served to five if two guests arrive. But if the number becomes ten, must not some go hungry if the others are to be served? Despite explanations like these having once been given in detail, it is a great deficiency that the family-planning campaign conducted by the government itself is no longer running at full speed.
 
 “Let us make way for love,
-and find a door to close
-the path to conception;
+and find a door to close the path to conception;
 what wrong is there in this?”
 
 When Paavendhar Bharathidasan, poet of the Self-Respect movement, asked this, it was not merely to say that there should be birth control within the home. It was also to insist that, if population control is to be achieved in the country, couples in every household must show concern for it.
