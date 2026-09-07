@@ -34,125 +34,101 @@ Placement remains **standalone public-message pamphlet**, not a source-labelled 
 - no printed contents page;
 - one textual body unit only.
 
-Independent source witnesses preserved:
-
-1. cover/title-page title punctuation;
-2. fortnight start date versus unstated exact message date;
-3. cover library stamp versus printed publication matter.
-
 ## P2 — direct-visual page transcription
 
 **PASS / COMPLETE — 8 / 8 VERIFIED.**
 
-All eight physical scans have canonical page records. Body scans 3–7 were transcribed directly from the scan images; OCR/parsed text was not textual authority.
+All eight physical scans have canonical page records. Body scans 3–7 were transcribed directly from source images; OCR/parsed text was not textual authority.
 
-| Scan | Role | P2 result |
-|---:|---|---|
-| 1 | cover | VERIFIED |
-| 2 | title page | VERIFIED |
-| 3 | body opening | VERIFIED |
-| 4 | body / p.4 | VERIFIED |
-| 5 | body / p.5 | VERIFIED |
-| 6 | body / p.6 | VERIFIED |
-| 7 | body close / p.7 + source note | VERIFIED |
-| 8 | back cover | VERIFIED |
-
-P2 continuity: scan 3 → 4 → 5 → 6 → 7, no missing or duplicated body scan.  
 P2 unresolved body-text blocks: **0**.
-
-### P2/P5 non-normalisation watchlist
-
-Preserve and independently recheck where specified:
-
-- scan 3: `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `யானைப் பசிக்குப் போட்ட சோளப் பொறி`;
-- scan 4: `உலகு`, `யந்திரங்களாகவே`;
-- scan 5: `அறுவை சிகிச்சைகள்` versus later `அறுவைச் சிகிச்சைக்கென்று`;
-- scan 5/6: `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` — retain now; strict P5 recheck required;
-- scan 7: `முன்பியக்கம்`, `முன்பியக்கக்`;
-- source note: `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`.
-
-Traditional/pre-reform glyphs are represented by their scan-supported underlying Tamil characters; this is glyph resolution, not lexical modernisation.
 
 ## P3 — single-text assembly
 
-**PASS / COMPLETE — 1 / 1 assembly.**
+**PASS / COMPLETE — 1 / 1.**
 
-Created:
+Canonical assembly:
 
 `articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
 
-P3 checks:
-
-- assembly source: verified P2 body records only, scans 3–7 — **PASS**;
-- ordered source-boundary comments for scans 3, 4, 5, 6, 7 — **PASS**;
-- body paragraph order — **PASS**;
-- punctuation / quotes / numerals / rhetorical dashes carried from P2 — **PASS**;
-- source-sensitive P2 forms carried without normalisation — **PASS**;
-- scan-7 bracketed occasion/source note kept outside the Chief Minister's message body — **PASS**;
-- body start/end reconciliation — **PASS**;
-- omitted body scan: **0**;
-- duplicated body scan: **0**;
-- reordered body boundary: **0**;
-- P3 textual corrections to P2: **0**;
-- unresolved P3 body-text blocks: **0**.
-
-P3 is an assembly gate, not the independent strict P5 scan re-audit.
+- source scans: **3 → 4 → 5 → 6 → 7**;
+- ordered source comments retained: **5 / 5**;
+- scan-7 bracketed occasion note outside the message body: **PASS**;
+- omitted / duplicated / reordered body scans: **0 / 0 / 0**.
 
 ## P4 — source / completeness audit
 
 **PASS / COMPLETE.**
 
-Canonical P4 record:
+Canonical P4 record: [`SOURCE_COMPLETENESS_AUDIT.md`](SOURCE_COMPLETENESS_AUDIT.md).
 
-[`SOURCE_COMPLETENESS_AUDIT.md`](SOURCE_COMPLETENESS_AUDIT.md)
+- physical scans represented: **8 / 8**;
+- page records present: **8 / 8**;
+- canonical assemblies: **1 / 1**;
+- body source order: **3 → 4 → 5 → 6 → 7**;
+- required exclusions: **PASS**;
+- source/completeness blockers: **0**;
+- Tamil page/article-body changes during P4: **0**.
 
-P4 reconciled the full source inventory, all canonical page records, the P3 assembly, boundaries, exclusions, source-note handling, classification/date discipline and workflow-marker state.
+## P5 — strict visual word/punctuation fidelity
 
-### P4 inventory / structure
+**PASS / COMPLETE — 8 / 8 physical scans directly rechecked.**
 
-- physical source scans: **8 / 8 represented** — PASS;
-- canonical P2 page records: **8 / 8 present, all `verified`** — PASS;
-- canonical P3 assemblies: **1 / 1** — PASS;
-- extra / duplicate assemblies: **0** — PASS;
-- source reading order: **1 → 2 → 3 → 4 → 5 → 6 → 7 → 8** — PASS;
-- body start / close: **scan 3 / scan 7** — PASS;
-- scan 8 back-cover/printer boundary — PASS.
+Canonical P5 record: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-### P4 assembly reconciliation
+P5 independently re-opened scans 1–8 and checked visible printed words, historical glyphs, word boundaries/spacing, punctuation, quotation marks, dates, numbers, paragraph boundaries, printed folios, physical-copy exclusions and independent source witnesses.
 
-The P3 body was reconciled against the P2 `# அச்சு உரை` sections for scans 3–7.
+### P5 correction ledger
 
-- ordered `<!-- Tamil source: scan ... -->` comments: **3 → 4 → 5 → 6 → 7**, exactly once each — PASS;
-- omitted body scan: **0**;
-- duplicated body scan: **0**;
-- reordered body boundary: **0**;
-- P3 lexical/body rewrite relative to P2: **0 found**;
-- unresolved body-completeness blocks: **0**.
+1. **Scan 2 — title-page punctuation**
+   - old: `பெற........!`
+   - source-visible: `பெற..........!`
+   - disposition: corrected in `pages/0002-title-page.md`;
+   - source has **10 dots** before final `!`.
 
-### P4 exclusions / source-note discipline
+2. **Scan 7 — final-paragraph word boundary**
+   - old: `வெற்றிக் கனியினைக்`
+   - source-visible: `வெற்றிக்கனியினைக்`
+   - disposition: corrected in `pages/0007-body-close.md` and propagated to the canonical article assembly.
 
-- scan 1 cover/portrait/creator matter excluded from message body — PASS;
-- scan 1 later blue library stamp excluded from source prose — PASS;
-- scan 2 title-page/issuing-body matter excluded from message body — PASS;
-- scan 7 bracketed source/occasion note kept outside the Chief Minister's message body — PASS;
-- scan 8 printer/back-cover matter excluded from message body — PASS;
-- physical-copy ageing/staining/show-through excluded from source prose — PASS.
+No other page/body correction was required.
 
-The scan-7 date remains the source-supported **fortnight start**, not an inferred exact message/publication date.
+### P5 historical/source-form confirmations
 
-### P4 open-marker sweep
+Direct scan recheck confirms:
 
-- active `TODO`: **0**;
-- active page `partial`: **0**;
-- active page `needs-review`: **0**;
-- active page `blocked`: **0**;
-- P4 source/completeness blockers: **0**.
+- scan 3 `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `யானைப் பசிக்குப் போட்ட சோளப் பொறி`;
+- scan 4 `உலகு`, `யந்திரங்களாகவே`;
+- scan 5 `அறுவை சிகிச்சைகள்` and later `அறுவைச் சிகிச்சைக்கென்று` as distinct witnesses;
+- scan 5 `நாடாளு மன்றத்தில்`;
+- scan 6 `நாடாளு மன்றமே`;
+- scan 7 `முன்பியக்கம்`, `முன்பியக்கக்`;
+- scan-7 note `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`;
+- scan 8 printer line `மாநில குடும்பநலத் திட்ட அச்சகம், சென்னை-6.`.
 
-One stale documentation footer was found in `indexes/page-map.md`: it still said P3 was not started and named P3 as next. The structural map itself was correct. P4 synchronized the footer and current-state records; **Tamil page text changes: 0; article-body text changes: 0**.
+The unusual `நாடாளு மன்ற...` forms are source-confirmed and are not normalised.
 
-### P4 deferred P5 witnesses
+### P5 independent source-witness checks
 
-P4 intentionally does not settle lexical/glyph questions reserved for P5. In particular, preserve and independently recheck `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே`, along with the full established historical-glyph/source-form watchlist.
+- scan 1 cover title: `பெற ... !` — confirmed;
+- scan 2 title page: `பெற..........!` — confirmed independently;
+- scan 7 bracketed note remains printed provenance outside the Chief Minister's message body;
+- 15 December 1975 remains the **fortnight start**, not a separately stated exact message/publication date;
+- scan 8 printer/back-cover matter remains outside the body.
+
+### P5 final gate
+
+- physical scans rechecked: **8 / 8**;
+- page records: **8 / 8**;
+- strict-reviewed assemblies: **1 / 1**;
+- confirmed P5 corrections: **2**;
+- unresolved fidelity discrepancies: **0**;
+- active `needs-review`: **0**;
+- active `blocked`: **0**;
+- Tamil workflow blockers: **0**.
+
+**P5 STRICT VISUAL TEXT-FIDELITY REVIEW: PASS.**
+
+**Tamil archival status: COMPLETE / STRICT-REVIEWED / FROZEN.**
 
 ## Current gate state
 
@@ -161,15 +137,13 @@ P4 intentionally does not settle lexical/glyph questions reserved for P5. In par
 - P2: **COMPLETE / PASS — 8 / 8 VERIFIED**
 - P3: **COMPLETE / PASS — 1 / 1**
 - P4: **COMPLETE / PASS**
-- P5: **NOT STARTED**
-- English: **NOT STARTED / BLOCKED until Tamil freeze**
-
-P4 completion does **not** equal final Tamil freeze.
+- P5: **COMPLETE / PASS — 8 / 8**
+- English: **NOT STARTED / UNBLOCKED**
 
 ## Exact next activity
 
-**P5 — strict visual word/punctuation fidelity over all 8 physical scans.**
+**E0 — English translation planning/setup** from the frozen `strict-reviewed` Tamil authority:
 
-P5 must re-open the controlling source and independently compare every visible printed word, historical glyph, word boundary/spacing, punctuation mark, heading, date, number, paragraph continuation, physical-copy exclusion and independent source witness against the canonical page records. Any confirmed correction must be propagated to the P3 assembly and durable records with provenance.
+`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
 
-Pay particular attention to `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே`. Do not begin English until P5 passes and the Tamil authority is frozen.
+Do not translate from OCR, raw scan text or a pre-P5 transcription.
