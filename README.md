@@ -16,15 +16,17 @@ Source PDFs repository-யில் commit செய்யப்படாது.
 - [`docs/FUTURE_WORK_GUIDELINES.md`](docs/FUTURE_WORK_GUIDELINES.md)
 - [`docs/NEXT_CHAT_PROMPT.md`](docs/NEXT_CHAT_PROMPT.md)
 
+A compatibility pointer for historical translation-review links is retained at [`publications/ESSAY_TRANSLATION_GUIDE.md`](publications/ESSAY_TRANSLATION_GUIDE.md); the root translation guide above remains canonical.
+
 ## Publication status
 
-Publications **1–7 are COMPLETE / FROZEN / RELEASED** in their established Tamil/English workflows.
+Publications **1–8 are COMPLETE / FROZEN / RELEASED** in their established Tamil/English workflows.
 
 ### Publication 8 — சிந்தனையும் செயலும்
 
 Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seyalum/)
 
-**TAMIL ARCHIVAL COMPLETE / RE-FROZEN — 50/50 ENGLISH ARTICLES T5 VERIFIED — E6 PASS — E7 PENDING.**
+**RELEASE COMPLETE / FROZEN.**
 
 - controlling source: `TVA_BOK_0065568`, **226 scans**;
 - Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / RE-FROZEN**;
@@ -34,13 +36,19 @@ Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seya
 - unresolved Tamil/source discrepancies: **0**;
 - English T0–T5: **50 / 50 PASS at every gate**;
 - verified English: **50 / 50**;
-- drafts/blockers: **0 / 0**;
-- **E6: COMPLETE / PASS**;
-- E7: **NOT STARTED**.
+- drafts: **0 / 50**;
+- E6: **COMPLETE / PASS**;
+- E7: **COMPLETE / PASS**;
+- release blockers: **0**.
 
-Publication-wide E6 reconciled all 50 English articles with the frozen Tamil/review/lexicon authority chain: **50/50** live source pins and **208/208** ordered source comments passed. E6 made **0 English-body prose corrections** and **0 Tamil changes**; it only added missing `contents_title_ta` metadata to Articles 1–10 while preserving independent contents/heading witnesses.
+Publication-wide E6 reconciled all 50 English articles with the frozen Tamil/review/lexicon authority chain: **50 / 50** live source pins and **208 / 208** ordered source comments passed. E6 made **0 English-body prose corrections** and **0 Tamil changes**; it added only missing `contents_title_ta` metadata to Articles 1–10 while preserving independent contents/heading witnesses.
 
-Canonical E6 record: [`publications/sinthanaiyum-seyalum/translations/en/E6_CONSISTENCY_REVIEW.md`](publications/sinthanaiyum-seyalum/translations/en/E6_CONSISTENCY_REVIEW.md).
+E7 revalidated release inventory, links/references, open-work markers and status consistency, then froze Publication 8 with **0 English article-body changes** and **0 Tamil changes**.
+
+Canonical release records:
+
+- [`publications/sinthanaiyum-seyalum/translations/en/E6_CONSISTENCY_REVIEW.md`](publications/sinthanaiyum-seyalum/translations/en/E6_CONSISTENCY_REVIEW.md)
+- [`publications/sinthanaiyum-seyalum/translations/en/E7_RELEASE_CLOSEOUT.md`](publications/sinthanaiyum-seyalum/translations/en/E7_RELEASE_CLOSEOUT.md)
 
 ### Permanent `உடன்பிறப்பே` rule
 
@@ -48,4 +56,4 @@ Every exact source `உடன்பிறப்பே` is retained as **`Udanpir
 
 ## Current repository boundary
 
-Publication 8 is translation-complete and E6-consistency-complete, but **not yet release-closed**. The exact next activity is **E7 release closeout**. Live `main` and root [`HANDOVER.md`](HANDOVER.md) remain authoritative.
+There is **no active publication after the Publication 8 E7 closeout**. Released/frozen publications must not be reopened from stale prompts. Future work begins only when the user explicitly selects or supplies a new work or requests a targeted correction to a released work. Live `main` and root [`HANDOVER.md`](HANDOVER.md) remain authoritative.
