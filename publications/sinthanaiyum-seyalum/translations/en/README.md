@@ -8,17 +8,18 @@ Translation plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 ## Current status
 
 - Tamil authority: **COMPLETE / STRICT-REVIEWED / FROZEN**
+- post-freeze source correction: **scan 76 corrected from `வற்கைச்` to source-visible `வர்களைச்`, propagated and re-frozen**
 - E0: **COMPLETE / PASS**
-- T0: **11 / 50 PASS**
-- T1: **11 / 50 COMPLETE**
-- T2: **11 / 50 PASS**
-- T3: **11 / 50 PASS**
-- T4: **11 / 50 PASS**
-- T5: **11 / 50 PASS**
+- T0: **16 / 50 PASS**
+- T1: **16 / 50 COMPLETE**
+- T2: **16 / 50 PASS**
+- T3: **16 / 50 PASS**
+- T4: **16 / 50 PASS**
+- T5: **16 / 50 PASS**
 - E6/E7: **NOT STARTED**
-- English files: **11 / 50**
+- English files: **16 / 50**
 - draft English files: **0 / 50**
-- verified English files: **11 / 50**
+- verified English files: **16 / 50**
 - blockers: **0**
 
 ## Permanent salutation rule
@@ -40,11 +41,11 @@ Whenever frozen Tamil has `உடன்பிறப்பே`, retain **`Udanpir
 | 9 | `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` | 49–51 | **Touching the Sky, Buried in the Earth?** | `verified` — T0–T5 PASS |
 | 10 | `மனிதனும் மறுபிறவியும்` | 52–55 | **Man and Rebirth** | `verified` — T0–T5 PASS |
 | 11 | `வெற்றி தோல்வி!` | 56–58 | **Victory and Defeat!** | `verified` — T0–T5 PASS |
-| 12 | `அழுக்காறு` | 59–61 | — | `not-started` |
-| 13 | `மிகுதிக்கண்...` | 62–65 | — | `not-started` |
-| 14 | `வலிவும், பொலிவும்!` | 66–68 | — | `not-started` |
-| 15 | `இன்பமும் துன்பமும்!` | 69–74 | — | `not-started` |
-| 16 | `ஒழுக்கம்` | 75–77 | — | `not-started` |
+| 12 | `அழுக்காறு` | 59–61 | **Azhukkaaru** | `verified` — T0–T5 PASS |
+| 13 | `மிகுதிக்கண்...` | 62–65 | **When the Limit Is Crossed...** | `verified` — T0–T5 PASS |
+| 14 | `வலிவும், பொலிவும்!` | 66–68 | **Strength and Radiance!** | `verified` — T0–T5 PASS |
+| 15 | `இன்பமும் துன்பமும்!` | 69–74 | **Joy and Sorrow!** | `verified` — T0–T5 PASS |
+| 16 | `ஒழுக்கம்` | 75–77 | **Conduct** | `verified` — T0–T5 PASS after source correction |
 | 17 | `வசிய மருந்து` | 78–81 | — | `not-started` |
 | 18 | `சோதிட சோகம்!` | 82–84 | — | `not-started` |
 | 19 | `ஆன்மிக ஆழ்கடல்` | 85–89 | — | `not-started` |
@@ -82,7 +83,7 @@ Whenever frozen Tamil has `உடன்பிறப்பே`, retain **`Udanpir
 
 The Tamil-title column follows each frozen article assembly heading. Independent contents-page differences remain documented in the Tamil layer and must not be used to overwrite article-heading witnesses.
 
-## Verified authority pins through Article 11
+## Verified authority pins through Article 16
 
 | # | Frozen Tamil blob |
 |---:|---|
@@ -97,17 +98,18 @@ The Tamil-title column follows each frozen article assembly heading. Independent
 | 9 | `bc8d633334532801065c59a02d4df340dfcd7d96` |
 | 10 | `47a682dfcc482287ca9a64743947e27e5a808ee1` |
 | 11 | `40110b107efeea60e9a149b06f24b3cefd6aba9c` |
+| 12 | `808ffa7c963140eacb314c5408982796028fe179` |
+| 13 | `cd6631e22787b3986c10ea93e6bed82b54104c85` |
+| 14 | `a88f7f685673fe80c003208035a3e43f4889b2a5` |
+| 15 | `10748bd56678c878b239a399552eca0e0e40bdf4` |
+| 16 | `82852811292492e0d03360a846f7e4b69ca48720` |
 
-Articles **7–11** were processed through every article gate in one user-authorised batch. Complete T2/T3/T4 provenance is in `TRANSLATION_REVIEW.md`, with living terminology in `LEXICON.md`. Unresolved blockers: **0**; Tamil changes caused by English work: **0**.
+Articles **12–16** were processed through every article gate in one user-authorised batch. Complete T2/T3/T4 provenance is in `TRANSLATION_REVIEW.md`, with living terminology in `LEXICON.md`. Unresolved blockers: **0**.
 
-## Exact next activity
+During Article 16 T4, controlling scan 76 demonstrated one genuine Tamil defect: the earlier `வற்கைச் சட்டத்தின்` transcription was corrected to source-visible `வர்களைச் சட்டத்தின்` in both the canonical page and assembly, then re-frozen before English T5. No other Tamil text changed.
 
-Process **Articles 12–16** through T5 each, in order:
+## Current boundary
 
-1. `அழுக்காறு` — scans 59–61;
-2. `மிகுதிக்கண்...` — scans 62–65;
-3. `வலிவும், பொலிவும்!` — scans 66–68;
-4. `இன்பமும் துன்பமும்!` — scans 69–74;
-5. `ஒழுக்கம்` — scans 75–77.
+Articles **1–16** are durable `verified` English authority. Article **17 has not been started**.
 
-For every article: pin the live frozen Tamil blob at T0, complete T1, run bilingual T2, voice T3, terminology/quotation/source-witness T4, and mark `verified` only after T5. Apply **`Udanpirappē`** whenever the frozen source has `உடன்பிறப்பே`. Stop and synchronize after Article 16 before beginning Article 17.
+Do not begin Article 17 until the user authorises the next batch. When authorised, re-fetch live `main`, pin the current Article 17 frozen Tamil blob, and continue T0–T5 from there. Apply **`Udanpirappē`** whenever the frozen source has `உடன்பிறப்பே`.
