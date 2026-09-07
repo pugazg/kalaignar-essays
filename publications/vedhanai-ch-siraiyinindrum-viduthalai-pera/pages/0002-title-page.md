@@ -9,13 +9,13 @@ page_type: "title-page"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf"
-transcription_method: "direct visual comparison with source scan; traditional glyphs resolved to underlying Tamil characters"
+transcription_method: "direct visual comparison with source scan; traditional glyphs resolved to underlying Tamil characters; P5 strict visual fidelity checked"
 ---
 
 # அச்சு உரை
 
 ## வேதனைச் சிறையினின்றும்  
-## விடுதலை பெற........!
+## விடுதலை பெற..........!
 
 தமிழ்நாடு முதல்வர்  
 மாண்புமிகு டாக்டர் கலைஞர்  
@@ -31,5 +31,11 @@ transcription_method: "direct visual comparison with source scan; traditional gl
 ## P2 audit note
 
 - title-page title uses a visibly longer dotted run before `!` than scan 1. The lexical title is the same, but punctuation witnesses remain independent.
+
+## P5 strict-fidelity note
+
+- direct enlarged scan inspection counted **10 printed dots** before the final `!` on the title-page witness.
+- P5 correction: `பெற........!` → `பெற..........!`.
+- scan 1 remains the separate shorter cover witness `பெற ... !`; the two punctuation witnesses are not harmonised.
 
 <!-- மூல ஸ்கேன் பக்கம்: 2 -->
