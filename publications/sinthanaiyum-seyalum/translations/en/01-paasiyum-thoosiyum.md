@@ -2,6 +2,7 @@
 publication: "sinthanaiyum-seyalum"
 article_number: 1
 title_ta: "பாசியும் - தூசியும்!"
+contents_title_ta: "பாசியும் - தூசியும்!"
 title_en: "Moss and Dust!"
 source_tamil: "../../articles/01-paasiyum-thoosiyum.md"
 source_tamil_blob_sha: "79791aad807179e85b4275539fff8283d2ff61b2"
