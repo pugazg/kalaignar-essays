@@ -37,9 +37,10 @@ Independent witnesses remain independent, including:
 - Unit 11 contents `வெற்றி - தோல்வி!` ↔ heading `வெற்றி தோல்வி!`;
 - Unit 15 contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!`;
 - Unit 19 contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்`;
-- Unit 41 and Unit 48 documented contents/heading distinctions.
+- Unit 41 contents `வலி அறிவிக்கும் வாயில்லா மொழி !` ↔ heading `வலி அறிவிக்கும் வாயில்லா மொழி!`;
+- Unit 48 contents `நல்வழிக்கு நாட்டாரய்யாவின் உரை!...` ↔ heading `நல்வழிக்கு நாட்டாரய்யாவின் உரை!`.
 
-Unit 29’s unusual printed Kural witness `காப்புவென் செய்யும் ?` remains frozen and is not conventionally normalized. Article 29 English translation also preserves this frozen witness rather than importing a conventional Kural text.
+Unit 29’s unusual printed Kural witness `காப்புவென் செய்யும் ?` remains frozen and is not conventionally normalized. Article 29 English translation preserves this frozen witness rather than importing a conventional Kural text.
 
 Recurring printed production/form witnesses and physical-copy marks remain separated from article prose according to the canonical page records.
 
@@ -67,6 +68,13 @@ Reopen this Tamil layer only for a genuine defect demonstrated by controlling sc
 
 ## Current downstream English status
 
-English translation does not alter the Tamil authority. Current English checkpoint is **Articles 1–36 T0–T5 PASS / verified**, **36 / 50**, with **0 current blockers**. Articles 27–36 caused **0 Tamil changes** and retained **42 / 42 ordered source comments**. Article 37 has not been started.
+English translation does not alter the Tamil authority.
 
-Per user instruction, subsequent normal iterations process **10 articles at a time** where enough remain; the next prepared iteration is Articles **37–46**.
+- Articles **1–50**: **T0–T5 PASS / VERIFIED**;
+- verified English: **50 / 50**;
+- current English blockers: **0**;
+- final Articles 37–50 block: **67 / 67 ordered source comments PASS**;
+- Tamil changes caused by Articles 37–50 English work: **0**;
+- E6/E7: **NOT STARTED**.
+
+The article-translation phase is complete. Next downstream activity is **E6 publication-wide English consistency review**; it must preserve this frozen Tamil result and must not reopen Tamil absent controlling-scan proof.
