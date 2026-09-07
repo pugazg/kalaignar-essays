@@ -43,7 +43,7 @@ There has been an accusation that Valluvar fashioned women as slaves through the
 
 Therefore, love may melt and flow between a man and a woman—friendship may blossom—the fragrance of married life may spread—but there is no place there, and there must be no place there, for the patriarchal urge that says “woman is man's slave.” Because I think so, and because from my youth I entrusted myself to a movement that thinks so, I am qualified to write this.
 
-The concern and doubt I carry must be placed before women for them to think about. Women who speak and write with utter hatred of patriarchy—why do they become turtles retreating into their shells and submit to their husbands? Why? How? For what reason?
+The concern and doubt I carry must be placed before women for them to think about. Women who speak and write with utter hatred of patriarchy—why do they become turtles that submit to their husbands? Why? How? For what reason?
 
 There is a scene on the small screen—a family portrait called `Selvi` by Kalaiyarasi Radhika. In it, Selvi seeks to forgive a woman who had tried to destroy her and to free her from punishment. Selvi's husband rebukes her and tries to stop her. Between husband and wife—
 
