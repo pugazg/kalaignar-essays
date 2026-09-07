@@ -8,7 +8,7 @@ source_tamil_blob_sha: "1c5870212186b2bf7ff095b245e15cd875de76f0"
 source_scan_pages: "3-7"
 source_printed_pages: "scan 3 unnumbered; scans 4-7 visibly 4-7"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -18,11 +18,11 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 The Family Welfare Programme Fortnight is being celebrated throughout Tamil Nadu from December 15.
 
-The surging, swelling population wreaks a cruelty greater than the flood of the Brahmaputra—greater than the flooding of the Ganges; it delivers a tremendous shock!
+The surging, swelling population inflicts a cruelty greater than the flood of the Brahmaputra—greater than the flooding of the Ganges; it delivers a tremendous shock!
 
 If it is not stopped—if it is not brought under control—the happy lives of our tender shoots of the future may be submerged in that cruel flood itself; they may rot away as well!
 
-It is precisely to warn us of the danger that threatens us that such observances are being held today—with splendour and uplift!
+It is precisely to warn us of the danger that threatens us that such observances are being held today—with grace and uplift!
 
 Food, clothing, shelter—governments function in order to provide these basic needs to all people.
 
@@ -40,9 +40,9 @@ Population growth is the chief reason that can break the back of any country's e
 
 Today, this problem is shaking the whole world.
 
-There appears to be no country that has failed to think intensely about finding a solution to it—that has failed to undertake a programme of action.
+There seems to be no country at all that has not thought intensely about finding a solution to it—that has not undertaken a programme of action.
 
-The United Nations—declared the year 1974 as the ‘World Population Year’; through the governments of the respective countries, it sought to instil awareness among the people by explaining appropriate ways of checking population growth!
+The United Nations—declared 1974 the ‘World Population Year’; through the governments of the respective countries, it sought to instil awareness among the people by explaining appropriate ways of checking population growth!
 
 Likewise, the U.N. declared this year, 1975, the ‘World Women's Year’; in connection with it, great efforts—programmes to safeguard women's welfare have been accelerated in every country.
 
@@ -50,7 +50,7 @@ Needless to say, there is a close connection between the previous ‘Population 
 
 Women are tormented by being subjected again and again to the ordeal called ‘childbearing’, as mere machines for bearing children. The only way—the worthy way—for them to gain freedom from that prison of suffering is the ‘small-family norm’!
 
-Women must have the right to decide that this many children are enough—to determine when the next child may be born. Until they attain such a right, we cannot take pride in saying that women's rights have become complete.
+Women must have the right to decide that this many children are enough—to determine when the next child may be born. Until they attain such a right, we cannot proudly say that women's rights have become complete.
 
 As far as the implementation of the Family Welfare Programme is concerned—Tamil Nadu has shown great concern—and has also achieved commendable success.
 
@@ -72,7 +72,7 @@ As a result of greatly reducing the birth rate, the number of Tamil Nadu's membe
 
 Since population is also taken into account when the Central Government allocates funds to the States, the amount of funding that can be allocated to Tamil Nadu naturally falls in that respect as well.
 
-Even though so many obstacles have confronted us one after another, the State Government is engaged with all its strength in accelerating the Family Welfare Programme!
+Though so many obstacles have assailed us one after another, the State Government is throwing itself wholeheartedly into driving the Family Welfare Programme forward!
 
 Do you know why?
 
@@ -86,7 +86,7 @@ So that a prosperous life suited to one's income may be easily available to anyo
 
 So that economic-development programmes may be properly fulfilled without suffering any impairment—
 
-The Tamil Nadu Government has complete faith that there is no other way than to control population growth!
+The Tamil Nadu Government is fully convinced that there is no other way than to control population growth!
 
 Tamil Nadu ranks third in India in successfully implementing the Family Welfare Programme.
 
@@ -100,17 +100,17 @@ Therefore, at the all-India level—on a common basis for all States—Parliamen
 
 <!-- Tamil source: scan 7 -->
 
-If programmes such as Prohibition and the Family Welfare Programme are left to only one or two States while the other States go their own way—it can only cause harm to India's complete progress—to the strength of its unity, and nothing else!
+If programmes such as Prohibition and the Family Welfare Programme are left to only one or two States while the other States go their own way—they can do nothing but harm India's overall progress—the strength of its unity!
 
 In every district of Tamil Nadu, the ‘advance drive’ connected with the Family Welfare Programme is proceeding briskly in order to reach this year's target. It has now been started in Thanjavur; in some districts, the ‘advance-drive’ period has been extended.
 
-I am filled with confidence that the District Collectors, local-government officials, Family Welfare Department officials—and all those from the other departments as well—will stand together and conduct this fortnight successfully!
+I have every confidence that the District Collectors, local-government officials, Family Welfare Department officials—and all those from the other departments as well—will stand together and conduct this fortnight successfully!
 
 This observance must become a rare opportunity to explain clearly to the public the excellence—the prosperity that the ‘small-family norm’ can provide.
 
 Only when every section extends its cooperation to the Government can the beneficial results that any programme can produce reach society in full.
 
-Keeping this in their hearts, recognising the responsibility that is theirs, I request the public too to extend their cooperation so that this Family Welfare Programme Fortnight may reap the fruit of success.
+Keeping this in their hearts, recognising the responsibility that is theirs, I appeal to the public too to extend their cooperation so that this Family Welfare Programme Fortnight may reap the fruit of success.
 
 ---
 
