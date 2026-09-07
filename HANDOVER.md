@@ -9,7 +9,7 @@ Branch: `main`
 
 Publications **1–8 are RELEASE COMPLETE / FROZEN**.
 
-Publication **9 — `வேதனைச் சிறையினின்றும் விடுதலை பெற` — has Tamil P0–P5 COMPLETE / STRICT-REVIEWED / FROZEN and English T0–T5 COMPLETE / Article 1 VERIFIED.** Exact next gate: **E6 — publication-level English consistency review**.
+Publication **9 — `வேதனைச் சிறையினின்றும் விடுதலை பெற` — has Tamil P0–P5 COMPLETE / STRICT-REVIEWED / FROZEN, English T0–T5 COMPLETE / VERIFIED, and E6 COMPLETE / PASS.** Exact next gate: **E7 — English release closeout**.
 
 Source PDFs are never committed.
 
@@ -19,7 +19,7 @@ Source PDFs are never committed.
 2. read `ESSAY_TRANSLATION_GUIDE.md`;
 3. read `docs/FUTURE_WORK_GUIDELINES.md`;
 4. read this handover and `docs/NEXT_CHAT_PROMPT.md`;
-5. for Publication 9 read `README.md`, `TRANSLATION_PLAN.md`, `translations/en/README.md`, `translations/en/LEXICON.md`, `translations/en/TRANSLATION_REVIEW.md`, the verified English article, and the frozen Tamil article;
+5. for Publication 9 read `README.md`, `TRANSLATION_PLAN.md`, `translations/en/README.md`, `translations/en/LEXICON.md`, `translations/en/TRANSLATION_REVIEW.md`, `translations/en/E6_CONSISTENCY_REVIEW.md`, the verified English article, and the frozen Tamil article;
 6. preserve Publications 1–8 unless a genuine source-supported defect or explicit user request requires targeted reopening.
 
 ---
@@ -73,7 +73,7 @@ Verified English article:
 `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
 
 English title: **Freedom from the Prison of Suffering**  
-Final verified blob SHA: **`57bb332530e5e6de12c74f2cd40ceaccf22e41b9`**  
+Verified blob SHA: **`57bb332530e5e6de12c74f2cd40ceaccf22e41b9`**  
 Frontmatter: **`translation_status: verified`**.
 
 English gate history:
@@ -85,11 +85,33 @@ English gate history:
 - T3: **PASS** — `df9750cfc46ac1f3519ff2d40bbe8bb3b69073a6`;
 - T4: **PASS** — `943be32674cb3952c655f6bfed9f8b1fc0410969`;
 - T5: **PASS / VERIFIED** — `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`;
-- E6: **NOT STARTED / NEXT**;
-- E7: **NOT STARTED**;
-- English blockers: **0**.
+- E6: **PASS / COMPLETE**;
+- E7: **NOT STARTED / NEXT**;
+- English/release blockers: **0**.
 
-## T1–T5 non-regression
+## E6 publication-wide consistency — COMPLETE / PASS
+
+Canonical record:
+
+`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/E6_CONSISTENCY_REVIEW.md`
+
+E6 re-fetched both live authorities and confirmed:
+
+- frozen Tamil blob unchanged: **PASS**;
+- verified English blob unchanged since T5: **PASS**;
+- metadata/source pin: **PASS**;
+- source comments **5 / 5**, ordered `3 → 4 → 5 → 6 → 7`: **PASS**;
+- scan-7 source/occasion note remains outside Kalaignar's body: **PASS**;
+- title/body `prison of suffering` metaphor consistency: **PASS**;
+- recurring terminology/source labels/abbreviation distinction: **PASS**;
+- child-production/machine imagery, quoted elephant/sorghum image, snail image, scan-6 dash accumulation and closing harvest metaphor: **PASS**;
+- source-controlled dates/numbers/date discipline: **PASS**;
+- E6 English body corrections: **0**;
+- E6 English metadata corrections: **0**;
+- E6 Tamil changes: **0**;
+- E6 blockers: **0**.
+
+## Permanent English non-regression
 
 Preserve:
 
@@ -102,40 +124,35 @@ Preserve:
 - `சிறு குடும்ப நெறி` → `small-family norm`;
 - `முன்பியக்கம்` / `முன்பியக்கக் காலம்` → `advance drive` / `advance-drive period`;
 - `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` → `in Parliament` / `Parliament itself` without altering frozen Tamil;
-- child-production and machine imagery;
 - quoted elephant/sorghum image;
 - scan-6 dash-linked accumulation;
 - snail image;
 - closing `reap the fruit of success` harvest metaphor;
 - all source-controlled dates/numbers and source labels/abbreviation distinctions.
 
-Detailed provenance:
-
-- `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/TRANSLATION_PLAN.md`
-- `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/LEXICON.md`
-- `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/TRANSLATION_REVIEW.md`
-
-Frozen Tamil changes during English T1–T5: **0**.
+Permanent repository rule remains: exact Tamil `உடன்பிறப்பே` → `Udanpirappē`; direct salutation → `Udanpirappē,`.
 
 ## Current gate state
 
 - Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**;
 - English T0–T5: **1 / 1 COMPLETE / PASS / VERIFIED**;
-- E6: **NEXT**;
-- E7: **NOT STARTED**;
+- E6: **COMPLETE / PASS**;
+- E7: **NEXT**;
 - blockers: **0**.
 
-## Exact next activity — E6 publication consistency review
+## Exact next activity — E7 English release closeout
 
 When authorised:
 
 1. fetch live `main`;
-2. re-fetch frozen Tamil blob `1c5870212186b2bf7ff095b245e15cd875de76f0` and verified English blob `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`;
-3. confirm article metadata/authority linkage;
-4. review title, living lexicon, source labels, source comments, scan-7 source-note boundary and date discipline as a publication-wide set;
-5. confirm no post-T5 body/metadata drift and blockers remain 0;
-6. create/update an E6 consistency record and synchronize trackers;
-7. stop after E6. Do **not** perform E7 release closeout in the same activity unless separately authorised.
+2. re-fetch frozen Tamil blob `1c5870212186b2bf7ff095b245e15cd875de76f0` and E6-passed verified English blob `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`;
+3. confirm both authorities remain unchanged and the English source pin still matches the Tamil authority;
+4. confirm T0–T5 and E6 are durably PASS with blockers **0**;
+5. confirm no English body or metadata drift has occurred since E6;
+6. create/update the E7 release-closeout record and record the release baseline;
+7. synchronize publication/root trackers to **ENGLISH TRANSLATION COMPLETE / RELEASE COMPLETE / FROZEN** only if all checks pass;
+8. do not alter frozen Tamil or the verified English body unless a genuine release-blocking defect is discovered;
+9. stop after E7.
 
 ---
 
