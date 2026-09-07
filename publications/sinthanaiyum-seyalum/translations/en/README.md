@@ -8,23 +8,34 @@ Translation plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 ## Current status
 
 - Tamil authority: **COMPLETE / STRICT-REVIEWED / FROZEN**
-- post-freeze source correction: **scan 76 corrected from `வற்கைச்` to source-visible `வர்களைச்`, propagated and re-frozen**
+- post-freeze source correction already closed: scan 76 `வற்கைச்` → source-visible `வர்களைச்`, propagated and re-frozen
 - E0: **COMPLETE / PASS**
-- T0: **16 / 50 PASS**
-- T1: **16 / 50 COMPLETE**
-- T2: **16 / 50 PASS**
-- T3: **16 / 50 PASS**
-- T4: **16 / 50 PASS**
-- T5: **16 / 50 PASS**
+- T0: **21 / 50 PASS**
+- T1: **21 / 50 COMPLETE**
+- T2: **21 / 50 PASS**
+- T3: **21 / 50 PASS**
+- T4: **21 / 50 PASS**
+- T5: **21 / 50 PASS**
 - E6/E7: **NOT STARTED**
-- English files: **16 / 50**
+- English files: **21 / 50**
 - draft English files: **0 / 50**
-- verified English files: **16 / 50**
+- verified English files: **21 / 50**
 - blockers: **0**
 
 ## Permanent salutation rule
 
-Whenever frozen Tamil has `உடன்பிறப்பே`, retain **`Udanpirappē`**. Never flatten Kalaignar’s distinctive address into `brother`, `sister`, `sibling`, or `comrade`. This user-established policy supersedes the earlier Article 1/2 draft choice `Dear sibling,`; those verified files have been corrected to `Udanpirappē,`.
+Whenever frozen Tamil has `உடன்பிறப்பே`, retain **`Udanpirappē`**. Direct salutation: **`Udanpirappē,`**. Never flatten Kalaignar’s distinctive address into `brother`, `sister`, `sibling`, `Dear sibling`, or `comrade`.
+
+## Review / lexicon history rollover
+
+To keep the living files manageable without losing provenance:
+
+- Articles **1–16** detailed review history is preserved exactly in [`TRANSLATION_REVIEW_THROUGH_16.md`](TRANSLATION_REVIEW_THROUGH_16.md);
+- Articles **1–16** lexicon state is preserved exactly in [`LEXICON_THROUGH_16.md`](LEXICON_THROUGH_16.md);
+- current [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) continues with Articles **17 onward**;
+- current [`LEXICON.md`](LEXICON.md) inherits the archived lexicon and records newer confirmed terminology.
+
+Both historical and living files remain authoritative.
 
 ## Article queue
 
@@ -46,11 +57,11 @@ Whenever frozen Tamil has `உடன்பிறப்பே`, retain **`Udanpir
 | 14 | `வலிவும், பொலிவும்!` | 66–68 | **Strength and Radiance!** | `verified` — T0–T5 PASS |
 | 15 | `இன்பமும் துன்பமும்!` | 69–74 | **Joy and Sorrow!** | `verified` — T0–T5 PASS |
 | 16 | `ஒழுக்கம்` | 75–77 | **Conduct** | `verified` — T0–T5 PASS after source correction |
-| 17 | `வசிய மருந்து` | 78–81 | — | `not-started` |
-| 18 | `சோதிட சோகம்!` | 82–84 | — | `not-started` |
-| 19 | `ஆன்மிக ஆழ்கடல்` | 85–89 | — | `not-started` |
-| 20 | `தேனில் குழைத்துக் கொடுத்தாலும்...!` | 90–93 | — | `not-started` |
-| 21 | `வியாதிக்கு விருந்தா?` | 94–97 | — | `not-started` |
+| 17 | `வசிய மருந்து` | 78–81 | **The Enchantment Drug** | `verified` — T0–T5 PASS |
+| 18 | `சோதிட சோகம்!` | 82–84 | **Astrological Sorrow!** | `verified` — T0–T5 PASS |
+| 19 | `ஆன்மிக ஆழ்கடல்` | 85–89 | **A Deep Ocean of Spirituality** | `verified` — T0–T5 PASS |
+| 20 | `தேனில் குழைத்துக் கொடுத்தாலும்...!` | 90–93 | **Even If Mixed with Honey...!** | `verified` — T0–T5 PASS |
+| 21 | `வியாதிக்கு விருந்தா?` | 94–97 | **A Feast for Disease?** | `verified` — T0–T5 PASS |
 | 22 | `விளையாட்டு` | 98–100 | — | `not-started` |
 | 23 | `தன்னை வெல்வான்` | 101–103 | — | `not-started` |
 | 24 | `இட்லர்` | 104–108 | — | `not-started` |
@@ -83,7 +94,7 @@ Whenever frozen Tamil has `உடன்பிறப்பே`, retain **`Udanpir
 
 The Tamil-title column follows each frozen article assembly heading. Independent contents-page differences remain documented in the Tamil layer and must not be used to overwrite article-heading witnesses.
 
-## Verified authority pins through Article 16
+## Verified authority pins through Article 21
 
 | # | Frozen Tamil blob |
 |---:|---|
@@ -103,13 +114,28 @@ The Tamil-title column follows each frozen article assembly heading. Independent
 | 14 | `a88f7f685673fe80c003208035a3e43f4889b2a5` |
 | 15 | `10748bd56678c878b239a399552eca0e0e40bdf4` |
 | 16 | `82852811292492e0d03360a846f7e4b69ca48720` |
+| 17 | `cd3e997c36d766ac1fd2266b14440d8a88d7663f` |
+| 18 | `8b8b6c4bb82b38f30be12e0746363964c4416ef1` |
+| 19 | `bfdcb5cb7510d6384714a1972fc9505eb3d697cb` |
+| 20 | `755342a0b59f83dac589bc932ad50d7e1b292409` |
+| 21 | `f8a4aa1e62d3f312404e79f57f8f67305ce10b1e` |
 
-Articles **12–16** were processed through every article gate in one user-authorised batch. Complete T2/T3/T4 provenance is in `TRANSLATION_REVIEW.md`, with living terminology in `LEXICON.md`. Unresolved blockers: **0**.
+## Articles 17–21 batch result
 
-During Article 16 T4, controlling scan 76 demonstrated one genuine Tamil defect: the earlier `வற்கைச் சட்டத்தின்` transcription was corrected to source-visible `வர்களைச் சட்டத்தின்` in both the canonical page and assembly, then re-frozen before English T5. No other Tamil text changed.
+Result: **5 / 5 VERIFIED**, **0 unresolved blockers**, **0 Tamil changes**.
 
-## Current boundary
+Key non-regression/source-sensitive outcomes are recorded in `TRANSLATION_REVIEW.md` and `LEXICON.md`, including Article 19’s contents/heading distinction, Article 19 poem lineation, Article 20 `terrorism / extremism` distinction and `Orabi kings`, and Article 21 `morsing` / `(Infection)` witnesses.
 
-Articles **1–16** are durable `verified` English authority. Article **17 has not been started**.
+## Current boundary / exact next activity
 
-Do not begin Article 17 until the user authorises the next batch. When authorised, re-fetch live `main`, pin the current Article 17 frozen Tamil blob, and continue T0–T5 from there. Apply **`Udanpirappē`** whenever the frozen source has `உடன்பிறப்பே`.
+Articles **1–21** are durable `verified` English authority. Article **22 has not been started**.
+
+On the next user authorization, process Articles **22–26** through T0–T5 each, in order:
+
+1. `விளையாட்டு` — scans 98–100;
+2. `தன்னை வெல்வான்` — scans 101–103;
+3. `இட்லர்` — scans 104–108;
+4. `இங்கர்சால்` — scans 109–111;
+5. `மகளிர் இட ஒதுக்கீடு!` — scans 112–116.
+
+Re-fetch live `main` and each frozen Tamil assembly before T0. Apply **`Udanpirappē`** to every source occurrence of `உடன்பிறப்பே`. Stop and synchronize after Article 26 before beginning Article 27.
