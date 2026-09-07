@@ -1,20 +1,23 @@
-# NEXT CHAT PROMPT — `சிந்தனையும் செயலும்` English / E6 publication-wide consistency review
+# NEXT CHAT PROMPT — `சிந்தனையும் செயலும்` English / E7 release closeout
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/sinthanaiyum-seyalum/`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Do not reopen Publications 1–7, Publication 8’s frozen/re-frozen Tamil layer, or verified English Articles 1–50 because a copied prompt is stale.
+Fetch live `main` first and preserve newer durable work. Do not reopen Publications 1–7, Publication 8’s frozen/re-frozen Tamil layer, verified English Articles 1–50, or E6 decisions because a copied prompt is stale.
 
 ## Current phase boundary
 
-**All 50 English articles have completed T0–T5. No article remains untranslated.**
+- all **50 / 50** English articles completed T0–T5;
+- publication-wide **E6: COMPLETE / PASS**;
+- E7: **NOT STARTED**;
+- blockers: **0**.
 
-The exact next phase is **E6 — publication-wide English consistency review**. E6 has **not** been started. Do not begin E7 until E6 is complete and PASS.
+The exact next phase is **E7 — release closeout**. Do not start a new publication/source in the same iteration.
 
 ## Mandatory startup
 
-Read completely before E6 work:
+Read completely before E7:
 
 1. `ESSAY_TRANSLATION_GUIDE.md`;
 2. `docs/FUTURE_WORK_GUIDELINES.md`;
@@ -22,109 +25,101 @@ Read completely before E6 work:
 4. this prompt;
 5. `publications/sinthanaiyum-seyalum/README.md`;
 6. `publications/sinthanaiyum-seyalum/TRANSLATION_PLAN.md`;
-7. `publications/sinthanaiyum-seyalum/PUBLICATION_COMPLETION_REVIEW.md`;
-8. `publications/sinthanaiyum-seyalum/VISUAL_TEXT_FIDELITY_REVIEW.md`;
-9. `publications/sinthanaiyum-seyalum/translations/en/README.md`;
-10. `translations/en/LEXICON_THROUGH_16.md`;
-11. `translations/en/LEXICON_THROUGH_36.md`;
-12. current `translations/en/LEXICON.md`;
-13. `TRANSLATION_REVIEW_THROUGH_16.md`;
-14. `TRANSLATION_REVIEW_17_21.md`;
-15. `TRANSLATION_REVIEW_22_26.md`;
-16. `TRANSLATION_REVIEW_27_36.md`;
-17. current `TRANSLATION_REVIEW.md` for Articles 37–50;
-18. all 50 verified English article files during the E6 inventory/audit;
-19. corresponding frozen Tamil assemblies whenever a consistency question requires source comparison.
+7. `PUBLICATION_COMPLETION_REVIEW.md`;
+8. `VISUAL_TEXT_FIDELITY_REVIEW.md`;
+9. `translations/en/README.md`;
+10. `translations/en/E6_CONSISTENCY_REVIEW.md`;
+11. `translations/en/LEXICON_THROUGH_16.md`;
+12. `translations/en/LEXICON_THROUGH_36.md`;
+13. current `translations/en/LEXICON.md`;
+14. every translation-review ledger: through16, 17–21, 22–26, 27–36, and Articles 37–50.
 
-Historical review/lexicon sidecars remain active authority.
+Historical sidecars remain active authority.
 
 ## Permanent `உடன்பிறப்பே` rule
 
-Every exact frozen-source `உடன்பிறப்பே` must remain **`Udanpirappē`**; direct salutation **`Udanpirappē,`**. Never brother/sister/sibling/Dear sibling/comrade.
+Every exact frozen-source `உடன்பிறப்பே` remains **`Udanpirappē`**; direct salutation **`Udanpirappē,`**. Never brother/sister/sibling/Dear sibling/comrade. Preserve only source-supported plural movement forms such as `Udanpirappugal` and `Kazhaga Udanpirappugalē`.
 
-Preserve only established source-bearing plural movement forms such as `Udanpirappugal` and `Kazhaga Udanpirappugalē` where the Tamil source warrants them.
+## Durable state entering E7
 
-## Durable state entering E6
+### Tamil
+- P0–P5: **COMPLETE / STRICT-REVIEWED / RE-FROZEN**
+- page records: **226 / 226 VERIFIED**
+- assemblies: **50 / 50 VERIFIED**
+- P5 scans: **226 / 226 PASS**
+- unresolved source/fidelity discrepancies: **0**
 
-- Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / RE-FROZEN**
-- Tamil page records: **226 / 226 VERIFIED**
-- Tamil assemblies: **50 / 50 VERIFIED**
-- English E0: **PASS / COMPLETE**
-- T0: **50 / 50 PASS**
-- T1: **50 / 50 COMPLETE**
-- T2: **50 / 50 PASS**
-- T3: **50 / 50 PASS**
-- T4: **50 / 50 PASS**
-- T5: **50 / 50 PASS**
+### English
+- E0: **PASS / COMPLETE**
+- T0–T5: **50 / 50 PASS at every gate**
 - verified English: **50 / 50**
 - drafts: **0 / 50**
-- blockers: **0**
-- E6: **NOT STARTED**
+- E6: **COMPLETE / PASS**
 - E7: **NOT STARTED**
+- blockers: **0**
 
-## Final article block — Articles 37–50
+## E6 result to preserve
 
-Result: **14 / 14 VERIFIED**, **67 / 67 ordered source comments PASS**, **0 blockers**, **0 Tamil changes**.
+Canonical record: `publications/sinthanaiyum-seyalum/translations/en/E6_CONSISTENCY_REVIEW.md`.
 
-Non-regression highlights to protect in E6:
+E6 confirmed:
 
-- Article 37 classical quotations remain source-derived with corrected lineation.
-- Article 40 `கைம்பெண்` is **widow**, not generic `woman`.
-- Article 41 contents/heading spacing witnesses remain independent.
-- Article 42 scientific/nuclear/disaster claims and source-name forms are not externally normalised.
-- Article 44 frozen narrative explicitly uses **Kannan**; do not substitute an externally familiar Mahabharata character.
-- Article 45 source title `இறையனார் குறளும்...` and source chapter form `வலியுறுத்தல்` / `Valiyuruthal` remain unnormalised.
-- Article 46 frozen `ஓர் என்பது ஆண்டுகளுக்குள்` is irregular; current English deliberately does **not invent a number**.
-- Article 47 preserves `Udanpirappugal`, `thalagaani urai`, Kannadasan lineation and finial→lighthouse metaphor.
-- Article 48 contents ends `!...` while heading ends `!`; English follows heading.
-- Article 49 retains source-derived poetry, restored `Sengattu Nangai`, and source force of `கற்பழிக்க`.
-- Article 50 includes the restored scan-222 speaking/writing-as-windows reflection.
+- English inventory: **50 / 50**;
+- live frozen Tamil pins: **50 / 50 MATCH**;
+- ordered source comments: **208 / 208 PASS**, scans **18–225**;
+- `Udanpirapp` forms: **PASS**;
+- terminology/names/source witnesses: **PASS**;
+- quotations/verse: **PASS**;
+- dates/numbers/source claims: **PASS**;
+- voice/Markdown: **PASS**;
+- English-body corrections in E6: **0**;
+- Tamil changes in E6: **0**.
 
-## Exact E6 activity
+E6 added missing `contents_title_ta` metadata to Articles **1–10** only. Preserve the diplomatic differences for Articles 3, 6 and 9 rather than normalising them.
 
-Perform the publication-wide audit systematically across all 50 English articles:
+## Exact E7 activity
 
-### E6-A — Inventory / structure
-- confirm exactly **50** numbered English article files 01–50;
-- no missing or duplicate article number;
-- all have `translation_status: verified`;
-- audit `publication`, article number, Tamil title, contents title, English title, `source_tamil`, Tamil blob SHA, scan ranges, language and translation method.
+### E7-A — Release inventory
+- confirm exactly 50 English article files, all `translation_status: verified`;
+- confirm E6 review record exists and says PASS;
+- confirm Tamil P0–P5 completion records remain PASS.
 
-### E6-B — Source-comment continuity
-- count and audit all ordered `<!-- Tamil source: scan ... -->` comments;
-- compare each article’s comment sequence with its frozen Tamil scan range;
-- preserve cross-Part boundaries for Articles 25, 38 and 49 where relevant;
-- no lost, duplicated or out-of-order source marker.
+### E7-B — Release-facing link/reference audit
+- validate Publication 8 relative Markdown links/references in README/plan/tracker/review records;
+- confirm authority sidecars referenced by release docs exist;
+- do not rewrite historical source-sensitive content merely for style.
 
-### E6-C — Salutations / movement forms
-- search all English articles for `Udanpirapp` variants;
-- enforce exact `Udanpirappē` rule and only established plural forms where source supports them;
-- no sibling/brother/comrade flattening for the source term.
+### E7-C — Open-marker sweep
+- search Publication 8 durable records for unresolved `TODO`, placeholder, `draft`, blocker, `needs-review`, `partial`, source-hold or equivalent active-work markers;
+- distinguish historical prose/examples from actual workflow status;
+- resolve only genuine release blockers.
 
-### E6-D — Terminology / names
-- audit every recurring name, epithet, classical title, political term and transliteration against `LEXICON_THROUGH_16.md`, `LEXICON_THROUGH_36.md` and current `LEXICON.md`;
-- preserve source-specific historical names/forms rather than silently modernising them.
+### E7-D — Status reconciliation
+- reconcile publication README, tracker, plan, completion review, fidelity review, root README, handover and next prompt;
+- no contradictory claim such as E6 pending or untranslated articles remaining may survive.
 
-### E6-E — Quotations / verse
-- verify embedded Kural/classical/literary/political quotations are translations of frozen Tamil only;
-- preserve intended source lineation and boundaries;
-- do not import published English versions.
+### E7-E — Release closeout record
+- create a durable E7 release-closeout record documenting all checks and any corrections;
+- require unresolved Tamil blockers **0** and English blockers **0**;
+- only then mark Publication 8 **RELEASE COMPLETE / FROZEN**.
 
-### E6-F — Numbers / dates / source claims
-- audit dates, percentages, money, counts and measurements against frozen Tamil;
-- treat political, historical, medical, scientific and news statements as source claims;
-- preserve documented irregular forms unless controlling scan proof requires reopening Tamil.
+### E7-F — Final synchronization
+- update publication/root status, completion/fidelity records, plan/tracker, root HANDOVER and this prompt;
+- freeze the completed publication against stale prompts;
+- do not reopen Tamil or English article bodies absent a genuine source defect or explicit user correction.
 
-### E6-G — Voice / English consistency
-- audit punctuation, typography, Markdown, quotation marks and recurring English forms;
-- correct genuine English inconsistency, omission, addition or awkwardness only when source fidelity remains intact;
-- do not neutralise Kalaignar’s satire, accusation, commands, repetitions, questions or images.
+## E7 non-regression
 
-### E6-H — Closure record
-- create a durable publication-wide E6 review record documenting checks, corrections and any remaining blockers;
-- synchronize tracker, translation plan, publication/root README, completion/fidelity records, root HANDOVER and this prompt;
-- mark E6 **PASS** only with **0 unresolved English blockers**.
+Preserve at minimum:
 
-Do not alter frozen Tamil absent a genuine defect demonstrated by controlling scan pixels.
+- all independent contents/heading witnesses (Units 3, 6, 9, 11, 15, 19, 41, 48);
+- Unit 29 unusual frozen Kural witness;
+- Article 44 source `Kannan`;
+- Article 45 source title + `Valiyuruthal`;
+- Article 46 conservative non-numeric rendering of the irregular frozen phrase;
+- Article 47 `thalagaani urai`;
+- Article 49 `Sengattu Nangai` and source-force language;
+- Article 50 restored scan-222 reflection;
+- permanent `Udanpirappē` rule.
 
-**STOP after E6. Do not begin E7 release closeout until the user authorises continuation after E6 PASS.**
+**STOP after E7 release closeout. Do not start another publication or source unless the user explicitly authorises it.**
