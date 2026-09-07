@@ -2,6 +2,7 @@
 publication: "sinthanaiyum-seyalum"
 article_number: 8
 title_ta: "மனிதனின் மறுபக்கம்"
+contents_title_ta: "மனிதனின் மறுபக்கம்"
 title_en: "The Other Side of Man"
 source_tamil: "../../articles/08-manithanin-marupakkam.md"
 source_tamil_blob_sha: "0d7992751ad0c55d32cd47e2dff74189ef1a0a8d"
