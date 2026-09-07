@@ -70,7 +70,7 @@ Final English blob SHA:
 
 `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`
 
-Final article metadata now carries `translation_status: verified`.
+Final article metadata carries `translation_status: verified`.
 
 ### T5 verification checklist
 
@@ -98,9 +98,37 @@ Final article metadata now carries `translation_status: verified`.
 
 **T5 RESULT: PASS — ARTICLE 1 ENGLISH VERIFIED.**
 
-This is article-level verification, not yet publication-level English release closeout.
+## E6 — publication-wide English consistency review
 
-## Final Article 1 gate history
+**COMPLETE / PASS.**
+
+Canonical E6 record:
+
+[`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)
+
+E6 re-fetched both live authorities and confirmed:
+
+- frozen Tamil blob `1c5870212186b2bf7ff095b245e15cd875de76f0`: **unchanged / PASS**;
+- verified English blob `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`: **unchanged since T5 / PASS**;
+- English metadata source pin: **PASS**;
+- source comments: **5 / 5**, ordered `3 → 4 → 5 → 6 → 7`;
+- source-note boundary/date discipline: **PASS**;
+- title/body metaphor consistency: **PASS**;
+- lexicon/source-label/abbreviation consistency: **PASS**;
+- imagery/rhetorical consistency: **PASS**;
+- source-controlled dates/numbers: **PASS**;
+- post-T5 English body drift: **0**;
+- post-T5 English metadata drift: **0**;
+- E6 body corrections: **0**;
+- E6 metadata corrections: **0**;
+- E6 Tamil changes: **0**;
+- E6 blockers: **0**.
+
+**E6 RESULT: PASS / COMPLETE.**
+
+E6 is publication-wide consistency review, not release closeout.
+
+## Final Article 1 / publication gate history
 
 | Gate | Result | Authority / note |
 |---|---|---|
@@ -111,9 +139,9 @@ This is article-level verification, not yet publication-level English release cl
 | T3 | **PASS** | `df9750cfc46ac1f3519ff2d40bbe8bb3b69073a6` |
 | T4 | **PASS** | `943be32674cb3952c655f6bfed9f8b1fc0410969` |
 | T5 | **PASS / VERIFIED** | `57bb332530e5e6de12c74f2cd40ceaccf22e41b9` |
-| E6 | **NEXT** | publication-level consistency review |
-| E7 | **NOT STARTED** | release closeout |
+| E6 | **PASS / COMPLETE** | publication consistency review |
+| E7 | **NOT STARTED / NEXT** | release closeout |
 
 ## Exact next activity
 
-**E6 — publication-level English consistency review.** Although this publication has one translated article, the permanent workflow still requires the publication-level gate: re-fetch the verified English authority and frozen Tamil authority, check publication-wide terminology/title/source-note consistency and durable tracker state, record E6 PASS only if blockers remain 0, then stop before E7.
+**E7 — English release closeout.** Re-fetch the E6-passed verified English authority and frozen Tamil authority, confirm the full T0–T5 + E6 chain and zero blockers, record the release baseline and final release status, synchronize durable documents, and stop. Do not modify frozen Tamil or verified English body unless a genuine release-blocking defect is discovered.
