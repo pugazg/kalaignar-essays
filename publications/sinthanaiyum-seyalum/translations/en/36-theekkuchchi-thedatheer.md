@@ -98,11 +98,9 @@ for a matchstick and kerosene.
 * * *
 
 “The parai is better than a yaazh without melody—
-a woman of fullness is better
-than men without distinction—
-hunger is better than eating spoiled food—
-rather than parting from one who loves you,
-it is good to enter the fire.”
+a woman of fullness is better than men without distinction—
+hunger is better than eating food whose quality is ruined—
+rather than parting from one who loves you, entering the fire is better.”
 
 (Poem 15 —
 `Nanmanikkadigai`)
