@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — வேதனைச் சிறையினின்றும் விடுதலை பெற / P3 assembly
+# NEXT CHAT PROMPT — வேதனைச் சிறையினின்றும் விடுதலை பெற / P4 source-completeness audit
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -33,35 +33,31 @@ Read completely before changing Publication 9:
 2. `docs/FUTURE_WORK_GUIDELINES.md`;
 3. root `HANDOVER.md`;
 4. this prompt;
-5. `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/README.md`;
-6. `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/metadata/source.md`;
-7. `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/indexes/page-map.md`;
-8. `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/indexes/contents.md`;
-9. `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/audit.md`;
-10. page records `pages/0001-cover.md` through `pages/0008-back-cover.md`.
+5. publication `README.md`;
+6. `metadata/source.md`;
+7. `indexes/page-map.md`;
+8. `indexes/contents.md`;
+9. `audit.md`;
+10. page records `pages/0001-cover.md` through `pages/0008-back-cover.md`;
+11. `articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`.
 
 English translation is not yet in scope; do not start it before Tamil P5 freeze.
 
 ## Durable state
 
-### P0 / P1
+- P0: **COMPLETE / PASS**;
+- P1: **COMPLETE / PASS**;
+- P2: **COMPLETE / PASS — 8 / 8 VERIFIED**;
+- P3: **COMPLETE / PASS — 1 / 1 assembly**;
+- P4: **NOT STARTED**;
+- P5: **NOT STARTED**;
+- English: **NOT STARTED / BLOCKED until Tamil freeze**.
 
-**COMPLETE / PASS.** Source identity, classification, date discipline and page map are closed at intake level.
+Canonical P3 assembly:
 
-### P2
+`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
 
-**COMPLETE / PASS — 8 / 8 VERIFIED.**
-
-Canonical page layer:
-
-- scan 1 cover — verified;
-- scan 2 title page — verified;
-- scans 3–7 complete message body — verified;
-- scan 8 back cover / printer — verified.
-
-P2 unresolved body-text blocks: **0**.
-
-P2 is not P5 final fidelity closure.
+P3 assembled only from verified body scans 3–7, retained ordered `<!-- Tamil source: scan ... -->` comments, preserved body sequence without omission/duplication/reorder, and kept the printed scan-7 bracketed source/occasion note outside the message body.
 
 ## Source classification / date discipline
 
@@ -75,31 +71,30 @@ Do not silently assign 15 December 1975 as the exact message/publication date.
 
 ## Historical Tamil glyph / lexical non-regression
 
-Traditional/pre-reform glyph shapes were resolved to underlying source-supported Tamil characters. Preserve P2 lexical witnesses exactly; do not modernise them in assembly.
+Traditional/pre-reform glyph shapes were resolved to underlying source-supported Tamil characters. Preserve P2/P3 lexical witnesses exactly; do not modernise them during P4.
 
-High-attention forms include:
+High-attention forms:
 
-- scan 3 `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `சோளப் பொறி`;
+- scan 3 `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `யானைப் பசிக்குப் போட்ட சோளப் பொறி`;
 - scan 4 `உலகு`, `யந்திரங்களாகவே`;
-- scan 5 `அறுவை சிகிச்சைகள்` versus later `அறுவைச் சிகிச்சை` forms;
-- scan 5/6 `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` — retain through P3 and independently recheck in P5;
-- scan 7 `முன்பியக்கம்`, `முன்பியக்கக்`, bracketed source-note wording;
+- scan 5 `அறுவை சிகிச்சைகள்` versus later `அறுவைச் சிகிச்சைக்கென்று`;
+- scan 5/6 `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` — retain and independently recheck in P5;
+- scan 7 `முன்பியக்கம்`, `முன்பியக்கக்`;
+- source-note `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`;
 - independent scan-1 / scan-2 title punctuation witnesses.
 
-## Exact next activity — P3 single-text assembly
+## Exact next activity — P4 source/completeness audit
 
-Create:
+Perform P4 only:
 
-`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
-
-Requirements:
-
-1. assemble only from verified P2 body records scans **3–7**;
-2. preserve every paragraph, punctuation mark, quote, numeral, dash and source-specific form;
-3. insert ordered source boundary comments for scans 3, 4, 5, 6 and 7;
-4. keep scan 7's bracketed occasion/source note outside the message body, clearly separated as source provenance;
-5. cross-check there is no omission, duplication or page-boundary reorder;
-6. update publication README, audit, root README, root handover and this prompt;
-7. stop after P3. Do **not** perform P4/P5 or English in the same iteration unless the user separately authorises the next gate.
-
-Current P3 entering this activity: **NOT STARTED**.
+1. verify inventory = **8 canonical page records + 1 canonical assembly**;
+2. reconcile source metadata, page map, no-contents record, publication classification and body boundaries;
+3. confirm scan 3 is the body start, scan 7 is the body close, scan 8 is back-cover printer matter;
+4. reconcile assembly source comments/order against scans 3–7 and confirm no body omission, duplication or reorder;
+5. confirm scan-7 bracketed source/occasion note remains outside the message body;
+6. verify page statuses and assembly status are internally consistent;
+7. sweep Publication 9 durable files for active `TODO`, `partial`, `needs-review`, `blocked`, placeholder or unresolved markers;
+8. distinguish historical/audit references from active blockers;
+9. preserve the P5 watchlist, especially the `நாடாளு மன்ற...` witnesses;
+10. update publication README, audit, root README, root handover and this prompt;
+11. stop after P4. Do **not** run P5 or English in the same iteration unless the user separately authorises the next gate.
