@@ -106,4 +106,4 @@ After the targeted scan-76 correction, canonical-page / assembly equality for Ar
 
 All 226 physical scans and all 50 article assemblies have cleared the repository's Tamil archival gates P0–P5. Reopen this Tamil layer only for a genuine defect demonstrated by the controlling scan pixels.
 
-English translation is now **ACTIVE** and has reached **Articles 1–16 T0–T5 PASS / verified**; English work does not change Tamil authority except through the same narrowly demonstrated controlling-scan-defect rule used for scan 76.
+English translation is now **ACTIVE** and has reached **Articles 1–21 T0–T5 PASS / verified**. Articles 17–21 introduced **0 Tamil changes**; English work does not change Tamil authority except through the same narrowly demonstrated controlling-scan-defect rule used for scan 76.
