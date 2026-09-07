@@ -2,7 +2,7 @@
 
 Publication: `publications/meesai-mulaiththa-vayathil/`  
 Controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`  
-P1 status: **COMPLETE / PASS**
+P1 status: **COMPLETE / PASS — source-title corrections synchronized**
 
 ## Source-witness warning
 
@@ -31,7 +31,7 @@ This file is therefore a **repository editorial/source map derived from source-v
 | 4 | `கடலே` | 28 | 30 | 27–29 | no exact pre-existing title hit returned on live-repo search |
 | 5 | `ஆறு` | 31 | 33 | 30–32 | no exact pre-existing title hit returned on live-repo search |
 | 6 | `வாழிய வைகறை` | 34 | 35 | 33–34 | no exact pre-existing title hit returned on live-repo search |
-| 7 | `முக்கை சித்தர்` | 36 | 38 | 35–37 | no exact pre-existing title hit returned on live-repo search |
+| 7 | `அகப்பை சித்தர்` | 36 | 38 | 35–37 | corrected source-visible title; no exact pre-existing title hit returned on live-repo search |
 | 8 | `மலையே வாழி` | 39 | 41 | 38–40 | no exact pre-existing title hit returned on live-repo search |
 | 9 | `கள்ளி` | 42 | 45 | 41–44 | no exact pre-existing title hit returned on live-repo search |
 | 10 | `விண்மீன்` | 46 | 48 | 45–47 | no exact pre-existing title hit returned on live-repo search |
@@ -50,7 +50,7 @@ This file is therefore a **repository editorial/source map derived from source-v
 | 23 | `சேவல் சண்டை` | 115 | 122 | 114–121 | no exact pre-existing title hit returned on live-repo search |
 | 24 | `மடல்` | 123 | 128 | 122–127 | no exact pre-existing title hit returned on live-repo search |
 | 25 | `ஆண்டு விழா` | 129 | 135 | 128–134 | no exact pre-existing title hit returned on live-repo search |
-| 26 | `மயிற்கு` | 136 | 145 | 135–144 | no exact pre-existing title hit returned on live-repo search |
+| 26 | `மயிலிறகு` | 136 | 145 | 135–144 | corrected source-visible title; no exact pre-existing title hit returned on live-repo search |
 
 ## Back matter
 
@@ -58,9 +58,18 @@ This file is therefore a **repository editorial/source map derived from source-v
 |---|---:|---:|---|
 | Illustrated back cover / promotional text | 146 | — | not a main-work unit |
 
+## Source-title correction provenance
+
+Direct reinspection of the controlling scan after user review corrected two P1 heading readings without changing any unit boundary:
+
+1. scan 36 / printed p.35: `முக்கை சித்தர்` → **`அகப்பை சித்தர்`**;
+2. scan 136 / printed p.135: `மயிற்கு` → **`மயிலிறகு`**.
+
+The corrected titles were re-screened against live `pugazg/kalaignar-essays`; both returned no exact pre-existing title hit. Duplicate blockers therefore remain **0**.
+
 ## Unit-level duplicate reconciliation
 
-P1 searched all **26 / 26** source-visible main-unit titles against live `pugazg/kalaignar-essays`.
+P1 has screened all **26 / 26** source-visible main-unit titles against live `pugazg/kalaignar-essays`, including the two corrected source readings above.
 
 - exact pre-existing title hits returned: **0 / 26**;
 - possible duplicate blockers requiring merge/hold: **0**;
@@ -69,13 +78,13 @@ P1 searched all **26 / 26** source-visible main-unit titles against live `pugazg
 
 Titles screened:
 
-`பிறையே`, `ஆடிக்காற்று`, `கருப்புப் பெண்`, `கடலே`, `ஆறு`, `வாழிய வைகறை`, `முக்கை சித்தர்`, `மலையே வாழி`, `கள்ளி`, `விண்மீன்`, `தனிமை`, `நாடக மேடை`, `புகழ்`, `பச்சைக்கிளி`, `தமிழே`, `தேனலைகள்`, `தோழி`, `மருதாணி`, `அருவி`, `முறம்`, `யாழ்`, `சிற்பி`, `சேவல் சண்டை`, `மடல்`, `ஆண்டு விழா`, `மயிற்கு`.
+`பிறையே`, `ஆடிக்காற்று`, `கருப்புப் பெண்`, `கடலே`, `ஆறு`, `வாழிய வைகறை`, `அகப்பை சித்தர்`, `மலையே வாழி`, `கள்ளி`, `விண்மீன்`, `தனிமை`, `நாடக மேடை`, `புகழ்`, `பச்சைக்கிளி`, `தமிழே`, `தேனலைகள்`, `தோழி`, `மருதாணி`, `அருவி`, `முறம்`, `யாழ்`, `சிற்பி`, `சேவல் சண்டை`, `மடல்`, `ஆண்டு விழா`, `மயிலிறகு`.
 
 ## Boundary / pagination checks
 
 - main-unit count: **26**;
 - first unit: `பிறையே` — scan 18 / printed p.17;
-- final unit: `மயிற்கு` — scans 136–145 / printed pp.135–144;
+- final unit: `மயிலிறகு` — scans 136–145 / printed pp.135–144;
 - source-visible main-unit heading starts: **26 / 26 accounted for**;
 - scans 18–145: printed pages **17–144**, continuous;
 - page-map overlaps: **0**;
