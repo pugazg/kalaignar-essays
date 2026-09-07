@@ -9,30 +9,33 @@ Translation plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 - Tamil authority: **COMPLETE / STRICT-REVIEWED / RE-FROZEN**
 - E0: **COMPLETE / PASS**
-- T0: **26 / 50 PASS**
-- T1: **26 / 50 COMPLETE**
-- T2: **26 / 50 PASS**
-- T3: **26 / 50 PASS**
-- T4: **26 / 50 PASS**
-- T5: **26 / 50 PASS**
-- verified English files: **26 / 50**
+- T0: **36 / 50 PASS**
+- T1: **36 / 50 COMPLETE**
+- T2: **36 / 50 PASS**
+- T3: **36 / 50 PASS**
+- T4: **36 / 50 PASS**
+- T5: **36 / 50 PASS**
+- verified English files: **36 / 50**
 - draft English files: **0 / 50**
 - blockers: **0**
 - E6/E7: **NOT STARTED**
 
 ## Permanent salutation rule
 
-Every frozen-source `உடன்பிறப்பே` remains **`Udanpirappē`**; direct salutation: **`Udanpirappē,`**. Never flatten it into `brother`, `sister`, `sibling`, `Dear sibling`, or `comrade`.
+Every exact frozen-source `உடன்பிறப்பே` remains **`Udanpirappē`**; direct salutation: **`Udanpirappē,`**. Never flatten it into `brother`, `sister`, `sibling`, `Dear sibling`, or `comrade`.
+
+Related movement-address forms now established by source context include `Udanpirappugal` and `Kazhaga Udanpirappugalē`; these supplement but do not alter the permanent exact-form rule.
 
 ## Review / lexicon authority chain
 
 - [`TRANSLATION_REVIEW_THROUGH_16.md`](TRANSLATION_REVIEW_THROUGH_16.md) — exact Articles 1–16 review history;
 - [`TRANSLATION_REVIEW_17_21.md`](TRANSLATION_REVIEW_17_21.md) — exact Articles 17–21 review history;
-- [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) — living review from Article 22 onward;
+- [`TRANSLATION_REVIEW_22_26.md`](TRANSLATION_REVIEW_22_26.md) — exact Articles 22–26 review history;
+- [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) — living review from Article 27 onward;
 - [`LEXICON_THROUGH_16.md`](LEXICON_THROUGH_16.md) — terminology through Article 16;
-- [`LEXICON.md`](LEXICON.md) — living inherited lexicon, now confirmed through Article 26.
+- [`LEXICON.md`](LEXICON.md) — living inherited lexicon, now confirmed through Article 36.
 
-All of these remain active authority.
+All remain active authority.
 
 ## Article queue
 
@@ -64,16 +67,16 @@ All of these remain active authority.
 | 24 | `இட்லர்` | 104–108 | **Hitler** | `verified` |
 | 25 | `இங்கர்சால்` | 109–111 | **Ingersoll** | `verified` |
 | 26 | `மகளிர் இட ஒதுக்கீடு!` | 112–116 | **Women's Reservation!** | `verified` |
-| 27 | `தியானம்???` | 117–122 | — | `not-started` |
-| 28 | `விபத்து` | 123–125 | — | `not-started` |
-| 29 | `சின்னத்திரை “செல்வி”` | 126–129 | — | `not-started` |
-| 30 | `மருந்தென ஒன்று!` | 130–133 | — | `not-started` |
-| 31 | `சிறிய நூல்தான்` | 134–138 | — | `not-started` |
-| 32 | `மண்டேலா` | 139–144 | — | `not-started` |
-| 33 | `தொண்டுள்ளம்` | 145–147 | — | `not-started` |
-| 34 | `மகளிர் பேரணி!` | 148–151 | — | `not-started` |
-| 35 | `திரிகடுகம்` | 152–154 | — | `not-started` |
-| 36 | `தீக்குச்சி தேடாதீர்!` | 155–158 | — | `not-started` |
+| 27 | `தியானம்???` | 117–122 | **Meditation???** | `verified` |
+| 28 | `விபத்து` | 123–125 | **Accident** | `verified` |
+| 29 | `சின்னத்திரை “செல்வி”` | 126–129 | **The Small-Screen “Selvi”** | `verified` |
+| 30 | `மருந்தென ஒன்று!` | 130–133 | **A Thing Called Medicine!** | `verified` |
+| 31 | `சிறிய நூல்தான்` | 134–138 | **Only a Small Book** | `verified` |
+| 32 | `மண்டேலா` | 139–144 | **Mandela** | `verified` |
+| 33 | `தொண்டுள்ளம்` | 145–147 | **Spirit of Service** | `verified` |
+| 34 | `மகளிர் பேரணி!` | 148–151 | **Women's Rally!** | `verified` |
+| 35 | `திரிகடுகம்` | 152–154 | **Thirikadugam** | `verified` |
+| 36 | `தீக்குச்சி தேடாதீர்!` | 155–158 | **Don't Look for a Matchstick!** | `verified` |
 | 37 | `சிலம்பும் மணியும்!` | 159–162 | — | `not-started` |
 | 38 | `செய்ந்நன்றி` | 163–166 | — | `not-started` |
 | 39 | `பகுத்தறிவுப் பாதை!` | 167–172 | — | `not-started` |
@@ -89,20 +92,25 @@ All of these remain active authority.
 | 49 | `அந்தாதி பாடிய அருதகுட்டி நாடார்` | 214–220 | — | `not-started` |
 | 50 | `சிந்தனை செய் மனமே` | 221–225 | — | `not-started` |
 
-## Frozen Tamil authority pins — latest batch
+## Frozen Tamil authority pins — Articles 27–36
 
-| # | Frozen Tamil blob |
-|---:|---|
-| 22 | `e53fa5247556aff7c565cd5631549a9eb4f2c649` |
-| 23 | `019c3e2dab6666dddd5084c723ddeaf98fa51abf` |
-| 24 | `434c266217de96e39652b9e3eb6d4d3274a5adfe` |
-| 25 | `42776cccf8ac37eefa495e24c0294b13bdd3a610` |
-| 26 | `cfc6b79f5196bedf56076834e677332a5b941ae4` |
+| # | Frozen Tamil blob | English blob |
+|---:|---|---|
+| 27 | `202077d37c7211d14b0b2794d95e4240637b4c7a` | `673556b5473cc0e127a65e6c11bb918666a2022b` |
+| 28 | `64c753343356883615cd830ca5e182bc983d86fb` | `f6461a03ff624886cfb40070e8b15ef69cd53bfa` |
+| 29 | `5439e26c4b00dde37bc1842ea3665bdee721dab6` | `2c07e586c5fb456eeb1399f7b3571c768ed69b24` |
+| 30 | `3d59167549195f7603b0705e747197bf5f0b0c04` | `316b1cf10dbf2ba87968eef711d064d8b405ac1f` |
+| 31 | `62c72d2c042484757da76a40de48c021aa28e236` | `b29b5ec7a7872c3827ac3222b8186c9a390ae5c0` |
+| 32 | `c3be3082aa9bc1a3da96a819e481190974c8756e` | `d47db0613c886ae2902d43a943eaca8b9bfd0a1d` |
+| 33 | `b02e252ade6a73cf24456d41091e53fccc3a18d0` | `bd69684bb4a237d11cba87f1166e85e103cce665` |
+| 34 | `762d5ae85ebf9fb7137ed44fcb07d9cf131a4fa7` | `f03dfaa40215069366a47ea9b0ebbf1725d45498` |
+| 35 | `31df896e40b0a05d983a47e64983afe9e1b36b1b` | `f579c7d0ff5b9b1045635fff7952b56fd117b9e5` |
+| 36 | `20be4a5c41cdc88db16663e9a8e2b38f2c630470` | `4cb91f68ed4e56e4feb912c81d832fc8d9633f35` |
 
-Articles **22–26** passed T0–T5 with **19 / 19 source comments**, **0 blockers**, and **0 Tamil changes**. Article 24 received two English-only T3 refinements; Article 25’s closing quotation was restored to its source-displayed lineation before T5.
+Articles **27–36** passed T0–T5 with **42 / 42 ordered source comments**, **0 blockers**, and **0 Tamil changes**. Review corrections made before closure are recorded in `TRANSLATION_REVIEW.md`.
 
-## Current boundary
+## Current boundary / cadence
 
-Articles **1–26** are durable verified English authority. Article **27 has not been started**.
+Articles **1–36** are durable verified English authority. Article **37 has not been started**.
 
-The next prepared batch is Articles **27–31**, but it must not begin until the user authorises continuation.
+Per user instruction, normal continuation now processes **10 articles in each iteration** where enough remain. The next prepared iteration is Articles **37–46**; stop after 46 before the final 47–50 block.
