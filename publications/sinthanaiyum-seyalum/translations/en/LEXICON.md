@@ -63,15 +63,27 @@ This lexicon is a consistency aid under `ESSAY_TRANSLATION_GUIDE.md`; context st
 | `தேறல்` | `theral` | Source liquor/drink term in Article 11; source glossary controls. | Article 11 | T4-confirmed |
 | `புறநானூறு` | `Purananuru` | Source work title; embedded verse translated from frozen Tamil, not from published English. | Article 11 | T4-confirmed |
 | `கனக விசயர்` | `Kanaka Visayar` | Preserve source name/form and source description; no external historical normalization. | Article 11 | T4-confirmed |
+| `அழுக்காறு` | `Azhukkaaru` / contextual `envy` | Retain `Azhukkaaru` where Article 12 exploits the `அழுக்கு` + `ஆறு` dirt/way/river wordplay; translate the surrounding jealous trait naturally. | Article 12 | T4-confirmed |
+| `கலாம்` | `kalaam` | Source-visible unusual form on Article 12 scan 61; preserve as frozen rather than silently normalising. | Article 12 | T4-confirmed |
+| `மிகுதிக்கண்` | `when the limit is crossed` / `when one goes too far` | Article 13 extends the Kural phrase from moral deviation to over-familiarity crossing its limit. | Article 13 | T4-confirmed |
+| `கட்டை` | `kattai` | Article 13 harmonium passage turns on `kattai` as the musical-key term and Kalaignar’s `block` retort; retain the source word so the pun stays visible. | Article 13 | T4-confirmed |
+| `ஞாயிறு போற்றுதும்` | `Nyayiru Potruthum` | Article 14 meditation/sound context; body may add the direct gloss “Let us praise the Sun” while retaining the source sound-bearing form. | Article 14 | T4-confirmed |
+| `ற` / `றற` | preserve Tamil glyph(s) | Article 14 explicitly discusses practising this sound; romanisation would erase the object of the exercise. | Article 14 | T4-confirmed |
+| `பின்னணியில் நாம் முன்னணியில்` | `we are in the forefront of the rear ranks` | Article 15 bitter medal-table wordplay; preserve the front/rear reversal. | Article 15 | T4-confirmed |
+| `ஒழுக்கம்` | `conduct` / contextual `proper conduct` | Article 16 title **Conduct**; body distinguishes natural conduct from behaviour driven by fear of punishment or blame. | Article 16 | T4-confirmed |
+| `கற்பு` | `chastity` | Article 16 argues that chastity must not be reduced to socially enforced behaviour. | Article 16 | T4-confirmed |
+| `மாண்பு` | `dignity` | Article 16 context: an evil thought not arising at all is the dignity worthy of praise/respect. | Article 16 | T4-confirmed |
+| `நேர்மை` | `integrity` | Article 16 context: absence of the evil thought itself, rather than deterrence by consequences. | Article 16 | T4-confirmed |
 
-## Publication-level principles established through Articles 1–11
+## Publication-level principles established through Articles 1–16
 
 - **`உடன்பிறப்பே` is always retained as `Udanpirappē`.** This permanent user-established rule supersedes the earlier `Dear sibling,` choice and applies to every future occurrence. Do not flatten Kalaignar’s distinctive movement address into `brother`, `sister`, `sibling`, or `comrade`.
 - Translate embedded quotations from the frozen Tamil wording; do not import published English versions unless explicitly authorised.
 - Preserve commands, rhetorical questions, repeated punctuation, repetition, accusation, irony and abrupt contrast.
 - Keep ordered Tamil source-page comments in every English article.
 - Names/epithets follow the referential form chosen in the Tamil sentence; do not silently modernise or expand them from outside knowledge.
-- Fidelity review must preserve surprising or internally awkward frozen-source wording rather than silently “correcting” it. Article 2 `காண விரும்பாத` is the standing example.
+- Fidelity review must preserve surprising or internally awkward frozen-source wording rather than silently “correcting” it. Article 2 `காண விரும்பாத`, Article 12 `கலாம்`, and Article 15’s source chronology are standing examples.
 - Source-specific wordplay and odd labels may remain slightly strange in English when smoothing them would erase Kalaignar’s rhetorical action.
 - Tamil contents-page and article-heading differences remain separate witnesses; English titles follow the frozen article assembly heading unless a later explicit editorial policy says otherwise.
 - Historical, literary and news-report claims are translated from the frozen Tamil source; T4 does not silently fact-check or harmonise them from outside sources.
+- A genuinely demonstrated scan-level Tamil defect may be corrected even after freeze, but only with direct source-witness evidence, targeted propagation and re-freezing. Article 16 scan 76 (`வற்கைச்` → source-visible `வர்களைச்`) is the standing precedent.
