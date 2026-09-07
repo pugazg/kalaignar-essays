@@ -1,6 +1,6 @@
 # மூலப் பதிவு — மீசை முளைத்த வயதில்
 
-## P0 source identity
+## Source identity
 
 - Source ID / filename stem: `TVA_BOK_0065746`
 - Source filename: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`
@@ -25,7 +25,7 @@
 - title: `மீசை முளைத்த வயதில்`
 - author: `கலைஞர் மு.கருணாநிதி`
 - publisher: `தமிழ்க்கனி பதிப்பகம்`
-- portrait illustration/photographic rendering of the young author
+- portrait of the young author
 - later circular library stamp; not publication text
 
 ### Imprint / edition page — scan 3
@@ -36,61 +36,102 @@ Direct visual intake confirms:
 - first edition witness: `முதற்பதிப்பு : கலைஞர் பிறந்த நாள் 3.6.2002`;
 - second edition witness: `இரண்டாம் பதிப்பு : அக்டோபர் 2006`.
 
-A large later library stamp and handwritten/accession markings obscure portions of the imprint/contact block. Those obscured details are **not reconstructed from context** at P0.
+A large later library stamp and handwritten/accession markings obscure portions of the imprint/contact block. Those obscured details are **not reconstructed from context**.
 
 ## Source form / classification
 
 This supplied edition is **not a single conventional essay**. It is an illustrated, multi-piece literary collection of Kalaignar's youthful writings.
 
-The author's `என்னுரை` in the front matter describes the gathered pieces as **`எழுத்தோவியங்கள்`** and explains that they were collected under the title `மீசை முளைத்த வயதில்`. The following foreword by `கவிப்பேரரசு வைரமுத்து` discusses the youthful literary/poetic character of the work.
+The author's `என்னுரை` describes the gathered pieces as **`எழுத்தோவியங்கள்`** and explains that they were collected under the title `மீசை முளைத்த வயதில்`. The following `முன்னுரை` is by `கவிப்பேரரசு வைரமுத்து`.
 
-Repository classification for this edition:
+Repository classification:
 
-**multi-piece youthful literary / prose collection (`எழுத்தோவியங்கள்`)** archived under `kalaignar-essays` without silently relabelling every unit as a conventional essay, poem, speech or story. Individual unit type/boundary labels must be source-driven during P1/P2.
+**multi-piece youthful literary / prose collection (`எழுத்தோவியங்கள்`)** archived under `kalaignar-essays` without silently relabelling every source-titled unit as a conventional essay, poem, speech or story.
 
-## Preliminary physical structure
+## P1 canonical physical structure — VERIFIED
 
-Direct scan inspection establishes the following P0 boundary framework:
+P1 directly inspected and accounted for **146 / 146** physical scans.
 
 - scan 1 — front cover;
 - scan 2 — title page;
 - scan 3 — imprint / edition / price page;
 - scans 4–6 — `என்னுரை` by Kalaignar;
 - scans 7–16 — `முன்னுரை` by `கவிப்பேரரசு வைரமுத்து`;
-- scan 17 — effectively blank / reverse-side show-through only;
-- scan 18 — first visibly titled main-work unit, `பிறையே`, printed p.17;
-- scans 18–145 — main-work printed pagination runs through printed p.144;
-- scan 145 — printed p.144, final body close visible;
+- scan 17 — blank / reverse-side show-through only;
+- scans 18–145 — source-titled main work;
 - scan 146 — illustrated back cover / promotional text.
 
-For scans **18–145**, the observed physical/printed relation is `printed page = scan page - 1` (`17` through `144`). P1 must verify this continuously and map every unit boundary.
+For every scan from **18 through 145**, P1 verified the continuous visible printed folio sequence **17 through 144**:
 
-No printed contents page is visible in the inspected front matter. P1 must confirm publication-wide contents/boundary mapping from the source itself rather than invent a synthetic contents witness.
+`printed page = scan page - 1`
+
+Printed body folios accounted for: **128 / 128**.  
+Unmapped physical scans: **0**.  
+P1 page-sequence blockers: **0**.
+
+Canonical page map: [`../indexes/page-map.md`](../indexes/page-map.md).
+
+## Printed contents witness
+
+**No printed contents page exists in the supplied edition.**
+
+P1 therefore created [`../indexes/contents.md`](../indexes/contents.md) as an explicitly labelled **repository editorial/source map** derived from source-visible opening headings and directly verified boundaries. It is not a publisher-supplied contents transcription.
+
+## P1 source-visible main-unit map — 26 / 26
+
+| # | Title | Scans | Printed pages |
+|---:|---|---:|---:|
+| 1 | `பிறையே` | 18–20 | 17–19 |
+| 2 | `ஆடிக்காற்று` | 21–23 | 20–22 |
+| 3 | `கருப்புப் பெண்` | 24–27 | 23–26 |
+| 4 | `கடலே` | 28–30 | 27–29 |
+| 5 | `ஆறு` | 31–33 | 30–32 |
+| 6 | `வாழிய வைகறை` | 34–35 | 33–34 |
+| 7 | `முக்கை சித்தர்` | 36–38 | 35–37 |
+| 8 | `மலையே வாழி` | 39–41 | 38–40 |
+| 9 | `கள்ளி` | 42–45 | 41–44 |
+| 10 | `விண்மீன்` | 46–48 | 45–47 |
+| 11 | `தனிமை` | 49–54 | 48–53 |
+| 12 | `நாடக மேடை` | 55–56 | 54–55 |
+| 13 | `புகழ்` | 57–58 | 56–57 |
+| 14 | `பச்சைக்கிளி` | 59–61 | 58–60 |
+| 15 | `தமிழே` | 62 | 61 |
+| 16 | `தேனலைகள்` | 63–71 | 62–70 |
+| 17 | `தோழி` | 72–77 | 71–76 |
+| 18 | `மருதாணி` | 78–84 | 77–83 |
+| 19 | `அருவி` | 85–90 | 84–89 |
+| 20 | `முறம்` | 91–95 | 90–94 |
+| 21 | `யாழ்` | 96–102 | 95–101 |
+| 22 | `சிற்பி` | 103–114 | 102–113 |
+| 23 | `சேவல் சண்டை` | 115–122 | 114–121 |
+| 24 | `மடல்` | 123–128 | 122–127 |
+| 25 | `ஆண்டு விழா` | 129–135 | 128–134 |
+| 26 | `மயிற்கு` | 136–145 | 135–144 |
+
+Source-titled units accounted for: **26 / 26**.  
+Boundary overlaps: **0**.  
+Unmapped body pages: **0**.
+
+## P1 duplicate reconciliation
+
+Live `pugazg/kalaignar-essays/main` was searched for every one of the **26** source-visible main-unit titles after the complete source map was established.
+
+- exact pre-existing unit-title hits returned: **0 / 26**;
+- possible duplicate blockers requiring merge/hold: **0**;
+- exact publication-title/source-ID blocker: **0**.
+
+This is a repository-level duplicate screen only. It does not assert that these pieces never appeared in another external edition, periodical or source not represented in this repository.
 
 ## Physical-copy / scan condition
-
-P0 observations:
 
 - high-resolution image-only scan;
 - light reverse-side show-through is common;
 - library stamps/accession markings occur on multiple scans;
 - scan 3 has a large stamp and handwriting over imprint matter;
-- later library markings are also visible within the body/back matter;
-- illustrations accompany many titled units;
-- physical-copy marks must stay separate from printed text in page records;
-- source wording, punctuation, historical spelling and unusual forms must not be modernised.
-
-## Duplicate check at intake
-
-Live `main` was searched before creating this workspace.
-
-- exact title `மீசை முளைத்த வயதில்`: **no existing match in `pugazg/kalaignar-essays`**;
-- source ID `TVA_BOK_0065746`: **no existing match**;
-- representative early unit headings `பிறையே`, `ஆடிக்காற்று`, `கருப்புப் பெண்`, `மலையே வாழி`: **no existing match found**.
-
-Therefore the supplied **publication edition is genuinely new to this repository** and a new publication workspace is authorized.
-
-Because this is a large multi-piece collection, P1 must enumerate every source-visible unit heading and complete the unit-level duplicate reconciliation before article/reading assemblies are created. P0 does not claim that no individual text has ever appeared in another edition outside this repository.
+- illustrations accompany many titled-unit openings;
+- physical-copy marks must stay separate from printed text in P2 page records;
+- source wording, punctuation, historical spelling and unusual forms must not be modernised;
+- text obscured by stamps/damage must not be reconstructed from context.
 
 ## Date / edition discipline
 
@@ -100,20 +141,21 @@ Source-supported edition evidence:
 - supplied edition: **second edition, October 2006**;
 - publisher: **தமிழ்க்கனி பதிப்பகம்**.
 
-Do not silently replace these edition witnesses with later catalogue metadata or infer a separate composition date for every internal piece from the edition date.
+Do not infer a composition date for an individual internal piece merely from these edition dates.
 
 ## Current workflow status
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**
-- P1 — metadata + full page map + unit/contents mapping: **NOT STARTED / NEXT**
-- P2 — page-level transcription: **NOT STARTED**
+- P1 — metadata + full page map + unit/contents mapping + duplicate reconciliation: **COMPLETE / PASS**
+- P2 — page-level transcription: **NOT STARTED / NEXT**
 - P3 — assemblies: **NOT STARTED**
 - P4 — source/completeness audit: **NOT STARTED**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
 - English translation: **BLOCKED until Tamil P5 freeze**
+- P1 blockers: **0**
 
 ## Exact next activity
 
-**P1 — map all 146 physical scans and all source-visible text-unit boundaries in one publication-level metadata/page-map/contents pass.**
+**P2 — begin canonical page-level transcription from scan 1.**
 
-P1 must preserve the front-matter witnesses, establish every main-work heading/start/end directly from the scan, complete unit-level duplicate reconciliation against live `kalaignar-essays`, and create `indexes/page-map.md` plus `indexes/contents.md` without transcribing full body prose.
+Every physical scan must receive a page record under `pages/`. Preserve printed text, illustrations and physical-copy marks as distinct layers. Use the scan as authority; OCR is not authority. Do not begin P3 assemblies or English translation under the P2 start activity.
