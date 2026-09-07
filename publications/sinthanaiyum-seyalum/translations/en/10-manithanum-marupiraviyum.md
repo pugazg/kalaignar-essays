@@ -2,6 +2,7 @@
 publication: "sinthanaiyum-seyalum"
 article_number: 10
 title_ta: "மனிதனும் மறுபிறவியும்"
+contents_title_ta: "மனிதனும் மறுபிறவியும்"
 title_en: "Man and Rebirth"
 source_tamil: "../../articles/10-manithanum-marupiraviyum.md"
 source_tamil_blob_sha: "47a682dfcc482287ca9a64743947e27e5a808ee1"
