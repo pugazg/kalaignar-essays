@@ -12,7 +12,7 @@ P1 status: **COMPLETE / PASS — source-title corrections synchronized**
 - Scans 1–17 and 146 are unnumbered physical/front/back matter.
 - No printed contents page is present; main-unit labels below come from source-visible opening headings.
 - Library stamps, accession labels, handwriting and reverse-side show-through are physical-copy evidence, not printed body text.
-- User-flagged P1 title readings at scans 36 and 136 were re-opened against the source pixels and corrected without changing boundaries.
+- User-flagged P1 title readings at scans 36, 42 and 136 were re-opened against the source pixels and corrected without changing boundaries.
 
 ## 146-scan canonical P1 map
 
@@ -59,10 +59,10 @@ P1 status: **COMPLETE / PASS — source-title corrections synchronized**
 | 39 | 38 | main-work | 08. மலையே வாழி | start |
 | 40 | 39 | main-work | 08. மலையே வாழி | continuation |
 | 41 | 40 | main-work | 08. மலையே வாழி | end |
-| 42 | 41 | main-work | 09. கள்ளி | start |
-| 43 | 42 | main-work | 09. கள்ளி | continuation |
-| 44 | 43 | main-work | 09. கள்ளி | continuation |
-| 45 | 44 | main-work | 09. கள்ளி | end |
+| 42 | 41 | main-work | 09. தளிர் | start |
+| 43 | 42 | main-work | 09. தளிர் | continuation |
+| 44 | 43 | main-work | 09. தளிர் | continuation |
+| 45 | 44 | main-work | 09. தளிர் | end |
 | 46 | 45 | main-work | 10. விண்மீன் | start |
 | 47 | 46 | main-work | 10. விண்மீன் | continuation |
 | 48 | 47 | main-work | 10. விண்மீன் | end |
@@ -168,6 +168,7 @@ P1 status: **COMPLETE / PASS — source-title corrections synchronized**
 ## Source-title correction provenance
 
 - scan 36 / printed p.35: previous P1 reading `முக்கை சித்தர்` → source-visible **`அகப்பை சித்தர்`**;
+- scan 42 / printed p.41: previous P1 reading `கள்ளி` → source-visible **`தளிர்`**;
 - scan 136 / printed p.135: previous P1 reading `மயிற்கு` → source-visible **`மயிலிறகு`**;
 - boundaries changed by these corrections: **0**;
 - printed-page mapping changed: **0**.
