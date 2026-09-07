@@ -48,7 +48,7 @@ Likewise, the U.N. declared this year, 1975, the ‘World Women's Year’; in co
 
 Needless to say, there is a close connection between the previous ‘Population Year’ and this ‘Women's Year’.
 
-Women are tormented by being subjected again and again to the ordeal called ‘childbearing’, as mere machines for bearing children. The one way—the worthy way—for them to gain freedom from that prison of suffering is the ‘small-family norm’!
+Women are tormented by being subjected again and again to the ordeal called ‘childbearing’, as mere machines for bearing children. The only way—the worthy way—for them to gain freedom from that prison of suffering is the ‘small-family norm’!
 
 Women must have the right to decide that this many children are enough—to determine when the next child may be born. Until they attain such a right, we cannot take pride in saying that women's rights have become complete.
 
