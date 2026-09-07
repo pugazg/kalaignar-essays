@@ -48,22 +48,38 @@ That date is the source-supported **start date of the fortnight**. The exact mes
 
 No printed contents page is present. One continuous message body runs through scans **3–7**.
 
-## P3 canonical assembly
-
-Canonical Tamil message assembly:
+## Canonical P3 assembly
 
 - [`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md)
 - assembled only from P2-verified body records scans **3–7**;
 - ordered `<!-- Tamil source: scan ... -->` comments retained for all five body scans;
 - scan-7 bracketed occasion/source note retained outside the message body;
-- body start/end and scan order cross-checked;
 - assembly omissions / duplications / reordered boundaries: **0 / 0 / 0**.
+
+## P4 source/completeness audit
+
+Canonical record: [`SOURCE_COMPLETENESS_AUDIT.md`](SOURCE_COMPLETENESS_AUDIT.md).
+
+**P4 RESULT: PASS.**
+
+- physical source scans represented by canonical P2 records: **8 / 8 PASS**;
+- page statuses: **8 / 8 `verified`**;
+- canonical P3 body assemblies: **1 / 1 PASS**;
+- body order: **scan 3 → 4 → 5 → 6 → 7 PASS**;
+- ordered assembly source comments: **5 / 5 PASS**;
+- body omission / duplication / reorder: **0 / 0 / 0**;
+- scan-7 printed source note remains outside message body: **PASS**;
+- scans 1, 2 and 8 remain outside body assembly: **PASS**;
+- P4 `needs-review` / `blocked`: **0 / 0**;
+- unresolved body-completeness blockers: **0**.
+
+P4 found one stale documentation footer in `indexes/page-map.md` that still described P3 as not started. That workflow footer has been synchronized; no page text or article-body text changed.
 
 ## Historical Tamil typography / non-regression
 
 Traditional/pre-reform glyphs are encoded as their scan-supported underlying Tamil characters while preserving genuine historical/source wording, punctuation and irregularities.
 
-Preserve through P4/P5 at minimum:
+Preserve through P5 at minimum:
 
 - scan 3 `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `யானைப் பசிக்குப் போட்ட சோளப் பொறி`;
 - scan 4 `உலகு`, `யந்திரங்களாகவே`;
@@ -81,11 +97,11 @@ Preserve through P4/P5 at minimum:
 - P1 — metadata + page map + contents mapping: **COMPLETE / PASS**
 - P2 — page-level transcription: **COMPLETE / PASS — 8 / 8 VERIFIED**
 - P3 — single-text assembly: **COMPLETE / PASS — 1 / 1**
-- P4 — source/completeness audit: **NOT STARTED**
+- P4 — source/completeness audit: **COMPLETE / PASS**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
-- unresolved P2/P3 body-text blocks: **0**
+- unresolved body-completeness blockers: **0**
 
-P3 completion is not P5/final freeze.
+P4 completion is not P5/final Tamil freeze.
 
 ### English
 
@@ -93,6 +109,6 @@ P3 completion is not P5/final freeze.
 
 ## Exact next activity
 
-**P4 — source/completeness audit.**
+**P5 — strict visual word/punctuation fidelity over all 8 physical scans.**
 
-Reconcile all 8 page records, the single P3 assembly, boundaries, source-note separation, metadata/page-map consistency, source-sensitive watchlist and open-marker state. Do not perform P5 or English in the same activity unless separately authorised.
+Re-open the controlling source and compare every visible printed word, historical glyph, spacing/word boundary, punctuation mark, heading, date, number, paragraph continuation, physical-copy exclusion and independent source witness against the canonical page records. Propagate any confirmed correction to the P3 assembly and durable records with provenance.
