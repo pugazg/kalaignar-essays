@@ -71,7 +71,7 @@ In both the play and film `Manimakudam`, is it not the intelligent woman Alli wh
 “Like a figure rolling
 within the eye,
 know that a heart too
-belongs to a woman.”
+belongs to a widow.”
 
 These are lines of poetry I wrote before 1945.
 
