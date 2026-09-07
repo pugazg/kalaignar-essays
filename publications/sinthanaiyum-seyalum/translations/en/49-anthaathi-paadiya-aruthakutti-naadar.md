@@ -97,8 +97,9 @@ an ascetic, my daughter?”
 
 The daughter replies to that mother:
 
-“O Mother! If you saw the beauty
-of that Thillai Chidambara ascetic whom you say one must not desire,
+“O Mother! If you saw that Thillai Chidambara
+ascetic whom you say one must not desire,
+if you saw his beauty,
 is there anyone whose clothes would not loosen
 and who would not be seized by longing?”
 
@@ -138,7 +139,7 @@ Hearing this, the mother speaks like a raging tigress:
 “Becoming one form, Nedumal and he,
 then becoming two forms,
 in the Daruka forest he went
-to violate the chastity of its women—”
+to rape its women—”
 
 <!-- Tamil source: scan 220 / printed 219 -->
 
