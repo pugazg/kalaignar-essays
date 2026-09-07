@@ -625,17 +625,287 @@ T0–T4 passed; status `verified`; blockers **0**; Tamil changes **0**.
 
 ---
 
+# Article 12 — `அழுக்காறு`
+
+English title: **Azhukkaaru**  
+Tamil authority: `../../articles/12-azhukkaru.md`  
+Frozen Tamil blob: `808ffa7c963140eacb314c5408982796028fe179`  
+Tamil scans: **59–61**
+
+## T0 / T1
+
+- frozen Tamil pin and `status: verified`: **PASS**;
+- complete close translation including the opening Kural and the dirt/river/path wordplay: **PASS**;
+- ordered source comments: **3 / 3**.
+
+## T2 — bilingual fidelity review
+
+Material corrections/decisions:
+
+1. title/source term `அழுக்காறு` is retained as **Azhukkaaru** because the article repeatedly exploits the internal `அழுக்கு` + `ஆறு` dirt/way/river wordplay; flattening every occurrence to `envy` would destroy that rhetorical mechanism.
+2. the source-visible unusual scan-61 form `கலாம்` is retained as **`kalaam`** rather than silently repaired into a more expected Tamil word.
+3. Chandran in the next street, the butterfly/rooster contrast and the final plague/feast image remain concrete; no explanatory outside identification was added.
+
+Omitted source claim **0**; added substantive claim **0**; Tamil changes **0**.
+
+**T2 RESULT: PASS.**
+
+## T3 — voice review
+
+- `When does jealousy arise?` remains a direct question followed by two exclamatory answers;
+- the long catalogue of fields in which jealousy takes hold is not compressed;
+- the same-flag/opposing-camp accusation and the local-Chandran rhetorical question retain their force;
+- the closing injunction to rejoice in others’ good, prosperity, fame and praise remains affirmative and direct.
+
+**T3 RESULT: PASS.**
+
+## T4 — terminology / quotation / citation
+
+- `Azhukkaaru`, `aaru`, `Aatrupaduthal`, `Ayya Valluvar`, `kalaam`, `Kural`: **PASS**;
+- opening Kural rendered from the frozen Tamil only; no published English version imported;
+- source comments **3 / 3 PASS**;
+- date `10 - 6 - 2005` **PASS**.
+
+**T4 RESULT: PASS.**
+
+## T5
+
+T0–T4 passed; status `verified`; blockers **0**; Tamil changes **0**.
+
+**T5 RESULT: PASS / ARTICLE VERIFIED.**
+
+---
+
+# Article 13 — `மிகுதிக்கண்...`
+
+English title: **When the Limit Is Crossed...**  
+Tamil authority: `../../articles/13-miguthikkan.md`  
+Frozen Tamil blob: `cd6631e22787b3986c10ea93e6bed82b54104c85`  
+Tamil scans: **62–65**
+
+## T0 / T1
+
+- frozen Tamil pin: **PASS**;
+- complete close translation of both friendship anecdotes and the displayed Kural: **PASS**;
+- ordered source comments: **4 / 4**.
+
+## T2 — bilingual fidelity review
+
+Material corrections/decisions:
+
+1. contextual `மிகுதிக்கண்` is carried by **when the limit is crossed / when one goes too far**, preserving Kalaignar’s extension of the Kural from moral deviation to over-familiarity itself.
+2. the doctor anecdote retains the stethoscope, wrist-pulse examination, abrupt rebuke, apology and Kalaignar’s sequence of rhetorical questions without compression.
+3. `கட்டை` is retained as **`kattai`** at the harmonium joke, with the immediate `key` gloss and the final `block` turn preserving the source-specific pun rather than replacing it with an unrelated English joke.
+
+Omitted source claim **0**; added substantive claim **0**; Tamil changes **0**.
+
+**T2 RESULT: PASS.**
+
+## T3 — voice review
+
+- opening friendship list retains displayed cadence;
+- `Hey! Behave with some civility!` keeps the doctor’s anger direct;
+- Kalaignar’s `Should there not be a limit in everything? ... Is it proper?` questions remain intact;
+- the harmonium episode keeps the room’s discomfort, Kalaignar’s quick joke and the concluding `crossing the limit` verdict.
+
+**T3 RESULT: PASS.**
+
+## T4 — terminology / quotation / citation
+
+- `Ayya Valluvar`, `miguthikkan`, `stethoscope`, `kattai`, harmonium terminology: **PASS**;
+- displayed Kural translated from frozen Tamil; no published English version imported;
+- unnamed studio/composer remain unnamed; no outside identification added;
+- source comments **4 / 4 PASS**;
+- date `1 - 7 - 2005` **PASS**.
+
+**T4 RESULT: PASS.**
+
+## T5
+
+T0–T4 passed; status `verified`; blockers **0**; Tamil changes **0**.
+
+**T5 RESULT: PASS / ARTICLE VERIFIED.**
+
+---
+
+# Article 14 — `வலிவும், பொலிவும்!`
+
+English title: **Strength and Radiance!**  
+Tamil authority: `../../articles/14-valivum-polivum.md`  
+Frozen Tamil blob: `a88f7f685673fe80c003208035a3e43f4889b2a5`  
+Tamil scans: **66–68**
+
+## T0 / T1
+
+- frozen Tamil pin: **PASS**;
+- complete meditation, speech-practice, dawn-rising and health translation: **PASS**;
+- ordered source comments: **3 / 3**.
+
+## T2 — bilingual fidelity review
+
+Material corrections/decisions:
+
+1. the source’s unusual long-letter explanation around `Narayana Namaha`, `ஞ` and `ஞாயிறு போற்றுதும்` is preserved rather than silently regularised into a phonetics lesson.
+2. the speech exercise keeps the literal Tamil consonant **`ற`** and repeated **`றற`** because romanising them would erase the very sound being practised.
+3. the `rising sun` polling-booth line remains a pointed joke in the health argument; it is not expanded into outside political explanation.
+
+Omitted source claim **0**; added substantive claim **0**; Tamil changes **0**.
+
+**T2 RESULT: PASS.**
+
+## T3 — voice review
+
+- the procedural opening remains concrete and sequential rather than summarised as generic meditation;
+- the `no time` excuse and present daily routine retain first-person candour;
+- the one-thirty/ten-o’clock contrast and polling-booth punchline remain sharp;
+- final `fortress for the nation` and `let this be an encouragement` cadence is preserved.
+
+**T3 RESULT: PASS.**
+
+## T4 — terminology / quotation / citation
+
+- `T.K.V. Desikachar`, `T.P. Meenakshisundaranar`, `Professor Anbazhaganar`, `Periyar`, `Anna`, `Silappathikaram`, `Nyayiru Potruthum`, `ற`: **PASS as source-bearing forms**;
+- the `Silappathikaram` line is translated/glossed from the frozen Tamil wording; no published English wording imported;
+- source comments **3 / 3 PASS**;
+- date `8 - 7 - 2005` **PASS**.
+
+**T4 RESULT: PASS.**
+
+## T5
+
+T0–T4 passed; status `verified`; blockers **0**; Tamil changes **0**.
+
+**T5 RESULT: PASS / ARTICLE VERIFIED.**
+
+---
+
+# Article 15 — `இன்பமும் துன்பமும்!`
+
+English title: **Joy and Sorrow!**  
+Tamil authority: `../../articles/15-inbamum-thunbamum.md`  
+Frozen Tamil blob: `10748bd56678c878b239a399552eca0e0e40bdf4`  
+Tamil scans: **69–74**
+
+## T0 / T1
+
+- frozen Tamil pin: **PASS**;
+- complete close translation of the Olympic/news-history essay: **PASS**;
+- ordered source comments: **6 / 6**.
+
+## T2 — bilingual fidelity review
+
+Material corrections/decisions:
+
+1. contents witness `இன்பமும் துன்பமும்` remains distinct from heading `இன்பமும் துன்பமும்!`; English follows the heading with the exclamation.
+2. a working-draft tense that implicitly repaired the source chronology was corrected: the English now preserves the frozen statement that **after** the 2008 Beijing Olympics were held, the 2012 selection took place, even though the article’s own date is 2005. No external historical reconciliation is introduced.
+3. source numbers remain exactly source-driven, including `14`, `241`, `240 kg`, the 2004 medal totals/rank, and the later `four to seven places` / `a thousand` report; no outside correction was used.
+4. the Oxford-definition passage is already English inside the frozen Tamil source and is retained as that source witness; no separate published-English lookup was imported.
+
+Omitted source claim **0**; added substantive claim **0**; Tamil changes **0**.
+
+**T2 RESULT: PASS.**
+
+## T3 — voice review
+
+- `one country laughed / one country cried / the whole world sank into sorrow` retains lineation and returns at the later tragedy turn;
+- `we are in the forefront of the rear ranks` preserves the source’s bitter wordplay;
+- `Hey, don’t play games!` and `even in play we must not hate sport` retain the repeated play/game rhetoric;
+- Ayodhya, London and Nagercoil reports remain direct and are not euphemised;
+- the final Olympics-versus-unending-pain displayed contrast remains intact.
+
+**T3 RESULT: PASS.**
+
+## T4 — terminology / quotation / citation
+
+- Olympic place/person forms, `Pierre de Coubertin`, K.D. Jadhav, Leander Paes, Karnam Malleswari, Rajyavardhan Singh Rathore, Ayodhya, Vadasery/Nagercoil: **PASS as source referents**;
+- dates and medal figures: **PASS as frozen-source data**, not independently harmonised;
+- source comments **6 / 6 PASS**;
+- article date `9 - 7 - 2005` **PASS**;
+- heading/contents witness distinction: **PASS**.
+
+**T4 RESULT: PASS.**
+
+## T5
+
+T0–T4 passed; status `verified`; blockers **0**; Tamil changes **0**.
+
+**T5 RESULT: PASS / ARTICLE VERIFIED.**
+
+---
+
+# Article 16 — `ஒழுக்கம்`
+
+English title: **Conduct**  
+Tamil authority: `../../articles/16-ozhukkam.md`  
+Frozen/re-frozen Tamil blob after source correction: `82852811292492e0d03360a846f7e4b69ca48720`  
+Tamil scans: **75–77**
+
+## T0 / source-defect resolution
+
+The first live assembly pin was `ef4ff570b07dc8d8abfb15c09a9ebb2354222d66`. During the source-witness audit, global scan **76** / part-002 page **21** was re-opened visually. The scan clearly reads:
+
+`அதற்குக் காரணமானவர்களைச் சட்டத்தின் முன்னால்`
+
+The frozen canonical page and assembly instead had `அதற்குக் காரணமான வற்கைச் சட்டத்தின் முன்னால்` and even labelled that form source-visible. This was a **genuine source defect**, not a translation-convenience normalization.
+
+- canonical `pages/0076.md` corrected and re-verified;
+- Article 16 assembly corrected and re-frozen;
+- new source blob `82852811292492e0d03360a846f7e4b69ca48720` pinned before English verification;
+- no other Tamil text changed.
+
+**T0 RESULT: PASS after targeted source-supported correction.**
+
+## T1 / T2 — close translation and bilingual fidelity
+
+- complete close translation: **PASS**;
+- ordered source comments: **3 / 3**;
+- the article’s distinction between conduct arising naturally and behaviour motivated merely by punishment, social blame or surveillance remains explicit;
+- `கற்பு`, `மாண்பு`, `நேர்மை`, `மனித நேயம்` remain distinct as **chastity, dignity, integrity, humaneness** in context;
+- murder and rape remain source-direct and are not softened;
+- corrected `those responsible before the law` logic now follows the actual scan.
+
+Omitted source claim **0**; added substantive claim **0**; Tamil changes **1 targeted source correction**.
+
+**T2 RESULT: PASS.**
+
+## T3 — voice review
+
+- the opening imagined reactions of the town remain cumulative and direct;
+- `Good heavens! ... If I am caught, prison!` retains the abrupt example rather than being abstracted;
+- breeze/summer heat and artificial heating/cooling comparisons remain concrete;
+- the closing `Know thyself` / `conquer oneself` argument retains its revolutionary-path conclusion.
+
+**T3 RESULT: PASS.**
+
+## T4 — terminology / quotation / citation / source witness
+
+- `conduct`, `chastity`, `dignity`, `integrity`, `humaneness`, `Socrates`: **PASS**;
+- source correction at scan 76 independently confirmed against the supplied controlling scan pixels: **PASS**;
+- `Know thyself` wording translated from frozen Tamil; no outside published quotation imported;
+- source comments **3 / 3 PASS**;
+- date `14 - 7 - 2005` **PASS**.
+
+**T4 RESULT: PASS.**
+
+## T5
+
+T0–T4 passed after the one genuine source-defect correction; English status `verified`; Tamil Article 16 returned to verified/re-frozen authority; blockers **0**.
+
+**T5 RESULT: PASS / ARTICLE VERIFIED.**
+
+---
+
 ## Current publication English checkpoint
 
-- T0: **11 / 50 PASS**
-- T1: **11 / 50 COMPLETE**
-- T2: **11 / 50 PASS**
-- T3: **11 / 50 PASS**
-- T4: **11 / 50 PASS**
-- T5: **11 / 50 PASS**
-- verified English files: **11 / 50**
+- T0: **16 / 50 PASS**
+- T1: **16 / 50 COMPLETE**
+- T2: **16 / 50 PASS**
+- T3: **16 / 50 PASS**
+- T4: **16 / 50 PASS**
+- T5: **16 / 50 PASS**
+- verified English files: **16 / 50**
 - draft English files: **0 / 50**
 - unresolved English blockers: **0**
-- Tamil changes caused by English work: **0**
+- Tamil changes caused by English work: **1 genuine source-supported correction, scan 76, resolved/re-frozen**
 
-Next batch: Articles **12–16**, each through T0–T5, applying the permanent `Udanpirappē` rule whenever the frozen Tamil has `உடன்பிறப்பே`.
+Stopped at the authorised boundary after Article **16**. Article **17** has not been started. The permanent `Udanpirappē` rule remains mandatory for every future frozen-Tamil `உடன்பிறப்பே` occurrence.
