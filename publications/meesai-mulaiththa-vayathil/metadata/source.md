@@ -89,7 +89,7 @@ P1 therefore created [`../indexes/contents.md`](../indexes/contents.md) as an ex
 | 6 | `வாழிய வைகறை` | 34–35 | 33–34 |
 | 7 | `அகப்பை சித்தர்` | 36–38 | 35–37 |
 | 8 | `மலையே வாழி` | 39–41 | 38–40 |
-| 9 | `கள்ளி` | 42–45 | 41–44 |
+| 9 | `தளிர்` | 42–45 | 41–44 |
 | 10 | `விண்மீன்` | 46–48 | 45–47 |
 | 11 | `தனிமை` | 49–54 | 48–53 |
 | 12 | `நாடக மேடை` | 55–56 | 54–55 |
@@ -114,16 +114,17 @@ Unmapped body pages: **0**.
 
 ## Source-title correction provenance
 
-After user review, direct source reinspection corrected two P1 heading readings:
+After user review, direct source reinspection corrected three P1 heading readings:
 
 1. scan 36 / printed p.35: `முக்கை சித்தர்` → **`அகப்பை சித்தர்`**;
-2. scan 136 / printed p.135: `மயிற்கு` → **`மயிலிறகு`**.
+2. scan 42 / printed p.41: `கள்ளி` → **`தளிர்`**;
+3. scan 136 / printed p.135: `மயிற்கு` → **`மயிலிறகு`**.
 
-These were title-reading corrections only. Unit boundaries, printed-page spans and the 26-unit count remain unchanged. Both corrected titles were re-screened against live `pugazg/kalaignar-essays`; no exact pre-existing title hit was returned.
+These were title-reading corrections only. Unit boundaries, printed-page spans and the 26-unit count remain unchanged. All three corrected titles were re-screened against live `pugazg/kalaignar-essays`; no exact pre-existing title hit was returned.
 
 ## P1 duplicate reconciliation
 
-Live `pugazg/kalaignar-essays/main` has been searched for every one of the **26** source-visible main-unit titles, including the two corrected source readings above.
+Live `pugazg/kalaignar-essays/main` has been searched for every one of the **26** source-visible main-unit titles, including the corrected source readings above.
 
 - exact pre-existing unit-title hits returned: **0 / 26**;
 - possible duplicate blockers requiring merge/hold: **0**;
