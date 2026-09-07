@@ -41,19 +41,43 @@ Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seya
 - E7: **COMPLETE / PASS**;
 - release blockers: **0**.
 
-Publication-wide E6 reconciled all 50 English articles with the frozen Tamil/review/lexicon authority chain: **50 / 50** live source pins and **208 / 208** ordered source comments passed. E6 made **0 English-body prose corrections** and **0 Tamil changes**; it added only missing `contents_title_ta` metadata to Articles 1–10 while preserving independent contents/heading witnesses.
-
-E7 revalidated release inventory, links/references, open-work markers and status consistency, then froze Publication 8 with **0 English article-body changes** and **0 Tamil changes**.
-
 Canonical release records:
 
 - [`publications/sinthanaiyum-seyalum/translations/en/E6_CONSISTENCY_REVIEW.md`](publications/sinthanaiyum-seyalum/translations/en/E6_CONSISTENCY_REVIEW.md)
 - [`publications/sinthanaiyum-seyalum/translations/en/E7_RELEASE_CLOSEOUT.md`](publications/sinthanaiyum-seyalum/translations/en/E7_RELEASE_CLOSEOUT.md)
 
+### Publication 9 — வேதனைச் சிறையினின்றும் விடுதலை பெற
+
+Workspace: [`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/)
+
+**ACTIVE — P0/P1 COMPLETE; P2 NEXT.**
+
+- controlling source: `TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf`;
+- SHA-256: `d6429304ca8e53324e41fbe6695a31d1411b12ec5e04bf5a35d8cc8a51d06651`;
+- physical scans: **8**;
+- source form: **image-only government public-message pamphlet**;
+- issuing body: `தமிழ்நாடு குடும்ப நலத்துறை வெளியீடு`;
+- body: scans **3–7**;
+- visible printed folios: **4–7** on scans 4–7; scan 3 has no visible folio;
+- source p.7 calls the text a `செய்தி` issued during the family-planning fortnight that began **15 December 1975**; the exact message/publication date is not separately stated;
+- P0 source intake: **COMPLETE / PASS**;
+- P1 metadata/page-map/contents mapping: **COMPLETE / PASS**;
+- P2 page transcription: **0 / 8 — NOT STARTED**;
+- P3/P4/P5: **NOT STARTED**;
+- English: **NOT STARTED; blocked until Tamil freeze**.
+
+Source intake records:
+
+- [`metadata/source.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/metadata/source.md)
+- [`indexes/page-map.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/indexes/page-map.md)
+- [`audit.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/audit.md)
+
 ### Permanent `உடன்பிறப்பே` rule
 
-Every exact source `உடன்பிறப்பே` is retained as **`Udanpirappē`**; direct salutation **`Udanpirappē,`**. Related plural movement-address forms remain source-bearing.
+Every exact source `உடன்பிறப்பே` is retained as **`Udanpirappē`** in English; direct salutation **`Udanpirappē,`**. Related plural movement-address forms remain source-bearing.
 
 ## Current repository boundary
 
-There is **no active publication after the Publication 8 E7 closeout**. Released/frozen publications must not be reopened from stale prompts. Future work begins only when the user explicitly selects or supplies a new work or requests a targeted correction to a released work. Live `main` and root [`HANDOVER.md`](HANDOVER.md) remain authoritative.
+Publication 9 is the **active publication**. Exact next activity: **P2 direct-visual page transcription for all scans 1–8**, preserving traditional Tamil glyph evidence, independent cover/title-page punctuation witnesses, physical-copy marks, and the scan-supported wording without silent modernization.
+
+Live `main` and root [`HANDOVER.md`](HANDOVER.md) remain authoritative.
