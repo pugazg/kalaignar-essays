@@ -4,10 +4,10 @@ article_number: 1
 title_ta: "வேதனைச் சிறையினின்றும் விடுதலை பெற"
 scan_pages: "3-7"
 printed_pages: "scan 3 unnumbered; scans 4-7 visibly 4-7"
-status: "verified"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf"
-assembly_method: "mechanically concatenated from P2 verified canonical page records; scan-7 bracketed source/occasion note retained outside the message body"
+assembly_method: "assembled from verified P2 page records; P5 strict visual fidelity propagated; scan-7 bracketed source/occasion note retained outside the message body"
 ---
 
 # வேதனைச் சிறையினின்றும் விடுதலை பெற
@@ -108,7 +108,7 @@ assembly_method: "mechanically concatenated from P2 verified canonical page reco
 
 அனைத்துத் தரப்பினரும் அரசுக்கு ஒத்துழைப்பு நல்கினால்தான் எந்த ஒரு திட்டத்தினாலும் ஏற்படக்கூடிய இனிய பலன்கள் சமுதாயத்துக்கு முழுமையாகக் கிடைத்திட முடியும்.
 
-இதனை நெஞ்சிலே நிறுத்திப் பொதுமக்களும் தங்களுக்குள்ள பொறுப்பினை உணர்ந்து இந்தக் குடும்ப நலத்திட்ட இருவார விழா வெற்றிக் கனியினைக் கொய்திட ஒத்துழைப்பை நல்குமாறு வேண்டிக் கொள்கிறேன்.
+இதனை நெஞ்சிலே நிறுத்திப் பொதுமக்களும் தங்களுக்குள்ள பொறுப்பினை உணர்ந்து இந்தக் குடும்ப நலத்திட்ட இருவார விழா வெற்றிக்கனியினைக் கொய்திட ஒத்துழைப்பை நல்குமாறு வேண்டிக் கொள்கிறேன்.
 
 ---
 
