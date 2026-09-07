@@ -33,7 +33,7 @@ The world-famous “Olympic Games” are held once every four years. During the 
 
 <!-- Tamil source: scan 70 / printed 69 -->
 
-The Olympics were held in Sydney in 2000 and in Athens in 2004; after they were to be held in Beijing, China, in 2008, the selection of the venue for the 2012 Olympics took place in Singapore, and it was decided that the 2012 Olympics would be in London.
+The Olympics were held in Sydney in 2000 and in Athens in 2004; after they were held in Beijing, China, in 2008, the selection of where the 2012 Olympics should be held took place in Singapore, and it was decided that the 2012 Olympics would be in London.
 
 As soon as it was announced that 2012 would be in London, English men, women and children who had been sitting in a park waiting for the news leapt into the air, embraced one another, danced about and expressed their joy; it made those who watched them thrill.
 
