@@ -46,7 +46,7 @@ Canonical closeout records:
 
 Workspace: [`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/)
 
-**ACTIVE — P0/P1/P2/P3 COMPLETE; P4 NEXT.**
+**ACTIVE — P0/P1/P2/P3/P4 COMPLETE; P5 NEXT.**
 
 - controlling source: `TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf`;
 - SHA-256: `d6429304ca8e53324e41fbe6695a31d1411b12ec5e04bf5a35d8cc8a51d06651`;
@@ -60,24 +60,20 @@ Workspace: [`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/`](publicat
 - P1: **COMPLETE / PASS**;
 - P2: **8 / 8 VERIFIED / COMPLETE**;
 - P3 single-message assembly: **1 / 1 COMPLETE / PASS**;
-- P4/P5: **NOT STARTED**;
+- P4 source/completeness audit: **COMPLETE / PASS**;
+- P5: **NOT STARTED**;
 - English: **NOT STARTED; blocked until Tamil freeze**.
 
-Canonical P3 assembly:
+Canonical records:
 
 - [`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md)
+- [`SOURCE_COMPLETENESS_AUDIT.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/SOURCE_COMPLETENESS_AUDIT.md)
 
-P3 preserved ordered source comments for scans 3–7 and kept the scan-7 bracketed occasion/source note outside the message body. No body omission, duplication, reorder or P2 text correction was required.
+P4 confirmed **8 / 8** verified page records, **1 / 1** canonical assembly, ordered body source sequence **3 → 4 → 5 → 6 → 7**, **0** omission/duplication/reorder, correct exclusion of cover/title/back-cover matter, and correct separation of the scan-7 bracketed occasion note. P4 source/completeness blockers: **0**.
 
-Source-sensitive forms remain frozen only at the P2/P3 level pending P5, especially `எங்கணும்`, `உறையுள்`, `உலகு`, `யந்திரங்களாகவே`, `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே`, and `முன்பியக்கம்`. The `நாடாளு மன்ற...` witnesses must receive independent P5 recheck rather than silent normalisation.
+P4 corrected one stale workflow footer in `indexes/page-map.md`; Tamil page text changes and article-body changes during P4 were **0**.
 
-Current records:
-
-- [`metadata/source.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/metadata/source.md)
-- [`indexes/page-map.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/indexes/page-map.md)
-- [`audit.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/audit.md)
-- [`pages/`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/pages/)
-- [`articles/`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/articles/)
+Source-sensitive forms remain pending strict P5 final classification, especially `எங்கணும்`, `உறையுள்`, `உலகு`, `யந்திரங்களாகவே`, `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே`, and `முன்பியக்கம்`. The `நாடாளு மன்ற...` witnesses must receive independent P5 visual recheck rather than silent normalisation.
 
 ### Permanent `உடன்பிறப்பே` rule
 
@@ -85,6 +81,6 @@ Every exact source `உடன்பிறப்பே` is retained as **`Udanpir
 
 ## Current repository boundary
 
-Publication 9 is the **active publication**. Exact next activity: **P4 source/completeness audit**. Do not begin P5 or English in the same activity unless separately authorised.
+Publication 9 is the **active publication**. Exact next activity: **P5 strict visual word/punctuation fidelity over all 8 physical scans**. Do not begin English until P5 passes and the Tamil authority is frozen.
 
 Live `main` and root [`HANDOVER.md`](HANDOVER.md) remain authoritative.
