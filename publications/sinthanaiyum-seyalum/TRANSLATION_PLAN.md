@@ -9,14 +9,11 @@ Permanent policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_G
 
 > **Translate the language; do not neutralise the voice.**
 
-## Phase state
+## Final phase state
 
-All **50** frozen strict-reviewed Tamil article assemblies completed T0–T5. Publication-wide **E6 is COMPLETE / PASS**.
+The complete Tamil archival workflow, all 50 article-level English translation gates, publication-wide E6 consistency review and E7 release closeout are finished.
 
-Remaining English workflow:
-
-1. **E7 — release closeout**;
-2. freeze/release Publication 8 only after every E7 release check passes.
+**Publication 8: RELEASE COMPLETE / FROZEN.**
 
 ## Tamil prerequisite — COMPLETE / RE-FROZEN
 
@@ -25,9 +22,9 @@ Remaining English workflow:
 - P3 assemblies: **50 / 50 VERIFIED**
 - P5 physical scans: **226 / 226 PASS**
 - unresolved Tamil/source blockers: **0**
-- standing post-freeze correction: scan 76 `வற்கைச்` → source-visible `வர்களைச்`, already propagated/re-frozen.
+- standing post-freeze correction: scan 76 `வற்கைச்` → source-visible `வர்களைச்`, already propagated and re-frozen.
 
-## English gate status
+## English gate status — COMPLETE
 
 - E0: **COMPLETE / PASS**
 - T0: **50 / 50 PASS**
@@ -38,32 +35,38 @@ Remaining English workflow:
 - T5: **50 / 50 PASS**
 - verified English: **50 / 50**
 - drafts: **0 / 50**
-- **E6: COMPLETE / PASS**
-- E7: **NOT STARTED**
-- blockers: **0**
+- E6: **COMPLETE / PASS**
+- E7: **COMPLETE / PASS**
+- unresolved blockers: **0**
 
-## E6 result
+## E6 authority
 
 Canonical E6 record: [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSISTENCY_REVIEW.md).
 
-E6 confirmed:
+E6 confirmed **50 / 50** live Tamil source pins, **208 / 208** ordered source comments for body scans 18–225, terminology/source-witness consistency, quotation/verse fidelity, dates/numbers/source-claim discipline and English voice/Markdown consistency. E6 made **0 English-body prose corrections** and **0 Tamil changes**; it added `contents_title_ta` metadata to Articles 1–10 while preserving diplomatic contents/heading differences.
 
-- 50 / 50 live English articles and 50 / 50 live Tamil authority pins;
-- 208 / 208 ordered source comments covering body scans 18–225;
-- permanent `உடன்பிறப்பே` → `Udanpirappē` policy and source-bearing plural forms;
-- terminology, titles, names, transliterations and independent source witnesses;
-- quotations/verse lineation and frozen-source-only quotation policy;
-- dates, numbers and source-specific irregularities;
-- publication-wide voice/Markdown consistency;
-- unresolved blockers **0**.
+## E7 authority
 
-E6 required **no English-body prose correction and no Tamil change**. It added the missing diplomatic `contents_title_ta` front-matter field to Articles **1–10** only. Verified contents/heading differences for Articles 3, 6 and 9 were preserved rather than normalised.
+Canonical E7 record: [`translations/en/E7_RELEASE_CLOSEOUT.md`](translations/en/E7_RELEASE_CLOSEOUT.md).
+
+E7 confirmed:
+
+- final release inventory: **PASS**;
+- 50 / 50 verified English articles: **PASS**;
+- Tamil P0–P5 and E6 status: **PASS**;
+- release-facing references/authority sidecars: **PASS**;
+- active TODO/draft/needs-review/source-hold/release blockers: **0**;
+- current status documents reconciled: **PASS**;
+- English article-body changes in E7: **0**;
+- Tamil changes in E7: **0**.
+
+Historical review-ledger policy links are preserved through the compatibility pointer at `../ESSAY_TRANSLATION_GUIDE.md`, which forwards to the canonical root translation guide without rewriting provenance ledgers.
 
 ## Permanent `உடன்பிறப்பே` policy
 
 Exact `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**. Never flatten to brother/sister/sibling/comrade. Preserve `Udanpirappugal` and `Kazhaga Udanpirappugalē` only where their Tamil source forms require them.
 
-## Active provenance chain
+## Frozen provenance chain
 
 - `translations/en/TRANSLATION_REVIEW_THROUGH_16.md`;
 - `translations/en/TRANSLATION_REVIEW_17_21.md`;
@@ -72,23 +75,10 @@ Exact `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutat
 - `translations/en/TRANSLATION_REVIEW.md` — Articles 37–50;
 - `translations/en/LEXICON_THROUGH_16.md`;
 - `translations/en/LEXICON_THROUGH_36.md`;
-- current `translations/en/LEXICON.md`;
-- `translations/en/E6_CONSISTENCY_REVIEW.md`.
+- `translations/en/LEXICON.md`;
+- `translations/en/E6_CONSISTENCY_REVIEW.md`;
+- `translations/en/E7_RELEASE_CLOSEOUT.md`.
 
-Historical sidecars remain active authority.
+## Release freeze
 
-## Exact next activity — E7 release closeout
-
-E7 has **not** been started. On a separate user continuation:
-
-1. fetch live `main` and re-read the complete authority chain;
-2. confirm Tamil P0–P5 remain closed and frozen/re-frozen;
-3. confirm all 50 English articles remain `verified` and E6 remains PASS;
-4. validate repository links/relative references and final tracker/status consistency;
-5. confirm no draft, blocker, placeholder, unresolved-review or source-hold marker remains in Publication 8;
-6. confirm all release-facing README/handover/completion records agree;
-7. write the durable E7 release-closeout record;
-8. update Publication 8 to **RELEASE COMPLETE / FROZEN** only if every E7 check passes;
-9. update root status/handover/next-chat prompt without reopening source or translation work.
-
-**Do not perform E7 before the user authorises it.**
+No further phase remains in this plan. Publication 8 must not be reopened from a stale prompt or for stylistic normalization. Reopen only if a controlling scan proves a genuine source defect or the user explicitly requests a targeted correction.
