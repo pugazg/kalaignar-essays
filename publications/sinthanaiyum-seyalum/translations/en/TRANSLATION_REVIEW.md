@@ -4,188 +4,238 @@ Permanent policy: [`../../../ESSAY_TRANSLATION_GUIDE.md`](../../../ESSAY_TRANSLA
 
 ## Historical provenance
 
-Detailed T0–T5 provenance is preserved in:
+Detailed completed review history remains authoritative in:
 
 - [`TRANSLATION_REVIEW_THROUGH_16.md`](TRANSLATION_REVIEW_THROUGH_16.md) — Articles 1–16;
-- [`TRANSLATION_REVIEW_17_21.md`](TRANSLATION_REVIEW_17_21.md) — Articles 17–21.
+- [`TRANSLATION_REVIEW_17_21.md`](TRANSLATION_REVIEW_17_21.md) — Articles 17–21;
+- [`TRANSLATION_REVIEW_22_26.md`](TRANSLATION_REVIEW_22_26.md) — Articles 22–26.
 
-Both historical ledgers remain authoritative. This living ledger continues from Article 22 onward. The permanent `உடன்பிறப்பே` → **`Udanpirappē`** rule remains binding.
+This living ledger continues from Article 27. The permanent `உடன்பிறப்பே` → **`Udanpirappē`** rule remains binding.
 
-## Inherited publication state
+## Inherited state
 
 - Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**;
 - Tamil assemblies: **50 / 50 VERIFIED**;
-- inherited English Articles 1–21: **T0–T5 PASS / verified**;
-- unresolved blockers entering this batch: **0**.
+- inherited English Articles 1–26: **T0–T5 PASS / verified**;
+- blockers entering batch: **0**.
 
 ---
 
-# Article 22 — `விளையாட்டு`
+# Article 27 — `தியானம்???` → **Meditation???**
 
-English title: **Sport**  
-Tamil authority: `../../articles/22-vilaiyaattu.md`  
-Frozen Tamil blob: `e53fa5247556aff7c565cd5631549a9eb4f2c649`  
-Tamil scans: **98–100**
+Tamil blob: `202077d37c7211d14b0b2794d95e4240637b4c7a` — scans **117–122**.
 
-## T0 / T1
-- live Tamil `status: verified`: **PASS**;
-- complete close translation: **PASS**;
-- ordered source comments: **3 / 3 PASS**.
+### T0 / T1
+Verified frozen source pin and complete paragraph-by-paragraph translation: **PASS**. Ordered comments **6 / 6**.
 
-## T2 — fidelity
-- title/national competition sense uses **sport**, while the Ramayana/proverb opening uses **play**;
-- `விளையாட்டு வினையாகும்` is kept as **play can turn into trouble**, not replaced by an unrelated English proverb;
-- source figures `20`, `30`, `1896`, below `10 crores`, below `2 crores`, `few lakhs`, `100 crores` remain source-driven;
-- horse-horn rarity, heart-clawing shame/pain, pearls/coral, lighthouse and pot-lamp images remain concrete.
-
-Omitted claims **0**; added substantive claims **0**; Tamil changes **0**. **T2 PASS.**
-
-## T3 — voice
-The longing, shame, repeated `Can it be done...?`, imperative call to parents and national sporting challenge remain direct and emphatic. **T3 PASS.**
-
-## T4 — terminology / source witness
-`Rama`, `Ayodhya`, `Kaikeyi`, `Ramayana`, Olympic/Athens references, `sport/play`, horse-horn image and date `9 - 8 - 2005`: **PASS**. No `உடன்பிறப்பே` occurrence. **T4 PASS.**
-
-## T5
-T0–T4 PASS; `translation_status: verified`; blockers **0**. **ARTICLE VERIFIED.**
-
----
-
-# Article 23 — `தன்னை வெல்வான்`
-
-English title: **He Who Conquers Himself**  
-Tamil authority: `../../articles/23-thannai-velvaan.md`  
-Frozen Tamil blob: `019c3e2dab6666dddd5084c723ddeaf98fa51abf`  
-Tamil scans: **101–103**
-
-## T0 / T1
-- source pin/status: **PASS**;
-- complete recursive horoscope argument: **PASS**;
-- ordered source comments: **3 / 3 PASS**.
-
-## T2 — fidelity
-- source-bearing `மிட்டாதார்` remains **Mittadar**, with no outside social identification;
-- the source’s recursive logic—prediction, warning, escape, and whether warning/escape must themselves be predicted—is preserved rather than simplified;
-- `dosham`, `Rahu Kalam`, `Kuligai Kalam`, `Amrita-yogam`, `Marana-yogam` remain source-bearing;
-- heart-attack anxiety, blood-pressure argument and final self/world-conquest link remain intact.
+### T2
+- `Pagutharivu` and `Unmai` are retained as publication names rather than translated titles;
+- the article's distinction is preserved: the criticised writer disputes methods of concentration, not concentration itself;
+- meditation, yoga, walking and martial-arts health claims remain Kalaignar/source claims, without outside medical validation;
+- `அ.ஆ. படிப்பு` retains its alphabet image as `A, Aa`; `பிளவை` remains source-bearing `pilavai` rather than an externally supplied diagnosis.
 
 Omissions **0**; additions **0**; Tamil changes **0**. **T2 PASS.**
 
-## T3 — voice
-The repeated rhetorical questions, `why believe in the horoscope at all?`, the question taking a gigantic form and the final refusal to cling to astrology retain Kalaignar’s argumentative cadence. **T3 PASS.**
-
-## T4
-Astrology vocabulary, source numbers, date `11 - 8 - 2005`, source comments and title logic: **PASS**. No `உடன்பிறப்பே`. **T4 PASS.**
-
-## T5
-T0–T4 PASS; verified; blockers **0**. **ARTICLE VERIFIED.**
+### T3 / T4 / T5
+Repeated questions and argumentative reversals remain direct. `silambam`, `kuthuvarisai`, Gama, Ramana Munivar, T. P. Meenakshisundaranar and date `3 - 9 - 2005` audited against source. No exact `உடன்பிறப்பே`. **T3 PASS / T4 PASS / T5 VERIFIED.**
 
 ---
 
-# Article 24 — `இட்லர்`
+# Article 28 — `விபத்து` → **Accident**
 
-English title: **Hitler**  
-Tamil authority: `../../articles/24-idlar.md`  
-Frozen Tamil blob: `434c266217de96e39652b9e3eb6d4d3274a5adfe`  
-Tamil scans: **104–108**
+Tamil blob: `64c753343356883615cd830ca5e182bc983d86fb` — scans **123–125**.
 
-## T0 / T1
-- source pin/status: **PASS**;
-- Kalaignar framing plus complete long V. Saminatha Sarma quotation: **PASS**;
-- ordered source comments: **5 / 5 PASS**.
+### T0 / T1
+Source pin/status and complete translation: **PASS**. Ordered comments **3 / 3**.
 
-## T2 — fidelity
-All historical dates, praise, biographical claims, quotation details and source names are translated as **source claims**, not externally reconciled or endorsed. `வான்கார்` remains source-bearing **Vankaar**. Omitted claims **0**; added claims **0**; Tamil changes **0**. **T2 PASS.**
-
-## T3 — voice / recorded corrections
-Two working-English corrections were made before verification:
-1. awkward `imposing owner of such lines` → **proud possessor of such lines of praise**;
-2. grammatical `There were no many varieties` → **There were not many varieties**.
-
-The final paragraph remains Kalaignar’s rhetorical doubt about people praised as noble; it is not turned into translator commentary. **T3 PASS.**
-
-## T4
-`Hitler`, `Nazi`, `V. Saminatha Sarma`, `Vankaar`, Wagner, Beethoven, Mussolini, Saar/Saarbrücken, all source dates/numbers and quotation boundaries: **PASS as frozen-source material**. No outside fact correction; no `உடன்பிறப்பே`. **T4 PASS.**
-
-## T5
-T0–T4 PASS; verified; blockers **0**. **ARTICLE VERIFIED.**
-
----
-
-# Article 25 — `இங்கர்சால்`
-
-English title: **Ingersoll**  
-Tamil authority: `../../articles/25-ingarsaal.md`  
-Frozen Tamil blob: `42776cccf8ac37eefa495e24c0294b13bdd3a610`  
-Tamil scans: **109–111**
-
-## T0 / T1
-- source pin/status and Part-002 → Part-003 continuation: **PASS**;
-- complete translation: **PASS**;
-- ordered source comments: **3 / 3 PASS**.
-
-## T2 — fidelity / recorded correction
-- source places remain **Tristan** and source-bearing **Klarimont**, without outside geographic normalization;
-- historical source label `நீக்ரோ` is represented as **Negro** solely as a source-specific historical witness, not as general preferred terminology;
-- cow-theft anecdote and `300 / 28 / 272` dollar arithmetic are preserved;
-- the initially flattened closing praise passage was corrected to preserve the source’s displayed **five-line** structure.
+### T2
+- opening refusal to politicise accidents is retained;
+- one-second death imagery and the source report about Arulraj's family remain direct source claims;
+- fatalistic consolation with a `Sanatana varnish`, night-travel warning, elephant/cat road metaphor and two-driver advice remain intact;
+- no road-safety or medical claim was updated from outside sources.
 
 Omissions **0**; additions **0**; Tamil changes **0**. **T2 PASS.**
 
-## T3
-The candle/light reversal, courtroom joke, repeated questioning over the true collection and closing praise retain their rhetorical force. **T3 PASS.**
-
-## T4
-`Ingersoll`, source place forms, historical label, rationalist terminology, dollar figures, displayed closing quotation, date `24 - 8 - 2005`, and source comments: **PASS**. No `உடன்பிறப்பே`. **T4 PASS.**
-
-## T5
-T0–T4 PASS; verified; blockers **0**. **ARTICLE VERIFIED.**
+### T3 / T4 / T5
+Questions, grief, warning and imperative cadence preserved; date `6 - 9 - 2005` and source figures audited. **T3 PASS / T4 PASS / T5 VERIFIED.**
 
 ---
 
-# Article 26 — `மகளிர் இட ஒதுக்கீடு!`
+# Article 29 — `சின்னத்திரை “செல்வி”` → **The Small-Screen “Selvi”**
 
-English title: **Women's Reservation!**  
-Tamil authority: `../../articles/26-magalir-ida-othukkeedu.md`  
-Frozen Tamil blob: `cfc6b79f5196bedf56076834e677332a5b941ae4`  
-Tamil scans: **112–116**
+Tamil blob: `5439e26c4b00dde37bc1842ea3665bdee721dab6` — scans **126–129**.
 
-## T0 / T1
-- source pin/status: **PASS**;
-- complete political argument, Rousseau quotation and signed postscript: **PASS**;
-- ordered source comments: **5 / 5 PASS**.
+### T0 / T1
+Frozen source and all four Kurals/commentaries translated only from the repository Tamil: **PASS**. Ordered comments **4 / 4**.
 
-## T2 — fidelity
-- source milestones/numbers `1929`, `75 years`, `60 years`, `1989`, `33%`, `500+` are retained without external updating;
-- `Sanatana tradition`, `women's reservation`, `reserved constituency`, `internal reservation`, Backward / Most Backward Classes remain distinct;
-- Rousseau passage is translated from Kalaignar’s frozen Tamil quotation only, not imported from a published English edition;
-- invitation/feast/food metaphor and the post-★★★ signed `M.K.` note are preserved.
+### T2
+- frozen Kural witness `சிறைகாக்கும் காப்புவென் செய்யும் ?` is preserved; no conventional published Kural text or English translation imported;
+- Kalaignar's own four explanations remain distinct from the quoted Kurals;
+- `Kalaiyarasi Radhika`, `Selvi`, patriarchy, lion/lioness and peacock/peahen contrasts remain source-bearing;
+- first draft added an unsupported shell image to `ஆமைகளாக`; corrected to **“turtles that submit to their husbands”**.
+
+Omissions **0**; additions after correction **0**; Tamil changes **0**. **T2 PASS.**
+
+### T3 / T4 / T5
+The repeated `Why? How? For what reason?`, Selvi's conscience challenge, closing equality lines and Assembly voice retain force and displayed lineation. Date `7 - 9 - 2005`: **PASS**. **T3 PASS / T4 PASS / T5 VERIFIED.**
+
+---
+
+# Article 30 — `மருந்தென ஒன்று!` → **A Thing Called Medicine!**
+
+Tamil blob: `3d59167549195f7603b0705e747197bf5f0b0c04` — scans **130–133**.
+
+### T0 / T1
+Frozen source and complete translation: **PASS**. Ordered comments **4 / 4**.
+
+### T2
+- Manmohan Singh/Siddha institute, 15-acre and 3-9-2005 source claims retained without external reconciliation;
+- allopathy/Siddha contrast, patient-confidence argument and lift/wheelchair analogy preserved;
+- Prime Minister quotation translated only from frozen Tamil;
+- nine-grain preparation and health claims remain explicitly source material, not translator medical advice;
+- Valluvar quotation/commentary translated from frozen Tamil only.
 
 Omissions **0**; additions **0**; Tamil changes **0**. **T2 PASS.**
 
-## T3
-Questions about why a separate reservation law is needed, the accusation against patriarchy, the challenge to non-supporters, `first independence—then linguistic States`, and the feast metaphor remain direct rather than academicised. **T3 PASS.**
+### T3 / T4 / T5
+Rhetorical contrast and concrete analogies retained; medical terminology, food list, date `8 - 9 - 2005` audited. **T3 PASS / T4 PASS / T5 VERIFIED.**
 
-## T4
-`Thanthai Periyar`, Chengalpattu Self-Respect Conference, Women’s Self-Help Group, Dalit/source formulation, Rousseau, Voltaire, reservation terminology, percentages/dates, source comments and signed note: **PASS**. No `உடன்பிறப்பே`. **T4 PASS.**
+---
 
-## T5
-T0–T4 PASS; verified; blockers **0**. **ARTICLE VERIFIED.**
+# Article 31 — `சிறிய நூல்தான்` → **Only a Small Book**
+
+Tamil blob: `62c72d2c042484757da76a40de48c021aa28e236` — scans **134–138**.
+
+### T0 / T1
+Complete frozen-source translation: **PASS**. Ordered comments **5 / 5**.
+
+### T2
+- `Perasiriyar Research Library`, book title/address, library number `4906`, names and dates remain source forms;
+- family heart-disease, heredity and surgery passages remain source claims and are not converted into present-day medical advice;
+- source plural `அன்பு உடன்பிறப்புகளாக` is retained as **beloved `Udanpirappugal`**, preserving the movement-address family rather than flattening it;
+- final medical-advice passage and `everyone may live!` conclusion retain displayed lineation.
+
+Omissions **0**; additions **0**; Tamil changes **0**. **T2 PASS.**
+
+### T3 / T4 / T5
+Personal grief, warning and non-advertising disclaimer remain direct. Names, `8 rupees`, `1-7-1990`, and date `10 - 9 - 2005`: **PASS**. **T3 PASS / T4 PASS / T5 VERIFIED.**
+
+---
+
+# Article 32 — `மண்டேலா` → **Mandela**
+
+Tamil blob: `c3be3082aa9bc1a3da96a819e481190974c8756e` — scans **139–144**.
+
+### T0 / T1
+Complete translation including opening conference address and closing prison quotation: **PASS**. Ordered comments **6 / 6**.
+
+### T2
+- movement salutation `கழக உடன்பிறப்புக்களே!` is preserved as **`Kazhaga Udanpirappugalē!`**;
+- source-specific names/forms such as `Henry Kaaniyis va Gadla`, `Kayunu`, `Jongintaba`, `Held Town`, `Lasa Sidingski` are not replaced by outside biographical forms;
+- the historical source slur is retained in quotation context as `Kafir` rather than silently erased;
+- first draft's `repression he accepted` was corrected to **`repression he endured`** for the source sense;
+- Mandela quotation remains source-derived and lineated.
+
+Omissions **0**; additions after correction **0**; Tamil changes **0**. **T2 PASS.**
+
+### T3 / T4 / T5
+The 1990 conference joy, prison imagery, rights struggle and final youth exhortation retain emotional force. Source dates/numbers audited without outside reconciliation. **T3 PASS / T4 PASS / T5 VERIFIED.**
+
+---
+
+# Article 33 — `தொண்டுள்ளம்` → **Spirit of Service**
+
+Tamil blob: `b02e252ade6a73cf24456d41091e53fccc3a18d0` — scans **145–147**.
+
+### T0 / T1
+Complete translation: **PASS**. Ordered comments **3 / 3**.
+
+### T2
+- the extended coconut-frond/scar/step image is preserved rather than reduced to an abstract lesson;
+- the wordplay `மானமிகு / மாண்புமிகு` is retained as **`Maanamigu` / `Maanbumigu`** with a concise gloss;
+- Periyar's ripe-fruit image, Anna's spear-point image and service-to-leadership logic remain concrete.
+
+Omissions **0**; additions **0**; Tamil changes **0**. **T2 PASS.**
+
+### T3 / T4 / T5
+Final direct address to the young man—breeze for comfort, storm against evil—remains an exhortation. Date `15 - 9 - 2005`: **PASS**. **T3 PASS / T4 PASS / T5 VERIFIED.**
+
+---
+
+# Article 34 — `மகளிர் பேரணி!` → **Women's Rally!**
+
+Tamil blob: `762d5ae85ebf9fb7137ed44fcb07d9cf131a4fa7` — scans **148–151**.
+
+### T0 / T1
+Complete political/social argument: **PASS**. Ordered comments **4 / 4**.
+
+### T2
+- Periyar's 1928 `Kudiyarasu` criticism of performative women's-rights advocacy is retained in full;
+- the difficult family/sexual-relations/legal-separation paragraph is translated without sanitising or inserting present-day commentary;
+- 1996, 33%, Dalit reserved constituencies, `three lakh`, 50%/33% and source religious comparisons are preserved;
+- an initial distancing phrase `according to this account` attached to the rally's source claim was removed because the body must represent Kalaignar directly.
+
+Omissions **0**; additions after correction **0**; Tamil changes **0**. **T2 PASS.**
+
+### T3 / T4 / T5
+Repeated questions and the final `Realise it—and act!` command remain forceful. Periyar/Anna, `Kudiyarasu`, Mari/Kali/Lakshmi/Saraswati/Parvati, Ardhanarishvara and date `22 - 9 - 2005`: **PASS**. **T3 PASS / T4 PASS / T5 VERIFIED.**
+
+---
+
+# Article 35 — `திரிகடுகம்` → **Thirikadugam**
+
+Tamil blob: `31df896e40b0a05d983a47e64983afe9e1b36b1b` — scans **152–154**.
+
+### T0 / T1
+Complete translation including embedded venpa: **PASS**. Ordered comments **3 / 3**.
+
+### T2
+- source work titles `Thirikadugam`, Pathuppaattu, Ettuthogai and Pathinenkeezhkanakku are transliterated;
+- opening `fall / get up / eyes fall on books` strangeness is deliberately retained rather than normalised away;
+- dry ginger/pepper/long pepper three-part image retained;
+- `Kanakkayar` is preserved and explained by Kalaignar's own following prose;
+- embedded poem was revised to preserve the source's four displayed lines; no published literary translation imported.
+
+Omissions **0**; additions **0**; Tamil changes **0**. **T2 PASS.**
+
+### T3 / T4 / T5
+The shift from old work to present-day Tamil Nadu and assembly disorder remains sharp. Nallathanar, Ayya Valluvar and date `26 - 9 - 2005`: **PASS**. **T3 PASS / T4 PASS / T5 VERIFIED.**
+
+---
+
+# Article 36 — `தீக்குச்சி தேடாதீர்!` → **Don't Look for a Matchstick!**
+
+Tamil blob: `20be4a5c41cdc88db16663e9a8e2b38f2c630470` — scans **155–158**.
+
+### T0 / T1
+Complete translation including literary quotations: **PASS**. Ordered comments **4 / 4**.
+
+### T2
+- historical language-struggle deaths and self-destruction references are translated as source history while preserving Kalaignar's explicit repeated appeal **not** to destroy life;
+- `It is good to enter the fire` is retained as the literary line under discussion, not presented as translator advice;
+- Silappathikaram, Kopperunthevi/Bhootha Pandiyan material and `Nanmanikkadigai` remain source-derived without outside reconciliation;
+- final Poem 15 translation was revised to preserve the source's four-line display;
+- source glossary `பசைந்தார் = நண்பர்` remains `Pasaindhar = friend`.
+
+Omissions **0**; additions **0**; Tamil changes **0**. **T2 PASS.**
+
+### T3 / T4 / T5
+The article's emotional horror, literary interpretation and final warning not to seek a matchstick or kerosene remain unmistakable. `Vilambinaganar`, `Nanmanikkadigai`, `Thirikadugam`, `yaazh`, `parai`, poem number 15 and date `27 - 9 - 2005`: **PASS**. **T3 PASS / T4 PASS / T5 VERIFIED.**
 
 ---
 
 ## Current publication English checkpoint
 
-- T0: **26 / 50 PASS**
-- T1: **26 / 50 COMPLETE**
-- T2: **26 / 50 PASS**
-- T3: **26 / 50 PASS**
-- T4: **26 / 50 PASS**
-- T5: **26 / 50 PASS**
-- verified English files: **26 / 50**
+- T0: **36 / 50 PASS**
+- T1: **36 / 50 COMPLETE**
+- T2: **36 / 50 PASS**
+- T3: **36 / 50 PASS**
+- T4: **36 / 50 PASS**
+- T5: **36 / 50 PASS**
+- verified English files: **36 / 50**
 - draft English files: **0 / 50**
 - unresolved English blockers: **0**
-- Articles 22–26 ordered source comments: **19 / 19 PASS**
-- Tamil changes caused by Articles 22–26 English work: **0**
+- Articles 27–36 ordered source comments: **42 / 42 PASS**
+- Tamil changes caused by Articles 27–36 English work: **0**
 
-Articles **1–26** are durable verified English authority. Article **27 has not been started**.
+Articles **1–36** are durable verified English authority. Article **37 has not been started**. Per user instruction, future normal iterations should process **10 articles at a time** where enough articles remain.
