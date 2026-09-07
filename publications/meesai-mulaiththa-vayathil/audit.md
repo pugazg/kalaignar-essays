@@ -40,7 +40,7 @@ Exact publication title/source-ID searches and representative early-unit searche
 
 # P1 — metadata / full page map / unit mapping / duplicate reconciliation
 
-**RESULT: PASS / COMPLETE**
+**RESULT: PASS / COMPLETE — corrected source-title readings synchronized**
 
 ## P1-A — 146-scan physical accounting
 
@@ -87,7 +87,7 @@ Source-titled units mapped: **26 / 26**.
 | 4 | `கடலே` | 28–30 | 27–29 |
 | 5 | `ஆறு` | 31–33 | 30–32 |
 | 6 | `வாழிய வைகறை` | 34–35 | 33–34 |
-| 7 | `முக்கை சித்தர்` | 36–38 | 35–37 |
+| 7 | `அகப்பை சித்தர்` | 36–38 | 35–37 |
 | 8 | `மலையே வாழி` | 39–41 | 38–40 |
 | 9 | `கள்ளி` | 42–45 | 41–44 |
 | 10 | `விண்மீன்` | 46–48 | 45–47 |
@@ -106,17 +106,34 @@ Source-titled units mapped: **26 / 26**.
 | 23 | `சேவல் சண்டை` | 115–122 | 114–121 |
 | 24 | `மடல்` | 123–128 | 122–127 |
 | 25 | `ஆண்டு விழா` | 129–135 | 128–134 |
-| 26 | `மயிற்கு` | 136–145 | 135–144 |
+| 26 | `மயிலிறகு` | 136–145 | 135–144 |
 
 Boundary overlaps: **0**.  
 Unmapped main-work pages: **0**.  
 Source-titled unit blockers: **0**.
 
+## P1-D2 — title-reading correction audit
+
+User review identified two misread P1 headings. Both were re-opened against the controlling scan pixels:
+
+1. scan 36 / printed p.35: prior mapping `முக்கை சித்தர்` → source-visible **`அகப்பை சித்தர்`** — PASS;
+2. scan 136 / printed p.135: prior mapping `மயிற்கு` → source-visible **`மயிலிறகு`** — PASS.
+
+Impact:
+
+- unit boundaries changed: **0**;
+- printed-page spans changed: **0**;
+- unit count changed: **0**;
+- body prose transcribed/changed: **0**;
+- P1 gate reopened beyond targeted title correction: **No**.
+
 ## P1-E — unit-level duplicate reconciliation
 
-All **26 / 26** mapped titles were searched against live `pugazg/kalaignar-essays`.
+All **26 / 26** corrected mapped titles have been searched against live `pugazg/kalaignar-essays`.
 
 - exact pre-existing unit-title hits returned: **0 / 26**;
+- corrected `அகப்பை சித்தர்` search: **0 exact hit returned**;
+- corrected `மயிலிறகு` search: **0 exact hit returned**;
 - possible duplicate blockers requiring merge/hold: **0**;
 - exact publication title/source-ID blockers: **0**.
 
@@ -138,7 +155,7 @@ Created:
 - `indexes/page-map.md`;
 - `indexes/contents.md`.
 
-Synchronized:
+Synchronized after the targeted title corrections:
 
 - `metadata/source.md`;
 - publication `README.md`;
@@ -152,7 +169,7 @@ Synchronized:
 | Gate | State |
 |---|---|
 | P0 | **COMPLETE / PASS** |
-| P1 | **COMPLETE / PASS** |
+| P1 | **COMPLETE / PASS — corrected source titles synchronized** |
 | P2 | **NOT STARTED / NEXT** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
