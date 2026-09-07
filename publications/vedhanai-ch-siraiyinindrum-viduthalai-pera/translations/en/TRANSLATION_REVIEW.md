@@ -36,31 +36,18 @@ Material T2 corrections restored source force/logic in the opening observance, c
 **COMPLETE / PASS.**  
 T3 blob: `df9750cfc46ac1f3519ff2d40bbe8bb3b69073a6`.
 
-Voice review strengthened directness/cadence without changing T2 meaning: `inflicts a cruelty`, `with grace and uplift`, `There seems to be no country at all...`, `we cannot proudly say`, `assailed us one after another`, `throwing itself wholeheartedly`, `is fully convinced`, `overall progress`, `I have every confidence`, and closing `I appeal to the public`.
-
-Voice checks: rhetorical questions **PASS**; exclamation/dash force **PASS**; vivid images lost **0**; harsh imagery softened **0**; academic framing inserted **0**; unresolved voice blockers **0**.
+Voice review strengthened directness/cadence without changing T2 meaning. Rhetorical questions, exclamation/dash force, vivid images and source harshness all remained intact; unresolved voice blockers: **0**.
 
 ## T4 — terminology / quotation / citation audit
 
 **COMPLETE / PASS.**  
 Final T4 blob: `943be32674cb3952c655f6bfed9f8b1fc0410969`.
 
-Canonical living lexicon: [`LEXICON.md`](LEXICON.md) — **T4 PASS**.
-
-T4 confirmed title/metaphor consistency; `Family Welfare Programme` / `Family Welfare Programme Fortnight`; source labels `World Population Year` / `World Women's Year`; `United Nations` / `U.N.` distinction; quoted `childbearing`, `small-family norm`, `slackening`, `advance drive`; Parliament emphasis; scan-6 dash sequence; snail and harvest imagery; all source-controlled dates/numbers; source comments **5/5**; and scan-7 source-note separation. One T4 body correction restored the source quotation marks around `a puffed sorghum grain tossed to an elephant's hunger`.
-
-Unresolved terminology/quotation/citation blockers: **0**.
+Canonical living lexicon: [`LEXICON.md`](LEXICON.md) — **T4 PASS**. One T4 body correction restored source quotation marks around `a puffed sorghum grain tossed to an elephant's hunger`. Unresolved terminology/quotation/citation blockers: **0**.
 
 ## T5 — article verification
 
 **COMPLETE / PASS — VERIFIED.**
-
-Before T5 closeout, live `main` re-confirmed the frozen Tamil article:
-
-- status: **`strict-reviewed`**;
-- blob SHA: **`1c5870212186b2bf7ff095b245e15cd875de76f0`**;
-- source scans: **3–7**;
-- Tamil P5 authority unchanged: **PASS**.
 
 Final verified English authority:
 
@@ -72,63 +59,52 @@ Final English blob SHA:
 
 Final article metadata carries `translation_status: verified`.
 
-### T5 verification checklist
-
-- frozen Tamil authority unchanged from T0: **PASS**;
-- English source-Tamil SHA metadata matches frozen authority: **PASS**;
-- full Tamil message represented in English: **PASS**;
-- omitted Tamil paragraphs/clauses: **0**;
-- added factual claims: **0**;
-- five source comments present exactly once and ordered `3 → 4 → 5 → 6 → 7`: **PASS**;
-- title English/Tamil metadata: **PASS**;
-- title/body `prison of suffering` metaphor consistency: **PASS**;
-- rhetorical questions/exclamations/dashes retained: **PASS**;
-- child-production / machine imagery retained without softening: **PASS**;
-- elephant/sorghum quotation/image retained: **PASS**;
-- snail image retained: **PASS**;
-- closing fruit/harvest metaphor retained: **PASS**;
-- source labels and abbreviation policy: **PASS**;
-- all dates/numbers: **PASS**;
-- scan-7 source/occasion note remains outside Kalaignar's body: **PASS**;
-- fortnight-start date not misrepresented as a separately stated exact message/publication date: **PASS**;
-- T4 lexicon unresolved items: **0**;
-- translation `needs-review`: **0**;
-- translation blockers: **0**;
-- frozen Tamil changes during English T1–T5: **0**.
-
-**T5 RESULT: PASS — ARTICLE 1 ENGLISH VERIFIED.**
+T5 confirmed frozen Tamil authority unchanged, complete English representation, source comments `3 → 4 → 5 → 6 → 7`, source-note boundary, title/metaphor consistency, rhetorical imagery, source labels, dates/numbers and **0** unresolved translation blockers.
 
 ## E6 — publication-wide English consistency review
 
 **COMPLETE / PASS.**
 
-Canonical E6 record:
-
-[`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)
+Canonical E6 record: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md).
 
 E6 re-fetched both live authorities and confirmed:
 
-- frozen Tamil blob `1c5870212186b2bf7ff095b245e15cd875de76f0`: **unchanged / PASS**;
-- verified English blob `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`: **unchanged since T5 / PASS**;
+- frozen Tamil blob unchanged: **PASS**;
+- verified English blob unchanged since T5: **PASS**;
 - English metadata source pin: **PASS**;
-- source comments: **5 / 5**, ordered `3 → 4 → 5 → 6 → 7`;
+- source comments **5 / 5** ordered `3 → 4 → 5 → 6 → 7`;
 - source-note boundary/date discipline: **PASS**;
-- title/body metaphor consistency: **PASS**;
-- lexicon/source-label/abbreviation consistency: **PASS**;
-- imagery/rhetorical consistency: **PASS**;
-- source-controlled dates/numbers: **PASS**;
-- post-T5 English body drift: **0**;
-- post-T5 English metadata drift: **0**;
+- title/body metaphor, lexicon/source-label/abbreviation and rhetorical consistency: **PASS**;
 - E6 body corrections: **0**;
 - E6 metadata corrections: **0**;
 - E6 Tamil changes: **0**;
 - E6 blockers: **0**.
 
-**E6 RESULT: PASS / COMPLETE.**
+## E7 — English release closeout
 
-E6 is publication-wide consistency review, not release closeout.
+**COMPLETE / PASS — RELEASE COMPLETE / FROZEN.**
 
-## Final Article 1 / publication gate history
+Canonical E7 record: [`E7_RELEASE_CLOSEOUT.md`](E7_RELEASE_CLOSEOUT.md).
+
+E7 re-fetched live `main` and confirmed:
+
+- frozen Tamil blob: **`1c5870212186b2bf7ff095b245e15cd875de76f0` — unchanged / PASS**;
+- T5-verified / E6-passed English blob: **`57bb332530e5e6de12c74f2cd40ceaccf22e41b9` — unchanged / PASS**;
+- English `source_tamil_blob_sha` still matches live Tamil authority: **PASS**;
+- `translation_status: verified`: **PASS**;
+- T0–T5 chain: **PASS**;
+- E6: **PASS**;
+- post-E6 English body drift: **0**;
+- post-E6 English metadata drift: **0**;
+- frozen Tamil changes during E7: **0**;
+- release-blocking defects: **0**;
+- release blockers: **0**.
+
+E7 does not rewrite the verified English article. The T5 English blob remains the released English authority.
+
+**E7 RESULT: PASS / ENGLISH TRANSLATION COMPLETE / RELEASE COMPLETE / FROZEN.**
+
+## Final gate history
 
 | Gate | Result | Authority / note |
 |---|---|---|
@@ -140,8 +116,12 @@ E6 is publication-wide consistency review, not release closeout.
 | T4 | **PASS** | `943be32674cb3952c655f6bfed9f8b1fc0410969` |
 | T5 | **PASS / VERIFIED** | `57bb332530e5e6de12c74f2cd40ceaccf22e41b9` |
 | E6 | **PASS / COMPLETE** | publication consistency review |
-| E7 | **NOT STARTED / NEXT** | release closeout |
+| E7 | **PASS / RELEASE COMPLETE** | release closeout |
 
-## Exact next activity
+## Permanent non-regression
 
-**E7 — English release closeout.** Re-fetch the E6-passed verified English authority and frozen Tamil authority, confirm the full T0–T5 + E6 chain and zero blockers, record the release baseline and final release status, synchronize durable documents, and stop. Do not modify frozen Tamil or verified English body unless a genuine release-blocking defect is discovered.
+Do not reopen this publication merely for stylistic preference, modernisation or terminology homogenisation. Reopen only for a genuine source-supported Tamil defect or release-blocking English defect, and explicitly reopen every affected downstream gate.
+
+## Next activity
+
+No further Publication 9 translation-review gate is pending. The next project activity is intake/onboarding of the next supplied Kalaignar essay/article publication.
