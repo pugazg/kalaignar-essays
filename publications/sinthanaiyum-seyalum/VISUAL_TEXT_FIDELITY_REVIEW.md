@@ -48,11 +48,11 @@ The recurring printed production/form series was reconfirmed at scans **18, 34, 
 
 Library stamps, handwriting, age spotting, bleed-through and other physical-copy evidence remain outside `# அச்சு உரை` and outside article assemblies.
 
-## Correction provenance
+## Correction provenance at the original publication-wide sweep
 
-The publication-wide post-completion sweep found **0 new canonical text corrections**.
+The original publication-wide post-completion sweep found **0 new canonical text corrections** at that time.
 
-Earlier scoped strict-review corrections remain correctly propagated and were not regressed, including:
+Earlier scoped strict-review corrections remained correctly propagated and were not regressed, including:
 
 - scan 130: `மாத` → source-visible `மாசு`;
 - scan 156: first-pass `உயிரினைய` → source-visible `உயிரனைய`;
@@ -60,9 +60,32 @@ Earlier scoped strict-review corrections remain correctly propagated and were no
 
 All other scoped P5 source-sensitive decisions remain authoritative in their respective P5 records.
 
-## Assembly / structure reconciliation
+## Post-freeze targeted source correction — scan 76
 
-Because this final sweep required no canonical page change, the already-passed canonical-page / assembly equality gates remain valid without downstream prose mutation.
+During Article 16 English T4 source-witness review, controlling **global scan 76 / part 002 PDF page 21 / printed page 75** was re-opened directly from the scan pixels because the canonical phrase was suspicious.
+
+The scan visibly reads:
+
+`அதற்குக் காரணமானவர்களைச் சட்டத்தின் முன்னால்`
+
+The then-frozen canonical `pages/0076.md` and Article 16 assembly incorrectly had:
+
+`அதற்குக் காரணமான வற்கைச் சட்டத்தின் முன்னால்`
+
+This was therefore a **genuine controlling-scan defect**, not modernization or translation convenience. The correction was applied narrowly:
+
+- `pages/0076.md`: `வற்கைச்` → source-visible `வர்களைச்`;
+- `articles/16-ozhukkam.md`: same correction propagated;
+- page status remains `verified`;
+- Article 16 assembly was re-frozen after propagation;
+- no other Tamil prose changed;
+- unresolved source/fidelity discrepancies remain **0**.
+
+This post-freeze correction does not invalidate the original 226/226 sweep result; it records a later source-demonstrated defect found under the repository rule that frozen Tamil may be reopened only when controlling scan pixels prove an error.
+
+## Assembly / structure reconciliation — current state
+
+After the targeted scan-76 correction, canonical-page / assembly equality for Article 16 was restored before English T5.
 
 - canonical page records: **226 / 226 VERIFIED**;
 - body scans represented exactly once in assemblies: **208 / 208**;
@@ -78,9 +101,9 @@ Because this final sweep required no canonical page change, the already-passed c
 ## Final result
 
 **PUBLICATION-WIDE P5: PASS.**  
-**VISUAL-TEXT-FIDELITY: COMPLETE.**  
-**TAMIL ARCHIVAL LAYER: COMPLETE / STRICT-REVIEWED / FROZEN.**
+**VISUAL-TEXT-FIDELITY: COMPLETE / POST-FREEZE CORRECTION RECONCILED.**  
+**TAMIL ARCHIVAL LAYER: COMPLETE / STRICT-REVIEWED / RE-FROZEN.**
 
 All 226 physical scans and all 50 article assemblies have cleared the repository's Tamil archival gates P0–P5. Reopen this Tamil layer only for a genuine defect demonstrated by the controlling scan pixels.
 
-English translation remains **NOT STARTED / OUT OF CURRENT SCOPE** and must not begin without explicit user authorization.
+English translation is now **ACTIVE** and has reached **Articles 1–16 T0–T5 PASS / verified**; English work does not change Tamil authority except through the same narrowly demonstrated controlling-scan-defect rule used for scan 76.
