@@ -61,7 +61,7 @@ P1 verified the continuous visible printed folio sequence on scans **18–145**:
 4. `கடலே` — 28–30 / pp.27–29
 5. `ஆறு` — 31–33 / pp.30–32
 6. `வாழிய வைகறை` — 34–35 / pp.33–34
-7. `முக்கை சித்தர்` — 36–38 / pp.35–37
+7. `அகப்பை சித்தர்` — 36–38 / pp.35–37
 8. `மலையே வாழி` — 39–41 / pp.38–40
 9. `கள்ளி` — 42–45 / pp.41–44
 10. `விண்மீன்` — 46–48 / pp.45–47
@@ -80,13 +80,22 @@ P1 verified the continuous visible printed folio sequence on scans **18–145**:
 23. `சேவல் சண்டை` — 115–122 / pp.114–121
 24. `மடல்` — 123–128 / pp.122–127
 25. `ஆண்டு விழா` — 129–135 / pp.128–134
-26. `மயிற்கு` — 136–145 / pp.135–144
+26. `மயிலிறகு` — 136–145 / pp.135–144
 
 Unmapped scans: **0**. Boundary overlaps: **0**.
 
+### P1 source-title corrections
+
+User review triggered direct source-pixel reinspection of two headings:
+
+- scan 36 / printed p.35: `முக்கை சித்தர்` → **`அகப்பை சித்தர்`**;
+- scan 136 / printed p.135: `மயிற்கு` → **`மயிலிறகு`**.
+
+No unit boundary or printed-page span changed. Both corrected titles were re-screened against live `kalaignar-essays`; no exact pre-existing match was returned.
+
 ## Duplicate reconciliation — P1 PASS
 
-Every one of the **26 / 26** mapped source-visible unit titles was searched against live `pugazg/kalaignar-essays`.
+Every one of the **26 / 26** corrected mapped source-visible unit titles has been searched against live `pugazg/kalaignar-essays`.
 
 - exact pre-existing unit-title hits returned: **0 / 26**;
 - possible duplicate blockers: **0**;
@@ -114,7 +123,7 @@ This is a repository duplicate screen only; it does not claim that an internal t
 ## Workflow state
 
 - P0 source intake / publication identification: **COMPLETE / PASS**
-- P1 metadata + full page map + unit/contents mapping + duplicate reconciliation: **COMPLETE / PASS**
+- P1 metadata + full page map + unit/contents mapping + duplicate reconciliation: **COMPLETE / PASS — corrected source-title readings synchronized**
 - P2 page-level transcription: **NOT STARTED / NEXT**
 - P3 assemblies: **NOT STARTED**
 - P4 source/completeness audit: **NOT STARTED**
