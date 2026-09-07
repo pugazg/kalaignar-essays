@@ -19,13 +19,28 @@ The bracketed note at the bottom of printed p.7 is retained as a printed source/
 - source scans: **3–7**;
 - one assembly only;
 - ordered source comments: **3 → 4 → 5 → 6 → 7**;
-- P4 omission / duplication / reorder: **0 / 0 / 0**.
+- P4 omission / duplication / reorder: **0 / 0 / 0**;
+- P5 status: **`strict-reviewed`**.
+
+## P5 notes
+
+- all **8 / 8** physical scans were directly rechecked;
+- scan 2 title-page dotted witness corrected to `பெற..........!`;
+- scan 7 body word boundary corrected to `வெற்றிக்கனியினைக்` and propagated to the canonical assembly;
+- `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` confirmed from source pixels;
+- unresolved Tamil fidelity discrepancies: **0**.
 
 ## Current state
 
 - P1 contents mapping: **COMPLETE / PASS**;
 - P3 canonical assembly: **1 / 1 COMPLETE / PASS**;
 - P4 source/completeness audit: **COMPLETE / PASS**;
-- P5 strict visual fidelity: **NOT STARTED**.
+- P5 strict visual fidelity: **8 / 8 COMPLETE / PASS**;
+- Tamil archival authority: **COMPLETE / STRICT-REVIEWED / FROZEN**.
 
-See [`../SOURCE_COMPLETENESS_AUDIT.md`](../SOURCE_COMPLETENESS_AUDIT.md).
+See:
+
+- [`../SOURCE_COMPLETENESS_AUDIT.md`](../SOURCE_COMPLETENESS_AUDIT.md)
+- [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md)
+
+Exact next activity: **E0 English translation planning/setup.**
