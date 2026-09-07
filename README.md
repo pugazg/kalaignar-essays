@@ -96,41 +96,53 @@ Controlling source identifier: `TVA_BOK_0065568` — **226 physical scans** supp
 - body units / P3 assemblies: **50 / 50**
 - publication-wide P4: **PASS**
 - publication-wide P5: **226 / 226 PASS**
-- post-freeze source correction: **scan 76 `வற்கைச்` → source-visible `வர்களைச்`, propagated/re-frozen**
+- post-freeze source correction already closed: **scan 76 `வற்கைச்` → source-visible `வர்களைச்`, propagated/re-frozen**
 - unresolved Tamil/source discrepancies: **0**
 - English E0: **COMPLETE / PASS**
-- T0: **16 / 50 PASS**
-- T1: **16 / 50 COMPLETE**
-- T2: **16 / 50 PASS**
-- T3: **16 / 50 PASS**
-- T4: **16 / 50 PASS**
-- T5: **16 / 50 PASS**
-- English files: **16 / 50**
-- English verified: **16 / 50**
+- T0: **21 / 50 PASS**
+- T1: **21 / 50 COMPLETE**
+- T2: **21 / 50 PASS**
+- T3: **21 / 50 PASS**
+- T4: **21 / 50 PASS**
+- T5: **21 / 50 PASS**
+- English files: **21 / 50**
+- English verified: **21 / 50**
 - English drafts: **0 / 50**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
-Verified English currently covers Articles **1–16**, from **Moss and Dust!** through **Conduct**. Articles 12–16 were completed as the latest five-article T0–T5 batch. During Article 16 T4, the controlling scan demonstrated one genuine earlier Tamil transcription defect at scan 76; it was corrected narrowly and re-frozen before English T5.
+Verified English currently covers Articles **1–21**, from **Moss and Dust!** through **A Feast for Disease?**. Articles 17–21 were completed as the latest five-article T0–T5 batch with **0 Tamil changes** and **0 blockers**.
+
+Source-sensitive outcomes in the latest batch include Article 19’s independent contents/heading witness, full lineated Kundrakudi Adigalar poem, Article 20’s `terrorism / extremism` distinction and source-visible `Orabi kings`, and Article 21’s `morsing` / `(Infection)` witnesses.
 
 ### Permanent `உடன்பிறப்பே` translation rule
 
-Whenever Kalaignar uses `உடன்பிறப்பே`, retain **`Udanpirappē`**. Do not flatten it into `brother`, `sister`, `sibling`, `Dear sibling`, or `comrade`. Literally evoking “one born alongside me,” it carries Kalaignar’s distinctive movement address of shared identity, equality, affection and solidarity. Articles 1 and 2 have already been corrected to `Udanpirappē,`.
+Whenever Kalaignar uses `உடன்பிறப்பே`, retain **`Udanpirappē`**. Direct salutation: **`Udanpirappē,`**. Do not flatten it into `brother`, `sister`, `sibling`, `Dear sibling`, or `comrade`.
 
 English records:
 
 - [`TRANSLATION_PLAN.md`](publications/sinthanaiyum-seyalum/TRANSLATION_PLAN.md)
 - [`translations/en/README.md`](publications/sinthanaiyum-seyalum/translations/en/README.md)
+- [`translations/en/LEXICON_THROUGH_16.md`](publications/sinthanaiyum-seyalum/translations/en/LEXICON_THROUGH_16.md)
 - [`translations/en/LEXICON.md`](publications/sinthanaiyum-seyalum/translations/en/LEXICON.md)
+- [`translations/en/TRANSLATION_REVIEW_THROUGH_16.md`](publications/sinthanaiyum-seyalum/translations/en/TRANSLATION_REVIEW_THROUGH_16.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](publications/sinthanaiyum-seyalum/translations/en/TRANSLATION_REVIEW.md)
 
 Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seyalum/)
 
 ## Current repository-level boundary
 
-`சிந்தனையும் செயலும்` English Articles **1–16 are verified**. Article **17 has not been started**.
+`சிந்தனையும் செயலும்` English Articles **1–21 are verified**. Article **22 has not been started**.
 
-The next article is `வசிய மருந்து` — scans **78–81**. The prepared next five-article block is Articles **17–21**, but it must not begin until the user authorises continuation. `docs/NEXT_CHAT_PROMPT.md` records that future block.
+The prepared next five-article block is Articles **22–26**:
+
+- `விளையாட்டு` — scans 98–100;
+- `தன்னை வெல்வான்` — scans 101–103;
+- `இட்லர்` — scans 104–108;
+- `இங்கர்சால்` — scans 109–111;
+- `மகளிர் இட ஒதுக்கீடு!` — scans 112–116.
+
+It must not begin until the user authorises continuation. `docs/NEXT_CHAT_PROMPT.md` records that block.
 
 Apply `Udanpirappē` to every source occurrence of `உடன்பிறப்பே`.
 
