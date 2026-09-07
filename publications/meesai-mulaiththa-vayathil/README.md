@@ -63,7 +63,7 @@ P1 verified the continuous visible printed folio sequence on scans **18–145**:
 6. `வாழிய வைகறை` — 34–35 / pp.33–34
 7. `அகப்பை சித்தர்` — 36–38 / pp.35–37
 8. `மலையே வாழி` — 39–41 / pp.38–40
-9. `கள்ளி` — 42–45 / pp.41–44
+9. `தளிர்` — 42–45 / pp.41–44
 10. `விண்மீன்` — 46–48 / pp.45–47
 11. `தனிமை` — 49–54 / pp.48–53
 12. `நாடக மேடை` — 55–56 / pp.54–55
@@ -86,12 +86,13 @@ Unmapped scans: **0**. Boundary overlaps: **0**.
 
 ### P1 source-title corrections
 
-User review triggered direct source-pixel reinspection of two headings:
+User review triggered direct source-pixel reinspection of three headings:
 
 - scan 36 / printed p.35: `முக்கை சித்தர்` → **`அகப்பை சித்தர்`**;
+- scan 42 / printed p.41: `கள்ளி` → **`தளிர்`**;
 - scan 136 / printed p.135: `மயிற்கு` → **`மயிலிறகு`**.
 
-No unit boundary or printed-page span changed. Both corrected titles were re-screened against live `kalaignar-essays`; no exact pre-existing match was returned.
+No unit boundary or printed-page span changed. All three corrected titles were re-screened against live `kalaignar-essays`; no exact pre-existing match was returned.
 
 ## Duplicate reconciliation — P1 PASS
 
