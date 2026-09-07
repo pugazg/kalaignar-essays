@@ -87,30 +87,31 @@ Workspace: [`publications/kolaikkalam/`](publications/kolaikkalam/)
 
 ### Publication 8 — சிந்தனையும் செயலும்
 
-**TAMIL ARCHIVAL COMPLETE / FROZEN — ENGLISH TRANSLATION ACTIVE.**
+**TAMIL ARCHIVAL COMPLETE / RE-FROZEN — ENGLISH TRANSLATION ACTIVE.**
 
 Controlling source identifier: `TVA_BOK_0065568` — **226 physical scans** supplied as five non-overlapping transfer PDFs.
 
-- Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**
+- Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / RE-FROZEN**
 - P2 direct verification: **226 / 226 PASS**
 - body units / P3 assemblies: **50 / 50**
 - publication-wide P4: **PASS**
 - publication-wide P5: **226 / 226 PASS**
+- post-freeze source correction: **scan 76 `வற்கைச்` → source-visible `வர்களைச்`, propagated/re-frozen**
 - unresolved Tamil/source discrepancies: **0**
 - English E0: **COMPLETE / PASS**
-- T0: **11 / 50 PASS**
-- T1: **11 / 50 COMPLETE**
-- T2: **11 / 50 PASS**
-- T3: **11 / 50 PASS**
-- T4: **11 / 50 PASS**
-- T5: **11 / 50 PASS**
-- English files: **11 / 50**
-- English verified: **11 / 50**
+- T0: **16 / 50 PASS**
+- T1: **16 / 50 COMPLETE**
+- T2: **16 / 50 PASS**
+- T3: **16 / 50 PASS**
+- T4: **16 / 50 PASS**
+- T5: **16 / 50 PASS**
+- English files: **16 / 50**
+- English verified: **16 / 50**
 - English drafts: **0 / 50**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
 
-Verified English currently covers Articles **1–11**, from **Moss and Dust!** through **Victory and Defeat!**. Articles 7–11 were completed as the latest five-article T0–T5 batch with full correction provenance and **0 Tamil changes**.
+Verified English currently covers Articles **1–16**, from **Moss and Dust!** through **Conduct**. Articles 12–16 were completed as the latest five-article T0–T5 batch. During Article 16 T4, the controlling scan demonstrated one genuine earlier Tamil transcription defect at scan 76; it was corrected narrowly and re-frozen before English T5.
 
 ### Permanent `உடன்பிறப்பே` translation rule
 
@@ -125,16 +126,12 @@ English records:
 
 Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seyalum/)
 
-## Current repository-level next activity
+## Current repository-level boundary
 
-`சிந்தனையும் செயலும்` English — process **Articles 12–16 through T5 each**:
+`சிந்தனையும் செயலும்` English Articles **1–16 are verified**. Article **17 has not been started**.
 
-- `அழுக்காறு` — scans 59–61;
-- `மிகுதிக்கண்...` — scans 62–65;
-- `வலிவும், பொலிவும்!` — scans 66–68;
-- `இன்பமும் துன்பமும்!` — scans 69–74;
-- `ஒழுக்கம்` — scans 75–77.
+The next article is `வசிய மருந்து` — scans **78–81**. The prepared next five-article block is Articles **17–21**, but it must not begin until the user authorises continuation. `docs/NEXT_CHAT_PROMPT.md` records that future block.
 
-Apply `Udanpirappē` to every source occurrence of `உடன்பிறப்பே`. Stop after Article 16 and synchronize before Article 17.
+Apply `Udanpirappē` to every source occurrence of `உடன்பிறப்பே`.
 
-Preserve Publications 1–7 as released/frozen and Publication 8’s Tamil layer as frozen. `HANDOVER.md` and live `main` remain authoritative over copied prompts or older checkpoints.
+Preserve Publications 1–7 as released/frozen and Publication 8’s Tamil layer as frozen/re-frozen. `HANDOVER.md` and live `main` remain authoritative over copied prompts or older checkpoints.
