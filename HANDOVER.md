@@ -9,7 +9,7 @@ Branch: `main`
 
 Publications **1–9 are RELEASE COMPLETE / FROZEN**.
 
-Active Publication **10 — `மீசை முளைத்த வயதில்` — P0 SOURCE INTAKE COMPLETE / PASS.** Exact next gate: **P1 — metadata + full page map + full source-visible unit mapping / duplicate reconciliation**.
+Active Publication **10 — `மீசை முளைத்த வயதில்` — P0–P1 COMPLETE / PASS.** Exact next gate: **P2 — page-level transcription**, beginning with **scans 1–10**.
 
 Source PDFs are never committed.
 
@@ -19,8 +19,8 @@ Source PDFs are never committed.
 2. read `ESSAY_PROCESSING_GUIDE.md` completely;
 3. read `docs/FUTURE_WORK_GUIDELINES.md`;
 4. read this handover and `docs/NEXT_CHAT_PROMPT.md`;
-5. read active Publication 10 `README.md`, `metadata/source.md`, and `audit.md`;
-6. resolve/retain the controlling source `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf` before source-level mapping;
+5. read active Publication 10 `README.md`, `metadata/source.md`, `indexes/page-map.md`, `indexes/contents.md`, and `audit.md`;
+6. resolve/retain the controlling source `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf` before source-level transcription;
 7. preserve Publications 1–9 unless a genuine source-supported defect or explicit user request requires targeted reopening;
 8. do not begin English translation for Publication 10 before Tamil P5 freeze.
 
@@ -36,7 +36,7 @@ Workspace:
 
 `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`
 
-Source identity established at P0:
+Source identity:
 
 - source ID: `TVA_BOK_0065746`;
 - SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
@@ -55,97 +55,127 @@ Source identity established at P0:
 
 This is **not a single conventional essay**.
 
-Kalaignar's `என்னுரை` describes the gathered youthful pieces as **`எழுத்தோவியங்கள்`** and explains that they were collected under the title `மீசை முளைத்த வயதில்`.
-
-Repository classification:
+Kalaignar's `என்னுரை` describes the gathered youthful pieces as **`எழுத்தோவியங்கள்`**. Repository classification:
 
 **multi-piece youthful literary/prose collection (`எழுத்தோவியங்கள்`)**.
 
-Do not mechanically relabel every internal piece as essay, poem, story or speech. P1/P2 must retain source-visible headings and determine each unit boundary/form from the scan.
+Do not mechanically relabel every internal piece as essay, poem, story or speech. Preserve source-visible headings/forms and let the scan control finer classification.
 
-## P0 structural framework — source inspected directly
+## P0 — COMPLETE / PASS
 
-- scan 1 — front cover;
-- scan 2 — title page;
-- scan 3 — imprint / edition / price;
-- scans 4–6 — `என்னுரை` by Kalaignar;
-- scans 7–16 — `முன்னுரை` by `கவிப்பேரரசு வைரமுத்து`;
-- scan 17 — blank / reverse-side show-through only;
-- scan 18 — first main-work unit `பிறையே`, printed p.17;
-- scans 18–145 — main-work pagination through printed p.144;
-- scan 145 — printed p.144 / final body close;
-- scan 146 — illustrated back cover / promotional text.
+Source intake established publication identity, classification, edition evidence, 146-scan count, image-only source form and publication-level duplicate clearance.
 
-Observed relation for scans 18–145:
+## P1 — COMPLETE / PASS
 
-`printed page = scan page - 1`
+Canonical P1 records:
 
-This relation is **preliminary P0 evidence only**. P1 must verify every page continuously before canonizing the page map.
+- `publications/meesai-mulaiththa-vayathil/indexes/page-map.md`;
+- `publications/meesai-mulaiththa-vayathil/indexes/contents.md`;
+- synchronized `metadata/source.md`, publication `README.md`, and `audit.md`.
 
-No printed contents page is visible in the inspected front matter. P1 must distinguish a repository-generated unit map from a printed contents witness.
+P1 direct-source result:
 
-Representative early main-unit headings seen during intake include:
+- physical scans inspected/accounted for: **146 / 146**;
+- scans 1–3: cover/title/imprint;
+- scans 4–6: `என்னுரை` — Kalaignar;
+- scans 7–16: `முன்னுரை` — `கவிப்பேரரசு வைரமுத்து`;
+- scan 17: blank / reverse-side show-through;
+- scans 18–145: main work;
+- scan 146: back cover / promotional text;
+- scans 18–145 visible printed folios: **17–144 / continuous / 128 of 128**;
+- canonical relation: `printed page = scan page - 1` for scans 18–145;
+- unmapped scans: **0**;
+- overlapping unit boundaries: **0**;
+- P1 blockers: **0**.
 
-`பிறையே`, `ஆடிக்காற்று`, `கருப்புப் பெண்`, `கடலே`, `ஆறு`, `வாழிய வைகறை`, `மலையே வாழி`, `விண்மீன்`, `தனிமை`, `நாடக மேடை`, `புகழ்`, `பச்சைக்கிளி`, `தமிழே`, `தேனலைகள்`.
+### Printed contents discipline
 
-This is **not the full canonical list**.
+**No printed contents page exists in the supplied edition.**
+
+`indexes/contents.md` is an explicitly labelled **repository editorial/source map**, derived from source-visible opening headings and direct boundary inspection. It must not be represented as a publisher-supplied contents transcription.
+
+### Canonical source-titled unit sequence — 26 / 26
+
+1. `பிறையே` — scans 18–20 / pp.17–19
+2. `ஆடிக்காற்று` — 21–23 / pp.20–22
+3. `கருப்புப் பெண்` — 24–27 / pp.23–26
+4. `கடலே` — 28–30 / pp.27–29
+5. `ஆறு` — 31–33 / pp.30–32
+6. `வாழிய வைகறை` — 34–35 / pp.33–34
+7. `முக்கை சித்தர்` — 36–38 / pp.35–37
+8. `மலையே வாழி` — 39–41 / pp.38–40
+9. `கள்ளி` — 42–45 / pp.41–44
+10. `விண்மீன்` — 46–48 / pp.45–47
+11. `தனிமை` — 49–54 / pp.48–53
+12. `நாடக மேடை` — 55–56 / pp.54–55
+13. `புகழ்` — 57–58 / pp.56–57
+14. `பச்சைக்கிளி` — 59–61 / pp.58–60
+15. `தமிழே` — scan 62 / p.61
+16. `தேனலைகள்` — 63–71 / pp.62–70
+17. `தோழி` — 72–77 / pp.71–76
+18. `மருதாணி` — 78–84 / pp.77–83
+19. `அருவி` — 85–90 / pp.84–89
+20. `முறம்` — 91–95 / pp.90–94
+21. `யாழ்` — 96–102 / pp.95–101
+22. `சிற்பி` — 103–114 / pp.102–113
+23. `சேவல் சண்டை` — 115–122 / pp.114–121
+24. `மடல்` — 123–128 / pp.122–127
+25. `ஆண்டு விழா` — 129–135 / pp.128–134
+26. `மயிற்கு` — 136–145 / pp.135–144
+
+### P1 duplicate reconciliation
+
+All **26 / 26** mapped unit titles were searched against live `pugazg/kalaignar-essays`.
+
+- exact pre-existing unit-title hits returned: **0**;
+- possible duplicate blockers requiring merge/hold: **0**;
+- publication-title/source-ID blocker: **0**.
+
+This is repository-specific only; it does not make a claim about external editions/periodicals not present in this repository.
 
 ## Physical-copy / scan cautions
 
 - later library labels/stamps/accession markings occur on multiple scans;
 - scan 3 contains a large library stamp plus handwriting over parts of the imprint/contact block;
-- obscured imprint details were **not reconstructed** during P0;
+- obscured imprint details must not be reconstructed;
 - light reverse-side show-through is common;
 - illustrations accompany many unit openings;
 - physical-copy marks must be recorded separately from printed text;
 - OCR may assist mechanically but is never authority;
 - source-visible historical wording, punctuation, spelling and unusual forms must not be modernised.
 
-## Duplicate gate — P0 result
-
-Live `main` searches before workspace creation found:
-
-- exact title `மீசை முளைத்த வயதில்`: **no match**;
-- source ID `TVA_BOK_0065746`: **no match**;
-- representative headings `பிறையே`, `ஆடிக்காற்று`, `கருப்புப் பெண்`, `மலையே வாழி`: **no match**.
-
-Therefore this supplied publication edition is new to `pugazg/kalaignar-essays` and the workspace was created.
-
-Because this is a large multi-piece collection, **full unit-level duplicate reconciliation is a mandatory P1 task** after every source-visible unit heading is enumerated. P0 does not claim that no internal text has appeared in some other edition outside this repository.
-
-## Durable P0 records
-
-- `publications/meesai-mulaiththa-vayathil/README.md`
-- `publications/meesai-mulaiththa-vayathil/metadata/source.md`
-- `publications/meesai-mulaiththa-vayathil/audit.md`
-
 ## Gate state
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**;
-- P1 — metadata + page map + unit/contents mapping: **NOT STARTED / NEXT**;
-- P2 — page-level transcription: **NOT STARTED**;
+- P1 — metadata + page map + unit/contents mapping + duplicate reconciliation: **COMPLETE / PASS**;
+- P2 — page-level transcription: **NOT STARTED / NEXT**;
 - P3 — assemblies: **NOT STARTED**;
 - P4 — source/completeness audit: **NOT STARTED**;
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**;
 - English: **BLOCKED until Tamil P5 freeze**;
-- P0 blockers: **0**.
+- blockers: **0**.
 
-## Exact next activity — P1
+## Exact next activity — P2 batch 1 / scans 1–10
 
 When the user says proceed/continue:
 
-1. fetch live `main` first;
-2. read the three active P0 records and this handover;
-3. inspect all **146 physical scans** sufficiently to classify every scan role;
-4. verify the printed-page sequence and every transition, not merely the P0 sample;
-5. enumerate every source-visible main-unit heading and its scan/printed start/end boundary;
-6. identify front matter, blank pages, illustrations, body continuations and back matter separately;
-7. create `publications/meesai-mulaiththa-vayathil/indexes/page-map.md`;
-8. create `publications/meesai-mulaiththa-vayathil/indexes/contents.md` as an **editorial source map** if no printed contents page exists, explicitly saying it is not a printed contents witness;
-9. run unit-level duplicate searches against live `pugazg/kalaignar-essays` for every mapped unit and record results;
-10. update source metadata/README/audit/root trackers;
-11. mark P1 PASS only when all 146 scans and all unit boundaries are accounted for;
-12. **stop after P1**. Do not begin full P2 transcription unless separately authorised.
+1. fetch live `main` and preserve newer work;
+2. re-read active P1 records and this handover;
+3. use the controlling scan directly;
+4. create canonical page records for **scans 1–10** under `publications/meesai-mulaiththa-vayathil/pages/`;
+5. page roles from the P1 map are:
+   - scan 1 cover;
+   - scan 2 title page;
+   - scan 3 imprint/edition/price;
+   - scans 4–6 `என்னுரை`;
+   - scans 7–10 first four pages of `முன்னுரை`;
+6. for every page, preserve `# அச்சு உரை` separately from `## அச்சு அல்லாத / physical-copy marks`;
+7. record illustrations/portrait/stamps/accession marks separately rather than inserting them into printed prose;
+8. do not reconstruct scan-3 stamp-obscured details from context;
+9. transcribe historical/source-visible forms without silent modernization;
+10. mark `verified` only after direct source comparison;
+11. update P2 progress, publication/root trackers and next prompt;
+12. stop after scans **1–10**. Do not begin scan 11 in the same activity unless separately authorised.
 
 ---
 
