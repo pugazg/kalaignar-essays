@@ -48,7 +48,7 @@ P5 source-supported corrections remain:
 
 P5 also independently confirmed `நாடாளு மன்றத்தில்`, `நாடாளு மன்றமே`, `எங்கணும்`, `உறையுள்`, `உலகு`, `யந்திரங்களாகவே`, `முன்பியக்கம்`, `முன்பியக்கக்` and the scan-7 date-note wording without conventionalisation.
 
-## English translation — T0–T5 COMPLETE
+## English translation — T0–T5 VERIFIED / E6 PASS
 
 English workspace:
 
@@ -56,11 +56,12 @@ English workspace:
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+- [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSISTENCY_REVIEW.md)
 - [`translations/en/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](translations/en/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md)
 
 English title: **Freedom from the Prison of Suffering**.
 
-Final verified English blob: **`57bb332530e5e6de12c74f2cd40ceaccf22e41b9`**.
+Verified English blob: **`57bb332530e5e6de12c74f2cd40ceaccf22e41b9`**.
 
 English gate state:
 
@@ -71,14 +72,38 @@ English gate state:
 - T3: **1 / 1 PASS**;
 - T4: **1 / 1 PASS**;
 - T5: **1 / 1 PASS / VERIFIED**;
-- E6: **NOT STARTED / NEXT**;
-- E7: **NOT STARTED**;
-- unresolved translation blockers: **0**.
+- E6: **PASS / COMPLETE**;
+- E7: **NOT STARTED / NEXT**;
+- unresolved English/release blockers: **0**.
 
-T1–T5 preserve all five source comments, the separated scan-7 source/occasion note, the central prison metaphor, child-production/machine imagery, quoted elephant/sorghum image, scan-6 dash accumulation, snail imagery, closing fruit/harvest metaphor, source labels/abbreviation distinctions and all source-controlled dates/numbers.
+### E6 result
 
-The frozen Tamil authority was not changed during English T1–T5.
+E6 re-fetched both live authorities and confirmed:
+
+- frozen Tamil blob unchanged: **PASS**;
+- verified English blob unchanged since T5: **PASS**;
+- source metadata linkage: **PASS**;
+- five ordered source comments `3 → 4 → 5 → 6 → 7`: **PASS**;
+- scan-7 source/occasion note outside the message body: **PASS**;
+- title/body `prison of suffering` consistency: **PASS**;
+- terminology/source-label/abbreviation consistency: **PASS**;
+- imagery/rhetorical consistency: **PASS**;
+- dates/numbers/date discipline: **PASS**;
+- English body corrections during E6: **0**;
+- English metadata corrections during E6: **0**;
+- Tamil changes during E6: **0**;
+- E6 blockers: **0**.
+
+T1–T5/E6 preserve the central prison metaphor, child-production/machine imagery, quoted elephant/sorghum image, scan-6 dash accumulation, snail imagery, closing fruit/harvest metaphor, source labels/abbreviation distinctions and all source-controlled dates/numbers.
+
+## Current workflow state
+
+- Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**;
+- English T0–T5: **1 / 1 COMPLETE / PASS / VERIFIED**;
+- E6: **COMPLETE / PASS**;
+- E7: **NOT STARTED / NEXT**;
+- blockers: **0**.
 
 ## Exact next activity
 
-**E6 — publication-level English consistency review.** Re-fetch the verified English authority and frozen Tamil authority, check title/terminology/source-note consistency and durable tracker state, and stop before E7 unless separately authorised.
+**E7 — English release closeout.** Re-fetch the E6-passed verified English authority and frozen Tamil authority, confirm the complete T0–T5 + E6 chain and zero blockers, record the release baseline, synchronize final release status, and stop. Do not modify frozen Tamil or the verified English body unless a genuine release-blocking defect is discovered.
