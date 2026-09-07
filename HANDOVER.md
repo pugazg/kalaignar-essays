@@ -104,7 +104,7 @@ P1 direct-source result:
 6. `வாழிய வைகறை` — 34–35 / pp.33–34
 7. `அகப்பை சித்தர்` — 36–38 / pp.35–37
 8. `மலையே வாழி` — 39–41 / pp.38–40
-9. `கள்ளி` — 42–45 / pp.41–44
+9. `தளிர்` — 42–45 / pp.41–44
 10. `விண்மீன்` — 46–48 / pp.45–47
 11. `தனிமை` — 49–54 / pp.48–53
 12. `நாடக மேடை` — 55–56 / pp.54–55
@@ -125,12 +125,13 @@ P1 direct-source result:
 
 ### Targeted P1 title-reading corrections
 
-User review identified two title misreads. Direct source reinspection confirmed:
+User review identified three title misreads. Direct source reinspection confirmed:
 
 - scan 36 / printed p.35: `முக்கை சித்தர்` → **`அகப்பை சித்தர்`**;
+- scan 42 / printed p.41: `கள்ளி` → **`தளிர்`**;
 - scan 136 / printed p.135: `மயிற்கு` → **`மயிலிறகு`**.
 
-These corrections changed **no unit boundaries, no printed-page spans, and no unit count**. The two corrected titles were separately searched against live `kalaignar-essays`; both returned **0 exact pre-existing hits**. Duplicate blockers remain **0**.
+These corrections changed **no unit boundaries, no printed-page spans, and no unit count**. The corrected titles were separately searched against live `kalaignar-essays`; all returned **0 exact pre-existing hits**. Duplicate blockers remain **0**.
 
 ### P1 duplicate reconciliation
 
