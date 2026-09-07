@@ -12,13 +12,14 @@ Branch: `main`
 3. read `docs/FUTURE_WORK_GUIDELINES.md` completely;
 4. fetch live `main` and read this handover;
 5. read `docs/NEXT_CHAT_PROMPT.md` as the convenience continuation prompt;
-6. preserve released/frozen work unless a genuine source-supported defect requires reopening it.
+6. for `சிந்தனையும் செயலும்` English work, read the publication README, translation plan, English tracker, `LEXICON_THROUGH_16.md`, current `LEXICON.md`, `TRANSLATION_REVIEW_THROUGH_16.md`, current `TRANSLATION_REVIEW.md`, and the frozen Tamil assembly for each article as it begins;
+7. preserve released/frozen work unless a genuine source-supported defect requires reopening it.
 
 Source PDFs are never committed.
 
 ## Publications 1–7
 
-**RELEASE COMPLETE / FROZEN.** Preserve existing publication-specific completion records.
+**RELEASE COMPLETE / FROZEN.** Preserve all publication-specific completion and release records.
 
 ---
 
@@ -35,184 +36,141 @@ Workspace: `publications/sinthanaiyum-seyalum/`
 - publication-wide P4: **PASS**;
 - publication-wide P5: **226 / 226 PASS / COMPLETE**;
 - unresolved source/fidelity discrepancies: **0**;
-- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / RE-FROZEN**.
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**.
 
-Do not reopen frozen Tamil for English convenience.
+One genuine post-freeze defect was previously demonstrated directly by controlling scan 76 and corrected: `வற்கைச்` → source-visible `வர்களைச்`; the canonical page and Article 16 assembly were re-verified and re-frozen. This remains the narrow precedent for reopening frozen Tamil: **scan proof first; targeted correction only; propagate and re-freeze**.
 
-### Post-freeze source correction — scan 76
-
-During Article 16 English T4 source-witness review, controlling **global scan 76 / Part 002 PDF page 21 / printed page 75** was re-opened directly from the scan pixels.
-
-The scan visibly reads:
-
-`அதற்குக் காரணமானவர்களைச் சட்டத்தின் முன்னால்`
-
-The then-frozen canonical page and Article 16 assembly incorrectly had:
-
-`அதற்குக் காரணமான வற்கைச் சட்டத்தின் முன்னால்`
-
-This was a genuine controlling-source defect. It was corrected narrowly:
-
-- `publications/sinthanaiyum-seyalum/pages/0076.md`: corrected and remains `verified`;
-- `publications/sinthanaiyum-seyalum/articles/16-ozhukkam.md`: correction propagated and assembly re-frozen;
-- current Article 16 Tamil blob: `82852811292492e0d03360a846f7e4b69ca48720`;
-- no other Tamil prose changed;
-- unresolved Tamil/source blockers remain **0**.
-
-This is the standing precedent for the narrow exception to freeze: reopen only when controlling scan pixels demonstrate a genuine defect.
+Do not reopen frozen Tamil for English convenience, modernization, conventional spelling or outside-source normalization.
 
 ## English policy
 
-The user explicitly authorised English translation.
-
 > **Translate the language; do not neutralise the voice.**
 
-Translate only from strict-reviewed frozen/re-frozen Tamil assemblies. Do not use OCR, web text, alternate editions, memory or general knowledge as replacement source authority.
+Translate only from strict-reviewed frozen Tamil assemblies. Do not use OCR, web text, alternate editions, memory or general knowledge as replacement source authority. Historical/literary/news/medical claims are translated as source claims unless the user explicitly requests external fact-checking.
 
 ### Permanent `உடன்பிறப்பே` rule — USER ESTABLISHED
 
 - `உடன்பிறப்பே` → **`Udanpirappē`**;
+- direct salutation → **`Udanpirappē,`**;
 - never translate or flatten it as `brother`, `sister`, `sibling`, `Dear sibling`, or `comrade`;
-- literally it evokes **“one born alongside me”** and functions as Kalaignar’s distinctive address of shared identity, equality, affection and solidarity within the movement;
-- in direct salutation use **`Udanpirappē,`**;
-- this rule supersedes the earlier `Dear sibling,` choice;
-- verified Articles 1 and 2 have already been corrected without changing their T5 status or frozen Tamil;
-- apply this rule to every future occurrence.
+- the rule applies to every future occurrence.
 
 ## Current English state
 
 - E0: **COMPLETE / PASS**
-- T0: **16 / 50 PASS**
-- T1: **16 / 50 COMPLETE**
-- T2: **16 / 50 PASS**
-- T3: **16 / 50 PASS**
-- T4: **16 / 50 PASS**
-- T5: **16 / 50 PASS**
+- T0: **21 / 50 PASS**
+- T1: **21 / 50 COMPLETE**
+- T2: **21 / 50 PASS**
+- T3: **21 / 50 PASS**
+- T4: **21 / 50 PASS**
+- T5: **21 / 50 PASS**
 - E6/E7: **NOT STARTED**
-- English files: **16 / 50**
-- verified English: **16 / 50**
+- English files: **21 / 50**
+- verified English: **21 / 50**
 - draft English: **0 / 50**
 - blockers: **0**
-- latest durable English checkpoint: **Articles 1–16 T0–T5 PASS / VERIFIED**.
+- latest durable English checkpoint: **Articles 1–21 T0–T5 PASS / VERIFIED**.
 
-## Verified English authority pins
+## Review / lexicon authority chain
+
+A deliberate history rollover was made after Article 16 so exact prior provenance is preserved without endlessly enlarging the active ledgers:
+
+- `publications/sinthanaiyum-seyalum/translations/en/TRANSLATION_REVIEW_THROUGH_16.md` — exact detailed review history for Articles 1–16;
+- `publications/sinthanaiyum-seyalum/translations/en/TRANSLATION_REVIEW.md` — living review from Article 17 onward;
+- `publications/sinthanaiyum-seyalum/translations/en/LEXICON_THROUGH_16.md` — exact terminology state through Article 16;
+- `publications/sinthanaiyum-seyalum/translations/en/LEXICON.md` — living lexicon inheriting that history and adding Article 17 onward decisions.
+
+**Historical files remain active authority.** Do not treat them as obsolete archives when an earlier term or decision matters.
+
+## Verified English authority pins — Articles 17–21
+
+Earlier Articles 1–16 pins remain in `TRANSLATION_PLAN.md` and the English tracker.
 
 | # | Tamil title | English title | Scans | Frozen Tamil blob |
 |---:|---|---|---:|---|
-| 1 | `பாசியும் - தூசியும்!` | **Moss and Dust!** | 18–23 | `79791aad807179e85b4275539fff8283d2ff61b2` |
-| 2 | `அதிக உயரம் தாண்டுவதற்கு` | **To Clear a Greater Height** | 24–27 | `9f1e9442c20c86d0d10918dfbff0de22f346342f` |
-| 3 | `என் பெயர் புரட்சி!` | **My Name Is Revolution!** | 28–32 | `262febdac5ac90d78b1a6007120c3eab6f95e780` |
-| 4 | `குருகுலம்!` | **Gurukulam!** | 33–35 | `4ddbb1e64f50a471f91d402220a05814b1e2e198` |
-| 5 | `ஜனநாயக நெறி` | **The Way of Democracy** | 36–38 | `b5a8f2fa1414ec7c490a0da50d42da217d4581e0` |
-| 6 | `வாக்குச்சீட்டின் வலிமை` | **The Power of the Ballot** | 39–41 | `00fe01bd3e899ca4da814c7e58428fffbd51c5f9` |
-| 7 | `சுயமரியாதைத் திருமணம்` | **Self-Respect Marriage** | 42–45 | `5d55659fb745340dbb357aba7e266ecfc8b9b57b` |
-| 8 | `மனிதனின் மறுபக்கம்` | **The Other Side of Man** | 46–48 | `0d7992751ad0c55d32cd47e2dff74189ef1a0a8d` |
-| 9 | `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` | **Touching the Sky, Buried in the Earth?** | 49–51 | `bc8d633334532801065c59a02d4df340dfcd7d96` |
-| 10 | `மனிதனும் மறுபிறவியும்` | **Man and Rebirth** | 52–55 | `47a682dfcc482287ca9a64743947e27e5a808ee1` |
-| 11 | `வெற்றி தோல்வி!` | **Victory and Defeat!** | 56–58 | `40110b107efeea60e9a149b06f24b3cefd6aba9c` |
-| 12 | `அழுக்காறு` | **Azhukkaaru** | 59–61 | `808ffa7c963140eacb314c5408982796028fe179` |
-| 13 | `மிகுதிக்கண்...` | **When the Limit Is Crossed...** | 62–65 | `cd6631e22787b3986c10ea93e6bed82b54104c85` |
-| 14 | `வலிவும், பொலிவும்!` | **Strength and Radiance!** | 66–68 | `a88f7f685673fe80c003208035a3e43f4889b2a5` |
-| 15 | `இன்பமும் துன்பமும்!` | **Joy and Sorrow!** | 69–74 | `10748bd56678c878b239a399552eca0e0e40bdf4` |
-| 16 | `ஒழுக்கம்` | **Conduct** | 75–77 | `82852811292492e0d03360a846f7e4b69ca48720` |
+| 17 | `வசிய மருந்து` | **The Enchantment Drug** | 78–81 | `cd3e997c36d766ac1fd2266b14440d8a88d7663f` |
+| 18 | `சோதிட சோகம்!` | **Astrological Sorrow!** | 82–84 | `8b8b6c4bb82b38f30be12e0746363964c4416ef1` |
+| 19 | `ஆன்மிக ஆழ்கடல்` | **A Deep Ocean of Spirituality** | 85–89 | `bfdcb5cb7510d6384714a1972fc9505eb3d697cb` |
+| 20 | `தேனில் குழைத்துக் கொடுத்தாலும்...!` | **Even If Mixed with Honey...!** | 90–93 | `755342a0b59f83dac589bc932ad50d7e1b292409` |
+| 21 | `வியாதிக்கு விருந்தா?` | **A Feast for Disease?** | 94–97 | `f8a4aa1e62d3f312404e79f57f8f67305ce10b1e` |
 
-## Durable non-regression precedents through Article 11
+## Articles 17–21 — completed batch
 
-- Article 1 remains the voice baseline; terminology guides later work contextually, not mechanically.
-- Article 2 preserves frozen surprising `காண விரும்பாத` rather than silently repairing semantics.
-- Article 3 preserves `Paavendhar`, personified Revolution, weapon imagery and deliberately abrasive source satire.
-- Article 4 preserves `gurukulam`, `akara practice` and guru-service details.
-- Article 5 preserves source-only historical/electoral wording without external reconciliation.
-- Article 6 preserves ballot/pillar imagery and tiny `எள் முனையளவு` measure.
-- Article 7 preserves Self-Respect-marriage legal validity / legal recognition distinctions, `Thanthai Periyar`, `Dinamalar`, `Nenjukku Neethi`, all source numbers/dates and swimming-against-current close.
-- Article 8 preserves sound-understanding / petty-understanding contrast, milk/poison and Socrates mirror images.
-- Article 9 preserves heading `...புதைவதா?` independently of contents `...புதைவதோ?`, excludes scan-50 production witness from prose, and does not euphemise source-described violence.
-- Article 10 preserves verse lineation, the explicit poetic-imagination distinction and `tithi / divasam / dakshina`.
-- Article 11 preserves contents/heading difference, `honour`, `honour-wound`, source-controlled `Purananuru` verse/glossary and `Kanaka Visayar` without outside normalization.
+Result: **5 / 5 VERIFIED**, source comments **20 / 20 PASS**, unresolved blockers **0**, Tamil changes **0**.
 
-## Articles 12–16 — completed five-article batch
+### Article 17 — `வசிய மருந்து`
 
-Result: **5 / 5 VERIFIED**, **0 unresolved English blockers**. One genuine pre-existing Tamil defect was corrected from the controlling scan during Article 16 T4 and the Tamil layer was re-frozen before T5.
-
-### Article 12 — `அழுக்காறு`
-
-- English: **Azhukkaaru**;
-- source comments: **3 / 3 PASS**;
-- retain `Azhukkaaru` where dirt/way/river/envy wordplay is active;
-- source-visible unusual `கலாம்` remains `kalaam`; do not normalize it;
-- opening Kural translated only from frozen Tamil;
-- same-flag jealousy, Chandran, butterfly/rooster and plague images retained;
+- full Dr. Thirumalai Natarasan / `Siddha Maruthuva Kalanjiyam` quotation retained;
+- enchantment-drug fraud, purgative, eight diarrhoea episodes, faeces/stick/wax demonstration and livelihood confession remain concrete;
+- `செய்வினை` rendered contextually as `sorcery` without outside doctrine;
+- rationalist closing exhortation preserved;
 - T0–T5: **PASS / verified**.
 
-### Article 13 — `மிகுதிக்கண்...`
+### Article 18 — `சோதிட சோகம்!`
 
-- English: **When the Limit Is Crossed...**;
-- source comments: **4 / 4 PASS**;
-- `மிகுதிக்கண்` preserves Kalaignar’s limit-crossing / over-familiarity interpretation;
-- doctor/stethoscope anecdote and rhetorical questions retained;
-- harmonium `கட்டை` remains `kattai` so the key/block wordplay remains visible;
-- unnamed studio/composer remain unnamed; no outside identification;
+- Vasishtar/Rama reversal and astrology/almanac catalogue preserved;
+- 1946–47 N.G.R. autobiographical memory retained source-limited;
+- quoted report about nine-month-old Vigneshwaran translated without euphemism or outside news substitution;
+- final astrology counter-question and rationalist call retain force;
 - T0–T5: **PASS / verified**.
 
-### Article 14 — `வலிவும், பொலிவும்!`
+### Article 19 — `ஆன்மிக ஆழ்கடல்`
 
-- English: **Strength and Radiance!**;
-- source comments: **3 / 3 PASS**;
-- source’s unusual long-letter explanation around `Narayana Namaha`, `ஞ` and `Nyayiru Potruthum` is preserved rather than regularised;
-- literal Tamil `ற / றற` retained because those glyphs are the sound-practice object;
-- rising-sun polling-booth joke retained without outside political annotation;
+- contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்` remains independent; English follows heading without exclamation;
+- `Kundrakudi Adigalar`, `Adheenam`, `Maha Sannidhanam` and formal source titles retained;
+- Periyar quotation preserved;
+- long Kundrakudi Adigalar poem translated only from frozen Tamil with source-page ordering and lineation preserved;
+- no published English poem imported;
 - T0–T5: **PASS / verified**.
 
-### Article 15 — `இன்பமும் துன்பமும்!`
+### Article 20 — `தேனில் குழைத்துக் கொடுத்தாலும்...!`
 
-- English: **Joy and Sorrow!**;
-- source comments: **6 / 6 PASS**;
-- contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!` remains independent;
-- surprising frozen Olympic chronology is translated as written and not externally repaired;
-- all source numbers, medal figures and tragedy reports remain source-driven;
-- source’s already-English Oxford-definition passage is retained as its own witness;
-- opening/closing `one country laughed / one country cried / world sorrow` structure preserved;
+- source `பயங்கரவாதம் / தீவிரவாதம்` retained as **terrorism / extremism**, not harmonised;
+- source-visible `ஓராபி மன்னர்கள்` retained as **Orabi kings** without external normalization;
+- flower-garden/snake/anthill, children/green-parrot, branch-cutting and bedbug/house-burning imagery preserved;
+- established `inner purity / outward purity` terminology reused;
 - T0–T5: **PASS / verified**.
 
-### Article 16 — `ஒழுக்கம்`
+### Article 21 — `வியாதிக்கு விருந்தா?`
 
-- English: **Conduct**;
-- source comments: **3 / 3 PASS**;
-- source correction at scan 76 completed before English verification; current Tamil blob `82852811292492e0d03360a846f7e4b69ca48720`;
-- `கற்பு`, `மாண்பு`, `நேர்மை`, humaneness remain distinct as chastity, dignity, integrity and humaneness in context;
-- murder/rape examples are not softened;
-- `Know thyself` is translated from frozen Tamil only, with no published English quotation imported;
+- unpleasant hygiene imagery remains deliberately direct;
+- `மோர்சிங்` retained as `morsing`;
+- Parvati/Vinayagar dirt comparison translated as source claim without doctrinal correction;
+- already-English `(Infection)` source witness preserved;
+- `dirt-storage factory` closing image retained;
 - T0–T5: **PASS / verified**.
 
-Full correction provenance: `publications/sinthanaiyum-seyalum/translations/en/TRANSLATION_REVIEW.md`. Living terminology: `publications/sinthanaiyum-seyalum/translations/en/LEXICON.md`.
+## Non-regression through Article 21
 
-## Current authorised boundary
-
-Articles **1–16** are durable verified English authority. **Article 17 has not been started.**
-
-The next article in the frozen queue is:
-
-17. `வசிய மருந்து` — scans **78–81**.
-
-The next five-article block, if/when the user authorises continuation, is Articles **17–21**:
-
-17. `வசிய மருந்து` — scans **78–81**;
-18. `சோதிட சோகம்!` — scans **82–84**;
-19. `ஆன்மிக ஆழ்கடல்` — scans **85–89**;
-20. `தேனில் குழைத்துக் கொடுத்தாலும்...!` — scans **90–93**;
-21. `வியாதிக்கு விருந்தா?` — scans **94–97**.
-
-Do **not** begin Article 17 merely because this handover lists the next block. Wait for user authorization, then re-fetch live `main` and each live frozen Tamil assembly before T0.
-
-## Non-regression
-
-1. Preserve Publications 1–7 released/frozen.
-2. Preserve Publication 8 Tamil frozen/re-frozen.
-3. Preserve Articles 1–16 as verified English unless a genuine frozen-source defect or explicit user terminology correction requires a targeted change.
-4. **Every source occurrence of `உடன்பிறப்பே` must remain `Udanpirappē`; never translate it as brother/sister/sibling/comrade.**
-5. Preserve independent Tamil contents/heading/back-cover witnesses.
+1. Preserve Publications 1–7 as released/frozen.
+2. Preserve Publication 8 Tamil as frozen/re-frozen.
+3. Preserve Articles 1–21 as verified English unless a genuine frozen-source defect or explicit user terminology correction requires a targeted change.
+4. Every source `உடன்பிறப்பே` remains `Udanpirappē`.
+5. Preserve independent contents/heading/back-cover witnesses.
 6. Preserve ordered source-page comments in every English file.
 7. Do not import published English quotations unless explicitly authorised.
-8. Do not silently repair surprising source semantics or chronology; Article 2 `காண விரும்பாத` and Article 15 chronology are explicit precedents.
-9. A frozen Tamil correction requires controlling-scan proof; Article 16 scan 76 is the standing source-defect precedent.
+8. Do not silently repair surprising source semantics, names, chronology or historical forms.
+9. Source-specific wordplay and abrasive imagery may remain slightly strange in English when smoothing would erase the rhetorical action.
 10. After all 50 articles reach T5, run E6 publication-wide consistency and E7 release closeout before declaring English complete.
+
+## Exact next activity — Articles 22–26 through T5
+
+**Do not begin until the user authorises the next batch.** Once authorised, process in order:
+
+22. `விளையாட்டு` — scans **98–100**;
+23. `தன்னை வெல்வான்` — scans **101–103**;
+24. `இட்லர்` — scans **104–108**;
+25. `இங்கர்சால்` — scans **109–111**;
+26. `மகளிர் இட ஒதுக்கீடு!` — scans **112–116**.
+
+For each article:
+
+1. re-fetch live `main` and the frozen Tamil assembly;
+2. T0 — confirm `status: verified`, pin actual live blob SHA, scans and printed witness;
+3. T1 — complete close translation with ordered source comments;
+4. T2 — sentence/clause omission/addition/referent/logic review;
+5. T3 — Kalaignar voice review without softening satire, accusation, questions, commands, repetition or imagery;
+6. T4 — terminology, names/epithets, transliterations, quotation/citation, dates/numbers and independent source-witness audit;
+7. T5 — set `translation_status: verified` only after T0–T4 PASS;
+8. synchronize review, lexicon, tracker, plan, publication/root status and handover;
+9. stop after Article 26. **Do not begin Article 27 until a later user authorization.**
