@@ -39,7 +39,7 @@ Independent witnesses remain independent, including:
 - Unit 19 contents `ஆன்மிக ஆழ்கடல்!` ↔ heading `ஆன்மிக ஆழ்கடல்`;
 - Unit 41 and Unit 48 documented contents/heading distinctions.
 
-Unit 29’s unusual printed Kural witness `காப்புவென் செய்யும் ?` remains frozen and is not conventionally normalized.
+Unit 29’s unusual printed Kural witness `காப்புவென் செய்யும் ?` remains frozen and is not conventionally normalized. Article 29 English translation also preserves this frozen witness rather than importing a conventional Kural text.
 
 Recurring printed production/form witnesses and physical-copy marks remain separated from article prose according to the canonical page records.
 
@@ -67,4 +67,6 @@ Reopen this Tamil layer only for a genuine defect demonstrated by controlling sc
 
 ## Current downstream English status
 
-English translation does not alter the Tamil authority. Current English checkpoint is **Articles 1–26 T0–T5 PASS / verified**, **26 / 50**, with **0 current blockers**. Articles 22–26 caused **0 Tamil changes**. Article 27 has not been started.
+English translation does not alter the Tamil authority. Current English checkpoint is **Articles 1–36 T0–T5 PASS / verified**, **36 / 50**, with **0 current blockers**. Articles 27–36 caused **0 Tamil changes** and retained **42 / 42 ordered source comments**. Article 37 has not been started.
+
+Per user instruction, subsequent normal iterations process **10 articles at a time** where enough remain; the next prepared iteration is Articles **37–46**.
