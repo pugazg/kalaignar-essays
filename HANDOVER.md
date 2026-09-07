@@ -9,19 +9,131 @@ Branch: `main`
 
 Publications **1–8 are RELEASE COMPLETE / FROZEN**.
 
-There is currently **no active publication**. Do not reopen released work merely because a copied prompt records an earlier phase boundary.
+Publication **9 — `வேதனைச் சிறையினின்றும் விடுதலை பெற` — is ACTIVE** at P0/P1 complete, with P2 page transcription next.
 
 Source PDFs are never committed.
 
-## Permanent startup for future work
+## Mandatory startup
 
 1. fetch live `main` first;
 2. read `ESSAY_PROCESSING_GUIDE.md`;
-3. read `ESSAY_TRANSLATION_GUIDE.md` when English is in scope;
-4. read `docs/FUTURE_WORK_GUIDELINES.md`;
-5. read this handover and `docs/NEXT_CHAT_PROMPT.md`;
-6. preserve released/frozen publications unless controlling-source evidence proves a genuine defect or the user explicitly requests a targeted correction;
-7. when the user supplies/selects a new work, confirm it is not already represented before creating a new publication tree.
+3. read `docs/FUTURE_WORK_GUIDELINES.md`;
+4. read this handover and `docs/NEXT_CHAT_PROMPT.md`;
+5. for Publication 9 read its `README.md`, `metadata/source.md`, `indexes/page-map.md`, `indexes/contents.md`, and `audit.md`;
+6. read `ESSAY_TRANSLATION_GUIDE.md` only when English work becomes in scope after Tamil freeze;
+7. preserve released/frozen Publications 1–8 unless controlling-source evidence proves a genuine defect or the user explicitly requests a targeted correction.
+
+---
+
+# Publication 9 — வேதனைச் சிறையினின்றும் விடுதலை பெற — ACTIVE
+
+Workspace: `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/`
+
+## Controlling source
+
+`TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf`
+
+Recorded identity:
+
+- source ID: `TVA_BOK_0064064`;
+- SHA-256: `d6429304ca8e53324e41fbe6695a31d1411b12ec5e04bf5a35d8cc8a51d06651`;
+- size: **11,408,976 bytes**;
+- physical scans: **8**;
+- PDF text layer: **none / image-only**;
+- publication form: **single-text government public-message pamphlet**;
+- issuing body: `தமிழ்நாடு குடும்ப நலத்துறை வெளியீடு`;
+- printer: `மாநில குடும்பநலத் திட்ட அச்சகம், சென்னை-6.`;
+- source PDF committed: **No**.
+
+## Printed identity / classification
+
+Lexical title: `வேதனைச் சிறையினின்றும் விடுதலை பெற`.
+
+Source witnesses:
+
+- scan 1 cover: title + `முதல்வர் டாக்டர் கலைஞர்` + portrait;
+- scan 2 title page: same lexical title, different final punctuation treatment, `தமிழ்நாடு முதல்வர் மாண்புமிகு டாக்டர் கலைஞர் மு. கருணாநிதி`, and the issuing body;
+- scan 7 printed p.7: bracketed note describes the body as a **`செய்தி`** issued to the people during the family-planning fortnight;
+- scan 8: printer line.
+
+Repository-placement decision: keep this in `kalaignar-essays` as a **standalone pamphlet/public-message publication**. The source does not label it `பேச்சு` or `உரை`; do not silently convert it into a speech record.
+
+Duplicate check at intake:
+
+- exact title / source ID in `kalaignar-essays`: **none found**;
+- exact title / source ID in `kalaignar-public-speeches`: **none found**.
+
+## Date / occasion discipline
+
+The bracketed source note says the `குடும்ப நலத்திட்ட இருவார விழா` began on **15 December 1975** and identifies this as a message issued during that fortnight.
+
+Therefore:
+
+- fortnight/event start: **15 December 1975 — source-supported**;
+- exact message date: **not separately stated**;
+- publication date: **not separately stated**.
+
+Do not silently set the message/publication date to 15 December 1975.
+
+## Page map
+
+| Scan | Printed folio | Role |
+|---:|---|---|
+| 1 | — | front cover / portrait / title |
+| 2 | — | title page / creator / issuing body |
+| 3 | no visible folio | body start |
+| 4 | 4 | body |
+| 5 | 5 | body |
+| 6 | 6 | body |
+| 7 | 7 | body close + bracketed source/occasion note |
+| 8 | — | back cover / printer line |
+
+Body scans: **3–7 / 5 scans**.  
+Printed contents page: **none**.  
+Body units: **one continuous text**.
+
+## Physical / typography condition
+
+- ageing and staining throughout;
+- cover wear/abrasion;
+- circular blue library/physical-copy stamp on scan 1, not printed text;
+- light reverse-side show-through on body pages;
+- traditional/pre-reform Tamil glyph forms throughout the body.
+
+Historical glyph handling:
+
+- use direct visual comparison;
+- resolve the scan-supported **underlying Tamil character** represented by the historical glyph;
+- preserve genuine source spelling, wording, punctuation and irregularities;
+- do not modernize from OCR/memory/context;
+- flag unresolved readings rather than guessing.
+
+## Current gate state
+
+- P0 source intake / publication identification: **COMPLETE / PASS**;
+- P1 metadata + page map + contents mapping: **COMPLETE / PASS**;
+- P2 page-level transcription: **NOT STARTED — 0 / 8**;
+- P3 single-text assembly: **NOT STARTED**;
+- P4 source/completeness audit: **NOT STARTED**;
+- P5 strict visual word/punctuation fidelity: **NOT STARTED**;
+- English: **NOT STARTED / BLOCKED until Tamil freeze**.
+
+No Publication 9 page or body text has yet been marked P5/final-verified.
+
+## Exact next activity — P2 scans 1–8
+
+Perform **P2 direct-visual page transcription for all eight scans in one iteration**:
+
+1. create one canonical `pages/*.md` record for each physical scan 1–8;
+2. preserve separate printed-text vs physical-copy-mark layers;
+3. scan 1: record cover title/creator/portrait and the later library stamp separately;
+4. scan 2: transcribe title-page witnesses and issuing body;
+5. scans 3–7: transcribe the complete Tamil message body directly from the scan, preserving paragraph boundaries, punctuation, numbers, source wording and historical-glyph underlying characters;
+6. scan 3 remains without a printed folio unless a folio becomes visibly demonstrable;
+7. scan 7: preserve the bracketed source/occasion note as printed matter, separate from the main message body where structurally appropriate;
+8. scan 8: record the printer line;
+9. update `indexes/page-map.md`, `README.md`, `audit.md`, this handover and `docs/NEXT_CHAT_PROMPT.md` after the P2 batch;
+10. **do not** perform P3/P4/P5 or English in the same activity unless the handover is explicitly advanced after P2 and the user separately says to proceed.
 
 ---
 
@@ -29,113 +141,18 @@ Source PDFs are never committed.
 
 Workspace: `publications/sinthanaiyum-seyalum/`
 
-## Tamil final state
+Final durable state:
 
-- source ID: `TVA_BOK_0065568`;
-- physical scans: **226** in five non-overlapping supplied PDFs;
-- P0–P5: **COMPLETE / PASS / STRICT-REVIEWED / RE-FROZEN**;
-- P2 page records: **226 / 226 VERIFIED**;
-- P3 article assemblies: **50 / 50 VERIFIED**;
-- P5 physical scans: **226 / 226 PASS**;
-- unresolved source/fidelity discrepancies: **0**.
-
-Standing post-freeze precedent: scan 76 proved `வர்களைச்`, correcting prior `வற்கைச்`; page 0076 and Article 16 were re-verified/re-frozen. Reopen Tamil only with direct controlling-scan proof.
-
-## English final state
-
-- E0: **COMPLETE / PASS**;
-- T0: **50 / 50 PASS**;
-- T1: **50 / 50 COMPLETE**;
-- T2: **50 / 50 PASS**;
-- T3: **50 / 50 PASS**;
-- T4: **50 / 50 PASS**;
-- T5: **50 / 50 PASS**;
-- verified English: **50 / 50**;
-- drafts: **0 / 50**;
+- Tamil P0–P5: **COMPLETE / PASS / STRICT-REVIEWED / RE-FROZEN**;
+- P2: **226 / 226 VERIFIED**;
+- P3: **50 / 50 VERIFIED**;
+- P5: **226 / 226 PASS**;
+- English T0–T5: **50 / 50 PASS**;
 - E6: **COMPLETE / PASS**;
 - E7: **COMPLETE / PASS**;
-- unresolved English blockers: **0**;
-- release status: **RELEASE COMPLETE / FROZEN**.
+- release status: **RELEASE COMPLETE / FROZEN**;
+- blockers: **0**.
 
-Canonical release records:
+Permanent Publication 8 non-regression remains binding, including exact source `உடன்பிறப்பே` → `Udanpirappē`, independent contents/heading witnesses, Article 29 unusual Kural witness, Article 44 `Kannan`, Article 45 source title/`Valiyuruthal`, Article 46 conservative non-numeric rendering, Article 47 `thalagaani urai`, Article 49 `Sengattu Nangai`, and Article 50 restored scan-222 reflection.
 
-- `publications/sinthanaiyum-seyalum/translations/en/E6_CONSISTENCY_REVIEW.md`;
-- `publications/sinthanaiyum-seyalum/translations/en/E7_RELEASE_CLOSEOUT.md`.
-
-## E6 closure preserved
-
-- live Tamil source pins: **50 / 50 MATCH**;
-- ordered source comments: **208 / 208 PASS**, body scans 18–225;
-- exact/plural `Udanpirapp` forms: **PASS**;
-- terminology/names/source witnesses: **PASS**;
-- quotations/verse: **PASS**;
-- dates/numbers/source-claim discipline: **PASS**;
-- voice/Markdown consistency: **PASS**;
-- English-body corrections in E6: **0**;
-- Tamil changes in E6: **0**.
-
-E6 added only missing `contents_title_ta` metadata to English Articles 1–10, preserving diplomatic differences for Articles 3, 6 and 9.
-
-## E7 release closeout — COMPLETE / PASS
-
-E7 verified:
-
-- final 50-file English release inventory: **PASS**;
-- all English articles remain `verified`: **PASS**;
-- Tamil P0–P5 remain closed: **PASS**;
-- E6 remains PASS: **PASS**;
-- authority/release-facing links and sidecars: **PASS**;
-- active TODO/draft/needs-review/source-hold/release blockers: **0**;
-- current release-facing status records: **RECONCILED**;
-- English article-body changes in E7: **0**;
-- Tamil changes in E7: **0**.
-
-A compatibility pointer at `publications/ESSAY_TRANSLATION_GUIDE.md` keeps the original relative policy links in historical translation-review sidecars functional without rewriting those provenance ledgers. The root `ESSAY_TRANSLATION_GUIDE.md` remains canonical.
-
-## Permanent English non-regression
-
-> **Translate the language; do not neutralise the voice.**
-
-- exact source `உடன்பிறப்பே` → **`Udanpirappē`**;
-- direct salutation → **`Udanpirappē,`**;
-- never brother/sister/sibling/Dear sibling/comrade;
-- preserve source-bearing plural `Udanpirappugal` / `Kazhaga Udanpirappugalē` where present;
-- do not externally normalise historical, literary, political, medical, scientific or news claims;
-- quotations remain translations of frozen Tamil unless the source itself supplies English.
-
-## Publication 8 frozen source-witness decisions
-
-Preserve at minimum:
-
-- independent contents/heading witnesses for Units 3, 6, 9, 11, 15, 19, 41 and 48;
-- Unit 29 unusual frozen Kural witness;
-- Article 44 source `Kannan`;
-- Article 45 source title and `Valiyuruthal`;
-- Article 46 conservative non-numeric rendering of its irregular frozen phrase;
-- Article 47 `thalagaani urai`;
-- Article 49 restored `Sengattu Nangai` and source-force language;
-- Article 50 restored scan-222 speaking/writing reflection.
-
-## Frozen authority chain for Publication 8
-
-- `translations/en/TRANSLATION_REVIEW_THROUGH_16.md`;
-- `translations/en/TRANSLATION_REVIEW_17_21.md`;
-- `translations/en/TRANSLATION_REVIEW_22_26.md`;
-- `translations/en/TRANSLATION_REVIEW_27_36.md`;
-- `translations/en/TRANSLATION_REVIEW.md`;
-- `translations/en/LEXICON_THROUGH_16.md`;
-- `translations/en/LEXICON_THROUGH_36.md`;
-- `translations/en/LEXICON.md`;
-- `translations/en/E6_CONSISTENCY_REVIEW.md`;
-- `translations/en/E7_RELEASE_CLOSEOUT.md`.
-
-Historical sidecars remain active frozen provenance.
-
-## Exact next activity
-
-**None is authorised.** Stop after Publication 8 E7 closeout.
-
-Wait for explicit user direction before:
-
-- starting/onboarding another publication or source; or
-- reopening any released publication for a targeted correction.
+Do not reopen Publication 8 because of a stale prompt.
