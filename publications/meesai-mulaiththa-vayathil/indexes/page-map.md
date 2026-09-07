@@ -3,7 +3,7 @@
 Publication: `publications/meesai-mulaiththa-vayathil/`  
 Controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`  
 Physical scans: **146**  
-P1 status: **COMPLETE / PASS**
+P1 status: **COMPLETE / PASS — source-title corrections synchronized**
 
 ## Mapping rule
 
@@ -12,6 +12,7 @@ P1 status: **COMPLETE / PASS**
 - Scans 1–17 and 146 are unnumbered physical/front/back matter.
 - No printed contents page is present; main-unit labels below come from source-visible opening headings.
 - Library stamps, accession labels, handwriting and reverse-side show-through are physical-copy evidence, not printed body text.
+- User-flagged P1 title readings at scans 36 and 136 were re-opened against the source pixels and corrected without changing boundaries.
 
 ## 146-scan canonical P1 map
 
@@ -52,9 +53,9 @@ P1 status: **COMPLETE / PASS**
 | 33 | 32 | main-work | 05. ஆறு | end |
 | 34 | 33 | main-work | 06. வாழிய வைகறை | start |
 | 35 | 34 | main-work | 06. வாழிய வைகறை | end |
-| 36 | 35 | main-work | 07. முக்கை சித்தர் | start |
-| 37 | 36 | main-work | 07. முக்கை சித்தர் | continuation |
-| 38 | 37 | main-work | 07. முக்கை சித்தர் | end |
+| 36 | 35 | main-work | 07. அகப்பை சித்தர் | start |
+| 37 | 36 | main-work | 07. அகப்பை சித்தர் | continuation |
+| 38 | 37 | main-work | 07. அகப்பை சித்தர் | end |
 | 39 | 38 | main-work | 08. மலையே வாழி | start |
 | 40 | 39 | main-work | 08. மலையே வாழி | continuation |
 | 41 | 40 | main-work | 08. மலையே வாழி | end |
@@ -152,17 +153,24 @@ P1 status: **COMPLETE / PASS**
 | 133 | 132 | main-work | 25. ஆண்டு விழா | continuation |
 | 134 | 133 | main-work | 25. ஆண்டு விழா | continuation |
 | 135 | 134 | main-work | 25. ஆண்டு விழா | end |
-| 136 | 135 | main-work | 26. மயிற்கு | start |
-| 137 | 136 | main-work | 26. மயிற்கு | continuation |
-| 138 | 137 | main-work | 26. மயிற்கு | continuation |
-| 139 | 138 | main-work | 26. மயிற்கு | continuation |
-| 140 | 139 | main-work | 26. மயிற்கு | continuation |
-| 141 | 140 | main-work | 26. மயிற்கு | continuation |
-| 142 | 141 | main-work | 26. மயிற்கு | continuation |
-| 143 | 142 | main-work | 26. மயிற்கு | continuation |
-| 144 | 143 | main-work | 26. மயிற்கு | continuation |
-| 145 | 144 | main-work | 26. மயிற்கு | end |
+| 136 | 135 | main-work | 26. மயிலிறகு | start |
+| 137 | 136 | main-work | 26. மயிலிறகு | continuation |
+| 138 | 137 | main-work | 26. மயிலிறகு | continuation |
+| 139 | 138 | main-work | 26. மயிலிறகு | continuation |
+| 140 | 139 | main-work | 26. மயிலிறகு | continuation |
+| 141 | 140 | main-work | 26. மயிலிறகு | continuation |
+| 142 | 141 | main-work | 26. மயிலிறகு | continuation |
+| 143 | 142 | main-work | 26. மயிலிறகு | continuation |
+| 144 | 143 | main-work | 26. மயிலிறகு | continuation |
+| 145 | 144 | main-work | 26. மயிலிறகு | end |
 | 146 | — | back cover / promotional text | — | back cover |
+
+## Source-title correction provenance
+
+- scan 36 / printed p.35: previous P1 reading `முக்கை சித்தர்` → source-visible **`அகப்பை சித்தர்`**;
+- scan 136 / printed p.135: previous P1 reading `மயிற்கு` → source-visible **`மயிலிறகு`**;
+- boundaries changed by these corrections: **0**;
+- printed-page mapping changed: **0**.
 
 ## Completeness check
 
