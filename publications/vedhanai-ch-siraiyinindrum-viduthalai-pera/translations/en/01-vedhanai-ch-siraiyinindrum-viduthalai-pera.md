@@ -32,7 +32,7 @@ But rather than the production of paddy and sesame, it is the production of chil
 
 The extent of land we had two thousand years ago is, by and large, the same extent of land we have even today. Meanwhile, the number of people keeps rising many times faster than an aeroplane; the basic needs of all those people keep increasing as well.
 
-In this situation, however much skill we pour into drawing up plans—however many crores upon crores of funds we pour into action—it all goes to waste like a puffed sorghum grain tossed to an elephant's hunger.
+In this situation, however much skill we pour into drawing up plans—however many crores upon crores of funds we pour into action—it all goes to waste as ‘a puffed sorghum grain tossed to an elephant's hunger’.
 
 <!-- Tamil source: scan 4 -->
 
