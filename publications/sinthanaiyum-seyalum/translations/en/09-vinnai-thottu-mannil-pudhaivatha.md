@@ -2,6 +2,7 @@
 publication: "sinthanaiyum-seyalum"
 article_number: 9
 title_ta: "விண்ணைத் தொட்டு மண்ணில் புதைவதா?"
+contents_title_ta: "விண்ணைத் தொட்டு மண்ணில் புதைவதோ?"
 title_en: "Touching the Sky, Buried in the Earth?"
 source_tamil: "../../articles/09-vinnai-thottu-mannil-pudhaivatha.md"
 source_tamil_blob_sha: "bc8d633334532801065c59a02d4df340dfcd7d96"
