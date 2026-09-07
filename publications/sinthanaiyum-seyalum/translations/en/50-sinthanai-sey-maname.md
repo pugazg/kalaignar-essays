@@ -23,6 +23,8 @@ I spoke these words about the “herb” that removes the poison of the “mongo
 
 <!-- Tamil source: scan 222 / printed 221 -->
 
+Are not speaking and writing the windows that let a gentle flower-breeze enter and drive away the pent-up anguish in the minds of people like me?
+
 Is Periyar merely a herb? Was he not the first matchstick struck to ignite a flame in the sulphur warehouse where sacks upon sacks of superstition had been piled? Was he not the mighty leader of rationalism who could roll away even volcanoes rubbed into eruption by the wind of the deluge as though they were footballs!
 
 Born on 17 September 1879, and from his twelfth year itself, around 1891–92, Periyar repeatedly said:
