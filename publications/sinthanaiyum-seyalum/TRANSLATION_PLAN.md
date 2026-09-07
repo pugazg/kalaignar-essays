@@ -26,6 +26,7 @@ The frozen Tamil assemblies in `articles/` are the translation authorities. OCR,
 - P3 Tamil assemblies: **50 / 50 VERIFIED**
 - publication-wide P4: **PASS**
 - publication-wide P5: **226 / 226 PASS**
+- post-freeze source correction: **scan 76 `வற்கைச்` → source-visible `வர்களைச்`, corrected / propagated / re-frozen**
 - unresolved Tamil/source-fidelity blockers: **0**
 
 ## Translation authority pins completed
@@ -43,22 +44,27 @@ The frozen Tamil assemblies in `articles/` are the translation authorities. OCR,
 | 9 | `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` | 49–51 | `bc8d633334532801065c59a02d4df340dfcd7d96` | **PASS / verified** |
 | 10 | `மனிதனும் மறுபிறவியும்` | 52–55 | `47a682dfcc482287ca9a64743947e27e5a808ee1` | **PASS / verified** |
 | 11 | `வெற்றி தோல்வி!` | 56–58 | `40110b107efeea60e9a149b06f24b3cefd6aba9c` | **PASS / verified** |
+| 12 | `அழுக்காறு` | 59–61 | `808ffa7c963140eacb314c5408982796028fe179` | **PASS / verified** |
+| 13 | `மிகுதிக்கண்...` | 62–65 | `cd6631e22787b3986c10ea93e6bed82b54104c85` | **PASS / verified** |
+| 14 | `வலிவும், பொலிவும்!` | 66–68 | `a88f7f685673fe80c003208035a3e43f4889b2a5` | **PASS / verified** |
+| 15 | `இன்பமும் துன்பமும்!` | 69–74 | `10748bd56678c878b239a399552eca0e0e40bdf4` | **PASS / verified** |
+| 16 | `ஒழுக்கம்` | 75–77 | `82852811292492e0d03360a846f7e4b69ca48720` | **PASS / verified after source correction** |
 
 Article 1 remains the voice baseline; later decisions are applied **contextually rather than mechanically**.
 
 ## Current English gate status
 
 - E0 translation planning/setup: **COMPLETE / PASS**
-- T0 source prerequisite: **11 / 50 PASS**
-- T1 close draft: **11 / 50 COMPLETE**
-- T2 bilingual fidelity review: **11 / 50 PASS**
-- T3 Kalaignar voice review: **11 / 50 PASS**
-- T4 terminology / quotation / citation audit: **11 / 50 PASS**
-- T5 article verification: **11 / 50 PASS**
+- T0 source prerequisite: **16 / 50 PASS**
+- T1 close draft: **16 / 50 COMPLETE**
+- T2 bilingual fidelity review: **16 / 50 PASS**
+- T3 Kalaignar voice review: **16 / 50 PASS**
+- T4 terminology / quotation / citation audit: **16 / 50 PASS**
+- T5 article verification: **16 / 50 PASS**
 - E6 publication-wide consistency review: **NOT STARTED**
 - E7 release closeout: **NOT STARTED**
-- English files: **11 / 50**
-- verified English: **11 / 50**
+- English files: **16 / 50**
+- verified English: **16 / 50**
 - translation blockers: **0**
 
 ## Completed acceleration batches
@@ -79,6 +85,18 @@ Non-regression outcomes include:
 - Article 10 preserves poetic lineation, the Valluvar/Anna rebirth image explicitly as Kalaignar’s poetic imagination, and source ritual terms `tithi`, `divasam`, `dakshina`.
 - Article 11 preserves the heading/contents difference, `honour`, `honour-wound`, the source-controlled `Purananuru` glossary, and `Kanaka Visayar` without external normalization.
 
+### Articles 12–16
+
+All five passed T0–T5 with **0 unresolved blockers**. One genuine Tamil source defect was discovered during Article 16’s source-witness audit and corrected from the controlling scan before T5; the Tamil layer was then re-frozen.
+
+Non-regression/source-sensitive outcomes include:
+
+- Article 12 retains `Azhukkaaru` for the dirt/way/river/envy wordplay and preserves source-visible unusual `கலாம்` as `kalaam`.
+- Article 13 preserves the `மிகுதிக்கண்` limit-crossing interpretation, both friendship anecdotes, and the harmonium `kattai` wordplay without inventing an outside studio/composer identity.
+- Article 14 preserves the source’s sound-bearing `Nyayiru Potruthum`, literal `ற / றற` practice, dawn/rising-sun joke and health exhortation.
+- Article 15 preserves heading/contents punctuation, source chronology and all source numbers/reports without external fact correction; the source’s already-English Oxford-definition passage remains its own witness.
+- Article 16 uses the re-frozen source after scan 76 was visually confirmed as `அதற்குக் காரணமானவர்களைச் சட்டத்தின் முன்னால்`, correcting the earlier `வற்கைச்` transcription.
+
 Full provenance: `translations/en/TRANSLATION_REVIEW.md`. Living terminology: `translations/en/LEXICON.md`.
 
 ## Working method for every remaining article
@@ -91,14 +109,8 @@ Full provenance: `translations/en/TRANSLATION_REVIEW.md`. Living terminology: `t
 6. T5 — set `verified` only after T1–T4 pass;
 7. after all 50 T5 passes, run E6 cross-article consistency and E7 release closeout.
 
-## Exact next activity
+## Authorised stopping point
 
-Process **Articles 12–16** through T5 each, in order:
+Articles **12–16** are complete through T5 and all trackers must remain synchronized at **16 / 50 verified**.
 
-12. `அழுக்காறு` — scans 59–61;
-13. `மிகுதிக்கண்...` — scans 62–65;
-14. `வலிவும், பொலிவும்!` — scans 66–68;
-15. `இன்பமும் துன்பமும்!` — scans 69–74;
-16. `ஒழுக்கம்` — scans 75–77.
-
-Fetch and pin each live Tamil blob at T0. Apply **`Udanpirappē`** wherever frozen Tamil has `உடன்பிறப்பே`. Stop after Article 16 T5 and synchronize before beginning Article 17.
+**Do not begin Article 17 until the user authorises the next batch.** When authorised, fetch live `main` and the Article 17 frozen Tamil assembly again before T0. The permanent **`Udanpirappē`** rule remains mandatory for every source occurrence.
