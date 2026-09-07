@@ -9,140 +9,81 @@ Permanent translation policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_T
 
 > **Translate the language; do not neutralise the voice.**
 
-## E0 objective — COMPLETE / PASS
-
-Initialize the English translation workflow from the frozen strict-reviewed Tamil authority, register the T0 source prerequisite, establish the English workspace and review scaffolding, identify translation-risk passages, and stop before drafting the English body.
-
-No English body translation is created during E0.
-
-## Frozen Tamil prerequisite — CONFIRMED / T0 PASS
+## Frozen Tamil prerequisite
 
 Canonical Tamil authority:
 
 `articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
 
-Live blob SHA confirmed at E0:
+Frozen blob SHA:
 
 `1c5870212186b2bf7ff095b245e15cd875de76f0`
 
-Tamil source state:
-
 - article status: **`strict-reviewed`**;
 - source scans: **3–7**;
-- printed pages: **scan 3 unnumbered; scans 4–7 visibly 4–7**;
 - P0–P5: **COMPLETE / PASS**;
-- P5 physical scans: **8 / 8 PASS**;
 - unresolved Tamil fidelity discrepancies: **0**;
-- Tamil workflow blockers: **0**;
 - Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**.
 
 **T0 SOURCE PREREQUISITE: PASS — 1 / 1.**
 
-If the frozen Tamil blob changes later because of a genuine source-supported correction, the English workflow must be explicitly reopened from the affected gate.
-
-## Planned English article
-
-Future file:
+## Verified English article
 
 `translations/en/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
 
-Planned metadata shape:
+English title: **Freedom from the Prison of Suffering**  
+Final verified English blob: **`57bb332530e5e6de12c74f2cd40ceaccf22e41b9`**  
+Frontmatter status: **`translation_status: verified`**.
 
-```yaml
----
-publication: "vedhanai-ch-siraiyinindrum-viduthalai-pera"
-article_number: 1
-title_ta: "வேதனைச் சிறையினின்றும் விடுதலை பெற"
-title_en: "Freedom from the Prison of Suffering"
-source_tamil: "../../articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md"
-source_tamil_blob_sha: "1c5870212186b2bf7ff095b245e15cd875de76f0"
-source_scan_pages: "3-7"
-source_printed_pages: "scan 3 unnumbered; scans 4-7 visibly 4-7"
-language: "en"
-translation_status: "draft"
-translation_method: "close rhetorical translation preserving Kalaignar's voice"
----
-```
+## Gate history
 
-English title established for the working translation: **Freedom from the Prison of Suffering**. Any later title adjustment must be source-driven and recorded in `TRANSLATION_REVIEW.md`; it must not alter the frozen Tamil title.
+| Gate | Result | English blob / note |
+|---|---|---|
+| E0 | **PASS** | setup only |
+| T0 | **PASS** | frozen Tamil confirmed |
+| T1 | **PASS** | `9a1f1fcc60104b561909380addbcbae422688fb2` |
+| T2 | **PASS** | `5377b7b90f87247dc910741b92244772a07bdf56` |
+| T3 | **PASS** | `df9750cfc46ac1f3519ff2d40bbe8bb3b69073a6` |
+| T4 | **PASS** | `943be32674cb3952c655f6bfed9f8b1fc0410969` |
+| T5 | **PASS / VERIFIED** | `57bb332530e5e6de12c74f2cd40ceaccf22e41b9` |
+| E6 | **NOT STARTED / NEXT** | publication consistency review |
+| E7 | **NOT STARTED** | release closeout |
 
-## Source-note boundary
+## T1–T5 outcome
 
-The printed bracketed note on scan 7 is **outside Kalaignar's message body**. The English translation must preserve that boundary. It may be translated as a clearly separated source / occasion note after the body, but it must not be merged into the speech/message prose.
+- complete English article units: **1 / 1**;
+- verified English article units: **1 / 1**;
+- source comments: **5 / 5 present and ordered**;
+- scan-7 source/occasion note: **outside message body / PASS**;
+- omitted Tamil paragraphs/clauses at T5: **0**;
+- added factual claims at T5: **0**;
+- unresolved translation blockers: **0**;
+- frozen Tamil changes during English T1–T5: **0**.
 
-The note establishes that the `குடும்ப நலத்திட்ட இருவார விழா` began on **15 December 1975**. It does not separately provide an exact message date or publication date.
+## Established translation decisions
 
-## T1 traceability requirements
+- `வேதனைச் சிறை` → **prison of suffering**;
+- `குடும்ப நலத்திட்டம்` → **Family Welfare Programme**;
+- `குடும்ப நலத்திட்ட இருவார விழா` → **Family Welfare Programme Fortnight**;
+- `பேறுகாலம்` → **childbearing**;
+- `சிறு குடும்ப நெறி` → **small-family norm**;
+- `முன்பியக்கம்` / `முன்பியக்கக் காலம்` → **advance drive / advance-drive period**;
+- `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` → **in Parliament / Parliament itself**;
+- `வெற்றிக்கனியினைக் கொய்திட` → **reap the fruit of success**.
 
-The English body must retain the five ordered source comments:
+High-risk metaphors remain preserved: child production, machines for bearing children, the quoted elephant/sorghum image, snail imagery, the scan-6 dash accumulation and the closing fruit/harvest image.
 
-1. `<!-- Tamil source: scan 3 -->`
-2. `<!-- Tamil source: scan 4 -->`
-3. `<!-- Tamil source: scan 5 -->`
-4. `<!-- Tamil source: scan 6 -->`
-5. `<!-- Tamil source: scan 7 -->`
+Detailed decisions: [`translations/en/LEXICON.md`](translations/en/LEXICON.md).  
+Full review provenance: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
 
-No Tamil body paragraph may be omitted, summarized away, or silently merged with a distant paragraph.
+## Source-note / date discipline
 
-## High-risk translation passages / decisions
+The translated scan-7 bracketed note remains separated after the message body. It states that the Family Welfare Programme Fortnight began on **December 15, 1975**; it does not create a separately stated exact message date or publication date.
 
-These require extra care in T1 and explicit bilingual recheck in T2:
+## Non-regression
 
-1. **Title / central metaphor — `வேதனைச் சிறை`**: preserve the prison/suffering metaphor; do not reduce it to a generic statement about hardship.
-2. **`யானைப் பசிக்குப் போட்ட சோளப் பொறி`**: preserve the elephant-hunger / tiny-food image rather than replacing it with an unrelated English idiom.
-3. **`பிள்ளை உற்பத்தி`** and **`பிள்ளை பெறும் யந்திரங்களாகவே`**: retain the deliberately stark production/machine imagery; do not soften it into neutral demographic prose.
-4. **`சிறு குடும்ப நெறி`**: provisional English `small-family norm`; verify consistent force across occurrences.
-5. **`பேறுகாலம்`**: context-sensitive; do not settle mechanically between `childbearing`, `childbirth`, or another rendering without sentence-level review.
-6. **`உலக மக்கள் தொகை ஆண்டு` / `உலக மகளிர் ஆண்டு`**: translate the Tamil source labels as printed; do not silently substitute an outside official English title merely from historical knowledge.
-7. **`நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே`**: P5 confirms these unusual Tamil source forms. In English the referent is Parliament, but the frozen Tamil wording must not be altered to simplify translation.
-8. **`முன்பியக்கம்` / `முன்பியக்கக் காலம்`**: source-specific administrative/campaign wording; provisional `advance campaign` requires T1/T2 contextual review.
-9. **Rhetorical sequence on scan 6**: preserve the repeated dash-ended clauses leading to the conclusion about controlling population growth.
-10. **`நத்தையென நகர்வதும்`**: retain the snail image rather than abstracting it as merely `slow progress`.
-11. **`மதுவிலக்குத் திட்டம்`** and the federal/state contrast: preserve the argumentative comparison and exclamatory force.
-12. **Closing `வெற்றிக்கனியினைக் கொய்திட`**: preserve the harvest/fruit metaphor rather than flattening it to `succeed`.
-13. **Numbers and dates**: preserve `1974`, `1975`, `1972-73`, `1974-75`, `41`, `39`, `22`, and the source-note date exactly in meaning.
-
-## Translation authority / non-regression
-
-English must be translated from the frozen strict-reviewed Tamil assembly only.
-
-Do not use as translation authority:
-
-- OCR;
-- raw PDF text extraction;
-- a pre-P5 transcription;
-- web transcriptions;
-- later editions;
-- remembered wording;
-- outside historical English labels that silently replace the Tamil source wording.
-
-The scan/page layer may be consulted only when a punctuation, quotation, source-boundary, or witness question must be checked.
-
-## Gate tracker
-
-| Gate | Status |
-|---|---|
-| E0 — translation planning/setup | **COMPLETE / PASS** |
-| T0 — source prerequisite | **1 / 1 PASS** |
-| T1 — close English draft | **NOT STARTED** |
-| T2 — bilingual fidelity review | **NOT STARTED** |
-| T3 — Kalaignar voice review | **NOT STARTED** |
-| T4 — terminology / quotation / citation audit | **NOT STARTED** |
-| T5 — article verification | **NOT STARTED** |
-| E6 — publication consistency review | **NOT STARTED** |
-| E7 — release closeout | **NOT STARTED** |
-
-English article files created: **0 / 1**.  
-Unresolved setup blockers: **0**.
+English authority is the verified article above, downstream of frozen Tamil blob `1c5870212186b2bf7ff095b245e15cd875de76f0`. Do not translate/revise from OCR, raw PDF, web text, another edition or memory. If a genuine source-supported Tamil correction changes the frozen blob, explicitly reopen the affected English gates.
 
 ## Exact next activity
 
-Proceed with **T1 — close English draft for Article 1 only**.
-
-1. Re-fetch live `main` and confirm the Tamil authority still has blob `1c5870212186b2bf7ff095b245e15cd875de76f0`.
-2. Create `translations/en/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md` with the metadata above.
-3. Translate the entire message paragraph by paragraph from the frozen Tamil assembly.
-4. Preserve all five ordered source-page comments.
-5. Keep the scan-7 printed source/occasion note clearly outside the message body.
-6. Update the living lexicon and translation review ledger with actual T1 choices.
-7. Stop after T1. Do **not** begin T2 in the same activity unless separately authorised.
+Proceed with **E6 — publication-level English consistency review**. Re-fetch the verified English article and frozen Tamil authority, review title/terminology/source-note consistency and tracker state, record E6 PASS only if blockers remain 0, and stop before E7 unless separately authorised.
