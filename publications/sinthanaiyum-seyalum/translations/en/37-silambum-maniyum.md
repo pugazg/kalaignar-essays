@@ -32,11 +32,10 @@ It is a poem carrying this irritated question: looking at one made of intestines
 
 Here is another poem:
 
-“A pot with nine wound-like openings,
-seeping and fit to turn one’s stomach,
-stirring a foul broth—the foolish,
-dazzled by the dark skin covering it,
-call her broad-shouldered, bangled maiden.”
+“A pot with nine wound-like openings, seeping foulness,
+a vessel of churning broth—the foolish,
+dazzled by the dark skin spread over it, call her
+broad-shouldered, bangled maiden.”
 
 Seeing the body as a pot with nine openings from which a seeping, stinking mixture of filth emerges, people of little understanding are captivated by attraction and babble that she is a broad-shouldered woman, a graceful creeper adorned with bangles.
 
@@ -69,10 +68,10 @@ And do you know with what delighted feeling Ilango Adigal, the Jain poet who gav
 Thus this venpa of `Silappathikaram` reaches the very summit of imagination!
 
 “As though two radiant serpents joined and mingled,
-they joined hands as loving spouses;
-all pleasures whose names do not fade they drew close to,
-as though, seeing life on earth impermanent,
-they would renounce it this very day.”
+they became one;
+as loving spouses they joined hands—all pleasures
+whose names do not fade they drew close to, as though
+seeing life on earth impermanent, they would renounce it today.”
 
 <!-- Tamil source: scan 162 / printed 161 -->
 
