@@ -2,6 +2,7 @@
 publication: "sinthanaiyum-seyalum"
 article_number: 5
 title_ta: "ஜனநாயக நெறி"
+contents_title_ta: "ஜனநாயக நெறி"
 title_en: "The Way of Democracy"
 source_tamil: "../../articles/05-jananayaga-neri.md"
 source_tamil_blob_sha: "b5a8f2fa1414ec7c490a0da50d42da217d4581e0"
