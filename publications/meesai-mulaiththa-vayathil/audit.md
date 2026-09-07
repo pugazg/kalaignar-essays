@@ -4,16 +4,16 @@
 
 **RESULT: PASS / COMPLETE**
 
-### Source checks
+Source checks:
 
-- source filename: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf` — PASS;
+- source filename `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf` — PASS;
 - SHA-256 recorded — PASS;
-- file size recorded — PASS;
+- file size **374,123,900 bytes** — PASS;
 - physical scan count **146** — PASS;
 - image-only / no parsed text layer — PASS;
 - source PDF excluded from repository — PASS.
 
-### Printed identity checks
+Printed identity checks:
 
 - title `மீசை முளைத்த வயதில்` — cover/title-page PASS;
 - author `கலைஞர் மு.கருணாநிதி` — cover/title-page PASS;
@@ -22,166 +22,161 @@
 - supplied-edition witness `இரண்டாம் பதிப்பு : அக்டோபர் 2006` — imprint PASS;
 - price `ரூ.70/-` — imprint PASS.
 
-### Classification check
-
-The source is a multi-piece youthful literary collection. Kalaignar's `என்னுரை` describes the gathered pieces as `எழுத்தோவியங்கள்`.
-
-Repository classification:
+Source classification remains:
 
 **multi-piece youthful literary/prose collection (`எழுத்தோவியங்கள்`)**.
 
-This deliberately avoids silently converting all internal units into one editorial genre.
-
-### P0 duplicate check
-
-Exact publication title/source-ID searches and representative early-unit searches returned no pre-existing match. P0 publication-level duplicate blocker: **0**.
+P0 duplicate blocker: **0**.
 
 ---
 
-# P1 — metadata / full page map / unit mapping / duplicate reconciliation
+## P1 — metadata / full page map / unit mapping / duplicate reconciliation
 
-**RESULT: PASS / COMPLETE — corrected source-title readings synchronized**
+**RESULT: PASS / COMPLETE**
 
-## P1-A — 146-scan physical accounting
+Direct visual inspection accounted for **146 / 146 scans**.
 
-Direct visual inspection accounted for **146 / 146** scans.
+Physical structure:
 
-- scans 1–3: cover / title / imprint — PASS;
-- scans 4–6: `என்னுரை` — PASS;
-- scans 7–16: `முன்னுரை` — PASS;
-- scan 17: blank / reverse-side show-through — PASS;
-- scans 18–145: main work — PASS;
-- scan 146: back cover / promotional text — PASS;
+- scans 1–3: cover / title / imprint;
+- scans 4–6: `என்னுரை`;
+- scans 7–16: `முன்னுரை`;
+- scan 17: blank / reverse-side show-through;
+- scans 18–145: main work;
+- scan 146: back cover / promotional text;
 - unmapped scans: **0**.
 
-Canonical record: [`indexes/page-map.md`](indexes/page-map.md).
+Printed pagination:
 
-## P1-B — printed pagination
+- scans 18–145: visible printed folios **17–144 / continuous**;
+- relation: `printed page = scan page - 1`;
+- missing folios: **0**;
+- duplicate folios: **0**.
 
-P1 visually checked the complete main-work folio run.
+Printed contents witness:
 
-- first visible main folio: scan 18 → printed p.17;
-- last visible main folio: scan 145 → printed p.144;
-- scans checked: **128 / 128**;
-- printed folios checked: **17–144 / continuous**;
-- verified relation: `printed page = scan page - 1` for scans 18–145;
-- missing folios in this run: **0**;
-- duplicate folios: **0**;
-- page-sequence blockers: **0**.
+**No printed contents page exists in the supplied edition.** `indexes/contents.md` is a repository editorial/source map derived from source-visible headings, not a printed contents transcription.
 
-## P1-C — printed contents witness
+Source-titled main units: **26 / 26**. Boundary overlaps: **0**.
 
-**No printed contents page exists in the supplied edition.**
+Permanent title-reading corrections after direct source reinspection:
 
-`indexes/contents.md` was created only as an explicitly labelled **repository editorial/source map** derived from source-visible headings and verified boundaries. It is not a printed contents transcription.
+1. scan 36 / printed p.35: `முக்கை சித்தர்` → **`அகப்பை சித்தர்`**;
+2. scan 42 / printed p.41: `கள்ளி` → **`தளிர்`**;
+3. scan 136 / printed p.135: `மயிற்கு` → **`மயிலிறகு`**.
 
-## P1-D — source-visible main-unit boundaries
-
-Source-titled units mapped: **26 / 26**.
-
-| # | Title | Scans | Printed pages |
-|---:|---|---:|---:|
-| 1 | `பிறையே` | 18–20 | 17–19 |
-| 2 | `ஆடிக்காற்று` | 21–23 | 20–22 |
-| 3 | `கருப்புப் பெண்` | 24–27 | 23–26 |
-| 4 | `கடலே` | 28–30 | 27–29 |
-| 5 | `ஆறு` | 31–33 | 30–32 |
-| 6 | `வாழிய வைகறை` | 34–35 | 33–34 |
-| 7 | `அகப்பை சித்தர்` | 36–38 | 35–37 |
-| 8 | `மலையே வாழி` | 39–41 | 38–40 |
-| 9 | `தளிர்` | 42–45 | 41–44 |
-| 10 | `விண்மீன்` | 46–48 | 45–47 |
-| 11 | `தனிமை` | 49–54 | 48–53 |
-| 12 | `நாடக மேடை` | 55–56 | 54–55 |
-| 13 | `புகழ்` | 57–58 | 56–57 |
-| 14 | `பச்சைக்கிளி` | 59–61 | 58–60 |
-| 15 | `தமிழே` | 62 | 61 |
-| 16 | `தேனலைகள்` | 63–71 | 62–70 |
-| 17 | `தோழி` | 72–77 | 71–76 |
-| 18 | `மருதாணி` | 78–84 | 77–83 |
-| 19 | `அருவி` | 85–90 | 84–89 |
-| 20 | `முறம்` | 91–95 | 90–94 |
-| 21 | `யாழ்` | 96–102 | 95–101 |
-| 22 | `சிற்பி` | 103–114 | 102–113 |
-| 23 | `சேவல் சண்டை` | 115–122 | 114–121 |
-| 24 | `மடல்` | 123–128 | 122–127 |
-| 25 | `ஆண்டு விழா` | 129–135 | 128–134 |
-| 26 | `மயிலிறகு` | 136–145 | 135–144 |
-
-Boundary overlaps: **0**.  
-Unmapped main-work pages: **0**.  
-Source-titled unit blockers: **0**.
-
-## P1-D2 — title-reading correction audit
-
-User review identified three misread P1 headings. Each was re-opened against the controlling scan pixels:
-
-1. scan 36 / printed p.35: prior mapping `முக்கை சித்தர்` → source-visible **`அகப்பை சித்தர்`** — PASS;
-2. scan 42 / printed p.41: prior mapping `கள்ளி` → source-visible **`தளிர்`** — PASS;
-3. scan 136 / printed p.135: prior mapping `மயிற்கு` → source-visible **`மயிலிறகு`** — PASS.
-
-Impact:
+Impact of these corrections:
 
 - unit boundaries changed: **0**;
 - printed-page spans changed: **0**;
-- unit count changed: **0**;
-- body prose transcribed/changed: **0**;
-- P1 gate reopened beyond targeted title correction: **No**.
+- unit count changed: **0**.
 
-## P1-E — unit-level duplicate reconciliation
+All **26 / 26 corrected titles** were screened against live `pugazg/kalaignar-essays`:
 
-All **26 / 26** corrected mapped titles have been searched against live `pugazg/kalaignar-essays`.
+- exact pre-existing title hits returned: **0 / 26**;
+- possible duplicate blockers: **0**;
+- publication-title/source-ID blocker: **0**.
 
-- exact pre-existing unit-title hits returned: **0 / 26**;
-- corrected `அகப்பை சித்தர்` search: **0 exact hit returned**;
-- corrected `தளிர்` search: **0 exact hit returned**;
-- corrected `மயிலிறகு` search: **0 exact hit returned**;
-- possible duplicate blockers requiring merge/hold: **0**;
-- exact publication title/source-ID blockers: **0**.
+Source/genre discipline:
 
-This is a repository duplicate screen, not a claim about external editions or periodicals outside the repository.
+- source self-description `எழுத்தோவியங்கள்` retained — PASS;
+- no synthetic printed contents witness created — PASS;
+- no internal unit mechanically relabelled as essay/poem/story/speech — PASS;
+- no OCR wording treated as authority — PASS.
 
-## P1-F — source/genre discipline
-
-- source self-description `எழுத்தோவியங்கள்` retained: **PASS**;
-- no synthetic printed contents witness created: **PASS**;
-- no internal unit mechanically relabelled as essay/poem/story/speech: **PASS**;
-- no body prose transcription performed during P1: **PASS**;
-- no OCR wording treated as authority: **PASS**;
-- no hidden stamp-obscured text reconstructed: **PASS**.
-
-## P1-G — durable records
-
-Created:
+Canonical P1 records:
 
 - `indexes/page-map.md`;
-- `indexes/contents.md`.
+- `indexes/contents.md`;
+- `metadata/source.md`.
 
-Synchronized after the targeted title corrections:
+---
 
-- `metadata/source.md`;
-- publication `README.md`;
-- this audit;
-- root `README.md`;
-- root `HANDOVER.md`;
-- `docs/NEXT_CHAT_PROMPT.md`.
+## P2 — page-level transcription
+
+**RESULT: IN PROGRESS — 20 / 146 VERIFIED**
+
+### P2 batch 1 — scans 1–10
+
+Canonical record: [`P2_BATCH_001_010.md`](P2_BATCH_001_010.md).
+
+Result:
+
+- scans 1–10: **10 / 10 VERIFIED**;
+- cover/title/imprint: **3 / 3 VERIFIED**;
+- `என்னுரை`, scans 4–6: **3 / 3 VERIFIED / COMPLETE**;
+- `முன்னுரை`, scans 7–10: **4 / 10 VERIFIED at that checkpoint**;
+- unresolved printed prose: **0**;
+- batch blockers: **0**.
+
+Scan 3 contains a large later library stamp and handwriting obscuring portions of the imprint/contact block. Hidden print was **not reconstructed from context, OCR, memory or another edition**.
+
+### P2 batch 2 — scans 11–20
+
+Canonical record: [`P2_BATCH_011_020.md`](P2_BATCH_011_020.md).
+
+Result:
+
+- scans 11–20: **10 / 10 VERIFIED**;
+- `முன்னுரை`, scans 11–16: **6 / 6 VERIFIED**;
+- `முன்னுரை` overall, scans 7–16: **10 / 10 VERIFIED / COMPLETE**;
+- scan 17 blank/show-through: **VERIFIED**;
+- Unit 1 `பிறையே`, scans 18–20 / printed pp.17–19: **3 / 3 VERIFIED / complete source boundary**;
+- unresolved printed text in the batch: **0**;
+- batch blockers: **0**.
+
+Source-sensitive readings directly preserved in this batch include:
+
+- `சோகங்கட்டிய புன்னகை!`;
+- `சுட்ட தங்கமாய்ச் சுடர்விட்டிருக்கிறார்`;
+- `மறக்கவிடவோ மறைத்துவிடவோ`;
+- `சுரைக்காய்ப் பிஞ்சின்`;
+- source grammatical form `நாடக ஆசிரியராகவு`;
+- `‘நன்னூல் விதியில் பொருந்துகிறது’`;
+- split Nannūl verse forms `தன்னா சிரியன்`, `தன்மா ணாக்கன்`, `காரனென் / றின்னோர்`;
+- source grammatical form `அவருக்கு நான் எழுத வாய்ப்பளித்திருக்கிறார்`;
+- Unit 1 forms `பலகணி`, `கைத்திட்டத் தொடமுடியாது`, `வெண்ணக் கலாப மயிலைக்`, `சுந்தரியை`.
+
+These are retained as source readings and are not editorially regularised.
+
+### Current P2 gate
+
+- canonical page records: **20 / 146 VERIFIED**;
+- contiguous verified range: **1–20**;
+- missing canonical records in scans 1–20: **0**;
+- `என்னுரை`: **3 / 3 COMPLETE**;
+- `முன்னுரை`: **10 / 10 COMPLETE**;
+- blank scan 17: **VERIFIED**;
+- complete main-work units at P2 page layer: **1 / 26** (`பிறையே`);
+- unresolved printed-text blocks in verified scans: **0**;
+- active P2 blockers: **0**.
+
+Although `பிறையே` now has a complete verified page span, **P3 assembly remains NOT STARTED** under the P2-only cadence.
+
+---
 
 ## Gate tracker
 
 | Gate | State |
 |---|---|
 | P0 | **COMPLETE / PASS** |
-| P1 | **COMPLETE / PASS — corrected source titles synchronized** |
-| P2 | **NOT STARTED / NEXT** |
+| P1 | **COMPLETE / PASS** |
+| P2 | **IN PROGRESS — 20 / 146 VERIFIED** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
 | English | **BLOCKED until Tamil P5 freeze** |
 
-P1 blockers: **0**.
+Active blockers: **0**.
 
 ## Exact next activity
 
-**P2 — page-level transcription beginning at scan 1.**
+**P2 scans 21–30 only.**
 
-Create canonical page records under `pages/` from the controlling source. Every page record must keep printed text separate from physical-copy marks and must not be marked `verified` until direct visual comparison is complete. Do not begin P3 assemblies or English translation under this next activity.
+- scans 21–23 — Unit 2 `ஆடிக்காற்று`, printed pp.20–22;
+- scans 24–27 — Unit 3 `கருப்புப் பெண்`, printed pp.23–26;
+- scans 28–30 — Unit 4 `கடலே`, printed pp.27–29;
+- use the controlling scan as authority;
+- create one canonical page record per scan;
+- stop after scan 30;
+- **do not begin P3 assembly or scan 31 in this same activity unless separately authorised**.
