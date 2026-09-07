@@ -2,6 +2,7 @@
 publication: "sinthanaiyum-seyalum"
 article_number: 4
 title_ta: "குருகுலம்!"
+contents_title_ta: "குருகுலம்!"
 title_en: "Gurukulam!"
 source_tamil: "../../articles/04-kurukulam.md"
 source_tamil_blob_sha: "4ddbb1e64f50a471f91d402220a05814b1e2e198"
