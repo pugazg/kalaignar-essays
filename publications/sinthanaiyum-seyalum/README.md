@@ -22,20 +22,22 @@ Source PDFs committed: **No**
 - publication-wide P4: **PASS**
 - publication-wide P5: **226 / 226 PASS / COMPLETE**
 - visual-text-fidelity: **COMPLETE**
+- post-freeze source correction: **scan 76 `வற்கைச்` → source-visible `வர்களைச்`, propagated and re-frozen**
 - unresolved source/fidelity discrepancies: **0**
 
 ### English translation — ACTIVE
 
 - E0 translation planning/setup: **COMPLETE / PASS**
-- T0 source prerequisite: **11 / 50 PASS**
-- T1 close draft: **11 / 50 COMPLETE**
-- T2 bilingual fidelity review: **11 / 50 PASS**
-- T3 Kalaignar voice review: **11 / 50 PASS**
-- T4 terminology / quotation / citation audit: **11 / 50 PASS**
-- T5 article verification: **11 / 50 PASS**
+- T0 source prerequisite: **16 / 50 PASS**
+- T1 close draft: **16 / 50 COMPLETE**
+- T2 bilingual fidelity review: **16 / 50 PASS**
+- T3 Kalaignar voice review: **16 / 50 PASS**
+- T4 terminology / quotation / citation audit: **16 / 50 PASS**
+- T5 article verification: **16 / 50 PASS**
 - E6/E7: **NOT STARTED**
-- English files: **11 / 50**
-- English verified: **11 / 50**
+- English files: **16 / 50**
+- English verified: **16 / 50**
+- English drafts: **0 / 50**
 - blockers: **0**
 
 Translation records:
@@ -47,7 +49,7 @@ Translation records:
 
 ## Permanent `உடன்பிறப்பே` rule
 
-Where Kalaignar addresses the reader as `உடன்பிறப்பே`, the English layer retains **`Udanpirappē`**. It must not be flattened into `brother`, `sister`, `sibling`, or `comrade`. The user-established explanation—literally evoking “one born alongside me” and carrying shared identity, equality, affection and solidarity within the movement—is now permanent translation policy. Articles 1 and 2 were corrected accordingly without changing frozen Tamil.
+Where Kalaignar addresses the reader as `உடன்பிறப்பே`, the English layer retains **`Udanpirappē`**. It must not be flattened into `brother`, `sister`, `sibling`, or `comrade`. The user-established explanation—literally evoking “one born alongside me” and carrying shared identity, equality, affection and solidarity within the movement—is permanent translation policy. Articles 1 and 2 were corrected accordingly without changing frozen Tamil.
 
 ## Verified English articles
 
@@ -61,21 +63,26 @@ Where Kalaignar addresses the reader as `உடன்பிறப்பே`, the
 8. `மனிதனின் மறுபக்கம்` → **The Other Side of Man** — scans 46–48;
 9. `விண்ணைத் தொட்டு மண்ணில் புதைவதா?` → **Touching the Sky, Buried in the Earth?** — scans 49–51;
 10. `மனிதனும் மறுபிறவியும்` → **Man and Rebirth** — scans 52–55;
-11. `வெற்றி தோல்வி!` → **Victory and Defeat!** — scans 56–58.
+11. `வெற்றி தோல்வி!` → **Victory and Defeat!** — scans 56–58;
+12. `அழுக்காறு` → **Azhukkaaru** — scans 59–61;
+13. `மிகுதிக்கண்...` → **When the Limit Is Crossed...** — scans 62–65;
+14. `வலிவும், பொலிவும்!` → **Strength and Radiance!** — scans 66–68;
+15. `இன்பமும் துன்பமும்!` → **Joy and Sorrow!** — scans 69–74;
+16. `ஒழுக்கம்` → **Conduct** — scans 75–77.
 
-All eleven are **T0–T5 PASS / verified**. Frozen Tamil blob pins are recorded in `TRANSLATION_PLAN.md` and `TRANSLATION_REVIEW.md`.
+All sixteen are **T0–T5 PASS / verified**. Frozen Tamil blob pins and review provenance are recorded in `TRANSLATION_PLAN.md` and `TRANSLATION_REVIEW.md`.
 
-## Articles 7–11 batch result
+## Articles 12–16 batch result
 
-The user directed the next five articles to be completed through T5. Result: **5 / 5 VERIFIED**, **0 unresolved English blockers**, **0 Tamil changes**.
+The user directed these five articles to be completed through T5. Result: **5 / 5 VERIFIED**, **0 unresolved English blockers**.
 
 Important source-fidelity decisions:
 
-- Article 7 preserves Self-Respect-marriage legal terminology, `Thanthai Periyar`, `Dinamalar`, `Nenjukku Neethi`, numbers/dates and the final swimming-against-the-current image.
-- Article 8 preserves the sound-understanding / petty-understanding contrast, milk/poison and mirror imagery; one stray untranslated Tamil token in the working English was removed during T2.
-- Article 9 preserves the heading `...புதைவதா?` independently of the contents witness `...புதைவதோ?`, excludes scan 50’s production/form witness from prose, and translates the source-described violence without euphemism.
-- Article 10 preserves verse lineation, Kalaignar’s explicit distinction between poetic imagination and rational truth, and source-bearing `tithi`, `divasam`, `dakshina`.
-- Article 11 preserves `honour`, `honour-wound`, the `Purananuru` verse/glossary, `Kanaka Visayar`, and the independent heading/contents difference.
+- Article 12 preserves `Azhukkaaru` for the article’s dirt/way/river/envy wordplay and preserves source-visible unusual `கலாம்` as `kalaam` rather than silently normalising it.
+- Article 13 preserves Kalaignar’s `மிகுதிக்கண்` limit-crossing interpretation, both friendship anecdotes, and the harmonium `kattai` wordplay without outside identification of the unnamed studio or composer.
+- Article 14 preserves the sound-bearing `Nyayiru Potruthum`, literal Tamil `ற / றற` practice, dawn/rising-sun joke and health exhortation.
+- Article 15 preserves the independent contents/heading punctuation, surprising frozen chronology, source medal/news figures and already-English Oxford-definition witness without external correction.
+- Article 16’s controlling scan audit exposed one genuine pre-existing Tamil transcription defect: global scan 76 visibly has `அதற்குக் காரணமானவர்களைச் சட்டத்தின் முன்னால்`. Canonical page 0076 and the Article 16 assembly were corrected from the earlier `வற்கைச் சட்டத்தின்`, re-verified and re-frozen before English T5. No other Tamil prose changed.
 
 ## Final Tamil records
 
@@ -106,24 +113,19 @@ Among verified English articles:
 - Article 3 contents `என் பெயர் புரட்சி` ↔ heading `என் பெயர் புரட்சி!`;
 - Article 6 contents `வாக்குச் சீட்டின் வலிமை` ↔ heading `வாக்குச்சீட்டின் வலிமை`;
 - Article 9 contents `விண்ணைத் தொட்டு மண்ணில் புதைவதோ?` ↔ heading `விண்ணைத் தொட்டு மண்ணில் புதைவதா?`;
-- Article 11 contents `வெற்றி - தோல்வி!` ↔ heading `வெற்றி தோல்வி!`.
+- Article 11 contents `வெற்றி - தோல்வி!` ↔ heading `வெற்றி தோல்வி!`;
+- Article 15 contents `இன்பமும் துன்பமும்` ↔ heading `இன்பமும் துன்பமும்!`.
 
 English titles follow frozen article headings and never overwrite independent Tamil witnesses.
 
 ## Tamil freeze / English authority
 
-The **strict-reviewed Tamil assembly** is translation authority. Reopen frozen Tamil wording only for a genuine controlling-scan defect. Do not alter Tamil to make English smoother.
+The **strict-reviewed Tamil assembly** is translation authority. Reopen frozen Tamil wording only for a genuine controlling-scan defect. Do not alter Tamil to make English smoother. Article 16 scan 76 is the standing example of the narrow source-defect exception: the scan itself demonstrated the correction, and the canonical page plus assembly were re-frozen before translation verification.
 
 > **Translate the language; do not neutralise the voice.**
 
-## Exact next activity
+## Current boundary
 
-Process **Articles 12–16** through T5 each:
+Articles **1–16** are durable verified English authority. Article **17 (`வசிய மருந்து`, scans 78–81) has not been started**.
 
-- 12 `அழுக்காறு` — scans 59–61;
-- 13 `மிகுதிக்கண்...` — scans 62–65;
-- 14 `வலிவும், பொலிவும்!` — scans 66–68;
-- 15 `இன்பமும் துன்பமும்!` — scans 69–74;
-- 16 `ஒழுக்கம்` — scans 75–77.
-
-Fetch and pin every live frozen Tamil blob at T0. Apply **`Udanpirappē`** wherever the source has `உடன்பிறப்பே`. Stop after Article 16 T5 and synchronize before Article 17.
+Do not begin Article 17 until the user authorises the next batch. On continuation, fetch live `main` and re-pin the live Article 17 Tamil blob at T0. Apply **`Udanpirappē`** wherever the source has `உடன்பிறப்பே`.
