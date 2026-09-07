@@ -46,7 +46,7 @@ Canonical closeout records:
 
 Workspace: [`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/)
 
-**TAMIL COMPLETE / STRICT-REVIEWED / FROZEN — ENGLISH E0 NEXT.**
+**TAMIL COMPLETE / STRICT-REVIEWED / FROZEN — ENGLISH E0/T0 COMPLETE; T1 NEXT.**
 
 - controlling source: `TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf`;
 - SHA-256: `d6429304ca8e53324e41fbe6695a31d1411b12ec5e04bf5a35d8cc8a51d06651`;
@@ -55,29 +55,37 @@ Workspace: [`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/`](publicat
 - issuing body: `தமிழ்நாடு குடும்ப நலத்துறை வெளியீடு`;
 - body: scans **3–7**;
 - source p.7 calls the text a `செய்தி` issued during the family-planning fortnight that began **15 December 1975**; exact message/publication date is not separately stated;
-- P0: **COMPLETE / PASS**;
-- P1: **COMPLETE / PASS**;
-- P2: **8 / 8 VERIFIED / COMPLETE**;
-- P3: **1 / 1 COMPLETE / PASS**;
-- P4: **COMPLETE / PASS**;
-- P5: **8 / 8 COMPLETE / PASS**;
+- P0–P5: **COMPLETE / PASS**;
+- P5: **8 / 8 physical scans PASS**;
 - unresolved Tamil fidelity discrepancies: **0**;
 - Tamil workflow blockers: **0**;
-- English: **NOT STARTED — E0 planning/setup next**.
+- frozen Tamil authority: [`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md), blob `1c5870212186b2bf7ff095b245e15cd875de76f0`;
+- E0 English planning/setup: **COMPLETE / PASS**;
+- T0 source prerequisite: **1 / 1 PASS**;
+- English article files: **0 / 1**;
+- T1 close draft: **NOT STARTED / NEXT**;
+- English setup blockers: **0**.
 
-Canonical Tamil authority:
+English setup records:
 
-- [`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md) — frozen strict-reviewed blob `1c5870212186b2bf7ff095b245e15cd875de76f0`.
+- [`TRANSLATION_PLAN.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/TRANSLATION_PLAN.md)
+- [`translations/en/README.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/README.md)
+- [`translations/en/LEXICON.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/LEXICON.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/TRANSLATION_REVIEW.md)
 
-Canonical audit records:
+Working English title: **Freedom from the Prison of Suffering**.
+
+No English body was drafted during E0. The future T1 translation must use the frozen strict-reviewed Tamil assembly only, preserve the five source-page comments, and keep the scan-7 source/occasion note outside the message body.
+
+Canonical Tamil audit records:
 
 - [`SOURCE_COMPLETENESS_AUDIT.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/SOURCE_COMPLETENESS_AUDIT.md)
 - [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/VISUAL_TEXT_FIDELITY_REVIEW.md)
 
-P5 directly rechecked **8 / 8 physical scans**. Two source-supported corrections were made:
+P5 source-supported corrections remain frozen:
 
 1. scan 2 title page: `பெற........!` → `பெற..........!` — **10 printed dots** before `!`;
-2. scan 7 final paragraph: `வெற்றிக் கனியினைக்` → `வெற்றிக்கனியினைக்`, propagated to the canonical article assembly.
+2. scan 7 final paragraph: `வெற்றிக் கனியினைக்` → `வெற்றிக்கனியினைக்`.
 
 The independently rechecked source forms `நாடாளு மன்றத்தில்` and `நாடாளு மன்றமே` are confirmed from the source pixels and remain unchanged. Other flagged historical/source-sensitive forms, including `எங்கணும்`, `உறையுள்`, `உலகு`, `யந்திரங்களாகவே`, `முன்பியக்கம்` and `முன்பியக்கக்`, also passed P5 without conventionalisation.
 
@@ -87,6 +95,6 @@ Every exact source `உடன்பிறப்பே` is retained as **`Udanpir
 
 ## Current repository boundary
 
-Publication 9 Tamil is **COMPLETE / STRICT-REVIEWED / FROZEN**. Exact next activity: **E0 — English translation planning/setup**, using only the frozen strict-reviewed Tamil assembly as the translation authority. Do not translate from OCR, raw PDF, or any pre-P5 transcription.
+Publication 9 Tamil is **COMPLETE / STRICT-REVIEWED / FROZEN** and English **E0/T0 is COMPLETE / PASS**. Exact next activity: **T1 — close English draft for Article 1**, translating only from frozen Tamil blob `1c5870212186b2bf7ff095b245e15cd875de76f0` and stopping before T2.
 
 Live `main` and root [`HANDOVER.md`](HANDOVER.md) remain authoritative.
