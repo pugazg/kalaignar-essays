@@ -2,6 +2,7 @@
 publication: "sinthanaiyum-seyalum"
 article_number: 2
 title_ta: "அதிக உயரம் தாண்டுவதற்கு"
+contents_title_ta: "அதிக உயரம் தாண்டுவதற்கு"
 title_en: "To Clear a Greater Height"
 source_tamil: "../../articles/02-athiga-uyaram-thaanduvatharku.md"
 source_tamil_blob_sha: "9f1e9442c20c86d0d10918dfbff0de22f346342f"
