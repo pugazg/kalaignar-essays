@@ -47,7 +47,7 @@ Source discipline:
 
 ## Repository classification
 
-The source itself describes this item as a public `செய்தி`, not as a printed `பேச்சு` or `உரை`. It is therefore being archived in `kalaignar-essays` as a **standalone pamphlet/public-message publication**, which is within this repository's pamphlet scope, without relabelling it as a conventional essay or speech.
+The source itself describes this item as a public `செய்தி`, not as a printed `பேச்சு` or `உரை`. It is archived in `kalaignar-essays` as a **standalone pamphlet/public-message publication**, without relabelling it as a conventional essay or speech.
 
 Duplicate checks before intake:
 
@@ -60,7 +60,7 @@ Duplicate checks before intake:
 - cover has surface wear/abrasion and a later library stamp;
 - body scans show light reverse-side show-through;
 - traditional/pre-reform Tamil glyph forms are used throughout the body;
-- historical glyph shapes are resolved to the scan-supported underlying Tamil characters, while genuine source spelling/wording is **not** modernised;
+- historical glyph shapes are resolved to scan-supported underlying Tamil characters, while genuine source spelling/wording is **not** modernised;
 - no major body-text loss was found during P2 direct visual transcription.
 
 ## Page map summary
@@ -78,25 +78,36 @@ Duplicate checks before intake:
 
 There is **no printed contents page**.
 
-## P2 source-sensitive forms retained
+## P2/P3 source-sensitive forms retained
 
-P2 deliberately preserves visible source forms rather than silently modernising them, including:
+Preserve through later audit/fidelity gates:
 
-- scan 3 `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `சோளப் பொறி`;
+- scan 3 `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `யானைப் பசிக்குப் போட்ட சோளப் பொறி`;
 - scan 4 `உலகு`, `யந்திரங்களாகவே`;
+- scan 5 `அறுவை சிகிச்சைகள்` versus later `அறுவைச் சிகிச்சைக்கென்று`;
 - scan 5/6 `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` — retained and specifically queued for independent P5 recheck;
-- scan 7 `முன்பியக்கம்`, `முன்பியக்கக்`, and the source-note phrasing `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`.
+- scan 7 `முன்பியக்கம்`, `முன்பியக்கக்`, and source-note phrasing `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`.
 
-P2 is a complete direct-visual first transcription, not the later publication-wide strict P5 gate.
+## P3 canonical assembly
+
+`../articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
+
+- assembled only from verified P2 body records scans 3–7;
+- ordered source-boundary comments preserved;
+- scan-7 bracketed source/occasion note retained outside the message body;
+- body omission / duplication / reorder: **0 / 0 / 0**;
+- P3 changes to P2 wording: **0**.
+
+P3 is not the later publication-wide strict P5 gate.
 
 ## Current workflow status
 
 - P0 source intake / publication identification: **COMPLETE / PASS**
 - P1 metadata / page map / contents mapping: **COMPLETE / PASS**
 - P2 page-level transcription: **8 / 8 VERIFIED / COMPLETE**
-- P3 single-text assembly: **NOT STARTED**
+- P3 single-text assembly: **1 / 1 COMPLETE / PASS**
 - P4 source/completeness audit: **NOT STARTED**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
 - English workflow: **NOT STARTED; prohibited until the Tamil layer is frozen**
 
-Exact next activity: **P3 single-text assembly from verified page records 0003–0007.**
+Exact next activity: **P4 source/completeness audit.**
