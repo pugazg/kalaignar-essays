@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — வேதனைச் சிறையினின்றும் விடுதலை பெற / P4 source-completeness audit
+# NEXT CHAT PROMPT — வேதனைச் சிறையினின்றும் விடுதலை பெற / P5 strict visual fidelity
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -12,7 +12,7 @@ Publications **1–8 are RELEASE COMPLETE / FROZEN**. Do not reopen them because
 
 ## Controlling source
 
-Resolve/attach when source-level visual work is required:
+**Attach/resolve before P5 visual work:**
 
 `TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf`
 
@@ -38,8 +38,9 @@ Read completely before changing Publication 9:
 7. `indexes/page-map.md`;
 8. `indexes/contents.md`;
 9. `audit.md`;
-10. page records `pages/0001-cover.md` through `pages/0008-back-cover.md`;
-11. `articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`.
+10. `SOURCE_COMPLETENESS_AUDIT.md`;
+11. page records `pages/0001-cover.md` through `pages/0008-back-cover.md`;
+12. `articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`.
 
 English translation is not yet in scope; do not start it before Tamil P5 freeze.
 
@@ -49,15 +50,15 @@ English translation is not yet in scope; do not start it before Tamil P5 freeze.
 - P1: **COMPLETE / PASS**;
 - P2: **COMPLETE / PASS — 8 / 8 VERIFIED**;
 - P3: **COMPLETE / PASS — 1 / 1 assembly**;
-- P4: **NOT STARTED**;
+- P4: **COMPLETE / PASS**;
 - P5: **NOT STARTED**;
 - English: **NOT STARTED / BLOCKED until Tamil freeze**.
 
-Canonical P3 assembly:
+Canonical P4 record:
 
-`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
+`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/SOURCE_COMPLETENESS_AUDIT.md`
 
-P3 assembled only from verified body scans 3–7, retained ordered `<!-- Tamil source: scan ... -->` comments, preserved body sequence without omission/duplication/reorder, and kept the printed scan-7 bracketed source/occasion note outside the message body.
+P4 confirmed 8 / 8 canonical page records, 1 / 1 assembly, body order 3 → 4 → 5 → 6 → 7, source comments exactly once and ordered, 0 omission/duplication/reorder, scan-7 source-note separation, required exclusions, classification/date discipline and 0 completeness blockers. P4 changed no Tamil page text or article body.
 
 ## Source classification / date discipline
 
@@ -71,30 +72,36 @@ Do not silently assign 15 December 1975 as the exact message/publication date.
 
 ## Historical Tamil glyph / lexical non-regression
 
-Traditional/pre-reform glyph shapes were resolved to underlying source-supported Tamil characters. Preserve P2/P3 lexical witnesses exactly; do not modernise them during P4.
+Traditional/pre-reform glyph shapes were resolved during P2 to underlying source-supported Tamil characters. P5 must now independently recheck them from the controlling scan rather than trusting P2 by inertia.
 
-High-attention forms:
+High-attention witnesses:
 
-- scan 3 `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `யானைப் பசிக்குப் போட்ட சோளப் பொறி`;
-- scan 4 `உலகு`, `யந்திரங்களாகவே`;
-- scan 5 `அறுவை சிகிச்சைகள்` versus later `அறுவைச் சிகிச்சைக்கென்று`;
-- scan 5/6 `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` — retain and independently recheck in P5;
-- scan 7 `முன்பியக்கம்`, `முன்பியக்கக்`;
-- source-note `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`;
-- independent scan-1 / scan-2 title punctuation witnesses.
+- scan 1 / scan 2: independent title punctuation witnesses;
+- scan 3: `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `யானைப் பசிக்குப் போட்ட சோளப் பொறி`;
+- scan 4: `உலகு`, `யந்திரங்களாகவே`;
+- scan 5: `அறுவை சிகிச்சைகள்` versus later `அறுவைச் சிகிச்சைக்கென்று`;
+- scan 5/6: `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` — **mandatory independent P5 recheck**;
+- scan 7: `முன்பியக்கம்`, `முன்பியக்கக்`;
+- scan 7 source note: `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`;
+- scan 8: exact printer line.
 
-## Exact next activity — P4 source/completeness audit
+Do not modernise or conventionalise a form because it looks unusual. The source pixels decide.
 
-Perform P4 only:
+## Exact next activity — P5 strict visual word/punctuation fidelity
 
-1. verify inventory = **8 canonical page records + 1 canonical assembly**;
-2. reconcile source metadata, page map, no-contents record, publication classification and body boundaries;
-3. confirm scan 3 is the body start, scan 7 is the body close, scan 8 is back-cover printer matter;
-4. reconcile assembly source comments/order against scans 3–7 and confirm no body omission, duplication or reorder;
-5. confirm scan-7 bracketed source/occasion note remains outside the message body;
-6. verify page statuses and assembly status are internally consistent;
-7. sweep Publication 9 durable files for active `TODO`, `partial`, `needs-review`, `blocked`, placeholder or unresolved markers;
-8. distinguish historical/audit references from active blockers;
-9. preserve the P5 watchlist, especially the `நாடாளு மன்ற...` witnesses;
-10. update publication README, audit, root README, root handover and this prompt;
-11. stop after P4. Do **not** run P5 or English in the same iteration unless the user separately authorises the next gate.
+Perform **P5 over all 8 scans**:
+
+1. re-open each physical scan 1–8 directly;
+2. compare every visible printed word, historical glyph, word boundary/spacing, punctuation mark, quotation mark, heading, date, number and paragraph boundary against its canonical page record;
+3. confirm physical-copy marks, wear, stains and show-through remain outside printed prose;
+4. independently verify cover/title-page punctuation and scan-8 printer witness;
+5. on body scans 3–7, compare every line and page transition, not only the watchlist;
+6. explicitly resolve/classify `நாடாளு மன்றத்தில்` and `நாடாளு மன்றமே` from source pixels;
+7. record every confirmed correction as **old reading → source-visible reading**, with scan provenance;
+8. do not silently normalise genuine source wording or historical spelling;
+9. if a page record changes, propagate the confirmed correction to the P3 article assembly and dependent metadata/index/README/audit/handover records;
+10. create `VISUAL_TEXT_FIDELITY_REVIEW.md` (or update it if live `main` already contains one) with the full **8 / 8** scan result, corrections, unresolved discrepancies, `needs-review`/blocked count and final gate decision;
+11. only if all 8 scans pass and unresolved fidelity blockers are 0, mark Tamil P5 **COMPLETE / PASS / FROZEN**;
+12. after Tamil freeze, English becomes the next gate, but **do not start English in the same iteration unless the user separately authorises it**.
+
+Current P5 count entering this activity: **0 / 8**.
