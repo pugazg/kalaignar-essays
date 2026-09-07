@@ -1,60 +1,117 @@
-# NEXT CHAT PROMPT — Kalaignar Essays / next publication intake
+# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P1 publication mapping
 
-Continue directly in `pugazg/kalaignar-essays`, branch `main`.
+Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
+
+`publications/meesai-mulaiththa-vayathil/`
 
 ## LIVE MAIN IS AUTHORITATIVE
 
 Fetch live `main` first and preserve newer durable work. Root `HANDOVER.md` is the single authoritative project handover.
 
-Publications **1–9 are RELEASE COMPLETE / FROZEN**. Do not reopen them from stale prompts, stylistic preference, terminology homogenisation or modernisation.
+Publications **1–9 are RELEASE COMPLETE / FROZEN**. Do not reopen them from stale prompts.
 
-Publication 9 — `வேதனைச் சிறையினின்றும் விடுதலை பெற` — is fully closed:
+Publication 10 `மீசை முளைத்த வயதில்` has completed **P0 source intake / publication identification — PASS**. Exact next gate: **P1 — metadata + full 146-scan page map + full source-visible unit mapping / duplicate reconciliation**.
 
-- Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / FROZEN**;
-- frozen Tamil blob: `1c5870212186b2bf7ff095b245e15cd875de76f0`;
-- English T0–T5: **1 / 1 PASS / VERIFIED**;
-- released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`;
-- E6: **PASS / COMPLETE**;
-- E7: **PASS / RELEASE COMPLETE**;
-- blockers: **0**;
-- overall status: **RELEASE COMPLETE / FROZEN**.
+## Controlling source
 
-Canonical Publication 9 closeout records:
+Attach/resolve:
 
-- `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/E6_CONSISTENCY_REVIEW.md`;
-- `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/E7_RELEASE_CLOSEOUT.md`.
+`TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`
 
-## Mandatory startup for the next publication
+Recorded P0 identity:
 
-1. read `ESSAY_PROCESSING_GUIDE.md` completely;
-2. read `docs/FUTURE_WORK_GUIDELINES.md`;
-3. read root `HANDOVER.md`;
-4. read this prompt;
-5. inspect live repository state before creating anything;
-6. use `ESSAY_TRANSLATION_GUIDE.md` only after the new Tamil archival layer is complete/frozen.
+- source ID: `TVA_BOK_0065746`;
+- SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
+- size: **374,123,900 bytes**;
+- physical scans: **146**;
+- image-only / no parsed text layer;
+- title: `மீசை முளைத்த வயதில்`;
+- author: `கலைஞர் மு.கருணாநிதி`;
+- publisher: `தமிழ்க்கனி பதிப்பகம்`;
+- first-edition witness: `முதற்பதிப்பு : கலைஞர் பிறந்த நாள் 3.6.2002`;
+- supplied edition: `இரண்டாம் பதிப்பு : அக்டோபர் 2006`;
+- price: `ரூ.70/-`.
 
-## Exact next activity — new source intake / P0
+## Source classification
 
-When the user supplies the next Kalaignar essay/article/pamphlet/publication source:
+Do **not** call this a single conventional essay.
 
-1. identify the source filename and source form;
-2. establish physical scan/page count from the controlling source;
-3. record source identity/hash/size when available;
-4. determine whether the source or its individual article/text units are already represented in the repository;
-5. determine source-labelled publication classification without silently relabelling a message, speech, essay, foreword, article or pamphlet;
-6. record edition/date/publication evidence exactly as supported by the source; do not infer missing dates;
-7. decide the correct publication workspace/slug only after duplicate checking and source classification;
-8. create P0 intake records only for genuinely new authorized material;
-9. never commit the source PDF;
-10. stop at the next gate boundary required by `ESSAY_PROCESSING_GUIDE.md`, unless the user explicitly authorises a broader batch.
+Kalaignar's `என்னுரை` describes the collected youthful pieces as **`எழுத்தோவியங்கள்`**. Current repository classification:
 
-## Frozen-work rule
+**multi-piece youthful literary/prose collection (`எழுத்தோவியங்கள்`)**.
 
-Do not modify Publications 1–9 unless one of these applies:
+Individual unit forms must remain source-driven; do not mechanically label every unit essay/poem/story/speech.
 
-- the user explicitly requests a targeted correction/review; or
-- controlling-source evidence proves a genuine archival/release-blocking defect.
+## P0 structural checkpoint
 
-If a frozen Tamil authority changes, explicitly reopen every affected downstream English gate rather than silently patching a released translation.
+Direct source inspection established:
 
-Permanent repository translation rule remains: exact Tamil `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation → **`Udanpirappē,`**.
+- scan 1 cover;
+- scan 2 title page;
+- scan 3 imprint/edition/price;
+- scans 4–6 `என்னுரை` — Kalaignar;
+- scans 7–16 `முன்னுரை` — `கவிப்பேரரசு வைரமுத்து`;
+- scan 17 blank/show-through;
+- scan 18 first main unit `பிறையே`, printed p.17;
+- scans 18–145 main-work printed pages 17–144;
+- scan 145 body close / printed p.144;
+- scan 146 illustrated back cover.
+
+Preliminary observed relation scans 18–145:
+
+`printed page = scan page - 1`
+
+P1 must verify this continuously before treating it as canonical.
+
+No printed contents page is visible in the inspected front matter.
+
+Representative early unit headings seen at P0 include `பிறையே`, `ஆடிக்காற்று`, `கருப்புப் பெண்`, `கடலே`, `ஆறு`, `வாழிய வைகறை`, `மலையே வாழி`, `விண்மீன்`, `தனிமை`, `நாடக மேடை`, `புகழ்`, `பச்சைக்கிளி`, `தமிழே`, `தேனலைகள்`. This sample is **not the full canonical list**.
+
+## Duplicate checkpoint
+
+Live P0 searches found no existing match for:
+
+- exact publication title;
+- source ID `TVA_BOK_0065746`;
+- representative headings `பிறையே`, `ஆடிக்காற்று`, `கருப்புப் பெண்`, `மலையே வாழி`.
+
+Publication-level duplicate blocker: **0**.
+
+P1 must enumerate **every** source-visible unit and run the complete unit-level duplicate reconciliation against live `pugazg/kalaignar-essays`.
+
+## Mandatory startup
+
+Read completely before P1:
+
+1. `ESSAY_PROCESSING_GUIDE.md`;
+2. `docs/FUTURE_WORK_GUIDELINES.md`;
+3. root `HANDOVER.md`;
+4. this prompt;
+5. `publications/meesai-mulaiththa-vayathil/README.md`;
+6. `publications/meesai-mulaiththa-vayathil/metadata/source.md`;
+7. `publications/meesai-mulaiththa-vayathil/audit.md`.
+
+Use the controlling scan as authority. OCR is not authority. Preserve library stamps/handwriting/accession marks as physical-copy evidence separate from printed text.
+
+## Exact next activity — P1 only
+
+1. Fetch live `main` and confirm P0 state.
+2. Inspect **all 146 physical scans** sufficiently to classify scan role and page sequence.
+3. Verify every printed-page transition and all unnumbered front/back matter.
+4. Enumerate every source-visible internal heading/unit in order.
+5. Determine each unit's start/end scan and printed-page span directly from the source.
+6. Distinguish illustrations, blank/show-through pages, front matter, body units and back cover.
+7. Create `indexes/page-map.md` accounting for **146 / 146 scans**.
+8. Create `indexes/contents.md`. Because no printed contents page has yet been found, clearly label this as a **repository editorial/source map**, not a printed contents transcription, unless P1 discovers an actual contents witness.
+9. Search every mapped unit title against live `pugazg/kalaignar-essays`; record exact/possible duplicate results without deleting or merging source witnesses prematurely.
+10. Update `metadata/source.md`, publication `README.md`, `audit.md`, root `README.md`, root `HANDOVER.md`, and this prompt.
+11. Mark P1 **COMPLETE / PASS** only when all scans and unit boundaries are accounted for and duplicate blockers are resolved/documented.
+12. **STOP AFTER P1. Do not begin P2 full transcription unless separately authorised.**
+
+## Non-regression
+
+- source PDF is never committed;
+- do not modernise Tamil or silently repair unusual source forms;
+- do not reconstruct text hidden by stamps/show-through from context;
+- do not infer composition dates of internal pieces from the 2006 edition date;
+- English remains blocked until Tamil P5 freeze.
