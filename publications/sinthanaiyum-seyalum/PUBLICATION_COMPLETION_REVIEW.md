@@ -25,17 +25,19 @@ Preserve the frozen/re-frozen Tamil layer, historical/atypical forms, punctuatio
 ## English translation status
 
 - E0: **PASS / COMPLETE**
-- T0–T5: **26 / 50 PASS at every gate**
-- verified English: **26 / 50**
+- T0–T5: **36 / 50 PASS at every gate**
+- verified English: **36 / 50**
 - draft English: **0 / 50**
-- remaining articles before E6: **24**
+- remaining articles before E6: **14**
 - blockers: **0**
 - E6/E7: **NOT STARTED**
-- Article 27: **NOT STARTED**
+- Article 37: **NOT STARTED**
 
-Latest Articles **22–26** batch: **5 / 5 VERIFIED**, **19 / 19 ordered source comments PASS**, **0 Tamil changes**.
+Latest Articles **27–36** iteration: **10 / 10 VERIFIED**, **42 / 42 ordered source comments PASS**, **0 Tamil changes**.
 
-Permanent `உடன்பிறப்பே` policy: **`Udanpirappē`**.
+Permanent exact `உடன்பிறப்பே` policy: **`Udanpirappē`**. Source-related plural movement-address forms are retained source-bearingly where present.
+
+Per user instruction, the normal translation cadence is now **10 articles per iteration** where enough articles remain. Next prepared iteration: **37–46**.
 
 **FINAL TAMIL RESULT: ARCHIVAL-COMPLETE / VISUAL-TEXT-FIDELITY COMPLETE / RE-FROZEN.**  
-**CURRENT ENGLISH RESULT: ARTICLES 1–26 T0–T5 PASS / VERIFIED; 24 ARTICLES REMAIN.**
+**CURRENT ENGLISH RESULT: ARTICLES 1–36 T0–T5 PASS / VERIFIED; 14 ARTICLES REMAIN.**
