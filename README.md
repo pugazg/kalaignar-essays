@@ -46,7 +46,7 @@ Canonical closeout records:
 
 Workspace: [`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/)
 
-**ACTIVE — P0/P1/P2/P3/P4 COMPLETE; P5 NEXT.**
+**TAMIL COMPLETE / STRICT-REVIEWED / FROZEN — ENGLISH E0 NEXT.**
 
 - controlling source: `TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf`;
 - SHA-256: `d6429304ca8e53324e41fbe6695a31d1411b12ec5e04bf5a35d8cc8a51d06651`;
@@ -54,26 +54,32 @@ Workspace: [`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/`](publicat
 - source form: **image-only government public-message pamphlet**;
 - issuing body: `தமிழ்நாடு குடும்ப நலத்துறை வெளியீடு`;
 - body: scans **3–7**;
-- visible printed folios: **4–7** on scans 4–7; scan 3 has no visible folio;
 - source p.7 calls the text a `செய்தி` issued during the family-planning fortnight that began **15 December 1975**; exact message/publication date is not separately stated;
 - P0: **COMPLETE / PASS**;
 - P1: **COMPLETE / PASS**;
 - P2: **8 / 8 VERIFIED / COMPLETE**;
-- P3 single-message assembly: **1 / 1 COMPLETE / PASS**;
-- P4 source/completeness audit: **COMPLETE / PASS**;
-- P5: **NOT STARTED**;
-- English: **NOT STARTED; blocked until Tamil freeze**.
+- P3: **1 / 1 COMPLETE / PASS**;
+- P4: **COMPLETE / PASS**;
+- P5: **8 / 8 COMPLETE / PASS**;
+- unresolved Tamil fidelity discrepancies: **0**;
+- Tamil workflow blockers: **0**;
+- English: **NOT STARTED — E0 planning/setup next**.
 
-Canonical records:
+Canonical Tamil authority:
 
-- [`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md)
+- [`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md) — frozen strict-reviewed blob `1c5870212186b2bf7ff095b245e15cd875de76f0`.
+
+Canonical audit records:
+
 - [`SOURCE_COMPLETENESS_AUDIT.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/SOURCE_COMPLETENESS_AUDIT.md)
+- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/VISUAL_TEXT_FIDELITY_REVIEW.md)
 
-P4 confirmed **8 / 8** verified page records, **1 / 1** canonical assembly, ordered body source sequence **3 → 4 → 5 → 6 → 7**, **0** omission/duplication/reorder, correct exclusion of cover/title/back-cover matter, and correct separation of the scan-7 bracketed occasion note. P4 source/completeness blockers: **0**.
+P5 directly rechecked **8 / 8 physical scans**. Two source-supported corrections were made:
 
-P4 corrected one stale workflow footer in `indexes/page-map.md`; Tamil page text changes and article-body changes during P4 were **0**.
+1. scan 2 title page: `பெற........!` → `பெற..........!` — **10 printed dots** before `!`;
+2. scan 7 final paragraph: `வெற்றிக் கனியினைக்` → `வெற்றிக்கனியினைக்`, propagated to the canonical article assembly.
 
-Source-sensitive forms remain pending strict P5 final classification, especially `எங்கணும்`, `உறையுள்`, `உலகு`, `யந்திரங்களாகவே`, `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே`, and `முன்பியக்கம்`. The `நாடாளு மன்ற...` witnesses must receive independent P5 visual recheck rather than silent normalisation.
+The independently rechecked source forms `நாடாளு மன்றத்தில்` and `நாடாளு மன்றமே` are confirmed from the source pixels and remain unchanged. Other flagged historical/source-sensitive forms, including `எங்கணும்`, `உறையுள்`, `உலகு`, `யந்திரங்களாகவே`, `முன்பியக்கம்` and `முன்பியக்கக்`, also passed P5 without conventionalisation.
 
 ### Permanent `உடன்பிறப்பே` rule
 
@@ -81,6 +87,6 @@ Every exact source `உடன்பிறப்பே` is retained as **`Udanpir
 
 ## Current repository boundary
 
-Publication 9 is the **active publication**. Exact next activity: **P5 strict visual word/punctuation fidelity over all 8 physical scans**. Do not begin English until P5 passes and the Tamil authority is frozen.
+Publication 9 Tamil is **COMPLETE / STRICT-REVIEWED / FROZEN**. Exact next activity: **E0 — English translation planning/setup**, using only the frozen strict-reviewed Tamil assembly as the translation authority. Do not translate from OCR, raw PDF, or any pre-P5 transcription.
 
 Live `main` and root [`HANDOVER.md`](HANDOVER.md) remain authoritative.
