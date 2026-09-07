@@ -89,7 +89,7 @@ Source-titled units mapped: **26 / 26**.
 | 6 | `வாழிய வைகறை` | 34–35 | 33–34 |
 | 7 | `அகப்பை சித்தர்` | 36–38 | 35–37 |
 | 8 | `மலையே வாழி` | 39–41 | 38–40 |
-| 9 | `கள்ளி` | 42–45 | 41–44 |
+| 9 | `தளிர்` | 42–45 | 41–44 |
 | 10 | `விண்மீன்` | 46–48 | 45–47 |
 | 11 | `தனிமை` | 49–54 | 48–53 |
 | 12 | `நாடக மேடை` | 55–56 | 54–55 |
@@ -114,10 +114,11 @@ Source-titled unit blockers: **0**.
 
 ## P1-D2 — title-reading correction audit
 
-User review identified two misread P1 headings. Both were re-opened against the controlling scan pixels:
+User review identified three misread P1 headings. Each was re-opened against the controlling scan pixels:
 
 1. scan 36 / printed p.35: prior mapping `முக்கை சித்தர்` → source-visible **`அகப்பை சித்தர்`** — PASS;
-2. scan 136 / printed p.135: prior mapping `மயிற்கு` → source-visible **`மயிலிறகு`** — PASS.
+2. scan 42 / printed p.41: prior mapping `கள்ளி` → source-visible **`தளிர்`** — PASS;
+3. scan 136 / printed p.135: prior mapping `மயிற்கு` → source-visible **`மயிலிறகு`** — PASS.
 
 Impact:
 
@@ -133,6 +134,7 @@ All **26 / 26** corrected mapped titles have been searched against live `pugazg/
 
 - exact pre-existing unit-title hits returned: **0 / 26**;
 - corrected `அகப்பை சித்தர்` search: **0 exact hit returned**;
+- corrected `தளிர்` search: **0 exact hit returned**;
 - corrected `மயிலிறகு` search: **0 exact hit returned**;
 - possible duplicate blockers requiring merge/hold: **0**;
 - exact publication title/source-ID blockers: **0**.
