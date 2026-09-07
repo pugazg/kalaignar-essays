@@ -9,7 +9,7 @@ page_type: "body-close"
 status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf"
-transcription_method: "direct visual comparison with source scan; traditional/pre-reform glyphs resolved to scan-supported underlying Tamil characters"
+transcription_method: "direct visual comparison with source scan; traditional/pre-reform glyphs resolved to scan-supported underlying Tamil characters; P5 strict visual fidelity checked"
 ---
 
 # அச்சு உரை
@@ -24,7 +24,7 @@ transcription_method: "direct visual comparison with source scan; traditional/pr
 
 அனைத்துத் தரப்பினரும் அரசுக்கு ஒத்துழைப்பு நல்கினால்தான் எந்த ஒரு திட்டத்தினாலும் ஏற்படக்கூடிய இனிய பலன்கள் சமுதாயத்துக்கு முழுமையாகக் கிடைத்திட முடியும்.
 
-இதனை நெஞ்சிலே நிறுத்திப் பொதுமக்களும் தங்களுக்குள்ள பொறுப்பினை உணர்ந்து இந்தக் குடும்ப நலத்திட்ட இருவார விழா வெற்றிக் கனியினைக் கொய்திட ஒத்துழைப்பை நல்குமாறு வேண்டிக் கொள்கிறேன்.
+இதனை நெஞ்சிலே நிறுத்திப் பொதுமக்களும் தங்களுக்குள்ள பொறுப்பினை உணர்ந்து இந்தக் குடும்ப நலத்திட்ட இருவார விழா வெற்றிக்கனியினைக் கொய்திட ஒத்துழைப்பை நல்குமாறு வேண்டிக் கொள்கிறேன்.
 
 ## அச்சிடப்பட்ட source / occasion note
 
@@ -43,5 +43,11 @@ transcription_method: "direct visual comparison with source scan; traditional/pr
 - `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய` establishes the fortnight start, not a separately stated exact message/publication date.
 - source-specific `முன்பியக்கம்` / `முன்பியக்கக்` are retained.
 - printed page number `7` is visible at the lower right.
+
+## P5 strict-fidelity note
+
+- P5 independently confirmed `முன்பியக்கம்` and `முன்பியக்கக்` from the source pixels.
+- final-paragraph word-boundary correction: `வெற்றிக் கனியினைக்` → `வெற்றிக்கனியினைக்`.
+- bracketed source/occasion note was rechecked word-by-word and remains outside the message body.
 
 <!-- மூல ஸ்கேன் பக்கம்: 7 / அச்சுப் பக்கம்: 7 -->
