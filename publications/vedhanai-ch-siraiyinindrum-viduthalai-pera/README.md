@@ -14,8 +14,6 @@ The source itself describes the text on printed p.7 as a **`செய்தி`*
 
 Lexical title: `வேதனைச் சிறையினின்றும் விடுதலை பெற`.
 
-Cover and title-page punctuation are independent source witnesses and remain separate in the page layer.
-
 ## Source identity
 
 - source ID: `TVA_BOK_0064064`;
@@ -48,13 +46,14 @@ That date is the source-supported **start date of the fortnight**. The exact mes
 
 No printed contents page is present. One continuous message body runs through scans **3–7**.
 
-## Canonical P3 assembly
+## Canonical Tamil assembly
 
-- [`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md)
-- assembled only from P2-verified body records scans **3–7**;
-- ordered `<!-- Tamil source: scan ... -->` comments retained for all five body scans;
-- scan-7 bracketed occasion/source note retained outside the message body;
-- assembly omissions / duplications / reordered boundaries: **0 / 0 / 0**.
+[`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md)
+
+- source scans: **3 → 4 → 5 → 6 → 7**;
+- ordered source comments retained: **5 / 5**;
+- scan-7 bracketed occasion/source note remains outside the message body;
+- assembly status: **`strict-reviewed`**.
 
 ## P4 source/completeness audit
 
@@ -62,32 +61,40 @@ Canonical record: [`SOURCE_COMPLETENESS_AUDIT.md`](SOURCE_COMPLETENESS_AUDIT.md)
 
 **P4 RESULT: PASS.**
 
-- physical source scans represented by canonical P2 records: **8 / 8 PASS**;
-- page statuses: **8 / 8 `verified`**;
-- canonical P3 body assemblies: **1 / 1 PASS**;
-- body order: **scan 3 → 4 → 5 → 6 → 7 PASS**;
-- ordered assembly source comments: **5 / 5 PASS**;
+- physical source scans represented: **8 / 8**;
+- canonical page records: **8 / 8**;
+- canonical body assemblies: **1 / 1**;
 - body omission / duplication / reorder: **0 / 0 / 0**;
-- scan-7 printed source note remains outside message body: **PASS**;
-- scans 1, 2 and 8 remain outside body assembly: **PASS**;
-- P4 `needs-review` / `blocked`: **0 / 0**;
-- unresolved body-completeness blockers: **0**.
+- source/completeness blockers: **0**.
 
-P4 found one stale documentation footer in `indexes/page-map.md` that still described P3 as not started. That workflow footer has been synchronized; no page text or article-body text changed.
+## P5 strict visual fidelity
 
-## Historical Tamil typography / non-regression
+Canonical record: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
-Traditional/pre-reform glyphs are encoded as their scan-supported underlying Tamil characters while preserving genuine historical/source wording, punctuation and irregularities.
+**P5 RESULT: PASS — 8 / 8 physical scans directly rechecked.**
 
-Preserve through P5 at minimum:
+Confirmed P5 corrections:
 
-- scan 3 `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `யானைப் பசிக்குப் போட்ட சோளப் பொறி`;
-- scan 4 `உலகு`, `யந்திரங்களாகவே`;
-- scan 5 `அறுவை சிகிச்சைகள்` versus later `அறுவைச் சிகிச்சைக்கென்று`;
-- scan 5/6 `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` — independently recheck in P5; do not silently normalise;
-- scan 7 `முன்பியக்கம்`, `முன்பியக்கக்`;
-- source-note `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`;
-- independent cover/title-page punctuation witnesses.
+1. scan 2 title-page punctuation: `பெற........!` → `பெற..........!` (**10 dots** before `!`);
+2. scan 7 closing paragraph: `வெற்றிக் கனியினைக்` → `வெற்றிக்கனியினைக்`.
+
+The scan-7 correction was propagated to the canonical article assembly.
+
+P5 independently confirmed the previously deferred source forms, including:
+
+- `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`;
+- `உலகு`, `யந்திரங்களாகவே`;
+- `அறுவை சிகிச்சைகள்` / `அறுவைச் சிகிச்சைக்கென்று`;
+- `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே`;
+- `முன்பியக்கம்` / `முன்பியக்கக்`;
+- `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`.
+
+The unusual `நாடாளு மன்ற...` forms are source-confirmed and are **not** normalised to conventional modern spelling.
+
+Independent title witnesses remain:
+
+- scan 1 cover: `பெற ... !`;
+- scan 2 title page: `பெற..........!`.
 
 ## Workflow state
 
@@ -98,17 +105,20 @@ Preserve through P5 at minimum:
 - P2 — page-level transcription: **COMPLETE / PASS — 8 / 8 VERIFIED**
 - P3 — single-text assembly: **COMPLETE / PASS — 1 / 1**
 - P4 — source/completeness audit: **COMPLETE / PASS**
-- P5 — strict visual word/punctuation fidelity: **NOT STARTED**
-- unresolved body-completeness blockers: **0**
+- P5 — strict visual word/punctuation fidelity: **COMPLETE / PASS — 8 / 8**
+- unresolved Tamil fidelity discrepancies: **0**
+- Tamil workflow blockers: **0**
 
-P4 completion is not P5/final Tamil freeze.
+**Tamil archival status: COMPLETE / STRICT-REVIEWED / FROZEN.**
 
 ### English
 
-**NOT STARTED.** English translation must not begin until the Tamil archival layer is P5-complete and frozen.
+**NOT STARTED.** English is now unblocked because the Tamil archival authority is frozen.
 
 ## Exact next activity
 
-**P5 — strict visual word/punctuation fidelity over all 8 physical scans.**
+**E0 — English translation planning/setup** from the frozen strict-reviewed Tamil authority:
 
-Re-open the controlling source and compare every visible printed word, historical glyph, spacing/word boundary, punctuation mark, heading, date, number, paragraph continuation, physical-copy exclusion and independent source witness against the canonical page records. Propagate any confirmed correction to the P3 assembly and durable records with provenance.
+`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
+
+Do not translate from OCR, raw PDF text, or a pre-P5 transcription.
