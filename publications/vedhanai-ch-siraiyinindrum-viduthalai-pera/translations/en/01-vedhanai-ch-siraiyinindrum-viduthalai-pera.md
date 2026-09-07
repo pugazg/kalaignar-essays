@@ -8,7 +8,7 @@ source_tamil_blob_sha: "1c5870212186b2bf7ff095b245e15cd875de76f0"
 source_scan_pages: "3-7"
 source_printed_pages: "scan 3 unnumbered; scans 4-7 visibly 4-7"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -16,7 +16,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 3 -->
 
-The Family Welfare Programme Fortnight is being observed throughout Tamil Nadu from December 15.
+The Family Welfare Programme Fortnight is being celebrated throughout Tamil Nadu from December 15.
 
 The surging, swelling population wreaks a cruelty greater than the flood of the Brahmaputra—greater than the flooding of the Ganges; it delivers a tremendous shock!
 
@@ -32,7 +32,7 @@ But rather than the production of paddy and sesame, it is the production of chil
 
 The extent of land we had two thousand years ago is, by and large, the same extent of land we have even today. Meanwhile, the number of people keeps rising many times faster than an aeroplane; the basic needs of all those people keep increasing as well.
 
-In this situation, however much skill we pour into drawing up plans—however many crores upon crores we pour in and strive to act—it all goes to waste like a puffed sorghum grain tossed to an elephant's hunger.
+In this situation, however much skill we pour into drawing up plans—however many crores upon crores of funds we pour into action—it all goes to waste like a puffed sorghum grain tossed to an elephant's hunger.
 
 <!-- Tamil source: scan 4 -->
 
@@ -52,19 +52,19 @@ Women are tormented by being subjected again and again to the ordeal called ‘c
 
 Women must have the right to decide that this many children are enough—to determine when the next child may be born. Until they attain such a right, we cannot take pride in saying that women's rights have become complete.
 
-As far as the implementation of the Family Welfare Programme is concerned—Tamil Nadu has been showing great concern—and has also been achieving commendable success.
+As far as the implementation of the Family Welfare Programme is concerned—Tamil Nadu has shown great concern—and has also achieved commendable success.
 
 <!-- Tamil source: scan 5 -->
 
-In each of the three years from 1972–73 through 1974–75, operations have been carried out here beyond even the target set for Tamil Nadu by the Government of India.
+In each of the three years from 1972–73 through 1974–75, surgical procedures have been carried out here beyond even the target set for Tamil Nadu by the Government of India.
 
 Yet the financial assistance previously provided by the Central Government for surgical procedures has now been reduced.
 
 The financial assistance that the Government of India had previously provided for publicity—advertising and other arrangements connected with implementing the Family Welfare Programme has also been reduced substantially.
 
-Even so, we have not been able to reduce the amount previously given to men and women who come forward to undergo surgery. As a result, the burden of expenditure on the Tamil Nadu Government keeps mounting enormously.
+Yet on that account, we have not been able to reduce the amount previously given to men and women who come forward to undergo surgery. As a result, the burden of expenditure on the Tamil Nadu Government keeps mounting enormously.
 
-For that reason, in the brisk measures taken to ensure the successful fulfilment of the Family Welfare Programme—we have not allowed even the slightest ‘slackening’ to creep in!
+Even so, in the brisk measures taken to ensure the successful fulfilment of the Family Welfare Programme—we have not allowed even the slightest ‘slackening’ to creep in!
 
 Because of the enthusiasm our State Government shows in controlling population in this manner, we have also suffered some losses.
 
@@ -72,7 +72,7 @@ As a result of greatly reducing the birth rate, the number of Tamil Nadu's membe
 
 Since population is also taken into account when the Central Government allocates funds to the States, the amount of funding that can be allocated to Tamil Nadu naturally falls in that respect as well.
 
-Despite so many difficulties confronting us one after another, the State Government is engaged with all its strength in accelerating the Family Welfare Programme!
+Even though so many obstacles have confronted us one after another, the State Government is engaged with all its strength in accelerating the Family Welfare Programme!
 
 Do you know why?
 
@@ -92,7 +92,7 @@ Tamil Nadu ranks third in India in successfully implementing the Family Welfare 
 
 It is not good that this programme is being implemented vigorously in only one or two of the 22 States while most of the others crawl like snails!
 
-Let us suppose that, over the next ten years, Tamil Nadu alone acts vigorously and controls its population to remain within limits—but the neighbouring States do not do so and allow their populations to multiply many times over.
+Let us suppose that, over the next ten years, Tamil Nadu alone acts vigorously and controls its population so that it remains at a moderate level—but the neighbouring States do not do so and allow their populations to multiply many times over.
 
 If people belonging to other States where the population has grown like a mountain begin to settle in States without such population growth, what will the situation become? Would not the very purpose of implementing the Family Welfare Programme in those places be defeated?
 
