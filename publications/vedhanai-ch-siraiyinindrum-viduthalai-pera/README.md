@@ -10,13 +10,11 @@ Source PDF committed: **No**
 
 This is an **8-scan, image-only government public-message pamphlet** issued by the `தமிழ்நாடு குடும்ப நலத்துறை`.
 
-The source itself describes the text on printed p.7 as a **`செய்தி`** issued by Tamil Nadu Chief Minister Kalaignar M. Karunanidhi to the people during a family-planning fortnight. It is therefore archived here as a standalone pamphlet/public-message publication; the archive does not silently relabel it as a conventional essay or a delivered speech.
+The source itself describes the text on printed p.7 as a **`செய்தி`** issued by Tamil Nadu Chief Minister Kalaignar M. Karunanidhi to the people during a family-planning fortnight. It is archived here as a standalone pamphlet/public-message publication; it is not silently relabelled as a conventional essay or delivered speech.
 
-The lexical title is:
+Lexical title: `வேதனைச் சிறையினின்றும் விடுதலை பெற`.
 
-`வேதனைச் சிறையினின்றும் விடுதலை பெற`
-
-Cover and title-page punctuation are independent source witnesses and remain separate in the P2 page layer.
+Cover and title-page punctuation are independent source witnesses and remain separate in the page layer.
 
 ## Source identity
 
@@ -37,7 +35,7 @@ Printed p.7 says the message was issued during the `குடும்ப நல
 
 That date is the source-supported **start date of the fortnight**. The exact message/publication date is not separately stated and must not be inferred as 15 December merely from the occasion note.
 
-## Page structure / P2 record layer
+## Page layer
 
 - scan 1 — front cover — [`pages/0001-cover.md`](pages/0001-cover.md);
 - scan 2 — title page — [`pages/0002-title-page.md`](pages/0002-title-page.md);
@@ -50,11 +48,30 @@ That date is the source-supported **start date of the fortnight**. The exact mes
 
 No printed contents page is present. One continuous message body runs through scans **3–7**.
 
-## Historical Tamil typography
+## P3 canonical assembly
 
-The body uses traditional/pre-reform Tamil glyph forms. P2 resolved the **scan-supported underlying Tamil characters** while preserving genuine historical/source wording, punctuation and irregularities. This does not modernise the lexical witness.
+Canonical Tamil message assembly:
 
-P2 source-sensitive forms preserved for P5 non-regression include `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `உலகு`, `யந்திரங்களாகவே`, `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே`, `முன்பியக்கம்`, and the scan-7 note's `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`.
+- [`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md)
+- assembled only from P2-verified body records scans **3–7**;
+- ordered `<!-- Tamil source: scan ... -->` comments retained for all five body scans;
+- scan-7 bracketed occasion/source note retained outside the message body;
+- body start/end and scan order cross-checked;
+- assembly omissions / duplications / reordered boundaries: **0 / 0 / 0**.
+
+## Historical Tamil typography / non-regression
+
+Traditional/pre-reform glyphs are encoded as their scan-supported underlying Tamil characters while preserving genuine historical/source wording, punctuation and irregularities.
+
+Preserve through P4/P5 at minimum:
+
+- scan 3 `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `யானைப் பசிக்குப் போட்ட சோளப் பொறி`;
+- scan 4 `உலகு`, `யந்திரங்களாகவே`;
+- scan 5 `அறுவை சிகிச்சைகள்` versus later `அறுவைச் சிகிச்சைக்கென்று`;
+- scan 5/6 `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` — independently recheck in P5; do not silently normalise;
+- scan 7 `முன்பியக்கம்`, `முன்பியக்கக்`;
+- source-note `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`;
+- independent cover/title-page punctuation witnesses.
 
 ## Workflow state
 
@@ -63,12 +80,12 @@ P2 source-sensitive forms preserved for P5 non-regression include `எங்க�
 - P0 — source intake / publication identification: **COMPLETE / PASS**
 - P1 — metadata + page map + contents mapping: **COMPLETE / PASS**
 - P2 — page-level transcription: **COMPLETE / PASS — 8 / 8 VERIFIED**
-- P3 — single-text assembly: **NOT STARTED**
+- P3 — single-text assembly: **COMPLETE / PASS — 1 / 1**
 - P4 — source/completeness audit: **NOT STARTED**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
-- unresolved P2 body-text blocks: **0**
+- unresolved P2/P3 body-text blocks: **0**
 
-P2 completion is not P5/final freeze. The source-sensitive `நாடாளு மன்ற...` witnesses are explicitly queued for independent P5 recheck.
+P3 completion is not P5/final freeze.
 
 ### English
 
@@ -76,6 +93,6 @@ P2 completion is not P5/final freeze. The source-sensitive `நாடாளு �
 
 ## Exact next activity
 
-**P3 — single-message assembly from verified page records for scans 3–7.**
+**P4 — source/completeness audit.**
 
-Create `articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`, preserving ordered scan-boundary comments and the complete message body. Keep the bracketed scan-7 occasion/source note outside the message body. Stop after P3 unless the user separately authorises the next gate.
+Reconcile all 8 page records, the single P3 assembly, boundaries, source-note separation, metadata/page-map consistency, source-sensitive watchlist and open-marker state. Do not perform P5 or English in the same activity unless separately authorised.
