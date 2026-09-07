@@ -1,12 +1,13 @@
 # English Translation Tracker — சிந்தனையும் செயலும்
 
-Permanent policy: [`../../../ESSAY_TRANSLATION_GUIDE.md`](../../../ESSAY_TRANSLATION_GUIDE.md)  
+Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TRANSLATION_GUIDE.md)  
 Translation plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)  
-E6 record: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)
+E6 record: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)  
+E7 record: [`E7_RELEASE_CLOSEOUT.md`](E7_RELEASE_CLOSEOUT.md)
 
 > **Translate the language; do not neutralise the voice.**
 
-## Current status
+## Final release status
 
 - Tamil authority: **COMPLETE / STRICT-REVIEWED / RE-FROZEN**
 - E0: **COMPLETE / PASS**
@@ -18,16 +19,17 @@ E6 record: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)
 - T5: **50 / 50 PASS**
 - verified English files: **50 / 50**
 - draft English files: **0 / 50**
-- **E6: COMPLETE / PASS**
-- E7: **NOT STARTED**
+- E6: **COMPLETE / PASS**
+- E7: **COMPLETE / PASS**
 - unresolved English blockers: **0**
 - unresolved Tamil/source blockers: **0**
+- publication: **RELEASE COMPLETE / FROZEN**
 
-Article-level translation and publication-wide English consistency review are complete. Publication release closeout is still pending E7.
+Articles **1–50 are durable verified English authority**. There is no remaining Publication 8 translation/release activity.
 
-## E6 closure
+## E6 closure preserved
 
-E6 reconciled all 50 verified English files against the frozen Tamil/review/lexicon authority chain.
+E6 reconciled all 50 verified English files against the frozen Tamil/review/lexicon authority chain:
 
 - live Tamil source pins: **50 / 50 MATCH**;
 - body scan/source-comment coverage: **208 / 208 PASS**, scans **18–225**;
@@ -39,7 +41,17 @@ E6 reconciled all 50 verified English files against the frozen Tamil/review/lexi
 - English-body corrections required by E6: **0**;
 - Tamil changes caused by E6: **0**.
 
-The one E6 correction class was front-matter consistency: Articles **1–10** were missing `contents_title_ta`. Those ten fields were added from the verified printed-contents witness, with no body/source/comment changes. The distinct contents/heading witnesses for Articles 3, 6 and 9 were preserved exactly.
+E6 added missing `contents_title_ta` metadata to Articles **1–10** only. Distinct contents/heading witnesses for Articles 3, 6 and 9 were preserved exactly.
+
+## E7 closure
+
+E7 revalidated release inventory, release-facing links/references, active-work markers and status consistency. The only release repair class was documentation/link handling:
+
+- the current tracker now points directly to the canonical root translation policy;
+- historical review ledgers were left byte-stable, with `publications/ESSAY_TRANSLATION_GUIDE.md` added as a compatibility pointer to the root policy;
+- English article bodies changed in E7: **0**;
+- Tamil changes in E7: **0**;
+- blockers at closeout: **0**.
 
 ## Permanent salutation rule
 
@@ -47,7 +59,7 @@ Every exact frozen-source `உடன்பிறப்பே` remains **`Udanpir
 
 Established plural movement forms remain source-bearing: `Udanpirappugal`, `Kazhaga Udanpirappugalē`.
 
-## Active review / lexicon authority
+## Frozen review / lexicon authority
 
 - [`TRANSLATION_REVIEW_THROUGH_16.md`](TRANSLATION_REVIEW_THROUGH_16.md) — Articles 1–16;
 - [`TRANSLATION_REVIEW_17_21.md`](TRANSLATION_REVIEW_17_21.md) — Articles 17–21;
@@ -56,13 +68,12 @@ Established plural movement forms remain source-bearing: `Udanpirappugal`, `Kazh
 - [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) — Articles 37–50;
 - [`LEXICON_THROUGH_16.md`](LEXICON_THROUGH_16.md);
 - [`LEXICON_THROUGH_36.md`](LEXICON_THROUGH_36.md);
-- [`LEXICON.md`](LEXICON.md) — continuation through Article 50 and E6 classification;
-- [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md) — publication-wide E6 closure.
+- [`LEXICON.md`](LEXICON.md);
+- [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md);
+- [`E7_RELEASE_CLOSEOUT.md`](E7_RELEASE_CLOSEOUT.md).
 
-All historical sidecars remain active authority.
+Historical sidecars remain active frozen provenance.
 
-## Current boundary
+## Release boundary
 
-Articles **1–50 are durable verified English authority** and E6 is **PASS**.
-
-**Exact next activity: E7 release closeout. E7 has not been started.**
+Publication 8 is **RELEASE COMPLETE / FROZEN**. Reopen only for a genuine controlling-scan defect or an explicit user-directed correction. Do not treat an older prompt or historical status line as authority over live `main`.
