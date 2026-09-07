@@ -43,14 +43,15 @@ Do not reopen Tamil merely for modernization, conventional spelling, stylistic p
 English translation was subsequently authorised and is **ACTIVE**.
 
 - E0: **PASS / COMPLETE**
-- T0–T5: **16 / 50 PASS at every article gate**
-- verified English: **16 / 50**
+- T0–T5: **21 / 50 PASS at every article gate**
+- verified English: **21 / 50**
 - draft English: **0 / 50**
 - E6/E7: **NOT STARTED**
 - blockers: **0**
-- Article 17: **NOT STARTED**
+- Articles 17–21: **5 / 5 PASS / verified; Tamil changes 0**
+- Article 22: **NOT STARTED**
 
 The permanent `உடன்பிறப்பே` policy is `Udanpirappē`; do not flatten it into brother/sister/sibling/comrade.
 
 **FINAL TAMIL RESULT: ARCHIVAL-COMPLETE / VISUAL-TEXT-FIDELITY COMPLETE / RE-FROZEN.**  
-**CURRENT ENGLISH RESULT: ARTICLES 1–16 T0–T5 PASS / VERIFIED; 34 ARTICLES REMAIN.**
+**CURRENT ENGLISH RESULT: ARTICLES 1–21 T0–T5 PASS / VERIFIED; 29 ARTICLES REMAIN.**
