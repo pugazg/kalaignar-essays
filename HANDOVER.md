@@ -9,7 +9,7 @@ Branch: `main`
 
 Publications **1–8 are RELEASE COMPLETE / FROZEN**.
 
-Publication **9 — `வேதனைச் சிறையினின்றும் விடுதலை பெற` — is ACTIVE** with P0/P1/P2/P3 complete. Exact next gate: **P4 source/completeness audit**.
+Publication **9 — `வேதனைச் சிறையினின்றும் விடுதலை பெற` — is ACTIVE** with P0/P1/P2/P3/P4 complete. Exact next gate: **P5 strict visual word/punctuation fidelity**.
 
 Source PDFs are never committed.
 
@@ -19,9 +19,10 @@ Source PDFs are never committed.
 2. read `ESSAY_PROCESSING_GUIDE.md`;
 3. read `docs/FUTURE_WORK_GUIDELINES.md`;
 4. read this handover and `docs/NEXT_CHAT_PROMPT.md`;
-5. for Publication 9 read its `README.md`, `metadata/source.md`, `indexes/page-map.md`, `indexes/contents.md`, `audit.md`, all `pages/*.md`, and the P3 article assembly;
-6. read `ESSAY_TRANSLATION_GUIDE.md` only when English work becomes in scope after Tamil freeze;
-7. preserve released/frozen Publications 1–8 unless controlling-source evidence proves a genuine defect or the user explicitly requests a targeted correction.
+5. for Publication 9 read its `README.md`, `metadata/source.md`, `indexes/page-map.md`, `indexes/contents.md`, `audit.md`, `SOURCE_COMPLETENESS_AUDIT.md`, all `pages/*.md`, and the P3 article assembly;
+6. resolve/attach the controlling source before P5 source-level visual work;
+7. read `ESSAY_TRANSLATION_GUIDE.md` only when English work becomes in scope after Tamil freeze;
+8. preserve released/frozen Publications 1–8 unless controlling-source evidence proves a genuine defect or the user explicitly requests a targeted correction.
 
 ---
 
@@ -96,16 +97,38 @@ P3 result:
 - P3 changes to P2 wording: **0**;
 - unresolved P3 body-text blocks: **0**.
 
+## P4 source/completeness audit — COMPLETE / PASS
+
+Canonical record:
+
+`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/SOURCE_COMPLETENESS_AUDIT.md`
+
+P4 confirmed:
+
+- source inventory: **8 / 8 physical scans represented**;
+- page records: **8 / 8 present, all `verified`**;
+- P3 assemblies: **1 / 1 present**;
+- body source comments: **3 → 4 → 5 → 6 → 7**, exactly once each;
+- body omission / duplication / reorder: **0 / 0 / 0**;
+- scan-7 source note outside body: **PASS**;
+- scans 1, 2 and 8 excluded from body assembly: **PASS**;
+- classification/date discipline: **PASS**;
+- active P4 `needs-review` / `blocked`: **0 / 0**;
+- unresolved body-completeness blockers: **0**;
+- Tamil page/article-body changes during P4: **0**.
+
+P4 found one stale workflow footer in `indexes/page-map.md` that still named P3 as pending. That footer and current-state documents were synchronized; this was not a source-text defect.
+
 ## Historical glyph / lexical non-regression
 
 Traditional/pre-reform glyph shapes are encoded as scan-supported underlying Tamil characters without lexical modernisation.
 
-Preserve through P4/P5 at minimum:
+Preserve and independently verify in P5 at minimum:
 
 - scan 3 `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `யானைப் பசிக்குப் போட்ட சோளப் பொறி`;
 - scan 4 `உலகு`, `யந்திரங்களாகவே`;
 - scan 5 `அறுவை சிகிச்சைகள்` versus later `அறுவைச் சிகிச்சைக்கென்று`;
-- scan 5/6 `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` — independently recheck in P5; do not silently normalise;
+- scan 5/6 `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` — **mandatory independent P5 recheck; do not silently normalise**;
 - scan 7 `முன்பியக்கம்`, `முன்பியக்கக்`;
 - source-note `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`;
 - independent cover/title-page punctuation witnesses.
@@ -116,26 +139,28 @@ Preserve through P4/P5 at minimum:
 - P1 metadata + page map + contents mapping: **COMPLETE / PASS**;
 - P2 page-level transcription: **COMPLETE / PASS — 8 / 8 VERIFIED**;
 - P3 single-text assembly: **COMPLETE / PASS — 1 / 1**;
-- P4 source/completeness audit: **NOT STARTED**;
+- P4 source/completeness audit: **COMPLETE / PASS**;
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**;
 - English: **NOT STARTED / BLOCKED until Tamil freeze**.
 
-P3 completion does not equal final P5 freeze.
+P4 completion does not equal final Tamil freeze.
 
-## Exact next activity — P4 source/completeness audit
+## Exact next activity — P5 strict visual word/punctuation fidelity
 
 When authorised:
 
-1. fetch live `main` and re-read this handover;
-2. verify the complete inventory: 8 page records + 1 canonical assembly;
-3. reconcile source identity, page map, contents mapping and publication classification;
-4. confirm scan 3 body start, scan 7 body end and scan 8 back-cover boundary;
-5. compare assembly source comments/order to scans 3–7 and confirm no omission/duplication/reorder;
-6. verify scan-7 bracketed note remains outside the message body;
-7. sweep current Publication 9 files for active TODO / `partial` / `needs-review` / `blocked` / unresolved markers;
-8. preserve the P5 non-normalisation watchlist, especially `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே`;
-9. update publication README, audit, root README, handover and next prompt;
-10. stop after P4. Do **not** run P5 or English in the same activity unless separately authorised.
+1. fetch live `main` and re-read this handover plus `SOURCE_COMPLETENESS_AUDIT.md`;
+2. resolve/attach the controlling PDF and verify its recorded identity where possible;
+3. visually inspect **all 8 physical scans**, including cover, title page, all five body scans and back cover;
+4. compare every visible word, historical glyph, word boundary/spacing, punctuation mark, heading, number/date, paragraph boundary and source-witness distinction against the canonical page record;
+5. keep print and physical-copy marks separate;
+6. independently recheck the full historical-glyph/source-form watchlist, especially `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே`;
+7. do not modernise or conventionalise a source-supported form;
+8. record every confirmed correction as old reading → source-visible reading with scan provenance;
+9. propagate confirmed page corrections to the P3 article and dependent metadata/index/readme/audit/handover records;
+10. create/update `VISUAL_TEXT_FIDELITY_REVIEW.md` with the full 8 / 8 result;
+11. only if all scans pass and blockers are 0, freeze the Tamil archival layer and then make English the next gate;
+12. stop after P5. Do not begin English in the same iteration unless the user separately authorises it after Tamil freeze.
 
 ---
 
