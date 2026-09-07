@@ -33,7 +33,7 @@ This file is therefore a **repository editorial/source map derived from source-v
 | 6 | `வாழிய வைகறை` | 34 | 35 | 33–34 | no exact pre-existing title hit returned on live-repo search |
 | 7 | `அகப்பை சித்தர்` | 36 | 38 | 35–37 | corrected source-visible title; no exact pre-existing title hit returned on live-repo search |
 | 8 | `மலையே வாழி` | 39 | 41 | 38–40 | no exact pre-existing title hit returned on live-repo search |
-| 9 | `கள்ளி` | 42 | 45 | 41–44 | no exact pre-existing title hit returned on live-repo search |
+| 9 | `தளிர்` | 42 | 45 | 41–44 | corrected source-visible title; no exact pre-existing title hit returned on live-repo search |
 | 10 | `விண்மீன்` | 46 | 48 | 45–47 | no exact pre-existing title hit returned on live-repo search |
 | 11 | `தனிமை` | 49 | 54 | 48–53 | no exact pre-existing title hit returned on live-repo search |
 | 12 | `நாடக மேடை` | 55 | 56 | 54–55 | no exact pre-existing title hit returned on live-repo search |
@@ -60,16 +60,17 @@ This file is therefore a **repository editorial/source map derived from source-v
 
 ## Source-title correction provenance
 
-Direct reinspection of the controlling scan after user review corrected two P1 heading readings without changing any unit boundary:
+Direct reinspection of the controlling scan after user review corrected three P1 heading readings without changing any unit boundary:
 
 1. scan 36 / printed p.35: `முக்கை சித்தர்` → **`அகப்பை சித்தர்`**;
-2. scan 136 / printed p.135: `மயிற்கு` → **`மயிலிறகு`**.
+2. scan 42 / printed p.41: `கள்ளி` → **`தளிர்`**;
+3. scan 136 / printed p.135: `மயிற்கு` → **`மயிலிறகு`**.
 
-The corrected titles were re-screened against live `pugazg/kalaignar-essays`; both returned no exact pre-existing title hit. Duplicate blockers therefore remain **0**.
+The corrected titles were re-screened against live `pugazg/kalaignar-essays`; all returned no exact pre-existing title hit. Duplicate blockers therefore remain **0**.
 
 ## Unit-level duplicate reconciliation
 
-P1 has screened all **26 / 26** source-visible main-unit titles against live `pugazg/kalaignar-essays`, including the two corrected source readings above.
+P1 has screened all **26 / 26** source-visible main-unit titles against live `pugazg/kalaignar-essays`, including the corrected source readings above.
 
 - exact pre-existing title hits returned: **0 / 26**;
 - possible duplicate blockers requiring merge/hold: **0**;
@@ -78,7 +79,7 @@ P1 has screened all **26 / 26** source-visible main-unit titles against live `pu
 
 Titles screened:
 
-`பிறையே`, `ஆடிக்காற்று`, `கருப்புப் பெண்`, `கடலே`, `ஆறு`, `வாழிய வைகறை`, `அகப்பை சித்தர்`, `மலையே வாழி`, `கள்ளி`, `விண்மீன்`, `தனிமை`, `நாடக மேடை`, `புகழ்`, `பச்சைக்கிளி`, `தமிழே`, `தேனலைகள்`, `தோழி`, `மருதாணி`, `அருவி`, `முறம்`, `யாழ்`, `சிற்பி`, `சேவல் சண்டை`, `மடல்`, `ஆண்டு விழா`, `மயிலிறகு`.
+`பிறையே`, `ஆடிக்காற்று`, `கருப்புப் பெண்`, `கடலே`, `ஆறு`, `வாழிய வைகறை`, `அகப்பை சித்தர்`, `மலையே வாழி`, `தளிர்`, `விண்மீன்`, `தனிமை`, `நாடக மேடை`, `புகழ்`, `பச்சைக்கிளி`, `தமிழே`, `தேனலைகள்`, `தோழி`, `மருதாணி`, `அருவி`, `முறம்`, `யாழ்`, `சிற்பி`, `சேவல் சண்டை`, `மடல்`, `ஆண்டு விழா`, `மயிலிறகு`.
 
 ## Boundary / pagination checks
 
