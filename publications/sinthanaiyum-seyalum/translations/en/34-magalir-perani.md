@@ -63,7 +63,7 @@ In the motherland, is it right? Is it proper? to stand as a stumbling block befo
 
 They praise to the skies the Ardhanarishvara philosophy of half man and half woman; can they not come forward to support at least 33 per cent for women, if not 50 per cent?
 
-There is no need even to praise and applaud the great rally, the first in all-India political history according to this account, in which three lakh women alone participated. At least understand the feeling in that voice of rights, and realise that it is the great duty of those born from a woman's womb to struggle so that the women's-rights battle begun by Periyar may, in Anna's path, achieve a great victory! Realise it—and act!
+There is no need even to praise and applaud the great rally, the first in all-India political history, in which three lakh women alone participated. At least understand the feeling in that voice of rights, and realise that it is the great duty of those born from a woman's womb to struggle so that the women's-rights battle begun by Periyar may, in Anna's path, achieve a great victory! Realise it—and act!
 
 22 - 9 - 2005
 
