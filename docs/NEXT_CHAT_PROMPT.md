@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — வேதனைச் சிறையினின்றும் விடுதலை பெற / P5 strict visual fidelity
+# NEXT CHAT PROMPT — வேதனைச் சிறையினின்றும் விடுதலை பெற / E0 English translation setup
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -10,98 +10,82 @@ Fetch live `main` first and preserve newer durable work. Root `HANDOVER.md` is t
 
 Publications **1–8 are RELEASE COMPLETE / FROZEN**. Do not reopen them because an older copied prompt contains a stale boundary.
 
-## Controlling source
+Publication 9 Tamil is now **COMPLETE / STRICT-REVIEWED / FROZEN**. Do not modify the frozen Tamil layer during English setup unless a genuinely new source-supported defect is discovered and explicitly documented.
 
-**Attach/resolve before P5 visual work:**
+## Frozen Tamil authority
 
-`TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf`
+Canonical strict-reviewed article:
 
-Recorded identity:
+`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
 
-- source ID `TVA_BOK_0064064`;
-- SHA-256 `d6429304ca8e53324e41fbe6695a31d1411b12ec5e04bf5a35d8cc8a51d06651`;
-- **11,408,976 bytes**;
-- **8 physical scans**;
-- image-only / no PDF text layer;
-- source PDF is not committed.
+Expected frozen blob SHA when this prompt was prepared:
+
+`1c5870212186b2bf7ff095b245e15cd875de76f0`
+
+Fetch live `main` and confirm this blob before English work. If the blob has advanced, inspect the newer durable state rather than blindly using the older SHA.
 
 ## Mandatory startup
 
-Read completely before changing Publication 9:
+Read completely before changing Publication 9 English state:
 
 1. `ESSAY_PROCESSING_GUIDE.md`;
-2. `docs/FUTURE_WORK_GUIDELINES.md`;
-3. root `HANDOVER.md`;
-4. this prompt;
-5. publication `README.md`;
-6. `metadata/source.md`;
-7. `indexes/page-map.md`;
-8. `indexes/contents.md`;
-9. `audit.md`;
-10. `SOURCE_COMPLETENESS_AUDIT.md`;
-11. page records `pages/0001-cover.md` through `pages/0008-back-cover.md`;
-12. `articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`.
+2. `ESSAY_TRANSLATION_GUIDE.md`;
+3. `docs/FUTURE_WORK_GUIDELINES.md`;
+4. root `HANDOVER.md`;
+5. this prompt;
+6. publication `README.md`;
+7. `metadata/source.md`;
+8. `SOURCE_COMPLETENESS_AUDIT.md`;
+9. `VISUAL_TEXT_FIDELITY_REVIEW.md`;
+10. frozen Tamil article `articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`.
 
-English translation is not yet in scope; do not start it before Tamil P5 freeze.
+Do not translate from OCR, raw PDF, web text, remembered wording, or a pre-P5 transcription. The frozen strict-reviewed Tamil assembly is the English authority.
 
-## Durable state
+## Durable Tamil state
 
 - P0: **COMPLETE / PASS**;
 - P1: **COMPLETE / PASS**;
 - P2: **COMPLETE / PASS — 8 / 8 VERIFIED**;
 - P3: **COMPLETE / PASS — 1 / 1 assembly**;
 - P4: **COMPLETE / PASS**;
-- P5: **NOT STARTED**;
-- English: **NOT STARTED / BLOCKED until Tamil freeze**.
+- P5: **COMPLETE / PASS — 8 / 8 directly rechecked**;
+- unresolved Tamil fidelity discrepancies: **0**;
+- Tamil workflow blockers: **0**;
+- Tamil archival layer: **COMPLETE / STRICT-REVIEWED / FROZEN**.
 
-Canonical P4 record:
+P5 correction record:
 
-`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/SOURCE_COMPLETENESS_AUDIT.md`
+- scan 2: `பெற........!` → `பெற..........!` — 10 printed dots before `!`;
+- scan 7: `வெற்றிக் கனியினைக்` → `வெற்றிக்கனியினைக்`, propagated to the frozen article.
 
-P4 confirmed 8 / 8 canonical page records, 1 / 1 assembly, body order 3 → 4 → 5 → 6 → 7, source comments exactly once and ordered, 0 omission/duplication/reorder, scan-7 source-note separation, required exclusions, classification/date discipline and 0 completeness blockers. P4 changed no Tamil page text or article body.
+P5 independently confirmed source forms including `நாடாளு மன்றத்தில்`, `நாடாளு மன்றமே`, `எங்கணும்`, `உறையுள்`, `உலகு`, `யந்திரங்களாகவே`, `முன்பியக்கம்` and `முன்பியக்கக்`. Do not conventionalise these in the Tamil layer.
 
-## Source classification / date discipline
+## Translation policy reminders
 
-Printed p.7 identifies this as a `செய்தி`, not `பேச்சு` / `உரை`, issued during the `குடும்ப நலத்திட்ட இருவார விழா` that began on **15 December 1975**.
+Follow `ESSAY_TRANSLATION_GUIDE.md`:
 
-- fortnight/event start: source-supported;
-- exact message date: **not separately stated**;
-- publication date: **not separately stated**.
+- translate the language; do not neutralise Kalaignar's voice;
+- preserve rhetorical questions, directness, repetitions, exclamations and dashes;
+- do not soften accusations or polemical force;
+- preserve paragraph completeness;
+- retain ordered source-page comments for traceability;
+- record culturally loaded / recurring terms in the living lexicon;
+- normal English spacing may be used, but rhetorically meaningful punctuation and quotation structure must be preserved;
+- no Tamil source change may be made merely to simplify translation.
 
-Do not silently assign 15 December 1975 as the exact message/publication date.
+Permanent repository rule: exact Tamil `உடன்பிறப்பே` → English `Udanpirappē`; direct salutation `Udanpirappē,`.
 
-## Historical Tamil glyph / lexical non-regression
+## Exact next activity — E0 / T0 setup only
 
-Traditional/pre-reform glyph shapes were resolved during P2 to underlying source-supported Tamil characters. P5 must now independently recheck them from the controlling scan rather than trusting P2 by inertia.
+Perform English setup before drafting the body:
 
-High-attention witnesses:
-
-- scan 1 / scan 2: independent title punctuation witnesses;
-- scan 3: `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `யானைப் பசிக்குப் போட்ட சோளப் பொறி`;
-- scan 4: `உலகு`, `யந்திரங்களாகவே`;
-- scan 5: `அறுவை சிகிச்சைகள்` versus later `அறுவைச் சிகிச்சைக்கென்று`;
-- scan 5/6: `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` — **mandatory independent P5 recheck**;
-- scan 7: `முன்பியக்கம்`, `முன்பியக்கக்`;
-- scan 7 source note: `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`;
-- scan 8: exact printer line.
-
-Do not modernise or conventionalise a form because it looks unusual. The source pixels decide.
-
-## Exact next activity — P5 strict visual word/punctuation fidelity
-
-Perform **P5 over all 8 scans**:
-
-1. re-open each physical scan 1–8 directly;
-2. compare every visible printed word, historical glyph, word boundary/spacing, punctuation mark, quotation mark, heading, date, number and paragraph boundary against its canonical page record;
-3. confirm physical-copy marks, wear, stains and show-through remain outside printed prose;
-4. independently verify cover/title-page punctuation and scan-8 printer witness;
-5. on body scans 3–7, compare every line and page transition, not only the watchlist;
-6. explicitly resolve/classify `நாடாளு மன்றத்தில்` and `நாடாளு மன்றமே` from source pixels;
-7. record every confirmed correction as **old reading → source-visible reading**, with scan provenance;
-8. do not silently normalise genuine source wording or historical spelling;
-9. if a page record changes, propagate the confirmed correction to the P3 article assembly and dependent metadata/index/README/audit/handover records;
-10. create `VISUAL_TEXT_FIDELITY_REVIEW.md` (or update it if live `main` already contains one) with the full **8 / 8** scan result, corrections, unresolved discrepancies, `needs-review`/blocked count and final gate decision;
-11. only if all 8 scans pass and unresolved fidelity blockers are 0, mark Tamil P5 **COMPLETE / PASS / FROZEN**;
-12. after Tamil freeze, English becomes the next gate, but **do not start English in the same iteration unless the user separately authorises it**.
-
-Current P5 count entering this activity: **0 / 8**.
+1. confirm live frozen Tamil article path and blob SHA;
+2. create `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/` if absent;
+3. create/update `translations/en/README.md` with workflow state and gate tracker;
+4. create/update `translations/en/LEXICON.md` with publication-specific recurring terms / difficult expressions and provisional translation choices where justified by the frozen Tamil;
+5. create/update `translations/en/TRANSLATION_REVIEW.md` with the translation-review ledger / gate structure;
+6. establish the future English article filename and metadata shape, including Tamil title, English title, source Tamil path, source Tamil blob SHA, scan/printed-page provenance and `translation_status`;
+7. record **T0 source prerequisite = PASS** only after confirming the frozen strict-reviewed Tamil authority and its live blob SHA;
+8. identify translation-risk passages that require extra care in T1/T2 without changing the Tamil source;
+9. update publication/root status documents and this prompt so **T1 close draft** becomes the exact next activity;
+10. stop after E0/T0 setup. Do **not** draft the English body in the same activity unless the user separately authorises T1.
