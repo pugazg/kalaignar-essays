@@ -58,21 +58,29 @@ Controlling scan 76 demonstrated `அதற்குக் காரணமான
 
 Reopen this Tamil layer only for a genuine defect demonstrated by controlling scan pixels.
 
-## Downstream English status after E6
+## Downstream English release result
 
-English work has not altered the frozen Tamil authority.
+English work did not alter the frozen Tamil authority.
 
-- Articles **1–50**: **T0–T5 PASS / VERIFIED**;
+- Articles 1–50: **T0–T5 PASS / VERIFIED**;
 - verified English: **50 / 50**;
-- **E6: COMPLETE / PASS**;
-- E7: **NOT STARTED**;
+- E6: **COMPLETE / PASS**;
+- E7: **COMPLETE / PASS**;
 - E6 source-pin check: **50 / 50 MATCH**;
 - E6 ordered source-comment check: **208 / 208 PASS** for scans 18–225;
-- current English blockers: **0**;
-- Tamil changes caused by E6: **0**.
+- English blockers at release: **0**;
+- Tamil changes caused by E6: **0**;
+- Tamil changes caused by E7: **0**.
 
-E6 added only missing `contents_title_ta` metadata to English Articles 1–10. That work preserved the source-witness distinctions above and did not change article prose or source comments.
+E6 added only missing `contents_title_ta` metadata to English Articles 1–10. E7 made no English article-body changes; it reconciled release documentation/links and froze the publication.
 
-Canonical E6 record: [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSISTENCY_REVIEW.md).
+Canonical English release records:
 
-**Exact next downstream activity: E7 release closeout.**
+- [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSISTENCY_REVIEW.md)
+- [`translations/en/E7_RELEASE_CLOSEOUT.md`](translations/en/E7_RELEASE_CLOSEOUT.md)
+
+# RELEASE STATUS
+
+**சிந்தனையும் செயலும்: RELEASE COMPLETE / FROZEN.**
+
+The Tamil source layer remains controlling authority. Do not reopen the publication from a stale prompt or for normalization; reopen only for controlling-scan proof of a genuine defect or explicit user direction.
