@@ -20,63 +20,56 @@ Source PDFs repository-யில் commit செய்யப்படாது.
 
 Publications **1–9 are COMPLETE / FROZEN / RELEASED** in their established Tamil/English workflows.
 
-### Publication 8 — சிந்தனையும் செயலும்
-
-**RELEASE COMPLETE / FROZEN.** Tamil P0–P5 complete/re-frozen; English T0–T5 **50 / 50 PASS**; E6/E7 **PASS**; blockers **0**.
-
 ### Publication 9 — வேதனைச் சிறையினின்றும் விடுதலை பெற
 
 Workspace: [`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/)
 
-**RELEASE COMPLETE / FROZEN.**
+**RELEASE COMPLETE / FROZEN.** Tamil P0–P5 complete/frozen; English T0–T5 verified; E6/E7 PASS; blockers 0.
 
-- controlling source: `TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf`;
-- source SHA-256: `d6429304ca8e53324e41fbe6695a31d1411b12ec5e04bf5a35d8cc8a51d06651`;
-- physical scans: **8**;
-- source type: **image-only government public-message pamphlet**;
-- Tamil P0–P5: **COMPLETE / PASS / FROZEN**;
-- Tamil P5 scans: **8 / 8 PASS**;
-- frozen Tamil authority: [`articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md) — blob `1c5870212186b2bf7ff095b245e15cd875de76f0`;
-- English title: **Freedom from the Prison of Suffering**;
-- English T0–T5: **1 / 1 PASS / VERIFIED**;
-- released English authority: [`translations/en/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md) — blob `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`;
-- E6: **COMPLETE / PASS**;
-- E7: **COMPLETE / PASS / RELEASE COMPLETE**;
-- unresolved Tamil blockers: **0**;
-- unresolved English/release blockers: **0**.
+Frozen Tamil blob: `1c5870212186b2bf7ff095b245e15cd875de76f0`.  
+Released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
-English gate history:
+### Publication 10 — மீசை முளைத்த வயதில்
 
-- T1 `9a1f1fcc60104b561909380addbcbae422688fb2`;
-- T2 `5377b7b90f87247dc910741b92244772a07bdf56`;
-- T3 `df9750cfc46ac1f3519ff2d40bbe8bb3b69073a6`;
-- T4 `943be32674cb3952c655f6bfed9f8b1fc0410969`;
-- T5 verified/released `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`;
-- E6 **PASS / COMPLETE**;
-- E7 **PASS / RELEASE COMPLETE**.
+Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mulaiththa-vayathil/)
 
-Canonical records:
+**P0 SOURCE INTAKE COMPLETE / PASS — P1 NEXT.**
 
-- [`SOURCE_COMPLETENESS_AUDIT.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/SOURCE_COMPLETENESS_AUDIT.md)
-- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/VISUAL_TEXT_FIDELITY_REVIEW.md)
-- [`TRANSLATION_PLAN.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/TRANSLATION_PLAN.md)
-- [`translations/en/LEXICON.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/LEXICON.md)
-- [`translations/en/TRANSLATION_REVIEW.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/TRANSLATION_REVIEW.md)
-- [`translations/en/E6_CONSISTENCY_REVIEW.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/E6_CONSISTENCY_REVIEW.md)
-- [`translations/en/E7_RELEASE_CLOSEOUT.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/translations/en/E7_RELEASE_CLOSEOUT.md)
+- controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
+- source SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
+- file size: **374,123,900 bytes**;
+- physical scans: **146**;
+- source form: **image-only multi-piece youthful literary/prose collection**;
+- source self-description for the gathered pieces: **`எழுத்தோவியங்கள்`**;
+- title: `மீசை முளைத்த வயதில்`;
+- author: `கலைஞர் மு.கருணாநிதி`;
+- publisher: `தமிழ்க்கனி பதிப்பகம்`;
+- first-edition witness: `கலைஞர் பிறந்த நாள் 3.6.2002`;
+- supplied edition: **இரண்டாம் பதிப்பு — அக்டோபர் 2006**;
+- printed price: `ரூ.70/-`;
+- scan 18 begins first main unit `பிறையே` at printed p.17;
+- scan 145 is printed p.144 / body close;
+- scan 146 is back cover;
+- exact title/source-ID duplicate in live `kalaignar-essays`: **none found**;
+- representative early-unit duplicate searches: **none found**;
+- P0 blockers: **0**;
+- English: **BLOCKED until Tamil P5 freeze**.
 
-E7 confirmed the frozen Tamil and verified English blobs were unchanged from the E6 baseline, the English source pin still matched the Tamil authority, post-E6 body/metadata drift was **0 / 0**, Tamil changes were **0**, and release blockers were **0**.
+Canonical P0 records:
 
-P5 source-supported corrections remain frozen: scan 2 `பெற........!` → `பெற..........!`; scan 7 `வெற்றிக் கனியினைக்` → `வெற்றிக்கனியினைக்`. P5-confirmed unusual Tamil forms such as `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` remain unchanged.
+- [`metadata/source.md`](publications/meesai-mulaiththa-vayathil/metadata/source.md)
+- [`audit.md`](publications/meesai-mulaiththa-vayathil/audit.md)
+
+## Current repository boundary
+
+Publication 10 is active at **P0 COMPLETE / PASS**.
+
+Exact next activity: **P1 — map all 146 physical scans, verify printed-page behaviour, enumerate every source-visible internal text unit, complete unit-level duplicate reconciliation, and create `indexes/page-map.md` plus `indexes/contents.md`.**
+
+Do not begin P2 full transcription in the same activity unless separately authorised.
 
 ### Permanent `உடன்பிறப்பே` rule
 
 Every exact source `உடன்பிறப்பே` is retained as **`Udanpirappē`** in English; direct salutation **`Udanpirappē,`**.
-
-## Current repository boundary
-
-Publications **1–9 are RELEASE COMPLETE / FROZEN**. No further Publication 9 activity is pending absent a genuine source-supported or release-blocking defect.
-
-Exact next project activity: **intake/onboarding of the next supplied Kalaignar essay/article publication**.
 
 Live `main` and root [`HANDOVER.md`](HANDOVER.md) remain authoritative.
