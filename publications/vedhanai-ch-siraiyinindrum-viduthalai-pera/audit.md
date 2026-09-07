@@ -98,18 +98,78 @@ P3 checks:
 
 P3 is an assembly gate, not the independent strict P5 scan re-audit.
 
+## P4 — source / completeness audit
+
+**PASS / COMPLETE.**
+
+Canonical P4 record:
+
+[`SOURCE_COMPLETENESS_AUDIT.md`](SOURCE_COMPLETENESS_AUDIT.md)
+
+P4 reconciled the full source inventory, all canonical page records, the P3 assembly, boundaries, exclusions, source-note handling, classification/date discipline and workflow-marker state.
+
+### P4 inventory / structure
+
+- physical source scans: **8 / 8 represented** — PASS;
+- canonical P2 page records: **8 / 8 present, all `verified`** — PASS;
+- canonical P3 assemblies: **1 / 1** — PASS;
+- extra / duplicate assemblies: **0** — PASS;
+- source reading order: **1 → 2 → 3 → 4 → 5 → 6 → 7 → 8** — PASS;
+- body start / close: **scan 3 / scan 7** — PASS;
+- scan 8 back-cover/printer boundary — PASS.
+
+### P4 assembly reconciliation
+
+The P3 body was reconciled against the P2 `# அச்சு உரை` sections for scans 3–7.
+
+- ordered `<!-- Tamil source: scan ... -->` comments: **3 → 4 → 5 → 6 → 7**, exactly once each — PASS;
+- omitted body scan: **0**;
+- duplicated body scan: **0**;
+- reordered body boundary: **0**;
+- P3 lexical/body rewrite relative to P2: **0 found**;
+- unresolved body-completeness blocks: **0**.
+
+### P4 exclusions / source-note discipline
+
+- scan 1 cover/portrait/creator matter excluded from message body — PASS;
+- scan 1 later blue library stamp excluded from source prose — PASS;
+- scan 2 title-page/issuing-body matter excluded from message body — PASS;
+- scan 7 bracketed source/occasion note kept outside the Chief Minister's message body — PASS;
+- scan 8 printer/back-cover matter excluded from message body — PASS;
+- physical-copy ageing/staining/show-through excluded from source prose — PASS.
+
+The scan-7 date remains the source-supported **fortnight start**, not an inferred exact message/publication date.
+
+### P4 open-marker sweep
+
+- active `TODO`: **0**;
+- active page `partial`: **0**;
+- active page `needs-review`: **0**;
+- active page `blocked`: **0**;
+- P4 source/completeness blockers: **0**.
+
+One stale documentation footer was found in `indexes/page-map.md`: it still said P3 was not started and named P3 as next. The structural map itself was correct. P4 synchronized the footer and current-state records; **Tamil page text changes: 0; article-body text changes: 0**.
+
+### P4 deferred P5 witnesses
+
+P4 intentionally does not settle lexical/glyph questions reserved for P5. In particular, preserve and independently recheck `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே`, along with the full established historical-glyph/source-form watchlist.
+
 ## Current gate state
 
 - P0: **COMPLETE / PASS**
 - P1: **COMPLETE / PASS**
 - P2: **COMPLETE / PASS — 8 / 8 VERIFIED**
 - P3: **COMPLETE / PASS — 1 / 1**
-- P4: **NOT STARTED**
+- P4: **COMPLETE / PASS**
 - P5: **NOT STARTED**
 - English: **NOT STARTED / BLOCKED until Tamil freeze**
 
+P4 completion does **not** equal final Tamil freeze.
+
 ## Exact next activity
 
-**P4 — source/completeness audit.**
+**P5 — strict visual word/punctuation fidelity over all 8 physical scans.**
 
-P4 must reconcile all 8 page records, the single P3 assembly, source boundaries, metadata/page-map/contents records, the scan-7 source-note separation, non-normalisation watchlist, and any active TODO/partial/needs-review/blocker state. Stop after P4; do not run P5 or English unless separately authorised.
+P5 must re-open the controlling source and independently compare every visible printed word, historical glyph, word boundary/spacing, punctuation mark, heading, date, number, paragraph continuation, physical-copy exclusion and independent source witness against the canonical page records. Any confirmed correction must be propagated to the P3 assembly and durable records with provenance.
+
+Pay particular attention to `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே`. Do not begin English until P5 passes and the Tamil authority is frozen.
