@@ -3,7 +3,7 @@
 Publication: `வேதனைச் சிறையினின்றும் விடுதலை பெற`  
 English workflow authority: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TRANSLATION_GUIDE.md)
 
-## Article 1
+## Article 1 authority
 
 Tamil title: `வேதனைச் சிறையினின்றும் விடுதலை பெற`  
 English title: **Freedom from the Prison of Suffering**  
@@ -12,61 +12,72 @@ Frozen Tamil blob SHA: `1c5870212186b2bf7ff095b245e15cd875de76f0`
 Source scans: **3–7**  
 Printed pages: **scan 3 unnumbered; scans 4–7 visibly 4–7**
 
-## E0 / T0 ledger
+## E0 / T0
 
-### E0 — translation planning/setup
-
-**COMPLETE / PASS.** English tracking, lexicon and review scaffolding were initialized without drafting the body.
-
-### T0 — source prerequisite
-
-**PASS — 1 / 1.** The live canonical Tamil article was confirmed `strict-reviewed` at blob `1c5870212186b2bf7ff095b245e15cd875de76f0`, with P5 8/8 PASS and 0 Tamil blockers.
+- **E0: PASS** — English workspace initialized without body drafting.
+- **T0: PASS — 1 / 1** — live Tamil authority confirmed `strict-reviewed`, P5 8/8 PASS, blockers 0.
 
 ## T1 — close English draft
 
 **COMPLETE / PASS.**
 
-Created `01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md` from the frozen Tamil authority only.
-
 T1 draft blob: `9a1f1fcc60104b561909380addbcbae422688fb2`.
 
-T1 preserved the complete paragraph sequence, all five source comments, the scan-7 source-note boundary, the title/prison metaphor, child-production and machine metaphors, the elephant/sorghum image, the scan-6 dash sequence, snail imagery, the closing harvest metaphor, and all source-controlled dates/numbers.
+The complete message was translated paragraph by paragraph; all five source comments and the separated scan-7 source note were retained. The central prison metaphor, child-production/machine metaphors, elephant/sorghum image, scan-6 cumulative dash structure, snail image and closing harvest metaphor were preserved.
 
 ## T2 — bilingual fidelity review
 
 **COMPLETE / PASS.**
 
-T2 re-read the complete frozen Tamil and English side by side. Final T2 English blob:
+Final T2 blob: `5377b7b90f87247dc910741b92244772a07bdf56`.
 
-`5377b7b90f87247dc910741b92244772a07bdf56`
+T2 corrections included:
 
-### T2 corrections from the T1 draft
+1. `observed` → `celebrated` for `கொண்டாடப்பட்டு இருக்கிறது`;
+2. restored explicit `funds` in the crores sentence;
+3. `The one way` → `The only way` for `ஒரே வழி`;
+4. tightened Tamil Nadu's paired concern/success clause;
+5. `operations` → `surgical procedures` in the target sentence;
+6. repaired the two scan-5 funding/action transitions so English did not invent a false causal relation;
+7. restored the successive-obstacles sense;
+8. `within limits` → `at a moderate level` for `ஓரளவில் இருக்குமாறு`.
 
-1. scan 3 opening observance: `is being observed` → **`is being celebrated`**, restoring the source force of `கொண்டாடப்பட்டு இருக்கிறது`;
-2. scan 3 expenditure sentence: restored the explicit **funds** object in `crores upon crores of funds`;
-3. scan 4 central metaphor sentence: `The one way` → **`The only way`**, restoring `ஒரே வழி`;
-4. scan 4 Tamil Nadu performance sentence tightened to preserve the paired source action: **shown great concern / achieved commendable success**;
-5. scan 5 first surgery reference: `operations` → **`surgical procedures`**, avoiding an unnecessarily broad English reading;
-6. scan 5 first funding transition: `Even so` → **`Yet on that account`**, preserving the relation to the preceding funding cuts;
-7. scan 5 following action sentence: `For that reason` → **`Even so`**, preventing a false causal claim while retaining the contrast that the source makes;
-8. scan 5 obstacles sentence restored explicit successive confrontation: **`so many obstacles have confronted us one after another`**;
-9. scan 6 hypothetical population sentence: `within limits` → **`at a moderate level`**, more closely preserving `ஓரளவில் இருக்குமாறு`.
+T2 final checks: omissions **0**; added claims **0**; dates/numbers changed **0**; lost negatives/comparisons **0**; source comments **5/5**; source-note boundary **PASS**; unresolved fidelity defects **0**.
 
-### T2 completeness / logic checks
+## T3 — Kalaignar voice review
 
-- omitted Tamil paragraphs: **0**;
-- omitted clauses: **0**;
-- added factual claims: **0**;
-- dates/numbers changed: **0**;
-- negatives/comparisons lost: **0**;
-- rhetorical questions retained: **2 / 2** (`Do you know why?` plus the settlement/purpose question sequence);
-- source comments retained: **5 / 5**;
-- scan-7 source/occasion note remains outside the message body: **PASS**;
-- source note date discipline: **PASS** — December 15, 1975 remains the fortnight start, not a newly invented exact message/publication date;
-- frozen Tamil changes during T2: **0**;
-- unresolved fidelity defects: **0**.
+**COMPLETE / PASS.**
 
-## Current terminology decisions after T2
+T3 English blob: `df9750cfc46ac1f3519ff2d40bbe8bb3b69073a6`.
+
+T3 preserved T2 meaning while restoring force and cadence where English had become unnecessarily bureaucratic or flat.
+
+### T3 voice refinements
+
+- `wreaks a cruelty` → **`inflicts a cruelty`** while retaining the flood comparison and shock;
+- `with splendour and uplift` → **`with grace and uplift`** to keep the compact paired cadence;
+- country-response sentence made more direct: **`There seems to be no country at all that has not...`**;
+- United Nations sentence tightened without removing the source-driving dash;
+- women's-rights sentence strengthened to **`we cannot proudly say`**;
+- successive-obstacles sentence strengthened to **`assailed us one after another`** and `முழுமூச்சுடன்` carried as **`throwing itself wholeheartedly`** into driving the programme forward;
+- Tamil Nadu Government conclusion strengthened from abstract `complete faith` to **`is fully convinced`**;
+- `complete progress` → **`overall progress`** while preserving the unity contrast;
+- `I am filled with confidence` → **`I have every confidence`**;
+- closing `வேண்டிக் கொள்கிறேன்` rendered as **`I appeal to the public`**, retaining the direct closing request.
+
+### T3 voice checks
+
+- rhetorical questions remain questions: **PASS**;
+- commands/appeals remain direct: **PASS**;
+- exclamation-driven emphasis retained: **PASS**;
+- deliberate dashes retained where they drive accumulation/contrast: **PASS**;
+- vivid source images abstracted away: **0**;
+- harsh child-production/machine imagery softened: **0**;
+- explanatory academic framing inserted: **0**;
+- frozen Tamil changes during T3: **0**;
+- unresolved voice blockers: **0**.
+
+## Current terminology decisions
 
 - `குடும்ப நலத்திட்டம்` → **Family Welfare Programme**;
 - `குடும்ப நலத்திட்ட இருவார விழா` → **Family Welfare Programme Fortnight**;
@@ -77,22 +88,20 @@ T2 re-read the complete frozen Tamil and English side by side. Final T2 English 
 - `நாடாளு மன்றத்தில்` → **in Parliament**; `நாடாளு மன்றமே` → **Parliament itself**;
 - `வெற்றிக்கனியினைக் கொய்திட` → **reap the fruit of success**.
 
-These are English renderings only; the frozen source-confirmed Tamil forms remain untouched.
-
 ## Gate tracker
 
-| Gate | Result / status | Corrections / notes |
+| Gate | Result / status | Authority / note |
 |---|---|---|
-| E0 | **PASS** | setup only |
-| T0 | **PASS** | frozen Tamil blob confirmed live |
-| T1 | **PASS** | full draft blob `9a1f1fcc60104b561909380addbcbae422688fb2` |
-| T2 | **PASS** | fidelity-reviewed blob `5377b7b90f87247dc910741b92244772a07bdf56` |
-| T3 | **NEXT** | Kalaignar voice review |
-| T4 | **NOT STARTED** | terminology / quotation / citation audit |
+| E0 | **PASS** | setup |
+| T0 | **PASS** | frozen Tamil confirmed |
+| T1 | **PASS** | `9a1f1fcc60104b561909380addbcbae422688fb2` |
+| T2 | **PASS** | `5377b7b90f87247dc910741b92244772a07bdf56` |
+| T3 | **PASS** | `df9750cfc46ac1f3519ff2d40bbe8bb3b69073a6` |
+| T4 | **NEXT** | terminology / quotation / citation audit |
 | T5 | **NOT STARTED** | final article verification |
-| E6 | **NOT STARTED** | publication-level consistency review |
+| E6 | **NOT STARTED** | publication consistency review |
 | E7 | **NOT STARTED** | release closeout |
 
 ## Exact next activity
 
-**T3 — Kalaignar voice review.** Preserve the T2-complete meaning while checking directness, force, imagery, repetition, exclamation, dash cadence, question form and whether any sentence has become needlessly bureaucratic or politely softened.
+**T4 — terminology / quotation / citation audit.** Check the living lexicon, source-bearing labels, quoted phrases, all dates/numbers, five source comments, scan-7 note boundary, title consistency, source abbreviation handling and punctuation/source anomalies. Do not reopen the frozen Tamil layer.
