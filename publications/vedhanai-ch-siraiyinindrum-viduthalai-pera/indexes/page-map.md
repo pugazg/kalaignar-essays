@@ -26,21 +26,36 @@ Physical scan order is publication reading order:
 - body ends: **scan 7**;
 - body physical scans: **5**;
 - one textual unit only;
-- no printed contents page and no second article/message heading is visible.
+- no printed contents page and no second article/message heading is visible;
+- scan 7 bracketed source/occasion note is printed matter **outside** the message body;
+- scan 8 is back-cover/printer matter and is excluded from the body assembly.
 
-## Source-witness notes preserved by P2
+## Canonical P3 assembly
+
+[`../articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`](../articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md)
+
+- body source sequence: **3 → 4 → 5 → 6 → 7**;
+- ordered source-boundary comments: **5 / 5 PASS**;
+- omitted / duplicated / reordered body scans: **0 / 0 / 0**;
+- bracketed scan-7 source note: **outside message body — PASS**.
+
+## Source-witness notes preserved through P4
 
 - scan 1 cover and scan 2 title page share the lexical title but retain different final punctuation treatment;
 - scan 3 remains without an inferred printed folio;
 - scan 7 bracketed source/occasion note remains separate from the message body;
 - scan 8 preserves the printer witness;
-- traditional/pre-reform glyph shapes were resolved to scan-supported underlying Tamil characters without modernising source wording.
+- traditional/pre-reform glyph shapes are resolved to scan-supported underlying Tamil characters without modernising source wording;
+- `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` remain queued for independent P5 visual recheck.
 
 ## Current state
 
 - P1 page mapping: **COMPLETE / PASS**
 - P2 page transcription: **8 / 8 VERIFIED / COMPLETE**
-- P3 single-text assembly: **NOT STARTED**
-- P4/P5: **NOT STARTED**
+- P3 single-text assembly: **1 / 1 COMPLETE / PASS**
+- P4 source/completeness audit: **COMPLETE / PASS**
+- P5 strict visual word/punctuation fidelity: **NOT STARTED**
 
-Exact next activity: **P3 — assemble the single message body from verified P2 scans 3–7, preserving ordered scan-boundary comments and keeping the scan-7 bracketed source note outside the body.**
+Canonical P4 record: [`../SOURCE_COMPLETENESS_AUDIT.md`](../SOURCE_COMPLETENESS_AUDIT.md).
+
+Exact next activity: **P5 — strict visual word/punctuation fidelity over all 8 physical scans.**
