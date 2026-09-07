@@ -24,7 +24,7 @@ Publications **1–7 are COMPLETE / FROZEN / RELEASED** in their established Tam
 
 Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seyalum/)
 
-**TAMIL ARCHIVAL COMPLETE / RE-FROZEN — ENGLISH TRANSLATION ACTIVE.**
+**TAMIL ARCHIVAL COMPLETE / RE-FROZEN — ALL 50 ENGLISH ARTICLES T5 VERIFIED — E6/E7 PENDING.**
 
 - controlling source: `TVA_BOK_0065568`, **226 scans** in five transfer PDFs;
 - Tamil P0–P5: **COMPLETE / STRICT-REVIEWED / RE-FROZEN**;
@@ -34,20 +34,19 @@ Workspace: [`publications/sinthanaiyum-seyalum/`](publications/sinthanaiyum-seya
 - P5: **226 / 226 PASS**;
 - unresolved Tamil/source discrepancies: **0**;
 - English E0: **PASS / COMPLETE**;
-- T0–T5: **36 / 50 PASS at every gate**;
-- verified English: **36 / 50**;
+- T0–T5: **50 / 50 PASS at every gate**;
+- verified English: **50 / 50**;
 - drafts: **0 / 50**;
 - blockers: **0**;
-- E6/E7: **NOT STARTED**.
+- E6: **NOT STARTED**;
+- E7: **NOT STARTED**.
 
-Verified English currently covers Articles **1–36**, from **Moss and Dust!** through **Don't Look for a Matchstick!**. The latest ten-article iteration, Articles 27–36, passed T0–T5 with **42 / 42 ordered source comments**, **0 blockers**, and **0 Tamil changes**.
+Verified English now covers the complete article set, Articles **1–50**, from **Moss and Dust!** through **Think, O Mind**. The final Articles 37–50 block passed T0–T5 with **67 / 67 ordered source comments**, **0 blockers**, and **0 Tamil changes**.
 
 ### Permanent `உடன்பிறப்பே` rule
 
 Every exact source `உடன்பிறப்பே` is retained as **`Udanpirappē`**; direct salutation **`Udanpirappē,`**. Never flatten it into brother/sister/sibling/Dear sibling/comrade. Related plural movement-address forms remain source-bearing.
 
-## Current repository boundary / cadence
+## Current repository boundary
 
-Article **37 (`சிலம்பும் மணியும்!`, scans 159–162) has not been started**.
-
-Per user instruction, normal continuation now processes **10 articles per iteration** where enough remain. The next prepared iteration is Articles **37–46**. Live `main` and root [`HANDOVER.md`](HANDOVER.md) remain authoritative.
+Publication 8’s article-level English translation is **COMPLETE**. The next activity is **E6 publication-wide English consistency review** across all 50 verified articles. E6 has not been started; E7 release closeout must wait until E6 passes. Live `main` and root [`HANDOVER.md`](HANDOVER.md) remain authoritative.
