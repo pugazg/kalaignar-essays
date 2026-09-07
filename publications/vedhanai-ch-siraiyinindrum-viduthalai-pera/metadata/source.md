@@ -25,7 +25,7 @@
 ### Title page — scan 2
 
 - lexical title is the same: `வேதனைச் சிறையினின்றும் விடுதலை பெற`
-- title-page punctuation uses a **longer dotted run before the final `!`** than the cover; preserve the two witnesses independently rather than normalising one from the other
+- title-page punctuation uses a visibly longer dotted run before the final `!` than the cover; preserve the two witnesses independently rather than normalising one from the other
 - creator/office witness: `தமிழ்நாடு முதல்வர் மாண்புமிகு டாக்டர் கலைஞர் மு. கருணாநிதி`
 - issuing body: `தமிழ்நாடு குடும்ப நலத்துறை வெளியீடு`
 
@@ -60,32 +60,43 @@ Duplicate checks before intake:
 - cover has surface wear/abrasion and a later library stamp;
 - body scans show light reverse-side show-through;
 - traditional/pre-reform Tamil glyph forms are used throughout the body;
-- historical glyph shapes must be resolved to the scan-supported underlying Tamil characters during transcription, while genuine source spelling/wording must **not** be modernised;
-- no major body-text loss was identified during source-intake inspection, but P2/P5 must still verify every visible line directly.
+- historical glyph shapes are resolved to the scan-supported underlying Tamil characters, while genuine source spelling/wording is **not** modernised;
+- no major body-text loss was found during P2 direct visual transcription.
 
 ## Page map summary
 
-| Scan | Printed folio | Intake classification |
-|---:|---|---|
-| 1 | — | front cover / portrait / title |
-| 2 | — | title page / creator / issuing body |
-| 3 | no visible folio | body begins |
-| 4 | 4 | body |
-| 5 | 5 | body |
-| 6 | 6 | body |
-| 7 | 7 | body close + bracketed source/occasion note |
-| 8 | — | back cover / printer line |
+| Scan | Printed folio | Role | P2 |
+|---:|---|---|---|
+| 1 | — | front cover / portrait / title | VERIFIED |
+| 2 | — | title page / creator / issuing body | VERIFIED |
+| 3 | no visible folio | body begins | VERIFIED |
+| 4 | 4 | body | VERIFIED |
+| 5 | 5 | body | VERIFIED |
+| 6 | 6 | body | VERIFIED |
+| 7 | 7 | body close + bracketed source/occasion note | VERIFIED |
+| 8 | — | back cover / printer line | VERIFIED |
 
 There is **no printed contents page**.
 
-## P0 / P1 intake status
+## P2 source-sensitive forms retained
+
+P2 deliberately preserves visible source forms rather than silently modernising them, including:
+
+- scan 3 `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `சோளப் பொறி`;
+- scan 4 `உலகு`, `யந்திரங்களாகவே`;
+- scan 5/6 `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` — retained and specifically queued for independent P5 recheck;
+- scan 7 `முன்பியக்கம்`, `முன்பியக்கக்`, and the source-note phrasing `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`.
+
+P2 is a complete direct-visual first transcription, not the later publication-wide strict P5 gate.
+
+## Current workflow status
 
 - P0 source intake / publication identification: **COMPLETE / PASS**
 - P1 metadata / page map / contents mapping: **COMPLETE / PASS**
-- P2 page-level transcription: **NOT STARTED — 0 / 8**
+- P2 page-level transcription: **8 / 8 VERIFIED / COMPLETE**
 - P3 single-text assembly: **NOT STARTED**
 - P4 source/completeness audit: **NOT STARTED**
 - P5 strict visual word/punctuation fidelity: **NOT STARTED**
 - English workflow: **NOT STARTED; prohibited until the Tamil layer is frozen**
 
-Exact next activity: **P2 direct-visual transcription of all 8 scans, with body transcription on scans 3–7 and separate print/physical-copy-mark handling for scans 1, 2 and 8.**
+Exact next activity: **P3 single-text assembly from verified page records 0003–0007.**

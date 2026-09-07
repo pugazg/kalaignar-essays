@@ -16,7 +16,7 @@ The lexical title is:
 
 `வேதனைச் சிறையினின்றும் விடுதலை பெற`
 
-Cover and title-page punctuation are independent source witnesses and will remain separate during transcription.
+Cover and title-page punctuation are independent source witnesses and remain separate in the P2 page layer.
 
 ## Source identity
 
@@ -37,24 +37,24 @@ Printed p.7 says the message was issued during the `குடும்ப நல
 
 That date is the source-supported **start date of the fortnight**. The exact message/publication date is not separately stated and must not be inferred as 15 December merely from the occasion note.
 
-## Page structure
+## Page structure / P2 record layer
 
-- scan 1 — front cover;
-- scan 2 — title page / creator / issuing body;
-- scans 3–7 — one continuous message body;
-- scan 8 — back cover / printer line;
-- visible printed folios: **4–7 on scans 4–7**;
-- scan 3 has no visible printed folio and must not be silently numbered from sequence;
-- printed contents page: **none**.
+- scan 1 — front cover — [`pages/0001-cover.md`](pages/0001-cover.md);
+- scan 2 — title page — [`pages/0002-title-page.md`](pages/0002-title-page.md);
+- scan 3 — body opening, no visible folio — [`pages/0003-body-opening.md`](pages/0003-body-opening.md);
+- scan 4 / printed p.4 — [`pages/0004-body.md`](pages/0004-body.md);
+- scan 5 / printed p.5 — [`pages/0005-body.md`](pages/0005-body.md);
+- scan 6 / printed p.6 — [`pages/0006-body.md`](pages/0006-body.md);
+- scan 7 / printed p.7 — body close + bracketed source note — [`pages/0007-body-close.md`](pages/0007-body-close.md);
+- scan 8 — back cover / printer line — [`pages/0008-back-cover.md`](pages/0008-back-cover.md).
 
-See:
-
-- [`indexes/page-map.md`](indexes/page-map.md)
-- [`indexes/contents.md`](indexes/contents.md)
+No printed contents page is present. One continuous message body runs through scans **3–7**.
 
 ## Historical Tamil typography
 
-The body uses traditional/pre-reform Tamil glyph forms. P2 and P5 must therefore use direct visual comparison to resolve the **underlying source-supported Tamil characters**, while preserving genuine historical spelling, wording, punctuation and source irregularities. OCR-style modernisation is prohibited.
+The body uses traditional/pre-reform Tamil glyph forms. P2 resolved the **scan-supported underlying Tamil characters** while preserving genuine historical/source wording, punctuation and irregularities. This does not modernise the lexical witness.
+
+P2 source-sensitive forms preserved for P5 non-regression include `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `உலகு`, `யந்திரங்களாகவே`, `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே`, `முன்பியக்கம்`, and the scan-7 note's `டிசம்பர் திங்கள் 15-ம் நாள் துவங்கிய`.
 
 ## Workflow state
 
@@ -62,11 +62,13 @@ The body uses traditional/pre-reform Tamil glyph forms. P2 and P5 must therefore
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**
 - P1 — metadata + page map + contents mapping: **COMPLETE / PASS**
-- P2 — page-level transcription: **NOT STARTED — 0 / 8**
+- P2 — page-level transcription: **COMPLETE / PASS — 8 / 8 VERIFIED**
 - P3 — single-text assembly: **NOT STARTED**
 - P4 — source/completeness audit: **NOT STARTED**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
-- unresolved source readings: **0 identified at intake; P2/P5 remain authoritative for text-level findings**
+- unresolved P2 body-text blocks: **0**
+
+P2 completion is not P5/final freeze. The source-sensitive `நாடாளு மன்ற...` witnesses are explicitly queued for independent P5 recheck.
 
 ### English
 
@@ -74,13 +76,6 @@ The body uses traditional/pre-reform Tamil glyph forms. P2 and P5 must therefore
 
 ## Exact next activity
 
-**P2 — direct-visual page transcription for all scans 1–8.**
+**P3 — single-message assembly from verified page records for scans 3–7.**
 
-In that pass:
-
-1. create one page record for every physical scan;
-2. transcribe the body on scans 3–7 directly from the source;
-3. preserve cover/title-page punctuation witnesses independently;
-4. separate the cover library stamp and physical wear from printed text;
-5. record scan 8 printer text;
-6. do not mark P5 or final verification during this first-pass transcription.
+Create `articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`, preserving ordered scan-boundary comments and the complete message body. Keep the bracketed scan-7 occasion/source note outside the message body. Stop after P3 unless the user separately authorises the next gate.

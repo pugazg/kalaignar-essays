@@ -50,7 +50,7 @@ Canonical release records:
 
 Workspace: [`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/)
 
-**ACTIVE — P0/P1 COMPLETE; P2 NEXT.**
+**ACTIVE — P0/P1/P2 COMPLETE; P3 NEXT.**
 
 - controlling source: `TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf`;
 - SHA-256: `d6429304ca8e53324e41fbe6695a31d1411b12ec5e04bf5a35d8cc8a51d06651`;
@@ -62,15 +62,18 @@ Workspace: [`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/`](publicat
 - source p.7 calls the text a `செய்தி` issued during the family-planning fortnight that began **15 December 1975**; the exact message/publication date is not separately stated;
 - P0 source intake: **COMPLETE / PASS**;
 - P1 metadata/page-map/contents mapping: **COMPLETE / PASS**;
-- P2 page transcription: **0 / 8 — NOT STARTED**;
+- P2 direct-visual page transcription: **8 / 8 VERIFIED / COMPLETE**;
 - P3/P4/P5: **NOT STARTED**;
 - English: **NOT STARTED; blocked until Tamil freeze**.
 
-Source intake records:
+P2 preserved traditional-glyph underlying characters and source-specific forms without silent modernisation. The scan-5/6 `நாடாளு மன்ற...` witnesses are retained for an independent P5 recheck rather than conventionally corrected.
+
+Current records:
 
 - [`metadata/source.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/metadata/source.md)
 - [`indexes/page-map.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/indexes/page-map.md)
 - [`audit.md`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/audit.md)
+- [`pages/`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/pages/)
 
 ### Permanent `உடன்பிறப்பே` rule
 
@@ -78,6 +81,6 @@ Every exact source `உடன்பிறப்பே` is retained as **`Udanpir
 
 ## Current repository boundary
 
-Publication 9 is the **active publication**. Exact next activity: **P2 direct-visual page transcription for all scans 1–8**, preserving traditional Tamil glyph evidence, independent cover/title-page punctuation witnesses, physical-copy marks, and the scan-supported wording without silent modernization.
+Publication 9 is the **active publication**. Exact next activity: **P3 single-text assembly from verified P2 scans 3–7**. Keep scan 7's bracketed source/occasion note outside the body and do not begin P4/P5/English in the same activity unless separately authorised.
 
 Live `main` and root [`HANDOVER.md`](HANDOVER.md) remain authoritative.

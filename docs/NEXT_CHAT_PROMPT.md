@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — வேதனைச் சிறையினின்றும் விடுதலை பெற / P2 transcription
+# NEXT CHAT PROMPT — வேதனைச் சிறையினின்றும் விடுதலை பெற / P3 assembly
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -12,7 +12,7 @@ Publications **1–8 are RELEASE COMPLETE / FROZEN**. Do not reopen them because
 
 ## Controlling source
 
-Attach/resolve:
+Resolve/attach when source-level visual work is required:
 
 `TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf`
 
@@ -27,7 +27,7 @@ Recorded identity:
 
 ## Mandatory startup
 
-Read completely before source-dependent work:
+Read completely before changing Publication 9:
 
 1. `ESSAY_PROCESSING_GUIDE.md`;
 2. `docs/FUTURE_WORK_GUIDELINES.md`;
@@ -37,43 +37,35 @@ Read completely before source-dependent work:
 6. `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/metadata/source.md`;
 7. `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/indexes/page-map.md`;
 8. `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/indexes/contents.md`;
-9. `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/audit.md`.
+9. `publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/audit.md`;
+10. page records `pages/0001-cover.md` through `pages/0008-back-cover.md`.
 
 English translation is not yet in scope; do not start it before Tamil P5 freeze.
 
-## Intake state
+## Durable state
 
-### P0
+### P0 / P1
 
-**COMPLETE / PASS.**
+**COMPLETE / PASS.** Source identity, classification, date discipline and page map are closed at intake level.
 
-- lexical title: `வேதனைச் சிறையினின்றும் விடுதலை பெற`;
-- publication form: single-text government public-message pamphlet;
-- issuing body: `தமிழ்நாடு குடும்ப நலத்துறை வெளியீடு`;
-- printer: `மாநில குடும்பநலத் திட்ட அச்சகம், சென்னை-6.`;
-- exact title/source-ID duplicate in essays repo: none found;
-- exact title/source-ID duplicate in public-speeches repo: none found.
+### P2
 
-### P1
+**COMPLETE / PASS — 8 / 8 VERIFIED.**
 
-**COMPLETE / PASS.**
+Canonical page layer:
 
-| Scan | Printed folio | Role |
-|---:|---|---|
-| 1 | — | front cover / portrait / title |
-| 2 | — | title page / creator / issuing body |
-| 3 | no visible folio | body start |
-| 4 | 4 | body |
-| 5 | 5 | body |
-| 6 | 6 | body |
-| 7 | 7 | body close + bracketed source/occasion note |
-| 8 | — | back cover / printer line |
+- scan 1 cover — verified;
+- scan 2 title page — verified;
+- scans 3–7 complete message body — verified;
+- scan 8 back cover / printer — verified.
 
-No printed contents page. One continuous body unit on scans 3–7.
+P2 unresolved body-text blocks: **0**.
 
-## Source date / classification discipline
+P2 is not P5 final fidelity closure.
 
-Printed p.7 identifies this as a `செய்தி` issued to the people during the `குடும்ப நலத்திட்ட இருவார விழா` that **began on 15 December 1975**.
+## Source classification / date discipline
+
+Printed p.7 identifies this as a `செய்தி`, not `பேச்சு` / `உரை`, issued during the `குடும்ப நலத்திட்ட இருவார விழா` that began on **15 December 1975**.
 
 - fortnight/event start: source-supported;
 - exact message date: **not separately stated**;
@@ -81,33 +73,33 @@ Printed p.7 identifies this as a `செய்தி` issued to the people durin
 
 Do not silently assign 15 December 1975 as the exact message/publication date.
 
-The source says `செய்தி`, not `பேச்சு`/`உரை`; keep the established repository classification as a standalone public-message pamphlet.
+## Historical Tamil glyph / lexical non-regression
 
-## Historical Tamil glyph requirement
+Traditional/pre-reform glyph shapes were resolved to underlying source-supported Tamil characters. Preserve P2 lexical witnesses exactly; do not modernise them in assembly.
 
-The body uses traditional/pre-reform Tamil glyph forms.
+High-attention forms include:
 
-During transcription:
+- scan 3 `எங்கணும்`, `உறையுள்`, `விமானத்தைவிடப்`, `சோளப் பொறி`;
+- scan 4 `உலகு`, `யந்திரங்களாகவே`;
+- scan 5 `அறுவை சிகிச்சைகள்` versus later `அறுவைச் சிகிச்சை` forms;
+- scan 5/6 `நாடாளு மன்றத்தில்` / `நாடாளு மன்றமே` — retain through P3 and independently recheck in P5;
+- scan 7 `முன்பியக்கம்`, `முன்பியக்கக்`, bracketed source-note wording;
+- independent scan-1 / scan-2 title punctuation witnesses.
 
-- inspect the scan directly;
-- resolve the scan-supported underlying Tamil character represented by each historical glyph;
-- preserve genuine source spelling, wording, punctuation, spacing decisions that matter, numbers and irregularities;
-- do not modernise from OCR, memory or context;
-- mark unresolved readings explicitly rather than guessing.
+## Exact next activity — P3 single-text assembly
 
-## Exact next activity — P2 scans 1–8
+Create:
 
-Process all **8 scans in one P2 iteration**:
+`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/articles/01-vedhanai-ch-siraiyinindrum-viduthalai-pera.md`
 
-1. create canonical page records for scans 1–8;
-2. separate `அச்சு உரை` from physical-copy marks;
-3. scan 1: cover title/creator and later circular library stamp separately;
-4. scan 2: exact title-page text and issuing body;
-5. scans 3–7: complete first-pass Tamil transcription, direct from the source;
-6. do not assign a printed folio to scan 3 unless visibly demonstrated;
-7. scan 7: preserve the bracketed source/occasion note as printed matter;
-8. scan 8: preserve the printer line;
-9. update page map, README, audit, root handover and this prompt;
-10. stop after P2. Do **not** mark P3/P4/P5 complete and do not start English in the same iteration.
+Requirements:
 
-Current P2 count entering this activity: **0 / 8**.
+1. assemble only from verified P2 body records scans **3–7**;
+2. preserve every paragraph, punctuation mark, quote, numeral, dash and source-specific form;
+3. insert ordered source boundary comments for scans 3, 4, 5, 6 and 7;
+4. keep scan 7's bracketed occasion/source note outside the message body, clearly separated as source provenance;
+5. cross-check there is no omission, duplication or page-boundary reorder;
+6. update publication README, audit, root README, root handover and this prompt;
+7. stop after P3. Do **not** perform P4/P5 or English in the same iteration unless the user separately authorises the next gate.
+
+Current P3 entering this activity: **NOT STARTED**.

@@ -3,16 +3,16 @@
 Controlling source: `TVA_BOK_0064064_வேதனைச்_சிறையினின்றும்_விடுதலை_பெற.pdf`  
 Physical scans: **8**
 
-| Scan | Printed page visible | Section / function | Notes |
-|---:|---|---|---|
-| 1 | — | front cover | portrait; cover title; `முதல்வர் டாக்டர் கலைஞர்`; later circular blue library stamp at upper right |
-| 2 | — | title page | title; `தமிழ்நாடு முதல்வர் மாண்புமிகு டாக்டர் கலைஞர் மு. கருணாநிதி`; `தமிழ்நாடு குடும்ப நலத்துறை வெளியீடு` |
-| 3 | no visible folio | body start | first body page; printed folio is not visibly supplied in the scan, so do not assign one by sequence |
-| 4 | 4 | body | continuous message text |
-| 5 | 5 | body | continuous message text |
-| 6 | 6 | body | continuous message text |
-| 7 | 7 | body close | closing message text plus bracketed source/occasion note describing the 1975 family-planning fortnight |
-| 8 | — | back cover | mostly blank; printer line `மாநில குடும்பநலத் திட்ட அச்சகம், சென்னை-6.` |
+| Scan | Printed page visible | Section / function | Canonical P2 record | P2 status |
+|---:|---|---|---|---|
+| 1 | — | front cover | [`../pages/0001-cover.md`](../pages/0001-cover.md) | VERIFIED |
+| 2 | — | title page | [`../pages/0002-title-page.md`](../pages/0002-title-page.md) | VERIFIED |
+| 3 | no visible folio | body start | [`../pages/0003-body-opening.md`](../pages/0003-body-opening.md) | VERIFIED |
+| 4 | 4 | body | [`../pages/0004-body.md`](../pages/0004-body.md) | VERIFIED |
+| 5 | 5 | body | [`../pages/0005-body.md`](../pages/0005-body.md) | VERIFIED |
+| 6 | 6 | body | [`../pages/0006-body.md`](../pages/0006-body.md) | VERIFIED |
+| 7 | 7 | body close + bracketed source/occasion note | [`../pages/0007-body-close.md`](../pages/0007-body-close.md) | VERIFIED |
+| 8 | — | back cover / printer line | [`../pages/0008-back-cover.md`](../pages/0008-back-cover.md) | VERIFIED |
 
 ## Reading order
 
@@ -28,13 +28,19 @@ Physical scan order is publication reading order:
 - one textual unit only;
 - no printed contents page and no second article/message heading is visible.
 
-## Source-witness note
+## Source-witness notes preserved by P2
 
-The cover and title page use the same lexical title but different final punctuation treatment. Preserve each witness independently during page transcription.
+- scan 1 cover and scan 2 title page share the lexical title but retain different final punctuation treatment;
+- scan 3 remains without an inferred printed folio;
+- scan 7 bracketed source/occasion note remains separate from the message body;
+- scan 8 preserves the printer witness;
+- traditional/pre-reform glyph shapes were resolved to scan-supported underlying Tamil characters without modernising source wording.
 
 ## Current state
 
 - P1 page mapping: **COMPLETE / PASS**
-- P2 page records: **0 / 8**
+- P2 page transcription: **8 / 8 VERIFIED / COMPLETE**
+- P3 single-text assembly: **NOT STARTED**
+- P4/P5: **NOT STARTED**
 
-Exact next activity: create and visually verify first-pass page records for **scans 1–8**.
+Exact next activity: **P3 — assemble the single message body from verified P2 scans 3–7, preserving ordered scan-boundary comments and keeping the scan-7 bracketed source note outside the body.**
