@@ -15,7 +15,7 @@ Translate all **50** frozen strict-reviewed Tamil article assemblies through T0�
 
 ## Permanent `உடன்பிறப்பே` policy
 
-`உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**. Never flatten to brother/sister/sibling/comrade.
+Exact `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**. Never flatten to brother/sister/sibling/comrade. Related plural source forms are preserved as source-bearing movement-address forms where they occur.
 
 ## Tamil prerequisite
 
@@ -30,18 +30,18 @@ Translate all **50** frozen strict-reviewed Tamil article assemblies through T0�
 ## Current English gate status
 
 - E0: **COMPLETE / PASS**
-- T0: **26 / 50 PASS**
-- T1: **26 / 50 COMPLETE**
-- T2: **26 / 50 PASS**
-- T3: **26 / 50 PASS**
-- T4: **26 / 50 PASS**
-- T5: **26 / 50 PASS**
-- verified English: **26 / 50**
+- T0: **36 / 50 PASS**
+- T1: **36 / 50 COMPLETE**
+- T2: **36 / 50 PASS**
+- T3: **36 / 50 PASS**
+- T4: **36 / 50 PASS**
+- T5: **36 / 50 PASS**
+- verified English: **36 / 50**
 - draft English: **0 / 50**
 - blockers: **0**
 - E6/E7: **NOT STARTED**
 
-## Translation authority pins — Articles 1–26
+## Translation authority pins — Articles 1–36
 
 | # | Tamil title | Scans | Frozen Tamil blob | Status |
 |---:|---|---:|---|---|
@@ -71,38 +71,50 @@ Translate all **50** frozen strict-reviewed Tamil article assemblies through T0�
 | 24 | `இட்லர்` | 104–108 | `434c266217de96e39652b9e3eb6d4d3274a5adfe` | verified |
 | 25 | `இங்கர்சால்` | 109–111 | `42776cccf8ac37eefa495e24c0294b13bdd3a610` | verified |
 | 26 | `மகளிர் இட ஒதுக்கீடு!` | 112–116 | `cfc6b79f5196bedf56076834e677332a5b941ae4` | verified |
+| 27 | `தியானம்???` | 117–122 | `202077d37c7211d14b0b2794d95e4240637b4c7a` | verified |
+| 28 | `விபத்து` | 123–125 | `64c753343356883615cd830ca5e182bc983d86fb` | verified |
+| 29 | `சின்னத்திரை “செல்வி”` | 126–129 | `5439e26c4b00dde37bc1842ea3665bdee721dab6` | verified |
+| 30 | `மருந்தென ஒன்று!` | 130–133 | `3d59167549195f7603b0705e747197bf5f0b0c04` | verified |
+| 31 | `சிறிய நூல்தான்` | 134–138 | `62c72d2c042484757da76a40de48c021aa28e236` | verified |
+| 32 | `மண்டேலா` | 139–144 | `c3be3082aa9bc1a3da96a819e481190974c8756e` | verified |
+| 33 | `தொண்டுள்ளம்` | 145–147 | `b02e252ade6a73cf24456d41091e53fccc3a18d0` | verified |
+| 34 | `மகளிர் பேரணி!` | 148–151 | `762d5ae85ebf9fb7137ed44fcb07d9cf131a4fa7` | verified |
+| 35 | `திரிகடுகம்` | 152–154 | `31df896e40b0a05d983a47e64983afe9e1b36b1b` | verified |
+| 36 | `தீக்குச்சி தேடாதீர்!` | 155–158 | `20be4a5c41cdc88db16663e9a8e2b38f2c630470` | verified |
 
 ## Review provenance
 
 - `translations/en/TRANSLATION_REVIEW_THROUGH_16.md` — Articles 1–16;
 - `translations/en/TRANSLATION_REVIEW_17_21.md` — Articles 17–21;
-- `translations/en/TRANSLATION_REVIEW.md` — Article 22 onward;
+- `translations/en/TRANSLATION_REVIEW_22_26.md` — Articles 22–26;
+- `translations/en/TRANSLATION_REVIEW.md` — Article 27 onward;
 - `translations/en/LEXICON_THROUGH_16.md` + `translations/en/LEXICON.md` — living terminology authority.
 
-## Latest completed batch — Articles 22–26
+## Latest completed iteration — Articles 27–36
 
-**5 / 5 VERIFIED**, **19 / 19 source comments PASS**, **0 blockers**, **0 Tamil changes**.
+**10 / 10 VERIFIED**, **42 / 42 source comments PASS**, **0 blockers**, **0 Tamil changes**.
 
-- Article 22 preserves `sport / play` contextual distinction, horse-horn rarity, source medal/population figures and lighthouse/pot-lamp imagery.
-- Article 23 preserves recursive horoscope logic and source-bearing `Mittadar`, `dosham`, Rahu/Kuligai/Amrita/Marana terms.
-- Article 24 translates the long favourable Hitler passage strictly as Kalaignar’s quoted source witness, with no external correction or endorsement; two English-only T3 refinements were recorded.
-- Article 25 preserves source place/racial terminology as historical source wording and restores closing quotation lineation.
-- Article 26 preserves the 1929/1989/33% reservation argument, `Sanatana tradition`, Rousseau quotation, internal-reservation sequence and signed M.K. note.
+Important non-regression outcomes:
 
-## Working method
+- Article 27 preserves `Pagutharivu`, `Unmai`, concentration/martial-arts distinctions and source health claims without outside medical adjudication.
+- Article 28 preserves the non-political accident framing, `Sanatana varnish`, source accident report and road metaphors.
+- Article 29 preserves the frozen four Kural witnesses and Kalaignar's own commentaries; no published English Kural imported.
+- Article 30 preserves Siddha/allopathy and food/health statements strictly as source claims.
+- Article 31 preserves `Udanpirappugal`, book/address details and source medical/heredity claims.
+- Article 32 preserves `Kazhaga Udanpirappugalē`, source-specific Mandela names/forms and lineated prison quotation.
+- Article 33 preserves coconut-scar/step imagery and `Maanamigu / Maanbumigu` wordplay.
+- Article 34 preserves the difficult women/family/legal argument, political figures and direct call to action without translator distancing.
+- Article 35 preserves the unusual opening, classical work titles, `Kanakkayar` and four-line embedded venpa.
+- Article 36 preserves the literary fire quotation only within Kalaignar's explicit anti-self-destruction argument, with source-derived poem lineation.
+
+## Working method / iteration cadence
 
 For every remaining article: T0 pin live frozen Tamil → T1 close translation → T2 bilingual fidelity → T3 voice → T4 terminology/quotation/source audit → T5 verified. Keep ordered source comments and do not reopen Tamil absent controlling-scan proof of a genuine defect.
 
-## Current boundary / next prepared batch
+Per user instruction, normal continuation now processes **10 articles per iteration** when enough remain.
 
-Articles **1–26** are complete through T5. **Article 27 has not been started.**
+## Current boundary / next iteration
 
-When the user authorises continuation, process Articles **27–31** through T5 in order:
+Articles **1–36** are complete through T5. **Article 37 has not been started.**
 
-27. `தியானம்???` — scans **117–122**;
-28. `விபத்து` — scans **123–125**;
-29. `சின்னத்திரை “செல்வி”` — scans **126–129**;
-30. `மருந்தென ஒன்று!` — scans **130–133**;
-31. `சிறிய நூல்தான்` — scans **134–138**.
-
-Stop after Article 31 and synchronize before Article 32.
+On the next user continuation, process Articles **37–46** through T5 in order, then stop before Article 47. The final remaining block after that will be Articles **47–50**.
