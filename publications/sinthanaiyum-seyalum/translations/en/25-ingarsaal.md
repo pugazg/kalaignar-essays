@@ -43,7 +43,11 @@ Not only in court: without caring about the illness that caused pain in his ches
 
 For example, some young people devoted to the rationalist movement from a town called Klarimont invited him to a meeting. He said he would come if they paid three hundred dollars. They agreed and brought him. Because many people in the town were afraid to come to that meeting, only twenty-eight dollars was collected as admission fees. Without telling Ingersoll this, the young men paid him the agreed three hundred dollars. Ingersoll questioned them closely and repeatedly until he learned the true amount collected. At once he called the young men near and said: “Thank you for your affection—praise for your enthusiasm—congratulations for your honest conduct. Here, of the 300 dollars you gave me, keep 272 dollars yourselves. The 28 dollars paid by those who came to hear my speech is enough for me.” And with that he took leave and went away.
 
-“Good heavens! What tremendous humaneness this man possesses—not a speaker who talks merely to earn money, but one who labours to spread a principle; that is why he understands the trouble we took to arrange this meeting for him!”
+“Good heavens! What tremendous humaneness
+this man possesses—not a speaker who talks merely to earn money,
+but one who labours to spread a principle; that is why
+he understands the trouble
+we took to arrange this meeting for him!”
 
 Would not those young people have garlanded Ingersoll with such praise?
 
