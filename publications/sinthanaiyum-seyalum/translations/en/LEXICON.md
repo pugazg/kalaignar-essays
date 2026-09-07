@@ -75,7 +75,7 @@ Most importantly, the permanent user-established rule remains:
 - Article 49 crosses Part 004→005. All Chidambara Anthathi quotations remain source-derived; `Sengattu Nangai` was restored after T2 caught the omitted referent, and `கற்பழிக்க` remains `rape` rather than being softened.
 - Article 50’s long Periyar and Anna quotations are translated only from frozen Tamil. A missed scan-222 sentence on speaking/writing as windows for a gentle breeze was restored before T5.
 
-## Publication-level principles — still binding for E6/E7
+## Publication-level principles — binding through release
 
 - Translate the frozen Tamil authority; do not neutralise Kalaignar’s voice.
 - Preserve questions, commands, repetition, satire, accusation, abrupt contrast, unusual source forms and concrete imagery.
@@ -86,4 +86,21 @@ Most importantly, the permanent user-established rule remains:
 - Historical, literary, medical, political, scientific and news claims are translated as source claims; review is fidelity work, not external fact reconciliation.
 - Reopen frozen Tamil only for a genuine defect demonstrated by controlling scan pixels. Article 16 scan 76 remains the standing precedent.
 
-Current terminology checkpoint: **Articles 1–50 T4-confirmed / blockers 0**. Article-level translation is complete; next phase is **E6 publication-wide consistency review**.
+## E6 publication-wide consistency classification
+
+Canonical record: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md).
+
+**E6: PASS / COMPLETE.**
+
+- terminology / names / source-specific spellings: **PASS**;
+- exact/plural `Udanpirapp` forms: **PASS**;
+- quotation/verse terminology and lineation: **PASS**;
+- source-sensitive variants: classified as deliberate exceptions, not homogenised;
+- new terminology corrections required in E6: **0**;
+- English-body prose corrections required in E6: **0**;
+- Tamil changes in E6: **0**;
+- blockers: **0**.
+
+E6’s only correction class was metadata: `contents_title_ta` was added to Articles 1–10 from the verified printed-contents witness. Articles 3, 6 and 9 deliberately retain their contents/heading differences.
+
+Current terminology checkpoint: **Articles 1–50 T4-confirmed + E6 consistency-confirmed / blockers 0**. Exact next phase: **E7 release closeout**.
