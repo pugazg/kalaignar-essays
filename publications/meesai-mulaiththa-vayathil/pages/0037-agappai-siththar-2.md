@@ -6,29 +6,32 @@ publication: "meesai-mulaiththa-vayathil"
 article: "07-agappai-siththar"
 section: "agappai-siththar"
 page_type: "main-work"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf"
-transcription_method: "direct visual comparison with source scan; dense foreground prose unresolved"
+transcription_method: "direct visual comparison with source scan"
 ---
 
-# அச்சு உரை — partial; not yet P2-verified
+# அச்சு உரை
 
 ## அச்சிடப்பட்ட ஓடுதலைப்பு
 
 மீசை முளைத்த வயதில்
 
-<!-- dense source-visible foreground prose block intentionally withheld pending exact source-pixel resolution -->
+“தம்பி! குளிர் தருவிலேயிருந்து நீ, கொஞ்சம் கோடையையும் அனுபவித்துப் பார்! வெடித்த வயல்களுக்கு நீர் பாய்ச்சுகிறவனின் சிரமமும், மாட்டு மந்தையை ஒழுங்காக மேய்த்துச் செல்ல ஓடியாடும் மாட்டுக்காரப் பையனின் கஷ்டமும், காலிலே சணல் சாக்கைச் சுற்றிக்கொண்டு அதை வாழை நாரினால் கட்டி, தலையிலே காய்கறிக் கூடையுடன் கிராமாந்திர சுடு மணலில் நடந்து செல்லும் “அன்றாடங்காய்ச்சி” வியாபாரிகள் படும் அவலும், “ஈன ஜென்மமெடுத்தேன் என் அய்யனே” என்று கரகரக்கும் தொனியில் பாடிக் கொண்டு, சுரைக்காயைக் குடைந்து மூங்கிலைச் செருகித் தயாரித்த சுத்த சுதேசித் தம்புராவை மீட்டியபடி ஊர் ஊராக உருண்டு புரண்டு பிச்சையெடுக்கும் மனிதப் பழுப்புகள் - தளிர்கள் - படும் வேதனையும், அப்போது தான் உன் உள்ளத்தைத் தொட முடியும். குளிர் நிழலிலிருந்து கோடைக்கு வா! குற்றாலத்திலிருந்து கொடைக்கானலுக்குப் போகாதே! கோடைக் கனலை கொஞ்சம் ருசித்துப் பார்!
+
+அறுசுவை உணவையே ஆயுள் பூராவும் நீ அருந்தினால் போதுமா? உன்னைப் பற்றித் தெரிந்து கொண்டால் மட்டும் போதுமா? உன்னைச் சூழ்ந்துள்ள உலகம் மிகப் பெரியது! கஞ்சியே குடித்து வாழும் ஒரு பெருங்கூட்டம். அதுவுமின்றி வாடும் ஜனக் கூட்டம். அவைகளைப் பற்றி நீ யோசிப்பது எப்போது?
 
 ## அச்சு அல்லாத / physical-copy marks
 
 - மெல்லிய reverse-side show-through உள்ளது.
 - அச்சு உரையை மறைக்கும் later stamp/handwriting இல்லை.
 
-## P2 fidelity hold
+## P2 audit note
 
-- visible printed folio **36** and running header were directly checked.
-- this dense continuation has not been guessed or imported from another source.
-- full word/punctuation transcription remains open.
+- visible printed folio **36**, running header and complete foreground prose directly verified against the supplied 2006 scan.
+- source-visible forms retained include `தருவிலேயிருந்து`, `மாட்டுக்காரப்`, `அன்றாடங்காய்ச்சி`, `சுத்த சுதேசித் தம்புராவை`, `மனிதப் பழுப்புகள் - தளிர்கள் -`, `குளிர் நிழலிலிருந்து`, `கோடைக் கனலை`, and `ஜனக் கூட்டம்`.
+- the older `முத்தாரம்` printing was used only to corroborate difficult glyphs; its edition-specific spacing and wording were not imported.
+- the quoted address continues on scan 38 / printed p.37.
 
 <!-- மூல ஸ்கேன் பக்கம்: 37 -->
