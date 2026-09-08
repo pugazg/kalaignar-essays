@@ -9,7 +9,7 @@ Branch: `main`
 
 Publications **1–9 are RELEASE COMPLETE / FROZEN**.
 
-Active Publication **10 — `மீசை முளைத்த வயதில்` — P0–P1 COMPLETE / PASS; P2 IN PROGRESS — 40 / 146 VERIFIED; canonical records present and verified through scan 40.**
+Active Publication **10 — `மீசை முளைத்த வயதில்` — P0–P1 COMPLETE / PASS; P2 IN PROGRESS — 50 / 146 VERIFIED; canonical records present and verified through scan 50.**
 
 Source PDFs are never committed.
 
@@ -68,14 +68,15 @@ Completed canonical batches:
 - scans **1–10** — VERIFIED; `P2_BATCH_001_010.md`;
 - scans **11–20** — VERIFIED; `P2_BATCH_011_020.md`;
 - scans **21–30** — VERIFIED; `P2_BATCH_021_030.md`;
-- scans **31–40** — VERIFIED; `P2_BATCH_031_040.md`.
+- scans **31–40** — VERIFIED; `P2_BATCH_031_040.md`;
+- scans **41–50** — VERIFIED; `P2_BATCH_041_050.md`.
 
 Current P2 state:
 
-- contiguous verified range: **1–40**;
-- verified canonical pages: **40 / 146**;
-- canonical page records present: **40 / 146**;
-- missing canonical records in scans 1–40: **0**;
+- contiguous verified range: **1–50**;
+- verified canonical pages: **50 / 146**;
+- canonical page records present: **50 / 146**;
+- missing canonical records in scans 1–50: **0**;
 - unresolved printed-text blocks in verified scans: **0**;
 - active P2 blockers: **0**.
 
@@ -87,46 +88,56 @@ Complete main-work units at the P2 page layer:
 4. `கடலே` — scans 28–30 / pp.27–29 — **COMPLETE**;
 5. `ஆறு` — scans 31–33 / pp.30–32 — **COMPLETE**;
 6. `வாழிய வைகறை` — scans 34–35 / pp.33–34 — **COMPLETE**;
-7. `அகப்பை சித்தர்` — scans 36–38 / pp.35–37 — **COMPLETE**.
+7. `அகப்பை சித்தர்` — scans 36–38 / pp.35–37 — **COMPLETE**;
+8. `மலையே வாழி` — scans 39–41 / pp.38–40 — **COMPLETE**;
+9. `தளிர்` — scans 42–45 / pp.41–44 — **COMPLETE**;
+10. `விண்மீன்` — scans 46–48 / pp.45–47 — **COMPLETE**.
 
-Unit 8 `மலையே வாழி`:
+Unit 11 `தனிமை`:
 
-- scan 39 / p.38 — VERIFIED opening;
-- scan 40 / p.39 — VERIFIED continuation;
-- scan 40 ends mid-sentence after source-visible `... உயர்ந்த தோள்களை`;
-- the unit continues to scan 41 / printed p.40;
-- **scan 41 was not inspected or transcribed during the completed 31–40 activity**.
+- scan 49 / p.48 — VERIFIED illustrated/dialogue opening;
+- scan 50 / p.49 — VERIFIED continuation;
+- verified P1 span is scans **49–54 / pp.48–53**;
+- unit continues to scan **51 / printed p.50**.
 
-### Durable source findings from scans 31–40
+### Durable source findings from scans 41–50
 
-- scan 32 third subheading is source-visible **`அரசு`**, correcting the earlier working reading `அரசி`;
-- permanent P1 reading `அகப்பை சித்தர்` was preserved;
-- source-sensitive forms retained include `மாணிக்கப்பல்`, `தொட்டிற்`, `அன்றாடங்காய்ச்சி`, `சுத்த சுதேசித் தம்புராவை`, `மனிதப் பழுப்புகள் - தளிர்கள் -`, `ஆதீனங்கள்`, `அவதாரப் புருஷர்`, `கோஷாப் பெண்`, `மேகச் சீமாட்டிகளின்`, `அகிலமதிரக்`, and `அகிலும் தேக்கும்`;
-- an older `முத்தாரம்` printing was used only as corroboration. Its edition-specific sentence mentioning `கமால்` is absent from supplied scan 40 and was not imported.
+- scan 41 directly closes `மலையே வாழி`; older-edition closing wording absent from the supplied scan was not imported;
+- permanent P1 reading `தளிர்` was preserved on scan 42 and Unit 9 closes on scan 45;
+- scan 47 `விண்மீன்` was re-read directly from the supplied 2006 pixels and the temporary source-review hold was closed;
+- source-sensitive scan-47 forms retained include `தானு மதுவாகப்`, `விரித்தாடினாற் போலவே`, `புது நீலப்பட்டினிலே`, `மின்மினியாம்`, `புதுப்போட்டி`, `மந்தி கையில் மலர்மாலை`, `அடுக்கத்தேடி`, `தாரகைகளே`, `அடைமொழியால்`, and `ஒளிப்பூக்கள்`;
+- the scan-47→48 continuation is preserved as source-visible `... மனிதர்களும் இதைக்` → `கற்க வேண்டுமென்றே...`;
+- older `முத்தாரம்` wording and editorial subheadings remained corroborative only and were not silently imported;
+- Unit 10 `விண்மீன்` is now complete on scans 46–48;
+- Unit 11 `தனிமை` begins on scan 49 and remains open beyond scan 50.
 
 ## Gate state
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
-- P2 — **IN PROGRESS — 40 / 146 VERIFIED**;
+- P2 — **IN PROGRESS — 50 / 146 VERIFIED**;
 - P3 — **NOT STARTED**;
 - P4 — **NOT STARTED**;
 - P5 — **NOT STARTED**;
 - English — **BLOCKED until Tamil P5 freeze**.
 
-## Exact next activity — P2 scans 41–50 only
+## Exact next activity — P2 scans 51–60 only
 
 When the user says proceed/continue:
 
 1. fetch live `main` and preserve any newer durable work;
-2. resolve the controlling source and inspect **scan 41 / printed p.40 first**, closing the mid-sentence continuation of Unit 8 `மலையே வாழி` from scan 40;
-3. continue source-first page transcription/verification through **scan 50 only**, following the P1 page map and source-visible unit boundaries;
+2. resolve the controlling source and inspect **scan 51 / printed p.50 first**, continuing Unit 11 `தனிமை` from scan 50;
+3. process scans **51–60 only**, following the verified P1 page map:
+   - `தனிமை` scans 51–54;
+   - `நாடக மேடை` scans 55–56;
+   - `புகழ்` scans 57–58;
+   - `பச்சைக்கிளி` scans 59–60 of its 59–61 span;
 4. supplied 2006 scan pixels remain controlling; an older `முத்தாரம்` witness may corroborate difficult glyphs only and must never silently supply wording;
-5. preserve exact wording, punctuation, word boundaries, paragraph/verse lineation, running headers/folios, illustrations and continuation; keep later physical-copy marks separate;
+5. preserve exact wording, punctuation, word boundaries, paragraph/verse/dialogue lineation, running headers/folios, illustrations and continuation; keep later physical-copy marks separate;
 6. create/re-fetch one canonical page record per scan and mark `verified` only after direct source comparison;
-7. after all ten scans 41–50 pass, create `P2_BATCH_041_050.md` and synchronize publication/root trackers;
-8. set the following P2 activity to scans **51–60**;
-9. **STOP after scan 50. Do not begin P3 assemblies or English translation unless separately authorised.**
+7. after all ten scans 51–60 pass, create `P2_BATCH_051_060.md` and synchronize publication/root trackers;
+8. set the following P2 activity to scans **61–70**;
+9. **STOP after scan 60. Do not begin P3 assemblies or English translation unless separately authorised.**
 
 ---
 
