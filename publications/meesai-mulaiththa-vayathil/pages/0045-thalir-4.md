@@ -41,6 +41,6 @@ transcription_method: "direct visual comparison with source scan"
 
 - visible printed folio **44**, running header, complete closing passage and final bullet directly verified against the supplied 2006 scan.
 - source-visible punctuation and word boundaries retained, including `நீ - நல்ல மனம் படைத்த தளிர்`, quoted `‘பாபச்’`, standalone `ஆனால்`, and `கெடுப்பதில்லை - அதனால்தான்`.
-- Unit 9 `தளிர்` closes on this scan; scan 44 remains the only open page in this unit pending exact closure of its source-visible lower wordplay.
+- Unit 9 `தளிர்` is P2 page-layer COMPLETE on scans 42–45 / printed pp.41–44; all four canonical pages are verified.
 
 <!-- மூல ஸ்கேன் பக்கம்: 45 -->
