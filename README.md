@@ -22,8 +22,6 @@ Publications **1–9 are COMPLETE / FROZEN / RELEASED** in their established Tam
 
 ### Publication 9 — வேதனைச் சிறையினின்றும் விடுதலை பெற
 
-Workspace: [`publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/`](publications/vedhanai-ch-siraiyinindrum-viduthalai-pera/)
-
 **RELEASE COMPLETE / FROZEN.** Tamil P0–P5 complete/frozen; English T0–T5 verified; E6/E7 PASS; blockers 0.
 
 Frozen Tamil blob: `1c5870212186b2bf7ff095b245e15cd875de76f0`.  
@@ -33,7 +31,7 @@ Released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
 Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mulaiththa-vayathil/)
 
-**P0–P1 COMPLETE / PASS — P2 IN PROGRESS: 80 / 146 VERIFIED.**
+**P0–P1 COMPLETE / PASS — P2 IN PROGRESS: 90 / 146 VERIFIED.**
 
 - controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
 - source SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
@@ -41,12 +39,9 @@ Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mula
 - physical scans: **146**;
 - source form: image-only multi-piece youthful literary/prose collection;
 - source self-description: **`எழுத்தோவியங்கள்`**;
-- title: `மீசை முளைத்த வயதில்`;
-- author: `கலைஞர் மு.கருணாநிதி`;
-- publisher: `தமிழ்க்கனி பதிப்பகம்`;
 - supplied edition: **இரண்டாம் பதிப்பு — அக்டோபர் 2006**.
 
-P1 mapping remains **146 / 146 scans**, **26 / 26 source-titled units**, with no printed contents page and permanent corrected title readings:
+P1 remains **146 / 146 scans**, **26 / 26 source-titled units**. Permanent corrected source-title readings remain:
 
 - `அகப்பை சித்தர்` — scan 36 / p.35;
 - `தளிர்` — scan 42 / p.41;
@@ -54,45 +49,37 @@ P1 mapping remains **146 / 146 scans**, **26 / 26 source-titled units**, with no
 
 P2 durable progress:
 
-- scans **1–80: 80 / 80 VERIFIED**;
+- scans **1–90: 90 / 90 VERIFIED**;
 - `என்னுரை`: **3 / 3 VERIFIED / COMPLETE**;
 - `முன்னுரை`: **10 / 10 VERIFIED / COMPLETE**;
 - scan 17: **verified blank / reverse-side show-through**;
-- Units 1–17 through `தோழி`: **COMPLETE at the P2 page layer**;
-- Unit 18 `மருதாணி`: scans **78–80 / pp.77–79 VERIFIED**, continues through scan 84 / p.83;
-- complete main-work units at P2 page layer: **17 / 26**;
+- Units **1–19 through `அருவி` COMPLETE** at the P2 page layer;
+- complete main-work units: **19 / 26**;
 - unresolved printed prose blocks in verified scans: **0**;
 - P2 blockers: **0**;
 - P3 assemblies: **NOT STARTED**.
 
-The scan-31–40 batch established the source correction scan 32 third subheading **`அரசு`**, replacing the earlier working reading `அரசி`.
+The scan-81–90 batch directly completed `மருதாணி` on scans 78–84 and `அருவி` on scans 85–90. Supplied 2006 scan pixels remained controlling; OCR and secondary-edition wording were not used as authority.
 
-The scan-41–50 batch closed `மலையே வாழி`, `தளிர்`, and `விண்மீன்`; scan 47's temporary source-review hold was resolved directly against the supplied 2006 scan.
+Batch records now include:
 
-The scan-51–60 batch closed `தனிமை`, `நாடக மேடை`, and `புகழ்` and advanced `பச்சைக்கிளி` through scan 60.
-
-The scan-61–70 batch closed `பச்சைக்கிளி` and single-page `தமிழே`, then directly verified `தேனலைகள்` through scan 70. Source-visible continuations across scans 68→69 and 69→70 were preserved, including corrected scan-70 `உயர் தமிழன்`.
-
-The scan-71–80 batch closed `தேனலைகள்` and `தோழி`, then directly verified `மருதாணி` through scan 80. The supplied 2006 pixels remained controlling; OCR and secondary-edition wording were not used as authority.
-
-Batch records:
-
-- [`P2_BATCH_001_010.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_001_010.md)
-- [`P2_BATCH_011_020.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_011_020.md)
-- [`P2_BATCH_021_030.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_021_030.md)
-- [`P2_BATCH_031_040.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_031_040.md)
-- [`P2_BATCH_041_050.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_041_050.md)
-- [`P2_BATCH_051_060.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_051_060.md)
-- [`P2_BATCH_061_070.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_061_070.md)
-- [`P2_BATCH_071_080.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_071_080.md)
+- `P2_BATCH_001_010.md`
+- `P2_BATCH_011_020.md`
+- `P2_BATCH_021_030.md`
+- `P2_BATCH_031_040.md`
+- `P2_BATCH_041_050.md`
+- `P2_BATCH_051_060.md`
+- `P2_BATCH_061_070.md`
+- `P2_BATCH_071_080.md`
+- `P2_BATCH_081_090.md`
 
 English remains **BLOCKED until Tamil P5 freeze**.
 
 ## Current repository boundary
 
-Publication 10 P2 is **IN PROGRESS — 80 / 146 VERIFIED**, contiguous through scan 80, with **17 / 26** main-work units complete and blockers **0**.
+Publication 10 P2 is **IN PROGRESS — 90 / 146 VERIFIED**, contiguous through scan 90, with **19 / 26** main-work units complete and blockers **0**.
 
-Exact next activity: **P2 scans 81–90 only**. Scans 81–84 / pp.80–83 continue and close `மருதாணி`; scans 85–90 / pp.84–89 complete `அருவி`. Stop after scan 90; do not begin P3 assemblies or English translation unless separately authorised.
+Exact next activity: **P2 scans 91–100 only**. Scans 91–95 / pp.90–94 are Unit 20 `முறம்`, complete within the batch; scans 96–100 / pp.95–99 begin Unit 21 `யாழ்`, which continues through scan 102 / p.101. Stop after scan 100; do not begin P3 assemblies or English translation unless separately authorised.
 
 ### Permanent `உடன்பிறப்பே` rule
 
