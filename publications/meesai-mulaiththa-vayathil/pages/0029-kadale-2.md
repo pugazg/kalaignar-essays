@@ -6,30 +6,36 @@ publication: "meesai-mulaiththa-vayathil"
 article: "04-kadale"
 section: "kadale"
 page_type: "main-work"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf"
-transcription_method: "direct visual comparison with source scan; lower printed block retained as an explicit fidelity hold"
+transcription_method: "direct visual comparison with source scan"
 ---
 
-# அச்சு உரை — partial working transcription; not yet P2-verified
+# அச்சு உரை
 
 ## அச்சிடப்பட்ட ஓடுதலைப்பு
 
 மீசை முளைத்த வயதில்
 
-ஓய்வுபெற உன்பால் வருவேன். ஓசை முழக்கத்தால் உள்ளத்தைத் தாலாட்டுவாய். தூங்காப் பெருங்கடலே! தூய்மை நிறை நம் சந்திப்பில் சிறு தொய்வு ஏற்பட்டுவிட்டது. ஆனாலும் கடலே! என் மடலுக்குப் பதில் எழுது.
+ஓய்வுபெற உன்பால் வருவேன். ஓசை முழக்கத்தால் உள்ளத்தைத் தாலாட்டுவாய்! தூங்காப் பெருங்கடலே! தூய்மை நிறை நம் சந்திப்பில் சிறு தொய்வு ஏற்பட்டுவிட்டது. ஆனாலும் கடலே! என் மடலுக்குப் பதில் எழுது.
+
+“உழைக்கும் பாட்டாளி - உயரும் முதலாளி - உண்மை நவில் அறிஞன் - உயர்பண் தரும் கவிஞன் - சிற்பி - சித்திரக்காரன் - சிந்தனையாளன் - எல்லோருக்குமே ஓய்வுண்டு. உனக்கு ஓய்வே கிடையாதே ஏன்? “ஓயாமல் உழைக்கிறேனே பார்” என்று உடல் வளையா சோம்பேறிக்குச் சொல்லிக் காட்டுகிறாயா?” என்று முன்பெல்லாம் கேட்டேனே? அதைக் கேட்பேன் என்று எண்ணுகிறாயா? இல்லை; இல்லை.
+
+கற்கண்டுக் கையால் கஞ்சியைத் துழாவித் தந்து, அதைவிட இனிப்பான முத்தம் தந்து, காலையிலே கட்டுமரத்தில் வழியனுப்பி வைக்கப்பட்ட காதலன் - கதிரவன் சென்றும் வரக்காணேனே என்று கண் சோர, கால் சோர, குடிசையின் வாசலிலே எதிர்பார்த்து ஏங்கித்தவிக்கும் ஏந்திழையாள், உன்னை நம்பி வாழும் குடும்பத்தின் இளஞ்சிட்டு, சிங்காரச் “செம்படச்சி” - அவள் அயர்ந்து போகாமல், இடிந்து மாளாமல், அவள் கணவனை அன்றாடம் உன் நீலமணித் தோள்களிலே தூக்கி வருகிறாயா? என்று கேட்பேனே - அதைத்தான் கேட்கப் போகிறேன் என்று கருதுகிறாயா? இல்லை - இல்லை.
+
+கடல் மாதா காப்பாற்றுவாள் என்று நம்பி ஓரத்திலே முளைத்திருக்கும் ஓலைக் குடிசைகளைத் தூக்கி
 
 ## அச்சு அல்லாத / physical-copy marks
 
 - மெல்லிய reverse-side show-through உள்ளது.
 - அச்சு உரையை மறைக்கும் later stamp/handwriting இல்லை.
 
-## P2 fidelity hold
+## P2 audit note
 
-- scan 29 / printed p.28 contains a substantial additional printed block beginning with the source-visible sequence `“உழைக்கும் பாட்டாளி - உயரும் முதலாளி - உண்மை நவில் அறிஞன் ...`.
-- that lower block has **not** been silently reconstructed from the older `முத்தாரம்` printing or from contextual inference.
-- exact 2006 wording, lineation, punctuation, and the continuation into scan 30 still require direct source-pixel closure before this page can be marked `verified`.
-- the paragraph transcribed above was directly checked against the supplied scan; the unresolved lower block remains an explicit P2 fidelity hold.
+- visible printed folio **28** and running header `மீசை முளைத்த வயதில்` directly verified.
+- the complete printed block was re-read against the controlling scan, including `உயர்பண்`, `சோம்பேறிக்குச்`, `ஏங்கித்தவிக்கும்`, `சிங்காரச் “செம்படச்சி”`, and the source punctuation around the repeated rhetorical questions.
+- the older `முத்தாரம்` printing was used only as a corroborating witness for difficult glyph recognition; differing older-edition spellings/punctuation were not imported.
+- the final sentence continues directly on scan 30 / printed p.29 after `தூக்கி`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 29 -->
