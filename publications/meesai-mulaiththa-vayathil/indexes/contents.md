@@ -98,17 +98,19 @@ Kalaignar's `என்னுரை` describes the collected pieces as `எழு
 
 ## Current P2 overlay
 
-P1 remains **COMPLETE / PASS**. P2 durable frontier is now **70 / 146 VERIFIED**, contiguous through scan 70.
+P1 remains **COMPLETE / PASS**. P2 durable frontier is now **80 / 146 VERIFIED**, contiguous through scan 80.
 
-- complete main-work units at the P2 page layer: **15 / 26**, through Unit 15 `தமிழே`;
-- Unit 16 `தேனலைகள்`: scans 63–70 / printed pp.62–69 VERIFIED; closes at scan 71 / p.70;
-- missing canonical records in scans 1–70: **0**;
+- complete main-work units at the P2 page layer: **17 / 26**, through Unit 17 `தோழி`;
+- Unit 16 `தேனலைகள்`: scans 63–71 / printed pp.62–70 — **9 / 9 VERIFIED / COMPLETE**;
+- Unit 17 `தோழி`: scans 72–77 / printed pp.71–76 — **6 / 6 VERIFIED / COMPLETE**;
+- Unit 18 `மருதாணி`: scans 78–80 / printed pp.77–79 VERIFIED; continues through scan 84 / p.83;
+- missing canonical records in scans 1–80: **0**;
 - unresolved printed-text blocks in verified scans: **0**;
 - P2 blockers: **0**;
 - P3 remains **NOT STARTED**.
 
-The completed 61–70 batch directly confirms `பச்சைக்கிளி` closure at scan 61, the single-page `தமிழே` at scan 62, and `தேனலைகள்` through scan 70. The source-visible 68→69 and 69→70 continuations are preserved in the canonical records and `P2_BATCH_061_070.md`.
+The completed 71–80 batch directly confirms `தேனலைகள்` closure at scan 71, `தோழி` closure at scan 77, and `மருதாணி` through scan 80. The source-visible 79→80 continuation `ஓராயிரம்` → `கதை சொல்லும் உவமை காட்டி!` is preserved in the canonical records and `P2_BATCH_071_080.md`.
 
 ## Exact next activity
 
-**Next P2 activity: scans 71–80 only.** Begin with scan 71 / printed p.70 closing `தேனலைகள்`; then process `தோழி` scans 72–77 / pp.71–76 and `மருதாணி` scans 78–80 / pp.77–79 of its 78–84 span. Every physical scan must retain a canonical page record; printed text, illustrations and physical-copy marks remain distinct; OCR is not authority. Stop after scan 80 and do not begin P3 assembly or English translation unless separately authorised.
+**Next P2 activity: scans 81–90 only.** Continue `மருதாணி` on scans 81–84 / pp.80–83 and close it at scan 84; then process `அருவி` scans 85–90 / pp.84–89, complete within the same batch. Every physical scan must retain a canonical page record; printed text, illustrations and physical-copy marks remain distinct; OCR is not authority. Stop after scan 90 and do not begin P3 assembly or English translation unless separately authorised.
