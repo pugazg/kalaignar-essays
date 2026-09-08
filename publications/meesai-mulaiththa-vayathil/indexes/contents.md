@@ -98,15 +98,17 @@ Kalaignar's `என்னுரை` describes the collected pieces as `எழு
 
 ## Current P2 overlay
 
-P1 remains **COMPLETE / PASS**. P2 durable frontier is now **60 / 146 VERIFIED**, contiguous through scan 60.
+P1 remains **COMPLETE / PASS**. P2 durable frontier is now **70 / 146 VERIFIED**, contiguous through scan 70.
 
-- complete main-work units at the P2 page layer: **13 / 26**, through Unit 13 `புகழ்`;
-- Unit 14 `பச்சைக்கிளி`: scans 59–60 / printed pp.58–59 VERIFIED; closes at scan 61 / p.60;
-- missing canonical records in scans 1–60: **0**;
+- complete main-work units at the P2 page layer: **15 / 26**, through Unit 15 `தமிழே`;
+- Unit 16 `தேனலைகள்`: scans 63–70 / printed pp.62–69 VERIFIED; closes at scan 71 / p.70;
+- missing canonical records in scans 1–70: **0**;
 - unresolved printed-text blocks in verified scans: **0**;
 - P2 blockers: **0**;
 - P3 remains **NOT STARTED**.
 
+The completed 61–70 batch directly confirms `பச்சைக்கிளி` closure at scan 61, the single-page `தமிழே` at scan 62, and `தேனலைகள்` through scan 70. The source-visible 68→69 and 69→70 continuations are preserved in the canonical records and `P2_BATCH_061_070.md`.
+
 ## Exact next activity
 
-**Next P2 activity: scans 61–70 only.** Begin with scan 61 / printed p.60 closing `பச்சைக்கிளி`; then scan 62 / p.61 is single-page `தமிழே`; scans 63–70 / pp.62–69 continue `தேனலைகள்`, whose closing page is scan 71 / p.70. Every physical scan must retain a canonical page record; printed text, illustrations and physical-copy marks remain distinct; OCR is not authority. Stop after scan 70 and do not begin P3 assembly or English translation unless separately authorised.
+**Next P2 activity: scans 71–80 only.** Begin with scan 71 / printed p.70 closing `தேனலைகள்`; then process `தோழி` scans 72–77 / pp.71–76 and `மருதாணி` scans 78–80 / pp.77–79 of its 78–84 span. Every physical scan must retain a canonical page record; printed text, illustrations and physical-copy marks remain distinct; OCR is not authority. Stop after scan 80 and do not begin P3 assembly or English translation unless separately authorised.
