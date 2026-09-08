@@ -158,7 +158,7 @@ Canonical record: [`P2_BATCH_041_050.md`](P2_BATCH_041_050.md).
 
 - scans 41–50: **10 / 10 VERIFIED**;
 - Unit 8 `மலையே வாழி`, scans 39–41 / pp.38–40: **3 / 3 VERIFIED / COMPLETE**;
-- Unit 9 `தளிர`, scans 42–45 / pp.41–44: **4 / 4 VERIFIED / COMPLETE**;
+- Unit 9 `தளிர்`, scans 42–45 / pp.41–44: **4 / 4 VERIFIED / COMPLETE**;
 - Unit 10 `விண்மீன்`, scans 46–48 / pp.45–47: **3 / 3 VERIFIED / COMPLETE**;
 - Unit 11 `தனிமை`, scans 49–50 / pp.48–49: **2 / 6 VERIFIED so far; continues through scan 54**;
 - unresolved printed text inside verified scans: **0**;
