@@ -47,7 +47,7 @@ transcription_method: "direct visual comparison with source scan"
 எனக் கேட்டாள் கிள்ளை; கண்டுவிட்டு
 வியப்படைந்தான் மணப்பிள்ளை.
 
-“யாரளித்தார் எனக் கேட்பீர்; ஒரு தமிழன் - உயிர்
+“யாரளித்தார் எனக் கேட்பீர்; ஒரு தமிழன் - உயர்
 தமிழன் தந்தார்!”
 
 “யார் அந்தத் தமிழன்?”
@@ -60,7 +60,7 @@ transcription_method: "direct visual comparison with source scan"
 ## P2 audit note
 
 - visible printed folio **69**, running header and every dialogue/prose line were directly verified against the supplied 2006 scan.
-- source-visible forms retained include `எவ்வாறெ”ன்றாள்`, joined `யாராவது”என`, `யாருமில்லை”யென்று`, `ஆரம்`, `ஒளிர்பூங் கொம்பே`, `முத்துக் கணையாழி`, `மணப்பிள்ளை`, `யாரளித்தார்`, and `உயிர் தமிழன்`.
+- source-visible forms retained include `எவ்வாறெ”ன்றாள்`, joined `யாராவது”என`, `யாருமில்லை”யென்று`, `ஆரம்`, `ஒளிர்பூங் கொம்பே`, `முத்துக் கணையாழி`, `மணப்பிள்ளை`, `யாரளித்தார்`, and `உயர் தமிழன்`.
 - scan 69→70 directly completes `முடிவுமின்றித்` → `தொடங்கிற்று!`; Unit 16 `தேனலைகள்` remains open because the verified P1 map continues through scan 71 / printed p.70.
 
 <!-- மூல ஸ்கேன் பக்கம்: 70 -->
