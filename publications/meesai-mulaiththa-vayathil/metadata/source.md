@@ -13,163 +13,88 @@
 
 ## Printed identity witnesses
 
-### Front cover — scan 1
+- title: `மீசை முளைத்த வயதில்`;
+- author: `கலைஞர் மு.கருணாநிதி`;
+- publisher: `தமிழ்க்கனி பதிப்பகம்`;
+- first-edition witness: `முதற்பதிப்பு : கலைஞர் பிறந்த நாள் 3.6.2002`;
+- supplied-edition witness: `இரண்டாம் பதிப்பு : அக்டோபர் 2006`;
+- printed price: `ரூ.70/-`.
 
-- title: `மீசை முளைத்த வயதில்`
-- author line: `கலைஞர் மு.கருணாநிதி`
-- illustrated colour cover
-- later physical-copy/library label at lower left; not publication text
-
-### Title page — scan 2
-
-- title: `மீசை முளைத்த வயதில்`
-- author: `கலைஞர் மு.கருணாநிதி`
-- publisher: `தமிழ்க்கனி பதிப்பகம்`
-- portrait of the young author
-- later circular library stamp; not publication text
-
-### Imprint / edition page — scan 3
-
-Direct visual intake confirms:
-
-- printed price: `ரூ.70/-`;
-- first edition witness: `முதற்பதிப்பு : கலைஞர் பிறந்த நாள் 3.6.2002`;
-- second edition witness: `இரண்டாம் பதிப்பு : அக்டோபர் 2006`.
-
-A large later library stamp and handwritten/accession markings obscure portions of the imprint/contact block. Those obscured details are **not reconstructed from context**.
-
-## Source form / classification
-
-This supplied edition is **not a single conventional essay**. It is an illustrated, multi-piece literary collection of Kalaignar's youthful writings.
-
-The author's `என்னுரை` describes the gathered pieces as **`எழுத்தோவியங்கள்`** and explains that they were collected under the title `மீசை முளைத்த வயதில்`. The following `முன்னுரை` is by `கவிப்பேரரசு வைரமுத்து`.
-
-Repository classification: **multi-piece youthful literary / prose collection (`எழுத்தோவியங்கள்`)** archived under `kalaignar-essays` without silently relabelling every source-titled unit as a conventional essay, poem, speech or story.
+The supplied edition remains an illustrated, multi-piece literary collection described by the author as **`எழுத்தோவியங்கள்`**.
 
 ## P1 canonical physical structure — VERIFIED
 
-P1 directly inspected and accounted for **146 / 146** physical scans.
+P1 accounts for **146 / 146** physical scans. Scans 18–145 carry continuous visible printed folios 17–144, with `printed page = scan page - 1`.
 
-- scan 1 — front cover;
-- scan 2 — title page;
-- scan 3 — imprint / edition / price page;
-- scans 4–6 — `என்னுரை` by Kalaignar;
-- scans 7–16 — `முன்னுரை` by `கவிப்பேரரசு வைரமுத்து`;
-- scan 17 — blank / reverse-side show-through only;
-- scans 18–145 — source-titled main work;
-- scan 146 — illustrated back cover / promotional text.
+- source-titled main units: **26 / 26**;
+- unmapped scans: **0**;
+- boundary overlaps: **0**;
+- printed contents page: **none**; `indexes/contents.md` is a repository editorial/source map.
 
-For every scan from **18 through 145**, P1 verified the continuous visible printed folio sequence **17 through 144**: `printed page = scan page - 1`.
+Permanent P1 source-title corrections:
 
-Printed body folios accounted for: **128 / 128**.  
-Unmapped physical scans: **0**.  
-Boundary overlaps: **0**.
-
-Canonical P1 records:
-
-- [`../indexes/page-map.md`](../indexes/page-map.md);
-- [`../indexes/contents.md`](../indexes/contents.md).
-
-## Printed contents witness
-
-**No printed contents page exists in the supplied edition.** `indexes/contents.md` is an explicitly labelled **repository editorial/source map** derived from source-visible opening headings and directly verified boundaries. It is not a publisher-supplied contents transcription.
-
-## P1 source-title corrections
-
-Direct source-pixel reinspection established three permanent title corrections:
-
-1. scan 36 / printed p.35: `முக்கை சித்தர்` → **`அகப்பை சித்தர்`**;
-2. scan 42 / printed p.41: `கள்ளி` → **`தளிர்`**;
-3. scan 136 / printed p.135: `மயிற்கு` → **`மயிலிறகு`**.
-
-These were title-reading corrections only. Unit boundaries, printed-page spans and the 26-unit count remain unchanged. Duplicate blockers remain **0**.
+1. scan 36 / p.35 — **`அகப்பை சித்தர்`**;
+2. scan 42 / p.41 — **`தளிர்`**;
+3. scan 136 / p.135 — **`மயிலிறகு`**.
 
 ## P2 canonical page status
 
-P2 is **IN PROGRESS — 80 / 146 VERIFIED**.
+P2 is **IN PROGRESS — 90 / 146 VERIFIED**.
 
-Canonical batch records:
-
-- [`../P2_BATCH_001_010.md`](../P2_BATCH_001_010.md);
-- [`../P2_BATCH_011_020.md`](../P2_BATCH_011_020.md);
-- [`../P2_BATCH_021_030.md`](../P2_BATCH_021_030.md);
-- [`../P2_BATCH_031_040.md`](../P2_BATCH_031_040.md);
-- [`../P2_BATCH_041_050.md`](../P2_BATCH_041_050.md);
-- [`../P2_BATCH_051_060.md`](../P2_BATCH_051_060.md);
-- [`../P2_BATCH_061_070.md`](../P2_BATCH_061_070.md);
-- [`../P2_BATCH_071_080.md`](../P2_BATCH_071_080.md).
+Canonical batch records now run through `P2_BATCH_081_090.md`.
 
 Current direct-source result:
 
-- canonical pages verified: **80 / 146**;
-- contiguous verified range: **scans 1–80**;
+- canonical pages verified: **90 / 146**;
+- contiguous verified range: **scans 1–90**;
 - cover/title/imprint: **3 / 3 VERIFIED**;
 - `என்னுரை`, scans 4–6: **3 / 3 VERIFIED / COMPLETE**;
 - `முன்னுரை`, scans 7–16: **10 / 10 VERIFIED / COMPLETE**;
 - scan 17 blank/show-through: **VERIFIED**;
-- Units 1–17 through `தோழி`: **COMPLETE at the P2 page layer**;
-- Unit 18 `மருதாணி`, scans 78–80 / printed pp.77–79: **3 / 7 VERIFIED so far; continues through scan 84 / p.83**;
-- complete main-work units at the P2 page layer: **17 / 26**;
-- missing canonical page records in scans 1–80: **0**;
+- Units 1–19 through `அருவி`: **COMPLETE at the P2 page layer**;
+- Unit 18 `மருதாணி`, scans 78–84 / pp.77–83: **7 / 7 VERIFIED / COMPLETE**;
+- Unit 19 `அருவி`, scans 85–90 / pp.84–89: **6 / 6 VERIFIED / COMPLETE**;
+- complete main-work units: **19 / 26**;
+- missing canonical records in scans 1–90: **0**;
 - unresolved printed-text blocks in verified scans: **0**;
 - active P2 blockers: **0**.
 
 Durable source findings remain non-regressed:
 
-- scan 32 third source subheading is **`அரசு`**, not the earlier working `அரசி`;
-- scan 47 `விண்மீன்` was directly re-read against the supplied 2006 pixels and its temporary review hold was closed;
+- scan 32 third source subheading is **`அரசு`**;
+- scan 47 `விண்மீன்` review was resolved directly against the supplied scan;
 - corrected scan-70 reading is **`உயர் தமிழன்`**;
-- scan 71 directly closes `தேனலைகள்`; Unit 16 is **9 / 9 VERIFIED / COMPLETE**;
-- Unit 17 `தோழி` is **6 / 6 VERIFIED / COMPLETE** on scans 72–77;
-- scan 77 preserves `நகத்தையன்றோ`, `மனச்சேதி`, `மூர்ச்சித்து`, `ஆரியனாம்`, `ஆவிதனைக்`, and `மறத்தியானாள்`;
-- scan 78 opens `மருதாணி` and preserves `நகை நட்டு`, `புகையொத்த`, `பிடிக்குங் காணாத`, `இளம்பிடி`, and `பேசிலோ கிள்ளை`;
-- scan 79→80 directly completes `ஓராயிரம்` → `கதை சொல்லும் உவமை காட்டி!`;
-- scan 80 preserves `ஆடிப் பெருக்கிற்கு`, `பொழியலானாள்`, `பாட்டியொருத்தி`, `தடையின்றிப்`, `கொழுந்துகளை`, `குறி பதிக்கும்`, and `வெட்கந் தேக்கிப்`.
+- scans 81–84 directly close `மருதாணி`, with the final bullet on scan 84;
+- scan 85 is the illustrated opening of `அருவி`;
+- scans 85–90 directly complete `அருவி`, with the final bullet on scan 90.
 
 Source wording is not silently modernised or regularised. The supplied 2006 scan pixels determine the canonical reading. OCR is not authority; alternate editions may corroborate difficult glyphs only and are not silently imported.
-
-Although seventeen main-work units have complete verified P2 spans, **P3 assembly is NOT STARTED** under the current P2-only cadence.
 
 ## Physical-copy / scan condition
 
 - high-resolution image-only scan;
 - light reverse-side show-through is common;
-- library stamps/accession markings occur on multiple scans;
-- scan 3 has a large stamp and handwriting over imprint matter;
-- scan 62 carries a later library stamp/accession marking below the printed `தமிழே` text; it is not publication text;
-- illustrations accompany many titled-unit openings;
-- physical-copy marks stay separate from printed text in page records;
-- source wording, punctuation, historical spelling and unusual forms are not modernised;
-- text obscured by stamps/damage is not reconstructed from context.
-
-## Date / edition discipline
-
-Source-supported edition evidence:
-
-- first edition: **3 June 2002** (`கலைஞர் பிறந்த நாள் 3.6.2002` as printed);
-- supplied edition: **second edition, October 2006**;
-- publisher: **தமிழ்க்கனி பதிப்பகம்**.
-
-Do not infer a composition date for an individual internal piece merely from these edition dates.
+- later library stamps/accession markings occur on multiple scans;
+- physical-copy marks stay separate from printed text;
+- obscured text is not reconstructed from context.
 
 ## Current workflow status
 
-- P0 — source intake / publication identification: **COMPLETE / PASS**
-- P1 — metadata + full page map + unit/contents mapping + duplicate reconciliation: **COMPLETE / PASS**
-- P2 — page-level transcription: **IN PROGRESS — 80 / 146 VERIFIED**
-- P3 — assemblies: **NOT STARTED**
-- P4 — source/completeness audit: **NOT STARTED**
-- P5 — strict visual word/punctuation fidelity: **NOT STARTED**
-- English translation: **BLOCKED until Tamil P5 freeze**
-- active blockers: **0**
+- P0 — **COMPLETE / PASS**
+- P1 — **COMPLETE / PASS**
+- P2 — **IN PROGRESS — 90 / 146 VERIFIED**
+- P3 — **NOT STARTED**
+- P4 — **NOT STARTED**
+- P5 — **NOT STARTED**
+- English translation — **BLOCKED until Tamil P5 freeze**
+- active blockers — **0**
 
 ## Exact next activity
 
-**P2 scans 81–90 only**:
+**P2 scans 91–100 only**:
 
-- scans 81–84 / printed pp.80–83 continue and close `மருதாணி`;
-- scans 85–90 / pp.84–89 are `அருவி`, complete within the batch;
-- use the supplied scan pixels as authority and directly verify one canonical record per scan;
-- after all ten pass, create `P2_BATCH_081_090.md`, synchronize dependent trackers, and set the next activity to scans 91–100;
-- preserve printed and physical-copy layers separately;
-- **STOP after scan 90; do not begin P3 assembly or English translation unless separately authorised.**
+- scans 91–95 / pp.90–94 — Unit 20 `முறம்`, complete within the batch;
+- scans 96–100 / pp.95–99 — begin Unit 21 `யாழ்`, continuing through scan 102 / p.101;
+- use supplied scan pixels as authority and directly verify one canonical record per scan;
+- after all ten pass, create `P2_BATCH_091_100.md`, synchronize dependent trackers, and set next activity to scans 101–110;
+- **STOP after scan 100; do not begin P3 assembly or English translation unless separately authorised.**
