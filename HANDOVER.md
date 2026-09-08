@@ -9,7 +9,7 @@ Branch: `main`
 
 Publications **1–9 are RELEASE COMPLETE / FROZEN**.
 
-Active Publication **10 — `மீசை முளைத்த வயதில்` — P0–P1 COMPLETE / PASS; P2 IN PROGRESS — 120 / 146 VERIFIED; canonical records present and verified through scan 120.**
+Active Publication **10 — `மீசை முளைத்த வயதில்` — P0–P1 COMPLETE / PASS; P2 IN PROGRESS — 130 / 146 VERIFIED; canonical records present and verified through scan 130.**
 
 Source PDFs are never committed.
 
@@ -75,66 +75,70 @@ Completed canonical batches:
 - scans **81–90** — `P2_BATCH_081_090.md`;
 - scans **91–100** — `P2_BATCH_091_100.md`;
 - scans **101–110** — `P2_BATCH_101_110.md`;
-- scans **111–120** — `P2_BATCH_111_120.md`.
+- scans **111–120** — `P2_BATCH_111_120.md`;
+- scans **121–130** — `P2_BATCH_121_130.md`.
 
 Current P2 state:
 
-- contiguous verified range: **1–120**;
-- verified canonical pages: **120 / 146**;
-- canonical page records present: **120 / 146**;
-- missing canonical records in scans 1–120: **0**;
+- contiguous verified range: **1–130**;
+- verified canonical pages: **130 / 146**;
+- canonical page records present: **130 / 146**;
+- missing canonical records in scans 1–130: **0**;
 - unresolved printed-text blocks in verified scans: **0**;
 - active P2 blockers: **0**;
-- complete main-work units at the P2 page layer: **22 / 26**.
+- complete main-work units at the P2 page layer: **24 / 26**.
 
-Units **1–22 through `சிற்பி` are COMPLETE** at the P2 page layer.
+Units **1–24 through `மடல்` are COMPLETE** at the P2 page layer.
 
 Latest state:
 
-- Unit 22 `சிற்பி` — scans **103–114 / pp.102–113 — 12 / 12 VERIFIED / COMPLETE**;
-- Unit 23 `சேவல் சண்டை` — scans **115–120 / pp.114–119 — 6 / 8 VERIFIED so far**; continues through scan 122 / p.121.
+- Unit 23 `சேவல் சண்டை` — scans **115–122 / pp.114–121 — 8 / 8 VERIFIED / COMPLETE**;
+- Unit 24 `மடல்` — scans **123–128 / pp.122–127 — 6 / 6 VERIFIED / COMPLETE**;
+- Unit 25 `ஆண்டு விழா` — scans **129–130 / pp.128–129 — 2 / 7 VERIFIED so far**; continues through scan 135 / p.134.
 
-### Durable source findings from scans 111–120
+### Durable source findings from scans 121–130
 
-- scan 110→111 directly continues the unfinished `இருப்பது போல் உயிருள்ள கலைக்கும் ஆபத்து` sentence;
-- scan 114 closes `சிற்பி` with the source-visible final bullet `●`;
-- scan 115 is the illustrated `சேவல் சண்டை` opening;
-- scan 116→117 continues `பெண் குலத்தைப் புகழ்வதற்கும்` → `ஆண் மயில் தான் தேவைப்படும்`;
-- scan 117→118 moves from `பேசலுற்றேன்;` into `சேவற் சண்டையிலே பெற்ற புகழ் பெருவீரம்`;
-- scan 118 directly preserves `சேரன் செங்குட்டுவன்`, `கனகவிசயர்`, `கோழ்மையையும்`, `சூளுரைப்பேன்`, and `நெருக்கடியில்`;
-- scan 118→119 moves from `அதன் பிள்ளை இந்தச் சேவல்!` into `சரியத்தான் - சேவல் பேச்சு முடியட்டும்...`;
-- scans 119–120 preserve source-visible forms including `பழச்சுவை யமுதங்கூட`, `நம்பிக்கையொரு`, `கிழியொன்று`, `பிராண்டுதற்கும்`, `எகிற் கொண்டைகள்`, `‘மளமள’ வென`, and `கலங்கலுற்றான்`;
-- scan 120 remains an internal continuation page; no scan-121 wording was reconstructed from context;
+- scan 121 continues the final `சேவல் சண்டை` sequence and ends inside `“பார்த்தாயா`;
+- scan 121→122 directly continues `“பார்த்தாயா` → `கூண்டழகை” எனக் காட்ட!`;
+- scan 122 closes `சேவல் சண்டை` with the source-visible final bullet `●`;
+- scan 123 is the illustrated `மடல்` opening;
+- scan 125→126 directly continues `அவள் மடல்` → `கண்டு...`;
+- scan 127 preserves the quoted verse lineation through `இஃது அறிந் தீமின்;`;
+- scan 127→128 directly continues `மென்மலர்` → `அம்புகளால் உயிரைக் கொல்லும்`;
+- scan 128 closes `மடல்` with `- அன்புக் காதலி` and the final bullet `●`;
+- scan 129 is the illustrated `ஆண்டு விழா` opening;
+- scan 130 preserves dialogue forms including `வக்கணைக்காரி`, `எக்கமிகு`, `குளிரேற்றிப்`, `தீங்களியே`, and `மூன்றாம் பாலினுக்கும்`;
+- scan 130 ends inside the quoted speech at `ஆண்டு ஒன்று`; no scan-131 wording was reconstructed from context;
 - supplied 2006 scan pixels remained controlling; OCR was not authority and no secondary-edition wording was silently imported.
 
-Earlier durable source findings remain in their batch records, including scan 32 `அரசு`, the scan-47 `விண்மீன்` source review, corrected scan-70 `உயர் தமிழன்`, and all permanent P1 title corrections.
+Earlier durable source findings remain in their batch records, including scan 32 `அரசு`, the scan-47 `விண்மீன்` source review, corrected scan-70 `உயர் தமிழன்`, scan-118 `சேரன் செங்குட்டுவன்`, and all permanent P1 title corrections.
 
 ## Gate state
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
-- P2 — **IN PROGRESS — 120 / 146 VERIFIED**;
+- P2 — **IN PROGRESS — 130 / 146 VERIFIED**;
 - P3 — **NOT STARTED**;
 - P4 — **NOT STARTED**;
 - P5 — **NOT STARTED**;
 - English — **BLOCKED until Tamil P5 freeze**.
 
-## Exact next activity — P2 scans 121–130 only
+## Exact next activity — P2 scans 131–140 only
 
 When the user says proceed/continue:
 
 1. fetch live `main` and preserve newer durable work;
-2. resolve the controlling source and inspect **scan 121 / printed p.120 first**;
-3. process scans **121–130 only**, following the verified P1 page map:
-   - scans **121–122 / pp.120–121** — continue and close Unit 23 `சேவல் சண்டை`;
-   - scans **123–128 / pp.122–127** — process and complete Unit 24 `மடல்`;
-   - scans **129–130 / pp.128–129** — begin Unit 25 `ஆண்டு விழா`, which continues through scan 135 / p.134;
-4. supplied 2006 scan pixels remain controlling; secondary witnesses may corroborate difficult glyphs only and must never silently supply wording;
-5. preserve exact wording, punctuation, word boundaries, paragraph/verse/dialogue lineation, running headers/folios, illustrations and continuation; keep later physical-copy marks separate;
-6. create/re-fetch one canonical page record per scan and mark `verified` only after direct source comparison;
-7. after all ten scans 121–130 pass, create `P2_BATCH_121_130.md` and synchronize publication/root trackers;
-8. set the following P2 activity to scans **131–140**;
-9. **STOP after scan 130. Do not begin P3 assemblies or English translation unless separately authorised.**
+2. resolve the controlling source and inspect **scan 131 / printed p.130 first**, continuing the unfinished `ஆண்டு ஒன்று` speech from scan 130;
+3. process scans **131–140 only**, following the verified P1 page map:
+   - scans **131–135 / pp.130–134** — continue and close Unit 25 `ஆண்டு விழா`;
+   - scans **136–140 / pp.135–139** — begin Unit 26 `மயிலிறகு`, which continues through scan 145 / p.144;
+4. scan 136 must retain the permanent source-title reading **`மயிலிறகு`**;
+5. supplied 2006 scan pixels remain controlling; secondary witnesses may corroborate difficult glyphs only and must never silently supply wording;
+6. preserve exact wording, punctuation, word boundaries, paragraph/verse/dialogue lineation, running headers/folios, illustrations and continuation; keep later physical-copy marks separate;
+7. create/re-fetch one canonical page record per scan and mark `verified` only after direct source comparison;
+8. after all ten scans 131–140 pass, create `P2_BATCH_131_140.md` and synchronize publication/root trackers;
+9. set the following P2 activity to the final remainder **scans 141–146**;
+10. **STOP after scan 140. Do not begin P3 assemblies or English translation unless separately authorised.**
 
 ---
 
