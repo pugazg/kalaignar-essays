@@ -40,6 +40,6 @@ transcription_method: "direct visual comparison with source scan"
 - visible printed folio **47**, running header, all closing prose, final two short lines and bullet directly verified against the supplied 2006 scan.
 - the supplied edition does not print the older witness's editorial subheadings `வால் நட்சத்திரம்` / `முடிவு` on this page; they were not imported.
 - source-visible forms retained include `பறை சாற்று`, `ஒளிமுத்தே`, `ஒருவர்க்கு`, `முழுவால் தான்`, `இப்பெருவையம்`, `முகில் மாடத்து`, `மலர்காள்`, and joined `புதுக்கற்பனை`.
-- Unit 10 `விண்மீன்` closes on this scan; scan 47 remains the only open page in this unit pending exact dense continuation closure.
+- Unit 10 `விண்மீன்` is P2 page-layer COMPLETE on scans 46–48 / printed pp.45–47; all three canonical pages are verified.
 
 <!-- மூல ஸ்கேன் பக்கம்: 48 -->
