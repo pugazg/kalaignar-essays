@@ -6,17 +6,19 @@ publication: "meesai-mulaiththa-vayathil"
 article: "04-kadale"
 section: "kadale"
 page_type: "main-work-close"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf"
-transcription_method: "direct visual comparison with source scan; opening continuation retained as an explicit fidelity hold"
+transcription_method: "direct visual comparison with source scan"
 ---
 
-# அச்சு உரை — partial working transcription; not yet P2-verified
+# அச்சு உரை
 
 ## அச்சிடப்பட்ட ஓடுதலைப்பு
 
 கலைஞர் மு. கருணாநிதி
+
+எறிகிறாயே; தொழிலாளிகள் என்றால் உனக்குமா துரோக புத்தி - என்று கேட்டிருக்கிறேன் - பலமுறை கேட்டிருக்கிறேன் - அதையல்ல இப்போது கேட்கப் போவது!
 
 முத்துப் பெருங்குளமே!
 
@@ -35,10 +37,12 @@ transcription_method: "direct visual comparison with source scan; opening contin
 - மெல்லிய reverse-side show-through உள்ளது.
 - அச்சு உரையை மறைக்கும் later stamp/handwriting இல்லை.
 
-## P2 fidelity hold
+## P2 audit note
 
-- the opening continuation above `முத்துப் பெருங்குளமே!` is still tied to scan 29's unresolved lower block and is therefore deliberately not reconstructed here.
-- the source-visible text from `முத்துப் பெருங்குளமே!` through the closing bullet was directly compared with scan 30; however this page remains `needs-review` until its opening continuation and the scan-29→30 boundary are closed word-for-word and punctuation-for-punctuation.
-- the older `முத்தாரம்` witness differs in several forms and is not authority; the supplied 2006 pixels control this record.
+- visible printed folio **29** and running header `கலைஞர் மு. கருணாநிதி` directly verified.
+- scan 29→30 continuation is closed source-first: scan 29 ends at `... ஓலைக் குடிசைகளைத் தூக்கி`, and this scan begins `எறிகிறாயே; தொழிலாளிகள் என்றால் ...`.
+- source-visible 2006 forms `பலமுறை`, `செல்வத் திருநகரின்`, `அதுபோல்`, `வடநாட்டுச் சனத்தை`, question mark after `உன் கரம்?`, and `இல்லையெனில்` are retained even where the older `முத்தாரம்` witness differs.
+- closing three-line address and printed bullet `●` directly verified.
+- Unit 4 `கடலே` closes on this scan with no unresolved printed-text block.
 
 <!-- மூல ஸ்கேன் பக்கம்: 30 -->
