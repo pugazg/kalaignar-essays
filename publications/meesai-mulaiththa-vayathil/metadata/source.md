@@ -104,12 +104,13 @@ Canonical batch records:
 
 - [`../P2_BATCH_001_010.md`](../P2_BATCH_001_010.md);
 - [`../P2_BATCH_011_020.md`](../P2_BATCH_011_020.md);
-- [`../P2_BATCH_021_030.md`](../P2_BATCH_021_030.md).
+- [`../P2_BATCH_021_030.md`](../P2_BATCH_021_030.md);
+- [`../P2_BATCH_031_040.md`](../P2_BATCH_031_040.md).
 
 Current direct-source result:
 
-- canonical pages verified: **30 / 146**;
-- contiguous verified range: **scans 1–30**;
+- canonical pages verified: **40 / 146**;
+- contiguous verified range: **scans 1–40**;
 - cover/title/imprint: **3 / 3 VERIFIED**;
 - `என்னுரை`, scans 4–6: **3 / 3 VERIFIED / COMPLETE**;
 - `முன்னுரை`, scans 7–16: **10 / 10 VERIFIED / COMPLETE**;
@@ -118,9 +119,16 @@ Current direct-source result:
 - Unit 2 `ஆடிக்காற்று`, scans 21–23 / printed pp.20–22: **3 / 3 VERIFIED / COMPLETE**;
 - Unit 3 `கருப்புப் பெண்`, scans 24–27 / printed pp.23–26: **4 / 4 VERIFIED / COMPLETE**;
 - Unit 4 `கடலே`, scans 28–30 / printed pp.27–29: **3 / 3 VERIFIED / COMPLETE**;
-- missing canonical page records in scans 1–30: **0**;
+- Unit 5 `ஆறு`, scans 31–33 / printed pp.30–32: **3 / 3 VERIFIED / COMPLETE**;
+- Unit 6 `வாழிய வைகறை`, scans 34–35 / printed pp.33–34: **2 / 2 VERIFIED / COMPLETE**;
+- Unit 7 `அகப்பை சித்தர்`, scans 36–38 / printed pp.35–37: **3 / 3 VERIFIED / COMPLETE**;
+- Unit 8 `மலையே வாழி`, scans 39–40 / printed pp.38–39: **2 / 2 VERIFIED so far; continues to scan 41 / p.40**;
+- complete main-work units at the P2 page layer: **7 / 26**;
+- missing canonical page records in scans 1–40: **0**;
 - unresolved printed-text blocks in verified scans: **0**;
 - active P2 blockers: **0**.
+
+The scan-31–40 batch established a controlling-source correction on scan 32: its third source subheading is **`அரசு`**, not the earlier working reading `அரசி`.
 
 Source-sensitive forms already frozen at the P2 page layer include, among others:
 
@@ -136,11 +144,21 @@ Source-sensitive forms already frozen at the P2 page layer include, among others
 - `சிங்காரச் “செம்படச்சி”`;
 - `செல்வத் திருநகரின்`;
 - `அதுபோல்`;
-- `இல்லையெனில்`.
+- `இல்லையெனில்`;
+- `மாணிக்கப்பல்`;
+- `தொட்டிற்`;
+- `அன்றாடங்காய்ச்சி`;
+- `சுத்த சுதேசித் தம்புராவை`;
+- `ஆதீனங்கள்`;
+- `அவதாரப் புருஷர்`;
+- `கோஷாப் பெண்`;
+- `மேகச் சீமாட்டிகளின்`;
+- `அகிலமதிரக்`;
+- `அகிலும் தேக்கும்`.
 
-These source forms are not silently modernised or regularised. For difficult readings in Units 2–4, an older `முத்தாரம்` printing was used only for corroboration; the supplied 2006 scan pixels determined the canonical reading.
+These source forms are not silently modernised or regularised. An older `முத்தாரம்` printing has been used only for corroboration of difficult glyphs; the supplied 2006 scan pixels determine the canonical reading. An older-edition sentence mentioning `கமால்` is absent from supplied scan 40 and was not imported.
 
-Although four main-work units have complete verified P2 spans, **P3 assembly is NOT STARTED** under the current P2-only cadence.
+Although seven main-work units have complete verified P2 spans, **P3 assembly is NOT STARTED** under the current P2-only cadence.
 
 ## Physical-copy / scan condition
 
@@ -167,7 +185,7 @@ Do not infer a composition date for an individual internal piece merely from the
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**
 - P1 — metadata + full page map + unit/contents mapping + duplicate reconciliation: **COMPLETE / PASS**
-- P2 — page-level transcription: **IN PROGRESS — 30 / 146 VERIFIED**
+- P2 — page-level transcription: **IN PROGRESS — 40 / 146 VERIFIED**
 - P3 — assemblies: **NOT STARTED**
 - P4 — source/completeness audit: **NOT STARTED**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
@@ -176,13 +194,10 @@ Do not infer a composition date for an individual internal piece merely from the
 
 ## Exact next activity
 
-**P2 scans 31–40 only**:
+**P2 scans 41–50 only**:
 
-- scans 31–33 / printed pp.30–32 — `ஆறு`;
-- scans 34–35 / printed pp.33–34 — `வாழிய வைகறை`;
-- scans 36–38 / printed pp.35–37 — `அகப்பை சித்தர்`;
-- scans 39–40 / printed pp.38–39 — `மலையே வாழி` opening/continuation; the unit continues to scan 41 / p.40;
-- use the scan as authority;
-- create and directly verify one canonical page record per scan;
-- stop after scan 40;
-- do not begin scan 41, P3 assembly or English translation under that activity.
+- scan 41 / printed p.40 continues `மலையே வாழி` from the verified mid-sentence ending on scan 40;
+- follow the P1 page map and source-visible boundaries through scan 50;
+- use the supplied scan pixels as authority and directly verify one canonical record per scan;
+- preserve printed and physical-copy layers separately;
+- do not begin P3 assembly or English translation in that activity unless separately authorised.
