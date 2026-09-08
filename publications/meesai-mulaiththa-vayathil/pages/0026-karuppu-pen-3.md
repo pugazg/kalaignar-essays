@@ -6,13 +6,13 @@ publication: "meesai-mulaiththa-vayathil"
 article: "03-karuppu-pen"
 section: "karuppu-pen"
 page_type: "main-work"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf"
-transcription_method: "direct visual comparison with source scan; secondary witness used only for corroboration; unresolved lower-page reading retained as a hold"
+transcription_method: "direct visual comparison with source scan"
 ---
 
-# அச்சு உரை — partial working transcription; not yet P2-verified
+# அச்சு உரை
 
 ## அச்சிடப்பட்ட ஓடுதலைப்பு
 
@@ -26,19 +26,20 @@ transcription_method: "direct visual comparison with source scan; secondary witn
 
 ஆமாம்; உன் சகோதரன் சந்திரன், வெண்துகில் ஒன்று கொடுத்தானே; அதை யார் பிடுங்கிக் கொண்டது! இயற்கையாண்டிதானே! அப்பப்பா!
 
+அவன் ஒரு “மாயக் கண்ணன்” தான். உன் சேலையைத் திருடுவதிலே அவனுக்கு ஒரு கிறுக்கு. திருட்டுப்பயல் அவனைத்தான் உனக்கு அறவே பிடிக்காதே.
+
+பிறகு எப்படித்தான் உனக்குத் திருமணமாவது? கருப்புப் பெண்ணே! இரவு நங்கையே! என் கவலையெல்லாம் உன் கல்யாணத்தைப் பற்றித்தான் - என் முகம் வெளுக்கிறது உனக்கு?
+
 ## அச்சு அல்லாத / physical-copy marks
 
 - மெல்லிய reverse-side show-through உள்ளது.
 - அச்சு உரையை மறைக்கும் later stamp/handwriting இல்லை.
 
-## P2 fidelity hold
+## P2 audit note
 
-This page remains **`needs-review`**.
-
-- The text above is the directly compared, source-supported portion of scan 26.
-- The remaining lower-page lines after `அப்பப்பா!` are **deliberately not reconstructed here**. The older `முத்தாரம்` printing suggests a `“மாயக் கண்ணன்”` / stolen-sari passage and the transition toward the marriage question, but the exact 2006 wording, punctuation, and one difficult word after `அவனுக்கு ஒரு ...` still require source-pixel resolution.
-- Exact hyphen/dash spacing in `சுயம்வர மண்டபத்திலே ...` and the ellipsis after `எதிர்பார்க்கிறாய்` also require final scan-level confirmation.
-
-No secondary-witness wording has been silently inserted into the unresolved lower-page span.
+- visible printed folio **25** and running header `கலைஞர் மு. கருணாநிதி` directly verified.
+- the previously held lower-page passage was resolved directly from the controlling source pixels, including `“மாயக் கண்ணன்”`, `கிறுக்கு.`, and the marriage-question transition.
+- source punctuation, dash use and the visible multi-dot pause after `எதிர்பார்க்கிறாய்` were retained without normalization.
+- Unit 3 continues and closes on scan 27 / printed p.26.
 
 <!-- மூல ஸ்கேன் பக்கம்: 26 -->
