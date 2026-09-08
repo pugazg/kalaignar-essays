@@ -31,7 +31,7 @@ Released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
 Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mulaiththa-vayathil/)
 
-**P0–P1 COMPLETE / PASS — P2 IN PROGRESS: 100 / 146 VERIFIED.**
+**P0–P1 COMPLETE / PASS — P2 IN PROGRESS: 110 / 146 VERIFIED.**
 
 - controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
 - source SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
@@ -49,18 +49,19 @@ P1 remains **146 / 146 scans**, **26 / 26 source-titled units**. Permanent corre
 
 P2 durable progress:
 
-- scans **1–100: 100 / 100 VERIFIED**;
+- scans **1–110: 110 / 110 VERIFIED**;
 - `என்னுரை`: **3 / 3 VERIFIED / COMPLETE**;
 - `முன்னுரை`: **10 / 10 VERIFIED / COMPLETE**;
 - scan 17: **verified blank / reverse-side show-through**;
-- Units **1–20 through `முறம்` COMPLETE** at the P2 page layer;
-- Unit 21 `யாழ்`: scans **96–100 / pp.95–99 — 5 / 7 VERIFIED**, continuing through scan 102 / p.101;
-- complete main-work units: **20 / 26**;
+- Units **1–21 through `யாழ்` COMPLETE** at the P2 page layer;
+- Unit 21 `யாழ்`: scans **96–102 / pp.95–101 — 7 / 7 VERIFIED / COMPLETE**;
+- Unit 22 `சிற்பி`: scans **103–110 / pp.102–109 — 8 / 12 VERIFIED**, continuing through scan 114 / p.113;
+- complete main-work units: **21 / 26**;
 - unresolved printed prose blocks in verified scans: **0**;
 - P2 blockers: **0**;
 - P3 assemblies: **NOT STARTED**.
 
-The scan-91–100 batch directly completed `முறம்` on scans 91–95 and opened/verified `யாழ்` through scan 100. Scan 100 ends `அதைத் தடுக்கத்`, deliberately left open for scan 101. Supplied 2006 scan pixels remained controlling; OCR and secondary-edition wording were not used as authority.
+The scan-101–110 batch directly closed `யாழ்` at scan 102 and opened/verified `சிற்பி` through scan 110. Scan 110 ends `இருப்பது போல் உயிருள்ள கலைக்கும் ஆபத்து`, deliberately left open for scan 111. Supplied 2006 scan pixels remained controlling; OCR and secondary-edition wording were not used as authority.
 
 Batch records now include:
 
@@ -74,14 +75,15 @@ Batch records now include:
 - `P2_BATCH_071_080.md`
 - `P2_BATCH_081_090.md`
 - `P2_BATCH_091_100.md`
+- `P2_BATCH_101_110.md`
 
 English remains **BLOCKED until Tamil P5 freeze**.
 
 ## Current repository boundary
 
-Publication 10 P2 is **IN PROGRESS — 100 / 146 VERIFIED**, contiguous through scan 100, with **20 / 26** main-work units complete and blockers **0**.
+Publication 10 P2 is **IN PROGRESS — 110 / 146 VERIFIED**, contiguous through scan 110, with **21 / 26** main-work units complete and blockers **0**.
 
-Exact next activity: **P2 scans 101–110 only**. Scans 101–102 / pp.100–101 continue and close Unit 21 `யாழ்`; scans 103–110 / pp.102–109 begin Unit 22 `சிற்பி`, which continues through scan 114 / p.113. Stop after scan 110; do not begin P3 assemblies or English translation unless separately authorised.
+Exact next activity: **P2 scans 111–120 only**. Scans 111–114 / pp.110–113 continue and close Unit 22 `சிற்பி`; scans 115–120 / pp.114–119 begin Unit 23 `சேவல் சண்டை`, which continues through scan 122 / p.121. Stop after scan 120; do not begin P3 assemblies or English translation unless separately authorised.
 
 ### Permanent `உடன்பிறப்பே` rule
 
