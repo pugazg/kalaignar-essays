@@ -39,7 +39,7 @@ Permanent title corrections remain:
 
 ## P2 — page-level transcription
 
-**RESULT: IN PROGRESS — 90 / 146 VERIFIED**
+**RESULT: IN PROGRESS — 100 / 146 VERIFIED**
 
 Completed batch records:
 
@@ -53,20 +53,29 @@ Completed batch records:
 | `P2_BATCH_051_060.md` | **10 / 10 VERIFIED** | Units 11–13 complete; Unit 14 advanced |
 | `P2_BATCH_061_070.md` | **10 / 10 VERIFIED** | Units 14–15 complete; Unit 16 advanced |
 | `P2_BATCH_071_080.md` | **10 / 10 VERIFIED** | Units 16–17 complete; Unit 18 advanced |
-| `P2_BATCH_081_090.md` | **10 / 10 VERIFIED** | Units 18 `மருதாணி` and 19 `அருவி` complete |
+| `P2_BATCH_081_090.md` | **10 / 10 VERIFIED** | Units 18–19 complete |
+| `P2_BATCH_091_100.md` | **10 / 10 VERIFIED** | Unit 20 `முறம்` complete; Unit 21 `யாழ்` through scan 100 |
 
-### P2 batch 9 — scans 81–90
+### P2 batch 10 — scans 91–100
 
-Canonical record: `P2_BATCH_081_090.md`.
+Canonical record: `P2_BATCH_091_100.md`.
 
-- scans 81–90: **10 / 10 VERIFIED**;
-- Unit 18 `மருதாணி`, scans 78–84 / pp.77–83: **7 / 7 VERIFIED / COMPLETE**;
-- Unit 19 `அருவி`, scans 85–90 / pp.84–89: **6 / 6 VERIFIED / COMPLETE**;
-- scan 84 carries the closing bullet for `மருதாணி`;
-- scan 85 is the illustrated opening of `அருவி`;
-- scan 90 carries the closing bullet for `அருவி`;
+- scans 91–100: **10 / 10 VERIFIED**;
+- Unit 20 `முறம்`, scans 91–95 / pp.90–94: **5 / 5 VERIFIED / COMPLETE**;
+- Unit 21 `யாழ்`, scans 96–100 / pp.95–99: **5 / 7 VERIFIED so far; continues through scan 102 / p.101**;
+- scan 95 carries the closing bullet for `முறம்`;
+- scan 96 is the illustrated opening of `யாழ்`;
+- scan 100 ends `அதைத் தடுக்கத்`, deliberately left open for direct continuation on scan 101;
 - unresolved printed text inside verified scans: **0**;
 - batch blockers: **0**.
+
+Direct continuation checks:
+
+- scan 98→99: `வெட்கம் ஆடுவதை` → `விழியினால் உணர்ந்தேன் தோழி`;
+- scan 99→100: `அவன் எவனோ` → `எனக்குக் காட்டிவிடு`;
+- scan 100→101 remains open; no context-based reconstruction was inserted.
+
+Selected source-sensitive forms retained in this batch include `புளிக் கொழம்பு`, `வைக்கோற் போரோடு`, `சிந்தையணு`, `பேர்” அறிவு`, `கருங்கயற் கண்`, `முப்பாவின் இறுதிப்பால்`, `“வணக்க”மென`, `கொழுநன்`, `அருங்கற்பு`, `பாயவுற்றான்`, `விழுந்தழுதாள்`, `தொட்டிமுத்தான்`, `தோகைதனை`, and `அநியாயக்காரன்`.
 
 The supplied 2006 source pixels remained authority throughout. OCR was not authority and no alternate-edition wording was silently imported.
 
@@ -74,13 +83,14 @@ Earlier durable findings remain non-regressed, including scan 32 **`அரசு
 
 ### Current P2 gate
 
-- canonical page records: **90 / 146 VERIFIED**;
-- contiguous verified range: **1–90**;
-- missing canonical records in scans 1–90: **0**;
+- canonical page records: **100 / 146 VERIFIED**;
+- contiguous verified range: **1–100**;
+- missing canonical records in scans 1–100: **0**;
 - `என்னுரை`: **3 / 3 COMPLETE**;
 - `முன்னுரை`: **10 / 10 COMPLETE**;
 - blank scan 17: **VERIFIED**;
-- complete main-work units: **19 / 26**;
+- complete main-work units: **20 / 26**;
+- Unit 21 `யாழ்`: **IN PROGRESS through scan 100**;
 - unresolved printed-text blocks: **0**;
 - active P2 blockers: **0**.
 
@@ -94,7 +104,7 @@ Earlier durable findings remain non-regressed, including scan 32 **`அரசு
 |---|---|
 | P0 | **COMPLETE / PASS** |
 | P1 | **COMPLETE / PASS** |
-| P2 | **IN PROGRESS — 90 / 146 VERIFIED** |
+| P2 | **IN PROGRESS — 100 / 146 VERIFIED** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -104,10 +114,10 @@ Active blockers: **0**.
 
 ## Exact next activity
 
-**P2 scans 91–100 only.**
+**P2 scans 101–110 only.**
 
-- scans 91–95 / pp.90–94 — Unit 20 `முறம்`, complete within the batch;
-- scans 96–100 / pp.95–99 — begin Unit 21 `யாழ்`, which continues through scan 102 / p.101;
-- verify each canonical page directly against the controlling scan;
-- after all ten pass, create `P2_BATCH_091_100.md`, synchronize dependent trackers, and set the next activity to scans 101–110;
-- **STOP after scan 100; do not begin P3 assembly or English translation unless separately authorised.**
+- scans 101–102 / pp.100–101 — continue and close Unit 21 `யாழ்`;
+- scans 103–110 / pp.102–109 — begin Unit 22 `சிற்பி`, continuing through scan 114 / p.113;
+- inspect scan 101 first to resolve the open `அதைத் தடுக்கத்` continuation from scan 100;
+- after all ten pass, create `P2_BATCH_101_110.md`, synchronize dependent trackers, and set next activity to scans 111–120;
+- **STOP after scan 110; do not begin P3 assembly or English translation unless separately authorised.**
