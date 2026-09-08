@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P2 scans 21–30
+# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P2 scans 31–40
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -14,11 +14,15 @@ Publication 10 `மீசை முளைத்த வயதில்` current d
 
 - P0 — **PASS**;
 - P1 — **PASS**;
-- P2 — **IN PROGRESS — scans 1–20 / 20 of 146 VERIFIED**;
+- P2 — **IN PROGRESS — scans 1–30 / 30 of 146 VERIFIED**;
 - `என்னுரை` — 3/3 VERIFIED / COMPLETE;
 - `முன்னுரை` — 10/10 VERIFIED / COMPLETE;
 - scan 17 blank/show-through — VERIFIED;
-- Unit 1 `பிறையே` scans 18–20 / pp.17–19 — 3/3 VERIFIED at page layer;
+- Unit 1 `பிறையே` scans 18–20 / pp.17–19 — 3/3 VERIFIED / COMPLETE;
+- Unit 2 `ஆடிக்காற்று` scans 21–23 / pp.20–22 — 3/3 VERIFIED / COMPLETE;
+- Unit 3 `கருப்புப் பெண்` scans 24–27 / pp.23–26 — 4/4 VERIFIED / COMPLETE;
+- Unit 4 `கடலே` scans 28–30 / pp.27–29 — 3/3 VERIFIED / COMPLETE;
+- complete main-work units at P2 page layer — 4/26;
 - unresolved printed prose blocks in verified scans — 0;
 - P2 blockers — 0;
 - P3 assemblies — NOT STARTED;
@@ -27,7 +31,8 @@ Publication 10 `மீசை முளைத்த வயதில்` current d
 Completed P2 batch records:
 
 - `P2_BATCH_001_010.md`;
-- `P2_BATCH_011_020.md`.
+- `P2_BATCH_011_020.md`;
+- `P2_BATCH_021_030.md`.
 
 ## Controlling source
 
@@ -46,13 +51,14 @@ Permanent P1 source-title readings:
 - `தளிர்` — scan 42 / p.41;
 - `மயிலிறகு` — scan 136 / p.135.
 
-## Exact next activity — P2 scans 21–30 only
+## Exact next activity — P2 scans 31–40 only
 
 Directly inspect and create canonical page records for:
 
-- scans **21–23** / printed pp.20–22 — `ஆடிக்காற்று`;
-- scans **24–27** / printed pp.23–26 — `கருப்புப் பெண்`;
-- scans **28–30** / printed pp.27–29 — `கடலே`.
+- scans **31–33** / printed pp.30–32 — Unit 5 `ஆறு`;
+- scans **34–35** / printed pp.33–34 — Unit 6 `வாழிய வைகறை`;
+- scans **36–38** / printed pp.35–37 — Unit 7 `அகப்பை சித்தர்`;
+- scans **39–40** / printed pp.38–39 — Unit 8 `மலையே வாழி` opening/continuation. The unit continues to scan **41 / printed p.40**, which is outside this batch.
 
 For each page:
 
@@ -64,10 +70,12 @@ For each page:
 6. use the scan pixels, not OCR or context, to resolve difficult glyphs;
 7. mark `verified` only after direct visual comparison.
 
-After scans 21–30 pass:
+Special non-regression rule for this batch: scan 36 / printed p.35 heading is **`அகப்பை சித்தர்`**. Do not regress it to the earlier incorrect reading.
 
-- create `P2_BATCH_021_030.md`;
+After scans 31–40 pass:
+
+- create `P2_BATCH_031_040.md`;
 - update publication `README.md`, `audit.md`, `metadata/source.md` as needed;
 - synchronize root `README.md`, `HANDOVER.md`, and this prompt;
-- set exact next activity to scans **31–40**;
-- **STOP after scan 30**. Do not begin scan 31 or P3 assemblies unless separately authorised.
+- set the next exact activity according to the verified live boundary;
+- **STOP after scan 40**. Do not begin scan 41 or P3 assemblies unless separately authorised.
