@@ -6,13 +6,13 @@ publication: "meesai-mulaiththa-vayathil"
 article: "09-thalir"
 section: "thalir"
 page_type: "main-work-close"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf"
-transcription_method: "direct visual comparison with source scan; final exact punctuation/word-boundary review pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
-# அச்சு உரை — working transcription; not yet P2-verified
+# அச்சு உரை
 
 ## அச்சிடப்பட்ட ஓடுதலைப்பு
 
@@ -37,10 +37,10 @@ transcription_method: "direct visual comparison with source scan; final exact pu
 - மெல்லிய reverse-side show-through உள்ளது.
 - அச்சு உரையை மறைக்கும் later stamp/handwriting இல்லை.
 
-## P2 fidelity hold
+## P2 audit note
 
-- visible printed folio **44**, running header, closing bullet and full short closing passage were directly inspected against the supplied 2006 scan.
-- wording is captured provisionally, but exact source punctuation/spacing around the dash and quoted `பாபச்` form requires one more strict pixel-level pass before `verified`.
-- Unit 9 `தளிர்` closes on this scan according to the verified P1 map.
+- visible printed folio **44**, running header, complete closing passage and final bullet directly verified against the supplied 2006 scan.
+- source-visible punctuation and word boundaries retained, including `நீ - நல்ல மனம் படைத்த தளிர்`, quoted `‘பாபச்’`, standalone `ஆனால்`, and `கெடுப்பதில்லை - அதனால்தான்`.
+- Unit 9 `தளிர்` closes on this scan; scan 44 remains the only open page in this unit pending exact closure of its source-visible lower wordplay.
 
 <!-- மூல ஸ்கேன் பக்கம்: 45 -->
