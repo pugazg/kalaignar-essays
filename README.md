@@ -33,7 +33,7 @@ Released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
 Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mulaiththa-vayathil/)
 
-**P0–P1 COMPLETE / PASS — P2 IN PROGRESS: 40 / 146 VERIFIED.**
+**P0–P1 COMPLETE / PASS — P2 IN PROGRESS: 50 / 146 VERIFIED.**
 
 - controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
 - source SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
@@ -54,24 +54,20 @@ P1 mapping remains **146 / 146 scans**, **26 / 26 source-titled units**, with no
 
 P2 durable progress:
 
-- scans **1–40: 40 / 40 VERIFIED**;
+- scans **1–50: 50 / 50 VERIFIED**;
 - `என்னுரை`: **3 / 3 VERIFIED / COMPLETE**;
 - `முன்னுரை`: **10 / 10 VERIFIED / COMPLETE**;
 - scan 17: **verified blank / reverse-side show-through**;
-- Unit 1 `பிறையே`: scans **18–20 / pp.17–19 — COMPLETE**;
-- Unit 2 `ஆடிக்காற்று`: scans **21–23 / pp.20–22 — COMPLETE**;
-- Unit 3 `கருப்புப் பெண்`: scans **24–27 / pp.23–26 — COMPLETE**;
-- Unit 4 `கடலே`: scans **28–30 / pp.27–29 — COMPLETE**;
-- Unit 5 `ஆறு`: scans **31–33 / pp.30–32 — COMPLETE**;
-- Unit 6 `வாழிய வைகறை`: scans **34–35 / pp.33–34 — COMPLETE**;
-- Unit 7 `அகப்பை சித்தர்`: scans **36–38 / pp.35–37 — COMPLETE**;
-- Unit 8 `மலையே வாழி`: scans **39–40 / pp.38–39 VERIFIED**, continues to scan 41 / p.40;
-- complete main-work units at P2 page layer: **7 / 26**;
+- Units 1–10 through `விண்மீன்`: **COMPLETE at the P2 page layer**;
+- Unit 11 `தனிமை`: scans **49–50 / pp.48–49 VERIFIED**, continues through scan 54;
+- complete main-work units at P2 page layer: **10 / 26**;
 - unresolved printed prose blocks in verified scans: **0**;
 - P2 blockers: **0**;
 - P3 assemblies: **NOT STARTED**.
 
 The scan-31–40 batch established the source correction scan 32 third subheading **`அரசு`**, replacing the earlier working reading `அரசி`.
+
+The scan-41–50 batch closed `மலையே வாழி`, `தளிர்`, and `விண்மீன்`. Scan 47's temporary source-review hold was resolved directly against the supplied 2006 scan; older `முத்தாரம்` wording remained corroborative only.
 
 Batch records:
 
@@ -79,14 +75,15 @@ Batch records:
 - [`P2_BATCH_011_020.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_011_020.md)
 - [`P2_BATCH_021_030.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_021_030.md)
 - [`P2_BATCH_031_040.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_031_040.md)
+- [`P2_BATCH_041_050.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_041_050.md)
 
 English remains **BLOCKED until Tamil P5 freeze**.
 
 ## Current repository boundary
 
-Publication 10 P2 is **IN PROGRESS — 40 / 146 VERIFIED**.
+Publication 10 P2 is **IN PROGRESS — 50 / 146 VERIFIED**.
 
-Exact next activity: **P2 scans 41–50 only**. Scan 41 / printed p.40 continues `மலையே வாழி` from scan 40. Follow the P1 page map and source-visible boundaries through scan 50; do not begin P3 assemblies or English translation unless separately authorised.
+Exact next activity: **P2 scans 51–60 only**. Scan 51 / printed p.50 continues `தனிமை`; follow the P1 page map through `தனிமை` scans 51–54, `நாடக மேடை` 55–56, `புகழ்` 57–58, and `பச்சைக்கிளி` scans 59–60 of its 59–61 span. Do not begin P3 assemblies or English translation unless separately authorised.
 
 ### Permanent `உடன்பிறப்பே` rule
 
