@@ -96,8 +96,17 @@ Titles screened:
 
 Kalaignar's `என்னுரை` describes the collected pieces as `எழுத்தோவியங்கள்`. This index therefore records **source-visible titles and boundaries only**. It does not silently classify every unit as an essay, poem, story, dialogue, speech or other genre. Any finer unit-form description must be justified from the source during P2/P3.
 
+## Current P2 overlay
+
+P1 remains **COMPLETE / PASS**. P2 durable frontier is now **60 / 146 VERIFIED**, contiguous through scan 60.
+
+- complete main-work units at the P2 page layer: **13 / 26**, through Unit 13 `புகழ்`;
+- Unit 14 `பச்சைக்கிளி`: scans 59–60 / printed pp.58–59 VERIFIED; closes at scan 61 / p.60;
+- missing canonical records in scans 1–60: **0**;
+- unresolved printed-text blocks in verified scans: **0**;
+- P2 blockers: **0**;
+- P3 remains **NOT STARTED**.
+
 ## Exact next activity
 
-P1 remains **COMPLETE / PASS**. Current P2 durable frontier is **50 / 146 VERIFIED**, contiguous through scan 50.
-
-**Next P2 activity: scans 51–60 only.** Continue `தனிமை` through scan 54, then follow the verified boundaries into `நாடக மேடை` scans 55–56, `புகழ்` scans 57–58, and `பச்சைக்கிளி` scans 59–60 of its 59–61 span. Every physical scan must retain a canonical page record; printed text, illustrations and physical-copy marks remain distinct; OCR is not authority. Do not begin P3 assembly or English translation unless separately authorised.
+**Next P2 activity: scans 61–70 only.** Begin with scan 61 / printed p.60 closing `பச்சைக்கிளி`; then scan 62 / p.61 is single-page `தமிழே`; scans 63–70 / pp.62–69 continue `தேனலைகள்`, whose closing page is scan 71 / p.70. Every physical scan must retain a canonical page record; printed text, illustrations and physical-copy marks remain distinct; OCR is not authority. Stop after scan 70 and do not begin P3 assembly or English translation unless separately authorised.
