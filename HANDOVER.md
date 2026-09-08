@@ -116,7 +116,7 @@ Unit 16 `தேனலைகள்`:
 - scan 68 ends `... இதோ என் அன்பின்`; scan 69 continues `அடையாளமாக அவளுக்கு இந்த முத்துமாலையை`;
 - scan 69 retains `பெரும் பேறு`, `கட்டழகனைப்`, `வளவர் கோமானே`, `இதயத் தாய்மையை`, `முத்துக் கணையாழியை`, `யாழரசன்`, `உளியடாச் சிலை`, `ஒளித் தமிழன்`, and `முழவின்றி`;
 - scan 69 ends `முடிவுமின்றித்`; scan 70 continues `தொடங்கிற்று!`;
-- scan 70 retains `எவ்வாறெ”ன்றாள்`, joined `யாராவது”என`, `யாருமில்லை”யென்று`, `ஆரம்`, `ஒளிர்பூங் கொம்பே`, `முத்துக் கணையாழி`, `மணப்பிள்ளை`, `யாரளித்தார்`, and `உயிர் தமிழன்`;
+- scan 70 retains `எவ்வாறெ”ன்றாள்`, joined `யாராவது”என`, `யாருமில்லை”யென்று`, `ஆரம்`, `ஒளிர்பூங் கொம்பே`, `முத்துக் கணையாழி`, `மணப்பிள்ளை`, `யாரளித்தார்`, and `உயர் தமிழன்`;
 - supplied 2006 pixels remained controlling; OCR was not authority and no secondary-edition wording was silently imported.
 
 Earlier durable source findings remain in their batch records, including scan 32 `அரசு`, the scan-47 `விண்மீன்` source review, and all permanent P1 title corrections.
