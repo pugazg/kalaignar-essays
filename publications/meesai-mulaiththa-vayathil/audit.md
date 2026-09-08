@@ -94,7 +94,7 @@ Canonical P1 records:
 
 ## P2 — page-level transcription
 
-**RESULT: IN PROGRESS — 20 / 146 VERIFIED**
+**RESULT: IN PROGRESS — 30 / 146 VERIFIED**
 
 ### P2 batch 1 — scans 1–10
 
@@ -125,33 +125,39 @@ Result:
 - unresolved printed text in the batch: **0**;
 - batch blockers: **0**.
 
-Source-sensitive readings directly preserved in this batch include:
+Source-sensitive readings directly preserved in this batch include `சோகங்கட்டிய புன்னகை!`, `சுட்ட தங்கமாய்ச் சுடர்விட்டிருக்கிறார்`, `மறக்கவிடவோ மறைத்துவிடவோ`, `சுரைக்காய்ப் பிஞ்சின்`, `நாடக ஆசிரியராகவு`, `‘நன்னூல் விதியில் பொருந்துகிறது’`, `பலகணி`, `கைத்திட்டத் தொடமுடியாது`, `வெண்ணக் கலாப மயிலைக்`, and `சுந்தரியை`.
 
-- `சோகங்கட்டிய புன்னகை!`;
-- `சுட்ட தங்கமாய்ச் சுடர்விட்டிருக்கிறார்`;
-- `மறக்கவிடவோ மறைத்துவிடவோ`;
-- `சுரைக்காய்ப் பிஞ்சின்`;
-- source grammatical form `நாடக ஆசிரியராகவு`;
-- `‘நன்னூல் விதியில் பொருந்துகிறது’`;
-- split Nannūl verse forms `தன்னா சிரியன்`, `தன்மா ணாக்கன்`, `காரனென் / றின்னோர்`;
-- source grammatical form `அவருக்கு நான் எழுத வாய்ப்பளித்திருக்கிறார்`;
-- Unit 1 forms `பலகணி`, `கைத்திட்டத் தொடமுடியாது`, `வெண்ணக் கலாப மயிலைக்`, `சுந்தரியை`.
+### P2 batch 3 — scans 21–30
 
-These are retained as source readings and are not editorially regularised.
+Canonical record: [`P2_BATCH_021_030.md`](P2_BATCH_021_030.md).
+
+Result:
+
+- scans 21–30: **10 / 10 VERIFIED**;
+- Unit 2 `ஆடிக்காற்று`, scans 21–23 / pp.20–22: **3 / 3 VERIFIED / COMPLETE**;
+- Unit 3 `கருப்புப் பெண்`, scans 24–27 / pp.23–26: **4 / 4 VERIFIED / COMPLETE**;
+- Unit 4 `கடலே`, scans 28–30 / pp.27–29: **3 / 3 VERIFIED / COMPLETE**;
+- scan 29→30 page continuation: **directly closed**;
+- unresolved printed text in the batch: **0**;
+- batch blockers: **0**.
+
+The older `முத்தாரம்` printing was used only as a corroborating witness for difficult glyph recognition. The supplied 2006 source remained authority, and older-edition differences were not silently imported.
+
+Source-sensitive readings/punctuation preserved in this batch include `ரகசியந்தான்`, `சிகைக் கொண்டைகளில்`, `செளந்தர்ய மோனிகளாய்க்`, `கண்ணீர்ப் புகைப் பிரயோகத்தை`, `என்ன;`, `சோம்பேறிக்குச்`, `சிங்காரச் “செம்படச்சி”`, `பலமுறை`, `செல்வத் திருநகரின்`, `அதுபோல்`, `வடநாட்டுச் சனத்தை`, `உன் கரம்?`, and `இல்லையெனில்`.
 
 ### Current P2 gate
 
-- canonical page records: **20 / 146 VERIFIED**;
-- contiguous verified range: **1–20**;
-- missing canonical records in scans 1–20: **0**;
+- canonical page records: **30 / 146 VERIFIED**;
+- contiguous verified range: **1–30**;
+- missing canonical records in scans 1–30: **0**;
 - `என்னுரை`: **3 / 3 COMPLETE**;
 - `முன்னுரை`: **10 / 10 COMPLETE**;
 - blank scan 17: **VERIFIED**;
-- complete main-work units at P2 page layer: **1 / 26** (`பிறையே`);
+- complete main-work units at P2 page layer: **4 / 26** (`பிறையே`, `ஆடிக்காற்று`, `கருப்புப் பெண்`, `கடலே`);
 - unresolved printed-text blocks in verified scans: **0**;
 - active P2 blockers: **0**.
 
-Although `பிறையே` now has a complete verified page span, **P3 assembly remains NOT STARTED** under the P2-only cadence.
+Although four main-work units now have complete verified page spans, **P3 assembly remains NOT STARTED** under the P2-only cadence.
 
 ---
 
@@ -161,7 +167,7 @@ Although `பிறையே` now has a complete verified page span, **P3 assemb
 |---|---|
 | P0 | **COMPLETE / PASS** |
 | P1 | **COMPLETE / PASS** |
-| P2 | **IN PROGRESS — 20 / 146 VERIFIED** |
+| P2 | **IN PROGRESS — 30 / 146 VERIFIED** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -171,12 +177,13 @@ Active blockers: **0**.
 
 ## Exact next activity
 
-**P2 scans 21–30 only.**
+**P2 scans 31–40 only.**
 
-- scans 21–23 — Unit 2 `ஆடிக்காற்று`, printed pp.20–22;
-- scans 24–27 — Unit 3 `கருப்புப் பெண்`, printed pp.23–26;
-- scans 28–30 — Unit 4 `கடலே`, printed pp.27–29;
+- scans 31–33 / printed pp.30–32 — Unit 5 `ஆறு`;
+- scans 34–35 / printed pp.33–34 — Unit 6 `வாழிய வைகறை`;
+- scans 36–38 / printed pp.35–37 — Unit 7 `அகப்பை சித்தர்`;
+- scans 39–40 / printed pp.38–39 — Unit 8 `மலையே வாழி` opening/continuation; it continues to scan 41 / p.40;
 - use the controlling scan as authority;
 - create one canonical page record per scan;
-- stop after scan 30;
-- **do not begin P3 assembly or scan 31 in this same activity unless separately authorised**.
+- stop after scan 40;
+- **do not begin P3 assembly or scan 41 in this same activity unless separately authorised**.
