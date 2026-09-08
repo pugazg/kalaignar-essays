@@ -19,7 +19,7 @@ transcription_method: "direct visual comparison with source scan"
 கலைஞர் மு. கருணாநிதி
 
 சேவற் சண்டையிலே பெற்ற புகழ் பெருவீரம் என
-நினைத்து - சோழன் செங்குட்டுவன், கனகவிசயர்
+நினைத்து - சேரன் செங்குட்டுவன், கனகவிசயர்
 மீது வீசி நின்ற கனல் தெறிக்கும் வார்த்தைகளைப்
 பேசாதீர் மாமா! கோழி தன்னை ஆசையாய்
 வளர்ப்பதற்கு வாங்கி வந்தேன் - கோழ்மையையும்
@@ -59,6 +59,6 @@ transcription_method: "direct visual comparison with source scan"
 
 - visible printed folio **117**, running header and every visible printed line were directly verified against the supplied 2006 scan.
 - scan 117→118 moves from `பேசலுற்றேன்;` into the quoted boast beginning `சேவற் சண்டையிலே பெற்ற புகழ் பெருவீரம்`.
-- source-visible forms retained include `சோழன் செங்குட்டுவன்`, `கனகவிசயர்`, `கோழ்மையையும்`, `சூளுரைப்பேன்`, `துர் நீதான்`, `வீரக்கோழி`, and `நெருக்கடியில்`.
+- source-visible forms retained include `சேரன் செங்குட்டுவன்`, `கனகவிசயர்`, `கோழ்மையையும்`, `சூளுரைப்பேன்`, `துர் நீதான்`, `வீரக்கோழி`, and `நெருக்கடியில்`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 118 -->
