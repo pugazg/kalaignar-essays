@@ -9,7 +9,7 @@ Branch: `main`
 
 Publications **1–9 are RELEASE COMPLETE / FROZEN**.
 
-Active Publication **10 — `மீசை முளைத்த வயதில்` — P0–P1 COMPLETE / PASS; P2 IN PROGRESS — 30 / 146 VERIFIED; canonical records present through scan 40.**
+Active Publication **10 — `மீசை முளைத்த வயதில்` — P0–P1 COMPLETE / PASS; P2 IN PROGRESS — 40 / 146 VERIFIED; canonical records present and verified through scan 40.**
 
 Source PDFs are never committed.
 
@@ -19,7 +19,7 @@ Source PDFs are never committed.
 2. read `ESSAY_PROCESSING_GUIDE.md` completely;
 3. read `docs/FUTURE_WORK_GUIDELINES.md`;
 4. read this handover and `docs/NEXT_CHAT_PROMPT.md`;
-5. read active Publication 10 `README.md`, `metadata/source.md`, `indexes/page-map.md`, `indexes/contents.md`, `audit.md`, completed P2 batch records, and current scan-31–40 page records;
+5. read active Publication 10 `README.md`, `metadata/source.md`, `indexes/page-map.md`, `indexes/contents.md`, `audit.md`, completed P2 batch records, and the relevant current page records;
 6. resolve/retain controlling source `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf` before source-level transcription;
 7. preserve Publications 1–9 unless a genuine source-supported defect or explicit user request requires targeted reopening;
 8. English for Publication 10 remains blocked until Tamil P5 freeze.
@@ -67,61 +67,66 @@ Completed canonical batches:
 
 - scans **1–10** — VERIFIED; `P2_BATCH_001_010.md`;
 - scans **11–20** — VERIFIED; `P2_BATCH_011_020.md`;
-- scans **21–30** — VERIFIED; `P2_BATCH_021_030.md`.
+- scans **21–30** — VERIFIED; `P2_BATCH_021_030.md`;
+- scans **31–40** — VERIFIED; `P2_BATCH_031_040.md`.
 
 Current P2 state:
 
-- contiguous verified range: **1–30**;
-- verified canonical pages: **30 / 146**;
+- contiguous verified range: **1–40**;
+- verified canonical pages: **40 / 146**;
 - canonical page records present: **40 / 146**;
-- scans **31–40**: **10 / 10 records present, all `needs-review`**;
+- missing canonical records in scans 1–40: **0**;
 - unresolved printed-text blocks in verified scans: **0**;
-- P2 release blockers in already verified range: **0**;
-- `P2_BATCH_031_040.md`: **NOT CREATED** because the ten-page batch has not yet passed.
+- active P2 blockers: **0**.
 
-Verified main-work units remain:
+Complete main-work units at the P2 page layer:
 
-1. `பிறையே` — scans 18–20 / pp.17–19 — **3 / 3 VERIFIED**;
-2. `ஆடிக்காற்று` — scans 21–23 / pp.20–22 — **3 / 3 VERIFIED**;
-3. `கருப்புப் பெண்` — scans 24–27 / pp.23–26 — **4 / 4 VERIFIED**;
-4. `கடலே` — scans 28–30 / pp.27–29 — **3 / 3 VERIFIED**.
+1. `பிறையே` — scans 18–20 / pp.17–19 — **COMPLETE**;
+2. `ஆடிக்காற்று` — scans 21–23 / pp.20–22 — **COMPLETE**;
+3. `கருப்புப் பெண்` — scans 24–27 / pp.23–26 — **COMPLETE**;
+4. `கடலே` — scans 28–30 / pp.27–29 — **COMPLETE**;
+5. `ஆறு` — scans 31–33 / pp.30–32 — **COMPLETE**;
+6. `வாழிய வைகறை` — scans 34–35 / pp.33–34 — **COMPLETE**;
+7. `அகப்பை சித்தர்` — scans 36–38 / pp.35–37 — **COMPLETE**.
 
-### Current scan-31–40 source-review state
+Unit 8 `மலையே வாழி`:
 
-- scan **31** / p.30 — `ஆறு` opening / `அழகு`: working transcription present; exact joining/punctuation review remains;
-- scan **32** / p.31 — `ஆறு`: `காதலி` paragraph transcribed; dense `தங்கை` and `அரசி` blocks intentionally unresolved;
-- scan **33** / p.32 — `ஆறு` close: final lines/bullet captured; dense opening continuation from scan 32 unresolved;
-- scan **34** / p.33 — `வாழிய வைகறை` opening: working transcription present; exact punctuation/word-boundary review remains;
-- scan **35** / p.34 — `வாழிய வைகறை` close: working transcription present; quote/dash/join review remains;
-- scan **36** / p.35 — `அகப்பை சித்தர்` opening: title/illustration/folio verified as witnesses; dense foreground prose unresolved;
-- scan **37** / p.36 — `அகப்பை சித்தர்`: dense foreground prose unresolved;
-- scan **38** / p.37 — `அகப்பை சித்தர்` close: closing dialogue working transcription present; opening prose + exact dialogue punctuation unresolved;
-- scan **39** / p.38 — `மலையே வாழி` opening: title, illustration, folio and `மலையே!` captured; remaining prose unresolved;
-- scan **40** / p.39 — `மலையே வாழி` continuation: running header/folio captured; dense prose unresolved; unit continues to scan 41.
+- scan 39 / p.38 — VERIFIED opening;
+- scan 40 / p.39 — VERIFIED continuation;
+- scan 40 ends mid-sentence after source-visible `... உயர்ந்த தோள்களை`;
+- the unit continues to scan 41 / printed p.40;
+- **scan 41 was not inspected or transcribed during the completed 31–40 activity**.
 
-No unresolved body wording above was silently filled from OCR, context, or another edition. An older `முத்தாரம்` printing may be used only as a corroborating witness; the supplied 2006 scan remains controlling.
+### Durable source findings from scans 31–40
+
+- scan 32 third subheading is source-visible **`அரசு`**, correcting the earlier working reading `அரசி`;
+- permanent P1 reading `அகப்பை சித்தர்` was preserved;
+- source-sensitive forms retained include `மாணிக்கப்பல்`, `தொட்டிற்`, `அன்றாடங்காய்ச்சி`, `சுத்த சுதேசித் தம்புராவை`, `மனிதப் பழுப்புகள் - தளிர்கள் -`, `ஆதீனங்கள்`, `அவதாரப் புருஷர்`, `கோஷாப் பெண்`, `மேகச் சீமாட்டிகளின்`, `அகிலமதிரக்`, and `அகிலும் தேக்கும்`;
+- an older `முத்தாரம்` printing was used only as corroboration. Its edition-specific sentence mentioning `கமால்` is absent from supplied scan 40 and was not imported.
 
 ## Gate state
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
-- P2 — **IN PROGRESS — 30 / 146 VERIFIED; records through 40**;
+- P2 — **IN PROGRESS — 40 / 146 VERIFIED**;
 - P3 — **NOT STARTED**;
 - P4 — **NOT STARTED**;
 - P5 — **NOT STARTED**;
 - English — **BLOCKED until Tamil P5 freeze**.
 
-## Exact next activity — close P2 scans 31–40 only
+## Exact next activity — P2 scans 41–50 only
 
 When the user says proceed/continue:
 
-1. fetch live `main` and preserve any newer scan-31–40 work;
-2. use the controlling source pixels directly to close every `needs-review` item in scans **31–40**;
-3. do not import wording from the older `முத்தாரம்` witness; use it only for corroboration;
-4. mark each page `verified` only after exact wording, punctuation, word boundaries, running header/folio, illustration layer and continuation are visually confirmed;
-5. once **all ten** scans 31–40 pass, create `P2_BATCH_031_040.md` and synchronize publication/root trackers;
-6. only then set the next batch to scans **41–50**;
-7. **STOP at scan 40 during the present activity. Do not inspect/transcribe scan 41 or begin P3 unless separately authorised.**
+1. fetch live `main` and preserve any newer durable work;
+2. resolve the controlling source and inspect **scan 41 / printed p.40 first**, closing the mid-sentence continuation of Unit 8 `மலையே வாழி` from scan 40;
+3. continue source-first page transcription/verification through **scan 50 only**, following the P1 page map and source-visible unit boundaries;
+4. supplied 2006 scan pixels remain controlling; an older `முத்தாரம்` witness may corroborate difficult glyphs only and must never silently supply wording;
+5. preserve exact wording, punctuation, word boundaries, paragraph/verse lineation, running headers/folios, illustrations and continuation; keep later physical-copy marks separate;
+6. create/re-fetch one canonical page record per scan and mark `verified` only after direct source comparison;
+7. after all ten scans 41–50 pass, create `P2_BATCH_041_050.md` and synchronize publication/root trackers;
+8. set the following P2 activity to scans **51–60**;
+9. **STOP after scan 50. Do not begin P3 assemblies or English translation unless separately authorised.**
 
 ---
 
