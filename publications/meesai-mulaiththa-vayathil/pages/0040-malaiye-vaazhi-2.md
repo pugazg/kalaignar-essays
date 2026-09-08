@@ -6,29 +6,40 @@ publication: "meesai-mulaiththa-vayathil"
 article: "08-malaiye-vaazhi"
 section: "malaiye-vaazhi"
 page_type: "main-work"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf"
-transcription_method: "direct visual comparison with source scan; dense foreground prose unresolved"
+transcription_method: "direct visual comparison with source scan"
 ---
 
-# அச்சு உரை — partial; not yet P2-verified
+# அச்சு உரை
 
 ## அச்சிடப்பட்ட ஓடுதலைப்பு
 
 கலைஞர் மு. கருணாநிதி
 
-<!-- dense source-visible foreground prose intentionally withheld pending exact source-pixel resolution -->
+விண்ணகத்து வெண் முகில்களெல்லாம் கீழே விழுந்து கண்ணுக்கெட்டா உயரம் வளர்ந்தனவோ என்று திகைக்கிறேன். பனியால் நீ உடலை மூடிக் கொண்டிருக்கும்போது!
+
+பனி மலையே! மற்றொரு கற்பனையும் மனதில் தோன்றுகிறது; முகத்தையும் உடலையும் வெண் துகிலால் மூடிக்கொள்ளும் ‘கோஷாப் பெண்’ணோ நீ என்று ஐயுறுகிறேன்.
+
+மலையே! நீ ஒரு பெரிய மகானாம். மங்கையின் மயக்கு மொழி கேட்டும் கூட மனம் குலையாத முனிவர்களுக்கு, அசையாத உன் உறுதியை உவமையாகக் காட்டுகிறார்கள் சிலர்.
+
+எனக்கல்லவா தெரியும் உன் சேதி! வலுவிலே வந்து உன் தோளதைத் தழுவும் மேகச் சீமாட்டிகளின் மோகத்தைத் தணிப்பதற்காக நீ உன் குளிர்க் கரத்தை நீட்ட, கரம்பட்ட அந்தக் காரிகைகள் மயங்கி, மேலே செல்ல முடியாமல் மழையாகக் கரைந்து, நதிக் கரங்களால் உன்னைச் சுற்றியணைக்கும் ஆவேசத்தை நானல்லவா நேரே பார்த்தவன்? அதற்குப் பிறகு நான் அனைத்தும் துறந்த முனிவர்களும் அந்தப் பாசத்தைத் துறக்க முடியாது என்று அகிலமதிரக் கூவுகிறேன்.
+
+மலையே! நீ ஓர் அழுத்தக்காரக் காதலன். அதோடு அறிவு நிறைந்த கவிஞன்; கவிஞன், எழுந்த கருத்தை மக்களிடம் வெளிப்படுத்துவான், நீயும் விழுந்த மழையை மாநிலம் செழிக்க வழங்குகிறாய்.
+
+மலையரசா! நீ வளராவிட்டால் - வையமெங்கும் உன் அகிலும் தேக்கும் நிறைந்த உயர்ந்த தோள்களை
 
 ## அச்சு அல்லாத / physical-copy marks
 
 - மெல்லிய reverse-side show-through உள்ளது.
 - அச்சு உரையை மறைக்கும் later stamp/handwriting இல்லை.
 
-## P2 fidelity hold
+## P2 audit note
 
-- visible printed folio **39** and running header were directly checked.
-- the dense continuation remains deliberately unresolved rather than reconstructed from context or a secondary source.
-- Unit 8 continues to scan 41 / printed p.40, which is explicitly outside the present batch and was not processed here.
+- visible printed folio **39**, running header and all foreground prose through the source-visible mid-sentence page ending directly verified against the supplied 2006 scan.
+- source-sensitive forms retained include `விண்ணகத்து`, `கண்ணுக்கெட்டா`, `கோஷாப் பெண்`, `மங்கையின்`, `மேகச் சீமாட்டிகளின்`, `குளிர்க் கரத்தை`, `அகிலமதிரக்`, `அழுத்தக்காரக் காதலன்`, and `அகிலும் தேக்கும்`.
+- the older `முத்தாரம்` printing was used only as corroboration. Its edition-specific sentence mentioning `கமால்` and other wording/spacing differences are absent from this supplied 2006 page and were not imported.
+- Unit 8 `மலையே வாழி` continues mid-sentence to scan 41 / printed p.40; scan 41 remains outside this completed activity and was not inspected or transcribed here.
 
 <!-- மூல ஸ்கேன் பக்கம்: 40 -->
