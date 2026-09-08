@@ -39,48 +39,31 @@ Permanent title corrections remain:
 
 ## P2 — page-level transcription
 
-**RESULT: IN PROGRESS — 110 / 146 VERIFIED**
+**RESULT: IN PROGRESS — 120 / 146 VERIFIED**
 
-Completed batch records:
+Completed batch records now run through `P2_BATCH_111_120.md`.
 
-| Batch | Result | Durable note |
-|---|---|---|
-| `P2_BATCH_001_010.md` | **10 / 10 VERIFIED** | front matter start |
-| `P2_BATCH_011_020.md` | **10 / 10 VERIFIED** | front matter complete; `பிறையே` complete |
-| `P2_BATCH_021_030.md` | **10 / 10 VERIFIED** | Units 2–4 complete |
-| `P2_BATCH_031_040.md` | **10 / 10 VERIFIED** | Units 5–7 complete; Unit 8 opened |
-| `P2_BATCH_041_050.md` | **10 / 10 VERIFIED** | Units 8–10 complete; Unit 11 opened |
-| `P2_BATCH_051_060.md` | **10 / 10 VERIFIED** | Units 11–13 complete; Unit 14 advanced |
-| `P2_BATCH_061_070.md` | **10 / 10 VERIFIED** | Units 14–15 complete; Unit 16 advanced |
-| `P2_BATCH_071_080.md` | **10 / 10 VERIFIED** | Units 16–17 complete; Unit 18 advanced |
-| `P2_BATCH_081_090.md` | **10 / 10 VERIFIED** | Units 18–19 complete |
-| `P2_BATCH_091_100.md` | **10 / 10 VERIFIED** | Unit 20 `முறம்` complete; Unit 21 `யாழ்` advanced |
-| `P2_BATCH_101_110.md` | **10 / 10 VERIFIED** | Unit 21 `யாழ்` complete; Unit 22 `சிற்பி` through scan 110 |
+### P2 batch 12 — scans 111–120
 
-### P2 batch 11 — scans 101–110
+Canonical record: `P2_BATCH_111_120.md`.
 
-Canonical record: `P2_BATCH_101_110.md`.
-
-- scans 101–110: **10 / 10 VERIFIED**;
-- Unit 21 `யாழ்`, scans 96–102 / pp.95–101: **7 / 7 VERIFIED / COMPLETE**;
-- Unit 22 `சிற்பி`, scans 103–110 / pp.102–109: **8 / 12 VERIFIED so far; continues through scan 114 / p.113**;
-- scan 102 carries the closing bullet for `யாழ்`;
-- scan 103 is the illustrated opening of `சிற்பி`;
-- scan 110 ends `இருப்பது போல் உயிருள்ள கலைக்கும் ஆபத்து`, deliberately left open for direct continuation on scan 111;
+- scans 111–120: **10 / 10 VERIFIED**;
+- Unit 22 `சிற்பி`, scans 103–114 / pp.102–113: **12 / 12 VERIFIED / COMPLETE**;
+- Unit 23 `சேவல் சண்டை`, scans 115–120 / pp.114–119: **6 / 8 VERIFIED so far; continues through scan 122 / p.121**;
+- scan 114 carries the closing bullet for `சிற்பி`;
+- scan 115 is the illustrated opening of `சேவல் சண்டை`;
+- scan 120 is an internal continuation page and no scan-121 wording was imported;
 - unresolved printed text inside verified scans: **0**;
 - batch blockers: **0**.
 
-Direct continuation checks include:
+Direct source checks include:
 
-- scan 100→101: `அதைத் தடுக்கத்` → `தேன்மொழியாள் எண்ணி`;
-- scan 101→102: `அவ்வாளைத் தன் இதயத்தில்` → `எந்தினாள்`;
-- scan 106→107: `வார்த்தைகளை ஆத்திரம் தடுத்து அடைத்துக்` → `கொண்டது`;
-- scan 107→108: `கதிரவனை உருட்டிவிட்டது போல் உருண்டு` → `கிடக்கின்றனவே!`;
-- scan 108→109: `சிலையைச்` → `சிதைக்காமல்`;
-- scan 109→110: `தங்களைக் ‘கலைவாணர்களின் மன்னர்` → `மன்னன்’ என்று வாயார வாழ்த்தும்!`;
-- scan 110→111 remains open; no context-based reconstruction was inserted.
-
-Selected source-sensitive forms retained in this batch include `மணிமொழிந்து`, `வாரியணைத்தான்`, `எந்தினாள்`, `என்றெண்ணிய`, `ரீங்காரம்`, `அகம்பாவத்திற்கு`, `கபோதியாகட்டும்`, `எறிந்துதுப்`, `மண்டுகொண்டேயிருந்தது`, `தூளாகிக்`, `உடைப்பெடுத்த எரிகளாயின`, `சீற்றமல்லவா`, `நானறிகிறேன்`, and `புத்திக்காரி`.
+- scan 110→111 continues the unfinished `உயிருள்ள கலைக்கும் ஆபத்து` sentence;
+- scan 116→117: `பெண் குலத்தைப் புகழ்வதற்கும்` → `ஆண் மயில் தான் தேவைப்படும்`;
+- scan 117→118 moves from `பேசலுற்றேன்;` into `சேவற் சண்டையிலே பெற்ற புகழ் பெருவீரம்`;
+- scan 118 preserves `சேரன் செங்குட்டுவன்`, `கனகவிசயர்`, `கோழ்மையையும்`, `சூளுரைப்பேன்`, and `நெருக்கடியில்`;
+- scan 118→119 moves from `அதன் பிள்ளை இந்தச் சேவல்!` into `சரியத்தான் - சேவல் பேச்சு முடியட்டும்...`;
+- scans 119–120 preserve `பழச்சுவை யமுதங்கூட`, `நம்பிக்கையொரு`, `கிழியொன்று`, `பிராண்டுதற்கும்`, `எகிற் கொண்டைகள்`, `‘மளமள’ வென`, and `கலங்கலுற்றான்`.
 
 The supplied 2006 source pixels remained authority throughout. OCR was not authority and no alternate-edition wording was silently imported.
 
@@ -88,14 +71,14 @@ Earlier durable findings remain non-regressed, including scan 32 **`அரசு
 
 ### Current P2 gate
 
-- canonical page records: **110 / 146 VERIFIED**;
-- contiguous verified range: **1–110**;
-- missing canonical records in scans 1–110: **0**;
+- canonical page records: **120 / 146 VERIFIED**;
+- contiguous verified range: **1–120**;
+- missing canonical records in scans 1–120: **0**;
 - `என்னுரை`: **3 / 3 COMPLETE**;
 - `முன்னுரை`: **10 / 10 COMPLETE**;
 - blank scan 17: **VERIFIED**;
-- complete main-work units: **21 / 26**;
-- Unit 22 `சிற்பி`: **IN PROGRESS through scan 110**;
+- complete main-work units: **22 / 26**;
+- Unit 23 `சேவல் சண்டை`: **IN PROGRESS through scan 120**;
 - unresolved printed-text blocks: **0**;
 - active P2 blockers: **0**.
 
@@ -109,7 +92,7 @@ Earlier durable findings remain non-regressed, including scan 32 **`அரசு
 |---|---|
 | P0 | **COMPLETE / PASS** |
 | P1 | **COMPLETE / PASS** |
-| P2 | **IN PROGRESS — 110 / 146 VERIFIED** |
+| P2 | **IN PROGRESS — 120 / 146 VERIFIED** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -119,10 +102,10 @@ Active blockers: **0**.
 
 ## Exact next activity
 
-**P2 scans 111–120 only.**
+**P2 scans 121–130 only.**
 
-- scans 111–114 / pp.110–113 — continue and close Unit 22 `சிற்பி`;
-- scans 115–120 / pp.114–119 — begin Unit 23 `சேவல் சண்டை`, continuing through scan 122 / p.121;
-- inspect scan 111 first to resolve the open `இருப்பது போல் உயிருள்ள கலைக்கும் ஆபத்து` continuation from scan 110;
-- after all ten pass, create `P2_BATCH_111_120.md`, synchronize dependent trackers, and set next activity to scans 121–130;
-- **STOP after scan 120; do not begin P3 assembly or English translation unless separately authorised.**
+- scans 121–122 / pp.120–121 — continue and close Unit 23 `சேவல் சண்டை`;
+- scans 123–128 / pp.122–127 — process and complete Unit 24 `மடல்`;
+- scans 129–130 / pp.128–129 — begin Unit 25 `ஆண்டு விழா`, continuing through scan 135 / p.134;
+- after all ten pass, create `P2_BATCH_121_130.md`, synchronize dependent trackers, and set next activity to scans 131–140;
+- **STOP after scan 130; do not begin P3 assembly or English translation unless separately authorised.**
