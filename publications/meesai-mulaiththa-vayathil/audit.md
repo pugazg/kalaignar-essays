@@ -97,7 +97,7 @@ Direct source findings retained from this batch include:
 - scan 68 ends `... இதோ என் அன்பின்`; scan 69 continues `அடையாளமாக அவளுக்கு இந்த முத்துமாலையை`;
 - scan 69 preserves `பெரும் பேறு`, `கட்டழகனைப்`, `வளவர் கோமானே`, `இதயத் தாய்மையை`, `முத்துக் கணையாழியை`, `யாழரசன்`, `உளியடாச் சிலை`, `ஒளித் தமிழன்`, and `முழவின்றி`;
 - scan 69 ends `முடிவுமின்றித்`; scan 70 continues `தொடங்கிற்று!`;
-- scan 70 preserves `எவ்வாறெ”ன்றாள்`, joined `யாராவது”என`, `யாருமில்லை”யென்று`, `ஆரம்`, `ஒளிர்பூங் கொம்பே`, `முத்துக் கணையாழி`, `மணப்பிள்ளை`, `யாரளித்தார்`, and `உயிர் தமிழன்`.
+- scan 70 preserves `எவ்வாறெ”ன்றாள்`, joined `யாராவது”என`, `யாருமில்லை”யென்று`, `ஆரம்`, `ஒளிர்பூங் கொம்பே`, `முத்துக் கணையாழி`, `மணப்பிள்ளை`, `யாரளித்தார்`, and `உயர் தமிழன்`.
 
 The supplied 2006 source pixels remained authority throughout. OCR was not authority. No alternate-edition wording was silently imported.
 
