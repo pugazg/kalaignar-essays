@@ -52,7 +52,7 @@ No P1 boundary or printed-page span changed.
 
 ## P2 — page-level transcription
 
-**RESULT: IN PROGRESS — 60 / 146 VERIFIED**
+**RESULT: IN PROGRESS — 70 / 146 VERIFIED**
 
 ### Completed batch records
 
@@ -64,6 +64,7 @@ No P1 boundary or printed-page span changed.
 | [`P2_BATCH_031_040.md`](P2_BATCH_031_040.md) | **10 / 10 VERIFIED** | `ஆறு`, `வாழிய வைகறை`, `அகப்பை சித்தர்` complete; `மலையே வாழி` opened |
 | [`P2_BATCH_041_050.md`](P2_BATCH_041_050.md) | **10 / 10 VERIFIED** | `மலையே வாழி`, `தளிர்`, `விண்மீன்` complete; `தனிமை` opened |
 | [`P2_BATCH_051_060.md`](P2_BATCH_051_060.md) | **10 / 10 VERIFIED** | `தனிமை`, `நாடக மேடை`, `புகழ்` complete; `பச்சைக்கிளி` verified through scan 60 |
+| [`P2_BATCH_061_070.md`](P2_BATCH_061_070.md) | **10 / 10 VERIFIED** | `பச்சைக்கிளி`, `தமிழே` complete; `தேனலைகள்` verified through scan 70 |
 
 ### P2 batch 6 — scans 51–60
 
@@ -73,17 +74,30 @@ Canonical record: [`P2_BATCH_051_060.md`](P2_BATCH_051_060.md).
 - Unit 11 `தனிமை`, scans 49–54 / pp.48–53: **6 / 6 VERIFIED / COMPLETE**;
 - Unit 12 `நாடக மேடை`, scans 55–56 / pp.54–55: **2 / 2 VERIFIED / COMPLETE**;
 - Unit 13 `புகழ்`, scans 57–58 / pp.56–57: **2 / 2 VERIFIED / COMPLETE**;
-- Unit 14 `பச்சைக்கிளி`, scans 59–60 / pp.58–59: **2 / 3 VERIFIED so far; closes at scan 61 / p.60**;
+- Unit 14 `பச்சைக்கிளி`, scans 59–60 / pp.58–59: **2 / 3 VERIFIED at that checkpoint**;
 - unresolved printed text inside verified scans: **0**;
 - batch blockers: **0**.
 
-Direct source findings retained from the batch include:
+### P2 batch 7 — scans 61–70
 
-- scan 54 directly closes `தனிமை` with its final dialogue and bullet;
-- scan 56 directly closes `நாடக மேடை`;
-- scan 58 directly closes `புகழ்`;
-- scan 60 is a continuation of `பச்சைக்கிளி`, not a close;
-- scan-60 source forms include `கன்னங் கிளியே`, `பிசகா?`, joined `புகழ்ச்சிசொல்`, `தூண்டிற் புழுவாய்த்`, `சிறைமிகக் கொடிது`, `மன்னித் திடுவாய்`, `அடிமைப் புள்ளே`, `எழில்நிறப் பெண்ணே`, and `கூண்டுக் கிளியுனைத்`.
+Canonical record: [`P2_BATCH_061_070.md`](P2_BATCH_061_070.md).
+
+- scans 61–70: **10 / 10 VERIFIED**;
+- Unit 14 `பச்சைக்கிளி`, scans 59–61 / pp.58–60: **3 / 3 VERIFIED / COMPLETE**;
+- Unit 15 `தமிழே`, scan 62 / p.61: **1 / 1 VERIFIED / COMPLETE**;
+- Unit 16 `தேனலைகள்`, scans 63–70 / pp.62–69: **8 / 9 VERIFIED so far; closes at scan 71 / p.70**;
+- unresolved printed text inside verified scans: **0**;
+- batch blockers: **0**.
+
+Direct source findings retained from this batch include:
+
+- scan 61 directly closes `பச்சைக்கிளி`;
+- scan 62 is the single-page `தமிழே`; later library stamp/accession writing was kept separate from printed text;
+- source-visible hollow-circle separators in `தேனலைகள்` were preserved;
+- scan 68 ends `... இதோ என் அன்பின்`; scan 69 continues `அடையாளமாக அவளுக்கு இந்த முத்துமாலையை`;
+- scan 69 preserves `பெரும் பேறு`, `கட்டழகனைப்`, `வளவர் கோமானே`, `இதயத் தாய்மையை`, `முத்துக் கணையாழியை`, `யாழரசன்`, `உளியடாச் சிலை`, `ஒளித் தமிழன்`, and `முழவின்றி`;
+- scan 69 ends `முடிவுமின்றித்`; scan 70 continues `தொடங்கிற்று!`;
+- scan 70 preserves `எவ்வாறெ”ன்றாள்`, joined `யாராவது”என`, `யாருமில்லை”யென்று`, `ஆரம்`, `ஒளிர்பூங் கொம்பே`, `முத்துக் கணையாழி`, `மணப்பிள்ளை`, `யாரளித்தார்`, and `உயிர் தமிழன்`.
 
 The supplied 2006 source pixels remained authority throughout. OCR was not authority. No alternate-edition wording was silently imported.
 
@@ -91,18 +105,18 @@ Earlier durable source findings remain non-regressed, including scan 32 third su
 
 ### Current P2 gate
 
-- canonical page records: **60 / 146 VERIFIED**;
-- contiguous verified range: **1–60**;
-- missing canonical records in scans 1–60: **0**;
+- canonical page records: **70 / 146 VERIFIED**;
+- contiguous verified range: **1–70**;
+- missing canonical records in scans 1–70: **0**;
 - `என்னுரை`: **3 / 3 COMPLETE**;
 - `முன்னுரை`: **10 / 10 COMPLETE**;
 - blank scan 17: **VERIFIED**;
-- complete main-work units at P2 page layer: **13 / 26** (`பிறையே`, `ஆடிக்காற்று`, `கருப்புப் பெண்`, `கடலே`, `ஆறு`, `வாழிய வைகறை`, `அகப்பை சித்தர்`, `மலையே வாழி`, `தளிர்`, `விண்மீன்`, `தனிமை`, `நாடக மேடை`, `புகழ்`);
-- Unit 14 `பச்சைக்கிளி`: **IN PROGRESS through scan 60**;
+- complete main-work units at P2 page layer: **15 / 26** (`பிறையே`, `ஆடிக்காற்று`, `கருப்புப் பெண்`, `கடலே`, `ஆறு`, `வாழிய வைகறை`, `அகப்பை சித்தர்`, `மலையே வாழி`, `தளிர்`, `விண்மீன்`, `தனிமை`, `நாடக மேடை`, `புகழ்`, `பச்சைக்கிளி`, `தமிழே`);
+- Unit 16 `தேனலைகள்`: **IN PROGRESS through scan 70**;
 - unresolved printed-text blocks in verified scans: **0**;
 - active P2 blockers: **0**.
 
-Although thirteen main-work units now have complete verified page spans, **P3 assembly remains NOT STARTED** under the P2-only cadence.
+Although fifteen main-work units now have complete verified page spans, **P3 assembly remains NOT STARTED** under the P2-only cadence.
 
 ---
 
@@ -112,7 +126,7 @@ Although thirteen main-work units now have complete verified page spans, **P3 as
 |---|---|
 | P0 | **COMPLETE / PASS** |
 | P1 | **COMPLETE / PASS** |
-| P2 | **IN PROGRESS — 60 / 146 VERIFIED** |
+| P2 | **IN PROGRESS — 70 / 146 VERIFIED** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -122,12 +136,12 @@ Active blockers: **0**.
 
 ## Exact next activity
 
-**P2 scans 61–70 only.**
+**P2 scans 71–80 only.**
 
-- scan 61 / printed p.60 closes Unit 14 `பச்சைக்கிளி`;
-- scan 62 / p.61 is single-page Unit 15 `தமிழே`;
-- scans 63–70 / pp.62–69 continue Unit 16 `தேனலைகள்`, which closes only at scan 71 / p.70;
+- scan 71 / printed p.70 closes Unit 16 `தேனலைகள்`;
+- scans 72–77 / pp.71–76 are Unit 17 `தோழி`, complete within this batch;
+- scans 78–80 / pp.77–79 begin Unit 18 `மருதாணி`, continuing through scan 84 / p.83;
 - use the controlling scan as authority and directly verify each canonical record;
-- after all ten pass, create `P2_BATCH_061_070.md`, synchronize dependent trackers, and set next activity to scans 71–80;
+- after all ten pass, create `P2_BATCH_071_080.md`, synchronize dependent trackers, and set next activity to scans 81–90;
 - preserve printed and physical-copy layers separately;
-- **STOP after scan 70; do not begin P3 assembly or English translation unless separately authorised**.
+- **STOP after scan 80; do not begin P3 assembly or English translation unless separately authorised**.
