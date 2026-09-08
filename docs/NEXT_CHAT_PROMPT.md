@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / close P2 scans 31–40
+# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P2 scans 41–50
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -16,20 +16,30 @@ Publication 10 `மீசை முளைத்த வயதில்`:
 
 - P0 — **PASS**;
 - P1 — **PASS**;
-- P2 — **IN PROGRESS — 30 / 146 VERIFIED**;
-- contiguous verified range — scans **1–30**;
+- P2 — **IN PROGRESS — 40 / 146 VERIFIED**;
+- contiguous verified range — scans **1–40**;
 - canonical page records present — **40 / 146**;
-- scans **31–40** — records present, all currently `needs-review`;
-- `P2_BATCH_031_040.md` — **NOT CREATED** because the batch has not passed;
-- unresolved printed prose blocks in already verified scans — 0;
-- P3 assemblies — NOT STARTED;
-- English — BLOCKED until Tamil P5 freeze.
+- unresolved printed prose blocks in verified scans — **0**;
+- P2 blockers — **0**;
+- complete main-work units at the P2 page layer — **7 / 26**;
+- Unit 8 `மலையே வாழி` — VERIFIED through scan 40 / printed p.39 and continues to scan 41 / p.40;
+- P3 assemblies — **NOT STARTED**;
+- English — **BLOCKED until Tamil P5 freeze**.
 
 Completed batch records:
 
 - `P2_BATCH_001_010.md`;
 - `P2_BATCH_011_020.md`;
-- `P2_BATCH_021_030.md`.
+- `P2_BATCH_021_030.md`;
+- `P2_BATCH_031_040.md`.
+
+Durable source findings from the completed 31–40 batch:
+
+- scan 32 third subheading is source-visible **`அரசு`**, not the earlier working reading `அரசி`;
+- Unit 5 `ஆறு`, Unit 6 `வாழிய வைகறை`, and Unit 7 `அகப்பை சித்தர்` are P2 page-layer complete;
+- scan 40 ends mid-sentence after source-visible `... உயர்ந்த தோள்களை`;
+- an older `முத்தாரம்` sentence mentioning `கமால்` is not present on the supplied 2006 scan 40 and was not imported;
+- **scan 41 was not inspected or transcribed during the 31–40 activity**.
 
 ## Controlling source
 
@@ -46,31 +56,20 @@ Permanent P1 source-title readings:
 - `தளிர்` — scan 42 / p.41;
 - `மயிலிறகு` — scan 136 / p.135.
 
-## Exact next activity — close existing scans 31–40 only
+## Exact next activity — P2 scans 41–50 only
 
-Do **not** create duplicate page records. Re-fetch and finish the existing records:
+1. Fetch live `main` and re-read root `HANDOVER.md` before any write.
+2. Resolve the controlling PDF and inspect **scan 41 / printed p.40 first**. It directly continues the mid-sentence `மலையே வாழி` text from scan 40; do not guess the continuation from context or an older edition.
+3. Process scans **41–50 only**, following the verified P1 page map and source-visible unit boundaries.
+4. Create/re-fetch exactly one canonical page record per scan. Do not create duplicates if live `main` has advanced.
+5. Supplied 2006 scan pixels are controlling. Older `முத்தாரம்` may corroborate difficult glyphs only — never import its wording silently.
+6. Preserve exact title/body wording, punctuation, word boundaries, paragraph/verse lineation, running headers/folios and continuation.
+7. Keep illustrations/design and later physical-copy marks as separate source layers.
+8. Mark `verified` only after direct source comparison.
 
-- scan 31 / p.30 — `ஆறு` opening / `அழகு`: confirm exact joins and punctuation;
-- scan 32 / p.31 — `ஆறு`: finish dense `தங்கை` and `அரசி` blocks;
-- scan 33 / p.32 — `ஆறு` close: finish opening continuation from scan 32 and confirm close punctuation;
-- scan 34 / p.33 — `வாழிய வைகறை` opening: confirm punctuation/word boundaries;
-- scan 35 / p.34 — `வாழிய வைகறை` close: confirm quote marks/dashes/joins;
-- scans 36–37 / pp.35–36 — `அகப்பை சித்தர்`: transcribe dense foreground prose from source pixels;
-- scan 38 / p.37 — `அகப்பை சித்தர்` close: finish opening prose and verify dialogue punctuation;
-- scan 39 / p.38 — `மலையே வாழி` opening: transcribe remaining foreground prose;
-- scan 40 / p.39 — `மலையே வாழி` continuation: transcribe foreground prose. Unit continues to scan 41, but **scan 41 is outside this activity**.
+After **all ten** scans 41–50 pass:
 
-For every page:
-
-1. supplied 2006 scan pixels are controlling;
-2. older `முத்தாரம்` may corroborate difficult glyphs only — never import its wording silently;
-3. preserve title/body wording, punctuation, word boundaries, paragraph/verse lineation, folio and continuation exactly;
-4. keep illustrations/design and later physical-copy marks as separate source layers;
-5. mark `verified` only after direct source comparison.
-
-After **all ten** scans 31–40 pass:
-
-- create `P2_BATCH_031_040.md`;
+- create `P2_BATCH_041_050.md`;
 - synchronize publication `README.md`, `audit.md`, `metadata/source.md` as needed plus root `README.md`, `HANDOVER.md`, and this prompt;
-- then set exact next activity to scans **41–50**;
-- **STOP after scan 40 in the current activity. Do not inspect/transcribe scan 41 or begin P3 unless separately authorised.**
+- set exact next P2 activity to scans **51–60**;
+- **STOP after scan 50. Do not begin P3 assemblies or English translation unless separately authorised.**
