@@ -95,7 +95,7 @@ Durable source corrections/findings retained from earlier batches include scan 3
 
 The scan-61–70 batch closes `பச்சைக்கிளி` and `தமிழே`, and directly verifies `தேனலைகள்` through scan 70. It preserves the scan-68→69 continuation `... இதோ என் அன்பின்` → `அடையாளமாக அவளுக்கு இந்த முத்துமாலையை` and the scan-69→70 continuation `முடிவுமின்றித்` → `தொடங்கிற்று!`.
 
-Selected source-sensitive forms in scans 69–70 include `பெரும் பேறு`, `கட்டழகனைப்`, `வளவர் கோமானே`, `இதயத் தாய்மையை`, `முத்துக் கணையாழியை`, `யாழரசன்`, `உளியடாச் சிலை`, `ஒளித் தமிழன்`, `முழவின்றி`, `எவ்வாறெ”ன்றாள்`, `யாராவது”என`, `யாருமில்லை”யென்று`, `ஆரம்`, `ஒளிர்பூங் கொம்பே`, `மணப்பிள்ளை`, `யாரளித்தார்`, and `உயிர் தமிழன்`.
+Selected source-sensitive forms in scans 69–70 include `பெரும் பேறு`, `கட்டழகனைப்`, `வளவர் கோமானே`, `இதயத் தாய்மையை`, `முத்துக் கணையாழியை`, `யாழரசன்`, `உளியடாச் சிலை`, `ஒளித் தமிழன்`, `முழவின்றி`, `எவ்வாறெ”ன்றாள்`, `யாராவது”என`, `யாருமில்லை”யென்று`, `ஆரம்`, `ஒளிர்பூங் கொம்பே`, `மணப்பிள்ளை`, `யாரளித்தார்`, and `உயர் தமிழன்`.
 
 The supplied 2006 scan remains controlling. OCR is not authority; secondary witnesses may corroborate difficult glyph recognition only and may not silently replace source wording.
 
