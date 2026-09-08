@@ -6,13 +6,13 @@ publication: "meesai-mulaiththa-vayathil"
 article: "09-thalir"
 section: "thalir"
 page_type: "main-work"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf"
-transcription_method: "direct visual comparison with source scan; final three-line wordplay punctuation review pending"
+transcription_method: "direct visual comparison with source scan"
 ---
 
-# அச்சு உரை — source-review hold; not yet P2-verified
+# அச்சு உரை
 
 ## அச்சிடப்பட்ட ஓடுதலைப்பு
 
@@ -28,18 +28,22 @@ transcription_method: "direct visual comparison with source scan; final three-li
 
 நீ நாகத்தோடு விளையாடுவது போலத்தான் பெரியவர்கள் நாசத்தோடு விளையாடுகிறார்கள் - அவர்கள் ஆண்டவனை வணங்குகிறார்கள், வாழ்த்துகிறார்கள், ஏத்திப் பாடுகிறார்கள்! அவர்கள் அறிவு தெளிந்தவர்கள் என்றா அர்த்தம்!
 
-<!-- source-visible final three-line `பாம்பு` / `பாபம்` wordplay is present here; exact quote/dash placement remains under direct-pixel review and is deliberately not normalized from the older witness -->
+பாம்பு - ‘பாம்பு’
+
+பாம்பு - பாலப் பருவத்தில்!
+
+பாபம் - வளர்ந்த மனிதனுக்கு!
 
 ## அச்சு அல்லாத / physical-copy marks
 
 - மெல்லிய reverse-side show-through உள்ளது.
 - அச்சு உரையை மறைக்கும் later stamp/handwriting இல்லை.
 
-## P2 fidelity hold
+## P2 audit note
 
-- visible printed folio **43**, running header, scan-43→44 continuation, source subheading and both full prose paragraphs were directly checked against the supplied 2006 scan.
-- source-visible opening forms now captured include `பேதங்களில்லை`, `பிரிவுகளில்லை`, `பிளவுகளில்லை`, `வளைவுகளில்லை`, `நீயும் நாத்திகனா`, and `நாத்திகர் நல்ல மனம் படைத்தவர்`.
-- only the compact final three-line `பாம்பு` / `பாபம்` wordplay remains open for exact punctuation/ditto-mark fidelity; older-edition OCR is not being used as authority.
-- scan 44 therefore remains `needs-review`; Unit 9 cannot be declared complete until this final source block is closed.
+- visible printed folio **43**, running header, scan-43→44 continuation, source subheading, all prose and the final three-line `பாம்பு` / `பாபம்` wordplay were directly checked against the supplied 2006 scan.
+- source-visible opening forms retained include `பேதங்களில்லை`, `பிரிவுகளில்லை`, `பிளவுகளில்லை`, `வளைவுகளில்லை`, `நீயும் நாத்திகனா`, and `நாத்திகர் நல்ல மனம் படைத்தவர்`.
+- the older `முத்தாரம்` witness was used only to corroborate difficult glyphs in the compact final wordplay; the supplied 2006 pixels determined the retained wording and punctuation.
+- Unit 9 `தளிர்` continues to scan 45 / printed p.44, whose close is already verified.
 
 <!-- மூல ஸ்கேன் பக்கம்: 44 -->
