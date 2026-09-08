@@ -6,17 +6,17 @@ publication: "meesai-mulaiththa-vayathil"
 article: "07-agappai-siththar"
 section: "agappai-siththar"
 page_type: "main-work-opening"
-status: "needs-review"
+status: "verified"
 language: "ta"
 source_filename: "TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf"
-transcription_method: "direct visual comparison with source scan; dense foreground prose unresolved"
+transcription_method: "direct visual comparison with source scan"
 ---
 
-# அச்சு உரை — partial; not yet P2-verified
+# அச்சு உரை
 
 ## அகப்பை சித்தர்
 
-<!-- dense source-visible foreground prose block intentionally withheld pending exact source-pixel resolution -->
+“கையினிலே தட்டேந்தி சோர்ந்து நிற்கும் என்னைப் பார்த்து கைதிக்காவலன் மொண்டு ஊற்றும் சோளக் கஞ்சி கலகலவென சிரிக்கிறது. ‘கட்டுண்ட திராவிடத்தை மீட்கப் போராடி, இன்று தட்டுடனே நிற்கும் தம்பிமாரே! கஞ்சியெனைக் கண்டு கலங்குவதேனோ!’ என்று கேட்கிறது அகப்பைக்குள்ளிருந்து! இந்த அகப்பை சித்தரின் பேச்சிலும் அர்த்தமிருக்கிறது. புதிய தெம்புள்ள கருத்துமிருக்கிறது. இந்த சித்தரின் சூடான நாக்கு, எவ்வளவு குளிர்ச்சியான உண்மைகளைக் கொட்டுகிறது!
 
 ## அச்சிடப்பட்ட காட்சி
 
@@ -27,10 +27,11 @@ transcription_method: "direct visual comparison with source scan; dense foregrou
 - மெல்லிய reverse-side show-through உள்ளது.
 - அச்சு உரையை மறைக்கும் later stamp/handwriting இல்லை.
 
-## P2 fidelity hold
+## P2 audit note
 
-- visible printed folio **35** and permanent P1 title reading **`அகப்பை சித்தர்`** were directly re-confirmed from the controlling scan.
-- the dense foreground prose has not been reconstructed from context, OCR, or material about the historical `அகப்பேய்ச் சித்தர்`.
-- exact word-by-word transcription remains required before this page can be marked `verified`.
+- visible printed folio **35**, permanent P1 title **`அகப்பை சித்தர்`**, illustration, opening quotation and complete foreground prose directly verified against the supplied 2006 scan.
+- source-visible forms retained include `தட்டேந்தி`, `கைதிக்காவலன்`, `மொண்டு`, `சோளக் கஞ்சி`, `கஞ்சியெனைக்`, `அகப்பைக்குள்ளிருந்து`, `தெம்புள்ள`, and `கருத்துமிருக்கிறது`.
+- an older `முத்தாரம்` printing was used only as a glyph-level corroborating witness; its footnote/spacing and other edition differences were not imported into the 2006 record.
+- the opening quotation continues on scan 37 / printed p.36.
 
 <!-- மூல ஸ்கேன் பக்கம்: 36 -->
