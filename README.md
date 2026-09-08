@@ -33,7 +33,7 @@ Released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
 Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mulaiththa-vayathil/)
 
-**P0–P1 COMPLETE / PASS — P2 IN PROGRESS: 70 / 146 VERIFIED.**
+**P0–P1 COMPLETE / PASS — P2 IN PROGRESS: 80 / 146 VERIFIED.**
 
 - controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
 - source SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
@@ -54,13 +54,13 @@ P1 mapping remains **146 / 146 scans**, **26 / 26 source-titled units**, with no
 
 P2 durable progress:
 
-- scans **1–70: 70 / 70 VERIFIED**;
+- scans **1–80: 80 / 80 VERIFIED**;
 - `என்னுரை`: **3 / 3 VERIFIED / COMPLETE**;
 - `முன்னுரை`: **10 / 10 VERIFIED / COMPLETE**;
 - scan 17: **verified blank / reverse-side show-through**;
-- Units 1–15 through `தமிழே`: **COMPLETE at the P2 page layer**;
-- Unit 16 `தேனலைகள்`: scans **63–70 / pp.62–69 VERIFIED**, continues and closes at scan 71;
-- complete main-work units at P2 page layer: **15 / 26**;
+- Units 1–17 through `தோழி`: **COMPLETE at the P2 page layer**;
+- Unit 18 `மருதாணி`: scans **78–80 / pp.77–79 VERIFIED**, continues through scan 84 / p.83;
+- complete main-work units at P2 page layer: **17 / 26**;
 - unresolved printed prose blocks in verified scans: **0**;
 - P2 blockers: **0**;
 - P3 assemblies: **NOT STARTED**.
@@ -71,7 +71,9 @@ The scan-41–50 batch closed `மலையே வாழி`, `தளிர்`,
 
 The scan-51–60 batch closed `தனிமை`, `நாடக மேடை`, and `புகழ்` and advanced `பச்சைக்கிளி` through scan 60.
 
-The scan-61–70 batch closed `பச்சைக்கிளி` and single-page `தமிழே`, then directly verified `தேனலைகள்` through scan 70. Source-visible continuations across scans 68→69 and 69→70 were preserved; supplied 2006 scan pixels remained controlling and OCR/secondary wording were not used as authority.
+The scan-61–70 batch closed `பச்சைக்கிளி` and single-page `தமிழே`, then directly verified `தேனலைகள்` through scan 70. Source-visible continuations across scans 68→69 and 69→70 were preserved, including corrected scan-70 `உயர் தமிழன்`.
+
+The scan-71–80 batch closed `தேனலைகள்` and `தோழி`, then directly verified `மருதாணி` through scan 80. The supplied 2006 pixels remained controlling; OCR and secondary-edition wording were not used as authority.
 
 Batch records:
 
@@ -82,14 +84,15 @@ Batch records:
 - [`P2_BATCH_041_050.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_041_050.md)
 - [`P2_BATCH_051_060.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_051_060.md)
 - [`P2_BATCH_061_070.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_061_070.md)
+- [`P2_BATCH_071_080.md`](publications/meesai-mulaiththa-vayathil/P2_BATCH_071_080.md)
 
 English remains **BLOCKED until Tamil P5 freeze**.
 
 ## Current repository boundary
 
-Publication 10 P2 is **IN PROGRESS — 70 / 146 VERIFIED**, contiguous through scan 70, with **15 / 26** main-work units complete and blockers **0**.
+Publication 10 P2 is **IN PROGRESS — 80 / 146 VERIFIED**, contiguous through scan 80, with **17 / 26** main-work units complete and blockers **0**.
 
-Exact next activity: **P2 scans 71–80 only**. Scan 71 / printed p.70 closes `தேனலைகள்`; scans 72–77 / pp.71–76 complete `தோழி`; scans 78–80 / pp.77–79 begin `மருதாணி`, which continues through scan 84. Stop after scan 80; do not begin P3 assemblies or English translation unless separately authorised.
+Exact next activity: **P2 scans 81–90 only**. Scans 81–84 / pp.80–83 continue and close `மருதாணி`; scans 85–90 / pp.84–89 complete `அருவி`. Stop after scan 90; do not begin P3 assemblies or English translation unless separately authorised.
 
 ### Permanent `உடன்பிறப்பே` rule
 
