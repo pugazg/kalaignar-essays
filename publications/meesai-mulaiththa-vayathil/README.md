@@ -71,14 +71,15 @@ No unit boundary or printed-page span changed. All 26 corrected titles were scre
 
 ## P2 page-level transcription — IN PROGRESS
 
-Canonical page records now cover **scans 1–40 / 40 of 146 VERIFIED**.
+Canonical page records now cover **scans 1–50 / 50 of 146 VERIFIED**.
 
 Batch records:
 
 - [`P2_BATCH_001_010.md`](P2_BATCH_001_010.md) — scans 1–10;
 - [`P2_BATCH_011_020.md`](P2_BATCH_011_020.md) — scans 11–20;
 - [`P2_BATCH_021_030.md`](P2_BATCH_021_030.md) — scans 21–30;
-- [`P2_BATCH_031_040.md`](P2_BATCH_031_040.md) — scans 31–40.
+- [`P2_BATCH_031_040.md`](P2_BATCH_031_040.md) — scans 31–40;
+- [`P2_BATCH_041_050.md`](P2_BATCH_041_050.md) — scans 41–50.
 
 Current verified source coverage:
 
@@ -86,29 +87,34 @@ Current verified source coverage:
 - `என்னுரை`, scans 4–6: **3 / 3 VERIFIED / COMPLETE**;
 - `முன்னுரை`, scans 7–16: **10 / 10 VERIFIED / COMPLETE**;
 - scan 17 blank/show-through: **VERIFIED**;
-- Unit 1 `பிறையே`, scans 18–20 / printed pp.17–19: **3 / 3 VERIFIED / COMPLETE**;
-- Unit 2 `ஆடிக்காற்று`, scans 21–23 / printed pp.20–22: **3 / 3 VERIFIED / COMPLETE**;
-- Unit 3 `கருப்புப் பெண்`, scans 24–27 / printed pp.23–26: **4 / 4 VERIFIED / COMPLETE**;
-- Unit 4 `கடலே`, scans 28–30 / printed pp.27–29: **3 / 3 VERIFIED / COMPLETE**;
-- Unit 5 `ஆறு`, scans 31–33 / printed pp.30–32: **3 / 3 VERIFIED / COMPLETE**;
-- Unit 6 `வாழிய வைகறை`, scans 34–35 / printed pp.33–34: **2 / 2 VERIFIED / COMPLETE**;
-- Unit 7 `அகப்பை சித்தர்`, scans 36–38 / printed pp.35–37: **3 / 3 VERIFIED / COMPLETE**;
-- Unit 8 `மலையே வாழி`, scans 39–40 / printed pp.38–39: **2 / 2 VERIFIED so far; continues to scan 41 / p.40**;
-- contiguous verified range: **1–40**;
-- missing canonical page records in 1–40: **0**;
+- Unit 1 `பிறையே`, scans 18–20 / printed pp.17–19: **COMPLETE**;
+- Unit 2 `ஆடிக்காற்று`, scans 21–23 / printed pp.20–22: **COMPLETE**;
+- Unit 3 `கருப்புப் பெண்`, scans 24–27 / printed pp.23–26: **COMPLETE**;
+- Unit 4 `கடலே`, scans 28–30 / printed pp.27–29: **COMPLETE**;
+- Unit 5 `ஆறு`, scans 31–33 / printed pp.30–32: **COMPLETE**;
+- Unit 6 `வாழிய வைகறை`, scans 34–35 / printed pp.33–34: **COMPLETE**;
+- Unit 7 `அகப்பை சித்தர்`, scans 36–38 / printed pp.35–37: **COMPLETE**;
+- Unit 8 `மலையே வாழி`, scans 39–41 / printed pp.38–40: **COMPLETE**;
+- Unit 9 `தளிர்`, scans 42–45 / printed pp.41–44: **COMPLETE**;
+- Unit 10 `விண்மீன்`, scans 46–48 / printed pp.45–47: **COMPLETE**;
+- Unit 11 `தனிமை`, scans 49–50 / printed pp.48–49: **2 / 6 VERIFIED so far; continues through scan 54**;
+- contiguous verified range: **1–50**;
+- missing canonical page records in 1–50: **0**;
 - unresolved printed-text blocks in verified scans: **0**;
-- complete main-work units at P2 page layer: **7 / 26**;
+- complete main-work units at P2 page layer: **10 / 26**;
 - P2 blockers: **0**.
 
 Scan 3 remains a documented **non-body imprint obscuration**: a later library stamp/handwriting covers some imprint/contact matter. The hidden print was **not reconstructed from context**.
 
-The scan-31–40 batch also established a controlling-source correction on scan 32: the third subheading is **`அரசு`**, not the earlier working reading `அரசி`.
+The scan-31–40 batch established a controlling-source correction on scan 32: the third subheading is **`அரசு`**, not the earlier working reading `அரசி`.
 
-Selected source-sensitive forms preserved in P2 include `நாடக ஆசிரியராகவு`, `‘நன்னூல் விதியில் பொருந்துகிறது’`, `பலகணி`, `கைத்திட்டத் தொடமுடியாது`, `வெண்ணக் கலாப மயிலைக்`, `சுந்தரியை`, `ரகசியந்தான்`, `சிகைக் கொண்டைகளில்`, `சோம்பேறிக்குச்`, `சிங்காரச் “செம்படச்சி”`, `செல்வத் திருநகரின்`, `அதுபோல்`, `இல்லையெனில்`, `மாணிக்கப்பல்`, `தொட்டிற்`, `அன்றாடங்காய்ச்சி`, `சுத்த சுதேசித் தம்புராவை`, `ஆதீனங்கள்`, `அவதாரப் புருஷர்`, `கோஷாப் பெண்`, `மேகச் சீமாட்டிகளின்`, and `அகிலமதிரக்`. These are source readings, not editorial normalization.
+The scan-41–50 batch directly closed `மலையே வாழி`, `தளிர்`, and `விண்மீன்`. Scan 47 had temporarily remained `needs-review`; it was subsequently re-read against the supplied 2006 pixels and verified. The scan-47→48 continuation is preserved as `... மனிதர்களும் இதைக்` → `கற்க வேண்டுமென்றே...`.
 
-An older `முத்தாரம்` printing has been consulted only as a corroborating witness for difficult glyph recognition. The supplied 2006 scan remains controlling; older-edition wording and spacing are not silently imported. In particular, an older-edition sentence mentioning `கமால்` is absent from supplied scan 40 and was not inserted.
+Selected source-sensitive scan-47 forms include `தானு மதுவாகப்`, `விரித்தாடினாற் போலவே`, `புது நீலப்பட்டினிலே`, `மின்மினியாம்`, `புதுப்போட்டி`, `மந்தி கையில் மலர்மாலை`, `அடுக்கத்தேடி`, `தாரகைகளே`, `அடைமொழியால்`, and `ஒளிப்பூக்கள்`.
 
-Although seven main-work units now have complete verified page spans, **P3 assembly has not started** under the current P2-only cadence.
+An older `முத்தாரம்` printing has been consulted only as a corroborating witness for difficult glyph recognition. The supplied 2006 scan remains controlling; older-edition wording, spacing and editorial subheadings are not silently imported.
+
+Although ten main-work units now have complete verified page spans, **P3 assembly has not started** under the current P2-only cadence.
 
 ## Physical-copy notes
 
@@ -131,7 +137,7 @@ Although seven main-work units now have complete verified page spans, **P3 assem
 
 - P0 source intake / publication identification: **COMPLETE / PASS**
 - P1 metadata + full page map + unit/contents mapping + duplicate reconciliation: **COMPLETE / PASS**
-- P2 page-level transcription: **IN PROGRESS — 40 / 146 VERIFIED**
+- P2 page-level transcription: **IN PROGRESS — 50 / 146 VERIFIED**
 - P3 assemblies: **NOT STARTED**
 - P4 source/completeness audit: **NOT STARTED**
 - P5 strict visual fidelity: **NOT STARTED**
@@ -140,10 +146,11 @@ Although seven main-work units now have complete verified page spans, **P3 assem
 
 ## Exact next activity
 
-**P2 scans 41–50 only.**
+**P2 scans 51–60 only.**
 
-- scan 41 / printed p.40 continues Unit 8 `மலையே வாழி` from the mid-sentence ending on scan 40;
-- follow the verified P1 page map/source-visible unit boundaries through scan 50;
+- scan 51 / printed p.50 continues Unit 11 `தனிமை`;
+- `தனிமை` continues through scan 54;
+- then follow the P1 map through `நாடக மேடை` scans 55–56, `புகழ்` scans 57–58, and `பச்சைக்கிளி` scans 59–60 of its 59–61 span;
 - create and directly verify one canonical page record per scan;
 - preserve printed text, illustrations/running headers and physical-copy marks as distinct layers;
-- do not begin P3 assembly or English translation in that activity unless separately authorised.
+- **STOP after scan 60; do not begin P3 assembly or English translation unless separately authorised.**
