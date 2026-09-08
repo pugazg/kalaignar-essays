@@ -70,18 +70,18 @@ P1 remains **146 / 146 scans**, **26 / 26 units**, unmapped scans **0**, boundar
 
 ## Current P2 overlay
 
-P1 remains **COMPLETE / PASS**. P2 durable frontier is now **90 / 146 VERIFIED**, contiguous through scan 90.
+P1 remains **COMPLETE / PASS**. P2 durable frontier is now **100 / 146 VERIFIED**, contiguous through scan 100.
 
-- complete main-work units: **19 / 26**, through Unit 19 `அருவி`;
-- Unit 18 `மருதாணி`: scans 78–84 / pp.77–83 — **7 / 7 VERIFIED / COMPLETE**;
-- Unit 19 `அருவி`: scans 85–90 / pp.84–89 — **6 / 6 VERIFIED / COMPLETE**;
-- missing canonical records in scans 1–90: **0**;
+- complete main-work units: **20 / 26**, through Unit 20 `முறம்`;
+- Unit 20 `முறம்`: scans 91–95 / pp.90–94 — **5 / 5 VERIFIED / COMPLETE**;
+- Unit 21 `யாழ்`: scans 96–100 / pp.95–99 — **5 / 7 VERIFIED so far**; continues through scan 102 / p.101;
+- missing canonical records in scans 1–100: **0**;
 - unresolved printed-text blocks in verified scans: **0**;
 - P2 blockers: **0**;
 - P3 remains **NOT STARTED**.
 
-The completed 81–90 batch directly confirms `மருதாணி` closure at scan 84, the illustrated opening of `அருவி` at scan 85, and `அருவி` closure at scan 90. `P2_BATCH_081_090.md` is the canonical batch audit.
+The completed 91–100 batch directly confirms `முறம்` closure at scan 95, the illustrated opening of `யாழ்` at scan 96, and `யாழ்` through scan 100. `P2_BATCH_091_100.md` is the canonical batch audit. Scan 100 ends `அதைத் தடுக்கத்`; scan 101 remains the next direct-source continuation page.
 
 ## Exact next activity
 
-**Next P2 activity: scans 91–100 only.** Process Unit 20 `முறம்` on scans 91–95 / pp.90–94, complete within the batch; then process Unit 21 `யாழ்` on scans 96–100 / pp.95–99 of its 96–102 span. Every physical scan must retain a canonical page record; printed text, illustrations and physical-copy marks remain distinct; OCR is not authority. Stop after scan 100 and do not begin P3 assembly or English translation unless separately authorised.
+**Next P2 activity: scans 101–110 only.** Continue and close Unit 21 `யாழ்` on scans 101–102 / pp.100–101; then begin Unit 22 `சிற்பி` on scans 103–110 / pp.102–109 of its 103–114 span. Every physical scan must retain a canonical page record; printed text, illustrations and physical-copy marks remain distinct; OCR is not authority. Stop after scan 110 and do not begin P3 assembly or English translation unless separately authorised.
