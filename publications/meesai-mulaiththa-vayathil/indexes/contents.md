@@ -98,4 +98,6 @@ Kalaignar's `என்னுரை` describes the collected pieces as `எழு
 
 ## Exact next activity
 
-**P2 — page-level transcription from scan 1 onward.** Every physical scan must receive a canonical page record. Printed text, illustrations and physical-copy marks must remain distinct; OCR is not authority.
+P1 remains **COMPLETE / PASS**. Current P2 durable frontier is **50 / 146 VERIFIED**, contiguous through scan 50.
+
+**Next P2 activity: scans 51–60 only.** Continue `தனிமை` through scan 54, then follow the verified boundaries into `நாடக மேடை` scans 55–56, `புகழ்` scans 57–58, and `பச்சைக்கிளி` scans 59–60 of its 59–61 span. Every physical scan must retain a canonical page record; printed text, illustrations and physical-copy marks remain distinct; OCR is not authority. Do not begin P3 assembly or English translation unless separately authorised.
