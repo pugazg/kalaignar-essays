@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P2 scans 71–80
+# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P2 scans 81–90
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -16,13 +16,15 @@ Publication 10 `மீசை முளைத்த வயதில்`:
 
 - P0 — **PASS**;
 - P1 — **PASS**;
-- P2 — **IN PROGRESS — 70 / 146 VERIFIED**;
-- contiguous verified range — scans **1–70**;
-- canonical page records present — **70 / 146**;
+- P2 — **IN PROGRESS — 80 / 146 VERIFIED**;
+- contiguous verified range — scans **1–80**;
+- canonical page records present — **80 / 146**;
 - unresolved printed prose blocks in verified scans — **0**;
 - P2 blockers — **0**;
-- complete main-work units at the P2 page layer — **15 / 26**;
-- Unit 16 `தேனலைகள்` — scans 63–70 / printed pp.62–69 VERIFIED; closes at scan 71 / p.70;
+- complete main-work units at the P2 page layer — **17 / 26**;
+- Unit 16 `தேனலைகள்` — **9 / 9 VERIFIED / COMPLETE** on scans 63–71;
+- Unit 17 `தோழி` — **6 / 6 VERIFIED / COMPLETE** on scans 72–77;
+- Unit 18 `மருதாணி` — scans 78–80 / printed pp.77–79 VERIFIED; continues through scan 84 / p.83;
 - P3 assemblies — **NOT STARTED**;
 - English — **BLOCKED until Tamil P5 freeze**.
 
@@ -34,18 +36,17 @@ Completed batch records:
 - `P2_BATCH_031_040.md`;
 - `P2_BATCH_041_050.md`;
 - `P2_BATCH_051_060.md`;
-- `P2_BATCH_061_070.md`.
+- `P2_BATCH_061_070.md`;
+- `P2_BATCH_071_080.md`.
 
-Durable source findings from the completed 61–70 batch:
+Durable source findings from the completed 71–80 batch:
 
-- Unit 14 `பச்சைக்கிளி` is COMPLETE on scans 59–61;
-- Unit 15 `தமிழே` is COMPLETE on scan 62;
-- Unit 16 `தேனலைகள்` opens on scan 63 and is verified through scan 70, but remains open until scan 71;
-- source-visible hollow-circle scene separators in `தேனலைகள்` were preserved;
-- scan 68 ends `... இதோ என் அன்பின்`; scan 69 continues `அடையாளமாக அவளுக்கு இந்த முத்துமாலையை`;
-- scan 69 retains `பெரும் பேறு`, `கட்டழகனைப்`, `வளவர் கோமானே`, `இதயத் தாய்மையை`, `முத்துக் கணையாழியை`, `யாழரசன்`, `உளியடாச் சிலை`, `ஒளித் தமிழன்`, and `முழவின்றி`;
-- scan 69 ends `முடிவுமின்றித்`; scan 70 continues `தொடங்கிற்று!`;
-- scan 70 retains `எவ்வாறெ”ன்றாள்`, `யாராவது”என`, `யாருமில்லை”யென்று`, `ஆரம்`, `ஒளிர்பூங் கொம்பே`, `முத்துக் கணையாழி`, `மணப்பிள்ளை`, `யாரளித்தார்`, and `உயர் தமிழன்`;
+- scan 71 closes `தேனலைகள்`; source-visible forms retained include `முந்தீர்`, `மகடூஉவோடில்லை`, `விதிவிலக்கு`, and `முத்தாரம்`;
+- `தோழி` is complete on scans 72–77; scan 77 retains `நகத்தையன்றோ`, `மனச்சேதி`, `மூர்ச்சித்து`, `ஆரியனாம்`, `ஆவிதனைக்`, and `மறத்தியானாள்`;
+- `மருதாணி` opens on scan 78 and is verified through scan 80;
+- scan 78 retains `நகை நட்டு`, `புகையொத்த`, `பிடிக்குங் காணாத`, `இளம்பிடி`, and `பேசிலோ கிள்ளை`;
+- scan 79→80 directly completes `ஓராயிரம்` → `கதை சொல்லும் உவமை காட்டி!`;
+- scan 80 retains `ஆடிப் பெருக்கிற்கு`, `பொழியலானாள்`, `பாட்டியொருத்தி`, `தடையின்றிப்`, `கொழுந்துகளை`, `குறி பதிக்கும்`, and `வெட்கந் தேக்கிப்`;
 - supplied 2006 scan pixels remained controlling; OCR and alternate-edition wording were not used as authority.
 
 ## Controlling source
@@ -63,23 +64,22 @@ Permanent P1 source-title readings:
 - `தளிர்` — scan 42 / p.41;
 - `மயிலிறகு` — scan 136 / p.135.
 
-## Exact next activity — P2 scans 71–80 only
+## Exact next activity — P2 scans 81–90 only
 
 1. Fetch live `main` and re-read root `HANDOVER.md` before any write.
-2. Resolve the controlling PDF and inspect **scan 71 / printed p.70 first**. It closes Unit 16 `தேனலைகள்` after scan 70.
-3. Process scans **71–80 only**, following the verified P1 map:
-   - scan 71 / p.70 — `தேனலைகள்` close;
-   - scans 72–77 / pp.71–76 — Unit 17 `தோழி`, complete within this batch;
-   - scans 78–80 / pp.77–79 — Unit 18 `மருதாணி`, continuing through scan 84 / p.83.
+2. Resolve the controlling PDF and inspect **scan 81 / printed p.80 first**. It continues Unit 18 `மருதாணி` after scan 80.
+3. Process scans **81–90 only**, following the verified P1 map:
+   - scans 81–84 / pp.80–83 — continue and close Unit 18 `மருதாணி`;
+   - scans 85–90 / pp.84–89 — Unit 19 `அருவி`, complete within this batch.
 4. Create/re-fetch exactly one canonical page record per scan. Do not create duplicates if live `main` has advanced.
 5. Supplied 2006 scan pixels are controlling. Any secondary witness may corroborate difficult glyphs only — never import its wording silently.
 6. Preserve exact title/body wording, punctuation, word boundaries, paragraph/verse/dialogue lineation, running headers/folios and continuation.
 7. Keep illustrations/design and later physical-copy marks as separate source layers.
 8. Mark `verified` only after direct source comparison.
 
-After **all ten** scans 71–80 pass:
+After **all ten** scans 81–90 pass:
 
-- create `P2_BATCH_071_080.md`;
+- create `P2_BATCH_081_090.md`;
 - synchronize publication `README.md`, `audit.md`, `metadata/source.md`, `indexes/contents.md` plus root `README.md`, `HANDOVER.md`, and this prompt;
-- set exact next P2 activity to scans **81–90**;
-- **STOP after scan 80. Do not begin P3 assemblies or English translation unless separately authorised.**
+- set exact next P2 activity to scans **91–100**;
+- **STOP after scan 90. Do not begin P3 assemblies or English translation unless separately authorised.**
