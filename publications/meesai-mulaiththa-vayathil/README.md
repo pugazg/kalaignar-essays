@@ -26,7 +26,7 @@ Permanent corrected P1 title readings:
 
 ## P2 page-level transcription — IN PROGRESS
 
-Canonical page records now cover **scans 1–100 / 100 of 146 VERIFIED**.
+Canonical page records now cover **scans 1–110 / 110 of 146 VERIFIED**.
 
 Completed batch records:
 
@@ -40,6 +40,7 @@ Completed batch records:
 - `P2_BATCH_071_080.md`
 - `P2_BATCH_081_090.md`
 - `P2_BATCH_091_100.md`
+- `P2_BATCH_101_110.md`
 
 Current verified source coverage:
 
@@ -47,18 +48,18 @@ Current verified source coverage:
 - `என்னுரை`, scans 4–6: **3 / 3 VERIFIED / COMPLETE**;
 - `முன்னுரை`, scans 7–16: **10 / 10 VERIFIED / COMPLETE**;
 - scan 17 blank/show-through: **VERIFIED**;
-- Units 1–20 through `முறம்`: **COMPLETE**;
-- Unit 20 `முறம்`, scans 91–95 / pp.90–94: **5 / 5 VERIFIED / COMPLETE**;
-- Unit 21 `யாழ்`, scans 96–100 / pp.95–99: **5 / 7 VERIFIED so far; continues through scan 102 / p.101**;
-- contiguous verified range: **1–100**;
-- missing canonical records in 1–100: **0**;
+- Units 1–21 through `யாழ்`: **COMPLETE**;
+- Unit 21 `யாழ்`, scans 96–102 / pp.95–101: **7 / 7 VERIFIED / COMPLETE**;
+- Unit 22 `சிற்பி`, scans 103–110 / pp.102–109: **8 / 12 VERIFIED so far; continues through scan 114 / p.113**;
+- contiguous verified range: **1–110**;
+- missing canonical records in 1–110: **0**;
 - unresolved printed-text blocks in verified scans: **0**;
-- complete main-work units: **20 / 26**;
+- complete main-work units: **21 / 26**;
 - P2 blockers: **0**.
 
-The scan-91–100 batch directly closes `முறம்` at scan 95 and verifies `யாழ்` through scan 100. Scan 100 ends `அதைத் தடுக்கத்`; the continuation is intentionally left to direct inspection of scan 101 rather than reconstructed from context.
+The scan-101–110 batch directly closes `யாழ்` at scan 102 and verifies `சிற்பி` through scan 110. Scan 110 ends `இருப்பது போல் உயிருள்ள கலைக்கும் ஆபத்து`; the continuation is intentionally left to direct inspection of scan 111 rather than reconstructed from context.
 
-Durable source-sensitive forms in this batch include `புளிக் கொழம்பு`, `வைக்கோற் போரோடு`, `சிந்தையணு`, `பேர்” அறிவு`, `கருங்கயற் கண்`, `மாபகத்தின்`, `முப்பாவின் இறுதிப்பால்`, `“வணக்க”மென`, `கொழுநன்`, `அருங்கற்பு`, `பாயவுற்றான்`, `விழுந்தழுதாள்`, `தொட்டிமுத்தான்`, `தோகைதனை`, and `அநியாயக்காரன்`.
+Durable source-sensitive forms in this batch include `மணிமொழிந்து`, `வாரியணைத்தான்`, `எந்தினாள்`, `என்றெண்ணிய`, `ரீங்காரம்`, `அகம்பாவத்திற்கு`, `கபோதியாகட்டும்`, `எறிந்துதுப்`, `மண்டுகொண்டேயிருந்தது`, `தூளாகிக்`, `உடைப்பெடுத்த எரிகளாயின`, `சீற்றமல்லவா`, `நானறிகிறேன்`, and `புத்திக்காரி`.
 
 The supplied 2006 scan remains controlling. OCR is not authority; no alternate-edition wording is silently imported.
 
@@ -76,7 +77,7 @@ Earlier durable corrections/findings remain non-regressed, including scan 32 `�
 
 - P0: **COMPLETE / PASS**
 - P1: **COMPLETE / PASS**
-- P2: **IN PROGRESS — 100 / 146 VERIFIED**
+- P2: **IN PROGRESS — 110 / 146 VERIFIED**
 - P3: **NOT STARTED**
 - P4: **NOT STARTED**
 - P5: **NOT STARTED**
@@ -85,12 +86,12 @@ Earlier durable corrections/findings remain non-regressed, including scan 32 `�
 
 ## Exact next activity
 
-**P2 scans 101–110 only.**
+**P2 scans 111–120 only.**
 
-- scans 101–102 / pp.100–101 — continue and close Unit 21 `யாழ்`;
-- scans 103–110 / pp.102–109 — begin Unit 22 `சிற்பி`, which continues through scan 114 / p.113;
-- inspect scan 101 first to continue scan 100's unfinished `அதைத் தடுக்கத்` phrase;
+- scans 111–114 / pp.110–113 — continue and close Unit 22 `சிற்பி`;
+- scans 115–120 / pp.114–119 — begin Unit 23 `சேவல் சண்டை`, which continues through scan 122 / p.121;
+- inspect scan 111 first to continue scan 110's unfinished `இருப்பது போல் உயிருள்ள கலைக்கும் ஆபத்து` phrase;
 - directly verify one canonical page record per scan against the controlling source;
-- after all ten pass, create `P2_BATCH_101_110.md` and synchronize trackers;
-- set the following activity to scans 111–120;
-- **STOP after scan 110; do not begin P3 assembly or English translation unless separately authorised.**
+- after all ten pass, create `P2_BATCH_111_120.md` and synchronize trackers;
+- set the following activity to scans 121–130;
+- **STOP after scan 120; do not begin P3 assembly or English translation unless separately authorised.**
