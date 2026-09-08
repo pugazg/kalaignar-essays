@@ -39,31 +39,36 @@ Permanent title corrections remain:
 
 ## P2 — page-level transcription
 
-**RESULT: IN PROGRESS — 120 / 146 VERIFIED**
+**RESULT: IN PROGRESS — 130 / 146 VERIFIED**
 
-Completed batch records now run through `P2_BATCH_111_120.md`.
+Completed batch records now run through `P2_BATCH_121_130.md`.
 
-### P2 batch 12 — scans 111–120
+### P2 batch 13 — scans 121–130
 
-Canonical record: `P2_BATCH_111_120.md`.
+Canonical record: `P2_BATCH_121_130.md`.
 
-- scans 111–120: **10 / 10 VERIFIED**;
-- Unit 22 `சிற்பி`, scans 103–114 / pp.102–113: **12 / 12 VERIFIED / COMPLETE**;
-- Unit 23 `சேவல் சண்டை`, scans 115–120 / pp.114–119: **6 / 8 VERIFIED so far; continues through scan 122 / p.121**;
-- scan 114 carries the closing bullet for `சிற்பி`;
-- scan 115 is the illustrated opening of `சேவல் சண்டை`;
-- scan 120 is an internal continuation page and no scan-121 wording was imported;
+- scans 121–130: **10 / 10 VERIFIED**;
+- Unit 23 `சேவல் சண்டை`, scans 115–122 / pp.114–121: **8 / 8 VERIFIED / COMPLETE**;
+- Unit 24 `மடல்`, scans 123–128 / pp.122–127: **6 / 6 VERIFIED / COMPLETE**;
+- Unit 25 `ஆண்டு விழா`, scans 129–130 / pp.128–129: **2 / 7 VERIFIED so far; continues through scan 135 / p.134**;
+- scan 122 carries the closing bullet for `சேவல் சண்டை`;
+- scan 123 is the illustrated opening of `மடல்`;
+- scan 128 closes `மடல்` with `- அன்புக் காதலி` and final bullet `●`;
+- scan 129 is the illustrated opening of `ஆண்டு விழா`;
+- scan 130 ends at `ஆண்டு ஒன்று`; no scan-131 wording was imported;
+- reviewed source corrections include scan 124 `பறித்துச்`, scan 126 `திங்களோ காணீர்!`, and scan 130 `திங்களியே!`;
 - unresolved printed text inside verified scans: **0**;
 - batch blockers: **0**.
 
 Direct source checks include:
 
-- scan 110→111 continues the unfinished `உயிருள்ள கலைக்கும் ஆபத்து` sentence;
-- scan 116→117: `பெண் குலத்தைப் புகழ்வதற்கும்` → `ஆண் மயில் தான் தேவைப்படும்`;
-- scan 117→118 moves from `பேசலுற்றேன்;` into `சேவற் சண்டையிலே பெற்ற புகழ் பெருவீரம்`;
-- scan 118 preserves `சேரன் செங்குட்டுவன்`, `கனகவிசயர்`, `கோழ்மையையும்`, `சூளுரைப்பேன்`, and `நெருக்கடியில்`;
-- scan 118→119 moves from `அதன் பிள்ளை இந்தச் சேவல்!` into `சரியத்தான் - சேவல் பேச்சு முடியட்டும்...`;
-- scans 119–120 preserve `பழச்சுவை யமுதங்கூட`, `நம்பிக்கையொரு`, `கிழியொன்று`, `பிராண்டுதற்கும்`, `எகிற் கொண்டைகள்`, `‘மளமள’ வென`, and `கலங்கலுற்றான்`.
+- scan 121→122: `“பார்த்தாயா` → `கூண்டழகை” எனக் காட்ட!`;
+- scan 122 closes `சேவல் சண்டை`;
+- scan 125→126: `அவள் மடல்` → `கண்டு...`;
+- scan 127→128: `மென்மலர்` → `அம்புகளால் உயிரைக் கொல்லும்`;
+- scan 128 closes `மடல்`;
+- scan 129 opens `ஆண்டு விழா`;
+- scan 130 remains open into scan 131.
 
 The supplied 2006 source pixels remained authority throughout. OCR was not authority and no alternate-edition wording was silently imported.
 
@@ -71,14 +76,14 @@ Earlier durable findings remain non-regressed, including scan 32 **`அரசு
 
 ### Current P2 gate
 
-- canonical page records: **120 / 146 VERIFIED**;
-- contiguous verified range: **1–120**;
-- missing canonical records in scans 1–120: **0**;
+- canonical page records: **130 / 146 VERIFIED**;
+- contiguous verified range: **1–130**;
+- missing canonical records in scans 1–130: **0**;
 - `என்னுரை`: **3 / 3 COMPLETE**;
 - `முன்னுரை`: **10 / 10 COMPLETE**;
 - blank scan 17: **VERIFIED**;
-- complete main-work units: **22 / 26**;
-- Unit 23 `சேவல் சண்டை`: **IN PROGRESS through scan 120**;
+- complete main-work units: **24 / 26**;
+- Unit 25 `ஆண்டு விழா`: **IN PROGRESS through scan 130**;
 - unresolved printed-text blocks: **0**;
 - active P2 blockers: **0**.
 
@@ -92,7 +97,7 @@ Earlier durable findings remain non-regressed, including scan 32 **`அரசு
 |---|---|
 | P0 | **COMPLETE / PASS** |
 | P1 | **COMPLETE / PASS** |
-| P2 | **IN PROGRESS — 120 / 146 VERIFIED** |
+| P2 | **IN PROGRESS — 130 / 146 VERIFIED** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -102,10 +107,10 @@ Active blockers: **0**.
 
 ## Exact next activity
 
-**P2 scans 121–130 only.**
+**P2 scans 131–140 only.**
 
-- scans 121–122 / pp.120–121 — continue and close Unit 23 `சேவல் சண்டை`;
-- scans 123–128 / pp.122–127 — process and complete Unit 24 `மடல்`;
-- scans 129–130 / pp.128–129 — begin Unit 25 `ஆண்டு விழா`, continuing through scan 135 / p.134;
-- after all ten pass, create `P2_BATCH_121_130.md`, synchronize dependent trackers, and set next activity to scans 131–140;
-- **STOP after scan 130; do not begin P3 assembly or English translation unless separately authorised.**
+- scans 131–135 / pp.130–134 — continue and close Unit 25 `ஆண்டு விழா`;
+- scans 136–140 / pp.135–139 — begin Unit 26 `மயிலிறகு`, continuing through scan 145 / p.144;
+- preserve permanent scan-136 title reading `மயிலிறகு`;
+- after all ten pass, create `P2_BATCH_131_140.md`, synchronize dependent trackers, and set next activity to scans 141–146;
+- **STOP after scan 140; do not begin P3 assembly or English translation unless separately authorised.**
