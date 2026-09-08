@@ -70,18 +70,19 @@ P1 remains **146 / 146 scans**, **26 / 26 units**, unmapped scans **0**, boundar
 
 ## Current P2 overlay
 
-P1 remains **COMPLETE / PASS**. P2 durable frontier is now **120 / 146 VERIFIED**, contiguous through scan 120.
+P1 remains **COMPLETE / PASS**. P2 durable frontier is now **130 / 146 VERIFIED**, contiguous through scan 130.
 
-- complete main-work units: **22 / 26**, through Unit 22 `சிற்பி`;
-- Unit 22 `சிற்பி`: scans 103–114 / pp.102–113 — **12 / 12 VERIFIED / COMPLETE**;
-- Unit 23 `சேவல் சண்டை`: scans 115–120 / pp.114–119 — **6 / 8 VERIFIED so far**; continues through scan 122 / p.121;
-- missing canonical records in scans 1–120: **0**;
+- complete main-work units: **24 / 26**, through Unit 24 `மடல்`;
+- Unit 23 `சேவல் சண்டை`: scans 115–122 / pp.114–121 — **8 / 8 VERIFIED / COMPLETE**;
+- Unit 24 `மடல்`: scans 123–128 / pp.122–127 — **6 / 6 VERIFIED / COMPLETE**;
+- Unit 25 `ஆண்டு விழா`: scans 129–130 / pp.128–129 — **2 / 7 VERIFIED so far**; continues through scan 135 / p.134;
+- missing canonical records in scans 1–130: **0**;
 - unresolved printed-text blocks in verified scans: **0**;
 - P2 blockers: **0**;
 - P3 remains **NOT STARTED**.
 
-The completed 111–120 batch directly confirms `சிற்பி` closure at scan 114, the illustrated opening of `சேவல் சண்டை` at scan 115, and `சேவல் சண்டை` through scan 120. `P2_BATCH_111_120.md` is the canonical batch audit. Scan 120 remains an internal continuation page; scan 121 is the next direct-source page.
+The completed 121–130 batch directly confirms `சேவல் சண்டை` closure at scan 122, the illustrated opening and closure of `மடல்` on scans 123–128, and the illustrated opening of `ஆண்டு விழா` at scan 129. `P2_BATCH_121_130.md` is the canonical batch audit. Scan 130 ends at `ஆண்டு ஒன்று`; scan 131 is the next direct-source continuation page.
 
 ## Exact next activity
 
-**Next P2 activity: scans 121–130 only.** Continue and close Unit 23 `சேவல் சண்டை` on scans 121–122 / pp.120–121; process and complete Unit 24 `மடல்` on scans 123–128 / pp.122–127; then begin Unit 25 `ஆண்டு விழா` on scans 129–130 / pp.128–129 of its 129–135 span. Every physical scan must retain a canonical page record; printed text, illustrations and physical-copy marks remain distinct; OCR is not authority. Stop after scan 130 and do not begin P3 assembly or English translation unless separately authorised.
+**Next P2 activity: scans 131–140 only.** Continue and close Unit 25 `ஆண்டு விழா` on scans 131–135 / pp.130–134; then begin Unit 26 `மயிலிறகு` on scans 136–140 / pp.135–139 of its 136–145 span. Preserve the permanent source title `மயிலிறகு` on scan 136. Every physical scan must retain a canonical page record; printed text, illustrations and physical-copy marks remain distinct; OCR is not authority. Stop after scan 140 and do not begin P3 assembly or English translation unless separately authorised.
