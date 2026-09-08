@@ -107,7 +107,7 @@ Latest state:
 - scan 127→128 directly continues `மென்மலர்` → `அம்புகளால் உயிரைக் கொல்லும்`;
 - scan 128 closes `மடல்` with `- அன்புக் காதலி` and the final bullet `●`;
 - scan 129 is the illustrated `ஆண்டு விழா` opening;
-- scan 130 preserves dialogue forms including `வக்கணைக்காரி`, `எக்கமிகு`, `குளிரேற்றிப்`, `தீங்களியே`, and `மூன்றாம் பாலினுக்கும்`;
+- scan 130 preserves dialogue forms including `வக்கணைக்காரி`, `எக்கமிகு`, `குளிரேற்றிப்`, `திங்களியே`, and `மூன்றாம் பாலினுக்கும்`;
 - scan 130 ends inside the quoted speech at `ஆண்டு ஒன்று`; no scan-131 wording was reconstructed from context;
 - supplied 2006 scan pixels remained controlling; OCR was not authority and no secondary-edition wording was silently imported.
 
