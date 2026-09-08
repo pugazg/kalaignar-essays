@@ -105,60 +105,44 @@ Canonical batch records:
 - [`../P2_BATCH_001_010.md`](../P2_BATCH_001_010.md);
 - [`../P2_BATCH_011_020.md`](../P2_BATCH_011_020.md);
 - [`../P2_BATCH_021_030.md`](../P2_BATCH_021_030.md);
-- [`../P2_BATCH_031_040.md`](../P2_BATCH_031_040.md).
+- [`../P2_BATCH_031_040.md`](../P2_BATCH_031_040.md);
+- [`../P2_BATCH_041_050.md`](../P2_BATCH_041_050.md).
 
 Current direct-source result:
 
-- canonical pages verified: **40 / 146**;
-- contiguous verified range: **scans 1–40**;
+- canonical pages verified: **50 / 146**;
+- contiguous verified range: **scans 1–50**;
 - cover/title/imprint: **3 / 3 VERIFIED**;
 - `என்னுரை`, scans 4–6: **3 / 3 VERIFIED / COMPLETE**;
 - `முன்னுரை`, scans 7–16: **10 / 10 VERIFIED / COMPLETE**;
 - scan 17 blank/show-through: **VERIFIED**;
-- Unit 1 `பிறையே`, scans 18–20 / printed pp.17–19: **3 / 3 VERIFIED / COMPLETE**;
-- Unit 2 `ஆடிக்காற்று`, scans 21–23 / printed pp.20–22: **3 / 3 VERIFIED / COMPLETE**;
-- Unit 3 `கருப்புப் பெண்`, scans 24–27 / printed pp.23–26: **4 / 4 VERIFIED / COMPLETE**;
-- Unit 4 `கடலே`, scans 28–30 / printed pp.27–29: **3 / 3 VERIFIED / COMPLETE**;
-- Unit 5 `ஆறு`, scans 31–33 / printed pp.30–32: **3 / 3 VERIFIED / COMPLETE**;
-- Unit 6 `வாழிய வைகறை`, scans 34–35 / printed pp.33–34: **2 / 2 VERIFIED / COMPLETE**;
-- Unit 7 `அகப்பை சித்தர்`, scans 36–38 / printed pp.35–37: **3 / 3 VERIFIED / COMPLETE**;
-- Unit 8 `மலையே வாழி`, scans 39–40 / printed pp.38–39: **2 / 2 VERIFIED so far; continues to scan 41 / p.40**;
-- complete main-work units at the P2 page layer: **7 / 26**;
-- missing canonical page records in scans 1–40: **0**;
+- Units 1–10 through `விண்மீன்`: **COMPLETE at the P2 page layer**;
+- Unit 11 `தனிமை`, scans 49–50 / printed pp.48–49: **2 / 6 VERIFIED so far; continues through scan 54**;
+- complete main-work units at the P2 page layer: **10 / 26**;
+- missing canonical page records in scans 1–50: **0**;
 - unresolved printed-text blocks in verified scans: **0**;
 - active P2 blockers: **0**.
 
 The scan-31–40 batch established a controlling-source correction on scan 32: its third source subheading is **`அரசு`**, not the earlier working reading `அரசி`.
 
-Source-sensitive forms already frozen at the P2 page layer include, among others:
+The scan-41–50 batch directly closed Units 8–10. Scan 47 `விண்மீன்` had temporarily remained `needs-review`; it was then re-read directly against the supplied 2006 pixels and verified. The source-visible scan-47→48 continuation is preserved as `... மனிதர்களும் இதைக்` → `கற்க வேண்டுமென்றே...`.
 
-- `நாடக ஆசிரியராகவு`;
-- `‘நன்னூல் விதியில் பொருந்துகிறது’`;
-- `பலகணி`;
-- `கைத்திட்டத் தொடமுடியாது`;
-- `வெண்ணக் கலாப மயிலைக்`;
-- `சுந்தரியை`;
-- `ரகசியந்தான்`;
-- `சிகைக் கொண்டைகளில்`;
-- `சோம்பேறிக்குச்`;
-- `சிங்காரச் “செம்படச்சி”`;
-- `செல்வத் திருநகரின்`;
-- `அதுபோல்`;
-- `இல்லையெனில்`;
-- `மாணிக்கப்பல்`;
-- `தொட்டிற்`;
-- `அன்றாடங்காய்ச்சி`;
-- `சுத்த சுதேசித் தம்புராவை`;
-- `ஆதீனங்கள்`;
-- `அவதாரப் புருஷர்`;
-- `கோஷாப் பெண்`;
-- `மேகச் சீமாட்டிகளின்`;
-- `அகிலமதிரக்`;
-- `அகிலும் தேக்கும்`.
+Source-sensitive scan-47 forms retained include:
 
-These source forms are not silently modernised or regularised. An older `முத்தாரம்` printing has been used only for corroboration of difficult glyphs; the supplied 2006 scan pixels determine the canonical reading. An older-edition sentence mentioning `கமால்` is absent from supplied scan 40 and was not imported.
+- `தானு மதுவாகப்`;
+- `விரித்தாடினாற் போலவே`;
+- `புது நீலப்பட்டினிலே`;
+- `மின்மினியாம்`;
+- `புதுப்போட்டி`;
+- `மந்தி கையில் மலர்மாலை`;
+- `அடுக்கத்தேடி`;
+- `தாரகைகளே`;
+- `அடைமொழியால்`;
+- `ஒளிப்பூக்கள்`.
 
-Although seven main-work units have complete verified P2 spans, **P3 assembly is NOT STARTED** under the current P2-only cadence.
+These source forms are not silently modernised or regularised. An older `முத்தாரம்` printing has been used only for corroboration of difficult glyphs; the supplied 2006 scan pixels determine the canonical reading. Older-edition wording and editorial subheadings were not imported.
+
+Although ten main-work units have complete verified P2 spans, **P3 assembly is NOT STARTED** under the current P2-only cadence.
 
 ## Physical-copy / scan condition
 
@@ -185,7 +169,7 @@ Do not infer a composition date for an individual internal piece merely from the
 
 - P0 — source intake / publication identification: **COMPLETE / PASS**
 - P1 — metadata + full page map + unit/contents mapping + duplicate reconciliation: **COMPLETE / PASS**
-- P2 — page-level transcription: **IN PROGRESS — 40 / 146 VERIFIED**
+- P2 — page-level transcription: **IN PROGRESS — 50 / 146 VERIFIED**
 - P3 — assemblies: **NOT STARTED**
 - P4 — source/completeness audit: **NOT STARTED**
 - P5 — strict visual word/punctuation fidelity: **NOT STARTED**
@@ -194,10 +178,11 @@ Do not infer a composition date for an individual internal piece merely from the
 
 ## Exact next activity
 
-**P2 scans 41–50 only**:
+**P2 scans 51–60 only**:
 
-- scan 41 / printed p.40 continues `மலையே வாழி` from the verified mid-sentence ending on scan 40;
-- follow the P1 page map and source-visible boundaries through scan 50;
+- scan 51 / printed p.50 continues `தனிமை` from scan 50;
+- complete `தனிமை` through scan 54;
+- follow the P1 map through `நாடக மேடை` scans 55–56, `புகழ்` scans 57–58, and `பச்சைக்கிளி` scans 59–60 of its 59–61 span;
 - use the supplied scan pixels as authority and directly verify one canonical record per scan;
 - preserve printed and physical-copy layers separately;
-- do not begin P3 assembly or English translation in that activity unless separately authorised.
+- **STOP after scan 60; do not begin P3 assembly or English translation unless separately authorised.**
