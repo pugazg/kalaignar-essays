@@ -9,7 +9,7 @@ Branch: `main`
 
 Publications **1–9 are RELEASE COMPLETE / FROZEN**.
 
-Active Publication **10 — `மீசை முளைத்த வயதில்` — P0, P1, P2 and P3 COMPLETE / PASS. P4 is IN PROGRESS at scans 1–30 / 30 of 146 strict-reviewed, with 41 source corrections, 3 P3 assemblies re-synchronized, and 0 unresolved fidelity discrepancies.**
+Active Publication **10 — `மீசை முளைத்த வயதில்` — P0, P1, P2 and P3 COMPLETE / PASS. P4 is IN PROGRESS at scans 1–40 / 40 of 146 strict-reviewed, with 84 source corrections, 7 distinct P3 assemblies re-synchronized, and 0 unresolved fidelity discrepancies.**
 
 Source PDFs are never committed.
 
@@ -79,11 +79,11 @@ Formal running report: `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDE
 
 Current checkpoint:
 
-- physical scans strict-reviewed: **30 / 146**;
-- contiguous strict-reviewed range: **1–30**;
-- cumulative source corrections: **41**;
-- corrections propagated to canonical records: **41 / 41**;
-- P3 assemblies corrected/re-synchronized: **3**;
+- physical scans strict-reviewed: **40 / 146**;
+- contiguous strict-reviewed range: **1–40**;
+- cumulative source corrections: **84**;
+- corrections propagated to canonical records: **84 / 84**;
+- P3 assemblies corrected/re-synchronized: **7 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
@@ -91,23 +91,28 @@ Completed P4 batches:
 
 - scans 1–10: **2 corrections**;
 - scans 11–20: **4 corrections**;
-- scans 21–30: **35 corrections**.
+- scans 21–30: **35 corrections**;
+- scans 31–40: **43 corrections**.
 
-### Durable P4-021-030 findings
+### Durable P4-031-040 findings
 
 Units reviewed:
 
-- `ஆடிக்காற்று` — scans 21–23 / pp.20–22;
-- `கருப்புப் பெண்` — scans 24–27 / pp.23–26;
-- `கடலே` — scans 28–30 / pp.27–29.
+- `ஆறு` — scans 31–33 / pp.30–32;
+- `வாழிய வைகறை` — scans 34–35 / pp.33–34;
+- `அகப்பை சித்தர்` — scans 36–38 / pp.35–37;
+- `மலையே வாழி` — scans 39–40 / pp.38–39 in this batch; closes on scan 41.
 
-Scan 21 required no correction. Scans 22–30 required 35 source-supported lexical, spacing, quotation and punctuation corrections. All were applied to page records and propagated to:
+Scan 31 required no correction. Scans 32–40 required 43 direct-source lexical, word-boundary, quotation and punctuation corrections. All were applied to page records and propagated to:
 
-- `articles/02-adikkaatru.md`;
-- `articles/03-karuppu-pen.md`;
-- `articles/04-kadale.md`.
+- `articles/05-aaru.md`;
+- `articles/06-vaazhiya-vaikarai.md`;
+- `articles/07-agappai-siththar.md`;
+- `articles/08-malaiye-vaazhi.md`.
 
-Important non-regression: scan 29 does **not** print the earlier `சிங்காரச் “செம்படச்சி”` phrase; it was removed from the canonical page and `04-kadale.md`. Other notable corrected source readings include `மோகினிகளாய்க்`, `ஊளைத் தொனியில் பாடிக்காட்டும்`, `தோழியே`, `ஒரு திருப்தி`, `இன்ப விஷமத்தை`, `எல்லாருக்குமே`, and `வடநாட்டுச் சின்னத்தை`.
+Notable corrected source readings include scan 32 subheading `அன்னை`, scan 36 `திராவிடத்தைக் காத்திடப்`, scan 37 `அல்லலும்`, `அப்போதுதான்`, `அறுசுவையுணவையே`, scan 38 `உமிகள் உன் வாக்கத்திலும் உண்டு` and `அரசியல் மேதாவிகள்`, scan 39 `அரியாசனம் அமைத்து வீற்றிருக்கும்`, and scan 40 `மனங் குலையா`, `உன் தோளைத்`, `‘அந்தப்’`, `வெளியிடுவான்`.
+
+Unit boundaries and printed-page mapping did not change. Scan 40 is an internal `மலையே வாழி` page; scan 41 is its closing page and belongs to the next strict-review batch.
 
 ## Gate state
 
@@ -115,26 +120,27 @@ Important non-regression: scan 29 does **not** print the earlier `சிங்�
 - P1 — **COMPLETE / PASS**;
 - P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**;
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**;
-- P4 — **IN PROGRESS — 30 / 146 strict-reviewed**;
+- P4 — **IN PROGRESS — 40 / 146 strict-reviewed**;
 - P5 — **NOT STARTED**;
 - English — **BLOCKED until Tamil P5 freeze**.
 
 Active P4 blockers: **0**.
 
-## Exact next activity — P4 scans 31–40
+## Exact next activity — P4 scans 41–50
 
 When the user says proceed/continue:
 
 1. fetch live `main` and preserve newer durable work;
 2. resolve the controlling source PDF;
-3. re-inspect **scans 31–40 directly**, word-by-word, word-boundary-by-word-boundary and punctuation-by-punctuation;
-4. compare against the canonical records and corresponding P3 assemblies;
-5. preserve unusual source wording; do not modernize or import corroborating witness wording;
-6. record every old reading → source-visible reading with scan/printed-page provenance;
-7. propagate every correction into affected P3 assemblies and state-bearing trackers;
-8. advance `VISUAL_TEXT_FIDELITY_REVIEW.md` only after all ten scans are reconciled;
-9. do not mark P4 complete before **146 / 146**;
-10. do not begin English translation before Tamil P5 freeze.
+3. re-inspect **scans 41–50 directly**, word-by-word, word-boundary-by-word-boundary and punctuation-by-punctuation;
+4. begin with scan 41 closing `மலையே வாழி`, then process `தளிர்` scans 42–45, `விண்மீன்` scans 46–48, and `தனிமை` scans 49–50;
+5. compare against canonical page records and corresponding P3 assemblies;
+6. preserve unusual source wording; do not modernize or import corroborating witness wording;
+7. record every old reading → source-visible reading with scan/printed-page provenance;
+8. propagate every correction into affected P3 assemblies and state-bearing trackers;
+9. advance `VISUAL_TEXT_FIDELITY_REVIEW.md` only after all ten scans are reconciled;
+10. do not mark P4 complete before **146 / 146**;
+11. do not begin English translation before Tamil P5 freeze.
 
 ---
 
