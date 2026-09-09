@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P4 scans 51–60
+# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P4 scans 61–70
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -23,9 +23,9 @@ Publication 10 `மீசை முளைத்த வயதில்`:
 - P3 canonical main-work pages — **128 / 128**;
 - P3 source scan coverage — **18–145 contiguous**;
 - P3 boundary gaps / overlaps — **0 / 0**;
-- P4 — **IN PROGRESS — scans 1–50 / 50 of 146 strict-reviewed**;
-- P4 cumulative corrections — **130**;
-- corrections propagated — **130 / 130**;
+- P4 — **IN PROGRESS — scans 1–60 / 60 of 146 strict-reviewed**;
+- P4 cumulative corrections — **132**;
+- corrections propagated — **132 / 132**;
 - P3 assemblies corrected/re-synchronized — **10 distinct assemblies**;
 - P4 unresolved fidelity discrepancies — **0**;
 - active P4 blockers — **0**;
@@ -36,7 +36,7 @@ Formal records:
 - `publications/meesai-mulaiththa-vayathil/P3_ASSEMBLY_AUDIT.md`;
 - `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-## P4 checkpoint through scan 50
+## P4 checkpoint through scan 60
 
 Completed batches:
 
@@ -45,32 +45,22 @@ Completed batches:
 - P4-021-030 — **PASS; 35 corrections**;
 - P4-031-040 — **PASS; 43 corrections**;
 - P4-041-050 — **PASS; 46 corrections**;
+- P4-051-060 — **PASS; 2 corrections**;
 - cumulative unresolved fidelity discrepancies — **0**.
 
-P4-041-050 covers:
+P4-051-060 covered:
 
-- `மலையே வாழி` closing scan 41 / p.40;
-- `தளிர்` scans 42–45 / pp.41–44;
-- `விண்மீன்` scans 46–48 / pp.45–47;
-- `தனிமை` opening scans 49–50 / pp.48–49.
+- `தனிமை` scans 51–54 / pp.50–53, closing the unit;
+- `நாடக மேடை` scans 55–56 / pp.54–55;
+- `புகழ்` scans 57–58 / pp.56–57;
+- `பச்சைக்கிளி` scans 59–60 / pp.58–59, with scan 61 still pending.
 
-Scan 42 required no correction. The other nine scans required 46 source-controlled corrections. Four P3 assemblies were re-synchronized:
+Only two source corrections were required:
 
-- `articles/08-malaiye-vaazhi.md`;
-- `articles/09-thalir.md`;
-- `articles/10-vinmeen.md`;
-- `articles/11-thanimai.md`.
+- scan 52: `ஒரு முத்தங்கள் கொடுங்கள் தான்”` → **`ஒரு முத்தங்கள் கொடுங்களத்தான்”`**;
+- scan 53: `ஒவியத்தை` → **`ஓவியத்தை`**.
 
-Durable direct-source readings from the latest batch include:
-
-- scan 41: `நிமிர்த்தாவிட்டால்`, `வைரத் தோள்கள்`, `சிற்பக் குகையாய்`, `அகன்ற நெற்றியில்`;
-- scan 44: `நீயும் நாத்திகவாதி.` and restored `பாம்பொடு விளையாடும் பண்பில் நீயும் அவர்களும் ஒன்று தானே குழந்தாய்!`;
-- scan 47: `விரித்தாடுங்காட்சி கண்டேன்`, `சீச்சீ!`, `மனிதர்களுள்`, `நா கடுக்கத்தேடி`, `மின் மினியாய்ப்`;
-- scan 48: `ஒளிப்புகழைத்`, `ஒரு நாள்`, `ஒரு முழு வால்தான்`, `இப்பெரு வையம்`, `வான்சொரியும்`;
-- scan 49: `அன்புள்ள காதலரே!`;
-- scan 50: `ஆரத்தழுவியபடியே கிடந்தீரே...`, `இப்போது - நான்`, `வேணு கானமோ`, `அப்படி யெல்லாம்`, `காதலரே எல்லாம்.... எல்லாம்`.
-
-Unit boundaries and printed-page mapping remain unchanged. `தனிமை` continues on scan 51.
+Both were propagated to `articles/11-thanimai.md`. Scans 51 and 54–60 required no text change. Unit boundaries and printed-page mapping remain unchanged.
 
 ## Controlling source
 
@@ -101,14 +91,14 @@ Read completely before source-dependent work:
 8. `indexes/contents.md`;
 9. `P3_ASSEMBLY_AUDIT.md`;
 10. `VISUAL_TEXT_FIDELITY_REVIEW.md`;
-11. canonical records and corresponding P3 assemblies for scans 51–60.
+11. canonical records and corresponding P3 assemblies for scans 61–70.
 
 Resolve the controlling PDF before direct visual work.
 
-## Exact next activity — P4 scans 51–60
+## Exact next activity — P4 scans 61–70
 
-1. Re-inspect physical scans **51–60 directly**.
-2. Scans 51–54 finish `தனிமை`; scans 55–56 are `நாடக மேடை`; scans 57–58 are `புகழ்`; scans 59–60 begin `பச்சைக்கிளி`.
+1. Re-inspect physical scans **61–70 directly**.
+2. Scan 61 closes `பச்சைக்கிளி`; scan 62 is the single-page unit `தமிழே`; scans 63–70 are `தேனலைகள்`, which closes on scan 71.
 3. Compare every visible word, word boundary/spacing, punctuation mark, quotation mark, heading, number and continuation with the canonical records.
 4. Preserve the source pixels even when wording looks unusual; do not normalize from context or alternate witnesses.
 5. Record every correction as **old reading → source-visible reading** with scan/printed-page provenance.
