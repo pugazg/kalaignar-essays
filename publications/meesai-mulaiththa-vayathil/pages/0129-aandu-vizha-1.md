@@ -19,7 +19,7 @@ transcription_method: "direct visual comparison with source scan"
 அவள் : “கிளியென்னைத் தனிவிடுத்துப் புலி
 வேட்டையாடுதற்குப் போகின்ற
 அத்தானே! துளிக்கூட இரக்கமில்லை
-உந்தன் நெஞ்சில்?”
+உந்தன் நெஞ்சில் ?”
 
 அவன் : “உளிப்படா உயிர்ச் சிலையே! ஒளி
 விளக்கே! விடுபட்டிருக்கின்ற
@@ -38,5 +38,6 @@ transcription_method: "direct visual comparison with source scan"
 - visible printed folio **128**, illustrated opening title and every visible dialogue line were directly verified against the supplied 2006 scan.
 - Unit 25 `ஆண்டு விழா` opens on this scan; verified P1 span is scans 129–135 / printed pp.128–134.
 - source-visible forms retained include `கிளியென்னைத்`, `தனிவிடுத்துப்`, `வேட்டையாடுதற்குப்`, `உளிப்படா`, `உயிர்ச் சிலையே`, and `அம்புக்கெல்லாம்`.
+- P4 strict visual review corrected `உந்தன் நெஞ்சில்?”` → source-visible `உந்தன் நெஞ்சில் ?”`; no mapping or unit-boundary change resulted.
 
 <!-- மூல ஸ்கேன் பக்கம்: 129 -->
