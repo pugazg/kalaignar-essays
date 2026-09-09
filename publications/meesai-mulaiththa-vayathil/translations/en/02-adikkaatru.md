@@ -28,7 +28,7 @@ Dictators too made a ghastly roar like you; they too staged a frenzy of lawlessn
 
 <!-- Tamil source: scan 23 / printed 22 -->
 
-wait! Wait! Once Aadi has run its course, you will subside. After you have subsided, you will go to meet your government friend who strutted about just like you—your intimate companion! Ayyo, poor fellow; by then he will have gone into the hole before you!
+wait! Wait! Dance yourself out and you will subside. After you have subsided, you will go to meet your government friend who strutted about just like you—your intimate companion! Ayyo, poor fellow; by then he will have gone into the hole before you!
 
 Go—go, scoop up the earth  
 and scatter it as you go!
