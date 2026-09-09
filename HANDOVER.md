@@ -5,95 +5,148 @@ Branch: `main`
 
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**
 
+This is the single authoritative project handover. Update it after every meaningful source, transcription, fidelity, translation or release activity.
+
 ## Repository state
 
 Publications **1–10 are RELEASE COMPLETE / FROZEN**.
 
-There is **no active publication** after Publication 10 `மீசை முளைத்த வயதில்` completed Tamil P0–P5 and English E0–E7. Do not reopen any released publication from a stale prompt, and do not start another publication unless separately authorised by the user/live roadmap.
+Publication 11 **`பேசும் கலை வளர்ப்போம்` is ACTIVE**. The user supplied and authorised the controlling eighth-edition scan on 2026-09-09.
 
-Source PDFs are never committed.
+Do not reopen Publications 1–10 from stale prompts. Source PDFs are never committed.
 
 ---
 
-# Publication 10 — மீசை முளைத்த வயதில் — RELEASE COMPLETE / FROZEN
+# Publication 11 — பேசும் கலை வளர்ப்போம் — ACTIVE
 
-Workspace: `publications/meesai-mulaiththa-vayathil/`
+Workspace: `publications/pesum-kalai-valarppom/`  
+Supplied source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`
 
-## Frozen Tamil authority
+## Mandatory startup
 
-- controlling source `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
-- source SHA-256 `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
-- physical scans **146**;
-- canonical pages **146/146 VERIFIED**;
-- source-titled assemblies **26/26**;
-- main-work pages **128/128**;
-- P4 **146/146**, **207/207 corrections propagated**;
-- frozen `pages/` tree `f7930b3696668cdbc2d692a284b49586d09a3372`;
-- frozen `articles/` tree `b7593357dc5ba101362c7a303881bea4e63e9b68`;
-- P3 audit `0c2045346b879c85b6e2c46150a4aab686323016`;
-- final P4 report `2e085c2167c9dea409a13be4a7c980234e5a01df`;
-- P5 completion review `595cf83b2045ee0bd2efd5297dc9f8a7f536b68a`;
-- unresolved Tamil/source blockers **0**.
+Before source-dependent work, read/fetch fresh:
 
-Permanent source-title readings remain `அகப்பை சித்தர்`, `தளிர்`, `மயிலிறகு`.
+1. `ESSAY_PROCESSING_GUIDE.md`;
+2. `docs/FUTURE_WORK_GUIDELINES.md`;
+3. this root `HANDOVER.md`;
+4. `docs/NEXT_CHAT_PROMPT.md`;
+5. `publications/pesum-kalai-valarppom/README.md`;
+6. `publications/pesum-kalai-valarppom/metadata/source.md`;
+7. `publications/pesum-kalai-valarppom/indexes/contents.md`;
+8. `publications/pesum-kalai-valarppom/indexes/page-map.md`;
+9. `publications/pesum-kalai-valarppom/audit.md`.
 
-## English release state
+Read `ESSAY_TRANSLATION_GUIDE.md` before any English work; English remains blocked until Tamil is frozen.
 
-- E0–E7 — **COMPLETE / PASS**;
-- T0/T1/T2/T3/T4/T5 — **26/26 PASS** at every gate;
-- English article files — **26/26**;
-- E6 publication-wide consistency — **PASSED**;
-- E6 source-page comments — **128/128**, scans **18–145 contiguous**;
-- E6 article-body corrections — **0**;
-- E6 consistency blockers — **0**;
-- E7 release closeout — **PASSED / COMPLETE**;
-- English translation — **COMPLETE**;
-- English release gate — **CLOSED**;
-- active English/translation/release blockers — **0**;
-- frozen Tamil changes during English work — **0**.
+## Source identity
 
-Final English release authority: `publications/meesai-mulaiththa-vayathil/translations/en/RELEASE_REPORT.md`. Full T0–E7 review provenance is in `translations/en/TRANSLATION_REVIEW.md`; the living lexicon contains **153** source-derived decisions.
+- source title as printed: **`பேசும் கலை வளர்ப்போம்`**;
+- title-page author/status witness: **`மாண்புமிகு டாக்டர் கலைஞர் மு.கருணாநிதி / தமிழக முதல்-அமைச்சர்`**;
+- English imprint witness: **`By: Kalaignar M. Karunanidhi`**;
+- publisher: **பாரதி பதிப்பகம்**, 108, Usman Road, T.Nagar, Madras-600017;
+- physical scans: **82**;
+- source type: **image-only scanned PDF**;
+- source SHA-256: **`73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`**;
+- file size: **105,698,402 bytes**;
+- supplied edition: **எட்டாம் பதிப்பு — செப்டம்பர் 1996**;
+- price: **Rs.12.00**;
+- printer: **Malar Printers, Madras-600034**;
+- source PDF committed to repository: **No**.
 
-Permanent repository rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**.
+The imprint records first edition July 1981 and editions through eighth edition September 1996.
 
-## E7 release checkpoint
+## Source authority
 
-E7 began from pre-release live `main` `e8a85cc825c3b328c178ba47bafdb5cc24ca714c`, tree `d3a11526ee568a160a31f8a996b4953188859736`.
+The supplied scan is the controlling witness. Never silently modernise, correct, normalise, reconstruct or improve the Tamil. Source pixels control over OCR, parsed text, memory, web copies and other editions.
 
-E7 reconfirmed:
+Separate printed text from library stamps, handwriting, accession marks, damage, bleed-through and other physical-copy evidence.
 
-- current 26 English article blobs exactly matched the E6-reviewed matrix;
-- all 26 therefore retained the already-E6-validated `translation_status: verified` and frozen Tamil source provenance;
-- frozen Tamil trees remained exactly `b7593357...` / `f7930b36...`;
-- the recursive repository tree contained **no `.pdf` file**;
-- English/Tamil article-body changes during E7 were **0 / 0**;
-- release blockers were **0**.
+## Publication form established at P0
 
-## Important English non-regression decisions
+P0 identifies the source as a **booklet / serial instructional essay collection** arranged as **19 numbered sections (`1`–`19`)**.
 
-Do not mechanically normalise intentional source-driven differences:
+The user supplied this descriptive context: the book is a collection of articles Kalaignar wrote in `முத்தாரம்`, intended for those who wish to become speakers and those already speaking. Preserve that as user/catalogue context unless the same wording is independently found in the printed scan.
 
-- Article 1 `goddess of freedom` vs Article 3 `queen of freedom`;
-- Article 17 `tiger-claw marriage pendant` vs Article 25 `golden marriage pendant of tiger claws`;
-- Article 18 normal `Henna`, with `maruthani` only beside `Maruthan` in the closing pun;
-- Article 19 `Muthamizhars` vs Article 26 source-visible `Muthamizhvar—Muthamizhars`;
-- source-driven `Ponni` / `Kaveri`, `Chera` / `Cheran Senguttuvan` variants.
+No printed contents page was found in the supplied 82 scans. Do not invent descriptive section titles.
 
-Do not regress Article 26 release readings:
+Directly observed numbered section openings are at scans:
 
-- `கண்புடை பட்டு` → conservative `kanpudai-pattu`;
-- `இடையிலாப் பெண்டிர்` → `Waistless women`;
-- `முறுமிவால் மோகத்தால்` → `Murmuring with desire`;
-- `மலர்ப்பதி` → `Malarppathi`;
-- `காலை வந்தாள். காதல் உண்டார்.` → `Morning came. They feasted on love.`;
-- `உயிர் மதியா ஒளி விளக்கே` → `O lamp of light who counted life as nothing!`.
+`1→7`, `2→12`, `3→16`, `4→22`, `5→27`, `6→31`, `7→34`, `8→38`, `9→42`, `10→45`, `11→48`, `12→51`, `13→55`, `14→59`, `15→64`, `16→67`, `17→70`, `18→75`, `19→79`.
 
-Article 21 `Kaanal Vari`, Article 24 Madhavi/Silambu passages and Article 26 `யாயும் ஞாயும்...` remain translations only from the frozen Tamil witness. Unfamiliar source-bearing labels are not externally expanded.
+These are P0 physical-boundary observations; P1 must complete row-level scan/folio verification.
 
-## Closure rule
+## Front-matter / physical-copy distinctions
 
-Publication 10 is now **RELEASE COMPLETE / FROZEN**. Do not reopen Tamil or English for stylistic polishing. Reopen only if genuine source-supported evidence establishes a defect; if reopened, document and rerun every affected gate.
+- scan 1 — colour front cover;
+- scan 2 — substantially blank / physical-copy mark;
+- scan 3 — title page, with later handwriting and large circular library stamp;
+- scan 4 — edition/imprint page, with partial library stamp;
+- scan 5 — full-page handwritten physical-copy note; **not printed publication text**;
+- scan 6 — printed `பதிப்புரை`, signed `பழ. சிதம்பரம்`, `நிர்வாகி, பாரதி நிலையம்`, dated `15-7-81`;
+- scans 7–82 — numbered main work;
+- scan 82 visibly carries printed folio `80` and continues section 19.
+
+The 1981 publisher-note date is retained in the 1996 eighth edition; do not silently change it to the edition year.
+
+## Tamil archival gate status
+
+- P0 source intake / publication identification — **COMPLETE / PASS**;
+- P1 metadata + complete page/section map — **NOT STARTED**;
+- P2 page-level transcription — **NOT STARTED**;
+- P3 assemblies — **NOT STARTED**;
+- P4 source/completeness audit — **NOT STARTED**;
+- P5 strict visual word/punctuation fidelity — **NOT STARTED**;
+- physical page records — **0 / 82**;
+- direct page verification — **0 / 82**;
+- numbered units identified — **19 / 19 openings observed at P0**;
+- unresolved P0 source-identity blockers — **0**;
+- Tamil archival phase — **ACTIVE**.
+
+P0 source-text corrections: **0**. No body transcription has begun.
+
+## English translation status
+
+- English translation — **NOT STARTED / BLOCKED**;
+- prerequisite — complete and freeze Tamil source first;
+- no Publication 11 translation workspace has been created.
+
+Permanent repository translation rule remains: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**. Apply only when the source actually contains that form.
+
+## Current blockers / unresolved questions
+
+**None at P0.**
+
+P1 still needs to determine the complete printed-folio behaviour and page types scan-by-scan. Section-opening folios that are not visibly printed must be labelled as suppressed/inferred rather than presented as direct printed evidence.
 
 ## Exact next activity
 
-**None is authorised.** Wait for the user/live roadmap to identify the next publication or other repository task. When new work is authorised, fetch live `main` first and preserve Publications 1–10 as frozen.
+**P1 — complete metadata + canonical 82-scan page map + 19-section boundary mapping in one coherent source-inspection pass.**
+
+P1 must:
+
+1. inspect scans **1–82** directly;
+2. create a row for every physical scan in `indexes/page-map.md`;
+3. classify each page type;
+4. record every visible printed folio and explicitly label suppressed/inferred folios;
+5. verify all 19 section starts and ends from the source;
+6. reconcile `metadata/source.md`, `indexes/contents.md`, `README.md` and `audit.md` with the final map;
+7. **do not begin P2 body transcription during P1**;
+8. update this handover and `docs/NEXT_CHAT_PROMPT.md` after P1.
+
+---
+
+# Frozen prior boundary — Publication 10
+
+Publication 10 `மீசை முளைத்த வயதில்` remains **RELEASE COMPLETE / FROZEN**:
+
+- Tamil P0–P5 COMPLETE / PASS / FROZEN;
+- 146/146 canonical pages;
+- 26/26 Tamil assemblies;
+- P4 146/146 with 207/207 corrections propagated;
+- frozen `pages/` tree `f7930b3696668cdbc2d692a284b49586d09a3372`;
+- frozen `articles/` tree `b7593357dc5ba101362c7a303881bea4e63e9b68`;
+- English E0–E7 COMPLETE / PASS;
+- English release gate CLOSED;
+- blockers 0.
+
+Do not reopen it without genuine source-supported evidence.
