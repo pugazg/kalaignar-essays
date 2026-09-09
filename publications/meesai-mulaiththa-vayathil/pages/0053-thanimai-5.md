@@ -40,7 +40,7 @@ transcription_method: "direct visual comparison with source scan"
 
 பெண் : அய்யா கோவலரே! நாம் இருவரும் மறந்து
        விடலாம். ஆனால் என் வயிற்றிலே
-       வளரும் ஒவியத்தை யார் மறப்பது! அது
+       வளரும் ஓவியத்தை யார் மறப்பது! அது
        நம் உறவை வெளியிலே சொல்லித் தான்
        தீரும்! பல இரவுகள் - பல பகல்கள்
        நாம் பாடிய காதல் கீதத்தின் அற்புதமான
@@ -60,7 +60,13 @@ transcription_method: "direct visual comparison with source scan"
 ## P2 audit note
 
 - visible printed folio **52**, running header and all dialogue were directly verified against the supplied 2006 scan.
-- source-visible forms retained include `எல்லாவற்றையுந்தான்`, `தயவுசெய்து`, `ஒவியத்தை`, `சொல்லித் தான்`, `கண்ணாளரே`, and the printed `சிறைச் சாலைக்குள்ளே` spacing.
+- source-visible forms retained include `எல்லாவற்றையுந்தான்`, `தயவுசெய்து`, `ஓவியத்தை`, `சொல்லித் தான்`, `கண்ணாளரே`, and the printed `சிறைச் சாலைக்குள்ளே` spacing.
 - the final sentence continues directly onto scan 54 with `மட்டும் ரகசியமாக வந்துபோன விஷயம்`.
+
+## P4 strict-fidelity note
+
+- strict visual review rechecked scan 53 word-by-word and punctuation-by-punctuation against the controlling 2006 pixels.
+- corrected `ஒவியத்தை` → source-visible **`ஓவியத்தை`**.
+- unresolved fidelity discrepancies after correction: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 53 -->
