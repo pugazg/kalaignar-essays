@@ -22,48 +22,45 @@ Printed identity: title `மீசை முளைத்த வயதில்`,
 
 Permanent source-title readings: `அகப்பை சித்தர்`, `தளிர்`, `மயிலிறகு`.
 
-Frozen authorities: page tree `f7930b3696668cdbc2d692a284b49586d09a3372`; Tamil article tree `b7593357dc5ba101362c7a303881bea4e63e9b68`; P3 audit `0c2045346b879c85b6e2c46150a4aab686323016`; P4 report `2e085c2167c9dea409a13be4a7c980234e5a01df`.
+Frozen authorities:
+
+- page tree `f7930b3696668cdbc2d692a284b49586d09a3372`;
+- Tamil article tree `b7593357dc5ba101362c7a303881bea4e63e9b68`;
+- P3 audit `0c2045346b879c85b6e2c46150a4aab686323016`;
+- P4 report `2e085c2167c9dea409a13be4a7c980234e5a01df`;
+- P5 completion review `595cf83b2045ee0bd2efd5297dc9f8a7f536b68a`.
 
 The supplied scan pixels remain ultimate authority. English translation never modifies or supersedes frozen Tamil.
 
-## English translation provenance
+## English translation provenance — COMPLETE / RELEASED
 
-- E0–E6 — **COMPLETE / PASS**;
-- T0/T1/T2/T3/T4/T5 totals — **26/26** each;
-- E6 publication-wide consistency — **PASS**;
-- E6 article-body corrections — **0**;
-- E6 consistency blockers — **0**;
-- unresolved English blockers — **0**;
-- frozen Tamil changes during English work — **0**;
-- English release gate — **OPEN pending E7**.
+- E0–E7 — **COMPLETE / PASS**;
+- T0/T1/T2/T3/T4/T5 — **26/26** each;
+- E6 publication-wide consistency — **PASSED**;
+- E6 body corrections — **0**;
+- E7 release closeout — **PASSED / COMPLETE**;
+- English translation — **COMPLETE**;
+- English release gate — **CLOSED**;
+- unresolved English/release blockers — **0**;
+- frozen Tamil changes during English work — **0**.
 
-E5 final English authorities remain:
+E6 confirmed **128/128** ordered source-page comments across scans **18–145**. E7 revalidated the exact E6-reviewed 26-file English blob set against live `main`, reconfirmed the frozen Tamil trees, and confirmed the controlling source PDF remains absent from the repository tree.
 
-- Article 23 `சேவல் சண்டை` / **Cockfight** — `fbede1e68f63d9eb0ee369dd56ae668dd7c617af`;
-- Article 24 `மடல்` / **Letter** — `9d66aa7a24d1c8725b7c9ae914eadca978a2530c`;
-- Article 25 `ஆண்டு விழா` / **Annual Festival** — `b46a0dd815a945c7bd56ab61cbc1adf757761917`;
-- Article 26 `மயிலிறகு` / **Peacock Feather** — `4862200f97ea4711fc134384fe70355d311a936a`.
-
-E6 fetched all **26/26** live English files and reviewed them as one publication. It confirmed all front matters remain `verified`, all frozen Tamil source blob references remain correct, source comments are **128/128 present and ordered** across scans **18–145 contiguous**, title metadata and H1 titles agree **26/26**, and all **26** closing bullets remain. Recurring names, `Aththaan`, `yaazh`, `kattumaram`, ideological/cultural vocabulary, source-specific transliterations and source-controlled quotations are internally consistent. `LEXICON.md` remains at **153** source-derived decisions; no new E6 rule was required.
-
-E6 made **no English article-body changes** and introduced **no outside-source wording**. Full E6 blob/provenance matrix is recorded in `translations/en/TRANSLATION_REVIEW.md`.
-
-For all English work, the strict-reviewed Tamil assembly remains primary translation authority. Page records/controlling scans are used only for source-level clarification.
+Full English/Tamil release matrix and source-witness checks: [`../translations/en/RELEASE_REPORT.md`](../translations/en/RELEASE_REPORT.md).
 
 ## Physical-copy / scan condition
 
 High-resolution image-only scan; light show-through and later library markings occur. Physical-copy marks remain separate from printed text; obscured text is never reconstructed from context.
 
-## Current workflow status
+## Final workflow status
 
 - P0–P5 — **COMPLETE / PASS / TAMIL FROZEN**
-- E0–E6 — **COMPLETE / PASS**
+- E0–E7 — **COMPLETE / PASS**
 - English T5 — **26/26**
-- E6 consistency blockers — **0**
-- E7 English release closeout — **NEXT**
+- E6 — **PASSED**
+- E7 — **PASSED / COMPLETE**
+- English release gate — **CLOSED**
 - active Tamil/source blockers — **0**
-- active English blockers — **0**
+- active English/release blockers — **0**
 
-## Exact next activity
-
-**E7 — English release closeout.** Re-fetch live `main`; verify all 26 English files still exist, remain `translation_status: verified`, and point to their exact frozen Tamil source blobs; reconcile release-facing tracker/plan/review counts; confirm Tamil P0–P5 remains frozen, the source PDF remains outside GitHub, and release blockers are 0; then create `translations/en/RELEASE_REPORT.md` following the established completed-publication precedent. Do not reopen verified prose for stylistic polishing. Only E7 PASS closes the English release gate.
+Publication 10 is **RELEASE COMPLETE / FROZEN**. Reopen only for genuine source-supported evidence.
