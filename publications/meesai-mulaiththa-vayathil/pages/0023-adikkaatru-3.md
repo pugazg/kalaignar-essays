@@ -18,7 +18,7 @@ transcription_method: "direct visual comparison with source scan"
 
 மீசை முளைத்த வயதில்
 
-ஆடிக்காற்றே! பொறு! பொறு! ஆடி ஓய்ந்ததும் அடங்கிவிடுவாய். அடங்கிய பிறகு, உன்னைப்போல ஆட்டம் போட்ட அரசாங்க நண்பனை - அந்தரங்கத் தோழனை சந்திக்கப் போவாய்! அய்யோ பாவம், அப்போது அவன் உனக்கு முன்னே பொந்துக்குள் போயிருப்பான்!
+ஆடிக்காற்றே! பொறு! பொறு! ஆடி ஓய்ந்ததும் அடங்கிவிடுவாய். அடங்கிய பிறகு, உன்னைப் போல ஆட்டம் போட்ட அரசாங்க நண்பனை - அந்தரங்கத் தோழனை சந்திக்கப் போவாய்! அய்யோ பாவம், அப்போது அவன் உனக்கு முன்னே பொந்துக்குள் போயிருப்பான்!
 
 போ-போ, மண்ணை வாரி  
 இறைத்துப் போ!
@@ -33,7 +33,13 @@ transcription_method: "direct visual comparison with source scan"
 ## P2 audit note
 
 - visible printed folio **22** and running header `மீசை முளைத்த வயதில்` directly verified.
-- source punctuation and forms `பொறு! பொறு!`, `ஆடி ஓய்ந்ததும்`, `உன்னைப்போல`, hyphen before `அந்தரங்கத் தோழனை`, `பொந்துக்குள்`, lineated `போ-போ, மண்ணை வாரி / இறைத்துப் போ!`, and printed bullet `●` retained.
-- Unit 2 `ஆடிக்காற்று` cannot be declared fully P2-verified until scan 22's open fidelity items are closed.
+- source punctuation and forms `பொறு! பொறு!`, `ஆடி ஓய்ந்ததும்`, hyphen before `அந்தரங்கத் தோழனை`, `பொந்துக்குள்`, lineated `போ-போ, மண்ணை வாரி / இறைத்துப் போ!`, and printed bullet `●` retained.
+- Unit 2 `ஆடிக்காற்று` closes on this scan.
+
+## P4 strict-fidelity note
+
+- strict visual review rechecked scan 23 word-by-word and punctuation-by-punctuation.
+- corrected old canonical `உன்னைப்போல` → source-visible **`உன்னைப் போல`**.
+- unresolved fidelity discrepancies after correction: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 23 -->
