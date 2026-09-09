@@ -22,7 +22,7 @@ A young woman at the age when beauty drips without a single jewel planted upon h
 
 There was a man born to feast upon beauty... his name was Maruthan. A youth who came like the graceful moon that makes the water-lily smile. “The memory of your spear-bearing eyes torments me; the gleam of your sword-bearing pearl teeth keeps flashing before me; when the elephant mounts, its forehead itself gives me such trouble!” So he would fondle his Anjukam and make her lose her senses upon the soft bed—that wicked bull! A great warrior of the battlefield! Commander of the army!
 
-One day he left to destroy enemy territory, carrying the king's command—and the command of his queen of love. Ten weeks passed; he had not returned. As the pallor of longing spread and the maiden wasted away, her circle of friends watched for the day of ripeness and teased her in song. “This is the moment—come and end the assault!” she would run, only to see a shadow, be deceived, and stand yearning.
+One day he left to destroy enemy territory, carrying the king's command—and the command of his queen of love. Ten days passed; he had not returned. As the pallor of longing spread and the maiden wasted away, her circle of friends watched for the day of ripeness and teased her in song. “This is the moment—come and end the assault!” she would run, only to see a shadow, be deceived, and stand yearning.
 
 To steady a heart crushed like sugarcane in the mill, only a palm-leaf letter written by the beloved who had garlanded her reached her hand!... It said:
 
