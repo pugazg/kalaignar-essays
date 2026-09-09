@@ -48,7 +48,7 @@ Formal gate: `P3_ASSEMBLY_AUDIT.md`.
 
 ## P4 — final strict visual text-fidelity pass
 
-**RESULT: IN PROGRESS — 30 / 146 PHYSICAL SCANS STRICT-REVIEWED**
+**RESULT: IN PROGRESS — 40 / 146 PHYSICAL SCANS STRICT-REVIEWED**
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
@@ -56,35 +56,38 @@ Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 - P4-001-010 — **PASS; 2 corrections; 0 unresolved**;
 - P4-011-020 — **PASS; 4 corrections; 0 unresolved**;
-- P4-021-030 — **PASS; 35 corrections; 0 unresolved**.
+- P4-021-030 — **PASS; 35 corrections; 0 unresolved**;
+- P4-031-040 — **PASS; 43 corrections; 0 unresolved**.
 
-### P4-021-030 findings
+### P4-031-040 findings
 
-Scans 21–30 cover:
+Scans 31–40 cover:
 
-- Unit 2 `ஆடிக்காற்று` — scans 21–23 / pp.20–22;
-- Unit 3 `கருப்புப் பெண்` — scans 24–27 / pp.23–26;
-- Unit 4 `கடலே` — scans 28–30 / pp.27–29.
+- Unit 5 `ஆறு` — scans 31–33 / pp.30–32;
+- Unit 6 `வாழிய வைகறை` — scans 34–35 / pp.33–34;
+- Unit 7 `அகப்பை சித்தர்` — scans 36–38 / pp.35–37;
+- Unit 8 `மலையே வாழி` — scans 39–40 / pp.38–39 in this batch; the unit closes on scan 41.
 
-The strict pass identified lexical, punctuation, quotation and word-boundary discrepancies in nine canonical page records (scans 22–30; scan 21 required none). All **35** source-supported changes were applied. Three P3 assemblies were re-synchronized:
+Scan 31 required no textual correction. Scans 32–40 required **43** direct-source corrections, all applied to canonical page records. Four P3 assemblies were re-synchronized in this batch:
 
-- `articles/02-adikkaatru.md`;
-- `articles/03-karuppu-pen.md`;
-- `articles/04-kadale.md`.
+- `articles/05-aaru.md`;
+- `articles/06-vaazhiya-vaikarai.md`;
+- `articles/07-agappai-siththar.md`;
+- `articles/08-malaiye-vaazhi.md`.
 
-A significant non-regression finding is scan 29: the previous phrase `சிங்காரச் “செம்படச்சி”` is absent from the controlling 2006 scan and was removed from both the page record and `04-kadale.md` rather than preserved from a corroborating witness.
+Notable direct-source readings include scan 32 subheading `அன்னை`, scan 36 `திராவிடத்தைக் காத்திடப்`, scan 37 `அல்லலும்` / `அப்போதுதான்` / `அறுசுவையுணவையே`, scan 38 `உமிகள் உன் வாக்கத்திலும் உண்டு` and `அரசியல் மேதாவிகள்`, scan 39 `அரியாசனம் அமைத்து வீற்றிருக்கும்`, and scan 40 `மனங் குலையா`, `உன் தோளைத்`, `‘அந்தப்’`, and `வெளியிடுவான்`.
 
 Current P4 totals:
 
-- strict-reviewed physical scans: **30 / 146**;
-- contiguous strict-reviewed range: **1–30**;
-- cumulative corrections: **41**;
-- corrections propagated to canonical page records: **41 / 41**;
-- P3 assemblies corrected/re-synchronized: **3**;
+- strict-reviewed physical scans: **40 / 146**;
+- contiguous strict-reviewed range: **1–40**;
+- cumulative corrections: **84**;
+- corrections propagated to canonical page records: **84 / 84**;
+- P3 assemblies corrected/re-synchronized: **7 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
-P4 remains OPEN. Next batch: **scans 31–40**.
+P4 remains OPEN. Next batch: **scans 41–50**.
 
 ## Gate tracker
 
@@ -94,7 +97,7 @@ P4 remains OPEN. Next batch: **scans 31–40**.
 | P1 | **COMPLETE / PASS** |
 | P2 | **COMPLETE / PASS — 146 / 146 VERIFIED** |
 | P3 | **COMPLETE / PASS — 26 / 26 assemblies** |
-| P4 | **IN PROGRESS — 30 / 146 strict-reviewed** |
+| P4 | **IN PROGRESS — 40 / 146 strict-reviewed** |
 | P5 | **NOT STARTED** |
 | English | **BLOCKED until Tamil P5 freeze** |
 
@@ -102,6 +105,6 @@ Active P4 blockers: **0**.
 
 ## Exact next activity
 
-**P4 scans 31–40.** Re-inspect all ten physical scans directly against their canonical records, record every old reading → source-visible reading, propagate affected P3 assemblies, and update the running report only after the full batch is reconciled.
+**P4 scans 41–50.** Re-inspect the closing page of `மலையே வாழி`, all of `தளிர்` and `விண்மீன்`, and the opening pages of `தனிமை` directly against their canonical records. Record every old reading → source-visible reading, propagate affected P3 assemblies, and update the running report only after the full batch is reconciled.
 
 Do not begin English translation.
