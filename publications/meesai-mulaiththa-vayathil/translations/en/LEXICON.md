@@ -194,7 +194,53 @@ This is a consistency aid, not a mechanical substitution table. Choices are esta
 | `கடாரம்` | `Kadaram` | Source place name; no external historical expansion in body. | **T4 verified** |
 | `களவி` | `love-play` in immediate context | Preserve erotic/secret-union force without academic explanation inside body. | **T4 verified** |
 
-## Translation discipline after E3
+## Article 19 — `அருவி`
+
+| Tamil | Preferred English | Context / exception | Status |
+|---|---|---|---|
+| `அருவி` | `Waterfall` | Title and final water/life-erasure reversal. | **T4 verified** |
+| `முத்தமிழர் ஆட்சி` | `rule of Muthamizhars` | Preserve the source collective-political phrase; do not modernise or externally identify it in body. | **T4 verified** |
+| `கொக்கு நிறக் கூந்தல்` | `hair the colour of a heron` | Preserve the source's strange white-hair image rather than smoothing it. | **T4 verified** |
+| `இன்பவல்லி` | `Inbavalli` | Character name. | **T4 verified** |
+| `குங்குமத் திலகம்` | `kumkum mark` | Central painting error and final waterfall reversal. | **T4 verified** |
+
+## Article 20 — `முறம்`
+
+| Tamil | Preferred English | Context / exception | Status |
+|---|---|---|---|
+| `முறம்` | `Winnowing Tray` / `winnowing tray` | Title, weapon and final rationalist winnowing metaphor. | **T4 verified** |
+| `புறம்` / `அகம்` | `Puram` / `Akam` | Literary categories retained without outside gloss. | **T4 verified** |
+| source `கிளி கொண்டு` | `gripped by fear` | Frozen Tamil is retained exactly; context is rendered as fear and the source-visible form is recorded in review provenance. | **T4 verified** |
+| `புளி` / `புலி` | `tamarind` / `tiger` | Preserve the repeated sound-play through the explicit tamarind/tiger contrast rather than inventing a new English pun. | **T4 verified** |
+| `சாத்திரம்` | `scripture` | Preserve the source's direct challenge; do not soften to generic custom. | **T4 verified** |
+| `சகுனம்` | `omen` | Cat-crossing and superstition sequence. | **T4 verified** |
+| `அறிவு` | `reason` | Final counter-force to scripture/omen. | **T4 verified** |
+
+## Article 21 — `யாழ்`
+
+| Tamil | Preferred English | Context / exception | Status |
+|---|---|---|---|
+| `யாழ்` | `Yaazh` / `yaazh` | Title and instrument; transliterate rather than flattening to a generic harp/lyre. | **T4 verified** |
+| `கானல் வரி` | `Kaanal Vari` | Source song label retained; quoted lines are translated independently. | **T4 verified** |
+| `மாபகம்` | `maapakam` | Source-bearing unfamiliar form retained; no unsupported anatomical/instrument gloss. | **T4 verified** |
+| `முப்பாலின் இறுதிப்பால்` | `the last of the three divisions` | Preserve compressed literary/erotic allusion without importing outside explanation into body. | **T4 verified** |
+| `கற்பு` | `chastity` | Central repeated triad with husband and yaazh; do not soften. | **T4 verified** |
+
+## Article 22 — `சிற்பி`
+
+| Tamil | Preferred English | Context / exception | Status |
+|---|---|---|---|
+| `சிற்பி` | `The Sculptor` / `sculptor` | Title and repeated class/status contrast. | **T4 verified** |
+| `கலைவாணன்` | `Kalaivaanan` | Source-bestowed art title retained without external expansion. | **T4 verified** |
+| `சேரன் செங்குட்டுவன்` | `Cheran Senguttuvan` | Source ruler-name form retained. | **T4 verified** |
+| `ஒப்பாரி` | `oppari` | Preserve the source lament-form rather than replacing it with a generic elegy. | **T4 verified** |
+| `சேரர் ஆதிக்கம்` | `Chera domination` | Preserve the direct political formulation. | **T4 verified** |
+| `சேரனும் நமது இனத்தவன்` | `the Chera too is of our race` | Preserve the source's direct collective identity claim. | **T4 verified** |
+| source `சிற்பியின் விழாவில்` | contextual `in the sculptor's gaze` | Frozen source visibly reads `விழாவில்`; body uses the immediate eye/gaze context, and the irregularity remains documented rather than silently repairing Tamil. | **T4 verified** |
+| `பொன்னழகன்`, `வேல்விழி`, `அம்பிகாபதி`, `அமராவதி` | `Ponnazhagan`, `Velvizhi`, `Ambikapathi`, `Amaravathi` | Preserve source names; no outside literary expansion in body. | **T4 verified** |
+| poem `சாதி` | `caste` | Preserve the poem's direct social term. | **T4 verified** |
+
+## Translation discipline after E4
 
 - direct apostrophe, personification, repetition, sarcasm, sensuality and polemical harshness remain;
 - verse/dialogue lineation is preserved where source structure materially carries voice;
@@ -205,7 +251,7 @@ This is a consistency aid, not a mechanical substitution table. Choices are esta
 ## Current status
 
 - frozen Tamil article set: **26 / 26 inventoried**;
-- publication-specific lexical decisions established: **92** through Article 18;
-- Articles **1–18** terminology / quotation / source audit: **T4 PASS**;
+- publication-specific lexical decisions established: **117** through Article 22;
+- Articles **1–22** terminology / quotation / source audit: **T4 PASS**;
 - unresolved terminology blockers: **0**;
-- next lexicon activity: **E4 / Articles 19–22**.
+- next lexicon activity: **E5 / Articles 23–26**.
