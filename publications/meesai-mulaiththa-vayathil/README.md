@@ -66,16 +66,17 @@ Every assembly retains its frozen source title and P2 source/printed-page span a
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-Current strict-reviewed range: **scans 1–10 / 10 of 146**.
+Current strict-reviewed range: **scans 1–20 / 20 of 146**.
 
-Batch P4-001-010: **PASS after corrective review — 10 / 10; 2 corrections; 0 unresolved fidelity discrepancies**.
+- Batch P4-001-010: **PASS after corrective review — 10 / 10; 2 corrections; 0 unresolved fidelity discrepancies**.
+- Batch P4-011-020: **PASS — 10 / 10; 0 new corrections; 0 unresolved fidelity discrepancies**.
 
-Corrections:
+Cumulative corrections:
 
 - scan 5 `என்னுரை`: **`கூறிய` → `கூரிய`** in `கூரிய வேல் வாள்`;
 - scan 8 `முன்னுரை`: **`மூத்தோர்` → `முதியோர்`** in `அறிவுரையே கவிதை என்றால் முதியோர் முதுமொழி போதும்.`
 
-Both corrections are direct controlling-scan readings. They affect front matter only, so no P3 main-work assembly required propagation. Scan 3's stamp-obscured imprint segment remains explicitly unreconstructed rather than guessed.
+Both corrections are direct controlling-scan readings. They affect front matter only, so no P3 main-work assembly required propagation. Scans 11–20 required no further correction. Scan 17 remains a genuine blank/show-through page, and Unit 1 `பிறையே` remains scans 18–20 / pp.17–19 without P3 change. Scan 3's stamp-obscured imprint segment remains explicitly unreconstructed rather than guessed.
 
 ## Source identity
 
@@ -91,15 +92,15 @@ Both corrections are direct controlling-scan readings. They affect front matter 
 - P1: **COMPLETE / PASS**
 - P2: **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3: **COMPLETE / PASS — 26 / 26 assemblies**
-- P4: **IN PROGRESS — 10 / 146 strict-reviewed**
+- P4: **IN PROGRESS — 20 / 146 strict-reviewed**
 - P5: **NOT STARTED**
 - English: **BLOCKED until Tamil P5 freeze**
 - active P4 blockers: **0**
 
 ## Exact next activity
 
-**P4 scans 11–20.**
+**P4 scans 21–30.**
 
-Re-inspect scans 11–20 directly, word-by-word and punctuation-by-punctuation, against their canonical records. Record every source correction with old reading → source-visible reading provenance and propagate any affected dependent records. Do not mark P4 complete until all **146 / 146** physical scans are strict-reviewed.
+Re-inspect scans 21–30 directly, word-by-word and punctuation-by-punctuation, against their canonical records. Record every source correction with old reading → source-visible reading provenance and propagate any affected dependent records. Do not mark P4 complete until all **146 / 146** physical scans are strict-reviewed.
 
 Do not begin English translation until the Tamil archival workflow reaches P5 freeze.
