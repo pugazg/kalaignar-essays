@@ -24,8 +24,8 @@ Publication 10 `மீசை முளைத்த வயதில்`:
 - P3 source scan coverage — **18–145 contiguous**;
 - P3 boundary gaps / overlaps — **0 / 0**;
 - P4 — **PASS / COMPLETE — 146 / 146 strict-reviewed**;
-- P4 cumulative corrections — **198**;
-- corrections propagated — **198 / 198**;
+- P4 cumulative corrections — **207**;
+- corrections propagated — **207 / 207**;
 - P3 assemblies corrected/re-synchronized during P4 — **20 distinct assemblies**;
 - P4 unresolved fidelity discrepancies — **0**;
 - blocked / needs-review scans — **0 / 0**;
@@ -57,16 +57,18 @@ Completed P4 correction totals by batch:
 - 111–120 — **11**;
 - 121–130 — **8**;
 - 131–140 — **10**;
-- 141–146 — **0**.
+- 141–146 — **9**.
 
 Final remainder P4-141-146:
 
 - scans **141–145 / pp.140–144** finish `மயிலிறகு`;
 - scan **146** is the illustrated back-cover / promotional-text witness;
-- all six scans — **PASS**;
-- corrections — **0**;
+- all six scans — **PASS after reconciliation**;
+- corrections — **9**;
+- scans 142–144 — seven source-visible question-mark spacing corrections, propagated to `articles/26-mayiliragu.md`;
+- scan 146 — source-visible quoted-title punctuation **`‘மீசை முளைத்த வயதில்’`** and `வாசித்தாலும்` → **`வாசித்தலும்`**;
+- scans 141 and 145 required no textual correction;
 - unresolved fidelity discrepancies — **0**;
-- `articles/26-mayiliragu.md` required no final-batch change;
 - scan 145 retains the source-printed closing bullet;
 - scan 146 remains separate from the article assembly;
 - source titles, spans, printed-page mapping and boundaries remain unchanged.
@@ -113,7 +115,7 @@ Read completely before P5 writes:
    - canonical main-work pages represented **128 / 128**;
    - source scan coverage **18–145 contiguous** plus scan 146 separate back-cover witness;
    - strict P4 coverage **146 / 146**;
-   - P4 corrections **198 / 198 propagated**;
+   - P4 corrections **207 / 207 propagated**;
    - unresolved printed-text blocks **0**;
    - unresolved fidelity discrepancies **0**;
    - blocked / needs-review records **0 / 0**;
