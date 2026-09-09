@@ -16,7 +16,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 136 / printed 135 -->
 
-The Pandya realm's royal hall pronounced its judgment: “The Saivite path has won; the Jains have lost.” Along with it, minister Kulachirai, through the source-bearing kanpudai-pattu long-necked killing-stake array, had the eight thousand counted among great offenders mounted and done away with, and became a Nayanar. After this cruel act, the Pandya country lay afraid to open its mouth. The Jain ascetics who remained feared even to come outside.
+The Pandya realm's royal hall pronounced its judgment: “The Saivite path has won; the Jains have lost.” Along with it, minister Kulachirai, through the kanpudai-pattu long-necked killing-stake array, had the eight thousand counted among great offenders mounted and done away with, and became a Nayanar. After this cruel act, the Pandya country lay afraid to open its mouth. The Jain ascetics who remained feared even to come outside.
 
 <!-- Tamil source: scan 137 / printed 136 -->
 
@@ -60,7 +60,7 @@ Nalangilli and Peelivalai came trembling to the old man's side.
 
 With the utterance “Long live Jainism!” fixed upon his lips, the elder gave up his life upon Nalangilli's lap!
 
-“O noble one! Living Tamil! Living lamp of reason!” Nalangilli's tongue moved to praise him; seeing four rough warriors before him, he shut his mouth! He picked up one of the scattered peacock feathers and began to walk; the swan-like maiden followed behind him.
+“O noble one! Living Tamil! O lamp of light who counted life as nothing!” Nalangilli's tongue moved to praise him; seeing four rough warriors before him, he shut his mouth! He picked up one of the scattered peacock feathers and began to walk; the swan-like maiden followed behind him.
 
 From a distance he heard the great cry, “Down with Jainism!” She heard it too. “Why are you looking strange, Aththaan?” she asked.
 
