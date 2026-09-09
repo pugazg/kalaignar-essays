@@ -88,18 +88,21 @@ Running gate report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 - physical scans strict-reviewed: **20 / 146**;
 - contiguous strict-reviewed range: **1–20**;
-- corrections found: **2**;
+- corrections found: **6**;
+- corrections propagated to canonical page records: **6 / 6**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
 Direct P4 corrections so far:
 
 - scan 5: `கூறிய` → **`கூரிய`**;
-- scan 8: `மூத்தோர்` → **`முதியோர்`**.
+- scan 8: `மூத்தோர்` → **`முதியோர்`**;
+- scan 12: `செயல்படுகிறது.` → **`செய்துவிடுகிறது.`**;
+- scan 13: `மறக்கவிடவோ` → **`மறந்துவிடவோ`**;
+- scan 14: `பின்னும்` → **`பின்னுறும்`**;
+- scan 14: `இணைவாய்` → **`இணையாய்`**.
 
-Batch scans 11–20 required **0 new corrections**. The remaining `முன்னுரை` pages, blank/show-through scan 17, and Unit 1 `பிறையே` scans 18–20 / pp.17–19 all reconcile with the canonical records. No P3 article propagation was required.
-
-Both cumulative corrections are front-matter corrections and do not alter P1 mapping or P3 main-work assemblies. Scan 3's stamp-obscured publisher-address region remains explicitly unreconstructed.
+All six are direct controlling-scan corrections. They are front-matter corrections and do not alter P1 mapping or P3 main-work assemblies. Unit 1 `பிறையே` scans 18–20 / pp.17–19 strict-rechecked with **0 corrections** and no article propagation. Scan 3's stamp-obscured publisher-address region remains explicitly unreconstructed.
 
 ## Physical-copy / scan condition
 
