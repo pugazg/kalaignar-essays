@@ -30,7 +30,7 @@ O mountain! They say you are a great saint. Some hold up your unmoving firmness 
 
 As though I do not know your story! When cloud-ladies come of their own accord and embrace your shoulders, you stretch out your cold hand to cool their desire; touched by that hand, those women swoon, cannot go farther upward, melt into rain, and in their passion wrap themselves around you with river-arms—have I not seen this with my own eyes? Is it not after seeing that that I thunder to the whole world that even sages who have renounced everything cannot renounce ‘that’ attachment!
 
-O mountain! You are an insistent lover. And, along with that, a poet filled with intelligence. A poet gives his rising thought to the people; you too give the rain that has fallen upon you so that the land may prosper.
+O mountain! You are a forceful lover. And, along with that, a poet filled with intelligence. A poet gives his rising thought to the people; you too give the rain that has fallen upon you so that the land may prosper.
 
 O king of mountains! If you did not rise—if across the world you did not lift upright your tall shoulders rich with agarwood and teak—
 
