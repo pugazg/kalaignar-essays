@@ -24,85 +24,55 @@ The supplied edition remains an illustrated, multi-piece literary collection des
 
 ## P1 canonical physical structure — VERIFIED
 
-P1 accounts for **146 / 146** physical scans. Scans 18–145 carry continuous visible printed folios 17–144, with `printed page = scan page - 1`.
-
+- physical scans mapped: **146 / 146**;
+- scans 18–145: visible printed folios **17–144**;
 - source-titled main units: **26 / 26**;
-- unmapped scans: **0**;
-- boundary overlaps: **0**;
-- printed contents page: **none**; `indexes/contents.md` is a repository editorial/source map.
+- unmapped / boundary overlaps: **0 / 0**;
+- printed contents page: **none**.
 
-Permanent P1 source-title corrections:
-
-1. scan 36 / p.35 — **`அகப்பை சித்தர்`**;
-2. scan 42 / p.41 — **`தளிர்`**;
-3. scan 136 / p.135 — **`மயிலிறகு`**.
+Permanent source-title readings: `அகப்பை சித்தர்`, `தளிர்`, `மயிலிறகு`.
 
 ## P2 canonical page status — COMPLETE / PASS
 
-P2 is **COMPLETE — 146 / 146 VERIFIED**.
-
-Canonical batch records run through `P2_BATCH_141_146.md`.
-
-Final direct-source result:
-
-- canonical pages verified: **146 / 146**;
-- contiguous verified range: **scans 1–146**;
-- missing canonical page records: **0**;
-- `என்னுரை`, scans 4–6: **3 / 3 COMPLETE**;
-- `முன்னுரை`, scans 7–16: **10 / 10 COMPLETE**;
-- scan 17 blank/show-through: **VERIFIED**;
-- source-titled main units complete at P2 page layer: **26 / 26**;
-- scan 146 back cover / promotional text: **VERIFIED**;
+- canonical pages: **146 / 146 VERIFIED**;
+- missing records: **0**;
 - unresolved printed-text blocks: **0**;
-- active P2 blockers: **0**.
+- source-titled units complete: **26 / 26**;
+- scan 146 back cover: **VERIFIED**.
 
-Durable source findings remain non-regressed:
-
-- scan 32 third source subheading is **`அரசு`**;
-- scan 47 `விண்மீன்` review was resolved directly against the supplied scan;
-- corrected scan-70 reading is **`உயர் தமிழன்`**;
-- scan 135 closes `ஆண்டு விழா`;
-- scan 136 directly opens **`மயிலிறகு`**;
-- scan 145 closes `மயிலிறகு` with final bullet `●`;
-- scan 146 is the unnumbered printed back cover with promotional text attributed to **`கவிப்பேரரசு வைரமுத்து`**.
-
-Source wording is not silently modernised or regularised. The supplied 2006 scan pixels determine the canonical reading. OCR is not authority; alternate editions may corroborate difficult glyphs only and are not silently imported.
+The supplied 2006 scan pixels determine the canonical reading. OCR and alternate editions may corroborate difficult glyphs but are not authority and are never silently imported.
 
 ## P3 article/unit layer — COMPLETE / PASS
 
-Formal validation is recorded in `P3_ASSEMBLY_AUDIT.md`.
+Formal validation: `P3_ASSEMBLY_AUDIT.md`.
 
 - source-titled assemblies: **26 / 26**;
-- canonical article pages represented: **128 / 128**;
+- canonical main-work pages represented: **128 / 128**;
 - source scan coverage: **18–145 contiguous**;
 - printed folio coverage: **17–144 contiguous**;
 - missing / extra assemblies: **0 / 0**;
-- assembly boundary gaps / overlaps: **0 / 0**;
-- unresolved assembly body-text blocks: **0**.
-
-The article files under `articles/` retain the frozen P1/P2 source titles and page spans and were assembled from the verified canonical page records without silent normalization. Page-boundary provenance is retained.
+- boundary gaps / overlaps: **0 / 0**;
+- unresolved assembly body text: **0**.
 
 ## P4 strict visual text-fidelity — IN PROGRESS
 
-Running gate report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+Running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- physical scans strict-reviewed: **20 / 146**;
-- contiguous strict-reviewed range: **1–20**;
-- corrections found: **6**;
-- corrections propagated to canonical page records: **6 / 6**;
+- physical scans strict-reviewed: **30 / 146**;
+- contiguous strict-reviewed range: **1–30**;
+- cumulative corrections: **41**;
+- corrections propagated to canonical page records: **41 / 41**;
+- P3 assemblies corrected/re-synchronized: **3**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
-Direct P4 corrections so far:
+P4 batch results:
 
-- scan 5: `கூறிய` → **`கூரிய`**;
-- scan 8: `மூத்தோர்` → **`முதியோர்`**;
-- scan 12: `செயல்படுகிறது.` → **`செய்துவிடுகிறது.`**;
-- scan 13: `மறக்கவிடவோ` → **`மறந்துவிடவோ`**;
-- scan 14: `பின்னும்` → **`பின்னுறும்`**;
-- scan 14: `இணைவாய்` → **`இணையாய்`**.
+- scans 1–10: **2 corrections**;
+- scans 11–20: **4 corrections**;
+- scans 21–30: **35 corrections**.
 
-All six are direct controlling-scan corrections. They are front-matter corrections and do not alter P1 mapping or P3 main-work assemblies. Unit 1 `பிறையே` scans 18–20 / pp.17–19 strict-rechecked with **0 corrections** and no article propagation. Scan 3's stamp-obscured publisher-address region remains explicitly unreconstructed.
+The 21–30 batch directly reconciled `ஆடிக்காற்று`, `கருப்புப் பெண்`, and `கடலே` against the supplied source. Changes included lexical readings, word boundaries, punctuation and quotation marks. `articles/02-adikkaatru.md`, `articles/03-karuppu-pen.md`, and `articles/04-kadale.md` were re-synchronized. Scan 29's prior `சிங்காரச் “செம்படச்சி”` phrase was removed because it is absent from the controlling scan.
 
 ## Physical-copy / scan condition
 
@@ -118,13 +88,13 @@ All six are direct controlling-scan corrections. They are front-matter correctio
 - P1 — **COMPLETE / PASS**
 - P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**
-- P4 — **IN PROGRESS — 20 / 146 strict-reviewed**
+- P4 — **IN PROGRESS — 30 / 146 strict-reviewed**
 - P5 — **NOT STARTED**
 - English translation — **BLOCKED until Tamil P5 freeze**
 - active P4 blockers — **0**
 
 ## Exact next activity
 
-**P4 scans 21–30.** Re-inspect all ten scans directly against the canonical records, word-by-word and punctuation-by-punctuation. Record old reading → source-visible reading provenance for each correction and propagate any dependent changes before advancing the P4 report.
+**P4 scans 31–40.** Re-inspect all ten scans directly against the canonical records, record every old reading → source-visible reading, and propagate every main-work correction into the affected P3 assembly before advancing the report.
 
 Do not begin English translation.
