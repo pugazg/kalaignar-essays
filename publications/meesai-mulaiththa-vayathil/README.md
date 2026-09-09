@@ -24,31 +24,29 @@ Permanent corrected P1 title readings:
 - scan 42 / p.41 — **`தளிர்`**;
 - scan 136 / p.135 — **`மயிலிறகு`**.
 
-## P2 page-level transcription — IN PROGRESS
+## P2 page-level transcription — COMPLETE / PASS
 
-Canonical page records now cover **scans 1–130 / 130 of 146 VERIFIED**.
+Canonical page records cover **all scans 1–146 / 146 of 146 VERIFIED**.
 
-Completed batch records now run through `P2_BATCH_121_130.md`.
+- contiguous verified range: **1–146**;
+- missing canonical page records: **0**;
+- unresolved printed-text blocks: **0**;
+- active P2 blockers: **0**;
+- all **26 / 26** source-titled main-work units are complete at the P2 page layer;
+- scan 146 back cover / promotional text is verified.
 
-Current verified source coverage:
+Final source spans:
 
-- scans 1–3 — cover/title/imprint: **3 / 3 VERIFIED**;
-- `என்னுரை`, scans 4–6: **3 / 3 VERIFIED / COMPLETE**;
-- `முன்னுரை`, scans 7–16: **10 / 10 VERIFIED / COMPLETE**;
-- scan 17 blank/show-through: **VERIFIED**;
-- Units 1–24 through `மடல்`: **COMPLETE**;
-- Unit 23 `சேவல் சண்டை`, scans 115–122 / pp.114–121: **8 / 8 VERIFIED / COMPLETE**;
-- Unit 24 `மடல்`, scans 123–128 / pp.122–127: **6 / 6 VERIFIED / COMPLETE**;
-- Unit 25 `ஆண்டு விழா`, scans 129–130 / pp.128–129: **2 / 7 VERIFIED so far; continues through scan 135 / p.134**;
-- contiguous verified range: **1–130**;
-- missing canonical records in 1–130: **0**;
-- unresolved printed-text blocks in verified scans: **0**;
-- complete main-work units: **24 / 26**;
-- P2 blockers: **0**.
+- Unit 25 `ஆண்டு விழா`: scans **129–135 / pp.128–134 — 7 / 7 VERIFIED / COMPLETE**;
+- Unit 26 `மயிலிறகு`: scans **136–145 / pp.135–144 — 10 / 10 VERIFIED / COMPLETE**;
+- scan 146: **back cover — VERIFIED**.
 
-The scan-121–130 batch closes `சேவல் சண்டை` at scan 122, completes `மடல்` at scan 128, and opens `ஆண்டு விழா` at scan 129. Reviewed source corrections include scan 124 `பறித்துச்`, scan 126 `திங்களோ காணீர்!`, and scan 130 `திங்களியே!`.
+Completed batch records now run through:
 
-The supplied 2006 scan remains controlling. OCR is not authority; no alternate-edition wording is silently imported.
+- `P2_BATCH_131_140.md`;
+- `P2_BATCH_141_146.md`.
+
+The supplied 2006 scan remained controlling throughout. OCR was not authority; no alternate-edition wording was silently imported. Printed text, illustrations/design, and later physical-copy marks remain separate evidence layers.
 
 Earlier durable corrections/findings remain non-regressed, including scan 32 `அரசு`, the scan-47 `விண்மீன்` review, corrected scan-70 `உயர் தமிழன்`, and the permanent P1 title readings.
 
@@ -64,7 +62,7 @@ Earlier durable corrections/findings remain non-regressed, including scan 32 `�
 
 - P0: **COMPLETE / PASS**
 - P1: **COMPLETE / PASS**
-- P2: **IN PROGRESS — 130 / 146 VERIFIED**
+- P2: **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3: **NOT STARTED**
 - P4: **NOT STARTED**
 - P5: **NOT STARTED**
@@ -73,12 +71,6 @@ Earlier durable corrections/findings remain non-regressed, including scan 32 `�
 
 ## Exact next activity
 
-**P2 scans 131–140 only.**
+**P3 article/unit assembly.**
 
-- scans 131–135 / pp.130–134 — continue and close Unit 25 `ஆண்டு விழா`;
-- scans 136–140 / pp.135–139 — begin Unit 26 `மயிலிறகு`, continuing through scan 145 / p.144;
-- retain permanent scan-136 title reading `மயிலிறகு`;
-- directly verify one canonical page record per scan against the controlling source;
-- after all ten pass, create `P2_BATCH_131_140.md` and synchronize trackers;
-- set the following activity to scans 141–146 as the final P2 remainder;
-- **STOP after scan 140; do not begin P3 assembly or English translation unless separately authorised.**
+Assemble the **26 source-titled units** from the fully verified canonical page records, preserving source wording and page-boundary provenance. Follow `ESSAY_PROCESSING_GUIDE.md`; do not begin English translation until the Tamil archival workflow reaches P5 freeze.
