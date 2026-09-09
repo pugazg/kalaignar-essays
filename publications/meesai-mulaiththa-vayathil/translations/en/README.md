@@ -10,17 +10,18 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - Tamil archival prerequisite: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - frozen Tamil article assemblies: **26 / 26**
 - E0 translation planning/setup: **COMPLETE / PASS**
-- T0 source prerequisite: **0 / 26 formally passed**
-- T1 close draft: **0 / 26**
-- T2 bilingual fidelity review: **0 / 26**
-- T3 voice review: **0 / 26**
-- T4 terminology / quotation / citation audit: **0 / 26**
-- T5 article verification: **0 / 26**
+- E1 Article 1 calibration: **COMPLETE / PASS**
+- T0 source prerequisite: **1 / 26 PASS**
+- T1 close draft: **1 / 26 PASS**
+- T2 bilingual fidelity review: **1 / 26 PASS**
+- T3 voice review: **1 / 26 PASS**
+- T4 terminology / quotation / citation audit: **1 / 26 PASS**
+- T5 article verification: **1 / 26 PASS / VERIFIED**
 - E6 publication consistency review: **not started**
 - E7 release closeout: **not started**
-- unresolved E0 blockers: **0**
-- English article body files: **0 / 26**
-- **English translation: NOT STARTED — E1 READY**
+- unresolved English blockers: **0**
+- English article body files: **1 / 26**
+- **English translation: IN PROGRESS — E2 NEXT**
 
 ## Frozen Tamil authority
 
@@ -28,13 +29,13 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - `pages/` tree: **`f7930b3696668cdbc2d692a284b49586d09a3372`**
 - P5 completion record: [`../../PUBLICATION_COMPLETION_REVIEW.md`](../../PUBLICATION_COMPLETION_REVIEW.md)
 
-The article-specific source blobs are pinned in [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md) and initialized in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md). Formal T0 is still performed when each article is opened, by re-fetching live `main` and confirming its Tamil blob has not changed.
+Formal T0 is performed article by article by re-fetching live `main` and confirming the frozen Tamil blob has not changed.
 
 ## Article tracker
 
-| # | Tamil article | Planned English file | Status | Gates |
+| # | Tamil article | English file | Status | Gates |
 |---:|---|---|---|---|
-| 1 | `பிறையே` | `01-piraiye.md` | **not-started** | T0–T5 pending |
+| 1 | `பிறையே` | [`01-piraiye.md`](01-piraiye.md) | **verified** | **T0–T5 PASS** |
 | 2 | `ஆடிக்காற்று` | `02-adikkaatru.md` | **not-started** | T0–T5 pending |
 | 3 | `கருப்புப் பெண்` | `03-karuppu-pen.md` | **not-started** | T0–T5 pending |
 | 4 | `கடலே` | `04-kadale.md` | **not-started** | T0–T5 pending |
@@ -61,6 +62,24 @@ The article-specific source blobs are pinned in [`../../TRANSLATION_PLAN.md`](..
 | 25 | `ஆண்டு விழா` | `25-aandu-vizha.md` | **not-started** | T0–T5 pending |
 | 26 | `மயிலிறகு` | `26-mayiliragu.md` | **not-started** | T0–T5 pending |
 
+## E1 voice baseline — Article 1 `பிறையே`
+
+Final English title: **O Crescent!**  
+Frozen Tamil blob: `5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`  
+Verified English blob: **`1d07e03ba84353b2da7c0a344d6ae61c3223caf0`**.
+
+Calibration principles established:
+
+- compact literary compounds may remain compact when intelligible (`sky-sea`);
+- preserve direct vocative force (`O crescent!`);
+- preserve personification rather than explaining it away;
+- preserve deliberate repeated refrains and reversals;
+- preserve sarcastic rhetorical bite (`Some life you have!`);
+- keep prison/freedom, moon/darkness and beloved/freedom imagery concrete;
+- no external identification or smoothing was imported.
+
+Detailed gate/correction provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md); living decisions are in [`LEXICON.md`](LEXICON.md).
+
 ## Translation baseline
 
 - translate paragraph by paragraph from the strict-reviewed Tamil assembly;
@@ -72,22 +91,11 @@ The article-specific source blobs are pinned in [`../../TRANSLATION_PLAN.md`](..
 - do not import another publication's lexical choices merely for consistency;
 - exact source `உடன்பிறப்பே` is always **`Udanpirappē`**, direct salutation **`Udanpirappē,`**, if that exact form occurs.
 
-## Gate legend
-
-- **T0** — strict-reviewed Tamil source prerequisite confirmed + live blob SHA matched
-- **T1** — complete close English draft
-- **T2** — bilingual fidelity review
-- **T3** — Kalaignar voice review
-- **T4** — terminology / quotation / citation / source audit
-- **T5** — translation verified
-- **E6** — publication-level cross-article English consistency review
-- **E7** — English release closeout
-
 ## Planned phases
 
 - E0 setup — **COMPLETE / PASS**
-- E1 Article 1 `பிறையே` calibration — **NEXT**
-- E2 Articles 2–11
+- E1 Article 1 `பிறையே` calibration — **COMPLETE / PASS**
+- E2 Articles 2–11 — **NEXT**
 - E3 Articles 12–18
 - E4 Articles 19–22
 - E5 Articles 23–26
@@ -96,4 +104,4 @@ The article-specific source blobs are pinned in [`../../TRANSLATION_PLAN.md`](..
 
 ## Exact next activity
 
-**E1 — Article 1 `பிறையே` calibration.** Confirm frozen Tamil blob `5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c` on live `main`, then process Article 1 through **T0→T5** as the English voice baseline. No frozen Tamil file may be modified.
+**E2 — Articles 2–11.** Process `ஆடிக்காற்று` through `தனிமை` in source order, each independently through **T0→T5**, using Article 1 only as the voice baseline and updating the living lexicon as source-specific decisions emerge. Do not modify the frozen Tamil layer.
