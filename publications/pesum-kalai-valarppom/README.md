@@ -8,7 +8,7 @@ Workspace: `publications/pesum-kalai-valarppom/`
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
-- P2 page-level transcription — **NOT STARTED / 0 of 82**;
+- P2 page-level transcription — **IN PROGRESS / 10 of 82 VERIFIED**;
 - P3 assemblies — **NOT STARTED**;
 - P4 source/completeness audit — **NOT STARTED**;
 - P5 strict visual word/punctuation fidelity — **NOT STARTED**;
@@ -26,11 +26,19 @@ Workspace: `publications/pesum-kalai-valarppom/`
 
 The supplied scan is controlling authority. OCR / parsed text is not authority.
 
-## Publication identity
+## Source-visible title witnesses
 
-- source title: **`பேசும் கலை வளர்ப்போம்`**;
+P2 direct inspection fixed a source-witness distinction that earlier tracker wording had flattened:
+
+- scan 1 front cover: **`பேசும் கலை வளர்ப்போம்`**;
+- scan 3 title page: **`பேசும்கலை வளர்ப்போம்`**.
+
+Do not silently normalize one witness to the other. The workspace/publication label remains the cover form `பேசும் கலை வளர்ப்போம்`; canonical page records preserve each scan exactly.
+
+Other identity:
+
 - title-page author/status: **`மாண்புமிகு டாக்டர் கலைஞர் மு.கருணாநிதி / தமிழக முதல்-அமைச்சர்`**;
-- English imprint: **`By: Kalaignar M. Karunanidhi`**;
+- English imprint: **`By : Kalaignar M. Karunanidhi`**;
 - publisher: **பாரதி பதிப்பகம்**, 108 Usman Road, T.Nagar, Madras-600017;
 - supplied edition: **எட்டாம் பதிப்பு — செப்டம்பர் 1996**;
 - price: **Rs.12.00**;
@@ -58,6 +66,24 @@ Canonical mapping lives in:
 
 Section openings are scans `7,12,16,22,27,31,34,38,42,45,48,51,55,59,64,67,70,75,79`. Do not invent descriptive section titles.
 
+## P2 progress
+
+Batch 1, scans **1–10**, is **COMPLETE / PASS**.
+
+- canonical records created: **10 / 82**;
+- directly verified: **10 / 82**;
+- covered through printed p.8;
+- unresolved printed-text readings: **0**;
+- assemblies created: **0**;
+- scan 5 remains a separate physical-copy annotation record with **no printed publication text**.
+
+Direct page-boundary checks:
+
+- scan 7 `கவிஞரின்` → scan 8 `கவிதைச்`;
+- scan 8 `பிரச்` → scan 9 `சினைகளைப்`;
+- scan 9 `சிந்தித்` → scan 10 `துப் பார்த்து`;
+- scan 10 `கொண்` → scan 11 `டிருப்பார்.`; scan 11 was inspected only to verify this batch boundary and is not yet transcribed.
+
 ## Physical-copy/source distinctions
 
 - scan 1 colour front cover;
@@ -65,12 +91,12 @@ Section openings are scans `7,12,16,22,27,31,34,38,42,45,48,51,55,59,64,67,70,75
 - scan 3 title page with handwriting + large library stamp;
 - scan 4 edition/imprint with partial library stamp;
 - scan 5 full-page handwritten physical-copy note — **not printed publication text**;
-- scan 6 printed `பதிப்புரை`, dated `15-7-81`;
+- scan 6 printed `பதிப்புரை`, source-visible date `15—7—81`;
 - scan 7 begins section 1 on inferred/suppressed printed p.5;
 - scan 82 is visible printed p.80 and source end.
 
-Printed text and physical-copy marks must remain separate in each canonical page record.
+Printed text and physical-copy marks remain separate in canonical page records.
 
 ## Exact next activity
 
-**P2 batch 1 — scans 1–10.** Create, transcribe and directly verify ten canonical page records from the front cover through printed p.8. Follow the P1 folio map; preserve printed wording/punctuation exactly; keep handwriting/stamps separate; do not build section assemblies yet.
+**P2 batch 2 — scans 11–20.** Create, transcribe and directly verify ten more canonical page records, preserving cross-page fragments and source punctuation exactly. Follow the P1 folio/section map and do not build section assemblies yet.
