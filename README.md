@@ -14,7 +14,7 @@ Publications **1–9 are COMPLETE / FROZEN / RELEASED**.
 
 Workspace: `publications/meesai-mulaiththa-vayathil/`
 
-**Tamil P0–P5 COMPLETE / PASS / FROZEN. English E0–E4 COMPLETE / PASS. Articles 1–22 are T0–T5 VERIFIED. English progress: 22/26. E5 Articles 23–26 is next.**
+**Tamil P0–P5 COMPLETE / PASS / FROZEN. English E0–E5 COMPLETE / PASS. Articles 1–26 are T0–T5 VERIFIED. English progress: 26/26. E6 publication-wide consistency is next.**
 
 Tamil authority:
 
@@ -27,20 +27,20 @@ Tamil authority:
 
 English state:
 
-- E0–E4 **COMPLETE / PASS**;
-- T0/T1/T2/T3/T4/T5 **22/26** each;
-- E4 Articles 19–22 **4/4 verified**;
-- E4 material T2 corrections **3**, additional T3 correction **1**, T4 corrections **0**;
+- E0–E5 **COMPLETE / PASS**;
+- T0/T1/T2/T3/T4/T5 **26/26** each;
+- E5 Articles 23–26 **4/4 verified**;
+- E5 material T2 corrections **6**, T3 additional corrections **0**, T4 source-restraint corrections **2**;
 - unresolved English blockers **0**;
-- living lexicon decisions through Article 22 **117**.
+- living lexicon decisions through Article 26 **153**;
+- E6 consistency **NEXT**;
+- E7 release closeout pending.
 
-E4 verified titles: **Waterfall**, **Winnowing Tray**, **Yaazh**, **The Sculptor**.
-
-Planned remaining phases: **E5 Articles 23–26**, **E6 publication-wide consistency**, **E7 release closeout**.
+E5 verified titles: **Cockfight**, **Letter**, **Annual Festival**, **Peacock Feather**.
 
 ## Current repository boundary
 
-Exact next activity: **E5 — Articles 23–26 (`சேவல் சண்டை`, `மடல்`, `ஆண்டு விழா`, `மயிலிறகு`)**, each independently through **T0→T5**. Frozen Tamil must not be modified. After E5, run E6 consistency before release.
+Exact next activity: **E6 — publication-wide English consistency review across all 26 verified articles**. Frozen Tamil must not be modified. English release is not complete until E6 passes and E7 release closeout is separately completed.
 
 ### Permanent `உடன்பிறப்பே` rule
 
