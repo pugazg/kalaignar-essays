@@ -7,10 +7,10 @@ Physical scans: **146**
 
 ## Gate state
 
-**P4 — IN PROGRESS — 90 / 146 physical scans strict-reviewed**
+**P4 — IN PROGRESS — 100 / 146 physical scans strict-reviewed**
 
-Contiguous strict-reviewed range: **scans 1–90**.  
-Next strict-review batch: **scans 91–100**.
+Contiguous strict-reviewed range: **scans 1–100**.  
+Next strict-review batch: **scans 101–110**.
 
 P4 follows `ESSAY_PROCESSING_GUIDE.md` section 12: every physical scan is re-inspected directly, word-by-word and punctuation-by-punctuation, against the canonical page record. Source pixels remain authority; context, OCR and secondary editions are not authority.
 
@@ -484,13 +484,79 @@ Scans 18–20 / Unit 1 `பிறையே` required no correction; P3 propagati
 - No source-title, scan-span, printed-page mapping or unit-boundary change occurred.
 - unresolved fidelity discrepancies after reconciliation: **0**.
 
+## Batch P4-091-100
+
+**RESULT: PASS after corrective strict review — 10 / 10 scans; 15 corrections; 0 unresolved fidelity discrepancies.**
+
+| Scan | Unit / printed page | Result | Corrections |
+|---:|---|---|---:|
+| 91 | `முறம்` / p.90 | PASS after correction | 1 |
+| 92 | `முறம்` / p.91 | PASS | 0 |
+| 93 | `முறம்` / p.92 | PASS after correction | 4 |
+| 94 | `முறம்` / p.93 | PASS after correction | 4 |
+| 95 | `முறம்` / p.94 | PASS after correction | 1 |
+| 96 | `யாழ்` / p.95 | PASS | 0 |
+| 97 | `யாழ்` / p.96 | PASS after correction | 1 |
+| 98 | `யாழ்` / p.97 | PASS after correction | 1 |
+| 99 | `யாழ்` / p.98 | PASS after correction | 3 |
+| 100 | `யாழ்` / p.99 | PASS | 0 |
+
+### Correction provenance — P4-091-100
+
+**Scan 91 — `முறம்` / p.90**
+
+143. `புன்னகையால் கொண்டு` → source-visible **`புன்னகையால் கொன்று`**.
+
+**Scan 93 — `முறம்` / p.92**
+
+144. `புளிக் குழம்போ?` → source-visible **`புளிக் குழம்போ ?`**;
+145. `புலிக் குழம்போ?` → source-visible **`புலிக் குழம்போ ?`**;
+146. `இதுதானோ?` → source-visible **`இதுதானோ ?`**;
+147. `அத்தானெங்கே?` → source-visible **`அத்தானெங்கே ?`**.
+
+**Scan 94 — `முறம்` / p.93**
+
+148. `சொல்லுகின்றீர்?` → source-visible **`சொல்லுகின்றீர் ?`**;
+149. `விழுங்கியதா?` → source-visible **`விழுங்கியதா ?`**;
+150. `அழுகின்றீர்?` → source-visible **`அழுகின்றீர் ?`**;
+151. `பார்த்தாயோ?` → source-visible **`பார்த்தாயோ ?`**.
+
+**Scan 95 — `முறம்` / p.94**
+
+152. `முத்தமிட்டான்` → source-visible **`முத்தமிட்டாள்`**.
+
+**Scan 97 — `யாழ்` / p.96**
+
+153. `என்னாமோ?”` → source-visible **`என்னாமோ ?”`**.
+
+**Scan 98 — `யாழ்` / p.97**
+
+154. `முப்பாவின் இறுதிப்பால்` → source-visible **`முப்பாலின் இறுதிப்பால்`**.
+
+**Scan 99 — `யாழ்` / p.98**
+
+155. `அழைக்கவா?”` → source-visible **`அழைக்கவா ?”`**;
+156. `பின் யாது கேட்க?”` → source-visible **`பின் யாது கேட்க ?”`**;
+157. `எனைக் கேட்கவா?”` → source-visible **`எனைக் கேட்கவா ?”`**.
+
+### Batch findings / dependency propagation
+
+- Scans 92, 96 and 100 required no textual correction.
+- All 15 source-visible corrections were applied to canonical page records.
+- `articles/20-muram.md` and `articles/21-yaazh.md` were re-synchronized.
+- Cumulative distinct corrected/re-synchronized P3 assemblies became **15**.
+- `முறம்` closes on scan 95 and is fully P4-reconciled.
+- `யாழ்` remains open after scan 100 and closes on scan 102.
+- No source-title, scan-span, printed-page mapping or unit-boundary change occurred.
+- unresolved fidelity discrepancies after reconciliation: **0**.
+
 ## Progress totals
 
-- physical scans strict-reviewed: **90 / 146**;
-- contiguous reviewed range: **1–90**;
-- P4 corrections found: **142**;
-- P4 corrections propagated to canonical page records: **142 / 142**;
-- P3 article assemblies corrected / re-synchronized so far: **13 distinct assemblies**;
+- physical scans strict-reviewed: **100 / 146**;
+- contiguous reviewed range: **1–100**;
+- P4 corrections found: **157**;
+- P4 corrections propagated to canonical page records: **157 / 157**;
+- P3 article assemblies corrected / re-synchronized so far: **15 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**;
 - P4 gate: **OPEN / IN PROGRESS**.
@@ -503,6 +569,6 @@ The supplied 2006 scan remains controlling. Corroborating witnesses, OCR and con
 
 ## Exact next activity
 
-**P4 scans 91–100.** Re-inspect all ten physical scans directly against their canonical records. This batch reviews all of `முறம்` on scans 91–95 / printed pp.90–94 and the opening five pages of `யாழ்` on scans 96–100 / printed pp.95–99; `யாழ்` continues through scan 102. Record every old reading → source-visible reading correction, propagate affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
+**P4 scans 101–110.** Re-inspect all ten physical scans directly against their canonical records. Scans 101–102 / printed pp.100–101 finish `யாழ்`; scans 103–110 / printed pp.102–109 begin `சிற்பி`, which continues beyond scan 110. Record every old reading → source-visible reading correction, propagate affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
 
 Do not mark P4 complete before **146 / 146** physical scans are strict-reviewed. English remains **BLOCKED until Tamil P5 freeze**.
