@@ -10,41 +10,40 @@ Permanent workflow: `ESSAY_PROCESSING_GUIDE.md`, `ESSAY_TRANSLATION_GUIDE.md`, r
 
 Publications **1–10 are RELEASE COMPLETE / FROZEN**.
 
-### Publication 10 — மீசை முளைத்த வயதில்
+### Publication 11 — பேசும் கலை வளர்ப்போம் — ACTIVE
 
-Workspace: `publications/meesai-mulaiththa-vayathil/`
+Workspace: `publications/pesum-kalai-valarppom/`
 
-**Tamil P0–P5 COMPLETE / PASS / FROZEN. English E0–E7 COMPLETE / PASS. English translation COMPLETE. English release gate CLOSED.**
+**P0 COMPLETE / PASS. P1 is next.**
 
-Tamil authority:
+Controlling source:
 
-- source SHA-256 `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
-- scans **146**;
-- canonical pages **146/146 VERIFIED**;
-- assemblies **26/26**;
-- P4 **146/146**, **207/207 corrections propagated**;
-- frozen `pages/` tree `f7930b3696668cdbc2d692a284b49586d09a3372`;
-- frozen `articles/` tree `b7593357dc5ba101362c7a303881bea4e63e9b68`;
-- Tamil/source blockers **0**.
-
-English release:
-
-- article files / T0 / T1 / T2 / T3 / T4 / T5 — **26/26**;
-- E6 publication-wide consistency — **PASSED**, body corrections **0**;
-- E7 release closeout — **PASSED / COMPLETE**;
-- source-page comments — **128/128**, scans **18–145 contiguous**;
-- living lexicon — **153** source-derived decisions;
-- unresolved English/release blockers — **0**;
+- `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`;
+- SHA-256 `73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`;
+- size **105,698,402 bytes**;
+- physical scans **82**;
+- image-only;
 - source PDF committed — **No**.
 
-Final release authority: `publications/meesai-mulaiththa-vayathil/translations/en/RELEASE_REPORT.md`.
+Source-visible identity:
+
+- title — **`பேசும் கலை வளர்ப்போம்`**;
+- title-page author/status — **`மாண்புமிகு டாக்டர் கலைஞர் மு.கருணாநிதி / தமிழக முதல்-அமைச்சர்`**;
+- publisher — **பாரதி பதிப்பகம்**;
+- supplied edition — **எட்டாம் பதிப்பு, செப்டம்பர் 1996**;
+- main work — **19 numbered sections**;
+- printed contents page — **not present in supplied scan**.
+
+P0 observed numbered openings at scans `7, 12, 16, 22, 27, 31, 34, 38, 42, 45, 48, 51, 55, 59, 64, 67, 70, 75, 79`.
+
+Exact next activity: **P1 — inspect and map all 82 scans, verify page types / visible or suppressed folios / all 19 section boundaries, and synchronize the source trackers. Do not start P2 transcription during P1.**
+
+### Publication 10 — மீசை முளைத்த வயதில் — FROZEN
+
+Tamil P0–P5 and English E0–E7 are **COMPLETE / PASS**; English release gate is **CLOSED**. Preserve its frozen Tamil and released English layers unless genuine source-supported evidence requires reopening.
 
 ### Permanent `உடன்பிறப்பே` rule
 
 Every exact source `உடன்பிறப்பே` is retained as **`Udanpirappē`** in English; direct salutation **`Udanpirappē,`**.
-
-## Current repository boundary
-
-There is **no active publication after Publication 10 release closeout**. Keep Publications 1–10 frozen unless genuine source-supported evidence requires reopening. Do not start another publication without separate user/live-roadmap authorization.
 
 Live `main` and root `HANDOVER.md` remain authoritative.
