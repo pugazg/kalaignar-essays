@@ -5,7 +5,8 @@ Controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வய�
 Physical scans: **146**  
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
 P2 status: **COMPLETE / PASS — 146 / 146 VERIFIED**  
-P3 status: **COMPLETE / PASS — 26 / 26 assemblies**
+P3 status: **COMPLETE / PASS — 26 / 26 assemblies**  
+P4 status: **IN PROGRESS — scans 1–10 / 10 of 146 strict-reviewed**
 
 ## Mapping rule
 
@@ -196,8 +197,25 @@ P3 status: **COMPLETE / PASS — 26 / 26 assemblies**
 - P3 assembly boundary gaps / overlaps: **0 / 0**;
 - P3 unresolved body-text blocks: **0**.
 
+## P4 strict-review overlay — IN PROGRESS
+
+Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+
+- physical scans strict-reviewed: **10 / 146**;
+- contiguous reviewed range: **1–10**;
+- corrections: **2**;
+- unresolved fidelity discrepancies: **0**;
+- P4 mapping/boundary changes: **0**.
+
+Corrections so far are front-matter lexical readings only:
+
+- scan 5 `கூறிய` → `கூரிய`;
+- scan 8 `மூத்தோர்` → `முதியோர்`.
+
+No P1/P3 boundary or source-title mapping changed.
+
 ## Next gate
 
-**P4 — final strict visual text-fidelity pass.** Re-inspect all 146 physical scans directly, word-by-word and punctuation-by-punctuation, preserve source-witness distinctions, record every old reading → source-visible reading correction, propagate corrections to dependent assemblies/indexes/status records, and create `VISUAL_TEXT_FIDELITY_REVIEW.md` before closing P4.
+**P4 scans 11–20.** Re-inspect these ten physical scans directly, word-by-word and punctuation-by-punctuation, preserve source-witness distinctions, record every old reading → source-visible reading correction, and propagate any map-affecting changes only when proven by the controlling scan.
 
 P4 does not authorize English translation; English remains blocked until Tamil P5 freeze.
