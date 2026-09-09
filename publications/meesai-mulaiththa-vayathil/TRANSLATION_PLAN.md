@@ -10,86 +10,53 @@ Permanent policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_G
 
 ## Current result
 
-- E0 — **COMPLETE / PASS**
-- E1 — **COMPLETE / PASS**
-- E2 — **COMPLETE / PASS**
-- E3 — **COMPLETE / PASS — Articles 12–18, 7 / 7 T0→T5 verified**
-- verified English articles: **18 / 26**
-- unresolved English blockers: **0**
-- frozen Tamil changes during E0–E3: **0**
-- exact next: **E4 Articles 19–22**
+- E0–E4 — **COMPLETE / PASS**;
+- verified English articles — **22 / 26**;
+- T0/T1/T2/T3/T4/T5 — **22 / 26** each;
+- unresolved English blockers — **0**;
+- frozen Tamil changes during E0–E4 — **0**;
+- exact next — **E5 Articles 23–26**.
 
 ## Frozen Tamil prerequisite
 
 - source SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
 - `pages/` tree: `f7930b3696668cdbc2d692a284b49586d09a3372`;
 - strict-reviewed `articles/` tree: `b7593357dc5ba101362c7a303881bea4e63e9b68`;
-- P3 audit blob: `0c2045346b879c85b6e2c46150a4aab686323016`;
-- final P4 report blob: `2e085c2167c9dea409a13be4a7c980234e5a01df`;
+- P3 audit: `0c2045346b879c85b6e2c46150a4aab686323016`;
+- final P4 report: `2e085c2167c9dea409a13be4a7c980234e5a01df`;
 - Tamil/source blockers: **0**.
 
-Translation authority remains frozen Tamil assembly → verified page/source clarification if needed → documented repository notes. OCR, web text, alternate editions and memory are not authority.
+Translation authority remains frozen Tamil assembly → verified page/source clarification when needed → documented repository notes. OCR, web text, alternate editions and memory are not authority.
 
-## Verified English authority — Articles 1–18
+## E4 verified English authority
 
 | # | Tamil title | Frozen Tamil blob | English title | Verified English blob |
 |---:|---|---|---|---|
-| 1 | `பிறையே` | `5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c` | **O Crescent!** | `1d07e03ba84353b2da7c0a344d6ae61c3223caf0` |
-| 2 | `ஆடிக்காற்று` | `bc0133b4c7d65a4976e22f514405f4edf9dab3ba` | **Aadi Wind** | `e93c9ad4d37c81f5bea9decfddd9274469428e52` |
-| 3 | `கருப்புப் பெண்` | `83d5a163a94636df59e3e2b5c587ee4f1e4420ca` | **Black Woman** | `de2296d28841cb0643d979cf36cbbe7dc2e9ea9f` |
-| 4 | `கடலே` | `703c95c656f8b7ff2536765fd8a8e04a0dac42e2` | **O Sea!** | `e0f1f5dbf2caf125584134665a3284582d09ae20` |
-| 5 | `ஆறு` | `c721c64678f1b9c715e9c22e6cbc99ffdfd10b23` | **River** | `584b98a34a78d32d53b895e16422fa63c8f66af1` |
-| 6 | `வாழிய வைகறை` | `ad42510f051c48bba896a2c6d20c0994e120b762` | **Hail the Dawn!** | `0c2c529cc0f72a522c8c11852e5ba14a88a89f95` |
-| 7 | `அகப்பை சித்தர்` | `9b092fc67bb2bf2cb94df94e31abfabf5067b149` | **The Ladle Siddhar** | `cdf0a9aef9edb2c77a7d32382c66aaddb8e6868b` |
-| 8 | `மலையே வாழி` | `bcd00b14b0fd8810acba3195759abf7c66c310f6` | **Hail, Mountain!** | `2417a5aa1daa4154445c4229d79413a0fa830a76` |
-| 9 | `தளிர்` | `a67fc770ac6416d39d92efbe4d111c2d95ea2cb6` | **Tender Shoot** | `74e3bc25b4a48d3a2b1b79c37cbf8ec00c3e5be8` |
-| 10 | `விண்மீன்` | `4528ec19f5efe1d7ffb68064d2b016801f2941ca` | **Star** | `2a57db76a77edff3372434a6b52e9edabb0d56fe` |
-| 11 | `தனிமை` | `e6aa86d8f1f01cc5cb536fb601e8908053a5d078` | **Solitude** | `21357b316923e311a4dd234ee550dcecbf95e035` |
-| 12 | `நாடக மேடை` | `8c9f14ced50e28ce620cd6d1ff31d3a69ee21b3a` | **The Stage** | `36f38f510204fa9292058ae98624a1eca1cb624d` |
-| 13 | `புகழ்` | `ff4bbf7aae731741239a09aa5612d55f944c275a` | **Fame** | `beb8d5629d75ece3095d2f7e1108147d169306d1` |
-| 14 | `பச்சைக்கிளி` | `41195b3b9fcf54ddc5f3df041479ca4ca91fcd0f` | **Green Parrot** | `016cb942d8008959c1941cf9ac3c4f01adace78d` |
-| 15 | `தமிழே` | `907600b23474c7a7a4376fc6dac2dc0083d5178f` | **O Tamil!** | `9545a62a2f152173a65f0aa0903a105adfd8943c` |
-| 16 | `தேனலைகள்` | `72ccb3b32df2df70ad9949caddd2b773b70705a6` | **Honey Waves** | `ad18f1b34782d96164a2d9faa5b2402b0ffa4c00` |
-| 17 | `தோழி` | `a51eb1efe05152c22c4395e8a84725df197c48b6` | **Friend** | `3f1bcc85fc85c54efb6fec6e28e3277b8304d166` |
-| 18 | `மருதாணி` | `83d3f1ffc24edc85e2b3935d6d7f87f67258a9b6` | **Henna** | `5b02e665a8b05b395c1d16927e74ca70306d5da6` |
+| 19 | `அருவி` | `4c8cf8c296bab2fa08583efc7178eb4cc5310df6` | **Waterfall** | `ea8fc9a11f6420c95dcfbf64e2e31d1af18d9275` |
+| 20 | `முறம்` | `94cb40674f515520dde75b20de55b5558c2bd5ed` | **Winnowing Tray** | `c8989508e445b99f396e9da0b844cdfa65d46efc` |
+| 21 | `யாழ்` | `bf2eea3e6f00893499f209ac631f60d2a4256d5f` | **Yaazh** | `780c6b09d7a008eb197bdf5feacd4f0975b7ca8a` |
+| 22 | `சிற்பி` | `9319a924fc172d0b80107c8c4c18157ffee67b30` | **The Sculptor** | `84a175942d395689c4c517eff69300adedffe740` |
 
-## E3 review result
+E4 review result: T0–T5 **4/4 PASS**; T2 material corrections **3**; additional T3 correction **1**; T4 body corrections **0**; unresolved defects **0**. `LEXICON.md` contains **117** decisions through Article 22.
 
-- T0: **7 / 7 PASS**;
-- T1: **7 / 7 complete**;
-- T2: **7 / 7 PASS**, **5 material corrections**;
-- T3: **7 / 7 PASS**, extra body corrections **0**;
-- T4: **7 / 7 PASS**, extra body corrections **0**;
-- T5: **7 / 7 verified**;
-- omissions / added claims / unresolved source or terminology blockers: **0**;
-- frozen Tamil edits: **0**.
-
-The five T2 corrections and every E3 T1/T2/T5 blob are preserved in `translations/en/TRANSLATION_REVIEW.md`. The living lexicon contains **92** source-derived publication decisions through Article 18.
-
-## Pending source matrix — Articles 19–26
+## Pending source matrix — Articles 23–26
 
 | # | Tamil title | Tamil file | Scans | Printed pp. | Frozen blob |
 |---:|---|---|---:|---:|---|
-| 19 | `அருவி` | `articles/19-aruvi.md` | 85–90 | 84–89 | `4c8cf8c296bab2fa08583efc7178eb4cc5310df6` |
-| 20 | `முறம்` | `articles/20-muram.md` | 91–95 | 90–94 | `94cb40674f515520dde75b20de55b5558c2bd5ed` |
-| 21 | `யாழ்` | `articles/21-yaazh.md` | 96–102 | 95–101 | `bf2eea3e6f00893499f209ac631f60d2a4256d5f` |
-| 22 | `சிற்பி` | `articles/22-sirpi.md` | 103–114 | 102–113 | `9319a924fc172d0b80107c8c4c18157ffee67b30` |
 | 23 | `சேவல் சண்டை` | `articles/23-seval-sandai.md` | 115–122 | 114–121 | `f489330920217021f2e3258ec7ddf8f260b171be` |
 | 24 | `மடல்` | `articles/24-madal.md` | 123–128 | 122–127 | `9f8560b39ccbd6055f70398111e048b4ac49a9f3` |
 | 25 | `ஆண்டு விழா` | `articles/25-aandu-vizha.md` | 129–135 | 128–134 | `3e10a5db4c9726dc19113cb8375d6c6ecb218c52` |
 | 26 | `மயிலிறகு` | `articles/26-mayiliragu.md` | 136–145 | 135–144 | `15906fcda69226b4fb42f73a8b242837a831e6c3` |
 
+Articles 1–22 remain verified under their recorded final blobs in the English tracker/review ledger.
+
 ## Phase sequence
 
-- E0 — **COMPLETE / PASS**
-- E1 — **COMPLETE / PASS**
-- E2 — **COMPLETE / PASS**
-- E3 — **COMPLETE / PASS**
-- E4 Articles 19–22 — **NEXT**
-- E5 Articles 23–26 — pending
+- E0–E4 — **COMPLETE / PASS**
+- E5 Articles 23–26 — **NEXT**
 - E6 publication-wide consistency — pending
 - E7 release closeout — pending
 
 ## Exact next activity
 
-**E4 — Articles 19–22 (`அருவி`, `முறம்`, `யாழ்`, `சிற்பி`).** Fetch all four from live `main`, confirm their frozen blobs before T0, then take each independently through **T0→T5**, update the living lexicon/review ledger, and do not modify frozen Tamil.
+**E5 — Articles 23–26 (`சேவல் சண்டை`, `மடல்`, `ஆண்டு விழா`, `மயிலிறகு`).** Fetch each from live `main`, match its frozen blob before T0, then take each independently through **T0→T5**. After all 26 reach T5, run E6 publication-wide consistency; do not modify frozen Tamil.
