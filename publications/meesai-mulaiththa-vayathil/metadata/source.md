@@ -60,18 +60,18 @@ Formal gate: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 - physical scans strict-reviewed: **146 / 146**;
 - contiguous strict-reviewed range: **1–146**;
-- cumulative corrections: **198**;
-- corrections propagated to canonical page records: **198 / 198**;
+- cumulative corrections: **207**;
+- corrections propagated to canonical page records: **207 / 207**;
 - P3 assemblies corrected/re-synchronized during P4: **20 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans: **0**;
 - mapping / unit-boundary changes: **0**.
 
-P4 batch corrections, scans 001–146: **2, 4, 35, 43, 46, 2, 2, 5, 3, 15, 12, 11, 8, 10, 0**.
+P4 batch corrections, scans 001–146: **2, 4, 35, 43, 46, 2, 2, 5, 3, 15, 12, 11, 8, 10, 9**.
 
-The final P4 remainder, scans **141–146**, matched the controlling pixels without textual correction. Scans 141–145 close `மயிலிறகு`; scan 146 remains the separate illustrated back-cover/promotional witness. `articles/26-mayiliragu.md` required no final-batch change.
+The final P4 remainder, scans **141–146**, required **9** direct-source corrections: seven question-mark spacing corrections across scans 142–144, plus two independent back-cover corrections on scan 146 — source-visible quoted-title punctuation `‘மீசை முளைத்த வயதில்’` and `வாசித்தலும்`. The seven main-work corrections were propagated to `articles/26-mayiliragu.md`; scan 146 remains the separate illustrated back-cover/promotional witness.
 
-Detailed P4 provenance through correction 157 is preserved in `VISUAL_TEXT_FIDELITY_REVIEW_THROUGH_100.md`; corrections 158–198 and the final P4 gate are recorded in `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+Detailed P4 provenance through correction 157 is preserved in `VISUAL_TEXT_FIDELITY_REVIEW_THROUGH_100.md`; corrections 158–207 and the final P4 gate are recorded in `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 ## Physical-copy / scan condition
 
