@@ -57,7 +57,7 @@ P4 source corrections are propagated into P3 assemblies whenever they affect mai
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-Current strict-reviewed range: **scans 1–90 / 90 of 146**.
+Current strict-reviewed range: **scans 1–100 / 100 of 146**.
 
 - P4-001-010: **PASS — 2 corrections**;
 - P4-011-020: **PASS — 4 corrections**;
@@ -68,15 +68,18 @@ Current strict-reviewed range: **scans 1–90 / 90 of 146**.
 - P4-061-070: **PASS — 2 corrections**;
 - P4-071-080: **PASS — 5 corrections**;
 - P4-081-090: **PASS — 3 corrections**;
-- cumulative corrections: **142**;
-- corrections propagated to canonical page records: **142 / 142**;
-- P3 assemblies corrected/re-synchronized: **13 distinct assemblies**;
+- P4-091-100: **PASS — 15 corrections**;
+- cumulative corrections: **157**;
+- corrections propagated to canonical page records: **157 / 157**;
+- P3 assemblies corrected/re-synchronized: **15 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
 P4-071-080 closed `தேனலைகள்` on scan 71, fully reconciled `தோழி` on scans 72–77, and reviewed the first three pages of `மருதாணி` on scans 78–80. Five source corrections were applied and propagated to `articles/17-thozhi.md` and `articles/18-maruthaani.md`.
 
 P4-081-090 finished `மருதாணி` on scans 81–84 and fully reviewed `அருவி` on scans 85–90. Three source corrections were required, all in `மருதாணி`: scan 82 `இரவாய் சுருங்குவதெப்போதென` → `இரவாய்ச் சுருங்குவதெப்போதென`; scan 83 `கலையுமோ?...` → `கலையுமோ ?...` and `மருதாணி பெரிதோ?...` → `மருதாணி பெரிதோ ?...`. `articles/18-maruthaani.md` was re-synchronized. Scans 81 and 84–90 required no textual correction; `அருவி` passed **6 / 6** unchanged.
+
+P4-091-100 fully reconciled `முறம்` on scans 91–95 and reviewed `யாழ்` scans 96–100. Fifteen direct-source corrections were applied, including scan 91 `புன்னகையால் கொண்டு` → `புன்னகையால் கொன்று`, scan 95 `முத்தமிட்டான்` → `முத்தமிட்டாள்`, scan 98 `முப்பாவின் இறுதிப்பால்` → `முப்பாலின் இறுதிப்பால்`, and source-visible question-mark spacing corrections. `articles/20-muram.md` and `articles/21-yaazh.md` were re-synchronized. Scans 92, 96 and 100 required no textual correction; `யாழ்` continues through scan 102.
 
 Unit boundaries and printed-page mapping remain unchanged.
 
@@ -94,13 +97,13 @@ Unit boundaries and printed-page mapping remain unchanged.
 - P1: **COMPLETE / PASS**
 - P2: **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3: **COMPLETE / PASS — 26 / 26 assemblies**
-- P4: **IN PROGRESS — 90 / 146 strict-reviewed**
+- P4: **IN PROGRESS — 100 / 146 strict-reviewed**
 - P5: **NOT STARTED**
 - English: **BLOCKED until Tamil P5 freeze**
 - active P4 blockers: **0**
 
 ## Exact next activity
 
-**P4 scans 91–100.** Strict-review all of `முறம்` on scans 91–95 / pp.90–94 and the opening five pages of `யாழ்` on scans 96–100 / pp.95–99; `யாழ்` continues through scan 102. Re-inspect every visible word, word boundary and punctuation mark directly against the controlling source and propagate any corrections before advancing the checkpoint.
+**P4 scans 101–110.** Finish `யாழ்` on scans 101–102 / pp.100–101 and begin `சிற்பி` on scans 103–110 / pp.102–109; `சிற்பி` continues beyond scan 110. Re-inspect every visible word, word boundary and punctuation mark directly against the controlling source and propagate any corrections before advancing the checkpoint.
 
 Do not begin English translation until the Tamil archival workflow reaches P5 freeze.
