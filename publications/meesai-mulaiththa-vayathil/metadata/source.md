@@ -48,19 +48,39 @@ The supplied 2006 scan pixels remain the ultimate source authority. OCR, alterna
 - translation units inventoried: **26 / 26**;
 - frozen per-article blob provenance recorded: **26 / 26**;
 - translation plan / tracker / lexicon / review ledger initialized;
-- E0 blockers: **0**.
+- blockers: **0**.
 
 ### E1 — Article 1 `பிறையே` — COMPLETE / PASS
 
-- Tamil source assembly: `articles/01-piraiye.md`;
-- frozen/live Tamil blob: **`5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`**;
-- scans: **18–20 / printed pp.17–19**;
-- English file: `translations/en/01-piraiye.md`;
+- Tamil blob: `5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`;
 - English title: **O Crescent!**;
-- final English blob: **`1d07e03ba84353b2da7c0a344d6ae61c3223caf0`**;
-- gate state: **T0–T5 PASS / verified**;
-- frozen Tamil changes during E1: **0**;
-- unresolved English blockers: **0**.
+- verified English blob: `1d07e03ba84353b2da7c0a344d6ae61c3223caf0`;
+- gate state: **T0–T5 PASS / verified**.
+
+### E2 — Articles 2–11 — COMPLETE / PASS
+
+All ten E2 articles were re-fetched from live `main`, matched their frozen P5 Tamil blobs, and independently passed T0–T5.
+
+- English body files through Article 11: **11 / 26**;
+- T0/T1/T2/T3/T4/T5 passed: **11 / 26 at each gate**;
+- E2 material T2 body corrections: **5**;
+- E2 additional T3 corrections: **0**;
+- E2 additional T4 corrections: **0**;
+- unresolved English blockers: **0**;
+- frozen Tamil changes during E0–E2: **0**.
+
+Final E2 English blobs:
+
+- Article 2 `ஆடிக்காற்று` — `e93c9ad4d37c81f5bea9decfddd9274469428e52`;
+- Article 3 `கருப்புப் பெண்` — `de2296d28841cb0643d979cf36cbbe7dc2e9ea9f`;
+- Article 4 `கடலே` — `e0f1f5dbf2caf125584134665a3284582d09ae20`;
+- Article 5 `ஆறு` — `584b98a34a78d32d53b895e16422fa63c8f66af1`;
+- Article 6 `வாழிய வைகறை` — `0c2c529cc0f72a522c8c11852e5ba14a88a89f95`;
+- Article 7 `அகப்பை சித்தர்` — `cdf0a9aef9edb2c77a7d32382c66aaddb8e6868b`;
+- Article 8 `மலையே வாழி` — `2417a5aa1daa4154445c4229d79413a0fa830a76`;
+- Article 9 `தளிர்` — `74e3bc25b4a48d3a2b1b79c37cbf8ec00c3e5be8`;
+- Article 10 `விண்மீன்` — `2a57db76a77edff3372434a6b52e9edabb0d56fe`;
+- Article 11 `தனிமை` — `21357b316923e311a4dd234ee550dcecbf95e035`.
 
 For all English work, the strict-reviewed article assembly is primary authority. Page records / controlling scans are consulted only for source-level clarification.
 
@@ -77,11 +97,12 @@ For all English work, the strict-reviewed article assembly is primary authority.
 - P0–P5 — **COMPLETE / PASS — TAMIL FROZEN**
 - English E0 — **COMPLETE / PASS**
 - English E1 — **COMPLETE / PASS**
-- English T5 verified — **1 / 26**
-- E2 — **NEXT**
+- English E2 — **COMPLETE / PASS**
+- English T5 verified — **11 / 26**
+- E3 — **NEXT**
 - active Tamil/source blockers — **0**
 - active English blockers — **0**
 
 ## Exact next activity
 
-**E2 — Articles 2–11 (`ஆடிக்காற்று` through `தனிமை`).** Process all ten in source order, each independently through T0–T5, without modifying frozen Tamil.
+**E3 — Articles 12–18 (`நாடக மேடை` through `மருதாணி`).** Confirm each frozen Tamil blob on live `main`, then process all seven independently through T0–T5 without modifying frozen Tamil.
