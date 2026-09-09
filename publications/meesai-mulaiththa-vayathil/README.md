@@ -68,19 +68,19 @@ All **146 / 146 physical scans** have now passed the separate strict word-by-wor
 | P4-111-120 | 11 |
 | P4-121-130 | 8 |
 | P4-131-140 | 10 |
-| P4-141-146 | 0 |
+| P4-141-146 | 9 |
 
 Final P4 totals:
 
 - strict-reviewed physical scans: **146 / 146**;
-- cumulative corrections: **198**;
-- corrections propagated to canonical page records: **198 / 198**;
+- cumulative corrections: **207**;
+- corrections propagated to canonical page records: **207 / 207**;
 - P3 assemblies corrected/re-synchronized during P4: **20 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans: **0**;
 - mapping / unit-boundary changes: **0**.
 
-P4-141-146 finished `மயிலிறகு` on scans 141–145 / pp.140–144 and separately reviewed scan 146 back-cover promotional text. All six records matched the controlling pixels without textual correction. `articles/26-mayiliragu.md` therefore required no final-batch change and remains synchronized.
+P4-141-146 finished `மயிலிறகு` on scans 141–145 / pp.140–144 and separately reviewed scan 146 back-cover promotional text. Nine source-visible corrections were required: three question-mark spacing corrections on scan 142, one on scan 143, three on scan 144, plus two independent back-cover corrections on scan 146 (`‘மீசை முளைத்த வயதில்’` quotation punctuation and `வாசித்தலும்`). The seven main-work corrections were propagated into `articles/26-mayiliragu.md`; scans 141 and 145 required no textual correction.
 
 ## Source identity
 
