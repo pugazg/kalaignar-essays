@@ -86,8 +86,8 @@ The article files under `articles/` retain the frozen P1/P2 source titles and pa
 
 Running gate report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- physical scans strict-reviewed: **10 / 146**;
-- contiguous strict-reviewed range: **1–10**;
+- physical scans strict-reviewed: **20 / 146**;
+- contiguous strict-reviewed range: **1–20**;
 - corrections found: **2**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
@@ -97,7 +97,9 @@ Direct P4 corrections so far:
 - scan 5: `கூறிய` → **`கூரிய`**;
 - scan 8: `மூத்தோர்` → **`முதியோர்`**.
 
-Both are front-matter corrections and do not alter P1 mapping or P3 main-work assemblies. Scan 3's stamp-obscured publisher-address region remains explicitly unreconstructed.
+Batch scans 11–20 required **0 new corrections**. The remaining `முன்னுரை` pages, blank/show-through scan 17, and Unit 1 `பிறையே` scans 18–20 / pp.17–19 all reconcile with the canonical records. No P3 article propagation was required.
+
+Both cumulative corrections are front-matter corrections and do not alter P1 mapping or P3 main-work assemblies. Scan 3's stamp-obscured publisher-address region remains explicitly unreconstructed.
 
 ## Physical-copy / scan condition
 
@@ -113,13 +115,13 @@ Both are front-matter corrections and do not alter P1 mapping or P3 main-work as
 - P1 — **COMPLETE / PASS**
 - P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**
-- P4 — **IN PROGRESS — 10 / 146 strict-reviewed**
+- P4 — **IN PROGRESS — 20 / 146 strict-reviewed**
 - P5 — **NOT STARTED**
 - English translation — **BLOCKED until Tamil P5 freeze**
 - active P4 blockers — **0**
 
 ## Exact next activity
 
-**P4 scans 11–20.** Re-inspect all ten scans directly against the canonical records, word-by-word and punctuation-by-punctuation. Record old reading → source-visible reading provenance for each correction and propagate any dependent changes before advancing the P4 report.
+**P4 scans 21–30.** Re-inspect all ten scans directly against the canonical records, word-by-word and punctuation-by-punctuation. Record old reading → source-visible reading provenance for each correction and propagate any dependent changes before advancing the P4 report.
 
 Do not begin English translation.
