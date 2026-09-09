@@ -31,7 +31,7 @@ Released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
 Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mulaiththa-vayathil/)
 
-**P0–P1 COMPLETE / PASS — P2 IN PROGRESS: 130 / 146 VERIFIED.**
+**P0–P2 COMPLETE / PASS — P2 closed at 146 / 146 VERIFIED. P3 NOT STARTED.**
 
 - controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
 - source SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
@@ -47,46 +47,33 @@ P1 remains **146 / 146 scans**, **26 / 26 source-titled units**. Permanent corre
 - `தளிர்` — scan 42 / p.41;
 - `மயிலிறகு` — scan 136 / p.135.
 
-P2 durable progress:
+P2 final state:
 
-- scans **1–130: 130 / 130 VERIFIED**;
-- `என்னுரை`: **3 / 3 VERIFIED / COMPLETE**;
-- `முன்னுரை`: **10 / 10 VERIFIED / COMPLETE**;
-- scan 17: **verified blank / reverse-side show-through**;
-- Units **1–24 through `மடல்` COMPLETE** at the P2 page layer;
-- Unit 23 `சேவல் சண்டை`: scans **115–122 / pp.114–121 — 8 / 8 VERIFIED / COMPLETE**;
-- Unit 24 `மடல்`: scans **123–128 / pp.122–127 — 6 / 6 VERIFIED / COMPLETE**;
-- Unit 25 `ஆண்டு விழா`: scans **129–130 / pp.128–129 — 2 / 7 VERIFIED**, continuing through scan 135 / p.134;
-- complete main-work units: **24 / 26**;
-- unresolved printed prose blocks in verified scans: **0**;
+- scans **1–146: 146 / 146 VERIFIED**;
+- canonical page records present: **146 / 146**;
+- missing canonical records: **0**;
+- all **26 / 26** source-titled units complete at P2 page layer;
+- Unit 25 `ஆண்டு விழா`: scans **129–135 / pp.128–134 — 7 / 7 VERIFIED / COMPLETE**;
+- Unit 26 `மயிலிறகு`: scans **136–145 / pp.135–144 — 10 / 10 VERIFIED / COMPLETE**;
+- scan 146 back cover / promotional text: **VERIFIED**;
+- unresolved printed-text blocks: **0**;
 - P2 blockers: **0**;
 - P3 assemblies: **NOT STARTED**.
 
-The scan-121–130 batch directly closed `சேவல் சண்டை` at scan 122, completed `மடல்` at scan 128, and opened `ஆண்டு விழா` at scan 129. Direct-source corrections in the reviewed branch include scan 124 `பறித்துச்`, scan 126 `திங்களோ காணீர்!`, and scan 130 `திங்களியே!`. Supplied 2006 scan pixels remained controlling; OCR and secondary-edition wording were not used as authority.
+Final P2 batch records:
 
-Batch records now include:
+- `P2_BATCH_131_140.md`
+- `P2_BATCH_141_146.md`
 
-- `P2_BATCH_001_010.md`
-- `P2_BATCH_011_020.md`
-- `P2_BATCH_021_030.md`
-- `P2_BATCH_031_040.md`
-- `P2_BATCH_041_050.md`
-- `P2_BATCH_051_060.md`
-- `P2_BATCH_061_070.md`
-- `P2_BATCH_071_080.md`
-- `P2_BATCH_081_090.md`
-- `P2_BATCH_091_100.md`
-- `P2_BATCH_101_110.md`
-- `P2_BATCH_111_120.md`
-- `P2_BATCH_121_130.md`
+The supplied 2006 scan pixels remained controlling; OCR and secondary-edition wording were not used as authority.
 
 English remains **BLOCKED until Tamil P5 freeze**.
 
 ## Current repository boundary
 
-Publication 10 P2 is **IN PROGRESS — 130 / 146 VERIFIED**, contiguous through scan 130, with **24 / 26** main-work units complete and blockers **0**.
+Publication 10 P2 is **COMPLETE / PASS — 146 / 146 VERIFIED** with **26 / 26** main-work units complete and blockers **0**.
 
-Exact next activity: **P2 scans 131–140 only**. Scans 131–135 / pp.130–134 continue and close Unit 25 `ஆண்டு விழா`; scans 136–140 / pp.135–139 begin Unit 26 `மயிலிறகு`, which continues through scan 145 / p.144. Preserve the permanent scan-136 title reading `மயிலிறகு`. Stop after scan 140; do not begin P3 assemblies or English translation unless separately authorised.
+Exact next activity: **P3 article/unit assembly** from the fully verified canonical page records. Preserve source wording and page-boundary provenance. Do not begin English translation.
 
 ### Permanent `உடன்பிறப்பே` rule
 
