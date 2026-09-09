@@ -48,7 +48,7 @@ Formal gate: `P3_ASSEMBLY_AUDIT.md`.
 
 ## P4 — final strict visual text-fidelity pass
 
-**RESULT: IN PROGRESS — 90 / 146 PHYSICAL SCANS STRICT-REVIEWED**
+**RESULT: IN PROGRESS — 100 / 146 PHYSICAL SCANS STRICT-REVIEWED**
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
@@ -62,7 +62,8 @@ Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 - P4-051-060 — **PASS; 2 corrections; 0 unresolved**;
 - P4-061-070 — **PASS; 2 corrections; 0 unresolved**;
 - P4-071-080 — **PASS; 5 corrections; 0 unresolved**;
-- P4-081-090 — **PASS; 3 corrections; 0 unresolved**.
+- P4-081-090 — **PASS; 3 corrections; 0 unresolved**;
+- P4-091-100 — **PASS; 15 corrections; 0 unresolved**.
 
 ### P4-071-080 findings
 
@@ -81,19 +82,28 @@ Three direct-source corrections were required, all in `மருதாணி`, a
 - scan 83 `கலையுமோ?...` → **`கலையுமோ ?...`**;
 - scan 83 `மருதாணி பெரிதோ?...` → **`மருதாணி பெரிதோ ?...`**.
 
-Scans 81 and 84–90 required no textual correction. `அருவி` passed **6 / 6** with no P4 text change. Because `18-maruthaani.md` was already among the corrected assemblies, the cumulative distinct assembly count remains **13**. No source title, page span, printed folio mapping or unit boundary changed.
+Scans 81 and 84–90 required no textual correction. `அருவி` passed **6 / 6** with no P4 text change. Because `18-maruthaani.md` was already among the corrected assemblies, the cumulative distinct assembly count remained **13**. No source title, page span, printed folio mapping or unit boundary changed.
+
+### P4-091-100 findings
+
+Scans 91–100 cover:
+
+- Unit 20 `முறம்` — scans 91–95 / pp.90–94, complete unit;
+- Unit 21 `யாழ்` — scans 96–100 / pp.95–99, with the unit continuing through scan 102.
+
+Fifteen direct-source corrections were applied to canonical page records and propagated to `articles/20-muram.md` and `articles/21-yaazh.md`. Key lexical corrections are scan 91 `புன்னகையால் கொண்டு` → **`புன்னகையால் கொன்று`**, scan 95 `முத்தமிட்டான்` → **`முத்தமிட்டாள்`**, and scan 98 `முப்பாவின் இறுதிப்பால்` → **`முப்பாலின் இறுதிப்பால்`**; the remainder preserve source-visible question-mark spacing. Scans 92, 96 and 100 required no textual correction. The cumulative distinct corrected/re-synchronized assembly count is now **15**. No source title, page span, printed folio mapping or unit boundary changed.
 
 Current P4 totals:
 
-- strict-reviewed physical scans: **90 / 146**;
-- contiguous strict-reviewed range: **1–90**;
-- cumulative corrections: **142**;
-- corrections propagated to canonical page records: **142 / 142**;
-- P3 assemblies corrected/re-synchronized: **13 distinct assemblies**;
+- strict-reviewed physical scans: **100 / 146**;
+- contiguous strict-reviewed range: **1–100**;
+- cumulative corrections: **157**;
+- corrections propagated to canonical page records: **157 / 157**;
+- P3 assemblies corrected/re-synchronized: **15 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
-P4 remains OPEN. Next batch: **scans 91–100**.
+P4 remains OPEN. Next batch: **scans 101–110**.
 
 ## Gate tracker
 
@@ -103,7 +113,7 @@ P4 remains OPEN. Next batch: **scans 91–100**.
 | P1 | **COMPLETE / PASS** |
 | P2 | **COMPLETE / PASS — 146 / 146 VERIFIED** |
 | P3 | **COMPLETE / PASS — 26 / 26 assemblies** |
-| P4 | **IN PROGRESS — 90 / 146 strict-reviewed** |
+| P4 | **IN PROGRESS — 100 / 146 strict-reviewed** |
 | P5 | **NOT STARTED** |
 | English | **BLOCKED until Tamil P5 freeze** |
 
@@ -111,6 +121,6 @@ Active P4 blockers: **0**.
 
 ## Exact next activity
 
-**P4 scans 91–100.** Review all of `முறம்` on scans 91–95 / pp.90–94 and the opening five pages of `யாழ்` on scans 96–100 / pp.95–99. `யாழ்` continues through scan 102. Compare every visible word, word boundary and punctuation mark directly with the controlling source, propagate all proven corrections, and advance the report only after the full batch reconciles.
+**P4 scans 101–110.** Finish `யாழ்` on scans 101–102 / pp.100–101 and begin `சிற்பி` on scans 103–110 / pp.102–109; `சிற்பி` continues beyond scan 110. Compare every visible word, word boundary and punctuation mark directly with the controlling source, propagate all proven corrections, and advance the report only after the full batch reconciles.
 
 Do not begin English translation.
