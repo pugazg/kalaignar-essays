@@ -203,14 +203,14 @@ Formal gate: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 - physical scans strict-reviewed: **146 / 146**;
 - contiguous reviewed range: **1–146**;
-- cumulative corrections: **198**;
-- corrections propagated: **198 / 198**;
+- cumulative corrections: **207**;
+- corrections propagated: **207 / 207**;
 - P3 assemblies corrected/re-synchronized during P4: **20 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans: **0**;
 - P4 mapping/boundary changes: **0**.
 
-P4-141-146 produced **0** corrections. Scans 141–145 finish `மயிலிறகு`; scan 146 is the separate illustrated back-cover / promotional witness. All six records matched the controlling pixels, and no source title, scan span, printed-page mapping or unit boundary changed.
+P4-141-146 produced **9** corrections: seven question-mark spacing corrections in `மயிலிறகு` scans 142–144, propagated to `articles/26-mayiliragu.md`, and two independent scan-146 back-cover corrections (`‘மீசை முளைத்த வயதில்’` quotation punctuation and `வாசித்தலும்`). No source title, scan span, printed-page mapping or unit boundary changed.
 
 ## Exact next activity
 
