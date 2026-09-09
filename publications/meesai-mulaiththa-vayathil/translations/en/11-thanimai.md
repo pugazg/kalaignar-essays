@@ -66,7 +66,7 @@ Woman: You said the drink from my lips defeated
 
 <!-- Tamil source: scan 51 / printed 50 -->
 
-Man: Have you come to a bedchamber, you blind-eyed woman!  
+Man: Have you come to a bedchamber, you woman whose eyes have fallen out!  
      Look properly! Is this a bedchamber?  
      It is the guard-room of a prison!
 
