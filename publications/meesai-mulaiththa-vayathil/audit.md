@@ -43,15 +43,6 @@ Permanent title corrections remain:
 
 Completed batch records run through `P2_BATCH_141_146.md`.
 
-### Final batch sequence
-
-- `P2_BATCH_131_140.md` — scans 131–140: **10 / 10 VERIFIED**;
-  - closes Unit 25 `ஆண்டு விழா` on scan 135 / p.134;
-  - opens Unit 26 `மயிலிறகு` on scan 136 / p.135 and verifies it through scan 140 / p.139.
-- `P2_BATCH_141_146.md` — scans 141–146: **6 / 6 VERIFIED**;
-  - closes Unit 26 `மயிலிறகு` on scan 145 / p.144 with the final bullet `●`;
-  - verifies the unnumbered printed back cover on scan 146.
-
 ### Final P2 gate
 
 - canonical page records: **146 / 146 VERIFIED**;
@@ -61,8 +52,6 @@ Completed batch records run through `P2_BATCH_141_146.md`.
 - `முன்னுரை`: **10 / 10 COMPLETE**;
 - blank scan 17: **VERIFIED**;
 - complete source-titled main-work units: **26 / 26**;
-- Unit 25 `ஆண்டு விழா`: scans **129–135 / pp.128–134 — 7 / 7 COMPLETE**;
-- Unit 26 `மயிலிறகு`: scans **136–145 / pp.135–144 — 10 / 10 COMPLETE**;
 - scan 146 back cover: **VERIFIED**;
 - unresolved printed-text blocks: **0**;
 - active P2 blockers: **0**.
@@ -71,7 +60,34 @@ The supplied 2006 source pixels remained authority throughout. OCR was not autho
 
 Earlier durable findings remain non-regressed, including scan 32 **`அரசு`**, the direct scan-47 `விண்மீன்` review, corrected scan-70 **`உயர் தமிழன்`**, and the permanent P1 title corrections.
 
-**P3 assembly remains NOT STARTED.**
+---
+
+## P3 — article/unit assembly
+
+**RESULT: PASS / COMPLETE — 26 / 26 ASSEMBLIES**
+
+Formal gate record: `P3_ASSEMBLY_AUDIT.md`.
+
+### Final P3 gate
+
+- expected source-titled assemblies: **26**;
+- live assemblies: **26 / 26**;
+- missing assemblies: **0**;
+- unexpected extra assemblies: **0**;
+- numbering/order: **01–26 contiguous**;
+- canonical main-work page coverage: **128 / 128**;
+- source scan coverage: **18–145 contiguous**;
+- printed folio coverage: **17–144 contiguous**;
+- assembly boundary gaps: **0**;
+- assembly boundary overlaps: **0**;
+- all assembly front matter matches frozen P1/P2 source title, scan span and printed-page span;
+- all assemblies declare `status: "source-complete"`;
+- all assemblies declare mechanical construction from verified canonical page records;
+- unresolved assembly body-text blocks: **0**.
+
+The assembly operation preserved the verified canonical source layer rather than retranscribing or normalizing it. Page-boundary provenance is retained. Physical-copy notes and P2 audit commentary remain outside source article body text.
+
+P3 closure is **not** a claim that the separate final strict visual-text-fidelity pass has been completed.
 
 ---
 
@@ -82,7 +98,7 @@ Earlier durable findings remain non-regressed, including scan 32 **`அரசு
 | P0 | **COMPLETE / PASS** |
 | P1 | **COMPLETE / PASS** |
 | P2 | **COMPLETE / PASS — 146 / 146 VERIFIED** |
-| P3 | **NOT STARTED** |
+| P3 | **COMPLETE / PASS — 26 / 26 assemblies** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
 | English | **BLOCKED until Tamil P5 freeze** |
@@ -91,4 +107,6 @@ Active blockers: **0**.
 
 ## Exact next activity
 
-**P3 article/unit assembly.** Assemble the 26 source-titled units from the verified canonical page records, preserving source wording and page-boundary provenance. Do not begin English translation.
+**P4 — final strict visual text-fidelity pass.** Re-inspect all 146 physical scans directly, word-by-word and punctuation-by-punctuation, record old reading → source-visible reading provenance for every correction, propagate corrections to dependent assemblies/indexes/status records, and produce `VISUAL_TEXT_FIDELITY_REVIEW.md` before P4 closure.
+
+Do not begin English translation.
