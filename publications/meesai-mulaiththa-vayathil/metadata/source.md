@@ -58,11 +58,11 @@ Formal validation: `P3_ASSEMBLY_AUDIT.md`.
 
 Running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- physical scans strict-reviewed: **60 / 146**;
-- contiguous strict-reviewed range: **1–60**;
-- cumulative corrections: **132**;
-- corrections propagated to canonical page records: **132 / 132**;
-- P3 assemblies corrected/re-synchronized: **10 distinct assemblies**;
+- physical scans strict-reviewed: **90 / 146**;
+- contiguous strict-reviewed range: **1–90**;
+- cumulative corrections: **142**;
+- corrections propagated to canonical page records: **142 / 142**;
+- P3 assemblies corrected/re-synchronized: **13 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
@@ -73,9 +73,16 @@ P4 batch results:
 - scans 21–30: **35 corrections**;
 - scans 31–40: **43 corrections**;
 - scans 41–50: **46 corrections**;
-- scans 51–60: **2 corrections**.
+- scans 51–60: **2 corrections**;
+- scans 61–70: **2 corrections**;
+- scans 71–80: **5 corrections**;
+- scans 81–90: **3 corrections**.
 
-The 51–60 batch finished `தனிமை`, reconciled `நாடக மேடை` and `புகழ்`, and reviewed scans 59–60 of `பச்சைக்கிளி`. Source-visible corrections were limited to scan 52 `கொடுங்களத்தான்` and scan 53 `ஓவியத்தை`; both were propagated into `11-thanimai.md`. The other eight scans required no textual change. Unit boundaries and printed folio mapping did not change; `பச்சைக்கிளி` closes on scan 61.
+P4-061-070 produced two punctuation corrections on scan 69 / `தேனலைகள்`, both propagated to `articles/16-thenalaigal.md`.
+
+P4-071-080 produced five corrections across `தோழி` and `மருதாணி`, propagated to `articles/17-thozhi.md` and `articles/18-maruthaani.md`.
+
+P4-081-090 finished `மருதாணி` and fully reviewed `அருவி`. Three direct-source corrections were required, all in `மருதாணி`: scan 82 `இரவாய் சுருங்குவதெப்போதென` → `இரவாய்ச் சுருங்குவதெப்போதென`; scan 83 `கலையுமோ?...` → `கலையுமோ ?...` and `மருதாணி பெரிதோ?...` → `மருதாணி பெரிதோ ?...`. These were propagated to `articles/18-maruthaani.md`. `அருவி` scans 85–90 passed unchanged. No source-title, scan-span, printed-page mapping or unit-boundary change resulted.
 
 ## Physical-copy / scan condition
 
@@ -91,13 +98,13 @@ The 51–60 batch finished `தனிமை`, reconciled `நாடக மேட
 - P1 — **COMPLETE / PASS**
 - P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**
-- P4 — **IN PROGRESS — 60 / 146 strict-reviewed**
+- P4 — **IN PROGRESS — 90 / 146 strict-reviewed**
 - P5 — **NOT STARTED**
 - English translation — **BLOCKED until Tamil P5 freeze**
 - active P4 blockers — **0**
 
 ## Exact next activity
 
-**P4 scans 61–70.** Close `பச்சைக்கிளி` on scan 61, review single-page `தமிழே` on scan 62, and review `தேனலைகள்` scans 63–70, using only the supplied 2006 pixels as authority. Propagate every proven main-work correction into the dependent P3 assembly before advancing the running report.
+**P4 scans 91–100.** Review all of `முறம்` on scans 91–95 / pp.90–94 and the opening five pages of `யாழ்` on scans 96–100 / pp.95–99; `யாழ்` continues through scan 102. Use only the supplied 2006 pixels as authority and propagate every proven main-work correction into the dependent P3 assembly before advancing the running report.
 
 Do not begin English translation.
