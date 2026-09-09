@@ -35,52 +35,40 @@ Canonical page records cover **all scans 1–146 / 146 of 146 VERIFIED**.
 - all **26 / 26** source-titled main-work units are complete at the P2 page layer;
 - scan 146 back cover / promotional text is verified.
 
-Final source spans include:
+Final source spans include Unit 25 `ஆண்டு விழா` scans **129–135 / pp.128–134**, Unit 26 `மயிலிறகு` scans **136–145 / pp.135–144**, and scan 146 back cover. Completed batch records run through `P2_BATCH_141_146.md`.
 
-- Unit 25 `ஆண்டு விழா`: scans **129–135 / pp.128–134 — 7 / 7 VERIFIED / COMPLETE**;
-- Unit 26 `மயிலிறகு`: scans **136–145 / pp.135–144 — 10 / 10 VERIFIED / COMPLETE**;
-- scan 146: **back cover — VERIFIED**.
-
-Completed batch records run through `P2_BATCH_141_146.md`.
-
-The supplied 2006 scan remained controlling throughout. OCR was not authority; no alternate-edition wording was silently imported. Printed text, illustrations/design, and later physical-copy marks remain separate evidence layers.
-
-Earlier durable corrections/findings remain non-regressed, including scan 32 `அரசு`, the scan-47 `விண்மீன்` review, corrected scan-70 `உயர் தமிழன்`, and the permanent P1 title readings.
+The supplied 2006 scan remains controlling. OCR and alternate witnesses are not authority.
 
 ## P3 article/unit assembly — COMPLETE / PASS
 
-The full source-titled article layer is present under `articles/` and has passed the formal assembly gate recorded in `P3_ASSEMBLY_AUDIT.md`.
+Formal gate: `P3_ASSEMBLY_AUDIT.md`.
 
-- expected assemblies: **26**;
-- live assemblies: **26 / 26**;
-- missing / unexpected assemblies: **0 / 0**;
+- source-titled assemblies: **26 / 26**;
 - canonical main-work pages represented: **128 / 128**;
 - source scan coverage: **18–145 contiguous**;
 - printed folio coverage: **17–144 contiguous**;
+- missing / unexpected assemblies: **0 / 0**;
 - boundary gaps / overlaps: **0 / 0**;
 - unresolved assembly body-text blocks: **0**.
 
-Every assembly retains its frozen source title and P2 source/printed-page span and declares `status: "source-complete"` with mechanical assembly from verified canonical page records. Source wording was not silently normalized; page-boundary provenance is retained.
+P4 source corrections are propagated into P3 assemblies whenever they affect main-work text.
 
 ## P4 strict visual text-fidelity — IN PROGRESS
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-Current strict-reviewed range: **scans 1–20 / 20 of 146**.
+Current strict-reviewed range: **scans 1–30 / 30 of 146**.
 
-- Batch P4-001-010: **PASS after corrective review — 10 / 10; 2 corrections; 0 unresolved fidelity discrepancies**.
-- Batch P4-011-020: **PASS after corrective review — 10 / 10; 4 corrections; 0 unresolved fidelity discrepancies**.
+- P4-001-010: **PASS — 2 corrections**;
+- P4-011-020: **PASS — 4 corrections**;
+- P4-021-030: **PASS — 35 corrections**;
+- cumulative corrections: **41**;
+- corrections propagated to canonical page records: **41 / 41**;
+- P3 assemblies corrected/re-synchronized: **3** — `02-adikkaatru.md`, `03-karuppu-pen.md`, `04-kadale.md`;
+- unresolved fidelity discrepancies: **0**;
+- blocked / needs-review scans in reviewed range: **0**.
 
-Cumulative corrections:
-
-- scan 5 `என்னுரை`: **`கூறிய` → `கூரிய`** in `கூரிய வேல் வாள்`;
-- scan 8 `முன்னுரை`: **`மூத்தோர்` → `முதியோர்`**;
-- scan 12 `முன்னுரை`: **`செயல்படுகிறது.` → `செய்துவிடுகிறது.`**;
-- scan 13 `முன்னுரை`: **`மறக்கவிடவோ` → `மறந்துவிடவோ`**;
-- scan 14 `முன்னுரை`: **`பின்னும்` → `பின்னுறும்`**;
-- scan 14 `முன்னுரை`: **`இணைவாய்` → `இணையாய்`**.
-
-All six are direct controlling-scan corrections and have been propagated to the canonical page records. They affect front matter only, so **0 P3 main-work assemblies** required correction. Scans 18–20 / Unit 1 `பிறையே` were strict-rechecked with **0 corrections**. Scan 3's stamp-obscured imprint segment remains explicitly unreconstructed rather than guessed.
+The 21–30 pass identified several lexical, word-boundary, quotation and punctuation differences between the existing P2 text and the controlling 2006 pixels. The source scan prevailed in every case. Notably, scan 29's prior `சிங்காரச் “செம்படச்சி”` phrase was removed because it is absent from the controlling scan.
 
 ## Source identity
 
@@ -96,15 +84,13 @@ All six are direct controlling-scan corrections and have been propagated to the 
 - P1: **COMPLETE / PASS**
 - P2: **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3: **COMPLETE / PASS — 26 / 26 assemblies**
-- P4: **IN PROGRESS — 20 / 146 strict-reviewed**
+- P4: **IN PROGRESS — 30 / 146 strict-reviewed**
 - P5: **NOT STARTED**
 - English: **BLOCKED until Tamil P5 freeze**
 - active P4 blockers: **0**
 
 ## Exact next activity
 
-**P4 scans 21–30.**
-
-Re-inspect scans 21–30 directly, word-by-word and punctuation-by-punctuation, against their canonical records. Record every source correction with old reading → source-visible reading provenance and propagate any affected dependent records. Do not mark P4 complete until all **146 / 146** physical scans are strict-reviewed.
+**P4 scans 31–40.** Re-inspect them directly word-by-word and punctuation-by-punctuation, record each old reading → source-visible reading, propagate any affected P3 assemblies, and advance the report only after the full batch is reconciled.
 
 Do not begin English translation until the Tamil archival workflow reaches P5 freeze.
