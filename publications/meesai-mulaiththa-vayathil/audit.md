@@ -48,7 +48,7 @@ Formal gate: `P3_ASSEMBLY_AUDIT.md`.
 
 ## P4 — final strict visual text-fidelity pass
 
-**RESULT: IN PROGRESS — 40 / 146 PHYSICAL SCANS STRICT-REVIEWED**
+**RESULT: IN PROGRESS — 50 / 146 PHYSICAL SCANS STRICT-REVIEWED**
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
@@ -57,37 +57,38 @@ Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 - P4-001-010 — **PASS; 2 corrections; 0 unresolved**;
 - P4-011-020 — **PASS; 4 corrections; 0 unresolved**;
 - P4-021-030 — **PASS; 35 corrections; 0 unresolved**;
-- P4-031-040 — **PASS; 43 corrections; 0 unresolved**.
+- P4-031-040 — **PASS; 43 corrections; 0 unresolved**;
+- P4-041-050 — **PASS; 46 corrections; 0 unresolved**.
 
-### P4-031-040 findings
+### P4-041-050 findings
 
-Scans 31–40 cover:
+Scans 41–50 cover:
 
-- Unit 5 `ஆறு` — scans 31–33 / pp.30–32;
-- Unit 6 `வாழிய வைகறை` — scans 34–35 / pp.33–34;
-- Unit 7 `அகப்பை சித்தர்` — scans 36–38 / pp.35–37;
-- Unit 8 `மலையே வாழி` — scans 39–40 / pp.38–39 in this batch; the unit closes on scan 41.
+- Unit 8 `மலையே வாழி` — closing scan 41 / p.40;
+- Unit 9 `தளிர்` — scans 42–45 / pp.41–44;
+- Unit 10 `விண்மீன்` — scans 46–48 / pp.45–47;
+- Unit 11 `தனிமை` — opening scans 49–50 / pp.48–49.
 
-Scan 31 required no textual correction. Scans 32–40 required **43** direct-source corrections, all applied to canonical page records. Four P3 assemblies were re-synchronized in this batch:
+Scan 42 required no textual correction. The remaining nine scans required **46** direct-source corrections, all applied to canonical page records. Four P3 assemblies were re-synchronized in this batch:
 
-- `articles/05-aaru.md`;
-- `articles/06-vaazhiya-vaikarai.md`;
-- `articles/07-agappai-siththar.md`;
-- `articles/08-malaiye-vaazhi.md`.
+- `articles/08-malaiye-vaazhi.md`;
+- `articles/09-thalir.md`;
+- `articles/10-vinmeen.md`;
+- `articles/11-thanimai.md`.
 
-Notable direct-source readings include scan 32 subheading `அன்னை`, scan 36 `திராவிடத்தைக் காத்திடப்`, scan 37 `அல்லலும்` / `அப்போதுதான்` / `அறுசுவையுணவையே`, scan 38 `உமிகள் உன் வாக்கத்திலும் உண்டு` and `அரசியல் மேதாவிகள்`, scan 39 `அரியாசனம் அமைத்து வீற்றிருக்கும்`, and scan 40 `மனங் குலையா`, `உன் தோளைத்`, `‘அந்தப்’`, and `வெளியிடுவான்`.
+Notable direct-source readings include scan 41 `நிமிர்த்தாவிட்டால்`, `வைரத் தோள்கள்`, `சிற்பக் குகையாய்`; scan 44 `நீயும் நாத்திகவாதி.` plus the restored `பாம்பொடு விளையாடும்...` sentence; scan 47 `விரித்தாடுங்காட்சி கண்டேன்`, `சீச்சீ!`, `நா கடுக்கத்தேடி`; scan 48 `ஒரு முழு வால்தான்`; scan 49 `அன்புள்ள காதலரே!`; and scan 50 `ஆரத்தழுவியபடியே கிடந்தீரே...` / `காதலரே எல்லாம்.... எல்லாம்`.
 
 Current P4 totals:
 
-- strict-reviewed physical scans: **40 / 146**;
-- contiguous strict-reviewed range: **1–40**;
-- cumulative corrections: **84**;
-- corrections propagated to canonical page records: **84 / 84**;
-- P3 assemblies corrected/re-synchronized: **7 distinct assemblies**;
+- strict-reviewed physical scans: **50 / 146**;
+- contiguous strict-reviewed range: **1–50**;
+- cumulative corrections: **130**;
+- corrections propagated to canonical page records: **130 / 130**;
+- P3 assemblies corrected/re-synchronized: **10 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
-P4 remains OPEN. Next batch: **scans 41–50**.
+P4 remains OPEN. Next batch: **scans 51–60**.
 
 ## Gate tracker
 
@@ -97,7 +98,7 @@ P4 remains OPEN. Next batch: **scans 41–50**.
 | P1 | **COMPLETE / PASS** |
 | P2 | **COMPLETE / PASS — 146 / 146 VERIFIED** |
 | P3 | **COMPLETE / PASS — 26 / 26 assemblies** |
-| P4 | **IN PROGRESS — 40 / 146 strict-reviewed** |
+| P4 | **IN PROGRESS — 50 / 146 strict-reviewed** |
 | P5 | **NOT STARTED** |
 | English | **BLOCKED until Tamil P5 freeze** |
 
@@ -105,6 +106,6 @@ Active P4 blockers: **0**.
 
 ## Exact next activity
 
-**P4 scans 41–50.** Re-inspect the closing page of `மலையே வாழி`, all of `தளிர்` and `விண்மீன்`, and the opening pages of `தனிமை` directly against their canonical records. Record every old reading → source-visible reading, propagate affected P3 assemblies, and update the running report only after the full batch is reconciled.
+**P4 scans 51–60.** Finish `தனிமை` on scans 51–54, review `நாடக மேடை` scans 55–56 and `புகழ்` scans 57–58, and begin `பச்சைக்கிளி` on scans 59–60. Compare every visible word, word boundary and punctuation mark directly with the controlling source, propagate all proven corrections, and advance the report only after the full batch reconciles.
 
 Do not begin English translation.
