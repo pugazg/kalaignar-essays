@@ -80,14 +80,42 @@ Formal gate record: `P3_ASSEMBLY_AUDIT.md`.
 - printed folio coverage: **17–144 contiguous**;
 - assembly boundary gaps: **0**;
 - assembly boundary overlaps: **0**;
-- all assembly front matter matches frozen P1/P2 source title, scan span and printed-page span;
-- all assemblies declare `status: "source-complete"`;
-- all assemblies declare mechanical construction from verified canonical page records;
 - unresolved assembly body-text blocks: **0**.
 
 The assembly operation preserved the verified canonical source layer rather than retranscribing or normalizing it. Page-boundary provenance is retained. Physical-copy notes and P2 audit commentary remain outside source article body text.
 
-P3 closure is **not** a claim that the separate final strict visual-text-fidelity pass has been completed.
+---
+
+## P4 — final strict visual text-fidelity pass
+
+**RESULT: IN PROGRESS — 10 / 146 PHYSICAL SCANS STRICT-REVIEWED**
+
+Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+
+### Batch P4-001-010
+
+**PASS after corrective strict review — 10 / 10; 2 corrections; 0 unresolved fidelity discrepancies.**
+
+Direct source corrections:
+
+1. scan 5 / `என்னுரை`: **`கூறிய` → `கூரிய`** in `கூரிய வேல் வாள்`;
+2. scan 8 / `முன்னுரை`: **`மூத்தோர்` → `முதியோர்`** in `அறிவுரையே கவிதை என்றால் முதியோர் முதுமொழி போதும்.`
+
+Both corrections were applied to the canonical page records and recorded with P4 provenance. They are front-matter corrections and therefore affect **0** P3 main-work article assemblies.
+
+Scan 3 contains a later library stamp obscuring part of the publisher-address line. The page record already represents that source limitation explicitly and does not reconstruct hidden characters; P4 records it as documented obscuration, not an unresolved text discrepancy.
+
+Current P4 totals:
+
+- strict-reviewed physical scans: **10 / 146**;
+- contiguous strict-reviewed range: **1–10**;
+- corrections: **2**;
+- corrections propagated: **2 / 2**;
+- affected P3 assemblies requiring propagation: **0**;
+- unresolved fidelity discrepancies: **0**;
+- blocked / needs-review scans in reviewed range: **0**.
+
+P4 remains OPEN. Next batch: **scans 11–20**.
 
 ---
 
@@ -99,14 +127,14 @@ P3 closure is **not** a claim that the separate final strict visual-text-fidelit
 | P1 | **COMPLETE / PASS** |
 | P2 | **COMPLETE / PASS — 146 / 146 VERIFIED** |
 | P3 | **COMPLETE / PASS — 26 / 26 assemblies** |
-| P4 | **NOT STARTED** |
+| P4 | **IN PROGRESS — 10 / 146 strict-reviewed** |
 | P5 | **NOT STARTED** |
 | English | **BLOCKED until Tamil P5 freeze** |
 
-Active blockers: **0**.
+Active P4 blockers: **0**.
 
 ## Exact next activity
 
-**P4 — final strict visual text-fidelity pass.** Re-inspect all 146 physical scans directly, word-by-word and punctuation-by-punctuation, record old reading → source-visible reading provenance for every correction, propagate corrections to dependent assemblies/indexes/status records, and produce `VISUAL_TEXT_FIDELITY_REVIEW.md` before P4 closure.
+**P4 scans 11–20.** Re-inspect all ten physical scans directly against their canonical records, word-by-word and punctuation-by-punctuation. Record each correction as old reading → source-visible reading, propagate any dependent changes, and update `VISUAL_TEXT_FIDELITY_REVIEW.md` only after the batch is reconciled.
 
 Do not begin English translation.
