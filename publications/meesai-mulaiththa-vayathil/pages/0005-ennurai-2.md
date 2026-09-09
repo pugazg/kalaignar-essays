@@ -19,7 +19,7 @@ transcription_method: "direct visual comparison with source scan"
 1945இல் தந்தை பெரியாரின் குடியரசு வார இதழில் துணை ஆசிரியனாக இருந்தபோது தான்;
 
 “குடிசைதான் ஒரு புறத்தில்  
-கூறிய வேல் வாள்  
+கூரிய வேல் வாள்  
 வரிசையாய் அமைத்திருக்கும்  
 வையத்தைப் பிடிப்பதற்கும்  
 வெப்பகை முடிப்பதற்கும்  
@@ -56,5 +56,10 @@ transcription_method: "direct visual comparison with source scan"
 - scan 4-ல் தொடங்கிய prose continuation இந்தப் பக்கத்தின் முதல் paragraph-ல் source-supported முறையில் தொடர்கிறது.
 - `1945இல்`, `144`, `வையத்தைப் பிடிப்பதற்கும்`, `புதுமையல்ல!`, nested quotation marks மற்றும் verse lineation அனைத்தும் source scan-க்கு எதிராக நேரடியாகச் சரிபார்க்கப்பட்டன.
 - source-visible wording silent modernization இன்றி retained.
+
+## P4 strict-fidelity correction
+
+- direct re-inspection of scan 5 corrected **`கூறிய` → `கூரிய`** in the verse line `கூரிய வேல் வாள்`.
+- correction basis: controlling 2006 scan pixels; no contextual or secondary-witness substitution.
 
 <!-- மூல ஸ்கேன் பக்கம்: 5 -->
