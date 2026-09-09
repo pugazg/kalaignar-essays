@@ -7,10 +7,10 @@ Physical scans: **146**
 
 ## Gate state
 
-**P4 — IN PROGRESS — 60 / 146 physical scans strict-reviewed**
+**P4 — IN PROGRESS — 80 / 146 physical scans strict-reviewed**
 
-Contiguous strict-reviewed range: **scans 1–60**.  
-Next strict-review batch: **scans 61–70**.
+Contiguous strict-reviewed range: **scans 1–80**.  
+Next strict-review batch: **scans 81–90**.
 
 P4 follows `ESSAY_PROCESSING_GUIDE.md` section 12: every physical scan is re-inspected directly, word-by-word and punctuation-by-punctuation, against the canonical page record. Source pixels remain authority; context, OCR and secondary editions are not authority.
 
@@ -370,13 +370,89 @@ Scans 18–20 / Unit 1 `பிறையே` required no correction; P3 propagati
 - No source-title, scan-span, printed-page mapping or unit-boundary change occurred.
 - unresolved fidelity discrepancies after reconciliation: **0**.
 
+## Batch P4-061-070
+
+**RESULT: PASS after corrective strict review — 10 / 10 scans; 2 corrections; 0 unresolved fidelity discrepancies.**
+
+| Scan | Unit / printed page | Result | Corrections |
+|---:|---|---|---:|
+| 61 | `பச்சைக்கிளி` / p.60 | PASS | 0 |
+| 62 | `தமிழே` / p.61 | PASS | 0 |
+| 63 | `தேனலைகள்` / p.62 | PASS | 0 |
+| 64 | `தேனலைகள்` / p.63 | PASS | 0 |
+| 65 | `தேனலைகள்` / p.64 | PASS | 0 |
+| 66 | `தேனலைகள்` / p.65 | PASS | 0 |
+| 67 | `தேனலைகள்` / p.66 | PASS | 0 |
+| 68 | `தேனலைகள்` / p.67 | PASS | 0 |
+| 69 | `தேனலைகள்` / p.68 | PASS after correction | 2 |
+| 70 | `தேனலைகள்` / p.69 | PASS | 0 |
+
+### Correction provenance — P4-061-070
+
+**Scan 69 — `தேனலைகள்` / p.68**
+
+133. `கோமானே!....` → source-visible **`கோமானே!...`**;
+134. `பரிசு!....` → source-visible **`பரிசு!...`**.
+
+### Batch findings / dependency propagation
+
+- Scans 61–68 and 70 required no textual correction.
+- Both source-visible punctuation corrections were applied to the canonical scan-69 record.
+- `articles/16-thenalaigal.md` was re-synchronized; cumulative distinct corrected/re-synchronized P3 assemblies became **11**.
+- `பச்சைக்கிளி` closes on scan 61; `தமிழே` is fully reconciled on scan 62; `தேனலைகள்` remains open after scan 70 and closes on scan 71.
+- No source-title, scan-span, printed-page mapping or unit-boundary change occurred.
+- unresolved fidelity discrepancies after reconciliation: **0**.
+
+## Batch P4-071-080
+
+**RESULT: PASS after corrective strict review — 10 / 10 scans; 5 corrections; 0 unresolved fidelity discrepancies.**
+
+| Scan | Unit / printed page | Result | Corrections |
+|---:|---|---|---:|
+| 71 | `தேனலைகள்` / p.70 | PASS | 0 |
+| 72 | `தோழி` / p.71 | PASS after correction | 1 |
+| 73 | `தோழி` / p.72 | PASS | 0 |
+| 74 | `தோழி` / p.73 | PASS | 0 |
+| 75 | `தோழி` / p.74 | PASS | 0 |
+| 76 | `தோழி` / p.75 | PASS | 0 |
+| 77 | `தோழி` / p.76 | PASS after correction | 3 |
+| 78 | `மருதாணி` / p.77 | PASS | 0 |
+| 79 | `மருதாணி` / p.78 | PASS | 0 |
+| 80 | `மருதாணி` / p.79 | PASS after correction | 1 |
+
+### Correction provenance — P4-071-080
+
+**Scan 72 — `தோழி` / p.71**
+
+135. `முத்தவள` → source-visible **`முத்தவள்`**.
+
+**Scan 77 — `தோழி` / p.76**
+
+136. `இதோ யார்` → source-visible **`இதோ பார்`**;
+137. `அவனா?...` → source-visible **`அவனா ?...`**;
+138. `புலியை?...` → source-visible **`புலியை ?...`**.
+
+**Scan 80 — `மருதாணி` / p.79**
+
+139. `பொழியலானாள்` → source-visible **`பொழியலானார்`**.
+
+### Batch findings / dependency propagation
+
+- Scans 71, 73–76 and 78–79 required no textual correction.
+- All five source-visible corrections were applied to canonical page records.
+- P3 assemblies re-synchronized in this batch: `articles/17-thozhi.md` and `articles/18-maruthaani.md`.
+- Cumulative distinct corrected/re-synchronized P3 assemblies became **13**.
+- `தேனலைகள்` closes on scan 71; `தோழி` closes on scan 77; `மருதாணி` remains open after scan 80 and continues through scan 84.
+- No source-title, scan-span, printed-page mapping or unit-boundary change occurred.
+- unresolved fidelity discrepancies after reconciliation: **0**.
+
 ## Progress totals
 
-- physical scans strict-reviewed: **60 / 146**;
-- contiguous reviewed range: **1–60**;
-- P4 corrections found: **132**;
-- P4 corrections propagated to canonical page records: **132 / 132**;
-- P3 article assemblies corrected / re-synchronized so far: **10 distinct assemblies**;
+- physical scans strict-reviewed: **80 / 146**;
+- contiguous reviewed range: **1–80**;
+- P4 corrections found: **139**;
+- P4 corrections propagated to canonical page records: **139 / 139**;
+- P3 article assemblies corrected / re-synchronized so far: **13 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**;
 - P4 gate: **OPEN / IN PROGRESS**.
@@ -389,6 +465,6 @@ The supplied 2006 scan remains controlling. Corroborating witnesses, OCR and con
 
 ## Exact next activity
 
-**P4 scans 61–70.** Re-inspect all ten physical scans directly against their canonical records. This batch closes `பச்சைக்கிளி` on scan 61, covers single-page `தமிழே` on scan 62, and reviews `தேனலைகள்` scans 63–70 (the unit closes on scan 71). Record every old reading → source-visible reading correction, propagate affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
+**P4 scans 81–90.** Re-inspect all ten physical scans directly against their canonical records. This batch finishes `மருதாணி` on scans 81–84 / printed pp.80–83 and reviews all six pages of `அருவி` on scans 85–90 / printed pp.84–89. Record every old reading → source-visible reading correction, propagate affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
 
 Do not mark P4 complete before **146 / 146** physical scans are strict-reviewed. English remains **BLOCKED until Tamil P5 freeze**.
