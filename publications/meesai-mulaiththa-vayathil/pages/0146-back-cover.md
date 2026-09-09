@@ -14,8 +14,8 @@ transcription_method: "direct visual comparison with source scan"
 
 # அச்சு உரை
 
-கலைஞர் தனக்கு 'மீசை முளைத்த
-வயதில்' எழுதிய இந்த அழகோவியங்கள்
+கலைஞர் தனக்கு ‘மீசை முளைத்த
+வயதில்’ எழுதிய இந்த அழகோவியங்கள்
 இந்த இலக்கிய வடிவில் இதற்கு முன்
 எவரும் செய்திராத சோதனை
 முயற்சியாகும்.
@@ -32,7 +32,7 @@ transcription_method: "direct visual comparison with source scan"
 
 தமிழின் ஒலிச்சுவை - மொழிச்சுவை -
 பொருட்சுவை விழைவோரெல்லாம்
-இந்நூலை வாய்விட்டு வாசித்தாலும்
+இந்நூலை வாய்விட்டு வாசித்தலும்
 செவிவழி மாந்தலும் தமிழுக்கும்
 தமிழர்க்கும் நலன் பயக்கும்.
 
@@ -49,5 +49,6 @@ transcription_method: "direct visual comparison with source scan"
 - unnumbered physical scan **146**, all three printed promotional-text blocks, attribution `கவிப்பேரரசு வைரமுத்து`, portrait and cover design were directly verified against the supplied scan.
 - this is the publication back cover and the final physical scan.
 - canonical P2 coverage is now **146 / 146 VERIFIED** with unresolved printed text **0**.
+- P4 strict visual review corrected the quoted-title punctuation `'மீசை முளைத்த வயதில்'` → source-visible `‘மீசை முளைத்த வயதில்’` and `வாசித்தாலும்` → source-visible `வாசித்தலும்`; this is a back-cover witness and does not alter any article assembly or source boundary.
 
 <!-- மூல ஸ்கேன் பக்கம்: 146 -->
