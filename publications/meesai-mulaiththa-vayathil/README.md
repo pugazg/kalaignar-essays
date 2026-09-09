@@ -57,7 +57,7 @@ P4 source corrections are propagated into P3 assemblies whenever they affect mai
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-Current strict-reviewed range: **scans 1–60 / 60 of 146**.
+Current strict-reviewed range: **scans 1–80 / 80 of 146**.
 
 - P4-001-010: **PASS — 2 corrections**;
 - P4-011-020: **PASS — 4 corrections**;
@@ -65,15 +65,19 @@ Current strict-reviewed range: **scans 1–60 / 60 of 146**.
 - P4-031-040: **PASS — 43 corrections**;
 - P4-041-050: **PASS — 46 corrections**;
 - P4-051-060: **PASS — 2 corrections**;
-- cumulative corrections: **132**;
-- corrections propagated to canonical page records: **132 / 132**;
-- P3 assemblies corrected/re-synchronized: **10 distinct assemblies**;
+- P4-061-070: **PASS — 2 corrections**;
+- P4-071-080: **PASS — 5 corrections**;
+- cumulative corrections: **139**;
+- corrections propagated to canonical page records: **139 / 139**;
+- P3 assemblies corrected/re-synchronized: **13 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
-The 51–60 pass finished `தனிமை`, fully reconciled `நாடக மேடை` and `புகழ்`, and reviewed the first two pages of `பச்சைக்கிளி`. Only two source corrections were required: scan 52 `ஒரு முத்தங்கள் கொடுங்களத்தான்”` and scan 53 `ஓவியத்தை`. Both were propagated into `articles/11-thanimai.md`; the other eight scans required no text change.
+P4-061-070 closed `பச்சைக்கிளி`, fully reviewed single-page `தமிழே`, and reviewed scans 63–70 of `தேனலைகள்`. Only scan 69 required correction: `கோமானே!....` → `கோமானே!...` and `பரிசு!....` → `பரிசு!...`; `articles/16-thenalaigal.md` was re-synchronized.
 
-Unit boundaries and printed-page mapping remain unchanged. `பச்சைக்கிளி` continues on scan 61.
+P4-071-080 closed `தேனலைகள்` on scan 71, fully reconciled `தோழி` on scans 72–77, and reviewed the first three pages of `மருதாணி` on scans 78–80. Five source corrections were applied: scan 72 `முத்தவள` → `முத்தவள்`; scan 77 `இதோ யார்` → `இதோ பார்`, `அவனா?...` → `அவனா ?...`, `புலியை?...` → `புலியை ?...`; scan 80 `பொழியலானாள்` → `பொழியலானார்`. `articles/17-thozhi.md` and `articles/18-maruthaani.md` were re-synchronized.
+
+Unit boundaries and printed-page mapping remain unchanged. `மருதாணி` continues through scan 84.
 
 ## Source identity
 
@@ -89,13 +93,13 @@ Unit boundaries and printed-page mapping remain unchanged. `பச்சைக�
 - P1: **COMPLETE / PASS**
 - P2: **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3: **COMPLETE / PASS — 26 / 26 assemblies**
-- P4: **IN PROGRESS — 60 / 146 strict-reviewed**
+- P4: **IN PROGRESS — 80 / 146 strict-reviewed**
 - P5: **NOT STARTED**
 - English: **BLOCKED until Tamil P5 freeze**
 - active P4 blockers: **0**
 
 ## Exact next activity
 
-**P4 scans 61–70.** Close `பச்சைக்கிளி` on scan 61, review single-page `தமிழே` on scan 62, and review `தேனலைகள்` scans 63–70. Re-inspect every visible word, word boundary and punctuation mark directly against the controlling source and propagate any corrections before advancing the checkpoint.
+**P4 scans 81–90.** Finish `மருதாணி` on scans 81–84 / pp.80–83 and strict-review all six pages of `அருவி` on scans 85–90 / pp.84–89. Re-inspect every visible word, word boundary and punctuation mark directly against the controlling source and propagate any corrections before advancing the checkpoint.
 
 Do not begin English translation until the Tamil archival workflow reaches P5 freeze.
