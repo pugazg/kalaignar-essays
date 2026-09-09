@@ -27,7 +27,7 @@ transcription_method: "direct visual comparison with source scan"
        சொல்லட்டுமா? மரணப்படுக்கையில்
        உமது முதல் மனைவி பத்மாவதி -
        ‘கடைசி யாகத் துடிக்கும் என் உதட்டில்
-       ஒரு முத்தங்கள் கொடுங்கள் தான்” என்று
+       ஒரு முத்தங்கள் கொடுங்களத்தான்” என்று
        கேட்பதற்கு முன் பெற்றுக்கொண்டாளே....
 
        அதை....
@@ -59,7 +59,13 @@ transcription_method: "direct visual comparison with source scan"
 ## P2 audit note
 
 - visible printed folio **51**, running header and the continuation from scan 51 were directly verified against the supplied 2006 scan.
-- source-visible unusual forms and punctuation were retained, including `கடைசி யாகத்`, `ஒரு முத்தங்கள் கொடுங்கள் தான்`, `உழுவலன்பு`, the mixed quotation marks around the deathbed recollection, and the source ellipsis lengths.
+- source-visible unusual forms and punctuation are retained, including `கடைசி யாகத்`, joined `கொடுங்களத்தான்`, `உழுவலன்பு`, the mixed quotation marks around the deathbed recollection, and the source ellipsis lengths.
 - Unit 11 continues to scan 53 / printed p.52.
+
+## P4 strict-fidelity note
+
+- strict visual review rechecked scan 52 word-by-word, word-boundary-by-word-boundary and punctuation-by-punctuation against the controlling 2006 pixels.
+- corrected `ஒரு முத்தங்கள் கொடுங்கள் தான்”` → source-visible **`ஒரு முத்தங்கள் கொடுங்களத்தான்”`**.
+- unresolved fidelity discrepancies after correction: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 52 -->
