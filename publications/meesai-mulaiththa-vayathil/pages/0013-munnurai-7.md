@@ -24,7 +24,7 @@ transcription_method: "direct visual comparison with source scan"
 
 அந்தத் தங்கத்தை உருக்கி நகைக்கான கலைப்பாங்கோடு நகை செய்து அணிவித்த கலைஞர் -
 
-இம்மூவரையும் இனிவரும் வரலாற்றாசிரியர்கள் யாரும் மறக்கவிடவோ மறைத்துவிடவோ முடியாது.
+இம்மூவரையும் இனிவரும் வரலாற்றாசிரியர்கள் யாரும் மறந்துவிடவோ மறைத்துவிடவோ முடியாது.
 
 ●
 
@@ -45,7 +45,13 @@ transcription_method: "direct visual comparison with source scan"
 ## P2 audit note
 
 - printed bullet `●` and the poem lineation are retained as source-visible marks.
-- source forms `தமிழ்ச்சாதி`, `மறக்கவிடவோ`, `கலைப்பாங்கோடு`, and `வரவுபார்க்கும்` retained without silent modernization.
+- source forms `தமிழ்ச்சாதி`, `கலைப்பாங்கோடு`, and `வரவுபார்க்கும்` retained without silent modernization.
 - முன்னுரை scan 14-ல் தொடர்கிறது.
+
+## P4 strict-fidelity note
+
+- strict visual review rechecked scan 13 word-by-word and punctuation-by-punctuation.
+- corrected old canonical `மறக்கவிடவோ` → source-visible **`மறந்துவிடவோ`**.
+- unresolved fidelity discrepancies after correction: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 13 -->
