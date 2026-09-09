@@ -57,21 +57,22 @@ P4 source corrections are propagated into P3 assemblies whenever they affect mai
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-Current strict-reviewed range: **scans 1–40 / 40 of 146**.
+Current strict-reviewed range: **scans 1–50 / 50 of 146**.
 
 - P4-001-010: **PASS — 2 corrections**;
 - P4-011-020: **PASS — 4 corrections**;
 - P4-021-030: **PASS — 35 corrections**;
 - P4-031-040: **PASS — 43 corrections**;
-- cumulative corrections: **84**;
-- corrections propagated to canonical page records: **84 / 84**;
-- P3 assemblies corrected/re-synchronized: **7 distinct assemblies** — `02-adikkaatru.md` through `08-malaiye-vaazhi.md` where source evidence required changes;
+- P4-041-050: **PASS — 46 corrections**;
+- cumulative corrections: **130**;
+- corrections propagated to canonical page records: **130 / 130**;
+- P3 assemblies corrected/re-synchronized: **10 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
-The 31–40 pass reconciled `ஆறு`, `வாழிய வைகறை`, `அகப்பை சித்தர்`, and the first two pages of `மலையே வாழி`. Direct-source corrections include scan 32 subheading **`அன்னை`**, scan 36 **`திராவிடத்தைக் காத்திடப்`**, scan 38 **`உமிகள் உன் வாக்கத்திலும் உண்டு`** plus the source-visible `அரசியல் மேதாவிகள்` sequence, scan 39 `அரியாசனம் அமைத்து வீற்றிருக்கும்`, and scan 40 `மனங் குலையா`, `உன் தோளைத்`, `‘அந்தப்’`, and `வெளியிடுவான்`.
+The 41–50 pass closed `மலையே வாழி`, fully reconciled `தளிர்` and `விண்மீன்`, and reviewed the first two pages of `தனிமை`. Notable source-controlled readings include scan 41 `நிமிர்த்தாவிட்டால்`, `வைரத் தோள்கள்`, `சிற்பக் குகையாய்`; scan 44 `நீயும் நாத்திகவாதி.` and the restored `பாம்பொடு விளையாடும்...` sentence; scan 47 `விரித்தாடுங்காட்சி கண்டேன்`, `சீச்சீ!`, `நா கடுக்கத்தேடி`; scan 48 `ஒரு முழு வால்தான்`; and scan 49 opening `அன்புள்ள காதலரே!`.
 
-Unit boundaries and printed-page mapping remain unchanged. Scan 40 is internal to `மலையே வாழி`; its closing scan 41 belongs to the next P4 batch.
+Unit boundaries and printed-page mapping remain unchanged. `தனிமை` continues from scan 51.
 
 ## Source identity
 
@@ -87,13 +88,13 @@ Unit boundaries and printed-page mapping remain unchanged. Scan 40 is internal t
 - P1: **COMPLETE / PASS**
 - P2: **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3: **COMPLETE / PASS — 26 / 26 assemblies**
-- P4: **IN PROGRESS — 40 / 146 strict-reviewed**
+- P4: **IN PROGRESS — 50 / 146 strict-reviewed**
 - P5: **NOT STARTED**
 - English: **BLOCKED until Tamil P5 freeze**
 - active P4 blockers: **0**
 
 ## Exact next activity
 
-**P4 scans 41–50.** Re-inspect the closing page of `மலையே வாழி`, all of `தளிர்` and `விண்மீன்`, and the opening pages of `தனிமை` directly word-by-word and punctuation-by-punctuation. Record every old reading → source-visible reading, propagate any affected P3 assemblies, and advance the report only after the full batch is reconciled.
+**P4 scans 51–60.** Finish `தனிமை` on scans 51–54, review `நாடக மேடை` scans 55–56 and `புகழ்` scans 57–58, then begin `பச்சைக்கிளி` on scans 59–60. Re-inspect every visible word, word boundary and punctuation mark directly against the controlling source and propagate any corrections before advancing the checkpoint.
 
 Do not begin English translation until the Tamil archival workflow reaches P5 freeze.
