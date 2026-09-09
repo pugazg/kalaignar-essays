@@ -9,7 +9,7 @@ Branch: `main`
 
 Publications **1–9 are RELEASE COMPLETE / FROZEN**.
 
-Active Publication **10 — `மீசை முளைத்த வயதில்` — P0, P1, P2 and P3 COMPLETE / PASS. P4 is IN PROGRESS at scans 1–80 / 80 of 146 strict-reviewed, with 139 source corrections, 13 distinct P3 assemblies re-synchronized, and 0 unresolved fidelity discrepancies.**
+Active Publication **10 — `மீசை முளைத்த வயதில்` — P0, P1, P2 and P3 COMPLETE / PASS. P4 is IN PROGRESS at scans 1–90 / 90 of 146 strict-reviewed, with 142 source corrections, 13 distinct P3 assemblies re-synchronized, and 0 unresolved fidelity discrepancies.**
 
 Source PDFs are never committed.
 
@@ -79,10 +79,10 @@ Formal running report: `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDE
 
 Current checkpoint:
 
-- physical scans strict-reviewed: **80 / 146**;
-- contiguous strict-reviewed range: **1–80**;
-- cumulative source corrections: **139**;
-- corrections propagated to canonical records: **139 / 139**;
+- physical scans strict-reviewed: **90 / 146**;
+- contiguous strict-reviewed range: **1–90**;
+- cumulative source corrections: **142**;
+- corrections propagated to canonical records: **142 / 142**;
 - P3 assemblies corrected/re-synchronized: **13 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
@@ -96,7 +96,8 @@ Completed P4 batches:
 - scans 41–50: **46 corrections**;
 - scans 51–60: **2 corrections**;
 - scans 61–70: **2 corrections**;
-- scans 71–80: **5 corrections**.
+- scans 71–80: **5 corrections**;
+- scans 81–90: **3 corrections**.
 
 ### Durable P4-061-070 findings
 
@@ -129,7 +130,22 @@ Five direct-source corrections were required:
 - scan 77 `புலியை?...` → **`புலியை ?...`**;
 - scan 80 `பொழியலானாள்` → **`பொழியலானார்`**.
 
-All five corrections were applied to canonical page records and propagated into `articles/17-thozhi.md` and `articles/18-maruthaani.md`. The cumulative distinct corrected/re-synchronized assembly count is now 13. Unit boundaries and printed-page mapping did not change.
+All five corrections were applied to canonical page records and propagated into `articles/17-thozhi.md` and `articles/18-maruthaani.md`. The cumulative distinct corrected/re-synchronized assembly count became 13. Unit boundaries and printed-page mapping did not change.
+
+### Durable P4-081-090 findings
+
+Units reviewed:
+
+- `மருதாணி` — scans 81–84 / pp.80–83, closing the unit;
+- `அருவி` — scans 85–90 / pp.84–89, complete unit.
+
+Three direct-source corrections were required, all in `மருதாணி`:
+
+- scan 82 `இரவாய் சுருங்குவதெப்போதென` → **`இரவாய்ச் சுருங்குவதெப்போதென`**;
+- scan 83 `கலையுமோ?...` → **`கலையுமோ ?...`**;
+- scan 83 `மருதாணி பெரிதோ?...` → **`மருதாணி பெரிதோ ?...`**.
+
+All three corrections were applied to canonical page records and propagated into `articles/18-maruthaani.md`. Because that assembly was already in the corrected set, the distinct corrected/re-synchronized assembly count remains 13. Scans 81 and 84–90 required no textual correction. `அருவி` passed 6 / 6 without P4 text changes. Unit boundaries and printed-page mapping did not change.
 
 ## Gate state
 
@@ -137,20 +153,20 @@ All five corrections were applied to canonical page records and propagated into 
 - P1 — **COMPLETE / PASS**;
 - P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**;
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**;
-- P4 — **IN PROGRESS — 80 / 146 strict-reviewed**;
+- P4 — **IN PROGRESS — 90 / 146 strict-reviewed**;
 - P5 — **NOT STARTED**;
 - English — **BLOCKED until Tamil P5 freeze**.
 
 Active P4 blockers: **0**.
 
-## Exact next activity — P4 scans 81–90
+## Exact next activity — P4 scans 91–100
 
 When the user says proceed/continue:
 
 1. fetch live `main` and preserve newer durable work;
 2. resolve the controlling source PDF;
-3. re-inspect **scans 81–90 directly**, word-by-word, word-boundary-by-word-boundary and punctuation-by-punctuation;
-4. finish `மருதாணி` on scans 81–84 / pp.80–83 and review all of `அருவி` on scans 85–90 / pp.84–89;
+3. re-inspect **scans 91–100 directly**, word-by-word, word-boundary-by-word-boundary and punctuation-by-punctuation;
+4. review all of `முறம்` on scans 91–95 / pp.90–94 and the opening five pages of `யாழ்` on scans 96–100 / pp.95–99; `யாழ்` continues through scan 102;
 5. compare against canonical page records and corresponding P3 assemblies;
 6. preserve unusual source wording; do not modernize or import corroborating witness wording;
 7. record every old reading → source-visible reading with scan/printed-page provenance;
