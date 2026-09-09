@@ -29,7 +29,7 @@ transcription_method: "direct visual comparison with source scan"
 இருப்பான்; ஆடிப் பெருக்கு ஆண்டுக்கு
 ஒருமுறைதான்” எனக்கூறிக் காவிரியை
 வாழ்த்துகின்ற கவிதையொன்றை இசை கூட்டிப்
-பொழியலானாள். பாட்டியொருத்தி பவளம் என்பாள்;
+பொழியலானார். பாட்டியொருத்தி பவளம் என்பாள்;
 அவள் நீட்டி முழக்கிக் கூறலுற்றாள்; ஆடிப்
 பெருக்கிற்குத் தடையின்றிப் போகவேண்டுமென்ற
 அறிவுரையை!.... முல்லையும் வருவேன் என்றாள்....
@@ -56,7 +56,7 @@ transcription_method: "direct visual comparison with source scan"
 
 - visible printed folio **79**, running header and every prose/dialogue line were directly verified against the supplied 2006 scan.
 - scan 79→80 directly completes `ஓராயிரம்` → `கதை சொல்லும் உவமை காட்டி!`.
-- source-visible forms retained include `கோழிபோல்`, `ஆடிப் பெருக்கிற்கு`, `பெருக்கினும்`, `எனக்கூறிக்`, `பொழியலானாள்`, `பாட்டியொருத்தி`, `தடையின்றிப்`, `கொழுந்துகளை`, `அந்தமிகு தந்தக் கால்களின்`, `குறி பதிக்கும்`, and `வெட்கந் தேக்கிப்`.
+- source-visible forms retained include `கோழிபோல்`, `ஆடிப் பெருக்கிற்கு`, `பெருக்கினும்`, `எனக்கூறிக்`, `பொழியலானார்`, `பாட்டியொருத்தி`, `தடையின்றிப்`, `கொழுந்துகளை`, `அந்தமிகு தந்தக் கால்களின்`, `குறி பதிக்கும்`, and `வெட்கந் தேக்கிப்`.
 - Unit 18 `மருதாணி` remains open; the verified P1 map continues through scan 84 / printed p.83.
 
 <!-- மூல ஸ்கேன் பக்கம்: 80 -->
