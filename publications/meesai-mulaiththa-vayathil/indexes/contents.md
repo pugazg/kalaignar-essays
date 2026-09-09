@@ -3,7 +3,8 @@
 Publication: `publications/meesai-mulaiththa-vayathil/`  
 Controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`  
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
-P4 status: **COMPLETE / PASS — 146 / 146 strict-reviewed**
+P4 status: **COMPLETE / PASS — 146 / 146 strict-reviewed**  
+P5 status: **COMPLETE / PASS — TAMIL FROZEN**
 
 ## Source-witness warning
 
@@ -91,7 +92,6 @@ Formal gate: `P3_ASSEMBLY_AUDIT.md`.
 Formal gate: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 - strict-reviewed physical scans: **146 / 146**;
-- contiguous reviewed range: **1–146**;
 - cumulative corrections: **207**;
 - corrections propagated: **207 / 207**;
 - P3 assemblies corrected/re-synchronized during P4: **20 distinct assemblies**;
@@ -103,8 +103,12 @@ Batch correction totals across the complete P4 sequence are **2, 4, 35, 43, 46, 
 
 P4-141-146 passed after **9** direct-source corrections. Scans 142–144 contributed seven question-mark spacing corrections to `மயிலிறகு`, all propagated into `articles/26-mayiliragu.md`; scan 146 contributed two independent back-cover corrections (`‘மீசை முளைத்த வயதில்’` quotation punctuation and `வாசித்தலும்`). All source titles, scan spans, printed-page mapping and unit boundaries remain unchanged.
 
+## P5 freeze overlay — COMPLETE / PASS
+
+Formal gate: `PUBLICATION_COMPLETION_REVIEW.md`.
+
+The 26-unit source map above passed the publication-wide non-regression gate unchanged. Frozen Tamil authorities are canonical `pages/` tree **`f7930b3696668cdbc2d692a284b49586d09a3372`** and strict-reviewed `articles/` tree **`b7593357dc5ba101362c7a303881bea4e63e9b68`**. Mapping/title/boundary drift at freeze: **0**.
+
 ## Exact next activity
 
-**P5 — Tamil publication completion review / freeze.** Revalidate the completed P0–P4 layers as a publication-wide non-regression gate, create the formal completion/freeze record, and synchronize all state-bearing trackers before English planning is unblocked.
-
-English remains blocked until Tamil P5 freeze passes.
+**English E0 planning / translation-workspace bootstrap.** English planning is now **UNBLOCKED / NOT STARTED**. Use the frozen strict-reviewed Tamil assembly tree as authority and do not alter the frozen Tamil layer.
