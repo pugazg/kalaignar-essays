@@ -29,52 +29,54 @@ Permanent title readings remain `அகப்பை சித்தர்`, `த
 - required planning/review files: **4 / 4**;
 - frozen Tamil article units inventoried: **26 / 26**;
 - per-article Tamil blob provenance: **26 / 26**;
-- E0 blockers: **0**;
-- English body files created in E0: **0**;
+- blockers: **0**;
 - frozen Tamil changes: **0**.
 
-## E1 — Article 1 `பிறையே` calibration
+## E1 — Article 1 `பிறையே`
 
 **RESULT: COMPLETE / PASS — T0→T5 / VERIFIED**
 
-Source authority:
+- English title: **O Crescent!**;
+- Tamil blob: `5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`;
+- verified English blob: `1d07e03ba84353b2da7c0a344d6ae61c3223caf0`;
+- blockers: **0**.
 
-- Tamil file: `articles/01-piraiye.md`;
-- live/frozen Tamil blob: **`5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`**;
-- source scans: **18–20 / printed pp.17–19**;
-- source drift: **0**.
+## E2 — Articles 2–11
 
-English authority:
+**RESULT: COMPLETE / PASS — 10 / 10 T0→T5 / VERIFIED**
 
-- file: `translations/en/01-piraiye.md`;
-- title: **O Crescent!**;
-- final verified blob: **`1d07e03ba84353b2da7c0a344d6ae61c3223caf0`**;
-- `translation_status`: **verified**.
+Every E2 Tamil assembly was fetched fresh and matched its frozen P5 blob before T0. All ten English articles were translated paragraph-by-paragraph, reviewed for bilingual fidelity, voice and terminology/source handling, and marked verified only after T1–T4 passed.
 
-Gate history:
+| # | Tamil title | T1 draft | Final verified English |
+|---:|---|---|---|
+| 2 | `ஆடிக்காற்று` | `6f2a56bfcc120d8610fb1f228ffb9fdff3a79d4d` | `e93c9ad4d37c81f5bea9decfddd9274469428e52` |
+| 3 | `கருப்புப் பெண்` | `a0a2358fcc470f043e6963957f516295712ae49f` | `de2296d28841cb0643d979cf36cbbe7dc2e9ea9f` |
+| 4 | `கடலே` | `30b53b94098050ed9c64d9bcb2671d219568d481` | `e0f1f5dbf2caf125584134665a3284582d09ae20` |
+| 5 | `ஆறு` | `fc38192a85c399a20175f19b0cbb935fc31f000e` | `584b98a34a78d32d53b895e16422fa63c8f66af1` |
+| 6 | `வாழிய வைகறை` | `2e049917a48807a1c857021e29232d88569e7d8a` | `0c2c529cc0f72a522c8c11852e5ba14a88a89f95` |
+| 7 | `அகப்பை சித்தர்` | `026c9390a5730904f75c3cef8fd3e35907db1148` | `cdf0a9aef9edb2c77a7d32382c66aaddb8e6868b` |
+| 8 | `மலையே வாழி` | `1430a5cac086096b1631a4a89f28520f17de596d` | `2417a5aa1daa4154445c4229d79413a0fa830a76` |
+| 9 | `தளிர்` | `d32982f4e687c2261ab07e2edc8205dc8905470a` | `74e3bc25b4a48d3a2b1b79c37cbf8ec00c3e5be8` |
+| 10 | `விண்மீன்` | `dc088b923bad59b30237d95e67255e37caa2ee47` | `2a57db76a77edff3372434a6b52e9edabb0d56fe` |
+| 11 | `தனிமை` | `cb4749b575eb302637c409304e8b29c79bc86187` | `21357b316923e311a4dd234ee550dcecbf95e035` |
 
-| Gate | Result | Authority / note |
-|---|---|---|
-| T0 | **PASS** | frozen Tamil blob reconfirmed |
-| T1 | **PASS** | draft `bea5bb243e6f141d24b53bbca4df2ec28c1238ce` |
-| T2 | **PASS** | fidelity-reviewed `8c7bccb8565098fef4a6e568a7d21cfd90fc583e` |
-| T3 | **PASS** | voice-reviewed body `f5d50c76d45d3016ced2ea38bb88f3e93df6f68e` |
-| T4 | **PASS** | body unchanged; **12** Article-1 lexicon decisions established |
-| T5 | **PASS / VERIFIED** | final `1d07e03ba84353b2da7c0a344d6ae61c3223caf0` |
+E2 review totals:
 
-E1 verification checks:
-
-- Tamil content represented completely: **PASS**;
-- source-boundary comments: **3 / 3 ordered**;
-- repeated prisoner refrains/reversal: **PASS**;
-- crescent/prison/freedom/personification imagery: **PASS**;
-- rhetorical sarcasm/direct address: **PASS**;
-- source closing bullet: **PASS**;
-- outside-source identifications/imported translations: **0**;
-- unresolved translation blockers: **0**;
+- T0 passed: **10 / 10**;
+- T1 complete: **10 / 10**;
+- T2 passed: **10 / 10**;
+- material T2 body corrections: **5** — Articles 2, 3, 8, 10, 11;
+- T3 passed: **10 / 10**, additional body corrections **0**;
+- T4 passed: **10 / 10**, additional body corrections **0**;
+- T5 verified: **10 / 10**;
+- source-boundary comments / source section structure: **PASS**;
+- omissions: **0**;
+- added claims: **0**;
+- outside-source lexical imports: **0**;
+- unresolved translation/source/terminology blockers: **0**;
 - frozen Tamil edits: **0**.
 
-Detailed correction provenance is in `translations/en/TRANSLATION_REVIEW.md`; terminology baseline is in `translations/en/LEXICON.md`.
+Detailed old→new review provenance and source-sensitive decisions are retained in `translations/en/TRANSLATION_REVIEW.md`; `LEXICON.md` contains **58** publication-specific decisions through Article 11.
 
 ## Current gate tracker
 
@@ -83,13 +85,14 @@ Detailed correction provenance is in `translations/en/TRANSLATION_REVIEW.md`; te
 | P0–P5 | **COMPLETE / PASS — TAMIL FROZEN** |
 | E0 | **COMPLETE / PASS** |
 | E1 | **COMPLETE / PASS** |
-| English T0 passed | **1 / 26** |
-| English T1 passed | **1 / 26** |
-| English T2 passed | **1 / 26** |
-| English T3 passed | **1 / 26** |
-| English T4 passed | **1 / 26** |
-| English T5 verified | **1 / 26** |
-| E2 | **NEXT** |
+| E2 | **COMPLETE / PASS** |
+| English T0 passed | **11 / 26** |
+| English T1 passed | **11 / 26** |
+| English T2 passed | **11 / 26** |
+| English T3 passed | **11 / 26** |
+| English T4 passed | **11 / 26** |
+| English T5 verified | **11 / 26** |
+| E3 | **NEXT** |
 | E6 | **NOT STARTED** |
 | E7 | **NOT STARTED** |
 
@@ -98,4 +101,4 @@ Active English blockers: **0**.
 
 ## Exact next activity
 
-**E2 — Articles 2–11 (`ஆடிக்காற்று` through `தனிமை`).** Process all ten in source order, each independently through **T0→T5**, using Article 1 as the voice baseline but establishing source-specific terminology from each frozen Tamil article. Do not modify frozen Tamil.
+**E3 — Articles 12–18 (`நாடக மேடை` through `மருதாணி`).** Confirm each frozen Tamil blob on live `main` and process all seven in source order, independently through **T0→T5**, without modifying frozen Tamil.
