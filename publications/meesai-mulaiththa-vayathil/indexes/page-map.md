@@ -6,7 +6,7 @@ Physical scans: **146**
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
 P2 status: **COMPLETE / PASS — 146 / 146 VERIFIED**  
 P3 status: **COMPLETE / PASS — 26 / 26 assemblies**  
-P4 status: **IN PROGRESS — scans 1–140 / 140 of 146 strict-reviewed**
+P4 status: **COMPLETE / PASS — 146 / 146 strict-reviewed**
 
 ## Mapping rule
 
@@ -197,18 +197,23 @@ P4 status: **IN PROGRESS — scans 1–140 / 140 of 146 strict-reviewed**
 - P3 assembly boundary gaps / overlaps: **0 / 0**;
 - P3 unresolved body-text blocks: **0**.
 
-## P4 strict-review overlay — IN PROGRESS
+## P4 strict-review overlay — COMPLETE / PASS
 
-Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+Formal gate: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- physical scans strict-reviewed: **140 / 146**;
-- contiguous reviewed range: **1–140**;
+- physical scans strict-reviewed: **146 / 146**;
+- contiguous reviewed range: **1–146**;
 - cumulative corrections: **198**;
 - corrections propagated: **198 / 198**;
-- P3 assemblies corrected/re-synchronized: **20 distinct assemblies**;
+- P3 assemblies corrected/re-synchronized during P4: **20 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
+- blocked / needs-review scans: **0**;
 - P4 mapping/boundary changes: **0**.
 
-P4-131-140 produced **10** direct controlling-source question-mark spacing corrections across `ஆண்டு விழா` and `மயிலிறகு`; `articles/25-aandu-vizha.md` and `articles/26-mayiliragu.md` were re-synchronized. Scans 135–138 required no textual correction. `ஆண்டு விழா` is fully P4-reconciled through scan 135; `மயிலிறகு` remains open through scan 145. These corrections alter text fidelity only; no source title, scan span, printed-page mapping or unit boundary changed.
+P4-141-146 produced **0** corrections. Scans 141–145 finish `மயிலிறகு`; scan 146 is the separate illustrated back-cover / promotional witness. All six records matched the controlling pixels, and no source title, scan span, printed-page mapping or unit boundary changed.
 
-Exact next strict-review batch: **scans 141–146**. Scans 141–145 finish `மயிலிறகு`; scan 146 is the illustrated back cover / promotional text. English remains blocked until Tamil P5 freeze.
+## Exact next activity
+
+**P5 — Tamil publication completion review / freeze.** Revalidate P0–P4 as a publication-wide non-regression gate, create the formal completion/freeze record, and synchronize all state-bearing trackers before English planning is unblocked.
+
+English remains blocked until Tamil P5 freeze passes.
