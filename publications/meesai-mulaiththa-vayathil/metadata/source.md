@@ -37,27 +37,25 @@ Permanent P1 source-title corrections:
 2. scan 42 / p.41 — **`தளிர்`**;
 3. scan 136 / p.135 — **`மயிலிறகு`**.
 
-## P2 canonical page status
+## P2 canonical page status — COMPLETE / PASS
 
-P2 is **IN PROGRESS — 130 / 146 VERIFIED**.
+P2 is **COMPLETE — 146 / 146 VERIFIED**.
 
-Canonical batch records now run through `P2_BATCH_121_130.md`.
+Canonical batch records run through `P2_BATCH_141_146.md`.
 
-Current direct-source result:
+Final direct-source result:
 
-- canonical pages verified: **130 / 146**;
-- contiguous verified range: **scans 1–130**;
-- cover/title/imprint: **3 / 3 VERIFIED**;
-- `என்னுரை`, scans 4–6: **3 / 3 VERIFIED / COMPLETE**;
-- `முன்னுரை`, scans 7–16: **10 / 10 VERIFIED / COMPLETE**;
+- canonical pages verified: **146 / 146**;
+- contiguous verified range: **scans 1–146**;
+- missing canonical page records: **0**;
+- `என்னுரை`, scans 4–6: **3 / 3 COMPLETE**;
+- `முன்னுரை`, scans 7–16: **10 / 10 COMPLETE**;
 - scan 17 blank/show-through: **VERIFIED**;
-- Units 1–24 through `மடல்`: **COMPLETE at the P2 page layer**;
-- Unit 23 `சேவல் சண்டை`, scans 115–122 / pp.114–121: **8 / 8 VERIFIED / COMPLETE**;
-- Unit 24 `மடல்`, scans 123–128 / pp.122–127: **6 / 6 VERIFIED / COMPLETE**;
-- Unit 25 `ஆண்டு விழா`, scans 129–130 / pp.128–129: **2 / 7 VERIFIED so far; continues through scan 135 / p.134**;
-- complete main-work units: **24 / 26**;
-- missing canonical records in scans 1–130: **0**;
-- unresolved printed-text blocks in verified scans: **0**;
+- source-titled main units complete at P2 page layer: **26 / 26**;
+- Unit 25 `ஆண்டு விழா`, scans 129–135 / pp.128–134: **7 / 7 COMPLETE**;
+- Unit 26 `மயிலிறகு`, scans 136–145 / pp.135–144: **10 / 10 COMPLETE**;
+- scan 146 back cover / promotional text: **VERIFIED**;
+- unresolved printed-text blocks: **0**;
 - active P2 blockers: **0**.
 
 Durable source findings remain non-regressed:
@@ -65,14 +63,10 @@ Durable source findings remain non-regressed:
 - scan 32 third source subheading is **`அரசு`**;
 - scan 47 `விண்மீன்` review was resolved directly against the supplied scan;
 - corrected scan-70 reading is **`உயர் தமிழன்`**;
-- scan 122 directly closes `சேவல் சண்டை` with final bullet `●`;
-- scan 123 is the illustrated opening of `மடல்`;
-- scan 124 directly reads `பறித்துச்`;
-- scan 126 directly reads `திங்களோ காணீர்!`;
-- scan 128 closes `மடல்` with `- அன்புக் காதலி` and final bullet `●`;
-- scan 129 is the illustrated opening of `ஆண்டு விழா`;
-- scan 130 directly reads `திங்களியே!` and ends at `ஆண்டு ஒன்று`;
-- scan 130 remains an internal continuation page; no scan-131 wording was imported.
+- scan 135 closes `ஆண்டு விழா`;
+- scan 136 directly opens **`மயிலிறகு`**;
+- scan 145 closes `மயிலிறகு` with final bullet `●`;
+- scan 146 is the unnumbered printed back cover with promotional text attributed to **`கவிப்பேரரசு வைரமுத்து`**.
 
 Source wording is not silently modernised or regularised. The supplied 2006 scan pixels determine the canonical reading. OCR is not authority; alternate editions may corroborate difficult glyphs only and are not silently imported.
 
@@ -88,7 +82,7 @@ Source wording is not silently modernised or regularised. The supplied 2006 scan
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS**
-- P2 — **IN PROGRESS — 130 / 146 VERIFIED**
+- P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -97,11 +91,4 @@ Source wording is not silently modernised or regularised. The supplied 2006 scan
 
 ## Exact next activity
 
-**P2 scans 131–140 only**:
-
-- scans 131–135 / pp.130–134 — continue and close Unit 25 `ஆண்டு விழா`;
-- scans 136–140 / pp.135–139 — begin Unit 26 `மயிலிறகு`, continuing through scan 145 / p.144;
-- retain the permanent scan-136 title reading `மயிலிறகு`;
-- use supplied scan pixels as authority and directly verify one canonical record per scan;
-- after all ten pass, create `P2_BATCH_131_140.md`, synchronize dependent trackers, and set next activity to scans 141–146;
-- **STOP after scan 140; do not begin P3 assembly or English translation unless separately authorised.**
+**P3 article/unit assembly** from the fully verified canonical page records. Preserve source wording and page-boundary provenance. Do not begin English translation.
