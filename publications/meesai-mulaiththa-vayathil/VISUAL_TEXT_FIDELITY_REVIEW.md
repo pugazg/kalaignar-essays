@@ -126,7 +126,7 @@ Correction 165 was found during the closing re-check before this batch was froze
 
 **Scan 126 — `மடல்` / p.125**
 
-183. `கண்டு...` → source-visible **`கண்டு . . .`**;
+183. `கண்டு...` → source-visible **`கண்டு . . .`**;  
 184. `போய்விடவில்லை...` → source-visible **`போய்விட வில்லை ...`**.
 
 **Scan 127 — `மடல்` / p.126**
@@ -139,7 +139,7 @@ Correction 165 was found during the closing re-check before this batch was froze
 
 **Scan 130 — `ஆண்டு விழா` / p.129**
 
-187. `இது?”` → source-visible **`இது ?”`**;
+187. `இது?”` → source-visible **`இது ?”`**;  
 188. `நம்புவது?”` → source-visible **`நம்புவது ?”`**.
 
 ### Batch findings / dependency propagation
@@ -215,23 +215,47 @@ Correction 165 was found during the closing re-check before this batch was froze
 
 ## Batch P4-141-146
 
-**RESULT: PASS — 6 / 6 scans; 0 corrections; 0 unresolved fidelity discrepancies.**
+**RESULT: PASS after corrective strict review — 6 / 6 scans; 9 corrections; 0 unresolved fidelity discrepancies.**
 
 | Scan | Unit / printed page | Result | Corrections |
 |---:|---|---|---:|
 | 141 | `மயிலிறகு` / p.140 | PASS | 0 |
-| 142 | `மயிலிறகு` / p.141 | PASS | 0 |
-| 143 | `மயிலிறகு` / p.142 | PASS | 0 |
-| 144 | `மயிலிறகு` / p.143 | PASS | 0 |
+| 142 | `மயிலிறகு` / p.141 | PASS after correction | 3 |
+| 143 | `மயிலிறகு` / p.142 | PASS after correction | 1 |
+| 144 | `மயிலிறகு` / p.143 | PASS after correction | 3 |
 | 145 | `மயிலிறகு` / p.144 | PASS | 0 |
-| 146 | back cover / promotional text | PASS | 0 |
+| 146 | back cover / promotional text | PASS after correction | 2 |
+
+### Correction provenance — P4-141-146
+
+**Scan 142 — `மயிலிறகு` / p.141**
+
+199. `இதுதானோ?` → source-visible **`இதுதானோ ?`**;  
+200. `துணிவுடையான்?` → source-visible **`துணிவுடையான் ?`**;  
+201. `தலைமைச் சிங்கம்?` → source-visible **`தலைமைச் சிங்கம் ?`**.
+
+**Scan 143 — `மயிலிறகு` / p.142**
+
+202. `விளக்கமென்ன?”` → source-visible **`விளக்கமென்ன ?”`**.
+
+**Scan 144 — `மயிலிறகு` / p.143**
+
+203. `இவன்?` → source-visible **`இவன் ?`**;  
+204. `வீரன்?` → source-visible **`வீரன் ?`**;  
+205. `வருகிறானோ?` → source-visible **`வருகிறானோ ?`**.
+
+**Scan 146 — back cover / promotional text**
+
+206. ASCII quoted-title punctuation `'மீசை முளைத்த வயதில்'` → source-visible **`‘மீசை முளைத்த வயதில்’`**;  
+207. `வாசித்தாலும்` → source-visible **`வாசித்தலும்`**.
 
 ### Batch findings / dependency propagation
 
-- All six canonical records matched the controlling pixels without textual correction.
-- Scans 141–145 finish `மயிலிறகு`; scan 145 retains the printed closing bullet and scan 146 remains a separate back-cover/promotional witness.
-- `articles/26-mayiliragu.md` required no change in this batch and remains synchronized with canonical scans 136–145.
-- The scan-146 promotional text required no correction and remains outside the article assembly.
+- Scans 141 and 145 required no textual correction.
+- All 9 source-visible corrections were applied to canonical page records.
+- The seven main-work corrections on scans 142–144 were propagated into `articles/26-mayiliragu.md`; because that assembly was already in the corrected set, the cumulative distinct corrected/re-synchronized P3 assembly count remains **20**.
+- `மயிலிறகு` closes on scan 145 and is fully P4-reconciled.
+- Scan 146 remains a separate back-cover/promotional witness; its two corrections do not alter any article assembly.
 - No source-title, scan-span, printed-page mapping or unit-boundary change occurred.
 - Permanent source-title reading `மயிலிறகு` remains unchanged.
 - unresolved fidelity discrepancies after reconciliation: **0**.
@@ -240,8 +264,8 @@ Correction 165 was found during the closing re-check before this batch was froze
 
 - physical scans strict-reviewed: **146 / 146**;
 - contiguous reviewed range: **1–146**;
-- P4 corrections found: **198**;
-- P4 corrections propagated to canonical page records: **198 / 198**;
+- P4 corrections found: **207**;
+- P4 corrections propagated to canonical page records: **207 / 207**;
 - P3 article assemblies corrected / re-synchronized during P4: **20 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans: **0**;
@@ -256,6 +280,6 @@ The supplied 2006 scan remains controlling. Corroborating witnesses, OCR and con
 
 ## Exact next activity
 
-**P5 — Tamil publication completion review / freeze.** Revalidate the completed P0–P4 source layer as one publication-wide non-regression gate: **146 / 146** canonical page records, **26 / 26** source-titled assemblies, **128 / 128** canonical main-work pages, all **198 / 198** P4 corrections propagated, **0** unresolved fidelity discrepancies, **0** blocked/needs-review scans, and unchanged source mapping/title boundaries. Create the publication completion review/freeze record and synchronize all state-bearing trackers before unblocking English planning.
+**P5 — Tamil publication completion review / freeze.** Revalidate the completed P0–P4 source layer as one publication-wide non-regression gate: **146 / 146** canonical page records, **26 / 26** source-titled assemblies, **128 / 128** canonical main-work pages, all **207 / 207** P4 corrections propagated, **0** unresolved fidelity discrepancies, **0** blocked/needs-review scans, and unchanged source mapping/title boundaries. Create the publication completion review/freeze record and synchronize all state-bearing trackers before unblocking English planning.
 
 English remains **BLOCKED until Tamil P5 freeze passes**.
