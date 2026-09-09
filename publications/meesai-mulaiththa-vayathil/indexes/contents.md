@@ -2,7 +2,8 @@
 
 Publication: `publications/meesai-mulaiththa-vayathil/`  
 Controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`  
-P1 status: **COMPLETE / PASS — source-title corrections synchronized**
+P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
+P4 status: **IN PROGRESS — scans 1–10 / 10 of 146 strict-reviewed**
 
 ## Source-witness warning
 
@@ -90,7 +91,7 @@ The supplied 2006 scan pixels remained controlling throughout. OCR was not autho
 
 Formal gate: `P3_ASSEMBLY_AUDIT.md`.
 
-The 26 source-titled rows above now map one-to-one to the live P3 files in `articles/`.
+The 26 source-titled rows above map one-to-one to the live P3 files in `articles/`.
 
 - assemblies: **26 / 26**;
 - numbering/order: **01–26 contiguous**;
@@ -101,10 +102,25 @@ The 26 source-titled rows above now map one-to-one to the live P3 files in `arti
 - boundary gaps / overlaps: **0 / 0**;
 - unresolved assembly body-text blocks: **0**.
 
-The P3 layer preserves the frozen source-visible titles and P2 boundaries and was assembled from verified canonical page records without silent normalization. Page-boundary provenance is retained.
+## P4 strict-review overlay — IN PROGRESS
+
+Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+
+- strict-reviewed physical scans: **10 / 146**;
+- contiguous reviewed range: **1–10**;
+- corrections: **2**;
+- unresolved fidelity discrepancies: **0**;
+- mapping/title-boundary changes caused by P4 so far: **0**.
+
+Current P4 corrections are front-matter only:
+
+- scan 5 `கூறிய` → `கூரிய`;
+- scan 8 `மூத்தோர்` → `முதியோர்`.
+
+Therefore the 26-unit source map above remains unchanged.
 
 ## Exact next activity
 
-**P4 — final strict visual text-fidelity pass.** Re-inspect every physical scan directly and compare every visible word, word boundary, punctuation mark, heading, number and continuation against the canonical records and dependent assemblies. Record every correction with provenance and create `VISUAL_TEXT_FIDELITY_REVIEW.md` before closing P4.
+**P4 scans 11–20.** Re-inspect all ten scans directly and record every old reading → source-visible reading correction with provenance. Propagate any mapping/title effects here only if the controlling scan proves a change.
 
 English remains blocked until Tamil P5 freeze.
