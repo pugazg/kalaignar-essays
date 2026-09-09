@@ -16,7 +16,7 @@ transcription_method: "direct visual comparison with source scan"
 
 ## கடலே
 
-கதிர் விழுங்கி மதி உமிழும் கடலே! நிலமடந்தைக்கெழிலூட்டும் நீல உடையே! ஜகப் பெண்ணாளின் சந்தன மேனியில் சலசலவெனப் பறந்தாடும் சல்லாத்துணி நீ! பச்சைச் சிசுவின் பவள உதட்டிலே வழிந்து நிற்கும் பால்! கரையில் நீ உமிழும் நுரை! இரண்டும் ஒன்று! அசைந்தாடும் அழகு உதிர் அலைக்கரங்களால் அருமையான சங்குகளை நீ அள்ளி இறைப்பது; செங்கரும்புச் சிறு கைகளால் குழந்தைகள் செய்யும் இன்ப விளையாட்டை உணர்த்திக் காட்டுகிறது.
+கதிர் விழுங்கி - மதி உமிழும் கடலே! நிலமடந்தைக்கெழிலூட்டும் நீல உடையே! ஜகப் பெண்ணாளின் சந்தன மேனியில் சலசலவெனப் பறந்தாடும் சல்லாத்துணி நீ! பச்சைச் சிசுவின் பவள உதட்டிலே வழிந்து நிற்கும் பால்! கரையில் நீ உமிழும் நுரை! இரண்டும் ஒன்று! அசைந்தாடும் அழகு உதிர் அலைக்கரங்களால் அருமையான சங்குகளை நீ அள்ளி இறைப்பது; செங்கரும்புச் சிறு கைகளால் குழந்தைகள் செய்யும் இன்ப விஷமத்தை உணர்த்திக் காட்டுகிறது.
 
 ## அச்சிடப்பட்ட காட்சி
 
@@ -30,7 +30,14 @@ transcription_method: "direct visual comparison with source scan"
 ## P2 audit note
 
 - visible printed folio **27** directly verified.
-- source-visible heading and unusual joining/spacing forms including `நிலமடந்தைக்கெழிலூட்டும்`, `சலசலவெனப்`, `சல்லாத்துணி`, `அலைக்கரங்களால்`, and `செங்கரும்புச் சிறு` were retained from the controlling scan.
+- source-visible heading and unusual joining/spacing forms are controlled by the supplied scan.
 - Unit 4 continues on scan 29 / printed p.28.
+
+## P4 strict-fidelity note
+
+- strict visual review rechecked scan 28 word-by-word and punctuation-by-punctuation.
+- corrected `கதிர் விழுங்கி மதி` → **`கதிர் விழுங்கி - மதி`**.
+- corrected `இன்ப விளையாட்டை` → **`இன்ப விஷமத்தை`**.
+- unresolved fidelity discrepancies after correction: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 28 -->
