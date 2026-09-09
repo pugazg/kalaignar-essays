@@ -6,7 +6,7 @@ Physical scans: **146**
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
 P2 status: **COMPLETE / PASS — 146 / 146 VERIFIED**  
 P3 status: **COMPLETE / PASS — 26 / 26 assemblies**  
-P4 status: **IN PROGRESS — scans 1–10 / 10 of 146 strict-reviewed**
+P4 status: **IN PROGRESS — scans 1–20 / 20 of 146 strict-reviewed**
 
 ## Mapping rule
 
@@ -201,8 +201,8 @@ P4 status: **IN PROGRESS — scans 1–10 / 10 of 146 strict-reviewed**
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- physical scans strict-reviewed: **10 / 146**;
-- contiguous reviewed range: **1–10**;
+- physical scans strict-reviewed: **20 / 146**;
+- contiguous reviewed range: **1–20**;
 - corrections: **2**;
 - unresolved fidelity discrepancies: **0**;
 - P4 mapping/boundary changes: **0**.
@@ -212,10 +212,10 @@ Corrections so far are front-matter lexical readings only:
 - scan 5 `கூறிய` → `கூரிய`;
 - scan 8 `மூத்தோர்` → `முதியோர்`.
 
-No P1/P3 boundary or source-title mapping changed.
+Batch scans 11–20 required **0 new corrections**. The remaining `முன்னுரை`, blank scan 17 and Unit 1 `பிறையே` all reconcile with the canonical map. No P1/P3 boundary or source-title mapping changed.
 
 ## Next gate
 
-**P4 scans 11–20.** Re-inspect these ten physical scans directly, word-by-word and punctuation-by-punctuation, preserve source-witness distinctions, record every old reading → source-visible reading correction, and propagate any map-affecting changes only when proven by the controlling scan.
+**P4 scans 21–30.** Re-inspect these ten physical scans directly, word-by-word and punctuation-by-punctuation, preserve source-witness distinctions, record every old reading → source-visible reading correction, and propagate any map-affecting changes only when proven by the controlling scan.
 
 P4 does not authorize English translation; English remains blocked until Tamil P5 freeze.
