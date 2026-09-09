@@ -73,17 +73,17 @@ P4 running state:
 - formal report: `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`;
 - strict-reviewed physical scans: **20 / 146**;
 - contiguous range: **1–20**;
-- corrections: **2**;
+- corrections: **6**;
 - unresolved fidelity discrepancies: **0**;
-- cumulative corrections: scan 5 `கூறிய` → `கூரிய`; scan 8 `மூத்தோர்` → `முதியோர்`;
-- batch scans 11–20: **PASS — 0 new corrections**;
+- cumulative corrections: scan 5 `கூறிய` → `கூரிய`; scan 8 `மூத்தோர்` → `முதியோர்`; scan 12 `செயல்படுகிறது.` → `செய்துவிடுகிறது.`; scan 13 `மறக்கவிடவோ` → `மறந்துவிடவோ`; scan 14 `பின்னும்` → `பின்னுறும்`; scan 14 `இணைவாய்` → `இணையாய்`;
+- batch scans 11–20: **PASS after corrective review — 4 new corrections**;
 - affected P3 main-work assemblies so far: **0**.
 
 English remains **BLOCKED until Tamil P5 freeze**.
 
 ## Current repository boundary
 
-Publication 10 P4 is **IN PROGRESS — 20 / 146 strict-reviewed, 2 cumulative corrections, 0 unresolved discrepancies, blockers 0**.
+Publication 10 P4 is **IN PROGRESS — 20 / 146 strict-reviewed, 6 cumulative corrections, 0 unresolved discrepancies, blockers 0**.
 
 Exact next activity: **P4 scans 21–30**. Re-inspect them directly word-by-word and punctuation-by-punctuation, propagate any source-supported corrections, and advance `VISUAL_TEXT_FIDELITY_REVIEW.md` only after the full batch is reconciled.
 
