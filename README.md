@@ -31,7 +31,7 @@ Released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
 Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mulaiththa-vayathil/)
 
-**Tamil P0–P5 COMPLETE / PASS / FROZEN. English E0 COMPLETE / PASS. E1 Article 1 `பிறையே` COMPLETE / PASS through T0–T5. English progress: 1 / 26 verified. E2 Articles 2–11 is next.**
+**Tamil P0–P5 COMPLETE / PASS / FROZEN. English E0, E1 and E2 COMPLETE / PASS. Articles 1–11 are T0–T5 verified; English progress: 11 / 26. E3 Articles 12–18 is next.**
 
 Tamil authority:
 
@@ -49,20 +49,22 @@ Tamil authority:
 English state:
 
 - E0 planning/workspace: **COMPLETE / PASS**;
-- Article 1 `பிறையே`: **T0–T5 PASS / verified**;
-- English title: **O Crescent!**;
-- verified English blob: `1d07e03ba84353b2da7c0a344d6ae61c3223caf0`;
-- T0/T1/T2/T3/T4/T5 progress: **1 / 26** each;
+- E1 Article 1 `பிறையே`: **COMPLETE / PASS**;
+- E2 Articles 2–11: **COMPLETE / PASS — 10 / 10 verified**;
+- T0/T1/T2/T3/T4/T5 progress: **11 / 26** each;
+- E2 material T2 body corrections: **5**;
+- additional E2 T3/T4 body corrections: **0 / 0**;
 - unresolved English blockers: **0**;
-- E2 Articles 2–11: **NEXT**.
+- living lexicon decisions through Article 11: **58**;
+- E3 Articles 12–18: **NEXT**.
 
-Article 1 establishes the initial voice baseline: preserve direct vocatives, compact literary imagery, personification, repeated refrains/reversals, rhetorical sarcasm and concrete prison/freedom and beloved/freedom imagery. Publication-specific terminology remains governed by the living lexicon, not by mechanical import from older publications.
+Verified English titles through Article 11: **O Crescent!**, **Aadi Wind**, **Black Woman**, **O Sea!**, **River**, **Hail the Dawn!**, **The Ladle Siddhar**, **Hail, Mountain!**, **Tender Shoot**, **Star**, **Solitude**.
 
-Planned remaining phases: **E2 Articles 2–11**, **E3 Articles 12–18**, **E4 Articles 19–22**, **E5 Articles 23–26**, **E6 consistency**, **E7 release closeout**.
+Planned remaining phases: **E3 Articles 12–18**, **E4 Articles 19–22**, **E5 Articles 23–26**, **E6 consistency**, **E7 release closeout**.
 
 ## Current repository boundary
 
-Exact next activity: **E2 — Articles 2–11 (`ஆடிக்காற்று` through `தனிமை`)**, each independently through **T0 → T1 → T2 → T3 → T4 → T5**. Frozen Tamil must not be modified.
+Exact next activity: **E3 — Articles 12–18 (`நாடக மேடை` through `மருதாணி`)**, each independently through **T0 → T1 → T2 → T3 → T4 → T5**. Frozen Tamil must not be modified.
 
 ### Permanent `உடன்பிறப்பே` rule
 
