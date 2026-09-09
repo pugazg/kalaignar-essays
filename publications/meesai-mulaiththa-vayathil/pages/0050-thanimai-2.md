@@ -20,9 +20,9 @@ transcription_method: "direct visual comparison with source scan"
 
 பெண் : உமக்கென்ன பைத்தியமா! நேற்று
        இரவெல்லாம் என்னை
-       ஆரத்தழுவியபடி கடந்தீரே...
+       ஆரத்தழுவியபடியே கிடந்தீரே...
 
-ஆண் : அதற்கென்ன இப்போது, நான்
+ஆண் : அதற்கென்ன இப்போது - நான்
       அழைத்தால் வா - போ!
 
 பெண் : சரிதான். தேவைப்பட்டால் வரவேண்டிய
@@ -43,11 +43,11 @@ transcription_method: "direct visual comparison with source scan"
        வா; வா! என வாயார அழைத்து,
        அணைத்து, அமளியில் குலவினீர்! வேயா
        மாடத்தில் ஓயா இன்பம் பெறுவோம்
-       என்றீர்! வேணுகானமோ - வீணை
-       நாதமோ - என்று வர்ணித்தீர். அப்படியெல்லாம்
+       என்றீர்! வேணு கானமோ - வீணை
+       நாதமோ - என்று வர்ணித்தீர். அப்படி யெல்லாம்
        புகழாரங்கள் பூட்டிய நீரா இன்று
        அதிகாரத்துடன் விரட்டுகிறீர்?
-       காதலரே....... எல்லாம்
+       காதலரே எல்லாம்.... எல்லாம்
        கட்டிலறைப் பேச்சுத்தானா?
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -57,10 +57,20 @@ transcription_method: "direct visual comparison with source scan"
 
 ## P2 audit note
 
-- visible printed folio **49**, running header, all speaker labels, the complete dialogue and source-visible lineation/punctuation through the final `கட்டிலறைப் பேச்சுத்தானா?` were directly checked against the supplied 2006 scan.
-- source-visible forms retained include `பைத்தியமா!`, `ஆரத்தழுவியபடி`, `தேவாமிர்தமாயிரேன்`, `அதரபானம்`, `காந்தள்`, `ஸ்பரிசித்தபடியே`, `கருத்துக் குவியலே`, `வேயா மாடத்தில்`, and `வேணுகானமோ`.
+- visible printed folio **49**, running header, all speaker labels, complete dialogue and source-visible lineation/punctuation through `கட்டிலறைப் பேச்சுத்தானா?` were directly checked against the supplied 2006 scan.
+- source-visible forms now retain `ஆரத்தழுவியபடியே`, `கிடந்தீரே...`, `இப்போது - நான்`, `வேணு கானமோ`, `அப்படி யெல்லாம்`, and `காதலரே எல்லாம்.... எல்லாம்`.
 - the earlier incorrect working phrase `இந்தத் திருமுடியில் கூடத்தேடி...` remains excluded; it is not present in the controlling 2006 pixels.
-- the older `முத்தாரம்` witness was used only to corroborate difficult dialogue glyphs; the supplied 2006 page determined the canonical wording and punctuation.
-- Unit 11 `தனிமை` continues beyond scan 50; **scan 51 has not been inspected or transcribed in this activity**.
+- Unit 11 `தனிமை` continues beyond scan 50.
+
+## P4 strict-fidelity note
+
+- strict visual review rechecked scan 50 word-by-word and punctuation-by-punctuation against the controlling 2006 pixels.
+- corrected `ஆரத்தழுவியபடி` → **`ஆரத்தழுவியபடியே`**.
+- corrected `கடந்தீரே...` → **`கிடந்தீரே...`**.
+- corrected `இப்போது, நான்` → **`இப்போது - நான்`**.
+- corrected `வேணுகானமோ` → **`வேணு கானமோ`**.
+- corrected `அப்படியெல்லாம்` → **`அப்படி யெல்லாம்`**.
+- corrected `காதலரே....... எல்லாம்` → **`காதலரே எல்லாம்.... எல்லாம்`**.
+- unresolved fidelity discrepancies after correction: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 50 -->
