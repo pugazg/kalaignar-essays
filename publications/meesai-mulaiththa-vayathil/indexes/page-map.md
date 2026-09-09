@@ -3,7 +3,8 @@
 Publication: `publications/meesai-mulaiththa-vayathil/`  
 Controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`  
 Physical scans: **146**  
-P1 status: **COMPLETE / PASS — source-title corrections synchronized**
+P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
+P2 status: **COMPLETE / PASS — 146 / 146 VERIFIED**
 
 ## Mapping rule
 
@@ -178,15 +179,17 @@ P1 status: **COMPLETE / PASS — source-title corrections synchronized**
 - physical scans accounted for: **146 / 146**;
 - printed body folios accounted for: **128 / 128 — 17 through 144**;
 - front cover/title/imprint: **3 / 3**;
-- `என்னுரை`: **scans 4–6 / mapped**;
-- `முன்னுரை`: **scans 7–16 / mapped**;
-- blank/show-through scan: **17 / mapped**;
-- source-titled main units: **26 / 26**;
-- back cover: **scan 146 / mapped**;
+- `என்னுரை`: **scans 4–6 / mapped and P2 verified**;
+- `முன்னுரை`: **scans 7–16 / mapped and P2 verified**;
+- blank/show-through scan: **17 / mapped and P2 verified**;
+- source-titled main units: **26 / 26 mapped and P2 complete**;
+- back cover: **scan 146 / mapped and P2 verified**;
 - unmapped scans: **0**;
 - overlapping main-unit boundaries: **0**;
-- P1 page-sequence blockers: **0**.
+- P1 page-sequence blockers: **0**;
+- P2 missing canonical records: **0**;
+- P2 unresolved printed-text blocks: **0**.
 
 ## Next gate
 
-**P2 — page-level transcription.** Create a canonical page record for every physical scan, preserve printed text and physical-copy marks as separate layers, and mark a page `verified` only after direct visual comparison. P1 does not authorize article assembly or English translation.
+**P3 — article/unit assembly.** Assemble the 26 source-titled units from the fully verified canonical page records while preserving exact source wording and page-boundary provenance. P3 does not authorize English translation; English remains blocked until Tamil P5 freeze.
