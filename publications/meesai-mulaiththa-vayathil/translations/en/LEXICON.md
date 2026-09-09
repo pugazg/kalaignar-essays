@@ -240,18 +240,75 @@ This is a consistency aid, not a mechanical substitution table. Choices are esta
 | `பொன்னழகன்`, `வேல்விழி`, `அம்பிகாபதி`, `அமராவதி` | `Ponnazhagan`, `Velvizhi`, `Ambikapathi`, `Amaravathi` | Preserve source names; no outside literary expansion in body. | **T4 verified** |
 | poem `சாதி` | `caste` | Preserve the poem's direct social term. | **T4 verified** |
 
-## Translation discipline after E4
+## Article 23 — `சேவல் சண்டை`
+
+| Tamil | Preferred English | Context / exception | Status |
+|---|---|---|---|
+| `சேவல் சண்டை` | `Cockfight` | Title and central contest. | **T4 verified** |
+| `இனியன்`, `ஏந்திழை`, `செங்கண்ணன்` | `Iniyan`, `Enthizhai`, `Sengannan` | Preserve source names. | **T4 verified** |
+| `அத்தான்` | `Aththaan` | Intimate lover-address; same publication convention. | **T4 verified** |
+| `காதம்` | `kadam` | Retain source distance unit rather than inventing a modern conversion. | **T4 verified** |
+| `துர் நீதான்` | `Dur Neethan` | Source-bestowed/boasted title retained without outside expansion. | **T4 verified** |
+| `சேரன் செங்குட்டுவன்`, `கனகவிசயர்` | `Cheran Senguttuvan`, `Kanakavijayar` | Preserve source name forms; no external gloss in body. | **T4 verified** |
+| `இருப்புக் கூண்டு` / `வெள்ளிக் கூண்டு` | `iron cage` / `silver cage` | Preserve final victory/captivity/death reversal. | **T4 verified** |
+
+## Article 24 — `மடல்`
+
+| Tamil | Preferred English | Context / exception | Status |
+|---|---|---|---|
+| `மடல்` | `Letter`; `madal` in terminology discussion | Title uses readable English; retain source literary term when discussing the form itself. | **T4 verified** |
+| `சிலம்பு` / `சிலம்புத் தமிழ்` | `Silambu` / `Tamil of the Silambu` | Source literary label retained; no outside title expansion in body. | **T4 verified** |
+| `மாதவி`, `கோவலன்`, `வசந்தமாலை`, `மணிமேகலை` | `Madhavi`, `Kovalan`, `Vasanthamalai`, `Manimekalai` | Preserve source names. | **T4 verified** |
+| `கண்கூடுவரி`, `காண்வரி`, `உள்வரி`, `புறவரி`, `கிளர்வரி`, `தேர்ச்சி வரி`, `காட்சி வரி`, `எடுத்துக் கோள் வரி` | `kankoodu-vari`, `kaan-vari`, `ul-vari`, `puravari`, `kilar-vari`, `therchi-vari`, `kaatchi-vari`, `eduththukkol-vari` | Retain source performance labels rather than inventing unsupported English taxonomy. | **T4 verified** |
+| `எட்டுவகை வரிக்கூத்து` | `eight forms of vari-koothu` | Preserve source category without external expansion. | **T4 verified** |
+| `ஒரு கிழமை` | `one day` | Publication-established historical `கிழமை` handling. | **T4 verified** |
+| Madhavi's quoted `மடல்` verse | translated from the frozen Tamil witness | Do not import a published English translation. | **T4 verified** |
+
+## Article 25 — `ஆண்டு விழா`
+
+| Tamil | Preferred English | Context / exception | Status |
+|---|---|---|---|
+| `ஆண்டு விழா` | `Annual Festival` | Title and king's celebration. | **T4 verified** |
+| `மூன்றாம் பால்` | `third section` | Preserve compressed Kural reference without external exposition in body. | **T4 verified** |
+| `புலி நகத்தால் பொற்றாலி` | `golden marriage pendant of tiger claws` | Preserve marriage/warrior gift image; consistent with earlier tiger-claw imagery. | **T4 verified** |
+| `எரி` / `எலி` | `aflame` / `rat` | Tamil sound-play cannot be recreated exactly; preserve both lexical poles without inventing a new pun. | **T4 verified** |
+| `தோஷம்` | `dosham` | Source astrological term retained. | **T4 verified** |
+| `விஷப்பரீட்சை` | `poison-test` | Preserve source's dangerous-test image rather than weakening to generic risk. | **T4 verified** |
+| `முத்தாரம்` / `முத்த ஆரம்` | `pearl garland` / `garland of kisses` | Preserve the pearl/kiss segmentation wordplay across the dialogue. | **T4 verified** |
+| `முரசு` | `war-drum` | Final duty/romance contrast. | **T4 verified** |
+
+## Article 26 — `மயிலிறகு`
+
+| Tamil | Preferred English | Context / exception | Status |
+|---|---|---|---|
+| `மயிலிறகு` | `Peacock Feather` | Title, Jain non-harm emblem, love image and final resistance image. | **T4 verified** |
+| `சைவநெறி` | `Saivite path` | Preserve source religious formulation. | **T4 verified** |
+| `சமணம்` / `சமணர்` | `Jainism` / `Jains` / `Jain ascetic` | Contextual English; do not rewrite the source's historical-political claims from outside material. | **T4 verified** |
+| `குலச்சிறை`, `நலங்கிள்ளி`, `பீலிவளை` | `Kulachirai`, `Nalangilli`, `Peelivalai` | Preserve source name forms. | **T4 verified** |
+| `கண்புடை பட்டு` | `kanpudai-pattu` | Source-compressed/uncertain phrase retained rather than confidently repairing or expanding it. | **T4 verified** |
+| `கழுமரம்` | `impalement stake` | Preserve source violence directly. | **T4 verified** |
+| `யாயும் ஞாயும் ...` quotation | translated from the frozen Tamil witness | No published/modern English version imported. | **T4 verified** |
+| `கிண்ணாரக் கிழவன்` | `old kinnaara` | Retain source-bearing unfamiliar label; no unsupported identification. | **T4 verified** |
+| `ஒதிய மரமே` | `old odhiya tree` | Preserve source insult/form without outside botanical normalisation. | **T4 verified** |
+| `உயிர் மதியா ஒளி விளக்கே` | `O lamp of light who counted life as nothing!` | Preserve the source's life-disregarding martyr-like praise; not `reason`. | **T4 verified** |
+| `முத்தமிழ்வர் - முத்தமிழர்` | `Muthamizhvar—Muthamizhars` | Preserve the source-visible paired irregular forms; do not silently regularise Tamil. | **T4 verified** |
+| `ஐயப்பசி` | `aiyappasi` | Source-bearing compressed term retained; no speculative gloss in body. | **T4 verified** |
+| `மலர்ப்பதி` | `Malarppathi` | Retain source form rather than genericising it into an invented place description. | **T4 verified** |
+| `சக்கைகள்` | `sakkais` | Source-bearing group label retained without unsupported external identification. | **T4 verified** |
+
+## Translation discipline after E5
 
 - direct apostrophe, personification, repetition, sarcasm, sensuality and polemical harshness remain;
 - verse/dialogue lineation is preserved where source structure materially carries voice;
-- source-specific names, puns and cultural labels are not expanded from outside knowledge;
-- transliteration is used only when it preserves a source-bearing function that ordinary English would erase;
-- source irregularities or uncertain compressed images are retained conservatively and documented here/review ledger rather than silently repaired.
+- source-specific names, puns, cultural/religious labels and unfamiliar terms are not expanded from outside knowledge;
+- transliteration is used only when it preserves a source-bearing function or avoids a speculative gloss;
+- quoted literary passages in Articles 24 and 26 are translated only from the frozen Tamil witness;
+- source irregularities or uncertain compressed images remain documented here/review ledger rather than silently repaired.
 
 ## Current status
 
 - frozen Tamil article set: **26 / 26 inventoried**;
-- publication-specific lexical decisions established: **117** through Article 22;
-- Articles **1–22** terminology / quotation / source audit: **T4 PASS**;
+- publication-specific lexical decisions established: **153** through Article 26;
+- Articles **1–26** terminology / quotation / source audit: **T4 PASS**;
 - unresolved terminology blockers: **0**;
-- next lexicon activity: **E5 / Articles 23–26**.
+- next lexicon activity: **E6 publication-wide English consistency review**.
