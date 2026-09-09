@@ -9,7 +9,7 @@ Branch: `main`
 
 Publications **1–9 are RELEASE COMPLETE / FROZEN**.
 
-Active Publication **10 — `மீசை முளைத்த வயதில்` — P0, P1, P2 and P3 COMPLETE / PASS. P4 is IN PROGRESS at scans 1–20 / 20 of 146 strict-reviewed, with 2 source corrections and 0 unresolved fidelity discrepancies.**
+Active Publication **10 — `மீசை முளைத்த வயதில்` — P0, P1, P2 and P3 COMPLETE / PASS. P4 is IN PROGRESS at scans 1–20 / 20 of 146 strict-reviewed, with 6 source corrections and 0 unresolved fidelity discrepancies.**
 
 Source PDFs are never committed.
 
@@ -110,8 +110,8 @@ Current checkpoint:
 
 - physical scans strict-reviewed: **20 / 146**;
 - contiguous strict-reviewed range: **1–20**;
-- corrections found: **2**;
-- corrections propagated to canonical page records: **2 / 2**;
+- corrections found: **6**;
+- corrections propagated to canonical page records: **6 / 6**;
 - affected P3 main-work assemblies requiring propagation: **0**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
@@ -119,11 +119,13 @@ Current checkpoint:
 P4 corrections so far:
 
 1. scan 5 `என்னுரை`: **`கூறிய` → `கூரிய`** in `கூரிய வேல் வாள்`;
-2. scan 8 `முன்னுரை`: **`மூத்தோர்` → `முதியோர்`** in `அறிவுரையே கவிதை என்றால் முதியோர் முதுமொழி போதும்.`
+2. scan 8 `முன்னுரை`: **`மூத்தோர்` → `முதியோர்`**;
+3. scan 12 `முன்னுரை`: **`செயல்படுகிறது.` → `செய்துவிடுகிறது.`**;
+4. scan 13 `முன்னுரை`: **`மறக்கவிடவோ` → `மறந்துவிடவோ`**;
+5. scan 14 `முன்னுரை`: **`பின்னும்` → `பின்னுறும்`**;
+6. scan 14 `முன்னுரை`: **`இணைவாய்` → `இணையாய்`**.
 
-Batch P4-011-020 passed with **0 new corrections**. Scans 11–16 complete the `முன்னுரை` strict review, scan 17 remains a genuine blank/show-through page, and Unit 1 `பிறையே` scans 18–20 / pp.17–19 reconciles without change. No P3 assembly propagation was required.
-
-Both cumulative corrections are direct controlling-scan corrections in front matter only. Scan 3's stamp-obscured publisher-address segment remains explicitly unreconstructed.
+All six are direct controlling-scan corrections in front matter only. Scans 11–16 complete the `முன்னுரை` strict review, scan 17 remains a genuine blank/show-through page, and Unit 1 `பிறையே` scans 18–20 / pp.17–19 reconciles with **0 correction** and no P3 propagation. Scan 3's stamp-obscured publisher-address segment remains explicitly unreconstructed.
 
 ## Gate state
 
