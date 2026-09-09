@@ -57,22 +57,23 @@ P4 source corrections are propagated into P3 assemblies whenever they affect mai
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-Current strict-reviewed range: **scans 1–50 / 50 of 146**.
+Current strict-reviewed range: **scans 1–60 / 60 of 146**.
 
 - P4-001-010: **PASS — 2 corrections**;
 - P4-011-020: **PASS — 4 corrections**;
 - P4-021-030: **PASS — 35 corrections**;
 - P4-031-040: **PASS — 43 corrections**;
 - P4-041-050: **PASS — 46 corrections**;
-- cumulative corrections: **130**;
-- corrections propagated to canonical page records: **130 / 130**;
+- P4-051-060: **PASS — 2 corrections**;
+- cumulative corrections: **132**;
+- corrections propagated to canonical page records: **132 / 132**;
 - P3 assemblies corrected/re-synchronized: **10 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
-The 41–50 pass closed `மலையே வாழி`, fully reconciled `தளிர்` and `விண்மீன்`, and reviewed the first two pages of `தனிமை`. Notable source-controlled readings include scan 41 `நிமிர்த்தாவிட்டால்`, `வைரத் தோள்கள்`, `சிற்பக் குகையாய்`; scan 44 `நீயும் நாத்திகவாதி.` and the restored `பாம்பொடு விளையாடும்...` sentence; scan 47 `விரித்தாடுங்காட்சி கண்டேன்`, `சீச்சீ!`, `நா கடுக்கத்தேடி`; scan 48 `ஒரு முழு வால்தான்`; and scan 49 opening `அன்புள்ள காதலரே!`.
+The 51–60 pass finished `தனிமை`, fully reconciled `நாடக மேடை` and `புகழ்`, and reviewed the first two pages of `பச்சைக்கிளி`. Only two source corrections were required: scan 52 `ஒரு முத்தங்கள் கொடுங்களத்தான்”` and scan 53 `ஓவியத்தை`. Both were propagated into `articles/11-thanimai.md`; the other eight scans required no text change.
 
-Unit boundaries and printed-page mapping remain unchanged. `தனிமை` continues from scan 51.
+Unit boundaries and printed-page mapping remain unchanged. `பச்சைக்கிளி` continues on scan 61.
 
 ## Source identity
 
@@ -88,13 +89,13 @@ Unit boundaries and printed-page mapping remain unchanged. `தனிமை` con
 - P1: **COMPLETE / PASS**
 - P2: **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3: **COMPLETE / PASS — 26 / 26 assemblies**
-- P4: **IN PROGRESS — 50 / 146 strict-reviewed**
+- P4: **IN PROGRESS — 60 / 146 strict-reviewed**
 - P5: **NOT STARTED**
 - English: **BLOCKED until Tamil P5 freeze**
 - active P4 blockers: **0**
 
 ## Exact next activity
 
-**P4 scans 51–60.** Finish `தனிமை` on scans 51–54, review `நாடக மேடை` scans 55–56 and `புகழ்` scans 57–58, then begin `பச்சைக்கிளி` on scans 59–60. Re-inspect every visible word, word boundary and punctuation mark directly against the controlling source and propagate any corrections before advancing the checkpoint.
+**P4 scans 61–70.** Close `பச்சைக்கிளி` on scan 61, review single-page `தமிழே` on scan 62, and review `தேனலைகள்` scans 63–70. Re-inspect every visible word, word boundary and punctuation mark directly against the controlling source and propagate any corrections before advancing the checkpoint.
 
 Do not begin English translation until the Tamil archival workflow reaches P5 freeze.
