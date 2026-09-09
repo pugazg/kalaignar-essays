@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P4 scans 91–100
+# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P5 Tamil publication freeze
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first and preserve newer durable work. Root `HANDOVER.md` is the single authoritative project handover.
+Fetch live `main` first and preserve newer durable work. Root `HANDOVER.md` is the **single authoritative project handover**. This prompt is only a continuation convenience.
 
 Publications **1–9 are RELEASE COMPLETE / FROZEN**. Do not reopen them from stale prompts.
 
@@ -23,59 +23,53 @@ Publication 10 `மீசை முளைத்த வயதில்`:
 - P3 canonical main-work pages — **128 / 128**;
 - P3 source scan coverage — **18–145 contiguous**;
 - P3 boundary gaps / overlaps — **0 / 0**;
-- P4 — **IN PROGRESS — scans 1–90 / 90 of 146 strict-reviewed**;
-- P4 cumulative corrections — **142**;
-- corrections propagated — **142 / 142**;
-- P3 assemblies corrected/re-synchronized — **13 distinct assemblies**;
+- P4 — **PASS / COMPLETE — 146 / 146 strict-reviewed**;
+- P4 cumulative corrections — **198**;
+- corrections propagated — **198 / 198**;
+- P3 assemblies corrected/re-synchronized during P4 — **20 distinct assemblies**;
 - P4 unresolved fidelity discrepancies — **0**;
-- active P4 blockers — **0**;
-- English — **BLOCKED until Tamil P5 freeze**.
+- blocked / needs-review scans — **0 / 0**;
+- P4 mapping / boundary changes — **0**;
+- P5 — **NOT STARTED**;
+- English — **BLOCKED until Tamil P5 freeze passes**.
 
 Formal records:
 
 - `publications/meesai-mulaiththa-vayathil/P3_ASSEMBLY_AUDIT.md`;
-- `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`.
+- `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`;
+- `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW_THROUGH_100.md`.
 
-## P4 checkpoint through scan 90
+## Final P4 checkpoint
 
-Completed batches:
+Completed P4 correction totals by batch:
 
-- P4-001-010 — **PASS; 2 corrections**;
-- P4-011-020 — **PASS; 4 corrections**;
-- P4-021-030 — **PASS; 35 corrections**;
-- P4-031-040 — **PASS; 43 corrections**;
-- P4-041-050 — **PASS; 46 corrections**;
-- P4-051-060 — **PASS; 2 corrections**;
-- P4-061-070 — **PASS; 2 corrections**;
-- P4-071-080 — **PASS; 5 corrections**;
-- P4-081-090 — **PASS; 3 corrections**;
-- cumulative unresolved fidelity discrepancies — **0**.
+- 001–010 — **2**;
+- 011–020 — **4**;
+- 021–030 — **35**;
+- 031–040 — **43**;
+- 041–050 — **46**;
+- 051–060 — **2**;
+- 061–070 — **2**;
+- 071–080 — **5**;
+- 081–090 — **3**;
+- 091–100 — **15**;
+- 101–110 — **12**;
+- 111–120 — **11**;
+- 121–130 — **8**;
+- 131–140 — **10**;
+- 141–146 — **0**.
 
-### P4-071-080
+Final remainder P4-141-146:
 
-- scan 71 closes `தேனலைகள்`;
-- scans 72–77 complete `தோழி`;
-- scans 78–80 begin `மருதாணி`;
-- five corrections:
-  - scan 72 `முத்தவள` → **`முத்தவள்`**;
-  - scan 77 `இதோ யார்` → **`இதோ பார்`**;
-  - scan 77 `அவனா?...` → **`அவனா ?...`**;
-  - scan 77 `புலியை?...` → **`புலியை ?...`**;
-  - scan 80 `பொழியலானாள்` → **`பொழியலானார்`**;
-- affected P3 assemblies `articles/17-thozhi.md` and `articles/18-maruthaani.md` are synchronized.
-
-### P4-081-090
-
-- scans 81–84 / pp.80–83 finish `மருதாணி`;
-- scans 85–90 / pp.84–89 cover all of `அருவி`;
-- three corrections, all in `மருதாணி`:
-  - scan 82 `இரவாய் சுருங்குவதெப்போதென` → **`இரவாய்ச் சுருங்குவதெப்போதென`**;
-  - scan 83 `கலையுமோ?...` → **`கலையுமோ ?...`**;
-  - scan 83 `மருதாணி பெரிதோ?...` → **`மருதாணி பெரிதோ ?...`**;
-- `articles/18-maruthaani.md` is synchronized;
-- scans 81 and 84–90 required no textual correction;
-- `அருவி` passed **6 / 6** with no P4 text correction;
-- source-title, scan-span, printed-page mapping and unit boundaries remain unchanged.
+- scans **141–145 / pp.140–144** finish `மயிலிறகு`;
+- scan **146** is the illustrated back-cover / promotional-text witness;
+- all six scans — **PASS**;
+- corrections — **0**;
+- unresolved fidelity discrepancies — **0**;
+- `articles/26-mayiliragu.md` required no final-batch change;
+- scan 145 retains the source-printed closing bullet;
+- scan 146 remains separate from the article assembly;
+- source titles, spans, printed-page mapping and boundaries remain unchanged.
 
 ## Controlling source
 
@@ -94,30 +88,38 @@ Permanent P1 source-title readings:
 
 ## Mandatory startup
 
-Read completely before source-dependent work:
+Read completely before P5 writes:
 
-1. `ESSAY_PROCESSING_GUIDE.md`, especially section 12;
-2. root `HANDOVER.md`;
-3. this prompt;
-4. publication `README.md`;
-5. `audit.md`;
-6. `metadata/source.md`;
-7. `indexes/page-map.md`;
-8. `indexes/contents.md`;
-9. `P3_ASSEMBLY_AUDIT.md`;
-10. `VISUAL_TEXT_FIDELITY_REVIEW.md`;
-11. canonical records and corresponding P3 assemblies for scans 91–100.
+1. `ESSAY_PROCESSING_GUIDE.md`;
+2. `docs/FUTURE_WORK_GUIDELINES.md`;
+3. root `HANDOVER.md`;
+4. this prompt;
+5. publication `README.md`;
+6. `audit.md`;
+7. `metadata/source.md`;
+8. `indexes/page-map.md`;
+9. `indexes/contents.md`;
+10. `P3_ASSEMBLY_AUDIT.md`;
+11. `VISUAL_TEXT_FIDELITY_REVIEW.md`;
+12. established completion-review precedent such as another completed publication's `PUBLICATION_COMPLETION_REVIEW.md`, using it only for gate structure—not for publication-specific source readings.
 
-Resolve the controlling PDF before direct visual work.
+## Exact next activity — P5 Tamil publication completion review / freeze
 
-## Exact next activity — P4 scans 91–100
-
-1. Re-inspect physical scans **91–100 directly**.
-2. Scans **91–95 / pp.90–94** are all of Unit 20 `முறம்`; scans **96–100 / pp.95–99** are the opening five pages of Unit 21 `யாழ்`, which continues through scan 102 / p.101.
-3. Compare every visible word, word boundary/spacing, punctuation mark, quotation mark, heading, number and continuation with the canonical records.
-4. Preserve the source pixels even when wording looks unusual; do not normalize from context or alternate witnesses.
-5. Record every correction as **old reading → source-visible reading** with scan/printed-page provenance.
-6. Propagate every main-work correction into the affected `articles/` assembly and dependent trackers.
-7. Update `VISUAL_TEXT_FIDELITY_REVIEW.md` only after the full ten-scan batch is reconciled.
-8. Do not declare P4 complete before **146 / 146** scans.
-9. **Do not begin English translation; English remains blocked until Tamil P5 freeze.**
+1. Fetch live `main` first and preserve any newer durable work.
+2. Revalidate the completed P0–P4 source/archive layer as **one publication-wide non-regression gate**.
+3. Confirm at minimum:
+   - physical/canonical page records **146 / 146**;
+   - source-titled assemblies **26 / 26**;
+   - canonical main-work pages represented **128 / 128**;
+   - source scan coverage **18–145 contiguous** plus scan 146 separate back-cover witness;
+   - strict P4 coverage **146 / 146**;
+   - P4 corrections **198 / 198 propagated**;
+   - unresolved printed-text blocks **0**;
+   - unresolved fidelity discrepancies **0**;
+   - blocked / needs-review records **0 / 0**;
+   - source-title, scan-span, printed-page mapping and unit-boundary drift **0**.
+4. Create `publications/meesai-mulaiththa-vayathil/PUBLICATION_COMPLETION_REVIEW.md` as the formal P5 completion/freeze record.
+5. Record the frozen Tamil authority/checkpoint needed for future translation provenance.
+6. Synchronize all state-bearing records: publication `README.md`, `audit.md`, `metadata/source.md`, `indexes/page-map.md`, `indexes/contents.md`, root `HANDOVER.md`, and this prompt.
+7. Mark P5 **PASS / COMPLETE** only if every non-regression check passes with **0 blockers**.
+8. After durable P5 PASS, English/E0 planning may become the next activity; **do not begin English translation within P5 itself unless separately authorized by the next durable state**.
