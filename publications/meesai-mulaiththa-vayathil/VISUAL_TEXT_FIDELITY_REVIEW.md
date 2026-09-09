@@ -7,10 +7,10 @@ Physical scans: **146**
 
 ## Gate state
 
-**P4 — IN PROGRESS — 50 / 146 physical scans strict-reviewed**
+**P4 — IN PROGRESS — 60 / 146 physical scans strict-reviewed**
 
-Contiguous strict-reviewed range: **scans 1–50**.  
-Next strict-review batch: **scans 51–60**.
+Contiguous strict-reviewed range: **scans 1–60**.  
+Next strict-review batch: **scans 61–70**.
 
 P4 follows `ESSAY_PROCESSING_GUIDE.md` section 12: every physical scan is re-inspected directly, word-by-word and punctuation-by-punctuation, against the canonical page record. Source pixels remain authority; context, OCR and secondary editions are not authority.
 
@@ -334,12 +334,48 @@ Scans 18–20 / Unit 1 `பிறையே` required no correction; P3 propagati
 - Permanent P1 title `தளிர்` remains unchanged; no source-title or unit-boundary change occurred.
 - unresolved fidelity discrepancies after reconciliation: **0**.
 
+## Batch P4-051-060
+
+**RESULT: PASS after corrective strict review — 10 / 10 scans; 2 corrections; 0 unresolved fidelity discrepancies.**
+
+| Scan | Unit / printed page | Result | Corrections |
+|---:|---|---|---:|
+| 51 | `தனிமை` / p.50 | PASS | 0 |
+| 52 | `தனிமை` / p.51 | PASS after correction | 1 |
+| 53 | `தனிமை` / p.52 | PASS after correction | 1 |
+| 54 | `தனிமை` / p.53 | PASS | 0 |
+| 55 | `நாடக மேடை` / p.54 | PASS | 0 |
+| 56 | `நாடக மேடை` / p.55 | PASS | 0 |
+| 57 | `புகழ்` / p.56 | PASS | 0 |
+| 58 | `புகழ்` / p.57 | PASS | 0 |
+| 59 | `பச்சைக்கிளி` / p.58 | PASS | 0 |
+| 60 | `பச்சைக்கிளி` / p.59 | PASS | 0 |
+
+### Correction provenance — P4-051-060
+
+**Scan 52 — `தனிமை` / p.51**
+
+131. `ஒரு முத்தங்கள் கொடுங்கள் தான்”` → source-visible **`ஒரு முத்தங்கள் கொடுங்களத்தான்”`**.
+
+**Scan 53 — `தனிமை` / p.52**
+
+132. `ஒவியத்தை` → source-visible **`ஓவியத்தை`**.
+
+### Batch findings / dependency propagation
+
+- Scans 51, 54–60 required no textual correction.
+- Both source-visible corrections were applied to canonical page records.
+- `articles/11-thanimai.md` was re-synchronized for scans 52–53; because it had already been corrected in the preceding batch, the cumulative distinct-assembly count remains **10**.
+- `தனிமை` closes on scan 54; `நாடக மேடை` and `புகழ்` are fully P4-reconciled; `பச்சைக்கிளி` remains open and continues on scan 61.
+- No source-title, scan-span, printed-page mapping or unit-boundary change occurred.
+- unresolved fidelity discrepancies after reconciliation: **0**.
+
 ## Progress totals
 
-- physical scans strict-reviewed: **50 / 146**;
-- contiguous reviewed range: **1–50**;
-- P4 corrections found: **130**;
-- P4 corrections propagated to canonical page records: **130 / 130**;
+- physical scans strict-reviewed: **60 / 146**;
+- contiguous reviewed range: **1–60**;
+- P4 corrections found: **132**;
+- P4 corrections propagated to canonical page records: **132 / 132**;
 - P3 article assemblies corrected / re-synchronized so far: **10 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**;
@@ -353,6 +389,6 @@ The supplied 2006 scan remains controlling. Corroborating witnesses, OCR and con
 
 ## Exact next activity
 
-**P4 scans 51–60.** Re-inspect all ten physical scans directly against their canonical records. This batch finishes `தனிமை` on scans 51–54, covers `நாடக மேடை` scans 55–56 and `புகழ்` scans 57–58, and begins `பச்சைக்கிளி` on scans 59–60. Record every old reading → source-visible reading correction, propagate affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
+**P4 scans 61–70.** Re-inspect all ten physical scans directly against their canonical records. This batch closes `பச்சைக்கிளி` on scan 61, covers single-page `தமிழே` on scan 62, and reviews `தேனலைகள்` scans 63–70 (the unit closes on scan 71). Record every old reading → source-visible reading correction, propagate affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
 
 Do not mark P4 complete before **146 / 146** physical scans are strict-reviewed. English remains **BLOCKED until Tamil P5 freeze**.
