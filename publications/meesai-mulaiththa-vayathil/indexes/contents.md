@@ -3,7 +3,7 @@
 Publication: `publications/meesai-mulaiththa-vayathil/`  
 Controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`  
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
-P4 status: **IN PROGRESS — scans 1–90 / 90 of 146 strict-reviewed**
+P4 status: **IN PROGRESS — scans 1–100 / 100 of 146 strict-reviewed**
 
 ## Source-witness warning
 
@@ -106,11 +106,11 @@ The 26 source-titled rows above map one-to-one to the live P3 files in `articles
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- strict-reviewed physical scans: **90 / 146**;
-- contiguous reviewed range: **1–90**;
-- cumulative corrections: **142**;
-- corrections propagated: **142 / 142**;
-- P3 assemblies corrected/re-synchronized: **13 distinct assemblies**;
+- strict-reviewed physical scans: **100 / 146**;
+- contiguous reviewed range: **1–100**;
+- cumulative corrections: **157**;
+- corrections propagated: **157 / 157**;
+- P3 assemblies corrected/re-synchronized: **15 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - mapping/title-boundary changes caused by P4 so far: **0**.
 
@@ -120,10 +120,12 @@ P4-071-080 passed with **5** direct-source corrections across `தோழி` and
 
 P4-081-090 passed with **3** direct-source corrections, all in `மருதாணி`: scan 82 `இரவாய் சுருங்குவதெப்போதென` → `இரவாய்ச் சுருங்குவதெப்போதென`; scan 83 `கலையுமோ?...` → `கலையுமோ ?...`, and `மருதாணி பெரிதோ?...` → `மருதாணி பெரிதோ ?...`. `articles/18-maruthaani.md` was re-synchronized. `அருவி` scans 85–90 passed with no P4 text correction.
 
-No source-title or unit-boundary change resulted from P4 through scan 90; the 26-unit source map above remains unchanged. `அருவி` closes on scan 90.
+P4-091-100 passed with **15** direct-source corrections across `முறம்` and `யாழ்`; `articles/20-muram.md` and `articles/21-yaazh.md` were re-synchronized. Scans 92, 96 and 100 required no P4 text correction.
+
+No source-title or unit-boundary change resulted from P4 through scan 100; the 26-unit source map above remains unchanged. `முறம்` closes on scan 95; `யாழ்` remains open through scan 102.
 
 ## Exact next activity
 
-**P4 scans 91–100.** Strict-review all of `முறம்` on scans 91–95 / pp.90–94 and the opening five pages of `யாழ்` on scans 96–100 / pp.95–99; `யாழ்` continues through scan 102. Record every old reading → source-visible reading correction with provenance, propagate affected canonical text into dependent P3 assemblies, and update this overlay only after the full batch is reconciled.
+**P4 scans 101–110.** Finish `யாழ்` on scans 101–102 / pp.100–101 and begin `சிற்பி` on scans 103–110 / pp.102–109; `சிற்பி` continues beyond scan 110. Record every old reading → source-visible reading correction with provenance, propagate affected canonical text into dependent P3 assemblies, and update this overlay only after the full batch is reconciled.
 
 English remains blocked until Tamil P5 freeze.
