@@ -25,11 +25,11 @@ transcription_method: "direct visual comparison with source scan"
 
 “அவளை நான் மதிக்கிறேன். அவள் பெரும் பேறு
 பெற்றவள். கற்புடைய கட்டழகனைப் பெற்ற அந்த
-நல்லாள் வாழ்ந்திடுக!... வளவர் கோமானே!....
+நல்லாள் வாழ்ந்திடுக!... வளவர் கோமானே!...
 தங்கள் அன்பு நினைவாக எனக்கு ஏதாவது...”
 
 “இதோ... இதயத் தாய்மையை வெளிப்படுத்தும்
-பரிசு!.... இந்த முத்துக் கணையாழியை
+பரிசு!... இந்த முத்துக் கணையாழியை
 அணிந்துகொள்... இது தங்கைக்கு அண்ணன் தரும்
 அணிகலன்...”
 
@@ -58,6 +58,7 @@ transcription_method: "direct visual comparison with source scan"
 
 - visible printed folio **68**, running header, dialogue, prose continuation and the hollow-circle scene separator were directly verified against the supplied 2006 scan.
 - source-visible forms retained include `பெரும் பேறு`, `கட்டழகனைப்`, `வளவர் கோமானே`, `இதயத் தாய்மையை`, `முத்துக் கணையாழியை`, `இன்பக் கொல்லையிலே`, `யாழரசன்`, `உளியடாச் சிலை`, `ஒளித் தமிழன்`, and `முழவின்றி`.
+- P4 strict visual review corrected two ellipsis counts on this scan: `கோமானே!....` → `கோமானே!...` and `பரிசு!....` → `பரிசு!...`; no lexical, spacing, mapping, or boundary change resulted.
 - scan 68→69 directly closes `... இதோ என் அன்பின்` → `அடையாளமாக அவளுக்கு இந்த முத்துமாலையை`; scan 69→70 continues `முடிவுமின்றித்` → `தொடங்கிற்று!`.
 
 <!-- மூல ஸ்கேன் பக்கம்: 69 -->
