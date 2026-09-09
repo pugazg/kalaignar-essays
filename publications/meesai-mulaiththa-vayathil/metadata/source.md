@@ -58,10 +58,10 @@ Formal validation: `P3_ASSEMBLY_AUDIT.md`.
 
 Running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- physical scans strict-reviewed: **50 / 146**;
-- contiguous strict-reviewed range: **1–50**;
-- cumulative corrections: **130**;
-- corrections propagated to canonical page records: **130 / 130**;
+- physical scans strict-reviewed: **60 / 146**;
+- contiguous strict-reviewed range: **1–60**;
+- cumulative corrections: **132**;
+- corrections propagated to canonical page records: **132 / 132**;
 - P3 assemblies corrected/re-synchronized: **10 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
@@ -72,9 +72,10 @@ P4 batch results:
 - scans 11–20: **4 corrections**;
 - scans 21–30: **35 corrections**;
 - scans 31–40: **43 corrections**;
-- scans 41–50: **46 corrections**.
+- scans 41–50: **46 corrections**;
+- scans 51–60: **2 corrections**.
 
-The 41–50 batch closed `மலையே வாழி`, reconciled all of `தளிர்` and `விண்மீன்`, and reviewed the opening two scans of `தனிமை`. The affected assemblies `08-malaiye-vaazhi.md`, `09-thalir.md`, `10-vinmeen.md`, and `11-thanimai.md` were re-synchronized. Unit boundaries and printed folio mapping did not change; `தனிமை` continues from scan 51.
+The 51–60 batch finished `தனிமை`, reconciled `நாடக மேடை` and `புகழ்`, and reviewed scans 59–60 of `பச்சைக்கிளி`. Source-visible corrections were limited to scan 52 `கொடுங்களத்தான்` and scan 53 `ஓவியத்தை`; both were propagated into `11-thanimai.md`. The other eight scans required no textual change. Unit boundaries and printed folio mapping did not change; `பச்சைக்கிளி` closes on scan 61.
 
 ## Physical-copy / scan condition
 
@@ -90,13 +91,13 @@ The 41–50 batch closed `மலையே வாழி`, reconciled all of `த�
 - P1 — **COMPLETE / PASS**
 - P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**
-- P4 — **IN PROGRESS — 50 / 146 strict-reviewed**
+- P4 — **IN PROGRESS — 60 / 146 strict-reviewed**
 - P5 — **NOT STARTED**
 - English translation — **BLOCKED until Tamil P5 freeze**
 - active P4 blockers — **0**
 
 ## Exact next activity
 
-**P4 scans 51–60.** Finish `தனிமை`, review `நாடக மேடை` and `புகழ்`, and begin `பச்சைக்கிளி`, using only the supplied 2006 pixels as authority. Propagate every proven main-work correction into the dependent P3 assembly before advancing the running report.
+**P4 scans 61–70.** Close `பச்சைக்கிளி` on scan 61, review single-page `தமிழே` on scan 62, and review `தேனலைகள்` scans 63–70, using only the supplied 2006 pixels as authority. Propagate every proven main-work correction into the dependent P3 assembly before advancing the running report.
 
 Do not begin English translation.
