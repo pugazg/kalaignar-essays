@@ -15,12 +15,12 @@ This live report continues that same correction sequence from **158** onward. Th
 
 ## Gate state
 
-**P4 — IN PROGRESS — 140 / 146 physical scans strict-reviewed**
+**P4 — COMPLETE / PASS — 146 / 146 physical scans strict-reviewed**
 
-Contiguous strict-reviewed range: **scans 1–140**.  
-Next strict-review batch: **scans 141–146**.
+Contiguous strict-reviewed range: **scans 1–146**.  
+Unresolved fidelity discrepancies: **0**.
 
-P4 follows `ESSAY_PROCESSING_GUIDE.md` section 12: every physical scan is re-inspected directly, word-by-word, word-boundary-by-word-boundary and punctuation-by-punctuation, against the canonical page record. Source pixels remain authority; context, OCR and secondary editions are not authority.
+P4 follows `ESSAY_PROCESSING_GUIDE.md` section 12: every physical scan was re-inspected directly, word-by-word, word-boundary-by-word-boundary and punctuation-by-punctuation, against the canonical page record. Source pixels remained authority; context, OCR and secondary editions were not authority.
 
 ## Historical batches through scan 100
 
@@ -213,26 +213,49 @@ Correction 165 was found during the closing re-check before this batch was froze
 - Permanent source-title reading `மயிலிறகு` remains unchanged.
 - unresolved fidelity discrepancies after reconciliation: **0**.
 
-## Progress totals
+## Batch P4-141-146
 
-- physical scans strict-reviewed: **140 / 146**;
-- contiguous reviewed range: **1–140**;
+**RESULT: PASS — 6 / 6 scans; 0 corrections; 0 unresolved fidelity discrepancies.**
+
+| Scan | Unit / printed page | Result | Corrections |
+|---:|---|---|---:|
+| 141 | `மயிலிறகு` / p.140 | PASS | 0 |
+| 142 | `மயிலிறகு` / p.141 | PASS | 0 |
+| 143 | `மயிலிறகு` / p.142 | PASS | 0 |
+| 144 | `மயிலிறகு` / p.143 | PASS | 0 |
+| 145 | `மயிலிறகு` / p.144 | PASS | 0 |
+| 146 | back cover / promotional text | PASS | 0 |
+
+### Batch findings / dependency propagation
+
+- All six canonical records matched the controlling pixels without textual correction.
+- Scans 141–145 finish `மயிலிறகு`; scan 145 retains the printed closing bullet and scan 146 remains a separate back-cover/promotional witness.
+- `articles/26-mayiliragu.md` required no change in this batch and remains synchronized with canonical scans 136–145.
+- The scan-146 promotional text required no correction and remains outside the article assembly.
+- No source-title, scan-span, printed-page mapping or unit-boundary change occurred.
+- Permanent source-title reading `மயிலிறகு` remains unchanged.
+- unresolved fidelity discrepancies after reconciliation: **0**.
+
+## Final P4 totals
+
+- physical scans strict-reviewed: **146 / 146**;
+- contiguous reviewed range: **1–146**;
 - P4 corrections found: **198**;
 - P4 corrections propagated to canonical page records: **198 / 198**;
-- P3 article assemblies corrected / re-synchronized so far: **20 distinct assemblies**;
+- P3 article assemblies corrected / re-synchronized during P4: **20 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
-- blocked / needs-review scans in reviewed range: **0**;
+- blocked / needs-review scans: **0**;
 - P4 mapping/boundary changes: **0**;
-- P4 gate: **OPEN / IN PROGRESS**.
+- P4 gate: **COMPLETE / PASS**.
 
 ## Non-regression
 
-P0–P3 remain complete. P4 may correct their textual products only where direct controlling-source evidence proves a fidelity defect; it does not change source mapping without source evidence. Permanent source-title readings `அகப்பை சித்தர்`, `தளிர்`, and `மயிலிறகு` remain unchanged.
+P0–P3 remain complete. P4 corrected their textual products only where direct controlling-source evidence proved a fidelity defect; it did not change source mapping. Permanent source-title readings `அகப்பை சித்தர்`, `தளிர்`, and `மயிலிறகு` remain unchanged.
 
 The supplied 2006 scan remains controlling. Corroborating witnesses, OCR and contextual expectations do not override its visible wording, word boundaries or punctuation.
 
 ## Exact next activity
 
-**P4 scans 141–146.** Re-inspect all six remaining physical scans directly against their canonical records. Scans 141–145 / printed pp.140–144 finish `மயிலிறகு`; scan 146 is the illustrated back cover / promotional text. Record every old reading → source-visible reading correction, propagate affected main-work text into `articles/26-mayiliragu.md` and dependent trackers, and close P4 only after the full six-scan remainder is reconciled.
+**P5 — Tamil publication completion review / freeze.** Revalidate the completed P0–P4 source layer as one publication-wide non-regression gate: **146 / 146** canonical page records, **26 / 26** source-titled assemblies, **128 / 128** canonical main-work pages, all **198 / 198** P4 corrections propagated, **0** unresolved fidelity discrepancies, **0** blocked/needs-review scans, and unchanged source mapping/title boundaries. Create the publication completion review/freeze record and synchronize all state-bearing trackers before unblocking English planning.
 
-Do not mark P4 complete before **146 / 146** physical scans are strict-reviewed. English remains **BLOCKED until Tamil P5 freeze**.
+English remains **BLOCKED until Tamil P5 freeze passes**.
