@@ -3,7 +3,7 @@
 Publication: `publications/meesai-mulaiththa-vayathil/`  
 Controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`  
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
-P4 status: **IN PROGRESS — scans 1–100 / 100 of 146 strict-reviewed**
+P4 status: **IN PROGRESS — scans 1–140 / 140 of 146 strict-reviewed**
 
 ## Source-witness warning
 
@@ -71,27 +71,11 @@ P1 remains **146 / 146 scans**, **26 / 26 units**, unmapped scans **0**, boundar
 
 ## P2 overlay — COMPLETE / PASS
 
-P2 covers **146 / 146 VERIFIED**, contiguous through the final physical scan.
-
-- front matter and blank scan 17: **COMPLETE**;
-- all source-titled main-work units: **26 / 26 COMPLETE** at the P2 page layer;
-- scan 146 back cover / promotional text: **VERIFIED**;
-- missing canonical records: **0**;
-- unresolved printed-text blocks: **0**;
-- P2 blockers: **0**.
-
-Final batch audits:
-
-- `P2_BATCH_131_140.md` — closes `ஆண்டு விழா` and verifies the first half of `மயிலிறகு`;
-- `P2_BATCH_141_146.md` — closes `மயிலிறகு`, verifies scan 146, and closes P2.
-
-The supplied 2006 scan pixels remained controlling throughout. OCR was not authority and no alternate-edition wording was silently imported.
+P2 covers **146 / 146 VERIFIED**, contiguous through the final physical scan. Missing canonical records, unresolved printed-text blocks and P2 blockers are all **0**.
 
 ## P3 assembly overlay — COMPLETE / PASS
 
 Formal gate: `P3_ASSEMBLY_AUDIT.md`.
-
-The 26 source-titled rows above map one-to-one to the live P3 files in `articles/`.
 
 - assemblies: **26 / 26**;
 - numbering/order: **01–26 contiguous**;
@@ -106,26 +90,20 @@ The 26 source-titled rows above map one-to-one to the live P3 files in `articles
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- strict-reviewed physical scans: **100 / 146**;
-- contiguous reviewed range: **1–100**;
-- cumulative corrections: **157**;
-- corrections propagated: **157 / 157**;
-- P3 assemblies corrected/re-synchronized: **15 distinct assemblies**;
+- strict-reviewed physical scans: **140 / 146**;
+- contiguous reviewed range: **1–140**;
+- cumulative corrections: **198**;
+- corrections propagated: **198 / 198**;
+- P3 assemblies corrected/re-synchronized: **20 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - mapping/title-boundary changes caused by P4 so far: **0**.
 
-P4-061-070 passed with **2** direct-source punctuation corrections on scan 69 / `தேனலைகள்`; `articles/16-thenalaigal.md` was re-synchronized.
+Batch correction totals through scan 140 are **2, 4, 35, 43, 46, 2, 2, 5, 3, 15, 12, 11, 8, 10** for successive ten-scan batches.
 
-P4-071-080 passed with **5** direct-source corrections across `தோழி` and `மருதாணி`; `articles/17-thozhi.md` and `articles/18-maruthaani.md` were re-synchronized.
-
-P4-081-090 passed with **3** direct-source corrections, all in `மருதாணி`: scan 82 `இரவாய் சுருங்குவதெப்போதென` → `இரவாய்ச் சுருங்குவதெப்போதென`; scan 83 `கலையுமோ?...` → `கலையுமோ ?...`, and `மருதாணி பெரிதோ?...` → `மருதாணி பெரிதோ ?...`. `articles/18-maruthaani.md` was re-synchronized. `அருவி` scans 85–90 passed with no P4 text correction.
-
-P4-091-100 passed with **15** direct-source corrections across `முறம்` and `யாழ்`; `articles/20-muram.md` and `articles/21-yaazh.md` were re-synchronized. Scans 92, 96 and 100 required no P4 text correction.
-
-No source-title or unit-boundary change resulted from P4 through scan 100; the 26-unit source map above remains unchanged. `முறம்` closes on scan 95; `யாழ்` remains open through scan 102.
+P4-131-140 passed with **10** direct-source question-mark spacing corrections across `ஆண்டு விழா` and `மயிலிறகு`; `articles/25-aandu-vizha.md` and `articles/26-mayiliragu.md` were re-synchronized. Scans 135–138 required no textual correction. `ஆண்டு விழா` is fully P4-reconciled through scan 135; `மயிலிறகு` remains open through scan 145. No source-title or unit-boundary change resulted.
 
 ## Exact next activity
 
-**P4 scans 101–110.** Finish `யாழ்` on scans 101–102 / pp.100–101 and begin `சிற்பி` on scans 103–110 / pp.102–109; `சிற்பி` continues beyond scan 110. Record every old reading → source-visible reading correction with provenance, propagate affected canonical text into dependent P3 assemblies, and update this overlay only after the full batch is reconciled.
+**P4 scans 141–146.** Scans 141–145 / pp.140–144 finish `மயிலிறகு`; scan 146 is the illustrated back cover / promotional text. Record every old reading → source-visible reading correction with provenance, propagate affected canonical text into dependent assemblies, and close P4 only at **146 / 146** with **0 unresolved fidelity discrepancies**.
 
 English remains blocked until Tamil P5 freeze.
