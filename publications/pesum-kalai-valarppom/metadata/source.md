@@ -13,16 +13,23 @@ The supplied PDF is the controlling witness. Source pixels outrank OCR, parsed t
 
 ## Source-visible identity
 
-Title: **`பேசும் கலை வளர்ப்போம்`**.
+The supplied copy contains two distinct source-visible title-spacing witnesses and they must not be silently collapsed:
+
+- scan 1 front cover: **`பேசும் கலை வளர்ப்போம்`**;
+- scan 3 title page / inferred printed p.1: **`பேசும்கலை வளர்ப்போம்`**.
+
+The repository/workspace name continues to use the conventional cover-form `பேசும் கலை வளர்ப்போம்`, while canonical page records preserve the exact witness on each scan.
 
 Title-page witness, scan 3 / inferred printed p.1:
 
+- `பேசும்கலை வளர்ப்போம்`
 - `மாண்புமிகு`
 - `டாக்டர் கலைஞர் மு.கருணாநிதி`
 - `தமிழக முதல்-அமைச்சர்`
 - `பாரதி பதிப்பகம்`, `108, உஸ்மான் சாலை`, `தியாகராய நகர், சென்னை-17.`
+- `த.பெ : 4984`, `போன் : 4340205`.
 
-English imprint witness, scan 4 / inferred printed p.2: `"Pesum Kalai Valarppom"`, `By: Kalaignar M. Karunanidhi`.
+English imprint witness, scan 4 / inferred printed p.2: `"Pesum Kalai Valarppom"`, `By : Kalaignar M. Karunanidhi`.
 
 Edition history visible on scan 4:
 
@@ -37,7 +44,7 @@ Edition history visible on scan 4:
 
 This edition also gives `Price Rs.12.00`, publisher `Bharathi Pathippagam, 108, Usman Road, T.Nagar, Madras-600017`, and printer `Malar Printers, Madras-600034`.
 
-Scan 6 / inferred printed p.4 is the printed `பதிப்புரை`, signed `பழ. சிதம்பரம்`, `நிர்வாகி, பாரதி நிலையம்`, dated **`15-7-81`**. The 1981 publisher-note date is retained in the 1996 eighth edition and must not be normalised to 1996.
+Scan 6 / inferred printed p.4 is the printed `பதிப்புரை`, signed `பழ. சிதம்பரம்`, `நிர்வாகி, பாரதி நிலையம்`, with source-visible date `15—7—81`. The 1981 publisher-note date is retained in the 1996 eighth edition and must not be normalised to 1996.
 
 ## User-supplied descriptive context
 
@@ -72,15 +79,29 @@ No descriptive section titles are printed; do not invent them.
 
 ## Physical-copy / scan condition
 
-- scan 1: colour front cover;
+- scan 1: colour front cover with a later red handwritten mark at the upper-right edge;
 - scan 2: near-blank inside page with physical-copy/library marking;
-- scan 3: title page with later handwriting and a large circular library stamp;
+- scan 3: title page with later handwriting/date and a large circular library stamp;
 - scan 4: edition/imprint page with partial library stamp;
 - scan 5: full-page later handwritten note; **no printed publication text**;
 - scans 3–82: predominantly grayscale reproduction;
 - light bleed-through/show-through and copy noise occur on multiple pages.
 
 Printed publication text and physical-copy marks must remain separate in every page record.
+
+## P2 batch 1 — scans 1–10
+
+**COMPLETE / PASS.**
+
+- canonical page records created: **10 / 82**;
+- direct P2 verification: **10 / 82**;
+- batch span: scans **1–10** / through printed p.8;
+- unresolved source readings in printed publication text: **0**;
+- scan 5 correctly retained as a physical-copy annotation witness with printed publication text **0**;
+- section/article assemblies created: **0**;
+- P2 source-witness correction: the title page is `பேசும்கலை வளர்ப்போம்`, while the front cover is `பேசும் கலை வளர்ப்போம்`; earlier tracker wording had flattened this spacing distinction and is corrected here.
+
+Page-boundary checks in the batch were directly confirmed: scan 7 `கவிஞரின்` → scan 8 `கவிதைச்`; scan 8 `பிரச்` → scan 9 `சினைகளைப்`; scan 9 `சிந்தித்` → scan 10 `துப் பார்த்து`; scan 10 `கொண்` → scan 11 `டிருப்பார்.`. Scan 11 was inspected only to secure the batch-boundary continuation and remains untranscribed.
 
 ## Gate status
 
@@ -90,8 +111,8 @@ Printed publication text and physical-copy marks must remain separate in every p
 - printed pages mapped — **80/80 (pp.1–80)**;
 - numbered sections mapped — **19/19**;
 - P1 structural blockers — **0**;
-- P2 transcription — **NOT STARTED / 0 of 82**.
+- P2 transcription — **IN PROGRESS / 10 of 82 VERIFIED**.
 
 ## Exact next activity
 
-**P2 batch 1 — create, transcribe and directly verify canonical page records for scans 1–10.** Follow the P1 pagination map, preserve source wording/punctuation, separate physical-copy marks, and do not build article/section assemblies yet.
+**P2 batch 2 — create, transcribe and directly verify canonical page records for scans 11–20.** Follow the P1 pagination map, preserve source wording/punctuation and cross-page fragments exactly, separate physical-copy marks, and do not build article/section assemblies yet.
