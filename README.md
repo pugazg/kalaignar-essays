@@ -31,61 +31,41 @@ Released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
 Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mulaiththa-vayathil/)
 
-**P0–P3 COMPLETE / PASS. P4 IN PROGRESS — scans 1–20 / 20 of 146 strict-reviewed.**
+**P0–P3 COMPLETE / PASS. P4 IN PROGRESS — scans 1–30 / 30 of 146 strict-reviewed.**
 
 - controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
 - source SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
 - file size: **374,123,900 bytes**;
 - physical scans: **146**;
 - source form: image-only multi-piece youthful literary/prose collection;
-- source self-description: **`எழுத்தோவியங்கள்`**;
 - supplied edition: **இரண்டாம் பதிப்பு — அக்டோபர் 2006**.
 
-P1 remains **146 / 146 scans**, **26 / 26 source-titled units**. Permanent corrected source-title readings remain:
+P1 remains **146 / 146 scans**, **26 / 26 source-titled units**. Permanent source-title readings remain `அகப்பை சித்தர்`, `தளிர்`, and `மயிலிறகு`.
 
-- `அகப்பை சித்தர்` — scan 36 / p.35;
-- `தளிர்` — scan 42 / p.41;
-- `மயிலிறகு` — scan 136 / p.135.
+P2 final state: **146 / 146 VERIFIED**, missing records **0**, unresolved printed-text blocks **0**, source-titled units **26 / 26**.
 
-P2 final state:
-
-- scans **1–146: 146 / 146 VERIFIED**;
-- canonical page records present: **146 / 146**;
-- missing canonical records: **0**;
-- all **26 / 26** source-titled units complete at P2 page layer;
-- scan 146 back cover / promotional text: **VERIFIED**;
-- unresolved printed-text blocks: **0**;
-- P2 blockers: **0**.
-
-P3 final state:
-
-- formal gate: `publications/meesai-mulaiththa-vayathil/P3_ASSEMBLY_AUDIT.md`;
-- source-titled assemblies: **26 / 26**;
-- canonical main-work pages represented: **128 / 128**;
-- source scan coverage: **18–145 contiguous**;
-- printed folio coverage: **17–144 contiguous**;
-- missing / unexpected assemblies: **0 / 0**;
-- boundary gaps / overlaps: **0 / 0**;
-- unresolved assembly body-text blocks: **0**.
+P3 final state: **26 / 26 assemblies**, **128 / 128** canonical main-work pages, scan coverage **18–145**, boundary gaps/overlaps **0 / 0**, unresolved body text **0**.
 
 P4 running state:
 
 - formal report: `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`;
-- strict-reviewed physical scans: **20 / 146**;
-- contiguous range: **1–20**;
-- corrections: **6**;
+- strict-reviewed physical scans: **30 / 146**;
+- contiguous range: **1–30**;
+- cumulative corrections: **41**;
+- corrections propagated: **41 / 41**;
+- P3 assemblies corrected/re-synchronized: **3**;
 - unresolved fidelity discrepancies: **0**;
-- cumulative corrections: scan 5 `கூறிய` → `கூரிய`; scan 8 `மூத்தோர்` → `முதியோர்`; scan 12 `செயல்படுகிறது.` → `செய்துவிடுகிறது.`; scan 13 `மறக்கவிடவோ` → `மறந்துவிடவோ`; scan 14 `பின்னும்` → `பின்னுறும்`; scan 14 `இணைவாய்` → `இணையாய்`;
-- batch scans 11–20: **PASS after corrective review — 4 new corrections**;
-- affected P3 main-work assemblies so far: **0**.
+- blockers: **0**.
+
+Batch P4-021-030 produced **35** direct-source corrections across `ஆடிக்காற்று`, `கருப்புப் பெண்`, and `கடலே`. The corresponding assemblies `02-adikkaatru.md`, `03-karuppu-pen.md`, and `04-kadale.md` are synchronized. Scan 29's prior `சிங்காரச் “செம்படச்சி”` phrase was removed because it is absent from the controlling source.
 
 English remains **BLOCKED until Tamil P5 freeze**.
 
 ## Current repository boundary
 
-Publication 10 P4 is **IN PROGRESS — 20 / 146 strict-reviewed, 6 cumulative corrections, 0 unresolved discrepancies, blockers 0**.
+Publication 10 P4 is **IN PROGRESS — 30 / 146 strict-reviewed, 41 cumulative corrections, 3 P3 assemblies re-synchronized, 0 unresolved discrepancies, blockers 0**.
 
-Exact next activity: **P4 scans 21–30**. Re-inspect them directly word-by-word and punctuation-by-punctuation, propagate any source-supported corrections, and advance `VISUAL_TEXT_FIDELITY_REVIEW.md` only after the full batch is reconciled.
+Exact next activity: **P4 scans 31–40**.
 
 ### Permanent `உடன்பிறப்பே` rule
 
