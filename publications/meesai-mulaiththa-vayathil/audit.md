@@ -107,20 +107,31 @@ Scan 3 contains a later library stamp obscuring part of the publisher-address li
 
 ### Batch P4-011-020
 
-**PASS — 10 / 10; 0 new corrections; 0 unresolved fidelity discrepancies.**
+**PASS after corrective strict review — 10 / 10; 4 corrections; 0 unresolved fidelity discrepancies.**
+
+Direct source corrections:
+
+3. scan 12 / `முன்னுரை`: **`செயல்படுகிறது.` → `செய்துவிடுகிறது.`**;
+4. scan 13 / `முன்னுரை`: **`மறக்கவிடவோ` → `மறந்துவிடவோ`**;
+5. scan 14 / `முன்னுரை`: **`பின்னும்` → `பின்னுறும்`**;
+6. scan 14 / `முன்னுரை`: **`இணைவாய்` → `இணையாய்`**.
+
+All four were applied to the canonical page records with explicit P4 provenance. They are front-matter corrections and therefore affect **0** P3 main-work article assemblies.
+
+Additional batch result:
 
 - scans 11–16: remaining `முன்னுரை` pages directly rechecked and reconciled;
 - scan 17: blank/show-through witness directly rechecked; no printed text;
 - scans 18–20 / pp.17–19: Unit 1 `பிறையே` directly rechecked from opening heading through final bullet `●`;
-- canonical corrections required: **0**;
+- P4 correction required in `பிறையே`: **0**;
 - P3 `01-piraiye` propagation required: **0**.
 
 Current P4 totals:
 
 - strict-reviewed physical scans: **20 / 146**;
 - contiguous strict-reviewed range: **1–20**;
-- corrections: **2**;
-- corrections propagated: **2 / 2**;
+- corrections: **6**;
+- corrections propagated: **6 / 6**;
 - affected P3 assemblies requiring propagation: **0**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
