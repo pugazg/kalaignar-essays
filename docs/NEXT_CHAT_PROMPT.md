@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P4 scans 11–20
+# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P4 scans 21–30
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -27,7 +27,7 @@ Publication 10 `மீசை முளைத்த வயதில்`:
 - P3 printed folio coverage — **17–144 contiguous**;
 - P3 missing / unexpected assemblies — **0 / 0**;
 - P3 boundary gaps / overlaps — **0 / 0**;
-- P4 — **IN PROGRESS — scans 1–10 / 10 of 146 strict-reviewed**;
+- P4 — **IN PROGRESS — scans 1–20 / 20 of 146 strict-reviewed**;
 - P4 corrections — **2**;
 - P4 unresolved fidelity discrepancies — **0**;
 - English — **BLOCKED until Tamil P5 freeze**.
@@ -37,7 +37,7 @@ Formal gate records:
 - `publications/meesai-mulaiththa-vayathil/P3_ASSEMBLY_AUDIT.md`;
 - `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-## P4 checkpoint through scan 10
+## P4 checkpoint through scan 20
 
 Batch P4-001-010: **PASS after corrective strict review — 10 / 10; 2 corrections; 0 unresolved fidelity discrepancies**.
 
@@ -46,7 +46,14 @@ Direct source corrections:
 1. scan 5 `என்னுரை`: `கூறிய` → **`கூரிய`** in `கூரிய வேல் வாள்`;
 2. scan 8 `முன்னுரை`: `மூத்தோர்` → **`முதியோர்`** in `அறிவுரையே கவிதை என்றால் முதியோர் முதுமொழி போதும்.`
 
-Both corrections affect front matter only; P3 main-work assemblies changed: **0**.
+Batch P4-011-020: **PASS — 10 / 10; 0 new corrections; 0 unresolved fidelity discrepancies**.
+
+- scans 11–16: remaining `முன்னுரை` pages reconciled;
+- scan 17: blank/show-through witness confirmed;
+- scans 18–20 / pp.17–19: Unit 1 `பிறையே` reconciled from opening through final bullet `●`;
+- P3 assembly propagation required in this batch: **0**.
+
+Cumulative P4 corrections remain **2**, both front-matter only; P3 main-work assemblies changed: **0**.
 
 Scan 3's later library stamp obscures part of the publisher-address line. The canonical record explicitly preserves the obscuration and does not reconstruct hidden characters.
 
@@ -81,13 +88,13 @@ Read completely before source-dependent work:
 8. publication `indexes/contents.md`;
 9. publication `P3_ASSEMBLY_AUDIT.md`;
 10. publication `VISUAL_TEXT_FIDELITY_REVIEW.md`;
-11. canonical page records for scans 11–20 and corresponding `articles/` assemblies where applicable.
+11. canonical page records for scans 21–30 and corresponding `articles/` assemblies where applicable.
 
 Resolve the controlling PDF before direct visual work.
 
-## Exact next activity — P4 scans 11–20
+## Exact next activity — P4 scans 21–30
 
-1. Re-inspect **physical scans 11–20 directly**.
+1. Re-inspect **physical scans 21–30 directly**.
 2. Compare every visible word, word boundary/spacing, punctuation mark, quotation mark, heading, date, number and page-to-page continuation against the canonical record.
 3. Preserve unusual source wording whenever supported by source pixels. Do not modernize or normalize from language/context.
 4. Keep printed text, source illustrations/design and later physical-copy marks as separate evidence layers.
