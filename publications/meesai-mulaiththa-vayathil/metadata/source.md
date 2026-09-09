@@ -82,7 +82,22 @@ Formal validation is recorded in `P3_ASSEMBLY_AUDIT.md`.
 
 The article files under `articles/` retain the frozen P1/P2 source titles and page spans and were assembled from the verified canonical page records without silent normalization. Page-boundary provenance is retained.
 
-P3 completion does not supersede the mandatory P4 strict visual-text-fidelity pass.
+## P4 strict visual text-fidelity — IN PROGRESS
+
+Running gate report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+
+- physical scans strict-reviewed: **10 / 146**;
+- contiguous strict-reviewed range: **1–10**;
+- corrections found: **2**;
+- unresolved fidelity discrepancies: **0**;
+- blocked / needs-review scans in reviewed range: **0**.
+
+Direct P4 corrections so far:
+
+- scan 5: `கூறிய` → **`கூரிய`**;
+- scan 8: `மூத்தோர்` → **`முதியோர்`**.
+
+Both are front-matter corrections and do not alter P1 mapping or P3 main-work assemblies. Scan 3's stamp-obscured publisher-address region remains explicitly unreconstructed.
 
 ## Physical-copy / scan condition
 
@@ -98,13 +113,13 @@ P3 completion does not supersede the mandatory P4 strict visual-text-fidelity pa
 - P1 — **COMPLETE / PASS**
 - P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**
-- P4 — **NOT STARTED**
+- P4 — **IN PROGRESS — 10 / 146 strict-reviewed**
 - P5 — **NOT STARTED**
 - English translation — **BLOCKED until Tamil P5 freeze**
-- active blockers — **0**
+- active P4 blockers — **0**
 
 ## Exact next activity
 
-**P4 — final strict visual text-fidelity pass.** Re-inspect all 146 physical scans directly, word-by-word and punctuation-by-punctuation. Record every correction with old reading → source-visible reading provenance, propagate corrections into dependent records and assemblies, and create `VISUAL_TEXT_FIDELITY_REVIEW.md` before P4 closure.
+**P4 scans 11–20.** Re-inspect all ten scans directly against the canonical records, word-by-word and punctuation-by-punctuation. Record old reading → source-visible reading provenance for each correction and propagate any dependent changes before advancing the P4 report.
 
 Do not begin English translation.
