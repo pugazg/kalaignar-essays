@@ -9,7 +9,7 @@ Branch: `main`
 
 Publications **1–9 are RELEASE COMPLETE / FROZEN**.
 
-Active Publication **10 — `மீசை முளைத்த வயதில்` — P0, P1, P2 and P3 COMPLETE / PASS. P3 closed at 26 / 26 source-titled assemblies covering all 128 canonical main-work pages. P4 has NOT STARTED.**
+Active Publication **10 — `மீசை முளைத்த வயதில்` — P0, P1, P2 and P3 COMPLETE / PASS. P4 is IN PROGRESS at scans 1–10 / 10 of 146 strict-reviewed, with 2 source corrections and 0 unresolved fidelity discrepancies.**
 
 Source PDFs are never committed.
 
@@ -19,7 +19,7 @@ Source PDFs are never committed.
 2. read `ESSAY_PROCESSING_GUIDE.md` completely, especially section 12 strict visual text-fidelity requirements;
 3. read `docs/FUTURE_WORK_GUIDELINES.md`;
 4. read this handover and `docs/NEXT_CHAT_PROMPT.md`;
-5. read active Publication 10 `README.md`, `metadata/source.md`, `indexes/page-map.md`, `indexes/contents.md`, `audit.md`, `P3_ASSEMBLY_AUDIT.md`, relevant canonical page records and dependent `articles/` files;
+5. read active Publication 10 `README.md`, `metadata/source.md`, `indexes/page-map.md`, `indexes/contents.md`, `audit.md`, `P3_ASSEMBLY_AUDIT.md`, `VISUAL_TEXT_FIDELITY_REVIEW.md`, relevant canonical page records and dependent `articles/` files;
 6. preserve Publications 1–9 unless a genuine source-supported defect or explicit user request requires targeted reopening;
 7. English for Publication 10 remains blocked until Tamil P5 freeze.
 
@@ -76,12 +76,6 @@ Completed batch records include the final batches:
 - scans **131–140** — `P2_BATCH_131_140.md`;
 - scans **141–146** — `P2_BATCH_141_146.md`.
 
-Final unit state:
-
-- Unit 25 `ஆண்டு விழா` — scans **129–135 / pp.128–134 — 7 / 7 VERIFIED / COMPLETE**;
-- Unit 26 `மயிலிறகு` — scans **136–145 / pp.135–144 — 10 / 10 VERIFIED / COMPLETE**;
-- scan **146** — unnumbered illustrated back cover / promotional text — **VERIFIED**.
-
 ### Durable source findings
 
 - scan 32 third source subheading: `அரசு`;
@@ -108,7 +102,26 @@ Formal gate record: `publications/meesai-mulaiththa-vayathil/P3_ASSEMBLY_AUDIT.m
 
 Each assembly under `articles/` retains its frozen P1/P2 title and scan/printed-page span, declares `status: "source-complete"`, and records mechanical assembly from verified canonical page records. The P3 operation did not authorize source normalization. Page-boundary provenance is retained.
 
-P3 closure does **not** replace the mandatory final strict visual-text-fidelity review.
+## P4 — IN PROGRESS
+
+Formal running report: `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`.
+
+Current checkpoint:
+
+- physical scans strict-reviewed: **10 / 146**;
+- contiguous strict-reviewed range: **1–10**;
+- corrections found: **2**;
+- corrections propagated to canonical page records: **2 / 2**;
+- affected P3 main-work assemblies requiring propagation: **0**;
+- unresolved fidelity discrepancies: **0**;
+- blocked / needs-review scans in reviewed range: **0**.
+
+P4 corrections so far:
+
+1. scan 5 `என்னுரை`: **`கூறிய` → `கூரிய`** in `கூரிய வேல் வாள்`;
+2. scan 8 `முன்னுரை`: **`மூத்தோர்` → `முதியோர்`** in `அறிவுரையே கவிதை என்றால் முதியோர் முதுமொழி போதும்.`
+
+Both are direct controlling-scan corrections. They affect front matter only, so no P3 article assembly changed. Scan 3's stamp-obscured publisher-address segment remains explicitly unreconstructed.
 
 ## Gate state
 
@@ -116,25 +129,25 @@ P3 closure does **not** replace the mandatory final strict visual-text-fidelity 
 - P1 — **COMPLETE / PASS**;
 - P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**;
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**;
-- P4 — **NOT STARTED**;
+- P4 — **IN PROGRESS — 10 / 146 strict-reviewed**;
 - P5 — **NOT STARTED**;
 - English — **BLOCKED until Tamil P5 freeze**.
 
-Active blockers: **0**.
+Active P4 blockers: **0**.
 
-## Exact next activity — P4 final strict visual text-fidelity pass
+## Exact next activity — P4 scans 11–20
 
 When the user says proceed/continue:
 
 1. fetch live `main` and preserve newer durable work;
-2. read `ESSAY_PROCESSING_GUIDE.md` section 12, this handover, `P3_ASSEMBLY_AUDIT.md`, publication README/audit/source metadata/page map/contents, and the relevant canonical page/article records;
+2. read `ESSAY_PROCESSING_GUIDE.md` section 12, this handover, `VISUAL_TEXT_FIDELITY_REVIEW.md`, publication README/audit/source metadata/page map/contents, and canonical records for scans 11–20;
 3. resolve the controlling source PDF before source-dependent visual work;
-4. re-inspect **every physical scan 1–146 directly** — front cover, title/imprint, `என்னுரை`, `முன்னுரை`, blank/show-through scan 17, all 128 main-work pages, and back cover;
+4. re-inspect **scans 11–20 directly**, word-by-word and punctuation-by-punctuation;
 5. compare every visible word, word boundary/spacing, punctuation mark, quotation mark, heading, date, number and page-to-page continuation against the canonical record;
 6. preserve unusual source wording when supported by the pixels; do not modernize or normalize from context;
 7. record every correction as **old reading → source-visible reading** with scan/page provenance;
 8. propagate every P4 correction into affected `articles/`, indexes, README/audit/source metadata and handover trackers;
-9. create/update `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md` and report scans checked, corrections, unresolved discrepancies and final P4 gate state;
+9. update `VISUAL_TEXT_FIDELITY_REVIEW.md` only after the whole 11–20 batch is reconciled;
 10. do not mark P4 complete until the full **146 / 146** physical-scan pass is closed;
 11. **do not begin English translation; English remains blocked until Tamil P5 freeze.**
 
