@@ -7,10 +7,10 @@ Physical scans: **146**
 
 ## Gate state
 
-**P4 — IN PROGRESS — 80 / 146 physical scans strict-reviewed**
+**P4 — IN PROGRESS — 90 / 146 physical scans strict-reviewed**
 
-Contiguous strict-reviewed range: **scans 1–80**.  
-Next strict-review batch: **scans 81–90**.
+Contiguous strict-reviewed range: **scans 1–90**.  
+Next strict-review batch: **scans 91–100**.
 
 P4 follows `ESSAY_PROCESSING_GUIDE.md` section 12: every physical scan is re-inspected directly, word-by-word and punctuation-by-punctuation, against the canonical page record. Source pixels remain authority; context, OCR and secondary editions are not authority.
 
@@ -446,12 +446,50 @@ Scans 18–20 / Unit 1 `பிறையே` required no correction; P3 propagati
 - No source-title, scan-span, printed-page mapping or unit-boundary change occurred.
 - unresolved fidelity discrepancies after reconciliation: **0**.
 
+## Batch P4-081-090
+
+**RESULT: PASS after corrective strict review — 10 / 10 scans; 3 corrections; 0 unresolved fidelity discrepancies.**
+
+| Scan | Unit / printed page | Result | Corrections |
+|---:|---|---|---:|
+| 81 | `மருதாணி` / p.80 | PASS | 0 |
+| 82 | `மருதாணி` / p.81 | PASS after correction | 1 |
+| 83 | `மருதாணி` / p.82 | PASS after correction | 2 |
+| 84 | `மருதாணி` / p.83 | PASS | 0 |
+| 85 | `அருவி` / p.84 | PASS | 0 |
+| 86 | `அருவி` / p.85 | PASS | 0 |
+| 87 | `அருவி` / p.86 | PASS | 0 |
+| 88 | `அருவி` / p.87 | PASS | 0 |
+| 89 | `அருவி` / p.88 | PASS | 0 |
+| 90 | `அருவி` / p.89 | PASS | 0 |
+
+### Correction provenance — P4-081-090
+
+**Scan 82 — `மருதாணி` / p.81**
+
+140. `இரவாய் சுருங்குவதெப்போதென` → source-visible **`இரவாய்ச் சுருங்குவதெப்போதென`**.
+
+**Scan 83 — `மருதாணி` / p.82**
+
+141. `கலையுமோ?...` → source-visible **`கலையுமோ ?...`**;
+142. `மருதாணி பெரிதோ?...` → source-visible **`மருதாணி பெரிதோ ?...`**.
+
+### Batch findings / dependency propagation
+
+- Scans 81 and 84–90 required no textual correction.
+- All three source-visible corrections were applied to canonical page records.
+- `articles/18-maruthaani.md` was re-synchronized for scans 82–83. Because it had already been corrected in P4-071-080, the cumulative distinct corrected/re-synchronized P3 assembly count remains **13**.
+- `மருதாணி` closes on scan 84 and is fully P4-reconciled.
+- `அருவி` scans 85–90 / pp.84–89 passed 6 / 6 with no P4 text correction and closes on scan 90.
+- No source-title, scan-span, printed-page mapping or unit-boundary change occurred.
+- unresolved fidelity discrepancies after reconciliation: **0**.
+
 ## Progress totals
 
-- physical scans strict-reviewed: **80 / 146**;
-- contiguous reviewed range: **1–80**;
-- P4 corrections found: **139**;
-- P4 corrections propagated to canonical page records: **139 / 139**;
+- physical scans strict-reviewed: **90 / 146**;
+- contiguous reviewed range: **1–90**;
+- P4 corrections found: **142**;
+- P4 corrections propagated to canonical page records: **142 / 142**;
 - P3 article assemblies corrected / re-synchronized so far: **13 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**;
@@ -465,6 +503,6 @@ The supplied 2006 scan remains controlling. Corroborating witnesses, OCR and con
 
 ## Exact next activity
 
-**P4 scans 81–90.** Re-inspect all ten physical scans directly against their canonical records. This batch finishes `மருதாணி` on scans 81–84 / printed pp.80–83 and reviews all six pages of `அருவி` on scans 85–90 / printed pp.84–89. Record every old reading → source-visible reading correction, propagate affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
+**P4 scans 91–100.** Re-inspect all ten physical scans directly against their canonical records. This batch reviews all of `முறம்` on scans 91–95 / printed pp.90–94 and the opening five pages of `யாழ்` on scans 96–100 / printed pp.95–99; `யாழ்` continues through scan 102. Record every old reading → source-visible reading correction, propagate affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
 
 Do not mark P4 complete before **146 / 146** physical scans are strict-reviewed. English remains **BLOCKED until Tamil P5 freeze**.
