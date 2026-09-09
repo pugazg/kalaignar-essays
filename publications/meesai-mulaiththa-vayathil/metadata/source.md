@@ -58,11 +58,11 @@ Formal validation: `P3_ASSEMBLY_AUDIT.md`.
 
 Running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- physical scans strict-reviewed: **40 / 146**;
-- contiguous strict-reviewed range: **1–40**;
-- cumulative corrections: **84**;
-- corrections propagated to canonical page records: **84 / 84**;
-- P3 assemblies corrected/re-synchronized: **7 distinct assemblies**;
+- physical scans strict-reviewed: **50 / 146**;
+- contiguous strict-reviewed range: **1–50**;
+- cumulative corrections: **130**;
+- corrections propagated to canonical page records: **130 / 130**;
+- P3 assemblies corrected/re-synchronized: **10 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
@@ -71,9 +71,10 @@ P4 batch results:
 - scans 1–10: **2 corrections**;
 - scans 11–20: **4 corrections**;
 - scans 21–30: **35 corrections**;
-- scans 31–40: **43 corrections**.
+- scans 31–40: **43 corrections**;
+- scans 41–50: **46 corrections**.
 
-The 31–40 batch directly reconciled `ஆறு`, `வாழிய வைகறை`, `அகப்பை சித்தர்`, and scans 39–40 of `மலையே வாழி`. Four additional P3 assemblies were re-synchronized: `05-aaru.md`, `06-vaazhiya-vaikarai.md`, `07-agappai-siththar.md`, and `08-malaiye-vaazhi.md`. Unit boundaries and printed folio mapping did not change. Scan 40 remains internal to `மலையே வாழி`; scan 41 closes the unit and is the first page of the next P4 batch.
+The 41–50 batch closed `மலையே வாழி`, reconciled all of `தளிர்` and `விண்மீன்`, and reviewed the opening two scans of `தனிமை`. The affected assemblies `08-malaiye-vaazhi.md`, `09-thalir.md`, `10-vinmeen.md`, and `11-thanimai.md` were re-synchronized. Unit boundaries and printed folio mapping did not change; `தனிமை` continues from scan 51.
 
 ## Physical-copy / scan condition
 
@@ -89,13 +90,13 @@ The 31–40 batch directly reconciled `ஆறு`, `வாழிய வைகற
 - P1 — **COMPLETE / PASS**
 - P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**
-- P4 — **IN PROGRESS — 40 / 146 strict-reviewed**
+- P4 — **IN PROGRESS — 50 / 146 strict-reviewed**
 - P5 — **NOT STARTED**
 - English translation — **BLOCKED until Tamil P5 freeze**
 - active P4 blockers — **0**
 
 ## Exact next activity
 
-**P4 scans 41–50.** Re-inspect all ten scans directly against the canonical records, record every old reading → source-visible reading, and propagate every main-work correction into the affected P3 assembly before advancing the report.
+**P4 scans 51–60.** Finish `தனிமை`, review `நாடக மேடை` and `புகழ்`, and begin `பச்சைக்கிளி`, using only the supplied 2006 pixels as authority. Propagate every proven main-work correction into the dependent P3 assembly before advancing the running report.
 
 Do not begin English translation.
