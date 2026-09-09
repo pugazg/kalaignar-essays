@@ -28,7 +28,7 @@ Publication 10 `மீசை முளைத்த வயதில்`:
 - P3 missing / unexpected assemblies — **0 / 0**;
 - P3 boundary gaps / overlaps — **0 / 0**;
 - P4 — **IN PROGRESS — scans 1–20 / 20 of 146 strict-reviewed**;
-- P4 corrections — **2**;
+- P4 corrections — **6**;
 - P4 unresolved fidelity discrepancies — **0**;
 - English — **BLOCKED until Tamil P5 freeze**.
 
@@ -44,16 +44,16 @@ Batch P4-001-010: **PASS after corrective strict review — 10 / 10; 2 correctio
 Direct source corrections:
 
 1. scan 5 `என்னுரை`: `கூறிய` → **`கூரிய`** in `கூரிய வேல் வாள்`;
-2. scan 8 `முன்னுரை`: `மூத்தோர்` → **`முதியோர்`** in `அறிவுரையே கவிதை என்றால் முதியோர் முதுமொழி போதும்.`
+2. scan 8 `முன்னுரை`: `மூத்தோர்` → **`முதியோர்`**.
 
-Batch P4-011-020: **PASS — 10 / 10; 0 new corrections; 0 unresolved fidelity discrepancies**.
+Batch P4-011-020: **PASS after corrective strict review — 10 / 10; 4 corrections; 0 unresolved fidelity discrepancies**.
 
-- scans 11–16: remaining `முன்னுரை` pages reconciled;
-- scan 17: blank/show-through witness confirmed;
-- scans 18–20 / pp.17–19: Unit 1 `பிறையே` reconciled from opening through final bullet `●`;
-- P3 assembly propagation required in this batch: **0**.
+3. scan 12 `முன்னுரை`: `செயல்படுகிறது.` → **`செய்துவிடுகிறது.`**;
+4. scan 13 `முன்னுரை`: `மறக்கவிடவோ` → **`மறந்துவிடவோ`**;
+5. scan 14 `முன்னுரை`: `பின்னும்` → **`பின்னுறும்`**;
+6. scan 14 `முன்னுரை`: `இணைவாய்` → **`இணையாய்`**.
 
-Cumulative P4 corrections remain **2**, both front-matter only; P3 main-work assemblies changed: **0**.
+All six cumulative corrections are front-matter only and are committed to the canonical page records. Scans 11–16 complete the `முன்னுரை` strict review; scan 17 is the confirmed blank/show-through witness; scans 18–20 / pp.17–19 Unit 1 `பிறையே` strict-reconcile with **0 correction**. P3 main-work assemblies changed: **0**.
 
 Scan 3's later library stamp obscures part of the publisher-address line. The canonical record explicitly preserves the obscuration and does not reconstruct hidden characters.
 
