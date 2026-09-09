@@ -52,8 +52,6 @@ Formal gate: `P3_ASSEMBLY_AUDIT.md`.
 
 Formal gate: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-### Completed P4 batches
-
 | Batch | Result | Corrections | Unresolved |
 |---|---|---:|---:|
 | P4-001-010 | PASS | 2 | 0 |
@@ -72,23 +70,9 @@ Formal gate: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 | P4-131-140 | PASS | 10 | 0 |
 | P4-141-146 | PASS | 9 | 0 |
 
-### Final batch P4-141-146
-
-Scans **141–145 / pp.140–144** finish `மயிலிறகு`; scan **146** is the illustrated back-cover / promotional-text witness.
-
-Nine source-visible corrections were required and fully propagated:
-
-- scan 142 — three spaces before question marks: `இதுதானோ ?`, `துணிவுடையான் ?`, `தலைமைச் சிங்கம் ?`;
-- scan 143 — `விளக்கமென்ன?”` → **`விளக்கமென்ன ?”`**;
-- scan 144 — three spaces before question marks: `இவன் ?`, `வீரன் ?`, `வருகிறானோ ?`;
-- scan 146 — ASCII quoted-title punctuation → **`‘மீசை முளைத்த வயதில்’`** and `வாசித்தாலும்` → **`வாசித்தலும்`**.
-
-The seven main-work corrections were propagated to `articles/26-mayiliragu.md`. Scans 141 and 145 required no textual correction. Scan 145 retains the printed unit-closing bullet; scan 146 remains outside the article assembly.
-
-### Final P4 totals
+Final P4 state:
 
 - strict-reviewed physical scans: **146 / 146**;
-- contiguous strict-reviewed range: **1–146**;
 - cumulative corrections: **207**;
 - corrections propagated to canonical page records: **207 / 207**;
 - P3 assemblies corrected/re-synchronized during P4: **20 distinct assemblies**;
@@ -96,7 +80,37 @@ The seven main-work corrections were propagated to `articles/26-mayiliragu.md`. 
 - blocked / needs-review scans: **0**;
 - mapping / boundary changes: **0**.
 
+P4-141-146 required nine corrections: seven source-visible question-mark-spacing corrections in `மயிலிறகு` scans 142–144 and two independent scan-146 back-cover corrections (`‘மீசை முளைத்த வயதில்’` punctuation and `வாசித்தலும்`). All were propagated to their proper canonical/dependent layers. Scan 146 remains outside the article assembly.
+
 P4 is **CLOSED / PASS**.
+
+## P5 — Tamil publication completion review / freeze
+
+**RESULT: COMPLETE / PASS — TAMIL FROZEN**
+
+Formal gate: `PUBLICATION_COMPLETION_REVIEW.md`.
+
+Publication-wide non-regression checks:
+
+- canonical page records: **146 / 146**;
+- source-titled assemblies: **26 / 26**;
+- canonical main-work pages represented: **128 / 128**;
+- main-work scans: **18–145 contiguous**;
+- scan 146: separate back-cover/promotional witness;
+- P4 coverage: **146 / 146**;
+- P4 corrections propagated: **207 / 207**;
+- unresolved printed-text / fidelity discrepancies: **0 / 0**;
+- blocked / needs-review records: **0 / 0**;
+- source-title / scan-span / printed-page / unit-boundary drift: **0**.
+
+Frozen Tamil content authorities:
+
+- `pages/` tree — **`f7930b3696668cdbc2d692a284b49586d09a3372`**;
+- `articles/` tree — **`b7593357dc5ba101362c7a303881bea4e63e9b68`**;
+- P3 audit blob — **`0c2045346b879c85b6e2c46150a4aab686323016`**;
+- final P4 report blob — **`2e085c2167c9dea409a13be4a7c980234e5a01df`**.
+
+No English translation content was created during P5.
 
 ## Gate tracker
 
@@ -107,11 +121,11 @@ P4 is **CLOSED / PASS**.
 | P2 | **COMPLETE / PASS — 146 / 146 VERIFIED** |
 | P3 | **COMPLETE / PASS — 26 / 26 assemblies** |
 | P4 | **COMPLETE / PASS — 146 / 146 strict-reviewed** |
-| P5 | **NOT STARTED** |
-| English | **BLOCKED until Tamil P5 freeze** |
+| P5 | **COMPLETE / PASS — TAMIL FROZEN** |
+| English / E0 planning | **UNBLOCKED / NOT STARTED** |
 
 Active source/fidelity blockers: **0**.
 
 ## Exact next activity
 
-**P5 — Tamil publication completion review / freeze.** Revalidate the completed source layer and strict-fidelity gate as one publication-wide non-regression review, create the formal completion/freeze record, record the frozen Tamil authority, and synchronize all state-bearing trackers before English planning is unblocked.
+**English E0 planning / translation-workspace bootstrap.** Use the frozen strict-reviewed `articles/` tree as Tamil authority, follow `ESSAY_TRANSLATION_GUIDE.md`, establish the translation plan / lexicon / review workspace, and do not alter the frozen Tamil layer.
