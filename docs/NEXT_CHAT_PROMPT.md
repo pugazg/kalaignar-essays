@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P5 Tamil publication freeze
+# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / English E0 planning
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -18,110 +18,73 @@ Publication 10 `மீசை முளைத்த வயதில்`:
 - P1 — **PASS / COMPLETE**;
 - P2 — **PASS / COMPLETE — 146 / 146 VERIFIED**;
 - canonical page records — **146 / 146**;
-- missing records / unresolved printed-text blocks — **0 / 0**;
 - P3 — **PASS / COMPLETE — 26 / 26 assemblies**;
-- P3 canonical main-work pages — **128 / 128**;
+- canonical main-work pages — **128 / 128**;
 - P3 source scan coverage — **18–145 contiguous**;
 - P3 boundary gaps / overlaps — **0 / 0**;
 - P4 — **PASS / COMPLETE — 146 / 146 strict-reviewed**;
 - P4 cumulative corrections — **207**;
 - corrections propagated — **207 / 207**;
 - P3 assemblies corrected/re-synchronized during P4 — **20 distinct assemblies**;
-- P4 unresolved fidelity discrepancies — **0**;
-- blocked / needs-review scans — **0 / 0**;
+- unresolved printed-text / fidelity discrepancies — **0 / 0**;
+- blocked / needs-review records — **0 / 0**;
 - P4 mapping / boundary changes — **0**;
-- P5 — **NOT STARTED**;
-- English — **BLOCKED until Tamil P5 freeze passes**.
+- P5 — **PASS / COMPLETE — TAMIL FROZEN**;
+- English / E0 planning — **UNBLOCKED / NOT STARTED**.
 
-Formal records:
+Formal Tamil closure records:
 
 - `publications/meesai-mulaiththa-vayathil/P3_ASSEMBLY_AUDIT.md`;
 - `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`;
-- `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW_THROUGH_100.md`.
+- `publications/meesai-mulaiththa-vayathil/PUBLICATION_COMPLETION_REVIEW.md`.
 
-## Final P4 checkpoint
+## Frozen Tamil authority
 
-Completed P4 correction totals by batch:
-
-- 001–010 — **2**;
-- 011–020 — **4**;
-- 021–030 — **35**;
-- 031–040 — **43**;
-- 041–050 — **46**;
-- 051–060 — **2**;
-- 061–070 — **2**;
-- 071–080 — **5**;
-- 081–090 — **3**;
-- 091–100 — **15**;
-- 101–110 — **12**;
-- 111–120 — **11**;
-- 121–130 — **8**;
-- 131–140 — **10**;
-- 141–146 — **9**.
-
-Final remainder P4-141-146:
-
-- scans **141–145 / pp.140–144** finish `மயிலிறகு`;
-- scan **146** is the illustrated back-cover / promotional-text witness;
-- all six scans — **PASS after reconciliation**;
-- corrections — **9**;
-- scans 142–144 — seven source-visible question-mark spacing corrections, propagated to `articles/26-mayiliragu.md`;
-- scan 146 — source-visible quoted-title punctuation **`‘மீசை முளைத்த வயதில்’`** and `வாசித்தாலும்` → **`வாசித்தலும்`**;
-- scans 141 and 145 required no textual correction;
-- unresolved fidelity discrepancies — **0**;
-- scan 145 retains the source-printed closing bullet;
-- scan 146 remains separate from the article assembly;
-- source titles, spans, printed-page mapping and boundaries remain unchanged.
-
-## Controlling source
+Controlling source:
 
 `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`
 
-- SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
-- size: **374,123,900 bytes**;
-- physical scans: **146**;
-- image-only; OCR is not authority.
+- source SHA-256: **`9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`**;
+- canonical `pages/` tree: **`f7930b3696668cdbc2d692a284b49586d09a3372`**;
+- strict-reviewed Tamil `articles/` tree: **`b7593357dc5ba101362c7a303881bea4e63e9b68`**;
+- P3 audit blob: **`0c2045346b879c85b6e2c46150a4aab686323016`**;
+- final P4 report blob: **`2e085c2167c9dea409a13be4a7c980234e5a01df`**.
 
-Permanent P1 source-title readings:
+Permanent source-title readings remain:
 
 - `அகப்பை சித்தர்` — scan 36 / p.35;
 - `தளிர்` — scan 42 / p.41;
 - `மயிலிறகு` — scan 136 / p.135.
 
-## Mandatory startup
+Do not alter the frozen Tamil layer unless new direct controlling-source evidence requires a formally documented reopening.
 
-Read completely before P5 writes:
+## Mandatory startup for English E0
 
-1. `ESSAY_PROCESSING_GUIDE.md`;
-2. `docs/FUTURE_WORK_GUIDELINES.md`;
-3. root `HANDOVER.md`;
-4. this prompt;
-5. publication `README.md`;
-6. `audit.md`;
-7. `metadata/source.md`;
-8. `indexes/page-map.md`;
-9. `indexes/contents.md`;
-10. `P3_ASSEMBLY_AUDIT.md`;
-11. `VISUAL_TEXT_FIDELITY_REVIEW.md`;
-12. established completion-review precedent such as another completed publication's `PUBLICATION_COMPLETION_REVIEW.md`, using it only for gate structure—not for publication-specific source readings.
+Read completely before English planning writes:
 
-## Exact next activity — P5 Tamil publication completion review / freeze
+1. `ESSAY_TRANSLATION_GUIDE.md`;
+2. `ESSAY_PROCESSING_GUIDE.md` as needed for source-layer boundaries;
+3. `docs/FUTURE_WORK_GUIDELINES.md`;
+4. root `HANDOVER.md`;
+5. this prompt;
+6. publication `PUBLICATION_COMPLETION_REVIEW.md`;
+7. publication `README.md` and `audit.md`;
+8. frozen Tamil `articles/` inventory / front matter;
+9. English planning/review files from one or more completed publications as **structural precedents only** — do not import publication-specific lexical decisions.
 
-1. Fetch live `main` first and preserve any newer durable work.
-2. Revalidate the completed P0–P4 source/archive layer as **one publication-wide non-regression gate**.
-3. Confirm at minimum:
-   - physical/canonical page records **146 / 146**;
-   - source-titled assemblies **26 / 26**;
-   - canonical main-work pages represented **128 / 128**;
-   - source scan coverage **18–145 contiguous** plus scan 146 separate back-cover witness;
-   - strict P4 coverage **146 / 146**;
-   - P4 corrections **207 / 207 propagated**;
-   - unresolved printed-text blocks **0**;
-   - unresolved fidelity discrepancies **0**;
-   - blocked / needs-review records **0 / 0**;
-   - source-title, scan-span, printed-page mapping and unit-boundary drift **0**.
-4. Create `publications/meesai-mulaiththa-vayathil/PUBLICATION_COMPLETION_REVIEW.md` as the formal P5 completion/freeze record.
-5. Record the frozen Tamil authority/checkpoint needed for future translation provenance.
-6. Synchronize all state-bearing records: publication `README.md`, `audit.md`, `metadata/source.md`, `indexes/page-map.md`, `indexes/contents.md`, root `HANDOVER.md`, and this prompt.
-7. Mark P5 **PASS / COMPLETE** only if every non-regression check passes with **0 blockers**.
-8. After durable P5 PASS, English/E0 planning may become the next activity; **do not begin English translation within P5 itself unless separately authorized by the next durable state**.
+## Exact next activity — English E0 planning / translation-workspace bootstrap
+
+1. Fetch live `main` first and preserve newer durable work.
+2. Confirm P5 remains **COMPLETE / PASS** and the frozen Tamil `articles/` tree still matches **`b7593357dc5ba101362c7a303881bea4e63e9b68`**.
+3. Confirm the translation source set is the **26 strict-reviewed Tamil assemblies**, in source order **01–26**.
+4. Create / initialize the publication-level English planning workspace required by `ESSAY_TRANSLATION_GUIDE.md`, including at minimum:
+   - `TRANSLATION_PLAN.md`;
+   - `translations/en/README.md`;
+   - `translations/en/LEXICON.md`;
+   - `translations/en/TRANSLATION_REVIEW.md`.
+5. Record the frozen Tamil source/tree authority in the translation provenance layer.
+6. Establish article order, translation file naming, page-boundary-comment policy, quotation/verse handling, and a living lexicon policy.
+7. Carry permanent repository-wide rules such as exact Tamil `உடன்பிறப்பே` → **`Udanpirappē`** only when the source actually contains that form.
+8. Do not mechanically import publication-specific terminology from another work.
+9. Mark English **E0 PASS** only after all prerequisites and workspace files are internally consistent with **0 blockers**.
+10. Do **not** begin bulk English translation as part of E0 unless the next durable state separately authorizes it.
