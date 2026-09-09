@@ -16,7 +16,7 @@ transcription_method: "direct visual comparison with source scan"
 
 ## தனிமை
 
-பெண் : அவ்வளவு காதலோ!
+பெண் : அன்புள்ள காதலரே!
 
 ஆண் : யார்?
 
@@ -44,7 +44,13 @@ transcription_method: "direct visual comparison with source scan"
 ## P2 audit note
 
 - visible printed folio **48**, heading `தனிமை`, illustration, speaker labels and all dialogue/lineation on this opening page were directly verified against the supplied 2006 scan.
-- source-visible punctuation retained, including `அவ்வளவு காதலோ!`, `யார?`-form as printed through the speaker exchange, ellipsis in `ஏன்...`, and final `ஆமாம்!`.
+- source-visible opening salutation is `அன்புள்ள காதலரே!`; subsequent dialogue and final `ஆமாம்!` remain as printed.
 - Unit 11 continues to scan 50 / printed p.49.
+
+## P4 strict-fidelity note
+
+- strict visual review rechecked scan 49 directly against the controlling 2006 pixels.
+- corrected `அவ்வளவு காதலோ!` → source-visible **`அன்புள்ள காதலரே!`**.
+- unresolved fidelity discrepancies after correction: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 49 -->
