@@ -29,7 +29,7 @@ Frozen content authorities:
 - P3 audit blob: **`0c2045346b879c85b6e2c46150a4aab686323016`**;
 - final P4 report blob: **`2e085c2167c9dea409a13be4a7c980234e5a01df`**.
 
-Permanent source-title readings remain `அகப்பை சித்தர்`, `தளிர`, and `மயிலிறகு`. Any future Tamil reopening requires new direct controlling-source evidence and explicit provenance.
+Permanent source-title readings remain `அகப்பை சித்தர்`, `தளிர்`, and `மயிலிறகு`. Any future Tamil reopening requires new direct controlling-source evidence and explicit provenance.
 
 ## English E0 — COMPLETE / PASS
 
