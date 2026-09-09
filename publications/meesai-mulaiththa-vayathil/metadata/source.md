@@ -73,6 +73,19 @@ The final P4 remainder, scans **141–146**, required **9** direct-source correc
 
 Detailed P4 provenance through correction 157 is preserved in `VISUAL_TEXT_FIDELITY_REVIEW_THROUGH_100.md`; corrections 158–207 and the final P4 gate are recorded in `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
+## P5 Tamil freeze — COMPLETE / PASS
+
+Formal gate: `PUBLICATION_COMPLETION_REVIEW.md`.
+
+The source/archive layer passed its publication-wide non-regression review with **0 blockers**. Frozen Tamil content authorities are:
+
+- canonical page-record tree: **`f7930b3696668cdbc2d692a284b49586d09a3372`**;
+- strict-reviewed Tamil assembly tree: **`b7593357dc5ba101362c7a303881bea4e63e9b68`**;
+- P3 assembly audit blob: **`0c2045346b879c85b6e2c46150a4aab686323016`**;
+- final P4 report blob: **`2e085c2167c9dea409a13be4a7c980234e5a01df`**.
+
+These immutable content authorities, together with the controlling source SHA-256 above, define the Tamil translation baseline. They may be reopened only for new direct controlling-source evidence with explicit provenance.
+
 ## Physical-copy / scan condition
 
 - high-resolution image-only scan;
@@ -88,10 +101,10 @@ Detailed P4 provenance through correction 157 is preserved in `VISUAL_TEXT_FIDEL
 - P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**
 - P4 — **COMPLETE / PASS — 146 / 146 strict-reviewed**
-- P5 — **NOT STARTED**
-- English translation — **BLOCKED until Tamil P5 freeze**
+- P5 — **COMPLETE / PASS — TAMIL FROZEN**
+- English / E0 planning — **UNBLOCKED / NOT STARTED**
 - active source/fidelity blockers — **0**
 
 ## Exact next activity
 
-**P5 — Tamil publication completion review / freeze.** Revalidate the complete P0–P4 source layer, create the formal publication completion/freeze record, and record the frozen Tamil authority before English planning is unblocked.
+**English E0 planning / translation-workspace bootstrap.** Use the frozen strict-reviewed Tamil assembly tree as the primary translation authority and follow `ESSAY_TRANSLATION_GUIDE.md`. Do not alter the frozen Tamil layer.
