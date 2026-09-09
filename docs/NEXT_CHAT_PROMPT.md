@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P4 scans 61–70
+# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P4 scans 81–90
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -23,10 +23,10 @@ Publication 10 `மீசை முளைத்த வயதில்`:
 - P3 canonical main-work pages — **128 / 128**;
 - P3 source scan coverage — **18–145 contiguous**;
 - P3 boundary gaps / overlaps — **0 / 0**;
-- P4 — **IN PROGRESS — scans 1–60 / 60 of 146 strict-reviewed**;
-- P4 cumulative corrections — **132**;
-- corrections propagated — **132 / 132**;
-- P3 assemblies corrected/re-synchronized — **10 distinct assemblies**;
+- P4 — **IN PROGRESS — scans 1–80 / 80 of 146 strict-reviewed**;
+- P4 cumulative corrections — **139**;
+- corrections propagated — **139 / 139**;
+- P3 assemblies corrected/re-synchronized — **13 distinct assemblies**;
 - P4 unresolved fidelity discrepancies — **0**;
 - active P4 blockers — **0**;
 - English — **BLOCKED until Tamil P5 freeze**.
@@ -36,7 +36,7 @@ Formal records:
 - `publications/meesai-mulaiththa-vayathil/P3_ASSEMBLY_AUDIT.md`;
 - `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-## P4 checkpoint through scan 60
+## P4 checkpoint through scan 80
 
 Completed batches:
 
@@ -46,21 +46,32 @@ Completed batches:
 - P4-031-040 — **PASS; 43 corrections**;
 - P4-041-050 — **PASS; 46 corrections**;
 - P4-051-060 — **PASS; 2 corrections**;
+- P4-061-070 — **PASS; 2 corrections**;
+- P4-071-080 — **PASS; 5 corrections**;
 - cumulative unresolved fidelity discrepancies — **0**.
 
-P4-051-060 covered:
+### P4-061-070
 
-- `தனிமை` scans 51–54 / pp.50–53, closing the unit;
-- `நாடக மேடை` scans 55–56 / pp.54–55;
-- `புகழ்` scans 57–58 / pp.56–57;
-- `பச்சைக்கிளி` scans 59–60 / pp.58–59, with scan 61 still pending.
+- scan 61 closes `பச்சைக்கிளி`;
+- scan 62 is single-page `தமிழே`;
+- scans 63–70 cover `தேனலைகள்`, which closes on scan 71;
+- only scan 69 required corrections:
+  - `கோமானே!....` → **`கோமானே!...`**;
+  - `பரிசு!....` → **`பரிசு!...`**;
+- both corrections were propagated to `articles/16-thenalaigal.md`.
 
-Only two source corrections were required:
+### P4-071-080
 
-- scan 52: `ஒரு முத்தங்கள் கொடுங்கள் தான்”` → **`ஒரு முத்தங்கள் கொடுங்களத்தான்”`**;
-- scan 53: `ஒவியத்தை` → **`ஓவியத்தை`**.
-
-Both were propagated to `articles/11-thanimai.md`. Scans 51 and 54–60 required no text change. Unit boundaries and printed-page mapping remain unchanged.
+- scan 71 closes `தேனலைகள்`;
+- scans 72–77 complete `தோழி`;
+- scans 78–80 begin `மருதாணி`, which continues through scan 84;
+- five corrections:
+  - scan 72 `முத்தவள` → **`முத்தவள்`**;
+  - scan 77 `இதோ யார்` → **`இதோ பார்`**;
+  - scan 77 `அவனா?...` → **`அவனா ?...`**;
+  - scan 77 `புலியை?...` → **`புலியை ?...`**;
+  - scan 80 `பொழியலானாள்` → **`பொழியலானார்`**;
+- affected P3 assemblies `articles/17-thozhi.md` and `articles/18-maruthaani.md` are synchronized.
 
 ## Controlling source
 
@@ -91,14 +102,14 @@ Read completely before source-dependent work:
 8. `indexes/contents.md`;
 9. `P3_ASSEMBLY_AUDIT.md`;
 10. `VISUAL_TEXT_FIDELITY_REVIEW.md`;
-11. canonical records and corresponding P3 assemblies for scans 61–70.
+11. canonical records and corresponding P3 assemblies for scans 81–90.
 
 Resolve the controlling PDF before direct visual work.
 
-## Exact next activity — P4 scans 61–70
+## Exact next activity — P4 scans 81–90
 
-1. Re-inspect physical scans **61–70 directly**.
-2. Scan 61 closes `பச்சைக்கிளி`; scan 62 is the single-page unit `தமிழே`; scans 63–70 are `தேனலைகள்`, which closes on scan 71.
+1. Re-inspect physical scans **81–90 directly**.
+2. Scans **81–84 / pp.80–83** finish Unit 18 `மருதாணி`; scans **85–90 / pp.84–89** are all of Unit 19 `அருவி`.
 3. Compare every visible word, word boundary/spacing, punctuation mark, quotation mark, heading, number and continuation with the canonical records.
 4. Preserve the source pixels even when wording looks unusual; do not normalize from context or alternate witnesses.
 5. Record every correction as **old reading → source-visible reading** with scan/printed-page provenance.
