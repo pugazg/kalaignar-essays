@@ -69,15 +69,13 @@ Formal gate: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 P4 batch corrections, scans 001–146: **2, 4, 35, 43, 46, 2, 2, 5, 3, 15, 12, 11, 8, 10, 9**.
 
-The final P4 remainder, scans **141–146**, required **9** direct-source corrections: seven question-mark spacing corrections across scans 142–144, plus two independent back-cover corrections on scan 146 — source-visible quoted-title punctuation `‘மீசை முளைத்த வயதில்’` and `வாசித்தலும்`. The seven main-work corrections were propagated to `articles/26-mayiliragu.md`; scan 146 remains the separate illustrated back-cover/promotional witness.
-
-Detailed P4 provenance through correction 157 is preserved in `VISUAL_TEXT_FIDELITY_REVIEW_THROUGH_100.md`; corrections 158–207 and the final P4 gate are recorded in `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+Detailed P4 provenance through correction 157 is preserved in `VISUAL_TEXT_FIDELITY_REVIEW_THROUGH_100.md`; corrections 158–207 and final closure are in `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 ## P5 Tamil freeze — COMPLETE / PASS
 
 Formal gate: `PUBLICATION_COMPLETION_REVIEW.md`.
 
-The source/archive layer passed its publication-wide non-regression review with **0 blockers**. Frozen Tamil content authorities are:
+Frozen Tamil content authorities:
 
 - canonical page-record tree: **`f7930b3696668cdbc2d692a284b49586d09a3372`**;
 - strict-reviewed Tamil assembly tree: **`b7593357dc5ba101362c7a303881bea4e63e9b68`**;
@@ -85,6 +83,18 @@ The source/archive layer passed its publication-wide non-regression review with 
 - final P4 report blob: **`2e085c2167c9dea409a13be4a7c980234e5a01df`**.
 
 These immutable content authorities, together with the controlling source SHA-256 above, define the Tamil translation baseline. They may be reopened only for new direct controlling-source evidence with explicit provenance.
+
+## English translation provenance — E0 COMPLETE / PASS
+
+`TRANSLATION_PLAN.md` and `translations/en/` were initialized from the frozen `articles/` tree without modifying Tamil source content.
+
+- translation units: **26 / 26 source-titled assemblies**;
+- per-article frozen blob provenance recorded: **26 / 26**;
+- English body files created at E0: **0**;
+- formal article T0 gates passed: **0 / 26**;
+- E0 blockers: **0**.
+
+For translation, the strict-reviewed article assembly is primary authority. Page records / source scans are consulted only for source-level clarification.
 
 ## Physical-copy / scan condition
 
@@ -102,9 +112,11 @@ These immutable content authorities, together with the controlling source SHA-25
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**
 - P4 — **COMPLETE / PASS — 146 / 146 strict-reviewed**
 - P5 — **COMPLETE / PASS — TAMIL FROZEN**
-- English / E0 planning — **UNBLOCKED / NOT STARTED**
+- English E0 — **COMPLETE / PASS**
+- English T0–T5 — **0 / 26**
 - active source/fidelity blockers — **0**
+- active E0 blockers — **0**
 
 ## Exact next activity
 
-**English E0 planning / translation-workspace bootstrap.** Use the frozen strict-reviewed Tamil assembly tree as the primary translation authority and follow `ESSAY_TRANSLATION_GUIDE.md`. Do not alter the frozen Tamil layer.
+**E1 — Article 1 `பிறையே` calibration.** Re-confirm frozen Tamil blob `5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c` on live `main`, then take Article 1 through T0–T5 without changing the frozen Tamil layer.
