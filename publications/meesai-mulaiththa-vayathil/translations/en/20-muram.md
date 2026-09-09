@@ -8,7 +8,7 @@ source_tamil_blob_sha: "94cb40674f515520dde75b20de55b5558c2bd5ed"
 source_scan_pages: "91-95"
 source_printed_pages: "90-94"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -24,7 +24,7 @@ The flame went out in that singular sweetness; looking upon the taste of the fru
 
 <!-- Tamil source: scan 92 / printed 91 -->
 
-“What is this breaking of tamarind? Is it the skill of taking a chisel and splitting a mountain? Or the valour of forgetting life amid riddles, in the middle of a cave, and killing a tiger?” he asked. The maiden replied: “Who said killing a tiger is valour, Aththaan? Do you know that a tiger which men like you subdue with bows and spears was once driven away by a woman like me—with a winnowing tray?”
+“What is this breaking of tamarind? Is it the skill of taking a chisel and splitting a mountain? Or the valour of forgetting life amid riddles, in the middle of a cave, and killing a tiger?” he asked. The maiden replied: “Who said killing a tiger is valour, Aththaan? Do you know that a tiger which men like you, gripped by fear, subdue with bows and spears was once driven away by a woman like me—with a winnowing tray?”
 
 “The literatures famed as Puram and Akam belong to the Tamil. It is true that a Tamil woman once drove away a fierce tiger with a winnowing tray as her weapon—but that was then, woman! Today you cannot do it, my dear!”
 
