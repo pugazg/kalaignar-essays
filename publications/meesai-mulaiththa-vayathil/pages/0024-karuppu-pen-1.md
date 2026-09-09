@@ -16,7 +16,7 @@ transcription_method: "direct visual comparison with source scan"
 
 ## கருப்புப் பெண்
 
-வா, இரவே வா! எழிலாடும் கருப்புப் பெண்ணே வா! நீ அழகி - பேரழகி. கருப்புப் பெண்ணை நான் விரும்புகிறேன். நேசிக்கிறேன். ஆனால் எனக்குக் கல்யாணமாகிவிட்டதே! அதனால் என்ன; களங்கமற்ற உள்ளத்தோடு உன் அழகை வர்ணிப்பது குற்றமா என்ன? மரகத மங்கையே! காரிருள் காதலியே என்று உன்னைக் கூப்பிட்டால் கடிந்துகொள்; நியாயம்! கோழியே என்று அழைப்பதில் தோஷமில்லையென்று நானே முடிவுகட்டிவிட்டேன்.
+வா, இரவே வா! எழிலாடும் கருப்புப் பெண்ணே வா! நீ அழகி - பேரழகி. கருப்புப் பெண்ணை நான் விரும்புகிறேன். நேசிக்கிறேன். ஆனால் எனக்குக் கல்யாணமாகிவிட்டதே! அதனால் என்ன; களங்கமற்ற உள்ளத்தோடு உன் அழகை வர்ணிப்பது குற்றமா என்ன? மரகத மங்கையே! காரிருள் காதலியே என்று உன்னைக் கூப்பிட்டால் கடிந்து கொள்; நியாயம்! தோழியே என்று அழைப்பதில் தோஷமில்லையென்று நானே முடிவுகட்டி விட்டேன்.
 
 ## அச்சிடப்பட்ட காட்சி
 
@@ -30,8 +30,16 @@ transcription_method: "direct visual comparison with source scan"
 ## P2 audit note
 
 - visible printed folio **23** directly verified.
-- source-visible heading `கருப்புப் பெண்` and wording/punctuation through `முடிவுகட்டிவிட்டேன்.` directly checked against the controlling scan.
-- an older `முத்தாரம்` printing was used only as corroboration where the small source type was difficult; the 2006 scan determined the retained reading.
+- source-visible heading `கருப்புப் பெண்` and the opening prose were checked against the controlling scan.
+- an older `முத்தாரம்` printing is corroboration only; the 2006 scan determines the canonical reading.
 - Unit 3 continues on scan 25 / printed p.24.
+
+## P4 strict-fidelity note
+
+- strict visual review rechecked scan 24 word-by-word, spacing and punctuation.
+- corrected `கடிந்துகொள்` → **`கடிந்து கொள்`**.
+- corrected `கோழியே` → **`தோழியே`**.
+- corrected `முடிவுகட்டிவிட்டேன்.` → **`முடிவுகட்டி விட்டேன்.`**.
+- unresolved fidelity discrepancies after correction: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 24 -->
