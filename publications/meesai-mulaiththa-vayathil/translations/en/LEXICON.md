@@ -3,7 +3,7 @@
 Publication: `மீசை முளைத்த வயதில்`  
 Frozen Tamil authority: `../../articles/` tree **`b7593357dc5ba101362c7a303881bea4e63e9b68`**
 
-This living lexicon is initialized at **E0**. It is a consistency aid, not a mechanical substitution table. Publication-specific English choices must be established from this publication's frozen Tamil source during T1–T4; they must not be imported from another work merely because a similar Tamil form appeared there.
+This living lexicon was initialized at **E0** and first populated during **E1 / Article 1 `பிறையே`**. It is a consistency aid, not a mechanical substitution table. Publication-specific English choices must be established from this publication's frozen Tamil source and may vary when the immediate Tamil function changes.
 
 ## Permanent repository-wide rule
 
@@ -13,9 +13,31 @@ This living lexicon is initialized at **E0**. It is a consistency aid, not a mec
 
 ## Publication-specific entries
 
-**None established yet at E0.**
+| Tamil | Preferred English | Context / exception | First established | Status |
+|---|---|---|---|---|
+| `பிறையே` | `O Crescent!` | Article 1 title/vocative. In running direct address use `O crescent!`; retain the vocative force rather than neutral `crescent moon`. | Article 1 | **T4 verified** |
+| `வானக் கடலலையின் நுரையே` | `Foam of the wave of the sky-sea!` | Preserve Kalaignar's compressed sky/sea/wave/foam image; do not explain it away. | Article 1 | **T4 verified** |
+| `கைதி` / `கைதியே` | `prisoner` / `“Prisoner!”` | Preserve the repeated prison parallel between speaker and crescent; the quoted vocative retains its call-force. | Article 1 | **T4 verified** |
+| `சுதந்திரத் தேர்` | `chariot of freedom` | Preserve the vehicle image; do not flatten to simply `freedom`. | Article 1 | **T4 verified** |
+| `கிழித்த கோட்டைத் தாண்டாமல்` | `without crossing the line drawn for you` | Boundary-line image governing the crescent's fixed course; do not turn it into a prison wall. | Article 1 | **T4 verified** |
+| `நட்சத்திர சீமாட்டிகள்` | `star-ladies` | Preserve personification and the slightly elevated/socially marked `சீமாட்டிகள்`; do not neutralize to `stars`. | Article 1 | **T4 verified** |
+| `உனக்கென்ன வாழ்கிறதாம்` | `Some life you have!` | Sarcastic rhetorical jab in Article 1; contextual, not a mechanical substitution elsewhere. | Article 1 | **T4 verified** |
+| `இருட்டிப்பு` | `blackout` / `blackouts` | Preserve the darkening/suppression image that parallels the speaker's condition with the moon's monthly darkness. | Article 1 | **T4 verified** |
+| `அமாவாசை` | `new moon` | Article 1 lunar context. | Article 1 | **T4 verified** |
+| `வானத்துப் படகு` | `boat of the sky` | Preserve direct personification/image. | Article 1 | **T4 verified** |
+| `வெண்ணக் கலாப மயில்` | `white-plumed peacock` | Preserve the source's ornate beloved-image; do not replace with an explanatory label for the woman. | Article 1 | **T4 verified** |
+| `விடுதலை தேவி` | `goddess of freedom` | Preserve deliberate overlap between beloved/freedom imagery; do not rationalize into a purely political abstraction. | Article 1 | **T4 verified** |
 
-Article 1 `பிறையே` is the E1 calibration article. Its title, recurring metaphors, direct-address choices and any source-bearing literary terms will be added here only after they are established against the frozen Tamil source and survive the appropriate review gate.
+## Article 1 calibration notes
+
+Article 1 establishes the collection's initial English voice baseline:
+
+- compact literary compounds may remain compact in English when intelligible (`sky-sea`);
+- direct apostrophe is retained with `O ...!` where the Tamil vocative drives the rhetoric;
+- personification is not converted into explanatory prose;
+- repeated `I too am a prisoner! / You too are a prisoner!` is preserved exactly as repeated rhetorical structure;
+- sarcasm may be rendered idiomatically when the Tamil function is clear (`Some life you have!`) without adding a new claim;
+- freedom/prison imagery remains concrete rather than academicized.
 
 ## Lexicon discipline
 
@@ -46,9 +68,10 @@ For every entry:
 - English article titles are established article by article and recorded here when a title choice is final enough to govern later consistency.
 - Strange or compressed source imagery is not normalized into explanatory prose solely because literal English sounds unusual.
 
-## E0 status
+## Current status
 
 - frozen Tamil article set: **26 / 26 inventoried**;
-- publication-specific lexical decisions: **0**;
-- unresolved E0 terminology blockers: **0**;
-- next lexicon activity: **E1 / Article 1 `பிறையே`, during T1–T4**.
+- publication-specific lexical decisions established: **12**;
+- Article 1 terminology / quotation / source audit: **T4 PASS**;
+- unresolved terminology blockers: **0**;
+- next lexicon activity: **E2 / Articles 2–11, updated article by article during T1–T4**.
