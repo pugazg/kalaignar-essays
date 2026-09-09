@@ -8,7 +8,7 @@ source_tamil_blob_sha: "9319a924fc172d0b80107c8c4c18157ffee67b30"
 source_scan_pages: "103-114"
 source_printed_pages: "102-113"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -81,7 +81,7 @@ This doubt in the sculptor's heart allowed peace to take residence there.
 
 When mustard is dropped into boiling oil it bursts and scatters. After the sculptor's boiling anger subsided, the princess began to speak.
 
-“I have neither the narrow mind nor the crooked intelligence to break a statue. I know that if I break this one statue, statues of crores of Pandya kings will be broken in the Chera land. Not only that; I know too that the fame of the Pandya lineage would fall under the criticism that, because a statue was broken, one petty-minded woman had acted so. And beyond that, I know the truth that the Chera too is one of our people, artist... If the world knows why I broke this statue, it will praise you with a full mouth as ‘king of kings among masters of art’!”
+“I have neither the narrow mind nor the crooked intelligence to break a statue. I know that if I break this one statue, statues of crores of Pandya kings will be broken in the Chera land. Not only that; I know too that the fame of the Pandya lineage would fall under the criticism that, because a statue was broken, one petty-minded woman had acted so. And beyond that, I know the truth that the Chera too is of our race, artist... If the world knows why I broke this statue, it will praise you with a full mouth as ‘king of kings among masters of art’!”
 
 <!-- Tamil source: scan 110 / printed 109 -->
 
