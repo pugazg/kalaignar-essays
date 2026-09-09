@@ -18,16 +18,16 @@ transcription_method: "direct visual comparison with source scan"
 
 மீசை முளைத்த வயதில்
 
-நேரமாகிவிட்டதென்றா? சோகம் தாங்கலையா?  
+நேரமாகிவிட்டதென்றா? சோகம் தாங்காமலா?  
 விரகதாபம் மேலிட்டா? இரு, இரு, அதோ  
 வந்துவிட்டான் என் நண்பன். உனக்கேற்ற காதலன்.  
 அவனைத் தெரியுமா உனக்கு? காலையெனும்  
 கட்டழகன் அவன்தான். உங்கள் கல்யாணத்தை  
-இப்போதே முடிவு செய்துவிடுவோம். கருப்புப்  
+இப்போதே முடிவுசெய்து விடுவோம். கருப்புப்  
 பெண்ணுக்கும் காலைக்கும் கல்யாணமாம்; அதற்குப்  
 பெயர் கருக்கலாம்.
 
-அடேடே! எங்கே ஓடுகிறாய் - இரவுத் தோழியே;  
+அடே! எங்கே ஓடுகிறாய் - இரவுத் தோழியே;  
 இளமைமாறா நங்கையே! இரு இரு, காதலனைக்  
 கண்டதும் அவ்வளவு வெட்கமா உனக்கு! சரி,  
 சரி போ!
@@ -42,7 +42,15 @@ transcription_method: "direct visual comparison with source scan"
 ## P2 audit note
 
 - visible printed folio **26** and running header `மீசை முளைத்த வயதில்` directly verified.
-- source-visible lineation, punctuation, `காலையெனும்`, `கருக்கலாம்.`, closing `சரி போ!`, and printed bullet `●` were retained.
+- source-visible lineation and printed bullet `●` retained.
 - this scan closes Unit 3 `கருப்புப் பெண்`; the next source-titled unit begins on scan 28.
+
+## P4 strict-fidelity note
+
+- strict visual review rechecked scan 27 word-by-word, line-by-line and punctuation-by-punctuation.
+- corrected `சோகம் தாங்கலையா?` → **`சோகம் தாங்காமலா?`**.
+- corrected `முடிவு செய்துவிடுவோம்.` → **`முடிவுசெய்து விடுவோம்.`**.
+- corrected `அடேடே!` → **`அடே!`**.
+- unresolved fidelity discrepancies after correction: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 27 -->
