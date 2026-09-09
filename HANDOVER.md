@@ -9,7 +9,7 @@ Branch: `main`
 
 Publications **1–9 are RELEASE COMPLETE / FROZEN**.
 
-Active Publication **10 — `மீசை முளைத்த வயதில்` — P0, P1, P2 and P3 COMPLETE / PASS. P4 is IN PROGRESS at scans 1–60 / 60 of 146 strict-reviewed, with 132 source corrections, 10 distinct P3 assemblies re-synchronized, and 0 unresolved fidelity discrepancies.**
+Active Publication **10 — `மீசை முளைத்த வயதில்` — P0, P1, P2 and P3 COMPLETE / PASS. P4 is IN PROGRESS at scans 1–80 / 80 of 146 strict-reviewed, with 139 source corrections, 13 distinct P3 assemblies re-synchronized, and 0 unresolved fidelity discrepancies.**
 
 Source PDFs are never committed.
 
@@ -79,11 +79,11 @@ Formal running report: `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDE
 
 Current checkpoint:
 
-- physical scans strict-reviewed: **60 / 146**;
-- contiguous strict-reviewed range: **1–60**;
-- cumulative source corrections: **132**;
-- corrections propagated to canonical records: **132 / 132**;
-- P3 assemblies corrected/re-synchronized: **10 distinct assemblies**;
+- physical scans strict-reviewed: **80 / 146**;
+- contiguous strict-reviewed range: **1–80**;
+- cumulative source corrections: **139**;
+- corrections propagated to canonical records: **139 / 139**;
+- P3 assemblies corrected/re-synchronized: **13 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
@@ -94,23 +94,42 @@ Completed P4 batches:
 - scans 21–30: **35 corrections**;
 - scans 31–40: **43 corrections**;
 - scans 41–50: **46 corrections**;
-- scans 51–60: **2 corrections**.
+- scans 51–60: **2 corrections**;
+- scans 61–70: **2 corrections**;
+- scans 71–80: **5 corrections**.
 
-### Durable P4-051-060 findings
+### Durable P4-061-070 findings
 
 Units reviewed:
 
-- `தனிமை` — scans 51–54 / pp.50–53, completing the unit;
-- `நாடக மேடை` — scans 55–56 / pp.54–55;
-- `புகழ்` — scans 57–58 / pp.56–57;
-- `பச்சைக்கிளி` — opening scans 59–60 / pp.58–59.
+- `பச்சைக்கிளி` — scan 61 / p.60, closing the unit;
+- `தமிழே` — scan 62 / p.61, single-page unit;
+- `தேனலைகள்` — scans 63–70 / pp.62–69, with the unit continuing to scan 71.
 
-Only two direct-source corrections were required:
+Only scan 69 required correction:
 
-- scan 52 `ஒரு முத்தங்கள் கொடுங்கள் தான்”` → **`ஒரு முத்தங்கள் கொடுங்களத்தான்”`**;
-- scan 53 `ஒவியத்தை` → **`ஓவியத்தை`**.
+- `கோமானே!....` → **`கோமானே!...`**;
+- `பரிசு!....` → **`பரிசு!...`**.
 
-Both were applied to their page records and propagated into `articles/11-thanimai.md`. Scans 51 and 54–60 required no textual correction. Since `11-thanimai.md` was already among the previously corrected assemblies, the cumulative distinct-assembly count remains 10. Unit boundaries and printed-page mapping did not change. `பச்சைக்கிளி` continues on scan 61.
+Both punctuation corrections were applied to the canonical page record and propagated into `articles/16-thenalaigal.md`. The cumulative distinct corrected/re-synchronized assembly count became 11.
+
+### Durable P4-071-080 findings
+
+Units reviewed:
+
+- `தேனலைகள்` — scan 71 / p.70, closing the unit;
+- `தோழி` — scans 72–77 / pp.71–76, completing the unit;
+- `மருதாணி` — scans 78–80 / pp.77–79, with the unit continuing through scan 84.
+
+Five direct-source corrections were required:
+
+- scan 72 `முத்தவள` → **`முத்தவள்`**;
+- scan 77 `இதோ யார்` → **`இதோ பார்`**;
+- scan 77 `அவனா?...` → **`அவனா ?...`**;
+- scan 77 `புலியை?...` → **`புலியை ?...`**;
+- scan 80 `பொழியலானாள்` → **`பொழியலானார்`**.
+
+All five corrections were applied to canonical page records and propagated into `articles/17-thozhi.md` and `articles/18-maruthaani.md`. The cumulative distinct corrected/re-synchronized assembly count is now 13. Unit boundaries and printed-page mapping did not change.
 
 ## Gate state
 
@@ -118,20 +137,20 @@ Both were applied to their page records and propagated into `articles/11-thanima
 - P1 — **COMPLETE / PASS**;
 - P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**;
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**;
-- P4 — **IN PROGRESS — 60 / 146 strict-reviewed**;
+- P4 — **IN PROGRESS — 80 / 146 strict-reviewed**;
 - P5 — **NOT STARTED**;
 - English — **BLOCKED until Tamil P5 freeze**.
 
 Active P4 blockers: **0**.
 
-## Exact next activity — P4 scans 61–70
+## Exact next activity — P4 scans 81–90
 
 When the user says proceed/continue:
 
 1. fetch live `main` and preserve newer durable work;
 2. resolve the controlling source PDF;
-3. re-inspect **scans 61–70 directly**, word-by-word, word-boundary-by-word-boundary and punctuation-by-punctuation;
-4. close `பச்சைக்கிளி` on scan 61, review single-page `தமிழே` on scan 62, and review `தேனலைகள்` scans 63–70; the unit closes on scan 71;
+3. re-inspect **scans 81–90 directly**, word-by-word, word-boundary-by-word-boundary and punctuation-by-punctuation;
+4. finish `மருதாணி` on scans 81–84 / pp.80–83 and review all of `அருவி` on scans 85–90 / pp.84–89;
 5. compare against canonical page records and corresponding P3 assemblies;
 6. preserve unusual source wording; do not modernize or import corroborating witness wording;
 7. record every old reading → source-visible reading with scan/printed-page provenance;
