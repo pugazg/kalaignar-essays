@@ -15,10 +15,10 @@ This live report continues that same correction sequence from **158** onward. Th
 
 ## Gate state
 
-**P4 — IN PROGRESS — 130 / 146 physical scans strict-reviewed**
+**P4 — IN PROGRESS — 140 / 146 physical scans strict-reviewed**
 
-Contiguous strict-reviewed range: **scans 1–130**.  
-Next strict-review batch: **scans 131–140**.
+Contiguous strict-reviewed range: **scans 1–140**.  
+Next strict-review batch: **scans 141–146**.
 
 P4 follows `ESSAY_PROCESSING_GUIDE.md` section 12: every physical scan is re-inspected directly, word-by-word, word-boundary-by-word-boundary and punctuation-by-punctuation, against the canonical page record. Source pixels remain authority; context, OCR and secondary editions are not authority.
 
@@ -154,13 +154,72 @@ Correction 165 was found during the closing re-check before this batch was froze
 - No source-title, scan-span, printed-page mapping or unit-boundary change occurred.
 - unresolved fidelity discrepancies after reconciliation: **0**.
 
+## Batch P4-131-140
+
+**RESULT: PASS after corrective strict review — 10 / 10 scans; 10 corrections; 0 unresolved fidelity discrepancies.**
+
+| Scan | Unit / printed page | Result | Corrections |
+|---:|---|---|---:|
+| 131 | `ஆண்டு விழா` / p.130 | PASS after correction | 2 |
+| 132 | `ஆண்டு விழா` / p.131 | PASS after correction | 2 |
+| 133 | `ஆண்டு விழா` / p.132 | PASS after correction | 1 |
+| 134 | `ஆண்டு விழா` / p.133 | PASS after correction | 2 |
+| 135 | `ஆண்டு விழா` / p.134 | PASS | 0 |
+| 136 | `மயிலிறகு` / p.135 | PASS | 0 |
+| 137 | `மயிலிறகு` / p.136 | PASS | 0 |
+| 138 | `மயிலிறகு` / p.137 | PASS | 0 |
+| 139 | `மயிலிறகு` / p.138 | PASS after correction | 1 |
+| 140 | `மயிலிறகு` / p.139 | PASS after correction | 2 |
+
+### Correction provenance — P4-131-140
+
+**Scan 131 — `ஆண்டு விழா` / p.130**
+
+189. `என்ன கண்ணே?”` → source-visible **`என்ன கண்ணே ?”`**;  
+190. `உலகு - போவோமா?”` → source-visible **`உலகு - போவோமா ?”`**.
+
+**Scan 132 — `ஆண்டு விழா` / p.131**
+
+191. `மறுப்பு தானோ?”` → source-visible **`மறுப்பு தானோ ?”`**;  
+192. `ஆளும் உண்டோ? ஆயின் ஒன்று -` → source-visible **`ஆளும் உண்டோ ? ஆயின் ஒன்று -`**.
+
+**Scan 133 — `ஆண்டு விழா` / p.132**
+
+193. `பொருத்தமுண்டா? அதைப்` → source-visible **`பொருத்தமுண்டா ? அதைப்`**.
+
+**Scan 134 — `ஆண்டு விழா` / p.133**
+
+194. `பரிசு சிறப்பானதோ? செப்பிடுவாய்!”` → source-visible **`பரிசு சிறப்பானதோ ? செப்பிடுவாய்!”`**;  
+195. `விட்டதோ உனக்கு?”` → source-visible **`விட்டதோ உனக்கு ?”`**.
+
+**Scan 139 — `மயிலிறகு` / p.138**
+
+196. `எங்கப்பா செல்வது?”` → source-visible **`எங்கப்பா செல்வது ?”`**.
+
+**Scan 140 — `மயிலிறகு` / p.139**
+
+197. `“எங்கோ செல்; எமக்கென்ன?”` → source-visible **`“எங்கோ செல்; எமக்கென்ன ?”`**;  
+198. `“எனத்தான் ஒரு மாதிரி இருக்கிறீர்?”` → source-visible **`“எனத்தான் ஒரு மாதிரி இருக்கிறீர் ?”`**.
+
+### Batch findings / dependency propagation
+
+- Scans 135–138 required no textual correction.
+- All 10 source-visible corrections were applied to canonical page records.
+- `articles/25-aandu-vizha.md` and `articles/26-mayiliragu.md` were re-synchronized.
+- `ஆண்டு விழா` closes on scan 135 and is fully P4-reconciled.
+- `மயிலிறகு` remains open after scan 140 and continues through scan 145.
+- Cumulative distinct corrected/re-synchronized P3 assemblies became **20**.
+- No source-title, scan-span, printed-page mapping or unit-boundary change occurred.
+- Permanent source-title reading `மயிலிறகு` remains unchanged.
+- unresolved fidelity discrepancies after reconciliation: **0**.
+
 ## Progress totals
 
-- physical scans strict-reviewed: **130 / 146**;
-- contiguous reviewed range: **1–130**;
-- P4 corrections found: **188**;
-- P4 corrections propagated to canonical page records: **188 / 188**;
-- P3 article assemblies corrected / re-synchronized so far: **19 distinct assemblies**;
+- physical scans strict-reviewed: **140 / 146**;
+- contiguous reviewed range: **1–140**;
+- P4 corrections found: **198**;
+- P4 corrections propagated to canonical page records: **198 / 198**;
+- P3 article assemblies corrected / re-synchronized so far: **20 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**;
 - P4 mapping/boundary changes: **0**;
@@ -174,6 +233,6 @@ The supplied 2006 scan remains controlling. Corroborating witnesses, OCR and con
 
 ## Exact next activity
 
-**P4 scans 131–140.** Re-inspect all ten physical scans directly against their canonical records. Scans 131–135 / printed pp.130–134 finish `ஆண்டு விழா`; scans 136–140 / printed pp.135–139 begin `மயிலிறகு`, which continues through scan 145. Record every old reading → source-visible reading correction, propagate affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
+**P4 scans 141–146.** Re-inspect all six remaining physical scans directly against their canonical records. Scans 141–145 / printed pp.140–144 finish `மயிலிறகு`; scan 146 is the illustrated back cover / promotional text. Record every old reading → source-visible reading correction, propagate affected main-work text into `articles/26-mayiliragu.md` and dependent trackers, and close P4 only after the full six-scan remainder is reconciled.
 
 Do not mark P4 complete before **146 / 146** physical scans are strict-reviewed. English remains **BLOCKED until Tamil P5 freeze**.
