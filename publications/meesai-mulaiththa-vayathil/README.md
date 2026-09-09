@@ -62,7 +62,20 @@ The full source-titled article layer is present under `articles/` and has passed
 
 Every assembly retains its frozen source title and P2 source/printed-page span and declares `status: "source-complete"` with mechanical assembly from verified canonical page records. Source wording was not silently normalized; page-boundary provenance is retained.
 
-P3 closure does **not** mean the publication has passed the separate final strict visual-text-fidelity gate.
+## P4 strict visual text-fidelity — IN PROGRESS
+
+Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+
+Current strict-reviewed range: **scans 1–10 / 10 of 146**.
+
+Batch P4-001-010: **PASS after corrective review — 10 / 10; 2 corrections; 0 unresolved fidelity discrepancies**.
+
+Corrections:
+
+- scan 5 `என்னுரை`: **`கூறிய` → `கூரிய`** in `கூரிய வேல் வாள்`;
+- scan 8 `முன்னுரை`: **`மூத்தோர்` → `முதியோர்`** in `அறிவுரையே கவிதை என்றால் முதியோர் முதுமொழி போதும்.`
+
+Both corrections are direct controlling-scan readings. They affect front matter only, so no P3 main-work assembly required propagation. Scan 3's stamp-obscured imprint segment remains explicitly unreconstructed rather than guessed.
 
 ## Source identity
 
@@ -78,15 +91,15 @@ P3 closure does **not** mean the publication has passed the separate final stric
 - P1: **COMPLETE / PASS**
 - P2: **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3: **COMPLETE / PASS — 26 / 26 assemblies**
-- P4: **NOT STARTED**
+- P4: **IN PROGRESS — 10 / 146 strict-reviewed**
 - P5: **NOT STARTED**
 - English: **BLOCKED until Tamil P5 freeze**
-- active blockers: **0**
+- active P4 blockers: **0**
 
 ## Exact next activity
 
-**P4 — final strict visual text-fidelity pass.**
+**P4 scans 11–20.**
 
-Re-inspect all **146 physical scans** directly, word-by-word and punctuation-by-punctuation, including cover/front matter, blank/show-through, all main-work pages and the back cover. Record every source correction with provenance, propagate it into dependent article/index/status files, and produce `VISUAL_TEXT_FIDELITY_REVIEW.md` before declaring P4 complete.
+Re-inspect scans 11–20 directly, word-by-word and punctuation-by-punctuation, against their canonical records. Record every source correction with old reading → source-visible reading provenance and propagate any affected dependent records. Do not mark P4 complete until all **146 / 146** physical scans are strict-reviewed.
 
 Do not begin English translation until the Tamil archival workflow reaches P5 freeze.
