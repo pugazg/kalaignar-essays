@@ -15,10 +15,10 @@ This live report continues that same correction sequence from **158** onward. Th
 
 ## Gate state
 
-**P4 — IN PROGRESS — 120 / 146 physical scans strict-reviewed**
+**P4 — IN PROGRESS — 130 / 146 physical scans strict-reviewed**
 
-Contiguous strict-reviewed range: **scans 1–120**.  
-Next strict-review batch: **scans 121–130**.
+Contiguous strict-reviewed range: **scans 1–130**.  
+Next strict-review batch: **scans 131–140**.
 
 P4 follows `ESSAY_PROCESSING_GUIDE.md` section 12: every physical scan is re-inspected directly, word-by-word, word-boundary-by-word-boundary and punctuation-by-punctuation, against the canonical page record. Source pixels remain authority; context, OCR and secondary editions are not authority.
 
@@ -52,48 +52,19 @@ Durable cumulative checkpoint at scan 100:
 
 ### Correction provenance — P4-101-110
 
-**Scan 101 — `யாழ்` / p.100**
+158. scan 101 `எது போனால் என்ன?` → **`எது போனால் என்ன ?`**.  
+159. scan 103 `ஒடிகிறது` → **`ஒடுகிறது`**.  
+160. scan 105 `எவ்வளவு ஆணவம்?”` → **`எவ்வளவு ஆணவம் ?”`**.  
+161–165. scan 106 preserved source spaces in `கேடா ?`, `நான் யார் ?`, `இவன் யார் ?`, `ஆணவம் ?...`, and `செய்தீர்கள் ?”`.  
+166–167. scan 108 preserved source spaces in `சட்டம் ?` and `உரிமையில்லை ?`.  
+168–169. scan 110 preserved source spaces in `பார்த்ததா ?”` and `அம்மா ?”`.
 
-158. `எது போனால் என்ன?` → source-visible **`எது போனால் என்ன ?`**.
-
-**Scan 103 — `சிற்பி` / p.102**
-
-159. `ஒடிகிறது` → source-visible **`ஒடுகிறது`**.
-
-**Scan 105 — `சிற்பி` / p.104**
-
-160. `எவ்வளவு ஆணவம்?”` → source-visible **`எவ்வளவு ஆணவம் ?”`**.
-
-**Scan 106 — `சிற்பி` / p.105**
-
-161. `கேடா?` → source-visible **`கேடா ?`**;
-162. `நான் யார்?` → source-visible **`நான் யார் ?`**;
-163. `இவன் யார்?` → source-visible **`இவன் யார் ?`**;
-164. `ஆணவம்?...` → source-visible **`ஆணவம் ?...`**;
-165. `செய்தீர்கள்?”` → source-visible **`செய்தீர்கள் ?”`**.
-
-Correction 165 was found during the closing re-check before the 101–110 tracker state was frozen; the earlier provisional batch count of 11 was therefore superseded by this final source-controlled count of **12**.
-
-**Scan 108 — `சிற்பி` / p.107**
-
-166. `சட்டம்?` → source-visible **`சட்டம் ?`**;
-167. `உரிமையில்லை?` → source-visible **`உரிமையில்லை ?`**.
-
-**Scan 110 — `சிற்பி` / p.109**
-
-168. `பார்த்ததா?”` → source-visible **`பார்த்ததா ?”`**;
-169. `அம்மா?”` → source-visible **`அம்மா ?”`**.
-
-### Batch findings / dependency propagation
+Correction 165 was found during the closing re-check before this batch was frozen; the earlier provisional count of 11 was superseded by the final source-controlled count of **12**.
 
 - Scans 102, 104, 107 and 109 required no textual correction.
-- All 12 source-visible corrections were applied to canonical page records.
 - `articles/21-yaazh.md` and `articles/22-sirpi.md` were re-synchronized.
 - `யாழ்` closes on scan 102 and is fully P4-reconciled.
-- `சிற்பி` remains open after scan 110 and continues through scan 114.
-- Cumulative distinct corrected/re-synchronized P3 assemblies became **16**.
-- No source-title, scan-span, printed-page mapping or unit-boundary change occurred.
-- unresolved fidelity discrepancies after reconciliation: **0**.
+- `சிற்பி` remains open after scan 110.
 
 ## Batch P4-111-120
 
@@ -114,53 +85,82 @@ Correction 165 was found during the closing re-check before the 101–110 tracke
 
 ### Correction provenance — P4-111-120
 
-**Scan 111 — `சிற்பி` / p.110**
+170. scan 111 `மனமா?...` → **`மனமா ?...`**.  
+171. scan 112 `இருக்கின்றன?` → **`இருக்கின்றன ?`**.  
+172–177. scan 113 preserved source spaces before question marks in `கேட்கலாமா ?”`, `கவிதையா ?...`, `கேட்டீர்களா ?”`, `உண்மையாகவா ?”`, `நினைவிருக்கிறதா ?”`, and `காரணம் ?”`.  
+178. scan 116 `பயன் என்ன?”` → **`பயன் என்ன ?”`**.  
+179. scan 117 `போகின்றாயோ?` → **`போகின்றாயோ ?`**.  
+180. scan 118 `சுலபமா?` → **`சுலபமா ?`**.
 
-170. `மனமா?...` → source-visible **`மனமா ?...`**.
+- Scans 114, 115, 119 and 120 required no textual correction.
+- `articles/22-sirpi.md` and `articles/23-seval-sandai.md` were re-synchronized.
+- `சிற்பி` closes on scan 114 and is fully P4-reconciled.
+- `சேவல் சண்டை` remains open after scan 120.
 
-**Scan 112 — `சிற்பி` / p.111**
+## Batch P4-121-130
 
-171. `இருக்கின்றன?` → source-visible **`இருக்கின்றன ?`**.
+**RESULT: PASS after corrective strict review — 10 / 10 scans; 8 corrections; 0 unresolved fidelity discrepancies.**
 
-**Scan 113 — `சிற்பி` / p.112**
+| Scan | Unit / printed page | Result | Corrections |
+|---:|---|---|---:|
+| 121 | `சேவல் சண்டை` / p.120 | PASS | 0 |
+| 122 | `சேவல் சண்டை` / p.121 | PASS | 0 |
+| 123 | `மடல்` / p.122 | PASS after correction | 1 |
+| 124 | `மடல்` / p.123 | PASS after correction | 1 |
+| 125 | `மடல்` / p.124 | PASS | 0 |
+| 126 | `மடல்` / p.125 | PASS after correction | 2 |
+| 127 | `மடல்` / p.126 | PASS after correction | 1 |
+| 128 | `மடல்` / p.127 | PASS | 0 |
+| 129 | `ஆண்டு விழா` / p.128 | PASS after correction | 1 |
+| 130 | `ஆண்டு விழா` / p.129 | PASS after correction | 2 |
 
-172. `கேட்கலாமா?”` → source-visible **`கேட்கலாமா ?”`**;
-173. `கவிதையா?...` → source-visible **`கவிதையா ?...`**;
-174. `கேட்டீர்களா?”` → source-visible **`கேட்டீர்களா ?”`**;
-175. `உண்மையாகவா?”` → source-visible **`உண்மையாகவா ?”`**;
-176. `நினைவிருக்கிறதா?”` → source-visible **`நினைவிருக்கிறதா ?”`**;
-177. `காரணம்?”` → source-visible **`காரணம் ?”`**.
+### Correction provenance — P4-121-130
 
-**Scan 116 — `சேவல் சண்டை` / p.115**
+**Scan 123 — `மடல்` / p.122**
 
-178. `பயன் என்ன?”` → source-visible **`பயன் என்ன ?”`**.
+181. `சோகத் தொடாக்கதை!` → source-visible **`சோகத் தொடர்கதை!`**.
 
-**Scan 117 — `சேவல் சண்டை` / p.116**
+**Scan 124 — `மடல்` / p.123**
 
-179. `போகின்றாயோ?` → source-visible **`போகின்றாயோ ?`**.
+182. `ஆயின் என்?` → source-visible **`ஆயின் என் ?`**.
 
-**Scan 118 — `சேவல் சண்டை` / p.117**
+**Scan 126 — `மடல்` / p.125**
 
-180. `சுலபமா?` → source-visible **`சுலபமா ?`**.
+183. `கண்டு...` → source-visible **`கண்டு . . .`**;
+184. `போய்விடவில்லை...` → source-visible **`போய்விட வில்லை ...`**.
+
+**Scan 127 — `மடல்` / p.126**
+
+185. `இருக்கிறார்கள்?` → source-visible **`இருக்கிறார்கள் ?`**.
+
+**Scan 129 — `ஆண்டு விழா` / p.128**
+
+186. `உந்தன் நெஞ்சில்?”` → source-visible **`உந்தன் நெஞ்சில் ?”`**.
+
+**Scan 130 — `ஆண்டு விழா` / p.129**
+
+187. `இது?”` → source-visible **`இது ?”`**;
+188. `நம்புவது?”` → source-visible **`நம்புவது ?”`**.
 
 ### Batch findings / dependency propagation
 
-- Scans 114, 115, 119 and 120 required no textual correction.
-- All 11 source-visible corrections were applied to canonical page records.
-- `articles/22-sirpi.md` and `articles/23-seval-sandai.md` were re-synchronized.
-- `சிற்பி` closes on scan 114 and is fully P4-reconciled.
-- `சேவல் சண்டை` remains open after scan 120 and continues through scan 122.
-- Cumulative distinct corrected/re-synchronized P3 assemblies became **17**.
+- Scans 121–122, 125 and 128 required no textual correction.
+- All 8 source-visible corrections were applied to canonical page records.
+- `articles/24-madal.md` and `articles/25-aandu-vizha.md` were re-synchronized.
+- `சேவல் சண்டை` closes on scan 122 and is fully P4-reconciled.
+- `மடல்` closes on scan 128 and is fully P4-reconciled.
+- `ஆண்டு விழா` remains open after scan 130 and continues through scan 135.
+- Cumulative distinct corrected/re-synchronized P3 assemblies became **19**.
 - No source-title, scan-span, printed-page mapping or unit-boundary change occurred.
 - unresolved fidelity discrepancies after reconciliation: **0**.
 
 ## Progress totals
 
-- physical scans strict-reviewed: **120 / 146**;
-- contiguous reviewed range: **1–120**;
-- P4 corrections found: **180**;
-- P4 corrections propagated to canonical page records: **180 / 180**;
-- P3 article assemblies corrected / re-synchronized so far: **17 distinct assemblies**;
+- physical scans strict-reviewed: **130 / 146**;
+- contiguous reviewed range: **1–130**;
+- P4 corrections found: **188**;
+- P4 corrections propagated to canonical page records: **188 / 188**;
+- P3 article assemblies corrected / re-synchronized so far: **19 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**;
 - P4 mapping/boundary changes: **0**;
@@ -174,6 +174,6 @@ The supplied 2006 scan remains controlling. Corroborating witnesses, OCR and con
 
 ## Exact next activity
 
-**P4 scans 121–130.** Re-inspect all ten physical scans directly against their canonical records. Scans 121–122 / printed pp.120–121 finish `சேவல் சண்டை`; scans 123–128 / printed pp.122–127 cover all of `மடல்`; scans 129–130 / printed pp.128–129 begin `ஆண்டு விழா`, which continues through scan 135. Record every old reading → source-visible reading correction, propagate affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
+**P4 scans 131–140.** Re-inspect all ten physical scans directly against their canonical records. Scans 131–135 / printed pp.130–134 finish `ஆண்டு விழா`; scans 136–140 / printed pp.135–139 begin `மயிலிறகு`, which continues through scan 145. Record every old reading → source-visible reading correction, propagate affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
 
 Do not mark P4 complete before **146 / 146** physical scans are strict-reviewed. English remains **BLOCKED until Tamil P5 freeze**.
