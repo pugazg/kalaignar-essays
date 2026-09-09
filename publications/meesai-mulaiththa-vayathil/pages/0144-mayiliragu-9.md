@@ -22,9 +22,9 @@ transcription_method: "direct visual comparison with source scan"
 மயில் தோகை!
 
 “வாழ்க சமணம்” எனும் முழக்கம் நாவில்! யார்
-இவன்? சமணர் வெளிக்கிளம்பலாகா தெனும்
-சட்டத்தை மீறுகின்ற வீரன்? கிழவன் போனவழி
-போவதற்கு வருகிறானோ? அம்மவோ!
+இவன் ? சமணர் வெளிக்கிளம்பலாகா தெனும்
+சட்டத்தை மீறுகின்ற வீரன் ? கிழவன் போனவழி
+போவதற்கு வருகிறானோ ? அம்மவோ!
 அரண்மனைக் காவலர் காணின் - அழிவுதான்
 இவன் முடிவு! நடுங்கினாள் பீலிவளை அவனைக்
 கண்டு! நெருங்கினான் அத்துறவி! விழியெல்லாம்
@@ -57,5 +57,6 @@ transcription_method: "direct visual comparison with source scan"
 - visible printed folio **143**, running header and every printed paragraph were directly verified against the supplied scan.
 - source-visible forms `வெளிக்கிளம்பலாகா தெனும்`, `பொத்தை வாய்ச்`, `ஊராளுங்கூட்டம்`, `யென்று` retained.
 - unresolved printed text: **0**.
+- P4 strict visual review preserved source-visible spaces before the three question marks in `இவன் ?`, `வீரன் ?`, and `வருகிறானோ ?`; mapping and unit boundaries are unchanged.
 
 <!-- மூல ஸ்கேன் பக்கம்: 144 -->
