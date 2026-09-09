@@ -58,34 +58,20 @@ Formal validation: `P3_ASSEMBLY_AUDIT.md`.
 
 Running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- physical scans strict-reviewed: **100 / 146**;
-- contiguous strict-reviewed range: **1–100**;
-- cumulative corrections: **157**;
-- corrections propagated to canonical page records: **157 / 157**;
-- P3 assemblies corrected/re-synchronized: **15 distinct assemblies**;
+- physical scans strict-reviewed: **140 / 146**;
+- contiguous strict-reviewed range: **1–140**;
+- cumulative corrections: **198**;
+- corrections propagated to canonical page records: **198 / 198**;
+- P3 assemblies corrected/re-synchronized: **20 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
-- blocked / needs-review scans in reviewed range: **0**.
+- blocked / needs-review scans in reviewed range: **0**;
+- P4 mapping / unit-boundary changes: **0**.
 
-P4 batch results:
+P4 batch corrections through scan 140: **2, 4, 35, 43, 46, 2, 2, 5, 3, 15, 12, 11, 8, 10** for successive batches 001–010 through 131–140.
 
-- scans 1–10: **2 corrections**;
-- scans 11–20: **4 corrections**;
-- scans 21–30: **35 corrections**;
-- scans 31–40: **43 corrections**;
-- scans 41–50: **46 corrections**;
-- scans 51–60: **2 corrections**;
-- scans 61–70: **2 corrections**;
-- scans 71–80: **5 corrections**;
-- scans 81–90: **3 corrections**;
-- scans 91–100: **15 corrections**.
+P4-131-140 finished `ஆண்டு விழா` and reviewed the opening half of `மயிலிறகு`. Ten direct-source question-mark spacing corrections were applied across scans 131–134 and 139–140, then propagated into `articles/25-aandu-vizha.md` and `articles/26-mayiliragu.md`. Scans 135–138 required no textual correction. The permanent source title `மயிலிறகு`, source spans and printed-page mapping remain unchanged.
 
-P4-061-070 produced two punctuation corrections on scan 69 / `தேனலைகள்`, both propagated to `articles/16-thenalaigal.md`.
-
-P4-071-080 produced five corrections across `தோழி` and `மருதாணி`, propagated to `articles/17-thozhi.md` and `articles/18-maruthaani.md`.
-
-P4-081-090 finished `மருதாணி` and fully reviewed `அருவி`. Three direct-source corrections were required, all in `மருதாணி`: scan 82 `இரவாய் சுருங்குவதெப்போதென` → `இரவாய்ச் சுருங்குவதெப்போதென`; scan 83 `கலையுமோ?...` → `கலையுமோ ?...` and `மருதாணி பெரிதோ?...` → `மருதாணி பெரிதோ ?...`. These were propagated to `articles/18-maruthaani.md`. `அருவி` scans 85–90 passed unchanged. No source-title, scan-span, printed-page mapping or unit-boundary change resulted.
-
-P4-091-100 fully reviewed `முறம்` and the first five pages of `யாழ்`. Fifteen direct-source corrections were applied to the canonical page records and propagated to `articles/20-muram.md` and `articles/21-yaazh.md`; scans 92, 96 and 100 required no textual correction. No source-title, scan-span, printed-page mapping or unit-boundary change resulted.
+Detailed P4 provenance through correction 157 is preserved in `VISUAL_TEXT_FIDELITY_REVIEW_THROUGH_100.md`; live corrections 158–198 are recorded in `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 ## Physical-copy / scan condition
 
@@ -101,13 +87,13 @@ P4-091-100 fully reviewed `முறம்` and the first five pages of `யா�
 - P1 — **COMPLETE / PASS**
 - P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**
-- P4 — **IN PROGRESS — 100 / 146 strict-reviewed**
+- P4 — **IN PROGRESS — 140 / 146 strict-reviewed**
 - P5 — **NOT STARTED**
 - English translation — **BLOCKED until Tamil P5 freeze**
 - active P4 blockers — **0**
 
 ## Exact next activity
 
-**P4 scans 101–110.** Finish `யாழ்` on scans 101–102 / pp.100–101 and begin `சிற்பி` on scans 103–110 / pp.102–109; `சிற்பி` continues beyond scan 110. Use only the supplied 2006 pixels as authority and propagate every proven main-work correction into the dependent P3 assembly before advancing the running report.
+**P4 scans 141–146.** Scans 141–145 / pp.140–144 finish `மயிலிறகு`; scan 146 is the illustrated back cover / promotional text. Use only the supplied 2006 pixels as authority and propagate every proven main-work correction into `articles/26-mayiliragu.md` before closing the full P4 gate.
 
 Do not begin English translation.
