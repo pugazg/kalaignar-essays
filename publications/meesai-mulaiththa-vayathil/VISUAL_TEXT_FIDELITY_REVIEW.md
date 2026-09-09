@@ -7,10 +7,10 @@ Physical scans: **146**
 
 ## Gate state
 
-**P4 — IN PROGRESS — 30 / 146 physical scans strict-reviewed**
+**P4 — IN PROGRESS — 40 / 146 physical scans strict-reviewed**
 
-Contiguous strict-reviewed range: **scans 1–30**.  
-Next strict-review batch: **scans 31–40**.
+Contiguous strict-reviewed range: **scans 1–40**.  
+Next strict-review batch: **scans 41–50**.
 
 P4 follows `ESSAY_PROCESSING_GUIDE.md` section 12: every physical scan is re-inspected directly, word-by-word and punctuation-by-punctuation, against the canonical page record. Source pixels remain authority; context, OCR and secondary editions are not authority.
 
@@ -109,7 +109,7 @@ Scans 18–20 / Unit 1 `பிறையே` required no correction; P3 propagati
 33. `முத்தம் தந்து, காலையிலே` → **`முத்தம் தந்து காலையிலே`**;
 34. `கால் சோர, குடிசையின்` → **`கால் சோர குடிசையின்`**;
 35. `ஏங்கித்தவிக்கும்` → **`ஏங்கித் தவிக்கும்`**;
-36. `இளஞ்சிட்டு, சிங்காரச் “செம்படச்சி” - அவள்` → **`இளஞ் சிட்டு - அவள்`**; the removed intervening phrase is not printed in the controlling 2006 scan;
+36. `இளஞ்சிட்டு, சிங்காரச் “செம்படச்சி” - அவள்` → **`இளஞ் சிட்டு - அவள்`**;
 37. `கேட்கப் போகிறேன்` → **`கேட்கப்போகிறேன்`**.
 
 **Scan 30 — `கடலே` / p.29**
@@ -122,23 +122,121 @@ Scans 18–20 / Unit 1 `பிறையே` required no correction; P3 propagati
 ### Batch findings / dependency propagation
 
 - Scan 21 required no correction.
-- All source-visible changes above were applied to their canonical page records.
-- P3 assemblies were re-synchronized for all three affected units:
-  - `articles/02-adikkaatru.md`;
-  - `articles/03-karuppu-pen.md`;
-  - `articles/04-kadale.md`.
-- The scan-29 phrase `சிங்காரச் “செம்படச்சி”` was removed because it is absent from the controlling 2006 pixels; it is not retained merely because an earlier/corroborating witness supplied it.
+- All 35 source-visible changes were applied to canonical page records.
+- P3 assemblies re-synchronized: `02-adikkaatru.md`, `03-karuppu-pen.md`, `04-kadale.md`.
 - Unit boundaries and printed-page mapping did not change.
-- P3 propagation required in this batch: **3 files**.
+- unresolved fidelity discrepancies after reconciliation: **0**.
+
+## Batch P4-031-040
+
+**RESULT: PASS after corrective strict review — 10 / 10 scans; 43 corrections; 0 unresolved fidelity discrepancies.**
+
+| Scan | Unit / printed page | Result | Corrections |
+|---:|---|---|---:|
+| 31 | `ஆறு` / p.30 | PASS | 0 |
+| 32 | `ஆறு` / p.31 | PASS after correction | 5 |
+| 33 | `ஆறு` / p.32 | PASS after correction | 2 |
+| 34 | `வாழிய வைகறை` / p.33 | PASS after correction | 2 |
+| 35 | `வாழிய வைகறை` / p.34 | PASS after correction | 5 |
+| 36 | `அகப்பை சித்தர்` / p.35 | PASS after correction | 2 |
+| 37 | `அகப்பை சித்தர்` / p.36 | PASS after correction | 12 |
+| 38 | `அகப்பை சித்தர்` / p.37 | PASS after correction | 5 |
+| 39 | `மலையே வாழி` / p.38 | PASS after correction | 2 |
+| 40 | `மலையே வாழி` / p.39 | PASS after correction | 8 |
+
+### Correction provenance — P4-031-040
+
+**Scan 32 — `ஆறு` / p.31**
+
+42. `தங்கை` → **`அன்னை`**;
+43. `மாணிக்கப்பல் காட்டிச்` → **`மாணிக்கப் பல்காட்டிச்`**;
+44. `அருமைத்தாயே` → **`அருமைத் தாயே`**;
+45. `திராவிட மாதாவிடம்` → **`அன்னையிடம்`**;
+46. `கரும்பின் கால்நனைத்து` → **`கரும்பின் கால் நனைந்து`**.
+
+**Scan 33 — `ஆறு` / p.32**
+
+47. `நீ தான்` → **`நீதான்`**;
+48. `அரசுபுரிவோர்` → **`அரசு புரிவோர்`**.
+
+**Scan 34 — `வாழிய வைகறை` / p.33**
+
+49. `ஏற்றுக் கொள்!` → **`ஏற்றுக் கொண்டு போ!`**;
+50. `செங்கதிரையும் எழுப்பிவிட்டாய்` → **`செங்கதிரையும் எழுப்பி விட்டாய்`**.
+
+**Scan 35 — `வாழிய வைகறை` / p.34**
+
+51. `“இளக்காரம்”` → **`‘இளக்காரம்’`**;
+52. `உன் கால்கள்` → **`உன் கால்`**;
+53. `ஒரு நாள்,` → **`ஒரு நாள்;`**;
+54. `எழில் மாடத்தின்` → **`எழில் மாடத்தில்`**;
+55. `‘நேரமாகிவிட்டது’` → **`‘நேரமாகி விட்டது’`**.
+
+**Scan 36 — `அகப்பை சித்தர்` / p.35**
+
+56. `திராவிடத்தை மீட்கப்` → **`திராவிடத்தைக் காத்திடப்`**;
+57. `கலங்குவதேனோ!’` → **`கலங்குவதேனோ’`**.
+
+**Scan 37 — `அகப்பை சித்தர்` / p.36**
+
+58. opening `“தம்பி!` → **`‘தம்பி!`**;
+59. `சுற்றிக்கொண்டு` → **`சுற்றிக் கொண்டு`**;
+60. `சுடு மணலில்` → **`சுடுமணலில்`**;
+61. `அவலும்` → **`அல்லலும்`**;
+62. `“ஈன ஜென்மமெடுத்தேன் என் அய்யனே”` → **`‘ஈன ஜென்மமெடுத்தேன் என் அய்யனே’`**;
+63. `அப்போது தான்` → **`அப்போதுதான்`**;
+64. `தொட முடியும்` → **`தொடமுடியும்`**;
+65. `குளிர் நிழலிலிருந்து` → **`குளிர்நிழலிலிருந்து`**;
+66. `கோடைக் கனலை` → **`கோடைக்கனலை`**;
+67. `அறுசுவை உணவையே` → **`அறுசுவையுணவையே`**;
+68. `பெருங்கூட்டம். அதுவுமின்றி` → **`பெருங்கூட்டம், அதுவுமின்றி`**;
+69. `ஜனக் கூட்டம்` → **`ஜனக்கூட்டம்`**.
+
+**Scan 38 — `அகப்பை சித்தர்` / p.37**
+
+70. `தங்க நிறமாயிருக்கிறேனே என்று?` → **`தங்க நிறமாயிருக்கிறேனே என்றா?`**;
+71. `உமிகள் உன் சாதியிலும் உண்டு.` → **`உமிகள் உன் வாக்கத்திலும் உண்டு.`**;
+72. old list `முதலாளிகள் ... ஆண்டைகள் ... ஆதீனங்கள் ... அந்தணர் ... அவதாரப் புருஷர்` → source-visible **`முதலாளிகள் ... ஆண்டைகள் ... அவதார புருஷர் ... அரசியல் மேதாவிகள்`**;
+73. restored source opening quote before **`“உமிகள் உன் இனத்திலும் உண்டு.`**;
+74. removed unsupported outer quotation marks from `உங்கள் மனித ஜாதியின் உடம்பிலுந்தான் சிலருக்கு ‘அது’ இல்லை என்றார்.`.
+
+**Scan 39 — `மலையே வாழி` / p.38**
+
+75. `அரியாசனம் வீற்றிருக்கும்` → **`அரியாசனம் அமைத்து வீற்றிருக்கும்`**;
+76. `எப்படி யெப்படியெல்லாமோ` → **`எப்படி எப்படி யெல்லாமோ`**.
+
+**Scan 40 — `மலையே வாழி` / p.39**
+
+77. `திகைக்கிறேன்.` → **`திகைக்கிறேன்,`**;
+78. `கேட்டும் கூட மனம் குலையாத` → **`கேட்டும் மனங் குலையா`**;
+79. `முனிவர்களுக்கு, அசையாத` → **`முனிவர்களுக்கு அசையாத`**;
+80. `உன் சேதி!` → **`உன்சேதி!`**;
+81. `உன் தோளதைத்` → **`உன் தோளைத்`**;
+82. `அதற்குப் பிறகு நான் அனைத்தும்` → **`அதற்குப் பிறகு தானே அனைத்தும்`**;
+83. `அந்தப் பாசத்தைத்` → **`‘அந்தப்’ பாசத்தைத்`**;
+84. `வெளிப்படுத்துவான்` → **`வெளியிடுவான்`**.
+
+### Batch findings / dependency propagation
+
+- Scan 31 required no correction.
+- All 43 source-visible changes were applied to canonical page records.
+- P3 assemblies re-synchronized in this batch:
+  - `articles/05-aaru.md`;
+  - `articles/06-vaazhiya-vaikarai.md`;
+  - `articles/07-agappai-siththar.md`;
+  - `articles/08-malaiye-vaazhi.md`.
+- Permanent P1 title `அகப்பை சித்தர்` remains unchanged; P4 corrected body text only.
+- Unit boundaries and printed-page mapping did not change.
+- Scan 40 remains an internal page of `மலையே வாழி`; the unit closes on scan 41, which is not yet P4-reviewed.
 - unresolved fidelity discrepancies after reconciliation: **0**.
 
 ## Progress totals
 
-- physical scans strict-reviewed: **30 / 146**;
-- contiguous reviewed range: **1–30**;
-- P4 corrections found: **41**;
-- P4 corrections propagated to canonical page records: **41 / 41**;
-- P3 article assemblies corrected / re-synchronized so far: **3**;
+- physical scans strict-reviewed: **40 / 146**;
+- contiguous reviewed range: **1–40**;
+- P4 corrections found: **84**;
+- P4 corrections propagated to canonical page records: **84 / 84**;
+- P3 article assemblies corrected / re-synchronized so far: **7 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**;
 - P4 gate: **OPEN / IN PROGRESS**.
@@ -151,6 +249,6 @@ The supplied 2006 scan remains controlling. Corroborating witnesses, OCR and con
 
 ## Exact next activity
 
-**P4 scans 31–40.** Re-inspect all ten physical scans directly against their canonical records, record every old reading → source-visible reading correction, propagate any affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
+**P4 scans 41–50.** Re-inspect all ten physical scans directly against their canonical records, beginning with the closing page of `மலையே வாழி`, then `தளிர்`, `விண்மீன்`, and the opening pages of `தனிமை`. Record every old reading → source-visible reading correction, propagate affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
 
 Do not mark P4 complete before **146 / 146** physical scans are strict-reviewed. English remains **BLOCKED until Tamil P5 freeze**.
