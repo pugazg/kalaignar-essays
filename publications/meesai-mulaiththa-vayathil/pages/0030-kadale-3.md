@@ -22,9 +22,9 @@ transcription_method: "direct visual comparison with source scan"
 
 முத்துப் பெருங்குளமே!
 
-சிறைச்சாலையிலே, என் சிந்தனை அலைச்சலிலே, அன்றொரு நாள் நீ செய்த அட்டூழியம் தலைகாட்டி மறைந்தது. கவின் நிறை நகராம் - தமிழரின் செல்வப் பூங்கா - காவிரிப்பூம்பட்டினத்தை அலைக்கரம் நீட்டி அழித்துப் போட்டாயாம்! ஏன் அந்த அநியாயம் புரிந்தாய் என்று கேட்கவில்லை. அதற்காக வழக்குத் தொடரவும் போவதில்லை.
+சிறைச்சாலையிலே, என் சிந்தனை அலைச்சலிலே அன்றொரு நாள் நீ செய்த அட்டூழியம் தலைகாட்டி மறைந்தது, கவின் நிறை நகராம் - தமிழரின் செல்வப் பூங்கா - காவிரிப்பூம்பட்டினத்தை அலைக்கரம் நீட்டி அழித்துப் போட்டாயாம்! ஏன் இந்த அநியாயம் புரிந்தாய் என்று கேட்கவில்லை. அதற்காக வழக்குத் தொடரவும் போவதில்லை.
 
-ஆனால் கடலே! எம் செல்வத் திருநகரின் செழிப்பை அழித்தனையே! அதுபோல் பொல்லாத வடநாட்டுச் சனத்தை அழித்திடத்தான் துள்ளாதோ கல்லக்குடியில், உன் கரம்?
+ஆனால் கடலே! எம் செல்வத் திருநகரின் செழிப்பை அழித்தனையே! அதுபோல் பொல்லாத வடநாட்டுச் சின்னத்தை அழித்திடத்தான் துள்ளாதோ கல்லக்குடியில், உன் கரம்?
 
 மடலுக்குப் பதில் எழுது!  
 இல்லையெனில் மெளனமாய் இரு!  
@@ -40,9 +40,17 @@ transcription_method: "direct visual comparison with source scan"
 ## P2 audit note
 
 - visible printed folio **29** and running header `கலைஞர் மு. கருணாநிதி` directly verified.
-- scan 29→30 continuation is closed source-first: scan 29 ends at `... ஓலைக் குடிசைகளைத் தூக்கி`, and this scan begins `எறிகிறாயே; தொழிலாளிகள் என்றால் ...`.
-- source-visible 2006 forms `பலமுறை`, `செல்வத் திருநகரின்`, `அதுபோல்`, `வடநாட்டுச் சனத்தை`, question mark after `உன் கரம்?`, and `இல்லையெனில்` are retained even where the older `முத்தாரம்` witness differs.
+- scan 29→30 continuation is source-controlled: scan 29 ends at `... ஓலைக் குடிசைகளைத் தூக்கி`, and this scan begins `எறிகிறாயே; தொழிலாளிகள் என்றால் ...`.
 - closing three-line address and printed bullet `●` directly verified.
-- Unit 4 `கடலே` closes on this scan with no unresolved printed-text block.
+- Unit 4 `கடலே` closes on this scan.
+
+## P4 strict-fidelity note
+
+- strict visual review rechecked scan 30 word-by-word and punctuation-by-punctuation.
+- corrected `அலைச்சலிலே, அன்றொரு` → **`அலைச்சலிலே அன்றொரு`**.
+- corrected `மறைந்தது. கவின்` → **`மறைந்தது, கவின்`**.
+- corrected `ஏன் அந்த அநியாயம்` → **`ஏன் இந்த அநியாயம்`**.
+- corrected `வடநாட்டுச் சனத்தை` → **`வடநாட்டுச் சின்னத்தை`**.
+- unresolved fidelity discrepancies after correction: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 30 -->
