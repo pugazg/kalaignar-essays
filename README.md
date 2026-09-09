@@ -31,7 +31,7 @@ Released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
 Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mulaiththa-vayathil/)
 
-**P0–P3 COMPLETE / PASS. P4 IN PROGRESS — scans 1–30 / 30 of 146 strict-reviewed.**
+**P0–P3 COMPLETE / PASS. P4 IN PROGRESS — scans 1–40 / 40 of 146 strict-reviewed.**
 
 - controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
 - source SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
@@ -49,23 +49,23 @@ P3 final state: **26 / 26 assemblies**, **128 / 128** canonical main-work pages,
 P4 running state:
 
 - formal report: `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`;
-- strict-reviewed physical scans: **30 / 146**;
-- contiguous range: **1–30**;
-- cumulative corrections: **41**;
-- corrections propagated: **41 / 41**;
-- P3 assemblies corrected/re-synchronized: **3**;
+- strict-reviewed physical scans: **40 / 146**;
+- contiguous range: **1–40**;
+- cumulative corrections: **84**;
+- corrections propagated: **84 / 84**;
+- P3 assemblies corrected/re-synchronized: **7 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blockers: **0**.
 
-Batch P4-021-030 produced **35** direct-source corrections across `ஆடிக்காற்று`, `கருப்புப் பெண்`, and `கடலே`. The corresponding assemblies `02-adikkaatru.md`, `03-karuppu-pen.md`, and `04-kadale.md` are synchronized. Scan 29's prior `சிங்காரச் “செம்படச்சி”` phrase was removed because it is absent from the controlling source.
+Batch P4-031-040 produced **43** direct-source corrections across `ஆறு`, `வாழிய வைகறை`, `அகப்பை சித்தர்`, and scans 39–40 of `மலையே வாழி`. The corresponding assemblies `05-aaru.md`, `06-vaazhiya-vaikarai.md`, `07-agappai-siththar.md`, and `08-malaiye-vaazhi.md` are synchronized. Unit boundaries and printed-page mapping did not change.
 
 English remains **BLOCKED until Tamil P5 freeze**.
 
 ## Current repository boundary
 
-Publication 10 P4 is **IN PROGRESS — 30 / 146 strict-reviewed, 41 cumulative corrections, 3 P3 assemblies re-synchronized, 0 unresolved discrepancies, blockers 0**.
+Publication 10 P4 is **IN PROGRESS — 40 / 146 strict-reviewed, 84 cumulative corrections, 7 distinct P3 assemblies re-synchronized, 0 unresolved discrepancies, blockers 0**.
 
-Exact next activity: **P4 scans 31–40**.
+Exact next activity: **P4 scans 41–50**.
 
 ### Permanent `உடன்பிறப்பே` rule
 
