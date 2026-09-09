@@ -8,7 +8,7 @@ source_tamil_blob_sha: "bf2eea3e6f00893499f209ac631f60d2a4256d5f"
 source_scan_pages: "96-102"
 source_printed_pages: "95-101"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -79,7 +79,7 @@ Like fire leaping upon oil—like molten matter flowing in the great breath of a
 
 “Chastity for a courtesan? The world will laugh! Man who stands here as her husband!... Give me the lump of jaggery to taste!... Otherwise you must become prey to my sword,” the prince roared.
 
-Thenmozhi's husband was a man with no way even to stand—a cripple without legs. Seeing this, the prince grew bolder and touched the peahen. Unable to bear the cruelty happening before his eyes, the cripple lifted an earthen tub there and hurled it at the prince's head. Seeing it, the unjust man thrust out his sword and sprang at him. To stop it,
+Thenmozhi's husband was a man with no way even to stand—a cripple without legs. Seeing this, the prince grew bolder and touched and kissed the peahen. Unable to bear the cruelty happening before his eyes, the cripple lifted an earthen tub there and hurled it at the prince's head. Seeing it, the unjust man thrust out his sword and sprang at him. To stop it,
 
 <!-- Tamil source: scan 101 / printed 100 -->
 
