@@ -8,9 +8,7 @@ Source PDF committed: **No**
 
 ## Publication identity
 
-The supplied source is a **146-scan, image-only second edition** of `மீசை முளைத்த வயதில்`.
-
-Printed witnesses establish title `மீசை முளைத்த வயதில்`, author `கலைஞர் மு.கருணாநிதி`, publisher `தமிழ்க்கனி பதிப்பகம்`, first-edition witness `கலைஞர் பிறந்த நாள் 3.6.2002`, supplied edition **இரண்டாம் பதிப்பு — அக்டோபர் 2006**, and printed price `ரூ.70/-`.
+The supplied source is a **146-scan, image-only second edition** of `மீசை முளைத்த வயதில்`. Printed witnesses establish author `கலைஞர் மு.கருணாநிதி`, publisher `தமிழ்க்கனி பதிப்பகம்`, first-edition witness `கலைஞர் பிறந்த நாள் 3.6.2002`, supplied edition **இரண்டாம் பதிப்பு — அக்டோபர் 2006**, and printed price `ரூ.70/-`.
 
 Repository classification remains **multi-piece youthful literary/prose collection (`எழுத்தோவியங்கள்`)**. Individual source-titled units are not mechanically relabelled by genre.
 
@@ -31,9 +29,9 @@ Frozen content authorities:
 
 Permanent source-title readings remain `அகப்பை சித்தர்`, `தளிர்`, and `மயிலிறகு`. Any future Tamil reopening requires new direct controlling-source evidence and explicit provenance.
 
-## English E0 — COMPLETE / PASS
+## English translation workflow
 
-The English planning workspace is initialized under `ESSAY_TRANSLATION_GUIDE.md`:
+Planning/review authorities:
 
 - `TRANSLATION_PLAN.md`;
 - `translations/en/README.md`;
@@ -42,40 +40,64 @@ The English planning workspace is initialized under `ESSAY_TRANSLATION_GUIDE.md`
 
 All **26 / 26** frozen Tamil article blobs are pinned for article-level T0 checks.
 
-## English E1 — Article 1 `பிறையே` — COMPLETE / PASS
+### E0 — COMPLETE / PASS
 
-Article 1 has passed **T0 → T1 → T2 → T3 → T4 → T5** and is the publication's English voice-calibration baseline.
+Translation planning/workspace bootstrap complete; no frozen Tamil changes.
 
-- Tamil authority: `articles/01-piraiye.md`;
-- frozen/live Tamil blob: **`5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`**;
-- source scans: **18–20 / printed pp.17–19**;
-- English file: `translations/en/01-piraiye.md`;
+### E1 — Article 1 `பிறையே` — COMPLETE / PASS
+
+Article 1 passed **T0→T5** as the publication voice-calibration baseline.
+
 - English title: **O Crescent!**;
-- final verified English blob: **`1d07e03ba84353b2da7c0a344d6ae61c3223caf0`**;
-- translation status: **verified**;
-- unresolved Article 1 English blockers: **0**;
-- frozen Tamil changes during E1: **0**.
+- Tamil blob: `5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`;
+- verified English blob: **`1d07e03ba84353b2da7c0a344d6ae61c3223caf0`**;
+- blockers: **0**.
 
-E1 established the initial collection voice baseline: retain compact literary imagery, direct vocatives, personification, repeated refrains/reversals, rhetorical sarcasm, and concrete prison/freedom and beloved/freedom imagery. The living lexicon records **12** Article-1 decisions.
+### E2 — Articles 2–11 — COMPLETE / PASS
 
-Detailed gate/correction history: `translations/en/TRANSLATION_REVIEW.md`.
+All ten E2 articles were fetched fresh, matched their frozen Tamil blobs, and independently passed **T0→T5**.
+
+| # | Tamil title | English title | Verified English blob |
+|---:|---|---|---|
+| 2 | `ஆடிக்காற்று` | **Aadi Wind** | `e93c9ad4d37c81f5bea9decfddd9274469428e52` |
+| 3 | `கருப்புப் பெண்` | **Black Woman** | `de2296d28841cb0643d979cf36cbbe7dc2e9ea9f` |
+| 4 | `கடலே` | **O Sea!** | `e0f1f5dbf2caf125584134665a3284582d09ae20` |
+| 5 | `ஆறு` | **River** | `584b98a34a78d32d53b895e16422fa63c8f66af1` |
+| 6 | `வாழிய வைகறை` | **Hail the Dawn!** | `0c2c529cc0f72a522c8c11852e5ba14a88a89f95` |
+| 7 | `அகப்பை சித்தர்` | **The Ladle Siddhar** | `cdf0a9aef9edb2c77a7d32382c66aaddb8e6868b` |
+| 8 | `மலையே வாழி` | **Hail, Mountain!** | `2417a5aa1daa4154445c4229d79413a0fa830a76` |
+| 9 | `தளிர்` | **Tender Shoot** | `74e3bc25b4a48d3a2b1b79c37cbf8ec00c3e5be8` |
+| 10 | `விண்மீன்` | **Star** | `2a57db76a77edff3372434a6b52e9edabb0d56fe` |
+| 11 | `தனிமை` | **Solitude** | `21357b316923e311a4dd234ee550dcecbf95e035` |
+
+E2 review totals:
+
+- T0 / T1 / T2 / T3 / T4 / T5: **10 / 10 PASS at every gate**;
+- material T2 body corrections: **5** across Articles 2, 3, 8, 10 and 11;
+- additional T3 body corrections: **0**;
+- additional T4 body corrections: **0**;
+- omissions / added claims / unresolved quotation, source or terminology blockers: **0**;
+- frozen Tamil changes: **0**.
+
+The living lexicon now records **58** publication-specific decisions through Article 11, including source-sensitive `Aadi`, `karukkalaam`, `kattumaram`, `Dravidam`, `gosha woman`, `paambu / paapam`, `tailed star`, and the `Solitude` dialogue conventions. Detailed gate/correction history is in `translations/en/TRANSLATION_REVIEW.md`.
 
 ## Current English progress
 
 - E0: **COMPLETE / PASS**
 - E1: **COMPLETE / PASS**
-- English body files: **1 / 26**
-- T0 passed: **1 / 26**
-- T1 passed: **1 / 26**
-- T2 passed: **1 / 26**
-- T3 passed: **1 / 26**
-- T4 passed: **1 / 26**
-- T5 verified: **1 / 26**
+- E2: **COMPLETE / PASS**
+- English body files: **11 / 26**
+- T0 passed: **11 / 26**
+- T1 passed: **11 / 26**
+- T2 passed: **11 / 26**
+- T3 passed: **11 / 26**
+- T4 passed: **11 / 26**
+- T5 verified: **11 / 26**
 - unresolved English blockers: **0**
 - E6/E7: **not started**
 
-Planned remaining phases: E2 Articles 2–11, E3 Articles 12–18, E4 Articles 19–22, E5 Articles 23–26, then E6 consistency and E7 release closeout.
+Remaining phases: E3 Articles 12–18, E4 Articles 19–22, E5 Articles 23–26, then E6 consistency and E7 release closeout.
 
 ## Exact next activity
 
-**E2 — Articles 2–11 (`ஆடிக்காற்று` through `தனிமை`).** Process all ten in source order, each independently through **T0→T5**, preserving the Article 1 voice baseline while allowing source-specific lexical choices. Do not modify the frozen Tamil layer.
+**E3 — Articles 12–18 (`நாடக மேடை` through `மருதாணி`).** Process all seven in source order, each independently through **T0→T5**, preserving the established voice baseline while making source-specific lexical decisions. Do not modify the frozen Tamil layer.
