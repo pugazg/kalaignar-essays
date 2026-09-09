@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P4 scans 81–90
+# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P4 scans 91–100
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -23,9 +23,9 @@ Publication 10 `மீசை முளைத்த வயதில்`:
 - P3 canonical main-work pages — **128 / 128**;
 - P3 source scan coverage — **18–145 contiguous**;
 - P3 boundary gaps / overlaps — **0 / 0**;
-- P4 — **IN PROGRESS — scans 1–80 / 80 of 146 strict-reviewed**;
-- P4 cumulative corrections — **139**;
-- corrections propagated — **139 / 139**;
+- P4 — **IN PROGRESS — scans 1–90 / 90 of 146 strict-reviewed**;
+- P4 cumulative corrections — **142**;
+- corrections propagated — **142 / 142**;
 - P3 assemblies corrected/re-synchronized — **13 distinct assemblies**;
 - P4 unresolved fidelity discrepancies — **0**;
 - active P4 blockers — **0**;
@@ -36,7 +36,7 @@ Formal records:
 - `publications/meesai-mulaiththa-vayathil/P3_ASSEMBLY_AUDIT.md`;
 - `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-## P4 checkpoint through scan 80
+## P4 checkpoint through scan 90
 
 Completed batches:
 
@@ -48,23 +48,14 @@ Completed batches:
 - P4-051-060 — **PASS; 2 corrections**;
 - P4-061-070 — **PASS; 2 corrections**;
 - P4-071-080 — **PASS; 5 corrections**;
+- P4-081-090 — **PASS; 3 corrections**;
 - cumulative unresolved fidelity discrepancies — **0**.
-
-### P4-061-070
-
-- scan 61 closes `பச்சைக்கிளி`;
-- scan 62 is single-page `தமிழே`;
-- scans 63–70 cover `தேனலைகள்`, which closes on scan 71;
-- only scan 69 required corrections:
-  - `கோமானே!....` → **`கோமானே!...`**;
-  - `பரிசு!....` → **`பரிசு!...`**;
-- both corrections were propagated to `articles/16-thenalaigal.md`.
 
 ### P4-071-080
 
 - scan 71 closes `தேனலைகள்`;
 - scans 72–77 complete `தோழி`;
-- scans 78–80 begin `மருதாணி`, which continues through scan 84;
+- scans 78–80 begin `மருதாணி`;
 - five corrections:
   - scan 72 `முத்தவள` → **`முத்தவள்`**;
   - scan 77 `இதோ யார்` → **`இதோ பார்`**;
@@ -72,6 +63,19 @@ Completed batches:
   - scan 77 `புலியை?...` → **`புலியை ?...`**;
   - scan 80 `பொழியலானாள்` → **`பொழியலானார்`**;
 - affected P3 assemblies `articles/17-thozhi.md` and `articles/18-maruthaani.md` are synchronized.
+
+### P4-081-090
+
+- scans 81–84 / pp.80–83 finish `மருதாணி`;
+- scans 85–90 / pp.84–89 cover all of `அருவி`;
+- three corrections, all in `மருதாணி`:
+  - scan 82 `இரவாய் சுருங்குவதெப்போதென` → **`இரவாய்ச் சுருங்குவதெப்போதென`**;
+  - scan 83 `கலையுமோ?...` → **`கலையுமோ ?...`**;
+  - scan 83 `மருதாணி பெரிதோ?...` → **`மருதாணி பெரிதோ ?...`**;
+- `articles/18-maruthaani.md` is synchronized;
+- scans 81 and 84–90 required no textual correction;
+- `அருவி` passed **6 / 6** with no P4 text correction;
+- source-title, scan-span, printed-page mapping and unit boundaries remain unchanged.
 
 ## Controlling source
 
@@ -102,14 +106,14 @@ Read completely before source-dependent work:
 8. `indexes/contents.md`;
 9. `P3_ASSEMBLY_AUDIT.md`;
 10. `VISUAL_TEXT_FIDELITY_REVIEW.md`;
-11. canonical records and corresponding P3 assemblies for scans 81–90.
+11. canonical records and corresponding P3 assemblies for scans 91–100.
 
 Resolve the controlling PDF before direct visual work.
 
-## Exact next activity — P4 scans 81–90
+## Exact next activity — P4 scans 91–100
 
-1. Re-inspect physical scans **81–90 directly**.
-2. Scans **81–84 / pp.80–83** finish Unit 18 `மருதாணி`; scans **85–90 / pp.84–89** are all of Unit 19 `அருவி`.
+1. Re-inspect physical scans **91–100 directly**.
+2. Scans **91–95 / pp.90–94** are all of Unit 20 `முறம்`; scans **96–100 / pp.95–99** are the opening five pages of Unit 21 `யாழ்`, which continues through scan 102 / p.101.
 3. Compare every visible word, word boundary/spacing, punctuation mark, quotation mark, heading, number and continuation with the canonical records.
 4. Preserve the source pixels even when wording looks unusual; do not normalize from context or alternate witnesses.
 5. Record every correction as **old reading → source-visible reading** with scan/printed-page provenance.
