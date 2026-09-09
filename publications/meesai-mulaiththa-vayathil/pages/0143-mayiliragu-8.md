@@ -27,7 +27,7 @@ transcription_method: "direct visual comparison with source scan"
 
 “ஏன் அத்தான்; கொழுகொம்பில் படருவதால்
 கொடியென்றார் பெண்ணை யென்பீர்! தோகையென
-மங்கையரை அழைப்பதற்கு விளக்கமென்ன?”
+மங்கையரை அழைப்பதற்கு விளக்கமென்ன ?”
 
 “மயில்களிலே பெண்ணுக்குத் தோகையில்லை!
 ஆண்மயிலுக்கு அழகூட்டும் அணிகலனே தோகை
@@ -59,5 +59,6 @@ transcription_method: "direct visual comparison with source scan"
 - source-visible `மனநித்துவிடுக`, `நீலமிழைத்துப்`, `பெண்ணை யென்பீர்` retained.
 - final sentence continues on scan 144.
 - unresolved printed text: **0**.
+- P4 strict visual review corrected `விளக்கமென்ன?”` → source-visible `விளக்கமென்ன ?”`; mapping and unit boundaries are unchanged.
 
 <!-- மூல ஸ்கேன் பக்கம்: 143 -->
