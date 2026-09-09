@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P4 scans 41–50
+# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / P4 scans 51–60
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -23,10 +23,10 @@ Publication 10 `மீசை முளைத்த வயதில்`:
 - P3 canonical main-work pages — **128 / 128**;
 - P3 source scan coverage — **18–145 contiguous**;
 - P3 boundary gaps / overlaps — **0 / 0**;
-- P4 — **IN PROGRESS — scans 1–40 / 40 of 146 strict-reviewed**;
-- P4 cumulative corrections — **84**;
-- corrections propagated — **84 / 84**;
-- P3 assemblies corrected/re-synchronized — **7 distinct assemblies**;
+- P4 — **IN PROGRESS — scans 1–50 / 50 of 146 strict-reviewed**;
+- P4 cumulative corrections — **130**;
+- corrections propagated — **130 / 130**;
+- P3 assemblies corrected/re-synchronized — **10 distinct assemblies**;
 - P4 unresolved fidelity discrepancies — **0**;
 - active P4 blockers — **0**;
 - English — **BLOCKED until Tamil P5 freeze**.
@@ -36,7 +36,7 @@ Formal records:
 - `publications/meesai-mulaiththa-vayathil/P3_ASSEMBLY_AUDIT.md`;
 - `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-## P4 checkpoint through scan 40
+## P4 checkpoint through scan 50
 
 Completed batches:
 
@@ -44,35 +44,33 @@ Completed batches:
 - P4-011-020 — **PASS; 4 corrections**;
 - P4-021-030 — **PASS; 35 corrections**;
 - P4-031-040 — **PASS; 43 corrections**;
+- P4-041-050 — **PASS; 46 corrections**;
 - cumulative unresolved fidelity discrepancies — **0**.
 
-P4-031-040 covers:
+P4-041-050 covers:
 
-- `ஆறு` scans 31–33 / pp.30–32;
-- `வாழிய வைகறை` scans 34–35 / pp.33–34;
-- `அகப்பை சித்தர்` scans 36–38 / pp.35–37;
-- `மலையே வாழி` scans 39–40 / pp.38–39 in this batch; scan 41 closes the unit.
+- `மலையே வாழி` closing scan 41 / p.40;
+- `தளிர்` scans 42–45 / pp.41–44;
+- `விண்மீன்` scans 46–48 / pp.45–47;
+- `தனிமை` opening scans 49–50 / pp.48–49.
 
-Scan 31 required no correction. Scans 32–40 required 43 corrections, all propagated into canonical records. The four affected P3 assemblies were re-synchronized:
+Scan 42 required no correction. The other nine scans required 46 source-controlled corrections. Four P3 assemblies were re-synchronized:
 
-- `articles/05-aaru.md`;
-- `articles/06-vaazhiya-vaikarai.md`;
-- `articles/07-agappai-siththar.md`;
-- `articles/08-malaiye-vaazhi.md`.
+- `articles/08-malaiye-vaazhi.md`;
+- `articles/09-thalir.md`;
+- `articles/10-vinmeen.md`;
+- `articles/11-thanimai.md`.
 
 Durable direct-source readings from the latest batch include:
 
-- scan 32: subheading **`அன்னை`**, `மாணிக்கப் பல்காட்டிச்`, `அன்னையிடம்`, `கால் நனைந்து`;
-- scan 33: `நீதான்`, `அரசு புரிவோர்`;
-- scan 34: `ஏற்றுக் கொண்டு போ!`, `செங்கதிரையும் எழுப்பி விட்டாய்`;
-- scan 35: `உன் கால்`, `ஒரு நாள்;`, `எழில் மாடத்தில்`, `நேரமாகி விட்டது`;
-- scan 36: `திராவிடத்தைக் காத்திடப்`;
-- scan 37: `அல்லலும்`, `அப்போதுதான்`, `தொடமுடியும்`, `அறுசுவையுணவையே`, `ஜனக்கூட்டம்`;
-- scan 38: `உமிகள் உன் வாக்கத்திலும் உண்டு`, source list ending `அவதார புருஷர் ... அரசியல் மேதாவிகள்`;
-- scan 39: `அரியாசனம் அமைத்து வீற்றிருக்கும்`, `எப்படி எப்படி யெல்லாமோ`;
-- scan 40: `மனங் குலையா`, `உன்சேதி`, `உன் தோளைத்`, `அதற்குப் பிறகு தானே`, `‘அந்தப்’`, `வெளியிடுவான்`.
+- scan 41: `நிமிர்த்தாவிட்டால்`, `வைரத் தோள்கள்`, `சிற்பக் குகையாய்`, `அகன்ற நெற்றியில்`;
+- scan 44: `நீயும் நாத்திகவாதி.` and restored `பாம்பொடு விளையாடும் பண்பில் நீயும் அவர்களும் ஒன்று தானே குழந்தாய்!`;
+- scan 47: `விரித்தாடுங்காட்சி கண்டேன்`, `சீச்சீ!`, `மனிதர்களுள்`, `நா கடுக்கத்தேடி`, `மின் மினியாய்ப்`;
+- scan 48: `ஒளிப்புகழைத்`, `ஒரு நாள்`, `ஒரு முழு வால்தான்`, `இப்பெரு வையம்`, `வான்சொரியும்`;
+- scan 49: `அன்புள்ள காதலரே!`;
+- scan 50: `ஆரத்தழுவியபடியே கிடந்தீரே...`, `இப்போது - நான்`, `வேணு கானமோ`, `அப்படி யெல்லாம்`, `காதலரே எல்லாம்.... எல்லாம்`.
 
-Unit boundaries and printed-page mapping remain unchanged.
+Unit boundaries and printed-page mapping remain unchanged. `தனிமை` continues on scan 51.
 
 ## Controlling source
 
@@ -89,8 +87,6 @@ Permanent P1 source-title readings:
 - `தளிர்` — scan 42 / p.41;
 - `மயிலிறகு` — scan 136 / p.135.
 
-Other durable readings include scan 32 `அரசு`, scan 47 `விண்மீன்`, and scan 70 `உயர் தமிழன்`.
-
 ## Mandatory startup
 
 Read completely before source-dependent work:
@@ -105,14 +101,14 @@ Read completely before source-dependent work:
 8. `indexes/contents.md`;
 9. `P3_ASSEMBLY_AUDIT.md`;
 10. `VISUAL_TEXT_FIDELITY_REVIEW.md`;
-11. canonical records and corresponding P3 assemblies for scans 41–50.
+11. canonical records and corresponding P3 assemblies for scans 51–60.
 
 Resolve the controlling PDF before direct visual work.
 
-## Exact next activity — P4 scans 41–50
+## Exact next activity — P4 scans 51–60
 
-1. Re-inspect physical scans **41–50 directly**.
-2. Scan 41 closes `மலையே வாழி`; scans 42–45 are `தளிர`; scans 46–48 are `விண்மீன்`; scans 49–50 begin `தனிமை`.
+1. Re-inspect physical scans **51–60 directly**.
+2. Scans 51–54 finish `தனிமை`; scans 55–56 are `நாடக மேடை`; scans 57–58 are `புகழ்`; scans 59–60 begin `பச்சைக்கிளி`.
 3. Compare every visible word, word boundary/spacing, punctuation mark, quotation mark, heading, number and continuation with the canonical records.
 4. Preserve the source pixels even when wording looks unusual; do not normalize from context or alternate witnesses.
 5. Record every correction as **old reading → source-visible reading** with scan/printed-page provenance.
