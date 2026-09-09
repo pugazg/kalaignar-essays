@@ -48,7 +48,7 @@ Formal gate: `P3_ASSEMBLY_AUDIT.md`.
 
 ## P4 — final strict visual text-fidelity pass
 
-**RESULT: IN PROGRESS — 50 / 146 PHYSICAL SCANS STRICT-REVIEWED**
+**RESULT: IN PROGRESS — 60 / 146 PHYSICAL SCANS STRICT-REVIEWED**
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
@@ -58,37 +58,36 @@ Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 - P4-011-020 — **PASS; 4 corrections; 0 unresolved**;
 - P4-021-030 — **PASS; 35 corrections; 0 unresolved**;
 - P4-031-040 — **PASS; 43 corrections; 0 unresolved**;
-- P4-041-050 — **PASS; 46 corrections; 0 unresolved**.
+- P4-041-050 — **PASS; 46 corrections; 0 unresolved**;
+- P4-051-060 — **PASS; 2 corrections; 0 unresolved**.
 
-### P4-041-050 findings
+### P4-051-060 findings
 
-Scans 41–50 cover:
+Scans 51–60 cover:
 
-- Unit 8 `மலையே வாழி` — closing scan 41 / p.40;
-- Unit 9 `தளிர்` — scans 42–45 / pp.41–44;
-- Unit 10 `விண்மீன்` — scans 46–48 / pp.45–47;
-- Unit 11 `தனிமை` — opening scans 49–50 / pp.48–49.
+- Unit 11 `தனிமை` — scans 51–54 / pp.50–53, completing the unit;
+- Unit 12 `நாடக மேடை` — scans 55–56 / pp.54–55;
+- Unit 13 `புகழ்` — scans 57–58 / pp.56–57;
+- Unit 14 `பச்சைக்கிளி` — opening scans 59–60 / pp.58–59.
 
-Scan 42 required no textual correction. The remaining nine scans required **46** direct-source corrections, all applied to canonical page records. Four P3 assemblies were re-synchronized in this batch:
+Only scans 52 and 53 required correction. The two direct-source corrections were applied to canonical page records and propagated to `articles/11-thanimai.md`:
 
-- `articles/08-malaiye-vaazhi.md`;
-- `articles/09-thalir.md`;
-- `articles/10-vinmeen.md`;
-- `articles/11-thanimai.md`.
+- scan 52 `ஒரு முத்தங்கள் கொடுங்கள் தான்”` → **`ஒரு முத்தங்கள் கொடுங்களத்தான்”`**;
+- scan 53 `ஒவியத்தை` → **`ஓவியத்தை`**.
 
-Notable direct-source readings include scan 41 `நிமிர்த்தாவிட்டால்`, `வைரத் தோள்கள்`, `சிற்பக் குகையாய்`; scan 44 `நீயும் நாத்திகவாதி.` plus the restored `பாம்பொடு விளையாடும்...` sentence; scan 47 `விரித்தாடுங்காட்சி கண்டேன்`, `சீச்சீ!`, `நா கடுக்கத்தேடி`; scan 48 `ஒரு முழு வால்தான்`; scan 49 `அன்புள்ள காதலரே!`; and scan 50 `ஆரத்தழுவியபடியே கிடந்தீரே...` / `காதலரே எல்லாம்.... எல்லாம்`.
+Scans 51 and 54–60 required no textual correction. Because `11-thanimai.md` had already been corrected in the previous batch, the cumulative distinct-assembly count remains **10**. No source title, page span, printed folio mapping or unit boundary changed.
 
 Current P4 totals:
 
-- strict-reviewed physical scans: **50 / 146**;
-- contiguous strict-reviewed range: **1–50**;
-- cumulative corrections: **130**;
-- corrections propagated to canonical page records: **130 / 130**;
+- strict-reviewed physical scans: **60 / 146**;
+- contiguous strict-reviewed range: **1–60**;
+- cumulative corrections: **132**;
+- corrections propagated to canonical page records: **132 / 132**;
 - P3 assemblies corrected/re-synchronized: **10 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
-P4 remains OPEN. Next batch: **scans 51–60**.
+P4 remains OPEN. Next batch: **scans 61–70**.
 
 ## Gate tracker
 
@@ -98,7 +97,7 @@ P4 remains OPEN. Next batch: **scans 51–60**.
 | P1 | **COMPLETE / PASS** |
 | P2 | **COMPLETE / PASS — 146 / 146 VERIFIED** |
 | P3 | **COMPLETE / PASS — 26 / 26 assemblies** |
-| P4 | **IN PROGRESS — 50 / 146 strict-reviewed** |
+| P4 | **IN PROGRESS — 60 / 146 strict-reviewed** |
 | P5 | **NOT STARTED** |
 | English | **BLOCKED until Tamil P5 freeze** |
 
@@ -106,6 +105,6 @@ Active P4 blockers: **0**.
 
 ## Exact next activity
 
-**P4 scans 51–60.** Finish `தனிமை` on scans 51–54, review `நாடக மேடை` scans 55–56 and `புகழ்` scans 57–58, and begin `பச்சைக்கிளி` on scans 59–60. Compare every visible word, word boundary and punctuation mark directly with the controlling source, propagate all proven corrections, and advance the report only after the full batch reconciles.
+**P4 scans 61–70.** Close `பச்சைக்கிளி` on scan 61, review single-page `தமிழே` on scan 62, and review `தேனலைகள்` scans 63–70. Compare every visible word, word boundary and punctuation mark directly with the controlling source, propagate all proven corrections, and advance the report only after the full batch reconciles.
 
 Do not begin English translation.
