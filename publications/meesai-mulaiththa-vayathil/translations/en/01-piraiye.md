@@ -8,7 +8,7 @@ source_tamil_blob_sha: "5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c"
 source_scan_pages: "18-20"
 source_printed_pages: "17-19"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -16,7 +16,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 18 / printed 17 -->
 
-O crescent! Foam on the wave of the sea of sky!  
+O crescent! Foam of the wave of the sky-sea!  
 Why do you peer into the prison through the window and laugh?
 
 I hear you calling me “Prisoner!” And what of you? Are you roaming about in a chariot of freedom? Without crossing the line drawn for you, without closing your wakeful eye, you have only the right to keep walking like a prison guard.
@@ -35,13 +35,13 @@ I too am a prisoner!
 
 You too are a prisoner!
 
-I at least will gain freedom, together with my country; for you there is no freedom at all—no change at all in your life of circling round.
+I, at least, will gain freedom—along with my country. For you there is no freedom at all—no change at all in your circling life.
 
-O crescent! Boat of the sky! Carry my white-plumed peacock here for a little while. Bring me my beauty, lying there yearning as she thinks of me. I shall look at her through the window and be transported! Bring me my goddess of freedom.
+O crescent! Boat of the sky! Carry my white-plumed peacock here for a little while. Bring me my fair one, who lies yearning with thoughts of me. I gaze at her through the window and am transported! Bring me my goddess of freedom.
 
 <!-- Tamil source: scan 20 / printed 19 -->
 
-I am telling you—but how can you? You cannot cross the line drawn for you!
+I am telling you; but how can you? You cannot cross the line drawn for you!
 
 You too are a prisoner!
 
