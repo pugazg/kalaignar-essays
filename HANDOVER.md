@@ -9,19 +9,20 @@ Branch: `main`
 
 Publications **1–9 are RELEASE COMPLETE / FROZEN**.
 
-Active Publication **10 — `மீசை முளைத்த வயதில்` — P0, P1, P2, P3, P4 and P5 COMPLETE / PASS. Tamil archival authority is FROZEN. P4 closed at 146 / 146 strict-reviewed with 207 source corrections, 207 / 207 propagated, 20 distinct P3 assemblies corrected/re-synchronized, and 0 unresolved fidelity discrepancies. English / E0 planning is UNBLOCKED / NOT STARTED.**
+Active Publication **10 — `மீசை முளைத்த வயதில்` — Tamil P0–P5 COMPLETE / PASS / FROZEN; English E0 COMPLETE / PASS; English article translation has not started. E1 Article 1 `பிறையே` calibration is next.**
 
 Source PDFs are never committed.
 
 ## Mandatory startup
 
-1. fetch live `main` first;
-2. read `ESSAY_PROCESSING_GUIDE.md` and `ESSAY_TRANSLATION_GUIDE.md` completely;
-3. read `docs/FUTURE_WORK_GUIDELINES.md`;
-4. read this handover and `docs/NEXT_CHAT_PROMPT.md`;
-5. read Publication 10 `PUBLICATION_COMPLETION_REVIEW.md`, `README.md`, `metadata/source.md`, `indexes/page-map.md`, `indexes/contents.md`, `audit.md`, `P3_ASSEMBLY_AUDIT.md`, and `VISUAL_TEXT_FIDELITY_REVIEW.md`;
-6. preserve Publications 1–9 unless direct source evidence or the user explicitly requires reopening;
-7. preserve Publication 10's frozen Tamil layer unless new direct controlling-source evidence requires a formally documented reopening.
+1. fetch live `main` first and preserve newer durable work;
+2. read `ESSAY_TRANSLATION_GUIDE.md` completely;
+3. read `ESSAY_PROCESSING_GUIDE.md` / `docs/FUTURE_WORK_GUIDELINES.md` as needed for source boundaries and workflow discipline;
+4. read this root handover and `docs/NEXT_CHAT_PROMPT.md`;
+5. read Publication 10 `PUBLICATION_COMPLETION_REVIEW.md`, `TRANSLATION_PLAN.md`, `README.md`, `audit.md`, `metadata/source.md`;
+6. read `translations/en/README.md`, `translations/en/LEXICON.md`, and `translations/en/TRANSLATION_REVIEW.md`;
+7. for E1, fetch `articles/01-piraiye.md` fresh and confirm its blob SHA before translating;
+8. preserve Publications 1–9 and Publication 10's frozen Tamil layer unless new direct controlling-source evidence requires a formally documented reopening.
 
 ---
 
@@ -29,101 +30,71 @@ Source PDFs are never committed.
 
 Workspace: `publications/meesai-mulaiththa-vayathil/`
 
-## Controlling source
+## Controlling source / frozen Tamil authority
 
-- source ID: `TVA_BOK_0065746`;
-- filename: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
-- SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
-- size: **374,123,900 bytes**;
+- source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
+- source SHA-256: **`9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`**;
 - physical scans: **146**;
-- image-only / no parsed text layer;
-- supplied edition: `இரண்டாம் பதிப்பு : அக்டோபர் 2006`.
-
-The supplied 2006 pixels remain controlling. OCR, context and alternate editions do not override visible source wording, word boundaries or punctuation.
-
-## P0 — COMPLETE / PASS
-
-Source intake and publication identification are complete. The source PDF is excluded from the repository.
-
-## P1 — COMPLETE / PASS
-
-- scans mapped: **146 / 146**;
-- printed folios: **17–144** on scans 18–145;
-- source-titled main units: **26 / 26**;
-- printed contents page: **none**;
-- unmapped / overlapping boundaries: **0 / 0**;
-- blockers: **0**.
-
-Permanent source-title readings:
-
-- scan 36 / p.35 — **`அகப்பை சித்தர்`**;
-- scan 42 / p.41 — **`தளிர்`**;
-- scan 136 / p.135 — **`மயிலிறகு`**.
-
-## P2 — COMPLETE / PASS
-
 - canonical page records: **146 / 146 VERIFIED**;
-- missing records: **0**;
-- unresolved printed-text blocks: **0**;
-- source-titled units complete: **26 / 26**;
-- scan 146 back cover: **VERIFIED**.
+- source-titled Tamil assemblies: **26 / 26**;
+- canonical main-work pages: **128 / 128**;
+- frozen `pages/` tree: **`f7930b3696668cdbc2d692a284b49586d09a3372`**;
+- frozen strict-reviewed `articles/` tree: **`b7593357dc5ba101362c7a303881bea4e63e9b68`**;
+- P3 audit blob: **`0c2045346b879c85b6e2c46150a4aab686323016`**;
+- final P4 fidelity report blob: **`2e085c2167c9dea409a13be4a7c980234e5a01df`**;
+- P4 corrections: **207 / 207 propagated**;
+- unresolved Tamil source/fidelity blockers: **0**.
 
-## P3 — COMPLETE / PASS
+Permanent source-title readings remain `அகப்பை சித்தர்`, `தளிர்`, and `மயிலிறகு`.
 
-Formal gate: `publications/meesai-mulaiththa-vayathil/P3_ASSEMBLY_AUDIT.md`.
+P5 formal gate: `publications/meesai-mulaiththa-vayathil/PUBLICATION_COMPLETION_REVIEW.md` — **COMPLETE / PASS / TAMIL FROZEN**.
 
-- assemblies: **26 / 26**;
-- canonical main-work pages represented: **128 / 128**;
-- scan coverage: **18–145 contiguous**;
-- printed folios: **17–144 contiguous**;
-- missing / extra assemblies: **0 / 0**;
-- boundary gaps / overlaps: **0 / 0**;
-- unresolved body text: **0**.
+Tracker-only English/handover commits do not change the frozen Tamil authority.
 
-## P4 — COMPLETE / PASS
+## English E0 — COMPLETE / PASS
 
-Formal gate: `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`.
+E0 created/initialized:
 
-Final state:
+- `publications/meesai-mulaiththa-vayathil/TRANSLATION_PLAN.md`;
+- `publications/meesai-mulaiththa-vayathil/translations/en/README.md`;
+- `publications/meesai-mulaiththa-vayathil/translations/en/LEXICON.md`;
+- `publications/meesai-mulaiththa-vayathil/translations/en/TRANSLATION_REVIEW.md`.
 
-- physical scans strict-reviewed: **146 / 146**;
-- cumulative source corrections: **207**;
-- corrections propagated to canonical records: **207 / 207**;
-- P3 assemblies corrected/re-synchronized during P4: **20 distinct assemblies**;
-- unresolved fidelity discrepancies: **0**;
-- blocked / needs-review scans: **0**;
-- mapping / unit-boundary changes: **0**.
+E0 result:
 
-Completed P4 batch correction totals: **2, 4, 35, 43, 46, 2, 2, 5, 3, 15, 12, 11, 8, 10, 9**.
+- frozen translation source set inventoried: **26 / 26 assemblies**;
+- per-article frozen Tamil blob SHA recorded: **26 / 26**;
+- article order / planned English filenames: **01–26 / PASS**;
+- page-boundary-comment policy: **established**;
+- quotation / verse / literary-language policy: **established**;
+- living lexicon policy: **established**;
+- English article body files created: **0 / 26**;
+- formal article T0 gates passed: **0 / 26**;
+- T5 verified articles: **0 / 26**;
+- frozen Tamil changes during E0: **0**;
+- E0 blockers: **0**.
 
-The final P4-141-146 batch required **9** corrections: seven source-visible question-mark-spacing corrections in `மயிலிறகு` scans 142–144 and two independent scan-146 back-cover corrections (`‘மீசை முளைத்த வயதில்’` quotation punctuation and `வாசித்தலும்`). All were propagated to the appropriate canonical/dependent layer. Scan 146 remains outside the article assembly.
+### Translation phase plan
 
-## P5 — COMPLETE / PASS — TAMIL FROZEN
+- **E0** — setup/planning — **COMPLETE / PASS**;
+- **E1** — Article 1 `பிறையே` calibration — **NEXT**;
+- **E2** — Articles 2–11;
+- **E3** — Articles 12–18;
+- **E4** — Articles 19–22;
+- **E5** — Articles 23–26;
+- **E6** — publication-wide English consistency review;
+- **E7** — English release closeout.
 
-Formal gate: `publications/meesai-mulaiththa-vayathil/PUBLICATION_COMPLETION_REVIEW.md`.
+Each article independently passes **T0 → T1 → T2 → T3 → T4 → T5**. Batch phases are scheduling only.
 
-The completed P0–P4 source/archive layer passed the publication-wide non-regression gate with **0 blockers**.
+### Permanent English rules
 
-Frozen Tamil authorities:
-
-- controlling source SHA-256 — **`9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`**;
-- canonical `pages/` tree — **`f7930b3696668cdbc2d692a284b49586d09a3372`**;
-- strict-reviewed Tamil `articles/` tree — **`b7593357dc5ba101362c7a303881bea4e63e9b68`**;
-- P3 audit blob — **`0c2045346b879c85b6e2c46150a4aab686323016`**;
-- final P4 report blob — **`2e085c2167c9dea409a13be4a7c980234e5a01df`**.
-
-P5 non-regression result:
-
-- canonical records **146 / 146**;
-- assemblies **26 / 26**;
-- canonical main-work pages **128 / 128**;
-- scans **18–145 contiguous** plus scan 146 independent back-cover witness;
-- P4 **146 / 146**, corrections **207 / 207 propagated**;
-- unresolved printed-text / fidelity discrepancies **0 / 0**;
-- blocked / needs-review records **0 / 0**;
-- source-title / span / printed-page / boundary drift **0**.
-
-Tracker-only changes after P5 do not change the frozen Tamil authority. Any Tamil reopening requires new direct controlling-source evidence and explicit provenance.
+- Translate the language; do not neutralise Kalaignar's voice.
+- Preserve direct address, commands, rhetorical questions, repetition, sarcasm, harshness, metaphor, personification, quotation status and source verse lineation.
+- Do not import another publication's terminology merely for consistency.
+- Exact Tamil `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation → **`Udanpirappē,`**, only where that exact source form occurs.
+- Preserve source-page traceability in English comments.
+- Do not modify frozen Tamil while translating.
 
 ## Current gate state
 
@@ -133,28 +104,34 @@ Tracker-only changes after P5 do not change the frozen Tamil authority. Any Tami
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**;
 - P4 — **COMPLETE / PASS — 146 / 146 strict-reviewed**;
 - P5 — **COMPLETE / PASS — TAMIL FROZEN**;
-- English / E0 planning — **UNBLOCKED / NOT STARTED**.
+- E0 — **COMPLETE / PASS**;
+- E1 — **NOT STARTED — NEXT**;
+- T0–T5 verified English articles — **0 / 26**;
+- E6 — **NOT STARTED**;
+- E7 — **NOT STARTED**.
 
-Active source/fidelity blockers: **0**.
+Active Tamil/source blockers: **0**.  
+Active English blockers: **0**.
 
-## Exact next activity — English E0 planning / translation-workspace bootstrap
+## Exact next activity — E1 Article 1 `பிறையே` calibration
 
 When the user says proceed/continue:
 
-1. fetch live `main` and preserve newer durable work;
-2. read `ESSAY_TRANSLATION_GUIDE.md` completely and re-read this handover plus `PUBLICATION_COMPLETION_REVIEW.md`;
-3. treat frozen `articles/` tree **`b7593357dc5ba101362c7a303881bea4e63e9b68`** as the primary Tamil translation authority;
-4. inspect translation precedents from completed publications for structure only, without importing publication-specific lexical choices;
-5. create / initialize the Publication 10 English planning workspace, including `TRANSLATION_PLAN.md` and the `translations/en/` planning/review files required by the translation guide;
-6. establish article order **01–26**, source provenance and initial living lexicon policy;
-7. record E0 as PASS only after the workspace and source prerequisites are complete and internally consistent;
-8. do **not** modify the frozen Tamil page or article layer;
-9. do not begin bulk English translation merely as part of E0 unless the next durable state explicitly authorizes it.
+1. fetch live `main` first;
+2. re-read this handover, `TRANSLATION_PLAN.md`, English tracker/lexicon/review ledger, and `ESSAY_TRANSLATION_GUIDE.md`;
+3. fetch `publications/meesai-mulaiththa-vayathil/articles/01-piraiye.md` fresh;
+4. confirm its frozen Tamil blob remains **`5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`**, source scans **18–20 / printed pp.17–19**, and frozen source status remains valid;
+5. mark **T0 PASS** only after that live confirmation;
+6. create `translations/en/01-piraiye.md` and complete the entire article paragraph by paragraph at **T1**;
+7. perform **T2 bilingual fidelity**, recording every correction;
+8. perform **T3 Kalaignar voice review**;
+9. perform **T4 terminology / quotation / source audit**, updating `LEXICON.md`;
+10. perform **T5 final article verification**, record the final English blob SHA and mark Article 1 `verified` only if all gates pass with 0 blockers;
+11. synchronize `TRANSLATION_PLAN.md`, English tracker/review/lexicon, publication README/audit, this handover, root README and `docs/NEXT_CHAT_PROMPT.md`;
+12. do not begin Article 2 in the same activity unless a later durable handover explicitly authorizes doing so.
 
 ---
 
 # Publications 1–9 — RELEASE COMPLETE / FROZEN
 
 Do not reopen these from stale prompts. Publication 9 remains frozen at Tamil blob `1c5870212186b2bf7ff095b245e15cd875de76f0` and released English blob `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`, with E6/E7 PASS and blockers 0.
-
-Permanent translation rule: exact Tamil `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation → **`Udanpirappē,`**.
