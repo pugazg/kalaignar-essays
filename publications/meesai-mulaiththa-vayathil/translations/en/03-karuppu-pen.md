@@ -16,7 +16,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 24 / printed 23 -->
 
-Come, night, come! Come, beautiful black woman! You are beautiful—ravishingly beautiful. I like the black woman. I love her. But I am already married! So what; is it a crime to describe your beauty with an unstained heart? O emerald maiden! If I call you my pitch-dark beloved, scold me; fair enough! I have decided for myself that there is no fault in calling you friend.
+Come, night, come! Come, beautiful black woman! You are beautiful—ravishingly beautiful. I like the black woman. I love her. But I am already married! So what; is it a crime to describe your beauty with an unstained heart? If I call you “Emerald maiden! Pitch-dark beloved!” rebuke me; fair enough! I have decided for myself that there is no fault in calling you friend.
 
 <!-- Tamil source: scan 25 / printed 24 -->
 
