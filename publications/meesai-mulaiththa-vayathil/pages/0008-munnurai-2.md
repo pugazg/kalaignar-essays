@@ -20,7 +20,7 @@ transcription_method: "direct visual comparison with source scan"
 
 வெறும் சொற்களென்றால் அகராதி போதும். உணர்ச்சிதான் கவிதையென்றால் ஒப்பாரி போதும்.
 
-அனுபவம்தான் கவிதையென்றால் பழமொழி போதும். அறிவுரையே கவிதை என்றால் மூத்தோர் முதுமொழி போதும்.
+அனுபவம்தான் கவிதையென்றால் பழமொழி போதும். அறிவுரையே கவிதை என்றால் முதியோர் முதுமொழி போதும்.
 
 கலையழகுதான் கவிதையென்றால் கல்லோவியங்கள் போதும்.
 
@@ -43,5 +43,10 @@ transcription_method: "direct visual comparison with source scan"
 
 - source-specific spacing `கவிதை என்றால்` மற்றும் `ஓடை ஒலி`, forms `உள்வாங்கிச்`, punctuation மற்றும் paragraph boundaries direct scan comparison மூலம் உறுதிப்படுத்தப்பட்டன.
 - இறுதி paragraph scan 9-ல் தொடர்கிறது.
+
+## P4 strict-fidelity correction
+
+- direct re-inspection of scan 8 corrected **`மூத்தோர்` → `முதியோர்`** in `அறிவுரையே கவிதை என்றால் முதியோர் முதுமொழி போதும்.`
+- correction basis: controlling 2006 scan pixels; no contextual or secondary-witness substitution.
 
 <!-- மூல ஸ்கேன் பக்கம்: 8 -->
