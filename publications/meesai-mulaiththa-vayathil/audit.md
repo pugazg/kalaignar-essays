@@ -70,20 +70,27 @@ Formal gate: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 | P4-111-120 | PASS | 11 | 0 |
 | P4-121-130 | PASS | 8 | 0 |
 | P4-131-140 | PASS | 10 | 0 |
-| P4-141-146 | PASS | 0 | 0 |
+| P4-141-146 | PASS | 9 | 0 |
 
 ### Final batch P4-141-146
 
 Scans **141–145 / pp.140–144** finish `மயிலிறகு`; scan **146** is the illustrated back-cover / promotional-text witness.
 
-All six canonical records matched the controlling pixels without textual correction. `articles/26-mayiliragu.md` required no final-batch change and remains synchronized. Scan 145 retains the printed unit-closing bullet; scan 146 remains outside the article assembly.
+Nine source-visible corrections were required and fully propagated:
+
+- scan 142 — three spaces before question marks: `இதுதானோ ?`, `துணிவுடையான் ?`, `தலைமைச் சிங்கம் ?`;
+- scan 143 — `விளக்கமென்ன?”` → **`விளக்கமென்ன ?”`**;
+- scan 144 — three spaces before question marks: `இவன் ?`, `வீரன் ?`, `வருகிறானோ ?`;
+- scan 146 — ASCII quoted-title punctuation → **`‘மீசை முளைத்த வயதில்’`** and `வாசித்தாலும்` → **`வாசித்தலும்`**.
+
+The seven main-work corrections were propagated to `articles/26-mayiliragu.md`. Scans 141 and 145 required no textual correction. Scan 145 retains the printed unit-closing bullet; scan 146 remains outside the article assembly.
 
 ### Final P4 totals
 
 - strict-reviewed physical scans: **146 / 146**;
 - contiguous strict-reviewed range: **1–146**;
-- cumulative corrections: **198**;
-- corrections propagated to canonical page records: **198 / 198**;
+- cumulative corrections: **207**;
+- corrections propagated to canonical page records: **207 / 207**;
 - P3 assemblies corrected/re-synchronized during P4: **20 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans: **0**;
