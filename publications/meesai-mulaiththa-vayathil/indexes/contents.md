@@ -3,7 +3,7 @@
 Publication: `publications/meesai-mulaiththa-vayathil/`  
 Controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`  
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
-P4 status: **IN PROGRESS — scans 1–20 / 20 of 146 strict-reviewed**
+P4 status: **IN PROGRESS — scans 1–30 / 30 of 146 strict-reviewed**
 
 ## Source-witness warning
 
@@ -106,26 +106,20 @@ The 26 source-titled rows above map one-to-one to the live P3 files in `articles
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- strict-reviewed physical scans: **20 / 146**;
-- contiguous reviewed range: **1–20**;
-- corrections: **6**;
-- corrections propagated: **6 / 6**;
+- strict-reviewed physical scans: **30 / 146**;
+- contiguous reviewed range: **1–30**;
+- cumulative corrections: **41**;
+- corrections propagated: **41 / 41**;
+- P3 assemblies corrected/re-synchronized: **3**;
 - unresolved fidelity discrepancies: **0**;
 - mapping/title-boundary changes caused by P4 so far: **0**.
 
-Cumulative P4 corrections are front-matter only:
+Batch P4-021-030 passed after corrective strict review with **35 direct-source corrections** across Units 2–4: `ஆடிக்காற்று`, `கருப்புப் பெண்`, and `கடலே`. The affected assemblies `02-adikkaatru.md`, `03-karuppu-pen.md`, and `04-kadale.md` were re-synchronized from their corrected canonical page records. Scan 29's prior `சிங்காரச் “செம்படச்சி”` phrase was removed because it is absent from the controlling 2006 scan.
 
-- scan 5 `கூறிய` → `கூரிய`;
-- scan 8 `மூத்தோர்` → `முதியோர்`;
-- scan 12 `செயல்படுகிறது.` → `செய்துவிடுகிறது.`;
-- scan 13 `மறக்கவிடவோ` → `மறந்துவிடவோ`;
-- scan 14 `பின்னும்` → `பின்னுறும்`;
-- scan 14 `இணைவாய்` → `இணையாய்`.
-
-Batch scans 11–20 passed after corrective review with **4 corrections**, all in front matter. Scan 17 remains blank/show-through, and Unit 1 `பிறையே` remains scans 18–20 / pp.17–19 with **0 P4 text corrections**. Therefore the 26-unit source map above remains unchanged and P3 assembly propagation remains **0**.
+No source-title or unit-boundary change resulted from P4 through scan 30; the 26-unit source map above remains unchanged.
 
 ## Exact next activity
 
-**P4 scans 21–30.** Re-inspect all ten scans directly and record every old reading → source-visible reading correction with provenance. Propagate any mapping/title effects here only if the controlling scan proves a change.
+**P4 scans 31–40.** Re-inspect all ten scans directly and record every old reading → source-visible reading correction with provenance. Propagate any affected canonical text into the dependent P3 assemblies and update this overlay only after the full batch is reconciled.
 
 English remains blocked until Tamil P5 freeze.
