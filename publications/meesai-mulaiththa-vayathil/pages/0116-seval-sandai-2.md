@@ -31,7 +31,7 @@ transcription_method: "direct visual comparison with source scan"
 
 “சரியத்தான் ஒப்புகிறேன்; பெட்டை யொன்று வாங்கி
 வந்தாலும் முட்டையிடும் . . . இதைக் கொண்டிருந்து
-பயன் என்ன?” ஏந்திழையின் பேச்சுக்கு முதற்
+பயன் என்ன ?” ஏந்திழையின் பேச்சுக்கு முதற்
 பதிலாய் நகை முழக்கிப் பின்னும் கூறலானான்
 “துப்புரச் சிவந்த’ வாய்ப் பேரழகே! பசு மாடு,
 பெண்ணாடு, பெட்டைக் கோழி - வளர்ப்பதிலே
@@ -58,6 +58,7 @@ transcription_method: "direct visual comparison with source scan"
 
 - visible printed folio **115**, running header and every visible printed line were directly verified against the supplied 2006 scan.
 - source-visible forms/punctuation retained include `வானவில்போல்`, `மற்றதமிழன்`, `பெட்டை யொன்று`, spaced `. . .`, `துப்புரச் சிவந்த’ வாய்ப் பேரழகே!`, and `உமது உள்ளம்-`.
+- P4 strict visual review corrected `பயன் என்ன?` → source-visible `பயன் என்ன ?`; no mapping or unit-boundary change resulted.
 - final `பெண் குலத்தைப் புகழ்வதற்கும்` continues directly onto scan 117; no continuation was reconstructed from context.
 
 <!-- மூல ஸ்கேன் பக்கம்: 116 -->
