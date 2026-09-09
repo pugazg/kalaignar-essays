@@ -14,7 +14,7 @@ Publications **1–10 are RELEASE COMPLETE / FROZEN**.
 
 Workspace: `publications/pesum-kalai-valarppom/`
 
-**P0 COMPLETE / PASS. P1 is next.**
+**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 is next.**
 
 Controlling source:
 
@@ -25,18 +25,26 @@ Controlling source:
 - image-only;
 - source PDF committed — **No**.
 
-Source-visible identity:
+Source identity:
 
 - title — **`பேசும் கலை வளர்ப்போம்`**;
-- title-page author/status — **`மாண்புமிகு டாக்டர் கலைஞர் மு.கருணாநிதி / தமிழக முதல்-அமைச்சர்`**;
+- author/status — **`மாண்புமிகு டாக்டர் கலைஞர் மு.கருணாநிதி / தமிழக முதல்-அமைச்சர்`**;
 - publisher — **பாரதி பதிப்பகம்**;
 - supplied edition — **எட்டாம் பதிப்பு, செப்டம்பர் 1996**;
-- main work — **19 numbered sections**;
-- printed contents page — **not present in supplied scan**.
+- source-numbered sections — **19**;
+- printed contents page — **none**.
 
-P0 observed numbered openings at scans `7, 12, 16, 22, 27, 31, 34, 38, 42, 45, 48, 51, 55, 59, 64, 67, 70, 75, 79`.
+P1 result:
 
-Exact next activity: **P1 — inspect and map all 82 scans, verify page types / visible or suppressed folios / all 19 section boundaries, and synchronize the source trackers. Do not start P2 transcription during P1.**
+- scans inspected / canonical map rows — **82/82**;
+- scans 1–2 outside printed pagination;
+- scans 3–82 = printed pp.**1–80**;
+- section starts/ends — **19/19 / 19/19**;
+- shared mid-page section transitions — **12**;
+- structural blockers — **0**;
+- P2 transcription — **0/82**.
+
+Exact next activity: **P2 scans 1–10 — create, transcribe and directly verify the first ten canonical page records; preserve physical-copy marks separately; do not build assemblies yet.**
 
 ### Publication 10 — மீசை முளைத்த வயதில் — FROZEN
 
