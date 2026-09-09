@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / English E1 Article 1 calibration
+# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / English E2 Articles 2–11
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -21,11 +21,11 @@ Publication 10 `மீசை முளைத்த வயதில்`:
 - P4 corrections — **207 / 207 propagated**;
 - unresolved Tamil source/fidelity blockers — **0**;
 - English E0 — **COMPLETE / PASS**;
-- frozen per-article blob provenance recorded — **26 / 26**;
-- English article body files — **0 / 26**;
-- formal article T0 gates — **0 / 26**;
-- T5 verified articles — **0 / 26**;
-- E1 — **NOT STARTED / NEXT**.
+- English E1 Article 1 `பிறையே` — **COMPLETE / PASS / T0–T5 VERIFIED**;
+- English T0/T1/T2/T3/T4/T5 progress — **1 / 26 each**;
+- English body files — **1 / 26**;
+- unresolved English blockers — **0**;
+- E2 Articles 2–11 — **NEXT**.
 
 ## Frozen Tamil authority
 
@@ -37,9 +37,27 @@ Publication 10 `மீசை முளைத்த வயதில்`:
 
 Do not modify frozen Tamil unless new direct controlling-source evidence requires a formally documented reopening.
 
-## English E0 workspace
+## E1 voice baseline — `பிறையே`
 
-Read before E1 work:
+Verified English file: `translations/en/01-piraiye.md`  
+English title: **O Crescent!**  
+Frozen Tamil blob: `5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`  
+Verified English blob: **`1d07e03ba84353b2da7c0a344d6ae61c3223caf0`**.
+
+Baseline principles:
+
+- preserve compact literary compounds when intelligible;
+- preserve direct vocatives and personification;
+- preserve repeated refrains/reversals rather than smoothing them;
+- preserve sarcastic rhetorical force;
+- keep concrete imagery concrete;
+- do not import outside identification or another publication's terminology mechanically.
+
+`translations/en/LEXICON.md` contains the Article-1 decisions; use them only when the later Tamil context genuinely matches.
+
+## Mandatory startup
+
+Read completely before E2 writes:
 
 1. `ESSAY_TRANSLATION_GUIDE.md`;
 2. root `HANDOVER.md`;
@@ -48,48 +66,37 @@ Read before E1 work:
 5. `translations/en/README.md`;
 6. `translations/en/LEXICON.md`;
 7. `translations/en/TRANSLATION_REVIEW.md`;
-8. `PUBLICATION_COMPLETION_REVIEW.md`;
-9. `articles/01-piraiye.md` fresh from live `main`.
+8. fetch each active Tamil article fresh before its T0.
 
-E0 phase plan:
+## E2 article source matrix
 
-- E1 — Article 1 `பிறையே` calibration;
-- E2 — Articles 2–11;
-- E3 — Articles 12–18;
-- E4 — Articles 19–22;
-- E5 — Articles 23–26;
-- E6 — publication consistency review;
-- E7 — English release closeout.
+| # | Tamil title | Tamil file | Frozen blob |
+|---:|---|---|---|
+| 2 | `ஆடிக்காற்று` | `articles/02-adikkaatru.md` | `bc0133b4c7d65a4976e22f514405f4edf9dab3ba` |
+| 3 | `கருப்புப் பெண்` | `articles/03-karuppu-pen.md` | `83d5a163a94636df59e3e2b5c587ee4f1e4420ca` |
+| 4 | `கடலே` | `articles/04-kadale.md` | `703c95c656f8b7ff2536765fd8a8e04a0dac42e2` |
+| 5 | `ஆறு` | `articles/05-aaru.md` | `c721c64678f1b9c715e9c22e6cbc99ffdfd10b23` |
+| 6 | `வாழிய வைகறை` | `articles/06-vaazhiya-vaikarai.md` | `ad42510f051c48bba896a2c6d20c0994e120b762` |
+| 7 | `அகப்பை சித்தர்` | `articles/07-agappai-siththar.md` | `9b092fc67bb2bf2cb94df94e31abfabf5067b149` |
+| 8 | `மலையே வாழி` | `articles/08-malaiye-vaazhi.md` | `bcd00b14b0fd8810acba3195759abf7c66c310f6` |
+| 9 | `தளிர்` | `articles/09-thalir.md` | `a67fc770ac6416d39d92efbe4d111c2d95ea2cb6` |
+| 10 | `விண்மீன்` | `articles/10-vinmeen.md` | `4528ec19f5efe1d7ffb68064d2b016801f2941ca` |
+| 11 | `தனிமை` | `articles/11-thanimai.md` | `e6aa86d8f1f01cc5cb536fb601e8908053a5d078` |
 
-Each article independently passes T0–T5.
+## Exact next activity — E2 Articles 2–11
 
-## Active E1 article
-
-Tamil article: **`பிறையே`**  
-Tamil file: `publications/meesai-mulaiththa-vayathil/articles/01-piraiye.md`  
-Frozen Tamil blob: **`5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`**  
-Source scans: **18–20**  
-Printed pages: **17–19**  
-Planned English file: `publications/meesai-mulaiththa-vayathil/translations/en/01-piraiye.md`
-
-## Permanent translation rules
-
-- **Translate the language; do not neutralise the voice.**
-- Preserve direct address, rhetorical questions, repetition, commands, exclamations, imagery, personification and source quotation/verse structure.
-- Retain Tamil-source page-boundary comments in English form.
-- Do not import publication-specific terminology from another work.
-- Exact Tamil `உடன்பிறப்பே` → **`Udanpirappē`**, direct salutation **`Udanpirappē,`**, only if that exact source form occurs.
-- Do not alter the frozen Tamil layer.
-
-## Exact next activity — E1 Article 1 `பிறையே` calibration
-
-1. Fetch live `main` first.
-2. Fetch `articles/01-piraiye.md` fresh and confirm blob **`5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`** and source span **scans 18–20 / pp.17–19**.
-3. **T0:** record source prerequisite PASS only if the live frozen Tamil authority matches.
-4. **T1:** create the complete English translation `translations/en/01-piraiye.md`, paragraph by paragraph, with source-boundary comments and metadata.
-5. **T2:** compare Tamil and English side by side; record and apply every fidelity correction; omissions/additions/unresolved defects must end at 0.
-6. **T3:** review Kalaignar voice/directness/rhetorical force; record and apply any corrections.
-7. **T4:** audit title, recurring literary terms, metaphors, quotations, punctuation/source notes and update `LEXICON.md`.
-8. **T5:** final verification; only then mark Article 1 `translation_status: verified` and record its final English blob SHA.
-9. Synchronize `TRANSLATION_PLAN.md`, English `README.md`, `LEXICON.md`, `TRANSLATION_REVIEW.md`, publication `README.md`/`audit.md`, root `README.md`, root `HANDOVER.md`, and this prompt.
-10. Stop after Article 1 E1 completion; do not start Article 2 unless the newer durable handover explicitly authorizes it.
+1. Fetch live `main` first and preserve newer durable work.
+2. Fetch all ten Tamil assemblies fresh; each **T0** passes only if its live blob equals the frozen matrix.
+3. Process Articles **2 → 11 in source order**.
+4. For every article independently:
+   - T0 — source prerequisite / blob confirmation;
+   - T1 — complete close draft with all source-boundary comments;
+   - T2 — bilingual fidelity review, omissions/additions/unresolved defects to 0;
+   - T3 — Kalaignar voice review;
+   - T4 — terminology / quotation / source audit, update living lexicon;
+   - T5 — final verification and final English blob SHA.
+5. Preserve Article 1 as a voice baseline, not a mechanical wording template.
+6. Record all meaningful review corrections and gate blobs in `TRANSLATION_REVIEW.md`.
+7. Synchronize `TRANSLATION_PLAN.md`, English tracker/lexicon/review, publication `README.md`, `audit.md`, `metadata/source.md`, root `README.md`, root `HANDOVER.md`, and this prompt.
+8. Do not alter frozen Tamil.
+9. If all ten pass, durable English state becomes **11 / 26 verified** and **E3 Articles 12–18** is next.
