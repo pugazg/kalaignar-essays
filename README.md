@@ -14,7 +14,7 @@ Publications **1–9 are COMPLETE / FROZEN / RELEASED**.
 
 Workspace: `publications/meesai-mulaiththa-vayathil/`
 
-**Tamil P0–P5 COMPLETE / PASS / FROZEN. English E0–E5 COMPLETE / PASS. Articles 1–26 are T0–T5 VERIFIED. English progress: 26/26. E6 publication-wide consistency is next.**
+**Tamil P0–P5 COMPLETE / PASS / FROZEN. English E0–E6 COMPLETE / PASS. Articles 1–26 are T0–T5 VERIFIED. E6 publication-wide consistency PASS with 0 article-body corrections and 0 blockers. E7 English release closeout is next.**
 
 Tamil authority:
 
@@ -27,20 +27,19 @@ Tamil authority:
 
 English state:
 
-- E0–E5 **COMPLETE / PASS**;
+- E0–E6 **COMPLETE / PASS**;
 - T0/T1/T2/T3/T4/T5 **26/26** each;
-- E5 Articles 23–26 **4/4 verified**;
-- E5 material T2 corrections **6**, T3 additional corrections **0**, T4 source-restraint corrections **2**;
+- E6 source-page comments **128/128**, scans **18–145 contiguous**;
+- E6 article-body corrections **0**;
+- E6 consistency blockers **0**;
 - unresolved English blockers **0**;
-- living lexicon decisions through Article 26 **153**;
-- E6 consistency **NEXT**;
-- E7 release closeout pending.
-
-E5 verified titles: **Cockfight**, **Letter**, **Annual Festival**, **Peacock Feather**.
+- living lexicon decisions **153**;
+- E7 release closeout **NEXT**;
+- English release gate **OPEN pending E7**.
 
 ## Current repository boundary
 
-Exact next activity: **E6 — publication-wide English consistency review across all 26 verified articles**. Frozen Tamil must not be modified. English release is not complete until E6 passes and E7 release closeout is separately completed.
+Exact next activity: **E7 — English release closeout** for Publication 10. Revalidate the 26 English files and frozen Tamil provenance against live `main`, confirm all release-facing trackers agree and the source PDF remains outside GitHub, then create `translations/en/RELEASE_REPORT.md`. Do not reopen verified prose for stylistic polishing. Only E7 PASS may close the English release gate.
 
 ### Permanent `உடன்பிறப்பே` rule
 
