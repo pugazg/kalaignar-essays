@@ -10,12 +10,12 @@ Permanent policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_G
 
 ## Current result
 
-- E0–E4 — **COMPLETE / PASS**;
-- verified English articles — **22 / 26**;
-- T0/T1/T2/T3/T4/T5 — **22 / 26** each;
+- E0–E5 — **COMPLETE / PASS**;
+- verified English articles — **26 / 26**;
+- T0/T1/T2/T3/T4/T5 — **26 / 26** each;
 - unresolved English blockers — **0**;
-- frozen Tamil changes during E0–E4 — **0**;
-- exact next — **E5 Articles 23–26**.
+- frozen Tamil changes during E0–E5 — **0**;
+- exact next — **E6 publication-wide English consistency review**.
 
 ## Frozen Tamil prerequisite
 
@@ -28,35 +28,23 @@ Permanent policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_G
 
 Translation authority remains frozen Tamil assembly → verified page/source clarification when needed → documented repository notes. OCR, web text, alternate editions and memory are not authority.
 
-## E4 verified English authority
+## E5 verified English authority
 
 | # | Tamil title | Frozen Tamil blob | English title | Verified English blob |
 |---:|---|---|---|---|
-| 19 | `அருவி` | `4c8cf8c296bab2fa08583efc7178eb4cc5310df6` | **Waterfall** | `ea8fc9a11f6420c95dcfbf64e2e31d1af18d9275` |
-| 20 | `முறம்` | `94cb40674f515520dde75b20de55b5558c2bd5ed` | **Winnowing Tray** | `c8989508e445b99f396e9da0b844cdfa65d46efc` |
-| 21 | `யாழ்` | `bf2eea3e6f00893499f209ac631f60d2a4256d5f` | **Yaazh** | `780c6b09d7a008eb197bdf5feacd4f0975b7ca8a` |
-| 22 | `சிற்பி` | `9319a924fc172d0b80107c8c4c18157ffee67b30` | **The Sculptor** | `84a175942d395689c4c517eff69300adedffe740` |
+| 23 | `சேவல் சண்டை` | `f489330920217021f2e3258ec7ddf8f260b171be` | **Cockfight** | `fbede1e68f63d9eb0ee369dd56ae668dd7c617af` |
+| 24 | `மடல்` | `9f8560b39ccbd6055f70398111e048b4ac49a9f3` | **Letter** | `9d66aa7a24d1c8725b7c9ae914eadca978a2530c` |
+| 25 | `ஆண்டு விழா` | `3e10a5db4c9726dc19113cb8375d6c6ecb218c52` | **Annual Festival** | `b46a0dd815a945c7bd56ab61cbc1adf757761917` |
+| 26 | `மயிலிறகு` | `15906fcda69226b4fb42f73a8b242837a831e6c3` | **Peacock Feather** | `4862200f97ea4711fc134384fe70355d311a936a` |
 
-E4 review result: T0–T5 **4/4 PASS**; T2 material corrections **3**; additional T3 correction **1**; T4 body corrections **0**; unresolved defects **0**. `LEXICON.md` contains **117** decisions through Article 22.
-
-## Pending source matrix — Articles 23–26
-
-| # | Tamil title | Tamil file | Scans | Printed pp. | Frozen blob |
-|---:|---|---|---:|---:|---|
-| 23 | `சேவல் சண்டை` | `articles/23-seval-sandai.md` | 115–122 | 114–121 | `f489330920217021f2e3258ec7ddf8f260b171be` |
-| 24 | `மடல்` | `articles/24-madal.md` | 123–128 | 122–127 | `9f8560b39ccbd6055f70398111e048b4ac49a9f3` |
-| 25 | `ஆண்டு விழா` | `articles/25-aandu-vizha.md` | 129–135 | 128–134 | `3e10a5db4c9726dc19113cb8375d6c6ecb218c52` |
-| 26 | `மயிலிறகு` | `articles/26-mayiliragu.md` | 136–145 | 135–144 | `15906fcda69226b4fb42f73a8b242837a831e6c3` |
-
-Articles 1–22 remain verified under their recorded final blobs in the English tracker/review ledger.
+E5 result: T0–T5 **4/4 PASS**; T2 material corrections **6**, all Article 26; T3 additional corrections **0**; T4 source-restraint corrections **2**, both Article 26; unresolved defects **0**. Source-boundary comments passed **8/8, 6/6, 7/7, 10/10**. `LEXICON.md` contains **153** decisions through Article 26. Full provenance is in `translations/en/TRANSLATION_REVIEW.md`.
 
 ## Phase sequence
 
-- E0–E4 — **COMPLETE / PASS**
-- E5 Articles 23–26 — **NEXT**
-- E6 publication-wide consistency — pending
+- E0–E5 — **COMPLETE / PASS**
+- E6 publication-wide consistency — **NEXT**
 - E7 release closeout — pending
 
 ## Exact next activity
 
-**E5 — Articles 23–26 (`சேவல் சண்டை`, `மடல்`, `ஆண்டு விழா`, `மயிலிறகு`).** Fetch each from live `main`, match its frozen blob before T0, then take each independently through **T0→T5**. After all 26 reach T5, run E6 publication-wide consistency; do not modify frozen Tamil.
+**E6 — publication-wide English consistency review.** Review all 26 verified English articles together against `LEXICON.md` and `ESSAY_TRANSLATION_GUIDE.md`: recurring names and epithets, title style, Tamil cultural/political vocabulary, quoted material, source-specific transliterations, source-page comments, tone/directness and accidental cross-article smoothing. Record every correction and final blob change. Do not modify frozen Tamil and do not declare English release complete before E7.
