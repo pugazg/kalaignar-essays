@@ -18,7 +18,7 @@ transcription_method: "direct visual comparison with source scan"
 
 கயற்கண்ணி - நப்பின்னை! சங்கத் தமிழ்
 முழங்குகின்ற தமிழக்கத்துச் சோலையிலே இரு
-மயில்கள்! இசைக் குயில்கள்! முத்தவள
+மயில்கள்! இசைக் குயில்கள்! முத்தவள்
 முத்தெடுத்துக் கோத்தது போல சிரிப்புக்காரி - முழு
 நிலவு காட்டுகின்ற முகத்துக்காரி! மொண்டு தரும்
 சுவையனைத்தும் உண்டு களிப்பதற்கு உலகினிலே
@@ -37,7 +37,7 @@ transcription_method: "direct visual comparison with source scan"
 ## P2 audit note
 
 - visible printed folio **71**, illustrated heading and every opening line were directly verified against the supplied 2006 scan.
-- source-visible forms retained include `கயற்கண்ணி`, `நப்பின்னை`, `தமிழக்கத்துச்`, `இசைக் குயில்கள்`, `முத்தவள`, `முத்தெடுத்துக்`, `மொண்டு தரும்`, and `பவழ இதழ்`.
+- source-visible forms retained include `கயற்கண்ணி`, `நப்பின்னை`, `தமிழக்கத்துச்`, `இசைக் குயில்கள்`, `முத்தவள்`, `முத்தெடுத்துக்`, `மொண்டு தரும்`, and `பவழ இதழ்`.
 - Unit 17 `தோழி` opens here and continues through scan 77 / printed p.76.
 
 <!-- மூல ஸ்கேன் பக்கம்: 72 -->
