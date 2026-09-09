@@ -9,7 +9,7 @@ Branch: `main`
 
 Publications **1–9 are RELEASE COMPLETE / FROZEN**.
 
-Active Publication **10 — `மீசை முளைத்த வயதில்` — P0, P1, P2, P3 and P4 COMPLETE / PASS. P4 closed at 146 / 146 physical scans strict-reviewed, with 198 source corrections, 198 / 198 propagated, 20 distinct P3 assemblies corrected/re-synchronized during P4, and 0 unresolved fidelity discrepancies. P5 is NOT STARTED.**
+Active Publication **10 — `மீசை முளைத்த வயதில்` — P0, P1, P2, P3 and P4 COMPLETE / PASS. P4 closed at 146 / 146 physical scans strict-reviewed, with 207 source corrections, 207 / 207 propagated, 20 distinct P3 assemblies corrected/re-synchronized during P4, and 0 unresolved fidelity discrepancies. P5 is NOT STARTED.**
 
 Source PDFs are never committed.
 
@@ -92,8 +92,8 @@ Final state:
 
 - physical scans strict-reviewed: **146 / 146**;
 - contiguous strict-reviewed range: **1–146**;
-- cumulative source corrections: **198**;
-- corrections propagated to canonical records: **198 / 198**;
+- cumulative source corrections: **207**;
+- corrections propagated to canonical records: **207 / 207**;
 - P3 assemblies corrected/re-synchronized during P4: **20 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans: **0**;
@@ -115,18 +115,22 @@ Completed P4 batch correction totals:
 - 111–120: **11**;
 - 121–130: **8**;
 - 131–140: **10**;
-- 141–146: **0**.
+- 141–146: **9**.
 
-Detailed correction provenance through correction **157** is preserved at `VISUAL_TEXT_FIDELITY_REVIEW_THROUGH_100.md`; corrections **158–198** and final closure are recorded in `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+Detailed correction provenance through correction **157** is preserved at `VISUAL_TEXT_FIDELITY_REVIEW_THROUGH_100.md`; corrections **158–207** and final closure are recorded in `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 ### Final P4-141-146 findings
 
 Scans **141–145 / pp.140–144** finish `மயிலிறகு`; scan **146** is the independent illustrated back-cover / promotional-text witness.
 
-- all six scans passed strict direct-source review;
-- textual corrections: **0**;
+- all six scans passed strict direct-source review after reconciliation;
+- textual corrections: **9**;
+- scan 142: three source-visible spaces before question marks — `இதுதானோ ?`, `துணிவுடையான் ?`, `தலைமைச் சிங்கம் ?`;
+- scan 143: `விளக்கமென்ன?”` → **`விளக்கமென்ன ?”`**;
+- scan 144: three source-visible spaces before question marks — `இவன் ?`, `வீரன் ?`, `வருகிறானோ ?`;
+- scan 146: ASCII title quotes → **`‘மீசை முளைத்த வயதில்’`** and `வாசித்தாலும்` → **`வாசித்தலும்`**;
 - unresolved fidelity discrepancies: **0**;
-- `articles/26-mayiliragu.md` required no final-batch change and remains synchronized;
+- the seven main-work corrections were propagated to `articles/26-mayiliragu.md`; because it was already in the corrected set, the distinct assembly total remains **20**;
 - scan 145 retains the printed final bullet closing `மயிலிறகு`;
 - scan 146 remains outside the article assembly;
 - source-title, scan-span, printed-page mapping and unit boundaries remain unchanged.
@@ -155,7 +159,7 @@ When the user says proceed/continue:
    - canonical main-work pages represented **128 / 128**;
    - source scan coverage **18–145 contiguous** and scan 146 separate back-cover witness;
    - P4 strict-review coverage **146 / 146**;
-   - P4 corrections **198 / 198 propagated**;
+   - P4 corrections **207 / 207 propagated**;
    - unresolved printed-text / fidelity discrepancies **0 / 0**;
    - blocked / needs-review records **0 / 0**;
    - source titles, scan spans, printed-page mapping and boundaries unchanged after P4;
