@@ -20,19 +20,19 @@ transcription_method: "direct visual comparison with source scan"
 
 பேதங்களில்லை - பிரிவுகளில்லை - பிளவுகளில்லை - வளைவுகளில்லை - பசி இல்லை - பயமுமில்லை - அதோடு ஒன்று குறைந்தாய்!
 
-உனக்குக் கடவுள் என்ற எண்ணமுமில்லை. நீயும் நாத்திகனா, நல்ல மனத்திற்கு குழந்தை மனம் என்று பெயர். ஆகையால் நாத்திகர் நல்ல மனம் படைத்தவர்.
+உனக்குக் கடவுள் என்ற எண்ணமுமில்லை. நீயும் நாத்திகவாதி. நல்ல மனத்திற்கு குழந்தை மனம் என்று பெயர். ஆகையால் நாத்திகர் நல்ல மனம் படைத்தவர்.
 
 ### நல்ல மனம் படைத்தவர் நாத்திகர்
 
-“அல்ல, அல்ல! நல்லது கெட்டது தெரியாத் குழந்தை - அறிவு தெளியாப் பருவம் - அரவத்தோடு விளையாடும் காலம் - ஆகையால் ஆண்டவன் சிந்தனை கிடையாது. வளர்ந்த மனிதன், நல்லது கெட்டது புரிந்தவன். பாம்பை நஞ்சென அறிந்தவன். அவன் சிந்தனைக்குக் கடவுள் தெரிகிறார்” என்று வாதிடுவோரை நானறிவேன் கண்ணே!
+“அல்ல, அல்ல! நல்லது கெட்டது தெரியாத் குழந்தை - அறிவு தெளியாப் பருவம் - அரவத்தோடு விளையாடும் காலம் - ஆகையால் ஆண்டவன் சிந்தனை கிடையாது. வளர்ந்த மனிதன், நல்லது கெட்டது புரிந்தவன், பாம்பை நஞ்சென அறிந்தவன், அவன் சிந்தனைக்குக் கடவுள் தெரிகிறார்” என்று வாதிடுவோரை நானறிவேன் கண்ணே!
 
-நீ நாகத்தோடு விளையாடுவது போலத்தான் பெரியவர்கள் நாசத்தோடு விளையாடுகிறார்கள் - அவர்கள் ஆண்டவனை வணங்குகிறார்கள், வாழ்த்துகிறார்கள், ஏத்திப் பாடுகிறார்கள்! அவர்கள் அறிவு தெளிந்தவர்கள் என்றா அர்த்தம்!
+நீ நாகத்தோடு விளையாடுவது போலத்தான் சில பெரியவர்கள் நாசத்தோடு விளையாடுகிறார்கள் - அவர்கள் ஆண்டவனை வணங்குகிறார்கள், வாழ்த்துகிறார்கள், ஏத்திப் பாடுகிறார்கள்! அவர்கள் அறிவு தெளிந்தவர்கள் என்றா அர்த்தம்? பாம்பொடு விளையாடும் பண்பில் நீயும் அவர்களும் ஒன்று தானே குழந்தாய்!
 
 பாம்பு - ‘பாம்பு’
 
 பாம்பு - பாலப் பருவத்தில்!
 
-பாபம் - வளர்ந்த மனிதனுக்கு!
+பாபம் - வளர்ந்த மனிதனுக்கு
 
 ## அச்சு அல்லாத / physical-copy marks
 
@@ -42,8 +42,19 @@ transcription_method: "direct visual comparison with source scan"
 ## P2 audit note
 
 - visible printed folio **43**, running header, scan-43→44 continuation, source subheading, all prose and the final three-line `பாம்பு` / `பாபம்` wordplay were directly checked against the supplied 2006 scan.
-- source-visible opening forms retained include `பேதங்களில்லை`, `பிரிவுகளில்லை`, `பிளவுகளில்லை`, `வளைவுகளில்லை`, `நீயும் நாத்திகனா`, and `நாத்திகர் நல்ல மனம் படைத்தவர்`.
-- the older `முத்தாரம்` witness was used only to corroborate difficult glyphs in the compact final wordplay; the supplied 2006 pixels determined the retained wording and punctuation.
-- Unit 9 `தளிர்` continues to scan 45 / printed p.44, whose close is already verified.
+- source-visible readings now retain `நீயும் நாத்திகவாதி.`, comma-separated `புரிந்தவன், பாம்பை ... அறிந்தவன்,`, the qualifier `சில`, and the complete sentence `பாம்பொடு விளையாடும் பண்பில் நீயும் அவர்களும் ஒன்று தானே குழந்தாய்!`.
+- the final source line is `பாபம் - வளர்ந்த மனிதனுக்கு` with no terminal exclamation mark.
+- Unit 9 `தளிர்` continues to scan 45 / printed p.44.
+
+## P4 strict-fidelity note
+
+- strict visual review rechecked scan 44 word-by-word and punctuation-by-punctuation against the controlling 2006 pixels.
+- corrected `நீயும் நாத்திகனா,` → **`நீயும் நாத்திகவாதி.`**.
+- corrected `புரிந்தவன்.` → **`புரிந்தவன்,`**.
+- corrected `அறிந்தவன்.` → **`அறிந்தவன்,`**.
+- restored source qualifier **`சில`** before `பெரியவர்கள்`.
+- restored the previously missing source sentence **`பாம்பொடு விளையாடும் பண்பில் நீயும் அவர்களும் ஒன்று தானே குழந்தாய்!`**.
+- corrected `பாபம் - வளர்ந்த மனிதனுக்கு!` → **`பாபம் - வளர்ந்த மனிதனுக்கு`**.
+- unresolved fidelity discrepancies after correction: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 44 -->
