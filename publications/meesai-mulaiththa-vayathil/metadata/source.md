@@ -58,11 +58,11 @@ Formal validation: `P3_ASSEMBLY_AUDIT.md`.
 
 Running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- physical scans strict-reviewed: **90 / 146**;
-- contiguous strict-reviewed range: **1–90**;
-- cumulative corrections: **142**;
-- corrections propagated to canonical page records: **142 / 142**;
-- P3 assemblies corrected/re-synchronized: **13 distinct assemblies**;
+- physical scans strict-reviewed: **100 / 146**;
+- contiguous strict-reviewed range: **1–100**;
+- cumulative corrections: **157**;
+- corrections propagated to canonical page records: **157 / 157**;
+- P3 assemblies corrected/re-synchronized: **15 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
@@ -76,13 +76,16 @@ P4 batch results:
 - scans 51–60: **2 corrections**;
 - scans 61–70: **2 corrections**;
 - scans 71–80: **5 corrections**;
-- scans 81–90: **3 corrections**.
+- scans 81–90: **3 corrections**;
+- scans 91–100: **15 corrections**.
 
 P4-061-070 produced two punctuation corrections on scan 69 / `தேனலைகள்`, both propagated to `articles/16-thenalaigal.md`.
 
 P4-071-080 produced five corrections across `தோழி` and `மருதாணி`, propagated to `articles/17-thozhi.md` and `articles/18-maruthaani.md`.
 
 P4-081-090 finished `மருதாணி` and fully reviewed `அருவி`. Three direct-source corrections were required, all in `மருதாணி`: scan 82 `இரவாய் சுருங்குவதெப்போதென` → `இரவாய்ச் சுருங்குவதெப்போதென`; scan 83 `கலையுமோ?...` → `கலையுமோ ?...` and `மருதாணி பெரிதோ?...` → `மருதாணி பெரிதோ ?...`. These were propagated to `articles/18-maruthaani.md`. `அருவி` scans 85–90 passed unchanged. No source-title, scan-span, printed-page mapping or unit-boundary change resulted.
+
+P4-091-100 fully reviewed `முறம்` and the first five pages of `யாழ்`. Fifteen direct-source corrections were applied to the canonical page records and propagated to `articles/20-muram.md` and `articles/21-yaazh.md`; scans 92, 96 and 100 required no textual correction. No source-title, scan-span, printed-page mapping or unit-boundary change resulted.
 
 ## Physical-copy / scan condition
 
@@ -98,13 +101,13 @@ P4-081-090 finished `மருதாணி` and fully reviewed `அருவி`
 - P1 — **COMPLETE / PASS**
 - P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**
-- P4 — **IN PROGRESS — 90 / 146 strict-reviewed**
+- P4 — **IN PROGRESS — 100 / 146 strict-reviewed**
 - P5 — **NOT STARTED**
 - English translation — **BLOCKED until Tamil P5 freeze**
 - active P4 blockers — **0**
 
 ## Exact next activity
 
-**P4 scans 91–100.** Review all of `முறம்` on scans 91–95 / pp.90–94 and the opening five pages of `யாழ்` on scans 96–100 / pp.95–99; `யாழ்` continues through scan 102. Use only the supplied 2006 pixels as authority and propagate every proven main-work correction into the dependent P3 assembly before advancing the running report.
+**P4 scans 101–110.** Finish `யாழ்` on scans 101–102 / pp.100–101 and begin `சிற்பி` on scans 103–110 / pp.102–109; `சிற்பி` continues beyond scan 110. Use only the supplied 2006 pixels as authority and propagate every proven main-work correction into the dependent P3 assembly before advancing the running report.
 
 Do not begin English translation.
