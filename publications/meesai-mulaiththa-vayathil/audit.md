@@ -48,9 +48,9 @@ Formal gate: `P3_ASSEMBLY_AUDIT.md`.
 
 ## P4 — final strict visual text-fidelity pass
 
-**RESULT: IN PROGRESS — 140 / 146 PHYSICAL SCANS STRICT-REVIEWED**
+**RESULT: COMPLETE / PASS — 146 / 146 PHYSICAL SCANS STRICT-REVIEWED**
 
-Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+Formal gate: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 ### Completed P4 batches
 
@@ -70,34 +70,26 @@ Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 | P4-111-120 | PASS | 11 | 0 |
 | P4-121-130 | PASS | 8 | 0 |
 | P4-131-140 | PASS | 10 | 0 |
+| P4-141-146 | PASS | 0 | 0 |
 
-### P4-131-140 findings
+### Final batch P4-141-146
 
-Scans 131–135 / pp.130–134 finish `ஆண்டு விழா`; scans 136–140 / pp.135–139 begin `மயிலிறகு`.
+Scans **141–145 / pp.140–144** finish `மயிலிறகு`; scan **146** is the illustrated back-cover / promotional-text witness.
 
-Ten direct-source corrections were required, all preserving source-visible spaces before question marks:
+All six canonical records matched the controlling pixels without textual correction. `articles/26-mayiliragu.md` required no final-batch change and remains synchronized. Scan 145 retains the printed unit-closing bullet; scan 146 remains outside the article assembly.
 
-- scan 131: `என்ன கண்ணே?”` → **`என்ன கண்ணே ?”`**; `உலகு - போவோமா?”` → **`உலகு - போவோமா ?”`**;
-- scan 132: `மறுப்பு தானோ?”` → **`மறுப்பு தானோ ?”`**; `ஆளும் உண்டோ? ஆயின் ஒன்று -` → **`ஆளும் உண்டோ ? ஆயின் ஒன்று -`**;
-- scan 133: `பொருத்தமுண்டா? அதைப்` → **`பொருத்தமுண்டா ? அதைப்`**;
-- scan 134: `பரிசு சிறப்பானதோ? செப்பிடுவாய்!”` → **`பரிசு சிறப்பானதோ ? செப்பிடுவாய்!”`**; `விட்டதோ உனக்கு?”` → **`விட்டதோ உனக்கு ?”`**;
-- scan 139: `எங்கப்பா செல்வது?”` → **`எங்கப்பா செல்வது ?”`**;
-- scan 140: `“எங்கோ செல்; எமக்கென்ன?”` → **`“எங்கோ செல்; எமக்கென்ன ?”`**; `“எனத்தான் ஒரு மாதிரி இருக்கிறீர்?”` → **`“எனத்தான் ஒரு மாதிரி இருக்கிறீர் ?”`**.
+### Final P4 totals
 
-Scans 135–138 required no textual correction. All ten corrections were applied to canonical page records and propagated to `articles/25-aandu-vizha.md` and `articles/26-mayiliragu.md`. `ஆண்டு விழா` is fully P4-reconciled; `மயிலிறகு` remains open through scan 145. No source title, page span, printed folio mapping or unit boundary changed.
-
-Current P4 totals:
-
-- strict-reviewed physical scans: **140 / 146**;
-- contiguous strict-reviewed range: **1–140**;
+- strict-reviewed physical scans: **146 / 146**;
+- contiguous strict-reviewed range: **1–146**;
 - cumulative corrections: **198**;
 - corrections propagated to canonical page records: **198 / 198**;
-- P3 assemblies corrected/re-synchronized: **20 distinct assemblies**;
+- P3 assemblies corrected/re-synchronized during P4: **20 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
-- blocked / needs-review scans in reviewed range: **0**;
+- blocked / needs-review scans: **0**;
 - mapping / boundary changes: **0**.
 
-P4 remains OPEN. Next batch: **scans 141–146**.
+P4 is **CLOSED / PASS**.
 
 ## Gate tracker
 
@@ -107,14 +99,12 @@ P4 remains OPEN. Next batch: **scans 141–146**.
 | P1 | **COMPLETE / PASS** |
 | P2 | **COMPLETE / PASS — 146 / 146 VERIFIED** |
 | P3 | **COMPLETE / PASS — 26 / 26 assemblies** |
-| P4 | **IN PROGRESS — 140 / 146 strict-reviewed** |
+| P4 | **COMPLETE / PASS — 146 / 146 strict-reviewed** |
 | P5 | **NOT STARTED** |
 | English | **BLOCKED until Tamil P5 freeze** |
 
-Active P4 blockers: **0**.
+Active source/fidelity blockers: **0**.
 
 ## Exact next activity
 
-**P4 scans 141–146.** Scans 141–145 / pp.140–144 finish `மயிலிறகு`; scan 146 is the illustrated back cover / promotional text. Compare every visible word, word boundary and punctuation mark directly with the controlling source, propagate all proven corrections, and close P4 only after the full six-scan remainder reconciles at **146 / 146** with **0 unresolved fidelity discrepancies**.
-
-Do not begin English translation.
+**P5 — Tamil publication completion review / freeze.** Revalidate the completed source layer and strict-fidelity gate as one publication-wide non-regression review, create the formal completion/freeze record, record the frozen Tamil authority, and synchronize all state-bearing trackers before English planning is unblocked.
