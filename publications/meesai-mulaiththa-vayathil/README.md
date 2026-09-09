@@ -50,7 +50,7 @@ Formal gate: `P3_ASSEMBLY_AUDIT.md`.
 
 Formal gate: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-All **146 / 146 physical scans** have now passed the separate strict word-by-word / word-boundary-by-word-boundary / punctuation-by-punctuation review.
+All **146 / 146 physical scans** passed the separate strict word-by-word / word-boundary-by-word-boundary / punctuation-by-punctuation review.
 
 | Batch | Corrections |
 |---|---:|
@@ -82,6 +82,22 @@ Final P4 totals:
 
 P4-141-146 finished `மயிலிறகு` on scans 141–145 / pp.140–144 and separately reviewed scan 146 back-cover promotional text. Nine source-visible corrections were required: three question-mark spacing corrections on scan 142, one on scan 143, three on scan 144, plus two independent back-cover corrections on scan 146 (`‘மீசை முளைத்த வயதில்’` quotation punctuation and `வாசித்தலும்`). The seven main-work corrections were propagated into `articles/26-mayiliragu.md`; scans 141 and 145 required no textual correction.
 
+## P5 Tamil publication freeze — COMPLETE / PASS
+
+Formal gate: `PUBLICATION_COMPLETION_REVIEW.md`.
+
+The publication-wide P0–P4 non-regression review passed with **0 blockers**. The Tamil archival layer is frozen for downstream translation provenance.
+
+Frozen content authorities:
+
+- canonical `pages/` tree: **`f7930b3696668cdbc2d692a284b49586d09a3372`**;
+- strict-reviewed Tamil `articles/` tree: **`b7593357dc5ba101362c7a303881bea4e63e9b68`**;
+- P3 audit blob: **`0c2045346b879c85b6e2c46150a4aab686323016`**;
+- final P4 report blob: **`2e085c2167c9dea409a13be4a7c980234e5a01df`**;
+- unresolved / blocked records at freeze: **0 / 0**.
+
+Tracker-only changes after P5 do not alter these frozen Tamil content authorities. Any future Tamil reopening requires new direct controlling-source evidence and explicit provenance.
+
 ## Source identity
 
 - source ID: `TVA_BOK_0065746`;
@@ -97,10 +113,10 @@ P4-141-146 finished `மயிலிறகு` on scans 141–145 / pp.140–144
 - P2: **COMPLETE / PASS — 146 / 146 VERIFIED**
 - P3: **COMPLETE / PASS — 26 / 26 assemblies**
 - P4: **COMPLETE / PASS — 146 / 146 strict-reviewed**
-- P5: **NOT STARTED**
-- English: **BLOCKED until Tamil P5 freeze**
+- P5: **COMPLETE / PASS — TAMIL FROZEN**
+- English / E0 planning: **UNBLOCKED / NOT STARTED**
 - active source/fidelity blockers: **0**
 
 ## Exact next activity
 
-**P5 — Tamil publication completion review / freeze.** Revalidate P0–P4 as one publication-wide non-regression gate, create the formal completion/freeze record, record the frozen Tamil authority, and synchronize all state-bearing trackers. English planning remains blocked until P5 passes.
+**English E0 planning / translation-workspace bootstrap.** Read `ESSAY_TRANSLATION_GUIDE.md`, use the frozen strict-reviewed `articles/` tree as Tamil authority, establish the publication translation plan / lexicon / review workspace, and do not alter the frozen Tamil layer. Actual translation has not begun during P5.
