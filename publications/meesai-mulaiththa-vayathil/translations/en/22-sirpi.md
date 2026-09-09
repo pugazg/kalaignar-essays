@@ -8,7 +8,7 @@ source_tamil_blob_sha: "9319a924fc172d0b80107c8c4c18157ffee67b30"
 source_scan_pages: "103-114"
 source_printed_pages: "102-113"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -91,7 +91,7 @@ A new light in the sculptor's eyes! Lines of doubt on his forehead! Pulses of ea
 
 “What! Did the statue look at you?” The tremor on the sculptor's lips did not cease.
 
-“Yes. That look pulled me. It pursued me without leaving me until fire rose in my heart. Only then did I throw the stone!”
+“Yes. That look pulled me. It pursued me without leaving me until you rose in my heart. Only then did I throw the stone!”
 
 “You call it a look of love!... Does my Chera not have a heroic gaze, amma?”
 
