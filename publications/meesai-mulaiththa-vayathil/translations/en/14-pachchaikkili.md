@@ -27,8 +27,8 @@ Round head! Red beak!
 <!-- Tamil source: scan 60 / printed 59 -->
 
 Little wings! Long tail!  
-Did the cheeky parrot speak amiss?  
-Asked by the sky, you refuse to bless.  
+O cheek-parrot, was what I said wrong?  
+Asked to praise the sky, you refuse.  
 You will not praise one who asks for praise.  
 I know the reason, little parrot!  
 Because they put you in a cage,  
