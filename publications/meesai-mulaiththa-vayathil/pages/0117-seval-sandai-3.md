@@ -38,7 +38,7 @@ transcription_method: "direct visual comparison with source scan"
 கவலையில்லை! நான் சேவல்தன்னை வாங்கிக்
 கொண்டு வருகின்ற வழியினிலே மடக்கிக்
 கொண்டு, ‘என்னப்பா இளவெட்டு! சண்டைக்குப்
-பழக்குதற்குக் கோழி வாங்கிப் போகின்றாயோ?
+பழக்குதற்குக் கோழி வாங்கிப் போகின்றாயோ ?
 எனக் கேட்டார். “இல்லை”யென்றேன்; ‘என்னதான்
 பழகினாலும் என்னை வெல்ல ஈரேழு லோகத்திலும்
 ஆள் இல்லை! வளர்த்துப் பார் உன் சேவலையும்!
@@ -58,5 +58,6 @@ transcription_method: "direct visual comparison with source scan"
 - visible printed folio **116**, running header and every visible printed line were directly verified against the supplied 2006 scan.
 - scan 116→117 directly continues `பெண் குலத்தைப் புகழ்வதற்கும்` → `ஆண் மயில் தான் தேவைப்படும்`.
 - source-visible forms retained include `கோபந்தன்னை`, `காட்சிதனை`, `சேவல்தன்னை`, `இளவெட்டு`, `ஈரேழு லோகத்திலும்`, and `பேசலுற்றேன்;`.
+- P4 strict visual review corrected `போகின்றாயோ?` → source-visible `போகின்றாயோ ?`; no mapping or unit-boundary change resulted.
 
 <!-- மூல ஸ்கேன் பக்கம்: 117 -->
