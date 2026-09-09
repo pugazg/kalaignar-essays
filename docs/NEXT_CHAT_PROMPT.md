@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / English E5 Articles 23–26
+# NEXT CHAT PROMPT — மீசை முளைத்த வயதில் / English E6 publication-wide consistency
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -18,34 +18,38 @@ Publication 10:
 - P4 corrections — **207/207 propagated**;
 - frozen `pages/` tree — `f7930b3696668cdbc2d692a284b49586d09a3372`;
 - frozen `articles/` tree — `b7593357dc5ba101362c7a303881bea4e63e9b68`;
-- English E0–E4 — **COMPLETE / PASS**;
-- Articles **1–22** — **T0–T5 VERIFIED**;
-- English T0/T1/T2/T3/T4/T5 — **22/26** each;
-- English body files — **22/26**;
+- English E0–E5 — **COMPLETE / PASS**;
+- Articles **1–26** — **T0–T5 VERIFIED**;
+- English T0/T1/T2/T3/T4/T5 — **26/26** each;
+- English body files — **26/26**;
 - unresolved Tamil/source blockers — **0**;
 - unresolved English blockers — **0**;
-- E5 Articles 23–26 — **NEXT**.
+- `LEXICON.md` — **153** decisions through Article 26;
+- E6 publication-wide consistency — **NEXT**;
+- E7 release closeout — pending.
 
-## E4 closure
+## E5 closure
 
 | # | Tamil | English | Verified blob |
 |---:|---|---|---|
-| 19 | `அருவி` | **Waterfall** | `ea8fc9a11f6420c95dcfbf64e2e31d1af18d9275` |
-| 20 | `முறம்` | **Winnowing Tray** | `c8989508e445b99f396e9da0b844cdfa65d46efc` |
-| 21 | `யாழ்` | **Yaazh** | `780c6b09d7a008eb197bdf5feacd4f0975b7ca8a` |
-| 22 | `சிற்பி` | **The Sculptor** | `84a175942d395689c4c517eff69300adedffe740` |
+| 23 | `சேவல் சண்டை` | **Cockfight** | `fbede1e68f63d9eb0ee369dd56ae668dd7c617af` |
+| 24 | `மடல்` | **Letter** | `9d66aa7a24d1c8725b7c9ae914eadca978a2530c` |
+| 25 | `ஆண்டு விழா` | **Annual Festival** | `b46a0dd815a945c7bd56ab61cbc1adf757761917` |
+| 26 | `மயிலிறகு` | **Peacock Feather** | `4862200f97ea4711fc134384fe70355d311a936a` |
 
-E4 T2 corrections **3**; T3 additional correction **1**; T4 body corrections **0**; blockers **0**. `LEXICON.md` records **117** decisions through Article 22.
+E5 T2 corrections **6**, all Article 26; T3 additional corrections **0**; T4 source-restraint corrections **2**, both Article 26; blockers **0**. Source comments passed **8/8, 6/6, 7/7, 10/10**.
 
 Do not regress:
 
-- Article 20 source-visible `கிளி கொண்டு` is frozen; English contextual rendering preserves its fear sense.
-- Article 20 `புளி/புலி` tamarind/tiger wordplay remains explicit.
-- Article 21 `யாழ்` remains **Yaazh**, `கானல் வரி` remains `Kaanal Vari`, `மாபகம்` remains `maapakam` without unsupported gloss.
-- Article 21 `தொட்டிமுத்தான்` must retain both **touch and kiss**.
-- Article 22 `என் நெஞ்சில் நீ கிளம்பும்` = **`until you rose in my heart`**.
-- Article 22 `சேரனும் நமது இனத்தவன்` = **`the Chera too is of our race`**.
-- Article 22 source-visible `சிற்பியின் விழாவில்` is not silently repaired in Tamil; context is rendered as `in the sculptor's gaze` and documented.
+- `கண்புடை பட்டு` remains conservative `kanpudai-pattu`; no outside expansion.
+- Article 26 `இடையிலாப் பெண்டிர்` = **`Waistless women`**.
+- Article 26 `முறுமிவால் மோகத்தால்` = **`Murmuring with desire`**.
+- Article 26 `மலர்ப்பதி` = **`Malarppathi`**.
+- Article 26 `காலை வந்தாள். காதல் உண்டார்.` = **`Morning came. They feasted on love.`**
+- Article 26 `உயிர் மதியா ஒளி விளக்கே` = **`O lamp of light who counted life as nothing!`**.
+- Article 24 performance labels remain source-bearing transliterations; its quoted Madhavi/Silambu passages are translated only from frozen Tamil.
+- Article 25 preserves `எரி/எலி`, `முத்தாரம்/முத்த ஆரம்`, `dosham`, `poison-test`, and `war-drum` distinctions.
+- Article 26 `யாயும் ஞாயும்...` quotation is translated only from frozen Tamil; unfamiliar source labels such as `old kinnaara`, `old odhiya tree`, `aiyappasi`, `sakkais` are not externally expanded.
 
 ## Mandatory startup
 
@@ -56,24 +60,18 @@ Do not regress:
 5. `translations/en/README.md`;
 6. `translations/en/LEXICON.md`;
 7. `translations/en/TRANSLATION_REVIEW.md`;
-8. fetch every active Tamil article fresh before T0.
+8. all 26 verified English article files as the E6 review corpus.
 
-## E5 source matrix
-
-| # | Tamil title | Tamil file | Scans / pp. | Frozen blob |
-|---:|---|---|---|---|
-| 23 | `சேவல் சண்டை` | `articles/23-seval-sandai.md` | 115–122 / 114–121 | `f489330920217021f2e3258ec7ddf8f260b171be` |
-| 24 | `மடல்` | `articles/24-madal.md` | 123–128 / 122–127 | `9f8560b39ccbd6055f70398111e048b4ac49a9f3` |
-| 25 | `ஆண்டு விழா` | `articles/25-aandu-vizha.md` | 129–135 / 128–134 | `3e10a5db4c9726dc19113cb8375d6c6ecb218c52` |
-| 26 | `மயிலிறகு` | `articles/26-mayiliragu.md` | 136–145 / 135–144 | `15906fcda69226b4fb42f73a8b242837a831e6c3` |
-
-## Exact next activity — E5 Articles 23–26
+## Exact next activity — E6 publication-wide English consistency
 
 1. Fetch live `main` first.
-2. Fetch all four Tamil assemblies fresh; T0 passes only if each live blob equals the matrix above.
-3. Process Articles **23→26** in source order.
-4. Each independently passes T0 source prerequisite, T1 complete close draft, T2 bilingual fidelity, T3 Kalaignar voice, T4 terminology/quotation/source audit, and T5 final verification.
-5. Update the living lexicon and permanent review ledger; do not import outside identifications or translations into the body.
-6. Do not alter frozen Tamil.
-7. Synchronize all translation/publication/root trackers after E5.
-8. If all four pass, durable English state becomes **26/26 T5 verified**. Do **not** declare release complete yet; proceed next to **E6 publication-wide English consistency review**, then E7 release closeout.
+2. Confirm all **26/26** English articles remain `translation_status: verified` and retain their frozen Tamil source blob metadata.
+3. Review all 26 in source order as **one publication**, not as isolated batches.
+4. Audit recurring names/epithets, `Aththaan`, ideological/cultural terms, title style, quotation conventions, source-specific transliterations, source-page comments, dialogue/verse handling and Kalaignar's directness.
+5. Compare every recurring/difficult term against the **153-entry living lexicon**; look specifically for accidental cross-article smoothing or inconsistent variants.
+6. Verify all source-page boundary comments remain present and ordered and no quoted passage has acquired outside wording.
+7. Apply only source/consistency-supported English corrections; do not modify frozen Tamil.
+8. Record every E6 old→new correction and changed final English blob in `TRANSLATION_REVIEW.md`; update `LEXICON.md` if the consistency pass establishes/refines a durable rule.
+9. Synchronize `TRANSLATION_PLAN.md`, English `README.md`, publication `README.md`, `audit.md`, `metadata/source.md`, root `HANDOVER.md`, root `README.md`, and this prompt.
+10. Mark E6 **PASS** only when publication-wide consistency blockers are **0**.
+11. After E6 PASS, **E7 release closeout** is next. Do **not** declare English release complete during E6.
