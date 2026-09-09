@@ -7,10 +7,10 @@ Physical scans: **146**
 
 ## Gate state
 
-**P4 — IN PROGRESS — 20 / 146 physical scans strict-reviewed**
+**P4 — IN PROGRESS — 30 / 146 physical scans strict-reviewed**
 
-Contiguous strict-reviewed range: **scans 1–20**.  
-Next strict-review batch: **scans 21–30**.
+Contiguous strict-reviewed range: **scans 1–30**.  
+Next strict-review batch: **scans 31–40**.
 
 P4 follows `ESSAY_PROCESSING_GUIDE.md` section 12: every physical scan is re-inspected directly, word-by-word and punctuation-by-punctuation, against the canonical page record. Source pixels remain authority; context, OCR and secondary editions are not authority.
 
@@ -18,108 +18,139 @@ P4 follows `ESSAY_PROCESSING_GUIDE.md` section 12: every physical scan is re-ins
 
 **RESULT: PASS after corrective strict review — 10 / 10 scans; 2 corrections; 0 unresolved fidelity discrepancies.**
 
-| Scan | Section | Result | P4 action |
-|---:|---|---|---|
-| 1 | front cover | PASS | title, author, printed design and later accession-label separation rechecked |
-| 2 | title page | PASS | title, author, publisher, portrait/design and library-stamp separation rechecked |
-| 3 | imprint | PASS | edition/price/imprint witnesses and stamp-obscured region rechecked; obscured characters remain explicitly unreconstructed |
-| 4 | `என்னுரை` 1/3 | PASS | prose, verse, punctuation and continuation rechecked |
-| 5 | `என்னுரை` 2/3 | PASS after correction | `கூறிய` → source-visible `கூரிய` |
-| 6 | `என்னுரை` 3/3 | PASS | prose, punctuation, source quotation/continuation and facsimile date rechecked |
-| 7 | `முன்னுரை` 1/10 | PASS | heading, prose, punctuation and paragraph boundaries rechecked |
-| 8 | `முன்னுரை` 2/10 | PASS after correction | `மூத்தோர்` → source-visible `முதியோர்` |
-| 9 | `முன்னுரை` 3/10 | PASS | verse/prose wording, punctuation and continuation rechecked |
-| 10 | `முன்னுரை` 4/10 | PASS | quoted verse, bullet, punctuation and page-end continuation rechecked |
+Corrections:
 
-### Correction provenance — P4-001-010
+1. scan 5 `கூறிய வேல் வாள்` → **`கூரிய வேல் வாள்`**;
+2. scan 8 `மூத்தோர்` → **`முதியோர்`**.
 
-1. **Scan 5 — `என்னுரை`**  
-   Old canonical reading: `கூறிய வேல் வாள்`  
-   Source-visible reading: **`கூரிய வேல் வாள்`**  
-   Action: corrected `pages/0005-ennurai-2.md`.  
-   Dependency impact: front matter only; no P3 main-work article assembly is affected.
-
-2. **Scan 8 — `முன்னுரை`**  
-   Old canonical reading: `அறிவுரையே கவிதை என்றால் மூத்தோர் முதுமொழி போதும்.`  
-   Source-visible reading: **`அறிவுரையே கவிதை என்றால் முதியோர் முதுமொழி போதும்.`**  
-   Action: corrected `pages/0008-munnurai-2.md`.  
-   Dependency impact: front matter only; no P3 main-work article assembly is affected.
-
-Both corrections were determined from the controlling 2006 scan pixels. Neither was inferred from language/context or imported from another witness.
-
-### Scan-3 obscuration status
-
-A later physical-copy library stamp obscures part of the publisher-address line on scan 3. The canonical page record already preserves this as an explicitly obscured source region and does not reconstruct hidden characters. P4 therefore records **no fidelity discrepancy** for that region; the physical limitation remains documented rather than guessed through.
+Scan 3's later library-stamp obscuration remains explicitly unreconstructed.
 
 ## Batch P4-011-020
 
 **RESULT: PASS after corrective strict review — 10 / 10 scans; 4 corrections; 0 unresolved fidelity discrepancies.**
 
-| Scan | Section | Result | P4 action |
-|---:|---|---|---|
-| 11 | `முன்னுரை` 5/10 | PASS | prose, quoted verse, punctuation and page-end continuation rechecked |
-| 12 | `முன்னுரை` 6/10 | PASS after correction | `செயல்படுகிறது.` → source-visible `செய்துவிடுகிறது.` |
-| 13 | `முன்னுரை` 7/10 | PASS after correction | `மறக்கவிடவோ` → source-visible `மறந்துவிடவோ` |
-| 14 | `முன்னுரை` 8/10 | PASS after two corrections | `பின்னும்` → `பின்னுறும்`; `இணைவாய்` → `இணையாய்` |
-| 15 | `முன்னுரை` 9/10 | PASS | prose and source-visible grammatical form `நாடக ஆசிரியராகவு` rechecked and retained |
-| 16 | `முன்னுரை` 10/10 | PASS | Nannūl quotation, split source forms, punctuation, closing salutation and signature facsimile rechecked |
-| 17 | blank / show-through | PASS | no printed text; reverse-side show-through remains correctly excluded from transcription |
-| 18 | `பிறையே` 1/3 / p.17 | PASS | opening title, illustration, prose, punctuation and printed folio rechecked |
-| 19 | `பிறையே` 2/3 / p.18 | PASS | running head, prose, repeated `நானும் கைதி! / நீயும் கைதி!`, punctuation and continuation rechecked |
-| 20 | `பிறையே` 3/3 / p.19 | PASS | running head, semicolon/hyphen punctuation, final repeated lines and bullet `●` rechecked |
+Corrections:
 
-### Correction provenance — P4-011-020
+3. scan 12 `செயல்படுகிறது.` → **`செய்துவிடுகிறது.`**;
+4. scan 13 `மறக்கவிடவோ` → **`மறந்துவிடவோ`**;
+5. scan 14 `பின்னும்` → **`பின்னுறும்`**;
+6. scan 14 `இணைவாய்` → **`இணையாய்`**.
 
-3. **Scan 12 — `முன்னுரை`**  
-   Old canonical reading: `கலைஞரின் படைப்பாற்றல் எளிமையாய் வெகு இயல்பாய்ச் செயல்படுகிறது.`  
-   Source-visible reading: **`கலைஞரின் படைப்பாற்றல் எளிமையாய் வெகு இயல்பாய்ச் செய்துவிடுகிறது.`**  
-   Action: corrected `pages/0012-munnurai-6.md`.  
-   Dependency impact: front matter only; no P3 main-work article assembly is affected.
+Scans 18–20 / Unit 1 `பிறையே` required no correction; P3 propagation in this batch: **0 files**.
 
-4. **Scan 13 — `முன்னுரை`**  
-   Old canonical reading: `மறக்கவிடவோ`  
-   Source-visible reading: **`மறந்துவிடவோ`**  
-   Action: corrected `pages/0013-munnurai-7.md`.  
-   Dependency impact: front matter only; no P3 main-work article assembly is affected.
+## Batch P4-021-030
 
-5. **Scan 14 — `முன்னுரை`**  
-   Old canonical reading: `இலைகள் சிறகாய்ப் பின்னும் தாழை`  
-   Source-visible reading: **`இலைகள் சிறகாய்ப் பின்னுறும் தாழை`**  
-   Action: corrected `pages/0014-munnurai-8.md`.  
-   Dependency impact: front matter only; no P3 main-work article assembly is affected.
+**RESULT: PASS after corrective strict review — 10 / 10 scans; 35 corrections; 0 unresolved fidelity discrepancies.**
 
-6. **Scan 14 — `முன்னுரை`**  
-   Old canonical reading: `இருமுனையும் இணைவாய் இல்லையென`  
-   Source-visible reading: **`இருமுனையும் இணையாய் இல்லையென`**  
-   Action: corrected `pages/0014-munnurai-8.md`.  
-   Dependency impact: front matter only; no P3 main-work article assembly is affected.
+| Scan | Unit / printed page | Result | Corrections |
+|---:|---|---|---:|
+| 21 | `ஆடிக்காற்று` / p.20 | PASS | 0 |
+| 22 | `ஆடிக்காற்று` / p.21 | PASS after correction | 4 |
+| 23 | `ஆடிக்காற்று` / p.22 | PASS after correction | 1 |
+| 24 | `கருப்புப் பெண்` / p.23 | PASS after correction | 3 |
+| 25 | `கருப்புப் பெண்` / p.24 | PASS after correction | 3 |
+| 26 | `கருப்புப் பெண்` / p.25 | PASS after correction | 7 |
+| 27 | `கருப்புப் பெண்` / p.26 | PASS after correction | 3 |
+| 28 | `கடலே` / p.27 | PASS after correction | 2 |
+| 29 | `கடலே` / p.28 | PASS after correction | 8 |
+| 30 | `கடலே` / p.29 | PASS after correction | 4 |
 
-All four corrections were read directly from the controlling 2006 scan pixels. No contextual modernization or secondary-witness substitution was used.
+### Correction provenance — P4-021-030
 
-### Batch findings
+**Scan 22 — `ஆடிக்காற்று` / p.21**
 
-- `முன்னுரை` closes cleanly on scan **16**; scan **17** remains a genuine blank/show-through physical page.
-- Unit 1 `பிறையே` remains scans **18–20 / printed pp.17–19**.
-- Scans 18–20 were rechecked against the canonical records and `articles/01-piraiye.md`; **no P4 text correction was required** and the P3 assembly remains unchanged.
-- P3 propagation required for this batch: **0 files**.
+7. `செளந்தர்ய மோனிகளாய்க்` → **`செளந்தர்ய மோகினிகளாய்க்`**;
+8. `பிரயோகத்தை விடக்` → **`பிரயோகத்தைவிடக்`**;
+9. `மதில் தாண்டிவந்து மந்திபோல்` → **`மதில் தாண்டி வந்து மந்தி போல்`**;
+10. `ஊகரத் தொனியில் பாடிக் காட்டும்` → **`ஊளைத் தொனியில் பாடிக்காட்டும்`**.
+
+**Scan 23 — `ஆடிக்காற்று` / p.22**
+
+11. `உன்னைப்போல` → **`உன்னைப் போல`**.
+
+**Scan 24 — `கருப்புப் பெண்` / p.23**
+
+12. `கடிந்துகொள்` → **`கடிந்து கொள்`**;
+13. `கோழியே` → **`தோழியே`**;
+14. `முடிவுகட்டிவிட்டேன்.` → **`முடிவுகட்டி விட்டேன்.`**.
+
+**Scan 25 — `கருப்புப் பெண்` / p.24**
+
+15. `நீ அமைதி அலங்காரி, ஆனாலும்` → **`நீ, அமைதி அலங்காரி ஆனாலும்`**;
+16. `அதையும் உன் இருதயம்` → **`அதையும் உன் இதயம்`**;
+17. `கனத்துப் போய்க் கிடக்கிறது.` → **`கனத்துப் போய்க்கிடக்கிறது.`**.
+
+**Scan 26 — `கருப்புப் பெண்` / p.25**
+
+18. `விழுந்துவிடுகிறார்கள்.` → **`விழுந்து விடுகிறார்கள்.`**;
+19. `எதிர்பார்க்கிறாய்.......` → **`எதிர்பார்க்கிறாய்...`**;
+20. `அவர்களெல்லாம்` → **`அவர்களெல்லாரும்`**;
+21. `நலிந்துபோன` → **`நலிந்து போன`**;
+22. `பிடுங்கிக் கொண்டது!` → **`பிடுங்கிக் கொண்டது?`**;
+23. `அப்பப்பா!` → **`அப்பப்பா;`**;
+24. `அவனுக்கு ஒரு கிறுக்கு.` → **`அவனுக்கு ஒரு திருப்தி.`**.
+
+**Scan 27 — `கருப்புப் பெண்` / p.26**
+
+25. `சோகம் தாங்கலையா?` → **`சோகம் தாங்காமலா?`**;
+26. `முடிவு செய்துவிடுவோம்.` → **`முடிவுசெய்து விடுவோம்.`**;
+27. `அடேடே!` → **`அடே!`**.
+
+**Scan 28 — `கடலே` / p.27**
+
+28. `கதிர் விழுங்கி மதி` → **`கதிர் விழுங்கி - மதி`**;
+29. `இன்ப விளையாட்டை` → **`இன்ப விஷமத்தை`**.
+
+**Scan 29 — `கடலே` / p.28**
+
+30. `உயர்பண்` → **`உயர் பண்`**;
+31. `எல்லோருக்குமே` → **`எல்லாருக்குமே`**;
+32. inner `“ஓயாமல் உழைக்கிறேனே பார்”` → **`‘ஓயாமல் உழைக்கிறேனே பார்’`**;
+33. `முத்தம் தந்து, காலையிலே` → **`முத்தம் தந்து காலையிலே`**;
+34. `கால் சோர, குடிசையின்` → **`கால் சோர குடிசையின்`**;
+35. `ஏங்கித்தவிக்கும்` → **`ஏங்கித் தவிக்கும்`**;
+36. `இளஞ்சிட்டு, சிங்காரச் “செம்படச்சி” - அவள்` → **`இளஞ் சிட்டு - அவள்`**; the removed intervening phrase is not printed in the controlling 2006 scan;
+37. `கேட்கப் போகிறேன்` → **`கேட்கப்போகிறேன்`**.
+
+**Scan 30 — `கடலே` / p.29**
+
+38. `அலைச்சலிலே, அன்றொரு` → **`அலைச்சலிலே அன்றொரு`**;
+39. `மறைந்தது. கவின்` → **`மறைந்தது, கவின்`**;
+40. `ஏன் அந்த அநியாயம்` → **`ஏன் இந்த அநியாயம்`**;
+41. `வடநாட்டுச் சனத்தை` → **`வடநாட்டுச் சின்னத்தை`**.
+
+### Batch findings / dependency propagation
+
+- Scan 21 required no correction.
+- All source-visible changes above were applied to their canonical page records.
+- P3 assemblies were re-synchronized for all three affected units:
+  - `articles/02-adikkaatru.md`;
+  - `articles/03-karuppu-pen.md`;
+  - `articles/04-kadale.md`.
+- The scan-29 phrase `சிங்காரச் “செம்படச்சி”` was removed because it is absent from the controlling 2006 pixels; it is not retained merely because an earlier/corroborating witness supplied it.
+- Unit boundaries and printed-page mapping did not change.
+- P3 propagation required in this batch: **3 files**.
+- unresolved fidelity discrepancies after reconciliation: **0**.
 
 ## Progress totals
 
-- physical scans strict-reviewed: **20 / 146**;
-- contiguous reviewed range: **1–20**;
-- P4 corrections found: **6**;
-- P4 corrections propagated to canonical page records: **6 / 6**;
-- affected P3 article assemblies requiring propagation so far: **0**;
+- physical scans strict-reviewed: **30 / 146**;
+- contiguous reviewed range: **1–30**;
+- P4 corrections found: **41**;
+- P4 corrections propagated to canonical page records: **41 / 41**;
+- P3 article assemblies corrected / re-synchronized so far: **3**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**;
 - P4 gate: **OPEN / IN PROGRESS**.
 
 ## Non-regression
 
-P0–P3 remain complete. The strict pass does not reopen frozen mappings or assemblies except where direct controlling-source evidence proves a defect. Permanent source-title readings `அகப்பை சித்தர்`, `தளிர்`, and `மயிலிறகு` remain unchanged.
+P0–P3 remain complete. P4 may correct their textual products only where direct controlling-source evidence proves a fidelity defect; it does not change source mapping without source evidence. Permanent source-title readings `அகப்பை சித்தர்`, `தளிர்`, and `மயிலிறகு` remain unchanged.
+
+The supplied 2006 scan remains controlling. Corroborating witnesses, OCR and contextual expectations do not override its visible wording, word boundaries or punctuation.
 
 ## Exact next activity
 
-**P4 scans 21–30.** Re-inspect all ten physical scans directly against their canonical records, record every old reading → source-visible reading correction, propagate any affected text into dependent records, and then advance this report only if the whole batch is reconciled.
+**P4 scans 31–40.** Re-inspect all ten physical scans directly against their canonical records, record every old reading → source-visible reading correction, propagate any affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
 
 Do not mark P4 complete before **146 / 146** physical scans are strict-reviewed. English remains **BLOCKED until Tamil P5 freeze**.
