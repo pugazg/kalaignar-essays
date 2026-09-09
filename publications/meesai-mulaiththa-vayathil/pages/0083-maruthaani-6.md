@@ -38,14 +38,14 @@ transcription_method: "direct visual comparison with source scan"
 
 இதுபோல நேற்றிரவே ஈர மருதாணியைக்
 கலைத்திருந்தால் அது கலைந்திருக்கும்... களவி
-நடந்திருக்கும். இன்று கலையுமோ?...
+நடந்திருக்கும். இன்று கலையுமோ ?...
 கலையவில்லை! ‘ஓராண்டு!’ எனச் சொல்லிக்
 கொட்டி விட்டாள் மழைக்கண்ணீர்!... அப்போது
 ‘கலகல’ சிரிப்புக் கேட்டு ‘மளமள’ என எழுந்தாள்
 - எதிரே மருதன் நின்றான்... ஏன்தான் அழவிட்டாய்
 எனக் கேட்டபடி அணைத்துக் கொண்டாள்! கடாரம்
 போவதுண்டோ எனக் கத்தியழும் பாவை நோக்கி;
-“மருதன் பெரிதோ - மருதாணி பெரிதோ?... இதற்கு
+“மருதன் பெரிதோ - மருதாணி பெரிதோ ?... இதற்கு
 விடை தேவை” எனச் சிரித்தான் வீர குலத்தான்.
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -57,6 +57,7 @@ transcription_method: "direct visual comparison with source scan"
 
 - visible printed folio **82**, running header and every letter/dialogue line were directly verified against the supplied 2006 scan.
 - source-visible forms retained include `தண்பொழிலே`, `கடாரத்தில்`, `விருந்துண்ண`, `களவி`, `மழைக்கண்ணீர்`, `கலகல`, `மளமள`, and `கத்தியழும்`.
+- P4 strict visual review preserved the source spacing before question-plus-ellipsis in two places: `கலையுமோ?...` → `கலையுமோ ?...` and `மருதாணி பெரிதோ?...` → `மருதாணி பெரிதோ ?...`; no source-title, mapping or unit-boundary change resulted.
 - Unit 18 `மருதாணி` continues to its closing scan 84.
 
 <!-- மூல ஸ்கேன் பக்கம்: 83 -->
