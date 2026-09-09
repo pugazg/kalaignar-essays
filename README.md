@@ -31,7 +31,7 @@ Released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
 Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mulaiththa-vayathil/)
 
-**P0–P3 COMPLETE / PASS. P4 IN PROGRESS — scans 1–90 / 90 of 146 strict-reviewed.**
+**P0–P3 COMPLETE / PASS. P4 IN PROGRESS — scans 1–100 / 100 of 146 strict-reviewed.**
 
 - controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
 - source SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
@@ -49,11 +49,11 @@ P3 final state: **26 / 26 assemblies**, **128 / 128** canonical main-work pages,
 P4 running state:
 
 - formal report: `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`;
-- strict-reviewed physical scans: **90 / 146**;
-- contiguous range: **1–90**;
-- cumulative corrections: **142**;
-- corrections propagated: **142 / 142**;
-- P3 assemblies corrected/re-synchronized: **13 distinct assemblies**;
+- strict-reviewed physical scans: **100 / 146**;
+- contiguous range: **1–100**;
+- cumulative corrections: **157**;
+- corrections propagated: **157 / 157**;
+- P3 assemblies corrected/re-synchronized: **15 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blockers: **0**.
 
@@ -63,13 +63,15 @@ P4-071-080 passed with **5** direct-source corrections: scan 72 `முத்த
 
 P4-081-090 passed with **3** direct-source corrections, all in `மருதாணி`: scan 82 `இரவாய் சுருங்குவதெப்போதென` → `இரவாய்ச் சுருங்குவதெப்போதென`; scan 83 `கலையுமோ?...` → `கலையுமோ ?...` and `மருதாணி பெரிதோ?...` → `மருதாணி பெரிதோ ?...`. `articles/18-maruthaani.md` was re-synchronized. `அருவி` scans 85–90 passed with no correction.
 
+P4-091-100 passed with **15** direct-source corrections across `முறம்` and `யாழ்`. `articles/20-muram.md` and `articles/21-yaazh.md` were re-synchronized; scans 92, 96 and 100 required no textual correction. `முறம்` is fully P4-reconciled and `யாழ்` continues through scan 102.
+
 English remains **BLOCKED until Tamil P5 freeze**.
 
 ## Current repository boundary
 
-Publication 10 P4 is **IN PROGRESS — 90 / 146 strict-reviewed, 142 cumulative corrections, 13 distinct P3 assemblies re-synchronized, 0 unresolved discrepancies, blockers 0**.
+Publication 10 P4 is **IN PROGRESS — 100 / 146 strict-reviewed, 157 cumulative corrections, 15 distinct P3 assemblies re-synchronized, 0 unresolved discrepancies, blockers 0**.
 
-Exact next activity: **P4 scans 91–100** — all of `முறம்` on scans 91–95 and the opening five pages of `யாழ்` on scans 96–100.
+Exact next activity: **P4 scans 101–110** — finish `யாழ்` on scans 101–102 and begin `சிற்பி` on scans 103–110; `சிற்பி` continues beyond scan 110.
 
 ### Permanent `உடன்பிறப்பே` rule
 
