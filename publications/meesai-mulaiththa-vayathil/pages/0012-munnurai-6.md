@@ -14,7 +14,7 @@ transcription_method: "direct visual comparison with source scan"
 
 # அச்சு உரை
 
-கலைஞரின் படைப்பாற்றல் எளிமையாய் வெகு இயல்பாய்ச் செயல்படுகிறது.
+கலைஞரின் படைப்பாற்றல் எளிமையாய் வெகு இயல்பாய்ச் செய்துவிடுகிறது.
 
 கொள்கைக் கோபம் - வாலிப வேகம் - சாதனைத்தாகம் - மொழியின் நேசம் - இனத்தின் பாசம் இவையெல்லாம் கலைஞருக்குள் மிகச்சிறிய வயதிலேயே மலர்ந்து இளமையிலேயே கனிந்து நின்றதால் படைப்புகளில் வயதுக்கு மீறிய ஒரு முதிர்ச்சியைப் பார்க்கிறோம்.
 
@@ -36,5 +36,11 @@ transcription_method: "direct visual comparison with source scan"
 - scan 11 page-ending `சிநேகபாவத்தை,`க்கு அடுத்ததாக இப்பக்கத்தின் opening sentence தொடர்வது source-க்கு எதிராக உறுதிப்படுத்தப்பட்டது.
 - source-visible `மிகச்சிறிய`, `சுட்ட தங்கமாய்ச்`, `கொழுந்துகூடக்`, and repeated `அப்படியே அப்படியே` retained without normalization.
 - முன்னுரை scan 13-ல் தொடர்கிறது.
+
+## P4 strict-fidelity note
+
+- strict visual review rechecked scan 12 word-by-word and punctuation-by-punctuation.
+- corrected old canonical `செயல்படுகிறது.` → source-visible **`செய்துவிடுகிறது.`**.
+- unresolved fidelity discrepancies after correction: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 12 -->
