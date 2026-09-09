@@ -31,7 +31,7 @@ Released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
 Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mulaiththa-vayathil/)
 
-**P0–P3 COMPLETE / PASS. P4 IN PROGRESS — scans 1–60 / 60 of 146 strict-reviewed.**
+**P0–P3 COMPLETE / PASS. P4 IN PROGRESS — scans 1–80 / 80 of 146 strict-reviewed.**
 
 - controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
 - source SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
@@ -49,23 +49,25 @@ P3 final state: **26 / 26 assemblies**, **128 / 128** canonical main-work pages,
 P4 running state:
 
 - formal report: `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`;
-- strict-reviewed physical scans: **60 / 146**;
-- contiguous range: **1–60**;
-- cumulative corrections: **132**;
-- corrections propagated: **132 / 132**;
-- P3 assemblies corrected/re-synchronized: **10 distinct assemblies**;
+- strict-reviewed physical scans: **80 / 146**;
+- contiguous range: **1–80**;
+- cumulative corrections: **139**;
+- corrections propagated: **139 / 139**;
+- P3 assemblies corrected/re-synchronized: **13 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blockers: **0**.
 
-Batch P4-051-060 produced **2** direct-source corrections, both in `தனிமை`: scan 52 `ஒரு முத்தங்கள் கொடுங்கள் தான்”` → `ஒரு முத்தங்கள் கொடுங்களத்தான்”`, and scan 53 `ஒவியத்தை` → `ஓவியத்தை`. Both canonical page records and `articles/11-thanimai.md` are synchronized. Scans 51 and 54–60 required no textual correction; unit boundaries and printed-page mapping did not change.
+P4-061-070 passed with **2** direct-source punctuation corrections, both on scan 69 / `தேனலைகள்`: `கோமானே!....` → `கோமானே!...` and `பரிசு!....` → `பரிசு!...`; `articles/16-thenalaigal.md` was re-synchronized.
+
+P4-071-080 passed with **5** direct-source corrections: scan 72 `முத்தவள` → `முத்தவள்`; scan 77 `இதோ யார்` → `இதோ பார்`, `அவனா?...` → `அவனா ?...`, `புலியை?...` → `புலியை ?...`; scan 80 `பொழியலானாள்` → `பொழியலானார்`. `articles/17-thozhi.md` and `articles/18-maruthaani.md` were re-synchronized.
 
 English remains **BLOCKED until Tamil P5 freeze**.
 
 ## Current repository boundary
 
-Publication 10 P4 is **IN PROGRESS — 60 / 146 strict-reviewed, 132 cumulative corrections, 10 distinct P3 assemblies re-synchronized, 0 unresolved discrepancies, blockers 0**.
+Publication 10 P4 is **IN PROGRESS — 80 / 146 strict-reviewed, 139 cumulative corrections, 13 distinct P3 assemblies re-synchronized, 0 unresolved discrepancies, blockers 0**.
 
-Exact next activity: **P4 scans 61–70**.
+Exact next activity: **P4 scans 81–90** — finish `மருதாணி` on scans 81–84 and review `அருவி` scans 85–90.
 
 ### Permanent `உடன்பிறப்பே` rule
 
