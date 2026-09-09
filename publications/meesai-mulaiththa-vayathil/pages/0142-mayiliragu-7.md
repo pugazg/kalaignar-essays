@@ -26,7 +26,7 @@ transcription_method: "direct visual comparison with source scan"
 மீது நெருப்புமழை! முத்தமிழ்வர் - முத்தமிழர் - அவர்
 முதுகிலெலும்பு ஓடியமட்டும் - மூளையெல்லாம்
 சிதறுமட்டும் - அடிப்பதுதான் நீதியோ, அன்புக்கு
-மடைகோலும் அடியார் கூட்டம் இதுதானோ?
+மடைகோலும் அடியார் கூட்டம் இதுதானோ ?
 மிக்க கொடுமை! மிக்க கொடுமை!! இவர்கள்
 வளர்ந்தால் விடியாது நாடு! என்போன்ற
 இளைஞர்க்குக் காதல் அல்ல’ முதல் வேலை -
@@ -35,7 +35,7 @@ transcription_method: "direct visual comparison with source scan"
 நடத்தலுமாகாதாம்! அந்தத் தடையைச் சமண மக்கள்
 இன்றே குவிய வேண்டும்! அதற்குத்
 தலைமையாக ஒருவன் வேண்டும்! யார் அந்தத்
-துணிவுடையான்? யார் அந்தத் தலைமைச் சிங்கம்?
+துணிவுடையான் ? யார் அந்தத் தலைமைச் சிங்கம் ?
 
 நலங்கிள்ளி கேள்வி கேட்டான் விண்ணோக்கி!
 பாண்டிநாட்டு மண்ணோக்கி!!
@@ -58,5 +58,6 @@ transcription_method: "direct visual comparison with source scan"
 - source-visible `முத்தமிழ்வர் - முத்தமிழர்`, `அல்ல’`, `நடத்தலுமாகாதாம்`, `ஆடையிற்` retained without silent correction.
 - final sentence continues on scan 143.
 - unresolved printed text: **0**.
+- P4 strict visual review preserved source-visible spaces before the three question marks in `இதுதானோ ?`, `துணிவுடையான் ?`, and `தலைமைச் சிங்கம் ?`; mapping and unit boundaries are unchanged.
 
 <!-- மூல ஸ்கேன் பக்கம்: 142 -->
