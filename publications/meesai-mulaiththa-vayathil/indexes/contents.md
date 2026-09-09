@@ -3,7 +3,7 @@
 Publication: `publications/meesai-mulaiththa-vayathil/`  
 Controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`  
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
-P4 status: **IN PROGRESS — scans 1–40 / 40 of 146 strict-reviewed**
+P4 status: **IN PROGRESS — scans 1–50 / 50 of 146 strict-reviewed**
 
 ## Source-witness warning
 
@@ -106,20 +106,20 @@ The 26 source-titled rows above map one-to-one to the live P3 files in `articles
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- strict-reviewed physical scans: **40 / 146**;
-- contiguous reviewed range: **1–40**;
-- cumulative corrections: **84**;
-- corrections propagated: **84 / 84**;
-- P3 assemblies corrected/re-synchronized: **7 distinct assemblies**;
+- strict-reviewed physical scans: **50 / 146**;
+- contiguous reviewed range: **1–50**;
+- cumulative corrections: **130**;
+- corrections propagated: **130 / 130**;
+- P3 assemblies corrected/re-synchronized: **10 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - mapping/title-boundary changes caused by P4 so far: **0**.
 
-Batch P4-031-040 passed after corrective strict review with **43 direct-source corrections** across Units 5–8: `ஆறு`, `வாழிய வைகறை`, `அகப்பை சித்தர்`, and the first two pages of `மலையே வாழி`. The affected assemblies `05-aaru.md`, `06-vaazhiya-vaikarai.md`, `07-agappai-siththar.md`, and `08-malaiye-vaazhi.md` were re-synchronized from their corrected canonical page records.
+Batch P4-041-050 passed after corrective strict review with **46 direct-source corrections** across the closing page of `மலையே வாழி`, all of `தளிர்` and `விண்மீன்`, and the first two pages of `தனிமை`. The affected assemblies `08-malaiye-vaazhi.md`, `09-thalir.md`, `10-vinmeen.md`, and `11-thanimai.md` were re-synchronized from corrected canonical page records.
 
-No source-title or unit-boundary change resulted from P4 through scan 40; the 26-unit source map above remains unchanged. Scan 41 closes `மலையே வாழி` and is the first page of the next P4 batch.
+No source-title or unit-boundary change resulted from P4 through scan 50; the 26-unit source map above remains unchanged. `தனிமை` continues on scan 51.
 
 ## Exact next activity
 
-**P4 scans 41–50.** Re-inspect the closing page of `மலையே வாழி`, all of `தளிர்` and `விண்மீன்`, and the opening pages of `தனிமை`. Record every old reading → source-visible reading correction with provenance, propagate affected canonical text into dependent P3 assemblies, and update this overlay only after the full batch is reconciled.
+**P4 scans 51–60.** Finish `தனிமை`, review `நாடக மேடை` and `புகழ்`, and begin `பச்சைக்கிளி`. Record every old reading → source-visible reading correction with provenance, propagate affected canonical text into dependent P3 assemblies, and update this overlay only after the full batch is reconciled.
 
 English remains blocked until Tamil P5 freeze.
