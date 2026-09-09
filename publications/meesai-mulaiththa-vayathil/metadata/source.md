@@ -52,8 +52,6 @@ Final direct-source result:
 - `முன்னுரை`, scans 7–16: **10 / 10 COMPLETE**;
 - scan 17 blank/show-through: **VERIFIED**;
 - source-titled main units complete at P2 page layer: **26 / 26**;
-- Unit 25 `ஆண்டு விழா`, scans 129–135 / pp.128–134: **7 / 7 COMPLETE**;
-- Unit 26 `மயிலிறகு`, scans 136–145 / pp.135–144: **10 / 10 COMPLETE**;
 - scan 146 back cover / promotional text: **VERIFIED**;
 - unresolved printed-text blocks: **0**;
 - active P2 blockers: **0**.
@@ -70,6 +68,22 @@ Durable source findings remain non-regressed:
 
 Source wording is not silently modernised or regularised. The supplied 2006 scan pixels determine the canonical reading. OCR is not authority; alternate editions may corroborate difficult glyphs only and are not silently imported.
 
+## P3 article/unit layer — COMPLETE / PASS
+
+Formal validation is recorded in `P3_ASSEMBLY_AUDIT.md`.
+
+- source-titled assemblies: **26 / 26**;
+- canonical article pages represented: **128 / 128**;
+- source scan coverage: **18–145 contiguous**;
+- printed folio coverage: **17–144 contiguous**;
+- missing / extra assemblies: **0 / 0**;
+- assembly boundary gaps / overlaps: **0 / 0**;
+- unresolved assembly body-text blocks: **0**.
+
+The article files under `articles/` retain the frozen P1/P2 source titles and page spans and were assembled from the verified canonical page records without silent normalization. Page-boundary provenance is retained.
+
+P3 completion does not supersede the mandatory P4 strict visual-text-fidelity pass.
+
 ## Physical-copy / scan condition
 
 - high-resolution image-only scan;
@@ -83,7 +97,7 @@ Source wording is not silently modernised or regularised. The supplied 2006 scan
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS**
 - P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**
-- P3 — **NOT STARTED**
+- P3 — **COMPLETE / PASS — 26 / 26 assemblies**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 - English translation — **BLOCKED until Tamil P5 freeze**
@@ -91,4 +105,6 @@ Source wording is not silently modernised or regularised. The supplied 2006 scan
 
 ## Exact next activity
 
-**P3 article/unit assembly** from the fully verified canonical page records. Preserve source wording and page-boundary provenance. Do not begin English translation.
+**P4 — final strict visual text-fidelity pass.** Re-inspect all 146 physical scans directly, word-by-word and punctuation-by-punctuation. Record every correction with old reading → source-visible reading provenance, propagate corrections into dependent records and assemblies, and create `VISUAL_TEXT_FIDELITY_REVIEW.md` before P4 closure.
+
+Do not begin English translation.
