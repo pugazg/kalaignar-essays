@@ -69,14 +69,18 @@ Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 Current strict-reviewed range: **scans 1–20 / 20 of 146**.
 
 - Batch P4-001-010: **PASS after corrective review — 10 / 10; 2 corrections; 0 unresolved fidelity discrepancies**.
-- Batch P4-011-020: **PASS — 10 / 10; 0 new corrections; 0 unresolved fidelity discrepancies**.
+- Batch P4-011-020: **PASS after corrective review — 10 / 10; 4 corrections; 0 unresolved fidelity discrepancies**.
 
 Cumulative corrections:
 
 - scan 5 `என்னுரை`: **`கூறிய` → `கூரிய`** in `கூரிய வேல் வாள்`;
-- scan 8 `முன்னுரை`: **`மூத்தோர்` → `முதியோர்`** in `அறிவுரையே கவிதை என்றால் முதியோர் முதுமொழி போதும்.`
+- scan 8 `முன்னுரை`: **`மூத்தோர்` → `முதியோர்`**;
+- scan 12 `முன்னுரை`: **`செயல்படுகிறது.` → `செய்துவிடுகிறது.`**;
+- scan 13 `முன்னுரை`: **`மறக்கவிடவோ` → `மறந்துவிடவோ`**;
+- scan 14 `முன்னுரை`: **`பின்னும்` → `பின்னுறும்`**;
+- scan 14 `முன்னுரை`: **`இணைவாய்` → `இணையாய்`**.
 
-Both corrections are direct controlling-scan readings. They affect front matter only, so no P3 main-work assembly required propagation. Scans 11–20 required no further correction. Scan 17 remains a genuine blank/show-through page, and Unit 1 `பிறையே` remains scans 18–20 / pp.17–19 without P3 change. Scan 3's stamp-obscured imprint segment remains explicitly unreconstructed rather than guessed.
+All six are direct controlling-scan corrections and have been propagated to the canonical page records. They affect front matter only, so **0 P3 main-work assemblies** required correction. Scans 18–20 / Unit 1 `பிறையே` were strict-rechecked with **0 corrections**. Scan 3's stamp-obscured imprint segment remains explicitly unreconstructed rather than guessed.
 
 ## Source identity
 
