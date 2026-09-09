@@ -3,7 +3,7 @@
 Publication: `publications/meesai-mulaiththa-vayathil/`  
 Controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`  
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
-P4 status: **IN PROGRESS — scans 1–140 / 140 of 146 strict-reviewed**
+P4 status: **COMPLETE / PASS — 146 / 146 strict-reviewed**
 
 ## Source-witness warning
 
@@ -86,24 +86,25 @@ Formal gate: `P3_ASSEMBLY_AUDIT.md`.
 - boundary gaps / overlaps: **0 / 0**;
 - unresolved assembly body-text blocks: **0**.
 
-## P4 strict-review overlay — IN PROGRESS
+## P4 strict-review overlay — COMPLETE / PASS
 
-Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+Formal gate: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- strict-reviewed physical scans: **140 / 146**;
-- contiguous reviewed range: **1–140**;
+- strict-reviewed physical scans: **146 / 146**;
+- contiguous reviewed range: **1–146**;
 - cumulative corrections: **198**;
 - corrections propagated: **198 / 198**;
-- P3 assemblies corrected/re-synchronized: **20 distinct assemblies**;
+- P3 assemblies corrected/re-synchronized during P4: **20 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
-- mapping/title-boundary changes caused by P4 so far: **0**.
+- blocked / needs-review scans: **0**;
+- mapping/title-boundary changes caused by P4: **0**.
 
-Batch correction totals through scan 140 are **2, 4, 35, 43, 46, 2, 2, 5, 3, 15, 12, 11, 8, 10** for successive ten-scan batches.
+Batch correction totals across the complete P4 sequence are **2, 4, 35, 43, 46, 2, 2, 5, 3, 15, 12, 11, 8, 10, 0**.
 
-P4-131-140 passed with **10** direct-source question-mark spacing corrections across `ஆண்டு விழா` and `மயிலிறகு`; `articles/25-aandu-vizha.md` and `articles/26-mayiliragu.md` were re-synchronized. Scans 135–138 required no textual correction. `ஆண்டு விழா` is fully P4-reconciled through scan 135; `மயிலிறகு` remains open through scan 145. No source-title or unit-boundary change resulted.
+P4-141-146 passed with **0** corrections. Scans 141–145 finish `மயிலிறகு`; scan 146 is the independent back-cover/promotional witness. All source titles, scan spans, printed-page mapping and unit boundaries remain unchanged.
 
 ## Exact next activity
 
-**P4 scans 141–146.** Scans 141–145 / pp.140–144 finish `மயிலிறகு`; scan 146 is the illustrated back cover / promotional text. Record every old reading → source-visible reading correction with provenance, propagate affected canonical text into dependent assemblies, and close P4 only at **146 / 146** with **0 unresolved fidelity discrepancies**.
+**P5 — Tamil publication completion review / freeze.** Revalidate the completed P0–P4 layers as a publication-wide non-regression gate, create the formal completion/freeze record, and synchronize all state-bearing trackers before English planning is unblocked.
 
-English remains blocked until Tamil P5 freeze.
+English remains blocked until Tamil P5 freeze passes.
