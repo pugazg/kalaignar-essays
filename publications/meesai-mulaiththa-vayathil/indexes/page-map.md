@@ -6,7 +6,7 @@ Physical scans: **146**
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
 P2 status: **COMPLETE / PASS — 146 / 146 VERIFIED**  
 P3 status: **COMPLETE / PASS — 26 / 26 assemblies**  
-P4 status: **IN PROGRESS — scans 1–50 / 50 of 146 strict-reviewed**
+P4 status: **IN PROGRESS — scans 1–60 / 60 of 146 strict-reviewed**
 
 ## Mapping rule
 
@@ -201,14 +201,14 @@ P4 status: **IN PROGRESS — scans 1–50 / 50 of 146 strict-reviewed**
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- physical scans strict-reviewed: **50 / 146**;
-- contiguous reviewed range: **1–50**;
-- cumulative corrections: **130**;
-- corrections propagated: **130 / 130**;
+- physical scans strict-reviewed: **60 / 146**;
+- contiguous reviewed range: **1–60**;
+- cumulative corrections: **132**;
+- corrections propagated: **132 / 132**;
 - P3 assemblies corrected/re-synchronized: **10 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - P4 mapping/boundary changes: **0**.
 
-Batch P4-041-050 produced **46** direct controlling-source corrections across the closing page of `மலையே வாழி`, all of `தளிர்` and `விண்மீன்`, and scans 49–50 of `தனிமை`. Four dependent P3 assemblies were re-synchronized. These corrections alter text fidelity only; no source title, scan span, printed-page mapping, or unit boundary changed.
+Batch P4-051-060 produced **2** direct controlling-source corrections, both in `தனிமை`: scan 52 `ஒரு முத்தங்கள் கொடுங்கள் தான்”` → `ஒரு முத்தங்கள் கொடுங்களத்தான்”`, and scan 53 `ஒவியத்தை` → `ஓவியத்தை`. The affected `11-thanimai.md` assembly was re-synchronized. Scans 51 and 54–60 required no textual correction. These corrections alter text fidelity only; no source title, scan span, printed-page mapping, or unit boundary changed.
 
-Exact next strict-review batch: **scans 51–60**. Scans 51–54 finish `தனிமை`; scans 55–56 cover `நாடக மேடை`; scans 57–58 cover `புகழ்`; scans 59–60 begin `பச்சைக்கிளி`. English remains blocked until Tamil P5 freeze.
+Exact next strict-review batch: **scans 61–70**. Scan 61 closes `பச்சைக்கிளி`; scan 62 is single-page `தமிழே`; scans 63–70 cover the first eight pages of `தேனலைகள்`, which closes on scan 71. English remains blocked until Tamil P5 freeze.
