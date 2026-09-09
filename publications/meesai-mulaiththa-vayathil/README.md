@@ -21,24 +21,34 @@ Permanent source-title readings remain `அகப்பை சித்தர்
 
 ## English workflow
 
-- E0–E5 — **COMPLETE / PASS**;
+- E0–E6 — **COMPLETE / PASS**;
 - English body files / T0 / T1 / T2 / T3 / T4 / T5 — **26/26**;
+- E6 publication-wide consistency — **PASS**;
+- E6 body corrections — **0**;
+- E6 consistency blockers — **0**;
 - unresolved English blockers — **0**;
 - frozen Tamil changes during English work — **0**;
-- E6 publication-wide consistency review — **NEXT**;
-- E7 release closeout — pending.
+- E7 English release closeout — **NEXT**.
 
-## E5 verified authorities
+English article verification and cross-article consistency are complete; the **English release gate remains open until E7 passes**.
 
-| # | Tamil | English | Verified English blob |
-|---:|---|---|---|
-| 23 | `சேவல் சண்டை` | **Cockfight** | `fbede1e68f63d9eb0ee369dd56ae668dd7c617af` |
-| 24 | `மடல்` | **Letter** | `9d66aa7a24d1c8725b7c9ae914eadca978a2530c` |
-| 25 | `ஆண்டு விழா` | **Annual Festival** | `b46a0dd815a945c7bd56ab61cbc1adf757761917` |
-| 26 | `மயிலிறகு` | **Peacock Feather** | `4862200f97ea4711fc134384fe70355d311a936a` |
+## E6 publication-wide result
 
-E5: T0–T5 **4/4 PASS**; T2 material corrections **6**, all Article 26; T3 additional corrections **0**; T4 source-restraint corrections **2**, both Article 26; omissions/additions/unresolved source or terminology blockers **0**. Source-boundary coverage **8/8, 6/6, 7/7, 10/10**. `LEXICON.md` records **153** decisions through Article 26; full provenance is in `TRANSLATION_REVIEW.md`.
+All 26 live English files were read together in source order.
+
+- front-matter verification / frozen Tamil provenance: **26/26 PASS**;
+- source-page comments: **128/128**, scans **18–145 contiguous**;
+- title metadata/H1: **26/26 aligned**;
+- closing `●`: **26/26 preserved**;
+- recurring names, `Aththaan`, `yaazh`, `kattumaram`, ideological/cultural terms and source-specific transliterations: **consistent**;
+- Article 21, 24 and 26 literary quotations: **source-controlled**;
+- voice/directness and rhetorical force: **consistent**;
+- `LEXICON.md`: **153 decisions**, no E6 rule change required;
+- article-body corrections: **0**;
+- unresolved consistency items: **0**.
+
+The complete E6 English blob matrix and intentional source-driven differences are recorded in `translations/en/TRANSLATION_REVIEW.md`.
 
 ## Exact next activity
 
-**E6 — publication-wide English consistency review.** Review all 26 verified English articles together for recurring names/epithets, title style, cultural/political terminology, quoted material, transliterations, source-page comments and voice consistency. Record every E6 correction. Do not modify frozen Tamil and do not declare English release complete before E7.
+**E7 — English release closeout.** Revalidate all 26 English files and frozen Tamil source SHAs against live `main`, reconcile all release-facing trackers, confirm the source PDF remains outside GitHub and release blockers are 0, and create `translations/en/RELEASE_REPORT.md` following the established completed-publication precedent. Do not reopen verified prose for stylistic polishing. Only after E7 PASS may the English release gate be closed.
