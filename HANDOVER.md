@@ -9,7 +9,7 @@ Branch: `main`
 
 Publications **1–9 are RELEASE COMPLETE / FROZEN**.
 
-Active Publication **10 — `மீசை முளைத்த வயதில்` — P0, P1, P2 and P3 COMPLETE / PASS. P4 is IN PROGRESS at scans 1–10 / 10 of 146 strict-reviewed, with 2 source corrections and 0 unresolved fidelity discrepancies.**
+Active Publication **10 — `மீசை முளைத்த வயதில்` — P0, P1, P2 and P3 COMPLETE / PASS. P4 is IN PROGRESS at scans 1–20 / 20 of 146 strict-reviewed, with 2 source corrections and 0 unresolved fidelity discrepancies.**
 
 Source PDFs are never committed.
 
@@ -108,8 +108,8 @@ Formal running report: `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDE
 
 Current checkpoint:
 
-- physical scans strict-reviewed: **10 / 146**;
-- contiguous strict-reviewed range: **1–10**;
+- physical scans strict-reviewed: **20 / 146**;
+- contiguous strict-reviewed range: **1–20**;
 - corrections found: **2**;
 - corrections propagated to canonical page records: **2 / 2**;
 - affected P3 main-work assemblies requiring propagation: **0**;
@@ -121,7 +121,9 @@ P4 corrections so far:
 1. scan 5 `என்னுரை`: **`கூறிய` → `கூரிய`** in `கூரிய வேல் வாள்`;
 2. scan 8 `முன்னுரை`: **`மூத்தோர்` → `முதியோர்`** in `அறிவுரையே கவிதை என்றால் முதியோர் முதுமொழி போதும்.`
 
-Both are direct controlling-scan corrections. They affect front matter only, so no P3 article assembly changed. Scan 3's stamp-obscured publisher-address segment remains explicitly unreconstructed.
+Batch P4-011-020 passed with **0 new corrections**. Scans 11–16 complete the `முன்னுரை` strict review, scan 17 remains a genuine blank/show-through page, and Unit 1 `பிறையே` scans 18–20 / pp.17–19 reconciles without change. No P3 assembly propagation was required.
+
+Both cumulative corrections are direct controlling-scan corrections in front matter only. Scan 3's stamp-obscured publisher-address segment remains explicitly unreconstructed.
 
 ## Gate state
 
@@ -129,25 +131,25 @@ Both are direct controlling-scan corrections. They affect front matter only, so 
 - P1 — **COMPLETE / PASS**;
 - P2 — **COMPLETE / PASS — 146 / 146 VERIFIED**;
 - P3 — **COMPLETE / PASS — 26 / 26 assemblies**;
-- P4 — **IN PROGRESS — 10 / 146 strict-reviewed**;
+- P4 — **IN PROGRESS — 20 / 146 strict-reviewed**;
 - P5 — **NOT STARTED**;
 - English — **BLOCKED until Tamil P5 freeze**.
 
 Active P4 blockers: **0**.
 
-## Exact next activity — P4 scans 11–20
+## Exact next activity — P4 scans 21–30
 
 When the user says proceed/continue:
 
 1. fetch live `main` and preserve newer durable work;
-2. read `ESSAY_PROCESSING_GUIDE.md` section 12, this handover, `VISUAL_TEXT_FIDELITY_REVIEW.md`, publication README/audit/source metadata/page map/contents, and canonical records for scans 11–20;
+2. read `ESSAY_PROCESSING_GUIDE.md` section 12, this handover, `VISUAL_TEXT_FIDELITY_REVIEW.md`, publication README/audit/source metadata/page map/contents, and canonical records for scans 21–30;
 3. resolve the controlling source PDF before source-dependent visual work;
-4. re-inspect **scans 11–20 directly**, word-by-word and punctuation-by-punctuation;
+4. re-inspect **scans 21–30 directly**, word-by-word and punctuation-by-punctuation;
 5. compare every visible word, word boundary/spacing, punctuation mark, quotation mark, heading, date, number and page-to-page continuation against the canonical record;
 6. preserve unusual source wording when supported by the pixels; do not modernize or normalize from context;
 7. record every correction as **old reading → source-visible reading** with scan/page provenance;
 8. propagate every P4 correction into affected `articles/`, indexes, README/audit/source metadata and handover trackers;
-9. update `VISUAL_TEXT_FIDELITY_REVIEW.md` only after the whole 11–20 batch is reconciled;
+9. update `VISUAL_TEXT_FIDELITY_REVIEW.md` only after the whole 21–30 batch is reconciled;
 10. do not mark P4 complete until the full **146 / 146** physical-scan pass is closed;
 11. **do not begin English translation; English remains blocked until Tamil P5 freeze.**
 
