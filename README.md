@@ -31,7 +31,7 @@ Released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
 Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mulaiththa-vayathil/)
 
-**P0–P3 COMPLETE / PASS. P3 closed at 26 / 26 source-titled assemblies; P4 NOT STARTED.**
+**P0–P3 COMPLETE / PASS. P4 IN PROGRESS — scans 1–10 / 10 of 146 strict-reviewed.**
 
 - controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
 - source SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
@@ -68,15 +68,23 @@ P3 final state:
 - boundary gaps / overlaps: **0 / 0**;
 - unresolved assembly body-text blocks: **0**.
 
-The P3 article layer was assembled from verified canonical page records without silent source normalization and retains page-boundary provenance. P3 completion does not replace the mandatory strict visual-text-fidelity pass.
+P4 running state:
+
+- formal report: `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`;
+- strict-reviewed physical scans: **10 / 146**;
+- contiguous range: **1–10**;
+- corrections: **2**;
+- unresolved fidelity discrepancies: **0**;
+- current corrections: scan 5 `கூறிய` → `கூரிய`; scan 8 `மூத்தோர்` → `முதியோர்`;
+- affected P3 main-work assemblies so far: **0**.
 
 English remains **BLOCKED until Tamil P5 freeze**.
 
 ## Current repository boundary
 
-Publication 10 P3 is **COMPLETE / PASS — 26 / 26 assemblies, 128 / 128 canonical main-work pages, blockers 0**.
+Publication 10 P4 is **IN PROGRESS — 10 / 146 strict-reviewed, 2 corrections, 0 unresolved discrepancies, blockers 0**.
 
-Exact next activity: **P4 final strict visual text-fidelity pass** across all **146 physical scans**, with old reading → source-visible reading provenance for every correction and a `VISUAL_TEXT_FIDELITY_REVIEW.md` gate report. Do not begin English translation.
+Exact next activity: **P4 scans 11–20**. Re-inspect them directly word-by-word and punctuation-by-punctuation, propagate any source-supported corrections, and advance `VISUAL_TEXT_FIDELITY_REVIEW.md` only after the full batch is reconciled.
 
 ### Permanent `உடன்பிறப்பே` rule
 
