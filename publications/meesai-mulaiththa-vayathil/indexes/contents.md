@@ -70,12 +70,10 @@ P1 remains **146 / 146 scans**, **26 / 26 units**, unmapped scans **0**, boundar
 
 ## P2 overlay — COMPLETE / PASS
 
-P2 now covers **146 / 146 VERIFIED**, contiguous through the final physical scan.
+P2 covers **146 / 146 VERIFIED**, contiguous through the final physical scan.
 
 - front matter and blank scan 17: **COMPLETE**;
 - all source-titled main-work units: **26 / 26 COMPLETE** at the P2 page layer;
-- Unit 25 `ஆண்டு விழா`: scans 129–135 / pp.128–134 — **7 / 7 VERIFIED / COMPLETE**;
-- Unit 26 `மயிலிறகு`: scans 136–145 / pp.135–144 — **10 / 10 VERIFIED / COMPLETE**;
 - scan 146 back cover / promotional text: **VERIFIED**;
 - missing canonical records: **0**;
 - unresolved printed-text blocks: **0**;
@@ -88,6 +86,25 @@ Final batch audits:
 
 The supplied 2006 scan pixels remained controlling throughout. OCR was not authority and no alternate-edition wording was silently imported.
 
+## P3 assembly overlay — COMPLETE / PASS
+
+Formal gate: `P3_ASSEMBLY_AUDIT.md`.
+
+The 26 source-titled rows above now map one-to-one to the live P3 files in `articles/`.
+
+- assemblies: **26 / 26**;
+- numbering/order: **01–26 contiguous**;
+- canonical main-work pages represented: **128 / 128**;
+- source scan coverage: **18–145 contiguous**;
+- printed folio coverage: **17–144 contiguous**;
+- missing / unexpected assemblies: **0 / 0**;
+- boundary gaps / overlaps: **0 / 0**;
+- unresolved assembly body-text blocks: **0**.
+
+The P3 layer preserves the frozen source-visible titles and P2 boundaries and was assembled from verified canonical page records without silent normalization. Page-boundary provenance is retained.
+
 ## Exact next activity
 
-**P3 article/unit assembly.** Assemble the 26 source-titled units from the fully verified canonical page records while preserving source wording and page-boundary provenance. Do not begin English translation; English remains blocked until Tamil P5 freeze.
+**P4 — final strict visual text-fidelity pass.** Re-inspect every physical scan directly and compare every visible word, word boundary, punctuation mark, heading, number and continuation against the canonical records and dependent assemblies. Record every correction with provenance and create `VISUAL_TEXT_FIDELITY_REVIEW.md` before closing P4.
+
+English remains blocked until Tamil P5 freeze.
