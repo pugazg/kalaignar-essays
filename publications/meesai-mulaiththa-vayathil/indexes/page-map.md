@@ -6,7 +6,7 @@ Physical scans: **146**
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
 P2 status: **COMPLETE / PASS — 146 / 146 VERIFIED**  
 P3 status: **COMPLETE / PASS — 26 / 26 assemblies**  
-P4 status: **IN PROGRESS — scans 1–20 / 20 of 146 strict-reviewed**
+P4 status: **IN PROGRESS — scans 1–30 / 30 of 146 strict-reviewed**
 
 ## Mapping rule
 
@@ -201,26 +201,14 @@ P4 status: **IN PROGRESS — scans 1–20 / 20 of 146 strict-reviewed**
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- physical scans strict-reviewed: **20 / 146**;
-- contiguous reviewed range: **1–20**;
-- corrections: **6**;
-- corrections propagated: **6 / 6**;
+- physical scans strict-reviewed: **30 / 146**;
+- contiguous reviewed range: **1–30**;
+- cumulative corrections: **41**;
+- corrections propagated: **41 / 41**;
+- P3 assemblies corrected/re-synchronized: **3**;
 - unresolved fidelity discrepancies: **0**;
 - P4 mapping/boundary changes: **0**.
 
-Corrections so far are front-matter lexical readings only:
+Batch P4-021-030 produced **35** direct controlling-source corrections across Units 2–4 (`ஆடிக்காற்று`, `கருப்புப் பெண்`, `கடலே`). The three dependent P3 assemblies were re-synchronized. Scan 29's prior `சிங்காரச் “செம்படச்சி”` phrase was removed because it is absent from the controlling source. These corrections alter text fidelity only; no source title, scan span, printed-page mapping, or unit boundary changed.
 
-- scan 5 `கூறிய` → `கூரிய`;
-- scan 8 `மூத்தோர்` → `முதியோர்`;
-- scan 12 `செயல்படுகிறது.` → `செய்துவிடுகிறது.`;
-- scan 13 `மறக்கவிடவோ` → `மறந்துவிடவோ`;
-- scan 14 `பின்னும்` → `பின்னுறும்`;
-- scan 14 `இணைவாய்` → `இணையாய்`.
-
-Batch scans 11–20 passed after corrective review with **4 corrections**, all in front matter. The remaining `முன்னுரை`, blank scan 17 and Unit 1 `பிறையே` all reconcile with the canonical map; Unit 1 required **0 P4 text corrections**. No P1/P3 boundary or source-title mapping changed, and no P3 assembly propagation was required.
-
-## Next gate
-
-**P4 scans 21–30.** Re-inspect these ten physical scans directly, word-by-word and punctuation-by-punctuation, preserve source-witness distinctions, record every old reading → source-visible reading correction, and propagate any map-affecting changes only when proven by the controlling scan.
-
-P4 does not authorize English translation; English remains blocked until Tamil P5 freeze.
+Exact next strict-review batch: **scans 31–40**. English remains blocked until Tamil P5 freeze.
