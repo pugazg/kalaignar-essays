@@ -31,7 +31,7 @@ Released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
 Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mulaiththa-vayathil/)
 
-**P0–P2 COMPLETE / PASS — P2 closed at 146 / 146 VERIFIED. P3 NOT STARTED.**
+**P0–P3 COMPLETE / PASS. P3 closed at 26 / 26 source-titled assemblies; P4 NOT STARTED.**
 
 - controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
 - source SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
@@ -53,27 +53,30 @@ P2 final state:
 - canonical page records present: **146 / 146**;
 - missing canonical records: **0**;
 - all **26 / 26** source-titled units complete at P2 page layer;
-- Unit 25 `ஆண்டு விழா`: scans **129–135 / pp.128–134 — 7 / 7 VERIFIED / COMPLETE**;
-- Unit 26 `மயிலிறகு`: scans **136–145 / pp.135–144 — 10 / 10 VERIFIED / COMPLETE**;
 - scan 146 back cover / promotional text: **VERIFIED**;
 - unresolved printed-text blocks: **0**;
-- P2 blockers: **0**;
-- P3 assemblies: **NOT STARTED**.
+- P2 blockers: **0**.
 
-Final P2 batch records:
+P3 final state:
 
-- `P2_BATCH_131_140.md`
-- `P2_BATCH_141_146.md`
+- formal gate: `publications/meesai-mulaiththa-vayathil/P3_ASSEMBLY_AUDIT.md`;
+- source-titled assemblies: **26 / 26**;
+- canonical main-work pages represented: **128 / 128**;
+- source scan coverage: **18–145 contiguous**;
+- printed folio coverage: **17–144 contiguous**;
+- missing / unexpected assemblies: **0 / 0**;
+- boundary gaps / overlaps: **0 / 0**;
+- unresolved assembly body-text blocks: **0**.
 
-The supplied 2006 scan pixels remained controlling; OCR and secondary-edition wording were not used as authority.
+The P3 article layer was assembled from verified canonical page records without silent source normalization and retains page-boundary provenance. P3 completion does not replace the mandatory strict visual-text-fidelity pass.
 
 English remains **BLOCKED until Tamil P5 freeze**.
 
 ## Current repository boundary
 
-Publication 10 P2 is **COMPLETE / PASS — 146 / 146 VERIFIED** with **26 / 26** main-work units complete and blockers **0**.
+Publication 10 P3 is **COMPLETE / PASS — 26 / 26 assemblies, 128 / 128 canonical main-work pages, blockers 0**.
 
-Exact next activity: **P3 article/unit assembly** from the fully verified canonical page records. Preserve source wording and page-boundary provenance. Do not begin English translation.
+Exact next activity: **P4 final strict visual text-fidelity pass** across all **146 physical scans**, with old reading → source-visible reading provenance for every correction and a `VISUAL_TEXT_FIDELITY_REVIEW.md` gate report. Do not begin English translation.
 
 ### Permanent `உடன்பிறப்பே` rule
 
