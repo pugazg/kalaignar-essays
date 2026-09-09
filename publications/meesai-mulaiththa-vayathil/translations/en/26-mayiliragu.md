@@ -8,7 +8,7 @@ source_tamil_blob_sha: "15906fcda69226b4fb42f73a8b242837a831e6c3"
 source_scan_pages: "136-145"
 source_printed_pages: "135-144"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -16,7 +16,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 136 / printed 135 -->
 
-The Pandya realm's royal hall pronounced its judgment: “The Saivite path has won; the Jains have lost.” Along with it, minister Kulachirai—after the eight thousand counted among great offenders had been mounted upon the long-necked killing stakes and done away with—became a Nayanar. After this cruel act, the Pandya country lay afraid to open its mouth. The Jain ascetics who remained feared even to come outside.
+The Pandya realm's royal hall pronounced its judgment: “The Saivite path has won; the Jains have lost.” Along with it, minister Kulachirai, through the source-bearing kanpudai-pattu long-necked killing-stake array, had the eight thousand counted among great offenders mounted and done away with, and became a Nayanar. After this cruel act, the Pandya country lay afraid to open its mouth. The Jain ascetics who remained feared even to come outside.
 
 <!-- Tamil source: scan 137 / printed 136 -->
 
@@ -32,11 +32,11 @@ He was a warrior at the face of battle; she was a maiden bearing weapons in her 
 
 “You said ‘courtesan lineage’... you paint upon your cheek with tears... do not be troubled! Tender shoot who gives sweetness to me who lay in solitude! Dew resting on that shoot! Breath of Tamil!
 
-“‘What relation are your mother and mine? What kin are your father and mine? How did you and I ever know one another? Like rainwater falling upon red earth are our loving hearts!’ We are such people. Do not fear! Even death cannot separate us!” So saying, he gave her the nectar of his lips—with a selfish purpose swelling within him!
+“‘What relation are your mother and mine? What kin are your father and mine? How did you and I ever know one another? Like rainwater falling upon red earth are our loving hearts!’ We are such people. Do not fear! Even death cannot separate us!” So saying, he gave her the nectar of his lips—with a selfish purpose swelling in sacred intoxication!
 
 They crossed the flower-grove, crossed the gang of impalement stakes that had thrown the Jains into the field of death, and came to the streets of the capital where hard-hearted Kulachirai wielded his sceptre—to see the beauty of art and to deepen the pleasure of love!
 
-Women of slender waists showed a dance in their gait and rushed along the green-spread streets of the Pandya land like floodwater that had broken through every sluice!
+Waistless women showed a dance in their gait and rushed along the green-spread streets of the Pandya land like floodwater that had broken through every sluice!
 
 A crowd moved in procession, soldiers surrounding them, praising the Pandya beneath the royal parasol!
 
@@ -68,7 +68,7 @@ From a distance he heard the great cry, “Down with Jainism!” She heard it to
 
 <!-- Tamil source: scan 141 / printed 140 -->
 
-“See, the tilak is still undisturbed,” she said. “My mind is not steady. We shall meet tomorrow,” he replied and rose. With a murmuring tail of desire she clung to him, telling him with her eyes to stay.
+“See, the tilak is still undisturbed,” she said. “My mind is not steady. We shall meet tomorrow,” he replied and rose. Murmuring with desire, she clung to him and told him with her eyes to stay.
 
 He stood without drinking the juice of love gathering on her fruit-lips, redder than the fruit of the cactus. “Kanna!” she said. His eyes were not upon her. Taking his hand, she leaned upon his shoulder. “Let it be tomorrow,” he said, placed the peacock feather in her hand, and ran away.
 
@@ -84,11 +84,11 @@ in the Pandya land! To paint a picture of the thought spoken by one's heart was 
 
 Nalangilli asked the question looking toward the sky! Looking toward the soil of the Pandya land!!
 
-Peelivalai, meanwhile, thinking that today she could consume a great feast, checked her great beauty against her clothes, crossed Aavani Street, crossed the quarter where priests who speak deceptive blessings lived, and waited by the grove seeking food for her aiyappasi! Evening passed; he did not come. The shapely beauty waited in the hall near the flower-settlement
+Peelivalai, meanwhile, thinking that today she could consume a great feast, checked her great beauty against her clothes, crossed Aavani Street, crossed the quarter where priests who speak deceptive blessings lived, and waited by the grove seeking food for her aiyappasi! Evening passed; he did not come. The shapely beauty waited in the hall near Malarppathi
 
 <!-- Tamil source: scan 143 / printed 142 -->
 
-and fell asleep. Morning came. Lovers came together. Only afterward did she ask why he had taken so long!
+and fell asleep. Morning came. They feasted on love. Only afterward did she ask why he had taken so long!
 
 “Confusion of mind, my dear—let the mind rest! Look: you and I are there in the peacock feather, a golden plate inlaid with blue and set with green!”
 
