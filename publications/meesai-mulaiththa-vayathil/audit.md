@@ -48,7 +48,7 @@ Formal gate: `P3_ASSEMBLY_AUDIT.md`.
 
 ## P4 — final strict visual text-fidelity pass
 
-**RESULT: IN PROGRESS — 80 / 146 PHYSICAL SCANS STRICT-REVIEWED**
+**RESULT: IN PROGRESS — 90 / 146 PHYSICAL SCANS STRICT-REVIEWED**
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
@@ -61,52 +61,39 @@ Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 - P4-041-050 — **PASS; 46 corrections; 0 unresolved**;
 - P4-051-060 — **PASS; 2 corrections; 0 unresolved**;
 - P4-061-070 — **PASS; 2 corrections; 0 unresolved**;
-- P4-071-080 — **PASS; 5 corrections; 0 unresolved**.
-
-### P4-061-070 findings
-
-Scans 61–70 cover:
-
-- Unit 14 `பச்சைக்கிளி` — scan 61 / p.60, completing the unit;
-- Unit 15 `தமிழே` — scan 62 / p.61, single-page unit;
-- Unit 16 `தேனலைகள்` — scans 63–70 / pp.62–69, continuing through scan 71.
-
-Only scan 69 required correction. Two direct-source punctuation corrections were applied to the canonical record and propagated to `articles/16-thenalaigal.md`:
-
-- `கோமானே!....` → **`கோமானே!...`**;
-- `பரிசு!....` → **`பரிசு!...`**.
-
-Scans 61–68 and 70 required no textual correction. The cumulative distinct corrected/re-synchronized assembly count became **11**. No source title, page span, printed folio mapping or unit boundary changed.
+- P4-071-080 — **PASS; 5 corrections; 0 unresolved**;
+- P4-081-090 — **PASS; 3 corrections; 0 unresolved**.
 
 ### P4-071-080 findings
 
-Scans 71–80 cover:
+Scans 71–80 cover scan 71 closing `தேனலைகள்`, all six pages of `தோழி`, and scans 78–80 of `மருதாணி`. Five corrections were applied and propagated into `articles/17-thozhi.md` and `articles/18-maruthaani.md`.
 
-- Unit 16 `தேனலைகள்` — scan 71 / p.70, completing the unit;
-- Unit 17 `தோழி` — scans 72–77 / pp.71–76, completing the unit;
-- Unit 18 `மருதாணி` — scans 78–80 / pp.77–79, continuing through scan 84.
+### P4-081-090 findings
 
-Five direct-source corrections were applied to canonical page records and propagated to `articles/17-thozhi.md` and `articles/18-maruthaani.md`:
+Scans 81–90 cover:
 
-- scan 72 `முத்தவள` → **`முத்தவள்`**;
-- scan 77 `இதோ யார்` → **`இதோ பார்`**;
-- scan 77 `அவனா?...` → **`அவனா ?...`**;
-- scan 77 `புலியை?...` → **`புலியை ?...`**;
-- scan 80 `பொழியலானாள்` → **`பொழியலானார்`**.
+- Unit 18 `மருதாணி` — scans 81–84 / pp.80–83, completing the unit;
+- Unit 19 `அருவி` — scans 85–90 / pp.84–89, complete unit.
 
-Scans 71, 73–76 and 78–79 required no textual correction. The cumulative distinct corrected/re-synchronized assembly count is now **13**. No source title, page span, printed folio mapping or unit boundary changed.
+Three direct-source corrections were required, all in `மருதாணி`, and were applied to canonical page records and propagated to `articles/18-maruthaani.md`:
+
+- scan 82 `இரவாய் சுருங்குவதெப்போதென` → **`இரவாய்ச் சுருங்குவதெப்போதென`**;
+- scan 83 `கலையுமோ?...` → **`கலையுமோ ?...`**;
+- scan 83 `மருதாணி பெரிதோ?...` → **`மருதாணி பெரிதோ ?...`**.
+
+Scans 81 and 84–90 required no textual correction. `அருவி` passed **6 / 6** with no P4 text change. Because `18-maruthaani.md` was already among the corrected assemblies, the cumulative distinct assembly count remains **13**. No source title, page span, printed folio mapping or unit boundary changed.
 
 Current P4 totals:
 
-- strict-reviewed physical scans: **80 / 146**;
-- contiguous strict-reviewed range: **1–80**;
-- cumulative corrections: **139**;
-- corrections propagated to canonical page records: **139 / 139**;
+- strict-reviewed physical scans: **90 / 146**;
+- contiguous strict-reviewed range: **1–90**;
+- cumulative corrections: **142**;
+- corrections propagated to canonical page records: **142 / 142**;
 - P3 assemblies corrected/re-synchronized: **13 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
-P4 remains OPEN. Next batch: **scans 81–90**.
+P4 remains OPEN. Next batch: **scans 91–100**.
 
 ## Gate tracker
 
@@ -116,7 +103,7 @@ P4 remains OPEN. Next batch: **scans 81–90**.
 | P1 | **COMPLETE / PASS** |
 | P2 | **COMPLETE / PASS — 146 / 146 VERIFIED** |
 | P3 | **COMPLETE / PASS — 26 / 26 assemblies** |
-| P4 | **IN PROGRESS — 80 / 146 strict-reviewed** |
+| P4 | **IN PROGRESS — 90 / 146 strict-reviewed** |
 | P5 | **NOT STARTED** |
 | English | **BLOCKED until Tamil P5 freeze** |
 
@@ -124,6 +111,6 @@ Active P4 blockers: **0**.
 
 ## Exact next activity
 
-**P4 scans 81–90.** Finish `மருதாணி` on scans 81–84 / pp.80–83 and review all of `அருவி` on scans 85–90 / pp.84–89. Compare every visible word, word boundary and punctuation mark directly with the controlling source, propagate all proven corrections, and advance the report only after the full batch reconciles.
+**P4 scans 91–100.** Review all of `முறம்` on scans 91–95 / pp.90–94 and the opening five pages of `யாழ்` on scans 96–100 / pp.95–99. `யாழ்` continues through scan 102. Compare every visible word, word boundary and punctuation mark directly with the controlling source, propagate all proven corrections, and advance the report only after the full batch reconciles.
 
 Do not begin English translation.
