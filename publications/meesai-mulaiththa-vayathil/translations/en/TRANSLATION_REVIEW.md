@@ -36,15 +36,16 @@ English work never modifies the frozen Tamil authority.
 
 English title: **O Crescent!**
 
-Material E1 T2 corrections retained in provenance:
+Material E1 review provenance:
 
 1. `Foam on the wave of the sea of sky!` → `Foam of the wave of the sky-sea!`;
 2. freedom/country contrast restructured so both source halves remain explicit;
 3. `my beauty` → `my fair one` for `சுந்தரி`;
 4. `I shall look ... and be transported` → `I gaze ... and am transported`;
-5. closing request tightened around the source self-correction.
+5. closing request tightened around the source self-correction;
+6. T3 preserved stronger source rhetoric including `Do you roam about mounted on the chariot of freedom?` and contextual `Some life you have!`.
 
-Material E1 T3 changes preserved stronger source rhetoric, including `Do you roam about mounted on the chariot of freedom?` and contextual `Some life you have!`. T4 body corrections: **0**. Blockers: **0**.
+T4 body corrections: **0**. Blockers: **0**.
 
 ---
 
@@ -85,81 +86,99 @@ Key durable E2 decisions include `Aadi`, `karukkalaam`, `kattumaram`, `Dravidam`
 | 17 | `தோழி` | `a51eb1efe05152c22c4395e8a84725df197c48b6` | `a2a156117268a0b0754c2a35e7b57fb22994ebdb` | same as T1 | `3f1bcc85fc85c54efb6fec6e28e3277b8304d166` | **Friend** |
 | 18 | `மருதாணி` | `83d3f1ffc24edc85e2b3935d6d7f87f67258a9b6` | `5ab77346c08a89b2d208e9aa81254ef4896cdbb1` | `74b0efc3dbb11a21599872c2d8e9160138dca387` | `5b02e665a8b05b395c1d16927e74ca70306d5da6` | **Henna** |
 
-### E3 T2 fidelity findings — 5 material corrections
+E3 T2 material corrections: **5**:
 
-1. Article 14 `கன்னங் கிளியே சொன்னது பிசகா?` restored as `O cheek-parrot, was what I said wrong?`.
-2. Article 16 `கொம்புத் தேன்`: `comb-honey` → `branch-honey`.
-3. Article 16 `திருவிடத்தின்`: generic `our land` → source-bearing `Thiruvidam`.
-4. Article 16 `ஒரு திங்கள்`: `one month` → `the moon`, preserving the month/moon turn.
+1. Article 14 `கன்னங் கிளியே சொன்னது பிசகா?` restored as `O cheek-parrot, was what I said wrong?`;
+2. Article 16 `கொம்புத் தேன்`: `comb-honey` → `branch-honey`;
+3. Article 16 `திருவிடத்தின்`: generic `our land` → `Thiruvidam`;
+4. Article 16 `ஒரு திங்கள்`: `one month` → `the moon`;
 5. Article 18 `பத்து கிழமை`: `ten weeks` → `ten days`.
 
 T3/T4 additional body corrections: **0 / 0**. Source-boundary coverage: **2/2, 2/2, 3/3, 1/1, 9/9, 6/6, 7/7**. All closing bullets and Article 16 `○` separators preserved. Outside-source imports: **0**. E3 blockers: **0**.
 
 ---
 
-# E4 — Articles 19–22
+## E4 — Articles 19–22
 
-**COMPLETE / PASS — 4 / 4 independently T0→T5 VERIFIED.**
+**COMPLETE / PASS — 4 / 4 independently T0→T5 VERIFIED.** Every live Tamil assembly matched its frozen P5 blob; source drift **0**, frozen Tamil edits **0**.
 
-Every Article 19–22 Tamil assembly was fetched fresh from live `main` and matched its frozen P5 blob before T0. Source drift: **0**. Frozen Tamil edits: **0**.
+| # | Tamil title | Frozen Tamil blob | T1 draft | T2 fidelity | T3/T4 body authority | T5 verified English | English title |
+|---:|---|---|---|---|---|---|---|
+| 19 | `அருவி` | `4c8cf8c296bab2fa08583efc7178eb4cc5310df6` | `0b8e8af817eab9c776177a10ab420bf4adb31eef` | `0fb2061faaa7e8069d80ccac41733259ee2a50aa` | `9f7fd929f1545cd450ab9ff6d80f6164fe89100d` | `ea8fc9a11f6420c95dcfbf64e2e31d1af18d9275` | **Waterfall** |
+| 20 | `முறம்` | `94cb40674f515520dde75b20de55b5558c2bd5ed` | `eaa39f46a023c963b91ce5dab093939c03fdb2c7` | `9fbdb559877a6a17ab3628ade76bfb8adee48c3d` | `b04f7521057a574f40ae7c6f17b5e576868b4dba` | `c8989508e445b99f396e9da0b844cdfa65d46efc` | **Winnowing Tray** |
+| 21 | `யாழ்` | `bf2eea3e6f00893499f209ac631f60d2a4256d5f` | `d289ed41e2f0a1c6068e199e08a243d0f85db2ab` | `c1c81c2d60beef752150b10d34f083d24329d0eb` | `03162ead757a7a0a1cec22196ebb2d5c9fccd712` | `780c6b09d7a008eb197bdf5feacd4f0975b7ca8a` | **Yaazh** |
+| 22 | `சிற்பி` | `9319a924fc172d0b80107c8c4c18157ffee67b30` | `bd3502e31b666a51039ed376d46fd6c8c76a0f4e` | `736faa975270b0f9d9f341d3f5479ec82c01a8af` | `b94d5944d62b51efc5bc6ffed4ba8bcec8d0b5b6` | `84a175942d395689c4c517eff69300adedffe740` | **The Sculptor** |
 
-## E4 gate / blob matrix
+E4 T2 corrections: **3**:
 
-| # | Tamil title | Scans / pp. | Frozen Tamil blob | T1 draft | T2 fidelity | T3/T4 body authority | T5 verified English | English title |
+1. Article 20 source `கிளி கொண்டு` fear element restored in context;
+2. Article 21 `தொட்டிமுத்தான்` restored as `touched and kissed`;
+3. Article 22 `என் நெஞ்சில் நீ கிளம்பும்`: `fire rose` → `you rose`.
+
+E4 T3 corrections: **1** — Article 22 `சேரனும் நமது இனத்தவன்`: `one of our people` → `of our race`. T4 body corrections: **0**. Source-boundary coverage: **6/6, 5/5, 7/7, 12/12**. All closing bullets preserved. Outside-source imports: **0**. E4 blockers: **0**.
+
+---
+
+## E5 — Articles 23–26
+
+**COMPLETE / PASS — 4 / 4 independently T0→T5 VERIFIED.** Every live Tamil assembly was fetched fresh and matched its frozen P5 blob before T0. Source drift: **0**. Frozen Tamil edits: **0**.
+
+### E5 gate / blob matrix
+
+| # | Tamil title | Frozen Tamil blob | T1 draft | T2 fidelity | T3 voice | T4 body authority | T5 verified English | English title |
 |---:|---|---|---|---|---|---|---|---|
-| 19 | `அருவி` | 85–90 / 84–89 | `4c8cf8c296bab2fa08583efc7178eb4cc5310df6` | `0b8e8af817eab9c776177a10ab420bf4adb31eef` | `0fb2061faaa7e8069d80ccac41733259ee2a50aa` | `9f7fd929f1545cd450ab9ff6d80f6164fe89100d` | **`ea8fc9a11f6420c95dcfbf64e2e31d1af18d9275`** | **Waterfall** |
-| 20 | `முறம்` | 91–95 / 90–94 | `94cb40674f515520dde75b20de55b5558c2bd5ed` | `eaa39f46a023c963b91ce5dab093939c03fdb2c7` | `9fbdb559877a6a17ab3628ade76bfb8adee48c3d` | `b04f7521057a574f40ae7c6f17b5e576868b4dba` | **`c8989508e445b99f396e9da0b844cdfa65d46efc`** | **Winnowing Tray** |
-| 21 | `யாழ்` | 96–102 / 95–101 | `bf2eea3e6f00893499f209ac631f60d2a4256d5f` | `d289ed41e2f0a1c6068e199e08a243d0f85db2ab` | `c1c81c2d60beef752150b10d34f083d24329d0eb` | `03162ead757a7a0a1cec22196ebb2d5c9fccd712` | **`780c6b09d7a008eb197bdf5feacd4f0975b7ca8a`** | **Yaazh** |
-| 22 | `சிற்பி` | 103–114 / 102–113 | `9319a924fc172d0b80107c8c4c18157ffee67b30` | `bd3502e31b666a51039ed376d46fd6c8c76a0f4e` | `736faa975270b0f9d9f341d3f5479ec82c01a8af` | `b94d5944d62b51efc5bc6ffed4ba8bcec8d0b5b6` | **`84a175942d395689c4c517eff69300adedffe740`** | **The Sculptor** |
+| 23 | `சேவல் சண்டை` | `f489330920217021f2e3258ec7ddf8f260b171be` | `18154550f490634fb4d5b9656bec0931b605eba6` | `88b391f4823d5ab21a40f84d09ece7490a833a18` | `953ca246fd2e5625397c4c015e9ec31836a71e4e` | same as T3 | `fbede1e68f63d9eb0ee369dd56ae668dd7c617af` | **Cockfight** |
+| 24 | `மடல்` | `9f8560b39ccbd6055f70398111e048b4ac49a9f3` | `9c5f9fcc672b6a05c3154b048eb004d549123484` | `3652fa2311e985a36894641e0fb5b7e3271dd2d9` | `da1aa63d28ab069b8af061671524e3557a6ab0d0` | same as T3 | `9d66aa7a24d1c8725b7c9ae914eadca978a2530c` | **Letter** |
+| 25 | `ஆண்டு விழா` | `3e10a5db4c9726dc19113cb8375d6c6ecb218c52` | `c6a503d7b93a063eb77c561b7abb7127afde6aa1` | `f16e60e93282602209c9fb381c0e0bc78a330182` | `9e446a58f927476852d4e406f07f88f26838770d` | same as T3 | `b46a0dd815a945c7bd56ab61cbc1adf757761917` | **Annual Festival** |
+| 26 | `மயிலிறகு` | `15906fcda69226b4fb42f73a8b242837a831e6c3` | `13c26db89621c424c951e10339b92753c7a9e9a3` | `8ed6a2d35ea17a5edae6ad6b0d055e48792ebd80` | `ab8421b9bdadecb1c2016760da2a56af3c7de0ab` | `5b754b76791df2c3bdca2f8e2542122bd992fb44` | `4862200f97ea4711fc134384fe70355d311a936a` | **Peacock Feather** |
 
-## E4 T2 bilingual fidelity findings
+### E5 T2 bilingual fidelity findings
 
-**PASS — 3 material body corrections.**
+**PASS — 6 material body corrections, all in Article 26.** Articles 23–25 required **0** material body corrections after T1.
 
-1. Article 20: T1 omitted source `கிளி கொண்டு`; the sentence was corrected to preserve the immediate fear sense as **`men like you, gripped by fear, subdue with bows and spears`**. The frozen Tamil source-visible form remains unchanged and is documented in the lexicon.
-2. Article 21: source `தொட்டிமுத்தான் தோகைதனை` had been reduced to touching; **`touched the peahen` → `touched and kissed the peahen`**.
-3. Article 22: source `என் நெஞ்சில் நீ கிளம்பும்` was misread as fire; **`until fire rose in my heart` → `until you rose in my heart`**.
+1. omitted source `கண்புடை பட்டு` restored conservatively as source-bearing `kanpudai-pattu` in the opening execution passage;
+2. dropped `திருமய` element restored as `sacred intoxication` in the selfish-purpose phrase;
+3. `இடையிலாப் பெண்டிர்`: `slender-waisted women` → **`Waistless women`**, preserving the source hyperbole;
+4. `முறுமிவால் மோகத்தால்`: bad `murmuring tail of desire` → **`Murmuring with desire`**;
+5. `மலர்ப்பதி`: generic `flower-settlement` → source-bearing **`Malarppathi`**;
+6. `காலை வந்தாள். காதல் உண்டார்.`: `Morning came. Lovers came together.` → **`Morning came. They feasted on love.`**
 
-Article 19 required **0** T2 body corrections. Final omissions: **0**. Added claims: **0**. Source-comment loss: **0**.
+Final E5 T2 omissions: **0**. Added claims: **0**. Source-comment loss: **0**.
 
-## E4 T3 voice review
-
-**PASS — 1 additional body correction.**
-
-Article 22 source `சேரனும் நமது இனத்தவன்` was strengthened from `the Chera too is one of our people` to **`the Chera too is of our race`**, preserving the direct collective identity claim. Articles 19–21 required no T3 body corrections.
-
-## E4 T4 terminology / quotation / source audit
+### E5 T3 voice review
 
 **PASS — additional body corrections 0.**
 
-- source-boundary comments: Article 19 **6/6**, Article 20 **5/5**, Article 21 **7/7**, Article 22 **12/12**;
-- all four closing bullets preserved;
-- Article 21 opening `Kaanal Vari` quotation remains verse-like and was translated from the frozen Tamil rather than imported from a published English witness;
-- `யாழ்` remains **Yaazh**, `மாபகம்` remains source-bearing **maapakam** without unsupported gloss;
-- `புளி / புலி` tamarind/tiger sound-play remains explicit rather than replaced by an invented English pun;
-- Article 22 source-visible irregularity `சிற்பியின் விழாவில்` is not repaired in frozen Tamil; immediate context is rendered as `in the sculptor's gaze` and the irregularity is documented;
-- outside-source identifications/imported translations: **0**;
-- unresolved terminology/source blockers: **0**.
+The pass confirmed preservation of Article 23's cockfight bravado and domestic sensuality, Article 24's accusatory lover-letter voice and literary parallels, Article 25's erotic dialogue/duty rhetoric, and Article 26's religious-political polemic and rights struggle without academic softening.
 
-`LEXICON.md` now records **117 publication-specific decisions through Article 22**.
+### E5 T4 terminology / quotation / source audit
 
-## E4 T5 verification
+**PASS — 2 source-restraint body corrections, both Article 26.**
 
-**PASS / VERIFIED — 4 / 4.** For Articles 19–22, source blob provenance, complete source representation, ordered source comments, voice, terminology/source audit and final `translation_status: verified` all pass. Active blockers: **0**.
+1. Removed the editorial phrase `source-bearing` that had leaked into the body around `kanpudai-pattu`; the unfamiliar frozen-source phrase itself remains retained without speculative expansion.
+2. Source `உயிர் மதியா ஒளி விளக்கே` corrected from the wrong `Living lamp of reason!` to **`O lamp of light who counted life as nothing!`**, preserving the martyr-like praise.
 
-**E4 RESULT: COMPLETE / PASS. English T5 total is now 22 / 26.**
+Source-boundary comments: Article 23 **8/8**, Article 24 **6/6**, Article 25 **7/7**, Article 26 **10/10**. All four closing bullets are preserved; Article 25's final parenthetical stage direction is preserved. Article 24's Madhavi/Silambu quoted material and Article 26's `யாயும் ஞாயும்...` quotation were translated only from the frozen Tamil witness. Outside-source identifications/imported translations: **0**. Unresolved terminology/source/quotation blockers: **0**.
+
+`LEXICON.md` records **153 publication-specific decisions through Article 26**.
+
+### E5 T5 verification
+
+**PASS / VERIFIED — 4 / 4.** For Articles 23–26, source blob provenance, complete source representation, ordered source comments, voice, terminology/source audit and final `translation_status: verified` all pass. Active blockers: **0**.
+
+**E5 RESULT: COMPLETE / PASS. English T5 total is now 26 / 26.**
 
 ---
 
 ## Current article gate state
 
-- Articles **1–22** — **T0–T5 PASS / VERIFIED**;
-- Articles **23–26** — pending;
-- E0/E1/E2/E3/E4 — **COMPLETE / PASS**;
-- E5 — **NEXT**;
-- E6/E7 — pending;
-- active English blockers — **0**.
+- Articles **1–26** — **T0–T5 PASS / VERIFIED**;
+- E0/E1/E2/E3/E4/E5 — **COMPLETE / PASS**;
+- E6 publication-wide English consistency review — **NEXT**;
+- E7 release closeout — pending;
+- active English blockers — **0**;
+- frozen Tamil edits during E0–E5 — **0**.
 
 ## Exact next activity
 
-**E5 — Articles 23–26 (`சேவல் சண்டை`, `மடல்`, `ஆண்டு விழா`, `மயிலிறகு`).** Re-fetch each frozen Tamil assembly before T0 and process all four independently through **T0→T5**, without modifying frozen Tamil. After E5, run E6 publication-wide English consistency before release closeout.
+**E6 — publication-wide English consistency review.** Re-fetch live `main`, review all 26 verified English articles as one publication against `LEXICON.md` and `ESSAY_TRANSLATION_GUIDE.md`, check recurring names/epithets, Tamil cultural/political terminology, title style, quoted material, source-specific transliterations, source-page comments, tone/directness and accidental cross-article smoothing. Record every E6 correction and final blob change. Do **not** declare English release complete until E6 passes and E7 release closeout is separately completed.
