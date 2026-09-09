@@ -16,7 +16,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 46 / printed 45 -->
 
-O star, you are a shard of light from the full moon, struck against a mountain of cloud and shattered! Creation of a leaping flash of lightning! Scattered rubies from a fallen jewelled crown!
+O star, you are a shard of light from the full moon—as though a block of that light struck a cloud-hill and shattered! Creation of a leaping flash of lightning! Scattered rubies from a fallen jewelled crown!
 
 Nature, the master craftsman, has thatched the whole roof of the sky with pearl-gems of precious stone! You stars are the cluster of flowers that the moon-maiden, waiting for the bridegroom's arrival, has spread across the bed of the sky!
 
