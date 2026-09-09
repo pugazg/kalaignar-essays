@@ -10,12 +10,16 @@ Permanent policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_G
 
 ## Current result
 
-- E0–E5 — **COMPLETE / PASS**;
+- E0–E6 — **COMPLETE / PASS**;
 - verified English articles — **26 / 26**;
 - T0/T1/T2/T3/T4/T5 — **26 / 26** each;
+- E6 publication-wide consistency blockers — **0**;
+- E6 article-body corrections — **0**;
 - unresolved English blockers — **0**;
-- frozen Tamil changes during E0–E5 — **0**;
-- exact next — **E6 publication-wide English consistency review**.
+- frozen Tamil changes during E0–E6 — **0**;
+- exact next — **E7 English release closeout**.
+
+English article verification is complete, but the **release gate is not yet closed**. E7 must complete before this publication is marked English release-complete.
 
 ## Frozen Tamil prerequisite
 
@@ -28,7 +32,7 @@ Permanent policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_G
 
 Translation authority remains frozen Tamil assembly → verified page/source clarification when needed → documented repository notes. OCR, web text, alternate editions and memory are not authority.
 
-## E5 verified English authority
+## E5 final article verification
 
 | # | Tamil title | Frozen Tamil blob | English title | Verified English blob |
 |---:|---|---|---|---|
@@ -37,14 +41,35 @@ Translation authority remains frozen Tamil assembly → verified page/source cla
 | 25 | `ஆண்டு விழா` | `3e10a5db4c9726dc19113cb8375d6c6ecb218c52` | **Annual Festival** | `b46a0dd815a945c7bd56ab61cbc1adf757761917` |
 | 26 | `மயிலிறகு` | `15906fcda69226b4fb42f73a8b242837a831e6c3` | **Peacock Feather** | `4862200f97ea4711fc134384fe70355d311a936a` |
 
-E5 result: T0–T5 **4/4 PASS**; T2 material corrections **6**, all Article 26; T3 additional corrections **0**; T4 source-restraint corrections **2**, both Article 26; unresolved defects **0**. Source-boundary comments passed **8/8, 6/6, 7/7, 10/10**. `LEXICON.md` contains **153** decisions through Article 26. Full provenance is in `translations/en/TRANSLATION_REVIEW.md`.
+E5 result: T0–T5 **4/4 PASS**; T2 material corrections **6**, all Article 26; T3 additional corrections **0**; T4 source-restraint corrections **2**, both Article 26; unresolved defects **0**.
+
+## E6 publication-wide consistency — COMPLETE / PASS
+
+All 26 current English article files were fetched fresh from live `main` and reviewed in source order as one publication.
+
+E6 confirmed:
+
+- `translation_status: verified` — **26 / 26**;
+- frozen Tamil blob provenance retained — **26 / 26**;
+- source-boundary comments — **128 / 128**, scans **18–145 contiguous**;
+- title metadata / H1 agreement — **26 / 26**;
+- closing `●` markers — **26 / 26**;
+- recurring `Aththaan`, `yaazh`, `kattumaram`, calendar/festival, ideological/cultural and source-bearing terminology — **consistent**;
+- literary quotations in Articles 21, 24 and 26 remain translated from frozen Tamil rather than outside English witnesses;
+- voice/directness, repetition, sarcasm, sensuality and polemical force — **consistent**;
+- living lexicon — **153 decisions**, no E6 rule change required;
+- article-body corrections — **0**;
+- unresolved consistency items — **0**.
+
+Intentional source-driven differences such as Article 1 `goddess of freedom` vs Article 3 `queen of freedom`, Article 17 vs Article 25 tiger-claw marriage imagery, contextual `Henna / maruthani`, and Article 19 `Muthamizhars` vs Article 26 `Muthamizhvar—Muthamizhars` remain deliberately distinct.
+
+Full E6 blob matrix and review provenance are recorded in `translations/en/TRANSLATION_REVIEW.md`.
 
 ## Phase sequence
 
-- E0–E5 — **COMPLETE / PASS**
-- E6 publication-wide consistency — **NEXT**
-- E7 release closeout — pending
+- E0–E6 — **COMPLETE / PASS**
+- E7 release closeout — **NEXT**
 
 ## Exact next activity
 
-**E6 — publication-wide English consistency review.** Review all 26 verified English articles together against `LEXICON.md` and `ESSAY_TRANSLATION_GUIDE.md`: recurring names and epithets, title style, Tamil cultural/political vocabulary, quoted material, source-specific transliterations, source-page comments, tone/directness and accidental cross-article smoothing. Record every correction and final blob change. Do not modify frozen Tamil and do not declare English release complete before E7.
+**E7 — English release closeout.** Re-fetch live `main`; verify all 26 English files still exist, remain `verified`, point to the exact frozen Tamil blob SHAs, and agree with the tracker/plan/review records. Confirm Tamil P0–P5 remains frozen, source PDF remains outside GitHub, release blockers are 0, and create the English `translations/en/RELEASE_REPORT.md` following the established completed-publication precedent. Do not reopen verified prose merely for stylistic polishing. Only after E7 PASS may the English release gate be described as closed / complete.
