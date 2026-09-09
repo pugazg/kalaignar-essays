@@ -22,7 +22,7 @@ transcription_method: "direct visual comparison with source scan"
 கண்ணை - இக்கணையைத்
 தூங்கவிட்டு அக்கணைக்கு வேலை தர
 அடவிப் பயணம் - அடுக்குமா அத்தான்
-இது?”
+இது ?”
 
 அவன் : “வக்கணைக்காரி! இக்கணமே இந்தா
 முத்தம்; எண்ணிக்கொள் - இந்தப்
@@ -40,7 +40,7 @@ transcription_method: "direct visual comparison with source scan"
 அவன் : “திங்களியே! தீண்டுவதால் குளிர்
 என்றாய்; முன்பு தீப்போல்
 கொதிக்குமென்றாய் உந்தன் மேனி -
-இதில் எதை நான் நம்புவது?”
+இதில் எதை நான் நம்புவது ?”
 
 அவள் : “குளிர் பொழிகின்ற நிலவினுக்கும்
 வெப்பமுண்டாம் - அதுதான் குறள்
@@ -59,6 +59,7 @@ transcription_method: "direct visual comparison with source scan"
 
 - visible printed folio **129**, running header and every visible dialogue line were directly verified against the supplied 2006 scan.
 - scan 130 deliberately ends inside the final quoted speech at `ஆண்டு ஒன்று`; scan 131 remains controlling for continuation.
-- source-visible forms retained include `அம்பென்றாய்`, `இக்கணையைத்`, `அடுக்குமா`, `வக்கணைக்காரி`, `எக்கமிகு`, `குளிரேற்றிப்`, `தீங்களியே`, `கொதிக்குமென்றாய்`, and `மூன்றாம் பாலினுக்கும்`.
+- source-visible forms retained include `அம்பென்றாய்`, `இக்கணையைத்`, `அடுக்குமா`, `வக்கணைக்காரி`, `எக்கமிகு`, `குளிரேற்றிப்`, `திங்களியே`, `கொதிக்குமென்றாய்`, and `மூன்றாம் பாலினுக்கும்`.
+- P4 strict visual review corrected `இது?”` → `இது ?”` and `நம்புவது?”` → `நம்புவது ?”`; no mapping or unit-boundary change resulted.
 
 <!-- மூல ஸ்கேன் பக்கம்: 130 -->
