@@ -4,7 +4,8 @@ Publication: `publications/meesai-mulaiththa-vayathil/`
 Controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`  
 Physical scans: **146**  
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
-P2 status: **COMPLETE / PASS — 146 / 146 VERIFIED**
+P2 status: **COMPLETE / PASS — 146 / 146 VERIFIED**  
+P3 status: **COMPLETE / PASS — 26 / 26 assemblies**
 
 ## Mapping rule
 
@@ -182,14 +183,21 @@ P2 status: **COMPLETE / PASS — 146 / 146 VERIFIED**
 - `என்னுரை`: **scans 4–6 / mapped and P2 verified**;
 - `முன்னுரை`: **scans 7–16 / mapped and P2 verified**;
 - blank/show-through scan: **17 / mapped and P2 verified**;
-- source-titled main units: **26 / 26 mapped and P2 complete**;
+- source-titled main units: **26 / 26 mapped, P2 complete, P3 assembled**;
 - back cover: **scan 146 / mapped and P2 verified**;
 - unmapped scans: **0**;
 - overlapping main-unit boundaries: **0**;
 - P1 page-sequence blockers: **0**;
 - P2 missing canonical records: **0**;
-- P2 unresolved printed-text blocks: **0**.
+- P2 unresolved printed-text blocks: **0**;
+- P3 source-titled assemblies: **26 / 26**;
+- P3 canonical main-work pages represented: **128 / 128**;
+- P3 missing / unexpected assemblies: **0 / 0**;
+- P3 assembly boundary gaps / overlaps: **0 / 0**;
+- P3 unresolved body-text blocks: **0**.
 
 ## Next gate
 
-**P3 — article/unit assembly.** Assemble the 26 source-titled units from the fully verified canonical page records while preserving exact source wording and page-boundary provenance. P3 does not authorize English translation; English remains blocked until Tamil P5 freeze.
+**P4 — final strict visual text-fidelity pass.** Re-inspect all 146 physical scans directly, word-by-word and punctuation-by-punctuation, preserve source-witness distinctions, record every old reading → source-visible reading correction, propagate corrections to dependent assemblies/indexes/status records, and create `VISUAL_TEXT_FIDELITY_REVIEW.md` before closing P4.
+
+P4 does not authorize English translation; English remains blocked until Tamil P5 freeze.
