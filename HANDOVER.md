@@ -9,7 +9,7 @@ Branch: `main`
 
 Publications **1–9 are RELEASE COMPLETE / FROZEN**.
 
-Active Publication **10 — `மீசை முளைத்த வயதில்` — Tamil P0–P5 COMPLETE / PASS / FROZEN; English E0 COMPLETE / PASS; E1 Article 1 `பிறையே` COMPLETE / PASS through T0–T5; 1 / 26 English articles verified; E2 Articles 2–11 is next.**
+Active Publication **10 — `மீசை முளைத்த வயதில்` — Tamil P0–P5 COMPLETE / PASS / FROZEN; English E0, E1 and E2 COMPLETE / PASS; Articles 1–11 are T0–T5 VERIFIED; 11 / 26 English articles verified; E3 Articles 12–18 is next.**
 
 Source PDFs are never committed.
 
@@ -20,7 +20,7 @@ Source PDFs are never committed.
 3. read this root handover and `docs/NEXT_CHAT_PROMPT.md`;
 4. read Publication 10 `TRANSLATION_PLAN.md`, `PUBLICATION_COMPLETION_REVIEW.md`, publication `README.md`, `audit.md`, and `metadata/source.md`;
 5. read `translations/en/README.md`, `LEXICON.md`, and `TRANSLATION_REVIEW.md`;
-6. for each E2 article, fetch the Tamil assembly fresh and confirm its frozen blob before T0;
+6. for each E3 article, fetch the Tamil assembly fresh and confirm its frozen blob before T0;
 7. preserve Publications 1–9 and Publication 10's frozen Tamil layer unless new direct controlling-source evidence requires a formally documented reopening.
 
 ---
@@ -53,92 +53,89 @@ P5: **COMPLETE / PASS / TAMIL FROZEN**. Tracker/English commits do not change th
 - 26 / 26 frozen Tamil assemblies inventoried;
 - 26 / 26 article blob SHAs pinned;
 - translation plan, tracker, living lexicon and review ledger initialized;
-- E0 blockers: **0**.
+- blockers: **0**.
 
 ## English E1 — Article 1 `பிறையே` — COMPLETE / PASS
 
-Article 1 passed **T0 → T1 → T2 → T3 → T4 → T5**.
+Article 1 passed **T0→T5** and established the voice baseline.
 
-Tamil authority:
+- English title: **O Crescent!**;
+- Tamil blob: `5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`;
+- final verified English blob: `1d07e03ba84353b2da7c0a344d6ae61c3223caf0`;
+- blockers: **0**.
 
-- `articles/01-piraiye.md`;
-- frozen/live blob **`5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`**;
-- scans **18–20 / pp.17–19**;
-- source drift **0**.
+## English E2 — Articles 2–11 — COMPLETE / PASS
 
-English authority:
+Every E2 Tamil article was fetched fresh and matched its frozen P5 blob. All ten articles independently passed **T0→T5**.
 
-- `translations/en/01-piraiye.md`;
-- title **O Crescent!**;
-- final verified blob **`1d07e03ba84353b2da7c0a344d6ae61c3223caf0`**;
-- `translation_status: verified`;
-- unresolved blockers **0**.
+| # | Tamil title | English title | Final verified English blob |
+|---:|---|---|---|
+| 2 | `ஆடிக்காற்று` | **Aadi Wind** | `e93c9ad4d37c81f5bea9decfddd9274469428e52` |
+| 3 | `கருப்புப் பெண்` | **Black Woman** | `de2296d28841cb0643d979cf36cbbe7dc2e9ea9f` |
+| 4 | `கடலே` | **O Sea!** | `e0f1f5dbf2caf125584134665a3284582d09ae20` |
+| 5 | `ஆறு` | **River** | `584b98a34a78d32d53b895e16422fa63c8f66af1` |
+| 6 | `வாழிய வைகறை` | **Hail the Dawn!** | `0c2c529cc0f72a522c8c11852e5ba14a88a89f95` |
+| 7 | `அகப்பை சித்தர்` | **The Ladle Siddhar** | `cdf0a9aef9edb2c77a7d32382c66aaddb8e6868b` |
+| 8 | `மலையே வாழி` | **Hail, Mountain!** | `2417a5aa1daa4154445c4229d79413a0fa830a76` |
+| 9 | `தளிர்` | **Tender Shoot** | `74e3bc25b4a48d3a2b1b79c37cbf8ec00c3e5be8` |
+| 10 | `விண்மீன்` | **Star** | `2a57db76a77edff3372434a6b52e9edabb0d56fe` |
+| 11 | `தனிமை` | **Solitude** | `21357b316923e311a4dd234ee550dcecbf95e035` |
 
-Gate history:
+E2 gate result:
 
-- T1 draft — `bea5bb243e6f141d24b53bbca4df2ec28c1238ce`;
-- T2 fidelity-reviewed — `8c7bccb8565098fef4a6e568a7d21cfd90fc583e`;
-- T3/T4 body authority — `f5d50c76d45d3016ced2ea38bb88f3e93df6f68e`;
-- T5 verified — `1d07e03ba84353b2da7c0a344d6ae61c3223caf0`.
+- T0/T1/T2/T3/T4/T5: **10 / 10 PASS at every gate**;
+- material T2 body corrections: **5**, in Articles 2, 3, 8, 10 and 11;
+- additional T3 body corrections: **0**;
+- additional T4 body corrections: **0**;
+- omissions / added claims / unresolved quotation/source/terminology blockers: **0**;
+- frozen Tamil changes: **0**.
 
-E1 established the voice baseline:
-
-- preserve compact literary compounds when intelligible (`sky-sea`);
-- preserve direct vocatives/personification;
-- preserve deliberate refrains and reversals;
-- keep sarcastic rhetorical force (`Some life you have!`);
-- retain concrete prison/freedom, moon/darkness and beloved/freedom imagery;
-- never import outside identification merely to smooth literary language.
-
-`translations/en/LEXICON.md` now contains **12** Article-1 publication-specific decisions. Detailed review provenance is in `TRANSLATION_REVIEW.md`.
+Durable source-sensitive decisions include `Aadi`, `karukkalaam`, `kattumaram`, `Dravidam`, `gosha woman`, `paambu / paapam`, `tailed star`, `Appa / Aatha`, `Sir Kovalan`, and the Solitude/thought/imagination “child” metaphor. `LEXICON.md` contains **58** publication-specific decisions through Article 11. Full gate/correction provenance is in `TRANSLATION_REVIEW.md`.
 
 ## Current gate state
 
 - P0–P5 — **COMPLETE / PASS — TAMIL FROZEN**;
 - E0 — **COMPLETE / PASS**;
 - E1 — **COMPLETE / PASS**;
-- English T0 passed — **1 / 26**;
-- T1 passed — **1 / 26**;
-- T2 passed — **1 / 26**;
-- T3 passed — **1 / 26**;
-- T4 passed — **1 / 26**;
-- T5 verified — **1 / 26**;
-- E2 — **NEXT**;
+- E2 — **COMPLETE / PASS**;
+- English T0 passed — **11 / 26**;
+- T1 passed — **11 / 26**;
+- T2 passed — **11 / 26**;
+- T3 passed — **11 / 26**;
+- T4 passed — **11 / 26**;
+- T5 verified — **11 / 26**;
+- E3 — **NEXT**;
 - E6/E7 — **NOT STARTED**;
 - active Tamil/source blockers — **0**;
 - active English blockers — **0**.
 
-## E2 source set — Articles 2–11
+## E3 source set — Articles 12–18
 
 Process in source order; each independently passes T0→T5:
 
 | # | Tamil title | Frozen Tamil blob |
 |---:|---|---|
-| 2 | `ஆடிக்காற்று` | `bc0133b4c7d65a4976e22f514405f4edf9dab3ba` |
-| 3 | `கருப்புப் பெண்` | `83d5a163a94636df59e3e2b5c587ee4f1e4420ca` |
-| 4 | `கடலே` | `703c95c656f8b7ff2536765fd8a8e04a0dac42e2` |
-| 5 | `ஆறு` | `c721c64678f1b9c715e9c22e6cbc99ffdfd10b23` |
-| 6 | `வாழிய வைகறை` | `ad42510f051c48bba896a2c6d20c0994e120b762` |
-| 7 | `அகப்பை சித்தர்` | `9b092fc67bb2bf2cb94df94e31abfabf5067b149` |
-| 8 | `மலையே வாழி` | `bcd00b14b0fd8810acba3195759abf7c66c310f6` |
-| 9 | `தளிர்` | `a67fc770ac6416d39d92efbe4d111c2d95ea2cb6` |
-| 10 | `விண்மீன்` | `4528ec19f5efe1d7ffb68064d2b016801f2941ca` |
-| 11 | `தனிமை` | `e6aa86d8f1f01cc5cb536fb601e8908053a5d078` |
+| 12 | `நாடக மேடை` | `8c9f14ced50e28ce620cd6d1ff31d3a69ee21b3a` |
+| 13 | `புகழ்` | `ff4bbf7aae731741239a09aa5612d55f944c275a` |
+| 14 | `பச்சைக்கிளி` | `41195b3b9fcf54ddc5f3df041479ca4ca91fcd0f` |
+| 15 | `தமிழே` | `907600b23474c7a7a4376fc6dac2dc0083d5178f` |
+| 16 | `தேனலைகள்` | `72ccb3b32df2df70ad9949caddd2b773b70705a6` |
+| 17 | `தோழி` | `a51eb1efe05152c22c4395e8a84725df197c48b6` |
+| 18 | `மருதாணி` | `83d3f1ffc24edc85e2b3935d6d7f87f67258a9b6` |
 
-## Exact next activity — E2 Articles 2–11
+## Exact next activity — E3 Articles 12–18
 
 When the user says proceed/continue:
 
 1. fetch live `main` first and preserve newer durable work;
-2. re-read this handover, `TRANSLATION_PLAN.md`, English tracker, lexicon/review ledger, and `ESSAY_TRANSLATION_GUIDE.md`;
-3. fetch Articles **2–11** Tamil assemblies fresh and confirm each live blob matches the frozen matrix above before T0;
-4. process all ten articles in source order, each independently through **T0 → T1 → T2 → T3 → T4 → T5**;
-5. preserve Article 1 as a voice baseline, not a mechanical lexical template;
-6. update `LEXICON.md` continuously with publication-specific decisions from each source;
-7. record all T1/T2/T3/T4/T5 blob/provenance and review corrections in `TRANSLATION_REVIEW.md`;
-8. update English tracker, translation plan, publication README/audit/source metadata, this root handover, root README and `docs/NEXT_CHAT_PROMPT.md`;
-9. do **not** alter frozen Tamil;
-10. after all ten pass, durable English status should be **11 / 26 verified** and E3 Articles 12–18 becomes next.
+2. re-read this handover, `TRANSLATION_PLAN.md`, English tracker, living lexicon/review ledger and `ESSAY_TRANSLATION_GUIDE.md`;
+3. fetch Articles **12–18** Tamil assemblies fresh and confirm each live blob matches the matrix above before T0;
+4. process all seven articles in source order, each independently through **T0 → T1 → T2 → T3 → T4 → T5**;
+5. preserve the established English voice baseline but make source-specific lexical decisions from each article;
+6. update `LEXICON.md` continuously and preserve all corrections/provenance in `TRANSLATION_REVIEW.md`;
+7. synchronize English tracker, translation plan, publication README/audit/source metadata, this handover, root README and `docs/NEXT_CHAT_PROMPT.md`;
+8. do **not** alter frozen Tamil;
+9. after all seven pass, durable English status should be **18 / 26 verified** and E4 Articles 19–22 becomes next.
 
 ---
 
