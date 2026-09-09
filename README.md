@@ -31,47 +31,39 @@ Released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
 Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mulaiththa-vayathil/)
 
-**P0–P3 COMPLETE / PASS. P4 IN PROGRESS — scans 1–100 / 100 of 146 strict-reviewed.**
+**Tamil P0–P5 COMPLETE / PASS / FROZEN. English E0 COMPLETE / PASS. E1 Article 1 `பிறையே` calibration is next.**
+
+Tamil state:
 
 - controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
 - source SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
-- file size: **374,123,900 bytes**;
 - physical scans: **146**;
-- source form: image-only multi-piece youthful literary/prose collection;
-- supplied edition: **இரண்டாம் பதிப்பு — அக்டோபர் 2006**.
+- canonical page records: **146 / 146 VERIFIED**;
+- source-titled assemblies: **26 / 26**;
+- canonical main-work pages: **128 / 128**;
+- P4 strict-reviewed scans: **146 / 146**;
+- P4 corrections: **207 / 207 propagated**;
+- unresolved Tamil source/fidelity blockers: **0**;
+- frozen `pages/` tree: `f7930b3696668cdbc2d692a284b49586d09a3372`;
+- frozen `articles/` tree: `b7593357dc5ba101362c7a303881bea4e63e9b68`.
 
-P1 remains **146 / 146 scans**, **26 / 26 source-titled units**. Permanent source-title readings remain `அகப்பை சித்தர்`, `தளிர்`, and `மயிலிறகு`.
+English E0 workspace:
 
-P2 final state: **146 / 146 VERIFIED**, missing records **0**, unresolved printed-text blocks **0**, source-titled units **26 / 26**.
+- [`publications/meesai-mulaiththa-vayathil/TRANSLATION_PLAN.md`](publications/meesai-mulaiththa-vayathil/TRANSLATION_PLAN.md) — initialized;
+- `translations/en/README.md` — initialized;
+- `translations/en/LEXICON.md` — initialized;
+- `translations/en/TRANSLATION_REVIEW.md` — initialized;
+- per-article frozen Tamil blob provenance: **26 / 26 recorded**;
+- English body files: **0 / 26**;
+- formal T0 gates: **0 / 26**;
+- T5 verified articles: **0 / 26**;
+- E0 blockers: **0**.
 
-P3 final state: **26 / 26 assemblies**, **128 / 128** canonical main-work pages, scan coverage **18–145**, boundary gaps/overlaps **0 / 0**, unresolved body text **0**.
-
-P4 running state:
-
-- formal report: `publications/meesai-mulaiththa-vayathil/VISUAL_TEXT_FIDELITY_REVIEW.md`;
-- strict-reviewed physical scans: **100 / 146**;
-- contiguous range: **1–100**;
-- cumulative corrections: **157**;
-- corrections propagated: **157 / 157**;
-- P3 assemblies corrected/re-synchronized: **15 distinct assemblies**;
-- unresolved fidelity discrepancies: **0**;
-- blockers: **0**.
-
-P4-061-070 passed with **2** direct-source punctuation corrections, both on scan 69 / `தேனலைகள்`: `கோமானே!....` → `கோமானே!...` and `பரிசு!....` → `பரிசு!...`; `articles/16-thenalaigal.md` was re-synchronized.
-
-P4-071-080 passed with **5** direct-source corrections: scan 72 `முத்தவள` → `முத்தவள்`; scan 77 `இதோ யார்` → `இதோ பார்`, `அவனா?...` → `அவனா ?...`, `புலியை?...` → `புலியை ?...`; scan 80 `பொழியலானாள்` → `பொழியலானார்`. `articles/17-thozhi.md` and `articles/18-maruthaani.md` were re-synchronized.
-
-P4-081-090 passed with **3** direct-source corrections, all in `மருதாணி`: scan 82 `இரவாய் சுருங்குவதெப்போதென` → `இரவாய்ச் சுருங்குவதெப்போதென`; scan 83 `கலையுமோ?...` → `கலையுமோ ?...` and `மருதாணி பெரிதோ?...` → `மருதாணி பெரிதோ ?...`. `articles/18-maruthaani.md` was re-synchronized. `அருவி` scans 85–90 passed with no correction.
-
-P4-091-100 passed with **15** direct-source corrections across `முறம்` and `யாழ்`. `articles/20-muram.md` and `articles/21-yaazh.md` were re-synchronized; scans 92, 96 and 100 required no textual correction. `முறம்` is fully P4-reconciled and `யாழ்` continues through scan 102.
-
-English remains **BLOCKED until Tamil P5 freeze**.
+Planned English phases: **E1 Article 1**, **E2 Articles 2–11**, **E3 Articles 12–18**, **E4 Articles 19–22**, **E5 Articles 23–26**, then **E6 consistency** and **E7 release closeout**. Every article independently passes T0–T5.
 
 ## Current repository boundary
 
-Publication 10 P4 is **IN PROGRESS — 100 / 146 strict-reviewed, 157 cumulative corrections, 15 distinct P3 assemblies re-synchronized, 0 unresolved discrepancies, blockers 0**.
-
-Exact next activity: **P4 scans 101–110** — finish `யாழ்` on scans 101–102 and begin `சிற்பி` on scans 103–110; `சிற்பி` continues beyond scan 110.
+Exact next activity: **E1 — Article 1 `பிறையே` calibration**. Confirm frozen Tamil blob `5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`, then process Article 1 through **T0 → T1 → T2 → T3 → T4 → T5** as the English voice baseline. Do not modify frozen Tamil.
 
 ### Permanent `உடன்பிறப்பே` rule
 
