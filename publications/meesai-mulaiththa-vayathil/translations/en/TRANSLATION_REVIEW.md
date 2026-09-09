@@ -2,7 +2,8 @@
 
 Publication: `மீசை முளைத்த வயதில்`  
 English workflow authority: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TRANSLATION_GUIDE.md)  
-Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
+Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)  
+Release report: [`RELEASE_REPORT.md`](RELEASE_REPORT.md)
 
 ## Frozen prerequisite
 
@@ -252,16 +253,38 @@ No verified English article blob changed during E6.
 
 **None.** Publication-wide English consistency blockers: **0**.
 
-**E6 RESULT: COMPLETE / PASS.** This does **not** close the English release gate; **E7 release closeout is next**.
+**E6 RESULT: COMPLETE / PASS.**
 
 ---
 
-## Current article / publication gate state
+## E7 — English release closeout — PASSED / COMPLETE
+
+E7 revalidated the current release-facing state against the unchanged E6-reviewed commit and blob set before release bookkeeping.
+
+- pre-E7 live `main`: `e8a85cc825c3b328c178ba47bafdb5cc24ca714c`;
+- pre-E7 root tree: `d3a11526ee568a160a31f8a996b4953188859736`;
+- current English article blobs matched the complete E6 matrix **26/26**;
+- frozen Tamil `articles/` tree remained `b7593357dc5ba101362c7a303881bea4e63e9b68`;
+- frozen Tamil `pages/` tree remained `f7930b3696668cdbc2d692a284b49586d09a3372`;
+- source PDF present in repository: **No**;
+- English/Tamil article body changes during E7: **0 / 0**;
+- release blockers: **0**.
+
+Full release validation, the 26-row English/Tamil blob matrix, source-witness checks and final gate state are recorded in [`RELEASE_REPORT.md`](RELEASE_REPORT.md).
+
+**E7 RESULT: PASSED / COMPLETE. ENGLISH RELEASE GATE CLOSED.**
+
+---
+
+## Final publication gate state
 
 - Articles **1–26** — **T0–T5 PASS / VERIFIED**;
-- E0/E1/E2/E3/E4/E5/E6 — **COMPLETE / PASS**;
+- E0/E1/E2/E3/E4/E5/E6/E7 — **COMPLETE / PASS**;
 - English article bodies — **26 / 26**;
-- E6 article-body corrections — **0**;
-- active English consistency blockers — **0**;
-- frozen Tamil edits during E0–E6 — **0**;
-- E7 English release closeout — **NEXT**.
+- English translation — **COMPLETE**;
+- English release gate — **CLOSED**;
+- active Tamil/source blockers — **0**;
+- active English/translation/release blockers — **0**;
+- frozen Tamil edits during E0–E7 — **0**.
+
+Publication 10 is **RELEASE COMPLETE / FROZEN**. Reopen only for a genuine source-supported defect.
