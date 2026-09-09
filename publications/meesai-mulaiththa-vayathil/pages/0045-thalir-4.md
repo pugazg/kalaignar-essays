@@ -26,7 +26,7 @@ transcription_method: "direct visual comparison with source scan"
 
 நீ விளையாடுவது பாம்போடு! அவர்கள் விளையாடுவது ‘பாபச்’ செயலோடு!
 
-ஆனால்
+ஆனால் -
 
 நீ யாரையும் கெடுப்பதில்லை - அதனால்தான் உனக்குக் கடவுள் அவசியமுமில்லை.
 
@@ -40,7 +40,13 @@ transcription_method: "direct visual comparison with source scan"
 ## P2 audit note
 
 - visible printed folio **44**, running header, complete closing passage and final bullet directly verified against the supplied 2006 scan.
-- source-visible punctuation and word boundaries retained, including `நீ - நல்ல மனம் படைத்த தளிர்`, quoted `‘பாபச்’`, standalone `ஆனால்`, and `கெடுப்பதில்லை - அதனால்தான்`.
-- Unit 9 `தளிர்` is P2 page-layer COMPLETE on scans 42–45 / printed pp.41–44; all four canonical pages are verified.
+- source-visible punctuation and word boundaries retained, including `நீ - நல்ல மனம் படைத்த தளிர்`, quoted `‘பாபச்’`, standalone `ஆனால் -`, and `கெடுப்பதில்லை - அதனால்தான்`.
+- Unit 9 `தளிர்` is complete on scans 42–45 / printed pp.41–44.
+
+## P4 strict-fidelity note
+
+- strict visual review rechecked scan 45 against the controlling 2006 pixels.
+- corrected standalone `ஆனால்` → source-visible **`ஆனால் -`**.
+- unresolved fidelity discrepancies after correction: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 45 -->
