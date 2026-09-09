@@ -68,21 +68,26 @@ Permanent corrected source-visible titles remain:
 
 P1 remains **146 / 146 scans**, **26 / 26 units**, unmapped scans **0**, boundary overlaps **0**, duplicate blockers **0**.
 
-## Current P2 overlay
+## P2 overlay — COMPLETE / PASS
 
-P1 remains **COMPLETE / PASS**. P2 durable frontier is now **130 / 146 VERIFIED**, contiguous through scan 130.
+P2 now covers **146 / 146 VERIFIED**, contiguous through the final physical scan.
 
-- complete main-work units: **24 / 26**, through Unit 24 `மடல்`;
-- Unit 23 `சேவல் சண்டை`: scans 115–122 / pp.114–121 — **8 / 8 VERIFIED / COMPLETE**;
-- Unit 24 `மடல்`: scans 123–128 / pp.122–127 — **6 / 6 VERIFIED / COMPLETE**;
-- Unit 25 `ஆண்டு விழா`: scans 129–130 / pp.128–129 — **2 / 7 VERIFIED so far**; continues through scan 135 / p.134;
-- missing canonical records in scans 1–130: **0**;
-- unresolved printed-text blocks in verified scans: **0**;
-- P2 blockers: **0**;
-- P3 remains **NOT STARTED**.
+- front matter and blank scan 17: **COMPLETE**;
+- all source-titled main-work units: **26 / 26 COMPLETE** at the P2 page layer;
+- Unit 25 `ஆண்டு விழா`: scans 129–135 / pp.128–134 — **7 / 7 VERIFIED / COMPLETE**;
+- Unit 26 `மயிலிறகு`: scans 136–145 / pp.135–144 — **10 / 10 VERIFIED / COMPLETE**;
+- scan 146 back cover / promotional text: **VERIFIED**;
+- missing canonical records: **0**;
+- unresolved printed-text blocks: **0**;
+- P2 blockers: **0**.
 
-The completed 121–130 batch directly confirms `சேவல் சண்டை` closure at scan 122, the illustrated opening and closure of `மடல்` on scans 123–128, and the illustrated opening of `ஆண்டு விழா` at scan 129. `P2_BATCH_121_130.md` is the canonical batch audit. Scan 130 ends at `ஆண்டு ஒன்று`; scan 131 is the next direct-source continuation page.
+Final batch audits:
+
+- `P2_BATCH_131_140.md` — closes `ஆண்டு விழா` and verifies the first half of `மயிலிறகு`;
+- `P2_BATCH_141_146.md` — closes `மயிலிறகு`, verifies scan 146, and closes P2.
+
+The supplied 2006 scan pixels remained controlling throughout. OCR was not authority and no alternate-edition wording was silently imported.
 
 ## Exact next activity
 
-**Next P2 activity: scans 131–140 only.** Continue and close Unit 25 `ஆண்டு விழா` on scans 131–135 / pp.130–134; then begin Unit 26 `மயிலிறகு` on scans 136–140 / pp.135–139 of its 136–145 span. Preserve the permanent source title `மயிலிறகு` on scan 136. Every physical scan must retain a canonical page record; printed text, illustrations and physical-copy marks remain distinct; OCR is not authority. Stop after scan 140 and do not begin P3 assembly or English translation unless separately authorised.
+**P3 article/unit assembly.** Assemble the 26 source-titled units from the fully verified canonical page records while preserving source wording and page-boundary provenance. Do not begin English translation; English remains blocked until Tamil P5 freeze.
