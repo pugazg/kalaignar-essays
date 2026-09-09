@@ -6,7 +6,7 @@ Physical scans: **146**
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
 P2 status: **COMPLETE / PASS — 146 / 146 VERIFIED**  
 P3 status: **COMPLETE / PASS — 26 / 26 assemblies**  
-P4 status: **IN PROGRESS — scans 1–30 / 30 of 146 strict-reviewed**
+P4 status: **IN PROGRESS — scans 1–40 / 40 of 146 strict-reviewed**
 
 ## Mapping rule
 
@@ -201,14 +201,14 @@ P4 status: **IN PROGRESS — scans 1–30 / 30 of 146 strict-reviewed**
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- physical scans strict-reviewed: **30 / 146**;
-- contiguous reviewed range: **1–30**;
-- cumulative corrections: **41**;
-- corrections propagated: **41 / 41**;
-- P3 assemblies corrected/re-synchronized: **3**;
+- physical scans strict-reviewed: **40 / 146**;
+- contiguous reviewed range: **1–40**;
+- cumulative corrections: **84**;
+- corrections propagated: **84 / 84**;
+- P3 assemblies corrected/re-synchronized: **7 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - P4 mapping/boundary changes: **0**.
 
-Batch P4-021-030 produced **35** direct controlling-source corrections across Units 2–4 (`ஆடிக்காற்று`, `கருப்புப் பெண்`, `கடலே`). The three dependent P3 assemblies were re-synchronized. Scan 29's prior `சிங்காரச் “செம்படச்சி”` phrase was removed because it is absent from the controlling source. These corrections alter text fidelity only; no source title, scan span, printed-page mapping, or unit boundary changed.
+Batch P4-031-040 produced **43** direct controlling-source corrections across Units 5–8 (`ஆறு`, `வாழிய வைகறை`, `அகப்பை சித்தர்`, and scans 39–40 of `மலையே வாழி`). Four dependent P3 assemblies were re-synchronized. These corrections alter text fidelity only; no source title, scan span, printed-page mapping, or unit boundary changed.
 
-Exact next strict-review batch: **scans 31–40**. English remains blocked until Tamil P5 freeze.
+Exact next strict-review batch: **scans 41–50**. Scan 41 closes `மலையே வாழி`; scans 42–45 cover `தளிர்`; scans 46–48 cover `விண்மீன்`; scans 49–50 begin `தனிமை`. English remains blocked until Tamil P5 freeze.
