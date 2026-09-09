@@ -3,7 +3,7 @@
 Publication: `publications/meesai-mulaiththa-vayathil/`  
 Controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`  
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
-P4 status: **IN PROGRESS — scans 1–60 / 60 of 146 strict-reviewed**
+P4 status: **IN PROGRESS — scans 1–80 / 80 of 146 strict-reviewed**
 
 ## Source-witness warning
 
@@ -106,20 +106,22 @@ The 26 source-titled rows above map one-to-one to the live P3 files in `articles
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- strict-reviewed physical scans: **60 / 146**;
-- contiguous reviewed range: **1–60**;
-- cumulative corrections: **132**;
-- corrections propagated: **132 / 132**;
-- P3 assemblies corrected/re-synchronized: **10 distinct assemblies**;
+- strict-reviewed physical scans: **80 / 146**;
+- contiguous reviewed range: **1–80**;
+- cumulative corrections: **139**;
+- corrections propagated: **139 / 139**;
+- P3 assemblies corrected/re-synchronized: **13 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - mapping/title-boundary changes caused by P4 so far: **0**.
 
-Batch P4-051-060 passed after corrective strict review with **2 direct-source corrections**, both in `தனிமை`: scan 52 `ஒரு முத்தங்கள் கொடுங்கள் தான்”` → `ஒரு முத்தங்கள் கொடுங்களத்தான்”`, and scan 53 `ஒவியத்தை` → `ஓவியத்தை`. The affected `articles/11-thanimai.md` assembly was re-synchronized. Scans 51 and 54–60 required no textual correction.
+P4-061-070 passed with **2** direct-source punctuation corrections on scan 69 / `தேனலைகள்`: `கோமானே!....` → `கோமானே!...` and `பரிசு!....` → `பரிசு!...`; `articles/16-thenalaigal.md` was re-synchronized.
 
-No source-title or unit-boundary change resulted from P4 through scan 60; the 26-unit source map above remains unchanged. `பச்சைக்கிளி` continues on scan 61.
+P4-071-080 passed with **5** direct-source corrections: scan 72 `முத்தவள` → `முத்தவள்`; scan 77 `இதோ யார்` → `இதோ பார்`, `அவனா?...` → `அவனா ?...`, `புலியை?...` → `புலியை ?...`; scan 80 `பொழியலானாள்` → `பொழியலானார்`. `articles/17-thozhi.md` and `articles/18-maruthaani.md` were re-synchronized.
+
+No source-title or unit-boundary change resulted from P4 through scan 80; the 26-unit source map above remains unchanged. `மருதாணி` continues through scan 84.
 
 ## Exact next activity
 
-**P4 scans 61–70.** Finish `பச்சைக்கிளி` on scan 61, review single-page `தமிழே` on scan 62, and strict-review `தேனலைகள்` scans 63–70. Record every old reading → source-visible reading correction with provenance, propagate affected canonical text into dependent P3 assemblies, and update this overlay only after the full batch is reconciled.
+**P4 scans 81–90.** Finish `மருதாணி` on scans 81–84 / pp.80–83 and strict-review all of `அருவி` on scans 85–90 / pp.84–89. Record every old reading → source-visible reading correction with provenance, propagate affected canonical text into dependent P3 assemblies, and update this overlay only after the full batch is reconciled.
 
 English remains blocked until Tamil P5 freeze.
