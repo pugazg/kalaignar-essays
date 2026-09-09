@@ -21,23 +21,24 @@ Permanent source-title readings remain `அகப்பை சித்தர்
 
 ## English workflow
 
-- E0–E4 — **COMPLETE / PASS**;
-- English body files / T0 / T1 / T2 / T3 / T4 / T5 — **22 / 26**;
+- E0–E5 — **COMPLETE / PASS**;
+- English body files / T0 / T1 / T2 / T3 / T4 / T5 — **26/26**;
 - unresolved English blockers — **0**;
 - frozen Tamil changes during English work — **0**;
-- E5 Articles 23–26 — **NEXT**.
+- E6 publication-wide consistency review — **NEXT**;
+- E7 release closeout — pending.
 
-## E4 verified authorities
+## E5 verified authorities
 
 | # | Tamil | English | Verified English blob |
 |---:|---|---|---|
-| 19 | `அருவி` | **Waterfall** | `ea8fc9a11f6420c95dcfbf64e2e31d1af18d9275` |
-| 20 | `முறம்` | **Winnowing Tray** | `c8989508e445b99f396e9da0b844cdfa65d46efc` |
-| 21 | `யாழ்` | **Yaazh** | `780c6b09d7a008eb197bdf5feacd4f0975b7ca8a` |
-| 22 | `சிற்பி` | **The Sculptor** | `84a175942d395689c4c517eff69300adedffe740` |
+| 23 | `சேவல் சண்டை` | **Cockfight** | `fbede1e68f63d9eb0ee369dd56ae668dd7c617af` |
+| 24 | `மடல்` | **Letter** | `9d66aa7a24d1c8725b7c9ae914eadca978a2530c` |
+| 25 | `ஆண்டு விழா` | **Annual Festival** | `b46a0dd815a945c7bd56ab61cbc1adf757761917` |
+| 26 | `மயிலிறகு` | **Peacock Feather** | `4862200f97ea4711fc134384fe70355d311a936a` |
 
-E4: T0–T5 **4/4 PASS**; T2 material corrections **3**; extra T3 correction **1**; T4 body corrections **0**; omissions/additions/unresolved source or terminology blockers **0**. Source-boundary coverage **6/6, 5/5, 7/7, 12/12**. `LEXICON.md` records **117** decisions through Article 22; full provenance is in `TRANSLATION_REVIEW.md`.
+E5: T0–T5 **4/4 PASS**; T2 material corrections **6**, all Article 26; T3 additional corrections **0**; T4 source-restraint corrections **2**, both Article 26; omissions/additions/unresolved source or terminology blockers **0**. Source-boundary coverage **8/8, 6/6, 7/7, 10/10**. `LEXICON.md` records **153** decisions through Article 26; full provenance is in `TRANSLATION_REVIEW.md`.
 
 ## Exact next activity
 
-**E5 — Articles 23–26 (`சேவல் சண்டை`, `மடல்`, `ஆண்டு விழா`, `மயிலிறகு`).** Re-fetch all four frozen Tamil assemblies, confirm each pinned blob before T0, and process each independently through **T0→T5**. Do not modify frozen Tamil. After E5, run E6 publication-wide English consistency.
+**E6 — publication-wide English consistency review.** Review all 26 verified English articles together for recurring names/epithets, title style, cultural/political terminology, quoted material, transliterations, source-page comments and voice consistency. Record every E6 correction. Do not modify frozen Tamil and do not declare English release complete before E7.
