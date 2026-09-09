@@ -3,7 +3,7 @@
 Publication: `publications/meesai-mulaiththa-vayathil/`  
 Controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`  
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
-P4 status: **IN PROGRESS — scans 1–10 / 10 of 146 strict-reviewed**
+P4 status: **IN PROGRESS — scans 1–20 / 20 of 146 strict-reviewed**
 
 ## Source-witness warning
 
@@ -106,21 +106,21 @@ The 26 source-titled rows above map one-to-one to the live P3 files in `articles
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- strict-reviewed physical scans: **10 / 146**;
-- contiguous reviewed range: **1–10**;
+- strict-reviewed physical scans: **20 / 146**;
+- contiguous reviewed range: **1–20**;
 - corrections: **2**;
 - unresolved fidelity discrepancies: **0**;
 - mapping/title-boundary changes caused by P4 so far: **0**.
 
-Current P4 corrections are front-matter only:
+Cumulative P4 corrections are front-matter only:
 
 - scan 5 `கூறிய` → `கூரிய`;
 - scan 8 `மூத்தோர்` → `முதியோர்`.
 
-Therefore the 26-unit source map above remains unchanged.
+Batch scans 11–20 required no correction. Scan 17 remains blank/show-through, and Unit 1 `பிறையே` remains scans 18–20 / pp.17–19. Therefore the 26-unit source map above remains unchanged.
 
 ## Exact next activity
 
-**P4 scans 11–20.** Re-inspect all ten scans directly and record every old reading → source-visible reading correction with provenance. Propagate any mapping/title effects here only if the controlling scan proves a change.
+**P4 scans 21–30.** Re-inspect all ten scans directly and record every old reading → source-visible reading correction with provenance. Propagate any mapping/title effects here only if the controlling scan proves a change.
 
 English remains blocked until Tamil P5 freeze.
