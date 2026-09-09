@@ -37,7 +37,7 @@ transcription_method: "direct visual comparison with source scan"
 - பத்தரை மாற்றுத் தங்கமேனி பொலிவு சிந்தப்
 புறப்பட்டாள் ஆறு நோக்கித் தோழிகளுடன்!... விழா
 எடுத்தனர்-ஆடினர்! பாடினர்!.... விரிந்த பகல்
-இரவாய் சுருங்குவதெப்போதென விழைந்தனள்
+இரவாய்ச் சுருங்குவதெப்போதென விழைந்தனள்
 முல்லை!
 
 இருண்டது உலகம் - ஒளிபெற்றது அவள் உள்ளம்!...
@@ -57,6 +57,7 @@ transcription_method: "direct visual comparison with source scan"
 
 - visible printed folio **81**, running header and all printed prose were directly verified against the supplied 2006 scan.
 - source-visible forms retained include `ஓரிரவு`, `காளையுண்டு`, `தேன் மொள்ளும்`, `வெண் சக்கரக் குடையானைக்`, `வெற்றிச்சேதி`, `பத்தரை மாற்றுத் தங்கமேனி`, and `விழைந்தனள்`.
+- P4 strict visual review corrected `இரவாய்` → source-visible `இரவாய்ச்`; no source-title, mapping or unit-boundary change resulted.
 - Unit 18 `மருதாணி` continues.
 
 <!-- மூல ஸ்கேன் பக்கம்: 82 -->
