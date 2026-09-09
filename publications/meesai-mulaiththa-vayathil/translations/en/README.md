@@ -9,14 +9,14 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 - Tamil archival prerequisite: **COMPLETE / STRICT-REVIEWED / FROZEN**
 - frozen Tamil assemblies: **26 / 26**
-- E0–E4: **COMPLETE / PASS**
-- T0 / T1 / T2 / T3 / T4 / T5: **22 / 26 PASS at each gate**
-- English article body files: **22 / 26**
+- E0–E5: **COMPLETE / PASS**
+- T0 / T1 / T2 / T3 / T4 / T5: **26 / 26 PASS at each gate**
+- English article body files: **26 / 26**
 - unresolved English blockers: **0**
-- E5 Articles 23–26: **NEXT**
-- E6/E7: **not started**
+- E6 publication-wide consistency: **NEXT**
+- E7 release closeout: pending
 
-Frozen Tamil authority remains `articles/` tree **`b7593357dc5ba101362c7a303881bea4e63e9b68`** and `pages/` tree **`f7930b3696668cdbc2d692a284b49586d09a3372`**. Formal T0 is article-by-article against the pinned Tamil blob.
+Frozen Tamil authority remains `articles/` tree **`b7593357dc5ba101362c7a303881bea4e63e9b68`** and `pages/` tree **`f7930b3696668cdbc2d692a284b49586d09a3372`**.
 
 ## Article tracker
 
@@ -44,35 +44,24 @@ Frozen Tamil authority remains `articles/` tree **`b7593357dc5ba101362c7a303881b
 | 20 | `முறம்` | **Winnowing Tray** | **T0–T5 verified** |
 | 21 | `யாழ்` | **Yaazh** | **T0–T5 verified** |
 | 22 | `சிற்பி` | **The Sculptor** | **T0–T5 verified** |
-| 23 | `சேவல் சண்டை` | — | not-started |
-| 24 | `மடல்` | — | not-started |
-| 25 | `ஆண்டு விழா` | — | not-started |
-| 26 | `மயிலிறகு` | — | not-started |
+| 23 | `சேவல் சண்டை` | **Cockfight** | **T0–T5 verified** |
+| 24 | `மடல்` | **Letter** | **T0–T5 verified** |
+| 25 | `ஆண்டு விழா` | **Annual Festival** | **T0–T5 verified** |
+| 26 | `மயிலிறகு` | **Peacock Feather** | **T0–T5 verified** |
 
-## E4 verified authorities
+## E5 verified authorities
 
 | # | English title | Final verified blob |
 |---:|---|---|
-| 19 | **Waterfall** | `ea8fc9a11f6420c95dcfbf64e2e31d1af18d9275` |
-| 20 | **Winnowing Tray** | `c8989508e445b99f396e9da0b844cdfa65d46efc` |
-| 21 | **Yaazh** | `780c6b09d7a008eb197bdf5feacd4f0975b7ca8a` |
-| 22 | **The Sculptor** | `84a175942d395689c4c517eff69300adedffe740` |
+| 23 | **Cockfight** | `fbede1e68f63d9eb0ee369dd56ae668dd7c617af` |
+| 24 | **Letter** | `9d66aa7a24d1c8725b7c9ae914eadca978a2530c` |
+| 25 | **Annual Festival** | `b46a0dd815a945c7bd56ab61cbc1adf757761917` |
+| 26 | **Peacock Feather** | `4862200f97ea4711fc134384fe70355d311a936a` |
 
-E4 result: **4/4 T0–T5 PASS**; T2 material corrections **3**; additional T3 corrections **1**; T4 body corrections **0**; omissions/additions/unresolved source or terminology blockers **0**. Source boundaries passed **6/6, 5/5, 7/7, 12/12**. Frozen Tamil changes **0**.
+E5: T0–T5 **4/4 PASS**; T2 material corrections **6**; T3 additional corrections **0**; T4 source-restraint corrections **2**; omissions/additions/unresolved source or terminology blockers **0**. Source boundaries passed **8/8, 6/6, 7/7, 10/10**. Frozen Tamil changes **0**.
 
-[`LEXICON.md`](LEXICON.md) now records **117** source-derived publication decisions through Article 22. Detailed correction and blob provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
-
-## Translation baseline
-
-Translate paragraph-by-paragraph from the frozen strict-reviewed Tamil assembly. Preserve direct address, questions, repetition, sarcasm, sensual/literary imagery, ideological force, source quotation/verse/dialogue structure and source-page comments. Do not silently expand source-specific labels from outside knowledge. Exact source `உடன்பிறப்பே` remains **`Udanpirappē`**.
-
-## Planned phases
-
-- E0–E4 — **COMPLETE / PASS**
-- E5 Articles 23–26 — **NEXT**
-- E6 publication-wide consistency — pending
-- E7 release closeout — pending
+[`LEXICON.md`](LEXICON.md) records **153** source-derived publication decisions through Article 26. Detailed correction/blob provenance is in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md).
 
 ## Exact next activity
 
-**E5 — Articles 23–26 (`சேவல் சண்டை`, `மடல்`, `ஆண்டு விழா`, `மயிலிறகு`).** Re-fetch each frozen Tamil assembly, confirm the pinned blob before T0, and process all four independently through **T0→T5** without modifying frozen Tamil.
+**E6 — publication-wide English consistency review.** Cross-review all 26 verified articles for recurring terminology, names, title style, source-specific transliterations, quotations, page comments and Kalaignar voice. Record all E6 corrections. English release remains incomplete until E6 passes and E7 release closeout is completed.
