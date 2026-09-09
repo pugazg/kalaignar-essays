@@ -16,7 +16,7 @@ transcription_method: "direct visual comparison with source scan"
 
 ## வாழிய வைகறை
 
-வைகறையே! வா! என் வாழ்த்துக்களை ஏற்றுக் கொள்! அடடா! வாழ்த்து என்றதும் இப்படி ஓடி வருகிறாயே - அட, புகழ்தேடி! முதலில் வசவு - பின்தான் வாழ்த்து! ஆமாம் - சேவலையும் எழுப்பிவிட்டாய் - செங்கதிரையும் எழுப்பிவிட்டாய் - இரண்டுக்குமிடையிலே, உழைப்பாளி வீட்டின் கதவை ஏனப்பா அவ்வளவு அவசரமாகத் தட்டுகிறாய்? இரவெல்லாம் உடல் வலியால் மண் தரையில் உருண்டு, கடைசியில், அந்தக் களைப்பில் கண்மூடிக் கிடக்கிறானே தவிர; உறங்கிக் கொண்டிருக்கிறான் என்றா எண்ணுகிறாய்!
+வைகறையே! வா! என் வாழ்த்துக்களை ஏற்றுக் கொண்டு போ! அடடா! வாழ்த்து என்றதும் இப்படி ஓடி வருகிறாயே - அட, புகழ்தேடி! முதலில் வசவு - பின்தான் வாழ்த்து! ஆமாம் - சேவலையும் எழுப்பிவிட்டாய் - செங்கதிரையும் எழுப்பி விட்டாய் - இரண்டுக்குமிடையிலே, உழைப்பாளி வீட்டின் கதவை ஏனப்பா அவ்வளவு அவசரமாகத் தட்டுகிறாய்? இரவெல்லாம் உடல் வலியால் மண் தரையில் உருண்டு, கடைசியில், அந்தக் களைப்பில் கண்மூடிக் கிடக்கிறானே தவிர; உறங்கிக் கொண்டிருக்கிறான் என்றா எண்ணுகிறாய்!
 
 ## அச்சிடப்பட்ட காட்சி
 
@@ -30,8 +30,15 @@ transcription_method: "direct visual comparison with source scan"
 ## P2 audit note
 
 - visible printed folio **33**, heading, illustration, and complete foreground paragraph directly verified against the supplied 2006 scan.
-- source punctuation and joins retained, including `ஏற்றுக் கொள்!`, `புகழ்தேடி!`, the printed dash sequences, `இரண்டுக்குமிடையிலே`, `கண்மூடிக் கிடக்கிறானே`, and `தவிர;`.
-- an older `முத்தாரம்` printing was consulted only as corroboration; the supplied scan determined this record.
+- source punctuation and joins now retain `ஏற்றுக் கொண்டு போ!`, `புகழ்தேடி!`, the printed dash sequences, `செங்கதிரையும் எழுப்பி விட்டாய்`, `இரண்டுக்குமிடையிலே`, `கண்மூடிக் கிடக்கிறானே`, and `தவிர;`.
+- an older `முத்தாரம்` printing remains corroborating evidence only; the supplied scan determines this record.
 - Unit 6 continues on scan 35 / printed p.34.
+
+## P4 strict-fidelity note
+
+- strict visual review rechecked scan 34 against the controlling 2006 pixels.
+- corrected old canonical `ஏற்றுக் கொள்!` → source-visible **`ஏற்றுக் கொண்டு போ!`**.
+- corrected `செங்கதிரையும் எழுப்பிவிட்டாய்` → **`செங்கதிரையும் எழுப்பி விட்டாய்`**.
+- unresolved fidelity discrepancies after correction: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 34 -->
