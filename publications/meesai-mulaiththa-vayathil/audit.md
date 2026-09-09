@@ -39,53 +39,37 @@ Permanent title corrections remain:
 
 ## P2 — page-level transcription
 
-**RESULT: IN PROGRESS — 130 / 146 VERIFIED**
+**RESULT: PASS / COMPLETE — 146 / 146 VERIFIED**
 
-Completed batch records now run through `P2_BATCH_121_130.md`.
+Completed batch records run through `P2_BATCH_141_146.md`.
 
-### P2 batch 13 — scans 121–130
+### Final batch sequence
 
-Canonical record: `P2_BATCH_121_130.md`.
+- `P2_BATCH_131_140.md` — scans 131–140: **10 / 10 VERIFIED**;
+  - closes Unit 25 `ஆண்டு விழா` on scan 135 / p.134;
+  - opens Unit 26 `மயிலிறகு` on scan 136 / p.135 and verifies it through scan 140 / p.139.
+- `P2_BATCH_141_146.md` — scans 141–146: **6 / 6 VERIFIED**;
+  - closes Unit 26 `மயிலிறகு` on scan 145 / p.144 with the final bullet `●`;
+  - verifies the unnumbered printed back cover on scan 146.
 
-- scans 121–130: **10 / 10 VERIFIED**;
-- Unit 23 `சேவல் சண்டை`, scans 115–122 / pp.114–121: **8 / 8 VERIFIED / COMPLETE**;
-- Unit 24 `மடல்`, scans 123–128 / pp.122–127: **6 / 6 VERIFIED / COMPLETE**;
-- Unit 25 `ஆண்டு விழா`, scans 129–130 / pp.128–129: **2 / 7 VERIFIED so far; continues through scan 135 / p.134**;
-- scan 122 carries the closing bullet for `சேவல் சண்டை`;
-- scan 123 is the illustrated opening of `மடல்`;
-- scan 128 closes `மடல்` with `- அன்புக் காதலி` and final bullet `●`;
-- scan 129 is the illustrated opening of `ஆண்டு விழா`;
-- scan 130 ends at `ஆண்டு ஒன்று`; no scan-131 wording was imported;
-- reviewed source corrections include scan 124 `பறித்துச்`, scan 126 `திங்களோ காணீர்!`, and scan 130 `திங்களியே!`;
-- unresolved printed text inside verified scans: **0**;
-- batch blockers: **0**.
+### Final P2 gate
 
-Direct source checks include:
-
-- scan 121→122: `“பார்த்தாயா` → `கூண்டழகை” எனக் காட்ட!`;
-- scan 122 closes `சேவல் சண்டை`;
-- scan 125→126: `அவள் மடல்` → `கண்டு...`;
-- scan 127→128: `மென்மலர்` → `அம்புகளால் உயிரைக் கொல்லும்`;
-- scan 128 closes `மடல்`;
-- scan 129 opens `ஆண்டு விழா`;
-- scan 130 remains open into scan 131.
-
-The supplied 2006 source pixels remained authority throughout. OCR was not authority and no alternate-edition wording was silently imported.
-
-Earlier durable findings remain non-regressed, including scan 32 **`அரசு`**, the direct scan-47 `விண்மீன்` review, corrected scan-70 **`உயர் தமிழன்`**, and the permanent P1 title corrections.
-
-### Current P2 gate
-
-- canonical page records: **130 / 146 VERIFIED**;
-- contiguous verified range: **1–130**;
-- missing canonical records in scans 1–130: **0**;
+- canonical page records: **146 / 146 VERIFIED**;
+- contiguous verified range: **1–146**;
+- missing canonical page records: **0**;
 - `என்னுரை`: **3 / 3 COMPLETE**;
 - `முன்னுரை`: **10 / 10 COMPLETE**;
 - blank scan 17: **VERIFIED**;
-- complete main-work units: **24 / 26**;
-- Unit 25 `ஆண்டு விழா`: **IN PROGRESS through scan 130**;
+- complete source-titled main-work units: **26 / 26**;
+- Unit 25 `ஆண்டு விழா`: scans **129–135 / pp.128–134 — 7 / 7 COMPLETE**;
+- Unit 26 `மயிலிறகு`: scans **136–145 / pp.135–144 — 10 / 10 COMPLETE**;
+- scan 146 back cover: **VERIFIED**;
 - unresolved printed-text blocks: **0**;
 - active P2 blockers: **0**.
+
+The supplied 2006 source pixels remained authority throughout. OCR was not authority and no alternate-edition wording was silently imported. Printed text, source illustrations/design and later physical-copy marks were kept as separate evidence layers.
+
+Earlier durable findings remain non-regressed, including scan 32 **`அரசு`**, the direct scan-47 `விண்மீன்` review, corrected scan-70 **`உயர் தமிழன்`**, and the permanent P1 title corrections.
 
 **P3 assembly remains NOT STARTED.**
 
@@ -97,7 +81,7 @@ Earlier durable findings remain non-regressed, including scan 32 **`அரசு
 |---|---|
 | P0 | **COMPLETE / PASS** |
 | P1 | **COMPLETE / PASS** |
-| P2 | **IN PROGRESS — 130 / 146 VERIFIED** |
+| P2 | **COMPLETE / PASS — 146 / 146 VERIFIED** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -107,10 +91,4 @@ Active blockers: **0**.
 
 ## Exact next activity
 
-**P2 scans 131–140 only.**
-
-- scans 131–135 / pp.130–134 — continue and close Unit 25 `ஆண்டு விழா`;
-- scans 136–140 / pp.135–139 — begin Unit 26 `மயிலிறகு`, continuing through scan 145 / p.144;
-- preserve permanent scan-136 title reading `மயிலிறகு`;
-- after all ten pass, create `P2_BATCH_131_140.md`, synchronize dependent trackers, and set next activity to scans 141–146;
-- **STOP after scan 140; do not begin P3 assembly or English translation unless separately authorised.**
+**P3 article/unit assembly.** Assemble the 26 source-titled units from the verified canonical page records, preserving source wording and page-boundary provenance. Do not begin English translation.
