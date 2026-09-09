@@ -6,7 +6,7 @@ Physical scans: **146**
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
 P2 status: **COMPLETE / PASS — 146 / 146 VERIFIED**  
 P3 status: **COMPLETE / PASS — 26 / 26 assemblies**  
-P4 status: **IN PROGRESS — scans 1–80 / 80 of 146 strict-reviewed**
+P4 status: **IN PROGRESS — scans 1–90 / 90 of 146 strict-reviewed**
 
 ## Mapping rule
 
@@ -201,16 +201,18 @@ P4 status: **IN PROGRESS — scans 1–80 / 80 of 146 strict-reviewed**
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- physical scans strict-reviewed: **80 / 146**;
-- contiguous reviewed range: **1–80**;
-- cumulative corrections: **139**;
-- corrections propagated: **139 / 139**;
+- physical scans strict-reviewed: **90 / 146**;
+- contiguous reviewed range: **1–90**;
+- cumulative corrections: **142**;
+- corrections propagated: **142 / 142**;
 - P3 assemblies corrected/re-synchronized: **13 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - P4 mapping/boundary changes: **0**.
 
-P4-061-070 produced **2** direct controlling-source punctuation corrections on scan 69 / `தேனலைகள்`: `கோமானே!....` → `கோமானே!...` and `பரிசு!....` → `பரிசு!...`; `articles/16-thenalaigal.md` was re-synchronized.
+P4-061-070 produced **2** direct controlling-source punctuation corrections on scan 69 / `தேனலைகள்`; `articles/16-thenalaigal.md` was re-synchronized.
 
-P4-071-080 produced **5** direct controlling-source corrections: scan 72 `முத்தவள` → `முத்தவள்`; scan 77 `இதோ யார்` → `இதோ பார்`, `அவனா?...` → `அவனா ?...`, `புலியை?...` → `புலியை ?...`; scan 80 `பொழியலானாள்` → `பொழியலானார்`. `articles/17-thozhi.md` and `articles/18-maruthaani.md` were re-synchronized. These corrections alter text fidelity only; no source title, scan span, printed-page mapping or unit boundary changed.
+P4-071-080 produced **5** direct controlling-source corrections across `தோழி` and `மருதாணி`; `articles/17-thozhi.md` and `articles/18-maruthaani.md` were re-synchronized.
 
-Exact next strict-review batch: **scans 81–90**. Scans 81–84 finish `மருதாணி`; scans 85–90 cover all of `அருவி`. English remains blocked until Tamil P5 freeze.
+P4-081-090 produced **3** direct controlling-source corrections, all in `மருதாணி`: scan 82 `இரவாய் சுருங்குவதெப்போதென` → `இரவாய்ச் சுருங்குவதெப்போதென`; scan 83 `கலையுமோ?...` → `கலையுமோ ?...` and `மருதாணி பெரிதோ?...` → `மருதாணி பெரிதோ ?...`. `articles/18-maruthaani.md` was re-synchronized. Scans 85–90 / `அருவி` required no text correction. These corrections alter text fidelity only; no source title, scan span, printed-page mapping or unit boundary changed.
+
+Exact next strict-review batch: **scans 91–100**. Scans 91–95 cover all of `முறம்`; scans 96–100 cover the first five pages of `யாழ்`, which closes on scan 102. English remains blocked until Tamil P5 freeze.
