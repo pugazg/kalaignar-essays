@@ -28,19 +28,21 @@ The supplied scan pixels remain ultimate authority. English translation never mo
 
 ## English translation provenance
 
-- E0–E4 — **COMPLETE / PASS**;
-- T0/T1/T2/T3/T4/T5 totals — **22/26** each;
+- E0–E5 — **COMPLETE / PASS**;
+- T0/T1/T2/T3/T4/T5 totals — **26/26** each;
 - unresolved English blockers — **0**;
 - frozen Tamil changes during English work — **0**.
 
-E4 final English authorities:
+E5 final English authorities:
 
-- Article 19 `அருவி` / **Waterfall** — `ea8fc9a11f6420c95dcfbf64e2e31d1af18d9275`;
-- Article 20 `முறம்` / **Winnowing Tray** — `c8989508e445b99f396e9da0b844cdfa65d46efc`;
-- Article 21 `யாழ்` / **Yaazh** — `780c6b09d7a008eb197bdf5feacd4f0975b7ca8a`;
-- Article 22 `சிற்பி` / **The Sculptor** — `84a175942d395689c4c517eff69300adedffe740`.
+- Article 23 `சேவல் சண்டை` / **Cockfight** — `fbede1e68f63d9eb0ee369dd56ae668dd7c617af`;
+- Article 24 `மடல்` / **Letter** — `9d66aa7a24d1c8725b7c9ae914eadca978a2530c`;
+- Article 25 `ஆண்டு விழா` / **Annual Festival** — `b46a0dd815a945c7bd56ab61cbc1adf757761917`;
+- Article 26 `மயிலிறகு` / **Peacock Feather** — `4862200f97ea4711fc134384fe70355d311a936a`.
 
-E4 T2 corrections **3**, T3 additional correction **1**, T4 body corrections **0**; omissions/additions/unresolved source or terminology defects **0**. The strict-reviewed Tamil assembly remains primary translation authority.
+E5 T2 produced **6 material corrections**, all Article 26; T3 produced **0** additional body corrections; T4 produced **2** source-restraint corrections, both Article 26. Omissions, additions and unresolved source/terminology defects ended at **0**. `LEXICON.md` records **153** decisions through Article 26.
+
+For all English work, the strict-reviewed Tamil assembly remains primary translation authority. Page records/controlling scans are used only for source-level clarification.
 
 ## Physical-copy / scan condition
 
@@ -49,12 +51,13 @@ High-resolution image-only scan; light show-through and later library markings o
 ## Current workflow status
 
 - P0–P5 — **COMPLETE / PASS / TAMIL FROZEN**
-- E0–E4 — **COMPLETE / PASS**
-- English T5 — **22/26**
-- E5 Articles 23–26 — **NEXT**
+- E0–E5 — **COMPLETE / PASS**
+- English T5 — **26/26**
+- E6 publication-wide consistency — **NEXT**
+- E7 release closeout — pending
 - active Tamil/source blockers — **0**
 - active English blockers — **0**
 
 ## Exact next activity
 
-**E5 — Articles 23–26 (`சேவல் சண்டை`, `மடல்`, `ஆண்டு விழா`, `மயிலிறகு`)**, each independently through T0–T5. Then perform E6 publication-wide English consistency. Frozen Tamil remains unchanged.
+**E6 — publication-wide English consistency review** across all 26 verified English articles. Frozen Tamil remains unchanged. English release closeout waits for E6 PASS and then E7.
