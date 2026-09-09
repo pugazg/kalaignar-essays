@@ -6,7 +6,7 @@ Physical scans: **146**
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
 P2 status: **COMPLETE / PASS — 146 / 146 VERIFIED**  
 P3 status: **COMPLETE / PASS — 26 / 26 assemblies**  
-P4 status: **IN PROGRESS — scans 1–40 / 40 of 146 strict-reviewed**
+P4 status: **IN PROGRESS — scans 1–50 / 50 of 146 strict-reviewed**
 
 ## Mapping rule
 
@@ -201,14 +201,14 @@ P4 status: **IN PROGRESS — scans 1–40 / 40 of 146 strict-reviewed**
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-- physical scans strict-reviewed: **40 / 146**;
-- contiguous reviewed range: **1–40**;
-- cumulative corrections: **84**;
-- corrections propagated: **84 / 84**;
-- P3 assemblies corrected/re-synchronized: **7 distinct assemblies**;
+- physical scans strict-reviewed: **50 / 146**;
+- contiguous reviewed range: **1–50**;
+- cumulative corrections: **130**;
+- corrections propagated: **130 / 130**;
+- P3 assemblies corrected/re-synchronized: **10 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - P4 mapping/boundary changes: **0**.
 
-Batch P4-031-040 produced **43** direct controlling-source corrections across Units 5–8 (`ஆறு`, `வாழிய வைகறை`, `அகப்பை சித்தர்`, and scans 39–40 of `மலையே வாழி`). Four dependent P3 assemblies were re-synchronized. These corrections alter text fidelity only; no source title, scan span, printed-page mapping, or unit boundary changed.
+Batch P4-041-050 produced **46** direct controlling-source corrections across the closing page of `மலையே வாழி`, all of `தளிர்` and `விண்மீன்`, and scans 49–50 of `தனிமை`. Four dependent P3 assemblies were re-synchronized. These corrections alter text fidelity only; no source title, scan span, printed-page mapping, or unit boundary changed.
 
-Exact next strict-review batch: **scans 41–50**. Scan 41 closes `மலையே வாழி`; scans 42–45 cover `தளிர்`; scans 46–48 cover `விண்மீன்`; scans 49–50 begin `தனிமை`. English remains blocked until Tamil P5 freeze.
+Exact next strict-review batch: **scans 51–60**. Scans 51–54 finish `தனிமை`; scans 55–56 cover `நாடக மேடை`; scans 57–58 cover `புகழ்`; scans 59–60 begin `பச்சைக்கிளி`. English remains blocked until Tamil P5 freeze.
