@@ -34,7 +34,7 @@ transcription_method: "direct visual comparison with source scan"
 
 “எனத்தான் புது வம்பு! கோழிச் சண்டையினைத்
 தொழிலாய்க் கொண்ட செங்கண்ணன் -
-அவரிடத்தில் வெல்வதென்றால் சுலபமா?
+அவரிடத்தில் வெல்வதென்றால் சுலபமா ?
 வேண்டாமே வீராப்பு! தோற்றுவிட்டால் வெளியிலே
 கிளம்புதற்கும், வீதியிலே நடப்பதற்கும் வெட்கம் -
 வெட்கம்! வேண்டாம் அன்பா பிடிவாதம் - விட்டு
@@ -60,5 +60,6 @@ transcription_method: "direct visual comparison with source scan"
 - visible printed folio **117**, running header and every visible printed line were directly verified against the supplied 2006 scan.
 - scan 117→118 moves from `பேசலுற்றேன்;` into the quoted boast beginning `சேவற் சண்டையிலே பெற்ற புகழ் பெருவீரம்`.
 - source-visible forms retained include `சேரன் செங்குட்டுவன்`, `கனகவிசயர்`, `கோழ்மையையும்`, `சூளுரைப்பேன்`, `துர் நீதான்`, `வீரக்கோழி`, and `நெருக்கடியில்`.
+- P4 strict visual review corrected `சுலபமா?` → source-visible `சுலபமா ?`; no mapping or unit-boundary change resulted.
 
 <!-- மூல ஸ்கேன் பக்கம்: 118 -->
