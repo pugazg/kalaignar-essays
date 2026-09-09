@@ -203,16 +203,21 @@ Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 - physical scans strict-reviewed: **20 / 146**;
 - contiguous reviewed range: **1–20**;
-- corrections: **2**;
+- corrections: **6**;
+- corrections propagated: **6 / 6**;
 - unresolved fidelity discrepancies: **0**;
 - P4 mapping/boundary changes: **0**.
 
 Corrections so far are front-matter lexical readings only:
 
 - scan 5 `கூறிய` → `கூரிய`;
-- scan 8 `மூத்தோர்` → `முதியோர்`.
+- scan 8 `மூத்தோர்` → `முதியோர்`;
+- scan 12 `செயல்படுகிறது.` → `செய்துவிடுகிறது.`;
+- scan 13 `மறக்கவிடவோ` → `மறந்துவிடவோ`;
+- scan 14 `பின்னும்` → `பின்னுறும்`;
+- scan 14 `இணைவாய்` → `இணையாய்`.
 
-Batch scans 11–20 required **0 new corrections**. The remaining `முன்னுரை`, blank scan 17 and Unit 1 `பிறையே` all reconcile with the canonical map. No P1/P3 boundary or source-title mapping changed.
+Batch scans 11–20 passed after corrective review with **4 corrections**, all in front matter. The remaining `முன்னுரை`, blank scan 17 and Unit 1 `பிறையே` all reconcile with the canonical map; Unit 1 required **0 P4 text corrections**. No P1/P3 boundary or source-title mapping changed, and no P3 assembly propagation was required.
 
 ## Next gate
 
