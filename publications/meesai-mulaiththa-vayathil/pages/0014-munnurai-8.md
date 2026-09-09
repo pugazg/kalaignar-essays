@@ -22,7 +22,7 @@ transcription_method: "direct visual comparison with source scan"
 
 “சுரைக்காய்ப் பிஞ்சின் தலையில் மிளகாய்ப்  
 பழத்தைச் செருகி இடையில் மல்லிகை  
-இலைகள் சிறகாய்ப் பின்னும் தாழை  
+இலைகள் சிறகாய்ப் பின்னுறும் தாழை  
 மடலை வைத்தால் பச்சைக் கிளியோ?”
 
 -என்று பச்சைக் கிளிக்கு வார்த்தை வர்ணம் அடிக்கிற போதும்...
@@ -35,7 +35,7 @@ transcription_method: "direct visual comparison with source scan"
 
 “உயர்ந்து நிற்கும் மார்பகத்தின்  
 குறுக்கே வாய்த்த எழில் யாழின்  
-இருமுனையும் இணைவாய் இல்லையென  
+இருமுனையும் இணையாய் இல்லையென  
 அவன் கண்கள் தீர்ப்புக் கூறித்  
 திருமகளாம் தேன்மொழியின்  
 தேகக்கட்டை வியந்துநோக்கும்”
@@ -56,5 +56,12 @@ transcription_method: "direct visual comparison with source scan"
 - source-visible quotation punctuation, ellipses, and verse lineation retained.
 - source forms `சுரைக்காய்ப்`, `கவலைப் படாதவர்களைத்`, `எதார்த்த`, `வியந்துநோக்கும்`, and `இளமைத் குறும்புகள்` retained without normalization.
 - முன்னுரை scan 15-ல் தொடர்கிறது.
+
+## P4 strict-fidelity note
+
+- strict visual review rechecked scan 14 word-by-word and punctuation-by-punctuation.
+- corrected old canonical `பின்னும்` → source-visible **`பின்னுறும்`**.
+- corrected old canonical `இணைவாய்` → source-visible **`இணையாய்`**.
+- unresolved fidelity discrepancies after correction: **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 14 -->
