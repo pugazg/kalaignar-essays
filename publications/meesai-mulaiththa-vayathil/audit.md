@@ -88,7 +88,7 @@ The assembly operation preserved the verified canonical source layer rather than
 
 ## P4 — final strict visual text-fidelity pass
 
-**RESULT: IN PROGRESS — 10 / 146 PHYSICAL SCANS STRICT-REVIEWED**
+**RESULT: IN PROGRESS — 20 / 146 PHYSICAL SCANS STRICT-REVIEWED**
 
 Formal running report: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
@@ -105,17 +105,27 @@ Both corrections were applied to the canonical page records and recorded with P4
 
 Scan 3 contains a later library stamp obscuring part of the publisher-address line. The page record already represents that source limitation explicitly and does not reconstruct hidden characters; P4 records it as documented obscuration, not an unresolved text discrepancy.
 
+### Batch P4-011-020
+
+**PASS — 10 / 10; 0 new corrections; 0 unresolved fidelity discrepancies.**
+
+- scans 11–16: remaining `முன்னுரை` pages directly rechecked and reconciled;
+- scan 17: blank/show-through witness directly rechecked; no printed text;
+- scans 18–20 / pp.17–19: Unit 1 `பிறையே` directly rechecked from opening heading through final bullet `●`;
+- canonical corrections required: **0**;
+- P3 `01-piraiye` propagation required: **0**.
+
 Current P4 totals:
 
-- strict-reviewed physical scans: **10 / 146**;
-- contiguous strict-reviewed range: **1–10**;
+- strict-reviewed physical scans: **20 / 146**;
+- contiguous strict-reviewed range: **1–20**;
 - corrections: **2**;
 - corrections propagated: **2 / 2**;
 - affected P3 assemblies requiring propagation: **0**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**.
 
-P4 remains OPEN. Next batch: **scans 11–20**.
+P4 remains OPEN. Next batch: **scans 21–30**.
 
 ---
 
@@ -127,7 +137,7 @@ P4 remains OPEN. Next batch: **scans 11–20**.
 | P1 | **COMPLETE / PASS** |
 | P2 | **COMPLETE / PASS — 146 / 146 VERIFIED** |
 | P3 | **COMPLETE / PASS — 26 / 26 assemblies** |
-| P4 | **IN PROGRESS — 10 / 146 strict-reviewed** |
+| P4 | **IN PROGRESS — 20 / 146 strict-reviewed** |
 | P5 | **NOT STARTED** |
 | English | **BLOCKED until Tamil P5 freeze** |
 
@@ -135,6 +145,6 @@ Active P4 blockers: **0**.
 
 ## Exact next activity
 
-**P4 scans 11–20.** Re-inspect all ten physical scans directly against their canonical records, word-by-word and punctuation-by-punctuation. Record each correction as old reading → source-visible reading, propagate any dependent changes, and update `VISUAL_TEXT_FIDELITY_REVIEW.md` only after the batch is reconciled.
+**P4 scans 21–30.** Re-inspect all ten physical scans directly against their canonical records, word-by-word and punctuation-by-punctuation. Record each correction as old reading → source-visible reading, propagate any dependent changes, and update `VISUAL_TEXT_FIDELITY_REVIEW.md` only after the batch is reconciled.
 
 Do not begin English translation.
