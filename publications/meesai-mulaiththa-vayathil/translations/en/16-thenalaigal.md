@@ -50,7 +50,7 @@ Fruit trees would hang their heads at the sight of the beauty-tree she made stan
 
 “Rome is said to be a honey-hive where beauties live!”
 
-“There I shall be a cripple. I will sleep thinking of your guava lips and of the comb-honey that exists in Tamil land. In imagination I shall taste it.”
+“There I shall be a cripple. I will sleep thinking of your guava lips and of the branch-honey that exists in Tamil land. In imagination I shall taste it.”
 
 <!-- Tamil source: scan 66 / printed 65 -->
 
@@ -102,7 +102,7 @@ and you are the sea on which this boat moves!...”
 
 “You call me sister...?”
 
-“Why be startled? It is a noble custom of our land, lady!”
+“Why be startled? That is a noble custom of Thiruvidam, lady!”
 
 “Is this the value you give the beauty God has granted?”
 
@@ -128,7 +128,7 @@ and you are the sea on which this boat moves!...”
 
 ○
 
-Twenty months passed! A sight as though one month itself had entered the grove! Killi stood there, ready to rejoice in the pleasure-field, caught in Aththaan's loving torment! Before receiving a kiss, why does her hand keep touching her cheek? Her gaze leaps toward every direction from which a sound comes! Her heart-veena aches: Where is the lord of the yaazh who comes to rescue me? Longing burns! Before the crop could scorch, like rain—before the unchiselled statue could melt away—the radiant Tamil man arrived. “Aththaan!” she cried. A war of lips began—without drum, without advance notice, without end!
+Twenty months passed! A sight as though the moon itself had entered the grove! Killi stood there, ready to rejoice in the pleasure-field, caught in Aththaan's loving torment! Before receiving a kiss, why does her hand keep touching her cheek? Her gaze leaps toward every direction from which a sound comes! Her heart-veena aches: Where is the lord of the yaazh who comes to rescue me? Longing burns! Before the crop could scorch, like rain—before the unchiselled statue could melt away—the radiant Tamil man arrived. “Aththaan!” she cried. A war of lips began—without drum, without advance notice, without end!
 
 <!-- Tamil source: scan 70 / printed 69 -->
 
