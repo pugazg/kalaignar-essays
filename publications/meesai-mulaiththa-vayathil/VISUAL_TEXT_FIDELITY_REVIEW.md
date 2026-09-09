@@ -31,7 +31,7 @@ P4 follows `ESSAY_PROCESSING_GUIDE.md` section 12: every physical scan is re-ins
 | 9 | `முன்னுரை` 3/10 | PASS | verse/prose wording, punctuation and continuation rechecked |
 | 10 | `முன்னுரை` 4/10 | PASS | quoted verse, bullet, punctuation and page-end continuation rechecked |
 
-### Correction provenance
+### Correction provenance — P4-001-010
 
 1. **Scan 5 — `என்னுரை`**  
    Old canonical reading: `கூறிய வேல் வாள்`  
@@ -53,14 +53,14 @@ A later physical-copy library stamp obscures part of the publisher-address line 
 
 ## Batch P4-011-020
 
-**RESULT: PASS — 10 / 10 scans; 0 new corrections; 0 unresolved fidelity discrepancies.**
+**RESULT: PASS after corrective strict review — 10 / 10 scans; 4 corrections; 0 unresolved fidelity discrepancies.**
 
 | Scan | Section | Result | P4 action |
 |---:|---|---|---|
 | 11 | `முன்னுரை` 5/10 | PASS | prose, quoted verse, punctuation and page-end continuation rechecked |
-| 12 | `முன்னுரை` 6/10 | PASS | prose, hyphen-separated sequence, spacing and paragraph boundaries rechecked |
-| 13 | `முன்னுரை` 7/10 | PASS | prose, printed bullet, quoted verse and punctuation rechecked |
-| 14 | `முன்னுரை` 8/10 | PASS | all four quoted passages, ellipses and prose wording rechecked |
+| 12 | `முன்னுரை` 6/10 | PASS after correction | `செயல்படுகிறது.` → source-visible `செய்துவிடுகிறது.` |
+| 13 | `முன்னுரை` 7/10 | PASS after correction | `மறக்கவிடவோ` → source-visible `மறந்துவிடவோ` |
+| 14 | `முன்னுரை` 8/10 | PASS after two corrections | `பின்னும்` → `பின்னுறும்`; `இணைவாய்` → `இணையாய்` |
 | 15 | `முன்னுரை` 9/10 | PASS | prose and source-visible grammatical form `நாடக ஆசிரியராகவு` rechecked and retained |
 | 16 | `முன்னுரை` 10/10 | PASS | Nannūl quotation, split source forms, punctuation, closing salutation and signature facsimile rechecked |
 | 17 | blank / show-through | PASS | no printed text; reverse-side show-through remains correctly excluded from transcription |
@@ -68,19 +68,47 @@ A later physical-copy library stamp obscures part of the publisher-address line 
 | 19 | `பிறையே` 2/3 / p.18 | PASS | running head, prose, repeated `நானும் கைதி! / நீயும் கைதி!`, punctuation and continuation rechecked |
 | 20 | `பிறையே` 3/3 / p.19 | PASS | running head, semicolon/hyphen punctuation, final repeated lines and bullet `●` rechecked |
 
+### Correction provenance — P4-011-020
+
+3. **Scan 12 — `முன்னுரை`**  
+   Old canonical reading: `கலைஞரின் படைப்பாற்றல் எளிமையாய் வெகு இயல்பாய்ச் செயல்படுகிறது.`  
+   Source-visible reading: **`கலைஞரின் படைப்பாற்றல் எளிமையாய் வெகு இயல்பாய்ச் செய்துவிடுகிறது.`**  
+   Action: corrected `pages/0012-munnurai-6.md`.  
+   Dependency impact: front matter only; no P3 main-work article assembly is affected.
+
+4. **Scan 13 — `முன்னுரை`**  
+   Old canonical reading: `மறக்கவிடவோ`  
+   Source-visible reading: **`மறந்துவிடவோ`**  
+   Action: corrected `pages/0013-munnurai-7.md`.  
+   Dependency impact: front matter only; no P3 main-work article assembly is affected.
+
+5. **Scan 14 — `முன்னுரை`**  
+   Old canonical reading: `இலைகள் சிறகாய்ப் பின்னும் தாழை`  
+   Source-visible reading: **`இலைகள் சிறகாய்ப் பின்னுறும் தாழை`**  
+   Action: corrected `pages/0014-munnurai-8.md`.  
+   Dependency impact: front matter only; no P3 main-work article assembly is affected.
+
+6. **Scan 14 — `முன்னுரை`**  
+   Old canonical reading: `இருமுனையும் இணைவாய் இல்லையென`  
+   Source-visible reading: **`இருமுனையும் இணையாய் இல்லையென`**  
+   Action: corrected `pages/0014-munnurai-8.md`.  
+   Dependency impact: front matter only; no P3 main-work article assembly is affected.
+
+All four corrections were read directly from the controlling 2006 scan pixels. No contextual modernization or secondary-witness substitution was used.
+
 ### Batch findings
 
-- No canonical wording, spacing or punctuation correction was required on scans **11–20**.
 - `முன்னுரை` closes cleanly on scan **16**; scan **17** remains a genuine blank/show-through physical page.
-- Unit 1 `பிறையே` remains scans **18–20 / printed pp.17–19** with its P3 assembly unchanged.
+- Unit 1 `பிறையே` remains scans **18–20 / printed pp.17–19**.
+- Scans 18–20 were rechecked against the canonical records and `articles/01-piraiye.md`; **no P4 text correction was required** and the P3 assembly remains unchanged.
 - P3 propagation required for this batch: **0 files**.
 
 ## Progress totals
 
 - physical scans strict-reviewed: **20 / 146**;
 - contiguous reviewed range: **1–20**;
-- P4 corrections found: **2**;
-- P4 corrections propagated to canonical page records: **2 / 2**;
+- P4 corrections found: **6**;
+- P4 corrections propagated to canonical page records: **6 / 6**;
 - affected P3 article assemblies requiring propagation so far: **0**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**;
