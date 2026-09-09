@@ -6,7 +6,8 @@ Physical scans: **146**
 P1 status: **COMPLETE / PASS — source-title corrections synchronized**  
 P2 status: **COMPLETE / PASS — 146 / 146 VERIFIED**  
 P3 status: **COMPLETE / PASS — 26 / 26 assemblies**  
-P4 status: **COMPLETE / PASS — 146 / 146 strict-reviewed**
+P4 status: **COMPLETE / PASS — 146 / 146 strict-reviewed**  
+P5 status: **COMPLETE / PASS — TAMIL FROZEN**
 
 ## Mapping rule
 
@@ -212,8 +213,12 @@ Formal gate: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 P4-141-146 produced **9** corrections: seven question-mark spacing corrections in `மயிலிறகு` scans 142–144, propagated to `articles/26-mayiliragu.md`, and two independent scan-146 back-cover corrections (`‘மீசை முளைத்த வயதில்’` quotation punctuation and `வாசித்தலும்`). No source title, scan span, printed-page mapping or unit boundary changed.
 
+## P5 freeze overlay — COMPLETE / PASS
+
+Formal gate: `PUBLICATION_COMPLETION_REVIEW.md`.
+
+The complete 146-scan map passed publication-wide non-regression unchanged. Frozen canonical page-record tree: **`f7930b3696668cdbc2d692a284b49586d09a3372`**. Frozen strict-reviewed article tree: **`b7593357dc5ba101362c7a303881bea4e63e9b68`**. Mapping/title/boundary drift at freeze: **0**.
+
 ## Exact next activity
 
-**P5 — Tamil publication completion review / freeze.** Revalidate P0–P4 as a publication-wide non-regression gate, create the formal completion/freeze record, and synchronize all state-bearing trackers before English planning is unblocked.
-
-English remains blocked until Tamil P5 freeze passes.
+**English E0 planning / translation-workspace bootstrap.** English planning is **UNBLOCKED / NOT STARTED**. Use the frozen Tamil assembly authority and do not alter the frozen source layer.
