@@ -52,24 +52,6 @@ Formal gate: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 All **146 / 146 physical scans** passed the separate strict word-by-word / word-boundary-by-word-boundary / punctuation-by-punctuation review.
 
-| Batch | Corrections |
-|---|---:|
-| P4-001-010 | 2 |
-| P4-011-020 | 4 |
-| P4-021-030 | 35 |
-| P4-031-040 | 43 |
-| P4-041-050 | 46 |
-| P4-051-060 | 2 |
-| P4-061-070 | 2 |
-| P4-071-080 | 5 |
-| P4-081-090 | 3 |
-| P4-091-100 | 15 |
-| P4-101-110 | 12 |
-| P4-111-120 | 11 |
-| P4-121-130 | 8 |
-| P4-131-140 | 10 |
-| P4-141-146 | 9 |
-
 Final P4 totals:
 
 - strict-reviewed physical scans: **146 / 146**;
@@ -80,7 +62,7 @@ Final P4 totals:
 - blocked / needs-review scans: **0**;
 - mapping / unit-boundary changes: **0**.
 
-P4-141-146 finished `மயிலிறகு` on scans 141–145 / pp.140–144 and separately reviewed scan 146 back-cover promotional text. Nine source-visible corrections were required: three question-mark spacing corrections on scan 142, one on scan 143, three on scan 144, plus two independent back-cover corrections on scan 146 (`‘மீசை முளைத்த வயதில்’` quotation punctuation and `வாசித்தலும்`). The seven main-work corrections were propagated into `articles/26-mayiliragu.md`; scans 141 and 145 required no textual correction.
+P4 batch correction totals were **2, 4, 35, 43, 46, 2, 2, 5, 3, 15, 12, 11, 8, 10, 9** across scans 1–146.
 
 ## P5 Tamil publication freeze — COMPLETE / PASS
 
@@ -98,6 +80,30 @@ Frozen content authorities:
 
 Tracker-only changes after P5 do not alter these frozen Tamil content authorities. Any future Tamil reopening requires new direct controlling-source evidence and explicit provenance.
 
+## English E0 — COMPLETE / PASS
+
+Translation planning/workspace bootstrap is complete under `ESSAY_TRANSLATION_GUIDE.md`.
+
+Created and initialized:
+
+- `TRANSLATION_PLAN.md`;
+- `translations/en/README.md`;
+- `translations/en/LEXICON.md`;
+- `translations/en/TRANSLATION_REVIEW.md`.
+
+E0 state:
+
+- frozen Tamil assemblies inventoried: **26 / 26**;
+- frozen per-article blob provenance recorded: **26 / 26**;
+- article order: **01–26**;
+- English article body files: **0 / 26**;
+- formal article T0 gates: **0 / 26**;
+- T5 verified: **0 / 26**;
+- E0 blockers: **0**;
+- frozen Tamil changes during E0: **0**.
+
+Translation phases are planned as E1 Article 1 calibration, E2 Articles 2–11, E3 Articles 12–18, E4 Articles 19–22, E5 Articles 23–26, then E6 consistency and E7 release closeout. Each article must independently pass T0–T5.
+
 ## Source identity
 
 - source ID: `TVA_BOK_0065746`;
@@ -114,9 +120,11 @@ Tracker-only changes after P5 do not alter these frozen Tamil content authoritie
 - P3: **COMPLETE / PASS — 26 / 26 assemblies**
 - P4: **COMPLETE / PASS — 146 / 146 strict-reviewed**
 - P5: **COMPLETE / PASS — TAMIL FROZEN**
-- English / E0 planning: **UNBLOCKED / NOT STARTED**
-- active source/fidelity blockers: **0**
+- English E0: **COMPLETE / PASS**
+- English T0–T5: **0 / 26**
+- active Tamil/source blockers: **0**
+- active E0 blockers: **0**
 
 ## Exact next activity
 
-**English E0 planning / translation-workspace bootstrap.** Read `ESSAY_TRANSLATION_GUIDE.md`, use the frozen strict-reviewed `articles/` tree as Tamil authority, establish the publication translation plan / lexicon / review workspace, and do not alter the frozen Tamil layer. Actual translation has not begun during P5.
+**E1 — Article 1 `பிறையே` calibration.** Re-fetch live `main`, confirm frozen Tamil blob **`5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`**, then process Article 1 through **T0 → T1 → T2 → T3 → T4 → T5** as the publication voice baseline. Update the living lexicon/review/tracker records and do not modify the frozen Tamil layer.
