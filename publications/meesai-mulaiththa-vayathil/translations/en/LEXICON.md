@@ -305,10 +305,15 @@ This is a consistency aid, not a mechanical substitution table. Choices are esta
 - quoted literary passages in Articles 24 and 26 are translated only from the frozen Tamil witness;
 - source irregularities or uncertain compressed images remain documented here/review ledger rather than silently repaired.
 
-## Current status
+## Final status
 
 - frozen Tamil article set: **26 / 26 inventoried**;
 - publication-specific lexical decisions established: **153** through Article 26;
 - Articles **1–26** terminology / quotation / source audit: **T4 PASS**;
+- E6 publication-wide consistency review: **PASSED**;
+- E7 release closeout: **PASSED / COMPLETE**;
 - unresolved terminology blockers: **0**;
-- next lexicon activity: **E6 publication-wide English consistency review**.
+- English translation: **COMPLETE**;
+- English release gate: **CLOSED**.
+
+The 153 decisions above are frozen release decisions for Publication 10. Reopen them only if a genuine source-supported defect requires affected gate revalidation.
