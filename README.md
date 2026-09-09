@@ -31,39 +31,38 @@ Released English blob: `57bb332530e5e6de12c74f2cd40ceaccf22e41b9`.
 
 Workspace: [`publications/meesai-mulaiththa-vayathil/`](publications/meesai-mulaiththa-vayathil/)
 
-**Tamil P0–P5 COMPLETE / PASS / FROZEN. English E0 COMPLETE / PASS. E1 Article 1 `பிறையே` calibration is next.**
+**Tamil P0–P5 COMPLETE / PASS / FROZEN. English E0 COMPLETE / PASS. E1 Article 1 `பிறையே` COMPLETE / PASS through T0–T5. English progress: 1 / 26 verified. E2 Articles 2–11 is next.**
 
-Tamil state:
+Tamil authority:
 
-- controlling source: `TVA_BOK_0065746_மீசை_முளைத்த_வயதில்.pdf`;
 - source SHA-256: `9054aa8ed82c68050b82ffe57d772c32fdcad0605f72d7983de490162669527d`;
 - physical scans: **146**;
 - canonical page records: **146 / 146 VERIFIED**;
 - source-titled assemblies: **26 / 26**;
-- canonical main-work pages: **128 / 128**;
-- P4 strict-reviewed scans: **146 / 146**;
+- main-work pages: **128 / 128**;
+- P4 strict-reviewed: **146 / 146**;
 - P4 corrections: **207 / 207 propagated**;
-- unresolved Tamil source/fidelity blockers: **0**;
+- unresolved Tamil/source blockers: **0**;
 - frozen `pages/` tree: `f7930b3696668cdbc2d692a284b49586d09a3372`;
 - frozen `articles/` tree: `b7593357dc5ba101362c7a303881bea4e63e9b68`.
 
-English E0 workspace:
+English state:
 
-- [`publications/meesai-mulaiththa-vayathil/TRANSLATION_PLAN.md`](publications/meesai-mulaiththa-vayathil/TRANSLATION_PLAN.md) — initialized;
-- `translations/en/README.md` — initialized;
-- `translations/en/LEXICON.md` — initialized;
-- `translations/en/TRANSLATION_REVIEW.md` — initialized;
-- per-article frozen Tamil blob provenance: **26 / 26 recorded**;
-- English body files: **0 / 26**;
-- formal T0 gates: **0 / 26**;
-- T5 verified articles: **0 / 26**;
-- E0 blockers: **0**.
+- E0 planning/workspace: **COMPLETE / PASS**;
+- Article 1 `பிறையே`: **T0–T5 PASS / verified**;
+- English title: **O Crescent!**;
+- verified English blob: `1d07e03ba84353b2da7c0a344d6ae61c3223caf0`;
+- T0/T1/T2/T3/T4/T5 progress: **1 / 26** each;
+- unresolved English blockers: **0**;
+- E2 Articles 2–11: **NEXT**.
 
-Planned English phases: **E1 Article 1**, **E2 Articles 2–11**, **E3 Articles 12–18**, **E4 Articles 19–22**, **E5 Articles 23–26**, then **E6 consistency** and **E7 release closeout**. Every article independently passes T0–T5.
+Article 1 establishes the initial voice baseline: preserve direct vocatives, compact literary imagery, personification, repeated refrains/reversals, rhetorical sarcasm and concrete prison/freedom and beloved/freedom imagery. Publication-specific terminology remains governed by the living lexicon, not by mechanical import from older publications.
+
+Planned remaining phases: **E2 Articles 2–11**, **E3 Articles 12–18**, **E4 Articles 19–22**, **E5 Articles 23–26**, **E6 consistency**, **E7 release closeout**.
 
 ## Current repository boundary
 
-Exact next activity: **E1 — Article 1 `பிறையே` calibration**. Confirm frozen Tamil blob `5aa32af4f4ded784ee48ac7bebed2a4adbb8c73c`, then process Article 1 through **T0 → T1 → T2 → T3 → T4 → T5** as the English voice baseline. Do not modify frozen Tamil.
+Exact next activity: **E2 — Articles 2–11 (`ஆடிக்காற்று` through `தனிமை`)**, each independently through **T0 → T1 → T2 → T3 → T4 → T5**. Frozen Tamil must not be modified.
 
 ### Permanent `உடன்பிறப்பே` rule
 
