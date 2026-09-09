@@ -7,10 +7,10 @@ Physical scans: **146**
 
 ## Gate state
 
-**P4 — IN PROGRESS — 40 / 146 physical scans strict-reviewed**
+**P4 — IN PROGRESS — 50 / 146 physical scans strict-reviewed**
 
-Contiguous strict-reviewed range: **scans 1–40**.  
-Next strict-review batch: **scans 41–50**.
+Contiguous strict-reviewed range: **scans 1–50**.  
+Next strict-review batch: **scans 51–60**.
 
 P4 follows `ESSAY_PROCESSING_GUIDE.md` section 12: every physical scan is re-inspected directly, word-by-word and punctuation-by-punctuation, against the canonical page record. Source pixels remain authority; context, OCR and secondary editions are not authority.
 
@@ -227,16 +227,120 @@ Scans 18–20 / Unit 1 `பிறையே` required no correction; P3 propagati
   - `articles/08-malaiye-vaazhi.md`.
 - Permanent P1 title `அகப்பை சித்தர்` remains unchanged; P4 corrected body text only.
 - Unit boundaries and printed-page mapping did not change.
-- Scan 40 remains an internal page of `மலையே வாழி`; the unit closes on scan 41, which is not yet P4-reviewed.
+- unresolved fidelity discrepancies after reconciliation: **0**.
+
+## Batch P4-041-050
+
+**RESULT: PASS after corrective strict review — 10 / 10 scans; 46 corrections; 0 unresolved fidelity discrepancies.**
+
+| Scan | Unit / printed page | Result | Corrections |
+|---:|---|---|---:|
+| 41 | `மலையே வாழி` / p.40 | PASS after correction | 10 |
+| 42 | `தளிர்` / p.41 | PASS | 0 |
+| 43 | `தளிர்` / p.42 | PASS after correction | 5 |
+| 44 | `தளிர்` / p.43 | PASS after correction | 6 |
+| 45 | `தளிர்` / p.44 | PASS after correction | 1 |
+| 46 | `விண்மீன்` / p.45 | PASS after correction | 3 |
+| 47 | `விண்மீன்` / p.46 | PASS after correction | 8 |
+| 48 | `விண்மீன்` / p.47 | PASS after correction | 6 |
+| 49 | `தனிமை` / p.48 | PASS after correction | 1 |
+| 50 | `தனிமை` / p.49 | PASS after correction | 6 |
+
+### Correction provenance — P4-041-050
+
+**Scan 41 — `மலையே வாழி` / p.40**
+
+85. `நிமிர்த்திவிட்டால்` → **`நிமிர்த்தாவிட்டால்`**;
+86. `உயர்ந்த தோள்கள்` → **`வைரத் தோள்கள்`**;
+87. `உதவிக் கரம் செய்வதால் பொதுத் தொண்டனாய்` → **`உலகிற்கு உதவி செய்வதால் பொது நலத் தொண்டனாய்`**;
+88. `நீயில்லாவிட்டால்` → **`நீயில்லா விட்டால்`**;
+89. `சித்தன்னவாசலின்` → **`சிற்றன்னவாசலின்`**;
+90. `சிற்பக் கலையாய்` → **`சிற்பக் குகையாய்`**;
+91. `அகண்ட நெற்றியில்` → **`அகன்ற நெற்றியில்`**;
+92. `உன்னதமானவை.` → **`உன்னதமானவை,`**;
+93. `ஆனால் மலையே!` → **`ஆனால் மலையே`**;
+94. double-quoted `“கடவுள் மலையைப் படைத்தார்!”` → source single-quoted **`‘கடவுள் மலையைப் படைத்தார்!’`**.
+
+**Scan 43 — `தளிர்` / p.42**
+
+95. `முடித்துக்கொள்ள` → **`முடித்துக் கொள்ள`**;
+96. `காண்பதோ - உன்` → **`காண்பதோ- உன்`**;
+97. `குடும்பங்கள் கூட` → **`குடும்பங்கள்கூட`**;
+98. `பட்டுப்போன்ற` → **`பட்டுப் போன்ற`**;
+99. `உயர்வானது, மாசற்றது.` → **`உயர்வானது. மாசற்றது.`**.
+
+**Scan 44 — `தளிர்` / p.43**
+
+100. `நீயும் நாத்திகனா,` → **`நீயும் நாத்திகவாதி.`**;
+101. `புரிந்தவன்.` → **`புரிந்தவன்,`**;
+102. `அறிந்தவன்.` → **`அறிந்தவன்,`**;
+103. restored source qualifier **`சில`** before `பெரியவர்கள்`;
+104. restored missing source sentence **`பாம்பொடு விளையாடும் பண்பில் நீயும் அவர்களும் ஒன்று தானே குழந்தாய்!`**;
+105. `பாபம் - வளர்ந்த மனிதனுக்கு!` → **`பாபம் - வளர்ந்த மனிதனுக்கு`**.
+
+**Scan 45 — `தளிர்` / p.44**
+
+106. standalone `ஆனால்` → source-visible **`ஆனால் -`**.
+
+**Scan 46 — `விண்மீன்` / p.45**
+
+107. `படப்பிடிப்பே` → **`படைப்பே`**;
+108. `வானக் கூரையெல்லாம்` → **`வானக்கூரையெல்லாம்`**;
+109. `வான இரத்தினத்தின்` → **`இரத்தினத்தின்`**.
+
+**Scan 47 — `விண்மீன்` / p.46**
+
+110. `விரித்தாடினாற் போலவே` → **`விரித்தாடுங்காட்சி கண்டேன்`**;
+111. `அது போலே` → **`அது போல்`**;
+112. `கண் சிமிட்டும்` → **`கண்சிமிட்டும்`**;
+113. `ஏச்சு!` → **`சீச்சீ!`**;
+114. `மனிதர்களும்` → **`மனிதர்களுள்`**;
+115. `கற்கண்டு.` → **`கற்கண்டு!`**;
+116. `நா அடுக்கத்தேடி` → **`நா கடுக்கத்தேடி`**;
+117. `மின்மினியாய்ப்` → **`மின் மினியாய்ப்`**.
+
+**Scan 48 — `விண்மீன்` / p.47**
+
+118. `ஒளிப்புகழை` → **`ஒளிப்புகழைத்`**;
+119. `பாடுகிறோம். ஆனால்` → **`பாடுகிறோம் ஆனால்`**;
+120. `ஓர் நாள்` → **`ஒரு நாள்`**;
+121. `ஓர் முழுவால் தான்` → **`ஒரு முழு வால்தான்`**;
+122. `இப்பெருவையம்` → **`இப்பெரு வையம்`**;
+123. `வான் சொரியும்` → **`வான்சொரியும்`**.
+
+**Scan 49 — `தனிமை` / p.48**
+
+124. `அவ்வளவு காதலோ!` → **`அன்புள்ள காதலரே!`**.
+
+**Scan 50 — `தனிமை` / p.49**
+
+125. `ஆரத்தழுவியபடி` → **`ஆரத்தழுவியபடியே`**;
+126. `கடந்தீரே...` → **`கிடந்தீரே...`**;
+127. `இப்போது, நான்` → **`இப்போது - நான்`**;
+128. `வேணுகானமோ` → **`வேணு கானமோ`**;
+129. `அப்படியெல்லாம்` → **`அப்படி யெல்லாம்`**;
+130. `காதலரே....... எல்லாம்` → **`காதலரே எல்லாம்.... எல்லாம்`**.
+
+### Batch findings / dependency propagation
+
+- Scan 42 required no correction.
+- All 46 source-visible changes were applied to canonical page records.
+- P3 assemblies re-synchronized in this batch:
+  - `articles/08-malaiye-vaazhi.md`;
+  - `articles/09-thalir.md`;
+  - `articles/10-vinmeen.md`;
+  - `articles/11-thanimai.md`.
+- `மலையே வாழி` closes on scan 41; `தளிர்` and `விண்மீன்` are fully P4-reconciled; `தனிமை` remains open and continues on scan 51.
+- Permanent P1 title `தளிர்` remains unchanged; no source-title or unit-boundary change occurred.
 - unresolved fidelity discrepancies after reconciliation: **0**.
 
 ## Progress totals
 
-- physical scans strict-reviewed: **40 / 146**;
-- contiguous reviewed range: **1–40**;
-- P4 corrections found: **84**;
-- P4 corrections propagated to canonical page records: **84 / 84**;
-- P3 article assemblies corrected / re-synchronized so far: **7 distinct assemblies**;
+- physical scans strict-reviewed: **50 / 146**;
+- contiguous reviewed range: **1–50**;
+- P4 corrections found: **130**;
+- P4 corrections propagated to canonical page records: **130 / 130**;
+- P3 article assemblies corrected / re-synchronized so far: **10 distinct assemblies**;
 - unresolved fidelity discrepancies: **0**;
 - blocked / needs-review scans in reviewed range: **0**;
 - P4 gate: **OPEN / IN PROGRESS**.
@@ -249,6 +353,6 @@ The supplied 2006 scan remains controlling. Corroborating witnesses, OCR and con
 
 ## Exact next activity
 
-**P4 scans 41–50.** Re-inspect all ten physical scans directly against their canonical records, beginning with the closing page of `மலையே வாழி`, then `தளிர்`, `விண்மீன்`, and the opening pages of `தனிமை`. Record every old reading → source-visible reading correction, propagate affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
+**P4 scans 51–60.** Re-inspect all ten physical scans directly against their canonical records. This batch finishes `தனிமை` on scans 51–54, covers `நாடக மேடை` scans 55–56 and `புகழ்` scans 57–58, and begins `பச்சைக்கிளி` on scans 59–60. Record every old reading → source-visible reading correction, propagate affected text into dependent P3 assemblies, and advance this report only after the full batch is reconciled.
 
 Do not mark P4 complete before **146 / 146** physical scans are strict-reviewed. English remains **BLOCKED until Tamil P5 freeze**.
