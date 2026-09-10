@@ -76,6 +76,30 @@ P3 is **COMPLETE / PASS — 19 / 19 source-numbered assemblies**.
 
 See `P3_ASSEMBLY_AUDIT.md` for the complete span matrix and P3 decision.
 
+## P4 source/completeness reconciliation
+
+P4 is **COMPLETE / PASS**.
+
+The live source metadata and source-derived layers were reconciled without finding a new discrepancy:
+
+- source filename / checksum / file size / 82-scan identity: **PASS**;
+- canonical `pages/` inventory: **82 / 82**, scan numbers `0001–0082` contiguous;
+- missing / duplicate canonical scan records: **0 / 0**;
+- pagination and suppressed/inferred folio set: **PASS**;
+- distinct cover/title-page title witnesses: **PASS**;
+- scan-6 `15—7—81` witness: **PASS**;
+- front-matter printed text vs physical-copy marks: **PASS**;
+- numbered-section assemblies: **19 / 19 source-complete**;
+- structural-map / section-boundary drift: **0**;
+- shared-transition duplication / omission defects: **0**;
+- scan-13 and scan-74 correction propagation: **PASS**;
+- new P4 text corrections: **0**;
+- unresolved P4 blockers: **0**.
+
+Dedicated review: `P4_SOURCE_COMPLETENESS_REVIEW.md`.
+
+P4 is a source/completeness reconciliation gate. It does not replace the mandatory P5 direct word-by-word / punctuation-by-punctuation source reinspection.
+
 ## Gate status
 
 - P0 — **COMPLETE / PASS**;
@@ -83,11 +107,11 @@ See `P3_ASSEMBLY_AUDIT.md` for the complete span matrix and P3 decision.
 - scans / printed pages / sections mapped — **82/82 / 80/80 / 19/19**;
 - P2 — **COMPLETE / PASS — 82/82 VERIFIED**;
 - P3 — **COMPLETE / PASS — 19/19 assemblies**;
-- P4 — **NOT STARTED / NEXT**;
-- P5 — **NOT STARTED**;
+- P4 — **COMPLETE / PASS**;
+- P5 — **NOT STARTED / NEXT**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**;
-- unresolved source/structure/assembly blockers — **0**.
+- unresolved source/structure/assembly/completeness blockers — **0**.
 
 ## Exact next activity
 
-**P4 — source audit / completeness review across the source record, 82 page records, 19 assemblies, indexes and correction provenance.**
+**P5 — strict visual word/punctuation fidelity across all 82 physical source scans.** Re-inspect every source scan directly against its canonical page record and record/propagate any source-visible correction before Tamil can be frozen.
