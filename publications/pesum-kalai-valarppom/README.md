@@ -8,7 +8,7 @@ Workspace: `publications/pesum-kalai-valarppom/`
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
-- P2 page-level transcription — **IN PROGRESS / 10 of 82 VERIFIED**;
+- P2 page-level transcription — **IN PROGRESS / 20 of 82 VERIFIED**;
 - P3 assemblies — **NOT STARTED**;
 - P4 source/completeness audit — **NOT STARTED**;
 - P5 strict visual word/punctuation fidelity — **NOT STARTED**;
@@ -68,21 +68,28 @@ Section openings are scans `7,12,16,22,27,31,34,38,42,45,48,51,55,59,64,67,70,75
 
 ## P2 progress
 
-Batch 1, scans **1–10**, is **COMPLETE / PASS**.
+Batch 1, scans **1–10**, is **COMPLETE / PASS**. Batch 2, scans **11–20**, is also **COMPLETE / PASS**.
 
-- canonical records created: **10 / 82**;
-- directly verified: **10 / 82**;
-- covered through printed p.8;
-- unresolved printed-text readings: **0**;
+- canonical records created / directly verified: **20 / 82**;
+- contiguous verified range: scans **1–20**;
+- printed coverage: through **p.18**;
+- unresolved printed-text/source-distinction blockers: **0**;
 - assemblies created: **0**;
-- scan 5 remains a separate physical-copy annotation record with **no printed publication text**.
+- scan 5 remains a separate physical-copy annotation record with **no printed publication text**;
+- scan 12 preserves the source-visible section **1→2** mid-page transition;
+- scan 16 preserves the source-visible section **2→3** mid-page transition.
 
-Direct page-boundary checks:
+Batch-2 direct page-boundary checks include:
 
-- scan 7 `கவிஞரின்` → scan 8 `கவிதைச்`;
-- scan 8 `பிரச்` → scan 9 `சினைகளைப்`;
-- scan 9 `சிந்தித்` → scan 10 `துப் பார்த்து`;
-- scan 10 `கொண்` → scan 11 `டிருப்பார்.`; scan 11 was inspected only to verify this batch boundary and is not yet transcribed.
+- scan 13 `உயர்நிலைப்பள்ளியில்` → scan 14 `நடைபெற்ற`;
+- scan 14 `வீட்டில்` → scan 15 `உள்ள`;
+- scan 15 `ஒலிபெருக்கியின்` → scan 16 `முன்னால்`;
+- scan 16 `சொற்களை` → scan 17 `அடிப்படையாகக்`;
+- scan 20 `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்`.
+
+Scan 21 was inspected only to close the batch boundary and is not yet counted as a P2 page record.
+
+A scan-13 draft reading `வீட்டான்` was corrected after enlarged direct source review to source-visible **`வீடுதான்`** before batch closure. Other source-sensitive readings preserved include scan 12 `தீமை தரக்கூடிய வார்த்தைகளை`, scan 14 `நாக் குழற`, scan 16 `தமிழகத்துக் கலைத் திறனை`, and scan 19's source-visible quotation spacing and printed `பே—2` gathering mark.
 
 ## Physical-copy/source distinctions
 
@@ -99,4 +106,4 @@ Printed text and physical-copy marks remain separate in canonical page records.
 
 ## Exact next activity
 
-**P2 batch 2 — scans 11–20.** Create, transcribe and directly verify ten more canonical page records, preserving cross-page fragments and source punctuation exactly. Follow the P1 folio/section map and do not build section assemblies yet.
+**P2 batch 3 — scans 21–30 / printed pp.19–28.** Create, transcribe and directly verify ten more canonical page records, preserving the section **3→4** mid-page transition on scan 22 and section **4→5** transition on scan 27, source punctuation and cross-page fragments exactly. Do not build section assemblies yet.
