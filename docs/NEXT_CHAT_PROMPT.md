@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / P2 scans 61–70
+# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / P2 scans 71–80
 
 Continue in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -24,9 +24,9 @@ The supplied scan is controlling authority. OCR/parsed text is not authority. Ne
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
-- P2 — **IN PROGRESS / 60 of 82 VERIFIED**;
-- contiguous P2 verified range — scans **1–60**;
-- printed coverage — through **p.58**;
+- P2 — **IN PROGRESS / 70 of 82 VERIFIED**;
+- contiguous P2 verified range — scans **1–70**;
+- printed coverage — through **p.68**;
 - P3/P4/P5 — **NOT STARTED**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**;
 - unresolved P2/source/structure blockers — **0**;
@@ -53,43 +53,44 @@ Never represent a suppressed/inferred folio as a visibly printed numeral.
 
 Preserve both exactly. Scan 6 `பதிப்புரை` retains source-visible date `15—7—81`.
 
-## P2 batches 1–6 — COMPLETE / PASS
+## P2 batches 1–7 — COMPLETE / PASS
 
-Scans **1–60** have canonical directly VERIFIED records.
+Scans **1–70** have canonical directly VERIFIED records.
 
-Batch 6 / scans 51–60 established:
+Batch 7 / scans 61–70 established:
 
-- scan **51** section **11→12** mid-page transition — preserved;
-- scan **55** section **12→13** mid-page transition — preserved;
-- scan **58** section 13 ends at page end;
-- scan **59** source-visible section `14` opens at page top; p.57 folio suppressed/inferred;
-- scan **60** remains section 14;
-- scan 60 `அரசியல் கட்சி மேடையில்` → scan 61 `அதற்குப் பதில் அளிக்கும்போது` directly checked; scan 61 is **not yet counted**.
+- scans **61–63** remain section 14; scan **63** closes section 14 at page end;
+- scan **64 / inferred p.62** source-visible section `15` opens at page top; folio suppressed/inferred;
+- scans **65–66** remain section 15;
+- scan **67** section **15→16** mid-page transition — preserved;
+- scans **68–69** remain section 16;
+- scan **70** section **16→17** mid-page transition — preserved;
+- scan 70 final sentence closes on-page; scan **71** starts a new sentence and was inspected only to close the boundary, so scan 71 is **not yet counted**.
 
-Direct continuation checks from batch 6:
+Direct continuation checks from batch 7 include:
 
-- scan 51 `ஆகிவிடுமென` → scan 52 `வள்ளுவர் கூறியது`;
-- scan 53 `ஆற்றைக் கடக்க மக்கள்` → scan 54 `ஒரு பால வசதியின்றிக்`;
-- scan 55 `ஒரு மாநில ஆட்சியைக்` → scan 56 `கவிழ்க்க முடியும் என்பதையும்`;
-- scan 57 `வைத்துக்` → scan 58 `கொள்வோம்.`;
-- scan 60 `அரசியல் கட்சி மேடையில்` → scan 61 `அதற்குப் பதில் அளிக்கும்போது`.
+- scan 61 `தனது கட்சிக்காரர்களின்` → scan 62 `கைத்தட்டலை`;
+- scan 63 section 14 closes → scan 64 section `15` opens;
+- scan 65 `பேச்சாளர்` → scan 66 `களை இன்று காணும்போது`;
+- scan 67 `சொல் ஒன்றுக்கு` → scan 68 `ஐந்து ரூபாய் கொடுப்பதாக`;
+- scan 70 final sentence closes; scan 71 begins `வாயில் அதுவரையில் குழப்பிக் கொண்டிருந்த`.
 
-Source-sensitive batch-6 readings include `போர்களம்`, `அரங்கின்றி வட்டாடுவதுபோல`, printed `பே—4` separated from prose, `அவைக்கணம்`, `ஒளவைக்குக்`, `ஒலிபெருக்கியாளர்கள்`, `வீணுக் குழைத்தோமடா`, `கட்டுபடியான`, `குக்கிராமத்துப் பொதுக்கூட்டம்`, `கிரேக்கத்து`, `ஆபிரகாம் லிங்கன்`, `விபரங்களையும்`, `மாங்கொல்லையிலோ`, `புரசை வெள்ளாளர்`, `நியாயந்தானே!`, `எழுவயது`, `சுற்றடைப்புக்குள்`, `மது பார்மிட்`, `உத்திரவிட்டேன்`, distinct `‘போன்’` / `“போன்”`, `களித்திருமளவுக்கு`, `சொற்பெருக்காற்றக்`, `தாற்குறையாகத்`, `தாற்குறையாக — ஆபாசமாக — அருவருக்கத்தக்க`. Batch 6 corrections after final direct verification: **0**.
+Source-sensitive batch-7 readings include `கடுஞ்சொற் களஞ்சியமாகவும்—ஆபாசக் குட்டையாகவும்`, `“வசவு”`, `திருவாரூர் ஓடம் போக்கி`, unusual `வழியனுப்பி வைக்கப்பட்ட அழைத்துச் செல்லப்படுவார்`, `விளம்பரச் சுவரொட்டியடித்து`, `செயலாளர் — தங்கக் கம்பி!`, `நாட்டி யிருக்கிறார்கள்`, `கண்ணியூர் பரூக்`, printed `பே—5` separated from prose, `ருசியப் பொன்மொழி`, `அல்பேனியப் பொன்மொழி`, two-line `சொல்லுக சொல்லைப்...` quotation, `“நாநலம் என்னும் நலனுடைமை”`, and `தொண்ணூற்றி ஐந்து`. Batch-7 corrections after final direct verification: **0**.
 
 Earlier documented correction remains scan 13 draft `வீட்டான்` → source-visible **`வீடுதான்`**.
 
-## Batch-7 structural mapping
+## Batch-8 structural mapping
 
-- scan 61 — visible printed p.59 — section 14;
-- scan 62 — visible printed p.60 — section 14;
-- scan 63 — visible printed p.61 — section 14 — section ends at page end;
-- scan 64 — **suppressed / inferred** printed p.62 — section 15 opens at page top;
-- scan 65 — visible printed p.63 — section 15;
-- scan 66 — visible printed p.64 — section 15;
-- scan 67 — visible printed p.65 — section **15 → 16** mid-page transition;
-- scan 68 — visible printed p.66 — section 16;
-- scan 69 — visible printed p.67 — section 16;
-- scan 70 — visible printed p.68 — section **16 → 17** mid-page transition.
+- scan 71 — visible printed p.69 — section 17;
+- scan 72 — visible printed p.70 — section 17;
+- scan 73 — visible printed p.71 — section 17;
+- scan 74 — visible printed p.72 — section 17 — section ends at page end;
+- scan 75 — **suppressed / inferred** printed p.73 — section 18 opens at page top;
+- scan 76 — visible printed p.74 — section 18;
+- scan 77 — visible printed p.75 — section 18;
+- scan 78 — visible printed p.76 — section 18;
+- scan 79 — visible printed p.77 — section **18 → 19** mid-page transition;
+- scan 80 — visible printed p.78 — section 19.
 
 ## Mandatory startup
 
@@ -104,25 +105,26 @@ Read completely before source-dependent work:
 7. `indexes/contents.md`
 8. `indexes/page-map.md`
 9. `audit.md`
-10. canonical page records for scans **57–60** to preserve conventions and boundary continuity
+10. canonical page records for scans **67–70** to preserve conventions and boundary continuity
 
-## Exact next activity — P2 batch 7
+## Exact next activity — P2 batch 8
 
-Process **scans 61–70 in one batch**:
+Process **scans 71–80 in one batch**:
 
 1. inspect each of the ten scans directly;
 2. create one canonical Markdown record per physical scan;
 3. use the P1 folio map exactly;
-4. preserve section 14 through scan 63 and its page-end closure on scan 63;
-5. preserve source-visible section 15 opening at scan 64 page top and label p.62 **suppressed / inferred**, never visible;
-6. preserve section **15→16** transition on scan 67;
-7. preserve section **16→17** transition on scan 70;
-8. transcribe only source-visible print;
-9. preserve wording, punctuation, paragraphing, headings, numbers, quotations, printed non-text marks and cross-page fragments exactly;
-10. separate handwriting/stamps/library marks/other physical-copy evidence from print;
-11. mark a record `VERIFIED` only after direct visual comparison;
-12. inspect scan **71** where needed to close the scan-70 boundary, but do not count scan 71 in batch 7;
-13. update page-map/contents/source metadata/audit/publication README/root README/root handover/this prompt after the ten-page batch;
-14. **do not build section/article assemblies yet**.
+4. preserve section 17 through scan 74 and its page-end closure on scan 74;
+5. preserve source-visible section 18 opening at scan 75 page top and label p.73 **suppressed / inferred**, never visible;
+6. preserve section 18 through scans 76–78;
+7. preserve section **18→19** transition on scan 79;
+8. preserve section 19 on scan 80;
+9. transcribe only source-visible print;
+10. preserve wording, punctuation, paragraphing, headings, numbers, quotations, printed non-text marks and cross-page fragments exactly;
+11. separate handwriting/stamps/library marks/other physical-copy evidence from print;
+12. mark a record `VERIFIED` only after direct visual comparison;
+13. inspect scan **81** where needed to close the scan-80 boundary, but do not count scan 81 in batch 8;
+14. update page-map/contents/source metadata/audit/publication README/root README/root handover/this prompt after the ten-page batch;
+15. **do not build section/article assemblies yet**.
 
-At completion, P2 should stand at **70 / 82 VERIFIED** if all ten records close with no blocker. Record genuine uncertainty rather than guessing.
+At completion, P2 should stand at **80 / 82 VERIFIED** if all ten records close with no blocker. Record genuine uncertainty rather than guessing.
