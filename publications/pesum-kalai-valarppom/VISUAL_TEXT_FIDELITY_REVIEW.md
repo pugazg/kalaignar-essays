@@ -6,7 +6,7 @@ Source SHA-256: `73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf
 
 ## Gate status
 
-**P5 — IN PROGRESS — 50 / 82 physical scans strict-reviewed.**
+**P5 — IN PROGRESS — 60 / 82 physical scans strict-reviewed.**
 
 Source pixels are controlling authority. Each reviewed scan is compared directly word-by-word and punctuation-by-punctuation against its canonical page record, including headings, numbers, quotation marks, meaningful spacing / word boundaries, folios, continuations and physical-copy marks.
 
@@ -19,9 +19,10 @@ Source pixels are controlling authority. Each reviewed scan is compared directly
 | P5-021-030 | 21–30 | pp.19–28 | **PASS** | **2** | **0** |
 | P5-031-040 | 31–40 | pp.29–38 | **PASS** | **9** | **0** |
 | P5-041-050 | 41–50 | pp.39–48 | **PASS** | **10** | **0** |
+| P5-051-060 | 51–60 | pp.49–58 | **PASS** | **1** | **0** |
 
-Contiguous strict-reviewed range: **scans 1–50 / 50 of 82**.  
-Corrections found / propagated: **26 / 26**.  
+Contiguous strict-reviewed range: **scans 1–60 / 60 of 82**.  
+Corrections found / propagated: **27 / 27**.  
 Unresolved fidelity discrepancies in reviewed range: **0**.
 
 ## P5-041-050 — direct visual findings
@@ -37,7 +38,22 @@ Unresolved fidelity discrepancies in reviewed range: **0**.
 - scan 49 / p.47 — section 11 body, `வெற்றி முகட்டை` and cross-page `தோழர்` fragment re-read directly; **1 correction**;
 - scan 50 / p.48 — section 11 body, `I conceive, conceive, conceive`, punctuation and scan-51 boundary re-read directly; **4 corrections**.
 
-Section changes **41→42 (8→9)**, **44→45 (9→10)** and **47→48 (10→11)** are source-supported page-end/top changes and PASS. Scans **42,45,48** remain suppressed/inferred folios. Scan **51** was inspected only to close the scan-50 boundary and is not counted in this batch.
+Section changes **41→42 (8→9)**, **44→45 (9→10)** and **47→48 (10→11)** are source-supported page-end/top changes and PASS. Scans **42,45,48** remain suppressed/inferred folios. Scan 51 was inspected only to close the scan-50 boundary and is not counted in this batch.
+
+## P5-051-060 — direct visual findings
+
+- scan 51 / p.49 — section 11 continuation, source-visible section `12`, printed gathering/signature mark `பே—4`, and page-end continuation re-read directly; **1 correction**;
+- scan 52 / p.50 — section 12 body and quotation punctuation re-read directly; **PASS**;
+- scan 53 / p.51 — section 12 body, quotations and page-end continuation re-read directly; **PASS**;
+- scan 54 / p.52 — section 12 body, quotation opening and page-end continuation re-read directly; **PASS**;
+- scan 55 / p.53 — section 12→13 source-visible mid-page transition and section 13 opening re-read directly; **PASS**;
+- scan 56 / p.54 — section 13 body, dash spacing and named references re-read directly; **PASS**;
+- scan 57 / p.55 — section 13 body, `எழுவயது`, dates and quotation punctuation re-read directly; **PASS**;
+- scan 58 / p.56 — section 13 page-end closure and `‘போன்’` / `“போன்”` distinction re-read directly; **PASS**;
+- scan 59 / inferred p.57 — source-visible section `14`, suppressed/inferred folio and page-top opening re-read directly; **PASS**;
+- scan 60 / p.58 — section 14 body, spaced dash sequence and scan-61 boundary re-read directly; **PASS**.
+
+Scan 51 section **11→12** and scan 55 section **12→13** transitions are source-visible and PASS. Scan 59 remains a suppressed/inferred p.57 folio. Scan 61 was inspected only as boundary evidence and is not counted.
 
 ## Correction ledger
 
@@ -66,18 +82,21 @@ Section changes **41→42 (8→9)**, **44→45 (9→10)** and **47→48 (10→11
 23. scan 50 — `என்று சொல் இடம்` → **`என்று ‘சொல்’ இடம்`**;
 24. scan 50 — `“ஐயோ! ஜனகன்` → **`“ஏம்பா! ஜனகன்`**;
 25. scan 50 — `புகழ்மேணியில்` → **`புகழ்மேனியில்`**;
-26. scan 50 — `மூச்சுத்திணற கூறிக்கொண்டே` → **`மூச்சுத்திணறக் கூறிக்கொண்டே`**.
+26. scan 50 — `மூச்சுத்திணற கூறிக்கொண்டே` → **`மூச்சுத்திணறக் கூறிக்கொண்டே`**;
+27. scan 51 — `போர்களம்` → **`போர்க்களம்`**.
 
-All **26/26** corrections are propagated to affected canonical page records and numbered-section assemblies where applicable.
+All **27/27** corrections are propagated to affected canonical page records and numbered-section assemblies where applicable.
 
-## Boundary / continuity checks through scan 50
+## Boundary / continuity checks through scan 60
 
-Source-fragment continuations and section boundaries remain valid, including scan 40 `பொருள்` → scan 41 `என்றால், அதனை`, scan 42 `ஒலிபெருக்கியில்` → scan 43 `சொல்வதற்காக`, scan 46 `சிக்கவைக்க` → scan 47 `வேண்டுமென்று`, scan 48 `காலையிலோ` → scan 49 `மாலையிலோ நடிகர்கள்`, and scan 49 `மதிப்புக்குரிய தோழர்` → scan 50 `களுக்குப் பதிலாக`.
+Source-fragment continuations and section boundaries remain valid, including scan 40 `பொருள்` → scan 41 `என்றால், அதனை`, scan 42 `ஒலிபெருக்கியில்` → scan 43 `சொல்வதற்காக`, scan 46 `சிக்கவைக்க` → scan 47 `வேண்டுமென்று`, scan 48 `காலையிலோ` → scan 49 `மாலையிலோ நடிகர்கள்`, scan 49 `மதிப்புக்குரிய தோழர்` → scan 50 `களுக்குப் பதிலாக`, scan 51 `ஆகிவிடுமென` → scan 52 `வள்ளுவர் கூறியது`, scan 53 `ஆற்றைக் கடக்க மக்கள்` → scan 54 `ஒரு பால வசதியின்றிக்`, scan 54 quotation fragment → scan 55 `கிரேக்கத்து நீதிமன்றம்`, scan 55 `ஒரு மாநில ஆட்சியைக்` → scan 56 `கவிழ்க்க முடியும் என்பதையும்`, scan 57 `வைத்துக்` → scan 58 `கொள்வோம்.`
 
-Source-visible mid-page transitions already P5-reviewed and PASS: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8)**. Page-end/top section changes **41→42 (8→9), 44→45 (9→10), 47→48 (10→11)** also PASS.
+Source-visible mid-page transitions already P5-reviewed and PASS: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8), 51 (11→12), 55 (12→13)**. Page-end/top section changes **41→42 (8→9), 44→45 (9→10), 47→48 (10→11), 58→59 (13→14)** also PASS.
+
+Suppressed/inferred folios through scan 60 remain correctly handled on **3,4,5,6,7,42,45,48,59**.
 
 ## Exact next activity
 
-**P5 scans 51–60 / printed pp.49–58.** Re-read directly word-by-word and punctuation-by-punctuation. Preserve scan **51 (11→12)** and scan **55 (12→13)** mid-page transitions, section 13 page-end closure at scan **58**, section 14 top-of-page opening on scan **59**, and scan 59's suppressed/inferred p.57 folio. Inspect scan **61** only as batch-boundary evidence if needed. Record and immediately propagate every confirmed correction. English remains blocked while P5 is open.
+**P5 scans 61–70 / printed pp.59–68.** Re-read directly word-by-word and punctuation-by-punctuation. Preserve scan **64** suppressed/inferred p.62 and section **15** opening, scan **67** section **15→16** mid-page transition, and scan **70** section **16→17** mid-page transition. Inspect scan **71** only as batch-boundary evidence if needed. Record and immediately propagate every confirmed correction. English remains blocked while P5 is open.
 
 P5 closes only after **82 / 82** scans pass, every source-supported correction is propagated, and unresolved fidelity discrepancies are **0**.
