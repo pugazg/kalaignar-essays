@@ -22,10 +22,13 @@ Workspace: `publications/pesum-kalai-valarppom/`
 - E0 planning / workspace bootstrap — **COMPLETE / PASS**;
 - T0 frozen-source prerequisite — **19/19 PASS**;
 - exact Tamil assembly blob SHAs recorded — **19/19**;
-- English article body files — **0/19**;
-- T1 / T2 / T3 / T4 / T5 — **0/19**;
+- English article body files — **1/19**;
+- T1 close draft — **1/19**;
+- T2 / T3 / T4 / T5 — **0/19**;
 - unresolved English blockers — **0**;
-- frozen Tamil edits during E0/T0 — **0**.
+- frozen Tamil edits during English work — **0**.
+
+Section 1 is currently **draft / T1 complete**. Its frozen Tamil authority is `e5517b7cc344554d51af4092599059d481039c1e`; its T1 English blob is `d36aec208ea15b970795a7717dd770d2d27251d8`. The next gate is T2 bilingual fidelity review.
 
 English controls:
 
@@ -33,6 +36,7 @@ English controls:
 - [`translations/en/README.md`](translations/en/README.md)
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+- [`translations/en/01-section-01.md`](translations/en/01-section-01.md)
 
 ## Controlling source
 
@@ -57,12 +61,12 @@ P5 re-read every physical scan directly against its canonical record and closed 
 
 ## English source baseline
 
-E0/T0 used frozen Tamil baseline commit **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**. All **19** article blobs were enumerated and recorded in `TRANSLATION_PLAN.md` and the English review ledger. Before each draft, the live Tamil blob must match that recorded SHA exactly.
+E0/T0 used frozen Tamil baseline commit **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**. All **19** article blobs were enumerated and recorded in `TRANSLATION_PLAN.md` and the English review ledger. Before each English gate, the live Tamil blob must match that recorded SHA exactly.
 
 Permanent rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`** only where the exact source form occurs.
 
-The source supplies numeric sections only. Do not invent descriptive English section titles.
+The source supplies numeric sections only. Do not invent descriptive English section titles. Section 1 T1 uses the provisional publication-title rendering **Let Us Develop the Art of Speaking**; it is not frozen until T3 voice review.
 
 ## Exact next activity
 
-**E1 — Section 1 / T1 voice-calibration draft.** Reconfirm `articles/01-section-01.md` at frozen blob **`e5517b7cc344554d51af4092599059d481039c1e`**, then create `translations/en/01-section-01.md` as a complete paragraph-by-paragraph draft with source-page comments and rhetorical structure preserved. Leave it `draft`; T2–T5 remain separate review gates.
+**E1 — Section 1 / T2 bilingual fidelity review.** Compare the frozen Tamil Section 1 assembly and the committed T1 English draft sentence by sentence and clause by clause. Check omissions, additions, names, dates/numbers, quotations, negatives, comparisons, logical connectors, deliberate repetition, source-witness distinctions and all six source-page comments. Record every correction transparently and keep T3 blocked until T2 passes.
