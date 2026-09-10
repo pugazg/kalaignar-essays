@@ -14,7 +14,8 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - English article body files — **1/19**;
 - T1 close draft — **1/19**;
 - T2 bilingual fidelity — **1/19**;
-- T3 / T4 / T5 — **0/19** at each gate;
+- T3 Kalaignar voice — **1/19**;
+- T4 / T5 — **0/19** at each gate;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
@@ -28,7 +29,7 @@ The source supplies numeric sections only. No descriptive English section titles
 
 | # | Tamil authority | T0 | T1 | T2 | T3 | T4 | T5 | English status |
 |---:|---|---|---|---|---|---|---|---|
-| 1 | `articles/01-section-01.md` | **PASS** | **PASS** | **PASS** | — | — | — | **fidelity-reviewed** |
+| 1 | `articles/01-section-01.md` | **PASS** | **PASS** | **PASS** | **PASS** | — | — | **voice-reviewed** |
 | 2 | `articles/02-section-02.md` | **PASS** | — | — | — | — | — | not-started |
 | 3 | `articles/03-section-03.md` | **PASS** | — | — | — | — | — | not-started |
 | 4 | `articles/04-section-04.md` | **PASS** | — | — | — | — | — | not-started |
@@ -53,11 +54,13 @@ The source supplies numeric sections only. No descriptive English section titles
 - Tamil: `../../articles/01-section-01.md` — **`e5517b7cc344554d51af4092599059d481039c1e`**;
 - T1 English draft blob — **`d36aec208ea15b970795a7717dd770d2d27251d8`**;
 - post-T2 English blob — **`d185b201c1113d99400d31579e773ae167cbb8a0`**;
+- post-T3 English blob — **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**;
 - source span: scans **7–12 / printed pp.5–10**;
 - T2 corrections — **6**;
+- T3 corrections — **4**;
 - source-page comments — **6/6 retained**;
-- English publication-title draft: **Let Us Develop the Art of Speaking** — provisional until T3;
-- T3–T5 — **pending**.
+- English publication title: **Let Us Develop the Art of Speaking** — **T3 voice-approved / T4 pending**;
+- T4 / T5 — **pending**.
 
 ## File convention
 
@@ -69,4 +72,4 @@ Exact source `உடன்பிறப்பே` → **`Udanpirappē`**; as dire
 
 ## Exact next activity
 
-**E1 — Section 1 / T3 Kalaignar voice review.** Re-read frozen Tamil blob `e5517b7cc344554d51af4092599059d481039c1e` and post-T2 English blob `d185b201c1113d99400d31579e773ae167cbb8a0` side by side. Check directness, cadence, rhetorical questions, repeated structures, exclamations, imagery, polemical force and accidental smoothing. Reassess the provisional publication title and Section 1 lexical choices for voice. Record every T3 correction transparently. Do not start T4 until T3 passes.
+**E1 — Section 1 / T4 terminology / quotation / citation audit.** Re-read frozen Tamil blob `e5517b7cc344554d51af4092599059d481039c1e` and voice-reviewed English blob `bede85599ff634ef8ce7d6bd85aa6b9a9e035289`. Audit the living lexicon, proper names, musical terms, Bharathidasan and Valluvar quotations, chapter label, `1970`, Hyde Park / `(HydePark)`, V. K. Krishna Menon, U.N. Assembly, and all six source-page comments. Record every T4 correction transparently. Do not start T5 until T4 passes.
