@@ -47,4 +47,12 @@ If later evidence shows the units correspond to separately published `முத�
 
 **COMPLETE / PASS.** Starts **19/19**, ends **19/19**, unresolved structural blockers **0**.
 
-Exact next activity: **P2 scans 1–10 page-level transcription and direct verification; do not build assemblies yet.**
+## P2 overlay
+
+- scans **1–20** now have canonical page records and are directly **VERIFIED**;
+- P2 cumulative state: **20 / 82 VERIFIED**;
+- section 1→2 transition on scan **12** and section 2→3 transition on scan **16** are preserved inside the shared page records;
+- assemblies created: **0**;
+- unresolved P2/source/structure blockers: **0**.
+
+Exact next activity: **P2 scans 21–30 page-level transcription and direct verification; preserve the section 3→4 transition on scan 22 and section 4→5 transition on scan 27; do not build assemblies yet.**
