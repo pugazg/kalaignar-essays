@@ -19,7 +19,7 @@ status: "VERIFIED"
 
 விலை ரூ.12.00
 
-□ "Pesum Kalai Valarppom" □ By : Kalaignar M. Karunanidhi
+□ "Pesum Kalai Valarppom" □ By : Kalaingnar M. Karunanidhi
 
 □ First Edition : July 1981, Eighth Edition : Sep. 1996
 
