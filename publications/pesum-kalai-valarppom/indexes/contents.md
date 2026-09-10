@@ -58,6 +58,22 @@ The supplied **82-scan eighth-edition witness contains no printed contents page*
 
 See [`../P3_ASSEMBLY_AUDIT.md`](../P3_ASSEMBLY_AUDIT.md).
 
+## P4 overlay — COMPLETE / PASS
+
+The complete source/page/assembly structure was reconciled after P3.
+
+- canonical physical-scan records: **82 / 82**, no missing or duplicate scan numbers;
+- numbered-section assemblies: **19 / 19 source-complete**;
+- this section map vs `page-map.md` / P3 audit / assembly front matter: **MATCH**;
+- shared-transition duplication / omission defects: **0**;
+- source-numbered start/end drift: **0**;
+- suppressed/inferred folio regressions: **0**;
+- scan 13 and scan 74 correction-propagation defects: **0**;
+- P4 structural/source corrections: **0**;
+- unresolved P4 blockers: **0**.
+
+Dedicated reconciliation: [`../P4_SOURCE_COMPLETENESS_REVIEW.md`](../P4_SOURCE_COMPLETENESS_REVIEW.md).
+
 ## Exact next activity
 
-**P4 — source audit / completeness review across source metadata, page records, assemblies, structural indexes and correction provenance.**
+**P5 — direct strict visual word/punctuation fidelity pass across all 82 physical scans.** Re-inspect the controlling source scan-by-scan, record every old reading → source-visible correction, and propagate any correction to page records, assemblies and dependent trackers before Tamil freeze.
