@@ -49,37 +49,38 @@ Printed publication text and physical-copy marks remain separate.
 
 ## P2 progress
 
-Batches **1–6 are COMPLETE / PASS**.
+Batches **1–7 are COMPLETE / PASS**.
 
-- canonical page records / direct verification: **60 / 82 VERIFIED**;
-- contiguous verified range: scans **1–60**;
-- printed-page coverage: through **p.58**;
+- canonical page records / direct verification: **70 / 82 VERIFIED**;
+- contiguous verified range: scans **1–70**;
+- printed-page coverage: through **p.68**;
 - unresolved printed-text/source readings: **0**;
 - section/article assemblies: **0**;
 - silent normalization: **0**;
 - documented page-record source corrections: **1 total** — scan 13 draft `வீட்டான்` → source-visible `வீடுதான்`.
 
-Batch 6 structural facts:
+Batch 7 structural facts:
 
-- scan 51 / p.49 preserves section **11→12** mid-page;
-- scan 55 / p.53 preserves section **12→13** mid-page;
-- scan 58 / p.56 closes section 13 at page end;
-- scan 59 opens section 14 at page top; inferred p.57 folio is **suppressed / inferred**, not visible;
-- scan 60 / p.58 remains section 14;
-- scan 60 `அரசியல் கட்சி மேடையில்` → scan 61 `அதற்குப் பதில் அளிக்கும்போது` directly checked; scan 61 not counted yet.
+- scans 61–63 remain section 14; scan 63 closes section 14 at page end;
+- scan **64 / inferred p.62** opens section 15 at page top; its folio is **suppressed / inferred**, not visible;
+- scans 65–66 remain section 15;
+- scan **67 / p.65** preserves section **15→16** mid-page;
+- scans 68–69 remain section 16;
+- scan **70 / p.68** preserves section **16→17** mid-page;
+- scan 70 final sentence closes on-page; scan 71 begins a new sentence and was inspected only as a boundary witness, so scan 71 is not yet counted.
 
-Source-sensitive batch-6 forms retained directly include scan 51 `போர்களம்`, `அரங்கின்றி வட்டாடுவதுபோல` and printed `பே—4` kept separate from prose; scan 52 `அவைக்கணம்`, `ஒளவைக்குக்`; scan 53 `ஒலிபெருக்கியாளர்கள்`, `வீணுக் குழைத்தோமடா`; scan 54 `கட்டுபடியான`, `குக்கிராமத்துப் பொதுக்கூட்டம்`; scan 55 `கிரேக்கத்து`, `ஆபிரகாம் லிங்கன்`, `விபரங்களையும்`; scan 56 `மாங்கொல்லையிலோ`, `புரசை வெள்ளாளர்`, `நியாயந்தானே!`; scan 57 `எழுவயது`, `சுற்றடைப்புக்குள்`; scan 58 `மது பார்மிட்`, `உத்திரவிட்டேன்`, distinct `‘போன்’` / `“போன்”`; scan 59 `களித்திருமளவுக்கு`; scan 60 `சொற்பெருக்காற்றக்`, `தாற்குறையாகத்`, `தாற்குறையாக — ஆபாசமாக — அருவருக்கத்தக்க`.
+Source-sensitive batch-7 forms retained directly include scan 61 `கடுஞ்சொற் களஞ்சியமாகவும்—ஆபாசக் குட்டையாகவும்`, scan 62 `“வசவு”` and exact spacing `நடைமுறைகள் — கொள்கை மாறுபாடுகள்—இவை`, scan 63 `திருவாரூர் ஓடம் போக்கி`, scan 64 unusual sequence `வழியனுப்பி வைக்கப்பட்ட அழைத்துச் செல்லப்படுவார்`, scan 65 `விளம்பரச் சுவரொட்டியடித்து`, scan 66 `செயலாளர் — தங்கக் கம்பி!`, scan 67 `நாட்டி யிருக்கிறார்கள்`, `கண்ணியூர் பரூக்`, `ஆஸ்திரேலியாவுக்கு` with printed `பே—5` kept separate from prose, scan 68 attributions including `மாண்டஸ்கியு`, `மெக்காலே`, `டிஸ்ரேலி`, scan 69 source attribution `ருசியப் பொன்மொழி`, and scan 70 `அல்பேனியப் பொன்மொழி`, the two-line `சொல்லுக சொல்லைப்...` quotation, `“நாநலம் என்னும் நலனுடைமை”`, `தொண்ணூற்றி ஐந்து`.
 
 ## Gate status
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
 - scans / printed pages / sections mapped — **82/82 / 80/80 / 19/19**;
-- P2 — **IN PROGRESS / 60 of 82 VERIFIED**;
+- P2 — **IN PROGRESS / 70 of 82 VERIFIED**;
 - P3/P4/P5 — **NOT STARTED**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**;
 - unresolved P2/source/structure blockers — **0**.
 
 ## Exact next activity
 
-**P2 batch 7 — scans 61–70 / printed pp.59–68.** Scans 61–63 remain section 14 and section 14 closes at scan 63 page end. Scan **64 / inferred p.62** opens section 15 at page top and has a suppressed/inferred folio. Preserve scan **67 `15→16`** and scan **70 `16→17`** mid-page transitions. Check scan 70→71 where needed. Do not build assemblies during P2.
+**P2 batch 8 — scans 71–80 / printed pp.69–78.** Scans **71–74** remain section 17, with section 17 ending at scan **74** page end. Scan **75 / inferred p.73** opens section 18 at page top and has a suppressed/inferred folio. Scans **76–78** remain section 18. Preserve scan **79 `18→19`** mid-page transition; scan **80** remains section 19. Check scan **80→81** where needed. Do not build assemblies during P2.
