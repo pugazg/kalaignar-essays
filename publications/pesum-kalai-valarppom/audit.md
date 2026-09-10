@@ -6,7 +6,7 @@
 |---|---|---|
 | P0 source intake / publication identification | **PASS** | source identity + edition + 82-scan structure established |
 | P1 metadata + page map + section mapping | **PASS** | **82/82** scans mapped; pp.1–80; sections **19/19** |
-| P2 page-level transcription | **IN PROGRESS** | **10/82 VERIFIED**; batch 1 scans 1–10 PASS |
+| P2 page-level transcription | **IN PROGRESS** | **20/82 VERIFIED**; batches 1–2 / scans 1–20 PASS |
 | P3 assemblies | **NOT STARTED** | — |
 | P4 source/completeness audit | **NOT STARTED** | — |
 | P5 strict visual fidelity | **NOT STARTED** | — |
@@ -78,7 +78,43 @@ Direct cross-page checks completed:
 - scan 9 `சிந்தித்` → scan 10 `துப் பார்த்து`;
 - scan 10 `கொண்` → scan 11 `டிருப்பார்.`.
 
-Scan 11 was inspected only to close the scan-10 boundary; it is not counted as a P2 page record yet.
+## P2 batch 2 — scans 11–20
+
+**COMPLETE / PASS.**
+
+- new canonical page records: **10**;
+- cumulative canonical records / direct verification: **20 / 82**;
+- contiguous verified range: scans **1–20**;
+- batch printed coverage: pp.**9–18**;
+- cumulative printed coverage: through **p.18**;
+- section 1→2 mid-page transition: **scan 12 — VERIFIED / PRESERVED**;
+- section 2→3 mid-page transition: **scan 16 — VERIFIED / PRESERVED**;
+- unresolved printed-text readings: **0**;
+- unresolved physical-copy/source distinction issues: **0**;
+- section assemblies created: **0**;
+- batch blockers: **0**.
+
+Direct continuation checks completed:
+
+- scan 10 `கொண்` → scan 11 `டிருப்பார்.`;
+- scan 13 `உயர்நிலைப்பள்ளியில்` → scan 14 `நடைபெற்ற`;
+- scan 14 `வீட்டில்` → scan 15 `உள்ள`;
+- scan 15 `ஒலிபெருக்கியின்` → scan 16 `முன்னால்`;
+- scan 16 `சொற்களை` → scan 17 `அடிப்படையாகக்`;
+- scan 20 `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்`.
+
+Scan 21 was inspected only to close the scan-20 batch boundary; it is **not yet counted** as a P2 canonical record.
+
+Source-sensitive direct readings secured during batch 2:
+
+- scan 12 — `தீமை தரக்கூடிய வார்த்தைகளை`;
+- scan 14 — unusual source-visible `நாக் குழற`, preserved without modernization;
+- scan 16 — line-break continuation resolves source-visible `தமிழகத்துக் கலைத் திறனை`;
+- scan 19 — first quotation begins with a source-visible opening quote and has no closing quote on that paragraph; the second quotation's tight spacing is preserved; printed gathering/signature mark `பே—2` is recorded separately from prose.
+
+Correction provenance:
+
+- scan 13 page-record draft: `வீட்டான்` → source-visible **`வீடுதான்`** after enlarged direct reinspection. Final canonical record is VERIFIED.
 
 ## Source-witness distinctions that must not regress
 
@@ -95,11 +131,12 @@ Scan 11 was inspected only to close the scan-10 boundary; it is not counted as a
 - P0 source-text corrections: **0**;
 - P1 source-text corrections: **0** — P1 did not transcribe body text;
 - P2 silent normalization: **0**;
-- P2 page records: **10 / 82 VERIFIED**;
+- P2 page records: **20 / 82 VERIFIED**;
+- P2 documented page-record source correction in batch 2: **1** (`வீட்டான்` → `வீடுதான்`, scan 13);
 - P2 source-visible title-witness distinction documented: **1** (`பேசும் கலை...` cover vs `பேசும்கலை...` title page);
 - Tamil body transcription begun: **Yes**;
 - unresolved P2 readings: **0**.
 
 ## Exact next activity
 
-**P2 batch 2 — scans 11–20.** Create canonical page records for printed pp.9–18, directly transcribe and verify source-visible printed text, preserve source punctuation and cross-page fragments, respect the section 1→2 transition on scan 12 and section 2→3 transition on scan 16, and **do not build section assemblies during P2**.
+**P2 batch 3 — scans 21–30 / printed pp.19–28.** Create and directly verify ten canonical page records, preserve the section **3→4** transition on scan 22 and section **4→5** transition on scan 27, preserve source punctuation/paragraphing/cross-page fragments exactly, check scan 30 against scan 31 where needed for the batch boundary, and **do not build section assemblies during P2**.
