@@ -77,20 +77,19 @@ P5 correction provenance remains in `publications/pesum-kalai-valarppom/VISUAL_T
 
 ## English durable state
 
-E0/T0 remains complete and Section 1 T1 is now complete:
-
 - E0 workspace/planning — **COMPLETE / PASS**;
 - frozen-source T0 matrix — **19/19 PASS**;
 - exact Tamil assembly blob SHAs — **19/19 recorded**;
 - English body files — **1/19**;
 - T1 close draft — **1/19**;
-- T2 / T3 / T4 / T5 — **0/19** at each gate;
+- T2 bilingual fidelity — **1/19**;
+- T3 / T4 / T5 — **0/19** at each gate;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
 E0/T0 source baseline commit: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**. The exact 19-assembly SHA matrix is in `TRANSLATION_PLAN.md` and `translations/en/TRANSLATION_REVIEW.md`.
 
-### Section 1 — E1 / T1 COMPLETE
+### Section 1 — T1 / T2 COMPLETE
 
 Tamil authority:
 
@@ -99,50 +98,67 @@ Tamil authority:
 - frozen blob SHA **`e5517b7cc344554d51af4092599059d481039c1e`**;
 - T0 — **PASS**.
 
-English draft:
+English:
 
 - `publications/pesum-kalai-valarppom/translations/en/01-section-01.md`;
-- T1 blob SHA **`d36aec208ea15b970795a7717dd770d2d27251d8`**;
-- `translation_status` — **draft**;
-- source-page comments — **6/6 retained, scans 7–12**;
-- T2 / T3 / T4 / T5 — **pending**.
+- historical T1 blob — **`d36aec208ea15b970795a7717dd770d2d27251d8`**;
+- post-T2 blob — **`d185b201c1113d99400d31579e773ae167cbb8a0`**;
+- `translation_status` — **fidelity-reviewed**;
+- T1 — **PASS**;
+- T2 — **PASS after 6 corrections**;
+- source-page comments — **6/6 retained**;
+- T3 / T4 / T5 — **pending**.
 
-T1 established **11 source-derived provisional lexicon decisions**. Important draft decisions include:
+T2 final checks:
 
-- publication-title draft `பேசும் கலை வளர்ப்போம்` → **Let Us Develop the Art of Speaking** — provisional until T3;
+- omitted Tamil sentences / clauses — **0**;
+- added English factual claims — **0**;
+- names / referents / dates / numbers — **PASS**;
+- Bharathidasan quotation — **PASS**;
+- Valluvar quotation + Kalaignar explanation — **PASS / source-based; no published English translation imported**;
+- negatives / comparisons / logical connectors — **PASS**;
+- deliberate repetitions / questions / exclamations — **PASS**;
+- Hyde Park / `(HydePark)`, V. K. Krishna Menon and U.N. Assembly wording — **PASS**;
+- frozen Tamil changes — **0**;
+- unresolved T2 issues — **0**.
+
+The six T2 corrections are recorded as old English → corrected English with Tamil basis in `translations/en/TRANSLATION_REVIEW.md`. No T1 terminology decision changed at T2, so `LEXICON.md` remains unchanged.
+
+Important retained translation decisions:
+
+- publication-title draft `பேசும் கலை வளர்ப்போம்` → **Let Us Develop the Art of Speaking** — still provisional until T3;
 - `பேச்சுக்கலை` → **the art of speaking** as the default serial rendering;
 - `வீணை / யாழ் / நாதசுரம்` → `veena / yaazh / nadaswaram`;
 - `இராக / தாள / பாவம்` → `raga / tala / bhava`;
 - `கன்னல் தமிழ்` → `sugarcane-sweet Tamil` in the quoted line;
 - `சொற்களை ஆள்வது` → `to command words`;
-- Valluvar quotation translated afresh from the frozen Tamil source; no published English translation imported.
-
-Permanent translation rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**, only where the exact Tamil form occurs.
+- exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**, only where the exact Tamil form occurs.
 
 The source supplies numbered sections only. Do **not** invent descriptive English section titles.
 
-T1 completion is **not** article verification. Do not mark Section 1 `fidelity-reviewed`, `voice-reviewed` or `verified` until the corresponding independent gates pass.
+T2 completion is **not** voice review or article verification. Do not mark Section 1 `voice-reviewed` or `verified` until the corresponding independent gates pass.
 
-## Exact next activity — E1 / Section 1 T2 bilingual fidelity review
+## Exact next activity — E1 / Section 1 T3 Kalaignar voice review
 
 Re-fetch and compare:
 
 - frozen Tamil `articles/01-section-01.md` blob **`e5517b7cc344554d51af4092599059d481039c1e`**;
-- English T1 `translations/en/01-section-01.md` blob **`d36aec208ea15b970795a7717dd770d2d27251d8`**.
+- post-T2 English `translations/en/01-section-01.md` blob **`d185b201c1113d99400d31579e773ae167cbb8a0`**.
 
-Perform a fresh sentence-by-sentence and clause-by-clause bilingual review for:
+Perform a fresh voice-focused review for:
 
-1. omitted or added sentences/clauses;
-2. names and referents;
-3. `1970`, numbers and source labels;
-4. both quoted passages and attribution;
-5. negatives, comparisons and logical connectors;
-6. deliberate repetitions, questions, exclamations and argumentative turns;
-7. Hyde Park / `(HydePark)`, V. K. Krishna Menon and U.N. Assembly wording;
-8. all six source-page boundary comments;
-9. any T1 lexicon choice that materially changes meaning.
+1. directness and conversational address;
+2. cadence and short emphatic sentences;
+3. rhetorical questions and exclamations;
+4. deliberate repetition and parallel structures;
+5. imagery and physical metaphors;
+6. polemical force and any accidental softening;
+7. academic or explanatory distancing not present in Tamil;
+8. the Hyde Park anecdote's spoken/storytelling flow;
+9. the closing humorous contrast between stage speech and learning to speak at home;
+10. the provisional publication title and Section 1 lexicon choices where voice, rather than raw meaning, is at issue.
 
-Record every T2 correction transparently in `TRANSLATION_REVIEW.md`, update the draft and tracker as needed, and only after the review passes mark Section 1 `fidelity-reviewed`. **Do not start T3 in the same activity unless separately proceeding after T2 closure.** Do not modify frozen Tamil.
+Record every T3 correction transparently in `translations/en/TRANSLATION_REVIEW.md`. If T3 passes, set `translation_status: "voice-reviewed"`, record the post-T3 English blob, update trackers, and move the exact next activity to **Section 1 T4 terminology / quotation / citation audit**. **Do not start T4 in the same activity unless separately proceeding after T3 closure.** Do not modify frozen Tamil.
 
 ---
 
