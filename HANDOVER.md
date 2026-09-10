@@ -40,9 +40,10 @@ Read `ESSAY_TRANSLATION_GUIDE.md` before English work. English remains blocked u
 
 ## Source identity
 
-- source title: **`பேசும் கலை வளர்ப்போம்`**;
+- workspace/publication label and scan-1 cover form: **`பேசும் கலை வளர்ப்போம்`**;
+- scan-3 title-page form: **`பேசும்கலை வளர்ப்போம்`**;
 - title-page author/status: **`மாண்புமிகு டாக்டர் கலைஞர் மு.கருணாநிதி / தமிழக முதல்-அமைச்சர்`**;
-- English imprint: **`By: Kalaignar M. Karunanidhi`**;
+- English imprint: **`By : Kalaignar M. Karunanidhi`**;
 - publisher: **பாரதி பதிப்பகம்**, 108 Usman Road, T.Nagar, Madras-600017;
 - physical scans: **82**;
 - image-only;
@@ -54,6 +55,8 @@ Read `ESSAY_TRANSLATION_GUIDE.md` before English work. English remains blocked u
 - source PDF committed: **No**.
 
 The supplied scan is controlling authority. Never silently modernise, correct, normalise or reconstruct Tamil. Separate printed text from handwriting, library stamps and other physical-copy marks.
+
+The source-visible title forms differ between cover and title page. Preserve each witness exactly; do not flatten `பேசும் கலை...` and `பேசும்கலை...` into one canonical source reading.
 
 ## Publication form / user context
 
@@ -85,30 +88,50 @@ Canonical structural authority:
 
 ## Front matter / source distinctions
 
-- scan 1 — colour front cover;
+- scan 1 — colour front cover; source-visible title `பேசும் கலை வளர்ப்போம்`;
 - scan 2 — substantially blank / physical-copy mark;
-- scan 3 / inferred p.1 — title page, later handwriting + large library stamp;
+- scan 3 / inferred p.1 — title page; source-visible title `பேசும்கலை வளர்ப்போம்`; later handwriting + large library stamp;
 - scan 4 / inferred p.2 — edition/imprint, partial library stamp;
 - scan 5 / inferred p.3 — full-page handwritten physical-copy note, **not printed publication text**;
-- scan 6 / inferred p.4 — printed `பதிப்புரை`, dated `15-7-81`;
+- scan 6 / inferred p.4 — printed `பதிப்புரை`, source-visible date `15—7—81`;
 - scan 7 / inferred p.5 — section 1 starts;
 - scan 82 / visible p.80 — section 19 continues and source ends.
 
 Do not normalise the 1981 publisher-note date to the 1996 edition year. Do not invent descriptive names for sections 1–19.
 
+## P2 batch 1 — COMPLETE / PASS
+
+Scans **1–10** were directly inspected, transcribed where printed text exists, and verified as canonical page records.
+
+- P2 page records: **10 / 82 VERIFIED**;
+- contiguous verified range: scans **1–10**;
+- printed-page coverage: through **p.8**;
+- unresolved printed-text readings: **0**;
+- unresolved source/physical-copy distinctions: **0**;
+- assemblies created: **0**;
+- batch blockers: **0**.
+
+Direct cross-page checks:
+
+- scan 7 `கவிஞரின்` → scan 8 `கவிதைச்`;
+- scan 8 `பிரச்` → scan 9 `சினைகளைப்`;
+- scan 9 `சிந்தித்` → scan 10 `துப் பார்த்து`;
+- scan 10 `கொண்` → scan 11 `டிருப்பார்.`.
+
+Scan 11 was inspected only to verify the scan-10 boundary and is **not yet counted** as a P2 canonical record.
+
 ## Tamil archival gate status
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
-- P2 page-level transcription — **NOT STARTED / 0 of 82**;
+- P2 page-level transcription — **IN PROGRESS / 10 of 82 VERIFIED**;
 - P3 assemblies — **NOT STARTED**;
 - P4 source/completeness audit — **NOT STARTED**;
 - P5 strict visual word/punctuation fidelity — **NOT STARTED**;
-- direct P2 page verification — **0 / 82**;
-- unresolved source/structural blockers — **0**;
+- unresolved source/structural/P2 blockers — **0**;
 - Tamil archival phase — **ACTIVE**.
 
-P1 source-text corrections: **0**; P1 was mapping only and did not begin body transcription.
+Silent normalization in P2: **0**.
 
 ## English translation status
 
@@ -120,19 +143,20 @@ Permanent repository rule: exact source `உடன்பிறப்பே` → 
 
 ## Exact next activity
 
-**P2 batch 1 — scans 1–10 page-level transcription and direct verification.**
+**P2 batch 2 — scans 11–20 page-level transcription and direct verification.**
 
 In one coherent batch:
 
-1. inspect scans **1–10** directly;
+1. inspect scans **11–20** directly;
 2. create canonical page records for all ten scans;
-3. use the P1 printed-folio map exactly;
-4. transcribe only source-visible printed material;
-5. keep handwriting, stamps and physical-copy marks in a separate section;
-6. preserve punctuation, wording, paragraphing and non-text printed marks;
-7. mark each record `verified` only after direct visual comparison;
-8. do not create section/article assemblies yet;
-9. synchronize publication trackers, root handover and next prompt after the batch.
+3. use the P1 printed-folio map exactly: scans 11–20 = printed pp.9–18;
+4. preserve the section **1→2** mid-page transition on scan 12 and **2→3** transition on scan 16;
+5. transcribe only source-visible printed material;
+6. preserve punctuation, wording, paragraphing and cross-page fragments exactly;
+7. keep any handwriting, stamps or physical-copy marks separate from print;
+8. mark each record `VERIFIED` only after direct visual comparison;
+9. do not create section/article assemblies yet;
+10. synchronize publication trackers, root handover and next prompt after the ten-page batch.
 
 ---
 
