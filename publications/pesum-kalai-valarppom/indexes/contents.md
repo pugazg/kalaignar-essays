@@ -39,19 +39,18 @@ The section numerals are source evidence. Labels such as “Section 12” are re
 
 ## P2 overlay
 
-Batches **1–6 / scans 1–60 — COMPLETE / PASS**.
+Batches **1–7 / scans 1–70 — COMPLETE / PASS**.
 
-- canonical page records / direct verification: **60 / 82**;
-- contiguous verified range: scans **1–60**;
-- printed coverage: through **p.58**;
-- scan **51** preserves section `11→12` mid-page;
-- scan **55** preserves section `12→13` mid-page;
-- scan **58** directly closes section 13 at page end;
-- scan **59** directly opens source-visible section `14` at page top; its p.57 folio is **suppressed / inferred**, not visibly printed;
-- scan 60 remains section 14;
-- scan 60 `அரசியல் கட்சி மேடையில்` → scan 61 `அதற்குப் பதில் அளிக்கும்போது` directly checked; scan 61 not yet counted;
+- canonical page records / direct verification: **70 / 82**;
+- contiguous verified range: scans **1–70**;
+- printed coverage: through **p.68**;
+- scan **63** directly closes section 14 at page end;
+- scan **64** directly opens source-visible section `15` at page top; p.62 folio **suppressed / inferred**;
+- scan **67** preserves section `15→16` mid-page;
+- scan **70** preserves section `16→17` mid-page;
+- scan 70 finishes its page with section 17; scan 71 begins a new sentence and was checked only for the boundary, not counted;
 - assemblies / unresolved P2-source-structure blockers: **0 / 0**.
 
 ## Exact next activity
 
-**P2 scans 61–70 / pp.59–68.** Scans 61–63 remain section 14 and close it at scan 63 page end. Scan **64 / inferred p.62** opens section 15 at page top; preserve its folio as suppressed/inferred. Preserve scan **67 `15→16`** and scan **70 `16→17`** mid-page transitions; check scan 70→71 where needed. Do not build assemblies yet.
+**P2 scans 71–80 / pp.69–78.** Scans **71–74** remain section 17 and close it at scan 74 page end. Scan **75 / inferred p.73** opens section 18 at page top with a suppressed/inferred folio. Scans **76–78** remain section 18. Preserve scan **79 `18→19`** mid-page transition; scan **80** remains section 19. Check scan **80→81** where needed. Do not build assemblies yet.
