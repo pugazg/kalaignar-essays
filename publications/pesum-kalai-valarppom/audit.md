@@ -9,7 +9,7 @@
 | P2 page-level transcription | **COMPLETE / PASS** | **82/82 VERIFIED**; scans 1–82 contiguous |
 | P3 assemblies | **COMPLETE / PASS** | **19/19 source-numbered assemblies**; main work scans 7–82 / pp.5–80 represented |
 | P4 source/completeness audit | **COMPLETE / PASS** | **82/82 page records + 19/19 assemblies reconciled; discrepancies 0** |
-| P5 strict visual fidelity | **IN PROGRESS — 10/82** | scans **1–10 PASS**; **2 corrections / 2 propagated / 0 unresolved in reviewed range** |
+| P5 strict visual fidelity | **IN PROGRESS — 20/82** | scans **1–20 PASS**; **5 corrections / 5 propagated / 0 unresolved in reviewed range** |
 | English E0–E7 | **NOT STARTED** | blocked until Tamil freeze |
 
 ## Source / P1 durable facts
@@ -93,25 +93,29 @@ Dedicated record: [`P4_SOURCE_COMPLETENESS_REVIEW.md`](P4_SOURCE_COMPLETENESS_RE
 
 P4 is a reconciliation/completeness gate and does **not** substitute for the separate P5 direct strict visual word/punctuation pass.
 
-## P5 — IN PROGRESS — 10 / 82
+## P5 — IN PROGRESS — 20 / 82
 
-First strict-review batch **P5-001-010** directly re-inspected scans **1–10** against the controlling source pixels.
+Strict-review batches **P5-001-010** and **P5-011-020** directly re-inspected scans **1–20** against the controlling source pixels.
 
-- strict-reviewed range: **scans 1–10**;
-- printed coverage within reviewed range: outside pagination + pp.**1–8**;
-- batch result: **PASS**;
-- P5 corrections found: **2**;
-- corrections propagated: **2 / 2**;
+- strict-reviewed range: **scans 1–20**;
+- printed coverage within reviewed range: outside pagination + pp.**1–18**;
+- batch results: **PASS / PASS**;
+- P5 corrections found: **5**;
+- corrections propagated: **5 / 5**;
 - unresolved fidelity discrepancies in reviewed range: **0**;
 - suppressed/inferred folios rechecked in reviewed range: **3,4,5,6,7 — PASS**;
-- scan 5 remains later handwriting only with printed publication text **0**.
+- scan 5 remains later handwriting only with printed publication text **0**;
+- source-visible transitions scan **12 (1→2)** and scan **16 (2→3)** rechecked / **PASS**.
 
 P5 corrections:
 
 1. scan 4 / inferred p.2 — `By : Kalaignar M. Karunanidhi` → source-visible **`By : Kalaingnar M. Karunanidhi`**; corrected in `pages/0004-imprint.md`; no numbered-section assembly affected.
 2. scan 7 / inferred p.5 — opening quote `‘வெண்ணிலாவும்` → source-visible **`“வெண்ணிலாவும்`**; corrected in `pages/0007-section-01-1.md` and propagated to `articles/01-section-01.md`.
+3. scan 19 / p.17 — `அப்படியிருக்குமேயானால்` → source-visible **`அப்படி இருக்குமேயானால்`**; corrected in `pages/0019-section-03-4.md` and propagated to `articles/03-section-03.md`.
+4. scan 19 / p.17 — `எப்படிப் பாலையும்` → source-visible **`எப்படி பாலையும்`**; corrected in page record and section 3 assembly.
+5. scan 19 / p.17 — `வைத்தால்,எப்படிக் எறும்பானது` → source-visible **`வைத்தால்,எப்படி எறும்பானது`**; corrected in page record and section 3 assembly. The later source-visible `வைத்தால்,எப்படிக் காந்தமானது` remains unchanged.
 
-Boundary checks retained: scan 7 `கவிஞரின்` → scan 8 `கவிதைச்`; scan 8 `பிரச்` → scan 9 `சினைகளைப்`; scan 9 `சிந்தித்` → scan 10 `துப் பார்த்து`; scan 10 `கொண்` → scan 11 `டிருப்பார்.` Scan 11 was used only as boundary evidence and is **not yet counted** as P5-reviewed.
+Boundary checks through the reviewed range include scan 10 `கொண்` → scan 11 `டிருப்பார்.`, scan 13 `உயர்நிலைப்பள்ளியில்` → scan 14 `நடைபெற்ற`, scan 14 `வீட்டில்` → scan 15 `உள்ள`, scan 15 `ஒலிபெருக்கியின்` → scan 16 `முன்னால்`, scan 16 `சொற்களை` → scan 17 `அடிப்படையாகக்`, and scan 20 `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்`. Scan 21 was used only as boundary evidence and is **not yet counted** as P5-reviewed.
 
 Detailed running P5 ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
@@ -122,9 +126,9 @@ Detailed running P5 ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDEL
 - P2 silent normalization: **0**;
 - P3 silent normalization: **0**;
 - P4 new corrections: **0**;
-- P5 corrections through scan 10: **2**, propagated **2 / 2**;
+- P5 corrections through scan 20: **5**, propagated **5 / 5**;
 - unresolved fidelity discrepancies in reviewed P5 range: **0**.
 
 ## Exact next activity
 
-**P5 scans 11–20 / printed pp.9–18.** Directly re-inspect each source scan word-by-word and punctuation-by-punctuation against its canonical page record, including scan 12 section `1→2` and scan 16 section `2→3` mid-page transitions. Record every old reading → source-visible correction and immediately propagate confirmed corrections into dependent assemblies and the running `VISUAL_TEXT_FIDELITY_REVIEW.md`. Do not begin English while P5 remains open.
+**P5 scans 21–30 / printed pp.19–28.** Directly re-inspect each source scan word-by-word and punctuation-by-punctuation against its canonical page record, including scan 22 section `3→4` and scan 27 section `4→5` mid-page transitions. Record every old reading → source-visible correction and immediately propagate confirmed corrections into dependent assemblies and the running `VISUAL_TEXT_FIDELITY_REVIEW.md`. Do not begin English while P5 remains open.
