@@ -15,11 +15,9 @@ Permanent policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_G
 - unresolved Tamil source/fidelity blockers — **0**;
 - frozen baseline commit used for E0/T0 — **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**.
 
-English work must never alter the frozen Tamil authority. If genuinely new source evidence later changes Tamil, every affected English gate must be reopened explicitly.
+English work must never alter the frozen Tamil authority.
 
 ## E0 / T0 source matrix
-
-All 19 strict-reviewed Tamil assemblies were enumerated from the frozen baseline and their exact Git blob SHAs recorded below. **T0 is PASS for all 19.**
 
 | # | Frozen Tamil assembly | Scans / printed pages | Frozen Tamil blob SHA | T0 |
 |---:|---|---|---|---|
@@ -43,48 +41,41 @@ All 19 strict-reviewed Tamil assemblies were enumerated from the frozen baseline
 | 18 | `articles/18-section-18.md` | 75–79 / 73–77 | `060e72d9ec61e491343c948c2db9371312b7e3a8` | **PASS** |
 | 19 | `articles/19-section-19.md` | 79–82 / 77–80 | `aa3eb2b5311f8ad1a705f606bd4ace3f2059ec6c` | **PASS** |
 
-These SHAs remain the Tamil source authority for every English gate.
-
 ## Translation gates per section
 
-1. **T0 — source prerequisite**
-2. **T1 — close draft**
-3. **T2 — bilingual fidelity review**
-4. **T3 — Kalaignar voice review**
-5. **T4 — terminology / quotation / citation audit**
-6. **T5 — article verification**
+T0 source prerequisite → T1 close draft → T2 bilingual fidelity → T3 Kalaignar voice → T4 terminology / quotation / citation → T5 article verification.
 
 ## Binding translation rules
 
 - exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**;
 - translate source text, not remembered or modernized wording;
-- preserve numbered section identity `1`–`19`;
-- preserve source-page boundary comments;
+- preserve numbered section identity `1`–`19` and source-page comments;
 - do not soften polemics or replace source-chosen labels with modern explanatory names;
 - do not import published English translations unless separately authorized.
 
 ## Section 1 calibration — COMPLETE
 
-Section 1 completed the full calibration sequence T0–T5:
+Section 1 T0–T5 is **COMPLETE / PASS**. Final verified English blob: **`76ea963ab2e14232bdbbf1a9afbe9f25ca97779a`**. T4-approved Section 1 lexical/proper-name/source-label decisions: **16**.
 
-- T1 — **PASS**;
-- T2 — **PASS after 6 corrections**;
-- T3 — **PASS after 4 corrections**;
-- T4 — **PASS with 0 body corrections**;
-- T5 — **PASS with 0 body corrections; status-only verification change**;
-- final verified English blob — **`76ea963ab2e14232bdbbf1a9afbe9f25ca97779a`**;
-- source-page comments — **6/6**;
-- T4-approved Section 1 lexicon/proper-name/source-label decisions — **16**;
-- unresolved Section 1 English issues — **0**.
+## Section 2 — T1 COMPLETE
 
-The publication-title rendering **Let Us Develop the Art of Speaking** is approved through T5 for the verified Section 1 article. Section 1 decisions guide later sections only where the same source function recurs.
+- Tamil authority — `articles/02-section-02.md`;
+- frozen Tamil blob — **`b10894b911393239e57446687c34030aff88a8e3`**;
+- source span — scans **12–16 / printed pp.10–14**;
+- English draft — `translations/en/02-section-02.md`;
+- T1 English blob — **`a45d357a089247b4de725b64126b0f0341e5e588`**;
+- status — **draft**;
+- source-page comments — **5/5**;
+- Section 2 T1 provisional lexicon decisions — **13**;
+- T2–T5 — **pending**;
+- unresolved T1 blockers — **0**.
 
 ## Current English state
 
-- E0 workspace/planning — **COMPLETE / PASS**;
+- E0 — **COMPLETE / PASS**;
 - T0 — **19/19 PASS**;
-- English body files — **1/19**;
-- T1 — **1/19**;
+- English body files — **2/19**;
+- T1 — **2/19**;
 - T2 — **1/19**;
 - T3 — **1/19**;
 - T4 — **1/19**;
@@ -95,4 +86,4 @@ The publication-title rendering **Let Us Develop the Art of Speaking** is approv
 
 ## Exact next activity
 
-**E1 — Section 2 / T1 close draft.** Re-fetch frozen Tamil `articles/02-section-02.md` and require blob **`b10894b911393239e57446687c34030aff88a8e3`**, scans **12–16 / printed pp.10–14**. Translate the complete numbered Section 2 paragraph by paragraph, preserving every source-page comment, quotation, rhetorical question, repetition, exclamation and argumentative turn. Apply the Section 1 lexicon only where the same Tamil function genuinely recurs. Do not start Section 2 T2 in the same activity.
+**E1 — Section 2 / T2 bilingual fidelity review.** Re-fetch frozen Tamil `articles/02-section-02.md` blob `b10894b911393239e57446687c34030aff88a8e3` and T1 English `translations/en/02-section-02.md` blob `a45d357a089247b4de725b64126b0f0341e5e588`. Compare every sentence/clause, name, amount, quotation, negative, logical connector, repetition, rhetorical/comic turn and all five page-boundary comments. Record every correction transparently. Do not start T3 in the same activity.
