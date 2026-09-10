@@ -14,7 +14,7 @@ Publications **1–10 are RELEASE COMPLETE / FROZEN**.
 
 Workspace: `publications/pesum-kalai-valarppom/`
 
-**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 IN PROGRESS — 70/82 VERIFIED.**
+**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 COMPLETE / PASS — 82/82 VERIFIED. P3 NEXT.**
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`, SHA-256 `73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`, **105,698,402 bytes**, **82 image-only scans**; source PDF committed — **No**.
 
@@ -26,26 +26,13 @@ Source identity / witness distinction:
 - source-numbered sections — **19**;
 - printed contents page — **none**.
 
-The two title forms are preserved independently.
+P1: **82/82** scans mapped; scans 1–2 outside pagination; scans 3–82 = pp.1–80; section starts/ends **19/19 / 19/19**; 12 shared mid-page transitions; suppressed/inferred folios on `3,4,5,6,7,42,45,48,59,64,75`; blockers **0**.
 
-P1 result: **82/82** scans mapped; scans 1–2 outside pagination; scans 3–82 = pp.1–80; starts/ends **19/19 / 19/19**; 12 shared mid-page transitions; suppressed/inferred folios on scans `3,4,5,6,7,42,45,48,59,64,75`; blockers **0**.
+P2: **82/82 canonical page records directly VERIFIED**, contiguous scans **1–82**, printed pp.**1–80 COMPLETE**, unresolved source/P2 blockers **0**, assemblies **0**, silent normalization **0**. Scan 74 closes section 17; scan 75 opens section 18 with suppressed/inferred p.73; scan 79 preserves `18→19`; scan 82 closes section 19 and the source.
 
-P2 through batch 7:
+Documented source corrections include scan 13 `வீட்டான்` → `வீடுதான்` and scan 74 draft `வாரியிலே` / `வாரிக்கு` → source-visible `வரியிலே` / `வரிக்கு`.
 
-- scans **1–70 — COMPLETE / VERIFIED**;
-- canonical records — **70/82 VERIFIED**;
-- printed coverage — through **p.68**;
-- scan **63** closes section 14 at page end;
-- scan **64 / inferred p.62** opens section 15 at page top with its folio suppressed/inferred;
-- scan **67** preserves section `15→16` mid-page;
-- scan **70** preserves section `16→17` mid-page;
-- scan 70 final sentence closes on-page; scan 71 was checked only as the next-page boundary and is not yet counted;
-- unresolved printed-text/source blockers — **0**;
-- assemblies — **0**.
-
-Batch-7 source-sensitive forms include `கடுஞ்சொற் களஞ்சியமாகவும்—ஆபாசக் குட்டையாகவும்`, `“வசவு”`, `திருவாரூர் ஓடம் போக்கி`, `வழியனுப்பி வைக்கப்பட்ட அழைத்துச் செல்லப்படுவார்`, `விளம்பரச் சுவரொட்டியடித்து`, `செயலாளர் — தங்கக் கம்பி!`, `நாட்டி யிருக்கிறார்கள்`, `கண்ணியூர் பரூக்`, separate printed `பே—5`, `ருசியப் பொன்மொழி`, `அல்பேனியப் பொன்மொழி`, the two-line `சொல்லுக சொல்லைப்...` quotation, `“நாநலம் என்னும் நலனுடைமை”`, and `தொண்ணூற்றி ஐந்து`. Silent normalization remains **0**.
-
-Exact next activity: **P2 scans 71–80 / pp.69–78.** Scans 71–74 remain section 17 and section 17 ends at scan 74. Scan **75 / inferred p.73** opens section 18 with suppressed/inferred folio. Scans 76–78 remain section 18. Preserve scan **79 `18→19`** mid-page transition; scan 80 remains section 19; check scan 80→81; do not build assemblies yet.
+Exact next activity: **P3 — assemble the Tamil reading copy from the 82 canonical page records.** English remains blocked until Tamil P0–P5 freeze.
 
 ### Publication 10 — மீசை முளைத்த வயதில் — FROZEN
 
