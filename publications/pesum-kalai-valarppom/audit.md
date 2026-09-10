@@ -14,9 +14,9 @@
 | English T0 | **COMPLETE / PASS — 19/19** | frozen Tamil SHAs recorded |
 | English T1 | **IN PROGRESS — 3/19** | Sections 1–3 complete |
 | English T2 | **IN PROGRESS — 3/19** | Sections 1–3 complete; Section 3 PASS after 5 corrections |
-| English T3 | **IN PROGRESS — 2/19** | Sections 1–2 complete |
-| English T4 | **IN PROGRESS — 2/19** | Sections 1–2 complete |
-| English T5 | **IN PROGRESS — 2/19** | Sections 1–2 verified |
+| English T3 | **IN PROGRESS — 3/19** | Sections 1–3 complete |
+| English T4 | **IN PROGRESS — 3/19** | Sections 1–3 complete |
+| English T5 | **IN PROGRESS — 3/19** | Sections 1–3 verified |
 
 ## Source authority
 
@@ -27,46 +27,23 @@
 - Section 1 final verified English blob — **`76ea963ab2e14232bdbbf1a9afbe9f25ca97779a`**; T0–T5 COMPLETE / PASS; T4-approved decisions **16**.
 - Section 2 frozen Tamil blob — **`b10894b911393239e57446687c34030aff88a8e3`**; final verified English blob — **`e963de42305f9e0cca601950c4ab5e3b1d6c2ea6`**; T2/T3 corrections **7/8**; T4/T5 body corrections **0/0**; T4-approved decisions **15**; T0–T5 COMPLETE / PASS.
 
-## Section 3 — T2 COMPLETE / fidelity-reviewed
+## Section 3 — VERIFIED
 
-Tamil authority:
-
-- `articles/03-section-03.md`;
-- frozen blob — **`21904dd457bb3455230de06421ff2d906ac4958d`**;
-- scans **16–22 / printed pp.14–20**.
-
-Gate results:
-
-- T1 — **PASS**; historical draft blob `377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`;
-- T2 — **PASS after 5 corrections**; post-T2 blob **`2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`**;
-- `translation_status` — **fidelity-reviewed**;
-- T3/T4/T5 — **pending**.
-
-T2 corrections:
-
-1. restored omitted `தோன்றி` in the early-human historical-order sequence;
-2. removed unsupported `here and there` from the dictionary/word-placement sentence;
-3. restored the fluster in `பரபரப்புடன்` rather than reducing it to speed;
-4. restored singular `கருத்து` as `thought` in the Karl Marx comparison;
-5. restored all four repetitions of `ஒரு சாதி` in the Brahma/caste passage.
-
-Final Section 3 T2 checks:
-
-- omitted Tamil clauses / added English claims — **0 / 0**;
-- iyal/music/koothu historical sequence — **PASS**;
-- source sound-signals `“ஏ” “ஓ” “ஈ”` — **PASS**;
-- dictionary/new-word discussion and speaker duties — **PASS**;
-- both old-style preamble quotations — **PASS**;
-- first preamble’s absent closing quotation mark — **preserved as source irregularity**;
-- Socrates / Karl Marx / Ingersoll / Thanthai Periyar quotation — **PASS**;
-- Brahma/caste repetition — **PASS**;
-- `மலிவு` / `cheap promise` anecdote — **PASS**;
-- source-page comments — **7/7 present and ordered**;
-- Section 3 working lexicon/source decisions — **17, unchanged at T2**;
-- frozen Tamil edits — **0**;
-- unresolved T2 issues — **0**.
-
-Detailed correction provenance is recorded in `translations/en/TRANSLATION_REVIEW.md`.
+- frozen Tamil blob — **`21904dd457bb3455230de06421ff2d906ac4958d`**;
+- T1 blob — `377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`;
+- post-T2 blob — `2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`;
+- post-T3 blob — `00581593374a42a7f132fd3434684a52038b19d4`;
+- post-T4 blob — `ac4f9e799b00952891fb8d5539449a6e8aaea9d5`;
+- final verified blob — **`3948fbf436875b39b3c9ca183c838f7b9139b742`**;
+- T2 — **PASS after 5 corrections**;
+- T3 — **PASS after 13 voice corrections**;
+- T4 — **PASS after 1 terminology correction**;
+- T5 — **PASS with 0 body corrections / status-only**;
+- source-page comments — **7/7**;
+- T4-approved decisions — **17**;
+- source-missing closing quotation mark — **preserved**;
+- unresolved issues — **0**;
+- frozen Tamil edits — **0**.
 
 ## English gate totals
 
@@ -75,10 +52,10 @@ Detailed correction provenance is recorded in `translations/en/TRANSLATION_REVIE
 | T0 | **19/19** |
 | T1 | **3/19** |
 | T2 | **3/19** |
-| T3 | **2/19** |
-| T4 | **2/19** |
-| T5 | **2/19** |
-| Verified English articles | **2/19** |
+| T3 | **3/19** |
+| T4 | **3/19** |
+| T5 | **3/19** |
+| Verified English articles | **3/19** |
 
 Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0**.
 
@@ -86,4 +63,4 @@ Permanent rule: exact source `உடன்பிறப்பே` → `Udanpirapp
 
 ## Exact next activity
 
-**E1 — Section 3 / T3 Kalaignar voice review.** Revalidate frozen Tamil blob **`21904dd457bb3455230de06421ff2d906ac4958d`** and post-T2 English blob **`2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`**. Review directness, emphatic turns, cadence, imagery, humour, quoted parallelism, repetition, `மலிவு` wordplay and the final rhetorical question while preserving T2 meaning and the source-missing quotation mark. Record every correction transparently. Do not start T4 in the same activity.
+**E1 — Section 4 / T1 close draft.** Revalidate frozen Tamil `articles/04-section-04.md` blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`**, scans **22–27 / printed pp.20–25**, translate the complete numbered Section 4, synchronize controls, and stop before T2.
