@@ -57,10 +57,24 @@ P2 is **COMPLETE / PASS — 82 / 82 VERIFIED**.
 - scan 79 preserves section `18→19` mid-page;
 - scan 82 closes section 19 and the source;
 - unresolved printed-text/source readings: **0**;
-- section/article assemblies: **0**;
 - silent normalization: **0**.
 
 Documented P2 source corrections: scan 13 draft `வீட்டான்` → source-visible `வீடுதான்`; scan 74 draft `வாரியிலே` / `வாரிக்கு` → source-visible `வரியிலே` / `வரிக்கு`.
+
+## P3 assembly layer
+
+P3 is **COMPLETE / PASS — 19 / 19 source-numbered assemblies**.
+
+- assembly directory: `articles/`;
+- files: `01-section-01.md` through `19-section-19.md`;
+- main-work scan coverage: **7–82**;
+- printed main-work coverage: **pp.5–80**;
+- numbered sections: **1–19 complete**;
+- shared transition scans are split at their source-visible section numerals;
+- unresolved assembly readings: **0**;
+- silent assembly normalization: **0**.
+
+See `P3_ASSEMBLY_AUDIT.md` for the complete span matrix and P3 decision.
 
 ## Gate status
 
@@ -68,10 +82,12 @@ Documented P2 source corrections: scan 13 draft `வீட்டான்` → s
 - P1 — **COMPLETE / PASS**;
 - scans / printed pages / sections mapped — **82/82 / 80/80 / 19/19**;
 - P2 — **COMPLETE / PASS — 82/82 VERIFIED**;
-- P3/P4/P5 — **NOT STARTED**;
+- P3 — **COMPLETE / PASS — 19/19 assemblies**;
+- P4 — **NOT STARTED / NEXT**;
+- P5 — **NOT STARTED**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**;
-- unresolved source/structure blockers — **0**.
+- unresolved source/structure/assembly blockers — **0**.
 
 ## Exact next activity
 
-**P3 — assemble the Tamil reading copy from canonical page records, preserving source-visible numbered sections 1–19 and all source wording/punctuation.**
+**P4 — source audit / completeness review across the source record, 82 page records, 19 assemblies, indexes and correction provenance.**
