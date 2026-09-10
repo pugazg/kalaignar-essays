@@ -2,7 +2,7 @@
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`  
 Physical scans: **82**  
-Current gate: **P3 COMPLETE / PASS — 19 / 19 assemblies**
+Current gate: **P4 COMPLETE / PASS — source/completeness reconciled**
 
 ## Canonical pagination rule
 
@@ -77,6 +77,23 @@ Canonical page records / direct verification: **82 / 82**.
 
 Detailed validation: [`../P3_ASSEMBLY_AUDIT.md`](../P3_ASSEMBLY_AUDIT.md).
 
+## P4 overlay — COMPLETE / PASS
+
+The source/completeness review rechecked this map against the live source metadata, all canonical page-record filenames, the contents index, P3 span audit and all 19 assembly identities.
+
+- physical-scan records: **82 / 82** — `0001–0082` contiguous;
+- missing / duplicate scan records: **0 / 0**;
+- pagination drift: **0**;
+- suppressed/inferred folio drift: **0**;
+- section-start / section-end drift: **0**;
+- assembly-span drift: **0**;
+- shared-transition duplication / omission defects: **0**;
+- front-matter classification drift: **0**;
+- P4 corrections required: **0**;
+- unresolved P4 blockers: **0**.
+
+Dedicated reconciliation: [`../P4_SOURCE_COMPLETENESS_REVIEW.md`](../P4_SOURCE_COMPLETENESS_REVIEW.md).
+
 ## Exact next activity
 
-**P4 — source audit / completeness review.** Reconcile this page/section map with the source record, 82 canonical page records, 19 assemblies, front-matter/source-witness distinctions and correction provenance before P4 can close.
+**P5 — strict visual word/punctuation fidelity.** Re-inspect every one of the 82 physical scans directly against its canonical record, log old reading → source-visible correction provenance, and propagate corrections into assemblies/indexes/trackers before Tamil freeze.
