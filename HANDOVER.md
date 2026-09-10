@@ -22,7 +22,7 @@ Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப
 
 ## Mandatory startup
 
-Before any further English work, fetch/read fresh:
+Before further English work, fetch/read fresh:
 
 1. `ESSAY_TRANSLATION_GUIDE.md`;
 2. `ESSAY_PROCESSING_GUIDE.md`;
@@ -34,7 +34,7 @@ Before any further English work, fetch/read fresh:
 8. `translations/en/README.md`;
 9. `translations/en/LEXICON.md`;
 10. `translations/en/TRANSLATION_REVIEW.md`;
-11. the exact frozen Tamil article and English article being worked on.
+11. the exact frozen Tamil article and target English article.
 
 ## Controlling source / Tamil closure
 
@@ -55,11 +55,11 @@ Structural authority: scans **3–82 = printed pp.1–80**; source-numbered sect
 - T0 — **19/19 PASS**;
 - English body files — **2/19**;
 - T1 — **2/19**;
-- T2 — **1/19**;
-- T3 — **1/19**;
-- T4 — **1/19**;
-- T5 — **1/19**;
-- verified English articles — **1/19**;
+- T2 — **2/19**;
+- T3 — **2/19**;
+- T4 — **2/19**;
+- T5 — **2/19**;
+- verified English articles — **2/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
@@ -71,68 +71,72 @@ E0/T0 baseline commit: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**.
 - source span — scans **7–12 / printed pp.5–10**;
 - final verified English blob — **`76ea963ab2e14232bdbbf1a9afbe9f25ca97779a`**;
 - T0–T5 — **COMPLETE / PASS**;
-- T4-approved lexical/proper-name/source-label decisions — **16**;
+- T4-approved decisions — **16**;
 - unresolved Section 1 issues — **0**.
 
 The publication title **Let Us Develop the Art of Speaking** is approved through Section 1 verification.
 
-### Section 2 — T1 COMPLETE / draft
+### Section 2 — VERIFIED / T0–T5 COMPLETE
 
 Tamil authority:
 
 - `publications/pesum-kalai-valarppom/articles/02-section-02.md`;
 - frozen blob — **`b10894b911393239e57446687c34030aff88a8e3`**;
-- scans **12–16 / printed pp.10–14**;
-- T0 — **PASS**.
+- scans **12–16 / printed pp.10–14**.
 
 English:
 
 - `publications/pesum-kalai-valarppom/translations/en/02-section-02.md`;
-- T1 blob — **`a45d357a089247b4de725b64126b0f0341e5e588`**;
-- `translation_status` — **draft**;
-- T1 — **PASS as a draft gate**;
+- T1 historical blob — `a45d357a089247b4de725b64126b0f0341e5e588`;
+- post-T2 blob — `f5bb2ebe0ab442369312384ae894c4689400d02b`;
+- post-T3 / post-T4 blob — `e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`;
+- final T5 verified blob — **`e963de42305f9e0cca601950c4ab5e3b1d6c2ea6`**;
+- `translation_status` — **verified**;
+- T2 — **PASS after 7 corrections**;
+- T3 — **PASS after 8 voice corrections**;
+- T4 — **PASS with 0 body corrections**;
+- T5 — **PASS with 0 body corrections / status-only change**;
 - source-page comments — **5/5 retained**;
-- Section 2 T1 provisional lexicon decisions — **13**;
-- T2/T3/T4/T5 — **pending**;
-- unresolved T1 blockers — **0**;
-- frozen Tamil edits — **0**.
+- T4-approved Section 2 decisions — **15**;
+- unresolved Section 2 English issues — **0**.
 
-Source-sensitive points that must not regress during review:
+Section 2 non-regression points:
 
-- `சிறுவர் சீர்திருத்த சங்கம்` → provisional **Children’s Reform Association**;
+- `சிறுவர் சீர்திருத்த சங்கம்` → **Children’s Reform Association**;
 - `நெஞ்சுக்கு நீதி` → **Nenjukku Neethi**;
-- `இசைமணி`, `அறிஞர் அண்ணா`, `மகா வித்துவான்`, `நடிகர் திலகம் சிவாஜி`, `தம்பி` retain source-bearing forms in the T1 draft;
-- historical amounts remain `quarter-anna` and `one paisa`, with no modern conversion;
-- source play name `கட்டபொம்மன்` is `Kattabomman`, while the anecdotal speaker’s source slip `பொம்மன் கட்டன்` is deliberately `Bomman Kattan` and must not be silently normalized;
-- all quoted speech remains source-based; no published/external wording imported.
+- historical `காலணா` / one paisa remain period currency with no conversion;
+- `இசைமணி`, `அறிஞர் அண்ணா`, `மகா வித்துவான்`, `நடிகர் திலகம் சிவாஜி`, `தம்பி` retain source-bearing treatment;
+- `பாட்டுக் கவிஞர்` → **song-poet**;
+- `பட அதிபர்` → **film magnate**, not unsupported `film producer`;
+- pot/ladle and mind-as-pot imagery remain intact;
+- speech/life verbal slip remains a slip;
+- source play name `கட்டபொம்மன்` → `Kattabomman`, while the quoted source slip `பொம்மன் கட்டன்` → `Bomman Kattan`; never normalize the latter;
+- all quoted speech remains source-based; no external/published English wording imported.
 
 Permanent translation rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**, only where the exact Tamil form occurs. The publication uses numeric section labels only; do not invent descriptive English section titles.
 
-## Exact next activity — E1 / Section 2 T2 bilingual fidelity review
+## Exact next activity — E1 / Section 3 T1 close draft
 
-Re-fetch and require:
+Before drafting Section 3:
 
-- frozen Tamil `articles/02-section-02.md` blob **`b10894b911393239e57446687c34030aff88a8e3`**;
-- T1 English `translations/en/02-section-02.md` blob **`a45d357a089247b4de725b64126b0f0341e5e588`**.
+- re-fetch frozen Tamil `publications/pesum-kalai-valarppom/articles/03-section-03.md`;
+- require exact blob **`21904dd457bb3455230de06421ff2d906ac4958d`**;
+- source span — scans **16–22 / printed pp.14–20**;
+- if the Tamil blob differs, stop for source-drift reconciliation;
+- if an English Section 3 file has legitimately appeared on newer live `main`, preserve the newer durable state rather than overwriting it.
 
-Perform an independent sentence-by-sentence / clause-by-clause bilingual review. Check:
+Then perform **Section 3 / T1 close draft**:
 
-1. no omitted Tamil sentence/clause and no added English claim;
-2. `15`, `seven or eight`, `quarter-anna`, `one paisa`, `four or five`, `two or three` and other quantities;
-3. all proper names, source epithets and relationships;
-4. `Children’s Reform Association`, `Nenjukku Neethi`, `Anjaneya temple`, `Self-Respect Movement` and other T1 provisional choices;
-5. pot/ladle proverb and mind-as-pot imagery;
-6. stage-fright / sweating / tongue-faltering imagery;
-7. school quotations `Friendship` and `God`;
-8. the speech/life verbal slip;
-9. Anna’s quoted `Thambi!` greeting;
-10. `Kattabomman` versus the source comic slip `Bomman Kattan`;
-11. all **5/5** page-boundary comments;
-12. negatives, repetitions, questions, exclamations and logical connectors.
+1. translate the complete numbered Section 3 paragraph by paragraph from the frozen Tamil assembly;
+2. preserve every source-page boundary comment;
+3. preserve rhetorical questions, repetition, exclamations, direct address, imagery, humour and abrupt turns;
+4. apply verified Section 1–2 lexicon decisions only where the same Tamil function genuinely recurs;
+5. do not import published English translations or external explanatory names;
+6. create/update `translations/en/03-section-03.md` with `translation_status: "draft"` and the exact frozen Tamil blob in front matter;
+7. record the T1 English blob and synchronize controls;
+8. stop after T1; **do not start Section 3 T2 in the same activity**.
 
-Record every T2 correction transparently in `translations/en/TRANSLATION_REVIEW.md`. Update `LEXICON.md` only where a T1 terminology choice changes. If T2 passes, set `translation_status: "fidelity-reviewed"`, record the post-T2 English blob, synchronize trackers/handover, and set the next activity to **Section 2 T3 Kalaignar voice review**.
-
-**Do not start T3 in the same activity. Do not modify frozen Tamil.**
+Do not modify frozen Tamil.
 
 ---
 
