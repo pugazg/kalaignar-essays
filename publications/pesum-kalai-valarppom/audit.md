@@ -7,8 +7,8 @@
 | P0 source intake / publication identification | **PASS** | source identity + edition + 82-scan structure established |
 | P1 metadata + page map + section mapping | **PASS** | **82/82** scans mapped; pp.1–80; sections **19/19** |
 | P2 page-level transcription | **COMPLETE / PASS** | **82/82 VERIFIED**; scans 1–82 contiguous |
-| P3 assemblies | **NOT STARTED** | next activity |
-| P4 source/completeness audit | **NOT STARTED** | — |
+| P3 assemblies | **COMPLETE / PASS** | **19/19 source-numbered assemblies**; main work scans 7–82 / pp.5–80 represented |
+| P4 source/completeness audit | **NOT STARTED / NEXT** | — |
 | P5 strict visual fidelity | **NOT STARTED** | — |
 | English E0–E7 | **NOT STARTED** | blocked until Tamil freeze |
 
@@ -28,7 +28,7 @@ Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப
 
 ## P2 — COMPLETE / PASS
 
-All **82 physical scans** now have canonical page records and were directly compared with source pixels.
+All **82 physical scans** have canonical page records and were directly compared with source pixels.
 
 - canonical records / direct verification: **82 / 82**;
 - contiguous verified range: scans **1–82**;
@@ -52,13 +52,33 @@ Direct continuation checks include scan 71 `கலந்து` → scan 72 `க
 
 Final source-sensitive readings retained include `ஷம்சுதீன்`, `நாலுகால்`, `ஒரே வரியிலே`, `ஒரு வரிக்கு மேல்`, `(Mannerism)`, `மேனரிசம்`, `தவிர்க்கவொண்ணாத`, `சொல்மாரிபொழிவது`, `கி. ஆ. பெ. விசுவநாதம்`, `காயிதே மில்லத்`, `தேனினுமினிய`, `நாற்பத்தி ஆறு`, `1962-ல்`, `நாஞ்சில் கி. மனோகரன்`, `“வாலிபப் பெரியார்”`, `எ.வி.பி. ஆசைத்தம்பி`, and `என். வி. நடராசனார்`.
 
+## P3 — COMPLETE / PASS
+
+The numbered-section Tamil reading layer is complete under `articles/`.
+
+- expected assemblies: **19**;
+- live assemblies: **19** — `01-section-01.md` through `19-section-19.md`;
+- missing / unexpected extra assemblies: **0 / 0**;
+- numbering: **01–19 contiguous**;
+- main-work coverage: scans **7–82 / pp.5–80**;
+- source-numbered section coverage: **1–19 COMPLETE**;
+- unexplained boundary gaps / overlaps: **0 / 0**;
+- intentional shared transition scans: **12** — `12,16,22,27,31,34,38,51,55,67,70,79`;
+- unresolved assembly body-text blocks: **0**;
+- assembly normalization: **0**.
+
+Shared transition scans are split only at the source-visible numbered-section boundary; their text is not duplicated between adjacent assemblies. Page-boundary provenance comments are retained, including the final scan-81→82 continuation inside section 19.
+
+Full P3 coverage and span validation: [`P3_ASSEMBLY_AUDIT.md`](P3_ASSEMBLY_AUDIT.md).
+
 ## Corrections / normalization ledger
 
 - documented P2 correction: scan 13 draft `வீட்டான்` → source-visible `வீடுதான்`;
 - final-batch direct re-read correction: scan 74 draft `வாரியிலே` / `வாரிக்கு` → source-visible **`வரியிலே` / `வரிக்கு`**;
 - P2 silent normalization: **0**;
-- unresolved P2 readings: **0**.
+- P3 silent normalization: **0**;
+- unresolved Tamil/source readings entering P4: **0**.
 
 ## Exact next activity
 
-**P3 — assemble the Tamil reading copy from the 82 canonical page records.** Preserve source wording and source-visible section numerals `1–19`; resolve page-boundary fragments only by faithful assembly, retain no invented descriptive section titles, and do not begin P4/P5 or English until P3 is complete and checked against the canonical page records.
+**P4 — source audit / completeness review.** Reconcile the source record, all **82 canonical page records**, all **19 assemblies**, the section/page maps, front-matter and witness distinctions, physical-copy evidence separation, and correction provenance. Record and propagate any source-supported discrepancy before closing P4. Do not start P5 or English in the same step unless separately authorized.
