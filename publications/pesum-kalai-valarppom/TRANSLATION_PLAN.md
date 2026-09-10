@@ -19,7 +19,7 @@ English work must never alter the frozen Tamil authority. If genuinely new sourc
 
 ## E0 / T0 source matrix
 
-All 19 strict-reviewed Tamil assemblies were enumerated directly from the frozen baseline and their exact Git blob SHAs recorded below. **T0 is PASS for all 19.**
+All 19 strict-reviewed Tamil assemblies were enumerated from the frozen baseline and their exact Git blob SHAs recorded below. **T0 is PASS for all 19.**
 
 | # | Frozen Tamil assembly | Scans / printed pages | Frozen Tamil blob SHA | T0 |
 |---:|---|---|---|---|
@@ -65,9 +65,9 @@ These SHAs remain the Tamil source authority for every English gate.
 
 ## Voice-calibration rule
 
-Section 1 is the first calibration unit. T1, T2 and T3 are now complete; T4 and T5 must still close before translation accelerates across later sections.
+Section 1 is the first calibration unit. T1, T2, T3 and T4 are complete; T5 must still close before translation accelerates across later sections.
 
-The publication-title rendering **Let Us Develop the Art of Speaking** passed T3 voice review. It remains subject to the independent T4 terminology audit before release verification.
+The publication-title rendering **Let Us Develop the Art of Speaking** is now **T4 approved**. Section 1 has **16 T4-approved lexicon/proper-name/source-label decisions**. These may guide later sections only where the same source function recurs.
 
 ## Current English state
 
@@ -77,15 +77,20 @@ The publication-title rendering **Let Us Develop the Art of Speaking** passed T3
 - T1 — **1/19**;
 - T2 — **1/19**;
 - T3 — **1/19**;
-- T4 / T5 — **0/19**;
+- T4 — **1/19**;
+- T5 — **0/19**;
 - Section 1 historical T1 blob — `d36aec208ea15b970795a7717dd770d2d27251d8`;
 - Section 1 post-T2 blob — `d185b201c1113d99400d31579e773ae167cbb8a0`;
-- Section 1 post-T3 blob — **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**;
+- Section 1 post-T3 / post-T4 blob — **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**;
 - T2 corrections — **6**;
 - T3 corrections — **4**;
+- T4 body corrections — **0**;
+- source-page comments — **6/6**;
 - unresolved English blockers — **0**;
 - frozen Tamil changes during English work — **0**.
 
+T4 verified both quotations and their attributions/explanations against the frozen Tamil witness, retained `(HydePark)` where the source supplies it, preserved `V. K. Krishna Menon`, and kept `U.N. Assembly` without unsupported external expansion.
+
 ## Exact next activity
 
-**E1 — Section 1 / T4 terminology / quotation / citation audit.** Compare frozen Tamil `articles/01-section-01.md` blob `e5517b7cc344554d51af4092599059d481039c1e` against voice-reviewed English blob `bede85599ff634ef8ce7d6bd85aa6b9a9e035289`. Audit all 11 Section 1 lexicon decisions, proper names, musical terms, Bharathidasan and Valluvar quotations, the `Power of Speech` chapter label, `1970`, Hyde Park / `(HydePark)`, V. K. Krishna Menon, U.N. Assembly, and all six page-boundary comments. Record every correction transparently; do not start T5 until T4 passes.
+**E1 — Section 1 / T5 article verification.** Reconfirm frozen Tamil `articles/01-section-01.md` blob `e5517b7cc344554d51af4092599059d481039c1e` and current English blob `bede85599ff634ef8ce7d6bd85aa6b9a9e035289`. Reconcile T0–T4 provenance, English metadata/status, source span, six page-boundary comments, T4-approved lexicon state and unresolved counts. If all remain consistent, set `translation_status: "verified"`, record the final verified English blob SHA, mark Section 1 T5 PASS, and close the Section 1 calibration sequence. Do not start Section 2 in the same activity.
