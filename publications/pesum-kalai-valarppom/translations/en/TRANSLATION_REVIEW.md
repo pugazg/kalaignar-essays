@@ -86,8 +86,7 @@ Final T2 checks: omitted Tamil clauses **0**; added claims **0**; quantities **P
 
 **COMPLETE / PASS after 8 voice corrections.**
 
-Post-T3 English blob: **`e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`**.  
-Translation status after T3: **`voice-reviewed`**.
+Post-T3 English blob: **`e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`**.
 
 #### T3 corrections
 
@@ -110,14 +109,9 @@ T3 final checks: directness **PASS**; rhetorical questions/exclamations **PASS**
 
 T4 input/output English blob is unchanged at **`e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`**.
 
-T4 checks:
-
 - original Section 2 T1 working decisions — **13/13 PASS** after T2/T3 refinements;
 - Section 2 T4-approved article-derived decisions — **15** after adding `பாட்டுக் கவிஞர்` → `song-poet` and `பட அதிபர்` → `film magnate`;
-- `Children’s Reform Association`, `quarter-anna`, `one paisa`, `Nenjukku Neethi`, `Anjaneya temple`, `Isaimani`, `Self-Respect Movement`, `Arignar Anna`, `purse`, `Maha Vidwan`, `Nadigar Thilagam Sivaji`, `Thambi` — **PASS**;
-- proper names/initials and place names — **PASS / no outside expansion**;
-- `Friendship` / `God` speech-topic quotations — **PASS / source-based**;
-- speech/life verbal slip — **PASS**;
+- historical currency, proper names, source epithets, speech-topic quotations and Anna’s `Thambi!` greeting — **PASS**;
 - `Kattabomman` / quoted `Bomman Kattan` distinction — **PASS / deliberately preserved**;
 - source-page comments — **5/5 PASS**;
 - published/external English quotation wording imported — **No**;
@@ -125,11 +119,34 @@ T4 checks:
 - frozen Tamil edits during T2–T4 — **0**;
 - unresolved T4 issues — **0**.
 
-T5 — **pending**.
+### T5 article verification
+
+**COMPLETE / PASS.**
+
+T5 final reconciliation:
+
+- frozen Tamil blob — **`b10894b911393239e57446687c34030aff88a8e3`** — exact match;
+- pre-T5/post-T4 English blob — **`e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`** — exact match;
+- T0 / T1 / T2 / T3 / T4 — **PASS**;
+- source path/blob metadata — **PASS**;
+- source span scans **12–16 / printed pp.10–14** — **PASS**;
+- source-page comments — **5/5 present and ordered**;
+- T2 / T3 / T4 correction counts — **7 / 8 / 0**;
+- Section 2 T4-approved decisions — **15 / synchronized**;
+- quotations/comic slips/source labels — **PASS**;
+- unresolved Section 2 English issues — **0**;
+- frozen Tamil edits — **0**;
+- source/status regression — **0**.
+
+T5 made **0 English body corrections**. The only T5 article-file change was `translation_status: "voice-reviewed"` → **`translation_status: "verified"`**.
+
+Final verified Section 2 English blob: **`e963de42305f9e0cca601950c4ab5e3b1d6c2ea6`**.
+
+Section 2 sequence **T0–T5 COMPLETE / PASS**.
 
 ---
 
-## English gate totals before Section 2 T5
+## English gate totals
 
 | Gate | Status |
 |---|---|
@@ -139,12 +156,12 @@ T5 — **pending**.
 | T2 bilingual fidelity | **2/19** |
 | T3 Kalaignar voice | **2/19** |
 | T4 terminology / quotation / citation | **2/19** |
-| T5 section verification | **1/19** |
-| Verified English articles | **1/19** |
+| T5 section verification | **2/19** |
+| Verified English articles | **2/19** |
 | English body files | **2/19** |
 
 Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0**.
 
 ## Exact next activity
 
-**E1 — Section 2 / T5 article verification.** Reconfirm frozen Tamil blob `b10894b911393239e57446687c34030aff88a8e3` and post-T4 English blob `e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`; reconcile T0–T4 provenance, metadata, source span, all five source-page comments, 15 T4-approved Section 2 lexicon decisions, correction counts `7 / 8 / 0`, quotation/source-label state and unresolved counts. If clean, change only `translation_status` to `verified`, record the final verified English blob, and mark T5 PASS.
+**E1 — Section 3 / T1 close draft.** Re-fetch frozen Tamil `articles/03-section-03.md` and require blob **`21904dd457bb3455230de06421ff2d906ac4958d`**, source span scans **16–22 / printed pp.14–20**. Translate the complete numbered Section 3 paragraph by paragraph using verified Section 1–2 decisions only where the same Tamil function recurs. Preserve every source-page comment and rhetorical action. Do not start Section 3 T2 in the same activity.
