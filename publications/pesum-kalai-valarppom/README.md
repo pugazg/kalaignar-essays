@@ -10,7 +10,7 @@ Workspace: `publications/pesum-kalai-valarppom/`
 - P2 page-level transcription — **COMPLETE / PASS — 82 of 82 VERIFIED**;
 - P3 assemblies — **COMPLETE / PASS — 19 of 19**;
 - P4 source/completeness audit — **COMPLETE / PASS**;
-- P5 strict visual word/punctuation fidelity — **NOT STARTED / NEXT**;
+- P5 strict visual word/punctuation fidelity — **IN PROGRESS — scans 1–10 / 10 of 82 PASS**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**.
 
 ## Controlling source
@@ -84,7 +84,16 @@ The source/completeness audit reconciled the source metadata, complete `pages/` 
 
 See [`P4_SOURCE_COMPLETENESS_REVIEW.md`](P4_SOURCE_COMPLETENESS_REVIEW.md).
 
-P4 does not replace P5. The next gate is the independent direct scan-by-scan strict visual fidelity pass.
+## P5 strict visual fidelity — IN PROGRESS
+
+Strict direct reinspection is complete through **scan 10 / 10 of 82**.
+
+Batch `P5-001-010` result: **PASS** with **2 source-supported corrections**, both propagated, and **0 unresolved fidelity discrepancies in the reviewed range**.
+
+- scan 4 / inferred p.2: `By : Kalaignar M. Karunanidhi` → source-visible **`By : Kalaingnar M. Karunanidhi`**;
+- scan 7 / inferred p.5: `‘வெண்ணிலாவும்` → source-visible **`“வெண்ணிலாவும்`**; propagated to section-1 assembly.
+
+Scans 3,4,5,6,7 retain suppressed/inferred folio status. Scan 5 remains later handwriting only with printed publication text **0**. See [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md) for the running P5 ledger.
 
 ## Physical-copy/source distinctions
 
@@ -92,4 +101,4 @@ Scan 5 is later handwriting and has no printed publication text. Library stamps/
 
 ## Exact next activity
 
-**P5 — strict visual word/punctuation fidelity across all 82 physical source scans.** Re-inspect every scan directly against the canonical page record, record every old reading → source-visible correction, and propagate any correction into dependent assemblies/indexes/trackers. English remains blocked until P5 closes and the Tamil authority is frozen.
+**P5 scans 11–20 / printed pp.9–18.** Continue direct word-by-word / punctuation-by-punctuation source review, including the scan-12 `1→2` and scan-16 `2→3` shared transitions. Record and immediately propagate every confirmed source-visible correction. English remains blocked until P5 closes and Tamil is frozen.
