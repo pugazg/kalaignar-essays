@@ -14,7 +14,7 @@ Publications **1–10 are RELEASE COMPLETE / FROZEN**.
 
 Workspace: `publications/pesum-kalai-valarppom/`
 
-**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 COMPLETE / PASS — 82/82 VERIFIED. P3 COMPLETE / PASS — 19/19 assemblies. P4 NEXT.**
+**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 COMPLETE / PASS — 82/82 VERIFIED. P3 COMPLETE / PASS — 19/19 assemblies. P4 COMPLETE / PASS. P5 NEXT.**
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`, SHA-256 `73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`, **105,698,402 bytes**, **82 image-only scans**; source PDF committed — **No**.
 
@@ -32,9 +32,11 @@ P2: **82/82 canonical page records directly VERIFIED**, contiguous scans **1–8
 
 P3: **19/19 source-numbered Tamil assemblies COMPLETE / PASS**, `articles/01-section-01.md` through `articles/19-section-19.md`, representing main-work scans **7–82 / pp.5–80**. Missing/extra assemblies **0/0**; unresolved assembly readings **0**; shared transition scans remain split at source-visible numbered-section boundaries. Full record: `publications/pesum-kalai-valarppom/P3_ASSEMBLY_AUDIT.md`.
 
-Documented source corrections include scan 13 `வீட்டான்` → `வீடுதான்` and scan 74 draft `வாரியிலே` / `வாரிக்கு` → source-visible `வரியிலே` / `வரிக்கு`.
+P4: **COMPLETE / PASS**. Source identity, the **82/82** canonical page-record inventory, **19/19** assemblies, section/page maps, front-matter/physical-copy distinctions, suppressed/inferred folios and correction provenance were reconciled. Missing/duplicate page records **0/0**, missing/extra assemblies **0/0**, mapping/boundary drift **0**, new P4 text corrections **0**, unresolved P4 blockers **0**. Full record: `publications/pesum-kalai-valarppom/P4_SOURCE_COMPLETENESS_REVIEW.md`.
 
-Exact next activity: **P4 — source audit / completeness review** across source metadata, all 82 page records, all 19 assemblies, indexes, physical-copy/source-witness distinctions and correction provenance. P5 and English remain blocked until their gates.
+Documented source corrections remain scan 13 `வீட்டான்` → `வீடுதான்` and scan 74 draft `வாரியிலே` / `வாரிக்கு` → source-visible `வரியிலே` / `வரிக்கு`; P4 confirmed their propagation into dependent assemblies.
+
+Exact next activity: **P5 — strict visual word/punctuation fidelity over all 82 physical scans**, with direct source-pixel reinspection and old reading → source-visible correction provenance. English remains blocked until P5 closes and Tamil is frozen.
 
 ### Publication 10 — மீசை முளைத்த வயதில் — FROZEN
 
