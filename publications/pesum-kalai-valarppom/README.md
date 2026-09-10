@@ -8,7 +8,7 @@ Workspace: `publications/pesum-kalai-valarppom/`
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
-- P2 page-level transcription — **IN PROGRESS / 40 of 82 VERIFIED**;
+- P2 page-level transcription — **IN PROGRESS / 50 of 82 VERIFIED**;
 - P3 assemblies — **NOT STARTED**;
 - P4 source/completeness audit — **NOT STARTED**;
 - P5 strict visual word/punctuation fidelity — **NOT STARTED**;
@@ -53,20 +53,22 @@ Canonical mapping lives in `indexes/page-map.md` and `indexes/contents.md`. Do n
 
 ## P2 progress
 
-Batches **1–4**, scans **1–40**, are **COMPLETE / PASS**.
+Batches **1–5**, scans **1–50**, are **COMPLETE / PASS**.
 
-- canonical records created / directly verified: **40 / 82**;
-- contiguous verified range: scans **1–40**;
-- printed coverage: through **p.38**;
+- canonical records created / directly verified: **50 / 82**;
+- contiguous verified range: scans **1–50**;
+- printed coverage: through **p.48**;
 - unresolved printed-text/source-distinction blockers: **0**;
 - assemblies created: **0**;
-- shared transitions preserved: scan 12 `1→2`, scan 16 `2→3`, scan 22 `3→4`, scan 27 `4→5`, scan 31 `5→6`, scan 34 `6→7`, scan 38 `7→8`.
+- shared mid-page transitions preserved through scan 38: `1→2`, `2→3`, `3→4`, `4→5`, `5→6`, `6→7`, `7→8`.
 
-Batch-4 direct continuation checks include scan 30 `அந்தப்` → 31 `பாணியில்`, scan 31 `மாட்டைக்` → 32 `கொடுத்துவிட்டு`, scan 33 `நன்னிலம் நடராசன்` → 34 `இந்தக் கதையைச்`, scan 34 `விளம்பரப்படுத்தப்பட்டு` → 35 `நடைபெற்ற`, scan 38 `தொடக்கக் காலத்திலே` → 39 `அவரது பேச்சில்`, and scan 40 `பொருள்` → scan 41 `என்றால், அதனை`. Scan 41 was inspected only for the boundary and is not yet counted.
+Batch 5 directly closed section 8 on scan 41, section 9 on scan 44 and section 10 on scan 47. Sections **9, 10 and 11** open at page top on scans **42,45,48**; their folios p.40/p.43/p.46 are **suppressed / inferred**, never directly printed.
 
-Source-sensitive batch-4 forms retained without normalization include scan 31 `அங்கு மிங்கும்`, scan 34 `மாவது`, scan 35 `ஏழை களுக்காகப்` / `கோபைடுகிறான்` plus separate printed `பே—3`, scan 37 `கிடக்கு : வெங்காயம்!`, scan 39 `“அ” வுக்கு “அ”, “க” வுக்கு “க”`, and scan 40 `எடுத்துவரச்சொன்னால்`, `பிர்மாண்ட`, `வேலையற்றதுகள்`.
+Batch-5 direct continuation checks include scan 40 `பொருள்` → 41 `என்றால், அதனை`, scan 46 `சிக்கவைக்க` → 47 `வேண்டுமென்று`, scan 49 `மதிப்புக்குரிய தோழர்` → 50 `களுக்குப் பதிலாக`, and scan 50 sentence closure → scan 51 new paragraph `அடிசன் இப்படித் திணறிக் கொண்டிருந்தபோது,`.
 
-Earlier correction provenance remains scan-13 draft `வீட்டான்` → source-visible **`வீடுதான்`** after enlarged review. Batch 4 required **0 corrections** after direct verification.
+Source-sensitive batch-5 forms retained without normalization include scan 47 `திருவல்லுவரை` / `தமிஷ்` / `வாலை! வாலைவிடு`, scan 48 `தாக்குமுறைக்கு`, scan 49 `செத்து விட்டார்கள்` versus `செத்துவிட்டார்கள்`, and scan 50 `அயோத்தியாபுரியா? அஸ்தினாபுரியா?`, `மிதிலாபுரி`, `புகழ்மேணியில்`, `I conceive, conceive, conceive`, `மூச்சுத்திணற`.
+
+Earlier correction provenance remains scan-13 draft `வீட்டான்` → source-visible **`வீடுதான்`** after enlarged review. Batch 5 required **0 corrections** after final direct verification.
 
 ## Physical-copy/source distinctions
 
@@ -81,4 +83,4 @@ Printed text and physical-copy marks remain separate in canonical records.
 
 ## Exact next activity
 
-**P2 batch 5 — scans 41–50 / printed pp.39–48.** Scan 41 closes section 8 at page end. Sections 9, 10 and 11 open at page top on scans **42, 45 and 48**. Preserve scans 42/45/48 as **suppressed / inferred** folios, not visible numerals. Check scan 50→51 where needed and do not build section assemblies yet.
+**P2 batch 6 — scans 51–60 / printed pp.49–58.** Preserve the section **11→12** mid-page transition on scan 51 and **12→13** transition on scan 55. Section 13 closes at scan 58 page end; section 14 opens at scan 59 page top. Scan **59** has a **suppressed / inferred** p.57 folio. Check scan 60→61 where needed and do not build section assemblies yet.
