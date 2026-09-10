@@ -73,20 +73,20 @@ T0 source prerequisite → T1 close draft → T2 bilingual fidelity → T3 Kalai
 - unresolved Section 2 issues — **0**;
 - T0–T5 — **COMPLETE / PASS**.
 
-## Section 3 — T1 COMPLETE / draft
+## Section 3 — T2 COMPLETE / fidelity-reviewed
 
 - Tamil authority — `articles/03-section-03.md`;
 - frozen Tamil blob — **`21904dd457bb3455230de06421ff2d906ac4958d`**;
 - source span — scans **16–22 / printed pp.14–20**;
-- English draft — `translations/en/03-section-03.md`;
-- T1 English blob — **`377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`**;
-- status — **draft**;
+- T1 English blob — `377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`;
+- post-T2 English blob — **`2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`**;
+- status — **fidelity-reviewed**;
+- T2 — **PASS after 5 corrections**;
 - source-page comments — **7/7**;
-- Section 3 T1 provisional lexicon/source decisions — **17**;
-- T2–T5 — **pending**;
-- unresolved T1 blockers — **0**.
-
-Section 3 T1 preserves the source’s quotation-punctuation irregularity, the Socrates–Marx–Ingersoll–Periyar passage, the source wording `அறிவியலும் அனுபவத்திலும்`, and the repeated `மலிவு` wordplay without external normalization.
+- source-missing closing quote in first old-style preamble — **preserved**;
+- Section 3 lexicon/source decisions — **17 provisional pending T3/T4**;
+- T3–T5 — **pending**;
+- unresolved T2 blockers — **0**.
 
 ## Current English state
 
@@ -94,7 +94,7 @@ Section 3 T1 preserves the source’s quotation-punctuation irregularity, the So
 - T0 — **19/19 PASS**;
 - English body files — **3/19**;
 - T1 — **3/19**;
-- T2 — **2/19**;
+- T2 — **3/19**;
 - T3 — **2/19**;
 - T4 — **2/19**;
 - T5 — **2/19**;
@@ -104,4 +104,4 @@ Section 3 T1 preserves the source’s quotation-punctuation irregularity, the So
 
 ## Exact next activity
 
-**E1 — Section 3 / T2 bilingual fidelity review.** Re-fetch frozen Tamil `articles/03-section-03.md` blob **`21904dd457bb3455230de06421ff2d906ac4958d`** and T1 English `translations/en/03-section-03.md` blob **`377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`**. Compare every sentence/clause, all source-page comments, quotation boundaries/punctuation, names/epithets, source sound-signals, logic/repetition, and the `மலிவு` wordplay. Record every T2 correction transparently. Do not start Section 3 T3 in the same activity.
+**E1 — Section 3 / T3 Kalaignar voice review.** Re-fetch frozen Tamil `articles/03-section-03.md` blob **`21904dd457bb3455230de06421ff2d906ac4958d`** and post-T2 English `translations/en/03-section-03.md` blob **`2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`**. Review directness, cadence, emphatic constructions, humour, imagery, repeated clauses, quotation parallelism, the `மலிவு` anecdote and final rhetorical question. Preserve exact T2 meaning and the first preamble’s source-missing closing quotation mark. Record every correction transparently. Do not start T4 in the same activity.
