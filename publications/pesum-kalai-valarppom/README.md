@@ -20,10 +20,10 @@ Workspace: `publications/pesum-kalai-valarppom/`
 - English body files — **3/19**;
 - T1 — **3/19**;
 - T2 — **3/19**;
-- T3 — **2/19**;
-- T4 — **2/19**;
-- T5 — **2/19**;
-- verified English articles — **2/19**;
+- T3 — **3/19**;
+- T4 — **3/19**;
+- T5 — **3/19**;
+- verified English articles — **3/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
@@ -52,30 +52,22 @@ The publication title **Let Us Develop the Art of Speaking** is approved through
 - unresolved Section 2 issues — **0**;
 - T0–T5 — **COMPLETE / PASS**.
 
-## Section 3 — T2 COMPLETE / fidelity-reviewed
+## Section 3 — VERIFIED
 
-Tamil authority:
-
-- `articles/03-section-03.md`;
-- blob — **`21904dd457bb3455230de06421ff2d906ac4958d`**;
-- scans **16–22 / printed pp.14–20**.
-
-English:
-
-- `translations/en/03-section-03.md`;
-- T1 blob — `377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`;
-- post-T2 blob — **`2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`**;
-- status — **fidelity-reviewed**;
-- T2 — **PASS after 5 corrections**;
+- Tamil blob — **`21904dd457bb3455230de06421ff2d906ac4958d`**;
+- scans **16–22 / printed pp.14–20**;
+- final T5 verified English blob — **`3948fbf436875b39b3c9ca183c838f7b9139b742`**;
+- T2 / T3 / T4 corrections — **5 / 13 / 1**;
+- T5 body corrections — **0 / status-only**;
 - source-page comments — **7/7 retained**;
-- T1 provisional Section 3 lexicon/source decisions — **17, unchanged at T2**;
-- T3–T5 — **pending**;
-- unresolved T2 blockers — **0**.
+- T4-approved Section 3 decisions — **17**;
+- unresolved Section 3 issues — **0**;
+- T0–T5 — **COMPLETE / PASS**.
 
-T2 preserved the source’s first old-style preamble quotation without adding its absent closing quotation mark, retained `அறிவியலும் அனுபவத்திலும்` without normalizing the Tamil, and corrected the early-human sequence, dictionary sentence, `பரபரப்புடன்`, singular `கருத்து`, and fourfold `ஒரு சாதி` repetition.
+The verified Section 3 preserves the `iyal / music / koothu` historical argument, source sound-signals, old-style preamble punctuation irregularity, source-based Socrates–Marx–Ingersoll–Thanthai Periyar passage, Brahma/caste repetition, heart/lips imagery, and repeated `cheap promise` wordplay.
 
 Permanent rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`** only where the exact source form occurs. The source supplies numeric sections only; do not invent descriptive English section titles.
 
 ## Exact next activity
 
-**E1 — Section 3 / T3 Kalaignar voice review.** Revalidate frozen Tamil blob **`21904dd457bb3455230de06421ff2d906ac4958d`** and post-T2 English blob **`2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`**. Review directness, cadence, emphatic constructions, imagery, humour, quoted parallelism, repetition and the `மலிவு` anecdote without changing T2 meaning or manufacturing the source-missing quote. Record every correction transparently. Do not start T4 in the same activity.
+**E1 — Section 4 / T1 close draft.** Frozen Tamil authority: `articles/04-section-04.md`, expected blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`**, scans **22–27 / printed pp.20–25**. Revalidate that blob, translate the complete Section 4, and stop before Section 4 T2.
