@@ -2,9 +2,9 @@
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`  
 Physical scans: **82**  
-Current gate: **P2 IN PROGRESS — 30 / 82 VERIFIED**
+Current gate: **P2 IN PROGRESS — 40 / 82 VERIFIED**
 
-P1 directly inspected all **82 / 82** physical scans and established the canonical structural map below. P2 batches 1–3 have now created and directly verified canonical page records for scans **1–30**; the structural mapping itself is unchanged.
+P1 directly inspected all **82 / 82** physical scans and established the canonical structural map below. P2 batches 1–4 have now created and directly verified canonical page records for scans **1–40**; the structural mapping itself is unchanged.
 
 ## Pagination rule established at P1
 
@@ -144,21 +144,21 @@ Shared mid-page transition scans are **12, 16, 22, 27, 31, 34, 38, 51, 55, 67, 7
 
 ## P2 overlay
 
-Batches 1–3, scans **1–30**, are **COMPLETE / PASS**.
+Batches 1–4, scans **1–40**, are **COMPLETE / PASS**.
 
-- canonical page records present: **30 / 82**;
-- directly verified: **30 / 82**;
-- contiguous verified range: scans **1–30**;
-- printed-page coverage reached: **p.28**;
-- section transitions already preserved in canonical page records: scan **12** `1→2`, scan **16** `2→3`, scan **22** `3→4`, scan **27** `4→5`;
+- canonical page records present: **40 / 82**;
+- directly verified: **40 / 82**;
+- contiguous verified range: scans **1–40**;
+- printed-page coverage reached: **p.38**;
+- section transitions preserved in canonical page records: scan **12** `1→2`, scan **16** `2→3`, scan **22** `3→4`, scan **27** `4→5`, scan **31** `5→6`, scan **34** `6→7`, scan **38** `7→8`;
 - unresolved P2 readings: **0**;
 - structural-map changes caused by P2: **0**;
 - section assemblies created: **0**.
 
 P2 preserves the source-visible title-form distinction: scan 1 front cover `பேசும் கலை வளர்ப்போம்`; scan 3 title page `பேசும்கலை வளர்ப்போம்`.
 
-Batch 3 directly confirmed the scan-30 boundary `அந்தப்` → scan 31 `பாணியில்`; scan 31 remains outside the current canonical P2 count. Source-sensitive batch-3 forms retained without normalization include scan 22 `மலிவு`, scan 26 `அண்ணாத்துரை கச்சேரி தானே?`, scan 28 `அந்த......ப்`, and scan 30 `உணர்ச்சியையும்,எழுச்சியையும்`.
+Batch 4 directly confirmed the final boundary scan 40 `பொருள்` → scan 41 `என்றால், அதனை`; scan 41 was inspected only for that continuation and is not yet counted. Source-sensitive batch-4 forms retained without normalization include scan 31 `அங்கு மிங்கும்`, scan 34 `மாவது`, scan 35 `ஏழை களுக்காகப்` and printed gathering mark `பே—3`, scan 37 `கிடக்கு : வெங்காயம்!`, scan 39 `“அ” வுக்கு “அ”, “க” வுக்கு “க”`, and scan 40 `எடுத்துவரச்சொன்னால்`, `பிர்மாண்ட`, `வேலையற்றதுகள்`.
 
 ## Exact next activity
 
-**P2 batch 4 — transcribe and directly verify scans 31–40 as canonical page records.** This batch covers printed pp.29–38 and crosses the section **5→6** boundary on scan 31, **6→7** boundary on scan 34, and **7→8** boundary on scan 38. Preserve both section memberships on those shared scans; check scan 40→41 where needed; do not build section assemblies yet.
+**P2 batch 5 — transcribe and directly verify scans 41–50 as canonical page records.** This batch covers printed pp.39–48. Section 8 ends at scan 41 page end; sections **9, 10 and 11 open at page top on scans 42, 45 and 48 respectively**. Preserve scans **42, 45 and 48** as suppressed/inferred folios rather than visible numerals. Check scan 50→51 where needed; do not build section assemblies yet.
