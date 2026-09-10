@@ -21,15 +21,15 @@ Workspace: `publications/pesum-kalai-valarppom/`
 
 - E0 planning / workspace bootstrap — **COMPLETE / PASS**;
 - T0 frozen-source prerequisite — **19/19 PASS**;
-- exact Tamil assembly blob SHAs recorded — **19/19**;
-- English article body files — **1/19**;
+- English body files — **1/19**;
 - T1 close draft — **1/19**;
 - T2 bilingual fidelity — **1/19**;
-- T3 / T4 / T5 — **0/19**;
+- T3 Kalaignar voice — **1/19**;
+- T4 / T5 — **0/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
-Section 1 is currently **fidelity-reviewed / T2 complete**. Its frozen Tamil authority is `e5517b7cc344554d51af4092599059d481039c1e`; its T1 English blob was `d36aec208ea15b970795a7717dd770d2d27251d8`; its post-T2 English blob is `d185b201c1113d99400d31579e773ae167cbb8a0`. T2 made **6** source-supported English corrections. The next gate is T3 Kalaignar voice review.
+Section 1 is now **voice-reviewed / T3 complete**. Tamil authority remains `e5517b7cc344554d51af4092599059d481039c1e`; post-T2 English was `d185b201c1113d99400d31579e773ae167cbb8a0`; post-T3 English is **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**. T3 made **4** voice corrections after the earlier **6** T2 fidelity corrections.
 
 English controls:
 
@@ -58,20 +58,16 @@ English controls:
 
 ## Tamil closure
 
-P5 re-read every physical scan directly against its canonical record and closed at **82/82 PASS**, **33/33 corrections propagated**, **0 unresolved**. The detailed correction provenance remains in [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md). Frozen Tamil `pages/` and `articles/` must not be changed for stylistic preference.
+P5 closed at **82/82 PASS**, **33/33 corrections propagated**, **0 unresolved**. Frozen Tamil `pages/` and `articles/` must not be changed without genuinely new source evidence.
 
-## English source baseline
+## Section 1 T3 closure
 
-E0/T0 used frozen Tamil baseline commit **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**. All **19** article blobs were enumerated and recorded in `TRANSLATION_PLAN.md` and the English review ledger. Before each English gate, the live Tamil blob must match that recorded SHA exactly.
+T3 independently reviewed the post-T2 English for directness, cadence, repetition, imagery, polemical force, storytelling flow and humour. It closed **PASS after 4 voice corrections**. Source-page comments remain **6/6**, unresolved T3 issues are **0**, and frozen Tamil edits are **0**.
 
-Permanent rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`** only where the exact source form occurs.
+The publication-title rendering **Let Us Develop the Art of Speaking** is now **T3 voice-approved / T4 pending**.
 
-The source supplies numeric sections only. Do not invent descriptive English section titles. Section 1 uses the provisional publication-title rendering **Let Us Develop the Art of Speaking**; it remains provisional until T3 voice review.
-
-## Section 1 T2 closure
-
-T2 independently compared every Tamil sentence/clause with the T1 English draft and closed **PASS after 6 corrections**. Final checks: omissions **0**, added claims **0**, quotations **PASS**, names/numbers **PASS**, source-page comments **6/6**, unresolved T2 issues **0**, frozen Tamil edits **0**. Correction provenance is recorded in `translations/en/TRANSLATION_REVIEW.md`.
+Permanent rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`** only where the exact source form occurs. The source supplies numeric sections only; do not invent descriptive English section titles.
 
 ## Exact next activity
 
-**E1 — Section 1 / T3 Kalaignar voice review.** Compare frozen Tamil Section 1 with post-T2 English blob `d185b201c1113d99400d31579e773ae167cbb8a0`. Check directness, cadence, repeated structures, rhetorical questions, exclamations, imagery, polemical force, accidental smoothing and academic distancing. Reassess the provisional publication title and Section 1 lexical choices for voice. Record every correction transparently and keep T4 blocked until T3 passes.
+**E1 — Section 1 / T4 terminology / quotation / citation audit.** Audit the voice-reviewed Section 1 against the frozen Tamil and living lexicon, including all proper names, musical terms, both quotations, the Valluvar chapter label, `1970`, Hyde Park / `(HydePark)`, V. K. Krishna Menon, U.N. Assembly, and all six page-boundary comments. Record every correction transparently and keep T5 blocked until T4 passes.
