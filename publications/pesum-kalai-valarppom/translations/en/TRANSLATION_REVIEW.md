@@ -41,7 +41,7 @@ Tamil authority: `articles/01-section-01.md` — **`e5517b7cc344554d51af40925990
 - T4-approved Section 1 decisions — **16**;
 - unresolved Section 1 issues — **0**.
 
-Section 1 calibration sequence **T0–T5 COMPLETE / PASS**. Detailed T2/T3 correction provenance was established before verification and remains authoritative through the final blob.
+Section 1 calibration sequence **T0–T5 COMPLETE / PASS**.
 
 ---
 
@@ -51,40 +51,94 @@ Section 1 calibration sequence **T0–T5 COMPLETE / PASS**. Detailed T2/T3 corre
 
 **PASS.** Live `articles/02-section-02.md` remains exactly **`b10894b911393239e57446687c34030aff88a8e3`**, scans **12–16 / printed pp.10–14**.
 
-No pre-existing English `translations/en/02-section-02.md` was present on live `main` before drafting.
-
 ### T1 close draft
 
 **COMPLETE / PASS as a draft gate.**
 
 - English file — `translations/en/02-section-02.md`;
 - T1 English blob — **`a45d357a089247b4de725b64126b0f0341e5e588`**;
-- `translation_status` — **draft**;
-- source-page comments — **5/5 retained**, scans 12–16;
+- source-page comments — **5/5 retained**;
 - numeric section identity `2` — retained;
 - all Tamil paragraphs represented — **yes**;
-- deliberate questions, exclamations, repeated structures and comic slips — retained in the draft;
 - frozen Tamil edits — **0**;
 - unresolved T1 blockers — **0**.
 
-Notable T1 source-sensitive choices recorded in the living lexicon include `Children’s Reform Association`, `Nenjukku Neethi`, `Anjaneya temple`, `Isaimani`, `Self-Respect Movement`, `Arignar Anna`, `Maha Vidwan`, `Nadigar Thilagam Sivaji`, `Thambi`, and the `Kattabomman` / `Bomman Kattan` contrast. They remain **T1 provisional** until T2/T3/T4.
+### T2 bilingual fidelity review
 
-The anecdotal slip `பொம்மன் கட்டன்` is deliberately rendered `Bomman Kattan`; it must not be silently normalized to `Kattabomman` during later review unless the frozen Tamil itself changes.
+**COMPLETE / PASS after 7 corrections.**
 
-T2 / T3 / T4 / T5 — **pending**.
+Post-T2 English blob: **`f5bb2ebe0ab442369312384ae894c4689400d02b`**.  
+Final T2 checks: omitted Tamil clauses **0**; added claims **0**; quantities **PASS**; proper names/source labels **PASS**; quotations/comic slips **PASS**; negatives/logical turns/repetition **PASS**; source-page comments **5/5**; unresolved T2 issues **0**.
+
+#### T2 corrections
+
+| # | T1 English | T2 English | Frozen Tamil basis / reason |
+|---:|---|---|---|
+| 1 | `poet Bharathidasan` | `song-poet Bharathidasan` | Restores source epithet `பாட்டுக் கவிஞர்`. |
+| 2 | `For two or three days before I received that praise, I had memorised...` | `To earn that praise, for two or three days I memorised...` | `அந்தப் பாராட்டைப் பெறுவதற்கு இரண்டு மூன்று நாட்கள்`; restores purpose rather than mere chronology. |
+| 3 | `began stumbling over his words` | `his tongue faltered as soon as he began to speak` | Restores source bodily image `நாக்கு தடுமாறிற்று`. |
+| 4 | `a few words of greeting` | `two words of greeting` | Preserves explicit source quantity `இரண்டு வார்த்தை`. |
+| 5 | `burst into loud laughter` | `burst into a roar of laughter` | Better carries `‘கொல்’லென்று சிரித்துவிட்டது` instead of flattening the sound/force. |
+| 6 | `only if we know something can we manage to speak even before a gathering of ten people` | `if one is to speak—even before a gathering of ten—doesn’t one first have to know something?` | Restores argumentative/rhetorical force of `...தெரிந்து வைத்திருந்தால்தானே...`. |
+| 7 | `major film producer` | `major film magnate` | `பட அதிபர்` does not specifically identify the person as a producer; removes unsupported narrowing. |
+
+### T3 Kalaignar voice review
+
+**COMPLETE / PASS after 8 voice corrections.**
+
+Post-T3 English blob: **`e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`**.  
+Translation status after T3: **`voice-reviewed`**.
+
+#### T3 corrections
+
+| # | Post-T2 English | T3 English | Tamil / voice basis |
+|---:|---|---|---|
+| 1 | `His uncles, T. N. Raman and T. N. Lachappa, were then shining...` | `It was his uncles—T. N. Raman and T. N. Lachappa—who then shone...` | Restores emphatic `மாமன்கள்தான்`. |
+| 2 | `Stage fright... once a person has overcome it, one may say...` | `Once a person gets over stage fright... you may say...` | Restores direct spoken cadence. |
+| 3 | `with every nerve in their bodies drenched in sweat` | `with every vein and nerve in their bodies running with sweat` | Keeps the source’s vivid bodily image instead of flattening it. |
+| 4 | `The reason I escaped that embarrassment was that...` | `I escaped that embarrassment only because...` | Restores `...பழகிக்கொண்டதுதான்` emphasis and directness. |
+| 5 | `for two or three days I memorised... without sleep` | `I spent two or three sleepless days memorising...` | Keeps `உறக்கமின்றி` while removing stiff English. |
+| 6 | `under the leadership of Arignar Anna` | `with Arignar Anna presiding` | Carries `அறிஞர் அண்ணா அவர்கள் தலைமையில்` naturally without explanatory expansion. |
+| 7 | `An explosion of laughter!` | `A thunderous explosion of laughter!` | Restores the force of `அதிர் வெடிச் சிரிப்பு!`. |
+| 8 | `add distinction to the art of speaking` | `bring honour to the art of speaking` | Restores the force of `பேசும் கலைக்குப் பெருமை சேர்க்க`. |
+
+T3 final checks: directness **PASS**; rhetorical questions/exclamations **PASS**; repetition **PASS**; pot/ladle and mind-as-pot imagery **PASS**; stage-fright and sweat imagery **PASS**; school anecdotes and comic timing **PASS**; source-labelled names/epithets **PASS**; page comments **5/5**; unresolved voice issues **0**.
+
+### T4 terminology / quotation / citation audit
+
+**COMPLETE / PASS — 0 English body corrections.**
+
+T4 input/output English blob is unchanged at **`e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`**.
+
+T4 checks:
+
+- original Section 2 T1 working decisions — **13/13 PASS** after T2/T3 refinements;
+- Section 2 T4-approved article-derived decisions — **15** after adding `பாட்டுக் கவிஞர்` → `song-poet` and `பட அதிபர்` → `film magnate`;
+- `Children’s Reform Association`, `quarter-anna`, `one paisa`, `Nenjukku Neethi`, `Anjaneya temple`, `Isaimani`, `Self-Respect Movement`, `Arignar Anna`, `purse`, `Maha Vidwan`, `Nadigar Thilagam Sivaji`, `Thambi` — **PASS**;
+- proper names/initials and place names — **PASS / no outside expansion**;
+- `Friendship` / `God` speech-topic quotations — **PASS / source-based**;
+- speech/life verbal slip — **PASS**;
+- `Kattabomman` / quoted `Bomman Kattan` distinction — **PASS / deliberately preserved**;
+- source-page comments — **5/5 PASS**;
+- published/external English quotation wording imported — **No**;
+- source `உடன்பிறப்பே` occurrences — **0**;
+- frozen Tamil edits during T2–T4 — **0**;
+- unresolved T4 issues — **0**.
+
+T5 — **pending**.
 
 ---
 
-## English gate totals
+## English gate totals before Section 2 T5
 
 | Gate | Status |
 |---|---|
 | E0 workspace/planning | **COMPLETE / PASS** |
 | T0 source prerequisite | **19/19 PASS** |
 | T1 close draft | **2/19** |
-| T2 bilingual fidelity | **1/19** |
-| T3 Kalaignar voice | **1/19** |
-| T4 terminology / quotation / citation | **1/19** |
+| T2 bilingual fidelity | **2/19** |
+| T3 Kalaignar voice | **2/19** |
+| T4 terminology / quotation / citation | **2/19** |
 | T5 section verification | **1/19** |
 | Verified English articles | **1/19** |
 | English body files | **2/19** |
@@ -93,4 +147,4 @@ Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0*
 
 ## Exact next activity
 
-**E1 — Section 2 / T2 bilingual fidelity review.** Compare frozen Tamil blob `b10894b911393239e57446687c34030aff88a8e3` against T1 English blob `a45d357a089247b4de725b64126b0f0341e5e588` sentence-by-sentence and clause-by-clause. Check omissions/additions, names and source labels, historical currency, quoted speech, the `Kattabomman` / `Bomman Kattan` comic contrast, numbers, negatives, logic, deliberate repetition and all five page-boundary comments. Record every T2 correction transparently; do not start T3 in the same activity.
+**E1 — Section 2 / T5 article verification.** Reconfirm frozen Tamil blob `b10894b911393239e57446687c34030aff88a8e3` and post-T4 English blob `e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`; reconcile T0–T4 provenance, metadata, source span, all five source-page comments, 15 T4-approved Section 2 lexicon decisions, correction counts `7 / 8 / 0`, quotation/source-label state and unresolved counts. If clean, change only `translation_status` to `verified`, record the final verified English blob, and mark T5 PASS.
