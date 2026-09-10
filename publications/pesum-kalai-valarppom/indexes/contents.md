@@ -44,16 +44,17 @@ The supplied **82-scan eighth-edition witness contains no printed contents page*
 
 ## P5 overlay — IN PROGRESS
 
-- strict-reviewed scans: **1–40 / 40 of 82**;
-- reviewed span: outside pagination + pp.**1–38**;
-- corrections found / propagated: **16 / 16**;
+- strict-reviewed scans: **1–50 / 50 of 82**;
+- reviewed span: outside pagination + pp.**1–48**;
+- corrections found / propagated: **26 / 26**;
 - unresolved fidelity discrepancies in reviewed range: **0**;
 - P5 source-visible transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8) — PASS**;
-- scans 31–40 introduced **9** source-supported corrections, all propagated, with no structural section-map change;
-- scan 41 is boundary evidence only and is not counted.
+- page-end/top changes **41→42 (8→9), 44→45 (9→10), 47→48 (10→11) — PASS**;
+- scans 41–50 introduced **10** source-supported corrections, all propagated, with no structural section-map change;
+- scan 51 is boundary evidence only and is not counted.
 
 Running fidelity record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Exact next activity
 
-**P5 scans 41–50 / printed pp.39–48.** Preserve the page-end/top section changes **41→42 (8→9)**, **44→45 (9→10)** and **47→48 (10→11)**, plus suppressed/inferred folios on scans **42,45,48**; record and propagate every confirmed source-visible correction before the next batch.
+**P5 scans 51–60 / printed pp.49–58.** Preserve scan **51 (11→12)** and scan **55 (12→13)** mid-page transitions, section 13 closure at scan **58**, section 14 top-of-page opening at scan **59**, and scan 59's suppressed/inferred p.57 folio. Record and propagate every confirmed source-visible correction before the next batch.
