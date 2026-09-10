@@ -9,7 +9,7 @@
 | P2 page-level transcription | **COMPLETE / PASS** | **82/82 VERIFIED**; scans 1–82 contiguous |
 | P3 assemblies | **COMPLETE / PASS** | **19/19 source-numbered assemblies**; main work scans 7–82 / pp.5–80 represented |
 | P4 source/completeness audit | **COMPLETE / PASS** | **82/82 page records + 19/19 assemblies reconciled; discrepancies 0** |
-| P5 strict visual fidelity | **NOT STARTED / NEXT** | — |
+| P5 strict visual fidelity | **IN PROGRESS — 10/82** | scans **1–10 PASS**; **2 corrections / 2 propagated / 0 unresolved in reviewed range** |
 | English E0–E7 | **NOT STARTED** | blocked until Tamil freeze |
 
 ## Source / P1 durable facts
@@ -93,6 +93,28 @@ Dedicated record: [`P4_SOURCE_COMPLETENESS_REVIEW.md`](P4_SOURCE_COMPLETENESS_RE
 
 P4 is a reconciliation/completeness gate and does **not** substitute for the separate P5 direct strict visual word/punctuation pass.
 
+## P5 — IN PROGRESS — 10 / 82
+
+First strict-review batch **P5-001-010** directly re-inspected scans **1–10** against the controlling source pixels.
+
+- strict-reviewed range: **scans 1–10**;
+- printed coverage within reviewed range: outside pagination + pp.**1–8**;
+- batch result: **PASS**;
+- P5 corrections found: **2**;
+- corrections propagated: **2 / 2**;
+- unresolved fidelity discrepancies in reviewed range: **0**;
+- suppressed/inferred folios rechecked in reviewed range: **3,4,5,6,7 — PASS**;
+- scan 5 remains later handwriting only with printed publication text **0**.
+
+P5 corrections:
+
+1. scan 4 / inferred p.2 — `By : Kalaignar M. Karunanidhi` → source-visible **`By : Kalaingnar M. Karunanidhi`**; corrected in `pages/0004-imprint.md`; no numbered-section assembly affected.
+2. scan 7 / inferred p.5 — opening quote `‘வெண்ணிலாவும்` → source-visible **`“வெண்ணிலாவும்`**; corrected in `pages/0007-section-01-1.md` and propagated to `articles/01-section-01.md`.
+
+Boundary checks retained: scan 7 `கவிஞரின்` → scan 8 `கவிதைச்`; scan 8 `பிரச்` → scan 9 `சினைகளைப்`; scan 9 `சிந்தித்` → scan 10 `துப் பார்த்து`; scan 10 `கொண்` → scan 11 `டிருப்பார்.` Scan 11 was used only as boundary evidence and is **not yet counted** as P5-reviewed.
+
+Detailed running P5 ledger: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
+
 ## Corrections / normalization ledger
 
 - documented P2 correction: scan 13 draft `வீட்டான்` → source-visible `வீடுதான்`;
@@ -100,8 +122,9 @@ P4 is a reconciliation/completeness gate and does **not** substitute for the sep
 - P2 silent normalization: **0**;
 - P3 silent normalization: **0**;
 - P4 new corrections: **0**;
-- unresolved Tamil/source readings entering P5: **0**.
+- P5 corrections through scan 10: **2**, propagated **2 / 2**;
+- unresolved fidelity discrepancies in reviewed P5 range: **0**.
 
 ## Exact next activity
 
-**P5 — strict visual word/punctuation fidelity pass over all 82 physical scans.** Re-inspect every physical source scan directly against its canonical page record — cover/front matter, body, suppressed/inferred folio distinctions, words, spacing, punctuation, quotations, dates, numbers, headings and continuations. Record every old reading → source-visible correction and propagate any correction to dependent assemblies/indexes/trackers. Create `VISUAL_TEXT_FIDELITY_REVIEW.md` (or guide-equivalent report) before closing P5. English remains blocked until Tamil P5 freeze.
+**P5 scans 11–20 / printed pp.9–18.** Directly re-inspect each source scan word-by-word and punctuation-by-punctuation against its canonical page record, including scan 12 section `1→2` and scan 16 section `2→3` mid-page transitions. Record every old reading → source-visible correction and immediately propagate confirmed corrections into dependent assemblies and the running `VISUAL_TEXT_FIDELITY_REVIEW.md`. Do not begin English while P5 remains open.
