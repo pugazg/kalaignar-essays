@@ -10,8 +10,8 @@ Workspace: `publications/pesum-kalai-valarppom/`
 - P2 page-level transcription — **COMPLETE / PASS — 82 of 82 VERIFIED**;
 - P3 assemblies — **COMPLETE / PASS — 19 of 19**;
 - P4 source/completeness audit — **COMPLETE / PASS**;
-- P5 strict visual word/punctuation fidelity — **IN PROGRESS — scans 1–50 / 50 of 82 PASS**;
-- P5 corrections / propagated — **26 / 26**;
+- P5 strict visual word/punctuation fidelity — **IN PROGRESS — scans 1–60 / 60 of 82 PASS**;
+- P5 corrections / propagated — **27 / 27**;
 - unresolved fidelity discrepancies in reviewed range — **0**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**.
 
@@ -42,16 +42,18 @@ P4: source/completeness reconciliation **PASS**, with page records **82/82**, as
 
 ## P5 strict visual fidelity — IN PROGRESS
 
-Direct strict review is complete through **scan 50 / p.48**.
+Direct strict review is complete through **scan 60 / p.58**.
 
-- batches `P5-001-010`, `P5-011-020`, `P5-021-030`, `P5-031-040`, `P5-041-050` — **PASS**;
-- corrections found: **26**;
-- corrections propagated: **26/26**;
+- batches `P5-001-010`, `P5-011-020`, `P5-021-030`, `P5-031-040`, `P5-041-050`, `P5-051-060` — **PASS**;
+- corrections found: **27**;
+- corrections propagated: **27/27**;
 - unresolved discrepancies: **0**.
 
-P5-041-050 added 10 source-supported corrections: scan 42 `கைக்குழந்தையொன்றைத்`→`கைக்குழந்தை யொன்றைத்`; scan 43 `என்பதைத்தெரிந்து`→`என்பதைத் தெரிந்து`; scan 47 11-dot `மிஸ்டர்...........`→12-dot `மிஸ்டர்............`; scan 48 `தாக்குமுறைக்கு`→`தர்க்கமுறைக்கு`, `போராற்றல்`→`பேராற்றல்`; scan 49 `பேச்சுத்திறன்`→`பேச்சுத்திறனை`; scan 50 plain `சொல்`→`‘சொல்’`, `ஐயோ!`→`ஏம்பா!`, `புகழ்மேணியில்`→`புகழ்மேனியில்`, `மூச்சுத்திணற கூறிக்கொண்டே`→`மூச்சுத்திணறக் கூறிக்கொண்டே`. All are propagated to affected canonical records and sections 9–11.
+P5-051-060 added 1 source-supported correction: scan 51 `போர்களம்`→`போர்க்களம்`. It is propagated to the canonical scan-51 record and section 11 assembly.
 
-Established source forms such as scan 42 `அருட் கருவலம்`, scan 43 `அப்துர் ரகுமான்`, scan 44 colloquial quotations, scan 45 deliberate pronunciation contrasts, scan 46 `சூடும் சுவையும்` / `நாடி நறம்பு`, scan 47 quoted `ழ`, scan 48 `முத்தொழில்`, scan 49 `வெற்றி முகட்டை`, and scan 50 `I conceive, conceive, conceive` remain preserved.
+P5-041-050 added 10 source-supported corrections, including scan 42 `கைக்குழந்தை யொன்றைத்`, scan 43 `என்பதைத் தெரிந்து`, scan 47 12-dot `மிஸ்டர்............`, scan 48 `தர்க்கமுறைக்கு` / `பேராற்றல்`, scan 49 `பேச்சுத்திறனை`, and scan 50 `‘சொல்’`, `ஏம்பா!`, `புகழ்மேனியில்`, `மூச்சுத்திணறக் கூறிக்கொண்டே`. All are propagated to affected canonical records and assemblies 9–11.
+
+Established source forms such as scan 42 `அருட் கருவலம்`, scan 43 `அப்துர் ரகுமான்`, scan 44 colloquial quotations, scan 45 deliberate pronunciation contrasts, scan 46 `சூடும் சுவையும்` / `நாடி நறம்பு`, scan 47 quoted `ழ`, scan 48 `முத்தொழில்`, scan 49 `வெற்றி முகட்டை`, scan 50 `I conceive, conceive, conceive`, and scan 51 `போர்க்களம்` remain preserved.
 
 See [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md) for the running ledger.
 
@@ -61,4 +63,4 @@ Scan 5 is later handwriting and has no printed publication text. Library stamps/
 
 ## Exact next activity
 
-**P5 scans 51–60 / printed pp.49–58.** Preserve scan **51 (11→12)** and scan **55 (12→13)** mid-page transitions, section 13 closure at scan **58**, section 14 top-of-page opening on scan **59**, and scan 59's suppressed/inferred p.57 folio. Inspect scan **61** only as batch-boundary evidence if needed. English remains blocked until P5 closes and Tamil is frozen.
+**P5 scans 61–70 / printed pp.59–68.** Preserve scan **64** suppressed/inferred p.62 and section **15** opening, scan **67** section **15→16** mid-page transition, and scan **70** section **16→17** mid-page transition. Inspect scan **71** only as batch-boundary evidence if needed. English remains blocked until P5 closes and Tamil is frozen.
