@@ -53,8 +53,8 @@ Structural authority: scans **3–82 = printed pp.1–80**; source-numbered sect
 
 - E0 planning — **COMPLETE / PASS**;
 - T0 — **19/19 PASS**;
-- English body files — **2/19**;
-- T1 — **2/19**;
+- English body files — **3/19**;
+- T1 — **3/19**;
 - T2 — **2/19**;
 - T3 — **2/19**;
 - T4 — **2/19**;
@@ -78,65 +78,76 @@ The publication title **Let Us Develop the Art of Speaking** is approved through
 
 ### Section 2 — VERIFIED / T0–T5 COMPLETE
 
+- frozen Tamil blob — **`b10894b911393239e57446687c34030aff88a8e3`**;
+- source span — scans **12–16 / printed pp.10–14**;
+- final T5 verified English blob — **`e963de42305f9e0cca601950c4ab5e3b1d6c2ea6`**;
+- T2 / T3 corrections — **7 / 8**;
+- T4 / T5 body corrections — **0 / 0**;
+- source-page comments — **5/5 retained**;
+- T4-approved decisions — **15**;
+- unresolved Section 2 issues — **0**.
+
+Section 2 non-regression points include `Children’s Reform Association`, `Nenjukku Neethi`, historical period currency, source-borne epithets, `song-poet`, `film magnate`, pot/ladle imagery and the deliberately distinct `Kattabomman` / quoted `Bomman Kattan` forms.
+
+### Section 3 — T1 COMPLETE / draft
+
 Tamil authority:
 
-- `publications/pesum-kalai-valarppom/articles/02-section-02.md`;
-- frozen blob — **`b10894b911393239e57446687c34030aff88a8e3`**;
-- scans **12–16 / printed pp.10–14**.
+- `publications/pesum-kalai-valarppom/articles/03-section-03.md`;
+- frozen blob — **`21904dd457bb3455230de06421ff2d906ac4958d`**;
+- scans **16–22 / printed pp.14–20**;
+- T0 — **PASS**.
 
 English:
 
-- `publications/pesum-kalai-valarppom/translations/en/02-section-02.md`;
-- T1 historical blob — `a45d357a089247b4de725b64126b0f0341e5e588`;
-- post-T2 blob — `f5bb2ebe0ab442369312384ae894c4689400d02b`;
-- post-T3 / post-T4 blob — `e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`;
-- final T5 verified blob — **`e963de42305f9e0cca601950c4ab5e3b1d6c2ea6`**;
-- `translation_status` — **verified**;
-- T2 — **PASS after 7 corrections**;
-- T3 — **PASS after 8 voice corrections**;
-- T4 — **PASS with 0 body corrections**;
-- T5 — **PASS with 0 body corrections / status-only change**;
-- source-page comments — **5/5 retained**;
-- T4-approved Section 2 decisions — **15**;
-- unresolved Section 2 English issues — **0**.
+- `publications/pesum-kalai-valarppom/translations/en/03-section-03.md`;
+- T1 blob — **`377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`**;
+- `translation_status` — **draft**;
+- T1 — **PASS as a draft gate**;
+- source-page comments — **7/7 retained**;
+- Section 3 T1 provisional lexicon/source decisions — **17**;
+- T2/T3/T4/T5 — **pending**;
+- unresolved T1 blockers — **0**;
+- frozen Tamil edits — **0**.
 
-Section 2 non-regression points:
+Section 3 non-regression points for T2:
 
-- `சிறுவர் சீர்திருத்த சங்கம்` → **Children’s Reform Association**;
-- `நெஞ்சுக்கு நீதி` → **Nenjukku Neethi**;
-- historical `காலணா` / one paisa remain period currency with no conversion;
-- `இசைமணி`, `அறிஞர் அண்ணா`, `மகா வித்துவான்`, `நடிகர் திலகம் சிவாஜி`, `தம்பி` retain source-bearing treatment;
-- `பாட்டுக் கவிஞர்` → **song-poet**;
-- `பட அதிபர்` → **film magnate**, not unsupported `film producer`;
-- pot/ladle and mind-as-pot imagery remain intact;
-- speech/life verbal slip remains a slip;
-- source play name `கட்டபொம்மன்` → `Kattabomman`, while the quoted source slip `பொம்மன் கட்டன்` → `Bomman Kattan`; never normalize the latter;
-- all quoted speech remains source-based; no external/published English wording imported.
+- `இயல் / இசை / கூத்து` → provisional **`iyal / music / koothu`**;
+- source sound-signals `“ஏ” “ஓ” “ஈ”` remain source-bearing without an imposed transliteration scheme;
+- `பீடிகை` → **preamble**; `அடியேன்` → **this humble one**; `அன்னப்பட்சி` → **swan**;
+- frozen source `அறிவியலும் அனுபவத்திலும்` is provisionally rendered **science and experience**; do not silently normalize the Tamil to `அறிவிலும்` / `knowledge and experience`;
+- Socrates / Karl Marx / Ingersoll / Thanthai Periyar wording is translated only from the frozen Tamil witness;
+- `தன்மானச் சிங்கம் தந்தை பெரியார்` → provisional **the lion of self-respect, Thanthai Periyar**;
+- `மலிவு / மலிவான வாக்குறுதி` → **cheap / cheap promise**; preserve the repeated word because the misunderstanding itself is the point;
+- the first old-style preamble quotation opens with a quotation mark but has **no closing quotation mark** in the frozen Tamil assembly before the next paragraph; do not silently manufacture one;
+- all **7/7** source-page boundary comments are retained.
 
 Permanent translation rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**, only where the exact Tamil form occurs. The publication uses numeric section labels only; do not invent descriptive English section titles.
 
-## Exact next activity — E1 / Section 3 T1 close draft
+## Exact next activity — E1 / Section 3 T2 bilingual fidelity review
 
-Before drafting Section 3:
+Re-fetch and require:
 
-- re-fetch frozen Tamil `publications/pesum-kalai-valarppom/articles/03-section-03.md`;
-- require exact blob **`21904dd457bb3455230de06421ff2d906ac4958d`**;
-- source span — scans **16–22 / printed pp.14–20**;
-- if the Tamil blob differs, stop for source-drift reconciliation;
-- if an English Section 3 file has legitimately appeared on newer live `main`, preserve the newer durable state rather than overwriting it.
+- frozen Tamil `publications/pesum-kalai-valarppom/articles/03-section-03.md` blob **`21904dd457bb3455230de06421ff2d906ac4958d`**;
+- T1 English `publications/pesum-kalai-valarppom/translations/en/03-section-03.md` blob **`377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`**.
 
-Then perform **Section 3 / T1 close draft**:
+Perform an independent sentence-by-sentence / clause-by-clause bilingual fidelity review. Check:
 
-1. translate the complete numbered Section 3 paragraph by paragraph from the frozen Tamil assembly;
-2. preserve every source-page boundary comment;
-3. preserve rhetorical questions, repetition, exclamations, direct address, imagery, humour and abrupt turns;
-4. apply verified Section 1–2 lexicon decisions only where the same Tamil function genuinely recurs;
-5. do not import published English translations or external explanatory names;
-6. create/update `translations/en/03-section-03.md` with `translation_status: "draft"` and the exact frozen Tamil blob in front matter;
-7. record the T1 English blob and synchronize controls;
-8. stop after T1; **do not start Section 3 T2 in the same activity**.
+1. no omitted Tamil sentence/clause and no added English claim;
+2. the iyal/music/koothu historical-order argument and all emphatic `தான்` constructions;
+3. source sound-signals and the movements/gestures/sound/word progression;
+4. dictionary/new-word discussion, negatives and duties stated for speakers;
+5. both old-style preamble quotations, especially the first quotation’s source punctuation irregularity;
+6. Socrates / Karl Marx / Ingersoll / Thanthai Periyar quotation and all source epithets;
+7. Brahma/caste passage and repeated `ஒரே குலம்தான்—மனித குலம்தான்` structure;
+8. connection between lips/words and the heart/feeling;
+9. the Legislative Assembly member anecdote and every occurrence of `மலிவு / மலிவான வாக்குறுதி`;
+10. all **7/7** source-page comments;
+11. rhetorical questions, repetition, exclamations, comparisons and causal/logical connectors.
 
-Do not modify frozen Tamil.
+Record every T2 correction transparently in `translations/en/TRANSLATION_REVIEW.md`. Update `LEXICON.md` only where a T1 terminology choice changes. If T2 passes, set `translation_status: "fidelity-reviewed"`, record the post-T2 English blob, synchronize controls, and set the next activity to **Section 3 T3 Kalaignar voice review**.
+
+**Do not start T3 in the same activity. Do not modify frozen Tamil.**
 
 ---
 
