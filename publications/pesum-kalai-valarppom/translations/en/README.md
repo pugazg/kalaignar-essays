@@ -11,10 +11,11 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - frozen Tamil assemblies — **19/19**;
 - E0 planning / workspace bootstrap — **COMPLETE / PASS**;
 - T0 source prerequisite — **19/19 PASS**;
-- English article body files — **0/19**;
-- T1 / T2 / T3 / T4 / T5 — **0/19** at every gate;
-- unresolved English/source-prerequisite blockers — **0**;
-- frozen Tamil edits during English startup — **0**.
+- English article body files — **1/19**;
+- T1 close draft — **1/19**;
+- T2 / T3 / T4 / T5 — **0/19** at each gate;
+- unresolved English blockers — **0**;
+- frozen Tamil edits during English work — **0**.
 
 Frozen baseline commit used for E0/T0: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**. Exact per-section Tamil blob SHAs are frozen in [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md) and duplicated in [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md) for review provenance.
 
@@ -26,7 +27,7 @@ The source supplies numeric sections only. No descriptive English section titles
 
 | # | Tamil authority | T0 | T1 | T2 | T3 | T4 | T5 | English status |
 |---:|---|---|---|---|---|---|---|---|
-| 1 | `articles/01-section-01.md` | **PASS** | — | — | — | — | — | not-started |
+| 1 | `articles/01-section-01.md` | **PASS** | **PASS** | — | — | — | — | **draft** |
 | 2 | `articles/02-section-02.md` | **PASS** | — | — | — | — | — | not-started |
 | 3 | `articles/03-section-03.md` | **PASS** | — | — | — | — | — | not-started |
 | 4 | `articles/04-section-04.md` | **PASS** | — | — | — | — | — | not-started |
@@ -46,13 +47,17 @@ The source supplies numeric sections only. No descriptive English section titles
 | 18 | `articles/18-section-18.md` | **PASS** | — | — | — | — | — | not-started |
 | 19 | `articles/19-section-19.md` | **PASS** | — | — | — | — | — | not-started |
 
+## Section 1 T1 authority
+
+- Tamil: `../../articles/01-section-01.md` — **`e5517b7cc344554d51af4092599059d481039c1e`**;
+- English T1 draft: [`01-section-01.md`](01-section-01.md) — **`d36aec208ea15b970795a7717dd770d2d27251d8`**;
+- source span: scans **7–12 / printed pp.5–10**;
+- English publication-title draft: **Let Us Develop the Art of Speaking** — provisional until T3;
+- T2–T5: **pending**.
+
 ## File convention
 
-Future English body files use:
-
-`01-section-01.md` through `19-section-19.md`
-
-Each must record its exact frozen `source_tamil_blob_sha` in front matter and retain source-page boundary comments in English form for traceability.
+English body files use `01-section-01.md` through `19-section-19.md`. Each records its exact frozen `source_tamil_blob_sha` and retains source-page boundary comments for traceability.
 
 ## Binding repository rule
 
@@ -60,4 +65,4 @@ Exact source `உடன்பிறப்பே` → **`Udanpirappē`**; as dire
 
 ## Exact next activity
 
-**E1 — Section 1 / T1 voice-calibration draft.** Reconfirm the frozen Tamil blob before writing, translate every paragraph without omission or added claim, preserve rhetorical questions/repetition/quotations/page-boundary comments, and leave the result at `draft` until T2–T5 are completed.
+**E1 — Section 1 / T2 bilingual fidelity review.** Re-read frozen Tamil blob `e5517b7cc344554d51af4092599059d481039c1e` and English T1 blob `d36aec208ea15b970795a7717dd770d2d27251d8` side by side. Check every sentence/clause, name, number, quotation, negative, logical connector, repetition and all six source-page boundaries. Record every correction transparently. Do not start T3 until T2 passes.
