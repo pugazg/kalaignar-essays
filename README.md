@@ -14,7 +14,7 @@ Publications **1–10 are RELEASE COMPLETE / FROZEN**.
 
 Workspace: `publications/pesum-kalai-valarppom/`
 
-**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 COMPLETE / PASS — 82/82 VERIFIED. P3 NEXT.**
+**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 COMPLETE / PASS — 82/82 VERIFIED. P3 COMPLETE / PASS — 19/19 assemblies. P4 NEXT.**
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`, SHA-256 `73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`, **105,698,402 bytes**, **82 image-only scans**; source PDF committed — **No**.
 
@@ -28,11 +28,13 @@ Source identity / witness distinction:
 
 P1: **82/82** scans mapped; scans 1–2 outside pagination; scans 3–82 = pp.1–80; section starts/ends **19/19 / 19/19**; 12 shared mid-page transitions; suppressed/inferred folios on `3,4,5,6,7,42,45,48,59,64,75`; blockers **0**.
 
-P2: **82/82 canonical page records directly VERIFIED**, contiguous scans **1–82**, printed pp.**1–80 COMPLETE**, unresolved source/P2 blockers **0**, assemblies **0**, silent normalization **0**. Scan 74 closes section 17; scan 75 opens section 18 with suppressed/inferred p.73; scan 79 preserves `18→19`; scan 82 closes section 19 and the source.
+P2: **82/82 canonical page records directly VERIFIED**, contiguous scans **1–82**, printed pp.**1–80 COMPLETE**, unresolved source/P2 blockers **0**, silent normalization **0**. Scan 74 closes section 17; scan 75 opens section 18 with suppressed/inferred p.73; scan 79 preserves `18→19`; scan 82 closes section 19 and the source.
+
+P3: **19/19 source-numbered Tamil assemblies COMPLETE / PASS**, `articles/01-section-01.md` through `articles/19-section-19.md`, representing main-work scans **7–82 / pp.5–80**. Missing/extra assemblies **0/0**; unresolved assembly readings **0**; shared transition scans remain split at source-visible numbered-section boundaries. Full record: `publications/pesum-kalai-valarppom/P3_ASSEMBLY_AUDIT.md`.
 
 Documented source corrections include scan 13 `வீட்டான்` → `வீடுதான்` and scan 74 draft `வாரியிலே` / `வாரிக்கு` → source-visible `வரியிலே` / `வரிக்கு`.
 
-Exact next activity: **P3 — assemble the Tamil reading copy from the 82 canonical page records.** English remains blocked until Tamil P0–P5 freeze.
+Exact next activity: **P4 — source audit / completeness review** across source metadata, all 82 page records, all 19 assemblies, indexes, physical-copy/source-witness distinctions and correction provenance. P5 and English remain blocked until their gates.
 
 ### Publication 10 — மீசை முளைத்த வயதில் — FROZEN
 
