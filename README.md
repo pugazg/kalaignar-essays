@@ -14,7 +14,7 @@ Publications **1–10 are RELEASE COMPLETE / FROZEN**.
 
 Workspace: `publications/pesum-kalai-valarppom/`
 
-**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 COMPLETE / PASS — 82/82 VERIFIED. P3 COMPLETE / PASS — 19/19 assemblies. P4 COMPLETE / PASS. P5 IN PROGRESS — 40/82 PASS.**
+**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 COMPLETE / PASS — 82/82 VERIFIED. P3 COMPLETE / PASS — 19/19 assemblies. P4 COMPLETE / PASS. P5 IN PROGRESS — 50/82 PASS.**
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`, SHA-256 `73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`, **105,698,402 bytes**, **82 image-only scans**; source PDF committed — **No**.
 
@@ -28,17 +28,17 @@ Source identity / witness distinction:
 
 P1: **82/82** scans mapped; scans 1–2 outside pagination; scans 3–82 = pp.1–80; section starts/ends **19/19 / 19/19**; 12 shared mid-page transitions; suppressed/inferred folios on `3,4,5,6,7,42,45,48,59,64,75`; blockers **0**.
 
-P2: **82/82 canonical page records directly VERIFIED**, contiguous scans **1–82**, printed pp.**1–80 COMPLETE**, unresolved source/P2 blockers **0**, silent normalization **0**. Scan 74 closes section 17; scan 75 opens section 18 with suppressed/inferred p.73; scan 79 preserves `18→19`; scan 82 closes section 19 and the source.
+P2: **82/82 canonical page records directly VERIFIED**, contiguous scans **1–82**, printed pp.**1–80 COMPLETE**, unresolved source/P2 blockers **0**, silent normalization **0**.
 
-P3: **19/19 source-numbered Tamil assemblies COMPLETE / PASS**, `articles/01-section-01.md` through `articles/19-section-19.md`, representing main-work scans **7–82 / pp.5–80**. Missing/extra assemblies **0/0**; unresolved assembly readings **0**; shared transition scans remain split at source-visible numbered-section boundaries. Full record: `publications/pesum-kalai-valarppom/P3_ASSEMBLY_AUDIT.md`.
+P3: **19/19 source-numbered Tamil assemblies COMPLETE / PASS**, `articles/01-section-01.md` through `articles/19-section-19.md`, representing main-work scans **7–82 / pp.5–80**. Missing/extra assemblies **0/0**; unresolved assembly readings **0**. Full record: `publications/pesum-kalai-valarppom/P3_ASSEMBLY_AUDIT.md`.
 
-P4: **COMPLETE / PASS**. Source identity, the **82/82** canonical page-record inventory, **19/19** assemblies, section/page maps, front-matter/physical-copy distinctions, suppressed/inferred folios and correction provenance were reconciled. Missing/duplicate page records **0/0**, missing/extra assemblies **0/0**, mapping/boundary drift **0**, new P4 text corrections **0**, unresolved P4 blockers **0**. Full record: `publications/pesum-kalai-valarppom/P4_SOURCE_COMPLETENESS_REVIEW.md`.
+P4: **COMPLETE / PASS**. Source identity, **82/82** page records, **19/19** assemblies, section/page maps, source-witness distinctions, suppressed/inferred folios and correction provenance reconcile with **0 unresolved P4 blockers**. Full record: `publications/pesum-kalai-valarppom/P4_SOURCE_COMPLETENESS_REVIEW.md`.
 
-P5: **IN PROGRESS — scans 1–40 / 40 of 82 PASS**. Four strict visual batches are closed with **16 source-supported corrections / 16 propagated / 0 unresolved fidelity discrepancies in the reviewed range**. The latest batch corrected scan 31 `பாணை`→`பானை`, `ஏனப்பா`→`ஏனய்யா`; scan 32 `என்றும்`→`என்றதும்`; scan 33 dialogue to `உன் மனைவி உன்னைவிட மூடமாக இருக்கிறாள்?`; scan 35 `எழும்பும்`→`எலும்பும்`, `மூந்நூறு`→`முந்நூறு`; and scan 39 `பேச்சுப்பொழுது`→`பேசும்பொழுது`, `அடுக்கு முறைகளால்`→`அடக்கு முறைகளால்`, `நினைவுபடுத்துகிறேன்`→`நினைவு படுத்துகிறேன்`. Running record: `publications/pesum-kalai-valarppom/VISUAL_TEXT_FIDELITY_REVIEW.md`.
+P5: **IN PROGRESS — scans 1–50 / 50 of 82 PASS**. Five strict visual batches are closed with **26 source-supported corrections / 26 propagated / 0 unresolved fidelity discrepancies in the reviewed range**. Batch 5 scans 41–50 added **10** corrections, including scan 42 `கைக்குழந்தை யொன்றைத்`, scan 43 `என்பதைத் தெரிந்து`, scan 47 12-dot `மிஸ்டர்............`, scan 48 `தர்க்கமுறைக்கு` / `பேராற்றல்`, scan 49 `பேச்சுத்திறனை`, and scan 50 `‘சொல்’`, `ஏம்பா!`, `புகழ்மேனியில்`, `மூச்சுத்திணறக் கூறிக்கொண்டே`. All are propagated to affected canonical records and assemblies 9–11. Running record: `publications/pesum-kalai-valarppom/VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 Documented earlier source corrections remain scan 13 `வீட்டான்` → `வீடுதான்` and scan 74 draft `வாரியிலே` / `வாரிக்கு` → source-visible `வரியிலே` / `வரிக்கு`.
 
-Exact next activity: **P5 scans 41–50 / printed pp.39–48**, preserving section changes **41→42 (8→9)**, **44→45 (9→10)**, **47→48 (10→11)** and suppressed/inferred folios **42,45,48**. English remains blocked until P5 closes and Tamil is frozen.
+Exact next activity: **P5 scans 51–60 / printed pp.49–58**, preserving scan **51 (11→12)** and scan **55 (12→13)** mid-page transitions, section 13 closure at scan **58**, section 14 top-of-page opening at scan **59**, and scan 59's suppressed/inferred p.57 folio. English remains blocked until P5 closes and Tamil is frozen.
 
 ### Publication 10 — மீசை முளைத்த வயதில் — FROZEN
 
