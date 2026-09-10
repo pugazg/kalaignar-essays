@@ -108,7 +108,7 @@ Page-boundary checks in the batch were directly confirmed: scan 7 `கவிஞ�
 **COMPLETE / PASS.**
 
 - ten additional canonical page records created and directly verified;
-- cumulative P2 state: **20 / 82 VERIFIED**;
+- cumulative P2 state after batch 2: **20 / 82 VERIFIED**;
 - contiguous verified range: scans **1–20**;
 - printed-page coverage: through **p.18**;
 - section **1→2** shared transition preserved on scan **12**;
@@ -116,11 +116,29 @@ Page-boundary checks in the batch were directly confirmed: scan 7 `கவிஞ�
 - unresolved printed-text/source readings: **0**;
 - section/article assemblies created: **0**.
 
-Direct continuation checks in this batch include scan 13 `உயர்நிலைப்பள்ளியில்` → scan 14 `நடைபெற்ற`, scan 14 `வீட்டில்` → scan 15 `உள்ள`, scan 15 `ஒலிபெருக்கியின்` → scan 16 `முன்னால்`, scan 16 `சொற்களை` → scan 17 `அடிப்படையாகக்`, and the batch-end scan 20 `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்`. Scan 21 was inspected only to secure that boundary and is not yet counted as a canonical P2 record.
+Direct continuation checks in this batch include scan 13 `உயர்நிலைப்பள்ளியில்` → scan 14 `நடைபெற்ற`, scan 14 `வீட்டில்` → scan 15 `உள்ள`, scan 15 `ஒலிபெருக்கியின்` → scan 16 `முன்னால்`, scan 16 `சொற்களை` → scan 17 `அடிப்படையாகக்`, and the batch-end scan 20 `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்`.
 
 Source-sensitive readings preserved during direct review include `தீமை தரக்கூடிய வார்த்தைகளை` on scan 12, `நாக் குழற` on scan 14, `தமிழகத்துக் கலைத் திறனை` on scan 16, and scan 19's source-visible quotation/spacing and printed `பே—2` gathering mark.
 
 A scan-13 page-record draft was corrected from `வீட்டான்` to the source-visible **`வீடுதான்`** after enlarged direct reinspection; the final canonical record is VERIFIED. No contextual normalization was applied.
+
+## P2 batch 3 — scans 21–30
+
+**COMPLETE / PASS.**
+
+- ten additional canonical page records created and directly verified;
+- cumulative P2 state: **30 / 82 VERIFIED**;
+- contiguous verified range: scans **1–30**;
+- batch printed coverage: pp.**19–28**;
+- cumulative printed-page coverage: through **p.28**;
+- section **3→4** shared transition preserved on scan **22**;
+- section **4→5** shared transition preserved on scan **27**;
+- unresolved printed-text/source readings: **0**;
+- section/article assemblies created: **0**.
+
+Direct continuation checks include scan 20 `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்`, scan 21 `அடக்க` → scan 22 `உணர்வோடு`, scan 22 `ஒரு பேச்சாளர்,` → scan 23 `ஆரம்ப காலத்தில்`, scan 23 `அண்ணாமலை` → scan 24 `அவர்களுக்குச்`, scan 24 `உரைகளானாலும்` → scan 25 `அவற்றை`, scan 25 `என்று` → scan 26 `விளம்பரம்`, scan 26 `மட்டும்` → scan 27 `மல்ல;`, scan 27 `அல்லது` → scan 28 `பெண்களுக்கோ`, scan 29 `ஆதரவு கோரி,` → scan 30 `விட்டு விரைவில்`, and batch-end scan 30 `அந்தப்` → scan 31 `பாணியில்`. Scan 31 was inspected only to secure that boundary and is not yet counted as a canonical P2 record.
+
+Source-sensitive batch-3 readings preserved include scan 22 `மலிவு`, scan 26 `அண்ணாத்துரை கச்சேரி தானே?`, scan 28 `அந்த......ப்`, and scan 30 `உணர்ச்சியையும்,எழுச்சியையும்`. Batch 3 required **0 page-record corrections** after direct verification and closes with **0 unresolved readings**.
 
 ## Gate status
 
@@ -130,10 +148,10 @@ A scan-13 page-record draft was corrected from `வீட்டான்` to the
 - printed pages mapped — **80/80 (pp.1–80)**;
 - numbered sections mapped — **19/19**;
 - P1 structural blockers — **0**;
-- P2 transcription — **IN PROGRESS / 20 of 82 VERIFIED**;
+- P2 transcription — **IN PROGRESS / 30 of 82 VERIFIED**;
 - P3/P4/P5 — **NOT STARTED**;
 - unresolved P2/source/structure blockers — **0**.
 
 ## Exact next activity
 
-**P2 batch 3 — create, transcribe and directly verify canonical page records for scans 21–30 / printed pp.19–28.** Preserve the section 3→4 mid-page transition on scan 22 and section 4→5 transition on scan 27, preserve source wording/punctuation and cross-page fragments exactly, and do not build article/section assemblies yet.
+**P2 batch 4 — create, transcribe and directly verify canonical page records for scans 31–40 / printed pp.29–38.** Preserve the section 5→6 mid-page transition on scan 31, section 6→7 transition on scan 34, and section 7→8 transition on scan 38; preserve source wording/punctuation and cross-page fragments exactly; check scan 40 against scan 41 where needed; and do not build article/section assemblies yet.
