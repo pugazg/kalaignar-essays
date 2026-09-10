@@ -58,7 +58,7 @@ The supplied scan is controlling authority. Never silently modernise, correct, n
 
 The source-visible title forms differ between cover and title page. Preserve each witness exactly; do not flatten `பேசும் கலை...` and `பேசும்கலை...` into one canonical source reading.
 
-## Publication form / user context
+## Publication form / context
 
 The source is a booklet / serial instructional essay collection arranged as **19 numbered sections**. No printed contents page is present.
 
@@ -71,8 +71,8 @@ P1 directly inspected **82 / 82** physical scans.
 - canonical page-map rows: **82 / 82**;
 - scans **1–2** outside printed pagination;
 - scans **3–82** map continuously to printed pages **1–80**;
-- sequence relation for scans 3–82: `printed page = scan - 2`;
-- suppressed folios are explicitly labelled as inferred, never represented as visibly printed;
+- `printed page = scan - 2` for scans 3–82;
+- suppressed/inferred folios are never represented as visibly printed;
 - suppressed/inferred folio scans: **3,4,5,6,7,42,45,48,59,64,75**;
 - section starts verified: **19 / 19**;
 - section ends verified: **19 / 19**;
@@ -100,58 +100,55 @@ Canonical structural authority:
 
 Do not normalise the 1981 publisher-note date to the 1996 edition year. Do not invent descriptive names for sections 1–19.
 
-## P2 batches 1–3 — COMPLETE / PASS
+## P2 batches 1–4 — COMPLETE / PASS
 
-Scans **1–30 / through printed p.28** have canonical VERIFIED page records.
+Scans **1–40 / through printed p.38** have canonical VERIFIED page records.
 
-- shared transitions preserved before batch 4: scan 12 `1→2`, scan 16 `2→3`, scan 22 `3→4`, scan 27 `4→5`;
+- shared transitions preserved: scan 12 `1→2`, scan 16 `2→3`, scan 22 `3→4`, scan 27 `4→5`, scan 31 `5→6`, scan 34 `6→7`, scan 38 `7→8`;
 - unresolved readings: **0**;
 - assemblies: **0**;
-- one documented P2 page-record correction remains: scan 13 draft `வீட்டான்` → source-visible **`வீடுதான்`** after enlarged direct reinspection;
-- batch-3 page-record corrections: **0**.
+- one documented P2 page-record correction remains: scan 13 draft `வீட்டான்` → source-visible **`வீடுதான்`** after enlarged direct reinspection.
 
-Source-sensitive prior forms that must not regress include scan 12 `தீமை தரக்கூடிய வார்த்தைகளை`, scan 14 `நாக் குழற`, scan 16 `தமிழகத்துக் கலைத் திறனை`, scan 19 printed `பே—2`, scan 22 `மலிவு`, scan 26 `அண்ணாத்துரை கச்சேரி தானே?`, scan 28 `அந்த......ப்`, and scan 30 `உணர்ச்சியையும்,எழுச்சியையும்`.
+Source-sensitive prior forms that must not regress include scan 12 `தீமை தரக்கூடிய வார்த்தைகளை`, scan 14 `நாக் குழற`, scan 16 `தமிழகத்துக் கலைத் திறனை`, scan 19 printed `பே—2`, scan 22 `மலிவு`, scan 26 `அண்ணாத்துரை கச்சேரி தானே?`, scan 28 `அந்த......ப்`, scan 30 `உணர்ச்சியையும்,எழுச்சியையும்`, scan 31 `அங்கு மிங்கும்`, scan 34 `மாவது`, scan 35 `ஏழை களுக்காகப்` / `கோபைடுகிறான்` plus printed `பே—3`, scan 37 `கிடக்கு : வெங்காயம்!`, scan 39 `“அ” வுக்கு “அ”, “க” வுக்கு “க”`, and scan 40 `எடுத்துவரச்சொன்னால்`, `பிர்மாண்ட`, `வேலையற்றதுகள்`.
 
-## P2 batch 4 — COMPLETE / PASS
+## P2 batch 5 — COMPLETE / PASS
 
-Scans **31–40 / printed pp.29–38** were directly inspected and now have canonical VERIFIED page records.
+Scans **41–50 / printed pp.39–48** were directly inspected and now have canonical VERIFIED page records.
 
 - new records: **10**;
-- cumulative P2 page records: **40 / 82 VERIFIED**;
-- contiguous verified range: scans **1–40**;
-- printed-page coverage: through **p.38**;
-- scan 31 section **5→6** mid-page transition: **PRESERVED / VERIFIED**;
-- scan 34 section **6→7** mid-page transition: **PRESERVED / VERIFIED**;
-- scan 38 section **7→8** mid-page transition: **PRESERVED / VERIFIED**;
+- cumulative P2 page records: **50 / 82 VERIFIED**;
+- contiguous verified range: scans **1–50**;
+- printed-page coverage: through **p.48**;
+- scan 41 section 8 closes at page end;
+- scan 42 section 9 opens at page top — p.40 **suppressed / inferred**;
+- scan 44 section 9 closes at page end;
+- scan 45 section 10 opens at page top — p.43 **suppressed / inferred**;
+- scan 47 section 10 closes at page end;
+- scan 48 section 11 opens at page top — p.46 **suppressed / inferred**;
 - unresolved printed-text/source/structure blockers: **0**;
 - assemblies created: **0**;
-- batch-4 page-record corrections after direct verification: **0**.
+- batch-5 page-record corrections after final direct verification: **0**.
 
-Direct continuation checks include:
+Direct continuation / boundary checks include:
 
-- scan 30 `அந்தப்` → scan 31 `பாணியில்`;
-- scan 31 `மாட்டைக்` → scan 32 `கொடுத்துவிட்டு`;
-- scan 33 `நன்னிலம் நடராசன்` → scan 34 `இந்தக் கதையைச்`;
-- scan 34 `விளம்பரப்படுத்தப்பட்டு` → scan 35 `நடைபெற்ற`;
-- scan 38 `தொடக்கக் காலத்திலே` → scan 39 `அவரது பேச்சில்`;
-- scan 40 `பொருள்` → scan 41 `என்றால், அதனை`.
+- scan 40 `பொருள்` → scan 41 `என்றால், அதனை`;
+- scan 46 `சிக்கவைக்க` → scan 47 `வேண்டுமென்று`;
+- scan 47 section 10 closes at page end; scan 48 opens source-visible section `11` at page top;
+- scan 49 `மதிப்புக்குரிய தோழர்` → scan 50 `களுக்குப் பதிலாக`;
+- scan 50 ends `“கருவுற்றிருக்கிறேன்” என்றும் பொருள் உண்டு!`; scan 51 begins new paragraph `அடிசன் இப்படித் திணறிக் கொண்டிருந்தபோது,`.
 
-Scan 41 was inspected only to close the batch-4 boundary and is **not yet counted** as a P2 canonical record.
+Source-sensitive readings secured in batch 5 include:
 
-Source-sensitive readings secured in batch 4 include:
-
-- scan 31 — `அங்கு மிங்கும்`;
-- scan 34 — unusual source-visible `மாவது`;
-- scan 35 — source spacing `ஏழை களுக்காகப்`, source-visible `கோபைடுகிறான்`, and printed gathering/signature mark `பே—3` separated from prose;
-- scan 37 — source-visible `கிடக்கு : வெங்காயம்!`;
-- scan 39 — exact spacing `“அ” வுக்கு “அ”, “க” வுக்கு “க”`;
-- scan 40 — `எடுத்துவரச்சொன்னால்`, `பிர்மாண்ட`, `வேலையற்றதுகள்`.
+- scan 47 — `திருவல்லுவரை`, `தமிஷ்`, `வாலை! வாலைவிடு`, plus source ellipsis/punctuation sequences;
+- scan 48 — `தாக்குமுறைக்கு`, `அழகுபடக்`, and source-visible section numeral `11` with suppressed/inferred p.46;
+- scan 49 — source spacing distinction `செத்து விட்டார்கள்` / `செத்துவிட்டார்கள்` and cross-page fragment `மதிப்புக்குரிய தோழர்`;
+- scan 50 — `அயோத்தியாபுரியா? அஸ்தினாபுரியா?`, `மிதிலாபுரி`, `புகழ்மேணியில்`, `I conceive, conceive, conceive`, `மூச்சுத்திணற`.
 
 ## Tamil archival gate status
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
-- P2 page-level transcription — **IN PROGRESS / 40 of 82 VERIFIED**;
+- P2 page-level transcription — **IN PROGRESS / 50 of 82 VERIFIED**;
 - P3 assemblies — **NOT STARTED**;
 - P4 source/completeness audit — **NOT STARTED**;
 - P5 strict visual word/punctuation fidelity — **NOT STARTED**;
@@ -170,27 +167,27 @@ Permanent repository rule: exact source `உடன்பிறப்பே` → 
 
 ## Exact next activity
 
-**P2 batch 5 — scans 41–50 page-level transcription and direct verification.**
+**P2 batch 6 — scans 51–60 page-level transcription and direct verification.**
 
 In one coherent batch:
 
-1. inspect scans **41–50** directly;
+1. inspect scans **51–60** directly;
 2. create canonical page records for all ten scans;
-3. use the P1 printed-folio map exactly: scans 41–50 = printed pp.39–48;
-4. scan **41** remains section 8 and closes section 8 at page end;
-5. scan **42** opens section 9 at page top; its p.40 folio is **suppressed / inferred**, not visibly printed;
-6. scan **44** closes section 9 at page end;
-7. scan **45** opens section 10 at page top; its p.43 folio is **suppressed / inferred**;
-8. scan **47** closes section 10 at page end;
-9. scan **48** opens section 11 at page top; its p.46 folio is **suppressed / inferred**;
+3. use the P1 printed-folio map exactly: scans 51–60 = printed pp.49–58;
+4. preserve scan **51** section **11→12** mid-page transition;
+5. scans 52–54 remain section 12;
+6. preserve scan **55** section **12→13** mid-page transition;
+7. scans 56–58 remain section 13, with section 13 ending at scan **58** page end;
+8. scan **59** opens section 14 at page top; its p.57 folio is **suppressed / inferred**, not visibly printed;
+9. scan 60 remains section 14;
 10. transcribe only source-visible print and preserve wording, punctuation, paragraphing, quotations and cross-page fragments exactly;
 11. keep handwriting/stamps/physical-copy marks separate if encountered;
 12. mark each record VERIFIED only after direct visual comparison;
-13. check scan **50→51** where needed to close the batch boundary;
+13. check scan **60→61** where needed to close the batch boundary;
 14. do not create section/article assemblies yet;
 15. synchronize publication trackers, root handover and next prompt after the ten-page batch.
 
-If all ten records close with no blocker, P2 should advance to **50 / 82 VERIFIED**.
+If all ten records close with no blocker, P2 should advance to **60 / 82 VERIFIED**.
 
 ---
 
