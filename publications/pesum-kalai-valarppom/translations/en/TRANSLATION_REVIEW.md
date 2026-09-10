@@ -115,7 +115,20 @@ Final T2 checks:
 
 No Section 3 lexicon entry changed at T2; the 17 working decisions remain provisional pending T3/T4.
 
-T3 / T4 / T5 — **pending**.
+T3 / ### T4 terminology / quotation / citation audit
+
+**COMPLETE / PASS after 1 terminology correction.**
+
+Post-T4 English blob: **`ac4f9e799b00952891fb8d5539449a6e8aaea9d5`**.  
+`translation_status` remains **voice-reviewed** pending T5.
+
+T4 correction:
+
+- `old man of wisdom of Athens` → **`wise elder of Athens`** for frozen Tamil `அறிவுக் கிழவன்`; preserves the source epithet naturally without outside biographical expansion.
+
+T4 final checks: Section 3 working decisions **17/17 approved**; `iyal / music / koothu` **PASS**; source sound-signals **PASS**; `preamble / this humble one / swan` **PASS**; frozen `science and experience` wording **PASS / deliberately retained**; Socrates/Karl Marx/Ingersoll/Thanthai Periyar source labels **PASS**; Brahma/caste passage **PASS**; `cheap / cheap promise` wordplay **PASS**; first preamble’s source-missing closing quote **preserved**; page comments **7/7**; external/published wording imported **No**; unresolved T4 issues **0**.
+
+T5 — **pending**.
 
 ---
 
@@ -128,7 +141,7 @@ T3 / T4 / T5 — **pending**.
 | T1 close draft | **3/19** |
 | T2 bilingual fidelity | **3/19** |
 | T3 Kalaignar voice | **3/19** |
-| T4 terminology / quotation / citation | **2/19** |
+| T4 terminology / quotation / citation | **3/19** |
 | T5 section verification | **2/19** |
 | Verified English articles | **2/19** |
 | English body files | **3/19** |
@@ -137,4 +150,4 @@ Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0*
 
 ## Exact next activity
 
-**E1 — Section 3 / T4 terminology / quotation / citation audit.** Re-fetch frozen Tamil blob `21904dd457bb3455230de06421ff2d906ac4958d` and post-T3 English blob `00581593374a42a7f132fd3434684a52038b19d4`. Audit all 17 Section 3 working lexicon/source decisions, proper names and epithets, both old-style preamble quotations, source sound-signals, the Socrates–Marx–Ingersoll–Periyar passage, Brahma/caste wording, `மலிவு` wordplay, the source-missing closing quotation mark and all 7/7 page comments. Record every T4 correction transparently. Do not start T5 in the same gate.
+**E1 — Section 3 / T5 article verification.** Revalidate frozen Tamil blob `21904dd457bb3455230de06421ff2d906ac4958d` and post-T4 English blob `ac4f9e799b00952891fb8d5539449a6e8aaea9d5`; reconcile T0–T4 provenance, metadata, source span, all 7/7 page comments, T2/T3/T4 correction counts, 17 T4-approved decisions, quotation irregularity, and unresolved counts. If clean, promote status only to `verified` and stop before Section 4.
