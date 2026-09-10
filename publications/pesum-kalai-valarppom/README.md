@@ -8,7 +8,7 @@ Workspace: `publications/pesum-kalai-valarppom/`
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
-- P2 page-level transcription — **IN PROGRESS / 20 of 82 VERIFIED**;
+- P2 page-level transcription — **IN PROGRESS / 30 of 82 VERIFIED**;
 - P3 assemblies — **NOT STARTED**;
 - P4 source/completeness audit — **NOT STARTED**;
 - P5 strict visual word/punctuation fidelity — **NOT STARTED**;
@@ -68,28 +68,34 @@ Section openings are scans `7,12,16,22,27,31,34,38,42,45,48,51,55,59,64,67,70,75
 
 ## P2 progress
 
-Batch 1, scans **1–10**, is **COMPLETE / PASS**. Batch 2, scans **11–20**, is also **COMPLETE / PASS**.
+Batches 1–3, scans **1–30**, are **COMPLETE / PASS**.
 
-- canonical records created / directly verified: **20 / 82**;
-- contiguous verified range: scans **1–20**;
-- printed coverage: through **p.18**;
+- canonical records created / directly verified: **30 / 82**;
+- contiguous verified range: scans **1–30**;
+- printed coverage: through **p.28**;
 - unresolved printed-text/source-distinction blockers: **0**;
 - assemblies created: **0**;
 - scan 5 remains a separate physical-copy annotation record with **no printed publication text**;
-- scan 12 preserves the source-visible section **1→2** mid-page transition;
-- scan 16 preserves the source-visible section **2→3** mid-page transition.
+- shared transitions preserved in canonical records: scan **12** `1→2`, scan **16** `2→3`, scan **22** `3→4`, scan **27** `4→5`.
 
-Batch-2 direct page-boundary checks include:
+Batch-3 direct page-boundary checks include:
 
-- scan 13 `உயர்நிலைப்பள்ளியில்` → scan 14 `நடைபெற்ற`;
-- scan 14 `வீட்டில்` → scan 15 `உள்ள`;
-- scan 15 `ஒலிபெருக்கியின்` → scan 16 `முன்னால்`;
-- scan 16 `சொற்களை` → scan 17 `அடிப்படையாகக்`;
-- scan 20 `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்`.
+- scan 20 `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்`;
+- scan 21 `அடக்க` → scan 22 `உணர்வோடு`;
+- scan 22 `ஒரு பேச்சாளர்,` → scan 23 `ஆரம்ப காலத்தில்`;
+- scan 23 `அண்ணாமலை` → scan 24 `அவர்களுக்குச்`;
+- scan 24 `உரைகளானாலும்` → scan 25 `அவற்றை`;
+- scan 25 `என்று` → scan 26 `விளம்பரம்`;
+- scan 26 `மட்டும்` → scan 27 `மல்ல;`;
+- scan 27 `அல்லது` → scan 28 `பெண்களுக்கோ`;
+- scan 29 `ஆதரவு கோரி,` → scan 30 `விட்டு விரைவில்`;
+- scan 30 `அந்தப்` → scan 31 `பாணியில்`.
 
-Scan 21 was inspected only to close the batch boundary and is not yet counted as a P2 page record.
+Scan 31 was inspected only to close the batch boundary and is not yet counted as a P2 page record.
 
-A scan-13 draft reading `வீட்டான்` was corrected after enlarged direct source review to source-visible **`வீடுதான்`** before batch closure. Other source-sensitive readings preserved include scan 12 `தீமை தரக்கூடிய வார்த்தைகளை`, scan 14 `நாக் குழற`, scan 16 `தமிழகத்துக் கலைத் திறனை`, and scan 19's source-visible quotation spacing and printed `பே—2` gathering mark.
+Source-sensitive batch-3 readings retained without normalization include scan 22 `மலிவு`, scan 26 `அண்ணாத்துரை கச்சேரி தானே?`, scan 28 `அந்த......ப்`, and scan 30 `உணர்ச்சியையும்,எழுச்சியையும்`. Batch 3 closed with **0 unresolved readings** and **0 page-record corrections**.
+
+Earlier correction provenance remains: scan-13 draft `வீட்டான்` was corrected after enlarged source review to source-visible **`வீடுதான்`**.
 
 ## Physical-copy/source distinctions
 
@@ -106,4 +112,4 @@ Printed text and physical-copy marks remain separate in canonical page records.
 
 ## Exact next activity
 
-**P2 batch 3 — scans 21–30 / printed pp.19–28.** Create, transcribe and directly verify ten more canonical page records, preserving the section **3→4** mid-page transition on scan 22 and section **4→5** transition on scan 27, source punctuation and cross-page fragments exactly. Do not build section assemblies yet.
+**P2 batch 4 — scans 31–40 / printed pp.29–38.** Create, transcribe and directly verify ten more canonical page records, preserving the section **5→6** mid-page transition on scan 31, section **6→7** transition on scan 34, and section **7→8** transition on scan 38. Check scan 40 against scan 41 where needed for the batch boundary. Do not build section assemblies yet.
