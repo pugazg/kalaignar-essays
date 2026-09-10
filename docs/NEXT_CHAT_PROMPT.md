@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / P5 strict visual fidelity
+# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / P5 scans 11–20
 
 Continue in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -18,30 +18,34 @@ Fetch live `main` first. Root `HANDOVER.md` is the **single authoritative projec
 - image-only
 - source PDF must **not** be committed
 
-The supplied scan is controlling authority. OCR/parsed text is not authority. Never silently modernise, correct, normalize or reconstruct Tamil.
+Source pixels are controlling authority. Never silently modernise, context-correct, normalize or reconstruct Tamil.
 
 ## Durable gate state
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
-- P2 — **COMPLETE / PASS — 82 of 82 VERIFIED**;
-- P3 — **COMPLETE / PASS — 19 of 19 assemblies**;
+- P2 — **COMPLETE / PASS — 82/82 VERIFIED**;
+- P3 — **COMPLETE / PASS — 19/19 assemblies**;
 - P4 — **COMPLETE / PASS**;
-- P5 — **NOT STARTED / NEXT**;
-- English — **NOT STARTED / BLOCKED until Tamil freeze**;
-- unresolved Tamil/source/assembly/completeness blockers entering P5 — **0**.
+- P5 — **IN PROGRESS — scans 1–10 / 10 of 82 PASS**;
+- P5 corrections found / propagated — **2 / 2**;
+- unresolved fidelity discrepancies in reviewed P5 range — **0**;
+- English — **NOT STARTED / BLOCKED until Tamil freeze**.
 
-P4 dedicated record: `publications/pesum-kalai-valarppom/P4_SOURCE_COMPLETENESS_REVIEW.md`.
+Running P5 record: `publications/pesum-kalai-valarppom/VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-P4 found:
+## P5 batch 1 durable findings
 
-- canonical page records **82/82**, `0001–0082` contiguous;
-- missing / duplicate scan records **0 / 0**;
-- assemblies **19/19 source-complete**, `01-section-01.md` through `19-section-19.md`;
-- source/section/page-map drift **0**;
-- shared-transition duplication / omission defects **0**;
-- new P4 text corrections **0**;
-- unresolved P4 blockers **0**.
+`P5-001-010` — **PASS**.
+
+- scan 4 / inferred p.2: old `By : Kalaignar M. Karunanidhi` → direct source-visible **`By : Kalaingnar M. Karunanidhi`**; canonical front-matter record corrected;
+- scan 7 / inferred p.5: old opening `‘வெண்ணிலாவும்` → direct source-visible **`“வெண்ணிலாவும்`**; corrected in the page record and propagated to `articles/01-section-01.md`;
+- scans `3,4,5,6,7` remain suppressed/inferred folios;
+- scan 5 remains later handwriting only, printed publication text **0**;
+- scan 7 `கவிஞரின்` → scan 8 `கவிதைச்`;
+- scan 8 `பிரச்` → scan 9 `சினைகளைப்`;
+- scan 9 `சிந்தித்` → scan 10 `துப் பார்த்து`;
+- scan 10 `கொண்` → scan 11 `டிருப்பார்.`; scan 11 was boundary evidence only and is **not counted** as P5-reviewed.
 
 ## Structural facts that must not regress
 
@@ -52,22 +56,13 @@ P4 found:
 - top-of-page section openings: `7,42,45,48,59,64,75`;
 - suppressed/inferred folios: `3,4,5,6,7,42,45,48,59,64,75`;
 - no printed contents page;
-- no separate back-cover scan;
-- scan 5 is physical-copy handwriting with **no printed publication text**.
+- no separate back-cover scan.
 
-## Source-witness distinctions / non-regression readings
-
-- scan 1 cover: `பேசும் கலை வளர்ப்போம்`;
-- scan 3 title page: `பேசும்கலை வளர்ப்போம்`;
-- scan 6 `பதிப்புரை` date: `15—7—81`;
-- scan 13 source correction: `வீடுதான்`;
-- scan 74 source correction provenance: draft `வாரியிலே` / `வாரிக்கு` → source-visible `வரியிலே` / `வரிக்கு`; body phrases `ஒரே வரியிலே` / `ஒரு வரிக்கு மேல்`;
-- scan 81 `முழுவாழ்வு வாழ` → scan 82 `விடாமல் நம்மிடமிருந்து பறித்துக்கொண்டு விட்டது.`;
-- preserve `(Mannerism)`, `மேனரிசம்`, `தவிர்க்கவொண்ணாத`, `ஷம்சுதீன்`, `நாலுகால்`, `கி. ஆ. பெ. விசுவநாதம்`, `காயிதே மில்லத்`, `தேனினுமினிய`, `நாற்பத்தி ஆறு`, `1962-ல்`, `நாஞ்சில் கி. மனோகரன்`, `“வாலிபப் பெரியார்”`, `எ.வி.பி. ஆசைத்தம்பி`, `என். வி. நடராசனார்` without normalization.
+Permanent source-sensitive readings include scan-6 `15—7—81`, scan-13 `வீடுதான்`, scan-74 `வரியிலே` / `வரிக்கு`, `(Mannerism)`, `மேனரிசம்`, `ஷம்சுதீன்`, `நாலுகால்`, `கி. ஆ. பெ. விசுவநாதம்`, `காயிதே மில்லத்`, `நாற்பத்தி ஆறு`, `1962-ல்`, `“வாலிபப் பெரியார்”`, `எ.வி.பி. ஆசைத்தம்பி`, `என். வி. நடராசனார்`, plus P5-confirmed scan-4 **`Kalaingnar`** and scan-7 double opening quotation mark.
 
 ## Mandatory startup
 
-Read completely before P5 work:
+Read completely before source-dependent work:
 
 1. `ESSAY_PROCESSING_GUIDE.md`
 2. `docs/FUTURE_WORK_GUIDELINES.md`
@@ -80,24 +75,22 @@ Read completely before P5 work:
 9. `audit.md`
 10. `P3_ASSEMBLY_AUDIT.md`
 11. `P4_SOURCE_COMPLETENESS_REVIEW.md`
-12. canonical page records and affected assemblies during the strict review
+12. `VISUAL_TEXT_FIDELITY_REVIEW.md`
+13. canonical records `pages/0011...0020...` and affected assemblies
 
-## Exact next activity — P5
+## Exact next activity — P5 scans 11–20
 
-Perform the **final strict visual word-by-word / punctuation-by-punctuation fidelity pass over all 82 physical scans**.
+Process physical **scans 11–20 / printed pp.9–18** as one strict-review batch.
 
-1. inspect the controlling PDF pixels directly for every scan **1–82**;
-2. compare each scan against its canonical `pages/` record for every visible word, meaningful spacing/word boundary, punctuation mark, quotation mark, heading, date, number and paragraph/page continuation;
-3. include cover/front matter, scan 5, `பதிப்புரை`, every main-work page and the source end — no physical scan may be skipped;
-4. recheck folio visibility and preserve all suppressed/inferred folios as inferred rather than printed;
-5. keep later handwriting, stamps, show-through and copy-specific evidence separate from printed text;
-6. preserve source-supported unusual forms; do not context-correct or modernise them;
-7. for every discrepancy, record exact **old reading → source-visible reading** provenance;
-8. update the affected canonical page record immediately after direct confirmation and propagate the same correction into the dependent `articles/` assembly and any affected indexes/trackers;
-9. create/update `publications/pesum-kalai-valarppom/VISUAL_TEXT_FIDELITY_REVIEW.md` with scan coverage, correction ledger, propagation status and unresolved count;
-10. continue until **82/82** physical scans have passed direct P5 review, or explicitly stop on a genuine unresolved source reading rather than guessing;
-11. P5 closes only when corrections are fully propagated and unresolved fidelity discrepancies are **0**;
-12. after P5 passes, synchronize `audit.md`, publication README, metadata/indexes as needed, root README, root `HANDOVER.md`, and this prompt;
-13. **do not begin English in the same step**. English remains blocked until Tamil P5 is closed/frozen.
+1. visually inspect every source scan directly once, word-by-word and punctuation-by-punctuation;
+2. compare every visible word, meaningful spacing / word boundary, punctuation mark, quotation mark, heading, date, number, folio and page continuation with its canonical record;
+3. preserve scan **12** section **1→2** and scan **16** section **2→3** mid-page source boundaries exactly;
+4. inspect scan **21** only if needed to close the scan-20 boundary; do not count scan 21 in the batch;
+5. keep stamps, handwriting, show-through and scan noise separate from printed publication text;
+6. create crops/enhancements only when an actual reading is uncertain;
+7. for every confirmed discrepancy, record exact **old reading → source-visible reading**, update the page record immediately, and propagate it to each affected assembly;
+8. update `VISUAL_TEXT_FIDELITY_REVIEW.md` with batch coverage, corrections and unresolved count;
+9. synchronize `audit.md`, publication README, metadata and root trackers after the batch passes;
+10. do not start English while P5 remains open.
 
-P5 is the required independent final direct visual source-fidelity gate. P4 completeness reconciliation is already closed and must not be repeated instead of direct scan inspection.
+P5 closes only after **82/82** source scans are strictly reviewed, every correction is propagated, and unresolved fidelity discrepancies are **0**.
