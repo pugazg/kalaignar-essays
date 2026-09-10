@@ -34,7 +34,7 @@ Before any further English work, fetch/read fresh:
 8. `translations/en/README.md`;
 9. `translations/en/LEXICON.md`;
 10. `translations/en/TRANSLATION_REVIEW.md`;
-11. the exact frozen Tamil article and English article being reviewed.
+11. the exact frozen Tamil article and English article being worked on.
 
 ## Controlling source / identity
 
@@ -68,13 +68,14 @@ Structural authority: scans **3–82 = printed pp.1–80**; source-numbered sect
 - T2 bilingual fidelity — **1/19**;
 - T3 Kalaignar voice — **1/19**;
 - T4 terminology / quotation / citation — **1/19**;
-- T5 — **0/19**;
+- T5 article verification — **1/19**;
+- verified English articles — **1/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
-E0/T0 source baseline commit: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**.
+E0/T0 source baseline commit: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**. Exact frozen Tamil assembly SHAs remain recorded in `TRANSLATION_PLAN.md`.
 
-### Section 1 — T1 / T2 / T3 / T4 COMPLETE
+### Section 1 — VERIFIED / calibration sequence COMPLETE
 
 Tamil authority:
 
@@ -87,55 +88,43 @@ English:
 - `publications/pesum-kalai-valarppom/translations/en/01-section-01.md`;
 - T1 historical blob — `d36aec208ea15b970795a7717dd770d2d27251d8`;
 - post-T2 blob — `d185b201c1113d99400d31579e773ae167cbb8a0`;
-- post-T3 / post-T4 blob — **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**;
-- `translation_status` — **voice-reviewed**;
+- post-T3 / post-T4 blob — `bede85599ff634ef8ce7d6bd85aa6b9a9e035289`;
+- final T5 verified blob — **`76ea963ab2e14232bdbbf1a9afbe9f25ca97779a`**;
+- `translation_status` — **verified**;
 - T2 — **PASS after 6 corrections**;
 - T3 — **PASS after 4 voice corrections**;
-- T4 — **PASS with 0 English body corrections**;
+- T4 — **PASS with 0 body corrections**;
+- T5 — **PASS with 0 body corrections / status-only change**;
 - source-page comments — **6/6 retained**;
-- T5 — **pending**.
+- T4-approved lexicon/proper-name/source-label decisions — **16**;
+- unresolved Section 1 English issues — **0**.
 
-T4 audit result:
-
-- pre-existing Section 1 lexicon decisions — **11/11 PASS**;
-- Section 1 T4-approved lexicon/proper-name/source-label decisions — **16** after adding five useful source-derived entries;
-- publication title **Let Us Develop the Art of Speaking** — **T4 approved**;
-- Bharathidasan quotation/attribution — **PASS / source-based**;
-- Valluvar quotation/explanation/`Power of Speech` — **PASS / source-based**;
-- imported published English quotation wording — **No**;
-- `1970` — **PASS**;
-- Hyde Park / source `(HydePark)` — **PASS**;
-- `V. K. Krishna Menon` — **PASS**;
-- `U.N. Assembly` — **PASS**, with no unsupported `General Assembly` expansion;
-- source `உடன்பிறப்பே` occurrences in Section 1 — **0**;
-- unresolved T4 issues — **0**;
-- frozen Tamil edits — **0**.
-
-T4 required no body correction, so its English input/output blob is the same `bede85599ff634ef8ce7d6bd85aa6b9a9e035289`. Correction provenance from T2/T3 and the T4 zero-correction audit are recorded in `translations/en/TRANSLATION_REVIEW.md`.
+T5 final reconciliation passed for source blob/path/span, T0–T4 provenance, metadata, all six page markers, correction counts `6 / 4 / 0`, quotations, lexicon synchronization, unresolved counts and non-regression. The publication title **Let Us Develop the Art of Speaking** is approved through the verified Section 1 article. No published English quotation translation was imported. Frozen Tamil changes during T5: **0**.
 
 Permanent translation rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**, only where the exact Tamil form occurs. The source supplies numbered sections only; do **not** invent descriptive English section titles.
 
-## Exact next activity — E1 / Section 1 T5 article verification
+## Exact next activity — E1 / Section 2 T1 close draft
 
-Re-fetch and require:
+Before drafting Section 2:
 
-- frozen Tamil `articles/01-section-01.md` blob **`e5517b7cc344554d51af4092599059d481039c1e`**;
-- current English `translations/en/01-section-01.md` blob **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**.
+- re-fetch frozen Tamil `publications/pesum-kalai-valarppom/articles/02-section-02.md`;
+- require exact blob **`b10894b911393239e57446687c34030aff88a8e3`**;
+- source span: scans **12–16 / printed pp.10–14**;
+- if the Tamil blob differs, stop for source-drift reconciliation;
+- if an English Section 2 file has legitimately appeared on newer live `main`, preserve that newer durable state rather than overwriting it.
 
-Perform the final Section 1 verification gate:
+Then perform **Section 2 / T1 close draft**:
 
-1. reconcile T0, T1, T2, T3 and T4 provenance;
-2. confirm English front matter points to the exact frozen Tamil authority and source span scans 7–12 / pp.5–10;
-3. confirm `translation_status` is still `voice-reviewed` before T5;
-4. confirm all six source-page comments remain present and ordered;
-5. confirm T2 correction count **6**, T3 correction count **4**, T4 body correction count **0**;
-6. confirm Section 1 lexicon/T4 decisions and quotations/source labels are synchronized;
-7. confirm unresolved English blockers **0** and frozen Tamil edits **0**;
-8. confirm no source-drift or status/documentation regression.
+1. translate the complete numbered Section 2 paragraph by paragraph from the frozen Tamil assembly;
+2. preserve every source-page boundary comment;
+3. preserve rhetorical questions, repetition, exclamations, abrupt contrasts, direct address and driving dashes;
+4. use the completed Section 1 calibration and T4-approved lexicon only where the same Tamil function genuinely recurs;
+5. do not import published English translations or external explanatory names;
+6. create/update `translations/en/02-section-02.md` with `translation_status: "draft"` and the exact frozen Tamil blob in front matter;
+7. record the T1 English blob and update trackers/ledger/handover;
+8. stop after T1; **do not start Section 2 T2 in the same activity**.
 
-If every check passes, change only the English status as needed to `translation_status: "verified"`, record the resulting final verified English blob SHA in all dependent English/status records, and mark Section 1 T5 **PASS / calibration sequence COMPLETE**.
-
-**Do not start Section 2 in the same activity.** After T5 closure, Section 2 T1 will become the next activity. Do not modify frozen Tamil.
+Do not modify frozen Tamil.
 
 ---
 
