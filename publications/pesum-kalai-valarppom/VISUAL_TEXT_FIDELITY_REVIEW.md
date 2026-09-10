@@ -6,9 +6,9 @@ Source SHA-256: `73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf
 
 ## Gate status
 
-**P5 — IN PROGRESS — 70 / 82 physical scans strict-reviewed.**
+**P5 — COMPLETE / PASS — 82 / 82 physical scans strict-reviewed.**
 
-Source pixels are controlling authority. Each reviewed scan is compared directly word-by-word and punctuation-by-punctuation against its canonical page record, including headings, numbers, quotation marks, meaningful spacing / word boundaries, folios, continuations and physical-copy marks.
+Source pixels are controlling authority. Each reviewed scan was compared directly word-by-word and punctuation-by-punctuation against its canonical page record, including headings, numbers, quotation marks, meaningful spacing / word boundaries, folios, continuations and physical-copy marks.
 
 ## Coverage
 
@@ -21,10 +21,12 @@ Source pixels are controlling authority. Each reviewed scan is compared directly
 | P5-041-050 | 41–50 | pp.39–48 | **PASS** | **10** | **0** |
 | P5-051-060 | 51–60 | pp.49–58 | **PASS** | **1** | **0** |
 | P5-061-070 | 61–70 | pp.59–68 | **PASS** | **2** | **0** |
+| P5-071-080 | 71–80 | pp.69–78 | **PASS** | **3** | **0** |
+| P5-081-082 | 81–82 | pp.79–80 | **PASS** | **1** | **0** |
 
-Contiguous strict-reviewed range: **scans 1–70 / 70 of 82**.  
-Corrections found / propagated: **29 / 29**.  
-Unresolved fidelity discrepancies in reviewed range: **0**.
+Contiguous strict-reviewed range: **scans 1–82 / 82 of 82**.  
+Corrections found / propagated: **33 / 33**.  
+Unresolved fidelity discrepancies: **0**.
 
 ## P5-041-050 — direct visual findings
 
@@ -71,6 +73,28 @@ Scan 51 section **11→12** and scan 55 section **12→13** transitions are sour
 
 Scan 63→64 section **14→15** page-end/top change, scan 67 section **15→16**, and scan 70 section **16→17** transitions are source-visible and PASS. Scan 64 remains a suppressed/inferred p.62 folio. Scan 70 ends with a complete sentence; scan 71 was not required for P5 boundary closure and is not counted.
 
+## P5-071-080 — direct visual findings
+
+- scan 71 / p.69 — section 17 continuation, running head, folio, quotation punctuation and page-end continuation re-read directly; **PASS**;
+- scan 72 / p.70 — section 17 body, `ஷம்சுதீன்`, `நாலுகால்`, `“சூ! சும்மா கிட!”`, `குட்டான தேநீரை` and source line-break reconstruction re-read directly; **PASS**;
+- scan 73 / p.71 — section 17 body and source-visible sentence `அடுத்து, நான் முதலில் குறிப்பிடப்பட்டவர் பேச எழுந்தார்.` re-read directly without grammatical normalization; **PASS**;
+- scan 74 / p.72 — section 17 page-end closure, `ஒரே வரியிலே`, `ஒரு வரிக்கு மேல்`, `பதினைந்துநிமிடம்`, `ஒன்றரைமணி` re-read directly; **PASS**;
+- scan 75 / inferred p.73 — source-visible section `18`, suppressed/inferred folio, `(Mannerism)`, `மேனரிசம்`, `தவிர்க்கவொண்ணாத`, `ஒருகை`, `காப்பிக்கலர்` and page-top opening re-read directly; **PASS**;
+- scan 76 / p.74 — section 18 body, named references and `சொல்மாரிபொழிவது` re-read directly; **PASS**;
+- scan 77 / p.75 — section 18 body, word boundary and punctuation re-read directly; **2 corrections**;
+- scan 78 / p.76 — section 18 body, names and source-visible initial spacing re-read directly; **1 correction**;
+- scan 79 / p.77 — section **18→19** source-visible mid-page transition, `காயிதே மில்லத்`, `அப்துல்சமது`, `தேனினுமினிய`, `நாற்பத்தி ஆறு` re-read directly; **PASS**;
+- scan 80 / p.78 — section 19 body, colon/dash structures, `வீரமணி`, `பொதுச்செயலாளர்`, `குடிஅரசு` and scan-81 boundary re-read directly; **PASS**.
+
+Scan 74→75 section **17→18** page-end/top change and scan 79 section **18→19** mid-page transition are source-visible and PASS. Scan 75 remains a suppressed/inferred p.73 folio.
+
+## P5-081-082 — direct visual findings
+
+- scan 81 / p.79 — section 19 body, `“மேனரிசம்”`, `ஈ.வெ.கி. சம்பத்`, `“சொல்லின் செல்வர்”`, and cross-page `முழுவாழ்வு வாழ` re-read directly; **1 correction**;
+- scan 82 / p.80 — section 19 continuation and source-end closure, including `1962-ல்`, `நாஞ்சில் கி. மனோகரன்`, `“வாலிபப் பெரியார்”`, `எ.வி.பி. ஆசைத்தம்பி`, `என். வி. நடராசனார்`, and final sentence re-read directly; **PASS**.
+
+Scan 81 `முழுவாழ்வு வாழ` → scan 82 `விடாமல் நம்மிடமிருந்து பறித்துக்கொண்டு விட்டது.` continuation is directly source-supported and PASS. The faint physical underline/mark near the bottom of scan 82 is non-prose physical-copy evidence and remains excluded. Scan 82 is the source end.
+
 ## Correction ledger
 
 1. scan 4 — `Kalaignar` → **`Kalaingnar`**;
@@ -101,20 +125,26 @@ Scan 63→64 section **14→15** page-end/top change, scan 67 section **15→16*
 26. scan 50 — `மூச்சுத்திணற கூறிக்கொண்டே` → **`மூச்சுத்திணறக் கூறிக்கொண்டே`**;
 27. scan 51 — `போர்களம்` → **`போர்க்களம்`**;
 28. scan 65 — `அவைகளை ஓட்டிக் கம்பங்களிலும்` → **`அவைகளை ஒட்டி கம்பங்களிலும்`**;
-29. scan 70 — `நாவன்மையென்பதும்` → **`நாவன்மையெனப்படும்`**.
+29. scan 70 — `நாவன்மையென்பதும்` → **`நாவன்மையெனப்படும்`**;
+30. scan 77 — `அப்படி ஒரு பயிற்சியை` → **`அப்படியொரு பயிற்சியை`**;
+31. scan 77 — `பேசுவார்கள், கழுத்திலே,` → **`பேசுவார்கள். கழுத்திலே,`**;
+32. scan 78 — `கி. ஆ. பெ. விசுவநாதம்` → **`கி.ஆ.பெ. விசுவநாதம்`**;
+33. scan 81 — `அந்தக் குழுவினில் எனக்கும்` → **`அந்தக்குழுவினில் எனக்கும்`**.
 
-All **29/29** corrections are propagated to affected canonical page records and numbered-section assemblies where applicable.
+All **33/33** corrections are propagated to affected canonical page records and numbered-section assemblies where applicable.
 
-## Boundary / continuity checks through scan 70
+## Boundary / continuity checks through scan 82
 
-Source-fragment continuations and section boundaries remain valid, including scan 40 `பொருள்` → scan 41 `என்றால், அதனை`, scan 42 `ஒலிபெருக்கியில்` → scan 43 `சொல்வதற்காக`, scan 46 `சிக்கவைக்க` → scan 47 `வேண்டுமென்று`, scan 48 `காலையிலோ` → scan 49 `மாலையிலோ நடிகர்கள்`, scan 49 `மதிப்புக்குரிய தோழர்` → scan 50 `களுக்குப் பதிலாக`, scan 51 `ஆகிவிடுமென` → scan 52 `வள்ளுவர் கூறியது`, scan 53 `ஆற்றைக் கடக்க மக்கள்` → scan 54 `ஒரு பால வசதியின்றிக்`, scan 54 quotation fragment → scan 55 `கிரேக்கத்து நீதிமன்றம்`, scan 55 `ஒரு மாநில ஆட்சியைக்` → scan 56 `கவிழ்க்க முடியும் என்பதையும்`, scan 57 `வைத்துக்` → scan 58 `கொள்வோம்.`, scan 60 `அரசியல் கட்சி மேடையில்` → scan 61 `அதற்குப் பதில் அளிக்கும்போது`, scan 61 `தனது கட்சிக்காரர்களின்` → scan 62 `கைத்தட்டலை`, scan 65 `பேச்சாளர்` → scan 66 `களை இன்று காணும்போது`, and scan 67 `சொல் ஒன்றுக்கு` → scan 68 `ஐந்து ரூபாய் கொடுப்பதாக`.
+Source-fragment continuations and section boundaries remain valid, including scan 40 `பொருள்` → scan 41 `என்றால், அதனை`, scan 42 `ஒலிபெருக்கியில்` → scan 43 `சொல்வதற்காக`, scan 46 `சிக்கவைக்க` → scan 47 `வேண்டுமென்று`, scan 48 `காலையிலோ` → scan 49 `மாலையிலோ நடிகர்கள்`, scan 49 `மதிப்புக்குரிய தோழர்` → scan 50 `களுக்குப் பதிலாக`, scan 51 `ஆகிவிடுமென` → scan 52 `வள்ளுவர் கூறியது`, scan 53 `ஆற்றைக் கடக்க மக்கள்` → scan 54 `ஒரு பால வசதியின்றிக்`, scan 54 quotation fragment → scan 55 `கிரேக்கத்து நீதிமன்றம்`, scan 55 `ஒரு மாநில ஆட்சியைக்` → scan 56 `கவிழ்க்க முடியும் என்பதையும்`, scan 57 `வைத்துக்` → scan 58 `கொள்வோம்.`, scan 60 `அரசியல் கட்சி மேடையில்` → scan 61 `அதற்குப் பதில் அளிக்கும்போது`, scan 61 `தனது கட்சிக்காரர்களின்` → scan 62 `கைத்தட்டலை`, scan 65 `பேச்சாளர்` → scan 66 `களை இன்று காணும்போது`, scan 67 `சொல் ஒன்றுக்கு` → scan 68 `ஐந்து ரூபாய் கொடுப்பதாக`, and scan 81 `முழுவாழ்வு வாழ` → scan 82 `விடாமல் நம்மிடமிருந்து பறித்துக்கொண்டு விட்டது.`.
 
-Source-visible mid-page transitions already P5-reviewed and PASS: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8), 51 (11→12), 55 (12→13), 67 (15→16), 70 (16→17)**. Page-end/top section changes **41→42 (8→9), 44→45 (9→10), 47→48 (10→11), 58→59 (13→14), 63→64 (14→15)** also PASS.
+Source-visible mid-page transitions P5-reviewed and PASS: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8), 51 (11→12), 55 (12→13), 67 (15→16), 70 (16→17), 79 (18→19)**. Page-end/top section changes **41→42 (8→9), 44→45 (9→10), 47→48 (10→11), 58→59 (13→14), 63→64 (14→15), 74→75 (17→18)** also PASS.
 
-Suppressed/inferred folios through scan 70 remain correctly handled on **3,4,5,6,7,42,45,48,59,64**.
+All suppressed/inferred folios **3,4,5,6,7,42,45,48,59,64,75** remain correctly handled.
+
+## Gate closure
+
+**P5 COMPLETE / PASS — 82/82 scans, 33/33 corrections propagated, 0 unresolved fidelity discrepancies.** Tamil P0–P5 is now **COMPLETE / PASS / FROZEN**.
 
 ## Exact next activity
 
-**P5 scans 71–80 / printed pp.69–78.** Re-read directly word-by-word and punctuation-by-punctuation. Preserve scan **75** suppressed/inferred p.73 and source-visible section **18** opening; preserve scan **79** source-visible section **18→19** mid-page transition. Inspect scan **81** only if needed to close the scan-80 boundary; do not count scan 81. Record and immediately propagate every confirmed correction. English remains blocked while P5 is open.
-
-P5 closes only after **82 / 82** scans pass, every source-supported correction is propagated, and unresolved fidelity discrepancies are **0**.
+English is **NOT STARTED**. Read `ESSAY_TRANSLATION_GUIDE.md` and begin English **E0 / T0 source-prerequisite setup** against the frozen strict-reviewed Tamil assemblies before drafting any English body text.

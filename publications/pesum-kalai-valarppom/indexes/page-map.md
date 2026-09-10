@@ -2,7 +2,7 @@
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`  
 Physical scans: **82**  
-Current gate: **P5 IN PROGRESS — scans 1–70 / 70 of 82 PASS**
+Current gate: **P5 COMPLETE / PASS — scans 1–82 / 82 of 82**
 
 ## Canonical pagination rule
 
@@ -61,19 +61,21 @@ Top-of-page openings: **7,42,45,48,59,64,75**.
 - missing/extra assemblies: **0/0**;
 - pagination, section-boundary, shared-transition and suppressed-folio drift through P4: **0**.
 
-## P5 overlay — IN PROGRESS
+## P5 overlay — COMPLETE / PASS
 
-- strict-reviewed scans: **1–70 / 70 of 82**;
-- reviewed printed span: outside pagination + pp.**1–68**;
-- corrections found / propagated: **29 / 29**;
-- unresolved fidelity discrepancies in reviewed range: **0**;
-- suppressed/inferred folios rechecked so far: **3,4,5,6,7,42,45,48,59,64 — PASS**;
-- source-visible shared transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8), 51 (11→12), 55 (12→13), 67 (15→16), 70 (16→17) — PASS**;
-- page-end/top section changes rechecked: **41→42 (8→9), 44→45 (9→10), 47→48 (10→11), 58→59 (13→14), 63→64 (14→15) — PASS**;
+- strict-reviewed scans: **1–82 / 82 of 82**;
+- reviewed printed span: outside pagination + pp.**1–80 / source end**;
+- corrections found / propagated: **33 / 33**;
+- unresolved fidelity discrepancies: **0**;
+- suppressed/inferred folios rechecked: **3,4,5,6,7,42,45,48,59,64,75 — PASS**;
+- source-visible shared transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8), 51 (11→12), 55 (12→13), 67 (15→16), 70 (16→17), 79 (18→19) — PASS**;
+- page-end/top section changes rechecked: **41→42 (8→9), 44→45 (9→10), 47→48 (10→11), 58→59 (13→14), 63→64 (14→15), 74→75 (17→18) — PASS**;
+- scan 81→82 cross-page continuation — **PASS**;
+- scan 82 source-end closure — **PASS**;
 - structural section map changed by P5: **No**.
 
-Running record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
+Completed record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Exact next activity
 
-**P5 scans 71–80 / pp.69–78.** Preserve scan **75** suppressed/inferred p.73 and source-visible section **18** opening, and scan **79** section **18→19** mid-page transition. Inspect scan **81** only as boundary evidence if needed; do not count it. Propagate every source-supported correction before moving to the final P5 remainder.
+Tamil P0–P5 is **COMPLETE / PASS / FROZEN**. English is **NOT STARTED**; next stage is English E0 / T0 source-prerequisite setup against the frozen strict-reviewed Tamil assemblies.

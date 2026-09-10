@@ -37,7 +37,7 @@ Before source-dependent work, fetch/read fresh:
 11. `P4_SOURCE_COMPLETENESS_REVIEW.md`;
 12. `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-Read `ESSAY_TRANSLATION_GUIDE.md` before English work. English remains blocked until Tamil is frozen.
+Read `ESSAY_TRANSLATION_GUIDE.md` before English work. The Tamil archival prerequisite is now closed and frozen; English has not started.
 
 ## Controlling source / identity
 
@@ -72,7 +72,7 @@ All **82/82** physical scans have canonical page records and were directly compa
 
 Documented P2 corrections: scan 13 `வீட்டான்` → **`வீடுதான்`**; scan 74 `வாரியிலே` / `வாரிக்கு` → **`வரியிலே` / `வரிக்கு`**.
 
-Permanent source-sensitive readings that must not regress include `ஷம்சுதீன்`, `நாலுகால்`, `ஒரே வரியிலே`, `ஒரு வரிக்கு மேல்`, `(Mannerism)`, `மேனரிசம்`, `தவிர்க்கவொண்ணாத`, `சொல்மாரிபொழிவது`, `கி. ஆ. பெ. விசுவநாதம்`, `காயிதே மில்லத்`, `தேனினுமினிய`, `நாற்பத்தி ஆறு`, `1962-ல்`, `நாஞ்சில் கி. மனோகரன்`, `“வாலிபப் பெரியார்”`, `எ.வி.பி. ஆசைத்தம்பி`, and `என். வி. நடராசனார்`.
+Permanent source-sensitive readings that must not regress include `ஷம்சுதீன்`, `நாலுகால்`, `ஒரே வரியிலே`, `ஒரு வரிக்கு மேல்`, `(Mannerism)`, `மேனரிசம்`, `தவிர்க்கவொண்ணாத`, `சொல்மாரிபொழிவது`, `கி.ஆ.பெ. விசுவநாதம்`, `காயிதே மில்லத்`, `தேனினுமினிய`, `நாற்பத்தி ஆறு`, `1962-ல்`, `நாஞ்சில் கி. மனோகரன்`, `“வாலிபப் பெரியார்”`, `எ.வி.பி. ஆசைத்தம்பி`, and `என். வி. நடராசனார்`.
 
 ## P3 — COMPLETE / PASS
 
@@ -89,7 +89,7 @@ Shared transition scans are split only at source-visible section numerals. P3 au
 
 Source identity, **82/82** canonical records, **19/19** assemblies, pagination, source-witness distinctions, transition boundaries and correction propagation reconcile with **0 unresolved P4 discrepancies**. Dedicated record: `P4_SOURCE_COMPLETENESS_REVIEW.md`.
 
-## P5 — IN PROGRESS — 70 / 82
+## P5 — COMPLETE / PASS — 82 / 82
 
 Completed batches:
 
@@ -99,21 +99,25 @@ Completed batches:
 - `P5-031-040` — **PASS** — 9 corrections;
 - `P5-041-050` — **PASS** — 10 corrections;
 - `P5-051-060` — **PASS** — 1 correction;
-- `P5-061-070` — **PASS** — 2 corrections.
+- `P5-061-070` — **PASS** — 2 corrections;
+- `P5-071-080` — **PASS** — 3 corrections;
+- `P5-081-082` — **PASS** — 1 correction.
 
-Current totals:
+Final totals:
 
-- strict-reviewed: **70/82**;
-- P5 corrections found: **29**;
-- corrections propagated: **29/29**;
-- unresolved fidelity discrepancies in reviewed range: **0**.
+- strict-reviewed: **82/82**;
+- P5 corrections found: **33**;
+- corrections propagated: **33/33**;
+- unresolved fidelity discrepancies: **0**.
 
-P5 batch-7 corrections now durable:
+Final-range corrections now durable:
 
-1. scan 65 — `அவைகளை ஓட்டிக் கம்பங்களிலும்` → **`அவைகளை ஒட்டி கம்பங்களிலும்`**;
-2. scan 70 — `நாவன்மையென்பதும்` → **`நாவன்மையெனப்படும்`**.
+1. scan 77 — `அப்படி ஒரு பயிற்சியை` → **`அப்படியொரு பயிற்சியை`**;
+2. scan 77 — `பேசுவார்கள், கழுத்திலே,` → **`பேசுவார்கள். கழுத்திலே,`**;
+3. scan 78 — `கி. ஆ. பெ. விசுவநாதம்` → **`கி.ஆ.பெ. விசுவநாதம்`**;
+4. scan 81 — `அந்தக் குழுவினில் எனக்கும்` → **`அந்தக்குழுவினில் எனக்கும்`**.
 
-Both corrections are propagated to the affected canonical records and section 15 / section 16 assemblies. Scans 61–70 passed direct strict review, including scan 64 suppressed/inferred p.62 and section 15 page-top opening, scan 67 section **15→16** transition, and scan 70 section **16→17** transition. All **29/29** P5 corrections are propagated. Running record: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+All four are propagated to their canonical records and affected section 18 / section 19 assemblies. Scans **71–82** passed direct strict visual review, including scan **75** suppressed/inferred p.73 and section **18** page-top opening, scan **79** section **18→19** mid-page transition, scan **81→82** cross-page continuation, and scan **82** source-end closure. Running record: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 ## Tamil archival gate status
 
@@ -122,30 +126,23 @@ Both corrections are propagated to the affected canonical records and section 15
 - P2 — **COMPLETE / PASS — 82/82 VERIFIED**;
 - P3 — **COMPLETE / PASS — 19/19**;
 - P4 — **COMPLETE / PASS**;
-- P5 — **IN PROGRESS — 70/82**;
-- P5 corrections / propagated — **29/29**;
-- unresolved fidelity discrepancies in reviewed P5 range — **0**.
+- P5 — **COMPLETE / PASS — 82/82**;
+- P5 corrections / propagated — **33/33**;
+- unresolved fidelity discrepancies — **0**;
+- Tamil archival layer — **FROZEN**.
 
 ## English status
 
-English — **NOT STARTED / BLOCKED until Tamil freeze**. Permanent rule: exact source `உடன்பிறப்பே` → `Udanpirappē`; direct salutation `Udanpirappē,`, only where the exact source form occurs.
+English — **NOT STARTED**. The Tamil prerequisite is now satisfied. Permanent rule: exact source `உடன்பிறப்பே` → `Udanpirappē`; direct salutation `Udanpirappē,`, only where the exact source form occurs.
 
-## Exact next activity — P5 scans 71–80
+## Exact next activity — English E0 / T0 startup
 
-Process **scans 71–80 / printed pp.69–78** as one strict visual batch.
+Do **not** reopen the frozen Tamil layer without genuinely new source evidence. Before any English body translation:
 
-1. inspect source pixels directly; OCR/parsed text is not authority;
-2. compare every word, meaningful spacing/word boundary, punctuation, quotation, heading, number, folio and continuation against canonical records;
-3. preserve scan **75** suppressed/inferred p.73 and source-visible section **18** opening;
-4. preserve scan **79** source-visible section **18→19** mid-page transition;
-5. inspect scan **81** only if needed to close scan-80 boundary; do not count it;
-6. keep stamps, handwriting, show-through and scan noise separate from printed text;
-7. create crops/enhancements only when an actual reading is uncertain;
-8. record exact old reading → source-visible reading for every correction and immediately propagate it to each affected assembly;
-9. update `VISUAL_TEXT_FIDELITY_REVIEW.md` and synchronize trackers only after all ten scans pass;
-10. do **not** begin English while P5 remains open.
-
-P5 closes only after **82/82** scans pass, every correction is propagated, and unresolved fidelity discrepancies are **0**.
+1. read `ESSAY_TRANSLATION_GUIDE.md` completely;
+2. create/verify the `translations/en/` scaffold (`README.md`, `LEXICON.md`, `TRANSLATION_REVIEW.md`);
+3. perform T0 source-prerequisite checks against the strict-reviewed Tamil assemblies and record their exact blob SHAs;
+4. only then begin T1 paragraph-by-paragraph translation, preserving page-boundary comments and Kalaignar's rhetorical voice.
 
 ---
 

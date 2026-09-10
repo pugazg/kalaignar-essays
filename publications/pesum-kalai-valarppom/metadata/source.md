@@ -49,15 +49,20 @@ Printed text and physical-copy evidence remain separate.
 - P2 — **COMPLETE / PASS — 82/82 VERIFIED**;
 - P3 — **COMPLETE / PASS — 19/19 assemblies**;
 - P4 — **COMPLETE / PASS**;
-- P5 — **IN PROGRESS — scans 1–70 / 70 of 82 PASS**;
-- P5 corrections found / propagated — **29 / 29**;
-- unresolved P5 fidelity discrepancies in reviewed range — **0**;
-- English — **NOT STARTED / BLOCKED until Tamil freeze**.
+- P5 — **COMPLETE / PASS — 82/82**;
+- P5 corrections found / propagated — **33 / 33**;
+- unresolved P5 fidelity discrepancies — **0**;
+- Tamil archival layer — **FROZEN**;
+- English — **NOT STARTED**.
 
-P5 batch 7 scans 61–70 contributed **2** source-supported corrections: scan 65 `அவைகளை ஓட்டிக் கம்பங்களிலும்` → `அவைகளை ஒட்டி கம்பங்களிலும்`; scan 70 `நாவன்மையென்பதும்` → `நாவன்மையெனப்படும்`. Both are propagated to the affected canonical records and section assemblies. Confirmed source-sensitive forms in scans 61–70 include scan 61 `கடுஞ்சொற் களஞ்சியமாகவும்—ஆபாசக் குட்டையாகவும்`, scan 62 `“வசவு”`, scan 63 `திருவாரூர் ஓடம் போக்கி`, scan 64 `வழியனுப்பி வைக்கப்பட்ட அழைத்துச் செல்லப்படுவார்`, scan 65 `அவைகளை ஒட்டி`, scan 66 `தளகர்த்தர்`, scan 67 `நாட்டி யிருக்கிறார்கள்` and printed `பே—5`, scan 68 `நோக்கமுண்மையை` / `மெருகேறும்`, scan 69 `புஜபலமிக்க` / `ருசியப் பொன்மொழி`, and scan 70 `நாவன்மையெனப்படும்`.
+Final P5 scans 71–82 contributed **4** source-supported corrections: scan 77 `அப்படி ஒரு பயிற்சியை` → `அப்படியொரு பயிற்சியை`; scan 77 `பேசுவார்கள், கழுத்திலே,` → `பேசுவார்கள். கழுத்திலே,`; scan 78 `கி. ஆ. பெ. விசுவநாதம்` → `கி.ஆ.பெ. விசுவநாதம்`; scan 81 `அந்தக் குழுவினில் எனக்கும்` → `அந்தக்குழுவினில் எனக்கும்`. All are propagated to the affected canonical records and section assemblies.
+
+Confirmed source-sensitive forms in the final range include scan 72 `ஷம்சுதீன்` / `நாலுகால்`, scan 73 the source-visible sentence `அடுத்து, நான் முதலில் குறிப்பிடப்பட்டவர் பேச எழுந்தார்.`, scan 74 `ஒரே வரியிலே` / `ஒரு வரிக்கு மேல்`, scan 75 `(Mannerism)` / `மேனரிசம்` / `தவிர்க்கவொண்ணாத`, scan 76 `சொல்மாரிபொழிவது`, scan 77 `அப்படியொரு`, scan 78 `கி.ஆ.பெ. விசுவநாதம்`, scan 79 `காயிதே மில்லத்` / `தேனினுமினிய` / `நாற்பத்தி ஆறு`, scan 81 `அந்தக்குழுவினில்`, and scan 82 `1962-ல்` / `“வாலிபப் பெரியார்”` / `எ.வி.பி. ஆசைத்தம்பி` / `என். வி. நடராசனார்`.
+
+P5 batch 7 scans 61–70 contributed **2** source-supported corrections: scan 65 `அவைகளை ஓட்டிக் கம்பங்களிலும்` → `அவைகளை ஒட்டி கம்பங்களிலும்`; scan 70 `நாவன்மையென்பதும்` → `நாவன்மையெனப்படும்`. Both are propagated to the affected canonical records and section assemblies.
 
 Running P5 record: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 ## Exact next activity
 
-**P5 scans 71–80 / printed pp.69–78.** Preserve scan 75 suppressed/inferred p.73 and section 18 opening, and scan 79 section 18→19 mid-page transition. Inspect scan 81 only as boundary evidence if needed and propagate every confirmed correction before moving forward.
+Tamil P0–P5 is closed and frozen. English is not started; the next project stage is **English E0 / T0 source-prerequisite setup** under `ESSAY_TRANSLATION_GUIDE.md`, using the strict-reviewed Tamil assemblies as translation authority.

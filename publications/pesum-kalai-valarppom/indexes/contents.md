@@ -42,18 +42,20 @@ The supplied **82-scan eighth-edition witness contains no printed contents page*
 - P4 source/completeness reconciliation: **COMPLETE / PASS**;
 - structural map drift / shared-transition defects / suppressed-folio regressions through P4: **0**.
 
-## P5 overlay — IN PROGRESS
+## P5 overlay — COMPLETE / PASS
 
-- strict-reviewed scans: **1–70 / 70 of 82**;
-- reviewed span: outside pagination + pp.**1–68**;
-- corrections found / propagated: **29 / 29**;
-- unresolved fidelity discrepancies in reviewed range: **0**;
-- P5 source-visible transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8), 51 (11→12), 55 (12→13), 67 (15→16), 70 (16→17) — PASS**;
-- page-end/top changes **41→42 (8→9), 44→45 (9→10), 47→48 (10→11), 58→59 (13→14), 63→64 (14→15) — PASS**;
-- scans 61–70 introduced **2** source-supported corrections, both propagated, with no structural section-map change.
+- strict-reviewed scans: **1–82 / 82 of 82**;
+- reviewed span: outside pagination + pp.**1–80 / source end**;
+- corrections found / propagated: **33 / 33**;
+- unresolved fidelity discrepancies: **0**;
+- P5 source-visible transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8), 51 (11→12), 55 (12→13), 67 (15→16), 70 (16→17), 79 (18→19) — PASS**;
+- page-end/top changes **41→42 (8→9), 44→45 (9→10), 47→48 (10→11), 58→59 (13→14), 63→64 (14→15), 74→75 (17→18) — PASS**;
+- all suppressed/inferred folios `3,4,5,6,7,42,45,48,59,64,75` — **PASS**;
+- scans 71–82 introduced **4** source-supported corrections, all propagated, with no structural section-map change;
+- scan 82 source-end closure — **PASS**.
 
-Running fidelity record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
+Completed fidelity record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Exact next activity
 
-**P5 scans 71–80 / printed pp.69–78.** Preserve scan **75** suppressed/inferred p.73 and source-visible section **18** opening, and scan **79** section **18→19** mid-page transition. Inspect scan **81** only if needed to close scan 80; do not count it. Record and propagate every confirmed source-visible correction before the next batch.
+Tamil P0–P5 is **COMPLETE / PASS / FROZEN**. English is **NOT STARTED**. Begin English E0 / T0 source-prerequisite setup under `ESSAY_TRANSLATION_GUIDE.md` before any body translation.

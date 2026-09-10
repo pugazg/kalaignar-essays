@@ -10,10 +10,11 @@ Workspace: `publications/pesum-kalai-valarppom/`
 - P2 page-level transcription — **COMPLETE / PASS — 82 of 82 VERIFIED**;
 - P3 assemblies — **COMPLETE / PASS — 19 of 19**;
 - P4 source/completeness audit — **COMPLETE / PASS**;
-- P5 strict visual word/punctuation fidelity — **IN PROGRESS — scans 1–70 / 70 of 82 PASS**;
-- P5 corrections / propagated — **29 / 29**;
-- unresolved fidelity discrepancies in reviewed range — **0**;
-- English — **NOT STARTED / BLOCKED until Tamil freeze**.
+- P5 strict visual word/punctuation fidelity — **COMPLETE / PASS — 82 of 82**;
+- P5 corrections / propagated — **33 / 33**;
+- unresolved fidelity discrepancies — **0**;
+- Tamil archival layer — **FROZEN**;
+- English — **NOT STARTED**.
 
 ## Controlling source
 
@@ -40,22 +41,24 @@ P3: **19/19** source-numbered assemblies under `articles/`, scans 7–82 / pp.5�
 
 P4: source/completeness reconciliation **PASS**, with page records **82/82**, assemblies **19/19**, mapping/boundary drift **0**, unresolved P4 blockers **0**. See `P4_SOURCE_COMPLETENESS_REVIEW.md`.
 
-## P5 strict visual fidelity — IN PROGRESS
+## P5 strict visual fidelity — COMPLETE / PASS
 
-Direct strict review is complete through **scan 70 / p.68**.
+Direct strict review is complete through **scan 82 / p.80, source end**.
 
-- batches `P5-001-010`, `P5-011-020`, `P5-021-030`, `P5-031-040`, `P5-041-050`, `P5-051-060`, `P5-061-070` — **PASS**;
-- corrections found: **29**;
-- corrections propagated: **29/29**;
+- batches `P5-001-010`, `P5-011-020`, `P5-021-030`, `P5-031-040`, `P5-041-050`, `P5-051-060`, `P5-061-070`, `P5-071-080`, `P5-081-082` — **PASS**;
+- corrections found: **33**;
+- corrections propagated: **33/33**;
 - unresolved discrepancies: **0**.
+
+Final-range review added 4 source-supported corrections: scan 77 `அப்படி ஒரு பயிற்சியை` → `அப்படியொரு பயிற்சியை`; scan 77 `பேசுவார்கள், கழுத்திலே,` → `பேசுவார்கள். கழுத்திலே,`; scan 78 `கி. ஆ. பெ. விசுவநாதம்` → `கி.ஆ.பெ. விசுவநாதம்`; scan 81 `அந்தக் குழுவினில் எனக்கும்` → `அந்தக்குழுவினில் எனக்கும்`. All are propagated to their canonical records and section 18 / section 19 assemblies.
 
 P5-061-070 added 2 source-supported corrections: scan 65 `அவைகளை ஓட்டிக் கம்பங்களிலும்` → `அவைகளை ஒட்டி கம்பங்களிலும்`; scan 70 `நாவன்மையென்பதும்` → `நாவன்மையெனப்படும்`. Both are propagated to their canonical page records and section 15 / section 16 assemblies.
 
 P5-051-060 added 1 source-supported correction: scan 51 `போர்களம்`→`போர்க்களம்`. It is propagated to the canonical scan-51 record and section 11 assembly.
 
-Established source forms such as scan 42 `அருட் கருவலம்`, scan 43 `அப்துர் ரகுமான்`, scan 44 colloquial quotations, scan 45 deliberate pronunciation contrasts, scan 46 `சூடும் சுவையும்` / `நாடி நறம்பு`, scan 47 quoted `ழ`, scan 48 `முத்தொழில்`, scan 49 `வெற்றி முகட்டை`, scan 50 `I conceive, conceive, conceive`, scan 51 `போர்க்களம்`, scan 64 `வழியனுப்பி வைக்கப்பட்ட அழைத்துச் செல்லப்படுவார்`, scan 65 `அவைகளை ஒட்டி`, scan 67 `நாட்டி யிருக்கிறார்கள்`, scan 69 `புஜபலமிக்க`, and scan 70 `நாவன்மையெனப்படும்` remain preserved.
+Established source forms such as scan 42 `அருட் கருவலம்`, scan 43 `அப்துர் ரகுமான்`, scan 44 colloquial quotations, scan 45 deliberate pronunciation contrasts, scan 46 `சூடும் சுவையும்` / `நாடி நறம்பு`, scan 47 quoted `ழ`, scan 48 `முத்தொழில்`, scan 49 `வெற்றி முகட்டை`, scan 50 `I conceive, conceive, conceive`, scan 51 `போர்க்களம்`, scan 64 `வழியனுப்பி வைக்கப்பட்ட அழைத்துச் செல்லப்படுவார்`, scan 65 `அவைகளை ஒட்டி`, scan 67 `நாட்டி யிருக்கிறார்கள்`, scan 69 `புஜபலமிக்க`, scan 70 `நாவன்மையெனப்படும்`, scan 75 `(Mannerism)` / `மேனரிசம்`, scan 77 `அப்படியொரு`, scan 78 `கி.ஆ.பெ. விசுவநாதம்`, scan 79 `காயிதே மில்லத்`, and scan 81 `அந்தக்குழுவினில்` remain preserved.
 
-See [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md) for the running ledger.
+See [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md) for the completed ledger.
 
 ## Physical-copy/source distinctions
 
@@ -63,4 +66,4 @@ Scan 5 is later handwriting and has no printed publication text. Library stamps/
 
 ## Exact next activity
 
-**P5 scans 71–80 / printed pp.69–78.** Preserve scan **75** suppressed/inferred p.73 and source-visible section **18** opening, and scan **79** section **18→19** mid-page transition. Inspect scan **81** only as batch-boundary evidence if needed. English remains blocked until P5 closes and Tamil is frozen.
+Tamil P0–P5 is **COMPLETE / PASS / FROZEN**. English has not started. Read `ESSAY_TRANSLATION_GUIDE.md`, establish the `translations/en/` scaffold, and perform English **E0 / T0 source-prerequisite setup** against the frozen strict-reviewed Tamil assemblies before drafting any English body text.
