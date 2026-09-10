@@ -14,58 +14,41 @@ Publications **1–10 are RELEASE COMPLETE / FROZEN**.
 
 Workspace: `publications/pesum-kalai-valarppom/`
 
-**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 IN PROGRESS — 50/82 VERIFIED.**
+**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 IN PROGRESS — 60/82 VERIFIED.**
 
-Controlling source:
-
-- `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`;
-- SHA-256 `73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`;
-- size **105,698,402 bytes**;
-- physical scans **82**;
-- image-only;
-- source PDF committed — **No**.
+Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`, SHA-256 `73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`, **105,698,402 bytes**, **82 image-only scans**; source PDF committed — **No**.
 
 Source identity / witness distinction:
 
-- scan 1 front cover — **`பேசும் கலை வளர்ப்போம்`**;
+- scan 1 cover — **`பேசும் கலை வளர்ப்போம்`**;
 - scan 3 title page — **`பேசும்கலை வளர்ப்போம்`**;
-- author/status — **`மாண்புமிகு டாக்டர் கலைஞர் மு.கருணாநிதி / தமிழக முதல்-அமைச்சர்`**;
-- publisher — **பாரதி பதிப்பகம்**;
 - supplied edition — **எட்டாம் பதிப்பு, செப்டம்பர் 1996**;
 - source-numbered sections — **19**;
 - printed contents page — **none**.
 
-The two source-visible title forms are preserved independently; they are not silently normalized.
+The two title forms are preserved independently.
 
-P1 result:
+P1 result: **82/82** scans mapped; scans 1–2 outside pagination; scans 3–82 = pp.1–80; starts/ends **19/19 / 19/19**; 12 shared mid-page transitions; suppressed/inferred folios on scans `3,4,5,6,7,42,45,48,59,64,75`; blockers **0**.
 
-- scans inspected / canonical map rows — **82/82**;
-- scans 1–2 outside printed pagination;
-- scans 3–82 = printed pp.**1–80**;
-- section starts/ends — **19/19 / 19/19**;
-- shared mid-page section transitions — **12**;
-- suppressed/inferred folios — scans `3,4,5,6,7,42,45,48,59,64,75`;
-- structural blockers — **0**.
+P2 through batch 6:
 
-P2 result through batch 5:
-
-- scans **1–50** — **COMPLETE / VERIFIED**;
-- canonical page records — **50/82 VERIFIED**;
-- contiguous verified range — scans **1–50**;
-- printed coverage — through **p.48**;
-- shared mid-page transitions preserved through scan 38 — **12** `1→2`, **16** `2→3`, **22** `3→4`, **27** `4→5`, **31** `5→6`, **34** `6→7`, **38** `7→8`;
-- batch 5 closes section 8 at scan 41, section 9 at scan 44, and section 10 at scan 47;
-- sections 9, 10 and 11 open at page top on scans **42,45,48**, with suppressed/inferred folios;
-- unresolved printed-text/source-distinction blockers — **0**;
+- scans **1–60 — COMPLETE / VERIFIED**;
+- canonical records — **60/82 VERIFIED**;
+- printed coverage — through **p.58**;
+- scan **51** preserves section `11→12` and scan **55** preserves `12→13`;
+- section 13 closes scan **58**; section 14 opens scan **59** with suppressed/inferred p.57 folio;
+- scan 60 remains section 14;
+- scan 60 `அரசியல் கட்சி மேடையில்` → scan 61 `அதற்குப் பதில் அளிக்கும்போது` directly checked; scan 61 not counted;
+- unresolved printed-text/source blockers — **0**;
 - assemblies — **0**.
 
-Batch-5 source-sensitive forms retained exactly include scan 47 `திருவல்லுவரை`, `தமிஷ்`, `வாலை! வாலைவிடு`; scan 48 `தாக்குமுறைக்கு`; scan 49 `செத்து விட்டார்கள்` / `செத்துவிட்டார்கள்`; scan 50 `அயோத்தியாபுரியா? அஸ்தினாபுரியா?`, `மிதிலாபுரி`, `புகழ்மேணியில்`, `I conceive, conceive, conceive`, `மூச்சுத்திணற`. Scan 49→50 preserves the split `மதிப்புக்குரிய தோழர்` → `களுக்குப் பதிலாக`; scan 50 closes its sentence before scan 51 begins a new paragraph.
+Batch-6 source-sensitive forms include `போர்களம்`, `அரங்கின்றி வட்டாடுவதுபோல`, separate printed `பே—4`, `அவைக்கணம்`, `ஒளவைக்குக்`, `ஒலிபெருக்கியாளர்கள்`, `வீணுக் குழைத்தோமடா`, `கட்டுபடியான`, `கிரேக்கத்து`, `ஆபிரகாம் லிங்கன்`, `மாங்கொல்லையிலோ`, `புரசை வெள்ளாளர்`, `எழுவயது`, `சுற்றடைப்புக்குள்`, `மது பார்மிட்`, `உத்திரவிட்டேன்`, distinct `‘போன்’` / `“போன்”`, `களித்திருமளவுக்கு`, `சொற்பெருக்காற்றக்`, and `தாற்குறையாக — ஆபாசமாக — அருவருக்கத்தக்க`. Silent normalization remains **0**.
 
-Exact next activity: **P2 scans 51–60 / printed pp.49–58.** Preserve scan **51** section `11→12`, scan **55** `12→13`; section 13 closes at scan 58 page end; section 14 opens at scan **59** page top, whose p.57 folio is suppressed/inferred. Check scan 60→61 where needed; do not build assemblies yet.
+Exact next activity: **P2 scans 61–70 / pp.59–68.** Scans 61–63 remain section 14 and section 14 ends at scan 63. Scan **64 / inferred p.62** opens section 15 with suppressed/inferred folio. Preserve scan **67 `15→16`** and scan **70 `16→17`** transitions; check scan 70→71; do not build assemblies yet.
 
 ### Publication 10 — மீசை முளைத்த வயதில் — FROZEN
 
-Tamil P0–P5 and English E0–E7 are **COMPLETE / PASS**; English release gate is **CLOSED**. Preserve its frozen Tamil and released English layers unless genuine source-supported evidence requires reopening.
+Tamil P0–P5 and English E0–E7 are **COMPLETE / PASS**; English release gate **CLOSED**. Preserve frozen layers unless genuine source-supported evidence requires reopening.
 
 ### Permanent `உடன்பிறப்பே` rule
 
