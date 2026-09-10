@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / English E1 Section 2 T2
+# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / English E1 Section 3 T1
 
 Continue in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -25,46 +25,46 @@ Tamil gates: P0–P5 **COMPLETE / PASS / FROZEN**; canonical records **82/82 VER
 - T0 — **19/19 PASS**;
 - English body files — **2/19**;
 - T1 — **2/19**;
-- T2 — **1/19**;
-- T3 — **1/19**;
-- T4 — **1/19**;
-- T5 — **1/19**;
-- verified English articles — **1/19**;
+- T2 — **2/19**;
+- T3 — **2/19**;
+- T4 — **2/19**;
+- T5 — **2/19**;
+- verified English articles — **2/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits — **0**.
 
-## Section 1 — VERIFIED / calibration complete
+## Section 1 — VERIFIED
 
 - frozen Tamil blob — `e5517b7cc344554d51af4092599059d481039c1e`;
 - final verified English blob — `76ea963ab2e14232bdbbf1a9afbe9f25ca97779a`;
 - T0–T5 — **COMPLETE / PASS**;
-- T4-approved lexical/proper-name/source-label decisions — **16**.
+- T4-approved decisions — **16**.
 
-## Section 2 — T1 COMPLETE
+## Section 2 — VERIFIED
 
-Tamil authority:
+Tamil:
 
 - `publications/pesum-kalai-valarppom/articles/02-section-02.md`
 - frozen blob **`b10894b911393239e57446687c34030aff88a8e3`**
-- scans **12–16 / printed pp.10–14**
-- T0 **PASS**.
+- scans **12–16 / printed pp.10–14**.
 
 English:
 
 - `publications/pesum-kalai-valarppom/translations/en/02-section-02.md`
-- T1 blob **`a45d357a089247b4de725b64126b0f0341e5e588`**
-- status **draft**
-- source-page comments **5/5 retained**
-- Section 2 T1 provisional lexicon decisions **13**
-- T2/T3/T4/T5 **pending**
-- unresolved T1 blockers **0**.
+- T1 blob `a45d357a089247b4de725b64126b0f0341e5e588`
+- post-T2 blob `f5bb2ebe0ab442369312384ae894c4689400d02b`
+- post-T3 / post-T4 blob `e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`
+- final verified blob **`e963de42305f9e0cca601950c4ab5e3b1d6c2ea6`**
+- T2 corrections **7**
+- T3 corrections **8**
+- T4 body corrections **0**
+- T5 body corrections **0 / status-only**
+- source-page comments **5/5**
+- T4-approved Section 2 decisions **15**
+- unresolved issues **0**
+- T0–T5 **COMPLETE / PASS**.
 
-Protected T1 source-sensitive points:
-
-- `Children’s Reform Association`, `Nenjukku Neethi`, `Anjaneya temple`, `Isaimani`, `Self-Respect Movement`, `Arignar Anna`, `Maha Vidwan`, `Nadigar Thilagam Sivaji`, `Thambi` are provisional source-bearing choices;
-- historical amounts remain `quarter-anna` and `one paisa`;
-- source play name `Kattabomman` remains distinct from the anecdotal comic slip `Bomman Kattan`;
-- no outside/published quotation wording was imported.
+Protected Section 2 decisions include `Children’s Reform Association`, `Nenjukku Neethi`, historical `quarter-anna` / one paisa, source epithets, `song-poet`, `film magnate`, and the deliberate `Kattabomman` / quoted `Bomman Kattan` distinction.
 
 ## Mandatory startup
 
@@ -80,10 +80,19 @@ Read completely/fresh:
 8. `translations/en/README.md`
 9. `translations/en/LEXICON.md`
 10. `translations/en/TRANSLATION_REVIEW.md`
-11. frozen Tamil `articles/02-section-02.md`
-12. T1 English `translations/en/02-section-02.md`
+11. frozen Tamil `articles/03-section-03.md`
+12. any existing English `translations/en/03-section-03.md` if present on live `main`.
 
-Before T2, require the Tamil blob to remain exactly `b10894b911393239e57446687c34030aff88a8e3`. Expected English input is `a45d357a089247b4de725b64126b0f0341e5e588`; preserve any legitimate newer live state rather than rolling back.
+## Section 3 authority
+
+Frozen Tamil source:
+
+- `publications/pesum-kalai-valarppom/articles/03-section-03.md`
+- expected blob **`21904dd457bb3455230de06421ff2d906ac4958d`**
+- source span scans **16–22 / printed pp.14–20**
+- T0 **PASS**.
+
+Before drafting, re-fetch the Tamil file and require that exact blob. A mismatch is a hard source-drift stop. If an English Section 3 file has legitimately appeared on newer live `main`, preserve the newer durable state rather than rolling it back.
 
 ## Permanent translation rules
 
@@ -95,35 +104,21 @@ Before T2, require the Tamil blob to remain exactly `b10894b911393239e57446687c3
 - Do not silently replace source-chosen names/epithets with explanatory modern forms.
 - Exact source `உடன்பிறப்பே` → `Udanpirappē`; direct salutation `Udanpirappē,` only where that exact source form occurs.
 - Do not import published English translations unless explicitly authorized.
+- Apply verified Section 1–2 lexicon decisions only where the same Tamil function genuinely recurs.
 
-## Exact next activity — E1 / Section 2 T2
+## Exact next activity — E1 / Section 3 T1
 
-Perform an **independent bilingual fidelity review** of Section 2. Compare frozen Tamil blob `b10894b911393239e57446687c34030aff88a8e3` with T1 English blob `a45d357a089247b4de725b64126b0f0341e5e588` sentence-by-sentence and clause-by-clause.
+Perform the complete **T1 close draft** for Section 3:
 
-Check specifically:
+1. translate every Tamil paragraph and clause;
+2. preserve numeric section identity `3`;
+3. preserve every source-page boundary comment at the corresponding bilingual transition;
+4. preserve rhetorical questions, exclamations, deliberate repetition, short emphatic sentences, imagery, humour and conversational turns;
+5. preserve quotations as quotations and translate only the frozen Tamil witness;
+6. apply established terminology only where source function matches;
+7. create `translations/en/03-section-03.md` with the exact frozen Tamil blob in `source_tamil_blob_sha`, correct scan/printed-page span and `translation_status: "draft"`;
+8. update the living lexicon only for genuine new Section 3 translation decisions;
+9. record the T1 English blob in review/tracker/plan/handover;
+10. set the next activity to **Section 3 / T2 bilingual fidelity review** after T1 closes.
 
-1. no omitted sentence/clause and no added claim;
-2. all quantities: age `15`, seven/eight boys, `quarter-anna`, `one paisa`, four/five visits, two/three days and other numeric language;
-3. all proper names, relationships, source epithets and movement labels;
-4. every T1 provisional Section 2 lexicon choice;
-5. pot/ladle proverb and mind-as-pot imagery;
-6. stage-fright, sweating, trembling and tongue-faltering imagery;
-7. `Friendship` and `God` school-speech references;
-8. the speech/life verbal slip and crowd reaction;
-9. Anna’s quoted `Thambi!` greeting;
-10. `Kattabomman` versus the source slip `Bomman Kattan`;
-11. film-producer anecdote, quotations, questions and exclamations;
-12. all **5/5** source-page comments;
-13. negatives, comparisons, causal/logical connectors and deliberate repetition.
-
-Record every T2 correction as old English → corrected English + Tamil basis in `translations/en/TRANSLATION_REVIEW.md`. Update `LEXICON.md` only if a terminology choice changes.
-
-If T2 passes after corrections:
-
-- set `translation_status: "fidelity-reviewed"`;
-- record the post-T2 English blob;
-- mark Section 2 T2 PASS in tracker/review/plan/audit/handover;
-- set the exact next activity to **Section 2 T3 Kalaignar voice review**;
-- **do not start T3 in the same activity**.
-
-Do not modify frozen Tamil.
+Do not modify frozen Tamil. Do not start Section 3 T2 in the same activity.
