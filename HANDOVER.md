@@ -33,7 +33,8 @@ Before source-dependent work, fetch/read fresh:
 7. `indexes/contents.md`;
 8. `indexes/page-map.md`;
 9. `audit.md`;
-10. `P3_ASSEMBLY_AUDIT.md` for the closed assembly gate.
+10. `P3_ASSEMBLY_AUDIT.md`;
+11. `P4_SOURCE_COMPLETENESS_REVIEW.md`.
 
 Read `ESSAY_TRANSLATION_GUIDE.md` before English work. English remains blocked until Tamil is frozen.
 
@@ -107,38 +108,60 @@ Shared transition scans are split only at the source-visible numbered-section bo
 
 P3 audit: `publications/pesum-kalai-valarppom/P3_ASSEMBLY_AUDIT.md`.
 
+## P4 — COMPLETE / PASS
+
+The source/completeness reconciliation is closed. Dedicated record: `publications/pesum-kalai-valarppom/P4_SOURCE_COMPLETENESS_REVIEW.md`.
+
+P4 reconciled the controlling source identity, all canonical page records, all numbered-section assemblies, structural indexes, front-matter/source-witness distinctions and correction provenance:
+
+- source filename / SHA-256 / size / 82-scan identity: **PASS**;
+- canonical page records: **82 / 82**, scan numbers `0001–0082` contiguous;
+- missing / duplicate scan records: **0 / 0**;
+- scans 3–82 = pp.1–80 and suppressed/inferred folio set: **PASS**;
+- two title witnesses and scan-6 `15—7—81`: **preserved / PASS**;
+- front-matter print vs handwriting/stamps/physical-copy evidence: **separated / PASS**;
+- numbered-section assemblies: **19 / 19 source-complete**;
+- section-map / assembly-span drift: **0**;
+- shared-transition duplication / omission defects: **0**;
+- scan 13 `வீடுதான்` propagation: **PASS**;
+- scan 74 `வரியிலே` / `வரிக்கு` propagation: **PASS**;
+- new P4 text corrections: **0**;
+- unresolved P4 discrepancies / blockers: **0 / 0**.
+
+P4 is a source/completeness reconciliation gate. It did **not** perform or claim the separate P5 full direct visual word/punctuation re-audit.
+
 ## Tamil archival gate status
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
 - P2 — **COMPLETE / PASS — 82/82 VERIFIED**;
 - P3 assemblies — **COMPLETE / PASS — 19/19**;
-- P4 source/completeness audit — **NOT STARTED / NEXT**;
-- P5 strict visual word/punctuation fidelity — **NOT STARTED**;
-- unresolved blockers entering P4 — **0**.
+- P4 source/completeness audit — **COMPLETE / PASS**;
+- P5 strict visual word/punctuation fidelity — **NOT STARTED / NEXT**;
+- unresolved blockers entering P5 — **0**.
 
 ## English status
 
 English — **NOT STARTED / BLOCKED until Tamil freeze**. Permanent repository rule: exact source `உடன்பிறப்பே` → `Udanpirappē`; direct salutation `Udanpirappē,`, only where the exact source form occurs.
 
-## Exact next activity — P4
+## Exact next activity — P5
 
-Perform the **source audit / completeness review**.
+Perform the **final strict visual word/punctuation fidelity pass** over all **82 physical source scans**.
 
 Requirements:
 
-1. reconcile `metadata/source.md` against the controlling source identity and P1 structural facts;
-2. confirm all **82 physical scans** still have exactly one canonical page record and no scan is missing;
-3. reconcile the **19 numbered-section assemblies** against `indexes/contents.md`, `indexes/page-map.md` and their contributing canonical page-record text;
-4. verify shared transition scans are divided at the source-visible section numeral without duplicated or omitted body text;
-5. verify all front-matter printed text and physical-copy handwriting/stamps remain correctly separated;
-6. preserve the distinct title witnesses `பேசும் கலை வளர்ப்போம்` / `பேசும்கலை வளர்ப்போம்` and all suppressed/inferred folio distinctions;
-7. verify documented correction provenance, especially scan 13 `வீடுதான்` and scan 74 `வரியிலே` / `வரிக்கு`, has propagated to every dependent assembly/index where applicable;
-8. record all P4 checks and any discrepancy/correction in a dedicated completion-review/audit record;
-9. synchronize publication trackers, root README, this handover and next prompt only after P4 passes;
-10. **do not begin P5 or English in the same step unless separately authorized**.
-
-P4 is a source/completeness reconciliation gate. P5 remains the separate publication-wide direct **word-by-word / punctuation-by-punctuation visual fidelity pass** required before Tamil freeze.
+1. inspect the controlling source scan pixels directly; OCR / parsed text is not authority;
+2. recheck every physical scan **1–82**, including cover, inside cover, title/imprint, scan-5 handwriting-only page, `பதிப்புரை`, all numbered-section pages and the final source page;
+3. compare every source-visible word, meaningful spacing/word boundary, punctuation mark, quotation mark, heading, date, number and paragraph/page continuation against the canonical page record;
+4. recheck all suppressed/inferred folios and never turn an inferred folio into a source-visible numeral;
+5. keep handwriting, stamps, show-through and physical-copy marks separate from printed publication text;
+6. preserve unusual source forms rather than correcting by context;
+7. record every P5 correction with exact old reading → source-visible reading provenance;
+8. propagate every source-supported correction to the affected canonical page record, numbered-section assembly and any dependent index/tracker;
+9. create and maintain `publications/pesum-kalai-valarppom/VISUAL_TEXT_FIDELITY_REVIEW.md` (or guide-equivalent report) with scan coverage, correction ledger and unresolved count;
+10. P5 may close only after **82/82** physical scans are directly strict-reviewed and all corrections are propagated with **0 unresolved fidelity discrepancies**;
+11. update publication trackers, root README, this handover and next prompt after P5 passes;
+12. do **not** begin English until the Tamil P5 gate is closed/frozen.
 
 ---
 
