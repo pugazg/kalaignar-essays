@@ -6,7 +6,7 @@ Source SHA-256: `73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf
 
 ## Gate status
 
-**P5 — IN PROGRESS — 20 / 82 physical scans strict-reviewed.**
+**P5 — IN PROGRESS — 30 / 82 physical scans strict-reviewed.**
 
 This is the final direct visual fidelity gate. Source pixels are controlling authority. Every reviewed scan is compared word-by-word and punctuation-by-punctuation against its canonical page record, including visible headings, dates, numbers, quotation marks, meaningful spacing / word boundaries, folios and physical-copy marks.
 
@@ -16,8 +16,9 @@ This is the final direct visual fidelity gate. Source pixels are controlling aut
 |---|---:|---|---|---:|---:|
 | P5-001-010 | 1–10 | outside pagination + pp.1–8 | **PASS** | **2** | **0** |
 | P5-011-020 | 11–20 | pp.9–18 | **PASS** | **3** | **0** |
+| P5-021-030 | 21–30 | pp.19–28 | **PASS** | **2** | **0** |
 
-Contiguous strict-reviewed range: **scans 1–20 / 20 of 82**.
+Contiguous strict-reviewed range: **scans 1–30 / 30 of 82**.
 
 ## P5-001-010 — direct visual findings
 
@@ -46,83 +47,67 @@ Suppressed/inferred folios in this reviewed range remain correctly non-visible o
 
 No folio in scans 11–20 is suppressed/inferred; printed folios **9–18** are source-visible.
 
+## P5-021-030 — direct visual findings
+
+- scans 21–23 / pp.19–21 — section 3→4 material, scan **22 (3→4)** source-visible transition, words, quotations, punctuation and folios re-read directly; **PASS**;
+- scan 24 / p.22 — section 4 body and punctuation re-read directly; **1 correction**;
+- scan 25 / p.23 — section 4 body, quotation boundaries and continuations re-read directly; **PASS**;
+- scan 26 / p.24 — section 4 body, colloquial quotations, names, year and punctuation re-read directly; **1 correction**;
+- scan 27 / p.25 — section **4→5** source-visible mid-page transition and section numeral `5` re-read directly; **PASS**;
+- scans 28–30 / pp.26–28 — section 5 body, six-dot `அந்த......ப்`, `1962-ம்`, source-visible no-space `உணர்ச்சியையும்,எழுச்சியையும்`, folios and punctuation re-read directly; **PASS**.
+
+No folio in scans 21–30 is suppressed/inferred; printed folios **19–28** are source-visible. Scan 31 was inspected only to confirm the scan-30 boundary and is **not** counted as P5-reviewed yet.
+
 ## Correction ledger
 
 ### P5-001 — scan 4 / inferred p.2
 
-Canonical old reading:
+Canonical old reading: `By : Kalaignar M. Karunanidhi`  
+Direct source-visible reading: `By : Kalaingnar M. Karunanidhi`
 
-`By : Kalaignar M. Karunanidhi`
-
-Direct source-visible reading:
-
-`By : Kalaingnar M. Karunanidhi`
-
-Action:
-
-- corrected `pages/0004-imprint.md` to preserve the source-visible English spelling **`Kalaingnar`**;
-- no numbered-section assembly is affected because scan 4 is front matter.
+Action: corrected `pages/0004-imprint.md`; no numbered-section assembly affected.
 
 ### P5-002 — scan 7 / inferred p.5
 
-Canonical old opening punctuation:
+Canonical old opening punctuation: `‘வெண்ணிலாவும் ...`  
+Direct source-visible opening punctuation: `“வெண்ணிலாவும் ...`
 
-`‘வெண்ணிலாவும் ...`
-
-Direct source-visible opening punctuation:
-
-`“வெண்ணிலாவும் ...`
-
-Action:
-
-- corrected `pages/0007-section-01-1.md` from a single opening quotation mark to the source-visible double opening quotation mark;
-- propagated the same correction to `articles/01-section-01.md`.
+Action: corrected `pages/0007-section-01-1.md` and propagated to `articles/01-section-01.md`.
 
 ### P5-003 — scan 19 / p.17
 
-Canonical old reading:
+Canonical old reading: `அப்படியிருக்குமேயானால்`  
+Direct source-visible reading: `அப்படி இருக்குமேயானால்`
 
-`அப்படியிருக்குமேயானால்`
-
-Direct source-visible reading:
-
-`அப்படி இருக்குமேயானால்`
-
-Action:
-
-- corrected the meaningful source-visible word boundary in `pages/0019-section-03-4.md`;
-- propagated the same correction to `articles/03-section-03.md`.
+Action: corrected `pages/0019-section-03-4.md` and propagated to `articles/03-section-03.md`.
 
 ### P5-004 — scan 19 / p.17
 
-Canonical old reading:
+Canonical old reading: `எப்படிப் பாலையும்`  
+Direct source-visible reading: `எப்படி பாலையும்`
 
-`எப்படிப் பாலையும்`
-
-Direct source-visible reading:
-
-`எப்படி பாலையும்`
-
-Action:
-
-- removed the non-source `ப்` in `pages/0019-section-03-4.md`;
-- propagated the same correction to `articles/03-section-03.md`.
+Action: removed the non-source `ப்` in the page record and section-3 assembly.
 
 ### P5-005 — scan 19 / p.17
 
-Canonical old reading:
+Canonical old reading: `வைத்தால்,எப்படிக் எறும்பானது`  
+Direct source-visible reading: `வைத்தால்,எப்படி எறும்பானது`
 
-`வைத்தால்,எப்படிக் எறும்பானது`
+Action: removed the non-source `க்` while preserving the source-visible no-space comma boundary in the page record and section-3 assembly. The later `வைத்தால்,எப்படிக் காந்தமானது` remains unchanged because its `க்` is source-visible.
 
-Direct source-visible reading:
+### P5-006 — scan 24 / p.22
 
-`வைத்தால்,எப்படி எறும்பானது`
+Canonical old reading: `எழுதி படிக்கும் நீண்ட உரைகளை`  
+Direct source-visible reading: `எழுதிப் படிக்கும் நீண்ட உரைகளை`
 
-Action:
+Action: corrected `pages/0024-section-04-3.md` and propagated to `articles/04-section-04.md`.
 
-- removed the non-source `க்` while preserving the source-visible no-space comma boundary in `pages/0019-section-03-4.md`;
-- propagated the same correction to `articles/03-section-03.md`;
-- the later phrase `வைத்தால்,எப்படிக் காந்தமானது` remains unchanged because its `க்` is source-visible.
+### P5-007 — scan 26 / p.24
+
+Canonical old reading: `“ஐயா! இங்கே கூட்டம் எங்கே நடக்கிறது?”`  
+Direct source-visible reading: `“அய்யா! இங்கே கூட்டம் எங்கே நடக்கிறது?”`
+
+Action: corrected `pages/0026-section-04-5.md` and propagated to `articles/04-section-04.md`.
 
 ## Boundary / continuity checks
 
@@ -136,17 +121,26 @@ Reviewed source-fragment continuations remain valid:
 - scan 14 `வீட்டில்` → scan 15 `உள்ள`;
 - scan 15 `ஒலிபெருக்கியின்` → scan 16 `முன்னால்`;
 - scan 16 `சொற்களை` → scan 17 `அடிப்படையாகக்`;
-- scan 20 `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்` — scan 21 was inspected only as boundary evidence and is **not** counted as P5-reviewed yet.
+- scan 20 `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்`;
+- scan 21 `அடக்க` → scan 22 `உணர்வோடு`;
+- scan 22 `ஒரு பேச்சாளர்,` → scan 23 `ஆரம்ப காலத்தில்`;
+- scan 23 `அண்ணாமலை` → scan 24 `அவர்களுக்குச்`;
+- scan 24 `உரைகளானாலும்` → scan 25 `அவற்றை`;
+- scan 25 `என்று` → scan 26 `விளம்பரம்`;
+- scan 26 `மட்டும்` → scan 27 `மல்ல;`;
+- scan 27 `அல்லது` → scan 28 `பெண்களுக்கோ`;
+- scan 29 `ஆதரவு கோரி,` → scan 30 `விட்டு விரைவில்`;
+- scan 30 `அந்தப்` → scan 31 `பாணியில்` — scan 31 is boundary evidence only and is **not** counted yet.
 
-The source-visible mid-page transitions at scans **12 (1→2)** and **16 (2→3)** remain correctly divided in the reading assemblies.
+Source-visible mid-page transitions rechecked through this range: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5) — PASS**.
 
 ## Current P5 totals
 
 - physical scans in source: **82**;
-- strict-reviewed: **20 / 82**;
-- corrections found: **5**;
-- corrections propagated: **5 / 5**;
+- strict-reviewed: **30 / 82**;
+- corrections found: **7**;
+- corrections propagated: **7 / 7**;
 - unresolved fidelity discrepancies in reviewed range: **0**;
-- next strict-review batch: **scans 21–30 / printed pp.19–28**.
+- next strict-review batch: **scans 31–40 / printed pp.29–38**.
 
 P5 remains open until **82 / 82** scans are directly strict-reviewed and every source-supported correction is propagated with **0 unresolved fidelity discrepancies**.
