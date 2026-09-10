@@ -64,26 +64,36 @@ T0 source prerequisite → T1 close draft → T2 bilingual fidelity → T3 Kalai
 ### Section 2 — COMPLETE
 
 - frozen Tamil blob — **`b10894b911393239e57446687c34030aff88a8e3`**;
-- scans **12–16 / printed pp.10–14**;
-- T1 English blob — `a45d357a089247b4de725b64126b0f0341e5e588`;
-- post-T2 English blob — `f5bb2ebe0ab442369312384ae894c4689400d02b`;
-- post-T3 / post-T4 English blob — `e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`;
+- source span — scans **12–16 / printed pp.10–14**;
 - final T5 verified English blob — **`e963de42305f9e0cca601950c4ab5e3b1d6c2ea6`**;
-- T2 corrections — **7**;
-- T3 corrections — **8**;
-- T4 body corrections — **0**;
-- T5 body corrections — **0 / status-only**;
+- T2 / T3 corrections — **7 / 8**;
+- T4 / T5 body corrections — **0 / 0**;
 - source-page comments — **5/5**;
 - T4-approved decisions — **15**;
 - unresolved Section 2 issues — **0**;
 - T0–T5 — **COMPLETE / PASS**.
 
+## Section 3 — T1 COMPLETE / draft
+
+- Tamil authority — `articles/03-section-03.md`;
+- frozen Tamil blob — **`21904dd457bb3455230de06421ff2d906ac4958d`**;
+- source span — scans **16–22 / printed pp.14–20**;
+- English draft — `translations/en/03-section-03.md`;
+- T1 English blob — **`377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`**;
+- status — **draft**;
+- source-page comments — **7/7**;
+- Section 3 T1 provisional lexicon/source decisions — **17**;
+- T2–T5 — **pending**;
+- unresolved T1 blockers — **0**.
+
+Section 3 T1 preserves the source’s quotation-punctuation irregularity, the Socrates–Marx–Ingersoll–Periyar passage, the source wording `அறிவியலும் அனுபவத்திலும்`, and the repeated `மலிவு` wordplay without external normalization.
+
 ## Current English state
 
 - E0 — **COMPLETE / PASS**;
 - T0 — **19/19 PASS**;
-- English body files — **2/19**;
-- T1 — **2/19**;
+- English body files — **3/19**;
+- T1 — **3/19**;
 - T2 — **2/19**;
 - T3 — **2/19**;
 - T4 — **2/19**;
@@ -94,4 +104,4 @@ T0 source prerequisite → T1 close draft → T2 bilingual fidelity → T3 Kalai
 
 ## Exact next activity
 
-**E1 — Section 3 / T1 close draft.** Re-fetch frozen Tamil `articles/03-section-03.md` and require blob **`21904dd457bb3455230de06421ff2d906ac4958d`**, scans **16–22 / printed pp.14–20**. Translate the complete numbered Section 3 paragraph by paragraph, preserving every source-page comment, quotation, rhetorical turn, repetition and source-sensitive label. Apply verified prior lexicon decisions only where the same Tamil function recurs. Do not start Section 3 T2 in the same activity.
+**E1 — Section 3 / T2 bilingual fidelity review.** Re-fetch frozen Tamil `articles/03-section-03.md` blob **`21904dd457bb3455230de06421ff2d906ac4958d`** and T1 English `translations/en/03-section-03.md` blob **`377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`**. Compare every sentence/clause, all source-page comments, quotation boundaries/punctuation, names/epithets, source sound-signals, logic/repetition, and the `மலிவு` wordplay. Record every T2 correction transparently. Do not start Section 3 T3 in the same activity.
