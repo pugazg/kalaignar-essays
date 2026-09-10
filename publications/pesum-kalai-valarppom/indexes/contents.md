@@ -44,17 +44,16 @@ The supplied **82-scan eighth-edition witness contains no printed contents page*
 
 ## P5 overlay — IN PROGRESS
 
-- strict-reviewed scans: **1–50 / 50 of 82**;
-- reviewed span: outside pagination + pp.**1–48**;
-- corrections found / propagated: **26 / 26**;
+- strict-reviewed scans: **1–70 / 70 of 82**;
+- reviewed span: outside pagination + pp.**1–68**;
+- corrections found / propagated: **29 / 29**;
 - unresolved fidelity discrepancies in reviewed range: **0**;
-- P5 source-visible transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8) — PASS**;
-- page-end/top changes **41→42 (8→9), 44→45 (9→10), 47→48 (10→11) — PASS**;
-- scans 41–50 introduced **10** source-supported corrections, all propagated, with no structural section-map change;
-- scan 51 is boundary evidence only and is not counted.
+- P5 source-visible transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8), 51 (11→12), 55 (12→13), 67 (15→16), 70 (16→17) — PASS**;
+- page-end/top changes **41→42 (8→9), 44→45 (9→10), 47→48 (10→11), 58→59 (13→14), 63→64 (14→15) — PASS**;
+- scans 61–70 introduced **2** source-supported corrections, both propagated, with no structural section-map change.
 
 Running fidelity record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Exact next activity
 
-**P5 scans 51–60 / printed pp.49–58.** Preserve scan **51 (11→12)** and scan **55 (12→13)** mid-page transitions, section 13 closure at scan **58**, section 14 top-of-page opening at scan **59**, and scan 59's suppressed/inferred p.57 folio. Record and propagate every confirmed source-visible correction before the next batch.
+**P5 scans 71–80 / printed pp.69–78.** Preserve scan **75** suppressed/inferred p.73 and source-visible section **18** opening, and scan **79** section **18→19** mid-page transition. Inspect scan **81** only if needed to close scan 80; do not count it. Record and propagate every confirmed source-visible correction before the next batch.

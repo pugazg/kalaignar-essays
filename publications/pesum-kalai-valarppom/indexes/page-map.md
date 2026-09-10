@@ -2,7 +2,7 @@
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`  
 Physical scans: **82**  
-Current gate: **P5 IN PROGRESS — scans 1–50 / 50 of 82 PASS**
+Current gate: **P5 IN PROGRESS — scans 1–70 / 70 of 82 PASS**
 
 ## Canonical pagination rule
 
@@ -63,18 +63,17 @@ Top-of-page openings: **7,42,45,48,59,64,75**.
 
 ## P5 overlay — IN PROGRESS
 
-- strict-reviewed scans: **1–50 / 50 of 82**;
-- reviewed printed span: outside pagination + pp.**1–48**;
-- corrections found / propagated: **26 / 26**;
+- strict-reviewed scans: **1–70 / 70 of 82**;
+- reviewed printed span: outside pagination + pp.**1–68**;
+- corrections found / propagated: **29 / 29**;
 - unresolved fidelity discrepancies in reviewed range: **0**;
-- suppressed/inferred folios rechecked so far: **3,4,5,6,7,42,45,48 — PASS**;
-- source-visible shared transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8) — PASS**;
-- page-end/top section changes rechecked: **41→42 (8→9), 44→45 (9→10), 47→48 (10→11) — PASS**;
-- structural section map changed by P5: **No**;
-- scan 51 used only as scan-50 boundary evidence, not counted.
+- suppressed/inferred folios rechecked so far: **3,4,5,6,7,42,45,48,59,64 — PASS**;
+- source-visible shared transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8), 51 (11→12), 55 (12→13), 67 (15→16), 70 (16→17) — PASS**;
+- page-end/top section changes rechecked: **41→42 (8→9), 44→45 (9→10), 47→48 (10→11), 58→59 (13→14), 63→64 (14→15) — PASS**;
+- structural section map changed by P5: **No**.
 
 Running record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Exact next activity
 
-**P5 scans 51–60 / pp.49–58.** Preserve scan **51 (11→12)** and scan **55 (12→13)** mid-page transitions, section 13 closure at scan **58**, section 14 top-of-page opening at scan **59**, and scan 59's suppressed/inferred p.57 folio. Inspect scan **61** only as boundary evidence if needed and propagate every source-supported correction before moving to the next batch.
+**P5 scans 71–80 / pp.69–78.** Preserve scan **75** suppressed/inferred p.73 and source-visible section **18** opening, and scan **79** section **18→19** mid-page transition. Inspect scan **81** only as boundary evidence if needed; do not count it. Propagate every source-supported correction before moving to the final P5 remainder.

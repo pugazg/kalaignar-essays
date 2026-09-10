@@ -49,15 +49,15 @@ Printed text and physical-copy evidence remain separate.
 - P2 — **COMPLETE / PASS — 82/82 VERIFIED**;
 - P3 — **COMPLETE / PASS — 19/19 assemblies**;
 - P4 — **COMPLETE / PASS**;
-- P5 — **IN PROGRESS — scans 1–60 / 60 of 82 PASS**;
-- P5 corrections found / propagated — **27 / 27**;
+- P5 — **IN PROGRESS — scans 1–70 / 70 of 82 PASS**;
+- P5 corrections found / propagated — **29 / 29**;
 - unresolved P5 fidelity discrepancies in reviewed range — **0**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**.
 
-P5 batch 6 scans 51–60 contributed **1** source-supported correction: scan 51 `போர்களம்` → `போர்க்களம்`, propagated to the canonical scan-51 record and section 11 assembly. Confirmed source-sensitive forms in scans 51–60 include scan 51 `போர்க்களம்` and printed `பே—4`; scan 52 `அவைக்கணம்`, `ஒளவைக்குக்`; scan 53 `வீணுக் குழைத்தோமடா`; scan 54 `கட்டுபடியான`, `குக்கிராமத்துப் பொதுக்கூட்டம்`; scan 55 `கிரேக்கத்து`; scan 56 `அம்பேத்கார்`, `இராசமன்னார்`, `நியாயந்தானே!`; scan 57 `எழுவயது`; scan 58 `மது பார்மிட்`, `‘போன்’`, `“போன்”`; scan 59 `களித்திருமளவுக்கு`; scan 60 `கம்ப்யூனிஸ்டுக்`, `தாற்குறையாக — ஆபாசமாக — அருவருக்கத்தக்க`.
+P5 batch 7 scans 61–70 contributed **2** source-supported corrections: scan 65 `அவைகளை ஓட்டிக் கம்பங்களிலும்` → `அவைகளை ஒட்டி கம்பங்களிலும்`; scan 70 `நாவன்மையென்பதும்` → `நாவன்மையெனப்படும்`. Both are propagated to the affected canonical records and section assemblies. Confirmed source-sensitive forms in scans 61–70 include scan 61 `கடுஞ்சொற் களஞ்சியமாகவும்—ஆபாசக் குட்டையாகவும்`, scan 62 `“வசவு”`, scan 63 `திருவாரூர் ஓடம் போக்கி`, scan 64 `வழியனுப்பி வைக்கப்பட்ட அழைத்துச் செல்லப்படுவார்`, scan 65 `அவைகளை ஒட்டி`, scan 66 `தளகர்த்தர்`, scan 67 `நாட்டி யிருக்கிறார்கள்` and printed `பே—5`, scan 68 `நோக்கமுண்மையை` / `மெருகேறும்`, scan 69 `புஜபலமிக்க` / `ருசியப் பொன்மொழி`, and scan 70 `நாவன்மையெனப்படும்`.
 
 Running P5 record: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 ## Exact next activity
 
-**P5 scans 61–70 / printed pp.59–68.** Preserve scan 64 suppressed/inferred p.62 and section 15 opening, scan 67 section 15→16 mid-page transition, and scan 70 section 16→17 mid-page transition. Inspect scan 71 only as boundary evidence if needed and propagate every confirmed correction before moving forward.
+**P5 scans 71–80 / printed pp.69–78.** Preserve scan 75 suppressed/inferred p.73 and section 18 opening, and scan 79 section 18→19 mid-page transition. Inspect scan 81 only as boundary evidence if needed and propagate every confirmed correction before moving forward.

@@ -9,7 +9,7 @@
 | P2 page-level transcription | **COMPLETE / PASS** | **82/82 VERIFIED**; scans 1–82 contiguous |
 | P3 assemblies | **COMPLETE / PASS** | **19/19 source-numbered assemblies**; main work scans 7–82 / pp.5–80 represented |
 | P4 source/completeness audit | **COMPLETE / PASS** | **82/82 page records + 19/19 assemblies reconciled; discrepancies 0** |
-| P5 strict visual fidelity | **IN PROGRESS — 60/82** | scans **1–60 PASS**; **27 corrections / 27 propagated / 0 unresolved in reviewed range** |
+| P5 strict visual fidelity | **IN PROGRESS — 70/82** | scans **1–70 PASS**; **29 corrections / 29 propagated / 0 unresolved in reviewed range** |
 | English E0–E7 | **NOT STARTED** | blocked until Tamil freeze |
 
 ## Source / P1 durable facts
@@ -50,7 +50,7 @@ Full span validation: [`P3_ASSEMBLY_AUDIT.md`](P3_ASSEMBLY_AUDIT.md).
 
 Source identity, canonical records, pagination, source-witness distinctions, **19/19** assemblies, shared transitions and correction propagation reconcile with **0 unresolved P4 discrepancies/blockers**. Dedicated record: [`P4_SOURCE_COMPLETENESS_REVIEW.md`](P4_SOURCE_COMPLETENESS_REVIEW.md).
 
-## P5 — IN PROGRESS — 60 / 82
+## P5 — IN PROGRESS — 70 / 82
 
 Completed strict visual batches:
 
@@ -62,17 +62,19 @@ Completed strict visual batches:
 | P5-031-040 | 31–40 | pp.29–38 | **PASS** | 9 | 0 |
 | P5-041-050 | 41–50 | pp.39–48 | **PASS** | 10 | 0 |
 | P5-051-060 | 51–60 | pp.49–58 | **PASS** | 1 | 0 |
+| P5-061-070 | 61–70 | pp.59–68 | **PASS** | 2 | 0 |
 
-Current P5 totals: **60/82 strict-reviewed; 27 corrections found; 27/27 propagated; 0 unresolved fidelity discrepancies in reviewed range**.
+Current P5 totals: **70/82 strict-reviewed; 29 corrections found; 29/29 propagated; 0 unresolved fidelity discrepancies in reviewed range**.
 
-Batch 6 correction:
+Batch 7 corrections:
 
-1. scan 51 `போர்களம்` → `போர்க்களம்`.
+1. scan 65 `அவைகளை ஓட்டிக் கம்பங்களிலும்` → `அவைகளை ஒட்டி கம்பங்களிலும்`;
+2. scan 70 `நாவன்மையென்பதும்` → `நாவன்மையெனப்படும்`.
 
-All batch-6 correction is propagated to the affected canonical page record and section 11 assembly. Section changes **51 (11→12)** and **55 (12→13)** passed strict review; section 13 closes at scan 58; section 14 opens at scan 59 with suppressed/inferred p.57 folio. Scan 61 was inspected only as boundary evidence and is not counted.
+Both batch-7 corrections are propagated to their canonical page records and affected section assemblies. Scan 64 suppressed/inferred p.62 and section 15 page-top opening passed strict review; scan 67 section **15→16** and scan 70 section **16→17** mid-page transitions passed strict review. Unresolved batch-7 discrepancies: **0**.
 
 Detailed running record: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Exact next activity
 
-**P5 scans 61–70 / printed pp.59–68.** Preserve scan **64** suppressed/inferred p.62 and section **15** opening, scan **67** section **15→16** mid-page transition, and scan **70** section **16→17** mid-page transition. Inspect scan **71** only as batch-boundary evidence if needed. English remains blocked while P5 is open.
+**P5 scans 71–80 / printed pp.69–78.** Preserve scan **75** suppressed/inferred p.73 and source-visible section **18** opening, and scan **79** section **18→19** mid-page transition. Inspect scan **81** only as batch-boundary evidence if needed. English remains blocked while P5 is open.
