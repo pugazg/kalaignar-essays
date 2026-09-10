@@ -8,8 +8,8 @@
 | P1 metadata + page map + section mapping | **PASS** | **82/82** scans mapped; pp.1–80; sections **19/19** |
 | P2 page-level transcription | **COMPLETE / PASS** | **82/82 VERIFIED**; scans 1–82 contiguous |
 | P3 assemblies | **COMPLETE / PASS** | **19/19 source-numbered assemblies**; main work scans 7–82 / pp.5–80 represented |
-| P4 source/completeness audit | **NOT STARTED / NEXT** | — |
-| P5 strict visual fidelity | **NOT STARTED** | — |
+| P4 source/completeness audit | **COMPLETE / PASS** | **82/82 page records + 19/19 assemblies reconciled; discrepancies 0** |
+| P5 strict visual fidelity | **NOT STARTED / NEXT** | — |
 | English E0–E7 | **NOT STARTED** | blocked until Tamil freeze |
 
 ## Source / P1 durable facts
@@ -71,14 +71,37 @@ Shared transition scans are split only at the source-visible numbered-section bo
 
 Full P3 coverage and span validation: [`P3_ASSEMBLY_AUDIT.md`](P3_ASSEMBLY_AUDIT.md).
 
+## P4 — COMPLETE / PASS
+
+The source/completeness reconciliation was performed against the live source record, canonical page-record inventory, structural indexes and all 19 P3 assemblies.
+
+- controlling source identity/checksum/size/scan count: **reconciled / PASS**;
+- distinct title witnesses: **preserved / PASS**;
+- canonical physical-scan records: **82 / 82**, scan numbers `0001–0082` contiguous;
+- missing / duplicate scan records: **0 / 0**;
+- pagination rule and suppressed/inferred folio set: **reconciled / PASS**;
+- front-matter printed text vs handwriting/stamps/physical-copy marks: **separated / PASS**;
+- live numbered-section assemblies: **19 / 19 source-complete**;
+- section/assembly map drift: **0**;
+- shared transition duplication/omission defects: **0**;
+- scan 13 `வீடுதான்` propagation: **PASS**;
+- scan 74 `வரியிலே` / `வரிக்கு` propagation: **PASS**;
+- new P4 text corrections: **0**;
+- unresolved P4 discrepancies / blockers: **0 / 0**.
+
+Dedicated record: [`P4_SOURCE_COMPLETENESS_REVIEW.md`](P4_SOURCE_COMPLETENESS_REVIEW.md).
+
+P4 is a reconciliation/completeness gate and does **not** substitute for the separate P5 direct strict visual word/punctuation pass.
+
 ## Corrections / normalization ledger
 
 - documented P2 correction: scan 13 draft `வீட்டான்` → source-visible `வீடுதான்`;
 - final-batch direct re-read correction: scan 74 draft `வாரியிலே` / `வாரிக்கு` → source-visible **`வரியிலே` / `வரிக்கு`**;
 - P2 silent normalization: **0**;
 - P3 silent normalization: **0**;
-- unresolved Tamil/source readings entering P4: **0**.
+- P4 new corrections: **0**;
+- unresolved Tamil/source readings entering P5: **0**.
 
 ## Exact next activity
 
-**P4 — source audit / completeness review.** Reconcile the source record, all **82 canonical page records**, all **19 assemblies**, the section/page maps, front-matter and witness distinctions, physical-copy evidence separation, and correction provenance. Record and propagate any source-supported discrepancy before closing P4. Do not start P5 or English in the same step unless separately authorized.
+**P5 — strict visual word/punctuation fidelity pass over all 82 physical scans.** Re-inspect every physical source scan directly against its canonical page record — cover/front matter, body, suppressed/inferred folio distinctions, words, spacing, punctuation, quotations, dates, numbers, headings and continuations. Record every old reading → source-visible correction and propagate any correction to dependent assemblies/indexes/trackers. Create `VISUAL_TEXT_FIDELITY_REVIEW.md` (or guide-equivalent report) before closing P5. English remains blocked until Tamil P5 freeze.
