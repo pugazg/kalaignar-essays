@@ -102,16 +102,21 @@ Dedicated review: `P4_SOURCE_COMPLETENESS_REVIEW.md`.
 
 ## P5 strict visual fidelity
 
-P5 is **IN PROGRESS — scans 1–10 / 10 of 82 PASS**.
+P5 is **IN PROGRESS — scans 1–20 / 20 of 82 PASS**.
 
-- reviewed range: outside pagination + pp.1–8;
-- P5 corrections found through scan 10: **2**;
-- corrections propagated: **2 / 2**;
+- reviewed range: outside pagination + pp.1–18;
+- completed batches: `P5-001-010`, `P5-011-020` — **PASS / PASS**;
+- P5 corrections found through scan 20: **5**;
+- corrections propagated: **5 / 5**;
 - unresolved fidelity discrepancies in reviewed range: **0**;
 - scan 4 English imprint old reading `Kalaignar` → source-visible **`Kalaingnar`**;
-- scan 7 opening quotation old `‘வெண்ணிலாவும்` → source-visible **`“வெண்ணிலாவும்`**, propagated to section-1 assembly;
-- reviewed suppressed/inferred folios `3,4,5,6,7`: **PASS**;
-- scan 5 handwriting-only distinction: **PASS**.
+- scan 7 opening quotation old `‘வெண்ணிலாவும்` → source-visible **`“வெண்ணிலாவும்`**;
+- scan 19 `அப்படியிருக்குமேயானால்` → **`அப்படி இருக்குமேயானால்`**;
+- scan 19 `எப்படிப் பாலையும்` → **`எப்படி பாலையும்`**;
+- scan 19 `வைத்தால்,எப்படிக் எறும்பானது` → **`வைத்தால்,எப்படி எறும்பானது`**;
+- all body-text corrections are propagated to their numbered-section assemblies;
+- source-visible transition scans **12 (1→2)** and **16 (2→3)**: **PASS**;
+- scan 21 inspected only as scan-20 boundary evidence, not counted.
 
 Running ledger: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
@@ -123,10 +128,10 @@ Running ledger: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 - P2 — **COMPLETE / PASS — 82/82 VERIFIED**;
 - P3 — **COMPLETE / PASS — 19/19 assemblies**;
 - P4 — **COMPLETE / PASS**;
-- P5 — **IN PROGRESS — 10/82**;
+- P5 — **IN PROGRESS — 20/82**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**;
 - unresolved fidelity discrepancies in reviewed P5 range — **0**.
 
 ## Exact next activity
 
-**P5 scans 11–20 / printed pp.9–18.** Re-inspect each source scan directly against its canonical page record, including scan 12 section `1→2` and scan 16 section `2→3` transitions, and record/propagate every source-visible correction before moving forward.
+**P5 scans 21–30 / printed pp.19–28.** Re-inspect each source scan directly against its canonical page record, including scan 22 section `3→4` and scan 27 section `4→5` transitions, and record/propagate every source-visible correction before moving forward.
