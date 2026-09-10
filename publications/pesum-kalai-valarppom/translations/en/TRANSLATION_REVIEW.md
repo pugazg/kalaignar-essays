@@ -20,106 +20,85 @@ English work never modifies the frozen Tamil authority.
 
 ## E0 — planning / workspace bootstrap
 
-**COMPLETE / PASS.** `TRANSLATION_PLAN.md`, English progress tracker, living lexicon, and this review ledger were initialized. Blockers: **0**.
+**COMPLETE / PASS.** Translation plan, tracker, lexicon and review ledger initialized. Blockers: **0**.
 
 ## T0 — frozen-source prerequisite
 
-**COMPLETE / PASS — 19 / 19.** All source-numbered Tamil assemblies were enumerated from the frozen baseline. Their exact Git blob SHAs are the authority for English front matter.
+**COMPLETE / PASS — 19/19.** Exact frozen Tamil assembly SHAs are recorded in the publication plan and remain the source authority for every English gate.
 
-| # | Frozen Tamil assembly | Frozen Tamil blob SHA | T0 | English body |
-|---:|---|---|---|---|
-| 1 | `articles/01-section-01.md` | `e5517b7cc344554d51af4092599059d481039c1e` | **PASS** | **voice-reviewed** |
-| 2 | `articles/02-section-02.md` | `b10894b911393239e57446687c34030aff88a8e3` | **PASS** | not-started |
-| 3 | `articles/03-section-03.md` | `21904dd457bb3455230de06421ff2d906ac4958d` | **PASS** | not-started |
-| 4 | `articles/04-section-04.md` | `b938be21e198d69548e45ae96cb0e9802b8d7079` | **PASS** | not-started |
-| 5 | `articles/05-section-05.md` | `7fbb055e1f7f2630d39f5a3e203de5e2547b93b9` | **PASS** | not-started |
-| 6 | `articles/06-section-06.md` | `7303356861196c1d98951c651c38c42b4d07ac90` | **PASS** | not-started |
-| 7 | `articles/07-section-07.md` | `722e66535b9c1503f574e0adf8362e6b2c020653` | **PASS** | not-started |
-| 8 | `articles/08-section-08.md` | `1bfc1752ccc8217e14fe527cd49ab0362d4484a0` | **PASS** | not-started |
-| 9 | `articles/09-section-09.md` | `d0e18d25b0e3ae4a8585d8fa117d07f118dabf5c` | **PASS** | not-started |
-| 10 | `articles/10-section-10.md` | `32dd5cf5bf4ec73e9c0cdb4c0f1eeead2f3a7055` | **PASS** | not-started |
-| 11 | `articles/11-section-11.md` | `427a9ef35cd8ff1ffd873d5d2c9afccdcb7b2375` | **PASS** | not-started |
-| 12 | `articles/12-section-12.md` | `91f08b6cf0de84cc3a1b58120b1702d355f4c683` | **PASS** | not-started |
-| 13 | `articles/13-section-13.md` | `97dd9dc2f5ae10828ff68095ca87dd2cb484e745` | **PASS** | not-started |
-| 14 | `articles/14-section-14.md` | `4c611fa7a2b6d91bfa4c767bfdb8c9fcfff8316c` | **PASS** | not-started |
-| 15 | `articles/15-section-15.md` | `682c68cdc0db1899749f2943c9d311ecb1061eb8` | **PASS** | not-started |
-| 16 | `articles/16-section-16.md` | `1ab092b3b7bcdc0efd23f08e49799e7c3fda8d5f` | **PASS** | not-started |
-| 17 | `articles/17-section-17.md` | `bd4cb1d4e631e19de0e5cc62f0aecf176d7e2fe2` | **PASS** | not-started |
-| 18 | `articles/18-section-18.md` | `060e72d9ec61e491343c948c2db9371312b7e3a8` | **PASS** | not-started |
-| 19 | `articles/19-section-19.md` | `aa3eb2b5311f8ad1a705f606bd4ace3f2059ec6c` | **PASS** | not-started |
-
-Before each English gate, re-check that the live Tamil blob still equals the frozen SHA above. A mismatch is a hard source-drift stop.
+Section 1 Tamil authority: `articles/01-section-01.md` — **`e5517b7cc344554d51af4092599059d481039c1e`**, scans **7–12 / printed pp.5–10**.
 
 ---
 
 ## E1 — Section 1
 
-### T0 source check
-
-**PASS.** Live `articles/01-section-01.md` remains frozen at **`e5517b7cc344554d51af4092599059d481039c1e`**.
-
 ### T1 close draft
 
-**COMPLETE / PASS as a draft gate.**
-
-| Authority | Blob |
-|---|---|
-| Frozen Tamil source | `e5517b7cc344554d51af4092599059d481039c1e` |
-| T1 English draft | `d36aec208ea15b970795a7717dd770d2d27251d8` |
-
-Draft file: `translations/en/01-section-01.md`  
-Source span: scans **7–12 / printed pp.5–10**.
+**COMPLETE / PASS.** Historical T1 English blob: **`d36aec208ea15b970795a7717dd770d2d27251d8`**.
 
 ### T2 bilingual fidelity review
 
-**COMPLETE / PASS after 6 corrections.**
+**COMPLETE / PASS after 6 corrections.** Post-T2 English blob: **`d185b201c1113d99400d31579e773ae167cbb8a0`**.
 
-Post-T2 English blob: **`d185b201c1113d99400d31579e773ae167cbb8a0`**. T2 final checks: omissions **0**; added claims **0**; names/referents/dates/numbers **PASS**; Bharathidasan quotation **PASS**; Valluvar quotation and explanation **PASS / source-based**; logical connectors and repetition **PASS**; source-page comments **6/6**; unresolved T2 issues **0**.
-
-#### T2 corrections
+T2 corrections:
 
 | # | T1 English | T2 English | Frozen Tamil basis / reason |
 |---:|---|---|---|
-| 1 | `the light that moves us to action` | `the light of action` | `செயலாற்றும் ஒளியை`; restores the four-part light parallelism and removes added wording. |
+| 1 | `the light that moves us to action` | `the light of action` | `செயலாற்றும் ஒளியை`; restores four-part light parallelism and removes added wording. |
 | 2 | `but becomes Bharathidasan’s song` | `but is Bharathidasan’s song` | `பாரதிதாசனாரின் பாடலாக இருந்தால்`; preserves the source condition rather than implying transformation. |
 | 3 | `one has to debate both constituency matters and the problems of the state—engagingly, and heatedly too` | `one has to debate constituency matters and the problems of the state engagingly; one has to debate them heatedly too` | Restores deliberately repeated `விவாதிக்க வேண்டியிருக்கிறது`. |
-| 4 | `The world will swiftly heed a task...` | `The world will swiftly heed his bidding...` | Follows the Kural witness and Kalaignar's immediate explanation `அவருடைய ஏவலை உலகம்...`. |
+| 4 | `The world will swiftly heed a task...` | `The world will swiftly heed his bidding...` | Follows the Kural witness and Kalaignar’s immediate explanation `அவருடைய ஏவலை உலகம்...`. |
 | 5 | `various national issues` | `problems concerning various countries` | `பல்வேறு நாட்டுப் பிரச்சினைகளை`; preserves the plural country reference. |
 | 6 | `India’s national rights` | `India’s rights as a nation` | `இந்திய நாட்டுரிமைகளை`; avoids an ambiguous English compound. |
 
 ### T3 Kalaignar voice review
 
-**COMPLETE / PASS after 4 voice corrections.**
+**COMPLETE / PASS after 4 voice corrections.** Post-T3 English blob: **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**.
 
-Post-T3 English blob: **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**  
-Translation status: **`voice-reviewed`**  
-T4 / T5: **pending**.
-
-The T3 pass re-read the English as English while comparing against the frozen Tamil. Final voice checks:
-
-- directness / conversational address — **PASS**;
-- short emphatic sentences — **PASS**;
-- rhetorical questions / exclamations — **PASS**;
-- deliberate repetition / parallel structures — **PASS**;
-- lamp/light and drinking-in imagery — **PASS**;
-- `சொற்களை ஆள்வது` mastery metaphor — **PASS**;
-- polemical/assertive force — **PASS**;
-- academic distancing introduced by translation — **0 unresolved**;
-- Hyde Park anecdote as spoken storytelling — **PASS**;
-- closing stage-speech / home-speech humour — **PASS**;
-- source-page comments — **6/6 retained**;
-- frozen Tamil changes during T3 — **0**.
-
-#### T3 corrections
+T3 corrections:
 
 | # | Post-T2 English | T3 English | Tamil / voice basis |
 |---:|---|---|---|
-| 1 | `It is with such a good purpose that this serial article is being written.` | `It is precisely with such a good purpose that this serial article is being written.` | Restores the emphasis of `அத்தகைய நல்ல நோக்கத்துடன்தான்` rather than leaving the sentence flatter than the Tamil. |
-| 2 | `Valluvar gave us an entire chapter called “Power of Speech,” making the point that...` | `Valluvar gave us an entire chapter called “Power of Speech,” telling us that...` | Removes academic/expository distancing and restores Kalaignar's direct explanatory voice. |
-| 3 | `It is the interesting things about commanding those words that I am going to tell you.` | `And it is those interesting things about commanding words that I am going to tell you.` | Makes the transition conversational and forward-driving while preserving `...பற்றிய சுவையான தகவல்களைத்தான் உங்களுக்கு நான் சொல்லப் போகிறேன்`. |
-| 4 | `who had spoken in that park in his early days!` | `who spoke in that park in his early days!` | Removes an unnecessarily detached past-perfect construction so the anecdote lands with the source's spoken immediacy. |
+| 1 | `It is with such a good purpose that this serial article is being written.` | `It is precisely with such a good purpose that this serial article is being written.` | Restores emphasis of `அத்தகைய நல்ல நோக்கத்துடன்தான்`. |
+| 2 | `Valluvar gave us an entire chapter called “Power of Speech,” making the point that...` | `Valluvar gave us an entire chapter called “Power of Speech,” telling us that...` | Removes academic distancing and restores direct explanatory voice. |
+| 3 | `It is the interesting things about commanding those words that I am going to tell you.` | `And it is those interesting things about commanding words that I am going to tell you.` | Restores conversational forward movement. |
+| 4 | `who had spoken in that park in his early days!` | `who spoke in that park in his early days!` | Removes detached past-perfect construction and restores spoken immediacy. |
 
-The publication-title rendering **Let Us Develop the Art of Speaking** passed T3 voice review and is now **voice-approved / T4 pending**. No other Section 1 lexicon wording changed at T3.
+### T4 terminology / quotation / citation audit
+
+**COMPLETE / PASS — 0 English body corrections.**
+
+T4 input and output English blob are identical: **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**. Translation status remains **`voice-reviewed`** until T5 article verification.
+
+T4 independently audited the frozen Tamil against the voice-reviewed English and living lexicon. Final checks:
+
+- all pre-existing Section 1 lexicon decisions — **11/11 PASS**;
+- publication title `Let Us Develop the Art of Speaking` — **PASS / T4 approved**;
+- numeric section identity `1` — **PASS**;
+- `art for art’s sake` / `the art of speaking` — **PASS**;
+- `veena / yaazh / nadaswaram` — **PASS / source-bearing transliteration retained**;
+- `raga / tala / bhava` — **PASS**;
+- `sugarcane-sweet Tamil` — **PASS / source image retained**;
+- Bharathidasan quotation — **PASS / complete / attribution retained / no published English translation imported**;
+- Valluvar quotation — **PASS / two-line structure retained / source-based / no published English translation imported**;
+- Kalaignar’s Valluvar explanation — **PASS / kept separate from quoted verse**;
+- `Power of Speech` for `சொல்லவன்மை` — **PASS / source-based; no external chapter title imported**;
+- `Amma, Appa` — **PASS**;
+- `to command words` — **PASS**;
+- `public-speaking arena` — **PASS**;
+- `Effort brings accomplishment` — **PASS**;
+- `1970` — **PASS**;
+- `Hyde Park` / source parenthetical `(HydePark)` — **PASS**; normal English spacing retained while the source-specific parenthetical remains visible at first occurrence;
+- `V. K. Krishna Menon` — **PASS**;
+- `U.N. Assembly` — **PASS**; no unsupported expansion to `U.N. General Assembly`;
+- source-page boundary comments — **6/6 PASS**, scans 7–12;
+- source `உடன்பிறப்பே` occurrences in Section 1 — **0**;
+- frozen Tamil edits during T4 — **0**;
+- unresolved terminology / quotation / citation issues — **0**.
+
+T4 added five useful proper-name/source-label entries to the living lexicon (`Bharathidasan`, `Valluvar / Kural`, `Hyde Park / (HydePark)`, `V. K. Krishna Menon`, `U.N. Assembly`) and promoted all Section 1 working decisions to **T4 approved**. These are consistency aids, not permission to override later context.
+
+No T4 correction table is needed because the English body required **0** corrections.
 
 ---
 
@@ -132,7 +111,7 @@ The publication-title rendering **Let Us Develop the Art of Speaking** passed T3
 | T1 close draft | **1/19** |
 | T2 bilingual fidelity | **1/19** |
 | T3 Kalaignar voice | **1/19** |
-| T4 terminology / quotation / citation | **0/19** |
+| T4 terminology / quotation / citation | **1/19** |
 | T5 section verification | **0/19** |
 | English body files | **1/19** |
 
@@ -140,4 +119,4 @@ Unresolved English blockers: **0**. Frozen Tamil edits during E1: **0**.
 
 ## Exact next activity
 
-**E1 — Section 1 / T4 terminology / quotation / citation audit.** Recheck frozen Tamil blob `e5517b7cc344554d51af4092599059d481039c1e` against voice-reviewed English blob `bede85599ff634ef8ce7d6bd85aa6b9a9e035289`. Audit every Section 1 lexicon decision, proper name, musical term, Bharathidasan quotation, Valluvar quotation/chapter label, `1970`, Hyde Park / `(HydePark)`, V. K. Krishna Menon, U.N. Assembly, and all six source-page comments. Record every T4 correction and only then move to T5. Do not start T5 in the same activity.
+**E1 — Section 1 / T5 article verification.** Reconfirm frozen Tamil blob `e5517b7cc344554d51af4092599059d481039c1e` and current English blob `bede85599ff634ef8ce7d6bd85aa6b9a9e035289`; reconcile T0–T4 provenance, metadata, six source-page comments, tracker/lexicon state and unresolved-counts. If no regression is found, set Section 1 `translation_status: "verified"`, record its final verified blob SHA and mark T5 PASS. Do not start Section 2 in the same activity.
