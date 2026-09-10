@@ -51,9 +51,30 @@ These decisions were established from frozen `articles/01-section-01.md` and ind
 - source-page comments — **6/6 retained**, scans 7–12 / printed pp.5–10.
 - exact source `உடன்பிறப்பே` does **not** occur in Section 1; the permanent repository rule therefore has no body occurrence to apply here.
 
+## Section 2 — T1 working decisions
+
+These decisions come from frozen `articles/02-section-02.md` and the first complete English draft. They are **T1 provisional** until the independent T2/T3/T4 reviews.
+
+| Tamil | Preferred English | Context / exception | Status |
+|---|---|---|---|
+| `சிறுவர் சீர்திருத்த சங்கம்` | `Children’s Reform Association` | Name of Kalaignar’s adolescent organisation; translated descriptively from the source wording. | **T1 provisional** |
+| `காலணா` | `quarter-anna` | Historical subscription/admission amount; preserve the period currency rather than converting it. | **T1 provisional** |
+| `நெஞ்சுக்கு நீதி` | `Nenjukku Neethi` | Title of Kalaignar’s autobiographical work as referenced in the source; no descriptive English retitling added. | **T1 provisional** |
+| `ஆஞ்சநேயர் ஆலயம்` | `Anjaneya temple` | Preserve the source deity-name form rather than silently substituting another name. | **T1 provisional** |
+| `இசைமணி` | `Isaimani` | Source-borne honorific before T. V. Namasivayam; retained rather than flattened into a generic profession. | **T1 provisional** |
+| `சுயமரியாதை இயக்கம்` | `Self-Respect Movement` | Political/social movement name; retain as a named movement. | **T1 provisional** |
+| `அறிஞர் அண்ணா` | `Arignar Anna` | Preserve the source epithet/name choice; do not silently expand to a modern full name in body text. | **T1 provisional** |
+| `பணமுடிப்பு` | `purse` | Ceremonial monetary presentation in the Bharathidasan function context; retain the source event rather than adding an amount. | **T1 provisional** |
+| `அவை நடுக்கம்` / `சபைக் கூச்சம்` | `stage fright` / `shyness before an assembly` | Source itself pairs the two expressions; retain the explanatory pairing rather than collapsing both into one phrase. | **T1 provisional** |
+| `மகா வித்துவான்` | `Maha Vidwan` | Source honorific/scholarly designation for Dandapani Desikar; retained in source-bearing form. | **T1 provisional** |
+| `நடிகர் திலகம் சிவாஜி` | `Nadigar Thilagam Sivaji` | Preserve the source epithet with Sivaji; do not reduce it to the personal name alone. | **T1 provisional** |
+| `தம்பி` | `Thambi` | Direct address in Anna’s quoted greeting to Sivaji; retained as a source-bearing address rather than flattened to `brother`. | **T1 provisional** |
+| `கட்டபொம்மன்` / comic slip `பொம்மன் கட்டன்` | `Kattabomman` / `Bomman Kattan` | Preserve the intentional anecdotal contrast: correct play name outside the slip, speaker’s transposed form inside the quotation. | **T1 provisional** |
+
 ## Current count
 
 - permanent repository-wide lexical decisions: **1**;
 - publication-level structural/rhetorical rules: **4**;
 - Section 1 T4-approved article-derived decisions: **16**;
+- Section 2 T1 provisional decisions: **13**;
 - unresolved Section 1 terminology / quotation / citation issues: **0**.
