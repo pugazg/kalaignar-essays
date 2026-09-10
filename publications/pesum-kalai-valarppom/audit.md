@@ -9,10 +9,12 @@
 | P2 page-level transcription | **COMPLETE / PASS** | **82/82 VERIFIED**; scans 1–82 contiguous |
 | P3 assemblies | **COMPLETE / PASS** | **19/19 source-numbered assemblies**; main work scans 7–82 / pp.5–80 represented |
 | P4 source/completeness audit | **COMPLETE / PASS** | **82/82 page records + 19/19 assemblies reconciled; discrepancies 0** |
-| P5 strict visual fidelity | **COMPLETE / PASS — 82/82** | scans **1–82 PASS**; **33 corrections / 33 propagated / 0 unresolved** |
-| English E0–E7 | **NOT STARTED** | Tamil archival prerequisite satisfied; next stage E0 / T0 setup |
+| P5 strict visual fidelity | **COMPLETE / PASS** | **82/82 PASS; 33 corrections / 33 propagated / 0 unresolved** |
+| English E0 workspace/planning | **COMPLETE / PASS** | plan + tracker + lexicon + review ledger initialized |
+| English T0 source prerequisite | **COMPLETE / PASS — 19/19** | exact frozen Tamil blob SHAs recorded for every numbered section |
+| English T1–T5 | **NOT STARTED — 0/19** | next: Section 1 T1 voice-calibration draft |
 
-## Source / P1 durable facts
+## Source / structure authority
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`, SHA-256 `73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`, 105,698,402 bytes, **82 image-only scans**; source PDF is not committed.
 
@@ -21,64 +23,57 @@ Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப
 - scans 1–2 outside pagination;
 - scans 3–82 = printed pp.1–80, `printed page = scan - 2`;
 - suppressed/inferred folios: `3,4,5,6,7,42,45,48,59,64,75`;
-- section starts/ends: **19/19 / 19/19**;
+- source-numbered sections: **19**;
 - shared mid-page transitions: `12,16,22,27,31,34,38,51,55,67,70,79`;
 - no printed contents page; no separate back-cover scan;
 - structural blockers: **0**.
 
-## P2 — COMPLETE / PASS
+## Tamil P0–P5 — COMPLETE / FROZEN
 
-All **82 physical scans** have canonical page records and were directly compared with source pixels. Printed pp.1–80 are complete; unresolved printed-text/source/structure readings **0**; silent normalization **0**.
+All **82 physical scans** have canonical page records and all **19** source-numbered assemblies are complete. P5 directly re-read all scans against the source pixels and closed with:
 
-Documented P2 corrections:
+- strict-reviewed — **82/82**;
+- source-supported P5 corrections — **33**;
+- propagated — **33/33**;
+- unresolved fidelity discrepancies — **0**.
 
-- scan 13 draft `வீட்டான்` → source-visible `வீடுதான்`;
-- scan 74 draft `வாரியிலே` / `வாரிக்கு` → source-visible `வரியிலே` / `வரிக்கு`.
+Detailed correction provenance: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md). Tamil `pages/` and `articles/` are frozen and must not be changed without genuinely new source evidence.
 
-## P3 — COMPLETE / PASS
+## English E0 / T0 — COMPLETE / PASS
 
-- expected/live assemblies: **19 / 19**, `01-section-01.md` through `19-section-19.md`;
-- main-work coverage: scans **7–82 / pp.5–80**;
-- missing / unexpected extra assemblies: **0 / 0**;
-- unexplained boundary gaps / overlaps: **0 / 0**;
-- unresolved assembly body-text blocks: **0**;
-- assembly normalization: **0**.
+English setup files:
 
-Full span validation: [`P3_ASSEMBLY_AUDIT.md`](P3_ASSEMBLY_AUDIT.md).
+- [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md);
+- [`translations/en/README.md`](translations/en/README.md);
+- [`translations/en/LEXICON.md`](translations/en/LEXICON.md);
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).
 
-## P4 — COMPLETE / PASS
+T0 source baseline:
 
-Source identity, canonical records, pagination, source-witness distinctions, **19/19** assemblies, shared transitions and correction propagation reconcile with **0 unresolved P4 discrepancies/blockers**. Dedicated record: [`P4_SOURCE_COMPLETENESS_REVIEW.md`](P4_SOURCE_COMPLETENESS_REVIEW.md).
+- frozen Tamil baseline commit — **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**;
+- expected / recorded Tamil assemblies — **19 / 19**;
+- exact assembly blob SHAs recorded — **19/19**;
+- T0 PASS — **19/19**;
+- missing / extra source units — **0 / 0**;
+- unresolved source-prerequisite blockers — **0**;
+- English body files — **0/19**;
+- frozen Tamil changes during E0/T0 — **0**.
 
-## P5 — COMPLETE / PASS — 82 / 82
+Before each T1 draft, the live Tamil article must exactly match its T0-recorded blob SHA. Any mismatch is a hard source-drift stop.
 
-Completed strict visual batches:
+## English gate totals
 
-| Batch | Scans | Printed span | Result | Corrections | Unresolved |
-|---|---:|---|---|---:|---:|
-| P5-001-010 | 1–10 | outside pagination + pp.1–8 | **PASS** | 2 | 0 |
-| P5-011-020 | 11–20 | pp.9–18 | **PASS** | 3 | 0 |
-| P5-021-030 | 21–30 | pp.19–28 | **PASS** | 2 | 0 |
-| P5-031-040 | 31–40 | pp.29–38 | **PASS** | 9 | 0 |
-| P5-041-050 | 41–50 | pp.39–48 | **PASS** | 10 | 0 |
-| P5-051-060 | 51–60 | pp.49–58 | **PASS** | 1 | 0 |
-| P5-061-070 | 61–70 | pp.59–68 | **PASS** | 2 | 0 |
-| P5-071-080 | 71–80 | pp.69–78 | **PASS** | 3 | 0 |
-| P5-081-082 | 81–82 | pp.79–80 | **PASS** | 1 | 0 |
+| Gate | Complete |
+|---|---:|
+| T0 | **19/19** |
+| T1 | **0/19** |
+| T2 | **0/19** |
+| T3 | **0/19** |
+| T4 | **0/19** |
+| T5 | **0/19** |
 
-Final P5 totals: **82/82 strict-reviewed; 33 corrections found; 33/33 propagated; 0 unresolved fidelity discrepancies**.
-
-Final-range corrections:
-
-1. scan 77 `அப்படி ஒரு பயிற்சியை` → `அப்படியொரு பயிற்சியை`;
-2. scan 77 `பேசுவார்கள், கழுத்திலே,` → `பேசுவார்கள். கழுத்திலே,`;
-3. scan 78 `கி. ஆ. பெ. விசுவநாதம்` → `கி.ஆ.பெ. விசுவநாதம்`;
-4. scan 81 `அந்தக் குழுவினில் எனக்கும்` → `அந்தக்குழுவினில் எனக்கும்`.
-
-All four final-range corrections are propagated to canonical page records and affected section 18 / section 19 assemblies. Scan 75 suppressed/inferred p.73 and section **18** page-top opening passed strict review; scan 79 section **18→19** mid-page transition passed; scan 81→82 cross-page continuation passed; scan 82 source-end closure passed. Unresolved final-range discrepancies: **0**.
-
-Detailed completed record: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
+Permanent rule: exact source `உடன்பிறப்பே` → `Udanpirappē`; direct salutation `Udanpirappē,` only where the exact source form occurs.
 
 ## Exact next activity
 
-Tamil P0–P5 is **COMPLETE / PASS / FROZEN**. English has not started. Follow `ESSAY_TRANSLATION_GUIDE.md` and begin **English E0 / T0 source-prerequisite setup** against frozen strict-reviewed Tamil assemblies before drafting English body text.
+**E1 — Section 1 / T1 voice-calibration draft.** Reconfirm frozen Tamil `articles/01-section-01.md` blob **`e5517b7cc344554d51af4092599059d481039c1e`**, create `translations/en/01-section-01.md` as a complete paragraph-by-paragraph `draft`, preserve all source-page comments and rhetorical action, and update the lexicon/tracker/review ledger. T2–T5 remain pending after the T1 draft.
