@@ -127,7 +127,7 @@ T3 / T4 / T5 — **pending**.
 | T0 source prerequisite | **19/19 PASS** |
 | T1 close draft | **3/19** |
 | T2 bilingual fidelity | **3/19** |
-| T3 Kalaignar voice | **2/19** |
+| T3 Kalaignar voice | **3/19** |
 | T4 terminology / quotation / citation | **2/19** |
 | T5 section verification | **2/19** |
 | Verified English articles | **2/19** |
@@ -137,4 +137,4 @@ Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0*
 
 ## Exact next activity
 
-**E1 — Section 3 / T3 Kalaignar voice review.** Re-fetch frozen Tamil blob **`21904dd457bb3455230de06421ff2d906ac4958d`** and post-T2 English blob **`2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`**. Review the English for directness, emphatic `தான்` constructions, short/exclamatory cadence, the movements→sound→words progression, dictionary imagery, old-style preamble humour, memorisation critique, Socrates–Marx–Ingersoll–Periyar parallelism, Brahma/caste repetition, the `மலிவு` anecdote and final rhetorical question. Preserve exact T2 meaning and the source-missing quotation mark. Record every T3 correction transparently. Do not start T4 in the same activity.
+**E1 — Section 3 / T4 terminology / quotation / citation audit.** Re-fetch frozen Tamil blob `21904dd457bb3455230de06421ff2d906ac4958d` and post-T3 English blob `00581593374a42a7f132fd3434684a52038b19d4`. Audit all 17 Section 3 working lexicon/source decisions, proper names and epithets, both old-style preamble quotations, source sound-signals, the Socrates–Marx–Ingersoll–Periyar passage, Brahma/caste wording, `மலிவு` wordplay, the source-missing closing quotation mark and all 7/7 page comments. Record every T4 correction transparently. Do not start T5 in the same gate.
