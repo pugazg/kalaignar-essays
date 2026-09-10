@@ -39,7 +39,7 @@ P1 directly verified all 19 starts and ends.
 
 ## Editorial/source-witness rule
 
-The numerals `1`–`19` are source-visible section labels. **“Section 1”, “Section 2”, etc. are repository descriptors, not source titles.** Do not derive descriptive titles from subject matter, OCR, memory, the user-supplied catalogue description, or later witnesses.
+The numerals `1`–`19` are source-visible section labels. **“Section 1”, “Section 2”, etc. are repository descriptors, not source titles.** Do not derive descriptive titles from subject matter, OCR, memory, user-supplied catalogue description, or later witnesses.
 
 If later evidence shows the units correspond to separately published `முத்தாரம்` articles, preserve that provenance separately; do not rewrite this supplied edition's source-visible numbering.
 
@@ -49,11 +49,11 @@ If later evidence shows the units correspond to separately published `முத�
 
 ## P2 overlay
 
-- scans **1–30** now have canonical page records and are directly **VERIFIED**;
-- P2 cumulative state: **30 / 82 VERIFIED**;
-- section transitions already preserved inside shared canonical records: scan **12** `1→2`, scan **16** `2→3`, scan **22** `3→4`, scan **27** `4→5`;
-- scan 30 batch boundary `அந்தப்` → scan 31 `பாணியில்` was directly checked; scan 31 is not yet counted as a canonical P2 record;
+- scans **1–40** now have canonical page records and are directly **VERIFIED**;
+- P2 cumulative state: **40 / 82 VERIFIED**;
+- shared transitions preserved inside canonical records: scan **12** `1→2`, scan **16** `2→3`, scan **22** `3→4`, scan **27** `4→5`, scan **31** `5→6`, scan **34** `6→7`, scan **38** `7→8`;
+- scan 40 batch boundary `பொருள்` → scan 41 `என்றால், அதனை` was directly checked; scan 41 is not yet counted as a canonical P2 record;
 - assemblies created: **0**;
 - unresolved P2/source/structure blockers: **0**.
 
-Exact next activity: **P2 scans 31–40 page-level transcription and direct verification; preserve the section 5→6 transition on scan 31, section 6→7 transition on scan 34, and section 7→8 transition on scan 38; do not build assemblies yet.**
+Exact next activity: **P2 scans 41–50 page-level transcription and direct verification.** Scan 41 closes section 8 at page end; sections 9, 10 and 11 open at page top on scans **42, 45 and 48**. Preserve those three folios as **suppressed / inferred**; do not build assemblies yet.
