@@ -12,8 +12,9 @@
 | P5 strict visual fidelity | **COMPLETE / PASS** | **82/82 PASS; 33 corrections / 33 propagated / 0 unresolved** |
 | English E0 workspace/planning | **COMPLETE / PASS** | plan + tracker + lexicon + review ledger initialized |
 | English T0 source prerequisite | **COMPLETE / PASS — 19/19** | exact frozen Tamil blob SHAs recorded for every numbered section |
-| English T1 close draft | **IN PROGRESS — 1/19** | Section 1 draft complete; English blob `d36aec208ea15b970795a7717dd770d2d27251d8` |
-| English T2–T5 | **NOT STARTED — 0/19** | next: Section 1 T2 bilingual fidelity review |
+| English T1 close draft | **IN PROGRESS — 1/19** | Section 1 T1 complete; historical T1 blob `d36aec208ea15b970795a7717dd770d2d27251d8` |
+| English T2 bilingual fidelity | **IN PROGRESS — 1/19** | Section 1 PASS after 6 corrections; post-T2 blob `d185b201c1113d99400d31579e773ae167cbb8a0` |
+| English T3–T5 | **NOT STARTED — 0/19** | next: Section 1 T3 Kalaignar voice review |
 
 ## Source / structure authority
 
@@ -58,19 +59,37 @@ T0 source baseline:
 - missing / extra source units — **0 / 0**;
 - unresolved source-prerequisite blockers — **0**.
 
-## English E1 — Section 1 T1 COMPLETE
+## English E1 — Section 1 T1 / T2
 
-- frozen Tamil authority: `articles/01-section-01.md` — **`e5517b7cc344554d51af4092599059d481039c1e`**;
-- source span: scans **7–12 / printed pp.5–10**;
-- English draft: `translations/en/01-section-01.md` — **`d36aec208ea15b970795a7717dd770d2d27251d8`**;
-- `translation_status`: **draft**;
-- all six source-page boundary comments retained;
-- publication-title draft: **Let Us Develop the Art of Speaking** — provisional until T3;
-- T1 lexicon decisions recorded: **11**, all provisional pending later review;
-- frozen Tamil changes during E1: **0**;
-- unresolved English blockers: **0**.
+Tamil authority:
 
-T1 completion does **not** imply T2/T3/T4/T5 verification.
+- `articles/01-section-01.md` — **`e5517b7cc344554d51af4092599059d481039c1e`**;
+- source span — scans **7–12 / printed pp.5–10**;
+- frozen Tamil changes during E1 — **0**.
+
+T1:
+
+- English draft historical blob — **`d36aec208ea15b970795a7717dd770d2d27251d8`**;
+- T1 — **PASS**;
+- source-page comments — **6/6 retained**.
+
+T2:
+
+- independent bilingual fidelity review — **PASS after 6 corrections**;
+- post-T2 English blob — **`d185b201c1113d99400d31579e773ae167cbb8a0`**;
+- `translation_status` — **fidelity-reviewed**;
+- omitted Tamil sentences / clauses — **0**;
+- added English factual claims — **0**;
+- names / referents / dates / numbers — **PASS**;
+- Bharathidasan quotation — **PASS**;
+- Valluvar quotation + explanation — **PASS / source-based**;
+- negatives / comparisons / logical connectors — **PASS**;
+- deliberate repetitions / questions / exclamations — **PASS**;
+- Hyde Park / `(HydePark)`, V. K. Krishna Menon, U.N. Assembly — **PASS**;
+- source-page comments — **6/6**;
+- unresolved T2 issues — **0**.
+
+The six T2 old-English → corrected-English entries and their Tamil bases are recorded in `translations/en/TRANSLATION_REVIEW.md`. No terminology decision changed, so `LEXICON.md` remains unchanged. The publication-title draft **Let Us Develop the Art of Speaking** remains provisional until T3.
 
 ## English gate totals
 
@@ -78,7 +97,7 @@ T1 completion does **not** imply T2/T3/T4/T5 verification.
 |---|---:|
 | T0 | **19/19** |
 | T1 | **1/19** |
-| T2 | **0/19** |
+| T2 | **1/19** |
 | T3 | **0/19** |
 | T4 | **0/19** |
 | T5 | **0/19** |
@@ -87,4 +106,4 @@ Permanent rule: exact source `உடன்பிறப்பே` → `Udanpirapp
 
 ## Exact next activity
 
-**E1 — Section 1 / T2 bilingual fidelity review.** Re-read frozen Tamil blob **`e5517b7cc344554d51af4092599059d481039c1e`** against English T1 blob **`d36aec208ea15b970795a7717dd770d2d27251d8`** sentence by sentence and clause by clause. Check omissions/additions, names, dates/numbers, quotations, negatives, comparisons, logical connectors, deliberate repetition, source-witness distinctions and all six page-boundary comments. Record every correction transparently; do not start T3 until T2 passes.
+**E1 — Section 1 / T3 Kalaignar voice review.** Re-read frozen Tamil blob **`e5517b7cc344554d51af4092599059d481039c1e`** against post-T2 English blob **`d185b201c1113d99400d31579e773ae167cbb8a0`**. Check directness, cadence, rhetorical questions, repeated structures, exclamations, imagery, polemical force, accidental smoothing and academic distancing. Reassess the provisional publication title and Section 1 lexical choices for voice. Record every correction transparently; do not start T4 until T3 passes.
