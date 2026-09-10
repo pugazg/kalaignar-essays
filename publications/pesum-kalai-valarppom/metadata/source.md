@@ -49,15 +49,15 @@ Printed text and physical-copy evidence remain separate.
 - P2 — **COMPLETE / PASS — 82/82 VERIFIED**;
 - P3 — **COMPLETE / PASS — 19/19 assemblies**;
 - P4 — **COMPLETE / PASS**;
-- P5 — **IN PROGRESS — scans 1–40 / 40 of 82 PASS**;
-- P5 corrections found / propagated — **16 / 16**;
+- P5 — **IN PROGRESS — scans 1–50 / 50 of 82 PASS**;
+- P5 corrections found / propagated — **26 / 26**;
 - unresolved P5 fidelity discrepancies in reviewed range — **0**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**.
 
-P5 corrections through scan 40 include scan 4 `Kalaignar`→`Kalaingnar`; scan 7 opening quote corrected to `“`; three scan-19 wording/word-boundary corrections; scan 24 `எழுதி படிக்கும்`→`எழுதிப் படிக்கும்`; scan 26 `ஐயா`→`அய்யா`; scan 31 `பாணை`→`பானை` and `ஏனப்பா`→`ஏனய்யா`; scan 32 `என்றும்`→`என்றதும்`; scan 33 dialogue corrected to `உன் மனைவி உன்னைவிட மூடமாக இருக்கிறாள்?`; scan 35 `எழும்பும்`→`எலும்பும்` and `மூந்நூறு`→`முந்நூறு`; scan 39 `பேச்சுப்பொழுது`→`பேசும்பொழுது`, `அடுக்கு முறைகளால்`→`அடக்கு முறைகளால்`, and `நினைவுபடுத்துகிறேன்`→`நினைவு படுத்துகிறேன்`. All affected body corrections are propagated to numbered-section assemblies.
+P5 batch 5 scans 41–50 contributed **10** source-supported corrections, all propagated. Confirmed source-sensitive forms in this range include scan 42 `கைக்குழந்தை யொன்றைத்`, `அருட் கருவலம்`; scan 43 `அப்துர் ரகுமான்`, `என்பதைத் தெரிந்து`; scan 44 colloquial quotations; scan 45 deliberate pronunciation contrasts; scan 46 `சூடும் சுவையும்`, `நாடி நறம்பு`; scan 47 12-dot `மிஸ்டர்............`, quoted `ழ`; scan 48 `தர்க்கமுறைக்கு`, `பேராற்றல்`, `முத்தொழில்`; scan 49 `பேச்சுத்திறனை`, `வெற்றி முகட்டை`; scan 50 `‘சொல்’`, `ஏம்பா!`, `புகழ்மேனியில்`, `மூச்சுத்திணறக் கூறிக்கொண்டே`, `I conceive, conceive, conceive`.
 
 Running P5 record: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 ## Exact next activity
 
-**P5 scans 41–50 / printed pp.39–48**, preserving page-end/top section changes `41→42 (8→9)`, `44→45 (9→10)`, `47→48 (10→11)` and suppressed/inferred folios on scans `42,45,48`. Inspect scan 51 only as batch-boundary evidence if needed and propagate every confirmed correction before moving forward.
+**P5 scans 51–60 / printed pp.49–58.** Preserve transitions `51 (11→12)` and `55 (12→13)`, section 13 closure at scan 58, section 14 top-of-page opening at scan 59, and scan 59's suppressed/inferred p.57 folio. Inspect scan 61 only as boundary evidence if needed and propagate every confirmed correction before moving forward.
