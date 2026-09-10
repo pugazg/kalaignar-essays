@@ -8,8 +8,8 @@ Workspace: `publications/pesum-kalai-valarppom/`
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
 - P2 page-level transcription — **COMPLETE / PASS — 82 of 82 VERIFIED**;
-- P3 assemblies — **NOT STARTED / NEXT**;
-- P4 source/completeness audit — **NOT STARTED**;
+- P3 assemblies — **COMPLETE / PASS — 19 of 19**;
+- P4 source/completeness audit — **NOT STARTED / NEXT**;
 - P5 strict visual word/punctuation fidelity — **NOT STARTED**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**.
 
@@ -47,10 +47,24 @@ All **82 / 82 physical scans are directly VERIFIED** and have canonical page rec
 - scan **79** preserves section **18→19** mid-page;
 - scan **82 / p.80** closes section 19 and the source;
 - unresolved printed-text/source distinctions: **0**;
-- assemblies: **0**;
 - silent normalization: **0**.
 
 Documented source corrections include scan 13 `வீட்டான்` → `வீடுதான்` and scan 74 draft `வாரியிலே` / `வாரிக்கு` → source-visible `வரியிலே` / `வரிக்கு` after enlarged direct reinspection.
+
+## P3 completion
+
+The complete numbered-section Tamil reading layer now exists under `articles/`.
+
+- assemblies: **19 / 19 COMPLETE / source-complete**;
+- filenames: `01-section-01.md` through `19-section-19.md`;
+- main-work coverage: scans **7–82 / pp.5–80**;
+- numbered sections: **1–19 complete**;
+- unexplained boundary gaps / overlaps: **0 / 0**;
+- intentional shared transition scans: `12,16,22,27,31,34,38,51,55,67,70,79`;
+- unresolved assembly readings: **0**;
+- assembly normalization: **0**.
+
+See [`P3_ASSEMBLY_AUDIT.md`](P3_ASSEMBLY_AUDIT.md) for the section-by-section coverage gate.
 
 ## Physical-copy/source distinctions
 
@@ -58,4 +72,4 @@ Scan 5 is later handwriting and has no printed publication text. Library stamps/
 
 ## Exact next activity
 
-**P3 — assemble the complete Tamil reading copy from canonical page records.** Preserve source-visible numbered sections `1–19`, source wording, quotations, punctuation and paragraph order. Faithfully join only true page-boundary continuations; do not invent descriptive section titles. After P3, proceed to P4; English remains blocked until Tamil P0–P5 freeze.
+**P4 — source audit / completeness review.** Reconcile source metadata, all 82 canonical page records, all 19 assemblies, section/page mapping, source-witness distinctions, physical-copy evidence separation and correction provenance. Propagate any source-supported discrepancy before P4 can pass. P5 and English remain blocked until their respective gates are reached.
