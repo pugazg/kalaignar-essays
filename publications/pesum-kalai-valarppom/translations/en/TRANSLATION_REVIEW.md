@@ -35,66 +35,30 @@ Tamil authority: `articles/01-section-01.md` — **`e5517b7cc344554d51af40925990
 - T1 — **PASS**; historical draft blob `d36aec208ea15b970795a7717dd770d2d27251d8`.
 - T2 — **PASS after 6 corrections**; post-T2 blob `d185b201c1113d99400d31579e773ae167cbb8a0`.
 - T3 — **PASS after 4 voice corrections**; post-T3 blob `bede85599ff634ef8ce7d6bd85aa6b9a9e035289`.
-- T4 — **PASS with 0 body corrections**; post-T4 blob unchanged `bede85599ff634ef8ce7d6bd85aa6b9a9e035289`.
-- T5 — **PASS with 0 body corrections / status-only change**; final verified blob **`76ea963ab2e14232bdbbf1a9afbe9f25ca97779a`**.
+- T4 — **PASS with 0 body corrections**; post-T4 unchanged `bede85599ff634ef8ce7d6bd85aa6b9a9e035289`.
+- T5 — **PASS with 0 body corrections / status-only**; final verified blob **`76ea963ab2e14232bdbbf1a9afbe9f25ca97779a`**.
 - source-page comments — **6/6**;
-- T4-approved Section 1 decisions — **16**;
-- unresolved Section 1 issues — **0**.
+- T4-approved decisions — **16**;
+- unresolved issues — **0**.
 
-Section 1 calibration sequence **T0–T5 COMPLETE / PASS**. Detailed Section 1 T2/T3 correction provenance was recorded before verification and is retained in repository history.
+Section 1 **T0–T5 COMPLETE / PASS**.
 
 ---
 
 ## E1 — Section 2
 
-### T0 source check
+Tamil authority: `articles/02-section-02.md` — **`b10894b911393239e57446687c34030aff88a8e3`**, scans **12–16 / printed pp.10–14**.
 
-**PASS.** Live `articles/02-section-02.md` remains exactly **`b10894b911393239e57446687c34030aff88a8e3`**, scans **12–16 / printed pp.10–14**.
+- T1 — **PASS**; historical draft blob `a45d357a089247b4de725b64126b0f0341e5e588`.
+- T2 — **PASS after 7 corrections**; post-T2 blob `f5bb2ebe0ab442369312384ae894c4689400d02b`.
+- T3 — **PASS after 8 voice corrections**; post-T3 blob `e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`.
+- T4 — **PASS with 0 body corrections**; post-T4 unchanged `e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`.
+- T5 — **PASS with 0 body corrections / status-only**; final verified blob **`e963de42305f9e0cca601950c4ab5e3b1d6c2ea6`**.
+- source-page comments — **5/5**;
+- T4-approved decisions — **15**;
+- unresolved issues — **0**.
 
-### T1 close draft
-
-**COMPLETE / PASS as a draft gate.** T1 English blob: **`a45d357a089247b4de725b64126b0f0341e5e588`**; source-page comments **5/5**; unresolved T1 blockers **0**.
-
-### T2 bilingual fidelity review
-
-**COMPLETE / PASS after 7 corrections.** Post-T2 English blob: **`f5bb2ebe0ab442369312384ae894c4689400d02b`**.
-
-| # | T1 English | T2 English | Frozen Tamil basis / reason |
-|---:|---|---|---|
-| 1 | `poet Bharathidasan` | `song-poet Bharathidasan` | Restores `பாட்டுக் கவிஞர்`. |
-| 2 | `For two or three days before I received that praise, I had memorised...` | `To earn that praise, for two or three days I memorised...` | Restores purpose in `அந்தப் பாராட்டைப் பெறுவதற்கு...`. |
-| 3 | `began stumbling over his words` | `his tongue faltered as soon as he began to speak` | Restores `நாக்கு தடுமாறிற்று`. |
-| 4 | `a few words of greeting` | `two words of greeting` | Preserves `இரண்டு வார்த்தை`. |
-| 5 | `burst into loud laughter` | `burst into a roar of laughter` | Better carries `‘கொல்’லென்று`. |
-| 6 | declarative ten-person-gathering sentence | rhetorical `doesn’t one first have to know something?` | Restores `...தானே...` argumentative force. |
-| 7 | `major film producer` | `major film magnate` | Removes unsupported narrowing of `பட அதிபர்`. |
-
-Final T2 checks: omitted clauses **0**; added claims **0**; quantities/names/quotations/logical turns/page comments **PASS**; unresolved T2 issues **0**.
-
-### T3 Kalaignar voice review
-
-**COMPLETE / PASS after 8 voice corrections.** Post-T3 English blob: **`e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`**.
-
-| # | Post-T2 English | T3 English | Tamil / voice basis |
-|---:|---|---|---|
-| 1 | `His uncles... were then shining...` | `It was his uncles... who then shone...` | Restores `மாமன்கள்தான்`. |
-| 2 | bureaucratic stage-fright construction | `Once a person gets over stage fright... you may say...` | Restores spoken cadence. |
-| 3 | `every nerve... drenched in sweat` | `every vein and nerve... running with sweat` | Restores vivid bodily image. |
-| 4 | `The reason I escaped...` | `I escaped... only because...` | Restores `...தான்` emphasis. |
-| 5 | `for two or three days... without sleep` | `two or three sleepless days...` | Preserves `உறக்கமின்றி` naturally. |
-| 6 | `under the leadership of Arignar Anna` | `with Arignar Anna presiding` | Carries `தலைமையில்` naturally. |
-| 7 | `An explosion of laughter!` | `A thunderous explosion of laughter!` | Restores `அதிர் வெடிச் சிரிப்பு!`. |
-| 8 | `add distinction to the art of speaking` | `bring honour to the art of speaking` | Restores `பெருமை சேர்க்க`. |
-
-T3 unresolved voice issues: **0**.
-
-### T4 terminology / quotation / citation audit
-
-**COMPLETE / PASS — 0 English body corrections.** T4 input/output blob unchanged at **`e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`**. Section 2 T4-approved decisions **15**; source-page comments **5/5**; external/published quotation wording imported **No**; unresolved T4 issues **0**.
-
-### T5 article verification
-
-**COMPLETE / PASS.** Final verified English blob: **`e963de42305f9e0cca601950c4ab5e3b1d6c2ea6`**. T5 body corrections **0**; status-only `voice-reviewed` → `verified`. Section 2 **T0–T5 COMPLETE / PASS**.
+Section 2 **T0–T5 COMPLETE / PASS**. Detailed Section 2 T2/T3 correction provenance remains in repository history and the current lexicon preserves all T4-approved source-sensitive choices.
 
 ---
 
@@ -102,7 +66,7 @@ T3 unresolved voice issues: **0**.
 
 ### T0 source check
 
-**PASS.** Live `articles/03-section-03.md` revalidated at exactly **`21904dd457bb3455230de06421ff2d906ac4958d`**, scans **16–22 / printed pp.14–20**. No pre-existing English `translations/en/03-section-03.md` was present on live `main` before drafting.
+**PASS.** Live `articles/03-section-03.md` remains exactly **`21904dd457bb3455230de06421ff2d906ac4958d`**, scans **16–22 / printed pp.14–20**.
 
 ### T1 close draft
 
@@ -110,27 +74,48 @@ T3 unresolved voice issues: **0**.
 
 - English file — `translations/en/03-section-03.md`;
 - T1 English blob — **`377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`**;
-- `translation_status` — **draft**;
-- numeric section identity `3` — retained;
-- all Tamil paragraphs/clauses represented — **yes**;
-- source-page comments — **7/7 retained**, scans 16–22;
-- questions, exclamations, repetition, comparisons, quoted passages and comic word-choice anecdote — retained in the draft;
+- source-page comments — **7/7 retained**;
+- Section 3 T1 provisional lexicon/source decisions — **17**;
 - frozen Tamil edits — **0**;
 - unresolved T1 blockers — **0**.
 
-Source-sensitive T1 points:
+### T2 bilingual fidelity review
 
-- `இயல் / இசை / கூத்து` is provisionally `iyal / music / koothu`;
-- source sound-signals `“ஏ” “ஓ” “ஈ”` remain source-bearing rather than receiving an external transliteration scheme;
-- `பீடிகை` → `preamble`, `அடியேன்` → `this humble one`, `அன்னப்பட்சி` → `swan`;
-- frozen source `அறிவியலும் அனுபவத்திலும்` is provisionally translated **`science and experience`**, without silently changing the Tamil to the more expected `knowledge and experience`;
-- Socrates / Karl Marx / Ingersoll / Thanthai Periyar passage is translated only from the frozen Tamil witness;
-- `தன்மானச் சிங்கம் தந்தை பெரியார்` → provisional `the lion of self-respect, Thanthai Periyar`;
-- `மலிவு / மலிவான வாக்குறுதி` → `cheap / cheap promise` is deliberately retained because the word itself drives the closing misunderstanding;
-- the first old-style preamble quotation has an opening quotation mark but no closing quotation mark in the frozen Tamil assembly; T1 preserves that source irregularity rather than silently adding punctuation;
-- Section 3 T1 provisional lexicon/source decisions — **17**.
+**COMPLETE / PASS after 5 corrections.**
 
-T2 / T3 / T4 / T5 — **pending**.
+Post-T2 English blob: **`2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`**.  
+`translation_status`: **fidelity-reviewed**.
+
+| # | T1 English | T2 English | Frozen Tamil basis / reason |
+|---:|---|---|---|
+| 1 | `in the earliest period before humankind had grown and undergone many changes` | `in the earliest period, after humankind had appeared but before it had grown and undergone many changes` | Restores source `மனிதன் தோன்றி ... பெற்றிடாத தொடக்க காலத்தில்`; T1 omitted `தோன்றி`. |
+| 2 | `trying to work out how to plant them here and there in our speech` | `trying to work out how to fit them into our speech` | `எப்படியெப்படி பதியவைப்பது`; removes unsupported `here and there` while retaining the insertion/embedding sense. |
+| 3 | `while they hurriedly recite what they have learned` | `while they recite what they have learned in a fluster` | Restores the agitation in `பரபரப்புடன் ஒப்புவிக்கும்போது`, not merely speed. |
+| 4 | `who sowed the seed of ideas for the garden of communism` | `who sowed the seed of thought for the garden of communism` | Restores singular `கருத்து` in `கருத்து விதையிட்ட`. |
+| 5 | `one caste from Brahma’s face, one caste from his shoulder, one from his thigh, and one from his feet` | `one caste from Brahma’s face, one caste from his shoulder, one caste from his thigh, and one caste from his feet` | Preserves all four deliberate repetitions of `ஒரு சாதியும்`. |
+
+Final T2 checks:
+
+- omitted Tamil sentences/clauses — **0**;
+- added English factual claims — **0**;
+- iyal/music/koothu historical-order argument — **PASS**;
+- movements/gestures/sound/word progression — **PASS**;
+- source sound-signals `“ஏ” “ஓ” “ஈ”` — **PASS / unchanged**;
+- dictionary/new-word discussion, negatives and speaker duties — **PASS**;
+- both old-style preamble quotations — **PASS**;
+- first preamble’s source-missing closing quotation mark — **preserved deliberately**;
+- Socrates / Karl Marx / Ingersoll / Thanthai Periyar passage — **PASS after correction #4**;
+- Brahma/caste passage — **PASS after correction #5**;
+- feeling / spoken-word connection — **PASS**;
+- Legislative Assembly member / repeated `மலிவு` anecdote — **PASS**;
+- source-page comments — **7/7 present and ordered**;
+- questions, exclamations, repetitions, emphatic `தான்` turns and logical connectors — **PASS**;
+- frozen Tamil edits — **0**;
+- unresolved T2 issues — **0**.
+
+No Section 3 lexicon entry changed at T2; the 17 working decisions remain provisional pending T3/T4.
+
+T3 / T4 / T5 — **pending**.
 
 ---
 
@@ -141,7 +126,7 @@ T2 / T3 / T4 / T5 — **pending**.
 | E0 workspace/planning | **COMPLETE / PASS** |
 | T0 source prerequisite | **19/19 PASS** |
 | T1 close draft | **3/19** |
-| T2 bilingual fidelity | **2/19** |
+| T2 bilingual fidelity | **3/19** |
 | T3 Kalaignar voice | **2/19** |
 | T4 terminology / quotation / citation | **2/19** |
 | T5 section verification | **2/19** |
@@ -152,4 +137,4 @@ Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0*
 
 ## Exact next activity
 
-**E1 — Section 3 / T2 bilingual fidelity review.** Re-fetch frozen Tamil blob **`21904dd457bb3455230de06421ff2d906ac4958d`** and T1 English blob **`377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`**. Compare every sentence and clause, especially the iyal/music/koothu ordering argument, source sound-signals, dictionary/new-word discussion, both old-style preamble quotations and source punctuation, Socrates–Marx–Ingersoll–Periyar quotation, Brahma/caste passage, feeling/word connection, the Legislative Assembly member’s repeated `மலிவு` usage, all **7/7** page comments, negatives, repetitions and rhetorical questions. Record every correction transparently. Do not start Section 3 T3 in the same activity.
+**E1 — Section 3 / T3 Kalaignar voice review.** Re-fetch frozen Tamil blob **`21904dd457bb3455230de06421ff2d906ac4958d`** and post-T2 English blob **`2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`**. Review the English for directness, emphatic `தான்` constructions, short/exclamatory cadence, the movements→sound→words progression, dictionary imagery, old-style preamble humour, memorisation critique, Socrates–Marx–Ingersoll–Periyar parallelism, Brahma/caste repetition, the `மலிவு` anecdote and final rhetorical question. Preserve exact T2 meaning and the source-missing quotation mark. Record every T3 correction transparently. Do not start T4 in the same activity.
