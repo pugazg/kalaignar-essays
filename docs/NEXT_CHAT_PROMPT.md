@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / P2 scans 41–50
+# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / P2 scans 51–60
 
 Continue in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -22,9 +22,9 @@ Fetch live `main` first. Root `HANDOVER.md` is the **single authoritative projec
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
-- P2 — **IN PROGRESS / 40 of 82 VERIFIED**;
-- contiguous P2 verified range — scans **1–40**;
-- printed coverage — through **p.38**;
+- P2 — **IN PROGRESS / 50 of 82 VERIFIED**;
+- contiguous P2 verified range — scans **1–50**;
+- printed coverage — through **p.48**;
 - P3/P4/P5 — **NOT STARTED**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**;
 - unresolved P2/source/structure blockers — **0**.
@@ -51,45 +51,48 @@ Never present a suppressed/inferred folio as a directly printed numeral.
 
 Preserve both exactly. Do not silently normalize one witness to the other.
 
-## P2 batches 1–4 — COMPLETE / PASS
+## P2 batches 1–5 — COMPLETE / PASS
 
-Scans **1–40** have canonical page records and are directly verified.
+Scans **1–50** have canonical page records and are directly verified.
 
-- records present / verified: **40 / 82**;
-- printed coverage: through **p.38**;
+- records present / verified: **50 / 82**;
+- printed coverage: through **p.48**;
 - unresolved printed-text readings: **0**;
 - assemblies created: **0**;
-- shared transitions preserved: scan **12** `1→2`, scan **16** `2→3`, scan **22** `3→4`, scan **27** `4→5`, scan **31** `5→6`, scan **34** `6→7`, scan **38** `7→8`.
+- shared transitions preserved through scan 38: scan **12** `1→2`, **16** `2→3`, **22** `3→4`, **27** `4→5`, **31** `5→6`, **34** `6→7`, **38** `7→8`.
 
-Batch-4 direct continuation checks include:
+Batch-5 structural closure:
 
-- scan 30 `அந்தப்` → scan 31 `பாணியில்`;
-- scan 31 `மாட்டைக்` → scan 32 `கொடுத்துவிட்டு`;
-- scan 33 `நன்னிலம் நடராசன்` → scan 34 `இந்தக் கதையைச்`;
-- scan 34 `விளம்பரப்படுத்தப்பட்டு` → scan 35 `நடைபெற்ற`;
-- scan 38 `தொடக்கக் காலத்திலே` → scan 39 `அவரது பேச்சில்`;
-- scan 40 `பொருள்` → scan 41 `என்றால், அதனை`.
+- scan 41 closes section 8 at page end;
+- scan 42 opens section 9 at page top, p.40 suppressed/inferred;
+- scan 44 closes section 9 at page end;
+- scan 45 opens section 10 at page top, p.43 suppressed/inferred;
+- scan 47 closes section 10 at page end;
+- scan 48 opens section 11 at page top, p.46 suppressed/inferred.
 
-Scan 41 was inspected only to close the prior batch boundary and is not yet counted as a canonical P2 record.
+Batch-5 direct boundary checks include:
 
-Source-sensitive batch-4 readings include scan 31 `அங்கு மிங்கும்`, scan 34 `மாவது`, scan 35 `ஏழை களுக்காகப்` / `கோபைடுகிறான்` plus separate printed `பே—3`, scan 37 `கிடக்கு : வெங்காயம்!`, scan 39 exact `“அ” வுக்கு “அ”, “க” வுக்கு “க”`, and scan 40 `எடுத்துவரச்சொன்னால்`, `பிர்மாண்ட`, `வேலையற்றதுகள்`. Preserve without normalization.
+- scan 40 `பொருள்` → scan 41 `என்றால், அதனை`;
+- scan 46 `சிக்கவைக்க` → scan 47 `வேண்டுமென்று`;
+- scan 49 `மதிப்புக்குரிய தோழர்` → scan 50 `களுக்குப் பதிலாக`;
+- scan 50 closes `“கருவுற்றிருக்கிறேன்” என்றும் பொருள் உண்டு!`; scan 51 begins a new paragraph `அடிசன் இப்படித் திணறிக் கொண்டிருந்தபோது,`.
 
-Earlier correction provenance remains scan-13 draft `வீட்டான்` → source-visible **`வீடுதான்`** after enlarged review. Batch 4 required **0 corrections** after direct verification.
+Source-sensitive batch-5 readings include scan 47 `திருவல்லுவரை`, `தமிஷ்`, `வாலை! வாலைவிடு`; scan 48 `தாக்குமுறைக்கு`, `அழகுபடக்`; scan 49 `செத்து விட்டார்கள்` / `செத்துவிட்டார்கள்`; scan 50 `அயோத்தியாபுரியா? அஸ்தினாபுரியா?`, `மிதிலாபுரி`, `புகழ்மேணியில்`, `I conceive, conceive, conceive`, `மூச்சுத்திணற`. Preserve without normalization.
 
-## Batch-5 structural mapping
+Earlier correction provenance remains scan-13 draft `வீட்டான்` → source-visible **`வீடுதான்`** after enlarged review. Batch 5 required **0 corrections** after final direct verification.
 
-- scan 41 — visible printed p.39 — section 8 — section ends at page end;
-- scan 42 — **suppressed / inferred** printed p.40 — section 9 opens at page top;
-- scan 43 — visible printed p.41 — section 9;
-- scan 44 — visible printed p.42 — section 9 — section ends at page end;
-- scan 45 — **suppressed / inferred** printed p.43 — section 10 opens at page top;
-- scan 46 — visible printed p.44 — section 10;
-- scan 47 — visible printed p.45 — section 10 — section ends at page end;
-- scan 48 — **suppressed / inferred** printed p.46 — section 11 opens at page top;
-- scan 49 — visible printed p.47 — section 11;
-- scan 50 — visible printed p.48 — section 11.
+## Batch-6 structural mapping
 
-There are **no mid-page section transitions in scans 41–50**. The section changes 8→9, 9→10 and 10→11 occur across page boundaries.
+- scan 51 — visible printed p.49 — section **11 → 12** mid-page transition;
+- scan 52 — visible printed p.50 — section 12;
+- scan 53 — visible printed p.51 — section 12;
+- scan 54 — visible printed p.52 — section 12;
+- scan 55 — visible printed p.53 — section **12 → 13** mid-page transition;
+- scan 56 — visible printed p.54 — section 13;
+- scan 57 — visible printed p.55 — section 13;
+- scan 58 — visible printed p.56 — section 13 — section ends at page end;
+- scan 59 — **suppressed / inferred** printed p.57 — section 14 opens at page top;
+- scan 60 — visible printed p.58 — section 14.
 
 ## Mandatory startup
 
@@ -104,27 +107,28 @@ Read completely before source-dependent work:
 7. `indexes/contents.md`
 8. `indexes/page-map.md`
 9. `audit.md`
-10. canonical records for scans 37–40 to preserve page-record conventions and boundary continuity
+10. canonical records for scans 47–50 to preserve page-record conventions and boundary continuity
 
 The supplied scan is controlling authority. OCR/parsed text is not authority. Never silently modernise/correct Tamil or fold handwriting/stamps into printed text.
 
-## Exact next activity — P2 batch 5
+## Exact next activity — P2 batch 6
 
-Process **scans 41–50 in one batch**:
+Process **scans 51–60 in one batch**:
 
 1. inspect each of the ten scans directly;
 2. create one canonical Markdown page record per physical scan;
 3. use the P1 printed-page mapping exactly;
-4. retain scan 41 as section 8 and close section 8 at page end;
-5. preserve source-visible section openings at page top on scans **42 (section 9), 45 (section 10), 48 (section 11)**;
-6. label folios on scans **42,45,48** as **suppressed / inferred by uninterrupted sequence**, never visible;
-7. transcribe only source-visible printed material;
-8. preserve source punctuation, paragraphing, headings, numbers, quotations and printed non-text marks;
-9. preserve cross-page fragments exactly rather than silently joining words inside one page record;
-10. put handwriting, stamps, library marks and other physical-copy evidence under separate non-print sections if encountered;
-11. mark a page `VERIFIED` only after direct visual comparison;
-12. check scan 50 against scan 51 where needed to close the batch boundary;
-13. update page-map/contents/source metadata/audit/publication README/root handover/root README/this prompt after the ten-page batch;
-14. **do not build section/article assemblies yet**.
+4. preserve the section **11→12** transition on scan 51 and **12→13** transition on scan 55 inside the page records;
+5. preserve section 13 closure at scan 58 page end;
+6. preserve source-visible section 14 opening at page top on scan 59;
+7. label scan 59 p.57 folio as **suppressed / inferred by uninterrupted sequence**, never visible;
+8. transcribe only source-visible printed material;
+9. preserve source punctuation, paragraphing, headings, numbers, quotations and printed non-text marks;
+10. preserve cross-page fragments exactly rather than silently joining words inside one page record;
+11. put handwriting, stamps, library marks and other physical-copy evidence under separate non-print sections if encountered;
+12. mark a page `VERIFIED` only after direct visual comparison;
+13. check scan 60 against scan 61 where needed to close the batch boundary;
+14. update page-map/contents/source metadata/audit/publication README/root handover/root README/this prompt after the ten-page batch;
+15. **do not build section/article assemblies yet**.
 
-At completion, P2 should stand at **50 / 82 VERIFIED** if all ten records close with no blocker. Record any genuine unresolved source reading instead of guessing.
+At completion, P2 should stand at **60 / 82 VERIFIED** if all ten records close with no blocker. Record any genuine unresolved source reading instead of guessing.
