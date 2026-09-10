@@ -14,7 +14,7 @@ Publications **1–10 are RELEASE COMPLETE / FROZEN**.
 
 Workspace: `publications/pesum-kalai-valarppom/`
 
-**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 IN PROGRESS — 30/82 VERIFIED.**
+**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 IN PROGRESS — 40/82 VERIFIED.**
 
 Controlling source:
 
@@ -46,20 +46,20 @@ P1 result:
 - shared mid-page section transitions — **12**;
 - structural blockers — **0**.
 
-P2 result through batch 3:
+P2 result through batch 4:
 
-- scans **1–30** — **COMPLETE / VERIFIED**;
-- canonical page records — **30/82 VERIFIED**;
-- contiguous verified range — scans **1–30**;
-- printed coverage — through **p.28**;
-- section transitions preserved — scan **12** `1→2`, scan **16** `2→3`, scan **22** `3→4`, scan **27** `4→5`;
-- scan 30 boundary `அந்தப்` → scan 31 `பாணியில்` directly checked; scan 31 is not yet counted;
+- scans **1–40** — **COMPLETE / VERIFIED**;
+- canonical page records — **40/82 VERIFIED**;
+- contiguous verified range — scans **1–40**;
+- printed coverage — through **p.38**;
+- section transitions preserved — scan **12** `1→2`, **16** `2→3`, **22** `3→4`, **27** `4→5`, **31** `5→6`, **34** `6→7`, **38** `7→8`;
+- batch-end scan 40 `பொருள்` → scan 41 `என்றால், அதனை` directly checked; scan 41 is not yet counted;
 - unresolved printed-text/source-distinction blockers — **0**;
 - assemblies — **0**.
 
-Batch-3 source-sensitive forms include scan 22 `மலிவு`, scan 26 `அண்ணாத்துரை கச்சேரி தானே?`, scan 28 `அந்த......ப்`, and scan 30 `உணர்ச்சியையும்,எழுச்சியையும்`; all are preserved source-first without normalization.
+Batch-4 source-sensitive forms retained exactly include `அங்கு மிங்கும்`, `மாவது`, `ஏழை களுக்காகப்`, `கிடக்கு : வெங்காயம்!`, exact quoted-letter spacing on scan 39, and `எடுத்துவரச்சொன்னால்` / `பிர்மாண்ட` / `வேலையற்றதுகள்` on scan 40. Printed gathering mark `பே—3` on scan 35 is kept separate from prose.
 
-Exact next activity: **P2 scans 31–40 — create, transcribe and directly verify ten canonical page records for printed pp.29–38; preserve the section 5→6 transition on scan 31, section 6→7 transition on scan 34, and section 7→8 transition on scan 38; check scan 40→41 where needed; do not build assemblies yet.**
+Exact next activity: **P2 scans 41–50 / printed pp.39–48.** Scan 41 closes section 8. Sections 9, 10 and 11 open at page top on scans **42,45,48**; those folios are suppressed/inferred, not directly visible. Check scan 50→51 where needed; do not build assemblies yet.
 
 ### Publication 10 — மீசை முளைத்த வயதில் — FROZEN
 
