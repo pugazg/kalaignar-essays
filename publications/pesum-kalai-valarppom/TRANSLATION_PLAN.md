@@ -53,22 +53,30 @@ T0 source prerequisite → T1 close draft → T2 bilingual fidelity → T3 Kalai
 - do not soften polemics or replace source-chosen labels with modern explanatory names;
 - do not import published English translations unless separately authorized.
 
-## Section 1 calibration — COMPLETE
+## Verified sections
 
-Section 1 T0–T5 is **COMPLETE / PASS**. Final verified English blob: **`76ea963ab2e14232bdbbf1a9afbe9f25ca97779a`**. T4-approved Section 1 lexical/proper-name/source-label decisions: **16**.
+### Section 1 — COMPLETE
 
-## Section 2 — T1 COMPLETE
+- final verified English blob — **`76ea963ab2e14232bdbbf1a9afbe9f25ca97779a`**;
+- T0–T5 — **COMPLETE / PASS**;
+- T4-approved decisions — **16**.
 
-- Tamil authority — `articles/02-section-02.md`;
+### Section 2 — COMPLETE
+
 - frozen Tamil blob — **`b10894b911393239e57446687c34030aff88a8e3`**;
-- source span — scans **12–16 / printed pp.10–14**;
-- English draft — `translations/en/02-section-02.md`;
-- T1 English blob — **`a45d357a089247b4de725b64126b0f0341e5e588`**;
-- status — **draft**;
+- scans **12–16 / printed pp.10–14**;
+- T1 English blob — `a45d357a089247b4de725b64126b0f0341e5e588`;
+- post-T2 English blob — `f5bb2ebe0ab442369312384ae894c4689400d02b`;
+- post-T3 / post-T4 English blob — `e9bfb01f48cfa6d45a90e168515b49e7307e6fb9`;
+- final T5 verified English blob — **`e963de42305f9e0cca601950c4ab5e3b1d6c2ea6`**;
+- T2 corrections — **7**;
+- T3 corrections — **8**;
+- T4 body corrections — **0**;
+- T5 body corrections — **0 / status-only**;
 - source-page comments — **5/5**;
-- Section 2 T1 provisional lexicon decisions — **13**;
-- T2–T5 — **pending**;
-- unresolved T1 blockers — **0**.
+- T4-approved decisions — **15**;
+- unresolved Section 2 issues — **0**;
+- T0–T5 — **COMPLETE / PASS**.
 
 ## Current English state
 
@@ -76,14 +84,14 @@ Section 1 T0–T5 is **COMPLETE / PASS**. Final verified English blob: **`76ea96
 - T0 — **19/19 PASS**;
 - English body files — **2/19**;
 - T1 — **2/19**;
-- T2 — **1/19**;
-- T3 — **1/19**;
-- T4 — **1/19**;
-- T5 — **1/19**;
-- verified English articles — **1/19**;
+- T2 — **2/19**;
+- T3 — **2/19**;
+- T4 — **2/19**;
+- T5 — **2/19**;
+- verified English articles — **2/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil changes during English work — **0**.
 
 ## Exact next activity
 
-**E1 — Section 2 / T2 bilingual fidelity review.** Re-fetch frozen Tamil `articles/02-section-02.md` blob `b10894b911393239e57446687c34030aff88a8e3` and T1 English `translations/en/02-section-02.md` blob `a45d357a089247b4de725b64126b0f0341e5e588`. Compare every sentence/clause, name, amount, quotation, negative, logical connector, repetition, rhetorical/comic turn and all five page-boundary comments. Record every correction transparently. Do not start T3 in the same activity.
+**E1 — Section 3 / T1 close draft.** Re-fetch frozen Tamil `articles/03-section-03.md` and require blob **`21904dd457bb3455230de06421ff2d906ac4958d`**, scans **16–22 / printed pp.14–20**. Translate the complete numbered Section 3 paragraph by paragraph, preserving every source-page comment, quotation, rhetorical turn, repetition and source-sensitive label. Apply verified prior lexicon decisions only where the same Tamil function recurs. Do not start Section 3 T2 in the same activity.
