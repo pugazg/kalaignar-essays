@@ -2,7 +2,7 @@
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`  
 Physical scans: **82**  
-Current gate: **P5 IN PROGRESS — scans 1–10 / 10 of 82 PASS**
+Current gate: **P5 IN PROGRESS — scans 1–20 / 20 of 82 PASS**
 
 ## Canonical pagination rule
 
@@ -96,16 +96,19 @@ Dedicated reconciliation: [`../P4_SOURCE_COMPLETENESS_REVIEW.md`](../P4_SOURCE_C
 
 ## P5 overlay — IN PROGRESS
 
-- strict-reviewed scans: **1–10 / 10 of 82**;
-- reviewed printed span: outside pagination + pp.**1–8**;
-- corrections found / propagated: **2 / 2**;
+- strict-reviewed scans: **1–20 / 20 of 82**;
+- reviewed printed span: outside pagination + pp.**1–18**;
+- corrections found / propagated: **5 / 5**;
 - unresolved fidelity discrepancies in reviewed range: **0**;
 - suppressed/inferred folios rechecked so far: **3,4,5,6,7 — PASS**;
+- source-visible shared transitions rechecked so far: **12 (1→2), 16 (2→3) — PASS**;
 - scan 4 English imprint source spelling: **`Kalaingnar`**;
-- scan 7 quotation opening source punctuation: **double opening quote `“`**.
+- scan 7 quotation opening source punctuation: **double opening quote `“`**;
+- scan 19 corrections: **`அப்படி இருக்குமேயானால்`**, **`எப்படி பாலையும்`**, **`வைத்தால்,எப்படி எறும்பானது`**; all propagated to section 3;
+- scan 21 used only as boundary evidence for scan 20, not counted.
 
 Running record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Exact next activity
 
-**P5 scans 11–20 / pp.9–18.** Continue direct strict visual review, preserving the scan-12 `1→2` and scan-16 `2→3` transitions and propagating every source-supported correction before moving to the next batch.
+**P5 scans 21–30 / pp.19–28.** Continue direct strict visual review, preserving scan-22 `3→4` and scan-27 `4→5` transitions and propagating every source-supported correction before moving to the next batch.
