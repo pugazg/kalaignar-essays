@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / English E0–T0 startup
+# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / English E1 Section 1 T1
 
 Continue in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -6,86 +6,99 @@ Continue in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Root `HANDOVER.md` is the **single authoritative project handover**. Preserve Publications 1–10 as RELEASE COMPLETE / FROZEN.
+Fetch live `main` first. Root `HANDOVER.md` is the **single authoritative project handover**. Preserve Publications 1–10 as RELEASE COMPLETE / FROZEN and preserve Publication 11's Tamil layer as FROZEN.
 
-## Controlling source
+## Frozen Tamil authority
 
-`TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`
+Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`
 
 - SHA-256: `73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`
-- size: `105698402` bytes
 - physical scans: **82**
 - image-only
-- source PDF must **not** be committed
+- source PDF is **not committed**
 
-Source pixels remain controlling authority for any future Tamil source question. Never silently modernise, context-correct, normalize or reconstruct Tamil.
+Tamil gates:
 
-## Durable gate state
+- P0–P5 — **COMPLETE / PASS / FROZEN**;
+- canonical page records — **82/82 VERIFIED**;
+- source-numbered assemblies — **19/19**;
+- P5 strict visual fidelity — **82/82 PASS**;
+- P5 corrections / propagated — **33/33**;
+- unresolved Tamil fidelity discrepancies — **0**.
 
-- P0 — **COMPLETE / PASS**;
-- P1 — **COMPLETE / PASS**;
-- P2 — **COMPLETE / PASS — 82/82 VERIFIED**;
-- P3 — **COMPLETE / PASS — 19/19 assemblies**;
-- P4 — **COMPLETE / PASS**;
-- P5 — **COMPLETE / PASS — 82/82**;
-- P5 corrections found / propagated — **33 / 33**;
-- unresolved fidelity discrepancies — **0**;
-- Tamil archival layer — **FROZEN**;
-- English — **NOT STARTED**.
+Do **not** modify frozen Tamil `pages/` or `articles/` unless genuinely new source evidence requires a formal reopen.
 
-Running P5 record: `publications/pesum-kalai-valarppom/VISUAL_TEXT_FIDELITY_REVIEW.md`.
+## English durable state
 
-## P5 final closure findings
+English E0 / T0 is complete:
 
-Final batches:
+- `TRANSLATION_PLAN.md` — created;
+- `translations/en/README.md` — created;
+- `translations/en/LEXICON.md` — created;
+- `translations/en/TRANSLATION_REVIEW.md` — created;
+- T0 frozen-source matrix — **19/19 PASS**;
+- English body files — **0/19**;
+- T1 / T2 / T3 / T4 / T5 — **0/19**;
+- unresolved English blockers — **0**.
 
-- `P5-071-080` — PASS — 3 corrections;
-- `P5-081-082` — PASS — 1 correction.
+E0/T0 frozen baseline commit: `3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`.
 
-Final-range corrections propagated:
+Section 1 Tamil authority:
 
-1. scan 77 / p.75 — `அப்படி ஒரு பயிற்சியை` → **`அப்படியொரு பயிற்சியை`**;
-2. scan 77 / p.75 — `பேசுவார்கள், கழுத்திலே,` → **`பேசுவார்கள். கழுத்திலே,`**;
-3. scan 78 / p.76 — `கி. ஆ. பெ. விசுவநாதம்` → **`கி.ஆ.பெ. விசுவநாதம்`**;
-4. scan 81 / p.79 — `அந்தக் குழுவினில் எனக்கும்` → **`அந்தக்குழுவினில் எனக்கும்`**.
+- file: `publications/pesum-kalai-valarppom/articles/01-section-01.md`
+- scans: **7–12**
+- printed pages: **5–10**
+- frozen blob SHA: **`e5517b7cc344554d51af4092599059d481039c1e`**
+- T0: **PASS**.
 
-All **33/33** P5 corrections are propagated to affected canonical page records and numbered-section assemblies. Scan **75** suppressed/inferred p.73 and section **18** opening passed; scan **79** section **18→19** transition passed; scan **81→82** continuation and scan **82** source-end closure passed. Unresolved discrepancies: **0**.
+## Mandatory startup before English body work
 
-## Structural facts that must not regress
-
-- scans 1–2 outside printed pagination;
-- scans 3–82 = pp.1–80, `printed page = scan - 2`;
-- source-numbered sections **1–19**;
-- shared mid-page transitions: `12,16,22,27,31,34,38,51,55,67,70,79`;
-- top-of-page section openings: `7,42,45,48,59,64,75`;
-- suppressed/inferred folios: `3,4,5,6,7,42,45,48,59,64,75`;
-- no printed contents page;
-- no separate back-cover scan;
-- scan 5 is later physical-copy handwriting with no printed publication text.
-
-Permanent source-sensitive readings include scan-6 `15—7—81`, scan-13 `வீடுதான்`, scan-42 `அருட் கருவலம்`, scan-43 `அப்துர் ரகுமான்`, scan-44 colloquial quotations, scan-45 deliberate pronunciation examples, scan-46 `சூடும் சுவையும்` / `நாடி நறம்பு`, scan-47 `திருவல்லுவரை` / `தமிஷ்`, scan-48 `முத்தொழில்`, scan-49 `வெற்றி முகட்டை`, scan-50 `I conceive, conceive, conceive`, scan-51 `போர்க்களம்`, scan-64 `வழியனுப்பி வைக்கப்பட்ட அழைத்துச் செல்லப்படுவார்`, scan-65 `அவைகளை ஒட்டி`, scan-67 `நாட்டி யிருக்கிறார்கள்`, scan-69 `புஜபலமிக்க`, scan-70 `நாவன்மையெனப்படும்`, scan-74 `வரியிலே` / `வரிக்கு`, scan-75 `(Mannerism)` / `மேனரிசம்`, scan-77 `அப்படியொரு` and period after `பேசுவார்கள்`, scan-78 `கி.ஆ.பெ. விசுவநாதம்`, scan-79 `காயிதே மில்லத்` / `தேனினுமினிய` / `நாற்பத்தி ஆறு`, scan-81 `அந்தக்குழுவினில்`, and scan-82 `1962-ல்`, `“வாலிபப் பெரியார்”`, `எ.வி.பி. ஆசைத்தம்பி`, `என். வி. நடராசனார்`.
-
-## Mandatory startup
-
-Read completely before English work:
+Read completely:
 
 1. `ESSAY_TRANSLATION_GUIDE.md`
 2. `ESSAY_PROCESSING_GUIDE.md`
 3. `docs/FUTURE_WORK_GUIDELINES.md`
 4. root `HANDOVER.md`
 5. this prompt
-6. publication `README.md`
-7. `metadata/source.md`
-8. `indexes/contents.md`
-9. `indexes/page-map.md`
-10. `audit.md`
-11. `VISUAL_TEXT_FIDELITY_REVIEW.md`
-12. strict-reviewed Tamil assemblies under `articles/` as required by T0.
+6. `publications/pesum-kalai-valarppom/README.md`
+7. `publications/pesum-kalai-valarppom/TRANSLATION_PLAN.md`
+8. `publications/pesum-kalai-valarppom/translations/en/README.md`
+9. `publications/pesum-kalai-valarppom/translations/en/LEXICON.md`
+10. `publications/pesum-kalai-valarppom/translations/en/TRANSLATION_REVIEW.md`
+11. frozen Tamil `articles/01-section-01.md`
 
-## Exact next activity — English E0 / T0 source-prerequisite setup
+Before writing, fetch Section 1 fresh and confirm its blob remains exactly `e5517b7cc344554d51af4092599059d481039c1e`. A mismatch is a hard stop for source drift.
 
-1. keep the Tamil page and article layers frozen unless genuine new source evidence appears;
-2. create or verify `translations/en/README.md`, `translations/en/LEXICON.md`, and `translations/en/TRANSLATION_REVIEW.md`;
-3. record the exact blob SHA of each strict-reviewed Tamil assembly before translating it;
-4. establish T0 state for the first article according to `ESSAY_TRANSLATION_GUIDE.md`;
-5. do not mark any translation `verified` until T1–T4 have passed and T5 is completed.
+## Permanent translation rules
+
+- **Translate the language; do not neutralise the voice.**
+- Preserve every Tamil paragraph; no omissions or added claims.
+- Preserve rhetorical questions, commands, repetitions, irony, polemical force, quotations, exclamations and driving dashes.
+- Preserve source-page boundary comments for bilingual traceability.
+- Do not invent descriptive section titles; the source supplies numbered sections `1`–`19`.
+- Do not silently replace author-chosen labels or names with explanatory modern names.
+- Exact source `உடன்பிறப்பே` → `Udanpirappē`; direct salutation `Udanpirappē,` only where that exact source form occurs.
+- Do not import published English translations unless explicitly authorized.
+
+## Exact next activity — E1 / Section 1 T1
+
+Create:
+
+`publications/pesum-kalai-valarppom/translations/en/01-section-01.md`
+
+as the complete **T1 close draft / voice-calibration article**.
+
+Requirements:
+
+1. record `source_tamil_blob_sha: "e5517b7cc344554d51af4092599059d481039c1e"` in front matter;
+2. retain Tamil title metadata and numeric section identity;
+3. translate paragraph-by-paragraph against the frozen Tamil assembly;
+4. retain every source-page boundary comment in English form;
+5. preserve quotations, dates, numbers, logical connectors and rhetorical action;
+6. add genuinely needed Article 1 terminology decisions to `LEXICON.md` while translating;
+7. mark the English file `translation_status: "draft"` only;
+8. update the tracker and review ledger as **T1 complete / T2–T5 pending**;
+9. do **not** mark Section 1 verified until independent T2, T3, T4 and T5 reviews pass;
+10. do not change any frozen Tamil file.
+
+After T1, the next gate is **T2 bilingual fidelity review for Section 1**.
