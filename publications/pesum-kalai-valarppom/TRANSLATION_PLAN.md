@@ -73,20 +73,21 @@ T0 source prerequisite → T1 close draft → T2 bilingual fidelity → T3 Kalai
 - unresolved Section 2 issues — **0**;
 - T0–T5 — **COMPLETE / PASS**.
 
-## Section 3 — T2 COMPLETE / fidelity-reviewed
+## Section 3 — COMPLETE / VERIFIED
 
-- Tamil authority — `articles/03-section-03.md`;
 - frozen Tamil blob — **`21904dd457bb3455230de06421ff2d906ac4958d`**;
 - source span — scans **16–22 / printed pp.14–20**;
 - T1 English blob — `377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`;
-- post-T2 English blob — **`2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`**;
-- status — **fidelity-reviewed**;
-- T2 — **PASS after 5 corrections**;
+- post-T2 English blob — `2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`;
+- post-T3 English blob — `00581593374a42a7f132fd3434684a52038b19d4`;
+- post-T4 English blob — `ac4f9e799b00952891fb8d5539449a6e8aaea9d5`;
+- final T5 verified English blob — **`3948fbf436875b39b3c9ca183c838f7b9139b742`**;
+- T2/T3/T4 corrections — **5/13/1**;
+- T5 body corrections — **0 / status-only**;
 - source-page comments — **7/7**;
-- source-missing closing quote in first old-style preamble — **preserved**;
-- Section 3 lexicon/source decisions — **17 provisional pending T3/T4**;
-- T3–T5 — **pending**;
-- unresolved T2 blockers — **0**.
+- T4-approved decisions — **17**;
+- unresolved Section 3 issues — **0**;
+- T0–T5 — **COMPLETE / PASS**.
 
 ## Current English state
 
@@ -95,13 +96,13 @@ T0 source prerequisite → T1 close draft → T2 bilingual fidelity → T3 Kalai
 - English body files — **3/19**;
 - T1 — **3/19**;
 - T2 — **3/19**;
-- T3 — **2/19**;
-- T4 — **2/19**;
-- T5 — **2/19**;
-- verified English articles — **2/19**;
+- T3 — **3/19**;
+- T4 — **3/19**;
+- T5 — **3/19**;
+- verified English articles — **3/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil changes during English work — **0**.
 
 ## Exact next activity
 
-**E1 — Section 3 / T3 Kalaignar voice review.** Re-fetch frozen Tamil `articles/03-section-03.md` blob **`21904dd457bb3455230de06421ff2d906ac4958d`** and post-T2 English `translations/en/03-section-03.md` blob **`2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`**. Review directness, cadence, emphatic constructions, humour, imagery, repeated clauses, quotation parallelism, the `மலிவு` anecdote and final rhetorical question. Preserve exact T2 meaning and the first preamble’s source-missing closing quotation mark. Record every correction transparently. Do not start T4 in the same activity.
+**E1 — Section 4 / T1 close draft.** Re-fetch frozen Tamil `articles/04-section-04.md` blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`**, scans **22–27 / printed pp.20–25**, then translate the complete numbered Section 4 from that frozen authority. Preserve page comments, quotations, rhetoric and source-sensitive labels; update the living lexicon only for genuine new decisions; stop before T2.
