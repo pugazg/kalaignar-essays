@@ -2,7 +2,7 @@
 
 ## Source status
 
-The supplied **82-scan eighth-edition witness contains no printed contents page**. This is a repository structural index built only from the source-visible numbered openings `1`–`19`; descriptive titles are not invented. P1 directly verified all **19/19 starts and 19/19 ends**.
+The supplied **82-scan eighth-edition witness contains no printed contents page**. This repository structural index is built only from source-visible numbered openings `1`–`19`; descriptive titles are not invented. Starts/ends are **19/19 / 19/19 directly verified**.
 
 ## Canonical numbered-section map
 
@@ -35,22 +35,17 @@ The supplied **82-scan eighth-edition witness contains no printed contents page*
 - top-of-page openings: `7,42,45,48,59,64,75`;
 - sections 8→9, 9→10, 10→11, 13→14, 14→15 and 17→18 change across page boundaries.
 
-The section numerals are source evidence. Labels such as “Section 12” are repository descriptors only.
+## P2 overlay — COMPLETE / PASS
 
-## P2 overlay
-
-Batches **1–7 / scans 1–70 — COMPLETE / PASS**.
-
-- canonical page records / direct verification: **70 / 82**;
-- contiguous verified range: scans **1–70**;
-- printed coverage: through **p.68**;
-- scan **63** directly closes section 14 at page end;
-- scan **64** directly opens source-visible section `15` at page top; p.62 folio **suppressed / inferred**;
-- scan **67** preserves section `15→16` mid-page;
-- scan **70** preserves section `16→17` mid-page;
-- scan 70 finishes its page with section 17; scan 71 begins a new sentence and was checked only for the boundary, not counted;
+- canonical page records / direct verification: **82 / 82**;
+- contiguous verified range: scans **1–82**;
+- printed coverage: **pp.1–80 COMPLETE**;
+- scan 74 directly closes section 17;
+- scan 75 directly opens source-visible section `18`; p.73 folio suppressed/inferred;
+- scan 79 directly preserves section `18→19` mid-page;
+- scan 82 closes section 19 and the source;
 - assemblies / unresolved P2-source-structure blockers: **0 / 0**.
 
 ## Exact next activity
 
-**P2 scans 71–80 / pp.69–78.** Scans **71–74** remain section 17 and close it at scan 74 page end. Scan **75 / inferred p.73** opens section 18 at page top with a suppressed/inferred folio. Scans **76–78** remain section 18. Preserve scan **79 `18→19`** mid-page transition; scan **80** remains section 19. Check scan **80→81** where needed. Do not build assemblies yet.
+**P3 — assemble the complete Tamil reading copy using this section map and the canonical page records.**
