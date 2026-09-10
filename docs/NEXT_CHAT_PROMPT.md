@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / P3 Tamil assembly
+# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / P4 source-completeness audit
 
 Continue in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -25,38 +25,45 @@ The supplied scan is controlling authority. OCR/parsed text is not authority. Ne
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
 - P2 — **COMPLETE / PASS — 82 of 82 VERIFIED**;
-- contiguous P2 verified range — scans **1–82**;
-- printed coverage — **pp.1–80 COMPLETE**;
-- P3 — **NOT STARTED / NEXT**;
-- P4/P5 — **NOT STARTED**;
+- P3 — **COMPLETE / PASS — 19 of 19 assemblies**;
+- P4 — **NOT STARTED / NEXT**;
+- P5 — **NOT STARTED**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**;
-- unresolved source/structure blockers — **0**;
-- assemblies — **0**.
+- unresolved Tamil/source/assembly blockers entering P4 — **0**.
 
-## P1 structure that must not regress
+P3 assembly set:
+
+- `articles/01-section-01.md` through `articles/19-section-19.md`;
+- numbering/order **01–19 contiguous**;
+- main-work source coverage **scans 7–82 / pp.5–80**;
+- missing / unexpected extra assemblies **0 / 0**;
+- detailed gate: `P3_ASSEMBLY_AUDIT.md`.
+
+## Structural facts that must not regress
 
 - scans 1–2 outside printed pagination;
 - scans 3–82 = pp.1–80, `printed page = scan - 2`;
 - source-numbered sections **1–19**;
 - shared mid-page transitions: `12,16,22,27,31,34,38,51,55,67,70,79`;
+- top-of-page section openings: `7,42,45,48,59,64,75`;
 - suppressed/inferred folios: `3,4,5,6,7,42,45,48,59,64,75`;
 - no printed contents page;
-- no separate back-cover scan.
+- no separate back-cover scan;
+- scan 5 is physical-copy handwriting with **no printed publication text**.
 
-## P2 final facts
+## Source-witness distinctions / non-regression readings
 
-- all **82 physical scans** have canonical VERIFIED page records;
-- scan 74 closes section 17;
-- scan 75 opens section 18 with suppressed/inferred p.73;
-- scan 79 preserves section `18→19` mid-page;
-- scan 82 closes section 19 and the source;
+- scan 1 cover: `பேசும் கலை வளர்ப்போம்`;
+- scan 3 title page: `பேசும்கலை வளர்ப்போம்`;
+- scan 6 `பதிப்புரை` date: `15—7—81`;
+- scan 13 source correction: `வீடுதான்`;
+- scan 74 source correction: `ஒரே வரியிலே` / `ஒரு வரிக்கு மேல்`;
 - scan 81 `முழுவாழ்வு வாழ` → scan 82 `விடாமல் நம்மிடமிருந்து பறித்துக்கொண்டு விட்டது.`;
-- documented corrections: scan 13 `வீட்டான்` → `வீடுதான்`; scan 74 draft `வாரியிலே` / `வாரிக்கு` → source-visible `வரியிலே` / `வரிக்கு`;
-- unresolved readings **0**; silent normalization **0**.
+- preserve `(Mannerism)`, `மேனரிசம்`, `தவிர்க்கவொண்ணாத`, `ஷம்சுதீன்`, `நாலுகால்`, `கி. ஆ. பெ. விசுவநாதம்`, `காயிதே மில்லத்`, `தேனினுமினிய`, `நாற்பத்தி ஆறு`, `1962-ல்`, `நாஞ்சில் கி. மனோகரன்`, `“வாலிபப் பெரியார்”`, `எ.வி.பி. ஆசைத்தம்பி`, `என். வி. நடராசனார்` without normalization.
 
 ## Mandatory startup
 
-Read completely before assembly work:
+Read completely before P4 work:
 
 1. `ESSAY_PROCESSING_GUIDE.md`
 2. `docs/FUTURE_WORK_GUIDELINES.md`
@@ -67,21 +74,23 @@ Read completely before assembly work:
 7. `indexes/contents.md`
 8. `indexes/page-map.md`
 9. `audit.md`
-10. canonical page records under `publications/pesum-kalai-valarppom/pages/`
+10. `P3_ASSEMBLY_AUDIT.md`
+11. canonical page records and the 19 assemblies as required by the reconciliation
 
-## Exact next activity — P3
+## Exact next activity — P4
 
-Assemble the complete Tamil reading copy from the canonical page records in one coherent pass.
+Perform the **source audit / completeness review** in one coherent pass.
 
-Requirements:
+1. reconcile source identity/edition/scan count/checksum and the two distinct title witnesses;
+2. confirm all **82 physical scans** have one canonical page record and no missing/duplicate scan record;
+3. confirm all **19 source-numbered assemblies** exist, remain `source-complete`, and match the canonical section map;
+4. reconcile each section start/end and all 12 shared transition scans against `indexes/contents.md` and `indexes/page-map.md`;
+5. check that shared transition text is neither duplicated nor omitted between adjacent assemblies;
+6. verify front matter, scan-5 handwriting, stamps and other physical-copy evidence remain outside printed reading text;
+7. verify suppressed/inferred folios are never presented as directly printed numerals;
+8. verify correction provenance and propagation, especially scan 13 `வீடுதான்` and scan 74 `வரியிலே` / `வரிக்கு`;
+9. create/update a dedicated P4 completion-review record and record any old reading → corrected source-supported reading if a discrepancy is found;
+10. synchronize `audit.md`, publication README, metadata/indexes as needed, root README, root `HANDOVER.md`, and this prompt only after P4 passes;
+11. **do not begin P5 strict visual fidelity or English in the same step unless separately authorized**.
 
-1. use canonical page records as the only assembly source;
-2. preserve source-visible section numerals `1–19` and their order;
-3. preserve exact source wording, punctuation, quotations and paragraph order;
-4. faithfully join true cross-page fragments while making **no wording normalization**;
-5. keep front-matter handwriting/stamps/physical-copy evidence outside printed reading text;
-6. do not invent descriptive section titles;
-7. verify that every main-work page record is represented exactly once in the assembly and every section boundary matches `indexes/contents.md`;
-8. record the assembly path and P3 coverage in `audit.md`, publication README, root README and root HANDOVER;
-9. advance this prompt to P4 only after P3 passes;
-10. do **not** start P4/P5 or English in the same step unless separately authorized.
+P4 is a source/completeness reconciliation gate. P5 is the later publication-wide direct word-by-word / punctuation-by-punctuation visual pass over all physical scans.
