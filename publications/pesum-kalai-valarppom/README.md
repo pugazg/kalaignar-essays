@@ -10,8 +10,8 @@ Workspace: `publications/pesum-kalai-valarppom/`
 - P2 page-level transcription — **COMPLETE / PASS — 82 of 82 VERIFIED**;
 - P3 assemblies — **COMPLETE / PASS — 19 of 19**;
 - P4 source/completeness audit — **COMPLETE / PASS**;
-- P5 strict visual word/punctuation fidelity — **IN PROGRESS — scans 1–30 / 30 of 82 PASS**;
-- P5 corrections / propagated — **7 / 7**;
+- P5 strict visual word/punctuation fidelity — **IN PROGRESS — scans 1–40 / 40 of 82 PASS**;
+- P5 corrections / propagated — **16 / 16**;
 - unresolved fidelity discrepancies in reviewed range — **0**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**.
 
@@ -42,22 +42,22 @@ P4: source/completeness reconciliation **PASS**, with page records **82/82**, as
 
 ## P5 strict visual fidelity — IN PROGRESS
 
-Direct strict review is complete through **scan 30 / p.28**.
+Direct strict review is complete through **scan 40 / p.38**.
 
-- batches `P5-001-010`, `P5-011-020`, `P5-021-030` — **PASS**;
-- corrections found: **7**;
-- corrections propagated: **7/7**;
+- batches `P5-001-010`, `P5-011-020`, `P5-021-030`, `P5-031-040` — **PASS**;
+- corrections found: **16**;
+- corrections propagated: **16/16**;
 - unresolved discrepancies: **0**.
 
-P5 corrections to date:
+New P5-031-040 source corrections:
 
-1. scan 4 `Kalaignar` → source-visible **`Kalaingnar`**;
-2. scan 7 `‘வெண்ணிலாவும்` → **`“வெண்ணிலாவும்`**;
-3. scan 19 `அப்படியிருக்குமேயானால்` → **`அப்படி இருக்குமேயானால்`**;
-4. scan 19 `எப்படிப் பாலையும்` → **`எப்படி பாலையும்`**;
-5. scan 19 `வைத்தால்,எப்படிக் எறும்பானது` → **`வைத்தால்,எப்படி எறும்பானது`**;
-6. scan 24 `எழுதி படிக்கும்` → **`எழுதிப் படிக்கும்`**;
-7. scan 26 `“ஐயா!` → source-visible **`“அய்யா!`**.
+- scan 31: `பாணை` → **`பானை`**; `ஏனப்பா` → **`ஏனய்யா`**;
+- scan 32: `என்றும்` → **`என்றதும்`**;
+- scan 33: `உன் மனைவி உன்னை விடமாட்டாளா?` → **`உன் மனைவி உன்னைவிட மூடமாக இருக்கிறாள்?`**;
+- scan 35: `எழும்பும்` → **`எலும்பும்`**; `மூந்நூறு` → **`முந்நூறு`**;
+- scan 39: `பேச்சுப்பொழுது` → **`பேசும்பொழுது`**; `அடுக்கு முறைகளால்` → **`அடக்கு முறைகளால்`**; `நினைவுபடுத்துகிறேன்` → **`நினைவு படுத்துகிறேன்`**.
+
+All nine batch-4 corrections are propagated to canonical page records and the affected section 5–8 assemblies. Established source forms such as `அங்கு மிங்கும்`, `மாவது`, `ஏழை களுக்காகப்`, `கோபைடுகிறான்`, printed `பே—3`, `கிடக்கு : வெங்காயம்!`, `“அ” வுக்கு “அ”, “க” வுக்கு “க”`, `எடுத்துவரச்சொன்னால்`, `பிர்மாண்ட`, and `வேலையற்றதுகள்` remain preserved.
 
 See [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md) for the running ledger.
 
@@ -67,4 +67,4 @@ Scan 5 is later handwriting and has no printed publication text. Library stamps/
 
 ## Exact next activity
 
-**P5 scans 31–40 / printed pp.29–38.** Strict-review every word/punctuation mark and preserve transitions **31 (5→6)**, **34 (6→7)** and **38 (7→8)**. English remains blocked until P5 closes and Tamil is frozen.
+**P5 scans 41–50 / printed pp.39–48.** Preserve the page-end/top section changes **41→42 (8→9)**, **44→45 (9→10)** and **47→48 (10→11)**, and the suppressed/inferred folios on scans **42,45,48**. English remains blocked until P5 closes and Tamil is frozen.
