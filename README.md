@@ -14,7 +14,7 @@ Publications **1–10 are RELEASE COMPLETE / FROZEN**.
 
 Workspace: `publications/pesum-kalai-valarppom/`
 
-**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 IN PROGRESS — 10/82 VERIFIED.**
+**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 IN PROGRESS — 20/82 VERIFIED.**
 
 Controlling source:
 
@@ -46,16 +46,17 @@ P1 result:
 - shared mid-page section transitions — **12**;
 - structural blockers — **0**.
 
-P2 batch 1 result:
+P2 result through batch 2:
 
-- scans **1–10** — **COMPLETE / PASS**;
-- canonical page records — **10/82 VERIFIED**;
-- contiguous verified range — scans **1–10**;
-- printed coverage — through **p.8**;
+- scans **1–20** — **COMPLETE / VERIFIED**;
+- canonical page records — **20/82 VERIFIED**;
+- contiguous verified range — scans **1–20**;
+- printed coverage — through **p.18**;
+- section transitions preserved — scan **12** `1→2`, scan **16** `2→3`;
 - unresolved printed-text/source-distinction blockers — **0**;
 - assemblies — **0**.
 
-Exact next activity: **P2 scans 11–20 — create, transcribe and directly verify ten canonical page records for printed pp.9–18; preserve the section 1→2 transition on scan 12 and section 2→3 transition on scan 16; do not build assemblies yet.**
+Exact next activity: **P2 scans 21–30 — create, transcribe and directly verify ten canonical page records for printed pp.19–28; preserve the section 3→4 transition on scan 22 and section 4→5 transition on scan 27; do not build assemblies yet.**
 
 ### Publication 10 — மீசை முளைத்த வயதில் — FROZEN
 
