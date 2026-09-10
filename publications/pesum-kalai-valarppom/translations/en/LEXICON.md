@@ -84,11 +84,46 @@ These decisions come from frozen `articles/02-section-02.md` and have passed Sec
 - source-page comments — **5/5 retained**, scans 12–16 / printed pp.10–14;
 - exact source `உடன்பிறப்பே` does **not** occur in Section 2.
 
+## Section 3 — T1 working decisions
+
+These choices come only from frozen `articles/03-section-03.md` and the first complete English draft. They remain **T1 provisional** until independent T2/T3/T4 review.
+
+| Tamil | Preferred English | Context / exception | Status |
+|---|---|---|---|
+| `இயல் / இசை / கூத்து` | `iyal / music / koothu` | Section 3 discusses the three categories and their historical ordering; `iyal` and `koothu` remain source-bearing while `இசை` follows the established natural-English `music` rendering. | **T1 provisional** |
+| sound-signals `“ஏ” “ஓ” “ஈ”` | retain `“ஏ” “ஓ” “ஈ”` | These are source sound-markers, not lexical content; no external transliteration scheme is imposed in T1. | **T1 provisional** |
+| `பீடிகை` | `preamble` | Old-style opening formula before the main speech. | **T1 provisional** |
+| `அடியேன்` | `this humble one` | Deliberately self-effacing first-person form inside the old-style preamble quotation. | **T1 provisional** |
+| `அன்னப்பட்சி` | `swan` | Preserve the source milk/water comparison without importing an external mythological gloss. | **T1 provisional** |
+| `அறிவியலும் அனுபவத்திலும்` | `science and experience` | Preserve the frozen Tamil wording as supplied even though the English collocation is unusual; do not silently normalize it to `knowledge and experience`. | **T1 provisional** |
+| `நாட்டு நடப்பு` | `current affairs` | Matters the young speaker already knows from the events of the country/day. | **T1 provisional** |
+| `எதென்சு / சாக்ரடீசு` | `Athens / Socrates` | Conventional English proper-name forms only; no external biographical expansion. | **T1 provisional** |
+| `காரல்மார்க்சு` | `Karl Marx` | Conventional English proper-name form; preserve only the source’s quoted comparison. | **T1 provisional** |
+| `இங்கர்சால்` | `Ingersoll` | Source name retained without external identification or biography. | **T1 provisional** |
+| `பொதுவுடமைப் பூங்கா` | `garden of communism` | Preserve the source garden/seed metaphor in the quoted line. | **T1 provisional** |
+| `தன்மானச் சிங்கம் தந்தை பெரியார்` | `the lion of self-respect, Thanthai Periyar` | Preserve both the lion image and source epithet; do not replace with a modern explanatory name. | **T1 provisional** |
+| `பிர்மா` | `Brahma` | Conventional proper-name rendering only; no theological explanation added. | **T1 provisional** |
+| `ஒரே குலம்தான்—மனித குலம்தான்` | `one clan—the human clan` | Preserve repetition and the source’s `குலம்` contrast rather than smoothing into a generic equality statement. | **T1 provisional** |
+| `கலைஞர்` | `Kalaignar` | Source title/name as used in the Legislative Assembly member’s quotation; no full-name substitution. | **T1 provisional** |
+| `மலிவு / மலிவான வாக்குறுதி` | `cheap / cheap promise` | Preserve the exact word that drives the later comic misunderstanding; do not soften it to `modest` in the body. | **T1 provisional** |
+| `அடக்க உணர்வு` | `a sense of humility` | Explains Kalaignar’s intended use of `மலிவு` in the first meeting. | **T1 provisional** |
+
+### Section 3 source-sensitive T1 notes
+
+- the first old-style preamble quotation begins with an opening quotation mark in the frozen Tamil assembly but has **no closing quotation mark** before the following paragraph; T1 preserves that source irregularity rather than manufacturing punctuation;
+- the later ant/sugar + magnet/iron-filings preamble has its explicit closing quotation mark and is translated as a separate quotation;
+- Socrates, Karl Marx, Ingersoll and Periyar wording is translated only from the frozen Tamil witness; no published or external quotation wording is imported;
+- the `மலிவு` / `மலிவான வாக்குறுதி` repetition is deliberately kept because the misunderstanding of that word is the point of the anecdote;
+- source-page comments — **7/7 retained**, scans 16–22 / printed pp.14–20;
+- exact source `உடன்பிறப்பே` does **not** occur in Section 3.
+
 ## Current count
 
 - permanent repository-wide lexical decisions: **1**;
 - publication-level structural/rhetorical rules: **4**;
 - Section 1 T4-approved article-derived decisions: **16**;
 - Section 2 T4-approved article-derived decisions: **15**;
+- Section 3 T1 provisional decisions: **17**;
 - unresolved Section 1 terminology / quotation / citation issues: **0**;
-- unresolved Section 2 terminology / quotation / citation issues: **0**.
+- unresolved Section 2 terminology / quotation / citation issues: **0**;
+- unresolved Section 3 T1 terminology/source issues: **0**.
