@@ -2,7 +2,7 @@
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`  
 Physical scans: **82**  
-Current gate: **P4 COMPLETE / PASS — source/completeness reconciled**
+Current gate: **P5 IN PROGRESS — scans 1–10 / 10 of 82 PASS**
 
 ## Canonical pagination rule
 
@@ -94,6 +94,18 @@ The source/completeness review rechecked this map against the live source metada
 
 Dedicated reconciliation: [`../P4_SOURCE_COMPLETENESS_REVIEW.md`](../P4_SOURCE_COMPLETENESS_REVIEW.md).
 
+## P5 overlay — IN PROGRESS
+
+- strict-reviewed scans: **1–10 / 10 of 82**;
+- reviewed printed span: outside pagination + pp.**1–8**;
+- corrections found / propagated: **2 / 2**;
+- unresolved fidelity discrepancies in reviewed range: **0**;
+- suppressed/inferred folios rechecked so far: **3,4,5,6,7 — PASS**;
+- scan 4 English imprint source spelling: **`Kalaingnar`**;
+- scan 7 quotation opening source punctuation: **double opening quote `“`**.
+
+Running record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
+
 ## Exact next activity
 
-**P5 — strict visual word/punctuation fidelity.** Re-inspect every one of the 82 physical scans directly against its canonical record, log old reading → source-visible correction provenance, and propagate corrections into assemblies/indexes/trackers before Tamil freeze.
+**P5 scans 11–20 / pp.9–18.** Continue direct strict visual review, preserving the scan-12 `1→2` and scan-16 `2→3` transitions and propagating every source-supported correction before moving to the next batch.
