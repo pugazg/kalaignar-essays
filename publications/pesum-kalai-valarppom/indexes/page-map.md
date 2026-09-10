@@ -2,9 +2,9 @@
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`  
 Physical scans: **82**  
-Current gate: **P2 IN PROGRESS — 60 / 82 VERIFIED**
+Current gate: **P2 IN PROGRESS — 70 / 82 VERIFIED**
 
-P1 directly inspected all **82 / 82** scans and established the canonical structural map. P2 batches 1–6 now have canonical VERIFIED page records for scans **1–60**; the P1 map itself is unchanged.
+P1 directly inspected all **82 / 82** scans and established the canonical structural map. P2 batches 1–7 now have canonical VERIFIED page records for scans **1–70**; the P1 map itself is unchanged.
 
 ## Pagination rule established at P1
 
@@ -131,18 +131,18 @@ Shared mid-page transition scans: **12,16,22,27,31,34,38,51,55,67,70,79**. Top-o
 
 ## P2 overlay
 
-Batches **1–6**, scans **1–60**, are **COMPLETE / PASS**.
+Batches **1–7**, scans **1–70**, are **COMPLETE / PASS**.
 
-- canonical records / direct verification: **60 / 82**;
-- contiguous verified range: scans **1–60**;
-- printed coverage: through **p.58**;
-- canonical mid-page transitions now directly preserved through scan 55, including scan **51 `11→12`** and scan **55 `12→13`**;
-- section 13 closes at scan **58** page end;
-- section 14 opens at scan **59** page top; p.57 is suppressed/inferred;
-- scan 60 remains section 14;
-- scan 60 `அரசியல் கட்சி மேடையில்` → scan 61 `அதற்குப் பதில் அளிக்கும்போது` directly checked; scan 61 is not yet counted;
+- canonical records / direct verification: **70 / 82**;
+- contiguous verified range: scans **1–70**;
+- printed coverage: through **p.68**;
+- scan **63** directly closes section 14 at page end;
+- scan **64 / inferred p.62** directly opens section 15 at page top; folio remains suppressed/inferred;
+- scan **67** preserves section **15→16** mid-page;
+- scan **70** preserves section **16→17** mid-page;
+- scan 70 final sentence closes on-page; scan 71 starts a new sentence and was inspected only for boundary closure, so scan 71 is not yet counted;
 - unresolved P2 readings / structural changes / assemblies: **0 / 0 / 0**.
 
 ## Exact next activity
 
-**P2 batch 7 — scans 61–70 / printed pp.59–68.** Scans 61–63 remain section 14 and section 14 ends at scan 63 page end. Scan **64 / inferred p.62** opens section 15 at page top with a suppressed/inferred folio. Preserve scan **67 `15→16`** and scan **70 `16→17`** mid-page transitions. Check scan 70→71 as needed. Do not build assemblies during P2.
+**P2 batch 8 — scans 71–80 / printed pp.69–78.** Scans **71–74** remain section 17 and section 17 ends at scan **74** page end. Scan **75 / inferred p.73** opens section 18 at page top with a suppressed/inferred folio. Scans **76–78** remain section 18. Preserve scan **79 `18→19`** mid-page transition; scan **80** remains section 19. Check scan **80→81** as needed. Do not build assemblies during P2.
