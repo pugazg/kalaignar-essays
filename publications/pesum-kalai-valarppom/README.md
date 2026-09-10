@@ -7,7 +7,7 @@ Workspace: `publications/pesum-kalai-valarppom/`
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
-- P2 page-level transcription — **IN PROGRESS / 60 of 82 VERIFIED**;
+- P2 page-level transcription — **IN PROGRESS / 70 of 82 VERIFIED**;
 - P3 assemblies — **NOT STARTED**;
 - P4 source/completeness audit — **NOT STARTED**;
 - P5 strict visual word/punctuation fidelity — **NOT STARTED**;
@@ -40,18 +40,20 @@ Canonical structure: `indexes/page-map.md` and `indexes/contents.md`. No descrip
 
 ## P2 progress
 
-Batches **1–6 / scans 1–60 — COMPLETE / PASS**.
+Batches **1–7 / scans 1–70 — COMPLETE / PASS**.
 
-- canonical records / direct verification: **60 / 82**;
-- contiguous verified range: scans **1–60**;
-- printed coverage: through **p.58**;
+- canonical records / direct verification: **70 / 82**;
+- contiguous verified range: scans **1–70**;
+- printed coverage: through **p.68**;
 - unresolved printed-text/source-distinction blockers: **0**;
 - assemblies: **0**;
-- documented P2 source correction: scan 13 draft `வீட்டான்` → source-visible `வீடுதான்`; all other batch-6 corrections **0**.
+- documented P2 source correction: scan 13 draft `வீட்டான்` → source-visible `வீடுதான்`;
+- batch-7 corrections after final direct verification: **0**;
+- silent normalization: **0**.
 
-Batch 6 directly preserves scan **51 `11→12`** and scan **55 `12→13`** mid-page transitions. Section 13 ends at scan **58** page end. Section 14 opens at scan **59** page top; its p.57 folio is **suppressed / inferred**, not visibly printed. Scan 60 remains section 14. The batch boundary scan 60 `அரசியல் கட்சி மேடையில்` → scan 61 `அதற்குப் பதில் அளிக்கும்போது` was directly checked; scan 61 is not yet counted.
+Batch 7 directly closes section 14 at scan **63**, opens section 15 on scan **64** with its p.62 folio **suppressed / inferred**, preserves scan **67 `15→16`** and scan **70 `16→17`** mid-page transitions, and checks scan 70→71 without counting scan 71.
 
-Source-sensitive batch-6 forms retained without normalization include `போர்களம்`, `அரங்கின்றி வட்டாடுவதுபோல`, printed `பே—4` separated from prose, `அவைக்கணம்`, `ஒளவைக்குக்`, `ஒலிபெருக்கியாளர்கள்`, `வீணுக் குழைத்தோமடா`, `கட்டுபடியான`, `கிரேக்கத்து`, `ஆபிரகாம் லிங்கன்`, `மாங்கொல்லையிலோ`, `புரசை வெள்ளாளர்`, `எழுவயது`, `சுற்றடைப்புக்குள்`, `மது பார்மிட்`, `உத்திரவிட்டேன்`, the distinct `‘போன்’` / `“போன்”` witnesses, `களித்திருமளவுக்கு`, `சொற்பெருக்காற்றக்`, and `தாற்குறையாக — ஆபாசமாக — அருவருக்கத்தக்க`.
+Source-sensitive batch-7 forms retained without normalization include scan 61 `கடுஞ்சொற் களஞ்சியமாகவும்—ஆபாசக் குட்டையாகவும்`; scan 62 `“வசவு”`; scan 64 unusual `வழியனுப்பி வைக்கப்பட்ட அழைத்துச் செல்லப்படுவார்`; scan 65 `திருவாஞ்சியம்` / `நீங்காத் துயில்`; scan 66 `தளகர்த்தர்` / `செயலாளரது கைகளைத்`; scan 67 `நாட்டி யிருக்கிறார்கள்`, `கண்ணியூர் பரூக்`, printed `பே—5`; scan 68 source attributions `ஸ்மிட்`, `மாண்டஸ்கியு`, `மெக்காலே`, `டிஸ்ரேலி`, `பிரெளன்`, `செஸ்டர்பீல்டு`; scan 69 `ருசியப் பொன்மொழி`; and scan 70 `அல்பேனியப் பொன்மொழி`, the two-line `சொல்லுக சொல்லைப்...` quotation, and `“நாநலம் என்னும் நலனுடைமை”`.
 
 ## Physical-copy/source distinctions
 
@@ -59,4 +61,4 @@ Scan 5 is later handwriting and has no printed publication text. Library stamps/
 
 ## Exact next activity
 
-**P2 batch 7 — scans 61–70 / printed pp.59–68.** Scans 61–63 remain section 14 and close it at scan 63 page end. Scan **64 / inferred p.62** opens section 15 at page top with a suppressed/inferred folio. Preserve scan **67 `15→16`** and scan **70 `16→17`** mid-page transitions. Check scan 70→71 where needed. Do not build section/article assemblies yet.
+**P2 batch 8 — scans 71–80 / printed pp.69–78.** Scans **71–74** remain section 17, with section 17 ending at scan **74** page end. Scan **75 / inferred p.73** opens section 18 at page top with a suppressed/inferred folio. Scans **76–78** remain section 18. Preserve scan **79 `18→19`** mid-page transition; scan **80** remains section 19. Check scan **80→81** where needed. Do not build section/article assemblies yet.
