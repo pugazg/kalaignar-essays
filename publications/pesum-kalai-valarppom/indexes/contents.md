@@ -6,7 +6,7 @@ The supplied **82-scan eighth-edition witness contains no printed contents page*
 
 ## Canonical numbered-section map
 
-| Section | Source span | Start position | End position | Assembly |
+| Section | Source span | Start position | End position | Tamil assembly |
 |---:|---|---|---|---|
 | 1 | scans 7–12 / pp.5–10 | scan 7 top | scan 12 before section 2 | `articles/01-section-01.md` |
 | 2 | scans 12–16 / pp.10–14 | scan 12 mid-page | scan 16 before section 3 | `articles/02-section-02.md` |
@@ -35,27 +35,28 @@ The supplied **82-scan eighth-edition witness contains no printed contents page*
 - top-of-page openings: `7,42,45,48,59,64,75`;
 - sections 8→9, 9→10, 10→11, 13→14, 14→15 and 17→18 change across page boundaries.
 
-## P2 / P3 / P4 overlays
+## Tamil gate overlay — FROZEN
 
-- P2 canonical page records: **82/82 COMPLETE / PASS**;
-- P3 numbered-section assemblies: **19/19 COMPLETE / PASS**;
-- P4 source/completeness reconciliation: **COMPLETE / PASS**;
-- structural map drift / shared-transition defects / suppressed-folio regressions through P4: **0**.
+- P2 canonical page records — **82/82 COMPLETE / PASS**;
+- P3 numbered-section assemblies — **19/19 COMPLETE / PASS**;
+- P4 source/completeness reconciliation — **COMPLETE / PASS**;
+- P5 strict visual fidelity — **82/82 COMPLETE / PASS**;
+- P5 corrections / propagated — **33/33**;
+- unresolved Tamil fidelity discrepancies — **0**;
+- structural map drift — **0**;
+- Tamil archival layer — **FROZEN**.
 
-## P5 overlay — COMPLETE / PASS
+## English overlay
 
-- strict-reviewed scans: **1–82 / 82 of 82**;
-- reviewed span: outside pagination + pp.**1–80 / source end**;
-- corrections found / propagated: **33 / 33**;
-- unresolved fidelity discrepancies: **0**;
-- P5 source-visible transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8), 51 (11→12), 55 (12→13), 67 (15→16), 70 (16→17), 79 (18→19) — PASS**;
-- page-end/top changes **41→42 (8→9), 44→45 (9→10), 47→48 (10→11), 58→59 (13→14), 63→64 (14→15), 74→75 (17→18) — PASS**;
-- all suppressed/inferred folios `3,4,5,6,7,42,45,48,59,64,75` — **PASS**;
-- scans 71–82 introduced **4** source-supported corrections, all propagated, with no structural section-map change;
-- scan 82 source-end closure — **PASS**.
+- E0 workspace/planning — **COMPLETE / PASS**;
+- T0 source prerequisite — **19/19 PASS**;
+- frozen baseline commit — **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**;
+- exact Tamil assembly blob SHAs recorded — **19/19**;
+- English body files — **0/19**;
+- T1–T5 — **0/19**.
 
-Completed fidelity record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
+The source has no descriptive section titles, so English must retain numeric section identity rather than inventing titles. The exact frozen SHA matrix is in [`../TRANSLATION_PLAN.md`](../TRANSLATION_PLAN.md).
 
 ## Exact next activity
 
-Tamil P0–P5 is **COMPLETE / PASS / FROZEN**. English is **NOT STARTED**. Begin English E0 / T0 source-prerequisite setup under `ESSAY_TRANSLATION_GUIDE.md` before any body translation.
+**E1 — Section 1 / T1 voice-calibration draft**, using frozen Tamil `articles/01-section-01.md` blob **`e5517b7cc344554d51af4092599059d481039c1e`**. Reconfirm the blob first, then create `translations/en/01-section-01.md` as a complete draft with source-page comments preserved.
