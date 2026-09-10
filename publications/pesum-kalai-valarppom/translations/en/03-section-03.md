@@ -52,7 +52,7 @@ Even now, when young speakers mount the stage to speak, after greeting the chair
 
 Many young people mount the stage after memorising a speech. If even a small interruption occurs while they recite what they have learned in a fluster, they stand bewildered and try to begin their memorised speech all over again from the start! Do not load their brains with weighty matters—place in them only the matters they know from current affairs. Only then will they themselves understand what they are speaking about.
 
-“Like Socrates, the old man of wisdom of Athens—like Karl Marx, who sowed the seed of thought for the garden of communism—like Ingersoll, who found light in darkness—the lion of self-respect, Thanthai Periyar, shone.”
+“Like Socrates, the wise elder of Athens—like Karl Marx, who sowed the seed of thought for the garden of communism—like Ingersoll, who found light in darkness—the lion of self-respect, Thanthai Periyar, shone.”
 
 For a young speaker who memorises what has been written out like this and speaks on a stage, should he not know who Socrates is? Should that young speaker not understand Marx and Ingersoll as well?
 
