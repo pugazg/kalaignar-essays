@@ -20,15 +20,15 @@ English work never modifies the frozen Tamil authority.
 
 ## E0 — planning / workspace bootstrap
 
-**COMPLETE / PASS.** `TRANSLATION_PLAN.md`, English progress tracker, living lexicon, and this review ledger were initialized. No English body translation was created during E0. Blockers: **0**.
+**COMPLETE / PASS.** `TRANSLATION_PLAN.md`, English progress tracker, living lexicon, and this review ledger were initialized. Blockers: **0**.
 
 ## T0 — frozen-source prerequisite
 
-**COMPLETE / PASS — 19 / 19.** All source-numbered Tamil assemblies were enumerated from the frozen baseline. Their exact Git blob SHAs are recorded below and are the authority for future English front matter.
+**COMPLETE / PASS — 19 / 19.** All source-numbered Tamil assemblies were enumerated from the frozen baseline. Their exact Git blob SHAs are the authority for English front matter.
 
 | # | Frozen Tamil assembly | Frozen Tamil blob SHA | T0 | English body |
 |---:|---|---|---|---|
-| 1 | `articles/01-section-01.md` | `e5517b7cc344554d51af4092599059d481039c1e` | **PASS** | not-started |
+| 1 | `articles/01-section-01.md` | `e5517b7cc344554d51af4092599059d481039c1e` | **PASS** | **draft** |
 | 2 | `articles/02-section-02.md` | `b10894b911393239e57446687c34030aff88a8e3` | **PASS** | not-started |
 | 3 | `articles/03-section-03.md` | `21904dd457bb3455230de06421ff2d906ac4958d` | **PASS** | not-started |
 | 4 | `articles/04-section-04.md` | `b938be21e198d69548e45ae96cb0e9802b8d7079` | **PASS** | not-started |
@@ -48,15 +48,44 @@ English work never modifies the frozen Tamil authority.
 | 18 | `articles/18-section-18.md` | `060e72d9ec61e491343c948c2db9371312b7e3a8` | **PASS** | not-started |
 | 19 | `articles/19-section-19.md` | `aa3eb2b5311f8ad1a705f606bd4ace3f2059ec6c` | **PASS** | not-started |
 
-### T0 acceptance
+Before each T1 draft is written, re-check that the live Tamil blob still equals the frozen SHA above. A mismatch is a hard source-drift stop.
 
-- live/frozen source unit count: **19/19**;
-- missing/extra Tamil assembly authority: **0/0**;
-- unresolved Tamil blockers: **0**;
-- English source metadata available for every section: **19/19**;
-- frozen Tamil edits during E0/T0: **0**.
+---
 
-Before each T1 draft is written, re-check that the live Tamil blob still equals the frozen SHA above. A mismatch is a hard source-drift stop; do not translate a changed source silently.
+## E1 — Section 1
+
+### T0 source check
+
+**PASS.** Immediately before drafting, live `articles/01-section-01.md` still matched frozen blob **`e5517b7cc344554d51af4092599059d481039c1e`**.
+
+### T1 close draft
+
+**COMPLETE / PASS as a draft gate.**
+
+| Authority | Blob |
+|---|---|
+| Frozen Tamil source | `e5517b7cc344554d51af4092599059d481039c1e` |
+| T1 English draft | **`d36aec208ea15b970795a7717dd770d2d27251d8`** |
+
+Draft file: `translations/en/01-section-01.md`  
+Source span: scans **7–12 / printed pp.5–10**  
+Translation status: **draft**  
+T2 / T3 / T4 / T5: **pending**.
+
+T1 preserved:
+
+- all source body paragraphs;
+- source-numbered section identity `1`;
+- all six source-page boundary comments for scans 7–12;
+- Bharathidasan quotation structure and its driving dashes;
+- Valluvar quotation as a fresh source-based English rendering, not an imported published translation;
+- repeated contrasts, exclamations and rhetorical questions;
+- `1970`, Hyde Park / `(HydePark)`, V. K. Krishna Menon and the U.N. Assembly anecdote;
+- the closing rhetorical transition into how Kalaignar learned to speak on stage.
+
+Publication-title draft established as **Let Us Develop the Art of Speaking**; it remains provisional until T3 voice review. Section 1 source-derived terminology decisions were added to `LEXICON.md` with **T1 provisional** status.
+
+No T2 correction findings are claimed here; T2 must be an independent Tamil/English re-read.
 
 ---
 
@@ -66,19 +95,19 @@ Before each T1 draft is written, re-check that the live Tamil blob still equals 
 |---|---|
 | E0 workspace/planning | **COMPLETE / PASS** |
 | T0 source prerequisite | **19/19 PASS** |
-| T1 close draft | **0/19** |
+| T1 close draft | **1/19** |
 | T2 bilingual fidelity | **0/19** |
 | T3 Kalaignar voice | **0/19** |
 | T4 terminology / quotation / citation | **0/19** |
 | T5 section verification | **0/19** |
-| English body files | **0/19** |
+| English body files | **1/19** |
 
-Unresolved English blockers: **0**.
+Unresolved English blockers: **0**. Frozen Tamil edits during E1: **0**.
 
 ## Corrections / review findings
 
-None yet. E0/T0 did not create or modify English body prose.
+T1 is a drafting gate, not the independent review gate. **No T2/T3/T4 corrections have yet been recorded.**
 
 ## Exact next activity
 
-**E1 — Section 1 / T1 voice-calibration draft.** Reconfirm Tamil blob `e5517b7cc344554d51af4092599059d481039c1e`; then create `01-section-01.md` as a complete paragraph-by-paragraph draft with source-page comments preserved. Keep status `draft`; T2–T5 follow as independent review gates.
+**E1 — Section 1 / T2 bilingual fidelity review.** Compare frozen Tamil blob `e5517b7cc344554d51af4092599059d481039c1e` with English T1 blob `d36aec208ea15b970795a7717dd770d2d27251d8` sentence by sentence and clause by clause. Check omissions/additions, names, dates/numbers, quotations, negatives, comparisons, logical connectors, deliberate repetition, source-witness distinctions and all six page-boundary comments. Record every correction transparently; do not start T3 until T2 passes.
