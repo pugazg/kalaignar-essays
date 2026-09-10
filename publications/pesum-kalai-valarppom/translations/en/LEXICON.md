@@ -20,28 +20,40 @@ This is a living consistency aid, not a mechanical substitution table. Add decis
 | author-chosen names / epithets | preserve the source referential choice | Do not silently replace with modern explanatory names in body text. | **binding** |
 | rhetorical questions, repetition, exclamations and driving dashes | preserve rhetorical action | English punctuation may be normalised only where it does not weaken or change the source action. | **binding** |
 
-## Section 1 — working decisions
+## Section 1 — T4-audited decisions
 
-These decisions were established from frozen `articles/01-section-01.md`. T2 did not require a terminology change. T3 voice review approved the publication-title rendering; all entries still remain subject to the independent T4 terminology / quotation / citation audit.
+These decisions were established from frozen `articles/01-section-01.md` and independently audited through T2 fidelity, T3 voice and T4 terminology / quotation / citation review. They are approved for Section 1 and may guide later sections where the same Tamil function recurs; they are not mechanical substitutions when later context differs.
 
 | Tamil | Preferred English | Context / exception | Status |
 |---|---|---|---|
-| `பேசும் கலை வளர்ப்போம்` | `Let Us Develop the Art of Speaking` | Publication-title rendering; retains the hortatory `வளர்ப்போம்`. T3 voice review approved this form. | **T3 voice-approved / T4 pending** |
-| `கலை என்பது கலைக்காக` | `art for art’s sake` | Source argument; retain the repeated art/lamp analogy rather than paraphrasing it away. | **T1 provisional / T4 pending** |
-| `பேச்சுக்கலை` | `the art of speaking` | Default rendering in this serial; do not mechanically replace every later context with `public speaking`. | **T1 provisional / T4 pending** |
-| `வீணை` / `யாழ்` / `நாதசுரம்` | `veena` / `yaazh` / `nadaswaram` | Musical-instrument names retained in source-bearing English forms. | **T1 provisional / T4 pending** |
-| `இராக` / `தாள` / `பாவம்` | `raga` / `tala` / `bhava` | Musical triad retained rather than flattened into generic English categories. | **T1 provisional / T4 pending** |
-| `கன்னல் தமிழ்` | `sugarcane-sweet Tamil` | Preserve the source sweetness/sugarcane image in Bharathidasan’s quoted line. | **T1 provisional / T4 pending** |
-| `சொல்லவன்மை` | `Power of Speech` | Rendering of the chapter label as used in Kalaignar’s explanation; not imported from a published English Kural edition. | **T1 provisional / T4 pending** |
-| `அம்மா அப்பா` | `Amma, Appa` | Preserve the source’s Tamil child-address forms. | **T1 provisional / T4 pending** |
-| `சொற்களை ஆள்வது` | `to command words` | Preserve the governing/mastery metaphor that drives the transition into speaking technique. | **T1 provisional / T4 pending** |
-| `சொற்பொழிவுக்களம்` | `public-speaking arena` | Hyde Park context; preserve the sense of a place/ground for speaking practice. | **T1 provisional / T4 pending** |
-| `முயற்சி திருவினை யாக்கும்` | `Effort brings accomplishment` | Compact proverbial sentence; preserve brevity and forward force. | **T1 provisional / T4 pending** |
+| `பேசும் கலை வளர்ப்போம்` | `Let Us Develop the Art of Speaking` | Publication-title rendering; retains the hortatory `வளர்ப்போம்`. Passed T3 voice review and T4 terminology audit. | **T4 approved** |
+| `கலை என்பது கலைக்காக` | `art for art’s sake` | Source argument; retain the repeated art/lamp analogy rather than paraphrasing it away. | **T4 approved** |
+| `பேச்சுக்கலை` | `the art of speaking` | Default rendering in this serial; do not mechanically replace every later context with `public speaking`. | **T4 approved** |
+| `வீணை` / `யாழ்` / `நாதசுரம்` | `veena` / `yaazh` / `nadaswaram` | Source-bearing musical-instrument forms; no outside transliteration scheme is imposed. | **T4 approved** |
+| `இராக` / `தாள` / `பாவம்` | `raga` / `tala` / `bhava` | Musical triad retained rather than flattened into generic English categories. | **T4 approved** |
+| `கன்னல் தமிழ்` | `sugarcane-sweet Tamil` | Preserve the source sweetness/sugarcane image in Bharathidasan’s quoted line. | **T4 approved** |
+| `சொல்லவன்மை` | `Power of Speech` | Source-based rendering of the chapter label in Kalaignar’s explanation; no published English Kural title imported. | **T4 approved** |
+| `அம்மா அப்பா` | `Amma, Appa` | Preserve the source’s Tamil child-address forms. | **T4 approved** |
+| `சொற்களை ஆள்வது` | `to command words` | Preserve the governing/mastery metaphor that drives the transition into speaking technique. | **T4 approved** |
+| `சொற்பொழிவுக்களம்` | `public-speaking arena` | Hyde Park context; preserve the sense of a place/ground for speaking practice. | **T4 approved** |
+| `முயற்சி திருவினை யாக்கும்` | `Effort brings accomplishment` | Compact proverbial sentence; preserve brevity and forward force. | **T4 approved** |
+| `பாரதிதாசனார்` | `Bharathidasan` | Proper-name rendering used in the quotation attribution; no external biographical expansion added. | **T4 approved** |
+| `வள்ளுவர்` / `குறள்` | `Valluvar` / `Kural` | Preserve Kalaignar’s source attribution and his own explanation; no published English Kural translation imported. | **T4 approved** |
+| `ஹைட்பார்க்` / `ஹைட் பார்க்`; source parenthetical `(HydePark)` | `Hyde Park`; retain `(HydePark)` at the first source-parenthetical occurrence | Normal English spacing is used for the name; the source-specific parenthetical spelling remains visible where supplied. | **T4 approved** |
+| `வி. கே. கிருஷ்ண மேனன்` | `V. K. Krishna Menon` | Preserve the source name and initials; do not add biographical identification inside body text. | **T4 approved** |
+| `ஐ. நா. சபை` / `ஐ. நா. அவை` | `U.N. Assembly` | Source supports U.N. assembly/house wording only; do not silently expand to `U.N. General Assembly`. | **T4 approved** |
+
+## Section 1 quotation / source-label audit notes
+
+- Bharathidasan quotation — translated from the frozen Tamil witness; attribution retained; driving dashes retained; no published English translation imported.
+- Valluvar quotation — translated from the frozen Tamil witness; two-line verse structure retained; Kalaignar’s explanation remains separate from the quotation; no published English translation imported.
+- `1970` — retained exactly as the source year.
+- source-page comments — **6/6 retained**, scans 7–12 / printed pp.5–10.
+- exact source `உடன்பிறப்பே` does **not** occur in Section 1; the permanent repository rule therefore has no body occurrence to apply here.
 
 ## Current count
 
 - permanent repository-wide lexical decisions: **1**;
 - publication-level structural/rhetorical rules: **4**;
-- Section 1 article-derived decisions: **11**;
-- T3 voice-approved title decisions: **1**;
-- T4-verified article-derived decisions: **0**.
+- Section 1 T4-approved article-derived decisions: **16**;
+- unresolved Section 1 terminology / quotation / citation issues: **0**.
