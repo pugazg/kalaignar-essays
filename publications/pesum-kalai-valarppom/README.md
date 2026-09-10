@@ -19,7 +19,7 @@ Workspace: `publications/pesum-kalai-valarppom/`
 - T0 — **19/19 PASS**;
 - English body files — **3/19**;
 - T1 — **3/19**;
-- T2 — **2/19**;
+- T2 — **3/19**;
 - T3 — **2/19**;
 - T4 — **2/19**;
 - T5 — **2/19**;
@@ -52,7 +52,7 @@ The publication title **Let Us Develop the Art of Speaking** is approved through
 - unresolved Section 2 issues — **0**;
 - T0–T5 — **COMPLETE / PASS**.
 
-## Section 3 — T1 COMPLETE / draft
+## Section 3 — T2 COMPLETE / fidelity-reviewed
 
 Tamil authority:
 
@@ -63,17 +63,19 @@ Tamil authority:
 English:
 
 - `translations/en/03-section-03.md`;
-- T1 blob — **`377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`**;
-- status — **draft**;
+- T1 blob — `377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`;
+- post-T2 blob — **`2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`**;
+- status — **fidelity-reviewed**;
+- T2 — **PASS after 5 corrections**;
 - source-page comments — **7/7 retained**;
-- T1 provisional Section 3 lexicon/source decisions — **17**;
-- T2–T5 — **pending**;
-- unresolved T1 blockers — **0**.
+- T1 provisional Section 3 lexicon/source decisions — **17, unchanged at T2**;
+- T3–T5 — **pending**;
+- unresolved T2 blockers — **0**.
 
-The Section 3 draft preserves the source’s first old-style preamble quotation without adding its absent closing quotation mark, retains the source-based Socrates–Karl Marx–Ingersoll–Thanthai Periyar passage, preserves `அறிவியலும் அனுபவத்திலும்` without silently normalizing the Tamil, and keeps the repeated `மலிவு` wordplay that drives the closing anecdote.
+T2 preserved the source’s first old-style preamble quotation without adding its absent closing quotation mark, retained `அறிவியலும் அனுபவத்திலும்` without normalizing the Tamil, and corrected the early-human sequence, dictionary sentence, `பரபரப்புடன்`, singular `கருத்து`, and fourfold `ஒரு சாதி` repetition.
 
 Permanent rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`** only where the exact source form occurs. The source supplies numeric sections only; do not invent descriptive English section titles.
 
 ## Exact next activity
 
-**E1 — Section 3 / T2 bilingual fidelity review.** Revalidate frozen Tamil blob **`21904dd457bb3455230de06421ff2d906ac4958d`** and T1 English blob **`377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`**. Review every sentence/clause, source quotation and punctuation anomaly, sound marker, name/epithet, repeated word, logical turn and all **7/7** source-page comments. Record every correction transparently. Do not start Section 3 T3 in the same activity.
+**E1 — Section 3 / T3 Kalaignar voice review.** Revalidate frozen Tamil blob **`21904dd457bb3455230de06421ff2d906ac4958d`** and post-T2 English blob **`2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`**. Review directness, cadence, emphatic constructions, imagery, humour, quoted parallelism, repetition and the `மலிவு` anecdote without changing T2 meaning or manufacturing the source-missing quote. Record every correction transparently. Do not start T4 in the same activity.
