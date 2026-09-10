@@ -2,7 +2,7 @@
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`  
 Physical scans: **82**  
-Current gate: **P5 IN PROGRESS — scans 1–40 / 40 of 82 PASS**
+Current gate: **P5 IN PROGRESS — scans 1–50 / 50 of 82 PASS**
 
 ## Canonical pagination rule
 
@@ -50,7 +50,7 @@ A suppressed/inferred folio must never be represented as a source-visible printe
 | 19 | 79–82 / pp.77–80 | scan 79 mid | scan 82 source end | `articles/19-section-19.md` |
 
 Shared mid-page transition scans: **12,16,22,27,31,34,38,51,55,67,70,79**.  
-Top-of-page section openings: **7,42,45,48,59,64,75**.
+Top-of-page openings: **7,42,45,48,59,64,75**.
 
 ## P2 / P3 / P4 overlays
 
@@ -63,17 +63,18 @@ Top-of-page section openings: **7,42,45,48,59,64,75**.
 
 ## P5 overlay — IN PROGRESS
 
-- strict-reviewed scans: **1–40 / 40 of 82**;
-- reviewed printed span: outside pagination + pp.**1–38**;
-- corrections found / propagated: **16 / 16**;
+- strict-reviewed scans: **1–50 / 50 of 82**;
+- reviewed printed span: outside pagination + pp.**1–48**;
+- corrections found / propagated: **26 / 26**;
 - unresolved fidelity discrepancies in reviewed range: **0**;
-- suppressed/inferred folios rechecked so far: **3,4,5,6,7 — PASS**;
+- suppressed/inferred folios rechecked so far: **3,4,5,6,7,42,45,48 — PASS**;
 - source-visible shared transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8) — PASS**;
+- page-end/top section changes rechecked: **41→42 (8→9), 44→45 (9→10), 47→48 (10→11) — PASS**;
 - structural section map changed by P5: **No**;
-- scan 41 used only as scan-40 boundary evidence, not counted.
+- scan 51 used only as scan-50 boundary evidence, not counted.
 
 Running record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Exact next activity
 
-**P5 scans 41–50 / pp.39–48.** Continue direct strict visual review. Preserve page-end/top changes **41→42 (8→9)**, **44→45 (9→10)** and **47→48 (10→11)**, and keep scans **42,45,48** as suppressed/inferred folios. Inspect scan 51 only as boundary evidence if needed and propagate every source-supported correction before moving to the next batch.
+**P5 scans 51–60 / pp.49–58.** Preserve scan **51 (11→12)** and scan **55 (12→13)** mid-page transitions, section 13 closure at scan **58**, section 14 top-of-page opening at scan **59**, and scan 59's suppressed/inferred p.57 folio. Inspect scan **61** only as boundary evidence if needed and propagate every source-supported correction before moving to the next batch.
