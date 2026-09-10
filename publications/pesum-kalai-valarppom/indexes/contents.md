@@ -49,10 +49,11 @@ If later evidence shows the units correspond to separately published `முத�
 
 ## P2 overlay
 
-- scans **1–20** now have canonical page records and are directly **VERIFIED**;
-- P2 cumulative state: **20 / 82 VERIFIED**;
-- section 1→2 transition on scan **12** and section 2→3 transition on scan **16** are preserved inside the shared page records;
+- scans **1–30** now have canonical page records and are directly **VERIFIED**;
+- P2 cumulative state: **30 / 82 VERIFIED**;
+- section transitions already preserved inside shared canonical records: scan **12** `1→2`, scan **16** `2→3`, scan **22** `3→4`, scan **27** `4→5`;
+- scan 30 batch boundary `அந்தப்` → scan 31 `பாணியில்` was directly checked; scan 31 is not yet counted as a canonical P2 record;
 - assemblies created: **0**;
 - unresolved P2/source/structure blockers: **0**.
 
-Exact next activity: **P2 scans 21–30 page-level transcription and direct verification; preserve the section 3→4 transition on scan 22 and section 4→5 transition on scan 27; do not build assemblies yet.**
+Exact next activity: **P2 scans 31–40 page-level transcription and direct verification; preserve the section 5→6 transition on scan 31, section 6→7 transition on scan 34, and section 7→8 transition on scan 38; do not build assemblies yet.**
