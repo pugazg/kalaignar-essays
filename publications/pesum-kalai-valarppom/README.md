@@ -9,8 +9,8 @@ Workspace: `publications/pesum-kalai-valarppom/`
 - P1 — **COMPLETE / PASS**;
 - P2 page-level transcription — **COMPLETE / PASS — 82 of 82 VERIFIED**;
 - P3 assemblies — **COMPLETE / PASS — 19 of 19**;
-- P4 source/completeness audit — **NOT STARTED / NEXT**;
-- P5 strict visual word/punctuation fidelity — **NOT STARTED**;
+- P4 source/completeness audit — **COMPLETE / PASS**;
+- P5 strict visual word/punctuation fidelity — **NOT STARTED / NEXT**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**.
 
 ## Controlling source
@@ -53,7 +53,7 @@ Documented source corrections include scan 13 `வீட்டான்` → `�
 
 ## P3 completion
 
-The complete numbered-section Tamil reading layer now exists under `articles/`.
+The complete numbered-section Tamil reading layer exists under `articles/`.
 
 - assemblies: **19 / 19 COMPLETE / source-complete**;
 - filenames: `01-section-01.md` through `19-section-19.md`;
@@ -66,10 +66,30 @@ The complete numbered-section Tamil reading layer now exists under `articles/`.
 
 See [`P3_ASSEMBLY_AUDIT.md`](P3_ASSEMBLY_AUDIT.md) for the section-by-section coverage gate.
 
+## P4 completion
+
+The source/completeness audit reconciled the source metadata, complete `pages/` inventory, numbered-section assemblies, section/page indexes, source-witness distinctions, physical-copy evidence and correction provenance.
+
+- physical scans / canonical records: **82 / 82**;
+- missing / duplicate scan records: **0 / 0**;
+- numbered-section assemblies: **19 / 19 source-complete**;
+- missing / extra assemblies: **0 / 0**;
+- mapping / boundary drift: **0**;
+- shared-transition duplication / omission defects: **0**;
+- title-witness and suppressed-folio regressions: **0**;
+- front-matter physical-copy separation defects: **0**;
+- scan 13 and scan 74 correction propagation: **PASS**;
+- new P4 text corrections: **0**;
+- unresolved P4 blockers: **0**.
+
+See [`P4_SOURCE_COMPLETENESS_REVIEW.md`](P4_SOURCE_COMPLETENESS_REVIEW.md).
+
+P4 does not replace P5. The next gate is the independent direct scan-by-scan strict visual fidelity pass.
+
 ## Physical-copy/source distinctions
 
 Scan 5 is later handwriting and has no printed publication text. Library stamps/handwriting on front matter remain separate from print. Suppressed/inferred folios are never represented as visible numerals.
 
 ## Exact next activity
 
-**P4 — source audit / completeness review.** Reconcile source metadata, all 82 canonical page records, all 19 assemblies, section/page mapping, source-witness distinctions, physical-copy evidence separation and correction provenance. Propagate any source-supported discrepancy before P4 can pass. P5 and English remain blocked until their respective gates are reached.
+**P5 — strict visual word/punctuation fidelity across all 82 physical source scans.** Re-inspect every scan directly against the canonical page record, record every old reading → source-visible correction, and propagate any correction into dependent assemblies/indexes/trackers. English remains blocked until P5 closes and the Tamil authority is frozen.
