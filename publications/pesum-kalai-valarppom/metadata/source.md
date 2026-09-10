@@ -101,7 +101,26 @@ Printed publication text and physical-copy marks must remain separate in every p
 - section/article assemblies created: **0**;
 - P2 source-witness correction: the title page is `பேசும்கலை வளர்ப்போம்`, while the front cover is `பேசும் கலை வளர்ப்போம்`; earlier tracker wording had flattened this spacing distinction and is corrected here.
 
-Page-boundary checks in the batch were directly confirmed: scan 7 `கவிஞரின்` → scan 8 `கவிதைச்`; scan 8 `பிரச்` → scan 9 `சினைகளைப்`; scan 9 `சிந்தித்` → scan 10 `துப் பார்த்து`; scan 10 `கொண்` → scan 11 `டிருப்பார்.`. Scan 11 was inspected only to secure the batch-boundary continuation and remains untranscribed.
+Page-boundary checks in the batch were directly confirmed: scan 7 `கவிஞரின்` → scan 8 `கவிதைச்`; scan 8 `பிரச்` → scan 9 `சினைகளைப்`; scan 9 `சிந்தித்` → scan 10 `துப் பார்த்து`; scan 10 `கொண்` → scan 11 `டிருப்பார்.`.
+
+## P2 batch 2 — scans 11–20
+
+**COMPLETE / PASS.**
+
+- ten additional canonical page records created and directly verified;
+- cumulative P2 state: **20 / 82 VERIFIED**;
+- contiguous verified range: scans **1–20**;
+- printed-page coverage: through **p.18**;
+- section **1→2** shared transition preserved on scan **12**;
+- section **2→3** shared transition preserved on scan **16**;
+- unresolved printed-text/source readings: **0**;
+- section/article assemblies created: **0**.
+
+Direct continuation checks in this batch include scan 13 `உயர்நிலைப்பள்ளியில்` → scan 14 `நடைபெற்ற`, scan 14 `வீட்டில்` → scan 15 `உள்ள`, scan 15 `ஒலிபெருக்கியின்` → scan 16 `முன்னால்`, scan 16 `சொற்களை` → scan 17 `அடிப்படையாகக்`, and the batch-end scan 20 `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்`. Scan 21 was inspected only to secure that boundary and is not yet counted as a canonical P2 record.
+
+Source-sensitive readings preserved during direct review include `தீமை தரக்கூடிய வார்த்தைகளை` on scan 12, `நாக் குழற` on scan 14, `தமிழகத்துக் கலைத் திறனை` on scan 16, and scan 19's source-visible quotation/spacing and printed `பே—2` gathering mark.
+
+A scan-13 page-record draft was corrected from `வீட்டான்` to the source-visible **`வீடுதான்`** after enlarged direct reinspection; the final canonical record is VERIFIED. No contextual normalization was applied.
 
 ## Gate status
 
@@ -111,8 +130,10 @@ Page-boundary checks in the batch were directly confirmed: scan 7 `கவிஞ�
 - printed pages mapped — **80/80 (pp.1–80)**;
 - numbered sections mapped — **19/19**;
 - P1 structural blockers — **0**;
-- P2 transcription — **IN PROGRESS / 10 of 82 VERIFIED**.
+- P2 transcription — **IN PROGRESS / 20 of 82 VERIFIED**;
+- P3/P4/P5 — **NOT STARTED**;
+- unresolved P2/source/structure blockers — **0**.
 
 ## Exact next activity
 
-**P2 batch 2 — create, transcribe and directly verify canonical page records for scans 11–20.** Follow the P1 pagination map, preserve source wording/punctuation and cross-page fragments exactly, separate physical-copy marks, and do not build article/section assemblies yet.
+**P2 batch 3 — create, transcribe and directly verify canonical page records for scans 21–30 / printed pp.19–28.** Preserve the section 3→4 mid-page transition on scan 22 and section 4→5 transition on scan 27, preserve source wording/punctuation and cross-page fragments exactly, and do not build article/section assemblies yet.
