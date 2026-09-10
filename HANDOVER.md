@@ -103,28 +103,45 @@ Do not normalise the 1981 publisher-note date to the 1996 edition year. Do not i
 
 Scans **1–10** were directly inspected, transcribed where printed text exists, and verified as canonical page records.
 
-- P2 page records: **10 / 82 VERIFIED**;
-- contiguous verified range: scans **1–10**;
+- P2 page records after batch 1: **10 / 82 VERIFIED**;
 - printed-page coverage: through **p.8**;
-- unresolved printed-text readings: **0**;
-- unresolved source/physical-copy distinctions: **0**;
-- assemblies created: **0**;
-- batch blockers: **0**.
+- unresolved printed-text/source-distinction blockers: **0**;
+- assemblies created: **0**.
 
-Direct cross-page checks:
+Direct cross-page checks: scan 7 `கவிஞரின்` → scan 8 `கவிதைச்`; scan 8 `பிரச்` → scan 9 `சினைகளைப்`; scan 9 `சிந்தித்` → scan 10 `துப் பார்த்து`; scan 10 `கொண்` → scan 11 `டிருப்பார்.`.
 
-- scan 7 `கவிஞரின்` → scan 8 `கவிதைச்`;
-- scan 8 `பிரச்` → scan 9 `சினைகளைப்`;
-- scan 9 `சிந்தித்` → scan 10 `துப் பார்த்து`;
-- scan 10 `கொண்` → scan 11 `டிருப்பார்.`.
+## P2 batch 2 — COMPLETE / PASS
 
-Scan 11 was inspected only to verify the scan-10 boundary and is **not yet counted** as a P2 canonical record.
+Scans **11–20 / printed pp.9–18** were directly inspected and now have canonical VERIFIED page records.
+
+- new records: **10**;
+- cumulative P2 page records: **20 / 82 VERIFIED**;
+- contiguous verified range: scans **1–20**;
+- printed-page coverage: through **p.18**;
+- scan 12 section **1→2** mid-page transition: **PRESERVED / VERIFIED**;
+- scan 16 section **2→3** mid-page transition: **PRESERVED / VERIFIED**;
+- unresolved printed-text/source/structure blockers: **0**;
+- assemblies created: **0**.
+
+Direct continuation checks include:
+
+- scan 13 `உயர்நிலைப்பள்ளியில்` → scan 14 `நடைபெற்ற`;
+- scan 14 `வீட்டில்` → scan 15 `உள்ள`;
+- scan 15 `ஒலிபெருக்கியின்` → scan 16 `முன்னால்`;
+- scan 16 `சொற்களை` → scan 17 `அடிப்படையாகக்`;
+- scan 20 `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்`.
+
+Scan 21 was inspected only to close the batch-2 boundary and is **not yet counted** as a P2 canonical record.
+
+Source-sensitive readings secured in batch 2 include scan 12 `தீமை தரக்கூடிய வார்த்தைகளை`, scan 14 unusual source-visible `நாக் குழற`, scan 16 `தமிழகத்துக் கலைத் திறனை`, and scan 19's source-visible quotation spacing plus printed `பே—2` gathering/signature mark. Preserve these without silent normalization.
+
+Correction provenance: an early scan-13 page-record draft `வீட்டான்` was corrected after enlarged direct source reinspection to source-visible **`வீடுதான்`**. Final record is VERIFIED; unresolved reading count remains 0.
 
 ## Tamil archival gate status
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
-- P2 page-level transcription — **IN PROGRESS / 10 of 82 VERIFIED**;
+- P2 page-level transcription — **IN PROGRESS / 20 of 82 VERIFIED**;
 - P3 assemblies — **NOT STARTED**;
 - P4 source/completeness audit — **NOT STARTED**;
 - P5 strict visual word/punctuation fidelity — **NOT STARTED**;
@@ -143,20 +160,23 @@ Permanent repository rule: exact source `உடன்பிறப்பே` → 
 
 ## Exact next activity
 
-**P2 batch 2 — scans 11–20 page-level transcription and direct verification.**
+**P2 batch 3 — scans 21–30 page-level transcription and direct verification.**
 
 In one coherent batch:
 
-1. inspect scans **11–20** directly;
+1. inspect scans **21–30** directly;
 2. create canonical page records for all ten scans;
-3. use the P1 printed-folio map exactly: scans 11–20 = printed pp.9–18;
-4. preserve the section **1→2** mid-page transition on scan 12 and **2→3** transition on scan 16;
+3. use the P1 printed-folio map exactly: scans 21–30 = printed pp.19–28;
+4. preserve the section **3→4** mid-page transition on scan 22 and **4→5** transition on scan 27;
 5. transcribe only source-visible printed material;
 6. preserve punctuation, wording, paragraphing and cross-page fragments exactly;
 7. keep any handwriting, stamps or physical-copy marks separate from print;
 8. mark each record `VERIFIED` only after direct visual comparison;
-9. do not create section/article assemblies yet;
-10. synchronize publication trackers, root handover and next prompt after the ten-page batch.
+9. check scan 30 against scan 31 where needed to close the batch boundary;
+10. do not create section/article assemblies yet;
+11. synchronize publication trackers, root handover and next prompt after the ten-page batch.
+
+If all ten records close with no blocker, P2 should advance to **30 / 82 VERIFIED**.
 
 ---
 
