@@ -2,9 +2,7 @@
 
 ## Source status
 
-The supplied **82-scan eighth-edition witness contains no printed contents page**. This file is therefore a repository structural index built only from the **source-visible numbered section openings `1`–`19`**. It does not invent descriptive section titles.
-
-P1 directly verified all 19 starts and ends.
+The supplied **82-scan eighth-edition witness contains no printed contents page**. This is a repository structural index built only from the source-visible numbered openings `1`–`19`; descriptive titles are not invented. P1 directly verified all **19/19 starts and 19/19 ends**.
 
 ## Canonical numbered-section map
 
@@ -32,33 +30,28 @@ P1 directly verified all 19 starts and ends.
 
 ## Boundary facts
 
-- section openings observed at scans: `7, 12, 16, 22, 27, 31, 34, 38, 42, 45, 48, 51, 55, 59, 64, 67, 70, 75, 79`;
-- shared mid-page transition scans: `12, 16, 22, 27, 31, 34, 38, 51, 55, 67, 70, 79` — **12**;
-- top-of-page section openings: `7, 42, 45, 48, 59, 64, 75`;
-- sections 8→9, 9→10, 10→11, 13→14, 14→15 and 17→18 change across page boundaries rather than sharing one scan.
+- section openings: `7,12,16,22,27,31,34,38,42,45,48,51,55,59,64,67,70,75,79`;
+- shared mid-page transitions: `12,16,22,27,31,34,38,51,55,67,70,79` — **12**;
+- top-of-page openings: `7,42,45,48,59,64,75`;
+- sections 8→9, 9→10, 10→11, 13→14, 14→15 and 17→18 change across page boundaries.
 
-## Editorial/source-witness rule
-
-The numerals `1`–`19` are source-visible section labels. **“Section 1”, “Section 2”, etc. are repository descriptors, not source titles.** Do not derive descriptive titles from subject matter, OCR, memory, user-supplied catalogue description, or later witnesses.
-
-If later evidence shows the units correspond to separately published `முத்தாரம்` articles, preserve that provenance separately; do not rewrite this supplied edition's source-visible numbering.
-
-## P1 gate
-
-**COMPLETE / PASS.** Starts **19/19**, ends **19/19**, unresolved structural blockers **0**.
+The section numerals are source evidence. Labels such as “Section 12” are repository descriptors only.
 
 ## P2 overlay
 
-- scans **1–50** now have canonical page records and are directly **VERIFIED**;
-- P2 cumulative state: **50 / 82 VERIFIED**;
-- contiguous verified range: scans **1–50**;
-- printed coverage: through **p.48**;
-- shared mid-page transitions preserved inside canonical records through scan 38: scan **12** `1→2`, **16** `2→3`, **22** `3→4`, **27** `4→5`, **31** `5→6`, **34** `6→7`, **38** `7→8`;
-- batch 5 directly closed section 8 on scan **41**, section 9 on scan **44**, and section 10 on scan **47**;
-- sections 9, 10 and 11 open at page top on scans **42,45,48**, whose folios are **suppressed / inferred** rather than visibly printed;
-- scan 49 `மதிப்புக்குரிய தோழர்` → scan 50 `களுக்குப் பதிலாக` was directly checked;
-- scan 50 closes its sentence; scan 51 begins a new paragraph `அடிசன் இப்படித் திணறிக் கொண்டிருந்தபோது,`;
-- assemblies created: **0**;
-- unresolved P2/source/structure blockers: **0**.
+Batches **1–6 / scans 1–60 — COMPLETE / PASS**.
 
-Exact next activity: **P2 scans 51–60 page-level transcription and direct verification.** Preserve the section **11→12** mid-page transition on scan 51 and **12→13** transition on scan 55. Section 13 closes at scan 58 page end; section 14 opens at scan 59 page top. Scan **59 / inferred p.57** has a suppressed/inferred folio. Check scan 60→61 where needed and do not build assemblies yet.
+- canonical page records / direct verification: **60 / 82**;
+- contiguous verified range: scans **1–60**;
+- printed coverage: through **p.58**;
+- scan **51** preserves section `11→12` mid-page;
+- scan **55** preserves section `12→13` mid-page;
+- scan **58** directly closes section 13 at page end;
+- scan **59** directly opens source-visible section `14` at page top; its p.57 folio is **suppressed / inferred**, not visibly printed;
+- scan 60 remains section 14;
+- scan 60 `அரசியல் கட்சி மேடையில்` → scan 61 `அதற்குப் பதில் அளிக்கும்போது` directly checked; scan 61 not yet counted;
+- assemblies / unresolved P2-source-structure blockers: **0 / 0**.
+
+## Exact next activity
+
+**P2 scans 61–70 / pp.59–68.** Scans 61–63 remain section 14 and close it at scan 63 page end. Scan **64 / inferred p.62** opens section 15 at page top; preserve its folio as suppressed/inferred. Preserve scan **67 `15→16`** and scan **70 `16→17`** mid-page transitions; check scan 70→71 where needed. Do not build assemblies yet.
