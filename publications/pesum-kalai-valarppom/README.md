@@ -10,100 +10,61 @@ Workspace: `publications/pesum-kalai-valarppom/`
 - P2 page-level transcription — **COMPLETE / PASS — 82 of 82 VERIFIED**;
 - P3 assemblies — **COMPLETE / PASS — 19 of 19**;
 - P4 source/completeness audit — **COMPLETE / PASS**;
-- P5 strict visual word/punctuation fidelity — **IN PROGRESS — scans 1–20 / 20 of 82 PASS**;
+- P5 strict visual word/punctuation fidelity — **IN PROGRESS — scans 1–30 / 30 of 82 PASS**;
+- P5 corrections / propagated — **7 / 7**;
+- unresolved fidelity discrepancies in reviewed range — **0**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**.
 
 ## Controlling source
 
-`TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf` — **82** image-only scans, **105,698,402 bytes**, SHA-256 **`73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`**. Source PDF is not committed. The supplied scan is controlling authority; OCR / parsed text is not authority.
+`TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf` — **82** image-only scans, **105,698,402 bytes**, SHA-256 **`73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`**. Source PDF is not committed. Source pixels are authority.
 
-## Source identity / witness distinction
+## Source identity / structure
 
 - scan 1 cover: **`பேசும் கலை வளர்ப்போம்`**;
 - scan 3 title page: **`பேசும்கலை வளர்ப்போம்`**;
 - supplied edition: **எட்டாம் பதிப்பு — செப்டம்பர் 1996**;
-- scan 6 `பதிப்புரை` source-visible date: **`15—7—81`**.
-
-Preserve the two title witnesses independently and never normalize the 1981 `பதிப்புரை` date to the edition date.
-
-## P1 canonical structure
-
-- scans **1–2** outside printed pagination;
-- scans **3–82 = pp.1–80**, `printed page = scan - 2`;
-- source-numbered sections **19/19 starts and ends verified**;
+- scan 6 `பதிப்புரை` date: **`15—7—81`**;
+- scans 1–2 outside pagination;
+- scans 3–82 = pp.1–80;
+- source-numbered sections: **19**;
 - shared mid-page transitions: `12,16,22,27,31,34,38,51,55,67,70,79`;
 - suppressed/inferred folios: `3,4,5,6,7,42,45,48,59,64,75`;
-- no printed contents page or separate back-cover scan;
-- structural blockers **0**.
+- no printed contents page or separate back-cover scan.
 
-## P2 completion
+## Completed Tamil gates
 
-All **82 / 82 physical scans are directly VERIFIED** and have canonical page records.
+P2: **82/82** canonical records VERIFIED, pp.1–80 complete, unresolved source/structure readings **0**, silent normalization **0**. Earlier corrections include scan 13 `வீட்டான்` → `வீடுதான்` and scan 74 `வாரியிலே` / `வாரிக்கு` → `வரியிலே` / `வரிக்கு`.
 
-- contiguous verified range: scans **1–82**;
-- printed coverage: **pp.1–80 COMPLETE**;
-- section 17 closes on scan **74**;
-- section 18 opens on scan **75 / inferred p.73** with suppressed/inferred folio;
-- scan **79** preserves section **18→19** mid-page;
-- scan **82 / p.80** closes section 19 and the source;
-- unresolved printed-text/source distinctions: **0**;
-- silent normalization: **0**.
+P3: **19/19** source-numbered assemblies under `articles/`, scans 7–82 / pp.5–80, gaps/overlaps **0**, unresolved assembly readings **0**. See `P3_ASSEMBLY_AUDIT.md`.
 
-Documented source corrections include scan 13 `வீட்டான்` → `வீடுதான்` and scan 74 draft `வாரியிலே` / `வாரிக்கு` → source-visible `வரியிலே` / `வரிக்கு` after enlarged direct reinspection.
-
-## P3 completion
-
-The complete numbered-section Tamil reading layer exists under `articles/`.
-
-- assemblies: **19 / 19 COMPLETE / source-complete**;
-- filenames: `01-section-01.md` through `19-section-19.md`;
-- main-work coverage: scans **7–82 / pp.5–80**;
-- numbered sections: **1–19 complete**;
-- unexplained boundary gaps / overlaps: **0 / 0**;
-- intentional shared transition scans: `12,16,22,27,31,34,38,51,55,67,70,79`;
-- unresolved assembly readings: **0**;
-- assembly normalization: **0**.
-
-See [`P3_ASSEMBLY_AUDIT.md`](P3_ASSEMBLY_AUDIT.md) for the section-by-section coverage gate.
-
-## P4 completion
-
-The source/completeness audit reconciled the source metadata, complete `pages/` inventory, numbered-section assemblies, section/page indexes, source-witness distinctions, physical-copy evidence and correction provenance.
-
-- physical scans / canonical records: **82 / 82**;
-- missing / duplicate scan records: **0 / 0**;
-- numbered-section assemblies: **19 / 19 source-complete**;
-- missing / extra assemblies: **0 / 0**;
-- mapping / boundary drift: **0**;
-- shared-transition duplication / omission defects: **0**;
-- title-witness and suppressed-folio regressions: **0**;
-- front-matter physical-copy separation defects: **0**;
-- scan 13 and scan 74 correction propagation: **PASS**;
-- new P4 text corrections: **0**;
-- unresolved P4 blockers: **0**.
-
-See [`P4_SOURCE_COMPLETENESS_REVIEW.md`](P4_SOURCE_COMPLETENESS_REVIEW.md).
+P4: source/completeness reconciliation **PASS**, with page records **82/82**, assemblies **19/19**, mapping/boundary drift **0**, unresolved P4 blockers **0**. See `P4_SOURCE_COMPLETENESS_REVIEW.md`.
 
 ## P5 strict visual fidelity — IN PROGRESS
 
-Strict direct reinspection is complete through **scan 20 / 20 of 82**. Both completed batches, `P5-001-010` and `P5-011-020`, are **PASS**.
+Direct strict review is complete through **scan 30 / p.28**.
 
-Current P5 totals: **5 source-supported corrections / 5 propagated / 0 unresolved fidelity discrepancies**.
+- batches `P5-001-010`, `P5-011-020`, `P5-021-030` — **PASS**;
+- corrections found: **7**;
+- corrections propagated: **7/7**;
+- unresolved discrepancies: **0**.
 
-- scan 4 / inferred p.2: `By : Kalaignar M. Karunanidhi` → **`By : Kalaingnar M. Karunanidhi`**;
-- scan 7 / inferred p.5: `‘வெண்ணிலாவும்` → **`“வெண்ணிலாவும்`**;
-- scan 19 / p.17: `அப்படியிருக்குமேயானால்` → **`அப்படி இருக்குமேயானால்`**;
-- scan 19 / p.17: `எப்படிப் பாலையும்` → **`எப்படி பாலையும்`**;
-- scan 19 / p.17: `வைத்தால்,எப்படிக் எறும்பானது` → **`வைத்தால்,எப்படி எறும்பானது`**.
+P5 corrections to date:
 
-The scan-19 corrections are propagated to `articles/03-section-03.md`. The later source-visible phrase `வைத்தால்,எப்படிக் காந்தமானது` remains unchanged. Source-visible shared transitions on scans **12 (1→2)** and **16 (2→3)** passed strict review. Scan 21 was inspected only to confirm scan 20 `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்`; scan 21 is not yet counted.
+1. scan 4 `Kalaignar` → source-visible **`Kalaingnar`**;
+2. scan 7 `‘வெண்ணிலாவும்` → **`“வெண்ணிலாவும்`**;
+3. scan 19 `அப்படியிருக்குமேயானால்` → **`அப்படி இருக்குமேயானால்`**;
+4. scan 19 `எப்படிப் பாலையும்` → **`எப்படி பாலையும்`**;
+5. scan 19 `வைத்தால்,எப்படிக் எறும்பானது` → **`வைத்தால்,எப்படி எறும்பானது`**;
+6. scan 24 `எழுதி படிக்கும்` → **`எழுதிப் படிக்கும்`**;
+7. scan 26 `“ஐயா!` → source-visible **`“அய்யா!`**.
 
-See [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md) for the running P5 ledger.
+See [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md) for the running ledger.
 
 ## Physical-copy/source distinctions
 
-Scan 5 is later handwriting and has no printed publication text. Library stamps/handwriting on front matter remain separate from print. Suppressed/inferred folios are never represented as visible numerals.
+Scan 5 is later handwriting and has no printed publication text. Library stamps/handwriting remain separate from print. Suppressed/inferred folios are never represented as visible numerals.
 
 ## Exact next activity
 
-**P5 scans 21–30 / printed pp.19–28.** Continue direct word-by-word / punctuation-by-punctuation source review, including scan-22 `3→4` and scan-27 `4→5` shared transitions. Record and immediately propagate every confirmed source-visible correction. English remains blocked until P5 closes and Tamil is frozen.
+**P5 scans 31–40 / printed pp.29–38.** Strict-review every word/punctuation mark and preserve transitions **31 (5→6)**, **34 (6→7)** and **38 (7→8)**. English remains blocked until P5 closes and Tamil is frozen.
