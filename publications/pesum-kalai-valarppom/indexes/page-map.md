@@ -2,9 +2,9 @@
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`  
 Physical scans: **82**  
-Current gate: **P1 COMPLETE / PASS**
+Current gate: **P2 IN PROGRESS — 10 / 82 VERIFIED**
 
-P1 directly inspected all **82 / 82** physical scans. This is the canonical structural map for later page-record transcription.
+P1 directly inspected all **82 / 82** physical scans and established the canonical structural map below. P2 batch 1 has now created and directly verified canonical page records for scans **1–10**; the structural mapping itself is unchanged.
 
 ## Pagination rule established at P1
 
@@ -24,7 +24,7 @@ P1 directly inspected all **82 / 82** physical scans. This is the canonical stru
 | 3 | 1 | suppressed / inferred by uninterrupted sequence | title page | — | Title/author/publisher; handwriting + large library stamp |
 | 4 | 2 | suppressed / inferred by uninterrupted sequence | edition / imprint | — | Edition history; partial library stamp |
 | 5 | 3 | suppressed / inferred by uninterrupted sequence | physical-copy annotation page | — | Full-page later handwriting; no printed publication text |
-| 6 | 4 | suppressed / inferred by uninterrupted sequence | publisher note / `பதிப்புரை` | — | Printed `பதிப்புரை`; date `15-7-81` |
+| 6 | 4 | suppressed / inferred by uninterrupted sequence | publisher note / `பதிப்புரை` | — | Printed `பதிப்புரை`; source-visible date `15—7—81` |
 | 7 | 5 | suppressed / inferred by uninterrupted sequence | main work | 1 | Section 1 opens |
 | 8 | 6 | visible | main work | 1 | — |
 | 9 | 7 | visible | main work | 1 | — |
@@ -140,9 +140,22 @@ Shared mid-page transition scans are **12, 16, 22, 27, 31, 34, 38, 51, 55, 67, 7
 - section starts verified: **19 / 19**;
 - section ends verified: **19 / 19**;
 - unresolved structural / pagination blockers: **0**;
-- P2 page records created: **0 / 82**;
 - source-body transcription during P1: **0**.
+
+## P2 overlay
+
+Batch 1, scans **1–10**, is **COMPLETE / PASS**.
+
+- canonical page records present: **10 / 82**;
+- directly verified: **10 / 82**;
+- contiguous verified range: scans **1–10**;
+- printed-page coverage reached: **p.8**;
+- unresolved P2 readings: **0**;
+- structural-map changes caused by P2: **0**;
+- section assemblies created: **0**.
+
+The first P2 batch also records the source-visible title-form distinction: scan 1 front cover `பேசும் கலை வளர்ப்போம்`; scan 3 title page `பேசும்கலை வளர்ப்போம்`.
 
 ## Exact next activity
 
-**P2 batch 1 — transcribe and directly verify scans 1–10 as canonical page records.** Preserve printed text exactly, keep handwriting/stamps/physical-copy marks separate, follow this P1 folio map, and do not build section assemblies yet.
+**P2 batch 2 — transcribe and directly verify scans 11–20 as canonical page records.** This batch covers printed pp.9–18 and crosses the section **1→2** boundary on scan 12 and **2→3** boundary on scan 16. Preserve both section memberships on those shared scans; do not build section assemblies yet.
