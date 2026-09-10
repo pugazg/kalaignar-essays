@@ -13,7 +13,8 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T0 source prerequisite — **19/19 PASS**;
 - English article body files — **1/19**;
 - T1 close draft — **1/19**;
-- T2 / T3 / T4 / T5 — **0/19** at each gate;
+- T2 bilingual fidelity — **1/19**;
+- T3 / T4 / T5 — **0/19** at each gate;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
@@ -27,7 +28,7 @@ The source supplies numeric sections only. No descriptive English section titles
 
 | # | Tamil authority | T0 | T1 | T2 | T3 | T4 | T5 | English status |
 |---:|---|---|---|---|---|---|---|---|
-| 1 | `articles/01-section-01.md` | **PASS** | **PASS** | — | — | — | — | **draft** |
+| 1 | `articles/01-section-01.md` | **PASS** | **PASS** | **PASS** | — | — | — | **fidelity-reviewed** |
 | 2 | `articles/02-section-02.md` | **PASS** | — | — | — | — | — | not-started |
 | 3 | `articles/03-section-03.md` | **PASS** | — | — | — | — | — | not-started |
 | 4 | `articles/04-section-04.md` | **PASS** | — | — | — | — | — | not-started |
@@ -47,13 +48,16 @@ The source supplies numeric sections only. No descriptive English section titles
 | 18 | `articles/18-section-18.md` | **PASS** | — | — | — | — | — | not-started |
 | 19 | `articles/19-section-19.md` | **PASS** | — | — | — | — | — | not-started |
 
-## Section 1 T1 authority
+## Section 1 authority
 
 - Tamil: `../../articles/01-section-01.md` — **`e5517b7cc344554d51af4092599059d481039c1e`**;
-- English T1 draft: [`01-section-01.md`](01-section-01.md) — **`d36aec208ea15b970795a7717dd770d2d27251d8`**;
+- T1 English draft blob — **`d36aec208ea15b970795a7717dd770d2d27251d8`**;
+- post-T2 English blob — **`d185b201c1113d99400d31579e773ae167cbb8a0`**;
 - source span: scans **7–12 / printed pp.5–10**;
+- T2 corrections — **6**;
+- source-page comments — **6/6 retained**;
 - English publication-title draft: **Let Us Develop the Art of Speaking** — provisional until T3;
-- T2–T5: **pending**.
+- T3–T5 — **pending**.
 
 ## File convention
 
@@ -65,4 +69,4 @@ Exact source `உடன்பிறப்பே` → **`Udanpirappē`**; as dire
 
 ## Exact next activity
 
-**E1 — Section 1 / T2 bilingual fidelity review.** Re-read frozen Tamil blob `e5517b7cc344554d51af4092599059d481039c1e` and English T1 blob `d36aec208ea15b970795a7717dd770d2d27251d8` side by side. Check every sentence/clause, name, number, quotation, negative, logical connector, repetition and all six source-page boundaries. Record every correction transparently. Do not start T3 until T2 passes.
+**E1 — Section 1 / T3 Kalaignar voice review.** Re-read frozen Tamil blob `e5517b7cc344554d51af4092599059d481039c1e` and post-T2 English blob `d185b201c1113d99400d31579e773ae167cbb8a0` side by side. Check directness, cadence, rhetorical questions, repeated structures, exclamations, imagery, polemical force and accidental smoothing. Reassess the provisional publication title and Section 1 lexical choices for voice. Record every T3 correction transparently. Do not start T4 until T3 passes.
