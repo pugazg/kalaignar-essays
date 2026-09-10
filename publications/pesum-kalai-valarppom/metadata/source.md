@@ -9,7 +9,7 @@
 - PDF type: **image-only scan**
 - source PDF committed to GitHub: **No**
 
-Source pixels outrank OCR, parsed text, memory, later editions and web copies.
+Source pixels outrank OCR, parsed text, memory, later editions and web copies for the Tamil archival layer.
 
 ## Source-visible identity
 
@@ -18,7 +18,7 @@ Source pixels outrank OCR, parsed text, memory, later editions and web copies.
 - title-page identity includes `மாண்புமிகு`, `டாக்டர் கலைஞர் மு.கருணாநிதி`, `தமிழக முதல்-அமைச்சர்`, `பாரதி பதிப்பகம்`;
 - supplied copy: **எட்டாம் பதிப்பு — செப்டம்பர் 1996**;
 - scan 6 / inferred p.4 `பதிப்புரை`: `பழ. சிதம்பரம்`, date **`15—7—81`**;
-- scan 4 English imprint source typo, confirmed in P5: **`By : Kalaingnar M. Karunanidhi`**.
+- scan 4 English imprint source typo: **`By : Kalaingnar M. Karunanidhi`**.
 
 ## Publication form / pagination
 
@@ -42,7 +42,7 @@ Source pixels outrank OCR, parsed text, memory, later editions and web copies.
 
 Printed text and physical-copy evidence remain separate.
 
-## Gate status
+## Tamil archival status
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
@@ -50,19 +50,24 @@ Printed text and physical-copy evidence remain separate.
 - P3 — **COMPLETE / PASS — 19/19 assemblies**;
 - P4 — **COMPLETE / PASS**;
 - P5 — **COMPLETE / PASS — 82/82**;
-- P5 corrections found / propagated — **33 / 33**;
+- P5 corrections found / propagated — **33/33**;
 - unresolved P5 fidelity discrepancies — **0**;
-- Tamil archival layer — **FROZEN**;
-- English — **NOT STARTED**.
+- Tamil archival layer — **FROZEN**.
 
-Final P5 scans 71–82 contributed **4** source-supported corrections: scan 77 `அப்படி ஒரு பயிற்சியை` → `அப்படியொரு பயிற்சியை`; scan 77 `பேசுவார்கள், கழுத்திலே,` → `பேசுவார்கள். கழுத்திலே,`; scan 78 `கி. ஆ. பெ. விசுவநாதம்` → `கி.ஆ.பெ. விசுவநாதம்`; scan 81 `அந்தக் குழுவினில் எனக்கும்` → `அந்தக்குழுவினில் எனக்கும்`. All are propagated to the affected canonical records and section assemblies.
+Running P5 provenance: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-Confirmed source-sensitive forms in the final range include scan 72 `ஷம்சுதீன்` / `நாலுகால்`, scan 73 the source-visible sentence `அடுத்து, நான் முதலில் குறிப்பிடப்பட்டவர் பேச எழுந்தார்.`, scan 74 `ஒரே வரியிலே` / `ஒரு வரிக்கு மேல்`, scan 75 `(Mannerism)` / `மேனரிசம்` / `தவிர்க்கவொண்ணாத`, scan 76 `சொல்மாரிபொழிவது`, scan 77 `அப்படியொரு`, scan 78 `கி.ஆ.பெ. விசுவநாதம்`, scan 79 `காயிதே மில்லத்` / `தேனினுமினிய` / `நாற்பத்தி ஆறு`, scan 81 `அந்தக்குழுவினில்`, and scan 82 `1962-ல்` / `“வாலிபப் பெரியார்”` / `எ.வி.பி. ஆசைத்தம்பி` / `என். வி. நடராசனார்`.
+## English source-prerequisite status
 
-P5 batch 7 scans 61–70 contributed **2** source-supported corrections: scan 65 `அவைகளை ஓட்டிக் கம்பங்களிலும்` → `அவைகளை ஒட்டி கம்பங்களிலும்`; scan 70 `நாவன்மையென்பதும்` → `நாவன்மையெனப்படும்`. Both are propagated to the affected canonical records and section assemblies.
+- E0 planning / workspace bootstrap — **COMPLETE / PASS**;
+- T0 frozen-source prerequisite — **19/19 PASS**;
+- E0/T0 frozen baseline commit — **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**;
+- exact Tamil article blob SHAs — **19/19 recorded** in `TRANSLATION_PLAN.md` and `translations/en/TRANSLATION_REVIEW.md`;
+- English body files — **0/19**;
+- T1–T5 — **NOT STARTED**;
+- unresolved English/source-prerequisite blockers — **0**.
 
-Running P5 record: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+English translation authority is the frozen strict-reviewed Tamil article assembly, not the PDF independently, except when a source-page or punctuation question must be rechecked. English work must not alter frozen Tamil.
 
 ## Exact next activity
 
-Tamil P0–P5 is closed and frozen. English is not started; the next project stage is **English E0 / T0 source-prerequisite setup** under `ESSAY_TRANSLATION_GUIDE.md`, using the strict-reviewed Tamil assemblies as translation authority.
+**E1 — Section 1 / T1 voice-calibration draft** against `articles/01-section-01.md` frozen blob **`e5517b7cc344554d51af4092599059d481039c1e`**. Reconfirm that blob before writing; then create the complete English draft and preserve source-page boundary comments. T2–T5 remain separate gates.
