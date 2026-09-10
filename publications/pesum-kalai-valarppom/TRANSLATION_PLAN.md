@@ -43,57 +43,49 @@ All 19 strict-reviewed Tamil assemblies were enumerated directly from the frozen
 | 18 | `articles/18-section-18.md` | 75–79 / 73–77 | `060e72d9ec61e491343c948c2db9371312b7e3a8` | **PASS** |
 | 19 | `articles/19-section-19.md` | 79–82 / 77–80 | `aa3eb2b5311f8ad1a705f606bd4ace3f2059ec6c` | **PASS** |
 
-These SHAs are the source authority to record in each English article's `source_tamil_blob_sha` metadata. Before writing or reviewing an English article, re-check that its live Tamil blob still equals the recorded frozen SHA. Any mismatch is a hard stop until reconciled.
-
-## English workspace
-
-Required controls:
-
-- `translations/en/README.md` — progress tracker;
-- `translations/en/LEXICON.md` — living terminology decisions;
-- `translations/en/TRANSLATION_REVIEW.md` — T0–T5 provenance and corrections;
-- body files `translations/en/01-section-01.md` through `19-section-19.md`.
-
-The source has only numbered sections. Do **not** invent descriptive English section titles.
-
-Section 1 uses the publication-title draft **Let Us Develop the Art of Speaking**. It remains **provisional until T3 voice review** and must not be treated as release-frozen yet.
+These SHAs remain the Tamil source authority for every English gate.
 
 ## Translation gates per section
 
-1. **T0 — source prerequisite:** frozen Tamil blob matches this matrix.
-2. **T1 — close draft:** translate every Tamil paragraph; preserve quotation structure, repetitions, rhetorical force and source-page comments.
-3. **T2 — bilingual fidelity:** check omissions, additions, logic, numbers, names, quotations and source-witness distinctions.
-4. **T3 — Kalaignar voice:** ensure directness, irony, polemical force, commands, questions and cadence were not softened.
-5. **T4 — terminology / quotation / citation:** update the living lexicon and audit names, source-bearing terms and quotations.
-6. **T5 — verification:** only after T1–T4 pass may the section be marked `verified`.
+1. **T0 — source prerequisite**
+2. **T1 — close draft**
+3. **T2 — bilingual fidelity review**
+4. **T3 — Kalaignar voice review**
+5. **T4 — terminology / quotation / citation audit**
+6. **T5 — article verification**
 
 ## Binding translation rules
 
 - exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**;
 - translate source text, not remembered or modernized wording;
 - preserve numbered section identity `1`–`19`;
-- preserve source-page boundary comments for bilingual traceability;
-- do not soften polemics or replace source-chosen labels with modern explanatory names in body text;
+- preserve source-page boundary comments;
+- do not soften polemics or replace source-chosen labels with modern explanatory names;
 - do not import published English translations unless separately authorized.
 
 ## Voice-calibration rule
 
-Section 1 is the first calibration unit. Its T1 draft and T2 bilingual fidelity review are complete. It must still pass T3/T4/T5 before translation accelerates across later sections. Decisions established there may seed the publication lexicon, but they must not be forced mechanically where later context differs.
+Section 1 is the first calibration unit. T1, T2 and T3 are now complete; T4 and T5 must still close before translation accelerates across later sections.
+
+The publication-title rendering **Let Us Develop the Art of Speaking** passed T3 voice review. It remains subject to the independent T4 terminology audit before release verification.
 
 ## Current English state
 
 - E0 workspace/planning — **COMPLETE / PASS**;
-- T0 frozen-source prerequisites — **19/19 PASS**;
+- T0 — **19/19 PASS**;
 - English body files — **1/19**;
 - T1 — **1/19**;
 - T2 — **1/19**;
-- T3 / T4 / T5 — **0/19** at each gate;
-- Section 1 T1 English blob — **`d36aec208ea15b970795a7717dd770d2d27251d8`**;
-- Section 1 post-T2 English blob — **`d185b201c1113d99400d31579e773ae167cbb8a0`**;
-- Section 1 T2 corrections — **6**;
+- T3 — **1/19**;
+- T4 / T5 — **0/19**;
+- Section 1 historical T1 blob — `d36aec208ea15b970795a7717dd770d2d27251d8`;
+- Section 1 post-T2 blob — `d185b201c1113d99400d31579e773ae167cbb8a0`;
+- Section 1 post-T3 blob — **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**;
+- T2 corrections — **6**;
+- T3 corrections — **4**;
 - unresolved English blockers — **0**;
 - frozen Tamil changes during English work — **0**.
 
 ## Exact next activity
 
-**E1 — Section 1 / T3 Kalaignar voice review.** Compare frozen Tamil `articles/01-section-01.md` blob `e5517b7cc344554d51af4092599059d481039c1e` against post-T2 English blob `d185b201c1113d99400d31579e773ae167cbb8a0`. Check directness, cadence, rhetorical questions, repeated structures, exclamations, imagery, polemical force, accidental smoothing and academic distancing. Reassess the provisional publication title and Section 1 lexical choices for voice. Record every correction transparently; do not start T4 until T3 passes.
+**E1 — Section 1 / T4 terminology / quotation / citation audit.** Compare frozen Tamil `articles/01-section-01.md` blob `e5517b7cc344554d51af4092599059d481039c1e` against voice-reviewed English blob `bede85599ff634ef8ce7d6bd85aa6b9a9e035289`. Audit all 11 Section 1 lexicon decisions, proper names, musical terms, Bharathidasan and Valluvar quotations, the `Power of Speech` chapter label, `1970`, Hyde Park / `(HydePark)`, V. K. Krishna Menon, U.N. Assembly, and all six page-boundary comments. Record every correction transparently; do not start T5 until T4 passes.
