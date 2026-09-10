@@ -15,22 +15,14 @@
 | English T1 close draft | **IN PROGRESS — 1/19** | Section 1 T1 historical blob `d36aec208ea15b970795a7717dd770d2d27251d8` |
 | English T2 bilingual fidelity | **IN PROGRESS — 1/19** | Section 1 PASS after 6 corrections; post-T2 `d185b201c1113d99400d31579e773ae167cbb8a0` |
 | English T3 Kalaignar voice | **IN PROGRESS — 1/19** | Section 1 PASS after 4 corrections; post-T3 `bede85599ff634ef8ce7d6bd85aa6b9a9e035289` |
-| English T4–T5 | **NOT STARTED — 0/19** | next: Section 1 T4 terminology / quotation / citation audit |
+| English T4 terminology / quotation / citation | **IN PROGRESS — 1/19** | Section 1 PASS; 0 body corrections; post-T4 blob unchanged `bede85599ff634ef8ce7d6bd85aa6b9a9e035289` |
+| English T5 | **NOT STARTED — 0/19** | next: Section 1 T5 article verification |
 
 ## Source / structure authority
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`, SHA-256 `73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`, 105,698,402 bytes, **82 image-only scans**; source PDF is not committed.
 
-- scan 1 cover: `பேசும் கலை வளர்ப்போம்`;
-- scan 3 title page: `பேசும்கலை வளர்ப்போம்`;
-- scans 3–82 = printed pp.1–80;
-- source-numbered sections: **19**;
-- shared mid-page transitions: `12,16,22,27,31,34,38,51,55,67,70,79`;
-- structural blockers: **0**.
-
-## Tamil P0–P5 — COMPLETE / FROZEN
-
-All **82** physical scans and all **19** source-numbered assemblies are complete. P5 closed with **33/33** source-supported corrections propagated and **0 unresolved**. Tamil `pages/` and `articles/` remain frozen.
+Tamil P0–P5 is **COMPLETE / FROZEN**: all **82** physical scans and **19** source-numbered assemblies are complete, P5 corrections are **33/33 propagated**, and unresolved Tamil issues are **0**. Tamil `pages/` and `articles/` remain frozen.
 
 ## English E1 — Section 1
 
@@ -40,24 +32,30 @@ T1 — **PASS**; historical English blob `d36aec208ea15b970795a7717dd770d2d27251
 
 T2 — **PASS after 6 corrections**; post-T2 blob `d185b201c1113d99400d31579e773ae167cbb8a0`; omissions **0**; added claims **0**; names/numbers/quotations/logical connectors **PASS**; source-page comments **6/6**.
 
-T3 — **PASS after 4 voice corrections**; post-T3 blob **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**; `translation_status` **voice-reviewed**.
+T3 — **PASS after 4 voice corrections**; post-T3 blob **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**; directness, cadence, rhetorical questions/exclamations, repetition/parallelism, imagery, assertive force, Hyde Park storytelling and closing humour **PASS**.
 
-T3 final checks:
+T4 — **PASS with 0 English body corrections**; post-T4 blob remains **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**; `translation_status` remains **voice-reviewed** pending T5.
 
-- directness / conversational address — **PASS**;
-- short emphatic sentences — **PASS**;
-- rhetorical questions / exclamations — **PASS**;
-- deliberate repetition / parallel structures — **PASS**;
-- lamp/light, drinking-in, and word-mastery imagery — **PASS**;
-- polemical/assertive force — **PASS**;
-- academic distancing — **0 unresolved**;
-- Hyde Park spoken-storytelling flow — **PASS**;
-- closing humour — **PASS**;
+T4 final checks:
+
+- pre-existing Section 1 lexicon decisions — **11/11 PASS**;
+- publication title **Let Us Develop the Art of Speaking** — **T4 approved**;
+- numeric section identity `1` — **PASS**;
+- musical instrument and music-theory forms — **PASS**;
+- Bharathidasan quotation/attribution — **PASS / source-based**;
+- Valluvar quotation/explanation/`Power of Speech` label — **PASS / source-based**;
+- published English quotation wording imported — **No**;
+- `1970` — **PASS**;
+- Hyde Park / source `(HydePark)` — **PASS**;
+- `V. K. Krishna Menon` — **PASS**;
+- `U.N. Assembly` — **PASS; no unsupported `General Assembly` expansion**;
 - source-page comments — **6/6**;
-- frozen Tamil edits — **0**;
-- unresolved T3 issues — **0**.
+- source `உடன்பிறப்பே` occurrences in Section 1 — **0**;
+- T4-approved Section 1 lexicon/proper-name/source-label decisions — **16**;
+- unresolved T4 issues — **0**;
+- frozen Tamil edits — **0**.
 
-T3 corrections are fully recorded in `translations/en/TRANSLATION_REVIEW.md`. The publication-title rendering **Let Us Develop the Art of Speaking** passed T3 voice review and remains subject to T4 terminology audit.
+Correction provenance for T2 and T3 and the zero-correction T4 record are in `translations/en/TRANSLATION_REVIEW.md`.
 
 ## English gate totals
 
@@ -67,11 +65,11 @@ T3 corrections are fully recorded in `translations/en/TRANSLATION_REVIEW.md`. Th
 | T1 | **1/19** |
 | T2 | **1/19** |
 | T3 | **1/19** |
-| T4 | **0/19** |
+| T4 | **1/19** |
 | T5 | **0/19** |
 
 Permanent rule: exact source `உடன்பிறப்பே` → `Udanpirappē`; direct salutation `Udanpirappē,` only where the exact source form occurs.
 
 ## Exact next activity
 
-**E1 — Section 1 / T4 terminology / quotation / citation audit.** Recheck frozen Tamil blob **`e5517b7cc344554d51af4092599059d481039c1e`** against voice-reviewed English blob **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**. Audit all Section 1 lexicon decisions, proper names, musical terms, Bharathidasan and Valluvar quotations, `Power of Speech`, `1970`, Hyde Park / `(HydePark)`, V. K. Krishna Menon, U.N. Assembly, and all six source-page comments. Record every T4 correction; do not start T5 until T4 passes.
+**E1 — Section 1 / T5 article verification.** Reconfirm frozen Tamil blob **`e5517b7cc344554d51af4092599059d481039c1e`** and current English blob **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**. Reconcile T0–T4 provenance, metadata/status, source span, all six page-boundary comments, T4-approved lexicon state and unresolved counts. If no regression is found, set Section 1 `translation_status: "verified"`, record the final verified blob SHA and mark T5 PASS. Do not start Section 2 in the same activity.
