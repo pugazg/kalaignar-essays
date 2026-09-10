@@ -34,7 +34,7 @@ Before any further English work, fetch/read fresh:
 8. `translations/en/README.md`;
 9. `translations/en/LEXICON.md`;
 10. `translations/en/TRANSLATION_REVIEW.md`;
-11. the exact frozen Tamil article being translated.
+11. the exact frozen Tamil article and English article being reviewed.
 
 ## Controlling source / identity
 
@@ -75,30 +75,22 @@ Structural authority:
 
 P5 correction provenance remains in `publications/pesum-kalai-valarppom/VISUAL_TEXT_FIDELITY_REVIEW.md`. Do not rewrite frozen Tamil merely for stylistic preference.
 
-## English E0 / T0 — COMPLETE / PASS
+## English durable state
 
-English planning and source bootstrap are now durable:
+E0/T0 remains complete and Section 1 T1 is now complete:
 
-- `publications/pesum-kalai-valarppom/TRANSLATION_PLAN.md` — created;
-- `translations/en/README.md` — created;
-- `translations/en/LEXICON.md` — created;
-- `translations/en/TRANSLATION_REVIEW.md` — created;
+- E0 workspace/planning — **COMPLETE / PASS**;
 - frozen-source T0 matrix — **19/19 PASS**;
 - exact Tamil assembly blob SHAs — **19/19 recorded**;
-- English body files — **0/19**;
-- T1 / T2 / T3 / T4 / T5 — **0/19** at each gate;
-- unresolved English/source-prerequisite blockers — **0**;
-- frozen Tamil edits during E0/T0 — **0**.
+- English body files — **1/19**;
+- T1 close draft — **1/19**;
+- T2 / T3 / T4 / T5 — **0/19** at each gate;
+- unresolved English blockers — **0**;
+- frozen Tamil edits during English work — **0**.
 
 E0/T0 source baseline commit: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**. The exact 19-assembly SHA matrix is in `TRANSLATION_PLAN.md` and `translations/en/TRANSLATION_REVIEW.md`.
 
-Before each T1 draft, re-fetch the Tamil assembly and require an exact match to its recorded frozen blob SHA. A mismatch is a hard source-drift stop.
-
-Permanent translation rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**, only where the exact Tamil form occurs.
-
-The source supplies numbered sections only. Do **not** invent descriptive English section titles.
-
-## Exact next activity — E1 / Section 1 T1 voice-calibration draft
+### Section 1 — E1 / T1 COMPLETE
 
 Tamil authority:
 
@@ -107,16 +99,50 @@ Tamil authority:
 - frozen blob SHA **`e5517b7cc344554d51af4092599059d481039c1e`**;
 - T0 — **PASS**.
 
-Next:
+English draft:
 
-1. re-fetch Section 1 and confirm the exact blob SHA above;
-2. create `translations/en/01-section-01.md` as a complete paragraph-by-paragraph T1 draft;
-3. record the frozen Tamil SHA in front matter;
-4. preserve every source-page boundary comment, quotation, repetition, rhetorical question, command, exclamation and argumentative turn;
-5. update `LEXICON.md` only with source-derived decisions actually encountered;
-6. mark Section 1 **draft / T1 complete**, leaving T2–T5 pending;
-7. do not modify frozen Tamil;
-8. after T1, proceed to an independent **T2 bilingual fidelity review** before T3/T4/T5.
+- `publications/pesum-kalai-valarppom/translations/en/01-section-01.md`;
+- T1 blob SHA **`d36aec208ea15b970795a7717dd770d2d27251d8`**;
+- `translation_status` — **draft**;
+- source-page comments — **6/6 retained, scans 7–12**;
+- T2 / T3 / T4 / T5 — **pending**.
+
+T1 established **11 source-derived provisional lexicon decisions**. Important draft decisions include:
+
+- publication-title draft `பேசும் கலை வளர்ப்போம்` → **Let Us Develop the Art of Speaking** — provisional until T3;
+- `பேச்சுக்கலை` → **the art of speaking** as the default serial rendering;
+- `வீணை / யாழ் / நாதசுரம்` → `veena / yaazh / nadaswaram`;
+- `இராக / தாள / பாவம்` → `raga / tala / bhava`;
+- `கன்னல் தமிழ்` → `sugarcane-sweet Tamil` in the quoted line;
+- `சொற்களை ஆள்வது` → `to command words`;
+- Valluvar quotation translated afresh from the frozen Tamil source; no published English translation imported.
+
+Permanent translation rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**, only where the exact Tamil form occurs.
+
+The source supplies numbered sections only. Do **not** invent descriptive English section titles.
+
+T1 completion is **not** article verification. Do not mark Section 1 `fidelity-reviewed`, `voice-reviewed` or `verified` until the corresponding independent gates pass.
+
+## Exact next activity — E1 / Section 1 T2 bilingual fidelity review
+
+Re-fetch and compare:
+
+- frozen Tamil `articles/01-section-01.md` blob **`e5517b7cc344554d51af4092599059d481039c1e`**;
+- English T1 `translations/en/01-section-01.md` blob **`d36aec208ea15b970795a7717dd770d2d27251d8`**.
+
+Perform a fresh sentence-by-sentence and clause-by-clause bilingual review for:
+
+1. omitted or added sentences/clauses;
+2. names and referents;
+3. `1970`, numbers and source labels;
+4. both quoted passages and attribution;
+5. negatives, comparisons and logical connectors;
+6. deliberate repetitions, questions, exclamations and argumentative turns;
+7. Hyde Park / `(HydePark)`, V. K. Krishna Menon and U.N. Assembly wording;
+8. all six source-page boundary comments;
+9. any T1 lexicon choice that materially changes meaning.
+
+Record every T2 correction transparently in `TRANSLATION_REVIEW.md`, update the draft and tracker as needed, and only after the review passes mark Section 1 `fidelity-reviewed`. **Do not start T3 in the same activity unless separately proceeding after T2 closure.** Do not modify frozen Tamil.
 
 ---
 
