@@ -20,6 +20,8 @@ Two distinct title-spacing witnesses must remain separate:
 
 Title-page identity includes `மாண்புமிகு`, `டாக்டர் கலைஞர் மு.கருணாநிதி`, `தமிழக முதல்-அமைச்சர்`, `பாரதி பதிப்பகம்`. The supplied copy is **எட்டாம் பதிப்பு — செப்டம்பர் 1996**. Scan 6 / inferred p.4 is `பதிப்புரை`, signed `பழ. சிதம்பரம்`, with source-visible date `15—7—81`; that date is not normalized to 1996.
 
+The scan-4 English imprint preserves the source-visible spelling **`By : Kalaingnar M. Karunanidhi`** after P5 direct reinspection; it must not be silently normalized to `Kalaignar`.
+
 ## Publication form / pagination
 
 The work contains **19 source-numbered sections** and no printed contents page.
@@ -98,7 +100,20 @@ The live source metadata and source-derived layers were reconciled without findi
 
 Dedicated review: `P4_SOURCE_COMPLETENESS_REVIEW.md`.
 
-P4 is a source/completeness reconciliation gate. It does not replace the mandatory P5 direct word-by-word / punctuation-by-punctuation source reinspection.
+## P5 strict visual fidelity
+
+P5 is **IN PROGRESS — scans 1–10 / 10 of 82 PASS**.
+
+- reviewed range: outside pagination + pp.1–8;
+- P5 corrections found through scan 10: **2**;
+- corrections propagated: **2 / 2**;
+- unresolved fidelity discrepancies in reviewed range: **0**;
+- scan 4 English imprint old reading `Kalaignar` → source-visible **`Kalaingnar`**;
+- scan 7 opening quotation old `‘வெண்ணிலாவும்` → source-visible **`“வெண்ணிலாவும்`**, propagated to section-1 assembly;
+- reviewed suppressed/inferred folios `3,4,5,6,7`: **PASS**;
+- scan 5 handwriting-only distinction: **PASS**.
+
+Running ledger: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 ## Gate status
 
@@ -108,10 +123,10 @@ P4 is a source/completeness reconciliation gate. It does not replace the mandato
 - P2 — **COMPLETE / PASS — 82/82 VERIFIED**;
 - P3 — **COMPLETE / PASS — 19/19 assemblies**;
 - P4 — **COMPLETE / PASS**;
-- P5 — **NOT STARTED / NEXT**;
+- P5 — **IN PROGRESS — 10/82**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**;
-- unresolved source/structure/assembly/completeness blockers — **0**.
+- unresolved fidelity discrepancies in reviewed P5 range — **0**.
 
 ## Exact next activity
 
-**P5 — strict visual word/punctuation fidelity across all 82 physical source scans.** Re-inspect every source scan directly against its canonical page record and record/propagate any source-visible correction before Tamil can be frozen.
+**P5 scans 11–20 / printed pp.9–18.** Re-inspect each source scan directly against its canonical page record, including scan 12 section `1→2` and scan 16 section `2→3` transitions, and record/propagate every source-visible correction before moving forward.
