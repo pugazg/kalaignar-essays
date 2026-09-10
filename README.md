@@ -14,7 +14,7 @@ Publications **1–10 are RELEASE COMPLETE / FROZEN**.
 
 Workspace: `publications/pesum-kalai-valarppom/`
 
-**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 is next.**
+**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 IN PROGRESS — 10/82 VERIFIED.**
 
 Controlling source:
 
@@ -25,14 +25,17 @@ Controlling source:
 - image-only;
 - source PDF committed — **No**.
 
-Source identity:
+Source identity / witness distinction:
 
-- title — **`பேசும் கலை வளர்ப்போம்`**;
+- scan 1 front cover — **`பேசும் கலை வளர்ப்போம்`**;
+- scan 3 title page — **`பேசும்கலை வளர்ப்போம்`**;
 - author/status — **`மாண்புமிகு டாக்டர் கலைஞர் மு.கருணாநிதி / தமிழக முதல்-அமைச்சர்`**;
 - publisher — **பாரதி பதிப்பகம்**;
 - supplied edition — **எட்டாம் பதிப்பு, செப்டம்பர் 1996**;
 - source-numbered sections — **19**;
 - printed contents page — **none**.
+
+The two source-visible title forms are preserved independently; they are not silently normalized.
 
 P1 result:
 
@@ -41,10 +44,18 @@ P1 result:
 - scans 3–82 = printed pp.**1–80**;
 - section starts/ends — **19/19 / 19/19**;
 - shared mid-page section transitions — **12**;
-- structural blockers — **0**;
-- P2 transcription — **0/82**.
+- structural blockers — **0**.
 
-Exact next activity: **P2 scans 1–10 — create, transcribe and directly verify the first ten canonical page records; preserve physical-copy marks separately; do not build assemblies yet.**
+P2 batch 1 result:
+
+- scans **1–10** — **COMPLETE / PASS**;
+- canonical page records — **10/82 VERIFIED**;
+- contiguous verified range — scans **1–10**;
+- printed coverage — through **p.8**;
+- unresolved printed-text/source-distinction blockers — **0**;
+- assemblies — **0**.
+
+Exact next activity: **P2 scans 11–20 — create, transcribe and directly verify ten canonical page records for printed pp.9–18; preserve the section 1→2 transition on scan 12 and section 2→3 transition on scan 16; do not build assemblies yet.**
 
 ### Publication 10 — மீசை முளைத்த வயதில் — FROZEN
 
