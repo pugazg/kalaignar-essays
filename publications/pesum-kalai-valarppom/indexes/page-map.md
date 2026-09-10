@@ -2,7 +2,7 @@
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`  
 Physical scans: **82**  
-Current gate: **P5 IN PROGRESS — scans 1–30 / 30 of 82 PASS**
+Current gate: **P5 IN PROGRESS — scans 1–40 / 40 of 82 PASS**
 
 ## Canonical pagination rule
 
@@ -63,17 +63,17 @@ Top-of-page section openings: **7,42,45,48,59,64,75**.
 
 ## P5 overlay — IN PROGRESS
 
-- strict-reviewed scans: **1–30 / 30 of 82**;
-- reviewed printed span: outside pagination + pp.**1–28**;
-- corrections found / propagated: **7 / 7**;
+- strict-reviewed scans: **1–40 / 40 of 82**;
+- reviewed printed span: outside pagination + pp.**1–38**;
+- corrections found / propagated: **16 / 16**;
 - unresolved fidelity discrepancies in reviewed range: **0**;
 - suppressed/inferred folios rechecked so far: **3,4,5,6,7 — PASS**;
-- source-visible shared transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5) — PASS**;
+- source-visible shared transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8) — PASS**;
 - structural section map changed by P5: **No**;
-- scan 31 used only as scan-30 boundary evidence, not counted.
+- scan 41 used only as scan-40 boundary evidence, not counted.
 
 Running record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Exact next activity
 
-**P5 scans 31–40 / pp.29–38.** Continue direct strict visual review, preserving transitions **31 (5→6)**, **34 (6→7)** and **38 (7→8)** and propagating every source-supported correction before moving to the next batch.
+**P5 scans 41–50 / pp.39–48.** Continue direct strict visual review. Preserve page-end/top changes **41→42 (8→9)**, **44→45 (9→10)** and **47→48 (10→11)**, and keep scans **42,45,48** as suppressed/inferred folios. Inspect scan 51 only as boundary evidence if needed and propagate every source-supported correction before moving to the next batch.
