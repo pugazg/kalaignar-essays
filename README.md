@@ -14,7 +14,7 @@ Publications **1–10 are RELEASE COMPLETE / FROZEN**.
 
 Workspace: `publications/pesum-kalai-valarppom/`
 
-**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 IN PROGRESS — 20/82 VERIFIED.**
+**P0 COMPLETE / PASS. P1 COMPLETE / PASS. P2 IN PROGRESS — 30/82 VERIFIED.**
 
 Controlling source:
 
@@ -46,17 +46,20 @@ P1 result:
 - shared mid-page section transitions — **12**;
 - structural blockers — **0**.
 
-P2 result through batch 2:
+P2 result through batch 3:
 
-- scans **1–20** — **COMPLETE / VERIFIED**;
-- canonical page records — **20/82 VERIFIED**;
-- contiguous verified range — scans **1–20**;
-- printed coverage — through **p.18**;
-- section transitions preserved — scan **12** `1→2`, scan **16** `2→3`;
+- scans **1–30** — **COMPLETE / VERIFIED**;
+- canonical page records — **30/82 VERIFIED**;
+- contiguous verified range — scans **1–30**;
+- printed coverage — through **p.28**;
+- section transitions preserved — scan **12** `1→2`, scan **16** `2→3`, scan **22** `3→4`, scan **27** `4→5`;
+- scan 30 boundary `அந்தப்` → scan 31 `பாணியில்` directly checked; scan 31 is not yet counted;
 - unresolved printed-text/source-distinction blockers — **0**;
 - assemblies — **0**.
 
-Exact next activity: **P2 scans 21–30 — create, transcribe and directly verify ten canonical page records for printed pp.19–28; preserve the section 3→4 transition on scan 22 and section 4→5 transition on scan 27; do not build assemblies yet.**
+Batch-3 source-sensitive forms include scan 22 `மலிவு`, scan 26 `அண்ணாத்துரை கச்சேரி தானே?`, scan 28 `அந்த......ப்`, and scan 30 `உணர்ச்சியையும்,எழுச்சியையும்`; all are preserved source-first without normalization.
+
+Exact next activity: **P2 scans 31–40 — create, transcribe and directly verify ten canonical page records for printed pp.29–38; preserve the section 5→6 transition on scan 31, section 6→7 transition on scan 34, and section 7→8 transition on scan 38; check scan 40→41 where needed; do not build assemblies yet.**
 
 ### Publication 10 — மீசை முளைத்த வயதில் — FROZEN
 
