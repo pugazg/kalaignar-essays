@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / English E1 Section 1 T4
+# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / English E1 Section 1 T5
 
 Continue in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -29,7 +29,8 @@ Do **not** modify frozen Tamil `pages/` or `articles/` unless genuinely new sour
 - T1 — **1/19**;
 - T2 — **1/19**;
 - T3 — **1/19**;
-- T4 / T5 — **0/19**;
+- T4 — **1/19**;
+- T5 — **0/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits — **0**.
 
@@ -46,14 +47,18 @@ English:
 - `publications/pesum-kalai-valarppom/translations/en/01-section-01.md`
 - historical T1 blob `d36aec208ea15b970795a7717dd770d2d27251d8`
 - post-T2 blob `d185b201c1113d99400d31579e773ae167cbb8a0`
-- post-T3 blob **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**
-- status **voice-reviewed / T1 + T2 + T3 COMPLETE**
+- post-T3 / post-T4 blob **`bede85599ff634ef8ce7d6bd85aa6b9a9e035289`**
+- status **voice-reviewed**
 - T2 corrections **6**
 - T3 corrections **4**
+- T4 body corrections **0**
 - source-page comments **6/6 retained**
-- T4/T5 **pending**.
+- T4-approved lexicon/proper-name/source-label decisions **16**
+- T5 **pending**.
 
-T3 voice checks passed for directness, cadence, questions/exclamations, repetition/parallelism, imagery, assertive force, Hyde Park storytelling and closing humour. The title **Let Us Develop the Art of Speaking** is **T3 voice-approved / T4 pending**.
+T4 independently audited all prior Section 1 lexicon decisions, proper names, source labels, both quotations, the Valluvar explanation/chapter label, `1970`, Hyde Park / `(HydePark)`, V. K. Krishna Menon, U.N. Assembly and all six page-boundary comments. It closed **PASS with 0 body corrections / 0 unresolved issues**. No published English quotation translation was imported. `U.N. Assembly` was retained without adding unsupported `General Assembly`.
+
+Publication title **Let Us Develop the Art of Speaking** is **T4 approved**.
 
 ## Mandatory startup
 
@@ -70,9 +75,9 @@ Read completely/fresh:
 9. `translations/en/LEXICON.md`
 10. `translations/en/TRANSLATION_REVIEW.md`
 11. frozen Tamil `articles/01-section-01.md`
-12. voice-reviewed English `translations/en/01-section-01.md`
+12. current English `translations/en/01-section-01.md`
 
-Before T4, require the Tamil blob to remain exactly `e5517b7cc344554d51af4092599059d481039c1e`. Expected English input is `bede85599ff634ef8ce7d6bd85aa6b9a9e035289`; preserve any legitimate newer live state rather than rolling back.
+Before T5, require the Tamil blob to remain exactly `e5517b7cc344554d51af4092599059d481039c1e`. Expected English input is `bede85599ff634ef8ce7d6bd85aa6b9a9e035289`; preserve any legitimate newer live state rather than rolling back.
 
 ## Permanent translation rules
 
@@ -83,32 +88,33 @@ Before T4, require the Tamil blob to remain exactly `e5517b7cc344554d51af4092599
 - Exact source `உடன்பிறப்பே` → `Udanpirappē`; direct salutation `Udanpirappē,` only where the exact source form occurs.
 - Do not import published English translations unless explicitly authorized.
 
-## Exact next activity — E1 / Section 1 T4
+## Exact next activity — E1 / Section 1 T5
 
-Perform an **independent terminology / quotation / citation audit** of Section 1.
+Perform the final **article verification** gate for Section 1.
 
-Audit specifically:
+Reconcile and verify:
 
-1. all **11** Section 1 living-lexicon decisions;
-2. publication title **Let Us Develop the Art of Speaking** and numeric section `1`;
-3. `art for art’s sake`, `the art of speaking`;
-4. `veena / yaazh / nadaswaram`;
-5. `raga / tala / bhava`;
-6. `sugarcane-sweet Tamil` in the Bharathidasan quotation and attribution;
-7. Valluvar quotation, Kalaignar's explanation, and `Power of Speech`;
-8. `Amma, Appa`, `to command words`, `public-speaking arena`, `Effort brings accomplishment`;
-9. `1970`, Hyde Park / `(HydePark)`, V. K. Krishna Menon, U.N. Assembly;
-10. all six source-page boundary comments;
-11. any source-bearing punctuation/transliteration that must stay visible.
+1. frozen Tamil blob `e5517b7cc344554d51af4092599059d481039c1e`;
+2. current English blob `bede85599ff634ef8ce7d6bd85aa6b9a9e035289`;
+3. T0 frozen-source prerequisite **PASS**;
+4. T1 close draft **PASS**;
+5. T2 bilingual fidelity **PASS after 6 corrections**;
+6. T3 Kalaignar voice **PASS after 4 corrections**;
+7. T4 terminology / quotation / citation **PASS with 0 body corrections**;
+8. front matter points to the correct Tamil file/blob and scans **7–12 / pp.5–10**;
+9. all six source-page comments remain present and ordered;
+10. publication title and all T4-approved Section 1 lexicon/source-label decisions are synchronized;
+11. quotations remain source-based with no imported published English translation;
+12. unresolved English blockers **0**;
+13. frozen Tamil edits **0**;
+14. no status/documentation regression or source drift.
 
-For every issue found, record old English → corrected English and the Tamil/terminology basis in `translations/en/TRANSLATION_REVIEW.md`; update `LEXICON.md` accordingly.
+If all checks pass:
 
-If T4 passes after any corrections:
+- change Section 1 `translation_status` from `voice-reviewed` to **`verified`**;
+- record the resulting final verified English blob SHA;
+- mark T5 **PASS** in tracker/review/plan/audit/handover;
+- mark the Section 1 calibration sequence **COMPLETE**;
+- set the next activity to **Section 2 / T1 close draft**, but **do not start Section 2 in the same activity**.
 
-- keep Section 1 at `voice-reviewed` unless the repository status model explicitly advances only at T5; record T4 **PASS** in tracker/ledger;
-- record the post-T4 English blob SHA;
-- mark all approved Section 1 lexicon decisions as T4-audited;
-- keep T5 pending;
-- update root `HANDOVER.md` and this prompt to point to **Section 1 T5 article verification**.
-
-Do not modify frozen Tamil. Do not start T5 in the same activity. Do not start Section 2 before Section 1 completes the calibration sequence.
+Do not modify frozen Tamil.
