@@ -8,7 +8,7 @@ source_tamil_blob_sha: "e5517b7cc344554d51af4092599059d481039c1e"
 source_scan_pages: "7-12"
 source_printed_pages: "5-10"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -56,7 +56,7 @@ For a politician who criticises such varied fields, the art of speaking on a sta
 
 Though I have not sketched out the names of every field right at the opening of this serial article, I am going to offer many facts and explanations about the art of speaking needed in different fields. I believe they will help many among you gain practice in speaking. I also expect that they will help some who are already speakers remove their shortcomings and become still better speakers.
 
-It is with such a good purpose that this serial article is being written.
+It is precisely with such a good purpose that this serial article is being written.
 
 It is not meant that only those belonging to a particular movement should benefit; all members of the younger generation who wish to excel in the art of speaking may think<!-- Tamil source: scan 10 / printed 8 --> these ideas over and accept what they are able to accept, what they find acceptable.
 
@@ -65,13 +65,13 @@ one who can speak with order and sweetness.”
 
 So said Valluvar! The meaning of this Kural is that if the world finds someone who can arrange ideas in order and express them sweetly, it will swiftly heed his bidding and act accordingly.
 
-As far back as two thousand years ago, Valluvar gave us an entire chapter called “Power of Speech,” making the point that ideas arising in the mind alone are not enough; victory comes only when they are expressed in the manner in which they ought to be expressed!
+As far back as two thousand years ago, Valluvar gave us an entire chapter called “Power of Speech,” telling us that ideas arising in the mind alone are not enough; victory comes only when they are expressed in the manner in which they ought to be expressed!
 
 Beginning with the baby talk of “Amma, Appa,” one may even go on to earn degrees in languages such as English and learn countless words!
 
 Knowing words is one thing—to command them is another!
 
-It is the interesting things about commanding those words that I am going to tell you.
+And it is those interesting things about commanding words that I am going to tell you.
 
 In 1970, while I was touring Western countries, I had the opportunity to visit several parts of the city of London. There is a beautiful place called “Hyde Park” (HydePark)! One could even call it a public-speaking arena. Here and there across that park, in broad open spaces and on green lawns, hundreds of people stand<!-- Tamil source: scan 11 / printed 9 --> in circles. And not merely in one place like this—in many places!
 
@@ -81,7 +81,7 @@ People who come to the park listen to one speaker after another, spend the day t
 
 Do you know the name of an outstanding Indian speaker who spoke in that park and explained India’s rights as a nation to the people of that country?
 
-It was V. K. Krishna Menon—who spoke for a very long time in the U.N. Assembly and created a great “record”—who had spoken in that park in his early days!
+It was V. K. Krishna Menon—who spoke for a very long time in the U.N. Assembly and created a great “record”—who spoke in that park in his early days!
 
 When he spoke before hundreds at London’s “Hyde Park,” would anyone have imagined that one day he would shine as a renowned speaker in the U.N. Assembly?
 
