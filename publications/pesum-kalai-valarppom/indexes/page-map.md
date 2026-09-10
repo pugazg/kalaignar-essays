@@ -2,9 +2,9 @@
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`  
 Physical scans: **82**  
-Current gate: **P2 IN PROGRESS — 10 / 82 VERIFIED**
+Current gate: **P2 IN PROGRESS — 20 / 82 VERIFIED**
 
-P1 directly inspected all **82 / 82** physical scans and established the canonical structural map below. P2 batch 1 has now created and directly verified canonical page records for scans **1–10**; the structural mapping itself is unchanged.
+P1 directly inspected all **82 / 82** physical scans and established the canonical structural map below. P2 batches 1–2 have now created and directly verified canonical page records for scans **1–20**; the structural mapping itself is unchanged.
 
 ## Pagination rule established at P1
 
@@ -144,18 +144,21 @@ Shared mid-page transition scans are **12, 16, 22, 27, 31, 34, 38, 51, 55, 67, 7
 
 ## P2 overlay
 
-Batch 1, scans **1–10**, is **COMPLETE / PASS**.
+Batches 1–2, scans **1–20**, are **COMPLETE / PASS**.
 
-- canonical page records present: **10 / 82**;
-- directly verified: **10 / 82**;
-- contiguous verified range: scans **1–10**;
-- printed-page coverage reached: **p.8**;
+- canonical page records present: **20 / 82**;
+- directly verified: **20 / 82**;
+- contiguous verified range: scans **1–20**;
+- printed-page coverage reached: **p.18**;
+- section transitions already preserved in canonical page records: scan **12** `1→2`, scan **16** `2→3`;
 - unresolved P2 readings: **0**;
 - structural-map changes caused by P2: **0**;
 - section assemblies created: **0**.
 
-The first P2 batch also records the source-visible title-form distinction: scan 1 front cover `பேசும் கலை வளர்ப்போம்`; scan 3 title page `பேசும்கலை வளர்ப்போம்`.
+P2 preserves the source-visible title-form distinction: scan 1 front cover `பேசும் கலை வளர்ப்போம்`; scan 3 title page `பேசும்கலை வளர்ப்போம்`.
+
+Batch 2 also directly confirmed the scan-20 boundary `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்`; scan 21 remains outside the current canonical P2 count. A scan-13 draft reading `வீட்டான்` was corrected after direct enlarged inspection to source-visible `வீடுதான்` before batch closure.
 
 ## Exact next activity
 
-**P2 batch 2 — transcribe and directly verify scans 11–20 as canonical page records.** This batch covers printed pp.9–18 and crosses the section **1→2** boundary on scan 12 and **2→3** boundary on scan 16. Preserve both section memberships on those shared scans; do not build section assemblies yet.
+**P2 batch 3 — transcribe and directly verify scans 21–30 as canonical page records.** This batch covers printed pp.19–28 and crosses the section **3→4** boundary on scan 22 and **4→5** boundary on scan 27. Preserve both section memberships on those shared scans; check scan 30→31 where needed; do not build section assemblies yet.
