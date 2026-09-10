@@ -9,7 +9,7 @@
 | P2 page-level transcription | **COMPLETE / PASS** | **82/82 VERIFIED**; scans 1–82 contiguous |
 | P3 assemblies | **COMPLETE / PASS** | **19/19 source-numbered assemblies**; main work scans 7–82 / pp.5–80 represented |
 | P4 source/completeness audit | **COMPLETE / PASS** | **82/82 page records + 19/19 assemblies reconciled; discrepancies 0** |
-| P5 strict visual fidelity | **IN PROGRESS — 40/82** | scans **1–40 PASS**; **16 corrections / 16 propagated / 0 unresolved in reviewed range** |
+| P5 strict visual fidelity | **IN PROGRESS — 50/82** | scans **1–50 PASS**; **26 corrections / 26 propagated / 0 unresolved in reviewed range** |
 | English E0–E7 | **NOT STARTED** | blocked until Tamil freeze |
 
 ## Source / P1 durable facts
@@ -37,8 +37,6 @@ Documented P2 corrections:
 
 ## P3 — COMPLETE / PASS
 
-The numbered-section Tamil reading layer is complete under `articles/`:
-
 - expected/live assemblies: **19 / 19**, `01-section-01.md` through `19-section-19.md`;
 - main-work coverage: scans **7–82 / pp.5–80**;
 - missing / unexpected extra assemblies: **0 / 0**;
@@ -50,9 +48,9 @@ Full span validation: [`P3_ASSEMBLY_AUDIT.md`](P3_ASSEMBLY_AUDIT.md).
 
 ## P4 — COMPLETE / PASS
 
-Source identity, canonical records, pagination, source-witness distinctions, **19/19** assemblies, shared transitions and correction propagation were reconciled. New P4 text corrections **0**; unresolved P4 discrepancies/blockers **0**. Dedicated record: [`P4_SOURCE_COMPLETENESS_REVIEW.md`](P4_SOURCE_COMPLETENESS_REVIEW.md).
+Source identity, canonical records, pagination, source-witness distinctions, **19/19** assemblies, shared transitions and correction propagation reconcile with **0 unresolved P4 discrepancies/blockers**. Dedicated record: [`P4_SOURCE_COMPLETENESS_REVIEW.md`](P4_SOURCE_COMPLETENESS_REVIEW.md).
 
-## P5 — IN PROGRESS — 40 / 82
+## P5 — IN PROGRESS — 50 / 82
 
 Completed strict visual batches:
 
@@ -62,26 +60,27 @@ Completed strict visual batches:
 | P5-011-020 | 11–20 | pp.9–18 | **PASS** | 3 | 0 |
 | P5-021-030 | 21–30 | pp.19–28 | **PASS** | 2 | 0 |
 | P5-031-040 | 31–40 | pp.29–38 | **PASS** | 9 | 0 |
+| P5-041-050 | 41–50 | pp.39–48 | **PASS** | 10 | 0 |
 
-Current P5 totals: **40/82 strict-reviewed; 16 corrections found; 16/16 propagated; 0 unresolved fidelity discrepancies in reviewed range**.
+Current P5 totals: **50/82 strict-reviewed; 26 corrections found; 26/26 propagated; 0 unresolved fidelity discrepancies in reviewed range**.
 
-P5 corrections through scan 40:
+Batch 5 corrections:
 
-1. scan 4 — `Kalaignar` → `Kalaingnar`;
-2. scan 7 — opening `‘வெண்ணிலாவும்` → `“வெண்ணிலாவும்`;
-3–5. scan 19 — `அப்படியிருக்குமேயானால்` → `அப்படி இருக்குமேயானால்`; `எப்படிப் பாலையும்` → `எப்படி பாலையும்`; `வைத்தால்,எப்படிக் எறும்பானது` → `வைத்தால்,எப்படி எறும்பானது`;
-6. scan 24 — `எழுதி படிக்கும்` → `எழுதிப் படிக்கும்`;
-7. scan 26 — `ஐயா` → `அய்யா`;
-8–9. scan 31 — `பாணை` → `பானை`; `ஏனப்பா` → `ஏனய்யா`;
-10. scan 32 — `என்றும்` → `என்றதும்`;
-11. scan 33 — `உன் மனைவி உன்னை விடமாட்டாளா?` → `உன் மனைவி உன்னைவிட மூடமாக இருக்கிறாள்?`;
-12–13. scan 35 — `எழும்பும்` → `எலும்பும்`; `மூந்நூறு` → `முந்நூறு`;
-14–16. scan 39 — `பேச்சுப்பொழுது` → `பேசும்பொழுது`; `அடுக்கு முறைகளால்` → `அடக்கு முறைகளால்`; `நினைவுபடுத்துகிறேன்` → `நினைவு படுத்துகிறேன்`.
+1. scan 42 `கைக்குழந்தையொன்றைத்` → `கைக்குழந்தை யொன்றைத்`;
+2. scan 43 `என்பதைத்தெரிந்து` → `என்பதைத் தெரிந்து`;
+3. scan 47 11-dot `மிஸ்டர்...........` → 12-dot `மிஸ்டர்............`;
+4. scan 48 `தாக்குமுறைக்கு` → `தர்க்கமுறைக்கு`;
+5. scan 48 `போராற்றல்` → `பேராற்றல்`;
+6. scan 49 `பேச்சுத்திறன்` → `பேச்சுத்திறனை`;
+7. scan 50 plain `சொல்` → source-quoted `‘சொல்’`;
+8. scan 50 `ஐயோ!` → `ஏம்பா!`;
+9. scan 50 `புகழ்மேணியில்` → `புகழ்மேனியில்`;
+10. scan 50 `மூச்சுத்திணற கூறிக்கொண்டே` → `மூச்சுத்திணறக் கூறிக்கொண்டே`.
 
-All corrections are propagated to affected page records and assemblies. Source-visible transitions rechecked through this range: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8) — PASS**. Scan 41 was inspected only as scan-40 boundary evidence and is not counted.
+All 10 batch-5 corrections are propagated to the affected canonical page records and assemblies 9–11. Section changes **41→42 (8→9)**, **44→45 (9→10)** and **47→48 (10→11)** passed strict review. Suppressed/inferred folios on scans **42,45,48** remain correctly non-visible. Scan 51 was boundary evidence only and is not counted.
 
 Detailed running record: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Exact next activity
 
-**P5 scans 41–50 / printed pp.39–48.** Directly re-inspect each source scan word-by-word and punctuation-by-punctuation. Preserve page-end/top section changes **41→42 (8→9)**, **44→45 (9→10)** and **47→48 (10→11)**, plus suppressed/inferred folios on scans **42,45,48**. Inspect scan 51 only as batch-boundary evidence if needed. Record and propagate every confirmed correction. English remains blocked while P5 is open.
+**P5 scans 51–60 / printed pp.49–58.** Preserve scan **51 (11→12)** and scan **55 (12→13)** mid-page transitions, section 13 closure at scan **58**, section 14 top-of-page opening at scan **59**, and scan 59's suppressed/inferred p.57 folio. Inspect scan **61** only as batch-boundary evidence if needed. English remains blocked while P5 is open.
