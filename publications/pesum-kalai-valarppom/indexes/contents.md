@@ -49,11 +49,16 @@ If later evidence shows the units correspond to separately published `முத�
 
 ## P2 overlay
 
-- scans **1–40** now have canonical page records and are directly **VERIFIED**;
-- P2 cumulative state: **40 / 82 VERIFIED**;
-- shared transitions preserved inside canonical records: scan **12** `1→2`, scan **16** `2→3`, scan **22** `3→4`, scan **27** `4→5`, scan **31** `5→6`, scan **34** `6→7`, scan **38** `7→8`;
-- scan 40 batch boundary `பொருள்` → scan 41 `என்றால், அதனை` was directly checked; scan 41 is not yet counted as a canonical P2 record;
+- scans **1–50** now have canonical page records and are directly **VERIFIED**;
+- P2 cumulative state: **50 / 82 VERIFIED**;
+- contiguous verified range: scans **1–50**;
+- printed coverage: through **p.48**;
+- shared mid-page transitions preserved inside canonical records through scan 38: scan **12** `1→2`, **16** `2→3`, **22** `3→4`, **27** `4→5`, **31** `5→6`, **34** `6→7`, **38** `7→8`;
+- batch 5 directly closed section 8 on scan **41**, section 9 on scan **44**, and section 10 on scan **47**;
+- sections 9, 10 and 11 open at page top on scans **42,45,48**, whose folios are **suppressed / inferred** rather than visibly printed;
+- scan 49 `மதிப்புக்குரிய தோழர்` → scan 50 `களுக்குப் பதிலாக` was directly checked;
+- scan 50 closes its sentence; scan 51 begins a new paragraph `அடிசன் இப்படித் திணறிக் கொண்டிருந்தபோது,`;
 - assemblies created: **0**;
 - unresolved P2/source/structure blockers: **0**.
 
-Exact next activity: **P2 scans 41–50 page-level transcription and direct verification.** Scan 41 closes section 8 at page end; sections 9, 10 and 11 open at page top on scans **42, 45 and 48**. Preserve those three folios as **suppressed / inferred**; do not build assemblies yet.
+Exact next activity: **P2 scans 51–60 page-level transcription and direct verification.** Preserve the section **11→12** mid-page transition on scan 51 and **12→13** transition on scan 55. Section 13 closes at scan 58 page end; section 14 opens at scan 59 page top. Scan **59 / inferred p.57** has a suppressed/inferred folio. Check scan 60→61 where needed and do not build assemblies yet.
