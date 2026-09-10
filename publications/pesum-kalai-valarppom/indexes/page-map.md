@@ -2,7 +2,7 @@
 
 Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`  
 Physical scans: **82**  
-Current gate: **P5 IN PROGRESS — scans 1–20 / 20 of 82 PASS**
+Current gate: **P5 IN PROGRESS — scans 1–30 / 30 of 82 PASS**
 
 ## Canonical pagination rule
 
@@ -52,63 +52,28 @@ A suppressed/inferred folio must never be represented as a source-visible printe
 Shared mid-page transition scans: **12,16,22,27,31,34,38,51,55,67,70,79**.  
 Top-of-page section openings: **7,42,45,48,59,64,75**.
 
-## P2 overlay — COMPLETE / PASS
+## P2 / P3 / P4 overlays
 
-Canonical page records / direct verification: **82 / 82**.
-
-- scans **1–82** contiguous VERIFIED;
-- pp.**1–80** complete;
-- scan **74** closes section 17;
-- scan **75 / inferred p.73** opens section 18 with suppressed/inferred folio;
-- scan **79 / p.77** preserves section `18→19` mid-page;
-- scan **82 / p.80** closes section 19 and the source;
-- unresolved readings / structural changes: **0 / 0**.
-
-## P3 overlay — COMPLETE / PASS
-
-- assemblies: **19 / 19** under `articles/`;
-- section numbering: **1–19 complete**;
-- main-work scan coverage: **7–82**;
-- printed main-work coverage: **pp.5–80**;
-- missing / extra assemblies: **0 / 0**;
-- shared transition scans are divided only at their source-visible numbered-section boundary;
-- unexplained gaps / overlaps: **0 / 0**;
-- unresolved assembly readings: **0**.
-
-Detailed validation: [`../P3_ASSEMBLY_AUDIT.md`](../P3_ASSEMBLY_AUDIT.md).
-
-## P4 overlay — COMPLETE / PASS
-
-The source/completeness review rechecked this map against the live source metadata, all canonical page-record filenames, the contents index, P3 span audit and all 19 assembly identities.
-
-- physical-scan records: **82 / 82** — `0001–0082` contiguous;
-- missing / duplicate scan records: **0 / 0**;
-- pagination drift: **0**;
-- suppressed/inferred folio drift: **0**;
-- section-start / section-end drift: **0**;
-- assembly-span drift: **0**;
-- shared-transition duplication / omission defects: **0**;
-- front-matter classification drift: **0**;
-- P4 corrections required: **0**;
-- unresolved P4 blockers: **0**.
-
-Dedicated reconciliation: [`../P4_SOURCE_COMPLETENESS_REVIEW.md`](../P4_SOURCE_COMPLETENESS_REVIEW.md).
+- P2 canonical page records / direct verification: **82/82 COMPLETE / PASS**;
+- P3 assemblies: **19/19 COMPLETE / PASS**;
+- P4 source/completeness reconciliation: **COMPLETE / PASS**;
+- missing/duplicate scan records: **0/0**;
+- missing/extra assemblies: **0/0**;
+- pagination, section-boundary, shared-transition and suppressed-folio drift through P4: **0**.
 
 ## P5 overlay — IN PROGRESS
 
-- strict-reviewed scans: **1–20 / 20 of 82**;
-- reviewed printed span: outside pagination + pp.**1–18**;
-- corrections found / propagated: **5 / 5**;
+- strict-reviewed scans: **1–30 / 30 of 82**;
+- reviewed printed span: outside pagination + pp.**1–28**;
+- corrections found / propagated: **7 / 7**;
 - unresolved fidelity discrepancies in reviewed range: **0**;
 - suppressed/inferred folios rechecked so far: **3,4,5,6,7 — PASS**;
-- source-visible shared transitions rechecked so far: **12 (1→2), 16 (2→3) — PASS**;
-- scan 4 English imprint source spelling: **`Kalaingnar`**;
-- scan 7 quotation opening source punctuation: **double opening quote `“`**;
-- scan 19 corrections: **`அப்படி இருக்குமேயானால்`**, **`எப்படி பாலையும்`**, **`வைத்தால்,எப்படி எறும்பானது`**; all propagated to section 3;
-- scan 21 used only as boundary evidence for scan 20, not counted.
+- source-visible shared transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5) — PASS**;
+- structural section map changed by P5: **No**;
+- scan 31 used only as scan-30 boundary evidence, not counted.
 
 Running record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Exact next activity
 
-**P5 scans 21–30 / pp.19–28.** Continue direct strict visual review, preserving scan-22 `3→4` and scan-27 `4→5` transitions and propagating every source-supported correction before moving to the next batch.
+**P5 scans 31–40 / pp.29–38.** Continue direct strict visual review, preserving transitions **31 (5→6)**, **34 (6→7)** and **38 (7→8)** and propagating every source-supported correction before moving to the next batch.
