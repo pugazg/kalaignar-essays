@@ -28,7 +28,7 @@ English work never modifies the frozen Tamil authority.
 
 | # | Frozen Tamil assembly | Frozen Tamil blob SHA | T0 | English body |
 |---:|---|---|---|---|
-| 1 | `articles/01-section-01.md` | `e5517b7cc344554d51af4092599059d481039c1e` | **PASS** | **draft** |
+| 1 | `articles/01-section-01.md` | `e5517b7cc344554d51af4092599059d481039c1e` | **PASS** | **fidelity-reviewed** |
 | 2 | `articles/02-section-02.md` | `b10894b911393239e57446687c34030aff88a8e3` | **PASS** | not-started |
 | 3 | `articles/03-section-03.md` | `21904dd457bb3455230de06421ff2d906ac4958d` | **PASS** | not-started |
 | 4 | `articles/04-section-04.md` | `b938be21e198d69548e45ae96cb0e9802b8d7079` | **PASS** | not-started |
@@ -48,7 +48,7 @@ English work never modifies the frozen Tamil authority.
 | 18 | `articles/18-section-18.md` | `060e72d9ec61e491343c948c2db9371312b7e3a8` | **PASS** | not-started |
 | 19 | `articles/19-section-19.md` | `aa3eb2b5311f8ad1a705f606bd4ace3f2059ec6c` | **PASS** | not-started |
 
-Before each T1 draft is written, re-check that the live Tamil blob still equals the frozen SHA above. A mismatch is a hard source-drift stop.
+Before each English gate, re-check that the live Tamil blob still equals the frozen SHA above. A mismatch is a hard source-drift stop.
 
 ---
 
@@ -56,7 +56,7 @@ Before each T1 draft is written, re-check that the live Tamil blob still equals 
 
 ### T0 source check
 
-**PASS.** Immediately before drafting, live `articles/01-section-01.md` still matched frozen blob **`e5517b7cc344554d51af4092599059d481039c1e`**.
+**PASS.** Live `articles/01-section-01.md` remains frozen at **`e5517b7cc344554d51af4092599059d481039c1e`**.
 
 ### T1 close draft
 
@@ -65,27 +65,47 @@ Before each T1 draft is written, re-check that the live Tamil blob still equals 
 | Authority | Blob |
 |---|---|
 | Frozen Tamil source | `e5517b7cc344554d51af4092599059d481039c1e` |
-| T1 English draft | **`d36aec208ea15b970795a7717dd770d2d27251d8`** |
+| T1 English draft | `d36aec208ea15b970795a7717dd770d2d27251d8` |
 
 Draft file: `translations/en/01-section-01.md`  
-Source span: scans **7–12 / printed pp.5–10**  
-Translation status: **draft**  
-T2 / T3 / T4 / T5: **pending**.
+Source span: scans **7–12 / printed pp.5–10**.
 
-T1 preserved:
+### T2 bilingual fidelity review
 
-- all source body paragraphs;
-- source-numbered section identity `1`;
-- all six source-page boundary comments for scans 7–12;
-- Bharathidasan quotation structure and its driving dashes;
-- Valluvar quotation as a fresh source-based English rendering, not an imported published translation;
-- repeated contrasts, exclamations and rhetorical questions;
-- `1970`, Hyde Park / `(HydePark)`, V. K. Krishna Menon and the U.N. Assembly anecdote;
-- the closing rhetorical transition into how Kalaignar learned to speak on stage.
+**COMPLETE / PASS after 6 corrections.**
 
-Publication-title draft established as **Let Us Develop the Art of Speaking**; it remains provisional until T3 voice review. Section 1 source-derived terminology decisions were added to `LEXICON.md` with **T1 provisional** status.
+Post-T2 English blob: **`d185b201c1113d99400d31579e773ae167cbb8a0`**  
+Translation status: **`fidelity-reviewed`**  
+T3 / T4 / T5: **pending**.
 
-No T2 correction findings are claimed here; T2 must be an independent Tamil/English re-read.
+The review re-read the frozen Tamil and T1 English sentence by sentence and clause by clause. Final checks after correction:
+
+- omitted Tamil sentences / clauses — **0**;
+- added English factual claims — **0**;
+- names / referents — **PASS**;
+- dates / numbers (`1970`, section identity, source spans) — **PASS**;
+- Bharathidasan quotation — **PASS / complete / source-based**;
+- Valluvar quotation + Kalaignar explanation — **PASS / source-based; no published English translation imported**;
+- negatives / comparisons / logical connectors — **PASS**;
+- deliberate repetitions / questions / exclamations — **PASS**;
+- Hyde Park / `(HydePark)`, V. K. Krishna Menon and U.N. Assembly wording — **PASS**;
+- source-page boundary comments — **6/6 retained, scans 7–12**;
+- frozen Tamil changes during T2 — **0**.
+
+#### T2 corrections
+
+| # | T1 English | T2 English | Frozen Tamil basis / reason |
+|---:|---|---|---|
+| 1 | `the light that moves us to action` | `the light of action` | `செயலாற்றும் ஒளியை`; restores the source's four-part `... ஒளி` parallelism and removes the added `moves us`. |
+| 2 | `but becomes Bharathidasan’s song` | `but is Bharathidasan’s song` | `பாரதிதாசனாரின் பாடலாக இருந்தால்`; source states the condition that it **is** that song, not a transformation into it. |
+| 3 | `one has to debate both constituency matters and the problems of the state—engagingly, and heatedly too` | `one has to debate constituency matters and the problems of the state engagingly; one has to debate them heatedly too` | `... சுவையாகவும் விவாதிக்க வேண்டியிருக்கிறது; சூடாகவும் விவாதிக்க வேண்டியிருக்கிறது`; restores the deliberately repeated debate clause. |
+| 4 | `The world will swiftly heed a task...` | `The world will swiftly heed his bidding...` | Kural witness plus Kalaignar's own immediate explanation `அவருடைய ஏவலை உலகம், விரைந்து கேட்டு...`; no external Kural translation used. |
+| 5 | `various national issues` | `problems concerning various countries` | `பல்வேறு நாட்டுப் பிரச்சினைகளை`; avoids collapsing the plural country reference into a generic single-country `national` category. |
+| 6 | `India’s national rights` | `India’s rights as a nation` | `இந்திய நாட்டுரிமைகளை`; keeps the national-rights sense while avoiding the ambiguous English compound. |
+
+No T1 lexicon entry required a terminology change during T2; `LEXICON.md` therefore remains unchanged and its Section 1 entries stay provisional pending T3/T4.
+
+Publication-title draft **Let Us Develop the Art of Speaking** remains provisional until the independent T3 voice review.
 
 ---
 
@@ -96,7 +116,7 @@ No T2 correction findings are claimed here; T2 must be an independent Tamil/Engl
 | E0 workspace/planning | **COMPLETE / PASS** |
 | T0 source prerequisite | **19/19 PASS** |
 | T1 close draft | **1/19** |
-| T2 bilingual fidelity | **0/19** |
+| T2 bilingual fidelity | **1/19** |
 | T3 Kalaignar voice | **0/19** |
 | T4 terminology / quotation / citation | **0/19** |
 | T5 section verification | **0/19** |
@@ -104,10 +124,6 @@ No T2 correction findings are claimed here; T2 must be an independent Tamil/Engl
 
 Unresolved English blockers: **0**. Frozen Tamil edits during E1: **0**.
 
-## Corrections / review findings
-
-T1 is a drafting gate, not the independent review gate. **No T2/T3/T4 corrections have yet been recorded.**
-
 ## Exact next activity
 
-**E1 — Section 1 / T2 bilingual fidelity review.** Compare frozen Tamil blob `e5517b7cc344554d51af4092599059d481039c1e` with English T1 blob `d36aec208ea15b970795a7717dd770d2d27251d8` sentence by sentence and clause by clause. Check omissions/additions, names, dates/numbers, quotations, negatives, comparisons, logical connectors, deliberate repetition, source-witness distinctions and all six page-boundary comments. Record every correction transparently; do not start T3 until T2 passes.
+**E1 — Section 1 / T3 Kalaignar voice review.** Compare frozen Tamil blob `e5517b7cc344554d51af4092599059d481039c1e` with post-T2 English blob `d185b201c1113d99400d31579e773ae167cbb8a0`. Review the English for directness, cadence, rhetorical questions, repeated structures, exclamations, imagery, polemical force and any smoothing or academic distancing. Reassess the provisional publication title and Section 1 lexical choices for voice without changing meaning. Record every T3 correction transparently; do not start T4 until T3 passes.
