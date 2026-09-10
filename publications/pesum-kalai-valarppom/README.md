@@ -10,7 +10,7 @@ Workspace: `publications/pesum-kalai-valarppom/`
 - P2 page-level transcription — **COMPLETE / PASS — 82 of 82 VERIFIED**;
 - P3 assemblies — **COMPLETE / PASS — 19 of 19**;
 - P4 source/completeness audit — **COMPLETE / PASS**;
-- P5 strict visual word/punctuation fidelity — **IN PROGRESS — scans 1–10 / 10 of 82 PASS**;
+- P5 strict visual word/punctuation fidelity — **IN PROGRESS — scans 1–20 / 20 of 82 PASS**;
 - English — **NOT STARTED / BLOCKED until Tamil freeze**.
 
 ## Controlling source
@@ -86,14 +86,19 @@ See [`P4_SOURCE_COMPLETENESS_REVIEW.md`](P4_SOURCE_COMPLETENESS_REVIEW.md).
 
 ## P5 strict visual fidelity — IN PROGRESS
 
-Strict direct reinspection is complete through **scan 10 / 10 of 82**.
+Strict direct reinspection is complete through **scan 20 / 20 of 82**. Both completed batches, `P5-001-010` and `P5-011-020`, are **PASS**.
 
-Batch `P5-001-010` result: **PASS** with **2 source-supported corrections**, both propagated, and **0 unresolved fidelity discrepancies in the reviewed range**.
+Current P5 totals: **5 source-supported corrections / 5 propagated / 0 unresolved fidelity discrepancies**.
 
-- scan 4 / inferred p.2: `By : Kalaignar M. Karunanidhi` → source-visible **`By : Kalaingnar M. Karunanidhi`**;
-- scan 7 / inferred p.5: `‘வெண்ணிலாவும்` → source-visible **`“வெண்ணிலாவும்`**; propagated to section-1 assembly.
+- scan 4 / inferred p.2: `By : Kalaignar M. Karunanidhi` → **`By : Kalaingnar M. Karunanidhi`**;
+- scan 7 / inferred p.5: `‘வெண்ணிலாவும்` → **`“வெண்ணிலாவும்`**;
+- scan 19 / p.17: `அப்படியிருக்குமேயானால்` → **`அப்படி இருக்குமேயானால்`**;
+- scan 19 / p.17: `எப்படிப் பாலையும்` → **`எப்படி பாலையும்`**;
+- scan 19 / p.17: `வைத்தால்,எப்படிக் எறும்பானது` → **`வைத்தால்,எப்படி எறும்பானது`**.
 
-Scans 3,4,5,6,7 retain suppressed/inferred folio status. Scan 5 remains later handwriting only with printed publication text **0**. See [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md) for the running P5 ledger.
+The scan-19 corrections are propagated to `articles/03-section-03.md`. The later source-visible phrase `வைத்தால்,எப்படிக் காந்தமானது` remains unchanged. Source-visible shared transitions on scans **12 (1→2)** and **16 (2→3)** passed strict review. Scan 21 was inspected only to confirm scan 20 `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்`; scan 21 is not yet counted.
+
+See [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md) for the running P5 ledger.
 
 ## Physical-copy/source distinctions
 
@@ -101,4 +106,4 @@ Scan 5 is later handwriting and has no printed publication text. Library stamps/
 
 ## Exact next activity
 
-**P5 scans 11–20 / printed pp.9–18.** Continue direct word-by-word / punctuation-by-punctuation source review, including the scan-12 `1→2` and scan-16 `2→3` shared transitions. Record and immediately propagate every confirmed source-visible correction. English remains blocked until P5 closes and Tamil is frozen.
+**P5 scans 21–30 / printed pp.19–28.** Continue direct word-by-word / punctuation-by-punctuation source review, including scan-22 `3→4` and scan-27 `4→5` shared transitions. Record and immediately propagate every confirmed source-visible correction. English remains blocked until P5 closes and Tamil is frozen.
