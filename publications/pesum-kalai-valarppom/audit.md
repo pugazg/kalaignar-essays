@@ -12,7 +12,8 @@
 | P5 strict visual fidelity | **COMPLETE / PASS** | **82/82 PASS; 33 corrections / 33 propagated / 0 unresolved** |
 | English E0 workspace/planning | **COMPLETE / PASS** | plan + tracker + lexicon + review ledger initialized |
 | English T0 source prerequisite | **COMPLETE / PASS — 19/19** | exact frozen Tamil blob SHAs recorded for every numbered section |
-| English T1–T5 | **NOT STARTED — 0/19** | next: Section 1 T1 voice-calibration draft |
+| English T1 close draft | **IN PROGRESS — 1/19** | Section 1 draft complete; English blob `d36aec208ea15b970795a7717dd770d2d27251d8` |
+| English T2–T5 | **NOT STARTED — 0/19** | next: Section 1 T2 bilingual fidelity review |
 
 ## Source / structure authority
 
@@ -55,18 +56,28 @@ T0 source baseline:
 - exact assembly blob SHAs recorded — **19/19**;
 - T0 PASS — **19/19**;
 - missing / extra source units — **0 / 0**;
-- unresolved source-prerequisite blockers — **0**;
-- English body files — **0/19**;
-- frozen Tamil changes during E0/T0 — **0**.
+- unresolved source-prerequisite blockers — **0**.
 
-Before each T1 draft, the live Tamil article must exactly match its T0-recorded blob SHA. Any mismatch is a hard source-drift stop.
+## English E1 — Section 1 T1 COMPLETE
+
+- frozen Tamil authority: `articles/01-section-01.md` — **`e5517b7cc344554d51af4092599059d481039c1e`**;
+- source span: scans **7–12 / printed pp.5–10**;
+- English draft: `translations/en/01-section-01.md` — **`d36aec208ea15b970795a7717dd770d2d27251d8`**;
+- `translation_status`: **draft**;
+- all six source-page boundary comments retained;
+- publication-title draft: **Let Us Develop the Art of Speaking** — provisional until T3;
+- T1 lexicon decisions recorded: **11**, all provisional pending later review;
+- frozen Tamil changes during E1: **0**;
+- unresolved English blockers: **0**.
+
+T1 completion does **not** imply T2/T3/T4/T5 verification.
 
 ## English gate totals
 
 | Gate | Complete |
 |---|---:|
 | T0 | **19/19** |
-| T1 | **0/19** |
+| T1 | **1/19** |
 | T2 | **0/19** |
 | T3 | **0/19** |
 | T4 | **0/19** |
@@ -76,4 +87,4 @@ Permanent rule: exact source `உடன்பிறப்பே` → `Udanpirapp
 
 ## Exact next activity
 
-**E1 — Section 1 / T1 voice-calibration draft.** Reconfirm frozen Tamil `articles/01-section-01.md` blob **`e5517b7cc344554d51af4092599059d481039c1e`**, create `translations/en/01-section-01.md` as a complete paragraph-by-paragraph `draft`, preserve all source-page comments and rhetorical action, and update the lexicon/tracker/review ledger. T2–T5 remain pending after the T1 draft.
+**E1 — Section 1 / T2 bilingual fidelity review.** Re-read frozen Tamil blob **`e5517b7cc344554d51af4092599059d481039c1e`** against English T1 blob **`d36aec208ea15b970795a7717dd770d2d27251d8`** sentence by sentence and clause by clause. Check omissions/additions, names, dates/numbers, quotations, negatives, comparisons, logical connectors, deliberate repetition, source-witness distinctions and all six page-boundary comments. Record every correction transparently; do not start T3 until T2 passes.
