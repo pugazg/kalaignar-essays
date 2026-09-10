@@ -74,6 +74,18 @@ The complete source/page/assembly structure was reconciled after P3.
 
 Dedicated reconciliation: [`../P4_SOURCE_COMPLETENESS_REVIEW.md`](../P4_SOURCE_COMPLETENESS_REVIEW.md).
 
+## P5 overlay — IN PROGRESS
+
+- strict-reviewed scans: **1–10 / 10 of 82**;
+- reviewed printed span: outside pagination + pp.**1–8**;
+- corrections found / propagated: **2 / 2**;
+- unresolved fidelity discrepancies in reviewed range: **0**;
+- P5 scan-4 source spelling: **`Kalaingnar`**;
+- P5 scan-7 quotation opening: **`“வெண்ணிலாவும்`**;
+- structural section map changed by P5: **No**.
+
+Running fidelity record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
+
 ## Exact next activity
 
-**P5 — direct strict visual word/punctuation fidelity pass across all 82 physical scans.** Re-inspect the controlling source scan-by-scan, record every old reading → source-visible correction, and propagate any correction to page records, assemblies and dependent trackers before Tamil freeze.
+**P5 scans 11–20 / printed pp.9–18.** Continue the direct strict visual pass, with special attention to scan 12 section `1→2` and scan 16 section `2→3`; record and propagate every confirmed source-visible correction before the next batch.
