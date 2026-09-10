@@ -43,7 +43,7 @@ All 19 strict-reviewed Tamil assemblies were enumerated directly from the frozen
 | 18 | `articles/18-section-18.md` | 75–79 / 73–77 | `060e72d9ec61e491343c948c2db9371312b7e3a8` | **PASS** |
 | 19 | `articles/19-section-19.md` | 79–82 / 77–80 | `aa3eb2b5311f8ad1a705f606bd4ace3f2059ec6c` | **PASS** |
 
-These SHAs are the source authority to record in each future English article's `source_tamil_blob_sha` metadata. Before writing an English article, re-check that its live Tamil blob still equals the recorded frozen SHA. Any mismatch is a hard stop until reconciled.
+These SHAs are the source authority to record in each English article's `source_tamil_blob_sha` metadata. Before writing or reviewing an English article, re-check that its live Tamil blob still equals the recorded frozen SHA. Any mismatch is a hard stop until reconciled.
 
 ## English workspace
 
@@ -52,9 +52,11 @@ Required controls:
 - `translations/en/README.md` — progress tracker;
 - `translations/en/LEXICON.md` — living terminology decisions;
 - `translations/en/TRANSLATION_REVIEW.md` — T0–T5 provenance and corrections;
-- future body files `translations/en/01-section-01.md` through `19-section-19.md`.
+- body files `translations/en/01-section-01.md` through `19-section-19.md`.
 
-The source has only numbered sections. Do **not** invent descriptive English section titles. A publication-level English title is not frozen during E0; establish it deliberately during the first T1/T3 calibration rather than guessing now.
+The source has only numbered sections. Do **not** invent descriptive English section titles.
+
+Section 1 T1 established the publication-title draft **Let Us Develop the Art of Speaking**. It is **provisional until T3 voice review** and must not be treated as release-frozen yet.
 
 ## Translation gates per section
 
@@ -65,7 +67,7 @@ The source has only numbered sections. Do **not** invent descriptive English sec
 5. **T4 — terminology / quotation / citation:** update the living lexicon and audit names, source-bearing terms and quotations.
 6. **T5 — verification:** only after T1–T4 pass may the section be marked `verified`.
 
-## Binding translation rules at startup
+## Binding translation rules
 
 - exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**;
 - translate source text, not remembered or modernized wording;
@@ -76,17 +78,19 @@ The source has only numbered sections. Do **not** invent descriptive English sec
 
 ## Voice-calibration rule
 
-Section 1 is the first calibration unit. Complete its T1 draft and then T2/T3/T4/T5 review before accelerating across later sections. Use decisions established there to seed the publication lexicon, but do not force them mechanically where later context differs.
+Section 1 is the first calibration unit. Its T1 draft is complete. It must now pass T2/T3/T4/T5 before translation accelerates across later sections. Decisions established there may seed the publication lexicon, but they must not be forced mechanically where later context differs.
 
 ## Current English state
 
 - E0 workspace/planning — **COMPLETE / PASS**;
 - T0 frozen-source prerequisites — **19/19 PASS**;
-- English body files — **0/19**;
-- T1 / T2 / T3 / T4 / T5 — **0/19** at each gate;
+- English body files — **1/19**;
+- T1 — **1/19**;
+- T2 / T3 / T4 / T5 — **0/19** at each gate;
+- Section 1 T1 English blob — **`d36aec208ea15b970795a7717dd770d2d27251d8`**;
 - unresolved English blockers — **0**;
-- frozen Tamil changes during English startup — **0**.
+- frozen Tamil changes during English work — **0**.
 
 ## Exact next activity
 
-**E1 — Section 1 / T1 voice-calibration draft.** Reconfirm `articles/01-section-01.md` is still blob `e5517b7cc344554d51af4092599059d481039c1e`, then translate it paragraph by paragraph into `translations/en/01-section-01.md`. Preserve all source-page comments and rhetorical structure. Do not mark it verified until T2–T5 are separately completed.
+**E1 — Section 1 / T2 bilingual fidelity review.** Compare frozen Tamil `articles/01-section-01.md` blob `e5517b7cc344554d51af4092599059d481039c1e` against English T1 blob `d36aec208ea15b970795a7717dd770d2d27251d8` sentence by sentence and clause by clause. Check omissions/additions, names, dates/numbers, quotations, negatives, comparisons, logical connectors, deliberate repetition, source-witness distinctions and all six page-boundary comments. Record every correction; do not start T3 until T2 passes.
