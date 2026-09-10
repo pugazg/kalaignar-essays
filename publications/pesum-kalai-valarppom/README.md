@@ -8,7 +8,7 @@ Workspace: `publications/pesum-kalai-valarppom/`
 
 - P0 — **COMPLETE / PASS**;
 - P1 — **COMPLETE / PASS**;
-- P2 page-level transcription — **IN PROGRESS / 30 of 82 VERIFIED**;
+- P2 page-level transcription — **IN PROGRESS / 40 of 82 VERIFIED**;
 - P3 assemblies — **NOT STARTED**;
 - P4 source/completeness audit — **NOT STARTED**;
 - P5 strict visual word/punctuation fidelity — **NOT STARTED**;
@@ -22,94 +22,63 @@ Workspace: `publications/pesum-kalai-valarppom/`
 - file size: **105,698,402 bytes**;
 - SHA-256: **`73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`**;
 - source type: **image-only scanned PDF**;
-- source PDF committed to repository: **No**.
+- source PDF committed: **No**.
 
 The supplied scan is controlling authority. OCR / parsed text is not authority.
 
 ## Source-visible title witnesses
 
-P2 direct inspection fixed a source-witness distinction that earlier tracker wording had flattened:
-
 - scan 1 front cover: **`பேசும் கலை வளர்ப்போம்`**;
 - scan 3 title page: **`பேசும்கலை வளர்ப்போம்`**.
 
-Do not silently normalize one witness to the other. The workspace/publication label remains the cover form `பேசும் கலை வளர்ப்போம்`; canonical page records preserve each scan exactly.
+Do not silently normalize one witness to the other. The workspace label remains the cover form while canonical page records preserve each scan exactly.
 
-Other identity:
-
-- title-page author/status: **`மாண்புமிகு டாக்டர் கலைஞர் மு.கருணாநிதி / தமிழக முதல்-அமைச்சர்`**;
-- English imprint: **`By : Kalaignar M. Karunanidhi`**;
-- publisher: **பாரதி பதிப்பகம்**, 108 Usman Road, T.Nagar, Madras-600017;
-- supplied edition: **எட்டாம் பதிப்பு — செப்டம்பர் 1996**;
-- price: **Rs.12.00**;
-- printer: **Malar Printers, Madras-600034**.
-
-The user-supplied description identifies it as a collection of Kalaignar's `முத்தாரம்` articles for aspiring/practising speakers. That remains contextual metadata unless independently found as printed wording in this source.
+Other identity: title-page author/status `மாண்புமிகு டாக்டர் கலைஞர் மு.கருணாநிதி / தமிழக முதல்-அமைச்சர்`; publisher பாரதி பதிப்பகம்; supplied edition **எட்டாம் பதிப்பு — செப்டம்பர் 1996**.
 
 ## P1 canonical structure
 
 P1 directly inspected all **82/82** scans.
 
-- scans **1–2**: outside printed pagination;
-- scans **3–82**: continuous printed pages **1–80**;
-- relation: `printed page = scan - 2` for scans 3–82;
-- printed contents page: **none**;
-- source-numbered sections: **19 / 19 starts and ends verified**;
-- shared mid-page section transitions: **12**;
-- separate back-cover scan: **none**;
+- scans 1–2 outside printed pagination;
+- scans 3–82 = printed pp.1–80 continuously;
+- `printed page = scan - 2`;
+- source-numbered sections: **19/19 starts and ends verified**;
+- shared mid-page transitions: `12,16,22,27,31,34,38,51,55,67,70,79`;
+- suppressed/inferred folios: `3,4,5,6,7,42,45,48,59,64,75`;
+- printed contents page: none;
+- separate back-cover scan: none;
 - structural blockers: **0**.
 
-Canonical mapping lives in:
-
-- `indexes/page-map.md` — **82/82 scan rows**;
-- `indexes/contents.md` — exact 19-section spans and boundary positions.
-
-Section openings are scans `7,12,16,22,27,31,34,38,42,45,48,51,55,59,64,67,70,75,79`. Do not invent descriptive section titles.
+Canonical mapping lives in `indexes/page-map.md` and `indexes/contents.md`. Do not invent descriptive section titles.
 
 ## P2 progress
 
-Batches 1–3, scans **1–30**, are **COMPLETE / PASS**.
+Batches **1–4**, scans **1–40**, are **COMPLETE / PASS**.
 
-- canonical records created / directly verified: **30 / 82**;
-- contiguous verified range: scans **1–30**;
-- printed coverage: through **p.28**;
+- canonical records created / directly verified: **40 / 82**;
+- contiguous verified range: scans **1–40**;
+- printed coverage: through **p.38**;
 - unresolved printed-text/source-distinction blockers: **0**;
 - assemblies created: **0**;
-- scan 5 remains a separate physical-copy annotation record with **no printed publication text**;
-- shared transitions preserved in canonical records: scan **12** `1→2`, scan **16** `2→3`, scan **22** `3→4`, scan **27** `4→5`.
+- shared transitions preserved: scan 12 `1→2`, scan 16 `2→3`, scan 22 `3→4`, scan 27 `4→5`, scan 31 `5→6`, scan 34 `6→7`, scan 38 `7→8`.
 
-Batch-3 direct page-boundary checks include:
+Batch-4 direct continuation checks include scan 30 `அந்தப்` → 31 `பாணியில்`, scan 31 `மாட்டைக்` → 32 `கொடுத்துவிட்டு`, scan 33 `நன்னிலம் நடராசன்` → 34 `இந்தக் கதையைச்`, scan 34 `விளம்பரப்படுத்தப்பட்டு` → 35 `நடைபெற்ற`, scan 38 `தொடக்கக் காலத்திலே` → 39 `அவரது பேச்சில்`, and scan 40 `பொருள்` → scan 41 `என்றால், அதனை`. Scan 41 was inspected only for the boundary and is not yet counted.
 
-- scan 20 `அவர் உதடுகள்` → scan 21 `உச்சரிக்கிற வார்த்தைகளுக்கும்`;
-- scan 21 `அடக்க` → scan 22 `உணர்வோடு`;
-- scan 22 `ஒரு பேச்சாளர்,` → scan 23 `ஆரம்ப காலத்தில்`;
-- scan 23 `அண்ணாமலை` → scan 24 `அவர்களுக்குச்`;
-- scan 24 `உரைகளானாலும்` → scan 25 `அவற்றை`;
-- scan 25 `என்று` → scan 26 `விளம்பரம்`;
-- scan 26 `மட்டும்` → scan 27 `மல்ல;`;
-- scan 27 `அல்லது` → scan 28 `பெண்களுக்கோ`;
-- scan 29 `ஆதரவு கோரி,` → scan 30 `விட்டு விரைவில்`;
-- scan 30 `அந்தப்` → scan 31 `பாணியில்`.
+Source-sensitive batch-4 forms retained without normalization include scan 31 `அங்கு மிங்கும்`, scan 34 `மாவது`, scan 35 `ஏழை களுக்காகப்` / `கோபைடுகிறான்` plus separate printed `பே—3`, scan 37 `கிடக்கு : வெங்காயம்!`, scan 39 `“அ” வுக்கு “அ”, “க” வுக்கு “க”`, and scan 40 `எடுத்துவரச்சொன்னால்`, `பிர்மாண்ட`, `வேலையற்றதுகள்`.
 
-Scan 31 was inspected only to close the batch boundary and is not yet counted as a P2 page record.
-
-Source-sensitive batch-3 readings retained without normalization include scan 22 `மலிவு`, scan 26 `அண்ணாத்துரை கச்சேரி தானே?`, scan 28 `அந்த......ப்`, and scan 30 `உணர்ச்சியையும்,எழுச்சியையும்`. Batch 3 closed with **0 unresolved readings** and **0 page-record corrections**.
-
-Earlier correction provenance remains: scan-13 draft `வீட்டான்` was corrected after enlarged source review to source-visible **`வீடுதான்`**.
+Earlier correction provenance remains scan-13 draft `வீட்டான்` → source-visible **`வீடுதான்`** after enlarged review. Batch 4 required **0 corrections** after direct verification.
 
 ## Physical-copy/source distinctions
 
 - scan 1 colour front cover;
 - scan 2 substantially blank / physical-copy mark;
-- scan 3 title page with handwriting + large library stamp;
+- scan 3 title page with handwriting + library stamp;
 - scan 4 edition/imprint with partial library stamp;
 - scan 5 full-page handwritten physical-copy note — **not printed publication text**;
-- scan 6 printed `பதிப்புரை`, source-visible date `15—7—81`;
-- scan 7 begins section 1 on inferred/suppressed printed p.5;
-- scan 82 is visible printed p.80 and source end.
+- scan 6 printed `பதிப்புரை`, source-visible date `15—7—81`.
 
-Printed text and physical-copy marks remain separate in canonical page records.
+Printed text and physical-copy marks remain separate in canonical records.
 
 ## Exact next activity
 
-**P2 batch 4 — scans 31–40 / printed pp.29–38.** Create, transcribe and directly verify ten more canonical page records, preserving the section **5→6** mid-page transition on scan 31, section **6→7** transition on scan 34, and section **7→8** transition on scan 38. Check scan 40 against scan 41 where needed for the batch boundary. Do not build section assemblies yet.
+**P2 batch 5 — scans 41–50 / printed pp.39–48.** Scan 41 closes section 8 at page end. Sections 9, 10 and 11 open at page top on scans **42, 45 and 48**. Preserve scans 42/45/48 as **suppressed / inferred** folios, not visible numerals. Check scan 50→51 where needed and do not build section assemblies yet.
