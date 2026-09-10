@@ -6,7 +6,7 @@
 |---|---|---|
 | P0 source intake / publication identification | **PASS** | source identity + edition + 82-scan structure established |
 | P1 metadata + page map + section mapping | **PASS** | **82/82** scans mapped; pp.1–80; sections **19/19** |
-| P2 page-level transcription | **IN PROGRESS** | **60/82 VERIFIED**; batches 1–6 / scans 1–60 PASS |
+| P2 page-level transcription | **IN PROGRESS** | **70/82 VERIFIED**; batches 1–7 / scans 1–70 PASS |
 | P3 assemblies | **NOT STARTED** | — |
 | P4 source/completeness audit | **NOT STARTED** | — |
 | P5 strict visual fidelity | **NOT STARTED** | — |
@@ -24,18 +24,24 @@ Scans **1–50 / through printed p.48** are VERIFIED. Earlier transitions throug
 
 ## P2 batch 6 — scans 51–60
 
+**COMPLETE / PASS.** Scans **51–60 / pp.49–58** are directly VERIFIED. Scan 51 preserves section `11→12`; scan 55 preserves `12→13`; scan 58 closes section 13; scan 59 opens section 14 with suppressed/inferred p.57 folio. Batch-6 corrections **0**; blockers **0**; assemblies **0**.
+
+## P2 batch 7 — scans 61–70
+
 **COMPLETE / PASS.**
 
 - new canonical page records: **10**;
-- cumulative canonical records / direct verification: **60 / 82**;
-- contiguous verified range: scans **1–60**;
-- batch printed coverage: pp.**49–58**;
-- cumulative printed coverage: through **p.58**;
-- scan **51** section `11→12` — **VERIFIED / PRESERVED**;
-- scan **55** section `12→13` — **VERIFIED / PRESERVED**;
-- scan **58** closes section 13 at page end;
-- scan **59** opens section 14 at page top — p.57 folio **suppressed / inferred**, not visibly printed;
-- scan **60** remains section 14;
+- cumulative canonical records / direct verification: **70 / 82**;
+- contiguous verified range: scans **1–70**;
+- batch printed coverage: pp.**59–68**;
+- cumulative printed coverage: through **p.68**;
+- scans **61–63** remain section 14; scan **63** closes section 14 at page end;
+- scan **64** opens section 15 at page top — p.62 folio **suppressed / inferred**, not visibly printed;
+- scans **65–66** remain section 15;
+- scan **67** section `15→16` — **VERIFIED / PRESERVED**;
+- scans **68–69** remain section 16;
+- scan **70** section `16→17` — **VERIFIED / PRESERVED**;
+- scan **71** was inspected only to close the batch boundary and is **not yet counted**;
 - unresolved printed-text readings: **0**;
 - unresolved source/structure distinctions: **0**;
 - section assemblies created: **0**;
@@ -43,27 +49,27 @@ Scans **1–50 / through printed p.48** are VERIFIED. Earlier transitions throug
 
 Direct continuation / boundary checks include:
 
-- scan 51 `ஆகிவிடுமென` → scan 52 `வள்ளுவர் கூறியது`;
-- scan 53 `ஆற்றைக் கடக்க மக்கள்` → scan 54 `ஒரு பால வசதியின்றிக்`;
-- scan 55 `ஒரு மாநில ஆட்சியைக்` → scan 56 `கவிழ்க்க முடியும் என்பதையும்`;
-- scan 57 `வைத்துக்` → scan 58 `கொள்வோம்.`;
-- scan 58 section 13 closes; scan 59 source-visible section `14` opens at page top;
-- scan 60 `அரசியல் கட்சி மேடையில்` → scan 61 `அதற்குப் பதில் அளிக்கும்போது` directly checked; scan 61 is not yet counted.
+- scan 60 `அரசியல் கட்சி மேடையில்` → scan 61 `அதற்குப் பதில் அளிக்கும்போது`;
+- scan 61 `தனது கட்சிக்காரர்களின்` → scan 62 `கைத்தட்டலை`;
+- scan 63 section 14 closes; scan 64 source-visible section `15` opens at page top;
+- scan 65 `பேச்சாளர்` → scan 66 `களை இன்று காணும்போது`;
+- scan 67 `சொல் ஒன்றுக்கு` → scan 68 `ஐந்து ரூபாய் கொடுப்பதாக`;
+- scan 70 section `17` opens mid-page and its final sentence closes; scan 71 begins a new sentence `வாயில் அதுவரையில் குழப்பிக் கொண்டிருந்த`.
 
-Source-sensitive readings secured during batch 6 include:
+Source-sensitive readings secured during batch 7 include:
 
-- scan 51 — `போர்களம்`, `அரங்கின்றி வட்டாடுவதுபோல`, printed gathering mark `பே—4` kept separate from prose;
-- scan 52 — `அவைக்கணம்`, `இயலாதோர் வர்க்கத்தைக் கசக்கிப் பிழிந்த`, `ஒளவைக்குக்`;
-- scan 53 — `ஒலிபெருக்கியாளர்கள்`, `வீணுக் குழைத்தோமடா`;
-- scan 54 — `கட்டுபடியான`, `குக்கிராமத்துப் பொதுக்கூட்டம்`;
-- scan 55 — `கிரேக்கத்து`, `ஆபிரகாம் லிங்கன்`, `விபரங்களையும்`;
-- scan 56 — `மாங்கொல்லையிலோ`, `புரசை வெள்ளாளர்`, `நியாயந்தானே!`;
-- scan 57 — `எழுவயது`, `சுற்றடைப்புக்குள்`;
-- scan 58 — `மது பார்மிட்`, `உத்திரவிட்டேன்`, and the distinct `‘போன்’` / `“போன்”` punctuation witnesses;
-- scan 59 — source-visible `களித்திருமளவுக்கு`; p.57 folio suppressed/inferred;
-- scan 60 — `சொற்பெருக்காற்றக்`, `தாற்குறையாகத்`, and spaced dash sequence `தாற்குறையாக — ஆபாசமாக — அருவருக்கத்தக்க`.
+- scan 61 — `கடுஞ்சொற் களஞ்சியமாகவும்—ஆபாசக் குட்டையாகவும்`, `இருக்குமிடந்`, `ஆபாச அர்ச்சனை—என்ற`;
+- scan 62 — `“வசவு”`, `சுற்றுச் சூழல்`, exact spacing `நடைமுறைகள் — கொள்கை மாறுபாடுகள்—இவை`;
+- scan 63 — `திருவாரூர் ஓடம் போக்கி`, `முதல் நாளிரவு`, `கடுகளவாவது`;
+- scan 64 — unusual source sequence `வழியனுப்பி வைக்கப்பட்ட அழைத்துச் செல்லப்படுவார்`; p.62 folio suppressed/inferred;
+- scan 65 — `விளம்பரச் சுவரொட்டியடித்து`, `உழைத்தவர்களுக்கும்—உழைப்பவர்களுக்கும்தான்`, `திருவாஞ்சியம்`, `நீங்காத் துயில்`;
+- scan 66 — `மேலவைத் தலைவராக`, `தளகர்த்தர்`, `செயலாளரது கைகளைத்`, quote `செயலாளர் — தங்கக் கம்பி!`;
+- scan 67 — source-visible `நாட்டி யிருக்கிறார்கள்`, `கண்ணியூர் பரூக்`, `ஆஸ்திரேலியாவுக்கு`; printed gathering mark `பே—5` kept separate from prose;
+- scan 68 — attributions `ஸ்மிட்`, `மாண்டஸ்கியு`, `மெக்காலே`, `டிஸ்ரேலி`, `பிரெளன்`, `செஸ்டர்பீல்டு`; forms `நோக்கமுண்மையை`, `மெருகேறும்`;
+- scan 69 — `புஜபலமிக்க`, `கூருப் பிடிக்கும்படி`, source attribution `ருசியப் பொன்மொழி`;
+- scan 70 — `அல்பேனியப் பொன்மொழி`, two-line `சொல்லுக சொல்லைப்...` quotation, `“நாநலம் என்னும் நலனுடைமை”`, `தொண்ணூற்றி ஐந்து`.
 
-Batch-6 page-record corrections after final direct verification: **0**. Silent normalization: **0**.
+Batch-7 page-record corrections after final direct verification: **0**. Silent normalization: **0**.
 
 ## Source-witness distinctions that must not regress
 
@@ -80,11 +86,11 @@ Batch-6 page-record corrections after final direct verification: **0**. Silent n
 - P0 source-text corrections: **0**;
 - P1 source-text corrections: **0**;
 - P2 silent normalization: **0**;
-- P2 page records: **60 / 82 VERIFIED**;
+- P2 page records: **70 / 82 VERIFIED**;
 - documented P2 page-record source corrections: **1 total** (`வீட்டான்` → `வீடுதான்`, scan 13);
-- batch-6 corrections: **0**;
+- batch-7 corrections: **0**;
 - unresolved P2 readings: **0**.
 
 ## Exact next activity
 
-**P2 batch 7 — scans 61–70 / printed pp.59–68.** Scans 61–63 remain section 14, with section 14 ending at scan 63 page end. Scan **64 / inferred p.62** opens section 15 at page top and has a suppressed/inferred folio. Preserve the section **15→16** mid-page transition on scan **67** and **16→17** transition on scan **70**. Check scan 70→71 where needed and **do not build assemblies during P2**.
+**P2 batch 8 — scans 71–80 / printed pp.69–78.** Scans **71–74** remain section 17, with section 17 ending at scan **74** page end. Scan **75 / inferred p.73** opens section 18 at page top and has a suppressed/inferred folio. Scans **76–78** remain section 18. Preserve the section **18→19** mid-page transition on scan **79**; scan **80** remains section 19. Check scan **80→81** where needed and **do not build assemblies during P2**.
