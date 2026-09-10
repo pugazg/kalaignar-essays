@@ -128,7 +128,28 @@ T4 correction:
 
 T4 final checks: Section 3 working decisions **17/17 approved**; `iyal / music / koothu` **PASS**; source sound-signals **PASS**; `preamble / this humble one / swan` **PASS**; frozen `science and experience` wording **PASS / deliberately retained**; Socrates/Karl Marx/Ingersoll/Thanthai Periyar source labels **PASS**; Brahma/caste passage **PASS**; `cheap / cheap promise` wordplay **PASS**; first preamble’s source-missing closing quote **preserved**; page comments **7/7**; external/published wording imported **No**; unresolved T4 issues **0**.
 
-T5 — **pending**.
+### T5 article verification
+
+**COMPLETE / PASS.**
+
+Final reconciliation:
+- frozen Tamil blob — **`21904dd457bb3455230de06421ff2d906ac4958d`** — exact match;
+- pre-T5/post-T4 English blob — **`ac4f9e799b00952891fb8d5539449a6e8aaea9d5`** — exact match;
+- T0 / T1 / T2 / T3 / T4 — **PASS**;
+- source span scans **16–22 / printed pp.14–20** — **PASS**;
+- source-page comments — **7/7 present and ordered**;
+- T2 / T3 / T4 correction counts — **5 / 13 / 1**;
+- Section 3 T4-approved decisions — **17 / synchronized**;
+- first preamble’s source-missing closing quotation mark — **preserved**;
+- unresolved Section 3 English issues — **0**;
+- frozen Tamil edits — **0**;
+- source/status regression — **0**.
+
+T5 made **0 English body corrections**. The only T5 article-file change was `translation_status: "voice-reviewed"` → **`translation_status: "verified"`**.
+
+Final verified Section 3 English blob: **`3948fbf436875b39b3c9ca183c838f7b9139b742`**.
+
+Section 3 sequence **T0–T5 COMPLETE / PASS**.
 
 ---
 
@@ -142,12 +163,12 @@ T5 — **pending**.
 | T2 bilingual fidelity | **3/19** |
 | T3 Kalaignar voice | **3/19** |
 | T4 terminology / quotation / citation | **3/19** |
-| T5 section verification | **2/19** |
-| Verified English articles | **2/19** |
+| T5 section verification | **3/19** |
+| Verified English articles | **3/19** |
 | English body files | **3/19** |
 
 Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0**.
 
 ## Exact next activity
 
-**E1 — Section 3 / T5 article verification.** Revalidate frozen Tamil blob `21904dd457bb3455230de06421ff2d906ac4958d` and post-T4 English blob `ac4f9e799b00952891fb8d5539449a6e8aaea9d5`; reconcile T0–T4 provenance, metadata, source span, all 7/7 page comments, T2/T3/T4 correction counts, 17 T4-approved decisions, quotation irregularity, and unresolved counts. If clean, promote status only to `verified` and stop before Section 4.
+**E1 — Section 4 / T1 close draft.** Re-fetch frozen Tamil `articles/04-section-04.md` and require blob `b938be21e198d69548e45ae96cb0e9802b8d7079`, scans 22–27 / printed pp.20–25. Translate the complete numbered Section 4 from the frozen Tamil authority, preserve every source-page comment and rhetorical action, apply verified prior decisions only where the same Tamil function recurs, record new T1 decisions, and stop before Section 4 T2.
