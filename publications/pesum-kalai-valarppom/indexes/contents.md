@@ -44,17 +44,16 @@ The supplied **82-scan eighth-edition witness contains no printed contents page*
 
 ## P5 overlay — IN PROGRESS
 
-- strict-reviewed scans: **1–30 / 30 of 82**;
-- reviewed span: outside pagination + pp.**1–28**;
-- corrections found / propagated: **7 / 7**;
+- strict-reviewed scans: **1–40 / 40 of 82**;
+- reviewed span: outside pagination + pp.**1–38**;
+- corrections found / propagated: **16 / 16**;
 - unresolved fidelity discrepancies in reviewed range: **0**;
-- P5 source-visible transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5) — PASS**;
-- scan 24 corrected `எழுதி படிக்கும்` → `எழுதிப் படிக்கும்`;
-- scan 26 corrected `ஐயா` → source-visible `அய்யா`;
-- structural section map changed by P5: **No**.
+- P5 source-visible transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5), 31 (5→6), 34 (6→7), 38 (7→8) — PASS**;
+- scans 31–40 introduced **9** source-supported corrections, all propagated, with no structural section-map change;
+- scan 41 is boundary evidence only and is not counted.
 
 Running fidelity record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Exact next activity
 
-**P5 scans 31–40 / printed pp.29–38.** Continue the direct strict visual pass, with special attention to scan **31 (5→6)**, scan **34 (6→7)** and scan **38 (7→8)**; record and propagate every confirmed source-visible correction before the next batch.
+**P5 scans 41–50 / printed pp.39–48.** Preserve the page-end/top section changes **41→42 (8→9)**, **44→45 (9→10)** and **47→48 (10→11)**, plus suppressed/inferred folios on scans **42,45,48**; record and propagate every confirmed source-visible correction before the next batch.
