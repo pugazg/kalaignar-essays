@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / English E1 Section 1 T1
+# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / English E1 Section 1 T2
 
 Continue in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -30,44 +30,53 @@ Do **not** modify frozen Tamil `pages/` or `articles/` unless genuinely new sour
 
 ## English durable state
 
-English E0 / T0 is complete:
-
-- `TRANSLATION_PLAN.md` — created;
-- `translations/en/README.md` — created;
-- `translations/en/LEXICON.md` — created;
-- `translations/en/TRANSLATION_REVIEW.md` — created;
+- E0 workspace/planning — **COMPLETE / PASS**;
 - T0 frozen-source matrix — **19/19 PASS**;
-- English body files — **0/19**;
-- T1 / T2 / T3 / T4 / T5 — **0/19**;
-- unresolved English blockers — **0**.
+- English body files — **1/19**;
+- T1 close draft — **1/19**;
+- T2 / T3 / T4 / T5 — **0/19**;
+- unresolved English blockers — **0**;
+- frozen Tamil edits during English work — **0**.
 
 E0/T0 frozen baseline commit: `3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`.
 
-Section 1 Tamil authority:
+## Section 1 durable state
 
-- file: `publications/pesum-kalai-valarppom/articles/01-section-01.md`
-- scans: **7–12**
-- printed pages: **5–10**
-- frozen blob SHA: **`e5517b7cc344554d51af4092599059d481039c1e`**
-- T0: **PASS**.
+Tamil authority:
 
-## Mandatory startup before English body work
+- `publications/pesum-kalai-valarppom/articles/01-section-01.md`
+- scans **7–12 / printed pp.5–10**
+- frozen blob SHA **`e5517b7cc344554d51af4092599059d481039c1e`**
+- T0 **PASS**.
 
-Read completely:
+English T1 draft:
+
+- `publications/pesum-kalai-valarppom/translations/en/01-section-01.md`
+- blob SHA **`d36aec208ea15b970795a7717dd770d2d27251d8`**
+- status **draft / T1 COMPLETE**
+- source-page comments **6/6 retained**
+- T2/T3/T4/T5 **pending**.
+
+T1 publication-title draft: **Let Us Develop the Art of Speaking** — provisional until T3 voice review.
+
+## Mandatory startup
+
+Read completely/fresh:
 
 1. `ESSAY_TRANSLATION_GUIDE.md`
 2. `ESSAY_PROCESSING_GUIDE.md`
 3. `docs/FUTURE_WORK_GUIDELINES.md`
 4. root `HANDOVER.md`
 5. this prompt
-6. `publications/pesum-kalai-valarppom/README.md`
-7. `publications/pesum-kalai-valarppom/TRANSLATION_PLAN.md`
-8. `publications/pesum-kalai-valarppom/translations/en/README.md`
-9. `publications/pesum-kalai-valarppom/translations/en/LEXICON.md`
-10. `publications/pesum-kalai-valarppom/translations/en/TRANSLATION_REVIEW.md`
+6. publication `README.md`
+7. publication `TRANSLATION_PLAN.md`
+8. `translations/en/README.md`
+9. `translations/en/LEXICON.md`
+10. `translations/en/TRANSLATION_REVIEW.md`
 11. frozen Tamil `articles/01-section-01.md`
+12. English draft `translations/en/01-section-01.md`
 
-Before writing, fetch Section 1 fresh and confirm its blob remains exactly `e5517b7cc344554d51af4092599059d481039c1e`. A mismatch is a hard stop for source drift.
+Before review, re-fetch both Section 1 files and require exact matches to the Tamil and English blob SHAs above. A Tamil mismatch is a hard source-drift stop. If the English draft has legitimately advanced on live `main`, preserve the newer durable state and review that live version rather than rolling back.
 
 ## Permanent translation rules
 
@@ -80,25 +89,33 @@ Before writing, fetch Section 1 fresh and confirm its blob remains exactly `e551
 - Exact source `உடன்பிறப்பே` → `Udanpirappē`; direct salutation `Udanpirappē,` only where that exact source form occurs.
 - Do not import published English translations unless explicitly authorized.
 
-## Exact next activity — E1 / Section 1 T1
+## Exact next activity — E1 / Section 1 T2
 
-Create:
+Perform an **independent bilingual fidelity review** of Section 1.
 
-`publications/pesum-kalai-valarppom/translations/en/01-section-01.md`
+Compare frozen Tamil blob `e5517b7cc344554d51af4092599059d481039c1e` against English T1 blob `d36aec208ea15b970795a7717dd770d2d27251d8` sentence by sentence and clause by clause.
 
-as the complete **T1 close draft / voice-calibration article**.
+Check specifically:
 
-Requirements:
+1. no omitted Tamil sentence or clause;
+2. no added English claim;
+3. names and referents are correct;
+4. `1970`, numbers and source labels are correct;
+5. Bharathidasan and Valluvar quotations are complete and source-based;
+6. negatives, comparisons and logical connectors are preserved;
+7. deliberate repetition and rhetorical questions/exclamations remain;
+8. Hyde Park / `(HydePark)`, V. K. Krishna Menon and U.N. Assembly wording does not import outside claims;
+9. all six source-page boundary comments remain traceable;
+10. T1 provisional lexicon choices are checked where they materially affect fidelity.
 
-1. record `source_tamil_blob_sha: "e5517b7cc344554d51af4092599059d481039c1e"` in front matter;
-2. retain Tamil title metadata and numeric section identity;
-3. translate paragraph-by-paragraph against the frozen Tamil assembly;
-4. retain every source-page boundary comment in English form;
-5. preserve quotations, dates, numbers, logical connectors and rhetorical action;
-6. add genuinely needed Article 1 terminology decisions to `LEXICON.md` while translating;
-7. mark the English file `translation_status: "draft"` only;
-8. update the tracker and review ledger as **T1 complete / T2–T5 pending**;
-9. do **not** mark Section 1 verified until independent T2, T3, T4 and T5 reviews pass;
-10. do not change any frozen Tamil file.
+For every issue found, record old English → corrected English and the Tamil basis in `translations/en/TRANSLATION_REVIEW.md`. Update `LEXICON.md` only if a terminology decision changes.
 
-After T1, the next gate is **T2 bilingual fidelity review for Section 1**.
+If T2 passes after any corrections:
+
+- set Section 1 `translation_status: "fidelity-reviewed"`;
+- mark Section 1 T2 **PASS** in the English tracker/review ledger;
+- record the post-T2 English blob SHA;
+- keep T3/T4/T5 pending;
+- update root `HANDOVER.md` and this prompt to point to **Section 1 T3 Kalaignar voice review**.
+
+Do not modify frozen Tamil. Do not start Section 2 before Section 1 completes the calibration sequence.
