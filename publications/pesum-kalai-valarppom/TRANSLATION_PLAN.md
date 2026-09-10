@@ -56,7 +56,7 @@ Required controls:
 
 The source has only numbered sections. Do **not** invent descriptive English section titles.
 
-Section 1 T1 established the publication-title draft **Let Us Develop the Art of Speaking**. It is **provisional until T3 voice review** and must not be treated as release-frozen yet.
+Section 1 uses the publication-title draft **Let Us Develop the Art of Speaking**. It remains **provisional until T3 voice review** and must not be treated as release-frozen yet.
 
 ## Translation gates per section
 
@@ -78,7 +78,7 @@ Section 1 T1 established the publication-title draft **Let Us Develop the Art of
 
 ## Voice-calibration rule
 
-Section 1 is the first calibration unit. Its T1 draft is complete. It must now pass T2/T3/T4/T5 before translation accelerates across later sections. Decisions established there may seed the publication lexicon, but they must not be forced mechanically where later context differs.
+Section 1 is the first calibration unit. Its T1 draft and T2 bilingual fidelity review are complete. It must still pass T3/T4/T5 before translation accelerates across later sections. Decisions established there may seed the publication lexicon, but they must not be forced mechanically where later context differs.
 
 ## Current English state
 
@@ -86,11 +86,14 @@ Section 1 is the first calibration unit. Its T1 draft is complete. It must now p
 - T0 frozen-source prerequisites — **19/19 PASS**;
 - English body files — **1/19**;
 - T1 — **1/19**;
-- T2 / T3 / T4 / T5 — **0/19** at each gate;
+- T2 — **1/19**;
+- T3 / T4 / T5 — **0/19** at each gate;
 - Section 1 T1 English blob — **`d36aec208ea15b970795a7717dd770d2d27251d8`**;
+- Section 1 post-T2 English blob — **`d185b201c1113d99400d31579e773ae167cbb8a0`**;
+- Section 1 T2 corrections — **6**;
 - unresolved English blockers — **0**;
 - frozen Tamil changes during English work — **0**.
 
 ## Exact next activity
 
-**E1 — Section 1 / T2 bilingual fidelity review.** Compare frozen Tamil `articles/01-section-01.md` blob `e5517b7cc344554d51af4092599059d481039c1e` against English T1 blob `d36aec208ea15b970795a7717dd770d2d27251d8` sentence by sentence and clause by clause. Check omissions/additions, names, dates/numbers, quotations, negatives, comparisons, logical connectors, deliberate repetition, source-witness distinctions and all six page-boundary comments. Record every correction; do not start T3 until T2 passes.
+**E1 — Section 1 / T3 Kalaignar voice review.** Compare frozen Tamil `articles/01-section-01.md` blob `e5517b7cc344554d51af4092599059d481039c1e` against post-T2 English blob `d185b201c1113d99400d31579e773ae167cbb8a0`. Check directness, cadence, rhetorical questions, repeated structures, exclamations, imagery, polemical force, accidental smoothing and academic distancing. Reassess the provisional publication title and Section 1 lexical choices for voice. Record every correction transparently; do not start T4 until T3 passes.
