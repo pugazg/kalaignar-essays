@@ -14,10 +14,10 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - English article body files — **3/19**;
 - T1 close draft — **3/19**;
 - T2 bilingual fidelity — **3/19**;
-- T3 Kalaignar voice — **2/19**;
-- T4 terminology / quotation / citation — **2/19**;
-- T5 article verification — **2/19**;
-- verified English articles — **2/19**;
+- T3 Kalaignar voice — **3/19**;
+- T4 terminology / quotation / citation — **3/19**;
+- T5 article verification — **3/19**;
+- verified English articles — **3/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
@@ -29,7 +29,7 @@ Frozen baseline commit used for E0/T0: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d
 |---:|---|---|---|---|---|---|---|---|
 | 1 | `articles/01-section-01.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
 | 2 | `articles/02-section-02.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 3 | `articles/03-section-03.md` | **PASS** | **PASS** | **PASS** | — | — | — | **fidelity-reviewed** |
+| 3 | `articles/03-section-03.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
 | 4 | `articles/04-section-04.md` | **PASS** | — | — | — | — | — | not-started |
 | 5 | `articles/05-section-05.md` | **PASS** | — | — | — | — | — | not-started |
 | 6 | `articles/06-section-06.md` | **PASS** | — | — | — | — | — | not-started |
@@ -66,21 +66,21 @@ Frozen baseline commit used for E0/T0: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d
 - Section 2 T4-approved decisions — **15**;
 - T0–T5 — **COMPLETE / PASS**.
 
-## Section 3 — T2 COMPLETE / fidelity-reviewed
+## Section 3 — VERIFIED
 
 - frozen Tamil blob — **`21904dd457bb3455230de06421ff2d906ac4958d`**;
 - source span — scans **16–22 / printed pp.14–20**;
 - T1 English blob — `377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`;
-- post-T2 English blob — **`2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`**;
-- `translation_status` — **fidelity-reviewed**;
-- T2 — **PASS after 5 corrections**;
+- post-T2 English blob — `2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`;
+- post-T3 English blob — `00581593374a42a7f132fd3434684a52038b19d4`;
+- post-T4 English blob — `ac4f9e799b00952891fb8d5539449a6e8aaea9d5`;
+- final T5 verified English blob — **`3948fbf436875b39b3c9ca183c838f7b9139b742`**;
+- T2 / T3 / T4 corrections — **5 / 13 / 1**;
+- T5 body corrections — **0 / status-only**;
 - source-page comments — **7/7 retained**;
-- first old-style preamble’s source-missing closing quote — **preserved**;
-- Section 3 working lexicon/source decisions — **17, still provisional pending T3/T4**;
-- T3–T5 — **pending**;
-- unresolved T2 blockers — **0**.
-
-T2 restored `தோன்றி`, removed unsupported `here and there`, preserved `பரபரப்புடன்` as a fluster rather than mere speed, restored singular `கருத்து` in the Marx comparison, and retained all four `ஒரு சாதி` repetitions in the Brahma passage.
+- Section 3 T4-approved decisions — **17**;
+- unresolved Section 3 issues — **0**;
+- T0–T5 — **COMPLETE / PASS**.
 
 ## Binding repository rule
 
@@ -88,4 +88,4 @@ Exact source `உடன்பிறப்பே` → **`Udanpirappē`**; as dire
 
 ## Exact next activity
 
-**E1 — Section 3 / T3 Kalaignar voice review.** Re-fetch frozen Tamil blob **`21904dd457bb3455230de06421ff2d906ac4958d`** and post-T2 English blob **`2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`**. Review directness, emphatic constructions, cadence, humour, images, repeated phrases, quotations and the `மலிவு` anecdote without changing T2 meaning or manufacturing the source-missing quote. Record every correction transparently. Do not start T4 in the same activity.
+**E1 — Section 4 / T1 close draft.** Re-fetch frozen Tamil `../../articles/04-section-04.md` and require blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`**, scans **22–27 / printed pp.20–25**. Translate the complete numbered Section 4 paragraph by paragraph, preserve all source-page comments and rhetorical action, record new working decisions, and stop before Section 4 T2.
