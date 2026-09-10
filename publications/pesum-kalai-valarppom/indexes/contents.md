@@ -2,7 +2,7 @@
 
 ## Source status
 
-The supplied **82-scan eighth-edition witness contains no printed contents page**. This repository structural index is built only from source-visible numbered openings `1`–`19`; descriptive titles are not invented. Starts/ends are **19/19 / 19/19 directly verified**.
+The supplied **82-scan eighth-edition witness contains no printed contents page**. This structural index is built only from source-visible numbered openings `1`–`19`; descriptive titles are not invented. Starts/ends are **19/19 / 19/19 directly verified**.
 
 ## Canonical numbered-section map
 
@@ -35,59 +35,26 @@ The supplied **82-scan eighth-edition witness contains no printed contents page*
 - top-of-page openings: `7,42,45,48,59,64,75`;
 - sections 8→9, 9→10, 10→11, 13→14, 14→15 and 17→18 change across page boundaries.
 
-## P2 overlay — COMPLETE / PASS
+## P2 / P3 / P4 overlays
 
-- canonical page records / direct verification: **82 / 82**;
-- contiguous verified range: scans **1–82**;
-- printed coverage: **pp.1–80 COMPLETE**;
-- scan 74 directly closes section 17;
-- scan 75 directly opens source-visible section `18`; p.73 folio suppressed/inferred;
-- scan 79 directly preserves section `18→19` mid-page;
-- scan 82 closes section 19 and the source;
-- unresolved P2 source/structure blockers: **0**.
-
-## P3 overlay — COMPLETE / PASS
-
-- numbered-section assemblies: **19 / 19**;
-- numbering/order: **01–19 contiguous**;
-- main-work coverage: scans **7–82 / pp.5–80**;
-- missing / unexpected assemblies: **0 / 0**;
-- unexplained boundary gaps / overlaps: **0 / 0**;
-- shared transition scans are intentionally divided at the source-visible section numeral;
-- unresolved assembly body-text blocks: **0**.
-
-See [`../P3_ASSEMBLY_AUDIT.md`](../P3_ASSEMBLY_AUDIT.md).
-
-## P4 overlay — COMPLETE / PASS
-
-The complete source/page/assembly structure was reconciled after P3.
-
-- canonical physical-scan records: **82 / 82**, no missing or duplicate scan numbers;
-- numbered-section assemblies: **19 / 19 source-complete**;
-- this section map vs `page-map.md` / P3 audit / assembly front matter: **MATCH**;
-- shared-transition duplication / omission defects: **0**;
-- source-numbered start/end drift: **0**;
-- suppressed/inferred folio regressions: **0**;
-- scan 13 and scan 74 correction-propagation defects: **0**;
-- P4 structural/source corrections: **0**;
-- unresolved P4 blockers: **0**.
-
-Dedicated reconciliation: [`../P4_SOURCE_COMPLETENESS_REVIEW.md`](../P4_SOURCE_COMPLETENESS_REVIEW.md).
+- P2 canonical page records: **82/82 COMPLETE / PASS**;
+- P3 numbered-section assemblies: **19/19 COMPLETE / PASS**;
+- P4 source/completeness reconciliation: **COMPLETE / PASS**;
+- structural map drift / shared-transition defects / suppressed-folio regressions through P4: **0**.
 
 ## P5 overlay — IN PROGRESS
 
-- strict-reviewed scans: **1–20 / 20 of 82**;
-- reviewed printed span: outside pagination + pp.**1–18**;
-- corrections found / propagated: **5 / 5**;
+- strict-reviewed scans: **1–30 / 30 of 82**;
+- reviewed span: outside pagination + pp.**1–28**;
+- corrections found / propagated: **7 / 7**;
 - unresolved fidelity discrepancies in reviewed range: **0**;
-- P5 scan-4 source spelling: **`Kalaingnar`**;
-- P5 scan-7 quotation opening: **`“வெண்ணிலாவும்`**;
-- P5 scan-19 corrected source forms: **`அப்படி இருக்குமேயானால்`**, **`எப்படி பாலையும்`**, **`வைத்தால்,எப்படி எறும்பானது`**;
-- source-visible transitions scan **12 (1→2)** and scan **16 (2→3)**: **PASS**;
+- P5 source-visible transitions rechecked: **12 (1→2), 16 (2→3), 22 (3→4), 27 (4→5) — PASS**;
+- scan 24 corrected `எழுதி படிக்கும்` → `எழுதிப் படிக்கும்`;
+- scan 26 corrected `ஐயா` → source-visible `அய்யா`;
 - structural section map changed by P5: **No**.
 
 Running fidelity record: [`../VISUAL_TEXT_FIDELITY_REVIEW.md`](../VISUAL_TEXT_FIDELITY_REVIEW.md).
 
 ## Exact next activity
 
-**P5 scans 21–30 / printed pp.19–28.** Continue the direct strict visual pass, with special attention to scan 22 section `3→4` and scan 27 section `4→5`; record and propagate every confirmed source-visible correction before the next batch.
+**P5 scans 31–40 / printed pp.29–38.** Continue the direct strict visual pass, with special attention to scan **31 (5→6)**, scan **34 (6→7)** and scan **38 (7→8)**; record and propagate every confirmed source-visible correction before the next batch.
