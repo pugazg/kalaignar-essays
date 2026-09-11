@@ -8,7 +8,7 @@ source_tamil_blob_sha: "97dd9dc2f5ae10828ff68095ca87dd2cb484e745"
 source_scan_pages: "55-58"
 source_printed_pages: "53-56"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -18,7 +18,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 A speaker must take great care that his speech is not merely one meant to show the other speakers or leaders seated on the stage how many things he knows, but one that is useful to the hundreds or thousands of people seated before him. If matters or references known only to him, or to those like him who have read many books, are to be made known to the people as well, the place must suit them—and the subject taken up must suit that place.
 
-Suppose it is a meeting at which one must speak in support of the demand for State autonomy. A speaker may wish to explain, with evidence and dates, how many powers under the Constitution are in the Union List, how many in the State List, how many in the Concurrent List; under which provision the Union government can<!-- Tamil source: scan 56 / printed 54 --> bring down a State government; how Ambedkar himself, one of the scholars who framed the Constitution, expressed the view that it should be subjected to fundamental change; the report submitted by the Rajamannar Committee after examining State autonomy; how, during D.M.K. rule, that report was considered and a State-autonomy resolution passed in the Legislative Assembly itself; and how Pandit Nehru stressed that the States should possess an autonomous character. Even if such a speaker is standing on a platform in Chennai, he must remember which part of Chennai he is speaking in.
+Suppose it is a meeting at which one must speak in support of the demand for State autonomy. A speaker may wish to explain, with evidence and dates, how many powers under the Constitution are in the Union List, how many in the State List, how many in the Concurrent List; under which provision the Union government can<!-- Tamil source: scan 56 / printed 54 --> bring down a State government; how Ambedkar himself, one of the scholars who framed the Constitution, expressed the view that the Constitution should be turned upside down and changed; the report submitted by the Rajamannar Committee after examining State autonomy; how, during D.M.K. rule, that report was considered and a State-autonomy resolution passed in the Legislative Assembly itself; and how Pandit Nehru stressed that the States should possess an autonomous character. Even if such a speaker is standing on a platform in Chennai, he must remember which part of Chennai he is speaking in.
 
 It is not possible to use in every part of Chennai the same chain of evidence one might present on State autonomy at the Mylapore Maangollai or Anna Nagar Shanthi Colony, or the same flood of statistics one might pour out in Purasai Vellalar Street.
 
@@ -34,13 +34,13 @@ A person occupying an important position once spoke in an assembly filled with i
 
 He held a very high office; so the elder who interrupted fell silent.
 
-Do you know the truth? Emden was the name of a ship! A German ship! During the First World War, in 1914, bombs were fired from that ship at Chennai. The event is inscribed on a stone that is still kept within the compound of the Madras High Court. The man who said he was seven when that bomb fell was born in 1917!
+Do you know the truth? Emden was the name of a ship! A German ship! During the First World War, in 1914, bombs were fired from that ship at Chennai. The event is inscribed on a stone that is still kept within the compound of the Chennai High Court. The man who said he was seven when that bomb fell was born in 1917!
 
 After all, the man held high office! What could be done? Somehow, by a clever manoeuvre, they had that speech removed from the assembly record.
 
 Take me myself. Suppose I am invited to a medical college Students' Council.<!-- Tamil source: scan 58 / printed 56 --> If I go there and speak on literature, the state of the country, or some such general subject, I can expect a welcome. But if, trying to show myself as one who knows everything, I interfere like a supreme genius in matters I do not know—how surgery should be performed for heart disease, what treatment should be given to a person lying unconscious after a head injury in an accident—and deliver a speech on all this, what would the result be?
 
-As I write this article, a half-hearted prohibition policy is in force in Tamil Nadu. Even so, a “liquor permit” is being given to everyone for one rupee. At this very time, at a government function in Kanchipuram, our Chief Minister M. G. Ramachandran announces a piece of news:
+As I write this article, a partial prohibition policy is in force in Tamil Nadu. Even so, a “liquor permit” is being given to everyone for one rupee. At this very time, at a government function in Kanchipuram, our Chief Minister M. G. Ramachandran announces a piece of news:
 
 “Two days ago I received a telephone message from a police station. They said a man had been arrested because he had drunk, and that someone had come to bail him out. I ordered that if anyone came to bail out the drunkard, he too should be arrested. That is this Ramachandran.”
 
