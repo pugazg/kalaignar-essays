@@ -1,10 +1,11 @@
-# Page Map — ஆறு மாதக் கடுங்காவல்
+# Page Map — ஆறுமாதக் கடுங்காவல்
 
-Controlling source: `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`  
-Physical scans: **150**  
-Current gate: **P0 IN PROGRESS / P1 NOT STARTED**
+Controlling publication: **`ஆறுமாதக் கடுங்காவல்`**  
+Authoritative complete extent: **224 physical PDF pages**  
+Currently accessible attachment: **150 / 224 pages**  
+Current gate: **P0 IN PROGRESS / P1 BLOCKED ON COMPLETE SOURCE**
 
-## P0-confirmed opening map
+## P0-confirmed opening map from accessible scans
 
 | Physical scan | P0 observation | Printed pagination |
 |---:|---|---|
@@ -17,32 +18,38 @@ Current gate: **P0 IN PROGRESS / P1 NOT STARTED**
 | 7 | dedication continuation / signature | to establish in P1 |
 | 8 | illustrated `முரசு` page | to establish in P1 |
 | 9 | near-blank reverse / show-through | to establish in P1 |
-| 10 | main chronological narrative begins | likely source pagination visible/derivable; verify in P1 |
+| 10 | chronological narrative begins | verify in P1 |
 
 No pagination formula is canonical yet.
 
+## Source-access boundary
+
+- scans **1–150** — currently accessible;
+- scans **151–224** — **not currently accessible in the attached payload**;
+- therefore a canonical P1 map cannot yet be completed.
+
+Do not infer scans 151–224 from pagination, memory, catalogue descriptions or another edition.
+
 ## P1 requirements
 
-P1 must inspect **all 150 scans** and record:
+Once the complete 224-page source is accessible, inspect **all scans 1–224** and record:
 
-- printed page number for every scan where present;
-- suppressed/inferred folios separately from source-visible folios;
+- printed page number where visible;
+- suppressed/inferred folios separately;
 - page type for every physical scan;
 - blank/reverse/show-through pages;
-- title/imprint/dedication/front matter boundaries;
-- every date/place/topic heading and internal unit boundary;
+- front-matter boundaries;
+- every date/place/topic heading and internal boundary;
 - cross-page continuations;
 - illustrations and physical-copy marks;
 - final source boundary;
-- whether a contents/index page exists;
-- any pagination discontinuity.
-
-Do not infer later boundaries merely from early pagination.
+- contents/index presence;
+- pagination discontinuities.
 
 ## Historical glyph overlay
 
-P1 is structural only, but representative pages should be sampled to confirm historical type behaviour before P2. P2 and P5 must follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+P1 is structural. P2 and P5 must follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` and visually audit the historical glyph families page by page.
 
 ## Exact next activity
 
-After the source SHA-256 is recorded and P0 closes, map scans **1–150** completely for P1. Bulk Tamil transcription remains blocked until that map is complete.
+Obtain/access scans **151–224** as part of the complete PDF, then close P0 and map the full **1–224** source. Bulk Tamil transcription remains blocked until P1 completes.
