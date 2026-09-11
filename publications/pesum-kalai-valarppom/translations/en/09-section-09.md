@@ -8,7 +8,7 @@ source_tamil_blob_sha: "d0e18d25b0e3ae4a8585d8fa117d07f118dabf5c"
 source_scan_pages: "42-44"
 source_printed_pages: "40-42"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -38,8 +38,8 @@ The Fifth World Tamil Conference was conducted in Madurai by the A.D.M.K. govern
 
 That act caused a great shock in the hearts of the people of Tamil Nadu.
 
-At that time my tour programmes had been arranged in the Thanjavur, Trichy and Pudukkottai districts. During those programmes, I named many of the baby boys brought to me on stages for naming “Rajarajan.” Immediately the crowds shouted, “Long live Rajarajan!” If even in naming a child one must learn to understand the feelings of the people and echo the sound of their hearts, is it not indispensable to develop the art of speaking so as to draw the people's attention to the many problems in the country?
+At that time my tour programmes had been arranged in the Thanjai, Trichy and Pudukkottai districts. During those programmes, I named many of the baby boys brought to me on stages for naming “Rajarajan.” Immediately the crowds shouted, “Long live Rajarajan!” If even in naming a child one must learn to understand the feelings of the people and echo the sound of their hearts, is it not indispensable to develop the art of speaking so as to draw the people's attention to the many problems in the country?
 
-The Chennai Tamil of “Eesthukinu po!”, the Nellai Tamil of “Ele! Vaale!”, the Thanjavur Tamil of “Andhaande! Indhaande!”, the North Arcot Tamil of “Keeriya? Ennappa paper geetha?”—Tamil changes in this way from district to district. But when those who speak such Tamil climb onto a stage, if they are good speakers, whatever district they belong to they will speak grammatical Tamil suited to the stage!
+The Chennai Tamil of “Eesthukinu po!”, the Nellai Tamil of “Ele! Vaale!”, the Thanjai Tamil of “Andhaande! Indhaande!”, the North Arcot Tamil of “Keeriya? Ennappa paper geetha?”—Tamil changes in this way from district to district. But when those who speak such Tamil climb onto a stage, if they are good speakers, whatever district they belong to they will speak grammatical Tamil suited to the stage!
 
 The speaking platform has that much power! If any speaker disregards that power and uses on stage only the colloquial expressions he habitually uses, he will not find a place in the list of good speakers. His speech will be accepted only to the extent that he has conveyed the idea that had to be conveyed at that meeting. But he will not be accepted as a speaker.
