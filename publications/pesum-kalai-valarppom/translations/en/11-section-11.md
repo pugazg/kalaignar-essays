@@ -8,7 +8,7 @@ source_tamil_blob_sha: "427a9ef35cd8ff1ffd873d5d2c9afccdcb7b2375"
 source_scan_pages: "48-51"
 source_printed_pages: "46-49"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -20,7 +20,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 Professor A. Ki. Paranthamanar would put it beautifully in this way.
 
-“Speech is an art; it possesses immense power; it has the strength to perform the three great functions. It is knowledge that turns speech into art. Platform speech enriches the country; refines the voter; reforms the Legislature; creates good government.”
+“Speech is an art; it possesses immense power; it has the strength to perform a threefold function. It is knowledge that turns speech into art. Platform speech enriches the country; refines the voter; reforms the Legislature; creates good government.”
 
 Thus poured forth Tamil-thendral Thiru. Vi. Ka.
 
@@ -36,7 +36,7 @@ Even someone who has acquired a fair degree of speaking ability may, in haste an
 
 Many years ago a D.M.K. district conference was held in Nagercoil. Today's D.M.K. Deputy General Secretary Nanjilar and my friend John took the lead in conducting that conference. A speaker from Thanjai district spoke there. He is no longer in the Kazhagam now. I hear he is in another party.
 
-To illustrate the poverty prevailing in the country, he used to collect and recount many incidents. At many meetings he had spoken, in exactly the sentence structure I have written here, of “eight respected comrades from Dindigul who died after eating aloe roots.” But at the Nagercoil conference that day he said, “Eight comrades from Dindigul died after eating respected aloe roots.” The word “respected” had shifted from the comrades<!-- Tamil source: scan 50 / printed 48 --> to the aloe roots! The consequence of speaking in haste!
+To illustrate the poverty prevailing in the country, he used to collect and recount many incidents. At many meetings he had spoken, in exactly the sentence structure I have written here, of “eight respected comrades from Dindigul who died after eating kathaalai tubers.” But at the Nagercoil conference that day he said, “Eight comrades from Dindigul died after eating respected kathaalai tubers.” The word “respected” had shifted from the comrades<!-- Tamil source: scan 50 / printed 48 --> to the kathaalai tubers! The consequence of speaking in haste!
 
 Another speaker at the same conference! A man with poetic flair! Thinking he was mocking a literary speaker from the Congress Party, he himself became the object of ridicule at that meeting.
 
