@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 1–5
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 6–10
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -14,36 +14,28 @@ Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover
   - raw file size — **282020019 bytes**
   - SHA-256 — **PENDING**
   - user-reported complete extent — **224 pages**
-  - supplied artifact exposed for archival work — **150 pages**
+  - supplied artifact — **150 pages**
   - source-completeness discrepancy — **OPEN**
 - P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P1 map — **150/150 structurally inspected**
-- P2–P5 — **NOT STARTED**
+- P2 — **IN PROGRESS — 5/150 canonical records**
+  - verified — **3**
+  - needs-review — **2**
+- P3–P5 — **NOT STARTED**
 - English — **BLOCKED**
 
-P1 authority:
+## Completed P2 batch 001
 
-`publications/aaru-maatha-kadungkaaval/P1_SOURCE_STRUCTURE_REVIEW.md`
+- scan 1 — `pages/0001-physical-copy-mark.md` — verified
+- scan 2 — `pages/0002-title-page.md` — verified
+- scan 3 — `pages/0003-imprint.md` — needs-review
+- scan 4 — `pages/0004-publisher-note.md` — needs-review
+- scan 5 — `pages/0005-blank-reverse.md` — verified
 
-## Supplied-artifact P1 structure
+Open holds:
+- scan 3 — unresolved small imprint/printer text;
+- scan 4 — exact publisher-note transcription.
 
-- 1 — physical-copy mark
-- 2 — title page
-- 3 — imprint / first-edition page
-- 4 — publisher note
-- 5 — blank/reverse
-- 6–7 — `காணிக்கை`
-- 8 — illustrated `முரசு` page
-- 9 — blank/reverse
-- 10–66 — main text
-- 67 — blank/reverse
-- 68–106 — main text
-- 107 — blank/reverse
-- 108 — intertitle/transition
-- 109 — blank/reverse
-- 110–150 — main text
-
-Scan 150 is the end of the supplied artifact only; do not call it proven publication end.
+Do not guess these holds and do not treat them as resolved merely because later pages are processed.
 
 ## Mandatory startup
 
@@ -60,26 +52,29 @@ Read completely:
 9. `P1_SOURCE_STRUCTURE_REVIEW.md`
 10. `audit.md`
 
-## Exact next activity — P2 scans 1–5
+## Exact next activity — P2 scans 6–10
 
-Process **exactly scans 1–5 as one batch**.
+Process **exactly scans 6–10 as one batch**.
 
-For each scan:
+Expected P1 roles:
+- scans 6–7 — `காணிக்கை` dedication;
+- scan 8 — illustrated `முரசு` front-matter page;
+- scan 9 — blank/reverse;
+- scan 10 — main text begins.
 
-- visually inspect the whole page;
-- create one canonical Markdown page record;
-- preserve printed text exactly;
-- keep physical-copy marks in a separate layer;
-- record visible printed folio only; suppressed folio = null;
-- apply historical-glyph decoding where Tamil text appears;
-- do not normalize spelling/punctuation/spacing;
-- unresolved reading -> `needs-review`, never guess.
+For every text-bearing page:
+- visually transcribe the whole page;
+- preserve source spelling, punctuation, paragraphing and meaningful spacing;
+- apply the historical-glyph family checks;
+- record visible printed folio only;
+- separate non-print marks;
+- never fill uncertainty from context.
 
-After the five scans:
+After scans 6–10:
 - synchronize controls;
 - commit immediately;
-- report correction/hold counts;
-- set next batch to **scans 6–10**;
-- stop before scan 6 unless explicitly asked to continue.
+- report verified/needs-review/hold counts;
+- set next batch to **scans 11–15**;
+- stop before scan 11 unless explicitly asked to continue.
 
-Do not resolve the open 150-vs-224 publication completeness discrepancy by inference.
+P0 source-completeness discrepancy remains open.
