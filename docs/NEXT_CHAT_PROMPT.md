@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / physical PDF inspection
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 1–5
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -8,40 +8,78 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover. Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-## User-confirmed source metadata
-
-- title — **`ஆறுமாதக் கடுங்காவல்`**
-- author — **`கலைஞர் மு. கருணாநிதி`**
-- publisher — **`திராவிடப் பண்ணை`**
-- edition — **`முதல் பதிப்பு, 1953`**
-- expected physical PDF extent — **224 pages**
-
-## Hard method rule
-
-**Do not use the attachment preview/parser as source authority.**
-
-The earlier preview-derived 150-page/P1 claims were withdrawn.
-
-The next source-dependent activity must inspect the **actual uploaded PDF bytes / physical PDF structure**.
-
-## Current state
+## Durable state
 
 - P0 — **IN PROGRESS**
-- direct physical page count — **PENDING**
-- raw-file byte size — **282020019 bytes — CONFIRMED**
-- SHA-256 — **PENDING**
-- P1 — **NOT STARTED**
+  - raw file size — **282020019 bytes**
+  - SHA-256 — **PENDING**
+  - user-reported complete extent — **224 pages**
+  - supplied artifact exposed for archival work — **150 pages**
+  - source-completeness discrepancy — **OPEN**
+- P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
+- P1 map — **150/150 structurally inspected**
 - P2–P5 — **NOT STARTED**
 - English — **BLOCKED**
 
-## Exact next activity
+P1 authority:
 
-1. open the physically mounted/uploaded PDF file;
-2. determine its structural PDF page count directly;
-3. compute SHA-256; raw-file size is already confirmed as **282020019 bytes**;
-4. reconcile against the expected **224 pages**;
-5. close P0 if clean;
-6. then perform canonical P1 across the complete physical PDF;
-7. do not begin P2 until P1 completes.
+`publications/aaru-maatha-kadungkaaval/P1_SOURCE_STRUCTURE_REVIEW.md`
 
-If direct physical-file access is unavailable, stop and report that tooling limitation. Do **not** fall back to preview-derived page counts or structure.
+## Supplied-artifact P1 structure
+
+- 1 — physical-copy mark
+- 2 — title page
+- 3 — imprint / first-edition page
+- 4 — publisher note
+- 5 — blank/reverse
+- 6–7 — `காணிக்கை`
+- 8 — illustrated `முரசு` page
+- 9 — blank/reverse
+- 10–66 — main text
+- 67 — blank/reverse
+- 68–106 — main text
+- 107 — blank/reverse
+- 108 — intertitle/transition
+- 109 — blank/reverse
+- 110–150 — main text
+
+Scan 150 is the end of the supplied artifact only; do not call it proven publication end.
+
+## Mandatory startup
+
+Read completely:
+
+1. `ESSAY_PROCESSING_GUIDE.md`
+2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+3. `docs/FUTURE_WORK_GUIDELINES.md`
+4. root `HANDOVER.md`
+5. this prompt
+6. publication `README.md`
+7. `metadata/source.md`
+8. `indexes/page-map.md`
+9. `P1_SOURCE_STRUCTURE_REVIEW.md`
+10. `audit.md`
+
+## Exact next activity — P2 scans 1–5
+
+Process **exactly scans 1–5 as one batch**.
+
+For each scan:
+
+- visually inspect the whole page;
+- create one canonical Markdown page record;
+- preserve printed text exactly;
+- keep physical-copy marks in a separate layer;
+- record visible printed folio only; suppressed folio = null;
+- apply historical-glyph decoding where Tamil text appears;
+- do not normalize spelling/punctuation/spacing;
+- unresolved reading -> `needs-review`, never guess.
+
+After the five scans:
+- synchronize controls;
+- commit immediately;
+- report correction/hold counts;
+- set next batch to **scans 6–10**;
+- stop before scan 6 unless explicitly asked to continue.
+
+Do not resolve the open 150-vs-224 publication completeness discrepancy by inference.
