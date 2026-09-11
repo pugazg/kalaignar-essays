@@ -105,20 +105,34 @@ T0 source prerequisite → T1 close draft → T2 bilingual fidelity → T3 Kalai
 - unresolved Section 4 issues — **0**;
 - T0–T5 — **COMPLETE / PASS**.
 
+## Sections 5–9 — COMPLETE / VERIFIED
+
+- Section 5 final verified English blob — **`be408840f6e92913a003831b0ce6d4469ce7c52a`**;
+- Section 6 final verified English blob — **`80c33bcbbcb755d75e0f2fb467eca16e67e3264c`**;
+- Section 7 final verified English blob — **`bff09511f02948f1bc8bc5739425fdde29a27b98`**;
+- Section 8 final verified English blob — **`2bdca622cf08295f3a41309168098d5c4459aebb`**;
+- Section 9 final verified English blob — **`7ef1627c25b1f040270c9cbe11a989ee17fa9eef`**;
+- T2 correction families — **2 / 3 / 3 / 4 / 1**;
+- T3 voice corrections — **6 / 6 / 5 / 5 / 5**;
+- T4 body corrections — **0 / 0 / 1 / 0 / 0**;
+- T5 body corrections — **0 for all five**;
+- unresolved issues — **0**;
+- frozen Tamil changes — **0**.
+
 ## Current English state
 
 - E0 — **COMPLETE / PASS**;
 - T0 — **19/19 PASS**;
-- English body files — **4/19**;
-- T1 — **4/19**;
-- T2 — **4/19**;
-- T3 — **4/19**;
-- T4 — **4/19**;
-- T5 — **4/19**;
-- verified English articles — **4/19**;
+- English body files — **9/19**;
+- T1 — **9/19**;
+- T2 — **9/19**;
+- T3 — **9/19**;
+- T4 — **9/19**;
+- T5 — **9/19**;
+- verified English articles — **9/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil changes during English work — **0**.
 
 ## Exact next activity
 
-**E1 — Section 5 / T1 close draft.** Re-fetch frozen Tamil `articles/05-section-05.md` blob **`7fbb055e1f7f2630d39f5a3e203de5e2547b93b9`**, scans **27–31 / printed pp.25–29**, translate the complete numbered Section 5 from that authority, synchronize controls, and stop before T2.
+**E1 — Section 10 / T1 close draft.** Re-fetch frozen Tamil `articles/10-section-10.md` blob **`32dd5cf5bf4ec73e9c0cdb4c0f1eeead2f3a7055`**, scans **45–47 / printed pp.43–45**, translate the complete numbered Section 10 from that authority, synchronize controls, and stop before T2.
