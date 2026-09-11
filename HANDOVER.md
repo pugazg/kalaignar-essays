@@ -10,7 +10,7 @@ This is the **single authoritative project handover**.
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 IN PROGRESS; P1 PASS for supplied artifact; P2 IN PROGRESS 15/150**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 IN PROGRESS; P1 PASS for supplied artifact; P2 IN PROGRESS 20/150**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -49,7 +49,7 @@ For this publication, source-dependent archival claims must come from direct ins
 - supplied artifact available to this workflow — **150 pages**
 - source-completeness discrepancy — **OPEN**
 - P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 — **IN PROGRESS — 15/150 records; 13 verified / 2 needs-review**
+- P2 — **IN PROGRESS — 20/150 records; 17 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -146,25 +146,54 @@ Batch 003 result:
 - historical-glyph corrections — **1** (scan 13: `பொற்சுரங்கமென்டாளோ` → `பொற்சுரங்கமென்றாளோ`, historical `றா`)
 - new printed-text holds — **0**
 
+## P2 batch 004 — scans 16–20
+
+Completed from the attached PDF only:
+
+- scan 16 — `pages/0016-murasu.md` — **verified** — repeated printed folio 13 / second source witness of scan 14 text
+- scan 17 — `pages/0017-murasu.md` — **verified** — repeated printed folio 14 / second source witness of scan 15 text
+- scan 18 — `pages/0018-murasu.md` — **needs-review** — one physically obscured cluster after `ஒருவராக ஆ`
+- scan 19 — `pages/0019-murasu.md` — **verified**
+- scan 20 — `pages/0020-murasu.md` — **verified**
+
+New source-artifact finding:
+
+- physical scans **16–17 repeat printed folios 13–14**;
+- scan **18 resumes printed folio 15** and the textual continuation after scan 15;
+- scan 15 boundary metadata was corrected to record this duplicate-page insertion;
+- no physical scan was deduplicated or dropped.
+
+Batch 004 result:
+
+- records created — **5/5**
+- verified — **4**
+- needs-review — **1**
+- new printed-text holds — **1**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 1**; scan 20 includes a positively decoded historical `னா` occurrence in `பொன்னாக்கிவிட்டது`.
+
 Durable P2 totals:
 
-- canonical page records — **15/150**
-- verified — **13**
-- needs-review — **2**
+- canonical page records — **20/150**
+- verified — **17**
+- needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **1**
-- open printed-text holds — **2**, unchanged from scans 3–4.
+- open printed-text holds — **3**:
+  - scan 3 small imprint/printer text;
+  - scan 4 exact publisher-note transcription;
+  - scan 18 one physically obscured cluster after `ஒருவராக ஆ`.
 
 P0 SHA-256 / 224-page source-completeness discrepancy remains open and must not be silently resolved.
 
 ## Exact next activity
 
-**P2 scans 16–20.**
+**P2 scans 21–25.**
 
-Process exactly scans 16–20 as one batch, continue direct source transcription and historical-glyph checks, synchronize controls, commit immediately after the five-page batch, then set the next boundary from live source/repository state.
+Process exactly scans 21–25 as one batch, continue direct source transcription and historical-glyph checks, preserve the scan 18 source hold, synchronize controls, commit immediately after the five-page batch, then set the next boundary from live source/repository state.
 
-Do not reopen scans 1–15 except for the already documented targeted holds on scans 3–4.
+Do not reopen earlier pages unless genuinely new source evidence affects them.
 
 ---
 

@@ -7,7 +7,7 @@ Current gate:
 - P0 — **IN PROGRESS / SHA-256 and complete-source extent unresolved**
 - P1 — **COMPLETE / PASS FOR SUPPLIED PDF ARTIFACT**
 - mapped physical pages — **150 / 150**
-- P2 — **IN PROGRESS — 15/150 canonical records**
+- P2 — **IN PROGRESS — 20/150 canonical records**
 
 Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVIEW.md)
 
@@ -59,20 +59,38 @@ Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVI
 | 13 | `../pages/0013-murasu.md` | verified |
 | 14 | `../pages/0014-murasu.md` | verified |
 | 15 | `../pages/0015-murasu.md` | verified |
+| 16 | `../pages/0016-murasu.md` | verified |
+| 17 | `../pages/0017-murasu.md` | verified |
+| 18 | `../pages/0018-murasu.md` | needs-review |
+| 19 | `../pages/0019-murasu.md` | verified |
+| 20 | `../pages/0020-murasu.md` | verified |
 
-Current P2 coverage: **15/150** canonical records.
+Current P2 coverage: **20/150** canonical records.
 
 Current totals:
 
-- verified — **13**
-- needs-review — **2**
+- verified — **17**
+- needs-review — **3**
 - blocked — **0**
 
 Open holds:
 
 - scan 3 — small imprint/printer text;
-- scan 4 — full publisher-note transcription.
+- scan 4 — full publisher-note transcription;
+- scan 18 — one physically obscured cluster after `ஒருவராக ஆ`.
+
+## P2 printed-folio anomaly
+
+Direct source review established:
+
+- scan 14 — printed 13;
+- scan 15 — printed 14;
+- scan 16 — printed 13 again;
+- scan 17 — printed 14 again;
+- scan 18 — printed 15.
+
+Scans 16–17 are retained as independent physical page records rather than deduplicated.
 
 ## Exact next activity
 
-**P2 scans 16–20.**
+**P2 scans 21–25.**

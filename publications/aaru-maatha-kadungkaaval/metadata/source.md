@@ -62,7 +62,7 @@ This is glyph decoding, not spelling modernization.
 - SHA-256 verification — **PENDING**
 - P0 — **IN PROGRESS**
 - P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 — **IN PROGRESS — 15/150 canonical records; 13 verified / 2 needs-review**
+- P2 — **IN PROGRESS — 20/150 canonical records; 17 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -77,16 +77,28 @@ The supplied artifact was structurally inspected **150/150 pages** and passed P1
 
 This does not resolve the separate user-reported **224-page** publication extent.
 
-## P2 source use through scan 15
+## P2 source use through scan 20
 
-Canonical records now exist for scans **1–15**.
+Canonical records now exist for scans **1–20**.
 
-- verified — **13**
-- needs-review — **2**
-- open printed-text holds — **2**, both inherited from scans 3–4
+New direct-source anomaly:
+
+- scans **16–17** repeat printed folios **13–14**, respectively, as second physical witnesses of the text at scans 14–15;
+- scan **18** resumes printed folio **15** and the continuation after scan 15;
+- the artifact is therefore not treated as a simple one-scan/one-folio sequence in this region;
+- all physical scans are retained individually.
+
+Current totals:
+
+- verified — **17**
+- needs-review — **3**
+- open printed-text holds — **3**
+  - scan 3 small imprint/printer text;
+  - scan 4 exact publisher-note transcription;
+  - scan 18 one physically obscured cluster after `ஒருவராக ஆ`;
 - guessed readings — **0**
 - historical-glyph corrections — **1** (scan 13: historical `றா` source identity decoded as `பொற்சுரங்கமென்றாளோ`)
 
 ## Exact next activity
 
-**P2 scans 16–20** against the supplied artifact. Keep the P0 source-completeness discrepancy and scan 3–4 holds open.
+**P2 scans 21–25** against the supplied artifact. Keep the P0 source-completeness discrepancy and scans 3–4 / 18 holds open.

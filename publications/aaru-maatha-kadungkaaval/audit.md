@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **IN PROGRESS — SHA-256 / publication-level source extent unresolved** |
 | P1 | **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT** |
-| P2 | **IN PROGRESS — 15/150 records; 13 verified / 2 needs-review** |
+| P2 | **IN PROGRESS — 20/150 records; 17 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -96,18 +96,46 @@ Batch 003 totals:
   - scan 13: apparent `பொற்சுரங்கமென்டாளோ` → source-supported Unicode `பொற்சுரங்கமென்றாளோ` (`றா` family)
 - new unresolved printed-text holds — **0**
 
-## P2 cumulative totals through scan 15
+## P2 batch 004 — scans 16–20
 
-- canonical page records — **15/150**
-- verified — **13**
-- needs-review — **2**
+| Scan | Printed folio | Record | Status | Open issue |
+|---:|:---:|---|---|---|
+| 16 | 13 | `0016-murasu.md` | verified | repeated printed-page witness of scan 14 |
+| 17 | 14 | `0017-murasu.md` | verified | repeated printed-page witness of scan 15 |
+| 18 | 15 | `0018-murasu.md` | needs-review | physical obstruction hides one cluster after `ஒருவராக ஆ` |
+| 19 | 16 | `0019-murasu.md` | verified | none |
+| 20 | 17 | `0020-murasu.md` | verified | none |
+
+Batch 004 totals:
+
+- records — **5/5**
+- verified — **4**
+- needs-review — **1**
+- blocked — **0**
+- guessed readings — **0**
+- new unresolved printed-text holds — **1**
+- historical-glyph correction count — **unchanged at 1**
+
+Source-artifact anomaly:
+
+- scans 16–17 repeat printed folios/text 13–14;
+- scan 18 resumes printed folio 15 and the narrative continuation;
+- scan 15 boundary metadata was corrected accordingly;
+- physical scans were not deduplicated.
+
+## P2 cumulative totals through scan 20
+
+- canonical page records — **20/150**
+- verified — **17**
+- needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **1**
-- unresolved printed-text holds — **2**, both inherited:
+- unresolved printed-text holds — **3**:
   - scan 3 small imprint/printer text;
-  - scan 4 exact publisher-note transcription.
+  - scan 4 exact publisher-note transcription;
+  - scan 18 one physically obscured cluster after `ஒருவராக ஆ`.
 
 ## Exact next activity
 
-**P2 scans 16–20.** Keep scans 3–4 open for a later targeted high-resolution re-read; do not normalize or guess them.
+**P2 scans 21–25.** Keep scans 3–4 and scan 18 open; do not normalize or guess them.

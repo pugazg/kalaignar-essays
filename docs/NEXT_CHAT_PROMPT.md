@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 16–20
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 21–25
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -17,46 +17,35 @@ Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover
   - supplied artifact — **150 pages**
   - source-completeness discrepancy — **OPEN**
 - P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 — **IN PROGRESS — 15/150 canonical records**
-  - verified — **13**
-  - needs-review — **2**
+- P2 — **IN PROGRESS — 20/150 canonical records**
+  - verified — **17**
+  - needs-review — **3**
   - blocked — **0**
-  - historical-glyph corrections — **1** (scan 13: `பொற்சுரங்கமென்டாளோ` → `பொற்சுரங்கமென்றாளோ`, historical `றா`)
+  - historical-glyph corrections — **1**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED**
 
-## Completed P2 batches
+## Source authority
 
-Batch 001, scans 1–5:
+Use the attached `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf` only for source transcription. Do not consult Tamil Digital Library, Wikisource, OCR text, alternate editions, or web copies unless the user explicitly asks.
 
-- scan 1 — `pages/0001-physical-copy-mark.md` — verified
-- scan 2 — `pages/0002-title-page.md` — verified
-- scan 3 — `pages/0003-imprint.md` — needs-review
-- scan 4 — `pages/0004-publisher-note.md` — needs-review
-- scan 5 — `pages/0005-blank-reverse.md` — verified
+## P2 batch 004 finding
 
-Batch 002, scans 6–10:
+Scans 16–20 were processed.
 
-- scan 6 — `pages/0006-dedication-1.md` — verified
-- scan 7 — `pages/0007-dedication-2.md` — verified
-- scan 8 — `pages/0008-murasu-illustration.md` — verified
-- scan 9 — `pages/0009-blank-reverse.md` — verified
-- scan 10 — `pages/0010-murasu.md` — verified
+- scan 16 — printed 13 — verified — repeated source witness of scan 14 text
+- scan 17 — printed 14 — verified — repeated source witness of scan 15 text
+- scan 18 — printed 15 — needs-review — one source-visible white physical obstruction hides a cluster after `ஒருவராக ஆ`; canonical text uses `ஆ[…]விடக்கூடிய` and does not guess the hidden letters
+- scan 19 — printed 16 — verified
+- scan 20 — printed 17 — verified
 
-Batch 003, scans 11–15:
+The attached PDF physically repeats printed folios 13–14 at scans 16–17. Scan 18 resumes folio 15. Keep every physical scan as its own record.
 
-- scan 11 — `pages/0011-murasu.md` — verified
-- scan 12 — `pages/0012-murasu.md` — verified
-- scan 13 — `pages/0013-murasu.md` — verified
-- scan 14 — `pages/0014-murasu.md` — verified
-- scan 15 — `pages/0015-murasu.md` — verified
-
-Open holds remain unchanged:
+Open holds:
 
 - scan 3 — unresolved small imprint/printer text;
-- scan 4 — exact publisher-note transcription.
-
-Do not guess these holds and do not treat them as resolved merely because later pages are processed.
+- scan 4 — exact publisher-note transcription;
+- scan 18 — physically obscured cluster after `ஒருவராக ஆ`.
 
 ## Mandatory startup
 
@@ -73,9 +62,9 @@ Read completely:
 9. `P1_SOURCE_STRUCTURE_REVIEW.md`
 10. `audit.md`
 
-## Exact next activity — P2 scans 16–20
+## Exact next activity — P2 scans 21–25
 
-Process **exactly scans 16–20 as one batch**.
+Process **exactly scans 21–25 as one batch** from the attached PDF.
 
 For every text-bearing page:
 
@@ -86,12 +75,12 @@ For every text-bearing page:
 - separate non-print marks;
 - never fill uncertainty from context.
 
-After scans 16–20:
+After scans 21–25:
 
 - synchronize controls;
 - commit immediately;
 - report verified/needs-review/hold counts;
-- set the next five-scan batch from the live durable boundary;
-- stop before scan 21 unless explicitly asked to continue.
+- set next batch to scans 26–30 unless live source evidence requires a different boundary;
+- stop before scan 26 unless explicitly asked to continue.
 
 P0 source-completeness discrepancy remains open.

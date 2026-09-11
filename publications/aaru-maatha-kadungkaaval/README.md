@@ -37,7 +37,7 @@ The supplied artifact exposed to this workflow contains **150 physical scans**. 
 - complete physical-file SHA-256 — **PENDING**
 - source-completeness discrepancy — **OPEN**
 - P1 page/structure mapping — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 page transcription — **IN PROGRESS — 15/150 canonical records; 13 verified / 2 needs-review**
+- P2 page transcription — **IN PROGRESS — 20/150 canonical records; 17 verified / 3 needs-review**
 - P3 assemblies — **NOT STARTED**
 - P4 source/completeness audit — **NOT STARTED**
 - P5 strict visual fidelity — **NOT STARTED**
@@ -121,18 +121,32 @@ Batch 003 result:
 - historical-glyph corrections — **1** (scan 13: historical `றா` decoded in `பொற்சுரங்கமென்றாளோ`)
 - new printed-text holds — **0**
 
+## P2 batch 004 — scans 16–20
+
+- scan 16 — `pages/0016-murasu.md` — **verified** — repeated printed folio 13
+- scan 17 — `pages/0017-murasu.md` — **verified** — repeated printed folio 14
+- scan 18 — `pages/0018-murasu.md` — **needs-review** — one physically obscured cluster
+- scan 19 — `pages/0019-murasu.md` — **verified**
+- scan 20 — `pages/0020-murasu.md` — **verified**
+
+Source-artifact anomaly established by direct pixels:
+
+- scans 16–17 repeat the printed text/folios already seen at scans 14–15;
+- scan 18 resumes printed folio 15 and the narrative continuation;
+- all physical scans remain individually represented.
+
 Overall P2 status:
 
-- records — **15/150**
-- verified — **13**
-- needs-review — **2**
+- records — **20/150**
+- verified — **17**
+- needs-review — **3**
 - blocked — **0**
 - historical-glyph corrections — **1**
-- open printed-text holds — **2**: scan 3 small imprint text; scan 4 full publisher-note transcription
+- open printed-text holds — **3**: scan 3 small imprint text; scan 4 full publisher-note transcription; scan 18 one physically obscured cluster
 - P0 source-completeness caveat — **unchanged / open**
 
 ## Exact next activity
 
-**P2 — scans 16–20.**
+**P2 — scans 21–25.**
 
-Process exactly scans 16–20 as one batch, preserve the open holds on scans 3–4 for targeted re-read, synchronize controls, commit immediately after the five-page batch, and stop before scan 21.
+Process exactly scans 21–25 as one batch, preserve the open holds on scans 3–4 and scan 18, synchronize controls, commit immediately after the five-page batch, and stop before scan 26.

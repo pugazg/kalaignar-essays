@@ -1,6 +1,6 @@
 ---
 source_pdf: "TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf"
-scan_page: 15
+scan_page: 17
 printed_page: 14
 publication: "aaru-maatha-kadungkaaval"
 article: "murasu"
@@ -21,12 +21,14 @@ transcription_method: "direct visual comparison with source scan"
 
 ## அச்சு அமைப்பு
 
-- scan 14-ல் `தொட்டுவிட்` என உடைந்த சொல் இப்பக்கத்தின் தொடக்க `டது.` உடன் நிறைவடைகிறது.
+- scan 16-ல் `தொட்டுவிட்` என உடைந்த சொல் இப்பக்கத்தின் தொடக்க `டது.` உடன் நிறைவடைகிறது.
 - visible printed folio — **14**.
-- கடைசி `அத்` scan boundary-ல் நிற்கிறது; scans 16–17 printed folios 13–14-ஐ மீண்டும் தருகின்றன; source sequence continuation scan 18 / printed folio 15-ல் `தகையவர்` எனத் தொடர்கிறது.
+- source artifact anomaly: scan 17 is a second physical witness of the same printed page/text already present at scan 15.
+- கடைசி `அத்` scan boundary-ல் நிற்கிறது; printed-page sequence scan 18 / folio 15-ல் தொடர்கிறது.
 
 ## அச்சு அல்லாத / physical-copy marks
 
+- scan 17-ன் physical marks / image condition scan 15-இலிருந்து தனித்த source witness ஆகப் பாதுகாக்கப்படுகின்றன.
 - canonical printed-text layer-ஐ மாற்றும் later annotation உறுதிசெய்யப்படவில்லை.
 
 ## Historical glyph audit
@@ -39,4 +41,4 @@ transcription_method: "direct visual comparison with source scan"
 
 ## P2 நிலை
 
-**verified** — scan 15 transcription unchanged; P2 scans 16–20 review established that the immediate next two physical scans repeat printed folios 13–14 before the continuation resumes at scan 18.
+**verified** — scan 17 source pixels நேரடியாகச் சரிபார்க்கப்பட்டன; repeated printed-page witness என்பதால் deduplicate செய்யப்படவில்லை.
