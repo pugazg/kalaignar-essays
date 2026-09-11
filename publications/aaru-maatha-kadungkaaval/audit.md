@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **IN PROGRESS — SHA-256 / publication-level source extent unresolved** |
 | P1 | **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT** |
-| P2 | **IN PROGRESS — 20/150 records; 17 verified / 3 needs-review** |
+| P2 | **IN PROGRESS — 25/150 records; 22 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -123,10 +123,31 @@ Source-artifact anomaly:
 - scan 15 boundary metadata was corrected accordingly;
 - physical scans were not deduplicated.
 
-## P2 cumulative totals through scan 20
+## P2 batch 005 — scans 21–25
 
-- canonical page records — **20/150**
-- verified — **17**
+| Scan | Printed folio | Record | Status | Open issue |
+|---:|:---:|---|---|---|
+| 21 | 18 | `0021-murasu.md` | verified | none |
+| 22 | 19 | `0022-murasu.md` | verified | none |
+| 23 | 20 | `0023-murasu.md` | verified | none |
+| 24 | 21 | `0024-murasu.md` | verified | none |
+| 25 | 22 | `0025-murasu.md` | verified | none |
+
+Batch 005 totals:
+
+- records — **5/5**
+- verified — **5**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- new unresolved printed-text holds — **0**
+- historical-glyph correction count — **unchanged at 1**
+- source-decoded historical identities include scan 22 `அம்பிலை` (`லை`) and scan 25 `மூன்றாம்` (`றா`).
+
+## P2 cumulative totals through scan 25
+
+- canonical page records — **25/150**
+- verified — **22**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -138,4 +159,4 @@ Source-artifact anomaly:
 
 ## Exact next activity
 
-**P2 scans 21–25.** Keep scans 3–4 and scan 18 open; do not normalize or guess them.
+**P2 scans 26–30.** Keep scans 3–4 and scan 18 open; do not normalize or guess them.

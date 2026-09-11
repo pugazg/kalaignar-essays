@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 21–25
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 26–30
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -17,8 +17,8 @@ Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover
   - supplied artifact — **150 pages**
   - source-completeness discrepancy — **OPEN**
 - P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 — **IN PROGRESS — 20/150 canonical records**
-  - verified — **17**
+- P2 — **IN PROGRESS — 25/150 canonical records**
+  - verified — **22**
   - needs-review — **3**
   - blocked — **0**
   - historical-glyph corrections — **1**
@@ -29,19 +29,23 @@ Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover
 
 Use the attached `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf` only for source transcription. Do not consult Tamil Digital Library, Wikisource, OCR text, alternate editions, or web copies unless the user explicitly asks.
 
-## P2 batch 004 finding
+## Latest P2 batch — scans 21–25
 
-Scans 16–20 were processed.
+All five scans are **verified**:
 
-- scan 16 — printed 13 — verified — repeated source witness of scan 14 text
-- scan 17 — printed 14 — verified — repeated source witness of scan 15 text
-- scan 18 — printed 15 — needs-review — one source-visible white physical obstruction hides a cluster after `ஒருவராக ஆ`; canonical text uses `ஆ[…]விடக்கூடிய` and does not guess the hidden letters
-- scan 19 — printed 16 — verified
-- scan 20 — printed 17 — verified
+- scan 21 — printed 18
+- scan 22 — printed 19 — `அடுத்த நாள் :`
+- scan 23 — printed 20
+- scan 24 — printed 21
+- scan 25 — printed 22 — `மூன்றாம் நாள் :`
 
-The attached PDF physically repeats printed folios 13–14 at scans 16–17. Scan 18 resumes folio 15. Keep every physical scan as its own record.
+No new holds were created. Historical `லை` in scan 22 `அம்பிலை` and historical `றா` in scan 25 `மூன்றாம்` were decoded by character identity during first-pass transcription; cumulative historical-glyph correction count remains **1**.
 
-Open holds:
+Scan 25 ends at `முடிவைச்சொல்ல`; scan 26 must be read directly for the continuation.
+
+Earlier source-artifact anomaly remains durable: scans 16–17 repeat printed folios 13–14; scan 18 resumes printed folio 15. Keep every physical scan as its own record.
+
+Open holds remain:
 
 - scan 3 — unresolved small imprint/printer text;
 - scan 4 — exact publisher-note transcription;
@@ -62,9 +66,9 @@ Read completely:
 9. `P1_SOURCE_STRUCTURE_REVIEW.md`
 10. `audit.md`
 
-## Exact next activity — P2 scans 21–25
+## Exact next activity — P2 scans 26–30
 
-Process **exactly scans 21–25 as one batch** from the attached PDF.
+Process **exactly scans 26–30 as one batch** from the attached PDF.
 
 For every text-bearing page:
 
@@ -75,12 +79,12 @@ For every text-bearing page:
 - separate non-print marks;
 - never fill uncertainty from context.
 
-After scans 21–25:
+After scans 26–30:
 
 - synchronize controls;
 - commit immediately;
 - report verified/needs-review/hold counts;
-- set next batch to scans 26–30 unless live source evidence requires a different boundary;
-- stop before scan 26 unless explicitly asked to continue.
+- set the next five-scan batch from live durable state;
+- stop before scan 31 unless explicitly asked to continue.
 
 P0 source-completeness discrepancy remains open.

@@ -10,7 +10,7 @@ This is the **single authoritative project handover**.
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 IN PROGRESS; P1 PASS for supplied artifact; P2 IN PROGRESS 20/150**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 IN PROGRESS; P1 PASS for supplied artifact; P2 IN PROGRESS 25/150**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -49,7 +49,7 @@ For this publication, source-dependent archival claims must come from direct ins
 - supplied artifact available to this workflow — **150 pages**
 - source-completeness discrepancy — **OPEN**
 - P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 — **IN PROGRESS — 20/150 records; 17 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 25/150 records; 22 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -172,10 +172,30 @@ Batch 004 result:
 - guessed readings — **0**
 - historical-glyph correction count — **unchanged at 1**; scan 20 includes a positively decoded historical `னா` occurrence in `பொன்னாக்கிவிட்டது`.
 
+## P2 batch 005 — scans 21–25
+
+Completed from the attached PDF only:
+
+- scan 21 — `pages/0021-murasu.md` — **verified** — printed folio 18
+- scan 22 — `pages/0022-murasu.md` — **verified** — printed folio 19 / `அடுத்த நாள் :`
+- scan 23 — `pages/0023-murasu.md` — **verified** — printed folio 20
+- scan 24 — `pages/0024-murasu.md` — **verified** — printed folio 21
+- scan 25 — `pages/0025-murasu.md` — **verified** — printed folio 22 / `மூன்றாம் நாள் :`
+
+Batch 005 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 1**
+- scan 22 `அம்பிலை` (`லை`) and scan 25 `மூன்றாம்` (`றா`) were decoded by historical character identity during first-pass transcription.
+
 Durable P2 totals:
 
-- canonical page records — **20/150**
-- verified — **17**
+- canonical page records — **25/150**
+- verified — **22**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -189,11 +209,11 @@ P0 SHA-256 / 224-page source-completeness discrepancy remains open and must not 
 
 ## Exact next activity
 
-**P2 scans 21–25.**
+**P2 scans 26–30.**
 
-Process exactly scans 21–25 as one batch, continue direct source transcription and historical-glyph checks, preserve the scan 18 source hold, synchronize controls, commit immediately after the five-page batch, then set the next boundary from live source/repository state.
+Process exactly scans 26–30 as one batch, continue direct source transcription and historical-glyph checks, preserve the scans 3–4 / 18 source holds, synchronize controls, commit immediately after the five-page batch, then set the next boundary from live source/repository state.
 
-Do not reopen earlier pages unless genuinely new source evidence affects them.
+Scan 25 ends at `முடிவைச்சொல்ல`; read scan 26 directly for the continuation. Do not reopen earlier pages unless genuinely new source evidence affects them.
 
 ---
 
