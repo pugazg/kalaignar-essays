@@ -133,20 +133,34 @@ T0 source prerequisite → T1 close draft → T2 bilingual fidelity → T3 Kalai
 - unresolved issues — **0**;
 - frozen Tamil changes — **0**.
 
+## Sections 15–19 — COMPLETE / VERIFIED
+
+- Section 15 final verified English blob — **`f2cc6211ff4eee23d852ce6f7a438ba42bbe2c8b`**;
+- Section 16 final verified English blob — **`c65bf67c41159ca8ea854b5ca5b6189169a80b8e`**;
+- Section 17 final verified English blob — **`c1015074837f606a93808ea2235383b309a9fd98`**;
+- Section 18 final verified English blob — **`8ca4aa3771cd6b0be95cd02537e88e3bf4347102`**;
+- Section 19 final verified English blob — **`e7cdf88c31c27e27ed973c382865bc9f7c4d66bc`**;
+- T2 corrections — **2 / 1 / 1 / 2 / 2**;
+- T3 voice corrections — **4 / 3 / 4 / 4 / 4**;
+- T4 body corrections — **0 / 1 / 0 / 1 / 0**;
+- T5 body corrections — **0 for all five**;
+- unresolved issues — **0**;
+- frozen Tamil changes — **0**.
+
 ## Current English state
 
 - E0 — **COMPLETE / PASS**;
 - T0 — **19/19 PASS**;
-- English body files — **14/19**;
-- T1 — **14/19**;
-- T2 — **14/19**;
-- T3 — **14/19**;
-- T4 — **14/19**;
-- T5 — **14/19**;
-- verified English articles — **14/19**;
+- English body files — **19/19**;
+- T1 — **19/19**;
+- T2 — **19/19**;
+- T3 — **19/19**;
+- T4 — **19/19**;
+- T5 — **19/19**;
+- verified English articles — **19/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil changes during English work — **0**.
 
 ## Exact next activity
 
-**E1 — Section 15 / T1 close draft.** Re-fetch frozen Tamil `articles/15-section-15.md` blob **`682c68cdc0db1899749f2943c9d311ecb1061eb8`**, scans **64–67 / printed pp.62–65**, translate the complete numbered Section 15 from that authority, synchronize controls, and stop before T2.
+**Publication-wide English cross-article consistency / release review.** All **19/19** articles have passed T0–T5. Re-read the complete English corpus for recurring terminology, epithets, quotations, source-bearing puns/transliterations, tone and title consistency, page-comment completeness, and accidental cross-article smoothing. Do not declare English translation complete until this release review passes.
