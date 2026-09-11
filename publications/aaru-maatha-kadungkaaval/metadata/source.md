@@ -62,7 +62,7 @@ This is glyph decoding, not spelling modernization.
 - SHA-256 verification — **PENDING**
 - P0 — **IN PROGRESS**
 - P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 — **IN PROGRESS — 20/150 canonical records; 17 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 25/150 canonical records; 22 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -77,7 +77,7 @@ The supplied artifact was structurally inspected **150/150 pages** and passed P1
 
 This does not resolve the separate user-reported **224-page** publication extent.
 
-## P2 source use through scan 20
+## P2 source use through scan 25
 
 Canonical records now exist for scans **1–20**.
 
@@ -88,9 +88,17 @@ New direct-source anomaly:
 - the artifact is therefore not treated as a simple one-scan/one-folio sequence in this region;
 - all physical scans are retained individually.
 
+Scans **21–25** were directly transcribed and verified from the supplied artifact:
+
+- printed folios — **18–22**
+- scan 22 begins `அடுத்த நாள் :`
+- scan 25 begins `மூன்றாம் நாள் :`
+- new source holds — **0**
+- scan 22 historical `லை` in `அம்பிலை` and scan 25 historical `றா` in `மூன்றாம்` were decoded during first-pass transcription.
+
 Current totals:
 
-- verified — **17**
+- verified — **22**
 - needs-review — **3**
 - open printed-text holds — **3**
   - scan 3 small imprint/printer text;
@@ -101,4 +109,4 @@ Current totals:
 
 ## Exact next activity
 
-**P2 scans 21–25** against the supplied artifact. Keep the P0 source-completeness discrepancy and scans 3–4 / 18 holds open.
+**P2 scans 26–30** against the supplied artifact. Keep the P0 source-completeness discrepancy and scans 3–4 / 18 holds open.
