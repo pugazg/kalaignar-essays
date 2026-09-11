@@ -8,7 +8,7 @@ source_tamil_blob_sha: "7303356861196c1d98951c651c38c42b4d07ac90"
 source_scan_pages: "31-34"
 source_printed_pages: "29-32"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -20,7 +20,7 @@ In earlier days, when I spoke at wedding functions, I would sometimes tell a for
 
 “A husband and wife lived in harmony. Poverty struck them. They suffered with no means of livelihood. One day the wife suggested to her husband that he take the bull at home to the market and sell it, and that with the money they could open a small petty shop and keep the family going. He agreed, drove the bull along, and walked down the road to the market. On the way, the bull became frightened and ran this way and that.
 
-Then a man driving a goat came along and said to him, ‘Ayya, why struggle with that rough bull! Give it to me. I will give you my goat in return.’ The foolish husband gave away the bull,<!-- Tamil source: scan 32 / printed 30 --> took the goat, and continued toward the market.
+Then a man driving a goat came along and said to him, ‘Ayya, why struggle with that unruly bull! Give it to me. I will give you my goat in return.’ The foolish husband gave away the bull,<!-- Tamil source: scan 32 / printed 30 --> took the goat, and continued toward the market.
 
 A man came toward him holding a hen. He tricked the husband, saying that a hen could simply be carried in one's hand. The foolish husband agreed to that too, handed over the goat, took the hen, and set off toward the market.
 
@@ -42,11 +42,11 @@ This story is an example of why one should not magnify family problems before ot
 
 I have included this in wedding greetings at a few places as though offering advice to the newlyweds.
 
-At a wedding in Nagai, a Kazhagam speaker named Nannilam Natarajan, who had gone there to offer greetings, told this story humorously enough to make applause and laughter echo.
+At a wedding in Nagai, a Kazhagam speaker named Nannilam Natarasan, who had gone there to offer greetings, told this story humorously enough to make applause and laughter echo.
 
-Another speaker arrived late for the same wedding. He did not know that Nannilam Natarajan<!-- Tamil source: scan 34 / printed 32 --> had already told the story. When he was invited to offer greetings, he too told the very same story, stretching it out beautifully and entertainingly and delivering it with flourish. There was no response at all from the people. Many began getting up and leaving. Some smiled mockingly.
+Another speaker arrived late for the same wedding. He did not know that Nannilam Natarasan<!-- Tamil source: scan 34 / printed 32 --> had already told the story. When he was invited to offer greetings, he too told the very same story, stretching it out beautifully and entertainingly and declaiming it loudly. There was no response at all from the people. Many began getting up and leaving. Some smiled mockingly.
 
-After finishing, the speaker looked at Natarajan and asked in surprise, ‘What, Nataraja! I told the story Kalaignar told. Not one person enjoyed it!’
+After finishing, the speaker looked at Natarasan and asked in surprise, ‘What, Natarasa! I told the story Kalaignar told. Not one person enjoyed it!’
 
 ‘Annae, I told that story right at the beginning,’ Natarajan replied with a laugh.
 
