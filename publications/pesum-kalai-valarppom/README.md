@@ -26,7 +26,9 @@ Workspace: `publications/pesum-kalai-valarppom/`
 - verified English articles — **19/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**;
-- publication-wide English consistency / release review — **PENDING**.
+- publication-wide English consistency / release review (E6) — **COMPLETE / PASS**;
+- English translation — **COMPLETE**;
+- E7 English release closeout — **PENDING**.
 
 ## Controlling source
 
@@ -84,10 +86,10 @@ The verified Section 4 preserves the Annamalai / Annadurai / Neelamegam pun chai
 ## Sections 5–9 — VERIFIED
 
 - Section 5 — final verified English blob **`be408840f6e92913a003831b0ce6d4469ce7c52a`**; T2/T3/T4 corrections **2/6/0**; T4 decisions **12**; page comments **5/5**.
-- Section 6 — final verified English blob **`80c33bcbbcb755d75e0f2fb467eca16e67e3264c`**; T2/T3/T4 corrections **3/6/0**; T4 decisions **10**; page comments **4/4**.
+- Section 6 — final verified English blob **`69d999d2c019ca0d172b46148167f69c4da510c8`**; T2/T3/T4 corrections **3/6/0**; T4 decisions **10**; page comments **4/4**.
 - Section 7 — final verified English blob **`bff09511f02948f1bc8bc5739425fdde29a27b98`**; T2/T3/T4 corrections **3/5/1**; T4 decisions **16**; page comments **5/5**.
 - Section 8 — final verified English blob **`2bdca622cf08295f3a41309168098d5c4459aebb`**; T2/T3/T4 corrections **4/5/0**; T4 decisions **16**; page comments **4/4**.
-- Section 9 — final verified English blob **`7ef1627c25b1f040270c9cbe11a989ee17fa9eef`**; T2/T3/T4 corrections **1/5/0**; T4 decisions **15**; page comments **3/3**.
+- Section 9 — final verified English blob **`765358f064a48e3bbd7d83291b4cfdd568140836`**; T2/T3/T4 corrections **1/5/0**; T4 decisions **15**; page comments **3/3**.
 - T5 body corrections — **0 for all five / status-only promotions**;
 - unresolved English issues — **0**;
 - frozen Tamil edits — **0**.
@@ -118,6 +120,17 @@ All **19/19** numbered English articles are individually **T0–T5 VERIFIED**. T
 
 Permanent rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`** only where the exact source form occurs. The source supplies numeric sections only; do not invent descriptive English section titles.
 
+## E6 publication-wide English consistency review — PASS
+
+Two cross-article English corrections were required:
+
+1. Section 6: `Natarajan` → **`Natarasan`**, matching frozen `நன்னிலம் நடராசன் / நடராசனை / நடராசா`. Current release blob: **`69d999d2c019ca0d172b46148167f69c4da510c8`**.
+2. Section 9: `Dravidian movement` → **`Dravidar movement`**, aligning recurring source `திராவிடர் இயக்கம்` with Section 19. Current release blob: **`765358f064a48e3bbd7d83291b4cfdd568140836`**.
+
+All other apparent variations reviewed were either consistent or deliberate source-sensitive exceptions. Numeric section identity **1–19**, quotation treatment, protected wordplay/transliterations, rhetorical tone, and source-page comment coverage all pass. Unresolved E6 issues: **0**. Frozen Tamil edits: **0**.
+
+Publication 11 is now **English-translation complete**, but remains active until E7 release closeout.
+
 ## Exact next activity
 
-**Publication-wide English cross-article consistency / release review.** Review all **19/19 verified articles** together for recurring names and epithets, ideological vocabulary, repeated phrases, quotation handling, title style, tone, source-bearing puns/transliterations, page-comment completeness and accidental smoothing or terminology drift. Do not modify frozen Tamil. Only after this review passes may the publication be described as **English-translation complete**.
+**E7 — English release closeout.** Revalidate the E6-approved 19-article corpus and synchronized controls, confirm frozen Tamil remains unchanged, perform final release/freeze bookkeeping, and move Publication 11 to **RELEASE COMPLETE / FROZEN** only after E7 passes.
