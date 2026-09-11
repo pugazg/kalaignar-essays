@@ -8,7 +8,7 @@ source_tamil_blob_sha: "7fbb055e1f7f2630d39f5a3e203de5e2547b93b9"
 source_scan_pages: "27-31"
 source_printed_pages: "25-29"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -30,7 +30,7 @@ Once, director Bhimsingh and I were getting ready to leave for the fourth weddin
 
 <!-- Tamil source: scan 29 / printed 27 -->
 
-This is an example of how undesirable it becomes to say what one has already said—to say it again in the same town—and, worse still, at another wedding in the same house, or at the same kind of function!
+This is an example of how undesirable it becomes to say what one has already said—to say it again in the same town—and, worse still, at a wedding in the same house—or at a function!
 
 Some others too embrace failure by repeating what certain speakers have said, hoping to win the same praise from the people by speaking like them!
 
@@ -42,7 +42,7 @@ In the 1962 Legislative Assembly election he contested as a Kazhagam-backed cand
 
 A huge crowd had gathered; it was announced that the candidate would speak! It is always better for candidates to speak briefly, ask the voters for their support,<!-- Tamil source: scan 30 / printed 28 --> and quickly bring the speech to an end! But when my doctor friend saw the crowd, he wanted to speak at length and began the Punniyakodi story.
 
-He piled up the family's poverty—the hardship—the cruelty that drove them to resolve on suicide—and brought them all the way to the edge of the well. He named the first child Manimekalai, but instead of stopping there he said she was five years old, and described the parents lifting her and throwing her into the well.
+He piled up the family's poverty—the hardship—the cruelty that drove them to resolve on suicide—and brought them all the way to the well-side. He named the first child Manimekalai, but instead of stopping there he said she was five years old, and described the parents lifting her and throwing her into the well.
 
 He still had to give the ages of five more children! He said the second child was three! The third was two! The fourth was one! When he came to the fifth child ... he faltered, unable to give an age!
 
