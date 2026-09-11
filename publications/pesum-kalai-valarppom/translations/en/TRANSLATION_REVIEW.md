@@ -191,7 +191,43 @@ Source-sensitive T1 points:
 - grass-tip grazing, already-ground flour, and recorded-tape images are retained;
 - Section 4 T1 provisional lexicon/source decisions — **20**.
 
-T2 / T3 / T4 / T5 — **pending**.
+### T2 bilingual fidelity review
+
+**COMPLETE / PASS after 4 corrections.**
+
+Post-T2 English blob: **`ab22ce719dc8e2c82cc5dbfeb4108b29d6bcdc8c`**.  
+`translation_status`: **fidelity-reviewed**.
+
+T2 corrections:
+
+1. `Anna, they say, is a durai!` → `Anna, they say, is a durai—a lord!` — preserves the semantic value of source `துரை` inside the Annamalai / Annadurai wordplay.
+2. removed added `it makes no difference` from K. K. Neelamegam’s quotation — the Tamil has only the repeated whether-anyone-listens-or-not construction.
+3. `good response` → **`good reception`** for source `நல்ல வரவேற்பு`.
+4. `new developments` → **`new items of news`** for source `புதிய செய்திகள்`.
+
+Final T2 checks: omitted clauses **0**; added factual claims **0**; five-minute/fifty-thousand contrast **PASS**; Kudanthai / Neelamegam / Arignar Anna names **PASS**; full Annamalai / Annadurai / malai / durai / megam / Neelamegam pun chain **PASS after correction #1**; applause / Sabash distinction **PASS**; pages 25/26/27 **PASS**; sea-sluice and wandering-mind imagery **PASS**; Chetpet / Kannadasan / Arangannal / Mullai Sakthi / 1953 / Kallakudi / Tiruchirappalli / Manapparai details **PASS**; colloquial `kachcheri` passages **PASS**; Tamil lexical-change contrasts **PASS**; closing images **PASS**; source-page comments **6/6**; unresolved T2 issues **0**.
+
+### T3 Kalaignar voice review
+
+**COMPLETE / PASS after 8 voice corrections.**
+
+Post-T3 English blob: **`6f461abbd058f69b6584dd32fc96a9b062425624`**.  
+`translation_status`: **voice-reviewed**.
+
+T3 corrections:
+
+1. recast the voice-modulation / word-choice habit sentence into direct instructional English while preserving the same sequence.
+2. sharpened the beginner-speaker warning and restored the exclamatory force of `அடேடே!` as `Goodness!`.
+3. `I remember the meeting as having been held under the chairmanship...` → `As I remember, the meeting was chaired by...` for conversational cadence.
+4. tightened K. K. Neelamegam’s quotation to `Whether anyone listens or not!` and `I will read my speech to the finish.`
+5. recast the thirty-year recollection as `More than thirty years have passed...` while preserving the source time relation.
+6. `put in great labour` → `labour hard` in the instruction to aspiring speakers.
+7. `make one full round for an entire year` → `go around for a whole year with it` in the recycled-speech criticism.
+8. `are bound to grow weary` → `will grow tired` for the final spoken cadence.
+
+T3 final checks: T2 meaning **preserved**; rhetorical questions/exclamations **PASS**; pun chain **PASS**; Neelamegam humour/defiance **PASS**; actor anecdote imagery **PASS**; Anna / kachcheri recollections **PASS**; Tamil lexical-change passage **PASS**; grass-tip / already-ground flour / recorded-tape imagery **PASS**; page comments **6/6**; unresolved T3 issues **0**.
+
+T4 / T5 — **pending**.
 
 ---
 
@@ -202,8 +238,8 @@ T2 / T3 / T4 / T5 — **pending**.
 | E0 workspace/planning | **COMPLETE / PASS** |
 | T0 source prerequisite | **19/19 PASS** |
 | T1 close draft | **4/19** |
-| T2 bilingual fidelity | **3/19** |
-| T3 Kalaignar voice | **3/19** |
+| T2 bilingual fidelity | **4/19** |
+| T3 Kalaignar voice | **4/19** |
 | T4 terminology / quotation / citation | **3/19** |
 | T5 section verification | **3/19** |
 | Verified English articles | **3/19** |
@@ -213,4 +249,4 @@ Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0*
 
 ## Exact next activity
 
-**E1 — Section 4 / T2 bilingual fidelity review.** Re-fetch frozen Tamil blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`** and T1 English blob **`665b4629202b57a81275310f86e25dfc4e2be73d`**. Compare every sentence/clause, all quantities, names, puns, quotations, page-number anecdotes, colloquial `kachcheri` passages, old/new Tamil address forms, imagery, repetition and all **6/6** page comments. Record every correction transparently. Do not start Section 4 T3 in the same activity.
+**E1 — Section 4 / T4 terminology / quotation / citation audit.** Re-fetch frozen Tamil blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`** and post-T3 English blob **`6f461abbd058f69b6584dd32fc96a9b062425624`**. Audit all **20** Section 4 working decisions, source names/epithets, the full Annamalai / Annadurai / Neelamegam pun chain, `Sabash`, K. K. Neelamegam’s quotation, `Annathurai kachcheri` / `Namaskaaranga!`, old/new Tamil address forms, dates/places and all **6/6** page comments. Record every T4 correction transparently. Do not start T5 in the same gate.
