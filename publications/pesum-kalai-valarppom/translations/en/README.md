@@ -1,162 +1,62 @@
 # English Translation — பேசும் கலை வளர்ப்போம்
 
 Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TRANSLATION_GUIDE.md)  
-Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
+Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)  
+Release report: [`RELEASE_REPORT.md`](RELEASE_REPORT.md)
 
 > **Translate the language; do not neutralise the voice.**
 
-## Current status
+## Final status
 
-- Tamil archival prerequisite — **COMPLETE / STRICT-REVIEWED / FROZEN**;
-- frozen Tamil assemblies — **19/19**;
-- E0 planning / workspace bootstrap — **COMPLETE / PASS**;
-- T0 source prerequisite — **19/19 PASS**;
-- English article body files — **19/19**;
-- T1 close draft — **19/19**;
-- T2 bilingual fidelity — **19/19**;
-- T3 Kalaignar voice — **19/19**;
-- T4 terminology / quotation / citation — **19/19**;
-- T5 article verification — **19/19**;
-- verified English articles — **19/19**;
-- unresolved English blockers — **0**;
-- frozen Tamil edits during English work — **0**.
-- E6 publication-wide consistency review — **COMPLETE / PASS**;
-- E6 body corrections — **2**;
-- English translation — **COMPLETE**;
-- E7 release closeout — **PENDING**.
+- Tamil archival prerequisite — **COMPLETE / STRICT-REVIEWED / FROZEN**
+- frozen Tamil assemblies — **19/19**
+- E0–E7 — **COMPLETE / PASS**
+- T0 / T1 / T2 / T3 / T4 / T5 — **19/19 PASS** at each gate
+- English article body files — **19/19**
+- E6 publication-wide consistency — **PASSED**
+- E6 body corrections — **2**
+- E7 release closeout — **PASSED / COMPLETE**
+- English translation — **COMPLETE**
+- English release gate — **CLOSED**
+- unresolved English / release blockers — **0**
+- frozen Tamil edits during English workflow — **0**
 
-Frozen baseline commit used for E0/T0: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**. English work must never modify the frozen Tamil `pages/` or `articles/` layers.
+Frozen Tamil authority:
+- `articles/` tree — **`5d997ba350ec87c1d70e4ab828f71c645a360d53`**
+- `pages/` tree — **`99558f84421f03c94d652bf64da08746d662c594`**
 
-## Section tracker
+## Released article tracker
 
-| # | Tamil authority | T0 | T1 | T2 | T3 | T4 | T5 | English status |
-|---:|---|---|---|---|---|---|---|---|
-| 1 | `articles/01-section-01.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 2 | `articles/02-section-02.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 3 | `articles/03-section-03.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 4 | `articles/04-section-04.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 5 | `articles/05-section-05.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 6 | `articles/06-section-06.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 7 | `articles/07-section-07.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 8 | `articles/08-section-08.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 9 | `articles/09-section-09.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 10 | `articles/10-section-10.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 11 | `articles/11-section-11.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 12 | `articles/12-section-12.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 13 | `articles/13-section-13.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 14 | `articles/14-section-14.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 15 | `articles/15-section-15.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 16 | `articles/16-section-16.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 17 | `articles/17-section-17.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 18 | `articles/18-section-18.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 19 | `articles/19-section-19.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
+| # | English file | Released blob | Status |
+|---:|---|---|---|
+| 1 | `01-section-01.md` | `76ea963ab2e14232bdbbf1a9afbe9f25ca97779a` | verified |
+| 2 | `02-section-02.md` | `e963de42305f9e0cca601950c4ab5e3b1d6c2ea6` | verified |
+| 3 | `03-section-03.md` | `3948fbf436875b39b3c9ca183c838f7b9139b742` | verified |
+| 4 | `04-section-04.md` | `9a236986ecf612f0da8de3179c8d8acd9eac3183` | verified |
+| 5 | `05-section-05.md` | `be408840f6e92913a003831b0ce6d4469ce7c52a` | verified |
+| 6 | `06-section-06.md` | `69d999d2c019ca0d172b46148167f69c4da510c8` | verified |
+| 7 | `07-section-07.md` | `bff09511f02948f1bc8bc5739425fdde29a27b98` | verified |
+| 8 | `08-section-08.md` | `2bdca622cf08295f3a41309168098d5c4459aebb` | verified |
+| 9 | `09-section-09.md` | `765358f064a48e3bbd7d83291b4cfdd568140836` | verified |
+| 10 | `10-section-10.md` | `1cb939abb40a6a73c0e785b79ca079b2b69c1d9a` | verified |
+| 11 | `11-section-11.md` | `a97cd4930f8eee76d7f3b010b547698a59bbcbe8` | verified |
+| 12 | `12-section-12.md` | `15d010ab6a7a88d5ecd4cfd3d08441f40e2e915e` | verified |
+| 13 | `13-section-13.md` | `0d43c80ee88dc6caaff5f313e3b870aa8708c1f0` | verified |
+| 14 | `14-section-14.md` | `ea71a23cf3ffcdc2408c327bdb653bf755d772b2` | verified |
+| 15 | `15-section-15.md` | `f2cc6211ff4eee23d852ce6f7a438ba42bbe2c8b` | verified |
+| 16 | `16-section-16.md` | `c65bf67c41159ca8ea854b5ca5b6189169a80b8e` | verified |
+| 17 | `17-section-17.md` | `c1015074837f606a93808ea2235383b309a9fd98` | verified |
+| 18 | `18-section-18.md` | `8ca4aa3771cd6b0be95cd02537e88e3bf4347102` | verified |
+| 19 | `19-section-19.md` | `e7cdf88c31c27e27ed973c382865bc9f7c4d66bc` | verified |
 
-## Section 1 — VERIFIED
+## Release checks
 
-- frozen Tamil blob — `e5517b7cc344554d51af4092599059d481039c1e`;
-- final verified English blob — **`76ea963ab2e14232bdbbf1a9afbe9f25ca97779a`**;
-- T0–T5 — **COMPLETE / PASS**;
-- Section 1 T4-approved decisions — **16**.
+E6 reviewed all 19 articles as one publication and required exactly **2** body corrections: Section 6 `Natarajan` → `Natarasan`, and Section 9 `Dravidian movement` → `Dravidar movement`. E7 revalidated the resulting 19-row blob matrix, **88/88** source-page comment instances, frozen Tamil trees, control documents and source-PDF absence. E7 body changes: **0**.
 
-## Section 2 — VERIFIED
+Full authority: [`RELEASE_REPORT.md`](RELEASE_REPORT.md). Review provenance: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md). Living lexicon: [`LEXICON.md`](LEXICON.md).
 
-- frozen Tamil blob — **`b10894b911393239e57446687c34030aff88a8e3`**;
-- source span — scans **12–16 / printed pp.10–14**;
-- final T5 verified English blob — **`e963de42305f9e0cca601950c4ab5e3b1d6c2ea6`**;
-- T2 / T3 corrections — **7 / 8**;
-- T4 body corrections — **0**;
-- T5 body corrections — **0 / status-only**;
-- source-page comments — **5/5**;
-- Section 2 T4-approved decisions — **15**;
-- T0–T5 — **COMPLETE / PASS**.
+Permanent repository rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**.
 
-## Section 3 — VERIFIED
+## Closure
 
-- frozen Tamil blob — **`21904dd457bb3455230de06421ff2d906ac4958d`**;
-- source span — scans **16–22 / printed pp.14–20**;
-- T1 English blob — `377e8b5231c47059cbbf449c0394dbf0c0ddd0dc`;
-- post-T2 English blob — `2c5d8e31b4ffaacb52df31f6092a053204ccd9c9`;
-- post-T3 English blob — `00581593374a42a7f132fd3434684a52038b19d4`;
-- post-T4 English blob — `ac4f9e799b00952891fb8d5539449a6e8aaea9d5`;
-- final T5 verified English blob — **`3948fbf436875b39b3c9ca183c838f7b9139b742`**;
-- T2 / T3 / T4 corrections — **5 / 13 / 1**;
-- T5 body corrections — **0 / status-only**;
-- source-page comments — **7/7 retained**;
-- Section 3 T4-approved decisions — **17**;
-- unresolved Section 3 issues — **0**;
-- T0–T5 — **COMPLETE / PASS**.
-
-## Section 4 — VERIFIED
-
-- frozen Tamil blob — **`b938be21e198d69548e45ae96cb0e9802b8d7079`**;
-- source span — scans **22–27 / printed pp.20–25**;
-- T1 English blob — `665b4629202b57a81275310f86e25dfc4e2be73d`;
-- post-T2 English blob — `ab22ce719dc8e2c82cc5dbfeb4108b29d6bcdc8c`;
-- post-T3 English blob — `6f461abbd058f69b6584dd32fc96a9b062425624`;
-- post-T4 English blob — `aae55dffdf3d58d0b268c5ed2721f76d88451037`;
-- final T5 verified English blob — **`9a236986ecf612f0da8de3179c8d8acd9eac3183`**;
-- T2/T3/T4 corrections — **4/8/1**;
-- T5 body corrections — **0 / status-only**;
-- source-page comments — **6/6 retained**;
-- Section 4 T4-approved decisions — **22**;
-- unresolved Section 4 issues — **0**;
-- T0–T5 — **COMPLETE / PASS**.
-
-## Sections 5–9 — VERIFIED
-
-| Section | Frozen Tamil blob | Final verified English blob | T2 / T3 / T4 corrections | T4 decisions | Page comments |
-|---:|---|---|---|---:|---:|
-| 5 | `7fbb055e1f7f2630d39f5a3e203de5e2547b93b9` | **`be408840f6e92913a003831b0ce6d4469ce7c52a`** | **2 / 6 / 0** | 12 | 5/5 |
-| 6 | `7303356861196c1d98951c651c38c42b4d07ac90` | **`69d999d2c019ca0d172b46148167f69c4da510c8`** | **3 / 6 / 0** | 10 | 4/4 |
-| 7 | `722e66535b9c1503f574e0adf8362e6b2c020653` | **`bff09511f02948f1bc8bc5739425fdde29a27b98`** | **3 / 5 / 1** | 16 | 5/5 |
-| 8 | `1bfc1752ccc8217e14fe527cd49ab0362d4484a0` | **`2bdca622cf08295f3a41309168098d5c4459aebb`** | **4 / 5 / 0** | 16 | 4/4 |
-| 9 | `d0e18d25b0e3ae4a8585d8fa117d07f118dabf5c` | **`765358f064a48e3bbd7d83291b4cfdd568140836`** | **1 / 5 / 0** | 15 | 3/3 |
-
-All five T5 passes made **0 body corrections / status-only promotions**. Unresolved English issues across Sections 5–9: **0**.
-
-## Sections 10–14 — VERIFIED
-
-| Section | Frozen Tamil blob | Final verified English blob | T2 / T3 / T4 corrections | T4 decisions | Page comments |
-|---:|---|---|---|---:|---:|
-| 10 | `32dd5cf5bf4ec73e9c0cdb4c0f1eeead2f3a7055` | **`1cb939abb40a6a73c0e785b79ca079b2b69c1d9a`** | **5 / 5 / 0** | 15 | 3/3 |
-| 11 | `427a9ef35cd8ff1ffd873d5d2c9afccdcb7b2375` | **`a97cd4930f8eee76d7f3b010b547698a59bbcbe8`** | **4 / 5 / 0** | 14 | 4/4 |
-| 12 | `91f08b6cf0de84cc3a1b58120b1702d355f4c683` | **`15d010ab6a7a88d5ecd4cfd3d08441f40e2e915e`** | **4 / 5 / 0** | 15 | 5/5 |
-| 13 | `97dd9dc2f5ae10828ff68095ca87dd2cb484e745` | **`0d43c80ee88dc6caaff5f313e3b870aa8708c1f0`** | **3 / 5 / 0** | 16 | 4/4 |
-| 14 | `4c611fa7a2b6d91bfa4c767bfdb8c9fcfff8316c` | **`ea71a23cf3ffcdc2408c327bdb653bf755d772b2`** | **4 / 5 / 1** | 17 | 5/5 |
-
-All five T5 passes made **0 body corrections / status-only promotions**. Unresolved English issues across Sections 10–14: **0**.
-
-## Sections 15–19 — VERIFIED
-
-| Section | Frozen Tamil blob | Final verified English blob | T2 / T3 / T4 corrections | T4 decisions | Page comments |
-|---:|---|---|---|---:|---:|
-| 15 | `682c68cdc0db1899749f2943c9d311ecb1061eb8` | **`f2cc6211ff4eee23d852ce6f7a438ba42bbe2c8b`** | **2 / 4 / 0** | 13 | 4/4 |
-| 16 | `1ab092b3b7bcdc0efd23f08e49799e7c3fda8d5f` | **`c65bf67c41159ca8ea854b5ca5b6189169a80b8e`** | **1 / 3 / 1** | 15 | 4/4 |
-| 17 | `bd4cb1d4e631e19de0e5cc62f0aecf176d7e2fe2` | **`c1015074837f606a93808ea2235383b309a9fd98`** | **1 / 4 / 0** | 14 | 5/5 |
-| 18 | `060e72d9ec61e491343c948c2db9371312b7e3a8` | **`8ca4aa3771cd6b0be95cd02537e88e3bf4347102`** | **2 / 4 / 1** | 22 | 5/5 |
-| 19 | `aa3eb2b5311f8ad1a705f606bd4ace3f2059ec6c` | **`e7cdf88c31c27e27ed973c382865bc9f7c4d66bc`** | **2 / 4 / 0** | 16 | 4/4 |
-
-All five T5 passes made **0 body corrections / status-only promotions**. Unresolved English issues across Sections 15–19: **0**.
-
-## Binding repository rule
-
-Exact source `உடன்பிறப்பே` → **`Udanpirappē`**; as direct salutation use **`Udanpirappē,`**. Apply only where the exact source form occurs.
-
-## E6 release result
-
-- publication-wide cross-article consistency review — **COMPLETE / PASS**;
-- English body corrections — **2**:
-  1. Section 6 `Natarajan` → **`Natarasan`**;
-  2. Section 9 `Dravidian movement` → **`Dravidar movement`** for recurring source `திராவிடர் இயக்கம்`;
-- Section 6 current release-candidate blob — **`69d999d2c019ca0d172b46148167f69c4da510c8`**;
-- Section 9 current release-candidate blob — **`765358f064a48e3bbd7d83291b4cfdd568140836`**;
-- deliberate source-sensitive variants retained — **PASS**;
-- page-comment completeness/order — **PASS across 19/19**;
-- unresolved E6 issues — **0**;
-- frozen Tamil edits — **0**.
-
-The publication is now **English-translation complete**. It is not yet RELEASE COMPLETE / FROZEN because **E7 English release closeout remains pending**.
-
-## Exact next activity
-
-**E7 — English release closeout.** Revalidate all 19 verified English release-candidate blobs, confirm all English/Tamil control records are synchronized and no source layers changed, complete the final release/freeze bookkeeping, and then move Publication 11 to **RELEASE COMPLETE / FROZEN**.
+Publication 11 is **RELEASE COMPLETE / FROZEN**. Do not reopen it unless a genuine source-supported defect is discovered.
