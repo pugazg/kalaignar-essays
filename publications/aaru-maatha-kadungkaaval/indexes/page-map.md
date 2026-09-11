@@ -1,40 +1,46 @@
 # Page Map — ஆறுமாதக் கடுங்காவல்
 
-Controlling publication: **`ஆறுமாதக் கடுங்காவல்`**  
-Expected physical PDF extent: **224 pages**  
-Current gate: **P0 IN PROGRESS / P1 NOT STARTED**
+Controlling supplied artifact: `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`
 
-## Source-authority correction
+Current gate:
 
-The earlier preview-derived page map has been withdrawn.
+- P0 — **IN PROGRESS / SHA-256 unresolved**
+- P1 — **COMPLETE / PASS FOR SUPPLIED PDF ARTIFACT**
+- mapped physical pages — **150 / 150**
 
-**No page-map claim is canonical until the actual uploaded PDF bytes are directly opened and rendered.**
+Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVIEW.md)
 
-Do not use attachment preview/parser truncation or preview page counts to infer missing pages, publication structure, printed pagination, blank leaves, section boundaries, or source end.
+## Canonical structural map for supplied artifact
 
-## P1 requirements
+| Scan(s) | Page type / structural role |
+|---:|---|
+| 1 | physical-copy / ownership-donation mark |
+| 2 | title page |
+| 3 | imprint / first-edition page |
+| 4 | publisher note |
+| 5 | blank / reverse / show-through |
+| 6–7 | `காணிக்கை` dedication |
+| 8 | illustrated front-matter page / `முரசு` |
+| 9 | blank / reverse / show-through |
+| 10–66 | main text |
+| 67 | blank / reverse / show-through |
+| 68–106 | main text |
+| 107 | blank / reverse / show-through |
+| 108 | nonblank intertitle / structural transition |
+| 109 | blank / reverse / show-through |
+| 110–150 | main text |
 
-After direct physical-file verification closes P0, inspect the complete PDF and record for every physical page:
+## P1 rules carried into P2
 
-- physical PDF page index;
-- printed page number where visible;
-- suppressed/inferred folios separately;
-- page type;
-- front matter / body / back matter;
-- blank/reverse/show-through pages;
-- date/place/topic headings;
-- internal boundaries;
-- cross-page continuations;
-- illustrations;
-- physical-copy marks;
-- final source boundary;
-- contents/index presence;
-- pagination discontinuities.
-
-## Historical glyph overlay
-
-P1 is structural. P2/P5 must follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+- exact printed folio must be read from each scan; do not infer a global offset;
+- suppressed page number -> `null`, not inferred;
+- exact heading/intertitle wording belongs in page records only after direct visual transcription;
+- scan 150 is the end of the supplied artifact, **not proven publication end**;
+- user-reported complete extent **224 pages** remains an unresolved completeness discrepancy;
+- source PDF is never committed.
 
 ## Exact next activity
 
-Directly inspect the actual uploaded PDF file, verify structural page count / byte size / SHA-256, then build the canonical page map from that physical file.
+**P2 scans 1–5** under the user's explicit override.
+
+Create canonical page records for scans 1–5, apply the historical-glyph workflow on any text-bearing Tamil, separate printed text from physical-copy marks, synchronize controls, and commit the five-scan batch.
