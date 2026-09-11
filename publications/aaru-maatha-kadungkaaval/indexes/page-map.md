@@ -39,8 +39,22 @@ Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVI
 - user-reported complete extent **224 pages** remains an unresolved completeness discrepancy;
 - source PDF is never committed.
 
+## P2 record status
+
+| Scan | Canonical record | Status |
+|---:|---|---|
+| 1 | `../pages/0001-physical-copy-mark.md` | verified |
+| 2 | `../pages/0002-title-page.md` | verified |
+| 3 | `../pages/0003-imprint.md` | needs-review |
+| 4 | `../pages/0004-publisher-note.md` | needs-review |
+| 5 | `../pages/0005-blank-reverse.md` | verified |
+
+Current P2 coverage: **5/150** canonical records.
+
+Open holds:
+- scan 3 — small imprint/printer text;
+- scan 4 — full publisher-note transcription.
+
 ## Exact next activity
 
-**P2 scans 1–5** under the user's explicit override.
-
-Create canonical page records for scans 1–5, apply the historical-glyph workflow on any text-bearing Tamil, separate printed text from physical-copy marks, synchronize controls, and commit the five-scan batch.
+**P2 scans 6–10.**
