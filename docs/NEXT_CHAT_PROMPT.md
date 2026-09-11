@@ -28,7 +28,7 @@ The next source-dependent activity must inspect the **actual uploaded PDF bytes 
 
 - P0 — **IN PROGRESS**
 - direct physical page count — **PENDING**
-- direct byte size — **PENDING**
+- raw-file byte size — **282020019 bytes — CONFIRMED**
 - SHA-256 — **PENDING**
 - P1 — **NOT STARTED**
 - P2–P5 — **NOT STARTED**
@@ -38,7 +38,7 @@ The next source-dependent activity must inspect the **actual uploaded PDF bytes 
 
 1. open the physically mounted/uploaded PDF file;
 2. determine its structural PDF page count directly;
-3. compute exact byte size and SHA-256;
+3. compute SHA-256; raw-file size is already confirmed as **282020019 bytes**;
 4. reconcile against the expected **224 pages**;
 5. close P0 if clean;
 6. then perform canonical P1 across the complete physical PDF;
