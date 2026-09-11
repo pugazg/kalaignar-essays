@@ -10,7 +10,7 @@ This is the **single authoritative project handover**.
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 IN PROGRESS; physical PDF byte-level verification pending; P1 NOT STARTED**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 IN PROGRESS; P1 COMPLETE/PASS for supplied 150-page PDF artifact; P2 NEXT**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -51,8 +51,8 @@ For this publication, all source-dependent archival claims must come from:
 - direct physical-file page-count verification — **PENDING**
 - raw physical-file byte size — **282020019 bytes — CONFIRMED**
 - physical-file SHA-256 — **PENDING**
-- P1 — **NOT STARTED**
-- P2 — **NOT STARTED**
+- P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
+- P2 — **NOT STARTED — next batch scans 1–5**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -80,17 +80,40 @@ Core rule:
 
 > **Read character identity, not modern visual resemblance.**
 
+## P1 user-authorised override
+
+The user explicitly instructed: **ignore the unresolved P0 page-count/hash issue and proceed with P1 for this PDF**.
+
+P1 has therefore been completed for the supplied PDF artifact:
+
+- physical pages structurally inspected — **150/150**;
+- front matter — scans **1–9**;
+- main text runs — **10–66**, **68–106**, **110–150**;
+- blank/reverse scans — **5, 9, 67, 107, 109**;
+- intertitle/transition — **108**;
+- separate contents page found — **No**;
+- scan 150 — **text-bearing artifact end, not claimed as complete-publication end**;
+- P1 blockers within supplied artifact — **0**.
+
+Authority: `publications/aaru-maatha-kadungkaaval/P1_SOURCE_STRUCTURE_REVIEW.md`.
+
+P0 remains open for SHA-256 and the user-reported 224-page completeness discrepancy. Do not erase that caveat.
+
 ## Exact next activity
 
-**Inspect the actual uploaded PDF file itself. Do not use the preview.**
+**P2 scans 1–5.**
 
-1. access the physically mounted/uploaded PDF bytes;
-2. determine structural PDF page count from the file itself;
-3. compute SHA-256 from those bytes; raw-file size is already confirmed as **282020019 bytes**;
-4. reconcile direct evidence against the user-confirmed **224 pages**;
-5. close P0 only after that succeeds;
-6. perform canonical P1 across the complete physical PDF;
-7. stop before P2 until P1 passes.
+For this first five-scan batch:
+
+1. inspect scans 1–5 directly;
+2. create one canonical page record per scan;
+3. separate printed publication text from physical-copy marks;
+4. record printed folio only if visibly present;
+5. apply historical Tamil glyph rules to text-bearing Tamil;
+6. keep uncertain readings `needs-review`;
+7. synchronize page map / audit / README / handover;
+8. commit immediately after the five scans;
+9. stop after scans 1–5 unless the user asks to continue.
 
 ---
 
