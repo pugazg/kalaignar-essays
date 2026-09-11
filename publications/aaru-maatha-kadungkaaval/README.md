@@ -33,8 +33,8 @@ For this publication, P0/P1 must be based on direct inspection of the **actual u
 
 - Publication 12 — **ACTIVE**
 - P0 source intake — **IN PROGRESS**
-- physical PDF page count — **224 (user-confirmed; direct byte-level verification still required)**
-- complete physical-file size — **PENDING direct byte-level verification**
+- physical PDF page count — **224 (user-confirmed; direct structural verification still required)**
+- raw uploaded file size — **282020019 bytes — CONFIRMED**
 - complete physical-file SHA-256 — **PENDING direct byte-level verification**
 - P1 page/structure mapping — **NOT STARTED**
 - P2 page transcription — **NOT STARTED**
@@ -68,7 +68,7 @@ For every body page during P2/P5:
 
 1. open the physically mounted/uploaded PDF bytes;
 2. determine physical PDF page count from the PDF structure;
-3. compute exact file size and SHA-256 from those bytes;
+3. compute SHA-256 from those bytes; the raw-file size is already confirmed as **282020019 bytes**;
 4. reconcile the expected **224 pages** against direct physical-file evidence;
 5. close P0 only after that verification;
 6. then perform canonical P1 across the complete physical PDF;
