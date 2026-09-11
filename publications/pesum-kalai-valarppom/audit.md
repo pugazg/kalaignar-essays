@@ -12,11 +12,11 @@
 | P5 strict visual fidelity | **COMPLETE / PASS** | **82/82; 33/33 corrections propagated; 0 unresolved** |
 | English E0 planning | **COMPLETE / PASS** | controls initialized |
 | English T0 | **COMPLETE / PASS — 19/19** | frozen Tamil SHAs recorded |
-| English T1 | **IN PROGRESS — 9/19** | Sections 1–9 complete |
-| English T2 | **IN PROGRESS — 9/19** | Sections 1–9 complete |
-| English T3 | **IN PROGRESS — 9/19** | Sections 1–9 complete |
-| English T4 | **IN PROGRESS — 9/19** | Sections 1–9 complete |
-| English T5 | **IN PROGRESS — 9/19** | Sections 1–9 verified |
+| English T1 | **IN PROGRESS — 14/19** | Sections 1–14 complete |
+| English T2 | **IN PROGRESS — 14/19** | Sections 1–14 complete |
+| English T3 | **IN PROGRESS — 14/19** | Sections 1–14 complete |
+| English T4 | **IN PROGRESS — 14/19** | Sections 1–14 complete |
+| English T5 | **IN PROGRESS — 14/19** | Sections 1–14 verified |
 
 ## Source authority
 
@@ -74,17 +74,29 @@
 
 All five sections: **T0–T5 COMPLETE / PASS**, T5 body corrections **0**, unresolved issues **0**, frozen Tamil edits **0**.
 
+## Sections 10–14 — VERIFIED
+
+| Section | Final verified English blob | T2 / T3 / T4 corrections | T4 decisions | Page comments |
+|---:|---|---|---:|---:|
+| 10 | `1cb939abb40a6a73c0e785b79ca079b2b69c1d9a` | **5 / 5 / 0** | 15 | 3/3 |
+| 11 | `a97cd4930f8eee76d7f3b010b547698a59bbcbe8` | **4 / 5 / 0** | 14 | 4/4 |
+| 12 | `15d010ab6a7a88d5ecd4cfd3d08441f40e2e915e` | **4 / 5 / 0** | 15 | 5/5 |
+| 13 | `0d43c80ee88dc6caaff5f313e3b870aa8708c1f0` | **3 / 5 / 0** | 16 | 4/4 |
+| 14 | `ea71a23cf3ffcdc2408c327bdb653bf755d772b2` | **4 / 5 / 1** | 17 | 5/5 |
+
+All five sections: **T0–T5 COMPLETE / PASS**, T5 body corrections **0**, unresolved issues **0**, frozen Tamil edits **0**.
+
 ## English gate totals
 
 | Gate | Complete |
 |---|---:|
 | T0 | **19/19** |
-| T1 | **9/19** |
-| T2 | **9/19** |
-| T3 | **9/19** |
-| T4 | **9/19** |
-| T5 | **9/19** |
-| Verified English articles | **9/19** |
+| T1 | **14/19** |
+| T2 | **14/19** |
+| T3 | **14/19** |
+| T4 | **14/19** |
+| T5 | **14/19** |
+| Verified English articles | **14/19** |
 
 Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0**.
 
@@ -92,4 +104,4 @@ Permanent rule: exact source `உடன்பிறப்பே` → `Udanpirapp
 
 ## Exact next activity
 
-**E1 — Section 10 / T1 close draft.** Revalidate frozen Tamil `articles/10-section-10.md` blob **`32dd5cf5bf4ec73e9c0cdb4c0f1eeead2f3a7055`**, scans **45–47 / printed pp.43–45**, translate the complete numbered Section 10, synchronize controls, and stop before T2.
+**E1 — Section 15 / T1 close draft.** Revalidate frozen Tamil `articles/15-section-15.md` blob **`682c68cdc0db1899749f2943c9d311ecb1061eb8`**, scans **64–67 / printed pp.62–65**, translate the complete numbered Section 15, synchronize controls, and stop before T2.
