@@ -10,7 +10,7 @@ This is the **single authoritative project handover**.
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 IN PROGRESS; P1 COMPLETE/PASS for supplied 150-page PDF artifact; P2 NEXT**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 IN PROGRESS; P1 PASS for supplied artifact; P2 IN PROGRESS 5/150**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -52,7 +52,7 @@ For this publication, all source-dependent archival claims must come from:
 - raw physical-file byte size — **282020019 bytes — CONFIRMED**
 - physical-file SHA-256 — **PENDING**
 - P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 — **NOT STARTED — next batch scans 1–5**
+- P2 — **IN PROGRESS — 5/150 records; 3 verified / 2 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -99,21 +99,47 @@ Authority: `publications/aaru-maatha-kadungkaaval/P1_SOURCE_STRUCTURE_REVIEW.md`
 
 P0 remains open for SHA-256 and the user-reported 224-page completeness discrepancy. Do not erase that caveat.
 
+## P2 batch 001 — scans 1–5
+
+Completed and committed:
+
+- scan 1 — physical-copy mark — **verified**
+- scan 2 — title page — **verified**
+- scan 3 — imprint — **needs-review**
+- scan 4 — publisher note — **needs-review**
+- scan 5 — blank/reverse — **verified**
+
+Durable totals:
+
+- canonical page records — **5/150**
+- verified — **3**
+- needs-review — **2**
+- guessed readings — **0**
+- historical-glyph corrections — **0**
+- open printed-text holds — **2**
+  - scan 3 small imprint/printer text;
+  - scan 4 exact publisher-note transcription.
+
+P0 SHA-256 / 224-page source-completeness discrepancy remains open and must not be silently resolved.
+
 ## Exact next activity
 
-**P2 scans 1–5.**
+**P2 scans 6–10.**
 
-For this first five-scan batch:
+Process exactly scans 6–10 as one batch:
 
-1. inspect scans 1–5 directly;
+1. inspect each page directly;
 2. create one canonical page record per scan;
-3. separate printed publication text from physical-copy marks;
-4. record printed folio only if visibly present;
-5. apply historical Tamil glyph rules to text-bearing Tamil;
-6. keep uncertain readings `needs-review`;
-7. synchronize page map / audit / README / handover;
-8. commit immediately after the five scans;
-9. stop after scans 1–5 unless the user asks to continue.
+3. preserve source wording/punctuation/spacing;
+4. separate printed text from physical-copy marks;
+5. apply historical-glyph checks to every text-bearing Tamil page;
+6. leave uncertainty `needs-review`;
+7. synchronize controls;
+8. commit immediately after scans 6–10;
+9. set next activity to scans 11–15;
+10. stop before scan 11 unless explicitly asked to continue.
+
+Do not reopen scans 1–5 except for the targeted holds on scans 3–4.
 
 ---
 
