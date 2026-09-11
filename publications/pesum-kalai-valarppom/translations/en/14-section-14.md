@@ -26,7 +26,7 @@ Though there are bodily movements, changes of facial expression, and sudden rise
 
 By speaking for several days in succession on the special qualities of the Ravana Kaviyam written by Pulavar Kuzhanthai, my friend Silamboli Chellappan made sweetness overflow in the hearts of Tamil learners.
 
-Silambu Selvar M. P. Si. achieved success by critically discussing the Silappathikaram for many days to the delight of audiences.
+Silambu Selvar Ma. Po. Si. achieved success by critically discussing the Silappathikaram for many days to the delight of audiences.
 
 <!-- Tamil source: scan 60 / printed 58 -->
 
