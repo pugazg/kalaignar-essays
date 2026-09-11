@@ -55,11 +55,11 @@ Structural authority: scans **3–82 = printed pp.1–80**; source-numbered sect
 - T0 — **19/19 PASS**;
 - English body files — **4/19**;
 - T1 — **4/19**;
-- T2 — **3/19**;
-- T3 — **3/19**;
-- T4 — **3/19**;
-- T5 — **3/19**;
-- verified English articles — **3/19**;
+- T2 — **4/19**;
+- T3 — **4/19**;
+- T4 — **4/19**;
+- T5 — **4/19**;
+- verified English articles — **4/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
@@ -129,67 +129,62 @@ Section 3 non-regression points:
 - the first old-style preamble quotation has **no closing quotation mark** in the frozen Tamil assembly before the following paragraph; do not manufacture one;
 - all **7/7** source-page comments remain.
 
-### Section 4 — T1 COMPLETE / draft
+### Section 4 — VERIFIED / T0–T5 COMPLETE
 
 Tamil authority:
 
 - `publications/pesum-kalai-valarppom/articles/04-section-04.md`;
 - frozen blob — **`b938be21e198d69548e45ae96cb0e9802b8d7079`**;
-- scans **22–27 / printed pp.20–25**;
-- T0 — **PASS**.
+- scans **22–27 / printed pp.20–25**.
 
 English:
 
 - `publications/pesum-kalai-valarppom/translations/en/04-section-04.md`;
-- T1 blob — **`665b4629202b57a81275310f86e25dfc4e2be73d`**;
-- `translation_status` — **draft**;
-- T1 — **PASS as a draft gate**;
+- T1 blob — `665b4629202b57a81275310f86e25dfc4e2be73d`;
+- post-T2 blob — `ab22ce719dc8e2c82cc5dbfeb4108b29d6bcdc8c`;
+- post-T3 blob — `6f461abbd058f69b6584dd32fc96a9b062425624`;
+- post-T4 blob — `aae55dffdf3d58d0b268c5ed2721f76d88451037`;
+- final T5 verified blob — **`9a236986ecf612f0da8de3179c8d8acd9eac3183`**;
+- `translation_status` — **verified**;
+- T2 — **PASS after 4 corrections**;
+- T3 — **PASS after 8 voice corrections**;
+- T4 — **PASS after 1 terminology correction**;
+- T5 — **PASS with 0 body corrections / status-only change**;
 - source-page comments — **6/6 retained**;
-- Section 4 T1 provisional lexicon/source decisions — **20**;
-- T2/T3/T4/T5 — **pending**;
-- unresolved T1 blockers — **0**;
+- T4-approved Section 4 decisions — **22**;
+- unresolved Section 4 English issues — **0**;
 - frozen Tamil edits — **0**.
 
-Section 4 non-regression points for T2:
+Section 4 non-regression points:
 
-- `சொற் பஞ்சம்` → provisional **famine of words**;
-- `குடந்தை` → **Kudanthai** and `குடந்தைப் பெரியவர்` source framing retained;
-- verified **Arignar Anna** form reused where the same source epithet recurs;
-- Annamalai / Annadurai / Neelamegam name-pun retains `malai`, `durai`, and `megam` source-bearing elements;
+- `சொற் பஞ்சம்` → **famine of words**;
+- `குடந்தை` → **Kudanthai**; `குடந்தைப் பெரியவர்` framing retained;
+- **Arignar Anna** remains source-bearing;
+- Annamalai / Annadurai / Neelamegam wordplay retains `malai—mountain`, `durai—a lord`, and `megam—cloud`;
 - `சபாஷ்` → **Sabash**;
-- K. K. Neelamegam’s pages **25 / 26 / 27** anecdote remains exact;
+- pages **25 / 26 / 27** remain exact in K. K. Neelamegam’s anecdote;
 - sea-sluice and inseparable-merging imagery remain intact;
-- `Annathurai kachcheri`, repeated `kachcheri`, and `Namaskaaranga!` preserve the quoted colloquial/concert framing;
+- `Ayya!`, `Annathurai kachcheri`, repeated `kachcheri`, and `Namaskaaranga!` remain source-bearing;
+- source `திருச்சி சிறை` → **Trichy prison**, not expanded `Tiruchirappalli prison`;
 - `Agraasanadhipathi → Avai-thalaivar` and `Sriman → Thiruvalar` remain visibly distinct;
 - grass-tip grazing, already-ground flour, and recorded-tape images remain explicit;
 - all **6/6** source-page comments remain.
 
 Permanent translation rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**, only where the exact Tamil form occurs. The publication uses numeric section labels only; do not invent descriptive English section titles.
 
-## Exact next activity — E1 / Section 4 T2 bilingual fidelity review
+## Exact next activity — E1 / Section 5 T1 close draft
 
-Re-fetch and require:
+Before drafting Section 5:
 
-- frozen Tamil `publications/pesum-kalai-valarppom/articles/04-section-04.md` blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`**;
-- T1 English `publications/pesum-kalai-valarppom/translations/en/04-section-04.md` blob **`665b4629202b57a81275310f86e25dfc4e2be73d`**.
+- re-fetch frozen Tamil `publications/pesum-kalai-valarppom/articles/05-section-05.md`;
+- require exact blob **`7fbb055e1f7f2630d39f5a3e203de5e2547b93b9`**;
+- source span — scans **27–31 / printed pp.25–29**;
+- if the Tamil blob differs, stop for source-drift reconciliation;
+- preserve any legitimate newer English Section 5 work if it already exists.
 
-Perform an independent sentence-by-sentence / clause-by-clause bilingual fidelity review. Check:
+Then perform **Section 5 / T1 close draft** from the frozen Tamil assembly. Preserve every paragraph/clause, numeric section identity `5`, all source-page comments, quotations, questions, repetition, irony, imagery and source-sensitive names/labels. Apply verified Sections 1–4 decisions only where the same Tamil function genuinely recurs. Record genuine new working decisions, synchronize controls, and stop before Section 5 T2.
 
-1. no omitted Tamil clause and no added English claim;
-2. word-famine / speaking-power opening and voice-modulation advice;
-3. five-minute / fifty-thousand contrast and all emphatic turns;
-4. Kudanthai / K. K. Neelamegam / Arignar Anna names and source epithets;
-5. the full Annamalai / Annadurai / malai / durai / megam / Neelamegam pun chain;
-6. applause / Sabash passage and the distinction between appreciative and dismissive clapping;
-7. pages 25 / 26 / 27, conference-pavilion quotation and reading-written-speeches lesson;
-8. sea-sluice image, wandering-mind image, and inseparable-merging argument;
-9. Chetpet / Kannadasan / Arangannal / Mullai Sakthi / 1953 / Kallakudi / Tiruchirappalli / Manapparai details;
-10. quoted `Annathurai kachcheri`, `Namaskaaranga!`, and the three-month recollection;
-11. `Agraasanadhipathi → Avai-thalaivar` and `Sriman → Thiruvalar` lexical-change contrasts;
-12. grass-tip, already-ground flour and recorded-tape images;
-13. all **6/6** source-page comments and every question/exclamation/repetition.
-
-Record every T2 correction transparently. If T2 passes, set `translation_status: "fidelity-reviewed"`, synchronize controls, and set Section 4 T3 as next. Do not modify frozen Tamil and do not start T3 in the same activity.
+Do not modify frozen Tamil.
 
 ---
 
