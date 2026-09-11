@@ -8,7 +8,7 @@ source_tamil_blob_sha: "060e72d9ec61e491343c948c2db9371312b7e3a8"
 source_scan_pages: "75-79"
 source_printed_pages: "73-77"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -34,7 +34,7 @@ Frequently jerking his neck to one side and brushing aside his thick moustache w
 
 Rajaji had the skill of arranging argument upon argument while repeatedly extending his hand toward the people as though bestowing grace.
 
-Raising his heels, shaking his shoulders, speaking as though a sea-sluice had been opened, and then suddenly drawing out certain words in a low voice to win the people's response—this was the distinctive style of Navalar Nedunchezhiyan.
+Raising his heels, shaking his shoulders, speaking as though a sea-sluice had been opened, and then suddenly drawing out certain words in a thin voice to win the people's response—this was the distinctive style of Navalar Nedunchezhiyan.
 
 Standing before the microphone with his head held high—never lowering it even once—and raising his hands toward the sky while raining down words may be called a distinctive manner seen in Professor Anbazhagan.
 
@@ -62,7 +62,7 @@ When Tamil-thendral Thiru. Vi. Ka. thundered from platforms for the freedom stru
 
 Maraimalai Adigalar, who worked to spread Tamil principles and opposed Hindi domination, used only pure-Tamil words in his speeches.
 
-In the speeches of Navalar Somasundara Bharathiar—who had the appearance of a powerful bull and tirelessly took part in the struggle against Hindi domination—the scolding expression “Ada saniyane!” would frequently come falling out.
+In the speeches of Navalar Somasundara Bharathiar—who had the appearance of a fighting bull and tirelessly took part in the struggle against Hindi domination—the scolding expression “Ada saniyane!” would frequently come falling out.
 
 Even after pouring forth words at countless meetings, Muthamizh Kaavalar Ki. Aa. Pe. Viswanatham still writes small notes in sequence, keeps them in hand, and with their help remains a speaker who captivates the people.
 
