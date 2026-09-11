@@ -11,13 +11,13 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - frozen Tamil assemblies — **19/19**;
 - E0 planning / workspace bootstrap — **COMPLETE / PASS**;
 - T0 source prerequisite — **19/19 PASS**;
-- English article body files — **9/19**;
-- T1 close draft — **9/19**;
-- T2 bilingual fidelity — **9/19**;
-- T3 Kalaignar voice — **9/19**;
-- T4 terminology / quotation / citation — **9/19**;
-- T5 article verification — **9/19**;
-- verified English articles — **9/19**;
+- English article body files — **14/19**;
+- T1 close draft — **14/19**;
+- T2 bilingual fidelity — **14/19**;
+- T3 Kalaignar voice — **14/19**;
+- T4 terminology / quotation / citation — **14/19**;
+- T5 article verification — **14/19**;
+- verified English articles — **14/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
@@ -36,11 +36,11 @@ Frozen baseline commit used for E0/T0: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d
 | 7 | `articles/07-section-07.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
 | 8 | `articles/08-section-08.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
 | 9 | `articles/09-section-09.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 10 | `articles/10-section-10.md` | **PASS** | — | — | — | — | — | not-started |
-| 11 | `articles/11-section-11.md` | **PASS** | — | — | — | — | — | not-started |
-| 12 | `articles/12-section-12.md` | **PASS** | — | — | — | — | — | not-started |
-| 13 | `articles/13-section-13.md` | **PASS** | — | — | — | — | — | not-started |
-| 14 | `articles/14-section-14.md` | **PASS** | — | — | — | — | — | not-started |
+| 10 | `articles/10-section-10.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
+| 11 | `articles/11-section-11.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
+| 12 | `articles/12-section-12.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
+| 13 | `articles/13-section-13.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
+| 14 | `articles/14-section-14.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
 | 15 | `articles/15-section-15.md` | **PASS** | — | — | — | — | — | not-started |
 | 16 | `articles/16-section-16.md` | **PASS** | — | — | — | — | — | not-started |
 | 17 | `articles/17-section-17.md` | **PASS** | — | — | — | — | — | not-started |
@@ -110,10 +110,22 @@ Frozen baseline commit used for E0/T0: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d
 
 All five T5 passes made **0 body corrections / status-only promotions**. Unresolved English issues across Sections 5–9: **0**.
 
+## Sections 10–14 — VERIFIED
+
+| Section | Frozen Tamil blob | Final verified English blob | T2 / T3 / T4 corrections | T4 decisions | Page comments |
+|---:|---|---|---|---:|---:|
+| 10 | `32dd5cf5bf4ec73e9c0cdb4c0f1eeead2f3a7055` | **`1cb939abb40a6a73c0e785b79ca079b2b69c1d9a`** | **5 / 5 / 0** | 15 | 3/3 |
+| 11 | `427a9ef35cd8ff1ffd873d5d2c9afccdcb7b2375` | **`a97cd4930f8eee76d7f3b010b547698a59bbcbe8`** | **4 / 5 / 0** | 14 | 4/4 |
+| 12 | `91f08b6cf0de84cc3a1b58120b1702d355f4c683` | **`15d010ab6a7a88d5ecd4cfd3d08441f40e2e915e`** | **4 / 5 / 0** | 15 | 5/5 |
+| 13 | `97dd9dc2f5ae10828ff68095ca87dd2cb484e745` | **`0d43c80ee88dc6caaff5f313e3b870aa8708c1f0`** | **3 / 5 / 0** | 16 | 4/4 |
+| 14 | `4c611fa7a2b6d91bfa4c767bfdb8c9fcfff8316c` | **`ea71a23cf3ffcdc2408c327bdb653bf755d772b2`** | **4 / 5 / 1** | 17 | 5/5 |
+
+All five T5 passes made **0 body corrections / status-only promotions**. Unresolved English issues across Sections 10–14: **0**.
+
 ## Binding repository rule
 
 Exact source `உடன்பிறப்பே` → **`Udanpirappē`**; as direct salutation use **`Udanpirappē,`**. Apply only where the exact source form occurs.
 
 ## Exact next activity
 
-**E1 — Section 10 / T1 close draft.** Re-fetch frozen Tamil `../../articles/10-section-10.md` and require blob **`32dd5cf5bf4ec73e9c0cdb4c0f1eeead2f3a7055`**, scans **45–47 / printed pp.43–45**. Translate the complete Section 10, preserve all page comments and rhetorical action, record genuine new working decisions, and stop before T2.
+**E1 — Section 15 / T1 close draft.** Re-fetch frozen Tamil `../../articles/15-section-15.md` and require blob **`682c68cdc0db1899749f2943c9d311ecb1061eb8`**, scans **64–67 / printed pp.62–65**. Translate the complete Section 15, preserve all source-page comments and rhetorical action, record genuine new working decisions, and stop before T2.
