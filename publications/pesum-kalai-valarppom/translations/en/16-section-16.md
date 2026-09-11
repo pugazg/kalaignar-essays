@@ -8,7 +8,7 @@ source_tamil_blob_sha: "1ab092b3b7bcdc0efd23f08e49799e7c3fda8d5f"
 source_scan_pages: "67-70"
 source_printed_pages: "65-68"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -93,4 +93,4 @@ capable of defeating that word.”
 
 Valluvar states categorically that we must know that no other word can defeat our word—and, after examining and knowing this, expand our idea only with the word we have carefully chosen.
 
-That is why he praises “the possession of the excellence called excellence of the tongue”; he extols the excellence called eloquence as a kind of wealth.
+That is why he praises “the possession of the excellence called tongue-excellence”; he extols the excellence called eloquence as a kind of wealth.
