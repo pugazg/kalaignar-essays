@@ -48,7 +48,7 @@ Another speaker arrived late for the same wedding. He did not know that Nannilam
 
 After finishing, the speaker looked at Natarasan and asked in surprise, ‘What, Natarasa! I told the story Kalaignar told. Not one person enjoyed it!’
 
-‘Annae, I told that story right at the beginning,’ Natarajan replied with a laugh.
+‘Annae, I told that story right at the beginning,’ Natarasan replied with a laugh.
 
 Speakers taking part in an event must pay attention to what those who spoke before them have said. If they happen to arrive late, they should at least ask someone on the stage and find out.
 
