@@ -1,47 +1,40 @@
 # Page Map — ஆறுமாதக் கடுங்காவல்
 
 Controlling publication: **`ஆறுமாதக் கடுங்காவல்`**  
-Authoritative complete extent: **224 physical PDF pages**  
-Currently accessible attachment: **150 / 224 pages**  
-Current gate: **P0 IN PROGRESS / P1 PARTIAL-PROVISIONAL**
+Expected physical PDF extent: **224 pages**  
+Current gate: **P0 IN PROGRESS / P1 NOT STARTED**
 
-Detailed partial reconnaissance: [`../P1_PARTIAL_RECONNAISSANCE.md`](../P1_PARTIAL_RECONNAISSANCE.md)
+## Source-authority correction
 
-## Accessible-source structural map
+The earlier preview-derived page map has been withdrawn.
 
-| Scan(s) | Provisional structural class | Canonical status |
-|---:|---|---|
-| 1 | later physical-copy / ownership-donation mark | provisional |
-| 2 | title page | source-visible |
-| 3 | first-edition / imprint page | source-visible |
-| 4 | publisher note | source-visible |
-| 5 | near-blank reverse / show-through | provisional structural class |
-| 6–7 | `காணிக்கை` dedication | source-visible front matter |
-| 8 | illustrated `முரசு` page | source-visible |
-| 9 | near-blank reverse / show-through | provisional structural class |
-| 10–66 | text-bearing main narrative run | structural sweep complete; exact folios/headings pending canonical P1 |
-| 67 | near-blank reverse / show-through | provisional structural class |
-| 68–106 | text-bearing main narrative run | structural sweep complete; exact boundaries pending |
-| 107 | near-blank reverse / show-through | provisional structural class |
-| 108 | low-density nonblank transition / section-opening candidate | exact role/title unresolved |
-| 109 | near-blank reverse / show-through | provisional structural class |
-| 110–150 | text-bearing main narrative run | continues beyond accessible boundary |
-| 151–224 | **UNAVAILABLE** | blocked |
+**No page-map claim is canonical until the actual uploaded PDF bytes are directly opened and rendered.**
 
-## P1 findings so far
+Do not use attachment preview/parser truncation or preview page counts to infer missing pages, publication structure, printed pagination, blank leaves, section boundaries, or source end.
 
-- accessible scan coverage inspected — **150 / 224**;
-- clear blank/reverse interruptions — **5, 9, 67, 107, 109**;
-- scan 108 is structurally distinct but not canonically classified;
-- no separate printed contents page has yet been positively established;
-- scan 150 is **not** treated as source end;
-- printed-page offset/formula — **not canonical**;
-- full internal-unit count — **not canonical**.
+## P1 requirements
 
-## Secondary bibliographic evidence
+After direct physical-file verification closes P0, inspect the complete PDF and record for every physical page:
 
-A saved bibliographic witness records the first edition as **`பக்.220`**. This is not controlling source evidence and must not be used to invent missing physical scans or a pagination formula.
+- physical PDF page index;
+- printed page number where visible;
+- suppressed/inferred folios separately;
+- page type;
+- front matter / body / back matter;
+- blank/reverse/show-through pages;
+- date/place/topic headings;
+- internal boundaries;
+- cross-page continuations;
+- illustrations;
+- physical-copy marks;
+- final source boundary;
+- contents/index presence;
+- pagination discontinuities.
+
+## Historical glyph overlay
+
+P1 is structural. P2/P5 must follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 
 ## Exact next activity
 
-Obtain/access scans **151–224** from the complete source; record complete file size/SHA-256; close P0; then finish canonical P1 over **all 224 scans**. Bulk Tamil transcription remains blocked until P1 completes.
+Directly inspect the actual uploaded PDF file, verify structural page count / byte size / SHA-256, then build the canonical page map from that physical file.
