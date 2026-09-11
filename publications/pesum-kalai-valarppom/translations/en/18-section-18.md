@@ -8,7 +8,7 @@ source_tamil_blob_sha: "060e72d9ec61e491343c948c2db9371312b7e3a8"
 source_scan_pages: "75-79"
 source_printed_pages: "73-77"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -16,7 +16,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 75 / printed 73; folio suppressed/inferred -->
 
-The distinctive manner or individual style called “mannerism” can take hold of speakers too. As they speak, distinctive bodily gestures and unavoidable habits begin without their even realising it; later, those very things become characteristics peculiar to those speakers.
+The distinctive manner or individual style called “mannerism” can take hold of speakers as well. As they speak, distinctive bodily gestures and unavoidable habits begin without their even realising it; later, those very things become characteristics peculiar to those speakers.
 
 Some stand on the stage without dancing or moving, pouring out ideas like a waterfall.
 
@@ -40,11 +40,11 @@ Standing before the microphone with his head held high—never lowering it even 
 
 <!-- Tamil source: scan 77 / printed 75 -->
 
-Such artificial styles that have arisen naturally in each person reach a stage where even they themselves cannot give them up!
+These artificial styles, once they arise naturally in each person, can reach a stage where even the speaker himself cannot give them up!
 
 There is no need for us to practise some bodily gesture or antic merely because we think we must have one when we speak. For some people, bodily antics become such an obstruction that the people fail to pay attention to the speech itself.
 
-Some stand before the microphone scratching their heads as they speak—twisting a hand as they speak. Some scrape dirt from their neck with their fingers as they speak, roll the collected dirt into a little ball, sniff it at their nose, and then drop it down. All this happens while they are still speaking.
+Some stand before the microphone scratching their heads as they speak—twisting a hand all the while. Some scrape dirt from their neck with their fingers as they speak, roll the collected dirt into a little ball, sniff it at their nose, and then drop it down. All this happens while they are still speaking.
 
 Speakers must never, even by mistake, learn such styles or bodily habits.
 
@@ -76,4 +76,4 @@ The late Tamilvaanan, a good writer, also possessed the skill to bring a gatheri
 
 Though they did not have the habit of speaking frequently at meetings, some writers like Jayakanthan would say something new in their speech and create a lively stir among those assembled. Quaid-e-Millath, who presented ideas in carefully chosen, lucid words, and Abdul Samad, who learned by staying close to him and delivered speeches sweeter than honey, earned renowned places on the speaking platform.
 
-Those who wish to shine as speakers must closely observe how people from so many different fields spoke—and how they speak.
+Those who wish to shine as speakers must watch closely how people from so many different fields spoke—and how they speak.
