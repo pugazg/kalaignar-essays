@@ -101,22 +101,25 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 30/224 canonical records; 27 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 35/224 canonical records; 32 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 30
+## P2 source use through scan 35
 
-Canonical records exist for scans **1–30**.
+Canonical records exist for scans **1–35**.
 
-Latest batch scans 26–30:
+Latest batch scans 31–35:
 
-- printed folios — **23–27**
+- printed folios — **28–32**
 - verified — **5/5**
 - new holds — **0**
 - guessed readings — **0**
 - cumulative historical-glyph corrections — **1**
+- scan 31 heading — `ஜூன் 19`
+- scan 35 heading — `விடிந்தது:`
+- scan 35 ends at `வேலாயுதம்`; continuation belongs to scan 36.
 
 Durable source-artifact anomaly:
 
@@ -132,4 +135,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 31–35.**
+**P2 scans 36–40.**

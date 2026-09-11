@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 30/224 records; 27 verified / 3 needs-review** |
+| P2 | **IN PROGRESS — 35/224 records; 32 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -76,11 +76,33 @@ Minimum explicit family set:
 | 004 | 16–20 | 4 | 1 | 1 |
 | 005 | 21–25 | 5 | 0 | 0 |
 | 006 | 26–30 | 5 | 0 | 0 |
+| 007 | 31–35 | 5 | 0 | 0 |
 
-## P2 cumulative totals through scan 30
+### Batch 007 — scans 31–35
 
-- canonical page records — **30/224**
-- verified — **27**
+| Scan | Printed folio | Record | Status | Open issue |
+|---:|:---:|---|---|---|
+| 31 | 28 | `0031-murasu.md` | verified | none |
+| 32 | 29 | `0032-murasu.md` | verified | none |
+| 33 | 30 | `0033-murasu.md` | verified | none |
+| 34 | 31 | `0034-murasu.md` | verified | none |
+| 35 | 32 | `0035-murasu.md` | verified | none |
+
+Batch 007 checks:
+
+- direct native/enlarged source-pixel comparison — **PASS**
+- historical 13-family check — **performed on all five pages**
+- guessed readings — **0**
+- new unresolved printed-text holds — **0**
+- cumulative historical-glyph corrections — **1**
+- source-visible unusual wording/spacing was preserved without context correction.
+- page-boundary fragments were preserved: scan 31 `சுறு` → scan 32 `சுறுப்புக்கும்`; scan 33 `அவர்களா` → scan 34 `கவே`; scan 34 `தலைமை` → scan 35 `யேற்றுப்`.
+- scan 35 ends at `வேலாயுதம்`; scan 36 remains unopened.
+
+## P2 cumulative totals through scan 35
+
+- canonical page records — **35/224**
+- verified — **32**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -104,4 +126,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 31–35.**
+**P2 scans 36–40.**

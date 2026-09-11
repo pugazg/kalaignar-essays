@@ -10,7 +10,7 @@ This is the **single authoritative project handover**.
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 30/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 35/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -55,7 +55,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 30/224 records; 27 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 35/224 records; 32 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -168,10 +168,31 @@ Source-artifact anomaly: scans **16–17 repeat printed folios 13–14**; scan 1
 - new holds — **0**
 - cumulative historical-glyph corrections — **1**
 
+### Batch 007 — scans 31–35
+
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 31 — `pages/0031-murasu.md` — **verified** — printed folio 28 — `ஜூன் 19`
+- scan 32 — `pages/0032-murasu.md` — **verified** — printed folio 29
+- scan 33 — `pages/0033-murasu.md` — **verified** — printed folio 30
+- scan 34 — `pages/0034-murasu.md` — **verified** — printed folio 31
+- scan 35 — `pages/0035-murasu.md` — **verified** — printed folio 32 — `விடிந்தது:`
+
+Batch 007 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 1**
+- source-visible unusual forms including `அனிபா`, `சுறுப்புக்கும்`, `இருவருக்கு மிடையே`, `வால்களையும்`, `பர்ஸ் காணும் சார்`, `குழந்தையா`, `புட்டுப் போட்டுக்கொண்டு`, and `தஞ்சைமா நகரம்` were preserved.
+- scan 35 ends at `வேலாயுதம்`; scan 36 is intentionally unopened.
+
 ## Durable P2 totals
 
-- canonical page records — **30/224**
-- verified — **27**
+- canonical page records — **35/224**
+- verified — **32**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -183,9 +204,9 @@ Source-artifact anomaly: scans **16–17 repeat printed folios 13–14**; scan 1
 
 ## Exact next activity
 
-**P2 scans 31–35.**
+**P2 scans 36–40.**
 
-Process exactly scans **31–35** as one five-scan batch from the attached PDF:
+Process exactly scans **36–40** as one five-scan batch from the attached PDF:
 
 - visually transcribe each whole page from source pixels;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
@@ -194,7 +215,7 @@ Process exactly scans **31–35** as one five-scan batch from the attached PDF:
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 36 unless explicitly asked to continue.
+- stop before scan 41 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 
