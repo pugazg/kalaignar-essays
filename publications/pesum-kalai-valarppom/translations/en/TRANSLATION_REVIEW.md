@@ -427,6 +427,51 @@ Tamil authority: `articles/19-section-19.md` — **`aa3eb2b5311f8ad1a705f606bd4a
 - T4 — **PASS with 0 body corrections**; post-T4 unchanged **`05be0594e6207ca7f1f1aeba0059fff644cc7e83`**; approved decisions **16**; source age/movement/history claims remain unreconciled with outside knowledge; unresolved issues **0**.
 - T5 — **PASS with 0 body corrections / status-only**; final verified blob **`e7cdf88c31c27e27ed973c382865bc9f7c4d66bc`**.
 
+## E6 — publication-wide English consistency review
+
+**COMPLETE / PASS after 2 English body corrections.**
+
+Scope: all **19/19** individually T5-verified English articles, checked against frozen Tamil metadata, the living lexicon and publication rules. Frozen Tamil edits: **0**.
+
+### Correction 1 — Section 6 / Nannilam Natarasan
+
+- frozen Tamil: `நன்னிலம் நடராசன்`, later `நடராசனை`, direct address `நடராசா`;
+- the English body correctly used `Nannilam Natarasan` elsewhere but one attribution had regressed to `Natarajan`;
+- corrected `Natarajan replied` → **`Natarasan replied`**;
+- T5 verified blob `80c33bcbbcb755d75e0f2fb467eca16e67e3264c` → E6 release-candidate blob **`69d999d2c019ca0d172b46148167f69c4da510c8`**.
+
+### Correction 2 — Section 9 / `திராவிடர் இயக்கம்`
+
+- frozen Section 9 and Section 19 both use the same source term `திராவிடர் இயக்கம்`;
+- Section 9 had `Dravidian movement`, while Section 19 had the source-bearing `Dravidar movement`;
+- no grammatical, rhetorical or source-witness difference justified the variation;
+- corrected Section 9 `Dravidian movement` → **`Dravidar movement`**;
+- T5 verified blob `7ef1627c25b1f040270c9cbe11a989ee17fa9eef` → E6 release-candidate blob **`765358f064a48e3bbd7d83291b4cfdd568140836`**.
+
+### Deliberate differences retained
+
+The following were reviewed and classified as **deliberate contextual/source-witness exceptions**, not inconsistencies:
+
+- `Periyar` / `Thanthai Periyar` and source-specific epithets;
+- `Anna` / `Arignar Anna` / `Perarignar Anna`;
+- `Purasawalkam` / `Purasai`;
+- `M.G.R.` / `M. G. Ramachandran`;
+- generic `Kazhagam` versus explicit party names;
+- `Kural` / `Tirukkural` according to the immediate source role.
+
+### Release checks
+
+- all 19 article metadata records remain `translation_status: "verified"`;
+- numeric section identity **1–19** remains intact; no descriptive section titles were invented;
+- source-page comments are complete and ordered across all sections;
+- protected forms such as `Bomman Kattan`, `cheap promise`, `durai—a lord`, `sarpam—a snake`, `Anbulla Kumari avargale!`, `திருவல்லுவர்`, `Tamish`, the Section 13 chronology anomaly, `Smit`, `Ada saniyane!`, and `Vaaliba Periyar` remain present;
+- no reverted `Tiruchirappalli`, `Thanjavur`, `Smith`, `M. P. Si.`, `film producer`, `General Assembly` or `Dear sibling` forms were found;
+- no academic distancing such as `Karunanidhi argues`, `he appears to suggest`, or `in the author's view` was introduced;
+- unresolved E6 consistency issues — **0**;
+- Tamil/source defects discovered — **0**.
+
+**E6 result: PASS.** The English translation is publication-wide consistent and may now be described as **English-translation complete**, pending **E7 English release closeout**.
+
 ## English gate totals
 
 | Gate | Status |
@@ -440,9 +485,10 @@ Tamil authority: `articles/19-section-19.md` — **`aa3eb2b5311f8ad1a705f606bd4a
 | T5 section verification | **19/19 PASS** |
 | Verified English articles | **19/19** |
 | English body files | **19/19** |
+| E6 publication consistency | **COMPLETE / PASS** |
 
 Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0**.
 
 ## Exact next activity
 
-**Publication-wide English cross-article consistency / release review.** All **19/19** articles are individually T0–T5 verified. Review the full English set for recurring names and epithets, ideological vocabulary, repeated phrases, quotation treatment, title style, tone consistency, source-bearing puns/transliterations, page-comment completeness, accidental smoothing between earlier and later articles, and any cross-article terminology drift. Do not modify frozen Tamil. Only after this review passes may the publication be described as **English-translation complete**.
+**E7 — English release closeout.** Use the E6-approved release-candidate corpus. Revalidate the 19 verified English article blobs, with Section 6 current blob **`69d999d2c019ca0d172b46148167f69c4da510c8`** and Section 9 current blob **`765358f064a48e3bbd7d83291b4cfdd568140836`**, confirm all control documents are synchronized, perform the final release/freeze bookkeeping required by the repository workflow, and only then move Publication 11 to RELEASE COMPLETE / FROZEN.
