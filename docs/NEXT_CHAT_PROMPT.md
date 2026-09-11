@@ -107,7 +107,7 @@ For every text-bearing page:
 - separate non-print physical-copy marks;
 - never fill uncertainty from context.
 
-After scans 31–35:
+After scans 36–40:
 
 - synchronize all dependent controls;
 - commit immediately;
