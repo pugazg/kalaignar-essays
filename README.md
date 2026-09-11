@@ -29,7 +29,7 @@ Current source-access state:
 - raw physical-file byte size — **282020019 bytes — CONFIRMED**
 - physical-file SHA-256 — **PENDING**
 - historical Tamil glyph workflow — **MANDATORY**
-- P1 — **NOT STARTED**
+- P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
 - P2–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil archival completion/freeze**
 - source PDF committed — **No**
@@ -38,7 +38,7 @@ The earlier preview-derived 150-page/P1 claims have been withdrawn. **Preview/pa
 
 User-supplied context describes the work as a prison-life memoir of Kalaignar's six-month sentence, including solitary confinement at Palayamkottai prison. This remains metadata/context unless directly reproduced by the scan itself.
 
-Exact next activity: **inspect the actual uploaded PDF bytes directly—not the preview—verify structural page count and SHA-256; raw size is already confirmed as 282020019 bytes. Close P0 only after those pass, then begin canonical P1.**
+Exact next activity: **P2 scans 1–5**. P0 SHA-256 / 224-page completeness discrepancy remains open; P1 is complete for the supplied 150-page artifact.
 
 ### Publications 1–11
 
