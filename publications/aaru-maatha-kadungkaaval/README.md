@@ -35,7 +35,7 @@ This description is retained as **user-supplied bibliographic/context metadata**
 - publisher — **`திராவிடப் பண்ணை`**
 - edition — **`முதல் பதிப்பு, 1953`**
 - source SHA-256 — **PENDING**
-- P1 page/structure mapping — **BLOCKED for scans 151–224 until complete source is accessible**
+- P1 page/structure mapping — **PARTIAL / PROVISIONAL — scans 1–150 structurally inspected; 151–224 blocked**
 - P2 page transcription — **NOT STARTED**
 - P3 assemblies — **NOT STARTED**
 - P4 source/completeness audit — **NOT STARTED**
@@ -90,6 +90,16 @@ For every body page during P2/P5:
 - scan 10 — chronological narrative begins.
 
 These are provisional P0 observations. Full publication structure must be mapped across **all 224 pages**.
+
+## P1 partial reconnaissance
+
+Accessible scans **1–150** have now been structurally inspected once. Durable record:
+
+`P1_PARTIAL_RECONNAISSANCE.md`
+
+Provisional findings include front matter at scans 1–9, narrative/text-bearing runs at 10–66, 68–106 and 110–150, clear blank/reverse interruptions at 5, 9, 67, 107 and 109, and an unresolved low-density structural transition at scan 108. Scan 150 is not treated as source end.
+
+A secondary bibliographic witness records the first edition as **பக்.220**. This remains non-controlling corroboration only.
 
 ## Exact next activity
 
