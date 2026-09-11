@@ -8,7 +8,7 @@ source_tamil_blob_sha: "7303356861196c1d98951c651c38c42b4d07ac90"
 source_scan_pages: "31-34"
 source_printed_pages: "29-32"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -16,7 +16,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 31 / printed 29 -->
 
-In earlier days, when I spoke at wedding functions, I would sometimes tell a foreign short story at one wedding or another. I would elaborate and polish that story greatly and tell it in a way suited to our motherland.
+In earlier days, when I spoke at wedding functions, I would sometimes tell a foreign short story at some wedding or other. I would elaborate and polish that story greatly and tell it in a way suited to our motherland.
 
 “A husband and wife lived in harmony. Poverty struck them. They suffered with no means of livelihood. One day the wife suggested to her husband that he take the bull at home to the market and sell it, and that with the money they could open a small petty shop and keep the family going. He agreed, drove the bull along, and walked down the road to the market. On the way, the bull became frightened and ran this way and that.
 
@@ -34,17 +34,17 @@ The foolish husband said nothing of the sort would happen. The neighbour said it
 
 The neighbour told the fool's wife all the foolish things her husband had done and mocked him: ‘In the end, your husband went away with a bull and has returned with a cup of tea.’ But the fool's wife looked at her husband and lovingly asked, ‘At least did that tea fill your stomach?’
 
-The neighbour was utterly shocked. He lost the wager and signed over the petty shop.
+The neighbour was stunned! He lost the wager and signed over the petty shop.
 
-The next day he looked at the foolish husband and asked, ‘What, man, is your wife even more foolish than you?’ The husband replied, ‘Nothing of the sort. However much anger or hurt she may have toward me, she will not show it before others. I am the same. It was with that confidence that I made the wager with you.’
+The next day he looked at the foolish husband and asked, ‘Hey! Is your wife even more foolish than you?’ The husband replied, ‘Nothing of the sort. However much anger or hurt she may have toward me, she will not show it before others. I am the same. It was with that confidence that I made the wager with you.’
 
-This story is an example of why one should not magnify family problems before others!”
+This story shows why family problems should not be magnified before others!”
 
 I have included this in wedding greetings at a few places as though offering advice to the newlyweds.
 
 At a wedding in Nagai, a Kazhagam speaker named Nannilam Natarasan, who had gone there to offer greetings, told this story humorously enough to make applause and laughter echo.
 
-Another speaker arrived late for the same wedding. He did not know that Nannilam Natarasan<!-- Tamil source: scan 34 / printed 32 --> had already told the story. When he was invited to offer greetings, he too told the very same story, stretching it out beautifully and entertainingly and declaiming it loudly. There was no response at all from the people. Many began getting up and leaving. Some smiled mockingly.
+Another speaker arrived late for the same wedding. He did not know that Nannilam Natarasan<!-- Tamil source: scan 34 / printed 32 --> had already told the story. When he was invited to offer greetings, he too told the very same story, stretching it out beautifully and entertainingly and declaiming it loudly. Not a trace of response came from the people. Many began getting up and leaving. Some smiled mockingly.
 
 After finishing, the speaker looked at Natarasan and asked in surprise, ‘What, Natarasa! I told the story Kalaignar told. Not one person enjoyed it!’
 
@@ -52,6 +52,6 @@ After finishing, the speaker looked at Natarasan and asked in surprise, ‘What,
 
 Speakers taking part in an event must pay attention to what those who spoke before them have said. If they happen to arrive late, they should at least ask someone on the stage and find out.
 
-If one person simply repeats at the same event what another has already said, disappointment is all that remains for such speakers.
+If one person repeats at the same event what another has already said, disappointment is all that awaits the speaker.
 
 Especially when telling particular short stories, comparisons or examples, it is very important to know what the speaker before you has already spoken about.
