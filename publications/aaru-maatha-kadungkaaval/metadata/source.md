@@ -101,25 +101,26 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 50/224 canonical records; 47 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 55/224 canonical records; 52 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 50
+## P2 source use through scan 55
 
-Canonical records exist for scans **1–50**.
+Canonical records exist for scans **1–55**.
 
-Latest batch scans 46–50:
+Latest batch scans 51–55:
 
-- printed folios — **43–47**
+- printed folios — **48–52**
 - verified — **5/5**
 - new holds — **0**
 - guessed readings — **0**
 - cumulative historical-glyph corrections — **1**
-- scan 45 `காய` + scan 46 `வதேன்` is direct physical continuation `காய்வதேன்`.
-- unusual source forms `பொறுமையை`, `பய முறுத்தி`, `ஒதுங்கற`, `கெளதமர்`, `பரந்தாமன்`, and `இறையாகக்கப்பட்டது` were preserved.
-- scan 50 ends at `பாதை தவறியதின்`; continuation belongs to scan 51 and is not inferred.
+- scan 51 heading — `அரியலூர் :`
+- direct continuations confirmed: scan 51 `புறப்` → scan 52 `பட்டோம்`; scan 52 `வந்திருக்க` → scan 53 `குமே!`; scan 53 `அவர்` → scan 54 `பிரச்சாரப் பணியில்`.
+- unusual source forms `குட்டப்படுகிற`, `திரா படையைத்`, `நெளூர்`, `எசனே`, and `இளைஞரேறுகள்` were preserved.
+- scan 55 ends at `வளர்ந்துவரும்`; continuation belongs to scan 56 and is not inferred.
 
 Durable source-artifact anomaly:
 
@@ -135,4 +136,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 51–55.**
+**P2 scans 56–60.**

@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 50/224 records; 47 verified / 3 needs-review** |
+| P2 | **IN PROGRESS — 55/224 records; 52 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -80,6 +80,7 @@ Minimum explicit family set:
 | 008 | 36–40 | 5 | 0 | 0 |
 | 009 | 41–45 | 5 | 0 | 0 |
 | 010 | 46–50 | 5 | 0 | 0 |
+| 011 | 51–55 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -168,10 +169,32 @@ Batch 010 checks:
 - page-boundary fragments were preserved: scan 46 `தக்கோர் சிலர்` → scan 47 `கொண்ட ஒரு குழுவை`; scan 47 `ஆரிய மதப்` → scan 48 `பாதுகாவலர்`; scan 48 `சொல்லிவிட்டு` → scan 49 `ஒதுங்கற வரையிலே`.
 - scan 50 ends at `பாதை தவறியதின்`; scan 51 remains unopened.
 
-## P2 cumulative totals through scan 50
+### Batch 011 — scans 51–55
 
-- canonical page records — **50/224**
-- verified — **47**
+| Scan | Printed folio | Record | Status | Open issue |
+|---:|:---:|---|---|---|
+| 51 | 48 | `0051-murasu.md` | verified | none |
+| 52 | 49 | `0052-murasu.md` | verified | none |
+| 53 | 50 | `0053-murasu.md` | verified | none |
+| 54 | 51 | `0054-murasu.md` | verified | none |
+| 55 | 52 | `0055-murasu.md` | verified | none |
+
+Batch 011 checks:
+
+- direct native/enlarged source-pixel comparison — **PASS**
+- historical 13-family check — **performed on all five pages**
+- guessed readings — **0**
+- new unresolved printed-text holds — **0**
+- cumulative historical-glyph corrections — **1**
+- source-visible unusual wording/spacing was preserved without context correction.
+- page-boundary fragments were preserved: scan 51 `புறப்` → scan 52 `பட்டோம்`; scan 52 `வந்திருக்க` → scan 53 `குமே!`; scan 53 `அவர்` → scan 54 `பிரச்சாரப் பணியில்`.
+- scan 54 preserves source-visible `குட்டப்படுகிற` and the printed `திரா` / next-line `படையைத்` sequence without supplying missing letters.
+- scan 55 ends inside an open quotation at `வளர்ந்துவரும்`; scan 56 remains unopened.
+
+## P2 cumulative totals through scan 55
+
+- canonical page records — **55/224**
+- verified — **52**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -195,4 +218,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 51–55.**
+**P2 scans 56–60.**

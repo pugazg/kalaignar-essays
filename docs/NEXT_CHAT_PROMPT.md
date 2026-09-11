@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 51–55
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 56–60
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -27,23 +27,24 @@ Do not use Tamil Digital Library, Wikisource, OCR text, alternate editions, or w
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 50/224 canonical records**
-  - verified — **47**
+- P2 — **IN PROGRESS — 55/224 canonical records**
+  - verified — **52**
   - needs-review — **3**
   - blocked — **0**
   - historical-glyph corrections — **1**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED**
 
-Latest P2 batch — scans **46–50** — is complete:
+Latest P2 batch — scans **51–55** — is complete:
 
 - verified — **5/5**
-- printed folios — **43–47**
+- printed folios — **48–52**
 - new holds — **0**
 - historical-glyph correction count — **unchanged at 1**
-- scan 45 `காய` + scan 46 `வதேன்` is directly source-resolved as physical continuation `காய்வதேன்`
-- unusual source forms `பொறுமையை`, `பய முறுத்தி`, `ஒதுங்கற`, `கெளதமர்`, `பரந்தாமன்`, and `இறையாகக்கப்பட்டது` were preserved
-- scan 50 ends at `பாதை தவறியதின்`; read scan 51 directly for continuation and do not guess the completion.
+- scan 51 heading — `அரியலூர் :`
+- direct page-boundary continuations confirmed: `புறப்` → `பட்டோம்`, `வந்திருக்க` → `குமே!`, and `அவர்` → `பிரச்சாரப் பணியில்`
+- source-visible forms `குட்டப்படுகிற`, `திரா படையைத்`, `நெளூர்`, `எசனே`, and `இளைஞரேறுகள்` were preserved
+- scan 55 ends inside an open quotation at `வளர்ந்துவரும்`; read scan 56 directly for continuation and do not guess the completion.
 
 Open P2 holds remain:
 
@@ -94,9 +95,9 @@ Read completely:
 9. `P1_SOURCE_STRUCTURE_REVIEW.md`
 10. `audit.md`
 
-## Exact next activity — P2 scans 51–55
+## Exact next activity — P2 scans 56–60
 
-Process **exactly scans 51–55 as one batch** from the attached PDF.
+Process **exactly scans 56–60 as one batch** from the attached PDF.
 
 For every text-bearing page:
 
@@ -107,12 +108,12 @@ For every text-bearing page:
 - separate non-print physical-copy marks;
 - never fill uncertainty from context.
 
-After scans 51–55:
+After scans 56–60:
 
 - synchronize all dependent controls;
 - commit immediately;
 - report verified / needs-review / hold counts;
 - set the next five-scan batch from live durable state;
-- stop before scan 56 unless explicitly asked to continue.
+- stop before scan 61 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural evidence appears.

@@ -10,7 +10,7 @@ This is the **single authoritative project handover**.
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 50/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 55/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -55,7 +55,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 50/224 records; 47 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 55/224 records; 52 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -255,10 +255,32 @@ Batch 010 result:
 - source-visible unusual forms including `பொறுமையை`, `பய முறுத்தி`, `ஒதுங்கற`, `கெளதமர்`, `பரந்தாமன்`, and `இறையாகக்கப்பட்டது` were preserved.
 - scan 50 ends at `பாதை தவறியதின்`; scan 51 is intentionally unopened.
 
+### Batch 011 — scans 51–55
+
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 51 — `pages/0051-murasu.md` — **verified** — printed folio 48 — heading `அரியலூர் :`
+- scan 52 — `pages/0052-murasu.md` — **verified** — printed folio 49
+- scan 53 — `pages/0053-murasu.md` — **verified** — printed folio 50
+- scan 54 — `pages/0054-murasu.md` — **verified** — printed folio 51
+- scan 55 — `pages/0055-murasu.md` — **verified** — printed folio 52
+
+Batch 011 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 1**
+- source-visible forms including `எத்திராஜ்`, `அப்படி யொன்றும்`, `கடமை யுணர்ச்சி`, `குட்டப்படுகிற`, `போவோர் வருவாரை`, `திரா படையைத்`, `நெளூர்`, `எசனே`, and `இளைஞரேறுகள்` were preserved.
+- page-boundary continuations directly confirmed: scan 51 `புறப்` → scan 52 `பட்டோம்`; scan 52 `வந்திருக்க` → scan 53 `குமே!`; scan 53 `அவர்` → scan 54 `பிரச்சாரப் பணியில்`.
+- scan 55 ends inside an open quotation at `வளர்ந்துவரும்`; scan 56 is intentionally unopened.
+
 ## Durable P2 totals
 
-- canonical page records — **50/224**
-- verified — **47**
+- canonical page records — **55/224**
+- verified — **52**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -270,9 +292,9 @@ Batch 010 result:
 
 ## Exact next activity
 
-**P2 scans 51–55.**
+**P2 scans 56–60.**
 
-Process exactly scans **51–55** as one five-scan batch from the attached PDF:
+Process exactly scans **56–60** as one five-scan batch from the attached PDF:
 
 - visually transcribe each whole page from source pixels;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
@@ -281,7 +303,7 @@ Process exactly scans **51–55** as one five-scan batch from the attached PDF:
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 56 unless explicitly asked to continue.
+- stop before scan 61 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 
