@@ -17,13 +17,13 @@ Workspace: `publications/pesum-kalai-valarppom/`
 
 - E0 planning — **COMPLETE / PASS**;
 - T0 — **19/19 PASS**;
-- English body files — **9/19**;
-- T1 — **9/19**;
-- T2 — **9/19**;
-- T3 — **9/19**;
-- T4 — **9/19**;
-- T5 — **9/19**;
-- verified English articles — **9/19**;
+- English body files — **14/19**;
+- T1 — **14/19**;
+- T2 — **14/19**;
+- T3 — **14/19**;
+- T4 — **14/19**;
+- T5 — **14/19**;
+- verified English articles — **14/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
@@ -91,8 +91,19 @@ The verified Section 4 preserves the Annamalai / Annadurai / Neelamegam pun chai
 - unresolved English issues — **0**;
 - frozen Tamil edits — **0**.
 
+## Sections 10–14 — VERIFIED
+
+- Section 10 — final verified English blob **`1cb939abb40a6a73c0e785b79ca079b2b69c1d9a`**; T2/T3/T4 corrections **5/5/0**; T4 decisions **15**; page comments **3/3**.
+- Section 11 — final verified English blob **`a97cd4930f8eee76d7f3b010b547698a59bbcbe8`**; T2/T3/T4 corrections **4/5/0**; T4 decisions **14**; page comments **4/4**.
+- Section 12 — final verified English blob **`15d010ab6a7a88d5ecd4cfd3d08441f40e2e915e`**; T2/T3/T4 corrections **4/5/0**; T4 decisions **15**; page comments **5/5**.
+- Section 13 — final verified English blob **`0d43c80ee88dc6caaff5f313e3b870aa8708c1f0`**; T2/T3/T4 corrections **3/5/0**; T4 decisions **16**; page comments **4/4**.
+- Section 14 — final verified English blob **`ea71a23cf3ffcdc2408c327bdb653bf755d772b2`**; T2/T3/T4 corrections **4/5/1**; T4 decisions **17**; page comments **5/5**.
+- T5 body corrections — **0 for all five / status-only promotions**;
+- unresolved English issues — **0**;
+- frozen Tamil edits — **0**.
+
 Permanent rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`** only where the exact source form occurs. The source supplies numeric sections only; do not invent descriptive English section titles.
 
 ## Exact next activity
 
-**E1 — Section 10 / T1 close draft.** Frozen Tamil authority: `articles/10-section-10.md`, expected blob **`32dd5cf5bf4ec73e9c0cdb4c0f1eeead2f3a7055`**, scans **45–47 / printed pp.43–45**. Revalidate that blob, translate the complete Section 10, synchronize controls, and stop before Section 10 T2.
+**E1 — Section 15 / T1 close draft.** Frozen Tamil authority: `articles/15-section-15.md`, expected blob **`682c68cdc0db1899749f2943c9d311ecb1061eb8`**, scans **64–67 / printed pp.62–65**. Revalidate that blob, translate the complete Section 15, synchronize controls, and stop before Section 15 T2.
