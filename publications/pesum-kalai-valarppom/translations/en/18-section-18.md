@@ -60,7 +60,7 @@ Among heads of mutts who used foreign-language words and Vedas and puranas in de
 
 When Tamil-thendral Thiru. Vi. Ka. thundered from platforms for the freedom struggle, for literary renaissance, for Tamil rights and for spreading religious principles, he made it a habit to repeat certain important words three times with force and precision.
 
-Maraimalai Adigalar, who worked to spread Tamil principles and opposed Hindi domination, used only pure-Tamil words in his speeches.
+Maraimalai Adigalar, who worked to spread the Tamil way and opposed Hindi domination, used only pure-Tamil words in his speeches.
 
 In the speeches of Navalar Somasundara Bharathiar—who had the appearance of a fighting bull and tirelessly took part in the struggle against Hindi domination—the scolding expression “Ada saniyane!” would frequently come falling out.
 
