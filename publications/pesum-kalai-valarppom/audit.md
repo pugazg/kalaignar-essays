@@ -17,7 +17,8 @@
 | English T3 | **COMPLETE / PASS — 19/19** | Sections 1–19 complete |
 | English T4 | **COMPLETE / PASS — 19/19** | Sections 1–19 complete |
 | English T5 | **COMPLETE / PASS — 19/19** | Sections 1–19 verified |
-| English publication release review | **PENDING** | cross-article consistency gate not yet run |
+| English E6 publication consistency | **COMPLETE / PASS** | 2 body corrections; 0 unresolved |
+| English E7 release closeout | **PENDING** | final release/freeze bookkeeping |
 
 ## Source authority
 
@@ -68,10 +69,10 @@
 | Section | Final verified English blob | T2 / T3 / T4 corrections | T4 decisions | Page comments |
 |---:|---|---|---:|---:|
 | 5 | `be408840f6e92913a003831b0ce6d4469ce7c52a` | **2 / 6 / 0** | 12 | 5/5 |
-| 6 | `80c33bcbbcb755d75e0f2fb467eca16e67e3264c` | **3 / 6 / 0** | 10 | 4/4 |
+| 6 | `69d999d2c019ca0d172b46148167f69c4da510c8` | **3 / 6 / 0** | 10 | 4/4 |
 | 7 | `bff09511f02948f1bc8bc5739425fdde29a27b98` | **3 / 5 / 1** | 16 | 5/5 |
 | 8 | `2bdca622cf08295f3a41309168098d5c4459aebb` | **4 / 5 / 0** | 16 | 4/4 |
-| 9 | `7ef1627c25b1f040270c9cbe11a989ee17fa9eef` | **1 / 5 / 0** | 15 | 3/3 |
+| 9 | `765358f064a48e3bbd7d83291b4cfdd568140836` | **1 / 5 / 0** | 15 | 3/3 |
 
 All five sections: **T0–T5 COMPLETE / PASS**, T5 body corrections **0**, unresolved issues **0**, frozen Tamil edits **0**.
 
@@ -116,6 +117,23 @@ Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0*
 
 Permanent rule: exact source `உடன்பிறப்பே` → `Udanpirappē`; direct salutation `Udanpirappē,` only where the exact source form occurs.
 
+## E6 publication-wide English consistency review — PASS
+
+- full English corpus reviewed — **19/19**;
+- E6 body corrections — **2**;
+- Section 6 current blob — **`69d999d2c019ca0d172b46148167f69c4da510c8`**;
+- Section 9 current blob — **`765358f064a48e3bbd7d83291b4cfdd568140836`**;
+- recurring names/epithets — **PASS after correction**;
+- ideological/movement vocabulary — **PASS after correction**;
+- quotation/verse treatment — **PASS**;
+- numeric title style — **PASS**;
+- voice/tone consistency — **PASS**;
+- source-bearing puns/transliterations/anomalies — **PASS**;
+- source-page comments — **PASS across 19/19**;
+- unresolved E6 issues — **0**;
+- frozen Tamil edits — **0**;
+- English translation — **COMPLETE**.
+
 ## Exact next activity
 
-**Publication-wide English cross-article consistency / release review.** All **19/19** articles are individually verified. Check the complete English corpus for recurring terminology, epithets, quotation treatment, source-bearing puns/transliterations, title/tone consistency, page-comment completeness and cross-article drift. Frozen Tamil remains immutable. Do not mark English translation complete until this gate passes.
+**E7 — English release closeout.** Revalidate the E6-approved corpus and controls, confirm no frozen Tamil or source records changed, perform final release bookkeeping, and move Publication 11 to **RELEASE COMPLETE / FROZEN** only if E7 passes.
