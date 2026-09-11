@@ -18,15 +18,15 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 A speech must suit one's appearance and one's age—that too is not an idea to be neglected! I want to mention here, for two different points, two plays staged about thirty years ago and advertised as being held under the leadership of Arignar Anna and in my presence.<!-- Tamil source: scan 35 / printed 33 -->
 
-One was a play in North Chennai, produced and staged by party comrades. A man who works for the poor raises the flag of revolt against the head of the local mutt. With the poor following him, this ally of the poor enters the mutt and angrily addresses the mutt-head seated on a golden throne:
+One was a play in North Chennai, produced and staged by party comrades. A man who works for the poor raises the flag of revolt against the head of the local mutt. With the poor following him, this ally of the poor enters the mutt and angrily addresses the head of the mutt seated on a golden throne:
 
-“Look at our working class, worn to the bone by labouring and labouring; must our sweat run like a river so that mutt-heads like you, eating, puffed up and bloated, may grow fat?”
+“Look at our working class, worn to the bone by labouring and labouring; must our sweat run like a river so that heads of mutts like you, eating, puffed up and bloated, may grow fat?”
 
 He delivers the speech like this. At the very point when the audience should have been moved and applauded, everyone gathered in the hall to watch the play burst into mocking laughter. Anna looked at me with a smile. I struggled to hold back my laughter.
 
 Do you know why lines that ought to have won applause drew ridicule instead?
 
-The actor playing the mutt-head at whom the ally of the poor said, “You lie there eating—puffed up—bloated!” had a body like a cluster bean. He appeared stooped and shrunken, all skin and bone. But the man who thundered, “We have laboured and laboured until we are worn to the bone,” looked hefty, with a paunch and belly, and appeared to weigh about three hundred pounds. Either the lines should have been changed, or at least the actors should have been changed to suit the roles.
+The actor playing the head of the mutt at whom the ally of the poor said, “You lie there eating—puffed up—bloated!” had a body like a cluster bean. He appeared stooped and shrunken, all skin and bone. But the man who thundered, “We have laboured and laboured until we are worn to the bone,” looked hefty, with a paunch and belly, and appeared to weigh about three hundred pounds. Either the lines should have been changed, or at least the actors should have been changed to suit the roles.
 
 <!-- Tamil source: scan 36 / printed 34 -->
 
