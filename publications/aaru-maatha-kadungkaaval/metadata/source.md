@@ -8,15 +8,14 @@ User-confirmed bibliographic metadata:
 - ஆசிரியர்: **`கலைஞர் மு. கருணாநிதி`**
 - வெளியீடு: **`திராவிடப் பண்ணை`**
 - பதிப்பு: **`முதல் பதிப்பு, 1953`**
-- complete physical PDF extent: **224 pages**
 
 User-supplied publication description:
 
 > **ஆறு மாத காலம் சிறைத்தண்டனை பெற்ற கலைஞர், பாளையங்கோட்டை சிறைச்சாலையில் தனிக் கொட்டடியில் அடைக்கப்பட்டிருந்தார். அந்தக் காலத்தில் கலைஞர் அனுபவித்த சிறை வாழ்க்கை குறித்த நினைவுப் பதிவு இது.**
 
-This remains user-supplied metadata/context unless directly confirmed in the physical PDF.
+This remains user-supplied context unless directly confirmed in the physical PDF.
 
-## Uploaded source
+## Attached controlling source
 
 Filename:
 
@@ -24,22 +23,42 @@ Filename:
 
 Repository policy:
 
-- source PDF committed to GitHub — **No**
+- source PDF committed — **No**
 
-Current source facts:
+Direct native-file verification:
 
-- byte size — **282020019 bytes**
-- supplied artifact exposed to the current page renderer — **150 pages**
-- user-reported complete publication/PDF extent — **224 pages**
-- SHA-256 — **PENDING**
-- source-completeness discrepancy — **OPEN**
-- image/text-layer condition — **image-only scan / no usable parsed text observed**
+- byte size — **282020019**
+- SHA-256 — **`8d4b227547144dd16a78d3f7e22edc3d955d754788ba96317c0c6ddd68d0ca69`**
+- physical scan count — **224**
+- PDF version — **1.4**
+- scan condition — **image-only / no usable parsed text layer for transcription authority**
+
+## Corrected source-extent finding
+
+The page-rendering interface initially exposed only scans **1–150**, which created an apparent 150-vs-224 completeness discrepancy.
+
+Direct inspection of the mounted attached PDF bytes proves that the same attached file contains **224 physical pages**.
+
+Therefore:
+
+- source-completeness discrepancy — **RESOLVED**
+- P0 — **COMPLETE / PASS**
+- scan 150 — **not artifact end**
+- scans 151–224 — **present in the attached source and pending P1 structural mapping**
 
 ## Source-authority rule
 
-The source scan pixels are controlling for transcription. Preview/parser text, OCR, contextual expectation, alternate editions and secondary witnesses must not override source-visible wording.
+Only source scan pixels control transcription.
 
-The P1 map is valid for the supplied **150-page artifact** only. It does not resolve the separate user-reported **224-page** complete extent.
+Do not silently import wording from:
+
+- OCR;
+- preview/parser text;
+- Tamil Digital Library / TVA;
+- Wikisource;
+- alternate editions;
+- web copies;
+- contextual expectation.
 
 ## Historical-glyph authority
 
@@ -47,66 +66,45 @@ Mandatory guide:
 
 `../../../HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 
-For P2/P5, explicitly check:
+Known minimum families:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-This is glyph decoding, not spelling modernization.
+## Current gate status
 
-## Intake / gate status
-
-- bibliographic identity — **ESTABLISHED from user-confirmed metadata**
-- expected complete extent — **224 pages**
-- supplied artifact — **150 pages**
-- raw-file size verification — **PASS — 282020019 bytes**
-- SHA-256 verification — **PENDING**
-- P0 — **IN PROGRESS**
-- P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 — **IN PROGRESS — 25/150 canonical records; 22 verified / 3 needs-review**
+- P0 — **COMPLETE / PASS**
+- P1 — **IN PROGRESS — 150/224 structurally mapped**
+- P2 — **IN PROGRESS — 30/224 canonical records; 27 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P1 supplied-artifact result
+## P2 source use through scan 30
 
-The user explicitly authorised proceeding despite unresolved P0 SHA-256/source-extent reconciliation.
+Canonical records exist for scans **1–30**.
 
-The supplied artifact was structurally inspected **150/150 pages** and passed P1 for that artifact. Full result:
+Latest batch scans 26–30:
 
-`../P1_SOURCE_STRUCTURE_REVIEW.md`
+- printed folios — **23–27**
+- verified — **5/5**
+- new holds — **0**
+- guessed readings — **0**
+- cumulative historical-glyph corrections — **1**
 
-This does not resolve the separate user-reported **224-page** publication extent.
+Durable source-artifact anomaly:
 
-## P2 source use through scan 25
-
-Canonical records now exist for scans **1–20**.
-
-New direct-source anomaly:
-
-- scans **16–17** repeat printed folios **13–14**, respectively, as second physical witnesses of the text at scans 14–15;
-- scan **18** resumes printed folio **15** and the continuation after scan 15;
-- the artifact is therefore not treated as a simple one-scan/one-folio sequence in this region;
+- scans 16–17 repeat printed folios 13–14;
+- scan 18 resumes printed folio 15;
 - all physical scans are retained individually.
 
-Scans **21–25** were directly transcribed and verified from the supplied artifact:
+Open printed-text holds:
 
-- printed folios — **18–22**
-- scan 22 begins `அடுத்த நாள் :`
-- scan 25 begins `மூன்றாம் நாள் :`
-- new source holds — **0**
-- scan 22 historical `லை` in `அம்பிலை` and scan 25 historical `றா` in `மூன்றாம்` were decoded during first-pass transcription.
-
-Current totals:
-
-- verified — **22**
-- needs-review — **3**
-- open printed-text holds — **3**
-  - scan 3 small imprint/printer text;
-  - scan 4 exact publisher-note transcription;
-  - scan 18 one physically obscured cluster after `ஒருவராக ஆ`;
-- guessed readings — **0**
-- historical-glyph corrections — **1** (scan 13: historical `றா` source identity decoded as `பொற்சுரங்கமென்றாளோ`)
+- scan 3 — small imprint/printer text;
+- scan 4 — exact publisher-note transcription;
+- scan 18 — physically obscured cluster after `ஒருவராக ஆ`.
 
 ## Exact next activity
 
-**P2 scans 26–30** against the supplied artifact. Keep the P0 source-completeness discrepancy and scans 3–4 / 18 holds open.
+**P1 structural extension scans 151–224.**
+
+Complete the full-source structural map before continuing P2 from scan 31.

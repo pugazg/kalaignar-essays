@@ -10,7 +10,7 @@ This is the **single authoritative project handover**.
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 IN PROGRESS; P1 PASS for supplied artifact; P2 IN PROGRESS 25/150**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 IN PROGRESS 150/224; P2 IN PROGRESS 30/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -26,7 +26,6 @@ Workspace: `publications/aaru-maatha-kadungkaaval/`
 - author — **`கலைஞர் மு. கருணாநிதி`**
 - publisher — **`திராவிடப் பண்ணை`**
 - edition — **`முதல் பதிப்பு, 1953`**
-- expected complete physical PDF extent — **224 pages**
 
 User-supplied description:
 
@@ -34,22 +33,32 @@ User-supplied description:
 
 Treat that paragraph as metadata/context unless directly confirmed in the physical PDF.
 
-## Source-authority correction
+## Controlling source / corrected physical identity
 
-The attachment **preview/parser is not controlling source evidence** for page count, source extent, P1 structure, pagination, or page boundaries.
+Attached source:
 
-For this publication, source-dependent archival claims must come from direct inspection of the supplied artifact and direct visual inspection of rendered source pages.
+`TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`
+
+Direct native inspection of the attached PDF established:
+
+- physical file size — **282020019 bytes**
+- SHA-256 — **`8d4b227547144dd16a78d3f7e22edc3d955d754788ba96317c0c6ddd68d0ca69`**
+- total physical PDF scans — **224**
+- PDF version — **1.4**
+- source PDF committed — **No**
+
+The earlier 150-page value came from the page-renderer exposure boundary, not from the native PDF's true physical extent. The former **150-vs-224 source-completeness discrepancy is RESOLVED**.
+
+Source wording remains controlled only by direct source pixels. Do not consult TVA/Wikisource/OCR/alternate editions unless the user explicitly authorises comparison.
 
 ## Current gate state
 
-- P0 — **IN PROGRESS**
-- raw physical-file byte size — **282020019 bytes — CONFIRMED**
-- physical-file SHA-256 — **PENDING**
-- user-reported complete extent — **224 pages**
-- supplied artifact available to this workflow — **150 pages**
-- source-completeness discrepancy — **OPEN**
-- P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 — **IN PROGRESS — 25/150 records; 22 verified / 3 needs-review**
+- P0 — **COMPLETE / PASS**
+- P1 — **IN PROGRESS — 150/224 structurally mapped**
+  - scans 1–150 retain their already-established structural classifications;
+  - scans **151–224 remain structurally unmapped**;
+  - scan 150 is **not** the source-artifact end.
+- P2 — **IN PROGRESS — 30/224 records; 27 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -78,142 +87,106 @@ Core rule:
 
 > **Read character identity, not modern visual resemblance.**
 
-## P1 supplied-artifact result
+## P1 durable structural evidence through scan 150
 
-P1 has been completed for the supplied PDF artifact:
+The existing direct visual structural review remains valid for scans **1–150**:
 
-- physical pages structurally inspected — **150/150**;
-- front matter — scans **1–9**;
-- main text runs — **10–66**, **68–106**, **110–150**;
-- blank/reverse scans — **5, 9, 67, 107, 109**;
-- intertitle/transition — **108**;
-- separate contents page found — **No**;
-- scan 150 — **text-bearing artifact end, not claimed as complete-publication end**;
-- P1 blockers within supplied artifact — **0**.
+- scans 1–9 — front matter;
+- scans 10–66 — main text;
+- scan 67 — blank/reverse;
+- scans 68–106 — main text;
+- scan 107 — blank/reverse;
+- scan 108 — nonblank intertitle / structural transition;
+- scan 109 — blank/reverse;
+- scans 110–150 — main text.
 
-Authority: `publications/aaru-maatha-kadungkaaval/P1_SOURCE_STRUCTURE_REVIEW.md`.
+Separate contents page in scans 1–150 — **not found**.
 
-P0 remains open for SHA-256 and the user-reported 224-page completeness discrepancy. Do not erase that caveat.
+P1 is now reopened because the native attached PDF has **224** scans. Scans **151–224** must be structurally inspected before P1 can pass.
 
-## P2 batch 001 — scans 1–5
+## P2 batch history
 
-- scan 1 — `pages/0001-physical-copy-mark.md` — **verified**
-- scan 2 — `pages/0002-title-page.md` — **verified**
-- scan 3 — `pages/0003-imprint.md` — **needs-review**
-- scan 4 — `pages/0004-publisher-note.md` — **needs-review**
-- scan 5 — `pages/0005-blank-reverse.md` — **verified**
+### Batch 001 — scans 1–5
 
-Open holds remain:
+- scan 1 — verified
+- scan 2 — verified
+- scan 3 — **needs-review** — unresolved small imprint/printer text
+- scan 4 — **needs-review** — exact publisher-note transcription
+- scan 5 — verified
 
-- scan 3 — unresolved small imprint/printer text;
-- scan 4 — exact publisher-note transcription.
+### Batch 002 — scans 6–10
 
-## P2 batch 002 — scans 6–10
+- **5/5 verified**
+- new holds — **0**
 
-Completed from direct visual source review:
+### Batch 003 — scans 11–15
 
-- scan 6 — `pages/0006-dedication-1.md` — **verified**
-- scan 7 — `pages/0007-dedication-2.md` — **verified**
-- scan 8 — `pages/0008-murasu-illustration.md` — **verified**
-- scan 9 — `pages/0009-blank-reverse.md` — **verified**
-- scan 10 — `pages/0010-murasu.md` — **verified**
+- **5/5 verified**
+- historical-glyph correction — scan 13: apparent `பொற்சுரங்கமென்டாளோ` → source-supported `பொற்சுரங்கமென்றாளோ` (historical `றா`)
 
-Batch 002 result:
+### Batch 004 — scans 16–20
 
-- records created — **5/5**
-- verified — **5**
-- needs-review — **0**
-- guessed readings — **0**
-- historical-glyph corrections — **0**
-- new printed-text holds — **0**
+- scan 16 — verified — repeated printed folio 13 / second physical witness of scan 14 text
+- scan 17 — verified — repeated printed folio 14 / second physical witness of scan 15 text
+- scan 18 — **needs-review** — one physically obscured cluster after `ஒருவராக ஆ`
+- scans 19–20 — verified
 
-## P2 batch 003 — scans 11–15
+Source-artifact anomaly: scans **16–17 repeat printed folios 13–14**; scan 18 resumes printed folio 15. Every physical scan remains separately represented.
 
-Completed from direct visual source review:
+### Batch 005 — scans 21–25
 
-- scan 11 — `pages/0011-murasu.md` — **verified**
-- scan 12 — `pages/0012-murasu.md` — **verified**
-- scan 13 — `pages/0013-murasu.md` — **verified**
-- scan 14 — `pages/0014-murasu.md` — **verified**
-- scan 15 — `pages/0015-murasu.md` — **verified**
+- **5/5 verified**
+- printed folios — 18–22
+- scan 22 — `அடுத்த நாள் :`
+- scan 25 — `மூன்றாம் நாள் :`
+- new holds — **0**
 
-Batch 003 result:
+### Batch 006 — scans 26–30
 
-- records created — **5/5**
-- verified — **5**
-- needs-review — **0**
-- guessed readings — **0**
-- historical-glyph corrections — **1** (scan 13: `பொற்சுரங்கமென்டாளோ` → `பொற்சுரங்கமென்றாளோ`, historical `றா`)
-- new printed-text holds — **0**
+Completed from direct native/enlarged attached-PDF pixels:
 
-## P2 batch 004 — scans 16–20
+- scan 26 — `pages/0026-murasu.md` — **verified** — printed folio 23
+- scan 27 — `pages/0027-murasu.md` — **verified** — printed folio 24
+- scan 28 — `pages/0028-murasu.md` — **verified** — printed folio 25
+- scan 29 — `pages/0029-murasu.md` — **verified** — printed folio 26
+- scan 30 — `pages/0030-murasu.md` — **verified** — printed folio 27
 
-Completed from the attached PDF only:
-
-- scan 16 — `pages/0016-murasu.md` — **verified** — repeated printed folio 13 / second source witness of scan 14 text
-- scan 17 — `pages/0017-murasu.md` — **verified** — repeated printed folio 14 / second source witness of scan 15 text
-- scan 18 — `pages/0018-murasu.md` — **needs-review** — one physically obscured cluster after `ஒருவராக ஆ`
-- scan 19 — `pages/0019-murasu.md` — **verified**
-- scan 20 — `pages/0020-murasu.md` — **verified**
-
-New source-artifact finding:
-
-- physical scans **16–17 repeat printed folios 13–14**;
-- scan **18 resumes printed folio 15** and the textual continuation after scan 15;
-- scan 15 boundary metadata was corrected to record this duplicate-page insertion;
-- no physical scan was deduplicated or dropped.
-
-Batch 004 result:
-
-- records created — **5/5**
-- verified — **4**
-- needs-review — **1**
-- new printed-text holds — **1**
-- guessed readings — **0**
-- historical-glyph correction count — **unchanged at 1**; scan 20 includes a positively decoded historical `னா` occurrence in `பொன்னாக்கிவிட்டது`.
-
-## P2 batch 005 — scans 21–25
-
-Completed from the attached PDF only:
-
-- scan 21 — `pages/0021-murasu.md` — **verified** — printed folio 18
-- scan 22 — `pages/0022-murasu.md` — **verified** — printed folio 19 / `அடுத்த நாள் :`
-- scan 23 — `pages/0023-murasu.md` — **verified** — printed folio 20
-- scan 24 — `pages/0024-murasu.md` — **verified** — printed folio 21
-- scan 25 — `pages/0025-murasu.md` — **verified** — printed folio 22 / `மூன்றாம் நாள் :`
-
-Batch 005 result:
+Batch 006 result:
 
 - records created — **5/5**
 - verified — **5**
 - needs-review — **0**
-- new printed-text holds — **0**
 - guessed readings — **0**
+- new printed-text holds — **0**
 - historical-glyph correction count — **unchanged at 1**
-- scan 22 `அம்பிலை` (`லை`) and scan 25 `மூன்றாம்` (`றா`) were decoded by historical character identity during first-pass transcription.
+- unusual source-visible forms such as `சிலங்கொண்டவர்`, `குறை நோயிலிருந்து`, `நீங்கள் சிரி விழவேண்டாம்`, and `என்னையும். உங்களையும்` were preserved rather than normalized.
 
-Durable P2 totals:
+## Durable P2 totals
 
-- canonical page records — **25/150**
-- verified — **22**
+- canonical page records — **30/224**
+- verified — **27**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **1**
 - open printed-text holds — **3**:
-  - scan 3 small imprint/printer text;
-  - scan 4 exact publisher-note transcription;
-  - scan 18 one physically obscured cluster after `ஒருவராக ஆ`.
-
-P0 SHA-256 / 224-page source-completeness discrepancy remains open and must not be silently resolved.
+  - scan 3 — small imprint/printer text;
+  - scan 4 — exact publisher-note transcription;
+  - scan 18 — one physically obscured cluster after `ஒருவராக ஆ`.
 
 ## Exact next activity
 
-**P2 scans 26–30.**
+**P1 structural extension — scans 151–224.**
 
-Process exactly scans 26–30 as one batch, continue direct source transcription and historical-glyph checks, preserve the scans 3–4 / 18 source holds, synchronize controls, commit immediately after the five-page batch, then set the next boundary from live source/repository state.
+Visually inspect and structurally classify all remaining physical scans **151–224** from the attached 224-page PDF. Record page types, blank/reverse pages, body/intertitle/end matter boundaries, printed-pagination behaviour where visible, and the true physical final-page role. Do not transcribe body text during this P1 activity except where exact visible wording is necessary to identify a structural heading/intertitle.
 
-Scan 25 ends at `முடிவைச்சொல்ல`; read scan 26 directly for the continuation. Do not reopen earlier pages unless genuinely new source evidence affects them.
+After scans 151–224:
+
+- update `P1_SOURCE_STRUCTURE_REVIEW.md`, page map, source metadata, audit, README, handover and next prompt;
+- mark P1 PASS only if all 224 scans are structurally accounted for;
+- then resume P2 from scan 31.
+
+**P2 scans 31 onward are paused until this P1 extension is complete.**
 
 ---
 

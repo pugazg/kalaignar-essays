@@ -1,17 +1,17 @@
 # Page Map — ஆறுமாதக் கடுங்காவல்
 
-Controlling supplied artifact: `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`
+Controlling attached source: `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`
 
-Current gate:
+## Current gate
 
-- P0 — **IN PROGRESS / SHA-256 and complete-source extent unresolved**
-- P1 — **COMPLETE / PASS FOR SUPPLIED PDF ARTIFACT**
-- mapped physical pages — **150 / 150**
-- P2 — **IN PROGRESS — 25/150 canonical records**
+- P0 — **COMPLETE / PASS**
+- physical source scans — **224**
+- P1 — **IN PROGRESS — 150/224 structurally mapped**
+- P2 — **IN PROGRESS — 30/224 canonical records**
 
 Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVIEW.md)
 
-## Canonical structural map for supplied artifact
+## Structurally established range — scans 1–150
 
 | Scan(s) | Page type / structural role |
 |---:|---|
@@ -30,17 +30,17 @@ Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVI
 | 108 | nonblank intertitle / structural transition |
 | 109 | blank / reverse / show-through |
 | 110–150 | main text |
+| 151–224 | **P1 structural classification pending** |
 
-## P1 rules carried into P2
+## P1 rules
 
-- exact printed folio must be read from each scan; do not infer a global offset;
-- suppressed page number -> `null`, not inferred;
-- exact heading/intertitle wording belongs in page records only after direct visual transcription;
-- scan 150 is the end of the supplied artifact, **not proven publication end**;
-- user-reported complete extent **224 pages** remains an unresolved completeness discrepancy;
-- source PDF is never committed.
+- read printed folio directly from each scan; never infer a global offset;
+- suppressed folio -> `null`;
+- source PDF is never committed;
+- scan 150 is **not** source end;
+- the actual final-source role at scan 224 must be established by direct visual review.
 
-## P2 record status
+## P2 record status through scan 30
 
 | Scan | Canonical record | Status |
 |---:|---|---|
@@ -69,12 +69,16 @@ Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVI
 | 23 | `../pages/0023-murasu.md` | verified |
 | 24 | `../pages/0024-murasu.md` | verified |
 | 25 | `../pages/0025-murasu.md` | verified |
+| 26 | `../pages/0026-murasu.md` | verified |
+| 27 | `../pages/0027-murasu.md` | verified |
+| 28 | `../pages/0028-murasu.md` | verified |
+| 29 | `../pages/0029-murasu.md` | verified |
+| 30 | `../pages/0030-murasu.md` | verified |
 
-Current P2 coverage: **25/150** canonical records.
+Current P2 totals:
 
-Current totals:
-
-- verified — **22**
+- coverage — **30/224**
+- verified — **27**
 - needs-review — **3**
 - blocked — **0**
 
@@ -82,20 +86,20 @@ Open holds:
 
 - scan 3 — small imprint/printer text;
 - scan 4 — full publisher-note transcription;
-- scan 18 — one physically obscured cluster after `ஒருவராக ஆ`.
+- scan 18 — physically obscured cluster after `ஒருவராக ஆ`.
 
-## P2 printed-folio anomaly
+## Printed-folio anomaly already established
 
-Direct source review established:
+- scan 14 — printed 13
+- scan 15 — printed 14
+- scan 16 — printed 13 again
+- scan 17 — printed 14 again
+- scan 18 — printed 15
 
-- scan 14 — printed 13;
-- scan 15 — printed 14;
-- scan 16 — printed 13 again;
-- scan 17 — printed 14 again;
-- scan 18 — printed 15.
-
-Scans 16–17 are retained as independent physical page records rather than deduplicated.
+Scans 16–17 remain independent physical page records.
 
 ## Exact next activity
 
-**P2 scans 26–30.**
+**P1 structural extension — scans 151–224.**
+
+Do not resume P2 scan 31 until the remaining 74 physical scans are structurally mapped.

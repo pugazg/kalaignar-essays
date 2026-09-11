@@ -1,25 +1,26 @@
 # P1 Source Structure Review — ஆறுமாதக் கடுங்காவல்
 
-Source artifact: `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`
+Source: `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`
 
-## Gate result
+## Current gate result
 
-**P1 — COMPLETE / PASS FOR THE SUPPLIED PDF ARTIFACT (150 / 150 physical pages visually inspected).**
+**P1 — IN PROGRESS — 150 / 224 physical scans structurally inspected.**
 
-This P1 result is intentionally scoped to the **actual attached PDF artifact currently available to the project**. It does **not** resolve the separate publication-level discrepancy that the user reports a 224-page complete source.
+An earlier version of this review called P1 PASS for a 150-page “supplied artifact.” Direct native inspection has now established that the actual attached PDF contains **224 pages**. The earlier 150-page boundary was a renderer exposure limitation, not the physical end of the file.
 
-The user explicitly authorised proceeding with P1 without waiting for P0 SHA-256/page-count closure.
+Accordingly, all source-supported P1 findings for scans 1–150 remain durable, but **P1 is reopened** until scans 151–224 are inspected.
 
-## Source facts used for this P1
+## Native source verification
 
-- raw uploaded file size — **282,020,019 bytes**;
-- backing PDF exposed to direct page rendering — **150 physical pages**;
-- all physical pages **1–150** were rendered/inspected for structural classification;
-- source PDF committed to repository — **No**;
-- P0 SHA-256 — **still pending**;
-- user-reported complete publication/PDF extent — **224 pages**, retained as unresolved external/source-completeness metadata.
+- filename — `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`
+- bytes — **282020019**
+- SHA-256 — **`8d4b227547144dd16a78d3f7e22edc3d955d754788ba96317c0c6ddd68d0ca69`**
+- physical scans — **224**
+- PDF version — **1.4**
+- source PDF committed — **No**
+- P0 — **COMPLETE / PASS**
 
-## Structural map
+## Structurally inspected range — scans 1–150
 
 | Physical scan(s) | P1 classification | Notes |
 |---:|---|---|
@@ -31,21 +32,32 @@ The user explicitly authorised proceeding with P1 without waiting for P0 SHA-256
 | 6–7 | dedication | `காணிக்கை` |
 | 8 | illustrated front-matter page | `முரசு` witness |
 | 9 | blank / reverse / show-through | front-matter separator |
-| 10–66 | main text, continuous text-bearing run | first long body sequence |
-| 67 | blank / reverse / show-through | clear structural separator |
-| 68–106 | main text, continuous text-bearing run | second long body sequence |
-| 107 | blank / reverse / show-through | clear structural separator |
-| 108 | low-density nonblank intertitle / transition page | structurally distinct; exact wording belongs to P2 transcription |
-| 109 | blank / reverse / show-through | clear separator after intertitle/transition |
-| 110–150 | main text, continuous text-bearing run | final accessible body sequence |
+| 10–66 | main text | continuous body run |
+| 67 | blank / reverse / show-through | structural separator |
+| 68–106 | main text | continuous body run |
+| 107 | blank / reverse / show-through | structural separator |
+| 108 | low-density nonblank intertitle / transition | exact wording belongs to P2 |
+| 109 | blank / reverse / show-through | structural separator |
+| 110–150 | main text | continuous body run through current inspected boundary |
 
-## Exact blank/reverse pattern
+## Pending P1 range
 
-The rendered images for scans **5, 9, 67, 107 and 109** share the same blank/reverse image signature and are treated as structural blank/reverse pages for P1.
+**Scans 151–224 have not yet been structurally classified.**
 
-## Front matter
+The next P1 activity must directly inspect all 74 scans and determine:
 
-Confirmed structural sequence:
+- body-text continuation ranges;
+- blank/reverse pages;
+- intertitles / section transitions;
+- advertisements / colophon / end matter if any;
+- printed-page-number behaviour;
+- scan 224's actual physical and publication role.
+
+No final-source boundary may be inferred before that review.
+
+## Front matter already established
+
+Scans 1–9:
 
 1. physical-copy mark;
 2. title;
@@ -53,99 +65,45 @@ Confirmed structural sequence:
 4. publisher note;
 5. blank/reverse;
 6–7. dedication;
-8. illustrated front-matter page;
-9. blank/reverse;
-10. body begins.
+8. illustrated `முரசு` page;
+9. blank/reverse.
 
-No separate printed contents page is visible in scans **1–9**.
+No separate printed contents page was found within scans 1–150.
 
-## Body structure
+## Printed pagination policy
 
-P1 identifies three long text-bearing body runs:
+Do not assert a global printed-page offset.
 
-- **10–66**
-- **68–106**
-- **110–150**
+Each scan's visible printed folio must be read directly. Suppressed folios remain `null`.
 
-These are separated by blank/reverse pages and one distinct intertitle/transition page at scan 108.
+Known P2 source anomaly:
 
-P1 does **not** invent article/chapter titles where exact wording has not yet been transcribed. Exact heading text, dates, place names and printed folio values are reserved for source-faithful P2 page records unless directly established at P1.
+- scans 14–15 — printed 13–14;
+- scans 16–17 — printed 13–14 again;
+- scan 18 — printed 15.
 
-## Printed pagination
-
-A single canonical printed-page offset/formula is **not asserted** in this P1 review.
-
-Reason:
-
-- this is an image-only historical scan;
-- P1's purpose here is structural mapping;
-- exact printed folio values must be read directly from each page rather than inferred from scan sequence;
-- the supplied artifact also has an unresolved 150-vs-224 source-completeness discrepancy.
-
-During P2, each page record must capture the printed page number where visibly present and leave suppressed folios null rather than infer them.
-
-## Contents / index
-
-- separate printed contents page in supplied scans 1–150 — **not found**;
-- back-of-book index / contents — **not present within the supplied artifact boundary**;
-- no claim is made about material outside the supplied 150-page artifact.
-
-## Final supplied-artifact boundary
-
-Scan **150** is a **text-bearing body page**, not an obvious blank, advertisement, colophon or back cover.
-
-Therefore:
-
-- scan 150 is the **end of the supplied PDF artifact**;
-- it must **not** be described as the proven end of the complete 1953 publication;
-- the user-reported 224-page extent remains an unresolved publication-level completeness issue.
+This confirms that physical scan sequence cannot be reduced to a simple folio formula.
 
 ## Historical Tamil glyph overlay
 
-P1 is structural only.
+P1 is structural.
 
-P2 and P5 must follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
-
-Every text-bearing page must explicitly check at least:
+P2 and P5 must follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` and explicitly check:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-No historical glyph decoding was silently applied during P1.
+## Current P1 accounting
 
-## P1 conclusion
-
-For the **supplied 150-page PDF artifact**:
-
-- pages structurally inspected — **150 / 150**;
-- unmapped physical pages — **0**;
-- blank/reverse pages — **5**: scans 5, 9, 67, 107, 109;
-- title/imprint/publisher/dedication/illustration front matter — **mapped**;
-- main body runs — **mapped**;
-- intertitle/transition at scan 108 — **mapped structurally**;
-- source-artifact end — **scan 150**;
-- P1 structural blockers within this artifact — **0**.
-
-**P1 RESULT: PASS FOR SUPPLIED ARTIFACT.**
-
-## Remaining source-completeness caveat
-
-P0 remains open because SHA-256 is pending, and the user-reported **224-page** complete-source extent does not match the 150-page artifact available to this workflow.
-
-This caveat does not invalidate the P1 map of the supplied artifact, but it prevents claiming that scans 1–150 constitute the entire historical publication.
+- source physical scans — **224**
+- structurally inspected — **150**
+- pending — **74**
+- known blank/reverse scans in inspected range — **5, 9, 67, 107, 109**
+- structurally unmapped within scans 1–150 — **0**
+- structurally unmapped overall — **74**
+- P1 result — **IN PROGRESS**
 
 ## Exact next activity
 
-Under the user's explicit override, proceed to **P2 page-level transcription of the supplied artifact**, beginning with the first controlled five-scan batch.
+**Directly inspect scans 151–224 and extend this structural review to 224/224.**
 
-Recommended first P2 batch:
-
-**scans 1–5**
-
-For P2:
-- create one canonical page record per physical scan;
-- separate printed text from physical-copy marks;
-- record printed folio only when visible;
-- preserve punctuation/spacing/source spelling;
-- apply the historical Tamil glyph gate on every text-bearing page;
-- commit immediately after each five-scan batch;
-- do not infer content outside the supplied artifact.
+Only after that activity can P1 be marked PASS and P2 resume from scan 31.
