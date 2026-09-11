@@ -8,7 +8,7 @@ source_tamil_blob_sha: "bd4cb1d4e631e19de0e5cc62f0aecf176d7e2fe2"
 source_scan_pages: "70-74"
 source_printed_pages: "68-72"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -24,19 +24,19 @@ Some, as soon as they are called to speak, come and stand before the microphone 
 
 Some spit out the betel-and-areca-nut juice they had been chewing until then.
 
-Some stand there coughing and clearing their throats without even beginning to speak. Some tell the sound-system operator to position the microphone properly and use harsh words at him! Those words travel through the loudspeaker into the ears of the crowd and can make the people develop a kind of displeasure toward the speaker!
+Some simply stand there coughing and clearing their throats without even beginning to speak. Some tell the sound-system operator to position the microphone properly and use harsh words at him! Those words travel through the loudspeaker into the ears of the crowd and can make the people develop a kind of displeasure toward the speaker!
 
 Some speakers wait for the garland and, at the very moment it is placed around their necks, become anxious to see whether the photographer is taking a picture, making themselves objects of ridicule right at the outset.
 
 From the moment a speaker stands before the microphone until he finishes his speech, he is duty-bound to preserve and uphold the dignity of that stage and the respect due to the art of speaking.
 
-While one is speaking, some boy or girl in the crowd may get up and try to leave. The speaker should continue as though he has not noticed it. If, in anger, he blurts out something like, “Hey! Who's that? Sit down! Hey, you there! Drive those saniyans away!” the standard of that speaker will fall very low.
+While one is speaking, some boy or girl in the crowd may get up and try to leave. The speaker should simply go on as though he has not noticed it. If, in anger, he blurts out something like, “Hey! Who's that? Sit down! Hey, you there! Drive those saniyans away!” the standard of that speaker will fall very low.
 
 In the early days when I began speaking on stages, I took part in many meetings in Adi Dravidar colonies.<!-- Tamil source: scan 72 / printed 70 --> Once, at ten at night, a friend named Shamsudeen and I went to speak at a colony. About two hundred people had gathered. Shamsudeen was older than I was! He also had more political experience than I did! That meeting was at the Adi Dravidar colony near the Naalukaal Mandapam in Thiruvarur. Shamsudeen began to speak. An elderly man in the crowd was sitting there with great interest, enjoying the speeches.
 
 But the poor man had a cough! He kept coughing often. Shamsudeen could not tolerate the interruption to his speech caused by the man's coughing. Two or three times he looked at the old man and snapped, “Shoo! Keep quiet!” Poor man—he could neither stop coughing nor did he leave the meeting.
 
-The old man coughed once again. That was all it took: Shamsudeen suddenly picked up the small vessel of tea on the table and poured it over the old man's head.
+The old man coughed once more. That was enough: Shamsudeen suddenly picked up the small vessel of tea on the table and poured it over the old man's head.
 
 That incident caused a great commotion in the meeting, and I and the other friends had to calm everyone down.
 
@@ -68,4 +68,4 @@ I rose to speak. For about fifteen minutes of my opening remarks, I spoke only a
 
 The man who had ordered me not to speak more than one line praised me: “Your speech today was wonderful.”
 
-Therefore, speakers who have grown to some stature must necessarily bear the responsibility of shaping their speech without hurting the feelings of colleagues who have come to speak on the same stage, embracing them as well.
+Therefore, speakers who have grown to some stature must take care to shape their speech without hurting the colleagues who share the same stage—and to carry them along too.
