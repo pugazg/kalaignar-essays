@@ -5,7 +5,7 @@
 | Gate | Result |
 |---|---|
 | P0 | **IN PROGRESS / BLOCKED ON COMPLETE 224-PAGE SOURCE ACCESS** |
-| P1 | **NOT STARTED canonically** |
+| P1 | **PARTIAL / PROVISIONAL — 150/224 structurally inspected** |
 | P2 | **NOT STARTED** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
@@ -38,6 +38,8 @@ Current attached payload:
 - historical Tamil typeforms — **present / mandatory glyph workflow**
 - complete-source SHA-256 — **PENDING**
 - active source blocker — **complete 224-page source not currently accessible**
+- P1 structural visual sweep — **150/224 complete provisionally**
+- P1 partial record — **`P1_PARTIAL_RECONNAISSANCE.md`**
 
 ## Historical glyph gate
 
@@ -47,6 +49,16 @@ The 1953 edition must use `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` during
 
 English translation — **NOT STARTED / BLOCKED until Tamil P0–P5 is complete and frozen**.
 
+## P1 partial result
+
+- every currently accessible scan **1–150** inspected structurally once;
+- front matter / narrative / blank-reverse transitions recorded provisionally;
+- clear blank/reverse scans: **5, 9, 67, 107, 109**;
+- scan 108 retained as an unresolved structural-transition candidate;
+- canonical printed pagination/internal-unit mapping remains open;
+- scans **151–224** unavailable;
+- P1 blockers — **74 missing physical scans + complete-source identity/hash**.
+
 ## Exact next activity
 
-Make the complete **224-page source PDF** accessible. Then compute its exact size and SHA-256, close P0, and perform P1 mapping of scans **1–224**.
+Make scans **151–224** accessible from the complete source. Record the complete source size/SHA-256, close P0, then finish canonical P1 over **1–224**. Do not start P2.
