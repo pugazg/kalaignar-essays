@@ -13,10 +13,10 @@
 | English E0 planning | **COMPLETE / PASS** | controls initialized |
 | English T0 | **COMPLETE / PASS — 19/19** | frozen Tamil SHAs recorded |
 | English T1 | **IN PROGRESS — 4/19** | Sections 1–4 complete |
-| English T2 | **IN PROGRESS — 3/19** | Sections 1–3 complete; Section 3 PASS after 5 corrections |
-| English T3 | **IN PROGRESS — 3/19** | Sections 1–3 complete |
-| English T4 | **IN PROGRESS — 3/19** | Sections 1–3 complete |
-| English T5 | **IN PROGRESS — 3/19** | Sections 1–3 verified |
+| English T2 | **IN PROGRESS — 4/19** | Sections 1–4 complete |
+| English T3 | **IN PROGRESS — 4/19** | Sections 1–4 complete |
+| English T4 | **IN PROGRESS — 4/19** | Sections 1–4 complete |
+| English T5 | **IN PROGRESS — 4/19** | Sections 1–4 verified |
 
 ## Source authority
 
@@ -45,18 +45,21 @@
 - unresolved issues — **0**;
 - frozen Tamil edits — **0**.
 
-## Section 4 — T1 COMPLETE / draft
+## Section 4 — VERIFIED
 
 - frozen Tamil blob — **`b938be21e198d69548e45ae96cb0e9802b8d7079`**;
-- scans **22–27 / printed pp.20–25**;
-- T1 English blob — **`665b4629202b57a81275310f86e25dfc4e2be73d`**;
-- `translation_status` — **draft**;
+- T1 blob — `665b4629202b57a81275310f86e25dfc4e2be73d`;
+- post-T2 blob — `ab22ce719dc8e2c82cc5dbfeb4108b29d6bcdc8c`;
+- post-T3 blob — `6f461abbd058f69b6584dd32fc96a9b062425624`;
+- post-T4 blob — `aae55dffdf3d58d0b268c5ed2721f76d88451037`;
+- final verified blob — **`9a236986ecf612f0da8de3179c8d8acd9eac3183`**;
+- T2 — **PASS after 4 corrections**;
+- T3 — **PASS after 8 voice corrections**;
+- T4 — **PASS after 1 terminology correction**;
+- T5 — **PASS with 0 body corrections / status-only**;
 - source-page comments — **6/6**;
-- quantities/dates/page-number sequence retained — **PASS at T1 draft level**;
-- source wordplay / quotations / colloquial `kachcheri` forms retained — **yes**;
-- T1 provisional decisions — **20**;
-- T2–T5 — **pending**;
-- unresolved T1 blockers — **0**;
+- T4-approved decisions — **22**;
+- unresolved issues — **0**;
 - frozen Tamil edits — **0**.
 
 ## English gate totals
@@ -65,11 +68,11 @@
 |---|---:|
 | T0 | **19/19** |
 | T1 | **4/19** |
-| T2 | **3/19** |
-| T3 | **3/19** |
-| T4 | **3/19** |
-| T5 | **3/19** |
-| Verified English articles | **3/19** |
+| T2 | **4/19** |
+| T3 | **4/19** |
+| T4 | **4/19** |
+| T5 | **4/19** |
+| Verified English articles | **4/19** |
 
 Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0**.
 
@@ -77,4 +80,4 @@ Permanent rule: exact source `உடன்பிறப்பே` → `Udanpirapp
 
 ## Exact next activity
 
-**E1 — Section 4 / T2 bilingual fidelity review.** Revalidate frozen Tamil blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`** and T1 English blob **`665b4629202b57a81275310f86e25dfc4e2be73d`**; compare all clauses, quantities, quotations, puns, colloquial forms, lexical-change contrasts, images and **6/6** page comments; record every correction; stop before T3.
+**E1 — Section 5 / T1 close draft.** Revalidate frozen Tamil `articles/05-section-05.md` blob **`7fbb055e1f7f2630d39f5a3e203de5e2547b93b9`**, scans **27–31 / printed pp.25–29**, translate the complete numbered Section 5, synchronize controls, and stop before T2.
