@@ -118,7 +118,7 @@ Batch 003 result:
 - verified — **5**
 - needs-review — **0**
 - guessed readings — **0**
-- historical-glyph corrections — **0**
+- historical-glyph corrections — **1** (scan 13: historical `றா` decoded in `பொற்சுரங்கமென்றாளோ`)
 - new printed-text holds — **0**
 
 Overall P2 status:
@@ -127,6 +127,7 @@ Overall P2 status:
 - verified — **13**
 - needs-review — **2**
 - blocked — **0**
+- historical-glyph corrections — **1**
 - open printed-text holds — **2**: scan 3 small imprint text; scan 4 full publisher-note transcription
 - P0 source-completeness caveat — **unchanged / open**
 

@@ -143,7 +143,7 @@ Batch 003 result:
 - verified — **5**
 - needs-review — **0**
 - guessed readings — **0**
-- historical-glyph corrections — **0**
+- historical-glyph corrections — **1** (scan 13: `பொற்சுரங்கமென்டாளோ` → `பொற்சுரங்கமென்றாளோ`, historical `றா`)
 - new printed-text holds — **0**
 
 Durable P2 totals:
@@ -153,7 +153,7 @@ Durable P2 totals:
 - needs-review — **2**
 - blocked — **0**
 - guessed readings — **0**
-- historical-glyph corrections — **0**
+- historical-glyph corrections — **1**
 - open printed-text holds — **2**, unchanged from scans 3–4.
 
 P0 SHA-256 / 224-page source-completeness discrepancy remains open and must not be silently resolved.

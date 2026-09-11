@@ -85,7 +85,7 @@ Canonical records now exist for scans **1–15**.
 - needs-review — **2**
 - open printed-text holds — **2**, both inherited from scans 3–4
 - guessed readings — **0**
-- historical-glyph corrections — **0**
+- historical-glyph corrections — **1** (scan 13: historical `றா` source identity decoded as `பொற்சுரங்கமென்றாளோ`)
 
 ## Exact next activity
 

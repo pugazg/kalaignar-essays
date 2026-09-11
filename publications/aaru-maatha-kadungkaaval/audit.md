@@ -92,7 +92,8 @@ Batch 003 totals:
 - needs-review — **0**
 - blocked — **0**
 - guessed readings — **0**
-- historical-glyph corrections — **0**
+- historical-glyph corrections — **1**
+  - scan 13: apparent `பொற்சுரங்கமென்டாளோ` → source-supported Unicode `பொற்சுரங்கமென்றாளோ` (`றா` family)
 - new unresolved printed-text holds — **0**
 
 ## P2 cumulative totals through scan 15
@@ -102,7 +103,7 @@ Batch 003 totals:
 - needs-review — **2**
 - blocked — **0**
 - guessed readings — **0**
-- historical-glyph corrections — **0**
+- historical-glyph corrections — **1**
 - unresolved printed-text holds — **2**, both inherited:
   - scan 3 small imprint/printer text;
   - scan 4 exact publisher-note transcription.
