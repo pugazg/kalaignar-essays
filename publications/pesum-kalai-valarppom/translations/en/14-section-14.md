@@ -8,7 +8,7 @@ source_tamil_blob_sha: "4c611fa7a2b6d91bfa4c767bfdb8c9fcfff8316c"
 source_scan_pages: "59-63"
 source_printed_pages: "57-61"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -16,7 +16,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 59 / printed 57; folio suppressed/inferred -->
 
-This article is being written at a time when literary speakers are few in number while political speakers are without limit. Among political speakers, we find only a few who also shine as literary speakers.
+This article is being written at a time when literary speakers are few, while political speakers are countless. Among political speakers, we find only a few who also shine as literary speakers.
 
 There are even kathakalakshepam scholars who present epics and puranas in a way suited to the contemporary world, mixing in literary and political flavour from time to time.
 
@@ -34,9 +34,9 @@ Annan Jeevanandam, who was one of the leaders of the Communist Party, was not me
 
 The country knows how Arignar Anna's literary scholarship shone when, in the controversy over the Kamba Ramayanam, he engaged in verbal battle with the great scholars Navalar Somasundara Bharathiar and Sethupillai.
 
-The number of political speakers has increased. But among them, the number who understand literature is not encouraging. Have they at least studied history deeply? Even that number is small! Many speakers train themselves only to abuse members of rival parties crudely, and then climb onto the stage.
+Political speakers have multiplied. But among them, the number who understand literature gives little cause for cheer. Have they at least studied history deeply? Even that number is small! Many speakers train themselves only to abuse members of rival parties crudely, and then climb onto the stage.
 
-Speaking severely—with biting force—is one thing!
+Speaking harshly—with biting force—is one thing!
 
 Speaking crudely—obscenely—in a disgusting manner is another!
 
@@ -48,11 +48,11 @@ On political platforms, harsh words may fly like arrows from both sides. But if 
 
 On the stage, the people's problems must be presented in relation to one another. Issues that arise for debate from time to time must be explained to the people according to each party's viewpoint. Arguments must be set out about the differences and agreements between the policies of various political parties and one's own party. One must clearly tell the people how one's party approaches a major issue burning in the country.
 
-If, abandoning all this, a speaker climbs onto the stage and spends one portion of the time praising his own party leader and another portion performing an obscene ritual of abuse against rival party leaders, then he can win only the applause of his own party people<!-- Tamil source: scan 62 / printed 60 --> standing near the stage. Such a speech will not win the praise of the general public.
+If, abandoning all this, a speaker climbs onto the stage and spends one part of his time praising his own party leader and another part performing an obscene ritual of abuse against rival party leaders, he can win only the applause of his own party people<!-- Tamil source: scan 62 / printed 60 --> standing near the stage. Such a speech will not win the praise of the general public.
 
 Many who make “abuse” itself their speaking style are also seen frequently jumping from one political party to another. They are opportunists without principle, ideal or any foundation! They live by speech alone. Whether it is their party platform—or a wedding stage at someone's house—or any public event—without caring about the surroundings, they pour out low-grade, obscene words as harsh as those of extreme fanatics.
 
-Wait a few days, and the same speaker is on another stage—in another party! Wait a few weeks more, and the same speaker is in yet another party—on yet another stage! Thus they leap among many parties and wear themselves down shamefully in the estimation of the people.
+Look again after a few days—the same speaker is on another stage, in another party! Look again after a few weeks—the same speaker is in yet another party, on yet another stage! Thus they leap among many parties and wear themselves down shamefully in the estimation of the people.
 
 The people understand the difference between party changes caused by practical considerations or differences of policy, and a calculated course of action based on where comfort and livelihood can be obtained without interruption. They give such speakers or writers exactly the respect they deserve.
 
