@@ -107,6 +107,27 @@ Stamp அல்லது handwriting அச்சு எழுத்தை ம�
 
 Secondary witness wording-ஐ controlling scan-க்கு silently import செய்யக்கூடாது.
 
+## 6A. Historical Tamil glyph decoding
+
+Older Tamil editions may use pre-reform / historical metal-type glyphs whose modern visual resemblance is misleading. When such typeforms are present, the repository root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is mandatory.
+
+Core rule:
+
+> **Read character identity, not modern visual resemblance.**
+
+For each potentially affected page:
+
+- inspect enlarged/native source pixels;
+- explicitly check at least `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- compare clearer same-edition examples when uncertain;
+- encode only the proven historical character identity in modern Unicode;
+- preserve source spelling, sandhi, vocabulary, grammar and punctuation unchanged;
+- never global-replace;
+- keep unresolved clusters `needs-review`;
+- record historical-glyph corrections separately from ordinary transcription corrections.
+
+Historical glyph decoding must be applied during page-level work and independently re-read during the final strict visual fidelity pass.
+
 ## 7. பொருளடக்கம் மற்றும் article boundaries
 
 Printed contents page source evidence ஆகப் பாதுகாக்கப்பட வேண்டும். அதிலுள்ள தொடக்கப் பக்க எண்களை `indexes/contents.md`-ல் verbatim பதிவு செய்ய வேண்டும்.
