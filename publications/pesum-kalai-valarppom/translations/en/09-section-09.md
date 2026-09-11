@@ -18,7 +18,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 Twenty years ago, at a public meeting in Purasawalkam, Chennai, Professor Anbazhagan and I took part. When the Professor rose to speak, a woman handed him an infant and asked him to name the child. It was a girl! The Professor named her “Karunanidhi.” Karunanidhi is a name suited to people of every religion and to both men and women!
 
-At one time, even the wife of Mr. Bhaskaran, who helped develop the Dravidian movement in the Jayankonda Cholapuram area, was named Karunanidhi! “Karunai—nidhi”—that is, a treasury of grace, or a wealth of grace—is a name suited to any religion, to man or woman alike, isn't it? So when the Professor smiled and named that girl “Karunanidhi,” the whole meeting erupted in laughter!
+At one time, even the wife of Mr. Bhaskaran, who helped develop the Dravidar movement in the Jayankonda Cholapuram area, was named Karunanidhi! “Karunai—nidhi”—that is, a treasury of grace, or a wealth of grace—is a name suited to any religion, to man or woman alike, isn't it? So when the Professor smiled and named that girl “Karunanidhi,” the whole meeting erupted in laughter!
 
 Then he finished speaking. I rose to speak. A mother came to me too with her baby girl and asked me to name her. I named that child “Anbazhagi”—and cooled the affectionate irritation I had felt toward the Professor.
 
