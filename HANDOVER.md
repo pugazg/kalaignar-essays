@@ -49,7 +49,7 @@ For this publication, all source-dependent archival claims must come from:
 
 - P0 — **IN PROGRESS**
 - direct physical-file page-count verification — **PENDING**
-- exact physical-file byte size — **PENDING**
+- raw physical-file byte size — **282020019 bytes — CONFIRMED**
 - physical-file SHA-256 — **PENDING**
 - P1 — **NOT STARTED**
 - P2 — **NOT STARTED**
@@ -86,7 +86,7 @@ Core rule:
 
 1. access the physically mounted/uploaded PDF bytes;
 2. determine structural PDF page count from the file itself;
-3. record exact byte size and SHA-256 from those bytes;
+3. compute SHA-256 from those bytes; raw-file size is already confirmed as **282020019 bytes**;
 4. reconcile direct evidence against the user-confirmed **224 pages**;
 5. close P0 only after that succeeds;
 6. perform canonical P1 across the complete physical PDF;
