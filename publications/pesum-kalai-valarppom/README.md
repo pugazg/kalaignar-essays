@@ -17,13 +17,13 @@ Workspace: `publications/pesum-kalai-valarppom/`
 
 - E0 planning — **COMPLETE / PASS**;
 - T0 — **19/19 PASS**;
-- English body files — **4/19**;
-- T1 — **4/19**;
-- T2 — **4/19**;
-- T3 — **4/19**;
-- T4 — **4/19**;
-- T5 — **4/19**;
-- verified English articles — **4/19**;
+- English body files — **9/19**;
+- T1 — **9/19**;
+- T2 — **9/19**;
+- T3 — **9/19**;
+- T4 — **9/19**;
+- T5 — **9/19**;
+- verified English articles — **9/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
@@ -80,8 +80,19 @@ The verified Section 3 preserves the `iyal / music / koothu` historical argument
 
 The verified Section 4 preserves the Annamalai / Annadurai / Neelamegam pun chain, `Sabash`, exact page-25/26/27 anecdote, sea-sluice imagery, the `Annathurai kachcheri` and `Namaskaaranga!` recollections, source-form `Trichy prison`, the `Agraasanadhipathi → Avai-thalaivar` and `Sriman → Thiruvalar` contrasts, and the closing grass-tip / already-ground flour / recorded-tape images.
 
+## Sections 5–9 — VERIFIED
+
+- Section 5 — final verified English blob **`be408840f6e92913a003831b0ce6d4469ce7c52a`**; T2/T3/T4 corrections **2/6/0**; T4 decisions **12**; page comments **5/5**.
+- Section 6 — final verified English blob **`80c33bcbbcb755d75e0f2fb467eca16e67e3264c`**; T2/T3/T4 corrections **3/6/0**; T4 decisions **10**; page comments **4/4**.
+- Section 7 — final verified English blob **`bff09511f02948f1bc8bc5739425fdde29a27b98`**; T2/T3/T4 corrections **3/5/1**; T4 decisions **16**; page comments **5/5**.
+- Section 8 — final verified English blob **`2bdca622cf08295f3a41309168098d5c4459aebb`**; T2/T3/T4 corrections **4/5/0**; T4 decisions **16**; page comments **4/4**.
+- Section 9 — final verified English blob **`7ef1627c25b1f040270c9cbe11a989ee17fa9eef`**; T2/T3/T4 corrections **1/5/0**; T4 decisions **15**; page comments **3/3**.
+- T5 body corrections — **0 for all five / status-only promotions**;
+- unresolved English issues — **0**;
+- frozen Tamil edits — **0**.
+
 Permanent rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`** only where the exact source form occurs. The source supplies numeric sections only; do not invent descriptive English section titles.
 
 ## Exact next activity
 
-**E1 — Section 5 / T1 close draft.** Frozen Tamil authority: `articles/05-section-05.md`, expected blob **`7fbb055e1f7f2630d39f5a3e203de5e2547b93b9`**, scans **27–31 / printed pp.25–29**. Revalidate that blob, translate the complete Section 5, synchronize controls, and stop before Section 5 T2.
+**E1 — Section 10 / T1 close draft.** Frozen Tamil authority: `articles/10-section-10.md`, expected blob **`32dd5cf5bf4ec73e9c0cdb4c0f1eeead2f3a7055`**, scans **45–47 / printed pp.43–45**. Revalidate that blob, translate the complete Section 10, synchronize controls, and stop before Section 10 T2.
