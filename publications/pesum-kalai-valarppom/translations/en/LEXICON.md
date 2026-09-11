@@ -162,6 +162,112 @@ These choices come only from frozen `articles/04-section-04.md` and have passed 
 - exact source `உடன்பிறப்பே` does **not** occur in Section 4;
 - unresolved Section 4 T4 terminology / quotation / citation issues — **0**.
 
+## Section 5 — T4-audited decisions
+
+These choices come only from frozen `articles/05-section-05.md` and the Section 5 T1–T4 review sequence.
+
+| Tamil / source form | Preferred English | Status |
+|---|---|---|
+| `கலைவாணர் என். எஸ். கிருஷ்ணன்` | `Kalaivaanar N. S. Krishnan` | **T4 approved** |
+| `பெரியார் / அண்ணா / ஜீவா` | `Periyar / Anna / Jeeva` | **T4 approved** |
+| `இயக்குநர் பீம்சிங்` / quoted `பீம்` | `director Bhimsingh` / `Bheem` | **T4 approved** |
+| `டெட்டால்` | `Dettol` | **T4 approved** |
+| `புண்ணியகோடி` | `Punniyakodi` | **T4 approved** |
+| `மணிமேகலை` | `Manimekalai` | **T4 approved** |
+| `டாக்டர் இராமய்யா` | `Dr. Ramayya` | **T4 approved** |
+| `கழகச் சார்பு வேட்பாளர்` | `Kazhagam-backed candidate` | **T4 approved** |
+| `எழுச்சி` in the Punniyakodi passage | `awakening` | **T4 approved** |
+| `தனியான பாணி` | `a style of one's own` | **T4 approved** |
+| `டெமஸ்தனிஸ்` | `Demosthenes` | **T4 approved** |
+| pot-sound quotation | translate only from frozen Tamil; preserve cracked-pot / intelligence comparison | **T4 approved** |
+
+Source-page comments **5/5**; published/external quotation wording imported **No**; unresolved T4 issues **0**.
+
+## Section 6 — T4-audited decisions
+
+| Tamil / source form | Preferred English | Status |
+|---|---|---|
+| `வெளிநாட்டுச் சிறுகதை` | `foreign short story` | **T4 approved** |
+| `நமது தாய்நாடு` | `our motherland` | **T4 approved** |
+| `பெட்டிக்கடை` | `petty shop` | **T4 approved** |
+| `குவளைத் தேநீர்` | `a tumbler of tea` | **T4 approved** |
+| direct `அய்யா` | `Ayya` | **T4 approved / prior form reused** |
+| `நாகை` | `Nagai` | **T4 approved** |
+| `நன்னிலம் நடராசன்` | `Nannilam Natarasan` | **T4 approved** |
+| `கழகப் பேச்சாளர்` | `Kazhagam speaker` | **T4 approved** |
+| `கலைஞர்` | `Kalaignar` | **T4 approved / prior form reused** |
+| quoted `அண்ணே` | `Annae` | **T4 approved** |
+
+Source-page comments **4/4**; external story source not identified or imported; unresolved T4 issues **0**.
+
+## Section 7 — T4-audited decisions
+
+| Tamil / source form | Preferred English | Status |
+|---|---|---|
+| `உருவம் / பருவம்` | `appearance / age` | **T4 approved** |
+| `மடாதிபதி` | `head of the mutt / heads of mutts` | **T4 approved** |
+| `ஏழை பங்காளன்` | `ally of the poor` | **T4 approved** |
+| `கொத்தவரங்காய் போன்ற உடல்` | `a body like a cluster bean` | **T4 approved** |
+| `சுமார் முந்நூறு பவுண்டு` | `about three hundred pounds` | **T4 approved** |
+| `அலெக்சாண்டர் / நெப்போலியன்` | `Alexander / Napoleon` | **T4 approved** |
+| `சேர சோழ பாண்டியர்` | `Cheras, Cholas and Pandyas` | **T4 approved** |
+| `ஒளவையப்பாட்டி` | `Grandmother Avvai` | **T4 approved** |
+| `ஆத்திச்சூடி` | `Aathichudi` | **T4 approved** |
+| `அறஞ்செய விரும்பு / ஆறுவது சினம்` | `Desire to do virtue / Let anger cool` | **T4 approved; source-based translation** |
+| `புறநானூறு` | `Purananuru` | **T4 approved** |
+| derisive `வெங்காயம்!` | retain `vengaayam!` as source-bearing punch | **T4 approved** |
+| `வெட்டு ஒன்று துண்டு இரண்டு` | `one cut, two pieces` style | **T4 approved** |
+| `பெரியார்` | `Periyar` | **T4 approved** |
+| `பெருந்தலைவர் காமராஜர்` | `Perunthalaivar Kamarajar` | **T4 approved** |
+| `ஆத்திகர்கள்` | `theists` | **T4 approved** |
+
+T4 body correction: hyphenated `mutt-head` phrasing replaced with neutral institutional **head of the mutt / heads of mutts**. Source-page comments **5/5**; unresolved T4 issues **0**.
+
+## Section 8 — T4-audited decisions
+
+| Tamil / source form | Preferred English | Status |
+|---|---|---|
+| `அடுக்குச் சொல்` | `alliterative word-chain / alliterative phrasing` | **T4 approved** |
+| `நீதிக் கட்சி` | `Justice Party` | **T4 approved** |
+| `மாளிகை / மைதானம்` | `mansion / maidan` | **T4 approved** |
+| `144 தடைச் சட்டம்` | `Section 144` | **T4 approved** |
+| `கேள்விக்கணை` | `question-arrow` | **T4 approved** |
+| `மரணப் படுக்கையில்` | `On the Deathbed` | **T4 approved** |
+| source dialogue beginning `பேயே! ... பேப்பரை...` | translate from frozen Tamil; do not invent English alliteration | **T4 approved** |
+| `சர்ப்பம் / சாம்பார்` | retain `sarpam—a snake / sambar` wordplay | **T4 approved** |
+| `மாற்றான் தோட்டத்து மல்லிகையிலும் மணமிருக்கும்` | `Even the jasmine in another's garden has fragrance!` | **T4 approved; source-based quotation** |
+| `வேலையற்றதுகள் ... காலக் குறி` quotation | source-based English only | **T4 approved** |
+| gold-bar / ornament image | preserve subject as gold bar, words/similes as ornament/polish | **T4 approved** |
+| `உள்ளம் / பள்ளம்` contrast | `heart / hollow`; record unavoidable loss of Tamil sound-pun | **T4 approved** |
+| `விநாயகம்` | `Vinayagam` | **T4 approved** |
+| `உங்கள் நாட்கள் எண்ணப்படுகின்றன / என் அடிகள் அளந்து வைக்கப்படுகின்றன` | `Your days are numbered / My steps are being measured` | **T4 approved** |
+| `குறளோவியம்` | `Kuraloviyam` | **T4 approved** |
+| `மு.க. அவர்களே / அன்புள்ள குமரி அவர்களே` | `M.K. avargale / Anbulla Kumari avargale` | **T4 approved** |
+
+Source-page comments **4/4**; quoted Anna material translated only from frozen Tamil; unresolved T4 issues **0**.
+
+## Section 9 — T4-audited decisions
+
+| Tamil / source form | Preferred English | Status |
+|---|---|---|
+| `பேராசிரியர் அன்பழகனார்` | `Professor Anbazhagan` | **T4 approved** |
+| `கருணாநிதி` | `Karunanidhi` | **T4 approved** |
+| `கருணை—நிதி / அருட் கருவலம் / அருட்செல்வம்` | `Karunai—nidhi / treasury of grace / wealth of grace` | **T4 approved** |
+| `திராவிடர் இயக்கம்` | `Dravidian movement` | **T4 approved** |
+| `அன்பழகி` | `Anbazhagi` | **T4 approved** |
+| `அப்துர் ரகுமான்` | `Abdul Rahman` | **T4 approved** |
+| source Islamic-name list | `Shah Jahan, Jahangir, Iqbal / Nur Jahan, Mumtaz, Khadija` | **T4 approved** |
+| source general-name list | `Kathiravan, Kathiroli, Anbumani, Arivumani, Kanimozhi, Kayalvizhi, Ezhilarasi` | **T4 approved** |
+| `ஐந்தாவது உலகத் தமிழ் மாநாடு` | `Fifth World Tamil Conference` | **T4 approved** |
+| `அ. தி. மு. க.` | `A.D.M.K.` | **T4 approved** |
+| `இராசராசன்` | `Rajarajan` | **T4 approved** |
+| `எம்.ஜி.ஆர்.` | `M.G.R.` | **T4 approved** |
+| `தஞ்சை / திருச்சி / புதுக்கோட்டை` | `Thanjai / Trichy / Pudukkottai` | **T4 approved** |
+| four district-dialect quotations | retain source-bearing transliterations `Eesthukinu po / Ele! Vaale / Andhaande! Indhaande / Keeriya? Ennappa paper geetha?` | **T4 approved** |
+| `இலக்கணத் தமிழ்` | `grammatical Tamil` | **T4 approved** |
+
+Source-page comments **3/3**; dialect strings are retained without outside normalization or explanation; unresolved T4 issues **0**.
+
 ## Current count
 
 - permanent repository-wide lexical decisions: **1**;
@@ -169,8 +275,10 @@ These choices come only from frozen `articles/04-section-04.md` and have passed 
 - Section 1 T4-approved article-derived decisions: **16**;
 - Section 2 T4-approved article-derived decisions: **15**;
 - Section 3 T4-approved article-derived decisions: **17**;
-- unresolved Section 1 terminology / quotation / citation issues: **0**;
-- unresolved Section 2 terminology / quotation / citation issues: **0**;
 - Section 4 T4-approved article-derived decisions: **22**;
-- unresolved Section 3 terminology / quotation / citation issues: **0**.
-- unresolved Section 4 T1 terminology/source issues: **0**.
+- Section 5 T4-approved article-derived decisions: **12**;
+- Section 6 T4-approved article-derived decisions: **10**;
+- Section 7 T4-approved article-derived decisions: **16**;
+- Section 8 T4-approved article-derived decisions: **16**;
+- Section 9 T4-approved article-derived decisions: **15**;
+- unresolved terminology / quotation / citation issues in Sections 1–9: **0**.
