@@ -11,13 +11,13 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - frozen Tamil assemblies — **19/19**;
 - E0 planning / workspace bootstrap — **COMPLETE / PASS**;
 - T0 source prerequisite — **19/19 PASS**;
-- English article body files — **14/19**;
-- T1 close draft — **14/19**;
-- T2 bilingual fidelity — **14/19**;
-- T3 Kalaignar voice — **14/19**;
-- T4 terminology / quotation / citation — **14/19**;
-- T5 article verification — **14/19**;
-- verified English articles — **14/19**;
+- English article body files — **19/19**;
+- T1 close draft — **19/19**;
+- T2 bilingual fidelity — **19/19**;
+- T3 Kalaignar voice — **19/19**;
+- T4 terminology / quotation / citation — **19/19**;
+- T5 article verification — **19/19**;
+- verified English articles — **19/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
@@ -41,11 +41,11 @@ Frozen baseline commit used for E0/T0: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d
 | 12 | `articles/12-section-12.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
 | 13 | `articles/13-section-13.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
 | 14 | `articles/14-section-14.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 15 | `articles/15-section-15.md` | **PASS** | — | — | — | — | — | not-started |
-| 16 | `articles/16-section-16.md` | **PASS** | — | — | — | — | — | not-started |
-| 17 | `articles/17-section-17.md` | **PASS** | — | — | — | — | — | not-started |
-| 18 | `articles/18-section-18.md` | **PASS** | — | — | — | — | — | not-started |
-| 19 | `articles/19-section-19.md` | **PASS** | — | — | — | — | — | not-started |
+| 15 | `articles/15-section-15.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
+| 16 | `articles/16-section-16.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
+| 17 | `articles/17-section-17.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
+| 18 | `articles/18-section-18.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
+| 19 | `articles/19-section-19.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
 
 ## Section 1 — VERIFIED
 
@@ -122,10 +122,22 @@ All five T5 passes made **0 body corrections / status-only promotions**. Unresol
 
 All five T5 passes made **0 body corrections / status-only promotions**. Unresolved English issues across Sections 10–14: **0**.
 
+## Sections 15–19 — VERIFIED
+
+| Section | Frozen Tamil blob | Final verified English blob | T2 / T3 / T4 corrections | T4 decisions | Page comments |
+|---:|---|---|---|---:|---:|
+| 15 | `682c68cdc0db1899749f2943c9d311ecb1061eb8` | **`f2cc6211ff4eee23d852ce6f7a438ba42bbe2c8b`** | **2 / 4 / 0** | 13 | 4/4 |
+| 16 | `1ab092b3b7bcdc0efd23f08e49799e7c3fda8d5f` | **`c65bf67c41159ca8ea854b5ca5b6189169a80b8e`** | **1 / 3 / 1** | 15 | 4/4 |
+| 17 | `bd4cb1d4e631e19de0e5cc62f0aecf176d7e2fe2` | **`c1015074837f606a93808ea2235383b309a9fd98`** | **1 / 4 / 0** | 14 | 5/5 |
+| 18 | `060e72d9ec61e491343c948c2db9371312b7e3a8` | **`8ca4aa3771cd6b0be95cd02537e88e3bf4347102`** | **2 / 4 / 1** | 22 | 5/5 |
+| 19 | `aa3eb2b5311f8ad1a705f606bd4ace3f2059ec6c` | **`e7cdf88c31c27e27ed973c382865bc9f7c4d66bc`** | **2 / 4 / 0** | 16 | 4/4 |
+
+All five T5 passes made **0 body corrections / status-only promotions**. Unresolved English issues across Sections 15–19: **0**.
+
 ## Binding repository rule
 
 Exact source `உடன்பிறப்பே` → **`Udanpirappē`**; as direct salutation use **`Udanpirappē,`**. Apply only where the exact source form occurs.
 
 ## Exact next activity
 
-**E1 — Section 15 / T1 close draft.** Re-fetch frozen Tamil `../../articles/15-section-15.md` and require blob **`682c68cdc0db1899749f2943c9d311ecb1061eb8`**, scans **64–67 / printed pp.62–65**. Translate the complete Section 15, preserve all source-page comments and rhetorical action, record genuine new working decisions, and stop before T2.
+**Publication-wide English cross-article consistency / release review.** All **19/19** article translations are individually verified. Check the complete English corpus for cross-article consistency and only then declare the publication English-translation complete.
