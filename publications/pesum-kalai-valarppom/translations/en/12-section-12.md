@@ -8,7 +8,7 @@ source_tamil_blob_sha: "91f08b6cf0de84cc3a1b58120b1702d355f4c683"
 source_scan_pages: "51-55"
 source_printed_pages: "49-53"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -24,11 +24,11 @@ Speaking what one knows.
 
 Speaking what one does not know.
 
-Speeches may be divided into a few such kinds. Historical speeches, scientific speeches, literary speeches, economic speeches—specialised speeches of these separate kinds generally work best in seminars. For that, one must possess deep book-learning and experience in each subject. Otherwise, Valluvar's warning that it becomes like playing a game without a proper arena<!-- Tamil source: scan 52 / printed 50 --> becomes apt. The Tirukkural states categorically that one should not enter an assembly without fullness of learning.
+Speeches may be divided into a few such kinds. Historical speeches, scientific speeches, literary speeches, economic speeches—specialised speeches of these separate kinds generally work best in seminars. For that, one must possess deep book-learning and experience in each subject. Otherwise, Valluvar's warning that it becomes like playing dice without a board<!-- Tamil source: scan 52 / printed 50 --> becomes apt. The Tirukkural states categorically that one should not enter an assembly without fullness of learning.
 
 No one can deny that ideas which are now spoken only in seminars must gradually be carried beyond those halls to ordinary people too. At a public meeting, recalling a historical note and linking it as support to the subject one has taken up should be like mixing honey into milk.
 
-“What became of the Tsar who squeezed dry the helpless class of poor people and workers? How much did Lenin struggle to make the workers' flag fly on Soviet soil? Churchill, who protected England from the attacks of dictators such as Hitler and Mussolini in the great world war—his party was defeated in the election that followed, and he could not continue as Prime Minister—”
+“What became of the Tsar who squeezed dry the helpless class of poor people and workers? How much did Lenin struggle to make the workers' flag fly on Soviet soil? Churchill, who protected England from the attacks of dictators such as Hitler and Mussolini in the great world war—his party was defeated in the election that followed, and he could not become Prime Minister—”
 
 Historical references can be used like pickle with curd rice, in suitable places appropriate to the speech. If an entire public-meeting speech consists only of historical references, one cannot attract the people and win their praise.
 
@@ -40,7 +40,7 @@ We live in a scientific world in which human beings have set foot on the moon an
 
 If, saying “I am speaking economics,” one explains page after page of Karl Marx's book Mooladhanam (Capital) before the general public, in the end only the loudspeaker operators will remain on the stage. At public meetings, economic problems should be explained only enough to make people understand the class divisions Marx identified and to create the feeling that the working class must rule the world.
 
-“Everything you see was made by the worker. Is poverty what he deserves to see? Is patience what he deserves to wear?” What a great question rises from this song of the Revolutionary Poet! And how much pathos and feeling burst forth from Jeeva's song: “No sandals for our feet—no gruel for our half-empty stomachs; we have toiled in vain, my comrade!”
+“Everything you see was made by the worker. Is poverty what he deserves to see? Is patience what he deserves to wear?” What a great question rises from this song of the Revolutionary Poet! And how much pathos and feeling burst forth from Jeeva's song: “No sandals for our feet—not even gruel to fill a quarter of our stomachs; we have toiled in vain, my comrade!”
 
 By using things like these from time to time in a related speech, a speaker can draw the people to his side and make them accept his principles in their hearts. What the people need to know must be spoken in this way, in due measure.
 
@@ -56,7 +56,7 @@ Some speakers wish to say at a meeting everything they know. If what they know i
 
 A public meeting in a tiny village. A graduate is speaking on the stage. The chair is a graduate. The person due to speak next is a graduate. Before them are the villagers.
 
-“Elders! When Brutus stabbed Julius Caesar, Caesar said, ‘You too, Brutus!’<!-- Tamil source: scan 55 / printed 53 -->
+“Elders! When Brutus stabbed Julius Caesar, Caesar said, ‘You too, Brutus?’<!-- Tamil source: scan 55 / printed 53 -->
 
 The Greek court presented Socrates with a cup of poison! Shakespeare's plays run in England for months—for years. Abraham Lincoln was shot in a theatre.”
 
