@@ -10,78 +10,103 @@ This is the **single authoritative project handover**.
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-There is currently **no active publication**.
+Publication 12 **`ஆறு மாதக் கடுங்காவல்` is ACTIVE — P0 source intake IN PROGRESS**.
 
-Do not reopen frozen publications merely for stylistic polishing. Reopen only when genuinely new source-supported evidence reveals a defect, and formally revalidate the affected gates. Source PDFs are never committed.
+Do not reopen Publications 1–11 merely for stylistic polishing. Reopen only for genuine source-supported defects. Source PDFs are never committed.
 
 ---
 
-# Publication 11 — பேசும் கலை வளர்ப்போம் — RELEASE COMPLETE / FROZEN
+# Publication 12 — ஆறு மாதக் கடுங்காவல்
 
-Workspace: `publications/pesum-kalai-valarppom/`  
-Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`
+Workspace: `publications/aaru-maatha-kadungkaaval/`  
+Controlling source: `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`
 
-## Final Tamil state
+## Mandatory startup
 
-- source SHA-256 — **`73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`**
-- physical scans — **82**, image-only
+Before further source-dependent work, read fresh/completely:
+
+1. `ESSAY_PROCESSING_GUIDE.md`
+2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+3. `ESSAY_TRANSLATION_GUIDE.md` when translation becomes relevant
+4. `docs/FUTURE_WORK_GUIDELINES.md`
+5. this root `HANDOVER.md`
+6. `docs/NEXT_CHAT_PROMPT.md`
+7. publication `README.md`
+8. publication `metadata/source.md`
+9. publication `indexes/page-map.md`
+10. publication `audit.md`
+
+## P0 source state
+
+- title as printed — **`ஆறு மாதக் கடுங்காவல்`**
+- author as printed — **`மு. கருணாநிதி`**
+- visible edition — **`முதல் பதிப்பு—1953`**
+- physical scans — **150**
+- file size — **282020019 bytes**
+- PDF type — **image-only / no usable parsed text**
+- duplicate repository work found — **No**
 - source PDF committed — **No**
-- P0–P5 — **COMPLETE / PASS / FROZEN**
-- canonical records — **82/82 VERIFIED**
-- source-numbered assemblies — **19/19**
-- P5 corrections — **33/33 propagated**
-- unresolved Tamil/source blockers — **0**
-- frozen `pages/` tree — **`99558f84421f03c94d652bf64da08746d662c594`**
-- frozen `articles/` tree — **`5d997ba350ec87c1d70e4ab828f71c645a360d53`**
+- source SHA-256 — **PENDING**
+- P0 overall — **IN PROGRESS**
 
-## Final English state
+## Source-visible opening structure
 
-- E0–E7 — **COMPLETE / PASS**
-- English body files — **19/19**
-- T0/T1/T2/T3/T4/T5 — **19/19 PASS** at every gate
-- E6 publication-wide consistency — **COMPLETE / PASS**
-- E6 body corrections — **2**
-- E7 English release closeout — **PASSED / COMPLETE**
-- English translation — **COMPLETE**
-- English release gate — **CLOSED**
-- unresolved English/release blockers — **0**
-- frozen Tamil edits during English work — **0**
+- scan 1 — later donation/physical-copy mark; not publication body text
+- scan 2 — title page
+- scan 3 — first-edition/imprint page; price `ரூ. 2-0-0` visible
+- scan 4 — publisher note
+- scan 5 — near-blank reverse/show-through
+- scans 6–7 — `காணிக்கை` dedication, ending with `கருணாநிதி`
+- scan 8 — illustrated `முரசு` page
+- scan 9 — near-blank reverse/show-through
+- scan 10 — chronological main narrative begins with June 1953 material
 
-E6 corrections carried into release:
+The publisher note frames the work as covering the Kallakudi agitation/campaign context through imprisonment. Treat it as a **single book-length chronological narrative** unless P1 source mapping proves a different publication structure.
 
-1. Section 6 `Natarajan` → **`Natarasan`**; released blob **`69d999d2c019ca0d172b46148167f69c4da510c8`**.
-2. Section 9 `Dravidian movement` → **`Dravidar movement`** for recurring `திராவிடர் இயக்கம்`; released blob **`765358f064a48e3bbd7d83291b4cfdd568140836`**.
+## Historical Tamil glyph rule — mandatory
 
-E7 pre-release checkpoint: **`eab6acce6cc2cb3e1e5afc15e73de10a8034addf`**, root tree **`441eb134854ea16bd847f51d6ed5c72634a9e912`**.
+This 1953 source visibly uses older Tamil type. The root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` is now part of this repository's permanent workflow.
 
-E7 revalidated:
-- current English release matrix — **19/19 PASS**
-- English statuses — **19/19 verified**
-- source-page comment instances — **88/88**
-- frozen Tamil article/page trees — **PASS**
-- source PDF absent from repository — **PASS**
-- E7 English/Tamil body changes — **0 / 0**
-- E7 release blockers — **0**
+Core rule:
 
-Release authority: `publications/pesum-kalai-valarppom/translations/en/RELEASE_REPORT.md`.
+> **Read character identity, not modern visual resemblance.**
 
-Permanent translation rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**, only where the exact Tamil form occurs.
+During P2 and P5:
+
+- inspect whole pages at enlarged/native resolution;
+- explicitly audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- compare same-edition examples when uncertain;
+- encode only proven historical character identity in modern Unicode;
+- never use glyph decoding to modernise spelling/grammar;
+- never global-replace;
+- leave unresolved clusters `needs-review`;
+- record historical-glyph corrections separately.
+
+## Tamil archival status
+
+- P0 — **IN PROGRESS**
+- P1 — **NOT STARTED**
+- P2 — **NOT STARTED**
+- P3 — **NOT STARTED**
+- P4 — **NOT STARTED**
+- P5 — **NOT STARTED**
+- English translation — **NOT STARTED / BLOCKED until Tamil freezes**
+- unresolved source blockers — **1: exact supplied-file SHA-256 not yet durably recorded**
+
+## Exact next activity
+
+**Close P0, then perform P1 source/page mapping.**
+
+1. compute and record the exact SHA-256 of the supplied PDF;
+2. only then mark P0 COMPLETE / PASS;
+3. inspect **all 150 scans** structurally;
+4. establish printed pagination, suppressed/inferred folios, page types, blank/reverse pages, every date/place/topic heading and internal unit boundary, cross-page continuations, illustrations and the final source boundary;
+5. determine whether any printed contents/index page exists;
+6. update `indexes/page-map.md`, `metadata/source.md`, publication `README.md`, `audit.md`, root handover and next prompt;
+7. do **not** begin bulk transcription until P1 is complete.
 
 ---
 
-# Exact next activity — new publication intake
+# Frozen prior boundary
 
-There is no Publication 12 or other active work already staged in the repository.
-
-The next activity requires a **new supplied source PDF**.
-
-When a new Kalaignar essay/article/pamphlet/serial publication is supplied:
-
-1. fetch live `main`;
-2. read `ESSAY_PROCESSING_GUIDE.md`, `ESSAY_TRANSLATION_GUIDE.md`, `docs/FUTURE_WORK_GUIDELINES.md`, this handover, and `docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`;
-3. inspect the actual supplied scan before choosing title, publication type, slug or structure;
-4. search live repository state to prevent duplicate work;
-5. begin P0 source intake only after the scan is available;
-6. use `docs/START_NEW_ESSAY_WORK_PROMPT.md` as the reusable fresh-window intake prompt.
-
-Until a new source is supplied, **do not invent Publication 12 and do not reopen Publications 1–11**.
+Publications **1–11 remain RELEASE COMPLETE / FROZEN**.
