@@ -64,9 +64,19 @@ This is glyph decoding, not spelling modernization.
 - direct structural page-count verification — **PENDING**
 - SHA-256 verification — **PENDING**
 - P0 — **IN PROGRESS**
-- P1 — **NOT STARTED**
+- P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
 - P2–P5 — **NOT STARTED**
+
+## P1 override / supplied-artifact result
+
+The user explicitly authorised proceeding to P1 despite unresolved P0 SHA-256/source-extent reconciliation.
+
+The supplied PDF artifact was structurally inspected **150/150 pages** and passed P1 for that artifact. Full result:
+
+`../P1_SOURCE_STRUCTURE_REVIEW.md`
+
+This does not resolve the separate user-reported **224-page** publication extent.
 
 ## Exact next activity
 
-Inspect the actual uploaded PDF bytes directly, determine structural page count and SHA-256, reconcile against the expected **224 pages**, close P0 if clean, then begin canonical P1. The exact raw-file size is already fixed at **282020019 bytes**.
+**P2 scans 1–5** against the supplied artifact. Keep P0 source-completeness discrepancy open; do not infer material beyond scan 150.
