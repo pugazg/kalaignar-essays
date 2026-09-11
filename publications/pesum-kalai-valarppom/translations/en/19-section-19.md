@@ -8,7 +8,7 @@ source_tamil_blob_sha: "aa3eb2b5311f8ad1a705f606bd4ace3f2059ec6c"
 source_scan_pages: "79-82"
 source_printed_pages: "77-80"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -24,7 +24,7 @@ None other than the man who began speaking on Dravidar movement platforms at the
 
 From the age of ten, Veeramani worked with Periyar while continuing his schooling, earned a college degree, and became an incomparable worker of the Dravidar Kazhagam. In his tender young years, great crowds would gather to witness the astonishing sight of him speaking on a stage.
 
-There were many leaders who did not merely accept Periyar's leadership, but stayed with him, travelled with him to programmes, worked in the offices of his Kudi Arasu, Viduthalai and Pagutharivu journals, and spread his principles among the people through both writing and speech.
+Many leaders did more than merely accept Periyar's leadership: they stayed with him, travelled with him to programmes, worked in the offices of his Kudi Arasu, Viduthalai and Pagutharivu journals, and carried his principles to the people through writing and speech.
 
 As times changed, they may have gone to different movements. Yet they themselves neither forgot nor concealed that the training they received from Periyar was the reason they were—and are—respected as leaders, speakers and writers!
 
@@ -32,11 +32,11 @@ Likewise, there are those who not only accepted the leadership of Perarignar Ann
 
 <!-- Tamil source: scan 81 / printed 79 -->
 
-There are also those who had the opportunity to train under both Periyar and Anna and dedicated themselves to the ideals laid down by the two! They have every reason to be proud of that rare blessing! There are a few who, like me, can think with joy: I too had a place in that group!
+There are also those who had the opportunity to train under both Periyar and Anna—and dedicated themselves to the ideals laid down by the two! They have every reason to be proud of that rare blessing! There are a few who, like me, can think with joy: I too had a place in that group!
 
 Today, seeing very young boys and girls speak on stages has become common at meetings of every party—why, even at religious meetings.
 
-But many boys and girls, merely to satisfy the wishes of their parents, the desires of relatives, or because the children themselves have taken it up as a “mannerism”, think only of attacking someone or praising someone on stage and collecting applause. They make no effort to develop their education and to understand things clearly.
+But many boys and girls—whether to satisfy their parents, please relatives, or because they themselves have taken it up as a “mannerism”—think only of attacking someone or praising someone on stage and collecting applause. They make no effort to develop their education and to understand things clearly.
 
 Such boys and girls should think about how our friend Veeramani, even at a young age, worked without pause, cared about his education, remained loyal to his leader, and likewise stood firm in principle.
 
@@ -52,4 +52,4 @@ N. V. Natarasanar, who was a close worker of both Periyar and Anna and a strong 
 
 Through this series of articles, “Let Us Develop the Art of Speaking,” I have, to the extent I could, presented in a simple style many pleasant incidents—incidents that touch the heart—speakers of ability from many fields and movements—and thoughts on how one should speak and how one should not.
 
-If this series of articles proves useful even to some extent to those who wish to excel in the art of speaking, I shall be very happy.
+If this series proves useful even to some extent to those who wish to excel in the art of speaking, I shall be greatly pleased.
