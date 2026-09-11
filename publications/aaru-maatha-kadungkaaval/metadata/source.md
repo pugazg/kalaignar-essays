@@ -85,8 +85,26 @@ Character identity must be decoded from source pixels before Unicode transcripti
 - complete-source file size — **PENDING**
 - complete-source SHA-256 — **PENDING**
 - P0 overall — **IN PROGRESS / BLOCKED ON COMPLETE SOURCE ACCESS**
-- P1 — **NOT STARTED canonically**
+- P1 — **PARTIAL / PROVISIONAL — scans 1–150 structurally inspected; 151–224 unavailable**
+
+## Independent bibliographic witness
+
+A separate saved bibliographic source records the first edition as:
+
+`ஆறுமாதக் கடுங்காவல், திராவிடப் பண்ணை, திருச்சிராப்பள்ளி, முதற்பதிப்பு, 1953, பக்.220`
+
+and describes it as a record of Kalaignar's prison experience.
+
+This witness is **secondary only**. It does not replace the controlling scan. The recorded `பக்.220` is compatible with—but does not prove—the user-confirmed **224 physical PDF pages**.
+
+## P1 partial reconnaissance
+
+Accessible scans **1–150** have now received one complete structural visual sweep. Durable record:
+
+`../P1_PARTIAL_RECONNAISSANCE.md`
+
+Canonical P1 remains blocked because scans **151–224** and the true final source boundary are unavailable.
 
 ## Exact next activity
 
-Make the complete **224-page source PDF** accessible. Then record its exact file size and SHA-256, close P0, and perform P1 page/structure mapping across scans **1–224**.
+Make the complete **224-page source PDF** accessible. Then record its exact file size and SHA-256, close P0, and finish canonical P1 across scans **1–224**, using the partial reconnaissance only as provisional evidence.
