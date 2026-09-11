@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / English E1 Section 4 T2
+# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / English E1 Section 5 T1
 
 Continue in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -14,34 +14,36 @@ Fetch live `main` first. Root `HANDOVER.md` is the **single authoritative projec
 - Tamil assemblies — **19/19**
 - T0 — **19/19**
 - T1 — **4/19**
-- T2 — **3/19**
-- T3 — **3/19**
-- T4 — **3/19**
-- T5 — **3/19**
-- verified English articles — **3/19**
+- T2 — **4/19**
+- T3 — **4/19**
+- T4 — **4/19**
+- T5 — **4/19**
+- verified English articles — **4/19**
 - unresolved English blockers — **0**
 - frozen Tamil edits — **0**
 
-Sections 1–3 are **VERIFIED / T0–T5 COMPLETE**.
+Sections 1–4 are **VERIFIED / T0–T5 COMPLETE**.
 
-## Section 4 — T1 COMPLETE / draft
+## Section 4 verified checkpoint
 
-Tamil authority:
-
-- `publications/pesum-kalai-valarppom/articles/04-section-04.md`
-- required frozen blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`**
+Tamil:
+- `articles/04-section-04.md`
+- frozen blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`**
 - scans **22–27 / printed pp.20–25**
 
 English:
+- T1 blob `665b4629202b57a81275310f86e25dfc4e2be73d`
+- post-T2 blob `ab22ce719dc8e2c82cc5dbfeb4108b29d6bcdc8c`
+- post-T3 blob `6f461abbd058f69b6584dd32fc96a9b062425624`
+- post-T4 blob `aae55dffdf3d58d0b268c5ed2721f76d88451037`
+- final verified blob **`9a236986ecf612f0da8de3179c8d8acd9eac3183`**
+- T2/T3/T4 corrections — **4 / 8 / 1**
+- T5 body corrections — **0 / status-only**
+- T4-approved decisions — **22**
+- page comments — **6/6**
+- unresolved issues — **0**
 
-- `publications/pesum-kalai-valarppom/translations/en/04-section-04.md`
-- T1 blob **`665b4629202b57a81275310f86e25dfc4e2be73d`**
-- status **draft**
-- source-page comments **6/6**
-- T1 provisional decisions **20**
-- unresolved T1 blockers **0**
-
-Protected T1 points include `famine of words`, `Kudanthai`, the Annamalai / Annadurai / Neelamegam pun chain, `Sabash`, exact pages 25/26/27, sea-sluice imagery, `Annathurai kachcheri`, `Namaskaaranga!`, `Agraasanadhipathi → Avai-thalaivar`, `Sriman → Thiruvalar`, grass-tip grazing, already-ground flour, and recorded-tape imagery.
+Protected Section 4 decisions include `famine of words`, `Kudanthai`, `Arignar Anna`, the Annamalai / Annadurai / Neelamegam pun chain with `malai—mountain`, `durai—a lord`, `megam—cloud`, `Sabash`, exact pages 25/26/27, sea-sluice imagery, `Ayya!`, `Annathurai kachcheri`, `Namaskaaranga!`, source-form `Trichy prison`, `Agraasanadhipathi → Avai-thalaivar`, `Sriman → Thiruvalar`, grass-tip grazing, already-ground flour and recorded-tape imagery.
 
 ## Mandatory startup
 
@@ -57,18 +59,44 @@ Read fresh/completely:
 8. `translations/en/README.md`
 9. `translations/en/LEXICON.md`
 10. `translations/en/TRANSLATION_REVIEW.md`
-11. frozen Tamil `articles/04-section-04.md`
-12. T1 English `translations/en/04-section-04.md`
+11. frozen Tamil `articles/05-section-05.md`
+12. any existing English `translations/en/05-section-05.md` if present on live `main`
 
-## Exact next activity — Section 4 / T2
+## Section 5 authority
 
-Re-fetch and require exact blobs:
+- frozen Tamil: `publications/pesum-kalai-valarppom/articles/05-section-05.md`
+- required blob: **`7fbb055e1f7f2630d39f5a3e203de5e2547b93b9`**
+- scans **27–31 / printed pp.25–29**
+- T0 **PASS**
 
-- Tamil **`b938be21e198d69548e45ae96cb0e9802b8d7079`**
-- English **`665b4629202b57a81275310f86e25dfc4e2be73d`**
+A blob mismatch is a hard source-drift stop. Preserve any legitimate newer English Section 5 work rather than rolling it back.
 
-Perform an independent sentence-by-sentence / clause-by-clause bilingual fidelity review. Check all quantities, names, source epithets, puns, quotations, page-number sequence, colloquial `kachcheri` lines, 1953/Kallakudi/Tiruchirappalli/Manapparai details, Tamil lexical-change contrasts, imagery, repetition, questions/exclamations and all **6/6** page comments.
+## Permanent translation rules
 
-Record every correction transparently. If T2 passes, set `translation_status: "fidelity-reviewed"`, record the post-T2 blob, synchronize tracker/review/plan/audit/handover, and make **Section 4 / T3 Kalaignar voice review** the next activity.
+- **Translate the language; do not neutralise the voice.**
+- Preserve every Tamil paragraph/clause; no omissions or added claims.
+- Preserve questions, commands, repetition, irony, exclamations, abrupt contrasts and driving dashes.
+- Preserve every source-page boundary comment.
+- Do not invent descriptive section titles.
+- Do not silently replace source-chosen names/epithets with explanatory modern forms.
+- Exact source `உடன்பிறப்பே` → `Udanpirappē`; direct salutation `Udanpirappē,` only where that exact source form occurs.
+- Do not import published English translations unless explicitly authorized.
+- Apply verified Sections 1–4 lexicon decisions only where the same Tamil function genuinely recurs.
 
-Do not modify frozen Tamil. Do not start T3 in the same activity.
+## Exact next activity — Section 5 / T1
+
+Perform the complete **T1 close draft** for Section 5:
+
+1. re-fetch and require Tamil blob **`7fbb055e1f7f2630d39f5a3e203de5e2547b93b9`**;
+2. translate every Tamil paragraph and clause from the frozen assembly;
+3. retain numeric section identity `5`;
+4. preserve every source-page boundary comment;
+5. preserve quotations, questions, exclamations, repetition, humour, irony, imagery and abrupt turns;
+6. apply established terminology only where the source function genuinely matches;
+7. create `translations/en/05-section-05.md` with exact frozen Tamil metadata and `translation_status: "draft"`;
+8. add only genuine new Section 5 working decisions to `LEXICON.md`;
+9. record the T1 English blob and synchronize tracker/review/plan/audit/handover;
+10. set the next activity to **Section 5 / T2 bilingual fidelity review**;
+11. stop after T1.
+
+Do not modify frozen Tamil. Do not start Section 5 T2 in the same activity.
