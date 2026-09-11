@@ -108,10 +108,10 @@ T0 source prerequisite → T1 close draft → T2 bilingual fidelity → T3 Kalai
 ## Sections 5–9 — COMPLETE / VERIFIED
 
 - Section 5 final verified English blob — **`be408840f6e92913a003831b0ce6d4469ce7c52a`**;
-- Section 6 final verified English blob — **`80c33bcbbcb755d75e0f2fb467eca16e67e3264c`**;
+- Section 6 final verified English blob — **`69d999d2c019ca0d172b46148167f69c4da510c8`**;
 - Section 7 final verified English blob — **`bff09511f02948f1bc8bc5739425fdde29a27b98`**;
 - Section 8 final verified English blob — **`2bdca622cf08295f3a41309168098d5c4459aebb`**;
-- Section 9 final verified English blob — **`7ef1627c25b1f040270c9cbe11a989ee17fa9eef`**;
+- Section 9 final verified English blob — **`765358f064a48e3bbd7d83291b4cfdd568140836`**;
 - T2 correction families — **2 / 3 / 3 / 4 / 1**;
 - T3 voice corrections — **6 / 6 / 5 / 5 / 5**;
 - T4 body corrections — **0 / 0 / 1 / 0 / 0**;
@@ -147,6 +147,22 @@ T0 source prerequisite → T1 close draft → T2 bilingual fidelity → T3 Kalai
 - unresolved issues — **0**;
 - frozen Tamil changes — **0**.
 
+## E6 publication-wide English consistency review — COMPLETE / PASS
+
+- full 19-article corpus reviewed together against frozen Tamil metadata and living lexicon;
+- current Section 6 release blob — **`69d999d2c019ca0d172b46148167f69c4da510c8`** after `Natarajan` → **`Natarasan`**;
+- current Section 9 release blob — **`765358f064a48e3bbd7d83291b4cfdd568140836`** after `Dravidian movement` → **`Dravidar movement`** for recurring `திராவிடர் இயக்கம்`;
+- total E6 body corrections — **2**;
+- deliberate contextual/source-witness differences retained — **PASS**;
+- title style — **PASS**;
+- quotation / verse treatment — **PASS**;
+- source-bearing puns, transliterations and documented anomalies — **PASS**;
+- page-comment completeness/order — **PASS across 19/19**;
+- unresolved E6 issues — **0**;
+- frozen Tamil edits — **0**;
+- English translation — **COMPLETE**;
+- E7 release closeout — **PENDING**.
+
 ## Current English state
 
 - E0 — **COMPLETE / PASS**;
@@ -163,4 +179,4 @@ T0 source prerequisite → T1 close draft → T2 bilingual fidelity → T3 Kalai
 
 ## Exact next activity
 
-**Publication-wide English cross-article consistency / release review.** All **19/19** articles have passed T0–T5. Re-read the complete English corpus for recurring terminology, epithets, quotations, source-bearing puns/transliterations, tone and title consistency, page-comment completeness, and accidental cross-article smoothing. Do not declare English translation complete until this release review passes.
+**E7 — English release closeout.** Revalidate the E6-approved 19-article corpus and all synchronized controls, confirm frozen Tamil remains unchanged, perform final release bookkeeping, and move Publication 11 to **RELEASE COMPLETE / FROZEN** only if that closeout passes.
