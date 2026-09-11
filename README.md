@@ -30,7 +30,8 @@ Current source-access state:
 - physical-file SHA-256 — **PENDING**
 - historical Tamil glyph workflow — **MANDATORY**
 - P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2–P5 — **NOT STARTED**
+- P2 — **IN PROGRESS — 5/150 records; 3 verified / 2 needs-review**
+- P3–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil archival completion/freeze**
 - source PDF committed — **No**
 
@@ -38,7 +39,7 @@ The earlier preview-derived 150-page/P1 claims have been withdrawn. **Preview/pa
 
 User-supplied context describes the work as a prison-life memoir of Kalaignar's six-month sentence, including solitary confinement at Palayamkottai prison. This remains metadata/context unless directly reproduced by the scan itself.
 
-Exact next activity: **P2 scans 1–5**. P0 SHA-256 / 224-page completeness discrepancy remains open; P1 is complete for the supplied 150-page artifact.
+Exact next activity: **P2 scans 6–10**. P0 SHA-256 / 224-page completeness discrepancy remains open; scans 3–4 retain explicit source-reading holds.
 
 ### Publications 1–11
 
