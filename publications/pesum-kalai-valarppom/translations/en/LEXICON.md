@@ -523,6 +523,8 @@ Cross-article review of all **19/19** verified English sections classified appar
 
 E6 terminology / source-witness inconsistencies after correction: **0**.
 
+**E6 result: COMPLETE / PASS.** English translation is publication-wide consistent. **E7 English release closeout: PENDING.**
+
 ## Current count
 
 - permanent repository-wide lexical decisions: **1**;
