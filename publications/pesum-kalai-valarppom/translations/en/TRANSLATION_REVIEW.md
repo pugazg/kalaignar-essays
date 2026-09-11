@@ -115,7 +115,11 @@ Final T2 checks:
 
 No Section 3 lexicon entry changed at T2; the 17 working decisions remain provisional pending T3/T4.
 
-T3 / ### T4 terminology / quotation / citation audit
+### T3 Kalaignar voice review
+
+**COMPLETE / PASS after 13 voice corrections.** Post-T3 English blob: **`00581593374a42a7f132fd3434684a52038b19d4`**. `translation_status`: **voice-reviewed**. Directness, emphatic cadence, preamble humour, memorisation critique, quoted parallelism, caste repetition, heart/lips imagery and the `மலிவு` anecdote all passed; source-page comments **7/7**; unresolved T3 issues **0**.
+
+### T4 terminology / quotation / citation audit
 
 **COMPLETE / PASS after 1 terminology correction.**
 
@@ -153,22 +157,60 @@ Section 3 sequence **T0–T5 COMPLETE / PASS**.
 
 ---
 
+## E1 — Section 4
+
+### T0 source check
+
+**PASS.** Live `articles/04-section-04.md` revalidated at exactly **`b938be21e198d69548e45ae96cb0e9802b8d7079`**, scans **22–27 / printed pp.20–25**. No pre-existing English `translations/en/04-section-04.md` was present on live `main` before drafting.
+
+### T1 close draft
+
+**COMPLETE / PASS as a draft gate.**
+
+- English file — `translations/en/04-section-04.md`;
+- T1 English blob — **`665b4629202b57a81275310f86e25dfc4e2be73d`**;
+- `translation_status` — **draft**;
+- numeric section identity `4` — retained;
+- all Tamil paragraphs/clauses represented — **yes**;
+- source-page comments — **6/6 retained**, scans 22–27;
+- quantities/dates/page numbers — retained;
+- frozen Tamil edits — **0**;
+- unresolved T1 blockers — **0**.
+
+Source-sensitive T1 points:
+
+- `சொற் பஞ்சம்` → `famine of words`;
+- `குடந்தை` → `Kudanthai`; `குடந்தைப் பெரியவர்` framing retained;
+- `Arignar Anna` reuses the already verified source-bearing form;
+- the Annamalai / Annadurai / Neelamegam name-pun is preserved with `malai`, `durai`, and `megam` source-bearing elements rather than silently paraphrased away;
+- `சபாஷ்` → `Sabash`;
+- K. K. Neelamegam’s page-25/26/27 anecdote and quoted roar are retained;
+- sea-sluice and inseparable-merging imagery are retained;
+- `Annathurai kachcheri`, `kachcheri`, and `Namaskaaranga!` preserve the quoted colloquial/concert framing;
+- `Agraasanadhipathi → Avai-thalaivar` and `Sriman → Thiruvalar` remain visibly distinct;
+- grass-tip grazing, already-ground flour, and recorded-tape images are retained;
+- Section 4 T1 provisional lexicon/source decisions — **20**.
+
+T2 / T3 / T4 / T5 — **pending**.
+
+---
+
 ## English gate totals
 
 | Gate | Status |
 |---|---|
 | E0 workspace/planning | **COMPLETE / PASS** |
 | T0 source prerequisite | **19/19 PASS** |
-| T1 close draft | **3/19** |
+| T1 close draft | **4/19** |
 | T2 bilingual fidelity | **3/19** |
 | T3 Kalaignar voice | **3/19** |
 | T4 terminology / quotation / citation | **3/19** |
 | T5 section verification | **3/19** |
 | Verified English articles | **3/19** |
-| English body files | **3/19** |
+| English body files | **4/19** |
 
 Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0**.
 
 ## Exact next activity
 
-**E1 — Section 4 / T1 close draft.** Re-fetch frozen Tamil `articles/04-section-04.md` and require blob `b938be21e198d69548e45ae96cb0e9802b8d7079`, scans 22–27 / printed pp.20–25. Translate the complete numbered Section 4 from the frozen Tamil authority, preserve every source-page comment and rhetorical action, apply verified prior decisions only where the same Tamil function recurs, record new T1 decisions, and stop before Section 4 T2.
+**E1 — Section 4 / T2 bilingual fidelity review.** Re-fetch frozen Tamil blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`** and T1 English blob **`665b4629202b57a81275310f86e25dfc4e2be73d`**. Compare every sentence/clause, all quantities, names, puns, quotations, page-number anecdotes, colloquial `kachcheri` passages, old/new Tamil address forms, imagery, repetition and all **6/6** page comments. Record every correction transparently. Do not start Section 4 T3 in the same activity.
