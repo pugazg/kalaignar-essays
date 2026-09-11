@@ -28,10 +28,10 @@ Repository policy:
 
 Direct physical-file facts still required:
 
-- byte size — **PENDING direct inspection**
+- byte size — **282020019 bytes — confirmed from the re-uploaded raw-file metadata**
 - SHA-256 — **PENDING direct inspection**
 - structural PDF page count — **PENDING direct inspection**
-- image/text-layer condition — **PENDING direct inspection**
+- image/text-layer condition — **image-only scan / no usable parsed text observed; direct byte-level structure check still pending**
 
 ## Source-authority rule
 
@@ -60,11 +60,13 @@ This is glyph decoding, not spelling modernization.
 
 - bibliographic identity — **ESTABLISHED from user-confirmed metadata**
 - expected physical page extent — **224**
-- direct physical-file verification — **PENDING**
+- raw-file size verification — **PASS — 282020019 bytes**
+- direct structural page-count verification — **PENDING**
+- SHA-256 verification — **PENDING**
 - P0 — **IN PROGRESS**
 - P1 — **NOT STARTED**
 - P2–P5 — **NOT STARTED**
 
 ## Exact next activity
 
-Inspect the actual uploaded PDF bytes directly, determine structural page count, exact file size and SHA-256, reconcile against the expected **224 pages**, close P0 if clean, then begin canonical P1.
+Inspect the actual uploaded PDF bytes directly, determine structural page count and SHA-256, reconcile against the expected **224 pages**, close P0 if clean, then begin canonical P1. The exact raw-file size is already fixed at **282020019 bytes**.
