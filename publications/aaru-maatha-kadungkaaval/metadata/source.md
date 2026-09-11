@@ -101,25 +101,24 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 40/224 canonical records; 37 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 45/224 canonical records; 42 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 40
+## P2 source use through scan 45
 
-Canonical records exist for scans **1–40**.
+Canonical records exist for scans **1–45**.
 
-Latest batch scans 36–40:
+Latest batch scans 41–45:
 
-- printed folios — **33–37**
+- printed folios — **38–42**
 - verified — **5/5**
 - new holds — **0**
 - guessed readings — **0**
 - cumulative historical-glyph corrections — **1**
-- scan 40 heading — `திருச்சியிலே :`
-- historical `லை / ளை` identities on scans 36, 37 and 40 were decoded from source pixels during first pass.
-- scan 40 ends at `கற்றுக்`; continuation belongs to scan 41.
+- scan 43 historical identities include `படித்தானா?` (`னா`), `சென்றாரா?` (`றா`), `அவனை` (`னை`), and `சேலைகளைத்` (`லை / ளை`).
+- scan 45 ends inside an open quotation at physical fragment `காய`; continuation belongs to scan 46 and is not inferred.
 
 Durable source-artifact anomaly:
 
@@ -135,4 +134,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 41–45.**
+**P2 scans 46–50.**

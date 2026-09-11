@@ -10,7 +10,7 @@ This is the **single authoritative project handover**.
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 40/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 45/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -55,7 +55,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 40/224 records; 37 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 45/224 records; 42 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -211,10 +211,32 @@ Batch 008 result:
 - source-visible forms including `அதை யொட்டியே`, `கரைகள் இணைக்கும்`, `ரத்தினவேல்கள் மனைகளை`, `திருத்தணிகளிலும்`, `திராவிட மெங்கும்`, and `தரணி யெங்கும்` were preserved.
 - scan 40 ends at `கற்றுக்`; scan 41 is intentionally unopened.
 
+### Batch 009 — scans 41–45
+
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 41 — `pages/0041-murasu.md` — **verified** — printed folio 38
+- scan 42 — `pages/0042-murasu.md` — **verified** — printed folio 39
+- scan 43 — `pages/0043-murasu.md` — **verified** — printed folio 40
+- scan 44 — `pages/0044-murasu.md` — **verified** — printed folio 41
+- scan 45 — `pages/0045-murasu.md` — **verified** — printed folio 42
+
+Batch 009 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 1**
+- source-visible unusual forms including `வயதுக் குட்பட்டவர்கள்`, `தறிந்து`, `குலத்தொழிலில்`, `கொண்டாட்ட முடன்`, `ஸ்திரீலோலனைக்`, `துணிவுடை நெஞ்சு`, and `ஆசி தேவை` were preserved.
+- historical identities on scan 43 included `படித்தானா?` (`னா`), `சென்றாரா?` (`றா`), `அவனை` (`னை`), and `சேலைகளைத்` (`லை / ளை`).
+- scan 45 ends inside an open quotation at the physical fragment `காய`; scan 46 is intentionally unopened.
+
 ## Durable P2 totals
 
-- canonical page records — **40/224**
-- verified — **37**
+- canonical page records — **45/224**
+- verified — **42**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -226,9 +248,9 @@ Batch 008 result:
 
 ## Exact next activity
 
-**P2 scans 41–45.**
+**P2 scans 46–50.**
 
-Process exactly scans **41–45** as one five-scan batch from the attached PDF:
+Process exactly scans **46–50** as one five-scan batch from the attached PDF:
 
 - visually transcribe each whole page from source pixels;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
@@ -237,7 +259,7 @@ Process exactly scans **41–45** as one five-scan batch from the attached PDF:
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 46 unless explicitly asked to continue.
+- stop before scan 51 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 

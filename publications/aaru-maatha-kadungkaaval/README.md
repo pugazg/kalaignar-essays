@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 40/224 canonical records; 37 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 45/224 canonical records; 42 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -88,7 +88,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–40**.
+Completed records: **scans 1–45**.
 
 Notable durable findings:
 
@@ -99,6 +99,7 @@ Notable durable findings:
 - scans 26–30 — **5/5 verified**, printed folios 23–27, no new holds.
 - scans 31–35 — **5/5 verified**, printed folios 28–32, headings `ஜூன் 19` / `விடிந்தது:`, no new holds; scan 35 ends at `வேலாயுதம்`.
 - scans 36–40 — **5/5 verified**, printed folios 33–37, scan 40 heading `திருச்சியிலே :`, no new holds; scan 40 ends at `கற்றுக்`.
+- scans 41–45 — **5/5 verified**, printed folios 38–42, no new holds; scan 45 ends inside an open quotation at physical fragment `காய`.
 
 Open holds:
 
@@ -108,8 +109,8 @@ Open holds:
 
 Current P2 totals:
 
-- records — **40/224**
-- verified — **37**
+- records — **45/224**
+- verified — **42**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -117,6 +118,6 @@ Current P2 totals:
 
 ## Exact next activity
 
-**P2 scans 41–45.**
+**P2 scans 46–50.**
 
-Process the next five physical scans, synchronize controls, commit, and stop before scan 46.
+Process the next five physical scans, synchronize controls, commit, and stop before scan 51.
