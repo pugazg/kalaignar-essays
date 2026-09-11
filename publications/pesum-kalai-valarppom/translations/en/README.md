@@ -20,6 +20,10 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - verified English articles — **19/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
+- E6 publication-wide consistency review — **COMPLETE / PASS**;
+- E6 body corrections — **2**;
+- English translation — **COMPLETE**;
+- E7 release closeout — **PENDING**.
 
 Frozen baseline commit used for E0/T0: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**. English work must never modify the frozen Tamil `pages/` or `articles/` layers.
 
@@ -103,10 +107,10 @@ Frozen baseline commit used for E0/T0: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d
 | Section | Frozen Tamil blob | Final verified English blob | T2 / T3 / T4 corrections | T4 decisions | Page comments |
 |---:|---|---|---|---:|---:|
 | 5 | `7fbb055e1f7f2630d39f5a3e203de5e2547b93b9` | **`be408840f6e92913a003831b0ce6d4469ce7c52a`** | **2 / 6 / 0** | 12 | 5/5 |
-| 6 | `7303356861196c1d98951c651c38c42b4d07ac90` | **`80c33bcbbcb755d75e0f2fb467eca16e67e3264c`** | **3 / 6 / 0** | 10 | 4/4 |
+| 6 | `7303356861196c1d98951c651c38c42b4d07ac90` | **`69d999d2c019ca0d172b46148167f69c4da510c8`** | **3 / 6 / 0** | 10 | 4/4 |
 | 7 | `722e66535b9c1503f574e0adf8362e6b2c020653` | **`bff09511f02948f1bc8bc5739425fdde29a27b98`** | **3 / 5 / 1** | 16 | 5/5 |
 | 8 | `1bfc1752ccc8217e14fe527cd49ab0362d4484a0` | **`2bdca622cf08295f3a41309168098d5c4459aebb`** | **4 / 5 / 0** | 16 | 4/4 |
-| 9 | `d0e18d25b0e3ae4a8585d8fa117d07f118dabf5c` | **`7ef1627c25b1f040270c9cbe11a989ee17fa9eef`** | **1 / 5 / 0** | 15 | 3/3 |
+| 9 | `d0e18d25b0e3ae4a8585d8fa117d07f118dabf5c` | **`765358f064a48e3bbd7d83291b4cfdd568140836`** | **1 / 5 / 0** | 15 | 3/3 |
 
 All five T5 passes made **0 body corrections / status-only promotions**. Unresolved English issues across Sections 5–9: **0**.
 
@@ -138,6 +142,21 @@ All five T5 passes made **0 body corrections / status-only promotions**. Unresol
 
 Exact source `உடன்பிறப்பே` → **`Udanpirappē`**; as direct salutation use **`Udanpirappē,`**. Apply only where the exact source form occurs.
 
+## E6 release result
+
+- publication-wide cross-article consistency review — **COMPLETE / PASS**;
+- English body corrections — **2**:
+  1. Section 6 `Natarajan` → **`Natarasan`**;
+  2. Section 9 `Dravidian movement` → **`Dravidar movement`** for recurring source `திராவிடர் இயக்கம்`;
+- Section 6 current release-candidate blob — **`69d999d2c019ca0d172b46148167f69c4da510c8`**;
+- Section 9 current release-candidate blob — **`765358f064a48e3bbd7d83291b4cfdd568140836`**;
+- deliberate source-sensitive variants retained — **PASS**;
+- page-comment completeness/order — **PASS across 19/19**;
+- unresolved E6 issues — **0**;
+- frozen Tamil edits — **0**.
+
+The publication is now **English-translation complete**. It is not yet RELEASE COMPLETE / FROZEN because **E7 English release closeout remains pending**.
+
 ## Exact next activity
 
-**Publication-wide English cross-article consistency / release review.** All **19/19** article translations are individually verified. Check the complete English corpus for cross-article consistency and only then declare the publication English-translation complete.
+**E7 — English release closeout.** Revalidate all 19 verified English release-candidate blobs, confirm all English/Tamil control records are synchronized and no source layers changed, complete the final release/freeze bookkeeping, and then move Publication 11 to **RELEASE COMPLETE / FROZEN**.
