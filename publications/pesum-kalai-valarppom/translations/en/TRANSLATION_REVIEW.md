@@ -327,22 +327,72 @@ Tamil authority: `articles/09-section-09.md` — **`d0e18d25b0e3ae4a8585d8fa117d
 - T4 — **PASS with 0 body corrections**; post-T4 blob unchanged **`4294bc898a829c54c5413da6991f2e5354f85389`**; approved decisions **15**; all four district-dialect strings remain source-bearing without outside normalization; unresolved T4 issues **0**.
 - T5 — **PASS with 0 body corrections / status-only**; final verified blob **`7ef1627c25b1f040270c9cbe11a989ee17fa9eef`**.
 
+## E1 — Section 10
+
+Tamil authority: `articles/10-section-10.md` — **`32dd5cf5bf4ec73e9c0cdb4c0f1eeead2f3a7055`**, scans **45–47 / printed pp.43–45**.
+
+- T1 — **PASS**; draft blob **`977e3f9b4189eb49448a492f300557cce012e90d`**; page comments **3/3**.
+- T2 — **PASS after 5 corrections**; post-T2 blob **`6a176013b74d6df4871c18b9228703a99c83eadf`**. Preserved `idaiyinam`, veins/nerves, the source mispronounced `திருவல்லுவர்`, source `Tamish`, and `Senthamizh` in the practice proverb.
+- T3 — **PASS after 5 voice corrections**; post-T3 blob **`6f85e89252626490dc82fc9ee4c1b0d3897f69b5`**.
+- T4 — **PASS with 0 body corrections**; post-T4 unchanged **`6f85e89252626490dc82fc9ee4c1b0d3897f69b5`**; approved decisions **15**; unresolved issues **0**.
+- T5 — **pending**.
+
+## E1 — Section 11
+
+Tamil authority: `articles/11-section-11.md` — **`427a9ef35cd8ff1ffd873d5d2c9afccdcb7b2375`**, scans **48–51 / printed pp.46–49**.
+
+- T1 — **PASS**; draft blob **`03be364d24ec950a701d07e76bed0e19b16c85fa`**; page comments **4/4**.
+- T2 — **PASS after 4 corrections**; post-T2 blob **`84f20e9951a2957b3dcee0030eb45143c6afe080`**. `முத்தொழில்` → threefold function; `கத்தாழைக் கிழங்கு` kept source-bearing as `kathaalai tubers` without outside plant identification.
+- T3 — **PASS after 5 voice corrections**; post-T3 blob **`05ce7d6f32bcd4e51514c3de617dd58d3746fc6a`**.
+- T4 — **PASS with 0 body corrections**; post-T4 unchanged **`05ce7d6f32bcd4e51514c3de617dd58d3746fc6a`**; approved decisions **14**; Addison/Disraeli material remains translated only from frozen Tamil; unresolved issues **0**.
+- T5 — **pending**.
+
+## E1 — Section 12
+
+Tamil authority: `articles/12-section-12.md` — **`91f08b6cf0de84cc3a1b58120b1702d355f4c683`**, scans **51–55 / printed pp.49–53**.
+
+- T1 — **PASS**; draft blob **`ab96feac9084ca80d2c5f4cea35cc5d73f1c8111`**; page comments **5/5**.
+- T2 — **PASS after 4 corrections**; post-T2 blob **`6f0e49087efa7be0e8ca2cd64f063f47a2e0399b`**. Board/dice image restored; Churchill wording corrected; Jeeva's quarter-stomach image restored; Brutus line remains a question.
+- T3 — **PASS after 5 voice corrections**; post-T3 blob **`901b5124b96a405641254406ddc2a83a82f5e25e`**.
+- T4 — **PASS with 0 body corrections**; post-T4 unchanged **`901b5124b96a405641254406ddc2a83a82f5e25e`**; approved decisions **15**; source quotations/verse remain source-based; unresolved issues **0**.
+- T5 — **pending**.
+
+## E1 — Section 13
+
+Tamil authority: `articles/13-section-13.md` — **`97dd9dc2f5ae10828ff68095ca87dd2cb484e745`**, scans **55–58 / printed pp.53–56**.
+
+- T1 — **PASS**; draft blob **`12060411770ec7ad7d7198a52b153fb6500a50a0`**; page comments **4/4**.
+- T2 — **PASS after 3 corrections**; post-T2 blob **`03e6dac591b087bd20266e82fc02828aad30d89f`**. Source force in `தலைகீழ் மாற்றம்` restored; `Chennai High Court` source form restored; prohibition described as partial rather than silently editorialized.
+- T3 — **PASS after 5 voice corrections**; post-T3 blob **`7abc1d13cd6856a234c508492899911c8b356608`**.
+- T4 — **PASS with 0 body corrections**; post-T4 unchanged **`7abc1d13cd6856a234c508492899911c8b356608`**; approved decisions **16**. Frozen source chronology `seventy years old / seven-year-old / born in 1917` is deliberately preserved without reconciliation. Unresolved issues **0**.
+- T5 — **pending**.
+
+## E1 — Section 14
+
+Tamil authority: `articles/14-section-14.md` — **`4c611fa7a2b6d91bfa4c767bfdb8c9fcfff8316c`**, scans **59–63 / printed pp.57–61**.
+
+- T1 — **PASS**; draft blob **`5f6ecc40f41267b3aaae0ad4598acdab4af8fbb5`**; page comments **5/5**.
+- T2 — **PASS after 4 corrections**; post-T2 blob **`10540a4c22b39ea3bee15c2c5985f6140d535ab0`**. `Annan Jeevanandam`, lightning-flash image, extreme-fanatic comparison and mustard-seed measure restored.
+- T3 — **PASS after 5 voice corrections**; post-T3 blob **`c220a285693216a1c2d626c537f3162316e194e5`**.
+- T4 — **PASS after 1 body correction**; post-T4 blob **`a43727256366b25870198641cb3cea529fd67404`**. `Silambu Selvar M. P. Si.` → **`Silambu Selvar Ma. Po. Si.`** to preserve source abbreviation. Approved decisions **17**; unresolved issues **0**.
+- T5 — **pending**.
+
 ## English gate totals
 
 | Gate | Status |
 |---|---|
 | E0 workspace/planning | **COMPLETE / PASS** |
 | T0 source prerequisite | **19/19 PASS** |
-| T1 close draft | **9/19** |
-| T2 bilingual fidelity | **9/19** |
-| T3 Kalaignar voice | **9/19** |
-| T4 terminology / quotation / citation | **9/19** |
+| T1 close draft | **14/19** |
+| T2 bilingual fidelity | **14/19** |
+| T3 Kalaignar voice | **14/19** |
+| T4 terminology / quotation / citation | **14/19** |
 | T5 section verification | **9/19** |
 | Verified English articles | **9/19** |
-| English body files | **9/19** |
+| English body files | **14/19** |
 
 Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0**.
 
 ## Exact next activity
 
-**E1 — Section 10 / T1 close draft.** Re-fetch frozen Tamil `articles/10-section-10.md` and require blob **`32dd5cf5bf4ec73e9c0cdb4c0f1eeead2f3a7055`**, scans **45–47 / printed pp.43–45**. Translate the complete numbered Section 10 from the frozen Tamil authority, preserve every source-page comment and rhetorical action, record genuine new T1 decisions, synchronize controls, and stop before Section 10 T2.
+**Batch T5 verification — Sections 10–14.** Revalidate each frozen Tamil blob and the post-T4 English blobs recorded above; reconcile metadata, source spans, page comments, T2/T3/T4 correction counts, T4-approved decisions and unresolved counts. If clean, promote only `translation_status` to `verified` for Sections 10–14, synchronize all controls, and advance to Section 15 / T1.
