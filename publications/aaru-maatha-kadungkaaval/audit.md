@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **IN PROGRESS — SHA-256 / publication-level source extent unresolved** |
 | P1 | **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT** |
-| P2 | **IN PROGRESS — 10/150 records; 8 verified / 2 needs-review** |
+| P2 | **IN PROGRESS — 15/150 records; 13 verified / 2 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -75,10 +75,30 @@ Batch 002 totals:
 - historical-glyph corrections — **0**
 - new unresolved printed-text holds — **0**
 
-## P2 cumulative totals through scan 10
+## P2 batch 003 — scans 11–15
 
-- canonical page records — **10/150**
-- verified — **8**
+| Scan | Record | Status | Open issue |
+|---:|---|---|---|
+| 11 | `0011-murasu.md` | verified | none |
+| 12 | `0012-murasu.md` | verified | none |
+| 13 | `0013-murasu.md` | verified | none |
+| 14 | `0014-murasu.md` | verified | none |
+| 15 | `0015-murasu.md` | verified | none |
+
+Batch 003 totals:
+
+- records — **5/5**
+- verified — **5**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph corrections — **0**
+- new unresolved printed-text holds — **0**
+
+## P2 cumulative totals through scan 15
+
+- canonical page records — **15/150**
+- verified — **13**
 - needs-review — **2**
 - blocked — **0**
 - guessed readings — **0**
@@ -89,4 +109,4 @@ Batch 002 totals:
 
 ## Exact next activity
 
-**P2 scans 11–15.** Keep scans 3–4 open for a later targeted high-resolution re-read; do not normalize or guess them.
+**P2 scans 16–20.** Keep scans 3–4 open for a later targeted high-resolution re-read; do not normalize or guess them.

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 11–15
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 16–20
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -17,8 +17,8 @@ Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover
   - supplied artifact — **150 pages**
   - source-completeness discrepancy — **OPEN**
 - P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 — **IN PROGRESS — 10/150 canonical records**
-  - verified — **8**
+- P2 — **IN PROGRESS — 15/150 canonical records**
+  - verified — **13**
   - needs-review — **2**
   - blocked — **0**
 - P3–P5 — **NOT STARTED**
@@ -42,6 +42,14 @@ Batch 002, scans 6–10:
 - scan 9 — `pages/0009-blank-reverse.md` — verified
 - scan 10 — `pages/0010-murasu.md` — verified
 
+Batch 003, scans 11–15:
+
+- scan 11 — `pages/0011-murasu.md` — verified
+- scan 12 — `pages/0012-murasu.md` — verified
+- scan 13 — `pages/0013-murasu.md` — verified
+- scan 14 — `pages/0014-murasu.md` — verified
+- scan 15 — `pages/0015-murasu.md` — verified
+
 Open holds remain unchanged:
 
 - scan 3 — unresolved small imprint/printer text;
@@ -64,9 +72,9 @@ Read completely:
 9. `P1_SOURCE_STRUCTURE_REVIEW.md`
 10. `audit.md`
 
-## Exact next activity — P2 scans 11–15
+## Exact next activity — P2 scans 16–20
 
-Process **exactly scans 11–15 as one batch**.
+Process **exactly scans 16–20 as one batch**.
 
 For every text-bearing page:
 
@@ -77,12 +85,12 @@ For every text-bearing page:
 - separate non-print marks;
 - never fill uncertainty from context.
 
-After scans 11–15:
+After scans 16–20:
 
 - synchronize controls;
 - commit immediately;
 - report verified/needs-review/hold counts;
 - set the next five-scan batch from the live durable boundary;
-- stop before scan 16 unless explicitly asked to continue.
+- stop before scan 21 unless explicitly asked to continue.
 
 P0 source-completeness discrepancy remains open.

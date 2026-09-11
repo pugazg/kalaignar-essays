@@ -10,7 +10,7 @@ This is the **single authoritative project handover**.
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 IN PROGRESS; P1 PASS for supplied artifact; P2 IN PROGRESS 10/150**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 IN PROGRESS; P1 PASS for supplied artifact; P2 IN PROGRESS 15/150**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -49,7 +49,7 @@ For this publication, source-dependent archival claims must come from direct ins
 - supplied artifact available to this workflow — **150 pages**
 - source-completeness discrepancy — **OPEN**
 - P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 — **IN PROGRESS — 10/150 records; 8 verified / 2 needs-review**
+- P2 — **IN PROGRESS — 15/150 records; 13 verified / 2 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -127,10 +127,29 @@ Batch 002 result:
 - historical-glyph corrections — **0**
 - new printed-text holds — **0**
 
+## P2 batch 003 — scans 11–15
+
+Completed from direct visual source review:
+
+- scan 11 — `pages/0011-murasu.md` — **verified**
+- scan 12 — `pages/0012-murasu.md` — **verified**
+- scan 13 — `pages/0013-murasu.md` — **verified**
+- scan 14 — `pages/0014-murasu.md` — **verified**
+- scan 15 — `pages/0015-murasu.md` — **verified**
+
+Batch 003 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- guessed readings — **0**
+- historical-glyph corrections — **0**
+- new printed-text holds — **0**
+
 Durable P2 totals:
 
-- canonical page records — **10/150**
-- verified — **8**
+- canonical page records — **15/150**
+- verified — **13**
 - needs-review — **2**
 - blocked — **0**
 - guessed readings — **0**
@@ -141,11 +160,11 @@ P0 SHA-256 / 224-page source-completeness discrepancy remains open and must not 
 
 ## Exact next activity
 
-**P2 scans 11–15.**
+**P2 scans 16–20.**
 
-Process exactly scans 11–15 as one batch, continue direct source transcription and historical-glyph checks, synchronize controls, commit immediately after the five-page batch, then set the next boundary from live source/repository state.
+Process exactly scans 16–20 as one batch, continue direct source transcription and historical-glyph checks, synchronize controls, commit immediately after the five-page batch, then set the next boundary from live source/repository state.
 
-Do not reopen scans 1–10 except for the already documented targeted holds on scans 3–4.
+Do not reopen scans 1–15 except for the already documented targeted holds on scans 3–4.
 
 ---
 

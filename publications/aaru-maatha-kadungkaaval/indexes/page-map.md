@@ -7,7 +7,7 @@ Current gate:
 - P0 — **IN PROGRESS / SHA-256 and complete-source extent unresolved**
 - P1 — **COMPLETE / PASS FOR SUPPLIED PDF ARTIFACT**
 - mapped physical pages — **150 / 150**
-- P2 — **IN PROGRESS — 10/150 canonical records**
+- P2 — **IN PROGRESS — 15/150 canonical records**
 
 Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVIEW.md)
 
@@ -54,12 +54,17 @@ Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVI
 | 8 | `../pages/0008-murasu-illustration.md` | verified |
 | 9 | `../pages/0009-blank-reverse.md` | verified |
 | 10 | `../pages/0010-murasu.md` | verified |
+| 11 | `../pages/0011-murasu.md` | verified |
+| 12 | `../pages/0012-murasu.md` | verified |
+| 13 | `../pages/0013-murasu.md` | verified |
+| 14 | `../pages/0014-murasu.md` | verified |
+| 15 | `../pages/0015-murasu.md` | verified |
 
-Current P2 coverage: **10/150** canonical records.
+Current P2 coverage: **15/150** canonical records.
 
 Current totals:
 
-- verified — **8**
+- verified — **13**
 - needs-review — **2**
 - blocked — **0**
 
@@ -70,4 +75,4 @@ Open holds:
 
 ## Exact next activity
 
-**P2 scans 11–15.**
+**P2 scans 16–20.**

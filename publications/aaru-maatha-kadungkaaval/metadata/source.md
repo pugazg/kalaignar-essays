@@ -62,7 +62,7 @@ This is glyph decoding, not spelling modernization.
 - SHA-256 verification — **PENDING**
 - P0 — **IN PROGRESS**
 - P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 — **IN PROGRESS — 10/150 canonical records; 8 verified / 2 needs-review**
+- P2 — **IN PROGRESS — 15/150 canonical records; 13 verified / 2 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -77,11 +77,11 @@ The supplied artifact was structurally inspected **150/150 pages** and passed P1
 
 This does not resolve the separate user-reported **224-page** publication extent.
 
-## P2 source use through scan 10
+## P2 source use through scan 15
 
-Canonical records now exist for scans **1–10**.
+Canonical records now exist for scans **1–15**.
 
-- verified — **8**
+- verified — **13**
 - needs-review — **2**
 - open printed-text holds — **2**, both inherited from scans 3–4
 - guessed readings — **0**
@@ -89,4 +89,4 @@ Canonical records now exist for scans **1–10**.
 
 ## Exact next activity
 
-**P2 scans 11–15** against the supplied artifact. Keep the P0 source-completeness discrepancy and scan 3–4 holds open.
+**P2 scans 16–20** against the supplied artifact. Keep the P0 source-completeness discrepancy and scan 3–4 holds open.

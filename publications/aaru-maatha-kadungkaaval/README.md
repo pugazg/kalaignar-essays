@@ -37,7 +37,7 @@ The supplied artifact exposed to this workflow contains **150 physical scans**. 
 - complete physical-file SHA-256 — **PENDING**
 - source-completeness discrepancy — **OPEN**
 - P1 page/structure mapping — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 page transcription — **IN PROGRESS — 10/150 canonical records; 8 verified / 2 needs-review**
+- P2 page transcription — **IN PROGRESS — 15/150 canonical records; 13 verified / 2 needs-review**
 - P3 assemblies — **NOT STARTED**
 - P4 source/completeness audit — **NOT STARTED**
 - P5 strict visual fidelity — **NOT STARTED**
@@ -104,10 +104,27 @@ Batch 002 result:
 - historical-glyph corrections — **0**
 - new printed-text holds — **0**
 
+## P2 batch 003 — scans 11–15
+
+- scan 11 — `pages/0011-murasu.md` — **verified**
+- scan 12 — `pages/0012-murasu.md` — **verified**
+- scan 13 — `pages/0013-murasu.md` — **verified**
+- scan 14 — `pages/0014-murasu.md` — **verified**
+- scan 15 — `pages/0015-murasu.md` — **verified**
+
+Batch 003 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- guessed readings — **0**
+- historical-glyph corrections — **0**
+- new printed-text holds — **0**
+
 Overall P2 status:
 
-- records — **10/150**
-- verified — **8**
+- records — **15/150**
+- verified — **13**
 - needs-review — **2**
 - blocked — **0**
 - open printed-text holds — **2**: scan 3 small imprint text; scan 4 full publisher-note transcription
@@ -115,6 +132,6 @@ Overall P2 status:
 
 ## Exact next activity
 
-**P2 — scans 11–15.**
+**P2 — scans 16–20.**
 
-Process exactly scans 11–15 as one batch, preserve the open holds on scans 3–4 for targeted re-read, synchronize controls, commit immediately after the five-page batch, and stop before scan 16.
+Process exactly scans 16–20 as one batch, preserve the open holds on scans 3–4 for targeted re-read, synchronize controls, commit immediately after the five-page batch, and stop before scan 21.
