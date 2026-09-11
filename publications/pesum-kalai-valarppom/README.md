@@ -17,8 +17,8 @@ Workspace: `publications/pesum-kalai-valarppom/`
 
 - E0 planning — **COMPLETE / PASS**;
 - T0 — **19/19 PASS**;
-- English body files — **3/19**;
-- T1 — **3/19**;
+- English body files — **4/19**;
+- T1 — **4/19**;
 - T2 — **3/19**;
 - T3 — **3/19**;
 - T4 — **3/19**;
@@ -66,8 +66,19 @@ The publication title **Let Us Develop the Art of Speaking** is approved through
 
 The verified Section 3 preserves the `iyal / music / koothu` historical argument, source sound-signals, old-style preamble punctuation irregularity, source-based Socrates–Marx–Ingersoll–Thanthai Periyar passage, Brahma/caste repetition, heart/lips imagery, and repeated `cheap promise` wordplay.
 
+## Section 4 — T1 COMPLETE / draft
+
+- Tamil blob — **`b938be21e198d69548e45ae96cb0e9802b8d7079`**;
+- scans **22–27 / printed pp.20–25**;
+- T1 English blob — **`665b4629202b57a81275310f86e25dfc4e2be73d`**;
+- status — **draft**;
+- source-page comments — **6/6 retained**;
+- T1 provisional Section 4 decisions — **20**;
+- T2–T5 — **pending**;
+- unresolved T1 blockers — **0**.
+
 Permanent rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`** only where the exact source form occurs. The source supplies numeric sections only; do not invent descriptive English section titles.
 
 ## Exact next activity
 
-**E1 — Section 4 / T1 close draft.** Frozen Tamil authority: `articles/04-section-04.md`, expected blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`**, scans **22–27 / printed pp.20–25**. Revalidate that blob, translate the complete Section 4, and stop before Section 4 T2.
+**E1 — Section 4 / T2 bilingual fidelity review.** Revalidate frozen Tamil blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`** and T1 English blob **`665b4629202b57a81275310f86e25dfc4e2be73d`**, then perform the independent bilingual fidelity review. Do not start T3 in the same activity.
