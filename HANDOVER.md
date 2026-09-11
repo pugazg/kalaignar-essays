@@ -10,7 +10,7 @@ This is the **single authoritative project handover**.
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 source intake IN PROGRESS / blocked on complete-source access**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 IN PROGRESS; P1 PARTIAL / PROVISIONAL 150/224; blocked on complete-source access**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Reopen only for genuine source-supported defects. Source PDFs are never committed.
 
@@ -97,7 +97,7 @@ During P2 and P5:
 ## Tamil archival status
 
 - P0 — **IN PROGRESS / BLOCKED ON COMPLETE SOURCE ACCESS**
-- P1 — **NOT STARTED canonically**
+- P1 — **PARTIAL / PROVISIONAL — scans 1–150 structurally inspected; 151–224 unavailable**
 - P2 — **NOT STARTED**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
@@ -105,9 +105,28 @@ During P2 and P5:
 - English translation — **NOT STARTED / BLOCKED until Tamil freezes**
 - unresolved source blocker — **complete 224-page source not currently accessible**
 
+## P1 partial reconnaissance now durable
+
+Accessible scans **1–150** have been visually swept once at structural level and recorded in:
+
+`publications/aaru-maatha-kadungkaaval/P1_PARTIAL_RECONNAISSANCE.md`
+
+Current provisional structure:
+
+- scans 1–9 — front matter / physical-copy marks;
+- scans 10–66 — text-bearing narrative run;
+- scan 67 — near-blank reverse/show-through;
+- scans 68–106 — text-bearing narrative run;
+- scan 107 — near-blank reverse/show-through;
+- scan 108 — low-density nonblank transition / section-opening candidate;
+- scan 109 — near-blank reverse/show-through;
+- scans 110–150 — text-bearing narrative run continuing beyond accessible boundary.
+
+A separate bibliographic witness records the first edition as **பக்.220**; it is secondary evidence only and does not replace the missing scans.
+
 ## Exact next activity
 
-**Obtain/access the complete 224-page source, then close P0 and perform P1.**
+**Obtain/access the complete 224-page source, then close P0 and finish canonical P1.**
 
 1. make scans **1–224** accessible from one controlling source PDF;
 2. compute and record that complete file's exact size and SHA-256;
