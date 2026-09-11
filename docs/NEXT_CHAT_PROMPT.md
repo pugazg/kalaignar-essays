@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / publication-wide English release review
+# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / E7 English release closeout
 
 Continue in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -6,37 +6,30 @@ Continue in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
 ## LIVE MAIN IS AUTHORITATIVE
 
-Fetch live `main` first. Root `HANDOVER.md` is the **single authoritative project handover**. Preserve Publications 1–10 as RELEASE COMPLETE / FROZEN and Publication 11 Tamil as FROZEN.
+Fetch live `main` first. Root `HANDOVER.md` is the **single authoritative project handover**.
 
 ## Durable state
 
 - Tamil P0–P5 — **COMPLETE / PASS / FROZEN**
+- Tamil canonical records — **82/82 VERIFIED**
 - Tamil assemblies — **19/19**
-- T0 — **19/19 PASS**
-- English body files — **19/19**
-- T1 — **19/19**
-- T2 — **19/19**
-- T3 — **19/19**
-- T4 — **19/19**
-- T5 — **19/19**
+- English T0–T5 — **19/19 COMPLETE / PASS**
 - verified English articles — **19/19**
-- unresolved English blockers — **0**
-- frozen Tamil edits — **0**
-- publication-wide English consistency / release review — **PENDING**
+- E6 publication-wide consistency — **COMPLETE / PASS**
+- E6 body corrections — **2**
+- unresolved English/E6 issues — **0**
+- frozen Tamil edits during English work — **0**
+- English translation — **COMPLETE**
+- E7 release closeout — **PENDING**
 
-Sections **1–19 are individually VERIFIED / T0–T5 COMPLETE**.
+## E6 corrections now authoritative
 
-## Final Sections 15–19 checkpoint
+1. Section 6 current English blob — **`69d999d2c019ca0d172b46148167f69c4da510c8`**
+   - corrected one `Natarajan` attribution to **`Natarasan`**.
+2. Section 9 current English blob — **`765358f064a48e3bbd7d83291b4cfdd568140836`**
+   - corrected `Dravidian movement` to source-bearing **`Dravidar movement`** for recurring `திராவிடர் இயக்கம்`.
 
-| Section | Frozen Tamil blob | Final verified English blob | T2/T3/T4 corrections |
-|---:|---|---|---|
-| 15 | `682c68cdc0db1899749f2943c9d311ecb1061eb8` | `f2cc6211ff4eee23d852ce6f7a438ba42bbe2c8b` | 2/4/0 |
-| 16 | `1ab092b3b7bcdc0efd23f08e49799e7c3fda8d5f` | `c65bf67c41159ca8ea854b5ca5b6189169a80b8e` | 1/3/1 |
-| 17 | `bd4cb1d4e631e19de0e5cc62f0aecf176d7e2fe2` | `c1015074837f606a93808ea2235383b309a9fd98` | 1/4/0 |
-| 18 | `060e72d9ec61e491343c948c2db9371312b7e3a8` | `8ca4aa3771cd6b0be95cd02537e88e3bf4347102` | 2/4/1 |
-| 19 | `aa3eb2b5311f8ad1a705f606bd4ace3f2059ec6c` | `e7cdf88c31c27e27ed973c382865bc9f7c4d66bc` | 2/4/0 |
-
-All five T5 promotions were **status-only**; unresolved issues **0**; frozen Tamil edits **0**.
+All other apparent cross-article variations reviewed were consistent or deliberate source-sensitive exceptions.
 
 ## Mandatory startup
 
@@ -49,34 +42,18 @@ Read fresh/completely:
 5. this prompt
 6. publication `README.md`
 7. publication `TRANSLATION_PLAN.md`
-8. `translations/en/README.md`
-9. `translations/en/LEXICON.md`
-10. `translations/en/TRANSLATION_REVIEW.md`
-11. all 19 verified English article files
-12. frozen Tamil article metadata / blobs as required for non-regression checks
+8. publication `audit.md`
+9. `translations/en/README.md`
+10. `translations/en/LEXICON.md`
+11. `translations/en/TRANSLATION_REVIEW.md`
 
-## Permanent translation rules
+## Exact next activity — E7 English release closeout
 
-- **Translate the language; do not neutralise the voice.**
-- Frozen Tamil is immutable.
-- Exact source `உடன்பிறப்பே` → `Udanpirappē`; direct salutation `Udanpirappē,` only where exact source form occurs.
-- Source supplies numeric section identities **1–19** only; do not invent descriptive English titles.
-- Preserve source-bearing names, epithets, puns, transliterations, quoted irregularities and documented anomalies.
-- Do not silently import outside/published quotation wording or reconcile source claims with general knowledge.
+1. revalidate all 19 English article statuses and current release-candidate blobs;
+2. confirm frozen Tamil article/page layers are unchanged;
+3. confirm every English/control document agrees on **19/19 verified, E6 PASS, 0 unresolved**;
+4. perform release/freeze bookkeeping only;
+5. if clean, mark Publication 11 **RELEASE COMPLETE / FROZEN**;
+6. update the root handover and this prompt to the next repository activity.
 
-## Exact next activity — publication-wide English release review
-
-Review the full set of **19 verified articles** for:
-
-1. recurring names / epithets;
-2. ideological and movement vocabulary;
-3. repeated phrases / slogans;
-4. quotation and verse handling;
-5. numeric title consistency;
-6. Kalaignar voice / rhetorical temperature across batches;
-7. source-bearing puns, transliterations and deliberate irregularities;
-8. page-comment completeness and order;
-9. accidental smoothing / normalization across Sections 1–19;
-10. alignment among `LEXICON.md`, `TRANSLATION_REVIEW.md`, `translations/en/README.md`, `TRANSLATION_PLAN.md`, publication `README.md`, `audit.md`, and root `HANDOVER.md`.
-
-Record every cross-article correction transparently. Do not modify frozen Tamil. Only after this gate passes may the publication be marked **English-translation complete**.
+Do not reopen translation content unless E7 discovers a genuine closeout defect. Do not modify frozen Tamil.
