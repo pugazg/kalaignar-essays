@@ -12,7 +12,7 @@
 | P5 strict visual fidelity | **COMPLETE / PASS** | **82/82; 33/33 corrections propagated; 0 unresolved** |
 | English E0 planning | **COMPLETE / PASS** | controls initialized |
 | English T0 | **COMPLETE / PASS — 19/19** | frozen Tamil SHAs recorded |
-| English T1 | **IN PROGRESS — 3/19** | Sections 1–3 complete |
+| English T1 | **IN PROGRESS — 4/19** | Sections 1–4 complete |
 | English T2 | **IN PROGRESS — 3/19** | Sections 1–3 complete; Section 3 PASS after 5 corrections |
 | English T3 | **IN PROGRESS — 3/19** | Sections 1–3 complete |
 | English T4 | **IN PROGRESS — 3/19** | Sections 1–3 complete |
@@ -45,12 +45,26 @@
 - unresolved issues — **0**;
 - frozen Tamil edits — **0**.
 
+## Section 4 — T1 COMPLETE / draft
+
+- frozen Tamil blob — **`b938be21e198d69548e45ae96cb0e9802b8d7079`**;
+- scans **22–27 / printed pp.20–25**;
+- T1 English blob — **`665b4629202b57a81275310f86e25dfc4e2be73d`**;
+- `translation_status` — **draft**;
+- source-page comments — **6/6**;
+- quantities/dates/page-number sequence retained — **PASS at T1 draft level**;
+- source wordplay / quotations / colloquial `kachcheri` forms retained — **yes**;
+- T1 provisional decisions — **20**;
+- T2–T5 — **pending**;
+- unresolved T1 blockers — **0**;
+- frozen Tamil edits — **0**.
+
 ## English gate totals
 
 | Gate | Complete |
 |---|---:|
 | T0 | **19/19** |
-| T1 | **3/19** |
+| T1 | **4/19** |
 | T2 | **3/19** |
 | T3 | **3/19** |
 | T4 | **3/19** |
@@ -63,4 +77,4 @@ Permanent rule: exact source `உடன்பிறப்பே` → `Udanpirapp
 
 ## Exact next activity
 
-**E1 — Section 4 / T1 close draft.** Revalidate frozen Tamil `articles/04-section-04.md` blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`**, scans **22–27 / printed pp.20–25**, translate the complete numbered Section 4, synchronize controls, and stop before T2.
+**E1 — Section 4 / T2 bilingual fidelity review.** Revalidate frozen Tamil blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`** and T1 English blob **`665b4629202b57a81275310f86e25dfc4e2be73d`**; compare all clauses, quantities, quotations, puns, colloquial forms, lexical-change contrasts, images and **6/6** page comments; record every correction; stop before T3.
