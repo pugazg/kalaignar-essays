@@ -53,13 +53,13 @@ Structural authority: scans **3–82 = printed pp.1–80**; source-numbered sect
 
 - E0 planning — **COMPLETE / PASS**;
 - T0 — **19/19 PASS**;
-- English body files — **9/19**;
-- T1 — **9/19**;
-- T2 — **9/19**;
-- T3 — **9/19**;
-- T4 — **9/19**;
-- T5 — **9/19**;
-- verified English articles — **9/19**;
+- English body files — **14/19**;
+- T1 — **14/19**;
+- T2 — **14/19**;
+- T3 — **14/19**;
+- T4 — **14/19**;
+- T5 — **14/19**;
+- verified English articles — **14/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
@@ -190,19 +190,39 @@ Sections 5–9 non-regression points:
 - Section 8: `alliterative word-chain` for `அடுக்குச் சொல்`, Justice Party mansion→maidan line, Section 144 question-arrow, `sarpam / sambar` wordplay, heart/hollow contrast, Vinayagam exchange, `Kuraloviyam`, `M.K. avargale` / `Anbulla Kumari avargale`;
 - Section 9: Professor Anbazhagan / Karunanidhi / Anbazhagi naming anecdotes, source name lists, Fifth World Tamil Conference / A.D.M.K. / M.G.R. / Rajarajan passage, **Thanjai / Trichy / Pudukkottai** source forms, all four district-dialect strings, and `grammatical Tamil` on the stage.
 
+### Sections 10–14 — VERIFIED / T0–T5 COMPLETE
+
+| Section | Frozen Tamil blob | Final verified English blob | T2 / T3 / T4 corrections | T4-approved decisions | Page comments |
+|---:|---|---|---|---:|---:|
+| 10 | `32dd5cf5bf4ec73e9c0cdb4c0f1eeead2f3a7055` | **`1cb939abb40a6a73c0e785b79ca079b2b69c1d9a`** | **5 / 5 / 0** | 15 | 3/3 |
+| 11 | `427a9ef35cd8ff1ffd873d5d2c9afccdcb7b2375` | **`a97cd4930f8eee76d7f3b010b547698a59bbcbe8`** | **4 / 5 / 0** | 14 | 4/4 |
+| 12 | `91f08b6cf0de84cc3a1b58120b1702d355f4c683` | **`15d010ab6a7a88d5ecd4cfd3d08441f40e2e915e`** | **4 / 5 / 0** | 15 | 5/5 |
+| 13 | `97dd9dc2f5ae10828ff68095ca87dd2cb484e745` | **`0d43c80ee88dc6caaff5f313e3b870aa8708c1f0`** | **3 / 5 / 0** | 16 | 4/4 |
+| 14 | `4c611fa7a2b6d91bfa4c767bfdb8c9fcfff8316c` | **`ea71a23cf3ffcdc2408c327bdb653bf755d772b2`** | **4 / 5 / 1** | 17 | 5/5 |
+
+All five sections have **T5 body corrections 0 / status-only verification**, unresolved English issues **0**, and frozen Tamil edits **0**.
+
+Sections 10–14 non-regression points:
+
+- Section 10: preserve Tamil sound classes/letters where the pronunciation contrast is the content; source `திருவல்லுவர்` remains visibly mispronounced; `Tamish`, `kollungal`, `ழ`, and `Senthamizh` treatment remains source-bearing;
+- Section 11: **Tamil-thendral Thiru. Vi. Ka.**, **Nanjilar**, **Thanjai**, source-bearing **kathaalai tubers**, **Aasai Thambi**, Addison's `I conceive` wordplay, and Disraeli passage remain based only on the frozen Tamil;
+- Section 12: Valluvar's board/dice image, `arasu tree`, `Mooladhanam (Capital)`, **Revolutionary Poet**, Jeeva's quarter-stomach image, and the Caesar/Brutus/Socrates/Shakespeare/Lincoln audience example remain intact;
+- Section 13: **State autonomy**, Union/State/Concurrent Lists, Ambedkar, Rajamannar Committee, Pandit Nehru, locality-specific Chennai examples, `Chennai High Court`, `liquor permit`, M. G. Ramachandran quotation, and the frozen **seventy years old / seven-year-old / born in 1917** chronology are preserved exactly without reconciliation;
+- Section 14: **kathakalakshepam**, Kripananda Variyar, Pulavar Keeran, Ravana Kaviyam, Pulavar Kuzhanthai, Silamboli Chellappan, **Silambu Selvar Ma. Po. Si.**, **Annan Jeevanandam**, Kamba Ramayanam, Navalar Somasundara Bharathiar, Sethupillai, harsh-vs-obscene distinction, `abuse`, Odam Pokki river, and the **mustard-seed's measure** closing image remain source-bearing.
+
 Permanent translation rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**, only where the exact Tamil form occurs. The publication uses numeric section labels only; do not invent descriptive English section titles.
 
-## Exact next activity — E1 / Section 10 T1 close draft
+## Exact next activity — E1 / Section 15 T1 close draft
 
-Before drafting Section 10:
+Before drafting Section 15:
 
-- re-fetch frozen Tamil `publications/pesum-kalai-valarppom/articles/10-section-10.md`;
-- require exact blob **`32dd5cf5bf4ec73e9c0cdb4c0f1eeead2f3a7055`**;
-- source span — scans **45–47 / printed pp.43–45**;
+- re-fetch frozen Tamil `publications/pesum-kalai-valarppom/articles/15-section-15.md`;
+- require exact blob **`682c68cdc0db1899749f2943c9d311ecb1061eb8`**;
+- source span — scans **64–67 / printed pp.62–65**;
 - if the Tamil blob differs, stop for source-drift reconciliation;
-- if an English Section 10 file has legitimately appeared on newer live `main`, preserve it rather than overwriting it.
+- preserve any legitimate newer English Section 15 work if it already exists.
 
-Then perform **Section 10 / T1 close draft** from the frozen Tamil assembly. Preserve every paragraph/clause, numeric section identity `10`, all source-page comments, quotations, questions, repetition, irony, imagery and source-sensitive names/labels. Apply verified Sections 1–9 decisions only where the same Tamil function genuinely recurs. Record genuine new working decisions, synchronize controls, and stop before Section 10 T2.
+Then perform **Section 15 / T1 close draft** from the frozen Tamil assembly. Preserve every paragraph/clause, numeric section identity `15`, all source-page comments, quotations, questions, repetition, irony, imagery and source-sensitive names/labels. Apply verified Sections 1–14 decisions only where the same Tamil function genuinely recurs. Record genuine new working decisions, synchronize controls, and stop before Section 15 T2.
 
 Do not modify frozen Tamil.
 
