@@ -2,13 +2,11 @@
 
 Source: `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`
 
-## Current gate result
+## Gate result
 
-**P1 — IN PROGRESS — 150 / 224 physical scans structurally inspected.**
+**P1 — COMPLETE / PASS — 224 / 224 physical scans structurally inspected.**
 
-An earlier version of this review called P1 PASS for a 150-page “supplied artifact.” Direct native inspection has now established that the actual attached PDF contains **224 pages**. The earlier 150-page boundary was a renderer exposure limitation, not the physical end of the file.
-
-Accordingly, all source-supported P1 findings for scans 1–150 remain durable, but **P1 is reopened** until scans 151–224 are inspected.
+The earlier provisional 150-page P1 result was reopened after direct native inspection proved that the attached PDF contains 224 physical scans. The remaining scans **151–224** have now been directly inspected and classified.
 
 ## Native source verification
 
@@ -20,7 +18,7 @@ Accordingly, all source-supported P1 findings for scans 1–150 remain durable, 
 - source PDF committed — **No**
 - P0 — **COMPLETE / PASS**
 
-## Structurally inspected range — scans 1–150
+## Full structural map
 
 | Physical scan(s) | P1 classification | Notes |
 |---:|---|---|
@@ -38,24 +36,33 @@ Accordingly, all source-supported P1 findings for scans 1–150 remain durable, 
 | 107 | blank / reverse / show-through | structural separator |
 | 108 | low-density nonblank intertitle / transition | exact wording belongs to P2 |
 | 109 | blank / reverse / show-through | structural separator |
-| 110–150 | main text | continuous body run through current inspected boundary |
+| 110–217 | main text | continuous body run |
+| 218 | main text + embedded section transition | printed 215; star separator + `சிறை திறந்தது` |
+| 219–220 | main text | printed 216–217; scan 220 closes section with star |
+| 221 | main text + new section heading | printed 218; `வெற்றி! வெற்றி!!` |
+| 222 | main text | printed 219 |
+| 223 | final text-bearing page / work terminus | printed 220; closing slogan block + star |
+| 224 | back cover / publisher device | `திராவிடப் பண்ணை`; no printed folio |
 
-## Pending P1 range
+## Extension review — scans 151–224
 
-**Scans 151–224 have not yet been structurally classified.**
+All 74 remaining physical scans were visually inspected directly from the attached PDF.
 
-The next P1 activity must directly inspect all 74 scans and determine:
+Findings:
 
-- body-text continuation ranges;
-- blank/reverse pages;
-- intertitles / section transitions;
-- advertisements / colophon / end matter if any;
-- printed-page-number behaviour;
-- scan 224's actual physical and publication role.
+- scans **151–223** are text-bearing main-work pages;
+- visible printed folios progress continuously from **148** on scan 151 through **220** on scan 223;
+- no physical blank/reverse occurs in scans 151–224;
+- no advertisement page occurs in scans 151–224;
+- no separate colophon page occurs in scans 151–224;
+- scan 218 / printed 215 contains a star separator followed by the section heading **`சிறை திறந்தது`**;
+- scan 220 / printed 217 ends that section with a star separator;
+- scan 221 / printed 218 starts the next section with **`வெற்றி! வெற்றி!!`**;
+- scan 223 / printed 220 is the final narrative/text page, ending with a quoted slogan block and star;
+- scan 224 is the physical back cover with the publisher device **`திராவிடப் பண்ணை`**; the lower ribbon reads **`தெப்பக்குளம் திருச்சி`**;
+- scan 224 is therefore the proven physical source end.
 
-No final-source boundary may be inferred before that review.
-
-## Front matter already established
+## Front matter
 
 Scans 1–9:
 
@@ -68,21 +75,21 @@ Scans 1–9:
 8. illustrated `முரசு` page;
 9. blank/reverse.
 
-No separate printed contents page was found within scans 1–150.
+No separate printed contents page was found anywhere in scans 1–224.
 
 ## Printed pagination policy
 
-Do not assert a global printed-page offset.
+Printed folios remain source-specific and are read directly per scan.
 
-Each scan's visible printed folio must be read directly. Suppressed folios remain `null`.
-
-Known P2 source anomaly:
+Known duplicate-folio anomaly:
 
 - scans 14–15 — printed 13–14;
 - scans 16–17 — printed 13–14 again;
 - scan 18 — printed 15.
 
-This confirms that physical scan sequence cannot be reduced to a simple folio formula.
+For the newly inspected extension, scans 151–223 show a regular direct sequence **148–220**.
+
+The earlier anomaly means a universal scan→folio formula must still not be used outside directly confirmed ranges.
 
 ## Historical Tamil glyph overlay
 
@@ -92,18 +99,21 @@ P2 and P5 must follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` and explic
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-## Current P1 accounting
+## Final P1 accounting
 
 - source physical scans — **224**
-- structurally inspected — **150**
-- pending — **74**
-- known blank/reverse scans in inspected range — **5, 9, 67, 107, 109**
-- structurally unmapped within scans 1–150 — **0**
-- structurally unmapped overall — **74**
-- P1 result — **IN PROGRESS**
+- structurally inspected — **224**
+- structurally unmapped — **0**
+- blank/reverse scans — **5, 9, 67, 107, 109**
+- front matter — **mapped**
+- main text — **mapped through final text page scan 223**
+- intertitle/section-transition evidence — **mapped**
+- final physical source role — **scan 224 back cover**
+- P1 blockers — **0**
+- P1 result — **COMPLETE / PASS**
 
 ## Exact next activity
 
-**Directly inspect scans 151–224 and extend this structural review to 224/224.**
+**P2 scans 31–35.**
 
-Only after that activity can P1 be marked PASS and P2 resume from scan 31.
+P1 is closed. Do not reopen it unless genuinely new structural source evidence appears.

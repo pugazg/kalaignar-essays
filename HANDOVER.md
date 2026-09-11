@@ -10,7 +10,7 @@ This is the **single authoritative project handover**.
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 IN PROGRESS 150/224; P2 IN PROGRESS 30/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 30/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -33,13 +33,13 @@ User-supplied description:
 
 Treat that paragraph as metadata/context unless directly confirmed in the physical PDF.
 
-## Controlling source / corrected physical identity
+## Controlling source
 
 Attached source:
 
 `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`
 
-Direct native inspection of the attached PDF established:
+Direct native inspection established:
 
 - physical file size — **282020019 bytes**
 - SHA-256 — **`8d4b227547144dd16a78d3f7e22edc3d955d754788ba96317c0c6ddd68d0ca69`**
@@ -47,17 +47,14 @@ Direct native inspection of the attached PDF established:
 - PDF version — **1.4**
 - source PDF committed — **No**
 
-The earlier 150-page value came from the page-renderer exposure boundary, not from the native PDF's true physical extent. The former **150-vs-224 source-completeness discrepancy is RESOLVED**.
+The earlier 150-page value was only a renderer exposure boundary. The physical source is 224 scans and that discrepancy is closed.
 
-Source wording remains controlled only by direct source pixels. Do not consult TVA/Wikisource/OCR/alternate editions unless the user explicitly authorises comparison.
+Only attached-source pixels control transcription. Do not consult TVA/Wikisource/OCR/alternate editions unless the user explicitly authorises comparison.
 
 ## Current gate state
 
 - P0 — **COMPLETE / PASS**
-- P1 — **IN PROGRESS — 150/224 structurally mapped**
-  - scans 1–150 retain their already-established structural classifications;
-  - scans **151–224 remain structurally unmapped**;
-  - scan 150 is **not** the source-artifact end.
+- P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS — 30/224 records; 27 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
@@ -87,22 +84,45 @@ Core rule:
 
 > **Read character identity, not modern visual resemblance.**
 
-## P1 durable structural evidence through scan 150
+## P1 — full-source structural result
 
-The existing direct visual structural review remains valid for scans **1–150**:
+Direct visual structural inspection is now complete for **224/224 physical scans**.
 
-- scans 1–9 — front matter;
+Full source structure:
+
+- scan 1 — physical-copy / ownership-donation mark;
+- scan 2 — title page;
+- scan 3 — imprint / edition page;
+- scan 4 — publisher note;
+- scan 5 — blank / reverse / show-through;
+- scans 6–7 — `காணிக்கை` dedication;
+- scan 8 — illustrated front-matter page / `முரசு`;
+- scan 9 — blank / reverse / show-through;
 - scans 10–66 — main text;
-- scan 67 — blank/reverse;
+- scan 67 — blank / reverse / show-through;
 - scans 68–106 — main text;
-- scan 107 — blank/reverse;
+- scan 107 — blank / reverse / show-through;
 - scan 108 — nonblank intertitle / structural transition;
-- scan 109 — blank/reverse;
-- scans 110–150 — main text.
+- scan 109 — blank / reverse / show-through;
+- scans **110–223 — main text**;
+- scan **224 — back cover / publisher device**.
 
-Separate contents page in scans 1–150 — **not found**.
+P1 extension scans **151–224** findings:
 
-P1 is now reopened because the native attached PDF has **224** scans. Scans **151–224** must be structurally inspected before P1 can pass.
+- scans **151–223** — continuous main-text run;
+- visible printed folios run **148–220** continuously across scans 151–223;
+- scan 218 / printed 215 contains an embedded section transition headed **`சிறை திறந்தது`** after a star separator;
+- scan 220 / printed 217 closes that section with a star separator;
+- scan 221 / printed 218 begins the next section headed **`வெற்றி! வெற்றி!!`**;
+- scan 223 / printed 220 is the **final text-bearing page**, ending with a quoted slogan block and star;
+- scan 224 is the **physical back cover**, carrying the `திராவிடப் பண்ணை` publisher device and no printed folio;
+- no blank/reverse, advertisement, or separate colophon page occurs in scans 151–224.
+
+Separate printed contents page in the whole source — **not found**.
+
+P1 blockers — **0**.
+
+Authority: `publications/aaru-maatha-kadungkaaval/P1_SOURCE_STRUCTURE_REVIEW.md`.
 
 ## P2 batch history
 
@@ -143,23 +163,10 @@ Source-artifact anomaly: scans **16–17 repeat printed folios 13–14**; scan 1
 
 ### Batch 006 — scans 26–30
 
-Completed from direct native/enlarged attached-PDF pixels:
-
-- scan 26 — `pages/0026-murasu.md` — **verified** — printed folio 23
-- scan 27 — `pages/0027-murasu.md` — **verified** — printed folio 24
-- scan 28 — `pages/0028-murasu.md` — **verified** — printed folio 25
-- scan 29 — `pages/0029-murasu.md` — **verified** — printed folio 26
-- scan 30 — `pages/0030-murasu.md` — **verified** — printed folio 27
-
-Batch 006 result:
-
-- records created — **5/5**
-- verified — **5**
-- needs-review — **0**
-- guessed readings — **0**
-- new printed-text holds — **0**
-- historical-glyph correction count — **unchanged at 1**
-- unusual source-visible forms such as `சிலங்கொண்டவர்`, `குறை நோயிலிருந்து`, `நீங்கள் சிரி விழவேண்டாம்`, and `என்னையும். உங்களையும்` were preserved rather than normalized.
+- **5/5 verified**
+- printed folios — 23–27
+- new holds — **0**
+- cumulative historical-glyph corrections — **1**
 
 ## Durable P2 totals
 
@@ -176,17 +183,20 @@ Batch 006 result:
 
 ## Exact next activity
 
-**P1 structural extension — scans 151–224.**
+**P2 scans 31–35.**
 
-Visually inspect and structurally classify all remaining physical scans **151–224** from the attached 224-page PDF. Record page types, blank/reverse pages, body/intertitle/end matter boundaries, printed-pagination behaviour where visible, and the true physical final-page role. Do not transcribe body text during this P1 activity except where exact visible wording is necessary to identify a structural heading/intertitle.
+Process exactly scans **31–35** as one five-scan batch from the attached PDF:
 
-After scans 151–224:
+- visually transcribe each whole page from source pixels;
+- preserve source spelling, punctuation, paragraphing and meaningful spacing;
+- perform the mandatory historical-glyph family checks;
+- record visible printed folios only;
+- separate physical-copy marks from printed text;
+- never fill uncertain readings from context;
+- synchronize controls and commit immediately after the five pages;
+- stop before scan 36 unless explicitly asked to continue.
 
-- update `P1_SOURCE_STRUCTURE_REVIEW.md`, page map, source metadata, audit, README, handover and next prompt;
-- mark P1 PASS only if all 224 scans are structurally accounted for;
-- then resume P2 from scan 31.
-
-**P2 scans 31 onward are paused until this P1 extension is complete.**
+Do not reopen P1 unless genuinely new structural source evidence appears.
 
 ---
 

@@ -25,20 +25,18 @@ The **attached PDF scan pixels are the sole transcription authority**.
 
 Do not use preview/parser text, OCR, web copies, Wikisource, Tamil Digital Library, alternate editions, contextual expectation or memory to replace source-visible wording unless the user explicitly authorises comparison.
 
-Direct native inspection of the attached PDF established:
+Direct native inspection established:
 
 - physical scans — **224**
 - byte size — **282020019**
 - SHA-256 — **`8d4b227547144dd16a78d3f7e22edc3d955d754788ba96317c0c6ddd68d0ca69`**
 - PDF version — **1.4**
 
-The earlier 150-page figure was only the renderer's exposed range.
-
 ## Current state
 
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
-- P1 — **IN PROGRESS — 150/224 structurally mapped**
+- P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS — 30/224 canonical records; 27 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
@@ -57,20 +55,36 @@ For every P2/P5 text-bearing scan explicitly inspect:
 
 Decode proven historical character identity into modern Unicode without changing source wording, spelling, grammar or punctuation.
 
-## P1 structure currently established
+## P1 full-source structure
 
-Validated through scan 150:
+Direct visual structural inspection is complete:
 
-- 1–9 — front matter
+- 1 — physical-copy / ownership-donation mark
+- 2 — title page
+- 3 — imprint / edition page
+- 4 — publisher note
+- 5 — blank / reverse
+- 6–7 — `காணிக்கை` dedication
+- 8 — illustrated front matter / `முரசு`
+- 9 — blank / reverse
 - 10–66 — main text
-- 67 — blank/reverse
+- 67 — blank / reverse
 - 68–106 — main text
-- 107 — blank/reverse
+- 107 — blank / reverse
 - 108 — nonblank intertitle / transition
-- 109 — blank/reverse
-- 110–150 — main text
+- 109 — blank / reverse
+- 110–223 — main text
+- 224 — back cover / publisher device
 
-Scans **151–224 are pending structural review**. Therefore P1 is not complete.
+Final extension findings:
+
+- scans 151–223 = main text, printed folios **148–220**;
+- scan 218 / printed 215 contains the embedded heading **`சிறை திறந்தது`**;
+- scan 221 / printed 218 begins **`வெற்றி! வெற்றி!!`**;
+- scan 223 / printed 220 is the last text-bearing page;
+- scan 224 is the back cover with the `திராவிடப் பண்ணை` publisher device;
+- no blank/reverse, advertisement or separate colophon occurs in scans 151–224;
+- P1 blockers — **0**.
 
 ## P2 status
 
@@ -101,6 +115,6 @@ Current P2 totals:
 
 ## Exact next activity
 
-**P1 structural extension — scans 151–224.**
+**P2 scans 31–35.**
 
-Complete structural inspection of all remaining source scans, synchronize all controls, and only then resume P2 from scan 31.
+Process the next five physical scans, synchronize controls, commit, and stop before scan 36.

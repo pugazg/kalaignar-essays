@@ -5,7 +5,7 @@
 | Gate | Result |
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
-| P1 | **IN PROGRESS — 150/224 structurally mapped** |
+| P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS — 30/224 records; 27 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
@@ -21,20 +21,40 @@ Direct native attached-file verification:
 - physical scans — **224**
 - PDF version — **1.4**
 - source PDF committed — **No**
-- old 150-vs-224 discrepancy — **RESOLVED**; 150 was a renderer exposure boundary.
+- old 150-vs-224 discrepancy — **RESOLVED**
 
-## P1 audit
+## P1 audit — COMPLETE
 
-- source physical scans — **224**
-- scans structurally inspected — **150**
-- remaining structural review — **151–224 / 74 scans**
-- known blank/reverse pages in scans 1–150 — **5, 9, 67, 107, 109**
-- front matter — **mapped**
-- established body runs — **10–66, 68–106, 110–150**
-- intertitle / transition — **scan 108**
-- separate contents page found in scans 1–150 — **No**
-- scan 150 proven source end — **No**
-- P1 — **IN PROGRESS**
+All **224/224** physical scans are structurally accounted for.
+
+### Full structure
+
+- scans 1–9 — front matter / physical-copy layers
+- scans 10–66 — main text
+- scan 67 — blank/reverse
+- scans 68–106 — main text
+- scan 107 — blank/reverse
+- scan 108 — nonblank intertitle / transition
+- scan 109 — blank/reverse
+- scans 110–223 — main text
+- scan 224 — back cover / publisher device
+
+### Extension 151–224 findings
+
+- scans checked — **74/74**
+- scans 151–223 — main text
+- printed folios — **148–220 continuous**
+- scan 218 / printed 215 — star + **`சிறை திறந்தது`**
+- scan 220 / printed 217 — section-closing star
+- scan 221 / printed 218 — **`வெற்றி! வெற்றி!!`**
+- scan 223 / printed 220 — final text-bearing page / closing slogan + star
+- scan 224 — back cover / **`திராவிடப் பண்ணை`** publisher device
+- blank/reverse in 151–224 — **0**
+- advertisements in 151–224 — **0**
+- separate colophon in 151–224 — **0**
+- P1 blockers — **0**
+
+No separate printed contents page was found anywhere in the source.
 
 Authority: `P1_SOURCE_STRUCTURE_REVIEW.md`.
 
@@ -56,25 +76,6 @@ Minimum explicit family set:
 | 004 | 16–20 | 4 | 1 | 1 |
 | 005 | 21–25 | 5 | 0 | 0 |
 | 006 | 26–30 | 5 | 0 | 0 |
-
-### Batch 006 — scans 26–30
-
-| Scan | Printed folio | Record | Status | Open issue |
-|---:|:---:|---|---|---|
-| 26 | 23 | `0026-murasu.md` | verified | none |
-| 27 | 24 | `0027-murasu.md` | verified | none |
-| 28 | 25 | `0028-murasu.md` | verified | none |
-| 29 | 26 | `0029-murasu.md` | verified | none |
-| 30 | 27 | `0030-murasu.md` | verified | none |
-
-Batch 006 checks:
-
-- direct native/enlarged source-pixel comparison — **PASS**
-- historical 13-family check — **performed on all five pages**
-- guessed readings — **0**
-- new unresolved printed-text holds — **0**
-- cumulative historical-glyph corrections — **1**
-- unusual source-visible forms were preserved rather than context-corrected.
 
 ## P2 cumulative totals through scan 30
 
@@ -103,6 +104,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P1 structural extension scans 151–224.**
-
-Complete structural mapping to 224/224 before resuming P2 at scan 31.
+**P2 scans 31–35.**

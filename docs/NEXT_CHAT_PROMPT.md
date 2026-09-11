@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P1 structural extension scans 151–224
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 31–35
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -8,30 +8,25 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover. Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-## Corrected controlling-source identity
+## Controlling source
 
 Use only the attached:
 
 `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`
 
-Direct native inspection established:
+Native source identity:
 
 - bytes — **282020019**
 - SHA-256 — **`8d4b227547144dd16a78d3f7e22edc3d955d754788ba96317c0c6ddd68d0ca69`**
 - physical scans — **224**
 - PDF version — **1.4**
 
-The old 150-page boundary was a renderer exposure limit, not the end of the attached PDF.
-
 Do not use Tamil Digital Library, Wikisource, OCR text, alternate editions, or web copies unless the user explicitly asks.
 
 ## Durable state
 
 - P0 — **COMPLETE / PASS**
-- P1 — **IN PROGRESS — 150/224 structurally mapped**
-  - scans 1–150 established;
-  - scans 151–224 pending;
-  - scan 150 is not artifact end.
+- P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS — 30/224 canonical records**
   - verified — **27**
   - needs-review — **3**
@@ -40,24 +35,39 @@ Do not use Tamil Digital Library, Wikisource, OCR text, alternate editions, or w
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED**
 
-Latest P2 batch 26–30 is complete: **5/5 verified, 0 new holds**.
-
-Open holds remain:
+Open P2 holds remain:
 
 - scan 3 — unresolved small imprint/printer text;
 - scan 4 — exact publisher-note transcription;
 - scan 18 — physically obscured cluster after `ஒருவராக ஆ`.
 
-## Existing P1 structure through scan 150
+## Full P1 structure — CLOSED / PASS
 
-- scans 1–9 — front matter
-- scans 10–66 — main text
-- scan 67 — blank/reverse
-- scans 68–106 — main text
-- scan 107 — blank/reverse
-- scan 108 — nonblank intertitle / transition
-- scan 109 — blank/reverse
-- scans 110–150 — main text
+- 1 — physical-copy / ownership-donation mark
+- 2 — title page
+- 3 — imprint / edition page
+- 4 — publisher note
+- 5 — blank / reverse
+- 6–7 — dedication
+- 8 — illustrated front matter / `முரசு`
+- 9 — blank / reverse
+- 10–66 — main text
+- 67 — blank / reverse
+- 68–106 — main text
+- 107 — blank / reverse
+- 108 — nonblank intertitle / transition
+- 109 — blank / reverse
+- 110–223 — main text
+- 224 — back cover / publisher device
+
+Extension findings:
+
+- scans 151–223 carry printed folios **148–220** continuously;
+- scan 218 / printed 215 — embedded section heading **`சிறை திறந்தது`**;
+- scan 221 / printed 218 — section heading **`வெற்றி! வெற்றி!!`**;
+- scan 223 / printed 220 — final text-bearing page;
+- scan 224 — back cover with `திராவிடப் பண்ணை` publisher device;
+- no blank/reverse, advertisement, or separate colophon in scans 151–224.
 
 ## Mandatory startup
 
@@ -74,24 +84,25 @@ Read completely:
 9. `P1_SOURCE_STRUCTURE_REVIEW.md`
 10. `audit.md`
 
-## Exact next activity — P1 scans 151–224
+## Exact next activity — P2 scans 31–35
 
-Inspect **all physical scans 151–224** directly from the attached PDF and extend the structural map.
+Process **exactly scans 31–35 as one batch** from the attached PDF.
 
-For this P1 activity:
+For every text-bearing page:
 
-- classify every scan structurally;
-- identify body / intertitle / blank-reverse / advertisement / colophon / cover / end-matter roles;
-- record visible printed folio behaviour without inferring missing numbers;
-- identify the actual role of scan 224;
-- preserve physical-copy marks/anomalies as structural evidence;
-- do **not** perform body transcription except exact heading/intertitle wording needed for structure;
-- do not use the web or OCR as source authority.
+- visually transcribe the whole page;
+- preserve source spelling, punctuation, paragraphing and meaningful spacing;
+- explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+- record visible printed folio only;
+- separate non-print physical-copy marks;
+- never fill uncertainty from context.
 
-After all 74 scans:
+After scans 31–35:
 
-- synchronize P1 review, page map, metadata, audit, README, root handover and this prompt;
-- mark P1 PASS only if all **224/224** scans are structurally accounted for;
-- set the next activity back to **P2 scan 31 onward**.
+- synchronize all dependent controls;
+- commit immediately;
+- report verified / needs-review / hold counts;
+- set the next five-scan batch from live durable state;
+- stop before scan 36 unless explicitly asked to continue.
 
-Do not resume P2 before completing this P1 extension.
+Do not reopen P1 unless genuinely new structural evidence appears.

@@ -33,18 +33,45 @@ Direct native-file verification:
 - PDF version — **1.4**
 - scan condition — **image-only / no usable parsed text layer for transcription authority**
 
-## Corrected source-extent finding
+## Source-extent resolution
 
-The page-rendering interface initially exposed only scans **1–150**, which created an apparent 150-vs-224 completeness discrepancy.
-
-Direct inspection of the mounted attached PDF bytes proves that the same attached file contains **224 physical pages**.
+The page-rendering interface initially exposed only scans 1–150. Direct native inspection proved that the attached file itself contains **224 physical scans**.
 
 Therefore:
 
 - source-completeness discrepancy — **RESOLVED**
 - P0 — **COMPLETE / PASS**
-- scan 150 — **not artifact end**
-- scans 151–224 — **present in the attached source and pending P1 structural mapping**
+
+## P1 full-source structural result
+
+P1 is **COMPLETE / PASS — 224/224 scans structurally inspected**.
+
+Structure:
+
+- scans 1–9 — front matter / physical-copy layers;
+- scans 10–66 — main text;
+- scan 67 — blank/reverse;
+- scans 68–106 — main text;
+- scan 107 — blank/reverse;
+- scan 108 — nonblank intertitle / transition;
+- scan 109 — blank/reverse;
+- scans 110–223 — main text;
+- scan 224 — back cover / publisher device.
+
+Extension scans 151–224:
+
+- scans 151–223 — main text;
+- printed folios — **148–220**, continuous;
+- scan 218 / printed 215 — embedded heading `சிறை திறந்தது`;
+- scan 220 / printed 217 — section closes with star;
+- scan 221 / printed 218 — heading `வெற்றி! வெற்றி!!`;
+- scan 223 / printed 220 — final text-bearing page / work terminus;
+- scan 224 — back cover; `திராவிடப் பண்ணை` publisher device; no printed folio;
+- blank/reverse pages in 151–224 — **0**;
+- advertisements in 151–224 — **0**;
+- separate colophon in 151–224 — **0**.
+
+No separate printed contents page was found in the full source.
 
 ## Source-authority rule
 
@@ -73,7 +100,7 @@ Known minimum families:
 ## Current gate status
 
 - P0 — **COMPLETE / PASS**
-- P1 — **IN PROGRESS — 150/224 structurally mapped**
+- P1 — **COMPLETE / PASS — 224/224**
 - P2 — **IN PROGRESS — 30/224 canonical records; 27 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
@@ -105,6 +132,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P1 structural extension scans 151–224.**
-
-Complete the full-source structural map before continuing P2 from scan 31.
+**P2 scans 31–35.**
