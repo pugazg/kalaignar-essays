@@ -2,7 +2,8 @@
 
 Publication: `பேசும் கலை வளர்ப்போம்`  
 English workflow authority: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TRANSLATION_GUIDE.md)  
-Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
+Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)  
+Release report: [`RELEASE_REPORT.md`](RELEASE_REPORT.md)
 
 ## Frozen prerequisite
 
@@ -489,6 +490,40 @@ The following were reviewed and classified as **deliberate contextual/source-wit
 
 Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0**.
 
-## Exact next activity
+## E7 — English release closeout — PASSED / COMPLETE
 
-**E7 — English release closeout.** Use the E6-approved release-candidate corpus. Revalidate the 19 verified English article blobs, with Section 6 current blob **`69d999d2c019ca0d172b46148167f69c4da510c8`** and Section 9 current blob **`765358f064a48e3bbd7d83291b4cfdd568140836`**, confirm all control documents are synchronized, perform the final release/freeze bookkeeping required by the repository workflow, and only then move Publication 11 to RELEASE COMPLETE / FROZEN.
+E7 began from live pre-release checkpoint **`eab6acce6cc2cb3e1e5afc15e73de10a8034addf`**, root tree **`441eb134854ea16bd847f51d6ed5c72634a9e912`**.
+
+Checks:
+
+- current English release-candidate blob matrix matched E6 **19/19 — PASS**;
+- all English front matters remained `translation_status: "verified"` — **19/19 PASS**;
+- numeric English section identity remained **1–19 — PASS**;
+- source-page comment instances remained **88/88 — PASS**;
+- frozen Tamil `articles/` tree remained **`5d997ba350ec87c1d70e4ab828f71c645a360d53` — PASS**;
+- frozen Tamil `pages/` tree remained **`99558f84421f03c94d652bf64da08746d662c594` — PASS**;
+- Tamil assemblies remained **19/19** and canonical page records **82/82**;
+- controlling source PDF present in repository — **No**;
+- E7 English/Tamil body changes — **0 / 0**;
+- E7 release blockers — **0**.
+
+Full release authority and the final 19-row matrix are recorded in [`RELEASE_REPORT.md`](RELEASE_REPORT.md).
+
+**E7 RESULT: PASSED / COMPLETE. ENGLISH RELEASE GATE CLOSED.**
+
+---
+
+## Final publication gate state
+
+- Tamil P0–P5 — **COMPLETE / PASS / FROZEN**;
+- English E0–E7 — **COMPLETE / PASS**;
+- Articles **1–19** — **T0–T5 PASS / VERIFIED**;
+- E6 — **COMPLETE / PASS after 2 body corrections**;
+- E7 — **PASSED / COMPLETE**;
+- English translation — **COMPLETE**;
+- English release gate — **CLOSED**;
+- active Tamil/source blockers — **0**;
+- active English/translation/release blockers — **0**;
+- frozen Tamil edits during English work — **0**.
+
+Publication 11 is **RELEASE COMPLETE / FROZEN**. Reopen only for a genuine source-supported defect.
