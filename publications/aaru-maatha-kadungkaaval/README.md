@@ -36,8 +36,8 @@ For this publication, P0/P1 must be based on direct inspection of the **actual u
 - physical PDF page count — **224 (user-confirmed; direct structural verification still required)**
 - raw uploaded file size — **282020019 bytes — CONFIRMED**
 - complete physical-file SHA-256 — **PENDING direct byte-level verification**
-- P1 page/structure mapping — **NOT STARTED**
-- P2 page transcription — **NOT STARTED**
+- P1 page/structure mapping — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
+- P2 page transcription — **NOT STARTED — next: scans 1–5**
 - P3 assemblies — **NOT STARTED**
 - P4 source/completeness audit — **NOT STARTED**
 - P5 strict visual fidelity — **NOT STARTED**
@@ -62,14 +62,25 @@ For every body page during P2/P5:
 - never global-replace;
 - leave uncertain clusters `needs-review`.
 
+## P1 result
+
+All **150/150 pages of the supplied PDF artifact** were visually inspected for structural mapping. See `P1_SOURCE_STRUCTURE_REVIEW.md`.
+
+Canonical supplied-artifact structure:
+
+- scans 1–9 — front matter;
+- scans 10–66 — main text;
+- scan 67 — blank/reverse;
+- scans 68–106 — main text;
+- scan 107 — blank/reverse;
+- scan 108 — intertitle/transition;
+- scan 109 — blank/reverse;
+- scans 110–150 — main text.
+
+Scan 150 is text-bearing, so this P1 does **not** claim it is the end of the complete 1953 publication. The 224-page user-reported extent remains a separate P0/source-completeness issue.
+
 ## Exact next activity
 
-**Directly inspect the actual uploaded PDF file, not its preview.**
+**P2 — scans 1–5.**
 
-1. open the physically mounted/uploaded PDF bytes;
-2. determine physical PDF page count from the PDF structure;
-3. compute SHA-256 from those bytes; the raw-file size is already confirmed as **282020019 bytes**;
-4. reconcile the expected **224 pages** against direct physical-file evidence;
-5. close P0 only after that verification;
-6. then perform canonical P1 across the complete physical PDF;
-7. do not begin P2 until P1 passes.
+Proceed with five-scan page-record creation, historical-glyph checks where applicable, source-faithful printed-text/physical-mark separation, immediate control synchronization and commit.
