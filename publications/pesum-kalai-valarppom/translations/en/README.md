@@ -13,11 +13,11 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - T0 source prerequisite — **19/19 PASS**;
 - English article body files — **4/19**;
 - T1 close draft — **4/19**;
-- T2 bilingual fidelity — **3/19**;
-- T3 Kalaignar voice — **3/19**;
-- T4 terminology / quotation / citation — **3/19**;
-- T5 article verification — **3/19**;
-- verified English articles — **3/19**;
+- T2 bilingual fidelity — **4/19**;
+- T3 Kalaignar voice — **4/19**;
+- T4 terminology / quotation / citation — **4/19**;
+- T5 article verification — **4/19**;
+- verified English articles — **4/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
@@ -30,7 +30,7 @@ Frozen baseline commit used for E0/T0: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d
 | 1 | `articles/01-section-01.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
 | 2 | `articles/02-section-02.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
 | 3 | `articles/03-section-03.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
-| 4 | `articles/04-section-04.md` | **PASS** | **PASS** | — | — | — | — | **draft** |
+| 4 | `articles/04-section-04.md` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **verified** |
 | 5 | `articles/05-section-05.md` | **PASS** | — | — | — | — | — | not-started |
 | 6 | `articles/06-section-06.md` | **PASS** | — | — | — | — | — | not-started |
 | 7 | `articles/07-section-07.md` | **PASS** | — | — | — | — | — | not-started |
@@ -82,18 +82,21 @@ Frozen baseline commit used for E0/T0: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d
 - unresolved Section 3 issues — **0**;
 - T0–T5 — **COMPLETE / PASS**.
 
-## Section 4 — T1 COMPLETE / draft
+## Section 4 — VERIFIED
 
 - frozen Tamil blob — **`b938be21e198d69548e45ae96cb0e9802b8d7079`**;
 - source span — scans **22–27 / printed pp.20–25**;
-- T1 English blob — **`665b4629202b57a81275310f86e25dfc4e2be73d`**;
-- `translation_status` — **draft**;
+- T1 English blob — `665b4629202b57a81275310f86e25dfc4e2be73d`;
+- post-T2 English blob — `ab22ce719dc8e2c82cc5dbfeb4108b29d6bcdc8c`;
+- post-T3 English blob — `6f461abbd058f69b6584dd32fc96a9b062425624`;
+- post-T4 English blob — `aae55dffdf3d58d0b268c5ed2721f76d88451037`;
+- final T5 verified English blob — **`9a236986ecf612f0da8de3179c8d8acd9eac3183`**;
+- T2/T3/T4 corrections — **4/8/1**;
+- T5 body corrections — **0 / status-only**;
 - source-page comments — **6/6 retained**;
-- Section 4 T1 provisional lexicon/source decisions — **20**;
-- T2–T5 — **pending**;
-- unresolved T1 blockers — **0**.
-
-The Section 4 draft preserves the Annamalai / Annadurai / Neelamegam pun chain, K. K. Neelamegam’s page-number anecdote, sea-sluice imagery, the colloquial `kachcheri` recollections, the `Agraasanadhipathi → Avai-thalaivar` and `Sriman → Thiruvalar` lexical shifts, and the closing grass-tip / already-ground flour / recorded-tape images.
+- Section 4 T4-approved decisions — **22**;
+- unresolved Section 4 issues — **0**;
+- T0–T5 — **COMPLETE / PASS**.
 
 ## Binding repository rule
 
@@ -101,4 +104,4 @@ Exact source `உடன்பிறப்பே` → **`Udanpirappē`**; as dire
 
 ## Exact next activity
 
-**E1 — Section 4 / T2 bilingual fidelity review.** Re-fetch frozen Tamil blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`** and T1 English blob **`665b4629202b57a81275310f86e25dfc4e2be73d`**. Compare every sentence/clause, quantity, name, pun, quotation, page-number anecdote, colloquial `kachcheri` wording, Tamil lexical-change contrast, image and all **6/6** page comments. Record every correction transparently. Do not start Section 4 T3 in the same activity.
+**E1 — Section 5 / T1 close draft.** Re-fetch frozen Tamil `../../articles/05-section-05.md` and require blob **`7fbb055e1f7f2630d39f5a3e203de5e2547b93b9`**, scans **27–31 / printed pp.25–29**. Translate the complete Section 5, preserve all source-page comments and rhetorical action, record genuine new working decisions, and stop before Section 5 T2.
