@@ -1,59 +1,45 @@
-# NEXT CHAT PROMPT — பேசும் கலை வளர்ப்போம் / E7 English release closeout
+# NEXT CHAT PROMPT — Kalaignar Essays / next publication intake
 
-Continue in `pugazg/kalaignar-essays`, branch `main`, active publication:
-
-`publications/pesum-kalai-valarppom/`
+Continue in `pugazg/kalaignar-essays`, branch `main`.
 
 ## LIVE MAIN IS AUTHORITATIVE
 
 Fetch live `main` first. Root `HANDOVER.md` is the **single authoritative project handover**.
 
-## Durable state
+## Durable repository state
 
-- Tamil P0–P5 — **COMPLETE / PASS / FROZEN**
-- Tamil canonical records — **82/82 VERIFIED**
-- Tamil assemblies — **19/19**
-- English T0–T5 — **19/19 COMPLETE / PASS**
-- verified English articles — **19/19**
-- E6 publication-wide consistency — **COMPLETE / PASS**
-- E6 body corrections — **2**
-- unresolved English/E6 issues — **0**
-- frozen Tamil edits during English work — **0**
-- English translation — **COMPLETE**
-- E7 release closeout — **PENDING**
+- Publications **1–11 — RELEASE COMPLETE / FROZEN**
+- active publication — **none**
+- Publication 11 `பேசும் கலை வளர்ப்போம்`:
+  - Tamil P0–P5 — **COMPLETE / PASS / FROZEN**
+  - English E0–E7 — **COMPLETE / PASS**
+  - English articles — **19/19 verified**
+  - E6 corrections — **2**
+  - E7 release closeout — **PASSED / COMPLETE**
+  - English release gate — **CLOSED**
+  - unresolved blockers — **0**
 
-## E6 corrections now authoritative
+Publication 11 release authority: `publications/pesum-kalai-valarppom/translations/en/RELEASE_REPORT.md`.
 
-1. Section 6 current English blob — **`69d999d2c019ca0d172b46148167f69c4da510c8`**
-   - corrected one `Natarajan` attribution to **`Natarasan`**.
-2. Section 9 current English blob — **`765358f064a48e3bbd7d83291b4cfdd568140836`**
-   - corrected `Dravidian movement` to source-bearing **`Dravidar movement`** for recurring `திராவிடர் இயக்கம்`.
+## Exact next activity
 
-All other apparent cross-article variations reviewed were consistent or deliberate source-sensitive exceptions.
+A new publication can begin only after a **new source PDF is supplied**.
 
-## Mandatory startup
+When the next source is attached:
 
-Read fresh/completely:
+1. fetch live `main`;
+2. read completely:
+   - `ESSAY_PROCESSING_GUIDE.md`
+   - `ESSAY_TRANSLATION_GUIDE.md`
+   - `docs/FUTURE_WORK_GUIDELINES.md`
+   - root `HANDOVER.md`
+   - `docs/FUTURE_PUBLICATION_HANDOVER_TEMPLATE.md`;
+3. inspect the actual supplied scan before selecting title, publication type, slug or structure;
+4. search the existing repository to prevent duplicate work;
+5. begin P0 source intake and publication identification;
+6. do not commit the source PDF;
+7. update root `HANDOVER.md` after the intake activity.
 
-1. `ESSAY_TRANSLATION_GUIDE.md`
-2. `ESSAY_PROCESSING_GUIDE.md`
-3. `docs/FUTURE_WORK_GUIDELINES.md`
-4. root `HANDOVER.md`
-5. this prompt
-6. publication `README.md`
-7. publication `TRANSLATION_PLAN.md`
-8. publication `audit.md`
-9. `translations/en/README.md`
-10. `translations/en/LEXICON.md`
-11. `translations/en/TRANSLATION_REVIEW.md`
+Use `docs/START_NEW_ESSAY_WORK_PROMPT.md` for the reusable detailed intake instructions.
 
-## Exact next activity — E7 English release closeout
-
-1. revalidate all 19 English article statuses and current release-candidate blobs;
-2. confirm frozen Tamil article/page layers are unchanged;
-3. confirm every English/control document agrees on **19/19 verified, E6 PASS, 0 unresolved**;
-4. perform release/freeze bookkeeping only;
-5. if clean, mark Publication 11 **RELEASE COMPLETE / FROZEN**;
-6. update the root handover and this prompt to the next repository activity.
-
-Do not reopen translation content unless E7 discovers a genuine closeout defect. Do not modify frozen Tamil.
+Until a new source is supplied, do **not** invent Publication 12 and do **not** reopen Publications 1–11.
