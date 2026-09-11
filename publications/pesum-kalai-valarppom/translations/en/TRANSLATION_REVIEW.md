@@ -377,22 +377,72 @@ Tamil authority: `articles/14-section-14.md` — **`4c611fa7a2b6d91bfa4c767bfdb8
 - T4 — **PASS after 1 body correction**; post-T4 blob **`a43727256366b25870198641cb3cea529fd67404`**. `Silambu Selvar M. P. Si.` → **`Silambu Selvar Ma. Po. Si.`** to preserve source abbreviation. Approved decisions **17**; unresolved issues **0**.
 - T5 — **PASS with 0 body corrections / status-only**; final verified blob **`ea71a23cf3ffcdc2408c327bdb653bf755d772b2`**.
 
+## E1 — Section 15
+
+Tamil authority: `articles/15-section-15.md` — **`682c68cdc0db1899749f2943c9d311ecb1061eb8`**, scans **64–67 / printed pp.62–65**.
+
+- T1 — **PASS**; draft blob **`9070270bc71afc4b79695a739bf3525d78a5991e`**; page comments **4/4**.
+- T2 — **PASS after 2 corrections**; post-T2 blob **`11c9cd640ace03c45d37bc5185a9f412a60e70e5`**. Restored the source sense of the movement one has embraced, and the father-death-day meeting as **went to and returned from without fail**.
+- T3 — **PASS after 4 voice corrections**; post-T3 blob **`5db7208d11b431abb8ec68a5deaa169553e02665`**.
+- T4 — **PASS with 0 body corrections**; post-T4 unchanged **`5db7208d11b431abb8ec68a5deaa169553e02665`**; approved decisions **13**; unresolved issues **0**.
+- T5 — **pending**.
+
+## E1 — Section 16
+
+Tamil authority: `articles/16-section-16.md` — **`1ab092b3b7bcdc0efd23f08e49799e7c3fda8d5f`**, scans **67–70 / printed pp.65–68**.
+
+- T1 — **PASS**; draft blob **`aeae1821b43d5c7a045ddf719d38c20b49961eab`**; page comments **4/4**.
+- T2 — **PASS after 1 correction**; post-T2 blob **`353f8d8b3f907e60deeda964713830601170d822`**. The closing `நாநலம்` phrase was restored as source-bearing **tongue-excellence / eloquence** rather than flattened.
+- T3 — **PASS after 3 voice corrections**; post-T3 blob **`6e035ce9b687898f291317c2f452c2e37d7aaa83`**.
+- T4 — **PASS after 1 body correction**; post-T4 blob **`722e97251c9afce1f19f8e44bac1c0cf5ef9fd32`**. Ambiguous source `ஸ்மிட்` was changed from inferred **Smith** to source-bearing **Smit**; all quoted maxims remain translated only from frozen Tamil. Approved decisions **15**; unresolved issues **0**.
+- T5 — **pending**.
+
+## E1 — Section 17
+
+Tamil authority: `articles/17-section-17.md` — **`bd4cb1d4e631e19de0e5cc62f0aecf176d7e2fe2`**, scans **70–74 / printed pp.68–72**.
+
+- T1 — **PASS**; draft blob **`2185d801ba6276e8346c18199ebf864dea1cbee4`**; page comments **5/5**.
+- T2 — **PASS after 1 correction**; post-T2 blob **`27321fe5239044841e32f599f4a64f8b3682ce63`**. The long-associated speaker’s standing was restored as **someone we held in a position of respect**.
+- T3 — **PASS after 4 voice corrections**; post-T3 blob **`c2524a392977524cb39cf1750f89da83a449b41b`**.
+- T4 — **PASS with 0 body corrections**; post-T4 unchanged **`c2524a392977524cb39cf1750f89da83a449b41b`**; approved decisions **14**; colloquial `saniyans / Ayya / Periyavangale / appa` forms remain source-bearing; unresolved issues **0**.
+- T5 — **pending**.
+
+## E1 — Section 18
+
+Tamil authority: `articles/18-section-18.md` — **`060e72d9ec61e491343c948c2db9371312b7e3a8`**, scans **75–79 / printed pp.73–77**.
+
+- T1 — **PASS**; draft blob **`df3b42e218ad00ee64ddd2b2117ef7465aae54c9`**; page comments **5/5**.
+- T2 — **PASS after 2 corrections**; post-T2 blob **`b9643e11eec1601a9797118cbe2842e46beced89`**. `சன்னக் குரல்` → **thin voice**; `அடலேறுத் தோற்றம்` → **appearance of a fighting bull**.
+- T3 — **PASS after 4 voice corrections**; post-T3 blob **`3bad88568408ee7e664adf8f58ec0e4e654e70cd`**.
+- T4 — **PASS after 1 body correction**; post-T4 blob **`e2baed0f37f32bc0058d3a845f32ec416131cedf`**. `தமிழர் நெறி` was refined from **Tamil principles** to **the Tamil way**. Approved decisions **22**; unresolved issues **0**.
+- T5 — **pending**.
+
+## E1 — Section 19
+
+Tamil authority: `articles/19-section-19.md` — **`aa3eb2b5311f8ad1a705f606bd4ace3f2059ec6c`**, scans **79–82 / printed pp.77–80**.
+
+- T1 — **PASS**; draft blob **`d622ef2a0c87b2f8dba88d69e393a6f12c299396`**; page comments **4/4**.
+- T2 — **PASS after 2 corrections**; post-T2 blob **`6b4958caa3b8031e5fa71fd565f7e92cde372079`**. `வீருகொண்ட விரிவுரையாளர்` was restored as **spirited public speaker**, and `மின்வெட்டுப் போன்ற மிடுக்கான பேச்சு` as **crisp speech like an electric flash**.
+- T3 — **PASS after 4 voice corrections**; post-T3 blob **`05be0594e6207ca7f1f1aeba0059fff644cc7e83`**.
+- T4 — **PASS with 0 body corrections**; post-T4 unchanged **`05be0594e6207ca7f1f1aeba0059fff644cc7e83`**; approved decisions **16**; source age/movement/history claims remain unreconciled with outside knowledge; unresolved issues **0**.
+- T5 — **pending**.
+
 ## English gate totals
 
 | Gate | Status |
 |---|---|
 | E0 workspace/planning | **COMPLETE / PASS** |
 | T0 source prerequisite | **19/19 PASS** |
-| T1 close draft | **14/19** |
-| T2 bilingual fidelity | **14/19** |
-| T3 Kalaignar voice | **14/19** |
-| T4 terminology / quotation / citation | **14/19** |
+| T1 close draft | **19/19** |
+| T2 bilingual fidelity | **19/19** |
+| T3 Kalaignar voice | **19/19** |
+| T4 terminology / quotation / citation | **19/19** |
 | T5 section verification | **14/19** |
 | Verified English articles | **14/19** |
-| English body files | **14/19** |
+| English body files | **19/19** |
 
 Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0**.
 
 ## Exact next activity
 
-**E1 — Section 15 / T1 close draft.** Re-fetch frozen Tamil `articles/15-section-15.md` and require blob **`682c68cdc0db1899749f2943c9d311ecb1061eb8`**, scans **64–67 / printed pp.62–65**. Translate the complete numbered Section 15 from the frozen Tamil authority, preserve every source-page comment and rhetorical action, record genuine new T1 decisions, synchronize controls, and stop before Section 15 T2.
+**Batch T5 verification — Sections 15–19.** Revalidate each frozen Tamil blob and the five post-T4 English blobs recorded above; reconcile metadata, source spans, page comments, T2/T3/T4 correction counts, approved terminology decisions and unresolved counts. If clean, promote only `translation_status` to `verified` for Sections 15–19, synchronize all controls, and advance to the required publication-wide cross-article consistency/release review.
