@@ -8,7 +8,7 @@ source_tamil_blob_sha: "bd4cb1d4e631e19de0e5cc62f0aecf176d7e2fe2"
 source_scan_pages: "70-74"
 source_printed_pages: "68-72"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -46,7 +46,7 @@ Whatever the interruptions, speakers must ignore them and keep their attention o
 
 When speakers whom the people eagerly await are seated on the stage, if some speakers go on extending their own speeches right in front of them, keeping the awaited speakers sitting there, the people will lose patience.
 
-The late Agriculture Minister A. Govindasamy, before he assumed ministerial office, arranged a meeting at Devapandalam in Thennaarkadu district and took me there. Another speaker had also been invited with us. That speaker had long been associated with the movement. He occupied a position we respected. But he did not possess the ability to draw people through his speech!
+The late Agriculture Minister A. Govindasamy, before he assumed ministerial office, arranged a meeting at Devapandalam in Thennaarkadu district and took me there. Another speaker had also been invited with us. That speaker had long been associated with the movement. He was someone we held in a position of respect. But he did not possess the ability to draw people through his speech!
 
 A huge crowd had gathered like a flood. The whole town wore a festive look. Thiru. Govindasamy spoke briefly and pleasantly and finished. Next, the speaker I mentioned earlier rose. He spoke—and spoke—and kept on speaking.
 
