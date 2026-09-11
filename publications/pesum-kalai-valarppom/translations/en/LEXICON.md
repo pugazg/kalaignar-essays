@@ -380,6 +380,121 @@ Source-page comments **4/4**; source political/legal claims are translated as Ka
 
 T4 body correction: `Silambu Selvar M. P. Si.` → **`Silambu Selvar Ma. Po. Si.`**. Source-page comments **5/5**; unresolved T4 issues **0**.
 
+## Section 15 — T4-audited decisions
+
+| Tamil / source form | Preferred English / treatment | Status |
+|---|---|---|
+| `தொண்டர் / தொண்டன்` | `cadre` | **T4 approved** |
+| `உண்டியல்` | `collection box` | **T4 approved** |
+| `வழிச்செலவு` | `travel expenses / return travel money` | **T4 approved** |
+| `திருவாஞ்சியம்` | `Thiruvanchiyam` | **T4 approved** |
+| `தஞ்சை` | `Thanjai` | **T4 approved / prior form reused** |
+| `பத்மா` | `Padma` | **T4 approved** |
+| `பெரியார்` | `Periyar` | **T4 approved / prior form reused** |
+| `கடுகுபோல் ஒரு காரணம்` | `a reason no bigger than a mustard seed` | **T4 approved** |
+| `அண்ணன் சி. பி. சிற்றரசு` | `Annan C. P. Chitrarasu` | **T4 approved** |
+| `சுயமரியாதை இயக்கத்தின் சூறாவளி` | `the whirlwind of the Self-Respect Movement` | **T4 approved** |
+| `அண்ணன் அழகிரிசாமி` | `Annan Alagirisami` | **T4 approved** |
+| `தம்பி` | `Thambi` | **T4 approved / prior source-bearing form reused** |
+| `தங்கக் கம்பி` | `a golden rod` | **T4 approved; preserve the source image rather than replacing it with an explanatory compliment** |
+
+Source-page comments **4/4**; unresolved T4 issues **0**.
+
+## Section 16 — T4-audited decisions
+
+| Tamil / source form | Preferred English / treatment | Status |
+|---|---|---|
+| `கண்ணியூர் பரூக்` | `Kanniyur Farooq` | **T4 approved** |
+| `ஸ்மிட்` | `Smit` | **T4 approved; source-bearing transliteration, no external identification** |
+| `மாண்டஸ்கியு` | `Montesquieu` | **T4 approved** |
+| `மெக்காலே` | `Macaulay` | **T4 approved** |
+| `டிஸ்ரேலி` | `Disraeli` | **T4 approved** |
+| `பிரெளன்` | `Brown` | **T4 approved** |
+| `செஸ்டர்பீல்டு` | `Chesterfield` | **T4 approved** |
+| `கார்லைல்` | `Carlyle` | **T4 approved** |
+| `ஷெல்லி` | `Shelley` | **T4 approved** |
+| `ஷேக்ஸ்பியர்` | `Shakespeare` | **T4 approved** |
+| `எ. சுவாமிநாதன்` | `A. Swaminathan` | **T4 approved** |
+| Japanese / Chinese / Indian / Russian / Albanian maxims | translate only the frozen Tamil wording; do not import canonical outside versions | **T4 approved** |
+| `வள்ளுவர்` | `Valluvar` | **T4 approved / prior form reused** |
+| `சொல்லுக சொல்லைப்...` | preserve as a two-line source-based English verse quotation | **T4 approved** |
+| `நாநலம்` | `tongue-excellence / eloquence` according to immediate rhetorical function | **T4 approved** |
+
+T4 body correction: `Smith` → **`Smit`**. Source-page comments **4/4**; unresolved T4 issues **0**.
+
+## Section 17 — T4-audited decisions
+
+| Tamil / source form | Preferred English / treatment | Status |
+|---|---|---|
+| `வேட்டி` | `veshti` | **T4 approved** |
+| `வெற்றிலைபாக்கு` | `betel-and-areca-nut` | **T4 approved** |
+| quoted `சனியன்கள்` | `saniyans` | **T4 approved; source-bearing insult not neutralised** |
+| `ஆதி திராவிடர் காலனி` | `Adi Dravidar colony` | **T4 approved** |
+| `ஷம்சுதீன்` | `Shamsudeen` | **T4 approved** |
+| `நாலுகால் மண்டபம்` | `Naalukaal Mandapam` | **T4 approved** |
+| `குட்டான தேநீர்` | `small vessel of tea` | **T4 approved; no unsupported vessel identification added** |
+| `எ. கோவிந்தசாமி` | `A. Govindasamy` | **T4 approved** |
+| `தென்னாற்காடு` | `Thennaarkadu` | **T4 approved; source place form retained** |
+| `தேவபாண்டலம்` | `Devapandalam` | **T4 approved** |
+| quoted `அய்யா! பெரியவங்களே!` | `Ayya! Periyavangale!` | **T4 approved; colloquial source address preserved** |
+| quoted `அப்பா` | `appa` | **T4 approved** |
+| `கருணாநிதி` | `Karunanidhi` | **T4 approved** |
+| source quantities `18 miles / about 15 minutes / about 1½ hours` | preserve exactly | **T4 approved** |
+
+Source-page comments **5/5**; unresolved T4 issues **0**.
+
+## Section 18 — T4-audited decisions
+
+| Tamil / source form | Preferred English / treatment | Status |
+|---|---|---|
+| source English `Mannerism` / `மேனரிசம்` | `mannerism` | **T4 approved** |
+| `அறிஞர் அண்ணா` | `Arignar Anna` | **T4 approved / prior form reused** |
+| `தந்தை பெரியார்` | `Thanthai Periyar` | **T4 approved** |
+| `தளபதி அழகிரிசாமி` | `Thalapathi Alagirisami` | **T4 approved** |
+| `ஜீவா` | `Jeeva` | **T4 approved** |
+| `சிலம்புச் செல்வர் ம. பொ. சி.` | `Silambu Selvar Ma. Po. Si.` | **T4 approved / prior form reused** |
+| `ராஜாஜி` | `Rajaji` | **T4 approved** |
+| `நாவலர் நெடுஞ்செழியன்` | `Navalar Nedunchezhiyan` | **T4 approved** |
+| `பேராசிரியர் அன்பழகன்` | `Professor Anbazhagan` | **T4 approved** |
+| `சன்னக் குரல்` | `thin voice` | **T4 approved** |
+| `உபன்யாசம்` | `upanyasam` | **T4 approved** |
+| `குன்றக்குடி அடிகளார்` | `Kundrakudi Adigalar` | **T4 approved** |
+| `தமிழ்த்தென்றல் திரு. வி. க.` | `Tamil-thendral Thiru. Vi. Ka.` | **T4 approved / prior form reused** |
+| `மறைமலை அடிகளார்` | `Maraimalai Adigalar` | **T4 approved** |
+| `தமிழர் நெறி` | `the Tamil way` | **T4 approved** |
+| `நாவலர் சோமசுந்தர பாரதியார்` | `Navalar Somasundara Bharathiar` | **T4 approved / prior form reused** |
+| quoted `அட சனியனே` | `Ada saniyane!` | **T4 approved; source-bearing scolding expression** |
+| `முத்தமிழ்க் காவலர் கி.ஆ.பெ. விசுவநாதம்` | `Muthamizh Kaavalar Ki. Aa. Pe. Viswanatham` | **T4 approved** |
+| `பசும் பொன் முத்துராமலிங்கத்தேவர்` | `Pasumpon Muthuramalinga Thevar` | **T4 approved** |
+| `சின்ன அண்ணாமலை` | `Chinna Annamalai` | **T4 approved** |
+| `தமிழ்வாணன் / ஜெயகாந்தன்` | `Tamilvaanan / Jayakanthan` | **T4 approved** |
+| `காயிதே மில்லத் / அப்துல்சமது` | `Quaid-e-Millath / Abdul Samad` | **T4 approved** |
+
+T4 body correction: `Tamil principles` → **`the Tamil way`** for `தமிழர் நெறி`. Source-page comments **5/5**; unresolved T4 issues **0**.
+
+## Section 19 — T4-audited decisions
+
+| Tamil / source form | Preferred English / treatment | Status |
+|---|---|---|
+| `திராவிடர் இயக்கம்` | `Dravidar movement` | **T4 approved** |
+| `திராவிடர் கழகம்` | `Dravidar Kazhagam` | **T4 approved** |
+| `விடுதலை` | `Viduthalai` | **T4 approved** |
+| `வீரமணி` | `Veeramani` | **T4 approved** |
+| `குடிஅரசு / பகுத்தறிவு` | `Kudi Arasu / Pagutharivu` | **T4 approved** |
+| `பேரறிஞர் அண்ணா` | `Perarignar Anna` | **T4 approved** |
+| source `மேனரிசம்` | `mannerism` | **T4 approved / Section 18 form reused** |
+| `ஈ.வெ.கி. சம்பத்` | `E. V. K. Sampath` | **T4 approved** |
+| `சொல்லின் செல்வர்` | `Sollin Selvar` | **T4 approved** |
+| `தமிழ் தேசியக் கட்சி` | `Tamil National Party` | **T4 approved** |
+| `நாஞ்சிலார் / நாஞ்சில் கி. மனோகரன்` | `Nanjilar / Nanjil K. Manoharan` | **T4 approved** |
+| `மின்வெட்டுப் போன்ற மிடுக்கான பேச்சு` | `crisp speech like an electric flash` | **T4 approved** |
+| `எ.வி.பி. ஆசைத்தம்பி` | `E. V. P. Aasai Thambi` | **T4 approved** |
+| `வாலிபப் பெரியார்` | `Vaaliba Periyar` | **T4 approved** |
+| `என். வி. நடராசனார்` | `N. V. Natarasanar` | **T4 approved** |
+| `பேசும் கலை வளர்ப்போம்` | `Let Us Develop the Art of Speaking` | **T4 approved / publication title form reused** |
+
+Source age **46**, age **10** starting point, **1962** South Chennai contest and all party/movement sequence claims remain exactly as frozen-source claims; no external reconciliation was introduced. Source-page comments **4/4**; unresolved T4 issues **0**.
+
 ## Current count
 
 - permanent repository-wide lexical decisions: **1**;
@@ -398,4 +513,9 @@ T4 body correction: `Silambu Selvar M. P. Si.` → **`Silambu Selvar Ma. Po. Si.
 - Section 12 T4-approved decisions: **15**;
 - Section 13 T4-approved decisions: **16**;
 - Section 14 T4-approved decisions: **17**;
-- unresolved terminology / quotation / citation issues in Sections 1–14: **0**.
+- Section 15 T4-approved decisions: **13**;
+- Section 16 T4-approved decisions: **15**;
+- Section 17 T4-approved decisions: **14**;
+- Section 18 T4-approved decisions: **22**;
+- Section 19 T4-approved decisions: **16**;
+- unresolved terminology / quotation / citation issues in Sections 1–19: **0**.
