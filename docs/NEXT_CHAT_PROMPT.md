@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 6–10
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 11–15
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -17,13 +17,16 @@ Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover
   - supplied artifact — **150 pages**
   - source-completeness discrepancy — **OPEN**
 - P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 — **IN PROGRESS — 5/150 canonical records**
-  - verified — **3**
+- P2 — **IN PROGRESS — 10/150 canonical records**
+  - verified — **8**
   - needs-review — **2**
+  - blocked — **0**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED**
 
-## Completed P2 batch 001
+## Completed P2 batches
+
+Batch 001, scans 1–5:
 
 - scan 1 — `pages/0001-physical-copy-mark.md` — verified
 - scan 2 — `pages/0002-title-page.md` — verified
@@ -31,7 +34,16 @@ Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover
 - scan 4 — `pages/0004-publisher-note.md` — needs-review
 - scan 5 — `pages/0005-blank-reverse.md` — verified
 
-Open holds:
+Batch 002, scans 6–10:
+
+- scan 6 — `pages/0006-dedication-1.md` — verified
+- scan 7 — `pages/0007-dedication-2.md` — verified
+- scan 8 — `pages/0008-murasu-illustration.md` — verified
+- scan 9 — `pages/0009-blank-reverse.md` — verified
+- scan 10 — `pages/0010-murasu.md` — verified
+
+Open holds remain unchanged:
+
 - scan 3 — unresolved small imprint/printer text;
 - scan 4 — exact publisher-note transcription.
 
@@ -52,17 +64,12 @@ Read completely:
 9. `P1_SOURCE_STRUCTURE_REVIEW.md`
 10. `audit.md`
 
-## Exact next activity — P2 scans 6–10
+## Exact next activity — P2 scans 11–15
 
-Process **exactly scans 6–10 as one batch**.
-
-Expected P1 roles:
-- scans 6–7 — `காணிக்கை` dedication;
-- scan 8 — illustrated `முரசு` front-matter page;
-- scan 9 — blank/reverse;
-- scan 10 — main text begins.
+Process **exactly scans 11–15 as one batch**.
 
 For every text-bearing page:
+
 - visually transcribe the whole page;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
 - apply the historical-glyph family checks;
@@ -70,11 +77,12 @@ For every text-bearing page:
 - separate non-print marks;
 - never fill uncertainty from context.
 
-After scans 6–10:
+After scans 11–15:
+
 - synchronize controls;
 - commit immediately;
 - report verified/needs-review/hold counts;
-- set next batch to **scans 11–15**;
-- stop before scan 11 unless explicitly asked to continue.
+- set the next five-scan batch from the live durable boundary;
+- stop before scan 16 unless explicitly asked to continue.
 
 P0 source-completeness discrepancy remains open.

@@ -26,23 +26,20 @@ Repository policy:
 
 - source PDF committed to GitHub — **No**
 
-Direct physical-file facts still required:
+Current source facts:
 
-- byte size — **282020019 bytes — confirmed from the re-uploaded raw-file metadata**
-- SHA-256 — **PENDING direct inspection**
-- structural PDF page count — **PENDING direct inspection**
-- image/text-layer condition — **image-only scan / no usable parsed text observed; direct byte-level structure check still pending**
+- byte size — **282020019 bytes**
+- supplied artifact exposed to the current page renderer — **150 pages**
+- user-reported complete publication/PDF extent — **224 pages**
+- SHA-256 — **PENDING**
+- source-completeness discrepancy — **OPEN**
+- image/text-layer condition — **image-only scan / no usable parsed text observed**
 
 ## Source-authority rule
 
-Attachment preview/parser output is **not controlling evidence** for this publication.
+The source scan pixels are controlling for transcription. Preview/parser text, OCR, contextual expectation, alternate editions and secondary witnesses must not override source-visible wording.
 
-The earlier preview-derived 150-page assumption and preview-derived P1 structural claims have been withdrawn.
-
-P0 and P1 must be rebuilt only from:
-
-1. the actual uploaded PDF bytes / physical PDF structure; and
-2. direct visual inspection of pages rendered from that physical file.
+The P1 map is valid for the supplied **150-page artifact** only. It does not resolve the separate user-reported **224-page** complete extent.
 
 ## Historical-glyph authority
 
@@ -56,27 +53,40 @@ For P2/P5, explicitly check:
 
 This is glyph decoding, not spelling modernization.
 
-## Intake status
+## Intake / gate status
 
 - bibliographic identity — **ESTABLISHED from user-confirmed metadata**
-- expected physical page extent — **224**
+- expected complete extent — **224 pages**
+- supplied artifact — **150 pages**
 - raw-file size verification — **PASS — 282020019 bytes**
-- direct structural page-count verification — **PENDING**
 - SHA-256 verification — **PENDING**
 - P0 — **IN PROGRESS**
 - P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2–P5 — **NOT STARTED**
+- P2 — **IN PROGRESS — 10/150 canonical records; 8 verified / 2 needs-review**
+- P3 — **NOT STARTED**
+- P4 — **NOT STARTED**
+- P5 — **NOT STARTED**
 
-## P1 override / supplied-artifact result
+## P1 supplied-artifact result
 
-The user explicitly authorised proceeding to P1 despite unresolved P0 SHA-256/source-extent reconciliation.
+The user explicitly authorised proceeding despite unresolved P0 SHA-256/source-extent reconciliation.
 
-The supplied PDF artifact was structurally inspected **150/150 pages** and passed P1 for that artifact. Full result:
+The supplied artifact was structurally inspected **150/150 pages** and passed P1 for that artifact. Full result:
 
 `../P1_SOURCE_STRUCTURE_REVIEW.md`
 
 This does not resolve the separate user-reported **224-page** publication extent.
 
+## P2 source use through scan 10
+
+Canonical records now exist for scans **1–10**.
+
+- verified — **8**
+- needs-review — **2**
+- open printed-text holds — **2**, both inherited from scans 3–4
+- guessed readings — **0**
+- historical-glyph corrections — **0**
+
 ## Exact next activity
 
-**P2 scans 1–5** against the supplied artifact. Keep P0 source-completeness discrepancy open; do not infer material beyond scan 150.
+**P2 scans 11–15** against the supplied artifact. Keep the P0 source-completeness discrepancy and scan 3–4 holds open.

@@ -4,9 +4,10 @@ Controlling supplied artifact: `TVA_BOK_0064140_ஆறுமாதக்_கட�
 
 Current gate:
 
-- P0 — **IN PROGRESS / SHA-256 unresolved**
+- P0 — **IN PROGRESS / SHA-256 and complete-source extent unresolved**
 - P1 — **COMPLETE / PASS FOR SUPPLIED PDF ARTIFACT**
 - mapped physical pages — **150 / 150**
+- P2 — **IN PROGRESS — 10/150 canonical records**
 
 Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVIEW.md)
 
@@ -48,13 +49,25 @@ Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVI
 | 3 | `../pages/0003-imprint.md` | needs-review |
 | 4 | `../pages/0004-publisher-note.md` | needs-review |
 | 5 | `../pages/0005-blank-reverse.md` | verified |
+| 6 | `../pages/0006-dedication-1.md` | verified |
+| 7 | `../pages/0007-dedication-2.md` | verified |
+| 8 | `../pages/0008-murasu-illustration.md` | verified |
+| 9 | `../pages/0009-blank-reverse.md` | verified |
+| 10 | `../pages/0010-murasu.md` | verified |
 
-Current P2 coverage: **5/150** canonical records.
+Current P2 coverage: **10/150** canonical records.
+
+Current totals:
+
+- verified — **8**
+- needs-review — **2**
+- blocked — **0**
 
 Open holds:
+
 - scan 3 — small imprint/printer text;
 - scan 4 — full publisher-note transcription.
 
 ## Exact next activity
 
-**P2 scans 6–10.**
+**P2 scans 11–15.**

@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **IN PROGRESS — SHA-256 / publication-level source extent unresolved** |
 | P1 | **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT** |
-| P2 | **IN PROGRESS — 5/150 records; 3 verified / 2 needs-review** |
+| P2 | **IN PROGRESS — 10/150 records; 8 verified / 2 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -30,17 +30,20 @@ Authority: `P1_SOURCE_STRUCTURE_REVIEW.md`.
 ## Source-completeness caveat
 
 P0 remains open:
+
 - raw file size — **282020019 bytes**
 - SHA-256 — **PENDING**
-- supplied artifact page count available to the page renderer — **150**
-- user-confirmed complete extent — **224**
+- supplied artifact page count — **150**
+- user-reported complete extent — **224**
 - discrepancy — **UNRESOLVED**
-
-The user explicitly authorised continuing P1 despite this P0 discrepancy.
 
 ## Historical glyph gate
 
-P2/P5 must follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+P2/P5 follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+
+For every text-bearing page the known set was explicitly checked:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
 ## P2 batch 001 — scans 1–5
 
@@ -52,16 +55,38 @@ P2/P5 must follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 | 4 | `0004-publisher-note.md` | needs-review | exact publisher-note transcription pending |
 | 5 | `0005-blank-reverse.md` | verified | none |
 
-Batch totals:
+## P2 batch 002 — scans 6–10
 
-- canonical page records — **5/150**
-- verified — **3**
+| Scan | Record | Status | Open issue |
+|---:|---|---|---|
+| 6 | `0006-dedication-1.md` | verified | none |
+| 7 | `0007-dedication-2.md` | verified | none |
+| 8 | `0008-murasu-illustration.md` | verified | none |
+| 9 | `0009-blank-reverse.md` | verified | none |
+| 10 | `0010-murasu.md` | verified | none |
+
+Batch 002 totals:
+
+- records — **5/5**
+- verified — **5**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph corrections — **0**
+- new unresolved printed-text holds — **0**
+
+## P2 cumulative totals through scan 10
+
+- canonical page records — **10/150**
+- verified — **8**
 - needs-review — **2**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **0**
-- unresolved printed-text holds — **2**
+- unresolved printed-text holds — **2**, both inherited:
+  - scan 3 small imprint/printer text;
+  - scan 4 exact publisher-note transcription.
 
 ## Exact next activity
 
-**P2 scans 6–10.** Keep scans 3–4 open for a later targeted high-resolution re-read; do not normalize or guess them.
+**P2 scans 11–15.** Keep scans 3–4 open for a later targeted high-resolution re-read; do not normalize or guess them.
