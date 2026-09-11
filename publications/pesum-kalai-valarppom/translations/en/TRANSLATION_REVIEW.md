@@ -285,7 +285,7 @@ Tamil authority: `articles/05-section-05.md` — **`7fbb055e1f7f2630d39f5a3e203d
 - T2 — **PASS after 2 correction families**; post-T2 blob **`e3030a820d87cdfd248b57b171fab468562e3e6d`**. Removed unsupported “same kind” in the repeat-speech example and restored the family narration to the source’s well-side wording.
 - T3 — **PASS after 6 voice corrections**; post-T3 blob **`3718fb1ed182071262b86df8fdb456bed198cfd4`**. Repetition warning, Punniyakodi anecdote, candidate-stage rhythm, news-report contrast and style-imitation conclusion were tightened without changing T2 meaning.
 - T4 — **PASS with 0 body corrections**; post-T4 blob unchanged **`3718fb1ed182071262b86df8fdb456bed198cfd4`**; approved decisions **12**; Demosthenes quotation remains source-based; unresolved T4 issues **0**.
-- T5 — **pending**.
+- T5 — **PASS with 0 body corrections / status-only**; final verified blob **`be408840f6e92913a003831b0ce6d4469ce7c52a`**.
 
 ## E1 — Section 6
 
@@ -295,7 +295,7 @@ Tamil authority: `articles/06-section-06.md` — **`7303356861196c1d98951c651c38
 - T2 — **PASS after 3 correction families**; post-T2 blob **`e25a4c76d457401a8c8ed04da3c4940e36675eda`**. `rough bull` → **unruly bull**; source name **Nannilam Natarasan** restored consistently; `நீட்டி முழக்கியும்` restored as stretching/declaiming loudly.
 - T3 — **PASS after 6 voice corrections**; post-T3 blob **`d433aa47b4280843ff2b48607cf006f6cd0c604d`**. Story framing, neighbour’s shock, colloquial challenge, family-problem lesson, failed repeat-performance reaction and closing advice were sharpened.
 - T4 — **PASS with 0 body corrections**; post-T4 blob unchanged **`d433aa47b4280843ff2b48607cf006f6cd0c604d`**; approved decisions **10**; no external source for the foreign story was imported; unresolved T4 issues **0**.
-- T5 — **pending**.
+- T5 — **PASS with 0 body corrections / status-only**; final verified blob **`80c33bcbbcb755d75e0f2fb467eca16e67e3264c`**.
 
 ## E1 — Section 7
 
@@ -305,7 +305,7 @@ Tamil authority: `articles/07-section-07.md` — **`722e66535b9c1503f574e0adf836
 - T2 — **PASS after 3 correction families**; post-T2 blob **`22514193ba61be1abe290bc225cc75101b13f955`**. `ஏழை பங்காளன்` standardized as **ally of the poor**; unsupported literal gloss after source punch `vengaayam!` removed; `வெட்டு ஒன்று துண்டு இரண்டு` restored as **one cut, two pieces**.
 - T3 — **PASS after 5 voice corrections**; post-T3 blob **`e204a9a888c0f1923b460b4784189c0413a6e906`**. Opening force, age-appropriate-speech warning, Periyar’s colloquial wedding passage, wedding-house framing and Kamarajar conclusion were sharpened.
 - T4 — **PASS after 1 terminology-family body correction**; post-T4 blob **`95bd699feab1e293c3a467807dcadfb64a5ebbc5`**. Hyphenated `mutt-head` wording was replaced by neutral institutional **head of the mutt / heads of mutts** for `மடாதிபதி`. Approved decisions **16**; unresolved T4 issues **0**.
-- T5 — **pending**.
+- T5 — **PASS with 0 body corrections / status-only**; final verified blob **`bff09511f02948f1bc8bc5739425fdde29a27b98`**.
 
 ## E1 — Section 8
 
@@ -315,7 +315,7 @@ Tamil authority: `articles/08-section-08.md` — **`1bfc1752ccc8217e14fe527cd49a
 - T2 — **PASS after 4 correction families**; post-T2 blob **`84db648261f8457b39331a948d3813fd70d6dcfd`**. `அடுக்குச் சொல்` standardized as **alliterative word-chain / phrasing**; Anna’s people/heart sentence clarified; `என் அடிகள் அளந்து வைக்கப்படுகின்றன` restored as **My steps are being measured!**; unsupported `Mr.` / flattened Law College address forms replaced by source-bearing **M.K. avargale / Anbulla Kumari avargale**.
 - T3 — **PASS after 5 voice corrections**; post-T3 blob **`3b382d5f37852fc3d4b0d261538291d066eafcc5`**. Anna’s introduction, question-arrow image, warning against empty alliteration, gold-bar/verbal-magic passage and Vinayagam reaction were made more direct.
 - T4 — **PASS with 0 body corrections**; post-T4 blob unchanged **`3b382d5f37852fc3d4b0d261538291d066eafcc5`**; approved decisions **16**; `உள்ளம் / பள்ளம்` is recorded as **heart / hollow** with unavoidable loss of the Tamil sound-pun; unresolved T4 issues **0**.
-- T5 — **pending**.
+- T5 — **PASS with 0 body corrections / status-only**; final verified blob **`2bdca622cf08295f3a41309168098d5c4459aebb`**.
 
 ## E1 — Section 9
 
@@ -325,7 +325,7 @@ Tamil authority: `articles/09-section-09.md` — **`d0e18d25b0e3ae4a8585d8fa117d
 - T2 — **PASS after 1 source-form correction family**; post-T2 blob **`fd224ca8c176ad44643dc7adceff6bca5b84ee2f`**. Source `தஞ்சை` is retained as **Thanjai** in both the tour-district list and dialect label rather than expanded to Thanjavur.
 - T3 — **PASS after 5 voice corrections**; post-T3 blob **`4294bc898a829c54c5413da6991f2e5354f85389`**. Naming humour, father-name confusion, Islamic-name instruction, Rajarajan reaction and final platform-power assertion were tightened.
 - T4 — **PASS with 0 body corrections**; post-T4 blob unchanged **`4294bc898a829c54c5413da6991f2e5354f85389`**; approved decisions **15**; all four district-dialect strings remain source-bearing without outside normalization; unresolved T4 issues **0**.
-- T5 — **pending**.
+- T5 — **PASS with 0 body corrections / status-only**; final verified blob **`7ef1627c25b1f040270c9cbe11a989ee17fa9eef`**.
 
 ## English gate totals
 
@@ -337,12 +337,12 @@ Tamil authority: `articles/09-section-09.md` — **`d0e18d25b0e3ae4a8585d8fa117d
 | T2 bilingual fidelity | **9/19** |
 | T3 Kalaignar voice | **9/19** |
 | T4 terminology / quotation / citation | **9/19** |
-| T5 section verification | **4/19** |
-| Verified English articles | **4/19** |
+| T5 section verification | **9/19** |
+| Verified English articles | **9/19** |
 | English body files | **9/19** |
 
 Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0**.
 
 ## Exact next activity
 
-**Batch T5 verification — Sections 5–9.** Revalidate each frozen Tamil blob and the five post-T4 English blobs recorded above; reconcile metadata, source spans, page comments, T2/T3/T4 correction counts, approved terminology decisions and unresolved counts. If clean, promote only `translation_status` to `verified` for Sections 5–9, then synchronize all controls and advance to Section 10 / T1.
+**E1 — Section 10 / T1 close draft.** Re-fetch frozen Tamil `articles/10-section-10.md` and require blob **`32dd5cf5bf4ec73e9c0cdb4c0f1eeead2f3a7055`**, scans **45–47 / printed pp.43–45**. Translate the complete numbered Section 10 from the frozen Tamil authority, preserve every source-page comment and rhetorical action, record genuine new T1 decisions, synchronize controls, and stop before Section 10 T2.
