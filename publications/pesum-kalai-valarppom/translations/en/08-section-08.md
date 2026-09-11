@@ -8,7 +8,7 @@ source_tamil_blob_sha: "1bfc1752ccc8217e14fe527cd49ab0362d4484a0"
 source_scan_pages: "38-41"
 source_printed_pages: "36-39"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -16,9 +16,9 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 38 / printed 36 -->
 
-In the early days when Arignar Anna was becoming known in Tamil Nadu as a speaker,<!-- Tamil source: scan 39 / printed 37 --> alliterative word-chains would fall abundantly in his speech. But not one of those words was used without meaning merely to match “A” with “A” and “K” with “K”! When Anna said, “Periyar brought the Justice Party from the mansion to the maidan,” with that alliterative phrase he conveyed the historical truth that the party had been transformed into a party of the poor and the simple. He won the people's hearts.
+In the early days when Arignar Anna first became known in Tamil Nadu as a speaker,<!-- Tamil source: scan 39 / printed 37 --> alliterative word-chains would fall abundantly in his speech. But not one of those words was used without meaning merely to match “A” with “A” and “K” with “K”! When Anna said, “Periyar brought the Justice Party from the mansion to the maidan,” with that alliterative phrase he conveyed the historical truth that the party had been transformed into a party of the poor and the simple. He won the people's hearts.
 
-If the government imposed Section 144, he would not merely state the information and attack it. On the stage he would rain down a question like an arrow: “In civilised countries, a law to cut out tongues?” Seeing this, some thought it was enough for them too to become speakers by stringing together alliterative words. Whether it is alliterative phrasing or beautiful Tamil, while speaking it must pour out naturally; if one searches for such words and forces them into speech, one will meet only failure in the art of speaking.
+If the government imposed Section 144, he would not merely state the information and attack it. On the stage he would shower a question-arrow: “In civilised countries, a law to cut out tongues?” Seeing this, some thought it was enough for them too to become speakers by stringing together alliterative words. Whether it is alliterative phrasing or beautiful Tamil, while speaking it must pour out naturally; if one searches for such words and forces them into speech, one will meet only failure in the art of speaking.
 
 “With repressive measures you seek to cripple us; strutting with rashness and swagger—is that proper? I angrily challenge the government and ask!”
 
@@ -42,11 +42,11 @@ The villain looks at the hero and says, “In your matter I will be a sarpam—a
 
 Not everyone could succeed by using Anna's alliterative wording that moved with such beauty. The reason was that there was no flow of thought in the alliterative words they used.
 
-Even Anna himself took care to make his speeches and writings understandable to the people—to make them mingle with the people and settle in their hearts. He never allowed himself to fall into the failing of merely piling alliterative words on top of one another and leaving unsaid what had to be said.
+Even Anna himself took care to make his speeches and writings understandable to the people—to make them mingle with the people and settle in their hearts. He never reduced himself to merely piling alliterative words one upon another while leaving unsaid what had to be said.
 
 The subject chosen for a stage speech is what matters most! If the subject is like a bar of gold,<!-- Tamil source: scan 41 / printed 39 --> the words and delightful comparisons are what fashion it into an ornament and polish it!
 
-If one climbs onto a stage, performs nothing but verbal magic, beautifully recites four poems one happens to know, and comes down without stressing any idea and fixing it in the people's hearts, one has done only the work of some musical instrument! The people will enjoy that speech only as they might enjoy that music for a little while!
+If one climbs onto a stage, performs nothing but verbal magic, beautifully recites four poems one knows, and comes down without driving home any idea in the people's hearts, one has done only the work of some musical instrument! The people will enjoy that speech only as they might enjoy that music for a little while!
 
 Once, at a beach meeting, Anna beautifully described a Chief Minister who behaved as though heartless and unleashed repression on the people:
 
@@ -58,7 +58,7 @@ When Vinayagam hurled these words at Anna in the Legislative Assembly, Anna repl
 
 “My steps are being measured!”
 
-The very Vinayagam marvelled at and praised the way Anna answered.
+Vinayagam himself marvelled at Anna's reply and praised it.
 
 A function at the Law College! Kumari Ananthan and I both took part! When he addressed me, he said, “Let me address you as in Kuraloviyam—‘M.K. avargale!’”
 
