@@ -8,7 +8,7 @@ source_tamil_blob_sha: "aa3eb2b5311f8ad1a705f606bd4ace3f2059ec6c"
 source_scan_pages: "79-82"
 source_printed_pages: "77-80"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -40,11 +40,11 @@ But many boys and girls, merely to satisfy the wishes of their parents, the desi
 
 Such boys and girls should think about how our friend Veeramani, even at a young age, worked without pause, cared about his education, remained loyal to his leader, and likewise stood firm in principle.
 
-Comrade E. V. K. Sampath, Periyar's elder brother's son, became closely associated with Anna while still young and grew into such a speaker that he earned the distinction “Sollin Selvar.” Because he lacked a steadfast heart in policy, Tamil Nadu could not fully make use of his rare ability. Nature took him away from us before allowing him to live a full life. Though he underwent party changes—from the Dravidar movement to the Tamil National Party and then the Congress—he remained a vigorous lecturer.
+Comrade E. V. K. Sampath, Periyar's elder brother's son, became closely associated with Anna while still young and grew into such a speaker that he earned the distinction “Sollin Selvar.” Because he lacked a steadfast heart in policy, Tamil Nadu could not fully make use of his rare ability. Nature took him away from us before allowing him to live a full life. Though he underwent party changes—from the Dravidar movement to the Tamil National Party and then the Congress—he remained a spirited public speaker.
 
 <!-- Tamil source: scan 82 / printed 80 -->
 
-Nanjilar—Nanjil K. Manoharan—who contested against him on behalf of the D.M.K. in South Chennai in 1962 and won, was a man of words equal to him. Now an example of crisp, lightning-like speech, he too began thundering on stages in his youth!
+Nanjilar—Nanjil K. Manoharan—who contested against him on behalf of the D.M.K. in South Chennai in 1962 and won, was a man of words equal to him. Now an example of crisp speech like an electric flash, he too began thundering on stages in his youth!
 
 Though one cannot call it extremely young, E. V. P. Aasai Thambi mounted the stage as a sturdy young bull, captivated people with spark-scattering words, explained difficult matters at great length in Periyar's style, and was called “Vaaliba Periyar.” Though that captivatingly eloquent speaker has passed away, can his service through writing and speech be forgotten!
 
