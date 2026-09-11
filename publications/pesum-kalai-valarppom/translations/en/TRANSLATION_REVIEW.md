@@ -385,7 +385,7 @@ Tamil authority: `articles/15-section-15.md` — **`682c68cdc0db1899749f2943c9d3
 - T2 — **PASS after 2 corrections**; post-T2 blob **`11c9cd640ace03c45d37bc5185a9f412a60e70e5`**. Restored the source sense of the movement one has embraced, and the father-death-day meeting as **went to and returned from without fail**.
 - T3 — **PASS after 4 voice corrections**; post-T3 blob **`5db7208d11b431abb8ec68a5deaa169553e02665`**.
 - T4 — **PASS with 0 body corrections**; post-T4 unchanged **`5db7208d11b431abb8ec68a5deaa169553e02665`**; approved decisions **13**; unresolved issues **0**.
-- T5 — **pending**.
+- T5 — **PASS with 0 body corrections / status-only**; final verified blob **`f2cc6211ff4eee23d852ce6f7a438ba42bbe2c8b`**.
 
 ## E1 — Section 16
 
@@ -395,7 +395,7 @@ Tamil authority: `articles/16-section-16.md` — **`1ab092b3b7bcdc0efd23f08e4979
 - T2 — **PASS after 1 correction**; post-T2 blob **`353f8d8b3f907e60deeda964713830601170d822`**. The closing `நாநலம்` phrase was restored as source-bearing **tongue-excellence / eloquence** rather than flattened.
 - T3 — **PASS after 3 voice corrections**; post-T3 blob **`6e035ce9b687898f291317c2f452c2e37d7aaa83`**.
 - T4 — **PASS after 1 body correction**; post-T4 blob **`722e97251c9afce1f19f8e44bac1c0cf5ef9fd32`**. Ambiguous source `ஸ்மிட்` was changed from inferred **Smith** to source-bearing **Smit**; all quoted maxims remain translated only from frozen Tamil. Approved decisions **15**; unresolved issues **0**.
-- T5 — **pending**.
+- T5 — **PASS with 0 body corrections / status-only**; final verified blob **`c65bf67c41159ca8ea854b5ca5b6189169a80b8e`**.
 
 ## E1 — Section 17
 
@@ -405,7 +405,7 @@ Tamil authority: `articles/17-section-17.md` — **`bd4cb1d4e631e19de0e5cc62f0ae
 - T2 — **PASS after 1 correction**; post-T2 blob **`27321fe5239044841e32f599f4a64f8b3682ce63`**. The long-associated speaker’s standing was restored as **someone we held in a position of respect**.
 - T3 — **PASS after 4 voice corrections**; post-T3 blob **`c2524a392977524cb39cf1750f89da83a449b41b`**.
 - T4 — **PASS with 0 body corrections**; post-T4 unchanged **`c2524a392977524cb39cf1750f89da83a449b41b`**; approved decisions **14**; colloquial `saniyans / Ayya / Periyavangale / appa` forms remain source-bearing; unresolved issues **0**.
-- T5 — **pending**.
+- T5 — **PASS with 0 body corrections / status-only**; final verified blob **`c1015074837f606a93808ea2235383b309a9fd98`**.
 
 ## E1 — Section 18
 
@@ -415,7 +415,7 @@ Tamil authority: `articles/18-section-18.md` — **`060e72d9ec61e491343c948c2db9
 - T2 — **PASS after 2 corrections**; post-T2 blob **`b9643e11eec1601a9797118cbe2842e46beced89`**. `சன்னக் குரல்` → **thin voice**; `அடலேறுத் தோற்றம்` → **appearance of a fighting bull**.
 - T3 — **PASS after 4 voice corrections**; post-T3 blob **`3bad88568408ee7e664adf8f58ec0e4e654e70cd`**.
 - T4 — **PASS after 1 body correction**; post-T4 blob **`e2baed0f37f32bc0058d3a845f32ec416131cedf`**. `தமிழர் நெறி` was refined from **Tamil principles** to **the Tamil way**. Approved decisions **22**; unresolved issues **0**.
-- T5 — **pending**.
+- T5 — **PASS with 0 body corrections / status-only**; final verified blob **`8ca4aa3771cd6b0be95cd02537e88e3bf4347102`**.
 
 ## E1 — Section 19
 
@@ -425,7 +425,7 @@ Tamil authority: `articles/19-section-19.md` — **`aa3eb2b5311f8ad1a705f606bd4a
 - T2 — **PASS after 2 corrections**; post-T2 blob **`6b4958caa3b8031e5fa71fd565f7e92cde372079`**. `வீருகொண்ட விரிவுரையாளர்` was restored as **spirited public speaker**, and `மின்வெட்டுப் போன்ற மிடுக்கான பேச்சு` as **crisp speech like an electric flash**.
 - T3 — **PASS after 4 voice corrections**; post-T3 blob **`05be0594e6207ca7f1f1aeba0059fff644cc7e83`**.
 - T4 — **PASS with 0 body corrections**; post-T4 unchanged **`05be0594e6207ca7f1f1aeba0059fff644cc7e83`**; approved decisions **16**; source age/movement/history claims remain unreconciled with outside knowledge; unresolved issues **0**.
-- T5 — **pending**.
+- T5 — **PASS with 0 body corrections / status-only**; final verified blob **`e7cdf88c31c27e27ed973c382865bc9f7c4d66bc`**.
 
 ## English gate totals
 
@@ -437,12 +437,12 @@ Tamil authority: `articles/19-section-19.md` — **`aa3eb2b5311f8ad1a705f606bd4a
 | T2 bilingual fidelity | **19/19** |
 | T3 Kalaignar voice | **19/19** |
 | T4 terminology / quotation / citation | **19/19** |
-| T5 section verification | **14/19** |
-| Verified English articles | **14/19** |
+| T5 section verification | **19/19 PASS** |
+| Verified English articles | **19/19** |
 | English body files | **19/19** |
 
 Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0**.
 
 ## Exact next activity
 
-**Batch T5 verification — Sections 15–19.** Revalidate each frozen Tamil blob and the five post-T4 English blobs recorded above; reconcile metadata, source spans, page comments, T2/T3/T4 correction counts, approved terminology decisions and unresolved counts. If clean, promote only `translation_status` to `verified` for Sections 15–19, synchronize all controls, and advance to the required publication-wide cross-article consistency/release review.
+**Publication-wide English cross-article consistency / release review.** All **19/19** articles are individually T0–T5 verified. Review the full English set for recurring names and epithets, ideological vocabulary, repeated phrases, quotation treatment, title style, tone consistency, source-bearing puns/transliterations, page-comment completeness, accidental smoothing between earlier and later articles, and any cross-article terminology drift. Do not modify frozen Tamil. Only after this review passes may the publication be described as **English-translation complete**.
