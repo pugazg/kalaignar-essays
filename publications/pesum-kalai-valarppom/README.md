@@ -1,136 +1,54 @@
 # பேசும் கலை வளர்ப்போம்
 
-Publication 11 in the Kalaignar Essays / Articles archival project.  
-Workspace: `publications/pesum-kalai-valarppom/`
+**கலைஞர் மு. கருணாநிதி — source-first archival workspace**
 
-## Current gate state
+Controlling source: `TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf`  
+Source PDF committed: **No**
+
+## Final publication state — RELEASE COMPLETE / FROZEN
 
 ### Tamil archival layer
 
-- P0–P5 — **COMPLETE / PASS / FROZEN**;
-- canonical page records — **82/82 VERIFIED**;
-- assemblies — **19/19**;
-- P5 corrections / propagated — **33/33**;
-- unresolved Tamil fidelity discrepancies — **0**.
+- P0–P5 — **COMPLETE / PASS / FROZEN**
+- source SHA-256 — `73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`
+- physical scans — **82**
+- canonical page records — **82/82 VERIFIED**
+- Tamil assemblies — **19/19**
+- P5 corrections — **33/33 propagated**
+- unresolved Tamil discrepancies — **0**
+- frozen `pages/` tree — **`99558f84421f03c94d652bf64da08746d662c594`**
+- frozen `articles/` tree — **`5d997ba350ec87c1d70e4ab828f71c645a360d53`**
+
+Source identity remains distinct: cover `பேசும் கலை வளர்ப்போம்`; title page `பேசும்கலை வளர்ப்போம்`; eighth edition, September 1996; source-numbered sections **1–19**.
+
+Tamil provenance:
+- [`P3_ASSEMBLY_AUDIT.md`](P3_ASSEMBLY_AUDIT.md)
+- [`P4_SOURCE_COMPLETENESS_REVIEW.md`](P4_SOURCE_COMPLETENESS_REVIEW.md)
+- [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md)
 
 ### English layer
 
-- E0 planning — **COMPLETE / PASS**;
-- T0 — **19/19 PASS**;
-- English body files — **19/19**;
-- T1 — **19/19**;
-- T2 — **19/19**;
-- T3 — **19/19**;
-- T4 — **19/19**;
-- T5 — **19/19**;
-- verified English articles — **19/19**;
-- unresolved English blockers — **0**;
-- frozen Tamil edits during English work — **0**;
-- publication-wide English consistency / release review (E6) — **COMPLETE / PASS**;
-- English translation — **COMPLETE**;
-- E7 English release closeout — **PENDING**.
+- E0–E7 — **COMPLETE / PASS**
+- English body files — **19/19**
+- T0/T1/T2/T3/T4/T5 — **19/19 PASS** at every gate
+- E6 publication-wide consistency — **PASSED**
+- E6 body corrections — **2**
+- E7 release closeout — **PASSED / COMPLETE**
+- English translation — **COMPLETE**
+- English release gate — **CLOSED**
+- unresolved English/release blockers — **0**
+- frozen Tamil changes during English work — **0**
 
-## Controlling source
+E6 corrected only:
+1. Section 6 `Natarajan` → **`Natarasan`**;
+2. Section 9 `Dravidian movement` → **`Dravidar movement`**.
 
-`TVA_BOK_0063826_பேசும்கலை_வளர்ப்போம்.pdf` — **82** image-only scans, **105,698,402 bytes**, SHA-256 **`73972aca1b615a7cbe9d5fe4361d2312b9d4e47f9ee022b2450572807c88bbf7`**. Source PDF is not committed.
+E7 revalidated the exact 19-row release matrix, **88/88** source-page comment instances, frozen Tamil trees, release-facing controls and source-PDF absence, with **0 English/Tamil body changes**.
 
-## Section 1 — VERIFIED / calibration complete
+English release authority: [`translations/en/RELEASE_REPORT.md`](translations/en/RELEASE_REPORT.md).  
+Full review provenance: [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md).  
+Living lexicon: [`translations/en/LEXICON.md`](translations/en/LEXICON.md).
 
-- Tamil blob — `e5517b7cc344554d51af4092599059d481039c1e`;
-- final verified English blob — **`76ea963ab2e14232bdbbf1a9afbe9f25ca97779a`**;
-- T0–T5 — **COMPLETE / PASS**;
-- T4-approved decisions — **16**.
+## Closure rule
 
-The publication title **Let Us Develop the Art of Speaking** is approved through Section 1 verification.
-
-## Section 2 — VERIFIED
-
-- Tamil blob — **`b10894b911393239e57446687c34030aff88a8e3`**;
-- scans **12–16 / printed pp.10–14**;
-- final T5 verified English blob — **`e963de42305f9e0cca601950c4ab5e3b1d6c2ea6`**;
-- T2 / T3 corrections — **7 / 8**;
-- T4 / T5 body corrections — **0 / 0**;
-- source-page comments — **5/5 retained**;
-- T4-approved Section 2 decisions — **15**;
-- unresolved Section 2 issues — **0**;
-- T0–T5 — **COMPLETE / PASS**.
-
-## Section 3 — VERIFIED
-
-- Tamil blob — **`21904dd457bb3455230de06421ff2d906ac4958d`**;
-- scans **16–22 / printed pp.14–20**;
-- final T5 verified English blob — **`3948fbf436875b39b3c9ca183c838f7b9139b742`**;
-- T2 / T3 / T4 corrections — **5 / 13 / 1**;
-- T5 body corrections — **0 / status-only**;
-- source-page comments — **7/7 retained**;
-- T4-approved Section 3 decisions — **17**;
-- unresolved Section 3 issues — **0**;
-- T0–T5 — **COMPLETE / PASS**.
-
-The verified Section 3 preserves the `iyal / music / koothu` historical argument, source sound-signals, old-style preamble punctuation irregularity, source-based Socrates–Marx–Ingersoll–Thanthai Periyar passage, Brahma/caste repetition, heart/lips imagery, and repeated `cheap promise` wordplay.
-
-## Section 4 — VERIFIED
-
-- Tamil blob — **`b938be21e198d69548e45ae96cb0e9802b8d7079`**;
-- scans **22–27 / printed pp.20–25**;
-- final T5 verified English blob — **`9a236986ecf612f0da8de3179c8d8acd9eac3183`**;
-- T2 / T3 / T4 corrections — **4 / 8 / 1**;
-- T5 body corrections — **0 / status-only**;
-- source-page comments — **6/6 retained**;
-- T4-approved Section 4 decisions — **22**;
-- unresolved Section 4 issues — **0**;
-- T0–T5 — **COMPLETE / PASS**.
-
-The verified Section 4 preserves the Annamalai / Annadurai / Neelamegam pun chain, `Sabash`, exact page-25/26/27 anecdote, sea-sluice imagery, the `Annathurai kachcheri` and `Namaskaaranga!` recollections, source-form `Trichy prison`, the `Agraasanadhipathi → Avai-thalaivar` and `Sriman → Thiruvalar` contrasts, and the closing grass-tip / already-ground flour / recorded-tape images.
-
-## Sections 5–9 — VERIFIED
-
-- Section 5 — final verified English blob **`be408840f6e92913a003831b0ce6d4469ce7c52a`**; T2/T3/T4 corrections **2/6/0**; T4 decisions **12**; page comments **5/5**.
-- Section 6 — final verified English blob **`69d999d2c019ca0d172b46148167f69c4da510c8`**; T2/T3/T4 corrections **3/6/0**; T4 decisions **10**; page comments **4/4**.
-- Section 7 — final verified English blob **`bff09511f02948f1bc8bc5739425fdde29a27b98`**; T2/T3/T4 corrections **3/5/1**; T4 decisions **16**; page comments **5/5**.
-- Section 8 — final verified English blob **`2bdca622cf08295f3a41309168098d5c4459aebb`**; T2/T3/T4 corrections **4/5/0**; T4 decisions **16**; page comments **4/4**.
-- Section 9 — final verified English blob **`765358f064a48e3bbd7d83291b4cfdd568140836`**; T2/T3/T4 corrections **1/5/0**; T4 decisions **15**; page comments **3/3**.
-- T5 body corrections — **0 for all five / status-only promotions**;
-- unresolved English issues — **0**;
-- frozen Tamil edits — **0**.
-
-## Sections 10–14 — VERIFIED
-
-- Section 10 — final verified English blob **`1cb939abb40a6a73c0e785b79ca079b2b69c1d9a`**; T2/T3/T4 corrections **5/5/0**; T4 decisions **15**; page comments **3/3**.
-- Section 11 — final verified English blob **`a97cd4930f8eee76d7f3b010b547698a59bbcbe8`**; T2/T3/T4 corrections **4/5/0**; T4 decisions **14**; page comments **4/4**.
-- Section 12 — final verified English blob **`15d010ab6a7a88d5ecd4cfd3d08441f40e2e915e`**; T2/T3/T4 corrections **4/5/0**; T4 decisions **15**; page comments **5/5**.
-- Section 13 — final verified English blob **`0d43c80ee88dc6caaff5f313e3b870aa8708c1f0`**; T2/T3/T4 corrections **3/5/0**; T4 decisions **16**; page comments **4/4**.
-- Section 14 — final verified English blob **`ea71a23cf3ffcdc2408c327bdb653bf755d772b2`**; T2/T3/T4 corrections **4/5/1**; T4 decisions **17**; page comments **5/5**.
-- T5 body corrections — **0 for all five / status-only promotions**;
-- unresolved English issues — **0**;
-- frozen Tamil edits — **0**.
-
-## Sections 15–19 — VERIFIED
-
-- Section 15 — final verified English blob **`f2cc6211ff4eee23d852ce6f7a438ba42bbe2c8b`**; T2/T3/T4 corrections **2/4/0**; T4 decisions **13**; page comments **4/4**.
-- Section 16 — final verified English blob **`c65bf67c41159ca8ea854b5ca5b6189169a80b8e`**; T2/T3/T4 corrections **1/3/1**; T4 decisions **15**; page comments **4/4**.
-- Section 17 — final verified English blob **`c1015074837f606a93808ea2235383b309a9fd98`**; T2/T3/T4 corrections **1/4/0**; T4 decisions **14**; page comments **5/5**.
-- Section 18 — final verified English blob **`8ca4aa3771cd6b0be95cd02537e88e3bf4347102`**; T2/T3/T4 corrections **2/4/1**; T4 decisions **22**; page comments **5/5**.
-- Section 19 — final verified English blob **`e7cdf88c31c27e27ed973c382865bc9f7c4d66bc`**; T2/T3/T4 corrections **2/4/0**; T4 decisions **16**; page comments **4/4**.
-- T5 body corrections — **0 for all five / status-only promotions**;
-- unresolved English issues — **0**;
-- frozen Tamil edits — **0**.
-
-All **19/19** numbered English articles are individually **T0–T5 VERIFIED**. The publication itself must still pass the required cross-article consistency / English release review before it is described as **English-translation complete**.
-
-Permanent rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`** only where the exact source form occurs. The source supplies numeric sections only; do not invent descriptive English section titles.
-
-## E6 publication-wide English consistency review — PASS
-
-Two cross-article English corrections were required:
-
-1. Section 6: `Natarajan` → **`Natarasan`**, matching frozen `நன்னிலம் நடராசன் / நடராசனை / நடராசா`. Current release blob: **`69d999d2c019ca0d172b46148167f69c4da510c8`**.
-2. Section 9: `Dravidian movement` → **`Dravidar movement`**, aligning recurring source `திராவிடர் இயக்கம்` with Section 19. Current release blob: **`765358f064a48e3bbd7d83291b4cfdd568140836`**.
-
-All other apparent variations reviewed were either consistent or deliberate source-sensitive exceptions. Numeric section identity **1–19**, quotation treatment, protected wordplay/transliterations, rhetorical tone, and source-page comment coverage all pass. Unresolved E6 issues: **0**. Frozen Tamil edits: **0**.
-
-Publication 11 is now **English-translation complete**, but remains active until E7 release closeout.
-
-## Exact next activity
-
-**E7 — English release closeout.** Revalidate the E6-approved 19-article corpus and synchronized controls, confirm frozen Tamil remains unchanged, perform final release/freeze bookkeeping, and move Publication 11 to **RELEASE COMPLETE / FROZEN** only after E7 passes.
+This publication is **RELEASE COMPLETE / FROZEN**. Do not reopen Tamil or English merely for stylistic polishing. Reopen only for a genuine source-supported defect, with affected gates formally revalidated.
