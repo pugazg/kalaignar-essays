@@ -8,7 +8,7 @@ source_tamil_blob_sha: "32dd5cf5bf4ec73e9c0cdb4c0f1eeead2f3a7055"
 source_scan_pages: "45-47"
 source_printed_pages: "43-45"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -18,7 +18,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 Just as a speaker must pay attention to the subject and to the style of speaking, he must also take great care that the words he pronounces are free of error.
 
-Merely because both “ல” and “ள” belong to the same broad sound class, however passionately one asks “அவர்கள் என்ன சொன்னார்கள்?” if it comes out as “அவாகள் என்ன சொன்னார்கல்?”, it will sound like an off-note among the people. There are many speakers who interchange the “ல” and “ள” sounds in this way.
+Merely because both “ல” and “ள” belong to the idaiyinam class, however passionately one asks “அவர்கள் என்ன சொன்னார்கள்?” if it comes out as “அவாகள் என்ன சொன்னார்கல்?”, it will sound like an off-note among the people. There are many speakers who interchange the “ல” and “ள” sounds in this way.
 
 “கண்ணனைக் காணச் சென்ற குசேலன், கையில் அவள் கொண்டு சென்றான்.”
 
@@ -30,7 +30,7 @@ Some speakers make a serious mistake because they imagine they are stating what 
 
 <!-- Tamil source: scan 46 / printed 44 -->
 
-“If I were to speak about our language, heat and flavour rise through every pulse and nerve in us.”
+“If I were to speak about our language, heat and flavour rise through all our veins and nerves.”
 
 In this, they put more pressure than necessary on the “ச்” in “பற்றிச்”. While speaking they unnecessarily insert the “ச்” in “சொல்ல வேண்டுமென்றுச் சொன்னால்”. They pronounce “நாடி நரம்பு” as “நாடி நறம்பு”, gritting their teeth, and heavily stress “நறம்புகளில்”. All these make for defective speeches.
 
@@ -40,7 +40,7 @@ I want to mention an amusing incident. It was in 1957, when I had won the Kulith
 
 <!-- Tamil source: scan 47 / printed 45 -->
 
-“Take the D.M.K.! Take what they say! For example, take Thiruvalluvar.”
+“Take the D.M.K.! Take what they say! For example, take ‘திருவல்லுவர்’.”
 
 He kept speaking like this! I immediately interrupted: “Honourable Chair! A point of order!” The Speaker then was Dr. Krishnarao—a golden-hearted man! He spoke childlike Tamil. “What point of order?” he asked.
 
@@ -50,6 +50,6 @@ I asked this and sat down. At once Speaker Krishnarao looked at the member and w
 
 Tamil's distinctive “ழ” sound too suffers terribly in the mouths of some speakers!
 
-They even pronounce Tamil as “Tamizh” incorrectly, like “Tamish”! Intending to say “வாழு! வாழவிடு”, they say “வாலை! வாலைவிடு”.
+They even pronounce “Tamil” as “Tamish”! Intending to say “வாழு! வாழவிடு”, they say “வாலை! வாலைவிடு”.
 
-As the saying goes, “Drawing comes from practice of the hand—good Tamil from practice of the tongue.” With effort, such faulty pronunciation can be removed. Those who wish to earn a name as speakers must pay special attention to pronunciation.
+As the saying goes, “Drawing comes from practice of the hand—Senthamizh from practice of the tongue.” With effort, such faulty pronunciation can be removed. Those who wish to earn a name as speakers must pay special attention to pronunciation.
