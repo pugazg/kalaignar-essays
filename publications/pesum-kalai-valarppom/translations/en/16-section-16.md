@@ -8,7 +8,7 @@ source_tamil_blob_sha: "1ab092b3b7bcdc0efd23f08e49799e7c3fda8d5f"
 source_scan_pages: "67-70"
 source_printed_pages: "65-68"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -16,9 +16,9 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 67 / printed 65 -->
 
-However many incidents one may cite, however much one may describe the ways in which many speakers have planted the flag of fame—those who grow as speakers grow by forming a distinct style of their own.
+However many incidents we cite, however many speakers we describe as having planted the flag of fame—those who grow as speakers grow by shaping a distinct style of their own.
 
-This article was written only with the good intention that it might be of some use to the success of their platform speaking!
+This article has been written with just one good intention—that it may be of some use to the success of their platform speaking!
 
 As soon as I began writing this short series of articles, my dear friend Kanniyur Farooq, out of great enthusiasm, compiled and wrote down the views expressed by various foreign scholars about the art of speaking and sent them to me.
 
@@ -93,4 +93,4 @@ capable of defeating that word.”
 
 Valluvar states categorically that we must know that no other word can defeat our word—and, after examining and knowing this, expand our idea only with the word we have carefully chosen.
 
-That is why he praises “the possession of the excellence called tongue-excellence”; he extols the excellence called eloquence as a kind of wealth.
+That is why he praises “the possession of the excellence called tongue-excellence”; he celebrates eloquence itself as a kind of wealth.
