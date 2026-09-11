@@ -21,6 +21,7 @@ Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover
   - verified — **13**
   - needs-review — **2**
   - blocked — **0**
+  - historical-glyph corrections — **1** (scan 13: `பொற்சுரங்கமென்டாளோ` → `பொற்சுரங்கமென்றாளோ`, historical `றா`)
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED**
 
