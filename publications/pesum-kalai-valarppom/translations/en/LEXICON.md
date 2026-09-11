@@ -253,7 +253,7 @@ Source-page comments **4/4**; quoted Anna material translated only from frozen T
 | `பேராசிரியர் அன்பழகனார்` | `Professor Anbazhagan` | **T4 approved** |
 | `கருணாநிதி` | `Karunanidhi` | **T4 approved** |
 | `கருணை—நிதி / அருட் கருவலம் / அருட்செல்வம்` | `Karunai—nidhi / treasury of grace / wealth of grace` | **T4 approved** |
-| `திராவிடர் இயக்கம்` | `Dravidian movement` | **T4 approved** |
+| `திராவிடர் இயக்கம்` | `Dravidar movement` | **E6 standardized; source-bearing** |
 | `அன்பழகி` | `Anbazhagi` | **T4 approved** |
 | `அப்துர் ரகுமான்` | `Abdul Rahman` | **T4 approved** |
 | source Islamic-name list | `Shah Jahan, Jahangir, Iqbal / Nur Jahan, Mumtaz, Khadija` | **T4 approved** |
@@ -495,6 +495,34 @@ T4 body correction: `Tamil principles` → **`the Tamil way`** for `தமிழ
 
 Source age **46**, age **10** starting point, **1962** South Chennai contest and all party/movement sequence claims remain exactly as frozen-source claims; no external reconciliation was introduced. Source-page comments **4/4**; unresolved T4 issues **0**.
 
+## E6 — publication-wide consistency decisions
+
+Cross-article review of all **19/19** verified English sections classified apparent variation as required by the E6 discipline.
+
+### Corrections required
+
+1. **Section 6 — speaker name continuity**
+   - frozen Tamil uses `நன்னிலம் நடராசன்`, later `நடராசனை`, and direct address `நடராசா`;
+   - one English attribution had regressed to `Natarajan`;
+   - corrected to **`Natarasan`**;
+   - T5 blob `80c33bcbbcb755d75e0f2fb467eca16e67e3264c` → E6 release-candidate blob **`69d999d2c019ca0d172b46148167f69c4da510c8`**.
+
+2. **Section 9 / Section 19 — `திராவிடர் இயக்கம்`**
+   - the same source term `திராவிடர் இயக்கம்` appeared as `Dravidian movement` in Section 9 and `Dravidar movement` in Section 19;
+   - no contextual/source-witness distinction justified the difference;
+   - standardized to source-bearing **`Dravidar movement`**;
+   - Section 9 T5 blob `7ef1627c25b1f040270c9cbe11a989ee17fa9eef` → E6 release-candidate blob **`765358f064a48e3bbd7d83291b4cfdd568140836`**.
+
+### Deliberate contextual/source-witness differences retained
+
+- `Periyar`, `Thanthai Periyar` and other source epithets remain different where the Tamil itself differs.
+- `Arignar Anna`, plain `Anna` and `Perarignar Anna` remain source-sensitive rather than homogenised.
+- `Purasawalkam` / `Purasai`, `M.G.R.` / `M. G. Ramachandran`, and generic `Kazhagam` / explicit party names remain as supplied by their immediate source wording.
+- `Kural` / `Tirukkural` treatment remains contextual to the source sentence rather than mechanically unified.
+- Source-bearing colloquialisms, puns, pronunciation errors and anomalies remain intentionally non-normalized.
+
+E6 terminology / source-witness inconsistencies after correction: **0**.
+
 ## Current count
 
 - permanent repository-wide lexical decisions: **1**;
@@ -518,4 +546,6 @@ Source age **46**, age **10** starting point, **1962** South Chennai contest and
 - Section 17 T4-approved decisions: **14**;
 - Section 18 T4-approved decisions: **22**;
 - Section 19 T4-approved decisions: **16**;
-- unresolved terminology / quotation / citation issues in Sections 1–19: **0**.
+- unresolved terminology / quotation / citation issues in Sections 1–19: **0**;
+- E6 cross-article body corrections: **2**;
+- unresolved E6 consistency issues: **0**.
