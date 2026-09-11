@@ -9,7 +9,7 @@ This is the **single authoritative project handover**.
 ## Repository state
 
 Publications **1–10 are RELEASE COMPLETE / FROZEN**.  
-Publication 11 **`பேசும் கலை வளர்ப்போம்` is ACTIVE — Tamil FROZEN; 19/19 English articles individually VERIFIED; publication-wide English release review PENDING**.
+Publication 11 **`பேசும் கலை வளர்ப்போம்` is ACTIVE — Tamil FROZEN; English translation COMPLETE; E6 publication-wide consistency PASS; E7 release closeout PENDING**.
 
 Do not reopen Publications 1–10 from stale prompts. Do not reopen Publication 11 Tamil without genuinely new source evidence. Source PDFs are never committed.
 
@@ -62,7 +62,10 @@ Structural authority: scans **3–82 = printed pp.1–80**; source-numbered sect
 - verified English articles — **19/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**;
-- publication-wide English consistency / release review — **PENDING**.
+- E6 publication-wide English consistency review — **COMPLETE / PASS**;
+- E6 body corrections — **2**;
+- English translation — **COMPLETE**;
+- E7 English release closeout — **PENDING**.
 
 E0/T0 baseline commit: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**.
 
@@ -176,10 +179,10 @@ Section 4 non-regression points:
 | Section | Frozen Tamil blob | Final verified English blob | T2 / T3 / T4 corrections | T4-approved decisions | Page comments |
 |---:|---|---|---|---:|---:|
 | 5 | `7fbb055e1f7f2630d39f5a3e203de5e2547b93b9` | **`be408840f6e92913a003831b0ce6d4469ce7c52a`** | **2 / 6 / 0** | 12 | 5/5 |
-| 6 | `7303356861196c1d98951c651c38c42b4d07ac90` | **`80c33bcbbcb755d75e0f2fb467eca16e67e3264c`** | **3 / 6 / 0** | 10 | 4/4 |
+| 6 | `7303356861196c1d98951c651c38c42b4d07ac90` | **`69d999d2c019ca0d172b46148167f69c4da510c8`** | **3 / 6 / 0** | 10 | 4/4 |
 | 7 | `722e66535b9c1503f574e0adf8362e6b2c020653` | **`bff09511f02948f1bc8bc5739425fdde29a27b98`** | **3 / 5 / 1** | 16 | 5/5 |
 | 8 | `1bfc1752ccc8217e14fe527cd49ab0362d4484a0` | **`2bdca622cf08295f3a41309168098d5c4459aebb`** | **4 / 5 / 0** | 16 | 4/4 |
-| 9 | `d0e18d25b0e3ae4a8585d8fa117d07f118dabf5c` | **`7ef1627c25b1f040270c9cbe11a989ee17fa9eef`** | **1 / 5 / 0** | 15 | 3/3 |
+| 9 | `d0e18d25b0e3ae4a8585d8fa117d07f118dabf5c` | **`765358f064a48e3bbd7d83291b4cfdd568140836`** | **1 / 5 / 0** | 15 | 3/3 |
 
 All five sections have **T5 body corrections 0 / status-only verification**, unresolved English issues **0**, and frozen Tamil edits **0**.
 
@@ -231,30 +234,48 @@ Sections 15–19 non-regression points:
 - Section 18: `mannerism`, Arignar Anna, Thanthai Periyar, Thalapathi Alagirisami, Silambu Selvar Ma. Po. Si., Navalar Nedunchezhiyan, Kundrakudi Adigalar, **the Tamil way**, `Ada saniyane!`, Muthamizh Kaavalar Ki. Aa. Pe. Viswanatham, Pasumpon Muthuramalinga Thevar, Quaid-e-Millath and Abdul Samad;
 - Section 19: source age **46**, Dravidar movement / Dravidar Kazhagam / Viduthalai / Veeramani, Kudi Arasu / Pagutharivu, Perarignar Anna, E. V. K. Sampath / Sollin Selvar, Tamil National Party, Nanjilar / Nanjil K. Manoharan, `crisp speech like an electric flash`, E. V. P. Aasai Thambi / Vaaliba Periyar, N. V. Natarasanar, and the approved publication title **Let Us Develop the Art of Speaking**.
 
-All **19/19** English articles are now individually **T0–T5 VERIFIED**. This does **not** yet mean the publication is English-translation complete: the mandatory publication-wide cross-article consistency / release review remains.
+All **19/19** English articles are individually **T0–T5 VERIFIED**. E6 publication-wide consistency is **COMPLETE / PASS**, so the publication is now **English-translation complete**. It remains ACTIVE until the separate E7 release closeout moves it to RELEASE COMPLETE / FROZEN.
+
+### E6 — publication-wide English consistency review — COMPLETE / PASS
+
+Full 19-article review against frozen Tamil metadata, the living lexicon and translation policy found **2 correction-required cases**:
+
+1. Section 6: `Natarajan replied` → **`Natarasan replied`**, matching frozen `நன்னிலம் நடராசன் / நடராசனை / நடராசா`. Current release-candidate blob: **`69d999d2c019ca0d172b46148167f69c4da510c8`**.
+2. Section 9: `Dravidian movement` → **`Dravidar movement`** for recurring source `திராவிடர் இயக்கம்`, aligning the same source term with Section 19. Current release-candidate blob: **`765358f064a48e3bbd7d83291b4cfdd568140836`**.
+
+Deliberate source-sensitive variants such as `Periyar / Thanthai Periyar`, `Anna / Arignar Anna / Perarignar Anna`, `Purasawalkam / Purasai`, `M.G.R. / M. G. Ramachandran`, generic `Kazhagam` versus explicit party names, and contextual `Kural / Tirukkural` were reviewed and retained.
+
+E6 checks:
+- recurring names/epithets — **PASS after 1 name correction**;
+- movement/ideological vocabulary — **PASS after 1 terminology correction**;
+- quotation/verse handling — **PASS**;
+- numeric section identity 1–19 — **PASS**;
+- tone/rhetorical-force consistency — **PASS**;
+- protected puns/transliterations/anomalies — **PASS**;
+- source-page comments — **PASS across 19/19**;
+- academic distancing / external wording regressions — **0**;
+- unresolved E6 issues — **0**;
+- frozen Tamil edits — **0**.
 
 Permanent translation rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**, only where the exact Tamil form occurs. The publication uses numeric section labels only; do not invent descriptive English section titles.
 
-## Exact next activity — publication-wide English cross-article consistency / release review
+## Exact next activity — E7 English release closeout
 
-All **19/19** numbered English articles are individually **T0–T5 VERIFIED**.
+E6 is **COMPLETE / PASS** and the English translation is **COMPLETE**. Publication 11 remains ACTIVE only because E7 closeout is pending.
 
-Perform the publication-level English release gate required by `ESSAY_TRANSLATION_GUIDE.md`:
+For E7:
 
-1. re-fetch all 19 verified English article files and their frozen Tamil blob metadata;
-2. confirm every English article remains `translation_status: "verified"`;
-3. check recurring names and epithets across sections;
-4. check ideological / movement vocabulary for drift;
-5. check repeated phrases, slogans and source-bearing forms;
-6. check quotation treatment and ensure no published/external wording was silently imported;
-7. check numeric title style remains 1–19 with no invented descriptive titles;
-8. check tone and rhetorical-force consistency across early and late sections;
-9. check source-bearing puns/transliterations and documented anomalies are preserved consistently;
-10. verify every expected source-page comment is present and ordered;
-11. check no accidental smoothing or normalization was introduced in later batches;
-12. reconcile `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, audit and this handover.
+1. re-fetch live `main`;
+2. revalidate all **19/19** English article files remain `translation_status: "verified"`;
+3. revalidate their current release-candidate blob SHAs, especially:
+   - Section 6 — **`69d999d2c019ca0d172b46148167f69c4da510c8`**;
+   - Section 9 — **`765358f064a48e3bbd7d83291b4cfdd568140836`**;
+4. confirm all frozen Tamil article blobs and the 82-page Tamil archival layer remain unchanged;
+5. confirm `LEXICON.md`, `TRANSLATION_REVIEW.md`, `translations/en/README.md`, `TRANSLATION_PLAN.md`, publication `README.md`, `audit.md`, and root `HANDOVER.md` agree on E6 PASS / 19 of 19 / 0 unresolved;
+6. perform final release/freeze bookkeeping only—no new translation editing unless a genuine closeout defect is found;
+7. if clean, mark Publication 11 **RELEASE COMPLETE / FROZEN** and advance the root handover to the next repository activity.
 
-Frozen Tamil must remain untouched. Only after this release review passes may Publication 11 be described as **English-translation complete** and moved toward release/freeze closure.
+Do not modify frozen Tamil merely for closeout.
 
 ---
 
