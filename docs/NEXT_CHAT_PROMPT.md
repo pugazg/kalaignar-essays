@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 46–50
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 51–55
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -27,23 +27,23 @@ Do not use Tamil Digital Library, Wikisource, OCR text, alternate editions, or w
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 45/224 canonical records**
-  - verified — **42**
+- P2 — **IN PROGRESS — 50/224 canonical records**
+  - verified — **47**
   - needs-review — **3**
   - blocked — **0**
   - historical-glyph corrections — **1**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED**
 
-Latest P2 batch — scans **41–45** — is complete:
+Latest P2 batch — scans **46–50** — is complete:
 
 - verified — **5/5**
-- printed folios — **38–42**
+- printed folios — **43–47**
 - new holds — **0**
 - historical-glyph correction count — **unchanged at 1**
-- scan 43 historical identities include `படித்தானா?` / `சென்றாரா?` / `அவனை` / `சேலைகளைத்`
-- unusual source forms `தறிந்து`, `கொண்டாட்ட முடன்`, `ஸ்திரீலோலனைக்`, `துணிவுடை நெஞ்சு`, and `ஆசி தேவை` were preserved
-- scan 45 ends inside an open quotation at the physical fragment `காய`; read scan 46 directly for continuation and do not guess the completion.
+- scan 45 `காய` + scan 46 `வதேன்` is directly source-resolved as physical continuation `காய்வதேன்`
+- unusual source forms `பொறுமையை`, `பய முறுத்தி`, `ஒதுங்கற`, `கெளதமர்`, `பரந்தாமன்`, and `இறையாகக்கப்பட்டது` were preserved
+- scan 50 ends at `பாதை தவறியதின்`; read scan 51 directly for continuation and do not guess the completion.
 
 Open P2 holds remain:
 
@@ -94,9 +94,9 @@ Read completely:
 9. `P1_SOURCE_STRUCTURE_REVIEW.md`
 10. `audit.md`
 
-## Exact next activity — P2 scans 46–50
+## Exact next activity — P2 scans 51–55
 
-Process **exactly scans 46–50 as one batch** from the attached PDF.
+Process **exactly scans 51–55 as one batch** from the attached PDF.
 
 For every text-bearing page:
 
@@ -107,12 +107,12 @@ For every text-bearing page:
 - separate non-print physical-copy marks;
 - never fill uncertainty from context.
 
-After scans 46–50:
+After scans 51–55:
 
 - synchronize all dependent controls;
 - commit immediately;
 - report verified / needs-review / hold counts;
 - set the next five-scan batch from live durable state;
-- stop before scan 51 unless explicitly asked to continue.
+- stop before scan 56 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural evidence appears.

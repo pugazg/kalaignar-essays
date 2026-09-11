@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 45/224 records; 42 verified / 3 needs-review** |
+| P2 | **IN PROGRESS — 50/224 records; 47 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -79,6 +79,7 @@ Minimum explicit family set:
 | 007 | 31–35 | 5 | 0 | 0 |
 | 008 | 36–40 | 5 | 0 | 0 |
 | 009 | 41–45 | 5 | 0 | 0 |
+| 010 | 46–50 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -145,10 +146,32 @@ Batch 009 checks:
 - page-boundary fragments were preserved: scan 40 `கற்றுக்` → scan 41 `கொண்டால்`; scan 42 `ஈர` → scan 43 `மாக்கிக்`; scan 43 `பாடமாக` → scan 44 `காதீர்கள்”`; scan 44 `கண்ணதாச` → scan 45 `னும் வந்திருந்தார்.`.
 - scan 45 ends inside an open quotation at physical fragment `காய`; scan 46 remains unopened.
 
-## P2 cumulative totals through scan 45
+### Batch 010 — scans 46–50
 
-- canonical page records — **45/224**
-- verified — **42**
+| Scan | Printed folio | Record | Status | Open issue |
+|---:|:---:|---|---|---|
+| 46 | 43 | `0046-murasu.md` | verified | none |
+| 47 | 44 | `0047-murasu.md` | verified | none |
+| 48 | 45 | `0048-murasu.md` | verified | none |
+| 49 | 46 | `0049-murasu.md` | verified | none |
+| 50 | 47 | `0050-murasu.md` | verified | none |
+
+Batch 010 checks:
+
+- direct native/enlarged source-pixel comparison — **PASS**
+- historical 13-family check — **performed on all five pages**
+- guessed readings — **0**
+- new unresolved printed-text holds — **0**
+- cumulative historical-glyph corrections — **1**
+- scan 45 `காய` → scan 46 `வதேன்` was source-resolved as `காய்வதேன்`; same-line `பாய்வதேன்` was used as a glyph comparison, not as contextual substitution.
+- source-visible unusual wording/spacing was preserved without context correction.
+- page-boundary fragments were preserved: scan 46 `தக்கோர் சிலர்` → scan 47 `கொண்ட ஒரு குழுவை`; scan 47 `ஆரிய மதப்` → scan 48 `பாதுகாவலர்`; scan 48 `சொல்லிவிட்டு` → scan 49 `ஒதுங்கற வரையிலே`.
+- scan 50 ends at `பாதை தவறியதின்`; scan 51 remains unopened.
+
+## P2 cumulative totals through scan 50
+
+- canonical page records — **50/224**
+- verified — **47**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -172,4 +195,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 46–50.**
+**P2 scans 51–55.**

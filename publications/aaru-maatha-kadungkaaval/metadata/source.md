@@ -101,24 +101,25 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 45/224 canonical records; 42 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 50/224 canonical records; 47 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 45
+## P2 source use through scan 50
 
-Canonical records exist for scans **1–45**.
+Canonical records exist for scans **1–50**.
 
-Latest batch scans 41–45:
+Latest batch scans 46–50:
 
-- printed folios — **38–42**
+- printed folios — **43–47**
 - verified — **5/5**
 - new holds — **0**
 - guessed readings — **0**
 - cumulative historical-glyph corrections — **1**
-- scan 43 historical identities include `படித்தானா?` (`னா`), `சென்றாரா?` (`றா`), `அவனை` (`னை`), and `சேலைகளைத்` (`லை / ளை`).
-- scan 45 ends inside an open quotation at physical fragment `காய`; continuation belongs to scan 46 and is not inferred.
+- scan 45 `காய` + scan 46 `வதேன்` is direct physical continuation `காய்வதேன்`.
+- unusual source forms `பொறுமையை`, `பய முறுத்தி`, `ஒதுங்கற`, `கெளதமர்`, `பரந்தாமன்`, and `இறையாகக்கப்பட்டது` were preserved.
+- scan 50 ends at `பாதை தவறியதின்`; continuation belongs to scan 51 and is not inferred.
 
 Durable source-artifact anomaly:
 
@@ -134,4 +135,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 46–50.**
+**P2 scans 51–55.**
