@@ -268,17 +268,134 @@ Source-page comments **4/4**; quoted Anna material translated only from frozen T
 
 Source-page comments **3/3**; dialect strings are retained without outside normalization or explanation; unresolved T4 issues **0**.
 
+## Section 10 — T4-audited decisions
+
+| Tamil / source form | Preferred English / treatment | Status |
+|---|---|---|
+| `இடையினம்` | retain `idaiyinam` as the Tamil sound class | **T4 approved** |
+| `ல / ள` | preserve the Tamil letters where the pronunciation contrast itself is the point | **T4 approved** |
+| `ன / ண` | preserve the Tamil letters where the pronunciation contrast itself is the point | **T4 approved** |
+| `அபஸ்வரம்` | `off-note` | **T4 approved** |
+| `குசேலன்` | `Kuselan` | **T4 approved** |
+| `அவல் / அவள்` | preserve the Tamil forms so the sound-driven distortion remains visible | **T4 approved** |
+| `அழுத்தம் திருத்தமாக` | `with force and precision` | **T4 approved** |
+| `குளித்தலை` | `Kulithalai` | **T4 approved** |
+| `அறிஞர் அண்ணா` | `Arignar Anna` | **T4 approved / prior form reused** |
+| source English `point of order` | `point of order` | **T4 approved** |
+| `டாக்டர் கிருஷ்ணாராவ்` | `Dr. Krishnarao` | **T4 approved** |
+| source mispronunciation `திருவல்லுவர்` | retain the Tamil form inside the English quotation | **T4 approved** |
+| quoted `கொள்ளுங்கள்` pronunciation joke | `kollungal` in the English setup; preserve the violence joke without invented explanation | **T4 approved** |
+| distinctive `ழ` | preserve the Tamil letter and source pronunciation examples | **T4 approved** |
+| `செந்தமிழும் நாப்பழக்கம்` | `Senthamizh from practice of the tongue` | **T4 approved** |
+
+Source-page comments **3/3**; unresolved T4 issues **0**.
+
+## Section 11 — T4-audited decisions
+
+| Tamil / source form | Preferred English / treatment | Status |
+|---|---|---|
+| `பேராசிரியர் அ.கி. பரந்தாமனார்` | `Professor A. Ki. Paranthamanar` | **T4 approved** |
+| `தமிழ்த்தென்றல் திரு. வி. க.` | `Tamil-thendral Thiru. Vi. Ka.` | **T4 approved** |
+| `முத்தொழில்` | `threefold function` | **T4 approved** |
+| `நாகர்கோயில்` | `Nagercoil` | **T4 approved** |
+| `நாஞ்சிலார்` | `Nanjilar` | **T4 approved** |
+| `தஞ்சை` | `Thanjai` | **T4 approved / prior Section 9 source form reused** |
+| `கத்தாழைக் கிழங்கு` | `kathaalai tubers` | **T4 approved; source-bearing, no external plant identification** |
+| `ஆசைத்தம்பி` | `Aasai Thambi` | **T4 approved** |
+| `அயோத்தியாபுரி / அஸ்தினாபுரி / மிதிலாபுரி` | `Ayodhyapuri / Hastinapura / Mithilapuri` | **T4 approved** |
+| `இராமாயணம்` | `Ramayana` | **T4 approved** |
+| `அடிசன்` | `Addison` | **T4 approved** |
+| source English `I conceive` | retain exactly; explain only the two meanings given by the Tamil | **T4 approved** |
+| `டிசரலி` | `Disraeli` | **T4 approved** |
+| `பாராளுமன்றம்` in the Disraeli anecdote | `Parliament` | **T4 approved** |
+
+Source-page comments **4/4**; quoted material remains source-based; unresolved T4 issues **0**.
+
+## Section 12 — T4-audited decisions
+
+| Tamil / source form | Preferred English / treatment | Status |
+|---|---|---|
+| `வள்ளுவர்` | `Valluvar` | **T4 approved / prior form reused** |
+| `அரங்கின்றி வட்டாடுதல்` | `playing dice without a board` | **T4 approved** |
+| `திருக்குறள்` | `Tirukkural` | **T4 approved** |
+| `பாமர மக்கள்` | `ordinary people` | **T4 approved** |
+| `ஜார் மன்னன்` | `the Tsar` | **T4 approved** |
+| `லெனின்` | `Lenin` | **T4 approved** |
+| `ஹிட்லர் / முசோலினி / சர்ச்சில்` | `Hitler / Mussolini / Churchill` | **T4 approved** |
+| `அதியமான்` | `Adhiyaman` | **T4 approved** |
+| `ஒளவை` | `Avvai` | **T4 approved** |
+| `அரசு மரம்` | `arasu tree` | **T4 approved; source-bearing, no outside botanical expansion** |
+| `காரல் மார்க்ஸ் / மூலதனம் (கேபிடல்)` | `Karl Marx / Mooladhanam (Capital)` | **T4 approved** |
+| `புரட்சிக் கவிஞர்` | `Revolutionary Poet` | **T4 approved; source epithet only** |
+| `ஜீவா` | `Jeeva` | **T4 approved** |
+| `கட்டுபடியான விலை` | `remunerative price` | **T4 approved** |
+| Caesar / Brutus / Socrates / Shakespeare / Lincoln example | preserve only the source's classroom-style references and quoted wording | **T4 approved** |
+
+Source-page comments **5/5**; quoted verse translated only from frozen Tamil; unresolved T4 issues **0**.
+
+## Section 13 — T4-audited decisions
+
+| Tamil / source form | Preferred English / treatment | Status |
+|---|---|---|
+| `மாநில சுயாட்சி` | `State autonomy` | **T4 approved** |
+| `மத்திய அரசுப் பட்டியல் / மாநில அரசுப் பட்டியல் / பொதுப் பட்டியல்` | `Union List / State List / Concurrent List` | **T4 approved** |
+| `அம்பேத்கார்` | `Ambedkar` | **T4 approved** |
+| `தலைகீழ் மாற்றம்` | `turned upside down and changed` | **T4 approved; preserve source force** |
+| `இராசமன்னார் குழு` | `Rajamannar Committee` | **T4 approved** |
+| `தி.மு.க.` | `D.M.K.` | **T4 approved** |
+| `பண்டித நேரு` | `Pandit Nehru` | **T4 approved** |
+| `மயிலாப்பூர் மாங்கொல்லை` | `Mylapore Maangollai` | **T4 approved** |
+| `அண்ணாநகர் சாந்தி காலனி` | `Anna Nagar Shanthi Colony` | **T4 approved** |
+| `புரசை வெள்ளாளர் தெரு` | `Purasai Vellalar Street` | **T4 approved** |
+| `எம்டன்` | `Emden` | **T4 approved** |
+| `சென்னை உயர்நீதிமன்றம்` | `Chennai High Court` | **T4 approved** |
+| source chronology `எழுபது வயது / ஏழு வயது / பிறந்த ஆண்டு 1917` | preserve exactly as frozen; do not silently reconcile | **T4 approved source anomaly** |
+| `மாணவர் பேரவை` | `Students' Council` | **T4 approved** |
+| `மது பார்மிட்` | `liquor permit` | **T4 approved** |
+| `எம்.ஜி. இராமச்சந்திரன்` | `M. G. Ramachandran` | **T4 approved** |
+
+Source-page comments **4/4**; source political/legal claims are translated as Kalaignar's claims and are not externally corrected; unresolved T4 issues **0**.
+
+## Section 14 — T4-audited decisions
+
+| Tamil / source form | Preferred English / treatment | Status |
+|---|---|---|
+| `கதா காலட்சேபம்` | `kathakalakshepam` | **T4 approved** |
+| `கிருபானந்த வாரியார்` | `Kripananda Variyar` | **T4 approved** |
+| `புலவர் கீரன்` | `Pulavar Keeran` | **T4 approved** |
+| `இராவண காவியம்` | `Ravana Kaviyam` | **T4 approved** |
+| `புலவர் குழந்தை` | `Pulavar Kuzhanthai` | **T4 approved** |
+| `சிலம்பொலி செல்லப்பன்` | `Silamboli Chellappan` | **T4 approved** |
+| `சிலம்புச் செல்வர் ம. பொ. சி.` | `Silambu Selvar Ma. Po. Si.` | **T4 approved** |
+| `சிலப்பதிகாரம்` | `Silappathikaram` | **T4 approved** |
+| `அண்ணன் ஜீவானந்தம்` | `Annan Jeevanandam` | **T4 approved** |
+| `கம்பன்` | `Kamban` | **T4 approved** |
+| `கம்பராமாயணம்` | `Kamba Ramayanam` | **T4 approved** |
+| `நாவலர் சோமசுந்தர பாரதியார்` | `Navalar Somasundara Bharathiar` | **T4 approved** |
+| `சேதுப்பிள்ளை` | `Sethupillai` | **T4 approved** |
+| `கடுமையாக—காரசாரமாக` versus `தாற்குறையாக—ஆபாசமாக` | preserve the source distinction between harsh/biting speech and crude/obscene speech | **T4 approved** |
+| `வசவு` | `abuse` | **T4 approved** |
+| `ஓடம் போக்கி ஆறு` | `Odam Pokki river` | **T4 approved** |
+| `கடுகளவாவது` | `even by a mustard-seed's measure` | **T4 approved** |
+
+T4 body correction: `Silambu Selvar M. P. Si.` → **`Silambu Selvar Ma. Po. Si.`**. Source-page comments **5/5**; unresolved T4 issues **0**.
+
 ## Current count
 
 - permanent repository-wide lexical decisions: **1**;
 - publication-level structural/rhetorical rules: **4**;
-- Section 1 T4-approved article-derived decisions: **16**;
-- Section 2 T4-approved article-derived decisions: **15**;
-- Section 3 T4-approved article-derived decisions: **17**;
-- Section 4 T4-approved article-derived decisions: **22**;
-- Section 5 T4-approved article-derived decisions: **12**;
-- Section 6 T4-approved article-derived decisions: **10**;
-- Section 7 T4-approved article-derived decisions: **16**;
-- Section 8 T4-approved article-derived decisions: **16**;
-- Section 9 T4-approved article-derived decisions: **15**;
-- unresolved terminology / quotation / citation issues in Sections 1–9: **0**.
+- Section 1 T4-approved decisions: **16**;
+- Section 2 T4-approved decisions: **15**;
+- Section 3 T4-approved decisions: **17**;
+- Section 4 T4-approved decisions: **22**;
+- Section 5 T4-approved decisions: **12**;
+- Section 6 T4-approved decisions: **10**;
+- Section 7 T4-approved decisions: **16**;
+- Section 8 T4-approved decisions: **16**;
+- Section 9 T4-approved decisions: **15**;
+- Section 10 T4-approved decisions: **15**;
+- Section 11 T4-approved decisions: **14**;
+- Section 12 T4-approved decisions: **15**;
+- Section 13 T4-approved decisions: **16**;
+- Section 14 T4-approved decisions: **17**;
+- unresolved terminology / quotation / citation issues in Sections 1–14: **0**.
