@@ -31,9 +31,9 @@ The prior preview-derived P1 reconnaissance and 150-page structural sweep have b
 
 Before P0 can close, the workflow must directly inspect the actual uploaded PDF bytes and record:
 
-- exact byte size;
-- SHA-256;
-- structural PDF page count;
+- exact byte size — **PASS: 282020019 bytes from re-uploaded raw-file metadata**;
+- SHA-256 — **PENDING**;
+- structural PDF page count — **PENDING direct verification**;
 - direct renderability of the full physical file.
 
 ## Historical glyph gate
@@ -46,4 +46,4 @@ English translation — **NOT STARTED / BLOCKED until Tamil P0–P5 is complete 
 
 ## Exact next activity
 
-Direct physical-file inspection of the uploaded PDF. Close P0 only from byte-level/structural evidence, then start canonical P1.
+Finish direct physical-file inspection of the uploaded PDF: compute SHA-256 and structural page count. Raw-file size is already **282020019 bytes**. Close P0 only when the remaining two checks pass, then start canonical P1.
