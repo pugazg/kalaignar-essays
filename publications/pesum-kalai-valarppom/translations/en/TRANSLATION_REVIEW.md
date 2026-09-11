@@ -253,7 +253,27 @@ T4 final checks:
 - external/published quotation wording imported — **No**;
 - unresolved T4 issues — **0**.
 
-T5 — **pending**.
+### T5 article verification
+
+**COMPLETE / PASS.**
+
+Final reconciliation:
+- frozen Tamil blob — **`b938be21e198d69548e45ae96cb0e9802b8d7079`** — exact match;
+- pre-T5/post-T4 English blob — **`aae55dffdf3d58d0b268c5ed2721f76d88451037`** — exact match;
+- T0/T1/T2/T3/T4 — **PASS**;
+- source span scans **22–27 / printed pp.20–25** — **PASS**;
+- source-page comments — **6/6 present and ordered**;
+- T2/T3/T4 correction counts — **4 / 8 / 1**;
+- Section 4 T4-approved decisions — **22 / synchronized**;
+- unresolved Section 4 English issues — **0**;
+- frozen Tamil edits — **0**;
+- source/status regression — **0**.
+
+T5 made **0 English body corrections**. The only T5 article-file change was `translation_status: "voice-reviewed"` → **`translation_status: "verified"`**.
+
+Final verified Section 4 English blob: **`9a236986ecf612f0da8de3179c8d8acd9eac3183`**.
+
+Section 4 sequence **T0–T5 COMPLETE / PASS**.
 
 ---
 
@@ -267,12 +287,12 @@ T5 — **pending**.
 | T2 bilingual fidelity | **4/19** |
 | T3 Kalaignar voice | **4/19** |
 | T4 terminology / quotation / citation | **4/19** |
-| T5 section verification | **3/19** |
-| Verified English articles | **3/19** |
+| T5 section verification | **4/19** |
+| Verified English articles | **4/19** |
 | English body files | **4/19** |
 
 Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0**.
 
 ## Exact next activity
 
-**E1 — Section 4 / T5 article verification.** Revalidate frozen Tamil blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`** and post-T4 English blob **`aae55dffdf3d58d0b268c5ed2721f76d88451037`**; reconcile T0–T4 provenance, metadata, scans 22–27 / printed pp.20–25, all **6/6** page comments, T2/T3/T4 correction counts **4/8/1**, all **22** T4-approved decisions and unresolved counts. If clean, promote only `translation_status` to `verified`. Do not start Section 5 in the same activity.
+**E1 — Section 5 / T1 close draft.** Re-fetch frozen Tamil `articles/05-section-05.md` and require blob **`7fbb055e1f7f2630d39f5a3e203de5e2547b93b9`**, scans **27–31 / printed pp.25–29**. Translate the complete numbered Section 5 from the frozen Tamil authority, preserve every source-page comment and rhetorical action, record genuine new T1 working decisions, synchronize controls, and stop before Section 5 T2.
