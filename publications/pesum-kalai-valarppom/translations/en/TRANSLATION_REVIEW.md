@@ -227,7 +227,33 @@ T3 corrections:
 
 T3 final checks: T2 meaning **preserved**; rhetorical questions/exclamations **PASS**; pun chain **PASS**; Neelamegam humour/defiance **PASS**; actor anecdote imagery **PASS**; Anna / kachcheri recollections **PASS**; Tamil lexical-change passage **PASS**; grass-tip / already-ground flour / recorded-tape imagery **PASS**; page comments **6/6**; unresolved T3 issues **0**.
 
-T4 / T5 — **pending**.
+### T4 terminology / quotation / citation audit
+
+**COMPLETE / PASS after 1 English body correction.**
+
+Post-T4 English blob: **`aae55dffdf3d58d0b268c5ed2721f76d88451037`**.  
+`translation_status` remains **voice-reviewed** pending T5.
+
+T4 correction:
+
+- `Tiruchirappalli prison` → **`Trichy prison`** for frozen source `திருச்சி சிறை`; preserves the source’s short place-name form rather than silently expanding it.
+
+T4 final checks:
+
+- Section 4 T4-approved decisions — **22**;
+- original T1 working decisions — **20/20 retained or refined**;
+- T4-emergent explicit decisions — **`Ayya!`** and **`Trichy prison`**;
+- Annamalai / Annadurai / malai / durai / megam / Neelamegam wordplay — **PASS**;
+- `Sabash` — **PASS**;
+- K. K. Neelamegam pages 25/26/27 quotation/source labels — **PASS**;
+- `Annathurai kachcheri`, repeated `kachcheri`, `Namaskaaranga!` — **PASS**;
+- `Agraasanadhipathi → Avai-thalaivar` / `Sriman → Thiruvalar` — **PASS**;
+- Chetpet / Kannadasan / Arangannal / Mullai Sakthi / Kallakudi / Trichy / Manapparai source labels — **PASS**;
+- source-page comments — **6/6**;
+- external/published quotation wording imported — **No**;
+- unresolved T4 issues — **0**.
+
+T5 — **pending**.
 
 ---
 
@@ -240,7 +266,7 @@ T4 / T5 — **pending**.
 | T1 close draft | **4/19** |
 | T2 bilingual fidelity | **4/19** |
 | T3 Kalaignar voice | **4/19** |
-| T4 terminology / quotation / citation | **3/19** |
+| T4 terminology / quotation / citation | **4/19** |
 | T5 section verification | **3/19** |
 | Verified English articles | **3/19** |
 | English body files | **4/19** |
@@ -249,4 +275,4 @@ Unresolved English blockers: **0**. Frozen Tamil edits during English work: **0*
 
 ## Exact next activity
 
-**E1 — Section 4 / T4 terminology / quotation / citation audit.** Re-fetch frozen Tamil blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`** and post-T3 English blob **`6f461abbd058f69b6584dd32fc96a9b062425624`**. Audit all **20** Section 4 working decisions, source names/epithets, the full Annamalai / Annadurai / Neelamegam pun chain, `Sabash`, K. K. Neelamegam’s quotation, `Annathurai kachcheri` / `Namaskaaranga!`, old/new Tamil address forms, dates/places and all **6/6** page comments. Record every T4 correction transparently. Do not start T5 in the same gate.
+**E1 — Section 4 / T5 article verification.** Revalidate frozen Tamil blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`** and post-T4 English blob **`aae55dffdf3d58d0b268c5ed2721f76d88451037`**; reconcile T0–T4 provenance, metadata, scans 22–27 / printed pp.20–25, all **6/6** page comments, T2/T3/T4 correction counts **4/8/1**, all **22** T4-approved decisions and unresolved counts. If clean, promote only `translation_status` to `verified`. Do not start Section 5 in the same activity.
