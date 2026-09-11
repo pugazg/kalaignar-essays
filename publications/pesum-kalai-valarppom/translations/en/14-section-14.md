@@ -8,7 +8,7 @@ source_tamil_blob_sha: "4c611fa7a2b6d91bfa4c767bfdb8c9fcfff8316c"
 source_scan_pages: "59-63"
 source_printed_pages: "57-61"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -30,7 +30,7 @@ Silambu Selvar M. P. Si. achieved success by critically discussing the Silappath
 
 <!-- Tamil source: scan 60 / printed 58 -->
 
-Anna Jeevanandam, who was one of the leaders of the Communist Party, was not merely a volcanic political speaker—he could also pour forth words delightfully for hours on the poetic beauty of Kamban.
+Annan Jeevanandam, who was one of the leaders of the Communist Party, was not merely a volcanic political speaker—he could also pour forth words delightfully for hours on the poetic beauty of Kamban.
 
 The country knows how Arignar Anna's literary scholarship shone when, in the controversy over the Kamba Ramayanam, he engaged in verbal battle with the great scholars Navalar Somasundara Bharathiar and Sethupillai.
 
@@ -42,7 +42,7 @@ Speaking crudely—obscenely—in a disgusting manner is another!
 
 An unavoidable situation may arise in which a speaker has to use harsh words. Someone speaking on a rival party's platform may spread a slander, refuse to take responsibility for proving it, and make it his occupation deliberately to fling dust and abuse at others. When a speaker affected by that, or the political party to which he belongs, replies from the stage,<!-- Tamil source: scan 61 / printed 59 --> strong condemnation may become unavoidable.
 
-In a one-hour speech, such a harsh word of condemnation should last only a second or two. If the whole speech becomes a chain of harsh words, the harsh expression that flashed for an instant like a power cut may itself lose its value.
+In a one-hour speech, such a harsh word of condemnation should last only a second or two. If the whole speech becomes a chain of harsh words, the harsh expression that flashed for an instant like a streak of lightning may itself lose its value.
 
 On political platforms, harsh words may fly like arrows from both sides. But if the whole speech becomes a treasury of harsh words—and a pool of obscenity—the speakers will soon disappear without anyone knowing where they are, and the parties they belong to will lose distinction and stand ineffective.
 
@@ -50,7 +50,7 @@ On the stage, the people's problems must be presented in relation to one another
 
 If, abandoning all this, a speaker climbs onto the stage and spends one portion of the time praising his own party leader and another portion performing an obscene ritual of abuse against rival party leaders, then he can win only the applause of his own party people<!-- Tamil source: scan 62 / printed 60 --> standing near the stage. Such a speech will not win the praise of the general public.
 
-Many who make “abuse” itself their speaking style are also seen frequently jumping from one political party to another. They are opportunists without principle, ideal or any foundation! They live by speech alone. Whether it is their party platform—or a wedding stage at someone's house—or any public event—without caring about the surroundings, they pour out low-grade, obscene words, harsh like extreme fanatics.
+Many who make “abuse” itself their speaking style are also seen frequently jumping from one political party to another. They are opportunists without principle, ideal or any foundation! They live by speech alone. Whether it is their party platform—or a wedding stage at someone's house—or any public event—without caring about the surroundings, they pour out low-grade, obscene words as harsh as those of extreme fanatics.
 
 Wait a few days, and the same speaker is on another stage—in another party! Wait a few weeks more, and the same speaker is in yet another party—on yet another stage! Thus they leap among many parties and wear themselves down shamefully in the estimation of the people.
 
@@ -62,4 +62,4 @@ Just as a mansion is built on a sound, solid foundation, speakers too must build
 
 Whichever political party a speaker belongs to, just as he tries through his speech to seek strength for his party, he must also seek strength for it through his own conduct.
 
-An incident from when I was a fifteen-year-old boy! At a public meeting in Thiruvarur, an elder thundered with pathos and emotion overflowing. The people listened to his speech with rising enthusiasm. Early the next morning, I was walking with friends along the sands of the Odam Pokki river at Thiruvarur. Ahead of us lay a human figure on the sand, clothes dishevelled. We went closer and looked. It was the very same man who had thundered from the stage the previous night. He had drunk heavily and lay rolling on the river sand. Would those who saw that sight respect even by the smallest measure not only him, but also the party for which he had come to speak?
+An incident from when I was a fifteen-year-old boy! At a public meeting in Thiruvarur, an elder thundered with pathos and emotion overflowing. The people listened to his speech with rising enthusiasm. Early the next morning, I was walking with friends along the sands of the Odam Pokki river at Thiruvarur. Ahead of us lay a human figure on the sand, clothes dishevelled. We went closer and looked. It was the very same man who had thundered from the stage the previous night. He had drunk heavily and lay rolling on the river sand. Would those who saw that sight respect, even by a mustard-seed's measure, not only him but also the party for which he had come to speak?
