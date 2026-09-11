@@ -10,7 +10,7 @@ This is the **single authoritative project handover**.
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 35/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 40/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -55,7 +55,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 35/224 records; 32 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 40/224 records; 37 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -189,10 +189,32 @@ Batch 007 result:
 - source-visible unusual forms including `அனிபா`, `சுறுப்புக்கும்`, `இருவருக்கு மிடையே`, `வால்களையும்`, `பர்ஸ் காணும் சார்`, `குழந்தையா`, `புட்டுப் போட்டுக்கொண்டு`, and `தஞ்சைமா நகரம்` were preserved.
 - scan 35 ends at `வேலாயுதம்`; scan 36 is intentionally unopened.
 
+### Batch 008 — scans 36–40
+
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 36 — `pages/0036-murasu.md` — **verified** — printed folio 33
+- scan 37 — `pages/0037-murasu.md` — **verified** — printed folio 34
+- scan 38 — `pages/0038-murasu.md` — **verified** — printed folio 35
+- scan 39 — `pages/0039-murasu.md` — **verified** — printed folio 36
+- scan 40 — `pages/0040-murasu.md` — **verified** — printed folio 37 — `திருச்சியிலே :`
+
+Batch 008 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 1**
+- first-pass historical identities were resolved from source pixels, including scan 36 `தலைவரால்` (`லை`), scan 37 `காளை` (`ளை`), and scan 40 `கலைவர்கள்` (`லை`).
+- source-visible forms including `அதை யொட்டியே`, `கரைகள் இணைக்கும்`, `ரத்தினவேல்கள் மனைகளை`, `திருத்தணிகளிலும்`, `திராவிட மெங்கும்`, and `தரணி யெங்கும்` were preserved.
+- scan 40 ends at `கற்றுக்`; scan 41 is intentionally unopened.
+
 ## Durable P2 totals
 
-- canonical page records — **35/224**
-- verified — **32**
+- canonical page records — **40/224**
+- verified — **37**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -204,9 +226,9 @@ Batch 007 result:
 
 ## Exact next activity
 
-**P2 scans 36–40.**
+**P2 scans 41–45.**
 
-Process exactly scans **36–40** as one five-scan batch from the attached PDF:
+Process exactly scans **41–45** as one five-scan batch from the attached PDF:
 
 - visually transcribe each whole page from source pixels;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
@@ -215,7 +237,7 @@ Process exactly scans **36–40** as one five-scan batch from the attached PDF:
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 41 unless explicitly asked to continue.
+- stop before scan 46 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 

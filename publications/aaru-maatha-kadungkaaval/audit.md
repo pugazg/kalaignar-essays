@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 35/224 records; 32 verified / 3 needs-review** |
+| P2 | **IN PROGRESS — 40/224 records; 37 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -77,6 +77,7 @@ Minimum explicit family set:
 | 005 | 21–25 | 5 | 0 | 0 |
 | 006 | 26–30 | 5 | 0 | 0 |
 | 007 | 31–35 | 5 | 0 | 0 |
+| 008 | 36–40 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -99,10 +100,32 @@ Batch 007 checks:
 - page-boundary fragments were preserved: scan 31 `சுறு` → scan 32 `சுறுப்புக்கும்`; scan 33 `அவர்களா` → scan 34 `கவே`; scan 34 `தலைமை` → scan 35 `யேற்றுப்`.
 - scan 35 ends at `வேலாயுதம்`; scan 36 remains unopened.
 
-## P2 cumulative totals through scan 35
+### Batch 008 — scans 36–40
 
-- canonical page records — **35/224**
-- verified — **32**
+| Scan | Printed folio | Record | Status | Open issue |
+|---:|:---:|---|---|---|
+| 36 | 33 | `0036-murasu.md` | verified | none |
+| 37 | 34 | `0037-murasu.md` | verified | none |
+| 38 | 35 | `0038-murasu.md` | verified | none |
+| 39 | 36 | `0039-murasu.md` | verified | none |
+| 40 | 37 | `0040-murasu.md` | verified | none |
+
+Batch 008 checks:
+
+- direct native/enlarged source-pixel comparison — **PASS**
+- historical 13-family check — **performed on all five pages**
+- guessed readings — **0**
+- new unresolved printed-text holds — **0**
+- cumulative historical-glyph corrections — **1**
+- first-pass historical decoding included scan 36 `தலைவரால்` (`லை`), scan 37 `காளை` (`ளை`), scan 38 `அண்ணா / சொன்னாராம்`, and scan 40 `கலைவர்கள்` (`லை`); none required a post-transcription correction.
+- source-visible unusual wording/spacing was preserved without context correction.
+- page-boundary fragments were preserved: scan 35 `வேலாயுதம்` → scan 36 `பாளையம்`; scan 36 `மாவட்ட சுற்றுப்` → scan 37 `பயணத்திலே`; scan 37 `பிர்லாக்` → scan 38 `களின்.`; scan 38 `மழை வந்து` → scan 39 `விடாதே`.
+- scan 40 ends at `கற்றுக்`; scan 41 remains unopened.
+
+## P2 cumulative totals through scan 40
+
+- canonical page records — **40/224**
+- verified — **37**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -126,4 +149,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 36–40.**
+**P2 scans 41–45.**
