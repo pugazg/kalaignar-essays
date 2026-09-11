@@ -3,53 +3,45 @@
 Controlling publication: **`ஆறுமாதக் கடுங்காவல்`**  
 Authoritative complete extent: **224 physical PDF pages**  
 Currently accessible attachment: **150 / 224 pages**  
-Current gate: **P0 IN PROGRESS / P1 BLOCKED ON COMPLETE SOURCE**
+Current gate: **P0 IN PROGRESS / P1 PARTIAL-PROVISIONAL**
 
-## P0-confirmed opening map from accessible scans
+Detailed partial reconnaissance: [`../P1_PARTIAL_RECONNAISSANCE.md`](../P1_PARTIAL_RECONNAISSANCE.md)
 
-| Physical scan | P0 observation | Printed pagination |
+## Accessible-source structural map
+
+| Scan(s) | Provisional structural class | Canonical status |
 |---:|---|---|
-| 1 | later physical-copy/donation mark | outside/unknown |
-| 2 | title page | to establish in P1 |
-| 3 | first-edition / imprint page | to establish in P1 |
-| 4 | publisher note | to establish in P1 |
-| 5 | near-blank reverse / show-through | to establish in P1 |
-| 6 | `காணிக்கை` opening | to establish in P1 |
-| 7 | dedication continuation / signature | to establish in P1 |
-| 8 | illustrated `முரசு` page | to establish in P1 |
-| 9 | near-blank reverse / show-through | to establish in P1 |
-| 10 | chronological narrative begins | verify in P1 |
+| 1 | later physical-copy / ownership-donation mark | provisional |
+| 2 | title page | source-visible |
+| 3 | first-edition / imprint page | source-visible |
+| 4 | publisher note | source-visible |
+| 5 | near-blank reverse / show-through | provisional structural class |
+| 6–7 | `காணிக்கை` dedication | source-visible front matter |
+| 8 | illustrated `முரசு` page | source-visible |
+| 9 | near-blank reverse / show-through | provisional structural class |
+| 10–66 | text-bearing main narrative run | structural sweep complete; exact folios/headings pending canonical P1 |
+| 67 | near-blank reverse / show-through | provisional structural class |
+| 68–106 | text-bearing main narrative run | structural sweep complete; exact boundaries pending |
+| 107 | near-blank reverse / show-through | provisional structural class |
+| 108 | low-density nonblank transition / section-opening candidate | exact role/title unresolved |
+| 109 | near-blank reverse / show-through | provisional structural class |
+| 110–150 | text-bearing main narrative run | continues beyond accessible boundary |
+| 151–224 | **UNAVAILABLE** | blocked |
 
-No pagination formula is canonical yet.
+## P1 findings so far
 
-## Source-access boundary
+- accessible scan coverage inspected — **150 / 224**;
+- clear blank/reverse interruptions — **5, 9, 67, 107, 109**;
+- scan 108 is structurally distinct but not canonically classified;
+- no separate printed contents page has yet been positively established;
+- scan 150 is **not** treated as source end;
+- printed-page offset/formula — **not canonical**;
+- full internal-unit count — **not canonical**.
 
-- scans **1–150** — currently accessible;
-- scans **151–224** — **not currently accessible in the attached payload**;
-- therefore a canonical P1 map cannot yet be completed.
+## Secondary bibliographic evidence
 
-Do not infer scans 151–224 from pagination, memory, catalogue descriptions or another edition.
-
-## P1 requirements
-
-Once the complete 224-page source is accessible, inspect **all scans 1–224** and record:
-
-- printed page number where visible;
-- suppressed/inferred folios separately;
-- page type for every physical scan;
-- blank/reverse/show-through pages;
-- front-matter boundaries;
-- every date/place/topic heading and internal boundary;
-- cross-page continuations;
-- illustrations and physical-copy marks;
-- final source boundary;
-- contents/index presence;
-- pagination discontinuities.
-
-## Historical glyph overlay
-
-P1 is structural. P2 and P5 must follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` and visually audit the historical glyph families page by page.
+A saved bibliographic witness records the first edition as **`பக்.220`**. This is not controlling source evidence and must not be used to invent missing physical scans or a pagination formula.
 
 ## Exact next activity
 
-Obtain/access scans **151–224** as part of the complete PDF, then close P0 and map the full **1–224** source. Bulk Tamil transcription remains blocked until P1 completes.
+Obtain/access scans **151–224** from the complete source; record complete file size/SHA-256; close P0; then finish canonical P1 over **all 224 scans**. Bulk Tamil transcription remains blocked until P1 completes.
