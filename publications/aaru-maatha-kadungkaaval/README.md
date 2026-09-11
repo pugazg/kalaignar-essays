@@ -37,7 +37,7 @@ For this publication, P0/P1 must be based on direct inspection of the **actual u
 - raw uploaded file size — **282020019 bytes — CONFIRMED**
 - complete physical-file SHA-256 — **PENDING direct byte-level verification**
 - P1 page/structure mapping — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 page transcription — **NOT STARTED — next: scans 1–5**
+- P2 page transcription — **IN PROGRESS — 5/150 canonical records created; 3 verified / 2 needs-review**
 - P3 assemblies — **NOT STARTED**
 - P4 source/completeness audit — **NOT STARTED**
 - P5 strict visual fidelity — **NOT STARTED**
@@ -79,8 +79,28 @@ Canonical supplied-artifact structure:
 
 Scan 150 is text-bearing, so this P1 does **not** claim it is the end of the complete 1953 publication. The 224-page user-reported extent remains a separate P0/source-completeness issue.
 
+## P2 batch 001 — scans 1–5
+
+Canonical records created:
+
+- scan 1 — `pages/0001-physical-copy-mark.md` — **verified**
+- scan 2 — `pages/0002-title-page.md` — **verified**
+- scan 3 — `pages/0003-imprint.md` — **needs-review**
+- scan 4 — `pages/0004-publisher-note.md` — **needs-review**
+- scan 5 — `pages/0005-blank-reverse.md` — **verified**
+
+Batch result:
+
+- records created — **5/5**
+- verified — **3**
+- needs-review — **2**
+- guessed readings — **0**
+- historical-glyph corrections — **0**
+- printed-text holds — **2**: scan 3 small imprint text; scan 4 full publisher-note transcription
+- P0 source-completeness caveat — **unchanged / open**
+
 ## Exact next activity
 
-**P2 — scans 1–5.**
+**P2 — scans 6–10.**
 
-Proceed with five-scan page-record creation, historical-glyph checks where applicable, source-faithful printed-text/physical-mark separation, immediate control synchronization and commit.
+Process exactly scans 6–10 as one batch, preserve the open holds on scans 3–4 for targeted re-read, synchronize controls, commit immediately after the five-page batch, and stop before scan 11.
