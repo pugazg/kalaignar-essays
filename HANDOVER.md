@@ -9,7 +9,7 @@ This is the **single authoritative project handover**.
 ## Repository state
 
 Publications **1–10 are RELEASE COMPLETE / FROZEN**.  
-Publication 11 **`பேசும் கலை வளர்ப்போம்` is ACTIVE — Tamil FROZEN; English translation phase ACTIVE**.
+Publication 11 **`பேசும் கலை வளர்ப்போம்` is ACTIVE — Tamil FROZEN; 19/19 English articles individually VERIFIED; publication-wide English release review PENDING**.
 
 Do not reopen Publications 1–10 from stale prompts. Do not reopen Publication 11 Tamil without genuinely new source evidence. Source PDFs are never committed.
 
@@ -53,15 +53,16 @@ Structural authority: scans **3–82 = printed pp.1–80**; source-numbered sect
 
 - E0 planning — **COMPLETE / PASS**;
 - T0 — **19/19 PASS**;
-- English body files — **14/19**;
-- T1 — **14/19**;
-- T2 — **14/19**;
-- T3 — **14/19**;
-- T4 — **14/19**;
-- T5 — **14/19**;
-- verified English articles — **14/19**;
+- English body files — **19/19**;
+- T1 — **19/19**;
+- T2 — **19/19**;
+- T3 — **19/19**;
+- T4 — **19/19**;
+- T5 — **19/19**;
+- verified English articles — **19/19**;
 - unresolved English blockers — **0**;
-- frozen Tamil edits during English work — **0**.
+- frozen Tamil edits during English work — **0**;
+- publication-wide English consistency / release review — **PENDING**.
 
 E0/T0 baseline commit: **`3f64a17ecb18cf658cc281b17d9c34b5b3632d5a`**.
 
@@ -210,21 +211,50 @@ Sections 10–14 non-regression points:
 - Section 13: **State autonomy**, Union/State/Concurrent Lists, Ambedkar, Rajamannar Committee, Pandit Nehru, locality-specific Chennai examples, `Chennai High Court`, `liquor permit`, M. G. Ramachandran quotation, and the frozen **seventy years old / seven-year-old / born in 1917** chronology are preserved exactly without reconciliation;
 - Section 14: **kathakalakshepam**, Kripananda Variyar, Pulavar Keeran, Ravana Kaviyam, Pulavar Kuzhanthai, Silamboli Chellappan, **Silambu Selvar Ma. Po. Si.**, **Annan Jeevanandam**, Kamba Ramayanam, Navalar Somasundara Bharathiar, Sethupillai, harsh-vs-obscene distinction, `abuse`, Odam Pokki river, and the **mustard-seed's measure** closing image remain source-bearing.
 
+### Sections 15–19 — VERIFIED / T0–T5 COMPLETE
+
+| Section | Frozen Tamil blob | Final verified English blob | T2 / T3 / T4 corrections | T4-approved decisions | Page comments |
+|---:|---|---|---|---:|---:|
+| 15 | `682c68cdc0db1899749f2943c9d311ecb1061eb8` | **`f2cc6211ff4eee23d852ce6f7a438ba42bbe2c8b`** | **2 / 4 / 0** | 13 | 4/4 |
+| 16 | `1ab092b3b7bcdc0efd23f08e49799e7c3fda8d5f` | **`c65bf67c41159ca8ea854b5ca5b6189169a80b8e`** | **1 / 3 / 1** | 15 | 4/4 |
+| 17 | `bd4cb1d4e631e19de0e5cc62f0aecf176d7e2fe2` | **`c1015074837f606a93808ea2235383b309a9fd98`** | **1 / 4 / 0** | 14 | 5/5 |
+| 18 | `060e72d9ec61e491343c948c2db9371312b7e3a8` | **`8ca4aa3771cd6b0be95cd02537e88e3bf4347102`** | **2 / 4 / 1** | 22 | 5/5 |
+| 19 | `aa3eb2b5311f8ad1a705f606bd4ace3f2059ec6c` | **`e7cdf88c31c27e27ed973c382865bc9f7c4d66bc`** | **2 / 4 / 0** | 16 | 4/4 |
+
+All five sections have **T5 body corrections 0 / status-only verification**, unresolved English issues **0**, and frozen Tamil edits **0**.
+
+Sections 15–19 non-regression points:
+
+- Section 15: cadre-duty vocabulary, collection-box/travel-expense sequence, Thiruvanchiyam/Thanjai, Padma, Periyar, mustard-seed reason, Annan C. P. Chitrarasu, Annan Alagirisami, source-bearing `Thambi` and `a golden rod`;
+- Section 16: Kanniyur Farooq, source-bearing **Smit** for ambiguous `ஸ்மிட்`, source-based foreign maxims only, Valluvar's two-line quotation, and `tongue-excellence / eloquence`;
+- Section 17: `veshti`, `saniyans`, Adi Dravidar colony, Shamsudeen, Naalukaal Mandapam, Thennaarkadu, Devapandalam, source colloquialisms `Ayya! Periyavangale!` / `appa`, and exact **18 miles / ~15 minutes / ~1½ hours**;
+- Section 18: `mannerism`, Arignar Anna, Thanthai Periyar, Thalapathi Alagirisami, Silambu Selvar Ma. Po. Si., Navalar Nedunchezhiyan, Kundrakudi Adigalar, **the Tamil way**, `Ada saniyane!`, Muthamizh Kaavalar Ki. Aa. Pe. Viswanatham, Pasumpon Muthuramalinga Thevar, Quaid-e-Millath and Abdul Samad;
+- Section 19: source age **46**, Dravidar movement / Dravidar Kazhagam / Viduthalai / Veeramani, Kudi Arasu / Pagutharivu, Perarignar Anna, E. V. K. Sampath / Sollin Selvar, Tamil National Party, Nanjilar / Nanjil K. Manoharan, `crisp speech like an electric flash`, E. V. P. Aasai Thambi / Vaaliba Periyar, N. V. Natarasanar, and the approved publication title **Let Us Develop the Art of Speaking**.
+
+All **19/19** English articles are now individually **T0–T5 VERIFIED**. This does **not** yet mean the publication is English-translation complete: the mandatory publication-wide cross-article consistency / release review remains.
+
 Permanent translation rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`**, only where the exact Tamil form occurs. The publication uses numeric section labels only; do not invent descriptive English section titles.
 
-## Exact next activity — E1 / Section 15 T1 close draft
+## Exact next activity — publication-wide English cross-article consistency / release review
 
-Before drafting Section 15:
+All **19/19** numbered English articles are individually **T0–T5 VERIFIED**.
 
-- re-fetch frozen Tamil `publications/pesum-kalai-valarppom/articles/15-section-15.md`;
-- require exact blob **`682c68cdc0db1899749f2943c9d311ecb1061eb8`**;
-- source span — scans **64–67 / printed pp.62–65**;
-- if the Tamil blob differs, stop for source-drift reconciliation;
-- preserve any legitimate newer English Section 15 work if it already exists.
+Perform the publication-level English release gate required by `ESSAY_TRANSLATION_GUIDE.md`:
 
-Then perform **Section 15 / T1 close draft** from the frozen Tamil assembly. Preserve every paragraph/clause, numeric section identity `15`, all source-page comments, quotations, questions, repetition, irony, imagery and source-sensitive names/labels. Apply verified Sections 1–14 decisions only where the same Tamil function genuinely recurs. Record genuine new working decisions, synchronize controls, and stop before Section 15 T2.
+1. re-fetch all 19 verified English article files and their frozen Tamil blob metadata;
+2. confirm every English article remains `translation_status: "verified"`;
+3. check recurring names and epithets across sections;
+4. check ideological / movement vocabulary for drift;
+5. check repeated phrases, slogans and source-bearing forms;
+6. check quotation treatment and ensure no published/external wording was silently imported;
+7. check numeric title style remains 1–19 with no invented descriptive titles;
+8. check tone and rhetorical-force consistency across early and late sections;
+9. check source-bearing puns/transliterations and documented anomalies are preserved consistently;
+10. verify every expected source-page comment is present and ordered;
+11. check no accidental smoothing or normalization was introduced in later batches;
+12. reconcile `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, plan, audit and this handover.
 
-Do not modify frozen Tamil.
+Frozen Tamil must remain untouched. Only after this release review passes may Publication 11 be described as **English-translation complete** and moved toward release/freeze closure.
 
 ---
 
