@@ -17,15 +17,16 @@ Workspace: `publications/pesum-kalai-valarppom/`
 
 - E0 planning — **COMPLETE / PASS**;
 - T0 — **19/19 PASS**;
-- English body files — **14/19**;
-- T1 — **14/19**;
-- T2 — **14/19**;
-- T3 — **14/19**;
-- T4 — **14/19**;
-- T5 — **14/19**;
-- verified English articles — **14/19**;
+- English body files — **19/19**;
+- T1 — **19/19**;
+- T2 — **19/19**;
+- T3 — **19/19**;
+- T4 — **19/19**;
+- T5 — **19/19**;
+- verified English articles — **19/19**;
 - unresolved English blockers — **0**;
-- frozen Tamil edits during English work — **0**.
+- frozen Tamil edits during English work — **0**;
+- publication-wide English consistency / release review — **PENDING**.
 
 ## Controlling source
 
@@ -102,8 +103,21 @@ The verified Section 4 preserves the Annamalai / Annadurai / Neelamegam pun chai
 - unresolved English issues — **0**;
 - frozen Tamil edits — **0**.
 
+## Sections 15–19 — VERIFIED
+
+- Section 15 — final verified English blob **`f2cc6211ff4eee23d852ce6f7a438ba42bbe2c8b`**; T2/T3/T4 corrections **2/4/0**; T4 decisions **13**; page comments **4/4**.
+- Section 16 — final verified English blob **`c65bf67c41159ca8ea854b5ca5b6189169a80b8e`**; T2/T3/T4 corrections **1/3/1**; T4 decisions **15**; page comments **4/4**.
+- Section 17 — final verified English blob **`c1015074837f606a93808ea2235383b309a9fd98`**; T2/T3/T4 corrections **1/4/0**; T4 decisions **14**; page comments **5/5**.
+- Section 18 — final verified English blob **`8ca4aa3771cd6b0be95cd02537e88e3bf4347102`**; T2/T3/T4 corrections **2/4/1**; T4 decisions **22**; page comments **5/5**.
+- Section 19 — final verified English blob **`e7cdf88c31c27e27ed973c382865bc9f7c4d66bc`**; T2/T3/T4 corrections **2/4/0**; T4 decisions **16**; page comments **4/4**.
+- T5 body corrections — **0 for all five / status-only promotions**;
+- unresolved English issues — **0**;
+- frozen Tamil edits — **0**.
+
+All **19/19** numbered English articles are individually **T0–T5 VERIFIED**. The publication itself must still pass the required cross-article consistency / English release review before it is described as **English-translation complete**.
+
 Permanent rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`** only where the exact source form occurs. The source supplies numeric sections only; do not invent descriptive English section titles.
 
 ## Exact next activity
 
-**E1 — Section 15 / T1 close draft.** Frozen Tamil authority: `articles/15-section-15.md`, expected blob **`682c68cdc0db1899749f2943c9d311ecb1061eb8`**, scans **64–67 / printed pp.62–65**. Revalidate that blob, translate the complete Section 15, synchronize controls, and stop before Section 15 T2.
+**Publication-wide English cross-article consistency / release review.** Review all **19/19 verified articles** together for recurring names and epithets, ideological vocabulary, repeated phrases, quotation handling, title style, tone, source-bearing puns/transliterations, page-comment completeness and accidental smoothing or terminology drift. Do not modify frozen Tamil. Only after this review passes may the publication be described as **English-translation complete**.
