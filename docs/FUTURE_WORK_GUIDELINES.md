@@ -54,11 +54,12 @@ Before creating or changing files:
 1. read `ESSAY_PROCESSING_GUIDE.md` completely;
 2. read `ESSAY_TRANSLATION_GUIDE.md` completely if English translation is in scope;
 3. read the current root `HANDOVER.md` completely;
-4. inspect the actual repository state on `main`;
-5. search for the work and confirm it has not already been started;
-6. inspect the **actual supplied scan**, including cover/title/imprint/contents pages, before deciding title, publication type or structure;
-7. determine whether the PDF is a standalone article, a pamphlet, a serial collection or a multi-article publication;
-8. continue existing work if present—never create a duplicate publication tree.
+4. if the supplied source uses older Tamil typeforms, read `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` completely and make it part of the publication-specific workflow;
+5. inspect the actual repository state on `main`;
+6. search for the work and confirm it has not already been started;
+7. inspect the **actual supplied scan**, including cover/title/imprint/contents pages, before deciding title, publication type or structure;
+8. determine whether the PDF is a standalone article, a pamphlet, a serial collection or a multi-article publication;
+9. continue existing work if present—never create a duplicate publication tree.
 
 The filename is a clue, not source authority.
 
@@ -121,6 +122,17 @@ Create a page record for **every** physical scan, including:
 - back cover.
 
 Separate printed text from physical-copy marks. A library stamp or handwriting is evidence about the physical copy, not part of Kalaignar's printed text unless the publication itself printed it.
+
+## 5A. Historical Tamil typeforms
+
+For older Tamil print, determine during intake whether historical/reform-sensitive glyph forms are present. If present:
+
+- make `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` mandatory for the active publication;
+- record the policy in the publication README/audit;
+- audit the known 13 families on every potentially affected page;
+- use source pixels and same-edition comparisons, never OCR or lexical expectation as proof;
+- keep glyph decoding separate from spelling correction;
+- perform an independent historical-glyph re-read as part of the final fidelity workflow before release/translation.
 
 ## 6. Transcription workflow
 
