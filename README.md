@@ -10,24 +10,36 @@ Permanent workflow: `ESSAY_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCR
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-### Publication 12 — ஆறு மாதக் கடுங்காவல் — ACTIVE
+### Publication 12 — ஆறுமாதக் கடுங்காவல் — ACTIVE
 
 Workspace: `publications/aaru-maatha-kadungkaaval/`
 
-- P0 source intake — **IN PROGRESS**
-- source title — **`ஆறு மாதக் கடுங்காவல்`**
-- author — **`மு. கருணாநிதி`**
-- visible edition — **first edition, 1953**
-- physical scans — **150**
-- file size — **282020019 bytes**
+User-confirmed identity:
+
+- title — **`ஆறுமாதக் கடுங்காவல்`**
+- author — **`கலைஞர் மு. கருணாநிதி`**
+- publisher — **`திராவிடப் பண்ணை`**
+- edition — **`முதல் பதிப்பு, 1953`**
+- authoritative complete extent — **224 pages**
+
+Current source-access state:
+
+- P0 source intake — **IN PROGRESS / BLOCKED ON COMPLETE SOURCE ACCESS**
+- current attachment exposed — **150 / 224 pages**
+- current attachment size — **282020019 bytes**
 - PDF — **image-only**
 - historical Tamil glyph workflow — **MANDATORY**
-- source SHA-256 — **PENDING**
-- P1–P5 — **NOT STARTED**
+- complete-source SHA-256 — **PENDING**
+- P1 — **NOT STARTED canonically**
+- P2–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil archival completion/freeze**
 - source PDF committed — **No**
 
-Exact next activity: **close P0 by recording the supplied-file SHA-256, then map all 150 scans for P1.**
+The earlier 150-page source assumption is superseded. **224 pages is authoritative.**
+
+User-supplied context describes the work as a prison-life memoir of Kalaignar's six-month sentence, including solitary confinement at Palayamkottai prison. This remains metadata/context unless directly reproduced by the scan itself.
+
+Exact next activity: **make the complete 224-page source accessible, record its exact size/SHA-256, close P0, then map all scans 1–224 for P1.**
 
 ### Publications 1–11
 
