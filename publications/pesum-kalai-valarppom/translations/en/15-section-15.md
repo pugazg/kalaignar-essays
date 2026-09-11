@@ -8,7 +8,7 @@ source_tamil_blob_sha: "682c68cdc0db1899749f2943c9d311ecb1061eb8"
 source_scan_pages: "64-67"
 source_printed_pages: "62-65"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -16,9 +16,9 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 64 / printed 62; folio suppressed/inferred -->
 
-At the night public meeting, the speaker thunders before thousands of people. In the morning, he is escorted to the railway station or bus stand to be sent off. A cigarette between his fingers! A cloud of smoke pouring through mouth and nose! If some of those who watched, enjoyed and praised him at the previous night's public meeting happen to see him there, their respect and regard for him are bound to fall a little.
+At a night public meeting, the speaker thunders before thousands. In the morning, he is escorted to the railway station or bus stand to be sent off. A cigarette between his fingers! A cloud of smoke pouring through mouth and nose! If some of those who watched, enjoyed and praised him at the previous night's public meeting happen to see him there, their respect and regard for him are bound to fall a little.
 
-If even in the matter of a cigarette one needs such restraint among four people, there is no need to elaborate on other matters.
+If this much restraint is needed even over a cigarette in front of four people, there is no need to elaborate on the rest.
 
 I believe these one or two examples are enough. Speakers of a movement very much need the resolve and determination that, for the movement they have embraced—for the policy they have accepted—they must sacrifice certain habits.
 
@@ -38,7 +38,7 @@ There have been many such incidents in my public life!
 
 Among the lessons I learnt from Periyar was this training never to fail in one's duty!
 
-When I see speakers today cancelling engagements the moment they find even a mustard-seed-sized reason,<!-- Tamil source: scan 66 / printed 64 --> I have had to mention a few notes about myself.
+When I see speakers today cancelling engagements the moment they find a reason no bigger than a mustard seed,<!-- Tamil source: scan 66 / printed 64 --> I have had to mention a few notes about myself.
 
 There are also occasions when some of those who invite speakers to meetings simply leave them stranded in the street after the meeting is over.
 
@@ -50,4 +50,4 @@ Annan C. P. Chitrarasu, who served as Chairman of the Legislative Council, and A
 
 <!-- Tamil source: scan 67 / printed 65 -->
 
-Thus, as though introducing the secretary to the people, they had to employ so many devices to make sure he did not slip away after the meeting, collect the return travel money, and get back home! And in those days, even those highly renowned speakers sometimes faced such a situation!
+Thus, under the guise of introducing the secretary to the people, they had to use so many devices to keep him from slipping away after the meeting, collect the return travel money, and get back home! And in those days, even those highly renowned speakers sometimes faced such a situation!
