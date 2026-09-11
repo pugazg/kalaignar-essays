@@ -19,11 +19,11 @@ Workspace: `publications/pesum-kalai-valarppom/`
 - T0 — **19/19 PASS**;
 - English body files — **4/19**;
 - T1 — **4/19**;
-- T2 — **3/19**;
-- T3 — **3/19**;
-- T4 — **3/19**;
-- T5 — **3/19**;
-- verified English articles — **3/19**;
+- T2 — **4/19**;
+- T3 — **4/19**;
+- T4 — **4/19**;
+- T5 — **4/19**;
+- verified English articles — **4/19**;
 - unresolved English blockers — **0**;
 - frozen Tamil edits during English work — **0**.
 
@@ -66,19 +66,22 @@ The publication title **Let Us Develop the Art of Speaking** is approved through
 
 The verified Section 3 preserves the `iyal / music / koothu` historical argument, source sound-signals, old-style preamble punctuation irregularity, source-based Socrates–Marx–Ingersoll–Thanthai Periyar passage, Brahma/caste repetition, heart/lips imagery, and repeated `cheap promise` wordplay.
 
-## Section 4 — T1 COMPLETE / draft
+## Section 4 — VERIFIED
 
 - Tamil blob — **`b938be21e198d69548e45ae96cb0e9802b8d7079`**;
 - scans **22–27 / printed pp.20–25**;
-- T1 English blob — **`665b4629202b57a81275310f86e25dfc4e2be73d`**;
-- status — **draft**;
+- final T5 verified English blob — **`9a236986ecf612f0da8de3179c8d8acd9eac3183`**;
+- T2 / T3 / T4 corrections — **4 / 8 / 1**;
+- T5 body corrections — **0 / status-only**;
 - source-page comments — **6/6 retained**;
-- T1 provisional Section 4 decisions — **20**;
-- T2–T5 — **pending**;
-- unresolved T1 blockers — **0**.
+- T4-approved Section 4 decisions — **22**;
+- unresolved Section 4 issues — **0**;
+- T0–T5 — **COMPLETE / PASS**.
+
+The verified Section 4 preserves the Annamalai / Annadurai / Neelamegam pun chain, `Sabash`, exact page-25/26/27 anecdote, sea-sluice imagery, the `Annathurai kachcheri` and `Namaskaaranga!` recollections, source-form `Trichy prison`, the `Agraasanadhipathi → Avai-thalaivar` and `Sriman → Thiruvalar` contrasts, and the closing grass-tip / already-ground flour / recorded-tape images.
 
 Permanent rule: exact source `உடன்பிறப்பே` → **`Udanpirappē`**; direct salutation **`Udanpirappē,`** only where the exact source form occurs. The source supplies numeric sections only; do not invent descriptive English section titles.
 
 ## Exact next activity
 
-**E1 — Section 4 / T2 bilingual fidelity review.** Revalidate frozen Tamil blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`** and T1 English blob **`665b4629202b57a81275310f86e25dfc4e2be73d`**, then perform the independent bilingual fidelity review. Do not start T3 in the same activity.
+**E1 — Section 5 / T1 close draft.** Frozen Tamil authority: `articles/05-section-05.md`, expected blob **`7fbb055e1f7f2630d39f5a3e203de5e2547b93b9`**, scans **27–31 / printed pp.25–29**. Revalidate that blob, translate the complete Section 5, synchronize controls, and stop before Section 5 T2.
