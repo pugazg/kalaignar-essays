@@ -119,43 +119,48 @@ These choices come only from frozen `articles/03-section-03.md` and have passed 
 - exact source `உடன்பிறப்பே` does **not** occur in Section 3;
 - unresolved Section 3 T4 terminology / quotation / citation issues — **0**.
 
-## Section 4 — T1 working decisions
+## Section 4 — T4-audited decisions
 
-These choices come only from frozen `articles/04-section-04.md` and the first complete English draft. They remain **T1 provisional** until independent T2/T3/T4 review.
+These choices come only from frozen `articles/04-section-04.md` and have passed Section 4 T2 fidelity, T3 voice and T4 terminology / quotation / citation review. They are approved for Section 4 and may guide later sections only where the same Tamil function genuinely recurs.
 
 | Tamil | Preferred English | Context / exception | Status |
 |---|---|---|---|
-| `சொற் பஞ்சம்` | `famine of words` | Preserve the source scarcity/famine image rather than flattening it to “limited vocabulary.” | **T1 provisional** |
-| `குரலின் ஏற்ற இறக்கம்` | `rise and fall of the voice` | Speaking technique; preserve the physical vocal modulation image. | **T1 provisional** |
-| `குடந்தை` | `Kudanthai` | Preserve the source place-name form; do not silently modernize it in body text. | **T1 provisional** |
-| `குடந்தைப் பெரியவர் கே. கே. நீலமேகம்` | `the elder K. K. Neelamegam of Kudanthai` | Retains the source’s respectful `பெரியவர்` framing without external biography. | **T1 provisional** |
-| `அறிஞர் அண்ணா` | `Arignar Anna` | Reuses the verified Section 2 source-bearing epithet where the same form recurs. | **T1 provisional / prior approved form reused** |
-| `கையொலி / மகிழ்ச்சியொலி` | `applause / cries of joy` | Preserve the paired sound-images and short exclamatory rhythm. | **T1 provisional** |
-| `சபாஷ்` | `Sabash` | Source-borne praise/exclamation; retain rather than replacing it with a generic English compliment. | **T1 provisional** |
-| `அண்ணாமலை / மலை / அண்ணாதுரை / துரை / மேகம் / நீலமேகம்` | preserve `Annamalai / malai—mountain / Annadurai / durai / megam—cloud / Neelamegam` | The entire passage is a name/word pun; retain source-bearing forms and only the source-supported glosses needed for the wordplay. | **T1 provisional** |
-| `மாநாட்டுப் பந்தல்` | `conference pavilion` | Physical meeting enclosure; avoid importing a modern venue label. | **T1 provisional** |
-| `கடல்மடை திறந்தாற்போல் வார்த்தைகளைக் கொட்டினார்` | `poured out words as though a sea-sluice had been opened` | Preserve the source flood/sluice image. | **T1 provisional** |
-| `இரண்டறக் கலந்திருந்தால்` | `merged inseparably` | Speaker must be fully united with the ideas being expressed; preserve intensity. | **T1 provisional** |
-| `சேத்துப்பட்டு` | `Chetpet` | Conventional English place form for the source name; no further explanatory expansion. | **T1 provisional** |
-| `கவிஞர் கண்ணதாசன்` | `poet Kannadasan` | Preserve the source epithet; do not add biography. | **T1 provisional** |
-| source colloquial `அண்ணாத்துரை கச்சேரி` | `Annathurai kachcheri` | Preserve the quoted colloquial name-form and the source’s “concert” framing; do not normalize inside the quotation. | **T1 provisional** |
-| `கச்சேரி` in speech/meeting anecdotes | `kachcheri` | Retain the source term because the point of both anecdotes is that public speeches/meetings were called concerts. | **T1 provisional** |
-| source colloquial greeting `நமஸ்காரங்க!` | `Namaskaaranga!` | Preserve the prisoner’s colloquial spoken form rather than regularizing it. | **T1 provisional** |
-| `அக்ராசனாதிபதி அவர்களே! → அவைத்தலைவர் அவர்களே!` | `Agraasanadhipathi avargale! → Avai-thalaivar avargale!` | Preserve both source forms so the Sanskritised-to-Tamil lexical change remains visible. | **T1 provisional** |
-| `ஸ்ரீமான் அவர்கள்! → திருவாளர் அவர்கள்!` | `Sriman avargal! → Thiruvalar avargal!` | Preserve the source lexical replacement rather than translating both to the same English honorific. | **T1 provisional** |
-| `நுனிப்புல் மேய்பவர்கள்` | `those who merely graze the tips of the grass` | Preserve the source image for superficial speakers. | **T1 provisional** |
-| `அரைத்த மாவையே அரைத்தல் / பதிவு செய்யப்பட்ட நாடா (டேப்)` | `grinding flour already ground / recorded tape` | Preserve both images for stale, mechanically repeated speeches. | **T1 provisional** |
+| `சொற் பஞ்சம்` | `famine of words` | Preserve the source scarcity/famine image rather than flattening it to “limited vocabulary.” | **T4 approved** |
+| `குரலின் ஏற்ற இறக்கம்` | `rise and fall of the voice` | Speaking technique; preserve the physical vocal-modulation image. | **T4 approved** |
+| `குடந்தை` | `Kudanthai` | Preserve the source place-name form; do not silently modernize it in body text. | **T4 approved** |
+| `குடந்தைப் பெரியவர் கே. கே. நீலமேகம்` | `the elder K. K. Neelamegam of Kudanthai` | Retains the source’s respectful `பெரியவர்` framing without external biography. | **T4 approved** |
+| `அறிஞர் அண்ணா` | `Arignar Anna` | Reuses the verified Section 2 source-bearing epithet where the same form recurs. | **T4 approved** |
+| `கையொலி / மகிழ்ச்சியொலி` | `applause / cries of joy` | Preserve the paired sound-images and short exclamatory rhythm. | **T4 approved** |
+| `சபாஷ்` | `Sabash` | Source-borne praise/exclamation; retain rather than replacing it with a generic English compliment. | **T4 approved** |
+| `அண்ணாமலை / மலை / அண்ணாதுரை / துரை / மேகம் / நீலமேகம்` | preserve `Annamalai / malai—mountain / Annadurai / durai—a lord / megam—cloud / Neelamegam` | The passage is a name/word pun; preserve source-bearing forms and the semantic glosses needed for the wordplay. | **T4 approved** |
+| `மாநாட்டுப் பந்தல்` | `conference pavilion` | Physical meeting enclosure; avoid importing a modern venue label. | **T4 approved** |
+| `கடல்மடை திறந்தாற்போல் வார்த்தைகளைக் கொட்டினார்` | `poured out words as though a sea-sluice had been opened` | Preserve the source flood/sluice image. | **T4 approved** |
+| `இரண்டறக் கலந்திருந்தால்` | `merged inseparably` | Speaker must be fully united with the ideas being expressed; preserve intensity. | **T4 approved** |
+| `சேத்துப்பட்டு` | `Chetpet` | Conventional English place form for the source name; no further explanatory expansion. | **T4 approved** |
+| `கவிஞர் கண்ணதாசன்` | `poet Kannadasan` | Preserve the source epithet; do not add biography. | **T4 approved** |
+| `அய்யா!` | `Ayya!` | Direct address inside the quoted Chetpet wayfinding exchange; preserve source-bearing address rather than flattening it. | **T4 approved** |
+| source colloquial `அண்ணாத்துரை கச்சேரி` | `Annathurai kachcheri` | Preserve the quoted colloquial name-form and source “concert” framing; do not normalize inside the quotation. | **T4 approved** |
+| `கச்சேரி` in speech/meeting anecdotes | `kachcheri` | Retain the source term because the point of both anecdotes is that public speeches/meetings were called concerts. | **T4 approved** |
+| source colloquial greeting `நமஸ்காரங்க!` | `Namaskaaranga!` | Preserve the prisoner’s colloquial spoken form rather than regularizing it. | **T4 approved** |
+| `திருச்சி சிறை` | `Trichy prison` | Preserve the source’s short place-name form; do not expand it to `Tiruchirappalli prison`. | **T4 approved** |
+| `அக்ராசனாதிபதி அவர்களே! → அவைத்தலைவர் அவர்களே!` | `Agraasanadhipathi avargale! → Avai-thalaivar avargale!` | Preserve both source forms so the Sanskritised-to-Tamil lexical change remains visible. | **T4 approved** |
+| `ஸ்ரீமான் அவர்கள்! → திருவாளர் அவர்கள்!` | `Sriman avargal! → Thiruvalar avargal!` | Preserve the source lexical replacement rather than translating both to the same English honorific. | **T4 approved** |
+| `நுனிப்புல் மேய்பவர்கள்` | `those who merely graze the tips of the grass` | Preserve the source image for superficial speakers. | **T4 approved** |
+| `அரைத்த மாவையே அரைத்தல் / பதிவு செய்யப்பட்ட நாடா (டேப்)` | `grinding flour already ground / recorded tape` | Preserve both images for stale, mechanically repeated speeches. | **T4 approved** |
 
-### Section 4 source-sensitive T1 notes
+### Section 4 quotation / source-label audit notes
 
-- all **6/6** source-page comments are retained, scans 22–27 / printed pp.20–25;
-- quantities and dates are retained: **five minutes**, **fifty thousand**, pages **25 / 26 / 27**, **more than thirty years**, **1953**, **three months**, and second/third hearing;
-- the Annamalai / Annadurai / Neelamegam passage is treated as source wordplay, not as a factual linguistic explanation from outside the text;
-- the `Annathurai kachcheri` and prisoner `kachcheri` lines retain the source’s colloquial/concert framing;
-- the `Agraasanadhipathi → Avai-thalaivar` and `Sriman → Thiruvalar` contrasts remain visibly distinct in English;
-- no external biography, published English wording, or modernized Tamil terminology is imported;
+- T2 corrected the `துரை` element to **`durai—a lord`** so the name-pun retains its semantic force;
+- T4 body correction: **`Tiruchirappalli prison` → `Trichy prison`** for source `திருச்சி சிறை`;
+- `Ayya!` is retained as a source-bearing direct address in the quoted Chetpet exchange;
+- the full Annamalai / Annadurai / Neelamegam pun chain remains source-based; no outside linguistic explanation is inserted;
+- K. K. Neelamegam’s page-25/26/27 anecdote and quotation remain source-based;
+- `Annathurai kachcheri`, repeated `kachcheri`, and `Namaskaaranga!` preserve the quoted colloquial/concert framing;
+- `Agraasanadhipathi → Avai-thalaivar` and `Sriman → Thiruvalar` remain visibly distinct so Kalaignar’s lexical-change argument is not neutralized;
+- source-page comments — **6/6 retained**, scans 22–27 / printed pp.20–25;
+- no published English wording or external biography was imported;
 - exact source `உடன்பிறப்பே` does **not** occur in Section 4;
-- unresolved Section 4 T1 terminology/source issues — **0**.
+- unresolved Section 4 T4 terminology / quotation / citation issues — **0**.
 
 ## Current count
 
@@ -166,6 +171,6 @@ These choices come only from frozen `articles/04-section-04.md` and the first co
 - Section 3 T4-approved article-derived decisions: **17**;
 - unresolved Section 1 terminology / quotation / citation issues: **0**;
 - unresolved Section 2 terminology / quotation / citation issues: **0**;
-- Section 4 T1 provisional decisions: **20**;
+- Section 4 T4-approved article-derived decisions: **22**;
 - unresolved Section 3 terminology / quotation / citation issues: **0**.
 - unresolved Section 4 T1 terminology/source issues: **0**.
