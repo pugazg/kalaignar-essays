@@ -26,7 +26,7 @@ I would like to mention a few of them here:
 
 “Write down exactly what you wish to say at a meeting and imagine that you must send it by telegram to Australia at your own expense. If you had to pay five rupees for each<!-- Tamil source: scan 68 / printed 66 --> word, would you not remove the unnecessary words? The necessary words that remain are the words fit for you to speak.”
 
-“Smith”
+“Smit”
 
 “Only those without deep richness of thought keep needlessly lengthening a speech.”
 
