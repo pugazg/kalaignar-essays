@@ -89,12 +89,25 @@ T0 source prerequisite → T1 close draft → T2 bilingual fidelity → T3 Kalai
 - unresolved Section 3 issues — **0**;
 - T0–T5 — **COMPLETE / PASS**.
 
+## Section 4 — T1 COMPLETE / draft
+
+- Tamil authority — `articles/04-section-04.md`;
+- frozen Tamil blob — **`b938be21e198d69548e45ae96cb0e9802b8d7079`**;
+- source span — scans **22–27 / printed pp.20–25**;
+- English draft — `translations/en/04-section-04.md`;
+- T1 English blob — **`665b4629202b57a81275310f86e25dfc4e2be73d`**;
+- status — **draft**;
+- source-page comments — **6/6**;
+- Section 4 T1 provisional decisions — **20**;
+- T2–T5 — **pending**;
+- unresolved T1 blockers — **0**.
+
 ## Current English state
 
 - E0 — **COMPLETE / PASS**;
 - T0 — **19/19 PASS**;
-- English body files — **3/19**;
-- T1 — **3/19**;
+- English body files — **4/19**;
+- T1 — **4/19**;
 - T2 — **3/19**;
 - T3 — **3/19**;
 - T4 — **3/19**;
@@ -105,4 +118,4 @@ T0 source prerequisite → T1 close draft → T2 bilingual fidelity → T3 Kalai
 
 ## Exact next activity
 
-**E1 — Section 4 / T1 close draft.** Re-fetch frozen Tamil `articles/04-section-04.md` blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`**, scans **22–27 / printed pp.20–25**, then translate the complete numbered Section 4 from that frozen authority. Preserve page comments, quotations, rhetoric and source-sensitive labels; update the living lexicon only for genuine new decisions; stop before T2.
+**E1 — Section 4 / T2 bilingual fidelity review.** Re-fetch frozen Tamil `articles/04-section-04.md` blob **`b938be21e198d69548e45ae96cb0e9802b8d7079`** and T1 English blob **`665b4629202b57a81275310f86e25dfc4e2be73d`**. Review the complete section side by side, preserve source wordplay and colloquial forms, record every correction, and stop before T3.
