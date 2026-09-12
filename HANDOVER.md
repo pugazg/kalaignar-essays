@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 021 / P2 scans 101–105** reached the durable state **105/224 canonical records; 102 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 022 / P2 scans 106–110** reached the durable state **110/224 canonical records; 107 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 105/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 110/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 105/224 records; 102 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 110/224 records; 107 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -105,7 +105,7 @@ Full source structure:
 - scan 67 — blank / reverse / show-through;
 - scans 68–106 — main text;
 - scan 107 — blank / reverse / show-through;
-- scan 108 — nonblank intertitle / structural transition;
+- scan 108 — illustrated main-work intertitle / `சிறை`;
 - scan 109 — blank / reverse / show-through;
 - scans **110–223 — main text**;
 - scan **224 — back cover / publisher device**.
@@ -525,10 +525,38 @@ Batch 021 result:
 - scan 105 ends at the physical fragment `ஆகி`; scan 106 was **not opened**.
 
 
+### Batch 022 — scans 106–110
+
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 106 — `pages/0106-murasu.md` — **verified** — printed folio 103
+- scan 107 — `pages/0107-blank-reverse.md` — **verified** — blank/reverse/show-through — no visible folio
+- scan 108 — `pages/0108-sirai-illustration.md` — **verified** — illustrated intertitle `சிறை` — no visible folio
+- scan 109 — `pages/0109-blank-reverse.md` — **verified** — blank/reverse/show-through — no visible folio
+- scan 110 — `pages/0110-sirai.md` — **verified** — heading `சிறை` — no visible folio
+
+Batch 022 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- mandatory 13-family historical-glyph check was performed on scans 106 and 110; stylized scan 108 lettering was also directly checked.
+- scan 105 terminal `ஆகி` → scan 106 `யோரிடம்` continuation was confirmed directly, establishing `ஆகியோரிடம்` while preserving the physical page split.
+- scan 106 source-visible unusual forms including `சாப்பிட்டானபிறகுதான்`, `அகிம்சாப் ‘பிடாரி’`, `நின்றுளா`, `அநேகர்`, `ஐயாயிரம்பேர்`, and `ஐயாயிரவர்` were preserved without contextual normalization.
+- scans 107 and 109 contain only faint reverse-side show-through / paper toning and no independent printed text.
+- scan 108 directly resolves the P1 generic transition as an illustrated `சிறை` intertitle with a barred/padlocked prison gate; P1 remains COMPLETE / PASS.
+- scan 110 repeats heading `சிறை`, has no visible folio, and begins the continuous prison-section body text.
+- scan 110 source-visible forms including `முப்பத்தாறுபேரும்`, `துப்பாக்கி சகிதம்`, `நடுநிசியில்`, and `எண்ணிட` were preserved.
+- scan 110 ends with complete `என்ற செய்தி கிடைத்தது.`; scan 111 was **not opened**.
+
+
 ## Durable P2 totals
 
-- canonical page records — **105/224**
-- verified — **102**
+- canonical page records — **110/224**
+- verified — **107**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -540,22 +568,19 @@ Batch 021 result:
 
 ## Exact next activity
 
-**P2 scans 106–110.**
+**P2 scans 111–115.**
 
-Process exactly scans **106–110** as one five-scan batch from the attached PDF:
+Process exactly scans **111–115** as one five-scan batch from the attached PDF:
 
-- scan 106 — main text;
-- scan 107 — blank / reverse / show-through;
-- scan 108 — nonblank intertitle / structural transition;
-- scan 109 — blank / reverse / show-through;
-- scan 110 — main text;
-- inspect every physical scan directly and preserve source-visible structure;
-- perform the mandatory historical-glyph family checks on text-bearing pages;
+- P1 classifies scans 111–115 as main text;
+- inspect every physical scan directly rather than relying on the structural map alone;
+- perform the mandatory historical-glyph family checks on every text-bearing page;
 - record visible printed folios only;
+- preserve source spelling, punctuation, paragraphing and meaningful spacing;
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 111 unless explicitly asked to continue.
+- stop before scan 116 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 

@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 105/224 canonical records; 102 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 110/224 canonical records; 107 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -72,7 +72,7 @@ Direct visual structural inspection is complete:
 - 67 — blank / reverse
 - 68–106 — main text
 - 107 — blank / reverse
-- 108 — nonblank intertitle / transition
+- 108 — illustrated main-work intertitle / `சிறை`
 - 109 — blank / reverse
 - 110–223 — main text
 - 224 — back cover / publisher device
@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–105**.
+Completed records: **scans 1–110**.
 
 Notable durable findings:
 
@@ -115,6 +115,8 @@ Notable durable findings:
 
 - scans 101–105 — **5/5 verified**, printed folios 98–102, no new holds; live main already contained the five page-record commits and this direct attached-PDF re-audit reconciled them before control closure; scan 101 heading `நடராசன்`; scan 103 heading `கோரத் தாண்டவம்!`; scan 101→102 continues `வாரி வழங்கும்` → `அன்னை திராவிடமே!`; scan 102 closes with a printed star; scan 103→104 continues `அவனை நா நா` → `வென்று மென்று...`; scan 105 ends at physical fragment `ஆகி`; scan 106 was not opened. Source-pixel corrections include scan 101 `களப்பலியானான்`, `ஓடோடிவந்தானாம்`, `பிணமானான்`, `படித்தானோ`, `தாறுமாறாகக்`; scan 102 `பெற்றாய்`, `திராவிடத்தாய்`, `கிடக்கிறானை`, `நன்றாக`, `அசையாதம்மா`, `புது மொழி`; scan 103 `நரம்புகள்`, `வயதேறிய`, `உடலைக்`; scan 105 `பதினாறு`. Historical-glyph correction count is now **9**.
 
+- scans 106–110 — **5/5 verified**, no new holds; scan 106 / printed folio 103 continues scan 105 `ஆகி` → `யோரிடம்`; scan 107 and scan 109 are directly confirmed blank/reverse/show-through pages; scan 108 is an illustrated intertitle carrying `சிறை` and a barred/padlocked prison gate; scan 110 begins the `சிறை` body section with no visible folio. Source-visible forms including scan 106 `சாப்பிட்டானபிறகுதான்`, `நின்றுளா`, `அநேகர்`, `ஐயாயிரம்பேர்`, `ஐயாயிரவர்` and scan 110 `முப்பத்தாறுபேரும்`, `துப்பாக்கி சகிதம்`, `நடுநிசியில்`, `எண்ணிட` were preserved. Historical-glyph correction count remains **9**.
+
 Open holds:
 
 - scan 3 — small imprint/printer text;
@@ -123,8 +125,8 @@ Open holds:
 
 Current P2 totals:
 
-- records — **105/224**
-- verified — **102**
+- records — **110/224**
+- verified — **107**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -132,6 +134,6 @@ Current P2 totals:
 
 ## Exact next activity
 
-**P2 scans 106–110.**
+**P2 scans 111–115.**
 
-Process exactly scans **106–110** as the next five-scan batch from live durable state; respect the already-mapped mixed structure (106 main text, 107 blank/reverse, 108 intertitle/transition, 109 blank/reverse, 110 main text), synchronize controls, commit, and stop before scan 111.
+Process exactly scans **111–115** as the next five-scan batch from live durable state. P1 classifies all five as main text. Inspect every scan directly, synchronize controls, commit, and stop before scan 116.

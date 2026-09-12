@@ -35,7 +35,7 @@ The earlier provisional 150-page P1 result was reopened after direct native insp
 | 67 | blank / reverse / show-through | structural separator |
 | 68–106 | main text | continuous body run |
 | 107 | blank / reverse / show-through | structural separator |
-| 108 | low-density nonblank intertitle / transition | exact wording belongs to P2 |
+| 108 | illustrated main-work intertitle | `சிறை`; barred/padlocked prison-gate illustration; no visible folio |
 | 109 | blank / reverse / show-through | structural separator |
 | 110–217 | main text | continuous body run |
 | 218 | main text + embedded section transition | printed 215; star separator + `சிறை திறந்தது` |
@@ -44,6 +44,17 @@ The earlier provisional 150-page P1 result was reopened after direct native insp
 | 222 | main text | printed 219 |
 | 223 | final text-bearing page / work terminus | printed 220; closing slogan block + star |
 | 224 | back cover / publisher device | `திராவிடப் பண்ணை`; no printed folio |
+
+## P2 structural refinement — scans 108–110
+
+Direct P2 inspection now establishes:
+
+- scan 107 — blank / reverse / show-through, no independent printed text;
+- scan 108 — illustrated main-work intertitle carrying the stylized word **`சிறை`** above a barred/padlocked prison gate; no visible folio;
+- scan 109 — blank / reverse / show-through, no independent printed text;
+- scan 110 — main-text opening of the **`சிறை`** section with the heading repeated at the top; no visible folio.
+
+This is a source-supported refinement of the already-complete P1 map, not a reopening of the P1 gate.
 
 ## Extension review — scans 151–224
 

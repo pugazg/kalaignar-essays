@@ -102,14 +102,14 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 105/224 canonical records; 102 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 110/224 canonical records; 107 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 105
+## P2 source use through scan 110
 
-Canonical records exist for scans **1–105**.
+Canonical records exist for scans **1–110**.
 
 Latest batch scans 96–100:
 
@@ -144,6 +144,21 @@ Latest batch scans 101–105:
 - scan 103 `அவனை நா நா` → scan 104 `வென்று மென்று...` continuation was confirmed directly.
 - scan 105 corrected historical reading `பதினாறு`; the page ends at physical fragment `ஆகி`; scan 106 was not opened.
 
+Latest batch scans 106–110:
+
+- scan 106 — main text / printed folio **103**
+- scan 107 — blank/reverse/show-through / no visible folio
+- scan 108 — illustrated intertitle **`சிறை`** / no visible folio
+- scan 109 — blank/reverse/show-through / no visible folio
+- scan 110 — `சிறை` body opening / no visible folio
+- verified — **5/5**
+- new holds — **0**
+- guessed readings — **0**
+- cumulative historical-glyph corrections — **9**
+- scan 105 `ஆகி` → scan 106 `யோரிடம்` continuation confirmed directly.
+- scan 108 directly refines the earlier generic transition classification to an illustrated `சிறை` intertitle with a barred/padlocked prison gate.
+- scan 110 begins the prison-section body text; scan 111 was not opened.
+
 Durable source-artifact anomaly:
 
 - scans 16–17 repeat printed folios 13–14;
@@ -158,4 +173,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 106–110.**
+**P2 scans 111–115.**

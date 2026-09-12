@@ -7,7 +7,7 @@ Controlling attached source: `TVA_BOK_0064140_ஆறுமாதக்_கடு
 - P0 — **COMPLETE / PASS**
 - physical source scans — **224**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 105/224 canonical records**
+- P2 — **IN PROGRESS — 110/224 canonical records**
 
 Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVIEW.md)
 
@@ -27,7 +27,7 @@ Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVI
 | 67 | blank / reverse / show-through | no independent folio |
 | 68–106 | main text | source-visible folios |
 | 107 | blank / reverse / show-through | no independent folio |
-| 108 | nonblank intertitle / structural transition | source-specific |
+| 108 | illustrated main-work intertitle / `சிறை` | no visible folio |
 | 109 | blank / reverse / show-through | no independent folio |
 | 110–150 | main text | source-visible folios |
 | 151–217 | main text | printed **148–214** |
@@ -54,7 +54,7 @@ P1 extension result:
 - source PDF is never committed;
 - section headings embedded on text-bearing pages remain part of main-text page records in P2.
 
-## P2 record status through scan 105
+## P2 record status through scan 110
 
 | Scan | Canonical record | Status |
 |---:|---|---|
@@ -163,11 +163,16 @@ P1 extension result:
 | 103 | `../pages/0103-murasu.md` | verified |
 | 104 | `../pages/0104-murasu.md` | verified |
 | 105 | `../pages/0105-murasu.md` | verified |
+| 106 | `../pages/0106-murasu.md` | verified |
+| 107 | `../pages/0107-blank-reverse.md` | verified |
+| 108 | `../pages/0108-sirai-illustration.md` | verified |
+| 109 | `../pages/0109-blank-reverse.md` | verified |
+| 110 | `../pages/0110-sirai.md` | verified |
 
 Current P2 totals:
 
-- coverage — **105/224**
-- verified — **102**
+- coverage — **110/224**
+- verified — **107**
 - needs-review — **3**
 - blocked — **0**
 
@@ -189,4 +194,4 @@ Scans 16–17 remain independent physical page records.
 
 ## Exact next activity
 
-**P2 scans 106–110.**
+**P2 scans 111–115.**

@@ -92,6 +92,7 @@ Minimum explicit family set:
 | 019 | 91–95 | 5 | 0 | 0 |
 | 020 | 96–100 | 5 | 0 | 0 |
 | 021 | 101–105 | 5 | 0 | 0 |
+| 022 | 106–110 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -438,10 +439,37 @@ Batch 021 result:
 - scan 103 terminal `அவனை நா நா` → scan 104 `வென்று மென்று...` continuation was confirmed directly.
 - scan 105 ends at the physical fragment `ஆகி`; scan 106 was **not opened**.
 
-## P2 cumulative totals through scan 105
+### Batch 022 — scans 106–110
 
-- canonical page records — **105/224**
-- verified — **102**
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 106 — `pages/0106-murasu.md` — **verified** — printed folio 103
+- scan 107 — `pages/0107-blank-reverse.md` — **verified** — blank/reverse/show-through — no visible folio
+- scan 108 — `pages/0108-sirai-illustration.md` — **verified** — illustrated intertitle `சிறை` — no visible folio
+- scan 109 — `pages/0109-blank-reverse.md` — **verified** — blank/reverse/show-through — no visible folio
+- scan 110 — `pages/0110-sirai.md` — **verified** — heading `சிறை` — no visible folio
+
+Batch 022 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- mandatory 13-family historical-glyph check was performed on scans 106 and 110; stylized scan 108 lettering was also directly checked.
+- scan 105 terminal `ஆகி` → scan 106 `யோரிடம்` continuation was confirmed directly, establishing `ஆகியோரிடம்` while preserving the physical page split.
+- scan 106 source-visible unusual forms including `சாப்பிட்டானபிறகுதான்`, `அகிம்சாப் ‘பிடாரி’`, `நின்றுளா`, `அநேகர்`, `ஐயாயிரம்பேர்`, and `ஐயாயிரவர்` were preserved without contextual normalization.
+- scans 107 and 109 contain only faint reverse-side show-through / paper toning and no independent printed text.
+- scan 108 directly resolves the P1 generic transition as an illustrated `சிறை` intertitle with a barred/padlocked prison gate; P1 remains COMPLETE / PASS.
+- scan 110 repeats heading `சிறை`, has no visible folio, and begins the continuous prison-section body text.
+- scan 110 source-visible forms including `முப்பத்தாறுபேரும்`, `துப்பாக்கி சகிதம்`, `நடுநிசியில்`, and `எண்ணிட` were preserved.
+- scan 110 ends with complete `என்ற செய்தி கிடைத்தது.`; scan 111 was **not opened**.
+
+## P2 cumulative totals through scan 110
+
+- canonical page records — **110/224**
+- verified — **107**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -465,4 +493,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 106–110.**
+**P2 scans 111–115.**
