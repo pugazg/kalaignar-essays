@@ -6,6 +6,8 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
+Handoff refreshed for a new chat at live checkpoint **`1deab9c0abd209a5db67d03974dae9406a907f64`**. If `main` has advanced when the next chat starts, preserve the newer durable state and continue from live `main`.
+
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
