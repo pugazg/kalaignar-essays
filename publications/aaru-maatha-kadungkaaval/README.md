@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 95/224 canonical records; 92 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 100/224 canonical records; 97 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–95**.
+Completed records: **scans 1–100**.
 
 Notable durable findings:
 
@@ -111,6 +111,7 @@ Notable durable findings:
 - scans 81–85 — **5/5 verified**, printed folios 78–82, no new holds; scan 80→81 continues `கலந்துகொள்ளவேண்டிய` → `வர்கள் 14ம் தேதி...`; scan 81→82 continues `நெருக்கடியான` → `நிலைகளுக்கிடையிலும்`; scan 85 ends at open `மாணிக்க`.
 - scans 86–90 — **5/5 verified**, printed folios 83–87, no new holds; scan 85→86 continues `மாணிக்க` → `குறள் ஒலிக்கும் மாதா...`; scan 89→90 continues `இருபத்தைந்துபேரும்` → `போலீஸ் வண்டியில் ஏற்றப்பட்டோம்.`; scan 90 ends with complete `அவர் தலைமையிலே படை போகிறது!`.
 - scans 91–95 — **5/5 verified**, printed folios 88–92, no new holds; scan 93→94 continues `அவர்போல் ஒரு` → `அறிஞரைக் காண முடியாதென...`; scan 94→95 continues open `கும்பாபிஷேகம்` → `செய்யும் செட்டிமார் நாட்டிலே பிறந்தவன் நான்.”`; scan 95 ends with complete `நாரண துரைக்கண்ணன் தலைமையில் நாங்கள் பேசினோம்.`.
+- scans 96–100 — **5/5 verified**, printed folios 93–97, no new holds; scan 96→97 continues `சிஷ்யனை` → `யும் தாக்கட்டும்’`; scan 97 difficult name resolved as `திருமுகமும்`; scan 99→100 continues `திரும்பினால் காதலி நிற` → `பாள்.`; scan 100 closes with a printed star separator.
 
 Open holds:
 
@@ -120,8 +121,8 @@ Open holds:
 
 Current P2 totals:
 
-- records — **95/224**
-- verified — **92**
+- records — **100/224**
+- verified — **97**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -129,6 +130,6 @@ Current P2 totals:
 
 ## Exact next activity
 
-**P2 scans 96–100.**
+**P2 scans 101–105.**
 
-Process the next five physical scans, synchronize controls, commit, and stop before scan 101.
+Process the next five physical scans, synchronize controls, commit, and stop before scan 106.
