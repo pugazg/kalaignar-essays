@@ -94,6 +94,7 @@ Minimum explicit family set:
 | 021 | 101–105 | 5 | 0 | 0 |
 | 022 | 106–110 | 5 | 0 | 0 |
 | 023 | 111–115 | 5 | 0 | 0 |
+| 024 | 116–120 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -494,10 +495,38 @@ Batch 023 result:
 - scan 115 heading `எங்கள் கூண்டு :` and source-visible `எத்திராஜ்`, `சிறுநீர் கழிக்கப் பட்டு`, `மலஜலம்`, `‘கக்கூஸ்’`, `“லாங் ஜம்ப்”`, and `கூளமும்` were preserved.
 - scan 115 ends with complete `பிறகுதான் உணவு வந்தது.`; scan 116 was **not opened**.
 
-## P2 cumulative totals through scan 115
+### Batch 024 — scans 116–120
 
-- canonical page records — **115/224**
-- verified — **112**
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 116 — `pages/0116-sirai.md` — **verified** — printed folio 113
+- scan 117 — `pages/0117-sirai.md` — **verified** — printed folio 114
+- scan 118 — `pages/0118-sirai.md` — **verified** — printed folio 115
+- scan 119 — `pages/0119-sirai.md` — **verified** — printed folio 116
+- scan 120 — `pages/0120-sirai.md` — **verified** — printed folio 117
+
+Batch 024 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- mandatory 13-family historical-glyph check was performed on all five pages.
+- scan 116 preserves source-visible `கேள்விப்பட்டிருப்பீர்கள்-`, `சுவை அறுந்துபோன`, `சோராமல் சுயேச்சையாக`, `சுழலுதண்ணே`, and `அடிவயிற்றிலேயிருந்து`.
+- scan 117 source-visible `வராதவைகளில்`, `தொளைக்கிறது`, `ஆபாசமாயிருந்த`, `என் நிற்கிறீர்கள்`, and `குடிக்க காயவிடாமல்` were preserved without contextual correction.
+- scan 117 terminal `மறுபடியும்` → scan 118 `அடைத்துவிட்டார்கள்.` continuation was confirmed directly.
+- scan 118 historical `ளை` identity was directly resolved as `கைதிகளை`; source-visible `நாலைந்து` and `கட்டுமஸ்தான` were preserved.
+- scan 119 historical `லை` identity was directly resolved as `தலையிலே`; source-visible `பழுப்புத்தளிர்`, `லிங்கப்பெருமாள்`, `சோளக்களியை`, and `மணிலாக் கொட்டையைக்` were preserved.
+- scan 119 terminal `மாஜிஸ்` → scan 120 `டிரேட் வந்தார்.` continuation was confirmed directly, establishing `மாஜிஸ்டிரேட்` across the physical page boundary.
+- scan 120 source-visible `நீதி மன்றம்`, `வரி கொடுக்கும்`, `செக்ஷனோ`, `ஆட்சி பீடம்`, and `கோரிக்கை யனுப்பலாம்` were preserved.
+- scan 120 ends with complete `சட்டத்திற்கு இருக்கிறது!`; scan 121 was **not opened**.
+
+## P2 cumulative totals through scan 120
+
+- canonical page records — **120/224**
+- verified — **117**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -521,4 +550,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 116–120.**
+**P2 scans 121–125.**

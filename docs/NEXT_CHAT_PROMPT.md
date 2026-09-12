@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 116–120
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 121–125
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -8,7 +8,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover. Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Handoff refresh state: **Batch 023 is durable / P2 = 115/224 canonical records; 112 verified / 3 needs-review**. Do not rely on a copied SHA. Fetch live `main` first; if it is newer, preserve the newer work and continue from that state.
+Handoff refresh state: **Batch 024 is durable / P2 = 120/224 canonical records; 117 verified / 3 needs-review**. Do not rely on a copied SHA. Fetch live `main` first; if it is newer, preserve the newer work and continue from that state.
 
 ## Controlling source
 
@@ -29,30 +29,30 @@ Do not use Tamil Digital Library, Wikisource, OCR text, alternate editions, or w
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 115/224 canonical records**
-  - verified — **112**
+- P2 — **IN PROGRESS — 120/224 canonical records**
+  - verified — **117**
   - needs-review — **3**
   - blocked — **0**
   - historical-glyph corrections — **9**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED**
 
-Latest P2 batch — scans **111–115** — is complete:
+Latest P2 batch — scans **116–120** — is complete:
 
-- printed folios — **108–112**
+- printed folios — **113–117**
 - verified — **5/5**
 - new holds — **0**
 - guessed readings — **0**
 - historical-glyph correction count — **unchanged at 9**
-- scan 111 `வடாற்காடு மாவட்டத்` → scan 112 `தில்` continuation confirmed directly
-- scan 112 historical `லை` identity confirmed as `இலைபோட்டு`; source-visible `செல்வில்` retained
-- scan 113 source-visible `என் அப்போதே` and `என் தான்` retained without normalization
-- scan 113 `எனக்கு நானே` → scan 114 `ஆச்சரியப்படுவேன்` continuation confirmed directly
-- scan 114 source-visible `வேடந்தாங்கி`, `இருபதுக்குட்பட்ட`, `நாலந்து`, and `இருக்கமுடியும்` retained
-- scan 115 heading **`எங்கள் கூண்டு :`**
-- scan 115 source-visible `எத்திராஜ்`, `சிறுநீர் கழிக்கப் பட்டு`, `மலஜலம்`, `‘கக்கூஸ்’`, `“லாங் ஜம்ப்”`, and `கூளமும்` retained
-- scan 115 ends with complete `பிறகுதான் உணவு வந்தது.`
-- scan 116 was **not opened**
+- scan 116 source-visible `கேள்விப்பட்டிருப்பீர்கள்-`, `சுவை அறுந்துபோன`, `சோராமல் சுயேச்சையாக`, `சுழலுதண்ணே`, and `அடிவயிற்றிலேயிருந்து` retained
+- scan 117 source-visible `வராதவைகளில்`, `தொளைக்கிறது`, `என் நிற்கிறீர்கள்`, and `குடிக்க காயவிடாமல்` retained without normalization
+- scan 117 `மறுபடியும்` → scan 118 `அடைத்துவிட்டார்கள்.` continuation confirmed directly
+- scan 118 historical `ளை` identity confirmed as `கைதிகளை`; `நாலைந்து` and `கட்டுமஸ்தான` retained
+- scan 119 historical `லை` identity confirmed as `தலையிலே`; source-visible `பழுப்புத்தளிர்`, `லிங்கப்பெருமாள்`, and `மணிலாக் கொட்டையைக்` retained
+- scan 119 `மாஜிஸ்` → scan 120 `டிரேட் வந்தார்.` continuation confirmed directly
+- scan 120 source-visible `நீதி மன்றம்`, `வரி கொடுக்கும்`, `செக்ஷனோ`, `ஆட்சி பீடம்`, and `கோரிக்கை யனுப்பலாம்` retained
+- scan 120 ends with complete `சட்டத்திற்கு இருக்கிறது!`
+- scan 121 was **not opened**
 
 Open P2 holds remain:
 
@@ -64,7 +64,7 @@ Open P2 holds remain:
 
 P1 remains **COMPLETE / PASS**. Relevant next-range classification:
 
-- scans **116–120 — main text**
+- scans **121–125 — main text**
 
 P2 must still inspect every scan directly.
 
@@ -83,9 +83,9 @@ Read completely:
 9. `P1_SOURCE_STRUCTURE_REVIEW.md`
 10. `audit.md`
 
-## Exact next activity — P2 scans 116–120
+## Exact next activity — P2 scans 121–125
 
-Process **exactly scans 116–120 as one batch** from the attached PDF.
+Process **exactly scans 121–125 as one batch** from the attached PDF.
 
 For every page:
 
@@ -96,12 +96,12 @@ For every page:
 - separate non-print physical-copy marks;
 - never fill uncertainty from context.
 
-After scans 116–120:
+After scans 121–125:
 
 - synchronize all dependent controls;
 - commit immediately;
 - report verified / needs-review / hold counts;
 - set the next five-scan batch from live durable state;
-- stop before scan 121 unless explicitly asked to continue.
+- stop before scan 126 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.

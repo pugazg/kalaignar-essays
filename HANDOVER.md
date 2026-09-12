@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 023 / P2 scans 111–115** reached the durable state **115/224 canonical records; 112 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 024 / P2 scans 116–120** reached the durable state **120/224 canonical records; 117 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 115/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 120/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 115/224 records; 112 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 120/224 records; 117 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -581,10 +581,39 @@ Batch 023 result:
 - scan 115 ends with complete `பிறகுதான் உணவு வந்தது.`; scan 116 was **not opened**.
 
 
+### Batch 024 — scans 116–120
+
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 116 — `pages/0116-sirai.md` — **verified** — printed folio 113
+- scan 117 — `pages/0117-sirai.md` — **verified** — printed folio 114
+- scan 118 — `pages/0118-sirai.md` — **verified** — printed folio 115
+- scan 119 — `pages/0119-sirai.md` — **verified** — printed folio 116
+- scan 120 — `pages/0120-sirai.md` — **verified** — printed folio 117
+
+Batch 024 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- mandatory 13-family historical-glyph check was performed on all five pages.
+- scan 116 preserves source-visible `கேள்விப்பட்டிருப்பீர்கள்-`, `சுவை அறுந்துபோன`, `சோராமல் சுயேச்சையாக`, `சுழலுதண்ணே`, and `அடிவயிற்றிலேயிருந்து`.
+- scan 117 source-visible `வராதவைகளில்`, `தொளைக்கிறது`, `ஆபாசமாயிருந்த`, `என் நிற்கிறீர்கள்`, and `குடிக்க காயவிடாமல்` were preserved without contextual correction.
+- scan 117 terminal `மறுபடியும்` → scan 118 `அடைத்துவிட்டார்கள்.` continuation was confirmed directly.
+- scan 118 historical `ளை` identity was directly resolved as `கைதிகளை`; source-visible `நாலைந்து` and `கட்டுமஸ்தான` were preserved.
+- scan 119 historical `லை` identity was directly resolved as `தலையிலே`; source-visible `பழுப்புத்தளிர்`, `லிங்கப்பெருமாள்`, `சோளக்களியை`, and `மணிலாக் கொட்டையைக்` were preserved.
+- scan 119 terminal `மாஜிஸ்` → scan 120 `டிரேட் வந்தார்.` continuation was confirmed directly, establishing `மாஜிஸ்டிரேட்` across the physical page boundary.
+- scan 120 source-visible `நீதி மன்றம்`, `வரி கொடுக்கும்`, `செக்ஷனோ`, `ஆட்சி பீடம்`, and `கோரிக்கை யனுப்பலாம்` were preserved.
+- scan 120 ends with complete `சட்டத்திற்கு இருக்கிறது!`; scan 121 was **not opened**.
+
+
 ## Durable P2 totals
 
-- canonical page records — **115/224**
-- verified — **112**
+- canonical page records — **120/224**
+- verified — **117**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -596,11 +625,11 @@ Batch 023 result:
 
 ## Exact next activity
 
-**P2 scans 116–120.**
+**P2 scans 121–125.**
 
-Process exactly scans **116–120** as one five-scan batch from the attached PDF:
+Process exactly scans **121–125** as one five-scan batch from the attached PDF:
 
-- P1 classifies scans 116–120 as main text;
+- P1 classifies scans 121–125 as main text;
 - inspect every physical scan directly rather than relying on the structural map alone;
 - perform the mandatory historical-glyph family checks on every text-bearing page;
 - record visible printed folios only;
@@ -608,7 +637,7 @@ Process exactly scans **116–120** as one five-scan batch from the attached PDF
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 121 unless explicitly asked to continue.
+- stop before scan 126 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 

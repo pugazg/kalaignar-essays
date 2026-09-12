@@ -102,14 +102,14 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 115/224 canonical records; 112 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 120/224 canonical records; 117 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 115
+## P2 source use through scan 120
 
-Canonical records exist for scans **1–115**.
+Canonical records exist for scans **1–120**.
 
 Latest batch scans 96–100:
 
@@ -172,6 +172,19 @@ Latest batch scans 111–115:
 - scan 115 heading `எங்கள் கூண்டு :`; source-visible `எத்திராஜ்`, `மலஜலம்`, `‘கக்கூஸ்’`, `“லாங் ஜம்ப்”`, and `கூளமும்` retained.
 - scan 115 ends with complete `பிறகுதான் உணவு வந்தது.`; scan 116 was not opened.
 
+Latest batch scans 116–120:
+
+- printed folios — **113–117**
+- verified — **5/5**
+- new holds — **0**
+- guessed readings — **0**
+- cumulative historical-glyph corrections — **9**
+- scan 117 `மறுபடியும்` → scan 118 `அடைத்துவிட்டார்கள்.` continuation confirmed directly.
+- scan 118 historical `ளை` identity confirmed as `கைதிகளை`; source-visible `நாலைந்து` / `கட்டுமஸ்தான` retained.
+- scan 119 historical `லை` identity confirmed as `தலையிலே`; source-visible `லிங்கப்பெருமாள்` and `மணிலாக் கொட்டையைக்` retained.
+- scan 119 `மாஜிஸ்` → scan 120 `டிரேட் வந்தார்.` continuation confirmed directly.
+- scan 120 ends with complete `சட்டத்திற்கு இருக்கிறது!`; scan 121 was not opened.
+
 Durable source-artifact anomaly:
 
 - scans 16–17 repeat printed folios 13–14;
@@ -186,4 +199,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 116–120.**
+**P2 scans 121–125.**

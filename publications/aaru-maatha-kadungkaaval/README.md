@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 115/224 canonical records; 112 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 120/224 canonical records; 117 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–115**.
+Completed records: **scans 1–120**.
 
 Notable durable findings:
 
@@ -119,6 +119,8 @@ Notable durable findings:
 
 - scans 111–115 — **5/5 verified**, printed folios **108–112**, no new holds; scan 111→112 directly continues `வடாற்காடு மாவட்டத்` → `தில்`; scan 112 historical `லை` identity was confirmed as `இலைபோட்டு`; scan 113→114 directly continues `எனக்கு நானே` → `ஆச்சரியப்படுவேன்`; scan 115 begins source heading `எங்கள் கூண்டு :`. Source-visible unusual forms including `செல்வில்`, `என் அப்போதே`, `என் தான்`, `வேடந்தாங்கி`, `நாலந்து`, `எத்திராஜ்`, `மலஜலம்`, and `கூளமும்` were preserved. Historical-glyph correction count remains **9**.
 
+- scans 116–120 — **5/5 verified**, printed folios **113–117**, no new holds; scan 117→118 directly continues `மறுபடியும்` → `அடைத்துவிட்டார்கள்.`; scan 118 historical `ளை` identity was confirmed as `கைதிகளை`; scan 119 historical `லை` identity was confirmed as `தலையிலே`; scan 119→120 directly continues `மாஜிஸ்` → `டிரேட் வந்தார்.` Source-visible unusual forms including `வராதவைகளில்`, `தொளைக்கிறது`, `என் நிற்கிறீர்கள்`, `குடிக்க காயவிடாமல்`, `கட்டுமஸ்தான`, `பழுப்புத்தளிர்`, `லிங்கப்பெருமாள்`, `மணிலாக் கொட்டையைக்`, `நீதி மன்றம்`, and `கோரிக்கை யனுப்பலாம்` were preserved. Historical-glyph correction count remains **9**.
+
 Open holds:
 
 - scan 3 — small imprint/printer text;
@@ -127,8 +129,8 @@ Open holds:
 
 Current P2 totals:
 
-- records — **115/224**
-- verified — **112**
+- records — **120/224**
+- verified — **117**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -136,6 +138,6 @@ Current P2 totals:
 
 ## Exact next activity
 
-**P2 scans 116–120.**
+**P2 scans 121–125.**
 
-Process exactly scans **116–120** as the next five-scan batch from live durable state. P1 classifies all five as main text. Inspect every scan directly, synchronize controls, commit, and stop before scan 121.
+Process exactly scans **121–125** as the next five-scan batch from live durable state. P1 classifies all five as main text. Inspect every scan directly, synchronize controls, commit, and stop before scan 126.
