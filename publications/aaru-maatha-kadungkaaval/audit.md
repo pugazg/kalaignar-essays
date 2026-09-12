@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 70/224 records; 67 verified / 3 needs-review** |
+| P2 | **IN PROGRESS — 75/224 records; 72 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -85,6 +85,7 @@ Minimum explicit family set:
 | 012 | 56–60 | 5 | 0 | 0 |
 | 013 | 61–65 | 5 | 0 | 0 |
 | 014 | 66–70 | 5 | 0 | 0 |
+| 015 | 71–75 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -263,10 +264,33 @@ Batch 014 checks:
 - source-visible forms `பாப்பிரம்மம்`, `இடையூறுகளுக்காளாகி`, `என்பால்`, `முறைகூட`, `மகஜர்`, `கருணாமிக்க`, and `நாலைந்துபேர்கூட` were preserved.
 - scan 70 ends with complete `குடிசை வீடுகள் தான் எங்களுக்குக் காட்டப்பட்டன.`; scan 71 remains unopened.
 
-## P2 cumulative totals through scan 70
+### Batch 015 — scans 71–75
 
-- canonical page records — **70/224**
-- verified — **67**
+| Scan | Printed folio | Record | Status | Open issue |
+|---:|:---:|---|---|---|
+| 71 | 68 | `0071-murasu.md` | verified | none |
+| 72 | 69 | `0072-murasu.md` | verified | none |
+| 73 | 70 | `0073-murasu.md` | verified | none |
+| 74 | 71 | `0074-murasu.md` | verified | none |
+| 75 | 72 | `0075-murasu.md` | verified | none |
+
+Batch 015 checks:
+
+- direct native/enlarged source-pixel comparison — **PASS**
+- historical 13-family check — **performed on all five pages**
+- guessed readings — **0**
+- new unresolved printed-text holds — **0**
+- cumulative historical-glyph corrections — **1**
+- scan 71 `கிடக்கிறது` → scan 72 `வடநாட்டு முதலாளியால்!` was confirmed directly.
+- scan 73 `வட நாட்` → scan 74 `டானின்` was confirmed as a physical continuation; page-level fragments were left unchanged.
+- source-visible unusual forms including `மிகமிஞ்சிய`, `தாறுமாறாய்ப்`, `சூடான பெருமூச்சாலேயே`, `வெள்ளிப் பணமாக்கி`, `நிலத்துக்குடையோர்`, `உறிஞ்சும் கூட்டுறவிலிருந்து`, `கொள்ளையடித்தது மில்லாமல்`, `அவதிக்குள்ளாயினர்`, `மைனுதீன்`, and `கொச்சைத் தமிழால்` were preserved.
+- scan 75 historical `ணா` identity was decoded as `அண்ணா` in modern Unicode without lexical modernization.
+- scan 75 ends with complete `வெளிவந்தன.`; scan 76 remains unopened.
+
+## P2 cumulative totals through scan 75
+
+- canonical page records — **75/224**
+- verified — **72**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -290,4 +314,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 71–75.**
+**P2 scans 76–80.**
