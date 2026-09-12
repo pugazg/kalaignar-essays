@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 75/224 records; 72 verified / 3 needs-review** |
+| P2 | **IN PROGRESS — 80/224 records; 77 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -86,6 +86,7 @@ Minimum explicit family set:
 | 013 | 61–65 | 5 | 0 | 0 |
 | 014 | 66–70 | 5 | 0 | 0 |
 | 015 | 71–75 | 5 | 0 | 0 |
+| 016 | 76–80 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -287,10 +288,33 @@ Batch 015 checks:
 - scan 75 historical `ணா` identity was decoded as `அண்ணா` in modern Unicode without lexical modernization.
 - scan 75 ends with complete `வெளிவந்தன.`; scan 76 remains unopened.
 
-## P2 cumulative totals through scan 75
+### Batch 016 — scans 76–80
 
-- canonical page records — **75/224**
-- verified — **72**
+| Scan | Printed folio | Record | Status | Open issue |
+|---:|:---:|---|---|---|
+| 76 | 73 | `0076-murasu.md` | verified | none |
+| 77 | 74 | `0077-murasu.md` | verified | none |
+| 78 | 75 | `0078-murasu.md` | verified | none |
+| 79 | 76 | `0079-murasu.md` | verified | none |
+| 80 | 77 | `0080-murasu.md` | verified | none |
+
+Batch 016 checks:
+
+- direct native/enlarged source-pixel comparison — **PASS**
+- historical 13-family check — **performed on all five pages**
+- guessed readings — **0**
+- new unresolved printed-text holds — **0**
+- cumulative historical-glyph corrections — **1**
+- scan 76 `அவர்` → scan 77 `களிடத்திலே` was directly confirmed.
+- scan 77 `பெற்ற` → scan 78 `சட்டசபை உறுப்பினர்களும்` was directly confirmed.
+- scan 78 `உல்லா` → scan 79 `சம், உற்சாகம்.` was directly confirmed; the page fragments remain source-faithful.
+- source-visible unusual forms were preserved without normalization, including `கிழப் பருவமும்`, `செய்திகேட்டு`, `இளைஞர்கட்கும்-ஒளிப்பாதையைக்`, `போர்முனையிலேதான்`, `ஆசையினில்`, `மருத்துவ மனையில்`, `நண்பர் பாரவிடம்`, `குளுரைக்கும்`, `நெஞ்சுமுத்தம்`, `இனித்து நிற்கும்`, `வென்றே மென்று!`, `உறைவிட்டெழும்`, `சிமண்டு`, `கடைசிக்கூட்டம்`, `பிணமாகப்போன`, `கழகத்தின்பால்`, `ஒக்கு யாரும்`, `பொன்னிக் மொழிகள்`, and `ஊராள வந்தவர்!`.
+- scan 80 ends at open `கலந்துகொள்ளவேண்டிய`; scan 81 remains unopened.
+
+## P2 cumulative totals through scan 80
+
+- canonical page records — **80/224**
+- verified — **77**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -314,4 +338,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 76–80.**
+**P2 scans 81–85.**
