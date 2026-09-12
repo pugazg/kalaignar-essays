@@ -101,26 +101,27 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 55/224 canonical records; 52 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 60/224 canonical records; 57 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 55
+## P2 source use through scan 60
 
-Canonical records exist for scans **1–55**.
+Canonical records exist for scans **1–60**.
 
-Latest batch scans 51–55:
+Latest batch scans 56–60:
 
-- printed folios — **48–52**
+- printed folios — **53–57**
 - verified — **5/5**
 - new holds — **0**
 - guessed readings — **0**
 - cumulative historical-glyph corrections — **1**
-- scan 51 heading — `அரியலூர் :`
-- direct continuations confirmed: scan 51 `புறப்` → scan 52 `பட்டோம்`; scan 52 `வந்திருக்க` → scan 53 `குமே!`; scan 53 `அவர்` → scan 54 `பிரச்சாரப் பணியில்`.
-- unusual source forms `குட்டப்படுகிற`, `திரா படையைத்`, `நெளூர்`, `எசனே`, and `இளைஞரேறுகள்` were preserved.
-- scan 55 ends at `வளர்ந்துவரும்`; continuation belongs to scan 56 and is not inferred.
+- scan 60 heading — `முரசு முழங்கியது`
+- direct continuations confirmed: scan 55 `வளர்ந்துவரும்` → scan 56 `எம்மைப் பார்!`; scan 56 `வாடகைக்கார் ஒன்றில்,` → scan 57 `நான் -`.
+- unusual source forms including `எசனே`, `அம்பிலையும்`, `டடடட`, `மாதம் போம் காத வழி`, `என்ஜினுக்கு`, `மல்லக்கொம்பையெனும்`, `நாகை வட்டாரக் கழகத்தின்`, `வறட்டு தத்துவத்தின்`, `வாணிப்பர்`, `கேத்திரத்தைப்பற்றி`, `அண்ணுமலை`, `கண்ணென`, `பண் பாடும்`, and `நாட்டுக்களித்த` were preserved.
+- scan 60 ends with complete `திருக்கோயில்.`; scan 61 was not opened.
+
 
 Durable source-artifact anomaly:
 
@@ -136,4 +137,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 56–60.**
+**P2 scans 61–65.**
