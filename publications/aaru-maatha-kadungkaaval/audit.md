@@ -398,10 +398,13 @@ Batch 020 checks:
 - guessed readings — **0**
 - new unresolved printed-text holds — **0**
 - cumulative historical-glyph corrections — **1**
+- post-batch enlarged-pixel recheck corrected source readings in scans 96–100; this does **not** change the batch status totals or open-hold count.
 - scan 96 `சிஷ்யனை` → scan 97 `யும் தாக்கட்டும்’` was confirmed directly.
-- scan 97 difficult name was resolved as `திருமுகமும்`.
+- scan 97 personal name is source-resolved as `தருமு`: `தருமுவும்` / `தருமு முதலியோரை`.
+- scan 98 corrected source readings include `பெண்ணாகவா`, `வாழ்க்கைக்குத் துணை`, `தொடமுடியும்`, `கிடைக்கிற இரவும்`, `கற்பனையூறுகிறது`, `கலவி நடுப்பாதையிலே`, and `வர்ணித்த`.
+- scan 99 corrected source readings include `வியாபாரத்துக்குப்போன மகனே`, `தலை சுழல சுழல`, and `வைத்தாலென்னால்`.
 - scan 99 `திரும்பினால் காதலி நிற` → scan 100 `பாள்.` was confirmed directly.
-- source-visible unusual wording was retained rather than context-corrected, including `சாப்பிட்டான பிறகு!`, `மூன்றும் படை வரிசைக்கு`, `தளபதியாகினேன்`, `திருமு முதலியோரை`, `கலவி நடுப்பானதயிலே காதல் பேசி`, `போக்காளி`, `அக்கிரமக்காரர்களேத்`, `வாழ்போகம் இல்லாள்`, `பிளந்தானும்`, and `கல்லக்குடிகளத்திலே`.
+- scan 100 corrected source readings include `வரப்போகும் இல்லாள்`, `என்ன சொல்வதற்காகப் பிளந்தானே?`, `கடைசிச் சேதி சொன்னே`, `என்னையேன்`, `பிணக்கோலம்`, and `யானைத்தீப் பசி`.
 - scan 100 closes with a printed star separator; scan 101 remains unopened.
 
 ## P2 cumulative totals through scan 100
