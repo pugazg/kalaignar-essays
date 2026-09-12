@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed for a new chat at live checkpoint **`1deab9c0abd209a5db67d03974dae9406a907f64`**. If `main` has advanced when the next chat starts, preserve the newer durable state and continue from live `main`.
+Handoff refreshed for a new chat after **Batch 011 / P2 scans 51–55** reached the durable state **55/224 canonical records; 52 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 

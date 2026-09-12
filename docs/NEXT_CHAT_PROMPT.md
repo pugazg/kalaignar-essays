@@ -8,7 +8,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover. Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Handoff refresh checkpoint: **`1deab9c0abd209a5db67d03974dae9406a907f64`**. This SHA is only a starting reference; if live `main` is newer, preserve the newer work and continue from that state.
+Handoff refresh state: **Batch 011 is durable / P2 = 55/224 canonical records; 52 verified / 3 needs-review**. Do not rely on a copied SHA. Fetch live `main` first; if it is newer, preserve the newer work and continue from that state.
 
 ## Controlling source
 
