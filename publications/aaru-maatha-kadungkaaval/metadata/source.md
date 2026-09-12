@@ -102,14 +102,14 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 120/224 canonical records; 117 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 125/224 canonical records; 122 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 120
+## P2 source use through scan 125
 
-Canonical records exist for scans **1–120**.
+Canonical records exist for scans **1–125**.
 
 Latest batch scans 96–100:
 
@@ -185,6 +185,18 @@ Latest batch scans 116–120:
 - scan 119 `மாஜிஸ்` → scan 120 `டிரேட் வந்தார்.` continuation confirmed directly.
 - scan 120 ends with complete `சட்டத்திற்கு இருக்கிறது!`; scan 121 was not opened.
 
+Latest batch scans 121–125:
+
+- printed folios — **118–122**
+- verified — **5/5**
+- new holds — **0**
+- guessed readings — **0**
+- cumulative historical-glyph corrections — **9**
+- scan 123 `எப்படியென்கிறீர்களா -` → scan 124 `பெய்த மழை முழுதும்...` continuation confirmed directly.
+- scan 124 historical `லை` identity confirmed in `தலைமுழுகி`; `பீர்க் / காக்கள்` line-wrap joined as `பீர்க்காக்கள்`.
+- scan 125 same-edition comparison confirmed `லை` in `ஆலை` / `மலைக்கோட்டையின்`; source-visible `ஆலை தெளிந்த உள்ளம்` retained.
+- scan 125 ends at `கோட்டைபோன்ற`; scan 126 was not opened.
+
 Durable source-artifact anomaly:
 
 - scans 16–17 repeat printed folios 13–14;
@@ -199,4 +211,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 121–125.**
+**P2 scans 126–130.**

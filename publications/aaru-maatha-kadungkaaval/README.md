@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 120/224 canonical records; 117 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 125/224 canonical records; 122 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–120**.
+Completed records: **scans 1–125**.
 
 Notable durable findings:
 
@@ -121,6 +121,8 @@ Notable durable findings:
 
 - scans 116–120 — **5/5 verified**, printed folios **113–117**, no new holds; scan 117→118 directly continues `மறுபடியும்` → `அடைத்துவிட்டார்கள்.`; scan 118 historical `ளை` identity was confirmed as `கைதிகளை`; scan 119 historical `லை` identity was confirmed as `தலையிலே`; scan 119→120 directly continues `மாஜிஸ்` → `டிரேட் வந்தார்.` Source-visible unusual forms including `வராதவைகளில்`, `தொளைக்கிறது`, `என் நிற்கிறீர்கள்`, `குடிக்க காயவிடாமல்`, `கட்டுமஸ்தான`, `பழுப்புத்தளிர்`, `லிங்கப்பெருமாள்`, `மணிலாக் கொட்டையைக்`, `நீதி மன்றம்`, and `கோரிக்கை யனுப்பலாம்` were preserved. Historical-glyph correction count remains **9**.
 
+- scans 121–125 — **5/5 verified**, printed folios **118–122**, no new holds; scan 123→124 directly continues `எப்படியென்கிறீர்களா -` → `பெய்த மழை...`; scan 124 historical `லை` identity was confirmed in `தலைமுழுகி`; scan 125 same-edition comparison confirmed historical `லை` in `ஆலை` / `மலைக்கோட்டையின்`. Source-visible unusual forms including `முறைதானிது`, `மூணுமாதம்`, `என் அப்படி?`, `ஒலித்த குற்றத்திற்கு`, `பிடியுங்கள் சாபம்!`, `தார்ரோடுதான்`, `பீர்க்காக்கள்`, `குடேறியிருந்த`, and `ஆலை தெளிந்த உள்ளம்` were preserved. Historical-glyph correction count remains **9**.
+
 Open holds:
 
 - scan 3 — small imprint/printer text;
@@ -129,8 +131,8 @@ Open holds:
 
 Current P2 totals:
 
-- records — **120/224**
-- verified — **117**
+- records — **125/224**
+- verified — **122**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -138,6 +140,6 @@ Current P2 totals:
 
 ## Exact next activity
 
-**P2 scans 121–125.**
+**P2 scans 126–130.**
 
-Process exactly scans **121–125** as the next five-scan batch from live durable state. P1 classifies all five as main text. Inspect every scan directly, synchronize controls, commit, and stop before scan 126.
+Process exactly scans **126–130** as the next five-scan batch from live durable state. P1 classifies all five as main text. Inspect every scan directly, synchronize controls, commit, and stop before scan 131.

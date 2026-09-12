@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 121–125
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 126–130
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -8,7 +8,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover. Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Handoff refresh state: **Batch 024 is durable / P2 = 120/224 canonical records; 117 verified / 3 needs-review**. Do not rely on a copied SHA. Fetch live `main` first; if it is newer, preserve the newer work and continue from that state.
+Handoff refresh state: **Batch 025 is durable / P2 = 125/224 canonical records; 122 verified / 3 needs-review**. Do not rely on a copied SHA. Fetch live `main` first; if it is newer, preserve the newer work and continue from that state.
 
 ## Controlling source
 
@@ -29,30 +29,30 @@ Do not use Tamil Digital Library, Wikisource, OCR text, alternate editions, or w
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 120/224 canonical records**
-  - verified — **117**
+- P2 — **IN PROGRESS — 125/224 canonical records**
+  - verified — **122**
   - needs-review — **3**
   - blocked — **0**
   - historical-glyph corrections — **9**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED**
 
-Latest P2 batch — scans **116–120** — is complete:
+Latest P2 batch — scans **121–125** — is complete:
 
-- printed folios — **113–117**
+- printed folios — **118–122**
 - verified — **5/5**
 - new holds — **0**
 - guessed readings — **0**
 - historical-glyph correction count — **unchanged at 9**
-- scan 116 source-visible `கேள்விப்பட்டிருப்பீர்கள்-`, `சுவை அறுந்துபோன`, `சோராமல் சுயேச்சையாக`, `சுழலுதண்ணே`, and `அடிவயிற்றிலேயிருந்து` retained
-- scan 117 source-visible `வராதவைகளில்`, `தொளைக்கிறது`, `என் நிற்கிறீர்கள்`, and `குடிக்க காயவிடாமல்` retained without normalization
-- scan 117 `மறுபடியும்` → scan 118 `அடைத்துவிட்டார்கள்.` continuation confirmed directly
-- scan 118 historical `ளை` identity confirmed as `கைதிகளை`; `நாலைந்து` and `கட்டுமஸ்தான` retained
-- scan 119 historical `லை` identity confirmed as `தலையிலே`; source-visible `பழுப்புத்தளிர்`, `லிங்கப்பெருமாள்`, and `மணிலாக் கொட்டையைக்` retained
-- scan 119 `மாஜிஸ்` → scan 120 `டிரேட் வந்தார்.` continuation confirmed directly
-- scan 120 source-visible `நீதி மன்றம்`, `வரி கொடுக்கும்`, `செக்ஷனோ`, `ஆட்சி பீடம்`, and `கோரிக்கை யனுப்பலாம்` retained
-- scan 120 ends with complete `சட்டத்திற்கு இருக்கிறது!`
-- scan 121 was **not opened**
+- scan 121 source-visible `முறைதானிது`, `மழைக்கிடையிலேயுங்கூட`, first `முப்பத்தி ஐந்து`, and later `முப்பத்திஐந்து` retained
+- scan 122 source-visible `படைவரிசை யென்ற`, `மூணுமாதம்`, `ஆறுமாதம்தான்`, `என் அப்படி?`, and `திட்டத்துடனே-என்னவோ` retained
+- scan 123 source-visible `ஆகாகா!`, `ஆறுவருடமே போட்டும்`, `ஒலித்த குற்றத்திற்கு`, `பிடியுங்கள் சாபம்!`, and `அவர்கள்மட்டும்` retained
+- scan 123 `எப்படியென்கிறீர்களா -` → scan 124 `பெய்த மழை முழுதும்...` continuation confirmed directly
+- scan 124 historical `லை` identity confirmed in `தலைமுழுகி`; source line-wrap `பீர்க் / காக்கள்` joined as `பீர்க்காக்கள்`
+- scan 124 source-visible `தார்ரோடுதான்`, `காராக்கிரகத்தையும்`, `கக்கூசையும்`, and `குடேறியிருந்த` retained
+- scan 125 same-edition comparison confirmed historical `லை` in `ஆலை` / `மலைக்கோட்டையின்`; `ஆலை தெளிந்த உள்ளம்` retained without contextual correction
+- scan 125 ends at physical fragment `கோட்டைபோன்ற`
+- scan 126 was **not opened**
 
 Open P2 holds remain:
 
@@ -64,7 +64,7 @@ Open P2 holds remain:
 
 P1 remains **COMPLETE / PASS**. Relevant next-range classification:
 
-- scans **121–125 — main text**
+- scans **126–130 — main text**
 
 P2 must still inspect every scan directly.
 
@@ -83,9 +83,9 @@ Read completely:
 9. `P1_SOURCE_STRUCTURE_REVIEW.md`
 10. `audit.md`
 
-## Exact next activity — P2 scans 121–125
+## Exact next activity — P2 scans 126–130
 
-Process **exactly scans 121–125 as one batch** from the attached PDF.
+Process **exactly scans 126–130 as one batch** from the attached PDF.
 
 For every page:
 
@@ -96,12 +96,12 @@ For every page:
 - separate non-print physical-copy marks;
 - never fill uncertainty from context.
 
-After scans 121–125:
+After scans 126–130:
 
 - synchronize all dependent controls;
 - commit immediately;
 - report verified / needs-review / hold counts;
 - set the next five-scan batch from live durable state;
-- stop before scan 126 unless explicitly asked to continue.
+- stop before scan 131 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
