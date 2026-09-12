@@ -101,26 +101,26 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 60/224 canonical records; 57 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 65/224 canonical records; 62 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 60
+## P2 source use through scan 65
 
-Canonical records exist for scans **1–60**.
+Canonical records exist for scans **1–65**.
 
-Latest batch scans 56–60:
+Latest batch scans 61–65:
 
-- printed folios — **53–57**
+- printed folios — **58–62**
 - verified — **5/5**
 - new holds — **0**
 - guessed readings — **0**
 - cumulative historical-glyph corrections — **1**
-- scan 60 heading — `முரசு முழங்கியது`
-- direct continuations confirmed: scan 55 `வளர்ந்துவரும்` → scan 56 `எம்மைப் பார்!`; scan 56 `வாடகைக்கார் ஒன்றில்,` → scan 57 `நான் -`.
-- unusual source forms including `எசனே`, `அம்பிலையும்`, `டடடட`, `மாதம் போம் காத வழி`, `என்ஜினுக்கு`, `மல்லக்கொம்பையெனும்`, `நாகை வட்டாரக் கழகத்தின்`, `வறட்டு தத்துவத்தின்`, `வாணிப்பர்`, `கேத்திரத்தைப்பற்றி`, `அண்ணுமலை`, `கண்ணென`, `பண் பாடும்`, and `நாட்டுக்களித்த` were preserved.
-- scan 60 ends with complete `திருக்கோயில்.`; scan 61 was not opened.
+- scan 62 ends at `விழியோட்டும் -`; scan 63 directly continues `கோமான்!`.
+- difficult scan 63 closing cluster was resolved from enlarged source pixels as `தரணியில்`; no contextual reconstruction was used.
+- unusual source forms including `வேங்கை யெனத்`, `இயக்க மாம்`, `பாவியது`, `நாட்டுக் குழைக்கும்`, `தலைவனிய`, `பணி யேற்றேன்`, `நான்சென்ஸ்`, `ரயில் நிறுத்த’ மென்றது`, `முரசதிர்ந்தது`, `தொடோம்`, and `இதயங் கொண்டோர்` were preserved.
+- scan 65 ends with three `அதிர்ந்தது முரசு` lines carrying one, two and three exclamation marks, followed by a printed star; scan 66 was not opened.
 
 
 Durable source-artifact anomaly:
@@ -137,4 +137,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 61–65.**
+**P2 scans 66–70.**
