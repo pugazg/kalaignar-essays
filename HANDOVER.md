@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 019 / P2 scans 91–95** reached the durable state **95/224 canonical records; 92 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 020 / P2 scans 96–100** reached the durable state **100/224 canonical records; 97 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 95/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 100/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 95/224 records; 92 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 100/224 records; 97 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -467,10 +467,34 @@ Batch 019 result:
 - source-visible unusual forms including `வாணிக்கக்`, `என்னற்கோ`, `முப்பத்திஆறு`, `அரசோச்சும்`, `தியேட்டர்ஸ்க்கு`, `நடப்படுகிறதே`, `அவரவர்க்கட்கு`, `வீணை குழப்பம்`, `அட பரமசிவம்`, `வியப்பாகவேயிருந்தது`, `கூசாமல் சந்நியாசங்கொள்`, and `ராஜபோகமானது` were preserved.
 - scan 95 ends with complete `நாரண துரைக்கண்ணன் தலைமையில் நாங்கள் பேசினோம்.`; scan 96 remains intentionally unopened.
 
+### Batch 020 — scans 96–100
+
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 96 — `pages/0096-murasu.md` — **verified** — printed folio 93
+- scan 97 — `pages/0097-murasu.md` — **verified** — printed folio 94
+- scan 98 — `pages/0098-murasu.md` — **verified** — printed folio 95 — heading `கேசவன்`
+- scan 99 — `pages/0099-murasu.md` — **verified** — printed folio 96
+- scan 100 — `pages/0100-murasu.md` — **verified** — printed folio 97 — printed star separator
+
+Batch 020 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 1**
+- scan 96 `சிஷ்யனை` → scan 97 `யும் தாக்கட்டும்’` continuation was directly confirmed.
+- difficult scan 97 name was resolved from enlarged source pixels as `திருமுகமும்`.
+- scan 99 `திரும்பினால் காதலி நிற` → scan 100 `பாள்.` continuation was directly confirmed.
+- source-visible unusual forms including `சாப்பிட்டான பிறகு!`, `மூன்றும் படை வரிசைக்கு`, `தளபதியாகினேன்`, `திருமு முதலியோரை`, `கலவி நடுப்பானதயிலே காதல் பேசி`, `போக்காளி`, `அக்கிரமக்காரர்களேத்`, `வாழ்போகம் இல்லாள்`, `பிளந்தானும்`, and `கல்லக்குடிகளத்திலே` were preserved.
+- scan 100 closes with a printed star separator; scan 101 remains intentionally unopened.
+
 ## Durable P2 totals
 
-- canonical page records — **95/224**
-- verified — **92**
+- canonical page records — **100/224**
+- verified — **97**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -482,9 +506,9 @@ Batch 019 result:
 
 ## Exact next activity
 
-**P2 scans 96–100.**
+**P2 scans 101–105.**
 
-Process exactly scans **96–100** as one five-scan batch from the attached PDF:
+Process exactly scans **101–105** as one five-scan batch from the attached PDF:
 
 - visually transcribe each whole page from source pixels;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
@@ -493,7 +517,7 @@ Process exactly scans **96–100** as one five-scan batch from the attached PDF:
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 101 unless explicitly asked to continue.
+- stop before scan 106 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 
