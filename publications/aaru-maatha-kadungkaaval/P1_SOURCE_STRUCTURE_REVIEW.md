@@ -125,6 +125,6 @@ P2 and P5 must follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` and explic
 
 ## Exact next activity
 
-**P2 scans 71–75.**
+**P2 scans 76–80.**
 
 P1 remains closed after the scan-66 structural refinement. Do not reopen it unless genuinely new structural source evidence appears.
