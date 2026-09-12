@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 017 / P2 scans 81–85** reached the durable state **85/224 canonical records; 82 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 018 / P2 scans 86–90** reached the durable state **90/224 canonical records; 87 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 85/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 90/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 85/224 records; 82 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 90/224 records; 87 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -421,10 +421,33 @@ Batch 017 result:
 - source-visible unusual forms including `கவ்விக் கொண்டு போலவே`, `கப்பிக்கொண்டிருந்தது`, `வெங்கு நதி தனிற்`, `முத்துப்பந்தாக்கள்`, `ஊழியவரையில்`, `ஒண்டவந்த பிடாரிகள்`, `ஒதிய மிலர்கள்`, `களங் காண`, `விலங்கொடிக்கும்`, `கிளம்பிற்றுக்காண்`, `தேடுதுகாண்`, `புழுதி யெழுப்பியவாறு`, `கண்களுக் குத்தியிருக்கும்`, and `பலகை இளித்தபடி` were preserved without normalization.
 - scan 85 ends at the physical fragment `மாணிக்க`; scan 86 remains intentionally unopened.
 
+### Batch 018 — scans 86–90
+
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 86 — `pages/0086-murasu.md` — **verified** — printed folio 83
+- scan 87 — `pages/0087-murasu.md` — **verified** — printed folio 84
+- scan 88 — `pages/0088-murasu.md` — **verified** — printed folio 85
+- scan 89 — `pages/0089-murasu.md` — **verified** — printed folio 86
+- scan 90 — `pages/0090-murasu.md` — **verified** — printed folio 87
+
+Batch 018 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 1**
+- scan 85 `மாணிக்க` → scan 86 `குறள் ஒலிக்கும் மாதா...` continuation was directly confirmed.
+- scan 89 `இருபத்தைந்துபேரும்` → scan 90 `போலீஸ் வண்டியில் ஏற்றப்பட்டோம்.` continuation was directly confirmed.
+- source-visible unusual forms including `புடைகுழ்ந்து`, `மோழைகள்`, `வாழைக்குக் கன்றல்ல - ஆளுக்கு விழுதுகள்`, `நாங்களுந்தான்`, `மக்களுந்தான்`, `திட்டிய கடிதங்கள்`, `கிரீச்`, `மரக் மரக்`, `ஊளையிட்டது`, `தேசத்தொண்டர்கள்`, `என் உடலே ஒட்டினாற்போல்`, `அணையுடைத்தெழும் நித்தம் போலக்`, `கிளிக்கூண்டு`, and `கைது செய்யப்பட்டவில்லை` were preserved.
+- scan 90 ends with complete `அவர் தலைமையிலே படை போகிறது!`; scan 91 remains intentionally unopened.
+
 ## Durable P2 totals
 
-- canonical page records — **85/224**
-- verified — **82**
+- canonical page records — **90/224**
+- verified — **87**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -436,19 +459,18 @@ Batch 017 result:
 
 ## Exact next activity
 
-**P2 scans 86–90.**
+**P2 scans 91–95.**
 
-Process exactly scans **86–90** as one five-scan batch from the attached PDF:
+Process exactly scans **91–95** as one five-scan batch from the attached PDF:
 
 - visually transcribe each whole page from source pixels;
-- read scan 86 directly to continue scan 85's open `மாணிக்க` fragment; do not guess completion;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
 - perform the mandatory historical-glyph family checks;
 - record visible printed folios only;
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 91 unless explicitly asked to continue.
+- stop before scan 96 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 
