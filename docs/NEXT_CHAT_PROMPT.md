@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 66–70
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 71–75
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -8,7 +8,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover. Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Handoff refresh state: **Batch 013 is durable / P2 = 65/224 canonical records; 62 verified / 3 needs-review**. Do not rely on a copied SHA. Fetch live `main` first; if it is newer, preserve the newer work and continue from that state.
+Handoff refresh state: **Batch 014 is durable / P2 = 70/224 canonical records; 67 verified / 3 needs-review**. Do not rely on a copied SHA. Fetch live `main` first; if it is newer, preserve the newer work and continue from that state.
 
 ## Controlling source
 
@@ -29,25 +29,28 @@ Do not use Tamil Digital Library, Wikisource, OCR text, alternate editions, or w
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 65/224 canonical records**
-  - verified — **62**
+- P2 — **IN PROGRESS — 70/224 canonical records**
+  - verified — **67**
   - needs-review — **3**
   - blocked — **0**
   - historical-glyph corrections — **1**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED**
 
-Latest P2 batch — scans **61–65** — is complete:
+Latest P2 batch — scans **66–70** — is complete:
 
 - verified — **5/5**
-- printed folios — **58–62**
 - new holds — **0**
 - historical-glyph correction count — **unchanged at 1**
-- scan 62 `விழியோட்டும் -` → scan 63 `கோமான்!` continuation confirmed directly
-- scan 63 difficult closing cluster resolved from enlarged source pixels as `தரணியில்`
-- source-visible forms including `வேங்கை யெனத்`, `இயக்க மாம்`, `பாவியது`, `நாட்டுக் குழைக்கும்`, `தலைவனிய`, `பணி யேற்றேன்`, `நான்சென்ஸ்`, `ரயில் நிறுத்த’ மென்றது`, `முரசதிர்ந்தது`, `தொடோம்`, and `இதயங் கொண்டோர்` were preserved
-- scan 65 closes with three `அதிர்ந்தது முரசு` lines using one, two and three exclamation marks, followed by a printed star
-- scan 66 was not opened.
+- scan 66 — illustrated `தடை` / `கல்லக்குடி` page; no visible printed folio
+- scan 67 — directly confirmed blank/reverse/show-through; no visible printed folio
+- scan 68 — heading `களம்`; no visible printed folio and no inferred folio inserted
+- scan 69 / 70 — visible printed folios **66 / 67**
+- scan 68 `எதையும் முடியாது` → scan 69 `என்று என்னிடம் கூறமாட்டார்` continuation confirmed directly
+- scan 69 difficult phrase resolved as `தில்லையிலே அண்ணா கொட்டிய முரசின் எதிரொலியாக இருந்தது`
+- source-visible forms including `பாப்பிரம்மம்`, `இடையூறுகளுக்காளாகி`, `என்பால்`, `முறைகூட`, `மகஜர்`, `கருணாமிக்க`, and `நாலைந்துபேர்கூட` were preserved
+- scan 70 ends with complete `குடிசை வீடுகள் தான் எங்களுக்குக் காட்டப்பட்டன.`
+- scan 71 was not opened.
 
 Open P2 holds remain:
 
@@ -55,15 +58,15 @@ Open P2 holds remain:
 - scan 4 — exact publisher-note transcription;
 - scan 18 — physically obscured cluster after `ஒருவராக ஆ`.
 
-## Full P1 structure — CLOSED / PASS
+## P1 structural note
 
-Relevant next-range structural expectations only:
+P2 direct inspection refined scan 66 from generic main text to an illustrated main-work intertitle / transition page. P1 remains **COMPLETE / PASS**.
 
-- scan 66 — main text
-- scan 67 — blank / reverse / show-through
-- scans 68–70 — main text
+Relevant next-range P1 classification:
 
-These are P1 structural classifications only. P2 must inspect each scan directly and must not infer transcription content from P1.
+- scans **71–75 — main text**
+
+P2 must still inspect every scan directly.
 
 ## Mandatory startup
 
@@ -80,9 +83,9 @@ Read completely:
 9. `P1_SOURCE_STRUCTURE_REVIEW.md`
 10. `audit.md`
 
-## Exact next activity — P2 scans 66–70
+## Exact next activity — P2 scans 71–75
 
-Process **exactly scans 66–70 as one batch** from the attached PDF.
+Process **exactly scans 71–75 as one batch** from the attached PDF.
 
 For every text-bearing page:
 
@@ -93,17 +96,12 @@ For every text-bearing page:
 - separate non-print physical-copy marks;
 - never fill uncertainty from context.
 
-For scan 67:
-
-- inspect it directly;
-- if P1's blank/reverse classification is confirmed, create the canonical blank/reverse record rather than inventing body text.
-
-After scans 66–70:
+After scans 71–75:
 
 - synchronize all dependent controls;
 - commit immediately;
 - report verified / needs-review / hold counts;
 - set the next five-scan batch from live durable state;
-- stop before scan 71 unless explicitly asked to continue.
+- stop before scan 76 unless explicitly asked to continue.
 
-Do not reopen P1 unless genuinely new structural evidence appears.
+Do not reopen P1 unless genuinely new structural source evidence appears.
