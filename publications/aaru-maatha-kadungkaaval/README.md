@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 65/224 canonical records; 62 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 70/224 canonical records; 67 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -67,7 +67,8 @@ Direct visual structural inspection is complete:
 - 6–7 — `காணிக்கை` dedication
 - 8 — illustrated front matter / `முரசு`
 - 9 — blank / reverse
-- 10–66 — main text
+- 10–65 — main text
+- 66 — illustrated main-work intertitle / `தடை` / `கல்லக்குடி`
 - 67 — blank / reverse
 - 68–106 — main text
 - 107 — blank / reverse
@@ -88,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–65**.
+Completed records: **scans 1–70**.
 
 Notable durable findings:
 
@@ -104,6 +105,7 @@ Notable durable findings:
 - scans 51–55 — **5/5 verified**, printed folios 48–52, heading `அரியலூர் :`, no new holds; scan 55 ends inside an open quotation at `வளர்ந்துவரும்`.
 - scans 56–60 — **5/5 verified**, printed folios 53–57, scan 60 heading `முரசு முழங்கியது`, no new holds; scan 55→56 directly continues `வளர்ந்துவரும்` → `எம்மைப் பார்!`; scan 56→57 continues `வாடகைக்கார் ஒன்றில்,` → `நான் -`; scan 60 ends with complete `திருக்கோயில்.`.
 - scans 61–65 — **5/5 verified**, printed folios 58–62, no new holds; scan 62→63 continues `விழியோட்டும் -` → `கோமான்!`; scan 63 difficult cluster resolved directly as `தரணியில்`; scan 65 closes with `அதிர்ந்தது முரசு! / !! / !!!` and a printed star.
+- scans 66–70 — **5/5 verified**, no new holds; scan 66 is an illustrated `தடை` / `கல்லக்குடி` page with no visible folio; scan 67 is blank/reverse; scan 68 begins `களம்` with no visible folio; scan 69 / 70 carry visible folios 66 / 67; scan 68→69 continues `எதையும் முடியாது` → `என்று என்னிடம் கூறமாட்டார்`.
 
 Open holds:
 
@@ -113,8 +115,8 @@ Open holds:
 
 Current P2 totals:
 
-- records — **65/224**
-- verified — **62**
+- records — **70/224**
+- verified — **67**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -122,6 +124,6 @@ Current P2 totals:
 
 ## Exact next activity
 
-**P2 scans 66–70.**
+**P2 scans 71–75.**
 
-Process the next five physical scans, including the structurally blank/reverse scan 67, synchronize controls, commit, and stop before scan 71.
+Process the next five physical scans, synchronize controls, commit, and stop before scan 76.
