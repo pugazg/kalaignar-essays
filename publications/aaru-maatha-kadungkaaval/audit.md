@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 60/224 records; 57 verified / 3 needs-review** |
+| P2 | **IN PROGRESS — 65/224 records; 62 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -82,6 +82,7 @@ Minimum explicit family set:
 | 010 | 46–50 | 5 | 0 | 0 |
 | 011 | 51–55 | 5 | 0 | 0 |
 | 012 | 56–60 | 5 | 0 | 0 |
+| 013 | 61–65 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -213,10 +214,32 @@ Batch 012 checks:
 - source-visible unusual forms were retained rather than context-corrected.
 - scan 60 contains source heading `முரசு முழங்கியது` and ends with complete `திருக்கோயில்.`; scan 61 remains unopened.
 
-## P2 cumulative totals through scan 60
+### Batch 013 — scans 61–65
 
-- canonical page records — **60/224**
-- verified — **57**
+| Scan | Printed folio | Record | Status | Open issue |
+|---:|:---:|---|---|---|
+| 61 | 58 | `0061-murasu.md` | verified | none |
+| 62 | 59 | `0062-murasu.md` | verified | none |
+| 63 | 60 | `0063-murasu.md` | verified | none |
+| 64 | 61 | `0064-murasu.md` | verified | none |
+| 65 | 62 | `0065-murasu.md` | verified | none |
+
+Batch 013 checks:
+
+- direct native/enlarged source-pixel comparison — **PASS**
+- historical 13-family check — **performed on all five pages**
+- guessed readings — **0**
+- new unresolved printed-text holds — **0**
+- cumulative historical-glyph corrections — **1**
+- scan 62 terminal `விழியோட்டும் -` → scan 63 `கோமான்!` was confirmed directly.
+- scan 63 difficult closing cluster was resolved from enlarged source pixels as `தரணியில்`; no contextual reconstruction was used.
+- source-visible unusual forms including `வேங்கை யெனத்`, `இயக்க மாம்`, `பாவியது`, `நாட்டுக் குழைக்கும்`, `தலைவனிய`, `பணி யேற்றேன்`, `நான்சென்ஸ்`, `ரயில் நிறுத்த’ மென்றது`, `முரசதிர்ந்தது`, `தொடோம்`, and `இதயங் கொண்டோர்` were preserved.
+- scan 65 closes with three `அதிர்ந்தது முரசு` lines using one, two and three exclamation marks, followed by a printed star; scan 66 remains unopened.
+
+## P2 cumulative totals through scan 65
+
+- canonical page records — **65/224**
+- verified — **62**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -240,4 +263,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 61–65.**
+**P2 scans 66–70.**
