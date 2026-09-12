@@ -93,6 +93,7 @@ Minimum explicit family set:
 | 020 | 96–100 | 5 | 0 | 0 |
 | 021 | 101–105 | 5 | 0 | 0 |
 | 022 | 106–110 | 5 | 0 | 0 |
+| 023 | 111–115 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -466,10 +467,37 @@ Batch 022 result:
 - scan 110 source-visible forms including `முப்பத்தாறுபேரும்`, `துப்பாக்கி சகிதம்`, `நடுநிசியில்`, and `எண்ணிட` were preserved.
 - scan 110 ends with complete `என்ற செய்தி கிடைத்தது.`; scan 111 was **not opened**.
 
-## P2 cumulative totals through scan 110
+### Batch 023 — scans 111–115
 
-- canonical page records — **110/224**
-- verified — **107**
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 111 — `pages/0111-sirai.md` — **verified** — printed folio 108
+- scan 112 — `pages/0112-sirai.md` — **verified** — printed folio 109
+- scan 113 — `pages/0113-sirai.md` — **verified** — printed folio 110
+- scan 114 — `pages/0114-sirai.md` — **verified** — printed folio 111
+- scan 115 — `pages/0115-sirai.md` — **verified** — printed folio 112 — heading `எங்கள் கூண்டு:`
+
+Batch 023 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- mandatory 13-family historical-glyph check was performed on all five pages.
+- scan 111 terminal `வடாற்காடு மாவட்டத்` → scan 112 `தில்` continuation was confirmed directly.
+- scan 112 historical `லை` identity was directly resolved as `இலைபோட்டு`; source-visible `செல்வில்` was preserved rather than context-corrected.
+- scan 113 source-visible unusual `என் அப்போதே` and terminal `என் தான்` were preserved without normalization.
+- scan 113 terminal `எனக்கு நானே` → scan 114 `ஆச்சரியப்படுவேன்` continuation was confirmed directly.
+- scan 114 source-visible `வேடந்தாங்கி`, `இருபதுக்குட்பட்ட`, `நாலந்து`, and `இருக்கமுடியும்` were preserved.
+- scan 115 heading `எங்கள் கூண்டு:` and source-visible `எத்திராஜ்`, `சிறுநீர் கழிக்கப் பட்டு`, `மலஜலம்`, `‘கக்கூஸ்’`, `“லாங் ஜம்ப்”`, and `கூளமும்` were preserved.
+- scan 115 ends with complete `பிறகுதான் உணவு வந்தது.`; scan 116 was **not opened**.
+
+## P2 cumulative totals through scan 115
+
+- canonical page records — **115/224**
+- verified — **112**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -493,4 +521,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 111–115.**
+**P2 scans 116–120.**

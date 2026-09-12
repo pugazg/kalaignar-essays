@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 110/224 canonical records; 107 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 115/224 canonical records; 112 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–110**.
+Completed records: **scans 1–115**.
 
 Notable durable findings:
 
@@ -117,6 +117,8 @@ Notable durable findings:
 
 - scans 106–110 — **5/5 verified**, no new holds; scan 106 / printed folio 103 continues scan 105 `ஆகி` → `யோரிடம்`; scan 107 and scan 109 are directly confirmed blank/reverse/show-through pages; scan 108 is an illustrated intertitle carrying `சிறை` and a barred/padlocked prison gate; scan 110 begins the `சிறை` body section with no visible folio. Source-visible forms including scan 106 `சாப்பிட்டானபிறகுதான்`, `நின்றுளா`, `அநேகர்`, `ஐயாயிரம்பேர்`, `ஐயாயிரவர்` and scan 110 `முப்பத்தாறுபேரும்`, `துப்பாக்கி சகிதம்`, `நடுநிசியில்`, `எண்ணிட` were preserved. Historical-glyph correction count remains **9**.
 
+- scans 111–115 — **5/5 verified**, printed folios **108–112**, no new holds; scan 111→112 directly continues `வடாற்காடு மாவட்டத்` → `தில்`; scan 112 historical `லை` identity was confirmed as `இலைபோட்டு`; scan 113→114 directly continues `எனக்கு நானே` → `ஆச்சரியப்படுவேன்`; scan 115 begins source heading `எங்கள் கூண்டு:`. Source-visible unusual forms including `செல்வில்`, `என் அப்போதே`, `என் தான்`, `வேடந்தாங்கி`, `நாலந்து`, `எத்திராஜ்`, `மலஜலம்`, and `கூளமும்` were preserved. Historical-glyph correction count remains **9**.
+
 Open holds:
 
 - scan 3 — small imprint/printer text;
@@ -125,8 +127,8 @@ Open holds:
 
 Current P2 totals:
 
-- records — **110/224**
-- verified — **107**
+- records — **115/224**
+- verified — **112**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -134,6 +136,6 @@ Current P2 totals:
 
 ## Exact next activity
 
-**P2 scans 111–115.**
+**P2 scans 116–120.**
 
-Process exactly scans **111–115** as the next five-scan batch from live durable state. P1 classifies all five as main text. Inspect every scan directly, synchronize controls, commit, and stop before scan 116.
+Process exactly scans **116–120** as the next five-scan batch from live durable state. P1 classifies all five as main text. Inspect every scan directly, synchronize controls, commit, and stop before scan 121.

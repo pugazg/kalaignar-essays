@@ -54,7 +54,7 @@ Structure:
 - scan 67 — blank/reverse;
 - scans 68–106 — main text;
 - scan 107 — blank/reverse;
-- scan 108 — nonblank intertitle / transition;
+- scan 108 — illustrated main-work intertitle / `சிறை`;
 - scan 109 — blank/reverse;
 - scans 110–223 — main text;
 - scan 224 — back cover / publisher device.
@@ -102,14 +102,14 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 110/224 canonical records; 107 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 115/224 canonical records; 112 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 110
+## P2 source use through scan 115
 
-Canonical records exist for scans **1–110**.
+Canonical records exist for scans **1–115**.
 
 Latest batch scans 96–100:
 
@@ -159,6 +159,19 @@ Latest batch scans 106–110:
 - scan 108 directly refines the earlier generic transition classification to an illustrated `சிறை` intertitle with a barred/padlocked prison gate.
 - scan 110 begins the prison-section body text; scan 111 was not opened.
 
+Latest batch scans 111–115:
+
+- printed folios — **108–112**
+- verified — **5/5**
+- new holds — **0**
+- guessed readings — **0**
+- cumulative historical-glyph corrections — **9**
+- scan 111 `வடாற்காடு மாவட்டத்` → scan 112 `தில்` continuation confirmed directly.
+- scan 112 historical `லை` identity confirmed as `இலைபோட்டு`; source-visible `செல்வில்` retained.
+- scan 113 `எனக்கு நானே` → scan 114 `ஆச்சரியப்படுவேன்` continuation confirmed directly.
+- scan 115 heading `எங்கள் கூண்டு:`; source-visible `எத்திராஜ்`, `மலஜலம்`, `‘கக்கூஸ்’`, `“லாங் ஜம்ப்”`, and `கூளமும்` retained.
+- scan 115 ends with complete `பிறகுதான் உணவு வந்தது.`; scan 116 was not opened.
+
 Durable source-artifact anomaly:
 
 - scans 16–17 repeat printed folios 13–14;
@@ -173,4 +186,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 111–115.**
+**P2 scans 116–120.**
