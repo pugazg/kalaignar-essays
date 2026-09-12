@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed for a new chat after **Batch 011 / P2 scans 51–55** reached the durable state **55/224 canonical records; 52 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 012 / P2 scans 56–60** reached the durable state **60/224 canonical records; 57 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 55/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 60/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 55/224 records; 52 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 60/224 records; 57 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -279,10 +279,33 @@ Batch 011 result:
 - page-boundary continuations directly confirmed: scan 51 `புறப்` → scan 52 `பட்டோம்`; scan 52 `வந்திருக்க` → scan 53 `குமே!`; scan 53 `அவர்` → scan 54 `பிரச்சாரப் பணியில்`.
 - scan 55 ends inside an open quotation at `வளர்ந்துவரும்`; scan 56 is intentionally unopened.
 
+### Batch 012 — scans 56–60
+
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 56 — `pages/0056-murasu.md` — **verified** — printed folio 53
+- scan 57 — `pages/0057-murasu.md` — **verified** — printed folio 54
+- scan 58 — `pages/0058-murasu.md` — **verified** — printed folio 55
+- scan 59 — `pages/0059-murasu.md` — **verified** — printed folio 56
+- scan 60 — `pages/0060-murasu.md` — **verified** — printed folio 57 — heading `முரசு முழங்கியது`
+
+Batch 012 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 1**
+- scan 55 `வளர்ந்துவரும்` → scan 56 `எம்மைப் பார்!` continuation was read directly from source pixels.
+- scan 56 `வாடகைக்கார் ஒன்றில்,` → scan 57 `நான் -` was read directly.
+- source-visible unusual forms including `எசனே`, `அம்பிலையும்`, `டடடட`, `மாதம் போம் காத வழி`, `என்ஜினுக்கு`, `மல்லக்கொம்பையெனும்`, `நாகை வட்டாரக் கழகத்தின்`, `வறட்டு தத்துவத்தின்`, `வாணிப்பர்`, `கேத்திரத்தைப்பற்றி`, `அண்ணுமலை`, `கண்ணென`, `பண் பாடும்`, and `நாட்டுக்களித்த` were preserved.
+- scan 60 ends with complete `திருக்கோயில்.`; scan 61 remains intentionally unopened.
+
 ## Durable P2 totals
 
-- canonical page records — **55/224**
-- verified — **52**
+- canonical page records — **60/224**
+- verified — **57**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -294,9 +317,9 @@ Batch 011 result:
 
 ## Exact next activity
 
-**P2 scans 56–60.**
+**P2 scans 61–65.**
 
-Process exactly scans **56–60** as one five-scan batch from the attached PDF:
+Process exactly scans **61–65** as one five-scan batch from the attached PDF:
 
 - visually transcribe each whole page from source pixels;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
@@ -305,7 +328,7 @@ Process exactly scans **56–60** as one five-scan batch from the attached PDF:
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 61 unless explicitly asked to continue.
+- stop before scan 66 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 
