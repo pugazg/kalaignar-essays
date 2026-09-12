@@ -30,7 +30,8 @@ The earlier provisional 150-page P1 result was reopened after direct native insp
 | 6–7 | dedication | `காணிக்கை` |
 | 8 | illustrated front-matter page | `முரசு` witness |
 | 9 | blank / reverse / show-through | front-matter separator |
-| 10–66 | main text | continuous body run |
+| 10–65 | main text | continuous body run |
+| 66 | illustrated main-work intertitle | `தடை` / `கல்லக்குடி`; exact role refined during P2 direct inspection |
 | 67 | blank / reverse / show-through | structural separator |
 | 68–106 | main text | continuous body run |
 | 107 | blank / reverse / show-through | structural separator |
@@ -61,6 +62,16 @@ Findings:
 - scan 223 / printed 220 is the final narrative/text page, ending with a quoted slogan block and star;
 - scan 224 is the physical back cover with the publisher device **`திராவிடப் பண்ணை`**; the lower ribbon reads **`தெப்பக்குளம் திருச்சி`**;
 - scan 224 is therefore the proven physical source end.
+
+## P2 structural refinement — scan 66
+
+P2 direct source inspection refined the earlier broad `main text` classification for scan 66:
+
+- scan 66 is an **illustrated main-work intertitle / transition page**;
+- visible printed wording includes **`தடை`** and station-board **`கல்லக்குடி`**;
+- no visible printed folio appears;
+- scan 67 remains the directly confirmed blank/reverse separator;
+- this is a structural refinement only; P1 remains **COMPLETE / PASS — 224/224** and no full-source P1 reopening is required.
 
 ## Front matter
 
@@ -114,6 +125,6 @@ P2 and P5 must follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` and explic
 
 ## Exact next activity
 
-**P2 scans 66–70.**
+**P2 scans 71–75.**
 
-P1 is closed. Do not reopen it unless genuinely new structural source evidence appears.
+P1 remains closed after the scan-66 structural refinement. Do not reopen it unless genuinely new structural source evidence appears.
