@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 95/224 records; 92 verified / 3 needs-review** |
+| P2 | **IN PROGRESS — 100/224 records; 97 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -90,6 +90,7 @@ Minimum explicit family set:
 | 017 | 81–85 | 5 | 0 | 0 |
 | 018 | 86–90 | 5 | 0 | 0 |
 | 019 | 91–95 | 5 | 0 | 0 |
+| 020 | 96–100 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -380,10 +381,33 @@ Batch 019 checks:
 - source-visible unusual wording was retained rather than context-corrected, including `வாணிக்கக்`, `என்னற்கோ`, `முப்பத்திஆறு`, `அரசோச்சும்`, `தியேட்டர்ஸ்க்கு`, `நடப்படுகிறதே`, `அவரவர்க்கட்கு`, `வீணை குழப்பம்`, `அட பரமசிவம்`, `வியப்பாகவேயிருந்தது`, `கூசாமல் சந்நியாசங்கொள்`, and `ராஜபோகமானது`.
 - scan 95 ends with complete `நாரண துரைக்கண்ணன் தலைமையில் நாங்கள் பேசினோம்.`; scan 96 remains unopened.
 
-## P2 cumulative totals through scan 95
+### Batch 020 — scans 96–100
 
-- canonical page records — **95/224**
-- verified — **92**
+| Scan | Printed folio | Record | Status | Open issue |
+|---:|:---:|---|---|---|
+| 96 | 93 | `0096-murasu.md` | verified | none |
+| 97 | 94 | `0097-murasu.md` | verified | none |
+| 98 | 95 | `0098-murasu.md` | verified | none |
+| 99 | 96 | `0099-murasu.md` | verified | none |
+| 100 | 97 | `0100-murasu.md` | verified | none |
+
+Batch 020 checks:
+
+- direct native/enlarged source-pixel comparison — **PASS**
+- historical 13-family check — **performed on all five pages**
+- guessed readings — **0**
+- new unresolved printed-text holds — **0**
+- cumulative historical-glyph corrections — **1**
+- scan 96 `சிஷ்யனை` → scan 97 `யும் தாக்கட்டும்’` was confirmed directly.
+- scan 97 difficult name was resolved as `திருமுகமும்`.
+- scan 99 `திரும்பினால் காதலி நிற` → scan 100 `பாள்.` was confirmed directly.
+- source-visible unusual wording was retained rather than context-corrected, including `சாப்பிட்டான பிறகு!`, `மூன்றும் படை வரிசைக்கு`, `தளபதியாகினேன்`, `திருமு முதலியோரை`, `கலவி நடுப்பானதயிலே காதல் பேசி`, `போக்காளி`, `அக்கிரமக்காரர்களேத்`, `வாழ்போகம் இல்லாள்`, `பிளந்தானும்`, and `கல்லக்குடிகளத்திலே`.
+- scan 100 closes with a printed star separator; scan 101 remains unopened.
+
+## P2 cumulative totals through scan 100
+
+- canonical page records — **100/224**
+- verified — **97**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -407,4 +431,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 96–100.**
+**P2 scans 101–105.**
