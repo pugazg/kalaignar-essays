@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 70/224 canonical records; 67 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 75/224 canonical records; 72 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–70**.
+Completed records: **scans 1–75**.
 
 Notable durable findings:
 
@@ -106,6 +106,7 @@ Notable durable findings:
 - scans 56–60 — **5/5 verified**, printed folios 53–57, scan 60 heading `முரசு முழங்கியது`, no new holds; scan 55→56 directly continues `வளர்ந்துவரும்` → `எம்மைப் பார்!`; scan 56→57 continues `வாடகைக்கார் ஒன்றில்,` → `நான் -`; scan 60 ends with complete `திருக்கோயில்.`.
 - scans 61–65 — **5/5 verified**, printed folios 58–62, no new holds; scan 62→63 continues `விழியோட்டும் -` → `கோமான்!`; scan 63 difficult cluster resolved directly as `தரணியில்`; scan 65 closes with `அதிர்ந்தது முரசு! / !! / !!!` and a printed star.
 - scans 66–70 — **5/5 verified**, no new holds; scan 66 is an illustrated `தடை` / `கல்லக்குடி` page with no visible folio; scan 67 is blank/reverse; scan 68 begins `களம்` with no visible folio; scan 69 / 70 carry visible folios 66 / 67; scan 68→69 continues `எதையும் முடியாது` → `என்று என்னிடம் கூறமாட்டார்`.
+- scans 71–75 — **5/5 verified**, printed folios 68–72, no new holds; scan 71→72 continues `கிடக்கிறது` → `வடநாட்டு முதலாளியால்!`; scan 73→74 preserves physical split `வட நாட்` → `டானின்`; scan 75 historical `ணா` identity was decoded as `அண்ணா`.
 
 Open holds:
 
@@ -115,8 +116,8 @@ Open holds:
 
 Current P2 totals:
 
-- records — **70/224**
-- verified — **67**
+- records — **75/224**
+- verified — **72**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -124,6 +125,6 @@ Current P2 totals:
 
 ## Exact next activity
 
-**P2 scans 71–75.**
+**P2 scans 76–80.**
 
-Process the next five physical scans, synchronize controls, commit, and stop before scan 76.
+Process the next five physical scans, synchronize controls, commit, and stop before scan 81.
