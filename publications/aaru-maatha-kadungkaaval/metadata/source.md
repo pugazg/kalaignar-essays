@@ -102,26 +102,26 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 85/224 canonical records; 82 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 90/224 canonical records; 87 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 85
+## P2 source use through scan 90
 
-Canonical records exist for scans **1–85**.
+Canonical records exist for scans **1–90**.
 
-Latest batch scans 81–85:
+Latest batch scans 86–90:
 
-- printed folios — **78–82**
+- printed folios — **83–87**
 - verified — **5/5**
 - new holds — **0**
 - guessed readings — **0**
 - cumulative historical-glyph corrections — **1**
-- scan 80 `கலந்துகொள்ளவேண்டிய` → scan 81 `வர்கள் 14ம் தேதி...` continuation was confirmed directly.
-- scan 81 `நெருக்கடியான` → scan 82 `நிலைகளுக்கிடையிலும்` continuation was confirmed directly.
-- source-visible unusual forms including `கவ்விக் கொண்டு போலவே`, `கப்பிக்கொண்டிருந்தது`, `வெங்கு நதி தனிற்`, `முத்துப்பந்தாக்கள்`, `ஊழியவரையில்`, `ஒண்டவந்த பிடாரிகள்`, `ஒதிய மிலர்கள்`, `களங் காண`, `விலங்கொடிக்கும்`, `கிளம்பிற்றுக்காண்`, `தேடுதுகாண்`, `புழுதி யெழுப்பியவாறு`, `கண்களுக் குத்தியிருக்கும்`, and `பலகை இளித்தபடி` were preserved.
-- scan 85 ends at physical fragment `மாணிக்க`; scan 86 was not opened and no completion was guessed.
+- scan 85 `மாணிக்க` → scan 86 `குறள் ஒலிக்கும் மாதா...` continuation was confirmed directly.
+- scan 89 `இருபத்தைந்துபேரும்` → scan 90 `போலீஸ் வண்டியில் ஏற்றப்பட்டோம்.` continuation was confirmed directly.
+- source-visible unusual forms including `புடைகுழ்ந்து`, `மோழைகள்`, `வாழைக்குக் கன்றல்ல - ஆளுக்கு விழுதுகள்`, `நாங்களுந்தான்`, `மக்களுந்தான்`, `திட்டிய கடிதங்கள்`, `கிரீச்`, `மரக் மரக்`, `ஊளையிட்டது`, `தேசத்தொண்டர்கள்`, `என் உடலே ஒட்டினாற்போல்`, `அணையுடைத்தெழும் நித்தம் போலக்`, `கிளிக்கூண்டு`, and `கைது செய்யப்பட்டவில்லை` were preserved.
+- scan 90 ends with complete `அவர் தலைமையிலே படை போகிறது!`; scan 91 was not opened.
 
 
 Durable source-artifact anomaly:
@@ -138,4 +138,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 86–90.**
+**P2 scans 91–95.**
