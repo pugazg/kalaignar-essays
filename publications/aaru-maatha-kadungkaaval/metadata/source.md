@@ -49,7 +49,8 @@ P1 is **COMPLETE / PASS — 224/224 scans structurally inspected**.
 Structure:
 
 - scans 1–9 — front matter / physical-copy layers;
-- scans 10–66 — main text;
+- scans 10–65 — main text;
+- scan 66 — illustrated main-work intertitle / `தடை` / `கல்லக்குடி`;
 - scan 67 — blank/reverse;
 - scans 68–106 — main text;
 - scan 107 — blank/reverse;
@@ -101,26 +102,29 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 65/224 canonical records; 62 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 70/224 canonical records; 67 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 65
+## P2 source use through scan 70
 
-Canonical records exist for scans **1–65**.
+Canonical records exist for scans **1–70**.
 
-Latest batch scans 61–65:
+Latest batch scans 66–70:
 
-- printed folios — **58–62**
 - verified — **5/5**
 - new holds — **0**
 - guessed readings — **0**
 - cumulative historical-glyph corrections — **1**
-- scan 62 ends at `விழியோட்டும் -`; scan 63 directly continues `கோமான்!`.
-- difficult scan 63 closing cluster was resolved from enlarged source pixels as `தரணியில்`; no contextual reconstruction was used.
-- unusual source forms including `வேங்கை யெனத்`, `இயக்க மாம்`, `பாவியது`, `நாட்டுக் குழைக்கும்`, `தலைவனிய`, `பணி யேற்றேன்`, `நான்சென்ஸ்`, `ரயில் நிறுத்த’ மென்றது`, `முரசதிர்ந்தது`, `தொடோம்`, and `இதயங் கொண்டோர்` were preserved.
-- scan 65 ends with three `அதிர்ந்தது முரசு` lines carrying one, two and three exclamation marks, followed by a printed star; scan 66 was not opened.
+- scan 66 — illustrated source page carrying `தடை` and station-board `கல்லக்குடி`; visible folio absent.
+- scan 67 — directly confirmed blank/reverse/show-through; visible folio absent.
+- scan 68 — source heading `களம்`; visible folio absent and no sequence-derived folio was inserted.
+- scan 69 / scan 70 — visible printed folios **66 / 67**.
+- scan 68 `எதையும் முடியாது` → scan 69 `என்று என்னிடம் கூறமாட்டார்` was confirmed directly.
+- scan 69 source phrase `தில்லையிலே அண்ணா கொட்டிய முரசின் எதிரொலியாக இருந்தது` was resolved from enlarged pixels.
+- source-visible forms including `பாப்பிரம்மம்`, `இடையூறுகளுக்காளாகி`, `என்பால்`, `முறைகூட`, `மகஜர்`, `கருணாமிக்க`, and `நாலைந்துபேர்கூட` were preserved.
+- scan 70 ends with complete `குடிசை வீடுகள் தான் எங்களுக்குக் காட்டப்பட்டன.`; scan 71 was not opened.
 
 
 Durable source-artifact anomaly:
@@ -137,4 +141,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 66–70.**
+**P2 scans 71–75.**
