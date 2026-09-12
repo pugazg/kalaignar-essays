@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 013 / P2 scans 61–65** reached the durable state **65/224 canonical records; 62 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 014 / P2 scans 66–70** reached the durable state **70/224 canonical records; 67 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 65/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 70/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 65/224 records; 62 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 70/224 records; 67 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -100,7 +100,8 @@ Full source structure:
 - scans 6–7 — `காணிக்கை` dedication;
 - scan 8 — illustrated front-matter page / `முரசு`;
 - scan 9 — blank / reverse / show-through;
-- scans 10–66 — main text;
+- scans 10–65 — main text;
+- scan 66 — illustrated main-work intertitle / `தடை` / `கல்லக்குடி`;
 - scan 67 — blank / reverse / show-through;
 - scans 68–106 — main text;
 - scan 107 — blank / reverse / show-through;
@@ -325,10 +326,34 @@ Batch 013 result:
 - source-visible unusual forms including `வேங்கை யெனத்`, `இயக்க மாம்`, `பாவியது`, `நாட்டுக் குழைக்கும்`, `தலைவனிய`, `பணி யேற்றேன்`, `நான்சென்ஸ்`, `ரயில் நிறுத்த’ மென்றது`, `முரசதிர்ந்தது`, `தொடோம்`, and `இதயங் கொண்டோர்` were preserved.
 - scan 65 closes with `அதிர்ந்தது முரசு!`, `அதிர்ந்தது முரசு!!`, `அதிர்ந்தது முரசு!!!` and a printed star; scan 66 remains intentionally unopened.
 
+### Batch 014 — scans 66–70
+
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 66 — `pages/0066-murasu-illustration.md` — **verified** — no visible printed folio — illustrated `தடை` / `கல்லக்குடி`
+- scan 67 — `pages/0067-blank-reverse.md` — **verified** — blank/reverse/show-through — no visible printed folio
+- scan 68 — `pages/0068-murasu.md` — **verified** — no visible printed folio — heading `களம்`
+- scan 69 — `pages/0069-murasu.md` — **verified** — printed folio 66
+- scan 70 — `pages/0070-murasu.md` — **verified** — printed folio 67
+
+Batch 014 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 1**
+- direct P2 inspection refined P1 structural wording for scan 66 from generic main text to illustrated main-work intertitle; P1 remains COMPLETE / PASS.
+- scan 68 `எதையும் முடியாது` → scan 69 `என்று என்னிடம் கூறமாட்டார்` continuation was confirmed directly.
+- scan 69 phrase `தில்லையிலே அண்ணா கொட்டிய முரசின் எதிரொலியாக இருந்தது` was resolved from enlarged pixels.
+- source-visible unusual forms including `பாப்பிரம்மம்`, `இடையூறுகளுக்காளாகி`, `என்பால்`, `முறைகூட`, `மகஜர்`, `கருணாமிக்க`, and `நாலைந்துபேர்கூட` were preserved.
+- scan 70 ends with complete `குடிசை வீடுகள் தான் எங்களுக்குக் காட்டப்பட்டன.`; scan 71 remains intentionally unopened.
+
 ## Durable P2 totals
 
-- canonical page records — **65/224**
-- verified — **62**
+- canonical page records — **70/224**
+- verified — **67**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -340,19 +365,18 @@ Batch 013 result:
 
 ## Exact next activity
 
-**P2 scans 66–70.**
+**P2 scans 71–75.**
 
-Process exactly scans **66–70** as one five-scan batch from the attached PDF. Structural expectations from closed P1: scan 66 main text, scan 67 blank/reverse, scans 68–70 main text. P2 must still inspect each source scan directly rather than infer content from P1.
+Process exactly scans **71–75** as one five-scan batch from the attached PDF:
 
-- visually transcribe each text-bearing page from source pixels;
-- create a canonical blank/reverse record for scan 67 after direct inspection;
+- visually transcribe each whole page from source pixels;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
-- perform the mandatory historical-glyph family checks on text-bearing pages;
+- perform the mandatory historical-glyph family checks;
 - record visible printed folios only;
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
-- synchronize controls and commit immediately after the five scans;
-- stop before scan 71 unless explicitly asked to continue.
+- synchronize controls and commit immediately after the five pages;
+- stop before scan 76 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 
