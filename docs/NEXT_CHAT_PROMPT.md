@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 76–80
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 81–85
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -8,7 +8,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover. Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Handoff refresh state: **Batch 015 is durable / P2 = 75/224 canonical records; 72 verified / 3 needs-review**. Do not rely on a copied SHA. Fetch live `main` first; if it is newer, preserve the newer work and continue from that state.
+Handoff refresh state: **Batch 016 is durable / P2 = 80/224 canonical records; 77 verified / 3 needs-review**. Do not rely on a copied SHA. Fetch live `main` first; if it is newer, preserve the newer work and continue from that state.
 
 ## Controlling source
 
@@ -29,26 +29,26 @@ Do not use Tamil Digital Library, Wikisource, OCR text, alternate editions, or w
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 75/224 canonical records**
-  - verified — **72**
+- P2 — **IN PROGRESS — 80/224 canonical records**
+  - verified — **77**
   - needs-review — **3**
   - blocked — **0**
   - historical-glyph corrections — **1**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED**
 
-Latest P2 batch — scans **71–75** — is complete:
+Latest P2 batch — scans **76–80** — is complete:
 
 - verified — **5/5**
-- printed folios — **68–72**
+- printed folios — **73–77**
 - new holds — **0**
 - historical-glyph correction count — **unchanged at 1**
-- scan 71 `கிடக்கிறது` → scan 72 `வடநாட்டு முதலாளியால்!` continuation confirmed directly
-- scan 73 physical ending `வட நாட்` → scan 74 opening `டானின்` directly establishes `வட நாட்டானின்`; page-level fragments remain source-faithful
-- source-visible forms including `மிகமிஞ்சிய`, `தாறுமாறாய்ப்`, `சூடான பெருமூச்சாலேயே`, `வெள்ளிப் பணமாக்கி`, `நிலத்துக்குடையோர்`, `உறிஞ்சும் கூட்டுறவிலிருந்து`, `கொள்ளையடித்தது மில்லாமல்`, `அவதிக்குள்ளாயினர்`, `மைனுதீன்`, and `கொச்சைத் தமிழால்` were preserved
-- scan 75 historical `ணா` identity was encoded as `அண்ணா`
-- scan 75 ends with complete `வெளிவந்தன.`
-- scan 76 was not opened.
+- scan 76 `அவர்` → scan 77 `களிடத்திலே` continuation confirmed directly
+- scan 77 `பெற்ற` → scan 78 `சட்டசபை உறுப்பினர்களும்` continuation confirmed directly
+- scan 78 `உல்லா` → scan 79 `சம், உற்சாகம்.` directly establishes `உல்லாசம்`
+- source-visible unusual forms were preserved without normalization
+- scan 80 ends inside an open continuation at `கலந்துகொள்ளவேண்டிய`
+- scan 81 was not opened.
 
 Open P2 holds remain:
 
@@ -60,7 +60,7 @@ Open P2 holds remain:
 
 P1 remains **COMPLETE / PASS**. Relevant next-range classification:
 
-- scans **76–80 — main text**
+- scans **81–85 — main text**
 
 P2 must still inspect every scan directly.
 
@@ -79,25 +79,26 @@ Read completely:
 9. `P1_SOURCE_STRUCTURE_REVIEW.md`
 10. `audit.md`
 
-## Exact next activity — P2 scans 76–80
+## Exact next activity — P2 scans 81–85
 
-Process **exactly scans 76–80 as one batch** from the attached PDF.
+Process **exactly scans 81–85 as one batch** from the attached PDF.
 
 For every text-bearing page:
 
 - visually transcribe the whole page;
+- read scan 81 directly to continue scan 80's open `கலந்துகொள்ளவேண்டிய` fragment; do not guess completion;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
 - explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
 - record visible printed folio only;
 - separate non-print physical-copy marks;
 - never fill uncertainty from context.
 
-After scans 76–80:
+After scans 81–85:
 
 - synchronize all dependent controls;
 - commit immediately;
 - report verified / needs-review / hold counts;
 - set the next five-scan batch from live durable state;
-- stop before scan 81 unless explicitly asked to continue.
+- stop before scan 86 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
