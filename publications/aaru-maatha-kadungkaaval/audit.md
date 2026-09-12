@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 80/224 records; 77 verified / 3 needs-review** |
+| P2 | **IN PROGRESS — 85/224 records; 82 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -87,6 +87,7 @@ Minimum explicit family set:
 | 014 | 66–70 | 5 | 0 | 0 |
 | 015 | 71–75 | 5 | 0 | 0 |
 | 016 | 76–80 | 5 | 0 | 0 |
+| 017 | 81–85 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -311,10 +312,32 @@ Batch 016 checks:
 - source-visible unusual forms were preserved without normalization, including `கிழப் பருவமும்`, `செய்திகேட்டு`, `இளைஞர்கட்கும்-ஒளிப்பாதையைக்`, `போர்முனையிலேதான்`, `ஆசையினில்`, `மருத்துவ மனையில்`, `நண்பர் பாரவிடம்`, `குளுரைக்கும்`, `நெஞ்சுமுத்தம்`, `இனித்து நிற்கும்`, `வென்றே மென்று!`, `உறைவிட்டெழும்`, `சிமண்டு`, `கடைசிக்கூட்டம்`, `பிணமாகப்போன`, `கழகத்தின்பால்`, `ஒக்கு யாரும்`, `பொன்னிக் மொழிகள்`, and `ஊராள வந்தவர்!`.
 - scan 80 ends at open `கலந்துகொள்ளவேண்டிய`; scan 81 remains unopened.
 
-## P2 cumulative totals through scan 80
+### Batch 017 — scans 81–85
 
-- canonical page records — **80/224**
-- verified — **77**
+| Scan | Printed folio | Record | Status | Open issue |
+|---:|:---:|---|---|---|
+| 81 | 78 | `0081-murasu.md` | verified | none |
+| 82 | 79 | `0082-murasu.md` | verified | none |
+| 83 | 80 | `0083-murasu.md` | verified | none |
+| 84 | 81 | `0084-murasu.md` | verified | none |
+| 85 | 82 | `0085-murasu.md` | verified | none |
+
+Batch 017 checks:
+
+- direct native/enlarged source-pixel comparison — **PASS**
+- historical 13-family check — **performed on all five pages**
+- guessed readings — **0**
+- new unresolved printed-text holds — **0**
+- cumulative historical-glyph corrections — **1**
+- scan 80 `கலந்துகொள்ளவேண்டிய` → scan 81 `வர்கள் 14ம் தேதி...` was confirmed directly.
+- scan 81 `நெருக்கடியான` → scan 82 `நிலைகளுக்கிடையிலும்` was confirmed directly.
+- source-visible unusual wording was retained rather than context-corrected, including `கவ்விக் கொண்டு போலவே`, `கப்பிக்கொண்டிருந்தது`, `வெங்கு நதி தனிற்`, `முத்துப்பந்தாக்கள்`, `ஊழியவரையில்`, `ஒண்டவந்த பிடாரிகள்`, `ஒதிய மிலர்கள்`, `களங் காண`, `விலங்கொடிக்கும்`, `கிளம்பிற்றுக்காண்`, `தேடுதுகாண்`, `புழுதி யெழுப்பியவாறு`, `கண்களுக் குத்தியிருக்கும்`, and `பலகை இளித்தபடி`.
+- scan 85 ends at open `மாணிக்க`; scan 86 remains unopened.
+
+## P2 cumulative totals through scan 85
+
+- canonical page records — **85/224**
+- verified — **82**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -338,4 +361,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 81–85.**
+**P2 scans 86–90.**
