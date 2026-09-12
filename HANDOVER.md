@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 012 / P2 scans 56–60** reached the durable state **60/224 canonical records; 57 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 013 / P2 scans 61–65** reached the durable state **65/224 canonical records; 62 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 60/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 65/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 60/224 records; 57 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 65/224 records; 62 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -302,10 +302,33 @@ Batch 012 result:
 - source-visible unusual forms including `எசனே`, `அம்பிலையும்`, `டடடட`, `மாதம் போம் காத வழி`, `என்ஜினுக்கு`, `மல்லக்கொம்பையெனும்`, `நாகை வட்டாரக் கழகத்தின்`, `வறட்டு தத்துவத்தின்`, `வாணிப்பர்`, `கேத்திரத்தைப்பற்றி`, `அண்ணுமலை`, `கண்ணென`, `பண் பாடும்`, and `நாட்டுக்களித்த` were preserved.
 - scan 60 ends with complete `திருக்கோயில்.`; scan 61 remains intentionally unopened.
 
+### Batch 013 — scans 61–65
+
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 61 — `pages/0061-murasu.md` — **verified** — printed folio 58
+- scan 62 — `pages/0062-murasu.md` — **verified** — printed folio 59
+- scan 63 — `pages/0063-murasu.md` — **verified** — printed folio 60
+- scan 64 — `pages/0064-murasu.md` — **verified** — printed folio 61
+- scan 65 — `pages/0065-murasu.md` — **verified** — printed folio 62
+
+Batch 013 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 1**
+- scan 62 `விழியோட்டும் -` → scan 63 `கோமான்!` continuation was read directly.
+- difficult scan 63 closing cluster was resolved from enlarged source pixels as `தரணியில்`; no contextual reconstruction was used.
+- source-visible unusual forms including `வேங்கை யெனத்`, `இயக்க மாம்`, `பாவியது`, `நாட்டுக் குழைக்கும்`, `தலைவனிய`, `பணி யேற்றேன்`, `நான்சென்ஸ்`, `ரயில் நிறுத்த’ மென்றது`, `முரசதிர்ந்தது`, `தொடோம்`, and `இதயங் கொண்டோர்` were preserved.
+- scan 65 closes with `அதிர்ந்தது முரசு!`, `அதிர்ந்தது முரசு!!`, `அதிர்ந்தது முரசு!!!` and a printed star; scan 66 remains intentionally unopened.
+
 ## Durable P2 totals
 
-- canonical page records — **60/224**
-- verified — **57**
+- canonical page records — **65/224**
+- verified — **62**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -317,18 +340,19 @@ Batch 012 result:
 
 ## Exact next activity
 
-**P2 scans 61–65.**
+**P2 scans 66–70.**
 
-Process exactly scans **61–65** as one five-scan batch from the attached PDF:
+Process exactly scans **66–70** as one five-scan batch from the attached PDF. Structural expectations from closed P1: scan 66 main text, scan 67 blank/reverse, scans 68–70 main text. P2 must still inspect each source scan directly rather than infer content from P1.
 
-- visually transcribe each whole page from source pixels;
+- visually transcribe each text-bearing page from source pixels;
+- create a canonical blank/reverse record for scan 67 after direct inspection;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
-- perform the mandatory historical-glyph family checks;
+- perform the mandatory historical-glyph family checks on text-bearing pages;
 - record visible printed folios only;
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
-- synchronize controls and commit immediately after the five pages;
-- stop before scan 66 unless explicitly asked to continue.
+- synchronize controls and commit immediately after the five scans;
+- stop before scan 71 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 
