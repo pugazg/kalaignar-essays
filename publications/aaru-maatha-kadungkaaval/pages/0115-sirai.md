@@ -13,7 +13,7 @@ transcription_method: "direct visual comparison with source scan"
 
 # அச்சு உரை
 
-எங்கள் கூண்டு:
+எங்கள் கூண்டு :
 
 நான் - சத்தி - கஸ்தூரி - ராமசுப்பையா - வேணு கோபால்-மலைக்கோட்டை ரத்தினம்-அரியலூர் எத்திராஜ்-மற்றுமொரு நண்பர் ஆகிய எட்டுபேர் அடைக்கப்பட்டோம். காலடியால் சுமார் பத்து அடி நீளமும் - எட்டு அடி அகலமும் உள்ள அந்தக் கொட்டடியில் எட்டுபேர்!
 
@@ -29,7 +29,7 @@ transcription_method: "direct visual comparison with source scan"
 
 - visible printed folio — **112**.
 - running header — `கருணாநிதி`.
-- source heading — **எங்கள் கூண்டு:**.
+- source heading — **எங்கள் கூண்டு :**.
 - source-visible forms including `வேணு கோபால்`, `எத்திராஜ்`, `சிறுநீர் கழிக்கப் பட்டு`, `மலஜலம்`, `‘கக்கூஸ்’`, `“லாங் ஜம்ப்”`, and `கூளமும்` were preserved.
 - page ends with complete `பிறகுதான் உணவு வந்தது.`; scan 116 was not opened.
 

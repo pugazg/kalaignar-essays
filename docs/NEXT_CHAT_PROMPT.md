@@ -49,7 +49,7 @@ Latest P2 batch — scans **111–115** — is complete:
 - scan 113 source-visible `என் அப்போதே` and `என் தான்` retained without normalization
 - scan 113 `எனக்கு நானே` → scan 114 `ஆச்சரியப்படுவேன்` continuation confirmed directly
 - scan 114 source-visible `வேடந்தாங்கி`, `இருபதுக்குட்பட்ட`, `நாலந்து`, and `இருக்கமுடியும்` retained
-- scan 115 heading **`எங்கள் கூண்டு:`**
+- scan 115 heading **`எங்கள் கூண்டு :`**
 - scan 115 source-visible `எத்திராஜ்`, `சிறுநீர் கழிக்கப் பட்டு`, `மலஜலம்`, `‘கக்கூஸ்’`, `“லாங் ஜம்ப்”`, and `கூளமும்` retained
 - scan 115 ends with complete `பிறகுதான் உணவு வந்தது.`
 - scan 116 was **not opened**

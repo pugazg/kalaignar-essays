@@ -169,7 +169,7 @@ Latest batch scans 111–115:
 - scan 111 `வடாற்காடு மாவட்டத்` → scan 112 `தில்` continuation confirmed directly.
 - scan 112 historical `லை` identity confirmed as `இலைபோட்டு`; source-visible `செல்வில்` retained.
 - scan 113 `எனக்கு நானே` → scan 114 `ஆச்சரியப்படுவேன்` continuation confirmed directly.
-- scan 115 heading `எங்கள் கூண்டு:`; source-visible `எத்திராஜ்`, `மலஜலம்`, `‘கக்கூஸ்’`, `“லாங் ஜம்ப்”`, and `கூளமும்` retained.
+- scan 115 heading `எங்கள் கூண்டு :`; source-visible `எத்திராஜ்`, `மலஜலம்`, `‘கக்கூஸ்’`, `“லாங் ஜம்ப்”`, and `கூளமும்` retained.
 - scan 115 ends with complete `பிறகுதான் உணவு வந்தது.`; scan 116 was not opened.
 
 Durable source-artifact anomaly:

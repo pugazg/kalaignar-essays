@@ -117,7 +117,7 @@ Notable durable findings:
 
 - scans 106–110 — **5/5 verified**, no new holds; scan 106 / printed folio 103 continues scan 105 `ஆகி` → `யோரிடம்`; scan 107 and scan 109 are directly confirmed blank/reverse/show-through pages; scan 108 is an illustrated intertitle carrying `சிறை` and a barred/padlocked prison gate; scan 110 begins the `சிறை` body section with no visible folio. Source-visible forms including scan 106 `சாப்பிட்டானபிறகுதான்`, `நின்றுளா`, `அநேகர்`, `ஐயாயிரம்பேர்`, `ஐயாயிரவர்` and scan 110 `முப்பத்தாறுபேரும்`, `துப்பாக்கி சகிதம்`, `நடுநிசியில்`, `எண்ணிட` were preserved. Historical-glyph correction count remains **9**.
 
-- scans 111–115 — **5/5 verified**, printed folios **108–112**, no new holds; scan 111→112 directly continues `வடாற்காடு மாவட்டத்` → `தில்`; scan 112 historical `லை` identity was confirmed as `இலைபோட்டு`; scan 113→114 directly continues `எனக்கு நானே` → `ஆச்சரியப்படுவேன்`; scan 115 begins source heading `எங்கள் கூண்டு:`. Source-visible unusual forms including `செல்வில்`, `என் அப்போதே`, `என் தான்`, `வேடந்தாங்கி`, `நாலந்து`, `எத்திராஜ்`, `மலஜலம்`, and `கூளமும்` were preserved. Historical-glyph correction count remains **9**.
+- scans 111–115 — **5/5 verified**, printed folios **108–112**, no new holds; scan 111→112 directly continues `வடாற்காடு மாவட்டத்` → `தில்`; scan 112 historical `லை` identity was confirmed as `இலைபோட்டு`; scan 113→114 directly continues `எனக்கு நானே` → `ஆச்சரியப்படுவேன்`; scan 115 begins source heading `எங்கள் கூண்டு :`. Source-visible unusual forms including `செல்வில்`, `என் அப்போதே`, `என் தான்`, `வேடந்தாங்கி`, `நாலந்து`, `எத்திராஜ்`, `மலஜலம்`, and `கூளமும்` were preserved. Historical-glyph correction count remains **9**.
 
 Open holds:
 

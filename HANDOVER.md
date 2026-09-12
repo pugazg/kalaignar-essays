@@ -561,7 +561,7 @@ Completed from direct native/enlarged attached-PDF pixels:
 - scan 112 — `pages/0112-sirai.md` — **verified** — printed folio 109
 - scan 113 — `pages/0113-sirai.md` — **verified** — printed folio 110
 - scan 114 — `pages/0114-sirai.md` — **verified** — printed folio 111
-- scan 115 — `pages/0115-sirai.md` — **verified** — printed folio 112 — heading `எங்கள் கூண்டு:`
+- scan 115 — `pages/0115-sirai.md` — **verified** — printed folio 112 — heading `எங்கள் கூண்டு :`
 
 Batch 023 result:
 
@@ -577,7 +577,7 @@ Batch 023 result:
 - scan 113 source-visible unusual `என் அப்போதே` and terminal `என் தான்` were preserved without normalization.
 - scan 113 terminal `எனக்கு நானே` → scan 114 `ஆச்சரியப்படுவேன்` continuation was confirmed directly.
 - scan 114 source-visible `வேடந்தாங்கி`, `இருபதுக்குட்பட்ட`, `நாலந்து`, and `இருக்கமுடியும்` were preserved.
-- scan 115 heading `எங்கள் கூண்டு:` and source-visible `எத்திராஜ்`, `சிறுநீர் கழிக்கப் பட்டு`, `மலஜலம்`, `‘கக்கூஸ்’`, `“லாங் ஜம்ப்”`, and `கூளமும்` were preserved.
+- scan 115 heading `எங்கள் கூண்டு :` and source-visible `எத்திராஜ்`, `சிறுநீர் கழிக்கப் பட்டு`, `மலஜலம்`, `‘கக்கூஸ்’`, `“லாங் ஜம்ப்”`, and `கூளமும்` were preserved.
 - scan 115 ends with complete `பிறகுதான் உணவு வந்தது.`; scan 116 was **not opened**.
 
 
