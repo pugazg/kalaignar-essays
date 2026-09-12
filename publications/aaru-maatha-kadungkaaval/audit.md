@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 65/224 records; 62 verified / 3 needs-review** |
+| P2 | **IN PROGRESS — 70/224 records; 67 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -30,7 +30,8 @@ All **224/224** physical scans are structurally accounted for.
 ### Full structure
 
 - scans 1–9 — front matter / physical-copy layers
-- scans 10–66 — main text
+- scans 10–65 — main text
+- scan 66 — illustrated main-work intertitle / `தடை` / `கல்லக்குடி`
 - scan 67 — blank/reverse
 - scans 68–106 — main text
 - scan 107 — blank/reverse
@@ -83,6 +84,7 @@ Minimum explicit family set:
 | 011 | 51–55 | 5 | 0 | 0 |
 | 012 | 56–60 | 5 | 0 | 0 |
 | 013 | 61–65 | 5 | 0 | 0 |
+| 014 | 66–70 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -236,10 +238,35 @@ Batch 013 checks:
 - source-visible unusual forms including `வேங்கை யெனத்`, `இயக்க மாம்`, `பாவியது`, `நாட்டுக் குழைக்கும்`, `தலைவனிய`, `பணி யேற்றேன்`, `நான்சென்ஸ்`, `ரயில் நிறுத்த’ மென்றது`, `முரசதிர்ந்தது`, `தொடோம்`, and `இதயங் கொண்டோர்` were preserved.
 - scan 65 closes with three `அதிர்ந்தது முரசு` lines using one, two and three exclamation marks, followed by a printed star; scan 66 remains unopened.
 
-## P2 cumulative totals through scan 65
+### Batch 014 — scans 66–70
 
-- canonical page records — **65/224**
-- verified — **62**
+| Scan | Printed folio | Record | Status | Open issue |
+|---:|:---:|---|---|---|
+| 66 | — | `0066-murasu-illustration.md` | verified | none |
+| 67 | — | `0067-blank-reverse.md` | verified | none |
+| 68 | — | `0068-murasu.md` | verified | none |
+| 69 | 66 | `0069-murasu.md` | verified | none |
+| 70 | 67 | `0070-murasu.md` | verified | none |
+
+Batch 014 checks:
+
+- direct native/enlarged source-pixel comparison — **PASS**
+- historical 13-family check — **performed on text-bearing pages**
+- blank/reverse scan 67 — **directly confirmed**
+- guessed readings — **0**
+- new unresolved printed-text holds — **0**
+- cumulative historical-glyph corrections — **1**
+- scan 66 is an illustrated main-work intertitle carrying `தடை` and station-board `கல்லக்குடி`; this refines the earlier generic P1 classification without reopening the full P1 gate.
+- no visible folio appears on scans 66–68; no inferred folio was inserted.
+- scan 68 terminal `எதையும் முடியாது` → scan 69 `என்று என்னிடம் கூறமாட்டார்` was confirmed directly.
+- scan 69 difficult phrase resolved as `தில்லையிலே அண்ணா கொட்டிய முரசின் எதிரொலியாக இருந்தது`.
+- source-visible forms `பாப்பிரம்மம்`, `இடையூறுகளுக்காளாகி`, `என்பால்`, `முறைகூட`, `மகஜர்`, `கருணாமிக்க`, and `நாலைந்துபேர்கூட` were preserved.
+- scan 70 ends with complete `குடிசை வீடுகள் தான் எங்களுக்குக் காட்டப்பட்டன.`; scan 71 remains unopened.
+
+## P2 cumulative totals through scan 70
+
+- canonical page records — **70/224**
+- verified — **67**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -263,4 +290,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 66–70.**
+**P2 scans 71–75.**
