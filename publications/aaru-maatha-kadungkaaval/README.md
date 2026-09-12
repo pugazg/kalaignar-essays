@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 100/224 canonical records; 97 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 105/224 canonical records; 102 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,14 +89,14 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–100**.
+Completed records: **scans 1–105**.
 
 Notable durable findings:
 
 - scans 16–17 repeat printed folios 13–14;
 - scan 18 resumes printed folio 15;
 - physical scans are never deduplicated;
-- historical-glyph correction count — **1**, scan 13 `பொற்சுரங்கமென்றாளோ`;
+- historical-glyph correction count — **9**: scan 13 contributes the prior correction; Batch 021 adds **8** historical-family source-pixel corrections.
 - scans 26–30 — **5/5 verified**, printed folios 23–27, no new holds.
 - scans 31–35 — **5/5 verified**, printed folios 28–32, headings `ஜூன் 19` / `விடிந்தது:`, no new holds; scan 35 ends at `வேலாயுதம்`.
 - scans 36–40 — **5/5 verified**, printed folios 33–37, scan 40 heading `திருச்சியிலே :`, no new holds; scan 40 ends at `கற்றுக்`.
@@ -113,6 +113,8 @@ Notable durable findings:
 - scans 91–95 — **5/5 verified**, printed folios 88–92, no new holds; scan 93→94 continues `அவர்போல் ஒரு` → `அறிஞரைக் காண முடியாதென...`; scan 94→95 continues open `கும்பாபிஷேகம்` → `செய்யும் செட்டிமார் நாட்டிலே பிறந்தவன் நான்.”`; scan 95 ends with complete `நாரண துரைக்கண்ணன் தலைமையில் நாங்கள் பேசினோம்.`.
 - scans 96–100 — **5/5 verified**, printed folios 93–97, no new holds; post-batch enlarged-pixel recheck corrected source readings without changing totals; scan 96→97 continues `சிஷ்யனை` → `யும் தாக்கட்டும்’`; scan 97 name is `தருமு` (`தருமுவும்` / `தருமு முதலியோரை`); scan 99→100 continues `திரும்பினால் காதலி நிற` → `பாள்.`; scan 100 closes with a printed star separator.
 
+- scans 101–105 — **5/5 verified**, printed folios 98–102, no new holds; live main already contained the five page-record commits and this direct attached-PDF re-audit reconciled them before control closure; scan 101 heading `நடராசன்`; scan 103 heading `கோரத் தாண்டவம்!`; scan 101→102 continues `வாரி வழங்கும்` → `அன்னை திராவிடமே!`; scan 102 closes with a printed star; scan 103→104 continues `அவனை நா நா` → `வென்று மென்று...`; scan 105 ends at physical fragment `ஆகி`; scan 106 was not opened. Source-pixel corrections include scan 101 `களப்பலியானான்`, `ஓடோடிவந்தானாம்`, `பிணமானான்`, `படித்தானோ`, `தாறுமாறாகக்`; scan 102 `பெற்றாய்`, `திராவிடத்தாய்`, `கிடக்கிறானை`, `நன்றாக`, `அசையாதம்மா`, `புது மொழி`; scan 103 `நரம்புகள்`, `வயதேறிய`, `உடலைக்`; scan 105 `பதினாறு`. Historical-glyph correction count is now **9**.
+
 Open holds:
 
 - scan 3 — small imprint/printer text;
@@ -121,15 +123,15 @@ Open holds:
 
 Current P2 totals:
 
-- records — **100/224**
-- verified — **97**
+- records — **105/224**
+- verified — **102**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
-- historical-glyph corrections — **1**
+- historical-glyph corrections — **9**
 
 ## Exact next activity
 
-**P2 scans 101–105.**
+**P2 scans 106–110.**
 
-Process the next five physical scans, synchronize controls, commit, and stop before scan 106.
+Process exactly scans **106–110** as the next five-scan batch from live durable state; respect the already-mapped mixed structure (106 main text, 107 blank/reverse, 108 intertitle/transition, 109 blank/reverse, 110 main text), synchronize controls, commit, and stop before scan 111.

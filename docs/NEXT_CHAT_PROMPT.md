@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 101–105
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 106–110
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -8,7 +8,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover. Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Handoff refresh state: **Batch 020 is durable / P2 = 100/224 canonical records; 97 verified / 3 needs-review**. Do not rely on a copied SHA. Fetch live `main` first; if it is newer, preserve the newer work and continue from that state.
+Handoff refresh state: **Batch 021 is durable / P2 = 105/224 canonical records; 102 verified / 3 needs-review**. Do not rely on a copied SHA. Fetch live `main` first; if it is newer, preserve the newer work and continue from that state.
 
 ## Controlling source
 
@@ -29,30 +29,33 @@ Do not use Tamil Digital Library, Wikisource, OCR text, alternate editions, or w
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 100/224 canonical records**
-  - verified — **97**
+- P2 — **IN PROGRESS — 105/224 canonical records**
+  - verified — **102**
   - needs-review — **3**
   - blocked — **0**
-  - historical-glyph corrections — **1**
+  - historical-glyph corrections — **9**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED**
 
-Latest P2 batch — scans **96–100** — is complete:
+Latest P2 batch — scans **101–105** — is complete:
 
 - verified — **5/5**
-- printed folios — **93–97**
+- printed folios — **98–102**
 - new holds — **0**
-- historical-glyph correction count — **unchanged at 1**
-- post-batch enlarged-pixel recheck corrected source readings in scans 96–100 without changing totals or holds
-- scan 96 `சிஷ்யனை` → scan 97 `யும் தாக்கட்டும்’` continuation confirmed directly
-- scan 97 personal name source-resolved as `தருமு`: `தருமுவும்` / `தருமு முதலியோரை`
-- scan 98 contains heading `கேசவன்`; corrected readings include `பெண்ணாகவா`, `கற்பனையூறுகிறது`, `கலவி நடுப்பாதையிலே`, and `வர்ணித்த`
-- scan 99 corrected readings include `தலை சுழல சுழல` and `வைத்தாலென்னால்`
-- scan 99 `திரும்பினால் காதலி நிற` → scan 100 `பாள்.` continuation confirmed directly
-- scan 100 corrected readings include `வரப்போகும் இல்லாள்`, `என்ன சொல்வதற்காகப் பிளந்தானே?`, `கடைசிச் சேதி சொன்னே`, `என்னையேன்`, `பிணக்கோலம்`, and `யானைத்தீப் பசி`
-- scan 100 closes with a printed star separator
-- scan 101 was not opened.
-
+- guessed readings — **0**
+- historical-glyph correction count — **9 cumulative**
+- live `main` already contained page records 0101–0105 when the batch was resumed; they were preserved, directly re-audited against the attached source, corrected where required, and then synchronized with all controls.
+- scan 101 heading — `நடராசன்`
+- scan 101 corrected readings — `களப்பலியானான்`, `ஓடோடிவந்தானாம்`, `பிணமானான்`, `படித்தானோ`, `தாறுமாறாகக்`
+- scan 101 `வாரி வழங்கும்` → scan 102 `அன்னை திராவிடமே!` continuation confirmed directly
+- scan 102 corrected readings — `பெற்றாய்`, `திராவிடத்தாய்`, `கிடக்கிறானை`, `நன்றாக`, `அசையாதம்மா`, `புது மொழி`
+- scan 102 closes with a printed star separator
+- scan 103 heading — `கோரத் தாண்டவம்!`
+- scan 103 corrected readings — `நரம்புகள்`, `வயதேறிய`, `உடலைக்`
+- scan 103 `அவனை நா நா` → scan 104 `வென்று மென்று...` continuation confirmed directly
+- scan 105 corrected historical reading — `பதினாறு`
+- scan 105 ends at physical fragment `ஆகி`
+- scan 106 was **not opened**
 
 Open P2 holds remain:
 
@@ -64,7 +67,11 @@ Open P2 holds remain:
 
 P1 remains **COMPLETE / PASS**. Relevant next-range classification:
 
-- scans **101–105 — main text**
+- scan **106 — main text**
+- scan **107 — blank / reverse / show-through**
+- scan **108 — nonblank intertitle / structural transition**
+- scan **109 — blank / reverse / show-through**
+- scan **110 — main text**
 
 P2 must still inspect every scan directly.
 
@@ -83,9 +90,9 @@ Read completely:
 9. `P1_SOURCE_STRUCTURE_REVIEW.md`
 10. `audit.md`
 
-## Exact next activity — P2 scans 101–105
+## Exact next activity — P2 scans 106–110
 
-Process **exactly scans 101–105 as one batch** from the attached PDF.
+Process **exactly scans 106–110 as one batch** from the attached PDF.
 
 For every text-bearing page:
 
@@ -96,12 +103,14 @@ For every text-bearing page:
 - separate non-print physical-copy marks;
 - never fill uncertainty from context.
 
-After scans 101–105:
+For scans 107 and 109, directly confirm blank/reverse/show-through status rather than inferring it from P1.
+
+After scans 106–110:
 
 - synchronize all dependent controls;
 - commit immediately;
 - report verified / needs-review / hold counts;
 - set the next five-scan batch from live durable state;
-- stop before scan 106 unless explicitly asked to continue.
+- stop before scan 111 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.

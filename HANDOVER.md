@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 020 / P2 scans 96–100** reached the durable state **100/224 canonical records; 97 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 021 / P2 scans 101–105** reached the durable state **105/224 canonical records; 102 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 100/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 105/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 100/224 records; 97 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 105/224 records; 102 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -494,14 +494,45 @@ Batch 020 result:
 - scan 100 source recheck confirms `வரப்போகும் இல்லாள்`, `என்ன சொல்வதற்காகப் பிளந்தானே?`, `கடைசிச் சேதி சொன்னே`, `என்னையேன்`, `பிணக்கோலம்`, and `யானைத்தீப் பசி`.
 - scan 100 closes with a printed star separator; scan 101 remains intentionally unopened.
 
+### Batch 021 — scans 101–105
+
+Completed by direct re-audit of the attached PDF pixels. Live `main` already contained the five page-record commits when this batch was resumed; those records were preserved, rechecked, corrected where source pixels required, and then synchronized with all dependent controls.
+
+- scan 101 — `pages/0101-murasu.md` — **verified** — printed folio 98 — heading `நடராசன்`
+- scan 102 — `pages/0102-murasu.md` — **verified** — printed folio 99 — printed star separator
+- scan 103 — `pages/0103-murasu.md` — **verified** — printed folio 100 — heading `கோரத் தாண்டவம்!`
+- scan 104 — `pages/0104-murasu.md` — **verified** — printed folio 101
+- scan 105 — `pages/0105-murasu.md` — **verified** — printed folio 102
+
+Batch 021 result:
+
+- canonical records finalized — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- mandatory 13-family historical-glyph check — **performed on all five pages**
+- historical-glyph corrections added by this recheck — **8**
+- cumulative historical-glyph corrections — **9**
+- scan 101 source-pixel corrections: `களப்பலியானை` → `களப்பலியானான்`; `ஓடோடிவந்தானும்` → `ஓடோடிவந்தானாம்`; `பிணமானை` → `பிணமானான்`; `படித்தானே` → `படித்தானோ`; `தாறுமாறுக்குக்` → `தாறுமாறாகக்`.
+- scan 102 source-pixel corrections: `பெற்றுய` → `பெற்றாய்`; `திராவிடத்தாணி` → `திராவிடத்தாய்`; `கிடக்கிறனை` → `கிடக்கிறானை`; `நன்றுக` → `நன்றாக`; `ஆசையாதம்மா` → `அசையாதம்மா`; `புது மழை` → `புது மொழி`.
+- scan 103 source-pixel corrections: `நாம்புகள்` → `நரம்புகள்`; `வயதேரிய` → `வயதேறிய`; `உடலக்` → `உடலைக்`.
+- scan 105 historical reading: `பதினுறு` → `பதினாறு`.
+- historical-family correction events in this batch are the `னா / னோ / றா / லை` identity corrections documented above; ordinary source-reading corrections remain separate from that count.
+- scan 101 terminal `வாரி வழங்கும்` → scan 102 `அன்னை திராவிடமே!` continuation was confirmed directly.
+- scan 102 closes with a printed star separator.
+- scan 103 terminal `அவனை நா நா` → scan 104 `வென்று மென்று...` continuation was confirmed directly.
+- scan 105 ends at the physical fragment `ஆகி`; scan 106 was **not opened**.
+
+
 ## Durable P2 totals
 
-- canonical page records — **100/224**
-- verified — **97**
+- canonical page records — **105/224**
+- verified — **102**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
-- historical-glyph corrections — **1**
+- historical-glyph corrections — **9**
 - open printed-text holds — **3**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
@@ -509,18 +540,22 @@ Batch 020 result:
 
 ## Exact next activity
 
-**P2 scans 101–105.**
+**P2 scans 106–110.**
 
-Process exactly scans **101–105** as one five-scan batch from the attached PDF:
+Process exactly scans **106–110** as one five-scan batch from the attached PDF:
 
-- visually transcribe each whole page from source pixels;
-- preserve source spelling, punctuation, paragraphing and meaningful spacing;
-- perform the mandatory historical-glyph family checks;
+- scan 106 — main text;
+- scan 107 — blank / reverse / show-through;
+- scan 108 — nonblank intertitle / structural transition;
+- scan 109 — blank / reverse / show-through;
+- scan 110 — main text;
+- inspect every physical scan directly and preserve source-visible structure;
+- perform the mandatory historical-glyph family checks on text-bearing pages;
 - record visible printed folios only;
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 106 unless explicitly asked to continue.
+- stop before scan 111 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 

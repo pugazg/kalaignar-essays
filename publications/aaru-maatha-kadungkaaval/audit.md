@@ -91,6 +91,7 @@ Minimum explicit family set:
 | 018 | 86–90 | 5 | 0 | 0 |
 | 019 | 91–95 | 5 | 0 | 0 |
 | 020 | 96–100 | 5 | 0 | 0 |
+| 021 | 101–105 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -407,14 +408,44 @@ Batch 020 checks:
 - scan 100 corrected source readings include `வரப்போகும் இல்லாள்`, `என்ன சொல்வதற்காகப் பிளந்தானே?`, `கடைசிச் சேதி சொன்னே`, `என்னையேன்`, `பிணக்கோலம்`, and `யானைத்தீப் பசி`.
 - scan 100 closes with a printed star separator; scan 101 remains unopened.
 
-## P2 cumulative totals through scan 100
+### Batch 021 — scans 101–105
 
-- canonical page records — **100/224**
-- verified — **97**
+Completed by direct re-audit of the attached PDF pixels. Live `main` already contained the five page-record commits when this batch was resumed; those records were preserved, rechecked, corrected where source pixels required, and then synchronized with all dependent controls.
+
+- scan 101 — `pages/0101-murasu.md` — **verified** — printed folio 98 — heading `நடராசன்`
+- scan 102 — `pages/0102-murasu.md` — **verified** — printed folio 99 — printed star separator
+- scan 103 — `pages/0103-murasu.md` — **verified** — printed folio 100 — heading `கோரத் தாண்டவம்!`
+- scan 104 — `pages/0104-murasu.md` — **verified** — printed folio 101
+- scan 105 — `pages/0105-murasu.md` — **verified** — printed folio 102
+
+Batch 021 result:
+
+- canonical records finalized — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- mandatory 13-family historical-glyph check — **performed on all five pages**
+- historical-glyph corrections added by this recheck — **8**
+- cumulative historical-glyph corrections — **9**
+- scan 101 source-pixel corrections: `களப்பலியானை` → `களப்பலியானான்`; `ஓடோடிவந்தானும்` → `ஓடோடிவந்தானாம்`; `பிணமானை` → `பிணமானான்`; `படித்தானே` → `படித்தானோ`; `தாறுமாறுக்குக்` → `தாறுமாறாகக்`.
+- scan 102 source-pixel corrections: `பெற்றுய` → `பெற்றாய்`; `திராவிடத்தாணி` → `திராவிடத்தாய்`; `கிடக்கிறனை` → `கிடக்கிறானை`; `நன்றுக` → `நன்றாக`; `ஆசையாதம்மா` → `அசையாதம்மா`; `புது மழை` → `புது மொழி`.
+- scan 103 source-pixel corrections: `நாம்புகள்` → `நரம்புகள்`; `வயதேரிய` → `வயதேறிய`; `உடலக்` → `உடலைக்`.
+- scan 105 historical reading: `பதினுறு` → `பதினாறு`.
+- historical-family correction events in this batch are the `னா / னோ / றா / லை` identity corrections documented above; ordinary source-reading corrections remain separate from that count.
+- scan 101 terminal `வாரி வழங்கும்` → scan 102 `அன்னை திராவிடமே!` continuation was confirmed directly.
+- scan 102 closes with a printed star separator.
+- scan 103 terminal `அவனை நா நா` → scan 104 `வென்று மென்று...` continuation was confirmed directly.
+- scan 105 ends at the physical fragment `ஆகி`; scan 106 was **not opened**.
+
+## P2 cumulative totals through scan 105
+
+- canonical page records — **105/224**
+- verified — **102**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
-- historical-glyph corrections — **1**
+- historical-glyph corrections — **9**
 - unresolved printed-text holds — **3**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
@@ -434,4 +465,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 101–105.**
+**P2 scans 106–110.**
