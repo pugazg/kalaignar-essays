@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 60/224 canonical records; 57 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 65/224 canonical records; 62 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -88,7 +88,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–60**.
+Completed records: **scans 1–65**.
 
 Notable durable findings:
 
@@ -103,6 +103,7 @@ Notable durable findings:
 - scans 46–50 — **5/5 verified**, printed folios 43–47, no new holds; scan 45→46 continuation resolves `காய்வதேன்`; scan 50 ends at `பாதை தவறியதின்`.
 - scans 51–55 — **5/5 verified**, printed folios 48–52, heading `அரியலூர் :`, no new holds; scan 55 ends inside an open quotation at `வளர்ந்துவரும்`.
 - scans 56–60 — **5/5 verified**, printed folios 53–57, scan 60 heading `முரசு முழங்கியது`, no new holds; scan 55→56 directly continues `வளர்ந்துவரும்` → `எம்மைப் பார்!`; scan 56→57 continues `வாடகைக்கார் ஒன்றில்,` → `நான் -`; scan 60 ends with complete `திருக்கோயில்.`.
+- scans 61–65 — **5/5 verified**, printed folios 58–62, no new holds; scan 62→63 continues `விழியோட்டும் -` → `கோமான்!`; scan 63 difficult cluster resolved directly as `தரணியில்`; scan 65 closes with `அதிர்ந்தது முரசு! / !! / !!!` and a printed star.
 
 Open holds:
 
@@ -112,8 +113,8 @@ Open holds:
 
 Current P2 totals:
 
-- records — **60/224**
-- verified — **57**
+- records — **65/224**
+- verified — **62**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -121,6 +122,6 @@ Current P2 totals:
 
 ## Exact next activity
 
-**P2 scans 61–65.**
+**P2 scans 66–70.**
 
-Process the next five physical scans, synchronize controls, commit, and stop before scan 66.
+Process the next five physical scans, including the structurally blank/reverse scan 67, synchronize controls, commit, and stop before scan 71.
