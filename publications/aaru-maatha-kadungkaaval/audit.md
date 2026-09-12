@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 85/224 records; 82 verified / 3 needs-review** |
+| P2 | **IN PROGRESS — 90/224 records; 87 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -88,6 +88,7 @@ Minimum explicit family set:
 | 015 | 71–75 | 5 | 0 | 0 |
 | 016 | 76–80 | 5 | 0 | 0 |
 | 017 | 81–85 | 5 | 0 | 0 |
+| 018 | 86–90 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -334,10 +335,32 @@ Batch 017 checks:
 - source-visible unusual wording was retained rather than context-corrected, including `கவ்விக் கொண்டு போலவே`, `கப்பிக்கொண்டிருந்தது`, `வெங்கு நதி தனிற்`, `முத்துப்பந்தாக்கள்`, `ஊழியவரையில்`, `ஒண்டவந்த பிடாரிகள்`, `ஒதிய மிலர்கள்`, `களங் காண`, `விலங்கொடிக்கும்`, `கிளம்பிற்றுக்காண்`, `தேடுதுகாண்`, `புழுதி யெழுப்பியவாறு`, `கண்களுக் குத்தியிருக்கும்`, and `பலகை இளித்தபடி`.
 - scan 85 ends at open `மாணிக்க`; scan 86 remains unopened.
 
-## P2 cumulative totals through scan 85
+### Batch 018 — scans 86–90
 
-- canonical page records — **85/224**
-- verified — **82**
+| Scan | Printed folio | Record | Status | Open issue |
+|---:|:---:|---|---|---|
+| 86 | 83 | `0086-murasu.md` | verified | none |
+| 87 | 84 | `0087-murasu.md` | verified | none |
+| 88 | 85 | `0088-murasu.md` | verified | none |
+| 89 | 86 | `0089-murasu.md` | verified | none |
+| 90 | 87 | `0090-murasu.md` | verified | none |
+
+Batch 018 checks:
+
+- direct native/enlarged source-pixel comparison — **PASS**
+- historical 13-family check — **performed on all five pages**
+- guessed readings — **0**
+- new unresolved printed-text holds — **0**
+- cumulative historical-glyph corrections — **1**
+- scan 85 `மாணிக்க` → scan 86 `குறள் ஒலிக்கும் மாதா...` was confirmed directly.
+- scan 89 `இருபத்தைந்துபேரும்` → scan 90 `போலீஸ் வண்டியில் ஏற்றப்பட்டோம்.` was confirmed directly.
+- source-visible unusual wording was retained rather than context-corrected, including `புடைகுழ்ந்து`, `மோழைகள்`, `வாழைக்குக் கன்றல்ல - ஆளுக்கு விழுதுகள்`, `நாங்களுந்தான்`, `மக்களுந்தான்`, `திட்டிய கடிதங்கள்`, `கிரீச்`, `மரக் மரக்`, `ஊளையிட்டது`, `தேசத்தொண்டர்கள்`, `என் உடலே ஒட்டினாற்போல்`, `அணையுடைத்தெழும் நித்தம் போலக்`, `கிளிக்கூண்டு`, and `கைது செய்யப்பட்டவில்லை`.
+- scan 90 ends with complete `அவர் தலைமையிலே படை போகிறது!`; scan 91 remains unopened.
+
+## P2 cumulative totals through scan 90
+
+- canonical page records — **90/224**
+- verified — **87**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -361,4 +384,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 86–90.**
+**P2 scans 91–95.**
