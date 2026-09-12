@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 85/224 canonical records; 82 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 90/224 canonical records; 87 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–85**.
+Completed records: **scans 1–90**.
 
 Notable durable findings:
 
@@ -109,6 +109,7 @@ Notable durable findings:
 - scans 71–75 — **5/5 verified**, printed folios 68–72, no new holds; scan 71→72 continues `கிடக்கிறது` → `வடநாட்டு முதலாளியால்!`; scan 73→74 preserves physical split `வட நாட்` → `டானின்`; scan 75 historical `ணா` identity was decoded as `அண்ணா`.
 - scans 76–80 — **5/5 verified**, printed folios 73–77, no new holds; scan 76→77 continues `அவர்` → `களிடத்திலே`; scan 77→78 continues `பெற்ற` → `சட்டசபை உறுப்பினர்களும்`; scan 78→79 continues `உல்லா` → `சம், உற்சாகம்.`; scan 80 ends at open `கலந்துகொள்ளவேண்டிய`.
 - scans 81–85 — **5/5 verified**, printed folios 78–82, no new holds; scan 80→81 continues `கலந்துகொள்ளவேண்டிய` → `வர்கள் 14ம் தேதி...`; scan 81→82 continues `நெருக்கடியான` → `நிலைகளுக்கிடையிலும்`; scan 85 ends at open `மாணிக்க`.
+- scans 86–90 — **5/5 verified**, printed folios 83–87, no new holds; scan 85→86 continues `மாணிக்க` → `குறள் ஒலிக்கும் மாதா...`; scan 89→90 continues `இருபத்தைந்துபேரும்` → `போலீஸ் வண்டியில் ஏற்றப்பட்டோம்.`; scan 90 ends with complete `அவர் தலைமையிலே படை போகிறது!`.
 
 Open holds:
 
@@ -118,8 +119,8 @@ Open holds:
 
 Current P2 totals:
 
-- records — **85/224**
-- verified — **82**
+- records — **90/224**
+- verified — **87**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -127,6 +128,6 @@ Current P2 totals:
 
 ## Exact next activity
 
-**P2 scans 86–90.**
+**P2 scans 91–95.**
 
-Process the next five physical scans, synchronize controls, commit, and stop before scan 91.
+Process the next five physical scans, synchronize controls, commit, and stop before scan 96.
