@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 014 / P2 scans 66–70** reached the durable state **70/224 canonical records; 67 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 015 / P2 scans 71–75** reached the durable state **75/224 canonical records; 72 verified / 3 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 70/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 75/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 70/224 records; 67 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 75/224 records; 72 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -350,10 +350,34 @@ Batch 014 result:
 - source-visible unusual forms including `பாப்பிரம்மம்`, `இடையூறுகளுக்காளாகி`, `என்பால்`, `முறைகூட`, `மகஜர்`, `கருணாமிக்க`, and `நாலைந்துபேர்கூட` were preserved.
 - scan 70 ends with complete `குடிசை வீடுகள் தான் எங்களுக்குக் காட்டப்பட்டன.`; scan 71 remains intentionally unopened.
 
+### Batch 015 — scans 71–75
+
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 71 — `pages/0071-murasu.md` — **verified** — printed folio 68
+- scan 72 — `pages/0072-murasu.md` — **verified** — printed folio 69
+- scan 73 — `pages/0073-murasu.md` — **verified** — printed folio 70
+- scan 74 — `pages/0074-murasu.md` — **verified** — printed folio 71
+- scan 75 — `pages/0075-murasu.md` — **verified** — printed folio 72
+
+Batch 015 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 1**
+- scan 71 `கிடக்கிறது` → scan 72 `வடநாட்டு முதலாளியால்!` continuation was confirmed directly.
+- scan 73 terminal `வட நாட்` → scan 74 `டானின்` was preserved as a physical page split while directly establishing the continuation `வட நாட்டானின்`.
+- source-visible unusual forms including `மிகமிஞ்சிய`, `தாறுமாறாய்ப்`, `சூடான பெருமூச்சாலேயே`, `வெள்ளிப் பணமாக்கி`, `நிலத்துக்குடையோர்`, `உறிஞ்சும் கூட்டுறவிலிருந்து`, `கொள்ளையடித்தது மில்லாமல்`, `அவதிக்குள்ளாயினர்`, `மைனுதீன்`, and `கொச்சைத் தமிழால்` were preserved.
+- scan 75 historical `ணா` identity was encoded as `அண்ணா` in modern Unicode.
+- scan 75 ends with complete `வெளிவந்தன.`; scan 76 remains intentionally unopened.
+
 ## Durable P2 totals
 
-- canonical page records — **70/224**
-- verified — **67**
+- canonical page records — **75/224**
+- verified — **72**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -365,9 +389,9 @@ Batch 014 result:
 
 ## Exact next activity
 
-**P2 scans 71–75.**
+**P2 scans 76–80.**
 
-Process exactly scans **71–75** as one five-scan batch from the attached PDF:
+Process exactly scans **76–80** as one five-scan batch from the attached PDF:
 
 - visually transcribe each whole page from source pixels;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
@@ -376,7 +400,7 @@ Process exactly scans **71–75** as one five-scan batch from the attached PDF:
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 76 unless explicitly asked to continue.
+- stop before scan 81 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 
