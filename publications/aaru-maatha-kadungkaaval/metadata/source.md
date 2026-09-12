@@ -102,29 +102,27 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 70/224 canonical records; 67 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 75/224 canonical records; 72 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 70
+## P2 source use through scan 75
 
-Canonical records exist for scans **1–70**.
+Canonical records exist for scans **1–75**.
 
-Latest batch scans 66–70:
+Latest batch scans 71–75:
 
+- printed folios — **68–72**
 - verified — **5/5**
 - new holds — **0**
 - guessed readings — **0**
 - cumulative historical-glyph corrections — **1**
-- scan 66 — illustrated source page carrying `தடை` and station-board `கல்லக்குடி`; visible folio absent.
-- scan 67 — directly confirmed blank/reverse/show-through; visible folio absent.
-- scan 68 — source heading `களம்`; visible folio absent and no sequence-derived folio was inserted.
-- scan 69 / scan 70 — visible printed folios **66 / 67**.
-- scan 68 `எதையும் முடியாது` → scan 69 `என்று என்னிடம் கூறமாட்டார்` was confirmed directly.
-- scan 69 source phrase `தில்லையிலே அண்ணா கொட்டிய முரசின் எதிரொலியாக இருந்தது` was resolved from enlarged pixels.
-- source-visible forms including `பாப்பிரம்மம்`, `இடையூறுகளுக்காளாகி`, `என்பால்`, `முறைகூட`, `மகஜர்`, `கருணாமிக்க`, and `நாலைந்துபேர்கூட` were preserved.
-- scan 70 ends with complete `குடிசை வீடுகள் தான் எங்களுக்குக் காட்டப்பட்டன.`; scan 71 was not opened.
+- scan 71 `கிடக்கிறது` → scan 72 `வடநாட்டு முதலாளியால்!` continuation was confirmed directly.
+- scan 73 ends at physical fragment `வட நாட்`; scan 74 begins `டானின்`, together establishing `வட நாட்டானின்` without altering page-level source fragments.
+- difficult/source-visible forms including `மிகமிஞ்சிய`, `தாறுமாறாய்ப்`, `சூடான பெருமூச்சாலேயே`, `வெள்ளிப் பணமாக்கி`, `நிலத்துக்குடையோர்`, `உறிஞ்சும் கூட்டுறவிலிருந்து`, `கொள்ளையடித்தது மில்லாமல்`, `அவதிக்குள்ளாயினர்`, `மைனுதீன்`, and `கொச்சைத் தமிழால்` were preserved.
+- scan 75 historical `ணா` identity was encoded as `அண்ணா` in modern Unicode.
+- scan 75 ends with complete `வெளிவந்தன.`; scan 76 was not opened.
 
 
 Durable source-artifact anomaly:
@@ -141,4 +139,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 71–75.**
+**P2 scans 76–80.**
