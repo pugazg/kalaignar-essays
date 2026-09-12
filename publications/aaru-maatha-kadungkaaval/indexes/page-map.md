@@ -7,7 +7,7 @@ Controlling attached source: `TVA_BOK_0064140_ஆறுமாதக்_கடு
 - P0 — **COMPLETE / PASS**
 - physical source scans — **224**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 95/224 canonical records**
+- P2 — **IN PROGRESS — 100/224 canonical records**
 
 Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVIEW.md)
 
@@ -54,7 +54,7 @@ P1 extension result:
 - source PDF is never committed;
 - section headings embedded on text-bearing pages remain part of main-text page records in P2.
 
-## P2 record status through scan 95
+## P2 record status through scan 100
 
 | Scan | Canonical record | Status |
 |---:|---|---|
@@ -153,11 +153,16 @@ P1 extension result:
 | 93 | `../pages/0093-murasu.md` | verified |
 | 94 | `../pages/0094-murasu.md` | verified |
 | 95 | `../pages/0095-murasu.md` | verified |
+| 96 | `../pages/0096-murasu.md` | verified |
+| 97 | `../pages/0097-murasu.md` | verified |
+| 98 | `../pages/0098-murasu.md` | verified |
+| 99 | `../pages/0099-murasu.md` | verified |
+| 100 | `../pages/0100-murasu.md` | verified |
 
 Current P2 totals:
 
-- coverage — **95/224**
-- verified — **92**
+- coverage — **100/224**
+- verified — **97**
 - needs-review — **3**
 - blocked — **0**
 
@@ -179,4 +184,4 @@ Scans 16–17 remain independent physical page records.
 
 ## Exact next activity
 
-**P2 scans 96–100.**
+**P2 scans 101–105.**
