@@ -102,27 +102,27 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 75/224 canonical records; 72 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 80/224 canonical records; 77 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 75
+## P2 source use through scan 80
 
-Canonical records exist for scans **1–75**.
+Canonical records exist for scans **1–80**.
 
-Latest batch scans 71–75:
+Latest batch scans 76–80:
 
-- printed folios — **68–72**
+- printed folios — **73–77**
 - verified — **5/5**
 - new holds — **0**
 - guessed readings — **0**
 - cumulative historical-glyph corrections — **1**
-- scan 71 `கிடக்கிறது` → scan 72 `வடநாட்டு முதலாளியால்!` continuation was confirmed directly.
-- scan 73 ends at physical fragment `வட நாட்`; scan 74 begins `டானின்`, together establishing `வட நாட்டானின்` without altering page-level source fragments.
-- difficult/source-visible forms including `மிகமிஞ்சிய`, `தாறுமாறாய்ப்`, `சூடான பெருமூச்சாலேயே`, `வெள்ளிப் பணமாக்கி`, `நிலத்துக்குடையோர்`, `உறிஞ்சும் கூட்டுறவிலிருந்து`, `கொள்ளையடித்தது மில்லாமல்`, `அவதிக்குள்ளாயினர்`, `மைனுதீன்`, and `கொச்சைத் தமிழால்` were preserved.
-- scan 75 historical `ணா` identity was encoded as `அண்ணா` in modern Unicode.
-- scan 75 ends with complete `வெளிவந்தன.`; scan 76 was not opened.
+- scan 76 `அவர்` → scan 77 `களிடத்திலே` continuation was confirmed directly.
+- scan 77 `பெற்ற` → scan 78 `சட்டசபை உறுப்பினர்களும்` continuation was confirmed directly.
+- scan 78 `உல்லா` → scan 79 `சம், உற்சாகம்.` directly establishes `உல்லாசம்` while preserving physical page fragments.
+- source-visible forms including `கிழப் பருவமும்`, `செய்திகேட்டு`, `இளைஞர்கட்கும்-ஒளிப்பாதையைக்`, `போர்முனையிலேதான்`, `ஆசையினில்`, `மருத்துவ மனையில்`, `நண்பர் பாரவிடம்`, `குளுரைக்கும்`, `நெஞ்சுமுத்தம்`, `இனித்து நிற்கும்`, `வென்றே மென்று!`, `உறைவிட்டெழும்`, `சிமண்டு`, `கடைசிக்கூட்டம்`, `பிணமாகப்போன`, `கழகத்தின்பால்`, `ஒக்கு யாரும்`, `பொன்னிக் மொழிகள்`, and `ஊராள வந்தவர்!` were preserved.
+- scan 80 ends inside an open continuation at `கலந்துகொள்ளவேண்டிய`; scan 81 was not opened and no completion was guessed.
 
 
 Durable source-artifact anomaly:
@@ -139,4 +139,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 76–80.**
+**P2 scans 81–85.**
