@@ -111,7 +111,7 @@ Notable durable findings:
 - scans 81–85 — **5/5 verified**, printed folios 78–82, no new holds; scan 80→81 continues `கலந்துகொள்ளவேண்டிய` → `வர்கள் 14ம் தேதி...`; scan 81→82 continues `நெருக்கடியான` → `நிலைகளுக்கிடையிலும்`; scan 85 ends at open `மாணிக்க`.
 - scans 86–90 — **5/5 verified**, printed folios 83–87, no new holds; scan 85→86 continues `மாணிக்க` → `குறள் ஒலிக்கும் மாதா...`; scan 89→90 continues `இருபத்தைந்துபேரும்` → `போலீஸ் வண்டியில் ஏற்றப்பட்டோம்.`; scan 90 ends with complete `அவர் தலைமையிலே படை போகிறது!`.
 - scans 91–95 — **5/5 verified**, printed folios 88–92, no new holds; scan 93→94 continues `அவர்போல் ஒரு` → `அறிஞரைக் காண முடியாதென...`; scan 94→95 continues open `கும்பாபிஷேகம்` → `செய்யும் செட்டிமார் நாட்டிலே பிறந்தவன் நான்.”`; scan 95 ends with complete `நாரண துரைக்கண்ணன் தலைமையில் நாங்கள் பேசினோம்.`.
-- scans 96–100 — **5/5 verified**, printed folios 93–97, no new holds; scan 96→97 continues `சிஷ்யனை` → `யும் தாக்கட்டும்’`; scan 97 difficult name resolved as `திருமுகமும்`; scan 99→100 continues `திரும்பினால் காதலி நிற` → `பாள்.`; scan 100 closes with a printed star separator.
+- scans 96–100 — **5/5 verified**, printed folios 93–97, no new holds; post-batch enlarged-pixel recheck corrected source readings without changing totals; scan 96→97 continues `சிஷ்யனை` → `யும் தாக்கட்டும்’`; scan 97 name is `தருமு` (`தருமுவும்` / `தருமு முதலியோரை`); scan 99→100 continues `திரும்பினால் காதலி நிற` → `பாள்.`; scan 100 closes with a printed star separator.
 
 Open holds:
 
