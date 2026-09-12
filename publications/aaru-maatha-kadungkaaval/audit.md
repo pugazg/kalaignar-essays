@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 55/224 records; 52 verified / 3 needs-review** |
+| P2 | **IN PROGRESS — 60/224 records; 57 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -81,6 +81,7 @@ Minimum explicit family set:
 | 009 | 41–45 | 5 | 0 | 0 |
 | 010 | 46–50 | 5 | 0 | 0 |
 | 011 | 51–55 | 5 | 0 | 0 |
+| 012 | 56–60 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -191,10 +192,31 @@ Batch 011 checks:
 - scan 54 preserves source-visible `குட்டப்படுகிற` and the printed `திரா` / next-line `படையைத்` sequence without supplying missing letters.
 - scan 55 ends inside an open quotation at `வளர்ந்துவரும்`; scan 56 remains unopened.
 
-## P2 cumulative totals through scan 55
+### Batch 012 — scans 56–60
 
-- canonical page records — **55/224**
-- verified — **52**
+| Scan | Printed folio | Record | Status | Open issue |
+|---:|:---:|---|---|---|
+| 56 | 53 | `0056-murasu.md` | verified | none |
+| 57 | 54 | `0057-murasu.md` | verified | none |
+| 58 | 55 | `0058-murasu.md` | verified | none |
+| 59 | 56 | `0059-murasu.md` | verified | none |
+| 60 | 57 | `0060-murasu.md` | verified | none |
+
+Batch 012 checks:
+
+- direct native/enlarged source-pixel comparison — **PASS**
+- historical 13-family check — **performed on all five pages**
+- guessed readings — **0**
+- new unresolved printed-text holds — **0**
+- cumulative historical-glyph corrections — **1**
+- scan 55 `வளர்ந்துவரும்` → scan 56 `எம்மைப் பார்!` and scan 56 `வாடகைக்கார் ஒன்றில்,` → scan 57 `நான் -` were confirmed directly.
+- source-visible unusual forms were retained rather than context-corrected.
+- scan 60 contains source heading `முரசு முழங்கியது` and ends with complete `திருக்கோயில்.`; scan 61 remains unopened.
+
+## P2 cumulative totals through scan 60
+
+- canonical page records — **60/224**
+- verified — **57**
 - needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
@@ -218,4 +240,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 56–60.**
+**P2 scans 61–65.**
