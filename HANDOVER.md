@@ -485,10 +485,13 @@ Batch 020 result:
 - new printed-text holds — **0**
 - guessed readings — **0**
 - historical-glyph correction count — **unchanged at 1**
+- a post-batch enlarged-pixel recheck corrected source readings in scans 96–100; totals and hold counts are unchanged.
 - scan 96 `சிஷ்யனை` → scan 97 `யும் தாக்கட்டும்’` continuation was directly confirmed.
-- difficult scan 97 name was resolved from enlarged source pixels as `திருமுகமும்`.
+- scan 97 personal name is source-resolved as `தருமு`: `தருமுவும்` / `தருமு முதலியோரை`.
+- scan 98 source recheck confirms `பெண்ணாகவா`, `வாழ்க்கைக்குத் துணை`, `தொடமுடியும்`, `காராக்கிரகத்துக்குக் கிடைக்கிற இரவும்`, `கற்பனையூறுகிறது`, `கலவி நடுப்பாதையிலே`, and `வர்ணித்த`.
+- scan 99 source recheck confirms `வியாபாரத்துக்குப்போன மகனே`, historical `லை` identity in `தலை சுழல சுழல`, and source-visible `வைத்தாலென்னால்`.
 - scan 99 `திரும்பினால் காதலி நிற` → scan 100 `பாள்.` continuation was directly confirmed.
-- source-visible unusual forms including `சாப்பிட்டான பிறகு!`, `மூன்றும் படை வரிசைக்கு`, `தளபதியாகினேன்`, `திருமு முதலியோரை`, `கலவி நடுப்பானதயிலே காதல் பேசி`, `போக்காளி`, `அக்கிரமக்காரர்களேத்`, `வாழ்போகம் இல்லாள்`, `பிளந்தானும்`, and `கல்லக்குடிகளத்திலே` were preserved.
+- scan 100 source recheck confirms `வரப்போகும் இல்லாள்`, `என்ன சொல்வதற்காகப் பிளந்தானே?`, `கடைசிச் சேதி சொன்னே`, `என்னையேன்`, `பிணக்கோலம்`, and `யானைத்தீப் பசி`.
 - scan 100 closes with a printed star separator; scan 101 remains intentionally unopened.
 
 ## Durable P2 totals
