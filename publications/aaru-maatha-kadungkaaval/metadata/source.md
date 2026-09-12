@@ -102,14 +102,14 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 125/224 canonical records; 122 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 130/224 canonical records; 122 verified / 8 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 125
+## P2 source use through scan 130
 
-Canonical records exist for scans **1–125**.
+Canonical records exist for scans **1–130**.
 
 Latest batch scans 96–100:
 
@@ -197,6 +197,20 @@ Latest batch scans 121–125:
 - scan 125 same-edition comparison confirmed `லை` in `ஆலை` / `மலைக்கோட்டையின்`; source-visible `ஆலை தெளிந்த உள்ளம்` retained.
 - scan 125 ends at `கோட்டைபோன்ற`; scan 126 was not opened.
 
+Latest batch scans 126–130:
+
+- printed folios — **123–127**
+- verified — **0/5**
+- needs-review — **5/5**
+- new verification holds — **5**
+- guessed readings — **0**
+- cumulative historical-glyph corrections — **9**
+- all five physical scans were opened directly from the attached controlling PDF.
+- exact full-body transcription and mandatory historical-glyph verification were deliberately held because the stable high-resolution source-pixel inspection route was unavailable at closure.
+- no OCR/context/alternate-source text was promoted.
+- scan 125 terminal `கோட்டைபோன்ற` remains preserved on scan 125; no scan 126 continuation was reconstructed from context.
+- scan 131 was not opened.
+
 Durable source-artifact anomaly:
 
 - scans 16–17 repeat printed folios 13–14;
@@ -207,8 +221,9 @@ Open printed-text holds:
 
 - scan 3 — small imprint/printer text;
 - scan 4 — exact publisher-note transcription;
-- scan 18 — physically obscured cluster after `ஒருவராக ஆ`.
+- scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
+- scans 126–130 — exact transcription / historical-glyph verification pending focused high-resolution source re-read.
 
 ## Exact next activity
 
-**P2 scans 126–130.**
+**P2 scans 131–135.**

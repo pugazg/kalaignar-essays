@@ -54,7 +54,7 @@ P1 extension result:
 - source PDF is never committed;
 - section headings embedded on text-bearing pages remain part of main-text page records in P2.
 
-## P2 record status through scan 125
+## P2 record status through scan 130
 
 | Scan | Canonical record | Status |
 |---:|---|---|
@@ -183,19 +183,25 @@ P1 extension result:
 | 123 | `../pages/0123-sirai.md` | verified |
 | 124 | `../pages/0124-sirai.md` | verified |
 | 125 | `../pages/0125-sirai.md` | verified |
+| 126 | `../pages/0126-sirai.md` | needs-review |
+| 127 | `../pages/0127-sirai.md` | needs-review |
+| 128 | `../pages/0128-sirai.md` | needs-review |
+| 129 | `../pages/0129-sirai.md` | needs-review |
+| 130 | `../pages/0130-sirai.md` | needs-review |
 
 Current P2 totals:
 
-- coverage — **125/224**
+- coverage — **130/224**
 - verified — **122**
-- needs-review — **3**
+- needs-review — **8**
 - blocked — **0**
 
 Open holds:
 
 - scan 3 — small imprint/printer text;
 - scan 4 — full publisher-note transcription;
-- scan 18 — physically obscured cluster after `ஒருவராக ஆ`.
+- scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
+- scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read.
 
 ## Printed-folio anomaly already established
 
@@ -209,4 +215,4 @@ Scans 16–17 remain independent physical page records.
 
 ## Exact next activity
 
-**P2 scans 126–130.**
+**P2 scans 131–135.**

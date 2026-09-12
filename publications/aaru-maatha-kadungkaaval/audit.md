@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 100/224 records; 97 verified / 3 needs-review** |
+| P2 | **IN PROGRESS — 130/224 records; 122 verified / 8 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -96,6 +96,7 @@ Minimum explicit family set:
 | 023 | 111–115 | 5 | 0 | 0 |
 | 024 | 116–120 | 5 | 0 | 0 |
 | 025 | 121–125 | 5 | 0 | 0 |
+| 026 | 126–130 | 0 | 5 | 5 |
 
 ### Batch 007 — scans 31–35
 
@@ -552,18 +553,44 @@ Batch 025 result:
 - scan 125 same-edition comparison confirmed historical `லை` in `ஆலை` and `மலைக்கோட்டையின்`; source-visible `ஆலை தெளிந்த உள்ளம்` was preserved without contextual correction.
 - scan 125 ends at physical fragment `கோட்டைபோன்ற`; scan 126 was **not opened**.
 
-## P2 cumulative totals through scan 125
+### Batch 026 — scans 126–130
 
-- canonical page records — **125/224**
+Source pages were opened directly from the attached controlling PDF and structurally gated, but full word-for-word archival transcription could not be completed with sufficient source-pixel fidelity in the available high-resolution inspection route. The batch was therefore recorded conservatively as **needs-review**, with no contextual reconstruction.
+
+- scan 126 — `pages/0126-sirai.md` — **needs-review** — printed folio 123
+- scan 127 — `pages/0127-sirai.md` — **needs-review** — printed folio 124
+- scan 128 — `pages/0128-sirai.md` — **needs-review** — printed folio 125
+- scan 129 — `pages/0129-sirai.md` — **needs-review** — printed folio 126
+- scan 130 — `pages/0130-sirai.md` — **needs-review** — printed folio 127
+
+Batch 026 result:
+
+- records created — **5/5**
+- verified — **0**
+- needs-review — **5**
+- new verification holds — **5**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- all five physical scans were opened from the controlling attached PDF.
+- exact body wording was **not** filled from OCR, context, model memory, alternate editions, TVA web text, or Wikisource.
+- mandatory 13-family historical-glyph gate remains **OPEN** on scans 126–130 until a stable high-resolution source-pixel re-read completes each page.
+- scan 125 terminal `கோட்டைபோன்ற` is preserved in scan 125; scan 126 is its continuation page, but no missing continuation text was inferred.
+- printed folios **123–127** were directly identified for scans 126–130.
+- scan 131 was **not opened**.
+
+## P2 cumulative totals through scan 130
+
+- canonical page records — **130/224**
 - verified — **122**
-- needs-review — **3**
+- needs-review — **8**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **9**
-- unresolved printed-text holds — **3**:
+- unresolved transcription / printed-text holds — **8**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
-  - scan 18 — physically obscured cluster after `ஒருவராக ஆ`.
+  - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
+  - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read.
 
 ## Durable physical anomaly
 
@@ -579,4 +606,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 126–130.**
+**P2 scans 131–135.**

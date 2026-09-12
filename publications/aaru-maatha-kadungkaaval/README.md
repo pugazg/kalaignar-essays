@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 125/224 canonical records; 122 verified / 3 needs-review**
+- P2 — **IN PROGRESS — 130/224 canonical records; 122 verified / 8 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–125**.
+Completed records: **scans 1–130**.
 
 Notable durable findings:
 
@@ -123,23 +123,26 @@ Notable durable findings:
 
 - scans 121–125 — **5/5 verified**, printed folios **118–122**, no new holds; scan 123→124 directly continues `எப்படியென்கிறீர்களா -` → `பெய்த மழை...`; scan 124 historical `லை` identity was confirmed in `தலைமுழுகி`; scan 125 same-edition comparison confirmed historical `லை` in `ஆலை` / `மலைக்கோட்டையின்`. Source-visible unusual forms including `முறைதானிது`, `மூணுமாதம்`, `என் அப்படி?`, `ஒலித்த குற்றத்திற்கு`, `பிடியுங்கள் சாபம்!`, `தார்ரோடுதான்`, `பீர்க்காக்கள்`, `குடேறியிருந்த`, and `ஆலை தெளிந்த உள்ளம்` were preserved. Historical-glyph correction count remains **9**.
 
+- scans 126–130 — **0 verified / 5 needs-review**, printed folios **123–127**. All five scans were opened directly from the attached PDF, but exact full-body source transcription and the mandatory historical-glyph gate could not be completed at archival fidelity through the available high-resolution inspection route. No OCR/context/alternate-source text was promoted; guessed readings remain **0**. Historical-glyph correction count remains **9**.
+
 Open holds:
 
 - scan 3 — small imprint/printer text;
 - scan 4 — full publisher-note transcription;
-- scan 18 — one physically obscured cluster after `ஒருவராக ஆ`.
+- scan 18 — one physically obscured cluster after `ஒருவராக ஆ`;
+- scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read.
 
 Current P2 totals:
 
-- records — **125/224**
+- records — **130/224**
 - verified — **122**
-- needs-review — **3**
+- needs-review — **8**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **9**
 
 ## Exact next activity
 
-**P2 scans 126–130.**
+**P2 scans 131–135.**
 
-Process exactly scans **126–130** as the next five-scan batch from live durable state. P1 classifies all five as main text. Inspect every scan directly, synchronize controls, commit, and stop before scan 131.
+Process exactly scans **131–135** as the next five-scan batch from live durable state. P1 classifies all five as main text. Preserve the Batch 026 verification holds at scans 126–130 for a focused high-resolution re-read; do not guess them. Inspect scans 131–135 directly, synchronize controls, commit, and stop before scan 136.
