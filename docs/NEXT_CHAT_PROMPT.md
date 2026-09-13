@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 131–135
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 136–140
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -8,7 +8,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover. Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Handoff refresh state: **Batch 026 is durable / P2 = 130/224 canonical records; 122 verified / 8 needs-review**. Do not rely on a copied SHA. Fetch live `main` first; if it is newer, preserve the newer work and continue from that state.
+Handoff refresh state: **Batch 027 is durable / P2 = 135/224 canonical records; 127 verified / 8 needs-review**. Do not rely on a copied SHA. Fetch live `main` first; if it is newer, preserve the newer work and continue from that state.
 
 ## Controlling source
 
@@ -29,8 +29,8 @@ Do not use Tamil Digital Library, Wikisource, OCR text, alternate editions, or w
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 130/224 canonical records**
-  - verified — **122**
+- P2 — **IN PROGRESS — 135/224 canonical records**
+  - verified — **127**
   - needs-review — **8**
   - blocked — **0**
   - guessed readings — **0**
@@ -38,36 +38,36 @@ Do not use Tamil Digital Library, Wikisource, OCR text, alternate editions, or w
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED**
 
-### Batch 026 — scans 126–130
+### Batch 027 — scans 131–135
 
-- printed folios — **123–127**
-- verified — **0/5**
-- needs-review — **5/5**
-- new verification holds — **5**
+- printed folios — **128–132**
+- verified — **5/5**
+- needs-review — **0**
+- new holds — **0**
 - guessed readings — **0**
 - historical-glyph correction count — **unchanged at 9**
-- all five scans were opened directly from the controlling attached PDF.
-- exact full-body transcription was deliberately held because the stable high-resolution source-pixel route was unavailable at archival fidelity during closure.
-- no OCR, context completion, model-memory reconstruction, alternate edition, TVA web text, or Wikisource text was promoted.
-- mandatory historical-glyph family gate remains open on scans 126–130.
-- scan 125 ends at source fragment `கோட்டைபோன்ற`; scan 126 is its continuation page, but no continuation text was guessed.
-- scan 131 was **not opened**.
+- mandatory 13-family historical-glyph check performed on all five pages
+- scan 131 `அணு` → scan 132 `வும் நழுவாதவர்.` continuation confirmed directly
+- scan 131 source-visible `‘சிங்கங்’ களில்`, `மன்னைப் பகுதியில்`, and `உடல் வளர்த்திற்கேற்ற` retained
+- scan 132 source-visible `ஆளவந்தவுடன்`, `துவங்கி யிருக்கிறோம்`, `சிறுசிறு`, and `கையினில்` retained
+- scan 133 five-line prison-song block retained; source-visible `வெண்ணை எடுக்கா மோரே`, `முன்னூறு`, `நானூறைத்தாண்டிய`, and `நாறுகி- ஐம்பதாகி - ஐந்தாக` retained
+- scan 134 source-visible `C. P. பிளாக்`, `ஒரேவிதமான`, `வசதியிருக்கும்`, `மாளமுடியாது`, and `“மாதிரி திராவிட நாட்டில்”` retained
+- scan 135 source-visible `“ஜல ஸ்தாபன மந்திரி”`, `உள்நாட்டிலாகா`, `மருத்துவ மனைக்கு`, `மந்திரி யொருவர்`, and `தலைமை நிலையத்திலிருந்து - இல்ல - ஆட்சி பீடத்திலிருந்து` retained
+- scan 135 ends with complete `ஒரு பிரதம செயலாளர் உண்டு.`
+- scan 136 was **not opened**
 
-Existing earlier holds remain:
+Open P2 holds remain:
 
 - scan 3 — unresolved small imprint/printer text;
 - scan 4 — exact publisher-note transcription;
-- scan 18 — physically obscured cluster after `ஒருவராக ஆ`.
-
-Batch 026 verification holds:
-
+- scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
 - scans 126–130 — exact full-page transcription + historical-glyph verification pending focused stable high-resolution source re-read.
 
 ## P1 structural note
 
 P1 remains **COMPLETE / PASS**. Relevant next-range classification:
 
-- scans **131–135 — main text**
+- scans **136–140 — main text**
 
 P2 must still inspect every scan directly.
 
@@ -86,9 +86,9 @@ Read completely:
 9. `P1_SOURCE_STRUCTURE_REVIEW.md`
 10. `audit.md`
 
-## Exact next activity — P2 scans 131–135
+## Exact next activity — P2 scans 136–140
 
-Process **exactly scans 131–135 as one batch** from the attached PDF.
+Process **exactly scans 136–140 as one batch** from the attached PDF.
 
 For every page:
 
@@ -99,14 +99,14 @@ For every page:
 - separate non-print physical-copy marks;
 - never fill uncertainty from context.
 
-Do not silently resolve scans 126–130 from OCR or context. Re-open them only when a stable high-resolution source-pixel path is available.
+Preserve scans 126–130 as explicit needs-review holds until a dedicated focused source re-read; do not silently reconstruct them from OCR or context while processing this batch.
 
-After scans 131–135:
+After scans 136–140:
 
 - synchronize all dependent controls;
 - commit immediately;
 - report verified / needs-review / hold counts;
 - set the next five-scan batch from live durable state;
-- stop before scan 136 unless explicitly asked to continue.
+- stop before scan 141 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.

@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 130/224 records; 122 verified / 8 needs-review** |
+| P2 | **IN PROGRESS — 135/224 records; 127 verified / 8 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -97,6 +97,7 @@ Minimum explicit family set:
 | 024 | 116–120 | 5 | 0 | 0 |
 | 025 | 121–125 | 5 | 0 | 0 |
 | 026 | 126–130 | 0 | 5 | 5 |
+| 027 | 131–135 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -578,10 +579,38 @@ Batch 026 result:
 - printed folios **123–127** were directly identified for scans 126–130.
 - scan 131 was **not opened**.
 
-## P2 cumulative totals through scan 130
+### Batch 027 — scans 131–135
 
-- canonical page records — **130/224**
-- verified — **122**
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 131 — `pages/0131-sirai.md` — **verified** — printed folio 128
+- scan 132 — `pages/0132-sirai.md` — **verified** — printed folio 129
+- scan 133 — `pages/0133-sirai.md` — **verified** — printed folio 130
+- scan 134 — `pages/0134-sirai.md` — **verified** — printed folio 131
+- scan 135 — `pages/0135-sirai.md` — **verified** — printed folio 132
+
+Batch 027 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- mandatory 13-family historical-glyph check was performed on all five pages.
+- scan 131 terminal `அணு` → scan 132 `வும் நழுவாதவர்.` continuation was confirmed directly, establishing `அணுவும்` across the physical page boundary.
+- scan 131 source-visible `‘சிங்கங்’ களில்`, `மன்னைப் பகுதியில்`, and `உடல் வளர்த்திற்கேற்ற` were preserved without normalization.
+- scan 132 source-visible `ஆளவந்தவுடன்`, `துவங்கி யிருக்கிறோம்`, `சிறுசிறு`, and `கையினில்` were preserved.
+- scan 133 preserves the five-line quoted prison song and source-visible `வெண்ணை எடுக்கா மோரே`, `முன்னூறு`, `நானூறைத்தாண்டிய`, and `நாறுகி- ஐம்பதாகி - ஐந்தாக`.
+- scan 134 preserves `C. P. பிளாக்`, `ஒரேவிதமான`, `வசதியிருக்கும்`, `மாளமுடியாது`, and quoted `“மாதிரி திராவிட நாட்டில்”`.
+- scan 135 preserves `“ஜல ஸ்தாபன மந்திரி”`, `உள்நாட்டிலாகா`, `மருத்துவ மனைக்கு`, `மந்திரி யொருவர்`, and `தலைமை நிலையத்திலிருந்து - இல்ல - ஆட்சி பீடத்திலிருந்து`.
+- scan 135 ends with complete `ஒரு பிரதம செயலாளர் உண்டு.`; scan 136 was **not opened**.
+- existing needs-review holds at scans 126–130 were left unchanged and were not reconstructed from context.
+
+## P2 cumulative totals through scan 135
+
+- canonical page records — **135/224**
+- verified — **127**
 - needs-review — **8**
 - blocked — **0**
 - guessed readings — **0**
@@ -606,4 +635,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 131–135.**
+**P2 scans 136–140.**

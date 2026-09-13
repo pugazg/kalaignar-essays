@@ -102,14 +102,14 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 130/224 canonical records; 122 verified / 8 needs-review**
+- P2 — **IN PROGRESS — 135/224 canonical records; 127 verified / 8 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 130
+## P2 source use through scan 135
 
-Canonical records exist for scans **1–130**.
+Canonical records exist for scans **1–135**.
 
 Latest batch scans 96–100:
 
@@ -211,6 +211,20 @@ Latest batch scans 126–130:
 - scan 125 terminal `கோட்டைபோன்ற` remains preserved on scan 125; no scan 126 continuation was reconstructed from context.
 - scan 131 was not opened.
 
+Latest batch scans 131–135:
+
+- printed folios — **128–132**
+- verified — **5/5**
+- new holds — **0**
+- guessed readings — **0**
+- cumulative historical-glyph corrections — **9**
+- scan 131 `அணு` → scan 132 `வும் நழுவாதவர்.` continuation confirmed directly.
+- scan 133 preserves the five-line prison-song block and source-visible `நாறுகி- ஐம்பதாகி - ஐந்தாக`.
+- scan 134 preserves `C. P. பிளாக்` and quoted `“மாதிரி திராவிட நாட்டில்”`.
+- scan 135 preserves `“ஜல ஸ்தாபன மந்திரி”`, `உள்நாட்டிலாகா`, and `மந்திரி யொருவர்`.
+- scan 135 ends with complete `ஒரு பிரதம செயலாளர் உண்டு.`; scan 136 was not opened.
+- scans 126–130 remain explicit needs-review holds and were not reconstructed from context.
+
 Durable source-artifact anomaly:
 
 - scans 16–17 repeat printed folios 13–14;
@@ -226,4 +240,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 131–135.**
+**P2 scans 136–140.**
