@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 146–150
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 151–155
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication:
 
@@ -8,7 +8,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is the single authoritative handover. Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Handoff refresh state: **Batch 029 is durable / P2 = 145/224 canonical records; 137 verified / 8 needs-review**. Do not rely on a copied SHA. Fetch live `main` first; if it is newer, preserve the newer work and continue from that state.
+Handoff refresh state: **Batch 030 is durable / P2 = 150/224 canonical records; 142 verified / 8 needs-review**. Do not rely on a copied SHA. Fetch live `main` first; if it is newer, preserve the newer work and continue from that state.
 
 ## Controlling source
 
@@ -29,8 +29,8 @@ Do not use Tamil Digital Library, Wikisource, OCR text, alternate editions, or w
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 145/224 canonical records**
-  - verified — **137**
+- P2 — **IN PROGRESS — 150/224 canonical records**
+  - verified — **142**
   - needs-review — **8**
   - blocked — **0**
   - guessed readings — **0**
@@ -38,24 +38,24 @@ Do not use Tamil Digital Library, Wikisource, OCR text, alternate editions, or w
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED**
 
-### Batch 029 — scans 141–145
+### Batch 030 — scans 146–150
 
-- printed folios — **138–142**
+- printed folios — **143–147**
 - verified — **5/5**
 - needs-review — **0**
 - new holds — **0**
 - guessed readings — **0**
 - historical-glyph correction count — **unchanged at 9**
 - mandatory 13-family historical-glyph check performed on all five pages
-- scan 140 `எல்லோரும் குளிக்கக்` → scan 141 `கூடிய அளவுக்கு...` continuation confirmed directly
-- scan 141 source-visible `குளியலுக்கு மிடையிலே`, `இரு கலர்`, `விலே கூறுகிறாராக்கும்`, and `ஒலிவேறு` retained; historical `றா` identity in `என்றால்` directly decoded
-- scan 142 source-visible `முக்யமான`, `தாரைப்பூசி`, `நான்கூட`, and irregular `கோதாவரி` quotation punctuation retained
-- scan 143 source-visible `தாப்படும்`, `அளவுக் களியும்`, `சிரஞ்சீவிப் பொருள்கள்`, `துவரை`, `களைப்பாறுபடலம்`, and `உள் நாட்டு` retained
-- scan 143 `புத்தகமளித்து` → scan 144 `படித்தவைகளை...` continuation confirmed directly
-- scan 144 source-visible `வாசக சாலையில்`, `நண்பர்களோ-உறவினர்களோ-வருவர்`, `கண்டு பிடித்து`, and `தலைவரின் - தலைமையிலே` retained
-- scan 144 `அரிசிச்சோறு` → scan 145 `சிறிது அளவில் பெரிதாய்விடும்.` continuation confirmed directly
-- scan 145 headings `கணக்கு வருது!` and `கெடிகாரம் போவது!` retained; page ends at `தன்னிட்`
-- scan 146 was **not opened**
+- scan 145 terminal was corrected from provisional `தன்னிட்` to source-visible `தன்னிட`; scan 146 `முள்ள கெடிகாரத்திற்கு...` directly confirms cross-page `தன்னிடமுள்ள`
+- scan 146 source-visible `போர்ப்பலகண்ட`, `வன்னெஞ்சர்`, `சமருக்கஞ்சா`, `செருமுனைக் கோர்`, and `செயசந்திரன்` retained
+- scan 147 historical `ளை` identity in `தலைவர்களை` directly resolved; `நடைபெறுவதுங்கூட` and `இவ்விது` retained
+- scan 148 source-visible `நடைபெறுவதுதான்`, `எண்ணமுங்கூட`, `ஐவர் வழக்கினில்`, and `அம்படிப்பட்ட` retained
+- scan 149 same-page `கூண்டி / லிடப்பட்டார்கள்` joined as `கூண்டிலிடப்பட்டார்கள்`; `புறப்படு` → scan 150 `கிறார்கள்.` continuation directly confirmed
+- scan 150 source-visible `காட்டிக்கிறார்கள்`, `ஏகாதிபத்யம்`, `செளகர்யம்`, and `ஸ்தானத்திலேயிருக்கும்` retained
+- scan 150 dark non-legible blot recorded as non-text, not promoted into transcription
+- scan 150 ends with complete `ஆலை போன்ற நமது நாடு!`
+- scan 151 was **not opened**
 
 Open P2 holds remain:
 
@@ -68,7 +68,7 @@ Open P2 holds remain:
 
 P1 remains **COMPLETE / PASS**. Relevant next-range classification:
 
-- scans **146–150 — main text**
+- scans **151–155 — main text**
 
 P2 must still inspect every scan directly.
 
@@ -87,9 +87,9 @@ Read completely:
 9. `P1_SOURCE_STRUCTURE_REVIEW.md`
 10. `audit.md`
 
-## Exact next activity — P2 scans 146–150
+## Exact next activity — P2 scans 151–155
 
-Process **exactly scans 146–150 as one batch** from the attached PDF.
+Process **exactly scans 151–155 as one batch** from the attached PDF.
 
 For every page:
 
@@ -102,12 +102,12 @@ For every page:
 
 Preserve scans 126–130 as explicit needs-review holds until a dedicated focused source re-read; do not silently reconstruct them from OCR or context while processing this batch.
 
-After scans 146–150:
+After scans 151–155:
 
 - synchronize all dependent controls;
 - commit immediately;
 - report verified / needs-review / hold counts;
 - set the next five-scan batch from live durable state;
-- stop before scan 151 unless explicitly asked to continue.
+- stop before scan 156 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.

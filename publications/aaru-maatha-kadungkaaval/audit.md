@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 145/224 records; 137 verified / 8 needs-review** |
+| P2 | **IN PROGRESS — 150/224 records; 142 verified / 8 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -100,6 +100,7 @@ Minimum explicit family set:
 | 027 | 131–135 | 5 | 0 | 0 |
 | 028 | 136–140 | 5 | 0 | 0 |
 | 029 | 141–145 | 5 | 0 | 0 |
+| 030 | 146–150 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -668,10 +669,39 @@ Batch 029 result:
 - scan 145 ends at physical fragment `தன்னிட்`; scan 146 was **not opened**.
 - existing needs-review holds at scans 126–130 were left unchanged and were not reconstructed from context.
 
-## P2 cumulative totals through scan 145
+### Batch 030 — scans 146–150
 
-- canonical page records — **145/224**
-- verified — **137**
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 146 — `pages/0146-sirai.md` — **verified** — printed folio 143
+- scan 147 — `pages/0147-sirai.md` — **verified** — printed folio 144
+- scan 148 — `pages/0148-sirai.md` — **verified** — printed folio 145
+- scan 149 — `pages/0149-sirai.md` — **verified** — printed folio 146
+- scan 150 — `pages/0150-sirai.md` — **verified** — printed folio 147
+
+Batch 030 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- mandatory 13-family historical-glyph check was performed on all five pages.
+- opening scan 146 supplied new direct boundary evidence for scan 145: terminal `தன்னிட` → scan 146 `முள்ள கெடிகாரத்திற்கு...`; scan 145 was corrected from the earlier provisional `தன்னிட்` to source-visible `தன்னிட`.
+- scan 146 preserves the source’s `“கடிகாரம் போவது”` / `“கெடிகாரம் போவது”` variation and unusual names/forms including `போர்ப்பலகண்ட`, `வன்னெஞ்சர்`, `சமருக்கஞ்சா`, `செருமுனைக் கோர்`, and `செயசந்திரன்`.
+- scan 147 historical `ளை` identity was directly resolved in `தலைவர்களை`; source-visible `நடைபெறுவதுங்கூட`, `லட்சத்துக்குமேற்பட்ட`, and `இவ்விது` were retained.
+- scan 148 preserves `நடைபெறுவதுதான்`, `எண்ணமுங்கூட`, `ஐவர் வழக்கினில்`, and source-visible `அம்படிப்பட்ட`.
+- scan 149 same-page wrap `கூண்டி / லிடப்பட்டார்கள்` was joined as `கூண்டிலிடப்பட்டார்கள்`; page terminal `புறப்படு` → scan 150 `கிறார்கள்.` continuation was confirmed directly.
+- scan 150 preserves `காட்டிக்கிறார்கள்`, `ஏகாதிபத்யம்`, `பேச்சு-புதுக் கல்வித்திட்டம்`, `செளகர்யம்`, and `ஸ்தானத்திலேயிருக்கும்`.
+- a dark non-legible blot on scan 150 between `அணைக்கிறார்கள்.` and `நெருப்பு அணைகிறது.` was recorded as a non-text physical/printing mark and not promoted into text.
+- scan 150 ends with complete `ஆலை போன்ற நமது நாடு!`; scan 151 was **not opened**.
+- existing needs-review holds at scans 126–130 were left unchanged and were not reconstructed from context.
+
+## P2 cumulative totals through scan 150
+
+- canonical page records — **150/224**
+- verified — **142**
 - needs-review — **8**
 - blocked — **0**
 - guessed readings — **0**
@@ -696,4 +726,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 146–150.**
+**P2 scans 151–155.**

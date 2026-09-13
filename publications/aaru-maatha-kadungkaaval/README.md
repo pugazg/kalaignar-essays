@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 145/224 canonical records; 137 verified / 8 needs-review**
+- P2 — **IN PROGRESS — 150/224 canonical records; 142 verified / 8 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–145**.
+Completed records: **scans 1–150**.
 
 Notable durable findings:
 
@@ -131,6 +131,8 @@ Notable durable findings:
 
 - scans 141–145 — **5/5 verified**, printed folios **138–142**, no new holds; scan 140→141, 143→144, and 144→145 continuations were directly confirmed. Source-visible forms including `விலே கூறுகிறாராக்கும்`, `முக்யமான`, `தாப்படும்`, `சிரஞ்சீவிப் பொருள்கள்`, `துவரை`, `கெடிகாரம் போவது!`, and `மகுடித் தொணிகேட்டு` were preserved. Historical-glyph correction count remains **9**.
 
+- scans 146–150 — **5/5 verified**, printed folios **143–147**, no new holds. Scan 145→146 and scan 149→150 continuations were directly confirmed; scan 145 terminal was corrected from provisional `தன்னிட்` to source-visible `தன்னிட`. Source-visible `அம்படிப்பட்ட`, `‘நான்சென்ஸ்’`, `காட்டிக்கிறார்கள்`, `ஏகாதிபத்யம்`, and `செளகர்யம்` were preserved. Historical-glyph correction count remains **9**.
+
 Open holds:
 
 - scan 3 — small imprint/printer text;
@@ -140,8 +142,8 @@ Open holds:
 
 Current P2 totals:
 
-- records — **145/224**
-- verified — **137**
+- records — **150/224**
+- verified — **142**
 - needs-review — **8**
 - blocked — **0**
 - guessed readings — **0**
@@ -149,6 +151,6 @@ Current P2 totals:
 
 ## Exact next activity
 
-**P2 scans 146–150.**
+**P2 scans 151–155.**
 
-Process exactly scans **146–150** as the next five-scan batch from live durable state. P1 classifies all five as main text. Preserve the Batch 026 verification holds at scans 126–130 for a focused high-resolution re-read; do not guess them. Inspect scans 146–150 directly, synchronize controls, commit, and stop before scan 151.
+Process exactly scans **151–155** as the next five-scan batch from live durable state. P1 classifies all five as main text. Preserve the Batch 026 verification holds at scans 126–130 for a focused high-resolution re-read; do not guess them. Inspect scans 151–155 directly, synchronize controls, commit, and stop before scan 156.

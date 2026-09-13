@@ -102,14 +102,14 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 145/224 canonical records; 137 verified / 8 needs-review**
+- P2 — **IN PROGRESS — 150/224 canonical records; 142 verified / 8 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 145
+## P2 source use through scan 150
 
-Canonical records exist for scans **1–145**.
+Canonical records exist for scans **1–150**.
 
 Latest batch scans 96–100:
 
@@ -254,6 +254,21 @@ Latest batch scans 141–145:
 - scan 145 preserves headings `கணக்கு வருது!` and `கெடிகாரம் போவது!`; page ends at `தன்னிட்`; scan 146 was not opened.
 - scans 126–130 remain explicit needs-review holds and were not reconstructed from context.
 
+Latest batch scans 146–150:
+
+- printed folios — **143–147**
+- verified — **5/5**
+- new holds — **0**
+- guessed readings — **0**
+- cumulative historical-glyph corrections — **9**
+- scan 145 terminal corrected from provisional `தன்னிட்` to source-visible `தன்னிட`; scan 146 `முள்ள கெடிகாரத்திற்கு...` confirms `தன்னிடமுள்ள` across the physical boundary.
+- scan 147 historical `ளை` identity directly resolves `தலைவர்களை`.
+- scan 148 preserves source-visible `அம்படிப்பட்ட`.
+- scan 149 `புறப்படு` → scan 150 `கிறார்கள்.` continuation confirmed directly.
+- scan 150 dark blot was treated as non-text; no legible character was inferred from it.
+- scan 150 ends with complete `ஆலை போன்ற நமது நாடு!`; scan 151 was not opened.
+- scans 126–130 remain explicit needs-review holds and were not reconstructed from context.
+
 Durable source-artifact anomaly:
 
 - scans 16–17 repeat printed folios 13–14;
@@ -269,4 +284,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 146–150.**
+**P2 scans 151–155.**

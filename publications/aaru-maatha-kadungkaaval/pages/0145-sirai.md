@@ -27,7 +27,7 @@ transcription_method: "direct visual comparison with source scan"
 
 கெடிகாரம் போவது!
 
-சிறைச்சாலை முழுதும் பல இடங்களிலே சுவர்களில் ஒரு வகையான சாவி பொருத்தப்பட்டு - அந்த இடங்களுக்கு ஒரு மணிக்கு ஒருதரம் வார்டர் சென்று - தன்னிட்
+சிறைச்சாலை முழுதும் பல இடங்களிலே சுவர்களில் ஒரு வகையான சாவி பொருத்தப்பட்டு - அந்த இடங்களுக்கு ஒரு மணிக்கு ஒருதரம் வார்டர் சென்று - தன்னிட
 
 ## அச்சு அமைப்பு
 
@@ -36,7 +36,7 @@ transcription_method: "direct visual comparison with source scan"
 - scan 144 terminal `அரிசிச்சோறு` continues directly with this page’s `சிறிது அளவில் பெரிதாய்விடும்.`.
 - source-visible headings `கணக்கு வருது!` and `கெடிகாரம் போவது!` were retained exactly.
 - source-visible forms including `ஆறுமணிக்கெல்லாம்`, `ஆண் குயில்கள்`, `மகுடித் தொணிகேட்டு`, `பாம்புகளுக்குவேறு`, `தேள்களேயாவது`, `முத்தமிட்டுமிருக்கின்றன`, `கணக்குவந்துவிட்டது`, and `ஒருதரம்` were preserved.
-- page ends at physical fragment `தன்னிட்`; scan 146 was **not opened**.
+- page ends at physical fragment `தன்னிட`; scan 146 begins `முள்ள கெடிகாரத்திற்கு...`, directly establishing cross-page `தன்னிடமுள்ள கெடிகாரத்திற்கு...`.
 
 ## அச்சு அல்லாத / physical-copy marks
 

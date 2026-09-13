@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 029 / P2 scans 141–145** reached the durable state **145/224 canonical records; 137 verified / 8 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 030 / P2 scans 146–150** reached the durable state **150/224 canonical records; 142 verified / 8 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 145/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 150/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 145/224 records; 137 verified / 8 needs-review**
+- P2 — **IN PROGRESS — 150/224 records; 142 verified / 8 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -755,10 +755,40 @@ Batch 029 result:
 - existing needs-review holds at scans 126–130 were left unchanged and were not reconstructed from context.
 
 
+### Batch 030 — scans 146–150
+
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 146 — `pages/0146-sirai.md` — **verified** — printed folio 143
+- scan 147 — `pages/0147-sirai.md` — **verified** — printed folio 144
+- scan 148 — `pages/0148-sirai.md` — **verified** — printed folio 145
+- scan 149 — `pages/0149-sirai.md` — **verified** — printed folio 146
+- scan 150 — `pages/0150-sirai.md` — **verified** — printed folio 147
+
+Batch 030 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- mandatory 13-family historical-glyph check was performed on all five pages.
+- opening scan 146 supplied new direct boundary evidence for scan 145: terminal `தன்னிட` → scan 146 `முள்ள கெடிகாரத்திற்கு...`; scan 145 was corrected from the earlier provisional `தன்னிட்` to source-visible `தன்னிட`.
+- scan 146 preserves the source’s `“கடிகாரம் போவது”` / `“கெடிகாரம் போவது”` variation and unusual names/forms including `போர்ப்பலகண்ட`, `வன்னெஞ்சர்`, `சமருக்கஞ்சா`, `செருமுனைக் கோர்`, and `செயசந்திரன்`.
+- scan 147 historical `ளை` identity was directly resolved in `தலைவர்களை`; source-visible `நடைபெறுவதுங்கூட`, `லட்சத்துக்குமேற்பட்ட`, and `இவ்விது` were retained.
+- scan 148 preserves `நடைபெறுவதுதான்`, `எண்ணமுங்கூட`, `ஐவர் வழக்கினில்`, and source-visible `அம்படிப்பட்ட`.
+- scan 149 same-page wrap `கூண்டி / லிடப்பட்டார்கள்` was joined as `கூண்டிலிடப்பட்டார்கள்`; page terminal `புறப்படு` → scan 150 `கிறார்கள்.` continuation was confirmed directly.
+- scan 150 preserves `காட்டிக்கிறார்கள்`, `ஏகாதிபத்யம்`, `பேச்சு-புதுக் கல்வித்திட்டம்`, `செளகர்யம்`, and `ஸ்தானத்திலேயிருக்கும்`.
+- a dark non-legible blot on scan 150 between `அணைக்கிறார்கள்.` and `நெருப்பு அணைகிறது.` was recorded as a non-text physical/printing mark and not promoted into text.
+- scan 150 ends with complete `ஆலை போன்ற நமது நாடு!`; scan 151 was **not opened**.
+- existing needs-review holds at scans 126–130 were left unchanged and were not reconstructed from context.
+
+
 ## Durable P2 totals
 
-- canonical page records — **145/224**
-- verified — **137**
+- canonical page records — **150/224**
+- verified — **142**
 - needs-review — **8**
 - blocked — **0**
 - guessed readings — **0**
@@ -771,20 +801,20 @@ Batch 029 result:
 
 ## Exact next activity
 
-**P2 scans 146–150.**
+**P2 scans 151–155.**
 
-Process exactly scans **146–150** as one five-scan batch from the attached PDF:
+Process exactly scans **151–155** as one five-scan batch from the attached PDF:
 
-- P1 classifies scans 146–150 as main text;
+- P1 classifies scans 151–155 as main text;
 - preserve Batch 026 scans 126–130 as explicit needs-review holds until a focused source re-read finishes them; do not reconstruct them from context;
-- inspect every physical scan 146–150 directly rather than relying on the structural map alone;
+- inspect every physical scan 151–155 directly rather than relying on the structural map alone;
 - perform the mandatory historical-glyph family checks on every text-bearing page;
 - record visible printed folios only;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 151 unless explicitly asked to continue.
+- stop before scan 156 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 
