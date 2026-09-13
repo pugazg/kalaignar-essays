@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 140/224 canonical records; 132 verified / 8 needs-review**
+- P2 — **IN PROGRESS — 145/224 canonical records; 137 verified / 8 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–140**.
+Completed records: **scans 1–145**.
 
 Notable durable findings:
 
@@ -129,6 +129,8 @@ Notable durable findings:
 
 - scans 136–140 — **5/5 verified**, printed folios **133–137**, no new holds; scan 137 `அடைக்கலத்தின்` → scan 138 `ஆர்வமிக்க உழைப்பையும்...` and scan 139 `எங்கள்` → scan 140 `ராஜ்யத்தில்மட்டும்` continuations were confirmed directly. Source-visible forms including `மூன்றும் பிளாக் தலைவர்`, `தொண்டனை இருந்தே`, `தோழமைக்கோர் பிசிரானது`, `அடக்கொணா`, `போட்டோஸ்டுடியோ`, `‘க்யூ’`, and `நாலு பிளாக் தலைவரும்` were preserved. Historical-glyph correction count remains **9**.
 
+- scans 141–145 — **5/5 verified**, printed folios **138–142**, no new holds; scan 140→141, 143→144, and 144→145 continuations were directly confirmed. Source-visible forms including `விலே கூறுகிறாராக்கும்`, `முக்யமான`, `தாப்படும்`, `சிரஞ்சீவிப் பொருள்கள்`, `துவரை`, `கெடிகாரம் போவது!`, and `மகுடித் தொணிகேட்டு` were preserved. Historical-glyph correction count remains **9**.
+
 Open holds:
 
 - scan 3 — small imprint/printer text;
@@ -138,8 +140,8 @@ Open holds:
 
 Current P2 totals:
 
-- records — **140/224**
-- verified — **132**
+- records — **145/224**
+- verified — **137**
 - needs-review — **8**
 - blocked — **0**
 - guessed readings — **0**
@@ -147,6 +149,6 @@ Current P2 totals:
 
 ## Exact next activity
 
-**P2 scans 141–145.**
+**P2 scans 146–150.**
 
-Process exactly scans **141–145** as the next five-scan batch from live durable state. P1 classifies all five as main text. Preserve the Batch 026 verification holds at scans 126–130 for a focused high-resolution re-read; do not guess them. Inspect scans 141–145 directly, synchronize controls, commit, and stop before scan 146.
+Process exactly scans **146–150** as the next five-scan batch from live durable state. P1 classifies all five as main text. Preserve the Batch 026 verification holds at scans 126–130 for a focused high-resolution re-read; do not guess them. Inspect scans 146–150 directly, synchronize controls, commit, and stop before scan 151.

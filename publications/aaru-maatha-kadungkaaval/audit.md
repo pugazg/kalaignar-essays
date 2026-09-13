@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 140/224 records; 132 verified / 8 needs-review** |
+| P2 | **IN PROGRESS — 145/224 records; 137 verified / 8 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -99,6 +99,7 @@ Minimum explicit family set:
 | 026 | 126–130 | 0 | 5 | 5 |
 | 027 | 131–135 | 5 | 0 | 0 |
 | 028 | 136–140 | 5 | 0 | 0 |
+| 029 | 141–145 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -637,10 +638,40 @@ Batch 028 result:
 - scan 140 ends at physical fragment `எல்லோரும் குளிக்கக்`; scan 141 was **not opened**.
 - existing needs-review holds at scans 126–130 were left unchanged and were not reconstructed from context.
 
-## P2 cumulative totals through scan 140
+### Batch 029 — scans 141–145
 
-- canonical page records — **140/224**
-- verified — **132**
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 141 — `pages/0141-sirai.md` — **verified** — printed folio 138
+- scan 142 — `pages/0142-sirai.md` — **verified** — printed folio 139
+- scan 143 — `pages/0143-sirai.md` — **verified** — printed folio 140
+- scan 144 — `pages/0144-sirai.md` — **verified** — printed folio 141
+- scan 145 — `pages/0145-sirai.md` — **verified** — printed folio 142
+
+Batch 029 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- mandatory 13-family historical-glyph check was performed on all five pages.
+- scan 140 terminal `எல்லோரும் குளிக்கக்` → scan 141 `கூடிய அளவுக்கு...` continuation was confirmed directly.
+- scan 141 preserves source-visible `குளியலுக்கு மிடையிலே`, `கால்முதல்`, `இரு கலர்`, `விலே கூறுகிறாராக்கும்`, and `ஒலிவேறு`; historical `றா` identity in `என்றால்` was directly decoded.
+- scan 142 preserves `முக்யமான`, `தாரைப்பூசி`, `நான்கூட`, and the irregular printed quotation punctuation around the `கோதாவரி` passage.
+- scan 143 preserves `தாப்படும்`, `அளவுக் களியும்`, `சிரஞ்சீவிப் பொருள்கள்`, `துவரை`, `களைப்பாறுபடலம்`, and `உள் நாட்டு`.
+- scan 143 terminal `புத்தகமளித்து` → scan 144 `படித்தவைகளை...` continuation was confirmed directly.
+- scan 144 preserves `வாசக சாலையில்`, `நண்பர்களோ-உறவினர்களோ-வருவர்`, `கண்டு பிடித்து`, and `தலைவரின் - தலைமையிலே`.
+- scan 144 terminal `அரிசிச்சோறு` → scan 145 `சிறிது அளவில் பெரிதாய்விடும்.` continuation was confirmed directly.
+- scan 145 preserves headings `கணக்கு வருது!` and `கெடிகாரம் போவது!`, plus source-visible `ஆண் குயில்கள்`, `மகுடித் தொணிகேட்டு`, `பாம்புகளுக்குவேறு`, and `கணக்குவந்துவிட்டது`.
+- scan 145 ends at physical fragment `தன்னிட்`; scan 146 was **not opened**.
+- existing needs-review holds at scans 126–130 were left unchanged and were not reconstructed from context.
+
+## P2 cumulative totals through scan 145
+
+- canonical page records — **145/224**
+- verified — **137**
 - needs-review — **8**
 - blocked — **0**
 - guessed readings — **0**
@@ -665,4 +696,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 141–145.**
+**P2 scans 146–150.**

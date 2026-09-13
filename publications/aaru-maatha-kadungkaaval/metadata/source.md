@@ -102,14 +102,14 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 140/224 canonical records; 132 verified / 8 needs-review**
+- P2 — **IN PROGRESS — 145/224 canonical records; 137 verified / 8 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 140
+## P2 source use through scan 145
 
-Canonical records exist for scans **1–140**.
+Canonical records exist for scans **1–145**.
 
 Latest batch scans 96–100:
 
@@ -239,6 +239,21 @@ Latest batch scans 136–140:
 - scan 140 ends at `எல்லோரும் குளிக்கக்`; scan 141 was not opened.
 - scans 126–130 remain explicit needs-review holds and were not reconstructed from context.
 
+Latest batch scans 141–145:
+
+- printed folios — **138–142**
+- verified — **5/5**
+- new holds — **0**
+- guessed readings — **0**
+- cumulative historical-glyph corrections — **9**
+- scan 140 `எல்லோரும் குளிக்கக்` → scan 141 `கூடிய அளவுக்கு...` continuation confirmed directly.
+- scan 141 historical `றா` identity in `என்றால்` was directly decoded; source-visible `விலே கூறுகிறாராக்கும்` and `ஒலிவேறு` retained.
+- scan 143 preserves `சிரஞ்சீவிப் பொருள்கள்`, `துவரை`, and `களைப்பாறுபடலம்`.
+- scan 143 `புத்தகமளித்து` → scan 144 `படித்தவைகளை...` continuation confirmed directly.
+- scan 144 `அரிசிச்சோறு` → scan 145 `சிறிது அளவில் பெரிதாய்விடும்.` continuation confirmed directly.
+- scan 145 preserves headings `கணக்கு வருது!` and `கெடிகாரம் போவது!`; page ends at `தன்னிட்`; scan 146 was not opened.
+- scans 126–130 remain explicit needs-review holds and were not reconstructed from context.
+
 Durable source-artifact anomaly:
 
 - scans 16–17 repeat printed folios 13–14;
@@ -254,4 +269,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 141–145.**
+**P2 scans 146–150.**
