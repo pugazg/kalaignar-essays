@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 210/224 canonical records; 152 verified / 58 needs-review**
+- P2 — **IN PROGRESS — 215/224 canonical records; 156 verified / 59 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–210**.
+Completed records: **scans 1–215**.
 
 Notable durable findings:
 
@@ -172,9 +172,9 @@ Open holds:
 
 Current P2 totals:
 
-- records — **210/224**
-- verified — **152**
-- needs-review — **58**
+- records — **215/224**
+- verified — **156**
+- needs-review — **59**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
@@ -205,8 +205,23 @@ Current P2 totals:
 - scan 208 / 209 non-print blue/purple marks were separated from publication text.
 - scan 210 ends at `ராதா`; scan 211 was not opened.
 
+## Batch 043 — scans 211–215
+
+- records — **5/5**
+- verified — **4**
+- needs-review — **1**
+- printed folios — **208–212**
+- extract pages — **62–66**
+- mandatory 13-family historical-glyph check — **COMPLETE on all five pages**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 11**
+- scan 211 remains needs-review because a non-print dark/blue physical-copy mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was supplied.
+- scans 212–215 are fully verified.
+- source-visible `நாறுபது`, `நாறு நாட்கள்`, `ஜாலியன் வாலாபாக்`, `தர்பார் சூரர்களோ`, and other unusual forms were preserved.
+- scan 215 ends at `இந்தச் சிறு சந்தடிகளுக்`; scan 216 was not opened.
+
 ## Exact next activity
 
-**P2 scans 211–215.**
+**P2 scans 216–220.**
 
-Process exactly scans **211–215** as the next five-scan batch from live durable state. The supplied extract maps pages **62–66** to scans **211–215**. Preserve all existing needs-review holds; do not guess them. Inspect scans 211–215 directly, synchronize controls, commit, and stop before scan 216.
+Process exactly scans **216–220** as the next five-scan batch from live durable state. The supplied extract maps pages **67–71** to scans **216–220**. Preserve all existing needs-review holds; do not guess them. Inspect scans 216–220 directly, synchronize controls, commit, and stop before scan 221.

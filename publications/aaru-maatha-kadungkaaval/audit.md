@@ -999,15 +999,39 @@ Batch 042 result:
 - blue/purple physical-copy strokes on scans 208–209 were not promoted as publication text.
 - scan 210 ends mid-list at `ராதா`; scan 211 was not opened.
 
-## P2 cumulative totals through scan 210
+### Batch 043 — scans 211–215
 
-- canonical page records — **210/224**
-- verified — **152**
-- needs-review — **58**
+Opened directly from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 211 — `pages/0211-sirai.md` — **needs-review** — printed folio 208 — extract page 62
+- scan 212 — `pages/0212-sirai.md` — **verified** — printed folio 209 — extract page 63
+- scan 213 — `pages/0213-sirai.md` — **verified** — printed folio 210 — extract page 64
+- scan 214 — `pages/0214-sirai.md` — **verified** — printed folio 211 — extract page 65
+- scan 215 — `pages/0215-sirai.md` — **verified** — printed folio 212 — extract page 66
+
+Batch 043 result:
+
+- records created — **5/5**
+- verified — **4**
+- needs-review — **1**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 11**
+- all five pages were inspected from enlarged/high-resolution attached-source pixels and received the mandatory `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` check.
+- scan 211 contains a dark/blue physical-copy mark over the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; the hidden character(s) were not reconstructed, so scan 211 remains needs-review.
+- scans 212–215 are fully verified.
+- source-visible unusual forms including `ஆட்சேபணையில்லையென்று`, `நாறுபது`, `நாறு நாட்கள்`, `ஜாலியன் வாலாபாக்`, `தர்பார் சூரர்களோ`, `முடிக்கிடந்த முக்காடுகள்`, `காகப்பட்டரின்`, and `அக்கிரகாரத்தின்` were preserved.
+- scan 215 ends at `இந்தச் சிறு சந்தடிகளுக்`; scan 216 was not opened.
+
+## P2 cumulative totals through scan 215
+
+- canonical page records — **215/224**
+- verified — **156**
+- needs-review — **59**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- unresolved transcription / printed-text holds — **58**:
+- unresolved transcription / printed-text holds — **59**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
@@ -1022,6 +1046,7 @@ Batch 042 result:
   - scans 186–190 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 37–41;
   - scans 191–195 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 42–46;
   - scans 196–200 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 47–51.
+  - scan 211 — one physical-copy dark/blue mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was guessed.
 
 ## Durable physical anomaly
 
@@ -1037,4 +1062,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 211–215.**
+**P2 scans 216–220.**

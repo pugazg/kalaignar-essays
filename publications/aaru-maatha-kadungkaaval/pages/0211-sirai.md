@@ -1,0 +1,48 @@
+---
+source_pdf: "TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf"
+scan_page: 211
+printed_page: 208
+publication: "aaru-maatha-kadungkaaval"
+article: "sirai"
+section: "sirai"
+page_type: "body"
+status: "needs-review"
+language: "ta"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract; one physically obscured leading cluster held unresolved"
+---
+
+# அச்சு உரை
+
+கிருஷ்ணன், M. N. கிருஷ்ணன், திருப்பதிசாமி, டைரெக்டர் கிருஷ்ணன் (பஞ்சு), மனோகரா பிக்சர்ஸ் பாலு, […]தாசிரியர் ஆத்ரேயா, மாடர்ன் தியேட்டர்ஸ் சுலைமான், முதலிய கலை உலக நண்பர்களும் எங்களை வந்து சந்தித்துப் போனார்கள். அந்த நாளெல்லாம் எங்கள் ராஜ்யத்திலே ஒரு திருவிழா நாள் போல இருந்தது. நடுவிலே ஒரு பெரிய மேஜை. ஒரு பக்கத்தில் சிறையில் உள்ளவர். இன்னொரு புறத்திலே சந்திக்க வந்திருப்போர். அரசியல் விஷயங்களோ - ஆட்சேபகரமானவைகளோ பேசிவிடாமல் கவனித்துக்கொள்ள அருகாமையிலே ஒரு உத்தியோகஸ்தர். இதுதான் ‘பி’ வகுப்பு கைதிகள் இன்டர்வியூ பார்க்கும் முறை.
+
+வலைபோட்ட பெரிய ஜன்னல். உள்ளே சிறையில் உள்ளவர். வெளியே சந்திக்க விரும்புகிறவர். கவனிக்க உத்தியோகஸ்தர். இருதப்பாரும் நின்றுகொண்டுதான் பேசவேண்டும். ஒருவர் முகம் ஒருவருக்கு சரியாகத் தெரிய முடியாது. இதுதான் ‘C’ வகுப்பு முறை ‘A’ வகுப்பு என்று சிறையில் முன்பு இருந்து - இப்போது கிடையாது.
+
+‘பி’ வகுப்பு கைதிகளுக்கு ஒரு வசதியுண்டு. வெளியிருந்து சந்திக்க வருகிறவர்கள் பழம், ரொட்டி, சிகரெட், முதலியவை கொடுக்கலாம். பலகாரங்கள் எதுவும் தரக் கூடாது. P. C. P. என ஒன்றுண்டு. [Personal Cash Property] சொந்தப் பணம் வைத்துக்கொள்ளுதல், சிறையதிகாரிகளின் வசத்திலே நமக்கென பணம் வைத்துக்கொண்டு, வாரா வாரம் நமக்குவேண்டிய பொருள்களை அதிகாரிகள் மூலம் வாங்கிக்கொள்ளலாம். வேண்டிய பொருள்கள் என்றால் தேவையானது எல்லாம் அல்ல.
+
+## அச்சு அமைப்பு
+
+- visible printed folio — **208**.
+- running header — `கருணாநிதி`.
+- extract page **62** = physical scan **211**.
+- first word `கிருஷ்ணன்` directly continues scan 210's terminal `ராதா`.
+- one non-print dark/blue physical-copy mark crosses the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; the hidden character(s) are recorded as `[…]` and are not reconstructed from context.
+- all other body wording, punctuation and paragraph boundaries on the page were directly inspected.
+
+## அச்சு அல்லாத / physical-copy marks
+
+- the dark/blue mark over the leading cluster before `தாசிரியர்` is not publication ink and physically prevents exact recovery of that cluster from this copy.
+- paper toning / age specks are not publication text.
+- no hidden letters were supplied from external knowledge, grammar, or another edition.
+
+## Historical glyph audit
+
+- complete page inspected directly from enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- visible historical character identities were decoded before Unicode transcription.
+- the physically hidden leading cluster is **not** treated as a historical-glyph ambiguity.
+- unresolved historical-glyph ambiguity among visible glyphs — **0**.
+- no global replacement or spelling modernization was used.
+
+## P2 நிலை
+
+**needs-review** — scan 211 is complete except for one physically obscured leading cluster before `தாசிரியர் ஆத்ரேயா`; no guess was inserted.

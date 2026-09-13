@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 042 / P2 scans 206–210** reached the durable state **210/224 canonical records; 152 verified / 58 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 043 / P2 scans 211–215** reached the durable state **215/224 canonical records; 156 verified / 59 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 210/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 215/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 210/224 records; 152 verified / 58 needs-review**
+- P2 — **IN PROGRESS — 215/224 records; 156 verified / 59 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1073,15 +1073,39 @@ Batch 042 result:
 - scan 208 blue/purple diagonal physical-copy strokes and scan 209 left-margin strokes were kept outside canonical text.
 - scan 210 ends mid-list at `ராதா`; scan 211 was not opened.
 
+### Batch 043 — scans 211–215
+
+Opened directly from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 211 — `pages/0211-sirai.md` — **needs-review** — printed folio 208 — extract page 62
+- scan 212 — `pages/0212-sirai.md` — **verified** — printed folio 209 — extract page 63
+- scan 213 — `pages/0213-sirai.md` — **verified** — printed folio 210 — extract page 64
+- scan 214 — `pages/0214-sirai.md` — **verified** — printed folio 211 — extract page 65
+- scan 215 — `pages/0215-sirai.md` — **verified** — printed folio 212 — extract page 66
+
+Batch 043 result:
+
+- records created — **5/5**
+- verified — **4**
+- needs-review — **1**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 11**
+- all five pages were directly inspected at enlarged/high-resolution source pixels and received the mandatory 13-family historical-glyph check.
+- scan 211 has one physical-copy dark/blue mark obscuring the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; the hidden character(s) were not reconstructed, and the page remains needs-review.
+- scans 212–215 are fully source-verified.
+- source-visible forms including `ஆட்சேபணையில்லையென்று`, `நாறுபது`, `நாறு நாட்கள்`, `ஜாலியன் வாலாபாக்`, `தர்பார் சூரர்களோ`, `முடிக்கிடந்த முக்காடுகள்`, `காகப்பட்டரின்`, and `அக்கிரகாரத்தின்` were preserved without normalization.
+- scan 215 ends at physical fragment `இந்தச் சிறு சந்தடிகளுக்`; scan 216 was not opened.
+
 ## Durable P2 totals
 
-- canonical page records — **210/224**
-- verified — **152**
-- needs-review — **58**
+- canonical page records — **215/224**
+- verified — **156**
+- needs-review — **59**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- open transcription / printed-text holds — **58**:
+- open transcription / printed-text holds — **59**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — one physically obscured cluster after `ஒருவராக ஆ`;
@@ -1096,24 +1120,25 @@ Batch 042 result:
   - scans 186–190 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 37–41;
   - scans 191–195 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 42–46;
   - scans 196–200 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 47–51.
+  - scan 211 — one physical-copy mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was guessed.
 
 ## Exact next activity
 
-**P2 scans 211–215.**
+**P2 scans 216–220.**
 
-Process exactly scans **211–215** as one five-scan batch from the user-supplied scans-150–224 extract:
+Process exactly scans **216–220** as one five-scan batch from the user-supplied scans-150–224 extract:
 
-- extract pages 62–66 = physical scans 211–215;
-- P1 classifies scans 211–215 as main text;
+- extract pages 67–71 = physical scans 216–220;
+- P1 classifies scans 216–220 as main text;
 - preserve all existing needs-review holds; do not reconstruct them from context;
-- inspect every physical scan 211–215 directly;
+- inspect every physical scan 216–220 directly;
 - perform the mandatory historical-glyph family checks on every text-bearing page;
 - record visible printed folios only;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
 - separate physical-copy marks from printed text;
 - never fill uncertainty from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 216 unless explicitly asked to continue.
+- stop before scan 221 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 
