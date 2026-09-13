@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 171–175
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 176–180
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
 
@@ -6,34 +6,34 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is authoritative. Publications **1–11 remain RELEASE COMPLETE / FROZEN**.
 
-Durable state after Batch 034: **P2 = 170/224 canonical records; 142 verified / 28 needs-review; 0 blocked; 0 guessed readings; 9 historical-glyph corrections**.
+Durable state after Batch 035: **P2 = 175/224 canonical records; 142 verified / 33 needs-review; 0 blocked; 0 guessed readings; 9 historical-glyph corrections**.
 
 ## Source
 
-Native controlling source remains the 224-scan `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`.
+Use the user-supplied derivative slice `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`.
 
-Use the user-supplied derivative slice `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`. Mapping:
+Mapping:
 
 **extract page N = original physical scan N+149**
 
-Therefore extract pages **22–26 = scans 171–175**.
+Therefore extract pages **27–31 = scans 176–180**.
 
 Do not use OCR, web copies, alternate editions, contextual reconstruction, Wikisource, or Tamil Digital Library as transcription authority.
 
-## Batch 034 durable state
+## Batch 035 durable state
 
-- scans 166–170 = extract pages 17–21
-- printed folios 163–167
+- scans 171–175 = extract pages 22–26
+- printed folios 168–172
 - 5 records created
 - 0 verified / 5 needs-review
 - all five pages directly opened and page identity / folios confirmed
 - incomplete body wording was not promoted
-- full transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory 13-family historical-glyph verification remain open on scans 166–170
+- full transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory 13-family historical-glyph verification remain open on scans 171–175
 - all earlier holds remain open
 
 ## Exact next activity
 
-Process exactly **scans 171–175** = extract pages **22–26**.
+Process exactly **scans 176–180** = extract pages **27–31**.
 
 For every page:
 - inspect source pixels directly;
@@ -43,4 +43,4 @@ For every page:
 - separate non-print physical-copy marks;
 - never fill uncertainty from context.
 
-After the five pages, synchronize controls, commit immediately, report counts, set the next batch, and stop before scan 176.
+After the five pages, synchronize controls, commit immediately, report counts, set the next batch, and stop before scan 181.
