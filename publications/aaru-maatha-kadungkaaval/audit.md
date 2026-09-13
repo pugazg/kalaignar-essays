@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 160/224 records; 142 verified / 18 needs-review** |
+| P2 | **IN PROGRESS — 165/224 records; 142 verified / 23 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -103,6 +103,7 @@ Minimum explicit family set:
 | 030 | 146–150 | 5 | 0 | 0 |
 | 031 | 151–155 | 0 | 5 | 0 |
 | 032 | 156–160 | 0 | 5 | 0 |
+| 033 | 161–165 | 0 | 5 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -749,21 +750,47 @@ Batch 032 result:
 - exact full-page text / punctuation / paragraphing / physical-copy-mark audit / mandatory 13-family historical-glyph gate remain OPEN on scans 156–160.
 - prior holds at scans 3, 4, 18, 126–130, and 151–155 remain unchanged.
 
-## P2 cumulative totals through scan 160
+### Batch 033 — scans 161–165
 
-- canonical page records — **160/224**
+Opened directly from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 161 — `pages/0161-sirai.md` — **needs-review** — printed folio 158 — extract page 12
+- scan 162 — `pages/0162-sirai.md` — **needs-review** — printed folio 159 — extract page 13
+- scan 163 — `pages/0163-sirai.md` — **needs-review** — printed folio 160 — extract page 14
+- scan 164 — `pages/0164-sirai.md` — **needs-review** — printed folio 161 — extract page 15
+- scan 165 — `pages/0165-sirai.md` — **needs-review** — printed folio 162 — extract page 16
+
+Batch 033 result:
+
+- records created — **5/5**
+- verified — **0**
+- needs-review — **5**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- page identity and printed folios **158–162** were directly confirmed from source images.
+- scan 161 visibly contains `கான்விக்ட் வார்டர்:` and `(Convict Warder)`.
+- scan 162 visibly contains the Roman-script phrase `Condemned Prison`.
+- scans 163–165 were opened directly and structurally confirmed; incomplete body wording was not promoted.
+- exact full-page transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory 13-family historical-glyph gate remain OPEN on scans 161–165.
+- all prior holds remain unchanged.
+
+## P2 cumulative totals through scan 165
+
+- canonical page records — **165/224**
 - verified — **142**
-- needs-review — **18**
+- needs-review — **23**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **9**
-- unresolved transcription / printed-text holds — **18**:
+- unresolved transcription / printed-text holds — **23**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
   - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
   - scans 151–155 — exact full-page transcription / punctuation / historical-glyph verification pending focused archival-fidelity re-read of the supplied scans-150–224 extract;
-  - scans 156–160 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 7–11.
+  - scans 156–160 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 7–11;
+  - scans 161–165 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 12–16.
 
 ## Durable physical anomaly
 
@@ -779,4 +806,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 161–165.**
+**P2 scans 166–170.**

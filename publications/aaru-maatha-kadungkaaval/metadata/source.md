@@ -102,14 +102,14 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 160/224 canonical records; 142 verified / 18 needs-review**
+- P2 — **IN PROGRESS — 165/224 canonical records; 142 verified / 23 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 160
+## P2 source use through scan 165
 
-Canonical records exist for scans **1–160**.
+Canonical records exist for scans **1–165**.
 
 Latest batch scans 96–100:
 
@@ -294,6 +294,19 @@ Latest batch scans 156–160:
 - selected landmarks are directly source-confirmed, but incomplete body wording was not promoted into canonical text.
 - full transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory historical-family gate remain open on all five pages.
 
+Latest batch scans 161–165:
+
+- extract pages — **12–16**
+- printed folios — **158–162**
+- verified — **0/5**
+- needs-review — **5/5**
+- guessed readings — **0**
+- cumulative historical-glyph corrections — **9**
+- scan 161 visibly contains `கான்விக்ட் வார்டர்:` and `(Convict Warder)`.
+- scan 162 visibly contains `Condemned Prison`.
+- scans 163–165 were opened directly and structurally confirmed; incomplete body text was not promoted.
+- full transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory historical-family gate remain open on all five pages.
+
 Durable source-artifact anomaly:
 
 - scans 16–17 repeat printed folios 13–14;
@@ -307,8 +320,9 @@ Open printed-text holds:
 - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
 - scans 126–130 — exact transcription / historical-glyph verification pending focused high-resolution source re-read;
 - scans 151–155 — exact transcription / punctuation / historical-glyph verification pending focused archival-fidelity re-read of the supplied extract;
-- scans 156–160 — exact transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read.
+- scans 156–160 — exact transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read;
+- scans 161–165 — exact transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read.
 
 ## Exact next activity
 
-**P2 scans 161–165.**
+**P2 scans 166–170.**
