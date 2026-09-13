@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 174 verified / 50 needs-review**
+- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 179 verified / 45 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -171,8 +171,8 @@ Open holds:
 Current P2 totals:
 
 - records — **224/224**
-- verified — **174**
-- needs-review — **50**
+- verified — **179**
+- needs-review — **45**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
@@ -281,8 +281,18 @@ Current P2 totals:
 - scan 158 ends `சிறையிலுள்ள`; scan 159 begins `‘குவாரண்டைன்’`.
 - scan 160 ends with complete `முன்பே குறிப்பிட்டிருக்கிறேன்.`; scan 161 was not opened.
 
+## Batch 048 — backlog scans 161–165
+
+- resolved — **5/5**
+- verified — **5**
+- guessed readings — **0**
+- historical-glyph correction-event count — **11 unchanged**
+- printed folios — **158–162**
+- extract pages — **12–16**
+- scan 166 was not opened.
+
 ## Exact next activity
 
-**P2 backlog-resolution scans 161–165.**
+**P2 backlog-resolution scans 166–170.**
 
-Use the same supplied extract: pages **12–16 = scans 161–165**. Replace only placeholder/incomplete readings proven directly from enlarged source pixels, perform the mandatory 13-family historical-glyph audit on each page, synchronize controls, commit, and stop before scan 166. Do not start P3 while P2 needs-review records remain.
+Use extract pages **17–21**. Apply the same direct source-pixel archival-fidelity protocol, synchronize controls, commit, and stop before scan 171.

@@ -6,39 +6,40 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual inspection from user-supplied scans-150–224 source extract; exact transcription held pending archival-fidelity re-read"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தின் முழு அச்சு உரை source image-ல் நேரடியாகப் பார்க்கப்பட்டது. ஆனால் ஒவ்வொரு எழுத்து, punctuation, paragraph boundary மற்றும் historical-glyph identity அனைத்தையும் archival fidelity-யுடன் உறுதிசெய்யாமல் ஊகித்து நிரப்பப்படவில்லை.]_
+ஆனால் ஆயுள் தண்டனை பெற்ற கைதிகள், வெளியில் வந்தபிற்கு புதிய மனிதர்களாக மாறி - கொலைவெறியைத் தடுக்கும் கொள்கைக்காகப் பாடுபட்டார்களேயானால்- ஒரு கொலையால் வந்த பழியை - பல உயிர்களைக் காப்பாற்றுவதின் மூலம் போக்கிக்கொள்ளலாம். அதைவிட்டு வெளியில் வந்ததும் - “என்னிடம் யாரும் வாலாட்டக் கூடாது - நான் கொலைக்கேசில் ஜெயிலுக்குப் போனவனுக்கும்” என்று மீசையை முறுக்கித் தோள்தட்டிக் கொண்டு நின்றால் அது வீரமுமாகாது - விவேகமுமாகாது! கோழைத்தனத்தின் கூக்குரலாகவே கருதப்படும்.
 
-## Source hold
+எதைப்பற்றியோ பேச வந்த நாம் - எங்கேயோ உபதேச காண்டத்திற்குப் போய்விட்டதுபோல் தெரிகிறது. திரும்ப நம்மிடத்திற்கே வருவோம். இப்போது சிறைச்சாலையில் உள்ள அலுவலாளர்களைப்பற்றி ஒரு வாறு புரிந்துகொண்டோம். கொலைக்குற்றத்தால் தண்டனை பெற்றவர்கள் நிலையையும் அறிந்துகொண்டோம். கொள்ளைக் குற்றம் - கள்ளக் கையெழுத்து - பிக் பாக்கெட் அரசாங்க மோசடி - இவைகளில் ஈடுபட்டவர்களும் இருக்கிறார்கள். இப்போது திருச்சி சிறையில் உள்ள கைதிகளில் மிகப் பெரும்பாலோர் - பாதிக்கு மேற்பட்ட தொகையினர் - மொத்தம் மூவாயிரம் கைதிகள் என்பதைக் குறைக்காமல் போக்கு வரத்துக் கைதிகளாக இருப்பவர்கள் சாராய வழக்கில் ஈடுபட்டவர்கள் தான். இன்று நூறு சாராய வழக்கு கைதிகள் விடுதலையானால்- நாளைக்கு நூற்றிஐம்பது சாராய வழக்கு கைதிகள் உள்ளே நுழைகிறார்கள். காங்கிரஸ் சர்க்காரின் ‘மதுவிலக்கு’ நாற்றமடிக்கும் காட்சி சிறைச்சாலையைப் பார்க்கும்போதுதான் பட்டவர்த்தனமாகத் தெரிகிறது.
 
-- physical scan **164** was opened directly from the user-supplied 75-page extract covering original physical scans **150–224**.
-- extract page — **15**.
+## அச்சு அமைப்பு
+
 - visible printed folio — **161**.
-- P1 classification — **main text / `sirai`**.
-- stable mapping — extract page **15** = original physical scan **164**.
-- source image is present and legible enough to confirm page identity / folio; this is **not** a missing-page or physical-loss hold.
-- running header, printed folio, and continuous body text are directly visible; a quoted prison term near the lower portion is present, but its exact punctuation/character sequence is deliberately held pending the focused re-read.
-- exact body wording, punctuation, paragraphing, meaningful spacing, physical-copy marks, and historical-glyph identities remain to be completed in a focused archival-fidelity re-read.
-- OCR, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into canonical text.
-- no cross-page wording was asserted without full verification.
+- running header — `ஆறுமாதக் கடுங்காவல்`.
+- extract page **15** = physical scan **164**.
+- source-visible forms including `வந்தபிற்கு`, `பாடுபட்டார்களேயானால்-`, `போனவனுக்கும்`, `ஒரு வாறு`, `பிக் பாக்கெட்`, `என்பதைக் குறைக்காமல்`, `போக்கு வரத்துக்`, `நூற்றிஐம்பது`, and `பட்டவர்த்தனமாகத்` were preserved without normalization.
+- source quotation and source punctuation around `‘மதுவிலக்கு’` were retained.
+- page ends with complete `பட்டவர்த்தனமாகத் தெரிகிறது.`.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- detailed physical-copy-mark audit remains OPEN until the focused re-read.
+- paper toning and scattered age specks are not publication text.
+- no physical-copy mark obscures the canonical body wording.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete page inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- representative sensitive clusters including `கொலைவெறியைத்`, `நிலையையும்`, `கைதிகளில்`, and `நாளைக்கு` were checked individually.
+- unresolved historical-glyph ambiguity — **0**.
+- no global replacement or spelling modernization was used.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact full-page transcription is deliberately held rather than guessed.
+**verified** — scan 164 placeholder was replaced only after full direct source-pixel transcription and audit.

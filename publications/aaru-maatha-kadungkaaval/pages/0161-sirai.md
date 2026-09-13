@@ -6,39 +6,46 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual inspection from user-supplied scans-150–224 source extract; exact transcription held pending archival-fidelity re-read"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தின் முழு அச்சு உரை source image-ல் நேரடியாகப் பார்க்கப்பட்டது. ஆனால் ஒவ்வொரு எழுத்து, punctuation, paragraph boundary மற்றும் historical-glyph identity அனைத்தையும் archival fidelity-யுடன் உறுதிசெய்யாமல் ஊகித்து நிரப்பப்படவில்லை.]_
+## காணிக்கை வார்டர்:
 
-## Source hold
+சிறையில் வார்டர்களுக்கு அடுத்தபடியாக பதவி வகிப்பவர்கள் காணிக்கை வார்டர்கள் தான். இவர்களுக்கு சம்பளம் கிடையாது. வெள்ளை உடையும் - வெள்ளைத் தொப்பியும் உண்டு. வார்டர்கள், வேலை முடிந்ததும் வெளியிலே செல்வதுபோல் இவர்கள் செல்ல முடியாது. காரணம் இவர்களுக்கு வேலை முடிவதேயில்லை. காணிக்கை வார்டர் என்பது உங்களுக்குப் புதிராக இருக்கிறதல்லவா?
 
-- physical scan **161** was opened directly from the user-supplied 75-page extract covering original physical scans **150–224**.
-- extract page — **12**.
+கான்விக்ட் வார்டர் (Convict Warder) என்பதுதான் இப்படித் திரிந்து, தேய்ந்து, தெளிந்து - காணிக்கை வார்டராகியிருக்கிறது. மூன்று நான்கு வருடங்களுக்குமேல் தண்டனை பெற்ற கைதிகள் தங்களின் நன்னடத்தையால் சிறைச்சாலையில் பெறுகிற உத்தியோகமிது!
+
+நீண்டநாள் தண்டனைபெற்ற ஒரு கைதி - மெல்ல மெல்ல ஒரு மேற்பார்வையாளனுக்கு பதவி பெறமுடியும். ‘ஒவர்சியர்’ என்று அந்த உத்தியோகத்துக்குப் பெயர். வெள்ளைத் தொப்பியும் - கால் சட்டையும் - அரைக்கைச் சட்டையும் அவனது உடுப்பு! அவனது பார்வையிலே பல கைதிகள் கண்காணிக்கப்படுவார்கள்.
+
+சிறுகச் சிறுக ஒவர்சியருக்குப் பதவி உயர்ந்து, அழகான வெள்ளைத் தொப்பியும் - வெள்ளைக் கோட்டும், நீண்ட வெள்ளைக் காலுறையும் தரப்பட்டு - ‘காண்விக்ட்’ வார்டராக மாறிவிடுவார்கள். ‘ஒவர்சியர்’ இரவு நேரத்திலே கூண்டிலே அடைபடவேண்டும். ‘காண்விக்ட் வார்டர்’ - அதாவது கைதி வார்டர் கூண்டிலே அடைபடத் தேவையில்லை. ஆனால் இரவு நேரங்களில் மாறி மாறி - குறிப்பிடப்பட்ட கால அட்டவணைப்படி - பிளாக்குகளில் - மதிற் சுவர்களுக்குப் பக்கங்களில் - காவல் புரியவேண்டும்.
+
+## அச்சு அமைப்பு
+
 - visible printed folio — **158**.
-- P1 classification — **main text / `sirai`**.
-- stable mapping — extract page **12** = original physical scan **161**.
-- source image is present and legible enough to confirm page identity / folio; this is **not** a missing-page or physical-loss hold.
-- the bold heading `கான்விக்ட் வார்டர்:` and the Roman-script term `(Convict Warder)` are directly visible; they are retained only as source landmarks pending the complete re-read.
-- exact body wording, punctuation, paragraphing, meaningful spacing, physical-copy marks, and historical-glyph identities remain to be completed in a focused archival-fidelity re-read.
-- OCR, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into canonical text.
-- no cross-page wording was asserted without full verification.
+- running header — `கருணாநிதி`.
+- extract page **12** = physical scan **161**.
+- source heading `காணிக்கை வார்டர்:` and Roman parenthetical `(Convict Warder)` were preserved.
+- source-visible forms including `வேலை முடிவதேயில்லை`, `தண்டனைபெற்ற`, `உத்தியோகமிது`, `ஒவர்சியர்`, `காண்விக்ட்`, and `மதிற் சுவர்களுக்குப்` were preserved without normalization.
+- page ends with complete `காவல் புரியவேண்டும்.`.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- detailed physical-copy-mark audit remains OPEN until the focused re-read.
+- paper toning and scattered age specks are not publication text.
+- no non-print mark obscures the canonical body wording.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete page inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- representative sensitive clusters including `காணிக்கை`, `வெள்ளை`, `வேலை`, `காலுறையும்`, and `மதிற்` were checked by character identity.
+- unresolved historical-glyph ambiguity — **0**.
+- no global replacement or spelling modernization was used.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact full-page transcription is deliberately held rather than guessed.
+**verified** — scan 161 placeholder was replaced only after full direct source-pixel transcription and audit.

@@ -1122,20 +1122,43 @@ Batch 047 result:
 - scan 160 was fully closed; scan 161 was not opened.
 - unrelated holds remain unchanged.
 
-## P2 cumulative totals through Batch 047
+### Batch 048 — backlog scans 161–165
+
+Re-read directly from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 161 — `pages/0161-sirai.md` — **verified** — printed folio 158 — extract page 12
+- scan 162 — `pages/0162-sirai.md` — **verified** — printed folio 159 — extract page 13
+- scan 163 — `pages/0163-sirai.md` — **verified** — printed folio 160 — extract page 14
+- scan 164 — `pages/0164-sirai.md` — **verified** — printed folio 161 — extract page 15
+- scan 165 — `pages/0165-sirai.md` — **verified** — printed folio 162 — extract page 16
+
+Batch 048 result:
+
+- backlog records resolved — **5/5**
+- verified — **5**
+- needs-review remaining from this batch — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- all five placeholders were replaced only after direct enlarged/high-resolution source-pixel transcription, punctuation / paragraphing review, physical-copy-mark separation, and the mandatory 13-family historical-glyph audit.
+- source-visible forms including `காணிக்கை வார்டர்`, `சென்றபிற்கு-எட்டு`, `தொழுந்துரைச்`, `வந்தபிற்கு`, `என்பதைக் குறைக்காமல்`, and `பிய்த்தெறியப்பட்டுக்கொண்டே யிருக்கிறது` were preserved without normalization.
+- scan 162 ends `அவன் நிலைமை எப்படி`; scan 163 begins `யிருக்குமென்பதை...`.
+- scan 165 was fully closed; scan 166 was not opened.
+- unrelated holds remain unchanged.
+
+## P2 cumulative totals through Batch 048
 
 - canonical page records — **224/224**
-- verified — **174**
-- needs-review — **50**
+- verified — **179**
+- needs-review — **45**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- unresolved transcription / printed-text holds — **50**:
+- unresolved transcription / printed-text holds — **45**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
   - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
-  - scans 161–165 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 12–16;
   - scans 166–170 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 17–21;
   - scans 171–175 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 22–26;
   - scans 176–180 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 27–31;
@@ -1160,4 +1183,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 backlog-resolution scans 161–165.**
+**P2 backlog-resolution scans 166–170.**
