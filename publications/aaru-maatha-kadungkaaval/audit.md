@@ -975,10 +975,34 @@ Batch 041 result:
 - scan 205 historical-form corrections: apparent `என்றுன்` → `என்றான்` (`றா`) and `பதினொரும்` → `பதினொராம்` (`றா`), both resolved from direct source pixels.
 - scan 206 was not opened.
 
-## P2 cumulative totals through scan 205
+### Batch 042 — scans 206–210
 
-- canonical page records — **205/224**
-- verified — **147**
+Opened directly from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 206 — `pages/0206-sirai.md` — **verified** — printed folio 203 — extract page 57
+- scan 207 — `pages/0207-sirai.md` — **verified** — printed folio 204 — extract page 58
+- scan 208 — `pages/0208-sirai.md` — **verified** — printed folio 205 — extract page 59
+- scan 209 — `pages/0209-sirai.md` — **verified** — printed folio 206 — extract page 60
+- scan 210 — `pages/0210-sirai.md` — **verified** — printed folio 207 — extract page 61
+
+Batch 042 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 11**
+- all five pages received full direct pixel transcription and the mandatory `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` check.
+- source-visible unusual forms including `தேனினுமினிய`, `சத்தியும்`, `தானவே`, `தேத்துவிட`, `மணுக்காரன்`, `இளமவழுதி`, and `செல்வரெத்தினம்` were preserved.
+- the source-visible Roman `Bat`, initials, degrees, and scan-210 name-list punctuation were retained as printed.
+- blue/purple physical-copy strokes on scans 208–209 were not promoted as publication text.
+- scan 210 ends mid-list at `ராதா`; scan 211 was not opened.
+
+## P2 cumulative totals through scan 210
+
+- canonical page records — **210/224**
+- verified — **152**
 - needs-review — **58**
 - blocked — **0**
 - guessed readings — **0**
@@ -1013,4 +1037,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 206–210.**
+**P2 scans 211–215.**

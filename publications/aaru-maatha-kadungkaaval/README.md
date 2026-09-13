@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 205/224 canonical records; 147 verified / 58 needs-review**
+- P2 — **IN PROGRESS — 210/224 canonical records; 152 verified / 58 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,14 +89,14 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–205**.
+Completed records: **scans 1–210**.
 
 Notable durable findings:
 
 - scans 16–17 repeat printed folios 13–14;
 - scan 18 resumes printed folio 15;
 - physical scans are never deduplicated;
-- historical-glyph correction count — **9**: scan 13 contributes the prior correction; Batch 021 adds **8** historical-family source-pixel corrections.
+- historical-glyph correction count — **11**: scan 13 contributes the prior correction; Batch 021 adds **8** historical-family source-pixel corrections; Batch 041 adds **2** scan-205 historical-form corrections.
 - scans 26–30 — **5/5 verified**, printed folios 23–27, no new holds.
 - scans 31–35 — **5/5 verified**, printed folios 28–32, headings `ஜூன் 19` / `விடிந்தது:`, no new holds; scan 35 ends at `வேலாயுதம்`.
 - scans 36–40 — **5/5 verified**, printed folios 33–37, scan 40 heading `திருச்சியிலே :`, no new holds; scan 40 ends at `கற்றுக்`.
@@ -172,8 +172,8 @@ Open holds:
 
 Current P2 totals:
 
-- records — **205/224**
-- verified — **147**
+- records — **210/224**
+- verified — **152**
 - needs-review — **58**
 - blocked — **0**
 - guessed readings — **0**
@@ -192,8 +192,21 @@ Current P2 totals:
 - scan 205 historical-form corrections: apparent `என்றுன்` → `என்றான்` (`றா`) and `பதினொரும்` → `பதினொராம்` (`றா`).
 - scan 206 was not opened.
 
+## Batch 042 — scans 206–210
+
+- **5/5 verified**
+- printed folios — **203–207**
+- extract pages — **57–61**
+- full direct visual transcription / punctuation / paragraphing / physical-copy-mark separation / mandatory 13-family historical-glyph check — **COMPLETE**
+- new needs-review holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 11**
+- source-visible unusual forms and the long scan-210 visitor/name list were preserved without external-name normalization.
+- scan 208 / 209 non-print blue/purple marks were separated from publication text.
+- scan 210 ends at `ராதா`; scan 211 was not opened.
+
 ## Exact next activity
 
-**P2 scans 206–210.**
+**P2 scans 211–215.**
 
-Process exactly scans **206–210** as the next five-scan batch from live durable state. The supplied extract maps pages **57–61** to scans **206–210**. Preserve all existing needs-review holds; do not guess them. Inspect scans 206–210 directly, synchronize controls, commit, and stop before scan 211.
+Process exactly scans **211–215** as the next five-scan batch from live durable state. The supplied extract maps pages **62–66** to scans **211–215**. Preserve all existing needs-review holds; do not guess them. Inspect scans 211–215 directly, synchronize controls, commit, and stop before scan 216.

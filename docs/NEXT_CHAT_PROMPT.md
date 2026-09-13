@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 206–210
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 211–215
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is authoritative. Publications **1–11 remain RELEASE COMPLETE / FROZEN**.
 
-Durable state after Batch 041: **P2 = 205/224 canonical records; 147 verified / 58 needs-review; 0 blocked; 0 guessed readings; 11 historical-glyph corrections**.
+Durable state after Batch 042: **P2 = 210/224 canonical records; 152 verified / 58 needs-review; 0 blocked; 0 guessed readings; 11 historical-glyph corrections**.
 
 ## Source
 
@@ -16,26 +16,28 @@ Mapping:
 
 **extract page N = original physical scan N+149**
 
-Therefore extract pages **57–61 = scans 206–210**.
+Therefore extract pages **62–66 = scans 211–215**.
 
 Do not use OCR, web copies, alternate editions, contextual reconstruction, Wikisource, or Tamil Digital Library as transcription authority.
 
-## Batch 041 durable state
+## Batch 042 durable state
 
-- scans 201–205 = extract pages 52–56
-- printed folios 198–202
+- scans 206–210 = extract pages 57–61
+- printed folios 203–207
 - 5 records created
 - 5 verified / 0 needs-review
 - full direct visual transcription / punctuation / paragraphing / physical-copy-mark separation / mandatory 13-family historical-glyph check completed
-- source-visible unusual forms were preserved without normalization
+- source-visible unusual forms and scan-210 visitor/name list preserved without external normalization
+- scan 208 / 209 blue-purple physical-copy strokes kept outside publication text
 - guessed readings 0
-- historical-glyph correction count 11; Batch 041 added two scan-205 historical-form corrections (`என்றுன்` → `என்றான்`, `பதினொரும்` → `பதினொராம்`)
-- scan 206 was not opened
+- historical-glyph correction count unchanged at 11
+- scan 210 ends mid-list at `ராதா`
+- scan 211 was not opened
 - all earlier holds remain open
 
 ## Exact next activity
 
-Process exactly **scans 206–210** = extract pages **57–61**.
+Process exactly **scans 211–215** = extract pages **62–66**.
 
 For every page:
 
@@ -46,4 +48,4 @@ For every page:
 - separate non-print physical-copy marks;
 - never fill uncertainty from context.
 
-After the five pages, synchronize controls, commit immediately, report counts, set the next batch, and stop before scan 211.
+After the five pages, synchronize controls, commit immediately, report counts, set the next batch, and stop before scan 216.

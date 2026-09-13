@@ -7,7 +7,7 @@ Controlling attached source: `TVA_BOK_0064140_ஆறுமாதக்_கடு
 - P0 — **COMPLETE / PASS**
 - physical source scans — **224**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 205/224 canonical records**
+- P2 — **IN PROGRESS — 210/224 canonical records**
 
 Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVIEW.md)
 
@@ -263,11 +263,16 @@ P1 extension result:
 | 203 | `../pages/0203-sirai.md` | verified |
 | 204 | `../pages/0204-sirai.md` | verified |
 | 205 | `../pages/0205-sirai.md` | verified |
+| 206 | `../pages/0206-sirai.md` | verified |
+| 207 | `../pages/0207-sirai.md` | verified |
+| 208 | `../pages/0208-sirai.md` | verified |
+| 209 | `../pages/0209-sirai.md` | verified |
+| 210 | `../pages/0210-sirai.md` | verified |
 
 Current P2 totals:
 
-- coverage — **205/224**
-- verified — **147**
+- coverage — **210/224**
+- verified — **152**
 - needs-review — **58**
 - blocked — **0**
 
@@ -291,4 +296,4 @@ Scans 16–17 remain independent physical page records.
 
 ## Exact next activity
 
-**P2 scans 206–210.**
+**P2 scans 211–215.**
