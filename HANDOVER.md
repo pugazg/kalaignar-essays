@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 040 / P2 scans 196–200** reached the durable state **200/224 canonical records; 142 verified / 58 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 041 / P2 scans 206–210** reached the durable state **205/224 canonical records; 147 verified / 58 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 200/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 205/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 200/224 records; 142 verified / 58 needs-review**
+- P2 — **IN PROGRESS — 205/224 records; 147 verified / 58 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1027,10 +1027,33 @@ Batch 040 result:
 - exact full-page transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory 13-family historical-glyph gate remain OPEN on scans 196–200.
 - all prior holds remain unchanged.
 
+### Batch 041 — scans 206–210
+
+Opened directly from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 201 — `pages/0201-sirai.md` — **verified** — printed folio 198 — extract page 52
+- scan 202 — `pages/0202-sirai.md` — **verified** — printed folio 199 — extract page 53
+- scan 203 — `pages/0203-sirai.md` — **verified** — printed folio 200 — extract page 54
+- scan 204 — `pages/0204-sirai.md` — **verified** — printed folio 201 — extract page 55
+- scan 205 — `pages/0205-sirai.md` — **verified** — printed folio 202 — extract page 56
+
+Batch 041 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- all five pages received full direct visual transcription, punctuation/paragraph review, physical-copy-mark separation, and the mandatory 13-family historical-glyph check.
+- source-visible unusual forms including `திருச்சி திராக்களின்`, `எழும்பு மேட்டின்மீது`, and the page-boundary fragments `பெறமுடி` → `யுமே` and `நேரு` → `வுக்கு` were preserved without contextual rewriting.
+- scan 205 historical `றா` identity in `என்றான்` was decoded directly; because there was no earlier canonical wrong reading, the cumulative correction-event count remains unchanged.
+- scan 206 was not opened.
+
 ## Durable P2 totals
 
-- canonical page records — **200/224**
-- verified — **142**
+- canonical page records — **205/224**
+- verified — **147**
 - needs-review — **58**
 - blocked — **0**
 - guessed readings — **0**
@@ -1053,12 +1076,12 @@ Batch 040 result:
 
 ## Exact next activity
 
-**P2 scans 201–205.**
+**P2 scans 206–210.**
 
-Process exactly scans **201–205** as one five-scan batch from the user-supplied scans-150–224 extract:
+Process exactly scans **206–210** as one five-scan batch from the user-supplied scans-150–224 extract:
 
-- extract pages 52–56 = physical scans 201–205;
-- P1 classifies scans 201–205 as main text;
+- extract pages 57–61 = physical scans 206–210;
+- P1 classifies scans 206–210 as main text;
 - preserve all existing needs-review holds; do not reconstruct them from context;
 - inspect every physical scan 201–205 directly;
 - perform the mandatory historical-glyph family checks on every text-bearing page;
@@ -1067,7 +1090,7 @@ Process exactly scans **201–205** as one five-scan batch from the user-supplie
 - separate physical-copy marks from printed text;
 - never fill uncertainty from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 206 unless explicitly asked to continue.
+- stop before scan 211 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 

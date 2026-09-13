@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 201–205
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 206–210
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is authoritative. Publications **1–11 remain RELEASE COMPLETE / FROZEN**.
 
-Durable state after Batch 040: **P2 = 200/224 canonical records; 142 verified / 58 needs-review; 0 blocked; 0 guessed readings; 9 historical-glyph corrections**.
+Durable state after Batch 041: **P2 = 205/224 canonical records; 147 verified / 58 needs-review; 0 blocked; 0 guessed readings; 9 historical-glyph corrections**.
 
 ## Source
 
@@ -16,26 +16,29 @@ Mapping:
 
 **extract page N = original physical scan N+149**
 
-Therefore extract pages **52–56 = scans 201–205**.
+Therefore extract pages **57–61 = scans 206–210**.
 
 Do not use OCR, web copies, alternate editions, contextual reconstruction, Wikisource, or Tamil Digital Library as transcription authority.
 
-## Batch 040 durable state
+## Batch 041 durable state
 
-- scans 196–200 = extract pages 47–51
-- printed folios 193–197
+- scans 201–205 = extract pages 52–56
+- printed folios 198–202
 - 5 records created
-- 0 verified / 5 needs-review
-- all five pages directly opened and page identity / folios confirmed
-- incomplete body wording was not promoted
-- full transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory 13-family historical-glyph verification remain open on scans 196–200
+- 5 verified / 0 needs-review
+- full direct visual transcription / punctuation / paragraphing / physical-copy-mark separation / mandatory 13-family historical-glyph check completed
+- source-visible unusual forms were preserved without normalization
+- guessed readings 0
+- historical-glyph correction count unchanged at 9
+- scan 206 was not opened
 - all earlier holds remain open
 
 ## Exact next activity
 
-Process exactly **scans 201–205** = extract pages **52–56**.
+Process exactly **scans 206–210** = extract pages **57–61**.
 
 For every page:
+
 - inspect source pixels directly;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
 - explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
@@ -43,4 +46,4 @@ For every page:
 - separate non-print physical-copy marks;
 - never fill uncertainty from context.
 
-After the five pages, synchronize controls, commit immediately, report counts, set the next batch, and stop before scan 206.
+After the five pages, synchronize controls, commit immediately, report counts, set the next batch, and stop before scan 211.

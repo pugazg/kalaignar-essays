@@ -950,10 +950,35 @@ Batch 040 result:
 - exact full-page transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory 13-family historical-glyph gate remain OPEN on scans 196–200.
 - all prior holds remain unchanged.
 
-## P2 cumulative totals through scan 200
+### Batch 041 — scans 201–205
 
-- canonical page records — **200/224**
-- verified — **142**
+Opened directly from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 201 — `pages/0201-sirai.md` — **verified** — printed folio 198 — extract page 52
+- scan 202 — `pages/0202-sirai.md` — **verified** — printed folio 199 — extract page 53
+- scan 203 — `pages/0203-sirai.md` — **verified** — printed folio 200 — extract page 54
+- scan 204 — `pages/0204-sirai.md` — **verified** — printed folio 201 — extract page 55
+- scan 205 — `pages/0205-sirai.md` — **verified** — printed folio 202 — extract page 56
+
+Batch 041 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- complete source wording, punctuation and paragraph structure were transcribed from direct source pixels.
+- mandatory `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` checks were completed on every page.
+- non-print paper/age marks were kept outside canonical publication text.
+- source-visible forms including `திருச்சி திராக்களின்` and `எழும்பு மேட்டின்மீது` were preserved rather than normalized.
+- scan 205 `என்றான்` was decoded as historical `றா` identity; no earlier canonical wrong reading existed, so the correction-event count remains 9.
+- scan 206 was not opened.
+
+## P2 cumulative totals through scan 205
+
+- canonical page records — **205/224**
+- verified — **147**
 - needs-review — **58**
 - blocked — **0**
 - guessed readings — **0**
@@ -988,4 +1013,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 201–205.**
+**P2 scans 206–210.**

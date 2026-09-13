@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 200/224 canonical records; 142 verified / 58 needs-review**
+- P2 — **IN PROGRESS — 205/224 canonical records; 147 verified / 58 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–200**.
+Completed records: **scans 1–205**.
 
 Notable durable findings:
 
@@ -172,15 +172,27 @@ Open holds:
 
 Current P2 totals:
 
-- records — **200/224**
-- verified — **142**
+- records — **205/224**
+- verified — **147**
 - needs-review — **58**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **9**
 
+## Batch 041 — scans 201–205
+
+- **5/5 verified**
+- printed folios — **198–202**
+- extract pages — **52–56**
+- full direct visual transcription / punctuation / paragraphing / physical-copy-mark separation / mandatory 13-family historical-glyph check — **COMPLETE**
+- new needs-review holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- source-visible unusual forms and page-boundary fragments were preserved without contextual reconstruction.
+- scan 206 was not opened.
+
 ## Exact next activity
 
-**P2 scans 201–205.**
+**P2 scans 206–210.**
 
-Process exactly scans **201–205** as the next five-scan batch from live durable state. The supplied extract maps pages 52–56 to scans 201–205. Preserve all existing needs-review holds; do not guess them. Inspect scans 201–205 directly, synchronize controls, commit, and stop before scan 206.
+Process exactly scans **206–210** as the next five-scan batch from live durable state. The supplied extract maps pages **57–61** to scans **206–210**. Preserve all existing needs-review holds; do not guess them. Inspect scans 206–210 directly, synchronize controls, commit, and stop before scan 211.
