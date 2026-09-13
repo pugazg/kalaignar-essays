@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 046 / P2 backlog scans 151–155** reached the durable state **224/224 canonical records; 169 verified / 55 needs-review**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 047 / P2 backlog scans 156–160** reached the durable state **224/224 canonical records; 174 verified / 50 needs-review**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 169 verified / 55 needs-review**
+- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 174 verified / 50 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1171,20 +1171,44 @@ Batch 046 result:
 - scan 155 ends at `கடுங்காவல்`; scan 156 was not opened.
 - unrelated holds at scans 3, 4, 18, 126–130, 211, and 217 remain unchanged.
 
+### Batch 047 — backlog scans 156–160
+
+Re-read directly from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 156 — `pages/0156-sirai.md` — **verified** — printed folio 153 — extract page 7
+- scan 157 — `pages/0157-sirai.md` — **verified** — printed folio 154 — extract page 8
+- scan 158 — `pages/0158-sirai.md` — **verified** — printed folio 155 — extract page 9
+- scan 159 — `pages/0159-sirai.md` — **verified** — printed folio 156 — extract page 10
+- scan 160 — `pages/0160-sirai.md` — **verified** — printed folio 157 — extract page 11
+
+Batch 047 result:
+
+- backlog records resolved — **5/5**
+- verified — **5**
+- needs-review remaining from this batch — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- all five placeholders were replaced only after full direct source-pixel transcription / punctuation / paragraphing / physical-copy-mark review / mandatory 13-family historical-glyph audit.
+- scan 157 source distinction `கண்டமாலை` (disease) vs `கண்டமால்` (nickname) was preserved; historical `லை` was decoded directly and does not add a correction event because the prior record was only a placeholder.
+- source-visible unusual forms including `பெருந் தண்டனைகள்`, `கைதியை யும்`, `குணமடைந்தவனைப்படியால்`, `அதியற்புத`, `வேண்டியவை யல்லவா`, `காரிய மாற்றுவார்`, `இவர்களிடமே யிருக்கிறது`, and `பெருகி யிருக்கமுடியாது` were preserved without normalization.
+- page-boundary continuity was preserved: scan 158 ends `சிறையிலுள்ள`; scan 159 begins `‘குவாரண்டைன்’`.
+- scan 160 ends with complete `முன்பே குறிப்பிட்டிருக்கிறேன்.`; scan 161 was not opened.
+- unrelated holds at scans 3, 4, 18, 126–130, 211, and 217 remain unchanged.
+
 ## Durable P2 totals
 
 - canonical page records — **224/224**
-- verified — **169**
-- needs-review — **55**
+- verified — **174**
+- needs-review — **50**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- open transcription / printed-text holds — **55**:
+- open transcription / printed-text holds — **50**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — one physically obscured cluster after `ஒருவராக ஆ`;
   - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
-  - scans 156–160 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 7–11;
   - scans 161–165 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 12–16;
   - scans 166–170 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 17–21;
   - scans 171–175 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 22–26;
@@ -1198,13 +1222,13 @@ Batch 046 result:
 
 ## Exact next activity
 
-**P2 backlog-resolution scans 156–160.**
+**P2 backlog-resolution scans 161–165.**
 
-Physical-source canonical-record coverage remains **224/224**, but P2 remains open because **55 needs-review records** remain.
+Physical-source canonical-record coverage remains **224/224**, but P2 remains open because **50 needs-review records** remain.
 
-Process exactly scans **156–160** as the next focused backlog-repair batch from the same user-supplied scans-150–224 extract:
+Process exactly scans **161–165** as the next focused backlog-repair batch from the same user-supplied scans-150–224 extract:
 
-- extract pages **7–11 = physical scans 156–160**;
+- extract pages **12–16 = physical scans 161–165**;
 - replace the current placeholder/incomplete body records only with readings directly proven from source pixels;
 - inspect every page at enlarged/high-resolution source pixels;
 - perform the mandatory 13-family historical-glyph check on every page;
@@ -1212,7 +1236,7 @@ Process exactly scans **156–160** as the next focused backlog-repair batch fro
 - do not infer unresolved text from neighboring pages or context;
 - keep unrelated holds at scan 3, scan 4, scan 18, scans 126–130, scan 211, and scan 217 unchanged;
 - synchronize controls and commit after the five-page backlog batch;
-- stop before scan 161 unless explicitly asked to continue.
+- stop before scan 166 unless explicitly asked to continue.
 
 Do not start P3, article assembly, P4/P5, or English while P2 needs-review records remain.
 

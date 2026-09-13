@@ -6,39 +6,53 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual inspection from user-supplied scans-150–224 source extract; exact transcription held pending archival-fidelity re-read"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தின் முழு அச்சு உரை source image-ல் நேரடியாகப் பார்க்கப்பட்டது. ஆனால் ஒவ்வொரு எழுத்து, punctuation, paragraph boundary மற்றும் historical-glyph identity அனைத்தையும் archival fidelity-யுடன் உறுதிசெய்யாமல் ஊகித்து நிரப்பப்படவில்லை.]_
+‘குவாரண்டைன்’ என்னுமிடத்தில் அழகிய முறையில் வண்ணத்தால் சுவற்றில் தீட்டிக் கொடுத்திருக்கிறார். அவைகளைப் படித்துப்பார்த்தால் சிறையில் உள்ள வசதிகள் - சட்ட திட்டங்கள் எல்லாமே தெளிவாகும் என்று நம்புகிறேன். நீங்கள் அவைகளைப் படிப்பதற்கு முன்பு சிறையைப் பற்றிய இன்னும் சில விபரங்களைக் குறிப்பிட்டு விடுகிறேன். சிறை அதிகாரிகள் யார் யார் என்பதும் - கைதிகள் எப்படிக் கண்காணிக்கப்படுகிறது என்பதும் தெரிந்துகொள்ள வேண்டியவை யல்லவா?
 
-## Source hold
+## ஜெயில் சூப்பிரின்டெண்டு:
 
-- physical scan **159** was opened directly from the user-supplied 75-page extract covering original physical scans **150–224**.
-- extract page — **10**.
+மாதம் ஐநூறு ரூபாய் வரையிலே சம்பளம் பெறக் கூடிய இவரது பொறுப்பிலேதான் சிறையின் முழு நிர்வாகமும் ஒப்படைக்கப்பட்டிருக்கிறது.
+
+## ஜெயிலர்:
+
+இவரது மாதச் சம்பளம் சுமார் 300 ரூபாய். இவர் சூப்பரின்டெண்டுக்கு அடுத்தபடியாக சிறை அதிகாரத்தில் அங்கம் வகிக்கிறார். காலையில் சிறையைத் திறக்கும் பொறுப்பு அவருடையதுதான்.
+
+## டிப்டி ஜெயிலர்:
+
+பதவிப் பெயரிலிருந்தே இவரும் ஜெயிலருக்கு அடுத்தபடியான கெளரவம் வாய்ந்தவர் என்பது தெளிவாகும்.
+
+கேம்ப் ஜெயிலர் என்றும், இன்டர்வியூ டிப்டி ஜெயிலர் என்றும் இன்னும் இரண்டொரு பதவிகள் இருக்கின்றன.
+
+## அச்சு அமைப்பு
+
 - visible printed folio — **156**.
-- P1 classification — **main text / `sirai`**.
-- stable mapping — extract page **10** = original physical scan **159**.
-- source image is present and legible enough to confirm page identity / folio; this is **not** a missing-page or physical-loss hold.
-- running header and several bold prison-administration role subheads are directly visible; exact subhead/body transcription remains held pending the focused re-read.
-- exact body wording, punctuation, paragraphing, meaningful spacing, physical-copy marks, and historical-glyph identities remain to be completed in a focused archival-fidelity re-read.
-- OCR, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into canonical text.
-- no cross-page wording was asserted without full verification.
+- running header — `கருணாநிதி`.
+- extract page **10** = physical scan **159**.
+- opening `‘குவாரண்டைன்’` directly continues scan 158's terminal `சிறையிலுள்ள`.
+- source-visible subheads `ஜெயில் சூப்பிரின்டெண்டு:`, `ஜெயிலர்:`, and `டிப்டி ஜெயிலர்:` were preserved.
+- source-visible forms including `சுவற்றில்`, `படித்துப்பார்த்தால்`, `வேண்டியவை யல்லவா`, `ஐநூறு`, `சூப்பரின்டெண்டுக்கு`, `கெளரவம்`, and `இரண்டொரு` were preserved without normalization.
+- page ends with complete `பதவிகள் இருக்கின்றன.`.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- detailed physical-copy-mark audit remains OPEN until the focused re-read.
+- paper toning and scattered age specks are not publication text.
+- no physical-copy mark obscures the canonical wording.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete page inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- representative sensitive clusters including `சிறையைப்`, `வரையிலே`, `காலையில்`, and `யல்லவா` were checked by character identity.
+- unresolved historical-glyph ambiguity — **0**.
+- no global replacement or spelling modernization was used.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact full-page transcription is deliberately held rather than guessed.
+**verified** — scan 159 placeholder was replaced only after full direct source-pixel transcription and audit.
