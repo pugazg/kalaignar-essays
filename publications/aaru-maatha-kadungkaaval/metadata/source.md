@@ -102,14 +102,14 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 155/224 canonical records; 142 verified / 13 needs-review**
+- P2 — **IN PROGRESS — 160/224 canonical records; 142 verified / 18 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 155
+## P2 source use through scan 160
 
-Canonical records exist for scans **1–155**.
+Canonical records exist for scans **1–160**.
 
 Latest batch scans 96–100:
 
@@ -281,6 +281,19 @@ Latest batch scans 151–155:
 - exact body transcription, punctuation, paragraphing, physical-copy-mark audit, and mandatory historical-glyph verification remain open for these five pages rather than being reconstructed from uncertain preview readings.
 - this extract is a derivative slice of the same controlling source and is not treated as an alternate edition.
 
+Latest batch scans 156–160:
+
+- extract pages — **7–11**
+- printed folios — **153–157**
+- verified — **0/5**
+- needs-review — **5/5**
+- guessed readings — **0**
+- cumulative historical-glyph corrections — **9**
+- scan 157 visibly contains `“வெள்ளைக் குல்லாய்”`, `“கருப்புக் குல்லாய்”`, and `(Borstal School)`.
+- scan 160 visibly contains `சீப் வார்டர்:`, `ஹெட் வார்டர்:`, and `வார்டர்:`.
+- selected landmarks are directly source-confirmed, but incomplete body wording was not promoted into canonical text.
+- full transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory historical-family gate remain open on all five pages.
+
 Durable source-artifact anomaly:
 
 - scans 16–17 repeat printed folios 13–14;
@@ -293,8 +306,9 @@ Open printed-text holds:
 - scan 4 — exact publisher-note transcription;
 - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
 - scans 126–130 — exact transcription / historical-glyph verification pending focused high-resolution source re-read;
-- scans 151–155 — exact transcription / punctuation / historical-glyph verification pending focused archival-fidelity re-read of the supplied extract.
+- scans 151–155 — exact transcription / punctuation / historical-glyph verification pending focused archival-fidelity re-read of the supplied extract;
+- scans 156–160 — exact transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read.
 
 ## Exact next activity
 
-**P2 scans 156–160.**
+**P2 scans 161–165.**
