@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 044 / P2 scans 216–220** reached the durable state **220/224 canonical records; 160 verified / 60 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 045 / P2 final scans 221–224** reached the durable state **224/224 canonical records; 164 verified / 60 needs-review**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 220/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 224/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 220/224 records; 160 verified / 60 needs-review**
+- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 164 verified / 60 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1122,10 +1122,34 @@ Batch 044 result:
 - source-visible unusual forms including `ஒழிக்கப்படடாகவேண்டும்`, `மாகினட்`, `ஜாலியன் வாலாபாக்`, `நாட்டுக்கு நன்கு புலனாகப் போகாது`, `கழகத்தின்சார்பாக`, and `பெருமைக்காகும் படைவீரர்` were preserved without normalization.
 - scan 220 closes with the printed star separator; scan 221 was not opened.
 
+### Batch 045 — final scans 221–224
+
+Opened directly from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 221 — `pages/0221-sirai.md` — **verified** — printed folio 218 — extract page 72
+- scan 222 — `pages/0222-sirai.md` — **verified** — printed folio 219 — extract page 73
+- scan 223 — `pages/0223-sirai.md` — **verified** — printed folio 220 — extract page 74
+- scan 224 — `pages/0224-back-cover.md` — **verified** — no printed folio — extract page 75
+
+Batch 045 result:
+
+- records created — **4/4**
+- verified — **4**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 11**
+- all three text-bearing pages were inspected directly at enlarged/high-resolution source pixels and received the mandatory 13-family historical-glyph check.
+- scan 221 carries the source heading `வெற்றி! வெற்றி!!`; scans 221–223 preserve source-visible spellings, punctuation, verse lineation, and the printed work-closing star.
+- scan 223 / printed 220 is the final text-bearing page and closes the work with the three-line `சேர வருவீரே!` verse block and printed star separator.
+- scan 224 is the terminal back cover with the red `திராவிடப்பண்ணை` publisher device and source-visible `தெப்பக்குளம் / திருச்சி` banner; no printed folio, advertisement, or separate colophon follows.
+- physical-source canonical-record coverage is now complete at **224/224**.
+- no existing needs-review hold was silently changed or reconstructed.
+
 ## Durable P2 totals
 
-- canonical page records — **220/224**
-- verified — **160**
+- canonical page records — **224/224**
+- verified — **164**
 - needs-review — **60**
 - blocked — **0**
 - guessed readings — **0**
@@ -1150,23 +1174,23 @@ Batch 044 result:
 
 ## Exact next activity
 
-**P2 final scans 221–224.**
+**P2 backlog-resolution scans 151–155.**
 
-Process exactly final scans **221–224** as one four-scan batch from the user-supplied scans-150–224 extract:
+Physical-source canonical-record coverage is now complete at **224/224**, but P2 remains open because **60 needs-review records** remain.
 
-- extract pages 72–75 = physical scans 221–224;
-- P1 classifies scans 221–223 as main text and scan 224 as back cover / publisher device;
-- preserve all existing needs-review holds; do not reconstruct them from context;
-- inspect every physical scan 221–224 directly;
-- perform the mandatory historical-glyph family checks on every text-bearing page;
-- record visible printed folios only;
-- preserve source spelling, punctuation, paragraphing and meaningful spacing;
-- separate physical-copy marks from printed text;
-- never fill uncertainty from context;
-- synchronize controls and commit immediately after the four scans;
-- this is the final physical-source batch; do not begin backlog-resolution or P3 work in the same iteration unless explicitly asked.
+Process exactly scans **151–155** as the first focused backlog-repair batch from the same user-supplied scans-150–224 extract:
 
-Do not reopen P1 unless genuinely new structural source evidence appears.
+- extract pages **2–6 = physical scans 151–155**;
+- replace the current placeholder/incomplete body records only with readings directly proven from source pixels;
+- inspect every page at enlarged/high-resolution source pixels;
+- perform the mandatory 13-family historical-glyph check on every page;
+- preserve source spelling, punctuation, paragraphing, and physical-copy marks;
+- do not infer unresolved text from neighboring pages or context;
+- keep scan 3, scan 4, scan 18, scans 126–130, scan 211, and scan 217 holds unchanged;
+- synchronize controls and commit after the five-page backlog batch;
+- stop before scan 156 unless explicitly asked to continue.
+
+Do not start P3, article assembly, P4/P5, or English while P2 needs-review records remain.
 
 ---
 

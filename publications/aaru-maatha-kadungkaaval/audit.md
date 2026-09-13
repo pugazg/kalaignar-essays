@@ -1048,10 +1048,34 @@ Batch 044 result:
 - source-visible unusual forms including `ஒழிக்கப்படடாகவேண்டும்`, `மாகினட்`, `ஜாலியன் வாலாபாக்`, `நாட்டுக்கு நன்கு புலனாகப் போகாது`, `கழகத்தின்சார்பாக`, and `பெருமைக்காகும் படைவீரர்` were preserved.
 - scan 220 closes with a printed star separator; scan 221 was not opened.
 
-## P2 cumulative totals through scan 220
+### Batch 045 — final scans 221–224
 
-- canonical page records — **220/224**
-- verified — **160**
+Opened directly from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 221 — `pages/0221-sirai.md` — **verified** — printed folio 218 — extract page 72
+- scan 222 — `pages/0222-sirai.md` — **verified** — printed folio 219 — extract page 73
+- scan 223 — `pages/0223-sirai.md` — **verified** — printed folio 220 — extract page 74
+- scan 224 — `pages/0224-back-cover.md` — **verified** — no printed folio — extract page 75
+
+Batch 045 result:
+
+- records created — **4/4**
+- verified — **4**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 11**
+- scans 221–223 received full direct visual transcription / punctuation / paragraphing / physical-copy-mark separation and the mandatory 13-family historical-glyph audit.
+- scan 221 preserves the source heading `வெற்றி! வெற்றி!!`.
+- scan 223 / printed 220 is the final text-bearing page and preserves the final verse block plus printed star separator.
+- scan 224 was directly inspected as the terminal back cover; the source-visible publisher device text and location banner were recorded without importing any outside wording.
+- physical-source canonical-record coverage is complete at **224/224**.
+- all pre-existing needs-review holds remain open and unchanged.
+
+## P2 cumulative totals through scan 224
+
+- canonical page records — **224/224**
+- verified — **164**
 - needs-review — **60**
 - blocked — **0**
 - guessed readings — **0**
@@ -1088,4 +1112,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 final scans 221–224.**
+**P2 backlog-resolution scans 151–155.**

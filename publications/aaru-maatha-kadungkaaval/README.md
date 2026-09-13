@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 220/224 canonical records; 160 verified / 60 needs-review**
+- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 164 verified / 60 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–220**.
+Completed records: **scans 1–224**.
 
 Notable durable findings:
 
@@ -172,8 +172,8 @@ Open holds:
 
 Current P2 totals:
 
-- records — **220/224**
-- verified — **160**
+- records — **224/224**
+- verified — **164**
 - needs-review — **60**
 - blocked — **0**
 - guessed readings — **0**
@@ -236,8 +236,25 @@ Current P2 totals:
 - source-visible unusual forms were preserved without normalization.
 - scan 220 closes with a printed star separator; scan 221 was not opened.
 
+## Batch 045 — final scans 221–224
+
+- records — **4/4**
+- verified — **4**
+- needs-review — **0**
+- scans 221–223 printed folios — **218–220**
+- scan 224 — **back cover / no folio**
+- extract pages — **72–75**
+- mandatory 13-family historical-glyph check — **COMPLETE on all text-bearing pages**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 11**
+- scan 221 preserves the source heading `வெற்றி! வெற்றி!!`.
+- scan 223 is the final text-bearing page and preserves the closing verse block plus printed star.
+- scan 224 directly confirms the terminal publisher device and source-visible place banner.
+- physical-source page-record coverage is now **224/224**.
+- the existing **60 needs-review** fidelity holds remain open.
+
 ## Exact next activity
 
-**P2 final scans 221–224.**
+**P2 backlog-resolution scans 151–155.**
 
-Process exactly scans **221–224** as the final four-scan P2 batch from live durable state. The supplied extract maps pages **72–75** to scans **221–224**. P1 classifies scans 221–223 as main text and scan 224 as back cover / publisher device. Preserve all existing needs-review holds; do not guess them. Inspect scans 221–224 directly, synchronize controls, commit, and stop before backlog-resolution or P3 work.
+Use the same supplied extract: pages **2–6 = scans 151–155**. Replace only placeholder/incomplete readings proven directly from enlarged source pixels, perform the mandatory 13-family historical-glyph audit on each page, synchronize controls, commit, and stop before scan 156. Do not start P3 while P2 needs-review records remain.
