@@ -6,38 +6,53 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual inspection from user-supplied scans-150–224 source extract; exact transcription held pending archival-fidelity re-read"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தில் தொடர்ச்சியான அச்சு உரை உள்ளது. பயனர் வழங்கிய scans 150–224 source extract-இல் பக்கம் நேரடியாகத் திறந்து பார்க்கப்பட்டது; ஆனால் முழு எழுத்துருவாரி transcription, punctuation, paragraphing மற்றும் historical-glyph identity அனைத்தையும் archival fidelity-யுடன் உறுதிசெய்ய முடியாத பகுதிகளை ஊகித்து நிரப்பவில்லை.]_
+இப்படி சுற்றியுள்ள நாடுகளிலே சூறாவளி அடிக்கிறது. காண்கிறோம் நாம்! ஆனால் இங்கு குதாக்கள் சிலர் அந்த சூட்சமத்தை உணராமல் இந்த சாம்ராஜ்ய அதிகாரம் சதமென எண்ணியிருக்கிறார்கள்!
 
-## Source hold
+நல்ல மரங்களிலேயே புல்லுருவி பாயும்போது- இந்தக் கள்ளிக்காடுகளா இருந்து வாழப் போகின்றன?
 
-- physical scan **152** was opened directly from the user-supplied 75-page extract corresponding to original physical scans **150–224**.
-- extract page — **3**.
+அந்த நம்பிக்கை நிறைந்த ஆறுதலோடுதான் அண்ணாவும் ஐயாயிரவரும் சிறைப்பட்டுள்ள கொடுமையை ஒருவாறு சமாளித்துக்கொண்டோம் - சிறையிலிருந்தபடியே!
+
+இனி எமது ராஜ்யத்தின் நிலைமைகளைப் பற்றிக் கொஞ்சம் கவனிப்போம்.
+
+சிறைச்சாலை ஒரு கிராமம் போலவே எல்லா வசதிகளும் உடையது என்று குறிப்பிட்டிருந்தேனல்லவா?
+
+சலவைசாலை உண்டு - தொழிற்சாலை உண்டு - பள்ளிக்கூடம் உண்டு - தோட்டங்கள் உண்டு - என்றெல்லாம் படித்தீர்களல்லவா? அவைகளைப்பற்றி முதலில் சிறிது விளக்குகிறேன்.
+
+சலவைசாலை இருக்கிறது என்பது உண்மைதான்.
+
+சலவைசாலை யென்றதும், எல்லாக் கைதிகளும் தங்கள் உடைகளைப் போட்டு அடிக்கடி சலவை செய்து கொள்ளலாம் என்றுதானே நினைக்கிறீர்கள் - அதுதான் தப்பு!
+
+## அச்சு அமைப்பு
+
 - visible printed folio — **149**.
-- P1 classification — **main text / `sirai`**.
-- the supplied extract is a page-range derivative of the same controlling source, not an alternate edition; extract page 1 visibly duplicates original scan 150 / printed folio 147, establishing extract page 3 = physical scan 152.
-- source image itself is present; this is **not** a physical-loss or missing-page hold.
-- exact wording, punctuation, paragraph boundaries, meaningful spacing, and historical glyph identities remain to be completed in a focused archival-fidelity re-read.
-- OCR output, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into the canonical transcription.
-- no cross-page wording has been asserted without a fully verified direct source reading.
+- running header — `ஆறுமாதக் கடுங்காவல்`.
+- extract page **3** = physical scan **152**.
+- source-visible forms including `குதாக்கள்`, `கள்ளிக்காடுகளா இருந்து`, `ஐயாயிரவரும்`, `சலவைசாலை யென்றதும்`, and `அவைகளைப்பற்றி` were preserved without normalization.
+- source historical `றா` identity in `சூறாவளி` was decoded from the printed glyph before Unicode transcription.
+- page ends with complete `அதுதான் தப்பு!`.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- full physical-copy-mark audit remains part of the focused re-read.
+- paper toning / scattered age specks are not publication text.
+- no non-print mark obscures the printed body wording.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page until the full re-read is completed.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete page inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- representative sensitive clusters include `சூறாவளி` (`றா`), `அண்ணாவும்` (`ணா`), and `சலவைசாலை` (`லை`).
+- `சூறாவளி` is a direct first canonical decoding from the previously blank placeholder, so it does **not** add a correction event to the cumulative correction count.
+- unresolved historical-glyph ambiguity — **0**.
+- no global replacement or spelling modernization was used.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact body transcription is deliberately held rather than guessed.
+**verified** — scan 152 placeholder was replaced only after full direct source-pixel transcription and audit.

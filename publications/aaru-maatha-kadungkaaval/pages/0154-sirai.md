@@ -6,38 +6,50 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual inspection from user-supplied scans-150–224 source extract; exact transcription held pending archival-fidelity re-read"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தில் தொடர்ச்சியான அச்சு உரை உள்ளது. பயனர் வழங்கிய scans 150–224 source extract-இல் பக்கம் நேரடியாகத் திறந்து பார்க்கப்பட்டது; ஆனால் முழு எழுத்துருவாரி transcription, punctuation, paragraphing மற்றும் historical-glyph identity அனைத்தையும் archival fidelity-யுடன் உறுதிசெய்ய முடியாத பகுதிகளை ஊகித்து நிரப்பவில்லை.]_
+கோவையில் உள்ள சிறையில் பெட்ஷீட்டுகளும், வார்டர் - போலீஸ் முதலியவர்களுக்கு உடுப்புத் துணிகளும் தயார்செய்யப்பட்டு, எல்லா சிறைச்சாலைகளுக்கும், மீதி அரசாங்க அலுவலாளர்களுக்கும் உபயோகமாகிறது. வேலூரில் தயாரிக்கப்படும் செருப்புகளும், பூட்ஸ்களும், அரசாங்க அலுவலாளர்களுக்கும் - எல்லா சிறைச்சாலைகட்கும் உபயோகமாகின்றன. ராஜமுந்திரி சிறைச்சாலையில் நல்ல கம்பளிகள் தயாரிக்கப்படுகின்றன.
 
-## Source hold
+இப்படி முக்கிய தொழில்களும் - சில்லரைத் தொழில்களும் - சிறைக் கைதிகளாலேயே செய்யப்படுகின்றன. சர்க்கார் அலுவலகங்களில் இருக்கின்ற மரச்சாமான்கள் பல கைதிகள் சிறைகளில் தயாரித்தவைதான்!
 
-- physical scan **154** was opened directly from the user-supplied 75-page extract corresponding to original physical scans **150–224**.
-- extract page — **5**.
+சென்னை சிறையில் அச்சகம் அமைக்கப்பட்டு - எல்லா சிறைகளுக்கும் தேவையான அச்சு வசதிகள் கவனிக்கப்படுகின்றன.
+
+தண்டனை பெற்றுவந்துள்ள கைதிகள் உழைக்காமல் இருக்கவே முடியாது. தோட்டி வேலைகளையும் அவர்களில் சிலரே செய்யவேண்டும். ‘கூட்டு கேங்’ என்று ஒரு குழு, கைதிகள் நிறைந்ததாயிருக்கும். அவர்கள் சிறைச்சாலை முழுவதையும் சுத்தப்படுத்திக்கொண்டே இருக்கவேண்டும்.
+
+குப்பையில்லாவிட்டாலும் கூட்டவேண்டும்.
+
+அதற்குத்தான் ‘ஜெயில் வேலை’ என்று பெயர்.
+
+பாறைகளில் முளைத்திருக்கும் புற்களையெல்லாம் பிடுங்கும்படி உத்திரவிடுவார்கள். மண்வெட்டி கொண்டு
+
+## அச்சு அமைப்பு
+
 - visible printed folio — **151**.
-- P1 classification — **main text / `sirai`**.
-- the supplied extract is a page-range derivative of the same controlling source, not an alternate edition; extract page 1 visibly duplicates original scan 150 / printed folio 147, establishing extract page 5 = physical scan 154.
-- source image itself is present; this is **not** a physical-loss or missing-page hold.
-- exact wording, punctuation, paragraph boundaries, meaningful spacing, and historical glyph identities remain to be completed in a focused archival-fidelity re-read.
-- OCR output, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into the canonical transcription.
-- no cross-page wording has been asserted without a fully verified direct source reading.
+- running header — `ஆறுமாதக் கடுங்காவல்`.
+- extract page **5** = physical scan **154**.
+- source-visible forms including `பெட்ஷீட்டுகளும்`, `சிறைச்சாலைகட்கும்`, `ராஜமுந்திரி`, `கூட்டு கேங்`, and `உத்திரவிடுவார்கள்` were preserved without normalization.
+- page ends at the physical fragment `மண்வெட்டி கொண்டு`; scan 155 continues the sentence.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- full physical-copy-mark audit remains part of the focused re-read.
+- paper toning / scattered age specks are not publication text.
+- a small dark copy mark occurs near the lower body text but does not obscure the reading.
+- no non-print mark was promoted into publication text.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page until the full re-read is completed.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete page inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- representative sensitive clusters including `சிறையில்`, `வேலூரில்`, `சிறைச்சாலைகட்கும்`, and `பாறைகளில்` were checked by character identity.
+- unresolved historical-glyph ambiguity — **0**.
+- no global replacement or spelling modernization was used.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact body transcription is deliberately held rather than guessed.
+**verified** — scan 154 placeholder was replaced only after full direct source-pixel transcription and audit.

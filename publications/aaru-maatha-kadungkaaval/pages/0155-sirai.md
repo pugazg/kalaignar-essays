@@ -6,38 +6,45 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual inspection from user-supplied scans-150–224 source extract; exact transcription held pending archival-fidelity re-read"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தில் தொடர்ச்சியான அச்சு உரை உள்ளது. பயனர் வழங்கிய scans 150–224 source extract-இல் பக்கம் நேரடியாகத் திறந்து பார்க்கப்பட்டது; ஆனால் முழு எழுத்துருவாரி transcription, punctuation, paragraphing மற்றும் historical-glyph identity அனைத்தையும் archival fidelity-யுடன் உறுதிசெய்ய முடியாத பகுதிகளை ஊகித்து நிரப்பவில்லை.]_
+விரைவில் செதுக்கியும்விடலாம். செதுக்கிவிட்டால் - பிறகு வேலையிருக்காதே; அதற்காக புல்லைப் பிடுங்கச் சொல்வார்கள். அவர்களும் மிகவும் சுறுசுறுப்பாக - ஆளுக்கொரு நுனிப் புல்லாகப் பிடுங்குவார்கள். அப்போதுதானே மறுநாள் அந்தப்புல் வளரும் - அவர்களுக்கும் வேலை இருக்கும். இதற்கும் ‘ஜெயில் வேலை’ என்றுதான் பெயர். சிறை நிர்வாகத்தை நடத்துவதற்காக முக்கிய அதிகாரிகளும் - கைதிகளைக் கண்காணிப்பதற்காக வார்டர்களும் இருக்கிறார்கள். மற்ற எல்லா வேலைகளையும் கைதிகளே செய்கிறார்கள்.
 
-## Source hold
+சிறையில் குற்றம் செய்யும் கைதிகள். சிறையதிகாரிகளால் தண்டிக்கப்படுகிறார்கள். கால் விலங்கு பூட்டுதல் - கைவிலங்கு பூட்டுதல் - நிலவிலங்கு மாட்டி வெயிலில் நிற்கவைத்தல் போன்ற கொடிய தண்டனைகளும் கைதிகளுக்கு அளிக்கப்படுமாம்
 
-- physical scan **155** was opened directly from the user-supplied 75-page extract corresponding to original physical scans **150–224**.
-- extract page — **6**.
+சிறைக்குள்ளேயே திருடுபவர்கள்-வேலைக்குப் பயந்து ஒளிந்துகொள்பவர்கள் - சிறை சட்டங்களை மீறி நடப்பவர்கள் - உடனடியாக தண்டனைக்கு உட்படுத்தப்படுவார்கள்.
+
+மாடுபோல ஏற்றங்களே இழுத்து தண்ணீர்பாய்ச்சுகிற வேலைகளையும் அவர்கள் தான் செய்யவேண்டும். எவ்வளவு குளிர் அடித்தாலும் சரி; ஒரு கால் சட்டை - ஒரு அரைக் கை சட்டை - ஒரு குல்லா - இவைகளால் தடுத்துக் கொண்டுதான் படுத்துக்கொள்ளவேண்டும். நாங்கள் சிலர் பி. வகுப்பு கைதிகளாயிருந்தாலும் கூட கடுங்காவல்
+
+## அச்சு அமைப்பு
+
 - visible printed folio — **152**.
-- P1 classification — **main text / `sirai`**.
-- the supplied extract is a page-range derivative of the same controlling source, not an alternate edition; extract page 1 visibly duplicates original scan 150 / printed folio 147, establishing extract page 6 = physical scan 155.
-- source image itself is present; this is **not** a physical-loss or missing-page hold.
-- exact wording, punctuation, paragraph boundaries, meaningful spacing, and historical glyph identities remain to be completed in a focused archival-fidelity re-read.
-- OCR output, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into the canonical transcription.
-- no cross-page wording has been asserted without a fully verified direct source reading.
+- running header — `கருணாநிதி`.
+- extract page **6** = physical scan **155**.
+- opening `விரைவில் செதுக்கியும்விடலாம்.` directly continues scan 154's terminal `மண்வெட்டி கொண்டு`.
+- source-visible forms including `அப்போதுதானே`, `சிறையதிகாரிகளால்`, `நிலவிலங்கு`, `திருடுபவர்கள்-வேலைக்குப்`, `ஏற்றங்களே`, and `தண்ணீர்பாய்ச்சுகிற` were preserved without normalization.
+- page ends at the physical fragment `கடுங்காவல்`; scan 156 continues it.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- full physical-copy-mark audit remains part of the focused re-read.
+- paper toning / scattered age specks are not publication text.
+- several small dark copy marks occur around the text area but do not obscure the canonical reading.
+- no non-print mark was promoted into publication text.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page until the full re-read is completed.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete page inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- representative sensitive clusters including `சிறையில்`, `கைவிலங்கு`, `நிலவிலங்கு`, `வேலைகளையும்`, and `தண்டனைக்கு` were checked individually.
+- unresolved historical-glyph ambiguity — **0**.
+- no global replacement or spelling modernization was used.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact body transcription is deliberately held rather than guessed.
+**verified** — scan 155 placeholder was replaced only after full direct source-pixel transcription and audit.

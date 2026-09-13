@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 164 verified / 60 needs-review**
+- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 169 verified / 55 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -159,7 +159,6 @@ Open holds:
 - scan 4 — full publisher-note transcription;
 - scan 18 — one physically obscured cluster after `ஒருவராக ஆ`;
 - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
-- scans 151–155 — exact full-page transcription / punctuation / historical-glyph verification pending focused archival-fidelity re-read of the supplied scans-150–224 extract;
 - scans 156–160 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 7–11;
 - scans 161–165 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 12–16;
 - scans 166–170 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 17–21;
@@ -173,8 +172,8 @@ Open holds:
 Current P2 totals:
 
 - records — **224/224**
-- verified — **164**
-- needs-review — **60**
+- verified — **169**
+- needs-review — **55**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
@@ -253,8 +252,23 @@ Current P2 totals:
 - physical-source page-record coverage is now **224/224**.
 - the existing **60 needs-review** fidelity holds remain open.
 
+## Batch 046 — backlog scans 151–155
+
+- backlog records resolved — **5/5**
+- verified — **5**
+- needs-review remaining from this batch — **0**
+- printed folios — **148–152**
+- extract pages — **2–6**
+- full direct source-pixel transcription / punctuation / paragraphing / physical-copy-mark review / mandatory 13-family historical-glyph audit — **COMPLETE**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- scan 152 `சூறாவளி` was decoded by historical `றா` character identity as a first canonical reading, not a correction of an earlier canonical transcription.
+- source-visible unusual forms including `குதாக்கள்`, `கள்ளிக்காடுகளா இருந்து`, `மாகாண மெங்குமுள்ள`, `சிறைச்சாலைகட்கும்`, `உத்திரவிடுவார்கள்`, and `ஏற்றங்களே` were preserved.
+- scan 154 ends at `மண்வெட்டி கொண்டு`; scan 155 begins `விரைவில் செதுக்கியும்விடலாம்.`
+- scan 155 ends at `கடுங்காவல்`; scan 156 was not opened.
+
 ## Exact next activity
 
-**P2 backlog-resolution scans 151–155.**
+**P2 backlog-resolution scans 156–160.**
 
-Use the same supplied extract: pages **2–6 = scans 151–155**. Replace only placeholder/incomplete readings proven directly from enlarged source pixels, perform the mandatory 13-family historical-glyph audit on each page, synchronize controls, commit, and stop before scan 156. Do not start P3 while P2 needs-review records remain.
+Use the same supplied extract: pages **7–11 = scans 156–160**. Replace only placeholder/incomplete readings proven directly from enlarged source pixels, perform the mandatory 13-family historical-glyph audit on each page, synchronize controls, commit, and stop before scan 161. Do not start P3 while P2 needs-review records remain.

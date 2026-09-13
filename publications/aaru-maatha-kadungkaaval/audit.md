@@ -1072,20 +1072,44 @@ Batch 045 result:
 - physical-source canonical-record coverage is complete at **224/224**.
 - all pre-existing needs-review holds remain open and unchanged.
 
-## P2 cumulative totals through scan 224
+### Batch 046 — backlog scans 151–155
+
+Focused archival-fidelity re-read from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 151 — `pages/0151-sirai.md` — **verified** — printed folio 148 — extract page 2
+- scan 152 — `pages/0152-sirai.md` — **verified** — printed folio 149 — extract page 3
+- scan 153 — `pages/0153-sirai.md` — **verified** — printed folio 150 — extract page 4
+- scan 154 — `pages/0154-sirai.md` — **verified** — printed folio 151 — extract page 5
+- scan 155 — `pages/0155-sirai.md` — **verified** — printed folio 152 — extract page 6
+
+Batch 046 result:
+
+- backlog records resolved — **5/5**
+- verified — **5**
+- needs-review remaining from this batch — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- all five previously placeholder records received complete direct source-pixel transcription, punctuation / paragraphing review, physical-copy-mark separation, and the mandatory `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` audit.
+- scan 152 `சூறாவளி` was decoded from historical `றா` identity as the first canonical reading; no historical correction event is counted because there was no prior competing transcription.
+- unusual source-visible forms including `செங்கோ வேந்திகள்`, `குதாக்கள்`, `கள்ளிக்காடுகளா இருந்து`, `மாகாண மெங்குமுள்ள`, `சிறைச்சாலைகட்கும்`, `உத்திரவிடுவார்கள்`, and `ஏற்றங்களே` were preserved without normalization.
+- page-boundary continuity was preserved: scan 154 ends `மண்வெட்டி கொண்டு`; scan 155 begins `விரைவில் செதுக்கியும்விடலாம்.`; scan 155 ends `கடுங்காவல்`.
+- scan 156 was not opened.
+- unrelated holds remain unchanged.
+
+## P2 cumulative totals through Batch 046
 
 - canonical page records — **224/224**
-- verified — **164**
-- needs-review — **60**
+- verified — **169**
+- needs-review — **55**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- unresolved transcription / printed-text holds — **60**:
+- unresolved transcription / printed-text holds — **55**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
   - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
-  - scans 151–155 — exact full-page transcription / punctuation / historical-glyph verification pending focused archival-fidelity re-read of the supplied scans-150–224 extract;
   - scans 156–160 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 7–11;
   - scans 161–165 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 12–16;
   - scans 166–170 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 17–21;
@@ -1112,4 +1136,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 backlog-resolution scans 151–155.**
+**P2 backlog-resolution scans 156–160.**
