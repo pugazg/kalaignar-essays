@@ -1044,7 +1044,7 @@ Batch 041 result:
 - needs-review — **0**
 - blocked — **0**
 - guessed readings — **0**
-- historical-glyph correction count — **unchanged at 9**
+- historical-glyph correction count — **11**
 - all five pages received full direct visual transcription, punctuation/paragraph review, physical-copy-mark separation, and the mandatory 13-family historical-glyph check.
 - source-visible unusual forms including `திருச்சி திராக்களின்`, `எழும்பு மேட்டின்மீது`, and the page-boundary fragments `பெறமுடி` → `யுமே` and `நேரு` → `வுக்கு` were preserved without contextual rewriting.
 - scan 205 historical-form corrections: apparent `என்றுன்` → `என்றான்` (`றா`) and `பதினொரும்` → `பதினொராம்` (`றா`); both were resolved from direct source-pixel identity.
