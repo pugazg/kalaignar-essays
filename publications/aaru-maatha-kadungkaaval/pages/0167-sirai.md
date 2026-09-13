@@ -6,39 +6,54 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual inspection from user-supplied scans-150–224 source extract; exact transcription held pending archival-fidelity re-read"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தின் முழு அச்சு உரை source image-ல் நேரடியாகப் பார்க்கப்பட்டது. ஆனால் ஒவ்வொரு எழுத்து, punctuation, paragraph boundary மற்றும் historical-glyph identity அனைத்தையும் archival fidelity-யுடன் உறுதிசெய்யாமல் ஊகித்து நிரப்பப்படவில்லை.]_
+## கண்ணான நேரம் - பொன்னான வாய்ப்பு!
 
-## Source hold
+நீ படிக்க விரும்புகிறாயா? பள்ளியுண்டு சிறையிலே!
+ஆங்கில தமிழ் நூல்கள் நிறைந்த புத்தக நிலையம் உண்டு.
+உள்ளங் கவர்ந்த ஆசிரியர்களின் ஏடுகளை நீங்கள் தேர்ந்தெடுக்கலாம். எழுத - படிக்க - கற்க முடியும். அவ்வழி செல்ல ஆசிரியரை நாடுக - பொன்னான இவ்வாய்ப்பை இழக்காதீர்கள். சிறந்த மனிதர்கள், சிறையிலேதான் பல கருத்துக்களைப் பெற்றிருக்கிறார்கள்.
 
-- physical scan **167** was opened directly from the user-supplied 75-page extract covering original physical scans **150–224**.
-- extract page — **18**.
+[குறிப்பு: வாசகசாலையையும், பள்ளியையும் பெரும்பாலும் அரசியல் கைதிகள் தான் பயன்படுத்திக்கொள்ள முடிகிறது - ஆர்.]
+
+## உடைகள்:
+
+உனக்கு இரண்டு ஜோடி துணிகளும், ஒரு படுக்கையும் தரப்படும். உடைகள் ஒன்பது மாதங்கள் வரையில் உபயோகிக்க வேண்டும். அவைகள் சுத்தமாகவும், கால வரையறைக்குமேல் உழைக்கக் கூடியதாகவும் வைத்துக் கொண்டால், அதற்காக தனி நாட்குறைப்பு உண்டு. இந்த சலுகைக்கு நாங்கள் ஆக்கம் தருவோம். வேண்டுமென்றே உடைகள் வீணாக்கினால் தண்டனை உண்டு என்பதை மறவாதே. முதல் அறிவுரையையே நீ பின்பற்றுவாய் என்பது உறுதி.
+
+## பேட்டியும் கடிதமும்:
+
+ஒவ்வொருவரும் நண்பர்களையும், உறவினர்களையும் பதினைந்து நாட்களுக்கு ஒருமுறை பேட்டி காணவும் - மாதம் இருமுறை கடிதங்கள் எழுதவும் - வந்த கடிதங்களைப் பெறவும் அனுமதிக்கப்படுவார்கள். தனி சலுகையும் தரப்படும். ஆனால் கண்ணியமாய் நடப்பவருக்கே இந்த சலுகை என்பதை மறவாதே.
+
+## அச்சு அமைப்பு
+
 - visible printed folio — **164**.
-- P1 classification — **main text / `sirai`**.
-- stable mapping — extract page **18** = original physical scan **167**.
-- source image is present and the page identity / folio are directly visible; this is **not** a missing-page or physical-loss hold.
-- continuous Tamil body text and the running-page structure are directly visible.
-- exact body wording, punctuation, paragraphing, meaningful spacing, physical-copy marks, and historical-glyph identities remain to be completed in a focused archival-fidelity re-read.
-- OCR, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into canonical text.
-- no cross-page wording was asserted without full verification.
+- running header — `கருணாநிதி`.
+- extract page **18** = physical scan **167**.
+- source headings `கண்ணான நேரம் - பொன்னான வாய்ப்பு!`, `உடைகள்:`, and `பேட்டியும் கடிதமும்:` were preserved.
+- source-visible `னா` identities in `கண்ணான`, `பொன்னான`, and `வீணாக்கினால்` were decoded directly from the historical glyph forms before Unicode transcription.
+- source-visible forms including `உள்ளங் கவர்ந்த`, `பள்ளியுண்டு`, `கால வரையறைக்குமேல்`, and `கண்ணியமாய்` were preserved without normalization.
+- page ends with complete `இந்த சலுகை என்பதை மறவாதே.`.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- detailed physical-copy-mark audit remains OPEN until the focused re-read.
+- a faint blue vertical physical-copy stroke is visible in the left margin around the lower-middle area; it is not publication text.
+- paper toning / scattered age specks are not publication text.
+- no physical-copy mark obscures canonical wording.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete page inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- historical `னா` was directly checked in `கண்ணான` / `பொன்னான`; historical `ணா` was directly checked in `வீணாக்கினால்`.
+- because the prior record was only a placeholder, these are first canonical decodings and do **not** add correction events.
+- unresolved historical-glyph ambiguity — **0**.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact full-page transcription is deliberately held rather than guessed.
+**verified** — scan 167 placeholder was replaced only after full direct source-pixel transcription and audit.

@@ -6,39 +6,49 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual inspection from user-supplied scans-150–224 source extract; exact transcription held pending archival-fidelity re-read"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தின் முழு அச்சு உரை source image-ல் நேரடியாகப் பார்க்கப்பட்டது. ஆனால் ஒவ்வொரு எழுத்து, punctuation, paragraph boundary மற்றும் historical-glyph identity அனைத்தையும் archival fidelity-யுடன் உறுதிசெய்யாமல் ஊகித்து நிரப்பப்படவில்லை.]_
+அடடா! மறுபடியும் எங்கேயோ - போய்விட்டோமே!
+எதையெடுத்து விவரித்தாலும் இறுதியில் அரசாங்கத் திடம் தான் போய் நிற்கிறது என் செய்வது! நாட்டின் நன்மை தீமைகளுக்கு அரசோச்சுகிறவர்கள் தானே பொறுப்பாளிகள். ஆகவே நாம் அந்த இடத்திற்குப் போய்விடுவதில் ஆச்சரியமில்லை.
 
-## Source hold
+சரி, மீண்டும் சிறைச்சாலைக்கே வருவோம். சிறையில் நுழையும் கைதிகளுக்கு சிறையின் சட்ட திட்டங்கள் - வசதிகள் பற்றி - வெளியிலேயுள்ள ‘குவாரண்டைனில்’ குறிப்பிட்டிருக்கிறார்கள் என்று முன்பு சொன்னேன். இதை நீங்கள் படித்துக்கொண்டால் சிறைச்சாலையைப் பற்றிய முழு விபரங்கள் கூடியவரையில் பெற்றுவிடுவீர்கள். பிறகு நமது கதையைத் தொடருவோம். இதோ-படியுங்கள்! நான் மொழி பெயர்த்து - ராஜன் சுவரில் தீட்டியது இதுதான்!
 
-- physical scan **166** was opened directly from the user-supplied 75-page extract covering original physical scans **150–224**.
-- extract page — **17**.
+## நினைவுக்கு!
+
+‘குவாரண்டைன்’ இதுதான். இங்கு நீங்கள் பத்து நாட்கள் வைக்கப்படுவீர்கள். இங்கே நீங்களும் உங்கள் சகோதரக் கைதிகளும், வியாதியிலிருந்து பாதுகாக்கப்படுவீர்கள். டாக்டர்கள் கடமை புரிய ஒத்துழையுங்கள். அவர்கள் நோய் நீக்கப் பாடுபடுகிறவர்கள்.
+
+## கவனிக்க!
+
+எந்த வேலையை விரும்புகிறாய்? தச்சுவேலையா? தறிவேலையா? தையற் தொழிலா? புத்தகம் தைப்பதா? பயிர்த் தொழிலா? பாய் பின்னுவதா? தேவையானதைத் தேர்ந்தெடு. வெளியில் நீ செய்த வேலையையும் - இங்கே விரும்பும் வேலையையும் சிறையதிகாரியிடம் கூறு. அவர் உனக்கு நல்ல வேலை வழங்குவார்.
+
+## அச்சு அமைப்பு
+
 - visible printed folio — **163**.
-- P1 classification — **main text / `sirai`**.
-- stable mapping — extract page **17** = original physical scan **166**.
-- source image is present and the page identity / folio are directly visible; this is **not** a missing-page or physical-loss hold.
-- continuous Tamil body text and the running-page structure are directly visible.
-- exact body wording, punctuation, paragraphing, meaningful spacing, physical-copy marks, and historical-glyph identities remain to be completed in a focused archival-fidelity re-read.
-- OCR, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into canonical text.
-- no cross-page wording was asserted without full verification.
+- running header — `ஆறுமாதக் கடுங்காவல்`.
+- extract page **17** = physical scan **166**.
+- source-visible headings `நினைவுக்கு!` and `கவனிக்க!` were retained.
+- source-visible forms including `அரசாங்கத் திடம்`, `என் செய்வது`, `அரசோச்சுகிறவர்கள்`, `இதோ-படியுங்கள்`, `மொழி பெயர்த்து`, `தறிவேலையா`, and `சிறையதிகாரியிடம்` were preserved without normalization.
+- page ends with complete `அவர் உனக்கு நல்ல வேலை வழங்குவார்.`.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- detailed physical-copy-mark audit remains OPEN until the focused re-read.
+- paper toning / scattered age specks are not publication text.
+- no physical-copy mark obscures the canonical body wording.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete page inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- representative sensitive clusters including `வேலையை`, `வெளியில்`, `சிறையில்`, and `நினைவுக்கு` were checked by character identity.
+- unresolved historical-glyph ambiguity — **0**.
+- no global replacement or spelling modernization was used.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact full-page transcription is deliberately held rather than guessed.
+**verified** — scan 166 placeholder was replaced only after full direct source-pixel transcription and audit.

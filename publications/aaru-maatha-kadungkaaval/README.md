@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 179 verified / 45 needs-review**
+- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 184 verified / 40 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -160,7 +160,6 @@ Open holds:
 - scan 18 — one physically obscured cluster after `ஒருவராக ஆ`;
 - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
 - scans 161–165 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 12–16;
-- scans 166–170 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 17–21;
 - scans 171–175 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 22–26;
 - scans 176–180 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 27–31;
 - scans 181–185 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 32–36;
@@ -171,8 +170,8 @@ Open holds:
 Current P2 totals:
 
 - records — **224/224**
-- verified — **179**
-- needs-review — **45**
+- verified — **184**
+- needs-review — **40**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
@@ -291,8 +290,23 @@ Current P2 totals:
 - extract pages — **12–16**
 - scan 166 was not opened.
 
+## Batch 049 — backlog scans 166–170
+
+- backlog records resolved — **5/5**
+- verified — **5**
+- needs-review remaining from this batch — **0**
+- printed folios — **163–167**
+- extract pages — **17–21**
+- full direct source-pixel transcription / punctuation / paragraphing / physical-copy-mark review / mandatory 13-family historical-glyph audit — **COMPLETE**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- scan 167 historical `னா` / `ணா` forms were decoded directly as first canonical readings, not correction events.
+- scan 169 preserves the bracketed source note and printed star.
+- scan 170 preserves source quotation practice.
+- scan 171 was not opened.
+
 ## Exact next activity
 
-**P2 backlog-resolution scans 166–170.**
+**P2 backlog-resolution scans 171–175.**
 
-Use extract pages **17–21**. Apply the same direct source-pixel archival-fidelity protocol, synchronize controls, commit, and stop before scan 171.
+Use the same supplied extract: pages **22–26 = scans 171–175**. Apply the same direct source-pixel archival-fidelity protocol, synchronize controls, commit, and stop before scan 176. Do not start P3 while P2 needs-review records remain.

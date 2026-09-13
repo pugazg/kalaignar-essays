@@ -1146,20 +1146,44 @@ Batch 048 result:
 - scan 165 was fully closed; scan 166 was not opened.
 - unrelated holds remain unchanged.
 
-## P2 cumulative totals through Batch 048
+### Batch 049 — backlog scans 166–170
+
+Focused archival-fidelity re-read from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 166 — `pages/0166-sirai.md` — **verified** — printed folio 163 — extract page 17
+- scan 167 — `pages/0167-sirai.md` — **verified** — printed folio 164 — extract page 18
+- scan 168 — `pages/0168-sirai.md` — **verified** — printed folio 165 — extract page 19
+- scan 169 — `pages/0169-sirai.md` — **verified** — printed folio 166 — extract page 20
+- scan 170 — `pages/0170-sirai.md` — **verified** — printed folio 167 — extract page 21
+
+Batch 049 result:
+
+- backlog records resolved — **5/5**
+- verified — **5**
+- needs-review remaining from this batch — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- all five prior placeholders received complete direct source-pixel transcription, punctuation / paragraphing review, physical-copy-mark separation, and mandatory 13-family historical-glyph audit.
+- scan 167 historical `னா` / `ணா` forms were decoded directly as first canonical readings, not corrections.
+- scan 169 printed star and bracketed note were preserved as publication matter.
+- scan 170 source quotation practice was preserved without editorial completion.
+- scan 171 was not opened.
+- unrelated holds remain unchanged.
+
+## P2 cumulative totals through Batch 049
 
 - canonical page records — **224/224**
-- verified — **179**
-- needs-review — **45**
+- verified — **184**
+- needs-review — **40**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- unresolved transcription / printed-text holds — **45**:
+- unresolved transcription / printed-text holds — **40**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
   - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
-  - scans 166–170 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 17–21;
   - scans 171–175 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 22–26;
   - scans 176–180 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 27–31;
   - scans 181–185 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 32–36;
@@ -1183,4 +1207,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 backlog-resolution scans 166–170.**
+**P2 backlog-resolution scans 171–175.**
