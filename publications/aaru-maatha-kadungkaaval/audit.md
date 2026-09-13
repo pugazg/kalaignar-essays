@@ -967,12 +967,12 @@ Batch 041 result:
 - needs-review — **0**
 - blocked — **0**
 - guessed readings — **0**
-- historical-glyph correction count — **unchanged at 9**
+- historical-glyph correction count — **11**
 - complete source wording, punctuation and paragraph structure were transcribed from direct source pixels.
 - mandatory `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` checks were completed on every page.
 - non-print paper/age marks were kept outside canonical publication text.
 - source-visible forms including `திருச்சி திராக்களின்` and `எழும்பு மேட்டின்மீது` were preserved rather than normalized.
-- scan 205 `என்றான்` was decoded as historical `றா` identity; no earlier canonical wrong reading existed, so the correction-event count remains 9.
+- scan 205 historical-form corrections: apparent `என்றுன்` → `என்றான்` (`றா`) and `பதினொரும்` → `பதினொராம்` (`றா`), both resolved from direct source pixels.
 - scan 206 was not opened.
 
 ## P2 cumulative totals through scan 205
@@ -982,7 +982,7 @@ Batch 041 result:
 - needs-review — **58**
 - blocked — **0**
 - guessed readings — **0**
-- historical-glyph corrections — **9**
+- historical-glyph corrections — **11**
 - unresolved transcription / printed-text holds — **58**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;

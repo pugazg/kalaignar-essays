@@ -177,7 +177,7 @@ Current P2 totals:
 - needs-review — **58**
 - blocked — **0**
 - guessed readings — **0**
-- historical-glyph corrections — **9**
+- historical-glyph corrections — **11**
 
 ## Batch 041 — scans 201–205
 
@@ -187,8 +187,9 @@ Current P2 totals:
 - full direct visual transcription / punctuation / paragraphing / physical-copy-mark separation / mandatory 13-family historical-glyph check — **COMPLETE**
 - new needs-review holds — **0**
 - guessed readings — **0**
-- historical-glyph correction count — **unchanged at 9**
+- historical-glyph correction count — **11**
 - source-visible unusual forms and page-boundary fragments were preserved without contextual reconstruction.
+- scan 205 historical-form corrections: apparent `என்றுன்` → `என்றான்` (`றா`) and `பதினொரும்` → `பதினொராம்` (`றா`).
 - scan 206 was not opened.
 
 ## Exact next activity

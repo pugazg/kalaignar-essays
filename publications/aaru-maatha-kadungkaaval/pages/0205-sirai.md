@@ -17,7 +17,7 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 
 “கண்டனம் தெரிவித்தோர் காட்டுமிராண்டிகள். காட்டுமிராண்டிகள் கூட அல்ல; அவர்கள் எவ்வளவோ மேல்! இவர்கள் அவரினும் இழிமக்கள்” என்று சூடு மொழி கூறினர் மூன்றாவது முறை! “எனக்கு நிகர் யாருமில்லை - எல்லாமே நான்தான்” என்றான் பதினெட்டாம் லூயி! அப்போது பிரான்ஸ் கொதித்தது! “புரட்சி வந்தால் எனக்குப் பின்னால் வரட்டும்” என்று கூறின பதினைந்தாம் லூயி! பிரான்ஸ் குமுறியது!
 
-“ஒரு கை பார்ப்போம்” என்றுன் பாஸ்டிலியின் காவலன் பதினொரும் லூயி! பிரான்சின் எரிமலை வெடித்தே விட்டது!
+“ஒரு கை பார்ப்போம்” என்றான் பாஸ்டிலியின் காவலன் பதினொராம் லூயி! பிரான்சின் எரிமலை வெடித்தே விட்டது!
 
 இவர்களிலே எந்த லூயி - நேருவின் வடிவத்திலே பேசுகிறதோ நமக்குத் தெரியாது! ‘உலக சரித்திரம்’ எழுதிய நேருவுக்குத்தான் தெரியும்!
 
@@ -29,7 +29,7 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - running header — `கருணாநிதி`.
 - extract page **56** = physical scan **205**.
 - page begins with source-visible continuation fragment `வுக்கு` from scan 204's `நேரு`.
-- source-visible historical-form cluster in `என்றான்` was decoded by character identity rather than copied as a modern look-alike.
+- source-visible historical-form clusters in `என்றான்` and `பதினொராம்` were decoded by character identity rather than copied as modern look-alikes.
 - page ends with complete `நேரு போன்றவர்களுக்கு!`.
 - scan 206 was not opened.
 
@@ -42,10 +42,11 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 
 - complete page inspected directly from enlarged source pixels.
 - explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- the old-form cluster in `என்றான்` was read as historical `றா` identity and encoded in modern Unicode without changing the word.
+- apparent `என்றுன்` was resolved as `என்றான்` by historical `றா` identity.
+- apparent `பதினொரும்` was resolved as `பதினொராம்` by historical `றா` identity.
 - `மன்னித்தோம்`, `நான்தான்`, `பின்னால்`, `கண்கள்` and other candidate clusters were checked individually.
 - unresolved historical-glyph ambiguity — **0**.
-- this is character-identity decoding, not a counted correction to an earlier canonical reading; cumulative correction count remains **9**.
+- these two historical-form corrections are counted; cumulative historical-glyph correction count is **11**.
 
 ## P2 நிலை
 

@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 041 / P2 scans 206–210** reached the durable state **205/224 canonical records; 147 verified / 58 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 041 / P2 scans 201–205** reached the durable state **205/224 canonical records; 147 verified / 58 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -542,7 +542,7 @@ Batch 022 result:
 - needs-review — **0**
 - new printed-text holds — **0**
 - guessed readings — **0**
-- historical-glyph correction count — **unchanged at 9**
+- historical-glyph correction count — **11**
 - mandatory 13-family historical-glyph check was performed on scans 106 and 110; stylized scan 108 lettering was also directly checked.
 - scan 105 terminal `ஆகி` → scan 106 `யோரிடம்` continuation was confirmed directly, establishing `ஆகியோரிடம்` while preserving the physical page split.
 - scan 106 source-visible unusual forms including `சாப்பிட்டானபிறகுதான்`, `அகிம்சாப் ‘பிடாரி’`, `நின்றுளா`, `அநேகர்`, `ஐயாயிரம்பேர்`, and `ஐயாயிரவர்` were preserved without contextual normalization.
@@ -1027,7 +1027,7 @@ Batch 040 result:
 - exact full-page transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory 13-family historical-glyph gate remain OPEN on scans 196–200.
 - all prior holds remain unchanged.
 
-### Batch 041 — scans 206–210
+### Batch 041 — scans 201–205
 
 Opened directly from the user-supplied **75-page scans-150–224 extract**:
 
@@ -1047,7 +1047,7 @@ Batch 041 result:
 - historical-glyph correction count — **unchanged at 9**
 - all five pages received full direct visual transcription, punctuation/paragraph review, physical-copy-mark separation, and the mandatory 13-family historical-glyph check.
 - source-visible unusual forms including `திருச்சி திராக்களின்`, `எழும்பு மேட்டின்மீது`, and the page-boundary fragments `பெறமுடி` → `யுமே` and `நேரு` → `வுக்கு` were preserved without contextual rewriting.
-- scan 205 historical `றா` identity in `என்றான்` was decoded directly; because there was no earlier canonical wrong reading, the cumulative correction-event count remains unchanged.
+- scan 205 historical-form corrections: apparent `என்றுன்` → `என்றான்` (`றா`) and `பதினொரும்` → `பதினொராம்` (`றா`); both were resolved from direct source-pixel identity.
 - scan 206 was not opened.
 
 ## Durable P2 totals
@@ -1057,7 +1057,7 @@ Batch 041 result:
 - needs-review — **58**
 - blocked — **0**
 - guessed readings — **0**
-- historical-glyph corrections — **9**
+- historical-glyph corrections — **11**
 - open transcription / printed-text holds — **58**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
@@ -1083,7 +1083,7 @@ Process exactly scans **206–210** as one five-scan batch from the user-supplie
 - extract pages 57–61 = physical scans 206–210;
 - P1 classifies scans 206–210 as main text;
 - preserve all existing needs-review holds; do not reconstruct them from context;
-- inspect every physical scan 201–205 directly;
+- inspect every physical scan 206–210 directly;
 - perform the mandatory historical-glyph family checks on every text-bearing page;
 - record visible printed folios only;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;

@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is authoritative. Publications **1–11 remain RELEASE COMPLETE / FROZEN**.
 
-Durable state after Batch 041: **P2 = 205/224 canonical records; 147 verified / 58 needs-review; 0 blocked; 0 guessed readings; 9 historical-glyph corrections**.
+Durable state after Batch 041: **P2 = 205/224 canonical records; 147 verified / 58 needs-review; 0 blocked; 0 guessed readings; 11 historical-glyph corrections**.
 
 ## Source
 
@@ -29,7 +29,7 @@ Do not use OCR, web copies, alternate editions, contextual reconstruction, Wikis
 - full direct visual transcription / punctuation / paragraphing / physical-copy-mark separation / mandatory 13-family historical-glyph check completed
 - source-visible unusual forms were preserved without normalization
 - guessed readings 0
-- historical-glyph correction count unchanged at 9
+- historical-glyph correction count 11; Batch 041 added two scan-205 historical-form corrections (`என்றுன்` → `என்றான்`, `பதினொரும்` → `பதினொராம்`)
 - scan 206 was not opened
 - all earlier holds remain open
 
