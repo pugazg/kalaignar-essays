@@ -7,7 +7,7 @@ Controlling attached source: `TVA_BOK_0064140_ஆறுமாதக்_கடு
 - P0 — **COMPLETE / PASS**
 - physical source scans — **224**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 215/224 canonical records**
+- P2 — **IN PROGRESS — 220/224 canonical records**
 
 Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVIEW.md)
 
@@ -273,12 +273,17 @@ P1 extension result:
 | 213 | `../pages/0213-sirai.md` | verified |
 | 214 | `../pages/0214-sirai.md` | verified |
 | 215 | `../pages/0215-sirai.md` | verified |
+| 216 | `../pages/0216-sirai.md` | verified |
+| 217 | `../pages/0217-sirai.md` | needs-review |
+| 218 | `../pages/0218-sirai.md` | verified |
+| 219 | `../pages/0219-sirai.md` | verified |
+| 220 | `../pages/0220-sirai.md` | verified |
 
 Current P2 totals:
 
-- coverage — **215/224**
-- verified — **156**
-- needs-review — **59**
+- coverage — **220/224**
+- verified — **160**
+- needs-review — **60**
 - blocked — **0**
 
 Open holds:
@@ -289,6 +294,7 @@ Open holds:
 - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
 - scans 151–200 — exact full-page transcription / punctuation / physical-copy-mark and historical-glyph verification pending focused archival-fidelity re-read of the supplied extract.
 - scan 211 — one physical-copy dark/blue mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was guessed.
+- scan 217 — one source-visible word immediately after `மணிமேடாக` and before `!` remains unresolved; no contextual reading was inserted.
 
 ## Printed-folio anomaly already established
 
@@ -302,4 +308,4 @@ Scans 16–17 remain independent physical page records.
 
 ## Exact next activity
 
-**P2 scans 216–220.**
+**P2 final scans 221–224.**

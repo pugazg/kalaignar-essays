@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 215/224 canonical records; 156 verified / 59 needs-review**
+- P2 — **IN PROGRESS — 220/224 canonical records; 160 verified / 60 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–215**.
+Completed records: **scans 1–220**.
 
 Notable durable findings:
 
@@ -172,9 +172,9 @@ Open holds:
 
 Current P2 totals:
 
-- records — **215/224**
-- verified — **156**
-- needs-review — **59**
+- records — **220/224**
+- verified — **160**
+- needs-review — **60**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
@@ -220,8 +220,24 @@ Current P2 totals:
 - source-visible `நாறுபது`, `நாறு நாட்கள்`, `ஜாலியன் வாலாபாக்`, `தர்பார் சூரர்களோ`, and other unusual forms were preserved.
 - scan 215 ends at `இந்தச் சிறு சந்தடிகளுக்`; scan 216 was not opened.
 
+## Batch 044 — scans 216–220
+
+- records — **5/5**
+- verified — **4**
+- needs-review — **1**
+- printed folios — **213–217**
+- extract pages — **67–71**
+- mandatory 13-family historical-glyph check — **COMPLETE on all five pages**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 11**
+- scan 217 remains needs-review because one source-visible word immediately after `மணிமேடாக` and before `!` could not be securely decoded; no contextual reading was supplied.
+- scans 216 and 218–220 are fully verified.
+- scan 218 contains the printed star separator and source heading `சிறை திறந்தது`.
+- source-visible unusual forms were preserved without normalization.
+- scan 220 closes with a printed star separator; scan 221 was not opened.
+
 ## Exact next activity
 
-**P2 scans 216–220.**
+**P2 final scans 221–224.**
 
-Process exactly scans **216–220** as the next five-scan batch from live durable state. The supplied extract maps pages **67–71** to scans **216–220**. Preserve all existing needs-review holds; do not guess them. Inspect scans 216–220 directly, synchronize controls, commit, and stop before scan 221.
+Process exactly scans **221–224** as the final four-scan P2 batch from live durable state. The supplied extract maps pages **72–75** to scans **221–224**. P1 classifies scans 221–223 as main text and scan 224 as back cover / publisher device. Preserve all existing needs-review holds; do not guess them. Inspect scans 221–224 directly, synchronize controls, commit, and stop before backlog-resolution or P3 work.

@@ -1023,15 +1023,40 @@ Batch 043 result:
 - source-visible unusual forms including `ஆட்சேபணையில்லையென்று`, `நாறுபது`, `நாறு நாட்கள்`, `ஜாலியன் வாலாபாக்`, `தர்பார் சூரர்களோ`, `முடிக்கிடந்த முக்காடுகள்`, `காகப்பட்டரின்`, and `அக்கிரகாரத்தின்` were preserved.
 - scan 215 ends at `இந்தச் சிறு சந்தடிகளுக்`; scan 216 was not opened.
 
-## P2 cumulative totals through scan 215
+### Batch 044 — scans 216–220
 
-- canonical page records — **215/224**
-- verified — **156**
-- needs-review — **59**
+Opened directly from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 216 — `pages/0216-sirai.md` — **verified** — printed folio 213 — extract page 67
+- scan 217 — `pages/0217-sirai.md` — **needs-review** — printed folio 214 — extract page 68
+- scan 218 — `pages/0218-sirai.md` — **verified** — printed folio 215 — extract page 69
+- scan 219 — `pages/0219-sirai.md` — **verified** — printed folio 216 — extract page 70
+- scan 220 — `pages/0220-sirai.md` — **verified** — printed folio 217 — extract page 71
+
+Batch 044 result:
+
+- records created — **5/5**
+- verified — **4**
+- needs-review — **1**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 11**
+- all five pages were inspected directly at enlarged/high-resolution source pixels and received the mandatory `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` check.
+- scan 217 has one source-visible word immediately after `மணிமேடாக` and before `!` whose exact reading remains insecure; `[…]` was retained rather than a contextual completion.
+- scans 216 and 218–220 are fully verified.
+- scan 218 contains the printed star separator and source heading `சிறை திறந்தது`.
+- source-visible unusual forms including `ஒழிக்கப்படடாகவேண்டும்`, `மாகினட்`, `ஜாலியன் வாலாபாக்`, `நாட்டுக்கு நன்கு புலனாகப் போகாது`, `கழகத்தின்சார்பாக`, and `பெருமைக்காகும் படைவீரர்` were preserved.
+- scan 220 closes with a printed star separator; scan 221 was not opened.
+
+## P2 cumulative totals through scan 220
+
+- canonical page records — **220/224**
+- verified — **160**
+- needs-review — **60**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- unresolved transcription / printed-text holds — **59**:
+- unresolved transcription / printed-text holds — **60**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
@@ -1047,6 +1072,7 @@ Batch 043 result:
   - scans 191–195 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 42–46;
   - scans 196–200 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 47–51.
   - scan 211 — one physical-copy dark/blue mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was guessed.
+  - scan 217 — one source-visible word immediately after `மணிமேடாக` and before `!` remains unresolved after enlarged source inspection; no contextual reading was inserted.
 
 ## Durable physical anomaly
 
@@ -1062,4 +1088,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 216–220.**
+**P2 final scans 221–224.**
