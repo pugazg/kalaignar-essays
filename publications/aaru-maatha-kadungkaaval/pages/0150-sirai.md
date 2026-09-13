@@ -29,7 +29,7 @@ transcription_method: "direct visual comparison with source scan"
 - running header — `ஆறுமாதக் கடுங்காவல்`.
 - scan 149 terminal `புறப்படு` continues directly with this page’s `கிறார்கள்.`, establishing `புறப்படுகிறார்கள்.`.
 - source-visible forms including `காட்டிக்கிறார்கள்`, `கரைத்துவிட்டார்கள்-`, `ஏகாதிபத்யம்`, `பேச்சு-புதுக்`, `செளகர்யம்`, `போட்டுத் தண்டித்தது`, and `ஸ்தானத்திலேயிருக்கும்` were preserved.
-- page ends with complete `ஆலை போன்ற நமது நாடு!`; scan 151 was **not opened**.
+- page ends with complete `ஆலை போன்ற நமது நாடு!`; scan 151 has now been opened in the user-supplied scans-150–224 extract, but no cross-page wording is asserted until scan 151 receives a full archival-fidelity re-read.
 
 ## அச்சு அல்லாத / physical-copy marks
 

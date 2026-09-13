@@ -54,7 +54,7 @@ P1 extension result:
 - source PDF is never committed;
 - section headings embedded on text-bearing pages remain part of main-text page records in P2.
 
-## P2 record status through scan 150
+## P2 record status through scan 155
 
 | Scan | Canonical record | Status |
 |---:|---|---|
@@ -208,12 +208,17 @@ P1 extension result:
 | 148 | `../pages/0148-sirai.md` | verified |
 | 149 | `../pages/0149-sirai.md` | verified |
 | 150 | `../pages/0150-sirai.md` | verified |
+| 151 | `../pages/0151-sirai.md` | needs-review |
+| 152 | `../pages/0152-sirai.md` | needs-review |
+| 153 | `../pages/0153-sirai.md` | needs-review |
+| 154 | `../pages/0154-sirai.md` | needs-review |
+| 155 | `../pages/0155-sirai.md` | needs-review |
 
 Current P2 totals:
 
-- coverage — **150/224**
+- coverage — **155/224**
 - verified — **142**
-- needs-review — **8**
+- needs-review — **13**
 - blocked — **0**
 
 Open holds:
@@ -235,4 +240,4 @@ Scans 16–17 remain independent physical page records.
 
 ## Exact next activity
 
-**P2 scans 151–155.**
+**P2 scans 156–160.**

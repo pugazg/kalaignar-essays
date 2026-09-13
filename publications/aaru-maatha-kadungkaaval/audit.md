@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 150/224 records; 142 verified / 8 needs-review** |
+| P2 | **IN PROGRESS — 155/224 records; 142 verified / 13 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -101,6 +101,7 @@ Minimum explicit family set:
 | 028 | 136–140 | 5 | 0 | 0 |
 | 029 | 141–145 | 5 | 0 | 0 |
 | 030 | 146–150 | 5 | 0 | 0 |
+| 031 | 151–155 | 0 | 5 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -698,19 +699,44 @@ Batch 030 result:
 - scan 150 ends with complete `ஆலை போன்ற நமது நாடு!`; scan 151 was **not opened**.
 - existing needs-review holds at scans 126–130 were left unchanged and were not reconstructed from context.
 
-## P2 cumulative totals through scan 150
+### Batch 031 — scans 151–155
 
-- canonical page records — **150/224**
+Opened directly from the user-supplied **75-page scans-150–224 extract** of the controlling source:
+
+- scan 151 — `pages/0151-sirai.md` — **needs-review** — printed folio 148 — extract page 2
+- scan 152 — `pages/0152-sirai.md` — **needs-review** — printed folio 149 — extract page 3
+- scan 153 — `pages/0153-sirai.md` — **needs-review** — printed folio 150 — extract page 4
+- scan 154 — `pages/0154-sirai.md` — **needs-review** — printed folio 151 — extract page 5
+- scan 155 — `pages/0155-sirai.md` — **needs-review** — printed folio 152 — extract page 6
+
+Batch 031 result:
+
+- records created — **5/5**
+- verified — **0**
+- needs-review — **5**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- page identity and visible folios were directly confirmed from source pixels.
+- extract page 1 visibly duplicates original scan 150 / printed folio 147, establishing the stable mapping **extract page N = physical scan N+149** for this supplied slice.
+- body text was **not** reconstructed from context or OCR where archival-fidelity character/punctuation/glyph confirmation was not secure.
+- mandatory 13-family historical-glyph audit remains OPEN on these five pages until a focused full-resolution re-read completes their exact transcriptions.
+- existing holds at scans 3, 4, 18, and 126–130 remain unchanged.
+
+## P2 cumulative totals through scan 155
+
+- canonical page records — **155/224**
 - verified — **142**
-- needs-review — **8**
+- needs-review — **13**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **9**
-- unresolved transcription / printed-text holds — **8**:
+- unresolved transcription / printed-text holds — **13**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
-  - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read.
+  - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
+  - scans 151–155 — exact full-page transcription / punctuation / historical-glyph verification pending focused archival-fidelity re-read of the supplied scans-150–224 extract.
 
 ## Durable physical anomaly
 
@@ -726,4 +752,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 151–155.**
+**P2 scans 156–160.**

@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 030 / P2 scans 146–150** reached the durable state **150/224 canonical records; 142 verified / 8 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 031 / P2 scans 151–155** reached the durable state **155/224 canonical records; 142 verified / 13 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 150/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 155/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 150/224 records; 142 verified / 8 needs-review**
+- P2 — **IN PROGRESS — 155/224 records; 142 verified / 13 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -785,36 +785,62 @@ Batch 030 result:
 - existing needs-review holds at scans 126–130 were left unchanged and were not reconstructed from context.
 
 
+### Batch 031 — scans 151–155
+
+Opened directly from the user-supplied **75-page scans-150–224 extract** of the controlling source:
+
+- scan 151 — `pages/0151-sirai.md` — **needs-review** — printed folio 148 — extract page 2
+- scan 152 — `pages/0152-sirai.md` — **needs-review** — printed folio 149 — extract page 3
+- scan 153 — `pages/0153-sirai.md` — **needs-review** — printed folio 150 — extract page 4
+- scan 154 — `pages/0154-sirai.md` — **needs-review** — printed folio 151 — extract page 5
+- scan 155 — `pages/0155-sirai.md` — **needs-review** — printed folio 152 — extract page 6
+
+Batch 031 result:
+
+- records created — **5/5**
+- verified — **0**
+- needs-review — **5**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- page identity and visible folios were directly confirmed from source pixels.
+- extract page 1 visibly duplicates original scan 150 / printed folio 147, establishing the stable mapping **extract page N = physical scan N+149** for this supplied slice.
+- body text was **not** reconstructed from context or OCR where archival-fidelity character/punctuation/glyph confirmation was not secure.
+- mandatory 13-family historical-glyph audit remains OPEN on these five pages until a focused full-resolution re-read completes their exact transcriptions.
+- existing holds at scans 3, 4, 18, and 126–130 remain unchanged.
+
 ## Durable P2 totals
 
-- canonical page records — **150/224**
+- canonical page records — **155/224**
 - verified — **142**
-- needs-review — **8**
+- needs-review — **13**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **9**
-- open transcription / printed-text holds — **8**:
+- open transcription / printed-text holds — **13**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — one physically obscured cluster after `ஒருவராக ஆ`;
-  - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read.
+  - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
+  - scans 151–155 — exact full-page transcription / punctuation / historical-glyph verification pending focused archival-fidelity re-read of the supplied scans-150–224 extract.
 
 ## Exact next activity
 
-**P2 scans 151–155.**
+**P2 scans 156–160.**
 
-Process exactly scans **151–155** as one five-scan batch from the attached PDF:
+Process exactly scans **156–160** as one five-scan batch from the user-supplied scans-150–224 extract:
 
-- P1 classifies scans 151–155 as main text;
-- preserve Batch 026 scans 126–130 as explicit needs-review holds until a focused source re-read finishes them; do not reconstruct them from context;
-- inspect every physical scan 151–155 directly rather than relying on the structural map alone;
+- extract page mapping is stable: page 1 = scan 150, therefore pages 7–11 = scans 156–160;
+- P1 classifies scans 156–160 as main text;
+- preserve all existing needs-review holds at scans 3, 4, 18, 126–130, and 151–155; do not reconstruct them from context;
+- inspect every physical scan 156–160 directly rather than relying on the structural map alone;
 - perform the mandatory historical-glyph family checks on every text-bearing page;
 - record visible printed folios only;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 156 unless explicitly asked to continue.
+- stop before scan 161 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 

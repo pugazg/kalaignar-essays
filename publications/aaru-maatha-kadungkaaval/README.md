@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–150**.
+Completed records: **scans 1–155**.
 
 Notable durable findings:
 
@@ -133,24 +133,27 @@ Notable durable findings:
 
 - scans 146–150 — **5/5 verified**, printed folios **143–147**, no new holds. Scan 145→146 and scan 149→150 continuations were directly confirmed; scan 145 terminal was corrected from provisional `தன்னிட்` to source-visible `தன்னிட`. Source-visible `அம்படிப்பட்ட`, `‘நான்சென்ஸ்’`, `காட்டிக்கிறார்கள்`, `ஏகாதிபத்யம்`, and `செளகர்யம்` were preserved. Historical-glyph correction count remains **9**.
 
+- scans 151–155 — **0 verified / 5 needs-review**, printed folios **148–152**. All five pages were opened directly from the user-supplied scans-150–224 extract; page identity and folios are confirmed. Exact body transcription and the mandatory historical-glyph gate remain open rather than being filled from uncertain preview readings. Guessed readings remain **0**; historical-glyph correction count remains **9**.
+
 Open holds:
 
 - scan 3 — small imprint/printer text;
 - scan 4 — full publisher-note transcription;
 - scan 18 — one physically obscured cluster after `ஒருவராக ஆ`;
-- scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read.
+- scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
+- scans 151–155 — exact full-page transcription / punctuation / historical-glyph verification pending focused archival-fidelity re-read of the supplied scans-150–224 extract.
 
 Current P2 totals:
 
-- records — **150/224**
+- records — **155/224**
 - verified — **142**
-- needs-review — **8**
+- needs-review — **13**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **9**
 
 ## Exact next activity
 
-**P2 scans 151–155.**
+**P2 scans 156–160.**
 
-Process exactly scans **151–155** as the next five-scan batch from live durable state. P1 classifies all five as main text. Preserve the Batch 026 verification holds at scans 126–130 for a focused high-resolution re-read; do not guess them. Inspect scans 151–155 directly, synchronize controls, commit, and stop before scan 156.
+Process exactly scans **156–160** as the next five-scan batch from live durable state. The supplied 75-page extract maps extract page 7→scan 156 through extract page 11→scan 160. Preserve all existing needs-review holds (scans 3, 4, 18, 126–130, 151–155); do not guess them. Inspect scans 156–160 directly, synchronize controls, commit, and stop before scan 161.

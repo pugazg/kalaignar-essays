@@ -102,14 +102,14 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 150/224 canonical records; 142 verified / 8 needs-review**
+- P2 — **IN PROGRESS — 155/224 canonical records; 142 verified / 13 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 150
+## P2 source use through scan 155
 
-Canonical records exist for scans **1–150**.
+Canonical records exist for scans **1–155**.
 
 Latest batch scans 96–100:
 
@@ -269,6 +269,18 @@ Latest batch scans 146–150:
 - scan 150 ends with complete `ஆலை போன்ற நமது நாடு!`; scan 151 was not opened.
 - scans 126–130 remain explicit needs-review holds and were not reconstructed from context.
 
+Latest batch scans 151–155:
+
+- user supplied a **75-page extract covering original physical scans 150–224**.
+- extract page 1 visibly duplicates original scan 150 / printed folio 147; therefore extract pages 2–6 map directly to scans 151–155.
+- printed folios — **148–152**
+- verified — **0/5**
+- needs-review — **5/5**
+- guessed readings — **0**
+- cumulative historical-glyph corrections — **9**
+- exact body transcription, punctuation, paragraphing, physical-copy-mark audit, and mandatory historical-glyph verification remain open for these five pages rather than being reconstructed from uncertain preview readings.
+- this extract is a derivative slice of the same controlling source and is not treated as an alternate edition.
+
 Durable source-artifact anomaly:
 
 - scans 16–17 repeat printed folios 13–14;
@@ -280,8 +292,9 @@ Open printed-text holds:
 - scan 3 — small imprint/printer text;
 - scan 4 — exact publisher-note transcription;
 - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
-- scans 126–130 — exact transcription / historical-glyph verification pending focused high-resolution source re-read.
+- scans 126–130 — exact transcription / historical-glyph verification pending focused high-resolution source re-read;
+- scans 151–155 — exact transcription / punctuation / historical-glyph verification pending focused archival-fidelity re-read of the supplied extract.
 
 ## Exact next activity
 
-**P2 scans 151–155.**
+**P2 scans 156–160.**
