@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 176–180
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 scans 181–185
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
 
@@ -6,7 +6,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is authoritative. Publications **1–11 remain RELEASE COMPLETE / FROZEN**.
 
-Durable state after Batch 035: **P2 = 175/224 canonical records; 142 verified / 33 needs-review; 0 blocked; 0 guessed readings; 9 historical-glyph corrections**.
+Durable state after Batch 036: **P2 = 180/224 canonical records; 142 verified / 38 needs-review; 0 blocked; 0 guessed readings; 9 historical-glyph corrections**.
 
 ## Source
 
@@ -16,24 +16,24 @@ Mapping:
 
 **extract page N = original physical scan N+149**
 
-Therefore extract pages **27–31 = scans 176–180**.
+Therefore extract pages **32–36 = scans 181–185**.
 
 Do not use OCR, web copies, alternate editions, contextual reconstruction, Wikisource, or Tamil Digital Library as transcription authority.
 
-## Batch 035 durable state
+## Batch 036 durable state
 
-- scans 171–175 = extract pages 22–26
-- printed folios 168–172
+- scans 176–180 = extract pages 27–31
+- printed folios 173–177
 - 5 records created
 - 0 verified / 5 needs-review
 - all five pages directly opened and page identity / folios confirmed
 - incomplete body wording was not promoted
-- full transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory 13-family historical-glyph verification remain open on scans 171–175
+- full transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory 13-family historical-glyph verification remain open on scans 176–180
 - all earlier holds remain open
 
 ## Exact next activity
 
-Process exactly **scans 176–180** = extract pages **27–31**.
+Process exactly **scans 181–185** = extract pages **32–36**.
 
 For every page:
 - inspect source pixels directly;
@@ -43,4 +43,4 @@ For every page:
 - separate non-print physical-copy marks;
 - never fill uncertainty from context.
 
-After the five pages, synchronize controls, commit immediately, report counts, set the next batch, and stop before scan 181.
+After the five pages, synchronize controls, commit immediately, report counts, set the next batch, and stop before scan 186.
