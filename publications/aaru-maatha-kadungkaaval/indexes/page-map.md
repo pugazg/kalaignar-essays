@@ -7,7 +7,7 @@ Controlling attached source: `TVA_BOK_0064140_ஆறுமாதக்_கடு
 - P0 — **COMPLETE / PASS**
 - physical source scans — **224**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 195/224 canonical records**
+- P2 — **IN PROGRESS — 200/224 canonical records**
 
 Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVIEW.md)
 
@@ -54,7 +54,7 @@ P1 extension result:
 - source PDF is never committed;
 - section headings embedded on text-bearing pages remain part of main-text page records in P2.
 
-## P2 record status through scan 195
+## P2 record status through scan 200
 
 | Scan | Canonical record | Status |
 |---:|---|---|
@@ -253,12 +253,17 @@ P1 extension result:
 | 193 | `../pages/0193-sirai.md` | needs-review |
 | 194 | `../pages/0194-sirai.md` | needs-review |
 | 195 | `../pages/0195-sirai.md` | needs-review |
+| 196 | `../pages/0196-sirai.md` | needs-review |
+| 197 | `../pages/0197-sirai.md` | needs-review |
+| 198 | `../pages/0198-sirai.md` | needs-review |
+| 199 | `../pages/0199-sirai.md` | needs-review |
+| 200 | `../pages/0200-sirai.md` | needs-review |
 
 Current P2 totals:
 
-- coverage — **195/224**
+- coverage — **200/224**
 - verified — **142**
-- needs-review — **53**
+- needs-review — **58**
 - blocked — **0**
 
 Open holds:
@@ -267,7 +272,7 @@ Open holds:
 - scan 4 — full publisher-note transcription;
 - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
 - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
-- scans 151–195 — exact full-page transcription / punctuation / physical-copy-mark and historical-glyph verification pending focused archival-fidelity re-read of the supplied extract.
+- scans 151–200 — exact full-page transcription / punctuation / physical-copy-mark and historical-glyph verification pending focused archival-fidelity re-read of the supplied extract.
 
 ## Printed-folio anomaly already established
 
@@ -281,4 +286,4 @@ Scans 16–17 remain independent physical page records.
 
 ## Exact next activity
 
-**P2 scans 196–200.**
+**P2 scans 201–205.**

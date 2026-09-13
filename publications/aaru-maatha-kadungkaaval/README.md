@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 195/224 canonical records; 142 verified / 53 needs-review**
+- P2 — **IN PROGRESS — 200/224 canonical records; 142 verified / 58 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -89,7 +89,7 @@ Final extension findings:
 
 ## P2 status
 
-Completed records: **scans 1–195**.
+Completed records: **scans 1–200**.
 
 Notable durable findings:
 
@@ -151,6 +151,8 @@ Notable durable findings:
 
 - scans 191–195 — **0 verified / 5 needs-review**, printed folios **188–192**. All five source images were opened directly from extract pages **42–46**. Page identity and folios are confirmed; incomplete body text was not promoted. Guessed readings remain **0**; historical-glyph correction count remains **9**.
 
+- scans 196–200 — **0 verified / 5 needs-review**, printed folios **193–197**. All five source images were opened directly from extract pages **47–51**. Page identity and folios are confirmed; incomplete body text was not promoted. Guessed readings remain **0**; historical-glyph correction count remains **9**.
+
 Open holds:
 
 - scan 3 — small imprint/printer text;
@@ -165,19 +167,20 @@ Open holds:
 - scans 176–180 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 27–31;
 - scans 181–185 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 32–36;
 - scans 186–190 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 37–41;
-- scans 191–195 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 42–46.
+- scans 191–195 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 42–46;
+- scans 196–200 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 47–51.
 
 Current P2 totals:
 
-- records — **195/224**
+- records — **200/224**
 - verified — **142**
-- needs-review — **53**
+- needs-review — **58**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **9**
 
 ## Exact next activity
 
-**P2 scans 196–200.**
+**P2 scans 201–205.**
 
-Process exactly scans **196–200** as the next five-scan batch from live durable state. The supplied extract maps pages 47–51 to scans 196–200. Preserve all existing needs-review holds; do not guess them. Inspect scans 196–200 directly, synchronize controls, commit, and stop before scan 201.
+Process exactly scans **201–205** as the next five-scan batch from live durable state. The supplied extract maps pages 52–56 to scans 201–205. Preserve all existing needs-review holds; do not guess them. Inspect scans 201–205 directly, synchronize controls, commit, and stop before scan 206.
