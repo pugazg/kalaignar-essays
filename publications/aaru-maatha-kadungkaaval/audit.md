@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 185/224 records; 142 verified / 43 needs-review** |
+| P2 | **IN PROGRESS — 190/224 records; 142 verified / 48 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -108,6 +108,7 @@ Minimum explicit family set:
 | 035 | 171–175 | 0 | 5 | 0 |
 | 036 | 176–180 | 0 | 5 | 0 |
 | 037 | 181–185 | 0 | 5 | 0 |
+| 038 | 186–190 | 0 | 5 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -875,15 +876,39 @@ Batch 037 result:
 - exact full-page transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory 13-family historical-glyph gate remain OPEN on scans 181–185.
 - all prior holds remain unchanged.
 
-## P2 cumulative totals through scan 185
+### Batch 038 — scans 186–190
 
-- canonical page records — **185/224**
+Opened directly from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 186 — `pages/0186-sirai.md` — **needs-review** — printed folio 183 — extract page 37
+- scan 187 — `pages/0187-sirai.md` — **needs-review** — printed folio 184 — extract page 38
+- scan 188 — `pages/0188-sirai.md` — **needs-review** — printed folio 185 — extract page 39
+- scan 189 — `pages/0189-sirai.md` — **needs-review** — printed folio 186 — extract page 40
+- scan 190 — `pages/0190-sirai.md` — **needs-review** — printed folio 187 — extract page 41
+
+Batch 038 result:
+
+- records created — **5/5**
+- verified — **0**
+- needs-review — **5**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- page identity and printed folios **183–187** were directly confirmed from source images.
+- all five pages visibly contain continuous Tamil body text in the `sirai` section.
+- incomplete body wording was not promoted into canonical transcription.
+- exact full-page transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory 13-family historical-glyph gate remain OPEN on scans 186–190.
+- all prior holds remain unchanged.
+
+## P2 cumulative totals through scan 190
+
+- canonical page records — **190/224**
 - verified — **142**
-- needs-review — **43**
+- needs-review — **48**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **9**
-- unresolved transcription / printed-text holds — **43**:
+- unresolved transcription / printed-text holds — **48**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
@@ -894,7 +919,8 @@ Batch 037 result:
   - scans 166–170 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 17–21;
   - scans 171–175 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 22–26;
   - scans 176–180 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 27–31;
-  - scans 181–185 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 32–36.
+  - scans 181–185 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 32–36;
+  - scans 186–190 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 37–41.
 
 ## Durable physical anomaly
 
@@ -910,4 +936,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 186–190.**
+**P2 scans 191–195.**

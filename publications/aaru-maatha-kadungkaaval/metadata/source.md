@@ -102,14 +102,14 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 185/224 canonical records; 142 verified / 43 needs-review**
+- P2 — **IN PROGRESS — 190/224 canonical records; 142 verified / 48 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 185
+## P2 source use through scan 190
 
-Canonical records exist for scans **1–185**.
+Canonical records exist for scans **1–190**.
 
 Latest batch scans 96–100:
 
@@ -355,6 +355,18 @@ Latest batch scans 181–185:
 - incomplete body wording was not promoted into canonical text.
 - full transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory historical-family gate remain open on all five pages.
 
+Latest batch scans 186–190:
+
+- extract pages — **37–41**
+- printed folios — **183–187**
+- verified — **0/5**
+- needs-review — **5/5**
+- guessed readings — **0**
+- cumulative historical-glyph corrections — **9**
+- all five pages were opened directly and page identity / folios were source-confirmed.
+- incomplete body wording was not promoted into canonical text.
+- full transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory historical-family gate remain open on all five pages.
+
 Durable source-artifact anomaly:
 
 - scans 16–17 repeat printed folios 13–14;
@@ -373,8 +385,9 @@ Open printed-text holds:
 - scans 166–170 — exact transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read;
 - scans 171–175 — exact transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read;
 - scans 176–180 — exact transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read;
-- scans 181–185 — exact transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read.
+- scans 181–185 — exact transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read;
+- scans 186–190 — exact transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read.
 
 ## Exact next activity
 
-**P2 scans 186–190.**
+**P2 scans 191–195.**
