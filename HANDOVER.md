@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 033 / P2 scans 161–165** reached the durable state **165/224 canonical records; 142 verified / 23 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 034 / P2 scans 166–170** reached the durable state **170/224 canonical records; 142 verified / 28 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 165/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 170/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 165/224 records; 142 verified / 23 needs-review**
+- P2 — **IN PROGRESS — 170/224 records; 142 verified / 28 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -859,40 +859,65 @@ Batch 033 result:
 - exact full-page transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory 13-family historical-glyph gate remain OPEN on scans 161–165.
 - all prior holds remain unchanged.
 
+### Batch 034 — scans 166–170
+
+Opened directly from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 166 — `pages/0166-sirai.md` — **needs-review** — printed folio 163 — extract page 17
+- scan 167 — `pages/0167-sirai.md` — **needs-review** — printed folio 164 — extract page 18
+- scan 168 — `pages/0168-sirai.md` — **needs-review** — printed folio 165 — extract page 19
+- scan 169 — `pages/0169-sirai.md` — **needs-review** — printed folio 166 — extract page 20
+- scan 170 — `pages/0170-sirai.md` — **needs-review** — printed folio 167 — extract page 21
+
+Batch 034 result:
+
+- records created — **5/5**
+- verified — **0**
+- needs-review — **5**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- page identity and printed folios **163–167** were directly confirmed from the source images.
+- all five pages visibly contain continuous Tamil body text in the `sirai` section.
+- incomplete body wording was not promoted into canonical transcription.
+- exact full-page transcription / punctuation / paragraphing / physical-copy-mark audit / mandatory 13-family historical-glyph gate remain OPEN on scans 166–170.
+- all prior holds remain unchanged.
+
 ## Durable P2 totals
 
-- canonical page records — **165/224**
+- canonical page records — **170/224**
 - verified — **142**
-- needs-review — **23**
+- needs-review — **28**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **9**
-- open transcription / printed-text holds — **23**:
+- open transcription / printed-text holds — **28**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — one physically obscured cluster after `ஒருவராக ஆ`;
   - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
   - scans 151–155 — exact full-page transcription / punctuation / historical-glyph verification pending focused archival-fidelity re-read of the supplied scans-150–224 extract;
   - scans 156–160 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 7–11;
-  - scans 161–165 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 12–16.
+  - scans 161–165 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 12–16;
+  - scans 166–170 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 17–21.
 
 ## Exact next activity
 
-**P2 scans 166–170.**
+**P2 scans 171–175.**
 
-Process exactly scans **166–170** as one five-scan batch from the user-supplied scans-150–224 extract:
+Process exactly scans **171–175** as one five-scan batch from the user-supplied scans-150–224 extract:
 
-- extract pages 17–21 = physical scans 166–170;
-- P1 classifies scans 166–170 as main text;
+- extract pages 22–26 = physical scans 171–175;
+- P1 classifies scans 171–175 as main text;
 - preserve all existing needs-review holds; do not reconstruct them from context;
-- inspect every physical scan 166–170 directly;
+- inspect every physical scan 171–175 directly;
 - perform the mandatory historical-glyph family checks on every text-bearing page;
 - record visible printed folios only;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
 - separate physical-copy marks from printed text;
 - never fill uncertainty from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 171 unless explicitly asked to continue.
+- stop before scan 176 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 
