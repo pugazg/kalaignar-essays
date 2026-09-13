@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 135/224 records; 127 verified / 8 needs-review** |
+| P2 | **IN PROGRESS — 140/224 records; 132 verified / 8 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -98,6 +98,7 @@ Minimum explicit family set:
 | 025 | 121–125 | 5 | 0 | 0 |
 | 026 | 126–130 | 0 | 5 | 5 |
 | 027 | 131–135 | 5 | 0 | 0 |
+| 028 | 136–140 | 5 | 0 | 0 |
 
 ### Batch 007 — scans 31–35
 
@@ -607,10 +608,39 @@ Batch 027 result:
 - scan 135 ends with complete `ஒரு பிரதம செயலாளர் உண்டு.`; scan 136 was **not opened**.
 - existing needs-review holds at scans 126–130 were left unchanged and were not reconstructed from context.
 
-## P2 cumulative totals through scan 135
+### Batch 028 — scans 136–140
 
-- canonical page records — **135/224**
-- verified — **127**
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 136 — `pages/0136-sirai.md` — **verified** — printed folio 133
+- scan 137 — `pages/0137-sirai.md` — **verified** — printed folio 134
+- scan 138 — `pages/0138-sirai.md` — **verified** — printed folio 135
+- scan 139 — `pages/0139-sirai.md` — **verified** — printed folio 136
+- scan 140 — `pages/0140-sirai.md` — **verified** — printed folio 137
+
+Batch 028 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- mandatory 13-family historical-glyph check was performed on all five pages.
+- scan 136 preserves the printed office-holder list, including source-visible `மூன்றும் பிளாக் தலைவர்`, `உள்நாட்டிலாகா`, and `‘ஜல ஸ்தாபன’ மந்திரி`.
+- scan 137 preserves source-visible `மூன்றும் பிளாக்`, `தொண்டனை இருந்தே`, `உள்ளங்கை—நெல்லிக்கை`, and `பழங் காலத்`.
+- scan 137 terminal `அடைக்கலத்தின்` → scan 138 `ஆர்வமிக்க உழைப்பையும்...` continuation was confirmed directly.
+- scan 138 preserves `பயந்த சுபாவமும்`, `முட்டவரும்`, `எழுச்சிக்காளை`, and `என்றும்தான்`.
+- scan 139 preserves source-visible `தோழமைக்கோர் பிசிரானது`, `நல்ல தொரு`, `அடக்கொணா`, `போட்டோஸ்டுடியோ`, and `சோர்விலாளன்`.
+- scan 139 terminal `எங்கள்` → scan 140 `ராஜ்யத்தில்மட்டும்` continuation was confirmed directly.
+- scan 140 preserves `இன்றையதினம்`, `அண்டாக்கள்`, `‘க்யூ’`, `நாலு பிளாக் தலைவரும்`, `ஜெயில் அதிகாரம்`, and `ஐம்பதுபேர்தான்`.
+- scan 140 ends at physical fragment `எல்லோரும் குளிக்கக்`; scan 141 was **not opened**.
+- existing needs-review holds at scans 126–130 were left unchanged and were not reconstructed from context.
+
+## P2 cumulative totals through scan 140
+
+- canonical page records — **140/224**
+- verified — **132**
 - needs-review — **8**
 - blocked — **0**
 - guessed readings — **0**
@@ -635,4 +665,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 scans 136–140.**
+**P2 scans 141–145.**

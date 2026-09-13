@@ -102,14 +102,14 @@ Known minimum families:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
-- P2 — **IN PROGRESS — 135/224 canonical records; 127 verified / 8 needs-review**
+- P2 — **IN PROGRESS — 140/224 canonical records; 132 verified / 8 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 
-## P2 source use through scan 135
+## P2 source use through scan 140
 
-Canonical records exist for scans **1–135**.
+Canonical records exist for scans **1–140**.
 
 Latest batch scans 96–100:
 
@@ -225,6 +225,20 @@ Latest batch scans 131–135:
 - scan 135 ends with complete `ஒரு பிரதம செயலாளர் உண்டு.`; scan 136 was not opened.
 - scans 126–130 remain explicit needs-review holds and were not reconstructed from context.
 
+Latest batch scans 136–140:
+
+- printed folios — **133–137**
+- verified — **5/5**
+- new holds — **0**
+- guessed readings — **0**
+- cumulative historical-glyph corrections — **9**
+- scan 136 preserves the printed office-holder list, including `மூன்றும் பிளாக் தலைவர்`, `உள்நாட்டிலாகா`, and `‘ஜல ஸ்தாபன’ மந்திரி`.
+- scan 137 `அடைக்கலத்தின்` → scan 138 `ஆர்வமிக்க உழைப்பையும்...` continuation confirmed directly.
+- scan 139 preserves `தோழமைக்கோர் பிசிரானது`, `நல்ல தொரு`, `அடக்கொணா`, and `சோர்விலாளன்`.
+- scan 139 `எங்கள்` → scan 140 `ராஜ்யத்தில்மட்டும்` continuation confirmed directly.
+- scan 140 ends at `எல்லோரும் குளிக்கக்`; scan 141 was not opened.
+- scans 126–130 remain explicit needs-review holds and were not reconstructed from context.
+
 Durable source-artifact anomaly:
 
 - scans 16–17 repeat printed folios 13–14;
@@ -240,4 +254,4 @@ Open printed-text holds:
 
 ## Exact next activity
 
-**P2 scans 136–140.**
+**P2 scans 141–145.**

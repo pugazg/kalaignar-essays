@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 027 / P2 scans 131–135** reached the durable state **135/224 canonical records; 127 verified / 8 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 028 / P2 scans 136–140** reached the durable state **140/224 canonical records; 132 verified / 8 needs-review**. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 135/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 140/224**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS — 135/224 records; 127 verified / 8 needs-review**
+- P2 — **IN PROGRESS — 140/224 records; 132 verified / 8 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -694,10 +694,40 @@ Batch 027 result:
 - existing needs-review holds at scans 126–130 were left unchanged and were not reconstructed from context.
 
 
+### Batch 028 — scans 136–140
+
+Completed from direct native/enlarged attached-PDF pixels:
+
+- scan 136 — `pages/0136-sirai.md` — **verified** — printed folio 133
+- scan 137 — `pages/0137-sirai.md` — **verified** — printed folio 134
+- scan 138 — `pages/0138-sirai.md` — **verified** — printed folio 135
+- scan 139 — `pages/0139-sirai.md` — **verified** — printed folio 136
+- scan 140 — `pages/0140-sirai.md` — **verified** — printed folio 137
+
+Batch 028 result:
+
+- records created — **5/5**
+- verified — **5**
+- needs-review — **0**
+- new printed-text holds — **0**
+- guessed readings — **0**
+- historical-glyph correction count — **unchanged at 9**
+- mandatory 13-family historical-glyph check was performed on all five pages.
+- scan 136 preserves the printed office-holder list, including source-visible `மூன்றும் பிளாக் தலைவர்`, `உள்நாட்டிலாகா`, and `‘ஜல ஸ்தாபன’ மந்திரி`.
+- scan 137 preserves source-visible `மூன்றும் பிளாக்`, `தொண்டனை இருந்தே`, `உள்ளங்கை—நெல்லிக்கை`, and `பழங் காலத்`.
+- scan 137 terminal `அடைக்கலத்தின்` → scan 138 `ஆர்வமிக்க உழைப்பையும்...` continuation was confirmed directly.
+- scan 138 preserves `பயந்த சுபாவமும்`, `முட்டவரும்`, `எழுச்சிக்காளை`, and `என்றும்தான்`.
+- scan 139 preserves source-visible `தோழமைக்கோர் பிசிரானது`, `நல்ல தொரு`, `அடக்கொணா`, `போட்டோஸ்டுடியோ`, and `சோர்விலாளன்`.
+- scan 139 terminal `எங்கள்` → scan 140 `ராஜ்யத்தில்மட்டும்` continuation was confirmed directly.
+- scan 140 preserves `இன்றையதினம்`, `அண்டாக்கள்`, `‘க்யூ’`, `நாலு பிளாக் தலைவரும்`, `ஜெயில் அதிகாரம்`, and `ஐம்பதுபேர்தான்`.
+- scan 140 ends at physical fragment `எல்லோரும் குளிக்கக்`; scan 141 was **not opened**.
+- existing needs-review holds at scans 126–130 were left unchanged and were not reconstructed from context.
+
+
 ## Durable P2 totals
 
-- canonical page records — **135/224**
-- verified — **127**
+- canonical page records — **140/224**
+- verified — **132**
 - needs-review — **8**
 - blocked — **0**
 - guessed readings — **0**
@@ -710,20 +740,20 @@ Batch 027 result:
 
 ## Exact next activity
 
-**P2 scans 136–140.**
+**P2 scans 141–145.**
 
-Process exactly scans **136–140** as one five-scan batch from the attached PDF:
+Process exactly scans **141–145** as one five-scan batch from the attached PDF:
 
-- P1 classifies scans 136–140 as main text;
+- P1 classifies scans 141–145 as main text;
 - preserve Batch 026 scans 126–130 as explicit needs-review holds until a focused source re-read finishes them; do not reconstruct them from context;
-- inspect every physical scan 136–140 directly rather than relying on the structural map alone;
+- inspect every physical scan 141–145 directly rather than relying on the structural map alone;
 - perform the mandatory historical-glyph family checks on every text-bearing page;
 - record visible printed folios only;
 - preserve source spelling, punctuation, paragraphing and meaningful spacing;
 - separate physical-copy marks from printed text;
 - never fill uncertain readings from context;
 - synchronize controls and commit immediately after the five pages;
-- stop before scan 141 unless explicitly asked to continue.
+- stop before scan 146 unless explicitly asked to continue.
 
 Do not reopen P1 unless genuinely new structural source evidence appears.
 
