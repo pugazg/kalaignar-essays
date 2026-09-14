@@ -42,6 +42,17 @@ transcription_method: "direct visual comparison with source scan"
 - `கண்ணை`, `கன்னத்தை`, and affected clusters were decoded by historical character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R18
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing and page-boundary fragment was rechecked directly from the attached source pixels.
+- source-visible forms and punctuation including `ஊளையிட்டது`, `ஈராட்டிய`, `“முடிவு என்ன” வென்றனர்.`, `என் உடலே ஒட்டினாற்போல்`, and terminal `இருபத்தைந்துபேரும்` were reconfirmed without contextual repair.
+- scan-89 terminal `இருபத்தைந்துபேரும்` → scan-90 opening `போலீஸ் வண்டியில் ஏற்றப்பட்டோம்.` continuation was confirmed from the two physical records.
+- physical stains / age marks are non-publication layer; none obscures printed wording.
+- mandatory historical-family verification was repeated; `கண்ணை` reconfirms `ணை` and `என்னை` reconfirms `னை`; the full 13-family set was checked by character identity.
+- canonical correction — **none**.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 89 was fully compared with source pixels.

@@ -44,6 +44,16 @@ transcription_method: "direct visual comparison with source scan"
 - affected older-type clusters were decoded by character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R18
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing and complete page ending was rechecked directly from the attached source pixels.
+- source-visible forms including `பஞ்சுமெத்தையாக்கி`, `மாமருந்தாம்`, `வளையம் வளர்ந்தது`, `மாஜிஸ்டிரேட்`, `நாங்களுந்தான்`, and `மக்களுந்தான்` were reconfirmed without normalization.
+- physical stains / paper aging are non-publication layer; none obscures printed wording.
+- mandatory historical-family verification was repeated; `தலையணையாகக்` reconfirms the `ணை` family and `வளையம்` reconfirms `ளை`; the full 13-family set was checked by character identity.
+- canonical correction — **none**.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 87 was fully compared with source pixels.

@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **85/224**
-- completed range — **1–85**
-- next range — **86–90**
+- re-audited — **90/224**
+- completed range — **1–90**
+- next range — **91–95**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **11**
@@ -395,8 +395,32 @@ Ordinary source-fidelity corrections in Batch R17 — **1**.
 
 P2 canonical totals remain **222 verified / 2 needs-review**.
 
+## Batch R18 — scans 86–90
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 86 | body / folio 83 | PASS | scan-85 continuation, full text / punctuation / spacing / complete ending confirmed; no canonical correction |
+| 87 | body / folio 84 | PASS | full text / dialogue punctuation / meaningful spacing / complete ending confirmed; no canonical correction |
+| 88 | body / folio 85 | PASS after correction | `ஓவியர்களை விட்டு` → source-visible `ஓவியர்களைவிட்டு` |
+| 89 | body / folio 86 | PASS | full text / unusual source forms / punctuation / exact terminal `இருபத்தைந்துபேரும்` confirmed; no canonical correction |
+| 90 | body / folio 87 | PASS | scan-89 continuation, full text / punctuation / spacing / complete ending confirmed; no canonical correction |
+
+Historical-family findings:
+
+- scan 86 — `வளையாபதியுடைய` (`ளை`), `அன்னையிடம்` (`னை`);
+- scan 87 — `தலையணையாகக்` (`ணை`), `வளையம்` (`ளை`);
+- scan 88 — `என்றால்` (`றா`), `ஓவியர்களைவிட்டு` (`ளை`);
+- scan 89 — `கண்ணை` (`ணை`), `என்னை` (`னை`);
+- scan 90 — `அணையுடைத்தெழும்` (`ணை`), `இளைஞர்` (`ளை`), `தலைமையிலே` (`லை`);
+- all 13 tracked families were explicitly checked on every scan by character identity;
+- new historical-family correction events — **0**; cumulative count remains **11**.
+
+Ordinary source-fidelity corrections in Batch R18 — **1**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
 ## Exact next activity
 
-**Batch R18 — physical scans 86–90.**
+**Batch R19 — physical scans 91–95.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **90**; do not process scan 91.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **95**; do not process scan 96.

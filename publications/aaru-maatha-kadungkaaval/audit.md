@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 85/224 scans complete; next 86–90** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 90/224 scans complete; next 91–95** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1627,8 +1627,22 @@ Historical-family verification added **0 new correction events**; cumulative cou
 
 P2R progress — **85/224**. P2 remains **222 verified / 2 needs-review**. Next range — **86–90**.
 
+### Batch R18 — scans 86–90
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 86 | PASS | scan-85 continuation, complete text / punctuation / meaningful spacing / ending confirmed |
+| 87 | PASS | complete text / dialogue punctuation / meaningful spacing / ending confirmed |
+| 88 | PASS after correction | `ஓவியர்களை விட்டு` → source-visible `ஓவியர்களைவிட்டு` |
+| 89 | PASS | unusual source forms / punctuation / exact terminal `இருபத்தைந்துபேரும்` confirmed |
+| 90 | PASS | scan-89 continuation, complete text / punctuation / spacing / ending confirmed; scan 91 not opened |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **11**. Ordinary source-fidelity corrections — **1**.
+
+P2R progress — **90/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **91–95**.
+
 ## Exact next activity
 
-**P2R Batch R18 — scans 86–90.**
+**P2R Batch R19 — scans 91–95.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 90.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 95.

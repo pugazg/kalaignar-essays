@@ -47,6 +47,17 @@ transcription_method: "direct visual comparison with source scan"
 - affected older-type clusters were decoded by character identity rather than modern visual resemblance.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R18
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header and page-boundary continuation was rechecked directly from the attached source pixels.
+- scan-85 terminal `மாணிக்க` → scan-86 opening `குறள் ஒலிக்கும் மாதா...` continuation was confirmed without rewriting either physical page record.
+- source-visible forms including `புடைகுழ்ந்து`, `மோழைகள்`, `வாழைக்குக் கன்றல்ல - ஆளுக்கு விழுதுகள்`, and `இருபத்தைந்துபேர்` were reconfirmed and preserved.
+- physical stains / age marks are non-publication layer; none obscures printed wording.
+- mandatory historical-family verification was repeated; `வளையாபதியுடைய` reconfirms `ளை` and `அன்னையிடம்` reconfirms `னை`; the full 13-family set was checked by character identity.
+- canonical correction — **none**.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 86 was fully compared with source pixels.

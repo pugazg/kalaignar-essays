@@ -27,7 +27,7 @@ transcription_method: "direct visual comparison with source scan"
 
 “அதுதான் ‘கல்லக்குடி’ என்று ஒட்டிவிட்டார்களே!”
 
-“ஒட்டுவதென்ன - எங்கள் ஓவியர்களை விட்டு எழுதியே தருகிறோம் கல்லக்குடி என்ற பலகையை! ஆனால் ஆட்சி - அதிகாரபூர்வமாகச் சொல்லவேண்டும்”
+“ஒட்டுவதென்ன - எங்கள் ஓவியர்களைவிட்டு எழுதியே தருகிறோம் கல்லக்குடி என்ற பலகையை! ஆனால் ஆட்சி - அதிகாரபூர்வமாகச் சொல்லவேண்டும்”
 
 அதிகாரிகளின் கேள்விகளும் - என் பதில்களும் அதோடு முடிந்தன. ‘All Right’ என்று கூறிவிட்டு அதிகாரிகள் அப்பால் நகர்ந்தார்கள்.
 
@@ -36,7 +36,7 @@ transcription_method: "direct visual comparison with source scan"
 - visible printed folio — **85**.
 - running header — `ஆறுமாதக் கடுங்காவல்`.
 - source dialogue sequence and punctuation were preserved.
-- source-visible unusual forms including `திட்டிய கடிதங்கள்`, `கிரீச்`, `மரக் மரக்`, `நியாயந்தான்`, and `All Right` were retained without normalization.
+- source-visible unusual forms including `திட்டிய கடிதங்கள்`, `கிரீச்`, `மரக் மரக்`, `நியாயந்தான்`, `ஓவியர்களைவிட்டு`, and `All Right` were retained without normalization.
 - page ends with complete sentence `அதிகாரிகள் அப்பால் நகர்ந்தார்கள்.`
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -50,6 +50,17 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - affected older-type clusters were decoded by character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R18
+
+- every dialogue line, printed word, Latin text, numeral, quotation mark, punctuation mark and meaningful spacing was rechecked directly from the attached source pixels.
+- direct source correction: `ஓவியர்களை விட்டு` → **`ஓவியர்களைவிட்டு`**. Enlarged source pixels show the word boundary is not present in the printed line.
+- all other source-visible wording and punctuation, including `திட்டிய கடிதங்கள்`, `கிரீச்`, `மரக் மரக்`, `நியாயந்தான்`, and `All Right`, were reconfirmed.
+- physical stains / print wear are non-publication layer; none supplies or obscures wording used in the correction.
+- mandatory historical-family verification was repeated; `என்றால்` reconfirms `றா` and `ஓவியர்களைவிட்டு` provides a direct `ளை` family check; the full 13-family set was checked by character identity.
+- the spacing repair is an ordinary source-fidelity correction, not a tracked historical-glyph correction event.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity correction**.
 
 ## P2 நிலை
 

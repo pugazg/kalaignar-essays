@@ -44,6 +44,17 @@ transcription_method: "direct visual comparison with source scan"
 - `கண்ணீரும்`, `இளைஞர்`, and affected older-type clusters were decoded by historical character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R18
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header and complete page ending was rechecked directly from the attached source pixels.
+- scan-89 continuation into `போலீஸ் வண்டியில் ஏற்றப்பட்டோம்.` was confirmed; source-visible forms including `அணையுடைத்தெழும் நித்தம் போலக்`, `கிளிக்கூண்டு`, `அழகு நல் திராவிடத்து`, and `கைது செய்யப்பட்டவில்லை` were preserved exactly.
+- physical stains / age marks are non-publication layer; none obscures printed wording.
+- mandatory historical-family verification was repeated; `அணையுடைத்தெழும்` reconfirms `ணை`, `இளைஞர்` reconfirms `ளை`, and `தலைமையிலே` reconfirms `லை`; the full 13-family set was checked by character identity.
+- canonical correction — **none**.
+- scan 91 was not opened or processed in this iteration.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 90 was fully compared with source pixels.
