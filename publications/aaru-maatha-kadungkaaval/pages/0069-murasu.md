@@ -43,6 +43,15 @@ transcription_method: "direct visual comparison with source scan"
 - என்பால், இடையூறுகளுக்காளாகி, தில்லையிலே, and the names were resolved from source character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R14
+
+- scan 68 terminal `எதையும் முடியாது` + scan 69 opening `என்று என்னிடம் கூறமாட்டார்` was visually reconfirmed as the direct continuation.
+- every printed word, initials, punctuation separator, meaningful spacing, running header and complete page ending were compared with native source pixels.
+- source-visible forms including `சந்திரனுக்குத் தாவ வேண்டுமா`, `சிறு கடுகு!`, `டி. என். இராமனின்`, `மீதப்படுத்தி`, `‘தாக்குமேடை’`, `இடையூறுகளுக்காளாகி`, `என்பால்`, `பெத்தண்ணன்`, `பஞ்சாபிகேசன்`, and `ஜூலை 8ல்` all match the canonical record.
+- mandatory historical-family verification was repeated; `சண்முகவடிவேலை` / `தில்லையிலே` reconfirm `லை`, and `அண்ணா` reconfirms `ணா`.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 69 was fully compared with source pixels.

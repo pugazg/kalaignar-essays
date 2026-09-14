@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 65/224 scans complete; next 66–70** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 70/224 scans complete; next 71–75** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1571,8 +1571,22 @@ Historical-family verification added **0 new correction events**; cumulative cou
 
 P2R progress — **65/224**. P2 remains **222 verified / 2 needs-review**. Next range — **66–70**.
 
+### Batch R14 — scans 66–70
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 66 | PASS | illustration lettering `தடை` / `கல்லக்குடி` confirmed; physical abrasion remains non-text |
+| 67 | PASS | blank reverse / show-through; no publication text |
+| 68 | PASS after corrections | `போராட்டம் - அதற்கு` → `போராட்டம்- அதற்கு`; `நிதி வசூல்` → `நிதிவசூல்` |
+| 69 | PASS | complete text / initials / punctuation / boundary / running-header review; no correction |
+| 70 | PASS | complete text / numerals / quotes / line-wrap / page ending confirmed; no correction |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **11**. Ordinary source-fidelity corrections — **2**.
+
+P2R progress — **70/224**. P2 remains **222 verified / 2 needs-review**. Next range — **71–75**.
+
 ## Exact next activity
 
-**P2R Batch R14 — scans 66–70.**
+**P2R Batch R15 — scans 71–75.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 70.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 75.

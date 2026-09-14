@@ -38,7 +38,7 @@ Direct native inspection established:
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 65/224 scans; next 66–70**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 70/224 scans; next 71–75**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -574,8 +574,22 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - P2 totals remain **222 verified / 2 needs-review**
 - P2R progress — **65/224**
 
+### Batch R14 — scans 66–70
+
+- scans 66–70 — **5/5 re-audited**
+- scan 66 — illustration PASS; `தடை` / `கல்லக்குடி` confirmed
+- scan 67 — blank reverse PASS; no publication text
+- scan 68 — `போராட்டம் - அதற்கு` → **`போராட்டம்- அதற்கு`**
+- scan 68 — `நிதி வசூல்` → **`நிதிவசூல்`**
+- scans 69–70 — PASS / no canonical correction
+- ordinary source-fidelity corrections — **2**
+- new historical-glyph correction events — **0**
+- cumulative historical-glyph correction-event count — **11**
+- P2 totals remain **222 verified / 2 needs-review**
+- P2R progress — **70/224**
+
 ## Exact next activity
 
-**P2R Batch R14 — scans 66–70.**
+**P2R Batch R15 — scans 71–75.**
 
-Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Stop after scan 70.
+Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Stop after scan 75.

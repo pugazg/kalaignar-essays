@@ -45,6 +45,16 @@ transcription_method: "direct visual comparison with source scan"
 - difficult older forms were decoded by source character identity; no global replacement or contextual fill was used.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R14
+
+- every printed word, numeral, quote, punctuation separator, meaningful spacing, running header and complete page ending was rechecked from native source pixels.
+- source-visible forms including `ஜூலை 8 -`, `‘மகஜர்’`, `அந்த நாளில் தான்`, `முறைகூட`, `விருதுநகர் வீரர்`, `கண்ணபிரான்`, `அலமேலு அம்மையார்`, `கருணாமிக்க`, `தம்புசாமி`, and `நாலைந்துபேர்கூட` all match the canonical record.
+- the physical line break inside `உள்ளிட்ட` was correctly treated as a line-wrap continuation rather than a word-space.
+- scan 71 was not opened; scan 70 already ends with the complete sentence `குடிசை வீடுகள் தான் எங்களுக்குக் காட்டப்பட்டன.`
+- mandatory historical-family verification was repeated; `சென்னை` supplies a direct `னை` family check and no tracked family remains ambiguous.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 70 was fully compared with source pixels.

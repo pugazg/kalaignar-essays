@@ -37,6 +37,15 @@ transcription_method: "direct visual comparison with source scan"
 - no unresolved historical-glyph ambiguity remains on the visible printed words.
 - no lexical modernization or contextual reconstruction was applied.
 
+## P2R visual-fidelity re-audit — Batch R14
+
+- the full native illustration was re-inspected directly, including all visible lettering and the central physical abrasion.
+- printed text remains exactly **`தடை`** and station-board **`கல்லக்குடி`**; no additional lettering is recoverable or implied by the worn patch.
+- train / track / prone-figure imagery and the small flame/torch-like device were rechecked only as illustration structure, not promoted into textual content.
+- the mandatory historical-family set was explicitly considered; neither of the two printed words contains an ambiguous member requiring reinterpretation.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 66 illustration/text layer was directly inspected and recorded.

@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **65/224**
-- completed range — **1–65**
-- next range — **66–70**
+- re-audited — **70/224**
+- completed range — **1–70**
+- next range — **71–75**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **11**
@@ -303,8 +303,31 @@ Ordinary source-fidelity corrections in Batch R13 — **4**.
 
 P2 canonical totals remain **222 verified / 2 needs-review**.
 
+## Batch R14 — scans 66–70
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 66 | illustration | PASS | `தடை` and station-board `கல்லக்குடி` reconfirmed; abrasion remains non-text physical damage |
+| 67 | blank reverse | PASS | no publication text; show-through / toning retained as non-publication layer |
+| 68 | body / `களம்` | PASS after corrections | `போராட்டம் - அதற்கு` → `போராட்டம்- அதற்கு`; `நிதி வசூல்` → `நிதிவசூல்` |
+| 69 | body / folio 66 | PASS | full text / initials / punctuation / boundary / running-header review; no canonical correction |
+| 70 | body / folio 67 | PASS | full text / numerals / quotes / line-wrap / complete ending confirmed; no canonical correction |
+
+Historical-family findings:
+
+- scan 66 — printed words contain no ambiguous tracked historical-family member;
+- scan 67 — N/A: canonical publication text is 0 words;
+- scan 68 — `தலைமையேற்று` reconfirms `லை`;
+- scan 69 — `சண்முகவடிவேலை` / `தில்லையிலே` (`லை`), `அண்ணா` (`ணா`);
+- scan 70 — `சென்னை` reconfirms `னை`;
+- new historical-family correction events — **0**; cumulative count remains **11**.
+
+Ordinary source-fidelity corrections in Batch R14 — **2**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**.
+
 ## Exact next activity
 
-**Batch R14 — physical scans 66–70.**
+**Batch R15 — physical scans 71–75.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **70**; do not process scan 71.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **75**; do not process scan 76.

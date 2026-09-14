@@ -17,7 +17,7 @@ transcription_method: "direct visual comparison with source scan"
 
 சிதம்பரம் மாநாடு போராட்டப் பொன்னேடாக மாறியது கண்டு திராவிடத் தரணி பூரிப்பில் ஆழ்ந்தது. நானும், சத்தியும், முத்துவும், திருவாளர் நண்பர்கள் விசயராகவன், தென்னன், தியாகராசன் ஆகியோரும் தஞ்சைக்கு வந்து சேர்ந்தோம். கல்லக்குடி போராட்ட நிதிக்காக தஞ்சையிலே ‘பாப்பிரம்மம்’ நாடகம் ஜூலை 7ல் ஏற்பாடு செய்யப்பட்டிருந்தது.
 
-திருச்சி மாவட்டத்திலே நடைபெறும் போராட்டம் - திருச்சி மாவட்டக் கழகம் பொறுப்பேற்று நடத்தும் போராட்டம் - அதற்கு தஞ்சை மாவட்டத்திலா நிதி வசூல் என்கிறீர்களா! - அப்படிப் பார்த்தால் திருச்சி போராட்டத்திற்கு தலைமையேற்று நடத்துபவனே தஞ்சை மாவட்டத்துக்காரன் தானே!
+திருச்சி மாவட்டத்திலே நடைபெறும் போராட்டம் - திருச்சி மாவட்டக் கழகம் பொறுப்பேற்று நடத்தும் போராட்டம்- அதற்கு தஞ்சை மாவட்டத்திலா நிதிவசூல் என்கிறீர்களா! - அப்படிப் பார்த்தால் திருச்சி போராட்டத்திற்கு தலைமையேற்று நடத்துபவனே தஞ்சை மாவட்டத்துக்காரன் தானே!
 
 தஞ்சைத் தரணியும் - திருச்சி பூமியும் காதலன் காதலி போல! தஞ்சையிலே வீசிய புயல்கூட திருச்சியையும் எட்டிவிட்டுத்தானே சென்றது! அவ்வளவு தொடர்புடைய தஞ்சையிலே நாடகத்தை நடத்தும் பொறுப்பை தோழர் N. S. சண்முகவடிவேலும் - தஞ்சை தி. மு. கழகத் தோழர்களும் - ராசகோபால் போன்ற நண்பர்களும் ஏற்றுக்கொண்டனர்.
 
@@ -41,6 +41,18 @@ transcription_method: "direct visual comparison with source scan"
 - ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ families were explicitly checked.
 - heading களம் and affected body clusters were read by character identity rather than modern visual resemblance.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R14
+
+- heading `களம்`, every printed word, numeral, punctuation separator, meaningful spacing and the terminal fragment `எதையும் முடியாது` were compared with native source pixels.
+- direct source corrections in the second paragraph:
+  - `போராட்டம் - அதற்கு` → **`போராட்டம்- அதற்கு`**; the short hyphen is attached to the preceding word in the source;
+  - `நிதி வசூல்` → **`நிதிவசூல்`**; the source prints this as one continuous lexical unit.
+- source-visible forms including `பாப்பிரம்மம்`, `ஜூலை 7ல்`, `தஞ்சை மாவட்டத்திலா`, `மாவட்டத்துக்காரன்`, `திருவாளர்`, `விசயராகவன்`, `N. S. சண்முகவடிவேலும்`, and `ராசகோபால்` were rechecked and preserved.
+- mandatory historical-family verification was repeated; `தலைமையேற்று` supplies a direct `லை` family check and no tracked family remains ambiguous.
+- both repairs are ordinary punctuation / spacing fidelity corrections, not historical-glyph correction events.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity corrections**.
 
 ## P2 நிலை
 

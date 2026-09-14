@@ -26,6 +26,13 @@ _அச்சு உரை இல்லை._
 - faint reverse-side show-through / paper toning only.
 - no marks were promoted into printed text.
 
+## P2R visual-fidelity re-audit — Batch R14
+
+- the native scan was rechecked as a blank reverse / show-through page.
+- faint reverse-side text, paper toning and scattered specks remain non-publication layers; no independent recto word, heading, folio, caption or advertisement is present.
+- mandatory historical-family verification is **not applicable to publication text on this scan** because canonical publication text is 0 words.
+- result — **PASS / blank-reverse classification retained**.
+
 ## P2 நிலை
 
 **verified** — scan 67 is a directly inspected blank/reverse page.
