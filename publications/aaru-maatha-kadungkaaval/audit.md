@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 25/224 scans complete; next 26–30** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 30/224 scans complete; next 31–35** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1459,8 +1459,22 @@ Historical-family verification added **0 new correction events**; cumulative cou
 
 P2R progress — **25/224**. P2 remains **222 verified / 2 needs-review**. Next range — **26–30**.
 
+### Batch R06 — scans 26–30
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 26 | PASS | complete word / punctuation / spacing / boundary review; no correction |
+| 27 | PASS | unusual source wording / punctuation reconfirmed; no correction |
+| 28 | PASS | complete text and exact terminal `மறந்` confirmed; no correction |
+| 29 | PASS | page-crossing boundary and complete text confirmed; no correction |
+| 30 | PASS | complete text / line-wrap joins / punctuation confirmed; `என்னையும். உங்களையும்` retained |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **11**.
+
+P2R progress — **30/224**. P2 remains **222 verified / 2 needs-review**. Next range — **31–35**.
+
 ## Exact next activity
 
-**P2R Batch R06 — scans 26–30.**
+**P2R Batch R07 — scans 31–35.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 30.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 35.

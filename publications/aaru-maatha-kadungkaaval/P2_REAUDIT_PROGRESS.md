@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **25/224**
-- completed range — **1–25**
-- next range — **26–30**
+- re-audited — **30/224**
+- completed range — **1–30**
+- next range — **31–35**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **11**
@@ -121,8 +121,29 @@ Historical-family findings:
 
 P2 canonical totals remain **222 verified / 2 needs-review**.
 
+## Batch R06 — scans 26–30
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 26 | body / folio 23 | PASS | complete word / punctuation / spacing / boundary review; no canonical correction |
+| 27 | body / folio 24 | PASS | unusual source forms and punctuation reconfirmed; no canonical correction |
+| 28 | body / folio 25 | PASS | full text and exact terminal fragment `மறந்` confirmed; no canonical correction |
+| 29 | body / folio 26 | PASS | page-crossing `மறந்` + `திடக்` boundary and full text confirmed; no canonical correction |
+| 30 | body / folio 27 | PASS | full text / punctuation / line-wrap joins confirmed; period in `என்னையும். உங்களையும்` explicitly reconfirmed |
+
+Historical-family findings:
+
+- scan 26 — `அண்ணாவின்` (`ணா`), `ஜூலை` / `கல்லைத்` / `குளித்தலை` (`லை`), `வளைந்து` (`ளை`);
+- scan 27 — repeated `குளித்தலை` (`லை`) and same-font reform-sensitive comparisons;
+- scan 28 — `வலை` (`லை`) plus same-font `ண` comparisons;
+- scan 29 — `அணைக்க` / `அணைக்கும்` (`ணை`);
+- scan 30 — `அலைந்து` (`லை`), `என்னையும்` (`னை`);
+- new historical-family correction events — **0**; cumulative count remains **11**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**.
+
 ## Exact next activity
 
-**Batch R06 — physical scans 26–30.**
+**Batch R07 — physical scans 31–35.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **30**; do not process scan 31.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **35**; do not process scan 36.

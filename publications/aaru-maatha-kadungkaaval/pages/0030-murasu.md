@@ -41,6 +41,17 @@ transcription_method: "direct visual comparison with source scan"
 - source-visible `குறை நோயிலிருந்து`, `நீங்கள் சிரி விழவேண்டாம்`, `என்னையும். உங்களையும்` ஆகிய unusual readings/punctuation context மூலம் மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
 
+## P2R visual-fidelity re-audit — Batch R06
+
+- scan 29 terminal `கழக` + scan 30 opening `உத்திரவு` was source-confirmed.
+- every printed word, punctuation separator, meaningful spacing and the page-final exclamation was compared with native pixels.
+- source-visible unusual wording / punctuation including `குறை நோயிலிருந்து`, `நீங்கள் சிரி விழவேண்டாம்`, `என்னையும். உங்களையும்`, and `வழக்கம்போல்` all match the canonical record; the period after `என்னையும்` was specifically rechecked and retained.
+- line-wrap joins such as `கிராம நிலை + மைகளை`, `துஷ்ட தேவதை + களுக்குப்`, and `உத்தி + யோகஸ்தர்களின்` remain joined only because the native source directly continues one lexical item.
+- stains / handling marks are non-publication layers and do not obscure print.
+- mandatory historical-family review was repeated; representative forms include `அலைந்து` (`லை`) and `என்னையும்` (`னை`).
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 30 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

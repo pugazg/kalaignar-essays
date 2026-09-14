@@ -37,6 +37,16 @@ transcription_method: "direct visual comparison with source scan"
 - source-visible `கதர்சட்டைக் காரர்கள்`, `அக்கரை`, `உத்தமர்கள் (?)` ஆகிய வாசிப்புகள் மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
 
+## P2R visual-fidelity re-audit — Batch R06
+
+- scan 28 terminal `மறந்` + scan 29 opening `திடக் கூடாது.` was rechecked as the physical continuation `மறந்திடக் கூடாது.` while preserving each page's own fragment.
+- every printed word, punctuation mark, meaningful spacing and terminal `கழக` matches the source.
+- source-visible forms including `அல்லல்களை யெல்லாம்`, `தவிர்த்திடத் தான்`, `படை யிருக்கவேண்டும்`, `ஒருவன் என்ன-இந்த`, `உத்தமர்கள் (?)`, `கூடாதா-`, and `தடுத்திடவும்-` were preserved without stylistic normalization.
+- source wear / small marks are non-publication layers.
+- mandatory historical-family audit was repeated; direct `ணை` identity is reconfirmed in `அணைக்க` / `அணைக்கும்`.
+- unresolved historical-glyph ambiguity — **0**; no new historical-family correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 29 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

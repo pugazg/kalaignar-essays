@@ -36,6 +36,16 @@ transcription_method: "direct visual comparison with source scan"
 - `அசகாய சூரத்தனம்`, `போர்க்கருவி யென்றதும்` போன்ற source wording/spacing context மூலம் normalize செய்யப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
 
+## P2R visual-fidelity re-audit — Batch R06
+
+- scan 26 terminal `இருக்கின்றன` + scan 27 opening `ஆனால்` was visually confirmed.
+- every printed word, quote, punctuation separator, meaningful spacing and terminal `பட்டத்தை` was compared directly with the native source.
+- source-visible unusual forms and punctuation including `குருவித்தலை`, `“சோழகர்களும்”`, `சிலங்கொண்டவர்`, `கருவிகள் அதிகமாகவும்.`, `பெருக்கவும்-`, `போர்க்கருவி யென்றதும்`, and `பயப்படா விட்டாலும்` all match the canonical record and were not normalized.
+- source stains / print wear are non-publication layers; the printed wording remains fully recoverable.
+- mandatory historical-family verification was repeated; representative forms include repeated `குளித்தலை` (`லை`) and same-page old-form comparisons for reform-sensitive families.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 27 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

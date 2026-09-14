@@ -41,6 +41,16 @@ transcription_method: "direct visual comparison with source scan"
 - `சேரன் ஏற்றிய கல்லைத் தூக்க முடியாமல் தலைகுனிந்த கனக விசயர்களைப் போல`, `வாட் கண்ணும்`, `குளிர்த்தலையாகி` ஆகிய source-visible readings context மூலம் மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
 
+## P2R visual-fidelity re-audit — Batch R06
+
+- every printed word, numeral, punctuation mark, meaningful spacing and both page-boundary relationships were rechecked against the native embedded-source image.
+- scan 25 terminal `முடிவைச்சொல்ல` + scan 26 opening `எப்போது வருவார்கள்` and scan 26 terminal `இருக்கின்றன` were source-confirmed without opening scan 31.
+- source-visible punctuation and spacing including `15-ம் நாள்`, the repeated short-hyphen rhetorical sequence, `“ஜூலை 15”`, `‘கல்லக்குடி’`, `வாட் கண்ணும்`, and `குளிர்த்தலையாகி - குளித்தலையாகி` all match the canonical record.
+- minor stains / print wear are non-publication layers and leave no canonical character unresolved.
+- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was rechecked; representative direct forms include `அண்ணாவின்` (`ணா`), `ஜூலை` / `கல்லைத்` / `குளித்தலை` (`லை`), and `வளைந்து` (`ளை`).
+- unresolved historical-glyph ambiguity — **0**; no new historical-family correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 26 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

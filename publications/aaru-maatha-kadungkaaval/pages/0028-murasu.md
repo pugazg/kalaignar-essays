@@ -39,6 +39,16 @@ transcription_method: "direct visual comparison with source scan"
 - `இன்னோரன்ன பல!`, `பெருகவேண்டு மென்பதல்ல`, `வேண்டுமென்பது மல்ல` ஆகிய source-visible forms மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
 
+## P2R visual-fidelity re-audit — Batch R06
+
+- scan 27 terminal `பட்டத்தை` + scan 28 opening `நமக்கு சூட்ட` and scan 28 terminal `மறந்` were rechecked directly.
+- every word, punctuation unit and meaningful spacing matches the native source, including `பார்ப்பதும்-வாளின்`, `பார்ப்பதும்- பயிற்சி`, `பெருக்குவதும்-`, `பெருகவேண்டு மென்பதல்ல`, `தலைமை யிலிருந்து`, `வேண்டுமென்பது மல்ல`, and `முறையிலே-`.
+- the final `மறந்` is preserved as the exact physical page fragment; no continuation from scan 29 was pulled backward into this record.
+- minor stains / wear are non-print.
+- mandatory 13-family historical-glyph review was repeated; representative forms include `கண்ணியத்தால்` for same-font `ண` comparison and `வலை` (`லை`).
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 28 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.
