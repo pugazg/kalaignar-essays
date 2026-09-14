@@ -35,6 +35,16 @@ transcription_method: "direct visual comparison with source scan"
 - source-visible `பண் பாடியதும்`, `பலமும் தந்தனர்`, `நிந்தாஸ்துதியாக` ஆகிய வாசிப்புகள் context மூலம் மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
 
+## P2R visual-fidelity re-audit — Batch R05
+
+- every printed word, numeral, punctuation mark, meaningful spacing and both page-boundary relationships were rechecked directly against native source pixels.
+- scan 20 terminal `தொட்டுப்` + scan 21 opening `பார்க்கும்` is visually confirmed.
+- source-visible punctuation and spacing including `B. A.,`, `பெற்றனர்-`, `1-30`, and the short-hyphen clause separators all match the canonical record.
+- the pale physical-copy strip / handling marks crossing the body are non-publication layers and do not leave any canonical character unresolved.
+- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was rechecked; representative direct forms include `மாலை` (`லை`), `இளைஞர்கள்` (`ளை`), `வைத்தாற்போல` (`றா`) and `நினைத்து` (`னை`).
+- unresolved historical-glyph ambiguity — **0**; no new historical-family correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 21 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

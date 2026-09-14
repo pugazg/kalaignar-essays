@@ -37,6 +37,16 @@ transcription_method: "direct visual comparison with source scan"
 - `காங்கிரஸ் வாதியான`, `இளந்தோழர்`, `துடியாய்த் துடித்தார்` போன்ற source-visible readings context மூலம் மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
 
+## P2R visual-fidelity re-audit — Batch R05
+
+- scan 23's open quotation was rechecked through the scan-24 opening `போதும் பேச்சு...` and closing quote.
+- every printed word, punctuation separator, meaningful spacing and terminal open quotation `“எழுதிக்கொள்க என் பெயரையும்` was compared directly with the native source.
+- source-visible forms including `காங்கிரஸ் வாதியான`, `பொன்னம்பலக் கவுண்டர்`, `நாணமடைந்தார்`, `ஒருவருக்கொருவர்`, and `துடியாய்த் துடித்தார்` remain unchanged.
+- short-hyphen clause separators throughout the page are source-confirmed.
+- mandatory historical-family verification was repeated; representative forms include `மனைவிக்கும்` (`னை`), `வாதியான` (`னா`) and repeated `லை` family forms.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 24 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

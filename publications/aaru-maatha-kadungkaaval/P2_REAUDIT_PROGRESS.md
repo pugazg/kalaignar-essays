@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **20/224**
-- completed range — **1–20**
-- next range — **21–25**
+- re-audited — **25/224**
+- completed range — **1–25**
+- next range — **26–30**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **11**
@@ -100,8 +100,29 @@ Historical-family findings:
 
 P2 canonical totals remain **222 verified / 2 needs-review**; scan 18 remains one of the two source-obscured holds.
 
+## Batch R05 — scans 21–25
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 21 | body / folio 18 | PASS | full word / punctuation / spacing / boundary review; no canonical correction |
+| 22 | body / folio 19 | PASS | heading, all body text and terminal `பெற்ற` confirmed; no canonical correction |
+| 23 | body / folio 20 | PASS | full text and terminal open quotation confirmed; no canonical correction |
+| 24 | body / folio 21 | PASS | full text and terminal open quotation confirmed; no canonical correction |
+| 25 | body / folio 22 | PASS | full text, `மூன்றாம் நாள் :` historical-`றா` identity, numerals and terminal fragment confirmed |
+
+Historical-family findings:
+
+- scan 21 — `மாலை` (`லை`), `இளைஞர்கள்` (`ளை`), `வைத்தாற்போல` (`றா`), `நினைத்து` (`னை`);
+- scan 22 — `அம்பிலை` / `அலைவதிலும்` (`லை`), `அலாதியான` (`னா`);
+- scan 23 — `சென்றார்கள்` (`றா`) plus same-edition `லை` family checks;
+- scan 24 — `மனைவிக்கும்` (`னை`), `வாதியான` (`னா`);
+- scan 25 — `மூன்றாம்` (`றா`), `காளை` (`ளை`), `குளித்தலை` (`லை`);
+- new historical-family correction events — **0**; cumulative count remains **11**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**.
+
 ## Exact next activity
 
-**Batch R05 — physical scans 21–25.**
+**Batch R06 — physical scans 26–30.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **25**; do not process scan 26.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **30**; do not process scan 31.

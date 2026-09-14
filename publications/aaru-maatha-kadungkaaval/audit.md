@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 20/224 scans complete; next 21–25** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 25/224 scans complete; next 26–30** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1445,8 +1445,22 @@ Historical-family verification added **0 new correction events**; cumulative cou
 
 P2R progress — **20/224**. P2 remains **222 verified / 2 needs-review**. Next range — **21–25**.
 
+### Batch R05 — scans 21–25
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 21 | PASS | full word / punctuation / spacing / boundary review; no correction |
+| 22 | PASS | heading and complete body / terminal fragment confirmed; no correction |
+| 23 | PASS | full text and open quotation confirmed; no correction |
+| 24 | PASS | full text and open quotation confirmed; no correction |
+| 25 | PASS | full text / numerals / heading / terminal fragment confirmed; historical `றா` in `மூன்றாம்` reconfirmed |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **11**.
+
+P2R progress — **25/224**. P2 remains **222 verified / 2 needs-review**. Next range — **26–30**.
+
 ## Exact next activity
 
-**P2R Batch R05 — scans 21–25.**
+**P2R Batch R06 — scans 26–30.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 25.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 30.

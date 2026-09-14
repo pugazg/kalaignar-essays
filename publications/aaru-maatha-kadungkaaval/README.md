@@ -38,7 +38,7 @@ Direct native inspection established:
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 20/224 scans; next 21–25**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 25/224 scans; next 26–30**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -465,8 +465,19 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - P2 totals remain **222 verified / 2 needs-review**
 - P2R progress — **20/224**
 
+### Batch R05 — scans 21–25
+
+- scans 21–25 — **5/5 re-audited**
+- full word / punctuation / spacing / page-boundary comparison passed on all five scans
+- canonical body text corrections — **0**
+- scan 25 `மூன்றாம் நாள் :` historical-`றா` identity reconfirmed
+- new historical-glyph correction events — **0**
+- cumulative historical-glyph correction-event count — **11**
+- P2 totals remain **222 verified / 2 needs-review**
+- P2R progress — **25/224**
+
 ## Exact next activity
 
-**P2R Batch R05 — scans 21–25.**
+**P2R Batch R06 — scans 26–30.**
 
-Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Stop after scan 25.
+Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Stop after scan 30.

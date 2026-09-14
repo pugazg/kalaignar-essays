@@ -39,6 +39,16 @@ transcription_method: "direct visual comparison with source scan"
 - `அவர் நான்`, `பஞ்சாயத்து தேர்தலில்`, `வெற்றிச் சேதியுடனே`, `காதற் கலப்பு மணம்` போன்ற source-visible readings context மூலம் மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
 
+## P2R visual-fidelity re-audit — Batch R05
+
+- scan 22 terminal `பெற்ற` + scan 23 opening `வரவேற்புக் குழுவிற்குத்தான் சாரும்.` was visually rechecked.
+- every word, punctuation mark, meaningful spacing and terminal open quotation `“காதலிலே - கவிதையிலே களம்` matches the native source.
+- unusual source forms and spacing including `கருவி-`, `கண்கள்-கள்ளமில்லா நெஞ்சம்-`, `அவர் நான்,`, `அன்றையதினம்`, and `வெற்றிபெற்று` were preserved exactly rather than normalized.
+- source-visible surface marks remain outside the publication-text layer.
+- mandatory 13-family historical-glyph audit was repeated; representative direct forms include `சென்றார்கள்` (`றா`) and the page's old-form `லை` family occurrences in ordinary words.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 23 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

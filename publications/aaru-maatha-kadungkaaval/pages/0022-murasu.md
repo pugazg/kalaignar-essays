@@ -36,6 +36,16 @@ transcription_method: "direct visual comparison with source scan"
 - `அதிலேகூட`, `நம்பி விடுவார்-` போன்ற source-visible wording/punctuation மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
 
+## P2R visual-fidelity re-audit — Batch R05
+
+- heading `அடுத்த நாள் :`, every printed word / punctuation unit, and terminal fragment `பெற்ற` were rechecked at native source resolution.
+- source-visible forms and punctuation including `வந்தார் - போனார் -`, `நம்பி விடுவார்-`, `அதிலேகூட`, `ஏழாயிரம் ரூபாய்`, and terminal `அம்பிலை தலைவராகப் பெற்ற` all match the canonical record.
+- line-wrap joins were retained only where the source clearly continues the same lexical item.
+- small stains / dark specks are non-publication marks; no print is unresolved.
+- mandatory historical-family verification was repeated; representative forms include `அம்பிலை` / `அலைவதிலும்` (`லை`) and `அலாதியான` (`னா`).
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 22 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

@@ -39,6 +39,16 @@ transcription_method: "direct visual comparison with source scan"
 - `கறுத்தமேனியும்`, `எதிர்பார்த்தபடி யிருந்தது`, `ராசா-ஆகிய` போன்ற source-visible wording/spacing மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
 
+## P2R visual-fidelity re-audit — Batch R05
+
+- scan 24 terminal quotation `“எழுதிக்கொள்க என் பெயரையும்` + scan 25 opening `அணி வகுப்பில்”` was visually confirmed.
+- every printed word, numeral, punctuation mark, heading and terminal fragment `முடிவைச்சொல்ல` was compared again with native source pixels.
+- source-visible forms including `ஆறுமாதப் பரிசும்`, `கஸ்தூரி ராஜ்`, `விருந்துபசாரத்திற்கு`, `விளக்கவுரையுமாற்றி`, `எதிர்பார்த்தபடி யிருந்தது`, `ராசா-ஆகிய`, and `ஏழுபேர்` all match the canonical record.
+- heading `மூன்றாம் நாள் :` was re-verified by historical character identity; the old `றா` shape is correctly encoded as modern Unicode `றா`, not transcribed by modern visual resemblance.
+- mandatory family-set review also confirmed `காளை` (`ளை`) and `குளித்தலை` (`லை`).
+- unresolved historical-glyph ambiguity — **0**; this reconfirms the existing reading and adds no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 25 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது; scan 26 intentionally not transcribed.
