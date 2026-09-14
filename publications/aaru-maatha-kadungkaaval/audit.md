@@ -1243,20 +1243,42 @@ Batch 052 result:
 - scan 186 was not opened.
 - unrelated existing holds were intentionally left for a later correction pass.
 
-## P2 cumulative totals through Batch 052
+### Batch 053 — backlog scans 186–190
+
+Focused archival-fidelity re-read from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 186 — `pages/0186-sirai.md` — **verified** — printed folio 183 — extract page 37
+- scan 187 — `pages/0187-sirai.md` — **verified** — printed folio 184 — extract page 38
+- scan 188 — `pages/0188-sirai.md` — **verified** — printed folio 185 — extract page 39
+- scan 189 — `pages/0189-sirai.md` — **verified** — printed folio 186 — extract page 40
+- scan 190 — `pages/0190-sirai.md` — **verified** — printed folio 187 — extract page 41
+
+Batch 053 result:
+
+- backlog records resolved — **5/5**
+- verified — **5**
+- needs-review remaining from this batch — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- mandatory 13-family historical-glyph audit completed on all five pages.
+- source-visible unusual spelling, spacing, quotation practice, page-boundary fragments and physical-copy marks were preserved without normalization.
+- scan 191 was not opened.
+- unrelated existing holds were intentionally left for a later correction pass.
+
+## P2 cumulative totals through Batch 053
 
 - canonical page records — **224/224**
-- verified — **199**
-- needs-review — **25**
+- verified — **204**
+- needs-review — **20**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- unresolved transcription / printed-text holds — **25**:
+- unresolved transcription / printed-text holds — **20**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
   - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
-  - scans 186–190 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 37–41;
   - scans 191–195 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 42–46;
   - scans 196–200 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 47–51.
   - scan 211 — one physical-copy dark/blue mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was guessed.
@@ -1276,4 +1298,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 backlog-resolution scans 186–190.**
+**P2 backlog-resolution scans 191–195.**
