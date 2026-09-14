@@ -40,6 +40,15 @@ transcription_method: "direct visual comparison with source scan"
 - கண்ணதாசன், எண்ணை, நூலிழையில் ஆகிய source clusters enlarged pixels-க்கு எதிராக character identity அடிப்படையில் வாசிக்கப்பட்டன.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R12
+
+- scan 56 terminal `வாடகைக்கார் ஒன்றில்,` + scan 57 opening `நான் - சத்தி - ...` was visually reconfirmed.
+- every printed word, quotation mark, punctuation unit, meaningful spacing and page ending was compared with native source pixels.
+- source-visible wording including `டடடட`, `மாதம் போம் காத வழி!`, `‘டயர்’`, `என்ஜினுக்கு`, `தென்னலிராமன் ஹார்ஸ் பவர்`, `புகைச்சலைக்`, `நூலிழையில்`, and `சப் இன்ஸ்பெக்டரும்` all match the canonical record.
+- mandatory historical-family verification was repeated; `கண்ணதாசன்` reconfirms `ணா` and `எண்ணை` reconfirms `ணை`.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 57 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

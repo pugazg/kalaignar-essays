@@ -39,6 +39,15 @@ transcription_method: "direct visual comparison with source scan"
 - இளைஞர் மற்றும் பிற reform-sensitive clusters source pixels-க்கு எதிராக character identity அடிப்படையில் வாசிக்கப்பட்டன.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R12
+
+- every printed word, Latin initials, numeral, quotation mark, punctuation separator and meaningful spacing was compared with the native source image.
+- source-visible forms including `வெங்கிடங்கால்`, `ஜூன் 30ல்`, `S. K. சாமியும்`, `நாகை வட்டாரக் கழகத்தின்`, `திருவாரூர்த்`, `வறட்டு தத்துவத்தின்`, `“மைனர்”களின்`, and `சிதம்பரத்திலே மாநாடு - ஜூலை 4, 5, இருநாட்களிலே!` were all reconfirmed.
+- the page ends a complete sentence / announcement; no scan-60 wording was pulled backward.
+- mandatory historical-family verification was repeated; `இளைஞர்` reconfirms `ளை`, while `சென்னைக்கு` provides same-typeface `னை` comparison.
+- unresolved historical-glyph ambiguity — **0**; no new historical-family correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 59 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

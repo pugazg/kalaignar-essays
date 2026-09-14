@@ -44,6 +44,15 @@ transcription_method: "direct visual comparison with source scan"
 - அண்ணுமலை, வண்ணத், அனைவரையும், கண்ணென உள்ளிட்ட reform-sensitive clusters source pixels-க்கு எதிராக character identity அடிப்படையில் வாசிக்கப்பட்டன.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R12
+
+- heading `முரசு முழங்கியது`, every quoted line, emphasis line, punctuation separator and the complete terminal sentence were rechecked against native source pixels.
+- source-visible forms including `தின தயாபரன்`, `வாணிப்பர்`, `கேத்திரத்தைப்பற்றி`, `ஆடிய பாதர்`, `நாளைப் போவார்`, `அண்ணுமலை`, `பொன்னை சந்தி`, `கண்ணென`, `பண் பாடும்`, `நாட்டுக்களித்த`, and `பொன்னர் மேனியனின்` all match the canonical record and were not modernized or context-corrected.
+- scan 61 was not opened; scan 60 already ends with a complete sentence at `திருக்கோயில்.`.
+- mandatory historical-family verification was repeated; `அண்ணுமலை` reconfirms `லை` within the same source form, and `வண்ணத்` / `கண்ணென` were used for same-typeface consonant-family discrimination.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 60 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

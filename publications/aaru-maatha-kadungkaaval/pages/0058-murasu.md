@@ -45,6 +45,15 @@ transcription_method: "direct visual comparison with source scan"
 - எண்ணுகிறீர்களா, அண்ணா மற்றும் தொடர்புடைய reform-sensitive clusters source pixels-க்கு எதிராகச் சரிபார்க்கப்பட்டன.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R12
+
+- the opening bus-driver dialogue and every subsequent word / punctuation unit / meaningful spacing were rechecked directly from native source pixels.
+- colloquial source wording `“என்னய்யா ஹாரன் பண்ணுமா வரே? / நான் வேற பிரேக் இல்லாம வரேன்!”` was reconfirmed verbatim.
+- source-visible forms including `மல்லக்கொம்பையெனும்`, `தமிழர் தந்த செல்வம்`, `முதல் வரிசைப் படைவீரராவார்`, `அம்பிலுக்கும்`, `முத்துகிருஷ்ணனுக்கும்`, `எசனே`, and `ஜூலை 15ல்` all match the canonical record.
+- mandatory historical-family review was repeated; `அண்ணா` directly reconfirms `ணா`; no reform-sensitive cluster remains ambiguous.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 58 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

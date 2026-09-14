@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 55/224 scans complete; next 56–60** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 60/224 scans complete; next 61–65** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1543,8 +1543,22 @@ Historical-family verification added **0 new correction events**; cumulative cou
 
 P2R progress — **55/224**. P2 remains **222 verified / 2 needs-review**. Next range — **56–60**.
 
+### Batch R12 — scans 56–60
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 56 | PASS | full text / open-quotation continuation / punctuation / spacing / terminal fragment confirmed |
+| 57 | PASS | full text / quotations / colloquial forms / page ending confirmed |
+| 58 | PASS | opening dialogue and complete body text confirmed |
+| 59 | PASS | complete text / Latin initials / numerals / closing announcement confirmed |
+| 60 | PASS | heading / quoted references / emphasis lines / complete ending confirmed |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **11**. Ordinary source-fidelity corrections — **0**.
+
+P2R progress — **60/224**. P2 remains **222 verified / 2 needs-review**. Next range — **61–65**.
+
 ## Exact next activity
 
-**P2R Batch R12 — scans 56–60.**
+**P2R Batch R13 — scans 61–65.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 60.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 65.

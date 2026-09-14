@@ -44,6 +44,16 @@ transcription_method: "direct visual comparison with source scan"
 - கண்ணை, ஆற்காடு உள்ளிட்ட reform-sensitive clusters source pixels-க்கு எதிராக character identity அடிப்படையில் வாசிக்கப்பட்டன.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R12
+
+- scan 55 terminal `வளர்ந்துவரும்` + scan 56 opening `எம்மைப் பார்!` was rechecked directly as the continuation of the open quotation.
+- every printed word, quote, punctuation separator, meaningful spacing and terminal `மாவட்ட சார்பில் அமைக்கப்பட்ட வாடகைக்கார் ஒன்றில்,` was compared with native source pixels.
+- source-visible forms including `காது செவிடுபடும் படியாக`, `எசனே`, `கொட்டிக் காட்டிற்று;`, `முகிலத் தொடும்`, `அம்பிலையும்`, `உளுந்தூர்ப்பேட்டை`, and `விடியற்காலை` all match the canonical record.
+- small stains / print wear are non-publication layers and do not obscure canonical text.
+- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was rechecked; representative forms include `கண்ணை` (`ணை`), `ஆற்காடு` (`றா`) and `சென்னை` (`னை`).
+- unresolved historical-glyph ambiguity — **0**; no new historical-family correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 56 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.
