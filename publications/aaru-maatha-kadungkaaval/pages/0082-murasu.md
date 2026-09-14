@@ -49,6 +49,15 @@ transcription_method: "direct visual comparison with source scan"
 - `இளைத்த`, `இளைஞரேறு`, `இணையில்லை`, and affected clusters were decoded by historical character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R17
+
+- scan 81 terminal `நெருக்கடியான` + scan 82 opening `நிலைகளுக்கிடையிலும்` was visually reconfirmed.
+- every printed word, Latin initials, quotation mark, punctuation unit, meaningful spacing and complete page ending was compared directly with native source pixels.
+- source-visible forms including `இளைத்த உடல்`, `இளைஞரேறு`, `பேசி பேசி`, `C. D. மூர்த்தி`, `வெங்கு நதி தனிற்`, `தருக்கு மொழி`, `தருக்குமொழி`, and `தலையொடியக்` all match the canonical record.
+- mandatory historical-family verification was repeated; `இளைத்த` / `இளைஞரேறு` reconfirm `ளை`, `இணையில்லை` reconfirms `ணை`, and `கண்ணதாசன்` reconfirms `ணா`.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 82 was fully compared with source pixels.

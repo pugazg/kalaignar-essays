@@ -45,6 +45,15 @@ transcription_method: "direct visual comparison with source scan"
 - affected older-type clusters were decoded by character identity rather than modern visual resemblance.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R17
+
+- scan 80 terminal `கலந்துகொள்ளவேண்டிய` + scan 81 opening `வர்கள் 14ம் தேதி...` was rechecked as the direct physical continuation `கலந்துகொள்ளவேண்டியவர்கள்`.
+- every printed word, numeral, punctuation separator, meaningful spacing, running header and terminal fragment `நெருக்கடியான` was compared with native source pixels.
+- source-visible forms including `14ம் தேதி`, `15ம் தேதி`, `ராமசுப்பையா-`, `கவ்விக் கொண்டு போலவே`, `கப்பிக்கொண்டிருந்தது`, `கணக்குப்பார்த்தோ`, and `புனைப் பெயரிலே` were preserved without normalization.
+- mandatory historical-family verification was repeated; `கண்ணதாசன்` reconfirms `ணா`, `தலைவன்` reconfirms `லை`, and `புனைப்` supplies a same-typeface `னை` check.
+- unresolved historical-glyph ambiguity — **0**; no new historical-family correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 81 was fully compared with source pixels.

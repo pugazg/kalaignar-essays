@@ -39,6 +39,15 @@ transcription_method: "direct visual comparison with source scan"
 - affected forms including `பின்னே`, `தமிழ்நாட்டான்`, and `கூனர்களும்` were decoded by historical character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R17
+
+- every printed word, numeral, punctuation sequence, meaningful spacing, running header and complete page ending was compared with native source pixels.
+- source punctuation `மலர்ந்தது!-`, `உலர்ந்தது!-`, and `விழுந்தது!-` was rechecked and retained exactly.
+- source-visible forms including `களங் காண`, `விலங்கொடிக்கும் விடுதலைப்பட்டாளம்`, `கிளம்பிற்றுக்காண்`, `தேடுதுகாண்`, `உமிகள்தான்`, and `புழுதி யெழுப்பியவாறு` all match the canonical record.
+- mandatory historical-family verification was repeated; repeated `தலை` / `தலையிலே` forms reconfirm `லை`, with the remaining tracked families checked in the same typeface.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 84 was fully compared with source pixels.

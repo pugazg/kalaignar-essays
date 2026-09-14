@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **80/224**
-- completed range — **1–80**
-- next range — **81–85**
+- re-audited — **85/224**
+- completed range — **1–85**
+- next range — **86–90**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **11**
@@ -372,8 +372,31 @@ Ordinary source-fidelity corrections in Batch R16 — **4**.
 
 P2 canonical totals remain **222 verified / 2 needs-review**.
 
+## Batch R17 — scans 81–85
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 81 | body / folio 78 | PASS | scan-80 continuation, complete text / numerals / spacing / terminal fragment confirmed; no canonical correction |
+| 82 | body / folio 79 | PASS | complete text / initials / quotations / historical-family review confirmed; no canonical correction |
+| 83 | body / folio 80 | PASS | unusual source forms, punctuation and complete ending confirmed; no canonical correction |
+| 84 | body / folio 81 | PASS | source punctuation sequences, full text and complete ending confirmed; no canonical correction |
+| 85 | body / folio 82 | PASS after correction | `எங்களைக் சீராட்டிப் பாராட்டி` → source-visible `எங்களைச் சீராட்டிப் பாராட்டி` |
+
+Historical-family findings:
+
+- scan 81 — `கண்ணதாசன்` (`ணா`), `தலைவன்` (`லை`), `புனைப்` (`னை`);
+- scan 82 — `இளைத்த` / `இளைஞரேறு` (`ளை`), `இணையில்லை` (`ணை`), `கண்ணதாசன்` (`ணா`);
+- scan 83 — `இழிவுதனைக்` (`னை`), `பறைசாற்றிடும்` (`றா`);
+- scan 84 — repeated `தலை` / `தலையிலே` (`லை`) plus same-typeface checks across the full tracked family set;
+- scan 85 — `அன்னையின்` reconfirms `னை`;
+- new historical-family correction events — **0**; cumulative count remains **11**.
+
+Ordinary source-fidelity corrections in Batch R17 — **1**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**.
+
 ## Exact next activity
 
-**Batch R17 — physical scans 81–85.**
+**Batch R18 — physical scans 86–90.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **85**; do not process scan 86.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **90**; do not process scan 91.

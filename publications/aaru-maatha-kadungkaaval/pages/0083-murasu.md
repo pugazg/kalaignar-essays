@@ -40,6 +40,15 @@ transcription_method: "direct visual comparison with source scan"
 - `கண்ணீரும்`, `மண்ணே`, `பறந்தனர்`, and affected clusters were read by historical character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R17
+
+- every printed word, punctuation separator, meaningful spacing, running header and complete page ending was rechecked directly from native source pixels.
+- source-visible forms including `முத்துப்பந்தாக்கள்`, `மதோன்மத்தர்கள்`, `ஊழியவரையில்`, `ஒண்டவந்த பிடாரிகள்`, `ஒதிய மிலர்கள்`, `இழிவுதனைக் காட்டிக் கொண்டோம்`, and `பறைசாற்றிடும்` were retained exactly rather than normalized.
+- the final sequence `கல்லக்குடியிலே - டால்மியா தொழிற்சாலையிலே புகை கிளம்பிற்று. புரட்சி எரிமலையிலும் புகை எழும்பிற்று!` was revalidated word-by-word.
+- mandatory historical-family verification was repeated; `இழிவுதனைக்` provides a direct `னை` check and `பறைசாற்றிடும்` reconfirms `றா`; no tracked family remains ambiguous.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 83 was fully compared with source pixels.
