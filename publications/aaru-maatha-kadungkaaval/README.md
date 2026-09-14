@@ -507,7 +507,7 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - scan 39 — `திசை எட்டும்` → **`திசை யெட்டும்`**
 - scan 40 — `எழுப்பியிருக்கிற` → **`எழுப்பி யிருக்கிற`**
 - scan 40 — `கலைவர்கள்` → **`தலைவர்கள்`**
-- ordinary source-fidelity corrections — **3**
+- ordinary source-fidelity corrections — **6**
 - new historical-glyph correction events — **0**
 - cumulative historical-glyph correction-event count — **11**
 - P2 totals remain **222 verified / 2 needs-review**
@@ -640,9 +640,10 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 ### Batch R19 — scans 91–95
 
 - scans 91–95 — **5/5 re-audited**
-- scans 91, 94 and 95 — PASS / no canonical correction
-- scan 92 — `கைத்தூக்குங்கள்` → **`கைதூக்குங்கள்`**; `இரண்டுகையும்` → **`இரண்டு கையும்`**
-- scan 93 — `அவரவர்க்கட்கு` → source-visible **`அவரவர்கட்கு`**
+- scans 94 and 95 — PASS / no canonical correction
+- scan 91 — `குமாரவேல் - குழந்தைவேல்` → source-visible **`குமாரவேல்-குழந்தைவேல்`**
+- scan 92 — `கைத்தூக்குங்கள்` → **`கைதூக்குங்கள்`**; `இரண்டுகையும்` → **`இரண்டு கையும்`**; `டி. எ. கமலன்` → **`டி.எ. கமலன்`**
+- scan 93 — `அவரவர்க்கட்கு` → source-visible **`அவரவர்கட்கு`**; `பூசிக்கொண்டு` → **`பூசிக் கொண்டு`**
 - scan 93→94 and scan 94→95 physical continuations were reconfirmed without rewriting page boundaries
 - ordinary source-fidelity corrections — **3**
 - new historical-glyph correction events — **0**

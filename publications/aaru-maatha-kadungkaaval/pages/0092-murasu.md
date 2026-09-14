@@ -13,7 +13,7 @@ transcription_method: "direct visual comparison with source scan"
 
 # அச்சு உரை
 
-அவர்கள் வருமாறு; ராமசுப்பையா, ஜெயங்கொண்டம் வேணுகோபால், மலைக்கோட்டை செயலாளர் ரத்தினம், அரியலூர் செயலாளர் எத்திராஜ், தமிழ் முத்து, முணுசாமி, மருதமுத்து, பாண்டியன், கலைமணி, முருகேசன், டி. எ. கமலன், பரமானந்தம், முருகேசன், ராமு, தங்கவேல், சின்னையா, சத்தி, அனீப், இராவணன், நல்லமணியன், காளிதாஸ், சக்கரபாணி, சோமசுந்தரம், மருதநாயகம், வளர்மதி, முகமதலி, கிருஷ்ணமூர்த்தி, பாண்டு, ராமன், சின்ன துரை, நடராசன் ஆகியோர்.
+அவர்கள் வருமாறு; ராமசுப்பையா, ஜெயங்கொண்டம் வேணுகோபால், மலைக்கோட்டை செயலாளர் ரத்தினம், அரியலூர் செயலாளர் எத்திராஜ், தமிழ் முத்து, முணுசாமி, மருதமுத்து, பாண்டியன், கலைமணி, முருகேசன், டி.எ. கமலன், பரமானந்தம், முருகேசன், ராமு, தங்கவேல், சின்னையா, சத்தி, அனீப், இராவணன், நல்லமணியன், காளிதாஸ், சக்கரபாணி, சோமசுந்தரம், மருதநாயகம், வளர்மதி, முகமதலி, கிருஷ்ணமூர்த்தி, பாண்டு, ராமன், சின்ன துரை, நடராசன் ஆகியோர்.
 
 போலீஸ் கூடத்திலே அனைவரும் அமர்ந்திருந்தோம். அந்த ஸ்டேஷன் சப் இன்ஸ்பெக்டர் எங்களைப் பாதுகாத்தபடி எங்கும் போகாமல் அங்கேயே அமர்ந்துவிட்டார்.
 
@@ -46,11 +46,11 @@ transcription_method: "direct visual comparison with source scan"
 ## P2R visual-fidelity re-audit — Batch R19
 
 - the full proper-name list, every numeral, quotation mark, punctuation mark, meaningful spacing and page ending were rechecked directly from the attached source pixels.
-- direct source corrections: `கைத்தூக்குங்கள்` → **`கைதூக்குங்கள்`**; `இரண்டுகையும்` → **`இரண்டு கையும்`**.
+- direct source corrections: `கைத்தூக்குங்கள்` → **`கைதூக்குங்கள்`**; `இரண்டுகையும்` → **`இரண்டு கையும்`**; `டி. எ. கமலன்` → **`டி.எ. கமலன்`**.
 - source-visible forms including `முப்பத்திஆறு`, `ஒன்-டூ-த்ரீ`, `அரசோச்சும்`, and the printed proper names were otherwise reconfirmed.
 - physical stains / print wear remain non-publication layer; none supplies or obscures wording used in the corrections.
 - mandatory historical-family verification was repeated; `மலைக்கோட்டை` / `கலைமணி` / `தலைமையில்` reconfirm `லை`, and `சின்னையா` reconfirms `னை`; the full 13-family set was checked by character identity.
-- both repairs are ordinary source-fidelity corrections, not tracked historical-vowel-family correction events.
+- all three repairs are ordinary source-fidelity corrections, not tracked historical-vowel-family correction events.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
 - result — **PASS after source-fidelity corrections**.
 

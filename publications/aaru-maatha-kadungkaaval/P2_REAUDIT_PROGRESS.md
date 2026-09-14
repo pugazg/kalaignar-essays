@@ -423,9 +423,9 @@ P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings r
 
 | Scan | Page type | Re-audit result | Source-fidelity action |
 |---:|---|---|---|
-| 91 | body / folio 88 | PASS | complete text / unusual source forms / punctuation / spacing / complete ending confirmed; no canonical correction |
-| 92 | body / folio 89 | PASS after corrections | `கைத்தூக்குங்கள்` → `கைதூக்குங்கள்`; `இரண்டுகையும்` → `இரண்டு கையும்` |
-| 93 | body / folio 90 | PASS after correction | `அவரவர்க்கட்கு` → source-visible `அவரவர்கட்கு`; terminal `அவர்போல் ஒரு` confirmed |
+| 91 | body / folio 88 | PASS after correction | `குமாரவேல் - குழந்தைவேல்` → source-visible `குமாரவேல்-குழந்தைவேல்` |
+| 92 | body / folio 89 | PASS after corrections | `கைத்தூக்குங்கள்` → `கைதூக்குங்கள்`; `இரண்டுகையும்` → `இரண்டு கையும்`; `டி. எ. கமலன்` → `டி.எ. கமலன்` |
+| 93 | body / folio 90 | PASS after corrections | `அவரவர்க்கட்கு` → source-visible `அவரவர்கட்கு`; `பூசிக்கொண்டு` → source-visible `பூசிக் கொண்டு`; terminal `அவர்போல் ஒரு` confirmed |
 | 94 | body / folio 91 | PASS | scan-93 continuation, full text / quotation / punctuation / terminal open `கும்பாபிஷேகம்` confirmed; no canonical correction |
 | 95 | body / folio 92 | PASS | scan-94 continuation, full text / punctuation / complete ending confirmed; scan 96 not opened |
 
@@ -439,7 +439,7 @@ Historical-family findings:
 - all 13 tracked families were explicitly checked on every scan by character identity;
 - new historical-family correction events — **0**; cumulative count remains **11**.
 
-Ordinary source-fidelity corrections in Batch R19 — **3**.
+Ordinary source-fidelity corrections in Batch R19 — **6**.
 
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 

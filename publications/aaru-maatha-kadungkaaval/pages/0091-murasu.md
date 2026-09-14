@@ -19,13 +19,13 @@ transcription_method: "direct visual comparison with source scan"
 
 தாயுள்ளம் படைத்தவர் - பேயுள்ளமும் இரங்கும்படி பேசுபவர் - இன்று நேற்றல்ல - என்னற்கோ - என் கண் மட்டுமல்ல; இயக்கத்தின் முன்னணி வீரர்கள் அனைவரையும் கவர்ந்தவர். அவருடைய தலைமையிலே சென்ற படை - களத்திலே எங்களைப் போலவே அறப்போர் புரிந்து அதிகார வர்க்கத்தினரால் பிடிக்கப்பட்டது.
 
-அவர்கள் எங்களுடன் வந்து கலந்தனர். அந்த இருபத்தைந்து பேரிலே - முதலில் எங்களிடமிருந்து சர்க்கிள் இன்ஸ்பெக்டரால் பிரிக்கப்பட்ட பதினைந்து தோழர்களும் இருந்தனர். போலீஸ் ஸ்டேஷனில் எங்கள் ஐவரை (கருணாநிதி - சத்தி - கஸ்தூரி - குமாரவேல் - குழந்தைவேல்) தனியாகப் பிரிக்கப்பட்டு, உட்காரவைக்கப்பட்டோம். மற்ற 31 பேர்களும் ராமசுப்பையாவை உட்பட தனியாகப் பிரிக்கப்பட்டனர்.
+அவர்கள் எங்களுடன் வந்து கலந்தனர். அந்த இருபத்தைந்து பேரிலே - முதலில் எங்களிடமிருந்து சர்க்கிள் இன்ஸ்பெக்டரால் பிரிக்கப்பட்ட பதினைந்து தோழர்களும் இருந்தனர். போலீஸ் ஸ்டேஷனில் எங்கள் ஐவரை (கருணாநிதி - சத்தி - கஸ்தூரி - குமாரவேல்-குழந்தைவேல்) தனியாகப் பிரிக்கப்பட்டு, உட்காரவைக்கப்பட்டோம். மற்ற 31 பேர்களும் ராமசுப்பையாவை உட்பட தனியாகப் பிரிக்கப்பட்டனர்.
 
 ## அச்சு அமைப்பு
 
 - visible printed folio — **88**.
 - running header — `கருணாநிதி`.
-- source-visible unusual forms including `வாணிக்கக்`, `என்னற்கோ`, and `31 பேர்களும்` were retained without contextual correction.
+- source-visible unusual forms including `வாணிக்கக்`, `என்னற்கோ`, `குமாரவேல்-குழந்தைவேல்`, and `31 பேர்களும்` were retained without contextual correction.
 - page ends with complete sentence `தனியாகப் பிரிக்கப்பட்டனர்.`
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -46,9 +46,10 @@ transcription_method: "direct visual comparison with source scan"
 - source-visible unusual forms including `வாணிக்கக்`, `என்னற்கோ`, and `31 பேர்களும்` were reconfirmed without normalization.
 - physical stains / age marks remain non-publication layer; none obscures body wording.
 - mandatory historical-family verification was repeated; `இளைப்பாறிக்கொள்ளும்` reconfirms `ளை / றா`, and `பதினைந்து` reconfirms `னை`; the full 13-family set was checked by character identity.
-- canonical correction — **none**.
+- direct source correction in the parenthetical five-person list: `குமாரவேல் - குழந்தைவேல்` → **`குமாரவேல்-குழந்தைவேல்`**; enlarged source pixels show the final hyphen printed closed to both names, unlike the preceding spaced separators.
+- this hyphen-spacing repair is an ordinary source-fidelity correction, not a tracked historical-glyph correction event.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
-- result — **PASS**.
+- result — **PASS after source-fidelity correction**.
 
 ## P2 நிலை
 

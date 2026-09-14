@@ -1497,7 +1497,7 @@ P2R progress — **35/224**. P2 remains **222 verified / 2 needs-review**. Next 
 | 39 | PASS after correction | `திசை எட்டும்` → source-visible `திசை யெட்டும்` |
 | 40 | PASS after corrections | `எழுப்பியிருக்கிற` → `எழுப்பி யிருக்கிற`; `கலைவர்கள்` → `தலைவர்கள்` |
 
-Historical-family verification added **0 new correction events**; cumulative count remains **11**. Ordinary source-fidelity corrections — **3**.
+Historical-family verification added **0 new correction events**; cumulative count remains **11**. Ordinary source-fidelity corrections — **6**.
 
 P2R progress — **40/224**. P2 remains **222 verified / 2 needs-review**. Next range — **41–45**.
 
@@ -1645,9 +1645,9 @@ P2R progress — **90/224**. P2 remains **222 verified / 2 needs-review**. Guess
 
 | Scan | Result | Re-audit finding |
 |---:|---|---|
-| 91 | PASS | complete text / unusual source forms / punctuation / spacing / ending confirmed |
-| 92 | PASS after corrections | `கைத்தூக்குங்கள்` → `கைதூக்குங்கள்`; `இரண்டுகையும்` → `இரண்டு கையும்` |
-| 93 | PASS after correction | `அவரவர்க்கட்கு` → source-visible `அவரவர்கட்கு`; terminal `அவர்போல் ஒரு` confirmed |
+| 91 | PASS after correction | `குமாரவேல் - குழந்தைவேல்` → source-visible `குமாரவேல்-குழந்தைவேல்` |
+| 92 | PASS after corrections | `கைத்தூக்குங்கள்` → `கைதூக்குங்கள்`; `இரண்டுகையும்` → `இரண்டு கையும்`; `டி. எ. கமலன்` → `டி.எ. கமலன்` |
+| 93 | PASS after corrections | `அவரவர்க்கட்கு` → source-visible `அவரவர்கட்கு`; `பூசிக்கொண்டு` → source-visible `பூசிக் கொண்டு`; terminal `அவர்போல் ஒரு` confirmed |
 | 94 | PASS | scan-93 continuation / full text / punctuation / open terminal `கும்பாபிஷேகம்` confirmed |
 | 95 | PASS | scan-94 continuation / full text / punctuation / ending confirmed; scan 96 not opened |
 

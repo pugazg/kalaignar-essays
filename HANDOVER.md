@@ -1537,7 +1537,7 @@ Batch R01 scans **1–5** is complete.
 - scans 36–38 — PASS / no canonical text correction.
 - scan 39 — corrected `திசை எட்டும்` → source-visible **`திசை யெட்டும்`**.
 - scan 40 — corrected `எழுப்பியிருக்கிற` → **`எழுப்பி யிருக்கிற`** and `கலைவர்கள்` → source-visible **`தலைவர்கள்`**.
-- ordinary source-fidelity corrections — **3**.
+- ordinary source-fidelity corrections — **6**.
 - new historical-family correction events — **0**; cumulative count remains **11**.
 - P2 totals remain **222 verified / 2 needs-review**.
 - P2R progress — **40/224**.
@@ -1661,9 +1661,10 @@ Batch R01 scans **1–5** is complete.
 ### Batch R19 — scans 91–95
 
 - **5/5 re-audited**
-- scans 91, 94 and 95 — PASS / no canonical text correction.
-- scan 92 — corrected `கைத்தூக்குங்கள்` → **`கைதூக்குங்கள்`** and `இரண்டுகையும்` → **`இரண்டு கையும்`**.
-- scan 93 — corrected `அவரவர்க்கட்கு` → source-visible **`அவரவர்கட்கு`**.
+- scans 94 and 95 — PASS / no canonical text correction.
+- scan 91 — corrected `குமாரவேல் - குழந்தைவேல்` → source-visible **`குமாரவேல்-குழந்தைவேல்`**.
+- scan 92 — corrected `கைத்தூக்குங்கள்` → **`கைதூக்குங்கள்`**, `இரண்டுகையும்` → **`இரண்டு கையும்`**, and `டி. எ. கமலன்` → **`டி.எ. கமலன்`**.
+- scan 93 — corrected `அவரவர்க்கட்கு` → source-visible **`அவரவர்கட்கு`** and `பூசிக்கொண்டு` → **`பூசிக் கொண்டு`**.
 - scan 93 → 94 and scan 94 → 95 physical continuations were explicitly reconfirmed without rewriting page boundaries.
 - ordinary source-fidelity corrections — **3**.
 - new historical-family correction events — **0**; cumulative count remains **11**.
