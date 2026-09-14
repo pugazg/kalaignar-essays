@@ -45,6 +45,16 @@ transcription_method: "direct visual comparison with source scan"
 - அண்ணா, தென்னாட்டவரை, நாவொலியும், தரணியில் ஆகிய clusters enlarged source pixels-க்கு எதிராக character identity அடிப்படையில் வாசிக்கப்பட்டன.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R13
+
+- scan 62 terminal `விழியோட்டும் -` + scan 63 opening `கோமான்!` was rechecked as the direct physical continuation.
+- every printed word, numeral, quotation mark, punctuation separator and complete page ending was compared with native source pixels.
+- source-visible forms including `தங்கத்துட் தங்கம்`, `முப்பதினாயிரம்`, `ஜூலை 15ம் நாள்`, `நான்சென்ஸ்`, `வேலோடுவேல்`, `வாளொடு வாள்`, `கனக விசயன்`, and terminal `தரணியில்` were revalidated character-by-character.
+- the previously difficult `தரணியில்` reading remains fully resolved from the source and was not reopened.
+- mandatory historical-family verification was repeated; `அண்ணா`, `தென்னாட்டவரை`, `நாவொலியும்`, and `தரணியில்` provide direct family checks.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 63 direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

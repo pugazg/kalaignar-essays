@@ -27,13 +27,13 @@ transcription_method: "direct visual comparison with source scan"
 
 இப்படி எரிமலை வெடித்தது!
 
-ஆண்டவன் பெயரால் - ஆலயப் பெருமைகளால் - ஆஷாடபூதிகளே வளவிட்டு - ஆரியத்தை உச்சாணிக் கொப்பில் ஊஞ்சலாட்டத் திட்டம் போட்டவர்களின் கொட்டமடக்க எடுத்திருக்கும் பாவியது தி. மு. கழகம். அதன் பட்டுக்கொடி கட்டிப் பறக்கும் இளைஞரில் தில்லையும் ஒன்று.
+ஆண்டவன் பெயரால் - ஆலயப் பெருமைகளால் - ஆஷாடபூதிகளே வளரவிட்டு - ஆரியத்தை உச்சாணிக் கொப்பில் ஊஞ்சலாட்டத் திட்டம் போட்டவர்களின் கொட்டமடக்க எடுத்திருக்கும் பரவியது தி. மு. கழகம். அதன் பட்டுக்கொடி கட்டிப் பறக்கும் இளைஞரில் தில்லையும் ஒன்று.
 
 ## அச்சு அமைப்பு
 
 - visible printed folio — **58**.
 - scan 60 complete sentenceக்குப் பின் இப்பக்கம் புதிய paragraph-ஆகத் தொடங்குகிறது.
-- source-visible unusual forms வேங்கை யெனத், இயக்க மாம், கேள்வி யெழுந்தது, பாவியது ஆகியவை மாற்றப்படவில்லை.
+- source-visible unusual forms வேங்கை யெனத், இயக்க மாம், கேள்வி யெழுந்தது, வளரவிட்டு, பரவியது ஆகியவை மாற்றப்படவில்லை.
 - page ends with complete sentence தில்லையும் ஒன்று.
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -47,6 +47,19 @@ transcription_method: "direct visual comparison with source scan"
 - ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ குடும்பங்கள் explicit-ஆகச் சரிபார்க்கப்பட்டன.
 - பூணூல், பறையன், இளைஞரில் உள்ளிட்ட clusters character identity அடிப்படையில் வாசிக்கப்பட்டன.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
+
+## P2R visual-fidelity re-audit — Batch R13
+
+- every printed word, punctuation separator, meaningful spacing and complete page ending was rechecked against native embedded-source pixels.
+- direct source corrections:
+  - `ஆஷாடபூதிகளே வளவிட்டு` → **`ஆஷாடபூதிகளே வளரவிட்டு`**;
+  - `கொட்டமடக்க எடுத்திருக்கும் பாவியது` → **`கொட்டமடக்க எடுத்திருக்கும் பரவியது`**.
+- both repairs were read character-by-character from enlarged native pixels; neither was supplied from grammar or context.
+- source-visible forms including `வேங்கை யெனத்`, `இயக்க மாம்`, `கேள்வி யெழுந்தது`, `பூணூல்`, `முழ்கினால்தான்`, and `உச்சாணிக் கொப்பில்` were rechecked and preserved.
+- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was rechecked; representative forms include `பூணூல்`, `பறையன்`, and `இளைஞரில்`.
+- the two repairs are ordinary source-word fidelity corrections, not tracked historical-vowel-family correction events.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity corrections**.
 
 ## P2 நிலை
 

@@ -13,11 +13,11 @@ transcription_method: "direct visual comparison with source scan"
 
 # அச்சு உரை
 
-அதற்கும் ஒரு போர் என அறிவித்தோம். போர் முனைக்குச் செல்க என்றார் பொதுச்செயலாளர்! எடுத்துச் செல்லவேண்டிய கருவிகளையும் குறிப்பிட்டார்.
+அதற்கும் ஒரு போர் என அறிவித்தோம். போர் முனைக்குச் செல்க என்றார் பொதுச் செயலாளர்! எடுத்துச் செல்லவேண்டிய கருவிகளையும் குறிப்பிட்டார்.
 
 கடமையெனும் வாள் - கண்ணியமெனும் கேடயம் - கட்டுப்பாடெனும் கவசம் - மூன்றும் எடுத்துச் செல்க என்றார்; அந்த மூன்றெழுத்துச் செல்வர் அண்ணா!
 
-முரசு அதிர்ந்தது! வடவர் ஆதிக்க அரசு கவிழ்ந்திடுக என முரசு அதிர்ந்தது! திராவிடர் தனி - பயமில்லே இனி - என்ற முரசு அதிர்ந்தது! - முத்தமிழ் படை கெட்ட - முன்னேற்றம் தடைபட - இனி விடோம்! விடோம்! என முரசதிர்ந்தது! எதிரிகள் கோடி இட்டழைப்பினும் தொடோம்! தொடோம்! என முரசதிர்ந்தது! ரத்தக் கடல்கள் - கொத்தும் இடர்கள் - எதையும் தாங்கும் இதயங் கொண்டோர் - எழுந்தார் எனவே அதிர்ந்தது முரசு! விழுந்தது பகையென
+முரசு அதிர்ந்தது! வடவர் ஆதிக்க அரசு கவிழ்ந்திடுக என முரசு அதிர்ந்தது! திராவிடர் தனி - பயமில்லே இனி - என்ற முரசு அதிர்ந்தது! - முத்தமிழ் படை கெட - முன்னேற்றம் தடைபட - இனி விடோம்! விடோம்! என முரசதிர்ந்தது! எதிரிகள் கோடி இட்டழைப்பினும் தொடோம்! தொடோம்! என முரசதிர்ந்தது! ரத்தக் கடல்கள் - கொத்தும் இடர்கள் - எதையும் தாங்கும் இதயங் கொண்டோர் - எழுந்தார் எனவே அதிர்ந்தது முரசு! விழுந்தது பகையென
 
 அதிர்ந்தது முரசு!
 
@@ -46,6 +46,19 @@ transcription_method: "direct visual comparison with source scan"
 - ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ குடும்பங்கள் explicit-ஆகச் சரிபார்க்கப்பட்டன.
 - கண்ணியமெனும், அண்ணா, முன்னேற்றம் உள்ளிட்ட clusters enlarged source pixels-க்கு எதிராக character identity அடிப்படையில் வாசிக்கப்பட்டன.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
+
+## P2R visual-fidelity re-audit — Batch R13
+
+- every printed word, punctuation separator, meaningful spacing, repeated refrain and printed star separator was rechecked against native source pixels.
+- direct source corrections:
+  - `பொதுச்செயலாளர்` → **`பொதுச் செயலாளர்`**, preserving the visible word space;
+  - `முத்தமிழ் படை கெட்ட` → **`முத்தமிழ் படை கெட`**, removing the unsupported doubled `ட்`.
+- the `கெட` reading was confirmed from the enlarged source glyph immediately before the short hyphen; no contextual grammatical completion was used.
+- source-visible forms including `கடமையெனும் வாள்`, `கண்ணியமெனும் கேடயம்`, `முரசதிர்ந்தது`, `பயமில்லே இனி`, `தொடோம்`, `இதயங் கொண்டோர்`, and the three progressively punctuated `அதிர்ந்தது முரசு` lines remain unchanged.
+- mandatory historical-family verification was repeated; `கண்ணியமெனும்`, `அண்ணா`, and `முன்னேற்றம்` were checked directly.
+- both repairs are ordinary spacing / consonant-fidelity corrections, not tracked historical-vowel-family correction events.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity corrections**.
 
 ## P2 நிலை
 

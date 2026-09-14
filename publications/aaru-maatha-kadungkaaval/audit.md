@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 60/224 scans complete; next 61–65** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 65/224 scans complete; next 66–70** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1557,8 +1557,22 @@ Historical-family verification added **0 new correction events**; cumulative cou
 
 P2R progress — **60/224**. P2 remains **222 verified / 2 needs-review**. Next range — **61–65**.
 
+### Batch R13 — scans 61–65
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 61 | PASS after corrections | `வளவிட்டு` → `வளரவிட்டு`; `பாவியது` → `பரவியது` |
+| 62 | PASS | complete text / Latin initials / punctuation / terminal continuation confirmed |
+| 63 | PASS | complete quotation / numerals / imagery / terminal `தரணியில்` confirmed |
+| 64 | PASS | complete text / quoted blessing / punctuation / ending confirmed |
+| 65 | PASS after corrections | `பொதுச்செயலாளர்` → `பொதுச் செயலாளர்`; `முத்தமிழ் படை கெட்ட` → `முத்தமிழ் படை கெட` |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **11**. Ordinary source-fidelity corrections — **4**.
+
+P2R progress — **65/224**. P2 remains **222 verified / 2 needs-review**. Next range — **66–70**.
+
 ## Exact next activity
 
-**P2R Batch R13 — scans 61–65.**
+**P2R Batch R14 — scans 66–70.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 65.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 70.

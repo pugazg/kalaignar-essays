@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **60/224**
-- completed range — **1–60**
-- next range — **61–65**
+- re-audited — **65/224**
+- completed range — **1–65**
+- next range — **66–70**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **11**
@@ -280,8 +280,31 @@ Ordinary source-fidelity corrections in Batch R12 — **0**.
 
 P2 canonical totals remain **222 verified / 2 needs-review**.
 
+## Batch R13 — scans 61–65
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 61 | body / folio 58 | PASS after corrections | `வளவிட்டு` → `வளரவிட்டு`; `பாவியது` → `பரவியது` |
+| 62 | body / folio 59 | PASS | full text / Latin initials / punctuation / terminal continuation confirmed; no canonical correction |
+| 63 | body / folio 60 | PASS | full quotation / numerals / battle imagery / terminal `தரணியில்` confirmed; no canonical correction |
+| 64 | body / folio 61 | PASS | full quoted blessing / political passages / punctuation / complete ending confirmed; no canonical correction |
+| 65 | body / folio 62 | PASS after corrections | `பொதுச்செயலாளர்` → `பொதுச் செயலாளர்`; `முத்தமிழ் படை கெட்ட` → `முத்தமிழ் படை கெட` |
+
+Historical-family findings:
+
+- scan 61 — `பூணூல்`, `பறையன்`, `இளைஞரில்` rechecked;
+- scan 62 — `தலைவராய்க்கொண்டு`, `தென்றல்`, `புன்சிரிப்பால்` rechecked;
+- scan 63 — `அண்ணா`, `தென்னாட்டவரை`, `தரணியில்` rechecked;
+- scan 64 — `கண்ணீரும்`, `அண்ணாவின்`, `திருத்தணிப்` rechecked;
+- scan 65 — `கண்ணியமெனும்`, `அண்ணா`, `முன்னேற்றம்` rechecked;
+- new historical-family correction events — **0**; cumulative count remains **11**.
+
+Ordinary source-fidelity corrections in Batch R13 — **4**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**.
+
 ## Exact next activity
 
-**Batch R13 — physical scans 61–65.**
+**Batch R14 — physical scans 66–70.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **65**; do not process scan 66.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **70**; do not process scan 71.

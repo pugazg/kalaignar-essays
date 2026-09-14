@@ -41,6 +41,15 @@ transcription_method: "direct visual comparison with source scan"
 - தலைவராய்க்கொண்டு, தென்றல், புன்சிரிப்பால் உள்ளிட்ட clusters enlarged source pixels-க்கு எதிராக வாசிக்கப்பட்டன.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R13
+
+- every printed word, Latin initials, punctuation separator, meaningful spacing and terminal continuation `விழியோட்டும் -` was compared with native source pixels.
+- source-visible forms including `தலைவராய்க்கொண்டு`, `தென்னாற்காடு`, `நாட்டுக் குழைக்கும்`, `E. V. K. சம்பத்`, `வீட்டுமுன் மறியல் முறையற்றியும்`, `குத்தப் படுகின்றன`, `கணீர் குரலெடுத்து`, `தலைவனிய`, `பணி யேற்றேன்`, and `பகை யோட்டி` all match the canonical record.
+- physical stains / print wear are non-publication layers and do not obscure canonical text.
+- mandatory historical-family verification was repeated; representative same-typeface checks include `தலைவராய்க்கொண்டு`, `தென்றல்`, and `புன்சிரிப்பால்`.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 62 direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

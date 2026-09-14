@@ -46,6 +46,15 @@ transcription_method: "direct visual comparison with source scan"
 - கண்ணீரும், அண்ணாவின், திருத்தணிப் உள்ளிட்ட clusters source pixels-க்கு எதிராக character identity அடிப்படையில் வாசிக்கப்பட்டன.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R13
+
+- every printed word, quoted phrase, punctuation unit, meaningful spacing and complete page ending was rechecked directly from native source pixels.
+- source-visible wording / punctuation including `சவ ஊர்வலமா`, `வேண்டாம்டா`, `செருமுனைக்கு`, `நான்சென்ஸ்`, `திருத்தணிப்`, `‘ரயில் நிறுத்த’ மென்றது`, `கல்லக்குடியாக்கு`, and `மொத்த வியாபாரி` all match the canonical record.
+- physical stains / age marks remain outside the publication-text layer.
+- mandatory historical-family verification was repeated; `கண்ணீரும்`, `அண்ணாவின்`, `திருத்தணிப்`, and related same-typeface families remain unambiguous.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 64 direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.
