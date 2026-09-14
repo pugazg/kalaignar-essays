@@ -34,6 +34,17 @@ transcription_method: "direct visual comparison with source scan"
 - historical character identity was read from source pixels without modernization or contextual reconstruction.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R22
+
+- the full illustrated intertitle was rechecked directly from the attached source pixels.
+- stylized source word **`சிறை`** was reconfirmed; no additional caption, body paragraph, folio, handwriting or stamp is present.
+- the barred / padlocked prison-gate illustration and masonry field were treated as illustration, not textual content.
+- the tracked 13 reform-sensitive families are not instantiated in the single printed word `சிறை`; character identity was nevertheless checked directly from the source pixels.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **13**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 108 illustration/intertitle was directly inspected and recorded.

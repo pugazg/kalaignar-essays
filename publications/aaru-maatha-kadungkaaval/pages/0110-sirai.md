@@ -15,7 +15,7 @@ transcription_method: "direct visual comparison with source scan"
 
 சிறை
 
-தான், படைக்கும் அந்த வானத்தையும் வெற்றி கொள்ளும் சிவப்பு நிறத்தைப் பூமியிலே கண்ட சூரியன் வெட்கித் தலை குனிந்து மறைந்தான். போலீசாரின் பாதுகாப்பு வளையத்துக்குள்ளே - கல்லக்குடியில் - நாங்கள் சுருண்டு கிடந்தோம் - இந்த சோகச் செய்திகள் காதில் வாங்கியபடி!
+தான், படைக்கும் அந்த வானத்தையும் வெற்றி கொள்ளும் சிவப்பு நிறத்தைப் பூமியிலே கண்ட சூரியன் வெட்கித் தலை குனிந்து மறைந்தான். போலீசாரின் பாதுகாப்பு வளையத்துக்குள்ளே - கல்லக்குடியில் - நாங்கள் சுருண்டு கிடந்தோம் - இந்த சோகச் செய்திகளை காதில் வாங்கியபடி!
 
 இரவு 12 மணிக்கு மேலிருக்கும். அரை மசால்வடைத் துண்டும், கால்கோப்பைத் தேநீரும் கொண்டுவந்து தந்தனர் மணியும் முத்துவும் மற்ற நண்பர்களும்! அதுதான் எங்களுக்கு சரியான காலத்தில் கிடைத்த அருமையான இரவு உணவு. ஒருவர் கால் ஒருவருக்குத் தலையணையாக அமைத்துக்கொண்டு முப்பத்தாறுபேரும் தூங்கினோம். கதவுகள் அடைக்கப்பட்டிருந்தன. துப்பாக்கி சகிதம் ரிசர்வ் போலீஸ் காவல் நின்றுகொண்டிருந்தது. எங்களுடனேயே இருந்த சப் இன்ஸ்பெக்டர் அந்த நடுநிசியில் திடீரென எங்களை எண்ணிட ஆரம்பித்தார். என்ன ஆச்சரியம்; முப்பத்தாறுபேரும் சரியாக இருந்தோம். வழக்கம் போல் இரண்டு மூன்று முறை எண்ணியபிறகு அவருடைய கணக்கு முடிவு பெற்றது.
 
@@ -42,6 +42,19 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - representative affected forms include `தலையணையாக` (`ணை`) and `முப்பத்தாறுபேரும்` (`றா`).
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R22
+
+- every printed word, numeral, punctuation mark, meaningful spacing, heading and complete page ending was rechecked directly from the attached source pixels.
+- direct source correction: `இந்த சோகச் செய்திகள் காதில் வாங்கியபடி!` → **`இந்த சோகச் செய்திகளை காதில் வாங்கியபடி!`**. Enlarged source pixels clearly print the object-case ending `செய்திகளை`.
+- source-visible forms including `முப்பத்தாறுபேரும்`, `துப்பாக்கி சகிதம்`, `நடுநிசியில்`, `எண்ணிட`, and the semicolon in `என்ன ஆச்சரியம்;` were otherwise reconfirmed.
+- physical paper aging / stains remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `தலையணையாக` reconfirms `ணை`, `வைத்தியசாலையில்` reconfirms `லை`, `முப்பத்தாறுபேரும்` reconfirms `றா`, and the full 13-family set was checked by character identity.
+- this repair is an ordinary source-text fidelity correction, not a new historical-glyph correction event.
+- scan 111 was not opened or processed.
+- new historical-family correction events — **0**; cumulative count remains **13**.
+- result — **PASS after source-fidelity correction**.
+
 
 ## P2 நிலை
 

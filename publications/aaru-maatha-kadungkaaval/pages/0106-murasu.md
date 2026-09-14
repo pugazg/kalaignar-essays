@@ -53,6 +53,18 @@ transcription_method: "direct visual comparison with source scan"
 - affected older-type clusters were decoded by character identity; source-visible `நின்றுளா` was retained as printed rather than grammatically normalized.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R22
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header, visible folio and terminal sentence was rechecked directly from the attached source pixels.
+- scan 105 terminal `ஆகி` → scan 106 opening `யோரிடம்` was reconfirmed as the physical continuation `ஆகியோரிடம்` without rewriting either page record.
+- source-visible forms including `சாப்பிட்டானபிறகுதான்`, `அகிம்சாப் ‘பிடாரி’`, `நின்றுளா`, `அநேகர்`, `ஐயாயிரம்பேர்`, and `ஐயாயிரவர்` were preserved without normalization.
+- physical stains / paper aging remain non-publication layer; no body text is obscured.
+- mandatory historical-family verification was repeated; `விடுதலை` reconfirms `லை`, `தண்டனை` reconfirms `னை`, and the full 13-family set was checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **13**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 106 was fully compared with source pixels.

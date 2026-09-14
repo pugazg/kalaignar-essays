@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 105/224 scans complete; next 106–110** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 110/224 scans complete; next 111–115** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1684,8 +1684,23 @@ Historical-family verification added **2 new correction events** at scan 103 (`�
 
 P2R progress — **105/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **106–110**.
 
+### Batch R22 — scans 106–110
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 106 | PASS | scan-105 continuation / complete text / punctuation / spacing / page ending confirmed; no correction |
+| 107 | PASS | blank / reverse / show-through only; no independent publication text |
+| 108 | PASS | illustrated intertitle `சிறை` confirmed; no additional text |
+| 109 | PASS | blank / reverse / show-through only; no independent publication text |
+| 110 | PASS after correction | `இந்த சோகச் செய்திகள் காதில் வாங்கியபடி!` → source-visible `இந்த சோகச் செய்திகளை காதில் வாங்கியபடி!`; all remaining text / punctuation / ending confirmed; scan 111 not opened |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **13**. Ordinary source-fidelity corrections — **1**.
+
+P2R progress — **110/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **111–115**.
+
+
 ## Exact next activity
 
-**P2R Batch R22 — scans 106–110.**
+**P2R Batch R23 — scans 111–115.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 110; do not process scan 111.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 115; do not process scan 116.

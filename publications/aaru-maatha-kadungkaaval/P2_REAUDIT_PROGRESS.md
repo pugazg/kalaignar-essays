@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **105/224**
-- completed range — **1–105**
-- next range — **106–110**
+- re-audited — **110/224**
+- completed range — **1–110**
+- next range — **111–115**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **13**
@@ -492,8 +492,31 @@ Ordinary source-fidelity corrections in Batch R21 — **6**.
 
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
+## Batch R22 — scans 106–110
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 106 | body / folio 103 | PASS | scan-105 continuation `ஆகி` + `யோரிடம்`, full text / punctuation / spacing / complete ending confirmed; no canonical correction |
+| 107 | blank / reverse | PASS | show-through / paper marks only; no independent publication text |
+| 108 | illustration / intertitle | PASS | stylized `சிறை` and illustration field confirmed; no additional publication text |
+| 109 | blank / reverse | PASS | show-through / paper marks only; no independent publication text |
+| 110 | body / `சிறை` opening | PASS after correction | `இந்த சோகச் செய்திகள் காதில் வாங்கியபடி!` → source-visible `இந்த சோகச் செய்திகளை காதில் வாங்கியபடி!`; full page otherwise confirmed; scan 111 not opened |
+
+Historical-family findings:
+
+- scan 106 — `விடுதலை` (`லை`), `தண்டனை` (`னை`); full 13-family set checked by character identity;
+- scans 107 and 109 — no independent publication text; historical-family check N/A and show-through excluded;
+- scan 108 — the tracked 13 families are absent from the single printed word `சிறை`; character identity directly verified;
+- scan 110 — `தலையணையாக` (`ணை`), `வைத்தியசாலையில்` (`லை`), `முப்பத்தாறுபேரும்` (`றா`);
+- new historical-family correction events — **0**; cumulative count remains **13**.
+
+Ordinary source-fidelity corrections in Batch R22 — **1**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
+
 ## Exact next activity
 
-**Batch R22 — physical scans 106–110.**
+**Batch R23 — physical scans 111–115.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **110**; do not process scan 111.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **115**; do not process scan 116.

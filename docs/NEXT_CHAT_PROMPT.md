@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R22 scans 106–110
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R23 scans 111–115
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
 
@@ -13,28 +13,26 @@ Use only the attached full source:
 
 No OCR, web copies, Wikisource, TVA web text, alternate editions, or contextual completion.
 
-## Durable state after Batch R21
+## Durable state after Batch R22
 
 - P2 canonical coverage — **224/224**
 - P2 — **222 verified / 2 needs-review** (source-obscured holds scans 18 and 198)
-- P2R — **105/224 complete**
-- re-audited scans — **1–105**
+- P2R — **110/224 complete**
+- re-audited scans — **1–110**
 - historical-glyph correction-event count — **13**
 - guessed readings — **0**
 
-Batch R21:
-- scan 101 — PASS / no canonical source-text correction; audit-note typo `பிணமானை` → `பிணமானான்` cleaned up
-- scan 102 — `திராவிடத்தாய்` → **`திராவிடத்தரணி`**; `கிடக்கிறானை பார்` → **`கிடக்கிறான் பார்`**; `புது மொழி பேசிய` → **`புது மொழில் பேசிய`**
-- scan 103 — historical `ளை`: `எலும்புகள்` → **`எலும்புகளை`**, `நரம்புகள்` → **`நரம்புகளை`**; ordinary `இழித்துச் சொல் வீசியதைக்` → **`இழித்துச் சுடுசொல் வீசியதைக்`**
-- scan 104 — second `ஆறுபிணம்` → **`ஆறு பிணம்`**
-- scan 105 — `பதினாறு வயது` → **`பதினாறுவயது`**
-- ordinary source-fidelity corrections — **6**
-- new historical-family correction events — **2**
-- scan 105 terminal `ஆகி` preserved; scan 106 was not opened
+Batch R22:
+- scan 106 — PASS / no canonical correction; scan 105 `ஆகி` → scan 106 `யோரிடம்` continuation reconfirmed
+- scans 107 and 109 — blank / reverse / show-through PASS
+- scan 108 — illustrated `சிறை` intertitle PASS
+- scan 110 — `இந்த சோகச் செய்திகள் காதில் வாங்கியபடி!` → **`இந்த சோகச் செய்திகளை காதில் வாங்கியபடி!`**
+- ordinary source-fidelity corrections — **1**
+- new historical-family correction events — **0**
 
 ## Exact next activity
 
-Process exactly physical scans **106–110**.
+Process exactly physical scans **111–115**.
 
 For every scan:
 1. compare every printed word, numeral, punctuation mark, meaningful spacing and page-boundary fragment with the canonical record;
@@ -44,4 +42,4 @@ For every scan:
 5. record PASS / correction details in the page record and `P2_REAUDIT_PROGRESS.md`;
 6. synchronize controls and commit.
 
-Stop after scan **110**. Do not process scan 111 in this iteration.
+Stop after scan **115**. Do not process scan 116 in this iteration.
