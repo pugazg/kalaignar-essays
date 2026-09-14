@@ -42,6 +42,18 @@ transcription_method: "direct visual comparison with source scan"
 - source-supported `கைதிகளை` was decoded by historical character identity; no lexical modernization was applied.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R24
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- scan 117 terminal `மறுபடியும்` → this page’s opening `அடைத்துவிட்டார்கள்.` continuation was reconfirmed without rewriting either physical page record.
+- source-visible forms including `17ந் தேதி`, `வைத்திய சாலையிலிருந்த`, `எங்களுத் திறப்பதற்காக`, `நாலைந்து`, `இருபத்தைந்து - வயதுள்ள`, and `கட்டுமஸ்தான` were preserved.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `கண்ணதாசனும்` (`ணா`) and `கைதிகளை` (`ளை`) were reconfirmed, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **13**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 118 was fully compared with source pixels.

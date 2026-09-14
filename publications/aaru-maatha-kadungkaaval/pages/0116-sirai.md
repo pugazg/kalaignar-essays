@@ -13,7 +13,7 @@ transcription_method: "direct visual comparison with source scan"
 
 # அச்சு உரை
 
-அறுசுவை உணவு என்று கேள்விப்பட்டிருப்பீர்கள்- நானும் கேள்விப்பட்டிருக்கிறேன். அறுசுவை உணவு என்றால் ருசி நிறைந்த அருமையான சாப்பாடு என்றும் ஆறுவகை ருசி நிறைந்த சாப்பாடு என்றுதான் அர்த்தம் சொல்லக் கேட்டிருக்கிறோம்.
+அறுசுவை உணவு என்று கேள்விப்பட்டிருப்பீர்கள்- நானும் கேள்விப்பட்டிருக்கிறேன். அறுசுவை உணவு என்றால் ருசி நிறைந்த அருமையான சாப்பாடு என்றும் ஆறுவகை, ருசி நிறைந்த சாப்பாடு என்று தான் அர்த்தம் சொல்லக் கேட்டிருக்கிறோம்.
 
 அரியலூரிலே எங்களுக்குத் தந்த அறுசுவை உணவுக்கு ஒரு புது அர்த்தமுண்டு.
 
@@ -44,6 +44,19 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - affected forms such as `கிள்ளி` were read by character identity rather than modern visual resemblance.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R24
+
+- every printed word, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- direct source punctuation / spacing corrections: `ஆறுவகை ருசி நிறைந்த சாப்பாடு என்றுதான்` → **`ஆறுவகை, ருசி நிறைந்த சாப்பாடு என்று தான்`**. The comma after `ஆறுவகை` and the printed space between `என்று` and `தான்` are both clearly visible on the same source line.
+- source-visible forms including `கேள்விப்பட்டிருப்பீர்கள்-`, `சுவை அறுந்துபோன`, `சோராமல் சுயேச்சையாக`, `சுழலுதண்ணே`, `அடிவயிற்றிலேயிருந்து`, and `இருக்கமுடியவில்லை` were otherwise preserved.
+- the dark dot before `அறுந்துபோன` was treated as a physical / print speck rather than publication punctuation because it is isolated from the preceding word and does not align with the source’s punctuation baseline.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `என்னையே` was checked for `னை` identity and the full 13-family set was verified by character identity.
+- ordinary source-fidelity corrections on this scan — **2**.
+- new historical-family correction events — **0**; cumulative count remains **13**.
+- result — **PASS after source-fidelity corrections**.
+
 
 ## P2 நிலை
 

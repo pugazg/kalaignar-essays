@@ -38,6 +38,18 @@ transcription_method: "direct visual comparison with source scan"
 - affected forms including `மூலையில்`, `தலையை`, and `வளைந்து` were decoded by character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R24
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from the attached source pixels.
+- source-visible unusual forms including `வராதவைகளில்`, `தொளைக்கிறது`, `ஆபாசமாயிருந்த`, `உடல் புழுப்போல்`, `என் நிற்கிறீர்கள்`, `தூங்க வில்லையா?`, and `குடிக்க காயவிடாமல்` were reconfirmed without contextual normalization.
+- exact terminal `மறுபடியும்` was preserved; scan 118 begins `அடைத்துவிட்டார்கள்.`.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `மூலையில்` / `தலையை` (`லை`) and `வளைந்து` (`ளை`) were reconfirmed, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **13**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 117 was fully compared with source pixels.

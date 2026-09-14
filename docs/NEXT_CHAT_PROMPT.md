@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R24 scans 116–120
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R25 scans 121–125
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
 
@@ -13,26 +13,26 @@ Use only the attached full source:
 
 No OCR, web copies, Wikisource, TVA web text, alternate editions, or contextual completion.
 
-## Durable state after Batch R23
+## Durable state after Batch R24
 
 - P2 canonical coverage — **224/224**
 - P2 — **222 verified / 2 needs-review** (source-obscured holds scans 18 and 198)
-- P2R — **115/224 complete**
-- re-audited scans — **1–115**
+- P2R — **120/224 complete**
+- re-audited scans — **1–120**
 - historical-glyph correction-event count — **13**
 - guessed readings — **0**
 
-Batch R23:
-- scans 111, 112, 114 and 115 — PASS / no canonical correction
-- scan 113 — `அழைத்துச் சென்றது - நீண்ட சிந்தனை.` → **`அழைத்துச் சென்று - நீண்ட சிந்தனை.`**
-- scan 111→112 and scan 113→114 continuations reconfirmed
-- ordinary source-fidelity corrections — **1**
+Batch R24:
+- scan 116 — `ஆறுவகை ருசி நிறைந்த சாப்பாடு என்றுதான்` → **`ஆறுவகை, ருசி நிறைந்த சாப்பாடு என்று தான்`**
+- scans 117–120 — PASS / no canonical correction
+- scan 117→118 and scan 119→120 continuations reconfirmed
+- ordinary source-fidelity corrections — **2**
 - new historical-family correction events — **0**
-- scan 115 terminal sentence preserved; scan 116 was not opened
+- scan 120 terminal sentence preserved; scan 121 was not opened
 
 ## Exact next activity
 
-Process exactly physical scans **116–120**.
+Process exactly physical scans **121–125**.
 
 For every scan:
 1. compare every printed word, numeral, punctuation mark, meaningful spacing and page-boundary fragment with the canonical record;
@@ -42,4 +42,4 @@ For every scan:
 5. record PASS / correction details in the page record and `P2_REAUDIT_PROGRESS.md`;
 6. synchronize controls and commit.
 
-Stop after scan **120**. Do not process scan 121 in this iteration.
+Stop after scan **125**. Do not process scan 126 in this iteration.

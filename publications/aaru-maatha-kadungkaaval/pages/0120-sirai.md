@@ -52,6 +52,20 @@ transcription_method: "direct visual comparison with source scan"
 - no unresolved historical-glyph ambiguity remains; no contextual normalization was applied.
 - cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R24
+
+- every printed word, punctuation mark, quotation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- scan 119 terminal `மாஜிஸ்` → this page’s opening `டிரேட் வந்தார்.` continuation was reconfirmed.
+- source-visible forms including `நீதி மன்றம்`, `மாற்றவேண்டுமென்று`, `வரி கொடுக்கும்`, `செக்ஷனோ`, `ஆட்சி பீடம்`, and `கோரிக்கை யனுப்பலாம்` were preserved without normalization.
+- the unusual quotation sequence around `‘நீங்கள் ஏன் மக்கள் கோரிக்கையை நிறைவேற்றக் கூடாது?’ “என்று` was rechecked and retained exactly as printed.
+- page ends with complete `சட்டத்திற்கு இருக்கிறது!`; scan 121 was not opened or processed.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated across the full 13-family set by character identity; no source-supported historical-glyph change was required.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **13**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 120 was fully compared with source pixels.

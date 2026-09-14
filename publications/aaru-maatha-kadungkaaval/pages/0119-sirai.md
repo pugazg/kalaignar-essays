@@ -39,6 +39,18 @@ transcription_method: "direct visual comparison with source scan"
 - `தலையிலே` was decoded as historical `லை`; no unresolved historical-glyph ambiguity remains.
 - cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R24
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from the attached source pixels.
+- source-visible forms including `வயதுமாத்திரம்`, `பழுப்புத்தளிர்`, `குடிசைத் தொழிலாக்கிக்கொண்ட`, `உணவு(?)`, `லிங்கப்பெருமாள்`, `சோளக்களியை`, `அன்பு, பொழிந்தார்கள்`, and `மணிலாக் கொட்டையைக்` were reconfirmed.
+- exact terminal `மாஜிஸ்` was preserved; scan 120 begins `டிரேட் வந்தார்.`, directly establishing the physical continuation `மாஜிஸ்டிரேட்` without altering either page record.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `தலையிலே` / `மாலையிலேதான்` (`லை`) and `குவளையை` (`ளை`) were reconfirmed, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **13**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 119 was fully compared with source pixels.

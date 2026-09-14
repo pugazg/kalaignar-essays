@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **115/224**
-- completed range — **1–115**
-- next range — **116–120**
+- re-audited — **120/224**
+- completed range — **1–120**
+- next range — **121–125**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **13**
@@ -540,8 +540,32 @@ Ordinary source-fidelity corrections in Batch R23 — **1**.
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
 
+## Batch R24 — scans 116–120
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 116 | body / folio 113 | PASS after corrections | `ஆறுவகை ருசி நிறைந்த சாப்பாடு என்றுதான்` → source-visible `ஆறுவகை, ருசி நிறைந்த சாப்பாடு என்று தான்`; full page otherwise confirmed |
+| 117 | body / folio 114 | PASS | complete text / unusual source wording / punctuation / terminal `மறுபடியும்` confirmed; no canonical correction |
+| 118 | body / folio 115 | PASS | scan-117 continuation, full text / punctuation / complete ending confirmed; no canonical correction |
+| 119 | body / folio 116 | PASS | full text / quotation / punctuation / exact terminal `மாஜிஸ்` confirmed; no canonical correction |
+| 120 | body / folio 117 | PASS | scan-119 continuation / quotation punctuation / full text / complete ending confirmed; scan 121 not opened |
+
+Historical-family findings:
+
+- scan 116 — `என்னையே` checked for `னை` identity; full 13-family set checked;
+- scan 117 — `மூலையில்` / `தலையை` (`லை`), `வளைந்து` (`ளை`);
+- scan 118 — `கண்ணதாசனும்` (`ணா`), `கைதிகளை` (`ளை`);
+- scan 119 — `தலையிலே` / `மாலையிலேதான்` (`லை`), `குவளையை` (`ளை`);
+- scan 120 — full 13-family set checked by character identity; no correction required;
+- new historical-family correction events — **0**; cumulative count remains **13**.
+
+Ordinary source-fidelity corrections in Batch R24 — **2**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
+
 ## Exact next activity
 
-**Batch R24 — physical scans 116–120.**
+**Batch R25 — physical scans 121–125.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **120**; do not process scan 121.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **125**; do not process scan 126.
