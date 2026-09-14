@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 95/224 scans complete; next 96–100** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 100/224 scans complete; next 101–105** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1655,8 +1655,22 @@ Historical-family verification added **0 new correction events**; cumulative cou
 
 P2R progress — **95/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **96–100**.
 
+### Batch R20 — scans 96–100
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 96 | PASS | complete text / punctuation / meaningful spacing / terminal `சிஷ்யனை` confirmed |
+| 97 | PASS | scan-96 continuation / full text / parenthetical wording / punctuation / ending confirmed |
+| 98 | PASS | heading / quotation sequence / eight-dot run / complete body text confirmed |
+| 99 | PASS | complete text / punctuation / exact terminal `திரும்பினால் காதலி நிற` confirmed |
+| 100 | PASS after correction | `ருசியைப்பற்றி` → source-visible `ருசியைப் பற்றி`; scan-99 continuation and printed star confirmed |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **11**. Ordinary source-fidelity corrections — **1**.
+
+P2R progress — **100/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **101–105**.
+
 ## Exact next activity
 
-**P2R Batch R20 — scans 96–100.**
+**P2R Batch R21 — scans 101–105.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 100.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 105.

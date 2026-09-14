@@ -43,6 +43,17 @@ transcription_method: "direct visual comparison with source scan"
 - affected older-type clusters were decoded by character identity rather than modern visual resemblance.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R20
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header and terminal open-quotation fragment was rechecked directly from the attached source pixels.
+- source-visible forms including `அப்போதுங்கூட`, `சாப்பிட்டான பிறகு!`, `பாடங்கற்பிக்க`, and `மூன்றும் படை வரிசைக்கு` were reconfirmed without normalization.
+- scan 96 ends inside the open quotation at `சிஷ்யனை`; the physical fragment is preserved exactly.
+- physical stains / paper aging remain non-publication layer; none obscures printed wording.
+- mandatory historical-family verification was repeated; `ஜூலை` reconfirms `லை` and `கண்ணதாசனைப்` reconfirms `னை`; the full 13-family set was checked by character identity.
+- canonical correction — **none**.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 96 was fully compared with source pixels, including post-batch enlarged-pixel recheck.

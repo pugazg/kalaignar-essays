@@ -13,7 +13,7 @@ transcription_method: "direct visual comparison with source scan"
 
 # அச்சு உரை
 
-பாள். இப்படி வாழ்வின் ருசியைப்பற்றி எண்ணிக்கொண்டு படுத்திருந்த இளைஞன் தலையிலே மென்மையான ஒரு ‘தட்டு’ விழவில்லை. துப்பாக்கிக் குண்டு விழுந்தது! மண்டையைப் பிளந்து - தலை சிதறிப்போய்விட்டது. “வரப்போகும் இல்லாள் மெல்லிய விரல்களால் வருடுவாள் இந்தத் தலையை” என்று நினைத்துக்கிடந்தானே; அந்தத் தலையை துப்பாக்கிக் குண்டு சுக்கு சுக்காக்கிவிட்டது. அவனால் இனி நினைக்கமுடியாது! மூளை சக்கை சக்கையாகிவிட்டது! வாயை மாத்திரம் “ஆவ் ஆவ்” என்று பிளந்தானும் - ஆயிரம் முறை! என்ன சொல்வதற்காகப் பிளந்தானே?
+பாள். இப்படி வாழ்வின் ருசியைப் பற்றி எண்ணிக்கொண்டு படுத்திருந்த இளைஞன் தலையிலே மென்மையான ஒரு ‘தட்டு’ விழவில்லை. துப்பாக்கிக் குண்டு விழுந்தது! மண்டையைப் பிளந்து - தலை சிதறிப்போய்விட்டது. “வரப்போகும் இல்லாள் மெல்லிய விரல்களால் வருடுவாள் இந்தத் தலையை” என்று நினைத்துக்கிடந்தானே; அந்தத் தலையை துப்பாக்கிக் குண்டு சுக்கு சுக்காக்கிவிட்டது. அவனால் இனி நினைக்கமுடியாது! மூளை சக்கை சக்கையாகிவிட்டது! வாயை மாத்திரம் “ஆவ் ஆவ்” என்று பிளந்தானும் - ஆயிரம் முறை! என்ன சொல்வதற்காகப் பிளந்தானே?
 
 எப்படி வேதனையிருந்ததோ! அம்மாவுக்குக் கடைசிச் சேதி சொன்னே - அல்லது - அட பாவிகளே! என்னையேன் என் தாயிடமிருந்து பிரித்தீர்கள் என்று கதறுவதற்காக வாயைப் பிளந்தானே தெரியவில்லை. சாவைத் தழுவிவிட்டான்; கோமளவல்லியைத் தழுவப் போவதை நினைத்து மகிழ்ந்தவன் - கொடியோர் வீசியெறிந்த சாவைத் தழுவிவிட்டான். கல்லக்குடிகளத்திலே - பிணக்கோலம் பூண்டான், மணக்கோலம் பூண வேண்டியவன்!
 
@@ -26,7 +26,7 @@ transcription_method: "direct visual comparison with source scan"
 - visible printed folio — **97**.
 - running header — `ஆறுமாதக் கடுங்காவல்`.
 - scan 99 terminal `திரும்பினால் காதலி நிற` continues directly with this page’s `பாள்.`.
-- enlarged source-pixel recheck confirms `ருசியைப்பற்றி எண்ணிக்கொண்டு`, historical `லை` identity in `தலை சிதறிப்போய்விட்டது`, `வரப்போகும் இல்லாள்`, `நினைத்துக்கிடந்தானே`, `என்ன சொல்வதற்காகப் பிளந்தானே?`, `கடைசிச் சேதி சொன்னே`, `என்னையேன்`, `பிணக்கோலம்`, and `யானைத்தீப் பசி`.
+- enlarged source-pixel recheck confirms `ருசியைப் பற்றி எண்ணிக்கொண்டு`, historical `லை` identity in `தலை சிதறிப்போய்விட்டது`, `வரப்போகும் இல்லாள்`, `நினைத்துக்கிடந்தானே`, `என்ன சொல்வதற்காகப் பிளந்தானே?`, `கடைசிச் சேதி சொன்னே`, `என்னையேன்`, `பிணக்கோலம்`, and `யானைத்தீப் பசி`.
 - historical-looking source form in `ஆனால்` is encoded by character identity in modern Unicode, not copied by visual resemblance.
 - page closes with a printed star separator.
 - scan 101 was not opened.
@@ -42,6 +42,19 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - `ஆனால்`, `தலை`, `மணக்கோலம்`, and affected clusters were decoded by historical character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R20
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header and final star separator was rechecked directly from the attached source pixels.
+- direct source correction at the opening line: `ருசியைப்பற்றி` → **`ருசியைப் பற்றி`**. The printed source shows a clear intra-line word boundary between `ருசியைப்` and `பற்றி`; this is not inferred from grammar.
+- scan 99 terminal `திரும்பினால் காதலி நிற` → scan 100 opening `பாள்.` continuation was reconfirmed exactly.
+- source-visible forms including `நினைத்துக்கிடந்தானே`, `என்னையேன்`, `பிணக்கோலம்`, `யானைத்தீப் பசி`, and the printed star were otherwise preserved.
+- physical stains / paper aging remain non-publication layer; the final star is publication ink.
+- mandatory historical-family verification was repeated; `தலை` reconfirms `லை`, `யானைத்தீப்` reconfirms `னை`, and the full 13-family set was checked by character identity.
+- the spacing repair is an ordinary source-fidelity correction, not a tracked historical-glyph correction event.
+- scan 101 was not opened or processed in this iteration.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity correction**.
 
 ## P2 நிலை
 

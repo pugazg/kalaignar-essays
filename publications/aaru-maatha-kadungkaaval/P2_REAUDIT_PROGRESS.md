@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **95/224**
-- completed range — **1–95**
-- next range — **96–100**
+- re-audited — **100/224**
+- completed range — **1–100**
+- next range — **101–105**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **11**
@@ -443,8 +443,32 @@ Ordinary source-fidelity corrections in Batch R19 — **6**.
 
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
+## Batch R20 — scans 96–100
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 96 | body / folio 93 | PASS | full text / punctuation / spacing / terminal open `சிஷ்யனை` confirmed; no canonical correction |
+| 97 | body / folio 94 | PASS | scan-96 continuation, full text / parenthetical wording / punctuation / complete ending confirmed; no canonical correction |
+| 98 | body / folio 95 | PASS | heading / quotation sequence / eight-dot run / full text / complete ending confirmed; no canonical correction |
+| 99 | body / folio 96 | PASS | full text / punctuation / exact terminal `திரும்பினால் காதலி நிற` confirmed; no canonical correction |
+| 100 | body / folio 97 | PASS after correction | `ருசியைப்பற்றி` → source-visible `ருசியைப் பற்றி`; scan-99 continuation and final star confirmed |
+
+Historical-family findings:
+
+- scan 96 — `ஜூலை` (`லை`), `கண்ணதாசனைப்` (`னை`);
+- scan 97 — `தலைமையிலே` (`லை`), `என்றாலும்` (`றா`);
+- scan 98 — `பஞ்சணை` (`ணை`);
+- scan 99 — `காணோமே` (`ணோ`), `தலை` (`லை`);
+- scan 100 — `தலை` (`லை`), `யானைத்தீப்` (`னை`);
+- all 13 tracked families were explicitly checked on every scan by character identity;
+- new historical-family correction events — **0**; cumulative count remains **11**.
+
+Ordinary source-fidelity corrections in Batch R20 — **1**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
 ## Exact next activity
 
-**Batch R20 — physical scans 96–100.**
+**Batch R21 — physical scans 101–105.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **100**; do not process scan 101.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **105**; do not process scan 106.

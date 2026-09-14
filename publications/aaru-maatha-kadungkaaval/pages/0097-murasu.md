@@ -42,6 +42,17 @@ transcription_method: "direct visual comparison with source scan"
 - affected older-type clusters and the `தருமு` name were decoded by character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R20
+
+- every printed word, numeral, parenthesis, punctuation mark, meaningful spacing and the scan-96 continuation was rechecked directly from the attached source pixels.
+- scan 96 terminal `சிஷ்யனை` → scan 97 opening `யும் தாக்கட்டும்’` continuation was reconfirmed without rewriting either physical page record.
+- source-visible forms including `தளபதியாகினேன்`, `செருமுனைக்குக்`, `தருமுவும்`, `தருமு முதலியோரை`, `ஜாக்கிரதையாகவும்`, and `தீனியாகத்தருகிறது` were preserved.
+- physical stains / print wear remain non-publication layer; no context-derived substitute was used for the personal name.
+- mandatory historical-family verification was repeated; `தலைமையிலே` reconfirms `லை` and `என்றாலும்` reconfirms `றா`; the full 13-family set was checked by character identity.
+- canonical correction — **none**.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 97 was fully compared with source pixels, including post-batch enlarged-pixel recheck.

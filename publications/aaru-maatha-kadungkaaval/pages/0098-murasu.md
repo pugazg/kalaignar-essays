@@ -46,6 +46,17 @@ transcription_method: "direct visual comparison with source scan"
 - affected clusters were decoded by historical character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R20
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, heading and printed dot-run was rechecked directly from the attached source pixels.
+- heading `கேசவன்`, the open quotation sequence, the eight-dot run after `பிறகு`, and the closing quotation after `பாராட்டுவேனு` were reconfirmed.
+- source-visible forms including `பெண்ணாகவா`, `சுண்டுவிரலேத்தான்`, `கற்பனையூறுகிறது`, `நினைப்பேனு-`, `கலவி நடுப்பாதையிலே`, and `பாராட்டுவேனு` were preserved.
+- physical stains / paper aging remain non-publication layer; no contextual modernization was applied.
+- mandatory historical-family verification was repeated; `பஞ்சணை` reconfirms `ணை`, while the full 13-family set was checked by character identity.
+- canonical correction — **none**.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 98 was fully compared with source pixels, including post-batch enlarged-pixel recheck.

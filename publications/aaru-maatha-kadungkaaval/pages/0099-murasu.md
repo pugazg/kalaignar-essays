@@ -45,6 +45,17 @@ transcription_method: "direct visual comparison with source scan"
 - `தலை` and other affected clusters were decoded by character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R20
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing and terminal page fragment was rechecked directly from the attached source pixels.
+- source-visible forms including `காணோமே யென்று`, `போக்காளி`, `வைத்தாலென்னால்`, `அக்கிரமக்காரர்களேத்`, and `புகைவண்டியைப் பொத்துக்கொண்டு` were reconfirmed without normalization.
+- exact terminal physical fragment `திரும்பினால் காதலி நிற` was preserved; scan 100 supplies the already-known continuation `பாள்.`.
+- physical stains / age marks remain non-publication layer; no hidden letters were reconstructed inside this page record.
+- mandatory historical-family verification was repeated; `காணோமே` reconfirms `ணோ` and `தலை` reconfirms `லை`; the full 13-family set was checked by character identity.
+- canonical correction — **none**.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 99 was fully compared with source pixels, including post-batch enlarged-pixel recheck.
