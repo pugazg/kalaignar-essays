@@ -13,7 +13,7 @@ transcription_method: "direct visual comparison with source scan"
 
 # அச்சு உரை
 
-அந்த மகத்தான தியாக மன்றத்தை எழுப்பியிருக்கிற நாம், உட்கார, உரையாட, படிக்க, கலைவர்கள் வந்தால் படுக்க - ஒரு சாதாரணக் குடிசையை எழுப்பிக் கொண்டாலே போதுமானது. ஊருக்கோர் கழகம் - கழகத்திற்கோர் இடம் - அவசியம் தேவை - அதை அமைக்க முன் சொன்னபடி ஆற்றலும் முறையும் நிச்சயம் தேவை.
+அந்த மகத்தான தியாக மன்றத்தை எழுப்பி யிருக்கிற நாம், உட்கார, உரையாட, படிக்க, தலைவர்கள் வந்தால் படுக்க - ஒரு சாதாரணக் குடிசையை எழுப்பிக் கொண்டாலே போதுமானது. ஊருக்கோர் கழகம் - கழகத்திற்கோர் இடம் - அவசியம் தேவை - அதை அமைக்க முன் சொன்னபடி ஆற்றலும் முறையும் நிச்சயம் தேவை.
 
 உம்; சரி - அந்த வேலையைப் பார்க்க உடனே கிளம்புங்கள் - நாங்கள் தூங்கவேண்டும்; திருச்சிக்குப் போகிறோம். இப்போது புறப்பட்டால்தான் வழக்கம்போல் இரண்டு மணிக்காவது தூங்கமுடியும்.
 
@@ -39,9 +39,22 @@ transcription_method: "direct visual comparison with source scan"
 
 - முழுப் பக்கமும் native/enlarged source pixels-க்கு எதிராக நேரடியாகப் பார்க்கப்பட்டது.
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` குடும்பங்கள் explicit-ஆகச் சரிபார்க்கப்பட்டன.
-- `கலைவர்கள்` உள்ள historical `லை` cluster enlarged same-edition source pixels-க்கு எதிராக வாசிக்கப்பட்டது; OCR authority ஆகப் பயன்படுத்தப்படவில்லை.
+- `தலைவர்கள்` உள்ள historical `லை` cluster enlarged same-edition source pixels-க்கு எதிராக மீண்டும் வாசிக்கப்பட்டது; OCR authority ஆகப் பயன்படுத்தப்படவில்லை.
 - `திராவிட மெங்கும்`, `தரணி யெங்கும்`, `சுவைக்குதவாது`, `பிரதமராக்கப்பட்டவர்` ஆகிய source-visible wording/spacing மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
+
+## P2R visual-fidelity re-audit — Batch R08
+
+- every printed word, numeral, punctuation separator, meaningful spacing, heading and terminal fragment `கற்றுக்` was compared directly with native source pixels.
+- direct source corrections:
+  - `மன்றத்தை எழுப்பியிருக்கிற நாம்` → **`மன்றத்தை எழுப்பி யிருக்கிற நாம்`**; the source visibly preserves a word space before `யிருக்கிற`;
+  - `படிக்க, கலைவர்கள் வந்தால் படுக்க` → **`படிக்க, தலைவர்கள் வந்தால் படுக்க`**; enlarged source pixels clearly show initial `த`, not `க`.
+- source-visible punctuation / spacing including `உம்; சரி -`, `வழியனுப்பினர்கள் - புறப்பட்டோம்.`, heading `திருச்சியிலே :`, `திராவிட மெங்கும்`, `தரணி யெங்கும்`, and `சுவைக்குதவாது` were rechecked and retained.
+- source stains / ink specks are non-publication layers and do not obscure canonical text.
+- mandatory historical-family verification was repeated; `தலைவர்கள்` directly reconfirms the page's historical `லை` identity, and all other known reform-sensitive families remain unambiguous.
+- both repairs are ordinary spacing / consonant-identity source-fidelity corrections, not new historical-vowel-family correction events.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity corrections**.
 
 ## P2 நிலை
 

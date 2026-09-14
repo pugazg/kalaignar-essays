@@ -40,6 +40,16 @@ transcription_method: "direct visual comparison with source scan"
 - `சிறுகக் கட்டியாவது`, `ஆலோசனைகளுமா`, `ரத்தினவேல்கள் மனைகளை`, `வீடுகட்டும்` போன்ற source-visible wording மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R08
+
+- scan 37 terminal `பிர்லாக்` + scan 38 opening `களின்.` was rechecked as the physical split `பிர்லாக்களின்.`.
+- every printed word, quotation mark, punctuation separator, meaningful spacing and terminal `மழை வந்து` was compared directly with native source pixels.
+- source-visible forms including `சிறுகக் கட்டியாவது`, `சுற்றுப்பயணம்`, `ஆலோசனைகளுமா`, `ரத்தினவேல்கள் மனைகளை`, `வீடுகட்டும்`, `மாளிகையா?`, and the repeated `நாமே ...` sequence all match the canonical record.
+- stains / print wear are non-publication layers and leave no unresolved print.
+- mandatory 13-family historical-glyph review was repeated; `அண்ணா` (`ணா`), `இளைப்பாறுவதற்கு` (`ளை / றா`), and same-page `னை` family forms were revalidated.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 38 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

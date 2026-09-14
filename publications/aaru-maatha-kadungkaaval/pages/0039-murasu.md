@@ -17,7 +17,7 @@ transcription_method: "direct visual comparison with source scan"
 
 ஊருக்கொரு ரத்தினவேலு - இடம் வழங்க! ஆளுக்கொரு வேலு - அமைந்துவிடும் மாளிகை! தேர்தலிலும், திருத்தணிகளிலும், நம் கூட்டங்களில் வீசி எறியும் கற்களைக்கூட கழக மாளிகையின் ஒரு பக்கத்துச் சுவருக்கு உபயோகப்படுத்தலாம். தேனியிலே நெடுஞ்செழியன் மீது போடுவதற்கு தூக்கிய பெரிய பாறங்கல்லை கழக மாளிகையின் வாயிற்படிக்குப் பயன்படுத்திக் கொள்ளலாம்.
 
-நாம் தான் உலகம் வியக்கும் கட்டிடத்தைக் கட்டியிருக்கிறோமே - தாலமுத்து நடராசன்களின் எலும்புகளால் - வேலாயுதம், பாண்டியன்களின் நரம்புகளால் - லால்குடி நடராசன், நெல்லிக்குப்பம் மஜீதுகளின் பிணங்களால் - கையிழந்தோர் - காலிழந்தோர் தந்த ரத்தச் சேற்றில் - பெரியதோர் தியாக மாளிகை, வானத்தை முட்டும் உயரமுடையதாய் - தமிழர் மானத்தைத் தரணிக்கு அறிவிக்கும் தன்மை உடையதாய் - தி. மு. க. என்ற பொன்னெழுத்துக்களைப் பொறித்து - திசை எட்டும் ஒளிபரப்பி - தியாகர், நாயர், பனகல், செல்வம், அழகிரி ஆகியோர் திருப்பெயர்கள் தென்றலிலே மிதக்க விட்டு ஒலியெழுப்பும் ஒப்பற்ற மாளிகை - உணர்ச்சி மாளிகை - திருமலை நாயக்கன் மஹால் - தாஜ் மஹாலின் பெருமையை - மிஞ்சும் விதத்திலே அமைந்த மாளிகை - கொஞ்சு தமிழ்க் குடும்பத்தாரின் கொலு மண்டபம் - கொள்கையை விளக்கிடும் மணி மண்டபம்.
+நாம் தான் உலகம் வியக்கும் கட்டிடத்தைக் கட்டியிருக்கிறோமே - தாலமுத்து நடராசன்களின் எலும்புகளால் - வேலாயுதம், பாண்டியன்களின் நரம்புகளால் - லால்குடி நடராசன், நெல்லிக்குப்பம் மஜீதுகளின் பிணங்களால் - கையிழந்தோர் - காலிழந்தோர் தந்த ரத்தச் சேற்றில் - பெரியதோர் தியாக மாளிகை, வானத்தை முட்டும் உயரமுடையதாய் - தமிழர் மானத்தைத் தரணிக்கு அறிவிக்கும் தன்மை உடையதாய் - தி. மு. க. என்ற பொன்னெழுத்துக்களைப் பொறித்து - திசை யெட்டும் ஒளிபரப்பி - தியாகர், நாயர், பனகல், செல்வம், அழகிரி ஆகியோர் திருப்பெயர்கள் தென்றலிலே மிதக்க விட்டு ஒலியெழுப்பும் ஒப்பற்ற மாளிகை - உணர்ச்சி மாளிகை - திருமலை நாயக்கன் மஹால் - தாஜ் மஹாலின் பெருமையை - மிஞ்சும் விதத்திலே அமைந்த மாளிகை - கொஞ்சு தமிழ்க் குடும்பத்தாரின் கொலு மண்டபம் - கொள்கையை விளக்கிடும் மணி மண்டபம்.
 
 ## அச்சு அமைப்பு
 
@@ -37,6 +37,17 @@ transcription_method: "direct visual comparison with source scan"
 - `கற்களைக்கூட`, `கையிழந்தோர்`, `காலிழந்தோர்`, `உயரமுடையதாய்` போன்ற clusters enlarged pixels-இல் character-by-character சரிபார்க்கப்பட்டன.
 - `திருத்தணிகளிலும்`, `மஜீதுகளின்`, `கொஞ்சு தமிழ்க் குடும்பத்தாரின் கொலு மண்டபம்` ஆகிய source-visible wording context மூலம் மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
+
+## P2R visual-fidelity re-audit — Batch R08
+
+- scan 38 terminal `மழை வந்து` + scan 39 opening `விடாதே` and every subsequent printed word / punctuation unit were rechecked from native pixels.
+- direct source correction: `திசை எட்டும் ஒளிபரப்பி` → **`திசை யெட்டும் ஒளிபரப்பி`**. The source visibly prints the glide `ய` as a separate orthographic unit after `திசை`; it was not supplied from context.
+- all other source-visible forms including `திருத்தணிகளிலும்`, `தாலமுத்து நடராசன்களின்`, `மஜீதுகளின்`, `கையிழந்தோர் - காலிழந்தோர்`, `திருப்பெயர்கள்`, `திருமலை நாயக்கன் மஹால்`, and `கொலு மண்டபம்` remain unchanged.
+- the dark blue physical-copy mark near `காலிழந்தோர்` is non-publication ink and does not obscure the underlying reading.
+- mandatory historical-family verification was repeated; representative direct forms include `கற்களைக்கூட` / `கையிழந்தோர்` / `காலிழந்தோர்` and reform-sensitive `லை / ளை / றா / னை` comparisons throughout the page.
+- `திசை யெட்டும்` is an ordinary source-orthography fidelity repair, not a historical-vowel-family correction event.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity correction**.
 
 ## P2 நிலை
 

@@ -40,6 +40,16 @@ transcription_method: "direct visual comparison with source scan"
 - `அதை யொட்டியே`, `நடத்தி யிருக்கிறோம்`, `வாழப் போனவளுக்கு`, `கொலைஞரே` போன்ற source-visible wording/spacing மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R08
+
+- scan 35 terminal `வேலாயுதம்` + scan 36 opening `பாளையம் வீரர்கள்.` was rechecked directly as the physical cross-page continuation.
+- every printed word, quote, punctuation separator, meaningful spacing and terminal fragment `மாவட்ட சுற்றுப்` was compared with native source pixels.
+- source-visible wording / spacing including `அதை யொட்டியே`, `நடத்தி யிருக்கிறோம்`, `வாழப் போனவளுக்கு`, `‘கொலைஞரே’`, `‘கலைஞரே’`, `மாலைகட்ட`, and `மனந்தெளிந்து` all match the canonical record.
+- source stains / paper wear are non-publication layers and do not obscure canonical text.
+- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was rechecked; representative direct forms include `தலைவரால்` / `கலைஞரே` (`லை`), `மங்கைதான்` / `மாலைகட்ட` same-font comparisons, and visible `றா` family forms.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 36 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

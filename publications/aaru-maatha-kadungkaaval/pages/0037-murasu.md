@@ -38,6 +38,16 @@ transcription_method: "direct visual comparison with source scan"
 - `மாணவரா யிருக்கும்போதே`, `கரைகள் இணைக்கும்`, `புகழ்தேடித்`, `தோழர்கட்கு` போன்ற source-visible forms/spacing context மூலம் மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R08
+
+- scan 36 terminal `மாவட்ட சுற்றுப்` + scan 37 opening `பயணத்திலே` was visually reconfirmed as `மாவட்ட சுற்றுப்பயணத்திலே` while preserving each physical page fragment.
+- every printed word, punctuation mark, meaningful spacing and terminal fragment `பிர்லாக்` matches the native source.
+- source-visible forms including `செம்மைப் படுத்தி`, `மாணவரா யிருக்கும்போதே`, `கழகக் காளை`, `கரைகள் இணைக்கும்`, `தந்திருக்கிறதோ-`, `புகழ்தேடித்`, and `தோழர்கட்கு` were retained without normalization.
+- physical stains / print wear remain outside the publication-text layer.
+- mandatory historical-family verification was repeated; `காளை` directly confirms `ளை`, and the page's repeated `லை` / `னை` family forms remain source-supported.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 37 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

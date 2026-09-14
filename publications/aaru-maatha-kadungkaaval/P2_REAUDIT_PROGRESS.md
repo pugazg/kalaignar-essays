@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **35/224**
-- completed range — **1–35**
-- next range — **36–40**
+- re-audited — **40/224**
+- completed range — **1–40**
+- next range — **41–45**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **11**
@@ -165,8 +165,31 @@ Ordinary source-fidelity corrections in Batch R07 — **2**.
 
 P2 canonical totals remain **222 verified / 2 needs-review**.
 
+## Batch R08 — scans 36–40
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 36 | body / folio 33 | PASS | full text / quote / punctuation / spacing / boundary review; no canonical correction |
+| 37 | body / folio 34 | PASS | full text / spacing / two page-boundary fragments confirmed; no canonical correction |
+| 38 | body / folio 35 | PASS | full text / quotation / punctuation / boundary review; no canonical correction |
+| 39 | body / folio 36 | PASS after correction | `திசை எட்டும்` → source-visible `திசை யெட்டும்` |
+| 40 | body / folio 37 | PASS after corrections | `எழுப்பியிருக்கிற` → `எழுப்பி யிருக்கிற`; `கலைவர்கள்` → source-visible `தலைவர்கள்` |
+
+Historical-family findings:
+
+- scan 36 — `தலைவரால்` / `கலைஞரே` confirm `லை`;
+- scan 37 — `காளை` confirms `ளை`;
+- scan 38 — `அண்ணா` (`ணா`) and `இளைப்பாறுவதற்கு` (`ளை / றா`);
+- scan 39 — known reform-sensitive families rechecked; `திசை யெட்டும்` is ordinary source orthography, not a historical-glyph correction;
+- scan 40 — `தலைவர்கள்` reconfirms historical `லை`;
+- new historical-family correction events — **0**; cumulative count remains **11**.
+
+Ordinary source-fidelity corrections in Batch R08 — **3**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**.
+
 ## Exact next activity
 
-**Batch R08 — physical scans 36–40.**
+**Batch R09 — physical scans 41–45.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **40**; do not process scan 41.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **45**; do not process scan 46.
