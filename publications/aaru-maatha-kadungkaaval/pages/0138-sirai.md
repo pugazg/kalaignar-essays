@@ -19,7 +19,7 @@ transcription_method: "direct visual comparison with source scan"
 
 தஞ்சை பட்டு! சிட்டாகப் பறந்து செயலாற்றும் தஞ்சை செயலாளர். பயந்த சுபாவமும் - பணிபுரியும் ஆர்வமும் நிரம்பப் பெற்றவர். அடக்கம் - அமைதி - கண்ணியம் - இவைகளைக் கட்டிக்காக்கும் பண்பு கொண்டவர்.
 
-மூன்றும் பிளாக் தலைவர் :—
+மூன்றாம் பிளாக் தலைவர் :—
 
 மாயவரம் கிட்டப்பா! முட்டவரும் பகைவரை எட்டப்பா என்று சொல்லும் துணிவும் - கட்டுப்பாட்டுக்குப் பணிந்து நடக்கும் தன்மையும் கொண்டவர். மாயவரம் கழகத்து செயலாளர். இளைஞர். எழுச்சிக்காளை இன உணர்ச்சி முரசு!
 
@@ -36,7 +36,7 @@ transcription_method: "direct visual comparison with source scan"
 - visible printed folio — **135**.
 - running header — `ஆறுமாதக் கடுங்காவல்`.
 - scan 137 terminal `அடைக்கலத்தின்` continues directly with `ஆர்வமிக்க உழைப்பையும்...`.
-- source-visible `பயந்த சுபாவமும்`, `மூன்றும் பிளாக் தலைவர்`, `முட்டவரும்`, `எழுச்சிக்காளை`, `என்றும்தான்`, and `அய்யம்பேட்டையைச்` were preserved.
+- source-visible `பயந்த சுபாவமும்`, `மூன்றாம் பிளாக் தலைவர்`, `முட்டவரும்`, `எழுச்சிக்காளை`, `என்றும்தான்`, and `அய்யம்பேட்டையைச்` were preserved.
 - page ends with complete `பொறுமைக்கோர் எடுத்துக்காட்டாக இங்கு நடந்து கொண்டார்.`
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -50,6 +50,19 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - source-visible old typeforms were decoded before transcription; no word was regularized from context.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R28
+
+- every printed word, punctuation mark, heading, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- scan 137 terminal `அடைக்கலத்தின்` → this page’s opening `ஆர்வமிக்க உழைப்பையும்...` continuation was reconfirmed.
+- historical-`றா` repair: `மூன்றும் பிளாக் தலைவர் :—` → **`மூன்றாம் பிளாக் தலைவர் :—`**. Enlarged source pixels show the same historical `றா` form as scans 136–137.
+- source-visible `பயந்த சுபாவமும்`, `முட்டவரும்`, `எழுச்சிக்காளை`, `என்றும்தான்`, and `அய்யம்பேட்டையைச்` were otherwise preserved.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; corrected `மூன்றாம்` confirms `றா`, while `எழுச்சிக்காளை` confirms `ளை`; the full 13-family set was checked by character identity.
+- new historical-family correction events — **1**; cumulative count becomes **17**.
+- ordinary source-fidelity corrections on this scan — **0**.
+- result — **PASS after historical-glyph correction**.
+
 
 ## P2 நிலை
 

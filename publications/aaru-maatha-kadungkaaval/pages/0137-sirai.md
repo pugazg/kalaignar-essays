@@ -13,7 +13,7 @@ transcription_method: "direct visual comparison with source scan"
 
 # அச்சு உரை
 
-மேற்கண்டவாறு இலாக்காக்கள் பிரிக்கப்பட்டு எல்லோரும் பதவியேற்றனர். இதில் மூன்றும் பிளாக் தலைவராக தோழர் மணி நான்கு நாட்கள் பணியாற்றி - பிறகு வழக்கு சம்பந்தமாக நாகை சென்றுவிட்டார்.
+மேற்கண்டவாறு இலாக்காக்கள் பிரிக்கப்பட்டு எல்லோரும் பதவியேற்றனர். இதில் மூன்றாம் பிளாக் தலைவராக தோழர் மணி நான்கு நாட்கள் பணியாற்றி - பிறகு வழக்கு சம்பந்தமாக நாகை சென்றுவிட்டார்.
 
 இலாகா சம்பந்தப்பட்டவர்கள் விபரம் :-
 
@@ -33,7 +33,7 @@ transcription_method: "direct visual comparison with source scan"
 
 - visible printed folio — **134**.
 - running header — `கருணாநிதி`.
-- source-visible `மூன்றும் பிளாக்`, `தொண்டனை இருந்தே`, `உள்ளங்கை—நெல்லிக்கை`, `பழங் காலத்`, and `செய்துகாட்டும்` were preserved without contextual correction.
+- source-visible `மூன்றாம் பிளாக்`, `தொண்டனை இருந்தே`, `உள்ளங்கை—நெல்லிக்கை`, `பழங் காலத்`, and `செய்துகாட்டும்` were preserved without contextual correction.
 - page ends at physical fragment `செயலாற்றும் சிங்கம் அடைக்கலத்தின்`; scan 138 begins `ஆர்வமிக்க உழைப்பையும்...`.
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -47,6 +47,19 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - same-edition character identity was used rather than lexical expectation.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R28
+
+- every printed word, punctuation mark, dash, heading, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from the attached source pixels.
+- historical-`றா` repair: `இதில் மூன்றும் பிளாக் தலைவராக` → **`இதில் மூன்றாம் பிளாக் தலைவராக`**. The old-type `றா` identity is directly visible in the source.
+- source-visible forms including `தொண்டனை இருந்தே`, `உள்ளங்கை—நெல்லிக்கை`, `பழங் காலத்`, and `செய்துகாட்டும்` were otherwise retained without contextual correction.
+- exact terminal `செயலாற்றும் சிங்கம் அடைக்கலத்தின்` was preserved; scan 138 begins `ஆர்வமிக்க உழைப்பையும்...`.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; corrected `மூன்றாம்` confirms `றா`, with the full 13-family set checked by character identity.
+- new historical-family correction events — **1**; cumulative count becomes **16**.
+- ordinary source-fidelity corrections on this scan — **0**.
+- result — **PASS after historical-glyph correction**.
+
 
 ## P2 நிலை
 

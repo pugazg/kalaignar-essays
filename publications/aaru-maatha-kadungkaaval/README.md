@@ -38,7 +38,7 @@ Direct native inspection established:
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 135/224 scans; next 136–140**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 140/224 scans; next 141–145**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -97,7 +97,7 @@ Notable durable findings:
 - scans 16–17 repeat printed folios 13–14;
 - scan 18 resumes printed folio 15;
 - physical scans are never deduplicated;
-- historical-glyph correction count — **14**: scan 13 contributes the prior correction; Batch 021 adds **8** historical-family source-pixel corrections; Batch 041 adds **2** scan-205 historical-form corrections; P2R Batch R21 adds **2** historical-`ளை` repairs at scan 103.
+- historical-glyph correction count — **17**: scan 13 contributes the prior correction; Batch 021 adds **8** historical-family source-pixel corrections; Batch 041 adds **2** scan-205 historical-form corrections; P2R Batch R21 adds **2** historical-`ளை` repairs at scan 103.
 - scans 26–30 — **5/5 verified**, printed folios 23–27, no new holds.
 - scans 31–35 — **5/5 verified**, printed folios 28–32, headings `ஜூன் 19` / `விடிந்தது:`, no new holds; scan 35 ends at `வேலாயுதம்`.
 - scans 36–40 — **5/5 verified**, printed folios 33–37, scan 40 heading `திருச்சியிலே :`, no new holds; scan 40 ends at `கற்றுக்`.
@@ -772,8 +772,23 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - P2R progress — **135/224**
 
 
+### Batch R28 — scans 136–140
+
+- scans 136–140 — **5/5 re-audited**
+- scans 136–138 — historical `றா`: `மூன்றும்` → **`மூன்றாம்`** in each source-visible occurrence
+- scans 139–140 — PASS / no canonical correction
+- scan 137→138 and scan 139→140 continuations reconfirmed
+- scan 140 terminal `எல்லோரும் குளிக்கக்` preserved; scan 141 not opened
+- ordinary source-fidelity corrections — **0**
+- new historical-glyph correction events — **3**
+- cumulative historical-glyph correction-event count — **17**
+- P2 totals remain **222 verified / 2 needs-review**
+- guessed readings remain **0**
+- P2R progress — **140/224**
+
+
 ## Exact next activity
 
-**P2R Batch R28 — scans 136–140.**
+**P2R Batch R29 — scans 141–145.**
 
-Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Stop after scan 140; do not process scan 141.
+Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Stop after scan 145; do not process scan 146.

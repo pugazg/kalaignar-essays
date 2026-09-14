@@ -48,6 +48,18 @@ transcription_method: "direct visual comparison with source scan"
 - the unusual `பிசிரானது` cluster was retained from the directly visible source form rather than replaced with an expected lexical form.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R28
+
+- every printed word, heading, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from the attached source pixels.
+- source-visible unusual forms including `தோழமைக்கோர் பிசிரானது`, `நல்ல தொரு`, `அடக்கொணா`, `வைரக் கட்டை`, `போட்டோஸ்டுடியோ`, and `சோர்விலாளன்` were reconfirmed without contextual normalization.
+- exact terminal physical fragment `எங்கள்` was preserved; scan 140 begins `ராஜ்யத்தில்மட்டும்...`, directly establishing the page-boundary continuation.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `முல்லை` / `இளவல்` / `இளமை` / `இளைஞர்` provide direct same-page checks for `லை / ளை`, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **17**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 139 was fully compared with source pixels.

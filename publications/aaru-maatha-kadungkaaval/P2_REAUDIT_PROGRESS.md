@@ -20,12 +20,12 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **135/224**
-- completed range — **1–135**
-- next range — **136–140**
+- re-audited — **140/224**
+- completed range — **1–140**
+- next range — **141–145**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
-- cumulative historical-glyph correction events — **14**
+- cumulative historical-glyph correction events — **17**
 
 ## Batch R01 — scans 1–5
 
@@ -639,8 +639,33 @@ Ordinary source-fidelity corrections in Batch R27 — **0**.
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
 
+## Batch R28 — scans 136–140
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 136 | body / folio 133 | PASS after historical correction | `மூன்றும் பிளாக் தலைவர்` → source-visible `மூன்றாம் பிளாக் தலைவர்`; historical `றா` restored |
+| 137 | body / folio 134 | PASS after historical correction | `இதில் மூன்றும் பிளாக் தலைவராக` → source-visible `இதில் மூன்றாம் பிளாக் தலைவராக`; terminal continuation fragment confirmed |
+| 138 | body / folio 135 | PASS after historical correction | `மூன்றும் பிளாக் தலைவர் :—` → source-visible `மூன்றாம் பிளாக் தலைவர் :—`; scan-137 continuation and full page otherwise confirmed |
+| 139 | body / folio 136 | PASS | unusual source forms / full text / terminal `எங்கள்` confirmed; no canonical correction |
+| 140 | body / folio 137 | PASS | scan-139 continuation / complete text / terminal `எல்லோரும் குளிக்கக்` confirmed; scan 141 not opened |
+
+Historical-family findings:
+
+- scan 136 — historical `றா` restored in `மூன்றாம்`;
+- scan 137 — historical `றா` restored in `மூன்றாம்`;
+- scan 138 — historical `றா` restored in `மூன்றாம்`; `எழுச்சிக்காளை` reconfirms `ளை`;
+- scan 139 — same-page `முல்லை` / `இளவல்` / `இளமை` / `இளைஞர்` checks for `லை / ளை`;
+- scan 140 — `தலைவர்களும்` / `தலைமை` (`லை`) and full-family check;
+- all 13 tracked families were explicitly checked on every scan by character identity;
+- new historical-family correction events — **3**; cumulative count becomes **17**.
+
+Ordinary source-fidelity corrections in Batch R28 — **0**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
+
 ## Exact next activity
 
-**Batch R28 — physical scans 136–140.**
+**Batch R29 — physical scans 141–145.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **140**; do not process scan 141.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **145**; do not process scan 146.

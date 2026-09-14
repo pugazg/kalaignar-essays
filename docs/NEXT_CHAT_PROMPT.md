@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R28 scans 136–140
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R29 scans 141–145
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
 
@@ -13,26 +13,25 @@ Use only the attached full source:
 
 No OCR, web copies, Wikisource, TVA web text, alternate editions, or contextual completion.
 
-## Durable state after Batch R27
+## Durable state after Batch R28
 
 - P2 canonical coverage — **224/224**
 - P2 — **222 verified / 2 needs-review** (source-obscured holds scans 18 and 198)
-- P2R — **135/224 complete**
-- re-audited scans — **1–135**
-- historical-glyph correction-event count — **14**
+- P2R — **140/224 complete**
+- re-audited scans — **1–140**
+- historical-glyph correction-event count — **17**
 - guessed readings — **0**
 
-Batch R27:
-- scans 131–135 — PASS / no canonical correction
-- scan 131→132 continuation `அணு` + `வும் நழுவாதவர்.` reconfirmed
-- scan 133 prison-song block and unusual number wording, scan 134 long `C. P. பிளாக்` paragraph, and scan 135 administrative list reconfirmed
+Batch R28:
+- scans 136–138 — historical `றா`: canonical `மூன்றும்` → source-visible **`மூன்றாம்`** in each occurrence
+- scans 139–140 — PASS / no canonical correction
 - ordinary source-fidelity corrections — **0**
-- new historical-family correction events — **0**
-- scan 135 complete ending preserved; scan 136 was not opened
+- new historical-family correction events — **3**
+- scan 140 terminal `எல்லோரும் குளிக்கக்` preserved; scan 141 was not opened
 
 ## Exact next activity
 
-Process exactly physical scans **136–140**.
+Process exactly physical scans **141–145**.
 
 For every scan:
 1. compare every printed word, numeral, punctuation mark, meaningful spacing and page-boundary fragment with the canonical record;
@@ -42,4 +41,4 @@ For every scan:
 5. record PASS / correction details in the page record and `P2_REAUDIT_PROGRESS.md`;
 6. synchronize controls and commit.
 
-Stop after scan **140**. Do not process scan 141 in this iteration.
+Stop after scan **145**. Do not process scan 146 in this iteration.

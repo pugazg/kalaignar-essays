@@ -34,7 +34,7 @@ transcription_method: "direct visual comparison with source scan"
 துணை - பக்கிரிசாமி
 கிருஷ்ணன்
 
-மூன்றும் பிளாக் தலைவர் - மாயவரம் கிட்டப்பா
+மூன்றாம் பிளாக் தலைவர் - மாயவரம் கிட்டப்பா
 
 துணை - வள்ளுவதாசன்
 
@@ -57,7 +57,7 @@ transcription_method: "direct visual comparison with source scan"
 - visible printed folio — **133**.
 - running header — `ஆறுமாதக் கடுங்காவல்`.
 - source list structure was preserved, including the two names grouped under the second-block deputy entry.
-- source-visible `மூன்றும் பிளாக் தலைவர்`, `உள்நாட்டிலாகா`, `‘ஜல ஸ்தாபன’ மந்திரி`, and personal/place names were retained without modernization.
+- source-visible `மூன்றாம் பிளாக் தலைவர்`, `உள்நாட்டிலாகா`, `‘ஜல ஸ்தாபன’ மந்திரி`, and personal/place names were retained without modernization.
 - page ends with complete `பிரதம செயலாளர் - ஜெயங்கொண்டம் வேணு`.
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -71,6 +71,18 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - source-visible older forms were decoded by character identity before Unicode transcription.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R28
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header, visible folio and full office-holder list was rechecked directly from the attached source pixels.
+- historical-`றா` repair: `மூன்றும் பிளாக் தலைவர்` → **`மூன்றாம் பிளாக் தலைவர்`**. Enlarged source pixels clearly show the historical `றா` identity in `மூன்றாம்`; this is character-identity recovery, not lexical modernization.
+- the grouped two-name deputy entry under the second block, `உள்நாட்டிலாகா`, `‘ஜல ஸ்தாபன’ மந்திரி`, and all personal/place names were otherwise reconfirmed.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `மூன்றாம்` supplies the corrected `றா` identity, and the full 13-family set was checked by character identity.
+- new historical-family correction events — **1**; cumulative count becomes **15**.
+- ordinary source-fidelity corrections on this scan — **0**.
+- result — **PASS after historical-glyph correction**.
+
 
 ## P2 நிலை
 

@@ -41,6 +41,19 @@ transcription_method: "direct visual comparison with source scan"
 - character identities were resolved from source pixels before transcription; no contextual completion beyond the visible page was used.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R28
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal physical fragment was rechecked directly from the attached source pixels.
+- scan 139 terminal `எங்கள்` → this page’s opening `ராஜ்யத்தில்மட்டும்` continuation was reconfirmed without rewriting either page record.
+- source-visible forms including `தனித் தனித்`, `இன்றையதினம்`, `அண்டாக்கள்`, `தோழர்கள்தான்`, `‘க்யூ’`, `நாலு பிளாக் தலைவரும்`, `ஜெயில் அதிகாரம்`, `ஐம்பதுபேர்தான்`, and `செளகரியமாகவும்` were reconfirmed.
+- exact terminal `எல்லோரும் குளிக்கக்` was preserved; scan 141 was not opened or processed.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `தலைவர்களும்` / `தலைமை` (`லை`) and `அறிக்கை`-line same-typeface clusters were checked directly, with the full 13-family set verified by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **17**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 140 was fully compared with source pixels.
