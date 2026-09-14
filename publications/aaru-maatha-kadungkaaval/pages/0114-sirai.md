@@ -39,6 +39,19 @@ transcription_method: "direct visual comparison with source scan"
 - source-visible wording and spacing were retained without grammar or vocabulary normalization.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R23
+
+- every printed word, punctuation mark, meaningful spacing, running header, visible folio and complete paragraph ending was rechecked directly from the attached source pixels.
+- scan 113 terminal `எனக்கு நானே` → this page’s opening `ஆச்சரியப்படுவேன்` continuation was reconfirmed.
+- source-visible forms including `வேடந்தாங்கி`, `அரங்குவைப்`, `சப்ஜெயில்`, `இருபதுக்குட்பட்ட`, `நாலந்து`, and `இருக்கமுடியும்` were preserved without grammar or vocabulary normalization.
+- within-page line wrapping such as `சிந்தனை` / `யோட்டத்தை` was treated as typography and did not create a false lexical change.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `கூண்டுகளை` / related `ளை` clusters and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **13**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 114 was fully compared with source pixels.

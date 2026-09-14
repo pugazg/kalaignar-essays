@@ -13,7 +13,7 @@ transcription_method: "direct visual comparison with source scan"
 
 # அச்சு உரை
 
-அவர் பற்றிய நினைவு என்னை எங்கேயோ அழைத்துச் சென்றது - நீண்ட சிந்தனை. போலீஸ்வண்டி புழுதியை இறைத்தபடி போகிறது. பின்னால் வந்த மோட்டார் புழுதியில் மறைந்து வேறு பக்கம் திரும்பிவிட்டது. ஆனால் ‘அரங்கு’ என் மனதைவிட்டு மறையவில்லை.
+அவர் பற்றிய நினைவு என்னை எங்கேயோ அழைத்துச் சென்று - நீண்ட சிந்தனை. போலீஸ்வண்டி புழுதியை இறைத்தபடி போகிறது. பின்னால் வந்த மோட்டார் புழுதியில் மறைந்து வேறு பக்கம் திரும்பிவிட்டது. ஆனால் ‘அரங்கு’ என் மனதைவிட்டு மறையவில்லை.
 
 1940ம் ஆண்டு - திருவாரூர்ப் பள்ளியிலே படித்துக் கொண்டிருக்கிறேன். அப்போது படிப்பிலே கவனம் சென்றதைவிட - அதிகமாக இயக்கத்திலேதான் சென்றது. பள்ளியிலேயே கழகப்பிரச்சாரம் - கழக ஏடுகளைப் பரப்புதல் - கையெழுத்துப் பிரதிகள் நடத்துதல் போன்ற செயல்களில் தீவிரமாக ஈடுபட்டேன். அப்போது என்னுடன் துணையாக இருந்தும் இணையாக இருந்தும் இயக்கத் தொண்டு புரிந்தவர் வ. கோ. சண்முகம் என்ற “மாவெண்கோ” இப்போது உடல் நலமின்றி யிருக்கிறார். பள்ளிப் பருவத்தில் எனக்குப் பரம விரோதியாக இருந்தவர்கள் இருவர். ஒருவர் வெங்கடசலம் என்ற பச்சைக் கதர்ச்சட்டைக்காரர். அவர் இப்போது - என் அப்போதே - திராவிட இயக்கத்திற்கு வந்துவிட்டார் - இன்னொருவர் ரங்கசாமி. என்னைக் கண்டால் அவருக்கு வேப்பங்காய் போலத்தான்! அழுத்தமான கதர் சட்டையும் - சட்டையிலே காங்கிரஸ் சின்னமும் அணிந்துகொண்டிருந்த அந்த இளம் நண்பர் - பள்ளித் தாழ்வாரத்திலே நான் நடந்து செல்வதைப் பார்த்தாலே போதும் - அவரது குழுவினரோடு சேர்ந்து கொண்டு பரிகாச வார்த்தைகளைக் கொட்டிக் கும்மாளம் போடுவார். சில நேரங்களில் சிறு கல்லும் வீசுவார்.
 
@@ -37,6 +37,19 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - unusual wording was not normalized from context.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R23
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from the attached source pixels.
+- direct source correction: `அழைத்துச் சென்றது - நீண்ட சிந்தனை.` → **`அழைத்துச் சென்று - நீண்ட சிந்தனை.`**. Enlarged source pixels clearly end the verb with `சென்று`; no contextual completion was used.
+- source-visible unusual forms including `போலீஸ்வண்டி`, `நலமின்றி யிருக்கிறார்`, `என் அப்போதே`, `கதர்ச்சட்டைக்காரர்`, and terminal `என் தான்` were otherwise reconfirmed.
+- exact terminal `எனக்கு நானே` was preserved; scan 114 begins `ஆச்சரியப்படுவேன்`.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `என்னை` (`னை`), `தாழ்வாரத்திலே` (`றா`) and same-edition `லை / ளை` forms were checked directly, with the full 13-family set verified by character identity.
+- this repair is an ordinary source-text fidelity correction, not a historical-glyph correction event.
+- new historical-family correction events — **0**; cumulative count remains **13**.
+- result — **PASS after source-fidelity correction**.
+
 
 ## P2 நிலை
 

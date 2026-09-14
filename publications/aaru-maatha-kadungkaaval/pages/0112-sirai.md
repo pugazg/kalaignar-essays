@@ -48,6 +48,18 @@ transcription_method: "direct visual comparison with source scan"
 - `இலைபோட்டு` is source-supported historical `லை`; no lexical modernization was applied.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R23
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- scan 111 terminal `வடாற்காடு மாவட்டத்` → this page’s opening `தில்` continuation was reconfirmed without rewriting either physical page record.
+- unusual source forms and spacing including `செல்வில்`, `இலைபோட்டு`, `சிறை யாத்திரை`, `துவங்கி விட்டது`, and the quoted `‘சென்று வருக’` were retained exactly as printed.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `இலைபோட்டு` (`லை`) and `பின்னால்` / related same-typeface families were checked directly, with the full 13-family set verified by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **13**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 112 was fully compared with source pixels.

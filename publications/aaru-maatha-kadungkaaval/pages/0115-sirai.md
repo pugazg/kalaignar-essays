@@ -45,6 +45,20 @@ transcription_method: "direct visual comparison with source scan"
 - affected forms such as `மலைக்கோட்டை` were read by character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R23
+
+- every printed word, proper name, numeral, quotation mark, punctuation mark, meaningful spacing, heading, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- heading `எங்கள் கூண்டு :` and the exact name / hyphen sequence `வேணு கோபால்-மலைக்கோட்டை ரத்தினம்-அரியலூர் எத்திராஜ்-மற்றுமொரு நண்பர்` were reconfirmed.
+- source-visible forms including `சிறுநீர் கழிக்கப் பட்டு`, `மலஜலம்`, `‘கக்கூஸ்’`, `“லாங் ஜம்ப்”`, `கூளமும்`, and `ஆளுக்கொரு சட்டி` were preserved without normalization.
+- within-page line wrapping such as `குப்` / `பையும்` was rejoined only where the physical word identity is directly clear.
+- page ends with complete `பிறகுதான் உணவு வந்தது.`; scan 116 was not opened or processed.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `மலைக்கோட்டை` (`லை`), `மூக்குகளையெல்லாம்` (`ளை`), and `நிலைமையிலே` (`லை`) were reconfirmed, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **13**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 115 was fully compared with source pixels.

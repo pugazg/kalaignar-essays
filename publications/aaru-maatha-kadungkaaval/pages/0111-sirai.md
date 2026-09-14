@@ -42,6 +42,18 @@ transcription_method: "direct visual comparison with source scan"
 - no unresolved historical-glyph ambiguity remains.
 - cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R23
+
+- every printed word, numeral, Latin initial, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from the attached source pixels.
+- source-visible forms including `கலைமகள் பிரஸ்`, `சிங்க ஏறுகளும்-கண்ணியம்-கட்டுப்பாடு`, `சம்பந்தப் படுத்தப்பட`, `அஞ்சாநெஞ்சர்`, `இன்பபோர்த் தளபதி`, `N. S.`, and `வடாற்காடு` were reconfirmed without normalization.
+- exact terminal `வடாற்காடு மாவட்டத்` was preserved; scan 112 begins `தில்`, directly establishing `வடாற்காடு மாவட்டத்தில்` across the physical page boundary.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `கலைமகள்` (`லை`), `இளைஞர்` (`ளை`), `வீராங்கனை` (`னை`) and `வடாற்காடு` (`றா`) were reconfirmed, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **13**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 111 was fully compared with source pixels.

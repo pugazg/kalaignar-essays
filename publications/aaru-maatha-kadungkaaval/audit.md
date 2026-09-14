@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 110/224 scans complete; next 111–115** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 115/224 scans complete; next 116–120** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1699,8 +1699,23 @@ Historical-family verification added **0 new correction events**; cumulative cou
 P2R progress — **110/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **111–115**.
 
 
+### Batch R23 — scans 111–115
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 111 | PASS | complete text / initials / punctuation / spacing / terminal `வடாற்காடு மாவட்டத்` confirmed |
+| 112 | PASS | scan-111 continuation / `செல்வில்` / complete text / ending confirmed |
+| 113 | PASS after correction | `அழைத்துச் சென்றது - நீண்ட சிந்தனை.` → source-visible `அழைத்துச் சென்று - நீண்ட சிந்தனை.`; terminal `எனக்கு நானே` confirmed |
+| 114 | PASS | scan-113 continuation / complete text / source-distinct wording / ending confirmed |
+| 115 | PASS | heading / proper-name sequence / quotations / punctuation / ending confirmed; scan 116 not opened |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **13**. Ordinary source-fidelity corrections — **1**.
+
+P2R progress — **115/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **116–120**.
+
+
 ## Exact next activity
 
-**P2R Batch R23 — scans 111–115.**
+**P2R Batch R24 — scans 116–120.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 115; do not process scan 116.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 120; do not process scan 121.
