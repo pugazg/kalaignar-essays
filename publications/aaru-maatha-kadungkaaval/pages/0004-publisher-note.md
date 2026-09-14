@@ -6,31 +6,40 @@ publication: "aaru-maatha-kadungkaaval"
 article: null
 section: "publisher-note"
 page_type: "publisher-note"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual comparison with source scan"
+transcription_method: "direct visual comparison with controlling attached source scan"
 ---
 
 # அச்சு உரை
 
-_[needs-review — அச்சிடப்பட்ட பதிப்பகக் குறிப்பு உள்ளது; முழு எழுத்துருவாரி transcription இன்னும் உறுதிசெய்யப்படவில்லை.]_
+## இது
 
-## Source hold
+கல்லக்குடியில் போர்க்களம் அமைப்பதற்கான சூழ்நிலைகள் உருவானதிலிருந்து, சிறைவாசம் முடிய - நினைவில் நின்ற நிகழ்ச்சிகள் குறிக்கப்பட்டு திராவிட இயக்கத்தின் வருங்கால சரித்திரத்திற்கு இதுவும் பயன்படலாம் என்ற ஆசையுடன் வெளியிடப்படுகிறது.
 
-- இது வெற்று பக்கம் அல்ல; அச்சிடப்பட்ட publisher note உள்ளது.
-- தற்போதைய render-ல் முழு punctuation/word-boundary fidelity-யுடன் வாசிக்க இயலாததால் எந்த வரியும் ஊகித்து நிரப்பப்படவில்லை.
-- அடுத்த focused high-resolution re-read-ல் முழு note எழுத்துருவாரியாக உறுதிசெய்யப்பட வேண்டும்.
+பதிப்பகத்தார்.
 
 ## அச்சு அமைப்பு
 
-- publisher-note front matter.
-- அச்சுப் பக்க எண் தெளிவாக உறுதிசெய்யப்படவில்லை; `printed_page: null`.
+- publisher-note front matter; no printed folio is present.
+- printed heading `இது` was preserved.
+- the line-break fragment `அமைப்பதற் + கான` was joined as `அமைப்பதற்கான` only because the same lexical item is directly continued in source print.
+- source punctuation, including the dash after `முடிய`, was preserved.
+
+## அச்சு அல்லாத / physical-copy marks
+
+- dark physical-copy marks above and to the left of the printed note are not publication ink and were excluded.
+- paper toning / age specks are not publication text.
+- no body wording is physically obscured.
 
 ## Historical glyph audit
 
-- முழு body text verified ஆகாததால் historical-glyph gate **open**.
-- lexical expectation மூலம் பழைய glyph-ஐ modernize செய்யக் கூடாது.
+- complete printed matter inspected directly at enlarged/high resolution.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- unresolved historical-glyph ambiguity — **0**.
+- no spelling modernization or contextual completion was used.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — printed text exists; exact transcription held rather than guessed.
+**verified** — the complete publisher note is now directly source-confirmed.

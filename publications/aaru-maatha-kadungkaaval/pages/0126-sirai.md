@@ -6,37 +6,45 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual inspection; exact transcription held pending high-resolution source re-read"
+transcription_method: "direct visual comparison with controlling attached source scan"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தில் தொடர்ச்சியான அச்சு உரை உள்ளது. முழு எழுத்துருவாரி transcription தற்போதைய source-pixel inspection route-ல் archival fidelity-யுடன் உறுதிசெய்யப்படாததால் இங்கே ஊகித்து நிரப்பப்படவில்லை.]_
+முகப்பையுமுடைய திருச்சி மத்திய சிறையின் வாசலிலே போலீஸ் வண்டி நின்றது. நாங்கள் இறங்கினோம்.
 
-## Source hold
+அகாலமாகிவிட்டதால் - மறுநாள் காலையில்தான் எங்களை விழுங்க முடியும் என்று கூறிவிட்டது சிறை அதிகாரம்.
 
-- physical scan **126** was opened directly from the controlling attached PDF.
+“சரி- இதோ இந்த இடத்தில் படுங்கள்” என்று சிறைக்கு வெளியேயுள்ள ஒரு மண்டபத்தைக் காட்டினார். அதில் யோகாசனங்களும் - மாயவித்தைகளும் கற்றவர்கள் தான் படுக்கலாம். மழைத் தண்ணீர் கணுக்கால் அளவு தேங்கியிருந்தது. நீர்மேல் படுக்கும் பயிற்சி எங்களுக்கு கிடையாது. ஆகையால் தயங்கி நின்றோம். கால்வலி எடுக்கும் வரையில் நின்றோம்.
+
+பிறகு கருணை பிறந்தது - “சரி இங்கே படுங்கள்” என்று ‘இண்டர்வியூ’ பார்க்குமிடத்திற்கு வெளியே உள்ள தாழ்வாரத்தைக் காட்டினார்கள். அங்குபோய் உட்கார்ந்தோம். மழைச்சாரல் நிற்கவில்லை.
+
+குளிரும் கோடி கோடித் தேளென மாரிக் கொட்டியது. கண்ணைத் திறக்கமுடியாத மின்னல்! ‘புளூரசி’ நோயினில் பிடிக்கப்பட்டவன் நான் - அதற்குக் குளிர் ஆகாது - தொலைந்துபோன நோய் - மீண்டும் தொடர்ந்து விடுமோ இந்தக் குளிரால் எனப் பயந்தேன்; அவ்வளவு குளிர் - சத்தி என்னைக் கட்டிப் பிடித்துக்கொண்டார் - அந்தக் கதகதப்பிலே கொஞ்சம் கண்ணயர்ந்தேன். கைகளைத் தேய்த்துக்கொண்டு சூடு உண்டாக்கியபடியும் - முழங்காலுக்கிடையே கைகளைப் பொத்திக்கொண்டு சுருண்ட நிலையிலும் - எல்லாத் தோழர்களும் அந்த பயங்கர இரவை மிகக் கஷ்டப்பட்டு துரத்திக் கொண்டிருந்தனர்.
+
+## அச்சு அமைப்பு
+
 - visible printed folio — **123**.
-- P1 classification — **main text / `sirai`**.
-- source image itself is present; this is **not** a physical-loss or missing-page hold.
-- exact wording, punctuation, paragraph boundaries, meaningful spacing, and historical glyph identities remain to be re-read from a stable high-resolution source-pixel view.
-- OCR output, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into the canonical transcription.
-- scan 125 ends at the physical fragment `கோட்டைபோன்ற`; scan 126 is its source-continuation page, but the continuation wording is not reconstructed from context.
-
+- running header — `ஆறுமாதக் கடுங்காவல்`.
+- opening `முகப்பையுமுடைய` directly continues scan 125's terminal physical fragment `கோட்டைபோன்ற`.
+- source-visible forms including `எங்களை விழுங்க முடியும்`, `யோகாசனங்களும்`, `மாயவித்தைகளும்`, `நீர்மேல்`, `‘இண்டர்வியூ’`, `அங்குபோய்`, `தேளென`, `‘புளூரசி’`, `கதகதப்பிலே`, and `கண்ணயர்ந்தேன்` were preserved without normalization.
+- no scan-127 wording was pulled backward.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- full physical-copy-mark audit remains part of the focused re-read.
+- paper toning / age specks are not publication text.
+- no non-print mark obscures canonical body wording on this page.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page until full high-resolution transcription is verified.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete page inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- visible reform-sensitive clusters were decoded by character identity before Unicode transcription.
+- unresolved historical-glyph ambiguity — **0**.
+- because the prior record was only a placeholder, these are first canonical readings and do **not** add correction events.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact body transcription is deliberately held rather than guessed.
+**verified** — scan 126 placeholder was replaced only after full direct source-pixel transcription and audit.

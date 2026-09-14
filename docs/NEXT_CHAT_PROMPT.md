@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 remaining-holds correction pass
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 final physical-obstruction disposition
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
 
@@ -6,30 +6,28 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is authoritative.
 
-Durable state after Batch 055: **P2 = 224/224 canonical records; 213 verified / 11 needs-review; 0 blocked; 0 guessed readings; 11 historical-glyph correction events**.
+Durable state after Batch 056: **P2 = 224/224 canonical records; 221 verified / 3 needs-review; 0 blocked; 0 guessed readings; 11 historical-glyph correction events**.
 
-## Batch 055 durable state
+## Batch 056 durable state
 
-- scans **196, 197, 199, 200** are now **verified**
-- scan **198** has a complete direct-source transcription except for one dark-blue physical-copy mark that obscures the cluster after `அ` and before `ந்தார்` in `முதற் பரிசை அ[…]ந்தார்`
-- the hidden scan-198 character(s) were not inferred from context
-- scan 198 also contains a separate pale blue/purple lower-right non-print mark
-- scan 199 preserves the historical-`றா` reading `கூறாமலிருக்க`
-- scan 200 preserves `நூறு ‘பஸ்கி’ போட முனைந்தார்` and terminal fragment `ஆகி`
+- scans **3, 4, 126–130, and 217** are now **verified**
+- scan 3 preserves source-visible `முதற் பதிப்பு—1953`, `உரிமையுடையது.`, and the complete printer line
+- scan 4 publisher note is fully transcribed
+- scans 126–130 have complete direct-source transcriptions and mandatory 13-family historical-glyph audits
+- scan 129 historical `றா` identity gives source-supported `மூன்றாவது பிள்ளை நான்.`
+- scan 130 preserves source-visible `போலவே யிருந்தது`
+- scan 217 directly resolves `மணிமேடாகி விட்டது!`
+- only scans **18, 198, and 211** remain `needs-review`
 - no P3 / article assembly / P4 / P5 / English work has started
 
 ## Exact next activity
 
-Begin only the **P2 remaining-holds correction pass** for:
+Process only the final three P2 physical-obstruction holds:
 
-- scans **3, 4, 18**
-- scans **126–130**
-- scan **198**
-- scan **211**
-- scan **217**
+1. scan **18** — white physical obstruction after `ஒருவராக ஆ` and before `விடக்கூடிய`
+2. scan **198** — dark-blue mark in `முதற் பரிசை அ[…]ந்தார்`
+3. scan **211** — dark/blue mark before `தாசிரியர் ஆத்ரேயா`
 
-Before changing any record, re-fetch live `main`, the relevant page record, and any durable user-confirmed correction already recorded in the repository or current conversation. Use only source pixels explicitly authorised for that scan. Do not use OCR, web copies, Wikisource, TVA web text, alternate editions, or contextual completion.
+Re-fetch live records and re-open the controlling source pixels at the highest available resolution. If the print remains physically hidden, preserve `[…]` and do **not** reconstruct it from grammar, names, context, OCR, web copies, Wikisource, TVA web text, or alternate editions.
 
-For any physically hidden print that still cannot be recovered, preserve `[…]` and keep the page `needs-review`; never guess.
-
-Synchronize controls and commit only source-supported corrections. Do not start P3, article assembly, P4/P5, or English while any P2 hold remains.
+Synchronize controls only for source-supported/user-confirmed disposition. Do not start P3, article assembly, P4/P5, or English while any P2 hold remains.

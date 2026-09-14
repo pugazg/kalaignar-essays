@@ -6,9 +6,9 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract; one source-visible word held unresolved rather than inferred"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract"
 ---
 
 # அச்சு உரை
@@ -25,33 +25,32 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 
 “கம்யூனிஸ்டுகளே முதல் எதிரி என்றேன் - அவர்கள் அடங்கிவிட்டார்கள் - இவர்களே முதல் எதிரி என்கிறேன் - இவர்களும் அடங்கிவிடுவார்கள்.” ஆச்சாரியாரின் திருப்தி இப்படியிருந்தது.
 
-“மாகினட் அரணத் தொட்டேன் - மணிமேடாக […]! இதோ மாஸ்கோவில் நுழைகிறேன் - இதுவும்
+“மாகினட் அரணத் தொட்டேன் - மணிமேடாகி விட்டது! இதோ மாஸ்கோவில் நுழைகிறேன் - இதுவும்
 
-## Source hold
+## அச்சு அமைப்பு
 
 - visible printed folio — **214**.
 - running header — `கருணாநிதி`.
 - extract page **68** = physical scan **217**.
 - opening sentence directly continues scan 216's terminal `இதை அவர்`.
-- the word immediately after `மணிமேடாக` and before `!` is source-visible but its exact character identity remains insecure after enlarged/high-resolution inspection; it is recorded as `[…]` rather than inferred from language or historical context.
-- source-visible `மாகினட்` was directly confirmed and preserved.
+- enlarged source pixels directly resolve the formerly held sequence after `மணிமேடாக` as `ி விட்டது`, giving source-supported `மணிமேடாகி விட்டது!`.
+- source-visible `மாகினட்` remains preserved without normalization.
 - page ends at `இதுவும்`; scan 218 continues the open quotation.
 
 ## அச்சு அல்லாத / physical-copy marks
 
 - paper toning / age specks are not publication text.
-- the unresolved word is not physically covered; this is a fidelity hold on the printed glyphs themselves, not a missing-source or obstruction hold.
+- no physical-copy mark obscures the resolved `மணிமேடாகி விட்டது!` sequence.
 - no external edition, OCR, or contextual completion was used.
 
 ## Historical glyph audit
 
 - complete page inspected directly at enlarged/high-resolution source pixels.
 - explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-- visible reform-sensitive clusters were decoded by character identity before Unicode transcription.
-- the unresolved word after `மணிமேடாக` remains deliberately unresolved; no historical-family identity is asserted for it.
-- no global replacement or lexical modernization was used.
+- unresolved historical-glyph ambiguity — **0**.
+- the `மணிமேடாகி விட்டது!` resolution is a direct ordinary source reading, not a historical-glyph correction event.
 - cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — scan 217 is complete except for one source-visible word after `மணிமேடாக` whose exact reading is not secure; no guess was inserted.
+**verified** — the former scan-217 source-visible word hold is resolved directly from enlarged source pixels.

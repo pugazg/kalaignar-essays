@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 055 / P2 backlog scans 196–200** reached the durable state **224/224 canonical records; 213 verified / 11 needs-review**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 056 / P2 remaining-holds correction pass** reached the durable state **224/224 canonical records; 221 verified / 3 needs-review**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 213 verified / 11 needs-review**
+- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 221 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1402,32 +1402,56 @@ Batch 055 result:
 - pre-existing holds at scans 3, 4, 18, 126–130, 211, and 217 were not modified.
 - because scan 198 contains a newly documented physical obstruction, the remaining P2 set is **11 records**, not the anticipated legacy-only 10.
 
+### Batch 056 — P2 remaining-holds correction pass
+
+Direct source-pixel correction pass over the 11 records carried forward from Batch 055:
+
+- scan 3 — `pages/0003-imprint.md` — **verified**
+- scan 4 — `pages/0004-publisher-note.md` — **verified**
+- scan 18 — `pages/0018-murasu.md` — **needs-review / unchanged** — white physical obstruction still hides the cluster after `ஒருவராக ஆ`
+- scans 126–130 — `pages/0126-sirai.md` through `pages/0130-sirai.md` — **5/5 verified**
+- scan 198 — `pages/0198-sirai.md` — **needs-review / unchanged** — dark-blue physical-copy mark still hides the cluster in `முதற் பரிசை அ[…]ந்தார்`
+- scan 211 — `pages/0211-sirai.md` — **needs-review / unchanged** — dark/blue physical-copy mark still hides the leading cluster before `தாசிரியர் ஆத்ரேயா`
+- scan 217 — `pages/0217-sirai.md` — **verified**
+
+Batch 056 result:
+
+- records re-examined — **11/11**
+- newly verified — **8**
+- needs-review remaining — **3**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- scan 3 now preserves source-visible `முதற் பதிப்பு—1953`, `உரிமையுடையது.`, and `கலைமகள் பிரஸ், 405, பெரியகடைவீதி, திருச்சி.`.
+- scan 4 publisher note is fully transcribed and verified directly from source pixels.
+- scans 126–130 now have complete source-pixel transcriptions, punctuation / paragraphing review, physical-copy-mark separation, and mandatory 13-family historical-glyph audits.
+- scan 129 historical `றா` identity resolves the apparent old-form sequence as `மூன்றாவது பிள்ளை நான்.`; because the prior record was a placeholder, this does not add a correction event.
+- scan 130 preserves source-visible `போலவே யிருந்தது` rather than normalizing it.
+- scan 217 directly resolves the former held wording as `மணிமேடாகி விட்டது!`.
+- scans 18, 198, and 211 remain open only because controlling source pixels are physically covered; no hidden print was reconstructed.
+
 ## Durable P2 totals
 
 - canonical page records — **224/224**
-- verified — **213**
-- needs-review — **11**
+- verified — **221**
+- needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- open transcription / printed-text holds — **11**:
-  - scan 3 — small imprint/printer text;
-  - scan 4 — exact publisher-note transcription;
-  - scan 18 — one physically obscured cluster after `ஒருவராக ஆ`;
-  - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
+- open transcription / printed-text holds — **3**:
+  - scan 18 — one white physical obstruction hides the cluster after `ஒருவராக ஆ` and before `விடக்கூடிய`; no hidden character was guessed.
   - scan 198 — one dark-blue physical-copy mark obscures the cluster after `அ` and before `ந்தார்` in `முதற் பரிசை அ[…]ந்தார்`; the hidden character(s) are not guessed.
-  - scan 211 — one physical-copy mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was guessed.
-  - scan 217 — one source-visible word immediately after `மணிமேடாக` and before `!` remains unresolved after enlarged source inspection; no contextual reading was inserted.
+  - scan 211 — one physical-copy dark/blue mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was guessed.
 
 ## Exact next activity
 
-**P2 remaining-holds correction pass — not started in Batch 055.**
+**P2 final physical-obstruction disposition — scans 18, 198, and 211.**
 
-Physical-source canonical-record coverage remains **224/224**, but P2 remains open because **11 needs-review records** remain.
+Physical-source canonical-record coverage remains **224/224**, but P2 remains open because **3 needs-review records** remain.
 
-Next work is restricted to scans **3, 4, 18, 126–130, 198, 211, and 217**. Re-fetch live records and any durable user-confirmed corrections before editing. Use only source pixels explicitly authorised for each scan, preserve physical obstructions as `[…]` when the hidden print cannot be recovered, and never fill uncertainty from context.
+Re-open only scans **18, 198, and 211** at the highest available source resolution. If the controlling copy still physically hides the print, preserve the existing `[…]` lacuna and do not infer letters from grammar, names, context, OCR, web copies, or alternate editions. P2 cannot be declared fully verified unless those hidden clusters receive source-supported/user-confirmed disposition.
 
-Do not start P3, article assembly, P4/P5, or English while P2 needs-review records remain.
+Do not start P3, article assembly, P4/P5, or English while P2 remains open.
 
 ---
 

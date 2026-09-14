@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 213 verified / 11 needs-review** |
+| P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 221 verified / 3 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1313,22 +1313,44 @@ Batch 055 result:
 - scan 200 ends at the physical fragment `ஆகி`; scan 201 source pixels were not opened in this batch.
 - unrelated legacy holds were intentionally left for the correction pass.
 
-## P2 cumulative totals through Batch 055
+### Batch 056 — P2 remaining-holds correction pass
+
+Direct controlling-source re-read of all 11 records carried forward from Batch 055:
+
+| Scan(s) | Result | Evidence / disposition |
+|---:|---|---|
+| 3 | **verified** | complete imprint recovered; `முதற் பதிப்பு—1953`, `உரிமையுடையது.`, price and printer line source-confirmed |
+| 4 | **verified** | complete publisher note source-confirmed |
+| 18 | **needs-review** | white physical obstruction still covers the cluster after `ஒருவராக ஆ`; no guess |
+| 126–130 | **5/5 verified** | complete direct-source transcription and 13-family historical-glyph audit |
+| 198 | **needs-review** | dark-blue mark still covers the cluster in `முதற் பரிசை அ[…]ந்தார்`; no guess |
+| 211 | **needs-review** | dark/blue mark still covers the leading cluster before `தாசிரியர் ஆத்ரேயா`; no guess |
+| 217 | **verified** | enlarged source directly resolves `மணிமேடாகி விட்டது!` |
+
+Batch 056 result:
+
+- records re-examined — **11/11**
+- newly verified — **8**
+- needs-review remaining — **3**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- scan 3's prior `முதல்` → `முதற்` change is an ordinary source-fidelity transcription repair, not a historical-vowel-glyph correction event.
+- scan 129 old `றா` identity gives first canonical `மூன்றாவது`; the prior record contained no competing canonical transcription, so the event counter does not change.
+- no hidden print on scans 18, 198, or 211 was reconstructed.
+
+## P2 cumulative totals through Batch 056
 
 - canonical page records — **224/224**
-- verified — **213**
-- needs-review — **11**
+- verified — **221**
+- needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- unresolved transcription / printed-text holds — **11**:
-  - scan 3 — small imprint/printer text;
-  - scan 4 — exact publisher-note transcription;
-  - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
-  - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
+- unresolved transcription / printed-text holds — **3**:
+  - scan 18 — white physical obstruction hides the cluster after `ஒருவராக ஆ` and before `விடக்கூடிய`; no hidden character was guessed.
   - scan 198 — dark-blue physical-copy mark obscures the cluster after `அ` and before `ந்தார்` in `முதற் பரிசை அ[…]ந்தார்`; no hidden character was guessed.
-  - scan 211 — one physical-copy dark/blue mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was guessed.
-  - scan 217 — one source-visible word immediately after `மணிமேடாக` and before `!` remains unresolved after enlarged source inspection; no contextual reading was inserted.
+  - scan 211 — dark/blue physical-copy mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was guessed.
 
 ## Durable physical anomaly
 
@@ -1344,8 +1366,8 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 remaining-holds correction pass — scans 3, 4, 18, 126–130, 198, 211, and 217.**
+**P2 final physical-obstruction disposition — scans 18, 198, and 211.**
 
-Batch 055 stops before this pass. Re-fetch the live records and durable user-confirmed corrections before editing. Use only source pixels explicitly authorised for each scan, preserve physically hidden print as `[…]`, and do not use OCR, web copies, alternate editions, or contextual reconstruction.
+Re-open only these three records at the highest available controlling-source resolution. If the source copy still physically covers the print, preserve the existing `[…]` lacuna. Do not infer hidden letters from grammar, names, context, OCR, web copies, Wikisource, TVA web text, or alternate editions.
 
-P3 remains blocked until P2 is closed.
+P3 remains blocked until P2 receives a source-supported/user-confirmed disposition for all three physical obstructions.

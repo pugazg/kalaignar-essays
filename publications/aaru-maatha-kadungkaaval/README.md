@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 213 verified / 11 needs-review**
+- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 221 verified / 3 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -123,7 +123,7 @@ Notable durable findings:
 
 - scans 121–125 — **5/5 verified**, printed folios **118–122**, no new holds; scan 123→124 directly continues `எப்படியென்கிறீர்களா -` → `பெய்த மழை...`; scan 124 historical `லை` identity was confirmed in `தலைமுழுகி`; scan 125 same-edition comparison confirmed historical `லை` in `ஆலை` / `மலைக்கோட்டையின்`. Source-visible unusual forms including `முறைதானிது`, `மூணுமாதம்`, `என் அப்படி?`, `ஒலித்த குற்றத்திற்கு`, `பிடியுங்கள் சாபம்!`, `தார்ரோடுதான்`, `பீர்க்காக்கள்`, `குடேறியிருந்த`, and `ஆலை தெளிந்த உள்ளம்` were preserved. Historical-glyph correction count remains **9**.
 
-- scans 126–130 — **0 verified / 5 needs-review**, printed folios **123–127**. All five scans were opened directly from the attached PDF, but exact full-body source transcription and the mandatory historical-glyph gate could not be completed at archival fidelity through the available high-resolution inspection route. No OCR/context/alternate-source text was promoted; guessed readings remain **0**. Historical-glyph correction count remains **9**.
+- scans 126–130 — **5/5 verified**, printed folios **123–127**. Batch 056 completed exact full-body direct-source transcription, punctuation / paragraphing review, physical-copy-mark separation, and the mandatory historical-glyph gate. Scan 129 historical `றா` identity directly resolves `மூன்றாவது`; scan 130 preserves `போலவே யிருந்தது`. Guessed readings remain **0**; historical-glyph correction-event count remains **11**.
 
 - scans 131–135 — **5/5 verified**, printed folios **128–132**, no new holds; scan 131 `அணு` → scan 132 `வும் நழுவாதவர்.` continuation directly confirmed. Source-visible `‘சிங்கங்’ களில்`, `உடல் வளர்த்திற்கேற்ற`, the scan 133 prison-song block, `நாறுகி- ஐம்பதாகி - ஐந்தாக`, `C. P. பிளாக்`, `“ஜல ஸ்தாபன மந்திரி”`, and `உள்நாட்டிலாகா` were preserved. Historical-glyph correction count remains **9**.
 
@@ -155,19 +155,15 @@ Notable durable findings:
 
 Open holds:
 
-- scan 3 — small imprint/printer text;
-- scan 4 — full publisher-note transcription;
-- scan 18 — one physically obscured cluster after `ஒருவராக ஆ`;
-- scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
+- scan 18 — one white physical obstruction hides the cluster after `ஒருவராக ஆ` and before `விடக்கூடிய`; no hidden print was inferred;
 - scan 198 — one dark-blue physical-copy mark obscures the cluster after `அ` and before `ந்தார்` in `முதற் பரிசை அ[…]ந்தார்`; no hidden print was inferred;
-- scan 211 — one physical-copy mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`;
-- scan 217 — one source-visible word immediately after `மணிமேடாக` and before `!` remains unresolved.
+- scan 211 — one dark/blue physical-copy mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden print was inferred.
 
 Current P2 totals:
 
 - records — **224/224**
-- verified — **213**
-- needs-review — **11**
+- verified — **221**
+- needs-review — **3**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
@@ -395,10 +391,24 @@ Current P2 totals:
 - scan 200 preserves `நூறு ‘பஸ்கி’ போட முனைந்தார்` and terminal fragment `ஆகி`.
 - legacy holds at scans 3, 4, 18, 126–130, 211, and 217 remain unchanged.
 
+## Batch 056 — remaining-holds correction pass
+
+- carried-forward records re-examined — **11/11**
+- newly verified — **8**
+- needs-review remaining — **3**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- scans 3 and 4 front matter are fully source-confirmed; scan 3 repairs provisional `முதல் பதிப்பு—1953` to source-visible `முதற் பதிப்பு—1953`.
+- scans 126–130 are now **5/5 verified** after complete enlarged source-pixel transcription and mandatory historical-glyph audit.
+- scan 129 preserves `மூன்றாவது பிள்ளை நான்.` by historical `றா` identity and source-visible `குணமானுவாகி`.
+- scan 130 preserves `C. P.`, `CLOSE PRISON`, `முன்னூறுக்கு`, and `போலவே யிருந்தது`.
+- scan 217 is now verified with directly resolved `மணிமேடாகி விட்டது!`.
+- scans 18, 198, and 211 remain **needs-review** solely because physical-copy obstructions cover print; no contextual completion was inserted.
+
 ## Exact next activity
 
-**P2 remaining-holds correction pass.**
+**P2 final physical-obstruction disposition — scans 18, 198, and 211.**
 
-Remaining needs-review records: **3, 4, 18, 126–130, 198, 211, 217**. Batch 055 stops before that correction pass. Re-fetch live records and durable user-confirmed readings first; use only explicitly authorised source pixels and do not reconstruct hidden print from context.
+Re-open only those three records at the highest available source resolution. Preserve `[…]` wherever controlling source pixels remain physically hidden. Do not infer the missing letters from grammar, names, context, OCR, web copies, or alternate editions.
 
-Do not start P3 while P2 needs-review records remain.
+P3 remains blocked while any P2 hold remains.

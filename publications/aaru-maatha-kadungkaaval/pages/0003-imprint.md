@@ -6,37 +6,41 @@ publication: "aaru-maatha-kadungkaaval"
 article: null
 section: "imprint"
 page_type: "imprint"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual comparison with source scan"
+transcription_method: "direct visual comparison with controlling attached source scan"
 ---
 
 # அச்சு உரை
 
-முதல் பதிப்பு—1953
+முதற் பதிப்பு—1953
+
+உரிமையுடையது.
 
 விலை ரூ. 2-0-0
 
-## needs-review
-
-- மேலுள்ள பதிப்பு/விலை வரிகள் நேரடியாக உறுதிசெய்யப்பட்டவை.
-- இப்பக்கத்தில் உள்ள சிறிய imprint / printer-detail உரையின் முழு எழுத்துருவாரி வாசிப்பு தற்போதைய render-ல் போதுமான அளவு உறுதியானதல்ல.
-- தெளிவில்லாத சிறு உரையை context அல்லது bibliographic expectation மூலம் நிரப்பவில்லை.
+கலைமகள் பிரஸ், 405, பெரியகடைவீதி, திருச்சி.
 
 ## அச்சு அமைப்பு
 
-- edition/imprint page.
-- அச்சுப் பக்க எண் தெளிவாக உறுதிசெய்யப்படாததால் `printed_page: null`.
+- edition / imprint page; no printed folio is present.
+- the former provisional `முதல் பதிப்பு—1953` was repaired to the directly source-visible `முதற் பதிப்பு—1953`.
+- the small middle line `உரிமையுடையது.` and bottom printer line `கலைமகள் பிரஸ், 405, பெரியகடைவீதி, திருச்சி.` were recovered directly from enlarged source pixels.
+- source punctuation and the price form `ரூ. 2-0-0` were preserved.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- source-visible noise / aging marks publication text ஆக எடுத்துக்கொள்ளப்படவில்லை.
+- paper toning, age specks, dark spots and surface damage are not publication text.
+- no physical mark prevents recovery of the printed wording on this page.
 
 ## Historical glyph audit
 
-- உறுதிசெய்யப்பட்ட `முதல் பதிப்பு—1953` மற்றும் `விலை ரூ. 2-0-0` வரிகளில் unresolved historical-glyph ambiguity இல்லை.
-- மீதமுள்ள small-print text verified ஆகும்வரை page status `needs-review`.
+- complete printed matter inspected directly at enlarged/high resolution.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- unresolved historical-glyph ambiguity — **0**.
+- the `முதல்` → `முதற்` repair is an ordinary source-fidelity transcription repair, not a historical-vowel-glyph correction event.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — confirmed text preserved; unresolved small imprint text remains open.
+**verified** — all printed matter on scan 3 is now directly source-confirmed.

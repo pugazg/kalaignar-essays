@@ -6,37 +6,57 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual inspection; exact transcription held pending high-resolution source re-read"
+transcription_method: "direct visual comparison with controlling attached source scan"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தில் தொடர்ச்சியான அச்சு உரை உள்ளது. முழு எழுத்துருவாரி transcription தற்போதைய source-pixel inspection route-ல் archival fidelity-யுடன் உறுதிசெய்யப்படாததால் இங்கே ஊகித்து நிரப்பப்படவில்லை.]_
+சிறிய வாயிலெங்களை அழைத்தது. வெளியுலகத்தை இனி ஆறுமாதத்திற்குப் பிறகுதான் பார்க்கமுடியும் என்பதால் ஆசை தீர ஒருமுறை பார்த்தோம். பிறகு அடியெடுத்து வைத்தோம், உள்ளே! எங்களை உள்ளே தள்ளியதும் சிறையின் அந்த சிறிய உதடுகள் மூடிக்கொண்டன.
 
-## Source hold
+“மாங்குயில் கூவிடும் பூஞ்சோலை - எமை
+மாட்ட நினைக்கும் சிறைச்சாலை”
 
-- physical scan **128** was opened directly from the controlling attached PDF.
+பாரதி தாசனின் “அந்த இலட்சிய வரிகள் இதயத்தில் புதிய இன்பம் இசைத்தன.
+
+ஆறு மாதம் என்று கேள்விப்பட்டதும் அதிர்ச்சியடைந்தோம் என்றார் தோழர் வாணன். அவரும் நண்பர் செழியனும் எம்மைப் பார்க்க வந்திருந்தபோதுதான் அப்படிச் சொன்னார்கள்.
+
+எத்தனையோ அதிர்ச்சிதரும் செய்திகள் சந்தித்திருக்கிறது திராவிடர் இயக்கம்.
+
+வேலாயுதத்தை பட்டப்பகலில் கொலை செய்தார்கள்.
+
+தாளமுத்து நடராசனை சிறையில் பிணமாக்கினார்கள்.
+
+நெல்லிக்குப்பத்தில் இளைஞன் மஜீதை குத்திக் கொன்றார்கள்.
+
+வடசென்னை பாண்டியனின் உயிரைக் குடித்தார்கள்.
+
+இவ்வளவும் காந்தியத்தின் பெயரால் நடைபெற்ற கொலை விழாக்கள்.
+
+## அச்சு அமைப்பு
+
 - visible printed folio — **125**.
-- P1 classification — **main text / `sirai`**.
-- source image itself is present; this is **not** a physical-loss or missing-page hold.
-- exact wording, punctuation, paragraph boundaries, meaningful spacing, and historical glyph identities remain to be re-read from a stable high-resolution source-pixel view.
-- OCR output, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into the canonical transcription.
-- no cross-page wording has been asserted without a fully verified direct source reading.
-
+- running header — `ஆறுமாதக் கடுங்காவல்`.
+- source-visible joined form `வாயிலெங்களை` was preserved.
+- the printed opening quotation mark before `அந்த இலட்சிய வரிகள்` has no source-visible closing mark on this page and was **not** editorially repaired.
+- source-visible forms including `பாரதி தாசனின்`, `அதிர்ச்சிதரும்`, `சந்தித்திருக்கிறது`, `வேலாயுதத்தை பட்டப்பகலில்`, and `மஜீதை` were preserved without normalization.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- full physical-copy-mark audit remains part of the focused re-read.
+- narrow dark/blue physical-copy traces crossing the upper text area are not publication ink; the underlying character identities remain directly readable.
+- paper toning / age specks are not publication text.
+- no body wording remains physically obscured.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page until full high-resolution transcription is verified.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete page inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- visible reform-sensitive clusters were decoded by character identity before Unicode transcription.
+- unresolved historical-glyph ambiguity — **0**.
+- because the prior record was only a placeholder, these are first canonical readings and do **not** add correction events.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact body transcription is deliberately held rather than guessed.
+**verified** — scan 128 placeholder was replaced only after full direct source-pixel transcription and audit.
