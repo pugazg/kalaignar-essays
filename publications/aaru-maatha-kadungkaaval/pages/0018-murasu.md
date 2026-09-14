@@ -37,6 +37,12 @@ transcription_method: "direct visual comparison with source scan"
 - the obscured cluster is not classified as a historical-glyph reading because its controlling pixels are physically hidden.
 - global replacement / lexical modernization செய்யப்படவில்லை.
 
+## Batch 057 high-resolution obstruction reinspection
+
+- the controlling embedded scan image was re-opened at native source resolution and enlarged again.
+- the white fiber/paper-like obstruction remains optically opaque across the missing cluster after `ஒருவராக ஆ`; the covered print cannot be recovered from this copy.
+- no contextual completion was inserted; the `[…]` lacuna remains authoritative.
+
 ## P2 நிலை
 
 **needs-review** — page transcription is complete except for one physically obscured cluster in the first paragraph; no guess was inserted.

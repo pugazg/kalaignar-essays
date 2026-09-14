@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 056 / P2 remaining-holds correction pass** reached the durable state **224/224 canonical records; 221 verified / 3 needs-review**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 057 / P2 final-obstruction reinspection** reached the durable state **224/224 canonical records; 222 verified / 2 needs-review**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 221 verified / 3 needs-review**
+- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1430,26 +1430,43 @@ Batch 056 result:
 - scan 217 directly resolves the former held wording as `மணிமேடாகி விட்டது!`.
 - scans 18, 198, and 211 remain open only because controlling source pixels are physically covered; no hidden print was reconstructed.
 
+### Batch 057 — P2 final-obstruction reinspection
+
+Re-opened the three physical-obstruction holds from Batch 056 at the highest available controlling-source resolution.
+
+- scan 18 — **needs-review / unchanged** — white opaque fiber still hides the cluster after `ஒருவராக ஆ`; source pixels cannot recover the covered print.
+- scan 198 — **needs-review / unchanged** — native embedded image plus RGB / blue-mark separation still does not securely expose every character hidden by the dark-blue mark in `அ[…]ந்தார்`; same-page `கடைசியாக` was used only as a glyph comparator, not as contextual completion.
+- scan 211 — **verified** — the blue-overmarked leading glyph before `தாசிரியர் ஆத்ரேயா` retains sufficient black contour; same-page comparison with bare `க` in `கலை` and base `க` forms in `கிருஷ்ணன்` directly identifies it as `க`, yielding `கதாசிரியர் ஆத்ரேயா`.
+
+Batch 057 result:
+
+- records re-examined — **3/3**
+- newly verified — **1**
+- needs-review remaining — **2**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- no OCR, web copy, alternate edition, name lookup, or grammar-based completion was used.
+
 ## Durable P2 totals
 
 - canonical page records — **224/224**
-- verified — **221**
-- needs-review — **3**
+- verified — **222**
+- needs-review — **2**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- open transcription / printed-text holds — **3**:
-  - scan 18 — one white physical obstruction hides the cluster after `ஒருவராக ஆ` and before `விடக்கூடிய`; no hidden character was guessed.
-  - scan 198 — one dark-blue physical-copy mark obscures the cluster after `அ` and before `ந்தார்` in `முதற் பரிசை அ[…]ந்தார்`; the hidden character(s) are not guessed.
-  - scan 211 — one physical-copy dark/blue mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was guessed.
+- open transcription / printed-text holds — **2**:
+  - scan 18 — one white physical obstruction hides the cluster after `ஒருவராக ஆ` and before `விடக்கூடிய`; native-source reinspection confirms the covered print is unrecoverable from this copy.
+  - scan 198 — one dark-blue physical-copy mark obscures characters in `முதற் பரிசை அ[…]ந்தார்`; native-image / channel reinspection remains insufficient for a secure direct reading.
 
 ## Exact next activity
 
-**P2 final physical-obstruction disposition — scans 18, 198, and 211.**
+**P2 final source-obscuration disposition — scans 18 and 198.**
 
-Physical-source canonical-record coverage remains **224/224**, but P2 remains open because **3 needs-review records** remain.
+Both remaining records have now exhausted the available source-only pixel review. Scan 18 is physically covered by an opaque white obstruction; scan 198 remains partly hidden by a dark-blue physical-copy mark even after native-image / channel inspection.
 
-Re-open only scans **18, 198, and 211** at the highest available source resolution. If the controlling copy still physically hides the print, preserve the existing `[…]` lacuna and do not infer letters from grammar, names, context, OCR, web copies, or alternate editions. P2 cannot be declared fully verified unless those hidden clusters receive source-supported/user-confirmed disposition.
+Do not guess the missing print. The next durable closure requires either a user-confirmed exact reading for the lacunae or an explicit user-approved archival disposition that accepts the source-obscured `[…]` readings as terminal exceptions.
 
 Do not start P3, article assembly, P4/P5, or English while P2 remains open.
 

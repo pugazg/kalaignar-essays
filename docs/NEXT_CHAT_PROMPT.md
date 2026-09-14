@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 final physical-obstruction disposition
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 final source-obscuration disposition
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
 
@@ -6,28 +6,26 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is authoritative.
 
-Durable state after Batch 056: **P2 = 224/224 canonical records; 221 verified / 3 needs-review; 0 blocked; 0 guessed readings; 11 historical-glyph correction events**.
+Durable state after Batch 057: **P2 = 224/224 canonical records; 222 verified / 2 needs-review; 0 blocked; 0 guessed readings; 11 historical-glyph correction events**.
 
-## Batch 056 durable state
+## Batch 057 durable state
 
-- scans **3, 4, 126–130, and 217** are now **verified**
-- scan 3 preserves source-visible `முதற் பதிப்பு—1953`, `உரிமையுடையது.`, and the complete printer line
-- scan 4 publisher note is fully transcribed
-- scans 126–130 have complete direct-source transcriptions and mandatory 13-family historical-glyph audits
-- scan 129 historical `றா` identity gives source-supported `மூன்றாவது பிள்ளை நான்.`
-- scan 130 preserves source-visible `போலவே யிருந்தது`
-- scan 217 directly resolves `மணிமேடாகி விட்டது!`
-- only scans **18, 198, and 211** remain `needs-review`
+- scan **211** is now **verified**
+- the blue-overmarked glyph before `தாசிரியர் ஆத்ரேயா` was identified directly as `க` by surviving black contour and same-page comparison with `க` in `கலை` / `கிருஷ்ணன்`
+- canonical reading: **`கதாசிரியர் ஆத்ரேயா`**
+- scan **18** remains source-obscured by an opaque white physical obstruction
+- scan **198** remains source-obscured after native embedded-image / RGB-channel reinspection; no contextually plausible completion was promoted
 - no P3 / article assembly / P4 / P5 / English work has started
 
 ## Exact next activity
 
-Process only the final three P2 physical-obstruction holds:
+Only scans **18** and **198** remain.
 
-1. scan **18** — white physical obstruction after `ஒருவராக ஆ` and before `விடக்கூடிய`
-2. scan **198** — dark-blue mark in `முதற் பரிசை அ[…]ந்தார்`
-3. scan **211** — dark/blue mark before `தாசிரியர் ஆத்ரேயா`
+Do not re-run the same source-only inspection unless genuinely new source evidence appears; that route is exhausted. Preserve the existing `[…]` lacunae.
 
-Re-fetch live records and re-open the controlling source pixels at the highest available resolution. If the print remains physically hidden, preserve `[…]` and do **not** reconstruct it from grammar, names, context, OCR, web copies, Wikisource, TVA web text, or alternate editions.
+P2 can move to closure only with either:
 
-Synchronize controls only for source-supported/user-confirmed disposition. Do not start P3, article assembly, P4/P5, or English while any P2 hold remains.
+- exact user-confirmed readings for the hidden print; or
+- explicit user approval to treat these two source-obscured lacunae as terminal archival exceptions.
+
+Do not start P3, article assembly, P4/P5, or English before that disposition.

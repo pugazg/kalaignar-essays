@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 221 verified / 3 needs-review** |
+| P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1339,18 +1339,35 @@ Batch 056 result:
 - scan 129 old `றா` identity gives first canonical `மூன்றாவது`; the prior record contained no competing canonical transcription, so the event counter does not change.
 - no hidden print on scans 18, 198, or 211 was reconstructed.
 
-## P2 cumulative totals through Batch 056
+### Batch 057 — P2 final-obstruction reinspection
+
+| Scan | Result | High-resolution source finding |
+|---:|---|---|
+| 18 | **needs-review** | opaque white physical obstruction still covers the missing cluster; native-source enlargement cannot recover it |
+| 198 | **needs-review** | dark-blue mark remains insufficiently separable for a secure complete reading; same-page glyph comparison does not justify promoting a completion |
+| 211 | **verified** | surviving black contour plus same-page `க` comparison directly identifies the overmarked glyph as `க`; canonical text now reads `கதாசிரியர் ஆத்ரேயா` |
+
+Batch 057 result:
+
+- records re-examined — **3/3**
+- newly verified — **1**
+- needs-review remaining — **2**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- no OCR, external-name lookup, web source, alternate edition, or contextual completion was used.
+
+## P2 cumulative totals through Batch 057
 
 - canonical page records — **224/224**
-- verified — **221**
-- needs-review — **3**
+- verified — **222**
+- needs-review — **2**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- unresolved transcription / printed-text holds — **3**:
-  - scan 18 — white physical obstruction hides the cluster after `ஒருவராக ஆ` and before `விடக்கூடிய`; no hidden character was guessed.
-  - scan 198 — dark-blue physical-copy mark obscures the cluster after `அ` and before `ந்தார்` in `முதற் பரிசை அ[…]ந்தார்`; no hidden character was guessed.
-  - scan 211 — dark/blue physical-copy mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was guessed.
+- unresolved transcription / printed-text holds — **2**:
+  - scan 18 — opaque white physical obstruction hides the cluster after `ஒருவராக ஆ`; source-only pixels cannot recover the covered print.
+  - scan 198 — dark-blue physical-copy mark still prevents a secure complete direct reading in `முதற் பரிசை அ[…]ந்தார்` after native-image / channel reinspection.
 
 ## Durable physical anomaly
 
@@ -1366,8 +1383,8 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 final physical-obstruction disposition — scans 18, 198, and 211.**
+**P2 final source-obscuration disposition — scans 18 and 198.**
 
-Re-open only these three records at the highest available controlling-source resolution. If the source copy still physically covers the print, preserve the existing `[…]` lacuna. Do not infer hidden letters from grammar, names, context, OCR, web copies, Wikisource, TVA web text, or alternate editions.
+Source-only pixel review is exhausted. Preserve the existing `[…]` lacunae unless the user supplies/confirms the exact readings. Alternatively, P2 may close only if the user explicitly approves these two source-obscured lacunae as terminal archival exceptions.
 
-P3 remains blocked until P2 receives a source-supported/user-confirmed disposition for all three physical obstructions.
+P3 remains blocked until that disposition is explicit.

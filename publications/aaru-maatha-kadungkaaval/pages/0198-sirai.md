@@ -54,6 +54,13 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity among visible glyphs — **0**.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## Batch 057 high-resolution obstruction reinspection
+
+- the embedded source image was re-opened at native source resolution and inspected through RGB-channel / blue-mark separation without OCR.
+- the same page's `கடைசியாக` was used only as a source-glyph comparator; the dark-blue mark still prevents a secure direct identification of every hidden character in `அ[…]ந்தார்`.
+- the page therefore remains unresolved rather than promoting the contextually plausible completion.
+- no external text, grammar-based completion, or alternate edition was used.
+
 ## P2 நிலை
 
 **needs-review** — scan 198 is complete except for one physically obscured printed cluster in `முதற் பரிசை அ[…]ந்தார்`; no guess was inserted.
