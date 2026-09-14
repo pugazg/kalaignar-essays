@@ -6,39 +6,51 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual inspection from user-supplied scans-150–224 source extract; exact transcription held pending archival-fidelity re-read"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தின் முழு அச்சு உரை source image-ல் நேரடியாகப் பார்க்கப்பட்டது. ஆனால் ஒவ்வொரு எழுத்து, punctuation, paragraph boundary மற்றும் historical-glyph identity அனைத்தையும் archival fidelity-யுடன் உறுதிசெய்யாமல் ஊகித்து நிரப்பப்படவில்லை.]_
+என்று பேரொலி எழுப்பினோம்.
 
-## Source hold
+“கிளம்பிற்றுக் காண் தமிழ்ச் சிங்கக் கூட்டம் -
+கிழித்தெறியத் தேடுது காண் பகைக் கூட்டத்தை”
+என்று குரலெடுத்தோம். அன்றைய மன்றம் முடிந்தது.
 
-- physical scan **194** was opened directly from the user-supplied 75-page extract covering original physical scans **150–224**.
-- extract page — **45**.
+## அதிசயம்!
+
+சிறைச் சாலையில் ஒரு நாள் பேச்சு மன்றம் நடைபெற்றுக் கொண்டிருக்கிறது. மன்றத்து மத்தியிலே நான் அமர்ந்திருக்கிறேன். வெள்ளுடை அணிந்த ஒரு நர்ஸ் அங்கு வந்தாள். தான் கல்லக்குடிக்குப் பக்கமுள்ள ஆஸ்பத்திரியில் வேலை பார்த்ததாகவும் போராட்டத்தில் காயம்பட்டவர்களுக்கெல்லாம் தானே சிகிச்சை செய்ததாகவும் கூறினாள். அவள் பேச்சிலிருந்து நமது இயக்க அனுதாபமுடையவள் என்று புரிந்தது. நல்ல சிவப்பு. குறுகுறுப்பான பார்வை. கவரும் சக்தி படைத்தவள். ‘கருணாநிதி எங்கே’ என்று என்னையே கேட்டாள். ‘நான் தான்’ என்றேன். “ஓகோ அரும்பு மீசை வைத்ததும் அடையாளமே புரியவில்லை” என்றாள். போய்விடுவாளாக்கும் என்று எதிர்பார்த்தேன். போகவில்லை. நின்றுகொண்டேயிருந்தாள்.
+
+சற்று நேரத்திற்கெல்லாம் ஒரு கிழவரும் வந்தார். அவர் அவர்களுடைய தந்தையாம். “அப்பா! இவர்தான் கருணாநிதி” என்று அவருக்கு என்னை அறிமுகப்படுத்தினாள். ஏன் இருவரும் அங்கு வந்தார்கள் தெரியுமா? அந்த ‘நர்ஸ்’ என்னைக் கல்யாணம் செய்துகொள்ள வேண்டுமாம்.
+
+திடீரென்று என்னைப் பார்த்துச் சொன்னாள்; “நான் உங்களைக் காதலிக்கிறேன்” என்று! நான் திடுக்கிட்டுப்
+
+## அச்சு அமைப்பு
+
 - visible printed folio — **191**.
-- P1 classification — **main text / `sirai`**.
-- stable mapping — extract page **45** = original physical scan **194**.
-- source image is present and the page identity / folio are directly visible; this is **not** a missing-page or physical-loss hold.
-- continuous Tamil body text and running-page structure are directly visible.
-- exact body wording, punctuation, paragraphing, meaningful spacing, physical-copy marks, and historical-glyph identities remain to be completed in a focused archival-fidelity re-read.
-- OCR, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into canonical text.
-- no cross-page wording was asserted without full verification.
+- running header — `ஆறுமாதக் கடுங்காவல்`.
+- extract page **45** = physical scan **194**.
+- opening `என்று பேரொலி எழுப்பினோம்.` follows scan 193's complete quoted slogan.
+- source heading `அதிசயம்!` was preserved.
+- source-visible forms including `பேச்சு மன்றம்`, `கல்லக்குடிக்குப்`, `ஆஸ்பத்திரியில்`, `அனுதாபமுடையவள்`, `குறுகுறுப்பான`, `போய்விடுவாளாக்கும்`, `நின்றுகொண்டேயிருந்தாள்`, `நேரத்திற்கெல்லாம்`, and `கல்யாணம் செய்துகொள்ள` were preserved without normalization.
+- page ends at the physical fragment `நான் திடுக்கிட்டுப்`; scan 195 begins `போனேன்.`.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- detailed physical-copy-mark audit remains OPEN until the focused re-read.
+- paper toning / age specks are not publication text.
+- faint diagonal physical-copy marks near the left side were excluded from canonical text.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete page inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- representative sensitive forms including `கிளம்பிற்றுக்`, `கிழித்தெறியத்`, `நல்ல`, `நின்றுகொண்டேயிருந்தாள்`, and `கல்யாணம்` were checked by character identity.
+- unresolved historical-glyph ambiguity — **0**.
+- no global replacement or spelling modernization was used.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact full-page transcription is deliberately held rather than guessed.
+**verified** — scan 194 placeholder was replaced only after full direct source-pixel transcription and audit.

@@ -248,11 +248,11 @@ P1 extension result:
 | 188 | `../pages/0188-sirai.md` | verified |
 | 189 | `../pages/0189-sirai.md` | verified |
 | 190 | `../pages/0190-sirai.md` | verified |
-| 191 | `../pages/0191-sirai.md` | needs-review |
-| 192 | `../pages/0192-sirai.md` | needs-review |
-| 193 | `../pages/0193-sirai.md` | needs-review |
-| 194 | `../pages/0194-sirai.md` | needs-review |
-| 195 | `../pages/0195-sirai.md` | needs-review |
+| 191 | `../pages/0191-sirai.md` | verified |
+| 192 | `../pages/0192-sirai.md` | verified |
+| 193 | `../pages/0193-sirai.md` | verified |
+| 194 | `../pages/0194-sirai.md` | verified |
+| 195 | `../pages/0195-sirai.md` | verified |
 | 196 | `../pages/0196-sirai.md` | needs-review |
 | 197 | `../pages/0197-sirai.md` | needs-review |
 | 198 | `../pages/0198-sirai.md` | needs-review |
@@ -286,8 +286,8 @@ P1 extension result:
 Current P2 totals:
 
 - coverage — **224/224**
-- verified — **204**
-- needs-review — **20**
+- verified — **209**
+- needs-review — **15**
 - blocked — **0**
 
 Open holds:
@@ -296,7 +296,7 @@ Open holds:
 - scan 4 — full publisher-note transcription;
 - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
 - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
-- scans 191–200 — exact full-page transcription / punctuation / physical-copy-mark and historical-glyph verification pending focused archival-fidelity re-read of the supplied extract.
+- scans 196–200 — exact full-page transcription / punctuation / physical-copy-mark and historical-glyph verification pending focused archival-fidelity re-read of the supplied extract.
 - scan 211 — one physical-copy dark/blue mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was guessed.
 - scan 217 — one source-visible word immediately after `மணிமேடாக` and before `!` remains unresolved; no contextual reading was inserted.
 
@@ -312,4 +312,4 @@ Scans 16–17 remain independent physical page records.
 
 ## Exact next activity
 
-**P2 backlog-resolution scans 191–195.**
+**P2 backlog-resolution scans 196–200.**

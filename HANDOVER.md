@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 053 / P2 backlog scans 186–190** reached the durable state **224/224 canonical records; 204 verified / 20 needs-review**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 054 / P2 backlog scans 191–195** reached the durable state **224/224 canonical records; 209 verified / 15 needs-review**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 204 verified / 20 needs-review**
+- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 209 verified / 15 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1348,31 +1348,57 @@ Batch 053 result:
 - scan 191 was not opened.
 - unrelated holds at scans 3, 4, 18, 126–130, 211, and 217 remain unchanged in this transcription-first batch.
 
+### Batch 054 — backlog scans 191–195
+
+Re-read directly from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 191 — `pages/0191-sirai.md` — **verified** — printed folio 188 — extract page 42
+- scan 192 — `pages/0192-sirai.md` — **verified** — printed folio 189 — extract page 43
+- scan 193 — `pages/0193-sirai.md` — **verified** — printed folio 190 — extract page 44
+- scan 194 — `pages/0194-sirai.md` — **verified** — printed folio 191 — extract page 45
+- scan 195 — `pages/0195-sirai.md` — **verified** — printed folio 192 — extract page 46
+
+Batch 054 result:
+
+- backlog records resolved — **5/5**
+- verified — **5**
+- needs-review remaining from this batch — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- all five placeholders were replaced only after direct enlarged/high-resolution source-pixel transcription, punctuation / paragraphing review, physical-copy-mark separation, and the mandatory 13-family historical-glyph audit.
+- scan 191 begins `கிறார் என்று!`, directly completing scan 190's `பாராட்டியிருக்க`.
+- scan 192 preserves `இறந்துவிடுமோ மருத்துவர்கள் கூறுகிறார்கள்`, `அடிப்படத்திலிருந்து`, and `மழலையின் மரணப்படுகை` without editorial repair.
+- scan 193 preserves `லத்தின் மொழியின்`, `எடுத்துக்கொண்டுக் கிளம்பிய`, `ஆலவட்டம்`, and `ஆஷாட பூதிகளின்`.
+- scan 194 preserves source heading `அதிசயம்!`, `குறுகுறுப்பான`, and `போய்விடுவாளாக்கும்`.
+- scan 195 preserves `(Fancy Dress)`, `குடு குடுப்பைக்காரன்`, and ends inside the open quotation at `சொரண்டிப்`.
+- scan 196 was not opened.
+- unrelated holds at scans 3, 4, 18, 126–130, 211, and 217 remain unchanged in this transcription-first batch.
+
 ## Durable P2 totals
 
 - canonical page records — **224/224**
-- verified — **204**
-- needs-review — **20**
+- verified — **209**
+- needs-review — **15**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- open transcription / printed-text holds — **20**:
+- open transcription / printed-text holds — **15**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — one physically obscured cluster after `ஒருவராக ஆ`;
   - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
-  - scans 191–195 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 42–46;
   - scans 196–200 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 47–51.
   - scan 211 — one physical-copy mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was guessed.
   - scan 217 — one source-visible word immediately after `மணிமேடாக` and before `!` remains unresolved after enlarged source inspection; no contextual reading was inserted.
 
 ## Exact next activity
 
-**P2 backlog-resolution scans 191–195.**
+**P2 backlog-resolution scans 196–200.**
 
-Physical-source canonical-record coverage remains **224/224**, but P2 remains open because **20 needs-review records** remain.
+Physical-source canonical-record coverage remains **224/224**, but P2 remains open because **15 needs-review records** remain.
 
-Process exactly scans **191–195** from extract pages **42–46**. Apply the same direct source-pixel, punctuation, paragraphing, physical-copy-mark, and mandatory 13-family historical-glyph protocol; preserve unrelated holds; synchronize controls and commit; stop before scan 196.
+Process exactly scans **196–200** from extract pages **47–51**. Apply the same direct source-pixel, punctuation, paragraphing, physical-copy-mark, and mandatory 13-family historical-glyph protocol; preserve unrelated holds; synchronize controls and commit; stop before any correction-pass work on scans 3, 4, 18, 126–130, 211, or 217.
 
 Do not start P3, article assembly, P4/P5, or English while P2 needs-review records remain.
 
