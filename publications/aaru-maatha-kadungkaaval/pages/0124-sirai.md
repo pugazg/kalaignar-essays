@@ -23,11 +23,11 @@ transcription_method: "direct visual comparison with source scan"
 
 ஒரு தோழர் பாடினார் - அவரையறியாமலே “பீர்க்காக்கள்” உருண்டன - அவ்வளவு அசைவற்ற நிம்மதியான கார் சவாரி!
 
-எவ்வளவு தொல்லைகள் இருந்தால் என்ன; அந்த அரியலூர் காராக்கிரகத்தையும் - கக்கூசையும் - தலைமுழுகி விட்டு வந்தோமே என்ற ஆறுதல் எல்லாத் தோழர்களுக்கும் ஏற்பட்டது.
+எவ்வளவு தொல்லைகள் இருந்தால் என்ன; அந்த அரியலூர் காராக்கிரகத்தையும்- கக்கூசையும் - தலைமுழுகி விட்டு வந்தோமே என்ற ஆறுதல் எல்லாத் தோழர்களுக்கும் ஏற்பட்டது.
 
 வானம் உறுமிக்கொண்டேயிருந்தது. குடேறியிருந்த எங்கள் உடலிலே மழைத்துளி பன்னீர்போல கொட்டிக் கொண்டேயிருந்தது.
 
-மழை - திராவிடத்தின் வளப்பத்தைச் சொல்கிறது!
+மழை - திராவிடத்தின் வளப்பத்தைச் சொல்லிற்று!
 
 இடி - திராவிடரின் மனக்குமுறலுக்கு அடையாளமாயிருந்தது!
 
@@ -38,7 +38,7 @@ transcription_method: "direct visual comparison with source scan"
 - visible printed folio — **121**.
 - running header — `ஆறுமாதக் கடுங்காவல்`.
 - scan 123 terminal `எப்படியென்கிறீர்களா -` continues directly with `பெய்த மழை முழுதும்...`.
-- source-visible forms including `தார்ரோடுதான்`, the bracketed `தார்` note, `பீர்க்காக்கள்`, `காராக்கிரகத்தையும்`, `கக்கூசையும்`, `குடேறியிருந்த`, and `பன்னீர்போல` were preserved.
+- source-visible forms including `தார்ரோடுதான்`, the bracketed `தார்` note, `பீர்க்காக்கள்`, `காராக்கிரகத்தையும்- கக்கூசையும்`, `குடேறியிருந்த`, `பன்னீர்போல`, and `சொல்லிற்று` were preserved.
 - the source line-wrap `பீர்க் / காக்கள்` was joined as the continuous printed word `பீர்க்காக்கள்`.
 - historical `லை` identity in `தலைமுழுகி` was decoded by character identity rather than by modern visual resemblance.
 - page ends with complete `உணர்த்திற்று!`
@@ -54,6 +54,19 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - `தலையிலே` and `தலைமுழுகி` were checked against same-edition historical `லை` forms.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R25
+
+- every printed word, punctuation mark, quotation mark, bracket, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- direct spacing correction: `காராக்கிரகத்தையும் - கக்கூசையும்` → **`காராக்கிரகத்தையும்- கக்கூசையும்`**. The source hyphen is attached to the first word and followed by a space.
+- direct lexical correction: `மழை - திராவிடத்தின் வளப்பத்தைச் சொல்கிறது!` → **`மழை - திராவிடத்தின் வளப்பத்தைச் சொல்லிற்று!`**.
+- the bracketed `தார்` note, `பீர்க்காக்கள்`, `குடேறியிருந்த`, `பன்னீர்போல`, and the final `உணர்த்திற்று!` were otherwise reconfirmed exactly.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `தலையிலே` / `தலைமுழுகி` (`லை`) were reconfirmed and the full 13-family set was checked by character identity.
+- ordinary source-fidelity corrections on this scan — **2**.
+- new historical-family correction events — **0**; cumulative count remains **14**.
+- result — **PASS after source-fidelity corrections**.
+
 
 ## P2 நிலை
 

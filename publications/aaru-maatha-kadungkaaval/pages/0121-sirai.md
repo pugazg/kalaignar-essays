@@ -54,6 +54,18 @@ transcription_method: "direct visual comparison with source scan"
 - source-supported `கையாண்ட` and other affected forms were decoded by character identity without lexical normalization.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R25
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- the two distinct source forms `முப்பத்தி ஐந்து` and `முப்பத்திஐந்து` were reconfirmed and preserved exactly.
+- source punctuation and spacing in `எனக்கும்-`, the semicolon after `நின்றனர்`, and the dialogue sequence were retained as printed.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `தண்டனை` (`னை`) and `தவறினால்` (`றா`) were reconfirmed, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **13** at scan 121.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 121 was fully compared with source pixels.

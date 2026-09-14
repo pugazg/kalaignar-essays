@@ -17,7 +17,7 @@ transcription_method: "direct visual comparison with source scan"
 
 அதுவும் தவறு - அவர்களிலே ஆறுபேர் முதல் படைவரிசையிலே கைது செய்யப்பட்டவர்கள்.
 
-எப்படியோ; சட்டம் நெளிந்து வளைந்து - ஆறு மாதம் - மூன்று மாதம் என்று பரிசுகள் அளித்து மகிழ்ந்தது!
+எப்படியோ; சட்டம் நெளிந்து வளைந்து - ஆறு மாதம் - மூன்று மாதம் என்று பரிசுகளை அளித்து மகிழ்ந்தது!
 
 17ந் தேதி மாலை 6-30 மணி சுமாருக்கு தண்டனை பெற்றோம். தமிழர் மானத்துக்காகப் போராடியதற்கு பரிசு பெற்றோம்!
 
@@ -49,7 +49,19 @@ transcription_method: "direct visual comparison with source scan"
 - whole page inspected directly at enlarged source resolution.
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - historical forms in words including `கலைந்தபிறகு` were decoded by character identity.
-- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
+- Batch R25 restores historical `ளை` identity in `பரிசுகளை`; unresolved historical-glyph ambiguity — **0**.
+
+## P2R visual-fidelity re-audit — Batch R25
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- historical-`ளை` repair: `பரிசுகள் அளித்து` → **`பரிசுகளை அளித்து`**. Enlarged native pixels clearly show the historical `ளை` identity in the object-case ending.
+- source-visible forms including `படைவரிசை யென்ற`, `மூணுமாதம்`, `ஆறுமாதம்தான்`, `என் அப்படி?`, and `திட்டத்துடனே-என்னவோ` were otherwise reconfirmed without normalization.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `பரிசுகளை` / `வளைந்து` (`ளை`) and `கலைந்தபிறகு` (`லை`) were checked directly, along with the full 13-family set.
+- new historical-family correction events — **1**; cumulative count becomes **14**.
+- ordinary source-fidelity corrections on this scan — **0**.
+- result — **PASS after historical-glyph correction**.
+
 
 ## P2 நிலை
 

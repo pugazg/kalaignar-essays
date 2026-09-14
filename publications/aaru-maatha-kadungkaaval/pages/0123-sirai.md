@@ -46,6 +46,18 @@ transcription_method: "direct visual comparison with source scan"
 - source-supported historical forms in `மாலையில்`, `மழையைக்`, and related words were decoded without modernization.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R25
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from the attached source pixels.
+- source-visible forms including `ஆகாகா!`, `ஆறுமாதமென்ன`, `ஆறுவருடமே போட்டும்`, `வதங்கிவிட்டது`, `ஒலித்த குற்றத்திற்கு`, `பிடியுங்கள் சாபம்!`, and `அவர்கள்மட்டும்` were reconfirmed.
+- exact terminal `எப்படியென்கிறீர்களா -` was preserved; scan 124 begins `பெய்த மழை...`.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `மாலையில்` (`லை`) and same-edition `னை / ளை / றா` families were checked directly, with the full 13-family set verified by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **14**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 123 was fully compared with source pixels.

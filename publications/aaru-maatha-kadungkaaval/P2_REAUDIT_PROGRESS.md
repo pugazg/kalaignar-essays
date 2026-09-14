@@ -20,12 +20,12 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **120/224**
-- completed range — **1–120**
-- next range — **121–125**
+- re-audited — **125/224**
+- completed range — **1–125**
+- next range — **126–130**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
-- cumulative historical-glyph correction events — **13**
+- cumulative historical-glyph correction events — **14**
 
 ## Batch R01 — scans 1–5
 
@@ -564,8 +564,33 @@ Ordinary source-fidelity corrections in Batch R24 — **2**.
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
 
+## Batch R25 — scans 121–125
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 121 | body / folio 118 | PASS | dialogue / punctuation / distinct `முப்பத்தி ஐந்து` and `முப்பத்திஐந்து` forms / complete ending confirmed; no canonical correction |
+| 122 | body / folio 119 | PASS after historical correction | `பரிசுகள் அளித்து` → source-visible `பரிசுகளை அளித்து`; historical `ளை` identity restored |
+| 123 | body / folio 120 | PASS | full text / quotation / punctuation / exact terminal `எப்படியென்கிறீர்களா -` confirmed; no canonical correction |
+| 124 | body / folio 121 | PASS after corrections | `காராக்கிரகத்தையும் - கக்கூசையும்` → `காராக்கிரகத்தையும்- கக்கூசையும்`; `சொல்கிறது!` → source-visible `சொல்லிற்று!` |
+| 125 | body / folio 122 | PASS | full text / same-scan historical `லை` comparison / terminal `கோட்டைபோன்ற` confirmed; scan 126 not opened |
+
+Historical-family findings:
+
+- scan 121 — `தண்டனை` (`னை`), `தவறினால்` (`றா`);
+- scan 122 — historical `ளை` restored in `பரிசுகளை`; `வளைந்து` (`ளை`) and `கலைந்தபிறகு` (`லை`) reconfirmed;
+- scan 123 — `மாலையில்` (`லை`) and full family set checked;
+- scan 124 — `தலையிலே` / `தலைமுழுகி` (`லை`);
+- scan 125 — `ஆலை` / `மலைக்கோட்டையின்` (`லை`);
+- all 13 tracked families were explicitly checked on every scan by character identity;
+- new historical-family correction events — **1**; cumulative count becomes **14**.
+
+Ordinary source-fidelity corrections in Batch R25 — **2**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
+
 ## Exact next activity
 
-**Batch R25 — physical scans 121–125.**
+**Batch R26 — physical scans 126–130.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **125**; do not process scan 126.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **130**; do not process scan 131.

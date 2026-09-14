@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R25 scans 121–125
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R26 scans 126–130
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
 
@@ -13,26 +13,26 @@ Use only the attached full source:
 
 No OCR, web copies, Wikisource, TVA web text, alternate editions, or contextual completion.
 
-## Durable state after Batch R24
+## Durable state after Batch R25
 
 - P2 canonical coverage — **224/224**
 - P2 — **222 verified / 2 needs-review** (source-obscured holds scans 18 and 198)
-- P2R — **120/224 complete**
-- re-audited scans — **1–120**
-- historical-glyph correction-event count — **13**
+- P2R — **125/224 complete**
+- re-audited scans — **1–125**
+- historical-glyph correction-event count — **14**
 - guessed readings — **0**
 
-Batch R24:
-- scan 116 — `ஆறுவகை ருசி நிறைந்த சாப்பாடு என்றுதான்` → **`ஆறுவகை, ருசி நிறைந்த சாப்பாடு என்று தான்`**
-- scans 117–120 — PASS / no canonical correction
-- scan 117→118 and scan 119→120 continuations reconfirmed
+Batch R25:
+- scans 121, 123 and 125 — PASS / no canonical correction
+- scan 122 — historical `ளை`: `பரிசுகள் அளித்து` → **`பரிசுகளை அளித்து`**
+- scan 124 — `காராக்கிரகத்தையும் - கக்கூசையும்` → **`காராக்கிரகத்தையும்- கக்கூசையும்`**; `சொல்கிறது!` → **`சொல்லிற்று!`**
 - ordinary source-fidelity corrections — **2**
-- new historical-family correction events — **0**
-- scan 120 terminal sentence preserved; scan 121 was not opened
+- new historical-family correction events — **1**
+- scan 125 terminal `கோட்டைபோன்ற` preserved; scan 126 was not opened
 
 ## Exact next activity
 
-Process exactly physical scans **121–125**.
+Process exactly physical scans **126–130**.
 
 For every scan:
 1. compare every printed word, numeral, punctuation mark, meaningful spacing and page-boundary fragment with the canonical record;
@@ -42,4 +42,4 @@ For every scan:
 5. record PASS / correction details in the page record and `P2_REAUDIT_PROGRESS.md`;
 6. synchronize controls and commit.
 
-Stop after scan **125**. Do not process scan 126 in this iteration.
+Stop after scan **130**. Do not process scan 131 in this iteration.

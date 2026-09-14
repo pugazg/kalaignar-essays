@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P2R Batch R24 / full visual-fidelity re-audit scans 116–120**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **120/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **P2R Batch R25 / full visual-fidelity re-audit scans 121–125**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **125/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -60,7 +60,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 120/224 scans complete; next 121–125**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 125/224 scans complete; next 126–130**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1745,11 +1745,25 @@ Batch R01 scans **1–5** is complete.
 - P2R progress — **120/224**.
 
 
+### Batch R25 — scans 121–125
+
+- **5/5 re-audited**
+- scans 121, 123 and 125 — PASS / no canonical correction.
+- scan 122 — restored historical `ளை`: `பரிசுகள் அளித்து` → source-visible **`பரிசுகளை அளித்து`**.
+- scan 124 — corrected `காராக்கிரகத்தையும் - கக்கூசையும்` → **`காராக்கிரகத்தையும்- கக்கூசையும்`** and `சொல்கிறது!` → source-visible **`சொல்லிற்று!`**.
+- scan 123 → 124 physical continuation was reconfirmed; scan 125 terminal `கோட்டைபோன்ற` was preserved and scan 126 was not opened.
+- ordinary source-fidelity corrections — **2**.
+- new historical-family correction events — **1**; cumulative count is now **14**.
+- P2 totals remain **222 verified / 2 needs-review**.
+- guessed readings remain **0**.
+- P2R progress — **125/224**.
+
+
 ## Exact next activity
 
-**P2R Batch R25 — physical scans 121–125.**
+**P2R Batch R26 — physical scans 126–130.**
 
-Process exactly five physical scans with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Stop after scan 125; do not process scan 126.
+Process exactly five physical scans with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Stop after scan 130; do not process scan 131.
 
 Existing source-obscured holds remain scans 18 and 198.
 

@@ -43,6 +43,19 @@ transcription_method: "direct visual comparison with source scan"
 - historical `லை` forms in `ஆலை` and `மலைக்கோட்டையின்` were directly compared within the same scan.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R25
+
+- every printed word, punctuation mark, quotation mark, meaningful spacing, running header, visible folio and terminal physical fragment was rechecked directly from the attached source pixels.
+- source-visible forms including `வந்துசேர்ந்தோம்`, `நின்றபாடில்லை`, `இயலாதுதான்`, `ஆலை தெளிந்த உள்ளம்`, `திராவிடப்பண்ணை`, `நிறுத்தமுடியுமா`, and `நடத்திக்கொண்டிருக்கிறோம்` were reconfirmed without contextual correction.
+- historical `லை` identities in `ஆலை` and `மலைக்கோட்டையின்` were directly compared within the same scan.
+- exact terminal physical fragment `கோட்டைபோன்ற` was preserved; scan 126 was not opened or processed.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated across the full 13-family set by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **14**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 125 was fully compared with source pixels.

@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 120/224 scans complete; next 121–125** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 125/224 scans complete; next 126–130** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1729,8 +1729,23 @@ Historical-family verification added **0 new correction events**; cumulative cou
 P2R progress — **120/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **121–125**.
 
 
+### Batch R25 — scans 121–125
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 121 | PASS | complete dialogue / punctuation / distinct number-word spacing / ending confirmed |
+| 122 | PASS after historical correction | `பரிசுகள் அளித்து` → source-visible `பரிசுகளை அளித்து`; historical `ளை` restored |
+| 123 | PASS | complete text / quotation / terminal `எப்படியென்கிறீர்களா -` confirmed |
+| 124 | PASS after corrections | `காராக்கிரகத்தையும் - கக்கூசையும்` → `காராக்கிரகத்தையும்- கக்கூசையும்`; `சொல்கிறது!` → `சொல்லிற்று!` |
+| 125 | PASS | complete text / historical-`லை` comparison / terminal `கோட்டைபோன்ற` confirmed; scan 126 not opened |
+
+Historical-family verification added **1 new correction event** at scan 122 (`ளை` in `பரிசுகளை`); cumulative count is now **14**. Ordinary source-fidelity corrections — **2**.
+
+P2R progress — **125/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **126–130**.
+
+
 ## Exact next activity
 
-**P2R Batch R25 — scans 121–125.**
+**P2R Batch R26 — scans 126–130.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 125; do not process scan 126.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 130; do not process scan 131.
