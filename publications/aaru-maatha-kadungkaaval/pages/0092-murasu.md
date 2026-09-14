@@ -17,9 +17,9 @@ transcription_method: "direct visual comparison with source scan"
 
 போலீஸ் கூடத்திலே அனைவரும் அமர்ந்திருந்தோம். அந்த ஸ்டேஷன் சப் இன்ஸ்பெக்டர் எங்களைப் பாதுகாத்தபடி எங்கும் போகாமல் அங்கேயே அமர்ந்துவிட்டார்.
 
-முப்பத்தி ஒன்று - என அவர்கள் எண்ணி முடிப்பார் - பிறகு எங்களை எண்ணுவார்! - மீண்டும் சந்தேகம் வரும் - மீண்டும் - எண்ணுவார் - ஒன்-டூ-த்ரீ - சொல்லுங்கள் என்பார் - சொல்லுவோம் - முப்பத்திஆறு முடியும் - “யாராவது இரண்டு முறை சொல்லியிருந்தால் என்ன செய்வது!” என்பார்! - “சரி எல்லோரும் கைத்தூக்குங்கள்” என்று கூறி கைகளை எண்ணுவார்.
+முப்பத்தி ஒன்று - என அவர்கள் எண்ணி முடிப்பார் - பிறகு எங்களை எண்ணுவார்! - மீண்டும் சந்தேகம் வரும் - மீண்டும் - எண்ணுவார் - ஒன்-டூ-த்ரீ - சொல்லுங்கள் என்பார் - சொல்லுவோம் - முப்பத்திஆறு முடியும் - “யாராவது இரண்டு முறை சொல்லியிருந்தால் என்ன செய்வது!” என்பார்! - “சரி எல்லோரும் கைதூக்குங்கள்” என்று கூறி கைகளை எண்ணுவார்.
 
-“யாராவது இரண்டுகையும் தூக்கியிருந்தால் என்ன ஆவது?” என்பார் - மீண்டும் எண்ண ஆரம்பிப்பார் - அவரும் இப்படி எண்ணிக்கொண்டேயிருந்தார் - நாங்களும் எண்ணிக்கொண்டேயிருந்தோம்; ஆட்கள் அல்ல! ஆதிக்கக்காரர் அரசோச்சும் நாட்கள்!
+“யாராவது இரண்டு கையும் தூக்கியிருந்தால் என்ன ஆவது?” என்பார் - மீண்டும் எண்ண ஆரம்பிப்பார் - அவரும் இப்படி எண்ணிக்கொண்டேயிருந்தார் - நாங்களும் எண்ணிக்கொண்டேயிருந்தோம்; ஆட்கள் அல்ல! ஆதிக்கக்காரர் அரசோச்சும் நாட்கள்!
 
 மூன்றாவது படை, நடுப்பகலில் - தோழர் கண்ணதாசன் தலைமையில் புறப்பட்டுச் செல்லும் ஒலி கேட்டது.
 
@@ -28,7 +28,7 @@ transcription_method: "direct visual comparison with source scan"
 - visible printed folio — **89**.
 - running header — `ஆறுமாதக் கடுங்காவல்`.
 - source name list was read directly, including `தமிழ் முத்து`, `முணுசாமி`, `அனீப்`, `வளர்மதி`, and `முகமதலி`.
-- source-visible `முப்பத்திஆறு`, `ஒன்-டூ-த்ரீ`, `இரண்டுகையும்`, and `அரசோச்சும்` were preserved without normalization.
+- source-visible `முப்பத்திஆறு`, `ஒன்-டூ-த்ரீ`, `கைதூக்குங்கள்`, `இரண்டு கையும்`, and `அரசோச்சும்` were preserved without normalization.
 - page ends with complete sentence `ஒலி கேட்டது.`
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -42,6 +42,17 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - affected older-type clusters and proper names were decoded by character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R19
+
+- the full proper-name list, every numeral, quotation mark, punctuation mark, meaningful spacing and page ending were rechecked directly from the attached source pixels.
+- direct source corrections: `கைத்தூக்குங்கள்` → **`கைதூக்குங்கள்`**; `இரண்டுகையும்` → **`இரண்டு கையும்`**.
+- source-visible forms including `முப்பத்திஆறு`, `ஒன்-டூ-த்ரீ`, `அரசோச்சும்`, and the printed proper names were otherwise reconfirmed.
+- physical stains / print wear remain non-publication layer; none supplies or obscures wording used in the corrections.
+- mandatory historical-family verification was repeated; `மலைக்கோட்டை` / `கலைமணி` / `தலைமையில்` reconfirm `லை`, and `சின்னையா` reconfirms `னை`; the full 13-family set was checked by character identity.
+- both repairs are ordinary source-fidelity corrections, not tracked historical-vowel-family correction events.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity corrections**.
 
 ## P2 நிலை
 

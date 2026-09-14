@@ -44,6 +44,18 @@ transcription_method: "direct visual comparison with source scan"
 - `அரங்கண்ணலும்`, `துரைக்கண்ணன்`, and affected older-type clusters were decoded by historical character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R19
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header and complete page ending was rechecked directly from the attached source pixels.
+- scan 94 terminal `கும்பாபிஷேகம்` → scan 95 opening `செய்யும் செட்டிமார் நாட்டிலே பிறந்தவன் நான்.”` continuation was reconfirmed exactly.
+- source-visible forms including `பொள்ளாச்சிதான்`, `வியப்பாகவேயிருந்தது`, `மகாராஜாபோல்`, `அதியற்புதமான`, `கூசாமல் சந்நியாசங்கொள்`, and `ராஜபோகமானது` were preserved.
+- physical stains / print wear remain non-publication layer; none obscures printed wording.
+- mandatory historical-family verification was repeated; `நிலையாமையையும்`, `மாப்பிள்ளைமார்களுக்கு`, `மாலையில்`, and `தலைமையில்` reconfirm the `லை / ளை` families; the full 13-family set was checked by character identity.
+- canonical correction — **none**.
+- scan 96 was not opened or processed in this iteration.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 95 was fully compared with source pixels.

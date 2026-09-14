@@ -40,6 +40,16 @@ transcription_method: "direct visual comparison with source scan"
 - affected older-type clusters were decoded by character identity rather than modern visual resemblance.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R19
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header and complete page ending was rechecked directly from the attached source pixels.
+- source-visible unusual forms including `வாணிக்கக்`, `என்னற்கோ`, and `31 பேர்களும்` were reconfirmed without normalization.
+- physical stains / age marks remain non-publication layer; none obscures body wording.
+- mandatory historical-family verification was repeated; `இளைப்பாறிக்கொள்ளும்` reconfirms `ளை / றா`, and `பதினைந்து` reconfirms `னை`; the full 13-family set was checked by character identity.
+- canonical correction — **none**.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 91 was fully compared with source pixels.

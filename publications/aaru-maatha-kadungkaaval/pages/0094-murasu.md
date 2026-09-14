@@ -39,6 +39,17 @@ transcription_method: "direct visual comparison with source scan"
 - affected older-type clusters were decoded by character identity rather than modern visual resemblance.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R19
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing and page-boundary fragment was rechecked directly from the attached source pixels.
+- scan 93 terminal `அவர்போல் ஒரு` → scan 94 opening `அறிஞரைக் காண முடியாதென...` continuation was reconfirmed without rewriting either physical record.
+- source-visible forms including `கசக்கின்றன`, `வழிநெடுக பஸ்ஸில்`, `ராமானுசம்`, `ஆனைமலை மயில்சாமி`, `வீணை குழப்பம்`, and `அட பரமசிவம்` were reconfirmed.
+- physical stains / age marks remain non-publication layer; none obscures printed wording or the open quotation.
+- mandatory historical-family verification was repeated; `காளை` reconfirms `ளை`; `ஆனைமலை` reconfirms `னை / லை`; `காணோம்` reconfirms `ணோ`; the full 13-family set was checked by character identity.
+- canonical correction — **none**.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 94 was fully compared with source pixels.

@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 90/224 scans complete; next 91–95** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 95/224 scans complete; next 96–100** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1641,8 +1641,22 @@ Historical-family verification added **0 new correction events**; cumulative cou
 
 P2R progress — **90/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **91–95**.
 
+### Batch R19 — scans 91–95
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 91 | PASS | complete text / unusual source forms / punctuation / spacing / ending confirmed |
+| 92 | PASS after corrections | `கைத்தூக்குங்கள்` → `கைதூக்குங்கள்`; `இரண்டுகையும்` → `இரண்டு கையும்` |
+| 93 | PASS after correction | `அவரவர்க்கட்கு` → source-visible `அவரவர்கட்கு`; terminal `அவர்போல் ஒரு` confirmed |
+| 94 | PASS | scan-93 continuation / full text / punctuation / open terminal `கும்பாபிஷேகம்` confirmed |
+| 95 | PASS | scan-94 continuation / full text / punctuation / ending confirmed; scan 96 not opened |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **11**. Ordinary source-fidelity corrections — **3**.
+
+P2R progress — **95/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **96–100**.
+
 ## Exact next activity
 
-**P2R Batch R19 — scans 91–95.**
+**P2R Batch R20 — scans 96–100.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 95.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 100.

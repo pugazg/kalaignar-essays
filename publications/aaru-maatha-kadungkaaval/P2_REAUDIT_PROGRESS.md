@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **90/224**
-- completed range — **1–90**
-- next range — **91–95**
+- re-audited — **95/224**
+- completed range — **1–95**
+- next range — **96–100**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **11**
@@ -419,8 +419,32 @@ Ordinary source-fidelity corrections in Batch R18 — **1**.
 
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
+## Batch R19 — scans 91–95
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 91 | body / folio 88 | PASS | complete text / unusual source forms / punctuation / spacing / complete ending confirmed; no canonical correction |
+| 92 | body / folio 89 | PASS after corrections | `கைத்தூக்குங்கள்` → `கைதூக்குங்கள்`; `இரண்டுகையும்` → `இரண்டு கையும்` |
+| 93 | body / folio 90 | PASS after correction | `அவரவர்க்கட்கு` → source-visible `அவரவர்கட்கு`; terminal `அவர்போல் ஒரு` confirmed |
+| 94 | body / folio 91 | PASS | scan-93 continuation, full text / quotation / punctuation / terminal open `கும்பாபிஷேகம்` confirmed; no canonical correction |
+| 95 | body / folio 92 | PASS | scan-94 continuation, full text / punctuation / complete ending confirmed; scan 96 not opened |
+
+Historical-family findings:
+
+- scan 91 — `இளைப்பாறிக்கொள்ளும்` (`ளை / றா`), `பதினைந்து` (`னை`);
+- scan 92 — `மலைக்கோட்டை` / `கலைமணி` / `தலைமையில்` (`லை`), `சின்னையா` (`னை`);
+- scan 93 — `அண்ணாவின்` (`ணா`), `ஆற்றலைப்` (`றா / லை`);
+- scan 94 — `காளை` (`ளை`), `ஆனைமலை` (`னை / லை`), `காணோம்` (`ணோ`);
+- scan 95 — `நிலையாமையையும்` / `மாலையில்` / `தலைமையில்` (`லை`), `மாப்பிள்ளைமார்களுக்கு` (`ளை`);
+- all 13 tracked families were explicitly checked on every scan by character identity;
+- new historical-family correction events — **0**; cumulative count remains **11**.
+
+Ordinary source-fidelity corrections in Batch R19 — **3**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
 ## Exact next activity
 
-**Batch R19 — physical scans 91–95.**
+**Batch R20 — physical scans 96–100.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **95**; do not process scan 96.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **100**; do not process scan 101.
