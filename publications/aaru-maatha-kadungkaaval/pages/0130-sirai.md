@@ -47,6 +47,19 @@ C. P. என்று சொல்லப்படும் CLOSE PRISONக்க
 - because the prior record was only a placeholder, these are first canonical readings and do **not** add correction events.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R26
+
+- every printed word, numeral, Latin text, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- source English `C. P.` / `CLOSE PRISON` and source-visible forms including `முன்னூறுக்கு`, `அணைய வில்லையாம்`, `ஆயிரம்பேருக்கு`, `காருண்ய காங்கிரஸ் சர்க்கார்`, `போலவே யிருந்தது`, `தலையலங்காரம்`, `வைத்திய சாலை`, `பாடபோதனை`, and `சின்னஞ்சிறிய` were reconfirmed.
+- line-wraps in the closing paragraph were treated only as typography; the lexical forms `கைதிகளுக்காக`, `கைதிகளால்`, and `பிரவேசித்திருப்பதாகவே` were directly verified.
+- paper toning / age specks remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `அணைய வில்லையாம்` (`ணை`), `தலையலங்காரம்` / `வைத்திய சாலை` (`லை`), `பாடபோதனை` (`னை`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- scan 131 was not opened or processed.
+- new historical-family correction events — **0**; cumulative count remains **14**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 130 placeholder was replaced only after full direct source-pixel transcription and audit.

@@ -47,6 +47,18 @@ transcription_method: "direct visual comparison with controlling attached source
 - because the prior record was only a placeholder, these are first canonical readings and do **not** add correction events.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R26
+
+- every printed word, numeral, heading, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- heading `கதிர் வந்தது - கதவு திறந்தது:` and source-visible forms including `அனந்தசயனத்திலிருக்கும்`, `பலமானப் பிடியிலே`, `வாழ்த்துப்பாடி`, `நாலைந்துபேர்`, `பாலைவனத்திலே பசுந்தரை`, `சூடுசூட`, and `வெந்துபோனதுகூட` were reconfirmed.
+- the repeated-dot sequence inside `“சார் ...... சார்.......... கொஞ்சம் நில்லுங்கள்”` was rechecked directly and retained as source punctuation rather than normalized to an ellipsis.
+- paper toning / age specks remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `தலைவர்` / `விடுதலைப்` / `பாலைவனத்திலே` (`லை`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **14**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 127 placeholder was replaced only after full direct source-pixel transcription and audit.

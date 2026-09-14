@@ -17,7 +17,7 @@ transcription_method: "direct visual comparison with controlling attached source
 
 அகாலமாகிவிட்டதால் - மறுநாள் காலையில்தான் எங்களை விழுங்க முடியும் என்று கூறிவிட்டது சிறை அதிகாரம்.
 
-“சரி- இதோ இந்த இடத்தில் படுங்கள்” என்று சிறைக்கு வெளியேயுள்ள ஒரு மண்டபத்தைக் காட்டினார். அதில் யோகாசனங்களும் - மாயவித்தைகளும் கற்றவர்கள் தான் படுக்கலாம். மழைத் தண்ணீர் கணுக்கால் அளவு தேங்கியிருந்தது. நீர்மேல் படுக்கும் பயிற்சி எங்களுக்கு கிடையாது. ஆகையால் தயங்கி நின்றோம். கால்வலி எடுக்கும் வரையில் நின்றோம்.
+“சரி - இதோ இந்த இடத்தில் படுங்கள்” என்று சிறைக்கு வெளியேயுள்ள ஒரு மண்டபத்தைக் காட்டினார். அதில் யோகாசனங்களும் - மாயவித்தைகளும் கற்றவர்கள் தான் படுக்கலாம். மழைத் தண்ணீர் கணுக்கால் அளவு தேங்கியிருந்தது. நீர்மேல் படுக்கும் பயிற்சி எங்களுக்கு கிடையாது. ஆகையால் தயங்கி நின்றோம். கால்வலி எடுக்கும் வரையில் நின்றோம்.
 
 பிறகு கருணை பிறந்தது - “சரி இங்கே படுங்கள்” என்று ‘இண்டர்வியூ’ பார்க்குமிடத்திற்கு வெளியே உள்ள தாழ்வாரத்தைக் காட்டினார்கள். அங்குபோய் உட்கார்ந்தோம். மழைச்சாரல் நிற்கவில்லை.
 
@@ -44,6 +44,19 @@ transcription_method: "direct visual comparison with controlling attached source
 - unresolved historical-glyph ambiguity — **0**.
 - because the prior record was only a placeholder, these are first canonical readings and do **not** add correction events.
 - cumulative historical-glyph correction-event count remains **11**.
+
+## P2R visual-fidelity re-audit — Batch R26
+
+- every printed word, punctuation mark, quotation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- scan 125 terminal `கோட்டைபோன்ற` → this page’s opening `முகப்பையுமுடைய` continuation was reconfirmed without rewriting either physical page record.
+- direct source-spacing correction: `“சரி- இதோ இந்த இடத்தில் படுங்கள்”` → **`“சரி - இதோ இந்த இடத்தில் படுங்கள்”`**. Enlarged source pixels clearly show spaces on both sides of the hyphen.
+- source-visible forms including `எங்களை விழுங்க முடியும்`, `யோகாசனங்களும்`, `மாயவித்தைகளும்`, `நீர்மேல்`, `‘இண்டர்வியூ’`, `அங்குபோய்`, `தேளென`, `‘புளூரசி’`, `கதகதப்பிலே`, and `கண்ணயர்ந்தேன்` were otherwise reconfirmed.
+- paper toning / age specks remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `கண்ணைத்` (`ணை`), `தாழ்வாரத்தைக்` (`றா`), `தொலைந்துபோன` (`லை`) and the full 13-family set were checked by character identity.
+- ordinary source-fidelity corrections on this scan — **1**.
+- new historical-family correction events — **0**; cumulative count remains **14**.
+- result — **PASS after source-fidelity correction**.
+
 
 ## P2 நிலை
 

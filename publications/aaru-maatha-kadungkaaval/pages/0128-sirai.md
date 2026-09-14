@@ -57,6 +57,19 @@ transcription_method: "direct visual comparison with controlling attached source
 - because the prior record was only a placeholder, these are first canonical readings and do **not** add correction events.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R26
+
+- every printed word, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- joined source form `வாயிலெங்களை`, the two-line quotation `“மாங்குயில் கூவிடும் பூஞ்சோலை - எமை / மாட்ட நினைக்கும் சிறைச்சாலை”`, and all subsequent body text were reconfirmed.
+- the source-visible opening quotation mark before `அந்த இலட்சிய வரிகள்` remains unmatched on this page; it was deliberately preserved without editorial repair.
+- source-visible forms including `பாரதி தாசனின்`, `அதிர்ச்சிதரும்`, `சந்தித்திருக்கிறது`, `வேலாயுதத்தை பட்டப்பகலில்`, and `மஜீதை` were retained.
+- narrow blue / dark physical-copy traces crossing the upper text field remain non-publication layer; the underlying character identities are directly readable.
+- mandatory historical-family verification was repeated; `பூஞ்சோலை` / `சிறைச்சாலை` (`லை`), `இளைஞன்` (`ளை`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **14**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 128 placeholder was replaced only after full direct source-pixel transcription and audit.

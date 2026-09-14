@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **125/224**
-- completed range — **1–125**
-- next range — **126–130**
+- re-audited — **130/224**
+- completed range — **1–130**
+- next range — **131–135**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **14**
@@ -589,8 +589,33 @@ Ordinary source-fidelity corrections in Batch R25 — **2**.
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
 
+## Batch R26 — scans 126–130
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 126 | body / folio 123 | PASS after correction | `“சரி- இதோ இந்த இடத்தில் படுங்கள்”` → source-visible `“சரி - இதோ இந்த இடத்தில் படுங்கள்”`; scan-125 continuation and full page otherwise confirmed |
+| 127 | body / folio 124 | PASS | heading / repeated-dot punctuation / full text / complete ending confirmed; no canonical correction |
+| 128 | body / folio 125 | PASS | two-line quotation / unmatched source opening quote / physical-copy traces / complete body text confirmed; no canonical correction |
+| 129 | body / folio 126 | PASS | line-wrap joins / `S.S.L.C.` / `மூன்றாவது` historical identity / terminal `5779!` confirmed; no canonical correction |
+| 130 | body / folio 127 | PASS | `C. P.` / `CLOSE PRISON`, full body text and complete ending confirmed; scan 131 not opened |
+
+Historical-family findings:
+
+- scan 126 — `கண்ணைத்` (`ணை`), `தாழ்வாரத்தைக்` (`றா`), `தொலைந்துபோன` (`லை`);
+- scan 127 — `தலைவர்` / `விடுதலைப்` / `பாலைவனத்திலே` (`லை`);
+- scan 128 — `பூஞ்சோலை` / `சிறைச்சாலை` (`லை`), `இளைஞன்` (`ளை`);
+- scan 129 — `எண்ணங்களை` (`ளை`), `உலைக்களங்கள்` (`லை`), `மூன்றாவது` (`றா`);
+- scan 130 — `அணைய வில்லையாம்` (`ணை`), `தலையலங்காரம்` / `வைத்திய சாலை` (`லை`), `பாடபோதனை` (`னை`);
+- all 13 tracked families were explicitly checked on every scan by character identity;
+- new historical-family correction events — **0**; cumulative count remains **14**.
+
+Ordinary source-fidelity corrections in Batch R26 — **1**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
+
 ## Exact next activity
 
-**Batch R26 — physical scans 126–130.**
+**Batch R27 — physical scans 131–135.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **130**; do not process scan 131.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **135**; do not process scan 136.

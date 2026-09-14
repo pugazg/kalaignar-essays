@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P2R Batch R25 / full visual-fidelity re-audit scans 121–125**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **125/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **P2R Batch R26 / full visual-fidelity re-audit scans 126–130**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **130/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -60,7 +60,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 125/224 scans complete; next 126–130**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 130/224 scans complete; next 131–135**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1759,11 +1759,25 @@ Batch R01 scans **1–5** is complete.
 - P2R progress — **125/224**.
 
 
+### Batch R26 — scans 126–130
+
+- **5/5 re-audited**
+- scan 126 — corrected `“சரி- இதோ இந்த இடத்தில் படுங்கள்”` → source-visible **`“சரி - இதோ இந்த இடத்தில் படுங்கள்”`**.
+- scans 127–130 — PASS / no canonical correction.
+- scan 125 → 126 physical continuation was reconfirmed; scan 127 repeated-dot punctuation, scan 128 unmatched source opening quote, scan 129 `5779!`, and scan 130 English `C. P.` / `CLOSE PRISON` were explicitly rechecked.
+- scan 130 complete ending was confirmed; scan 131 was not opened.
+- ordinary source-fidelity corrections — **1**.
+- new historical-family correction events — **0**; cumulative count remains **14**.
+- P2 totals remain **222 verified / 2 needs-review**.
+- guessed readings remain **0**.
+- P2R progress — **130/224**.
+
+
 ## Exact next activity
 
-**P2R Batch R26 — physical scans 126–130.**
+**P2R Batch R27 — physical scans 131–135.**
 
-Process exactly five physical scans with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Stop after scan 130; do not process scan 131.
+Process exactly five physical scans with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Stop after scan 135; do not process scan 136.
 
 Existing source-obscured holds remain scans 18 and 198.
 

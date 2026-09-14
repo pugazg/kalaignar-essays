@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R26 scans 126–130
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R27 scans 131–135
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
 
@@ -13,26 +13,26 @@ Use only the attached full source:
 
 No OCR, web copies, Wikisource, TVA web text, alternate editions, or contextual completion.
 
-## Durable state after Batch R25
+## Durable state after Batch R26
 
 - P2 canonical coverage — **224/224**
 - P2 — **222 verified / 2 needs-review** (source-obscured holds scans 18 and 198)
-- P2R — **125/224 complete**
-- re-audited scans — **1–125**
+- P2R — **130/224 complete**
+- re-audited scans — **1–130**
 - historical-glyph correction-event count — **14**
 - guessed readings — **0**
 
-Batch R25:
-- scans 121, 123 and 125 — PASS / no canonical correction
-- scan 122 — historical `ளை`: `பரிசுகள் அளித்து` → **`பரிசுகளை அளித்து`**
-- scan 124 — `காராக்கிரகத்தையும் - கக்கூசையும்` → **`காராக்கிரகத்தையும்- கக்கூசையும்`**; `சொல்கிறது!` → **`சொல்லிற்று!`**
-- ordinary source-fidelity corrections — **2**
-- new historical-family correction events — **1**
-- scan 125 terminal `கோட்டைபோன்ற` preserved; scan 126 was not opened
+Batch R26:
+- scan 126 — `“சரி- இதோ இந்த இடத்தில் படுங்கள்”` → **`“சரி - இதோ இந்த இடத்தில் படுங்கள்”`**
+- scans 127–130 — PASS / no canonical correction
+- scan 125→126 continuation and source-specific punctuation / quotation / English-text details reconfirmed
+- ordinary source-fidelity corrections — **1**
+- new historical-family correction events — **0**
+- scan 130 complete ending preserved; scan 131 was not opened
 
 ## Exact next activity
 
-Process exactly physical scans **126–130**.
+Process exactly physical scans **131–135**.
 
 For every scan:
 1. compare every printed word, numeral, punctuation mark, meaningful spacing and page-boundary fragment with the canonical record;
@@ -42,4 +42,4 @@ For every scan:
 5. record PASS / correction details in the page record and `P2_REAUDIT_PROGRESS.md`;
 6. synchronize controls and commit.
 
-Stop after scan **130**. Do not process scan 131 in this iteration.
+Stop after scan **135**. Do not process scan 136 in this iteration.

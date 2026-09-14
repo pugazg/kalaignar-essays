@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 125/224 scans complete; next 126–130** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 130/224 scans complete; next 131–135** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1744,8 +1744,23 @@ Historical-family verification added **1 new correction event** at scan 122 (`�
 P2R progress — **125/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **126–130**.
 
 
+### Batch R26 — scans 126–130
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 126 | PASS after correction | `“சரி- இதோ இந்த இடத்தில் படுங்கள்”` → source-visible `“சரி - இதோ இந்த இடத்தில் படுங்கள்”`; scan-125 continuation confirmed |
+| 127 | PASS | heading / repeated-dot punctuation / complete text / ending confirmed |
+| 128 | PASS | two-line quotation / unmatched source opening quote / physical-copy traces / body text confirmed |
+| 129 | PASS | line-wrap joins / `S.S.L.C.` / historical `மூன்றாவது` / terminal `5779!` confirmed |
+| 130 | PASS | `C. P.` / `CLOSE PRISON`, complete text / ending confirmed; scan 131 not opened |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **14**. Ordinary source-fidelity corrections — **1**.
+
+P2R progress — **130/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **131–135**.
+
+
 ## Exact next activity
 
-**P2R Batch R26 — scans 126–130.**
+**P2R Batch R27 — scans 131–135.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 130; do not process scan 131.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 135; do not process scan 136.

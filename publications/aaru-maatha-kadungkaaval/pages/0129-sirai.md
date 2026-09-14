@@ -48,6 +48,18 @@ transcription_method: "direct visual comparison with controlling attached source
 - because the prior record was only a placeholder, `மூன்றாவது` is a first canonical reading and does **not** add a correction event.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R26
+
+- every printed word, numeral, Latin abbreviation, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- physical line-wrap joins `எண்ணங்` + `களை` → `எண்ணங்களை`, `கேட்டி` + `ருக்கிறது` → `கேட்டிருக்கிறது`, and `சிறைக்கோட்` + `டிற்குள்` → `சிறைக்கோட்டிற்குள்` were reconfirmed solely from direct character continuity.
+- source-visible forms including `முறை-துறைகள்`, `உலைக்களங்கள்`, `அதிர்ச்சியினிடையே`, `ஆனந்தமிருக்கிறதே`, `குணமானுவாகி`, `S.S.L.C.`, and terminal `5779!` were preserved without normalization.
+- paper toning / age marks remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `எண்ணங்களை` (`ளை`), `உலைக்களங்கள்` (`லை`), and historical `றா` identity in `மூன்றாவது` were reconfirmed, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **14**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 129 placeholder was replaced only after full direct source-pixel transcription and audit.
