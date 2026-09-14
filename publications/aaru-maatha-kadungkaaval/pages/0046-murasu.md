@@ -44,6 +44,16 @@ transcription_method: "direct visual comparison with source scan"
 - `சென்னை யிலேயிருந்து`, `தக்கோர் சிலர்`, `ஊதாரிகளின்` போன்ற source-visible wording/spacing மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R10
+
+- scan 45 terminal `காய` + scan 46 opening `வதேன் - பாய்வதேன்?”` was rechecked directly; the physical continuation `காய்வதேன்` remains source-supported.
+- every printed word, quote, punctuation separator, meaningful spacing, numeral and terminal `தக்கோர் சிலர்` was compared against native embedded-source pixels.
+- source-visible wording / spacing including `இல்லை! இல்லை!!`, `ஊதாரிகளின்`, `சென்னை யிலேயிருந்து`, `“டிரங்க்கால்”`, `‘டிரங்க் கால்’`, `22ந் தேதி`, and `21ந் தேதி` all match the canonical record.
+- small stains / print wear are non-publication layers and do not obscure canonical text.
+- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was rechecked; representative direct forms include `கண்ணதாசன்` (`ணா`), `மாலை` (`லை`) and `சென்னை` (`னை`).
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 46 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

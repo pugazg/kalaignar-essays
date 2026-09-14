@@ -39,6 +39,16 @@ transcription_method: "direct visual comparison with source scan"
 - `பய முறுத்தி`, `அலக்கழித்து` source-visible wording/spacing மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R10
+
+- scan 47 terminal `ஆரிய மதப்` + scan 48 opening `பாதுகாவலர்` was rechecked as the physical continuation.
+- every printed word, title, punctuation separator, meaningful spacing and terminal `சொல்லிவிட்டு` matches the native source.
+- the source-distinct spellings `கத்தரிக் கோல்` and later `கத்திரிக்கோல்` / `கத்திரிக்கோலை` were revalidated independently and intentionally remain different.
+- source-visible forms including `நல்ல தங்காளும்`, `நள தமயந்தியும்`, `பய முறுத்தி`, `அலக்கழித்து`, and `எதையாவது வெட்டிக்கொள்!` remain unchanged.
+- mandatory historical-family review was repeated; `கண்ணையும்` directly reconfirms `ணை`, and all other visible reform-sensitive families remain unambiguous.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 48 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

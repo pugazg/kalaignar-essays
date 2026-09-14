@@ -15,7 +15,7 @@ transcription_method: "direct visual comparison with source scan"
 
 இந்த உரையாடலும் உதவாதாம்!
 
-“மாளிகையிலிருந்தபடியே மண் குடிசைகளைத் திரும்பிப் பார்த்தான் சித்தார்த்தன்; மக்களைத் திருத்தும் புத்த ஞான - கலிங்கத்துப் போர்முனையைத் திரும்பிப் பார்த்தான் அசோகன் - கெளதமர் வழிசேர்ந்தான்”
+“மாளிகையிலிருந்தபடியே மண் குடிசைகளைத் திரும்பிப் பார்த்தான் சித்தார்த்தன்; மக்களைத் திருத்தும் புத்த ஞான - கலிங்கத்துப் போர்முனையைத் திருப்பிப் பார்த்தான் அசோகன் - கெளதமர் வழிசேர்ந்தான்”
 
 இதையும் படத்திலே பரந்தாமன் பேசக்கூடாதாம்!
 
@@ -45,6 +45,18 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` குடும்பங்கள் explicit-ஆகச் சரிபார்க்கப்பட்டன.
 - `கெளதமர்`, `பரந்தாமன்`, `இறையாகக்கப்பட்டது`, `உளுந்தூர்ப்பேட்டை யிலிருந்து` ஆகிய source-visible forms direct pixels-இல் உறுதிசெய்யப்பட்டு normalize செய்யப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
+
+## P2R visual-fidelity re-audit — Batch R10
+
+- every printed word, quote, numeral, punctuation separator, meaningful spacing and terminal fragment `பாதை தவறியதின்` was rechecked from native source pixels.
+- direct source correction inside the quoted sentence: `கலிங்கத்துப் போர்முனையைத் திரும்பிப் பார்த்தான் அசோகன்` → **`கலிங்கத்துப் போர்முனையைத் திருப்பிப் பார்த்தான் அசோகன்`**.
+- this reading is character-supported: the earlier phrase on the same page prints `திரும்பிப் பார்த்தான் சித்தார்த்தன்`, whereas the second phrase visibly uses `திருப்பிப்`; the two source forms were compared rather than contextually homogenized.
+- source-visible forms including `புத்த ஞான`, `கெளதமர் வழிசேர்ந்தான்`, `இறையாகக்கப்பட்டது`, `22ந் தேதி`, `திரு டி. ஆர். சுந்தரம்`, and `உளுந்தூர்ப்பேட்டை யிலிருந்து` remain unchanged.
+- scan 51 was not opened; the terminal `பாதை தவறியதின்` remains exactly the source-visible fragment.
+- mandatory historical-family verification was repeated; `சென்னை` reconfirms `னை`, and all other visible tracked families remain unambiguous.
+- the `திரும்பிப்` → `திருப்பிப்` repair is an ordinary consonant-identity source-fidelity correction, not a tracked historical-vowel-family correction event.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity correction**.
 
 ## P2 நிலை
 

@@ -35,6 +35,16 @@ transcription_method: "direct visual comparison with source scan"
 - `சனதனக்`, `அம்மாமி அத்திம் பேர்` ஆகிய source-visible forms மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R10
+
+- scan 46 terminal `தக்கோர் சிலர்` + scan 47 opening `கொண்ட ஒரு குழுவை` was visually reconfirmed.
+- every printed word, punctuation mark, meaningful spacing and terminal fragment `ஆரிய மதப்` was compared with native source pixels.
+- source-visible forms including `மத்தியசர்க்காரின்`, `மாறி-அவர்கள்`, `ஆதிக்கத்திற்குட்பட்டது`, `சனதனக்`, `அம்மாமி அத்திம் பேர் தமிழ்தான் மிச்சம்`, `பரமசிவன் வந்து வந்து போவார்`, and the context-unusual `பொறுமையை` were rechecked and retained.
+- no normalization was made to the source's short-hyphen punctuation or lexical spacing.
+- mandatory historical-family verification was repeated; `அண்ணாவின்` directly reconfirms `ணா`, with same-typeface checks across the remaining reform-sensitive families.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 47 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

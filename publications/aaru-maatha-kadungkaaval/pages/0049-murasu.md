@@ -43,6 +43,16 @@ transcription_method: "direct visual comparison with source scan"
 - source-visible colloquial `ஒதுங்கற` மற்றும் punctuation `இருந்தால்.` மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R10
+
+- scan 48 terminal `சொல்லிவிட்டு` + scan 49 opening `ஒதுங்கற வரையிலே` was source-confirmed.
+- every printed word, quotation mark, punctuation unit and meaningful spacing was rechecked against the native scan.
+- the unusual source punctuation `“இந்த அரசாங்கத்தைக் கவிழ்க்க வேண்டும்” என்று இருந்தால்.` was explicitly rechecked and the period after `இருந்தால்` is retained.
+- source-visible forms including `ஒதுங்கற`, `ஆஸ்திக சர்க்காரில்`, `நாஸ்திகப் பிரச்சாரம்`, `அருணகிரிநாதன்`, `பகுத்தறிவாளனாகி விட்டேன்`, `திருக்கோஷ்டியூரிலே`, `வைணவ`, and `செல்வங் கொழிக்கும்` all match the canonical record.
+- mandatory historical-family verification was repeated; `தலைவர்களே` confirms `லை`, with same-font checks across the remaining tracked families.
+- unresolved historical-glyph ambiguity — **0**; no new historical-family correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 49 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.
