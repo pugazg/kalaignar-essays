@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 75/224 scans complete; next 76–80** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 80/224 scans complete; next 81–85** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1599,8 +1599,22 @@ Historical-family verification added **0 new correction events**; cumulative cou
 
 P2R progress — **75/224**. P2 remains **222 verified / 2 needs-review**. Next range — **76–80**.
 
+### Batch R16 — scans 76–80
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 76 | PASS after corrections | `12ம் தேதி` → `12ந் தேதி`; `மாவட்ட செயலாளர்கள்` → `மாவட்ட செயல்வீரர்கள்` |
+| 77 | PASS | physical `அவர்` + `களிடத்திலே` continuation and complete body text confirmed |
+| 78 | PASS after correction | `ஜூலை 14ம் நாள்!` → source-visible `ஜூலை 14-ம் நாள்!` |
+| 79 | PASS | physical `உல்லா` + `சம்` continuation, initials and complete text confirmed |
+| 80 | PASS after correction | `மறியல் ஒக்கு` → source-visible `மறியலுக்கு` |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **11**. Ordinary source-fidelity corrections — **4**.
+
+P2R progress — **80/224**. P2 remains **222 verified / 2 needs-review**. Next range — **81–85**.
+
 ## Exact next activity
 
-**P2R Batch R16 — scans 76–80.**
+**P2R Batch R17 — scans 81–85.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 80.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 85.

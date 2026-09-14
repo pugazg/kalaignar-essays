@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **75/224**
-- completed range — **1–75**
-- next range — **76–80**
+- re-audited — **80/224**
+- completed range — **1–80**
+- next range — **81–85**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **11**
@@ -349,8 +349,31 @@ Ordinary source-fidelity corrections in Batch R15 — **0**.
 
 P2 canonical totals remain **222 verified / 2 needs-review**.
 
+## Batch R16 — scans 76–80
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 76 | body / folio 73 | PASS after corrections | `12ம் தேதி` → `12ந் தேதி`; `மாவட்ட செயலாளர்கள்` → `மாவட்ட செயல்வீரர்கள்` |
+| 77 | body / folio 74 | PASS | `அவர்` + `களிடத்திலே` boundary and complete body text confirmed; no canonical correction |
+| 78 | body / folio 75 | PASS after correction | `ஜூலை 14ம் நாள்!` → source-visible `ஜூலை 14-ம் நாள்!` |
+| 79 | body / folio 76 | PASS | `உல்லா` + `சம்` boundary, Latin initials and complete text confirmed; no canonical correction |
+| 80 | body / folio 77 | PASS after correction | `மறியல் ஒக்கு` → source-visible `மறியலுக்கு` |
+
+Historical-family findings:
+
+- scan 76 — `அண்ணா` (`ணா`), `தலைமையேற்கும்` / `ஒளிப்பாதையைக்` (`லை`), `சென்னை` (`னை`);
+- scan 77 — `வேலை` / `விடை` (`லை`), `அண்ணா` (`ணா`);
+- scan 78 — `அண்ணா` / `முன்னணி` (`ணா`) plus same-typeface reform-sensitive checks;
+- scan 79 — `கண்ணதாசனும்` (`ணா`) and `விண்மீன்` same-typeface comparison;
+- scan 80 — repeated `அண்ணா` (`ணா`) and `கல்லக்குடியிலே` / `வெளியில்` (`லை`);
+- new historical-family correction events — **0**; cumulative count remains **11**.
+
+Ordinary source-fidelity corrections in Batch R16 — **4**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**.
+
 ## Exact next activity
 
-**Batch R16 — physical scans 76–80.**
+**Batch R17 — physical scans 81–85.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **80**; do not process scan 81.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **85**; do not process scan 86.

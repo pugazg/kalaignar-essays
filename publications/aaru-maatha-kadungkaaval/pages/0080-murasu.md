@@ -15,7 +15,7 @@ transcription_method: "direct visual comparison with source scan"
 
 கூட்டம் சிறப்புடன் முடிவுற்றது. அன்றிரவே எல்லோரும் கல்லக்குடிக்குப் புறப்பட்டோம்.
 
-பொதுச்செயலாளர் அண்ணாவைப் பூட்டிவிட்ட காரணத்தால் போராட்டம் புகைந்து போய்விடும் என்று ஆட்சியாளர் கருதினர். புகைவண்டிகள் நிற்காமல் ஓடும் என்று உறுதியாக நம்பினர். ஆச்சாரியார் வீட்டு மறியல் ஒக்கு யாரும் வரவே மாட்டார்கள் என்று தப்புக்கணக்குப் போட்டனர். கல்லக்குடியிலே எட்டிப் பார்ப்பதற்குக் கூட ஆள் இருக்கமாட்டார்கள் என்று கனவு கண்டு களிப்படைந்தனர்.
+பொதுச்செயலாளர் அண்ணாவைப் பூட்டிவிட்ட காரணத்தால் போராட்டம் புகைந்து போய்விடும் என்று ஆட்சியாளர் கருதினர். புகைவண்டிகள் நிற்காமல் ஓடும் என்று உறுதியாக நம்பினர். ஆச்சாரியார் வீட்டு மறியலுக்கு யாரும் வரவே மாட்டார்கள் என்று தப்புக்கணக்குப் போட்டனர். கல்லக்குடியிலே எட்டிப் பார்ப்பதற்குக் கூட ஆள் இருக்கமாட்டார்கள் என்று கனவு கண்டு களிப்படைந்தனர்.
 
 “அமைதி அமைதி!” என்று முழங்கிக்கொண்டிருந்த அண்ணாவை சிறையில் பிடித்துப்போடுவதற்கு இவர்களுக்கு எந்த நியாயம் இடம் கொடுத்ததோ தெரியவில்லை. அவரைப் பிடித்து அடைத்துவிட்டால் அறப்போர் அடங்கிவிடும் என்று எந்த ஆணவக்காரன் சொன்னானோ தெரியவில்லை! அண்ணா சிறையில்! ஆனால் அவர் தந்த உரைகள் - போராட்ட முறைகள் - பொன்னிக் மொழிகள் - வெளியில் - ஆயிரமாயிரம் உள்ளத்திலே குடியேறிவிட்டவை என்பதை உணரவில்லை - ஊராள வந்தவர்!
 
@@ -41,6 +41,17 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - historical `ணா` in `அண்ணா` and affected `லை / னா / னை` clusters were encoded by character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R16
+
+- every printed word, quotation mark, punctuation separator, meaningful spacing, running header and terminal fragment `கலந்துகொள்ளவேண்டிய` was compared directly with native source pixels.
+- direct source correction: `ஆச்சாரியார் வீட்டு மறியல் ஒக்கு யாரும்` → **`ஆச்சாரியார் வீட்டு மறியலுக்கு யாரும்`**. Enlarged source pixels show one continuous `மறியலுக்கு` word.
+- source-visible unusual forms including `புகைந்து போய்விடும்`, `பொன்னிக் மொழிகள்`, `ஊராள வந்தவர்!`, `அறப்போர்`, and `பாசறையிலே` were rechecked and preserved without normalization.
+- scan 81 was not opened; `கலந்துகொள்ளவேண்டிய` remains the exact physical terminal fragment.
+- mandatory historical-family verification was repeated; repeated `அண்ணா` forms reconfirm `ணா`, with `கல்லக்குடியிலே` / `வெளியில்` providing `லை` checks.
+- the `மறியலுக்கு` repair is an ordinary lexical source-fidelity correction, not a historical-vowel-family correction event.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity correction**.
 
 ## P2 நிலை
 

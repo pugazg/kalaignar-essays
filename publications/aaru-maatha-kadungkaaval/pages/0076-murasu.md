@@ -21,7 +21,7 @@ transcription_method: "direct visual comparison with source scan"
 
 11ம் தேதி இரவு மாநாட்டில் ‘பாப்பிரம்மம்’ நாடகம். நாடகத்தை முடித்துவிட்டு நானும், நண்பர்களும் உடனே திருச்சிக்குப் புறப்பட்டோம், 12ம் தேதி திருச்சி மாவட்ட செயற்குழுவில் கலந்துகொள்வதற்காக!
 
-12ம் தேதி காலை சென்னையிலே - தாயிடமும் - சேய்களிடமும் - துணைவியிடமும் விடைபெற்று - கல்லக்குடி களம் செல்கிறேன்! நான் வந்து உங்களைப் பார்ப்பேனோ - அல்லது நீங்கள் வந்து என்னைப் பார்ப்பீர்களோ - தெரியாது” என்று கூறிவிட்டு திருச்சியை நோக்கினேன். பிற்பகல் இரண்டு மணிக்கு திருச்சி வந்தடைந்தோம். மாவட்ட செயலாளர்கள் அனைவரும் வந்திருந்தனர். அவர்
+12ந் தேதி காலை சென்னையிலே - தாயிடமும் - சேய்களிடமும் - துணைவியிடமும் விடைபெற்று - கல்லக்குடி களம் செல்கிறேன்! நான் வந்து உங்களைப் பார்ப்பேனோ - அல்லது நீங்கள் வந்து என்னைப் பார்ப்பீர்களோ - தெரியாது” என்று கூறிவிட்டு திருச்சியை நோக்கினேன். பிற்பகல் இரண்டு மணிக்கு திருச்சி வந்தடைந்தோம். மாவட்ட செயல்வீரர்கள் அனைவரும் வந்திருந்தனர். அவர்
 
 ## அச்சு அமைப்பு
 
@@ -41,6 +41,19 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - historical `ணா` in `அண்ணா` and affected `லை / னா / னை` clusters were encoded by character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R16
+
+- every printed word, numeral, quotation mark, punctuation separator, meaningful spacing, running header and terminal fragment `அவர்` was compared with the native embedded-source image.
+- direct source corrections:
+  - `12ம் தேதி காலை` → **`12ந் தேதி காலை`**;
+  - `மாவட்ட செயலாளர்கள் அனைவரும்` → **`மாவட்ட செயல்வீரர்கள் அனைவரும்`**.
+- both corrections were resolved directly from enlarged source glyphs; no contextual substitution was used.
+- source-visible forms including `கிழப் பருவமும்`, `செய்திகேட்டு`, `இளைஞர்கட்கும்-ஒளிப்பாதையைக்`, and the terminal `அவர்` were rechecked and preserved.
+- mandatory historical-family verification was repeated; `அண்ணா` reconfirms `ணா`, `தலைமையேற்கும்` / `ஒளிப்பாதையைக்` provide `லை` checks, and `சென்னை` reconfirms `னை`.
+- the two repairs are ordinary numeral-suffix / lexical source-fidelity corrections, not historical-vowel-family correction events.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity corrections**.
 
 ## P2 நிலை
 

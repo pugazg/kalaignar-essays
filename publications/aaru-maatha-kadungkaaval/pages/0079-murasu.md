@@ -39,6 +39,15 @@ transcription_method: "direct visual comparison with source scan"
 - `கண்ணதாசனும்`, `விண்மீன்`, and affected older-type clusters were decoded by character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R16
+
+- scan 78 terminal `உல்லா` + scan 79 opening `சம், உற்சாகம்.` was visually reconfirmed as the physical continuation `உல்லாசம்`.
+- every printed word, Latin initials, numeral, punctuation separator, meaningful spacing, running header and complete page ending was compared with native source pixels.
+- source-visible forms including `உறைவிட்டெழும்`, `சிமண்டு`, `கடைசிக்கூட்டம்`, `பிணமாகப்போன`, `கழகத்தின்பால்`, `M. L. A.,`, and `ராமசுப்பையாவும்` all match the canonical record.
+- mandatory historical-family verification was repeated; `கண்ணதாசனும்` reconfirms `ணா`, and `விண்மீன்` was used for same-typeface character discrimination.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 79 was fully compared with source pixels.

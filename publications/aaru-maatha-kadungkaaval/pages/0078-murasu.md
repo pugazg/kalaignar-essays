@@ -15,7 +15,7 @@ transcription_method: "direct visual comparison with source scan"
 
 சட்டசபை உறுப்பினர்களும் மற்றவர்களும் சுமார் நூறு பேர் அண்ணா முதலியோரை கைது செய்ததைக் கண்டித்து சட்டசபையிலிருந்து வெளியேறினார்கள் என்ற செய்தியும் திராவிடத்தை உற்சாகப்படுத்திற்று.
 
-லால்குடியை அடைந்தோம் ஜூலை 14ம் நாள்! மறுநாள் காலையிலே ஜூலை 15! ஆம் குளுரைக்கும் ஜூலை 15! “முரசொலி கேட்குது; முன்னணி அமையுது!” என்று மூவேந்தர் பாரம்பரையை அழைத்த ஜூலை 15! இழிவு துடைக்க வாரீர்! இன உணர்ச்சி கொள்வீர்! வஞ்சக வடநாட்டிற்குத் தென்னாட்டில் ஆதிக்கமாம்; நெஞ்சுமுத்தம் பாரீர்! நேற்று மூவேந்தர் - இன்று டில்லி - நாளை நாம் - என்ற உறுதிப் படையெடுப்போம் - இறுதி வரை எதிர்ப்போம் - கல்லக்குடியில் முதல் களம் அமைப்போம் - உயிர் வெல்லமென்போர் வீழ்ந்தனர் - அவர் விலகட்டும்! புறப்படுவோம் போர்முனைக்கு! புறநானூறு நமது கையில்! பழந்தமிழர் வரலாறு நமது நெஞ்சில்! எதிரே பகைவர்! இனித்து நிற்கும் ‘டால்மியாபுரம்’ என்ற பெயர்! திராவிடமே உனது தீர்ப்பை வழங்கு! என்று பரணி பாடியபடி படை கிளம்பிய ஜூலை 15.
+லால்குடியை அடைந்தோம் ஜூலை 14-ம் நாள்! மறுநாள் காலையிலே ஜூலை 15! ஆம் குளுரைக்கும் ஜூலை 15! “முரசொலி கேட்குது; முன்னணி அமையுது!” என்று மூவேந்தர் பாரம்பரையை அழைத்த ஜூலை 15! இழிவு துடைக்க வாரீர்! இன உணர்ச்சி கொள்வீர்! வஞ்சக வடநாட்டிற்குத் தென்னாட்டில் ஆதிக்கமாம்; நெஞ்சுமுத்தம் பாரீர்! நேற்று மூவேந்தர் - இன்று டில்லி - நாளை நாம் - என்ற உறுதிப் படையெடுப்போம் - இறுதி வரை எதிர்ப்போம் - கல்லக்குடியில் முதல் களம் அமைப்போம் - உயிர் வெல்லமென்போர் வீழ்ந்தனர் - அவர் விலகட்டும்! புறப்படுவோம் போர்முனைக்கு! புறநானூறு நமது கையில்! பழந்தமிழர் வரலாறு நமது நெஞ்சில்! எதிரே பகைவர்! இனித்து நிற்கும் ‘டால்மியாபுரம்’ என்ற பெயர்! திராவிடமே உனது தீர்ப்பை வழங்கு! என்று பரணி பாடியபடி படை கிளம்பிய ஜூலை 15.
 
 பகை தாக்கப்போம் - நகை உதிர்ப்போம், வென்றே மென்று! என வீர முரசு கொட்டிய ஜூலை 15!
 
@@ -42,6 +42,17 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - `அண்ணா`, `முன்னணி`, `தென்னாட்டில்`, and other affected clusters were decoded by character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R16
+
+- scan 77 terminal `பெற்ற` + scan 78 opening `சட்டசபை உறுப்பினர்களும்` was rechecked directly.
+- direct punctuation / numeral-suffix correction: `ஜூலை 14ம் நாள்!` → **`ஜூலை 14-ம் நாள்!`**; the source visibly prints a short hyphen between `14` and `ம்`.
+- every other printed word, quotation mark, punctuation separator, meaningful spacing and terminal fragment `உல்லா` matches the native source.
+- source-visible unusual forms including `குளுரைக்கும்`, `நெஞ்சுமுத்தம்`, `இனித்து நிற்கும்`, `வென்றே மென்று!`, and `ஆனால்;` were intentionally retained.
+- mandatory historical-family verification was repeated; `அண்ணா` / `முன்னணி` reconfirm `ணா`, and `தென்னாட்டில்` / `புறநானூறு` provide same-typeface reform-sensitive comparisons.
+- the `14-ம்` repair is ordinary punctuation fidelity, not a historical-glyph correction event.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity correction**.
 
 ## P2 நிலை
 

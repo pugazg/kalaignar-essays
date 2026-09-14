@@ -39,6 +39,15 @@ transcription_method: "direct visual comparison with source scan"
 - `வேலை`, `அண்ணா`, `விடை`, and related older-type clusters were decoded by historical character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R16
+
+- scan 76 terminal `அவர்` + scan 77 opening `களிடத்திலே` was visually reconfirmed as the physical continuation `அவர்களிடத்திலே`, while preserving the split records.
+- every printed word, numeral, punctuation mark, meaningful spacing, running header and terminal `பெற்ற` was compared directly with native source pixels.
+- source-visible forms including `போர்முனையிலேதான்`, `ஆசையினில்`, `தாண்டிவிடப்பட்டேன்`, `மருத்துவ மனையில்`, `நண்பர் பாரவிடம்`, and the repeated `செயற்குழு` forms all match the canonical record.
+- mandatory historical-family verification was repeated; `வேலை` / `விடை` confirm `லை`, while `அண்ணா` reconfirms `ணா`.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 77 was fully compared with source pixels.

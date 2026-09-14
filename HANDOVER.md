@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P2R Batch R15 / full visual-fidelity re-audit scans 71–75**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **75/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **P2R Batch R16 / full visual-fidelity re-audit scans 76–80**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **80/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -58,7 +58,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 75/224 scans complete; next 76–80**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 80/224 scans complete; next 81–85**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1622,11 +1622,24 @@ Batch R01 scans **1–5** is complete.
 - P2 totals remain **222 verified / 2 needs-review**.
 - P2R progress — **75/224**.
 
+### Batch R16 — scans 76–80
+
+- **5/5 re-audited**
+- scan 76 — corrected `12ம் தேதி` → **`12ந் தேதி`** and `மாவட்ட செயலாளர்கள்` → **`மாவட்ட செயல்வீரர்கள்`**.
+- scan 77 — PASS / no canonical text correction.
+- scan 78 — corrected `ஜூலை 14ம் நாள்!` → **`ஜூலை 14-ம் நாள்!`**.
+- scan 79 — PASS / no canonical text correction.
+- scan 80 — corrected `மறியல் ஒக்கு` → **`மறியலுக்கு`**.
+- ordinary source-fidelity corrections — **4**.
+- new historical-family correction events — **0**; cumulative count remains **11**.
+- P2 totals remain **222 verified / 2 needs-review**.
+- P2R progress — **80/224**.
+
 ## Exact next activity
 
-**P2R Batch R16 — physical scans 76–80.**
+**P2R Batch R17 — physical scans 81–85.**
 
-Process exactly five physical scans with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Stop after scan 80.
+Process exactly five physical scans with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Stop after scan 85.
 
 Existing source-obscured holds remain scans 18 and 198.
 
