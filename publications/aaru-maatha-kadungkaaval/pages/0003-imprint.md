@@ -17,7 +17,7 @@ transcription_method: "direct visual comparison with controlling attached source
 
 உரிமையுடையது.
 
-விலை ரூ. 2-0-0
+விலை ரூ. 2—0—0
 
 கலைமகள் பிரஸ், 405, பெரியகடைவீதி, திருச்சி.
 
@@ -26,7 +26,7 @@ transcription_method: "direct visual comparison with controlling attached source
 - edition / imprint page; no printed folio is present.
 - the former provisional `முதல் பதிப்பு—1953` was repaired to the directly source-visible `முதற் பதிப்பு—1953`.
 - the small middle line `உரிமையுடையது.` and bottom printer line `கலைமகள் பிரஸ், 405, பெரியகடைவீதி, திருச்சி.` were recovered directly from enlarged source pixels.
-- source punctuation and the price form `ரூ. 2-0-0` were preserved.
+- source punctuation was rechecked; the price uses long dash separators and is now preserved as `ரூ. 2—0—0`.
 
 ## அச்சு அல்லாத / physical-copy marks
 
@@ -35,11 +35,18 @@ transcription_method: "direct visual comparison with controlling attached source
 
 ## Historical glyph audit
 
-- complete printed matter inspected directly at enlarged/high resolution.
+- complete printed matter re-inspected word-by-word at native embedded-source resolution.
 - explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- historical `லை` identities in `விலை` and `கலைமகள்` are source-confirmed.
 - unresolved historical-glyph ambiguity — **0**.
-- the `முதல்` → `முதற்` repair is an ordinary source-fidelity transcription repair, not a historical-vowel-glyph correction event.
+- the earlier `முதல்` → `முதற்` repair and this batch's dash correction are ordinary source-fidelity corrections, not historical-vowel-glyph correction events.
 - cumulative historical-glyph correction-event count remains **11**.
+
+## P2R visual-fidelity re-audit — Batch R01
+
+- every printed word, numeral, punctuation mark and printer-detail token was compared again with native embedded-source pixels.
+- wording remains source-confirmed; punctuation correction in this round: `விலை ரூ. 2-0-0` → `விலை ரூ. 2—0—0`.
+- result — **PASS after punctuation-fidelity correction**.
 
 ## P2 நிலை
 

@@ -13,16 +13,21 @@ transcription_method: "direct visual comparison with source scan"
 
 # அச்சு உரை
 
-ஆறுமாதக் கடுங்காவல்
+ஆறு மாதக் கடுங்காவல்
 
-மு. கருணாநிதி
+எழுதியது
+
+(மு.கருணாநிதி)
 
 திராவிடப் பண்ணை
 
+தெப்பக்குளம் :: திருச்சி
+
 ## அச்சு அமைப்பு
 
-- தலைப்பு மையப்படுத்தப்பட்ட title-page அமைப்பு.
-- ஆசிரியர் வரியும் பதிப்பகப் பெயரும் தனித்தனி வரிகளாக அச்சிடப்பட்டுள்ளன.
+- தலைப்பு `ஆறு மாதக் கடுங்காவல்` என `ஆறு` + `மாதக்` இடைவெளியுடன் அச்சிடப்பட்டுள்ளது.
+- `எழுதியது` மற்றும் `(மு.கருணாநிதி)` தனித்தனி வரிகளாக உள்ளன; source-ல் `மு.`க்கு பின் இடைவெளி இல்லை.
+- கீழ்பகுதியில் `திராவிடப் பண்ணை`; அதன் கீழ் `தெப்பக்குளம் :: திருச்சி`.
 - அச்சுப் பக்க எண் இல்லை.
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -31,8 +36,18 @@ transcription_method: "direct visual comparison with source scan"
 
 ## Historical glyph audit
 
-- உறுதிசெய்யப்பட்ட மூன்று அச்சு வரிகளில் historical-glyph ambiguity கண்டறியப்படவில்லை.
-- source spelling/spacing அப்படியே பாதுகாக்கப்பட்டது.
+- முழு title-page print word-by-word மீண்டும் பார்க்கப்பட்டது.
+- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` explicitly checked.
+- `பண்ணை`-இல் historical `ணை` identity நேரடியாக உறுதிசெய்யப்பட்டது.
+- unresolved historical-glyph ambiguity — **0**; source spelling/spacing/punctuation அப்படியே பாதுகாக்கப்பட்டது.
+- இந்த batch-இல் historical-family correction event **0**; cumulative correction-event count **11**.
+
+## P2R visual-fidelity re-audit — Batch R01
+
+- previous record omitted `எழுதியது`, parentheses around the author, and `தெப்பக்குளம் :: திருச்சி`, and joined the title as `ஆறுமாதக்`.
+- direct visual re-audit corrected the canonical page to `ஆறு மாதக் கடுங்காவல்`, `எழுதியது`, `(மு.கருணாநிதி)`, `திராவிடப் பண்ணை`, `தெப்பக்குளம் :: திருச்சி`.
+- every printed word / punctuation unit was checked against native embedded-source pixels.
+- result — **PASS after source-fidelity correction**.
 
 ## P2 நிலை
 

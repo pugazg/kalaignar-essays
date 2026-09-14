@@ -38,6 +38,7 @@ Direct native inspection established:
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 5/224 scans; next 6–10**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -415,10 +416,24 @@ Current P2 totals:
 - guessed readings — **0**
 - historical-glyph correction-event count — **unchanged at 11**
 
+## P2R full visual-fidelity re-audit
+
+User requested another complete word-by-word visual check from physical scan 1, with historical Tamil glyph verification, **5 scans per iteration**.
+
+Progress authority: `P2_REAUDIT_PROGRESS.md`.
+
+### Batch R01 — scans 1–5
+
+- **5/5 re-audited**
+- scan 1 — exact later label recorded; canonical publication text remains 0
+- scan 2 — substantive title-page fidelity repairs completed
+- scan 3 — price dash punctuation corrected to `2—0—0`
+- scans 4–5 — PASS / no canonical changes
+- historical-glyph correction-event count remains **11**
+- P2 totals remain **222 verified / 2 needs-review**
+
 ## Exact next activity
 
-**P2 final source-obscuration disposition — scans 18 and 198.**
+**P2R Batch R02 — scans 6–10.**
 
-Available source-only review has been exhausted for both. Do not infer the missing characters. P2 can advance only after an exact user-confirmed reading or an explicit user-approved terminal-exception disposition for the source-obscured lacunae.
-
-Do not start P3 while P2 remains open.
+Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Existing source-obscured P2 holds at scans 18 and 198 remain open.

@@ -7,6 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 5/224 scans complete; next 6–10** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1381,10 +1382,29 @@ Direct source review established:
 
 No physical scan is deduplicated.
 
+## P2R — full visual text fidelity + historical glyph re-audit
+
+### Batch R01 — scans 1–5
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 1 | PASS | later ownership/donation label fully readable; recorded only as non-publication layer |
+| 2 | PASS after correction | title spacing corrected; omitted author/publisher-location lines restored |
+| 3 | PASS after correction | source price punctuation is `2—0—0` |
+| 4 | PASS | every printed word/punctuation unit confirmed; no change |
+| 5 | PASS | recto has no publication text; reverse show-through excluded |
+
+Historical-family verification:
+- scan 2 `பண்ணை` — `ணை` confirmed;
+- scan 3 `விலை`, `கலைமகள்` — `லை` confirmed;
+- scan 4 `நினைவில்` — `னை` confirmed;
+- historical-family correction events added — **0**;
+- cumulative correction-event count — **11**.
+
+P2R progress — **5/224**. Next range — **6–10**.
+
 ## Exact next activity
 
-**P2 final source-obscuration disposition — scans 18 and 198.**
+**P2R Batch R02 — scans 6–10.**
 
-Source-only pixel review is exhausted. Preserve the existing `[…]` lacunae unless the user supplies/confirms the exact readings. Alternatively, P2 may close only if the user explicitly approves these two source-obscured lacunae as terminal archival exceptions.
-
-P3 remains blocked until that disposition is explicit.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Do not use OCR, web copies, alternate editions, or contextual completion.

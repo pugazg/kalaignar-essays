@@ -22,12 +22,20 @@ _அச்சிடப்பட்ட பதிப்பக உரை இல்�
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- பின்னர் சேர்க்கப்பட்ட ownership / donation / library-style குறி உள்ளது.
-- முழு வாசிப்பு போதுமான அளவு உறுதியானதல்ல; அச்சுப் பதிப்பு உரையாக எடுத்துக்கொள்ளப்படவில்லை.
+- பின்னர் சேர்க்கப்பட்ட ownership / donation label உள்ளது; அதன் நேரடி வாசிப்பு: `பேராசிரியர். தி.வ. மெய்கண்டார் அவர்களின்` / `அன்பளிப்பு`.
+- இது publication text அல்ல; canonical அச்சு உரைக்குள் சேர்க்கப்படவில்லை.
 
 ## Historical glyph audit
 
 - அச்சிடப்பட்ட தமிழ் உரை இல்லை; historical-glyph audit **not applicable**.
+
+## P2R visual-fidelity re-audit — Batch R01
+
+- native embedded-source pixels-ல் scan முழுவதும் மீண்டும் பார்வையிடப்பட்டது.
+- publication text — **0 words**; canonical text layer மாற்றமில்லை.
+- later physical-copy label இப்போது முழுமையாக வாசிக்கப்பட்டு non-publication layer-ல் மட்டும் பதிவு செய்யப்பட்டது.
+- historical Tamil glyph verification — publication text இல்லாததால் **not applicable**.
+- result — **PASS / no canonical printed-text correction**.
 
 ## P2 நிலை
 

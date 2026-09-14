@@ -29,6 +29,14 @@ _அச்சிடப்பட்ட பதிப்பக உரை இல்�
 
 - அச்சிடப்பட்ட தமிழ் உரை இல்லை; historical-glyph audit **not applicable**.
 
+## P2R visual-fidelity re-audit — Batch R01
+
+- full scan rechecked visually from native embedded-source pixels.
+- visible faint text is reverse-side show-through only and is not recto publication text.
+- recto canonical printed text — **0 words**; no later annotation requiring transcription.
+- historical Tamil glyph verification — **not applicable** to the canonical recto layer.
+- result — **PASS / no correction**.
+
 ## P2 நிலை
 
 **verified** — scan 5 direct visual review; printed publication text **0**.

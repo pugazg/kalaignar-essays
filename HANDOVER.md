@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 057 / P2 final-obstruction reinspection** reached the durable state **224/224 canonical records; 222 verified / 2 needs-review**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **P2R Batch R01 / full visual-fidelity re-audit scans 1–5**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **5/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -58,6 +58,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 5/224 scans complete; next 6–10**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1460,15 +1461,24 @@ Batch 057 result:
   - scan 18 — one white physical obstruction hides the cluster after `ஒருவராக ஆ` and before `விடக்கூடிய`; native-source reinspection confirms the covered print is unrecoverable from this copy.
   - scan 198 — one dark-blue physical-copy mark obscures characters in `முதற் பரிசை அ[…]ந்தார்`; native-image / channel reinspection remains insufficient for a secure direct reading.
 
+## P2R — user-requested full visual-fidelity re-audit
+
+Batch R01 scans **1–5** is complete.
+
+- scan 1 — later physical-copy label fully read and recorded outside the publication-text layer.
+- scan 2 — title-page fidelity repairs: `ஆறு மாதக் கடுங்காவல்`; restored `எழுதியது`, `(மு.கருணாநிதி)`, and `தெப்பக்குளம் :: திருச்சி`.
+- scan 3 — price punctuation corrected to source-visible `2—0—0`.
+- scans 4–5 — PASS / no canonical correction.
+- mandatory historical-family verification completed; cumulative correction-event count remains **11**.
+- progress authority — `publications/aaru-maatha-kadungkaaval/P2_REAUDIT_PROGRESS.md`.
+
 ## Exact next activity
 
-**P2 final source-obscuration disposition — scans 18 and 198.**
+**P2R Batch R02 — physical scans 6–10.**
 
-Both remaining records have now exhausted the available source-only pixel review. Scan 18 is physically covered by an opaque white obstruction; scan 198 remains partly hidden by a dark-blue physical-copy mark even after native-image / channel inspection.
+Continue the user-requested full second visual text fidelity check exactly five scans at a time. Compare every printed word / punctuation unit against native source pixels and repeat the mandatory 13-family historical Tamil glyph audit.
 
-Do not guess the missing print. The next durable closure requires either a user-confirmed exact reading for the lacunae or an explicit user-approved archival disposition that accepts the source-obscured `[…]` readings as terminal exceptions.
-
-Do not start P3, article assembly, P4/P5, or English while P2 remains open.
+Do not use OCR, web copies, Wikisource, TVA web text, alternate editions, or contextual completion. Existing P2 holds at scans 18 and 198 remain open and will be revisited in sequence.
 
 ---
 

@@ -40,6 +40,15 @@ transcription_method: "direct visual comparison with controlling attached source
 - no spelling modernization or contextual completion was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R01
+
+- heading `இது`, all body words, punctuation, paragraph boundary and `பதிப்பகத்தார்.` were compared word-by-word with native embedded-source pixels.
+- canonical transcription requires **no change** in this round.
+- source line-wrap `அமைப்பதற்` + `கான` remains correctly represented as `அமைப்பதற்கான`.
+- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` rechecked; `நினைவில்` supplies a direct `னை` comparison.
+- unresolved historical-glyph ambiguity — **0**; historical correction-event count unchanged.
+- result — **PASS / no correction**.
+
 ## P2 நிலை
 
 **verified** — the complete publisher note is now directly source-confirmed.
