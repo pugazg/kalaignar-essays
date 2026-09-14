@@ -13,7 +13,7 @@ transcription_method: "direct visual comparison with source scan"
 
 # அச்சு உரை
 
-காமராஜரைப் போன்றவர் தோற்றத்தில்! தோழர்களே - ‘தோற்றத்தில்’ என்பதை ஞாபகம் வைத்துக் கொள்ளுங்கள். வயதில் கூட ஒற்றுமை இருக்கலாம். இருவருக்கு மிடையே பெரிய வேற்றுமை வளர்ந்து கிடக்கிறதே - கரூர் முருகேசன் இன உணர்ச்சி பெற்றவர் - திராவிட தேசத்தின் விடுதலைப் போரின் படை வீரர் - அந்நிய ஏகாதிபத்தியத்தின் எடுபிடி அல்ல அவர்! சரிதான் நண்பர் கிண்டல் செய்திருக்கிறார் என்று சிரித்துக்கொண்டேன். கரூர் முருகேசனை ஓரளவுக்கு உங்களுக்கு அறிமுகப்படுத்தி விட்டதாக அறிகிறேன். அவரையும் - காரிகாலன் போன்ற வால்களையும் - கரூர் வட்டாரம் நன்றாகப் பயன்படுத்திக் கொள்ளவேண்டும்.
+காமராஜரைப் போன்றவர் தோற்றத்தில்! தோழர்களே - ‘தோற்றத்தில்’ என்பதை ஞாபகம் வைத்துக் கொள்ளுங்கள். வயதில் கூட ஒற்றுமை இருக்கலாம். இருவருக்கு மிடையே பெரிய வேற்றுமை வளர்ந்து கிடக்கிறதே - கரூர் முருகேசன் இன உணர்ச்சி பெற்றவர் - திராவிட தேசத்தின் விடுதலைப் போரின் படை வீரர் - அந்நிய ஏகாதிபத்தியத்தின் எடுபிடி அல்ல அவர்! சரிதான் நண்பர் கிண்டல் செய்திருக்கிறார் என்று சிரித்துக்கொண்டேன். கரூர் முருகேசனை ஓரளவுக்கு உங்களுக்கு அறிமுகப்படுத்தி விட்டதாக அறிகிறேன். அவரையும் - காரிகாலன் போன்ற வாள்களையும் - கரூர் வட்டாரம் நன்றாகப் பயன்படுத்திக் கொள்ளவேண்டும்.
 
 இரவு பத்து மணிக்கு கரூரில் கூட்டம் முடிவுற்றது. நாங்கள் காரில் வந்து ஏற வேண்டுமே! மேடையை விட்டு இறங்கிய நான் எப்படித்தான் காரிடம் போனேன் என்று எனக்கே தெரியாது. கார் நிற்பது தெரிகிறது. அதைச் சுற்றிக் கூட்டம். துணைக்கு வந்த தோழர்கள் எல்லாம் தொலைவில் தூக்கி எறியப்பட்டார்கள். நான் காரிடம் கஷ்டப்பட்டு கொண்டுவந்து சேர்க்கப்பட்டேன். காருக்குள் இருக்கும் கருணாநிதியைப் பார்ப்பதற்காக அவசரப்பட்ட தோழர்கள் என்னைப் பிடித்து இழுத்துவிட்டு காருக்குள் தலையை நீட்டி ‘கருணாநிதி வாழ்க’ என்று முழக்கம் போட்டார்கள். கருணாநிதி காரைப் பிடிக்க முடியாமல் ஜன சமுத்திரத்தில் நீச்சலடித்துக் கொண்டிருந்தது அவர்களுக்கு எப்படித் தெரியும். இந்த நிலை கரூரில் மாத்திரமல்ல; எந்த ஊரிலும் இப்படித்தான்! எனக்கு மட்டும் மல்ல; நமது முன்னணி வீரர்கள் அனைவருக்கும்!
 
@@ -34,8 +34,18 @@ transcription_method: "direct visual comparison with source scan"
 
 - முழுப் பக்கமும் native/enlarged source pixels-க்கு எதிராக நேரடியாகப் பார்க்கப்பட்டது.
 - ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ குடும்பங்கள் explicit-ஆகச் சரிபார்க்கப்பட்டன.
-- **இருவருக்கு மிடையே**, **வால்களையும்**, **கொண்டுவந்து**, **எனக்கு மட்டும் மல்ல** ஆகிய unusual source-visible wording/spacing context மூலம் normalize செய்யப்படவில்லை.
+- **இருவருக்கு மிடையே**, **வாள்களையும்**, **கொண்டுவந்து**, **எனக்கு மட்டும் மல்ல** ஆகிய unusual source-visible wording/spacing context மூலம் normalize செய்யப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; historical-glyph correction count மாற்றமில்லை.
+
+## P2R visual-fidelity re-audit — Batch R07
+
+- every printed word, quote, punctuation separator, meaningful spacing and both physical page-boundary fragments were rechecked from native source pixels.
+- direct source correction: `காரிகாலன் போன்ற வால்களையும்` → **`காரிகாலன் போன்ற வாள்களையும்`**. Enlarged pixels clearly show the `ள்` character identity; this is not a context-based spelling repair.
+- source-visible odd spacing / wording such as `இருவருக்கு மிடையே`, `எனக்கு மட்டும் மல்ல`, and the terminal fragment `அவர்களா` remain unchanged.
+- mandatory historical-family review was repeated; `வாள்களையும்` also supplies a direct `ளை`-family occurrence in `களையும்`, while `தொலைவில்` / `தலையை` confirm `லை`.
+- the `ல` → `ள` repair above is an ordinary consonant-identity source-fidelity correction, **not** one of the tracked historical-vowel-family correction events.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity correction**.
 
 ## P2 நிலை
 

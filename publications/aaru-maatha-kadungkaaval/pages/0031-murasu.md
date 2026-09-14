@@ -39,6 +39,16 @@ transcription_method: "direct visual comparison with source scan"
 - **கிடத்தப்பட்டனர்**, **அதிகாரபூர்வமான**, **அனிபா**, **சுவைக்கும் குறைவில்லை** போன்ற source-visible wording மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
 
+## P2R visual-fidelity re-audit — Batch R07
+
+- heading `ஜூன் 19`, every printed word, numeral, punctuation separator, meaningful spacing and the terminal fragment `சுறு` were compared again with native source pixels.
+- source-visible wording including `1946ம் ஆண்டில்`, `அதிகாரபூர்வமான`, `இல்லா விட்டாலும்கூட`, `அய்யா - அண்ணா தகராறு`, `ஜூன் 19ல்`, `அனிபா`, and `சங்கீதத் தென்றல்` matches the canonical record.
+- the final `சுறு` remains an exact physical page fragment; no scan-32 text was pulled backward into this record.
+- stains / paper wear are non-publication layers and do not obscure canonical print.
+- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was rechecked; `அண்ணா / அண்ணாவும்` reconfirm historical `ணா`.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 31 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

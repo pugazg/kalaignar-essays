@@ -40,6 +40,15 @@ transcription_method: "direct visual comparison with source scan"
 - **சுறுப்புக்கும்**, **பெருங் கூட்டம்**, **புரிகிறாரே; என்று**, **காமராஜ் நாடார்**, **காணோம்** ஆகிய source-visible forms/punctuation மாற்றப்படவில்லை.
 - historical-glyph correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R07
+
+- scan 31 terminal `சுறு` + scan 32 opening `சுறுப்புக்கும்` was visually confirmed as the physical cross-page continuation.
+- every printed word / punctuation unit / meaningful spacing and terminal `முருகேசன்` matches the native source.
+- source-visible forms including `பெருங் கூட்டம்`, `புரிகிறாரே; என்று`, `மறுப்பு-அளவு`, `ஆர்வம்-`, `காமராஜ் நாடார்`, and `காணோம்` were preserved exactly.
+- mandatory 13-family historical-glyph verification was repeated; `காணோம்` directly reconfirms the historical `ணோ` family in this typeface.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 32 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

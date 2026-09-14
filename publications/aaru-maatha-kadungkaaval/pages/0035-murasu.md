@@ -39,6 +39,16 @@ transcription_method: "direct visual comparison with source scan"
 - **குழந்தையா**, **புட்டுப் போட்டுக்கொண்டு**, **தஞ்சைமா நகரம்**, **கட்சியிலே யிருந்த**, **அன்றையதினம்** ஆகிய source-visible forms/spacing மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R07
+
+- scan 34 terminal `தலைமை` + scan 35 opening `யேற்றுப் பேசிவிட்டு` was visually reconfirmed from the two physical records.
+- every printed word, heading, quote, punctuation separator, meaningful spacing and terminal `வேலாயுதம்` was compared with native scan pixels.
+- source-visible forms including `பழம்பெரு நண்பர்`, `குழந்தையா`, `புட்டுப் போட்டுக்கொண்டு`, `தஞ்சைமா நகரம்`, `விடிந்தது:`, `கட்சியிலே யிருந்த`, `தி. மு. கழகத்தில்`, and `அன்றையதினம்` all match the canonical record.
+- stains / ink specks are non-publication layers and do not obscure canonical text.
+- mandatory historical-family review was repeated; `தன்னைத்தானே` confirms `னை`, `வேலாயுதம் பாளையம்` confirms `ளை`, and `காலை` confirms `லை`.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 35 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.
