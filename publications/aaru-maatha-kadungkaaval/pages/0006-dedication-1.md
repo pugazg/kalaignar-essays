@@ -19,7 +19,7 @@ transcription_method: "direct visual comparison with source scan"
 
 திராவிட முன்னேற்றக் கழகம் எழுச்சிமிக்க எழிலேடு. அதிலே கல்லக்குடி ஒரு உணர்ச்சி அத்தியாயம். போர்ப்பரணி. புதிய புறநானூற்றில் உயிரோட்டமுள்ள ஒப்பற்ற வரிகள். அந்த உணர்வு தவழ் வரிகளை செந்நிறத்தால் தீட்டிக் காட்டிய தீரர்கள் இந்த மண்ணின் மறையாத மணி விளக்குகள்.
 
-போர்க்காவியம் தீட்டும் புலவர்க்கு அவர்கள் கதாநாயகர்கள். கவிதைத் தேரின் தோரண வாயிலாக அவர்களை அமைத்துக் களிப்படைவர்; வருங்கால கவிஞர் பெருமக்கள். விடுதலை கீதத்தின் கம்பீரமான தொனியிலே அவர்களின் திருநாமம் பொதிந்து கிடக்கும். நல்லவரும், நாட்டுக்குழைப்போரும் – தொடர்ந்து செல்லவேண்டும் – தொழுது வணங்க வேண்டிய வீரக் கழல்களை ரத்தச் சகதியிலே பதித்து விட்டுப் போன உத்தமர்கள், வீரர்கள், தியாகச் செம்மல்கள், மடிமேல் வைத்து வளர்த்த திராவிட மாதாவுக்கு தாங்கள் செய்யவேண்டிய கடமையை பூரணமாகச் செய்தவர்கள். புகழ் முத்துக்கள். அவர்கள் வாழ்க என வாழ்த்துவோம். உதிரம்
+போர்க்காவியம் தீட்டும் புலவர்க்கு அவர்கள் கதாநாயகர்கள். கவிதைத் தேரின் தோரண வாயிலாக அவர்களை அமைத்துக் களிப்படைவர்; வருங்கால கவிஞர் பெருமக்கள். விடுதலை கீதத்தின் கம்பீரமான தொனியிலே அவர்களின் திருநாமம் பொதிந்து கிடக்கும். நல்லவரும், நாட்டுக்குழைப்போரும் - தொடர்ந்து செல்லவேண்டும் - தொழுது வணங்க வேண்டிய வீரக் கழல்களை ரத்தச் சகதியிலே பதித்து விட்டுப் போன உத்தமர்கள், வீரர்கள், தியாகச் செம்மல்கள், மடிமேல் வைத்து வளர்த்த திராவிட மாதாவுக்கு தாங்கள் செய்யவேண்டிய கடமையை பூரணமாகச் செய்தவர்கள். புகழ் முத்துக்கள். அவர்கள் வாழ்க என வாழ்த்துவோம். உதிரம்
 
 ## அச்சு அமைப்பு
 
@@ -39,6 +39,16 @@ transcription_method: "direct visual comparison with source scan"
 - source spelling, punctuation, paragraphing மற்றும் meaningful spacing பாதுகாக்கப்பட்டன.
 - global replacement / lexical modernization செய்யப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
+
+## P2R visual-fidelity re-audit — Batch R02
+
+- every printed word, punctuation mark, paragraph boundary and the terminal fragment `உதிரம்` were rechecked against the native embedded-source image.
+- canonical wording remains source-supported.
+- punctuation repair in this round: the source uses short hyphens in `நாட்டுக்குழைப்போரும் - தொடர்ந்து செல்லவேண்டும் - தொழுது`; prior en dashes were normalized incorrectly.
+- a pale physical-copy fiber/mark crosses the upper paragraph but is not publication ink and does not prevent direct reading of the underlying print.
+- mandatory historical family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` rechecked; representative source forms include `விடுதலை` (`லை`) and `மண்ணின்` / `மணி` comparison for old-form discrimination.
+- unresolved historical-glyph ambiguity — **0**; historical correction-event count remains **11**.
+- result — **PASS after punctuation-fidelity correction**.
 
 ## P2 நிலை
 

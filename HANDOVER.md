@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P2R Batch R01 / full visual-fidelity re-audit scans 1–5**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **5/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **P2R Batch R02 / full visual-fidelity re-audit scans 6–10**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **10/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -58,7 +58,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 5/224 scans complete; next 6–10**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 10/224 scans complete; next 11–15**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1472,13 +1472,22 @@ Batch R01 scans **1–5** is complete.
 - mandatory historical-family verification completed; cumulative correction-event count remains **11**.
 - progress authority — `publications/aaru-maatha-kadungkaaval/P2_REAUDIT_PROGRESS.md`.
 
+### Batch R02 — scans 6–10
+
+- **5/5 re-audited**
+- scan 6 — source short-hyphen punctuation restored.
+- scans 7–9 — PASS / no canonical text correction.
+- scan 10 — multiple direct fidelity repairs: `சத்தியத்தையும்`, removal of unsupported comma after `என்னையும்`, `மனோவேகந்தான் அப்படி யிருந்தது`, `மஞ்சத்திலே யிருப்பார்களாம்`, source short hyphens, and terminal `வைத்திருக்`.
+- historical-family correction-event count remains **11**.
+- P2R progress — **10/224**.
+
 ## Exact next activity
 
-**P2R Batch R02 — physical scans 6–10.**
+**P2R Batch R03 — physical scans 11–15.**
 
-Continue the user-requested full second visual text fidelity check exactly five scans at a time. Compare every printed word / punctuation unit against native source pixels and repeat the mandatory 13-family historical Tamil glyph audit.
+Process exactly five scans with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Do not open scan 16 in that iteration.
 
-Do not use OCR, web copies, Wikisource, TVA web text, alternate editions, or contextual completion. Existing P2 holds at scans 18 and 198 remain open and will be revisited in sequence.
+Existing P2 source-obscured holds at scans 18 and 198 remain open.
 
 ---
 

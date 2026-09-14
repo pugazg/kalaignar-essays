@@ -32,6 +32,14 @@ transcription_method: "direct visual comparison with source scan"
 - historical-glyph ambiguity இல்லை.
 - source wording அப்படியே பாதுகாக்கப்பட்டது.
 
+## P2R visual-fidelity re-audit — Batch R02
+
+- the illustrated front-matter page was rechecked from the native embedded image.
+- the only publication word is `முரசு`; its letter identities and placement above the drum illustration are source-confirmed.
+- dark/pale spots and later surface marks are non-print.
+- mandatory historical-family review found no applicable reform-sensitive cluster in the printed word.
+- result — **PASS / no correction**.
+
 ## P2 நிலை
 
 **verified** — scan 8-ன் visible printed word மற்றும் illustration role நேரடியாக உறுதிசெய்யப்பட்டன.

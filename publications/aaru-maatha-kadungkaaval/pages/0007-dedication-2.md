@@ -39,6 +39,15 @@ transcription_method: "direct visual comparison with source scan"
 - global replacement / lexical modernization செய்யப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
 
+## P2R visual-fidelity re-audit — Batch R02
+
+- scan 6 terminal `உதிரம்` → scan 7 opening `வடித்தோருக்கும்` boundary was rechecked visually; no text was pulled backward or forward beyond the physical page records.
+- every printed word and punctuation unit on scan 7, including `கண்ணீரையும்`, `பெருமூச்சோடு`, `அலைகளினூடே`, `தீரர்கட்கு`, `வணக்கம்,` and `கருணாநிதி.`, matches the canonical record.
+- a pale later physical-copy mark near the right side of the text is excluded from publication ink.
+- mandatory historical family set rechecked; `அலைகளினூடே` confirms historical `லை` identity.
+- unresolved historical-glyph ambiguity — **0**; correction-event count unchanged at **11**.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 7 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

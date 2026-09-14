@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 5/224 scans complete; next 6–10** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 10/224 scans complete; next 11–15** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1403,8 +1403,22 @@ Historical-family verification:
 
 P2R progress — **5/224**. Next range — **6–10**.
 
+### Batch R02 — scans 6–10
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 6 | PASS after correction | source short hyphens restored around `தொடர்ந்து செல்லவேண்டும்` |
+| 7 | PASS | wording/punctuation and page-boundary continuation confirmed |
+| 8 | PASS | `முரசு` only; illustration classification confirmed |
+| 9 | PASS | blank/reverse/show-through confirmed |
+| 10 | PASS after corrections | `சத்தியத்தையும்`, source spacing, source hyphens and terminal `வைத்திருக்` restored; unsupported comma removed |
+
+Historical-family verification added no correction event; cumulative count remains **11**.
+
+P2R progress — **10/224**. Next range — **11–15**.
+
 ## Exact next activity
 
-**P2R Batch R02 — scans 6–10.**
+**P2R Batch R03 — scans 11–15.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Do not use OCR, web copies, alternate editions, or contextual completion.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Do not process scan 16.

@@ -15,18 +15,18 @@ transcription_method: "direct visual comparison with source scan"
 
 முரசு
 
-ஜூன் 15ம் நாள் காலையில் சென்னையிலிருந்து திருச்சி நோக்கிப் புறப்பட்ட ஆகாய விமானம் என்னையும், தோழர் முல்லை சத்தியையும் தூக்கிக்கொண்டு பறந்தது. தேவையான, வழக்கமான வேகத்தில் விமானம் பறந்து சென்றாலுங்கூட காற்றையும் முகில்களையும் அளவுக்கு மீறிய வேகத்துடன் அது கிழித்துச் செல்வதாகவே நாங்கள் எண்ணினோம். உண்மையில் அந்தப் பறக்கும் இயந்திரத்தில் அவ்வளவு வேகமில்லை. எங்களின் மனோ வேகந்தான் அப்படியிருந்தது. என்றுமில்லாத புத்துணர்ச்சி. தோளிலே தினவு. உள்ளமெல்லாம் உவகைக் கூத்து. காரணம் என்ன?
+ஜூன் 15ம் நாள் காலையில் சென்னையிலிருந்து திருச்சி நோக்கிப் புறப்பட்ட ஆகாய விமானம் என்னையும் தோழர் முல்லை சத்தியத்தையும் தூக்கிக்கொண்டு பறந்தது. தேவையான, வழக்கமான வேகத்தில் விமானம் பறந்து சென்றாலுங்கூட காற்றையும் முகில்களையும் அளவுக்கு மீறிய வேகத்துடன் அது கிழித்துச் செல்வதாகவே நாங்கள் எண்ணினோம். உண்மையில் அந்தப் பறக்கும் இயந்திரத்தில் அவ்வளவு வேகமில்லை. எங்களின் மனோவேகந்தான் அப்படி யிருந்தது. என்றுமில்லாத புத்துணர்ச்சி. தோளிலே தினவு. உள்ளமெல்லாம் உவகைக் கூத்து. காரணம் என்ன?
 
-கல்லக்குடியிலே களம். அதற்கு நான் படைத் தலைவன். அந்த இன்பச் சேதி கேட்டு என்னுடன் தொடர்ந்த சத்தி. இருவர் இதயமும் அந்நிலையை அடைய இதைவிட வேறு காரணம் என்ன தேவை. வீதிக்கு வீதி பல வீட்டுப் புலித் தமிழர் வில்லேந்தி வாழ்ந்தனர் என்று நமது புறநானூறு பேசுகிறது. மலர்தூவிய மஞ்சத்திலேயிருப்பார்களாம்; போர் முரசின் ஒலி கிளம்புமாம் – கடைசி முத்தமாயிருப்பினும் இருக்கும் எனக் களிப்புடன் கூறி – கண்ணீர் நிறைந்த காதலியரின் கன்னங்களிலே அன்பைப் புதித்துவிட்டு மழவர்கள் தோள் தட்டி ஓடுவார்களாம்.
+கல்லக்குடியிலே களம். அதற்கு நான் படைத் தலைவன். அந்த இன்பச் சேதி கேட்டு என்னுடன் தொடர்ந்த சத்தி. இருவர் இதயமும் அந்நிலையை அடைய இதைவிட வேறு காரணம் என்ன தேவை. வீதிக்கு வீதி பல வீட்டுப் புலித் தமிழர் வில்லேந்தி வாழ்ந்தனர் என்று நமது புறநானூறு பேசுகிறது. மலர்தூவிய மஞ்சத்திலே யிருப்பார்களாம்; போர் முரசின் ஒலி கிளம்புமாம் - கடைசி முத்தமாயிருப்பினும் இருக்கும் எனக் களிப்புடன் கூறி - கண்ணீர் நிறைந்த காதலியரின் கன்னங்களிலே அன்பைப் புதித்துவிட்டு மழவர்கள் தோள் தட்டி ஓடுவார்களாம்.
 
-எஞ்சியுள்ள தமிழரின் வீரக் கவிதைகள் அந்த தித்திப்பான செய்திகளை நமக்கு சொல்லித்தான் வைத்திரு
+எஞ்சியுள்ள தமிழரின் வீரக் கவிதைகள் அந்த தித்திப்பான செய்திகளை நமக்கு சொல்லித்தான் வைத்திருக்
 
 ## அச்சு அமைப்பு
 
 - `முரசு` heading centered at the top.
 - opening body text begins on this scan.
 - visible printed folio இல்லை; suppressed folio infer செய்யப்படவில்லை; `printed_page: null`.
-- கடைசி வாக்கியம் scan boundary-ல் `வைத்திரு` என்பதுடன் உடைகிறது; continuation scan 11-ல் உள்ளது. இந்த batch-ல் scan 11 transcription செய்யப்படவில்லை.
+- கடைசி வாக்கியம் scan boundary-ல் source-visible physical fragment `வைத்திருக்` என்பதுடன் உடைகிறது; continuation scan 11-ல் உள்ளது. இந்த batch-ல் scan 11 திறக்கப்படவில்லை.
 
 ## அச்சு அல்லாத / physical-copy marks
 
@@ -40,6 +40,22 @@ transcription_method: "direct visual comparison with source scan"
 - source spelling, punctuation, paragraphing மற்றும் meaningful spacing பாதுகாக்கப்பட்டன.
 - global replacement / contextual completion / lexical modernization செய்யப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
+
+## P2R visual-fidelity re-audit — Batch R02
+
+- every visible word, punctuation mark, meaningful spacing and the physical terminal fragment were compared again with the native embedded-source image.
+- direct source corrections in this round:
+  - `என்னையும், தோழர் முல்லை சத்தியையும்` → `என்னையும் தோழர் முல்லை சத்தியத்தையும்`;
+  - `மனோ வேகந்தான் அப்படியிருந்தது` → `மனோவேகந்தான் அப்படி யிருந்தது`;
+  - `மஞ்சத்திலேயிருப்பார்களாம்` → `மஞ்சத்திலே யிருப்பார்களாம்`;
+  - en dashes around `கடைசி முத்தமாயிருப்பினும்...` → source short hyphens;
+  - terminal `வைத்திரு` → source-visible `வைத்திருக்`.
+- scan 11 was not opened; the terminal fragment was preserved exactly rather than completed contextually.
+- pale physical-copy fiber/mark near the upper body is non-publication ink.
+- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` rechecked. Representative direct forms include `முல்லை` / `தலைவன்` (`லை`) and `புறநானூறு` (`னா`).
+- unresolved historical-glyph ambiguity — **0**.
+- all corrections above are ordinary wording / punctuation / spacing fidelity repairs, not new historical-family correction events; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity corrections**.
 
 ## P2 நிலை
 

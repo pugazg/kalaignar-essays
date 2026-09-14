@@ -38,7 +38,7 @@ Direct native inspection established:
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 5/224 scans; next 6–10**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 10/224 scans; next 11–15**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -432,8 +432,18 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - historical-glyph correction-event count remains **11**
 - P2 totals remain **222 verified / 2 needs-review**
 
+### Batch R02 — scans 6–10
+
+- scans 6–10 — **5/5 re-audited**
+- scan 6 — dash punctuation corrected to direct source
+- scans 7–9 — PASS / no canonical text correction
+- scan 10 — wording, spacing, punctuation and terminal-fragment fidelity repairs completed
+- historical-glyph correction-event count remains **11**
+- P2 totals remain **222 verified / 2 needs-review**
+- P2R progress — **10/224**
+
 ## Exact next activity
 
-**P2R Batch R02 — scans 6–10.**
+**P2R Batch R03 — scans 11–15.**
 
-Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Existing source-obscured P2 holds at scans 18 and 198 remain open.
+Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Do not process scan 16 in that iteration.
