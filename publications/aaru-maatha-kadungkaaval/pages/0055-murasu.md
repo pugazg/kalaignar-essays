@@ -13,7 +13,7 @@ transcription_method: "direct visual comparison with source scan"
 
 # அச்சு உரை
 
-அப்படிக் கூவிடும் கிராமங்கள் இரண்டை எங்கள் சுற்றுப்பயணத்திலே சந்தித்தோம். நெளூர் என்று ஒரு கிராமம். இங்கே கூட்டம் கூடுமா என்று காத்துக்கிடந்தோம். “இந்தக் காரை பார்க்கவாவது பத்து பையன்கள் வருவார்கள் சார்!” என்றார் தோழர் சக்தி. இந்தக் கிராமத்தை எப்படி ஐயா கண்டுபிடித்தீர்கள் என்று அம்மா பிள்ளையும், மணியையும் நான் கேட்டேன். கூட்டம் வரட்டும் என்று சொல்லிவிட்டு நாங்கள் கொஞ்சதூரம் உலாவப் போனோம். திரும்பி வந்தோம். திடுக்கிட்டோம். ஐயாயிரம் மக்களுக்கு மேலாக அமர்ந்திருந்தார்கள். ஆச்சரியப்படாமல் இருக்க முடியவில்லை; எங்களால்! கரூர் நண்பர் கரிகாலனின் முயற்சிகளிலே ஒரு நல்ல அறுவடை நெளூரில் கழகம்.
+அப்படிக் கூவிடும் கிராமங்கள் இரண்டை எங்கள் சுற்றுப்பயணத்திலே சந்தித்தோம். நெளூர் என்று ஒரு கிராமம். இங்கே கூட்டம் கூடுமா என்று காத்துக்கிடந்தோம். “இந்தக் காரை பார்க்கவாவது பத்து பையன்கள் வருவார்கள் சார்!” என்றார் தோழர் சக்தி. இந்தக் கிராமத்தை எப்படி அய்யா கண்டுபிடித்தீர்கள் என்று அம்மா பிள்ளையும், மணியையும் நான் கேட்டேன். கூட்டம் வரட்டும் என்று சொல்லிவிட்டு நாங்கள் கொஞ்சதூரம் உலாவப் போனோம். திரும்பி வந்தோம். திடுக்கிட்டோம். ஐயாயிரம் மக்களுக்கு மேலாக அமர்ந்திருந்தார்கள். ஆச்சரியப்படாமல் இருக்க முடியவில்லை; எங்களால்! கரூர் நண்பர் கரிகாலனின் முயற்சிகளிலே ஒரு நல்ல அறுவடை நெளூரில் கழகம்.
 
 நெளூர் நண்பர்கள் பாராட்டுக்குரியவர்கள். அதே போல் எசனே என்று ஒரு ஊர் - அங்கேயும் கூட்டம். நெளூர் நிகழ்ச்சிக்கு முதல்நாள் சின்ன தாராபுரம் கூட்டம் நடைபெற்றது. சின்ன தாராபுரத்திலே கழகத்தை வளர்க்க உணர்ச்சிமிக்க காளையர் மிகப்பலர் இருக்கிறார்கள். கூட்டத்திற்கு முன்பு ஒரு ஊர்வலம் நடத்தினார்கள். அடடா! அதிலே ஒலியெழுப்பும்போது அந்த இளைஞரேறுகள் கொண்ட ஆர்வமிருக்கிறதே; அது கொந்தளிக்கும் கடலையும் வெல்லும்! குமுறிவரும் படையையும் கொல்லும்! சின்ன தாராபுரம் கூட்டத்திற்கு மறுநாள் தான் எசனேயிலே கூட்டம். பழைய பட்டிக்காடு அது!
 
@@ -39,6 +39,18 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` குடும்பங்கள் explicit-ஆகச் சரிபார்க்கப்பட்டன.
 - `நெளூர்`, `எசனே`, `இளைஞரேறுகள்`, `அதிர் வேட்டுக்களே` ஆகிய source-visible readings மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
+
+## P2R visual-fidelity re-audit — Batch R11
+
+- scan 54 closes its exhortation; scan 55 begins a new paragraph and was audited independently through the terminal open-quotation fragment `வளர்ந்துவரும்`.
+- every printed word, quote, punctuation mark, meaningful spacing and place-name form was compared with native source pixels.
+- direct source correction: `இந்தக் கிராமத்தை எப்படி ஐயா கண்டுபிடித்தீர்கள்` → **`இந்தக் கிராமத்தை எப்படி அய்யா கண்டுபிடித்தீர்கள்`**. A tight native-pixel check clearly shows initial `அ` followed by `ய்யா`.
+- source-visible forms including `நெளூர்`, `எசனே`, `சின்ன தாராபுரம்`, `காளையர்`, `இளைஞரேறுகள்`, `மறுநாள் தான்`, and `அதிர் வேட்டுக்களே!` remain unchanged.
+- scan 56 was not opened; `வளர்ந்துவரும்` remains the exact terminal physical fragment.
+- mandatory historical-family verification was repeated; `காளையர்` / `இளைஞரேறுகள்` reconfirm `ளை`, with all other tracked families unambiguous.
+- the `ஐயா` → `அய்யா` repair is an ordinary orthographic source-fidelity correction, not a tracked historical-vowel-family event.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity correction**.
 
 ## P2 நிலை
 

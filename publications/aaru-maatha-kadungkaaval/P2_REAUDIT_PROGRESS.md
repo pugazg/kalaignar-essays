@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **50/224**
-- completed range — **1–50**
-- next range — **51–55**
+- re-audited — **55/224**
+- completed range — **1–55**
+- next range — **56–60**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **11**
@@ -234,8 +234,31 @@ Ordinary source-fidelity corrections in Batch R10 — **1**.
 
 P2 canonical totals remain **222 verified / 2 needs-review**.
 
+## Batch R11 — scans 51–55
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 51 | body / folio 48 | PASS | heading / full text / punctuation / physical terminal fragment confirmed; no canonical correction |
+| 52 | body / folio 49 | PASS | `புறப்` + `பட்டோம்` boundary, numerals and full text confirmed; no canonical correction |
+| 53 | body / folio 50 | PASS | `வந்திருக்க` + `குமே!` boundary and full text / quote fidelity confirmed; no canonical correction |
+| 54 | body / folio 51 | PASS after correction | `எதென்ஸ் பெரியோன்` → source-visible `எதென்சுப் பெரியோன்` |
+| 55 | body / folio 52 | PASS after correction | `எப்படி ஐயா கண்டுபிடித்தீர்கள்` → source-visible `எப்படி அய்யா கண்டுபிடித்தீர்கள்` |
+
+Historical-family findings:
+
+- scan 51 — `தண்டனை` (`னை`), `இளைஞர்` (`ளை`);
+- scan 52 — `திருக்குவளை` reconfirms `ளை`;
+- scan 53 — `சால்வை` confirms `லை` with same-font family checks;
+- scan 54 — `இளைஞர்` (`ளை`), `வேலைகள்` / `விடுதலை` (`லை`);
+- scan 55 — `காளையர்` / `இளைஞரேறுகள்` reconfirm `ளை`;
+- new historical-family correction events — **0**; cumulative count remains **11**.
+
+Ordinary source-fidelity corrections in Batch R11 — **2**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**.
+
 ## Exact next activity
 
-**Batch R11 — physical scans 51–55.**
+**Batch R12 — physical scans 56–60.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **55**; do not process scan 56.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **60**; do not process scan 61.

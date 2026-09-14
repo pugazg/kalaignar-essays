@@ -44,6 +44,16 @@ transcription_method: "direct visual comparison with source scan"
 - `எத்திராஜ்`, `மூன்றுமாத்`, `தோழர்கட்கு`, `நாட்டுப்பணி` ஆகிய source-visible forms மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R11
+
+- scan 50 terminal `பாதை தவறியதின்` + scan 51 opening `காரணமாக` was visually reconfirmed as the physical continuation.
+- every printed word, numeral, punctuation unit, heading, meaningful spacing and terminal fragment `புறப்` was compared with native source pixels.
+- source-visible forms including heading `அரியலூர் :`, `22ந் தேதி`, `மக்களுக்கெதிரே`, `மூன்றுமாத் தண்டனை`, `எத்திராஜ்-`, `தோழர்கட்கு`, and `ஒரு நல் வாய்ப்புத்தான்` all match the canonical record.
+- stains / paper wear are non-publication layers and do not obscure canonical print.
+- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was rechecked; representative direct forms include `நாட்டுப்பணி`, `தண்டனை` (`னை`) and `இளைஞர்` (`ளை`).
+- unresolved historical-glyph ambiguity — **0**; no new historical-family correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 51 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

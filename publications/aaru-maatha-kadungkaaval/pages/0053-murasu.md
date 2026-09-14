@@ -41,6 +41,16 @@ transcription_method: "direct visual comparison with source scan"
 - `பூணூலும்`, `வினோபாபாவே`, `காந்திக் குல்லாய்`, `பழுப்புப் பூக்கள்`, `கடமை யுணர்ச்சி` ஆகிய source-visible forms மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R11
+
+- scan 52 terminal `வந்திருக்க` + scan 53 opening `குமே!` was visually confirmed as `வந்திருக்குமே!` while preserving the two physical page fragments.
+- every printed word, quote, punctuation separator, meaningful spacing and terminal `அவர்` was rechecked from native source pixels.
+- source-visible forms including `‘பூணூலும்,`, `வினோபாபாவே`, `ஊர்க்கேச் சுற்றிச் சுற்றி`, `காந்திக் குல்லாய்`, `பழுப்புப் பூக்கள்`, `கடமை யுணர்ச்சி`, and `தன்னந்தனியாகச்` remain unchanged.
+- no lexical or quote normalization was introduced.
+- mandatory historical-family review was repeated; representative direct forms include `பூணூலும்`, `மண்ணின்`, `சால்வை` (`லை`) and same-font tracked-family comparisons.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 53 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

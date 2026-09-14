@@ -17,7 +17,7 @@ transcription_method: "direct visual comparison with source scan"
 
 அவர் போன்றவர்கள் கிராமங்களிலே தோன்றவேண்டும். நமது கழகம் சில ஆண்டுகளாக கிராமாந்திர மக்களின் மனதில் குடி புகுந்திருக்கிறது - பிரச்சாரப் படையும், தலைவர்களும் செல்லமுடியாத பட்டி தொட்டிகள் நிறைய இருக்கின்றன. அங்கெல்லாம் என் நெஞ்சை விட்டகலாத தெருப் பிரசங்கிகள் கிளம்பவேண்டும், எதென்ஸ் நகரத்திலே சாக்ரடீஸ் எழுந்தது போல!
 
-கடைத் தெருவிலே - சந்து முனையிலே - நடைபாதைகளிலே - குளக்கரையிலே - சிற்றூர்களின் ஓரத்திலே - சிங்காரக் கொல்லைகளின் அருகாமையிலே - போவோர் வருவாரை நிறுத்திவைத்து நீண்ட பிரசங்கம் செய்வானும் எதென்ஸ் பெரியோன் சாக்ரடீஸ்!
+கடைத் தெருவிலே - சந்து முனையிலே - நடைபாதைகளிலே - குளக்கரையிலே - சிற்றூர்களின் ஓரத்திலே - சிங்காரக் கொல்லைகளின் அருகாமையிலே - போவோர் வருவாரை நிறுத்திவைத்து நீண்ட பிரசங்கம் செய்வானும் எதென்சுப் பெரியோன் சாக்ரடீஸ்!
 
 கற்ற பெரியோர் - இளைஞர் - மாணவர் - எத்தனையோ வேலைகள் வேண்டாமென பட்டி தொட்டிகளிலே பயிர் பச்சையைக் கவனித்தபடியும் - ஓய்வு நேரத்தை எப்படிக் கழிப்பது என்று தெரியாதபடியும் இருக்கிறார்கள்! அவர்கள் எல்லாம் - தெருப் பிரசங்கிகளாக ஆகலாம். திராவிடத்து மண்ணை தீராத அடிமையிலிருந்து மீட்டிட திரா படையைத் திரட்டலாம்.
 
@@ -44,6 +44,17 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` குடும்பங்கள் explicit-ஆகச் சரிபார்க்கப்பட்டன.
 - `குட்டப்படுகிற`, `போவோர் வருவாரை`, `எத்தனையோ வேலைகள் வேண்டாமென`, `திரா படையைத்` ஆகிய source-visible readings context மூலம் normalize செய்யப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
+
+## P2R visual-fidelity re-audit — Batch R11
+
+- scan 53 terminal `அவர்` + scan 54 opening `பிரச்சாரப் பணியில்` was rechecked as the sentence continuation.
+- every printed word, punctuation separator, meaningful spacing and both quoted closing lines were compared with native source pixels.
+- direct source correction: `எதென்ஸ் பெரியோன் சாக்ரடீஸ்!` → **`எதென்சுப் பெரியோன் சாக்ரடீஸ்!`**. The enlarged source clearly prints the sandhi suffix `ப்`; this was read from the glyphs, not supplied from context.
+- source-visible forms including `குட்டப்படுகிற`, `விட்டகலாத`, `கடைத் தெருவிலே`, `போவோர் வருவாரை`, `திரா படையைத்`, and `“விடுதலை! விடுதலை!”` remain unchanged.
+- mandatory historical-family verification was repeated; `இளைஞர்` reconfirms `ளை`, `வேலைகள்` / `விடுதலை` reconfirm `லை`, and all remaining tracked families are unambiguous.
+- the `எதென்ஸ்` → `எதென்சுப்` repair is an ordinary source-word fidelity correction, not a historical-vowel-family correction event.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-fidelity correction**.
 
 ## P2 நிலை
 

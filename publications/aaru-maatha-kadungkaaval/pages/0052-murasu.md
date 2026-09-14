@@ -35,6 +35,16 @@ transcription_method: "direct visual comparison with source scan"
 - `திருவாரூர்க்காரன்`, `திருக்குவளை`, `காங்கிரஸ் மூவர்ணக் கொடியுடன்`, `கட கட வென`, `அப்படி யொன்றும்` ஆகிய source-visible forms/spacing மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R11
+
+- scan 51 terminal `புறப்` + scan 52 opening `பட்டோம்` was rechecked as the physical split `புறப்பட்டோம்`.
+- every printed word, numeral, quote, punctuation mark, meaningful spacing and terminal fragment `வந்திருக்க` was compared directly with the native source image.
+- source-visible forms including `திருவாரூர்க்காரன்`, `‘திருக்குவளை’`, `1934 - 35ம் ஆண்டு`, `காங்கிரஸ் மூவர்ணக் கொடியுடன்`, `கட கட வென`, `நினைத்துப்பார்த்தால்`, and `அப்படி யொன்றும்` all match the canonical record.
+- source stains / print wear remain outside the publication-text layer.
+- mandatory historical-family verification was repeated; `திருக்குவளை` directly reconfirms `ளை`, and same-typeface `ணா / னை / லை` families remain unambiguous.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 52 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.
