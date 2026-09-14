@@ -1651,7 +1651,7 @@ P2R progress — **90/224**. P2 remains **222 verified / 2 needs-review**. Guess
 | 94 | PASS | scan-93 continuation / full text / punctuation / open terminal `கும்பாபிஷேகம்` confirmed |
 | 95 | PASS | scan-94 continuation / full text / punctuation / ending confirmed; scan 96 not opened |
 
-Historical-family verification added **0 new correction events**; cumulative count remains **11**. Ordinary source-fidelity corrections — **3**.
+Historical-family verification added **0 new correction events**; cumulative count remains **11**. Ordinary source-fidelity corrections — **6**.
 
 P2R progress — **95/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **96–100**.
 
