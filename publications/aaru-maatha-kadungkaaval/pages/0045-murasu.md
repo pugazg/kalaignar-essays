@@ -37,6 +37,17 @@ transcription_method: "direct visual comparison with source scan"
 - `தஞ்சையிலே யிருந்து`, `துணிவுடை நெஞ்சு`, `அக் கழகத் துவக்க விழா`, `ஆசி தேவை`, `நல் வாய்ப்பாயிற்று` ஆகிய source-visible forms/spacing மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R09
+
+- scan 44 terminal `கண்ணதாச` + scan 45 opening `னும் வந்திருந்தார்.` was source-confirmed as `கண்ணதாசனும் வந்திருந்தார்.`.
+- every printed word, punctuation separator, meaningful spacing and the terminal open-quotation fragment `காய` was compared directly with native source pixels.
+- source-visible wording including `தஞ்சையிலே யிருந்து`, `பீடி சுற்றும் தொழிலாளிகள்`, `துணிவுடை நெஞ்சு`, `அக் கழகத் துவக்க விழா`, `சோடாபுட்டிகளை`, `ஆசி தேவை`, `நல் வாய்ப்பாயிற்று`, and the repeated `முஸ்லிம்` references all match the canonical record.
+- no scan-46 continuation was used; `காய` remains the exact physical terminal fragment.
+- source stains / print wear are non-publication layers.
+- mandatory historical-family verification was repeated; `அண்ணாவும்` reconfirms `ணா`, and all other visible reform-sensitive families remain unambiguous.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 45 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

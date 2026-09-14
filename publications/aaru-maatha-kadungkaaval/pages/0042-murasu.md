@@ -13,7 +13,7 @@ transcription_method: "direct visual comparison with source scan"
 
 # அச்சு உரை
 
-தொழிற்கல்வி முறைதான் சிறந்தது எனக் கொள்ளப்பட்டு அவ்வழியிலே மேல் நாடுகள் சென்று மேன்மையுறுகின்றன:
+தொழிற் கல்வி முறைதான் சிறந்தது எனக் கொள்ளப்பட்டு அவ்வழியிலே மேல் நாடுகள் சென்று மேன்மையுறுகின்றன:
 
 ஆளும் வர்க்கம் - பாதுகாக்கும் வர்க்கம் - தொழில் வாணிபம் முதலிய வர்க்கம் - என்று அரசியலிலே மூன்று முக்கியமான - உன்னதமான பிரிவுகளைப் பிரித்துக் காட்டி, பிறப்பின் காரணமாக இல்லாமல் சிறப்பின் காரணமாக அந்தந்த வர்க்கத்தில் இடம்பெற எந்த மனிதனுக்கும் உரிமையுண்டு என்பதையும் எடுத்துக் காட்டி - அத்தகைய மூன்று பிரிவிற்கும் தேவையான கல்வியை அவர்களுக்கு இளமையில் போதிக்க வேண்டும் என்றும் - யார் எந்தப் பிரிவு கல்வியை விரும்புகிறார்கள் என்று பார்த்து அந்தத் துறைக் கல்வியை அவர்கட்கு வழங்க வேண்டுமென்றும் உலகக் கல்வித் திட்டத்திற்குக் கைகாட்டியாக இருந்த பேரறிஞன் பிளேட்டோ எழுதி வைத்திருக்கிறான்.
 
@@ -36,6 +36,17 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` குடும்பங்கள் explicit-ஆகச் சரிபார்க்கப்பட்டன.
 - `அவனவன்`, `குலத்தொழிலில்`, `வர்ணாசிரமத் திட்டம்`, `பிராமண - க்ஷத்திரிய - வைஸ்ய - சூத்ர` ஆகிய source-visible wording மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
+
+## P2R visual-fidelity re-audit — Batch R09
+
+- scan 41 terminal `பழக்கிடும்` + scan 42 opening was rechecked as the sentence continuation.
+- direct source-spacing correction: `தொழிற்கல்வி முறைதான்` → **`தொழிற் கல்வி முறைதான்`**; the native page clearly prints a word space after `தொழிற்`.
+- every other printed word / punctuation unit / meaningful spacing and terminal `ஈர` matches the source, including `ஆளும் வர்க்கம் - பாதுகாக்கும் வர்க்கம் - தொழில் வாணிபம் முதலிய வர்க்கம் -`, `அவர்கட்கு`, `அவனவன்`, `வர்ணாசிரமத் திட்டம்`, and `பிராமண - க்ஷத்திரிய - வைஸ்ய - சூத்ர`.
+- source-visible stains / print wear are non-publication layers.
+- mandatory historical-family verification was repeated; representative forms include `இளமையில்` (`ளை`), `அவனவன்` / `வர்ணாசிரமத்` same-typeface comparisons, and `வெள்ளத்தால்` reform-sensitive family checks.
+- the spacing repair is an ordinary source-fidelity correction, not a historical-vowel-family correction event.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after source-spacing correction**.
 
 ## P2 நிலை
 

@@ -37,6 +37,16 @@ transcription_method: "direct visual comparison with source scan"
 - source-visible `மறுக்க வில்லை`, `வயதுக் குட்பட்டவர்கள்`, `அர்த்த மிருக்கிறது`, `வேலை யின்மீது`, `தறிந்து` ஆகிய forms/spacing context மூலம் மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R09
+
+- scan 40 terminal `கற்றுக்` + scan 41 opening `கொண்டால்` was rechecked directly as the physical cross-page continuation.
+- every printed word, numeral, punctuation mark, meaningful spacing and terminal fragment `பழக்கிடும்` was compared with native source pixels.
+- source-visible forms including `மறுக்க வில்லை`, `வயதுக் குட்பட்டவர்கள்`, `இந் நாட்டில்`, `போதிக்கப் படுகிறது`, `அர்த்த மிருக்கிறது`, `வேலை யின்மீது`, and `தறிந்து` all match the canonical record.
+- minor stains / print wear are non-publication layers and leave no canonical character unresolved.
+- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was rechecked; representative direct forms include `நாராயணர்களாம்` (`ணா`) and `வேலை` (`லை`).
+- unresolved historical-glyph ambiguity — **0**; no new historical-family correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 41 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

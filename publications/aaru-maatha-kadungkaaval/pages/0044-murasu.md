@@ -42,6 +42,16 @@ transcription_method: "direct visual comparison with source scan"
 - `கொண்டாட்ட முடன்`, `ஸ்திரீலோலனைக்`, `குழந்தைகட்கு`, `சட்ட சபையே` ஆகிய source-visible forms/spacing மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை; cumulative correction count மாற்றமில்லை.
 
+## P2R visual-fidelity re-audit — Batch R09
+
+- scan 43 terminal `பாடமாக` + scan 44 opening `காதீர்கள்”` was rechecked as the physical continuation `பாடமாக்காதீர்கள்”`.
+- every printed word, numeral, quote, punctuation separator, meaningful spacing and terminal fragment `கண்ணதாச` was compared with native source pixels.
+- source-visible forms including `மும்மூர்த்தி லீலைகளைப்பற்றி`, `கொண்டாட்ட முடன்`, `ஸ்திரீலோலனைக்`, `குழந்தைகட்கு`, `நல்லோர் எச்சரித்தனர்-`, `நிறுத்தி வைத்திடுக`, `சட்ட சபையே`, and `21ம் நாள்` all match the canonical record.
+- stains / print wear are non-publication layers and do not obscure text.
+- mandatory historical-family review was repeated; `கண்ணன்` / `கண்ணதாச` same-typeface forms, `நிறுத்தி`, and other reform-sensitive clusters remain unambiguous.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 44 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

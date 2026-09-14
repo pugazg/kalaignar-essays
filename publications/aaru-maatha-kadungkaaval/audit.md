@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 40/224 scans complete; next 41–45** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 45/224 scans complete; next 46–50** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1501,8 +1501,22 @@ Historical-family verification added **0 new correction events**; cumulative cou
 
 P2R progress — **40/224**. P2 remains **222 verified / 2 needs-review**. Next range — **41–45**.
 
+### Batch R09 — scans 41–45
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 41 | PASS | complete text / punctuation / spacing / boundary review; no correction |
+| 42 | PASS after correction | `தொழிற்கல்வி` → source-visible `தொழிற் கல்வி` |
+| 43 | PASS after correction | `கூறினால் - அவர்களும்` → source-visible `கூறினால்-அவர்களும்` |
+| 44 | PASS | complete text / numerals / quotation / spacing / boundary review; no correction |
+| 45 | PASS | complete text / punctuation / physical terminal fragment review; no correction |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **11**. Ordinary source-fidelity corrections — **2**.
+
+P2R progress — **45/224**. P2 remains **222 verified / 2 needs-review**. Next range — **46–50**.
+
 ## Exact next activity
 
-**P2R Batch R09 — scans 41–45.**
+**P2R Batch R10 — scans 46–50.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 45.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 50.
