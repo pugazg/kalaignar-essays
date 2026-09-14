@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 140/224 scans complete; next 141–145** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 145/224 scans complete; next 146–150** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1789,8 +1789,23 @@ Historical-family verification added **3 new correction events** — one `றா
 P2R progress — **140/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **141–145**.
 
 
+### Batch R29 — scans 141–145
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 141 | PASS after correction | `தெருக்களில்` → source-visible `தெருக்களிலே`; scan-140 continuation / complete text confirmed |
+| 142 | PASS | complete text / irregular quotation-dash punctuation / ending confirmed |
+| 143 | PASS | food sequence / card-book paragraph / terminal `புத்தகமளித்து` confirmed |
+| 144 | PASS after correction | `சிறைச்சாலையில்` → source-visible `சிறைச் சாலையில்`; scan-143 continuation / terminal `அரிசிச்சோறு` confirmed |
+| 145 | PASS | headings / complete text / terminal `தன்னிட` confirmed; scan 146 not opened |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **17**. Ordinary source-fidelity corrections — **2**.
+
+P2R progress — **145/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **146–150**.
+
+
 ## Exact next activity
 
-**P2R Batch R29 — scans 141–145.**
+**P2R Batch R30 — scans 146–150.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 145; do not process scan 146.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 150; do not process scan 151.

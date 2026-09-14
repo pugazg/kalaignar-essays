@@ -50,6 +50,20 @@ transcription_method: "direct visual comparison with source scan"
 - `ஆண்`, `தனித் தனி`, and other potentially sensitive clusters were resolved from source pixels rather than modern visual resemblance.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R29
+
+- every printed word, numeral, heading, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal physical fragment was rechecked directly from the attached source pixels.
+- scan 144 terminal `அரிசிச்சோறு` → this page’s opening `சிறிது அளவில் பெரிதாய்விடும்.` continuation was reconfirmed.
+- source-visible headings `கணக்கு வருது!` and `கெடிகாரம் போவது!` were reconfirmed exactly.
+- source-visible forms including `ஆறுமணிக்கெல்லாம்`, `ஆண் குயில்கள்`, `மகுடித் தொணிகேட்டு`, `பாம்புகளுக்குவேறு`, `தேள்களேயாவது`, `முத்தமிட்டுமிருக்கின்றன`, `கணக்குவந்துவிட்டது`, and `ஒருதரம்` were preserved.
+- exact terminal physical fragment `தன்னிட` was preserved; scan 146 was not opened or processed.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `ஆண்`, `தனித் தனி`, and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **17**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 145 was fully compared with source pixels.

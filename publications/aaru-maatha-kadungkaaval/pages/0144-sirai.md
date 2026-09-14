@@ -19,7 +19,7 @@ transcription_method: "direct visual comparison with source scan"
 
 அந்தத் தகவல் எடுத்துக்கொண்டு வேணு ஓடுவார். நானூறு பேரில் அவர்களை சிரமப்பட்டு கண்டு பிடித்து ‘இண்டர்வியூ’க்கு அனுப்பிவைப்பார். புகாரி சாகிப்பின் ‘ஆஸ்பத்திரி’ - கூவல் மீண்டும் கிளம்பும். மாலை 4 மணிக்கு மக்கள் மன்றத்தை கூட்டும் பொறுப்பை வேணு சரிவரச் செய்து முடிப்பார். அந்தந்த பிளாக் தலைவர்களும் - தங்கள் தோழர்களுடன் மக்கள் மன்றத்திற்கு வந்து சேருவார்கள்.
 
-மக்கள் மன்றம் - நாள்தோறும் - தலைவரின் - தலைமையிலே தொடங்கும். சிறைச்சாலையில் நடந்துகொள்ள வேண்டிய முறைகள் பற்றியும் - கழகத்தின் கடமை - கட்டுப்பாடு பற்றியும் சொற்பொழிவு நிகழ்த்தப்படும். தினம் - ஒரு பொருளின் மீது பல தோழர்கள் உரையாற்றுவார்கள். இறுதியில் தலைவரின் முடிவுரையுடன் மன்றம் கலையும். சிறு குற்றம் செய்தவர்களும் - மன்றத்தில் விசாரிக்கப்பட்டு - பெரும்பான்மையோர் எண்ணத்திற்கு இணங்க - மன்றத்தின் முன்பு மன்னிப்பு கேட்டுக் கொள்வார்கள்.
+மக்கள் மன்றம் - நாள்தோறும் - தலைவரின் - தலைமையிலே தொடங்கும். சிறைச் சாலையில் நடந்துகொள்ள வேண்டிய முறைகள் பற்றியும் - கழகத்தின் கடமை - கட்டுப்பாடு பற்றியும் சொற்பொழிவு நிகழ்த்தப்படும். தினம் - ஒரு பொருளின் மீது பல தோழர்கள் உரையாற்றுவார்கள். இறுதியில் தலைவரின் முடிவுரையுடன் மன்றம் கலையும். சிறு குற்றம் செய்தவர்களும் - மன்றத்தில் விசாரிக்கப்பட்டு - பெரும்பான்மையோர் எண்ணத்திற்கு இணங்க - மன்றத்தின் முன்பு மன்னிப்பு கேட்டுக் கொள்வார்கள்.
 
 மாலை 5-30 மணிக்கெல்லாம் இரவு உணவு வந்து விடும். இப்போது சோளக்களி வராது. அரிசிச்சோறு
 
@@ -28,7 +28,7 @@ transcription_method: "direct visual comparison with source scan"
 - visible printed folio — **141**.
 - running header — `ஆறுமாதக் கடுங்காவல்`.
 - scan 143 terminal `புத்தகமளித்து` continues directly with this page’s `படித்தவைகளை...`.
-- source-visible forms including `வாசக சாலையில்`, `நண்பர்களோ-உறவினர்களோ-வருவர்`, `கண்டு பிடித்து`, `‘ஆஸ்பத்திரி’ - கூவல்`, and `தலைவரின் - தலைமையிலே` were preserved.
+- source-visible forms including `வாசக சாலையில்`, `நண்பர்களோ-உறவினர்களோ-வருவர்`, `கண்டு பிடித்து`, `‘ஆஸ்பத்திரி’ - கூவல்`, `தலைவரின் - தலைமையிலே`, and `சிறைச் சாலையில்` were preserved.
 - page ends at physical fragment `அரிசிச்சோறு`; scan 145 begins `சிறிது அளவில்...`.
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -42,6 +42,20 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - `தலைவரின்`, `மன்னிப்பு`, and other sensitive clusters were read by historical character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R29
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal physical fragment was rechecked directly from the attached source pixels.
+- scan 143 terminal `புத்தகமளித்து` → this page’s opening `படித்தவைகளை...` continuation was reconfirmed.
+- direct source-spacing correction: `சிறைச்சாலையில் நடந்துகொள்ள` → **`சிறைச் சாலையில் நடந்துகொள்ள`**. Enlarged source pixels show a normal inter-word space between `சிறைச்` and `சாலையில்`.
+- source-visible forms including `வாசக சாலையில்`, `நண்பர்களோ-உறவினர்களோ-வருவர்`, `கண்டு பிடித்து`, `‘ஆஸ்பத்திரி’ - கூவல்`, and `தலைவரின் - தலைமையிலே` were otherwise reconfirmed.
+- exact terminal `அரிசிச்சோறு` was preserved; scan 145 begins `சிறிது அளவில் பெரிதாய்விடும்.`.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `தலைவரின்` / `தலைமையிலே` (`லை`) and the full 13-family set were checked by character identity.
+- ordinary source-fidelity corrections on this scan — **1**.
+- new historical-family correction events — **0**; cumulative count remains **17**.
+- result — **PASS after source-fidelity correction**.
+
 
 ## P2 நிலை
 

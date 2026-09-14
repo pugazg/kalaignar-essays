@@ -40,6 +40,19 @@ transcription_method: "direct visual comparison with source scan"
 - historical forms in `தலைவர்களும்`, `தலை`, and related clusters were decoded by character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R29
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header, visible folio and terminal physical fragment was rechecked directly from the attached source pixels.
+- source-visible forms including `நாலைந்து`, `தாப்படும்`, `அளவுக் களியும்`, `சிரஞ்சீவிப் பொருள்கள்`, `துவரை`, `களைப்பாறுபடலம்`, and `உள் நாட்டு` were reconfirmed without normalization.
+- the five-item food sequence and the card / book-distribution paragraph were checked word by word.
+- exact terminal `புத்தகமளித்து` was preserved; scan 144 begins `படித்தவைகளை...`.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `தலைவர்களும்` (`லை`) and `களைப்பாறுபடலம்` (`ளை / றா`) were reconfirmed, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **17**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 143 was fully compared with source pixels.

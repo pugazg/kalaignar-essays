@@ -41,6 +41,18 @@ transcription_method: "direct visual comparison with source scan"
 - `உண்ணா விரதம்` and other potentially sensitive clusters were read by character identity before Unicode transcription.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R29
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- source-visible forms including `முக்யமான`, `தாரைப்பூசி`, `நான்கூட`, `அரியவேலையை`, and `எடுத்துவரும்` were reconfirmed.
+- the source’s irregular quotation / dash sequence around the `கோதாவரி` passage was rechecked directly and retained without editorial regularization.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `உண்ணா விரதம்` (`ணா`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **17**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 142 was fully compared with source pixels.

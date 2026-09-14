@@ -17,14 +17,14 @@ transcription_method: "direct visual comparison with source scan"
 
 “நீர்மேல் நடக்கலாம்” என்று பாட்டு படித்திருக்கிறோம். அப்படி நடந்து காண்பித்தவர் தோழர் வேலு. ஆம் - ஜலஸ்தாபன மந்திரி! தண்ணீர்த் தொட்டியின் மேலேயே கால்முதல் பிற்பகல் 3 மணி வரையிலே நடை பழகுவார். அவர் போட்டிருந்த பனியனுக்கு உட்பட்ட பாகமெல்லாம் சிகப்பாகவும் - மற்ற இடமெல்லாம் கருப்பாகவும் மாறி - ஆளே இரு கலர் மனிதனைத் தோன்றினார் என்றால் பார்த்துக் கொள்ளுங்களேன்; அவப்பட்ட கஷ்டத்தை!
 
-கஞ்சிக்கும் - குளியலுக்கு மிடையிலே - பிளாக் வாசல்களில் ஒரு ஒலி கிளம்பும். “ஆஸ்பத்திரி! ஆஸ்பத்திரி!” என்ற ஒலி! அதுபோன்ற சப்தம் நமது ஊர்த் தெருக்களில் கிளம்பினால் “சரிதான் - சான்ஸ் எதுவும் கிடைக்காமல், யாரோ ஒரு டாக்டர் ஆஸ்பத்திரியை விலே கூறுகிறாராக்கும்” என்று நினைப்போம். சிறை ராஜ்யத்திலே வரும் இந்த ஒலிவேறு - சுகாதார மந்திரி புகாரி சாகிப் - தன்னுடைய தேன்கூடு வடிவமுள்ள தாடியைத் தடவியபடி “ஆஸ்பத்திரிக்கு யாராவது வருகிறீர்களா?” என்று கூவுவார். அவர் ஒரு ஐம்பது பேரையாவது தினந்தோறும் மருத்துவமனைக்கு அழைத்துச் சென்று திரும்புவார்.
+கஞ்சிக்கும் - குளியலுக்கு மிடையிலே - பிளாக் வாசல்களில் ஒரு ஒலி கிளம்பும். “ஆஸ்பத்திரி! ஆஸ்பத்திரி!” என்ற ஒலி! அதுபோன்ற சப்தம் நமது ஊர்த் தெருக்களிலே கிளம்பினால் “சரிதான் - சான்ஸ் எதுவும் கிடைக்காமல், யாரோ ஒரு டாக்டர் ஆஸ்பத்திரியை விலே கூறுகிறாராக்கும்” என்று நினைப்போம். சிறை ராஜ்யத்திலே வரும் இந்த ஒலிவேறு - சுகாதார மந்திரி புகாரி சாகிப் - தன்னுடைய தேன்கூடு வடிவமுள்ள தாடியைத் தடவியபடி “ஆஸ்பத்திரிக்கு யாராவது வருகிறீர்களா?” என்று கூவுவார். அவர் ஒரு ஐம்பது பேரையாவது தினந்தோறும் மருத்துவமனைக்கு அழைத்துச் சென்று திரும்புவார்.
 
 ## அச்சு அமைப்பு
 
 - visible printed folio — **138**.
 - running header — `கருணாநிதி`.
 - scan 140 terminal `எல்லோரும் குளிக்கக்` continues directly with this page’s `கூடிய அளவுக்கு...`.
-- source-visible forms including `குளியலுக்கு மிடையிலே`, `கால்முதல்`, `இரு கலர்`, `விலே கூறுகிறாராக்கும்`, and `ஒலிவேறு` were preserved without contextual normalization.
+- source-visible forms including `குளியலுக்கு மிடையிலே`, `கால்முதல்`, `இரு கலர்`, `தெருக்களிலே`, `விலே கூறுகிறாராக்கும்`, and `ஒலிவேறு` were preserved without contextual normalization.
 - historical `றா` identity in `என்றால்` was resolved from the enlarged source glyph rather than its modern visual resemblance.
 - page ends with complete `அழைத்துச் சென்று திரும்புவார்.`
 
@@ -39,6 +39,19 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - character identity was separated from lexical expectation; no global replacement or modernization was applied.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
+
+## P2R visual-fidelity re-audit — Batch R29
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- scan 140 terminal `எல்லோரும் குளிக்கக்` → this page’s opening `கூடிய அளவுக்கு...` continuation was reconfirmed without rewriting either physical page record.
+- direct source-text correction: `நமது ஊர்த் தெருக்களில் கிளம்பினால்` → **`நமது ஊர்த் தெருக்களிலே கிளம்பினால்`**. The source line break is `தெருக்` + `களிலே`, establishing the lexical form `தெருக்களிலே`.
+- source-visible forms including `குளியலுக்கு மிடையிலே`, `கால்முதல்`, `இரு கலர்`, `விலே கூறுகிறாராக்கும்`, and `ஒலிவேறு` were otherwise reconfirmed.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `குவளைகள்` (`ளை`) and historical `றா` identity in `என்றால்` were reconfirmed, with the full 13-family set checked by character identity.
+- ordinary source-fidelity corrections on this scan — **1**.
+- new historical-family correction events — **0**; cumulative count remains **17**.
+- result — **PASS after source-fidelity correction**.
+
 
 ## P2 நிலை
 
