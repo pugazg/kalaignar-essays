@@ -1195,20 +1195,43 @@ Batch 050 result:
 - scan 176 was not opened.
 - unrelated existing holds were intentionally left for the later correction pass.
 
-## P2 cumulative totals through Batch 050
+### Batch 051 — backlog scans 176–180
+
+Focused archival-fidelity re-read from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 176 — `pages/0176-sirai.md` — **verified** — printed folio 173 — extract page 27
+- scan 177 — `pages/0177-sirai.md` — **verified** — printed folio 174 — extract page 28
+- scan 178 — `pages/0178-sirai.md` — **verified** — printed folio 175 — extract page 29
+- scan 179 — `pages/0179-sirai.md` — **verified** — printed folio 176 — extract page 30
+- scan 180 — `pages/0180-sirai.md` — **verified** — printed folio 177 — extract page 31
+
+Batch 051 result:
+
+- backlog records resolved — **5/5**
+- verified — **5**
+- needs-review remaining from this batch — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- mandatory 13-family historical-glyph audit completed on all five pages.
+- scan 178 historical `னா` in `வியனார்டோ` and `லை` in `கலை` / `பூஞ்சோலை` were decoded directly as first canonical readings, not corrections.
+- scan 179 and 180 unusual source spellings and spacing were preserved without contextual normalization.
+- scan 181 was not opened.
+- unrelated existing holds were intentionally left for a later correction pass.
+
+## P2 cumulative totals through Batch 051
 
 - canonical page records — **224/224**
-- verified — **189**
-- needs-review — **35**
+- verified — **194**
+- needs-review — **30**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- unresolved transcription / printed-text holds — **35**:
+- unresolved transcription / printed-text holds — **30**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
   - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
-  - scans 176–180 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 27–31;
   - scans 181–185 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 32–36;
   - scans 186–190 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 37–41;
   - scans 191–195 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 42–46;
@@ -1230,4 +1253,4 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 backlog-resolution scans 176–180.**
+**P2 backlog-resolution scans 181–185.**

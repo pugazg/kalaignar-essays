@@ -6,39 +6,48 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual inspection from user-supplied scans-150–224 source extract; exact transcription held pending archival-fidelity re-read"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தின் முழு அச்சு உரை source image-ல் நேரடியாகப் பார்க்கப்பட்டது. ஆனால் ஒவ்வொரு எழுத்து, punctuation, paragraph boundary மற்றும் historical-glyph identity அனைத்தையும் archival fidelity-யுடன் உறுதிசெய்யாமல் ஊகித்து நிரப்பப்படவில்லை.]_
+“அவர் 13ந் தேதியே கைது செய்யப்பட்டு விட்டார். அதனால் கலந்துகொள்ளவில்லை!” என்று ஒரு தோழர் கூறியதும்தான் மன்றத்தினரின் திகைப்பு மாறியது.
 
-## Source hold
+“வயதான காலத்தில் திருமணம் செய்துகொண்ட மந்திரி யார்?” என்று ஒரு வேடிக்கை கேள்வி கேட்டேன்! மந்திரி என்று கேட்டதை மறந்துவிட்டு எல்லோரும் “பெரியார்” என்று கூறிவிட்டார்கள். பிறகுதான் “தேஷ்முக்” என்ற பதில் வந்தது!
 
-- physical scan **177** was opened directly from the user-supplied 75-page extract covering original physical scans **150–224**.
-- extract page — **28**.
+சிறையின் கொடுமையைப் போக்கிக்கொள்ள வேடிக்கையும், கொஞ்சம் வேண்டியதுதானே!
+
+எங்கேயோ போய்விட்டோமே'மறுமலர்ச்சி'யை விட்டு விட்டு! நாம் மறுமலர்ச்சியை விட்டுவிட்டுப் போனது போலவே மறுமலர்ச்சியும் பல நாட்கள் விட்டுவிட்டுப் போவதும் பிறகு தோன்றுவதுமாயிருந்து வருகிறது.
+
+குமுறல் - கொந்தளிப்பு - அறிவுத் தேக்கம் - மத வெறி-அரசுகளின் அக்கிரம ஆட்டம்-அநாகரீகம் - இவைகளுக்குப் பின்பு பூத்துப் பொலிகிற புதுமைக்கு மறுமலர்ச்சியென்று செல்லப் பெயரிட்டழைக்கிறோம்.
+
+வாழ்ந்த நிலை - வீழ்ந்த நிலை - மீண்டும் வாழ்ந்திடும் நிலை. இந்த மாற்றமுடியாத மாறுதல் சக்கரத்தைப்போல் சுழன்றுகொண்டேயிருந்திருக்கிறது உலகம் பிறந்த நாள் முதல்! மொத்த உலகத்தைப் பற்றிய ஆராய்ச்சிக்கு நாம் செல்லாமல் ஒவ்வொரு நாடும் - அந்த நாடு சமுதாயமும் எப்படியெப்படி மறுமலர்ச்சி பெற்றன என்பதைச் சிறிது காண்போம். எல்லா நாடுகளையும்கூட நாம்
+
+## அச்சு அமைப்பு
+
 - visible printed folio — **174**.
-- P1 classification — **main text / `sirai`**.
-- stable mapping — extract page **28** = original physical scan **177**.
-- source image is present and the page identity / folio are directly visible; this is **not** a missing-page or physical-loss hold.
-- continuous Tamil body text and running-page structure are directly visible.
-- exact body wording, punctuation, paragraphing, meaningful spacing, physical-copy marks, and historical-glyph identities remain to be completed in a focused archival-fidelity re-read.
-- OCR, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into canonical text.
-- no cross-page wording was asserted without full verification.
+- running header — `கருணாநிதி`.
+- extract page **28** = physical scan **177**.
+- source quotation marks around the two opening exchanges were preserved.
+- source-visible forms including `13ந்`, `கூறியதும்தான்`, `மந்திரி யார்`, `போக்கிக்கொள்ள`, `போய்விட்டோமே'மறுமலர்ச்சி'யை`, `வெறி-அரசுகளின்`, and `பெயரிட்டழைக்கிறோம்` were preserved without normalization.
+- page ends at the physical fragment `எல்லா நாடுகளையும்கூட நாம்`; scan 178 continues it.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- detailed physical-copy-mark audit remains OPEN until the focused re-read.
+- paper toning / scattered age specks are not publication text.
+- no physical-copy mark obscures canonical wording.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete page inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- representative sensitive clusters including `வயதான`, `நிலை`, `வீழ்ந்த`, and `மாறுதல்` were checked by character identity.
+- unresolved historical-glyph ambiguity — **0**.
+- no global replacement or spelling modernization was used.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact full-page transcription is deliberately held rather than guessed.
+**verified** — scan 177 placeholder was replaced only after full direct source-pixel transcription and audit.
