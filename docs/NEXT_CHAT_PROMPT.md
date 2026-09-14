@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R03 scans 11–15
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R04 scans 16–20
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
 
@@ -13,33 +13,32 @@ Use only the attached full source:
 
 No OCR, web copies, Wikisource, TVA web text, alternate editions, or contextual completion.
 
-## Durable state after Batch R02
+## Durable state after Batch R03
 
 - P2 canonical coverage — **224/224**
 - P2 — **222 verified / 2 needs-review** (existing holds scans 18 and 198)
-- P2R — **10/224 complete**
-- re-audited scans — **1–10**
+- P2R — **15/224 complete**
+- re-audited scans — **1–15**
 - historical-glyph correction-event count — **11**
 - guessed readings — **0**
 
-Batch R02 source-fidelity corrections include:
-- scan 6 — source short hyphens around `தொடர்ந்து செல்லவேண்டும்`
-- scan 10 — `என்னையும் தோழர் முல்லை சத்தியத்தையும்`
-- scan 10 — `எங்களின் மனோவேகந்தான் அப்படி யிருந்தது`
-- scan 10 — `மஞ்சத்திலே யிருப்பார்களாம்`
-- scan 10 — source short hyphens around the battle-departure clause
-- scan 10 physical terminal fragment — `வைத்திருக்`
+Batch R03 corrections include:
+- scan 11 — source short hyphens; scan-10 boundary note now uses `வைத்திருக்`
+- scan 12 — `நாங்கள் இருவர்தான்`; `கேள்விக் கண்கள்`; source short hyphens
+- scan 13 — source short hyphens; prior `பொற்சுரங்கமென்றாளோ` historical-`றா` correction reconfirmed
+- scan 14 — source short hyphens; `சொல்லிக்கொண்டோம் - நாங்கள் - ஆம்;`
+- scan 15 — `குறிப்பிடப் படும்போது`; `விரும்புகிறேன்.`; no separator after `வெளியிட`; source short hyphens
 
 ## Exact next activity
 
-Process exactly physical scans **11–15**.
+Process exactly physical scans **16–20**.
 
-For every scan:
-1. compare every printed word, numeral, punctuation mark, meaningful spacing and page-boundary fragment with the canonical record;
-2. separate physical-copy marks / show-through from publication ink;
-3. explicitly verify `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-4. make only direct source-supported corrections;
-5. record PASS / correction details in the page record and `P2_REAUDIT_PROGRESS.md`;
-6. synchronize controls and commit.
+Special structure:
+- scans **16–17** repeat printed folios **13–14**, but they are distinct physical scans and must be visually audited independently;
+- scan **18** is the existing P2 physical-obstruction hold: re-inspect the source pixels, preserve `[…]` if the hidden print remains unreadable, and do not infer from context;
+- scans **19–20** follow normally.
 
-Stop after scan **15**. Do not process scan 16 in this iteration.
+For each scan, compare every printed word / punctuation unit / meaningful spacing, separate non-print marks, and explicitly verify:
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+
+Stop after scan **20**. Do not process scan 21.

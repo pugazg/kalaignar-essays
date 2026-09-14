@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 10/224 scans complete; next 11–15** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 15/224 scans complete; next 16–20** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1417,8 +1417,22 @@ Historical-family verification added no correction event; cumulative count remai
 
 P2R progress — **10/224**. Next range — **11–15**.
 
+### Batch R03 — scans 11–15
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 11 | PASS after correction | source short hyphens restored; scan-10 terminal boundary note updated to `வைத்திருக்` |
+| 12 | PASS after corrections | `இருவர்தான்`; `கேள்விக் கண்கள்`; source short hyphens |
+| 13 | PASS after correction | source short hyphens restored; prior historical-`றா` correction reconfirmed |
+| 14 | PASS after corrections | source short hyphens restored; `சொல்லிக்கொண்டோம் - நாங்கள் - ஆம்;` repaired |
+| 15 | PASS after corrections | `குறிப்பிடப் படும்போது`; single period; unsupported separator after `வெளியிட` removed; source short hyphens |
+
+Historical-family verification produced **0 new correction events**; cumulative count remains **11**.
+
+P2R progress — **15/224**. Next range — **16–20**.
+
 ## Exact next activity
 
-**P2R Batch R03 — scans 11–15.**
+**P2R Batch R04 — scans 16–20.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Do not process scan 16.
+Perform the same word-by-word visual fidelity and mandatory 13-family historical-glyph audit. Scans 16–17 are duplicate physical witnesses and must be audited independently; scan 18 is the existing physical-obstruction hold and must not be completed from context. Stop after scan 20.

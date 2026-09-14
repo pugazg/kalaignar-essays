@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **10/224**
-- completed range — **1–10**
-- next range — **11–15**
+- re-audited — **15/224**
+- completed range — **1–15**
+- next range — **16–20**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **11**
@@ -60,8 +60,34 @@ Historical-family findings:
 - scan 10 — `முல்லை` / `தலைவன்` confirm `லை`; `புறநானூறு` confirms `னா`;
 - historical-family correction events added — **0**; cumulative count remains **11**.
 
+## Batch R03 — scans 11–15
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 11 | body / `முரசு` | PASS after correction | restored source short hyphens; corrected boundary note to scan-10 terminal `வைத்திருக்` |
+| 12 | body / `முரசு` | PASS after corrections | `இருவர்தான்`; `கேள்விக் கண்கள்`; source short hyphens |
+| 13 | body / `முரசு` | PASS after correction | source short hyphens restored; prior `பொற்சுரங்கமென்றாளோ` historical-`றா` correction reconfirmed |
+| 14 | body / `முரசு` | PASS after corrections | source short hyphens restored; `சொல்லிக்கொண்டோம் - நாங்கள் - ஆம்;` punctuation repaired |
+| 15 | body / `முரசு` | PASS after corrections | `குறிப்பிடப் படும்போது`; single stop after `விரும்புகிறேன்`; unsupported separator after `வெளியிட` removed; source short hyphens restored |
+
+Historical-family findings:
+
+- scan 11 — `அண்ணா` (`ணா`), `தலைவனிடமிருந்து` / `மலைத்` (`லை`), `தென்னாட்டின்` (`னா`);
+- scan 12 — `அன்னையின்` (`னை`), `கிறாள்` (`றா`);
+- scan 13 — prior `பொற்சுரங்கமென்றாளோ` (`றா`) correction reconfirmed; `நினைவு` (`னை`), `துடியிடையாளைத்` (`ளை`);
+- scan 14 — `மலையிடைப்`, `அலுவலை`, `விடுதலை` (`லை`);
+- scan 15 — `பண்ணை` (`ணை`), `அண்ணாவின்` (`ணா`), `சிறைச்சாலை` (`லை`);
+- new historical-family correction events — **0**; cumulative count remains **11**.
+
 ## Exact next activity
 
-**Batch R03 — physical scans 11–15.**
+**Batch R04 — physical scans 16–20.**
 
-Process exactly five scans, continuing the same word-by-word visual fidelity and historical-glyph protocol.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol.
+
+Important source structure for this next range:
+- scans **16–17** are separate physical witnesses repeating printed folios **13–14** and must still be audited independently;
+- scan **18** is the existing P2 source-obscured hold and must be re-inspected from its own pixels without guessing the hidden cluster;
+- scans **19–20** continue the normal sequence.
+
+Stop after scan **20**.

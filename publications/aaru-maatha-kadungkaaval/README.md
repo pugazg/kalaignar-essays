@@ -38,7 +38,7 @@ Direct native inspection established:
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 10/224 scans; next 11–15**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 15/224 scans; next 16–20**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -442,8 +442,20 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - P2 totals remain **222 verified / 2 needs-review**
 - P2R progress — **10/224**
 
+### Batch R03 — scans 11–15
+
+- scans 11–15 — **5/5 re-audited**
+- scans 11, 13 — source short-hyphen punctuation repairs
+- scan 12 — `இருவர்தான்` and `கேள்விக் கண்கள்` corrected from direct pixels
+- scan 14 — source short hyphens plus missing punctuation around `நாங்கள்` restored
+- scan 15 — source spacing / punctuation corrections including `குறிப்பிடப் படும்போது` and single `விரும்புகிறேன்.`
+- new historical-glyph correction events — **0**
+- cumulative historical-glyph correction-event count — **11**
+- P2 totals remain **222 verified / 2 needs-review**
+- P2R progress — **15/224**
+
 ## Exact next activity
 
-**P2R Batch R03 — scans 11–15.**
+**P2R Batch R04 — scans 16–20.**
 
-Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Do not process scan 16 in that iteration.
+Process exactly five physical scans. Treat scans 16–17 as independent duplicate physical witnesses, re-inspect the scan-18 source-obscured hold without guessing, and then process scans 19–20. Do not process scan 21.

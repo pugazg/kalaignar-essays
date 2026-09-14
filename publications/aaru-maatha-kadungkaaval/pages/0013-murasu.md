@@ -15,11 +15,11 @@ transcription_method: "direct visual comparison with source scan"
 
 துளைத்தெடுத்தன. “என்ன சார் விஷயம்” என்று அவருக்கே இயல்பான துடிப்பு நிறைந்த சொற்களால் என்னைக் கேட்டார். கேட்டார். கேட்டுக்கொண்டேயிருந்தார். பிறகு அவரே, காரணத்தை எனக்கு விளக்கிடும் அளவுக்குத் தெளிவும் பெற்றார். அவளது சிவந்த கரங்களிலே சில கடிதங்கள் இருந்தன. நான் கடிதமென்று சொல்கிறேன்; அதை அவள் பொற்சுரங்கமென்றாளோ; புதையல் எடுத்த தனமென்பாளோ நானறியேன். ஏனெனில். அவைகள் அவள் காதலனின் கடிதங்கள். எங்கேயோ தூரத்திலிருந்திருக்கவேண்டும் அந்தத் துடியிடையாளைத் துணைவியாகப் பெற்றிடத் துடித்தவன். அவன் தான் இப்போது அவளிடம் அந்தப் பழைய ஓலைகளின் மூலம் பேசிக்கொண்டிருக்கிறான்.
 
-நினைவு – எத்துணை இன்பமான வேதனை அளிக்கக் கூடியது. அதற்கு அவள்மட்டும் விதிவிலக்கா? அவள் கையிலே பழைய கடிதங்கள். நெஞ்சிலே புதிய புயல்கள்.
+நினைவு - எத்துணை இன்பமான வேதனை அளிக்கக் கூடியது. அதற்கு அவள்மட்டும் விதிவிலக்கா? அவள் கையிலே பழைய கடிதங்கள். நெஞ்சிலே புதிய புயல்கள்.
 
 அதுபோலத்தான்
 
-எங்கள் நினைவிலே தமிழரின் பழைய வரலாறுகள். நிலைமையோ பூகம்பம் – எரிமலை – பிரளயம்! மாசறு பொன்னே! வலம்புரி முத்தே! காசறு விரையே! கரும்பே தேனே! என்ற விதத்தில் வர்ணிக்கப்பட்டிருக்கும் காதலனின் கடிதத்தில்!
+எங்கள் நினைவிலே தமிழரின் பழைய வரலாறுகள். நிலைமையோ பூகம்பம் - எரிமலை - பிரளயம்! மாசறு பொன்னே! வலம்புரி முத்தே! காசறு விரையே! கரும்பே தேனே! என்ற விதத்தில் வர்ணிக்கப்பட்டிருக்கும் காதலனின் கடிதத்தில்!
 
 பொன்னும் முத்தும், பொதிகைச் சந்தனமும், எகிப்துக்கும், ஏதென்சுக்கும் ஏற்றிச்செல்லப்பட்டன என்று கதையைச் சொல்லும், கடிதமாகக்கூட ஆகும் பாக்யம் பெறாத தமிழர் முன்னாள் பெருமை.
 
@@ -41,6 +41,16 @@ transcription_method: "direct visual comparison with source scan"
 - `தனமென்பாளோ` remains source-visible and is preserved rather than context-corrected.
 - this is a character-identity correction only; global replacement / lexical modernization செய்யப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
+
+## P2R visual-fidelity re-audit — Batch R03
+
+- full page rechecked word-by-word at native embedded-source resolution.
+- the previously recorded historical-`றா` correction `பொற்சுரங்கமென்றாளோ` is reconfirmed directly from the same source; it remains part of the existing historical correction count and is not counted again.
+- source short hyphens were restored in `நினைவு - எத்துணை...` and `பூகம்பம் - எரிமலை - பிரளயம்!`.
+- source-visible unusual forms including `தனமென்பாளோ`, `ஏனெனில்.`, `அவள்மட்டும்`, and `பாக்யம்` were preserved without lexical modernization.
+- mandatory family set rechecked; representative forms include `பொற்சுரங்கமென்றாளோ` (`றா`), `நானறியேன்` (`னா`), `நினைவு` (`னை`) and `துடியிடையாளைத்` (`ளை`).
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS after punctuation-fidelity correction**.
 
 ## P2 நிலை
 
