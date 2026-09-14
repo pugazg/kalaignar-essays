@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 184 verified / 40 needs-review**
+- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 189 verified / 35 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -160,7 +160,6 @@ Open holds:
 - scan 18 — one physically obscured cluster after `ஒருவராக ஆ`;
 - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
 - scans 161–165 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 12–16;
-- scans 171–175 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 22–26;
 - scans 176–180 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 27–31;
 - scans 181–185 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 32–36;
 - scans 186–190 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 37–41;
@@ -170,8 +169,8 @@ Open holds:
 Current P2 totals:
 
 - records — **224/224**
-- verified — **184**
-- needs-review — **40**
+- verified — **189**
+- needs-review — **35**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
@@ -305,8 +304,23 @@ Current P2 totals:
 - scan 170 preserves source quotation practice.
 - scan 171 was not opened.
 
+## Batch 050 — backlog scans 171–175
+
+- backlog records resolved — **5/5**
+- verified — **5**
+- needs-review remaining from this batch — **0**
+- printed folios — **168–172**
+- extract pages — **22–26**
+- full direct source-pixel transcription / punctuation / paragraphing / physical-copy-mark review / mandatory 13-family historical-glyph audit — **COMPLETE**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- scan 174 `பகவத் சிரோமணிகளே!` was resolved directly from source pixels.
+- scan 174 preserves `ஆனால் கிளிஞ்சல்களை வாரி இறைக்காதே!`.
+- scan 175 preserves `கால் மூன்றத்துக் கத்திரிக்காய்`.
+- scan 176 was not opened.
+
 ## Exact next activity
 
-**P2 backlog-resolution scans 171–175.**
+**P2 backlog-resolution scans 176–180.**
 
-Use the same supplied extract: pages **22–26 = scans 171–175**. Apply the same direct source-pixel archival-fidelity protocol, synchronize controls, commit, and stop before scan 176. Do not start P3 while P2 needs-review records remain.
+Use the same supplied extract: pages **27–31 = scans 176–180**. Apply the same direct source-pixel archival-fidelity protocol, synchronize controls, commit, and stop before scan 181. Do not start P3 while P2 needs-review records remain.

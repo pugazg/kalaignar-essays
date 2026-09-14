@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Batch 049 / P2 backlog scans 166–170** reached the durable state **224/224 canonical records; 184 verified / 40 needs-review**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **Batch 050 / P2 backlog scans 171–175** reached the durable state **224/224 canonical records; 189 verified / 35 needs-review**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -57,7 +57,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 184 verified / 40 needs-review**
+- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 189 verified / 35 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1246,20 +1246,45 @@ Batch 049 result:
 - scan 170 was fully closed; scan 171 was not opened.
 - unrelated holds at scans 3, 4, 18, 126–130, 211, and 217 remain unchanged.
 
+### Batch 050 — backlog scans 171–175
+
+Re-read directly from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 171 — `pages/0171-sirai.md` — **verified** — printed folio 168 — extract page 22
+- scan 172 — `pages/0172-sirai.md` — **verified** — printed folio 169 — extract page 23
+- scan 173 — `pages/0173-sirai.md` — **verified** — printed folio 170 — extract page 24
+- scan 174 — `pages/0174-sirai.md` — **verified** — printed folio 171 — extract page 25
+- scan 175 — `pages/0175-sirai.md` — **verified** — printed folio 172 — extract page 26
+
+Batch 050 result:
+
+- backlog records resolved — **5/5**
+- verified — **5**
+- needs-review remaining from this batch — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- all five placeholders were replaced only after direct enlarged/high-resolution source-pixel transcription, punctuation / paragraphing review, physical-copy-mark separation, and the mandatory 13-family historical-glyph audit.
+- scan 173 historical `றா` in `என்றால்`, scan 174 historical `றா` in `நன்றாகப்`, and scan 175 historical `றா` in `தொடர்ந்தாற்போல்` were decoded as first canonical readings, not correction events.
+- scan 174's previously uncertain phrase was resolved directly as `பகவத் சிரோமணிகளே!`.
+- scan 174 preserves the confirmed closing `ஆனால் கிளிஞ்சல்களை வாரி இறைக்காதே!`.
+- scan 175 preserves `கால் மூன்றத்துக் கத்திரிக்காய்`.
+- scan 175 was fully closed; scan 176 was not opened.
+- unrelated holds at scans 3, 4, 18, 126–130, 211, and 217 remain unchanged in this transcription-first batch.
+
 ## Durable P2 totals
 
 - canonical page records — **224/224**
-- verified — **184**
-- needs-review — **40**
+- verified — **189**
+- needs-review — **35**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- open transcription / printed-text holds — **40**:
+- open transcription / printed-text holds — **35**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — one physically obscured cluster after `ஒருவராக ஆ`;
   - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
-  - scans 171–175 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 22–26;
   - scans 176–180 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 27–31;
   - scans 181–185 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 32–36;
   - scans 186–190 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 37–41;
@@ -1270,11 +1295,11 @@ Batch 049 result:
 
 ## Exact next activity
 
-**P2 backlog-resolution scans 171–175.**
+**P2 backlog-resolution scans 176–180.**
 
-Physical-source canonical-record coverage remains **224/224**, but P2 remains open because **40 needs-review records** remain.
+Physical-source canonical-record coverage remains **224/224**, but P2 remains open because **35 needs-review records** remain.
 
-Process exactly scans **171–175** from extract pages **22–26**. Apply the same direct source-pixel, punctuation, paragraphing, physical-copy-mark, and mandatory 13-family historical-glyph protocol; preserve unrelated holds at scans 3, 4, 18, 126–130, 211, and 217; synchronize controls and commit; stop before scan 176.
+Process exactly scans **176–180** from extract pages **27–31**. Apply the same direct source-pixel, punctuation, paragraphing, physical-copy-mark, and mandatory 13-family historical-glyph protocol; preserve unrelated holds; synchronize controls and commit; stop before scan 181.
 
 Do not start P3, article assembly, P4/P5, or English while P2 needs-review records remain.
 

@@ -6,39 +6,47 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual inspection from user-supplied scans-150–224 source extract; exact transcription held pending archival-fidelity re-read"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தின் முழு அச்சு உரை source image-ல் நேரடியாகப் பார்க்கப்பட்டது. ஆனால் ஒவ்வொரு எழுத்து, punctuation, paragraph boundary மற்றும் historical-glyph identity அனைத்தையும் archival fidelity-யுடன் உறுதிசெய்யாமல் ஊகித்து நிரப்பப்படவில்லை.]_
+இந்தப் பட்டத்தை கடவுள் உண்டென்போர் மிகத் தாராளமாக சூட்டிவிடுவது நாட்டறிந்த உண்மை. அந்த உண்மையிலும் ஒரு உண்மை யிருக்கிறது.
 
-## Source hold
+கடவுள் இல்லையென்போர் காட்டுமிராண்டிகள் என்றுள் காட்டுமிராண்டிகள் காலத்திலே கடவுள் இல்லையென்பது உண்மையாகிறது. ஆகவே ஆண்டவன் அனாதி காலந்தொட்டு இருப்பவன் என்ற கூற்று பொய்யாக்கப்படுகிறது. அவர்கள் மொழியாலேயே! ஆதி மனிதன் கடவுளை வணங்கவில்லை. வளர்ந்த மனிதன்தான் கடவுளைப் படைத்தானே தவிர - கடவுள் மனிதனைப் படைக்கவில்லை யென்ற பேருண்மையும் வெளியாகிறது.
 
-- physical scan **171** was opened directly from the user-supplied 75-page extract covering original physical scans **150–224**.
-- extract page — **22**.
+“வளர்ந்த மனிதன் ஆகாய விமானத்தைக் கண்டு பிடித்தான் - காட்டுமிராண்டி ஆகாய விமானம் கண்டு பிடிக்கவில்லை. அவன்முட்டன்!
+
+வளர்ந்த மனிதன் புத்திமான்! முட்டன் ஆகாய விமானத்தைக் கண்டுபிடிக்கவில்லை யென்பதற்காக ஆகாய விமானமே பொய் என்று கூறமுடியுமா? முட்டன் கடவுளைக் கண்டுபிடிக்கவில்லை. அதனால் கடவுள் இல்லை யென சொல்லமுடியுமா? என்ற கேள்வியை ஆத்திகர் எழுப்பக்கூடும்.
+
+## அதற்கு ஒரே பதில்-
+
+ஆகாய விமானம் கண்டுபிடிக்கப்பட்டதல்ல! செய்யப்பட்டது! ஆகவே அது மனிதனுக்கு முன்பே இருக்க நியாயமில்லை. ராமாயண பாரத காலங்களிலே இருந்ததாகச் சொல்லப்படும் வானவூர்திகள் கூட மனிதனுக்குப் பிறகு மனிதனால் செய்யப்பட்டவைதான். அதுபோலத்தான் கடவுளும் மனிதனால் செய்யப்
+
+## அச்சு அமைப்பு
+
 - visible printed folio — **168**.
-- P1 classification — **main text / `sirai`**.
-- stable mapping — extract page **22** = original physical scan **171**.
-- source image is present and the page identity / folio are directly visible; this is **not** a missing-page or physical-loss hold.
-- continuous Tamil body text and running-page structure are directly visible.
-- exact body wording, punctuation, paragraphing, meaningful spacing, physical-copy marks, and historical-glyph identities remain to be completed in a focused archival-fidelity re-read.
-- OCR, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into canonical text.
-- no cross-page wording was asserted without full verification.
+- running header — `கருணாநிதி`.
+- extract page **22** = physical scan **171**.
+- page begins a fresh argument and ends at the physical fragment `செய்யப்`; scan 172 continues it.
+- source-visible forms including `உண்மை யிருக்கிறது`, `கண்டு பிடித்தான்`, `யென்பதற்காக`, and `யென சொல்லமுடியுமா` were preserved without normalization.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- detailed physical-copy-mark audit remains OPEN until the focused re-read.
+- paper toning / scattered age specks are not publication text.
+- no physical-copy mark obscures canonical wording.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete page inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- representative sensitive clusters including `வணங்கவில்லை`, `மனிதனைப்`, `வானவூர்திகள்`, and `இல்லை யென` were checked by character identity.
+- unresolved historical-glyph ambiguity — **0**.
+- no global replacement or spelling modernization was used.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact full-page transcription is deliberately held rather than guessed.
+**verified** — scan 171 placeholder was replaced only after full direct source-pixel transcription and audit.
