@@ -8,37 +8,52 @@ section: "sirai"
 page_type: "body"
 status: "needs-review"
 language: "ta"
-transcription_method: "direct visual inspection from user-supplied scans-150–224 source extract; exact transcription held pending archival-fidelity re-read"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract; one physically obscured printed cluster held unresolved"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தின் முழு அச்சு உரை source image-ல் நேரடியாகப் பார்க்கப்பட்டது. ஆனால் ஒவ்வொரு எழுத்து, punctuation, paragraph boundary மற்றும் historical-glyph identity அனைத்தையும் archival fidelity-யுடன் உறுதிசெய்யாமல் ஊகித்து நிரப்பப்படவில்லை.]_
+மாயவரம் செபாஸ்டின் முதற் பரிசும், அபிவிருத்தீஸ்வாம் நடராசன் இரண்டாம் பரிசும், ஓவியன் கருணா மூன்றாம் பரிசும், (சக்கரசாமம்) அப்பாசாமி நான்காவது ஸ்பெஷல் பரிசும் பெற்றார்கள்.
 
-## Source hold
+இவர்களுக்கு பரிசளிப்பு விழாவை மன்னார்குடியில் தோழர் நாராயணசாமி நடத்துவதாக கேட்டுக் கொண்டார். மன்றமும் இணங்கியது.
 
-- physical scan **198** was opened directly from the user-supplied 75-page extract covering original physical scans **150–224**.
-- extract page — **49**.
+கடைசியாக ஒரு ஞாயிறன்று - பேச்சு மன்றத்தின் அறுவடையை கணக்குப் பார்க்கும் போட்டி ஏற்பாடு செய்யப்பட்டது. அதுதான் பேச்சுப்போட்டி.
+
+திருவையாறு R. S. மணி, அழகான கருத்துக்களை அள்ளிச் சொரிந்து முதற் பரிசை அ[…]ந்தார். திருவிடமருதூர் T. A. ராமசாமி, பெருமிதமான வார்த்தையோட்டத்தால் இரண்டாம் பரிசைத் தட்டிவிட்டார்.
+
+உள்ளிக்கோட்டை சிங்காரவேல், எடுத்துக்கொண்ட பொருளை எழில் ததும்பச் சொல்லி மூன்றாம் பரிசுக்குரியவரானார். பேராவூரணி வடிவேல் நகைச்சுவை ததும்பப் பேசி நான்காவது ஸ்பெஷல் பரிசை ஏற்றார்.
+
+அந்தப் போட்டிக்கு நீதிபதிகளாக, நானும், தோழர்கள் ராமசுப்பையா, அடைக்கலம், நாகை பாப்பையன், B. சாமிநாதன் ஆகிய நால்வரும் அமர்ந்து தீர்ப்பு வழங்கினோம். அவர்களுக்கு பரிசளிக்கும் விழாவை மாயவரத்தில் நடத்துவதற்கு தோழர் கிட்டப்பா கேட்டுக் கொண்டு மன்றத்தின் இணக்கம் பெற்றார்.
+
+“மாங்குயில் கூவிடும் பூஞ்சோலை - எமை
+மாட்ட நினைக்கும் சிறைச்சாலை”
+என்ற கவிஞரின் பாடல் உரக்கப் பாடினோம். உற்சாகம் கொப்பளிக்கப் பாடினோம்!
+
+## அச்சு அமைப்பு
+
 - visible printed folio — **195**.
-- P1 classification — **main text / `sirai`**.
-- stable mapping — extract page **49** = original physical scan **198**.
-- source image is present and the page identity / folio are directly visible; this is **not** a missing-page or physical-loss hold.
-- continuous Tamil body text and running-page structure are directly visible.
-- exact body wording, punctuation, paragraphing, meaningful spacing, physical-copy marks, and historical-glyph identities remain to be completed in a focused archival-fidelity re-read.
-- OCR, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into canonical text.
-- no cross-page wording was asserted without full verification.
+- running header — `ஆறுமாதக் கடுங்காவல்`.
+- extract page **49** = physical scan **198**.
+- the page was transcribed in full except for one physically covered cluster in `முதற் பரிசை அ[…]ந்தார்`.
+- source-visible forms including `அபிவிருத்தீஸ்வாம்`, `(சக்கரசாமம்)`, `ஞாயிறன்று`, `திருவிடமருதூர்`, `வார்த்தையோட்டத்தால்`, `பேராவூரணி`, and the two-line quoted verse were preserved without normalization.
+- direct line-wrap joins were made where the same lexical item is visibly continued, including `அபிவிருத்தீஸ் + வாம்` → `அபிவிருத்தீஸ்வாம்`.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- detailed physical-copy-mark audit remains OPEN until the focused re-read.
+- a dark-blue non-print physical-copy mark crosses and hides the printed cluster after visible `அ` and before visible `ந்தார்` in the sentence beginning `திருவையாறு R. S. மணி`; the hidden character(s) are recorded as `[…]` and are **not** reconstructed from context.
+- a separate pale blue/purple curved mark in the lower-right margin is not publication text and was excluded.
+- paper toning / age specks are not publication text.
+- no external edition, OCR, grammar, or contextual completion was used to supply the obscured print.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete visible print inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- representative visible sensitive forms including `மூன்றாம்`, `நாராயணசாமி`, `நானும்`, `நால்வரும்`, and `சிறைச்சாலை` were checked by character identity.
+- the physically hidden cluster in `அ[…]ந்தார்` is **not** classified as a historical-glyph ambiguity because its controlling pixels are covered.
+- unresolved historical-glyph ambiguity among visible glyphs — **0**.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact full-page transcription is deliberately held rather than guessed.
+**needs-review** — scan 198 is complete except for one physically obscured printed cluster in `முதற் பரிசை அ[…]ந்தார்`; no guess was inserted.

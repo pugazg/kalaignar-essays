@@ -6,7 +6,7 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS — 200/224 records; 142 verified / 58 needs-review** |
+| P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 213 verified / 11 needs-review** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1289,20 +1289,44 @@ Batch 054 result:
 - scan 195 ends inside the open quotation at `சொரண்டிப்`; scan 196 was not opened.
 - unrelated existing holds were intentionally left for the later correction pass.
 
-## P2 cumulative totals through Batch 054
+### Batch 055 — backlog scans 196–200
+
+Focused archival-fidelity re-read from the user-supplied **75-page scans-150–224 extract**:
+
+- scan 196 — `pages/0196-sirai.md` — **verified** — printed folio 193 — extract page 47
+- scan 197 — `pages/0197-sirai.md` — **verified** — printed folio 194 — extract page 48
+- scan 198 — `pages/0198-sirai.md` — **needs-review** — printed folio 195 — extract page 49
+- scan 199 — `pages/0199-sirai.md` — **verified** — printed folio 196 — extract page 50
+- scan 200 — `pages/0200-sirai.md` — **verified** — printed folio 197 — extract page 51
+
+Batch 055 result:
+
+- records processed — **5/5**
+- verified — **4**
+- needs-review remaining from this batch — **1**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- direct enlarged/high-resolution source-pixel transcription, punctuation / paragraphing review, physical-copy-mark separation, and mandatory 13-family historical-glyph audit were completed on all visible print.
+- scan 198 contains a dark-blue non-print mark over the printed cluster after `அ` and before `ந்தார்`; the canonical record preserves `அ[…]ந்தார்` and does not infer the hidden letters.
+- scan 199 historical `றா` in the line-break `கூறா + மலிருக்க` was decoded as `கூறாமலிருக்க` directly from character identity.
+- scan 200 ends at the physical fragment `ஆகி`; scan 201 source pixels were not opened in this batch.
+- unrelated legacy holds were intentionally left for the correction pass.
+
+## P2 cumulative totals through Batch 055
 
 - canonical page records — **224/224**
-- verified — **209**
-- needs-review — **15**
+- verified — **213**
+- needs-review — **11**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
-- unresolved transcription / printed-text holds — **15**:
+- unresolved transcription / printed-text holds — **11**:
   - scan 3 — small imprint/printer text;
   - scan 4 — exact publisher-note transcription;
   - scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
   - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
-  - scans 196–200 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 47–51.
+  - scan 198 — dark-blue physical-copy mark obscures the cluster after `அ` and before `ந்தார்` in `முதற் பரிசை அ[…]ந்தார்`; no hidden character was guessed.
   - scan 211 — one physical-copy dark/blue mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was guessed.
   - scan 217 — one source-visible word immediately after `மணிமேடாக` and before `!` remains unresolved after enlarged source inspection; no contextual reading was inserted.
 
@@ -1320,4 +1344,8 @@ No physical scan is deduplicated.
 
 ## Exact next activity
 
-**P2 backlog-resolution scans 196–200.**
+**P2 remaining-holds correction pass — scans 3, 4, 18, 126–130, 198, 211, and 217.**
+
+Batch 055 stops before this pass. Re-fetch the live records and durable user-confirmed corrections before editing. Use only source pixels explicitly authorised for each scan, preserve physically hidden print as `[…]`, and do not use OCR, web copies, alternate editions, or contextual reconstruction.
+
+P3 remains blocked until P2 is closed.

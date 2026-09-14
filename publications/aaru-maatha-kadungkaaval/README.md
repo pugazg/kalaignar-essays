@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 209 verified / 15 needs-review**
+- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 213 verified / 11 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -159,14 +159,15 @@ Open holds:
 - scan 4 — full publisher-note transcription;
 - scan 18 — one physically obscured cluster after `ஒருவராக ஆ`;
 - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
-- scans 161–165 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 12–16;
-- scans 196–200 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 47–51.
+- scan 198 — one dark-blue physical-copy mark obscures the cluster after `அ` and before `ந்தார்` in `முதற் பரிசை அ[…]ந்தார்`; no hidden print was inferred;
+- scan 211 — one physical-copy mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`;
+- scan 217 — one source-visible word immediately after `மணிமேடாக` and before `!` remains unresolved.
 
 Current P2 totals:
 
 - records — **224/224**
-- verified — **209**
-- needs-review — **15**
+- verified — **213**
+- needs-review — **11**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
@@ -377,8 +378,27 @@ Current P2 totals:
 - scan 195 preserves `(Fancy Dress)`, `குடு குடுப்பைக்காரன்`, and terminal fragment `சொரண்டிப்`.
 - scan 196 was not opened.
 
+## Batch 055 — backlog scans 196–200
+
+- records processed — **5/5**
+- newly verified — **4**
+- needs-review remaining from this batch — **1**
+- printed folios — **193–197**
+- extract pages — **47–51**
+- direct source-pixel transcription / punctuation / paragraphing / physical-copy-mark review / mandatory 13-family historical-glyph audit — **COMPLETE on all visible print**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- scan 196 directly continues scan 195's open quotation and preserves `“வல்லவனுக்குப் புல்லும் ஆயுதம்”`.
+- scan 197 preserves `“கல்லக்குடி பதக்கம்”`, `புறநானூறு`, and `திரைப்படங்களின்`.
+- scan 198 remains **needs-review** only because a dark-blue physical-copy mark physically hides the cluster in `முதற் பரிசை அ[…]ந்தார்`; a separate pale lower-right mark was excluded as non-print.
+- scan 199 resolves the visible historical `றா` identity in `கூறாமலிருக்க` without counting a correction event because the prior page was only a placeholder.
+- scan 200 preserves `நூறு ‘பஸ்கி’ போட முனைந்தார்` and terminal fragment `ஆகி`.
+- legacy holds at scans 3, 4, 18, 126–130, 211, and 217 remain unchanged.
+
 ## Exact next activity
 
-**P2 backlog-resolution scans 196–200.**
+**P2 remaining-holds correction pass.**
 
-Use the same supplied extract: pages **47–51 = scans 196–200**. Apply the same direct source-pixel archival-fidelity protocol, synchronize controls, commit, and stop before correction-pass work on the remaining legacy holds. Do not start P3 while P2 needs-review records remain.
+Remaining needs-review records: **3, 4, 18, 126–130, 198, 211, 217**. Batch 055 stops before that correction pass. Re-fetch live records and durable user-confirmed readings first; use only explicitly authorised source pixels and do not reconstruct hidden print from context.
+
+Do not start P3 while P2 needs-review records remain.

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 backlog scans 196–200
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2 remaining-holds correction pass
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
 
@@ -6,31 +6,30 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 Fetch live `main` first. Root `HANDOVER.md` is authoritative.
 
-Durable state after Batch 054: **P2 = 224/224 canonical records; 209 verified / 15 needs-review; 0 blocked; 0 guessed readings; 11 historical-glyph correction events**.
+Durable state after Batch 055: **P2 = 224/224 canonical records; 213 verified / 11 needs-review; 0 blocked; 0 guessed readings; 11 historical-glyph correction events**.
 
-Use only the user-supplied derivative slice `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`.
+## Batch 055 durable state
 
-Mapping: **extract page N = physical scan N+149**. Therefore extract pages **47–51 = scans 196–200**.
-
-## Batch 054 durable state
-
-- scans 191–195 = extract pages 42–46 / printed folios 188–192
-- all five prior placeholders are now **verified**
-- direct source-pixel transcription / punctuation / paragraphing / physical-copy-mark separation / mandatory 13-family historical-glyph audit completed
-- scan 191 begins `கிறார் என்று!`, completing scan 190's `பாராட்டியிருக்க`
-- scan 192 preserves `அடிப்படத்திலிருந்து` and `மழலையின் மரணப்படுகை`
-- scan 193 preserves `ஆலவட்டம்` and `ஆஷாட பூதிகளின்`
-- scan 194 preserves `அதிசயம்!`, `குறுகுறுப்பான`, and `போய்விடுவாளாக்கும்`
-- scan 195 preserves `(Fancy Dress)`, `குடு குடுப்பைக்காரன்`, and terminal fragment `சொரண்டிப்`
-- scan 196 was not opened
-- existing holds at scans 3, 4, 18, 126–130, 211, and 217 were not modified in this transcription-first batch
+- scans **196, 197, 199, 200** are now **verified**
+- scan **198** has a complete direct-source transcription except for one dark-blue physical-copy mark that obscures the cluster after `அ` and before `ந்தார்` in `முதற் பரிசை அ[…]ந்தார்`
+- the hidden scan-198 character(s) were not inferred from context
+- scan 198 also contains a separate pale blue/purple lower-right non-print mark
+- scan 199 preserves the historical-`றா` reading `கூறாமலிருக்க`
+- scan 200 preserves `நூறு ‘பஸ்கி’ போட முனைந்தார்` and terminal fragment `ஆகி`
+- no P3 / article assembly / P4 / P5 / English work has started
 
 ## Exact next activity
 
-Process exactly scans **196–200** = extract pages **47–51**.
+Begin only the **P2 remaining-holds correction pass** for:
 
-Re-fetch the live placeholders, inspect source pixels directly at enlarged/high resolution, preserve source spelling / punctuation / paragraphing / meaningful spacing and page-boundary fragments, explicitly audit `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`, separate non-print physical-copy marks, and never fill uncertainty from context.
+- scans **3, 4, 18**
+- scans **126–130**
+- scan **198**
+- scan **211**
+- scan **217**
 
-After scans 196–200, synchronize controls and commit. Then the remaining P2 work should move to the legacy holds / user-confirmed corrections at scans 3, 4, 18, 126–130, 211 and 217. Stop before that correction pass.
+Before changing any record, re-fetch live `main`, the relevant page record, and any durable user-confirmed correction already recorded in the repository or current conversation. Use only source pixels explicitly authorised for that scan. Do not use OCR, web copies, Wikisource, TVA web text, alternate editions, or contextual completion.
 
-Do not start P3, article assembly, P4/P5, or English while P2 remains open.
+For any physically hidden print that still cannot be recovered, preserve `[…]` and keep the page `needs-review`; never guess.
+
+Synchronize controls and commit only source-supported corrections. Do not start P3, article assembly, P4/P5, or English while any P2 hold remains.

@@ -6,39 +6,42 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual inspection from user-supplied scans-150–224 source extract; exact transcription held pending archival-fidelity re-read"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தின் முழு அச்சு உரை source image-ல் நேரடியாகப் பார்க்கப்பட்டது. ஆனால் ஒவ்வொரு எழுத்து, punctuation, paragraph boundary மற்றும் historical-glyph identity அனைத்தையும் archival fidelity-யுடன் உறுதிசெய்யாமல் ஊகித்து நிரப்பப்படவில்லை.]_
+அவருடைய திருக் கரங்களால் எண்ணெய் தேய்த்து - சீயக்காய் தேய்த்து குளிப்பாட்டும்போது - என் அன்னையின் பொற்கரங்களின் ஸ்பரிச உணர்ச்சியையே கண்டேன் நான். குளித்துவிட்டு அறைக்கு வருவோம். வீட்டிலே மனைவிகூட அவ்வளவு ஒழுங்காக உடைகளை எடுத்துத் தந்து உபசரிக்க முடியாது; அத்துணை அழகாக உடைகளை எடுத்து வழங்குவார் தோழர் கஸ்தூரி. உடை இலாகாவை அவரிடம்தான் ஒப்புவித்திருந்தோம். உடனே தென்னன் காலை உணவுடன் எங்கள் அறையில் நுழைவார்.
 
-## Source hold
+சாப்பிட்டானதும் ஒரு சிகரெட் பிடிக்கலாம் என்ற காரணத்திற்காக சாப்பிடுவோம். அத்தகைய சாப்பாட்டுக்கும் ஒரு இலக்கணம் வகுத்துக்கொண்டு- நம்மோடு ஒட்டிவராவிட்டால் அதோடு நாம் ஒட்டிப்போவோம் என்ற தத்துவார்த்த சிகரமாக எம்முடன் ஒருவர் இருந்தார். அவர்தான் திருவாரூர் டாக்டர் விசயராகவன். சிறையிலே தரப்படும் கடல் உருண்டை என்றால் அவருக்கு எவ்வளவு பிரியம் தெரியுமா? ஒரு நாள் அவர் கடல் உருண்டைக்காக இன்னொரு தோழருடன் பந்தயம் கட்டி நூறு ‘பஸ்கி’ போட முனைந்தார். பந்தயத்தில் தோற்றதால் கடல் உருண்டை கிடைக்கவில்லை. தொடை முழுதும் கடல் உருண்டைகள் போல வீங்கிவிட்டது. இரண்டு மூன்று நாள் மருத்துவ மனையில் இருந்தார். ஜெயில் சாப்பாட்டை சாப்பிட்டுவிட்டு “ஜாம்பவான்” வேலைக்கெல்லாம் போகலாமா?
 
-- physical scan **200** was opened directly from the user-supplied 75-page extract covering original physical scans **150–224**.
-- extract page — **51**.
+காலை உணவு முடிந்ததும் நண்பர்கள் மன்னை நாராயணசாமி, அடைக்கலம், விசயராகவன், அத்தான், வடிவேலு, சத்தி, தென்னன், முத்துப்பேட்டை தெட்சணமூர்த்தி, கோபால்சாமி, வேணு, வைத்தீஸ்வரன் கோயில் முருகையா, திருவையாறு மணி, எதிராஜ், உசேன் ஆகி
+
+## அச்சு அமைப்பு
+
 - visible printed folio — **197**.
-- P1 classification — **main text / `sirai`**.
-- stable mapping — extract page **51** = original physical scan **200**.
-- source image is present and the page identity / folio are directly visible; this is **not** a missing-page or physical-loss hold.
-- continuous Tamil body text and running-page structure are directly visible.
-- exact body wording, punctuation, paragraphing, meaningful spacing, physical-copy marks, and historical-glyph identities remain to be completed in a focused archival-fidelity re-read.
-- OCR, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into canonical text.
-- no cross-page wording was asserted without full verification.
+- running header — `ஆறுமாதக் கடுங்காவல்`.
+- extract page **51** = physical scan **200**.
+- direct line-wrap fragments were joined only where character identity is source-supported, including `அன்னை + யின்` → `அன்னையின்`, `கண் + டேன்` → `கண்டேன்`, `வீட் + டிலே` → `வீட்டிலே`, and `நுழை + வார்` → `நுழைவார்`.
+- source-visible forms including `திருக் கரங்களால்`, `மனைவிகூட`, `அத்துணை`, `உடை இலாகாவை`, `வகுத்துக்கொண்டு-`, `நூறு ‘பஸ்கி’ போட முனைந்தார்`, `மருத்துவ மனையில்`, and `மன்னை நாராயணசாமி` were preserved without normalization.
+- page ends at the physical fragment `ஆகி`; scan 201 source pixels were not opened and no continuation was pulled backward.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- detailed physical-copy-mark audit remains OPEN until the focused re-read.
+- paper toning / age specks are not publication text.
+- no non-print handwriting or ownership mark obscures body wording on this page.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete page inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- representative sensitive forms including `எண்ணெய்`, `அன்னையின்`, `நாராயணசாமி`, `தென்னன்`, and `மனைவிகூட` were checked by character identity.
+- unresolved historical-glyph ambiguity — **0**.
+- because the prior record was only a placeholder, these are first canonical readings and do **not** add correction events.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact full-page transcription is deliberately held rather than guessed.
+**verified** — scan 200 placeholder was replaced only after full direct source-pixel transcription and audit.
