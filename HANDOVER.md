@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P2R Batch R03 / full visual-fidelity re-audit scans 11–15**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **15/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **P2R Batch R04 / full visual-fidelity re-audit scans 16–20**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **20/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -58,7 +58,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 15/224 scans complete; next 16–20**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 20/224 scans complete; next 21–25**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1492,13 +1492,22 @@ Batch R01 scans **1–5** is complete.
 - new historical-family correction events — **0**; cumulative count remains **11**.
 - P2R progress — **15/224**.
 
+### Batch R04 — scans 16–20
+
+- **5/5 physical scans re-audited**
+- scans 16–17 — duplicate printed folios were independently checked and brought into fidelity with the source: short hyphens, `சொல்லிக்கொண்டோம் - நாங்கள் - ஆம்;`, `குறிப்பிடப் படும்போது`, single `விரும்புகிறேன்.`, and no separator after `வெளியிட`.
+- scan 18 — all visible print PASS; opaque white-fiber lacuna in `ஒருவராக ஆ[…]விடக்கூடிய` remains unresolved and unguessed.
+- scans 19–20 — PASS / no canonical text correction.
+- new historical-family correction events — **0**; cumulative count remains **11**.
+- P2R progress — **20/224**.
+
 ## Exact next activity
 
-**P2R Batch R04 — physical scans 16–20.**
+**P2R Batch R05 — physical scans 21–25.**
 
-Process exactly five physical scans. Audit scans 16 and 17 independently even though they repeat printed folios 13–14. Re-inspect the existing scan-18 physical-obstruction hold without contextual completion, then continue scans 19–20.
+Process exactly five scans with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Stop after scan 25.
 
-Do not process scan 21.
+Existing source-obscured holds remain scans 18 and 198.
 
 ---
 

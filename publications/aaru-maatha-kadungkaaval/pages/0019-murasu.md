@@ -36,6 +36,16 @@ transcription_method: "direct visual comparison with source scan"
 - global replacement / lexical modernization செய்யப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
 
+## P2R visual-fidelity re-audit — Batch R04
+
+- every printed word, punctuation unit, meaningful spacing and scan-boundary fragment was rechecked directly from the native scan.
+- scan 18 terminal `திராவிடப் பண்ணை` + scan 19 opening `யின் மாடியிலே` was visually confirmed.
+- source-visible forms including `மங்கிணி`, `கழகப் பணிபுரிய`, `கொஞ்சதூரம்`, `கொஞ்சும் குரலில்`, `எகாரத்தை`, `ஓயா உழைப்பின்`, and `வைத்திய சாலையில்` match the canonical record and were not normalized.
+- the dark/purple physical-copy streak and fingerprint-like handling marks are non-publication layers; underlying print remains readable.
+- mandatory family set was rechecked; representative forms include `தலையணைகூட` (`ணை` / `லை`), `கண்ணாடி` (`ணா`), `இழுத்தாற்போல` (`றா`) and `வானத்தில்` (`னா`).
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 19 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது.

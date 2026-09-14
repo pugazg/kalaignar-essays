@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **15/224**
-- completed range — **1–15**
-- next range — **16–20**
+- re-audited — **20/224**
+- completed range — **1–20**
+- next range — **21–25**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **11**
@@ -79,15 +79,29 @@ Historical-family findings:
 - scan 15 — `பண்ணை` (`ணை`), `அண்ணாவின்` (`ணா`), `சிறைச்சாலை` (`லை`);
 - new historical-family correction events — **0**; cumulative count remains **11**.
 
+## Batch R04 — scans 16–20
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 16 | body / duplicate folio 13 | PASS after corrections | independent witness confirms source short hyphens and `சொல்லிக்கொண்டோம் - நாங்கள் - ஆம்;` |
+| 17 | body / duplicate folio 14 | PASS after corrections | independent witness confirms `குறிப்பிடப் படும்போது`, single `விரும்புகிறேன்.`, no separator after `வெளியிட`, and source short hyphens |
+| 18 | body / folio 15 | visible print PASS; hold retained | opaque white fiber still hides the cluster in `ஒருவராக ஆ[…]விடக்கூடிய`; no guess |
+| 19 | body / folio 16 | PASS | full word / punctuation / spacing review; no canonical correction |
+| 20 | body / folio 17 | PASS | full word / punctuation / heading / boundary review; no canonical correction |
+
+Historical-family findings:
+
+- scan 16 — `மலையிடைப்`, `அலுவலை`, `விடுதலை` (`லை`);
+- scan 17 — `பண்ணை` (`ணை`), `அண்ணாவின்` (`ணா`), `சிறைச்சாலை` (`லை`);
+- scan 18 — `பண்ணையின்` (`ணை`), `என்னோடு` (`னோ`), `தவறாது` (`றா`), `மாலையாகிப்` (`லை`);
+- scan 19 — `தலையணைகூட` (`ணை` / `லை`), `கண்ணாடி` (`ணா`), `இழுத்தாற்போல` (`றா`), `வானத்தில்` (`னா`);
+- scan 20 — `பொன்னாக்கிவிட்டது` reconfirms historical `னா`;
+- new historical-family correction events — **0**; cumulative count remains **11**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**; scan 18 remains one of the two source-obscured holds.
+
 ## Exact next activity
 
-**Batch R04 — physical scans 16–20.**
+**Batch R05 — physical scans 21–25.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol.
-
-Important source structure for this next range:
-- scans **16–17** are separate physical witnesses repeating printed folios **13–14** and must still be audited independently;
-- scan **18** is the existing P2 source-obscured hold and must be re-inspected from its own pixels without guessing the hidden cluster;
-- scans **19–20** continue the normal sequence.
-
-Stop after scan **20**.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **25**; do not process scan 26.

@@ -19,13 +19,13 @@ transcription_method: "direct visual comparison with source scan"
 அக்பர் நுழையா அவனியே யென்கோ,
 கனிஷ்கா நுழையா தரணியே யென்கோ, என்ற புகழ்ச் சிந்தை ஆயாசத்தோடு பாடினோம் நாங்கள்.
 
-“பிரிந்தோம் – கூடுவோம்” என்று பேசியிருக்கும் அந்தக் காதல் கடிதம்.
+“பிரிந்தோம் - கூடுவோம்” என்று பேசியிருக்கும் அந்தக் காதல் கடிதம்.
 
-“கூடாதாரோடு கூடினோம் – பிரிவோம்” என்று பெருமூச்சால் சொல்லிக்கொண்டோம் நாங்கள் – ஆம்; திராவிடம் தனித்திடவேண்டும் என்ற இயக்கத்தின் படை வீரர்களாகச் செல்லும் நாங்கள்.
+“கூடாதாரோடு கூடினோம் - பிரிவோம்” என்று பெருமூச்சால் சொல்லிக்கொண்டோம் - நாங்கள் - ஆம்; திராவிடம் தனித்திடவேண்டும் என்ற இயக்கத்தின் படை வீரர்களாகச் செல்லும் நாங்கள்.
 
-ஆகா – நாங்கள் – என்று சொல்லிக்கொள்வதிலே இப்போது எவ்வளவு பெருமையிருக்கிறது. நாடு காத்திடும் அணிவகுப்பில் நாங்களும் பெயர் தந்தோம் – நாங்களும் – என்பது எத்தகைய உணர்ச்சியோடு சொல்லப்படுகிறது தெரியுமா – விளக்கமுடியாத உணர்ச்சி – விடுதலை வீரர்களால் மட்டுமே அனுபவித்து உணர்ந்திடக்கூடிய உணர்ச்சி. சோக நிலையிலுங்கூட அந்தப் பெண்மணி – தன் அலுவலை – கடமையை – சரிவரத்தான் செய்தாள். அதுபோலவே நாங்களும் கடமையைச் செய்ய சிறகடிக்கும் புறாக்களாகப் பறந்துகொண்டிருந்தோம்.
+ஆகா - நாங்கள் - என்று சொல்லிக்கொள்வதிலே இப்போது எவ்வளவு பெருமையிருக்கிறது. நாடு காத்திடும் அணிவகுப்பில் நாங்களும் பெயர் தந்தோம் - நாங்களும் - என்பது எத்தகைய உணர்ச்சியோடு சொல்லப்படுகிறது தெரியுமா - விளக்கமுடியாத உணர்ச்சி - விடுதலை வீரர்களால் மட்டுமே அனுபவித்து உணர்ந்திடக்கூடிய உணர்ச்சி. சோக நிலையிலுங்கூட அந்தப் பெண்மணி - தன் அலுவலை - கடமையை - சரிவரத்தான் செய்தாள். அதுபோலவே நாங்களும் கடமையைச் செய்ய சிறகடிக்கும் புறாக்களாகப் பறந்துகொண்டிருந்தோம்.
 
-மேகங்களை மிரண்டோடச் செய்தபடி பறந்துகொண்டிருந்த விமானம் – திடீரென்று – பயந்து விடாதீர்கள் – விபத்து ஒன்றுமில்லை – திருச்சி எல்லையைத் தொட்டுவிட்
+மேகங்களை மிரண்டோடச் செய்தபடி பறந்துகொண்டிருந்த விமானம் - திடீரென்று - பயந்து விடாதீர்கள் - விபத்து ஒன்றுமில்லை - திருச்சி எல்லையைத் தொட்டுவிட்
 
 ## அச்சு அமைப்பு
 
@@ -46,6 +46,17 @@ transcription_method: "direct visual comparison with source scan"
 - `கனிஷ்கா` உள்ளிட்ட source-visible wording context மூலம் மாற்றப்படவில்லை.
 - global replacement / lexical modernization செய்யப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
+
+## P2R visual-fidelity re-audit — Batch R04
+
+- scan 16 was audited independently from scan 14 even though both are separate physical witnesses of printed folio 13.
+- every printed word, quote, punctuation separator, meaningful spacing and terminal fragment `தொட்டுவிட்` was compared directly with scan-16 pixels.
+- all source separators are short hyphens; prior en-dash normalization was removed.
+- source punctuation also requires `பெருமூச்சால் சொல்லிக்கொண்டோம் - நாங்கள் - ஆம்;`; the earlier scan-16 record omitted the first hyphen around `நாங்கள்`.
+- the pale physical-copy strip crossing the upper verse does not leave any canonical character unresolved.
+- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` was rechecked; representative forms include `மலையிடைப்`, `அலுவலை`, and `விடுதலை` (`லை`).
+- unresolved historical-glyph ambiguity — **0**; no new historical-family correction event.
+- result — **PASS after punctuation-fidelity corrections**.
 
 ## P2 நிலை
 

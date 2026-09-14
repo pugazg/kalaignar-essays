@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 15/224 scans complete; next 16–20** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 20/224 scans complete; next 21–25** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1431,8 +1431,22 @@ Historical-family verification produced **0 new correction events**; cumulative 
 
 P2R progress — **15/224**. Next range — **16–20**.
 
+### Batch R04 — scans 16–20
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 16 | PASS after corrections | independent duplicate witness; source short hyphens and `சொல்லிக்கொண்டோம் - நாங்கள் - ஆம்;` restored |
+| 17 | PASS after corrections | independent duplicate witness; `குறிப்பிடப் படும்போது`, single period, no separator after `வெளியிட`, source short hyphens |
+| 18 | visible print PASS / needs-review retained | white physical obstruction still makes `ஆ[…]விடக்கூடிய` unrecoverable without guessing |
+| 19 | PASS | full word / punctuation / spacing review; no correction |
+| 20 | PASS | full word / punctuation / heading / boundary review; no correction |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **11**.
+
+P2R progress — **20/224**. P2 remains **222 verified / 2 needs-review**. Next range — **21–25**.
+
 ## Exact next activity
 
-**P2R Batch R04 — scans 16–20.**
+**P2R Batch R05 — scans 21–25.**
 
-Perform the same word-by-word visual fidelity and mandatory 13-family historical-glyph audit. Scans 16–17 are duplicate physical witnesses and must be audited independently; scan 18 is the existing physical-obstruction hold and must not be completed from context. Stop after scan 20.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 25.

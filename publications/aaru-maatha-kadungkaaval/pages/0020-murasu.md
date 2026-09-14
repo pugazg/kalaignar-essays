@@ -41,6 +41,17 @@ transcription_method: "direct visual comparison with source scan"
 - `நேர்மையின் திரு உரு`, `பண்பாடும் சிறுவர்கள்` போன்ற source-visible wording context மூலம் மாற்றப்படவில்லை.
 - unresolved historical-glyph ambiguity இல்லை.
 
+## P2R visual-fidelity re-audit — Batch R04
+
+- scan 19 terminal `ஒரு` + scan 20 opening `கள்ளம் கபடமற்ற...` was rechecked directly.
+- every visible word, numeral, quote, punctuation unit, heading and terminal fragment `தொட்டுப்` was compared with the native scan.
+- line-wrap joins such as `வேண்டு` + `மென்ற` → canonical `வேண்டுமென்ற` were retained only where direct source continuity proves one lexical item.
+- source-visible unusual wording including `பத்தரைமாற்றுப் பசும் பொன்னாக்கிவிட்டது`, `நானுந்தான்`, `நேர்மையின் திரு உரு`, and `பண்பாடும் சிறுவர்கள்` remains unchanged.
+- the small pale strip / stains are non-publication marks and do not obscure canonical print.
+- mandatory historical-family verification rechecked; `பொன்னாக்கிவிட்டது` reconfirms historical `னா` identity as a first/source reading, not a new correction event.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 20 முழுமையாக direct visual comparison மூலம் உறுதிசெய்யப்பட்டது; scan 21 intentionally not opened/transcribed.

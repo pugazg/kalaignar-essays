@@ -43,6 +43,17 @@ transcription_method: "direct visual comparison with source scan"
 - the white fiber/paper-like obstruction remains optically opaque across the missing cluster after `ஒருவராக ஆ`; the covered print cannot be recovered from this copy.
 - no contextual completion was inserted; the `[…]` lacuna remains authoritative.
 
+## P2R visual-fidelity re-audit — Batch R04
+
+- every visible printed word, punctuation mark, meaningful spacing and both physical page-boundary fragments were rechecked from scan-18 native pixels.
+- scan 17 `அத்` + scan 18 `தகையவர்` and scan 18 terminal `திராவிடப் பண்ணை` were source-confirmed without pulling text from scan 19.
+- the white fiber was re-inspected at native resolution and enlarged again. It remains optically opaque over the cluster after `ஒருவராக ஆ` and before `விடக்கூடிய`.
+- surviving black contours are insufficient to identify the hidden character(s) securely; no contextually plausible completion was promoted.
+- all other canonical wording and short-hyphen punctuation on the page matches the source.
+- mandatory historical-family verification was repeated wherever print is visible; representative forms include `பண்ணையின்` (`ணை`), `என்னோடு` (`னோ`), `தவறாது` (`றா`) and `மாலையாகிப்` (`லை`).
+- the obscured cluster remains a physical-source lacuna, not a historical-glyph ambiguity.
+- result — **PASS for all visible print / existing needs-review hold retained**.
+
 ## P2 நிலை
 
 **needs-review** — page transcription is complete except for one physically obscured cluster in the first paragraph; no guess was inserted.
