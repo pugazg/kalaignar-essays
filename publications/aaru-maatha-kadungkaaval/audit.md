@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 100/224 scans complete; next 101–105** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 105/224 scans complete; next 106–110** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1669,8 +1669,23 @@ Historical-family verification added **0 new correction events**; cumulative cou
 
 P2R progress — **100/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **101–105**.
 
+
+### Batch R21 — scans 101–105
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 101 | PASS | complete heading / text / punctuation / spacing / terminal `வாரி வழங்கும்` confirmed; canonical source text unchanged; audit-note typo `பிணமானை` → `பிணமானான்` cleaned up |
+| 102 | PASS after corrections | `திராவிடத்தாய்` → `திராவிடத்தரணி`; `கிடக்கிறானை பார்` → `கிடக்கிறான் பார்`; `புது மொழி பேசிய` → `புது மொழில் பேசிய` |
+| 103 | PASS after corrections | historical `ளை`: `எலும்புகள்` → `எலும்புகளை`, `நரம்புகள்` → `நரம்புகளை`; ordinary `இழித்துச் சொல் வீசியதைக்` → `இழித்துச் சுடுசொல் வீசியதைக்`; terminal `அவனை நா நா` confirmed |
+| 104 | PASS after correction | second `ஆறுபிணம்` → source-visible `ஆறு பிணம்`; scan-103 continuation / complete ending confirmed |
+| 105 | PASS after correction | `பதினாறு வயது` → source-visible `பதினாறுவயது`; proper-name list / terminal `ஆகி` confirmed; scan 106 not opened |
+
+Historical-family verification added **2 new correction events** at scan 103 (`ளை` in `எலும்புகளை` and `நரம்புகளை`); cumulative count is now **13**. Ordinary source-fidelity corrections — **6**.
+
+P2R progress — **105/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **106–110**.
+
 ## Exact next activity
 
-**P2R Batch R21 — scans 101–105.**
+**P2R Batch R22 — scans 106–110.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 105.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 110; do not process scan 111.

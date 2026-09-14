@@ -20,12 +20,12 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **100/224**
-- completed range — **1–100**
-- next range — **101–105**
+- re-audited — **105/224**
+- completed range — **1–105**
+- next range — **106–110**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
-- cumulative historical-glyph correction events — **11**
+- cumulative historical-glyph correction events — **13**
 
 ## Batch R01 — scans 1–5
 
@@ -467,8 +467,33 @@ Ordinary source-fidelity corrections in Batch R20 — **1**.
 
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
+
+## Batch R21 — scans 101–105
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 101 | body / folio 98 | PASS | complete heading / text / punctuation / spacing / terminal `வாரி வழங்கும்` confirmed; source-text unchanged; prior audit-note typo `பிணமானை` → `பிணமானான்` cleaned up |
+| 102 | body / folio 99 | PASS after corrections | `திராவிடத்தாய்` → `திராவிடத்தரணி`; `கிடக்கிறானை பார்` → `கிடக்கிறான் பார்`; `புது மொழி பேசிய` → `புது மொழில் பேசிய` |
+| 103 | body / folio 100 | PASS after corrections | historical `ளை`: `எலும்புகள்` → `எலும்புகளை`, `நரம்புகள்` → `நரம்புகளை`; ordinary `இழித்துச் சொல் வீசியதைக்` → `இழித்துச் சுடுசொல் வீசியதைக்`; terminal `அவனை நா நா` confirmed |
+| 104 | body / folio 101 | PASS after correction | second `ஆறுபிணம்` → source-visible `ஆறு பிணம்`; scan-103 continuation and complete ending confirmed |
+| 105 | body / folio 102 | PASS after correction | `பதினாறு வயது` → source-visible `பதினாறுவயது`; proper-name list and terminal `ஆகி` confirmed; scan 106 not opened |
+
+Historical-family findings:
+
+- scan 101 — `இளைஞனின்` (`ளை`), `ஓடோடிவந்தானாம்` (`னா`), `படித்தானோ` (`னோ`), `தாறுமாறாகக்` (`றா`);
+- scan 102 — `நனைத்திருக்கும்` (`னை`), `பெற்றாய்` / `கிடக்கிறான்` / `நன்றாக` (`றா`), `பிள்ளைகளைப்` (`ளை`);
+- scan 103 — historical `ளை` identity restored in `எலும்புகளை` and `நரம்புகளை`; `உடலைக்` reconfirms `லை`;
+- scan 104 — `உலைக்` reconfirms `லை`;
+- scan 105 — `பதினாறுவயது` (`றா`), `அண்ணாமலை` (`ணா / லை`), `செல்லையா` (`லை`);
+- all 13 tracked families were explicitly checked on every scan by character identity;
+- new historical-family correction events — **2**; cumulative count becomes **13**.
+
+Ordinary source-fidelity corrections in Batch R21 — **6**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
 ## Exact next activity
 
-**Batch R21 — physical scans 101–105.**
+**Batch R22 — physical scans 106–110.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **105**; do not process scan 106.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **110**; do not process scan 111.

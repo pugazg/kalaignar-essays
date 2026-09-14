@@ -23,13 +23,13 @@ transcription_method: "direct visual comparison with source scan"
 
 உயிரோடு ஆறுபேரை விழுங்கிய உதிரவாய்க் ‘காளிக்கு’ வயிற்றிலே கொஞ்சம் இடம் காலி - அதற்காகக் கல்லக்குடியிலே சந்தனம் ஜோசப்பின் இடதுகை முழுவதையும் முறித்துப் போட்டுக்கொண்டது. அப்போதும் கொஞ்ச இடம் காலி - தூத்துக்குடி ஆசிரியர் குருசாமியின் இடதுகால் வாழைப்பழம்போல் எடுத்து வயிற்றுக்குள் போட்டுக்கொண்டது.
 
-ரத்த விருந்து முடியவில்லை - பதினாறு வயது இளைஞன் ராமச்சந்திரனின் பச்சைத் தொடைக்கறி - வாலிபன் சண்முகத்தின் கணுக்கால் சதை - ரங்கநாதன் குடல் கறி - கோம்பன், கிருஷ்ணன், செல்லையா, சோமன், வேணுலிங்கம், சுடலை, முணுசாமி, ரத்தினம், ஈஸ்வரன், சதாசிவன், அண்ணாமலை, முணுசாமி, நாராயணன், செபாஸ்டின் ஆகி
+ரத்த விருந்து முடியவில்லை - பதினாறுவயது இளைஞன் ராமச்சந்திரனின் பச்சைத் தொடைக்கறி - வாலிபன் சண்முகத்தின் கணுக்கால் சதை - ரங்கநாதன் குடல் கறி - கோம்பன், கிருஷ்ணன், செல்லையா, சோமன், வேணுலிங்கம், சுடலை, முணுசாமி, ரத்தினம், ஈஸ்வரன், சதாசிவன், அண்ணாமலை, முணுசாமி, நாராயணன், செபாஸ்டின் ஆகி
 
 ## அச்சு அமைப்பு
 
 - visible printed folio — **102**.
 - running header — `கருணாநிதி`.
-- enlarged source-pixel recheck confirms `பதினாறு வயது`; source-visible `நேருக்குநேர்`, `தூக்கிக்கொடு`, `குளிப்பாட்டிக்கொடு`, `உதிரவாய்க் ‘காளிக்கு’`, `கொஞ்ச இடம் காலி`, and `வாழைப்பழம்போல்` remain unchanged.
+- enlarged source-pixel recheck confirms `பதினாறுவயது`; source-visible `நேருக்குநேர்`, `தூக்கிக்கொடு`, `குளிப்பாட்டிக்கொடு`, `உதிரவாய்க் ‘காளிக்கு’`, `கொஞ்ச இடம் காலி`, and `வாழைப்பழம்போல்` remain unchanged.
 - the proper-name list was read directly from source pixels through `செபாஸ்டின்`.
 - page ends at the physical fragment `ஆகி`; scan 106 was not opened and no continuation was inferred.
 
@@ -43,7 +43,20 @@ transcription_method: "direct visual comparison with source scan"
 - whole page inspected directly at enlarged source resolution.
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - historical `லை` / `ணை` and related proper-name clusters were decoded by character identity.
-- this recheck corrected historical `றா` identity in `பதினாறு`; unresolved historical-glyph ambiguity — **0**.
+- this recheck corrected historical `றா` identity inside `பதினாறுவயது`; unresolved historical-glyph ambiguity — **0**.
+
+
+## P2R visual-fidelity re-audit — Batch R21
+
+- every printed word, proper name, numeral, punctuation mark, meaningful spacing, running header and terminal physical fragment was rechecked directly from the attached source pixels.
+- direct spacing correction: `பதினாறு வயது` → **`பதினாறுவயது`**. Enlarged pixels show no inter-word space between the two printed components; this repair is source-spacing fidelity, not grammatical normalization.
+- the proper-name sequence through `செபாஸ்டின்` was reconfirmed directly from source pixels.
+- exact terminal physical fragment `ஆகி` was preserved; scan 106 was not opened and no continuation was inferred.
+- physical stains / age marks remain non-publication layer.
+- mandatory historical-family verification was repeated; `பதினாறுவயது` (`றா`), `அண்ணாமலை` (`ணா / லை`), and `செல்லையா` (`லை`) were reconfirmed; the full 13-family set was checked by character identity.
+- new historical-family correction events — **0**; cumulative count remains **13**.
+- ordinary source-fidelity corrections on this scan — **1**.
+- result — **PASS after source-fidelity correction**.
 
 ## P2 நிலை
 

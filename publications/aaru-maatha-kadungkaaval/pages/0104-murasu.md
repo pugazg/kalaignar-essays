@@ -15,7 +15,7 @@ transcription_method: "direct visual comparison with source scan"
 
 வென்று மென்று தின்று நாக்கை சப்புக்கொட்டிக்கொண்டு “நாலு பிணம் போதாது - இன்னும் தேவை” என்று சீறிப் பாய்ந்தது - சீனுவாசம் பிள்ளை யென்ற கிழவர்மீது! அவரை விழுங்கி வாயில் போட்டுக்கொண்டு மந்திரம் நாடாரின் உயிரையும் தின்றது!
 
-ஆறு பிணம் - ஆறுபிணம் - ஆறவில்லை பசி அடக்குமுறைக்கு! திராவிடத்தாயே! பாடைகள் ஆறு உன் பாலகர்களுக்கு! ஒன்று, இரண்டு, மூன்று, நான்கு, ஐந்து, ஆறு! ஒரே நாளில்! ஆறு பிணம் - ஆறு மக்கள் சுடுகாட்டுக்கு அனுப்புகிறாய்.
+ஆறு பிணம் - ஆறு பிணம் - ஆறவில்லை பசி அடக்குமுறைக்கு! திராவிடத்தாயே! பாடைகள் ஆறு உன் பாலகர்களுக்கு! ஒன்று, இரண்டு, மூன்று, நான்கு, ஐந்து, ஆறு! ஒரே நாளில்! ஆறு பிணம் - ஆறு மக்கள் சுடுகாட்டுக்கு அனுப்புகிறாய்.
 
 உத்தமர் காந்தியின் உலைக் களத்திலே - அகிம்சை நெருப்பிலே பழுக்கக் காய்ச்சப்பட்டு - சுதந்திரம் என்னும் சம்மட்டியால் உருவாக்கப்பட்ட தூய்மை என்னும் துப்பாக்கி முனைகள் துளைத்துத் தோற்றுவித்த ஆறு பிணங்கள்! அய்யகோ! காந்தியாரின் கல்லறைக்கு முன்னே காவு கொடுக்கப்பட்டு - பாரதமாதாவுக்கு படையல் போடுவதற்காக தயாரான ஆறு பிணங்கள்!
 
@@ -28,7 +28,7 @@ transcription_method: "direct visual comparison with source scan"
 - visible printed folio — **101**.
 - running header — `ஆறுமாதக் கடுங்காவல்`.
 - scan 103 terminal `அவனை நா நா` continues directly with this page’s `வென்று மென்று...`.
-- source-visible names / forms `சீனுவாசம் பிள்ளை`, `மந்திரம் நாடார்`, `ஆறுபிணம்`, `உலைக் களத்திலே`, `சம்மட்டியால்`, and `போகாதம்மா` were preserved.
+- source-visible names / forms `சீனுவாசம் பிள்ளை`, `மந்திரம் நாடார்`, repeated `ஆறு பிணம்`, `உலைக் களத்திலே`, `சம்மட்டியால்`, and `போகாதம்மா` were preserved.
 - page ends with complete `ஆனால் இந்தக் கண்ணீர் வீண் போகாதம்மா!`
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -42,6 +42,19 @@ transcription_method: "direct visual comparison with source scan"
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
 - historical `லை` identity in `உலைக்` and other affected clusters was decoded by character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
+
+
+## P2R visual-fidelity re-audit — Batch R21
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header and complete page ending was rechecked directly from the attached source pixels.
+- scan 103 terminal `அவனை நா நா` → this page’s opening `வென்று மென்று...` continuation was reconfirmed without rewriting either page boundary.
+- direct spacing correction: `ஆறு பிணம் - ஆறுபிணம் - ஆறவில்லை` → **`ஆறு பிணம் - ஆறு பிணம் - ஆறவில்லை`**. Both printed occurrences visibly contain the word space.
+- source-visible names / forms including `சீனுவாசம் பிள்ளை`, `மந்திரம் நாடார்`, `உலைக் களத்திலே`, `சம்மட்டியால்`, and `போகாதம்மா` were otherwise preserved.
+- physical stains / print wear remain non-publication layer.
+- mandatory historical-family verification was repeated; `உலைக்` reconfirms `லை`, and the full 13-family set was checked by character identity.
+- new historical-family correction events — **0**; cumulative count remains **13**.
+- ordinary source-fidelity corrections on this scan — **1**.
+- result — **PASS after source-fidelity correction**.
 
 ## P2 நிலை
 

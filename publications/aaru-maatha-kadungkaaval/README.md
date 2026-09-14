@@ -38,7 +38,7 @@ Direct native inspection established:
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 100/224 scans; next 101–105**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 105/224 scans; next 106–110**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -97,7 +97,7 @@ Notable durable findings:
 - scans 16–17 repeat printed folios 13–14;
 - scan 18 resumes printed folio 15;
 - physical scans are never deduplicated;
-- historical-glyph correction count — **11**: scan 13 contributes the prior correction; Batch 021 adds **8** historical-family source-pixel corrections; Batch 041 adds **2** scan-205 historical-form corrections.
+- historical-glyph correction count — **13**: scan 13 contributes the prior correction; Batch 021 adds **8** historical-family source-pixel corrections; Batch 041 adds **2** scan-205 historical-form corrections; P2R Batch R21 adds **2** historical-`ளை` repairs at scan 103.
 - scans 26–30 — **5/5 verified**, printed folios 23–27, no new holds.
 - scans 31–35 — **5/5 verified**, printed folios 28–32, headings `ஜூன் 19` / `விடிந்தது:`, no new holds; scan 35 ends at `வேலாயுதம்`.
 - scans 36–40 — **5/5 verified**, printed folios 33–37, scan 40 heading `திருச்சியிலே :`, no new holds; scan 40 ends at `கற்றுக்`.
@@ -665,8 +665,25 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - guessed readings remain **0**
 - P2R progress — **100/224**
 
+
+### Batch R21 — scans 101–105
+
+- scans 101–105 — **5/5 re-audited**
+- scan 101 — PASS / no canonical source-text correction; prior audit-note typo `பிணமானை` → `பிணமானான்` cleaned up
+- scan 102 — `திராவிடத்தாய்` → **`திராவிடத்தரணி`**; `கிடக்கிறானை பார்` → **`கிடக்கிறான் பார்`**; `புது மொழி பேசிய` → **`புது மொழில் பேசிய`**
+- scan 103 — historical `ளை`: `எலும்புகள்` → **`எலும்புகளை`** and `நரம்புகள்` → **`நரம்புகளை`**; ordinary `இழித்துச் சொல் வீசியதைக்` → **`இழித்துச் சுடுசொல் வீசியதைக்`**
+- scan 104 — second `ஆறுபிணம்` → **`ஆறு பிணம்`**
+- scan 105 — `பதினாறு வயது` → **`பதினாறுவயது`**
+- scan 101→102 and scan 103→104 physical continuations were reconfirmed; scan 105 terminal `ஆகி` preserved; scan 106 not opened
+- ordinary source-fidelity corrections — **6**
+- new historical-glyph correction events — **2**
+- cumulative historical-glyph correction-event count — **13**
+- P2 totals remain **222 verified / 2 needs-review**
+- guessed readings remain **0**
+- P2R progress — **105/224**
+
 ## Exact next activity
 
-**P2R Batch R21 — scans 101–105.**
+**P2R Batch R22 — scans 106–110.**
 
-Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Stop after scan 105.
+Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Stop after scan 110; do not process scan 111.

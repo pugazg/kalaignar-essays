@@ -42,8 +42,21 @@ transcription_method: "direct visual comparison with source scan"
 
 - whole page inspected directly at enlarged source resolution.
 - `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` families were explicitly checked.
-- affected older-type clusters including `இளைஞனின்` and `பிணமானை` were decoded by character identity.
+- affected older-type clusters including `இளைஞனின்` and `பிணமானான்` were decoded by character identity.
 - this recheck corrected historical-family identities in `ஓடோடிவந்தானாம்` (`னா`), `படித்தானோ` (`னோ`), and `தாறுமாறாகக்` (`றா`); unresolved historical-glyph ambiguity — **0**.
+
+
+## P2R visual-fidelity re-audit — Batch R21
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header, heading and terminal fragment was rechecked directly from the attached source pixels.
+- heading `நடராசன்` and source forms including `களப்பலியானான்`, `ஓடோடிவந்தானாம்`, `பிணமானான்`, `படித்தானோ`, `படிக்க வில்லையோ`, `இறந்துபட்டான்`, and `தாறுமாறாகக்` were reconfirmed.
+- exact terminal `வாரி வழங்கும்` was preserved; scan 102 supplies the continuation `அன்னை திராவிடமே!`.
+- prior audit-note typo `பிணமானை` was corrected to the source-visible `பிணமானான்`; canonical source text itself required no change.
+- physical stains / age marks remain non-publication layer.
+- mandatory historical-family verification was repeated; `இளைஞனின்` (`ளை`), `ஓடோடிவந்தானாம்` (`னா`), `படித்தானோ` (`னோ`) and `தாறுமாறாகக்` (`றா`) were reconfirmed; the full 13-family set was checked by character identity.
+- new historical-family correction events — **0**; cumulative count remains **11** at scan 101.
+- canonical source-text correction — **none**.
+- result — **PASS**.
 
 ## P2 நிலை
 

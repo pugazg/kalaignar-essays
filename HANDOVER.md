@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P2R Batch R20 / full visual-fidelity re-audit scans 96–100**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **100/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **P2R Batch R21 / full visual-fidelity re-audit scans 101–105**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **105/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -58,7 +58,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 100/224 scans complete; next 101–105**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 105/224 scans complete; next 106–110**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1685,11 +1685,27 @@ Batch R01 scans **1–5** is complete.
 - guessed readings remain **0**.
 - P2R progress — **100/224**.
 
+
+### Batch R21 — scans 101–105
+
+- **5/5 re-audited**
+- scan 101 — PASS / no canonical source-text correction; prior audit-note typo `பிணமானை` → `பிணமானான்` cleaned up.
+- scan 102 — corrected `திராவிடத்தாய்` → **`திராவிடத்தரணி`**, `கிடக்கிறானை பார்` → **`கிடக்கிறான் பார்`**, and `புது மொழி பேசிய` → **`புது மொழில் பேசிய`**.
+- scan 103 — restored historical `ளை` in `எலும்புகளை` and `நரம்புகளை`; corrected `இழித்துச் சொல் வீசியதைக்` → **`இழித்துச் சுடுசொல் வீசியதைக்`**.
+- scan 104 — corrected second `ஆறுபிணம்` → source-visible **`ஆறு பிணம்`**.
+- scan 105 — corrected `பதினாறு வயது` → source-visible **`பதினாறுவயது`**.
+- scan 101 → 102 and scan 103 → 104 physical continuations were reconfirmed without rewriting page boundaries; scan 105 terminal `ஆகி` was preserved and scan 106 was not opened.
+- ordinary source-fidelity corrections — **6**.
+- new historical-family correction events — **2**; cumulative count is now **13**.
+- P2 totals remain **222 verified / 2 needs-review**.
+- guessed readings remain **0**.
+- P2R progress — **105/224**.
+
 ## Exact next activity
 
-**P2R Batch R21 — physical scans 101–105.**
+**P2R Batch R22 — physical scans 106–110.**
 
-Process exactly five physical scans with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Stop after scan 105.
+Process exactly five physical scans with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Stop after scan 110; do not process scan 111.
 
 Existing source-obscured holds remain scans 18 and 198.
 
