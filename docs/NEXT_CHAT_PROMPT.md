@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R15 scans 71–75
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R16 scans 76–80
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
 
@@ -13,26 +13,22 @@ Use only the attached full source:
 
 No OCR, web copies, Wikisource, TVA web text, alternate editions, or contextual completion.
 
-## Durable state after Batch R14
+## Durable state after Batch R15
 
 - P2 canonical coverage — **224/224**
 - P2 — **222 verified / 2 needs-review** (source-obscured holds scans 18 and 198)
-- P2R — **70/224 complete**
-- re-audited scans — **1–70**
+- P2R — **75/224 complete**
+- re-audited scans — **1–75**
 - historical-glyph correction-event count — **11**
 - guessed readings — **0**
-
-Batch R14:
-- scan 66 — illustration PASS; `தடை` / `கல்லக்குடி` confirmed
-- scan 67 — blank reverse PASS
-- scan 68 — `போராட்டம் - அதற்கு` → **`போராட்டம்- அதற்கு`**
-- scan 68 — `நிதி வசூல்` → **`நிதிவசூல்`**
-- scans 69–70 — PASS / no canonical correction
+- Batch R15 scans 71–75 all passed full word / numeral / punctuation / spacing / page-boundary review with **0 canonical text corrections**
+- scan 71 `கிடக்கிறது` → scan 72 `வடநாட்டு முதலாளியால்!` boundary reconfirmed
+- scan 73 `வட நாட்` → scan 74 `டானின்` boundary reconfirmed
 - new historical-family correction events — **0**
 
 ## Exact next activity
 
-Process exactly physical scans **71–75**.
+Process exactly physical scans **76–80**.
 
 For every scan:
 1. compare every printed word, numeral, punctuation mark, meaningful spacing and page-boundary fragment with the canonical record;
@@ -42,4 +38,4 @@ For every scan:
 5. record PASS / correction details in the page record and `P2_REAUDIT_PROGRESS.md`;
 6. synchronize controls and commit.
 
-Stop after scan **75**. Do not process scan 76 in this iteration.
+Stop after scan **80**. Do not process scan 81 in this iteration.

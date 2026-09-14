@@ -44,6 +44,15 @@ transcription_method: "direct visual comparison with source scan"
 - difficult older forms were decoded by character identity rather than modern visual resemblance.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R15
+
+- every printed word, punctuation separator, meaningful spacing, running header and terminal fragment `கிடக்கிறது` was rechecked against the native embedded-source image.
+- source-visible forms including `கொட்டகைபோட`, `கணக்குப்பார்த்தோ`, `மிகமிஞ்சிய`, `நூறுபேர்`, `தொல்லைகளுக்கிடையே`, and `சுற்றிப்பார்க்கச்` all match the canonical record.
+- scan 71 terminal `கிடக்கிறது` was preserved exactly for the scan-72 continuation; no forward text was pulled into this page.
+- mandatory historical-family verification was repeated; representative checks include `இளைஞர்` (`ளை`) and `தொல்லைகளுக்கிடையே` (`லை` family in the same typeface).
+- unresolved historical-glyph ambiguity — **0**; no new historical-family correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 71 was fully compared with source pixels.

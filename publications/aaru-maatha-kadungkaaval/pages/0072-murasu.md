@@ -39,6 +39,15 @@ transcription_method: "direct visual comparison with source scan"
 - affected clusters including சுண்ணாம்புக் and காற்றோடு were read by historical character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R15
+
+- scan 71 terminal `கிடக்கிறது` + scan 72 opening `வடநாட்டு முதலாளியால்!` was visually reconfirmed as the physical continuation.
+- every printed word, punctuation separator, meaningful spacing and complete page ending was compared with native source pixels.
+- source-visible forms including `தாறுமாறாய்ப்`, `இருப்புப்பாதை`, `பெருங்குழிகள்`, `பாளம் பாளமாக`, `சுண்ணாம்புக் கற்கள்`, `வானளாவக்`, and `புகைக்கூண்டிலிருந்து` were rechecked and preserved.
+- mandatory historical-family verification was repeated; `சுண்ணாம்புக்` / `காணப்படுகின்றன` reconfirm `ணா`, and `காற்றோடு` reconfirms `றா`.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 72 was fully compared with source pixels.

@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **70/224**
-- completed range — **1–70**
-- next range — **71–75**
+- re-audited — **75/224**
+- completed range — **1–75**
+- next range — **76–80**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **11**
@@ -326,8 +326,31 @@ Ordinary source-fidelity corrections in Batch R14 — **2**.
 
 P2 canonical totals remain **222 verified / 2 needs-review**.
 
+## Batch R15 — scans 71–75
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 71 | body / folio 68 | PASS | full text / running header / punctuation / spacing / terminal fragment confirmed; no canonical correction |
+| 72 | body / folio 69 | PASS | scan-71 continuation, complete body text and historical-family checks confirmed; no canonical correction |
+| 73 | body / folio 70 | PASS | full text / numeral / punctuation / exact terminal `வட நாட்` confirmed; no canonical correction |
+| 74 | body / folio 71 | PASS | `வட நாட்` + `டானின்` boundary, quotations and complete body text confirmed; no canonical correction |
+| 75 | body / folio 72 | PASS | full text / Latin initials / numerals / quoted passage / complete ending confirmed; no canonical correction |
+
+Historical-family findings:
+
+- scan 71 — `இளைஞர்` (`ளை`) and `தொல்லைகளுக்கிடையே` same-typeface `லை` check;
+- scan 72 — `சுண்ணாம்புக்` / `காணப்படுகின்றன` (`ணா`), `காற்றோடு` (`றா`);
+- scan 73 — `அண்ணாந்து` (`ணா`), `வெள்ளைக்காரன்` (`ளை`), `நிலை` (`லை`);
+- scan 74 — `மண்ணைச்` (`ணை`), `இளைஞர்களும்` (`ளை`), `நிலையத்தை` (`லை`);
+- scan 75 — `அண்ணா` (`ணா`), `மண்ணை` (`ணை`), `சென்னை` (`னை`), `தலைமையேற்று` (`லை`);
+- new historical-family correction events — **0**; cumulative count remains **11**.
+
+Ordinary source-fidelity corrections in Batch R15 — **0**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**.
+
 ## Exact next activity
 
-**Batch R15 — physical scans 71–75.**
+**Batch R16 — physical scans 76–80.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **75**; do not process scan 76.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **80**; do not process scan 81.

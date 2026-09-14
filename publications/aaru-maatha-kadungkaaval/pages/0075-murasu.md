@@ -44,6 +44,15 @@ transcription_method: "direct visual comparison with source scan"
 - “அண்ணா”, “மண்ணை”, and other affected clusters were decoded by historical character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R15
+
+- every printed word, Latin initials, numerals, quotation marks, punctuation separators, meaningful spacing and complete terminal sentence `வெளிவந்தன.` were compared with native source pixels.
+- source-visible forms including `உபதலைவர்`, `மைனுதீன்`, `ஜூலை 11 - 12`, `பெருஞ் சிறப்பு`, `S. V. லிங்கம்`, `கல்லறை`, `வாரிப்போட்டு`, and `கொச்சைத் தமிழால்` were rechecked and preserved.
+- scan 76 was not opened; scan 75 already ends with a complete sentence.
+- mandatory historical-family verification was repeated; `அண்ணா` reconfirms `ணா`, `மண்ணை` reconfirms `ணை`, `சென்னை` reconfirms `னை`, and `தலைமையேற்று` reconfirms `லை`.
+- unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction-event count remains **11**.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 75 was fully compared with source pixels.

@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 70/224 scans complete; next 71–75** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 75/224 scans complete; next 76–80** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1585,8 +1585,22 @@ Historical-family verification added **0 new correction events**; cumulative cou
 
 P2R progress — **70/224**. P2 remains **222 verified / 2 needs-review**. Next range — **71–75**.
 
+### Batch R15 — scans 71–75
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 71 | PASS | complete text / running header / punctuation / spacing / terminal fragment confirmed |
+| 72 | PASS | scan-71 continuation and complete body text / historical-family review confirmed |
+| 73 | PASS | complete text / numeral / punctuation / exact terminal `வட நாட்` confirmed |
+| 74 | PASS | physical `வட நாட்` + `டானின்` continuation, quotations and full body text confirmed |
+| 75 | PASS | complete text / Latin initials / numerals / quoted passage / terminal sentence confirmed |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **11**. Ordinary source-fidelity corrections — **0**.
+
+P2R progress — **75/224**. P2 remains **222 verified / 2 needs-review**. Next range — **76–80**.
+
 ## Exact next activity
 
-**P2R Batch R15 — scans 71–75.**
+**P2R Batch R16 — scans 76–80.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 75.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 80.

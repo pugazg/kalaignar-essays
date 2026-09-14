@@ -43,6 +43,15 @@ transcription_method: "direct visual comparison with source scan"
 - இளைஞர்களும் and other affected clusters were decoded by source character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R15
+
+- scan 73 terminal `வட நாட்` + scan 74 opening `டானின்` was visually reconfirmed as the cross-page continuation `வட நாட்டானின்` while preserving the two physical fragments.
+- every printed word, quotation mark, punctuation separator, meaningful spacing and complete page ending was compared with native source pixels.
+- source-visible forms including `கொள்ளையடித்தது மில்லாமல்`, `தொடையிலேயே கயிறு திரிப்பது`, `டால்மியாபுரம் ஸ்டேஷன்.`, `அவதிக்குள்ளாயினர்`, and `நிதியொன்று` all match the canonical record.
+- mandatory historical-family verification was repeated; `மண்ணைச்` reconfirms `ணை`, `இளைஞர்களும்` reconfirms `ளை`, and `நிலையத்தை` supplies a same-page `லை` family check.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 74 was fully compared with source pixels.

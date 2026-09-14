@@ -40,6 +40,15 @@ transcription_method: "direct visual comparison with source scan"
 - அண்ணாந்து and related older-type clusters were decoded by character identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R15
+
+- every printed word, numeral, punctuation separator, meaningful spacing and terminal physical fragment `வட நாட்` was rechecked directly from native source pixels.
+- source-visible forms including `சூடான பெருமூச்சாலேயே`, `வெள்ளிப் பணமாக்கி`, `ஏகாதிபத்தியத்தை`, `ஏகத்தாளம்`, `நிலத்துக்குடையோர்`, `அண்ணாந்து`, `பெருமூச்செறியும்`, and `உறிஞ்சும் கூட்டுறவிலிருந்து` all match the canonical record.
+- scan 73 terminal `வட நாட்` remains the exact physical fragment; the scan-74 `டானின்` continuation was not merged backward.
+- mandatory historical-family verification was repeated; `அண்ணாந்து` reconfirms `ணா`, `வெள்ளைக்காரன்` includes the `ளை` family, and `நிலை` confirms `லை`.
+- unresolved historical-glyph ambiguity — **0**; no new correction event.
+- result — **PASS / no canonical text correction**.
+
 ## P2 நிலை
 
 **verified** — scan 73 was fully compared with source pixels.
