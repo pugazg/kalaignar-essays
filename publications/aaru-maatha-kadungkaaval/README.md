@@ -37,7 +37,7 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 194 verified / 30 needs-review**
+- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 199 verified / 25 needs-review**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -160,7 +160,6 @@ Open holds:
 - scan 18 — one physically obscured cluster after `ஒருவராக ஆ`;
 - scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
 - scans 161–165 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 12–16;
-- scans 181–185 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 32–36;
 - scans 186–190 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 37–41;
 - scans 191–195 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 42–46;
 - scans 196–200 — exact full-page transcription / punctuation / physical-copy-mark audit / historical-glyph verification pending focused archival-fidelity re-read of extract pages 47–51.
@@ -168,8 +167,8 @@ Open holds:
 Current P2 totals:
 
 - records — **224/224**
-- verified — **194**
-- needs-review — **30**
+- verified — **199**
+- needs-review — **25**
 - blocked — **0**
 - guessed readings — **0**
 - historical-glyph corrections — **11**
@@ -333,8 +332,23 @@ Current P2 totals:
 - scan 180 preserves `சன்யாட்சன்`, `மாசேதுங்`, `மூன்றுநிலை`, and `செங்கோலோச்சுவோரின்`.
 - scan 181 was not opened.
 
+## Batch 052 — backlog scans 181–185
+
+- backlog records resolved — **5/5**
+- verified — **5**
+- needs-review remaining from this batch — **0**
+- printed folios — **178–182**
+- extract pages — **32–36**
+- full direct source-pixel transcription / punctuation / paragraphing / physical-copy-mark review / mandatory 13-family historical-glyph audit — **COMPLETE**
+- guessed readings — **0**
+- historical-glyph correction-event count — **unchanged at 11**
+- scan 182 preserves `எழிலேற்றிக்`, `மணம் மொண்டு`, `பிறைகுடிப் பித்தனைப்`, and `கட்டியபோன`.
+- scan 184 preserves `கையாண்டி`, `இன்பத்தேனூறு`, and terminal fragment `முன்னி`.
+- scan 185 begins `லும் வேகமாகப் பணியாற்றியது.` and preserves `கொள்ளை யடித்தல்` / `அள்ளிவிறிக் கொட்டி`.
+- scan 186 was not opened.
+
 ## Exact next activity
 
-**P2 backlog-resolution scans 181–185.**
+**P2 backlog-resolution scans 186–190.**
 
-Use the same supplied extract: pages **32–36 = scans 181–185**. Apply the same direct source-pixel archival-fidelity protocol, synchronize controls, commit, and stop before scan 186. Do not start P3 while P2 needs-review records remain.
+Use the same supplied extract: pages **37–41 = scans 186–190**. Apply the same direct source-pixel archival-fidelity protocol, synchronize controls, commit, and stop before scan 191. Do not start P3 while P2 needs-review records remain.

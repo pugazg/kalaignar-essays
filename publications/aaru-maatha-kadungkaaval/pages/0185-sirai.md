@@ -6,39 +6,44 @@ publication: "aaru-maatha-kadungkaaval"
 article: "sirai"
 section: "sirai"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 language: "ta"
-transcription_method: "direct visual inspection from user-supplied scans-150–224 source extract; exact transcription held pending archival-fidelity re-read"
+transcription_method: "direct visual comparison with user-supplied scans-150–224 source extract"
 ---
 
 # அச்சு உரை
 
-_[needs-review — இப்பக்கத்தின் முழு அச்சு உரை source image-ல் நேரடியாகப் பார்க்கப்பட்டது. ஆனால் ஒவ்வொரு எழுத்து, punctuation, paragraph boundary மற்றும் historical-glyph identity அனைத்தையும் archival fidelity-யுடன் உறுதிசெய்யாமல் ஊகித்து நிரப்பப்படவில்லை.]_
+லும் வேகமாகப் பணியாற்றியது. அந்த ஒன்றரை மாத காலத்திற்குள்ளாகவே சில நல்ல பேச்சாளர்கள் தயாரானார்கள். பலதிறப்பட்ட பொருள்களின் மீது விவாதம் நடத்தி பேச்சாற்றலில் வளர்க்க முயற்சிக்கப்பட்டது.
 
-## Source hold
+ஒரு நாள் ‘ஜனநாயகம்’ என்பது பற்றி மிகவும் அருமையாக நண்பர்கள் பேசினார்கள். பேசுவது மட்டும் மன்றி ஜனநாயகத்தின் உண்மை உருவத்தையும் - ஜனநாயகம் என்ற பெயரால் நாட்டிலே திரியும் போலித் தலைவர்களின் தன்மையையும் - ஆராய வேண்டியது இன்றைய சூழ்நிலையிலே மிக மிக அவசியமான காரியம்.
 
-- physical scan **185** was opened directly from the user-supplied 75-page extract covering original physical scans **150–224**.
-- extract page — **36**.
+எந்தச் சொல்லிலும், அதன் தன் பெயரிலே மயங்கி விடாமல் அது புரியும் செயல் உன்னிப்பாகக் கவனிக்க வேண்டும். உதாரணமாக- கும்பாபிஷேகம் - கொள்ளை யடித்தல் - என்ற இரு வார்த்தைகளை எடுத்துக் கொள்வோம்.
+
+பழையகால மன்னர்கள் கட்டும் கோயில்களில் மூல விக்கிரகம் அமைக்கும்போது அதன் அடியில் விலை உயர்ந்த நவரத்தினங்கள் அள்ளிவிறிக் கொட்டி - அதன் மீது விக்கிரகத்தை அமைப்பார்கள். இந்த ரகசியத்தை சில பெரிய மனிதர்கள் உணர்ந்திருப்பார்கள். அந்தப் பழைய காலத்து ஆலயத்தைப் புதுப்பித்து, ‘ஜீர்ணோத்தாரண மகா கும்பாபிஷேகம்’ நடத்தப் போகிறேன் என்று பெரிய வள்ளல்போல கிளம்புவார்கள். அவர்களுடைய குறியெல்லாம் மூல விக்கிரகத்தின் அடியிலே அந்நாள் மன்னர் கொட்டியிருக்கும் நவரத்தினங்களின் மீதுதான். கோயில் பழுது பார்க்கும் வேலை நடைபெறும். அந்தப் பார்வையினுள்ளே மூல விக்கிரகத்தின் அடிப் பாகம் தோண்டப்பட்டு நவரத்தினங்கள், வள்ளல்களின்
+
+## அச்சு அமைப்பு
+
 - visible printed folio — **182**.
-- P1 classification — **main text / `sirai`**.
-- stable mapping — extract page **36** = original physical scan **185**.
-- source image is present and the page identity / folio are directly visible; this is **not** a missing-page or physical-loss hold.
-- continuous Tamil body text and running-page structure are directly visible.
-- exact body wording, punctuation, paragraphing, meaningful spacing, physical-copy marks, and historical-glyph identities remain to be completed in a focused archival-fidelity re-read.
-- OCR, contextual completion, another edition, Wikisource, TVA web text, and model-memory reconstruction were **not** promoted into canonical text.
-- no cross-page wording was asserted without full verification.
+- running header — `கருணாநிதி`.
+- extract page **36** = physical scan **185**.
+- opening `லும் வேகமாகப் பணியாற்றியது.` directly continues scan 184's terminal fragment `முன்னி`.
+- source-visible forms including `பலதிறப்பட்ட`, `மட்டும் மன்றி`, `உதாரணமாக-`, `கொள்ளை யடித்தல்`, `பழையகால`, `அள்ளிவிறிக் கொட்டி`, `ஜீர்ணோத்தாரண மகா கும்பாபிஷேகம்`, `குறியெல்லாம்`, and `பார்வையினுள்ளே` were preserved without normalization.
+- page ends at `நவரத்தினங்கள், வள்ளல்களின்`; scan 186 was not opened.
 
 ## அச்சு அல்லாத / physical-copy marks
 
-- no non-print mark has been promoted as publication text.
-- detailed physical-copy-mark audit remains OPEN until the focused re-read.
+- paper toning / scattered age specks are not publication text.
+- no physical-copy mark obscures canonical wording.
 
 ## Historical glyph audit
 
-- mandatory family set `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ` remains **OPEN** for this page.
-- no historical-glyph correction event is counted from an unresolved page.
-- no global replacement or lexical modernization was applied.
+- complete page inspected directly at enlarged/high-resolution source pixels.
+- explicitly checked `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+- representative sensitive clusters including `ஒன்றரை`, `தலைவர்களின்`, `கொள்ளை`, `அந்நாள்`, and `வள்ளல்களின்` were checked by character identity.
+- unresolved historical-glyph ambiguity — **0**.
+- no global replacement or spelling modernization was used.
+- cumulative historical-glyph correction-event count remains **11**.
 
 ## P2 நிலை
 
-**needs-review** — page identity and printed folio are source-confirmed; exact full-page transcription is deliberately held rather than guessed.
+**verified** — scan 185 placeholder was replaced only after full direct source-pixel transcription and audit.
