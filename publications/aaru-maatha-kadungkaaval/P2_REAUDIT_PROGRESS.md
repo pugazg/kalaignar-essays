@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **130/224**
-- completed range — **1–130**
-- next range — **131–135**
+- re-audited — **135/224**
+- completed range — **1–135**
+- next range — **136–140**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **14**
@@ -614,8 +614,33 @@ Ordinary source-fidelity corrections in Batch R26 — **1**.
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
 
+## Batch R27 — scans 131–135
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 131 | body / folio 128 | PASS | full text / punctuation / terminal `அணு` confirmed; no canonical correction |
+| 132 | body / folio 129 | PASS | scan-131 continuation `வும் நழுவாதவர்.`, dialogue punctuation / complete ending confirmed; no canonical correction |
+| 133 | body / folio 130 | PASS | full text / five-line prison song / unusual number wording / complete ending confirmed; no canonical correction |
+| 134 | body / folio 131 | PASS | `C. P. பிளாக்` / quotation / long body paragraph / complete ending confirmed; no canonical correction |
+| 135 | body / folio 132 | PASS | administrative list / source spacing / interruption sequence / complete ending confirmed; scan 136 not opened |
+
+Historical-family findings:
+
+- scan 131 — `கலைகளே` (`லை`), `மன்னைப்` (`னை`);
+- scan 132 — `தலைமையிலேதான்` (`லை`), `கிளைகளைப்பற்றிக்` (`ளை`);
+- scan 133 — `வெண்ணை` (`ணை`);
+- scan 134 — `மலையாளம்` (`லை`);
+- scan 135 — `தலைமை` (`லை`), `அறிக்கைகளை` (`ளை`);
+- all 13 tracked families were explicitly checked on every scan by character identity;
+- new historical-family correction events — **0**; cumulative count remains **14**.
+
+Ordinary source-fidelity corrections in Batch R27 — **0**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
+
 ## Exact next activity
 
-**Batch R27 — physical scans 131–135.**
+**Batch R28 — physical scans 136–140.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **135**; do not process scan 136.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **140**; do not process scan 141.

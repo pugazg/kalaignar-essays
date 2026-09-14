@@ -44,6 +44,19 @@ transcription_method: "direct visual comparison with source scan"
 - `அறிக்கைகளை` and other historical forms were decoded by character identity rather than modern visual resemblance.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R27
+
+- every printed word, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- source-visible forms including `சிறை பூமி`, `நூறுபேருக்கு`, `தண்ணீரைப்பெற`, `“ஜல ஸ்தாபன மந்திரி”`, `உள்நாட்டிலாகா`, `மருத்துவ மனைக்கு`, `மந்திரி யொருவர்`, and `தலைமை நிலையத்திலிருந்து - இல்ல - ஆட்சி பீடத்திலிருந்து` were reconfirmed without normalization.
+- the ministerial / administrative list and its hyphenated interruption sequence were checked word by word against the source.
+- page ends with complete `ஒரு பிரதம செயலாளர் உண்டு.`; scan 136 was not opened or processed.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `தலைமை` (`லை`) and `அறிக்கைகளை` (`ளை`) were reconfirmed, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **14**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 135 was fully compared with source pixels.

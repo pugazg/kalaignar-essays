@@ -42,6 +42,18 @@ transcription_method: "direct visual comparison with source scan"
 - source-visible historical forms were read by character identity rather than modern visual resemblance.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R27
+
+- every printed word, punctuation mark, quotation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from the attached source pixels.
+- source-visible forms including `மதிற் சுவர்கள்`, `‘கஞ்சிப்போர்’`, `‘சிங்கங்’ களில்`, `மன்னைப் பகுதியில்`, and `உடல் வளர்த்திற்கேற்ற` were reconfirmed without normalization.
+- exact terminal physical fragment `அணு` was preserved; scan 132 begins `வும் நழுவாதவர்.`, directly establishing the continuation `அணுவும்` without rewriting either page record.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `கலைகளே` (`லை`) and `மன்னைப்` (`னை`) were reconfirmed, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **14**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 131 was fully compared with source pixels.

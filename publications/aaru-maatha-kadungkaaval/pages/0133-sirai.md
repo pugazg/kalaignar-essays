@@ -53,6 +53,18 @@ transcription_method: "direct visual comparison with source scan"
 - unusual number wording was preserved as printed rather than regularized.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R27
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- source-visible forms including `தெரிவிக்கப்பட்டாததால்`, `காலை ஆகாரம்`, `“அரியலூர்”`, `15ம் தேதி`, `18ந் தேதி`, `அவுன்ஸ் குழம்பே!`, `வெண்ணை எடுக்கா மோரே!`, `முன்னூறு`, `நானூறைத்தாண்டிய`, and `நாறுகி- ஐம்பதாகி - ஐந்தாக` were reconfirmed without regularization.
+- the five-line quoted prison song was checked line by line and retained as a distinct printed block.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `வெண்ணை` (`ணை`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **14**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 133 was fully compared with source pixels.

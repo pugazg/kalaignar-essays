@@ -53,6 +53,19 @@ transcription_method: "direct visual comparison with source scan"
 - no historical-glyph ambiguity remains and no contextual normalization was applied.
 - cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R27
+
+- every printed word, punctuation mark, quotation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- scan 131 terminal `அணு` → this page’s opening `வும் நழுவாதவர்.` continuation was reconfirmed.
+- source-visible forms including `சட்டமிருக்கிறது`, `ஆளவந்தவுடன்`, `துவங்கி யிருக்கிறோம்`, `சிறுசிறு`, `கிளைகளைப்பற்றிக்`, and `கையினில்` were preserved without normalization.
+- source punctuation in the two quoted exchanges and the unpunctuated line `ஜெயிலர் சிரிப்பைத்தான் பதிலாகத் தரமுடிந்தது` was retained exactly as printed.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `தலைமையிலேதான்` (`லை`) and `கிளைகளைப்பற்றிக்` (`ளை`) were reconfirmed, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **14**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 132 was fully compared with source pixels.

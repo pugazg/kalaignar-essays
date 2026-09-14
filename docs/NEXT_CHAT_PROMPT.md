@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R27 scans 131–135
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R28 scans 136–140
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
 
@@ -13,26 +13,26 @@ Use only the attached full source:
 
 No OCR, web copies, Wikisource, TVA web text, alternate editions, or contextual completion.
 
-## Durable state after Batch R26
+## Durable state after Batch R27
 
 - P2 canonical coverage — **224/224**
 - P2 — **222 verified / 2 needs-review** (source-obscured holds scans 18 and 198)
-- P2R — **130/224 complete**
-- re-audited scans — **1–130**
+- P2R — **135/224 complete**
+- re-audited scans — **1–135**
 - historical-glyph correction-event count — **14**
 - guessed readings — **0**
 
-Batch R26:
-- scan 126 — `“சரி- இதோ இந்த இடத்தில் படுங்கள்”` → **`“சரி - இதோ இந்த இடத்தில் படுங்கள்”`**
-- scans 127–130 — PASS / no canonical correction
-- scan 125→126 continuation and source-specific punctuation / quotation / English-text details reconfirmed
-- ordinary source-fidelity corrections — **1**
+Batch R27:
+- scans 131–135 — PASS / no canonical correction
+- scan 131→132 continuation `அணு` + `வும் நழுவாதவர்.` reconfirmed
+- scan 133 prison-song block and unusual number wording, scan 134 long `C. P. பிளாக்` paragraph, and scan 135 administrative list reconfirmed
+- ordinary source-fidelity corrections — **0**
 - new historical-family correction events — **0**
-- scan 130 complete ending preserved; scan 131 was not opened
+- scan 135 complete ending preserved; scan 136 was not opened
 
 ## Exact next activity
 
-Process exactly physical scans **131–135**.
+Process exactly physical scans **136–140**.
 
 For every scan:
 1. compare every printed word, numeral, punctuation mark, meaningful spacing and page-boundary fragment with the canonical record;
@@ -42,4 +42,4 @@ For every scan:
 5. record PASS / correction details in the page record and `P2_REAUDIT_PROGRESS.md`;
 6. synchronize controls and commit.
 
-Stop after scan **135**. Do not process scan 136 in this iteration.
+Stop after scan **140**. Do not process scan 141 in this iteration.

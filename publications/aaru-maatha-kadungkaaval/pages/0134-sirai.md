@@ -42,6 +42,18 @@ C. P. பிளாக் எனப்படும் - நாங்கள் அ
 - source spacing and older character forms were preserved without modernization.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R27
+
+- every printed word, Latin abbreviation, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- source-visible forms including `C. P. பிளாக்`, `அடைப்பட்டிருந்த`, `வரமுடியாது`, `போகமுடியாது`, `ஒரேவிதமான`, `வசதியிருக்கும்`, `மாளமுடியாது`, and `“மாதிரி திராவிட நாட்டில்”` were reconfirmed.
+- the long comparison between the prison arrangement and the proposed Dravidian polity was preserved exactly as printed; no grammatical or political-context completion was introduced.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `மலையாளம்` (`லை`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **14**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 134 was fully compared with source pixels.

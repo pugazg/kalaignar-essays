@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 130/224 scans complete; next 131–135** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 135/224 scans complete; next 136–140** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1759,8 +1759,23 @@ Historical-family verification added **0 new correction events**; cumulative cou
 P2R progress — **130/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **131–135**.
 
 
+### Batch R27 — scans 131–135
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 131 | PASS | complete text / punctuation / terminal `அணு` confirmed |
+| 132 | PASS | scan-131 continuation / dialogue punctuation / complete ending confirmed |
+| 133 | PASS | complete text / five-line prison song / unusual number wording / ending confirmed |
+| 134 | PASS | `C. P. பிளாக்` / quotation / complete long paragraph / ending confirmed |
+| 135 | PASS | administrative list / source spacing / interruption sequence / ending confirmed; scan 136 not opened |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **14**. Ordinary source-fidelity corrections — **0**.
+
+P2R progress — **135/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **136–140**.
+
+
 ## Exact next activity
 
-**P2R Batch R27 — scans 131–135.**
+**P2R Batch R28 — scans 136–140.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 135; do not process scan 136.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 140; do not process scan 141.
