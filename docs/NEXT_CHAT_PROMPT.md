@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P5 Batch P5-07 scans 91–105
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P5 Batch P5-08 scans 106–120
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,9 +10,9 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 - P2R — **COMPLETE — 224/224**
 - P3 — **COMPLETE / PASS — முரசு / களம் / சிறை**
 - P4 — **COMPLETE / PASS**
-- P5 — **IN PROGRESS — 90/224**
-- completed P5 range — **1–90**
-- next P5 range — **91–105**
+- P5 — **IN PROGRESS — 105/224**
+- completed P5 range — **1–105**
+- next P5 range — **106–120**
 - P5 canonical corrections so far — **0**
 - P5 new historical-glyph correction events — **0**
 - needs-review / blocked / guessed readings — **0 / 0 / 0**
@@ -20,21 +20,34 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 P5 report: `publications/aaru-maatha-kadungkaaval/VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-## Durable P5-06 result
+## Durable P5-07 result
 
-Scans **76–90** are **15/15 PASS / 0 canonical corrections**.
+Scans **91–105** are **15/15 PASS / 0 canonical corrections**.
 
-- all scans remain in **`களம்`**
-- all page records remain `*-kalam.md`
-- no historical-glyph identity changed
-- P3 `articles/02-kalam.md` remains synchronized
-- representative unusual source forms reconfirmed: `குளுரைக்கும் ஜூலை 15`, `பொன்னிக் மொழிகள்`, `குழுச்சிக்காரர்கள்`, `ஒதிய மிலர்கள்`, `களங் காண`, `புடைகுழ்ந்து`, `பஞ்சுமெத்தையாக்கி`, `என்னை ஈராட்டிய`, `கைது செய்யப்பட்டவில்லை`
+Prior P2R repairs were directly reconfirmed, including:
+- `குமாரவேல்-குழந்தைவேல்`
+- `கைதூக்குங்கள்`, `இரண்டு கையும்`, `டி.எ. கமலன்`
+- `அவரவர்கட்கு`, `பூசிக் கொண்டு`
+- `ருசியைப் பற்றி`
+- `திராவிடத்தரணி`, `கிடக்கிறான் பார்`, `புது மொழில் பேசிய`
+- historical-`ளை` forms `எலும்புகளை`, `நரம்புகளை`
+- `இழித்துச் சுடுசொல்`
+- `ஆறு பிணம் - ஆறு பிணம்`
+- `பதினாறுவயது`
 
-## P5-07
+Scan **105** ends exactly at physical fragment **`ஆகி`**; scan 106 was not opened during P5-07.
 
-Inspect exactly physical scans **91–105** from the controlling source pixels.
+## Structural boundary in P5-08
 
-All scans in this batch remain within the **`களம்`** body. Page-record filenames must remain `*-kalam.md`.
+- scan **106** — final **`களம்`** body page; canonical record `0106-kalam.md`
+- scan **107** — blank/reverse; `0107-blank-reverse.md`
+- scan **108** — illustrated **`சிறை`** intertitle; `0108-sirai-illustration.md`
+- scan **109** — blank/reverse; `0109-blank-reverse.md`
+- scans **110–120** — **`சிறை`** body; `0110-sirai.md` through `0120-sirai.md`
+
+## P5-08
+
+Inspect exactly physical scans **106–120** from the controlling source pixels.
 
 For every scan:
 
@@ -45,4 +58,4 @@ For every scan:
 - propagate any correction to the correct article assembly and publication controls;
 - update the P5 report.
 
-Stop after scan 105.
+Stop after scan 120.
