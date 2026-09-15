@@ -121,3 +121,28 @@ The following decisions supersede any earlier E0 “provisional” label where t
 - unresolved release-blocking terms — **0**
 - source-bearing transliterations intentionally retained — **PASS**
 - next lexicon gate — **E6 cross-article consistency review**
+
+
+## E6 publication-wide lexicon consistency
+
+**COMPLETE / PASS**
+
+Cross-article consistency review found **0** terminology defects requiring body edits.
+
+Revalidated shared decisions:
+
+- `திராவிடம்` — **Dravida / Dravidian land** by context;
+- `திராவிடர்` — **Dravidians**;
+- `ஆரிய / ஆரியர்` — **Aryan / Aryans**;
+- `பகுத்தறிவு` — **rationalism / rationalist** by grammar;
+- `அறிவியக்கம் / அறிவியங்கம்` — **rationalist movement**;
+- `சுயராஜ்யம்` — **Swaraj**;
+- **Siva / Paramasiva / Vishnu / Brahma / Murugan / Rama** — house style coherent;
+- **Kamba Ramayanam / Silappathikaram / Tirukkural / Kural** — house style coherent;
+- ***Arohara***, **Kokila darshan**, **Matalavaraiyan**, **Kambadasas**, **Somnathapuram** — source-bearing forms retained.
+
+Competing variants detected in English bodies — **0**.
+
+E6 body corrections — **0**.  
+Unresolved lexicon choices — **0**.  
+Next gate — **E7 release closeout**.
