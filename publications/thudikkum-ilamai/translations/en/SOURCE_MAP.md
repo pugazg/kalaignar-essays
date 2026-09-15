@@ -73,3 +73,25 @@ Article verification state — **4/4 T5 VERIFIED**.
 Publication E6/E7 — **NOT STARTED**.
 
 The frozen Tamil blobs above remain the source authorities. A later Tamil correction requires reopening the affected verified English article.
+
+
+## E6 consistency revalidation
+
+**COMPLETE / PASS**
+
+Publication-wide review revalidated all four T5 English authorities without body change:
+
+1. **Throbbing Youth** — `46c70fd2bf702a061d35b45383c8c8e0841852d9`
+2. **Arohara to Annamalai!** — `1cfce7827fec69de08c98dd78edf4a06a7216a41`
+3. **Poompuhar** — `67649c4db83881840137073bafa24d31062fb86c`
+4. **Lamp of Victory!** — `083d514b93d58484f49e3193235b9631d995cd8e`
+
+- E6 body corrections — **0**
+- frozen Tamil pins changed — **0**
+- source comments — **25/25 PASS**
+- unresolved consistency defects — **0**
+- blockers — **0**
+
+E6 authority: `E6_CONSISTENCY_REVIEW.md`.
+
+Next gate: **E7 English release closeout**.
