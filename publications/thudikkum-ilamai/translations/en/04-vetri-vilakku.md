@@ -8,7 +8,7 @@ source_tamil_blob_sha: "26ce57fe58a5327879155bf41c132180d71dd191"
 source_scan_pages: "25-29"
 source_printed_pages: "scan 25 folio not visible; scans 26-29 show folios 26-29"
 language: "en"
-translation_status: "draft"
+translation_status: "verified"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -30,7 +30,7 @@ Why did they suffer so much.... Why did they deliberately embrace hardship.... W
 
 they reached a state in which their principles could not be destroyed.
 
-Not only in our country—throughout the world, thousands of years ago, there were conditions in which civilisation could not even sprout. The religious beliefs of Western lands were more degraded than ours. The gods there were more numerous than ours. The priests there were crueller than the priests who make us dance to their tune. Where are they all now? Reform sprouted. Superstitions that had lain grinning went into a corner and sat there veiled. Reformers died. Reform did not decay. It took up the sceptre. In Western countries, statues of gods have gone to museums. In our country, the Ganapati on the riverbank remains exactly where he was. Ignorance is watered and cultivated. The government itself takes the lead in doing it. Our government now lifts up the god of Somnath, smashed to fragments, installs him on a pedestal and rejoices. Is that all? A holy man wrapped in neem leaves arrives. A naked holy man wanders in Tillai. At the Ayyappan temple, the Lord has come in the incarnation of a snake—
+Not only in our country—throughout the world, thousands of years ago, there were conditions in which civilisation could not even sprout. The religious beliefs of Western lands were more degraded than ours. The gods there were more numerous than ours. The priests there were crueller than the priests who make us dance to their tune. Where are they all now? Reform sprouted. Superstitions that had lain grinning went into a corner and sat there veiled. Reformers died. Reform did not decay. It took up the sceptre. In Western countries, statues of gods have gone to museums. In our country, the Ganapati on the riverbank remains exactly where he was. Ignorance is watered and cultivated. The government itself takes the lead in doing it. Our government now lifts up the Somnathapuram deity, smashed to fragments, installs him on a pedestal and rejoices. Is that all? A holy man wrapped in neem leaves arrives. A naked holy man wanders in Tillai. At the Ayyappan temple, the Lord has come in the incarnation of a snake—
 
 <!-- Tamil source: scan 28 -->
 
@@ -38,11 +38,11 @@ Ramana has died, a comet has appeared, they lifted Panduranga and he said he wou
 
 It is to break that effort, uproot aged superstitious doctrines, and find a new path that the rationalist movement is at work.
 
-One part of that work is the Social Reform Conference to be held at Tindivanam on May 20. For us, who for many years have endured hardship and carried on the work of rationalism, the Tindivanam conference is a lamp of victory. It is a sign-lamp telling us that we are advancing along the path of our ideal and have reached a particular point. We are walking along a road filled with darkness. The lamp lit at Tindivanam shows us how far we have walked—
+One part of that work is the Social Reform Conference to be held at Tindivanam on May 20. For us, who for many years have endured hardship and carried on the work of rationalism, the Tindivanam conference is a lamp of victory. It is a sign-lamp telling us that we are advancing along the path of our ideal and have reached a particular point. We are walking along a road filled with darkness. The lamp lit at Tindivanam shows us how far we have walked!
 
 <!-- Tamil source: scan 29 -->
 
-Already there is a great distance still to walk. But there is no darkness on that road now. Lamps have been lit in a row. It is that news of victory that Tindivanam is going to proclaim in sweet, delectable Tamil.
+There is still a great distance to walk. But there is no darkness on that road now. Lamps have been lit in a row. It is that news of victory that Tindivanam is going to proclaim in sweet, delectable Tamil.
 
 ## T1 checkpoint
 
@@ -54,3 +54,66 @@ Already there is a great distance still to walk. But there is no darkness on tha
 - added substantive English claims — **0**
 - Tamil source changes — **0**
 - blockers — **0**
+
+
+## T2 bilingual fidelity review
+
+**PASS**
+
+Frozen Tamil authority: `26ce57fe58a5327879155bf41c132180d71dd191`.
+
+T2 corrections — **2**:
+
+1. `சோமநாதபுரம் கடவுள்` — normalized **god of Somnath** → source-bearing **Somnathapuram deity**;
+2. scan 28→29 — removed an English-only em dash and restored the source exclamation: **The lamp lit at Tindivanam shows us how far we have walked! There is still a great distance to walk.**
+
+Checks after correction:
+
+- omitted Tamil paragraphs / clauses — **0**;
+- added substantive English claims — **0**;
+- martyr/reformer sequence — **PASS**;
+- repeated contrasts / questions / sarcasm — **PASS**;
+- source comments — **5/5 ordered / PASS**;
+- Tamil source changes — **0**;
+- blockers — **0**.
+
+## T3 Kalaignar voice review
+
+**PASS**
+
+- opening accumulation of poison / courage / principle / death — **retained**;
+- clipped repetition `சாக அடிக்கப்பட்டார்கள். ஆனால் அவர்கள் சாகவில்லை.` — **retained**;
+- ridicule of superstition / almanac-like newspapers — **not softened**;
+- reform / darkness / lamp metaphor — **retained** through the close;
+- T3 body corrections — **0**;
+- T2 regressions — **0**.
+
+## T4 terminology / quotation / title audit
+
+**PASS**
+
+Verified Article-4 choices:
+
+- title `வெற்றி விளக்கு!` → **Lamp of Victory!**;
+- `பகுத்தறிவு` → **rationalism / rationalist** by grammar;
+- `அறிவியங்கம்` → **rationalist movement** in context;
+- `சமூக சீர்திருத்த மாநாடு` → **Social Reform Conference**;
+- `சோமநாதபுரம்` → **Somnathapuram**, preserving the source form;
+- `தில்லை` → **Tillai**;
+- `ஐயப்பன்` → **Ayyappan**;
+- `பஞ்சாங்கம்` → **almanac**;
+- title-image `வெற்றி விளக்கு` → **lamp of victory**, retained in both title and concluding metaphor.
+
+## T5 article verification
+
+**PASS / VERIFIED**
+
+- translation status — `verified`;
+- source scans — **25–29**;
+- source comments — **5/5 PASS**;
+- omitted Tamil clauses — **0**;
+- added substantive English claims — **0**;
+- untranslated Tamil body leakage — **0**;
+- unresolved terminology / quotation choices — **0**;
+- Tamil source changes — **0**;
+- blockers — **0**.
