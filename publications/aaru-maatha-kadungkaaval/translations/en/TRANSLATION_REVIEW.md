@@ -34,18 +34,28 @@ Date: **2026-09-15**
 
 ## Article review ledger
 
-### Article 1 — `முரசு`
+### Article 1 — `முரசு` — T0 PASS / T1 COMPLETE
 
 - frozen Tamil blob — `7a41617cd48f8507bc12074fb48d6016fae5cead`
-- T0 — **NOT STARTED**
-- T1 — **NOT STARTED**
+- T0 — **PASS** — live `main` re-fetch matched the frozen blob exactly before drafting
+- T1 — **COMPLETE / draft**
+- English file — `01-murasu.md`
+- T1 English blob — `a94630638fa194290e0761259131cc4548d429e4`
+- working English title — **The Drum** — provisional until T4
+- translation status — `draft`
+- source scans — **10–65**
+- ordered source-page comments — **56/56 preserved**
+- untranslated Tamil body leakage — **0**; only `title_ta` remains Tamil in metadata
+- Tamil changes during T0/T1 — **0**
 - T2 — **NOT STARTED**
 - T3 — **NOT STARTED**
 - T4 — **NOT STARTED**
 - T5 — **NOT STARTED**
-- English title — **TBD**
-- unresolved choices — **0**
 - blockers — **0**
+
+T1 preserves the source's memoir/political cadence, direct address, questions, exclamations, repeated drum imagery, embedded verse and slogans, duplicated physical witnesses on scans 16–17, and all source-page boundaries.
+
+Material choices to recheck in T2–T4: **The Drum** for `முரசு`; **righteous struggle** for `அறப்போர்`; `குளித்தலை / குருவித்தலை` wordplay; **religious pretenders** for `ஆஷாடபூதிகள்`; source-bearing **Muttamil**; and the Kallar/thief pun. These are review items, not blockers.
 
 ### Article 2 — `களம்`
 
@@ -63,6 +73,6 @@ Date: **2026-09-15**
 
 ## Exact next activity
 
-**Article 1 — `முரசு` — T0 source prerequisite + T1 close draft.**
+**Article 1 — `முரசு` — T2 bilingual fidelity review.**
 
-Re-fetch the frozen Tamil blob before drafting. Preserve all source-page comments and translate paragraph by paragraph. Update this ledger and the living lexicon with every material translation decision.
+Compare frozen Tamil blob `7a41617cd48f8507bc12074fb48d6016fae5cead` against T1 English blob `a94630638fa194290e0761259131cc4548d429e4` paragraph by paragraph. Check completeness, clause-level meaning, names, numbers, quotation scope, negatives, logical connectors, repeated rhetoric and all 56 source-page comments. Record every T2 correction; do not begin T3 unless separately directed.
