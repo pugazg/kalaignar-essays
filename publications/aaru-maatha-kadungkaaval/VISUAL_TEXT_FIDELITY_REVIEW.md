@@ -17,9 +17,9 @@ Rules:
 ## Progress
 
 - physical scans — **224**
-- P5 checked — **165/224**
-- completed range — **1–165**
-- next range — **166–180**
+- P5 checked — **195/224**
+- completed range — **1–195**
+- next range — **196–224**
 - current needs-review — **0**
 - current blocked — **0**
 - guessed readings — **0**
@@ -472,12 +472,68 @@ Batch P5-11 totals:
 - cumulative P5 canonical corrections — **3**
 - P5 cumulative progress — **165/224**
 
+## Batch P5-12 — scans 166–195
+
+User-directed enlarged batch: **30 physical scans**. Source: derivative extract **pages 17–46** under stable mapping **extract page N = physical scan N+149**.
+
+Result: **30/30 PASS / no new canonical correction**.
+
+| Scan | P5 result | Key reconfirmation |
+|---:|---|---|
+| 166 | PASS | source-correct **`அரசாங்கத்திடம்`** across physical line wrap; headings `நினைவுக்கு!` / `கவனிக்க!` |
+| 167 | PASS | `கண்ணான நேரம் - பொன்னான வாய்ப்பு!`, bracketed `குறிப்பு`, `உடைகள்:`, `பேட்டியும் கடிதமும்:` |
+| 168 | PASS | `நாட்குறைப்பு:`, `உத்தியோக உயர்வு:`, `(வாட்ச்மேன்)`, `(கான்விக்ட் வார்டர்)`, quoted `“நாட் கழிவு”` |
+| 169 | PASS | `ஆலோசனை மன்றம்:`, `நீ நோயாளியா?`, full bracketed note, printed ★ |
+| 170 | PASS | heading `பேச்சு மன்றம்`, `“கடவுள் உண்டா? இல்லையா?”`, terminal `“கடவுள் இல்லை யென்போர் காட்டுமிராண்டிகள்”` |
+| 171 | PASS | source argument sequence, heading **`அதற்கு ஒரே பதில்-`**, terminal `மனிதனால் செய்யப்` |
+| 172 | PASS | scan-171 continuation `செய்யப்` + `பட்டார்.`; `வெள்ளிடைமலை`, `காவியுடைப் பண்டாரத்தார்`, diamond metaphor |
+| 173 | PASS | source-correct **`அவர்களை அக்பர்`**; quoted missionary passage and terminal `அத்தகைய` |
+| 174 | PASS | scan-173 continuation; Nehru passage; heading **`மறு மலர்ச்சி`** and imperative sequence |
+| 175 | PASS | `G. நாராயணசாமி`, `ஆகஸ்டு 19ந் தேதி`, `முன்னூறுக்கு மேற்பட்ட கேள்விகள்` |
+| 176 | PASS | 300-question examination block; `ஜூலை 14ம் நாள்`, Sampath question and complete ending |
+| 177 | PASS | `13ந் தேதியே கைது`, `தேஷ்முக்`, `மறுமலர்ச்சி`, hyphenated social-cycle sequence |
+| 178 | PASS | Rome / Italy / Florence passage; source-visible `பிளாரன்ஸ்`, `தாந்தே`, `பெட்ரார்க்`, terminal line-wrap |
+| 179 | PASS | source-correct historical-`ணை` **`பஞ்சணை மீது`**; Chinese court anecdote, `கன்பூஷியஸ்`, `ஷிங்` |
+| 180 | PASS | scan-179 continuation; `சன்யாட்சன்`, `மாசேதுங்`, three-stage social-cycle passage |
+| 181 | PASS | `ஷேக்ஸ்பியர்`, `மோலியேரின்`, `ராம் ராண்டும்`, `கிள்ளை`, terminal `மொட்டவிழ்கிறது இந்நாள்!` |
+| 182 | PASS | `மயிலைத்தீட்டி`, `திங்களைப் / ஞாயிறு` quotation, `பிறைகுடிப் பித்தனைப்`, `அண்ணா!` |
+| 183 | PASS | heading **`ஜனநாயகம்`**, `எம். எல். ஏ.,`, Govindasamy passage and complete ending |
+| 184 | PASS | `ஆகஸ்டு 24ம் நாள்`, source line-wrap join `உரு` + `வெடுத்திடுவது`, terminal **`முன்னி`** |
+| 185 | PASS | scan-184 `முன்னி` + `லும்` continuation; `ஜனநாயகம்`, `கொள்ளை யடித்தல்`, `ஜீர்ணோத்தாரண மகா கும்பாபிஷேகம்` |
+| 186 | PASS | scan-185 continuation; `“கொடைவள்ளலே! குணக்குன்றே!”`, `தன்னிஷ்டத்தைப்`, terminal **`கொள்ளைப்புற`** |
+| 187 | PASS | scan-186 `கொள்ளைப்புற` + `வழியாக`; numerals `1793 / 306 / 160 / 17ம் / 20ம்`, complete ending |
+| 188 | PASS | `ஒன்றுக ஒப்பிட்டுவிட்டேனென்று`, `பாழ் படுத்தவும்`, democracy / authoritarianism metaphor, terminal `எழிலோவியத்திற்கு` |
+| 189 | PASS | prior source correction **`இருக்கவேண்டுமென்பதற்காக`** reconfirmed across physical line wrap; `உரிமை யிருக்கிறது`, `இரும்புத்தகடே` |
+| 190 | PASS | heading **`மொழிப்பற்று — பித்தா ?`**, `குறளோவியம்`, Vamana / Valluvar comparison, terminal **`பாராட்டியிருக்க`** |
+| 191 | PASS | scan-190 `பாராட்டியிருக்க` + `கிறார் என்று!`; `நாற்காலி`, `நீக்ரோவர்`, `செவ்விந்தியர்`, `மொழிப்பித்துக்கொண்டு` |
+| 192 | PASS | language attachment / madness argument, `இளங் காற்று`, `அடிப்படத்திலிருந்து`, terminal **`மாறுவதிலே என்ன`** |
+| 193 | PASS | scan-192 continuation; `லத்தின் மொழியின்`, `16ம் நூற்றாண்டின்`, `ஆஷாட பூதிகளின்`, closing Tamil slogan |
+| 194 | PASS | second quoted slogan; heading **`அதிசயம்!`**, nurse episode, `கல்யாணம் செய்துகொள்ள`, terminal **`நான் திடுக்கிட்டுப்`** |
+| 195 | PASS | scan-194 continuation; `கொல்லென்று`, `மணமாகாதபிள்ளை`, `(Fancy Dress)`, `குடு குடுப்பைக்காரன்`, terminal **`சொரண்டிப்`** |
+
+Historical-family verification explicitly rechecked **`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`** across all 30 scans from direct derivative source pixels. Representative checks include `கண்ணான`, `வீணாக்கினால்`, `தண்டனை`, `நாணயமுள்ளவன்`, `வைத்தியசாலை`, `நாற்காலி`, `அவர்களை`, `கல்லறையிருக்கும்`, `பஞ்சணை`, `கிள்ளை`, `அண்ணா`, `வெற்றிமாலை`, `கொள்ளை`, `நல்லெண்ணம்`, `கிணறு`, `நிலைமைவரையிலே`, `மரணத்தை`, `நூற்றாண்டின்`, `கண்ணீரும்`, and `நாணயத்தைப்பற்றி`. **No new P5 historical-glyph correction event** was required.
+
+All scans **166–195** remain within the **`சிறை`** body; all canonical page-record filenames remain `*-sirai.md`.
+
+The P3 `articles/03-sirai.md` assembly was checked for representative sensitive readings and already contains the canonical forms `அரசாங்கத்திடம் தான் போய் நிற்கிறது`, `அவர்களை அக்பர்`, `பஞ்சணை மீது`, `இருக்கவேண்டுமென்பதற்காக`, `மொழிப்பற்று — பித்தா ?`, the 190→191 `பாராட்டியிருக்க` continuation, `கிளம்பிற்றுக் காண் தமிழ்ச் சிங்கக் கூட்டம்`, `(Fancy Dress)`, and `சொரண்டிப்`. No propagation repair was required.
+
+Batch P5-12 totals:
+
+- scans checked — **30**
+- canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- cumulative P5 canonical corrections — **3**
+- P5 cumulative progress — **195/224**
+
 ## Exact next activity
 
-**P5 Batch P5-12 — physical scans 166–180.**
+**P5 Batch P5-13 — remaining physical scans 196–224.**
 
-Use the same user-supplied derivative slice **`TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`**. Stable mapping: **extract page N = physical scan N+149**; therefore physical scans **166–180 = extract pages 17–31**.
+Use the same user-supplied derivative slice **`TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`**. Stable mapping: **extract page N = physical scan N+149**; therefore physical scans **196–224 = extract pages 47–75**.
 
-Scans **166–180** remain within the **`சிறை`** body. Preserve every page as `*-sirai.md`.
+This is the **final 29-scan P5 range**. Preserve canonical page types / filenames exactly; scans 196–223 are `சிறை` body and scan 224 is the terminal back cover / publisher device.
 
-Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after physical scan 180 / extract page 31.
+Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after physical scan 224 / extract page 75.
