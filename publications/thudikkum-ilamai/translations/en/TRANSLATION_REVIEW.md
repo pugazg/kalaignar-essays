@@ -164,7 +164,7 @@ Date: **2026-09-15**
 ## Publication-wide gates
 
 - E6 cross-article consistency review — **NOT STARTED**
-- E7 release closeout — **NOT STARTED**
+- E7 release closeout — **COMPLETE / PASS**
 
 ## Exact next activity
 
@@ -216,3 +216,36 @@ All four T5 English blob SHAs remain unchanged after E6.
 **E7 — English release closeout.**
 
 Perform release-state verification only. Do not revise prose merely for style.
+
+
+## E7 English release closeout
+
+**COMPLETE / PASS — RELEASE COMPLETE / CLOSED**
+
+Authority: `E7_RELEASE_CLOSEOUT.md`.
+
+Release checks:
+
+- frozen Tamil authorities — **4/4 unchanged**
+- verified English authorities — **4/4 unchanged**
+- English `translation_status: verified` — **4/4**
+- ordered source comments — **25/25 PASS**
+- E6 — **COMPLETE / PASS**
+- post-E6 English body drift — **0**
+- E7 English body corrections — **0**
+- E7 English metadata corrections — **0**
+- E7 Tamil corrections — **0**
+- unresolved terminology issues — **0**
+- unresolved consistency defects — **0**
+- unresolved release blockers — **0**
+
+Final released English blobs:
+
+1. `46c70fd2bf702a061d35b45383c8c8e0841852d9`
+2. `1cfce7827fec69de08c98dd78edf4a06a7216a41`
+3. `67649c4db83881840137073bafa24d31062fb86c`
+4. `083d514b93d58484f49e3193235b9631d995cd8e`
+
+Final publication status: **RELEASE COMPLETE / FROZEN**.
+
+Do not reopen for stylistic preference alone.
