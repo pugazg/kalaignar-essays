@@ -47,6 +47,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R35
+
+- every printed word, punctuation mark, meaningful spacing, running header, visible folio and terminal continuation dash was rechecked directly from derivative extract page **29** / original physical scan **178**.
+- scan-177 continuation, `வியனார்டோ`, `பூஞ்சோலை-வியனார்டோ`, `மகுட மேந்திகளுக்கான`, and terminal `நிற்க முடியாமல் -` were reconfirmed.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `வியனார்டோ` (`னா`), `கலை` / `பூஞ்சோலை` (`லை`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 178 placeholder was replaced only after full direct source-pixel transcription and audit.

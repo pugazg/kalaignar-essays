@@ -51,6 +51,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R35
+
+- every printed word, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **31** / original physical scan **180**.
+- scan-179 continuation `அதனால்தான் போலும்.`, `சன்யாட்சன்`, `மாசேதுங்`, `மூன்றுநிலை`, `மூன்றாவது`, `செங்கோலோச்சுவோரின்`, and complete ending were reconfirmed.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `மூன்றாவது` (`றா`), `நிலை` / `கலைத்` (`லை`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 180 placeholder was replaced only after full direct source-pixel transcription and audit.

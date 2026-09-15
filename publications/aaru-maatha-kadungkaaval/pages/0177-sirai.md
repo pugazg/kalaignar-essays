@@ -48,6 +48,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R35
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from derivative extract page **28** / original physical scan **177**.
+- both opening quoted exchanges, `13ந்`, `போய்விட்டோமே'மறுமலர்ச்சி'யை`, the source hyphen sequences and terminal `எல்லா நாடுகளையும்கூட நாம்` were reconfirmed.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `நிலை` / `வீழ்ந்த நிலை` (`லை`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 177 placeholder was replaced only after full direct source-pixel transcription and audit.
