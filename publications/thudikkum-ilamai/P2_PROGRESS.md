@@ -5,11 +5,11 @@
 - publication — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 33/33 structurally classified**
-- P2 — **IN PROGRESS — 29/33 physical scans verified**
+- P2 — **COMPLETE / PASS — 33/33 physical scans verified**
 - front matter — **4/4 VERIFIED**
 - article bodies — **25/25 VERIFIED / COMPLETE**
 - article units — **4/4 P2 COMPLETE**
-- advertisements / promotional matter — **0/4 P2**
+- advertisements / promotional matter — **4/4 VERIFIED / COMPLETE**
 - needs-review — **0**
 - blocked — **0**
 - guessed readings — **0**
