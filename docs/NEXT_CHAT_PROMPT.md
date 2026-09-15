@@ -1,97 +1,130 @@
-# NEXT CHAT PROMPT — துடிக்கும் இளமை / RELEASE COMPLETE
+# NEXT CHAT PROMPT — பெருமூச்சு / P2 Batch 001 scans 1–5
 
-Continue in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Publications 1–13
+## Frozen publications
 
-- Publications **1–11** — **RELEASE COMPLETE / FROZEN**
-- Publication 12 `ஆறுமாதக் கடுங்காவல்` — **RELEASE COMPLETE / FROZEN**
-- Publication 13 `துடிக்கும் இளமை` — **RELEASE COMPLETE / FROZEN**
+Publications **1–13 are RELEASE COMPLETE / FROZEN**. Do not reopen them merely for stylistic polishing, terminology homogenisation, modernisation, or stale prompts.
 
-Do not reopen a frozen publication merely for stylistic polishing, terminology homogenisation, modernisation, or because of a stale copied prompt.
-
-## Publication 13 final Tamil state
+## Publication 14 — ACTIVE
 
 Workspace:
 
-`publications/thudikkum-ilamai/`
+`publications/perumoochu/`
 
-- Tamil P0–P5 — **COMPLETE / PASS**
-- Tamil status — **COMPLETE / STRICT-REVIEWED / FROZEN**
-- physical scans — **33/33**
-- article assemblies — **4/4 strict-reviewed**
+Controlling source:
 
-Final frozen Tamil authorities:
+`TVA_BOK_0064124_பெருமூச்சு.pdf`
 
-1. `articles/01-thudikkum-ilamai.md` — `3b2f40df8f9b1f02aaac917276b7bcf374185f21`
-2. `articles/02-annamalaikku-arogara.md` — `3740984e52a72b514dff4fc41f54a2938d7ce793`
-3. `articles/03-poompuhar.md` — `9ec5a3fd12e342a92bc02dada6dcf4297214d69d`
-4. `articles/04-vetri-vilakku.md` — `26ce57fe58a5327879155bf41c132180d71dd191`
+Source identity:
 
-Permanent Tamil non-regression readings include:
+- physical scans — **83**
+- bytes — **122,052,025**
+- SHA-256 — **`18947f2deb1ece71b03b59c1e52d9f483a45baa5bf436ab2c3e89a48b5f2dc38`**
+- PDF version — **1.4**
+- usable parsed text layer — **none**
+- source authority — **rendered scan pixels**
+- source PDF committed — **No**
 
-- `ஆறணா`
-- `16—12—'51`
-- `எழுச்சியூட்டும் எழுத்தோவியங்களே`
-- `விந்தை`
-- `உ.வே.சாமிநாத அய்யர்`
-- `அண்ணாமலைக்கு அரோகரா!`
-- `அரசாங்கம்`
+Printed/catalog identity:
 
-Retired `ஆறணை` and `அண்ணனுக்கு அரசா!` are correction-history only.
+- user catalog title — **`பெருமூச்சு`**
+- source cover/title form — **`பெருமூச்சு!`**
+- printed author — **`மு. கருணாநிதி`**
+- publisher — **`இளங்கோ பதிப்பகம், மாயூரம்`**
+- edition lines — **`முதற் பதிப்பு—'52`**, **`இரண்டாம் பதிப்பு—'53`**
+- active source edition — **second edition, 1953**
 
-## Publication 13 final English state
+Durable state:
 
-- E0 — **COMPLETE / PASS**
-- T0 — **4/4 PASS**
-- T1 — **4/4 COMPLETE**
-- T2 — **4/4 PASS**
-- T3 — **4/4 PASS**
-- T4 — **4/4 PASS**
-- T5 — **4/4 VERIFIED**
-- E6 — **COMPLETE / PASS**
-- E7 — **COMPLETE / PASS**
-- ordered source comments — **25/25 PASS**
-- untranslated Tamil body leakage — **0**
-- release blockers — **0**
-- English status — **COMPLETE / RELEASED / FROZEN**
+- P0 — **COMPLETE / PASS**
+- P1 — **COMPLETE / PASS — 83/83**
+- P2 — **NOT STARTED**
+- P3–P5 — **NOT STARTED**
+- English — **BLOCKED until Tamil P5 / frozen**
 
-Final released English authorities:
+P1 structure:
 
-1. **Throbbing Youth** — `publications/thudikkum-ilamai/translations/en/01-thudikkum-ilamai.md` — `46c70fd2bf702a061d35b45383c8c8e0841852d9`
-2. **Arohara to Annamalai!** — `publications/thudikkum-ilamai/translations/en/02-annamalaikku-arogara.md` — `1cfce7827fec69de08c98dd78edf4a06a7216a41`
-3. **Poompuhar** — `publications/thudikkum-ilamai/translations/en/03-poompuhar.md` — `67649c4db83881840137073bafa24d31062fb86c`
-4. **Lamp of Victory!** — `publications/thudikkum-ilamai/translations/en/04-vetri-vilakku.md` — `083d514b93d58484f49e3193235b9631d995cd8e`
+- scans **1–4** — cover / title / imprint / physical-copy evidence
+- scans **5–6** — publisher preface `மூச்சினிடையே!`, signed `P. S. இளங்கோ`, dated **14-1-1952**
+- scans **7–80** — **13 article units**
+- scans **81–83** — advertisements / catalogue matter
+- separate printed contents page — **none**
 
-Release authorities:
+Article boundaries are authoritative in:
 
-- `publications/thudikkum-ilamai/translations/en/E6_CONSISTENCY_REVIEW.md`
-- `publications/thudikkum-ilamai/translations/en/E7_RELEASE_CLOSEOUT.md`
+`publications/perumoochu/indexes/page-map.md`
 
-## E7 release result
+## Publication 15 — QUEUED / INTAKE COMPLETE
 
-- frozen Tamil authorities — **4/4 unchanged**
-- verified English authorities — **4/4 unchanged**
-- `translation_status: verified` — **4/4**
-- source comments — **25/25 ordered / PASS**
-- E7 English body corrections — **0**
-- E7 English metadata corrections — **0**
-- E7 Tamil corrections — **0**
-- unresolved terminology issues — **0**
-- unresolved consistency defects — **0**
-- release blockers — **0**
+Workspace:
 
-**Publication 13 overall archival/translation workflow: RELEASE COMPLETE / FROZEN.**
+`publications/viduthalai-kilarcci/`
 
-## Exact next activity
+Controlling source:
 
-There is no automatic next activity.
+`TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf`
 
-Wait for explicit user direction before:
+- physical scans — **69**
+- bytes — **101,127,153**
+- SHA-256 — **`444ff76695154b5ee9d53f4647873fde72659a3d52a76aa833fdc502fb518809`**
+- P0 — **COMPLETE / PASS**
+- P1 — **COMPLETE / PASS — 69/69**
+- P2 — **NOT STARTED**
 
-- onboarding another publication;
-- reopening any frozen publication;
-- making a targeted source correction;
-- making a targeted English correction.
+P1 structure:
 
-Do not infer or start the next publication on your own.
+- scan 1 — front cover
+- scan 2 — reverse / donation label
+- scan 3 — edition / rights / price / printer page
+- scans 4–7 — introductory verse/prologue `வேங்கையை விரட்டும் பாடல்`, I–IV
+- scans 8–68 — main prose work `விடுதலைக் கிளர்ச்சி`
+- scan 69 — publisher advertisement / catalogue
+- separate contents page — **none**
+
+Do not begin Publication 15 P2 unless Publication 14 is advanced or the user explicitly directs parallel processing.
+
+## Permanent source rules
+
+Use only supplied scan pixels as transcription authority.
+
+Do **not** use OCR, web copies, Wikisource, Tamil Digital Library, alternate editions, remembered wording or contextual completion.
+
+Both 1953 sources use historical Tamil type. Follow root:
+
+`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+
+Mandatory historical-glyph inspection includes:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+Read character identity from source pixels; do not modernise wording, spelling, grammar or punctuation.
+
+## Exact activity — Publication 14 P2 Batch 001
+
+Process physical scans **1–5 only**.
+
+Create one canonical page record per scan under `publications/perumoochu/pages/`.
+
+For each record capture:
+
+- physical scan number;
+- visible printed folio only if actually printed; otherwise `null`;
+- structural role;
+- exact source-visible printed text;
+- physical-copy marks separately from printed text;
+- historical-glyph audit;
+- verification status;
+- no guessed completion.
+
+Expected roles:
+
+- scan 1 — illustrated front cover
+- scan 2 — blank/reverse + physical-copy donation label
+- scan 3 — title page + later handwriting/stamps
+- scan 4 — edition / publisher page
+- scan 5 — opening of publisher preface `மூச்சினிடையே!`
+
+Update Publication 14 README / page-map / audit as needed, root `HANDOVER.md`, and this prompt.
+
+Stop after **P2 Batch 001 scans 1–5** unless the user explicitly asks to continue.
