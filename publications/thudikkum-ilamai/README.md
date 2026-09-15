@@ -15,7 +15,7 @@ Controlling source: `TVA_BOK_0063985_துடிக்கும்_இளமை
 - P4 source audit — **COMPLETE / PASS**;
 - P5 strict visual-text-fidelity pass — **COMPLETE / PASS — 33/33**;
 - Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**;
-- English — **READY / NOT STARTED**;
+- English — **E0 COMPLETE / PASS — article translation NOT STARTED**;
 - source PDF committed — **No**.
 
 ## Printed identity
@@ -124,8 +124,26 @@ The canonical price remains **`ஆறணா`**. The canonical Article-2 title re
 
 P5 authority: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
 
+## English translation — E0
+
+**COMPLETE / PASS**
+
+- translation identity — **project-created English translation**
+- permanent policy — [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_GUIDE.md)
+- translation plan — [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
+- English tracker — [`translations/en/README.md`](translations/en/README.md)
+- frozen source map — [`translations/en/SOURCE_MAP.md`](translations/en/SOURCE_MAP.md)
+- living lexicon — [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
+- review ledger — [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+- frozen Tamil authorities pinned — **4/4**
+- translation order — **1 → 2 → 3 → 4**
+- English article body files — **0/4**
+- English body prose created during E0 — **0**
+- Tamil source changes during E0 — **0**
+- blockers — **0**
+
 ## Exact next activity
 
-**E0 — English translation planning/setup only.**
+**Article 1 `துடிக்கும் இளமை` — T0 source-pin revalidation + T1 close English draft.**
 
-Use the four frozen strict-reviewed Tamil article assemblies as the sole normal translation authorities. Do not start Article 1 translation in the same activity.
+Refetch live `main`, verify frozen Tamil blob `3b2f40df8f9b1f02aaac917276b7bcf374185f21`, then translate the complete article from the frozen strict-reviewed Tamil authority with ordered source-scan traceability. Stop after T1; do not begin T2 unless separately directed.
