@@ -148,3 +148,155 @@ Dravidian! In the North your land has no honour. Your leaders have no memorial h
 But humiliation is permanent! In this land the northerner receives the full ceremonial welcome, a life overflowing with prosperity, pleasure
 
 
+<!-- Tamil source: scan 79 / printed 76 -->
+
+and enthusiasm. Alas! Humiliation! Humiliation! July 15 cried out. Set out at once—set out like a sword springing from its sheath—Tiger! Storm! Rise! The moon stands laughing at your condition; the star winks and mocks: in the sacred land of the lion, the name of a cement capitalist? But look—the sea roars—it sends you too a summons, a letter: set out—set out! July 15 raised that cry.
+
+The final meeting about that July 15 was held at Lalgudi on July 14. A few months earlier it was in Lalgudi that the resolution about Dalmiyapuram had been passed; and the meeting that later recounted what had happened and beat the war drum was held in that very Lalgudi. That Lalgudi has the pride of having given birth to Natarasan, who was to become a corpse on the Kallakkudi battlefield. Comrade Palaniyandi, M.L.A., presided over the public meeting. He was president of the Dalmia Factory Workers' Union, and a man affectionate toward the Dravida Munnetra Kazhagam. He explained how necessary the Dalmiyapuram struggle was.
+
+Even while the meeting was going on, friend Kannadasan and Karaikudi comrade Ramasubbiah came onto the stage. Kannadasan too spoke. He said that he and Ramasubbiah had come precisely to take part in the battle.
+
+<!-- Tamil source: scan 80 / printed 77 -->
+
+The meeting ended splendidly. That very night we all left for Kallakkudi.
+
+The rulers thought that because General Secretary Anna had been locked up, the struggle would simply smoke away. They firmly believed that trains would run without stopping. They miscalculated that no one would come at all to picket Achariyar's house. They dreamed with delight that there would be no one even to peep into Kallakkudi.
+
+I do not know what justice allowed them to seize and imprison Anna, who had been crying “Peace! Peace!” Nor do I know which arrogant man told them that if they captured and confined him, the righteous struggle would subside! Anna was in prison! But those who came to rule the land failed to realise that the speeches he had given—the methods of struggle—the golden words—were outside, already living in thousands upon thousands of hearts.
+
+Those whose blood boiled waited, saying: we shall make them realise it.
+
+At two in the night at Kallakkudi, a parade of righteous-struggle warriors took place at the volunteers' camp. Those registered for the struggle and summoned to arrive on the night of the 14th to take part in the first two days of battle
+
+<!-- Tamil source: scan 81 / printed 78 -->
+
+were admitted to the camp using that summons as identification.
+
+The warriors for the battle of the 15th were divided into three sections.
+
+First contingent—second contingent—third contingent. Twenty-five warriors in each. I was leader of the first contingent. Karaikudi comrade Ramasubbiah and Comrade Kannadasan were leaders of the second and third respectively.
+
+The volunteers were trained in how to conduct themselves throughout the struggle with peace, dignity and discipline. A fine night. Just as darkness had swallowed Dravida, darkness had covered the world too. No one slept that night. We went on imagining the struggle that was to take place the next morning.
+
+Thamaraichelvan had come from Thanjavur to remain with us and assist in the events of the battle.
+
+You know the comrade who moves about under the Tamil name—the pen-name—Thamaraichelvan. With a breeze in his speech and the flow of a waterfall in his writing, friend Thamaraichelvan is a revolving lamp, circling even amid crises to carry on propaganda work. A lean body—a strong heart—that young bull stood at the front of the righteous struggle and did what had to be done.
+
+<!-- Tamil source: scan 82 / printed 79 -->
+
+He stirred enthusiasm among the warriors. We passed the night telling and retelling stories of principle. He, I, Mani, Anbil, Sakthi, Muthu, Kannadasan, Ramasubbiah and C. D. Moorthy!
+
+July 15! The morning star appeared—as though announcing that freedom too was about to dawn for fallen Dravida!
+
+The cock cried “kokkarakko”; it sounded as though it were telling everyone, “Set out!”
+
+The red-rayed sun rose—and Tamilagam itself rose with the breath of valour that plunges into a raging river.
+
+It is the northerner's habit to hurl arrogant words at Tamils—but history says that those who spoke such arrogance carried stones until their heads broke! They forgot history; they did not forget the habit. Let us warn those northerners.
+
+“Hey, Tamil land! Rise!” roared the sea.
+
+The sea's turbulence in our hearts! The colour of the morning sun in our eyes! The cock's proud gait in our walk!
+
+The Tamil battalion rose! Rose! It rose saying: none is our equal!
+
+<!-- Tamil source: scan 83 / printed 80 -->
+
+There was a time when Magadha and Avanti placed jewelled halls, festooned gateways and pearl canopies at the feet of our Karikalan, Tirumavalavan, offered tribute and stood with folded hands! That North now speaks in contempt of Karikalan's line! The tiger flag on the forehead of the Himalaya—that is the Tamil record! Fanatics try to heap mounds of earth upon it—and we too forget the old culture! Is that just, O land! Land of warriors! Stainless soil!
+
+Warriors whose eyes flamed with tears and fire rose! Rose! Flew—flew—to the army camps!
+
+The conspirators may have erased the warriors' footprints; but time has preserved them to the end of the age. Let the *ondavanda pidaris* who try to erase even that—and the Tamil-land *othiya milars* who fan them—perish! Perish! Thus rose the flag of struggle!
+
+The flag mingling red and black—we displayed our humiliation. Darkened Dravida! We shall pour fresh blood only to avenge the disgrace—the flag proclaimed it! It rose! Rose! Filled every street of Tamil Nadu! At Kallakkudi, smoke rose from the Dalmia factory. Smoke rose from the volcano of revolution too!
+
+<!-- Tamil source: scan 84 / printed 81 -->
+
+The day Dravida raised the flag against the arrogance of alien imperialism—the fattened pride of authority—the day it girded itself to tear up cruelty—the day it crowed so that the pack of jackal-hearted men would subside—the first day the lineage of the Three Crowned Kings once again beat the drum—July 15—blossomed! Blossomed! Whatever compassion remained in the rulers' hearts dried up! Dried up! Yet their grip loosened! Thunder fell upon the head of arrogance!
+
+Thousands upon thousands of people came to Kallakkudi to see the battlefield! The first drum sounded in the volunteers' camp! The first contingent set out!
+
+I in front—twenty-four warriors behind me—thousands upon thousands of comrades around us. The northerner had placed a crown of humiliation upon Mother Dravida's head. Shackles bound her hands so she could not tear it off and throw it on the rubbish heap. The first contingent, the liberation battalion that would break those shackles, marched through Kallakkudi. “See, the Tamil lion-host has set out, searching for the enemy host to tear it apart”—as though saying: the northerner lives here, the Tamil bent his head—look, now he stands erect! Look at the sight of awakening! From now on, the tyrants are only husks that have swelled and emptied! Raising dust, the battle force rushed toward the field! The warriors marched! The brave crossed street after street! Even the blind saw—even the bent stood upright!
+
+<!-- Tamil source: scan 85 / printed 82 -->
+
+“We shall surely attain our precious Dravida!”
+
+“An epic for a mouse in the land where the tiger lives?”
+
+“A northern tongue in the Tamil's house?”
+
+“A stranger's name upon our soil?”
+
+They thundered! Beat the drum! Advanced!
+
+Even the deaf heard! Even the mute blessed!
+
+The battlefield came into view—the place that stabbed Mother Tamil in the eyes came into view—the place where the proud mother had been lamenting came into view—the place heavy with humiliation, where northern domination stabbed a spear into the Dravidian heart, came into view—the place where Tamil wealth was being rolled away came into view—the cremation ground where Tamil valour had been buried came into view.
+
+“Dalmiyapuram,” that sign of humiliation, stood there with its board grinning! A crown of thorns pressed onto the Mother's head! A cross erected to torture Dravidian honour! Alas! Through that crown the blood of the mother who bore us was dripping! Alas! Through that cross the blood of the golden land of our birth was surging like a flood!
+
+The ankleted lady who cherished us, praised us, and fed us classical Tamil—the goddess Manimekalai—the mother in whom the jewelled
+
+<!-- Tamil source: scan 86 / printed 83 -->
+
+Kural resounds—Kundalakesi who holds Valayapathi—lay tormented by the chains fastened by deceivers!
+
+We had come to end her torment! Police surrounded and guarded the cross that tortured our treasured sacred land.
+
+They placed a fence of guns around the chain we had come to remove.
+
+The Government said: look from afar at the Mother who writhes and rises! Do not touch! Enjoy her suffering!
+
+Cowards may listen—fools may retreat—“We are not banana suckers; each of us is a prop-root”—that was the answer we gave Mother Dravida! We ran to the Mother! Tore away the crown of thorns—and placed medicine upon her bleeding forehead.
+
+We covered the name “Dalmiyapuram.” We pasted the name “Kallakkudi” over that board.
+
+The train under northern control came and stopped. “Change the name officially! Only then let the train go,” we thundered. We were twenty-five—we sounded the great drum of principle. The train prepared to depart.
+
+<!-- Tamil source: scan 87 / printed 84 -->
+
+First, five of us! We lay down before the train. I—Sakthi—Kasthuri—Kumaravel—Kuzhandaivel—using the track as a pillow, making the iron road a cotton mattress, we lay beside the great medicine, the train, that could grant a long sleep.
+
+The thousands upon thousands of hearts gathered there beat hard. Complete silence. The flood of people lay still, its waves stilled, wondering what would happen. The ring of armed Reserve Police grew tighter. The Collector, A.D.S.P., Circle Inspector, Sub-Inspector, Magistrate and Sergeant all came toward us.
+
+“Why are you lying down like this?” they asked.
+
+“To make our ideal heard,” I said.
+
+“Is this not an act that causes inconvenience to the public and to passengers?”
+
+“If that is how you see it, we regret it. But ask this public—or ask the passengers in the train. Let them say, ‘Dalmiyapuram must remain; this struggle must not take place!’ We shall rise at once.” We replied while still lying there. Beside us, the railway engine was boiling. So were we! So were the people standing around us!
+
+<!-- Tamil source: scan 88 / printed 85 -->
+
+“If you do not want Dalmiyapuram, why not write to the higher authorities?”
+
+“Every effort is exhausted. How many letters of protest—how many resolutions—the gracious gaze of Delhi has not fallen upon us! So we are using this method to draw their attention.”
+
+“Will doing this bring victory?”
+
+“Whether the ‘screech’ of this train being stopped before us reaches the ears of the seat of power—or whether the sound of the train climbing over us and our bones breaking ‘crack, crack’ reaches them or not—it will reach the people's forum. It certainly will. It will sting those who sit on that seat of power like a thousand scorpions. That is enough for us.”
+
+“We are telling you—listen. Get up at once.”
+
+“We want only justice—a declaration that Dalmiyapuram will be changed!”
+
+“But they have already pasted ‘Kallakkudi’ there!”
+
+“What is there in pasting it? We can even have our own artists paint you a board saying Kallakkudi! But the Government must say it officially.”
+
+The officers' questions and my answers ended there. Saying “All right,” the officers moved away.
+
+<!-- Tamil source: scan 89 / printed 86 -->
+
+The train howled “koo.” A sound rose in the engine. The wheels turned. The people standing at the side closed their eyes. We who lay there prepared ourselves. We were ready for the pilgrimage of sacrifice undertaken by servants of the nation.
+
+For the last time I looked at the sun—I looked at Kallakkudi—I looked to my heart's content at Mother Dravida who had cradled me—I looked at the Dravidians standing opposite—everything ended in a moment—I closed my eyes. We prepared our cheeks for death's sweet kiss. Yes—all five of us! I felt the train set off with its clattering sound and move. My heart uttered, “Long live Dravida!” Another sound! I opened my eyes—I was alive! I realised it. The train that had been a short distance away stood as though pressed against my body.
+
+The officers came again.
+
+“What is your decision?” they asked. “We are waiting for the decision,” I said.
+
+“All right, all of you are under arrest,” they said. We got up. At once the remaining friends—my contingent—lay down. They too were arrested. All twenty-five of us
+
