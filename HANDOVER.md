@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **post-T5 scan-77 correction in Article 2 `களம்`**. User corrected `தாண்டிவிடப்பட்டேன்` → **`தூண்டிவிடப்பட்டேன்`**. Canonical page 77 and Article 2 Tamil assembly were updated; current Tamil blob is **`711b86300a3340ee73271a1cf613408905314498`**. English scan 77 was corrected to **“I was driven by the desire that I should fall into the hands of the police only at the battlefront—that is why!”** and Article 2 was revalidated at current English blob **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**. Source comments remain **41/41 PASS**, paragraph-block matching **41/41 PASS**, blockers **0**. English Articles 1–2 remain VERIFIED. Next activity remains **Article 3 `சிறை` T0 + T1**.
+Handoff refreshed after **English Article 3 `சிறை` T0 + T1**. Article 2's corrected post-T5 authority remains `தூண்டிவிடப்பட்டேன்` at scan 77, Tamil blob `711b86300a3340ee73271a1cf613408905314498`, English blob `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`. Article 3 T0 re-fetched frozen Tamil blob **`0d860d48bcd666148c0a312ad296953f015225c2`** exactly and T1 translated the full structural span **108–223** under working title **Prison**. T1 English blob is **`31b3c8476ba4bd13264d0609a5553cdd1f7117b7`**; ordered source comments **116/116 PASS**; scan 109 blank/reverse has no invented prose; Tamil source changes **0**; blockers **0**. Next is **Article 3 T2 bilingual fidelity review**.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` — TAMIL ARCHIVAL COMPLETE / FROZEN — P0–P5 PASS; English E0 PASS; Articles 1–2 `முரசு` / `களம்` T0–T5 PASS / VERIFIED; Article 3 `சிறை` T0/T1 NEXT**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` — TAMIL ARCHIVAL COMPLETE / FROZEN — P0–P5 PASS; English Articles 1–2 VERIFIED; Article 3 `சிறை` T0 PASS / T1 COMPLETE; T2 NEXT**.
 
 Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated; Publication 12 remains the active workflow.
 
@@ -2312,3 +2312,23 @@ Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2`, create `pu
 - current Article 2 verified English blob — **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**
 - status — **Article 2 revalidated / VERIFIED**
 - next — **Article 3 `சிறை` T0 + T1**
+
+
+## English Article 3 — `சிறை` — T0/T1
+
+- T0 — **PASS**
+- frozen Tamil blob — `0d860d48bcd666148c0a312ad296953f015225c2`
+- structural scans — **108–223**
+- T1 — **COMPLETE / draft**
+- English file — `publications/aaru-maatha-kadungkaaval/translations/en/03-sirai.md`
+- T1 English blob — **`31b3c8476ba4bd13264d0609a5553cdd1f7117b7`**
+- working English title — **Prison**
+- source comments — **116/116 PASS**
+- scan 109 blank/reverse — **no invented prose**
+- untranslated Tamil body leakage — **0**
+- Tamil changes — **0**
+- blockers — **0**
+
+### Exact next activity
+
+**Article 3 `சிறை` — T2 bilingual fidelity review only.**
