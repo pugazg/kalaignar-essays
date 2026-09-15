@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P5 Batch P5-08 / scans 106–120**. P5 final strict visual fidelity is **IN PROGRESS — 120/224**. Scans 106–120 are **15/15 PASS after 1 canonical correction** with **1 new canonical correction**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. The `களம்` → `சிறை` boundary was directly reconfirmed: scan 106 closes `களம்`; 107 blank/reverse; 108 illustrated `சிறை`; 109 blank/reverse; scan 110 begins `சிறை` body. P3 `களம்` / `சிறை` assemblies remain synchronized. Post-batch user correction on scan 110 was source-pixel confirmed: `அந்த வானத்தையும்` → **`அந்தி வானத்தையும்`**; this is the first P5 canonical correction and is not a historical-glyph event. Next P5 range is **scans 121–135**, all within `சிறை`.
+Handoff refreshed after **P5 Batch P5-09 / scans 121–135**. P5 final strict visual fidelity is **IN PROGRESS — 135/224**. Scans 121–135 are **15/15 PASS after 1 canonical correction** with **1 new canonical correction**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. Scan 121 was corrected directly from source pixels: `போராட்டத் தலைவர்` → **`போராட்டத் தலைவன்`**. Cumulative P5 canonical corrections are now **2** (scan 110 `அந்தி`; scan 121 `தலைவன்`). P3 `சிறை` remains synchronized. Next P5 range is **scans 136–150**, all within `சிறை`.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 IN PROGRESS 120/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 IN PROGRESS 135/224**.
 
 Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated; Publication 12 remains the active workflow.
 
@@ -63,7 +63,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **COMPLETE / PASS — 3/3 article assemblies (`முரசு`, `களம்`, `சிறை`)**
 - P4 — **COMPLETE / PASS — source audit / completeness review**
-- P5 — **IN PROGRESS — 120/224; next scans 121–135**
+- P5 — **IN PROGRESS — 135/224; next scans 136–150**
 - English — **BLOCKED until Tamil freezes**
 
 ## Mandatory startup
@@ -2062,8 +2062,8 @@ Historical batch sections above/below retain then-current intermediate counts on
 ## P5 final strict visual fidelity — Batch P5-08
 
 - scans checked — **106–120 / 15 scans**
-- result — **15/15 PASS**
-- canonical corrections — **0**
+- result — **15/15 PASS after 1 canonical correction**
+- canonical corrections — **1**
 - new historical-glyph correction events — **0**
 - needs-review / blocked — **0 / 0**
 - guessed readings — **0**
@@ -2081,3 +2081,20 @@ Historical batch sections above/below retain then-current intermediate counts on
 - canonical page record and `articles/03-sirai.md` corrected.
 - P5 canonical correction count — **1**.
 - historical-glyph correction-event count — unchanged.
+
+
+## P5 final strict visual fidelity — Batch P5-09
+
+- scans checked — **121–135 / 15 scans**
+- result — **15/15 PASS after 1 canonical correction**
+- canonical corrections — **1**
+- new historical-glyph correction events — **0**
+- needs-review / blocked — **0 / 0**
+- guessed readings — **0**
+- scan 121 correction — `போராட்டத் தலைவர்` → **`போராட்டத் தலைவன்`**, directly confirmed from source pixels
+- all scans remain in **`சிறை`**; page-record filenames remain `*-sirai.md`
+- prior P2R repairs / unusual source forms across scans 122–135 were directly reconfirmed
+- P3 `articles/03-sirai.md` synchronized; no other propagation repair required
+- cumulative P5 canonical corrections — **2**
+- cumulative P5 — **135/224**
+- next — **P5 scans 136–150**
