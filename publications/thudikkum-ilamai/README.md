@@ -10,7 +10,7 @@ Controlling source: `TVA_BOK_0063985_துடிக்கும்_இளமை
 - reason — the publisher's note identifies the book as a collection of Kalaignar Karunanidhi's **`எழுச்சியூட்டும் எழுத்தோவியங்கள்`**;
 - P0 source intake — **COMPLETE / PASS**;
 - P1 source structure / article inventory — **COMPLETE / PASS**;
-- P2 page-level transcription — **NOT STARTED**;
+- P2 page-level transcription — **IN PROGRESS — 5/33 verified**;
 - P3 article assemblies — **NOT STARTED**;
 - P4 source audit — **NOT STARTED**;
 - P5 strict visual-text-fidelity pass — **NOT STARTED**;
@@ -23,9 +23,9 @@ Controlling source: `TVA_BOK_0063985_துடிக்கும்_இளமை
 - author — **`மு. கருணாநிதி`**;
 - publisher — **`K. R. நாராயணன்`**;
 - publisher address — **`வி. ஆர். பிள்ளைத் தெரு, சென்னை-5`**;
-- price — **`ஆறணா`**;
+- price — **`ஆறணை`**;
 - edition — **`முதற் பதிப்பு`**;
-- edition date — **`16-12-'51`**;
+- edition date — **`16—12—'51`**;
 - printer — **`ஸ்ரீ மகள் அச்சகம், சென்னை-1`**.
 
 ## Physical source
@@ -54,8 +54,16 @@ This 1951 edition uses older Tamil metal-type forms. Before P2, read and apply r
 
 No OCR, web copy, alternate edition or contextual completion is to control the Tamil text.
 
+## P2 progress
+
+Batch 001 scans **1–5** — **COMPLETE / PASS — 5/5 verified; 0 needs-review; 0 guessed readings**.
+
+The supplied transcription is retained only as a comparison baseline; scan pixels remain controlling. Batch 001 corrected intake/baseline readings including **`ஆறணை`**, **`16—12—'51`**, and scan-5 **`துடிப்பு எல்லைக் கோட்டைத்`**.
+
+Progress authority: [`P2_PROGRESS.md`](P2_PROGRESS.md).
+
 ## Exact next activity
 
-When this publication is activated: **P2 Batch 001 — scans 1–5**, creating one canonical page record per physical scan and applying the historical-glyph audit to scan 5 body text.
+**P2 Batch 002 — scans 6–10**, continuing Article 1 `துடிக்கும் இளமை`, with direct word/punctuation/page-boundary comparison and mandatory historical-glyph review.
 
 Do not begin English translation until Tamil reaches P5 / frozen.
