@@ -44,10 +44,11 @@ Every one of the **33 physical scans** requires its own canonical page record, i
 
 ## P2 progress
 
-- scans **1–29** — **VERIFIED / PASS**;
+- scans **1–33** — **VERIFIED / PASS**;
 - front matter — **4/4 VERIFIED**;
 - four article bodies — **25/25 VERIFIED / COMPLETE**;
-- scans **30–33** — **NOT STARTED** — advertisement / promotional matter;
-- cumulative P2 — **29/33 verified; 0 needs-review; 0 blocked; 0 guessed**;
+- advertisements / promotional matter — **4/4 VERIFIED / COMPLETE**;
+- cumulative P2 — **33/33 COMPLETE / PASS; 0 needs-review; 0 blocked; 0 guessed**;
 - Article 2 heading correction — P1/intake `அண்ணனுக்கு அரசா!` → scan-13 source **`அண்ணாமலைக்கு அரோகரா!`**;
-- next — **scans 30–33**.
+- terminal physical scan 33 — **VERIFIED**;
+- next gate — **P3 article assembly, 4/4 articles**.
