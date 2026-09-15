@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P5 Batch P5-08 / scans 106–120**. P5 final strict visual fidelity is **IN PROGRESS — 120/224**. Scans 106–120 are **15/15 PASS** with **0 new canonical corrections**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. The `களம்` → `சிறை` boundary was directly reconfirmed: scan 106 closes `களம்`; 107 blank/reverse; 108 illustrated `சிறை`; 109 blank/reverse; scan 110 begins `சிறை` body. P3 `களம்` / `சிறை` assemblies remain synchronized. Next P5 range is **scans 121–135**, all within `சிறை`.
+Handoff refreshed after **P5 Batch P5-08 / scans 106–120**. P5 final strict visual fidelity is **IN PROGRESS — 120/224**. Scans 106–120 are **15/15 PASS after 1 canonical correction** with **1 new canonical correction**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. The `களம்` → `சிறை` boundary was directly reconfirmed: scan 106 closes `களம்`; 107 blank/reverse; 108 illustrated `சிறை`; 109 blank/reverse; scan 110 begins `சிறை` body. P3 `களம்` / `சிறை` assemblies remain synchronized. Post-batch user correction on scan 110 was source-pixel confirmed: `அந்த வானத்தையும்` → **`அந்தி வானத்தையும்`**; this is the first P5 canonical correction and is not a historical-glyph event. Next P5 range is **scans 121–135**, all within `சிறை`.
 
 ## Repository state
 
@@ -2072,3 +2072,12 @@ Historical batch sections above/below retain then-current intermediate counts on
 - P3 `களம்` / `சிறை` assemblies remain synchronized; no propagation repair required
 - cumulative P5 — **120/224**
 - next — **P5 scans 121–135**
+
+
+### P5 post-batch correction — scan 110
+
+- user identified `அந்த` vs `அந்தி` in the opening line.
+- direct source-pixel reinspection confirms **`அந்தி வானத்தையும்`**.
+- canonical page record and `articles/03-sirai.md` corrected.
+- P5 canonical correction count — **1**.
+- historical-glyph correction-event count — unchanged.
