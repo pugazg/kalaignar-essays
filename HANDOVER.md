@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P5 Final Batch P5-13 / scans 196–224**. P5 final strict visual fidelity is **COMPLETE / PASS — 224/224** and the Tamil archival layer is **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**. Final scans 196–224 are **29/29 PASS** with **0 new canonical corrections**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. Cumulative P5 canonical corrections remain **3** (scan 110 `அந்தி`; scan 121 `தலைவன்`; scan 159 `சூப்பிரின்டெண்ட்`). Scan 198's obscured cluster remains the prior explicit user-confirmed `அடைந்தார்`, not a P5 guess. All **3/3** article assemblies are synchronized. English E0 is **COMPLETE / PASS**. Article 1 **`முரசு` T0 PASS / T1 COMPLETE / T2 PASS**. T2 compared the full scans 10–65 draft against frozen Tamil and made **8 fidelity corrections**; omitted Tamil clauses and added substantive English claims are now **0**. T2 English blob is `ffea867e2163d8a87763bb3fba798d467268da84`; **56/56** source comments remain ordered; Tamil changed **0**. Next is **Article 1 T3 Kalaignar voice review**. Publication 13 remains queued.
+Handoff refreshed after **English Article 1 `முரசு` T3–T5**. Tamil remains **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN — 224/224**. Article 1 English is now **T0–T5 PASS / VERIFIED** under the title **The Drum**. T3 made **4** voice corrections; T4 made **1** source-term correction, replacing interpretive `religious pretenders` with source-bearing ***Ashadabhuthis***; T5 verified English blob is `d629c2b13c6d01170bd96bd5e88409a4352f61c5`. Source comments are **56/56 PASS**, omitted Tamil clauses **0**, added substantive English claims **0**, Tamil changes **0**, blockers **0**. Next is **Article 2 `களம்` T0 + T1**. Publication 13 remains queued.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` — TAMIL ARCHIVAL COMPLETE / FROZEN — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 PASS 224/224; English E0 PASS; Article 1 `முரசு` T0 PASS / T1 COMPLETE / T2 PASS; T3 NEXT**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` — TAMIL ARCHIVAL COMPLETE / FROZEN — P0–P5 PASS; English E0 PASS; Article 1 `முரசு` T0–T5 PASS / VERIFIED; Article 2 `களம்` T0/T1 NEXT**.
 
 Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated; Publication 12 remains the active workflow.
 
@@ -2247,3 +2247,30 @@ T2 corrections cover restored `மழவர்கள்`, source-bearing `தர
 ### Next activity
 
 **Article 1 `முரசு` — T3 Kalaignar voice review only.**
+
+
+## English Article 1 — `முரசு` — T3–T5 closure
+
+- T3 — **PASS**
+- T3 English blob — `fcd98ef6c92d14b10f69f0fcda76fe8507e14331`
+- T3 body corrections — **4**
+- T4 — **PASS**
+- T4 body authority — `bbf4de306e1d0f8442237ee654abbbdb7244d7d5`
+- T4 body corrections — **1**
+- T5 — **PASS / VERIFIED**
+- verified English title — **The Drum**
+- verified English blob — **`d629c2b13c6d01170bd96bd5e88409a4352f61c5`**
+- source comments — **56/56 PASS**
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- untranslated Tamil body leakage — **0**
+- Tamil changes — **0**
+- blockers — **0**
+
+T3 sharpened sarcasm / praise cadence / widow-remarriage imagery and corrected one English agreement error without changing the source proposition. T4 verified title, names, ideological vocabulary, periodical and work titles, quotations, dates and source comments, and changed `ஆஷாடபூதிகள்` from interpretive **religious pretenders** to source-bearing ***Ashadabhuthis***.
+
+### Exact next activity
+
+**Article 2 `களம்` — T0 source pin + T1 close draft.**
+
+Require frozen Tamil blob `60c155dc93a4543e267ccbca5573d6f5b70e5672`, create `publications/aaru-maatha-kadungkaaval/translations/en/02-kalam.md`, establish the working English title, preserve all source-page comments, and complete T1.
