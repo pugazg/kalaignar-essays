@@ -382,3 +382,99 @@ Compare the films that move through the country with the films written by our co
 
 Because of that nature, more than three thousand feet of *Thirumbip Paar* were made prey to the scissors. The film producers were in no position to file a case. The writers had no means to file one. The case must be brought before the people's forum. Only the justice obtained there can be permanent—and powerful. With that thought, on the 22nd, after meeting Mr. T. R. Sundaram, we left Madras at two in the afternoon for the Ariyalur meeting. From Ulundurpet we went toward Virudhachalam—and because we lost the road,
 
+
+<!-- Tamil source: scan 51 / printed 48 -->
+
+we wandered many miles in circles before finally finding the Tiruchi road and reaching the Ariyalur meeting at eight that night.
+
+**Ariyalur:**
+
+A town I can never forget in my lifetime. It was there that judgment was pronounced that my service to the country was a crime, and I was sentenced to six months' rigorous imprisonment.
+
+On the 22nd, standing on the stage before twenty thousand people at Ariyalur at eight in the evening, I said: “Soon I may have to stand in the dock!” But at that time I did not know I would be standing in the dock of the Ariyalur court.
+
+There are many comrades in Ariyalur, in our camp! I remember their faces well. I have forgotten some of their names. But I have not forgotten that distinguished name: member of the Dravida Munnetra Kazhagam. Comrade Ethiraj, who received a three-month sentence with me and stood as a support to me in prison, is the secretary of that town.
+
+A man of character. Firm in his resolve that every task should be done calmly—and properly. The comrades of Ariyalur have indeed gained a good opportunity in having this young man as their secretary. The meeting ended—we sat at the movement office and spoke with the comrades—and then set out toward Tiruchi
+
+<!-- Tamil source: scan 52 / printed 49 -->
+
+and reached Tiruchi at about one in the morning.
+
+Though I am a man of Tiruvarur, the place where I was born and raised is a village near Tiruvarur called Tirukkuvalai. I was studying in primary school. I think it was 1934–35; I remember it well. A middle-aged man would come all alone carrying the Congress tricolour in his hand. He would stand at a street corner and raise cries: “Vande Mataram! Victory to Mahatma Gandhi! Bolo Bharat Mata ki—Jai!” Little by little a crowd would gather. Then he would begin speaking. The people of the village would all be amazed. Not because he was expressing such rare ideas! They marvelled because he could speak like that—rapidly, without a break. He would speak for half an hour. Then he would go to another street. At mealtime he would eat whatever food was available at someone's house and leave for the next village. When I picture him now in my mind's eye, he seems to have had something of Gandhi's appearance. I do not know whether he is alive now or dead. Even then people among us would say, “When Swaraj comes, men like him will gain extraordinary fame and honour!” I do not know that any such fame or honour ever came to him. If it had, at least his photograph would have appeared
+
+<!-- Tamil source: scan 53 / printed 50 -->
+
+in the nationalist newspapers! “Swaraj” did not give him even enough honour for his picture to appear in the press. There is an important reason too. He was a Dravidian. Had he worn a sacred thread across his chest and Aryanism in his mind, he would have become the Vinoba of the South.
+
+I do not know what became of that pitiable life that went street after street through an enslaved land, shouting and shouting, village after village. But the service he demonstrated has never left my mind. Let differences of principle stand aside; I can never forget the fervour he had for the principle he held. A Gandhi cap on his head—a white shirt—a shawl whose edges had taken on brown patches—the tricolour in his hand.
+
+That unforgettable man is a guide to working comrades. Workers—comrades—in every movement should gain a sense of duty like his. I am not saying that the only excellent method is to lift a flag in one's hand and go alone from village to village doing propaganda.
+
+Even if the method is not that one, the heart must be like his—for noble workers!
+
+One must not enter such work expecting reward. Did he undertake propaganda because he expected greatness and fame later?
+
+<!-- Tamil source: scan 54 / printed 51 -->
+
+No! Even if his own party forgot him, has he not become a man who holds a place in the heart of someone from the opposing party? This is the true garland of praise placed around service!
+
+People like him must arise in the villages. For some years our movement has entered the hearts of rural people—there are many hamlets and villages that neither our propaganda squads nor our leaders can reach. In all of them, street speakers who refuse to leave my heart must arise, as Socrates arose in Athens!
+
+In the market street—at the corner of a lane—on the pathways—by the tank—on the edge of little villages—near beautiful fields—the great Athenian Socrates would stop passers-by and give long speeches!
+
+There are educated elders—young men—students—so many who remain in the villages, attending to crops and greenery because they have no other work, and not knowing how to spend their spare time! They can all become street speakers. They can gather the Dravidian army to rescue Dravidian soil from endless slavery.
+
+Young men of the smallest villages! The cock cries:
+“Dawn has come! Dawn has come!”
+Why don't you cry too:
+“Freedom! Freedom!”
+
+<!-- Tamil source: scan 55 / printed 52 -->
+
+On our tour we encountered two villages that cried out like that. One was a village called Nelur. We sat waiting, wondering whether a crowd would gather here at all. “At least ten boys will come just to look at this car, sir!” said Comrade Sakthi. I asked Amma Pillai and Mani, “How on earth did you discover this village?” Saying let the crowd come, we went walking a little distance. We returned. We were startled. More than five thousand people were seated there. We simply could not help being astonished! One fine harvest of the efforts of our Karur friend Karikalan was the movement at Nelur.
+
+The friends of Nelur deserve praise. Likewise there was a village called Easanai—there too a meeting. The day before the Nelur event there had been a meeting at Chinna Dharapuram. There are many spirited young bulls in Chinna Dharapuram capable of growing the movement. Before the meeting they held a procession. Ah! The enthusiasm with which those young bulls raised their voices—that could defeat even a raging sea! It could destroy an army roaring toward us! The day after the Chinna Dharapuram meeting came the meeting at Easanai. It was an old backwater village!
+
+Ten thousand people there?
+
+“O old order! O grinning enemy! O repressive measures! O explosive shots! O enslaving arrogance! O intoxication of authority! Look at us
+
+<!-- Tamil source: scan 56 / printed 53 -->
+
+as we grow! Look closely at our racial consciousness! Submit! Become a tortoise! Curl up! Run away! Close your eyes!”
+
+That backwater called Easanai beat out this warning drum loud enough to deafen the ears of crooked minds!
+
+They raised a flag that touched the clouds! Drums thundered! They even staged a fine play.
+
+When the Easanai programme ended, Sakthi, Chellamuthu and I left for Madras. Anbil and Mani had to be sent back to Tiruchi. Saying that if any lorry passed toward Tiruchi we would put them on it, we drove fifty miles and finally dropped them at Ulundurpet railway station, reaching Madras at five in the morning.
+
+When comrades travel with us on tour, fatigue is hardly felt. Sudden comic incidents—then the teasing and jokes that burst from them—make us laugh until our stomachs hurt and talk until our mouths hurt, and thus keep the journey from losing its enthusiasm.
+
+Two or three years earlier, there had been a tour in North Arcot district. In a hired car arranged on behalf of the district,
+
+<!-- Tamil source: scan 57 / printed 54 -->
+
+I—Sakthi—Kannadasan—Chellamuthu—Krishnan of Dravidan Pathippagam—were travelling together. The car hired for us was very old. Once it set out going “dadadada,” a month might pass before it covered the distance of a *kaadham*! And that was only if the tyre did not burst—if the oil did not choke—if the engine did not suffer convulsions! “How many horsepower is this car?” Kannadasan asked. “Only one horsepower—and even that is Tenali Raman horsepower,” I said!
+
+As though sighing, “You are tormenting me like this even in my old age,” the car went on coughing out smoke.
+
+There was a bend in the road. Vehicles approaching from opposite directions had to sound their horns without fail if they were to pass the bend safely. A bus came from the other side. Our car too went into the bend. We escaped by a hair's breadth from a great danger in which both vehicles might have met with a major accident and been smashed to pieces. The reason: the driver of the approaching bus had come without sounding the horn—that was the terror.
+
+There was a sub-inspector and some policemen in that bus. Our driver angrily got down. He looked at the bus driver.
+
+<!-- Tamil source: scan 58 / printed 55 -->
+
+“Why are you coming without sounding the horn?
+
+I'm coming without brakes myself!”
+
+he shouted furiously! The bus went away. The stomach-ache brought on by our laughter did not go away.
+
+Many such “driver jokes” happen. Are you wondering why we suddenly travelled from Tiruchi district to North Arcot district? I took you there because there is a connection between the two districts.
+
+Comrade Sakthi, a treasure given by the Tamil people of Mallakombai near Vaniyambadi in North Arcot district, was a soldier in the first line of the Kallakkudi agitation. He had been with me throughout the Tiruchi tour. At the Easanai meeting, on behalf of the Dalmiyapuram Agitation Action Committee, thanks were offered to him, to Chellamuthu and Sivaprakasam, to Mani who laid out the travel programme, to Anbil who worked to conduct it well, and to Comrade Muthukrishnan who assisted.
+
+I reported to the General Secretary the successful public meetings held in Tiruchi and the support shown by the people. Anna gave permission to begin the agitation on July 15 and then left for the Virudhunagar conference.
+
