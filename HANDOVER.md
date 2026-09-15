@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P5 Batch P5-09 / scans 121–135**. P5 final strict visual fidelity is **IN PROGRESS — 135/224**. Scans 121–135 are **15/15 PASS after 1 canonical correction** with **1 new canonical correction**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. Scan 121 was corrected directly from source pixels: `போராட்டத் தலைவர்` → **`போராட்டத் தலைவன்`**. Cumulative P5 canonical corrections are now **2** (scan 110 `அந்தி`; scan 121 `தலைவன்`). P3 `சிறை` remains synchronized. Next P5 range is **scans 136–150**, all within `சிறை`.
+Handoff refreshed after **P5 Batch P5-10 / scans 136–150**. P5 final strict visual fidelity is **IN PROGRESS — 150/224**. Scans 136–150 are **15/15 PASS** with **0 new canonical corrections**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. Prior P2R historical-glyph / spacing / lexical repairs and the 145→146 / 149→150 page-boundary continuations were directly reconfirmed from source pixels. Cumulative P5 canonical corrections remain **2** (scan 110 `அந்தி`; scan 121 `தலைவன்`). P3 `சிறை` remains synchronized. Next P5 range is **scans 151–165**, using the user-supplied scans-150–224 derivative extract.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 IN PROGRESS 135/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 IN PROGRESS 150/224**.
 
 Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated; Publication 12 remains the active workflow.
 
@@ -63,7 +63,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **COMPLETE / PASS — 3/3 article assemblies (`முரசு`, `களம்`, `சிறை`)**
 - P4 — **COMPLETE / PASS — source audit / completeness review**
-- P5 — **IN PROGRESS — 135/224; next scans 136–150**
+- P5 — **IN PROGRESS — 150/224; next scans 151–165**
 - English — **BLOCKED until Tamil freezes**
 
 ## Mandatory startup
@@ -2098,3 +2098,22 @@ Historical batch sections above/below retain then-current intermediate counts on
 - cumulative P5 canonical corrections — **2**
 - cumulative P5 — **135/224**
 - next — **P5 scans 136–150**
+
+
+## P5 final strict visual fidelity — Batch P5-10
+
+- scans checked — **136–150 / 15 scans**
+- result — **15/15 PASS**
+- canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- needs-review / blocked — **0 / 0**
+- guessed readings — **0**
+- all scans remain in **`சிறை`**; all page-record filenames remain `*-sirai.md`
+- historical-`றா` `மூன்றாம்` forms on scans 136–138 and historical-`ளை` `தலைவர்களை` on scan 147 directly reconfirmed
+- prior P2R source-fidelity repairs reconfirmed — `தெருக்களிலே`, `சிறைச் சாலையில்`; unusual source punctuation / spellings retained
+- page-boundary continuations reconfirmed — 139→140 `எங்கள்` + `ராஜ்யத்தில்மட்டும்`; 140→141 `எல்லோரும் குளிக்கக்` + opening continuation; 143→144 `புத்தகமளித்து` + `படித்தவைகளை`; 144→145 `அரிசிச்சோறு` + `சிறிது அளவில்...`; 145→146 `தன்னிட` + `முள்ள கெடிகாரத்திற்கு`; 149→150 `புறப்படு` + `கிறார்கள்.`
+- scan 150 dark blot remains non-text physical / printing blemish
+- P3 `articles/03-sirai.md` remains synchronized; no propagation repair required
+- cumulative P5 canonical corrections — **2**
+- cumulative P5 — **150/224**
+- next — **P5 scans 151–165**, derivative extract pages **2–16** under mapping `extract page N = physical scan N+149`
