@@ -11,7 +11,7 @@ Controlling source: `TVA_BOK_0063985_துடிக்கும்_இளமை
 - P0 source intake — **COMPLETE / PASS**;
 - P1 source structure / article inventory — **COMPLETE / PASS**;
 - P2 page-level transcription — **COMPLETE / PASS — 33/33 verified**;
-- P3 article assemblies — **NOT STARTED**;
+- P3 article assemblies — **COMPLETE / PASS — 4/4**;
 - P4 source audit — **NOT STARTED**;
 - P5 strict visual-text-fidelity pass — **NOT STARTED**;
 - English — **BLOCKED until Tamil archival layer freezes**;
@@ -69,10 +69,25 @@ The supplied transcription is retained only as a comparison baseline; scan pixel
 
 Progress authority: [`P2_PROGRESS.md`](P2_PROGRESS.md).
 
+## P3 progress
+
+- Article 1 `துடிக்கும் இளமை` — **COMPLETE / PASS — scans 5–12**
+- Article 2 `அண்ணாமலைக்கு அரோகரா!` — **COMPLETE / PASS — scans 13–19**
+- Article 3 `பூம்புகார்` — **COMPLETE / PASS — scans 20–24**
+- Article 4 `வெற்றி விளக்கு!` — **COMPLETE / PASS — scans 25–29**
+- article assemblies — **4/4**
+- contributing article scans — **25/25**
+- verified boundary-word joins applied — **9**
+- omitted P2 body text — **0**
+- added unsupported body text — **0**
+- unresolved assembly issues — **0**
+
+Progress authority: [`P3_PROGRESS.md`](P3_PROGRESS.md).
+
 ## Exact next activity
 
-**P3 article assembly — all four articles in one go.**
+**P4 publication source/completeness audit.**
 
-Assemble `articles/01-thudikkum-ilamai.md`, `02-annamalaikku-arogara.md`, `03-poompuhar.md`, and `04-vetri-vilakku.md` from the verified P2 page records.
+Audit the full 33-scan publication against the P2 records and P3 article assemblies, confirm front matter / four article boundaries / advertisements / terminal scan, verify 25/25 article-scan coverage and 4/4 article assemblies, and record any propagation issues.
 
 Do not begin English translation until Tamil reaches P5 / frozen.
