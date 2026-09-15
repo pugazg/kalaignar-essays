@@ -42,6 +42,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R35
+
+- every printed word, heading, numeral, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **34** / original physical scan **183**.
+- heading `ஜனநாயகம்`, `எம். எல். ஏ.,`, `ஜெயில்போதையிலே`, `செயல்மூலம்`, `சுற்றுப்பயணம்`, and the complete ending were reconfirmed.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `அண்ணாவும்` (`ணா`), `வெற்றிமாலை` (`லை`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 183 placeholder was replaced only after full direct source-pixel transcription and audit.

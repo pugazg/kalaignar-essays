@@ -44,6 +44,17 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R35
+
+- every printed word, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from derivative extract page **36** / original physical scan **185**.
+- scan-184 terminal `முன்னி` + this page's opening `லும்` page-boundary continuation was reconfirmed.
+- source-visible `பலதிறப்பட்ட`, `மட்டும் மன்றி`, `உதாரணமாக-`, `கொள்ளை யடித்தல்`, `அள்ளிவிறிக் கொட்டி`, `ஜீர்ணோத்தாரண மகா கும்பாபிஷேகம்`, and terminal `நவரத்தினங்கள், வள்ளல்களின்` were reconfirmed.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `கொள்ளை` (`ளை`), `அந்நாள்` (`ணா`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 185 placeholder was replaced only after full direct source-pixel transcription and audit.

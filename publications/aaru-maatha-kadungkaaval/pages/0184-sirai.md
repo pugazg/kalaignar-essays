@@ -41,6 +41,17 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R35
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header, visible folio, physical line-wrap join and terminal fragment was rechecked directly from derivative extract page **35** / original physical scan **184**.
+- the physical line wrap `உரு` + `வெடுத்திடுவது` was reconfirmed as the single lexical word `உருவெடுத்திடுவது`; no lexical space was introduced.
+- source-visible `தில்லைக்`, `கையாண்டி`, `24ம்`, `விட்டுக்கூடாதே யென்பதற்காக`, and terminal `முன்னி` were reconfirmed; scan 185 begins `லும்`, preserving the page-boundary continuation `முன்னிலும்`.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `தூணாக` (`ணா`), `நிலையான` (`லை`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 184 placeholder was replaced only after full direct source-pixel transcription and audit.

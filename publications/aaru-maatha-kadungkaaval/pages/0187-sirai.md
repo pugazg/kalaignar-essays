@@ -44,6 +44,17 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R35
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **38** / original physical scan **187**.
+- scan-186 terminal `கொள்ளைப்புற` + opening `வழியாக` continuation was reconfirmed.
+- source-visible numerals `1793`, `306`, `160`, `17ம்`, `20ம்`, plus `நாட்டையாளத்` and the complete ending were reconfirmed.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `நாற்காலிகளைப்` (`றா`), `வாக்காளர்களால்`, and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 187 placeholder was replaced only after full direct source-pixel transcription and audit.

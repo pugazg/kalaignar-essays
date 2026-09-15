@@ -46,6 +46,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R35
+
+- every printed word, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from derivative extract page **37** / original physical scan **186**.
+- scan-185 continuation, `கொடைவள்ளலே! குணக்குன்றே!`, `கொள்ளைக் காரர்கள்`, `கொள்ளை யடிப்பதே`, `தன்னிஷ்டத்தைப்`, and terminal `கொள்ளைப்புற` were reconfirmed.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `கொள்ளை` (`ளை`), `நிறைவேற்றப்பட்ட` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 186 placeholder was replaced only after full direct source-pixel transcription and audit.
