@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — துடிக்கும் இளமை / P5 strict visual-text-fidelity pass
+# NEXT CHAT PROMPT — துடிக்கும் இளமை / E0 English translation planning
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,7 +8,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AU
 
 Do not reopen it merely for stylistic polishing.
 
-## Publication 13 — active
+## Publication 13 — Tamil frozen
 
 Workspace:
 
@@ -18,102 +18,122 @@ Controlling source:
 
 `TVA_BOK_0063985_துடிக்கும்_இளமை.pdf`
 
-Source identity:
-
-- physical scans — **33**
-- bytes — **50,703,452**
-- SHA-256 — **`309042a481db1d198d331b1c16f11ea7acce5ad0cc4ab78ee53c2a702e0ecb11`**
-- source authority — **rendered scan pixels**
-- source PDF committed — **No**
-
-Printed identity:
-
-- title — **`துடிக்கும் இளமை`**
-- author — **`மு. கருணாநிதி`**
-- publisher — **`K. R. நாராயணன்`**
-- price — **`ஆறணா`** — user-confirmed; do not regress to `ஆறணை`
-- edition — **`முதற் பதிப்பு`**
-- edition date — **`16—12—'51`**
-- printer — **`ஸ்ரீ மகள் அச்சகம், சென்னை-1`**
-
-## Durable gate state
+Tamil gate state:
 
 - P0 — **PASS**
 - P1 — **PASS — 33/33**
 - P2 — **PASS — 33/33**
 - P3 — **PASS — 4/4**
-- P4 — **COMPLETE / PASS**
-- P5 — **NOT STARTED**
-- English — **BLOCKED until Tamil P5 / frozen**
+- P4 — **PASS**
+- P5 — **COMPLETE / PASS — 33/33**
+- P5 canonical text corrections — **0**
+- historical-glyph unresolved — **0**
+- fidelity discrepancies — **0**
+- Tamil — **COMPLETE / STRICT-REVIEWED / FROZEN**
+- English — **READY / NOT STARTED**
 
-P4 authority:
+P5 authority:
 
-`publications/thudikkum-ilamai/P4_SOURCE_AUDIT.md`
+`publications/thudikkum-ilamai/VISUAL_TEXT_FIDELITY_REVIEW.md`
 
-P4 totals:
+## Frozen Tamil authorities
 
-- source coverage — **33/33**
-- front matter — **4/4**
-- article body — **25/25**
-- advertisements/promotional matter — **4/4**
-- article assemblies — **4/4**
-- missing / duplicate scan records — **0 / 0**
-- article-range defects — **0**
-- advertisement leakage — **0**
-- physical-copy-mark contamination — **0**
-- propagation defects — **0**
-- unresolved blockers — **0**
+Translation authority is fixed to these strict-reviewed article blobs:
 
-## Canonical article authorities
+1. `articles/01-thudikkum-ilamai.md`
+   - title — `துடிக்கும் இளமை`
+   - scans — **5–12**
+   - blob — **`3b2f40df8f9b1f02aaac917276b7bcf374185f21`**
 
-1. `articles/01-thudikkum-ilamai.md` — scans **5–12**
-2. `articles/02-annamalaikku-arogara.md` — scans **13–19**
-3. `articles/03-poompuhar.md` — scans **20–24**
-4. `articles/04-vetri-vilakku.md` — scans **25–29**
+2. `articles/02-annamalaikku-arogara.md`
+   - title — `அண்ணாமலைக்கு அரோகரா!`
+   - scans — **13–19**
+   - blob — **`3740984e52a72b514dff4fc41f54a2938d7ce793`**
 
-## Exact activity — P5
+3. `articles/03-poompuhar.md`
+   - title — `பூம்புகார்`
+   - scans — **20–24**
+   - blob — **`9ec5a3fd12e342a92bc02dada6dcf4297214d69d`**
 
-Perform the final strict visual-text-fidelity pass over **all 33 physical scans in one go** unless tool limits force durable sub-batches.
+4. `articles/04-vetri-vilakku.md`
+   - title — `வெற்றி விளக்கு!`
+   - scans — **25–29**
+   - blob — **`26ce57fe58a5327879155bf41c132180d71dd191`**
 
-For every physical scan:
+Translation order:
 
-- compare the rendered source pixels against the canonical P2 page record word-by-word;
-- verify punctuation, meaningful spacing, headings, numerals, prices, date punctuation, quotation marks and page-end fragments;
-- re-run historical Tamil glyph identity checks where relevant;
-- preserve physical-copy stamps / handwriting outside the printed-text layer;
-- do not use OCR, web, Wikisource, Tamil Digital Library text or alternate editions;
-- do not modernize spelling, grammar or punctuation;
-- never guess;
-- record every canonical correction found;
-- propagate any body correction to the corresponding P3 article assembly;
-- revalidate affected page-boundary joins after any correction.
+**1 → 2 → 3 → 4**
 
-Mandatory durable readings that must not regress:
+Non-body scans **1–4** and advertisement scans **30–33** are publication structure/metadata and are not English article bodies.
 
-- scan 2 price — **`ஆறணா`**
-- scan 3 date — **`16—12—'51`**
-- scan 4 — **`எழுச்சியூட்டும் எழுத்தோவியங்களே`**
-- scan 9 — **`விந்தை`**
-- scan 10 — **`உ.வே.சாமிநாத அய்யர்`**
-- scan 13 title — **`அண்ணாமலைக்கு அரோகரா!`**
-- scan 27 — **`அரசாங்கம்`**
-- retired `ஆறணை` and `அண்ணனுக்கு அரசா!` remain correction-history only.
+## Permanent English policy
 
-After the visual pass:
+Read fresh:
 
-- create a durable P5 visual-fidelity report;
-- update P2 page records for any corrections;
-- propagate corrections to P3 article assemblies;
-- recheck all **4/4** article assemblies;
-- update publication `README.md`, `audit.md`, root `HANDOVER.md`, and this prompt;
-- if and only if all 33 scans pass with no unresolved discrepancies, mark Tamil **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**.
+`ESSAY_TRANSLATION_GUIDE.md`
 
-Expected closeout:
+Core rule:
 
-- P5 physical scans — **33/33 PASS**
-- article assemblies — **4/4 revalidated**
-- unresolved fidelity discrepancies — **0**
+> **Translate the language; do not neutralise the voice.**
+
+English translation must preserve Kalaignar's direct address, repetition, sarcasm, ridicule, rhetorical questions, exclamations, political vocabulary, quotation structure and polemical force.
+
+The frozen Tamil article assemblies are the sole normal translation authorities.
+
+Do not translate from:
+
+- the raw user-supplied transcription;
+- OCR;
+- web transcriptions;
+- alternate editions;
+- remembered wording;
+- superseded P2/P3 states.
+
+## Exact activity — E0 only
+
+Set up the English translation layer. Do **not** draft Article 1 English prose during this activity.
+
+Create / initialize:
+
+1. `publications/thudikkum-ilamai/TRANSLATION_PLAN.md`
+2. `publications/thudikkum-ilamai/translations/en/README.md`
+3. `publications/thudikkum-ilamai/translations/en/SOURCE_MAP.md`
+4. `publications/thudikkum-ilamai/translations/en/LEXICON.md`
+5. `publications/thudikkum-ilamai/translations/en/TRANSLATION_REVIEW.md`
+
+E0 requirements:
+
+- translation identity — **project-created English translation**;
+- permanent policy link — `ESSAY_TRANSLATION_GUIDE.md`;
+- pin frozen Tamil blobs — **4/4**;
+- translation order — **1 → 2 → 3 → 4**;
+- record source scan ranges;
+- record that scans 1–4 and 30–33 are outside English article bodies;
+- define T0 → T5 gates for each article;
+- define publication-wide E6 consistency review and E7 release closeout;
+- initialize a living lexicon for source-specific / culturally loaded terms and quotation handling;
+- initialize an empty review ledger;
+- create **0 English body text** during E0;
+- Tamil source changes — **0**;
+- blockers — **0** unless a real planning issue is found.
+
+After E0, update:
+
+- publication README
+- publication audit
+- root HANDOVER
+- this prompt
+
+Expected E0 result:
+
+- E0 — **COMPLETE / PASS**
+- frozen Tamil authorities pinned — **4/4**
+- English body files — **0/4**
+- English body prose created — **0**
 - blockers — **0**
-- Tamil archival layer — **FROZEN**
 
-Only after that may the English translation workflow begin.
+## Next gate after successful E0
+
+**Article 1 `துடிக்கும் இளமை` — T0 source pin + T1 close English draft.**
+
+Do not begin T1 during E0.
