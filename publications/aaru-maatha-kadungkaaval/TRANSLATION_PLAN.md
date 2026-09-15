@@ -168,24 +168,28 @@ After all 3/3 articles are T5 verified:
 - T2 English blob — **`56dfd504cc9b315ee362c1176605e28728616d73`**
 - T3 Kalaignar voice review — **PASS** — **20 body corrections**
 - T3 English blob — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
+- T4 terminology / quotation / citation audit — **PASS**
+- T4 body corrections — **0**
+- T4 body authority — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
 - English file — `translations/en/03-sirai.md`
-- working English title — **Prison** — provisional pending T4
-- translation status — **voice-reviewed**
+- verified English title — **Prison**
+- translation status — **voice-reviewed** pending T5
 - ordered source-page comments — **116/116 PASS**
 - scan 109 blank/reverse — **no invented prose**
-- T2 corrections regressed — **0**
-- semantic additions introduced by T3 — **0**
+- scan 224 — **outside Article 3 prose**
+- T2/T3 corrections regressed — **0**
+- external explanatory body claims introduced at T4 — **0**
 - untranslated Tamil body leakage — **0**
 - Tamil source changes — **0**
-- material lexicon changes at T3 — **0**
+- unresolved release-blocking terminology choices — **0**
 - blockers — **0**
-- T4/T5 — **NOT STARTED**
+- T5 — **NOT STARTED**
 
-T3 preserved source-strange/source-bearing forms rather than smoothing them away, including ***udanpirappu***, **Black Hole of Calcutta**, ***thaar*** wordplay, **Water Establishment Minister**, **People's Assembly** / **Speaking Assembly**, ***Kandam***, **“Kaanikkai” Warder**, ***manukkaaran***, ***kudukuduppaikkaran***, ***kechavaali*** and **triple-thread guardian**. Full T3 old → corrected English with rationale is in `translations/en/TRANSLATION_REVIEW.md`.
+T4 froze the Article 3 title and terminology. The living lexicon now records verified Article 3 decisions for ***udanpirappu***, **Black Hole of Calcutta**, ***thaar***, ***Ananthasayanam***, **Water Establishment Minister**, **People's Assembly** / **Speaking Assembly**, **remission**, **white cap / black cap**, ***Kandam***, **“Kaanikkai” Warder**, ***kumbabhishekam***, ***manukkaaran***, ***kudukuduppaikkaran***, ***kechavaali***, **triple-thread guardian**, ***peerkkaakkal***, ***khudas***, ***nila-vilangu*** and ***baski***. Full audit provenance is in `translations/en/TRANSLATION_REVIEW.md`.
 
 ## Exact next activity
 
-**Article 3 — `சிறை` — T4 terminology / quotation / citation audit only.**
+**Article 3 — `சிறை` — T5 article verification only.**
 
-Re-fetch frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and require exact T3 English blob `7fa87637997c3f19b1f70fe1628a4e4bfe122164`. Audit scans **108–223** for lexicon consistency, proper names, recurring epithets, source-bearing transliterations, quotations, songs, dates, institutional terms, punctuation/source anomalies, title choice, and all **116/116** source-page comments. Do not begin T5 unless explicitly directed.
+Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and exact T4 body authority `7fa87637997c3f19b1f70fe1628a4e4bfe122164`. Revalidate T0–T4, title **Prison**, all **116/116** ordered source comments, scan 109 blank/reverse, scan 224 exclusion, zero Tamil body leakage, zero unresolved release-blocking choices and zero blockers. Only then change `translation_status` to `verified`. Stop after T5; do not begin a publication-level English release gate unless explicitly directed.
 
