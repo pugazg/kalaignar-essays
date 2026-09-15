@@ -83,6 +83,26 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `நிலவிலங்கு` | ***nila-vilangu*** / plural ***nila-vilangus*** | Source prison-punishment term; retained rather than expanded beyond what the article itself supplies. | A3 T1/T4 | verified source-bearing for A3 |
 | `பஸ்கி` | ***baski*** / plural ***baskis*** | Source exercise term in the groundnut-ball wager; retained without outside gloss. | A3 T1/T4 | verified source-bearing for A3 |
 
-## E0 note
+## E0 note — historical
 
-Article 1 title **The Drum** is **VERIFIED / frozen at T5**. Later articles may establish their own contextual choices without mechanically inheriting every Article 1 rendering. Article-specific terminology, slogans, historical names, prison vocabulary, political epithets and recurring rhetorical expressions must be added as they are established in T1–T4.
+Article 1 title **The Drum** was the first title frozen at T5. Later articles were allowed to establish contextual choices without mechanically inheriting every Article 1 rendering.
+
+## Publication-level E6 consistency audit — PASS
+
+Date: **2026-09-15**
+
+The three T5-verified articles were audited together before English release closeout.
+
+Cross-article decisions:
+
+- verified titles remain **The Drum**, **The Battlefield**, and **Prison**; no title was altered merely to force identical article usage;
+- **Achariyar**, **Dravida Munnetra Kazhagam**, **Dravida Nadu**, **Kallakkudi**, **Dalmiyapuram**, and **righteous struggle** remain consistent where the same source term recurs;
+- `திராவிடம் / திராவிடர்` continues to use contextual **Dravida / Dravidian / Dravidians** according to grammar and source sense; E6 did not mechanically flatten these into one English form;
+- shared source-bearing ***Nam Nadu*** is consistent across Articles 1–2;
+- shared source-bearing ***Ashadabhuthis*** is consistent across Articles 1 and 3;
+- shared source-bearing ***moolavar*** is consistent across Articles 2 and 3;
+- source-specific puns and unexplained labels remain transliterated or closely rendered only where established by their article's T4 audit;
+- quotation, song and title treatment remains source-sensitive; no explanatory expansion was added for release;
+- no article body correction was required at E6.
+
+**Publication lexicon status: RELEASE-CONSISTENT / PASS.**
