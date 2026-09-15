@@ -13,8 +13,9 @@ Controlling source: `TVA_BOK_0063985_துடிக்கும்_இளமை
 - P2 page-level transcription — **COMPLETE / PASS — 33/33 verified**;
 - P3 article assemblies — **COMPLETE / PASS — 4/4**;
 - P4 source audit — **COMPLETE / PASS**;
-- P5 strict visual-text-fidelity pass — **NOT STARTED**;
-- English — **BLOCKED until Tamil archival layer freezes**;
+- P5 strict visual-text-fidelity pass — **COMPLETE / PASS — 33/33**;
+- Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**;
+- English — **READY / NOT STARTED**;
 - source PDF committed — **No**.
 
 ## Printed identity
@@ -106,10 +107,25 @@ P4 authority: [`P4_SOURCE_AUDIT.md`](P4_SOURCE_AUDIT.md).
 
 The canonical price remains **`ஆறணா`**. The canonical Article-2 title remains **`அண்ணாமலைக்கு அரோகரா!`**. Retired forms survive only in explicit correction-history prose.
 
+## P5 visual text fidelity
+
+**COMPLETE / PASS — 33/33 physical scans**
+
+- canonical page records — **33/33 VERIFIED**
+- P5 canonical text corrections — **0**
+- new historical-glyph corrections — **0**
+- unresolved fidelity discrepancies — **0**
+- article assemblies revalidated — **4/4 PASS**
+- frozen strict-reviewed Article 1 blob — `3b2f40df8f9b1f02aaac917276b7bcf374185f21`
+- frozen strict-reviewed Article 2 blob — `3740984e52a72b514dff4fc41f54a2938d7ce793`
+- frozen strict-reviewed Article 3 blob — `9ec5a3fd12e342a92bc02dada6dcf4297214d69d`
+- frozen strict-reviewed Article 4 blob — `26ce57fe58a5327879155bf41c132180d71dd191`
+- Tamil archival status — **COMPLETE / STRICT-REVIEWED / FROZEN**
+
+P5 authority: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md).
+
 ## Exact next activity
 
-**P5 strict visual-text-fidelity pass — all 33 physical scans.**
+**E0 — English translation planning/setup only.**
 
-Reinspect every physical scan against its canonical P2 record, verify every visible printed word / punctuation / meaningful spacing / heading / number / continuation, re-run historical-glyph checks as needed, propagate any correction into P3 assemblies and controls, and close/freeze Tamil only after P5 passes.
-
-Do not begin English translation until Tamil reaches P5 / frozen.
+Use the four frozen strict-reviewed Tamil article assemblies as the sole normal translation authorities. Do not start Article 1 translation in the same activity.
