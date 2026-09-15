@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P5 Batch P5-06 / scans 76–90**. P5 final strict visual fidelity is **IN PROGRESS — 90/224**. Scans 76–90 are **15/15 PASS** with **0 new canonical corrections**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. All scans remain within `களம்`; page-boundary continuations and unusual source forms were directly reconfirmed, and `articles/02-kalam.md` remains synchronized. Next P5 range is **scans 91–105**, still within `களம்`.
+Handoff refreshed after **P5 Batch P5-07 / scans 91–105**. P5 final strict visual fidelity is **IN PROGRESS — 105/224**. Scans 91–105 are **15/15 PASS** with **0 new canonical corrections**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. Prior P2R spacing, punctuation, lexical and historical-glyph repairs across scans 91–105 were directly reconfirmed from source pixels; `articles/02-kalam.md` remains synchronized. Next P5 range is **scans 106–120**, crossing the `களம்` → `சிறை` boundary.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 IN PROGRESS 90/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 IN PROGRESS 105/224**.
 
 Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated; Publication 12 remains the active workflow.
 
@@ -63,7 +63,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **COMPLETE / PASS — 3/3 article assemblies (`முரசு`, `களம்`, `சிறை`)**
 - P4 — **COMPLETE / PASS — source audit / completeness review**
-- P5 — **IN PROGRESS — 90/224; next scans 91–105**
+- P5 — **IN PROGRESS — 105/224; next scans 106–120**
 - English — **BLOCKED until Tamil freezes**
 
 ## Mandatory startup
@@ -2041,3 +2041,19 @@ Historical batch sections above/below retain then-current intermediate counts on
 - P3 `களம்` assembly remains synchronized; no propagation repair required
 - cumulative P5 — **90/224**
 - next — **P5 scans 91–105**
+
+
+## P5 final strict visual fidelity — Batch P5-07
+
+- scans checked — **91–105 / 15 scans**
+- result — **15/15 PASS**
+- canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- needs-review / blocked — **0 / 0**
+- guessed readings — **0**
+- all scans remain in **`களம்`**; all page-record filenames remain `*-kalam.md`
+- prior P2R repairs reconfirmed — `குமாரவேல்-குழந்தைவேல்`, `கைதூக்குங்கள்`, `இரண்டு கையும்`, `டி.எ. கமலன்`, `அவரவர்கட்கு`, `பூசிக் கொண்டு`, `ருசியைப் பற்றி`, `திராவிடத்தரணி`, `கிடக்கிறான் பார்`, `புது மொழில் பேசிய`, `எலும்புகளை`, `நரம்புகளை`, `இழித்துச் சுடுசொல்`, `ஆறு பிணம் - ஆறு பிணம்`, `பதினாறுவயது`
+- page-boundary continuations reconfirmed — 93→94, 94→95, 96→97, 99→100, 101→102, 103→104; scan 105 terminal `ஆகி` preserved and scan 106 not opened
+- P3 `களம்` assembly remains synchronized; no propagation repair required
+- cumulative P5 — **105/224**
+- next — **P5 scans 106–120**, crossing `களம்` → `சிறை`
