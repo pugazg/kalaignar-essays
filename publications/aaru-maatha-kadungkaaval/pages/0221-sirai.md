@@ -46,6 +46,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, heading, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **72** / original physical scan **221**.
+- heading `வெற்றி! வெற்றி!!`, source-visible `தாமலிங்கம் ராமசுப்பையா`, `டால்மியாபுரம்-கல்லக்குடியாக`, `கல்லக்குடி யென்னும்`, `புகை வண்டி`, `அவமானச்சின்னத்தின்`, and terminal `பின்வரும் பதிலைத்தான் நான் தரமுடியும்.` were reconfirmed without normalization.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `மறுநாள்`, `நானும்`, `நிலையத்தில்`, `பாதுகாப்பும்` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 221 was fully compared with source pixels.

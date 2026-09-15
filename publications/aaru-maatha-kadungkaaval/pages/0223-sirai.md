@@ -50,6 +50,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, quotation mark, punctuation mark, meaningful spacing, running header, visible folio, final verse block and terminal star was rechecked directly from derivative extract page **74** / original physical scan **223**.
+- source-visible `வளர்ந்தோங்கி யிருக்கிறது`, `மாற்றரின்`, `சிந்தைக்கினிய`, `ஆதிபத்யத்தை`, final lines `சேர வருவீரே!` / `சேர சோழ தென்பாண்டி நாட்டார்!` / `வீர காவியம் தீட்டும் போரில் சேர வருவீரே!`, and printed **★** were reconfirmed.
+- upper-left dark physical-copy blot and paper toning remain non-publication layer; body text remains unobscured.
+- mandatory historical-family verification was repeated; `விடுதலை`, `தேசிய`, `நண்பர்`, `நெஞ்சில்`, `தென்பாண்டி` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS / final text-bearing scan confirmed**.
+
 ## P2 நிலை
 
 **verified** — scan 223 was fully compared with source pixels and directly confirms the work terminus.

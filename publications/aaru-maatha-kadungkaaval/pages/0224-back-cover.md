@@ -39,6 +39,17 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - no spelling modernization was used.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- all visible printed Tamil lettering and publisher-device layout were rechecked directly from derivative extract page **75** / original physical scan **224**.
+- source-visible publisher device `திராவிடப்பண்ணை` and banner `தெப்பக்குளம் / திருச்சி` were reconfirmed; the cultivator / oxen / rising-rays emblem remains image matter, not additional body text.
+- greenish paper tone, stains, age specks and minor surface wear remain physical-copy features rather than publication text.
+- mandatory historical-family verification was repeated where relevant across all visible lettering; unresolved historical-glyph ambiguity — **0**.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS / terminal physical scan confirmed**.
+- **P2R physical re-audit now covers scans 1–224 / 224–224; no source scan remains unprocessed.**
+
 ## P2 நிலை
 
 **verified** — scan 224 was directly inspected and closes physical-source coverage at **224/224**.

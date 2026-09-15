@@ -44,6 +44,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or lexical modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **73** / original physical scan **222**.
+- source-visible `யென்னும்`, `யென்பது`, `வெற்றி யடையவில்லை`, `மாசே துங்`, `செஞ்சினம்`, `ஐ. நா. விலே`, `1917ல்`, `1905ல்`, `பனிரெண்டு`, and `பட்டொளி` were reconfirmed without normalization.
+- left-margin dark mark, faint lower-right blue/purple physical-copy traces and paper toning remain non-publication layer.
+- mandatory historical-family verification was repeated; `யென்னும்`, `வெற்றியினாலேயே`, `திராவிடநாட்டை`, `முன்னுரையாகத்தான்` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 222 was fully compared with source pixels.
