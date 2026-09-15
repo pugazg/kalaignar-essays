@@ -60,7 +60,7 @@ P3 source-sensitive joins include `பிம்பங்கள்`, `உள்�
 
 ## Translation
 
-**BLOCKED until Tamil archival layer reaches P5 / frozen.**
+**READY / NOT STARTED — Tamil archival layer is now P5 strict-reviewed / frozen.**
 
 ## P2 Batch 001 — scans 1–5
 
@@ -145,6 +145,29 @@ Publication-level P4 checks closed with:
 
 P4 does not substitute for P5 strict visual reinspection.
 
+## P5 strict visual-text-fidelity review
+
+**COMPLETE / PASS — 33/33**
+
+Authority: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+
+- physical scans directly rechecked — **33/33**
+- canonical P2 records — **33/33**
+- P5 text corrections — **0**
+- new historical-glyph corrections — **0**
+- physical-copy mark contamination — **0**
+- article assemblies revalidated — **4/4**
+- unresolved fidelity discrepancies — **0**
+- blockers — **0**
+- Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**
+
+Frozen Tamil article blobs:
+
+- Article 1 — `3b2f40df8f9b1f02aaac917276b7bcf374185f21`
+- Article 2 — `3740984e52a72b514dff4fc41f54a2938d7ce793`
+- Article 3 — `9ec5a3fd12e342a92bc02dada6dcf4297214d69d`
+- Article 4 — `26ce57fe58a5327879155bf41c132180d71dd191`
+
 ## Next gate
 
-**P5 strict visual-text-fidelity pass — scans 1–33.**
+**E0 — English translation planning/setup only.**
