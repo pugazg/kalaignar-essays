@@ -286,32 +286,63 @@ T4 body authority — `d5ac559f9a489a98b305b047ae651d97343e5f37`.
 
 **ARTICLE 2 T5 RESULT: PASS / VERIFIED.**
 
-### Article 3 — `சிறை` — T0 PASS / T1 COMPLETE
+### Article 3 — `சிறை` — T0/T1/T2 PASS
 
 - frozen Tamil blob — `0d860d48bcd666148c0a312ad296953f015225c2`
-- T0 — **PASS** — live `main` re-fetch matched the frozen blob exactly before drafting
+- T0 — **PASS** — live `main` re-fetch matched the frozen blob exactly before T2
 - structural scans — **108–223**
 - T1 — **COMPLETE / draft**
-- English file — `03-sirai.md`
 - T1 English blob — `31b3c8476ba4bd13264d0609a5553cdd1f7117b7`
+- T2 — **PASS** — **21 body corrections**
+- T2 English blob — **`56dfd504cc9b315ee362c1176605e28728616d73`**
+- English file — `03-sirai.md`
 - working English title — **Prison** — provisional until T4
-- translation status — `draft`
-- ordered source-page comments — **116/116 preserved**
+- translation status — `fidelity-reviewed`
+- ordered source-page comments — **116/116 PASS**
 - scan 109 blank/reverse — **no invented prose**
+- omitted Tamil sentences / clauses after T2 — **0**
+- added substantive English claims after T2 — **0**
 - untranslated Tamil body leakage — **0**
-- Tamil source changes during T0/T1 — **0**
-- T2 — **NOT STARTED**
-- T3 — **NOT STARTED**
-- T4 — **NOT STARTED**
-- T5 — **NOT STARTED**
+- Tamil source changes during T2 — **0**
+- Article 2 durable scan-77 correction rechecked — **PASS** — `தூண்டிவிடப்பட்டேன்`
 - blockers — **0**
+- T3/T4/T5 — **NOT STARTED**
 
-T1 preserves source headings, prison-administration satire, speeches, songs, quoted notices, political argument, numerical lists, casualty / sentence details, prison slang and the long closing liberation argument. It also preserves the frozen source-sensitive readings at scans 110, 121, 159, 198, 201 and 209.
+#### T2 correction ledger
 
-Material choices carried forward for T2–T4 include working title **Prison**; **Black Hole of Calcutta**; **Water Establishment Minister**; **People's Assembly** / **Speaking Assembly**; ***Kandam***; **“Kaanikkai” Warder**; ***manukkaaran***; ***kudukuduppaikkaran***; ***kechavaali***; and **triple-thread guardian**.
+| Scan | Old English | Corrected English | Frozen Tamil basis |
+|---:|---|---|---|
+| 111→112 | Perur Subramaniam and the “force unto the party” phrase were completed before the scan-112 marker | the sentence now crosses the marker; scan 112 carries “a force unto the party—Perur Subramaniam led …” | `வடாற்காடு மாவட்டத் / தில் கட்சிக்கோர் படை போன்றவருமான பேரூர் சுப்பிரமணியம் தலைமையில்` |
+| 117→118 | “They locked us up again.” entirely before scan 118 | “Again— / they locked us up.” across the marker | `மறுபடியும் / அடைத்துவிட்டார்கள்` |
+| 120 | “How dare you send such a demand?” | “How can you send a demand?” | `நீங்கள் எப்படி கோரிக்கை யனுப்பலாம்?` — no source equivalent for added “dare” / “such” |
+| 131→132 | “he would not deviate by even an atom.” entirely before scan 132 | “not even by an atom / would he deviate.” | `அணு / வும் நழுவாதவர்` |
+| 136 | “Deputies — Pakkirisamy, Krishnan” | “Deputy — Pakkirisamy Krishnan” | singular `துணை`; the following wrapped line `கிருஷ்ணன்` continues the deputy’s name |
+| 140→141 | the complete Water Establishment Minister bathing sentence was placed before scan 141 | the continuation now crosses the marker before “without wasting the water …” | `எல்லோரும் குளிக்கக் / கூடிய அளவுக்கு தண்ணீரை சேதப்படுத்திவிடாமலும்` |
+| 144→145 | “The quantity of rice would become a little larger.” entirely before scan 145 | “The rice / portion would become a little larger.” | `அரிசிச்சோறு / சிறிது அளவில் பெரிதாய்விடும்` |
+| 145→146 | the warder’s key/clock action was completed before scan 146 | the clock phrase now crosses the marker | `தன்னிட / முள்ள கெடிகாரத்திற்கு அந்த சாவி போட்டுவிட்டு வரவேண்டும்` |
+| 154→155 | “It could quickly be scraped off with a spade.” entirely before scan 155 | “With a spade / it could quickly be scraped off.” | `மண்வெட்டி கொண்டு / விரைவில் செதுக்கியும்விடலாம்` |
+| 155→156 | “because we had received rigorous imprisonment / we too had to wear the cap” blurred the source-page split | “ours was rigorous imprisonment / as a sentence—so we too had to wear the cap” | `கடுங்காவல் / தண்டனை பெற்றவர்களாதலால்` |
+| 162→163 | “You may imagine for yourselves what his condition must have been.” entirely before scan 163 | “What his condition must have been / you may imagine for yourselves.” | `அவன் நிலைமை எப்படி / யிருக்குமென்பதை நீங்களே யோசித்துக் கொள்ளுங்கள்` |
+| 167 | note ended “—K.” | note ends “—R.” | frozen source note ends `- ஆர்.` |
+| 177→178 | “We need not examine every country either.” entirely before scan 178 | “As for all countries, we / need not examine every one of them.” | `எல்லா நாடுகளையும்கூட நாம் / ஆராயத் தேவையில்லை` |
+| 179→180 | “Perhaps that is why … spread in China.” pulled scan-180 `அதனால்தான் போலும்` backward | “The habit … spread in China / —perhaps for that very reason.” | `சீனில் பரவியது / அதனால்தான் போலும்` |
+| 184→185 | “the Speaking Assembly worked with still greater speed.” entirely before scan 185 | “the Speaking Assembly worked / with still greater speed.” | `பேச்சு மன்றம், முன்னி / லும் வேகமாகப் பணியாற்றியது` |
+| 185→186 | “the nine gems would reach the houses of the philanthropists.” entirely before scan 186 | “the nine gems would reach the philanthropists’ / houses.” | `நவரத்தினங்கள், வள்ளல்களின் / வீடுபோய்ச் சேர்ந்துவிடும்` |
+| 186→187 | “through the back door?” entirely before scan 187 | “through the back / door?” | `கொள்ளைப்புற / வழியாக` |
+| 190→191 | the Kural/Vamana praise sentence was closed before scan 191 | the quotation now remains open through the marker and closes with “so he had praised it!” | `பாராட்டியிருக்க / கிறார் என்று!` |
+| 192→193 | the rhetorical question was completed before scan 193 | “what / is wrong in those who love it becoming mad?” | `என்ன / தவறு!` |
+| 194→195 | “I was startled.” entirely before scan 195 | “I was / startled.” | `நான் திடுக்கிட்டுப் / போனேன்` |
+| 219 | “It will not fail to become clear to the country …” | “It will not become clearly apparent to the country …” | frozen negative `நாட்டுக்கு நன்கு புலனாகப் போகாது`; T1 had reversed the polarity |
+
+#### T2 reviewed and retained
+
+The working title **Prison** remains provisional until T4. Scan 114 ***udanpirappu*** was retained as source-bearing kinship vocabulary rather than narrowed to a generic English relation. **Black Hole of Calcutta**, **Water Establishment Minister**, **People's Assembly** / **Speaking Assembly**, ***Kandam***, **“Kaanikkai” Warder**, ***manukkaaran***, ***kudukuduppaikkaran***, ***kechavaali***, and **triple-thread guardian** were all rechecked against the frozen Tamil and retained for later voice/terminology gates. No material lexicon term changed at T2, so `LEXICON.md` requires no T2 content change.
+
+The source-sensitive frozen readings at scans 110 **`அந்தி`**, 121 **`தலைவன்`**, 159 **`சூப்பிரின்டெண்ட்`**, 198 **`அடைந்தார்`**, 201 **`‘ஜோக்கர்’`**, and 209 **`இன்ப நினைவுடன்`** remain intact in the T2 English.
 
 ## Exact next activity
 
-**Article 3 — `சிறை` — T2 bilingual fidelity review.**
+**Article 3 — `சிறை` — T3 voice/style review only.**
 
-Compare frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` against T1 English blob `31b3c8476ba4bd13264d0609a5553cdd1f7117b7` across all scans 108–223. Check every paragraph / clause, headings, lists, songs, quotation scope, dates, names, numbers, negatives, page-boundary continuations, prison terminology and all 116 source-page comments. Record every correction. Do not begin T3 unless separately directed.
+Use frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and T2 English blob `56dfd504cc9b315ee362c1176605e28728616d73`. Review the complete scans **108–223** English for rhetorical force, cadence, satire, repetition, political register, quoted speech and song-line voice without changing meaning or source facts. Preserve all **116/116** source-page comments and scan 109 blank/reverse. Do not begin T4 unless explicitly directed.
+
