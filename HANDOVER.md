@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Publication 13 `துடிக்கும் இளமை` P2 Batch 001 — scans 1–5**. Publication 12 `ஆறுமாதக் கடுங்காவல்` remains **RELEASE COMPLETE / FROZEN** and must not be reopened for stylistic polishing. Publication 13 is now **ACTIVE — P0 PASS; P1 PASS 33/33; P2 IN PROGRESS 5/33 verified; 0 needs-review; 0 guessed readings**. The user-supplied transcription is a comparison baseline only; the supplied 1951 scan pixels remain controlling.
+Handoff refreshed after **Publication 13 `துடிக்கும் இளமை` all-article P2 pass — scans 5–29**. Publication 12 `ஆறுமாதக் கடுங்காவல்` remains **RELEASE COMPLETE / FROZEN**. Publication 13 is **ACTIVE — P0 PASS; P1 PASS 33/33; P2 IN PROGRESS 29/33 verified; all four article bodies 25/25 COMPLETE; 0 needs-review; 0 guessed readings**. The user-supplied transcription is a comparison baseline only; supplied 1951 scan pixels remain controlling.
 
 ## Repository state
 
@@ -14,7 +14,7 @@ Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
 Publication 12 **`ஆறுமாதக் கடுங்காவல்` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 3/3 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 13 **`துடிக்கும் இளமை` — ACTIVE — P0 PASS; P1 PASS 33/33; P2 IN PROGRESS 5/33 VERIFIED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Batch 001 scans 1–5 is complete; next is Batch 002 scans 6–10.
+Publication 13 **`துடிக்கும் இளமை` — ACTIVE — P0 PASS; P1 PASS 33/33; P2 IN PROGRESS 29/33 VERIFIED; ARTICLE BODY 25/25 COMPLETE**. Verified body inventory: `துடிக்கும் இளமை` 5–12; `அண்ணாமலைக்கு அரோகரா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Remaining P2: scans 30–33 advertisements/promotional matter.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2388,26 +2388,27 @@ Do **not** reopen Publication 12 merely for stylistic polishing.
 
 Publication 13 `துடிக்கும் இளமை` is now **ACTIVE**.
 
-### Publication 13 durable state after P2 Batch 001
+### Publication 13 durable state after all-article P2
 
 - workspace — `publications/thudikkum-ilamai/`
 - source — `TVA_BOK_0063985_துடிக்கும்_இளமை.pdf`
 - P0 — **PASS**
 - P1 — **PASS — 33/33**
-- P2 — **IN PROGRESS — 5/33 VERIFIED**
+- P2 — **IN PROGRESS — 29/33 VERIFIED**
+- front matter — **4/4 VERIFIED**
+- article body — **25/25 VERIFIED / COMPLETE**
+- Article 1 `துடிக்கும் இளமை` — **8/8**
+- Article 2 `அண்ணாமலைக்கு அரோகரா!` — **7/7**
+- Article 3 `பூம்புகார்` — **5/5**
+- Article 4 `வெற்றி விளக்கு!` — **5/5**
 - needs-review / blocked / guessed — **0 / 0 / 0**
-- source-visible price — **`ஆறணை`** (corrected from intake/baseline `ஆறணா`)
-- source-visible edition date — **`16—12—'51`**
-- scan 4 publisher note — **verified**
-- scan 5 Article 1 opening — **verified**
-- scan 5 source terminal fragment — **`பிம்பங்`**
-- historical-glyph ambiguity — **0**
-- baseline rule — user-supplied transcription may assist alignment; scan pixels control every canonical reading
+- user-confirmed price — **`ஆறணா`**; prior `ஆறணை` was a historical-`ணா` misread
+- scan 13 corrected source heading — **`அண்ணாமலைக்கு அரோகரா!`**
+- baseline rule — supplied transcription assists alignment only; scan pixels control canonical text
 - progress authority — `publications/thudikkum-ilamai/P2_PROGRESS.md`
 
 ### Exact next activity
 
-**Publication 13 P2 Batch 002 — physical scans 6–10.**
+**Publication 13 P2 final batch — scans 30–33 advertisements / promotional matter.**
 
-Process exactly five scans. Continue Article 1 `துடிக்கும் இளமை`, compare the supplied transcription baseline against the scan word-by-word, apply the mandatory 13-family historical-glyph audit, preserve physical page boundaries, and stop after scan 10.
-
+Create four canonical physical-scan records. After those four scans, close P2 at **33/33** and move next to P3 article assembly.
