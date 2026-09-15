@@ -2314,7 +2314,7 @@ Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2`, create `pu
 - next — **Article 3 `சிறை` T0 + T1**
 
 
-## English Article 3 — `சிறை` — T0/T1/T2/T3/T4
+## English Article 3 — `சிறை` — T0–T5 VERIFIED
 
 - T0 — **PASS**
 - frozen Tamil blob — **`0d860d48bcd666148c0a312ad296953f015225c2`**
@@ -2331,44 +2331,31 @@ Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2`, create `pu
 - T3 English blob — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
 - T4 — **PASS** — **0 body corrections**
 - T4 body authority — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
+- T5 — **PASS / VERIFIED**
+- verified English blob — **`103a2492d110006cea520e03efd40fb3c1a5bdbc`**
 - English file — `publications/aaru-maatha-kadungkaaval/translations/en/03-sirai.md`
 - verified English title — **Prison**
-- `translation_status: "voice-reviewed"` pending T5
+- `translation_status: "verified"`
 - source comments — **116/116 PASS**
-- quotation / song / title treatment — **PASS**
-- source-bearing prison / political terminology — **PASS**
-- unresolved release-blocking terminology choices — **0**
+- T5 body changes — **0**; metadata-only release update
 - untranslated Tamil body leakage — **0**
-- Tamil source changes during T4 — **0**
+- unresolved release-blocking terminology / quotation choices — **0**
+- Tamil source changes during T5 — **0**
 - blockers — **0**
-- T5 — **NOT STARTED**
 
-T4 froze the Article 3 terminology without changing the English body. Durable decisions include:
-
-- `உடன்பிறப்பு` → ***udanpirappu***;
-- `கல்கத்தா இருட்டறை` → **Black Hole of Calcutta**;
-- `தார்` → ***thaar*** with the source's own cattle-goad / banana-bunch wordplay;
-- `அனந்தசயனம்` → ***Ananthasayanam***;
-- `ஜல ஸ்தாபன மந்திரி` → **Water Establishment Minister**;
-- `மக்கள் மன்றம்` → **People's Assembly** in the prison polity; generic contexts remain **people's forum**;
-- `பேச்சு மன்றம்` → **Speaking Assembly**;
-- `நாட்குறைப்பு / நாட் கழிவு` → **remission**;
-- `வெள்ளைக் குல்லாய் / கருப்புக் குல்லாய்` → **white cap / black cap**;
-- `காணிக்கை வார்டர்` → **“Kaanikkai” Warder**;
-- `கண்டம்` → ***Kandam***;
-- `கும்பாபிஷேகம்` → ***kumbabhishekam***;
-- `மணுக்காரன்` → ***manukkaaran***;
-- `குடு குடுப்பைக்காரன்` → ***kudukuduppaikkaran***;
-- `கெச்சவாளி` → ***kechavaali***;
-- `முப்புரிக் காவலர்` → **triple-thread guardian**;
-- `பீர்க்காக்கள்` → ***peerkkaakkal***;
-- `குதாக்கள்` → ***khudas***;
-- `நிலவிலங்கு` → ***nila-vilangu*** / plural ***nila-vilangus***;
-- `பஸ்கி` → ***baski*** / ***baskis***.
-
-Existing verified cross-article choices remain consistent: Article 1 ***Ashadabhuthis*** and Article 2 ***moolavar*** are retained when they recur in Article 3. The title **Prison** is now verified at T4.
+Article 3 is now individually closed at T5. Durable T4 terminology remains frozen, including ***udanpirappu***, **Black Hole of Calcutta**, ***thaar***, ***Ananthasayanam***, **Water Establishment Minister**, **People's Assembly** / **Speaking Assembly**, ***Kandam***, **“Kaanikkai” Warder**, ***kumbabhishekam***, ***manukkaaran***, ***kudukuduppaikkaran***, ***kechavaali***, **triple-thread guardian**, ***peerkkaakkal***, ***khudas***, ***nila-vilangu*** and ***baski***.
 
 The frozen source-sensitive readings remain intact: scan 110 **`அந்தி`**, scan 121 **`தலைவன்`**, scan 159 **`சூப்பிரின்டெண்ட்`**, scan 198 **`அடைந்தார்`**, scan 201 **`‘ஜோக்கர்’`**, scan 209 **`இன்ப நினைவுடன்`**.
+
+### English publication article-level state
+
+All three articles are individually **T5 VERIFIED**:
+
+- Article 1 `முரசு` — **The Drum** — **`d629c2b13c6d01170bd96bd5e88409a4352f61c5`**
+- Article 2 `களம்` — **The Battlefield** — **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**
+- Article 3 `சிறை` — **Prison** — **`103a2492d110006cea520e03efd40fb3c1a5bdbc`**
+
+This does **not** yet mean the publication is English-translation complete. The required publication-level cross-article consistency / release gate has **NOT STARTED**.
 
 ### Durable Article-2 correction
 
@@ -2380,20 +2367,20 @@ Do not regress the user-confirmed scan-77 correction:
 
 ### Exact next activity
 
-**Article 3 `சிறை` — T5 article verification only.**
+**Publication-level English cross-article consistency / release gate only.**
 
-Re-fetch frozen Tamil blob **`0d860d48bcd666148c0a312ad296953f015225c2`** and require exact T4 body authority **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**.
+Use the three verified English article blobs above. Audit:
 
-Revalidate:
+- recurring names and epithets;
+- `Aryan` / `Dravidian` and other ideological vocabulary;
+- repeated phrases and slogans;
+- source publication / periodical / work titles;
+- source-bearing transliterations, puns and unexplained labels;
+- quotation and song treatment;
+- title style;
+- tone consistency;
+- source-page-comment completeness;
+- accidental smoothing introduced across articles.
 
-- T0–T4 closure;
-- verified title **Prison**;
-- all **116/116** ordered source comments;
-- scan 109 blank/reverse with no prose;
-- scan 224 excluded from Article 3 prose;
-- no untranslated Tamil body leakage;
-- no unresolved release-blocking terminology / quotation choice;
-- no blockers.
-
-Only after all checks pass may `translation_status` be changed to `verified`. Stop after Article 3 T5. Do **not** begin any publication-level English release gate unless explicitly directed.
+Do not start this gate unless explicitly directed.
 
