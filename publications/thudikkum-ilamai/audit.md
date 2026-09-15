@@ -60,7 +60,16 @@ P3 source-sensitive joins include `பிம்பங்கள்`, `உள்�
 
 ## Translation
 
-**READY / NOT STARTED — Tamil archival layer is now P5 strict-reviewed / frozen.**
+**E0 COMPLETE / PASS — article translation NOT STARTED.**
+
+- translation identity — **project-created English translation**
+- frozen Tamil authority pins — **4/4 PASS**
+- translation order — **1 → 2 → 3 → 4**
+- translation-control files initialized — **5/5**
+- English article body files — **0/4**
+- English body prose created during E0 — **0**
+- Tamil source changes during E0 — **0**
+- blockers — **0**
 
 ## P2 Batch 001 — scans 1–5
 
@@ -168,6 +177,27 @@ Frozen Tamil article blobs:
 - Article 3 — `9ec5a3fd12e342a92bc02dada6dcf4297214d69d`
 - Article 4 — `26ce57fe58a5327879155bf41c132180d71dd191`
 
+## English E0 planning/setup
+
+**COMPLETE / PASS**
+
+Authority files:
+
+- `TRANSLATION_PLAN.md`
+- `translations/en/README.md`
+- `translations/en/SOURCE_MAP.md`
+- `translations/en/LEXICON.md`
+- `translations/en/TRANSLATION_REVIEW.md`
+
+Frozen Tamil blobs pinned:
+
+- Article 1 — `3b2f40df8f9b1f02aaac917276b7bcf374185f21`
+- Article 2 — `3740984e52a72b514dff4fc41f54a2938d7ce793`
+- Article 3 — `9ec5a3fd12e342a92bc02dada6dcf4297214d69d`
+- Article 4 — `26ce57fe58a5327879155bf41c132180d71dd191`
+
+English body files created during E0 — **0**.
+
 ## Next gate
 
-**E0 — English translation planning/setup only.**
+**Article 1 `துடிக்கும் இளமை` — T0 source-pin revalidation + T1 close English draft only.**
