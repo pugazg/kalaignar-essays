@@ -31,17 +31,27 @@ E0 — **COMPLETE / PASS**.
 **T0–T5 PASS / VERIFIED**
 
 - verified title — **The Battlefield**
-- frozen Tamil blob — `60c155dc93a4543e267ccbca5573d6f5b70e5672`
+- frozen Tamil blob — `711b86300a3340ee73271a1cf613408905314498`
 - T1 blob — `78cd7094b8b57c00e6528b40c3c3768d7014971f`
 - T2 blob — `3ffc005a7e8653319a86954d42ac6d9f047e4c81`
 - T3 body authority — `3ffc005a7e8653319a86954d42ac6d9f047e4c81`
 - T4 body authority — `d5ac559f9a489a98b305b047ae651d97343e5f37`
-- verified English blob — **`9d37041cda4a6a8808b8009b7a86ba9e3b533246`**
+- verified English blob — **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**
 - source comments — **41/41 PASS**
 - paragraph-block scan matching — **41/41 PASS**
 - blockers — **0**
 
 Durable Article-2 source-bearing choices include ***parani***, ***ondavanda pidaris***, ***othiya milars***, ***pokkali***, northern ***moolavar***, ***kudi / uthira-kudi***, **Gundodara**, and **Pidari**.
+
+### Post-T5 Article-2 correction
+
+Before starting Article 3, preserve this corrected durable state:
+
+- scan 77 Tamil — **`தூண்டிவிடப்பட்டேன்`**, not `தாண்டிவிடப்பட்டேன்`;
+- current Article 2 Tamil blob — **`711b86300a3340ee73271a1cf613408905314498`**;
+- current verified Article 2 English blob — **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**;
+- scan-77 English — **“I was driven by the desire that I should fall into the hands of the police only at the battlefront—that is why!”**;
+- Article 2 remains **T0–T5 PASS / VERIFIED after targeted revalidation**.
 
 ### Article 3 — `சிறை`
 
