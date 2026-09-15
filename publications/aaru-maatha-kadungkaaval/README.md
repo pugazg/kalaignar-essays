@@ -1145,7 +1145,7 @@ User-confirmed canonical correction:
 - Article 2 remains **T0–T5 PASS / VERIFIED after targeted revalidation**.
 
 
-## English Article 3 — `சிறை` — T0/T1/T2/T3/T4 checkpoint
+## English Article 3 — `சிறை` — T0–T5 VERIFIED
 
 - T0 — **PASS**
 - frozen Tamil blob — `0d860d48bcd666148c0a312ad296953f015225c2`
@@ -1157,25 +1157,34 @@ User-confirmed canonical correction:
 - T3 — **PASS** — **20 body corrections**
 - T3 English blob — `7fa87637997c3f19b1f70fe1628a4e4bfe122164`
 - T4 — **PASS** — **0 body corrections**
-- T4 body authority — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
+- T4 body authority — `7fa87637997c3f19b1f70fe1628a4e4bfe122164`
+- T5 — **PASS / VERIFIED**
+- verified English blob — **`103a2492d110006cea520e03efd40fb3c1a5bdbc`**
 - English file — `translations/en/03-sirai.md`
 - verified title — **Prison**
-- translation status — **voice-reviewed** pending T5
+- translation status — **verified**
 - source-page comments — **116/116 PASS**
 - scan 109 blank/reverse — **no invented prose**
 - scan 224 — **outside Article 3 prose**
-- terminology / quotation / citation audit — **PASS**
-- unresolved release-blocking terminology choices — **0**
+- T5 body changes — **0**
+- unresolved release-blocking terminology / quotation choices — **0**
 - Tamil body leakage — **0**
 - Tamil changes — **0**
 - blockers — **0**
-- T5 — **NOT STARTED**
 
-T4 froze the Article 3 title and source-bearing vocabulary while retaining unusual source forms instead of replacing them with outside explanations. `LEXICON.md` and `translations/en/TRANSLATION_REVIEW.md` contain the durable terminology decisions.
+### English article-level status
+
+All three publication articles are now individually **T5 VERIFIED**:
+
+- **The Drum** — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`;
+- **The Battlefield** — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`;
+- **Prison** — `103a2492d110006cea520e03efd40fb3c1a5bdbc`.
+
+The publication-level English cross-article consistency / release gate has **NOT STARTED**.
 
 ### Exact next activity
 
-**Article 3 — `சிறை` — T5 article verification only.**
+**Publication-level English cross-article consistency / release gate only.**
 
-Use frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and T4 body authority `7fa87637997c3f19b1f70fe1628a4e4bfe122164`. Revalidate T0–T4, title **Prison**, all **116/116** source comments, scan 109 blank/reverse, scan 224 exclusion, zero Tamil leakage, zero release blockers and zero blockers. Only after PASS may `translation_status` become `verified`. Stop before any publication-level English release gate.
+Audit recurring terminology, names and epithets, `Aryan` / `Dravidian` vocabulary, repeated slogans, periodical/work titles, source-bearing transliterations and puns, quotations/songs, title style, tone consistency, source-page-comment completeness and accidental smoothing across all three verified articles. Do not start unless explicitly directed.
 
