@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / Article 1 `முரசு` T0 + T1
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / Article 1 `முரசு` T2 bilingual fidelity review
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,68 +10,78 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 - Tamil status — **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**
 - do not modify frozen Tamil absent genuinely new direct source evidence.
 
-## English E0 — COMPLETE / PASS
+## English state
 
-Translation identity: **project-created English translation**.
+E0 — **COMPLETE / PASS**.
 
-Durable English records:
+Article 1 `முரசு`:
 
-- `publications/aaru-maatha-kadungkaaval/TRANSLATION_PLAN.md`
-- `publications/aaru-maatha-kadungkaaval/translations/en/README.md`
-- `publications/aaru-maatha-kadungkaaval/translations/en/SOURCE_MAP.md`
-- `publications/aaru-maatha-kadungkaaval/translations/en/LEXICON.md`
-- `publications/aaru-maatha-kadungkaaval/translations/en/TRANSLATION_REVIEW.md`
+- T0 — **PASS**
+- frozen Tamil authority — `publications/aaru-maatha-kadungkaaval/articles/01-murasu.md`
+- frozen Tamil blob — **`7a41617cd48f8507bc12074fb48d6016fae5cead`**
+- source scans — **10–65**
+- T1 — **COMPLETE / draft**
+- English file — `publications/aaru-maatha-kadungkaaval/translations/en/01-murasu.md`
+- T1 English blob — **`a94630638fa194290e0761259131cc4548d429e4`**
+- working title — **The Drum** — provisional until T4
+- ordered source-page comments — **56/56 preserved**
+- translation status — `draft`
+- blockers — **0**
 
-Translation order: **முரசு → களம் → சிறை**.
-
-Frozen Tamil authorities:
-
-1. `முரசு` — scans **10–65** — `articles/01-murasu.md` — blob **`7a41617cd48f8507bc12074fb48d6016fae5cead`**
-2. `களம்` — scans **66–106** — `articles/02-kalam.md` — blob **`60c155dc93a4543e267ccbca5573d6f5b70e5672`**
-3. `சிறை` — scans **108–223** — `articles/03-sirai.md` — blob **`0d860d48bcd666148c0a312ad296953f015225c2`**
-
-Scan **224** is back-cover / publisher-device matter, not English article prose.
+Article 2 `களம்` and Article 3 `சிறை` remain **NOT STARTED** in English.
 
 ## Permanent English policy
 
 Read and follow `ESSAY_TRANSLATION_GUIDE.md`.
 
-Core rule:
-
 > **Translate the language; do not neutralise the voice.**
 
-Preserve direct address, rhetorical questions, commands, repetition, sarcasm, polemical force, quotation structure, paragraph structure, dates/numbers and source-page traceability. Do not import web / OCR / alternate-edition wording.
+Do not use OCR, web copies, alternate editions, memory or later historical convention to replace the frozen Tamil source.
 
-Permanent source-name rule: `ஆச்சாரியார்` → **Achariyar**.
+## Exact activity — Article 1 T2
 
-## Exact activity — Article 1 `முரசு`
+### Source pins
 
-### T0 — source prerequisite
+1. re-fetch `articles/01-murasu.md`; require exact blob **`7a41617cd48f8507bc12074fb48d6016fae5cead`**;
+2. re-fetch `translations/en/01-murasu.md`; require exact T1 blob **`a94630638fa194290e0761259131cc4548d429e4`** before any T2 correction;
+3. if either differs, stop and reconcile live-main drift before review.
 
-1. re-fetch `articles/01-murasu.md` from live `main`;
-2. require exact blob **`7a41617cd48f8507bc12074fb48d6016fae5cead`**;
-3. if the blob differs, stop and reconcile before translation;
-4. confirm scans **10–65** and strict-reviewed / frozen status.
+### T2 bilingual fidelity review
 
-### T1 — close draft
+Compare the **entire article** Tamil ↔ English, paragraph by paragraph and clause by clause.
 
-Create:
+Check explicitly:
 
-`publications/aaru-maatha-kadungkaaval/translations/en/01-murasu.md`
+- no omitted Tamil sentence, clause, rhetorical question, command, list item, embedded verse line or slogan;
+- no English-only claim or historical explanation;
+- names, initials, places, dates, times, amounts and numbers;
+- negatives, comparisons, conditionals and logical connectors;
+- quotation scope and speaker;
+- deliberate repetition, dashes, exclamations and questions;
+- source-chosen political / religious / social labels;
+- scans 16–17 duplicated physical witnesses remain represented as required by the frozen Tamil assembly;
+- all **56/56** ordered `<!-- Tamil source: scan ... -->` comments remain present and ordered;
+- page-boundary continuations remain traceable.
 
-Requirements:
+Review the T1 open choices without smoothing by preference:
 
-- establish a working English title from the frozen Tamil; title remains reviewable until T4;
-- metadata must record the frozen Tamil blob and scans **10–65**;
-- `translation_status: "draft"`;
-- `translation_method: "close rhetorical translation preserving Kalaignar's voice"`;
-- translate the **entire article**, paragraph by paragraph;
-- preserve every ordered page comment in the form `<!-- Tamil source: scan ... -->`;
-- preserve embedded verse / slogans / quotations and their lineation;
-- retain deliberate repetition, dashes, exclamations and questions;
-- do not omit source-irregular wording merely because it sounds unusual;
-- update `LEXICON.md` with material terminology choices;
-- update `TRANSLATION_REVIEW.md` with T0/T1 provenance;
-- update `translations/en/README.md`, root `HANDOVER.md`, and this next prompt.
+- `முரசு` → working title **The Drum**;
+- `அறப்போர்` → **righteous struggle**;
+- `குளித்தலை / குருவித்தலை` wordplay;
+- `ஆஷாடபூதிகள்` → **religious pretenders**;
+- `முத்தமிழ்` → **Muttamil**;
+- Kallar / thief wordplay.
 
-Stop after **T1 close draft**. Do not run T2 unless explicitly proceeding to the next activity.
+For every T2 correction, record old English → corrected English and the Tamil basis in `translations/en/TRANSLATION_REVIEW.md`.
+
+Update:
+
+- `translations/en/01-murasu.md`
+- `translations/en/LEXICON.md` if a material choice changes
+- `translations/en/TRANSLATION_REVIEW.md`
+- `translations/en/README.md`
+- publication `README.md`
+- root `HANDOVER.md`
+- this next prompt
+
+Stop after **T2**. Do not begin T3 unless explicitly directed.
