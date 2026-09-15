@@ -1390,3 +1390,111 @@ The Jailer replied: “Arrange a loudspeaker at your own expense; we have no obj
 
 “Good! Even if Rabi gains nothing from us, let him at least suffer no loss,” I told myself. “All right, sir! About the radio
 
+<!-- Tamil source: scan 214 / printed 211 -->
+
+—we shall think again,” we replied. They left. Why would we think about it again after that! The days kept running.
+
+## Hitler's Song—Freedom's Tune!
+
+On October 23, five or six of us celebrated splendidly in prison the completion of forty days. When we woke in the morning, a little slip of paper bearing the words “Forty Days” shone on the table. Beside it was a tiny bouquet made of five or six jasmine flowers with fresh leaves. It had been forty days since we had seen the outside world. More than forty days since we had gathered our children into our arms and kissed them. Forty days since mother sat beside us and served us, since a companion served food. Forty days had rolled away since those festive days of gathering and mingling with friends. Today it had been forty days since, when the cage-door slammed shut, an unavoidable lightning-like thought struck the heart and vanished.
+
+These forty days were important not only to us; they were very important to Dravida. As Jallianwala Bagh was a major stage in the freedom struggle against the white man, these forty days were an equally major stage in the history of Dravida!
+
+<!-- Tamil source: scan 215 / printed 212 -->
+
+Blood on the soil of Tamilagam! Dust in the sky! Events like a spear driven into a wound! With water rising in the eyes and fire rising in the song, Dravida had become ready to determine its future. The heroes of the durbar set out roaring that this feeling could be disfigured by arrogant rule. Those who feared that the parties serving to fill their bellies might wither under the growing uprising waited for the moment and began to spit poisoned words. Five thousand soldiers of Dravida had been caught in prison—therefore, “this is the time; winnow while there is wind,” and the broken shards lying in corners threw off the veils that covered them and rose to beat the drum. Packs of foxes that had once roamed madly crying, “Blood! Blood! Violence is our ideal!” now entered the people's forum and sharpened their tongues to demand the office of headman over a flock of sheep. “They must have a place only in history; their account must be settled,” cried the descendant of Kakkapattar, girding himself and setting out. Aryan journals, voices of the agraharam, raised their poisonous propaganda to the highest pitch and screamed. A few frightened Pandits, saying even the very existence of “Dravidian” was imaginary, stumbled, slipped and hid because they could not screen their false argument. Against all these little commotions
+
+<!-- Tamil source: scan 216 / printed 213 -->
+
+the conch-call of the Dravidian liberation army rang out boldly. The morning star announcing that dawn would soon arrive had appeared.
+
+Those days over which that widespread light spread are the hundred days I speak of.
+
+Just as the brave deeds carried out by the Dravidians in these hundred days—the methods of the liberation struggle—cannot be forgotten by the future, neither can the futile voices raised against the liberation struggle, the deeds of Vibhishanas, nor the conduct of base men without national feeling.
+
+“They must have a place only in history. They must be destroyed at once,” Achariyar said. He could not deny—or refrain from thinking—that we are people who must have a place in history! The place Lenin's battalion has in Russian history, the place Mao's ranks have in Chinese history—surely Anna's formation must have such a place in the history of Dravida Nadu. Perhaps Achariyar will complete writing it with his teardrops. Or we ourselves may write it with our drops of blood. The glory of the Brahmin lineage has praised us by saying we must be given a place in history.
+
+He did not stop there; he said their account too must be settled. We must understand that he said this as a hint to
+
+<!-- Tamil source: scan 217 / printed 214 -->
+
+Nehru.
+
+This is not like Warren Hastings speaking in the English Parliament! Achariyar's statement is like Lord Mountbatten speaking to Attlee. We too are eager to settle the account and open a new one. If, like Mountbatten speaking to Attlee, Achariyar is speaking to Nehru about settling accounts, we are delighted. If not—
+
+if he says it toward us like Chitragupta, then according to the Purana story we too remind him of the history of Markandeya. In the Purana story the linga burst and Siva emerged.
+
+Achariyar knows! But in the story of revolution ... Achariyar knows that too!
+
+“The Dravida Munnetra Kazhagam is my first enemy”—one day in these hundred days Achariyar dropped that spirited sentence!
+
+“I said the Communists were my first enemy—they have subsided. I say these people are my first enemy—they too will subside.” Such was Achariyar's satisfaction.
+
+“I touched the Maginot fort—it became a mound of earth! Here I enter Moscow—this too
+
+<!-- Tamil source: scan 218 / printed 215 -->
+
+will become a broken wall,” sang the madman Hitler, who set out to swallow the world—in the intoxication of war, in the delirium of victory!
+
+The same song is sung here—the tune alone is different! Hitler's song! Freedom's tune!
+
+★
+
+## The Prison Opened
+
+We, who had thought that only after another two months would we be able to walk the streets of Dravida, were given new news. The news was that one month of the sentence had been reduced. We had refused to pay the fine of thirty-five rupees and accepted an additional month of imprisonment; they forcibly collected our fine. If their eyes fell upon my motorcar for thirty-five rupees—if the Collector attempted to seize it and auction it—one can see the lengths to which they went to settle their vengeance. We had lived nearly five months in prison. It was during those five months that the *moolavar* Nehru uttered many harsh words toward Dravida. The triple-thread guardian Achariyar hurled burning words toward our movement. As though placing a crown upon all this, Governor Prakasa—in Tiruvarur, at comrades showing black
+
+<!-- Tamil source: scan 219 / printed 216 -->
+
+flags and at members of the public—jumped out of his car, took a stick and chased them away.
+
+History, for the first time, encountered during these five months the strange spectacle of a State Governor himself taking the lead in conducting a lathi-charge durbar!
+
+The movement before July 15 was one thing; the movement that had grown loftily after it was another!
+
+It had gained such a remarkable uprising in the magic by which a thousand becomes a lakh. Only after seeing that this growth could not be destroyed even by slander, arrogance or beating people away did Governor Prakasa, speaking in Thanjavur, say, “The black-flag incidents look like the Russian Revolution,” and later, speaking in Nagai, note: “Their growth must not be ignored.” It will not fail to become clear to the country that they had thought we could be destroyed merely by neglect—and that now they were changing their method of war. When we thought of all this and rejoiced, the sufferings of prison fled. It became almost a “pleasure resort” for us. “We are in prison. Outside, our movement grows. We are locked up—outside, many branch organisations are being opened.” That joy overflowed. The days passed in that happiness. On the morning of November 21, the little prison door opened. After five months
+
+<!-- Tamil source: scan 220 / printed 217 -->
+
+we opened our eyes wide and looked upon our beautiful sacred land, which we had last seen before entering. Thousands upon thousands of Dravidian comrades—their light-filled eyes—embraced and welcomed us. Officer-in-charge Govindasamy welcomed us on behalf of the central organisation. Tiruchi district secretary Anbil Dharmalingam, Thanjavur district secretary K. K. Neelamegam, Madras district secretary Kannabiran, Madurai district secretary Thondi, and activists from all the districts came and welcomed us. Kalaivanar Krishnan, light of the arts world, came forward to receive us. My loved ones—the soldiers who are the pride of dear Dravida—all greeted us, “Welcome! Welcome!” Saying, “I have come from a small prison into a large prison,” I embraced them.
+
+At ten in the morning on November 21, the six months' rigorous imprisonment imposed upon me came to an end. But when will the slave-chain in which my Anna Dravida has been locked be broken?
+
+★
+
+<!-- Tamil source: scan 221 / printed 218 -->
+
+## Victory! Victory!!
+
+The day after returning from prison, Sakthi, Thamalingam, Ramasubbiah, Parangusam and I went to inspect the Kallakkudi battlefield.
+
+“When I am released, Dalmiyapuram must appear as Kallakkudi,” I had requested before entering prison. “Come, I shall show you that sign of victory,” the comrades said and took me there. Yes. The paper bearing the name Kallakkudi that I had pasted on July 15 was still shining there. The name Dalmiyapuram was nowhere to be seen.
+
+The powerful Government sends soldiers to Korea and Kashmir. We are ordinary people—people who desire peaceful righteous struggle. Yet no one had come forward to remove the sacred name Kallakkudi that we had pasted. If every day they give space for our cry of principle to stand at the railway station—and give permission and protection for coal to be smeared over the mark of humiliation called Dalmiyapuram—must this not be called our victory?
+
+“The Government has not yet changed the name officially,” one comrade asked. To him, and to friends who had the same doubt, I can give only the following answer.
+
+<!-- Tamil source: scan 222 / printed 219 -->
+
+It is true that the name Kallakkudi has not been placed officially. It means only that the Government has not officially acknowledged our victory. Can that mean we have not won?
+
+Mao Tse-tung planted the flag of victory in Red China. Chiang Kai-shek fled to Formosa. Yet the United Nations has still not recognised the victory of People's China. Red China tried and tried to obtain a place in the U.N. and could not! But Chiang's Government, hiding in Formosa, still has a place in the U.N. Can anyone deny Red China's victory because the U.N. has not recognised it? Can Chiang's defeat itself be hidden? In the same way, if we put Kallakkudi in the place of Red China's victory and the name “Dalmiyapuram” in the place of Chiang's Government, we get a good explanation for our cry of victory.
+
+Some may also wonder whether victory in changing the name Dalmiyapuram means that Dravida Nadu has thereby been made the land of the Dravidians.
+
+The Russian Revolution triumphed in 1917. The “Bloody Sunday” uprising in Russia in 1905 did not bring the revolution to its conclusion. The uprising of 1905 was only a preface to the beginning of revolution. Only twelve years later could the worker's flag of liberation fly brilliantly in Russia!
+
+<!-- Tamil source: scan 223 / printed 220 -->
+
+Even if so many years are not needed here, we may have to pay a high price to obtain liberation.
+
+Dravida's national uprising has grown and risen in such a way that no one can now suppress it. Even in the camps of opponents—especially in nationalist circles—Dravidian feeling has begun to seethe and rise.
+
+All that remains is for the scattered Dravidians to come together. The confidence has blossomed that we shall surely recover the Dravida beloved of our thought. I end this by placing in your hearts the opening lines of the stirring song by my friend Karunanandam that I sang before accepting “six months' rigorous imprisonment” in the first righteous struggle begun to end alien domination.
+
+“Come, join us!—Come, join us!
+People of Chera, Chola and the southern Pandya land!
+Come join the war that will inscribe a heroic epic!”
+
+★
+
