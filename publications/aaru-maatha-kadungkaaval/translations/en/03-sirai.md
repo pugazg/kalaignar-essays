@@ -1234,3 +1234,111 @@ that seeks to cage us,”
 
 we sang the poet's song aloud. We sang with enthusiasm overflowing!
 
+<!-- Tamil source: scan 199 / printed 196 -->
+
+I have described how the collective life of more than four hundred people proceeded in prison. Can I refrain from telling you how my own life passed?
+
+Within a few days of my coming to prison, my dear comrades from Tiruvarur arrived. My brother-in-law also came. They took places in the rooms next to mine. Tiruvarur Nagappan was the proper companion for Ramasubbiah. We would look at the two of them and call, “Old men!” In truth, Ramasubbiah felt a little hurt by it. Tiruvarur Thennan—I need say nothing more about him. When I am in prison he cannot remain outside. Only one man accidentally happened to remain outside—C. D. Moorthy. Thennan's name too is Dakshinamurthy! The two Dakshinamurthys move like two eyes! What more is there to say about my Thennan! It was that Thennan who checked and supervised our food affairs. Sakthi and I would go to bathe. Venu would come running—to scoop and pour water. Let us simply say he was the one who bathed me! If it was known that we were going to rub oil on ourselves and bathe, that alone was enough—how Ramasubbiah came to know, I do not know! I could not bathe without his rubbing the oil in. Not merely could not—it was not allowed!
+
+<!-- Tamil source: scan 200 / printed 197 -->
+
+When his sacred hands rubbed in the oil, applied shikakai and bathed me, I felt the touch of my mother's golden hands. We would return to the room after bathing. Even a wife at home could not take out and hand over clothes so neatly; Comrade Kasthuri would present them with such beauty. We had entrusted the clothing department to him. At once Thennan would enter our room with breakfast.
+
+We would eat only for the reason that after eating we could smoke a cigarette. There was one man with us who had devised a grammar even for such food and stood at the philosophical summit: if it would not agree with us, we would agree with it. That was Tiruvarur Doctor Vijayaraghavan. Do you know how fond he was of the groundnut ball given in prison? One day, for a groundnut ball, he made a wager with another comrade and attempted a hundred *baskis*. Having lost the wager, he did not get the groundnut ball. His whole thigh swelled like groundnut balls. He spent two or three days in the hospital. After eating jail food, can one go off doing the work of a Jambavan?
+
+After breakfast, friends Mannai Narayanasamy, Adaikkalam, Vijayaraghavan, Aththaan, Vadivelu, Sakthi, Thennan, Muthupettai Dakshinamurthy, Gopalsamy, Venu, Vaitheeswarankoil Murugaiya, Tiruvaiyaru Mani, Ethiraj and Hussain
+
+<!-- Tamil source: scan 201 / printed 198 -->
+
+would gather in one place. We would talk about kings and queens of old and about the nobles who served as “jokers” to them. Are not the amusements of such men especially plentiful in English history? We would debate about Indian troops going to Korea. We would joke with Narayanasamy and Vijayaraghavan, saying, “Look, even in the age of the republic there is monarchy,” tying turbans on them with towels over their heads. See how prison makes one feel like playing in all sorts of ways.
+
+Comrade Murugaiya of Vaitheeswarankoil—calm in appearance, full of enthusiasm within, an ornament to friendship—even on the morning of the last day when he was leaving prison, we made the king-and-queen joke, tied a turban on him, and only then sent him out.
+
+Thus, while such jokes and games helped drive away the cruelties of prison, the time came very quickly for all those dear comrades to part from us. Achariyar's rule giving me six months' imprisonment was not even the greater punishment! It repeatedly placed loving comrades with me, then inflicted on me the pain of their leaving—that was the greater punishment.
+
+Before Comrade N. V. Natarasan was caught in the cruel snare of repression, he had written me a letter—
+
+<!-- Tamil source: scan 202 / printed 199 -->
+
+“You will worry about what is happening outside! We are growing—we are growing—be happy!” Anna too, when he came to see me in prison, said: “Do not torment your mind thinking about the outside world!”
+
+But is that possible? When we parted from it, Tamilagam had become a forest of blood! We lay there longing, “What has happened?”
+
+The struggle at Kallakkudi continued under the leadership of Chinthanai Sirpi Chitrarasu and under the supervision of the Tiruchi lions. Anna and the others had been sent into prison. Across the country one heard the cry: “Release the leaders!” Black flags were shown wherever Achariyar and the Governor went. In this situation Nehru too was coming from the North.
+
+On October 1 the Andhra Government was formed. Pandit Nehru had been invited to inaugurate it. A forty-year agitation in Andhra for a linguistic province reached an end. Prakasam, who changed parties for office, was taken into Congress. He became Andhra's first Chief Minister. On the inauguration day of the Andhra Government, amid joyful celebration, leaders spoke.
+
+<!-- Tamil source: scan 203 / printed 200 -->
+
+Pandit Nehru spoke. Madras Minister Achariyar spoke. Andhra Chief Minister Prakasam spoke. Standing where? Standing upon the mound of Potti Sriramulu's bones! Yet it does not appear that anyone spoke even a word about that man of sacrifice. There, Nehru mocked fasting. We too say fasting is wrong. But for that reason, can a warrior who sacrificed for the country be forgotten so easily?
+
+If Gandhi's fast had ended in the same way, would Nehru have mocked it? Are fasting, picketing, righteous struggle and the like the exclusive property of the Congress Party? Must no one else even touch them?
+
+Somehow, everyone forgot one martyr and congratulated the new Government. Meanwhile a few people here delivered their verdict: “Andhra has separated—now the slogan of Dravida Nadu is dead.”
+
+Because Andhra separated, it was only the bravado “We will not give up Vengadam” that fell; the Dravida Nadu question did not die. The Andhra Government removed itself from Madras. It did not remove itself from the grip of the Central Government. Tomorrow Kerala may become a separate province—Kannada too may attain that status. Then Tamilagam itself will be a separate province! All of them can attain separate provincial status,
+
+<!-- Tamil source: scan 204 / printed 201 -->
+
+but how can they thereby become independent governments freed from northern domination? Our goal is to cut ourselves away from northern connection and have these four linguistic provinces form a federation. Its name is the Dravidian Federation! If one Government does not accept this decision, can the other three not join and form a Dravidian Federation?
+
+The boundary may shrink a little, but how can the word “Dravida” and that polity itself collapse!
+
+Even if a jackfruit is cut in half, it remains jackfruit. It does not become bitter gourd!
+
+Those who do not understand political grammar will keep babbling something or other. The cry that Dravida Nadu has died is an example.
+
+These at least are ordinary people; they babble whatever comes to the mouth. But if we ask whether their leader at least possesses political dignity—alas! Not that either. After inaugurating Andhra State, Pandit Nehru toured Madras, Coimbatore, Madurai, Mamallapuram, Bhavani and other places. Tamilagam's leaders were in prison! Jayaprakash was subjected to repression! Corpses had fallen! Conspiracy cases had risen! In this situation the people of Dravida, boiling with anger, showed Nehru
+
+<!-- Tamil source: scan 205 / printed 202 -->
+
+black flags everywhere to express their opposition. He saw opposition such as he had never before seen in his public life. Showing a black flag is a political method! Nehru did not lack knowledge of it. Twice he insulted the Dravidians as “nonsense.” The first time we forgave him—because he was a great man! He said it again—we changed the mistaken opinion we had held of him! We expressed condemnation!
+
+“Those who condemned me are barbarians. Not even barbarians; barbarians are far better! These men are lower than they are,” he thundered a third time. “None is equal to me—I am everything,” said Louis XVIII! Then France boiled! “If revolution comes, let it come after me,” said Louis XV! France seethed!
+
+“We shall see who wins,” said Louis XI, guardian of the Bastille! France's volcano exploded!
+
+Which Louis among these is speaking through Nehru's form, we do not know! Only Nehru, who wrote *World History*, would know!
+
+“When fear hides the eyes, one cannot tell who is guilty and who is innocent,” Nehru himself has said. When men like Nehru see black cloth, confusion—a kind of fear—naturally arises!
+
+<!-- Tamil source: scan 206 / printed 203 -->
+
+Thus he himself became an example of his own golden saying.
+
+The commander of the “August '42” struggle calls our righteous struggle barbarism.
+
+What can the poor man do?
+
+At times some people mistakenly speak to us the words they ought to stand before a mirror and speak to themselves.
+
+In the agitation that showed black flags to Nehru in Madurai, great warriors Muthu, Ayyasamy, Rajaman and many comrades were arrested. More than thirty were arrested in Madras too. In Madurai and Coimbatore, Ilango and Kannadasan stood in front and made the black-flag events successful. In Madras, Kannabiran, Masilamani, Parthasarathi and many others were subjected to lathi blows. In Chengalpattu, under Annamalai's leadership, the black-flag event succeeded.
+
+Every day, the news that our comrades were going to prison and that the fire of agitation was blazing throughout the land kept reaching us as tidings sweeter than honey.
+
+Since everyone had gone, I handed the fewer than fifty comrades who remained over to Ramasubbiah and took a little rest.
+
+<!-- Tamil source: scan 207 / printed 204 -->
+
+There was no Speaking Assembly. The game of crowning the king had stopped. Reading something, writing something, and in the remaining time, under the neem tree! There, Sakthi and I! How many delightful stories that neem tree heard. If the sound of speech alone had power, that neem tree would have become a sweet tree—such sweet stories!
+
+One day a small ball came flying over the long, high wall and fell inside. It had escaped from the hands of boys playing outside and fallen into ours.
+
+At once we made a plan. We tore an old dhoti and tied it like a net. We turned our hands into bats and began playing every day. We even made wagers on that game. Comrade Venu lost all the groundnut balls he received in wagers—lost his dhal—one day lost even his rice—and stood like Dharmaraja. Comrade Ramasubbiah was on my side in the ball game. He would cleverly strike every ball that came. But one defect—the ball would never cross the net and go to the other side! That was all! Kasthuri played on Sakthi's side. It was a wonderful sight when the ball would go of its own accord and strike his hand and come back to us. He played with such hardship.
+
+<!-- Tamil source: scan 208 / printed 205 -->
+
+Even that game suffered an interruption. After eating jail food, should strongmen like us be doing such work? Everyone developed body pain—could not sit, could not stand. I even took an injection. Then the desire to play arose again. But the game soon came to an end.
+
+The reason: release had come toward the Kallakkudi battalion. Two or three days before release, Ramasubbiah had already begun to shed tears. The day of release came. On the morning of October 15 they too parted from us. They made a garland from flowers caught inside the prison. They gave their farewell words. Kovai Kathari wept. Even now, remembering how they cried aloud like a child makes me tremble.
+
+“From now on, who will run to comfort me like Ramasubbiah?”
+
+“Who can fly and work like Venu!”
+
+“Who here will come often with eagerness to hear party news, like Malaikottai Rathinam?”
+
+“Ethiraj, who laughs at whatever is asked!”
+
+Thus I thought of each one. The Kallakkudi battalion that had marched behind me
+
