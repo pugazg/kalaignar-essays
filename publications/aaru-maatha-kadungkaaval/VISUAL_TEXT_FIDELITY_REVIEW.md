@@ -17,9 +17,9 @@ Rules:
 ## Progress
 
 - physical scans — **224**
-- P5 checked — **135/224**
-- completed range — **1–135**
-- next range — **136–150**
+- P5 checked — **150/224**
+- completed range — **1–150**
+- next range — **151–165**
 - current needs-review — **0**
 - current blocked — **0**
 - guessed readings — **0**
@@ -392,10 +392,51 @@ Batch P5-09 totals:
 - cumulative P5 canonical corrections — **2**
 - P5 cumulative progress — **135/224**
 
+## Batch P5-10 — scans 136–150
+
+Result: **15/15 PASS / no canonical correction**.
+
+| Scan | P5 result | Key reconfirmation |
+|---:|---|---|
+| 136 | PASS | full office-holder list and historical-`றா` source form **`மூன்றாம் பிளாக் தலைவர்`** directly reconfirmed; grouped deputy names and `‘ஜல ஸ்தாபன’ மந்திரி` retained |
+| 137 | PASS | historical-`றா` **`மூன்றாம் பிளாக் தலைவராக`**, `தொண்டனை இருந்தே`, `உள்ளங்கை—நெல்லிக்கை`, `பழங் காலத்`; terminal **`செயலாற்றும் சிங்கம் அடைக்கலத்தின்`** reconfirmed |
+| 138 | PASS | scan-137 continuation into **`ஆர்வமிக்க உழைப்பையும்`**; historical-`றா` **`மூன்றாம் பிளாக் தலைவர் :—`**, `பயந்த சுபாவமும்`, `எழுச்சிக்காளை`, `என்றும்தான்` reconfirmed |
+| 139 | PASS | `தோழமைக்கோர் பிசிரானது`, `நல்ல தொரு`, `அடக்கொணா`, `வைரக் கட்டை`, `போட்டோஸ்டுடியோ`, `சோர்விலாளன்`; terminal **`எங்கள்`** reconfirmed |
+| 140 | PASS | scan-139 **`எங்கள்` + `ராஜ்யத்தில்மட்டும்`** continuation; `தனித் தனித்`, `இன்றையதினம்`, `அண்டாக்கள்`, `‘க்யூ’`, `செளகரியமாகவும்`; terminal **`எல்லோரும் குளிக்கக்`** reconfirmed |
+| 141 | PASS | scan-140 continuation; prior P2R repair **`நமது ஊர்த் தெருக்களிலே கிளம்பினால்`** directly reconfirmed; `குளியலுக்கு மிடையிலே`, `கால்முதல்`, `இரு கலர்`, `விலே கூறுகிறாராக்கும்`, `ஒலிவேறு` retained |
+| 142 | PASS | `முக்யமான`, `தாரைப்பூசி`, `நான்கூட`, irregular quotation / dash sequence around `கோதாவரி`, `அரியவேலையை`, and complete ending reconfirmed |
+| 143 | PASS | food-distribution block, `தாப்படும்`, `அளவுக் களியும்`, `சிரஞ்சீவிப் பொருள்கள்`, `துவரை`, `களைப்பாறுபடலம்`, `உள் நாட்டு`; terminal **`புத்தகமளித்து`** reconfirmed |
+| 144 | PASS | scan-143 continuation; prior spacing repair **`சிறைச் சாலையில் நடந்துகொள்ள`**, `வாசக சாலையில்`, `நண்பர்களோ-உறவினர்களோ-வருவர்`, `கண்டு பிடித்து`, `தலைவரின் - தலைமையிலே`; terminal **`அரிசிச்சோறு`** reconfirmed |
+| 145 | PASS | scan-144 continuation; headings **`கணக்கு வருது!`** / **`கெடிகாரம் போவது!`**, `ஆண் குயில்கள்`, `மகுடித் தொணிகேட்டு`, `பாம்புகளுக்குவேறு`, `தேள்களேயாவது`; terminal **`தன்னிட`** reconfirmed |
+| 146 | PASS | scan-145 **`தன்னிட` + `முள்ள கெடிகாரத்திற்கு`** continuation; quoted `கடிகாரம்` vs later `கெடிகாரம்` distinction; full proper-name / initials sequence and unusual compounds reconfirmed |
+| 147 | PASS | `நடைபெற்றுவந்தது`, `நடைபெறுவதுங்கூட`, historical-`ளை` identity in **`தலைவர்களை`**, `முழுவிபரங்கள்`, `தி. மு. க. வின்`, `இவ்விது`; statistical paragraph and closing sentence reconfirmed |
+| 148 | PASS | `குறிக்கோளாகவைக்கக்கூடாது`, quoted **`“சரி இனி மக்கள் மன்றம் தீர்ப்பு வழங்கட்டும்”`**, `கூறச்சொல்லலாம்`, `எண்ணமுங்கூட`, `ஐவர் வழக்கினில்`, source-visible **`அம்படிப்பட்ட`** reconfirmed |
+| 149 | PASS | `நாளிலேதான்`, **`சரி- ஒத்துக்கொள்வோம்!`**, `‘நான்சென்ஸ்’`, `திட்டத்தைக்கொண்டு`, rhetorical `தூண்டிவிட்டது யார்?` sequence; terminal **`புறப்படு`** reconfirmed |
+| 150 | PASS | scan-149 **`புறப்படு` + `கிறார்கள்.`** continuation; `காட்டிக்கிறார்கள்`, `கரைத்துவிட்டார்கள்-`, `ஏகாதிபத்யம்`, `பேச்சு-புதுக் கல்வித்திட்டம்`, `செளகர்யம்`, `ஸ்தானத்திலேயிருக்கும்`; dark blot retained as non-text physical mark |
+
+Historical-family verification explicitly rechecked **`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`** directly from source pixels. Representative source checks include `மூன்றாம்`, `எழுச்சிக்காளை`, `முல்லை`, `இளமை`, `இளைஞர்`, `குவளைகள்`, `என்றால்`, `உண்ணா விரதம்`, `களைப்பாறுபடலம்`, `தலைவரின்`, `அண்ணாமலை`, `வடாற்காடு`, `தலைவர்களை`, `தண்டனை`, `கிளர்ச்சிகளைத்`, `ஆலை`, `மூட்டைகளையெல்லாம்`, and `அணைக்கிறார்கள்`. No new historical-family identity changed during P5.
+
+All scans **136–150** remain within the **`சிறை`** body and all page-record filenames remain `*-sirai.md`.
+
+The P3 `articles/03-sirai.md` assembly was checked for representative prior P2R repairs / source forms in this range, including `மூன்றாம் பிளாக் தலைவர்`, `தெருக்களிலே கிளம்பினால்`, `சிறைச் சாலையில் நடந்துகொள்ள`, the 145→146 physical split `தன்னிட` / `முள்ள கெடிகாரத்திற்கு`, `தலைவர்களை தண்டிக்கவேண்டும்`, `குறிக்கோளாகவைக்கக்கூடாது`, `சரி- ஒத்துக்கொள்வோம்!`, `காட்டிக்கிறார்கள்`, and `செளகர்யம்`. No propagation repair was required.
+
+Batch P5-10 totals:
+
+- scans checked — **15**
+- canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- cumulative P5 canonical corrections — **2**
+- P5 cumulative progress — **150/224**
+
 ## Exact next activity
 
-**P5 Batch P5-10 — physical scans 136–150.**
+**P5 Batch P5-11 — physical scans 151–165.**
 
-Scans **136–150** remain within the **`சிறை`** body. Preserve every page as `*-sirai.md`.
+Use the user-supplied derivative slice **`TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`**. Its stable mapping is **extract page N = physical scan N+149**; therefore physical scans **151–165 = extract pages 2–16**. Extract page 1 duplicates physical scan 150 and must not be reprocessed.
 
-Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after scan 150.
+Scans **151–165** remain within the **`சிறை`** body. Preserve every page as `*-sirai.md`.
+
+Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after physical scan 165 / extract page 16.
