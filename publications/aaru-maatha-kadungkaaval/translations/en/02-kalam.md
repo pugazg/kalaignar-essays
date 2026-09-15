@@ -406,7 +406,7 @@ A man runs to the mother and tells her—Kesavan is dead. Which Kesavan? That Ke
 
 The mother cried—thrashed in grief—fell screaming, “Ayyo, my son!” Must all this even be told?
 
-“I had already found a girl to marry my son, ayya—before that, the wretched boy has gone away like this, ayya!” A mother—the mother who bore him—her lower belly burning, her heart heaving, her head spinning, tears flowing, beating her belly and mouth and singing a lament—who could bear to hear it, except the unjust men who conduct government after taking out their hearts and setting them aside?
+“I had already found a girl to marry my son, ayya—before that, this *pokkali* has gone away like this, ayya!” A mother—the mother who bore him—her lower belly burning, her heart heaving, her head spinning, tears flowing, beating her belly and mouth and singing a lament—who could bear to hear it, except the unjust men who conduct government after taking out their hearts and setting them aside?
 
 He lay thinking of the future. A bullet tore through the railway carriage and struck his skull.
 
@@ -452,9 +452,9 @@ The line of corpses was not over. Would two corpses satisfy the ravenous Gundoda
 
 Drink! Drink! Drink blood! Drink until the belly fills and overflows! Chew bones until the stomach bulges! Swallow the nerves! What if they are old—what if they are young—proper meat for the feast! Is human flesh ordinary meat? And a corpse that suddenly falls on the battlefield does not lose its taste! Eat! Eat! To digest it, drink blood! Drink!
 
-Thus repression roared like a tiger—danced in frenzy—opened its wide mouth—and, crying “Drink! Drink! Drink blood!” cavorted at Kallakkudi and Thoothukudi! Two *kudis*! The Dravidian *kudi* of this land! And in both *kudis*, for iron-hearted repression, the proper drink was blood!
+Thus repression roared like a tiger—danced in frenzy—opened its wide mouth—and, crying “Drink! Drink! Drink blood!” cavorted at Kallakkudi and Thoothukudi! Two *kudis*! The Dravidian *kudi* of this land! And in both *kudis*, for iron-hearted repression, the proper *uthira-kudi*—blood-drink!
 
-As an echo of the Dalmiyapuram battle—and to condemn the northern leader who insulted us and hurled burning words—Tamilagam declared: stop the trains! On July 15!
+As an echo of the Dalmiyapuram battle—and to condemn the northern *moolavar* who insulted us and hurled burning words—Tamilagam declared: stop the trains! On July 15!
 
 At Thoothukudi too the train was stopped. Two elderly men—two young men—were made prey to the rough tongue and sharp, savage teeth of the tiger of repression. The blood-hungry tiger of repression tore open the body of the young man Uchimakali and wore a garland of intestines! The young man Ganapathi—it chewed and chewed him,
 
