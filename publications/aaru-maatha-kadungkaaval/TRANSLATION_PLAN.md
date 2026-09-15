@@ -30,7 +30,7 @@ The three strict-reviewed Tamil assemblies below are the sole translation author
 |---:|---|---:|---|---|---|
 | 1 | `முரசு` | 10–65 | `articles/01-murasu.md` | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **The Drum — T0–T5 PASS / VERIFIED** |
 | 2 | `களம்` | 66–106 | `articles/02-kalam.md` | `711b86300a3340ee73271a1cf613408905314498` | **The Battlefield — T0–T5 PASS / VERIFIED** |
-| 3 | `சிறை` | 108–223 | `articles/03-sirai.md` | `0d860d48bcd666148c0a312ad296953f015225c2` | **title to be established at T1/T4 — not started** |
+| 3 | `சிறை` | 108–223 | `articles/03-sirai.md` | `0d860d48bcd666148c0a312ad296953f015225c2` | **Prison — T0 PASS / T1 COMPLETE; title provisional until T4** |
 
 Translation order is fixed to the source structure: **1 → 2 → 3**.
 
@@ -157,8 +157,27 @@ After all 3/3 articles are T5 verified:
 - current verified English blob — **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**
 - blockers — **0**
 
+## Article 3 progress — `சிறை`
+
+- T0 source prerequisite — **PASS**
+- frozen Tamil blob re-fetched and exact — **`0d860d48bcd666148c0a312ad296953f015225c2`**
+- structural scans — **108–223**
+- T1 close draft — **COMPLETE**
+- English file — `translations/en/03-sirai.md`
+- T1 English blob — **`31b3c8476ba4bd13264d0609a5553cdd1f7117b7`**
+- working English title — **Prison**
+- translation status — **draft**
+- ordered source-page comments — **116/116 preserved**, scans **108–223**
+- scan 109 blank/reverse — **no invented prose**
+- untranslated Tamil body leakage — **0** except Tamil title in metadata / source comment
+- Tamil source changes during T0/T1 — **0**
+- blockers — **0**
+- T2/T3/T4/T5 — **NOT STARTED**
+
+T1 explicitly preserves the already-frozen source-sensitive Article-3 readings including scan 110 `அந்தி`, scan 121 `தலைவன்`, scan 159 `சூப்பிரின்டெண்ட்`, scan 198 `அடைந்தார்`, scan 201 `‘ஜோக்கர்’`, and scan 209 `இன்ப நினைவுடன்`.
+
 ## Exact next activity
 
-**Article 3 — `சிறை` — T0 source pin + T1 close draft.**
+**Article 3 — `சிறை` — T2 bilingual fidelity review.**
 
-Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2`, create `translations/en/03-sirai.md`, establish the working English title, preserve source-page comments, and translate the complete article without altering frozen Tamil.
+Re-fetch frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and T1 English draft blob `31b3c8476ba4bd13264d0609a5553cdd1f7117b7`. Compare the complete scans **108–223** article paragraph by paragraph and clause by clause for omissions, additions, names, dates, numbers, quotations, songs, headings, prison terminology, negatives, logical connectors, repetitions, page-boundary continuations and all **116** source-page comments. Record every T2 correction. Do not begin T3 unless explicitly directed.
