@@ -10,7 +10,7 @@ Controlling source: `TVA_BOK_0063985_துடிக்கும்_இளமை
 - reason — the publisher's note identifies the book as a collection of Kalaignar Karunanidhi's **`எழுச்சியூட்டும் எழுத்தோவியங்கள்`**;
 - P0 source intake — **COMPLETE / PASS**;
 - P1 source structure / article inventory — **COMPLETE / PASS**;
-- P2 page-level transcription — **IN PROGRESS — 29/33 verified; all 25/25 article-body scans complete**;
+- P2 page-level transcription — **COMPLETE / PASS — 33/33 verified**;
 - P3 article assemblies — **NOT STARTED**;
 - P4 source audit — **NOT STARTED**;
 - P5 strict visual-text-fidelity pass — **NOT STARTED**;
@@ -61,9 +61,9 @@ No OCR, web copy, alternate edition or contextual completion is to control the T
 - Article 2 `அண்ணாமலைக்கு அரோகரா!` scans **13–19** — **7/7 VERIFIED**;
 - Article 3 `பூம்புகார்` scans **20–24** — **5/5 VERIFIED**;
 - Article 4 `வெற்றி விளக்கு!` scans **25–29** — **5/5 VERIFIED**;
-- article-body P2 — **25/25 COMPLETE / PASS**;
-- cumulative publication P2 — **29/33 verified; 0 needs-review; 0 blocked; 0 guessed**;
-- remaining — **scans 30–33 advertisements / promotional matter**.
+- advertisements / promotional matter scans **30–33** — **4/4 VERIFIED**;
+- publication P2 — **33/33 COMPLETE / PASS**;
+- needs-review / blocked / guessed — **0 / 0 / 0**.
 
 The supplied transcription is retained only as a comparison baseline; scan pixels remain controlling. The user-confirmed price is **`ஆறணா`**; the earlier `ஆறணை` reading was a historical-`ணா` misread and has been corrected.
 
@@ -71,6 +71,8 @@ Progress authority: [`P2_PROGRESS.md`](P2_PROGRESS.md).
 
 ## Exact next activity
 
-**P2 final batch — scans 30–33**, preserving advertisement / promotional matter as four canonical physical-scan records.
+**P3 article assembly — all four articles in one go.**
+
+Assemble `articles/01-thudikkum-ilamai.md`, `02-annamalaikku-arogara.md`, `03-poompuhar.md`, and `04-vetri-vilakku.md` from the verified P2 page records.
 
 Do not begin English translation until Tamil reaches P5 / frozen.
