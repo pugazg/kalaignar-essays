@@ -121,3 +121,174 @@ In the afternoon they opened the cage for food. We could tell well in advance wh
 
 There were four or five elderly mothers in the jail. They had been arrested in liquor cases. We saw a young man of about twenty-five. He was accused of killing his lover's husband because of an illicit affair. A sturdy young man. His lover too was confined there, in another cage. The case was that the affection he bore her and the love she bore him had carried them into the crime of killing the husband.
 
+<!-- Tamil source: scan 119 / printed 116 -->
+
+The young man said that he and she were lovers by desire! He was about twenty-five. His beloved—she would still be under sixty! Sacred love! Well-matched love! Those young lovers—no, old lovers—that too is not right—those ripened-shoot lovers!—stood as the proper answer to the question: “If love has no eyes, why should age alone matter?”
+
+A few more men who had turned illicit-liquor work into a cottage industry were also prisoners there. While we were talking with them, the afternoon meal arrived. Excellent cholam gruel! Delicious food (?) made from sorghum flour. On top of it they had also poured away a little arrangement called curry. The sorghum gruel stood in the pot like Lord Linga after an oil abhishekam! “Is there no rice at all?” we asked. They said the yellow rice would come only in the evening. There was buttermilk now, they said. “Give it, give it,” we said, stretching out the tumbler. Our afternoon meal ended with buttermilk. Who could touch the sorghum gruel? Even if touched, it stood in a state that would not move!
+
+They locked us up again. At three in the afternoon, out of overflowing affection, they gave us a little groundnut and told everyone to eat. Then the Magistrate
+
+<!-- Tamil source: scan 120 / printed 117 -->
+
+came. “Your trial is today itself,” he said and went away.
+
+A little later they called us. We went.
+
+The court! There we were—the first five were tried first.
+
+Then Ramasubbiah and thirty comrades were tried.
+
+It was supposedly a crime to conduct an agitation on behalf of tax-paying citizens demanding that the name Dalmiyapuram be changed!
+
+To desire the Tamil name Kallakkudi was supposedly an improper act!
+
+Some law—some section—apparently said so!
+
+Even if it did not say so plainly, the seat of power concealed the truth and conducted the case with the aid of law. The law had no tongue with which to ask, “Why should you not fulfil the people's demand?” Even the tongue it once had had been cut off here!
+
+But the law had the skill, through gestures—through the language of the mute—to ask a question meaning: “How dare you send such a demand?”
+
+<!-- Tamil source: scan 121 / printed 118 -->
+
+That is why it stained the righteous struggle in which we had taken part.
+
+“You have committed an offence, have you not?”
+
+“Not an offence—this is a peaceful method used to fulfil an objective!”
+
+“Your act is regarded as an offence.”
+
+“Perhaps by law—not by justice.”
+
+The court prepared to pronounce judgment. Outside, hundreds of people stood waiting for the verdict—even in the rain!
+
+Ramasubbiah and thirty comrades were to undergo two months' rigorous imprisonment. A fine of thirty-five rupees—if they failed to pay, one month in prison! Total sentence: three months.
+
+The law had dumped them away!
+
+Then the law turned toward us—five months' rigorous imprisonment—a fine of thirty-five rupees—if unpaid, one month in prison—altogether, six months' punishment.
+
+One offence—two kinds of sentence!
+
+As leader of the struggle, I and the four who joined me received six months!
+
+<!-- Tamil source: scan 122 / printed 119 -->
+
+The others, as the next line of the force, received three months!
+
+Even that was wrong—six among them had been arrested in the first line itself.
+
+Somehow, the law bent and twisted—delighted in awarding prizes of six months and three months!
+
+At about 6:30 in the evening on the 17th we received our sentences. We received a prize for fighting for Tamil honour!
+
+“What, sir? Three months for them—and six months for us?” Sakthi asked with a laugh.
+
+“Yes, only six months for us,” I said.
+
+“Why is that?” asked Venugopal.
+
+“The Ariyalur court has no power to give more than that!” I said.
+
+Hearing the verdict, the people of Ariyalur stood in large numbers before the Magistrate's court. Perhaps with a plan to send us only after the crowd dispersed, they made us sit right at the court entrance in deep darkness.
+
+<!-- Tamil source: scan 123 / printed 120 -->
+
+Aha! I forgot an important matter! Only after feeding us yellow rice in the evening did they pronounce the sentence.
+
+What is six months—let them give even six years! All of us were delighted that we were going to be sent from the hell of Ariyalur—forgive me, from the town—to another prison. The faces of all those who had received three-month sentences shrivelled! Withered—dried up. The reason? We had received six months, it seems. That jealousy—what else!
+
+As though shedding tears at the prize the court had given for the crime that rang out, “Long live our land!”, the sky poured rain.
+
+Thunder—lightning—heavy rain!
+
+At about eight at night, a police van set off carrying twenty-five of us. Because there was no vehicle for the remaining eleven comrades, they alone were kept there, as though told: “Take this curse! Stay another five or six days in Ariyalur jail.”
+
+The van we were in tore through the darkness—the flashes of lightning—the rain—and headed toward Tiruchi.
+
+We could measure how much rain was falling outside. You ask how—
+
+<!-- Tamil source: scan 124 / printed 121 -->
+
+all the rain that fell was falling on our heads!
+
+You know the road between Ariyalur and Tiruchi—ah! It was a *thaar* road!
+
+[By *thaar*, understand the goad with which cartmen prod cattle. If you wish, understand it as a bunch of bananas too.]
+
+Thunder above in the sky! At the speed at which the car went, here one man thundered into another!
+
+One comrade sang—and without his knowing it, “peerkkaakkal” rolled. Such an unmoving, peaceful car journey!
+
+Whatever the hardships, every comrade felt the consolation that we had washed our heads of that Ariyalur prison—and its latrine—and come away.
+
+The sky kept growling. On our bodies, into which cold had settled, raindrops kept pouring like rosewater.
+
+The rain spoke of Dravida's fertility!
+
+The thunder stood as a sign of the Dravidian's anguish!
+
+The lightning declared: a regime that inflicts suffering will appear and vanish just like this!
+
+<!-- Tamil source: scan 125 / printed 122 -->
+
+At one in the night we reached Tiruchi. The rain showed no sign of stopping. Rainwater ran through every street of Tiruchi. A green light burned at the top of Rockfort. Complete stillness covered the whole city. At midnight—when the city had gone quiet—the sight of us being taken along as prisoners cannot really be painted. Clothes hanging long and wet—a shivering body—a heart cleared like a mill: with these we completed the last part of our journey. Not the last part of the journey in the struggle for Dravida Nadu—the first part!
+
+With the exhilaration that we too had walked in that first part, we passed through Tiruchi's streets. On the road we passed the house of Dravida Pannai Muthu. There had never been a time when we passed it without getting down and enquiring after him. Could we stop the van now? We thought of it—the awareness “You are prisoners” sealed our mouths!
+
+Bearing the weight of the wet, there—our flags of principle were still flying. Along the path they showed, we too were continuing our journey.
+
+The green light of Rockfort disappeared.
+
+We reached the place we had to reach. At the entrance of Tiruchi Central Prison, with its high, strong walls and fortress-like
+
+<!-- Tamil source: scan 126 / printed 123 -->
+
+frontage, the police van stopped. We got down.
+
+Because it had become an untimely hour, the prison authorities said they could swallow us only the next morning.
+
+“All right—lie down here,” they said, pointing to a hall outside the prison. Only those trained in yogic postures and magic could lie there. Rainwater stood ankle-deep. We had no training in sleeping on water. So we stood hesitating. We stood until our legs ached.
+
+Then compassion was born. “All right, lie here,” they said, pointing to the verandah outside the interview area. We went and sat there. The rain-spray did not stop.
+
+The cold too poured down like crores upon crores of scorpions. Lightning that made it impossible to keep the eyes open! I had suffered from pleurisy—cold did not suit it. I feared that the illness that had disappeared might return because of this cold; such cold! Sakthi embraced me; in that warmth I dozed a little. Rubbing their hands to create heat, or clasping their hands between their knees and curling up, all the comrades struggled to drive that terrible night away.
+
+<!-- Tamil source: scan 127 / printed 124 -->
+
+The hour when Aryan leader Achariyar slept in weariness!
+
+The hour when his leader Nehru lay in *Ananthasayanam*!
+
+At that time we—the country's liberation soldiers—were trapped in the strong grip of cold, curled up on earth mixed with mud in the rain-spray.
+
+## The ray came—the door opened:
+
+The sun came, singing a song of greeting, “Come! Come!” July 18 was born. The little door in front of the prison opened. After a whole night of suffering in the cold, a desire arose in us—would someone not give us, in a little cup, half a cup of tea? Longing throbbed. Since the morning of the 15th—when, even then in haste, we had eaten a good meal—three days with empty stomachs! Hunger was killing us—the tongue had dried.
+
+“Hmm! Go inside!” came the order. One by one people were going in. Four or five of us remained outside. At that moment we found a treasure. “Sir ... sir .......... please wait a little,” a comrade came running toward us. We looked. A cup of tea! Yes—a green meadow in a desert! Each of us drank a little, hot-hot. Only afterward did we realise that our tongues had been scalded. We did not know how to bless the comrade who gave us that tea!
+
+<!-- Tamil source: scan 128 / printed 125 -->
+
+The little entrance called us. Since we would see the outside world only after six months, we looked once to our heart's content. Then we stepped inside. As soon as we were pushed in, those little lips of the prison closed.
+
+“The grove where the mango-cuckoo sings—the prison
+that seeks to cage us.”
+
+Those ideal-filled lines of Bharathidasan played a new delight in the heart.
+
+Comrade Vaanan said they were shocked when they heard it was six months. It was when he and friend Sezhiyan came to see us that they said so.
+
+How many shocking tidings has the Dravidian movement met!
+
+Velayutham was murdered in broad daylight.
+
+Thalamuthu and Natarasan were turned into corpses in prison.
+
+At Nellikuppam, young Majeed was stabbed to death.
+
+North Madras Pandian's life was drunk away.
+
+All these were festivals of murder conducted in the name of Gandhism.
+
