@@ -7,7 +7,7 @@ source_tamil: "../../articles/02-kalam.md"
 source_tamil_blob_sha: "60c155dc93a4543e267ccbca5573d6f5b70e5672"
 source_scan_pages: "66-106"
 language: "en"
-translation_status: "draft"
+translation_status: "verified"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
