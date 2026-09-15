@@ -14,14 +14,16 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - E0 — **COMPLETE / PASS**
 - T0 — **3/3 PASS**
 - T1 — **3/3 COMPLETE**
-- T2 — **2/3 PASS**
-- T3 — **2/3 PASS**
-- T4 — **2/3 PASS**
-- T5 — **2/3 VERIFIED**
+- T2 — **3/3 PASS**
+- T3 — **3/3 PASS**
+- T4 — **3/3 PASS**
+- T5 — **3/3 VERIFIED**
 - English article files — **3/3**
-- verified English articles — **2/3**
-- E6 publication-wide consistency review — **NOT STARTED**
-- E7 release closeout — **NOT STARTED**
+- verified English articles — **3/3**
+- E6 publication-wide consistency review — **PASS**
+- E7 release closeout — **PASS**
+- source-page comments — **213/213 PASS**
+- publication English status — **ENGLISH-TRANSLATION COMPLETE / RELEASE CLOSED**
 - blockers — **0**
 
 ## Article tracker
@@ -30,7 +32,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 |---:|---|---|---|---|---|---|---|---|---|
 | 1 | `முரசு` | **The Drum** | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **VERIFIED** |
 | 2 | `களம்` | **The Battlefield** | `711b86300a3340ee73271a1cf613408905314498` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **VERIFIED** |
-| 3 | `சிறை` | **Prison** *(working; T4 not yet passed)* | `0d860d48bcd666148c0a312ad296953f015225c2` | **PASS** | **COMPLETE / draft** | not-started | not-started | not-started | not-started |
+| 3 | `சிறை` | **Prison** | `0d860d48bcd666148c0a312ad296953f015225c2` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **VERIFIED** |
 
 ## Article 1 T1 checkpoint
 
@@ -110,23 +112,40 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - Tamil source changes — **0**
 - blockers — **0**
 
-All three articles are now individually **T5 VERIFIED**. This does not yet constitute publication-level English release.
+## Publication-level E6/E7 release closure
+
+All three articles are individually **T5 VERIFIED** and the required publication-level review is complete.
+
+Verified authorities:
+
+- `01-murasu.md` — **The Drum** — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`
+- `02-kalam.md` — **The Battlefield** — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`
+- `03-sirai.md` — **Prison** — `103a2492d110006cea520e03efd40fb3c1a5bdbc`
+
+### E6 — PASS
+
+- recurring names / epithets — **PASS**
+- `Dravida / Dravidian` ideological vocabulary — **PASS / contextual distinctions retained**
+- repeated slogans and Kallakkudi / Dalmiyapuram terminology — **PASS**
+- shared source-bearing ***Nam Nadu***, ***Ashadabhuthis*** and ***moolavar*** — **PASS**
+- quotation / song / work-title treatment — **PASS**
+- title style — **PASS**
+- tone consistency / no accidental smoothing — **PASS**
+- ordered source-page comments — **213/213 PASS**
+- Tamil body leakage — **0**
+- article body corrections at E6 — **0**
+
+### E7 — PASS
+
+No verified article body changed during release closeout.
+
+**Publication English status: ENGLISH-TRANSLATION COMPLETE / RELEASE CLOSED.**
 
 ## Permanent source boundary
 
-Use only the frozen Tamil article assemblies as normal translation authorities. Page records / controlling scans may be reopened only for punctuation, quotation, page-boundary or provenance questions.
-
-Do not use OCR, web transcriptions, alternate editions or remembered wording to rewrite the English source layer.
+Use only the frozen Tamil article assemblies as translation authorities. Do not reopen the released English merely for stylistic polishing.
 
 ## Exact next activity
 
-**Publication-level English cross-article consistency / release gate only.**
-
-Use the verified English authorities:
-
-- `01-murasu.md` — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`;
-- `02-kalam.md` — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`;
-- `03-sirai.md` — `103a2492d110006cea520e03efd40fb3c1a5bdbc`.
-
-Audit cross-article terminology, names, epithets, slogans, titles, source-bearing transliterations, quotation/song treatment, tone consistency and source-page-comment completeness. Do not start unless explicitly directed.
+Publication 12 is closed. Publication 13 `துடிக்கும் இளமை` remains queued at **P0 PASS / P1 PASS 33/33 / P2 NOT STARTED** and requires explicit user activation before P2 begins.
 
