@@ -15,7 +15,7 @@ Controlling source: `TVA_BOK_0063985_துடிக்கும்_இளமை
 - P4 source audit — **COMPLETE / PASS**;
 - P5 strict visual-text-fidelity pass — **COMPLETE / PASS — 33/33**;
 - Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**;
-- English — **T0–T5 COMPLETE / PASS — 4/4 articles VERIFIED; E6/E7 pending**;
+- English — **T0–T5 COMPLETE / PASS — 4/4 articles VERIFIED; E6 COMPLETE / PASS; E7 pending**;
 - source PDF committed — **No**.
 
 ## Printed identity
@@ -177,8 +177,26 @@ Control authorities:
 - [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
 - [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
 
+## E6 publication-wide English consistency review
+
+**COMPLETE / PASS**
+
+Authority: [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSISTENCY_REVIEW.md)
+
+- articles reviewed — **4/4**
+- verified English blobs changed — **0/4**
+- source comments — **25/25 PASS**
+- ideological-vocabulary defects — **0**
+- name / title house-style defects — **0**
+- quotation / verse defects — **0**
+- source-bearing transliteration defects — **0**
+- tone / accidental-smoothing defects — **0**
+- untranslated Tamil body leakage — **0**
+- unresolved consistency defects — **0**
+- blockers — **0**
+
 ## Exact next activity
 
-**E6 — publication-wide English consistency review.**
+**E7 — English release closeout.**
 
-Do not begin E7 release closeout until E6 is separately completed.
+Perform release-state verification only; do not revise prose merely for style.
