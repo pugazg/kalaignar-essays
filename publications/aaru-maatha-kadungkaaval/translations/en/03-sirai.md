@@ -482,3 +482,123 @@ Ramasubbiah—those who were in prison knew him simply as the Food Minister. No 
 
 Bukhari! From Ayyampettai. He came to the movement after having been a Congress sympathiser. Experienced in medical work. Here he conducted himself as an example of patience.
 
+<!-- Tamil source: scan 139 / printed 136 -->
+
+**Home Department:**
+
+Mullai Sakthi—younger brother of Mullaikombai Vadivelu. One who carries out a responsibility given to him properly. A little quick-tempered, perhaps, but a true thread of comradeship.
+
+**Water Establishment Minister:**
+
+Ayyanallur Velu. A fine worker from the Nagai region. Modest conduct. An enthusiasm for principle that cannot be restrained. A lean body. A gentle heart—youth spent for the welfare of the movement.
+
+**Chief Secretary:**
+
+Jayankondam Venu. A block of diamond that labours without fatigue. Every breath and every word sounds only “movement—movement.” A bull that works like a spinning top. He runs a photo studio for his livelihood and has made party work the purpose of his life. A man without weariness who treats every task as his own. A self-respect youth.
+
+Such an excellent executive committee took office in the prison kingdom and began to work.
+
+Serving food—hearing needs—sending people for treatment—and every such task had until then been handled by the prison warders. In our
+
+<!-- Tamil source: scan 140 / printed 137 -->
+
+kingdom alone, all the responsibilities above were taken over by our council of ministers and People's Assembly.
+
+First I shall explain the routine of one day in our kingdom. I shall describe the special events later under separate headings. At six in the morning the doors of our cages would be opened. After attending to the morning necessities, the citizens would get ready for the gruel meal.
+
+The four block leaders would gather under the neem tree and discuss who would serve gruel that day, from which block to begin, and such duties. By then the cauldrons of gruel would arrive. Those huge cauldrons had to be carried by the criminal-prisoner comrades there; they were the ones who carried them. The citizens of each block would stand in a “queue,” receive their gruel and go. If the gruel had spoiled on any day, the four block leaders would immediately submit a report to the leader. The leader would bring it to the attention of the head warder. The jail authority would then try at once to attend to the defect.
+
+After the gruel, the citizens would gather at the bathing place. There was a water tank with room for only fifty people to bathe at one time. The Water Establishment Minister himself would stand there and take responsibility for bathing more than four hundred comfortably, while preventing the water from being wasted and ensuring that everyone could bathe.
+
+<!-- Tamil source: scan 141 / printed 138 -->
+
+He would count how many mugs each man poured over himself, run here and there keeping everyone within the limit, and make sure there was no shortage of water.
+
+We have read songs saying, “One can walk on water.” Comrade Velu demonstrated it in practice. Yes—the Water Establishment Minister! From morning until three in the afternoon he would practise walking right on top of the water tank. The parts of his body covered by his banian turned red, while all the rest turned black—he looked like a two-coloured man! Imagine the hardship he suffered.
+
+Between gruel and bath, a cry would rise at the entrances of the blocks: “Hospital! Hospital!” If such a cry rose in the streets of our town, we would think, “All right—some doctor who has had no chance at patients must be putting his hospital up for sale!” The cry in our prison kingdom was different. Health Minister Bukhari Sahib, stroking his honeycomb-shaped beard, would call, “Anyone coming to the hospital?” Every day he would take at least fifty people to the hospital and bring them back.
+
+<!-- Tamil source: scan 142 / printed 139 -->
+
+Around ten o'clock the *Swadesamitran* newspaper would arrive. As though the darkness already in that paper were not enough, here they would smear tar over other important news before sending it in. We had apparently seen through the *Mitran* that Anna had been imprisoned and all gone on a hunger strike! So, wherever—whatever country—whoever was imprisoned, they would smear tar over that news.
+
+Even I asked jokingly:
+
+“You smear tar even over such unnecessary things. Suppose news comes that the Godavari is in flood, and the moment we see it we say, ‘Ah! A flood in the Godavari? Let us go on a sympathy fast.’ Will you then smear tar over flood news too?”
+
+There was no answer to that. In one way, we were pleased! For many days we had wanted to smear tar on the faces of newspapers that black out news. We really must thank the Government for undertaking that rare work on its own responsibility.
+
+Chief Secretary Venu would take the newspaper and run. He would quickly see that it went through all four blocks and was safely brought back.
+
+<!-- Tamil source: scan 143 / printed 140 -->
+
+By about one in the afternoon, usually, the food would arrive. Four men would carry in a long object called a cot, covered with white cloth. In front would come a pot. In it would be curry—a large pot. Four or five such large pots, four or five cots, and a cauldron of buttermilk: thus the thing that kept our kingdom alive—the punishment called food—would arrive. In prison the greatest punishment inflicted is food! And what is considered the greatest offence in prison is refusing to eat it!
+
+The block leaders and their deputies would distribute rice, curry and buttermilk to citizens who came in rows to collect them. Along with a measured portion of rice, a measured portion of gruel too would be given. Pumpkin, greens, stalks of greens and other immortal substances, fragrant with iron, would stick out their heads to look around. This was what they called curry.
+
+On Wednesdays and Saturdays they gave us dhal—in the prescribed measure! That was the meat dish of our country.
+
+After the meal came a short chapter of rest. At once the work of Home Department Minister Sakthi would begin. Twice a month cards were issued. He would count them, collect the written ones and send them to the authorities, tell those who had not written to do so, obtain cards for those who had not received them, and attend to all such work. For those who wanted books, he would issue books—
+
+<!-- Tamil source: scan 144 / printed 141 -->
+
+collect the ones they had read, check the accounts, and try to return them to the reading room.
+
+Meanwhile, an “interview” would come. Friends or relatives would arrive to see comrades in prison.
+
+Venu would run with that information. Among four hundred people he would struggle to find the right men and send them for the “interview.” Bukhari Sahib's “Hospital!” call would rise again. At four in the evening Venu would properly carry out the responsibility of convening the People's Assembly. Each block leader would arrive at the Assembly with his comrades.
+
+Every day the People's Assembly would begin under the leader's chairmanship. Speeches would be given on how one should conduct oneself in prison, and on the movement's duty and discipline. Each day several comrades would speak on a subject. At the end the Assembly would disperse after the leader's concluding remarks. Those who committed minor offences would also be tried before the Assembly and, according to the opinion of the majority, would apologise before the Assembly.
+
+By 5:30 in the evening the night meal would arrive. Now there would be no sorghum gruel. The quantity of rice would become a little larger.
+
+<!-- Tamil source: scan 145 / printed 142 -->
+
+There would be no buttermilk. A groundnut ball would come. There would be curry. The meal would end.
+
+By six o'clock they would be locked into cages three by three. We who were “B” class prisoners would each be locked up separately.
+
+The male cuckoos in some cages would begin to sing! Hearing that snake-charmer's tune, snakes might come—and if the snakes had a separate “B” class, at least scorpions would be sent.
+
+Those scorpions have in fact kissed many of our comrades. By about ten at night our kingdom would usually fall silent.
+
+**The count is coming!**
+
+After the comrades were locked up at six, the “head warder” would go around every block to see whether the prisoner count was correct. Finally he would come to our Fourth Block. “Hmm—the count has come,” we would say!
+
+**The clock is going!**
+
+At many places throughout the prison a kind of key was fixed into the walls. Once every hour the warder had to go to those places and insert that key into the clock he carried.
+
+<!-- Tamil source: scan 146 / printed 143 -->
+
+That warder could not stand still anywhere. He had to keep moving while guarding. If he stopped, the clock at that place would betray him. At night we could see him walking with a lamp in his hand. By watching him we would know the hour. Perhaps that is why, when he went by in prison, they said, “The clock is going!” We too said only, “The count is coming!” “The clock is going!”
+
+It was while our kingdom was running in this way that, in Madras, the comrades who led the righteous picketing struggle before Achariyar's house—battle-seasoned tiger-like friend Munusamy; valiant warrior V. T. Annamalai; young lion given by Erode, S. Appavu; Kanchi's treasure, veteran of many fields and the love-warrior who fills all our hearts, C. V. M. Annamalai; the lion of action, Madras A. K. Sami; North Arcot district secretary A. L. C. Krishnasamy, a man whose truth breaks the hips of hard-hearted men; Sambandam who does not fear battle; Inmozhiyaan who speaks sweet language; Jayachandran, a distinguished force at the battlefront; Natarasan who resists destruction; the tireless worker Arasu—and more than three hundred comrades—were arrested. General Secretary Anna, Nedunchezhiyan, Sampath, Mathi and Natarasan, the five, were released without condition on their own bail, and a case was filed against them.
+
+<!-- Tamil source: scan 147 / printed 144 -->
+
+The case proceeded on the charge that they had incited the Dalmiyapuram struggle, the struggle against the new education scheme, the train-stoppage struggle, and so on.
+
+Even though the case was being conducted with the intention of punishing the leaders of the Dravida Munnetra Kazhagam, it became in large measure a case useful to us. The case took such a form that the public and the opposition parties could understand full details about us.
+
+Through the testimony of Government officials themselves, the country was told that the Dravida Munnetra Kazhagam had more than one lakh members; that discipline, dignity, peace and the like were the ideals of the DMK; that it was a great movement with more than a thousand branches; and that the Dravida Munnetra Kazhagam alone was the great national party standing against Congress in Tamilagam.
+
+The case thus helped bring such significant statistics before the people's forum.
+
+The statements given by the five in court became drums proclaiming our movement's principles to the country.
+
+<!-- Tamil source: scan 148 / printed 145 -->
+
+From now on, when comrades of our movement take part in a struggle, they must not set as their only objective the act of going to prison. We must argue: what crime have we committed that deserves punishment? If punishment is still given afterward—and if it continues even after appeals—then we may go to prison with the consolation, “All right, now let the people's forum give its verdict.” We must not immediately surrender ourselves to the court's judgment. One may say that the case filed in this manner has given us that truth as a lesson.
+
+Even apart from the possibility of obtaining a good judgment, only if the case is conducted—and only if we argue against it—do we gain an excellent opportunity to explain our position to the country.
+
+It is my humble personal view too that from now on we must not miss that opportunity!
+
+The seed for that thought was the good result that arose from the case of the five!
+
+That historically famous case too came somehow to an end.
+
+Charged with inciting the agitations, all five received three months' simple imprisonment.
+
