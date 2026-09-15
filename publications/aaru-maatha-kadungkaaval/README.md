@@ -34,7 +34,7 @@ Direct native inspection established:
 
 ## Current state
 
-- Publication 12 — **TAMIL ARCHIVAL COMPLETE / FROZEN — English Article 1 `முரசு` T0 PASS / T1 COMPLETE; T2 NEXT**
+- Publication 12 — **TAMIL ARCHIVAL COMPLETE / FROZEN — English Article 1 `முரசு` T0 PASS / T1 COMPLETE / T2 PASS; T3 NEXT**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
@@ -42,7 +42,7 @@ Direct native inspection established:
 - P3 — **COMPLETE / PASS — 3/3 article assemblies: `முரசு`, `களம்`, `சிறை`**
 - P4 — **COMPLETE / PASS — publication source audit / completeness review**
 - P5 — **COMPLETE / PASS — 224/224 — visual-text-fidelity complete**
-- English — **E0 COMPLETE / PASS; T0 1/3 PASS; T1 1/3 COMPLETE; 1/3 draft; Article 1 `முரசு` T2 next**
+- English — **E0 COMPLETE / PASS; T0 1/3 PASS; T1 1/3 COMPLETE; 1/3 draft; Article 1 `முரசு` T3 next**
 
 ## Historical Tamil glyph policy
 
@@ -1041,7 +1041,7 @@ Translation order: **1 → 2 → 3**.
 
 ### Exact next activity
 
-**Article 1 — `முரசு` — T2 bilingual fidelity review.**
+**Article 1 — `முரசு` — T3 Kalaignar voice review.**
 
 Re-fetch and pin the frozen Tamil blob, establish the working English title, create `translations/en/01-murasu.md`, preserve every source-page comment, and translate the entire article paragraph by paragraph. Do not alter the frozen Tamil layer.
 
@@ -1067,3 +1067,20 @@ Re-fetch and pin the frozen Tamil blob, establish the working English title, cre
 **Article 1 — `முரசு` — T2 bilingual fidelity review.**
 
 Re-fetch the frozen Tamil blob and T1 English blob, compare the complete article paragraph by paragraph and clause by clause, record every correction in `translations/en/TRANSLATION_REVIEW.md`, and update the living lexicon where T2 settles or reopens a material terminology choice. Do not begin T3 unless separately directed.
+
+
+## English Article 1 — `முரசு` — T2 checkpoint
+
+- T2 bilingual fidelity review — **PASS**
+- T2 English blob — **`ffea867e2163d8a87763bb3fba798d467268da84`**
+- T2 body corrections — **8**
+- omitted Tamil clauses after correction — **0**
+- added substantive claims after correction — **0**
+- ordered source-page comments — **56/56 PASS**
+- untranslated Tamil body leakage — **0**
+- Tamil changes — **0**
+- blockers — **0**
+
+### Exact next activity
+
+**Article 1 — `முரசு` — T3 Kalaignar voice review.**
