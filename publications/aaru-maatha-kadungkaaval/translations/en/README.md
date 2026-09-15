@@ -12,13 +12,13 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - Tamil prerequisite — **COMPLETE / STRICT-REVIEWED / FROZEN**
 - translation identity — **project-created English translation**
 - E0 — **COMPLETE / PASS**
-- T0 — **2/3 PASS**
-- T1 — **2/3 COMPLETE**
+- T0 — **3/3 PASS**
+- T1 — **3/3 COMPLETE**
 - T2 — **2/3 PASS**
 - T3 — **2/3 PASS**
 - T4 — **2/3 PASS**
 - T5 — **2/3 VERIFIED**
-- English article files — **2/3**
+- English article files — **3/3**
 - verified English articles — **2/3**
 - E6 publication-wide consistency review — **NOT STARTED**
 - E7 release closeout — **NOT STARTED**
@@ -30,7 +30,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 |---:|---|---|---|---|---|---|---|---|---|
 | 1 | `முரசு` | **The Drum** | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **VERIFIED** |
 | 2 | `களம்` | **The Battlefield** | `711b86300a3340ee73271a1cf613408905314498` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **VERIFIED** |
-| 3 | `சிறை` | **TBD at T1/T4** | `0d860d48bcd666148c0a312ad296953f015225c2` | not-started | not-started | not-started | not-started | not-started | not-started |
+| 3 | `சிறை` | **Prison** *(working; T4 not yet passed)* | `0d860d48bcd666148c0a312ad296953f015225c2` | **PASS** | **COMPLETE / draft** | not-started | not-started | not-started | not-started |
 
 ## Article 1 T1 checkpoint
 
@@ -85,6 +85,20 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - current verified English blob — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`
 - blockers — **0**
 
+## Article 3 T1 checkpoint
+
+- English file — `03-sirai.md`
+- frozen Tamil blob — `0d860d48bcd666148c0a312ad296953f015225c2`
+- T1 English blob — `31b3c8476ba4bd13264d0609a5553cdd1f7117b7`
+- working title — **Prison**
+- `translation_status: draft`
+- structural scans — **108–223**
+- ordered source-page comments — **116/116 PASS**
+- scan 109 blank/reverse — **no invented prose**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+
 ## Permanent source boundary
 
 Use only the frozen Tamil article assemblies as normal translation authorities. Page records / controlling scans may be reopened only for punctuation, quotation, page-boundary or provenance questions.
@@ -95,4 +109,4 @@ Scan **224** is back-cover / publisher-device matter and does not belong in Arti
 
 ## Exact next activity
 
-**Article 3 — `சிறை`: T0 source prerequisite + T1 close draft.**
+**Article 3 — `சிறை`: T2 bilingual fidelity review.**
