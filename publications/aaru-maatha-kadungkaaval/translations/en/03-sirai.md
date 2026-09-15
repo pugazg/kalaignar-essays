@@ -864,3 +864,138 @@ Prisoners are divided into several classes. They too have promotions.
 
 A good worker with sixty days' remission and excellent character may be promoted to night watchman or to supervisor of workers. The night watchman receives five days' reduction per month from the sentence, and the supervisor six days. A person who has served for six months in either of these two categories can be promoted to the higher office called prisoner warder—Convict Warder. They receive eight days' remission each month. But one must prove oneself good, trustworthy and honest. You will surely wish for the chance to obtain this.
 
+<!-- Tamil source: scan 169 / printed 166 -->
+
+## Advisory Board:
+
+Once every three months the Collector, the Sessions Judge and a non-official member meet to consider releasing specified prisoners before the completion of their sentence. Those sentenced to two years or more and who have served three-fourths of it are considered. But the Board thinks only about prisoners with orderly conduct. Behave with dignity—take great care—and gain this benefit.
+
+## Are You Ill?
+
+There is a well-equipped hospital here. There are doctors who care about your illness. Remain calm—listen to their advice—and build up your health! Those who exaggerate false illnesses will be punished.
+
+Our country wants strong bodies and broad hearts!
+
+Note: [There are a few more notices like these in Quarantine! Quarantine is like the front verandah of the prison, where convicted prisoners are kept for ten days.]
+
+★
+
+<!-- Tamil source: scan 170 / printed 167 -->
+
+## Speaking Assembly
+
+“You began a Speaking Assembly in your kingdom—what happened to it?” you are eager to ask. It produced many speakers. Even if they did not become great platform orators, propagandists were produced who could explain the principle clearly in their own towns. To set up a “training camp” in a district would cost at least a thousand rupees. Even then it could run for only a week. Could we lose this fine opportunity to run a two-month training camp at Government expense?
+
+On the first day many friends expressed their views on the subject: “Is there a God, or is there not?” Some argued that there is; some that there is not. Those who held that there is no God conducted the argument for God's existence especially well.
+
+Even though the Dravida Munnetra Kazhagam does not deny the doctrine that “there is one God,” there is no bar on its discussing and examining God. The Dravida Munnetra Kazhagam alone is a movement that thoroughly examines the economic order ruined in the name of God, and the way to prevent it, and reaches conclusions!
+
+One comrade who argued that God exists said: “Those who say there is no God are barbarians!”
+
+<!-- Tamil source: scan 171 / printed 168 -->
+
+It is a well-known truth in the country that those who say God exists confer this title very generously. There is a truth even within that truth.
+
+If those who say there is no God are barbarians, then it becomes true that in the age of barbarians there was no God. Therefore the claim that the Lord has existed from time without beginning is made false—by their own language! Primitive man did not worship God. It was developed man who created God; God did not create man—that great truth too emerges.
+
+“The developed man discovered the aeroplane—the barbarian did not discover the aeroplane. He is a fool!
+
+The developed man is intelligent! Can we say that because the fool did not discover the aeroplane, the aeroplane itself is false? The fool did not discover God. Can we therefore say there is no God?”—the believer may raise this question.
+
+## There is only one answer—
+
+The aeroplane was not discovered! It was made! Therefore there is no reason for it to have existed before man. Even the flying craft said to have existed in the ages of the Ramayana and Bharata were made by man after man existed. So too was God
+
+<!-- Tamil source: scan 172 / printed 169 -->
+
+made by man. Created. God is the cry man raised to rescue himself from fear! Even now, from the very fact that one who thinks of God thinks “God is my support,” it is plain as daylight that God is a word of consolation used for support—used to escape from fear.
+
+We are not enemies of that word! Those who keep it and exploit others for a living; those who conduct fraud saying that word alone will lead people to heaven; those who preach that by uttering that word one should endure the troubles of this world and live like a frog or a rat; the saffron-robed mendicants who spin the story that the South Pole of poverty and the North Pole of wealth exist because of the greatness of that word—and that the two poles can never unite, and that trying to unite them is hostility to that word—these are our enemies.
+
+A precious diamond—if a society uses it to commit suicide, then even though it is a diamond, should it not be broken and thrown into the sea?
+
+The word “God” may be sweet! When it becomes a diamond useful for suicide, what can be done?
+
+To raise this question is called atheistic argument—and we are supposedly people who bring ruin upon the country!
+
+<!-- Tamil source: scan 173 / printed 170 -->
+
+Achariyar, who rules the country, says that all of us must be crushed! His legions of devotees say the same. But look at what Pandit Jawaharlal Nehru, whom they follow with devotional earnestness, says. While in prison the Pandit writes a book. Its name is *World History*. I shall quote a portion—pay attention.
+
+Akbar rules in India. He administers the kingdom without making an enemy of any religion. At that time Jesuit priests come to bring him into their religion. Akbar traps them with a few questions. The Jesuit priests give this note about Akbar:
+
+“The fault common to all atheists is seen in Akbar too. Atheists refuse to subordinate their reason to religious faith. They subject matters beyond the limits of human knowledge to the inquiry of their defective reason.”
+
+That is the priests' note. Do you know the Pandit's opinion about those priests' view?
+
+“If these are the marks of an atheist, then
+
+<!-- Tamil source: scan 174 / printed 171 -->
+
+the country can only benefit from the increase of such atheists.”
+
+That is Pandit Nehru's view! His view while in prison! Not after ascending the throne! He forgot it—and rejoiced on seeing the golden peacock in the Madurai Meenakshi temple.
+
+In his book he wrote that the Peacock Throne made in Shah Jahan's time was the sweat of the poor! Now he has lost the courage to say whose sweat lies locked up in peacock-thrones at sacred places such as Madurai! The reason—before, a prisoner! Now, Prime Minister!
+
+We remind him of what he forgot—with his own words.
+
+The country can only benefit from an increase in atheism that refuses to subordinate reason to religious faith.
+
+This is the Pandit's golden saying! O crowns of devotion! O madmen of Bhaja Govindam! It is not the “vile saying” of rationalists! It is the Pandit's golden saying!
+
+## Renaissance
+
+Dive! Dive! Dive deep! Hold your breath and dive!
+Dive still deeper! You will find a pearl.
+
+Speak! Speak! Speak many times! Your tongue will gain practice! You will speak well! But do not heap up shells!
+
+<!-- Tamil source: scan 175 / printed 172 -->
+
+I never failed to say this at every Speaking Assembly. Every comrade who took part in the discussion became a diamond gaining lustre. One day friends expressed their views on the subject “Renaissance.” Among those who spoke was one G. Narayanasamy. The moment he rose to speak, the whole Speaking Assembly would burst into laughter. He was only a beginner! But enthusiasm overflowed. When that short figure waved his hands and body while speaking, he looked like a three-legged brinjal! More humour lay in his gestures than in the subject he spoke about.
+
+I think it was August 19; that was the day “Renaissance” was discussed—in our Assembly. You may feel like asking: from July 18 to August 19, did you discuss nothing else? Every day in the Assembly we discussed so many matters.
+
+The world situation—the freedom struggles of each country—our movement's principles—the differences between other parties and us—all were discussed in the Assembly that met each day.
+
+A question paper containing more than three hundred questions was prepared, and that examination was conducted for three or four days continuously.
+
+<!-- Tamil source: scan 176 / printed 173 -->
+
+Not to see who would pass the examination—but so that people might gain clarity! I forgot to say one thing; now that the chance has come, let me say it. Along with our hundred people there were twenty comrades belonging to the Dravidar Kazhagam. They had taken part in school picketing and spent a few weeks in prison. They too participated eagerly in the Speaking Assemblies.
+
+It is worth noting that along with those Dravidar Kazhagam comrades, a Brahmin friend named Rajan had also done school picketing and come to prison.
+
+After the more than three hundred questions had been asked, answers given, and speeches made explaining those answers, the comrades happily said it had been very useful. Some questions even left them stunned. Let me give an example.
+
+Why did Comrade Sampath, appointed to lead the picketing at Achariyar's house on July 14, fail to take part that day?
+
+The moment that question was asked, the Assembly froze—for a second! Doubt marks appeared on their faces: Sampath did not take part?
+
+<!-- Tamil source: scan 177 / printed 174 -->
+
+Only when a comrade said, “He had already been arrested on the 13th. That is why he did not take part,” did the Assembly's bewilderment disappear.
+
+I asked a joke question: “Which minister married in old age?” Forgetting that I had asked for a minister, everyone shouted, “Periyar!” Only afterward did the answer “Deshmukh” come!
+
+To drive away the cruelty of prison, one needs a little amusement too, does one not?
+
+We have wandered somewhere again, leaving “Renaissance” behind! Just as we left Renaissance and went away, Renaissance too has often gone away for many days and then appeared again.
+
+Agitation—upheaval—stagnation of knowledge—religious frenzy—the unjust dance of regimes—barbarism: the newness that blooms and shines after these is affectionately called renaissance.
+
+A state of flourishing—a state of falling—a state of flourishing again. This unalterable cycle of change has gone on turning like a wheel since the day the world was born! Without going into an inquiry into the whole world, let us look briefly at how each country—and the society of that country—received its renaissance. We need not examine every country either.
+
+<!-- Tamil source: scan 178 / printed 175 -->
+
+If we look at a few great countries, we can see the history of how they once lived with enchanting vitality, the tragic history of that flowering withering and becoming a mound of earth, and the enduring knowledge we must gain from the lesson that history gives.
+
+Rome—what a country of artistic culture! Where did the lion-roar raised by Caesar and Antony wear away and disappear? Florence in Italy—the motherland of the Renaissance—the flower-garden where great poets such as Dante and Petrarch wandered—the earth created by sculptural artists such as Leonardo—why does that once-glorious Italian soil now sit veiled before the world?
+
+Many societies appear like flowering vines that once blossomed, then withered, and died without ever receiving another renaissance.
+
+Chinese society, which had been in that condition, now stands in prosperous bloom!
+
+At one time China had attained distinction and excellence in art, literature and painting, and later decayed. Why? Art was not created for the people—to reflect the condition of society—but was turned into an object of amusement for crown-bearers. Sculptural and literary feeling could not stand before sensual feeling—
+
