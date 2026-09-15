@@ -255,21 +255,30 @@ Within a few hours, dawn had come. We too set out. Around ten in the morning we 
 
 “All those who once cursed us, ‘May you be ruined,’ now bless us: ‘Long live the good younger brothers who guard the nation.’ The man who called me ‘Kolaignar’—killer—at the last meeting calls me ‘Kalaignar’—artist—with tenderness at this meeting. He even sheds tears thinking of what he did before. Those who were in other ranks are now seen in ours. In short, to string a garland for Dravida's remarriage—to pluck flowers for it—all those who had been in the opposing camp are clearing their minds and running toward us.”
 
-I used this as the prelude to my speech, then explained the movement's programmes and the Kallakkudi agitation. Just as every town meeting on the district tour had its own distinction, Velayuthampalayam too had a distinction of its own. Though many activists were responsible for that distinction, the credit for shaping them into lion-like bulls, and the honour of producing a fine blossoming in that region, belong to Comrades Rathinavelu and Moorthy. Rathinavelu was already a bull of the movement while still a college student; bringing together the experience gained in the camp of knowledge and the thoughts born of enthusiasm, he has been carrying on movement work vigorously. Comrade Moorthy deserves the reputation of acting with organisation and method. The Pugalur region must become a fortress of the movement through their work. Just as the great bridge joining the banks of the Kaveri has brought fame to the Pugalur region, I believe—and wish—that Moorthy and Rathinavelu will become lamps of the movement's fame in that area.
+I used this as the prelude to my speech, then explained the movement's programmes and the Kallakkudi agitation. On the district
 
 <!-- Tamil source: scan 37 / printed 34 -->
 
+tour, just as every town meeting had its own distinction, Velayuthampalayam too had a distinction of its own. Though many activists were responsible for that distinction, the credit for shaping them into lion-like bulls, and the honour of producing a fine blossoming in that region, belong to Comrades Rathinavelu and Moorthy. Rathinavelu was already a bull of the movement while still a college student; bringing together the experience gained in the camp of knowledge and the thoughts born of enthusiasm, he has been carrying on movement work vigorously. Comrade Moorthy deserves the reputation of acting with organisation and method. The Pugalur region must become a fortress of the movement through their work. Just as the great bridge joining the banks of the Kaveri has brought fame to the Pugalur region, I believe—and wish—that Moorthy and Rathinavelu will become lamps of the movement's fame in that area.
+
+
 After the meeting, comrades of the region surrounded us. Comrade Rathinavelu said he would donate a plot for a movement building and asked me to stage a play to raise money for the building fund. I told him: let the agitation finish. I do intend to stage one.
 
-Our comrades wish to raise movement buildings. But what can we do—we are not relatives of the Birlas! At least in the shape of a hut, we need a place of our own in every town. We must build little, yet live greatly. Anna is said to have spoken at the Mayavaram conference—I was on my deathbed at the time:
+Our comrades wish to raise movement buildings. But what can we do—we are not relatives of the
+
+<!-- Tamil source: scan 38 / printed 35 -->
+
+Birlas! At least in the shape of a hut, we need a place of our own in every town. We must build little, yet live greatly. Anna is said to have spoken at the Mayavaram conference—I was on my deathbed at the time:
 
 “I should hold in my hand the keys to a thousand buildings. I should tour with that bunch of keys. If I go to a town with a branch of the movement, however late the hour, without troubling the secretary or anyone else, I should have that bunch of keys with which I can open our building myself and rest.”
 
 Anna expressed that desire at Mayuram. Desires can be expressed. Must plans for fulfilling them also be handed down? Rathinavels must donate plots. Activists must set out. As I said earlier, a house-building force must arise. A movement mansion must be built. “A mansion?” you ask. Yes, a mansion! To a crow, its chick is golden! A little hut for which we ourselves mix the mud—we ourselves thatch the roof—we ourselves finish the building—is a mansion to us!
 
-Why do we stage plays—why do we tremble lest they run at a loss—why do we look at the sky and sigh, “Please, let it not rain”?
+Why do we stage plays—why do we tremble lest they run at a loss—why do we look at the sky and sigh, “Please,
 
 <!-- Tamil source: scan 39 / printed 36 -->
+
+let it not rain”?
 
 A Rathinavel in every town—to give the land! A Velu for every man—and the mansion will rise! Even the stones thrown at us in elections, at Tiruttani, and at our meetings can be used for one side wall of the movement mansion. The huge boulder lifted at Theni to hurl at Nedunchezhiyan can be used as the threshold of the movement mansion.
 
