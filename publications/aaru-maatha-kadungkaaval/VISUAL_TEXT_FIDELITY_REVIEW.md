@@ -299,7 +299,7 @@ Batch P5-07 totals:
 
 ## Batch P5-08 — scans 106–120
 
-Result: **15/15 PASS / no canonical correction**.
+Result: **15/15 PASS after 1 canonical correction**.
 
 | Scan | P5 result | Key reconfirmation |
 |---:|---|---|
