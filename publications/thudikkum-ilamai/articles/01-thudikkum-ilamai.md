@@ -4,9 +4,9 @@ article: "01-thudikkum-ilamai"
 title: "துடிக்கும் இளமை"
 source_scans: "5-12"
 printed_pages: "scan 5 folio not visible; scans 6-12 show folios 6-12"
-status: "source-complete"
+status: "strict-reviewed"
 language: "ta"
-assembly_method: "assembled verbatim from verified canonical P2 page records"
+assembly_method: "assembled verbatim from verified canonical P2 page records; P5 strict visual fidelity rechecked against source scans"
 ---
 
 # துடிக்கும் இளமை
@@ -58,3 +58,13 @@ assembly_method: "assembled verbatim from verified canonical P2 page records"
 - modernization / paraphrase — **0**
 - unresolved assembly issues — **0**
 - result — **P3 COMPLETE / PASS**
+
+## P5 strict visual-fidelity revalidation
+
+- all contributing source scans reopened directly at P5 — **PASS**;
+- canonical P2 page records compared word-by-word / punctuation-by-punctuation — **PASS**;
+- P5 body corrections required — **0**;
+- source wording / punctuation / historical type identity changed at P5 — **0**;
+- page-boundary joins revalidated — **PASS**;
+- unresolved fidelity discrepancies — **0**;
+- status — **STRICT-REVIEWED / FROZEN TAMIL AUTHORITY**.
