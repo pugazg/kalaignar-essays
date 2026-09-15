@@ -85,27 +85,29 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - current verified English blob — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`
 - blockers — **0**
 
-## Article 3 T2 checkpoint
+## Article 3 T3 checkpoint
 
 - English file — `03-sirai.md`
 - frozen Tamil blob — `0d860d48bcd666148c0a312ad296953f015225c2`
 - T1 English blob — `31b3c8476ba4bd13264d0609a5553cdd1f7117b7`
 - T2 — **PASS** — **21 body corrections**
-- T2 English blob — **`56dfd504cc9b315ee362c1176605e28728616d73`**
-- working title — **Prison** — provisional until T4
-- `translation_status: fidelity-reviewed`
+- T2 English blob — `56dfd504cc9b315ee362c1176605e28728616d73`
+- T3 — **PASS** — **20 body corrections**
+- T3 English blob — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
+- working title — **Prison** — provisional pending T4
+- `translation_status: voice-reviewed`
 - structural scans — **108–223**
 - ordered source-page comments — **116/116 PASS**
 - scan 109 blank/reverse — **no invented prose**
-- omitted Tamil sentences / clauses — **0**
-- added substantive English claims — **0**
+- T2 regressions — **0**
+- semantic additions introduced by T3 — **0**
 - untranslated Tamil body leakage — **0**
 - Tamil source changes — **0**
-- material lexicon changes — **0**
+- material lexicon changes at T3 — **0**
 - blockers — **0**
-- T3/T4/T5 — **NOT STARTED**
+- T4/T5 — **NOT STARTED**
 
-T2 corrections comprise **17 page-boundary/source-comment realignments** and **4 semantic/textual corrections**. Full old → corrected English with Tamil basis is recorded in `TRANSLATION_REVIEW.md`. T2 rechecked and retained the working title and source-bearing terms ***udanpirappu***, **Black Hole of Calcutta**, **Water Establishment Minister**, **People's Assembly** / **Speaking Assembly**, ***Kandam***, **“Kaanikkai” Warder**, ***manukkaaran***, ***kudukuduppaikkaran***, ***kechavaali***, and **triple-thread guardian**.
+T3 sharpened directness, sarcasm, comic timing and cadence without neutralising source-strange forms. Detailed old → corrected English and rationale are in `TRANSLATION_REVIEW.md`.
 
 ## Permanent source boundary
 
@@ -117,7 +119,7 @@ Scan **224** is back-cover / publisher-device matter and does not belong in Arti
 
 ## Exact next activity
 
-**Article 3 — `சிறை`: T3 voice/style review only.**
+**Article 3 — `சிறை`: T4 terminology / quotation / citation audit only.**
 
-Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and T2 English blob `56dfd504cc9b315ee362c1176605e28728616d73`. Preserve all **116/116** source-page comments and scan 109 blank/reverse. Do not begin T4 unless explicitly directed.
+Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and T3 English blob `7fa87637997c3f19b1f70fe1628a4e4bfe122164`. Audit the full scans **108–223** article, including title choice and all **116/116** source-page comments. Do not begin T5 unless explicitly directed.
 
