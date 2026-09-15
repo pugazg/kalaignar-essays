@@ -28,7 +28,7 @@ The three strict-reviewed Tamil assemblies below are the sole translation author
 
 | # | Tamil title | Structural scans | Tamil assembly | Frozen Tamil blob | English title/status |
 |---:|---|---:|---|---|---|
-| 1 | `முரசு` | 10–65 | `articles/01-murasu.md` | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **The Drum — T0 PASS / T1 draft COMPLETE; title provisional until T4** |
+| 1 | `முரசு` | 10–65 | `articles/01-murasu.md` | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **The Drum — T0–T5 PASS / VERIFIED** |
 | 2 | `களம்` | 66–106 | `articles/02-kalam.md` | `60c155dc93a4543e267ccbca5573d6f5b70e5672` | **title to be established at T1/T4 — not started** |
 | 3 | `சிறை` | 108–223 | `articles/03-sirai.md` | `0d860d48bcd666148c0a312ad296953f015225c2` | **title to be established at T1/T4 — not started** |
 
@@ -112,25 +112,28 @@ After all 3/3 articles are T5 verified:
 
 ## Article 1 progress — `முரசு`
 
-- T0 source prerequisite — **PASS**
-- frozen Tamil blob re-fetched and exact — **`7a41617cd48f8507bc12074fb48d6016fae5cead`**
-- T1 close draft — **COMPLETE**
-- English file — `translations/en/01-murasu.md`
+- T0 — **PASS**
+- frozen Tamil blob — **`7a41617cd48f8507bc12074fb48d6016fae5cead`**
+- source scans — **10–65**
+- T1 — **COMPLETE**
 - T1 English blob — **`a94630638fa194290e0761259131cc4548d429e4`**
-- T2 bilingual fidelity review — **PASS**
+- T2 — **PASS** — 8 body corrections
 - T2 English blob — **`ffea867e2163d8a87763bb3fba798d467268da84`**
-- T2 body corrections — **8**
-- working English title — **The Drum**
-- translation status — **draft**
-- ordered Tamil source-page comments — **56/56 preserved**, scans **10–65**
-- Tamil source changes during T0/T1 — **0**
+- T3 — **PASS** — 4 voice corrections
+- T3 English blob — **`fcd98ef6c92d14b10f69f0fcda76fe8507e14331`**
+- T4 — **PASS** — 1 source-term correction
+- T4 body authority — **`bbf4de306e1d0f8442237ee654abbbdb7244d7d5`**
+- T5 — **PASS / VERIFIED**
+- verified title — **The Drum**
+- verified English blob — **`d629c2b13c6d01170bd96bd5e88409a4352f61c5`**
+- source comments — **56/56 PASS**
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- Tamil changes — **0**
 - blockers — **0**
-- T3/T4/T5 — **NOT STARTED**
-
-Working choices intentionally left for later review include the title `முரசு` → **The Drum**, contextual `அறப்போர்` → **righteous struggle**, the Kulithalai / `குருவித்தலை` wordplay, `ஆஷாடபூதிகள்` → **religious pretenders**, and the closing source-bearing `முத்தமிழ்` → **Muttamil**.
 
 ## Exact next activity
 
-**Article 1 — `முரசு` — T3 Kalaignar voice review.**
+**Article 2 — `களம்` — T0 source pin + T1 close draft.**
 
-Use frozen Tamil blob `7a41617cd48f8507bc12074fb48d6016fae5cead` and T2 English blob `ffea867e2163d8a87763bb3fba798d467268da84`. Re-read the whole article for cadence, direct address, humour, mockery, repetition, martial imagery, abrupt contrasts, slogans and emotional temperature without undoing T2 fidelity. Record all T3 voice corrections and do not begin T4 unless explicitly directed.
+Require frozen Tamil blob `60c155dc93a4543e267ccbca5573d6f5b70e5672`, create `translations/en/02-kalam.md`, establish the working English title, preserve source-page comments, and translate the complete article without altering frozen Tamil.
