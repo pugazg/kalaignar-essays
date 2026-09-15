@@ -15,7 +15,7 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 
 ‘குவாரண்டைன்’ என்னுமிடத்தில் அழகிய முறையில் வண்ணத்தால் சுவற்றில் தீட்டிக் கொடுத்திருக்கிறார். அவைகளைப் படித்துப்பார்த்தால் சிறையில் உள்ள வசதிகள் - சட்ட திட்டங்கள் எல்லாமே தெளிவாகும் என்று நம்புகிறேன். நீங்கள் அவைகளைப் படிப்பதற்கு முன்பு சிறையைப் பற்றிய இன்னும் சில விபரங்களைக் குறிப்பிட்டுவிடுகிறேன். சிறை அதிகாரிகள் யார் யார் என்பதும் - கைதிகள் எப்படிக் கண்காணிக்கப்படுகிறது என்பதும் தெரிந்துகொள்ள வேண்டியவை யல்லவா?
 
-## ஜெயில் சூப்பிரின்டெண்டு:
+## ஜெயில் சூப்பிரின்டெண்ட்:
 
 மாதம் ஐநூறு ரூபாய் வரையிலே சம்பளம் பெறக் கூடிய இவரது பொறுப்பிலேதான் சிறையின் முழு நிர்வாகமும் ஒப்படைக்கப்பட்டிருக்கிறது.
 
@@ -69,3 +69,12 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 ## P2 நிலை
 
 **verified** — scan 159 placeholder was replaced only after full direct source-pixel transcription and audit.
+
+## P5 visual-fidelity correction — Batch P5-11
+
+- physical scan 159 / derivative extract page 10 was reopened and inspected directly from the source image.
+- source heading clearly ends with pulli `ட்`, not `டு`.
+- canonical correction: `ஜெயில் சூப்பிரின்டெண்டு:` → **`ஜெயில் சூப்பிரின்டெண்ட்:`**.
+- the body form `சூப்பரின்டெண்டுக்கு` remains unchanged because it is separately source-visible in the following paragraph.
+- correction type — ordinary lexical/source-fidelity correction; **not** a historical-glyph correction event.
+- `articles/03-sirai.md` and P5 controls were updated in the same pass.
