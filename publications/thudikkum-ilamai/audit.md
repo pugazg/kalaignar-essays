@@ -41,6 +41,23 @@ The publication is therefore not being added to `kalaignar-public-speeches`.
 - guessed readings — **0**;
 - unresolved body readings — **0**.
 
+## P3 article assembly
+
+**COMPLETE / PASS — 4/4**
+
+- `articles/01-thudikkum-ilamai.md` — scans 5–12 — **8/8 records / PASS**
+- `articles/02-annamalaikku-arogara.md` — scans 13–19 — **7/7 records / PASS**
+- `articles/03-poompuhar.md` — scans 20–24 — **5/5 records / PASS**
+- `articles/04-vetri-vilakku.md` — scans 25–29 — **5/5 records / PASS**
+- article-source coverage — **25/25 scans**
+- verified cross-page boundary-word joins — **9**
+- omitted P2 body text — **0**
+- added unsupported body text — **0**
+- modernization / paraphrase — **0**
+- unresolved assembly issues — **0**
+
+P3 source-sensitive joins include `பிம்பங்கள்`, `உள்ளங்கள்`, `எழுதுகிறான்`, `துடிக்கிறது`, `ஆடம்பரமான`, `சுயநலத்துக்கேற்ற`, `வாயுணர்வின்மாக்கள்`, `வெறுப்பதில்லை`, and `என்பதைக்`.
+
 ## Translation
 
 **BLOCKED until Tamil archival layer reaches P5 / frozen.**
@@ -104,3 +121,7 @@ Source-sensitive advertisement readings include `கைவசமில்லை`
 - P2 status — **COMPLETE / PASS**.
 
 Next: **P3 article assembly — all four articles in one go**.
+
+## Next gate
+
+**P4 publication source/completeness audit.**
