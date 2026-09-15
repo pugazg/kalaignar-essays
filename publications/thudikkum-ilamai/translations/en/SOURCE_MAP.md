@@ -1,0 +1,58 @@
+# English Translation Source Map — துடிக்கும் இளமை
+
+This file is the frozen-source map for all English work on `துடிக்கும் இளமை`.
+
+Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TRANSLATION_GUIDE.md)  
+Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
+
+## Sole Tamil translation authorities
+
+| # | Tamil title | Structural source scans | Tamil path | Frozen blob SHA |
+|---:|---|---:|---|---|
+| 1 | `துடிக்கும் இளமை` | `5–12` | `../../articles/01-thudikkum-ilamai.md` | `3b2f40df8f9b1f02aaac917276b7bcf374185f21` |
+| 2 | `அண்ணாமலைக்கு அரோகரா!` | `13–19` | `../../articles/02-annamalaikku-arogara.md` | `3740984e52a72b514dff4fc41f54a2938d7ce793` |
+| 3 | `பூம்புகார்` | `20–24` | `../../articles/03-poompuhar.md` | `9ec5a3fd12e342a92bc02dada6dcf4297214d69d` |
+| 4 | `வெற்றி விளக்கு!` | `25–29` | `../../articles/04-vetri-vilakku.md` | `26ce57fe58a5327879155bf41c132180d71dd191` |
+
+## Structural notes
+
+- scans **1–4** — cover / title / imprint / publisher note — outside English article bodies;
+- Article 1 body — scans **5–12**;
+- Article 2 body — scans **13–19**;
+- Article 3 body — scans **20–24**;
+- Article 4 body — scans **25–29**;
+- scans **30–33** — advertisements / promotional matter — outside English article bodies;
+- terminal physical scan — **33**, advertisement matter.
+
+## Authority rules
+
+1. The pinned blob SHA, not merely the mutable path, is the T0 authority for each article.
+2. Verified page records and the controlling scan may be consulted only to resolve punctuation, quotation scope, page boundaries or source-witness questions.
+3. The raw user transcription, OCR, web transcriptions, alternate editions, remembered wording and general knowledge are **not translation authorities**.
+4. If a genuine source-supported Tamil correction changes a frozen blob, the affected English article must be reopened and re-reviewed.
+5. Source-specific labels or references must not be silently identified or expanded from outside knowledge.
+6. Quoted verse must be translated from the frozen Tamil source, not replaced with a published English translation unless explicitly authorised.
+
+## Durable non-regression readings
+
+- `ஆறணா` — canonical source price;
+- `16—12—'51` — canonical edition date punctuation;
+- `எழுச்சியூட்டும் எழுத்தோவியங்களே`;
+- `விந்தை`;
+- `உ.வே.சாமிநாத அய்யர்`;
+- `அண்ணாமலைக்கு அரோகரா!`;
+- `அரசாங்கம்`.
+
+The retired `ஆறணை` and `அண்ணனுக்கு அரசா!` readings are correction-history only.
+
+## Article order
+
+Translation order is fixed: **1 → 2 → 3 → 4**.
+
+## E0 status
+
+Frozen source pins recorded — **4/4 PASS**.  
+English article body files at E0 — **0/4**.  
+English body prose at E0 — **0**.  
+Tamil source changes during E0 — **0**.  
+Blockers — **0**.
