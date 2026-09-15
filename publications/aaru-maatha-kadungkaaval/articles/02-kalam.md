@@ -11,11 +11,11 @@ assembly_method: "concatenated from P2-verified page-level source transcriptions
 
 # களம்
 
-<!-- P3 structure corrected per user: முரசு, களம், சிறை are three separate article structures. Scan 66 is the illustrated தடை / கல்லக்குடி transition; scan 67 is blank/reverse; source heading களம் begins the body on scan 68 (next visible printed folio is 66 on scan 69). -->
+<!-- P3 structure corrected per user: முரசு, களம், சிறை are three separate article structures. Scan 66 is the illustrated களம் / கல்லக்குடி title-transition; scan 67 is blank/reverse; source heading களம் begins the body on scan 68 (next visible printed folio is 66 on scan 69). -->
 
 <!-- scan 66 / printed folio not visible -->
 
-தடை
+களம்
 
 கல்லக்குடி
 
