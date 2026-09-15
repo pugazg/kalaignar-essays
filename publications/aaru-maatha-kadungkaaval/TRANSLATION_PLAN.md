@@ -160,33 +160,32 @@ After all 3/3 articles are T5 verified:
 ## Article 3 progress — `சிறை`
 
 - T0 source prerequisite — **PASS**
-- frozen Tamil blob re-fetched and exact before T2 — **`0d860d48bcd666148c0a312ad296953f015225c2`**
+- frozen Tamil blob — **`0d860d48bcd666148c0a312ad296953f015225c2`**
 - structural scans — **108–223**
 - T1 close draft — **COMPLETE**
-- English file — `translations/en/03-sirai.md`
 - T1 English blob — **`31b3c8476ba4bd13264d0609a5553cdd1f7117b7`**
-- T2 bilingual fidelity review — **PASS**
-- T2 corrections — **21 body corrections** — 17 page-boundary/source-comment realignments + 4 semantic/textual corrections
+- T2 bilingual fidelity review — **PASS** — **21 body corrections**
 - T2 English blob — **`56dfd504cc9b315ee362c1176605e28728616d73`**
-- working English title — **Prison** — provisional until T4
-- translation status — **fidelity-reviewed**
-- ordered source-page comments — **116/116 PASS**, scans **108–223**
+- T3 Kalaignar voice review — **PASS** — **20 body corrections**
+- T3 English blob — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
+- English file — `translations/en/03-sirai.md`
+- working English title — **Prison** — provisional pending T4
+- translation status — **voice-reviewed**
+- ordered source-page comments — **116/116 PASS**
 - scan 109 blank/reverse — **no invented prose**
-- omitted Tamil sentences / clauses after T2 — **0**
-- added substantive English claims after T2 — **0**
-- untranslated Tamil body leakage — **0** except Tamil title in metadata / source comment
-- Tamil source changes during T2 — **0**
-- source-sensitive frozen readings — **PASS**
-- material T1 term choices — **reviewed / retained at T2**
-- lexicon changes at T2 — **0**
+- T2 corrections regressed — **0**
+- semantic additions introduced by T3 — **0**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes — **0**
+- material lexicon changes at T3 — **0**
 - blockers — **0**
-- T3/T4/T5 — **NOT STARTED**
+- T4/T5 — **NOT STARTED**
 
-T2 retained **Prison**, ***udanpirappu***, **Black Hole of Calcutta**, **Water Establishment Minister**, **People's Assembly** / **Speaking Assembly**, ***Kandam***, **“Kaanikkai” Warder**, ***manukkaaran***, ***kudukuduppaikkaran***, ***kechavaali***, and **triple-thread guardian**. Detailed old → corrected English with frozen Tamil basis is in `translations/en/TRANSLATION_REVIEW.md`.
+T3 preserved source-strange/source-bearing forms rather than smoothing them away, including ***udanpirappu***, **Black Hole of Calcutta**, ***thaar*** wordplay, **Water Establishment Minister**, **People's Assembly** / **Speaking Assembly**, ***Kandam***, **“Kaanikkai” Warder**, ***manukkaaran***, ***kudukuduppaikkaran***, ***kechavaali*** and **triple-thread guardian**. Full T3 old → corrected English with rationale is in `translations/en/TRANSLATION_REVIEW.md`.
 
 ## Exact next activity
 
-**Article 3 — `சிறை` — T3 voice/style review only.**
+**Article 3 — `சிறை` — T4 terminology / quotation / citation audit only.**
 
-Re-fetch frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and require T2 English blob `56dfd504cc9b315ee362c1176605e28728616d73`. Review scans **108–223** for voice, cadence, satire, repetitions, rhetoric, quoted speech and songs without changing source meaning or facts. Preserve all **116/116** source-page comments and keep scan 109 blank/reverse. Do not begin T4 unless explicitly directed.
+Re-fetch frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and require exact T3 English blob `7fa87637997c3f19b1f70fe1628a4e4bfe122164`. Audit scans **108–223** for lexicon consistency, proper names, recurring epithets, source-bearing transliterations, quotations, songs, dates, institutional terms, punctuation/source anomalies, title choice, and all **116/116** source-page comments. Do not begin T5 unless explicitly directed.
 
