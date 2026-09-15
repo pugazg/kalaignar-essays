@@ -1145,21 +1145,33 @@ User-confirmed canonical correction:
 - Article 2 remains **T0–T5 PASS / VERIFIED after targeted revalidation**.
 
 
-## English Article 3 — `சிறை` — T0/T1 checkpoint
+## English Article 3 — `சிறை` — T0/T1/T2 checkpoint
 
 - T0 — **PASS**
 - frozen Tamil blob — `0d860d48bcd666148c0a312ad296953f015225c2`
 - structural scans — **108–223**
 - T1 — **COMPLETE / draft**
-- English file — `translations/en/03-sirai.md`
 - T1 English blob — **`31b3c8476ba4bd13264d0609a5553cdd1f7117b7`**
-- working title — **Prison**
+- T2 — **PASS** — **21 body corrections**
+- T2 English blob — **`56dfd504cc9b315ee362c1176605e28728616d73`**
+- English file — `translations/en/03-sirai.md`
+- working title — **Prison** — provisional until T4
+- translation status — **fidelity-reviewed**
 - source-page comments — **116/116 PASS**
 - scan 109 blank/reverse — **no invented prose**
+- omitted Tamil sentences / clauses — **0**
+- added substantive English claims — **0**
 - Tamil body leakage — **0**
 - Tamil changes — **0**
+- material lexicon changes — **0**
 - blockers — **0**
+- T3/T4/T5 — **NOT STARTED**
+
+T2 produced **17 page-boundary/source-comment realignments** plus **4 semantic/textual corrections**. The detailed correction ledger is in `translations/en/TRANSLATION_REVIEW.md`. The working title and the reviewed source-bearing term set are carried forward unchanged for T3/T4.
 
 ### Exact next activity
 
-**Article 3 — `சிறை` — T2 bilingual fidelity review.**
+**Article 3 — `சிறை` — T3 voice/style review only.**
+
+Use frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and T2 English blob `56dfd504cc9b315ee362c1176605e28728616d73`. Preserve all **116/116** source-page comments and scan 109 blank/reverse. Do not begin T4 unless explicitly directed.
+
