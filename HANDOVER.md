@@ -2314,7 +2314,7 @@ Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2`, create `pu
 - next — **Article 3 `சிறை` T0 + T1**
 
 
-## English Article 3 — `சிறை` — T0/T1/T2/T3
+## English Article 3 — `சிறை` — T0/T1/T2/T3/T4
 
 - T0 — **PASS**
 - frozen Tamil blob — **`0d860d48bcd666148c0a312ad296953f015225c2`**
@@ -2329,32 +2329,44 @@ Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2`, create `pu
 - T2 English blob — **`56dfd504cc9b315ee362c1176605e28728616d73`**
 - T3 — **PASS** — **20 body corrections**
 - T3 English blob — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
+- T4 — **PASS** — **0 body corrections**
+- T4 body authority — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
 - English file — `publications/aaru-maatha-kadungkaaval/translations/en/03-sirai.md`
-- working English title — **Prison** — provisional pending T4
-- `translation_status: "voice-reviewed"`
+- verified English title — **Prison**
+- `translation_status: "voice-reviewed"` pending T5
 - source comments — **116/116 PASS**
-- T2 regressions — **0**
-- semantic additions introduced by T3 — **0**
+- quotation / song / title treatment — **PASS**
+- source-bearing prison / political terminology — **PASS**
+- unresolved release-blocking terminology choices — **0**
 - untranslated Tamil body leakage — **0**
-- Tamil source changes during T3 — **0**
-- material lexicon changes at T3 — **0**
+- Tamil source changes during T4 — **0**
 - blockers — **0**
-- T4/T5 — **NOT STARTED**
+- T5 — **NOT STARTED**
 
-T3 restored or sharpened source voice in **20** places without changing source facts. Durable examples include:
+T4 froze the Article 3 terminology without changing the English body. Durable decisions include:
 
-- scan 118 — **“the warrior Aruppukkottai gave us”**;
-- scan 119 — **“Even when touched, it would not budge!”**;
-- scan 121 — **“The law had flung them aside!”**;
-- scan 128 — Bharathidasan's lines **“sang a new joy into the heart”**;
-- scan 176 — **“Question marks appeared on their faces”**;
-- scans 208→209 — one continuous Kallakkudi-battalion farewell sentence restored across the page marker;
-- scan 221 — the Kallakkudi slogan now **“resound[s] at the railway station”**;
-- scan 223 — closing **“our cherished Dravida”**.
+- `உடன்பிறப்பு` → ***udanpirappu***;
+- `கல்கத்தா இருட்டறை` → **Black Hole of Calcutta**;
+- `தார்` → ***thaar*** with the source's own cattle-goad / banana-bunch wordplay;
+- `அனந்தசயனம்` → ***Ananthasayanam***;
+- `ஜல ஸ்தாபன மந்திரி` → **Water Establishment Minister**;
+- `மக்கள் மன்றம்` → **People's Assembly** in the prison polity; generic contexts remain **people's forum**;
+- `பேச்சு மன்றம்` → **Speaking Assembly**;
+- `நாட்குறைப்பு / நாட் கழிவு` → **remission**;
+- `வெள்ளைக் குல்லாய் / கருப்புக் குல்லாய்` → **white cap / black cap**;
+- `காணிக்கை வார்டர்` → **“Kaanikkai” Warder**;
+- `கண்டம்` → ***Kandam***;
+- `கும்பாபிஷேகம்` → ***kumbabhishekam***;
+- `மணுக்காரன்` → ***manukkaaran***;
+- `குடு குடுப்பைக்காரன்` → ***kudukuduppaikkaran***;
+- `கெச்சவாளி` → ***kechavaali***;
+- `முப்புரிக் காவலர்` → **triple-thread guardian**;
+- `பீர்க்காக்கள்` → ***peerkkaakkal***;
+- `குதாக்கள்` → ***khudas***;
+- `நிலவிலங்கு` → ***nila-vilangu*** / plural ***nila-vilangus***;
+- `பஸ்கி` → ***baski*** / ***baskis***.
 
-Full old → corrected English and voice/style rationale are recorded in `publications/aaru-maatha-kadungkaaval/translations/en/TRANSLATION_REVIEW.md`.
-
-T3 deliberately retained source-strange/source-bearing forms for T4 rather than polishing them away: **Prison**, ***udanpirappu***, **Black Hole of Calcutta**, ***thaar*** wordplay, **Water Establishment Minister**, **People's Assembly** / **Speaking Assembly**, ***Kandam***, **“Kaanikkai” Warder**, ***manukkaaran***, ***kudukuduppaikkaran***, ***kechavaali*** and **triple-thread guardian**.
+Existing verified cross-article choices remain consistent: Article 1 ***Ashadabhuthis*** and Article 2 ***moolavar*** are retained when they recur in Article 3. The title **Prison** is now verified at T4.
 
 The frozen source-sensitive readings remain intact: scan 110 **`அந்தி`**, scan 121 **`தலைவன்`**, scan 159 **`சூப்பிரின்டெண்ட்`**, scan 198 **`அடைந்தார்`**, scan 201 **`‘ஜோக்கர்’`**, scan 209 **`இன்ப நினைவுடன்`**.
 
@@ -2368,22 +2380,20 @@ Do not regress the user-confirmed scan-77 correction:
 
 ### Exact next activity
 
-**Article 3 `சிறை` — T4 terminology / quotation / citation audit only.**
+**Article 3 `சிறை` — T5 article verification only.**
 
-Re-fetch frozen Tamil blob **`0d860d48bcd666148c0a312ad296953f015225c2`** and require exact T3 English blob **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`** before any T4 edit.
+Re-fetch frozen Tamil blob **`0d860d48bcd666148c0a312ad296953f015225c2`** and require exact T4 body authority **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**.
 
-Audit the entire scans **108–223** article for:
+Revalidate:
 
-- working title **Prison** — decide/freeze or correct;
-- publication lexicon consistency;
-- proper names, initials and place names;
-- recurring political/religious epithets;
-- source-bearing transliterations and prison slang;
-- quoted prose, song and verse treatment;
-- dates, numbers and institutional terms;
-- punctuation / source anomalies that materially affect English;
+- T0–T4 closure;
+- verified title **Prison**;
 - all **116/116** ordered source comments;
-- scan 109 blank/reverse.
+- scan 109 blank/reverse with no prose;
+- scan 224 excluded from Article 3 prose;
+- no untranslated Tamil body leakage;
+- no unresolved release-blocking terminology / quotation choice;
+- no blockers.
 
-Stop after T4. Do not begin T5 unless explicitly directed.
+Only after all checks pass may `translation_status` be changed to `verified`. Stop after Article 3 T5. Do **not** begin any publication-level English release gate unless explicitly directed.
 
