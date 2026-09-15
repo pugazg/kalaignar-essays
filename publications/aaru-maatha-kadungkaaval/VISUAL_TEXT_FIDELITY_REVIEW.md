@@ -17,9 +17,9 @@ Rules:
 ## Progress
 
 - physical scans — **224**
-- P5 checked — **60/224**
-- completed range — **1–60**
-- next range — **61–75**
+- P5 checked — **75/224**
+- completed range — **1–75**
+- next range — **76–90**
 - current needs-review — **0**
 - current blocked — **0**
 - guessed readings — **0**
@@ -175,15 +175,56 @@ Batch P5-04 totals:
 - guessed readings — **0**
 - P5 cumulative progress — **60/224**
 
+## Batch P5-05 — scans 61–75
+
+Result: **15/15 PASS / no canonical correction**.
+
+| Scan | P5 result | Key reconfirmation |
+|---:|---|---|
+| 61 | PASS | prior P2R repairs **`வளரவிட்டு`** and **`பரவியது`** directly reconfirmed; complete body / punctuation / printed folio 58 retained |
+| 62 | PASS | full body, Latin initials, punctuation and terminal **`விழியோட்டும் -`** continuation reconfirmed |
+| 63 | PASS | scan-62 continuation **`விழியோட்டும் -` + `கோமான்!`**, numerals / quotation marks and terminal **`தரணியில்`** reconfirmed |
+| 64 | PASS | opening quotation, **`நான்சென்ஸ்`**, **`‘ரயில் நிறுத்த’ மென்றது`**, spacing / punctuation and complete ending reconfirmed |
+| 65 | PASS | prior P2R repairs **`பொதுச் செயலாளர்`** and **`முத்தமிழ் படை கெட`** directly reconfirmed; three closing **`அதிர்ந்தது முரசு`** lines and printed star retained |
+| 66 | PASS | illustrated transition directly reconfirmed as large title **`களம்`**, not `தடை`; station-board **`கல்லக்குடி`** retained; abrasion / age marks not promoted into text |
+| 67 | PASS | blank/reverse/show-through classification reconfirmed; **0 independent publication words** |
+| 68 | PASS | repeated heading **`களம்`**, prior P2R punctuation / spacing **`போராட்டம்- அதற்கு`** and **`நிதிவசூல்`**, and terminal **`எதையும் முடியாது`** reconfirmed |
+| 69 | PASS | scan-68 continuation **`எதையும் முடியாது` + `என்று என்னிடம் கூறமாட்டார்`**, names, double exclamation and full body reconfirmed |
+| 70 | PASS | **`ஜூலை 8`**, names, punctuation, body text and complete page ending reconfirmed |
+| 71 | PASS | **`கணக்குப்பார்த்தோ`**, **`மிகமிஞ்சிய`**, **`நூறுபேர்`**, punctuation and terminal **`கிடக்கிறது`** reconfirmed |
+| 72 | PASS | scan-71 **`கிடக்கிறது` + `வடநாட்டு முதலாளியால்!`** continuation, compounds, punctuation and complete page ending reconfirmed |
+| 73 | PASS | full body, numerals, hyphenation / spacing and terminal physical fragment **`வட நாட்`** reconfirmed |
+| 74 | PASS | scan-73 **`வட நாட்` + `டானின்`** continuation, quoted station name, names / initials and complete ending reconfirmed |
+| 75 | PASS | **`ஜூலை 11 - 12`**, **`S. V. லிங்கம் அண்ணா`**, quoted education-plan passage, punctuation and complete page ending reconfirmed |
+
+Historical-family verification for this batch explicitly rechecked **`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`** directly from source pixels. Representative source checks include `பூணூல்`, `இளைஞரில்`, `அண்ணா`, `தென்னாட்டவரை`, `கண்ணீரும்`, `கண்ணியமெனும்`, `தலைமையேற்று`, `சென்னை`, `இளைஞர்`, `மண்ணையும்`, `அண்ணாந்து`, and `மண்ணை`. No historical-family identity changed.
+
+Structural boundary was also reconfirmed directly:
+
+- scans **61–65** remain `முரசு`;
+- scan **65** closes `முரசு`;
+- scan **66** is the illustrated `களம்` / `கல்லக்குடி` transition;
+- scan **67** is blank/reverse;
+- scan **68** begins the `களம்` body with repeated source heading `களம்`;
+- scans **68–75** remain `களம்` body;
+- all `களம்` page-record filenames in this range remain `*-kalam.md` (with the intentional `0066-kalam-illustration.md` special case), with no stale `*-murasu.md` record.
+
+The P3 article assemblies were checked for the known landmarks in this range. `articles/01-murasu.md` retains `வளரவிட்டு`, `பரவியது`, `பொதுச் செயலாளர்`, and `முத்தமிழ் படை கெட`; `articles/02-kalam.md` retains `களம்`, `கல்லக்குடி`, `போராட்டம்- அதற்கு`, `நிதிவசூல்`, and the scan-68/69 continuation `எதையும் முடியாது` → `என்று என்னிடம் கூறமாட்டார்`. No propagation repair was required.
+
+Batch P5-05 totals:
+
+- scans checked — **15**
+- canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- P5 cumulative progress — **75/224**
+
 ## Exact next activity
 
-**P5 Batch P5-05 — physical scans 61–75.**
+**P5 Batch P5-06 — physical scans 76–90.**
 
-This next range crosses the `முரசு` → `களம்` structural boundary. Preserve it exactly:
-- scans **61–65** — `முரசு`;
-- scan **66** — illustrated **`களம்`** title-transition with station-board `கல்லக்குடி`;
-- scan **67** — blank/reverse;
-- scan **68** — repeated heading **`களம்`** and body start;
-- scans **68–75** — `களம்` body.
+Scans **76–90** remain within the `களம்` body. Preserve every page as `*-kalam.md`; do not introduce stale `*-murasu.md` naming.
 
-Continue the same direct-source, no-OCR, no-web, no-normalization protocol. Stop after scan 75.
+Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after scan 90.
