@@ -42,6 +42,17 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - because the prior record was only a placeholder, these are first canonical readings and do **not** add correction events.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R36
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from derivative extract page **51** / original physical scan **200**.
+- source-visible `திருக் கரங்களால்`, `அன்னையின்`, `மனைவிகூட`, `உடை இலாகாவை`, `சாப்பிட்டானதும்`, `வகுத்துக்கொண்டு-`, both `கடல் உருண்டை` readings, `நூறு ‘பஸ்கி’`, `மருத்துவ மனையில்`, and `மன்னை நாராயணசாமி` were reconfirmed without normalization.
+- direct line-wrap joins recorded in the canonical page were rechecked against character continuity; page ends at physical fragment `ஆகி`, with scan 201 not pulled backward into this record.
+- paper toning / age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `எண்ணெய்` (`ணை`), `அன்னையின்`, `நாராயணசாமி` (`ணா`), `மனைவிகூட` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 200 placeholder was replaced only after full direct source-pixel transcription and audit.

@@ -61,6 +61,18 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - the page therefore remains unresolved rather than promoting the contextually plausible completion.
 - no external text, grammar-based completion, or alternate edition was used.
 
+## P2R visual-fidelity re-audit — Batch R36
+
+- every **visible** printed word, numeral, Latin initial, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **49** / original physical scan **198**.
+- the existing source-obscured hold in `முதற் பரிசை அ[…]ந்தார்` was re-inspected at native embedded-image resolution, including blue-mark / RGB-channel separation; the dark-blue physical-copy mark still covers the controlling character pixels and does **not** support a secure direct reading.
+- no contextually plausible completion was promoted; the literal hold `அ[…]ந்தார்` remains unchanged.
+- all other visible wording, including `அபிவிருத்தீஸ்வாம்`, `(சக்கரசாமம்)`, `ஞாயிறன்று`, `திருவிடமருதூர்`, `வார்த்தையோட்டத்தால்`, `பேராவூரணி`, and the two-line quoted verse, was reconfirmed.
+- the separate pale blue/purple lower-right mark, paper toning and age specks remain non-publication layer.
+- mandatory historical-family verification was repeated on all visible glyphs; `மூன்றாம்` (`றா`), `நாராயணசாமி` (`ணா`), `நானும்` / `நால்வரும்` (`னா`), `சிறைச்சாலை` (`லை`) and the full visible 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **RE-AUDITED / existing NEEDS-REVIEW hold retained**.
+
 ## P2 நிலை
 
 **needs-review** — scan 198 is complete except for one physically obscured printed cluster in `முதற் பரிசை அ[…]ந்தார்`; no guess was inserted.

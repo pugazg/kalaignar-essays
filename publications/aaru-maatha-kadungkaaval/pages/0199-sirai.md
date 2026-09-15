@@ -41,6 +41,17 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - because the prior record was only a placeholder, this first canonical decoding does **not** add a correction event.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R36
+
+- every printed word, Latin initial, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **50** / original physical scan **199**.
+- the physical line-wrap reading `கூறா` + `மலிருக்க` was rechecked by historical `றா` character identity and retained as the single lexical word `கூறாமலிருக்க`; no line-break space was introduced.
+- source-visible `தப்பித்தவறி`, `C. D. மூர்த்தி`, `தெட்சணமூர்த்திதான்`, `கண்கள்போல`, `வேணு ஓடிவருவார்-தண்ணீர்`, `மொண்டு ஊற்ற`, and the complete ending were reconfirmed.
+- the faint pale blue/purple lower-left physical-copy mark and paper toning remain non-publication layer.
+- mandatory historical-family verification was repeated; `கூறாமலிருக்க` (`றா`), `நானூறுக்கு` / `நானும்` (`னா`), `தண்ணீர்` (`ணை` family), `எண்ணெய்` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 199 placeholder was replaced only after full direct source-pixel transcription and audit.

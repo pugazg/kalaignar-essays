@@ -44,6 +44,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - because the prior record was only a placeholder, these are first canonical readings and do **not** add correction events.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R36
+
+- every printed word, numeral, Latin initial, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **48** / original physical scan **197**.
+- source-visible prize wording and names including `கொரநாட்டுக் கருப்பூர் G. நாராயணசாமி`, `கம்பாநத்தம் கடல்வண்ணன்`, `முருகேசனூர்`, `திரு. வி. க. வின் உரை நடைகளும்`, `புறநானூறு`, `S. M.`, and `ஜெயங்கொண்ட சோழபுரத்தில்` were reconfirmed without name normalization.
+- paper toning / age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `மூன்றாம்` (`றா`), `நாராயணசாமி` / `அண்ணாவின்` (`ணா`), `புறநானூறு` (`னா`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 197 placeholder was replaced only after full direct source-pixel transcription and audit.

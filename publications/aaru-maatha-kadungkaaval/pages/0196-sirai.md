@@ -44,6 +44,18 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - because the prior record was only a placeholder, these are first canonical readings and do **not** add correction events.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R36
+
+- every visible printed word, quotation mark, punctuation mark, meaningful spacing, running header, visible folio, source line-wrap join and complete ending was rechecked directly from derivative extract page **47** / original physical scan **196**.
+- scan-195 open quotation continuation `சொரண்டிப்` + opening `பிழைக்கிறவன்` was reconfirmed without duplicating page-boundary text.
+- source-visible `சுருக்குன்னு`, `ஆயாலக்குறி`, `கெச்சவாளியும்`, `மாறுவேடவிழா`, `தயார்செய்து`, `வல்லவனுக்குப் புல்லும் ஆயுதம்`, and the judges' names / initials were reconfirmed.
+- direct lexical line-wrap joins previously recorded on this page were rechecked and retained only where glyph continuity supports one word.
+- paper toning / age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `நாராயணசாமி` (`ணா`), `வறுமையிலிடப்பட்ட` (`லை`), `வல்லமையில்லாத`, and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 196 placeholder was replaced only after full direct source-pixel transcription and audit.
