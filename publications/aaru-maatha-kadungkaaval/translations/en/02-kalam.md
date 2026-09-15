@@ -131,7 +131,7 @@ On the morning of the 12th, in Madras, I took leave of mother, children and wife
 
 discussing the struggle with them, we chose another executive committee to work if the present executive committee was subjected to repression. That committee was also given authority to form yet another executive committee. Thus, with organisational method, the plans for struggle and the executive committees were selected.
 
-On the morning of the 14th I went to Tiruvarur; after taking leave there, I set out for the Lalgudi public meeting. I cannot say where I was on the 13th. I slipped past because I wanted to be caught by the police only at the battlefront! I did not run away from the police who were looking for me. Ours is not that kind of movement! We ourselves will go and be arrested—we shall do our duty on the field—let the police do theirs: with that thought, after taking affectionate leave of friend Para at the hospital, I went straight to the public meeting at Lalgudi. On the way itself came the news that the police had arrested General Secretary Anna, Nedunchezhiyan, Sampath, Mathiazhagan and Natarasan—members of the executive committee—at the executive-committee meeting.
+On the morning of the 14th I went to Tiruvarur; after taking leave there, I set out for the Lalgudi public meeting. I cannot say where I was on the 13th. I must skip over that day—that is because I wanted to be caught by the police only at the battlefront! I did not run away from the police who were looking for me. Ours is not that kind of movement! We ourselves will go and be arrested—we shall do our duty on the field—let the police do theirs: with that thought, after taking affectionate leave of friend Para at the hospital, I went straight to the public meeting at Lalgudi. On the way itself came the news that the police had arrested General Secretary Anna, Nedunchezhiyan, Sampath, Mathiazhagan and Natarasan—members of the executive committee—at the executive-committee meeting.
 
 Kallakkudi no longer looked like the battlefield to me. Dravida itself seemed to have become a battlefield. News also came that
 
@@ -490,7 +490,7 @@ the others, a little from each—bone, blood, flesh. Only after eating all that 
 
 She said one day's meal was over. “Rise, O Ashoka-wheel flag! Rise still higher! Rise in the sky! Rise on the earth!” she began to sing!
 
-Drunk on blood, she leapt—leapt—laughed in derangement—laughed. Had she left only six dead? Many stood bloodied. Saying, “Let us seize prey whenever it falls into our hands,” she swept five thousand comrades into the cave of non-violence. One day—July 15! Six lives! Many tortured! Five thousand people in prisons!
+Drunk on blood, she leapt—leapt—laughed in derangement—laughed. Did she stop with six lives? Many stood bloodied. Saying, “Let us seize prey whenever it falls into our hands,” she swept five thousand comrades into the cave of non-violence. One day—July 15! Six lives! Many tortured! Five thousand people in prisons!
 
 Where do we live?—In Dravida!
 Joined to what?—To India!
