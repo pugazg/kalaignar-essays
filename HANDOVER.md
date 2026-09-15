@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P5 Batch P5-10 / scans 136–150**. P5 final strict visual fidelity is **IN PROGRESS — 150/224**. Scans 136–150 are **15/15 PASS** with **0 new canonical corrections**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. Prior P2R historical-glyph / spacing / lexical repairs and the 145→146 / 149→150 page-boundary continuations were directly reconfirmed from source pixels. Cumulative P5 canonical corrections remain **2** (scan 110 `அந்தி`; scan 121 `தலைவன்`). P3 `சிறை` remains synchronized. Next P5 range is **scans 151–165**, using the user-supplied scans-150–224 derivative extract.
+Handoff refreshed after **P5 Batch P5-11 / scans 151–165**. P5 final strict visual fidelity is **IN PROGRESS — 165/224**. Scans 151–165 are **15/15 PASS after 1 canonical correction** with **1 new canonical correction**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. Scan 159 source heading was corrected `ஜெயில் சூப்பிரின்டெண்டு:` → **`ஜெயில் சூப்பிரின்டெண்ட்:`**. Cumulative P5 canonical corrections are now **3** (scan 110 `அந்தி`; scan 121 `தலைவன்`; scan 159 heading ending `ட்`). P3 `சிறை` remains synchronized. Next P5 range is **scans 166–180** / derivative extract pages **17–31**.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 IN PROGRESS 150/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 IN PROGRESS 165/224**.
 
 Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated; Publication 12 remains the active workflow.
 
@@ -63,7 +63,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **COMPLETE / PASS — 3/3 article assemblies (`முரசு`, `களம்`, `சிறை`)**
 - P4 — **COMPLETE / PASS — source audit / completeness review**
-- P5 — **IN PROGRESS — 150/224; next scans 151–165**
+- P5 — **IN PROGRESS — 165/224; next scans 166–180**
 - English — **BLOCKED until Tamil freezes**
 
 ## Mandatory startup
@@ -2117,3 +2117,19 @@ Historical batch sections above/below retain then-current intermediate counts on
 - cumulative P5 canonical corrections — **2**
 - cumulative P5 — **150/224**
 - next — **P5 scans 151–165**, derivative extract pages **2–16** under mapping `extract page N = physical scan N+149`
+
+
+## P5 final strict visual fidelity — Batch P5-11
+
+- scans checked — **151–165 / 15 scans** using derivative extract pages **2–16**
+- result — **15/15 PASS after 1 canonical correction**
+- canonical corrections — **1**
+- scan 159 — `ஜெயில் சூப்பிரின்டெண்டு:` → **`ஜெயில் சூப்பிரின்டெண்ட்:`**; source final consonant is pulli `ட்`, not `டு`
+- new historical-glyph correction events — **0**
+- needs-review / blocked — **0 / 0**
+- guessed readings — **0**
+- prior P2R landmarks directly reconfirmed, including scan 151 `மூன்றாம்நாள்`, scan 155 `ஏற்றங்களை`, scan 156 `மாலை வரையில்`, scan 159 `குறிப்பிட்டுவிடுகிறேன்.`, scans 161–163 `கான்விக்ட்`, scan 162 `பெற்றவர்கள்தான்` / `இருபதாண்டுகளுக்குள்ளாகவே` / `சிறிது தூரத்தில்`, scan 163 `தொழுந்துரைச் சேர்ந்தவர்கள்`, scan 165 `செலவழித்தும்-` / `கண்துடைப்பு`
+- all scans remain in `சிறை`; P3 `articles/03-sirai.md` synchronized
+- cumulative P5 canonical corrections — **3**
+- cumulative P5 — **165/224**
+- next — **P5 scans 166–180 / derivative extract pages 17–31**
