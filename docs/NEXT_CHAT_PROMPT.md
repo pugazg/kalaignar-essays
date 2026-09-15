@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — துடிக்கும் இளமை / E0 English translation planning
+# NEXT CHAT PROMPT — துடிக்கும் இளமை / Article 1 T0 + T1
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,132 +8,135 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AU
 
 Do not reopen it merely for stylistic polishing.
 
-## Publication 13 — Tamil frozen
+## Publication 13 — Tamil frozen / English E0 complete
 
 Workspace:
 
 `publications/thudikkum-ilamai/`
 
-Controlling source:
+Durable state:
 
-`TVA_BOK_0063985_துடிக்கும்_இளமை.pdf`
-
-Tamil gate state:
-
-- P0 — **PASS**
-- P1 — **PASS — 33/33**
-- P2 — **PASS — 33/33**
-- P3 — **PASS — 4/4**
-- P4 — **PASS**
-- P5 — **COMPLETE / PASS — 33/33**
-- P5 canonical text corrections — **0**
-- historical-glyph unresolved — **0**
-- fidelity discrepancies — **0**
+- Tamil P0–P5 — **COMPLETE / PASS**
 - Tamil — **COMPLETE / STRICT-REVIEWED / FROZEN**
-- English — **READY / NOT STARTED**
+- English E0 — **COMPLETE / PASS**
+- English article body files — **0/4**
+- blockers — **0**
 
-P5 authority:
+Translation plan:
 
-`publications/thudikkum-ilamai/VISUAL_TEXT_FIDELITY_REVIEW.md`
+`publications/thudikkum-ilamai/TRANSLATION_PLAN.md`
 
-## Frozen Tamil authorities
+English tracker:
 
-Translation authority is fixed to these strict-reviewed article blobs:
+`publications/thudikkum-ilamai/translations/en/README.md`
 
-1. `articles/01-thudikkum-ilamai.md`
-   - title — `துடிக்கும் இளமை`
-   - scans — **5–12**
-   - blob — **`3b2f40df8f9b1f02aaac917276b7bcf374185f21`**
+Frozen source map:
 
-2. `articles/02-annamalaikku-arogara.md`
-   - title — `அண்ணாமலைக்கு அரோகரா!`
-   - scans — **13–19**
-   - blob — **`3740984e52a72b514dff4fc41f54a2938d7ce793`**
+`publications/thudikkum-ilamai/translations/en/SOURCE_MAP.md`
 
-3. `articles/03-poompuhar.md`
-   - title — `பூம்புகார்`
-   - scans — **20–24**
-   - blob — **`9ec5a3fd12e342a92bc02dada6dcf4297214d69d`**
+Living lexicon:
 
-4. `articles/04-vetri-vilakku.md`
-   - title — `வெற்றி விளக்கு!`
-   - scans — **25–29**
-   - blob — **`26ce57fe58a5327879155bf41c132180d71dd191`**
+`publications/thudikkum-ilamai/translations/en/LEXICON.md`
 
-Translation order:
+Review ledger:
 
-**1 → 2 → 3 → 4**
+`publications/thudikkum-ilamai/translations/en/TRANSLATION_REVIEW.md`
 
-Non-body scans **1–4** and advertisement scans **30–33** are publication structure/metadata and are not English article bodies.
-
-## Permanent English policy
-
-Read fresh:
+Permanent policy:
 
 `ESSAY_TRANSLATION_GUIDE.md`
 
-Core rule:
-
 > **Translate the language; do not neutralise the voice.**
 
-English translation must preserve Kalaignar's direct address, repetition, sarcasm, ridicule, rhetorical questions, exclamations, political vocabulary, quotation structure and polemical force.
+## Frozen Tamil authorities
 
-The frozen Tamil article assemblies are the sole normal translation authorities.
+1. `articles/01-thudikkum-ilamai.md` — scans **5–12** — **`3b2f40df8f9b1f02aaac917276b7bcf374185f21`**
+2. `articles/02-annamalaikku-arogara.md` — scans **13–19** — **`3740984e52a72b514dff4fc41f54a2938d7ce793`**
+3. `articles/03-poompuhar.md` — scans **20–24** — **`9ec5a3fd12e342a92bc02dada6dcf4297214d69d`**
+4. `articles/04-vetri-vilakku.md` — scans **25–29** — **`26ce57fe58a5327879155bf41c132180d71dd191`**
 
-Do not translate from:
+Translation order remains **1 → 2 → 3 → 4**.
 
-- the raw user-supplied transcription;
-- OCR;
-- web transcriptions;
-- alternate editions;
-- remembered wording;
-- superseded P2/P3 states.
+## Exact activity — Article 1 T0 + T1 only
 
-## Exact activity — E0 only
+Article:
 
-Set up the English translation layer. Do **not** draft Article 1 English prose during this activity.
+**`துடிக்கும் இளமை`**
 
-Create / initialize:
+Frozen Tamil authority:
 
-1. `publications/thudikkum-ilamai/TRANSLATION_PLAN.md`
-2. `publications/thudikkum-ilamai/translations/en/README.md`
-3. `publications/thudikkum-ilamai/translations/en/SOURCE_MAP.md`
-4. `publications/thudikkum-ilamai/translations/en/LEXICON.md`
-5. `publications/thudikkum-ilamai/translations/en/TRANSLATION_REVIEW.md`
+`publications/thudikkum-ilamai/articles/01-thudikkum-ilamai.md`
 
-E0 requirements:
+Required blob:
 
-- translation identity — **project-created English translation**;
-- permanent policy link — `ESSAY_TRANSLATION_GUIDE.md`;
-- pin frozen Tamil blobs — **4/4**;
-- translation order — **1 → 2 → 3 → 4**;
-- record source scan ranges;
-- record that scans 1–4 and 30–33 are outside English article bodies;
-- define T0 → T5 gates for each article;
-- define publication-wide E6 consistency review and E7 release closeout;
-- initialize a living lexicon for source-specific / culturally loaded terms and quotation handling;
-- initialize an empty review ledger;
-- create **0 English body text** during E0;
-- Tamil source changes — **0**;
-- blockers — **0** unless a real planning issue is found.
+**`3b2f40df8f9b1f02aaac917276b7bcf374185f21`**
 
-After E0, update:
+Source scans:
 
-- publication README
-- publication audit
-- root HANDOVER
+**5–12**
+
+### T0
+
+Before drafting:
+
+- fetch live `main`;
+- fetch the Article-1 Tamil assembly;
+- require exact blob SHA match;
+- confirm `status: "strict-reviewed"`;
+- confirm source scans **5–12**;
+- if blob differs, stop and reconcile instead of translating a superseded source.
+
+### T1
+
+Create:
+
+`publications/thudikkum-ilamai/translations/en/01-thudikkum-ilamai.md`
+
+Translate the **entire Article 1** paragraph by paragraph and clause by clause from the frozen Tamil assembly.
+
+Requirements:
+
+- choose a working English title from the source, but keep it provisional until T4;
+- metadata must record Tamil title, source Tamil path, frozen Tamil blob, scans **5–12**, language `en`, and `translation_status: "draft"`;
+- preserve direct address: `தலைவரே! தாய்மாரே! திராவிட மாணவ மணிகளே!`;
+- preserve rhetorical questions as questions;
+- preserve repetition of `துடிக்கும் இளமை` / `இளமை துடிக்கிறது` rather than summarising it;
+- preserve exclamations, accumulative lists, abrupt contrasts, sarcasm and polemical bite;
+- preserve ideological vocabulary: `திராவிடம்`, `திராவிடர்`, `ஆரிய`, `அஹிம்ஸா`, `சமத்துவம்`, `சுயராஜ்யம்`, etc., according to the living lexicon and immediate context;
+- do not sanitise harsh religious/caste polemic;
+- do not insert present-day distancing language such as “Karunanidhi argues”;
+- preserve quotations as quotations;
+- do not silently identify source-specific references using outside knowledge;
+- preserve complete paragraph coverage;
+- add ordered source comments for scans **5, 6, 7, 8, 9, 10, 11, 12** in the form `<!-- Tamil source: scan N -->`;
+- no Tamil body paragraph may be omitted;
+- no substantive English claim may be added;
+- no Tamil source change is allowed.
+
+At T1 close, update:
+
+- `translations/en/README.md`
+- `translations/en/LEXICON.md` with choices actually established in Article 1
+- `translations/en/TRANSLATION_REVIEW.md`
+- `TRANSLATION_PLAN.md`
+- publication `README.md`
+- publication `audit.md`
+- root `HANDOVER.md`
 - this prompt
 
-Expected E0 result:
+Expected T1 close:
 
-- E0 — **COMPLETE / PASS**
-- frozen Tamil authorities pinned — **4/4**
-- English body files — **0/4**
-- English body prose created — **0**
+- T0 — **PASS**
+- T1 — **COMPLETE / draft**
+- English Article-1 file — **1/4**
+- source comments — **8/8 ordered**
+- omitted Tamil paragraphs/clauses — **0**
+- added substantive claims — **0**
+- Tamil changes — **0**
 - blockers — **0**
 
-## Next gate after successful E0
+## Stop condition
 
-**Article 1 `துடிக்கும் இளமை` — T0 source pin + T1 close English draft.**
+Stop after T1.
 
-Do not begin T1 during E0.
+**Do not begin T2 bilingual fidelity review unless the user explicitly says to proceed.**
