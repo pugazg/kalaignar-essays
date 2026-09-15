@@ -22,7 +22,7 @@ Date: **2026-09-15**
 | # | Tamil title | Frozen Tamil blob | E0 source pin |
 |---:|---|---|---|
 | 1 | `முரசு` | `7a41617cd48f8507bc12074fb48d6016fae5cead` | PASS |
-| 2 | `களம்` | `60c155dc93a4543e267ccbca5573d6f5b70e5672` | PASS |
+| 2 | `களம்` | `711b86300a3340ee73271a1cf613408905314498` | PASS |
 | 3 | `சிறை` | `0d860d48bcd666148c0a312ad296953f015225c2` | PASS |
 
 ## Durable Tamil provenance relevant to translation
@@ -173,7 +173,7 @@ T4 body authority — **`bbf4de306e1d0f8442237ee654abbbdb7244d7d5`**.
 
 ### Article 2 — `களம்` — T0–T5 PASS / VERIFIED
 
-- frozen Tamil blob — `60c155dc93a4543e267ccbca5573d6f5b70e5672`
+- frozen Tamil blob — `711b86300a3340ee73271a1cf613408905314498`
 - structural scans — **66–106**
 - T0 — **PASS**
 - T1 — **COMPLETE**
@@ -189,7 +189,7 @@ T4 body authority — **`bbf4de306e1d0f8442237ee654abbbdb7244d7d5`**.
 - T4 body authority — `d5ac559f9a489a98b305b047ae651d97343e5f37`
 - T4 body corrections — **3**
 - T5 — **PASS / VERIFIED**
-- verified English blob — `9d37041cda4a6a8808b8009b7a86ba9e3b533246`
+- verified English blob — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`
 - translation status — `verified`
 - source-page comments — **41/41 PASS**
 - paragraph-block scan matching — **41/41 PASS**
@@ -213,8 +213,25 @@ Post-review checks:
 
 T2 corrections:
 
-1. **scan 77** — T1 **“I slipped past because...”** was too interpretive for `தாண்டிவிடப்பட்டேன்`; corrected to **“I must skip over that day—that is because I wanted to be caught by the police only at the battlefront!”**;
+1. **scan 77 — superseded after T5** — the then-canonical reading `தாண்டிவிடப்பட்டேன்` led to T2 **“I must skip over that day...”**. The user later corrected the Tamil to **`தூண்டிவிடப்பட்டேன்`**; see the post-T5 revalidation below;
 2. **scan 106** — T1 **“Had she left only six dead?”** over-resolved `ஆறு உயிரோடு விட்டாளா`; corrected to the closer **“Did she stop with six lives?”**.
+
+#### Post-T5 source correction / revalidation — PASS
+
+The user explicitly corrected scan **77 / printed 74** after Article 2 had already reached T5:
+
+- prior canonical Tamil — `தாண்டிவிடப்பட்டேன்`;
+- corrected canonical Tamil — **`தூண்டிவிடப்பட்டேன்`**;
+- corrected current Tamil authority — **`711b86300a3340ee73271a1cf613408905314498`**;
+- previous English — **“I must skip over that day—that is because I wanted to be caught by the police only at the battlefront!”**;
+- corrected English — **“I was driven by the desire that I should fall into the hands of the police only at the battlefront—that is why!”**;
+- current verified English blob — **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**;
+- source comments after revalidation — **41/41 PASS**;
+- paragraph-block scan matching — **41/41 PASS**;
+- Tamil source correction count after P5 closure — **1**;
+- blockers — **0**.
+
+The original T2 scan-77 correction is therefore **superseded**, not retained as current translation authority.
 
 #### T3 Kalaignar voice review — PASS
 
@@ -259,7 +276,7 @@ T4 body authority — `d5ac559f9a489a98b305b047ae651d97343e5f37`.
 - T0 / T1 / T2 / T3 / T4 — **PASS**
 - verified title — **The Battlefield**
 - final metadata — `translation_status: verified`
-- verified English blob — **`9d37041cda4a6a8808b8009b7a86ba9e3b533246`**
+- verified English blob — **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**
 - source-page comments — **41/41 PASS**
 - paragraph-block scan matching — **41/41 PASS**
 - untranslated Tamil body leakage — **0**
