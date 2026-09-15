@@ -20,7 +20,7 @@ Direct scan inspection establishes:
 - author — **`மு. கருணாநிதி`**;
 - publisher — **`K. R. நாராயணன்`**;
 - publisher address — **`வி. ஆர். பிள்ளைத் தெரு, சென்னை-5`**;
-- price — **`ஆறணை`**;
+- price — **`ஆறணா`**;
 - edition statement — **`முதற் பதிப்பு`**;
 - edition date — **`16—12—'51`**;
 - printer line — **`அச்சிட்டது: ஸ்ரீ மகள் அச்சகம், சென்னை-1.`**
@@ -71,9 +71,8 @@ Read character identity from enlarged source pixels; do not modernize wording.
 
 ## P2 source-fidelity correction record
 
-Batch 001 direct scan review superseded two shorthand/intake readings:
+- scan 2 price — canonical **`ஆறணா`**. A previous P2 pass misread the historical `ணா` typeform as `ணை`; the user explicitly corrected it, and the earlier `ஆறணை` reading is withdrawn;
+- scan 3 date punctuation — intake shorthand `16-12-'51` → source-visible **`16—12—'51`**;
+- scan 13 article heading — P1/intake `அண்ணனுக்கு அரசா!` → direct source heading **`அண்ணாமலைக்கு அரோகரா!`**.
 
-- scan 2: `ஆறணா` → source-visible **`ஆறணை`**;
-- scan 3: `16-12-'51` → source-visible **`16—12—'51`**.
-
-These are now the canonical printed-identity readings.
+These are the current canonical source readings.
