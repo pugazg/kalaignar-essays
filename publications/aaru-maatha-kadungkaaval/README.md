@@ -1034,7 +1034,7 @@ Durable English setup:
 Frozen article authorities:
 
 1. `முரசு` — `7a41617cd48f8507bc12074fb48d6016fae5cead`
-2. `களம்` — `60c155dc93a4543e267ccbca5573d6f5b70e5672`
+2. `களம்` — `711b86300a3340ee73271a1cf613408905314498`
 3. `சிறை` — `0d860d48bcd666148c0a312ad296953f015225c2`
 
 Translation order: **1 → 2 → 3**.
@@ -1110,7 +1110,7 @@ Durable source-bearing Article-1 forms include **Mazhavars**, **Daridra Narayana
 
 ## English Article 2 — `களம்` — T0–T5 closure
 
-- frozen Tamil blob — `60c155dc93a4543e267ccbca5573d6f5b70e5672`
+- frozen Tamil blob — `711b86300a3340ee73271a1cf613408905314498`
 - T0 — **PASS**
 - T1 — **COMPLETE** — `78cd7094b8b57c00e6528b40c3c3768d7014971f`
 - T2 — **PASS** — 2 fidelity corrections — `3ffc005a7e8653319a86954d42ac6d9f047e4c81`
@@ -1118,7 +1118,7 @@ Durable source-bearing Article-1 forms include **Mazhavars**, **Daridra Narayana
 - T4 — **PASS** — 3 source-term corrections — `d5ac559f9a489a98b305b047ae651d97343e5f37`
 - T5 — **PASS / VERIFIED**
 - verified title — **The Battlefield**
-- verified English blob — **`9d37041cda4a6a8808b8009b7a86ba9e3b533246`**
+- verified English blob — **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**
 - source comments — **41/41 PASS**
 - paragraph-block scan matching — **41/41 PASS**
 - Tamil body leakage — **0**
@@ -1130,3 +1130,16 @@ Durable source-bearing Article-2 forms include ***parani***, ***ondavanda pidari
 ### Exact next activity
 
 **Article 3 — `சிறை` — T0 source pin + T1 close draft.**
+
+
+## Post-freeze correction — scan 77
+
+User-confirmed canonical correction:
+
+- `தாண்டிவிடப்பட்டேன்` → **`தூண்டிவிடப்பட்டேன்`**
+- corrected Article 2 Tamil blob — **`711b86300a3340ee73271a1cf613408905314498`**
+- Article 2 English scan-77 rendering — **“I was driven by the desire that I should fall into the hands of the police only at the battlefront—that is why!”**
+- current verified Article 2 English blob — **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**
+- P5 correction count remains **3**; this is a **post-P5** correction.
+- post-freeze canonical corrections — **1**
+- Article 2 remains **T0–T5 PASS / VERIFIED after targeted revalidation**.
