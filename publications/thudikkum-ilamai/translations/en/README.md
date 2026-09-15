@@ -26,7 +26,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - Tamil source changes during T0–T5 — **0**
 - blockers — **0**
 - E6 publication-wide consistency review — **COMPLETE / PASS**
-- E7 release closeout — **NOT STARTED**
+- E7 release closeout — **COMPLETE / PASS — RELEASE COMPLETE / CLOSED**
 
 ## Article tracker
 
@@ -70,8 +70,26 @@ Authority: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)
 - unresolved consistency defects — **0**
 - blockers — **0**
 
-## Exact next activity
+## E7 English release closeout
 
-**E7 — English release closeout.**
+**COMPLETE / PASS — RELEASE COMPLETE / CLOSED**
 
-Re-pin the four unchanged verified English blobs, verify every control document agrees, confirm Tamil remains frozen and unchanged, and close English release only if the release audit passes.
+Authority: [`E7_RELEASE_CLOSEOUT.md`](E7_RELEASE_CLOSEOUT.md)
+
+- Tamil frozen authorities — **4/4 unchanged**
+- English verified authorities — **4/4 unchanged**
+- `translation_status: verified` — **4/4**
+- source comments — **25/25 ordered / PASS**
+- E6 — **COMPLETE / PASS**
+- E7 English body corrections — **0**
+- E7 English metadata changes — **0**
+- E7 Tamil changes — **0**
+- unresolved release blockers — **0**
+- English release — **COMPLETE / CLOSED**
+- Publication 13 overall workflow — **RELEASE COMPLETE / FROZEN**
+
+## Next activity
+
+No Publication 13 archival or translation activity remains pending.
+
+Do not start another publication unless explicitly directed by the user.
