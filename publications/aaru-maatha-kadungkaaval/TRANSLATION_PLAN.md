@@ -117,17 +117,20 @@ After all 3/3 articles are T5 verified:
 - T1 close draft — **COMPLETE**
 - English file — `translations/en/01-murasu.md`
 - T1 English blob — **`a94630638fa194290e0761259131cc4548d429e4`**
+- T2 bilingual fidelity review — **PASS**
+- T2 English blob — **`ffea867e2163d8a87763bb3fba798d467268da84`**
+- T2 body corrections — **8**
 - working English title — **The Drum**
 - translation status — **draft**
 - ordered Tamil source-page comments — **56/56 preserved**, scans **10–65**
 - Tamil source changes during T0/T1 — **0**
 - blockers — **0**
-- T2/T3/T4/T5 — **NOT STARTED**
+- T3/T4/T5 — **NOT STARTED**
 
 Working choices intentionally left for later review include the title `முரசு` → **The Drum**, contextual `அறப்போர்` → **righteous struggle**, the Kulithalai / `குருவித்தலை` wordplay, `ஆஷாடபூதிகள்` → **religious pretenders**, and the closing source-bearing `முத்தமிழ்` → **Muttamil**.
 
 ## Exact next activity
 
-**Article 1 — `முரசு` — T2 bilingual fidelity review.**
+**Article 1 — `முரசு` — T3 Kalaignar voice review.**
 
-Re-fetch frozen Tamil blob `7a41617cd48f8507bc12074fb48d6016fae5cead` and T1 English draft blob `a94630638fa194290e0761259131cc4548d429e4`. Compare the full article paragraph by paragraph and clause by clause for omissions, additions, names, numbers, quotations, negatives, logical connectors, repetition, source-page comments and source-sensitive terminology. Record every T2 correction in the review ledger. Do not begin T3 in the same activity unless explicitly directed.
+Use frozen Tamil blob `7a41617cd48f8507bc12074fb48d6016fae5cead` and T2 English blob `ffea867e2163d8a87763bb3fba798d467268da84`. Re-read the whole article for cadence, direct address, humour, mockery, repetition, martial imagery, abrupt contrasts, slogans and emotional temperature without undoing T2 fidelity. Record all T3 voice corrections and do not begin T4 unless explicitly directed.
