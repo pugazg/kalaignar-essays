@@ -41,3 +41,11 @@ Visible numbered body folios generally equal the physical scan number. Opening/h
 ## P2 rule
 
 Every one of the **33 physical scans** requires its own canonical page record, including advertisements and physical-copy marks.
+
+## P2 progress
+
+- scans **1–5** — **VERIFIED / PASS**;
+- scans **6–33** — **NOT STARTED**;
+- cumulative P2 — **5/33 verified; 0 needs-review; 0 blocked; 0 guessed**;
+- scan 5 begins Article 1 and ends at source-visible physical fragment **`பிம்பங்`**;
+- next — **scans 6–10**.
