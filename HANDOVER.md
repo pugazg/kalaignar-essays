@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P5 Final Batch P5-13 / scans 196–224**. P5 final strict visual fidelity is **COMPLETE / PASS — 224/224** and the Tamil archival layer is **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**. Final scans 196–224 are **29/29 PASS** with **0 new canonical corrections**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. Cumulative P5 canonical corrections remain **3** (scan 110 `அந்தி`; scan 121 `தலைவன்`; scan 159 `சூப்பிரின்டெண்ட்`). Scan 198's obscured cluster remains the prior explicit user-confirmed `அடைந்தார்`, not a P5 guess. All **3/3** article assemblies are synchronized. English translation is now **READY / NOT STARTED**; Publication 13 remains queued.
+Handoff refreshed after **P5 Final Batch P5-13 / scans 196–224**. P5 final strict visual fidelity is **COMPLETE / PASS — 224/224** and the Tamil archival layer is **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**. Final scans 196–224 are **29/29 PASS** with **0 new canonical corrections**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. Cumulative P5 canonical corrections remain **3** (scan 110 `அந்தி`; scan 121 `தலைவன்`; scan 159 `சூப்பிரின்டெண்ட்`). Scan 198's obscured cluster remains the prior explicit user-confirmed `அடைந்தார்`, not a P5 guess. All **3/3** article assemblies are synchronized. English E0 planning/setup is now **COMPLETE / PASS** with all 3 frozen Tamil article blobs pinned, tracker/source-map/lexicon/review records initialized, and **0 English body files** created at E0. Next is **Article 1 `முரசு` — T0 + T1**. Publication 13 remains queued.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` — TAMIL ARCHIVAL COMPLETE / FROZEN — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 PASS 224/224; English READY / NOT STARTED**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` — TAMIL ARCHIVAL COMPLETE / FROZEN — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 PASS 224/224; English E0 COMPLETE / PASS; Article 1 T0/T1 NEXT**.
 
 Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated; Publication 12 remains the active workflow.
 
@@ -64,7 +64,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P3 — **COMPLETE / PASS — 3/3 article assemblies (`முரசு`, `களம்`, `சிறை`)**
 - P4 — **COMPLETE / PASS — source audit / completeness review**
 - P5 — **COMPLETE / PASS — 224/224 — visual-text-fidelity complete**
-- English — **READY / NOT STARTED — Tamil frozen**
+- English — **E0 COMPLETE / PASS — frozen Tamil pins 3/3; 0/3 drafts; Article 1 `முரசு` T0/T1 next**
 
 ## Mandatory startup
 
@@ -2179,3 +2179,29 @@ Historical batch sections above/below retain then-current intermediate counts on
 ### Next activity
 
 Start the **English translation layer** for Publication 12 from the frozen Tamil article assemblies. Do not alter frozen Tamil text absent genuinely new direct source evidence. Publication 13 `துடிக்கும் இளமை` remains queued and must not be activated unless explicitly redirected.
+
+
+## English translation — E0 planning/setup
+
+- result — **COMPLETE / PASS**
+- translation identity — **project-created English translation**
+- permanent policy — `ESSAY_TRANSLATION_GUIDE.md`
+- publication plan — `publications/aaru-maatha-kadungkaaval/TRANSLATION_PLAN.md`
+- tracker — `publications/aaru-maatha-kadungkaaval/translations/en/README.md`
+- source map — `publications/aaru-maatha-kadungkaaval/translations/en/SOURCE_MAP.md`
+- living lexicon — `publications/aaru-maatha-kadungkaaval/translations/en/LEXICON.md`
+- review ledger — `publications/aaru-maatha-kadungkaaval/translations/en/TRANSLATION_REVIEW.md`
+- frozen Tamil authorities pinned — **3/3**
+  - `முரசு` — `7a41617cd48f8507bc12074fb48d6016fae5cead`
+  - `களம்` — `60c155dc93a4543e267ccbca5573d6f5b70e5672`
+  - `சிறை` — `0d860d48bcd666148c0a312ad296953f015225c2`
+- translation order — **1 → 2 → 3**
+- English body files — **0/3**
+- blockers — **0**
+- Tamil changes during E0 — **0**
+
+### Exact next activity
+
+**Article 1 — `முரசு` — T0 source pin + T1 close draft.**
+
+Re-fetch blob `7a41617cd48f8507bc12074fb48d6016fae5cead`, establish the working English title, create `translations/en/01-murasu.md`, preserve ordered source-page comments, and translate the full article paragraph by paragraph under the repository translation policy. Update the living lexicon, tracker, review ledger and this handover. Do not modify frozen Tamil.
