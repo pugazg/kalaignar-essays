@@ -10,7 +10,7 @@
 | P2R visual-fidelity re-audit | **COMPLETE — 224/224 physical scans re-audited** |
 | P3 | **COMPLETE / PASS — 3/3 article assemblies: முரசு / களம் / சிறை** |
 | P4 | **COMPLETE / PASS — source audit / completeness review** |
-| P5 | **IN PROGRESS — 60/224; next 61–75** |
+| P5 | **COMPLETE / PASS — 224/224 — visual-text-fidelity complete** |
 
 ## P0 audit
 
@@ -1992,7 +1992,7 @@ P3 blockers — **0**.
 
 ## Exact next activity
 
-**P5 — final strict visual text-fidelity pass.**
+**English translation startup — Tamil P0–P5 is complete and frozen.**
 
 
 ## P5 final strict visual fidelity — Batch P5-01
@@ -2051,3 +2051,26 @@ P3 blockers — **0**.
 - cumulative P5 progress — **60/224**
 - article-assembly check — prior P2R repairs in scans 50, 54 and 55 remain synchronized
 - next range — **61–75**
+
+
+## P5 final closure — COMPLETE / PASS
+
+Final independent strict visual pass completed across **224/224 physical scans**.
+
+- final batch — scans **196–224** / derivative extract pages **47–75**
+- final batch result — **29/29 PASS**
+- final-batch canonical corrections — **0**
+- P5 cumulative canonical corrections — **3**
+- P5 new historical-glyph correction events — **0**
+- article assemblies rechecked — **3/3**
+- current needs-review — **0**
+- current blocked — **0**
+- guessed readings — **0**
+- unresolved fidelity discrepancies — **0**
+- scan 198 physical obstruction was rechecked; canonical `அடைந்தார்` remains the prior explicit user-confirmed resolution and was not guessed during P5
+- scan 201 `‘ஜோக்கர்’` — reconfirmed
+- scan 209 `இன்ப நினைவுடன்` — reconfirmed
+- scan 223 — final text-bearing page / closing verse + ★ — reconfirmed
+- scan 224 — terminal back cover / `திராவிடப்பண்ணை` publisher device — reconfirmed
+- Tamil archival status — **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**
+- English — **READY / NOT STARTED**
