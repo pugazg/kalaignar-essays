@@ -171,3 +171,48 @@ Date: **2026-09-15**
 **E6 — publication-wide English consistency review.**
 
 Check all four verified articles together for recurring ideological terms, source-bearing transliterations, mythological names, literary-work titles, quoted material, title style, page comments, tone consistency and accidental smoothing. Do not begin E7 until E6 is separately completed.
+
+
+## E6 publication-wide English consistency review
+
+**COMPLETE / PASS**
+
+Authority: `E6_CONSISTENCY_REVIEW.md`.
+
+Reviewed together:
+
+- **Throbbing Youth** — `46c70fd2bf702a061d35b45383c8c8e0841852d9`
+- **Arohara to Annamalai!** — `1cfce7827fec69de08c98dd78edf4a06a7216a41`
+- **Poompuhar** — `67649c4db83881840137073bafa24d31062fb86c`
+- **Lamp of Victory!** — `083d514b93d58484f49e3193235b9631d995cd8e`
+
+Checks:
+
+- recurring ideological vocabulary — **PASS**
+- religious / mythological house style — **PASS**
+- source-bearing transliterations — **PASS**
+- literary-work titles / author names — **PASS**
+- quotation / dialogue / verse treatment — **PASS**
+- title style — **PASS**
+- ordered source comments — **25/25 PASS**
+- names / numerals / proper nouns — **PASS**
+- sarcasm / rhetorical force / exclamations — **PASS**
+- unwanted academic distancing — **0**
+- untranslated Tamil body leakage — **0**
+- E6 body corrections — **0**
+- Tamil source changes — **0**
+- unresolved consistency defects — **0**
+- blockers — **0**
+
+All four T5 English blob SHAs remain unchanged after E6.
+
+## Publication-wide gates
+
+- E6 cross-article consistency review — **COMPLETE / PASS**
+- E7 release closeout — **NOT STARTED**
+
+## Exact next activity
+
+**E7 — English release closeout.**
+
+Perform release-state verification only. Do not revise prose merely for style.
