@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P5 Batch P5-12 / scans 166–195**. Per user instruction, this iteration was enlarged to **30 physical scans**. P5 final strict visual fidelity is **IN PROGRESS — 195/224**. Scans 166–195 are **30/30 PASS** with **0 new canonical corrections**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. Sensitive prior readings including `அரசாங்கத்திடம்`, `அவர்களை அக்பர்`, `பஞ்சணை மீது`, `இருக்கவேண்டுமென்பதற்காக`, `மொழிப்பற்று — பித்தா ?`, page-boundary continuations, and source punctuation were directly reconfirmed from derivative source pixels. Cumulative P5 canonical corrections remain **3**. P3 `சிறை` remains synchronized. Final P5 range is **scans 196–224** / derivative extract pages **47–75**.
+Handoff refreshed after **P5 Final Batch P5-13 / scans 196–224**. P5 final strict visual fidelity is **COMPLETE / PASS — 224/224** and the Tamil archival layer is **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**. Final scans 196–224 are **29/29 PASS** with **0 new canonical corrections**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. Cumulative P5 canonical corrections remain **3** (scan 110 `அந்தி`; scan 121 `தலைவன்`; scan 159 `சூப்பிரின்டெண்ட்`). Scan 198's obscured cluster remains the prior explicit user-confirmed `அடைந்தார்`, not a P5 guess. All **3/3** article assemblies are synchronized. English translation is now **READY / NOT STARTED**; Publication 13 remains queued.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 IN PROGRESS 195/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` — TAMIL ARCHIVAL COMPLETE / FROZEN — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 PASS 224/224; English READY / NOT STARTED**.
 
 Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated; Publication 12 remains the active workflow.
 
@@ -63,8 +63,8 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **COMPLETE / PASS — 3/3 article assemblies (`முரசு`, `களம்`, `சிறை`)**
 - P4 — **COMPLETE / PASS — source audit / completeness review**
-- P5 — **IN PROGRESS — 195/224; final scans 196–224**
-- English — **BLOCKED until Tamil freezes**
+- P5 — **COMPLETE / PASS — 224/224 — visual-text-fidelity complete**
+- English — **READY / NOT STARTED — Tamil frozen**
 
 ## Mandatory startup
 
@@ -2151,3 +2151,31 @@ Historical batch sections above/below retain then-current intermediate counts on
 - cumulative P5 canonical corrections — **3**
 - cumulative P5 — **195/224**
 - next / final — **P5 scans 196–224 / derivative extract pages 47–75 (29 scans)**
+
+
+## P5 final strict visual fidelity — Batch P5-13 / CLOSURE
+
+- scans checked — **196–224 / 29 scans / derivative extract pages 47–75**
+- result — **29/29 PASS**
+- canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- needs-review / blocked / guessed — **0 / 0 / 0**
+- scan 198 source-obscured cluster rechecked; canonical **`அடைந்தார்`** remains the prior explicit user-confirmed resolution; no guessing introduced
+- scan 201 **`‘ஜோக்கர்’`** — reconfirmed
+- scan 209 **`இன்ப நினைவுடன்`** — reconfirmed
+- scan 218 heading **`சிறை திறந்தது`** — reconfirmed
+- scan 221 heading **`வெற்றி! வெற்றி!!`** — reconfirmed
+- scan 223 — final text-bearing scan / closing verse + ★ — reconfirmed
+- scan 224 — back cover / `திராவிடப்பண்ணை`, `தெப்பக்குளம் / திருச்சி` — reconfirmed
+- P3 `articles/03-sirai.md` final-range sensitive readings synchronized; no propagation repair required
+- cumulative P5 — **224/224**
+- cumulative P5 canonical corrections — **3**
+- P5 historical-glyph correction events — **0**
+- article assemblies rechecked — **3/3**
+- unresolved fidelity discrepancies — **0**
+- Tamil final status — **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**
+- English — **READY / NOT STARTED**
+
+### Next activity
+
+Start the **English translation layer** for Publication 12 from the frozen Tamil article assemblies. Do not alter frozen Tamil text absent genuinely new direct source evidence. Publication 13 `துடிக்கும் இளமை` remains queued and must not be activated unless explicitly redirected.
