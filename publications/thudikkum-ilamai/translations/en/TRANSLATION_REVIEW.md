@@ -163,7 +163,7 @@ Date: **2026-09-15**
 
 ## Publication-wide gates
 
-- E6 cross-article consistency review — **NOT STARTED**
+- E6 cross-article consistency review — **COMPLETE / PASS**
 - E7 release closeout — **COMPLETE / PASS**
 
 ## Exact next activity
@@ -209,7 +209,7 @@ All four T5 English blob SHAs remain unchanged after E6.
 ## Publication-wide gates
 
 - E6 cross-article consistency review — **COMPLETE / PASS**
-- E7 release closeout — **NOT STARTED**
+- E7 release closeout — **COMPLETE / PASS**
 
 ## Exact next activity
 
