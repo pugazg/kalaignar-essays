@@ -10,7 +10,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 | # | Tamil title | Structural source scans | Tamil path | Frozen blob SHA |
 |---:|---|---:|---|---|
 | 1 | `முரசு` | `10–65` | `../../articles/01-murasu.md` | `7a41617cd48f8507bc12074fb48d6016fae5cead` |
-| 2 | `களம்` | `66–106` | `../../articles/02-kalam.md` | `60c155dc93a4543e267ccbca5573d6f5b70e5672` |
+| 2 | `களம்` | `66–106` | `../../articles/02-kalam.md` | `711b86300a3340ee73271a1cf613408905314498` |
 | 3 | `சிறை` | `108–223` | `../../articles/03-sirai.md` | `0d860d48bcd666148c0a312ad296953f015225c2` |
 
 ## Structural notes
@@ -36,3 +36,10 @@ Translation order is fixed: **1 → 2 → 3**.
 
 Frozen source pins recorded: **3/3 PASS**.  
 English article translation begun: **No**.
+
+
+## Post-freeze source correction
+
+- Article 2 `களம்`, scan 77: user-confirmed **`தாண்டிவிடப்பட்டேன்` → `தூண்டிவிடப்பட்டேன்`**.
+- Article 2 Tamil authority was re-pinned from superseded blob `60c155dc93a4543e267ccbca5573d6f5b70e5672` to **`711b86300a3340ee73271a1cf613408905314498`**.
+- the corrected blob above is now the sole Tamil authority for Article 2.
