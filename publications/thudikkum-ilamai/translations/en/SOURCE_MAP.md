@@ -70,7 +70,7 @@ All four articles are individually T5 verified.
 | 4 | `வெற்றி விளக்கு!` | **Lamp of Victory!** | `04-vetri-vilakku.md` | `083d514b93d58484f49e3193235b9631d995cd8e` |
 
 Article verification state — **4/4 T5 VERIFIED**.  
-Publication E6/E7 — **NOT STARTED**.
+Publication E6 — **COMPLETE / PASS**; E7 — **COMPLETE / PASS**.
 
 The frozen Tamil blobs above remain the source authorities. A later Tamil correction requires reopening the affected verified English article.
 
@@ -95,3 +95,31 @@ Publication-wide review revalidated all four T5 English authorities without body
 E6 authority: `E6_CONSISTENCY_REVIEW.md`.
 
 Next gate: **E7 English release closeout**.
+
+
+## E7 release authority freeze
+
+**COMPLETE / PASS**
+
+Final released English authorities:
+
+1. **Throbbing Youth** — `46c70fd2bf702a061d35b45383c8c8e0841852d9`
+2. **Arohara to Annamalai!** — `1cfce7827fec69de08c98dd78edf4a06a7216a41`
+3. **Poompuhar** — `67649c4db83881840137073bafa24d31062fb86c`
+4. **Lamp of Victory!** — `083d514b93d58484f49e3193235b9631d995cd8e`
+
+Final frozen Tamil authorities:
+
+1. `3b2f40df8f9b1f02aaac917276b7bcf374185f21`
+2. `3740984e52a72b514dff4fc41f54a2938d7ce793`
+3. `9ec5a3fd12e342a92bc02dada6dcf4297214d69d`
+4. `26ce57fe58a5327879155bf41c132180d71dd191`
+
+- source comments — **25/25 PASS**
+- English body drift after E6 — **0**
+- Tamil drift during E7 — **0**
+- release blockers — **0**
+
+E7 authority: `E7_RELEASE_CLOSEOUT.md`.
+
+Publication 13 English is **RELEASE COMPLETE / CLOSED**.
