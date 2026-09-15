@@ -137,8 +137,27 @@ Verified English authorities:
 3. **Poompuhar** — `67649c4db83881840137073bafa24d31062fb86c`
 4. **Lamp of Victory!** — `083d514b93d58484f49e3193235b9631d995cd8e`
 
+## E6 publication-wide English consistency review
+
+**COMPLETE / PASS**
+
+Authority: `translations/en/E6_CONSISTENCY_REVIEW.md`.
+
+- articles reviewed — **4/4**
+- verified English blobs changed — **0/4**
+- source comments — **25/25 PASS**
+- ideological-vocabulary defects — **0**
+- mythological-name / house-style defects — **0**
+- literary-title / author-name defects — **0**
+- quotation / dialogue / verse defects — **0**
+- source-bearing transliteration defects — **0**
+- tone / accidental-smoothing defects — **0**
+- untranslated Tamil body leakage — **0**
+- unresolved consistency defects — **0**
+- blockers — **0**
+
 ## Exact next activity
 
-**E6 — publication-wide English consistency review.**
+**E7 — English release closeout.**
 
-Do not run E7 release closeout until E6 is separately completed.
+Perform release-state verification only. Re-pin all four verified English blobs, confirm control documents agree, confirm frozen Tamil remains unchanged, and close the English release only if all checks pass.
