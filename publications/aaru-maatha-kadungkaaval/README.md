@@ -34,7 +34,7 @@ Direct native inspection established:
 
 ## Current state
 
-- Publication 12 — **TAMIL ARCHIVAL COMPLETE / FROZEN — English Article 1 `முரசு` T0 PASS / T1 COMPLETE / T2 PASS; T3 NEXT**
+- Publication 12 — **TAMIL ARCHIVAL COMPLETE / FROZEN — English Article 1 `முரசு` T0–T5 PASS / VERIFIED; Article 2 `களம்` T0/T1 NEXT**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
@@ -42,7 +42,7 @@ Direct native inspection established:
 - P3 — **COMPLETE / PASS — 3/3 article assemblies: `முரசு`, `களம்`, `சிறை`**
 - P4 — **COMPLETE / PASS — publication source audit / completeness review**
 - P5 — **COMPLETE / PASS — 224/224 — visual-text-fidelity complete**
-- English — **E0 COMPLETE / PASS; T0 1/3 PASS; T1 1/3 COMPLETE; 1/3 draft; Article 1 `முரசு` T3 next**
+- English — **E0 PASS; verified articles 1/3; Article 1 `முரசு` T0–T5 VERIFIED; Article 2 `களம்` T0/T1 next**
 
 ## Historical Tamil glyph policy
 
@@ -1084,3 +1084,25 @@ Re-fetch the frozen Tamil blob and T1 English blob, compare the complete article
 ### Exact next activity
 
 **Article 1 — `முரசு` — T3 Kalaignar voice review.**
+
+
+## English Article 1 — `முரசு` — T3–T5 closure
+
+- T3 — **PASS** — 4 voice corrections
+- T3 blob — `fcd98ef6c92d14b10f69f0fcda76fe8507e14331`
+- T4 — **PASS** — 1 source-term correction
+- T4 body authority — `bbf4de306e1d0f8442237ee654abbbdb7244d7d5`
+- T5 — **PASS / VERIFIED**
+- verified title — **The Drum**
+- verified English blob — **`d629c2b13c6d01170bd96bd5e88409a4352f61c5`**
+- source comments — **56/56 PASS**
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- Tamil changes — **0**
+- blockers — **0**
+
+Durable source-bearing Article-1 forms include **Mazhavars**, **Daridra Narayanas**, ***ponnai sandhi***, ***Ashadabhuthis***, **Muttamil**, **Achariyar**, and the Kallar/thief pun.
+
+### Exact next activity
+
+**Article 2 — `களம்` — T0 source pin + T1 close draft.**
