@@ -428,17 +428,60 @@ Final release checks:
 
 **ARTICLE 3 T5 RESULT: PASS / VERIFIED.**
 
-All three publication articles are now individually **T5 VERIFIED**. This does **not** by itself declare the publication English-translation complete; the separate publication-level cross-article consistency / release gate has not started.
+## Publication-level English release gate
+
+### E6 publication-wide consistency review — PASS
+
+Verified article authorities:
+
+- Article 1 `முரசு` — **The Drum** — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`;
+- Article 2 `களம்` — **The Battlefield** — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`;
+- Article 3 `சிறை` — **Prison** — `103a2492d110006cea520e03efd40fb3c1a5bdbc`.
+
+Cross-article checks:
+
+- all three verified English blobs matched live `main` before E6 — **PASS**;
+- all three frozen Tamil blobs matched their pinned authorities — **PASS**;
+- recurring names and source-chosen labels — **PASS**;
+- **Achariyar**, **Dravida Munnetra Kazhagam**, **Dravida Nadu**, **Kallakkudi**, **Dalmiyapuram**, and **righteous struggle** are consistent where the same source term recurs;
+- `Dravida / Dravidian / Dravidians` remains contextual rather than mechanically homogenised — **PASS**;
+- shared source-bearing ***Nam Nadu*** — Articles 1–2 — **PASS**;
+- shared source-bearing ***Ashadabhuthis*** — Articles 1 and 3 — **PASS**;
+- shared source-bearing ***moolavar*** — Articles 2 and 3 — **PASS**;
+- repeated Nehru **“Nonsense!”** / train-stoppage polemic and the Kallakkudi / Dalmiyapuram contrast remain source-sensitive — **PASS**;
+- source-bearing puns, unexplained labels and transliterations remain restrained rather than externally glossed — **PASS**;
+- quotation, song and work-title treatment — **PASS**;
+- verified title style — **The Drum / The Battlefield / Prison** — **PASS**; no article was altered merely to force identical use of `The`;
+- tone consistency / Kalaignar voice — **PASS**;
+- accidental smoothing introduced by later articles — **none found**;
+- ordered source-page comments — **213/213 PASS** = 56 + 41 + 116;
+- untranslated Tamil body leakage — **0 / PASS**;
+- publication article completeness — **3/3 verified / PASS**;
+- E6 article body corrections — **0**;
+- blockers — **0**.
+
+### E7 English release closeout — PASS
+
+No verified article body changed during E6/E7. Therefore the verified article blobs remain:
+
+- **The Drum** — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`;
+- **The Battlefield** — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`;
+- **Prison** — `103a2492d110006cea520e03efd40fb3c1a5bdbc`.
+
+Release state:
+
+- article T5 verification — **3/3 PASS**;
+- E6 publication-wide consistency — **PASS**;
+- E7 English release closeout — **PASS**;
+- publication English blockers — **0**;
+- unresolved translation choices — **0**;
+- final status — **ENGLISH-TRANSLATION COMPLETE / RELEASE CLOSED**.
+
+**PUBLICATION ENGLISH RELEASE RESULT: PASS.**
 
 ## Exact next activity
 
-**Publication-level English cross-article consistency / release gate only.**
+Publication 12 `ஆறுமாதக் கடுங்காவல்` is now **Tamil archival complete / frozen and English-translation complete / release closed**.
 
-Use the three verified article authorities:
-
-- Article 1 `முரசு` — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`;
-- Article 2 `களம்` — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`;
-- Article 3 `சிறை` — `103a2492d110006cea520e03efd40fb3c1a5bdbc`.
-
-Audit recurring names and epithets, `Aryan` / `Dravidian` terminology, repeated slogans, periodical/work titles, source-bearing transliterations and puns, quotation/song treatment, title style, tone consistency, source-page-comment completeness, and accidental smoothing across all three verified articles. Do not start that gate unless explicitly directed.
+Do not reopen it merely for stylistic polishing. Publication 13 `துடிக்கும் இளமை` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED** and must not begin P2 until explicitly activated by the user.
 
