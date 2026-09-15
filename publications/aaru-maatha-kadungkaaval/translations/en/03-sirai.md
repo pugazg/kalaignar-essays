@@ -7,7 +7,7 @@ source_tamil: "../../articles/03-sirai.md"
 source_tamil_blob_sha: "0d860d48bcd666148c0a312ad296953f015225c2"
 source_scan_pages: "108-223"
 language: "en"
-translation_status: "voice-reviewed"
+translation_status: "verified"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
