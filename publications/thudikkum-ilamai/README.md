@@ -15,7 +15,7 @@ Controlling source: `TVA_BOK_0063985_துடிக்கும்_இளமை
 - P4 source audit — **COMPLETE / PASS**;
 - P5 strict visual-text-fidelity pass — **COMPLETE / PASS — 33/33**;
 - Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**;
-- English — **T0–T5 COMPLETE / PASS — 4/4 articles VERIFIED; E6 COMPLETE / PASS; E7 pending**;
+- English — **COMPLETE / RELEASE CLOSED — T0–T5 4/4 VERIFIED; E6 PASS; E7 PASS**;
 - source PDF committed — **No**.
 
 ## Printed identity
@@ -195,8 +195,27 @@ Authority: [`translations/en/E6_CONSISTENCY_REVIEW.md`](translations/en/E6_CONSI
 - unresolved consistency defects — **0**
 - blockers — **0**
 
+## E7 English release closeout
+
+**COMPLETE / PASS — RELEASE COMPLETE / CLOSED**
+
+Authority: [`translations/en/E7_RELEASE_CLOSEOUT.md`](translations/en/E7_RELEASE_CLOSEOUT.md)
+
+- frozen Tamil authorities — **4/4 unchanged**
+- verified English authorities — **4/4 unchanged**
+- `translation_status: verified` — **4/4**
+- ordered source comments — **25/25 PASS**
+- E6 — **COMPLETE / PASS**
+- English body changes during E7 — **0**
+- English metadata changes during E7 — **0**
+- Tamil changes during E7 — **0**
+- unresolved terminology / consistency / release blockers — **0**
+- Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**
+- English translation — **COMPLETE / RELEASED / FROZEN**
+- publication workflow — **RELEASE COMPLETE / FROZEN**
+
 ## Exact next activity
 
-**E7 — English release closeout.**
+None for this publication.
 
-Perform release-state verification only; do not revise prose merely for style.
+Do not reopen `துடிக்கும் இளமை` merely for stylistic polishing or stale workflow prompts.
