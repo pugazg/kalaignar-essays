@@ -156,8 +156,27 @@ Authority: `translations/en/E6_CONSISTENCY_REVIEW.md`.
 - unresolved consistency defects — **0**
 - blockers — **0**
 
+## E7 English release closeout
+
+**COMPLETE / PASS — RELEASE COMPLETE / CLOSED**
+
+Authority: `translations/en/E7_RELEASE_CLOSEOUT.md`.
+
+- frozen Tamil authorities — **4/4 unchanged**
+- verified English authorities — **4/4 unchanged**
+- `translation_status: verified` — **4/4**
+- ordered source comments — **25/25 PASS**
+- E6 — **COMPLETE / PASS**
+- post-E6 English body drift — **0**
+- E7 English body corrections — **0**
+- E7 English metadata corrections — **0**
+- E7 Tamil corrections — **0**
+- unresolved terminology / consistency / release blockers — **0**
+- English release — **COMPLETE / RELEASED / FROZEN**
+- Publication 13 overall workflow — **RELEASE COMPLETE / FROZEN**
+
 ## Exact next activity
 
-**E7 — English release closeout.**
+None for Publication 13.
 
-Perform release-state verification only. Re-pin all four verified English blobs, confirm control documents agree, confirm frozen Tamil remains unchanged, and close the English release only if all checks pass.
+Do not reopen for stylistic polishing. Future work starts only on explicit user direction.
