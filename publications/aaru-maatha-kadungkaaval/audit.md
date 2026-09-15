@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 175/224 scans complete; next 176–190; 15 scans/iteration** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 190/224 scans complete; next 191–205; 15 scans/iteration** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1885,8 +1885,33 @@ Historical-family verification added **0 new correction events**; cumulative cou
 
 P2R progress — **175/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **176–190**.
 
+
+### Batch R35 — scans 176–190
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 176 | PASS | full text / `14ம்` / source forms / complete ending confirmed |
+| 177 | PASS | quotation sequence / `13ந்` / terminal continuation confirmed |
+| 178 | PASS | scan-177 continuation / `வியனார்டோ` / terminal dash confirmed |
+| 179 | PASS after historical correction | `பஞ்சண மீது` → source-visible `பஞ்சணை மீது`; historical `ணை` restored |
+| 180 | PASS | scan-179 continuation / `மூன்றுநிலை` / `மூன்றாவது` / ending confirmed |
+| 181 | PASS | `ராம் ராண்டும்` / `கிள்ளை` / ending confirmed |
+| 182 | PASS | quotation blocks / `மயிலைத்தீட்டி` / `அண்ணா!` / ending confirmed |
+| 183 | PASS | heading `ஜனநாயகம்` / initials / ending confirmed |
+| 184 | PASS | line-wrap `உரு` + `வெடுத்திடுவது` = `உருவெடுத்திடுவது`; terminal `முன்னி` confirmed |
+| 185 | PASS | scan-184 continuation / source forms / terminal fragment confirmed |
+| 186 | PASS | scan-185 continuation / quotation / terminal `கொள்ளைப்புற` confirmed |
+| 187 | PASS | scan-186 continuation / all printed numerals / ending confirmed |
+| 188 | PASS | `ஒன்றுக ஒப்பிட்டுவிட்டேனென்று` / source spacing / terminal fragment confirmed |
+| 189 | PASS after correction | `இருக்கவேண்டு மென்பதற்காக` → `இருக்கவேண்டுமென்பதற்காக`; physical line wrap rejoined |
+| 190 | PASS | heading `மொழிப்பற்று — பித்தா ?` / terminal `பாராட்டியிருக்க` confirmed; scan 191 not opened |
+
+Historical-family verification added **1 new correction event** — historical `ணை` in `பஞ்சணை` at scan 179. Cumulative count is now **20**. Ordinary source-fidelity corrections — **1**.
+
+P2R progress — **190/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **191–205**.
+
 ## Exact next activity
 
-**P2R Batch R35 — scans 176–190.**
+**P2R Batch R36 — scans 191–205.**
 
-Perform the same **15-page** word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Use derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`, extract pages 27–41 = original scans 176–190. Stop after scan 190; do not process scan 191 / extract page 42.
+Perform the same **15-page** word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Use derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`, extract pages **42–56** = original scans **191–205**. Stop after scan 205; do not process scan 206 / extract page 57.
