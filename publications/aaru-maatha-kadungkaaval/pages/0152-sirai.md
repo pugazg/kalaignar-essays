@@ -53,6 +53,18 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R31
+
+- every printed word, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **3** / original physical scan **152**.
+- source-visible forms including `குதாக்கள்`, `கள்ளிக்காடுகளா இருந்து`, `ஐயாயிரவரும்`, `சலவைசாலை யென்றதும்`, and `அவைகளைப்பற்றி` were reconfirmed without normalization.
+- the repeated `சலவைசாலை` / `சலவைசாலை யென்றதும்` forms and the page’s dash punctuation were checked word by word.
+- paper toning / scattered age specks remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `சூறாவளி` (`றா`), `அண்ணாவும்` (`ணா`), and `சலவைசாலை` (`லை`) were reconfirmed, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **18**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 152 placeholder was replaced only after full direct source-pixel transcription and audit.

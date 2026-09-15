@@ -50,6 +50,18 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R31
+
+- every printed word, punctuation mark, quotation mark, meaningful spacing, running header, visible folio and terminal physical fragment was rechecked directly from derivative extract page **5** / original physical scan **154**.
+- source-visible forms including `பெட்ஷீட்டுகளும்`, `சிறைச்சாலைகட்கும்`, `ராஜமுந்திரி`, `‘கூட்டு கேங்’`, and `உத்திரவிடுவார்கள்` were reconfirmed without modernization.
+- exact terminal `மண்வெட்டி கொண்டு` was preserved; scan 155 begins `விரைவில் செதுக்கியும்விடலாம்.`, directly continuing the sentence.
+- the small lower-body dark copy mark remains non-publication layer and does not obscure the text.
+- mandatory historical-family verification was repeated; `சிறையில்` / `வேலூரில்` / `பாறைகளில்` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **18**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 154 placeholder was replaced only after full direct source-pixel transcription and audit.

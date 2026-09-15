@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 150/224 scans complete; next 151–155** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 155/224 scans complete; next 156–160** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1819,8 +1819,23 @@ Historical-family verification added **0 new correction events**; cumulative cou
 P2R progress — **150/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **151–155**.
 
 
+### Batch R31 — scans 151–155
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 151 | PASS after historical correction | `மூன்றும்நாள்` → source-visible `மூன்றாம்நாள்`; historical `றா` restored |
+| 152 | PASS | complete text / `சூறாவளி` / repeated `சலவைசாலை` forms / ending confirmed |
+| 153 | PASS | complete text / source spacing / dark copy mark excluded / ending confirmed |
+| 154 | PASS | complete text / source forms / terminal `மண்வெட்டி கொண்டு` confirmed |
+| 155 | PASS after historical correction | scan-154 continuation; `ஏற்றங்களே` → source-visible `ஏற்றங்களை`; historical `ளை` restored; terminal `கடுங்காவல்` confirmed; scan 156 not opened |
+
+Historical-family verification added **2 new correction events** — historical `றா` in `மூன்றாம்நாள்` at scan 151 and historical `ளை` in `ஏற்றங்களை` at scan 155. Cumulative count is now **19**. Ordinary source-fidelity corrections — **0**.
+
+P2R progress — **155/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **156–160**.
+
+
 ## Exact next activity
 
-**P2R Batch R31 — scans 151–155.**
+**P2R Batch R32 — scans 156–160.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Use derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`, extract pages 2–6 = original scans 151–155. Stop after scan 155; do not process scan 156.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Use derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`, extract pages 7–11 = original scans 156–160. Stop after scan 160; do not process scan 161 / extract page 12.

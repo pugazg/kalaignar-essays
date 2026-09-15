@@ -44,6 +44,17 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R31
+
+- every printed word, punctuation mark, quotation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **4** / original physical scan **153**.
+- source-visible forms including `சலவை சாலை யொன்றைக்`, `காண்விக்ட் வார்டர்`, `தொழிற்சாலை யிருக்கிறது`, `மாகாண மெங்குமுள்ள`, and `அலுமினியத்தட்டு` were reconfirmed without normalization.
+- the small dark copy mark in the middle text field remains non-publication layer and does not obscure the canonical reading.
+- mandatory historical-family verification was repeated; `சலவை` / `சாலை` (`லை`), `மாகாண` and same-edition sensitive families were checked directly, with the full 13-family set verified by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **18**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 153 placeholder was replaced only after full direct source-pixel transcription and audit.

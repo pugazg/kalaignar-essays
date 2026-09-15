@@ -38,7 +38,7 @@ Direct native inspection established:
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 150/224 scans; next 151–155**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 155/224 scans; next 156–160**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -97,7 +97,7 @@ Notable durable findings:
 - scans 16–17 repeat printed folios 13–14;
 - scan 18 resumes printed folio 15;
 - physical scans are never deduplicated;
-- historical-glyph correction count — **17**: scan 13 contributes the prior correction; Batch 021 adds **8** historical-family source-pixel corrections; Batch 041 adds **2** scan-205 historical-form corrections; P2R Batch R21 adds **2** historical-`ளை` repairs at scan 103.
+- historical-glyph correction count — **19**: scan 13 contributes the prior correction; Batch 021 adds **8** historical-family source-pixel corrections; Batch 041 adds **2** scan-205 historical-form corrections; P2R Batch R21 adds **2** historical-`ளை` repairs at scan 103; P2R Batch R25 adds **1** historical-`ளை` repair; P2R Batch R28 adds **3** historical-`றா` repairs; P2R Batch R31 adds **2** repairs (`றா` at scan 151 and `ளை` at scan 155).
 - scans 26–30 — **5/5 verified**, printed folios 23–27, no new holds.
 - scans 31–35 — **5/5 verified**, printed folios 28–32, headings `ஜூன் 19` / `விடிந்தது:`, no new holds; scan 35 ends at `வேலாயுதம்`.
 - scans 36–40 — **5/5 verified**, printed folios 33–37, scan 40 heading `திருச்சியிலே :`, no new holds; scan 40 ends at `கற்றுக்`.
@@ -817,8 +817,23 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - P2R progress — **150/224**
 
 
+### Batch R31 — scans 151–155
+
+- scans 151–155 — **5/5 re-audited**
+- scan 151 — historical `றா`: `மூன்றும்நாள்` → **`மூன்றாம்நாள்`**
+- scans 152–154 — PASS / no canonical correction
+- scan 155 — historical `ளை`: `ஏற்றங்களே` → **`ஏற்றங்களை`**
+- scan 154→155 continuation reconfirmed; scan 155 terminal `கடுங்காவல்` preserved; scan 156 not opened
+- ordinary source-fidelity corrections — **0**
+- new historical-glyph correction events — **2**
+- cumulative historical-glyph correction-event count — **19**
+- P2 totals remain **222 verified / 2 needs-review**
+- guessed readings remain **0**
+- P2R progress — **155/224**
+
+
 ## Exact next activity
 
-**P2R Batch R31 — scans 151–155.**
+**P2R Batch R32 — scans 156–160.**
 
-Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract pages **2–6** map to original scans **151–155**. Stop after scan 155; do not process scan 156.
+Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract pages **7–11** map to original scans **156–160**. Stop after scan 160; do not process scan 161 / extract page 12.

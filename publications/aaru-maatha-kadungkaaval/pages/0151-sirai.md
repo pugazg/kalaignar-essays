@@ -23,7 +23,7 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 
 சிறையிலே யிருக்கும் போதுதான் அந்த செய்திகளும் நமக்குக் கிடைத்தன.
 
-ஈரான் பூமியிலே - ஷா ஓட்டம் - முசாதிக் வெற்றி - என்ற செய்தி முதல்நாள் வந்தது! மூன்றும்நாள் முசாதிக் கைது - ஷா ஆட்டம் - என்ற செய்தி கிடைத்தது!
+ஈரான் பூமியிலே - ஷா ஓட்டம் - முசாதிக் வெற்றி - என்ற செய்தி முதல்நாள் வந்தது! மூன்றாம்நாள் முசாதிக் கைது - ஷா ஆட்டம் - என்ற செய்தி கிடைத்தது!
 
 கர்ச்சித்துக் கொண்டிருந்த காஷ்மீரத்துச் சிங்கம் - ஷேக் அப்துல்லா - முதல்நாள் பிரதமர் - மறுநாள் கைது - சிக்கலைத் தவிர்க்க முடியாத சிலோன் பிரதமர் சேனநாயகா - சிகிச்சையும் ஓய்வும் தேவையென்று- அரசு கட்டில் விட்டு இறங்கிவிட்டார்!
 
@@ -32,7 +32,7 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - visible printed folio — **148**.
 - running header — `கருணாநிதி`.
 - extract page **2** = physical scan **151**.
-- source-visible forms including `செங்கோ வேந்திகள்`, `சிறையிலே யிருக்கும்`, `மூன்றும்நாள்`, `கர்ச்சித்துக்`, and `சிக்கலைத் தவிர்க்க முடியாத` were preserved without normalization.
+- source-visible forms including `செங்கோ வேந்திகள்`, `சிறையிலே யிருக்கும்`, `மூன்றாம்நாள்`, `கர்ச்சித்துக்`, and `சிக்கலைத் தவிர்க்க முடியாத` were preserved without normalization.
 - page ends with complete `அரசு கட்டில் விட்டு இறங்கிவிட்டார்!`.
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -48,6 +48,18 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
+
+## P2R visual-fidelity re-audit — Batch R31
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **2** / original physical scan **151**.
+- historical-`றா` repair: `மூன்றும்நாள் முசாதிக் கைது` → **`மூன்றாம்நாள் முசாதிக் கைது`**. The enlarged source glyph is the same historical `றா` identity already established elsewhere in this edition; it is not `று`.
+- source-visible forms including `செங்கோ வேந்திகள்`, `சிறையிலே யிருக்கும்`, `கர்ச்சித்துக்`, and `சிக்கலைத் தவிர்க்க முடியாத` were otherwise reconfirmed.
+- paper toning / scattered age specks remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `மூன்றாம்நாள்` restores `றா`, while `வேலை` / `சிறையிலே` / `சிக்கலைத்` reconfirm `லை`; the full 13-family set was checked by character identity.
+- new historical-family correction events — **1**; cumulative count becomes **18**.
+- ordinary source-fidelity corrections on this scan — **0**.
+- result — **PASS after historical-glyph correction**.
+
 
 ## P2 நிலை
 

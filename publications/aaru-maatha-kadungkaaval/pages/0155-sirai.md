@@ -19,7 +19,7 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 
 சிறைக்குள்ளேயே திருடுபவர்கள்-வேலைக்குப் பயந்து ஒளிந்துகொள்பவர்கள் - சிறை சட்டங்களை மீறி நடப்பவர்கள் - உடனடியாக தண்டனைக்கு உட்படுத்தப்படுவார்கள்.
 
-மாடுபோல ஏற்றங்களே இழுத்து தண்ணீர்பாய்ச்சுகிற வேலைகளையும் அவர்கள் தான் செய்யவேண்டும். எவ்வளவு குளிர் அடித்தாலும் சரி; ஒரு கால் சட்டை - ஒரு அரைக் கை சட்டை - ஒரு குல்லா - இவைகளால் தடுத்துக் கொண்டுதான் படுத்துக்கொள்ளவேண்டும். நாங்கள் சிலர் பி. வகுப்பு கைதிகளாயிருந்தாலும் கூட கடுங்காவல்
+மாடுபோல ஏற்றங்களை இழுத்து தண்ணீர்பாய்ச்சுகிற வேலைகளையும் அவர்கள் தான் செய்யவேண்டும். எவ்வளவு குளிர் அடித்தாலும் சரி; ஒரு கால் சட்டை - ஒரு அரைக் கை சட்டை - ஒரு குல்லா - இவைகளால் தடுத்துக் கொண்டுதான் படுத்துக்கொள்ளவேண்டும். நாங்கள் சிலர் பி. வகுப்பு கைதிகளாயிருந்தாலும் கூட கடுங்காவல்
 
 ## அச்சு அமைப்பு
 
@@ -27,7 +27,7 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - running header — `கருணாநிதி`.
 - extract page **6** = physical scan **155**.
 - opening `விரைவில் செதுக்கியும்விடலாம்.` directly continues scan 154's terminal `மண்வெட்டி கொண்டு`.
-- source-visible forms including `அப்போதுதானே`, `சிறையதிகாரிகளால்`, `நிலவிலங்கு`, `திருடுபவர்கள்-வேலைக்குப்`, `ஏற்றங்களே`, and `தண்ணீர்பாய்ச்சுகிற` were preserved without normalization.
+- source-visible forms including `அப்போதுதானே`, `சிறையதிகாரிகளால்`, `நிலவிலங்கு`, `திருடுபவர்கள்-வேலைக்குப்`, `ஏற்றங்களை`, and `தண்ணீர்பாய்ச்சுகிற` were preserved without normalization.
 - page ends at the physical fragment `கடுங்காவல்`; scan 156 continues it.
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -44,6 +44,20 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
+
+## P2R visual-fidelity re-audit — Batch R31
+
+- every printed word, punctuation mark, quotation mark, meaningful spacing, running header, visible folio and terminal physical fragment was rechecked directly from derivative extract page **6** / original physical scan **155**.
+- scan 154 terminal `மண்வெட்டி கொண்டு` → this page’s opening `விரைவில் செதுக்கியும்விடலாம்.` continuation was reconfirmed.
+- historical-`ளை` repair: `மாடுபோல ஏற்றங்களே இழுத்து` → **`மாடுபோல ஏற்றங்களை இழுத்து`**. Enlarged source pixels show the historical object-case `ளை` identity in `ஏற்றங்களை`, not `ளே`.
+- source-visible forms including `அப்போதுதானே`, `சிறையதிகாரிகளால்`, `நிலவிலங்கு`, `திருடுபவர்கள்-வேலைக்குப்`, and `தண்ணீர்பாய்ச்சுகிற` were otherwise reconfirmed.
+- exact terminal physical fragment `கடுங்காவல்` was preserved; **scan 156 / extract page 7 was not opened or processed in Batch R31**.
+- paper toning / scattered dark copy marks remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `ஏற்றங்களை` restores historical `ளை`; `கைவிலங்கு`, `நிலவிலங்கு`, `வேலைகளையும்`, and `தண்டனைக்கு` were also checked directly; the full 13-family set was verified by character identity.
+- new historical-family correction events — **1**; cumulative count becomes **19**.
+- ordinary source-fidelity corrections on this scan — **0**.
+- result — **PASS after historical-glyph correction**.
+
 
 ## P2 நிலை
 

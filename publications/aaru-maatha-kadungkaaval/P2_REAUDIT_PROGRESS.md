@@ -20,12 +20,12 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **150/224**
-- completed range — **1–150**
-- next range — **151–155**
+- re-audited — **155/224**
+- completed range — **1–155**
+- next range — **156–160**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
-- cumulative historical-glyph correction events — **17**
+- cumulative historical-glyph correction events — **19**
 
 ## Batch R01 — scans 1–5
 
@@ -714,8 +714,33 @@ Ordinary source-fidelity corrections in Batch R30 — **0**.
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
 
+## Batch R31 — scans 151–155
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 151 | body / folio 148 | PASS after historical correction | `மூன்றும்நாள்` → source-visible `மூன்றாம்நாள்`; historical `றா` restored |
+| 152 | body / folio 149 | PASS | full text / `சூறாவளி` historical `றா` / repeated `சலவைசாலை` forms / complete ending confirmed |
+| 153 | body / folio 150 | PASS | full text / source spacing / dark copy mark excluded / complete ending confirmed |
+| 154 | body / folio 151 | PASS | full text / source forms / terminal `மண்வெட்டி கொண்டு` confirmed |
+| 155 | body / folio 152 | PASS after historical correction | scan-154 continuation; `ஏற்றங்களே` → source-visible `ஏற்றங்களை`; historical `ளை` restored; terminal `கடுங்காவல்` confirmed; scan 156 not opened |
+
+Historical-family findings:
+
+- scan 151 — historical `றா` restored in `மூன்றாம்நாள்`;
+- scan 152 — `சூறாவளி` (`றா`), `அண்ணாவும்` (`ணா`), `சலவைசாலை` (`லை`);
+- scan 153 — `சலவை` / `சாலை` (`லை`) and full-family check;
+- scan 154 — `சிறையில்` / `வேலூரில்` / `பாறைகளில்` and full-family check;
+- scan 155 — historical `ளை` restored in `ஏற்றங்களை`; `கைவிலங்கு` / `நிலவிலங்கு` / `வேலைகளையும்` / `தண்டனைக்கு` reconfirmed;
+- all 13 tracked families were explicitly checked on every scan by character identity;
+- new historical-family correction events — **2**; cumulative count becomes **19**.
+
+Ordinary source-fidelity corrections in Batch R31 — **0**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
+
 ## Exact next activity
 
-**Batch R31 — physical scans 151–155.**
+**Batch R32 — physical scans 156–160.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **155**; do not process scan 156.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Use derivative extract pages **7–11** for original scans **156–160**. Stop after scan **160**; do not process scan 161 / extract page 12.
