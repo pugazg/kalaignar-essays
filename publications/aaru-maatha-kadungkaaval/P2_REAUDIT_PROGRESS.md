@@ -15,7 +15,7 @@ For every batch:
 - make only source-supported corrections;
 - do not use OCR, web copies, Wikisource, TVA web text, alternate editions, or contextual completion.
 
-Existing P2 source-obscured holds at scans **18** and **198** remain open unless this re-audit produces genuinely new source evidence.
+The former P2 source-obscured holds at scans **18** and **198** were resolved after P2R by explicit user confirmation.
 
 ## Progress
 
@@ -23,7 +23,7 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 - re-audited — **224/224 — COMPLETE**
 - completed range — **1–224**
 - next range — **none; P2R complete**
-- P2 canonical status — **222 verified / 2 needs-review**
+- P2 canonical status — **224 verified / 0 needs-review — COMPLETE / PASS**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **20**
 
@@ -910,8 +910,16 @@ Historical-family findings:
 
 Ordinary source-fidelity corrections in Batch R37 final — **1**.
 
-P2R is **COMPLETE — 224/224 physical scans re-audited**. P2 remains **222 verified / 2 needs-review** with source-obscured holds at scans **18** and **198**. Guessed readings remain **0**.
+P2R is **COMPLETE — 224/224 physical scans re-audited**. P2 was **222 verified / 2 needs-review** at P2R closure; both holds were subsequently resolved by explicit user confirmation. Guessed readings remain **0**.
 
+
+## Post-P2R user-confirmed hold resolution
+
+- scan **18** — `ஆ[…]விடக்கூடிய` → **`ஆகிவிடக்கூடிய`**.
+- scan **198** — `அ[…]ந்தார்` → **`அடைந்தார்`**.
+- both former holds are now **verified**.
+- P2 final state — **224/224 verified; 0 needs-review; 0 guessed readings**.
+- historical-glyph correction-event count remains **20**; these resolutions are user-confirmed text, not new historical-glyph events.
 
 ## Exact next activity
 

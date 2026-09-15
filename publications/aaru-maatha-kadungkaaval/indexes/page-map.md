@@ -7,7 +7,7 @@ Controlling attached source: `TVA_BOK_0064140_ஆறுமாதக்_கடு
 - P0 — **COMPLETE / PASS**
 - physical source scans — **224**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
+- P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
 - P2R — **COMPLETE — 224/224 physical scans re-audited**
 
 Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVIEW.md)
@@ -76,7 +76,7 @@ P1 extension result:
 | 15 | `../pages/0015-murasu.md` | verified |
 | 16 | `../pages/0016-murasu.md` | verified |
 | 17 | `../pages/0017-murasu.md` | verified |
-| 18 | `../pages/0018-murasu.md` | needs-review |
+| 18 | `../pages/0018-murasu.md` | verified |
 | 19 | `../pages/0019-murasu.md` | verified |
 | 20 | `../pages/0020-murasu.md` | verified |
 | 21 | `../pages/0021-murasu.md` | verified |
@@ -256,7 +256,7 @@ P1 extension result:
 | 195 | `../pages/0195-sirai.md` | verified |
 | 196 | `../pages/0196-sirai.md` | verified |
 | 197 | `../pages/0197-sirai.md` | verified |
-| 198 | `../pages/0198-sirai.md` | needs-review |
+| 198 | `../pages/0198-sirai.md` | verified |
 | 199 | `../pages/0199-sirai.md` | verified |
 | 200 | `../pages/0200-sirai.md` | verified |
 | 201 | `../pages/0201-sirai.md` | verified |
@@ -287,14 +287,16 @@ P1 extension result:
 Current P2 totals:
 
 - coverage — **224/224**
-- verified — **222**
-- needs-review — **2**
+- verified — **224**
+- needs-review — **0**
 - blocked — **0**
 
-Open holds:
+Former holds — **RESOLVED by explicit user confirmation**:
 
-- scan 18 — physically obscured cluster after `ஒருவராக ஆ`; retained as source-obscured / no guessed completion;
-- scan 198 — dark-blue physical-copy mark obscures the cluster in `முதற் பரிசை அ[…]ந்தார்`; retained as source-obscured / no guessed completion.
+- scan 18 — `ஆ[…]விடக்கூடிய` → **`ஆகிவிடக்கூடிய`**;
+- scan 198 — `அ[…]ந்தார்` → **`அடைந்தார்`**.
+
+No P2 hold remains open.
 
 ## Printed-folio anomaly already established
 
@@ -310,4 +312,4 @@ Scans 16–17 remain independent physical page records.
 
 **P3 — article assembly / reading-copy construction.**
 
-Use this verified structural map and the canonical page records to establish assembly boundaries. Preserve both retained source-obscured holds explicitly in the assembly.
+Use this verified structural map and the canonical page records to establish assembly boundaries. Use the resolved canonical readings for scans 18 and 198; no P2 source hold remains open.

@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P2R final Batch R37 / remaining scans 206–224**. The user requested all remaining pages in one iteration, so P2R is now **COMPLETE — 224/224 physical scans re-audited**. Final Batch R37 produced **1 ordinary source-fidelity correction** (`என்ற இன நினைவுடன் படுப்போம்.` → `என்ற இன்ப நினைவுடன் படுப்போம்.` on scan 209) and **0 new historical-family correction events**; the cumulative historical-glyph correction-event count remains **20**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**, with source-obscured holds at scans **18** and **198** and guessed readings **0**. The next workflow gate is **P3 — article assembly**; do not restart page transcription or P2R.
+Handoff refreshed after the user explicitly resolved the two remaining source-obscured P2 holds: scan **18** `ஆ[…]விடக்கூடிய` → **`ஆகிவிடக்கூடிய`** and scan **198** `அ[…]ந்தார்` → **`அடைந்தார்`**. P2 is now **COMPLETE / PASS — 224/224 verified, 0 needs-review, 0 guessed readings**. P2R remains **COMPLETE — 224/224 physical scans re-audited**. These two hold resolutions are user-confirmed textual readings, not new scan-pixel or historical-glyph correction events; the cumulative historical-glyph correction-event count remains **20**. The next workflow gate remains **P3 — article assembly**.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 IN PROGRESS 224/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 COMPLETE / PASS 224/224 verified; P2R COMPLETE 224/224; P3 NEXT**.
 
 Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated; Publication 12 remains the active workflow.
 
@@ -59,8 +59,8 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited; 2 source-obscured P2 holds retained**
+- P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
+- P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **NOT STARTED — NEXT**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1936,23 +1936,11 @@ Batch R01 scans **1–5** is complete.
 - guessed readings remain **0**.
 - no physical source scan remains unprocessed.
 
-## Exact next activity
+### Post-P2R user-confirmed hold resolution
 
-**P3 — article assembly / reading-copy construction.**
+- scan **18** — `ஆ[…]விடக்கூடிய` → **`ஆகிவிடக்கூடிய`**.
+- scan **198** — `அ[…]ந்தார்` → **`அடைந்தார்`**.
+- resolution authority — explicit user confirmation of the obscured source readings.
+- these are **not guessed completions** and do not increment the historical-glyph correction-event count.
+- P2 final state — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**.
 
-Start from the canonical page records and the verified P1 page map. First establish the source-supported assembly inventory and exact start/end boundaries; then create the P3 article assembly file(s) under `publications/aaru-maatha-kadungkaaval/articles/`.
-
-P3 rules:
-- page records are the canonical text authority; do not re-transcribe or normalize source wording;
-- preserve only source-supported headings and page-order text;
-- carry source-obscured `[…]` readings explicitly, including the retained holds at scans **18** and **198**;
-- page-boundary comments may be used where helpful, but editorial notes must remain outside article body;
-- after assembly, verify the reading copy against the canonical page sequence and synchronize controls.
-
-P4 and P5 remain **NOT STARTED**. English remains blocked until the Tamil gates freeze.
-
----
-
-# Frozen prior boundary
-
-Publications **1–11 remain RELEASE COMPLETE / FROZEN**.

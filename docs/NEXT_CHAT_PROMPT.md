@@ -6,8 +6,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
-- retained source-obscured holds — scans **18** and **198**
+- P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
 - P2R — **COMPLETE — 224/224 physical scans re-audited**
 - cumulative historical-glyph correction-event count — **20**
 - guessed readings — **0**
@@ -19,7 +18,12 @@ Final P2R Batch R37 processed the user's requested remaining scans **206–224**
 
 `என்ற இன நினைவுடன் படுப்போம்.` → **`என்ற இன்ப நினைவுடன் படுப்போம்.`**
 
-No new historical-family correction event was added.
+After P2R, the user explicitly resolved the two former source-obscured holds:
+
+- scan **18** — `ஆ[…]விடக்கூடிய` → **`ஆகிவிடக்கூடிய`**
+- scan **198** — `அ[…]ந்தார்` → **`அடைந்தார்`**
+
+P2 is therefore **COMPLETE / PASS — 224/224 verified**, with **0 needs-review** and **0 guessed readings**. Historical-glyph correction-event count remains **20**.
 
 ## Exact next activity — P3
 
@@ -39,7 +43,7 @@ Perform **article assembly / reading-copy construction**.
    - source wording must not change;
    - preserve source-supported headings;
    - preserve page order;
-   - carry unresolved `[…]` readings explicitly, including scans 18 and 198;
+   - use the resolved canonical readings for scans 18 and 198; no unresolved `[…]` P2 hold remains;
    - page-boundary comments are allowed where useful;
    - editorial notes belong outside the article body.
 5. Recheck the completed assembly against the canonical page sequence and synchronize `README.md`, `audit.md`, root `HANDOVER.md`, and `docs/NEXT_CHAT_PROMPT.md`.

@@ -6,8 +6,8 @@
 |---|---|
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
-| P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **COMPLETE — 224/224 physical scans re-audited; 2 source-obscured P2 holds retained** |
+| P2 | **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings** |
+| P2R visual-fidelity re-audit | **COMPLETE — 224/224 physical scans re-audited** |
 | P3 | **NOT STARTED — NEXT** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1950,6 +1950,17 @@ P2R progress — **205/224**. P2 remains **222 verified / 2 needs-review**. Gues
 Historical-family verification added **0 new correction events**; cumulative count remains **20**. Ordinary source-fidelity corrections — **1**.
 
 P2R is **COMPLETE — 224/224**. P2 remains **222 verified / 2 needs-review** (source-obscured scans **18** and **198**). Guessed readings remain **0**.
+
+### Post-P2R user-confirmed hold resolution
+
+| Scan | Former hold | User-confirmed canonical reading | Final status |
+|---:|---|---|---|
+| 18 | `ஆ[…]விடக்கூடிய` | **`ஆகிவிடக்கூடிய`** | verified |
+| 198 | `அ[…]ந்தார்` | **`அடைந்தார்`** | verified |
+
+These two resolutions come from the user's explicit confirmation of the obscured readings. They are not guesses, do not use OCR/web/alternate editions, and do not add historical-glyph correction events.
+
+P2 final state — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**.
 
 ## Exact next activity
 

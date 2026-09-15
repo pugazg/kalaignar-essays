@@ -37,8 +37,8 @@ Direct native inspection established:
 - Publication 12 — **ACTIVE**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited; 2 source-obscured P2 holds retained**
+- P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
+- P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **NOT STARTED — NEXT**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -924,8 +924,15 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - guessed readings remain **0**.
 - no physical source scan remains unprocessed.
 
+### Post-P2R user-confirmed hold resolution
+
+- scan **18** — `ஆ[…]விடக்கூடிய` → **`ஆகிவிடக்கூடிய`**
+- scan **198** — `அ[…]ந்தார்` → **`அடைந்தார்`**
+- P2 is now **224/224 verified / 0 needs-review / 0 guessed readings**
+- historical-glyph correction-event count remains **20**
+
 ## Exact next activity
 
 **P3 — article assembly / reading-copy construction.**
 
-Build the P3 assembly from the canonical page records after confirming exact source-supported boundaries from the P1 page map. Preserve source wording, source headings, page order and the retained `[…]` holds; no silent normalization or contextual completion.
+Build the P3 assembly from the canonical page records after confirming exact source-supported boundaries from the P1 page map. Preserve source wording, source headings and page order; the former `[…]` holds at scans 18 and 198 are resolved in the canonical records; no silent normalization or contextual completion.
