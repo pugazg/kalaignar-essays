@@ -7,7 +7,7 @@ source_tamil: "../../articles/03-sirai.md"
 source_tamil_blob_sha: "0d860d48bcd666148c0a312ad296953f015225c2"
 source_scan_pages: "108-223"
 language: "en"
-translation_status: "fidelity-reviewed"
+translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -113,7 +113,7 @@ In the morning they gave us rice gruel. We took care not to let it go cold befor
 
 <!-- Tamil source: scan 118 / printed 115 -->
 
-they locked us up. That day was July 17. At the picketing before Achariyar's house in Madras, more than thirty people were arrested under the leadership of Comrade M. S. Ramasamy, the warrior given by Aruppukkottai. Kannadasan, who had been injured at Kallakkudi and was in hospital, was also arrested.
+they locked us up. That day was July 17. At the picketing before Achariyar's house in Madras, more than thirty people were arrested under the leadership of Comrade M. S. Ramasamy, the warrior Aruppukkottai gave us. Kannadasan, who had been injured at Kallakkudi and was in hospital, was also arrested.
 
 We remained shut in the cage, consumed by the desire to know what was happening outside!
 
@@ -125,7 +125,7 @@ There were four or five elderly mothers in the jail. They had been arrested in l
 
 The young man said that he and she were lovers by desire! He was about twenty-five. His beloved—she would still be under sixty! Sacred love! Well-matched love! Those young lovers—no, old lovers—that too is not right—those ripened-shoot lovers!—stood as the proper answer to the question: “If love has no eyes, why should age alone matter?”
 
-A few more men who had turned illicit-liquor work into a cottage industry were also prisoners there. While we were talking with them, the afternoon meal arrived. Excellent cholam gruel! Delicious food (?) made from sorghum flour. On top of it they had also poured away a little arrangement called curry. The sorghum gruel stood in the pot like Lord Linga after an oil abhishekam! “Is there no rice at all?” we asked. They said the yellow rice would come only in the evening. There was buttermilk now, they said. “Give it, give it,” we said, stretching out the tumbler. Our afternoon meal ended with buttermilk. Who could touch the sorghum gruel? Even if touched, it stood in a state that would not move!
+A few more men who had turned illicit-liquor work into a cottage industry were also prisoners there. While we were talking with them, the afternoon meal arrived. Excellent cholam gruel! Delicious food (?) made from sorghum flour. On top of it they had also poured away a little arrangement called curry. The sorghum gruel stood in the pot like Lord Linga after an oil abhishekam! “Is there no rice at all?” we asked. They said the yellow rice would come only in the evening. There was buttermilk now, they said. “Give it, give it,” we said, stretching out the tumbler. Our afternoon meal ended with buttermilk. Who could touch the sorghum gruel? Even when touched, it would not budge!
 
 They locked us up again. At three in the afternoon, out of overflowing affection, they gave us a little groundnut and told everyone to eat. Then the Magistrate
 
@@ -165,7 +165,7 @@ The court prepared to pronounce judgment. Outside, hundreds of people stood wait
 
 Ramasubbiah and thirty comrades were to undergo two months' rigorous imprisonment. A fine of thirty-five rupees—if they failed to pay, one month in prison! Total sentence: three months.
 
-The law had dumped them away!
+The law had flung them aside!
 
 Then the law turned toward us—five months' rigorous imprisonment—a fine of thirty-five rupees—if unpaid, one month in prison—altogether, six months' punishment.
 
@@ -276,7 +276,7 @@ The little entrance called us. Since we would see the outside world only after s
 “The grove where the mango-cuckoo sings—the prison
 that seeks to cage us.”
 
-Those ideal-filled lines of Bharathidasan played a new delight in the heart.
+Those ideal-filled lines of Bharathidasan sang a new joy into the heart.
 
 Comrade Vaanan said they were shocked when they heard it was six months. It was when he and friend Sezhiyan came to see us that they said so.
 
@@ -452,7 +452,7 @@ Details of those connected with the departments:
 
 **Leader:**
 
-Karunanidhi—he is a propagandist of the Dravida Munnetra Kazhagam. Author of this book. About thirty years old. One who likes to serve while remaining a worker. From this itself it becomes as clear as a gooseberry on the palm that he is also a little self-praising!
+Karunanidhi—he is a propagandist of the Dravida Munnetra Kazhagam. Author of this book. About thirty years old. One who likes to serve while remaining a worker. From that alone, it is as plain as a gooseberry in the palm that he is also a little self-praising!
 
 **Deputy Leader:**
 
@@ -468,7 +468,7 @@ and from the experienced achievements of friend Vadivelu.
 
 **Second Block Leader:**
 
-Thanjavur Pattu! The Thanjavur secretary who flies like a sparrow and acts. Full of both a timid nature and eagerness to work. One who has the quality of safeguarding humility, peace and dignity.
+Thanjavur Pattu! The Thanjavur secretary who darts about like a sparrow, getting things done. Full of both a timid nature and eagerness to work. One who has the quality of safeguarding humility, peace and dignity.
 
 **Third Block Leader:**
 
@@ -516,7 +516,7 @@ without wasting the water, the Water Establishment Minister himself would stand 
 
 We have read songs saying, “One can walk on water.” Comrade Velu demonstrated it in practice. Yes—the Water Establishment Minister! From morning until three in the afternoon he would practise walking right on top of the water tank. The parts of his body covered by his banian turned red, while all the rest turned black—he looked like a two-coloured man! Imagine the hardship he suffered.
 
-Between gruel and bath, a cry would rise at the entrances of the blocks: “Hospital! Hospital!” If such a cry rose in the streets of our town, we would think, “All right—some doctor who has had no chance at patients must be putting his hospital up for sale!” The cry in our prison kingdom was different. Health Minister Bukhari Sahib, stroking his honeycomb-shaped beard, would call, “Anyone coming to the hospital?” Every day he would take at least fifty people to the hospital and bring them back.
+Between gruel and bath, a cry would rise at the entrances of the blocks: “Hospital! Hospital!” If such a cry rose in the streets of our town, we would think, “All right—some doctor with no patients must be putting his hospital up for sale!” The cry in our prison kingdom was different. Health Minister Bukhari Sahib, stroking his honeycomb-shaped beard, would call, “Anyone coming to the hospital?” Every day he would take at least fifty people to the hospital and bring them back.
 
 <!-- Tamil source: scan 142 / printed 139 -->
 
@@ -638,7 +638,7 @@ A verdict must now be given—after thinking it through to the end!
 
 Those who hold the law in their hands cannot do it! It is an awkward task for them! Only those who have honesty in their hearts can do it—and the time when they will constitute a court of justice is drawing near!
 
-Such courts have appeared suddenly—in countries where fire-setters had appeared!
+Such courts have sprung up suddenly—in countries where fire-setters had appeared!
 
 We live in days when men who went to prison wield the sceptre, and men who wielded sceptres go to prison.
 
@@ -971,7 +971,7 @@ After the more than three hundred questions had been asked, answers given, and s
 
 Why did Comrade Sampath, appointed to lead the picketing at Achariyar's house on July 14, fail to take part that day?
 
-The moment that question was asked, the Assembly froze—for a second! Doubt marks appeared on their faces: Sampath did not take part?
+The moment that question was asked, the Assembly froze—for a second! Question marks appeared on their faces: Sampath did not take part?
 
 <!-- Tamil source: scan 177 / printed 174 -->
 
@@ -1066,7 +1066,7 @@ There—renaissance is dawning. In that star of dawn, the lofty society we dream
 
 When writing about prison life, I could not avoid mentioning the Speaking Assembly of our kingdom. Once I mention it, I must explain the subjects discussed there. Without my noticing, that explanation turns into an essay. I place it before you in the hope that even that may be useful.
 
-While our kingdom was running without deficiency, the jewels of righteous struggle and the workers imprisoned in Madras were being released one after another. Since Anna and the two deputy secretaries, Nedunchezhiyan and Mathiazhagan, were in prison, Comrade Govindasamy, M.L.A., assumed the responsibility of looking after the movement's affairs. One may call this an important stage in the history of our movement. Comrade Govindasamy had stood against Congress in the general election, signed the Dravida Munnetra Kazhagam's agreement document, obtained its support, and won the garland of victory. In Tamilagam, where a few political frauds roam about who forget the people in the intoxication of jail and become petty men in the frenzy for office, Govindasamy lashes them with the golden whip of his own action. All the important men of the movement were inside prison cages! The few activists outside were touring the whole country at lightning speed.
+While our kingdom was running smoothly, the jewels of righteous struggle and the workers imprisoned in Madras were being released one after another. Since Anna and the two deputy secretaries, Nedunchezhiyan and Mathiazhagan, were in prison, Comrade Govindasamy, M.L.A., assumed the responsibility of looking after the movement's affairs. One may call this an important stage in the history of our movement. Comrade Govindasamy had stood against Congress in the general election, signed the Dravida Munnetra Kazhagam's agreement document, obtained its support, and won the garland of victory. In Tamilagam, where a few political frauds roam about who forget the people in the intoxication of jail and become petty men in the frenzy for office, Govindasamy lashes them with the golden whip of his own action. All the important men of the movement were inside prison cages! The few activists outside were touring the whole country at lightning speed.
 
 <!-- Tamil source: scan 184 / printed 181 -->
 
@@ -1187,7 +1187,7 @@ Suddenly she looked at me and said, “I love you!” I was
 
 <!-- Tamil source: scan 195 / printed 192 -->
 
-startled. The Speaking Assembly burst into roaring laughter. Only then did shyness come to the nurse. Taking her father with her, she left. I sat there with my head bowed in embarrassment, unable to raise it. Was that the end? A quarrel between a Tamil woman and Comrade Sakthi! The Tamil woman had told her husband about Sakthi's mischief. She was somewhat young. Sakthi too was an unmarried boy! Something had gone wrong! That wicked Tamil woman turned it into a matter of laughter before the Speaking Assembly. Comrade Ramasubbiah, it seems, had taken buttermilk from her on credit and cheated her. Where would he get money in prison? She turned even that into a major charge and gave a thorough beating to the reputation for honesty of that Karaikudi man.
+startled. The Speaking Assembly burst into roaring laughter. Only then did shyness come to the nurse. Taking her father with her, she left. I sat there with my head bowed in embarrassment, unable to raise it. Was that the end? A quarrel between a Tamil woman and Comrade Sakthi! The Tamil woman had told her husband about Sakthi's mischief. She was somewhat young. Sakthi too was an unmarried boy! Something had gone wrong! That wicked Tamil woman turned it into a matter of laughter before the Speaking Assembly. Comrade Ramasubbiah, it seems, had taken buttermilk from her on credit and cheated her. Where would he get money in prison? She turned even that into a major charge and gave that Karaikudi man's reputation for honesty a thorough beating.
 
 Why are you putting your finger to your nose! You are wondering how women came into the prison, are you not?
 
@@ -1330,7 +1330,7 @@ At once we made a plan. We tore an old dhoti and tied it like a net. We turned o
 
 Even that game suffered an interruption. After eating jail food, should strongmen like us be doing such work? Everyone developed body pain—could not sit, could not stand. I even took an injection. Then the desire to play arose again. But the game soon came to an end.
 
-The reason: release had come toward the Kallakkudi battalion. Two or three days before release, Ramasubbiah had already begun to shed tears. The day of release came. On the morning of October 15 they too parted from us. They made a garland from flowers caught inside the prison. They gave their farewell words. Kovai Kathari wept. Even now, remembering how they cried aloud like a child makes me tremble.
+The reason: release had come for the Kallakkudi battalion. Two or three days before release, Ramasubbiah had already begun to shed tears. The day of release came. On the morning of October 15 they too parted from us. They made a garland from flowers available inside the prison. They gave their farewell words. Kovai Kathari wept. Even now, remembering how they cried aloud like a child makes me tremble.
 
 “From now on, who will run to comfort me like Ramasubbiah?”
 
@@ -1344,7 +1344,7 @@ Thus I thought of each one. The Kallakkudi battalion that had marched behind me
 
 <!-- Tamil source: scan 209 / printed 206 -->
 
-I saw the line of the Kallakkudi battalion that had marched behind me standing there, shedding tears.
+stood there in ranks, shedding tears—I saw them.
 
 “Beloved friends! Comrades full of affection! Jewels dear to my heart!” I said. I could say no more. I signalled with my hand, “Go and return.” Ramasubbiah embraced me and burst into sobs. Separation—separation—the separation that cut across the family affection we had guarded and built! The word “release” separated them from us and carried them away.
 
@@ -1392,7 +1392,7 @@ The Jailer replied: “Arrange a loudspeaker at your own expense; we have no obj
 
 <!-- Tamil source: scan 214 / printed 211 -->
 
-—we shall think again,” we replied. They left. Why would we think about it again after that! The days kept running.
+—we shall think again,” we replied. They left. Why would we think about it again after that! The days kept passing.
 
 ## Hitler's Song—Freedom's Tune!
 
@@ -1408,7 +1408,7 @@ Blood on the soil of Tamilagam! Dust in the sky! Events like a spear driven into
 
 the conch-call of the Dravidian liberation army rang out boldly. The morning star announcing that dawn would soon arrive had appeared.
 
-Those days over which that widespread light spread are the hundred days I speak of.
+Those were the hundred days I speak of—the days across which that widespread light spread.
 
 Just as the brave deeds carried out by the Dravidians in these hundred days—the methods of the liberation struggle—cannot be forgotten by the future, neither can the futile voices raised against the liberation struggle, the deeds of Vibhishanas, nor the conduct of base men without national feeling.
 
@@ -1426,7 +1426,7 @@ if he says it toward us like Chitragupta, then according to the Purana story we 
 
 Achariyar knows! But in the story of revolution ... Achariyar knows that too!
 
-“The Dravida Munnetra Kazhagam is my first enemy”—one day in these hundred days Achariyar dropped that spirited sentence!
+“The Dravida Munnetra Kazhagam is my first enemy”—one day in these hundred days Achariyar uttered that stirring line!
 
 “I said the Communists were my first enemy—they have subsided. I say these people are my first enemy—they too will subside.” Such was Achariyar's satisfaction.
 
@@ -1470,13 +1470,13 @@ The day after returning from prison, Sakthi, Thamalingam, Ramasubbiah, Parangusa
 
 “When I am released, Dalmiyapuram must appear as Kallakkudi,” I had requested before entering prison. “Come, I shall show you that sign of victory,” the comrades said and took me there. Yes. The paper bearing the name Kallakkudi that I had pasted on July 15 was still shining there. The name Dalmiyapuram was nowhere to be seen.
 
-The powerful Government sends soldiers to Korea and Kashmir. We are ordinary people—people who desire peaceful righteous struggle. Yet no one had come forward to remove the sacred name Kallakkudi that we had pasted. If every day they give space for our cry of principle to stand at the railway station—and give permission and protection for coal to be smeared over the mark of humiliation called Dalmiyapuram—must this not be called our victory?
+The powerful Government sends soldiers to Korea and Kashmir. We are ordinary people—people who desire peaceful righteous struggle. Yet no one had come forward to remove the sacred name Kallakkudi that we had pasted. If every day they allow our cry of principle to resound at the railway station—and give permission and protection for coal to be smeared over the mark of humiliation called Dalmiyapuram—must this not be called our victory?
 
 “The Government has not yet changed the name officially,” one comrade asked. To him, and to friends who had the same doubt, I can give only the following answer.
 
 <!-- Tamil source: scan 222 / printed 219 -->
 
-It is true that the name Kallakkudi has not been placed officially. It means only that the Government has not officially acknowledged our victory. Can that mean we have not won?
+It is true that the name Kallakkudi has not been officially adopted. It means only that the Government has not officially acknowledged our victory. Can that mean we have not won?
 
 Mao Tse-tung planted the flag of victory in Red China. Chiang Kai-shek fled to Formosa. Yet the United Nations has still not recognised the victory of People's China. Red China tried and tried to obtain a place in the U.N. and could not! But Chiang's Government, hiding in Formosa, still has a place in the U.N. Can anyone deny Red China's victory because the U.N. has not recognised it? Can Chiang's defeat itself be hidden? In the same way, if we put Kallakkudi in the place of Red China's victory and the name “Dalmiyapuram” in the place of Chiang's Government, we get a good explanation for our cry of victory.
 
@@ -1490,7 +1490,7 @@ Even if so many years are not needed here, we may have to pay a high price to ob
 
 Dravida's national uprising has grown and risen in such a way that no one can now suppress it. Even in the camps of opponents—especially in nationalist circles—Dravidian feeling has begun to seethe and rise.
 
-All that remains is for the scattered Dravidians to come together. The confidence has blossomed that we shall surely recover the Dravida beloved of our thought. I end this by placing in your hearts the opening lines of the stirring song by my friend Karunanandam that I sang before accepting “six months' rigorous imprisonment” in the first righteous struggle begun to end alien domination.
+All that remains is for the scattered Dravidians to come together. The confidence has blossomed that we shall surely recover our cherished Dravida. I end this by placing in your hearts the opening lines of the stirring song by my friend Karunanandam that I sang before accepting “six months' rigorous imprisonment” in the first righteous struggle begun to end alien domination.
 
 “Come, join us!—Come, join us!
 People of Chera, Chola and the southern Pandya land!
