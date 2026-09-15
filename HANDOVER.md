@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Publication 13 `துடிக்கும் இளமை` P2 closure — 33/33 physical scans VERIFIED**. Publication 12 `ஆறுமாதக் கடுங்காவல்` remains **RELEASE COMPLETE / FROZEN**. Publication 13 is **ACTIVE — P0 PASS; P1 PASS 33/33; P2 COMPLETE / PASS 33/33; 0 needs-review; 0 blocked; 0 guessed readings**. The user-supplied transcription remains a comparison baseline only; supplied 1951 scan pixels remain controlling.
+Handoff refreshed after **Publication 13 `துடிக்கும் இளமை` P3 article assembly — 4/4 COMPLETE / PASS**. Publication 12 `ஆறுமாதக் கடுங்காவல்` remains **RELEASE COMPLETE / FROZEN**. Publication 13 is **ACTIVE — P0 PASS; P1 PASS 33/33; P2 PASS 33/33; P3 PASS 4/4; 0 unresolved assembly issues**. The user-supplied transcription remains a comparison baseline only; supplied 1951 scan pixels remain controlling.
 
 ## Repository state
 
@@ -14,7 +14,7 @@ Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
 Publication 12 **`ஆறுமாதக் கடுங்காவல்` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 3/3 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 13 **`துடிக்கும் இளமை` — ACTIVE — P0 PASS; P1 PASS 33/33; P2 COMPLETE / PASS 33/33 VERIFIED**. Verified body inventory: `துடிக்கும் இளமை` 5–12; `அண்ணாமலைக்கு அரோகரா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Advertisements/promotional matter scans 30–33 are also P2 VERIFIED. Next gate: **P3 article assembly — 4/4 articles**.
+Publication 13 **`துடிக்கும் இளமை` — ACTIVE — P0 PASS; P1 PASS 33/33; P2 PASS 33/33; P3 COMPLETE / PASS 4/4**. Article assemblies: `01-thudikkum-ilamai.md`, `02-annamalaikku-arogara.md`, `03-poompuhar.md`, `04-vetri-vilakku.md`; source coverage **25/25 article scans**, omitted text **0**, unsupported additions **0**. Next gate: **P4 publication source/completeness audit**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2388,37 +2388,30 @@ Do **not** reopen Publication 12 merely for stylistic polishing.
 
 Publication 13 `துடிக்கும் இளமை` is now **ACTIVE**.
 
-### Publication 13 durable state after P2 closure
+### Publication 13 durable state after P3
 
 - workspace — `publications/thudikkum-ilamai/`
 - source — `TVA_BOK_0063985_துடிக்கும்_இளமை.pdf`
 - P0 — **PASS**
 - P1 — **PASS — 33/33**
-- P2 — **COMPLETE / PASS — 33/33 VERIFIED**
-- front matter — **4/4 VERIFIED**
-- article body — **25/25 VERIFIED**
-- advertisements / promotional matter — **4/4 VERIFIED**
-- Article 1 `துடிக்கும் இளமை` — **8/8**
-- Article 2 `அண்ணாமலைக்கு அரோகரா!` — **7/7**
-- Article 3 `பூம்புகார்` — **5/5**
-- Article 4 `வெற்றி விளக்கு!` — **5/5**
-- needs-review / blocked / guessed — **0 / 0 / 0**
-- unresolved historical-glyph / printed-text readings — **0**
-- user-confirmed price — **`ஆறணா`**; prior `ஆறணை` was a historical-`ணா` misread
-- scan 13 corrected source heading — **`அண்ணாமலைக்கு அரோகரா!`**
-- terminal scan 33 — **advertisement / VERIFIED**
-- baseline rule — supplied transcription assists alignment only; scan pixels control canonical text
-- progress authority — `publications/thudikkum-ilamai/P2_PROGRESS.md`
+- P2 — **PASS — 33/33 VERIFIED**
+- P3 — **COMPLETE / PASS — 4/4 article assemblies**
+- Article 1 `துடிக்கும் இளமை` — scans 5–12 — **8/8 / PASS**
+- Article 2 `அண்ணாமலைக்கு அரோகரா!` — scans 13–19 — **7/7 / PASS**
+- Article 3 `பூம்புகார்` — scans 20–24 — **5/5 / PASS**
+- Article 4 `வெற்றி விளக்கு!` — scans 25–29 — **5/5 / PASS**
+- article-source coverage — **25/25**
+- verified cross-page boundary joins — **9**
+- omitted P2 body text — **0**
+- added unsupported body text — **0**
+- modernization / paraphrase — **0**
+- unresolved assembly issues — **0**
+- user-confirmed price — **`ஆறணா`**
+- corrected Article-2 title — **`அண்ணாமலைக்கு அரோகரா!`**
+- progress authority — `publications/thudikkum-ilamai/P3_PROGRESS.md`
 
 ### Exact next activity
 
-**Publication 13 P3 article assembly — all four articles in one go.**
+**Publication 13 P4 publication source/completeness audit.**
 
-Create:
-
-1. `articles/01-thudikkum-ilamai.md`
-2. `articles/02-annamalaikku-arogara.md`
-3. `articles/03-poompuhar.md`
-4. `articles/04-vetri-vilakku.md`
-
-Use only the verified P2 page records as assembly authority; preserve source wording, punctuation, quotation structure and article boundaries.
+Audit the full 33-scan publication against P1/P2/P3. Confirm front matter 1–4, article boundaries 5–29, advertisements 30–33, terminal scan 33, 25/25 article-scan coverage, 4/4 article assemblies, all durable source corrections, and 0 propagation omissions. Do not start P5 until P4 is separately completed.
