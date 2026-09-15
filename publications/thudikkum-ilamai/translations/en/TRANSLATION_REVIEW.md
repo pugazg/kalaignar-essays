@@ -42,45 +42,124 @@ Date: **2026-09-15**
 
 ## Article review ledger
 
-### Article 1 — `துடிக்கும் இளமை`
+### Article 1 — `துடிக்கும் இளமை` — T0–T5 VERIFIED
 
 - frozen Tamil blob — `3b2f40df8f9b1f02aaac917276b7bcf374185f21`
 - source scans — **5–12**
-- T0 — **NOT STARTED**
-- T1 — **NOT STARTED**
-- T2 — **NOT STARTED**
-- T3 — **NOT STARTED**
-- T4 — **NOT STARTED**
-- T5 — **NOT STARTED**
-- working English title — **TBD**
-- unresolved translation blockers — **0**
+- T0 — **PASS**
+- T1 — **COMPLETE / draft**
+- T1 English blob — `16dbecc286d007de53c4c814bc7f97352679059f`
+- working title — **Throbbing Youth**
+- source comments — **8/8**
+- T2 — **PASS**
+- T2 body corrections — **6**
+  1. `தட்டான்` — smith → **goldsmith**
+  2. `காடுடைய சுடல்பூசிகள்` — removed unsupported “ash-smeared”; **worshippers of the cremation-ground dweller**
+  3. `மாடலவறையன்` — removed outside-normalized name; **Matalavaraiyan**
+  4. `இரு கொடி` — removed unsupported fish-standard identification; **two standards**
+  5. `மாமன் முறையாக` — **treating them as maternal uncles in religion**
+  6. `கோகில தெரிசனம்` — source-bearing **Kokila darshan**
+- T3 — **PASS** — body corrections **0**
+- T4 — **PASS**
+- verified title — **Throbbing Youth**
+- T5 — **PASS / VERIFIED**
+- verified English blob — **`46c70fd2bf702a061d35b45383c8c8e0841852d9`**
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- untranslated Tamil body leakage — **0**
+- Tamil changes — **0**
+- blockers — **0**
 
-### Article 2 — `அண்ணாமலைக்கு அரோகரா!`
+### Article 2 — `அண்ணாமலைக்கு அரோகரா!` — T0–T5 VERIFIED
 
 - frozen Tamil blob — `3740984e52a72b514dff4fc41f54a2938d7ce793`
 - source scans — **13–19**
-- T0–T5 — **NOT STARTED**
-- working English title — **TBD**
-- source-bearing `அரோகரா` treatment — **lexicon-seeded / final T4 decision pending**
-- unresolved translation blockers — **0**
+- T0 — **PASS**
+- T1 — **COMPLETE / draft**
+- T1 English blob — `4228e5ae0c25e1a21735a29af54963a3812f39fc`
+- working title — **Arohara to Annamalai!**
+- source comments — **7/7**
+- T2 — **PASS**
+- T2 body corrections — **4**
+  1. `சாயம் வெளுத்ததே` — recast as **their private conduct merely had its paint stripped off**
+  2. `கருவழித்த குற்றங்கள்` — **crimes of causing miscarriages**
+  3. scan 15→16 — removed an English-only em-dash split inside Brahma's statement
+  4. `அதுவே சொக்கப்பானைத் திருநாள்` — **that itself is the Sokkapaanai festival**
+- T3 — **PASS** — body corrections **0**
+- T4 — **PASS**
+- `அரோகரா` — ***Arohara*** retained source-bearing
+- verified title — **Arohara to Annamalai!**
+- T5 — **PASS / VERIFIED**
+- verified English blob — **`1cfce7827fec69de08c98dd78edf4a06a7216a41`**
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- untranslated Tamil body leakage — **0**
+- Tamil changes — **0**
+- blockers — **0**
 
-### Article 3 — `பூம்புகார்`
+### Article 3 — `பூம்புகார்` — T0–T5 VERIFIED
 
 - frozen Tamil blob — `9ec5a3fd12e342a92bc02dada6dcf4297214d69d`
 - source scans — **20–24**
-- T0–T5 — **NOT STARTED**
-- working English title — **TBD**
-- embedded quoted verse — **must preserve source lineation / translate from frozen Tamil**
-- unresolved translation blockers — **0**
+- T0 — **PASS**
+- T1 — **COMPLETE / draft**
+- T1 English blob — `872c5445903af98d449f6f83b3e5212dc6e98903`
+- working title — **Poompuhar**
+- source comments — **5/5**
+- T2 — **PASS**
+- T2 body corrections — **4**
+  1. `கம்பதாசர்கள்` — interpretive devotees → source-bearing **Kambadasas**
+  2. Kural fault sentence — **fall away under one consideration alone**
+  3. `முடிநெறித்த` — **crushed the crowns**
+  4. quoted Silappathikaram verse — removed interpretive group rendering and retained source-bearing group names / martial wording
+- T3 — **PASS** — body corrections **0**
+- T4 — **PASS**
+- embedded verse translated only from frozen Tamil; no published English version imported
+- verified title — **Poompuhar**
+- T5 — **PASS / VERIFIED**
+- verified English blob — **`67649c4db83881840137073bafa24d31062fb86c`**
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- untranslated Tamil body leakage — **0**
+- Tamil changes — **0**
+- blockers — **0**
 
-### Article 4 — `வெற்றி விளக்கு!`
+### Article 4 — `வெற்றி விளக்கு!` — T0–T5 VERIFIED
 
 - frozen Tamil blob — `26ce57fe58a5327879155bf41c132180d71dd191`
 - source scans — **25–29**
-- T0–T5 — **NOT STARTED**
-- working English title — **TBD**
-- title image `வெற்றி விளக்கு` — **lexicon-seeded / final T4 decision pending**
-- unresolved translation blockers — **0**
+- T0 — **PASS**
+- T1 — **COMPLETE / draft**
+- T1 English blob — `51b780b0cac98a5c78acde42963caa2822988bbc`
+- working title — **Lamp of Victory!**
+- source comments — **5/5**
+- T2 — **PASS**
+- T2 body corrections — **2**
+  1. `சோமநாதபுரம்` — normalized Somnath → source-bearing **Somnathapuram**
+  2. scan 28→29 — removed English-only em dash and restored the source exclamation / continuation
+- T3 — **PASS** — body corrections **0**
+- T4 — **PASS**
+- verified title — **Lamp of Victory!**
+- T5 — **PASS / VERIFIED**
+- verified English blob — **`083d514b93d58484f49e3193235b9631d995cd8e`**
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- untranslated Tamil body leakage — **0**
+- Tamil changes — **0**
+- blockers — **0**
+
+## T0–T5 publication checkpoint
+
+- articles individually T5 verified — **4/4**
+- ordered source comments — **25/25 PASS**
+- T2 body corrections — **16 total**
+- T3 body corrections — **0**
+- T4 release-blocking terminology issues — **0**
+- omitted Tamil clauses after review — **0**
+- added substantive English claims after review — **0**
+- Tamil body leakage — **0**
+- Tamil source changes during English work — **0**
+- blockers — **0**
 
 ## Publication-wide gates
 
@@ -89,6 +168,6 @@ Date: **2026-09-15**
 
 ## Exact next activity
 
-**Article 1 `துடிக்கும் இளமை` — T0 source-pin revalidation + T1 close draft.**
+**E6 — publication-wide English consistency review.**
 
-Do not translate Articles 2–4 before Article 1 establishes the publication's English voice baseline.
+Check all four verified articles together for recurring ideological terms, source-bearing transliterations, mythological names, literary-work titles, quoted material, title style, page comments, tone consistency and accidental smoothing. Do not begin E7 until E6 is separately completed.
