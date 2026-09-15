@@ -1,91 +1,120 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / Article 3 `சிறை` T2 bilingual fidelity review
+# NEXT CHAT PROMPT — துடிக்கும் இளமை / activate Publication 13 + P2 Batch 001 scans 1–5
 
-Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`. **LIVE MAIN IS AUTHORITATIVE.**
+Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Tamil archival state — FROZEN
+## Publication 12 closure — FROZEN
 
-- P0–P5 — **COMPLETE / PASS**
-- Article 3 frozen Tamil authority — `articles/03-sirai.md`
-- required Tamil blob — **`0d860d48bcd666148c0a312ad296953f015225c2`**
-- structural scans — **108–223**
-- scan 108 — illustrated `சிறை` intertitle
-- scan 109 — blank/reverse
-- continuous prose — **110–223**
-- scan 224 is back-cover / publisher-device matter and is outside Article 3 English prose.
+`publications/aaru-maatha-kadungkaaval/` is fully closed:
 
-## Durable Article-2 correction
+- Tamil P0–P5 — **COMPLETE / PASS / FROZEN**
+- English Articles 1–3 — **T0–T5 VERIFIED**
+- E6 publication-wide English consistency review — **PASS**
+- E7 English release closeout — **PASS**
+- final English status — **ENGLISH-TRANSLATION COMPLETE / RELEASE CLOSED**
+- verified English blobs:
+  - **The Drum** — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`
+  - **The Battlefield** — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`
+  - **Prison** — `103a2492d110006cea520e03efd40fb3c1a5bdbc`
+- do not reopen Publication 12 merely for stylistic polishing.
 
-Do not regress the user-confirmed scan-77 correction:
+Durable Article-2 correction remains:
 
 - `தாண்டிவிடப்பட்டேன்` → **`தூண்டிவிடப்பட்டேன்`**
-- current Article 2 Tamil blob — `711b86300a3340ee73271a1cf613408905314498`
-- current verified Article 2 English blob — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`.
+- Tamil blob — `711b86300a3340ee73271a1cf613408905314498`
+- verified English blob — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`
 
-## English Article 3 state
+## Publication 13 — activate now
 
-- T0 — **PASS**
-- T1 — **COMPLETE / draft**
-- English file — `publications/aaru-maatha-kadungkaaval/translations/en/03-sirai.md`
-- T1 English blob — **`31b3c8476ba4bd13264d0609a5553cdd1f7117b7`**
-- working title — **Prison** — provisional until T4
-- `translation_status: "draft"`
-- source-page comments — **116/116 PASS**
-- scan 109 blank/reverse — **no invented prose**
-- untranslated Tamil body leakage — **0**
-- blockers — **0**
-- T2/T3/T4/T5 — **NOT STARTED**
+Workspace: `publications/thudikkum-ilamai/`
 
-## Permanent policy
+Title: **`துடிக்கும் இளமை`**
 
-Follow `ESSAY_TRANSLATION_GUIDE.md`.
+Repository classification: **ESSAYS / ARTICLES**, not public speeches.
 
-> **Translate the language; do not neutralise the voice.**
+Controlling source:
 
-Use only frozen Tamil authority. No OCR, web copy, alternate edition or remembered wording.
+`TVA_BOK_0063985_துடிக்கும்_இளமை.pdf`
 
-## Exact activity — T2
+Source identity:
 
-### Source pins
+- physical scans — **33**
+- bytes — **50,703,452**
+- SHA-256 — **`309042a481db1d198d331b1c16f11ea7acce5ad0cc4ab78ee53c2a702e0ecb11`**
+- PDF version — **1.4**
+- usable parsed text layer — **none**
+- source authority — **rendered scan pixels**
+- source PDF committed — **No**
 
-1. re-fetch `articles/03-sirai.md`; require exact blob **`0d860d48bcd666148c0a312ad296953f015225c2`**;
-2. re-fetch `translations/en/03-sirai.md`; require exact T1 blob **`31b3c8476ba4bd13264d0609a5553cdd1f7117b7`** before any correction;
-3. stop and reconcile if either differs.
+Printed identity:
 
-### Full bilingual fidelity review
+- author — **`மு. கருணாநிதி`**
+- publisher — **`K. R. நாராயணன்`**
+- address — **`வி. ஆர். பிள்ளைத் தெரு, சென்னை-5`**
+- price — **`ஆறணா`**
+- edition — **`முதற் பதிப்பு`**
+- edition date — **`16-12-'51`**
+- printer — **`ஸ்ரீ மகள் அச்சகம், சென்னை-1`**
 
-Compare the entire **108–223** article Tamil ↔ English, paragraph by paragraph and clause by clause.
+## Durable archival state
 
-Check explicitly:
+- P0 source intake — **COMPLETE / PASS**
+- P1 source structure — **COMPLETE / PASS — 33/33**
+- P2 page-level transcription — **NOT STARTED**
+- P3–P5 — **NOT STARTED**
+- English — **BLOCKED until Tamil reaches P5 / frozen**
 
-- no omitted Tamil sentence, clause, heading, list item, song line, rhetorical question, command or repeated phrase;
-- no English-only historical explanation or substantive claim;
-- all names, initials, dates, times, rupee amounts, prisoner counts, sentence lengths and casualty / release numbers;
-- negatives, comparisons, conditionals and logical connectors;
-- quotation scope and speaker;
-- prison terminology and institutional parody;
-- political labels and source-chosen epithets;
-- page-boundary continuations;
-- all **116/116** ordered `<!-- Tamil source: scan ... -->` comments;
-- scan 109 remains blank/reverse with no invented prose.
+Verified structure:
 
-Source-sensitive frozen readings that must remain intact include scan 110 **`அந்தி`**, scan 121 **`தலைவன்`**, scan 159 **`சூப்பிரின்டெண்ட்`**, scan 198 **`அடைந்தார்`**, scan 201 **`‘ஜோக்கர்’`**, and scan 209 **`இன்ப நினைவுடன்`**.
+- scans **1–4** — cover / title / imprint / publisher note
+- scans **5–12** — Article 1 `துடிக்கும் இளமை`
+- scans **13–19** — Article 2 `அண்ணனுக்கு அரசா!`
+- scans **20–24** — Article 3 `பூம்புகார்`
+- scans **25–29** — Article 4 `வெற்றி விளக்கு!`
+- scans **30–33** — advertisements / promotional matter
+- separate printed contents page — **not present**
 
-T1 choices needing particular review:
+## Mandatory source rules
 
-- title **Prison**;
-- *udanpirappu* in scan 114;
-- **Black Hole of Calcutta**;
-- **Water Establishment Minister**;
-- **People's Assembly** / **Speaking Assembly**;
-- ***Kandam***;
-- **“Kaanikkai” Warder**;
-- ***manukkaaran***;
-- ***kudukuduppaikkaran***;
-- ***kechavaali***;
-- **triple-thread guardian**.
+Use only the supplied scan pixels as transcription authority.
 
-For every T2 correction record old English → corrected English and the Tamil basis in `TRANSLATION_REVIEW.md`.
+Do **not** use OCR, web copies, Wikisource, Tamil Digital Library, alternate editions or contextual completion.
 
-Update the article, lexicon if a material term changes, tracker, review ledger, publication README, root HANDOVER and this prompt.
+This 1951 source uses historical Tamil type. Follow root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
 
-Stop after **T2**. Do not begin T3 unless explicitly directed.
+Mandatory glyph inspection includes:
+
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+Read character identity from the scan; do not modernize wording, spelling, grammar or punctuation.
+
+Physical-copy stamps, handwriting and ownership marks are evidence but must stay outside the printed-text layer.
+
+## Exact activity — P2 Batch 001
+
+Process physical scans **1–5** only.
+
+Create one canonical page record per physical scan.
+
+For each scan record:
+
+- physical scan number;
+- visible printed folio only if actually printed; otherwise `null`;
+- structural role;
+- exact source-visible printed text;
+- physical-copy stamps / handwriting separately from printed text;
+- historical-glyph audit;
+- verification status;
+- unresolved reading only when the scan genuinely cannot support certainty;
+- no guessed completion.
+
+Special expectations:
+
+- scan 1 — front cover
+- scan 2 — title / publisher / price page + physical-copy stamps
+- scan 3 — edition / date / printer page + physical-copy stamp/show-through
+- scan 4 — `பதிப்புரை` publisher note
+- scan 5 — opening page of Article 1 `துடிக்கும் இளமை`; apply full historical-glyph review to body text
+
+Update the Publication 13 tracker / README, root `HANDOVER.md`, and this prompt after the batch.
+
+Stop after **P2 Batch 001 scans 1–5** unless the user explicitly asks to continue.
