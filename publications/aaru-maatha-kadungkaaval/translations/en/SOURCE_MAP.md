@@ -32,10 +32,10 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 
 Translation order is fixed: **1 → 2 → 3**.
 
-## E0 status
+## E0 status — historical
 
 Frozen source pins recorded: **3/3 PASS**.  
-English article translation begun: **No**.
+At E0, English article translation had not yet begun.
 
 
 ## Post-freeze source correction
@@ -43,3 +43,19 @@ English article translation begun: **No**.
 - Article 2 `களம்`, scan 77: user-confirmed **`தாண்டிவிடப்பட்டேன்` → `தூண்டிவிடப்பட்டேன்`**.
 - Article 2 Tamil authority was re-pinned from superseded blob `60c155dc93a4543e267ccbca5573d6f5b70e5672` to **`711b86300a3340ee73271a1cf613408905314498`**.
 - the corrected blob above is now the sole Tamil authority for Article 2.
+
+## English release state
+
+Publication-level English release closed on **2026-09-15**.
+
+Verified English article authorities:
+
+- Article 1 `முரசு` — **The Drum** — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`
+- Article 2 `களம்` — **The Battlefield** — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`
+- Article 3 `சிறை` — **Prison** — `103a2492d110006cea520e03efd40fb3c1a5bdbc`
+
+Article verification: **3/3 T5 VERIFIED**.  
+Publication E6 consistency review: **PASS**.  
+Publication E7 English release closeout: **PASS**.  
+Ordered English source comments: **213/213 PASS**.  
+Final English status: **ENGLISH-TRANSLATION COMPLETE / RELEASE CLOSED**.
