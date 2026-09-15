@@ -30,7 +30,7 @@ The three strict-reviewed Tamil assemblies below are the sole translation author
 |---:|---|---:|---|---|---|
 | 1 | `முரசு` | 10–65 | `articles/01-murasu.md` | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **The Drum — T0–T5 PASS / VERIFIED** |
 | 2 | `களம்` | 66–106 | `articles/02-kalam.md` | `711b86300a3340ee73271a1cf613408905314498` | **The Battlefield — T0–T5 PASS / VERIFIED** |
-| 3 | `சிறை` | 108–223 | `articles/03-sirai.md` | `0d860d48bcd666148c0a312ad296953f015225c2` | **Prison — T0 PASS / T1 COMPLETE; title provisional until T4** |
+| 3 | `சிறை` | 108–223 | `articles/03-sirai.md` | `0d860d48bcd666148c0a312ad296953f015225c2` | **Prison — T0–T5 PASS / VERIFIED** |
 
 Translation order is fixed to the source structure: **1 → 2 → 3**.
 
@@ -184,17 +184,42 @@ After all 3/3 articles are T5 verified:
 - Tamil source changes — **0**
 - blockers — **0**
 
-All three articles in this publication are now individually **T5 VERIFIED**:
+## Publication-level release — E6/E7 COMPLETE / PASS
+
+Verified English article authorities:
 
 - Article 1 `முரசு` — **The Drum** — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`;
 - Article 2 `களம்` — **The Battlefield** — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`;
 - Article 3 `சிறை` — **Prison** — `103a2492d110006cea520e03efd40fb3c1a5bdbc`.
 
-This is article-level closure only. The publication-level English cross-article consistency / release gate has **NOT STARTED**.
+### E6 — publication-wide English consistency review — PASS
+
+- verified article pins — **3/3 exact**
+- frozen Tamil pins — **3/3 exact**
+- recurring names / epithets — **PASS**
+- ideological vocabulary — **PASS**
+- repeated slogans / Kallakkudi–Dalmiyapuram terminology — **PASS**
+- shared periodical/work titles — **PASS**
+- source-bearing transliterations / puns — **PASS**
+- quotation / song treatment — **PASS**
+- title style — **PASS**
+- tone / Kalaignar voice — **PASS**
+- ordered source-page comments — **213/213 PASS**
+- untranslated Tamil body leakage — **0**
+- body corrections required by E6 — **0**
+- blockers — **0**
+
+### E7 — English release closeout — PASS
+
+No verified article body changed during E6/E7. The three verified article blobs therefore remain unchanged.
+
+Final publication English status:
+
+**ENGLISH-TRANSLATION COMPLETE / RELEASE CLOSED**
 
 ## Exact next activity
 
-**Publication-level English cross-article consistency / release gate only.**
+Publication 12 is closed. Do not reopen it merely for stylistic polishing.
 
-Audit the three verified English articles together for recurring names and epithets, `Aryan` / `Dravidian` terminology, repeated slogans, periodical/work titles, source-bearing transliterations and puns, quotation/song treatment, title style, tone consistency, source-page-comment completeness, and accidental smoothing. Do not start this gate unless explicitly directed.
+Publication 13 `துடிக்கும் இளமை` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. P2 must not begin until the user explicitly activates that publication.
 
