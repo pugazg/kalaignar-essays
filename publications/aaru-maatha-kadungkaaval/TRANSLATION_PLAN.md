@@ -29,7 +29,7 @@ The three strict-reviewed Tamil assemblies below are the sole translation author
 | # | Tamil title | Structural scans | Tamil assembly | Frozen Tamil blob | English title/status |
 |---:|---|---:|---|---|---|
 | 1 | `முரசு` | 10–65 | `articles/01-murasu.md` | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **The Drum — T0–T5 PASS / VERIFIED** |
-| 2 | `களம்` | 66–106 | `articles/02-kalam.md` | `60c155dc93a4543e267ccbca5573d6f5b70e5672` | **The Battlefield — T0–T5 PASS / VERIFIED** |
+| 2 | `களம்` | 66–106 | `articles/02-kalam.md` | `711b86300a3340ee73271a1cf613408905314498` | **The Battlefield — T0–T5 PASS / VERIFIED** |
 | 3 | `சிறை` | 108–223 | `articles/03-sirai.md` | `0d860d48bcd666148c0a312ad296953f015225c2` | **title to be established at T1/T4 — not started** |
 
 Translation order is fixed to the source structure: **1 → 2 → 3**.
@@ -135,7 +135,7 @@ After all 3/3 articles are T5 verified:
 ## Article 2 progress — `களம்`
 
 - T0 — **PASS**
-- frozen Tamil blob — **`60c155dc93a4543e267ccbca5573d6f5b70e5672`**
+- frozen Tamil blob — **`711b86300a3340ee73271a1cf613408905314498`**
 - structural scans — **66–106**
 - T1 — **COMPLETE**
 - T1 English blob — **`78cd7094b8b57c00e6528b40c3c3768d7014971f`**
@@ -147,11 +147,14 @@ After all 3/3 articles are T5 verified:
 - T4 body authority — **`d5ac559f9a489a98b305b047ae651d97343e5f37`**
 - T5 — **PASS / VERIFIED**
 - verified title — **The Battlefield**
-- verified English blob — **`9d37041cda4a6a8808b8009b7a86ba9e3b533246`**
+- verified English blob — **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**
 - source-page comments — **41/41 PASS**, scans **66–106**
 - paragraph-block count per scan — **41/41 scan segments match Tamil**
 - untranslated Tamil body leakage — **0**
 - Tamil changes during T0–T5 — **0**
+- post-T5 Tamil source corrections — **1** — scan 77 `தாண்டிவிடப்பட்டேன்` → **`தூண்டிவிடப்பட்டேன்`**
+- post-T5 English revalidation — **PASS** — scan 77 now **“I was driven by the desire that I should fall into the hands of the police only at the battlefront—that is why!”**
+- current verified English blob — **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**
 - blockers — **0**
 
 ## Exact next activity
