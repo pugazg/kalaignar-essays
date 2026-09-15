@@ -300,3 +300,209 @@ The officers came again.
 
 “All right, all of you are under arrest,” they said. We got up. At once the remaining friends—my contingent—lay down. They too were arrested. All twenty-five of us
 
+<!-- Tamil source: scan 90 / printed 87 -->
+
+were loaded into a police vehicle. The public became like an erupting volcano. They looked like a flood bursting through a dam—students—workers—young men—elders—women—all shed both fire and tears. “Dignity—Duty—Discipline!” I shouted. “We shall guard them!” echoed the ocean of people.
+
+The moving parrot-cage moved. We were separated from the public—from the streets of beautiful Dravida—and then confined in the Kallakkudi police station.
+
+The clock struck ten. The Circle Inspector hurried into the police station. He told fifteen among us to stand up. They stood. “You have not been arrested. Go outside,” he said. They went. What law—what scheme—who knows!
+
+It was nearly time for the next train. We waited eagerly to know what would happen this time. We heard the great sound of the second contingent moving through the street toward the battlefield. From then on, outside news could only sometimes be heard—we could no longer see it!
+
+The leader of the second contingent was Ramasubbiah—the force marched under his leadership!
+
+<!-- Tamil source: scan 91 / printed 88 -->
+
+Have you ever seen labour itself take form, run about, and work? If not, look at Ramasubbiah—he is labour given form. We have heard people described, at one time or another, as “a volunteer to the volunteers”—about all sorts of men! Whether those descriptions were true or false, I do not know. Here the light of truth shows us Karaikudi Ramasubbiah. He is the cool shade-giving tree in summer—the shade itself—the comfort that shade gives.
+
+In the kingdom that more than a hundred of us set up inside Tiruchi prison, he was our Food Minister.
+
+He has a mother's heart—he can speak in a way that would move even a demon's heart. Not today or yesterday—for how long, I do not know—not merely in my eyes, but in the eyes of all the frontline fighters of the movement, he has won affection. The contingent that went under his leadership conducted the same righteous struggle on the field as we did and was seized by the authorities.
+
+They came and joined us. Among those twenty-five were the fifteen comrades whom the Circle Inspector had earlier separated from us. At the police station, the five of us—Karunanidhi, Sakthi, Kasthuri, Kumaravel and Kuzhandaivel—were separated and made to sit apart. The other thirty-one, including Ramasubbiah, were separated as another group.
+
+<!-- Tamil source: scan 92 / printed 89 -->
+
+They were: Ramasubbiah, Jayankondam Venugopal, Malaikottai secretary Rathinam, Ariyalur secretary Ethiraj, Tamil Muthu, Munusamy, Marudhamuthu, Pandian, Kalaimani, Murugesan, T. A. Kamalan, Paramanandam, Murugesan, Ramu, Thangavel, Chinnaiya, Sakthi, Aneef, Ravanan, Nallamaniyan, Kalidas, Chakkarapani, Somasundaram, Marudhanayagam, Valarmathi, Muhammad Ali, Krishnamurthy, Pandu, Raman, Chinna Durai and Natarasan.
+
+We all sat inside the police hall. The Sub-Inspector of that station, guarding us, sat there without going anywhere.
+
+He would finish counting them: thirty-one. Then he would count us! Doubt would come again—he would count again—“One, two, three—say it,” he would order. We would say it. Thirty-six would be reached. “What if somebody said it twice?” he would ask. “All right, everyone raise your hands,” he would say, and then count the hands.
+
+“What if somebody raised both hands?” he would ask—and begin counting again. Thus he went on counting—and we too went on counting: not people! The days for which the rulers of domination would continue to rule!
+
+At midday we heard the sound of the third contingent, under Comrade Kannadasan, setting out.
+
+<!-- Tamil source: scan 93 / printed 90 -->
+
+I think it was 1949. I had gone to Salem Modern Theatres for the first time. Comrade K. M. Sheriff, now an advocate of the Tamil Arasu Kazhagam, introduced a friend to me.
+
+That friend had sacred ash smeared in a broad stripe across his forehead. The moment he was introduced, he folded his hands and said, “Namaskaram.” I replied, with a little emphasis, “Vanakkam.” Sheriff said that the friend was from Chettinad, possessed poetic talent, and throbbed with religious feeling. Since I had to stay in Salem for several days, I had the opportunity to become acquainted with him. I thought: such youth and Tamil knowledge are being planted in the kiln called religion. After we became closer, the affection he had felt for me before even seeing me, and the affection I developed for him after seeing him, became the seed for a crop of friendship rich in feeling. We parted—then met again—parted again—met again—not because quarrels broke out! Because each of us had our own work.
+
+I was travelling to Pollachi for a public meeting. On the way, I met that friend in Coimbatore. Whenever we met, debates and counter-debates about the Dravidian movement would take place between us. He would praise Arignar Anna's ability and say one could not find another scholar
+
+<!-- Tamil source: scan 94 / printed 91 -->
+
+like him. But he would say that the movement's policies were bitter to him. At Coimbatore junction our argument somehow came to an end, and he agreed to come with me to Pollachi. We argued all the way on the bus. Comrade Rajamanickam, one of the foremost among those who had struggled from the earliest days to build the party in Coimbatore, also joined the debate.
+
+We reached Pollachi. The public meeting began. Ramanujam, a bull of the movement from Pollachi who worked for the party amid hardship and loss, and the duty-conscious friend Anaimalai Mylsamy both spoke. Before I spoke, the Chettinad friend said that he too would speak. I said all right. But fear seized me. What might he say? Would I then have to give a separate reply? If I replied and needless confusion arose, what would I do? We had brought my Coimbatore man here—all this I kept saying to myself. He rose to speak. At once I looked at his forehead! “Ah, Paramasivam!” There was no sacred ash on his forehead! He began to speak.
+
+“Mr Chairman! I was born in the land of the Chettiars, where first place is given to foolishness—where, without caring for poor people who are dying, consecration ceremonies are held for ruined temples
+
+<!-- Tamil source: scan 95 / printed 92 -->
+
+,” he began. He spoke briefly. He spoke our own principles. We were all delighted. Pollachi became his gateway into our movement. Later he was married in Karaikudi. Loving brother Arangannal and I had gone there. On our way to the wedding house we met Ramasubbiah. He was greatly surprised that, without even his knowing it, a comrade had come into the movement—and that we were going to that comrade's wedding. We all went.
+
+The bridegroom was seated upon an animal called a horse—his feet unable to touch the ground—dressed up like the maharaja of a dummy-legged horse—and our friend came in procession. We saw that marvellous, distinguished, customary scene of Chettinad weddings.
+
+In some places they dress the bridegroom as an ascetic and turn into ceremony the teaching that life is impermanent and that one should “take sannyasa without shrinking.”
+
+But in Chettinad they dress up the bridegroom to insist that life is royal luxury!
+
+In the evening there was a wedding felicitation meeting. Under the chairmanship of Narana Duraikannan, we spoke.
+
+<!-- Tamil source: scan 96 / printed 93 -->
+
+After that, the Chettinad friend and we became very close. In movement work—in personal matters—in everything, he became one who helped.
+
+He is a very good man. Even when he wore sacred ash! That is why he could understand our camp so quickly. He would work—act with feeling. Only one defect: he and I would often quarrel. The defect was about food. In that matter he had no equal! “What on earth will you do if you go to prison?” I asked angrily. “That is why I am preparing,” he would say!
+
+“You cannot prepare like a camel, comrade! You must rehearse by going hungry!” I would say. Unable to bear the anger, he would lift the leaf and fling it into the refuse pit—after eating everything on it clean!
+
+I had been waiting for a chance to teach him a good lesson about food. The chance came. But it slipped away. (Even so, it will come again.)
+
+Do you not already know that the man about whom I have spoken at such length is Kannadasan, who went as commander of the third contingent in the Kallakkudi struggle and was subjected to the brutal attack of the police? He came to Lalgudi on July 14! He spoke on the stage. “Let the suffering that comes to the guru strike the disciple
+
+<!-- Tamil source: scan 97 / printed 94 -->
+
+too,” he declared in a loud voice. I became commander over the contingent of that affectionate friend!
+
+There was a time when sacred ash marked his forehead! There came a time when he set out for the battlefront saying he was ready even to spill red blood! The latter was the age of rationalism.
+
+The sound of the contingent under poet Kannadasan reached our ears. Though we were under police protection—under guard—Comrade Dharmu and other comrades had to bring our afternoon meal to us. We were eating. The Sub-Inspector stood there checking us. Even while we sat in the dining row, he did not fail to count us once. He performed his Government duty with such order and caution. While we were eating, someone ran in and said something to the Sub-Inspector in a low voice.
+
+We understood the very next second! Firing was taking place on the battlefield. I immediately sent Dharmu and the others who were serving the food away. Could we eat after that? Once we heard that the bullets of the Achariyar Government were being fed the flesh—the blood—the bones—the hearts—the skulls—of Dravidian comrades at “Dalmiyapuram,” what food—what food!
+
+<!-- Tamil source: scan 98 / printed 95 -->
+
+## Kesavan
+
+Next month was to be his wedding. His mother had already seen and chosen the girl. The young man travelled along, thinking of the future.
+
+“What sort of woman will the jewel who is to become my life's companion be? Will she turn out to be the beauty of my dreams? If mother goes to see a bride, would she choose a girl her son would not like?
+
+“Marriage—ah, what a delightful word! How much sweetness in that word! A sacred day in life—the day a companion for life is joined to you! On the wedding day I shall be able to touch only my beauty's little finger—after that ... merely thinking of it is sweet!
+
+“The first night will come—a night that can never be recovered again in life—the night a prisoner gets and the first night a married couple gets—ah, without even experiencing it, how much imagination wells up in me about it! I shall think of the Revolutionary Poet's golden lines: ‘The bridal bed searches, saying, He will come, he will come! He will come and write—the page of the literature of delight!’ I shall praise Bharathi for describing, ‘speaking of love midway through union ...’”
+
+Thinking in all these ways about the wedding to take place the next month, Kesavan lay on the upper berth inside the railway carriage.
+
+<!-- Tamil source: scan 99 / printed 96 -->
+
+He had left telling his mother, “I shall return tomorrow.” His mother waited at home: the son who went on business has still not come!
+
+A man runs to the mother and tells her—Kesavan is dead. Which Kesavan? That Kesavan who had gone building castle after castle in his imagination about the wedding next month.
+
+The mother cried—thrashed in grief—fell screaming, “Ayyo, my son!” Must all this even be told?
+
+“I had already found a girl to marry my son, ayya—before that, the wretched boy has gone away like this, ayya!” A mother—the mother who bore him—her lower belly burning, her heart heaving, her head spinning, tears flowing, beating her belly and mouth and singing a lament—who could bear to hear it, except the unjust men who conduct government after taking out their hearts and setting them aside?
+
+He lay thinking of the future. A bullet tore through the railway carriage and struck his skull.
+
+A young man will lie on a bridal bed. A finger will give a gentle “tap” upon his head. He turns, and his beloved stands
+
+<!-- Tamil source: scan 100 / printed 97 -->
+
+there. But on the head of this young man, lying there thinking about the taste of life, no gentle tap fell. A bullet fell! It split his skull—his head shattered. He had lain thinking, “My future wife will stroke this head with her soft fingers.” The bullet smashed that head to pieces. He can think no more! His brain has been crushed to pulp! Only his mouth opened “aah, aah”—a thousand times! What was he trying to say as he opened it?
+
+How terrible the pain must have been! Was he trying to give a last message to mother—or to cry, “You sinners! Why did you tear me away from my mother?” We do not know. He embraced death. He who had rejoiced at the thought of embracing Komalavalli embraced the death hurled at him by the cruel. On the Kallakkudi battlefield, the man who should have worn the wedding garland took on the form of a corpse!
+
+One corpse fell! But the line of corpses was not over! Would one corpse satisfy a regime with the hunger of an elephant-fire? No!
+
+★
+
+<!-- Tamil source: scan 101 / printed 98 -->
+
+## Natarasan
+
+In this protest struggle, under Achariyar's rule, we had already sacrificed a comrade named Natarasan together with Thalamuthu—in prison! Here is another Natarasan—a warrior of Lalgudi—a brave man of the movement—who became a sacrifice on the Kallakkudi righteous-struggle front!
+
+He is said to have run to join the ranks in the struggle. More than five hundred volunteers had already been registered and the days on which they were to come to the field had been fixed; he was told that only after that list was completed could Natarasan get a place. Heartbroken, he turned back toward his village. On the way, on the train, he became a corpse. In his hand was an issue of *Nam Nadu*! Whether he read it or not, he died with the words “our country” on that issue before him! Ayyo—no, no—he was killed!
+
+A tailoring worker—his neck was savagely torn apart! The bullet that came flying is said to have bitten through the flesh of that young man's neck as it passed.
+
+“Whose child was he?” the people on the train must have cried. What anguish those who bore that child must have suffered—the bullet does not know! Those who wield authority know. But to them, this is amusement!
+
+Mother! Mother Dravida! Here is Natarasan whom you bore! O Mother Dravida, who pours out gold and jewels
+
+<!-- Tamil source: scan 102 / printed 99 -->
+
+in abundance! You pour out treasures of sacrifice like Natarasan into the cruel hands of death too—is that just? Look, mother, at this corpse soaking your lap with blood! Look at volunteer Natarasan—look at the savage sport of the thug regime. You bore children by the crores—why, mother, did you leave them to have their funeral fires lit while only half-grown? Look, mother: the noble man who ran and laboured, the young man who sang to make Dravidian soil flourish, lies fallen! Cry! Cry! Cry well! Only if you cry—only if you shed tears—will an army arise to wipe out the regime of villains. Mother—look at Natarasan lying in your lap! Where are his light-filled eyes? Where is his feeling-filled speech? Your son's arm does not move, mother—his firm golden body does not stir—the grave is ready for your son who spoke a new language!
+
+By whom? By whom? By whom, mother—by whom?
+
+The line of corpses was not over. Would two corpses satisfy the ravenous Gundodara regime? No! No!
+
+★
+
+<!-- Tamil source: scan 103 / printed 100 -->
+
+## The Ghastly Dance!
+
+Drink! Drink! Drink blood! Drink until the belly fills and overflows! Chew bones until the stomach bulges! Swallow the nerves! What if they are old—what if they are young—proper meat for the feast! Is human flesh ordinary meat? And a corpse that suddenly falls on the battlefield does not lose its taste! Eat! Eat! To digest it, drink blood! Drink!
+
+Thus repression roared like a tiger—danced in frenzy—opened its wide mouth—and, crying “Drink! Drink! Drink blood!” cavorted at Kallakkudi and Thoothukudi! Two *kudis*! The Dravidian *kudi* of this land! And in both *kudis*, for iron-hearted repression, the proper drink was blood!
+
+As an echo of the Dalmiyapuram battle—and to condemn the northern leader who insulted us and hurled burning words—Tamilagam declared: stop the trains! On July 15!
+
+At Thoothukudi too the train was stopped. Two elderly men—two young men—were made prey to the rough tongue and sharp, savage teeth of the tiger of repression. The blood-hungry tiger of repression tore open the body of the young man Uchimakali and wore a garland of intestines! The young man Ganapathi—it chewed and chewed him,
+
+<!-- Tamil source: scan 104 / printed 101 -->
+
+smacked its tongue, and snarled, “Four corpses are not enough—I need more,” then sprang upon the old man Seenivasam Pillai! It swallowed him, and then ate the life of Mandiram Nadar too!
+
+Six corpses—six corpses—the hunger of repression was not appeased! Mother Dravida! Six biers for your children! One, two, three, four, five, six! In a single day! Six corpses—you send six people to the cremation ground.
+
+In the furnace-field of the noble Gandhi—heated red in the fire of non-violence—shaped by the hammer called Freedom—the gun-points called Purity pierced and produced six corpses! Alas! Six corpses sacrificed before Gandhi's grave, prepared as an offering to Bharat Mata!
+
+Gandhi sheds tears—Bharat Mata laughs—Mother Dravida, cry! Cry! Cry until your eyelids grow heavy! Six corpses in one day—massacre—massacre in the name of Bharat Mata—open massacre in broad daylight.
+
+Cry, mother—cry! My classical-Tamil mother who once smiled and flourished! Cry! Shed tears! Shed tears of blood! But, mother, these tears will not be wasted!
+
+<!-- Tamil source: scan 105 / printed 102 -->
+
+The English soil did not weep in vain in the time of Charles! The tears French soil shed against Louis did not go to waste! The river of tears Mother Russia shed against the Tsar brought a good result! Today—the tears you shed face to face will make this world understand your condition!
+
+Lift up and give your six sons—bathe your darlings in tears! Let those who bathed them in red water go away smiling!
+
+But, mother! That smile will not last!
+
+We, the sweet-speaking sons you still have, will not let it last.
+
+The blood-mouthed “Kali” who swallowed six men alive still had a little room in her belly—so at Kallakkudi she broke off and swallowed the whole left arm of Santhanam Joseph. Still some room remained—so she took the left leg of Thoothukudi teacher Gurusamy like a banana and put it into her belly.
+
+The blood feast was not over—the fresh thigh-flesh of sixteen-year-old Ramachandran—the ankle-flesh of young Shanmugam—Ranganathan's gut-flesh—from Komban, Krishnan, Chellaiya, Soman, Venulingam, Sudalai, Munusamy, Rathinam, Eswaran, Sadasivan, Annamalai, Munusamy, Narayanan, Sebastian and
+
+<!-- Tamil source: scan 106 / printed 103 -->
+
+the others, a little from each—bone, blood, flesh. Only after eating all that did the non-violent “Pidari” who had swallowed six men belch.
+
+She said one day's meal was over. “Rise, O Ashoka-wheel flag! Rise still higher! Rise in the sky! Rise on the earth!” she began to sing!
+
+Drunk on blood, she leapt—leapt—laughed in derangement—laughed. Had she left only six dead? Many stood bloodied. Saying, “Let us seize prey whenever it falls into our hands,” she swept five thousand comrades into the cave of non-violence. One day—July 15! Six lives! Many tortured! Five thousand people in prisons!
+
+Where do we live?—In Dravida!
+Joined to what?—To India!
+In whose time?—In the time of Gandhi's heirs!
+What crime did we commit? We asked for freedom!
+Six corpses—five thousand in prison!
+Do not forget!—Do not forget it!
+Historians! Record it.
+Writers of epics! Record it.
+Makers of songs! Record it.
+C.E. 1953 says it—not B.C.E.!
+Asking for freedom is said to be a crime!
+
+Its punishment: six corpses! Five thousand in prison! Record it.
+
