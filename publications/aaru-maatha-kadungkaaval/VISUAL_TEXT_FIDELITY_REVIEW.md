@@ -17,9 +17,9 @@ Rules:
 ## Progress
 
 - physical scans — **224**
-- P5 checked — **75/224**
-- completed range — **1–75**
-- next range — **76–90**
+- P5 checked — **90/224**
+- completed range — **1–90**
+- next range — **91–105**
 - current needs-review — **0**
 - current blocked — **0**
 - guessed readings — **0**
@@ -221,10 +221,48 @@ Batch P5-05 totals:
 - guessed readings — **0**
 - P5 cumulative progress — **75/224**
 
+## Batch P5-06 — scans 76–90
+
+Result: **15/15 PASS / no canonical correction**.
+
+| Scan | P5 result | Key reconfirmation |
+|---:|---|---|
+| 76 | PASS | full text, punctuation, `11ம் தேதி` / `12ந் தேதி`, quotation ending and terminal fragment **`அவர்`** reconfirmed |
+| 77 | PASS | scan-76 **`அவர்` + `களிடத்திலே`** physical continuation, `14ம் நாள்` / `13ம் நாள்`, names, punctuation and terminal **`பெற்ற`** reconfirmed |
+| 78 | PASS | scan-77 **`பெற்ற` + `சட்டசபை உறுப்பினர்களும்`** continuation; **`குளுரைக்கும் ஜூலை 15`**, quoted slogans, punctuation and terminal **`உல்லா`** reconfirmed |
+| 79 | PASS | scan-78 **`உல்லா` + `சம்`** continuation; `ஜூலை 14`, `M. L. A.`, names and complete ending reconfirmed |
+| 80 | PASS | **`பொதுச்செயலாளர் அண்ணா`**, quoted **`அமைதி அமைதி!`**, source-visible **`பொன்னிக் மொழிகள்`**, punctuation and terminal **`கலந்துகொள்ளவேண்டிய`** reconfirmed |
+| 81 | PASS | scan-80 **`கலந்துகொள்ளவேண்டிய` + `வர்கள்`** continuation; three-part formation, `ராமசுப்பையா- தோழர் கண்ணதாசன்`, punctuation and terminal **`நெருக்கடியான`** reconfirmed |
+| 82 | PASS | scan-81 **`நெருக்கடியான` + `நிலைகளுக்கிடையிலும்`** continuation; names / Latin initials, **`ஜூலை 15!`**, quotations and full ending reconfirmed |
+| 83 | PASS | source-visible **`குழுச்சிக்காரர்கள்`**, **`ஒதிய மிலர்கள்`**, repeated imperatives, punctuation and complete ending reconfirmed without normalization |
+| 84 | PASS | **`ஜூலை 15ம் நாள்`**, **`களங் காண`**, quoted marching line, punctuation / hyphenation and complete ending reconfirmed |
+| 85 | PASS | four opening slogans including **`புலிவாழ் நாட்டில் எலிக்கு காவியமா?`**, body punctuation and terminal **`மாணிக்க`** reconfirmed |
+| 86 | PASS | scan-85 **`மாணிக்க` + `குறள்`** physical continuation; source-visible **`புடைகுழ்ந்து`**, quoted `டால்மியாபுரம்` / `கல்லக்குடி`, punctuation and complete ending reconfirmed |
+| 87 | PASS | names, **`தண்டவாளத்தைத் தலையணையாகக் கொண்டு`**, **`பஞ்சுமெத்தையாக்கி`**, official titles, dialogue punctuation and complete ending reconfirmed |
+| 88 | PASS | dialogue sequence, **`‘கிரீச்’`**, **`‘மரக் மரக்’`**, `All Right`, quotation marks and complete ending reconfirmed |
+| 89 | PASS | source-visible **`என்னை ஈராட்டிய`**, train-motion passage, dialogue punctuation and terminal **`இருபத்தைந்துபேரும்`** reconfirmed |
+| 90 | PASS | scan-89 **`இருபத்தைந்துபேரும்` + `போலீஸ் வண்டியில்`** continuation; **`கைது செய்யப்பட்டவில்லை`**, quoted crowd response, punctuation and complete ending reconfirmed |
+
+Historical-family verification for this batch explicitly rechecked **`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`** directly from native source pixels. Representative source checks include `அண்ணா`, `இளைஞர்கட்கும்`, `துணைவியிடமும்`, `கண்ணதாசன்`, `தலையிலே`, `மண்ணே`, `கண்ணீரும்`, `களங் காண`, `மண்ணில்`, `வளையாபதியுடைய`, `தலையணையாகக்`, `கண்ணை`, and `மங்கை நல்லார்`. No historical-family identity changed.
+
+All scans **76–90** remain within the `களம்` body and all corresponding page-record filenames remain `*-kalam.md`. No stale `*-murasu.md` naming or structural drift was found.
+
+The P3 `articles/02-kalam.md` assembly was checked for representative unusual source forms and page-boundary material in this range. It retains `குளுரைக்கும் ஜூலை 15`, `பொன்னிக் மொழிகள்`, `குழுச்சிக்காரர்கள்`, `ஒதிய மிலர்கள்`, `களங் காண`, `புலிவாழ் நாட்டில் எலிக்கு காவியமா?`, `புடைகுழ்ந்து`, `பஞ்சுமெத்தையாக்கி`, `‘கிரீச்’`, `என்னை ஈராட்டிய`, and `கைது செய்யப்பட்டவில்லை`. No propagation repair was required.
+
+Batch P5-06 totals:
+
+- scans checked — **15**
+- canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- P5 cumulative progress — **90/224**
+
 ## Exact next activity
 
-**P5 Batch P5-06 — physical scans 76–90.**
+**P5 Batch P5-07 — physical scans 91–105.**
 
-Scans **76–90** remain within the `களம்` body. Preserve every page as `*-kalam.md`; do not introduce stale `*-murasu.md` naming.
+Scans **91–105** remain within the `களம்` body. Preserve every page as `*-kalam.md`; do not introduce stale `*-murasu.md` naming.
 
-Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after scan 90.
+Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after scan 105.
