@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P5 Batch P5-12 scans 166–180
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P5 Final Batch P5-13 scans 196–224
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,9 +10,9 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 - P2R — **COMPLETE — 224/224**
 - P3 — **COMPLETE / PASS — முரசு / களம் / சிறை**
 - P4 — **COMPLETE / PASS**
-- P5 — **IN PROGRESS — 165/224**
-- completed P5 range — **1–165**
-- next P5 range — **166–180**
+- P5 — **IN PROGRESS — 195/224**
+- completed P5 range — **1–195**
+- final P5 range — **196–224**
 - P5 canonical corrections so far — **3**
 - P5 new historical-glyph correction events — **0**
 - needs-review / blocked / guessed readings — **0 / 0 / 0**
@@ -28,17 +28,24 @@ P5 report: `publications/aaru-maatha-kadungkaaval/VISUAL_TEXT_FIDELITY_REVIEW.md
 
 All three are ordinary lexical/source-fidelity corrections, not P5 historical-glyph correction events.
 
-## Durable P5-11 result
+## Durable P5-12 result
 
-Scans **151–165** / derivative extract pages **2–16** are **15/15 PASS after 1 canonical correction**.
+Scans **166–195** / derivative extract pages **17–46** are **30/30 PASS / 0 canonical corrections**.
 
-- all scans remain within **`சிறை`**
-- all page records remain `*-sirai.md`
-- P3 `articles/03-sirai.md` is synchronized
-- no new historical-glyph event
-- cumulative P5 canonical corrections — **3**
+User requested **30 pages** in that iteration; the batch was therefore extended from the previously planned 166–180 to **166–195**.
 
-## Source for P5-12
+Sensitive readings directly reconfirmed include:
+
+- scan 166 — **`அரசாங்கத்திடம்`**
+- scan 173 — **`அவர்களை அக்பர்`**
+- scan 179 — historical-`ணை` **`பஞ்சணை மீது`**
+- scan 189 — **`இருக்கவேண்டுமென்பதற்காக`**
+- scan 190 — **`மொழிப்பற்று — பித்தா ?`**
+- scan 195 — terminal physical fragment **`சொரண்டிப்`**
+
+P3 `articles/03-sirai.md` remains synchronized. No new historical-glyph event.
+
+## Source for final P5 batch
 
 Use only the user-supplied derivative slice:
 
@@ -48,19 +55,24 @@ Stable mapping:
 
 **extract page N = physical scan N+149**
 
-Therefore physical scans **166–180 = extract pages 17–31**.
+Therefore physical scans **196–224 = extract pages 47–75**.
 
-## P5-12
+## P5-13 — final 29 scans
 
-Inspect exactly physical scans **166–180** / extract pages **17–31** from the controlling source pixels.
+Inspect exactly physical scans **196–224** / extract pages **47–75** from the controlling source pixels.
 
-All scans remain within the **`சிறை`** body. Page-record filenames must remain `*-sirai.md`.
+Structure:
 
-Known P2R landmarks to recheck rather than blindly trust:
+- scans **196–223** — `சிறை` body / final text run;
+- scan **224** — back cover / publisher device; do not invent body text.
 
-- scan **166** — source-correct **`அரசாங்கத்திடம்`**; physical line wrap is `அரசாங்கத்` + `திடம்`
-- scan **173** — source-correct **`அவர்களை அக்பர்`**; do not change to `அவர்கள் அக்பர்`
-- scan **179** — historical-`ணை` **`பஞ்சணை மீது`**
+Known P2R landmarks to recheck rather than blindly trust include:
+
+- scan **198** — previously source-obscured reading was later resolved in P2; verify final canonical source-supported reading only, with no guess;
+- scan **201** — source-visible **`‘ஜோக்கர்’`**;
+- scan **209** — source-visible **`இன்ப நினைவுடன்`**;
+- scan **223** — final text-bearing page / work terminus;
+- scan **224** — terminal back cover / publisher device.
 
 For every scan:
 
@@ -71,4 +83,4 @@ For every scan:
 - propagate any correction to `articles/03-sirai.md` and publication controls;
 - update the P5 report.
 
-Stop after physical scan **180** / extract page **31**.
+After scan **224**, if all pages pass and no unresolved fidelity issue remains, complete the P5 closure / Tamil freeze gate and update handover accordingly.
