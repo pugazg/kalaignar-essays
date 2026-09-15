@@ -13,7 +13,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 - P5 — **IN PROGRESS — 120/224**
 - completed P5 range — **1–120**
 - next P5 range — **121–135**
-- P5 canonical corrections so far — **0**
+- P5 canonical corrections so far — **1**
 - P5 new historical-glyph correction events — **0**
 - needs-review / blocked / guessed readings — **0 / 0 / 0**
 - pre-P5 cumulative historical-glyph correction-event count — **20**
@@ -22,7 +22,7 @@ P5 report: `publications/aaru-maatha-kadungkaaval/VISUAL_TEXT_FIDELITY_REVIEW.md
 
 ## Durable P5-08 result
 
-Scans **106–120** are **15/15 PASS / 0 canonical corrections**.
+Scans **106–120** are **15/15 PASS after 1 canonical correction**.
 
 Boundary directly reconfirmed:
 
@@ -33,7 +33,7 @@ Boundary directly reconfirmed:
 - scan **110** — repeated heading **`சிறை`**, body start
 - scans **110–120** — `சிறை` body
 
-P3 `களம்` / `சிறை` assemblies remain synchronized. No new historical-glyph event.
+P3 `களம்` / `சிறை` assemblies remain synchronized. Post-batch scan-110 correction: `அந்த வானத்தையும்` → **`அந்தி வானத்தையும்`**, directly reconfirmed from source pixels. P5 canonical correction count is now **1**. No new historical-glyph event.
 
 ## P5-09
 
