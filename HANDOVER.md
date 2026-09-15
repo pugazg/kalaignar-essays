@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P5 Batch P5-02 / scans 16–30**. P5 final strict visual fidelity is **IN PROGRESS — 30/224**. Scans 16–30 are **15/15 PASS** with **0 new canonical corrections**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. Scan 18's physically hidden cluster remains non-recoverable from source pixels; canonical **`ஆகிவிடக்கூடிய`** remains the user's explicit confirmed reading. Next P5 range is **scans 31–45**.
+Handoff refreshed after **P5 Batch P5-03 / scans 31–45**. P5 final strict visual fidelity is **IN PROGRESS — 45/224**. Scans 31–45 are **15/15 PASS** with **0 new canonical corrections**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. Prior P2R repairs in this range were directly reconfirmed and remain synchronized in `articles/01-murasu.md`. Next P5 range is **scans 46–60**.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 IN PROGRESS 30/224**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 IN PROGRESS 45/224**.
 
 Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated; Publication 12 remains the active workflow.
 
@@ -63,7 +63,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **COMPLETE / PASS — 3/3 article assemblies (`முரசு`, `களம்`, `சிறை`)**
 - P4 — **COMPLETE / PASS — source audit / completeness review**
-- P5 — **IN PROGRESS — 30/224; next scans 31–45**
+- P5 — **IN PROGRESS — 45/224; next scans 46–60**
 - English — **BLOCKED until Tamil freezes**
 
 ## Mandatory startup
@@ -1983,3 +1983,16 @@ Historical batch sections above/below retain then-current intermediate counts on
 - scan 18 — visible print PASS; hidden cluster remains physically obscured; canonical `ஆகிவிடக்கூடிய` retained under explicit user confirmation
 - cumulative P5 — **30/224**
 - next — **P5 scans 31–45**
+
+
+## P5 final strict visual fidelity — Batch P5-03
+
+- scans checked — **31–45 / 15 scans**
+- result — **15/15 PASS**
+- canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- needs-review / blocked — **0 / 0**
+- guessed readings — **0**
+- prior P2R corrections reconfirmed — `வாள்களையும்`, `காட்டி விட்டார்`, `திசை யெட்டும்`, `எழுப்பி யிருக்கிற`, `தலைவர்கள்`, `தொழிற் கல்வி`, `கூறினால்-அவர்களும்`
+- cumulative P5 — **45/224**
+- next — **P5 scans 46–60**

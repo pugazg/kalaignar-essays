@@ -17,9 +17,9 @@ Rules:
 ## Progress
 
 - physical scans — **224**
-- P5 checked — **30/224**
-- completed range — **1–30**
-- next range — **31–45**
+- P5 checked — **45/224**
+- completed range — **1–45**
+- next range — **46–60**
 - current needs-review — **0**
 - current blocked — **0**
 - guessed readings — **0**
@@ -103,8 +103,44 @@ Important source anomaly remains preserved exactly:
 
 Scan 18 note: the source obstruction still prevents direct pixel recovery of the hidden cluster. P5 therefore does **not** claim pixel recovery for those hidden letters; the canonical reading **`ஆகிவிடக்கூடிய`** remains explicitly user-confirmed and is not a guessed completion.
 
+## Batch P5-03 — scans 31–45
+
+Result: **15/15 PASS / no canonical correction**.
+
+| Scan | P5 result | Key reconfirmation |
+|---:|---|---|
+| 31 | PASS | heading `ஜூன் 19`, full body, punctuation and terminal `சுறு` reconfirmed |
+| 32 | PASS | scan-31 `சுறு` + scan-32 `சுறுப்புக்கும்` continuation and full body reconfirmed |
+| 33 | PASS | prior source correction **`வாள்களையும்`** directly reconfirmed; no reversion to `வால்களையும்` |
+| 34 | PASS | prior source correction **`காட்டி விட்டார்`** directly reconfirmed; spacing preserved |
+| 35 | PASS | `விடிந்தது:` heading, source punctuation and page ending reconfirmed |
+| 36 | PASS | full quotation block / punctuation / scan-boundary fragment reconfirmed |
+| 37 | PASS | body spacing and page-boundary fragments reconfirmed |
+| 38 | PASS | quoted `என் கையிலே ஆயிரம் கட்டிடங்களின் சாவிகள்...` passage and punctuation reconfirmed |
+| 39 | PASS | prior source orthography **`திசை யெட்டும்`** reconfirmed |
+| 40 | PASS | prior corrections **`எழுப்பி யிருக்கிற`** and **`தலைவர்கள்`** reconfirmed; heading `திருச்சியிலே :` retained |
+| 41 | PASS | full text / punctuation / spacing / terminal fragment reconfirmed |
+| 42 | PASS | prior source spacing **`தொழிற் கல்வி`** reconfirmed |
+| 43 | PASS | prior punctuation **`கூறினால்-அவர்களும்`** reconfirmed exactly |
+| 44 | PASS | numeral `3`, quotation, punctuation and terminal `கண்ணதாச` fragment reconfirmed |
+| 45 | PASS | scan-44 continuation `கண்ணதாச` + `னும்`, full text and terminal open-quotation fragment reconfirmed |
+
+Historical-family verification for this batch reconfirmed representative source identities already established in P2R, including `அண்ணா / அண்ணாவும்`, `காணோம்`, `வாள்களையும்`, `தொலைவில்`, `தலையை`, `இளைப்பாற`, `பேனாவையும்`, `காளை`, `தலைவர்கள்`, `நாராயணர்களாம்`, `இளமையில்`, `படித்தானா?`, `சென்றாரா?`, `அவனை`, `சேலைகளைத்`, and `கண்ணன் / கண்ணதாச`.
+
+The P3 `முரசு` assembly was also checked for the known P2R repairs in this range. It contains the canonical forms `வாள்களையும்`, `காட்டி விட்டார்`, `திசை யெட்டும்`, `எழுப்பி யிருக்கிற`, `தலைவர்கள்`, `தொழிற் கல்வி`, and `கூறினால்-அவர்களும்`.
+
+Batch P5-03 totals:
+
+- scans checked — **15**
+- canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- P5 cumulative progress — **45/224**
+
 ## Exact next activity
 
-**P5 Batch P5-03 — physical scans 31–45.**
+**P5 Batch P5-04 — physical scans 46–60.**
 
-Continue the same direct-source, no-OCR, no-web, no-normalization protocol. Stop after scan 45.
+Continue the same direct-source, no-OCR, no-web, no-normalization protocol. Stop after scan 60.
