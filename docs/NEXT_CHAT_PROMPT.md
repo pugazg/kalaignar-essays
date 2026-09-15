@@ -1,41 +1,46 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / Article 1 `முரசு` T3 Kalaignar voice review
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / Article 2 `களம்` T0 + T1
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Tamil archival state — FROZEN
 
 - P0–P5 — **COMPLETE / PASS**
-- frozen Tamil Article 1 — `articles/01-murasu.md`
-- required Tamil blob — **`7a41617cd48f8507bc12074fb48d6016fae5cead`**
-- source scans — **10–65**
-- Tamil changes during English T0–T2 — **0**
+- Tamil status — **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**
+- Article 2 frozen Tamil authority — `articles/02-kalam.md`
+- required frozen Tamil blob — **`60c155dc93a4543e267ccbca5573d6f5b70e5672`**
+- structural scans — **66–106**
+- scan 66 — illustrated `களம் / கல்லக்குடி` intertitle
+- scan 67 — blank/reverse
+- continuous prose — scans **68–106**
+- do not modify frozen Tamil absent genuinely new direct source evidence.
 
-## English Article 1 state
+## English state
 
-- working title — **The Drum**
-- T0 — **PASS**
-- T1 — **COMPLETE / draft**
+E0 — **COMPLETE / PASS**.
+
+### Article 1 — `முரசு`
+
+**T0–T5 PASS / VERIFIED**
+
+- verified title — **The Drum**
+- frozen Tamil blob — `7a41617cd48f8507bc12074fb48d6016fae5cead`
 - T1 blob — `a94630638fa194290e0761259131cc4548d429e4`
-- T2 bilingual fidelity review — **PASS**
-- T2 blob — **`ffea867e2163d8a87763bb3fba798d467268da84`**
-- T2 body corrections — **8**
-- ordered source-page comments — **56/56 PASS**
-- omitted Tamil clauses — **0**
-- added substantive English claims — **0**
-- untranslated Tamil body leakage — **0**
+- T2 blob — `ffea867e2163d8a87763bb3fba798d467268da84`
+- T3 blob — `fcd98ef6c92d14b10f69f0fcda76fe8507e14331`
+- T4 body authority — `bbf4de306e1d0f8442237ee654abbbdb7244d7d5`
+- verified English blob — **`d629c2b13c6d01170bd96bd5e88409a4352f61c5`**
+- source comments — **56/56 PASS**
 - blockers — **0**
-- T3/T4/T5 — **NOT STARTED**
 
-## Durable T2 corrections — do not regress
+Durable Article-1 source-bearing choices include **Achariyar**, **Mazhavars**, **Daridra Narayanas**, ***ponnai sandhi***, ***Ashadabhuthis***, **Muttamil**, the Kallar/thief pun, and documented partial loss of the Kulithalai / `குருவித்தலை` wordplay.
 
-1. scan 10 — restored source subject **Mazhavars**;
-2. scan 36 — widow/remarriage metaphor no longer reads as literal physical death;
-3. scan 41 — restored source-bearing **Daridra Narayanas**;
-4. scan 47 — source `பொறுமையை` retained as **patience**, not T1 **impatience**;
-5. scan 50 — Siddhartha / Buddhist-wisdom / Ashoka quotation relation repaired;
-6. scan 54 — unsupported **because they have no other work** gloss removed;
-7. scan 60 — source-visible irregular **`பொன்னை சந்தி`** retained as ***ponnai sandhi***;
-8. scan 61 — source action relation restored instead of passive-normalising expansion.
+### Article 2 — `களம்`
+
+English — **NOT STARTED**.
+
+### Article 3 — `சிறை`
+
+English — **NOT STARTED**.
 
 ## Permanent policy
 
@@ -43,48 +48,33 @@ Follow `ESSAY_TRANSLATION_GUIDE.md`.
 
 > **Translate the language; do not neutralise the voice.**
 
-T3 is a **voice review**, not a license to paraphrase away T2 fidelity.
+Use only frozen Tamil assemblies as translation authority. No OCR, web copy, alternate edition or remembered wording.
 
-## Exact activity — T3
+## Exact activity — Article 2 `களம்`
 
-Re-fetch:
+### T0
 
-- frozen Tamil blob **`7a41617cd48f8507bc12074fb48d6016fae5cead`**
-- T2 English blob **`ffea867e2163d8a87763bb3fba798d467268da84`**
+1. re-fetch `articles/02-kalam.md`;
+2. require exact blob **`60c155dc93a4543e267ccbca5573d6f5b70e5672`**;
+3. confirm structural span **66–106** and strict-reviewed/frozen state;
+4. stop and reconcile if the blob differs.
 
-Stop and reconcile if either has drifted.
+### T1
 
-Then re-read the entire article for Kalaignar's rhetorical action:
+Create:
 
-- direct address to reader/comrades;
-- abrupt short emphatic sentences;
-- rhetorical questions;
-- commands;
-- repeated words / clauses;
-- humour and self-mockery;
-- sarcasm and ridicule;
-- martial metaphors: drum / field / spear / sword / army / camp;
-- praise-catalogues of comrades;
-- travel-story speed and fatigue;
-- political attack on Achariyar's education scheme;
-- cinema-censorship satire;
-- Thillai conference crescendo;
-- Anna quotation and closing triple **The drum thundered!**;
-- verse / slogan lineation;
-- dashes / exclamations / accumulation.
+`publications/aaru-maatha-kadungkaaval/translations/en/02-kalam.md`
 
-Open T3/T4 choices that may be sharpened but must not be silently normalised:
+Requirements:
 
-- working title **The Drum**;
-- `அறப்போர்` → **righteous struggle**;
-- Kulithalai / `குருவித்தலை` wordplay;
-- Kallar / thief pun;
-- `ஆஷாடபூதிகள்` → **religious pretenders**;
-- **Muttamil**;
-- ***ponnai sandhi***.
+- establish a **working English title** from the frozen Tamil; title remains reviewable until T4;
+- metadata must record frozen Tamil blob and scans **66–106**;
+- `translation_status: "draft"`;
+- `translation_method: "close rhetorical translation preserving Kalaignar's voice"`;
+- translate the complete article paragraph by paragraph;
+- preserve every ordered `<!-- Tamil source: scan ... -->` comment;
+- preserve scan 66's illustrated intertitle role without inventing prose for scan 67 blank/reverse;
+- preserve direct address, humour, battle imagery, slogans, quotations, dates, names, numbers and repeated rhetoric;
+- update `LEXICON.md`, `TRANSLATION_REVIEW.md`, tracker, publication README, root `HANDOVER.md`, and this prompt.
 
-For every T3 body change, record old → new and the voice reason in `translations/en/TRANSLATION_REVIEW.md`.
-
-Update the English article, lexicon if needed, tracker, review ledger, publication README, root HANDOVER and this next prompt.
-
-Stop after **T3**. Do not begin T4 unless explicitly directed.
+Stop after **T1 close draft** unless explicitly asked to proceed farther.
