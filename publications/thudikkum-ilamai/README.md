@@ -15,7 +15,7 @@ Controlling source: `TVA_BOK_0063985_துடிக்கும்_இளமை
 - P4 source audit — **COMPLETE / PASS**;
 - P5 strict visual-text-fidelity pass — **COMPLETE / PASS — 33/33**;
 - Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**;
-- English — **E0 COMPLETE / PASS — article translation NOT STARTED**;
+- English — **T0–T5 COMPLETE / PASS — 4/4 articles VERIFIED; E6/E7 pending**;
 - source PDF committed — **No**.
 
 ## Printed identity
@@ -142,8 +142,43 @@ P5 authority: [`VISUAL_TEXT_FIDELITY_REVIEW.md`](VISUAL_TEXT_FIDELITY_REVIEW.md)
 - Tamil source changes during E0 — **0**
 - blockers — **0**
 
+## English article translation — T0–T5
+
+**COMPLETE / PASS — 4/4 VERIFIED**
+
+Verified English articles:
+
+1. **Throbbing Youth** — `translations/en/01-thudikkum-ilamai.md` — `46c70fd2bf702a061d35b45383c8c8e0841852d9`
+2. **Arohara to Annamalai!** — `translations/en/02-annamalaikku-arogara.md` — `1cfce7827fec69de08c98dd78edf4a06a7216a41`
+3. **Poompuhar** — `translations/en/03-poompuhar.md` — `67649c4db83881840137073bafa24d31062fb86c`
+4. **Lamp of Victory!** — `translations/en/04-vetri-vilakku.md` — `083d514b93d58484f49e3193235b9631d995cd8e`
+
+Article gate totals:
+
+- T0 — **4/4 PASS**
+- T1 — **4/4 COMPLETE**
+- T2 — **4/4 PASS**
+- T3 — **4/4 PASS**
+- T4 — **4/4 PASS**
+- T5 — **4/4 VERIFIED**
+- ordered source comments — **25/25 PASS**
+- T2 body corrections — **16**
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+
+Control authorities:
+
+- [`TRANSLATION_PLAN.md`](TRANSLATION_PLAN.md)
+- [`translations/en/README.md`](translations/en/README.md)
+- [`translations/en/SOURCE_MAP.md`](translations/en/SOURCE_MAP.md)
+- [`translations/en/LEXICON.md`](translations/en/LEXICON.md)
+- [`translations/en/TRANSLATION_REVIEW.md`](translations/en/TRANSLATION_REVIEW.md)
+
 ## Exact next activity
 
-**Article 1 `துடிக்கும் இளமை` — T0 source-pin revalidation + T1 close English draft.**
+**E6 — publication-wide English consistency review.**
 
-Refetch live `main`, verify frozen Tamil blob `3b2f40df8f9b1f02aaac917276b7bcf374185f21`, then translate the complete article from the frozen strict-reviewed Tamil authority with ordered source-scan traceability. Stop after T1; do not begin T2 unless separately directed.
+Do not begin E7 release closeout until E6 is separately completed.
