@@ -56,3 +56,68 @@ Working titles remain **TBD** until T1 proposes a source-faithful English form a
 - publication-specific entries seeded — **PASS**
 - English body translation begun — **No**
 - unresolved choices that block E0 — **0**
+
+
+## T4 verified decisions
+
+The following decisions supersede any earlier E0 “provisional” label where they overlap.
+
+| Tamil / source form | Verified English treatment | Scope |
+|---|---|---|
+| `துடிக்கும் இளமை` | **Throbbing Youth** | Article 1 title |
+| `திராவிடம்` | **Dravida / Dravidian land** | contextual |
+| `திராவிடர்` | **Dravidians** | ideological/social source term |
+| `ஆரிய / ஆரியர்` | **Aryan / Aryans** | ideological contrast |
+| `அஹிம்ஸா` | **ahimsa** | source-bearing where polemically foregrounded |
+| `மனுநீதி` | **Manu code** | Article 1 context |
+| `பறையன்` | **Paraiyan** | source caste label |
+| `கம்பராமாயணம்` | **Kamba Ramayanam** | work title |
+| `கந்தப் புராணம்` | **Kanda Puranam** | work title |
+| `உ.வே.சாமிநாத அய்யர்` | **U. V. Swaminatha Aiyar** | Article 1 |
+| `கோகில தெரிசனம்` | **Kokila darshan** | source-bearing; no interpretive “cuckoo” substitution |
+| `கும்பாபிஷேகம்` | **kumbabhishekam** | source-bearing ritual term |
+| `மாடலவறையன்` | **Matalavaraiyan** | source-bearing; no outside normalization |
+| `அண்ணாமலைக்கு அரோகரா!` | **Arohara to Annamalai!** | Article 2 title |
+| `அரோகரா` | ***Arohara*** | chant/cry retained |
+| `தேவலோகம்` | **Devaloka** | Article 2 |
+| `ஸ்ரீயப்பதி` | **Sriyapati** | source-bearing |
+| `பரமசிவன்` | **Paramasiva** | Article 2 |
+| `தாழம்பூ` | **thazhampoo** | source-bearing flower name |
+| `அருணாசல புராணம்` | **Arunachala Purana** | work/source label |
+| `கார்த்திகை தீபம்` | **Karthigai Deepam** | festival name |
+| `சொக்கப்பானை` | **Sokkapaanai** | source-bearing festival label |
+| `அன்னாபிஷேகம்` | **annabhishekam** | ritual term |
+| `சுயராஜ்யம்` | **Swaraj** | political term |
+| `பொது உடமை` | **common ownership** | preserve source wording; do not intensify silently |
+| `பூம்புகார்` | **Poompuhar** | Article 3 title |
+| `கம்பன்` | **Kamban** | source author name |
+| `கம்பதாசர்கள்` | **Kambadasas** | source-bearing label |
+| `சிலப்பதிகாரம்` | **Silappathikaram** | work title |
+| `இளங்கோவடிகள்` | **Ilango Adigal** | source author name |
+| `திருக்குறள்` | **Tirukkural / Kural** | contextual |
+| `திருவள்ளுவர்` | **Tiruvalluvar** | source name |
+| `தெய்வப் புலவர்` | **“divine poet”** | source epithet, not outside assertion |
+| `இந்திர விழா` | **Indra festival** | Article 3 |
+| `ஆர். கே. சண்முகனார்` | **R. K. Shanmuganar** | source form; no outside expansion |
+| `வெற்றி விளக்கு!` | **Lamp of Victory!** | Article 4 title |
+| `பகுத்தறிவு` | **rationalism / rationalist** | grammatical context |
+| `அறிவியங்கம்` | **rationalist movement** | Article 4 |
+| `சமூக சீர்திருத்த மாநாடு` | **Social Reform Conference** | Article 4 |
+| `சோமநாதபுரம்` | **Somnathapuram** | preserve source place form |
+| `தில்லை` | **Tillai** | source place name |
+| `ஐயப்பன்` | **Ayyappan** | source deity name |
+| `பஞ்சாங்கம்` | **almanac** | Article 4 |
+
+## Verified title style
+
+1. **Throbbing Youth**
+2. **Arohara to Annamalai!**
+3. **Poompuhar**
+4. **Lamp of Victory!**
+
+## Lexicon close after article T5
+
+- Article T4 terminology audits — **4/4 PASS**
+- unresolved release-blocking terms — **0**
+- source-bearing transliterations intentionally retained — **PASS**
+- next lexicon gate — **E6 cross-article consistency review**
