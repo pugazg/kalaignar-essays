@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P5 Batch P5-08 scans 106–120
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P5 Batch P5-09 scans 121–135
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -10,9 +10,9 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 - P2R — **COMPLETE — 224/224**
 - P3 — **COMPLETE / PASS — முரசு / களம் / சிறை**
 - P4 — **COMPLETE / PASS**
-- P5 — **IN PROGRESS — 105/224**
-- completed P5 range — **1–105**
-- next P5 range — **106–120**
+- P5 — **IN PROGRESS — 120/224**
+- completed P5 range — **1–120**
+- next P5 range — **121–135**
 - P5 canonical corrections so far — **0**
 - P5 new historical-glyph correction events — **0**
 - needs-review / blocked / guessed readings — **0 / 0 / 0**
@@ -20,34 +20,26 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 
 P5 report: `publications/aaru-maatha-kadungkaaval/VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
-## Durable P5-07 result
+## Durable P5-08 result
 
-Scans **91–105** are **15/15 PASS / 0 canonical corrections**.
+Scans **106–120** are **15/15 PASS / 0 canonical corrections**.
 
-Prior P2R repairs were directly reconfirmed, including:
-- `குமாரவேல்-குழந்தைவேல்`
-- `கைதூக்குங்கள்`, `இரண்டு கையும்`, `டி.எ. கமலன்`
-- `அவரவர்கட்கு`, `பூசிக் கொண்டு`
-- `ருசியைப் பற்றி`
-- `திராவிடத்தரணி`, `கிடக்கிறான் பார்`, `புது மொழில் பேசிய`
-- historical-`ளை` forms `எலும்புகளை`, `நரம்புகளை`
-- `இழித்துச் சுடுசொல்`
-- `ஆறு பிணம் - ஆறு பிணம்`
-- `பதினாறுவயது`
+Boundary directly reconfirmed:
 
-Scan **105** ends exactly at physical fragment **`ஆகி`**; scan 106 was not opened during P5-07.
+- scan **106** — final `களம்` body page
+- scan **107** — blank/reverse
+- scan **108** — illustrated **`சிறை`** intertitle
+- scan **109** — blank/reverse
+- scan **110** — repeated heading **`சிறை`**, body start
+- scans **110–120** — `சிறை` body
 
-## Structural boundary in P5-08
+P3 `களம்` / `சிறை` assemblies remain synchronized. No new historical-glyph event.
 
-- scan **106** — final **`களம்`** body page; canonical record `0106-kalam.md`
-- scan **107** — blank/reverse; `0107-blank-reverse.md`
-- scan **108** — illustrated **`சிறை`** intertitle; `0108-sirai-illustration.md`
-- scan **109** — blank/reverse; `0109-blank-reverse.md`
-- scans **110–120** — **`சிறை`** body; `0110-sirai.md` through `0120-sirai.md`
+## P5-09
 
-## P5-08
+Inspect exactly physical scans **121–135** from the controlling source pixels.
 
-Inspect exactly physical scans **106–120** from the controlling source pixels.
+All scans in this batch remain within the **`சிறை`** body. Page-record filenames must remain `*-sirai.md`.
 
 For every scan:
 
@@ -58,4 +50,4 @@ For every scan:
 - propagate any correction to the correct article assembly and publication controls;
 - update the P5 report.
 
-Stop after scan 120.
+Stop after scan 135.
