@@ -1,10 +1,10 @@
-# NEXT CHAT PROMPT — துடிக்கும் இளமை / P3 article assembly
+# NEXT CHAT PROMPT — துடிக்கும் இளமை / P4 source-completeness audit
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Publication 12 — frozen
 
-`publications/aaru-maatha-kadungkaaval/` is **RELEASE COMPLETE / FROZEN**.
+`publications/aaru-maatha-kadungkaaval/` remains **RELEASE COMPLETE / FROZEN**.
 
 Do not reopen it merely for stylistic polishing.
 
@@ -13,14 +13,6 @@ Do not reopen it merely for stylistic polishing.
 Workspace:
 
 `publications/thudikkum-ilamai/`
-
-Title:
-
-**`துடிக்கும் இளமை`**
-
-Classification:
-
-**ESSAYS / ARTICLES**, not public speeches.
 
 Controlling source:
 
@@ -36,90 +28,99 @@ Source identity:
 
 Printed identity:
 
+- title — **`துடிக்கும் இளமை`**
 - author — **`மு. கருணாநிதி`**
 - publisher — **`K. R. நாராயணன்`**
-- address — **`வி. ஆர். பிள்ளைத் தெரு, சென்னை-5`**
-- price — **`ஆறணா`** — user-confirmed; do not regress to `ஆறணை`
+- price — **`ஆறணா`** — user-confirmed; never regress to `ஆறணை`
 - edition — **`முதற் பதிப்பு`**
 - edition date — **`16—12—'51`**
 - printer — **`ஸ்ரீ மகள் அச்சகம், சென்னை-1`**
 
-## Durable P2 state
+## Durable gate state
 
-**P2 COMPLETE / PASS — 33/33 physical scans VERIFIED**
+- P0 — **PASS**
+- P1 — **PASS — 33/33**
+- P2 — **COMPLETE / PASS — 33/33**
+- P3 — **COMPLETE / PASS — 4/4**
+- P4 — **NOT STARTED**
+- P5 — **NOT STARTED**
+- English — **BLOCKED until Tamil P5 / frozen**
 
-- front matter — **4/4**
-- article body — **25/25**
-- advertisements / promotional matter — **4/4**
-- needs-review — **0**
-- blocked — **0**
-- guessed readings — **0**
-- unresolved historical-glyph / printed-text readings — **0**
+## P3 article authorities
+
+1. `articles/01-thudikkum-ilamai.md`
+   - `துடிக்கும் இளமை`
+   - scans **5–12**
+   - **8/8 records / PASS**
+
+2. `articles/02-annamalaikku-arogara.md`
+   - `அண்ணாமலைக்கு அரோகரா!`
+   - scans **13–19**
+   - **7/7 records / PASS**
+
+3. `articles/03-poompuhar.md`
+   - `பூம்புகார்`
+   - scans **20–24**
+   - **5/5 records / PASS**
+
+4. `articles/04-vetri-vilakku.md`
+   - `வெற்றி விளக்கு!`
+   - scans **25–29**
+   - **5/5 records / PASS**
+
+P3 totals:
+
+- article scans — **25/25**
+- verified boundary-word joins — **9**
+- omitted P2 body text — **0**
+- added unsupported body text — **0**
+- modernization / paraphrase — **0**
+- unresolved assembly issues — **0**
 
 Progress authority:
 
-`publications/thudikkum-ilamai/P2_PROGRESS.md`
+`publications/thudikkum-ilamai/P3_PROGRESS.md`
 
-## Verified article inventory
+## Exact activity — P4 publication source/completeness audit
 
-1. **`துடிக்கும் இளமை`** — scans **5–12** — 8 scans
-2. **`அண்ணாமலைக்கு அரோகரா!`** — scans **13–19** — 7 scans
-3. **`பூம்புகார்`** — scans **20–24** — 5 scans
-4. **`வெற்றி விளக்கு!`** — scans **25–29** — 5 scans
+Audit the whole publication in one go.
 
-Important structural correction:
+Required checks:
 
-- old P1/intake `அண்ணனுக்கு அரசா!` — **WRONG / RETIRED**
-- source scan 13 — **`அண்ணாமலைக்கு அரோகரா!`**
+- scans **1–4** front matter are represented and source-verified;
+- scans **5–12** map only to Article 1;
+- scans **13–19** map only to Article 2;
+- scans **20–24** map only to Article 3;
+- scans **25–29** map only to Article 4;
+- scans **30–33** are advertisements/promotional matter and do not leak into article assemblies;
+- terminal physical scan **33** is represented;
+- all **33/33** P2 page records exist;
+- all **25/25** article-body P2 records are covered by exactly one P3 article assembly;
+- all **4/4** P3 articles have correct scan ranges and source titles;
+- durable correction `ஆறணா` is consistent across publication metadata/page record/control docs;
+- retired title `அண்ணனுக்கு அரசா!` does not survive as current canonical Article-2 metadata; canonical title is **`அண்ணாமலைக்கு அரோகரா!`**;
+- article assemblies contain no advertisement text;
+- no P2 body text is omitted;
+- no unsupported text is added;
+- physical-copy stamps remain outside printed-text layers;
+- historical-glyph unresolved count remains **0**.
 
-## P2 terminal publication matter
-
-- scan 30 — `‘கலையக’த்தின் அரிய நூல்களில் சில!`
-- scan 31 — `‘கலையக’த்தின் 27-வது வெளியீடு!` / `வானம்பாடி`
-- scan 32 — `புதுமை பிரசுரங்கள்!`
-- scan 33 — terminal advertisement `“கலையக”த்தின் 25வது வெளியீடு!` / `எழிலரசி கிளியோபாட்ரா`
-
-These are **not article body** and must not be assembled into the four P3 articles.
-
-## Exact activity — P3 all four articles in one go
-
-Create:
-
-1. `publications/thudikkum-ilamai/articles/01-thudikkum-ilamai.md`
-2. `publications/thudikkum-ilamai/articles/02-annamalaikku-arogara.md`
-3. `publications/thudikkum-ilamai/articles/03-poompuhar.md`
-4. `publications/thudikkum-ilamai/articles/04-vetri-vilakku.md`
-
-Assembly authority is the verified P2 page records only.
-
-For each article:
-
-- concatenate article-body text in physical scan order;
-- preserve the verified source heading exactly;
-- remove only page-record metadata/audit scaffolding;
-- preserve source wording, punctuation, quotations, unusual spellings and rhetoric;
-- join physical page-boundary word fragments only where the adjacent verified P2 records establish the same word;
-- do not modernize;
-- do not use OCR/web/alternate editions;
-- add durable source-scan provenance for the article range;
-- compare assembled body back to every contributing P2 page record;
-- report page-record coverage and any assembly corrections.
-
-Expected P3 result:
-
-- article assemblies — **4/4 COMPLETE / PASS**
-- source page coverage — **25/25 article scans**
-- omitted page-record body text — **0**
-- added unsupported body text — **0**
-- unresolved assembly issues — **0**
-
-After P3, update:
+Create a durable P4 audit record, then update:
 
 - publication `README.md`
-- `audit.md`
+- publication `audit.md`
 - root `HANDOVER.md`
 - this prompt
 
-Next gate after successful P3: **P4 publication source/completeness audit**.
+Expected result:
 
-Do not begin English translation; English remains blocked until Tamil P5 / frozen.
+- P4 — **COMPLETE / PASS**
+- source coverage — **33/33**
+- article coverage — **25/25**
+- article assemblies — **4/4**
+- propagation defects — **0**
+- unresolved blockers — **0**
+
+Next gate after successful P4: **P5 strict visual-text-fidelity pass over all 33 physical scans**.
+
+Do not begin English translation.
