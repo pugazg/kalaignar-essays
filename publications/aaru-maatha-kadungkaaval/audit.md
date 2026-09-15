@@ -8,8 +8,8 @@
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings** |
 | P2R visual-fidelity re-audit | **COMPLETE — 224/224 physical scans re-audited** |
-| P3 | **NOT STARTED — NEXT** |
-| P4 | **NOT STARTED** |
+| P3 | **COMPLETE / PASS — 3/3 article assemblies: முரசு / களம் / சிறை** |
+| P4 | **NOT STARTED — NEXT** |
 | P5 | **NOT STARTED** |
 
 ## P0 audit
@@ -1962,8 +1962,20 @@ These two resolutions come from the user's explicit confirmation of the obscured
 
 P2 final state — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**.
 
+## P3 audit — COMPLETE / PASS
+
+Correct article inventory:
+
+| Article | Assembly | Range |
+|---|---|---|
+| முரசு | `articles/01-murasu.md` | body scans 10–65 |
+| களம் | `articles/02-kalam.md` | structural scans 66–106; heading on scan 68 |
+| சிறை | `articles/03-sirai.md` | structural scans 108–223 |
+
+The former two-article assembly was corrected after the user's intervention. `களம்` is not part of `முரசு`. Assembly-only omissions found during the post-correction recheck were repaired without changing canonical P2 records.
+
+P3 blockers — **0**.
+
 ## Exact next activity
 
-**P3 — article assembly / reading-copy construction.**
-
-Establish the source-supported assembly inventory and boundaries from the verified page map and canonical page records, then create the article assembly file(s). Preserve unresolved source holds explicitly.
+**P4 — source audit / completeness review.**

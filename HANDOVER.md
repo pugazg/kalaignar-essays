@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after the user explicitly resolved the two remaining source-obscured P2 holds: scan **18** `ஆ[…]விடக்கூடிய` → **`ஆகிவிடக்கூடிய`** and scan **198** `அ[…]ந்தார்` → **`அடைந்தார்`**. P2 is now **COMPLETE / PASS — 224/224 verified, 0 needs-review, 0 guessed readings**. P2R remains **COMPLETE — 224/224 physical scans re-audited**. These two hold resolutions are user-confirmed textual readings, not new scan-pixel or historical-glyph correction events; the cumulative historical-glyph correction-event count remains **20**. The next workflow gate remains **P3 — article assembly**.
+Handoff refreshed after **P3 article assembly completion**. The user corrected the publication to three article structures: **முரசு / களம் / சிறை**. P3 is now **COMPLETE / PASS — 3/3 assemblies**: `01-murasu.md` (body scans 10–65), `02-kalam.md` (scan-66 `தடை / கல்லக்குடி` transition + heading `களம்` on scan 68 through scan 106), and `03-sirai.md` (scan-108 intertitle + body through scan 223). P2 remains **COMPLETE / PASS — 224/224 verified, 0 needs-review, 0 guessed readings**; P2R remains **COMPLETE — 224/224**; historical-glyph correction-event count remains **20**. The next workflow gate is **P4 — source audit / completeness review**.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS 224/224; P2 COMPLETE / PASS 224/224 verified; P2R COMPLETE 224/224; P3 NEXT**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS; P2 COMPLETE / PASS 224/224; P2R COMPLETE 224/224; P3 COMPLETE / PASS 3/3; P4 NEXT**.
 
 Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated; Publication 12 remains the active workflow.
 
@@ -61,8 +61,8 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
 - P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
-- P3 — **NOT STARTED — NEXT**
-- P4 — **NOT STARTED**
+- P3 — **COMPLETE / PASS — 3/3 article assemblies (`முரசு`, `களம்`, `சிறை`)**
+- P4 — **NOT STARTED — NEXT**
 - P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil freezes**
 

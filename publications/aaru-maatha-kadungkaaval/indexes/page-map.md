@@ -9,6 +9,7 @@ Controlling attached source: `TVA_BOK_0064140_ஆறுமாதக்_கடு
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
 - P2R — **COMPLETE — 224/224 physical scans re-audited**
+- P3 — **COMPLETE / PASS — 3/3 article structures: முரசு / களம் / சிறை**
 
 Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVIEW.md)
 
@@ -24,14 +25,15 @@ Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVI
 | 6–7 | `காணிக்கை` dedication | front matter |
 | 8 | illustrated front-matter page / `முரசு` | front matter |
 | 9 | blank / reverse / show-through | no folio |
-| 10–66 | main text | source-visible folios as recorded page-by-page |
+| 10–65 | **முரசு** body | source-visible folios as recorded page-by-page |
+| 66 | **களம்** illustrated transition / `தடை` / `கல்லக்குடி` | no visible folio |
 | 67 | blank / reverse / show-through | no independent folio |
-| 68–106 | main text | source-visible folios |
+| 68–106 | **களம்** body; heading on scan 68 | scan 69 begins visible folio **66** sequence |
 | 107 | blank / reverse / show-through | no independent folio |
-| 108 | illustrated main-work intertitle / `சிறை` | no visible folio |
+| 108 | **சிறை** illustrated intertitle | no visible folio |
 | 109 | blank / reverse / show-through | no independent folio |
-| 110–150 | main text | source-visible folios |
-| 151–217 | main text | printed **148–214** |
+| 110–150 | **சிறை** body | source-visible folios |
+| 151–217 | **சிறை** body | printed **148–214** |
 | 218 | main text + embedded section transition `சிறை திறந்தது` | printed **215** |
 | 219–220 | main text; scan 220 closes section with star | printed **216–217** |
 | 221 | main text + section heading `வெற்றி! வெற்றி!!` | printed **218** |
@@ -308,8 +310,12 @@ No P2 hold remains open.
 
 Scans 16–17 remain independent physical page records.
 
+## P3 article inventory
+
+- `../articles/01-murasu.md` — **முரசு** — body scans 10–65.
+- `../articles/02-kalam.md` — **களம்** — structural scans 66–106; heading on scan 68.
+- `../articles/03-sirai.md` — **சிறை** — structural scans 108–223.
+
 ## Exact next activity
 
-**P3 — article assembly / reading-copy construction.**
-
-Use this verified structural map and the canonical page records to establish assembly boundaries. Use the resolved canonical readings for scans 18 and 198; no P2 source hold remains open.
+**P4 — source audit / completeness review.**

@@ -30,14 +30,14 @@ The earlier provisional 150-page P1 result was reopened after direct native insp
 | 6–7 | dedication | `காணிக்கை` |
 | 8 | illustrated front-matter page | `முரசு` witness |
 | 9 | blank / reverse / show-through | front-matter separator |
-| 10–65 | main text | continuous body run |
-| 66 | illustrated main-work intertitle | `தடை` / `கல்லக்குடி`; exact role refined during P2 direct inspection |
+| 10–65 | **முரசு** main text | article 1 continuous body run |
+| 66 | **களம்** illustrated transition | `தடை` / `கல்லக்குடி`; belongs to article 2 structure |
 | 67 | blank / reverse / show-through | structural separator |
-| 68–106 | main text | continuous body run |
+| 68–106 | **களம்** main text | heading `களம்` on scan 68; continuous body through 106 |
 | 107 | blank / reverse / show-through | structural separator |
-| 108 | illustrated main-work intertitle | `சிறை`; barred/padlocked prison-gate illustration; no visible folio |
+| 108 | **சிறை** illustrated intertitle | barred/padlocked prison-gate illustration; no visible folio |
 | 109 | blank / reverse / show-through | structural separator |
-| 110–217 | main text | continuous body run |
+| 110–217 | **சிறை** main text | continuous body run |
 | 218 | main text + embedded section transition | printed 215; star separator + `சிறை திறந்தது` |
 | 219–220 | main text | printed 216–217; scan 220 closes section with star |
 | 221 | main text + new section heading | printed 218; `வெற்றி! வெற்றி!!` |
@@ -73,6 +73,20 @@ Findings:
 - scan 223 / printed 220 is the final narrative/text page, ending with a quoted slogan block and star;
 - scan 224 is the physical back cover with the publisher device **`திராவிடப் பண்ணை`**; the lower ribbon reads **`தெப்பக்குளம் திருச்சி`**;
 - scan 224 is therefore the proven physical source end.
+
+## P3 structural refinement — three article structures
+
+The user explicitly corrected the P3 structure to **முரசு / களம் / சிறை**. Source boundaries support that correction:
+
+- **முரசு** closes on scan 65 with its triple refrain and printed star;
+- scan 66 `தடை / கல்லக்குடி` is the illustrated transition into **களம்**;
+- scan 67 is blank/reverse;
+- scan 68 carries the heading **களம்**; scan 69 carries visible printed folio **66**;
+- **களம்** continues through scan 106;
+- scan 107 is blank/reverse;
+- scan 108 is the illustrated **சிறை** intertitle; scan 109 is blank/reverse; scan 110 begins the body.
+
+This is a structural refinement of the closed P1 map; P1 remains COMPLETE / PASS.
 
 ## P2 structural refinement — scan 66
 
@@ -136,6 +150,4 @@ P2 and P5 must follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` and explic
 
 ## Exact next activity
 
-**P2 scans 101–105.**
-
-P1 remains closed after the scan-66 structural refinement. Do not reopen it unless genuinely new structural source evidence appears.
+P1 remains **COMPLETE / PASS**. Current publication workflow is **P4 — source audit / completeness review** after P3 closure.

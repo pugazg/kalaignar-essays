@@ -39,8 +39,8 @@ Direct native inspection established:
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
 - P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
-- P3 — **NOT STARTED — NEXT**
-- P4 — **NOT STARTED**
+- P3 — **COMPLETE / PASS — 3/3 article assemblies: `முரசு`, `களம்`, `சிறை`**
+- P4 — **NOT STARTED — NEXT**
 - P5 — **NOT STARTED**
 - English — **BLOCKED**
 
@@ -68,14 +68,14 @@ Direct visual structural inspection is complete:
 - 6–7 — `காணிக்கை` dedication
 - 8 — illustrated front matter / `முரசு`
 - 9 — blank / reverse
-- 10–65 — main text
-- 66 — illustrated main-work intertitle / `தடை` / `கல்லக்குடி`
+- 10–65 — **`முரசு`** body
+- 66 — **`களம்`** illustrated transition / `தடை` / `கல்லக்குடி`
 - 67 — blank / reverse
-- 68–106 — main text
+- 68–106 — **`களம்`** body; heading on scan 68
 - 107 — blank / reverse
-- 108 — illustrated main-work intertitle / `சிறை`
+- 108 — **`சிறை`** illustrated intertitle
 - 109 — blank / reverse
-- 110–223 — main text
+- 110–223 — **`சிறை`** body
 - 224 — back cover / publisher device
 
 Final extension findings:
@@ -931,8 +931,13 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - P2 is now **224/224 verified / 0 needs-review / 0 guessed readings**
 - historical-glyph correction-event count remains **20**
 
+## P3 article assemblies
+
+- **01 — முரசு** — `articles/01-murasu.md` — body scans 10–65.
+- **02 — களம்** — `articles/02-kalam.md` — scan 66 transition; scan 68 heading; through scan 106.
+- **03 — சிறை** — `articles/03-sirai.md` — scan 108 intertitle; body through scan 223.
+- review — `P3_ARTICLE_ASSEMBLY_REVIEW.md`.
+
 ## Exact next activity
 
-**P3 — article assembly / reading-copy construction.**
-
-Build the P3 assembly from the canonical page records after confirming exact source-supported boundaries from the P1 page map. Preserve source wording, source headings and page order; the former `[…]` holds at scans 18 and 198 are resolved in the canonical records; no silent normalization or contextual completion.
+**P4 — source audit / completeness review.**
