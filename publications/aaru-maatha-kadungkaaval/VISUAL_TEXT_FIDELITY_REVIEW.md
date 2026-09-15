@@ -17,9 +17,9 @@ Rules:
 ## Progress
 
 - physical scans — **224**
-- P5 checked — **195/224**
-- completed range — **1–195**
-- next range — **196–224**
+- P5 checked — **224/224 — COMPLETE**
+- completed range — **1–224**
+- next range — **none — P5 CLOSED**
 - current needs-review — **0**
 - current blocked — **0**
 - guessed readings — **0**
@@ -528,12 +528,84 @@ Batch P5-12 totals:
 - cumulative P5 canonical corrections — **3**
 - P5 cumulative progress — **195/224**
 
+## Batch P5-13 — scans 196–224 — FINAL
+
+Source: user-supplied derivative slice `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; stable mapping **extract page N = physical scan N+149**, so extract pages **47–75 = physical scans 196–224**.
+
+Result: **29/29 PASS / 0 new canonical corrections**.
+
+| Scan | P5 result | Key reconfirmation |
+|---:|---|---|
+| 196 | PASS | scan-195 open quotation continues `சொரண்டிப்` → `பிழைக்கிறவன்`; `ஆயாலக்குறி`, `கெச்சவாளியும்`, `மாறுவேடவிழா`, judges list / initials |
+| 197 | PASS | prize / recitation / music-competition names and initials; `கொரநாட்டுக் கருப்பூர் G. நாராயணசாமி`, `S. M. வைத்திலிங்கம்`, `ஜெயங்கொண்ட சோழபுரத்தில்` |
+| 198 | PASS — provenance-resolved reading retained | physical blue mark still obscures the controlling cluster in `முதற் பரிசை அ[…]ந்தார்`; canonical **`முதற் பரிசை அடைந்தார்`** remains the prior explicit user-confirmed resolution; no P5 guess or contextual completion introduced; all other visible text PASS |
+| 199 | PASS | historical-`றா` line-wrap identity in `கூறாமலிருக்க`, `C. D. மூர்த்தி`, `தெட்சணமூர்த்திதான்`, `மொண்டு ஊற்ற` |
+| 200 | PASS | `திருக் கரங்களால்`, `கடல் உருண்டை`, `‘பஸ்கி’`, friend-list names and terminal page fragment |
+| 201 | PASS | source-visible **`‘ஜோக்கர்’`**, `தீப்பில் துப்பட்டியால்`, `வைத்தீஸ்வரன்கோயில்`, `N. V. நடராசன்`, terminal `ஒரு கடிதம்` |
+| 202 | PASS | scan-201 continuation; `ரத்தக்காடாகவல்லவா`, `திருச்சி திராக்களின்`, quoted `தலைவர்களே விடுதலை செய்`, `அக்டோபர் முதல்நாள்` |
+| 203 | PASS | `பொட்டி ஸ்ரீராமுலுவின் எழும்பு மேட்டின்மீது`, source-visible `மார்பு, உண்ணாவிரதத்தைக் கிண்டல் செய்கிறார்`, `மட்டுந்தான்`, terminal `பெறமுடி` |
+| 204 | PASS | scan-203 `பெறமுடி` → `யுமே`; `திராவிடக் கூட்டாட்சி`, source semicolon `சென்னை; கோவை...`, terminal `நேரு` |
+| 205 | PASS | scan-204 `நேரு` → `வுக்கு`; `“நான்சென்ஸ்”`, Louis quotations, `என்றான்`, `பதினொராம்` |
+| 206 | PASS | `42 ஆகஸ்டு`, `நிலைக்கண்ணாடிக்கு நோக`, `ராசமான்`, `தடியடிக்காளாயினர்`, `தேனினுமினிய` |
+| 207 | PASS | Roman `Bat`, `கடலை உருண்டைகளை யெல்லாம்`, `கட்சி-`, source-visible `தானவே` |
+| 208 | PASS | `அக்டோபர் 15ம் நாள்`, `கோவைக் கத்தரி அழுதார்கள்`, `தேத்துவிட`, terminal `கல்லக்குடி படை` |
+| 209 | PASS | scan-208 continuation; source-visible **`இன்ப நினைவுடன் படுப்போம்`**, `ஸ்பெஷல் இன்டர்வியூ`, `முக, அலங்காரம்`, terminal `வெள்ளை உடைகள்` |
+| 210 | PASS | scan-209 continuation; long visitor / artist / legislator list, Latin initials / degrees and punctuation retained |
+| 211 | PASS | scan-210 continuation; `கதாசிரியர் ஆத்ரேயா`, `மாடர்ன் தியேட்டர்ஸ் சுலைமான்`, `P. C. P.`, `[Personal Cash Property]`; physical copy mark not promoted to text |
+| 212 | PASS | `P. C. P.யில்`, `ஓவல்டின்`, `பச்சைப் பட்டாணி டின்`, `மணியார்டரில்`, `(File)`, `நானூறுபேர்`; terminal `சிறை` |
+| 213 | PASS | scan-212 `சிறை` → `உடைகளை`; source-visible `சூப்பிரிண்டெண்டு`, `D. M. O.`, `ஆட்சேபணையில்லையென்று`, terminal quoted `ரேடியோ` |
+| 214 | PASS | scan-213 continuation; heading **`ஹிட்லர் பாட்டு - சுதந்திர மெட்டு!`**; repeated source forms `நாறுபது நாள்` / `நாறு நாட்கள்`, `ஜாலியன் வாலாபாக்` |
+| 215 | PASS | `தர்பார் சூரர்களோ`, `காகப்பட்டரின்`, `அக்கிரகாரத்தின்`, political passage; terminal `இந்தச் சிறு சந்தடிகளுக்` |
+| 216 | PASS | scan-215 continuation `...சந்தடிகளுக்` → `கெல்லாம்`; source-visible `ஒழிக்கப்படடாகவேண்டும்`, `மாசேவின்`, `அண்ணாவின்`; terminal `இதை அவர்` |
+| 217 | PASS | scan-216 continuation; `வாரன் ஹேஸ்டிங்ஸ்`, `மெளண்ட் பேட்டன்`, `சித்திரபுத்திரன்போல்-`, `மாகினட் அரணத் தொட்டேன்`; open quotation retained |
+| 218 | PASS | quotation closure `குட்டிச் சுவராகிவிடும்”`, printed **★**, heading **`சிறை திறந்தது`**, `முப்பத்தைந்து`, `ஜப்தி`, `முப்புரிக் காவலர்`; terminal `கருப்புக்` |
+| 219 | PASS | scan-218 `கருப்புக்` → `கொடி`; `ஜூலை 15ந்`, `ரஷ்யப் புரட்சி`, `சுகவாசஸ்தலம்`, `நவம்பர் மாதம் 21ம் நாள்`; terminal `ஐந்து மாதங்களுக்கு` |
+| 220 | PASS | scan-219 continuation; final question `அடிமைச் சங்கிலி அறுபடுவது எந்நாள்?` and printed **★** |
+| 221 | PASS | heading **`வெற்றி! வெற்றி!!`**, `டால்மியாபுரம்-கல்லக்குடியாக`, `கல்லக்குடி யென்னும்`, full victory argument |
+| 222 | PASS | `மாசே துங்`, `செஞ்சினம்`, `ஐ. நா. விலே`, `1917ல்`, `1905ல்`, `பனிரெண்டு`, `பட்டொளி` |
+| 223 | PASS — final text-bearing scan | closing argument, final three-line `சேர வருவீரே!` verse and printed **★** directly reconfirmed; upper-left physical-copy blot remains non-text |
+| 224 | PASS — terminal physical scan | back-cover publisher device **`திராவிடப்பண்ணை`**, banner **`தெப்பக்குளம் / திருச்சி`**; cultivator / oxen / rising-rays emblem remains image matter, not extra body text |
+
+Historical-family verification explicitly rechecked **`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`** throughout scans 196–224 directly from source pixels. Representative checks include `நாராயணசாமி`, `மூன்றாம்`, `கூறாமலிருக்க`, `கண்ணதாசன்`, `அண்ணா`, `நாற்பது`, `நாளிலே`, `மண்ணிலே`, `கண்ணீர்த்`, `முப்பத்தைந்து`, `தஞ்சையிலே`, `கண்ணபிரான்`, `விடுதலை`, and `தென்பாண்டி`. **No new P5 historical-glyph correction event** was required.
+
+The `articles/03-sirai.md` assembly was rechecked against final-range sensitive readings and already contains **`முதற் பரிசை அடைந்தார்`**, **`‘ஜோக்கர்’`**, **`இன்ப நினைவுடன் படுப்போம்`**, **`ஹிட்லர் பாட்டு - சுதந்திர மெட்டு!`**, **`சிறை திறந்தது`**, **`வெற்றி! வெற்றி!!`**, and the closing `சேர வருவீரே!` verse. No propagation repair was required.
+
+Batch P5-13 totals:
+
+- scans checked — **29**
+- canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- cumulative P5 canonical corrections — **3**
+- P5 cumulative progress — **224/224**
+
+## P5 final closure
+
+**P5 — COMPLETE / PASS — 224/224 physical scans.**
+
+Publication-level final gate:
+
+- physical scans checked — **224/224**
+- front matter / illustrated transitions / blanks / body / back cover — **all covered**
+- article assemblies rechecked — **3/3 — முரசு / களம் / சிறை**
+- P5 canonical corrections — **3**
+  1. scan 110 — `அந்த வானத்தையும்` → **`அந்தி வானத்தையும்`**
+  2. scan 121 — `போராட்டத் தலைவர்` → **`போராட்டத் தலைவன்`**
+  3. scan 159 — `ஜெயில் சூப்பிரின்டெண்டு:` → **`ஜெயில் சூப்பிரின்டெண்ட்:`**
+- P5 historical-glyph correction events — **0**
+- current needs-review — **0**
+- current blocked — **0**
+- guessed readings — **0**
+- unresolved fidelity discrepancies — **0**
+- provenance-resolved source-obscured readings retained — scan 18 **`ஆகிவிடக்கூடிய`** and scan 198 **`அடைந்தார்`**, both from explicit user confirmation rather than contextual guessing
+- article-assembly synchronization — **PASS**
+- silent normalization — **none introduced**
+- final status — **VISUAL-TEXT-FIDELITY COMPLETE / TAMIL ARCHIVAL LAYER FROZEN**
+
 ## Exact next activity
 
-**P5 Batch P5-13 — remaining physical scans 196–224.**
+**English translation startup — READY / NOT STARTED.**
 
-Use the same user-supplied derivative slice **`TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`**. Stable mapping: **extract page N = physical scan N+149**; therefore physical scans **196–224 = extract pages 47–75**.
-
-This is the **final 29-scan P5 range**. Preserve canonical page types / filenames exactly; scans 196–223 are `சிறை` body and scan 224 is the terminal back cover / publisher device.
-
-Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after physical scan 224 / extract page 75.
+Tamil P0–P5 is complete and frozen. English work may now begin as a separate layer; do not alter the frozen Tamil archival text unless genuinely new direct source evidence requires an explicit reopening.
