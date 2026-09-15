@@ -1,0 +1,64 @@
+# Page Map — பெருமூச்சு
+
+## P1 status
+
+**COMPLETE / PASS — 83/83 physical scans structurally classified**
+
+| Scan | Structural role | Article / unit |
+|---:|---|---|
+| 1 | illustrated front cover | — |
+| 2 | blank/reverse + physical-copy donation label | — |
+| 3 | title page + physical-copy handwriting/stamps | — |
+| 4 | edition / publisher page | — |
+| 5–6 | publisher preface | `மூச்சினிடையே!` |
+| 7–10 | body article | `பெருமூச்சு` |
+| 11–16 | body article | `மாளிகை அமைத்திட வாரீர்!` |
+| 17–20 | body article | `மந்திரிகள் குல நடுக்கம்` |
+| 21–23 | body article | `வாய்ஸ் வீரர்கள்!` |
+| 24–36 | body article | `பொது மக்களுக்குத் தனி எச்சரிக்கை` |
+| 37–40 | body article | `சிறுவர்கள்` |
+| 41–48 | body article | `அஹிம்சா விலாசம்` |
+| 49–52 | body article | `திண்டிவனம் தீரர்கள்!` |
+| 53–56 | body article | `சேலம் கூவுகிறது!` |
+| 57–62 | body article | `மாட்டோட்டிகள்!` |
+| 63–70 | body article | `தேர்தல் கோமாளி!` |
+| 71–76 | body article | `சிந்தித்தான்! சிரித்தான்!` |
+| 77–80 | body article | `பூம்! பூம்! பூம்!` |
+| 81 | advertisement / publisher catalogue | — |
+| 82 | advertisement / publisher catalogue | — |
+| 83 | advertisement / publisher catalogue / terminal scan | — |
+
+## Boundary checks
+
+- 6→7 preface→Article 1 — **PASS**
+- 10→11 — **PASS**
+- 16→17 — **PASS**
+- 20→21 — **PASS**
+- 23→24 — **PASS**
+- 36→37 — **PASS**
+- 40→41 — **PASS**
+- 48→49 — **PASS**
+- 52→53 — **PASS**
+- 56→57 — **PASS**
+- 62→63 — **PASS**
+- 70→71 — **PASS**
+- 76→77 — **PASS**
+- 80→81 body→advertisement — **PASS**
+- scan 83 terminal physical scan — **VERIFIED**
+
+## Counts
+
+- front matter / publisher preface — **6 scans**
+- article body — **74 scans**
+- article units — **13**
+- advertisements / catalogue matter — **3 scans**
+- total — **83 scans**
+- separate printed contents page — **none found**
+
+## Printed folios
+
+Visible folios in the principal body run align consistently with the physical sequence from scan 6 printed page 4 through scan 80 printed page 78. P2 must record only source-visible folios and use `null` where no folio is printed.
+
+## P2 rule
+
+Every one of the **83 physical scans** requires its own canonical page record, including front matter, the publisher preface, all article pages, advertisements and physical-copy marks.
