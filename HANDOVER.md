@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **English Article 1 `முரசு` T3–T5**. Tamil remains **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN — 224/224**. Article 1 English is now **T0–T5 PASS / VERIFIED** under the title **The Drum**. T3 made **4** voice corrections; T4 made **1** source-term correction, replacing interpretive `religious pretenders` with source-bearing ***Ashadabhuthis***; T5 verified English blob is `d629c2b13c6d01170bd96bd5e88409a4352f61c5`. Source comments are **56/56 PASS**, omitted Tamil clauses **0**, added substantive English claims **0**, Tamil changes **0**, blockers **0**. Next is **Article 2 `களம்` T0 + T1**. Publication 13 remains queued.
+Handoff refreshed after **English Article 2 `களம்` T0–T5**. Tamil remains **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN — 224/224**. English Articles 1–2 are now **T0–T5 PASS / VERIFIED**: Article 1 `முரசு` = **The Drum**; Article 2 `களம்` = **The Battlefield**. Article 2 used frozen Tamil blob `60c155dc93a4543e267ccbca5573d6f5b70e5672`, made **2 T2 fidelity corrections**, **0 T3 body corrections**, **3 T4 source-term corrections**, and closed T5 at verified English blob `9d37041cda4a6a8808b8009b7a86ba9e3b533246`. Source comments are **41/41 PASS**, paragraph-block scan matching **41/41 PASS**, Tamil body leakage **0**, Tamil changes **0**, blockers **0**. Next is **Article 3 `சிறை` T0 + T1**. Publication 13 remains queued.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` — TAMIL ARCHIVAL COMPLETE / FROZEN — P0–P5 PASS; English E0 PASS; Article 1 `முரசு` T0–T5 PASS / VERIFIED; Article 2 `களம்` T0/T1 NEXT**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` — TAMIL ARCHIVAL COMPLETE / FROZEN — P0–P5 PASS; English E0 PASS; Articles 1–2 `முரசு` / `களம்` T0–T5 PASS / VERIFIED; Article 3 `சிறை` T0/T1 NEXT**.
 
 Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated; Publication 12 remains the active workflow.
 
@@ -2274,3 +2274,30 @@ T3 sharpened sarcasm / praise cadence / widow-remarriage imagery and corrected o
 **Article 2 `களம்` — T0 source pin + T1 close draft.**
 
 Require frozen Tamil blob `60c155dc93a4543e267ccbca5573d6f5b70e5672`, create `publications/aaru-maatha-kadungkaaval/translations/en/02-kalam.md`, establish the working English title, preserve all source-page comments, and complete T1.
+
+
+## English Article 2 — `களம்` — T0–T5 closure
+
+- frozen Tamil blob — `60c155dc93a4543e267ccbca5573d6f5b70e5672`
+- T1 English blob — `78cd7094b8b57c00e6528b40c3c3768d7014971f`
+- T2 — **PASS** — 2 body corrections — `3ffc005a7e8653319a86954d42ac6d9f047e4c81`
+- T3 — **PASS** — 0 body corrections
+- T4 — **PASS** — 3 source-term corrections — `d5ac559f9a489a98b305b047ae651d97343e5f37`
+- T5 — **PASS / VERIFIED**
+- verified English title — **The Battlefield**
+- verified English blob — **`9d37041cda4a6a8808b8009b7a86ba9e3b533246`**
+- source comments — **41/41 PASS**
+- paragraph-block scan matching — **41/41 PASS**
+- omitted Tamil clauses after T2 — **0**
+- added substantive English claims after T2 — **0**
+- Tamil body leakage — **0**
+- Tamil changes — **0**
+- blockers — **0**
+
+T4 source-bearing decisions include ***pokkali*** for `போக்காளி`, northern ***moolavar*** for `வடநாட்டு மூலவர்`, and restoration of the ***kudi / uthira-kudi*** wordplay. Existing source-bearing forms ***ondavanda pidaris*** and ***othiya milars*** were retained without outside identification.
+
+### Exact next activity
+
+**Article 3 `சிறை` — T0 source pin + T1 close draft.**
+
+Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2`, create `publications/aaru-maatha-kadungkaaval/translations/en/03-sirai.md`, establish the working English title, preserve all source-page comments, and complete T1.
