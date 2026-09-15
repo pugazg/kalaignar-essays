@@ -6,15 +6,15 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **English Article 3 `சிறை` T0 + T1**. Article 2's corrected post-T5 authority remains `தூண்டிவிடப்பட்டேன்` at scan 77, Tamil blob `711b86300a3340ee73271a1cf613408905314498`, English blob `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`. Article 3 T0 re-fetched frozen Tamil blob **`0d860d48bcd666148c0a312ad296953f015225c2`** exactly and T1 translated the full structural span **108–223** under working title **Prison**. T1 English blob is **`31b3c8476ba4bd13264d0609a5553cdd1f7117b7`**; ordered source comments **116/116 PASS**; scan 109 blank/reverse has no invented prose; Tamil source changes **0**; blockers **0**. Next is **Article 3 T2 bilingual fidelity review**.
+Handoff refreshed after **Publication 12 English E6 consistency review + E7 release closeout**. Publication 12 `ஆறுமாதக் கடுங்காவல்` is now **TAMIL ARCHIVAL COMPLETE / FROZEN + ENGLISH-TRANSLATION COMPLETE / RELEASE CLOSED**. The three verified English article authorities remain **The Drum** `d629c2b13c6d01170bd96bd5e88409a4352f61c5`, **The Battlefield** `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`, and **Prison** `103a2492d110006cea520e03efd40fb3c1a5bdbc`. E6 required **0 article-body corrections**; E7 **PASS**; English source-page comments **213/213 PASS**; blockers **0**.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` — TAMIL ARCHIVAL COMPLETE / FROZEN — P0–P5 PASS; English Articles 1–2 VERIFIED; Article 3 `சிறை` T0 PASS / T1 COMPLETE; T2 NEXT**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 3/3 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated; Publication 12 remains the active workflow.
+Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -64,7 +64,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P3 — **COMPLETE / PASS — 3/3 article assemblies (`முரசு`, `களம்`, `சிறை`)**
 - P4 — **COMPLETE / PASS — source audit / completeness review**
 - P5 — **COMPLETE / PASS — 224/224 — visual-text-fidelity complete**
-- English — **E0 COMPLETE / PASS; T0 1/3 PASS; T1 1/3 COMPLETE; T2 1/3 PASS; 1/3 draft; Article 1 `முரசு` T3 next**
+- English — **T0–T5 3/3 VERIFIED; E6 PASS; E7 PASS; ENGLISH-TRANSLATION COMPLETE / RELEASE CLOSED; 213/213 source comments PASS; blockers 0**
 
 ## Mandatory startup
 
@@ -2347,7 +2347,7 @@ Article 3 is now individually closed at T5. Durable T4 terminology remains froze
 
 The frozen source-sensitive readings remain intact: scan 110 **`அந்தி`**, scan 121 **`தலைவன்`**, scan 159 **`சூப்பிரின்டெண்ட்`**, scan 198 **`அடைந்தார்`**, scan 201 **`‘ஜோக்கர்’`**, scan 209 **`இன்ப நினைவுடன்`**.
 
-### English publication article-level state
+### English publication release state — COMPLETE / PASS
 
 All three articles are individually **T5 VERIFIED**:
 
@@ -2355,7 +2355,24 @@ All three articles are individually **T5 VERIFIED**:
 - Article 2 `களம்` — **The Battlefield** — **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**
 - Article 3 `சிறை` — **Prison** — **`103a2492d110006cea520e03efd40fb3c1a5bdbc`**
 
-This does **not** yet mean the publication is English-translation complete. The required publication-level cross-article consistency / release gate has **NOT STARTED**.
+Publication-wide release gates:
+
+- E6 cross-article consistency review — **PASS**
+- E6 article-body corrections — **0**
+- recurring names / epithets — **PASS**
+- `Dravida / Dravidian` ideological vocabulary — **PASS / contextual distinctions retained**
+- repeated slogans / Kallakkudi–Dalmiyapuram terminology — **PASS**
+- shared source-bearing ***Nam Nadu***, ***Ashadabhuthis*** and ***moolavar*** — **PASS**
+- source-bearing transliterations / puns / unexplained labels — **PASS**
+- quotation / song / work-title treatment — **PASS**
+- title style — **PASS**
+- tone consistency / accidental smoothing — **PASS**
+- ordered English source comments — **213/213 PASS**
+- untranslated Tamil body leakage — **0**
+- E7 English release closeout — **PASS**
+- publication English blockers — **0**
+
+**Publication 12 final status: TAMIL ARCHIVAL COMPLETE / FROZEN + ENGLISH-TRANSLATION COMPLETE / RELEASE CLOSED.**
 
 ### Durable Article-2 correction
 
@@ -2367,20 +2384,7 @@ Do not regress the user-confirmed scan-77 correction:
 
 ### Exact next activity
 
-**Publication-level English cross-article consistency / release gate only.**
+Do **not** reopen Publication 12 merely for stylistic polishing.
 
-Use the three verified English article blobs above. Audit:
-
-- recurring names and epithets;
-- `Aryan` / `Dravidian` and other ideological vocabulary;
-- repeated phrases and slogans;
-- source publication / periodical / work titles;
-- source-bearing transliterations, puns and unexplained labels;
-- quotation and song treatment;
-- title style;
-- tone consistency;
-- source-page-comment completeness;
-- accidental smoothing introduced across articles.
-
-Do not start this gate unless explicitly directed.
+Publication 13 `துடிக்கும் இளமை` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Begin P2 only after the user explicitly activates Publication 13.
 
