@@ -34,15 +34,15 @@ Date: **2026-09-15**
 
 ## Article review ledger
 
-### Article 1 — `முரசு` — T0 PASS / T1 COMPLETE
+### Article 1 — `முரசு` — T0–T5 PASS / VERIFIED
 
 - frozen Tamil blob — `7a41617cd48f8507bc12074fb48d6016fae5cead`
 - T0 — **PASS** — live `main` re-fetch matched the frozen blob exactly before drafting
 - T1 — **COMPLETE / draft**
 - English file — `01-murasu.md`
 - T1 English blob — `a94630638fa194290e0761259131cc4548d429e4`
-- working English title — **The Drum** — provisional until T4
-- translation status — `draft`
+- verified English title — **The Drum**
+- translation status — `verified`
 - source scans — **10–65**
 - ordered source-page comments — **56/56 preserved**
 - untranslated Tamil body leakage — **0**; only `title_ta` remains Tamil in metadata
@@ -50,9 +50,14 @@ Date: **2026-09-15**
 - T2 — **PASS**
 - T2 English blob — `ffea867e2163d8a87763bb3fba798d467268da84`
 - T2 body corrections — **8**
-- T3 — **NOT STARTED**
-- T4 — **NOT STARTED**
-- T5 — **NOT STARTED**
+- T3 — **PASS**
+- T3 English blob — `fcd98ef6c92d14b10f69f0fcda76fe8507e14331`
+- T3 body corrections — **4**
+- T4 — **PASS**
+- T4 body authority — `bbf4de306e1d0f8442237ee654abbbdb7244d7d5`
+- T4 body corrections — **1**
+- T5 — **PASS / VERIFIED**
+- verified English blob — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`
 - blockers — **0**
 
 T1 preserves the source's memoir/political cadence, direct address, questions, exclamations, repeated drum imagery, embedded verse and slogans, duplicated physical witnesses on scans 16–17, and all source-page boundaries.
@@ -101,6 +106,71 @@ T2 deliberately retained for later T3/T4 review rather than smoothing by prefere
 
 T2 result: **PASS**. English remains `translation_status: "draft"` pending T3–T5.
 
+#### T3 Kalaignar voice review — PASS
+
+The complete T2 English was reread beside frozen Tamil for directness, sarcasm, humour, martial imagery, praise-catalogues, travel speed, abrupt contrasts, slogans and the Thillai crescendo.
+
+T3 corrections:
+
+1. **scan 27** — **Government of astonishing heroism** → **Government of impossible valour**, sharpening the sarcasm of `அசகாய சூரத்தனம்`;
+2. **scan 32** — recast the Murugesan praise as **Modesty—selflessness—boundless enthusiasm: friend Murugesan stands almost as the very example of all three**, restoring accumulative praise cadence;
+3. **scan 36** — **a woman whose life had been taken from her** → **a woman robbed of a life**, with the continuation **give life back to the woman who had set out to live**, strengthening the widow/remarriage metaphor without reverting to literal death;
+4. **scan 59** — English agreement **people like Jamal ... deserves** → **people like Jamal ... deserve**.
+
+T3 deliberately retained source-strange forms rather than polishing them away: **Daridra Narayanas**, source **patience** in the cinema passage, **sparrow-heads**, the Kallar/thief pun, ***ponnai sandhi***, **Muttamil**, colloquial **No, da, no**, and the closing triple **The drum thundered!**
+
+- T2 corrections regressed — **0**
+- semantic additions introduced by T3 — **0**
+- ordered source comments — **56/56 PASS**
+- Tamil changes — **0**
+- blockers — **0**
+
+#### T4 terminology / quotation / citation audit — PASS
+
+- title `முரசு` → **The Drum** — **VERIFIED**
+- `ஆச்சாரியார்` → **Achariyar** — **PASS**
+- `திராவிட முன்னேற்றக் கழகம்` → **Dravida Munnetra Kazhagam** — **PASS**
+- `திராவிட நாடு` → **Dravida Nadu** — **PASS**
+- `அறப்போர்` → **righteous struggle** — **PASS**
+- `வர்ணாசிரமம்` → **varnasrama** — **PASS**
+- `சனாதனிகள்` → **Sanatanists** — **PASS**
+- `அக்கிரகாரம்` → **agraharam** — **PASS**
+- `கள்ளர்` → **Kallar**, with thief pun retained — **PASS**
+- `முத்தமிழ்` → **Muttamil** — **PASS**
+- `மழவர்கள்` → **Mazhavars** — **PASS**
+- `தரித்திர நாராயணர்கள்` → **Daridra Narayanas** — **PASS**
+- `பொன்னை சந்தி` → ***ponnai sandhi*** — **PASS / source-irregular wording retained**
+- `பறையன்` → **Paraiyan** — **PASS**
+- `நம்நாடு` / `தீப்பொறி` → ***Nam Nadu*** / ***Theeppori*** — **PASS**
+- film/play titles, dates, times, amounts, initials and organisation names — **PASS**
+- quotation scope / repeated punctuation — **PASS**
+- ordered source-page comments — **56/56 PASS**
+- external explanatory body claims — **0**
+
+T4 body correction:
+
+1. **scan 61** — `ஆஷாடபூதிகள்`: interpretive **religious pretenders** → source-bearing ***Ashadabhuthis*** because the frozen article does not itself explain the term.
+
+T4 body authority — **`bbf4de306e1d0f8442237ee654abbbdb7244d7d5`**.
+
+#### T5 article verification — PASS / VERIFIED
+
+- frozen Tamil authority unchanged — **PASS**
+- T0 / T1 / T2 / T3 / T4 — **PASS**
+- source scans — **10–65 / 56 physical scans represented**
+- ordered source-page comments — **56/56**
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- untranslated Tamil body leakage — **0**
+- unresolved release-blocking translation choices — **0**
+- blockers — **0**
+- final metadata — `translation_status: verified`
+- verified title — **The Drum**
+- verified English blob — **`d629c2b13c6d01170bd96bd5e88409a4352f61c5`**
+- Tamil source changes during T0–T5 — **0**
+
+**ARTICLE 1 T5 RESULT: PASS / VERIFIED.**
+
 ### Article 2 — `களம்`
 
 - frozen Tamil blob — `60c155dc93a4543e267ccbca5573d6f5b70e5672`
@@ -117,6 +187,6 @@ T2 result: **PASS**. English remains `translation_status: "draft"` pending T3–
 
 ## Exact next activity
 
-**Article 1 — `முரசு` — T3 Kalaignar voice review.**
+**Article 2 — `களம்` — T0 source prerequisite + T1 close draft.**
 
-Re-read frozen Tamil blob `7a41617cd48f8507bc12074fb48d6016fae5cead` beside T2 English blob `ffea867e2163d8a87763bb3fba798d467268da84`. Preserve all T2 corrections while reviewing voice, cadence, humour, sarcasm, direct address, repetitions, martial imagery, slogans and emotional temperature. Do not begin T4 unless separately directed.
+Re-fetch frozen Tamil blob `60c155dc93a4543e267ccbca5573d6f5b70e5672`, create `02-kalam.md`, establish the working English title, preserve source-page traceability, and complete the close draft without changing frozen Tamil.
