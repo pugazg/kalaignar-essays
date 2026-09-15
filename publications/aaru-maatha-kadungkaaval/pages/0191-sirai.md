@@ -44,6 +44,17 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - because the prior record was only a placeholder, these are first canonical readings and do **not** add correction events.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R36
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **42** / original physical scan **191**.
+- scan-190 terminal `பாராட்டியிருக்க` + this page's opening `கிறார் என்று!` continuation was reconfirmed as `பாராட்டியிருக்கிறார் என்று!`.
+- source-visible `நாற்காலி`, `நீக்ரோவர்`, `செவ்விந்தியர்`, `நிலைமைவரையிலே`, `மொழிப்பித்துக்கொண்டு`, and terminal `தெரிவிக்க விரும்புகிறேன்.` were reconfirmed without normalization.
+- paper toning / scattered age specks and isolated dark dots remain non-publication layer.
+- mandatory historical-family verification was repeated; `நாற்காலி` (`றா`), `நிலைமையிலிருந்து` / `நிலைமைவரையிலே` (`லை`), `அன்றாட` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 191 placeholder was replaced only after full direct source-pixel transcription and audit.

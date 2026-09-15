@@ -46,6 +46,17 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or lexical modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R36
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete quoted ending was rechecked directly from derivative extract page **44** / original physical scan **193**.
+- scan-192 terminal `மாறுவதிலே என்ன` + opening `தவறு!` continuation was reconfirmed.
+- source-visible `லத்தின் மொழியின்`, `தாய்மொழிப் பித்துக்கொண்டு`, `16ம் நூற்றாண்டின்`, `ஆலவட்டம்`, `ஆஷாட பூதிகளின்`, `எம்மையறியாமலேயே`, and the final quoted slogan were reconfirmed.
+- paper toning / age specks and faint lower-left physical-copy traces remain non-publication layer.
+- mandatory historical-family verification was repeated; `கல்லறையிருக்கும்` / `நூற்றாண்டின்` (`றா` checks), `நினைத்துக்`, `கண்ணீரும்`, and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 193 placeholder was replaced only after full direct source-pixel transcription and audit.

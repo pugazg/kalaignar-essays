@@ -41,6 +41,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R36
+
+- every printed word, punctuation mark, meaningful spacing, running header, visible folio and terminal continuation was rechecked directly from derivative extract page **43** / original physical scan **192**.
+- source-visible `இறந்துவிடுமோ மருத்துவர்கள் கூறுகிறார்கள்`, `இளங் காற்று`, `இன்பமூட்டுமென்று`, `அடிப்படத்திலிருந்து`, `மழலையின் மரணப்படுகை`, `துறப்போகும்`, and terminal `மாறுவதிலே என்ன` were reconfirmed without editorial repair.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `நிலைதான்` (`லை`), `மரணத்தை` / `மரணப்படுகை` (`ணை` family checks), `மாறுகிறது` / `மாறுவதிலே` (`றா`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 192 placeholder was replaced only after full direct source-pixel transcription and audit.

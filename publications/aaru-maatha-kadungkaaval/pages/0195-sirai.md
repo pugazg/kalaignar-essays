@@ -46,6 +46,18 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - because the prior record was only a placeholder, these are first canonical readings and do **not** add correction events.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R36
+
+- every printed word, Roman parenthetical, quotation mark, punctuation mark, meaningful spacing, running header, visible folio, line-wrap join and terminal fragment was rechecked directly from derivative extract page **46** / original physical scan **195**.
+- scan-194 terminal `நான் திடுக்கிட்டுப்` + opening `போனேன்.` continuation was reconfirmed.
+- source-visible `கொல்லென்று`, `மணமாகாதபிள்ளை`, `நாணயத்தைப்பற்றி`, `(Fancy Dress)`, `குடு குடுப்பைக்காரன்`, the quoted `குடு குடு...` sequence, and terminal `சொரண்டிப்` were reconfirmed.
+- direct lexical line-wrap joins previously recorded on this page were rechecked; no physical line break was treated as a lexical space.
+- paper toning / age specks and faint diagonal physical-copy marks remain non-publication layer.
+- mandatory historical-family verification was repeated; `நாணம்` / `நாணயத்தைப்பற்றி` (`ணா`), `காலையிலே` (`லை`), `பண்ணினவன்`, and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 195 placeholder was replaced only after full direct source-pixel transcription and audit.

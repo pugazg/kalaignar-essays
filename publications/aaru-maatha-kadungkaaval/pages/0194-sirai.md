@@ -51,6 +51,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R36
+
+- every printed word, heading, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from derivative extract page **45** / original physical scan **194**.
+- heading `அதிசயம்!`, the two-line `கிளம்பிற்றுக் காண்...` quotation, `வெள்ளுடை அணிந்த ஒரு நர்ஸ்`, `போய்விடுவாளாக்கும்`, `நின்றுகொண்டேயிருந்தாள்`, `கல்யாணம் செய்துகொள்ள`, and terminal `நான் திடுக்கிட்டுப்` were reconfirmed.
+- paper toning / age specks and faint diagonal physical-copy marks remain non-publication layer.
+- mandatory historical-family verification was repeated; `கிளம்பிற்றுக்` / `கிழித்தெறியத்` (`றா` family checks), `நின்றுகொண்டேயிருந்தாள்`, `கல்யாணம்`, and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 194 placeholder was replaced only after full direct source-pixel transcription and audit.
