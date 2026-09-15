@@ -286,15 +286,32 @@ T4 body authority — `d5ac559f9a489a98b305b047ae651d97343e5f37`.
 
 **ARTICLE 2 T5 RESULT: PASS / VERIFIED.**
 
-### Article 3 — `சிறை`
+### Article 3 — `சிறை` — T0 PASS / T1 COMPLETE
 
 - frozen Tamil blob — `0d860d48bcd666148c0a312ad296953f015225c2`
-- T0–T5 — **NOT STARTED**
-- English title — **TBD**
+- T0 — **PASS** — live `main` re-fetch matched the frozen blob exactly before drafting
+- structural scans — **108–223**
+- T1 — **COMPLETE / draft**
+- English file — `03-sirai.md`
+- T1 English blob — `31b3c8476ba4bd13264d0609a5553cdd1f7117b7`
+- working English title — **Prison** — provisional until T4
+- translation status — `draft`
+- ordered source-page comments — **116/116 preserved**
+- scan 109 blank/reverse — **no invented prose**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes during T0/T1 — **0**
+- T2 — **NOT STARTED**
+- T3 — **NOT STARTED**
+- T4 — **NOT STARTED**
+- T5 — **NOT STARTED**
 - blockers — **0**
+
+T1 preserves source headings, prison-administration satire, speeches, songs, quoted notices, political argument, numerical lists, casualty / sentence details, prison slang and the long closing liberation argument. It also preserves the frozen source-sensitive readings at scans 110, 121, 159, 198, 201 and 209.
+
+Material choices carried forward for T2–T4 include working title **Prison**; **Black Hole of Calcutta**; **Water Establishment Minister**; **People's Assembly** / **Speaking Assembly**; ***Kandam***; **“Kaanikkai” Warder**; ***manukkaaran***; ***kudukuduppaikkaran***; ***kechavaali***; and **triple-thread guardian**.
 
 ## Exact next activity
 
-**Article 3 — `சிறை` — T0 source prerequisite + T1 close draft.**
+**Article 3 — `சிறை` — T2 bilingual fidelity review.**
 
-Re-fetch frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2`, create `03-sirai.md`, establish the working English title, preserve source-page traceability, and complete the close draft without changing frozen Tamil.
+Compare frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` against T1 English blob `31b3c8476ba4bd13264d0609a5553cdd1f7117b7` across all scans 108–223. Check every paragraph / clause, headings, lists, songs, quotation scope, dates, names, numbers, negatives, page-boundary continuations, prison terminology and all 116 source-page comments. Record every correction. Do not begin T3 unless separately directed.
