@@ -29,7 +29,7 @@ The three strict-reviewed Tamil assemblies below are the sole translation author
 | # | Tamil title | Structural scans | Tamil assembly | Frozen Tamil blob | English title/status |
 |---:|---|---:|---|---|---|
 | 1 | `முரசு` | 10–65 | `articles/01-murasu.md` | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **The Drum — T0–T5 PASS / VERIFIED** |
-| 2 | `களம்` | 66–106 | `articles/02-kalam.md` | `60c155dc93a4543e267ccbca5573d6f5b70e5672` | **title to be established at T1/T4 — not started** |
+| 2 | `களம்` | 66–106 | `articles/02-kalam.md` | `60c155dc93a4543e267ccbca5573d6f5b70e5672` | **The Battlefield — T0–T5 PASS / VERIFIED** |
 | 3 | `சிறை` | 108–223 | `articles/03-sirai.md` | `0d860d48bcd666148c0a312ad296953f015225c2` | **title to be established at T1/T4 — not started** |
 
 Translation order is fixed to the source structure: **1 → 2 → 3**.
@@ -132,8 +132,30 @@ After all 3/3 articles are T5 verified:
 - Tamil changes — **0**
 - blockers — **0**
 
+## Article 2 progress — `களம்`
+
+- T0 — **PASS**
+- frozen Tamil blob — **`60c155dc93a4543e267ccbca5573d6f5b70e5672`**
+- structural scans — **66–106**
+- T1 — **COMPLETE**
+- T1 English blob — **`78cd7094b8b57c00e6528b40c3c3768d7014971f`**
+- T2 — **PASS** — 2 body corrections
+- T2 English blob — **`3ffc005a7e8653319a86954d42ac6d9f047e4c81`**
+- T3 — **PASS** — 0 body corrections; T2 body retained unchanged through voice review
+- T3 body authority — **`3ffc005a7e8653319a86954d42ac6d9f047e4c81`**
+- T4 — **PASS** — 3 source-term corrections
+- T4 body authority — **`d5ac559f9a489a98b305b047ae651d97343e5f37`**
+- T5 — **PASS / VERIFIED**
+- verified title — **The Battlefield**
+- verified English blob — **`9d37041cda4a6a8808b8009b7a86ba9e3b533246`**
+- source-page comments — **41/41 PASS**, scans **66–106**
+- paragraph-block count per scan — **41/41 scan segments match Tamil**
+- untranslated Tamil body leakage — **0**
+- Tamil changes during T0–T5 — **0**
+- blockers — **0**
+
 ## Exact next activity
 
-**Article 2 — `களம்` — T0 source pin + T1 close draft.**
+**Article 3 — `சிறை` — T0 source pin + T1 close draft.**
 
-Require frozen Tamil blob `60c155dc93a4543e267ccbca5573d6f5b70e5672`, create `translations/en/02-kalam.md`, establish the working English title, preserve source-page comments, and translate the complete article without altering frozen Tamil.
+Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2`, create `translations/en/03-sirai.md`, establish the working English title, preserve source-page comments, and translate the complete article without altering frozen Tamil.
