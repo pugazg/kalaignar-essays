@@ -286,7 +286,7 @@ T4 body authority — `d5ac559f9a489a98b305b047ae651d97343e5f37`.
 
 **ARTICLE 2 T5 RESULT: PASS / VERIFIED.**
 
-### Article 3 — `சிறை` — T0/T1/T2/T3/T4 PASS
+### Article 3 — `சிறை` — T0–T5 PASS / VERIFIED
 
 - frozen Tamil blob — `0d860d48bcd666148c0a312ad296953f015225c2`
 - T0 — **PASS**
@@ -301,7 +301,7 @@ T4 body authority — `d5ac559f9a489a98b305b047ae651d97343e5f37`.
 - T4 body authority — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
 - English file — `03-sirai.md`
 - verified English title — **Prison**
-- translation status — `voice-reviewed`
+- translation status — `verified`
 - ordered source-page comments — **116/116 PASS**
 - scan 109 blank/reverse — **no invented prose**
 - T2 corrections regressed — **0**
@@ -310,7 +310,8 @@ T4 body authority — `d5ac559f9a489a98b305b047ae651d97343e5f37`.
 - Tamil source changes during T3 — **0**
 - material lexicon changes at T3 — **0**
 - blockers — **0**
-- T5 — **NOT STARTED**
+- T5 — **PASS / VERIFIED**
+- verified English blob — **`103a2492d110006cea520e03efd40fb3c1a5bdbc`**
 
 #### T2 correction ledger
 
@@ -406,9 +407,38 @@ T4 body corrections — **0**. The T3 article blob therefore remains the T4 body
 
 The living lexicon was updated to freeze the Article 3 decisions above and add the source-bearing terms ***udanpirappu***, ***thaar***, ***Ananthasayanam***, ***peerkkaakkal***, ***khudas***, ***nila-vilangu*** and ***baski***.
 
+#### T5 article verification — PASS / VERIFIED
+
+Final release checks:
+
+- frozen Tamil authority `0d860d48bcd666148c0a312ad296953f015225c2` — **exact / PASS**;
+- T0 / T1 / T2 / T3 / T4 — **PASS**;
+- verified English title — **Prison**;
+- T4 body authority before metadata-only release update — `7fa87637997c3f19b1f70fe1628a4e4bfe122164`;
+- T5 body changes — **0**; only `translation_status` changed from `voice-reviewed` to `verified`;
+- verified English blob — **`103a2492d110006cea520e03efd40fb3c1a5bdbc`**;
+- ordered source-page comments — **116/116 PASS**, scans **108–223**;
+- scan 109 blank/reverse — **PASS / no invented prose**;
+- scan 224 — **excluded / outside Article 3 prose**;
+- untranslated Tamil body leakage — **0**;
+- unresolved release-blocking terminology / quotation choices — **0**;
+- external explanatory body claims introduced at T5 — **0**;
+- Tamil source changes during T5 — **0**;
+- blockers — **0**.
+
+**ARTICLE 3 T5 RESULT: PASS / VERIFIED.**
+
+All three publication articles are now individually **T5 VERIFIED**. This does **not** by itself declare the publication English-translation complete; the separate publication-level cross-article consistency / release gate has not started.
+
 ## Exact next activity
 
-**Article 3 — `சிறை` — T5 article verification only.**
+**Publication-level English cross-article consistency / release gate only.**
 
-Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and exact T4 body authority `7fa87637997c3f19b1f70fe1628a4e4bfe122164`. Revalidate T0–T4 closure, title **Prison**, **116/116** ordered source comments, scan 109 blank/reverse, scan 224 exclusion, zero Tamil body leakage, zero unresolved release-blocking terminology choices, and zero blockers. Only after all checks pass may `translation_status` be changed to `verified`. Stop after Article 3 T5; do not start any publication-level English release gate unless explicitly directed.
+Use the three verified article authorities:
+
+- Article 1 `முரசு` — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`;
+- Article 2 `களம்` — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`;
+- Article 3 `சிறை` — `103a2492d110006cea520e03efd40fb3c1a5bdbc`.
+
+Audit recurring names and epithets, `Aryan` / `Dravidian` terminology, repeated slogans, periodical/work titles, source-bearing transliterations and puns, quotation/song treatment, title style, tone consistency, source-page-comment completeness, and accidental smoothing across all three verified articles. Do not start that gate unless explicitly directed.
 
