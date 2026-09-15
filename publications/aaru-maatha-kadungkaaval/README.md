@@ -34,15 +34,20 @@ Direct native inspection established:
 
 ## Current state
 
-- Publication 12 — **TAMIL ARCHIVAL COMPLETE / FROZEN — English Articles 1–2 VERIFIED; Article 3 `சிறை` T0 PASS / T1 COMPLETE; T2 NEXT**
-- P0 — **COMPLETE / PASS**
-- P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
-- P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
-- P3 — **COMPLETE / PASS — 3/3 article assemblies: `முரசு`, `களம்`, `சிறை`**
-- P4 — **COMPLETE / PASS — publication source audit / completeness review**
-- P5 — **COMPLETE / PASS — 224/224 — visual-text-fidelity complete**
-- English — **E0 PASS; verified articles 2/3 (`முரசு`, `களம்`); Article 3 `சிறை` T0/T1 next**
+- Publication 12 — **RELEASE COMPLETE / FROZEN**
+- Tamil archival layer — **P0–P5 COMPLETE / PASS / FROZEN**
+- P1 — **224/224 structurally mapped**
+- P2 — **224/224 verified; 0 needs-review; 0 guessed readings**
+- P2R visual-fidelity re-audit — **224/224 COMPLETE**
+- P3 — **3/3 article assemblies COMPLETE / PASS**
+- P4 — **COMPLETE / PASS**
+- P5 — **224/224 visual-text-fidelity COMPLETE / PASS**
+- English article verification — **3/3 T5 VERIFIED**
+- E6 publication-wide English consistency review — **PASS**
+- E7 English release closeout — **PASS**
+- English source-page comments — **213/213 PASS**
+- English status — **ENGLISH-TRANSLATION COMPLETE / RELEASE CLOSED**
+- blockers — **0**
 
 ## Historical Tamil glyph policy
 
@@ -1172,19 +1177,35 @@ User-confirmed canonical correction:
 - Tamil changes — **0**
 - blockers — **0**
 
-### English article-level status
+### Publication-level English release — COMPLETE / PASS
 
-All three publication articles are now individually **T5 VERIFIED**:
+All three publication articles are individually **T5 VERIFIED**:
 
-- **The Drum** — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`;
-- **The Battlefield** — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`;
-- **Prison** — `103a2492d110006cea520e03efd40fb3c1a5bdbc`.
+- **The Drum** — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`
+- **The Battlefield** — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`
+- **Prison** — `103a2492d110006cea520e03efd40fb3c1a5bdbc`
 
-The publication-level English cross-article consistency / release gate has **NOT STARTED**.
+E6 cross-article consistency review:
+
+- recurring names / epithets — **PASS**
+- `Dravida / Dravidian` ideological vocabulary — **PASS**
+- repeated slogans / Kallakkudi–Dalmiyapuram terminology — **PASS**
+- source publication / periodical / work titles — **PASS**
+- source-bearing transliterations / puns — **PASS**
+- quotation / song treatment — **PASS**
+- title style — **PASS**
+- tone consistency / accidental smoothing — **PASS**
+- English source-page comments — **213/213 PASS**
+- English body corrections required at E6 — **0**
+- blockers — **0**
+
+E7 English release closeout — **PASS**.
+
+**Final Publication 12 status: TAMIL ARCHIVAL COMPLETE / FROZEN + ENGLISH-TRANSLATION COMPLETE / RELEASE CLOSED.**
 
 ### Exact next activity
 
-**Publication-level English cross-article consistency / release gate only.**
+Do not reopen Publication 12 merely for stylistic polishing.
 
-Audit recurring terminology, names and epithets, `Aryan` / `Dravidian` vocabulary, repeated slogans, periodical/work titles, source-bearing transliterations and puns, quotations/songs, title style, tone consistency, source-page-comment completeness and accidental smoothing across all three verified articles. Do not start unless explicitly directed.
+Publication 13 `துடிக்கும் இளமை` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Begin P2 only after explicit user activation.
 
