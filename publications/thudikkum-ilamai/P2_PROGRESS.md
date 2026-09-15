@@ -86,8 +86,43 @@ The user-supplied full transcription is an alignment/comparison aid only. The su
 
 Page-internal typographic wraps may be rejoined; physical scan-boundary fragments are preserved in the individual page records.
 
+## P2 final publication batch — scans 30–33
+
+**COMPLETE / PASS — 4/4 verified**
+
+Canonical records:
+
+- scan 30 — `pages/0030-advertisement-kalaiyagam-books.md` — `‘கலையக’த்தின் அரிய நூல்களில் சில!`;
+- scan 31 — `pages/0031-advertisement-vaanampaadi.md` — `‘கலையக’த்தின் 27-வது வெளியீடு!`;
+- scan 32 — `pages/0032-advertisement-pudhumai-prasurangal.md` — `புதுமை பிரசுரங்கள்!`;
+- scan 33 — `pages/0033-advertisement-ezhilarasi-cleopatra.md` — terminal advertisement / `“கலையக”த்தின் 25வது வெளியீடு!`.
+
+Source-sensitive advertisement readings checked directly include:
+
+- scan 30 — `கைவசமில்லை`, `எழிலரசி கிளியோபாட்ரா`, `வெங்கண்ணு`, `எம். ஸ்ரீ`;
+- scan 31 — `வானம்பாடி` / `(அச்சில்)`;
+- scan 32 — `சறுக்கிச் சாய்ந்த`, `பலியிட்ட`, `விருதை. நா. இராமசாமி`, `மாதுரிதேவி`, `வரதாமுத்தியப்பன் தெரு`;
+- scan 33 — `ஒரு சிற்றிடையாள்!`, `எழிலரசி கிளியோபாட்ரா`, `சரித்திரச் சித்திரம்`, `உன்னத முறையில் அச்சாகிறது!`;
+- scan 33 later bookseller/news-agent stamp — recorded separately from printed advertisement text.
+
+P2 final totals:
+
+- physical scans — **33/33 VERIFIED**;
+- front matter — **4/4**;
+- article body — **25/25**;
+- advertisement/promotional matter — **4/4**;
+- needs-review / blocked / guessed — **0 / 0 / 0**;
+- unresolved historical-glyph / printed-text readings — **0**.
+
 ## Exact next activity
 
-**P2 final publication batch — scans 30–33.**
+**P3 article assembly — all four articles in one go.**
 
-Create four canonical records for the advertisements / promotional matter, including any physical-copy stamps separately from printed text. After that, P2 can close at **33/33** and P3 article assembly can begin.
+Create and verify:
+
+1. `articles/01-thudikkum-ilamai.md` from scans 5–12;
+2. `articles/02-annamalaikku-arogara.md` from scans 13–19;
+3. `articles/03-poompuhar.md` from scans 20–24;
+4. `articles/04-vetri-vilakku.md` from scans 25–29.
+
+Assemblies must reproduce the P2 canonical page records in order without silent modernization, preserve article headings and source wording, and record source-scan provenance.
