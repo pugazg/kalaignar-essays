@@ -38,8 +38,8 @@ Direct native inspection established:
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 205/224 scans; next 206–220; 15 scans/iteration**
-- P3 — **NOT STARTED**
+- P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited; 2 source-obscured P2 holds retained**
+- P3 — **NOT STARTED — NEXT**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 - English — **BLOCKED**
@@ -908,8 +908,24 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - guessed readings remain **0**.
 - P2R progress — **205/224**.
 
+
+### Batch R37 final — scans 206–224
+
+- per the user's instruction to process the **remaining pages**, the final P2R iteration covered all **19 remaining physical scans** / derivative extract pages **57–75**.
+- scans **206–208** — PASS / no canonical correction.
+- scan **209** — corrected `என்ற இன நினைவுடன் படுப்போம்.` → source-visible **`என்ற இன்ப நினைவுடன் படுப்போம்.`**.
+- scans **210–224** — PASS / no other canonical correction.
+- scan **223** — final text-bearing page / work terminus reconfirmed.
+- scan **224** — back cover / publisher device reconfirmed as the terminal physical scan.
+- ordinary source-fidelity corrections — **1**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- P2R physical re-audit — **COMPLETE 224/224**.
+- P2 canonical totals remain **222 verified / 2 needs-review**; retained source-obscured holds are scans **18** and **198**.
+- guessed readings remain **0**.
+- no physical source scan remains unprocessed.
+
 ## Exact next activity
 
-**P2R Batch R37 — scans 206–220.**
+**P3 — article assembly / reading-copy construction.**
 
-Process exactly **15 physical scans** with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract pages **57–71** map to original scans **206–220**. Stop after scan 220; do not process scan 221 / extract page 72.
+Build the P3 assembly from the canonical page records after confirming exact source-supported boundaries from the P1 page map. Preserve source wording, source headings, page order and the retained `[…]` holds; no silent normalization or contextual completion.

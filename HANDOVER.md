@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P2R Batch R36 / full visual-fidelity re-audit scans 191–205**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **205/224 scans complete**. Batch R36 produced **1 ordinary source-fidelity correction** (`‘ஜோக்கா’` → `‘ஜோக்கர்’` on scan 201), **0 new historical-family correction events**, and retained the source-obscured scan-198 hold. The cumulative historical-glyph correction-event count remains **20**. Per the user's latest instruction, P2R remains **15 physical scans per iteration**. Physical-source P2 record coverage is complete; fidelity backlog remains open.
+Handoff refreshed after **P2R final Batch R37 / remaining scans 206–224**. The user requested all remaining pages in one iteration, so P2R is now **COMPLETE — 224/224 physical scans re-audited**. Final Batch R37 produced **1 ordinary source-fidelity correction** (`என்ற இன நினைவுடன் படுப்போம்.` → `என்ற இன்ப நினைவுடன் படுப்போம்.` on scan 209) and **0 new historical-family correction events**; the cumulative historical-glyph correction-event count remains **20**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**, with source-obscured holds at scans **18** and **198** and guessed readings **0**. The next workflow gate is **P3 — article assembly**; do not restart page transcription or P2R.
 
 ## Repository state
 
@@ -60,8 +60,8 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 205/224 scans complete; next 206–220; 15 scans/iteration**
-- P3 — **NOT STARTED**
+- P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited; 2 source-obscured P2 holds retained**
+- P3 — **NOT STARTED — NEXT**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil freezes**
@@ -1920,13 +1920,36 @@ Batch R01 scans **1–5** is complete.
 - guessed readings remain **0**.
 - P2R progress — **205/224**.
 
+
+### Batch R37 final — scans 206–224
+
+- per the user's instruction to process the **remaining pages**, the final P2R iteration covered all **19 remaining physical scans** / derivative extract pages **57–75**.
+- scans **206–208** — PASS / no canonical correction.
+- scan **209** — corrected `என்ற இன நினைவுடன் படுப்போம்.` → source-visible **`என்ற இன்ப நினைவுடன் படுப்போம்.`**.
+- scans **210–224** — PASS / no other canonical correction.
+- scan **223** — final text-bearing page / work terminus reconfirmed.
+- scan **224** — back cover / publisher device reconfirmed as the terminal physical scan.
+- ordinary source-fidelity corrections — **1**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- P2R physical re-audit — **COMPLETE 224/224**.
+- P2 canonical totals remain **222 verified / 2 needs-review**; retained source-obscured holds are scans **18** and **198**.
+- guessed readings remain **0**.
+- no physical source scan remains unprocessed.
+
 ## Exact next activity
 
-**P2R Batch R37 — physical scans 206–220.**
+**P3 — article assembly / reading-copy construction.**
 
-Process exactly **15 physical scans** with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract page N = original physical scan N+149, so scans 206–220 map to extract pages **57–71**. Stop after scan 220; do not process scan 221 / extract page 72.
+Start from the canonical page records and the verified P1 page map. First establish the source-supported assembly inventory and exact start/end boundaries; then create the P3 article assembly file(s) under `publications/aaru-maatha-kadungkaaval/articles/`.
 
-Existing source-obscured holds remain scans 18 and 198.
+P3 rules:
+- page records are the canonical text authority; do not re-transcribe or normalize source wording;
+- preserve only source-supported headings and page-order text;
+- carry source-obscured `[…]` readings explicitly, including the retained holds at scans **18** and **198**;
+- page-boundary comments may be used where helpful, but editorial notes must remain outside article body;
+- after assembly, verify the reading copy against the canonical page sequence and synchronize controls.
+
+P4 and P5 remain **NOT STARTED**. English remains blocked until the Tamil gates freeze.
 
 ---
 

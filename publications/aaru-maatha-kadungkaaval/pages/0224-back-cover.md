@@ -48,7 +48,7 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - canonical correction — **none**.
 - new historical-family correction events — **0**; cumulative count remains **20**.
 - result — **PASS / terminal physical scan confirmed**.
-- **P2R physical re-audit now covers scans 1–224 / 224–224; no source scan remains unprocessed.**
+- **P2R physical re-audit now covers scans 1–224 / 224/224; no source scan remains unprocessed.**
 
 ## P2 நிலை
 

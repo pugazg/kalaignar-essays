@@ -1,62 +1,47 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P2R Batch R37 scans 206–220
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P3 article assembly
 
-Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`.
+Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## LIVE MAIN IS AUTHORITATIVE
+## Durable state
 
-Fetch live `main` first. Root `HANDOVER.md` and `publications/aaru-maatha-kadungkaaval/P2_REAUDIT_PROGRESS.md` are authoritative.
-
-## Batch size
-
-Per the user's latest instruction, process **15 physical scans in each iteration**.
-
-## Controlling source
-
-Primary source identity remains:
-`TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`
-
-Use only:
-`TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`
-
-Mapping: **extract page N = original physical scan N+149**.
-
-Batch R37: extract pages **57–71** = original scans **206–220**.
-
-No OCR, web copies, Wikisource, TVA web text, alternate editions, or contextual completion.
-
-## Durable state after Batch R36
-
-- P2 canonical coverage — **224/224**
-- P2 — **222 verified / 2 needs-review** (source-obscured holds scans 18 and 198)
-- P2R — **205/224 complete**
-- re-audited scans — **1–205**
-- historical-glyph correction-event count — **20**
+- P0 — **COMPLETE / PASS**
+- P1 — **COMPLETE / PASS — 224/224 structurally mapped**
+- P2 — **PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
+- retained source-obscured holds — scans **18** and **198**
+- P2R — **COMPLETE — 224/224 physical scans re-audited**
+- cumulative historical-glyph correction-event count — **20**
 - guessed readings — **0**
+- P3 — **NOT STARTED / NEXT**
+- P4, P5 — **NOT STARTED**
+- English — **BLOCKED until Tamil freezes**
 
-Batch R36:
-- scans 191–197 — PASS / no canonical correction
-- scan 198 — visible print PASS; source-obscured `முதற் பரிசை அ[…]ந்தார்` remains needs-review after native-resolution blue-mark separation
-- scans 199–200 — PASS / no canonical correction
-- scan 201 — `‘ஜோக்கா’` → **`‘ஜோக்கர்’`**
-- scans 202–205 — PASS / no canonical correction
-- ordinary source-fidelity corrections — **1**
-- new historical-family correction events — **0**
+Final P2R Batch R37 processed the user's requested remaining scans **206–224** / derivative extract pages **57–75**. Its only canonical correction was scan 209:
 
-## Mandatory line-wrap rule
+`என்ற இன நினைவுடன் படுப்போம்.` → **`என்ற இன்ப நினைவுடன் படுப்போம்.`**
 
-A physical line break is **not** evidence of a lexical space or word boundary. Rejoin split lexical words from direct glyph continuity.
+No new historical-family correction event was added.
 
-## Exact next activity
+## Exact next activity — P3
 
-Process exactly original physical scans **206–220** using derivative extract pages **57–71**.
+Perform **article assembly / reading-copy construction**.
 
-For every scan:
-1. compare every printed word, numeral, punctuation mark, meaningful spacing and page-boundary fragment with the canonical record;
-2. separate physical-copy marks / show-through from publication ink;
-3. explicitly verify `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-4. make only direct source-supported corrections;
-5. do not infer a lexical space from a physical line wrap;
-6. record PASS / correction details in the page record and `P2_REAUDIT_PROGRESS.md`;
-7. synchronize controls and commit.
+1. Read fresh:
+   - `ESSAY_PROCESSING_GUIDE.md`
+   - `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+   - `docs/FUTURE_WORK_GUIDELINES.md`
+   - root `HANDOVER.md`
+   - publication `README.md`
+   - `indexes/page-map.md`
+   - canonical page records required to establish boundaries.
+2. Establish the source-supported assembly inventory and exact start/end boundaries before creating files. Do not infer article boundaries solely from printed folio sequence.
+3. Create the P3 article assembly file(s) under `publications/aaru-maatha-kadungkaaval/articles/`.
+4. Assemble only from canonical page records:
+   - source wording must not change;
+   - preserve source-supported headings;
+   - preserve page order;
+   - carry unresolved `[…]` readings explicitly, including scans 18 and 198;
+   - page-boundary comments are allowed where useful;
+   - editorial notes belong outside the article body.
+5. Recheck the completed assembly against the canonical page sequence and synchronize `README.md`, `audit.md`, root `HANDOVER.md`, and `docs/NEXT_CHAT_PROMPT.md`.
 
-Stop after original scan **220** / extract page **71**. Do not process scan 221 / extract page 72.
+Do **not** begin P4, P5 or English in the same iteration unless P3 is fully completed and the workflow controls explicitly authorize the next gate.

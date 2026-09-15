@@ -7,8 +7,8 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 205/224 scans complete; next 206–220; 15 scans/iteration** |
-| P3 | **NOT STARTED** |
+| P2R visual-fidelity re-audit | **COMPLETE — 224/224 physical scans re-audited; 2 source-obscured P2 holds retained** |
+| P3 | **NOT STARTED — NEXT** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
 
@@ -1935,8 +1935,24 @@ Historical-family verification added **0 new correction events**; cumulative cou
 
 P2R progress — **205/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **206–220**.
 
+
+### Batch R37 final — scans 206–224
+
+| Scan(s) | Result | Re-audit finding |
+|---:|---|---|
+| 206–208 | PASS | full text / punctuation / page-boundary and historical-family checks confirmed |
+| 209 | PASS after correction | `என்ற இன நினைவுடன் படுப்போம்.` → source-visible `என்ற இன்ப நினைவுடன் படுப்போம்.` |
+| 210–220 | PASS | direct source wording / Roman tokens / quotations / headings / page-boundary fragments confirmed |
+| 221–222 | PASS | final section heading / body wording / complete endings confirmed |
+| 223 | PASS | final text-bearing page / final verse / printed star / work terminus confirmed |
+| 224 | PASS | back-cover publisher device / terminal physical scan confirmed |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **20**. Ordinary source-fidelity corrections — **1**.
+
+P2R is **COMPLETE — 224/224**. P2 remains **222 verified / 2 needs-review** (source-obscured scans **18** and **198**). Guessed readings remain **0**.
+
 ## Exact next activity
 
-**P2R Batch R37 — scans 206–220.**
+**P3 — article assembly / reading-copy construction.**
 
-Perform the same **15-page** word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Use derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`, extract pages **57–71** = original scans **206–220**. Stop after scan 220; do not process scan 221 / extract page 72.
+Establish the source-supported assembly inventory and boundaries from the verified page map and canonical page records, then create the article assembly file(s). Preserve unresolved source holds explicitly.

@@ -7,7 +7,8 @@ Controlling attached source: `TVA_BOK_0064140_ஆறுமாதக்_கடு
 - P0 — **COMPLETE / PASS**
 - physical source scans — **224**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
-- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records**
+- P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
+- P2R — **COMPLETE — 224/224 physical scans re-audited**
 
 Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVIEW.md)
 
@@ -286,19 +287,14 @@ P1 extension result:
 Current P2 totals:
 
 - coverage — **224/224**
-- verified — **209**
-- needs-review — **15**
+- verified — **222**
+- needs-review — **2**
 - blocked — **0**
 
 Open holds:
 
-- scan 3 — small imprint/printer text;
-- scan 4 — full publisher-note transcription;
-- scan 18 — physically obscured cluster after `ஒருவராக ஆ`;
-- scans 126–130 — exact full-page transcription / historical-glyph verification pending stable high-resolution source re-read;
-- scans 196–200 — exact full-page transcription / punctuation / physical-copy-mark and historical-glyph verification pending focused archival-fidelity re-read of the supplied extract.
-- scan 211 — one physical-copy dark/blue mark obscures the leading cluster immediately before `தாசிரியர் ஆத்ரேயா`; no hidden character was guessed.
-- scan 217 — one source-visible word immediately after `மணிமேடாக` and before `!` remains unresolved; no contextual reading was inserted.
+- scan 18 — physically obscured cluster after `ஒருவராக ஆ`; retained as source-obscured / no guessed completion;
+- scan 198 — dark-blue physical-copy mark obscures the cluster in `முதற் பரிசை அ[…]ந்தார்`; retained as source-obscured / no guessed completion.
 
 ## Printed-folio anomaly already established
 
@@ -312,4 +308,6 @@ Scans 16–17 remain independent physical page records.
 
 ## Exact next activity
 
-**P2 backlog-resolution scans 196–200.**
+**P3 — article assembly / reading-copy construction.**
+
+Use this verified structural map and the canonical page records to establish assembly boundaries. Preserve both retained source-obscured holds explicitly in the assembly.

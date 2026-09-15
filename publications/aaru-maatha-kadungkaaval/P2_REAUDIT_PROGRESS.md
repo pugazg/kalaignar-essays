@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **205/224**
-- completed range — **1–205**
-- next range — **206–220**
+- re-audited — **224/224 — COMPLETE**
+- completed range — **1–224**
+- next range — **none; P2R complete**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **20**
@@ -879,8 +879,42 @@ Ordinary source-fidelity corrections in Batch R36 — **1**.
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
 
+## Batch R37 final — scans 206–224
+
+| Scan | Re-audit result | Source-fidelity action |
+|---:|---|---|
+| 206 | PASS | full text / punctuation / historical-family check confirmed |
+| 207 | PASS | `Bat` / source lexical spacing / ending confirmed |
+| 208 | PASS | `அக்டோபர் 15ம் நாள்` / quotations / terminal fragment confirmed |
+| 209 | PASS after correction | `என்ற இன நினைவுடன் படுப்போம்.` → source-visible `என்ற இன்ப நினைவுடன் படுப்போம்.` |
+| 210 | PASS | long visitor list / Roman initials and degrees / terminal list fragment confirmed |
+| 211 | PASS | source-resolved overmarked `க` / `P. C. P.` block / ending confirmed |
+| 212 | PASS | Roman tokens / source wording / terminal `சிறை` confirmed |
+| 213 | PASS | scan-212 continuation / `D. M. O.` / quoted `ஸ்பீக்கர்` / terminal fragment confirmed |
+| 214 | PASS | heading / repeated source `நாறுபது / நாறு` forms / ending confirmed |
+| 215 | PASS | source wording / terminal `இந்தச் சிறு சந்தடிகளுக்` confirmed |
+| 216 | PASS | scan-215 continuation / source-visible irregular forms / terminal `இதை அவர்` confirmed |
+| 217 | PASS | scan-216 continuation / source-resolved `மணிமேடாகி விட்டது!` / open quotation confirmed |
+| 218 | PASS | quotation closure / printed star / `சிறை திறந்தது` / terminal fragment confirmed |
+| 219 | PASS | scan-218 continuation / quotations / numerals / terminal fragment confirmed |
+| 220 | PASS | scan-219 continuation / closing question / printed star confirmed |
+| 221 | PASS | heading `வெற்றி! வெற்றி!!` / complete ending confirmed |
+| 222 | PASS | source forms / numerals / complete ending confirmed |
+| 223 | PASS | final text-bearing page / final verse / printed star / work terminus confirmed |
+| 224 | PASS | back-cover publisher device / terminal physical scan confirmed |
+
+Historical-family findings:
+
+- the full 13-family set was explicitly checked throughout the remaining source pages by character identity;
+- new historical-family correction events — **0**; cumulative count remains **20**.
+
+Ordinary source-fidelity corrections in Batch R37 final — **1**.
+
+P2R is **COMPLETE — 224/224 physical scans re-audited**. P2 remains **222 verified / 2 needs-review** with source-obscured holds at scans **18** and **198**. Guessed readings remain **0**.
+
+
 ## Exact next activity
 
-**Batch R37 — physical scans 206–220.**
+**P3 — article assembly / reading-copy construction.**
 
-Process exactly **15 scans** with the same word-by-word visual fidelity and historical-glyph protocol. Use derivative extract pages **57–71** for original scans **206–220**. Stop after scan **220**; do not process scan 221 / extract page 72.
+Use the canonical page records plus the verified P1 page map to establish the source-supported assembly inventory and exact boundaries, then build the article assembly file(s) under `articles/`. Preserve source wording and unresolved `[…]` holds exactly; do not reopen or normalize the P2 text merely for style.
