@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after the user's second P3 structure correction: scan **66** is **`களம்`**, not `தடை`, and all page-record filenames for the `களம்` article have been renamed from the stale `*-murasu.md` pattern to `*-kalam.md` (scan 66 plus scans 68–106). The correct three article structures remain **முரசு / களம் / சிறை**. P3 remains **COMPLETE / PASS — 3/3 assemblies**. P2 remains **COMPLETE / PASS — 224/224 verified, 0 needs-review, 0 guessed readings**; P2R remains **COMPLETE — 224/224**. Next gate remains **P4 — source audit / completeness review**.
+Handoff refreshed after **P4 source audit / completeness review**. P4 is **COMPLETE / PASS** with **0 blockers**: all **224/224** numbered page records exist with no missing or duplicate scan record; the three article assemblies **முரசு / களம் / சிறை** have complete non-duplicated expected scan-marker coverage; scan **66** is canonical **`களம்`** and the `களம்` page-record range has no stale `*-murasu.md` filenames; P2 remains **224/224 verified, 0 needs-review, 0 guessed readings**; P2R remains **224/224 COMPLETE**. Next gate is **P5 — final strict visual text-fidelity pass**.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS; P2 COMPLETE / PASS 224/224; P2R COMPLETE 224/224; P3 COMPLETE / PASS 3/3; P4 NEXT**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` is ACTIVE — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 NEXT**.
 
 Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated; Publication 12 remains the active workflow.
 
@@ -62,8 +62,8 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
 - P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **COMPLETE / PASS — 3/3 article assemblies (`முரசு`, `களம்`, `சிறை`)**
-- P4 — **NOT STARTED — NEXT**
-- P5 — **NOT STARTED**
+- P4 — **COMPLETE / PASS — source audit / completeness review**
+- P5 — **NOT STARTED — NEXT**
 - English — **BLOCKED until Tamil freezes**
 
 ## Mandatory startup
@@ -1944,3 +1944,17 @@ Batch R01 scans **1–5** is complete.
 - these are **not guessed completions** and do not increment the historical-glyph correction-event count.
 - P2 final state — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**.
 
+
+
+## P4 closure — current authority
+
+- report — `publications/aaru-maatha-kadungkaaval/P4_SOURCE_AUDIT.md`
+- page records — **224/224**
+- missing / duplicate scan records — **0 / 0**
+- P2 final — **224 verified / 0 needs-review / 0 guessed readings**
+- P2R — **224/224 COMPLETE**
+- articles — **முரசு / களம் / சிறை — 3/3 complete**
+- P4 blockers — **0**
+- next — **P5 final strict visual text-fidelity pass**
+
+Historical batch sections above/below retain then-current intermediate counts only as provenance and do not override this current state.

@@ -9,8 +9,8 @@
 | P2 | **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings** |
 | P2R visual-fidelity re-audit | **COMPLETE — 224/224 physical scans re-audited** |
 | P3 | **COMPLETE / PASS — 3/3 article assemblies: முரசு / களம் / சிறை** |
-| P4 | **NOT STARTED — NEXT** |
-| P5 | **NOT STARTED** |
+| P4 | **COMPLETE / PASS — source audit / completeness review** |
+| P5 | **NOT STARTED — NEXT** |
 
 ## P0 audit
 
@@ -1976,6 +1976,20 @@ The former two-article assembly was corrected after the user's intervention. `�
 
 P3 blockers — **0**.
 
+## P4 audit — COMPLETE / PASS
+
+- report — `P4_SOURCE_AUDIT.md`
+- numbered page records — **224 / 224**
+- missing scan records — **0**
+- duplicate scan records — **0**
+- P2 final — **224 verified / 0 needs-review / 0 guessed readings**
+- P2R — **224/224 complete**
+- three article assemblies — **complete / no missing expected marker / no duplicate marker**
+- `களம்` stale `*-murasu.md` filenames — **0**
+- scan 66 canonical title — **`களம்`**
+- source-obscured holds — **0 current**
+- P4 blockers — **0**
+
 ## Exact next activity
 
-**P4 — source audit / completeness review.**
+**P5 — final strict visual text-fidelity pass.**

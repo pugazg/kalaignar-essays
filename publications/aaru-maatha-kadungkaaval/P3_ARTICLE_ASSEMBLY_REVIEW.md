@@ -52,8 +52,10 @@ This incorporates the user's explicit correction that scan 66 itself reads **`�
 - no unresolved `[…]` reading remains;
 - P3 blockers — **0**.
 
+## Subsequent gate status
+
+P4 has now completed successfully; see `P4_SOURCE_AUDIT.md`.
+
 ## Exact next activity
 
-**P4 — source audit / completeness review.**
-
-Verify that the three article assemblies, canonical page map, source metadata, front/back matter accounting, page-boundary coverage and publication-level controls are mutually consistent before starting P5.
+**P5 — final strict visual text-fidelity pass.**

@@ -40,8 +40,8 @@ Direct native inspection established:
 - P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
 - P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **COMPLETE / PASS — 3/3 article assemblies: `முரசு`, `களம்`, `சிறை`**
-- P4 — **NOT STARTED — NEXT**
-- P5 — **NOT STARTED**
+- P4 — **COMPLETE / PASS — publication source audit / completeness review**
+- P5 — **NOT STARTED — NEXT**
 - English — **BLOCKED**
 
 ## Historical Tamil glyph policy
@@ -97,7 +97,7 @@ Notable durable findings:
 - scans 16–17 repeat printed folios 13–14;
 - scan 18 resumes printed folio 15;
 - physical scans are never deduplicated;
-- historical-glyph correction count — **19**: scan 13 contributes the prior correction; Batch 021 adds **8** historical-family source-pixel corrections; Batch 041 adds **2** scan-205 historical-form corrections; P2R Batch R21 adds **2** historical-`ளை` repairs at scan 103; P2R Batch R25 adds **1** historical-`ளை` repair; P2R Batch R28 adds **3** historical-`றா` repairs; P2R Batch R31 adds **2** repairs (`றா` at scan 151 and `ளை` at scan 155).
+- historical-glyph correction-event count — **20 final**. Intermediate batch counts below are preserved as historical snapshots; current authority is P2R / P4.
 - scans 26–30 — **5/5 verified**, printed folios 23–27, no new holds.
 - scans 31–35 — **5/5 verified**, printed folios 28–32, headings `ஜூன் 19` / `விடிந்தது:`, no new holds; scan 35 ends at `வேலாயுதம்`.
 - scans 36–40 — **5/5 verified**, printed folios 33–37, scan 40 heading `திருச்சியிலே :`, no new holds; scan 40 ends at `கற்றுக்`.
@@ -154,19 +154,21 @@ Notable durable findings:
 
 - scans 196–200 — **0 verified / 5 needs-review**, printed folios **193–197**. All five source images were opened directly from extract pages **47–51**. Page identity and folios are confirmed; incomplete body text was not promoted. Guessed readings remain **0**; historical-glyph correction count remains **9**.
 
-Open holds:
+Former P2 holds — **RESOLVED**:
 
-- scan 18 — opaque white physical obstruction hides the cluster after `ஒருவராக ஆ`; source-only reinspection cannot recover the covered print;
-- scan 198 — dark-blue physical-copy mark still prevents a secure direct reading of all hidden characters in `முதற் பரிசை அ[…]ந்தார்` after native-image / channel inspection.
+- scan 18 — `ஆ[…]விடக்கூடிய` → **`ஆகிவிடக்கூடிய`** by explicit user confirmation;
+- scan 198 — `அ[…]ந்தார்` → **`அடைந்தார்`** by explicit user confirmation.
 
 Current P2 totals:
 
 - records — **224/224**
-- verified — **222**
-- needs-review — **2**
+- verified — **224**
+- needs-review — **0**
 - blocked — **0**
 - guessed readings — **0**
-- historical-glyph corrections — **11**
+- cumulative historical-glyph correction events — **20**
+
+> Historical batch logs below retain their then-current counts for provenance; they are not the current gate state.
 
 ## Batch 041 — scans 201–205
 
@@ -938,6 +940,16 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - **03 — சிறை** — `articles/03-sirai.md` — scan 108 intertitle; body through scan 223.
 - review — `P3_ARTICLE_ASSEMBLY_REVIEW.md`.
 
+## P4 source audit
+
+- result — **COMPLETE / PASS**
+- report — `P4_SOURCE_AUDIT.md`
+- physical page records — **224/224**, no missing/duplicate scan record
+- article assemblies — **3/3 complete** with no missing/duplicate expected markers
+- canonical structure — **முரசு / களம் / சிறை**
+- current P2 — **224 verified / 0 needs-review / 0 guessed readings**
+- P4 blockers — **0**
+
 ## Exact next activity
 
-**P4 — source audit / completeness review.**
+**P5 — final strict visual text-fidelity pass.**

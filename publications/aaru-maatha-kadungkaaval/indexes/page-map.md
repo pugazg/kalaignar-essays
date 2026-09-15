@@ -10,6 +10,8 @@ Controlling attached source: `TVA_BOK_0064140_ஆறுமாதக்_கடு
 - P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
 - P2R — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **COMPLETE / PASS — 3/3 article structures: முரசு / களம் / சிறை**
+- P4 — **COMPLETE / PASS — source audit / completeness review**
+- P5 — **NOT STARTED — NEXT**
 
 Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVIEW.md)
 
@@ -318,4 +320,4 @@ Scans 16–17 remain independent physical page records.
 
 ## Exact next activity
 
-**P4 — source audit / completeness review.**
+**P5 — final strict visual text-fidelity pass.**

@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P4 source audit
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P5 final strict visual fidelity
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -9,41 +9,44 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
 - P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
 - P2R — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **COMPLETE / PASS — 3/3 article assemblies**
-- P4 — **NOT STARTED / NEXT**
-- P5 — **NOT STARTED**
+- P4 — **COMPLETE / PASS — source audit / completeness review**
+- P5 — **NOT STARTED / NEXT**
 - English — **BLOCKED until Tamil freezes**
 - cumulative historical-glyph correction-event count — **20**
 
-## Correct three-article structure
+P4 report: `publications/aaru-maatha-kadungkaaval/P4_SOURCE_AUDIT.md`.
 
-1. **முரசு** — `articles/01-murasu.md`
-   - body scans **10–65**
-   - scan 65 closes with the triple `அதிர்ந்தது முரசு` refrain + printed star.
+## Correct article structure
+
+1. **முரசு** — `articles/01-murasu.md` — body scans **10–65**
 2. **களம்** — `articles/02-kalam.md`
-   - scan **66** illustrated **`களம்`** title-transition with station-board `கல்லக்குடி`
+   - scan **66** — illustrated **களம்** title-transition + station-board `கல்லக்குடி`
    - scan 67 blank/reverse
-   - scan **68** repeats the source heading **களம்** at the body start
-   - scan 69 has visible printed folio **66**
-   - body continues through scan **106**
+   - scan **68** repeats heading **களம்**
+   - body through scan **106**
+   - page records use `*-kalam.md`; do not restore stale `*-murasu.md` filenames
 3. **சிறை** — `articles/03-sirai.md`
-   - scan **108** illustrated `சிறை` intertitle
+   - scan **108** illustrated intertitle
    - scan 109 blank/reverse
    - body scans **110–223**
 
-User corrections are authoritative for this P3 structure: scan 66 is **`களம்`**, not `தடை`; all `களம்` page records are named `*-kalam.md`. Do not collapse `களம்` back into `முரசு`.
+Former source-obscured holds are resolved:
+- scan 18 — **`ஆகிவிடக்கூடிய`**
+- scan 198 — **`அடைந்தார்`**
 
-P3 review: `publications/aaru-maatha-kadungkaaval/P3_ARTICLE_ASSEMBLY_REVIEW.md`.
+## Exact next activity — P5
 
-## Exact next activity — P4
+Run the repository-mandated **final strict visual word/punctuation fidelity pass**.
 
-Perform the **publication source audit / completeness review**:
+Requirements from `ESSAY_PROCESSING_GUIDE.md`:
 
-1. verify all 224 physical scans remain accounted for;
-2. verify front matter, blanks, article boundaries, final text page and back cover;
-3. compare the three article assemblies against their canonical page ranges and confirm no page is omitted or duplicated;
-4. confirm page metadata / page-map article classification is consistent with **முரசு / களம் / சிறை**;
-5. confirm P2 final totals remain 224/224 verified, 0 needs-review, 0 guessed readings;
-6. confirm the two user-resolved readings remain `ஆகிவிடக்கூடிய` and `அடைந்தார்`;
-7. create/update the publication completion/audit record for P4 and synchronize `README.md`, `audit.md`, root `HANDOVER.md`, and this prompt.
+1. inspect **every physical scan 1–224** directly from the controlling source pixels;
+2. verify every visible word, word boundary / meaningful spacing, punctuation mark, quotation mark, heading, date, number, paragraph continuation, cover/front-matter/back-cover text;
+3. preserve historical Tamil character identity and explicitly check the tracked families:
+   `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
+4. no OCR, web copy, Wikisource, TVA web text, alternate edition, grammar/context completion, or silent normalization;
+5. if any canonical record changes, propagate the change to the correct article assembly and publication controls;
+6. create the publication-level final fidelity report, e.g. `VISUAL_TEXT_FIDELITY_REVIEW.md`;
+7. report physical scans checked, corrections, article assemblies rechecked, blocked/needs-review counts, unresolved discrepancies, and final Tamil freeze status.
 
-Stop after P4. Do not begin P5 or English in the same iteration unless the workflow controls explicitly authorize it.
+Do **not** start English until P5 is complete and Tamil is explicitly frozen.
