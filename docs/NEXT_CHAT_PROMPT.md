@@ -1,87 +1,90 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / Article 1 `முரசு` T2 bilingual fidelity review
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / Article 1 `முரசு` T3 Kalaignar voice review
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Tamil archival state — FROZEN
 
 - P0–P5 — **COMPLETE / PASS**
-- P5 — **224/224**
-- unresolved Tamil fidelity discrepancies — **0**
-- Tamil status — **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**
-- do not modify frozen Tamil absent genuinely new direct source evidence.
-
-## English state
-
-E0 — **COMPLETE / PASS**.
-
-Article 1 `முரசு`:
-
-- T0 — **PASS**
-- frozen Tamil authority — `publications/aaru-maatha-kadungkaaval/articles/01-murasu.md`
-- frozen Tamil blob — **`7a41617cd48f8507bc12074fb48d6016fae5cead`**
+- frozen Tamil Article 1 — `articles/01-murasu.md`
+- required Tamil blob — **`7a41617cd48f8507bc12074fb48d6016fae5cead`**
 - source scans — **10–65**
+- Tamil changes during English T0–T2 — **0**
+
+## English Article 1 state
+
+- working title — **The Drum**
+- T0 — **PASS**
 - T1 — **COMPLETE / draft**
-- English file — `publications/aaru-maatha-kadungkaaval/translations/en/01-murasu.md`
-- T1 English blob — **`a94630638fa194290e0761259131cc4548d429e4`**
-- working title — **The Drum** — provisional until T4
-- ordered source-page comments — **56/56 preserved**
-- translation status — `draft`
+- T1 blob — `a94630638fa194290e0761259131cc4548d429e4`
+- T2 bilingual fidelity review — **PASS**
+- T2 blob — **`ffea867e2163d8a87763bb3fba798d467268da84`**
+- T2 body corrections — **8**
+- ordered source-page comments — **56/56 PASS**
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- untranslated Tamil body leakage — **0**
 - blockers — **0**
+- T3/T4/T5 — **NOT STARTED**
 
-Article 2 `களம்` and Article 3 `சிறை` remain **NOT STARTED** in English.
+## Durable T2 corrections — do not regress
 
-## Permanent English policy
+1. scan 10 — restored source subject **Mazhavars**;
+2. scan 36 — widow/remarriage metaphor no longer reads as literal physical death;
+3. scan 41 — restored source-bearing **Daridra Narayanas**;
+4. scan 47 — source `பொறுமையை` retained as **patience**, not T1 **impatience**;
+5. scan 50 — Siddhartha / Buddhist-wisdom / Ashoka quotation relation repaired;
+6. scan 54 — unsupported **because they have no other work** gloss removed;
+7. scan 60 — source-visible irregular **`பொன்னை சந்தி`** retained as ***ponnai sandhi***;
+8. scan 61 — source action relation restored instead of passive-normalising expansion.
 
-Read and follow `ESSAY_TRANSLATION_GUIDE.md`.
+## Permanent policy
+
+Follow `ESSAY_TRANSLATION_GUIDE.md`.
 
 > **Translate the language; do not neutralise the voice.**
 
-Do not use OCR, web copies, alternate editions, memory or later historical convention to replace the frozen Tamil source.
+T3 is a **voice review**, not a license to paraphrase away T2 fidelity.
 
-## Exact activity — Article 1 T2
+## Exact activity — T3
 
-### Source pins
+Re-fetch:
 
-1. re-fetch `articles/01-murasu.md`; require exact blob **`7a41617cd48f8507bc12074fb48d6016fae5cead`**;
-2. re-fetch `translations/en/01-murasu.md`; require exact T1 blob **`a94630638fa194290e0761259131cc4548d429e4`** before any T2 correction;
-3. if either differs, stop and reconcile live-main drift before review.
+- frozen Tamil blob **`7a41617cd48f8507bc12074fb48d6016fae5cead`**
+- T2 English blob **`ffea867e2163d8a87763bb3fba798d467268da84`**
 
-### T2 bilingual fidelity review
+Stop and reconcile if either has drifted.
 
-Compare the **entire article** Tamil ↔ English, paragraph by paragraph and clause by clause.
+Then re-read the entire article for Kalaignar's rhetorical action:
 
-Check explicitly:
+- direct address to reader/comrades;
+- abrupt short emphatic sentences;
+- rhetorical questions;
+- commands;
+- repeated words / clauses;
+- humour and self-mockery;
+- sarcasm and ridicule;
+- martial metaphors: drum / field / spear / sword / army / camp;
+- praise-catalogues of comrades;
+- travel-story speed and fatigue;
+- political attack on Achariyar's education scheme;
+- cinema-censorship satire;
+- Thillai conference crescendo;
+- Anna quotation and closing triple **The drum thundered!**;
+- verse / slogan lineation;
+- dashes / exclamations / accumulation.
 
-- no omitted Tamil sentence, clause, rhetorical question, command, list item, embedded verse line or slogan;
-- no English-only claim or historical explanation;
-- names, initials, places, dates, times, amounts and numbers;
-- negatives, comparisons, conditionals and logical connectors;
-- quotation scope and speaker;
-- deliberate repetition, dashes, exclamations and questions;
-- source-chosen political / religious / social labels;
-- scans 16–17 duplicated physical witnesses remain represented as required by the frozen Tamil assembly;
-- all **56/56** ordered `<!-- Tamil source: scan ... -->` comments remain present and ordered;
-- page-boundary continuations remain traceable.
+Open T3/T4 choices that may be sharpened but must not be silently normalised:
 
-Review the T1 open choices without smoothing by preference:
-
-- `முரசு` → working title **The Drum**;
+- working title **The Drum**;
 - `அறப்போர்` → **righteous struggle**;
-- `குளித்தலை / குருவித்தலை` wordplay;
+- Kulithalai / `குருவித்தலை` wordplay;
+- Kallar / thief pun;
 - `ஆஷாடபூதிகள்` → **religious pretenders**;
-- `முத்தமிழ்` → **Muttamil**;
-- Kallar / thief wordplay.
+- **Muttamil**;
+- ***ponnai sandhi***.
 
-For every T2 correction, record old English → corrected English and the Tamil basis in `translations/en/TRANSLATION_REVIEW.md`.
+For every T3 body change, record old → new and the voice reason in `translations/en/TRANSLATION_REVIEW.md`.
 
-Update:
+Update the English article, lexicon if needed, tracker, review ledger, publication README, root HANDOVER and this next prompt.
 
-- `translations/en/01-murasu.md`
-- `translations/en/LEXICON.md` if a material choice changes
-- `translations/en/TRANSLATION_REVIEW.md`
-- `translations/en/README.md`
-- publication `README.md`
-- root `HANDOVER.md`
-- this next prompt
-
-Stop after **T2**. Do not begin T3 unless explicitly directed.
+Stop after **T3**. Do not begin T4 unless explicitly directed.
