@@ -38,6 +38,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from derivative extract page **66** / original physical scan **215**.
+- source-visible `தர்பார் சூரர்களோ`, `முடிக்கிடந்த முக்காடுகள்`, `காகப்பட்டரின்`, `அக்கிரகாரத்தின்`, `போலி வாதத்திற்கு`, and terminal `இந்தச் சிறு சந்தடிகளுக்` were reconfirmed.
+- paper toning / small age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `மண்ணிலே`, `கண்ணிலே`, `பண்ணிலே`, `சிறையில்`, `மன்றத்திலே` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 215 was fully compared with source pixels.

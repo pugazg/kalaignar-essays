@@ -45,6 +45,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, Latin initial / bracketed English token, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **62** / original physical scan **211**.
+- opening `கிருஷ்ணன்` continues scan 210's terminal `ராதா`; `கதாசிரியர் ஆத்ரேயா`, `மாடர்ன் தியேட்டர்ஸ் சுலைமான்`, `இருதப்பாரும்`, `P. C. P.`, `[Personal Cash Property]`, and terminal `வேண்டிய பொருள்கள் என்றால் தேவையானது எல்லாம் அல்ல.` were reconfirmed.
+- the dark/blue physical-copy mark over the leading `க` in `கதாசிரியர்` remains non-publication layer; surviving black print contours still support the canonical glyph directly.
+- mandatory historical-family verification was repeated across all visible source text; unresolved historical-glyph ambiguity — **0**.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — the formerly overmarked leading glyph is directly source-resolved as `க`, giving `கதாசிரியர் ஆத்ரேயா`; no contextual reconstruction was used.

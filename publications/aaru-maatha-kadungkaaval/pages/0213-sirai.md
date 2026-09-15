@@ -46,6 +46,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, Roman initial, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal quoted fragment was rechecked directly from derivative extract page **64** / original physical scan **213**.
+- opening `உடைகளை` continues scan 212's terminal `சிறை`; source-visible `சூப்பிரிண்டெண்டு`, `D. M. O.`, `ஆட்சேபணையில்லையென்று`, `இரவல் ஒலிபரப்பியா`, quoted `ஸ்பீக்கர்`, and terminal `ரேடியோ` were reconfirmed.
+- paper toning / isolated age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `காலுறையும்`, `சிறை`, `திங்கட்கிழமை`, `நாங்களே` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 213 was fully compared with source pixels.

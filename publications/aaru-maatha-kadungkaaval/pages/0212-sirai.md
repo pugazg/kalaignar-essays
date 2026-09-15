@@ -39,6 +39,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or lexical modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, Roman-script token, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from derivative extract page **63** / original physical scan **212**.
+- source-visible `P. C. P.யில்`, `ஓவல்டின்`, `பச்சைப் பட்டாணி டின்`, `மணியார்டரில்`, `டவர்`, `ஸ்பீக்கர்`, `(File)`, `நானூறுபேர்`, and terminal `சிறை` were reconfirmed without normalization.
+- paper toning / isolated age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `பட்டாணி`, `சிறையில்`, `நானூறுபேர்`, `தலையில்` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 212 was fully compared with source pixels.

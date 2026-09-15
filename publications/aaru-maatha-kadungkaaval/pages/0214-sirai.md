@@ -46,6 +46,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or lexical modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, heading, quotation mark, punctuation mark, meaningful spacing, running header and visible folio was rechecked directly from derivative extract page **65** / original physical scan **214**.
+- opening `கேட்டதுபற்றி...` continues scan 213's `ரேடியோ`; heading `ஹிட்லர் பாட்டு - சுதந்திர மெட்டு!`, source-visible `நாறுபது நாள்`, repeated `நாறு நாட்கள்` forms, `ஜாலியன் வாலாபாக்`, and the complete ending were reconfirmed exactly as printed, without lexical normalization.
+- paper toning / age specks remain non-publication layer.
+- mandatory historical-family verification was repeated on the repeated `நாறுபது / நாறு` clusters and the full 13-family set by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 214 was fully compared with source pixels.
