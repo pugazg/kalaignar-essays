@@ -528,7 +528,7 @@ The man who laid down the rule that a Paraiyan can reach the feet of God only af
 
 Thus the volcano erupted!
 
-In the name of God—in the glory of temples—letting religious pretenders grow—and plotting to keep Aryanism swinging at the very top: the DMK spread, taking up the task of beating down their clamour. Thillai is one of the places where the silk flag of its youth flies high.
+In the name of God—in the glory of temples—letting *Ashadabhuthis* grow—and plotting to keep Aryanism swinging at the very top: the DMK spread, taking up the task of beating down their clamour. Thillai is one of the places where the silk flag of its youth flies high.
 
 <!-- Tamil source: scan 62 / printed 59 -->
 
