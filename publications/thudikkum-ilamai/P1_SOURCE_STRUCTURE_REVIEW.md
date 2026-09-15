@@ -44,8 +44,12 @@ Stamps, handwritten / ownership marks and ageing artefacts are visible on the co
 
 **0**
 
+## P2 structural refinement
+
+Direct P2 inspection of scan 13 corrected the P1/intake Article-2 heading from `அண்ணனுக்கு அரசா!` to the source-visible **`அண்ணாமலைக்கு அரோகரா!`**. This is a P1 metadata repair; the scan ranges and boundaries remain unchanged.
+
 ## Next gate
 
-**P2 Batch 001 — scans 1–5 only.**
+All four article bodies are now P2 complete: **25/25 body scans / scans 5–29 VERIFIED**.
 
-Create canonical page records for all five scans. Scan 5 begins Article 1 and must receive direct word-by-word visual transcription plus the mandatory historical-glyph first-pass check.
+Process the remaining physical publication matter: **P2 scans 30–33 advertisements / promotional matter**.
