@@ -85,7 +85,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - current verified English blob — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`
 - blockers — **0**
 
-## Article 3 T4 checkpoint
+## Article 3 T5 closure
 
 - English file — `03-sirai.md`
 - frozen Tamil blob — `0d860d48bcd666148c0a312ad296953f015225c2`
@@ -95,21 +95,22 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - T3 — **PASS** — **20 body corrections**
 - T3 English blob — `7fa87637997c3f19b1f70fe1628a4e4bfe122164`
 - T4 — **PASS** — **0 body corrections**
-- T4 body authority — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
+- T4 body authority — `7fa87637997c3f19b1f70fe1628a4e4bfe122164`
+- T5 — **PASS / VERIFIED**
+- verified English blob — **`103a2492d110006cea520e03efd40fb3c1a5bdbc`**
 - verified title — **Prison**
-- `translation_status: voice-reviewed` pending T5
+- `translation_status: verified`
 - structural scans — **108–223**
 - ordered source-page comments — **116/116 PASS**
 - scan 109 blank/reverse — **no invented prose**
 - scan 224 — **outside Article 3 prose**
-- quotation / song / source-bearing terminology audit — **PASS**
-- unresolved release-blocking terminology choices — **0**
+- T5 body changes — **0**; only metadata status changed
+- unresolved release-blocking terminology / quotation choices — **0**
 - untranslated Tamil body leakage — **0**
 - Tamil source changes — **0**
 - blockers — **0**
-- T5 — **NOT STARTED**
 
-T4 froze the title and Article 3 terminology in `LEXICON.md`; the article body itself required no T4 correction, so its T3 blob remains the T4 body authority.
+All three articles are now individually **T5 VERIFIED**. This does not yet constitute publication-level English release.
 
 ## Permanent source boundary
 
@@ -117,11 +118,15 @@ Use only the frozen Tamil article assemblies as normal translation authorities. 
 
 Do not use OCR, web transcriptions, alternate editions or remembered wording to rewrite the English source layer.
 
-Scan **224** is back-cover / publisher-device matter and does not belong in Article 3 English prose.
-
 ## Exact next activity
 
-**Article 3 — `சிறை`: T5 article verification only.**
+**Publication-level English cross-article consistency / release gate only.**
 
-Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and T4 body authority `7fa87637997c3f19b1f70fe1628a4e4bfe122164`. Revalidate T0–T4 closure, title **Prison**, **116/116** comments, scan 109 blank/reverse, scan 224 exclusion, zero Tamil leakage, zero unresolved release blockers and zero blockers. Only then mark the article `verified`. Stop before any publication-level English release gate.
+Use the verified English authorities:
+
+- `01-murasu.md` — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`;
+- `02-kalam.md` — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`;
+- `03-sirai.md` — `103a2492d110006cea520e03efd40fb3c1a5bdbc`.
+
+Audit cross-article terminology, names, epithets, slogans, titles, source-bearing transliterations, quotation/song treatment, tone consistency and source-page-comment completeness. Do not start unless explicitly directed.
 
