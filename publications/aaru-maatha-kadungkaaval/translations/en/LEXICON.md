@@ -13,7 +13,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `திராவிடர்` | **Dravidians** | Preserve political/social source terminology and rhetorical force. | E0 | provisional |
 | `சர்க்கார்` | **Government** | Context may require administration/government; preserve period framing. | E0 | provisional / contextual |
 | `முரசு` | **The Drum**; drum / war drum by context | Article 1 title frozen as **The Drum** at T4/T5; body keeps the drum image visible. | A1 T1–T5 | verified for A1 |
-| `களம்` | **title decision deferred; field / arena / battlefield by context** | Article-title force depends on the Kallakkudi struggle context; establish at T1/T4 from frozen Tamil, not outside convention. | E0 | open |
+| `களம்` | **The Battlefield** | Article 2 title frozen at T4/T5. In body use field / battlefield by immediate context. | A2 T1–T5 | verified for A2 |
 | `சிறை` | **prison** | Article-title wording to be fixed at T1/T4; body context may require prison / jail where source register demands. | E0 | provisional / contextual |
 | `அறப்போர்` | **righteous struggle** | Article 1 T4 verified; preserves explicit moral force. | A1 T1/T4 | verified for A1 |
 | `மறியல்` | **picketing** | Article 1 scan 62 context before Achariyar's house; contextual, not mechanical. | A1 T4 | verified for A1 context |
@@ -45,6 +45,19 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `சுயராஜ்யம்` | **Swaraj** | Article 1 historical-political usage. | A1 T4 | verified for A1 |
 | `நம்நாடு` | ***Nam Nadu*** | Source periodical title. | A1 T4 | verified for A1 |
 | `தீப்பொறி` | ***Theeppori*** | Source periodical title. | A1 T4 | verified for A1 |
+
+| `மகஜர்` | **petition** | Article 2 political petition / memorial context. | A2 T4 | verified for A2 |
+| `தொண்டர் முகாம்` | **Volunteer Camp** | Kallakkudi temporary camp established before the struggle. | A2 T4 | verified for A2 |
+| `பூரணகும்பம்` | **full ceremonial welcome** | Article 2 source image contrasting honours to northerners and humiliation to Dravidians. | A2 T4 | verified contextual for A2 |
+| `பரணி` | ***parani*** | Source literary-war form; retained as transliteration rather than replaced by an outside literary explanation. | A2 T4 | verified source-bearing for A2 |
+| `ஒண்டவந்த பிடாரிகள்` | ***ondavanda pidaris*** | Source-specific coined/insulting expression; retained without outside identification. | A2 T4 | verified source-bearing for A2 |
+| `ஒதிய மிலர்கள்` | ***othiya milars*** | Source-visible irregular / source-specific expression; retained without silent normalization. | A2 T4 | verified source-bearing for A2 |
+| `போக்காளி` | ***pokkali*** | Source-specific lament term in Kesavan passage; T4 replaced interpretive “wretched boy” with source-bearing transliteration. | A2 T4 | verified source-bearing for A2 |
+| `மூலவர்` | ***moolavar*** | Source-chosen label for the northern figure in the train-stoppage passage; no outside identification inserted. | A2 T4 | verified source-bearing for A2 |
+| `குடி / உதிரக்குடி` | ***kudi / uthira-kudi*** | Blood-drinking / community wordplay in the repression-tiger passage; source forms retained to keep the pun visible. | A2 T4 | verified with wordplay |
+| `குண்டோதர` | **Gundodara** | Source-bearing mythic/gluttonous epithet in “Gundodara regime”; retained without expansion. | A2 T4 | verified source-bearing for A2 |
+| `பிடாரி` | **Pidari** | Source-bearing fierce-deity image in the final massacre satire. | A2 T4 | verified source-bearing for A2 |
+| `காராக்கிரகம்` | **prison** | Article 2 source comparison in Kesavan's first-night passage; contextual English rather than Sanskritic transliteration. | A2 T4 | verified contextual for A2 |
 
 ## E0 note
 
