@@ -41,7 +41,7 @@ Direct native inspection established:
 - P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **COMPLETE / PASS — 3/3 article assemblies: `முரசு`, `களம்`, `சிறை`**
 - P4 — **COMPLETE / PASS — publication source audit / completeness review**
-- P5 — **NOT STARTED — NEXT**
+- P5 — **IN PROGRESS — 15/224; next scans 16–30**
 - English — **BLOCKED**
 
 ## Historical Tamil glyph policy
@@ -953,3 +953,15 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 ## Exact next activity
 
 **P5 — final strict visual text-fidelity pass.**
+
+
+## P5 final strict visual fidelity
+
+Progress report: `VISUAL_TEXT_FIDELITY_REVIEW.md`
+
+Batch P5-01:
+- scans **1–15** — **15/15 PASS**
+- new canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- needs-review / blocked / guessed — **0 / 0 / 0**
+- next — **scans 16–30**

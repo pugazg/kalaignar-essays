@@ -10,7 +10,7 @@
 | P2R visual-fidelity re-audit | **COMPLETE — 224/224 physical scans re-audited** |
 | P3 | **COMPLETE / PASS — 3/3 article assemblies: முரசு / களம் / சிறை** |
 | P4 | **COMPLETE / PASS — source audit / completeness review** |
-| P5 | **NOT STARTED — NEXT** |
+| P5 | **IN PROGRESS — 15/224; next 16–30** |
 
 ## P0 audit
 
@@ -1993,3 +1993,16 @@ P3 blockers — **0**.
 ## Exact next activity
 
 **P5 — final strict visual text-fidelity pass.**
+
+
+## P5 final strict visual fidelity — Batch P5-01
+
+- physical scans — **1–15**
+- checked — **15/15**
+- result — **PASS**
+- canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- current needs-review — **0**
+- current blocked — **0**
+- guessed readings — **0**
+- next range — **16–30**
