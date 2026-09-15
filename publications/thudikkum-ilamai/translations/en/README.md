@@ -25,7 +25,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - untranslated Tamil body leakage — **0**
 - Tamil source changes during T0–T5 — **0**
 - blockers — **0**
-- E6 publication-wide consistency review — **NOT STARTED**
+- E6 publication-wide consistency review — **COMPLETE / PASS**
 - E7 release closeout — **NOT STARTED**
 
 ## Article tracker
@@ -52,8 +52,26 @@ Translation order completed: **1 → 2 → 3 → 4**.
 - unresolved translation choices — **0**
 - blockers — **0**
 
+## E6 publication-wide consistency review
+
+**COMPLETE / PASS**
+
+Authority: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)
+
+- articles reviewed — **4/4**
+- verified English blobs changed — **0/4**
+- source comments — **25/25 PASS**
+- ideological-vocabulary defects — **0**
+- name / title house-style defects — **0**
+- quotation / verse defects — **0**
+- source-bearing transliteration defects — **0**
+- tone / accidental-smoothing defects — **0**
+- untranslated Tamil body leakage — **0**
+- unresolved consistency defects — **0**
+- blockers — **0**
+
 ## Exact next activity
 
-**E6 — publication-wide English consistency review.**
+**E7 — English release closeout.**
 
-Re-read all four verified English articles together against the frozen Tamil authorities and living lexicon. Check recurring ideological vocabulary, mythological names, source-bearing transliterations, work titles, title style, quoted material, page comments, tone consistency and accidental smoothing. Do not begin E7 release closeout until E6 is separately completed.
+Re-pin the four unchanged verified English blobs, verify every control document agrees, confirm Tamil remains frozen and unchanged, and close English release only if the release audit passes.
