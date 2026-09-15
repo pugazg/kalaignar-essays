@@ -34,7 +34,7 @@ Direct native inspection established:
 
 ## Current state
 
-- Publication 12 — **TAMIL ARCHIVAL COMPLETE / FROZEN — English Articles 1–2 T0–T5 PASS / VERIFIED; Article 3 `சிறை` T0/T1 NEXT**
+- Publication 12 — **TAMIL ARCHIVAL COMPLETE / FROZEN — English Articles 1–2 VERIFIED; Article 3 `சிறை` T0 PASS / T1 COMPLETE; T2 NEXT**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
@@ -1143,3 +1143,23 @@ User-confirmed canonical correction:
 - P5 correction count remains **3**; this is a **post-P5** correction.
 - post-freeze canonical corrections — **1**
 - Article 2 remains **T0–T5 PASS / VERIFIED after targeted revalidation**.
+
+
+## English Article 3 — `சிறை` — T0/T1 checkpoint
+
+- T0 — **PASS**
+- frozen Tamil blob — `0d860d48bcd666148c0a312ad296953f015225c2`
+- structural scans — **108–223**
+- T1 — **COMPLETE / draft**
+- English file — `translations/en/03-sirai.md`
+- T1 English blob — **`31b3c8476ba4bd13264d0609a5553cdd1f7117b7`**
+- working title — **Prison**
+- source-page comments — **116/116 PASS**
+- scan 109 blank/reverse — **no invented prose**
+- Tamil body leakage — **0**
+- Tamil changes — **0**
+- blockers — **0**
+
+### Exact next activity
+
+**Article 3 — `சிறை` — T2 bilingual fidelity review.**
