@@ -85,7 +85,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - current verified English blob — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`
 - blockers — **0**
 
-## Article 3 T3 checkpoint
+## Article 3 T4 checkpoint
 
 - English file — `03-sirai.md`
 - frozen Tamil blob — `0d860d48bcd666148c0a312ad296953f015225c2`
@@ -93,21 +93,23 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - T2 — **PASS** — **21 body corrections**
 - T2 English blob — `56dfd504cc9b315ee362c1176605e28728616d73`
 - T3 — **PASS** — **20 body corrections**
-- T3 English blob — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
-- working title — **Prison** — provisional pending T4
-- `translation_status: voice-reviewed`
+- T3 English blob — `7fa87637997c3f19b1f70fe1628a4e4bfe122164`
+- T4 — **PASS** — **0 body corrections**
+- T4 body authority — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
+- verified title — **Prison**
+- `translation_status: voice-reviewed` pending T5
 - structural scans — **108–223**
 - ordered source-page comments — **116/116 PASS**
 - scan 109 blank/reverse — **no invented prose**
-- T2 regressions — **0**
-- semantic additions introduced by T3 — **0**
+- scan 224 — **outside Article 3 prose**
+- quotation / song / source-bearing terminology audit — **PASS**
+- unresolved release-blocking terminology choices — **0**
 - untranslated Tamil body leakage — **0**
 - Tamil source changes — **0**
-- material lexicon changes at T3 — **0**
 - blockers — **0**
-- T4/T5 — **NOT STARTED**
+- T5 — **NOT STARTED**
 
-T3 sharpened directness, sarcasm, comic timing and cadence without neutralising source-strange forms. Detailed old → corrected English and rationale are in `TRANSLATION_REVIEW.md`.
+T4 froze the title and Article 3 terminology in `LEXICON.md`; the article body itself required no T4 correction, so its T3 blob remains the T4 body authority.
 
 ## Permanent source boundary
 
@@ -119,7 +121,7 @@ Scan **224** is back-cover / publisher-device matter and does not belong in Arti
 
 ## Exact next activity
 
-**Article 3 — `சிறை`: T4 terminology / quotation / citation audit only.**
+**Article 3 — `சிறை`: T5 article verification only.**
 
-Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and T3 English blob `7fa87637997c3f19b1f70fe1628a4e4bfe122164`. Audit the full scans **108–223** article, including title choice and all **116/116** source-page comments. Do not begin T5 unless explicitly directed.
+Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and T4 body authority `7fa87637997c3f19b1f70fe1628a4e4bfe122164`. Revalidate T0–T4 closure, title **Prison**, **116/116** comments, scan 109 blank/reverse, scan 224 exclusion, zero Tamil leakage, zero unresolved release blockers and zero blockers. Only then mark the article `verified`. Stop before any publication-level English release gate.
 
