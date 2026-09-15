@@ -14,7 +14,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `சர்க்கார்` | **Government** | Context may require administration/government; preserve period framing. | E0 | provisional / contextual |
 | `முரசு` | **The Drum**; drum / war drum by context | Article 1 title frozen as **The Drum** at T4/T5; body keeps the drum image visible. | A1 T1–T5 | verified for A1 |
 | `களம்` | **The Battlefield** | Article 2 title frozen at T4/T5. In body use field / battlefield by immediate context. | A2 T1–T5 | verified for A2 |
-| `சிறை` | **Prison** *(working title); prison / jail by context | Article 3 T1 working title is **Prison**; body register varies naturally between prison and jail. Freeze title only at T4/T5. | E0 / A3 T1 | provisional / T4 review |
+| `சிறை` | **Prison**; prison / jail by context | Article 3 title frozen as **Prison** at T4; body register varies naturally between prison and jail. | E0 / A3 T1/T4 | verified for A3 |
 | `அறப்போர்` | **righteous struggle** | Article 1 T4 verified; preserves explicit moral force. | A1 T1/T4 | verified for A1 |
 | `மறியல்` | **picketing** | Article 1 scan 62 context before Achariyar's house; contextual, not mechanical. | A1 T4 | verified for A1 context |
 | `கல்லக்குடி` | **Kallakkudi** | Place / movement-name witness; retain source identity. | E0 | fixed |
@@ -59,21 +59,29 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `பிடாரி` | **Pidari** | Source-bearing fierce-deity image in the final massacre satire. | A2 T4 | verified source-bearing for A2 |
 | `காராக்கிரகம்` | **prison** | Article 2 source comparison in Kesavan's first-night passage; contextual English rather than Sanskritic transliteration. | A2 T4 | verified contextual for A2 |
 
-| `கல்கத்தா இருட்டறை` | **Black Hole of Calcutta** | Article 3 source comparison for the cramped Ariyalur cell; retain as source's historical allusion without added explanation. | A3 T1 | provisional / T4 review |
-| `C. P. / Close Prison` | **C.P. / CLOSE PRISON** | Source itself expands the initials; retain its English form. | A3 T1 | provisional |
-| `ஜல ஸ்தாபன மந்திரி` | **Water Establishment Minister** | Comic prison-kingdom portfolio; preserve bureaucratic parody. | A3 T1 | provisional / voice review |
-| `மக்கள் மன்றம்` | **People's Assembly** | Prison-kingdom elected assembly; distinguish from generic public forum where context differs. | A3 T1 | provisional / contextual |
-| `பேச்சு மன்றம்` | **Speaking Assembly** | Daily prison forum for speeches / training; preserve recurring institutional label. | A3 T1 | provisional / T4 review |
-| `நாட்குறைப்பு` | **remission** | Prison sentence reduction; source notice terminology. | A3 T1 | provisional / T4 review |
-| `வெள்ளைக் குல்லாய் / கருப்புக் குல்லாய்` | **white cap / black cap** | Prison slang for first-time / repeat prisoner; preserve comic institutional register. | A3 T1 | provisional / contextual |
-| `கண்டம்` | ***Kandam*** | Source derives it from *Condemned Prison* and also plays on Tamil `கண்டம்`; retain transliteration for the wordplay. | A3 T1 | open / T4 review |
-| `காணிக்கை வார்டர்` | **“Kaanikkai” Warder** | Source explicitly derives the prison pronunciation from *Convict Warder*; retain the source form before explanation. | A3 T1 | open / T4 review |
-| `மறுமலர்ச்சி` | **renaissance** | Repeated ideological / cultural discussion in Article 3. | A3 T1 | provisional |
-| `கும்பாபிஷேகம்` | ***kumbabhishekam*** | Democracy analogy; retain the source religious term rather than flattening it. | A3 T1 | provisional / T4 review |
-| `மணுக்காரன்` | ***manukkaaran*** | Prison interview-petition messenger; source immediately explains the role. | A3 T1 | provisional / T4 review |
-| `குடு குடுப்பைக்காரன்` | ***kudukuduppaikkaran*** | Fancy-dress comic role; source-bearing cultural term retained. | A3 T1 | open / T4 review |
-| `கெச்சவாளி` | ***kechavaali*** | Source-specific fancy-dress term; retained rather than guessed. | A3 T1 | open / T4 review |
-| `முப்புரிக் காவலர்` | **triple-thread guardian** | Article 3 polemical epithet for Achariyar; working close rendering pending T3/T4. | A3 T1 | open / voice-term review |
+| `கல்கத்தா இருட்டறை` | **Black Hole of Calcutta** | Article 3 source comparison for the cramped Ariyalur cell; source historical allusion retained without added explanation. | A3 T1/T4 | verified for A3 |
+| `C. P. / Close Prison` | **C.P. / CLOSE PRISON** | Source itself expands the initials; retain its English form. | A3 T1/T4 | verified for A3 |
+| `ஜல ஸ்தாபன மந்திரி` | **Water Establishment Minister** | Comic prison-kingdom portfolio; preserve bureaucratic parody. | A3 T1/T4 | verified for A3 |
+| `மக்கள் மன்றம்` | **People's Assembly** | Prison-kingdom elected assembly; distinguish from generic **people's forum** where context differs. | A3 T1/T4 | verified contextual for A3 |
+| `பேச்சு மன்றம்` | **Speaking Assembly** | Daily prison forum for speeches / training; preserve recurring institutional label. | A3 T1/T4 | verified for A3 |
+| `நாட்குறைப்பு / நாட் கழிவு` | **remission** | Prison sentence reduction; source uses both forms in the notice / life-sentence discussion. | A3 T1/T4 | verified contextual for A3 |
+| `வெள்ளைக் குல்லாய் / கருப்புக் குல்லாய்` | **white cap / black cap** | Prison slang for first-time / repeat prisoner; preserve comic institutional register. | A3 T1/T4 | verified for A3 |
+| `கண்டம்` | ***Kandam*** | Source derives it from *Condemned Prison* and also plays on Tamil `கண்டம்`; retain transliteration for the wordplay. | A3 T1/T4 | verified with wordplay for A3 |
+| `காணிக்கை வார்டர்` | **“Kaanikkai” Warder** | Source explicitly derives the prison pronunciation from *Convict Warder*; retain the source form before explanation. | A3 T1/T4 | verified source-bearing for A3 |
+| `மறுமலர்ச்சி` | **renaissance** | Repeated ideological / cultural discussion in Article 3. | A3 T1/T4 | verified for A3 |
+| `கும்பாபிஷேகம்` | ***kumbabhishekam*** | Democracy analogy; retain the source religious term rather than flattening it. | A3 T1/T4 | verified source-bearing for A3 |
+| `மணுக்காரன்` | ***manukkaaran*** | Prison interview-petition messenger; source immediately explains the role. | A3 T1/T4 | verified source-bearing for A3 |
+| `குடு குடுப்பைக்காரன்` | ***kudukuduppaikkaran*** | Fancy-dress comic role; source-bearing cultural term retained. | A3 T1/T4 | verified source-bearing for A3 |
+| `கெச்சவாளி` | ***kechavaali*** | Source-specific fancy-dress term; retained rather than guessed. | A3 T1/T4 | verified source-bearing for A3 |
+| `முப்புரிக் காவலர்` | **triple-thread guardian** | Article 3 polemical epithet for Achariyar; close literal rendering retained to preserve the source image without explanatory expansion. | A3 T1/T4 | verified for A3 |
+
+| `உடன்பிறப்பு` | ***udanpirappu*** | Article 3 non-vocative kinship/political relation; retain source-bearing Tamil rather than flattening to brother/comrade. Distinct from fixed vocative `உடன்பிறப்பே` → **Udanpirappē**. | A3 T1/T4 | verified source-bearing for A3 |
+| `தார்` | ***thaar*** | Scan 124 road pun; source itself offers both cattle-goad and banana-bunch senses alongside the road expression. Retain transliteration and the source's own bracketed explanation. | A3 T1/T4 | verified with wordplay for A3 |
+| `அனந்தசயனம்` | ***Ananthasayanam*** | Source-bearing ironic/mythic expression in the Achariyar/Nehru contrast; no added outside explanation. | A3 T1/T4 | verified source-bearing for A3 |
+| `பீர்க்காக்கள்` | ***peerkkaakkal*** | Source-quoted comic term in the rough van journey; retained without outside identification. | A3 T1/T4 | verified source-bearing for A3 |
+| `குதாக்கள்` | ***khudas*** | Source-specific borrowed/polemical term in the surrounding-countries passage; retained without outside identification. | A3 T1/T4 | verified source-bearing for A3 |
+| `நிலவிலங்கு` | ***nila-vilangu*** / plural ***nila-vilangus*** | Source prison-punishment term; retained rather than expanded beyond what the article itself supplies. | A3 T1/T4 | verified source-bearing for A3 |
+| `பஸ்கி` | ***baski*** / plural ***baskis*** | Source exercise term in the groundnut-ball wager; retained without outside gloss. | A3 T1/T4 | verified source-bearing for A3 |
 
 ## E0 note
 
