@@ -46,6 +46,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or lexical modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R35
+
+- every printed word, punctuation mark, quotation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from derivative extract page **39** / original physical scan **188**.
+- source-visible `ஒன்றுக ஒப்பிட்டுவிட்டேனென்று`, `பாழ் படுத்தவும்`, `பிய்த்தெறியும்`, `எடுத்துக் கொள்ளுவோம்`, and terminal `எழிலோவியத்திற்கு` were reconfirmed without normalization.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `மலர்மாலையைப்` / `நிலையிலே` (`லை`), `உள்ளங்கை`, and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 188 placeholder was replaced only after full direct source-pixel transcription and audit.

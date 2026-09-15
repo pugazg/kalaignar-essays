@@ -20,12 +20,12 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **175/224**
-- completed range — **1–175**
-- next range — **176–185**
+- re-audited — **190/224**
+- completed range — **1–190**
+- next range — **191–205**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
-- cumulative historical-glyph correction events — **19**
+- cumulative historical-glyph correction events — **20**
 
 ## Batch R01 — scans 1–5
 
@@ -815,8 +815,40 @@ Ordinary source-fidelity corrections in Batch R34 — **1**.
 
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
+
+## Batch R35 — scans 176–190
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 176 | body / folio 173 | PASS | full text / `14ம்` / source forms / complete ending confirmed |
+| 177 | body / folio 174 | PASS | quotation sequence / `13ந்` / terminal continuation confirmed |
+| 178 | body / folio 175 | PASS | scan-177 continuation / `வியனார்டோ` / terminal dash confirmed |
+| 179 | body / folio 176 | PASS after historical correction | `பஞ்சண மீது` → source-visible `பஞ்சணை மீது`; historical `ணை` restored |
+| 180 | body / folio 177 | PASS | scan-179 continuation / `மூன்றுநிலை` / `மூன்றாவது` / complete ending confirmed |
+| 181 | body / folio 178 | PASS | `ராம் ராண்டும்` / `கிள்ளை` / complete ending confirmed |
+| 182 | body / folio 179 | PASS | quotation blocks / `மயிலைத்தீட்டி` / `அண்ணா!` / ending confirmed |
+| 183 | body / folio 180 | PASS | heading `ஜனநாயகம்` / Roman initials / complete ending confirmed |
+| 184 | body / folio 181 | PASS | physical line-wrap `உரு` + `வெடுத்திடுவது` joined as `உருவெடுத்திடுவது`; terminal `முன்னி` confirmed |
+| 185 | body / folio 182 | PASS | scan-184 continuation / unusual source forms / terminal fragment confirmed |
+| 186 | body / folio 183 | PASS | scan-185 continuation / quotation / terminal `கொள்ளைப்புற` confirmed |
+| 187 | body / folio 184 | PASS | scan-186 continuation / numerals `1793 / 306 / 160 / 17ம் / 20ம்` / ending confirmed |
+| 188 | body / folio 185 | PASS | `ஒன்றுக ஒப்பிட்டுவிட்டேனென்று` / source spacing / terminal fragment confirmed |
+| 189 | body / folio 186 | PASS after correction | `இருக்கவேண்டு மென்பதற்காக` → `இருக்கவேண்டுமென்பதற்காக`; physical line wrap rejoined lexically |
+| 190 | body / folio 187 | PASS | heading `மொழிப்பற்று — பித்தா ?` / terminal `பாராட்டியிருக்க` confirmed; scan 191 not opened |
+
+Historical-family findings:
+
+- scan 179 — source historical `ணை` restored in `பஞ்சணை`; this is one new tracked-family correction event;
+- all 13 tracked families were explicitly checked on every scan by character identity;
+- new historical-family correction events — **1**; cumulative count becomes **20**.
+
+Ordinary source-fidelity corrections in Batch R35 — **1**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
+
 ## Exact next activity
 
-**Batch R35 — physical scans 176–190.**
+**Batch R36 — physical scans 191–205.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Process **15 scans**. Use derivative extract pages **27–41** for original scans **176–190**. Stop after scan **190**; do not process scan 191 / extract page 42.
+Process exactly **15 scans** with the same word-by-word visual fidelity and historical-glyph protocol. Use derivative extract pages **42–56** for original scans **191–205**. Stop after scan **205**; do not process scan 206 / extract page 57.

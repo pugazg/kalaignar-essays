@@ -46,6 +46,17 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R35
+
+- every printed word, heading, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from derivative extract page **41** / original physical scan **190**.
+- heading `மொழிப்பற்று — பித்தா ?`, `வானீலையிலே`, `வாமனுதாரன்`, `இரண்டடியால்`, `வள்ளுவனும்`, and terminal `பாராட்டியிருக்க` were reconfirmed without contextual normalization.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `தண்ணீர்`, `கண்ணுங்`, `வானீலையிலே`, and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+- **scan 191 / extract page 42 was not opened or processed in Batch R35**.
+
 ## P2 நிலை
 
 **verified** — scan 190 placeholder was replaced only after full direct source-pixel transcription and audit.
