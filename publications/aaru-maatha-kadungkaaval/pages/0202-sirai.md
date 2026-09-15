@@ -42,6 +42,17 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - no global replacement or lexical modernization was used.
 
+## P2R visual-fidelity re-audit — Batch R36
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **53** / original physical scan **202**.
+- scan-201 terminal `ஒரு கடிதம்` + opening `எழுதியிருந்தார்` continuation was reconfirmed.
+- source-visible `அண்ணா`, `ரத்தக்காடாகவல்லவா`, `திருச்சி திராக்களின்`, quoted `தலைவர்களே விடுதலை செய்`, `அக்டோபர் முதல்நாள்`, `நாற்பது வருடத்துக் கிளர்ச்சி`, and the complete ending were reconfirmed without contextual normalization.
+- light paper toning / faint edge marks remain non-publication layer.
+- mandatory historical-family verification was repeated; `அண்ணா` (`ணா`), `நினைத்து` (`னை`), `சிற்றரசு` / `நாற்பது` (`றா`), `நாளிலே` (`லை`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 202 was fully compared with source pixels.

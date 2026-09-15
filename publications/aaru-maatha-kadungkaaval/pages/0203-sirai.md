@@ -42,6 +42,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - no global replacement or spelling modernization was used.
 
+## P2R visual-fidelity re-audit — Batch R36
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from derivative extract page **54** / original physical scan **203**.
+- source-visible `பொட்டி ஸ்ரீராமுலுவின் எழும்பு மேட்டின்மீது`, `மார்பு, உண்ணாவிரதத்தைக் கிண்டல் செய்கிறார்`, `மட்டுந்தான்`, `தியாகியொருவரை`, `திராவிடநாடு`, `கேரளம்`, `கன்னடமும்`, and terminal fragment `பெறமுடி` were reconfirmed without editorial normalization.
+- paper toning / small age spots remain non-publication layer.
+- mandatory historical-family verification was repeated; `உண்ணாவிரதம்` (`ணா`), `யாரும்`, `நாளைக்கு` (`லை`), `தனி மாகாணமே` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 203 was fully compared with source pixels.

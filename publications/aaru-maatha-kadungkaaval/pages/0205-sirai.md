@@ -48,6 +48,18 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - these two historical-form corrections are counted; cumulative historical-glyph correction count is **11**.
 
+## P2R visual-fidelity re-audit — Batch R36
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio, historical-form identity and complete ending was rechecked directly from derivative extract page **56** / original physical scan **205**.
+- scan-204 terminal `நேரு` + opening `வுக்கு` continuation was reconfirmed as the source-visible page-boundary sentence continuation.
+- source-visible `“நான்சென்ஸ்”`, `இழிந்தார்`, `கண்டனம் தெரிவித்தோர்`, `கூறினர் மூன்றாவது முறை`, the Louis quotations, `என்றான்`, `பதினொராம்`, `‘உலக சரித்திரம்’`, and the final Nehru quotation were reconfirmed.
+- the faint left-margin physical-copy/handling mark and paper toning remain non-publication layer.
+- mandatory historical-family verification was repeated; previously resolved historical `றா` identities in `என்றான்` and `பதினொராம்` were reconfirmed, together with `மன்னித்தோம்`, `நான்தான்`, `பின்னால்`, `கண்கள்`, and the full 13-family set.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+- **scan 206 / extract page 57 was not opened or processed in Batch R36**.
+
 ## P2 நிலை
 
 **verified** — scan 205 was fully compared with source pixels.

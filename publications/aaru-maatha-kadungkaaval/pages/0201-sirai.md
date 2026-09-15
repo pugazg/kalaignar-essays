@@ -13,7 +13,7 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 
 # அச்சு உரை
 
-யோர் ஓரிடத்தில் கூடுவோம். பழைய காலத்து ராஜா ராணிகளைப் பற்றியும், அவர்களுக்கு ‘ஜோக்கா’ போல இருந்த பிரபுக்களைப்பற்றியும் பேசுவோம். இங்கிலாந்து சரித்திரத்திலே இப்படிப்பட்டவர்களின் கேளிக்கைகள் மிக மிக அதிகமல்லவா? கொரியாவுக்கு செல்லும் இந்தியத் துருப்புகள் பற்றியும் விவாதங்கள் நடத்துவோம். குடியரசு காலத்திலேகூட முடியரசு இருக்கிறது பார் என்று நாராயணசாமிக்கும், விசயராகவனுக்கும் தீப்பில் துப்பட்டியால் முண்டாசு கட்டி வேடிக்கை செய்வோம். சிறைச்சாலைக்கு சென்றதும் - எப்படியெல்லாம் விளையாடத் தோன்றுகிறது பாருங்கள்.
+யோர் ஓரிடத்தில் கூடுவோம். பழைய காலத்து ராஜா ராணிகளைப் பற்றியும், அவர்களுக்கு ‘ஜோக்கர்’ போல இருந்த பிரபுக்களைப்பற்றியும் பேசுவோம். இங்கிலாந்து சரித்திரத்திலே இப்படிப்பட்டவர்களின் கேளிக்கைகள் மிக மிக அதிகமல்லவா? கொரியாவுக்கு செல்லும் இந்தியத் துருப்புகள் பற்றியும் விவாதங்கள் நடத்துவோம். குடியரசு காலத்திலேகூட முடியரசு இருக்கிறது பார் என்று நாராயணசாமிக்கும், விசயராகவனுக்கும் தீப்பில் துப்பட்டியால் முண்டாசு கட்டி வேடிக்கை செய்வோம். சிறைச்சாலைக்கு சென்றதும் - எப்படியெல்லாம் விளையாடத் தோன்றுகிறது பாருங்கள்.
 
 அமைதியான தோற்றமும்-ஆர்வம் நிறைந்த உள்ளமும் நட்புக்கோர் அணிகலனுமான வைத்தீஸ்வரன்கோயில் தோழர் முருகையா, சிறைச்சாலையைவிட்டு வெளியேறுகிற அந்தக் கடைசி நாளின் காலையிலேகூட ராஜா ராணி வேடிக்கை செய்து, அவருக்கு முண்டாசு கட்டிவிட்டுத், தான் வெளியே அனுப்பினோம்.
 
@@ -42,6 +42,17 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - representative sensitive clusters including `ராணிகளைப்`, `விளையாட்டாகவும்`, `முண்டாசு`, and `தண்டனையாக` were read by character identity rather than modern visual resemblance.
 - unresolved historical-glyph ambiguity — **0**.
 - no global replacement or spelling modernization was used.
+
+## P2R visual-fidelity re-audit — Batch R36
+
+- every printed word, Latin initial, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from derivative extract page **52** / original physical scan **201**.
+- direct source-text correction: `‘ஜோக்கா’` → source-visible **`‘ஜோக்கர்’`**.
+- source-visible opening continuation `யோர்`, `பிரபுக்களைப்பற்றியும்`, `தீப்பில் துப்பட்டியால்`, `வைத்தீஸ்வரன்கோயில்`, `காலையிலேகூட`, `விரட்டிக்கொண்டிருக்க-`, `N. V. நடராசன்`, and terminal `ஒரு கடிதம்` were otherwise reconfirmed without normalization.
+- paper toning / age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `ராணிகளைப்` (`ணா`), `விளையாட்டாகவும்` / `காலையிலேகூட` (`லை`), `முண்டாசு`, `தண்டனையாக`, and the full 13-family set were checked by character identity.
+- ordinary source-fidelity corrections on this scan — **1**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS after source-fidelity correction**.
 
 ## P2 நிலை
 

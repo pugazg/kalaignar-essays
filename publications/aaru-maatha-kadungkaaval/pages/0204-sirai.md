@@ -45,6 +45,17 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - no global replacement or lexical modernization was used.
 
+## P2R visual-fidelity re-audit — Batch R36
+
+- every printed word, quotation mark, punctuation mark, meaningful spacing, running header, visible folio, page-boundary continuation and terminal fragment was rechecked directly from derivative extract page **55** / original physical scan **204**.
+- scan-203 terminal `பெறமுடி` + opening `யுமே` continuation was reconfirmed as `பெறமுடியுமே` across the physical page boundary, without altering either page's stored boundary text.
+- source-visible `கத்தரித்துக்கொண்டு`, `திராவிடக் கூட்டாட்சி`, `எல்லையிலே`, `பலாக்கனிதானே`, `பாகற்கனியாகிவிடாதே`, source semicolon after `சென்னை`, and terminal `நேரு` were reconfirmed.
+- paper toning / small ink and age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `எல்லையிலே` (`லை`), `தனியரசாக`, `தலைவராவது` (`லை`), `பிணங்கள்` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 204 was fully compared with source pixels.
