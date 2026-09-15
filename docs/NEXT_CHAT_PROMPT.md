@@ -1,35 +1,26 @@
-# NEXT CHAT PROMPT — துடிக்கும் இளமை / activate Publication 13 + P2 Batch 001 scans 1–5
+# NEXT CHAT PROMPT — துடிக்கும் இளமை / P2 Batch 002 scans 6–10
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Publication 12 closure — FROZEN
+## Publication 12 — frozen
 
-`publications/aaru-maatha-kadungkaaval/` is fully closed:
+`publications/aaru-maatha-kadungkaaval/` is **RELEASE COMPLETE / FROZEN**.
 
-- Tamil P0–P5 — **COMPLETE / PASS / FROZEN**
-- English Articles 1–3 — **T0–T5 VERIFIED**
-- E6 publication-wide English consistency review — **PASS**
-- E7 English release closeout — **PASS**
-- final English status — **ENGLISH-TRANSLATION COMPLETE / RELEASE CLOSED**
-- verified English blobs:
-  - **The Drum** — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`
-  - **The Battlefield** — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`
-  - **Prison** — `103a2492d110006cea520e03efd40fb3c1a5bdbc`
-- do not reopen Publication 12 merely for stylistic polishing.
+Do not reopen it merely for stylistic polishing.
 
-Durable Article-2 correction remains:
+## Publication 13 — active
 
-- `தாண்டிவிடப்பட்டேன்` → **`தூண்டிவிடப்பட்டேன்`**
-- Tamil blob — `711b86300a3340ee73271a1cf613408905314498`
-- verified English blob — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`
+Workspace:
 
-## Publication 13 — activate now
+`publications/thudikkum-ilamai/`
 
-Workspace: `publications/thudikkum-ilamai/`
+Title:
 
-Title: **`துடிக்கும் இளமை`**
+**`துடிக்கும் இளமை`**
 
-Repository classification: **ESSAYS / ARTICLES**, not public speeches.
+Classification:
+
+**ESSAYS / ARTICLES**, not public speeches.
 
 Controlling source:
 
@@ -45,25 +36,17 @@ Source identity:
 - source authority — **rendered scan pixels**
 - source PDF committed — **No**
 
-Printed identity:
+Printed identity after direct P2 correction:
 
 - author — **`மு. கருணாநிதி`**
 - publisher — **`K. R. நாராயணன்`**
 - address — **`வி. ஆர். பிள்ளைத் தெரு, சென்னை-5`**
-- price — **`ஆறணா`**
+- price — **`ஆறணை`**
 - edition — **`முதற் பதிப்பு`**
-- edition date — **`16-12-'51`**
+- edition date — **`16—12—'51`**
 - printer — **`ஸ்ரீ மகள் அச்சகம், சென்னை-1`**
 
-## Durable archival state
-
-- P0 source intake — **COMPLETE / PASS**
-- P1 source structure — **COMPLETE / PASS — 33/33**
-- P2 page-level transcription — **NOT STARTED**
-- P3–P5 — **NOT STARTED**
-- English — **BLOCKED until Tamil reaches P5 / frozen**
-
-Verified structure:
+## Structure
 
 - scans **1–4** — cover / title / imprint / publisher note
 - scans **5–12** — Article 1 `துடிக்கும் இளமை`
@@ -71,50 +54,90 @@ Verified structure:
 - scans **20–24** — Article 3 `பூம்புகார்`
 - scans **25–29** — Article 4 `வெற்றி விளக்கு!`
 - scans **30–33** — advertisements / promotional matter
-- separate printed contents page — **not present**
+- separate printed contents page — **none**
 
-## Mandatory source rules
+## Durable P2 state
 
-Use only the supplied scan pixels as transcription authority.
+P2 Batch 001 scans **1–5** is **COMPLETE / PASS**.
 
-Do **not** use OCR, web copies, Wikisource, Tamil Digital Library, alternate editions or contextual completion.
+- verified — **5/33**
+- needs-review — **0**
+- blocked — **0**
+- guessed — **0**
+- historical-glyph unresolved — **0**
 
-This 1951 source uses historical Tamil type. Follow root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`.
+Canonical records:
 
-Mandatory glyph inspection includes:
+- `pages/0001-front-cover.md`
+- `pages/0002-title-page.md`
+- `pages/0003-imprint.md`
+- `pages/0004-pathippurai.md`
+- `pages/0005-thudikkum-ilamai-1.md`
+
+Important Batch-001 source corrections:
+
+- scan 2 `ஆறணா` → **`ஆறணை`**
+- scan 3 `16-12-'51` → **`16—12—'51`**
+- scan 4 source publisher-note phrase — **`எழுச்சியூட்டும் எழுத்தோவியங்களே`**
+- scan 5 baseline `துடிப்பு (எல் லைக் கோட்டைத்` → source **`துடிப்பு எல்லைக் கோட்டைத்`**
+- scan 5 ends at physical source fragment **`பிம்பங்`**
+
+Progress authority:
+
+`publications/thudikkum-ilamai/P2_PROGRESS.md`
+
+## User-supplied transcription baseline
+
+The user supplied a full transcription.
+
+Use it as an **alignment / comparison aid only**.
+
+It is **not source authority**. Whenever it disagrees with the rendered scan pixels, correct the canonical text to the scan and record the difference.
+
+Do not import later-page continuation into an earlier page record merely because the baseline presents continuous prose.
+
+## Historical Tamil rule
+
+This 1951 source uses historical Tamil type.
+
+Mandatory per body scan:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Read character identity from the scan; do not modernize wording, spelling, grammar or punctuation.
+Read character identity from enlarged/native pixels. Do not modernize spelling, grammar or punctuation. Never global-replace.
 
-Physical-copy stamps, handwriting and ownership marks are evidence but must stay outside the printed-text layer.
+## Exact activity — P2 Batch 002
 
-## Exact activity — P2 Batch 001
+Process physical scans **6–10 only**.
 
-Process physical scans **1–5** only.
+For each scan:
 
-Create one canonical page record per physical scan.
+- create one canonical page record;
+- record visible printed folio only if visible;
+- compare the user transcription baseline against the scan word-by-word;
+- preserve exact source wording and punctuation;
+- rejoin only page-internal typographic line wraps;
+- preserve physical scan-boundary fragments;
+- separate later stamps / handwriting from printed text;
+- perform the full historical-glyph family audit;
+- record every baseline → source correction;
+- do not guess.
 
-For each scan record:
+Expected files:
 
-- physical scan number;
-- visible printed folio only if actually printed; otherwise `null`;
-- structural role;
-- exact source-visible printed text;
-- physical-copy stamps / handwriting separately from printed text;
-- historical-glyph audit;
-- verification status;
-- unresolved reading only when the scan genuinely cannot support certainty;
-- no guessed completion.
+- scan 6 — `pages/0006-thudikkum-ilamai-2.md`
+- scan 7 — `pages/0007-thudikkum-ilamai-3.md`
+- scan 8 — `pages/0008-thudikkum-ilamai-4.md`
+- scan 9 — `pages/0009-thudikkum-ilamai-5.md`
+- scan 10 — `pages/0010-thudikkum-ilamai-6.md`
 
-Special expectations:
+After the batch, update:
 
-- scan 1 — front cover
-- scan 2 — title / publisher / price page + physical-copy stamps
-- scan 3 — edition / date / printer page + physical-copy stamp/show-through
-- scan 4 — `பதிப்புரை` publisher note
-- scan 5 — opening page of Article 1 `துடிக்கும் இளமை`; apply full historical-glyph review to body text
+- `P2_PROGRESS.md`
+- publication `README.md`
+- `indexes/page-map.md`
+- `audit.md`
+- root `HANDOVER.md`
+- this prompt
 
-Update the Publication 13 tracker / README, root `HANDOVER.md`, and this prompt after the batch.
-
-Stop after **P2 Batch 001 scans 1–5** unless the user explicitly asks to continue.
+Stop after scan **10** unless the user explicitly asks to continue.
