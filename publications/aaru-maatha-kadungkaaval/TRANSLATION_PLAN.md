@@ -160,24 +160,33 @@ After all 3/3 articles are T5 verified:
 ## Article 3 progress — `சிறை`
 
 - T0 source prerequisite — **PASS**
-- frozen Tamil blob re-fetched and exact — **`0d860d48bcd666148c0a312ad296953f015225c2`**
+- frozen Tamil blob re-fetched and exact before T2 — **`0d860d48bcd666148c0a312ad296953f015225c2`**
 - structural scans — **108–223**
 - T1 close draft — **COMPLETE**
 - English file — `translations/en/03-sirai.md`
 - T1 English blob — **`31b3c8476ba4bd13264d0609a5553cdd1f7117b7`**
-- working English title — **Prison**
-- translation status — **draft**
-- ordered source-page comments — **116/116 preserved**, scans **108–223**
+- T2 bilingual fidelity review — **PASS**
+- T2 corrections — **21 body corrections** — 17 page-boundary/source-comment realignments + 4 semantic/textual corrections
+- T2 English blob — **`56dfd504cc9b315ee362c1176605e28728616d73`**
+- working English title — **Prison** — provisional until T4
+- translation status — **fidelity-reviewed**
+- ordered source-page comments — **116/116 PASS**, scans **108–223**
 - scan 109 blank/reverse — **no invented prose**
+- omitted Tamil sentences / clauses after T2 — **0**
+- added substantive English claims after T2 — **0**
 - untranslated Tamil body leakage — **0** except Tamil title in metadata / source comment
-- Tamil source changes during T0/T1 — **0**
+- Tamil source changes during T2 — **0**
+- source-sensitive frozen readings — **PASS**
+- material T1 term choices — **reviewed / retained at T2**
+- lexicon changes at T2 — **0**
 - blockers — **0**
-- T2/T3/T4/T5 — **NOT STARTED**
+- T3/T4/T5 — **NOT STARTED**
 
-T1 explicitly preserves the already-frozen source-sensitive Article-3 readings including scan 110 `அந்தி`, scan 121 `தலைவன்`, scan 159 `சூப்பிரின்டெண்ட்`, scan 198 `அடைந்தார்`, scan 201 `‘ஜோக்கர்’`, and scan 209 `இன்ப நினைவுடன்`.
+T2 retained **Prison**, ***udanpirappu***, **Black Hole of Calcutta**, **Water Establishment Minister**, **People's Assembly** / **Speaking Assembly**, ***Kandam***, **“Kaanikkai” Warder**, ***manukkaaran***, ***kudukuduppaikkaran***, ***kechavaali***, and **triple-thread guardian**. Detailed old → corrected English with frozen Tamil basis is in `translations/en/TRANSLATION_REVIEW.md`.
 
 ## Exact next activity
 
-**Article 3 — `சிறை` — T2 bilingual fidelity review.**
+**Article 3 — `சிறை` — T3 voice/style review only.**
 
-Re-fetch frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and T1 English draft blob `31b3c8476ba4bd13264d0609a5553cdd1f7117b7`. Compare the complete scans **108–223** article paragraph by paragraph and clause by clause for omissions, additions, names, dates, numbers, quotations, songs, headings, prison terminology, negatives, logical connectors, repetitions, page-boundary continuations and all **116** source-page comments. Record every T2 correction. Do not begin T3 unless explicitly directed.
+Re-fetch frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and require T2 English blob `56dfd504cc9b315ee362c1176605e28728616d73`. Review scans **108–223** for voice, cadence, satire, repetitions, rhetoric, quoted speech and songs without changing source meaning or facts. Preserve all **116/116** source-page comments and keep scan 109 blank/reverse. Do not begin T4 unless explicitly directed.
+
