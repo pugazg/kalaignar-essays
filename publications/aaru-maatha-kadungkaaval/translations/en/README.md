@@ -15,11 +15,11 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - T0 — **1/3 PASS**
 - T1 — **1/3 COMPLETE**
 - T2 — **1/3 PASS**
-- T3 — **0/3**
-- T4 — **0/3**
-- T5 — **0/3**
+- T3 — **1/3 PASS**
+- T4 — **1/3 PASS**
+- T5 — **1/3 VERIFIED**
 - English article files — **1/3**
-- verified English articles — **0/3**
+- verified English articles — **1/3**
 - E6 publication-wide consistency review — **NOT STARTED**
 - E7 release closeout — **NOT STARTED**
 - blockers — **0**
@@ -28,7 +28,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 
 | # | Tamil title | Working English title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|---|
-| 1 | `முரசு` | **The Drum** *(working; T4 not yet passed)* | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **PASS** | **COMPLETE / draft** | **PASS** | not-started | not-started | not-started |
+| 1 | `முரசு` | **The Drum** | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **VERIFIED** |
 | 2 | `களம்` | **TBD at T1/T4** | `60c155dc93a4543e267ccbca5573d6f5b70e5672` | not-started | not-started | not-started | not-started | not-started | not-started |
 | 3 | `சிறை` | **TBD at T1/T4** | `0d860d48bcd666148c0a312ad296953f015225c2` | not-started | not-started | not-started | not-started | not-started | not-started |
 
@@ -55,6 +55,17 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - Tamil source changes — **0**
 - blockers — **0**
 
+## Article 1 T3–T5 checkpoint
+
+- T3 — **PASS** — blob `fcd98ef6c92d14b10f69f0fcda76fe8507e14331`; 4 body corrections
+- T4 — **PASS** — body authority `bbf4de306e1d0f8442237ee654abbbdb7244d7d5`; 1 body correction
+- T5 — **PASS / VERIFIED**
+- verified title — **The Drum**
+- verified English blob — `d629c2b13c6d01170bd96bd5e88409a4352f61c5`
+- source comments — **56/56 PASS**
+- Tamil changes — **0**
+- blockers — **0**
+
 ## Permanent source boundary
 
 Use only the frozen Tamil article assemblies as normal translation authorities. Page records / controlling scans may be reopened only for punctuation, quotation, page-boundary or provenance questions.
@@ -65,4 +76,4 @@ Scan **224** is back-cover / publisher-device matter and does not belong in Arti
 
 ## Exact next activity
 
-**Article 1 — `முரசு`: T3 Kalaignar voice review.**
+**Article 2 — `களம்`: T0 source prerequisite + T1 close draft.**
