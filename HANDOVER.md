@@ -2314,7 +2314,7 @@ Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2`, create `pu
 - next — **Article 3 `சிறை` T0 + T1**
 
 
-## English Article 3 — `சிறை` — T0/T1/T2
+## English Article 3 — `சிறை` — T0/T1/T2/T3
 
 - T0 — **PASS**
 - frozen Tamil blob — **`0d860d48bcd666148c0a312ad296953f015225c2`**
@@ -2323,32 +2323,40 @@ Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2`, create `pu
 - scan 109 — blank/reverse; **no invented English prose**
 - continuous prose — **110–223**
 - scan 224 — back-cover / publisher-device matter; **outside Article 3 English prose**
-- T1 — **COMPLETE / draft**
+- T1 — **COMPLETE**
 - T1 English blob — **`31b3c8476ba4bd13264d0609a5553cdd1f7117b7`**
-- T2 — **PASS**
-- T2 corrections — **21 body corrections** — **17 page-boundary/source-comment realignments + 4 semantic/textual corrections**
+- T2 — **PASS** — **21 body corrections**
 - T2 English blob — **`56dfd504cc9b315ee362c1176605e28728616d73`**
+- T3 — **PASS** — **20 body corrections**
+- T3 English blob — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
 - English file — `publications/aaru-maatha-kadungkaaval/translations/en/03-sirai.md`
-- working English title — **Prison** — provisional until T4
-- `translation_status: "fidelity-reviewed"`
+- working English title — **Prison** — provisional pending T4
+- `translation_status: "voice-reviewed"`
 - source comments — **116/116 PASS**
-- omitted Tamil sentences / clauses after T2 — **0**
-- added substantive English claims after T2 — **0**
+- T2 regressions — **0**
+- semantic additions introduced by T3 — **0**
 - untranslated Tamil body leakage — **0**
-- Tamil source changes during T2 — **0**
-- material lexicon changes at T2 — **0**
+- Tamil source changes during T3 — **0**
+- material lexicon changes at T3 — **0**
 - blockers — **0**
-- T3/T4/T5 — **NOT STARTED**
+- T4/T5 — **NOT STARTED**
 
-The four semantic/textual T2 corrections are:
-1. scan 120 — removed unsupported intensity from **“How dare you send such a demand?”** → **“How can you send a demand?”**;
-2. scan 136 — repaired singular deputy name **Pakkirisamy Krishnan**;
-3. scan 167 — source note initial **`ஆர்.`** restored as **R.**, not K.;
-4. scan 219 — restored the frozen negative polarity **`நாட்டுக்கு நன்கு புலனாகப் போகாது`**.
+T3 restored or sharpened source voice in **20** places without changing source facts. Durable examples include:
 
-The other **17** T2 corrections restore translation flow across the exact source-page markers at scans **111→112, 117→118, 131→132, 140→141, 144→145, 145→146, 154→155, 155→156, 162→163, 177→178, 179→180, 184→185, 185→186, 186→187, 190→191, 192→193, and 194→195**. Full old → corrected English and frozen Tamil basis are recorded in `publications/aaru-maatha-kadungkaaval/translations/en/TRANSLATION_REVIEW.md`.
+- scan 118 — **“the warrior Aruppukkottai gave us”**;
+- scan 119 — **“Even when touched, it would not budge!”**;
+- scan 121 — **“The law had flung them aside!”**;
+- scan 128 — Bharathidasan's lines **“sang a new joy into the heart”**;
+- scan 176 — **“Question marks appeared on their faces”**;
+- scans 208→209 — one continuous Kallakkudi-battalion farewell sentence restored across the page marker;
+- scan 221 — the Kallakkudi slogan now **“resound[s] at the railway station”**;
+- scan 223 — closing **“our cherished Dravida”**.
 
-T2 explicitly rechecked and retained working title **Prison**; scan-114 ***udanpirappu***; **Black Hole of Calcutta**; **Water Establishment Minister**; **People's Assembly** / **Speaking Assembly**; ***Kandam***; **“Kaanikkai” Warder**; ***manukkaaran***; ***kudukuduppaikkaran***; ***kechavaali***; and **triple-thread guardian**. The frozen readings scan 110 **`அந்தி`**, scan 121 **`தலைவன்`**, scan 159 **`சூப்பிரின்டெண்ட்`**, scan 198 **`அடைந்தார்`**, scan 201 **`‘ஜோக்கர்’`**, and scan 209 **`இன்ப நினைவுடன்`** remain intact.
+Full old → corrected English and voice/style rationale are recorded in `publications/aaru-maatha-kadungkaaval/translations/en/TRANSLATION_REVIEW.md`.
+
+T3 deliberately retained source-strange/source-bearing forms for T4 rather than polishing them away: **Prison**, ***udanpirappu***, **Black Hole of Calcutta**, ***thaar*** wordplay, **Water Establishment Minister**, **People's Assembly** / **Speaking Assembly**, ***Kandam***, **“Kaanikkai” Warder**, ***manukkaaran***, ***kudukuduppaikkaran***, ***kechavaali*** and **triple-thread guardian**.
+
+The frozen source-sensitive readings remain intact: scan 110 **`அந்தி`**, scan 121 **`தலைவன்`**, scan 159 **`சூப்பிரின்டெண்ட்`**, scan 198 **`அடைந்தார்`**, scan 201 **`‘ஜோக்கர்’`**, scan 209 **`இன்ப நினைவுடன்`**.
 
 ### Durable Article-2 correction
 
@@ -2360,7 +2368,22 @@ Do not regress the user-confirmed scan-77 correction:
 
 ### Exact next activity
 
-**Article 3 `சிறை` — T3 voice/style review only.**
+**Article 3 `சிறை` — T4 terminology / quotation / citation audit only.**
 
-Re-fetch frozen Tamil blob **`0d860d48bcd666148c0a312ad296953f015225c2`** and require exact T2 English blob **`56dfd504cc9b315ee362c1176605e28728616d73`** before any T3 edit. Review the entire scans **108–223** article for rhetorical force, cadence, satire, political register, repetitions, quotation voice, song-line voice and idiomatic English while preserving meaning, facts, negatives and source-sensitive terms. Preserve all **116/116** ordered source comments and scan 109 blank/reverse. Stop after T3; do not begin T4 unless explicitly directed.
+Re-fetch frozen Tamil blob **`0d860d48bcd666148c0a312ad296953f015225c2`** and require exact T3 English blob **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`** before any T4 edit.
+
+Audit the entire scans **108–223** article for:
+
+- working title **Prison** — decide/freeze or correct;
+- publication lexicon consistency;
+- proper names, initials and place names;
+- recurring political/religious epithets;
+- source-bearing transliterations and prison slang;
+- quoted prose, song and verse treatment;
+- dates, numbers and institutional terms;
+- punctuation / source anomalies that materially affect English;
+- all **116/116** ordered source comments;
+- scan 109 blank/reverse.
+
+Stop after T4. Do not begin T5 unless explicitly directed.
 
