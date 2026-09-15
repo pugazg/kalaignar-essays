@@ -28,10 +28,10 @@ The four strict-reviewed Tamil assemblies below are the sole normal translation 
 
 | # | Tamil title | Structural scans | Tamil assembly | Frozen Tamil blob | English title/status |
 |---:|---|---:|---|---|---|
-| 1 | `துடிக்கும் இளமை` | 5–12 | `articles/01-thudikkum-ilamai.md` | `3b2f40df8f9b1f02aaac917276b7bcf374185f21` | title **TBD** / not started |
-| 2 | `அண்ணாமலைக்கு அரோகரா!` | 13–19 | `articles/02-annamalaikku-arogara.md` | `3740984e52a72b514dff4fc41f54a2938d7ce793` | title **TBD** / not started |
-| 3 | `பூம்புகார்` | 20–24 | `articles/03-poompuhar.md` | `9ec5a3fd12e342a92bc02dada6dcf4297214d69d` | title **TBD** / not started |
-| 4 | `வெற்றி விளக்கு!` | 25–29 | `articles/04-vetri-vilakku.md` | `26ce57fe58a5327879155bf41c132180d71dd191` | title **TBD** / not started |
+| 1 | `துடிக்கும் இளமை` | 5–12 | `articles/01-thudikkum-ilamai.md` | `3b2f40df8f9b1f02aaac917276b7bcf374185f21` | **Throbbing Youth / T5 VERIFIED** |
+| 2 | `அண்ணாமலைக்கு அரோகரா!` | 13–19 | `articles/02-annamalaikku-arogara.md` | `3740984e52a72b514dff4fc41f54a2938d7ce793` | **Arohara to Annamalai! / T5 VERIFIED** |
+| 3 | `பூம்புகார்` | 20–24 | `articles/03-poompuhar.md` | `9ec5a3fd12e342a92bc02dada6dcf4297214d69d` | **Poompuhar / T5 VERIFIED** |
+| 4 | `வெற்றி விளக்கு!` | 25–29 | `articles/04-vetri-vilakku.md` | `26ce57fe58a5327879155bf41c132180d71dd191` | **Lamp of Victory! / T5 VERIFIED** |
 
 Translation order is fixed to source structure: **1 → 2 → 3 → 4**.
 
@@ -113,10 +113,32 @@ After all **4/4** articles are T5 verified:
 - Tamil source changes during E0 — **0**;
 - blockers — **0**.
 
+## Article T0–T5 checkpoint — COMPLETE / PASS
+
+- T0 source pins — **4/4 PASS**
+- T1 complete drafts — **4/4**
+- T2 bilingual fidelity — **4/4 PASS**
+- T2 body corrections — **16**
+- T3 Kalaignar voice review — **4/4 PASS**
+- T3 body corrections — **0**
+- T4 terminology / quotation / title audit — **4/4 PASS**
+- T5 article verification — **4/4 VERIFIED**
+- ordered source comments — **25/25 PASS**
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+
+Verified English authorities:
+
+1. **Throbbing Youth** — `46c70fd2bf702a061d35b45383c8c8e0841852d9`
+2. **Arohara to Annamalai!** — `1cfce7827fec69de08c98dd78edf4a06a7216a41`
+3. **Poompuhar** — `67649c4db83881840137073bafa24d31062fb86c`
+4. **Lamp of Victory!** — `083d514b93d58484f49e3193235b9631d995cd8e`
+
 ## Exact next activity
 
-**Article 1 `துடிக்கும் இளமை` — T0 source-pin revalidation + T1 close English draft.**
+**E6 — publication-wide English consistency review.**
 
-Before drafting, refetch live `main` and confirm frozen Tamil blob **`3b2f40df8f9b1f02aaac917276b7bcf374185f21`** exactly.
-
-Do not advance to T2 in the same activity unless the user explicitly asks.
+Do not run E7 release closeout until E6 is separately completed.
