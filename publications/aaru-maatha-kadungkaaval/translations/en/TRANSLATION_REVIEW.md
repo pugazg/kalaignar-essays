@@ -47,7 +47,9 @@ Date: **2026-09-15**
 - ordered source-page comments — **56/56 preserved**
 - untranslated Tamil body leakage — **0**; only `title_ta` remains Tamil in metadata
 - Tamil changes during T0/T1 — **0**
-- T2 — **NOT STARTED**
+- T2 — **PASS**
+- T2 English blob — `ffea867e2163d8a87763bb3fba798d467268da84`
+- T2 body corrections — **8**
 - T3 — **NOT STARTED**
 - T4 — **NOT STARTED**
 - T5 — **NOT STARTED**
@@ -56,6 +58,48 @@ Date: **2026-09-15**
 T1 preserves the source's memoir/political cadence, direct address, questions, exclamations, repeated drum imagery, embedded verse and slogans, duplicated physical witnesses on scans 16–17, and all source-page boundaries.
 
 Material choices to recheck in T2–T4: **The Drum** for `முரசு`; **righteous struggle** for `அறப்போர்`; `குளித்தலை / குருவித்தலை` wordplay; **religious pretenders** for `ஆஷாடபூதிகள்`; source-bearing **Muttamil**; and the Kallar/thief pun. These are review items, not blockers.
+
+#### T2 bilingual fidelity review — PASS
+
+The complete T1 English draft was compared against frozen Tamil `7a41617cd48f8507bc12074fb48d6016fae5cead` across scans **10–65**, paragraph by paragraph and clause by clause.
+
+Checks after correction:
+
+- omitted Tamil body paragraphs / clauses — **0**;
+- added substantive English claims — **0**;
+- names, initials, places, dates, times, money and numbers — **PASS**;
+- negatives / comparisons / conditionals / logical connectors — **PASS**;
+- quotation scope / speaker relations — **PASS**;
+- repeated commands, questions, exclamations and drum imagery — **PASS**;
+- source-chosen political / religious / social labels — **PASS**;
+- duplicated physical witnesses scans **16–17** — **retained / PASS**;
+- ordered source-page comments — **56/56 PASS**, scans **10–65**;
+- untranslated Tamil body leakage — **0**;
+- Tamil source changes — **0**;
+- blockers — **0**.
+
+T2 corrections:
+
+1. **scan 10** — restored source subject `மழவர்கள்`: generic **“they”** → **“the Mazhavars”** in the war-drum image;
+2. **scan 36** — `வாழ்விழந்த` was prevented from reading as literal death: **“a woman who had lost her life”** → **“a woman whose life had been taken from her”**, preserving the widow/remarriage metaphor;
+3. **scan 41** — restored source epithet `தரித்திர நாராயணர்கள்`: generic **“poor fathers”** → source-bearing **“Daridra Narayanas”**;
+4. **scan 47** — corrected unsupported semantic reversal: source `பொறுமையை` is retained as **“patience”**, replacing T1 **“impatience”**, even though the source combination is rhetorically unusual;
+5. **scan 50** — repaired the Siddhartha / Buddhist-wisdom / Ashoka quotation so `மக்களைத் திருத்தும் புத்த ஞான` is no longer attached as an English-only modifier to the Kalinga battlefield;
+6. **scan 54** — removed T1's unsupported causal gloss **“because they have no other work”** and rendered source `எத்தனையோ வேலைகள் வேண்டாமென` more closely as **“wanting none of the many kinds of work”**;
+7. **scan 60** — restored source-visible irregular `பொன்னை சந்தி` as source-bearing ***ponnai sandhi*** instead of silently omitting it;
+8. **scan 61** — removed the T1 passive-normalising expansion **“had to be brought down. The DMK has spread for that purpose”** and restored the source action relation: the DMK **spread, taking up the task of beating down their clamour**.
+
+T2 deliberately retained for later T3/T4 review rather than smoothing by preference:
+
+- working title **The Drum** for `முரசு`;
+- `அறப்போர்` → **righteous struggle**;
+- Kulithalai / `குருவித்தலை` wordplay;
+- Kallar / thief pun;
+- `ஆஷாடபூதிகள்` → **religious pretenders**;
+- source-bearing **Muttamil**;
+- source-irregular ***ponnai sandhi***.
+
+T2 result: **PASS**. English remains `translation_status: "draft"` pending T3–T5.
 
 ### Article 2 — `களம்`
 
@@ -73,6 +117,6 @@ Material choices to recheck in T2–T4: **The Drum** for `முரசு`; **ri
 
 ## Exact next activity
 
-**Article 1 — `முரசு` — T2 bilingual fidelity review.**
+**Article 1 — `முரசு` — T3 Kalaignar voice review.**
 
-Compare frozen Tamil blob `7a41617cd48f8507bc12074fb48d6016fae5cead` against T1 English blob `a94630638fa194290e0761259131cc4548d429e4` paragraph by paragraph. Check completeness, clause-level meaning, names, numbers, quotation scope, negatives, logical connectors, repeated rhetoric and all 56 source-page comments. Record every T2 correction; do not begin T3 unless separately directed.
+Re-read frozen Tamil blob `7a41617cd48f8507bc12074fb48d6016fae5cead` beside T2 English blob `ffea867e2163d8a87763bb3fba798d467268da84`. Preserve all T2 corrections while reviewing voice, cadence, humour, sarcasm, direct address, repetitions, martial imagery, slogans and emotional temperature. Do not begin T4 unless separately directed.
