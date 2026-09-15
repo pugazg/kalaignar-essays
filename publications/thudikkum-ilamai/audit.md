@@ -37,7 +37,7 @@ The publication is therefore not being added to `kalaignar-public-speeches`.
 
 - historical Tamil typeforms — **present**;
 - historical-glyph guide — **mandatory**;
-- P2 — **IN PROGRESS — 29/33 verified; article body 25/25 COMPLETE**;
+- P2 — **COMPLETE / PASS — 33/33 verified**;
 - guessed readings — **0**;
 - unresolved body readings — **0**.
 
@@ -78,6 +78,29 @@ Source-fidelity corrections include:
 
 The user-supplied transcription remains an alignment/comparison baseline only. Rendered scan pixels control canonical text.
 
-Publication P2 remains open only for **scans 30–33 advertisements / promotional matter**.
+## P2 final batch — scans 30–33 advertisements / promotional matter
 
-Next: **P2 final batch — scans 30–33**.
+**COMPLETE / PASS — 4/4**
+
+- scan 30 — `‘கலையக’த்தின் அரிய நூல்களில் சில!` — VERIFIED;
+- scan 31 — `‘கலையக’த்தின் 27-வது வெளியீடு!` / `வானம்பாடி` — VERIFIED;
+- scan 32 — `புதுமை பிரசுரங்கள்!` — VERIFIED;
+- scan 33 — terminal advertisement `“கலையக”த்தின் 25வது வெளியீடு!` / `எழிலரசி கிளியோபாட்ரா` — VERIFIED;
+- later physical-copy stamp on scan 33 kept outside printed text layer;
+- needs-review / blocked / guessed — **0 / 0 / 0**;
+- unresolved advertisement text — **0**.
+
+Source-sensitive advertisement readings include `கைவசமில்லை`, `வெங்கண்ணு`, `எம். ஸ்ரீ`, `சறுக்கிச் சாய்ந்த`, `பலியிட்ட`, `விருதை. நா. இராமசாமி`, `மாதுரிதேவி`, `ஒரு சிற்றிடையாள்!`, `சரித்திரச் சித்திரம்`, and `உன்னத முறையில் அச்சாகிறது!`.
+
+## P2 closure
+
+- physical scans — **33/33 VERIFIED**;
+- front matter — **4/4**;
+- article body — **25/25**;
+- advertisements / promotional matter — **4/4**;
+- article boundaries — **4/4 PASS**;
+- historical-glyph unresolved — **0**;
+- guessed readings — **0**;
+- P2 status — **COMPLETE / PASS**.
+
+Next: **P3 article assembly — all four articles in one go**.
