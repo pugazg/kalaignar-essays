@@ -287,3 +287,98 @@ They saw us off—we left.
 
 July 21 was a day of condemnation throughout Dravida. It was the day the warning cry of those who stood against the Achariyar Government's attempt to destroy the intelligence of the Dravidian people was heard across the land. Saying that the existing education system was no use to anyone, the Premier of Madras—forgive me—the man whom Governor Prakasa had made Premier—brought in a new scheme. It was the story of Perumal becoming Great Perumal: nothing more. It was not a plan that would lead children along a proper path. Three hours of study for children was enough. In the remaining time, they were to learn their fathers' occupations—
 
+
+<!-- Tamil source: scan 41 / printed 38 -->
+
+that was enough: that was the marvellous scheme born in Achariyar's avatar-brain. No one denied that children should advance in vocational skills. Which children, at what age? How were they to learn a trade? It was the answers to those questions that were strange. Children below eleven years of age were to spend three hours at school, then go home for the rest of the day and learn their father's occupation. Three hours of study was the order—“learn a trade” was the sermon. Those who understand through experience the lives of poor fathers who stand struggling, unable to solve the problem of livelihood, unable to quench the fire in their stomachs, will not deny how far such fathers could ever carry out that sermon.
+
+How many families are there in this land where a father leaves with the plough before dawn, returns home at midnight, and after months in which a sleeping child never sees his face, the child ends up calling him “uncle”?
+
+If one says vocational education is taught at school, there is at least some meaning in it. How is vocational education taught in the advanced countries? The method considered best is to discover what kind of work interests each child and train that child in that field;
+
+<!-- Tamil source: scan 42 / printed 39 -->
+
+the advanced countries proceed along that path and advance.
+
+Ruling class—protecting class—trade and commerce class: Plato, the great thinker who pointed to these three important and elevated divisions in politics, also showed that every human being had the right to enter whichever class suited his excellence, not his birth. He wrote that education appropriate to each of those three divisions must be given from youth, after seeing which branch of education each person desired, and thereby became a guidepost for the world's educational thinking.
+
+But Achariyar rejoices that only now has the moment arrived to implement the plan that has soaked in his brain for fifty years. If, through an educational scheme in Dravida Nadu, one says that each man must perform his hereditary occupation, no name other than a varnasrama scheme can be given to it. For the divisions that arose from birth—Brahmin, Kshatriya, Vaisya, Sudra—have become an explosives factory in the middle of a great society. Good people in the country tried to dissolve and drench that explosive powder with a flood, thinking that if fire reached the factory a terrible disaster would occur.
+
+<!-- Tamil source: scan 43 / printed 40 -->
+
+I am speaking of peaceful resistance in that image. But Achariyar does not like it. He pushes others toward the path of setting fire to the explosives factory. “Did Abraham Lincoln study? Did Krishna Paramatma go to school?”—questions like these are raised in support of Achariyar's scheme. Everywhere, in everything, there are exceptions. Men such as Lincoln belong to the exception.
+
+If children are told that Krishna became Paramatma without ever going to school, they too will desire to become Paramatma. They will think about what must be done to become one. They must not go to school. In daylight they must steal butter from the neighbour's house. They must steal the saris of women bathing in the pond. They must fondle Radha, another man's wife. What are we to do if, following all these paths, they become Paramatmas? We say even lessons that teach “Krishna himself is Paramatma” should not be in school. But Achariyar's devotees write of him alongside Abraham Lincoln.
+
+“Do not teach children stories saying, ‘God is real—he cursed—he became angry—he told lies,’ and the like,”
+
+<!-- Tamil source: scan 44 / printed 41 -->
+
+Plato insists. But those here would spend all three hours teaching children the exploits of the Trimurti, then allot the remaining time for the children to demonstrate what they learned by following the path shown by Kannan.
+
+Achariyar's devotees go hunting for evidence that children welcome three-hour schooling with celebration. Ask a womaniser whether he wants a second marriage—what will he say? Ask a drunkard his opinion of prohibition—what answer will you get?
+
+What do children know of the future? Are we not the ones who must worry? The country warned that under this new scheme the new society now flowering would become a barren waste—good people warned them—the leaders of the very party that offered the scheme opposed it—why, later the Legislative Assembly itself pronounced, “Hold it back.” But the heir of varnasrama had no mind to listen to anything.
+
+And so, on June 21, throughout the country, the DMK raised its voice of condemnation against the barbarous education scheme!
+
+That very day we had gone to conduct the opening ceremony of the Madurai Road DMK branch in Tiruchi. Comrade Kannadasan had arrived that morning.
+
+<!-- Tamil source: scan 45 / printed 42 -->
+
+Friend Shanmuga Vadivel had also come from Thanjavur. The prime movers behind the opening of that DMK branch were Muslim youths—beedi workers. The branch inauguration took place through the special efforts of Comrade J. M. Sheriff, a pillar among those workers and a man of courageous heart. The meeting was under way. A beedi proprietor—himself a Muslim—grew furious that beedi workers, and Muslim youths at that, had joined the Dravida Munnetra Kazhagam. He had plenty of money. He possessed the same trait as certain Muslim notables who beat the drum of servility merely because they crave the blessing of the ruling party. He stepped forward himself, hurled soda bottles into the meeting, and tried to beat people with sticks. His effort did not diminish the glory of the function. Instead, it became a good opportunity for the Madurai Road DMK branch to win the powerful support of the people in that locality.
+
+“For some reason we do not understand, a few Muslim elders and youths have begun opposing our Dravidian movement, speaking and writing slanderously against it. There has scarcely been a Prophet's Day function to which our Anna and Periyar did not go. No one gave support to the demand for Pakistan's separation as we did. We have never changed our belief that they too are Dravidian Muslims. If that is so, why do some among them burn against us—
+
+<!-- Tamil source: scan 46 / printed 43 -->
+
+why do they leap upon us?”
+
+Questions like these rise from our comrades. There is only one answer to all of them: “Not all Muslims oppose us—only a few do—and even for them the reason is to win the favour of the ruling party!” The beedi proprietor too belonged to that kind.
+
+Have these oppositions diminished us? No! No!! The procession held in Tiruchi that same evening proclaims the pledge: “The growls of wastrels cannot destroy a lofty ideal!”
+
+That evening there was a public meeting at Woraiyur. The people raised their voices against the education scheme. Kannadasan took leave of us and went to Kumbakonam that evening. At ten that night a trunk call came from Madras.
+
+Modern Theatres called me to come immediately: there was trouble at the censor board over the film *Thirumbip Paar* (“Look Back”). The next day, the 22nd, there was a meeting at Ariyalur. The trunk call came on the night of the 21st. Saying I would make it back for the Ariyalur meeting, I left for Madras that very night.
+
+Before films are released, there is something called censorship. A committee of suitable people is formed. That committee watches the film to be released, removes obscene scenes, ideas that might draw people toward harmful paths, and other such things, and possesses the authority to permit the film to be released thereafter.
+
+<!-- Tamil source: scan 47 / printed 44 -->
+
+That censoring institution has now passed into the hands of the Central Government and, in the provinces, operates under an official appointed by them. There is no need to explain what sort of officials the Central Government will appoint, or whom those officials will gather around themselves to constitute a censor committee. As far as the Madras Province is concerned, the censor board is under the domination of those who hold Aryan ideology. They had regarded the film world too as one of the instruments devised to make Aryanism rise, to make the Sanatana flag fly, and to keep the people enslaved in the name of God. As though lightning had struck that arrogance, our comrades entered the film world. Under Anna's leadership they drove from the cinema the wretched condition in which “ammami and athimber Tamil alone remained,” and turned it into a grove of beautiful Tamil! They tore apart frauds in which “Paramasivan keeps coming and going,” and showed the country the condition in which Paramasivan does not come to the poor man writhing with hunger. The revolution in cinema scattered irritation, impatience, and the urge to do anything to destroy us among our enemies. It was for that reason that Achariyar, guardian of Aryan religion, roared: “Down with cinema!”
+
+<!-- Tamil source: scan 48 / printed 45 -->
+
+Those angered, exhausted and defeated gathered around him. The days when *Nalla Thangal* and *Nala Damayanti* were made into films had passed; when they saw films such as *Velaikkari*, *Manthiri Kumari*, *Sarvadhikari*, *Or Iravu*, *Manamagal*, *Parasakthi*, *Naam*, *Sorgavasal* appearing, would those who had kept the film world as their monopoly not naturally become enraged? As a result, the censor office's scissors began to work fast. They became ready even for wild and indiscriminate cutting.
+
+The moment they hear “our films”—no, no—the films written by our comrades—the censor committee arrives sharpening ears and eyes, blunting only its mind, scissors in hand.
+
+Film producers generally want only to recover the money they invested; they will not possess the courage to fight the censor office in court. Even if a few do, they are exceptions. Taking advantage of this, the censors frighten producers—“Cut that—cut this”—harass them, and apply all their cleverness until the producer withdraws saying, “Cut anything you like! Just leave me alone.”
+
+<!-- Tamil source: scan 49 / printed 46 -->
+
+If they said the line “God is an invention” could not remain, one might even forgive it—for the sake of saying that in a theistic Government, atheistic propaganda should not be allowed (!). If the line read, “This Government must be overthrown,” they might ask for its removal; even that we might forgive. But if a film written by a movement man contains even “May God help us,” and they grow suspicious and drive the scissors into it—how can one describe a condition in which they are dying of fright? “Arunagirinathar, reformed by his sister, became a devotee—I have become a rationalist”—that line too, they say, cannot stay!
+
+“Leaders who climb temple towers in order to proclaim your principles! How many times have you slipped and fallen from those principles—look back!”
+
+That line too cannot stay! Do you know why? At Tirukoshtiyur, a Vaishnavite devotee named Ramanujar is said to have climbed a temple tower and jumped from it—so this supposedly mocks him! See, comrades, what extraordinary research!
+
+“Lord overflowing with wealth! Look back at the workers who laboured to gather—to save—that wealth!”
+
+<!-- Tamil source: scan 50 / printed 47 -->
+
+Even this dialogue is said to be useless!
+
+“From his palace Siddhartha looked back at the mud huts; Ashoka looked back upon the battlefield of Kalinga—the Buddha-wisdom that reforms people—and joined the path of Gautama.”
+
+Even this, they say, Paranthaman must not speak in the film!
+
+What do these examples show?
+
+If a movement man writes, the Sanatanists have soaked their minds in a prearranged conspiracy: not only objectionable ideas, but beautiful writing itself must be cut away.
+
+Compare the films that move through the country with the films written by our comrades and the nature of the censor board will become clear.
+
+Because of that nature, more than three thousand feet of *Thirumbip Paar* were made prey to the scissors. The film producers were in no position to file a case. The writers had no means to file one. The case must be brought before the people's forum. Only the justice obtained there can be permanent—and powerful. With that thought, on the 22nd, after meeting Mr. T. R. Sundaram, we left Madras at two in the afternoon for the Ariyalur meeting. From Ulundurpet we went toward Virudhachalam—and because we lost the road,
+
