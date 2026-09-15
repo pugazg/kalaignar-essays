@@ -20,7 +20,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 On the morning of June 15, the aeroplane that left Madras for Tiruchi lifted Comrade Mullai Sakthi and me and flew off with us. Though the plane was travelling only at its necessary, ordinary speed, we felt as though it were tearing through the wind and clouds at an extraordinary pace. In truth, the flying machine itself was not moving so fast. It was the speed of our minds that was like that. A freshness we had never known before. An itch in the shoulders. A dance of delight filling the heart. Why?
 
-The field of struggle was at Kallakkudi. I was its commander. Sakthi, hearing that happy news, came along with me. What more was needed to bring both our hearts to such a state? Our Purananuru tells us that, street after street, tiger-like Tamils once lived in many a home, bows in hand. They would be lying on flower-strewn beds; the war drum would sound—and, saying joyfully that this might even be the last kiss, they would bury their love in the cheeks of tear-filled sweethearts, slap their shoulders, and run to battle.
+The field of struggle was at Kallakkudi. I was its commander. Sakthi, hearing that happy news, came along with me. What more was needed to bring both our hearts to such a state? Our Purananuru tells us that, street after street, tiger-like Tamils once lived in many a home, bows in hand. They would be lying on flower-strewn beds; the war drum would sound—and, saying joyfully that this might even be the last kiss, the Mazhavars would bury their love in the cheeks of tear-filled sweethearts, slap their shoulders, and run to battle.
 
 The heroic poems of the Tamils that remain to us have indeed kept telling us those sweet tidings
 
@@ -251,7 +251,7 @@ Within a few hours, dawn had come. We too set out. Around ten in the morning we 
 
 <!-- Tamil source: scan 36 / printed 33 -->
 
-“Here on this stage we have conducted a marriage for a widow; we have held a ceremony giving life again to a woman who had lost her life. Our Dravida too is a widow! A woman who has lost her life! We have gathered here to devise the methods of action for conducting that remarriage—to give renaissance—to arrange the marriage of the Dravidian widow—to restore life to her who had gone out to live. Our faith is growing that our effort will succeed.
+“Here on this stage we have conducted a marriage for a widow; we have held a ceremony giving life again to a woman whose life had been taken from her. Our Dravida too is a widow! A woman whose life has been taken from her! We have gathered here to devise the methods of action for conducting that remarriage—to give renaissance—to arrange the marriage of the Dravidian widow—to restore life to her who had gone out to live. Our faith is growing that our effort will succeed.
 
 “All those who once cursed us, ‘May you be ruined,’ now bless us: ‘Long live the good younger brothers who guard the nation.’ The man who called me ‘Kolaignar’—killer—at the last meeting calls me ‘Kalaignar’—artist—with tenderness at this meeting. He even sheds tears thinking of what he did before. Those who were in other ranks are now seen in ours. In short, to string a garland for Dravida's remarriage—to pluck flowers for it—all those who had been in the opposing camp are clearing their minds and running toward us.”
 
@@ -299,7 +299,7 @@ July 21 was a day of condemnation throughout Dravida. It was the day the warning
 
 <!-- Tamil source: scan 41 / printed 38 -->
 
-that was enough: that was the marvellous scheme born in Achariyar's avatar-brain. No one denied that children should advance in vocational skills. Which children, at what age? How were they to learn a trade? It was the answers to those questions that were strange. Children below eleven years of age were to spend three hours at school, then go home for the rest of the day and learn their father's occupation. Three hours of study was the order—“learn a trade” was the sermon. Those who understand through experience the lives of poor fathers who stand struggling, unable to solve the problem of livelihood, unable to quench the fire in their stomachs, will not deny how far such fathers could ever carry out that sermon.
+that was enough: that was the marvellous scheme born in Achariyar's avatar-brain. No one denied that children should advance in vocational skills. Which children, at what age? How were they to learn a trade? It was the answers to those questions that were strange. Children below eleven years of age were to spend three hours at school, then go home for the rest of the day and learn their father's occupation. Three hours of study was the order—“learn a trade” was the sermon. Those who understand through experience will not deny how far fathers who are *Daridra Narayanas*—struggling with the unsolved problem of livelihood, unable to quench the fire in their stomachs—could ever carry out that sermon.
 
 How many families are there in this land where a father leaves with the plough before dawn, returns home at midnight, and after months in which a sleeping child never sees his face, the child ends up calling him “uncle”?
 
@@ -355,7 +355,7 @@ Before films are released, there is something called censorship. A committee of 
 
 <!-- Tamil source: scan 47 / printed 44 -->
 
-That censoring institution has now passed into the hands of the Central Government and, in the provinces, operates under an official appointed by them. There is no need to explain what sort of officials the Central Government will appoint, or whom those officials will gather around themselves to constitute a censor committee. As far as the Madras Province is concerned, the censor board is under the domination of those who hold Aryan ideology. They had regarded the film world too as one of the instruments devised to make Aryanism rise, to make the Sanatana flag fly, and to keep the people enslaved in the name of God. As though lightning had struck that arrogance, our comrades entered the film world. Under Anna's leadership they drove from the cinema the wretched condition in which “ammami and athimber Tamil alone remained,” and turned it into a grove of beautiful Tamil! They tore apart frauds in which “Paramasivan keeps coming and going,” and showed the country the condition in which Paramasivan does not come to the poor man writhing with hunger. The revolution in cinema scattered irritation, impatience, and the urge to do anything to destroy us among our enemies. It was for that reason that Achariyar, guardian of Aryan religion, roared: “Down with cinema!”
+That censoring institution has now passed into the hands of the Central Government and, in the provinces, operates under an official appointed by them. There is no need to explain what sort of officials the Central Government will appoint, or whom those officials will gather around themselves to constitute a censor committee. As far as the Madras Province is concerned, the censor board is under the domination of those who hold Aryan ideology. They had regarded the film world too as one of the instruments devised to make Aryanism rise, to make the Sanatana flag fly, and to keep the people enslaved in the name of God. As though lightning had struck that arrogance, our comrades entered the film world. Under Anna's leadership they drove from the cinema the wretched condition in which “ammami and athimber Tamil alone remained,” and turned it into a grove of beautiful Tamil! They tore apart frauds in which “Paramasivan keeps coming and going,” and showed the country the condition in which Paramasivan does not come to the poor man writhing with hunger. The revolution in cinema scattered irritation, patience, and the urge to do anything to destroy us among our enemies. It was for that reason that Achariyar, guardian of Aryan religion, roared: “Down with cinema!”
 
 <!-- Tamil source: scan 48 / printed 45 -->
 
@@ -379,7 +379,7 @@ That line too cannot stay! Do you know why? At Tirukoshtiyur, a Vaishnavite devo
 
 Even this dialogue is said to be useless!
 
-“From his palace Siddhartha looked back at the mud huts; Ashoka looked back upon the battlefield of Kalinga—the Buddha-wisdom that reforms people—and joined the path of Gautama.”
+“From his palace Siddhartha looked back at the mud huts; the Buddhist wisdom that reforms people—Ashoka looked back at the Kalinga battlefront and joined Gautama's path.”
 
 Even this, they say, Paranthaman must not speak in the film!
 
@@ -432,7 +432,7 @@ People like him must arise in the villages. For some years our movement has ente
 
 In the market street—at the corner of a lane—on the pathways—by the tank—on the edge of little villages—near beautiful fields—the great Athenian Socrates would stop passers-by and give long speeches!
 
-There are educated elders—young men—students—so many who remain in the villages, attending to crops and greenery because they have no other work, and not knowing how to spend their spare time! They can all become street speakers. They can gather the Dravidian army to rescue Dravidian soil from endless slavery.
+There are educated elders—young men—students—so many who, wanting none of the many kinds of work, remain in hamlets and villages tending crops and greenery, and do not know how to spend their spare time! They can all become street speakers. They can gather the Dravidian army to rescue Dravidian soil from endless slavery.
 
 Young men of the smallest villages! The cock cries:
 “Dawn has come! Dawn has come!”
@@ -508,7 +508,7 @@ A conference at Chidambaram—July 4 and 5, two days!
 
 “It was in that holy place that Nandi moved aside for Nandan, called ‘He who will go tomorrow,’ and that the red fire consumed the bodily frame, leaving the body of fame, and made even the Paraiyan by caste merge into the divine light,” says the friend of antiquity. Our great cry of equality there!
 
-An Aryan shrine at Thillai! There, a flood of devotion! A hall of knowledge—at its boundary! From there, a flood of rationalism! The new age that dawned in Annamalai Nagar—warriors singing the song that guards our land as one guards gold and one's own eyes.
+An Aryan shrine at Thillai! There, a flood of devotion! A hall of knowledge—at its boundary! From there, a flood of rationalism! The new age that dawned in Annamalai Nagar—*ponnai sandhi*—warriors singing a song to guard our land as the eye itself.
 
 Nedunchezhiyan who crosses great barriers—Professor Anbazhagan—the distinguished Mathiazhagan—the richly Tamil Arangannal—lawyer Ilamvazhuthi—the youthful breeze, the powerful orator Villalan—Annamalai Nagar gave them all to the country. And there stands the sacred temple of the golden-bodied one, raised in fear that Aryanism will die because such men arise.
 
@@ -528,7 +528,7 @@ The man who laid down the rule that a Paraiyan can reach the feet of God only af
 
 Thus the volcano erupted!
 
-In the name of God—in the glory of temples—those who let religious pretenders grow and plotted to keep Aryanism swinging at the very top had to be brought down. The DMK has spread for that purpose. Thillai is one of the places where the silk flag of its youth flies high.
+In the name of God—in the glory of temples—letting religious pretenders grow—and plotting to keep Aryanism swinging at the very top: the DMK spread, taking up the task of beating down their clamour. Thillai is one of the places where the silk flag of its youth flies high.
 
 <!-- Tamil source: scan 62 / printed 59 -->
 
