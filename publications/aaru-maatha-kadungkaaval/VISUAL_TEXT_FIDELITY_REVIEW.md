@@ -17,9 +17,9 @@ Rules:
 ## Progress
 
 - physical scans — **224**
-- P5 checked — **105/224**
-- completed range — **1–105**
-- next range — **106–120**
+- P5 checked — **120/224**
+- completed range — **1–120**
+- next range — **121–135**
 - current needs-review — **0**
 - current blocked — **0**
 - guessed readings — **0**
@@ -297,17 +297,57 @@ Batch P5-07 totals:
 - guessed readings — **0**
 - P5 cumulative progress — **105/224**
 
+## Batch P5-08 — scans 106–120
+
+Result: **15/15 PASS / no canonical correction**.
+
+| Scan | P5 result | Key reconfirmation |
+|---:|---|---|
+| 106 | PASS | scan-105 terminal **`ஆகி`** + opening **`யோரிடம்`** physical continuation reconfirmed; source-visible **`சாப்பிட்டானபிறகுதான்`**, **`நின்றுளா`**, **`ஐயாயிரம்பேர்`**, **`ஐயாயிரவர்`** retained; final `களம்` page |
+| 107 | PASS | blank/reverse/show-through classification reconfirmed; no independent publication text |
+| 108 | PASS | illustrated intertitle directly reconfirmed as **`சிறை`**; barred / padlocked gate remains illustration only |
+| 109 | PASS | blank/reverse/show-through classification reconfirmed; no independent publication text |
+| 110 | PASS | repeated heading **`சிறை`** and prior P2R repair **`இந்த சோகச் செய்திகளை காதில் வாங்கியபடி!`** reconfirmed; `முப்பத்தாறுபேரும்`, `என்ன ஆச்சரியம்;` retained |
+| 111 | PASS | names / Latin initials, **`சிங்க ஏறுகளும்-கண்ணியம்-கட்டுப்பாடு`**, **`சம்பந்தப் படுத்தப்பட`**, **`வடாற்காடு மாவட்டத்`** terminal fragment reconfirmed |
+| 112 | PASS | scan-111 **`வடாற்காடு மாவட்டத்` + `தில்`** continuation; source-visible **`செல்வில்`**, **`சிறை யாத்திரை`**, **`துவங்கி விட்டது`**, quoted **`‘சென்று வருக’`** reconfirmed |
+| 113 | PASS | prior P2R repair **`அழைத்துச் சென்று - நீண்ட சிந்தனை.`** reconfirmed; **`போலீஸ்வண்டி`**, **`நலமின்றி யிருக்கிறார்`**, **`என் அப்போதே`**, terminal **`எனக்கு நானே`** retained |
+| 114 | PASS | scan-113 **`எனக்கு நானே` + `ஆச்சரியப்படுவேன்`** continuation; **`வேடந்தாங்கி`**, **`அரங்குவைப்`**, **`சப்ஜெயில்`**, **`நாலந்து`** reconfirmed |
+| 115 | PASS | heading **`எங்கள் கூண்டு :`**, exact name / hyphen sequence, **`சிறுநீர் கழிக்கப் பட்டு`**, **`‘கக்கூஸ்’`**, **`“லாங் ஜம்ப்”`**, **`ஆளுக்கொரு சட்டி`** reconfirmed |
+| 116 | PASS | prior punctuation / spacing repair **`ஆறுவகை, ருசி நிறைந்த சாப்பாடு என்று தான்`** reconfirmed; physical dark speck not promoted to punctuation; **`சுழலுதண்ணே`**, **`அடிவயிற்றிலேயிருந்து`** retained |
+| 117 | PASS | source-visible **`தொளைக்கிறது`**, **`ஆபாசமாயிருந்த`**, **`என் நிற்கிறீர்கள் தூங்க வில்லையா?`**, **`குடிக்க காயவிடாமல்`**; terminal **`மறுபடியும்`** reconfirmed |
+| 118 | PASS | scan-117 **`மறுபடியும்` + `அடைத்துவிட்டார்கள்.`** continuation; **`17ந் தேதி`**, **`வைத்திய சாலையிலிருந்த`**, **`எங்களுத் திறப்பதற்காக`**, **`கட்டுமஸ்தான`** reconfirmed |
+| 119 | PASS | **`வயதுமாத்திரம்`**, **`பழுப்புத்தளிர்`**, **`உணவு(?)`**, **`சோளக்களியை`**, **`அன்பு, பொழிந்தார்கள்`** and terminal **`மாஜிஸ்`** reconfirmed |
+| 120 | PASS | scan-119 **`மாஜிஸ்` + `டிரேட் வந்தார்.`** continuation; **`நீதி மன்றம்`**, **`ஆட்சி பீடம்`**, unusual quotation sequence and **`கோரிக்கை யனுப்பலாம்`** reconfirmed |
+
+Historical-family verification for this batch explicitly rechecked **`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`** directly from source pixels. Representative checks include `விடுதலை`, `தண்டனை`, `தலையணையாக`, `வைத்தியசாலையில்`, `முப்பத்தாறுபேரும்`, `கலைமகள்`, `இளைஞர்`, `வீராங்கனை`, `வடாற்காடு`, `இலைபோட்டு`, `என்னை`, `தாழ்வாரத்திலே`, `கூண்டுகளை`, `மலைக்கோட்டை`, `மூக்குகளையெல்லாம்`, `வளைந்து`, `கண்ணதாசனும்`, `கைதிகளை`, `தலையிலே`, `குவளையை`. No historical-family identity changed.
+
+Structural boundary was directly reconfirmed:
+
+- scan **106** closes the **`களம்`** body;
+- scan **107** is blank/reverse;
+- scan **108** is the illustrated **`சிறை`** intertitle;
+- scan **109** is blank/reverse;
+- scan **110** begins the **`சிறை`** body with repeated source heading `சிறை`;
+- scans **110–120** remain `சிறை` body.
+
+Canonical filenames remain correct: `0106-kalam.md`, `0107-blank-reverse.md`, `0108-sirai-illustration.md`, `0109-blank-reverse.md`, then `0110-sirai.md` through `0120-sirai.md`.
+
+The P3 assemblies were checked for representative landmarks. `articles/02-kalam.md` preserves the scan-105/106 physical split and source forms on scan 106; `articles/03-sirai.md` already contains the canonical P2R repairs / source forms for scans 110–120, including `இந்த சோகச் செய்திகளை காதில் வாங்கியபடி`, `செல்வில்`, `அழைத்துச் சென்று - நீண்ட சிந்தனை`, `ஆறுவகை, ருசி நிறைந்த சாப்பாடு என்று தான்`, `என் நிற்கிறீர்கள் தூங்க வில்லையா?`, `எங்களுத் திறப்பதற்காக`, `அன்பு, பொழிந்தார்கள்`, and `கோரிக்கை யனுப்பலாம்`. No propagation repair was required.
+
+Batch P5-08 totals:
+
+- scans checked — **15**
+- canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- P5 cumulative progress — **120/224**
+
 ## Exact next activity
 
-**P5 Batch P5-08 — physical scans 106–120.**
+**P5 Batch P5-09 — physical scans 121–135.**
 
-This range crosses the `களம்` → `சிறை` structural boundary:
-- scan **106** — final `களம்` body page;
-- scan **107** — blank/reverse;
-- scan **108** — illustrated **`சிறை`** intertitle;
-- scan **109** — blank/reverse;
-- scans **110–120** — **`சிறை`** body.
+Scans **121–135** remain within the **`சிறை`** body. Preserve every page as `*-sirai.md`.
 
-Preserve canonical filenames exactly: `0106-kalam.md`, `0107-blank-reverse.md`, `0108-sirai-illustration.md`, `0109-blank-reverse.md`, then `0110-sirai.md` through `0120-sirai.md`.
-
-Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after scan 120.
+Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after scan 135.
