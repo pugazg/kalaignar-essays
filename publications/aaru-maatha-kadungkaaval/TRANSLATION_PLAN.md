@@ -28,7 +28,7 @@ The three strict-reviewed Tamil assemblies below are the sole translation author
 
 | # | Tamil title | Structural scans | Tamil assembly | Frozen Tamil blob | English title/status |
 |---:|---|---:|---|---|---|
-| 1 | `முரசு` | 10–65 | `articles/01-murasu.md` | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **title to be established at T1/T4 — not started** |
+| 1 | `முரசு` | 10–65 | `articles/01-murasu.md` | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **The Drum — T0 PASS / T1 draft COMPLETE; title provisional until T4** |
 | 2 | `களம்` | 66–106 | `articles/02-kalam.md` | `60c155dc93a4543e267ccbca5573d6f5b70e5672` | **title to be established at T1/T4 — not started** |
 | 3 | `சிறை` | 108–223 | `articles/03-sirai.md` | `0d860d48bcd666148c0a312ad296953f015225c2` | **title to be established at T1/T4 — not started** |
 
@@ -110,8 +110,24 @@ After all 3/3 articles are T5 verified:
 - English body text created during E0 — **0**;
 - blockers — **0**.
 
+## Article 1 progress — `முரசு`
+
+- T0 source prerequisite — **PASS**
+- frozen Tamil blob re-fetched and exact — **`7a41617cd48f8507bc12074fb48d6016fae5cead`**
+- T1 close draft — **COMPLETE**
+- English file — `translations/en/01-murasu.md`
+- T1 English blob — **`a94630638fa194290e0761259131cc4548d429e4`**
+- working English title — **The Drum**
+- translation status — **draft**
+- ordered Tamil source-page comments — **56/56 preserved**, scans **10–65**
+- Tamil source changes during T0/T1 — **0**
+- blockers — **0**
+- T2/T3/T4/T5 — **NOT STARTED**
+
+Working choices intentionally left for later review include the title `முரசு` → **The Drum**, contextual `அறப்போர்` → **righteous struggle**, the Kulithalai / `குருவித்தலை` wordplay, `ஆஷாடபூதிகள்` → **religious pretenders**, and the closing source-bearing `முத்தமிழ்` → **Muttamil**.
+
 ## Exact next activity
 
-**Article 1 — `முரசு` — T0 source pin + T1 close draft.**
+**Article 1 — `முரசு` — T2 bilingual fidelity review.**
 
-Re-fetch the frozen Tamil article and confirm blob `7a41617cd48f8507bc12074fb48d6016fae5cead` before drafting. Establish the working English title during T1, preserve all source-page comments, and translate the entire article paragraph by paragraph without changing frozen Tamil.
+Re-fetch frozen Tamil blob `7a41617cd48f8507bc12074fb48d6016fae5cead` and T1 English draft blob `a94630638fa194290e0761259131cc4548d429e4`. Compare the full article paragraph by paragraph and clause by clause for omissions, additions, names, numbers, quotations, negatives, logical connectors, repetition, source-page comments and source-sensitive terminology. Record every T2 correction in the review ledger. Do not begin T3 in the same activity unless explicitly directed.
