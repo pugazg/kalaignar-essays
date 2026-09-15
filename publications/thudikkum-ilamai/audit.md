@@ -120,8 +120,31 @@ Source-sensitive advertisement readings include `கைவசமில்லை`
 - guessed readings — **0**;
 - P2 status — **COMPLETE / PASS**.
 
-Next: **P3 article assembly — all four articles in one go**.
+## P4 source / completeness audit
+
+**COMPLETE / PASS**
+
+Authority: `P4_SOURCE_AUDIT.md`.
+
+Publication-level P4 checks closed with:
+
+- physical source records — **33/33**
+- front matter — **4/4**
+- article body — **25/25**
+- advertisements / promotional matter — **4/4**
+- P3 assemblies — **4/4**
+- missing / duplicate scan records — **0 / 0**
+- article coverage defects — **0**
+- advertisement leakage — **0**
+- physical-copy/audit contamination — **0**
+- current canonical price — **`ஆறணா`**
+- current canonical Article-2 title — **`அண்ணாமலைக்கு அரோகரா!`**
+- retired `ஆறணை` / `அண்ணனுக்கு அரசா!` forms — **correction-history only, not current metadata**
+- propagation defects — **0**
+- unresolved blockers — **0**
+
+P4 does not substitute for P5 strict visual reinspection.
 
 ## Next gate
 
-**P4 publication source/completeness audit.**
+**P5 strict visual-text-fidelity pass — scans 1–33.**
