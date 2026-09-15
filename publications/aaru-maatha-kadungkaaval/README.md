@@ -34,7 +34,7 @@ Direct native inspection established:
 
 ## Current state
 
-- Publication 12 — **TAMIL ARCHIVAL COMPLETE / FROZEN — English Article 1 `முரசு` T0–T5 PASS / VERIFIED; Article 2 `களம்` T0/T1 NEXT**
+- Publication 12 — **TAMIL ARCHIVAL COMPLETE / FROZEN — English Articles 1–2 T0–T5 PASS / VERIFIED; Article 3 `சிறை` T0/T1 NEXT**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
@@ -42,7 +42,7 @@ Direct native inspection established:
 - P3 — **COMPLETE / PASS — 3/3 article assemblies: `முரசு`, `களம்`, `சிறை`**
 - P4 — **COMPLETE / PASS — publication source audit / completeness review**
 - P5 — **COMPLETE / PASS — 224/224 — visual-text-fidelity complete**
-- English — **E0 PASS; verified articles 1/3; Article 1 `முரசு` T0–T5 VERIFIED; Article 2 `களம்` T0/T1 next**
+- English — **E0 PASS; verified articles 2/3 (`முரசு`, `களம்`); Article 3 `சிறை` T0/T1 next**
 
 ## Historical Tamil glyph policy
 
@@ -1106,3 +1106,27 @@ Durable source-bearing Article-1 forms include **Mazhavars**, **Daridra Narayana
 ### Exact next activity
 
 **Article 2 — `களம்` — T0 source pin + T1 close draft.**
+
+
+## English Article 2 — `களம்` — T0–T5 closure
+
+- frozen Tamil blob — `60c155dc93a4543e267ccbca5573d6f5b70e5672`
+- T0 — **PASS**
+- T1 — **COMPLETE** — `78cd7094b8b57c00e6528b40c3c3768d7014971f`
+- T2 — **PASS** — 2 fidelity corrections — `3ffc005a7e8653319a86954d42ac6d9f047e4c81`
+- T3 — **PASS** — 0 body corrections
+- T4 — **PASS** — 3 source-term corrections — `d5ac559f9a489a98b305b047ae651d97343e5f37`
+- T5 — **PASS / VERIFIED**
+- verified title — **The Battlefield**
+- verified English blob — **`9d37041cda4a6a8808b8009b7a86ba9e3b533246`**
+- source comments — **41/41 PASS**
+- paragraph-block scan matching — **41/41 PASS**
+- Tamil body leakage — **0**
+- Tamil changes — **0**
+- blockers — **0**
+
+Durable source-bearing Article-2 forms include ***parani***, ***ondavanda pidaris***, ***othiya milars***, ***pokkali***, northern ***moolavar***, ***kudi / uthira-kudi***, **Gundodara**, and **Pidari**.
+
+### Exact next activity
+
+**Article 3 — `சிறை` — T0 source pin + T1 close draft.**
