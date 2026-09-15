@@ -1118,3 +1118,119 @@ As an example—for the moment, let us take Egypt itself! Let us also look at St
 
 If dictatorship means one man plucking every flower in the garden—claiming the right to pluck them—and saying, “I shall crush and throw away the flowers I plucked,” then if the plucked flowers become a well-made garland and adorn the beautiful portrait called the people's forum—
 
+<!-- Tamil source: scan 189 / printed 186 -->
+
+then that must be called a democratic feeling full of good intention, attached to dictatorship.
+
+It is wrong even to compare this word dictatorship with the word robbery! I had to use that example so the explanation would be clear.
+
+It is the people who create democracy. Sometimes they themselves destroy it. This resembles the ignorance of saying, “It is a well we ourselves dug! Let each of us throw in one stone and fill it up.” There is also the wiser course: “It is a well we dug. Each person has the right to draw one pot of water; thinking of throwing stones into it is wrong, and no such right should be allowed,” and then placing an iron net over the well to stop stones. Though that protective net may at times appear like dictatorship, it is of great use in protecting the democratic well. This is the method for protecting democracy that the Dravida Munnetra Kazhagam, which will rule the country democratically in the future, upholds through its General Secretary. The rulers of India too protect the democratic well. Not by putting an iron net over it to stop stones falling in! They have covered it with a great iron sheet—so that no one may draw water from the well, and so that neither sunlight nor air may enter it!
+
+<!-- Tamil source: scan 190 / printed 187 -->
+
+Poor democracy—caught in the hands of these rulers of non-violence, it struggles for breath like a prisoner trapped in the cage of the Ariyalur Sub-Jail!
+
+Our chosen conclusion is that there is nothing wrong in joining together a dictatorship like the iron net that prevents stones from falling in, and a democracy like the well that gives water to those who dug it. Dictatorship that protects democracy is like a fence around a flower garden!
+
+But we must watch with eyes and mind so that the proverb “the fence itself grazes the crop” does not come true.
+
+## Love of Language—or Madness?
+
+The Speaking Assembly prepared itself to discuss new ideas, gain clarification and deliver lectures. After comrades spoke for two or three days on *Kuraloviyam*, I gave the concluding address. When I explained to the comrades the flavour of the *Kamathuppaal* of the Kural, for a few moments they forgot even that they were in prison and sank into the sky-world of the author of the Kural. One comrade, while speaking, mentioned that someone who had come to praise the Kural had said: Vamana measured the world in two steps; Valluvar too measured it in two lines.
+
+<!-- Tamil source: scan 191 / printed 188 -->
+
+I commented on that. Vamana measured the world in two steps and then placed his third foot upon the head of the man Mahabali and pressed him down! But Valluvar did not climb onto the head of man. He laid down justice for man—that was how I explained it.
+
+One day we spoke on the subject “The Chair.” So many lectures like this! Does speech leave us merely because we have gone to prison?
+
+Even on a day when we took rest and said there would be no Speaking Assembly, Comrade Vaithilingam would not leave us alone. He was a young speaker. Even before coming to prison he was accustomed to speaking on platforms. Saying he was polishing his platform speech, he would join Comrade Venu every day in trying to convene the Assembly. Through everyone's enthusiasm, the Assembly became a bell-hall producing benefit. Under the title “Black and Red,” the condition of the Negroes and the Red Indians was explained all the way to the condition of the Dravidians.
+
+Our political opponents accuse us of roaming about possessed by language-madness. One day we discussed how far that was true, under the title “Love of Language—or Madness?” I want to say a little about this and then tell you of a few other novelties that arose in our daily life.
+
+<!-- Tamil source: scan 192 / printed 189 -->
+
+Before examining whether there is love of language—or madness—we must understand the difference between attachment and madness. Madness is the highest state of attachment. That madness does not arise by itself. When danger comes to the object to which one is attached, madness arises toward that object. A mother has boundless attachment to her child. The child suddenly falls ill. Doctors say the child may die. The mother goes mad. Can anyone prevent it? Attachment becomes madness.
+
+Let us look at the condition of a prisoner being led to the gallows inside the prison. Would he have no attachment to life? As he steps toward death, can we imagine that the young breeze of dawn gives him pleasure? They say such prisoners leap about madly—sing—cry out. Here madness does not arise from perversity; it springs from the foundation of attachment.
+
+The mother who sees her little child on a deathbed—the prisoner about to surrender life—when the things to which they are attached are being taken away, they become mad. To a society, language stands higher than a child to a mother—or life to a prisoner. Who is there who does not love that language? When that attachment is cut, what is wrong in those who love it becoming mad?
+
+<!-- Tamil source: scan 193 / printed 190 -->
+
+What is the basis for that madness? Is it not the attempt to cut away the attachment? Who does that work?
+
+We love our language. They cut that love and make us mad. Therefore becoming mad is not our fault—and such madness is not wrong! The Speaking Assembly came to this conclusion. Turning toward the direction where the graves of Thalamuthu and Natarajan, who gave their lives for language, lie, we offered a warrior's salute.
+
+When Latin domination spread across Europe and the mother tongues of other countries were crushed so they could not rise, young French writers became mad for their mother tongue and took a vow: “From now on we shall not write in Latin; we shall write only in our French language.” With pride we remembered those language guardians of the sixteenth century. Having read that history, when we looked at the history of the *Ashadabhuthis* who now forget the mother tongue and wave the ceremonial fan for Hindi, the language of the dominators, we shed tears at how painful it was.
+
+Without our even knowing it, language-madness took hold of us.
+
+“Beat your shoulders and dance saying Tamil! Sing every day only that Tamil shall triumph!”
+
+<!-- Tamil source: scan 194 / printed 191 -->
+
+we thundered.
+
+“See, the pride of Tamil lions has risen—
+see, it seeks the enemy host to tear it apart!”
+
+we raised our voices. That day's Assembly ended.
+
+## A Wonder!
+
+One day a Speaking Assembly was under way in prison. I was sitting in the middle of the Assembly. A nurse dressed in white came there. She said she had worked at a hospital near Kallakkudi and had herself treated everyone injured in the struggle. From her speech I understood that she sympathised with our movement. A fine red complexion. A darting glance. A woman with the power to attract. She asked me myself, “Where is Karunanidhi?” “I am he,” I said. “Oh! With that little budding moustache I did not recognise you at all,” she said. I expected that she would leave. She did not. She remained standing.
+
+A little while later an old man came too. He was her father, it seemed. “Father! This is Karunanidhi,” she introduced me to him. Do you know why the two of them had come there? That “nurse” apparently wanted to marry me.
+
+Suddenly she looked at me and said, “I love you!” I was startled.
+
+<!-- Tamil source: scan 195 / printed 192 -->
+
+The Speaking Assembly burst into roaring laughter. Only then did shyness come to the nurse. Taking her father with her, she left. I sat there with my head bowed in embarrassment, unable to raise it. Was that the end? A quarrel between a Tamil woman and Comrade Sakthi! The Tamil woman had told her husband about Sakthi's mischief. She was somewhat young. Sakthi too was an unmarried boy! Something had gone wrong! That wicked Tamil woman turned it into a matter of laughter before the Speaking Assembly. Comrade Ramasubbiah, it seems, had taken buttermilk from her on credit and cheated her. Where would he get money in prison? She turned even that into a major charge and gave a thorough beating to the reputation for honesty of that Karaikudi man.
+
+Why are you putting your finger to your nose! You are wondering how women came into the prison, are you not?
+
+Would even the Fancy Dress competition held in the Speaking Assembly have any flavour if women did not come? Was it only women who came? Even a *kudukuduppaikkaran* came.
+
+“Kudu kudu kudu kudu! Good times are being born—good times are being born for Dravida Nadu! In that corner one fellow is going ‘ayyo’—the traitor is going to disappear—I said it in the morning too—I said it in the morning too—the fellow who lives by scraping others
+
+<!-- Tamil source: scan 196 / printed 193 -->
+
+will go off in a snap—kudu kudu kudu kudu! If there is an old cloth, give it—kudu kudu kudu!”
+
+A Narikuravan and Kurathi appeared too, singing “Aayaalakkuri—aayaalakkuri”! A pot-bellied Iyer and a poverty-stricken *kechavaali* came! Young men came transformed as old men. Men came transformed into women—even as beauties!
+
+No one gave us some vast ground in the prison and permission to conduct a fancy-dress festival there. On a workless Sunday, through the comrades' own effort, they appeared in many costumes, sang and entertained us. Flowers blooming in the prison—clothes such as the green towel I wore over my shoulders—hair cut off during haircuts—charcoal from the stove: with these materials they made ornaments, costumes, moustaches and beards, and conducted the competition with a magnificent success beyond anyone's expectation. It reminded us only of the saying, “Even grass is a weapon in the hands of the capable.” When grass itself is a weapon for incapable Aryanism, what wonder that it should be so for those with ability!
+
+Mannargudi Narayanasamy, Kattuputhur Rajamanickam, Peravurani Vadivel, Vaitheeswarankoil Murugaiyan and K. R. Kalmani served as judges and gave the verdict.
+
+<!-- Tamil source: scan 197 / printed 194 -->
+
+Tiruchi T. A. Kamalan won first prize; G. Narayanasamy of Koranattukkaruppur second prize; Kadalvannan of Kambanatham third prize; and Periyasamy the fourth special prize. It was announced that they would be awarded the “Kallakkudi Medal,” that Comrade Kasthuri would conduct the prize-giving function at Manapparai, and that, if desired, the ceremony would be held there.
+
+Another Sunday—recitation competition. It was first held with Sakthi, Tiruvaiyaru Mani, Kittappa, Tiruvarur Vijayaraghavan and Karur Murugesanur as judges. Bharathidasan's poems, the prose of Thiru. Vi. Ka., Anna's golden sayings, dialogues from our films, verses from Purananuru, and lines from plays such as *Porvaal* were recited by many comrades.
+
+Periyasamy won first prize, Adaikkalam second, S. M. Vaithilingam third, and G. Narayanasamy the fourth special prize. Comrade Venugopal obtained permission to hold that prize-giving function at Jayankonda Cholapuram.
+
+One day a music competition too took place. Comrades Ullikkottai Singaravel, Tiruvarur Thennan and Karur Narayanan sat as judges.
+
+<!-- Tamil source: scan 198 / printed 195 -->
+
+Mayavaram Sebastian won first prize, Abivirutheeswaram Natarasan second, artist Karuna third, and Appasamy of Sakkarasamam the fourth special prize.
+
+Comrade Narayanasamy asked to conduct their prize-giving function at Mannargudi. The Assembly agreed.
+
+Finally, one Sunday, a competition was arranged to measure the harvest of the Speaking Assembly. That was the oratorical competition.
+
+Tiruvaiyaru R. S. Mani, pouring out beautiful ideas in abundance, won first prize. Tiruvidaimarudur T. A. Ramasamy, with a proud flow of words, carried away second prize.
+
+Ullikkottai Singaravel became worthy of third prize by expressing his chosen subject with beauty overflowing. Peravurani Vadivel, speaking with humour overflowing, accepted the fourth special prize.
+
+For that competition, I and four comrades—Ramasubbiah, Adaikkalam, Nagai Pappaiyan and B. Swaminathan—sat as judges and gave our verdict. Comrade Kittappa asked to conduct the prize-giving function at Mayavaram and received the Assembly's consent.
+
+“The grove where the mango-cuckoo sings—the prison
+that seeks to cage us,”
+
+we sang the poet's song aloud. We sang with enthusiasm overflowing!
+
