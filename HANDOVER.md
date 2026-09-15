@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P2R Batch R29 / full visual-fidelity re-audit scans 141–145**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **145/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **P2R Batch R30 / full visual-fidelity re-audit scans 146–150**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **150/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -60,7 +60,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 145/224 scans complete; next 146–150**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 150/224 scans complete; next 151–155**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1816,11 +1816,25 @@ Batch R01 scans **1–5** is complete.
 - P2R progress — **145/224**.
 
 
+### Batch R30 — scans 146–150
+
+- **5/5 re-audited / PASS**
+- scans 146–150 — no canonical source-text correction required.
+- scan 145 → 146 and scan 149 → 150 physical continuations were explicitly reconfirmed.
+- scan 146 quoted `கடிகாரம்` / `கெடிகாரம்` distinction, scan 147 historical `ளை` in `தலைவர்களை`, scan 148 unusual lexical forms, and scan 149 rhetorical sequence were checked word by word.
+- scan 150 dark blot remains non-text; complete ending `ஆலை போன்ற நமது நாடு!` was reconfirmed. Scan 151 was not opened in R30.
+- ordinary source-fidelity corrections — **0**.
+- new historical-family correction events — **0**; cumulative count remains **17**.
+- P2 totals remain **222 verified / 2 needs-review**.
+- guessed readings remain **0**.
+- P2R progress — **150/224**.
+
+
 ## Exact next activity
 
-**P2R Batch R30 — physical scans 146–150.**
+**P2R Batch R31 — physical scans 151–155.**
 
-Process exactly five physical scans with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Stop after scan 150; do not process scan 151.
+Process exactly five physical scans with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. For scans 151–155 use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract page N = original physical scan N+149, so scans 151–155 map to extract pages 2–6. Stop after scan 155; do not process scan 156.
 
 Existing source-obscured holds remain scans 18 and 198.
 

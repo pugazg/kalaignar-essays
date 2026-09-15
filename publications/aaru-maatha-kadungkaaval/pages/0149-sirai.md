@@ -49,6 +49,19 @@ transcription_method: "direct visual comparison with source scan"
 - no global replacement or lexical normalization was applied.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R30
+
+- every printed word, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal physical fragment was rechecked directly from the attached source pixels.
+- source-visible forms including `நாளிலேதான்`, `சரி- ஒத்துக்கொள்வோம்!`, `‘நான்சென்ஸ்’`, `திட்டத்தைக்கொண்டு`, `நாட்டெங்கும்`, and `அதுகண்ட` were reconfirmed without punctuation or spacing normalization.
+- the rhetorical series of `தூண்டிவிட்டது யார்?` questions was checked line by line.
+- exact terminal physical fragment `புறப்படு` was preserved; scan 150 begins `கிறார்கள்.`, directly establishing `புறப்படுகிறார்கள்.`.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `ஆலை` (`லை`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **17**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 149 was fully compared with source pixels.

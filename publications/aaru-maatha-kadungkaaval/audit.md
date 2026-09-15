@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 145/224 scans complete; next 146–150** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 150/224 scans complete; next 151–155** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1804,8 +1804,23 @@ Historical-family verification added **0 new correction events**; cumulative cou
 P2R progress — **145/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **146–150**.
 
 
+### Batch R30 — scans 146–150
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 146 | PASS | scan-145 continuation / `கடிகாரம்` vs `கெடிகாரம்` / names / complete ending confirmed |
+| 147 | PASS | complete text / statistics / historical `ளை` in `தலைவர்களை` / ending confirmed |
+| 148 | PASS | argumentative text / quoted sentence / unusual source forms / ending confirmed |
+| 149 | PASS | rhetorical sequence / source punctuation / terminal `புறப்படு` confirmed |
+| 150 | PASS | scan-149 continuation / dark blot excluded as non-text / complete ending confirmed; scan 151 not opened in R30 |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **17**. Ordinary source-fidelity corrections — **0**.
+
+P2R progress — **150/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **151–155**.
+
+
 ## Exact next activity
 
-**P2R Batch R30 — scans 146–150.**
+**P2R Batch R31 — scans 151–155.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Stop after scan 150; do not process scan 151.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Use derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`, extract pages 2–6 = original scans 151–155. Stop after scan 155; do not process scan 156.

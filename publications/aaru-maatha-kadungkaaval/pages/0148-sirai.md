@@ -44,6 +44,18 @@ transcription_method: "direct visual comparison with source scan"
 - source-visible unusual lexical forms were not regularized from context.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R30
+
+- every printed word, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- source-visible forms including `குறிக்கோளாகவைக்கக்கூடாது`, `கூறச்சொல்லலாம்`, `நடைபெறுவதுதான்`, `ஒருபுறமிருந்தாலும்`, `எண்ணமுங்கூட`, `ஐவர் வழக்கினில்`, and `அம்படிப்பட்ட` were reconfirmed without contextual correction.
+- the quoted `“சரி இனி மக்கள் மன்றம் தீர்ப்பு வழங்கட்டும்”` sequence and the closing three-month sentence were retained exactly.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `தண்டனை` (`ணை`) and `கிளர்ச்சிகளைத்` (`ளை`) were reconfirmed, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **17**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 148 was fully compared with source pixels.

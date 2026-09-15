@@ -38,6 +38,19 @@ transcription_method: "direct visual comparison with source scan"
 - older typeforms in names and compounds were decoded by character identity, not lexical expectation.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R30
+
+- every printed word, numeral, Latin initial, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- scan 145 terminal `தன்னிட` → this page’s opening `முள்ள கெடிகாரத்திற்கு...` continuation was reconfirmed as `தன்னிடமுள்ள கெடிகாரத்திற்கு...` without rewriting either physical page record.
+- the source distinction between quoted `“கடிகாரம் போவது”` and later `“கெடிகாரம் போவது”` was reconfirmed exactly.
+- source-visible names / compounds including `போர்ப்பலகண்ட`, `வன்னெஞ்சர்`, `சமருக்கஞ்சா`, `இன்மொழிபேசும்`, `செருமுனைக் கோர்`, and `செயசந்திரன்` were preserved without normalization.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `அண்ணாமலை` (`ணா / லை`) and `வடாற்காடு` (`றா`) were reconfirmed, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **17**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 146 was fully compared with source pixels.

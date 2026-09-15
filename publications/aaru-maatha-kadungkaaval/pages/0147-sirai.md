@@ -43,6 +43,18 @@ transcription_method: "direct visual comparison with source scan"
 - `தலைவர்களை` was positively resolved as historical `ளை` identity.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R30
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- source-visible forms including `நடைபெற்றுவந்தது`, `நடைபெறுவதுங்கூட`, `முழுவிபரங்கள்`, `மாற்றுக்கட்சிகளும்`, `லட்சத்துக்குமேற்பட்ட`, `தி. மு. க. வின்`, and `இவ்விது` were reconfirmed without contextual regularization.
+- the statistical / organizational paragraph and final `நீதி மன்றத்திலே...` sentence were checked word by word.
+- age spots / paper toning remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; historical `ளை` identity in `தலைவர்களை` was positively reconfirmed, along with the full 13-family set.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **17**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 147 was fully compared with source pixels.

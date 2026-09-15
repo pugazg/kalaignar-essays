@@ -44,6 +44,19 @@ transcription_method: "direct visual comparison with source scan"
 - historical glyph identity was separated from the dark physical-copy/printing blemish near `நெருப்பு அணைகிறது`.
 - unresolved historical-glyph ambiguity — **0**; cumulative historical-glyph correction count unchanged.
 
+## P2R visual-fidelity re-audit — Batch R30
+
+- every printed word, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from the attached source pixels.
+- scan 149 terminal `புறப்படு` → this page’s opening `கிறார்கள்.` continuation was reconfirmed as `புறப்படுகிறார்கள்.`.
+- source-visible forms including `காட்டிக்கிறார்கள்`, `கரைத்துவிட்டார்கள்-`, `ஏகாதிபத்யம்`, `பேச்சு-புதுக்`, `செளகர்யம்`, `போட்டுத் தண்டித்தது`, and `ஸ்தானத்திலேயிருக்கும்` were reconfirmed without normalization.
+- the dark blot between `அணைக்கிறார்கள்.` and `நெருப்பு அணைகிறது.` was rechecked as non-legible physical / printing blemish and was not promoted into publication text.
+- page ends with complete `ஆலை போன்ற நமது நாடு!`; **scan 151 was not opened or processed in Batch R30**. The older P2 layout note mentioning prior access to scan 151 remains historical P2 provenance only.
+- mandatory historical-family verification was repeated; `மூட்டைகளையெல்லாம்` (`ளை`), `ஆலை` (`லை`), and `அணைக்கிறார்கள்` (`ணை`) were reconfirmed, with the full 13-family set checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **17**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 150 was fully compared with source pixels.

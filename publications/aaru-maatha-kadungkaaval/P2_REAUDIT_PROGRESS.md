@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **145/224**
-- completed range — **1–145**
-- next range — **146–150**
+- re-audited — **150/224**
+- completed range — **1–150**
+- next range — **151–155**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **17**
@@ -689,8 +689,33 @@ Ordinary source-fidelity corrections in Batch R29 — **2**.
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
 
+## Batch R30 — scans 146–150
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 146 | body / folio 143 | PASS | scan-145 continuation / quoted `கடிகாரம்` vs `கெடிகாரம்` distinction / full names and ending confirmed; no canonical correction |
+| 147 | body / folio 144 | PASS | statistical / organizational paragraph / historical `ளை` in `தலைவர்களை` / complete ending confirmed; no canonical correction |
+| 148 | body / folio 145 | PASS | full argumentative text / quoted sentence / unusual source forms / complete ending confirmed; no canonical correction |
+| 149 | body / folio 146 | PASS | rhetorical question series / source punctuation / terminal `புறப்படு` confirmed; no canonical correction |
+| 150 | body / folio 147 | PASS | scan-149 continuation / dark blot excluded as non-text / complete ending confirmed; scan 151 not opened in R30 |
+
+Historical-family findings:
+
+- scan 146 — `அண்ணாமலை` (`ணா / லை`), `வடாற்காடு` (`றா`);
+- scan 147 — historical `ளை` in `தலைவர்களை` reconfirmed;
+- scan 148 — `தண்டனை` (`ணை`), `கிளர்ச்சிகளைத்` (`ளை`);
+- scan 149 — `ஆலை` (`லை`);
+- scan 150 — `மூட்டைகளையெல்லாம்` (`ளை`), `ஆலை` (`லை`), `அணைக்கிறார்கள்` (`ணை`);
+- all 13 tracked families were explicitly checked on every scan by character identity;
+- new historical-family correction events — **0**; cumulative count remains **17**.
+
+Ordinary source-fidelity corrections in Batch R30 — **0**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
+
 ## Exact next activity
 
-**Batch R30 — physical scans 146–150.**
+**Batch R31 — physical scans 151–155.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **150**; do not process scan 151.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Stop after scan **155**; do not process scan 156.
