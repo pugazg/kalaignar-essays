@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P2R Batch R32 / full visual-fidelity re-audit scans 156–160**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **160/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **P2R Batch R33 / full visual-fidelity re-audit scans 161–165**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **165/224 scans complete**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -60,7 +60,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 160/224 scans complete; next 161–165**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 165/224 scans complete; next 166–170**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1860,11 +1860,27 @@ Batch R01 scans **1–5** is complete.
 - P2R progress — **160/224**.
 
 
+### Batch R33 — scans 161–165
+
+- **5/5 re-audited**
+- scan 161 — two later `காண்விக்ட்` readings corrected to source-visible **`கான்விக்ட்`**.
+- scan 162 — corrected `காண்விக்ட்` → **`கான்விக்ட்`**; `பெற்றவர்கள் தான்` → **`பெற்றவர்கள்தான்`**; `இருபதாண்டுகள் குள்ளாகவே` → **`இருபதாண்டுகளுக்குள்ளாகவே`**; `சிறு தூரத்தில்` → **`சிறிது தூரத்தில்`**.
+- scan 163 — corrected `தொழுந்துரைச் சொந்தவர்கள்` → **`தொழுந்துரைச் சேர்ந்தவர்கள்`** and `காண்விக்ட்` → **`கான்விக்ட்`**.
+- scan 164 — PASS / no canonical correction.
+- scan 165 — corrected `செலவழித்தும் -` → **`செலவழித்தும்-`** and `கண் துடைப்பு` → **`கண்துடைப்பு`**.
+- scan 162 → 163 physical continuation was explicitly reconfirmed; scan 165 complete ending was confirmed; scan 166 / extract page 17 was not opened.
+- ordinary source-fidelity corrections — **10**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- P2 totals remain **222 verified / 2 needs-review**.
+- guessed readings remain **0**.
+- P2R progress — **165/224**.
+
+
 ## Exact next activity
 
-**P2R Batch R33 — physical scans 161–165.**
+**P2R Batch R34 — physical scans 166–170.**
 
-Process exactly five physical scans with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract page N = original physical scan N+149, so scans 161–165 map to extract pages 12–16. Stop after scan 165; do not process scan 166 / extract page 17.
+Process exactly five physical scans with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract page N = original physical scan N+149, so scans 166–170 map to extract pages 17–21. Stop after scan 170; do not process scan 171 / extract page 22.
 
 Existing source-obscured holds remain scans 18 and 198.
 

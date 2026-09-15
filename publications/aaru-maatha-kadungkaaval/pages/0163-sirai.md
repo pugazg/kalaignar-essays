@@ -13,9 +13,9 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 
 # அச்சு உரை
 
-யிருக்குமென்பதை நீங்களே யோசித்துக் கொள்ளுங்கள். அக்டோபர் மாதம் 15ந் தேதி சூரியனைக் காணுமுன்னே அவன் தூக்குக் கயிறை முத்தமிட்டுவிட்டான். ஒருநாளில் ஐந்துபேர் தூக்கிவிடப்பட்டார்கள். தொழுந்துரைச் சொந்தவர்கள் அவர்கள்.
+யிருக்குமென்பதை நீங்களே யோசித்துக் கொள்ளுங்கள். அக்டோபர் மாதம் 15ந் தேதி சூரியனைக் காணுமுன்னே அவன் தூக்குக் கயிறை முத்தமிட்டுவிட்டான். ஒருநாளில் ஐந்துபேர் தூக்கிவிடப்பட்டார்கள். தொழுந்துரைச் சேர்ந்தவர்கள் அவர்கள்.
 
-கொலைக்குற்றத்தில் ஈடுபட்டு ஆயுள் தண்டனை பெற்ற காண்விக்ட் வார்டர்கள் சிறைச்சாலைக்குள்ளே மற்றவர்களோடு மிகவும் நன்றாகப் பழகுகிறார்கள். திருந்தி நடக்கவேண்டும் என்ற ஆசையோடு காலத்தைக் கழிக்கிறார்கள்.
+கொலைக்குற்றத்தில் ஈடுபட்டு ஆயுள் தண்டனை பெற்ற கான்விக்ட் வார்டர்கள் சிறைச்சாலைக்குள்ளே மற்றவர்களோடு மிகவும் நன்றாகப் பழகுகிறார்கள். திருந்தி நடக்கவேண்டும் என்ற ஆசையோடு காலத்தைக் கழிக்கிறார்கள்.
 
 குடிவெறியில் கொலைசெய்தவர்கள் - கற்பு தவறிய மனைவியைக் கொலை செய்தவர்கள்-பங்காளிகளைக் கொலை செய்தவர்கள் - நிலத் தகராறுகளால் கொலைச் செயலில் ஈடுபட்டவர்கள் - எதிரிகள் கொடுத்த தொல்லையால் கொலை வெறிக்குத் தூண்டிவிடப்பட்டவர்கள் - ஆகியவர்கள்தான் அதிகமாகக் காணமுடிகிறது சிறைச்சாலைகளில்!
 
@@ -29,7 +29,7 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - running header — `கருணாநிதி`.
 - extract page **14** = physical scan **163**.
 - opening `யிருக்குமென்பதை...` directly continues scan 162's terminal `அவன் நிலைமை எப்படி`.
-- source-visible forms including `15ந் தேதி`, `காணுமுன்னே`, `ஐந்துபேர்`, `தொழுந்துரைச்`, `கொலைசெய்தவர்கள்`, `சிறைச்சாலைக்குள்ளே`, and `சக்கை மனிதனாக` were preserved without normalization.
+- source-visible forms including `15ந் தேதி`, `காணுமுன்னே`, `ஐந்துபேர்`, `தொழுந்துரைச் சேர்ந்தவர்கள்`, `கான்விக்ட் வார்டர்கள்`, `கொலைசெய்தவர்கள்`, `சிறைச்சாலைக்குள்ளே`, and `சக்கை மனிதனாக` were preserved without normalization.
 - page ends with complete `மரண தண்டனை எவ்வளவோ மேல்தான்!`.
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -45,6 +45,20 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
+
+## P2R visual-fidelity re-audit — Batch R33
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **14** / original physical scan **163**.
+- scan 162 terminal `அவன் நிலைமை எப்படி` → this page’s opening `யிருக்குமென்பதை...` continuation was reconfirmed.
+- direct lexical correction: `தொழுந்துரைச் சொந்தவர்கள் அவர்கள்.` → **`தொழுந்துரைச் சேர்ந்தவர்கள் அவர்கள்.`**.
+- direct source-character correction: `காண்விக்ட் வார்டர்கள்` → **`கான்விக்ட் வார்டர்கள்`**.
+- source-visible forms including `15ந் தேதி`, `காணுமுன்னே`, `ஐந்துபேர்`, `கொலைசெய்தவர்கள்`, `சிறைச்சாலைக்குள்ளே`, `சக்கை மனிதனாக`, and complete ending `மரண தண்டனை எவ்வளவோ மேல்தான்!` were otherwise reconfirmed.
+- paper toning / isolated dark dots remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `நன்றாகப்` (`றா`), `நிலை` (`லை`), `இளைஞனாக` (`ளை`) and the full 13-family set were checked by character identity.
+- ordinary source-fidelity corrections on this scan — **2**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS after source-fidelity corrections**.
+
 
 ## P2 நிலை
 

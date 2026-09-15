@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 160/224 scans complete; next 161–165** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 165/224 scans complete; next 166–170** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1849,8 +1849,23 @@ Historical-family verification added **0 new correction events**; cumulative cou
 P2R progress — **160/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **161–165**.
 
 
+### Batch R33 — scans 161–165
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 161 | PASS after corrections | two later `காண்விக்ட்` readings → source-visible `கான்விக்ட்`; rest of page / Roman parenthetical confirmed |
+| 162 | PASS after corrections | `காண்விக்ட்` → `கான்விக்ட்`; `பெற்றவர்கள் தான்` → `பெற்றவர்கள்தான்`; `இருபதாண்டுகள் குள்ளாகவே` → `இருபதாண்டுகளுக்குள்ளாகவே`; `சிறு தூரத்தில்` → `சிறிது தூரத்தில்` |
+| 163 | PASS after corrections | scan-162 continuation; `சொந்தவர்கள்` → `சேர்ந்தவர்கள்`; `காண்விக்ட்` → `கான்விக்ட்`; complete ending confirmed |
+| 164 | PASS | complete text / quotations / unusual source forms / ending confirmed |
+| 165 | PASS after corrections | `செலவழித்தும் -` → `செலவழித்தும்-`; `கண் துடைப்பு` → `கண்துடைப்பு`; ending confirmed; scan 166 not opened |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **19**. The `காண்விக்ட்` → `கான்விக்ட்` repairs are ordinary source-character corrections, not tracked reform-family events. Ordinary source-fidelity corrections — **10**.
+
+P2R progress — **165/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **166–170**.
+
+
 ## Exact next activity
 
-**P2R Batch R33 — scans 161–165.**
+**P2R Batch R34 — scans 166–170.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Use derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`, extract pages 12–16 = original scans 161–165. Stop after scan 165; do not process scan 166 / extract page 17.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Use derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`, extract pages 17–21 = original scans 166–170. Stop after scan 170; do not process scan 171 / extract page 22.

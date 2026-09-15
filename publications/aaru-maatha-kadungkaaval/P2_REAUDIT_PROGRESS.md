@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **160/224**
-- completed range — **1–160**
-- next range — **161–165**
+- re-audited — **165/224**
+- completed range — **1–165**
+- next range — **166–170**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **19**
@@ -764,8 +764,34 @@ Ordinary source-fidelity corrections in Batch R32 — **2**.
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
 
+## Batch R33 — scans 161–165
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 161 | body / folio 158 | PASS after corrections | two later `காண்விக்ட்` readings → source-visible `கான்விக்ட்`; full page / Roman parenthetical confirmed |
+| 162 | body / folio 159 | PASS after corrections | `காண்விக்ட்` → `கான்விக்ட்`; `பெற்றவர்கள் தான்` → `பெற்றவர்கள்தான்`; `இருபதாண்டுகள் குள்ளாகவே` → `இருபதாண்டுகளுக்குள்ளாகவே`; `சிறு தூரத்தில்` → `சிறிது தூரத்தில்` |
+| 163 | body / folio 160 | PASS after corrections | scan-162 continuation; `தொழுந்துரைச் சொந்தவர்கள்` → `தொழுந்துரைச் சேர்ந்தவர்கள்`; `காண்விக்ட்` → `கான்விக்ட்` |
+| 164 | body / folio 161 | PASS | full text / quotations / unusual source forms / complete ending confirmed; no canonical correction |
+| 165 | body / folio 162 | PASS after corrections | `செலவழித்தும் -` → `செலவழித்தும்-`; `கண் துடைப்பு` → `கண்துடைப்பு`; complete ending confirmed; scan 166 not opened |
+
+Historical-family findings:
+
+- scan 161 — `காணிக்கை`, `வெள்ளை`, `வேலை`, `காலுறையும்`, `மதிற்`;
+- scan 162 — `அண்ணாவும்` (`ணா`), `நிலைமை` (`லை`);
+- scan 163 — `நன்றாகப்` (`றா`), `நிலை` (`லை`), `இளைஞனாக` (`ளை`);
+- scan 164 — `நிலையையும்` (`லை`) and full-family check;
+- scan 165 — `நிலைமை` (`லை`) and full-family check;
+- all 13 tracked families were explicitly checked on every scan by character identity;
+- the `காண்விக்ட்` → `கான்விக்ட்` repairs are ordinary source-character corrections (`ண்` → source `ன்`), not one of the 13 tracked reform-sensitive family events;
+- new historical-family correction events — **0**; cumulative count remains **19**.
+
+Ordinary source-fidelity corrections in Batch R33 — **10**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
+
 ## Exact next activity
 
-**Batch R33 — physical scans 161–165.**
+**Batch R34 — physical scans 166–170.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Use derivative extract pages **12–16** for original scans **161–165**. Stop after scan **165**; do not process scan 166 / extract page 17.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Use derivative extract pages **17–21** for original scans **166–170**. Stop after scan **170**; do not process scan 171 / extract page 22.

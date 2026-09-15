@@ -38,7 +38,7 @@ Direct native inspection established:
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 160/224 scans; next 161–165**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 165/224 scans; next 166–170**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -847,8 +847,24 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - P2R progress — **160/224**
 
 
+### Batch R33 — scans 161–165
+
+- scans 161–165 — **5/5 re-audited**
+- scan 161 — two `காண்விக்ட்` → **`கான்விக்ட்`** corrections
+- scan 162 — four corrections: `காண்விக்ட்` → **`கான்விக்ட்`**; `பெற்றவர்கள் தான்` → **`பெற்றவர்கள்தான்`**; `இருபதாண்டுகள் குள்ளாகவே` → **`இருபதாண்டுகளுக்குள்ளாகவே`**; `சிறு தூரத்தில்` → **`சிறிது தூரத்தில்`**
+- scan 163 — `சொந்தவர்கள்` → **`சேர்ந்தவர்கள்`**; `காண்விக்ட்` → **`கான்விக்ட்`**
+- scan 164 — PASS / no canonical correction
+- scan 165 — `செலவழித்தும் -` → **`செலவழித்தும்-`**; `கண் துடைப்பு` → **`கண்துடைப்பு`**
+- ordinary source-fidelity corrections — **10**
+- new historical-glyph correction events — **0**
+- cumulative historical-glyph correction-event count — **19**
+- P2 totals remain **222 verified / 2 needs-review**
+- guessed readings remain **0**
+- P2R progress — **165/224**
+
+
 ## Exact next activity
 
-**P2R Batch R33 — scans 161–165.**
+**P2R Batch R34 — scans 166–170.**
 
-Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract pages **12–16** map to original scans **161–165**. Stop after scan 165; do not process scan 166 / extract page 17.
+Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract pages **17–21** map to original scans **166–170**. Stop after scan 170; do not process scan 171 / extract page 22.

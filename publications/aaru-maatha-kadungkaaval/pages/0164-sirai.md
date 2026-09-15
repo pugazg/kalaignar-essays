@@ -40,6 +40,18 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R33
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **15** / original physical scan **164**.
+- source-visible forms including `வந்தபிற்கு`, `பாடுபட்டார்களேயானால்-`, `போனவனுக்கும்`, `ஒரு வாறு`, `பிக் பாக்கெட்`, `என்பதைக் குறைக்காமல்`, `போக்கு வரத்துக்`, `நூற்றிஐம்பது`, and `பட்டவர்த்தனமாகத்` were reconfirmed without normalization.
+- source quotation around `“என்னிடம் யாரும் வாலாட்டக் கூடாது...` and single quotes around `‘மதுவிலக்கு’` were retained exactly.
+- paper toning / scattered age specks remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `கொலைவெறியைத்`, `நிலையையும்` (`லை`), `கைதிகளில்`, `நாளைக்கு` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 164 placeholder was replaced only after full direct source-pixel transcription and audit.
