@@ -34,7 +34,7 @@ Direct native inspection established:
 
 ## Current state
 
-- Publication 12 — **TAMIL ARCHIVAL COMPLETE / FROZEN — English E0 COMPLETE / PASS; Article 1 T0/T1 NEXT**
+- Publication 12 — **TAMIL ARCHIVAL COMPLETE / FROZEN — English Article 1 `முரசு` T0 PASS / T1 COMPLETE; T2 NEXT**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
@@ -42,7 +42,7 @@ Direct native inspection established:
 - P3 — **COMPLETE / PASS — 3/3 article assemblies: `முரசு`, `களம்`, `சிறை`**
 - P4 — **COMPLETE / PASS — publication source audit / completeness review**
 - P5 — **COMPLETE / PASS — 224/224 — visual-text-fidelity complete**
-- English — **E0 COMPLETE / PASS — 0/3 article drafts; Article 1 `முரசு` T0/T1 next**
+- English — **E0 COMPLETE / PASS; T0 1/3 PASS; T1 1/3 COMPLETE; 1/3 draft; Article 1 `முரசு` T2 next**
 
 ## Historical Tamil glyph policy
 
@@ -1041,6 +1041,29 @@ Translation order: **1 → 2 → 3**.
 
 ### Exact next activity
 
-**Article 1 — `முரசு` — T0 + T1.**
+**Article 1 — `முரசு` — T2 bilingual fidelity review.**
 
 Re-fetch and pin the frozen Tamil blob, establish the working English title, create `translations/en/01-murasu.md`, preserve every source-page comment, and translate the entire article paragraph by paragraph. Do not alter the frozen Tamil layer.
+
+
+## English Article 1 — `முரசு` — T0/T1 checkpoint
+
+- T0 — **PASS**
+- frozen Tamil authority — `articles/01-murasu.md`
+- frozen Tamil blob — **`7a41617cd48f8507bc12074fb48d6016fae5cead`**
+- source span — **scans 10–65**
+- T1 — **COMPLETE / draft**
+- English file — `translations/en/01-murasu.md`
+- T1 English blob — **`a94630638fa194290e0761259131cc4548d429e4`**
+- working English title — **The Drum** — provisional until T4
+- ordered source-page comments — **56/56 PASS**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes during T0/T1 — **0**
+- blockers — **0**
+- T2/T3/T4/T5 — **NOT STARTED**
+
+### Exact next activity
+
+**Article 1 — `முரசு` — T2 bilingual fidelity review.**
+
+Re-fetch the frozen Tamil blob and T1 English blob, compare the complete article paragraph by paragraph and clause by clause, record every correction in `translations/en/TRANSLATION_REVIEW.md`, and update the living lexicon where T2 settles or reopens a material terminology choice. Do not begin T3 unless separately directed.
