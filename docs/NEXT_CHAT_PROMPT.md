@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — துடிக்கும் இளமை / P2 Batch 002 scans 6–10
+# NEXT CHAT PROMPT — துடிக்கும் இளமை / P3 article assembly
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -31,113 +31,95 @@ Source identity:
 - physical scans — **33**
 - bytes — **50,703,452**
 - SHA-256 — **`309042a481db1d198d331b1c16f11ea7acce5ad0cc4ab78ee53c2a702e0ecb11`**
-- PDF version — **1.4**
-- usable parsed text layer — **none**
 - source authority — **rendered scan pixels**
 - source PDF committed — **No**
 
-Printed identity after direct P2 correction:
+Printed identity:
 
 - author — **`மு. கருணாநிதி`**
 - publisher — **`K. R. நாராயணன்`**
 - address — **`வி. ஆர். பிள்ளைத் தெரு, சென்னை-5`**
-- price — **`ஆறணை`**
+- price — **`ஆறணா`** — user-confirmed; do not regress to `ஆறணை`
 - edition — **`முதற் பதிப்பு`**
 - edition date — **`16—12—'51`**
 - printer — **`ஸ்ரீ மகள் அச்சகம், சென்னை-1`**
 
-## Structure
-
-- scans **1–4** — cover / title / imprint / publisher note
-- scans **5–12** — Article 1 `துடிக்கும் இளமை`
-- scans **13–19** — Article 2 `அண்ணனுக்கு அரசா!`
-- scans **20–24** — Article 3 `பூம்புகார்`
-- scans **25–29** — Article 4 `வெற்றி விளக்கு!`
-- scans **30–33** — advertisements / promotional matter
-- separate printed contents page — **none**
-
 ## Durable P2 state
 
-P2 Batch 001 scans **1–5** is **COMPLETE / PASS**.
+**P2 COMPLETE / PASS — 33/33 physical scans VERIFIED**
 
-- verified — **5/33**
+- front matter — **4/4**
+- article body — **25/25**
+- advertisements / promotional matter — **4/4**
 - needs-review — **0**
 - blocked — **0**
-- guessed — **0**
-- historical-glyph unresolved — **0**
-
-Canonical records:
-
-- `pages/0001-front-cover.md`
-- `pages/0002-title-page.md`
-- `pages/0003-imprint.md`
-- `pages/0004-pathippurai.md`
-- `pages/0005-thudikkum-ilamai-1.md`
-
-Important Batch-001 source corrections:
-
-- scan 2 `ஆறணா` → **`ஆறணை`**
-- scan 3 `16-12-'51` → **`16—12—'51`**
-- scan 4 source publisher-note phrase — **`எழுச்சியூட்டும் எழுத்தோவியங்களே`**
-- scan 5 baseline `துடிப்பு (எல் லைக் கோட்டைத்` → source **`துடிப்பு எல்லைக் கோட்டைத்`**
-- scan 5 ends at physical source fragment **`பிம்பங்`**
+- guessed readings — **0**
+- unresolved historical-glyph / printed-text readings — **0**
 
 Progress authority:
 
 `publications/thudikkum-ilamai/P2_PROGRESS.md`
 
-## User-supplied transcription baseline
+## Verified article inventory
 
-The user supplied a full transcription.
+1. **`துடிக்கும் இளமை`** — scans **5–12** — 8 scans
+2. **`அண்ணாமலைக்கு அரோகரா!`** — scans **13–19** — 7 scans
+3. **`பூம்புகார்`** — scans **20–24** — 5 scans
+4. **`வெற்றி விளக்கு!`** — scans **25–29** — 5 scans
 
-Use it as an **alignment / comparison aid only**.
+Important structural correction:
 
-It is **not source authority**. Whenever it disagrees with the rendered scan pixels, correct the canonical text to the scan and record the difference.
+- old P1/intake `அண்ணனுக்கு அரசா!` — **WRONG / RETIRED**
+- source scan 13 — **`அண்ணாமலைக்கு அரோகரா!`**
 
-Do not import later-page continuation into an earlier page record merely because the baseline presents continuous prose.
+## P2 terminal publication matter
 
-## Historical Tamil rule
+- scan 30 — `‘கலையக’த்தின் அரிய நூல்களில் சில!`
+- scan 31 — `‘கலையக’த்தின் 27-வது வெளியீடு!` / `வானம்பாடி`
+- scan 32 — `புதுமை பிரசுரங்கள்!`
+- scan 33 — terminal advertisement `“கலையக”த்தின் 25வது வெளியீடு!` / `எழிலரசி கிளியோபாட்ரா`
 
-This 1951 source uses historical Tamil type.
+These are **not article body** and must not be assembled into the four P3 articles.
 
-Mandatory per body scan:
+## Exact activity — P3 all four articles in one go
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+Create:
 
-Read character identity from enlarged/native pixels. Do not modernize spelling, grammar or punctuation. Never global-replace.
+1. `publications/thudikkum-ilamai/articles/01-thudikkum-ilamai.md`
+2. `publications/thudikkum-ilamai/articles/02-annamalaikku-arogara.md`
+3. `publications/thudikkum-ilamai/articles/03-poompuhar.md`
+4. `publications/thudikkum-ilamai/articles/04-vetri-vilakku.md`
 
-## Exact activity — P2 Batch 002
+Assembly authority is the verified P2 page records only.
 
-Process physical scans **6–10 only**.
+For each article:
 
-For each scan:
+- concatenate article-body text in physical scan order;
+- preserve the verified source heading exactly;
+- remove only page-record metadata/audit scaffolding;
+- preserve source wording, punctuation, quotations, unusual spellings and rhetoric;
+- join physical page-boundary word fragments only where the adjacent verified P2 records establish the same word;
+- do not modernize;
+- do not use OCR/web/alternate editions;
+- add durable source-scan provenance for the article range;
+- compare assembled body back to every contributing P2 page record;
+- report page-record coverage and any assembly corrections.
 
-- create one canonical page record;
-- record visible printed folio only if visible;
-- compare the user transcription baseline against the scan word-by-word;
-- preserve exact source wording and punctuation;
-- rejoin only page-internal typographic line wraps;
-- preserve physical scan-boundary fragments;
-- separate later stamps / handwriting from printed text;
-- perform the full historical-glyph family audit;
-- record every baseline → source correction;
-- do not guess.
+Expected P3 result:
 
-Expected files:
+- article assemblies — **4/4 COMPLETE / PASS**
+- source page coverage — **25/25 article scans**
+- omitted page-record body text — **0**
+- added unsupported body text — **0**
+- unresolved assembly issues — **0**
 
-- scan 6 — `pages/0006-thudikkum-ilamai-2.md`
-- scan 7 — `pages/0007-thudikkum-ilamai-3.md`
-- scan 8 — `pages/0008-thudikkum-ilamai-4.md`
-- scan 9 — `pages/0009-thudikkum-ilamai-5.md`
-- scan 10 — `pages/0010-thudikkum-ilamai-6.md`
+After P3, update:
 
-After the batch, update:
-
-- `P2_PROGRESS.md`
 - publication `README.md`
-- `indexes/page-map.md`
 - `audit.md`
 - root `HANDOVER.md`
 - this prompt
 
-Stop after scan **10** unless the user explicitly asks to continue.
+Next gate after successful P3: **P4 publication source/completeness audit**.
+
+Do not begin English translation; English remains blocked until Tamil P5 / frozen.
