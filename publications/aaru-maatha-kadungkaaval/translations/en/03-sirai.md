@@ -292,3 +292,193 @@ North Madras Pandian's life was drunk away.
 
 All these were festivals of murder conducted in the name of Gandhism.
 
+<!-- Tamil source: scan 129 / printed 126 -->
+
+To put an end to this barbarity, how necessary—how urgent—it was for the movement to leap into the fire of sacrifice; the methods and means for it—all those thoughts that Sezhiyan, Vaanan and we discussed together have been heard many times by the Madras seashore. Sezhiyan and Vaanan—like two furnaces fashioned for the movement! They said they were shocked. Not by fear! By affection! When the new chapter everyone had expected has begun, the joy that rises amid the shock—there is no limit to it. Driven forward by such joy, we entered the prison fortress.
+
+Each of us was given an identification number. Yes—it was written on our dhotis.
+
+At home my number is three!
+
+I am the third child.
+
+“In spite of all the penance through which he was obtained, the boy has turned out like this,” relatives used to say in earlier days!
+
+My number at school—I have forgotten. My S.S.L.C. examination number—the number that failed—if I tell you, it would be a disgrace to the number itself, so let us not tell it!
+
+The number on the decorative badge pinned to me in prison was 5779!
+
+<!-- Tamil source: scan 130 / printed 127 -->
+
+How many more numbers I may yet have to meet, I do not know; but I cannot forget that number I received for the first time.
+
+We were taken to what is called C.P.—CLOSE PRISON. More than three hundred of our comrades called out, “Welcome! Welcome!” In that prison built in 1865, it seems the stove lit then has still not gone out—it has kept burning continuously.
+
+In the days of the white man, it seems no more than a thousand prisoners had ever been confined in that jail!
+
+After our compassionate Congress Government arrived, the prisoner population, they say, has never fallen below three thousand.
+
+To us it felt like entering a small village.
+
+There is a place for washing clothes. There are people who cut and groom hair and faces. There is a hospital. There are workshops. There is a school, though no lessons are taught. There is a reading room. Except for the school and hospital, every other occupation there is run by the prisoners themselves. We felt as though we had entered a tiny kingdom run by prisoners for prisoners.
+
+<!-- Tamil source: scan 131 / printed 128 -->
+
+We looked up from inside. The sky was like a blue bowl turned upside down. All around, great walls to remind us we were prisoners! Neem trees inside—to teach us the taste of prison life!
+
+Outside the wall, Golden Rock—to tell us that responsibilities outside too were waiting for us just like that!
+
+With irrepressible pride that our feet too had now stepped upon the road of principle made red in the struggle for national separation, we united with the comrades who called to us from inside.
+
+Do you know the first sight we saw after entering? Our comrades were waging a “gruel war.” The jailer stood there. Comrades stood around him.
+
+You may have heard of Mannargudi Narayanasamy. He is one of the “lions” the movement has gained. He has formally trained well in silambam and other arts. People now shout, “Leave cinema! Take up silambam!”—as though answering that cry, he both watches cinema and practises silambam and other physical training, standing as a strong rampart of the movement in the Mannai region. He has inner strength equal to his bodily development. From the quality called calmness he would not deviate by even an atom.
+
+<!-- Tamil source: scan 132 / printed 129 -->
+
+It was under his leadership that the comrades stood surrounding the jailer. The jailer was trying to pacify them.
+
+“We cannot change the Government order. The rule given to us is to serve gruel in the morning—what can I do?”
+
+That was the jailer.
+
+“The people who once demanded special concessions for political prisoners—now that they have come to power, can they deny them?”
+
+That was the comrades.
+
+The jailer could give only a smile in reply.
+
+I intervened—and Narayanasamy cooperated with me.
+
+“We have begun this righteous struggle precisely because we cannot expect honesty from the Government. But when we have plunged into the opening struggle to uproot the whole tree from its taproot, we must not worry about these little branches. Take the gruel,” I said.
+
+At once the comrades flew off—with plates in hand!
+
+The jailer was astonished by that discipline full of dignity.
+
+<!-- Tamil source: scan 133 / printed 130 -->
+
+We who had newly arrived asked where our plates were!
+
+They told us: gruel plates for you.
+
+At first we did not understand!
+
+Because our arrival had not been notified beforehand, morning food had not been prepared for us, it seems! Perhaps that was Ariyalur's last shower of compassion upon us!
+
+Those who had eaten on the morning of the 15th saw a plateful of white rice only on the afternoon of the 18th.
+
+“Printed rice!
+Ounce-measure curry!
+Shade of the neem tree!
+Groundnuts with jaggery!
+Buttermilk from which butter was never taken!”
+
+That was the folk song of that kingdom! We too became its citizens. Those who had been three hundred became, within a day or two, more than four hundred—nearly touching five hundred.
+
+We established a new kingdom there. That kingdom ran wonderfully for two months. After that we became four hundred—then fifty—then five.
+
+<!-- Tamil source: scan 134 / printed 131 -->
+
+I cannot refrain from telling you about the administration of our kingdom during those two months. First I shall describe the structure of the state.
+
+The place where we were confined, called the C.P. Block, was divided into four large sections. More than a hundred people were confined in each section.
+
+Those four sections reminded us of a Dravidian federation—Tamil, Telugu, Malayalam and Kannada.
+
+If a prisoner from another block wished to come, he could not do so without permission; likewise, no one could leave this block. In our Dravida Nadu too, such a system of permission will exist. There everyone received the same kind of food. In our Dravida Nadu too—even if the quantity, taste and quality are not like this—there will be arrangements by which everyone gets food. To go hungry there was a serious offence. In our Dravida too no one will be allowed to perish of hunger. In the prison, those who lived in the “model Dravida Nadu” were all slaves—prisoners! In the true Dravida Nadu there will be no slaves. The reason there was slavery in the prison was that there was a Central Government called the jail authority!
+
+Our Dravida Nadu will not be under the Indian Central Government! Therefore there will be no slavery!
+
+<!-- Tamil source: scan 135 / printed 132 -->
+
+Inside the prison that Central Government is necessary!
+
+Because it is prison land!
+
+Dravida has no need of a northern Central Government!
+
+Because this is a land of freedom!
+
+Our Dravidian kingdom began in Tiruchi prison. In those opening tasks a comrade named Ramadas stayed with me and assisted.
+
+For each block—that is, for roughly a hundred people—a deputy leader was elected. One leader was elected over all four deputy leaders. To obtain water for four hundred people to bathe and drink, a “Water Establishment Minister” was appointed. There was a Food Minister. There was also a Home Department Minister to look after correspondence and internal affairs and maintain contact with the jail authorities. A Health Minister handled taking people to the hospital and obtaining separate food for the sick. There was a Chief Secretary to constitute, convene and dissolve the People's Assembly; to announce at once statements issued from headquarters—no, from the seat of government; and to explain the state of the kingdom to the leader called the Chief Minister.
+
+<!-- Tamil source: scan 136 / printed 133 -->
+
+Each block leader had a deputy.
+
+Each block leader had to bind together and protect a hundred people, provide what they needed, and attend to such matters.
+
+The People's Assembly was also called the Speaking Assembly. It met every day. Every office-bearer in the Assembly had been elected! They took responsibility and worked with the Assembly's approval.
+
+They were as follows:
+
+Leader — Karunanidhi
+
+Deputy Leader — Mannai Narayanasamy
+
+First Block Leader — Peravurani Adaikkalam
+
+Deputy — Vadivelu
+
+Second Block Leader — Thanjavur Pattu
+
+Deputies — Pakkirisamy, Krishnan
+
+Third Block Leader — Mayavaram Kittappa
+
+Deputy — Valluvadasan
+
+Fourth Block Leader — Ramasubbiah
+
+Deputy — Gopalsamy
+
+Food Minister — Ramasubbiah
+
+Home Department — Mullai Sakthi
+
+Health Minister — Bukhari Sahib
+
+“Water Establishment” Minister — Ayyanallur Velu
+
+Chief Secretary — Jayankondam Venu
+
+<!-- Tamil source: scan 137 / printed 134 -->
+
+The departments were divided as above, and everyone assumed office. Comrade Mani served as leader of the Third Block for four days; afterward, in connection with a case, he went to Nagai.
+
+Details of those connected with the departments:
+
+**Leader:**
+
+Karunanidhi—he is a propagandist of the Dravida Munnetra Kazhagam. Author of this book. About thirty years old. One who likes to serve while remaining a worker. From this itself it becomes as clear as a gooseberry on the palm that he is also a little self-praising!
+
+**Deputy Leader:**
+
+Narayanasamy—from Mannargudi. He has already been mentioned. Possessor of an iron body and a melting heart.
+
+**First Block Leader:**
+
+Adaikkalam—a weapon for us in the Pattukkottai region. There is a big man called Peravurani Kuzhandhai. Adaikkalam is one of the swords forged in his camp. If you wish to see the valour and speed of the ancient Dravidian people, you may go to Peravurani. You can see the physical training and silambam arts demonstrated by the Dravida Munnetra Kazhagam comrades there. One can gain enthusiasm from the energetic labour of the lion of action Adaikkalam—
+
+<!-- Tamil source: scan 138 / printed 135 -->
+
+and from the experienced achievements of friend Vadivelu.
+
+**Second Block Leader:**
+
+Thanjavur Pattu! The Thanjavur secretary who flies like a sparrow and acts. Full of both a timid nature and eagerness to work. One who has the quality of safeguarding humility, peace and dignity.
+
+**Third Block Leader:**
+
+Mayavaram Kittappa! One with the courage to tell the enemy who comes to clash, “Keep your distance!” and the nature of submitting to discipline. Secretary of the Mayavaram organisation. A youth. A bull of uprising, a drum of racial feeling!
+
+**Fourth Block Leader:**
+
+Ramasubbiah—those who were in prison knew him simply as the Food Minister. No explanation is needed. The embodiment of labour!
+
+**Health Minister:**
+
+Bukhari! From Ayyampettai. He came to the movement after having been a Congress sympathiser. Experienced in medical work. Here he conducted himself as an example of patience.
+
