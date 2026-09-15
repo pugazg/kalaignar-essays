@@ -1342,3 +1342,51 @@ The reason: release had come toward the Kallakkudi battalion. Two or three days 
 
 Thus I thought of each one. The Kallakkudi battalion that had marched behind me
 
+<!-- Tamil source: scan 209 / printed 206 -->
+
+I saw the line of the Kallakkudi battalion that had marched behind me standing there, shedding tears.
+
+“Beloved friends! Comrades full of affection! Jewels dear to my heart!” I said. I could say no more. I signalled with my hand, “Go and return.” Ramasubbiah embraced me and burst into sobs. Separation—separation—the separation that cut across the family affection we had guarded and built! The word “release” separated them from us and carried them away.
+
+That was the first day I smoked five cigarettes in succession.
+
+Sometimes one could also obtain “special interviews.”
+
+The night before, even as we lay down, we would go to sleep with the delightful thought that in the morning there might be an “interview.”
+
+In the morning too we would rise briskly. We would attend to face and grooming, put on white clothes—
+
+<!-- Tamil source: scan 210 / printed 207 -->
+
+and wait wondering when the *manukkaaran* would come.
+
+The prisoner-comrade who brings the interview petition is called the *manukkaaran*. Those who wish to meet us submit a petition, do they not? The man who brings that petition is the *manukkaaran*. Many petitions came, were refused, and went back.
+
+Arignar Anna, Mathiazhagan, Arangannal, Vaanan, Sezhiyan, K. K. Neelamegam, Kannadasan, T. K. Srinivasan, Mayavaram Palanisamy, Mullai Vadivel, Vengidangal Santhanam, Sowrirajan; Tiruchi comrades Dharmu, Parangusam, Mani, Muthu, Radhakrishnan, Rabi, Kadaitheru Kazhagam Natarasan, Pandurangan, Karunanandam, Mayuram Gandhi, Soundararajan, Karunai Jamal, Kanchi C. V. Rajagopal, Karaikudi Rama Vellaiyan; Mannai Narayanasamy, Thennan, Kittappa, A. S. Murugaiya, Adaikkalam and Ilamurugu, Gopalakrishnan, Marachi, Krishnamurthy, G. P. Somasundaram, Xavier, Sowrirajan, Selvarathinam, S. V. Lingam, Ilamvazhuthi M.A., B.L., Villalan B.A. Hon., Muthu Mallappan and movement comrades from Athangudi who had been released; family members; legislators and parliamentarians Govindasamy M.L.A., Palaniyandi M.L.A., Chitrambalam M.L.A., Thangavelu M.L.A., Baby Kandasamy M.P.; and friends from the arts world—Kalaivanar N. S. Krishnan, Madhuram, Revolutionary Actor M. G. Ramachandran, Sivaji Ganesan, S. V. Sahasranamam, Radha
+
+<!-- Tamil source: scan 211 / printed 208 -->
+
+Krishnan, M. N. Krishnan, Tirupathisamy, Director Krishnan (Panju), Manohara Pictures Balu, story-writer Athreya, Modern Theatres Sulaiman and others—all came and met us. Those days were like festival days in our kingdom. A large table in the middle. The prisoner on one side. The visitors on the other. An officer nearby to make sure no political or objectionable matters were spoken. That was the interview system for “B” class prisoners.
+
+A large window covered by mesh. The prisoner inside. The visitor outside. An officer watching. Both sides had to stand while speaking. One could not properly see the other's face. That was the “C” class method. There had once been an “A” class in prison; now it no longer existed.
+
+“B” class prisoners had one facility. Visitors from outside could give fruit, bread, cigarettes and the like. They could not give snacks or sweets. There was something called P.C.P. [Personal Cash Property]. One could keep personal money—money held for us by the prison authorities—and each week purchase through the authorities articles we needed. But “articles we needed” did not mean everything we might need.
+
+<!-- Tamil source: scan 212 / printed 209 -->
+
+Only what the authorities approved. We too had deposited money in P.C.P. Each week we bought Ovaltine, Horlicks, biscuits, cigarettes, fruit, soap, writing paper, ink, coffee powder, sugar and the like.
+
+Once we sent a note asking them to buy a tin of green peas. We were told it was not approved. “Oh! We are prisoners,” we told ourselves once again. Security detainees had many more facilities than “B” class prisoners. You know that at one time Communist militants were held as security detainees. Even if someone sent money by money order to “C” class prisoners, the jail would receive and hold it and give it to them only when they were released and went out. They could not buy anything they needed from prison with that money. At the place called the “Tower” there was a radio. But it could not be heard in our block. If a “speaker” were installed in our block, we could hear the radio. We decided to ask the Superintendent. One could see the Superintendent only on File day. Every Monday at seven in the morning, the prisoners in each block had to line up before their quarters with plate, tumbler and number. The sight of four hundred people standing in formation in our kingdom too was very impressive. Only a few of us who were rigorous-imprisonment prisoners had to wear caps and put on prison
+
+<!-- Tamil source: scan 213 / printed 210 -->
+
+clothes. Long stockings and gloves would also be given.
+
+The Superintendent would inspect that formation. With him would come the D.M.O. and the other prison officers. This arrangement was meant to allow prisoners to tell them their grievances. Whether those grievances were attended to was another matter. One Monday the prison officers came inspecting the formation. We asked about the radio. We requested: let us hear it from this block too; install a loudspeaker for us.
+
+The Jailer replied: “Arrange a loudspeaker at your own expense; we have no objection.” That seemed reasonable to me too. Would it be impossible to get a loudspeaker on loan for six months? Our dear comrade Rabi was in Tiruchi. If we told him, he would arrange any number of loudspeakers, I thought, and said, “All right, give us permission to arrange it ourselves.”
+
+“We give permission. But one thing. Once such a ‘speaker’ is installed, it belongs to the jail. You must not take it back,” said the Jailer.
+
+“Good! Even if Rabi gains nothing from us, let him at least suffer no loss,” I told myself. “All right, sir! About the radio
+
