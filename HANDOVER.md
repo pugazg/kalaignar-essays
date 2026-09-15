@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Publication 13 `துடிக்கும் இளமை` P4 source/completeness audit — COMPLETE / PASS**. Publication 12 `ஆறுமாதக் கடுங்காவல்` remains **RELEASE COMPLETE / FROZEN**. Publication 13 is **ACTIVE — P0 PASS; P1 PASS 33/33; P2 PASS 33/33; P3 PASS 4/4; P4 PASS; source coverage 33/33; propagation defects 0; blockers 0**. The user-supplied transcription remains a comparison baseline only; supplied 1951 scan pixels remain controlling.
+Handoff refreshed after **Publication 13 `துடிக்கும் இளமை` P5 strict visual fidelity — COMPLETE / PASS — 33/33**. Publication 12 `ஆறுமாதக் கடுங்காவல்` remains **RELEASE COMPLETE / FROZEN**. Publication 13 Tamil is now **COMPLETE / STRICT-REVIEWED / FROZEN — P0–P5 PASS; 4/4 article assemblies strict-reviewed; unresolved fidelity discrepancies 0; blockers 0**. The user-supplied transcription remains provenance/alignment only; frozen Tamil assemblies are now the sole normal translation authorities.
 
 ## Repository state
 
@@ -14,7 +14,7 @@ Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
 Publication 12 **`ஆறுமாதக் கடுங்காவல்` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 3/3 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 13 **`துடிக்கும் இளமை` — ACTIVE — P0 PASS; P1 PASS 33/33; P2 PASS 33/33; P3 PASS 4/4; P4 COMPLETE / PASS**. Source coverage **33/33**, article coverage **25/25**, article assemblies **4/4**, propagation defects **0**, blockers **0**. Next gate: **P5 strict visual-text-fidelity pass over all 33 physical scans**.
+Publication 13 **`துடிக்கும் இளமை` — TAMIL ARCHIVAL COMPLETE / FROZEN — P0–P5 PASS; 33/33 physical scans; 4/4 strict-reviewed article assemblies**. Frozen Tamil blobs: `3b2f40df8f9b1f02aaac917276b7bcf374185f21`, `3740984e52a72b514dff4fc41f54a2938d7ce793`, `9ec5a3fd12e342a92bc02dada6dcf4297214d69d`, `26ce57fe58a5327879155bf41c132180d71dd191`. English is **READY / NOT STARTED**. Next gate: **E0 translation planning/setup only**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2388,32 +2388,35 @@ Do **not** reopen Publication 12 merely for stylistic polishing.
 
 Publication 13 `துடிக்கும் இளமை` is now **ACTIVE**.
 
-### Publication 13 durable state after P4
+### Publication 13 durable state after P5
 
 - workspace — `publications/thudikkum-ilamai/`
 - source — `TVA_BOK_0063985_துடிக்கும்_இளமை.pdf`
 - P0 — **PASS**
 - P1 — **PASS — 33/33**
 - P2 — **PASS — 33/33 VERIFIED**
-- P3 — **PASS — 4/4 article assemblies**
-- P4 — **COMPLETE / PASS**
-- source coverage — **33/33**
-- front matter — **4/4**
-- article-body coverage — **25/25**
-- advertisements / promotional matter — **4/4**
-- article assemblies — **4/4**
-- missing / duplicate scan records — **0 / 0**
-- advertisement leakage — **0**
-- physical-copy-mark contamination — **0**
-- propagation defects — **0**
-- historical-glyph / printed-text unresolved — **0**
-- blockers — **0**
+- P3 — **PASS — 4/4**
+- P4 — **PASS**
+- P5 — **COMPLETE / PASS — 33/33**
+- P5 canonical text corrections — **0**
+- new historical-glyph corrections — **0**
+- unresolved fidelity discrepancies — **0**
+- article assemblies revalidated — **4/4 PASS**
+- Tamil status — **COMPLETE / STRICT-REVIEWED / FROZEN**
+- P5 authority — `publications/thudikkum-ilamai/VISUAL_TEXT_FIDELITY_REVIEW.md`
 - canonical price — **`ஆறணா`**
 - canonical Article-2 title — **`அண்ணாமலைக்கு அரோகரா!`**
-- P4 authority — `publications/thudikkum-ilamai/P4_SOURCE_AUDIT.md`
+- English — **READY / NOT STARTED**
+
+Frozen strict-reviewed Tamil authorities:
+
+1. `articles/01-thudikkum-ilamai.md` — scans 5–12 — **`3b2f40df8f9b1f02aaac917276b7bcf374185f21`**
+2. `articles/02-annamalaikku-arogara.md` — scans 13–19 — **`3740984e52a72b514dff4fc41f54a2938d7ce793`**
+3. `articles/03-poompuhar.md` — scans 20–24 — **`9ec5a3fd12e342a92bc02dada6dcf4297214d69d`**
+4. `articles/04-vetri-vilakku.md` — scans 25–29 — **`26ce57fe58a5327879155bf41c132180d71dd191`**
 
 ### Exact next activity
 
-**Publication 13 P5 strict visual-text-fidelity pass — scans 1–33.**
+**Publication 13 E0 — English translation planning/setup only.**
 
-Reopen all 33 physical scans and compare every printed word, punctuation mark, meaningful spacing, heading, number and page continuation against its canonical P2 page record. Re-run historical-glyph checks where applicable, propagate any correction into the four P3 article assemblies and controls, and close/freeze Tamil only after P5 passes. Do not begin English translation until P5 is complete.
+Read `ESSAY_TRANSLATION_GUIDE.md`, pin all 4/4 frozen Tamil blobs, define translation order **1 → 2 → 3 → 4**, and initialize the publication translation-control files. Do **not** create English article body text during E0.
