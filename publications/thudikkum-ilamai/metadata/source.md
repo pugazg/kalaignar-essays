@@ -76,3 +76,12 @@ Read character identity from enlarged source pixels; do not modernize wording.
 - scan 13 article heading — P1/intake `அண்ணனுக்கு அரசா!` → direct source heading **`அண்ணாமலைக்கு அரோகரா!`**.
 
 These are the current canonical source readings.
+
+## Final Tamil archival status
+
+- P5 strict visual fidelity — **COMPLETE / PASS — 33/33**;
+- canonical text corrections at P5 — **0**;
+- unresolved fidelity / historical-glyph readings — **0**;
+- Tamil article authorities — **4/4 strict-reviewed / frozen**;
+- final status — **COMPLETE / STRICT-REVIEWED / FROZEN**;
+- English — **READY / NOT STARTED**.
