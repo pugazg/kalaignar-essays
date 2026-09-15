@@ -17,9 +17,9 @@ Rules:
 ## Progress
 
 - physical scans — **224**
-- P5 checked — **90/224**
-- completed range — **1–90**
-- next range — **91–105**
+- P5 checked — **105/224**
+- completed range — **1–105**
+- next range — **106–120**
 - current needs-review — **0**
 - current blocked — **0**
 - guessed readings — **0**
@@ -259,10 +259,55 @@ Batch P5-06 totals:
 - guessed readings — **0**
 - P5 cumulative progress — **90/224**
 
+## Batch P5-07 — scans 91–105
+
+Result: **15/15 PASS / no canonical correction**.
+
+| Scan | P5 result | Key reconfirmation |
+|---:|---|---|
+| 91 | PASS | source-visible **`வாணிக்கக்`**, **`என்னற்கோ`**, **`31 பேர்களும்`** and prior hyphen repair **`குமாரவேல்-குழந்தைவேல்`** reconfirmed |
+| 92 | PASS | full proper-name list and prior repairs **`கைதூக்குங்கள்`**, **`இரண்டு கையும்`**, **`டி.எ. கமலன்`** reconfirmed |
+| 93 | PASS | prior repairs **`அவரவர்கட்கு`**, **`பூசிக் கொண்டு`**; terminal fragment **`அவர்போல் ஒரு`** reconfirmed |
+| 94 | PASS | scan-93 **`அவர்போல் ஒரு` + `அறிஞரைக் காண...`** continuation; source-visible **`வீணை குழப்பம்`**, **`அட பரமசிவம்`** and terminal **`கும்பாபிஷேகம்`** reconfirmed |
+| 95 | PASS | scan-94 **`கும்பாபிஷேகம்` + `செய்யும்...`** continuation; **`அதியற்புதமான`**, **`கூசாமல் சந்நியாசங்கொள்`**, **`ராஜபோகமானது`** reconfirmed |
+| 96 | PASS | source-visible **`அப்போதுங்கூட`**, **`சாப்பிட்டான பிறகு!`**, **`பாடங்கற்பிக்க`** and terminal open-quotation fragment **`சிஷ்யனை`** reconfirmed |
+| 97 | PASS | scan-96 **`சிஷ்யனை` + `யும் தாக்கட்டும்’`** continuation; names / punctuation and **`தீனியாகத்தருகிறது`** reconfirmed |
+| 98 | PASS | heading **`கேசவன்`**, eight-dot run after **`பிறகு`**, **`பஞ்சணை`**, **`கற்பனையூறுகிறது`**, **`கலவி நடுப்பாதையிலே`** and quotation closure reconfirmed |
+| 99 | PASS | source-visible **`காணோமே யென்று`**, **`போக்காளி`**, **`அக்கிரமக்காரர்களேத்`**, **`புகைவண்டியைப் பொத்துக்கொண்டு`** and terminal **`திரும்பினால் காதலி நிற`** reconfirmed |
+| 100 | PASS | scan-99 **`திரும்பினால் காதலி நிற` + `பாள்.`** continuation; prior spacing repair **`ருசியைப் பற்றி`**, **`யானைத்தீப் பசி`** and printed star reconfirmed |
+| 101 | PASS | heading **`நடராசன்`**, source-visible **`படிக்க வில்லையோ`**, **`தாறுமாறாகக்`** and terminal **`வாரி வழங்கும்`** reconfirmed |
+| 102 | PASS | scan-101 **`வாரி வழங்கும்` + `அன்னை திராவிடமே!`** continuation; prior repairs **`திராவிடத்தரணி`**, **`கிடக்கிறான் பார்`**, **`புது மொழில் பேசிய`** and printed star reconfirmed |
+| 103 | PASS | historical-`ளை` forms **`எலும்புகளை`**, **`நரம்புகளை`**, source repair **`இழித்துச் சுடுசொல்`**, heading **`கோரத் தாண்டவம்!`** and terminal **`அவனை நா நா`** reconfirmed |
+| 104 | PASS | scan-103 **`அவனை நா நா` + `வென்று மென்று...`** continuation; prior spacing repair **`ஆறு பிணம் - ஆறு பிணம் - ஆறவில்லை`** and full punctuation reconfirmed |
+| 105 | PASS | prior spacing repair **`பதினாறுவயது`**, proper-name sequence through **`செபாஸ்டின்`** and exact terminal physical fragment **`ஆகி`** reconfirmed; scan 106 not opened |
+
+Historical-family verification for this batch explicitly rechecked **`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`** directly from source pixels. Representative source checks include `இளைப்பாறிக்கொள்ளும்`, `பதினைந்து`, `மலைக்கோட்டை`, `சின்னையா`, `அண்ணாவின்`, `ஆற்றலைப்`, `காளை`, `ஆனைமலை`, `காணோம்`, `கண்ணதாசனைப்`, `பஞ்சணை`, `காணோமே`, `யானைத்தீப்`, `இளைஞனின்`, `எலும்புகளை`, `நரம்புகளை`, `பதினாறுவயது`, and `அண்ணாமலை`. No historical-family identity changed.
+
+All scans **91–105** remain within the `களம்` body and all page-record filenames remain `*-kalam.md`. No structural or naming drift was found.
+
+The P3 `articles/02-kalam.md` assembly was checked for the prior P2R repairs in this range and already contains the canonical forms `குமாரவேல்-குழந்தைவேல்`, `கைதூக்குங்கள்`, `இரண்டு கையும்`, `டி.எ. கமலன்`, `அவரவர்கட்கு`, `பூசிக் கொண்டு`, `ருசியைப் பற்றி`, `திராவிடத்தரணி`, `கிடக்கிறான் பார்`, `புது மொழில் பேசிய`, `எலும்புகளை`, `நரம்புகளை`, `இழித்துச் சுடுசொல்`, `ஆறு பிணம் - ஆறு பிணம்`, and `பதினாறுவயது`. No propagation repair was required.
+
+Batch P5-07 totals:
+
+- scans checked — **15**
+- canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- P5 cumulative progress — **105/224**
+
 ## Exact next activity
 
-**P5 Batch P5-07 — physical scans 91–105.**
+**P5 Batch P5-08 — physical scans 106–120.**
 
-Scans **91–105** remain within the `களம்` body. Preserve every page as `*-kalam.md`; do not introduce stale `*-murasu.md` naming.
+This range crosses the `களம்` → `சிறை` structural boundary:
+- scan **106** — final `களம்` body page;
+- scan **107** — blank/reverse;
+- scan **108** — illustrated **`சிறை`** intertitle;
+- scan **109** — blank/reverse;
+- scans **110–120** — **`சிறை`** body.
 
-Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after scan 105.
+Preserve canonical filenames exactly: `0106-kalam.md`, `0107-blank-reverse.md`, `0108-sirai-illustration.md`, `0109-blank-reverse.md`, then `0110-sirai.md` through `0120-sirai.md`.
+
+Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after scan 120.
