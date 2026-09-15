@@ -128,5 +128,85 @@ When he saw me in the hospital, tears flowed from his eyes. Not from worry over 
 
 **First day:**
 
-From July 15, the movement's daily newspaper *Nam Nadu* began publication under the administration of Ponnambalanar, the embodiment of integrity. From that very day, explanatory meetings for the agitation to remove the name “Dalmiyapuram” began. On the first day, the drum thundered at Manalmedu. Manalmedu is a beautiful little village. Eye-catching groves. Cultured youngsters there. The village stands along the Salem–Tiruchi road, where it has the chance to see political ferment pass by.
+From July 15, the movement's daily newspaper *Nam Nadu* began publication under the administration of Ponnambalanar, the embodiment of integrity. From that very day, explanatory meetings for the agitation to remove the name “Dalmiyapuram” began. On the first day, the drum thundered at Manalmedu. Manalmedu is a beautiful little village. Eye-catching groves. Cultured youngsters there. It lay along the Salem–Tiruchi road, where it had the chance to touch
+
+<!-- Tamil source: scan 21 / printed 18 -->
+
+and witness political ferment. By six in the evening, Mani, Muthu, Sakthi, Sivaprakasam and I had all reached the village. Sivaprakasam, whom I introduce to you here, has been known to me since his youth. He took so active a part in the movement that even I found myself thinking, “Would he too come this far!” He was joint editor of the paper *Theeppori*. A good young man. A student of Salem College. A B.A. graduate. He too spoke that day. The meeting was a fine success. Those movement comrades of Manalmedu—good heavens, what powerful young men! Symbols of enthusiasm—golden rays of the movement. The way they ran about—the songs of enthusiasm they raised—these are scenes that will not leave the heart! The first meeting announcing the righteous struggle ended in complete success. And, as though crowning all that success, Dravidar Kazhagam comrades from Chittoor and other places around Manalmedu—taking their leader's command that they must not even stand in our shadow as a kind of ironic praise—happily garlanded us on behalf of their organisation!
+
+People gathered in their thousands, so many that one might have feared little Manalmedu would collapse beneath them. They saw—they listened—they benefited—they gave us strength as well. After finishing our night meal, we came by way of Musiri, met and spoke with the comrades there, and returned to Tiruchi at exactly 1:30.
+
+<!-- Tamil source: scan 22 / printed 19 -->
+
+**The next day:**
+
+There was a meeting at Manapparai. We were getting ready to leave for it when the district secretary, Anbil Dharmalingam, arrived. Anbil is a small village in Tiruchi district. A minor panchayat. It has a high school too. But when you say “Anbil,” our movement people do not remember the village; the name of Dharmalingam itself comes and stands before them. Everyone says only, “Anbil came—Anbil went.” And when I say “came—went,” even that has meaning. It is difficult for him to remain in one place for even a few hours. He has that much work. Everyone says, “He came—he went.” I will be looking for him; people will come to me and ask whether he came to see me. Not only movement work: he has a special taste for helping others in ways that benefit them, and for running about and striving to make such help happen. Does someone have to win an election? Anbil will be there—without pay, and without compromising principle! He trusts anyone easily; as a result he is sometimes betrayed, and then the sight of him grieving over himself is pitiable even to us. At the Lalgudi conference, nearly seven thousand rupees were left as surplus, and the district earned the verdict that the conference was “a record of awakening”; the credit belongs to the reception committee that had Comrade Anbil as its head.
+
+<!-- Tamil source: scan 23 / printed 20 -->
+
+As far as I am concerned, Anbil is a plaything for me—a spear that brings down those who do mischief—an army for the movement! A camp for Tiruchi district! Short in stature—bulging eyes—a guileless heart—that is Anbil: the home of affection!
+
+He, I, Mani, Sakthi, Muthu, Sivaprakasam and Manickam set out for the Manapparai meeting.
+
+We entered Manapparai. Red-flag comrades went in a small procession shouting “Zindabad!” They were congratulating the Communist comrade who had won that day's panchayat election in Manapparai. We went into the town. News reached us that Dhanapal, whom our movement had supported, had also won as panchayat chairman. Not only on the Manapparai Panchayat Board; throughout the Madras State, in a greater number of places, frontline comrades of the movement, movement sympathisers and movement functionaries had gained the opportunity to sit on panchayat boards. After the general election, that was the good verdict the country had delivered against the wicked. Ilamuruganar, Porselvi Ammaiyar and movement comrades welcomed us as we arrived with the news of victory.
+
+It is known throughout the country that Porselvi and Ilamurugu entered into a love marriage across social divisions, and that they are living grammar for the verse: “In love—in poetry, speech enough for the field; for husband and wife, Dravida itself is breath.” Flag-hoisting ceremonies had been arranged at many places in the town.
+
+<!-- Tamil source: scan 24 / printed 21 -->
+
+At one upstairs house—right at the top of the upper floor—they asked me to hoist the movement flag. Somewhat surprised, I looked at Comrade Ilamurugu. He explained: the owner of the house was a young man newly come to the party; the well-known Congressman Ponnambala Gounder was his paternal uncle; his attachment to the party had begun only after the Lalgudi conference—and so on.
+
+Then came flag-hoistings—a procession—a huge public meeting under the chairmanship of a Muslim friend; everything went off happily. Afterwards we ate at the house of that newcomer to the party. The newcomer was shy even to speak with us. When Sakthi and I looked at him we were mutually surprised—but he later gave us a still greater surprise. That young comrade, who had joined the party only after the Lalgudi conference, came to the volunteer camp at two-thirty in the morning on the eve of the Kallakkudi agitation and desperately begged me to include him in the battle ranks—and in the very first contingent! An aged mother—a young wife—a household with no support but himself—without worrying about any of it, he roared, “Write my name too
+
+<!-- Tamil source: scan 25 / printed 22 -->
+
+in the ranks!” That newcomer to the party—a dark-complexioned man with a smiling face—possessed both the eyes of our movement: dignity and discipline. He won a place in the ranks; in prison he also won the prize of six months. One of our five—Kasthuri Raj, the new bull of the party! We thanked him for his hospitality and reached Tiruchi at two in the morning, pleading even with sleep to come to us.
+
+**Third day:**
+
+A play was staged at Anbil. Besides presiding over it, I gave an explanatory speech on the Kallakkudi struggle, praised the public who pledged their support to the agitation, and returned to Tiruchi that very night. The next day, June 18, there was a meeting at Kulithalai. Not merely a meeting—the Dalmiyapuram Agitation Action Committee was to meet there as well. Not only Tiruchi district; all Dravida waited for the committee's decision. Word had spread that it was there the date of the agitation would be fixed. At four in the evening, the seven action-committee members—I, Anbil, Mani, Ilamurugu, Thambusamy, Manickam and Kulithalai Raja—met and discussed the circumstances of the agitation for more than two hours. Outside, a great many comrades waited eagerly for the committee's decision. The thousands who had gathered like a flood for the public meeting kept their eyes fixed on the road, waiting to hear when the committee would come out and announce its decision
+
+<!-- Tamil source: scan 26 / printed 23 -->
+
+When I told them that the committee had resolved to begin the agitation on July 15 if our demand was ignored, and to seek the permission of General Secretary Anna for it—the way the assembled people danced and sang—ah! it had to be seen in person; what words can describe it! “War,” I said—“We are ready to march,” their eyes replied!
+
+“July 15,” I said—“Must we wait that long?” their sighs replied!
+
+Kallakkudi won the honour of becoming the siege-field of the great army of Dravidian racial awakening; Kulithalai won the honour of being the place where the day was fixed. Kulithalai—a town where delight itself seems to play.
+
+On the banks of the singing Kaveri, banana groves bend under the weight of their abundance, like Kanaka and Vijaya bowing their heads, unable to bear the stone carried by the Chera. Fertile lands; streets where warriors with sword-like eyes and unfailing valour move about.
+
+People speak of coolness as delight. It is such a fine town that one wonders whether a place lush with coolness became *Kulirthalai* and then *Kulithalai*. There are so many Kulithalais in Dravida
+
+<!-- Tamil source: scan 27 / printed 24 -->
+
+but there are some people with mere sparrow-heads who cannot realise it! When I think of that, I also remember that among those Kulithalais there are Raja “Cholagars” and Muthukrishnans strengthened by principle. The thought gives sweetness too. Raja will never say something cannot be done. He believes that saying so would hurt another. He has the courage to ignore opposition and shake it off like dust. Comrade Raja is a son of the family of heroes renowned as the Cholagar family.
+
+Comrade Muthukrishnan is possessed of the resolve always, at every moment, to do something fitting for the movement's growth. Kulithalai has countless comrades as warriors, not these two alone. There are many towns like Kulithalai. There are many hamlets and villages overflowing with noble workers and hearts full of strength. All must become our camps. In some camps there will be many weapons but few warriors to wield them. In others there will be many warriors but few weapons. The frontline fighters in each town must come forward both to increase the weapons and to enlarge the number of warriors to match them. The moment I say “weapons of war,” this Government of astonishing heroism may take fright—and even if it does not, parties that openly practise violence will go about beating the drum and awarding us the title “advocates of violence”! By “weapons of war” I mean members of the movement, and by “warriors” I mean executive-committee members. I say this not out of fear, but out of the dignity that must be observed in politics!
+
+<!-- Tamil source: scan 28 / printed 25 -->
+
+Even when no fierce battle is upon us, warriors have work in the camps! Keeping the spear-point from growing blunt—testing the strength of the sword—training—enlarging the army—and many more such tasks! Our movement camps too must engage in duties of this kind.
+
+The rolls of warriors need not grow merely so they may take part in righteous struggles—there is much constructive work for them. Nor must they take part only in constructive work conducted in the movement's name or announced from its headquarters; movement warriors must acquire the habit of doing public service even when townspeople face troubles that have nothing to do with politics. Such forces must multiply in cities and in the smallest villages. So long as no harm is done to movement principles, and so long as it increases the people's affection for the movement and its warriors, the habit of such service must continue.
+
+Nor must we forget that this service must not become a net cast merely “to attract the people.”
+
+<!-- Tamil source: scan 29 / printed 26 -->
+
+Such eyewash is the drama staged by khadi-shirt men under names like the Harijan movement. We labour to obtain Dravida Nadu. We ask for Dravida Nadu for the Dravidian people. We must show concern, as far as we can, in the everyday lives of the Dravidian people too. Even though we say Dravida must separate precisely so that all the miseries of daily life may be removed—suppose, for example, a house catches fire. Can we sit still saying that such daily struggles will not occur once Dravida separates? We must run to put out the fire. In every town there must be a force ready to run like that. It must be a band of brave men surpassing even the fire brigade.
+
+A man lies dead with no one to claim him—one man? Under the rule of these noble souls (?) a thousand may die like that! Before the panchayat board or municipal council has time to put to a vote a resolution on whether the corpse may be lifted or not, our force must set out at once and quietly attend, within the bounds of law, to what has to be done.
+
+Cholera will come to the town! Now and then Congress ministers will come too! If cholera comes, our force must be ready to prevent it—and if there is no movement order to show black flags to Congress ministers, it must be ready to meet them and explain the condition of the villages.
+
+<!-- Tamil source: scan 30 / printed 27 -->
+
+Some will set out to perform puja to evil deities in order to drive away contagious disease—we must not merely abuse them and sit down! With the help of health officers, our force must go from village to village and protect the people from disease and deficiency.
+
+Through the efforts of movement comrades—and the work of the health department—the disease will disappear. Like the tale in which the crow sits and the palmyra fruit falls, they will say, “We performed puja to Kali and cholera vanished.” You need not fall over laughing—just smile. You need not speak. The man who survived after begging for his life and taking an injection will speak to them himself—after untying and throwing away the yellow thread bound to his hand!
+
+Warriors who work on so many fronts must march through village streets. Only then will free Dravida gain the strength to protect itself.
+
+Kulithalai has taken me—and you—somewhere far away. All right, let us eat. The meal is over. We left for Tiruchi. As usual, it was two o'clock before we fell into bed!
 
