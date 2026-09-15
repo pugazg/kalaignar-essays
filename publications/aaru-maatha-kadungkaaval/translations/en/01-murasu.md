@@ -8,7 +8,7 @@ source_tamil_blob_sha: "7a41617cd48f8507bc12074fb48d6016fae5cead"
 source_scan_pages: "10-65"
 source_printed_pages: "source-visible folios as preserved in Tamil assembly; scans 16-17 repeat printed folios 13-14"
 language: "en"
-translation_status: "draft"
+translation_status: "verified"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
