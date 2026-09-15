@@ -12,14 +12,14 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - Tamil prerequisite — **COMPLETE / STRICT-REVIEWED / FROZEN**
 - translation identity — **project-created English translation**
 - E0 — **COMPLETE / PASS**
-- T0 — **1/3 PASS**
-- T1 — **1/3 COMPLETE**
-- T2 — **1/3 PASS**
-- T3 — **1/3 PASS**
-- T4 — **1/3 PASS**
-- T5 — **1/3 VERIFIED**
-- English article files — **1/3**
-- verified English articles — **1/3**
+- T0 — **2/3 PASS**
+- T1 — **2/3 COMPLETE**
+- T2 — **2/3 PASS**
+- T3 — **2/3 PASS**
+- T4 — **2/3 PASS**
+- T5 — **2/3 VERIFIED**
+- English article files — **2/3**
+- verified English articles — **2/3**
 - E6 publication-wide consistency review — **NOT STARTED**
 - E7 release closeout — **NOT STARTED**
 - blockers — **0**
@@ -29,7 +29,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 | # | Tamil title | Working English title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|---|
 | 1 | `முரசு` | **The Drum** | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **VERIFIED** |
-| 2 | `களம்` | **TBD at T1/T4** | `60c155dc93a4543e267ccbca5573d6f5b70e5672` | not-started | not-started | not-started | not-started | not-started | not-started |
+| 2 | `களம்` | **The Battlefield** | `60c155dc93a4543e267ccbca5573d6f5b70e5672` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **VERIFIED** |
 | 3 | `சிறை` | **TBD at T1/T4** | `0d860d48bcd666148c0a312ad296953f015225c2` | not-started | not-started | not-started | not-started | not-started | not-started |
 
 ## Article 1 T1 checkpoint
@@ -66,6 +66,22 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - Tamil changes — **0**
 - blockers — **0**
 
+## Article 2 T0–T5 checkpoint
+
+- frozen Tamil blob — `60c155dc93a4543e267ccbca5573d6f5b70e5672`
+- T0 — **PASS**
+- T1 — **COMPLETE** — blob `78cd7094b8b57c00e6528b40c3c3768d7014971f`
+- T2 — **PASS** — 2 body corrections — blob `3ffc005a7e8653319a86954d42ac6d9f047e4c81`
+- T3 — **PASS** — 0 body corrections; T2 body retained
+- T4 — **PASS** — 3 source-term corrections — body authority `d5ac559f9a489a98b305b047ae651d97343e5f37`
+- T5 — **PASS / VERIFIED**
+- verified title — **The Battlefield**
+- verified English blob — `9d37041cda4a6a8808b8009b7a86ba9e3b533246`
+- source-page comments — **41/41 PASS**
+- paragraph-block scan matching — **41/41 PASS**
+- Tamil source changes — **0**
+- blockers — **0**
+
 ## Permanent source boundary
 
 Use only the frozen Tamil article assemblies as normal translation authorities. Page records / controlling scans may be reopened only for punctuation, quotation, page-boundary or provenance questions.
@@ -76,4 +92,4 @@ Scan **224** is back-cover / publisher-device matter and does not belong in Arti
 
 ## Exact next activity
 
-**Article 2 — `களம்`: T0 source prerequisite + T1 close draft.**
+**Article 3 — `சிறை`: T0 source prerequisite + T1 close draft.**
