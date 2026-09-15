@@ -11,7 +11,7 @@
 | 3 | edition / date / printer page; physical-copy stamp/show-through | — |
 | 4 | `பதிப்புரை` publisher note | — |
 | 5–12 | body article | `துடிக்கும் இளமை` |
-| 13–19 | body article | `அண்ணனுக்கு அரசா!` |
+| 13–19 | body article | `அண்ணாமலைக்கு அரோகரா!` |
 | 20–24 | body article | `பூம்புகார்` |
 | 25–29 | body article | `வெற்றி விளக்கு!` |
 | 30 | advertisement / promotional list | — |
@@ -44,8 +44,10 @@ Every one of the **33 physical scans** requires its own canonical page record, i
 
 ## P2 progress
 
-- scans **1–5** — **VERIFIED / PASS**;
-- scans **6–33** — **NOT STARTED**;
-- cumulative P2 — **5/33 verified; 0 needs-review; 0 blocked; 0 guessed**;
-- scan 5 begins Article 1 and ends at source-visible physical fragment **`பிம்பங்`**;
-- next — **scans 6–10**.
+- scans **1–29** — **VERIFIED / PASS**;
+- front matter — **4/4 VERIFIED**;
+- four article bodies — **25/25 VERIFIED / COMPLETE**;
+- scans **30–33** — **NOT STARTED** — advertisement / promotional matter;
+- cumulative P2 — **29/33 verified; 0 needs-review; 0 blocked; 0 guessed**;
+- Article 2 heading correction — P1/intake `அண்ணனுக்கு அரசா!` → scan-13 source **`அண்ணாமலைக்கு அரோகரா!`**;
+- next — **scans 30–33**.
