@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **English Article 2 `களம்` T0–T5**. Tamil remains **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN — 224/224**. English Articles 1–2 are now **T0–T5 PASS / VERIFIED**: Article 1 `முரசு` = **The Drum**; Article 2 `களம்` = **The Battlefield**. Article 2 used frozen Tamil blob `60c155dc93a4543e267ccbca5573d6f5b70e5672`, made **2 T2 fidelity corrections**, **0 T3 body corrections**, **3 T4 source-term corrections**, and closed T5 at verified English blob `9d37041cda4a6a8808b8009b7a86ba9e3b533246`. Source comments are **41/41 PASS**, paragraph-block scan matching **41/41 PASS**, Tamil body leakage **0**, Tamil changes **0**, blockers **0**. Next is **Article 3 `சிறை` T0 + T1**. Publication 13 remains queued.
+Handoff refreshed after **post-T5 scan-77 correction in Article 2 `களம்`**. User corrected `தாண்டிவிடப்பட்டேன்` → **`தூண்டிவிடப்பட்டேன்`**. Canonical page 77 and Article 2 Tamil assembly were updated; current Tamil blob is **`711b86300a3340ee73271a1cf613408905314498`**. English scan 77 was corrected to **“I was driven by the desire that I should fall into the hands of the police only at the battlefront—that is why!”** and Article 2 was revalidated at current English blob **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**. Source comments remain **41/41 PASS**, paragraph-block matching **41/41 PASS**, blockers **0**. English Articles 1–2 remain VERIFIED. Next activity remains **Article 3 `சிறை` T0 + T1**.
 
 ## Repository state
 
@@ -2193,7 +2193,7 @@ Start the **English translation layer** for Publication 12 from the frozen Tamil
 - review ledger — `publications/aaru-maatha-kadungkaaval/translations/en/TRANSLATION_REVIEW.md`
 - frozen Tamil authorities pinned — **3/3**
   - `முரசு` — `7a41617cd48f8507bc12074fb48d6016fae5cead`
-  - `களம்` — `60c155dc93a4543e267ccbca5573d6f5b70e5672`
+  - `களம்` — `711b86300a3340ee73271a1cf613408905314498`
   - `சிறை` — `0d860d48bcd666148c0a312ad296953f015225c2`
 - translation order — **1 → 2 → 3**
 - English body files — **1/3**
@@ -2273,19 +2273,19 @@ T3 sharpened sarcasm / praise cadence / widow-remarriage imagery and corrected o
 
 **Article 2 `களம்` — T0 source pin + T1 close draft.**
 
-Require frozen Tamil blob `60c155dc93a4543e267ccbca5573d6f5b70e5672`, create `publications/aaru-maatha-kadungkaaval/translations/en/02-kalam.md`, establish the working English title, preserve all source-page comments, and complete T1.
+Require frozen Tamil blob `711b86300a3340ee73271a1cf613408905314498`, create `publications/aaru-maatha-kadungkaaval/translations/en/02-kalam.md`, establish the working English title, preserve all source-page comments, and complete T1.
 
 
 ## English Article 2 — `களம்` — T0–T5 closure
 
-- frozen Tamil blob — `60c155dc93a4543e267ccbca5573d6f5b70e5672`
+- frozen Tamil blob — `711b86300a3340ee73271a1cf613408905314498`
 - T1 English blob — `78cd7094b8b57c00e6528b40c3c3768d7014971f`
 - T2 — **PASS** — 2 body corrections — `3ffc005a7e8653319a86954d42ac6d9f047e4c81`
 - T3 — **PASS** — 0 body corrections
 - T4 — **PASS** — 3 source-term corrections — `d5ac559f9a489a98b305b047ae651d97343e5f37`
 - T5 — **PASS / VERIFIED**
 - verified English title — **The Battlefield**
-- verified English blob — **`9d37041cda4a6a8808b8009b7a86ba9e3b533246`**
+- verified English blob — **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**
 - source comments — **41/41 PASS**
 - paragraph-block scan matching — **41/41 PASS**
 - omitted Tamil clauses after T2 — **0**
@@ -2301,3 +2301,14 @@ T4 source-bearing decisions include ***pokkali*** for `போக்காளி`
 **Article 3 `சிறை` — T0 source pin + T1 close draft.**
 
 Require frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2`, create `publications/aaru-maatha-kadungkaaval/translations/en/03-sirai.md`, establish the working English title, preserve all source-page comments, and complete T1.
+
+
+## Post-T5 Article 2 source correction — scan 77
+
+- user-confirmed Tamil — **`தூண்டிவிடப்பட்டேன்`**, replacing `தாண்டிவிடப்பட்டேன்`
+- corrected page — `pages/0077-kalam.md`
+- corrected Article 2 Tamil blob — **`711b86300a3340ee73271a1cf613408905314498`**
+- corrected English — **“I was driven by the desire that I should fall into the hands of the police only at the battlefront—that is why!”**
+- current Article 2 verified English blob — **`afe2d3d5ad21f823aaa1c202f7eb1e201a809588`**
+- status — **Article 2 revalidated / VERIFIED**
+- next — **Article 3 `சிறை` T0 + T1**
