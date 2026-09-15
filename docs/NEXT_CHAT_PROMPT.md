@@ -1,58 +1,77 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / English translation startup
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / Article 1 `முரசு` T0 + T1
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Tamil archival state — FROZEN
 
-Publication 12 `ஆறுமாதக் கடுங்காவல்` has completed all Tamil archival gates:
-
-- P0 — **COMPLETE / PASS**
-- P1 — **COMPLETE / PASS — 224/224**
-- P2 — **COMPLETE / PASS — 224/224 verified**
-- P2R — **COMPLETE — 224/224**
-- P3 — **COMPLETE / PASS — 3/3 article assemblies**
-- P4 — **COMPLETE / PASS**
-- P5 — **COMPLETE / PASS — 224/224**
-- P5 canonical corrections — **3**
-- P5 historical-glyph correction events — **0**
-- needs-review / blocked / guessed readings — **0 / 0 / 0**
-- unresolved fidelity discrepancies — **0**
+- P0–P5 — **COMPLETE / PASS**
+- P5 — **224/224**
+- unresolved Tamil fidelity discrepancies — **0**
 - Tamil status — **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**
+- do not modify frozen Tamil absent genuinely new direct source evidence.
 
-P5 report: `publications/aaru-maatha-kadungkaaval/VISUAL_TEXT_FIDELITY_REVIEW.md`.
+## English E0 — COMPLETE / PASS
 
-## Durable P5 corrections
+Translation identity: **project-created English translation**.
 
-1. scan **110** — `அந்த வானத்தையும்` → **`அந்தி வானத்தையும்`**
-2. scan **121** — `போராட்டத் தலைவர்` → **`போராட்டத் தலைவன்`**
-3. scan **159** — `ஜெயில் சூப்பிரின்டெண்டு:` → **`ஜெயில் சூப்பிரின்டெண்ட்:`**
+Durable English records:
 
-All three are ordinary lexical/source-fidelity corrections, not P5 historical-glyph correction events.
+- `publications/aaru-maatha-kadungkaaval/TRANSLATION_PLAN.md`
+- `publications/aaru-maatha-kadungkaaval/translations/en/README.md`
+- `publications/aaru-maatha-kadungkaaval/translations/en/SOURCE_MAP.md`
+- `publications/aaru-maatha-kadungkaaval/translations/en/LEXICON.md`
+- `publications/aaru-maatha-kadungkaaval/translations/en/TRANSLATION_REVIEW.md`
 
-The source-obscured readings at scan 18 **`ஆகிவிடக்கூடிய`** and scan 198 **`அடைந்தார்`** remain resolved by explicit user confirmation and are not guesses.
+Translation order: **முரசு → களம் → சிறை**.
 
-## Frozen Tamil reading-copy authority
+Frozen Tamil authorities:
 
-Use the P3 article assemblies as the English source layer:
+1. `முரசு` — scans **10–65** — `articles/01-murasu.md` — blob **`7a41617cd48f8507bc12074fb48d6016fae5cead`**
+2. `களம்` — scans **66–106** — `articles/02-kalam.md` — blob **`60c155dc93a4543e267ccbca5573d6f5b70e5672`**
+3. `சிறை` — scans **108–223** — `articles/03-sirai.md` — blob **`0d860d48bcd666148c0a312ad296953f015225c2`**
 
-- `publications/aaru-maatha-kadungkaaval/articles/01-murasu.md`
-- `publications/aaru-maatha-kadungkaaval/articles/02-kalam.md`
-- `publications/aaru-maatha-kadungkaaval/articles/03-sirai.md`
+Scan **224** is back-cover / publisher-device matter, not English article prose.
 
-The page records remain provenance authority. Do **not** silently change the frozen Tamil layer during English work.
+## Permanent English policy
 
-## English startup
+Read and follow `ESSAY_TRANSLATION_GUIDE.md`.
 
-English is now **READY / NOT STARTED**.
+Core rule:
 
-Before translating:
+> **Translate the language; do not neutralise the voice.**
 
-1. inspect live repository conventions for English translations in already completed essay publications;
-2. establish the correct English artifact/file layout for this publication without modifying Tamil source files;
-3. record translation identity as **project-created English translation**, unless live repository conventions require a more specific existing label;
-4. preserve article boundaries **முரசு / களம் / சிறை**;
-5. translate meaning faithfully without importing wording from web copies or alternate editions;
-6. keep source-specific names, dates, quotations, political/historical terminology and unusual source phrasing traceable to the frozen Tamil;
-7. add translation review gates consistent with the repository's existing completed-publication workflow.
+Preserve direct address, rhetorical questions, commands, repetition, sarcasm, polemical force, quotation structure, paragraph structure, dates/numbers and source-page traceability. Do not import web / OCR / alternate-edition wording.
 
-Do not activate Publication 13 `துடிக்கும் இளமை` unless the user explicitly redirects.
+Permanent source-name rule: `ஆச்சாரியார்` → **Achariyar**.
+
+## Exact activity — Article 1 `முரசு`
+
+### T0 — source prerequisite
+
+1. re-fetch `articles/01-murasu.md` from live `main`;
+2. require exact blob **`7a41617cd48f8507bc12074fb48d6016fae5cead`**;
+3. if the blob differs, stop and reconcile before translation;
+4. confirm scans **10–65** and strict-reviewed / frozen status.
+
+### T1 — close draft
+
+Create:
+
+`publications/aaru-maatha-kadungkaaval/translations/en/01-murasu.md`
+
+Requirements:
+
+- establish a working English title from the frozen Tamil; title remains reviewable until T4;
+- metadata must record the frozen Tamil blob and scans **10–65**;
+- `translation_status: "draft"`;
+- `translation_method: "close rhetorical translation preserving Kalaignar's voice"`;
+- translate the **entire article**, paragraph by paragraph;
+- preserve every ordered page comment in the form `<!-- Tamil source: scan ... -->`;
+- preserve embedded verse / slogans / quotations and their lineation;
+- retain deliberate repetition, dashes, exclamations and questions;
+- do not omit source-irregular wording merely because it sounds unusual;
+- update `LEXICON.md` with material terminology choices;
+- update `TRANSLATION_REVIEW.md` with T0/T1 provenance;
+- update `translations/en/README.md`, root `HANDOVER.md`, and this next prompt.
+
+Stop after **T1 close draft**. Do not run T2 unless explicitly proceeding to the next activity.
