@@ -13,44 +13,47 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - Tamil prerequisite — **COMPLETE / STRICT-REVIEWED / FROZEN**
 - translation identity — **project-created English translation**
 - E0 — **COMPLETE / PASS**
-- T0 — **0/4**
-- T1 — **0/4**
-- T2 — **0/4**
-- T3 — **0/4**
-- T4 — **0/4**
-- T5 — **0/4**
-- English article body files — **0/4**
-- verified English articles — **0/4**
+- T0 — **4/4 PASS**
+- T1 — **4/4 COMPLETE**
+- T2 — **4/4 PASS**
+- T3 — **4/4 PASS**
+- T4 — **4/4 PASS**
+- T5 — **4/4 VERIFIED**
+- English article body files — **4/4**
+- verified English articles — **4/4**
+- total ordered source comments — **25/25 PASS**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes during T0–T5 — **0**
+- blockers — **0**
 - E6 publication-wide consistency review — **NOT STARTED**
 - E7 release closeout — **NOT STARTED**
-- English body prose created during E0 — **0**
-- blockers — **0**
 
 ## Article tracker
 
-| # | Tamil title | Working English title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 |
-|---:|---|---|---|---|---|---|---|---|---|
-| 1 | `துடிக்கும் இளமை` | **TBD at T1/T4** | `3b2f40df8f9b1f02aaac917276b7bcf374185f21` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED |
-| 2 | `அண்ணாமலைக்கு அரோகரா!` | **TBD at T1/T4** | `3740984e52a72b514dff4fc41f54a2938d7ce793` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED |
-| 3 | `பூம்புகார்` | **TBD at T1/T4** | `9ec5a3fd12e342a92bc02dada6dcf4297214d69d` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED |
-| 4 | `வெற்றி விளக்கு!` | **TBD at T1/T4** | `26ce57fe58a5327879155bf41c132180d71dd191` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED |
+| # | Tamil title | Verified English title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 | Verified English blob |
+|---:|---|---|---|---|---|---|---|---|---|---|
+| 1 | `துடிக்கும் இளமை` | **Throbbing Youth** | `3b2f40df8f9b1f02aaac917276b7bcf374185f21` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `46c70fd2bf702a061d35b45383c8c8e0841852d9` |
+| 2 | `அண்ணாமலைக்கு அரோகரா!` | **Arohara to Annamalai!** | `3740984e52a72b514dff4fc41f54a2938d7ce793` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `1cfce7827fec69de08c98dd78edf4a06a7216a41` |
+| 3 | `பூம்புகார்` | **Poompuhar** | `9ec5a3fd12e342a92bc02dada6dcf4297214d69d` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `67649c4db83881840137073bafa24d31062fb86c` |
+| 4 | `வெற்றி விளக்கு!` | **Lamp of Victory!** | `26ce57fe58a5327879155bf41c132180d71dd191` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `083d514b93d58484f49e3193235b9631d995cd8e` |
 
-Translation order: **1 → 2 → 3 → 4**.
+Translation order completed: **1 → 2 → 3 → 4**.
 
-## E0 checkpoint
+## T0–T5 aggregate
 
-- frozen Tamil source pins — **4/4 PASS**
-- Tamil P5 authority — `../../VISUAL_TEXT_FIDELITY_REVIEW.md`
-- scans 1–4 — publication front matter / outside English article bodies
-- scans 30–33 — advertisements / promotional matter / outside English article bodies
-- article body source scans — **25/25**
-- English body files — **0/4**
-- English body prose — **0**
-- Tamil changes — **0**
+- frozen Tamil pins revalidated before drafting — **4/4**
+- T1 source comments — **8 + 7 + 5 + 5 = 25/25 ordered**
+- T2 body corrections — **6 + 4 + 4 + 2 = 16**
+- T3 body corrections — **0**
+- T4 release-blocking terminology issues — **0**
+- T5 article verification — **4/4 PASS**
+- omitted Tamil clauses after T2 — **0**
+- added substantive English claims after T2 — **0**
+- unresolved translation choices — **0**
 - blockers — **0**
 
 ## Exact next activity
 
-**Article 1 `துடிக்கும் இளமை` — T0 + T1.**
+**E6 — publication-wide English consistency review.**
 
-Refetch live `main`, verify frozen Tamil blob `3b2f40df8f9b1f02aaac917276b7bcf374185f21`, then create the complete close English draft with source-page traceability.
+Re-read all four verified English articles together against the frozen Tamil authorities and living lexicon. Check recurring ideological vocabulary, mythological names, source-bearing transliterations, work titles, title style, quoted material, page comments, tone consistency and accidental smoothing. Do not begin E7 release closeout until E6 is separately completed.
