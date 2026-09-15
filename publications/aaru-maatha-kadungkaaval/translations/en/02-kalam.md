@@ -4,7 +4,7 @@ article_number: 2
 title_ta: "களம்"
 title_en: "The Battlefield"
 source_tamil: "../../articles/02-kalam.md"
-source_tamil_blob_sha: "60c155dc93a4543e267ccbca5573d6f5b70e5672"
+source_tamil_blob_sha: "711b86300a3340ee73271a1cf613408905314498"
 source_scan_pages: "66-106"
 language: "en"
 translation_status: "verified"
@@ -131,7 +131,7 @@ On the morning of the 12th, in Madras, I took leave of mother, children and wife
 
 discussing the struggle with them, we chose another executive committee to work if the present executive committee was subjected to repression. That committee was also given authority to form yet another executive committee. Thus, with organisational method, the plans for struggle and the executive committees were selected.
 
-On the morning of the 14th I went to Tiruvarur; after taking leave there, I set out for the Lalgudi public meeting. I cannot say where I was on the 13th. I must skip over that day—that is because I wanted to be caught by the police only at the battlefront! I did not run away from the police who were looking for me. Ours is not that kind of movement! We ourselves will go and be arrested—we shall do our duty on the field—let the police do theirs: with that thought, after taking affectionate leave of friend Para at the hospital, I went straight to the public meeting at Lalgudi. On the way itself came the news that the police had arrested General Secretary Anna, Nedunchezhiyan, Sampath, Mathiazhagan and Natarasan—members of the executive committee—at the executive-committee meeting.
+On the morning of the 14th I went to Tiruvarur; after taking leave there, I set out for the Lalgudi public meeting. I cannot say where I was on the 13th. I was driven by the desire that I should fall into the hands of the police only at the battlefront—that is why! I did not run away from the police who were looking for me. Ours is not that kind of movement! We ourselves will go and be arrested—we shall do our duty on the field—let the police do theirs: with that thought, after taking affectionate leave of friend Para at the hospital, I went straight to the public meeting at Lalgudi. On the way itself came the news that the police had arrested General Secretary Anna, Nedunchezhiyan, Sampath, Mathiazhagan and Natarasan—members of the executive committee—at the executive-committee meeting.
 
 Kallakkudi no longer looked like the battlefield to me. Dravida itself seemed to have become a battlefield. News also came that
 
@@ -506,3 +506,6 @@ Asking for freedom is said to be a crime!
 
 Its punishment: six corpses! Five thousand in prison! Record it.
 
+
+
+<!-- post-T5 source correction: scan 77 Tamil `தாண்டிவிடப்பட்டேன்` → `தூண்டிவிடப்பட்டேன்`; English revised from “I must skip over that day...” to “I was driven by the desire...” and source blob repinned. -->
