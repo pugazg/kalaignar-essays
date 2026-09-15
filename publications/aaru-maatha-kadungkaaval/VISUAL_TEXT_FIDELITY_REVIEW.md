@@ -23,7 +23,7 @@ Rules:
 - current needs-review — **0**
 - current blocked — **0**
 - guessed readings — **0**
-- new P5 canonical corrections — **0**
+- new P5 canonical corrections — **1**
 - new P5 historical-glyph correction events — **0**
 - pre-P5 cumulative historical-glyph correction-event count — **20**
 
@@ -307,7 +307,7 @@ Result: **15/15 PASS / no canonical correction**.
 | 107 | PASS | blank/reverse/show-through classification reconfirmed; no independent publication text |
 | 108 | PASS | illustrated intertitle directly reconfirmed as **`சிறை`**; barred / padlocked gate remains illustration only |
 | 109 | PASS | blank/reverse/show-through classification reconfirmed; no independent publication text |
-| 110 | PASS | repeated heading **`சிறை`** and prior P2R repair **`இந்த சோகச் செய்திகளை காதில் வாங்கியபடி!`** reconfirmed; `முப்பத்தாறுபேரும்`, `என்ன ஆச்சரியம்;` retained |
+| 110 | PASS after correction | repeated heading **`சிறை`** and prior P2R repair **`இந்த சோகச் செய்திகளை காதில் வாங்கியபடி!`** reconfirmed; user-flagged opening word was rechecked from source pixels and corrected **`அந்த வானத்தையும்` → `அந்தி வானத்தையும்`**; `முப்பத்தாறுபேரும்`, `என்ன ஆச்சரியம்;` retained |
 | 111 | PASS | names / Latin initials, **`சிங்க ஏறுகளும்-கண்ணியம்-கட்டுப்பாடு`**, **`சம்பந்தப் படுத்தப்பட`**, **`வடாற்காடு மாவட்டத்`** terminal fragment reconfirmed |
 | 112 | PASS | scan-111 **`வடாற்காடு மாவட்டத்` + `தில்`** continuation; source-visible **`செல்வில்`**, **`சிறை யாத்திரை`**, **`துவங்கி விட்டது`**, quoted **`‘சென்று வருக’`** reconfirmed |
 | 113 | PASS | prior P2R repair **`அழைத்துச் சென்று - நீண்ட சிந்தனை.`** reconfirmed; **`போலீஸ்வண்டி`**, **`நலமின்றி யிருக்கிறார்`**, **`என் அப்போதே`**, terminal **`எனக்கு நானே`** retained |
@@ -337,12 +337,21 @@ The P3 assemblies were checked for representative landmarks. `articles/02-kalam.
 Batch P5-08 totals:
 
 - scans checked — **15**
-- canonical corrections — **0**
+- canonical corrections — **1**
 - new historical-glyph correction events — **0**
 - needs-review — **0**
 - blocked — **0**
 - guessed readings — **0**
 - P5 cumulative progress — **120/224**
+
+### Post-batch user correction — scan 110
+
+- user flagged the opening phrase as **`அந்தி வானத்தையும்`**, not `அந்த வானத்தையும்`.
+- scan 110 was reopened and re-inspected directly from the controlling source pixels.
+- source clearly prints **`தான், படைக்கும் அந்தி வானத்தையும் வெற்றி கொள்ளும்...`**.
+- canonical page record and `articles/03-sirai.md` were corrected from `அந்த` → **`அந்தி`**.
+- this is an ordinary lexical/source-fidelity correction, not a historical-glyph correction event.
+- cumulative P5 canonical corrections — **1**.
 
 ## Exact next activity
 
