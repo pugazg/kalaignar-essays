@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 175/224 scans complete; next 176–185; 10 scans/iteration** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 175/224 scans complete; next 176–190; 15 scans/iteration** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1866,28 +1866,27 @@ P2R progress — **165/224**. P2 remains **222 verified / 2 needs-review**. Gues
 
 ### Batch R34 — scans 166–175
 
-Batch cadence changed per user instruction: **10 physical scans per iteration from R34 onward**.
+Corrected post-audit state after explicit recheck of two line-wrap readings.
 
 | Scan | Result | Re-audit finding |
 |---:|---|---|
-| 166 | PASS after correction | `அரசாங்கத் திடம்` → source-visible `அரசாங்கத் இடம்`; headings / full page / ending confirmed |
+| 166 | PASS after correction | `அரசாங்கத் திடம்` → source-correct `அரசாங்கத்திடம்`; source wraps one lexical word as `அரசாங்கத்` + `திடம்` |
 | 167 | PASS | headings / bracketed note / historical-family examples / ending confirmed |
 | 168 | PASS | headings / Roman parentheticals / quoted `நாட் கழிவு` / ending confirmed |
 | 169 | PASS | headings / bracketed note / printed star / ending confirmed |
 | 170 | PASS | heading / source quotation practice / complete ending confirmed |
 | 171 | PASS | unusual forms / subheading / terminal `செய்யப்` confirmed |
 | 172 | PASS | scan-171 continuation / both `சொல்லில்` forms / complete ending confirmed |
-| 173 | PASS after correction | `அவர்களை அக்பர்` → source-visible `அவர்கள் அக்பர்`; open quotation at page end confirmed |
+| 173 | PASS | source-correct `அவர்களை அக்பர்` retained; source wraps `அவர்` + `களை`; open quotation at page end confirmed |
 | 174 | PASS | scan-173 quotation closure / `பகவத் சிரோமணிகளே!` / `மறு மலர்ச்சி` / ending confirmed |
 | 175 | PASS | `G. நாராயணசாமி` / `கால் மூன்றத்துக் கத்திரிக்காய்` / `தொடர்ந்தாற்போல்` / ending confirmed; scan 176 not opened |
 
-Historical-family verification added **0 new correction events**; cumulative count remains **19**. Ordinary source-fidelity corrections — **2**.
+Historical-family verification added **0 new correction events**; cumulative count remains **19**. Ordinary source-fidelity corrections — **1**.
 
-P2R progress — **175/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **176–185**.
-
+P2R progress — **175/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **176–190**.
 
 ## Exact next activity
 
-**P2R Batch R35 — scans 176–185.**
+**P2R Batch R35 — scans 176–190.**
 
-Perform the same **10-page** word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Use derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`, extract pages 27–36 = original scans 176–185. Stop after scan 185; do not process scan 186 / extract page 37.
+Perform the same **15-page** word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Use derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`, extract pages 27–41 = original scans 176–190. Stop after scan 190; do not process scan 191 / extract page 42.

@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P2R Batch R34 / full visual-fidelity re-audit scans 166–175**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **175/224 scans complete**. Per the user's updated instruction, P2R batch size is now **10 physical scans per iteration**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **P2R Batch R34 / full visual-fidelity re-audit scans 166–175**, followed by correction of two line-wrap misreads. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **175/224 scans complete**. Per the user's latest instruction, P2R batch size is now **15 physical scans per iteration** from Batch R35 onward. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
 
 ## Repository state
 
@@ -60,7 +60,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 175/224 scans complete; next 176–185; 10 scans/iteration**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 175/224 scans complete; next 176–190; 15 scans/iteration**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1878,25 +1878,23 @@ Batch R01 scans **1–5** is complete.
 
 ### Batch R34 — scans 166–175
 
-- **10/10 re-audited**; this is the first batch under the user's new **10 scans per iteration** instruction.
-- scan 166 — corrected `அரசாங்கத் திடம்` → source-visible **`அரசாங்கத் இடம்`**.
-- scans 167–172 — PASS / no canonical correction.
-- scan 173 — corrected `அவர்களை அக்பர்` → source-visible **`அவர்கள் அக்பர்`**.
-- scans 174–175 — PASS / no canonical correction.
-- scan 171 → 172 continuation `செய்யப்` + `பட்டார்.` and scan 173 → 174 open-quotation continuation were reconfirmed.
-- scan 175 complete ending was confirmed; scan 176 / extract page 27 was not opened.
-- ordinary source-fidelity corrections — **2**.
+- **10/10 re-audited**.
+- scan 166 — source-correct **`அரசாங்கத்திடம்`**. The source physically wraps the single word as `அரசாங்கத்` + `திடம்`; the earlier R34 reading `அரசாங்கத் இடம்` was wrong.
+- scans 167–175 — PASS / no other canonical correction.
+- scan 173 specifically remains source-correct **`அவர்களை அக்பர்`**. The source physically wraps `அவர்களை` as `அவர்` + historical-`ளை` `களை`; the earlier R34 change to `அவர்கள் அக்பர்` was wrong and has been reverted.
+- scan 171 → 172 continuation `செய்யப்` + `பட்டார்.` and scan 173 → 174 open-quotation continuation remain reconfirmed.
+- scan 175 complete ending was confirmed; scan 176 / extract page 27 was not opened in corrected R34.
+- ordinary source-fidelity corrections — **1**.
 - new historical-family correction events — **0**; cumulative count remains **19**.
 - P2 totals remain **222 verified / 2 needs-review**.
 - guessed readings remain **0**.
 - P2R progress — **175/224**.
 
-
 ## Exact next activity
 
-**P2R Batch R35 — physical scans 176–185.**
+**P2R Batch R35 — physical scans 176–190.**
 
-Process exactly **10 physical scans** with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract page N = original physical scan N+149, so scans 176–185 map to extract pages 27–36. Stop after scan 185; do not process scan 186 / extract page 37.
+Process exactly **15 physical scans** with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract page N = original physical scan N+149, so scans 176–190 map to extract pages 27–41. Stop after scan 190; do not process scan 191 / extract page 42.
 
 Existing source-obscured holds remain scans 18 and 198.
 
