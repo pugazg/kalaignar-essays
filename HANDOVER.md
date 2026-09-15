@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Publication 12 English E6 consistency review + E7 release closeout**. Publication 12 `ஆறுமாதக் கடுங்காவல்` is now **TAMIL ARCHIVAL COMPLETE / FROZEN + ENGLISH-TRANSLATION COMPLETE / RELEASE CLOSED**. The three verified English article authorities remain **The Drum** `d629c2b13c6d01170bd96bd5e88409a4352f61c5`, **The Battlefield** `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`, and **Prison** `103a2492d110006cea520e03efd40fb3c1a5bdbc`. E6 required **0 article-body corrections**; E7 **PASS**; English source-page comments **213/213 PASS**; blockers **0**.
+Handoff refreshed after **Publication 13 `துடிக்கும் இளமை` P2 Batch 001 — scans 1–5**. Publication 12 `ஆறுமாதக் கடுங்காவல்` remains **RELEASE COMPLETE / FROZEN** and must not be reopened for stylistic polishing. Publication 13 is now **ACTIVE — P0 PASS; P1 PASS 33/33; P2 IN PROGRESS 5/33 verified; 0 needs-review; 0 guessed readings**. The user-supplied transcription is a comparison baseline only; the supplied 1951 scan pixels remain controlling.
 
 ## Repository state
 
@@ -14,7 +14,7 @@ Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
 Publication 12 **`ஆறுமாதக் கடுங்காவல்` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 3/3 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated.
+Publication 13 **`துடிக்கும் இளமை` — ACTIVE — P0 PASS; P1 PASS 33/33; P2 IN PROGRESS 5/33 VERIFIED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Batch 001 scans 1–5 is complete; next is Batch 002 scans 6–10.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2386,5 +2386,28 @@ Do not regress the user-confirmed scan-77 correction:
 
 Do **not** reopen Publication 12 merely for stylistic polishing.
 
-Publication 13 `துடிக்கும் இளமை` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Begin P2 only after the user explicitly activates Publication 13.
+Publication 13 `துடிக்கும் இளமை` is now **ACTIVE**.
+
+### Publication 13 durable state after P2 Batch 001
+
+- workspace — `publications/thudikkum-ilamai/`
+- source — `TVA_BOK_0063985_துடிக்கும்_இளமை.pdf`
+- P0 — **PASS**
+- P1 — **PASS — 33/33**
+- P2 — **IN PROGRESS — 5/33 VERIFIED**
+- needs-review / blocked / guessed — **0 / 0 / 0**
+- source-visible price — **`ஆறணை`** (corrected from intake/baseline `ஆறணா`)
+- source-visible edition date — **`16—12—'51`**
+- scan 4 publisher note — **verified**
+- scan 5 Article 1 opening — **verified**
+- scan 5 source terminal fragment — **`பிம்பங்`**
+- historical-glyph ambiguity — **0**
+- baseline rule — user-supplied transcription may assist alignment; scan pixels control every canonical reading
+- progress authority — `publications/thudikkum-ilamai/P2_PROGRESS.md`
+
+### Exact next activity
+
+**Publication 13 P2 Batch 002 — physical scans 6–10.**
+
+Process exactly five scans. Continue Article 1 `துடிக்கும் இளமை`, compare the supplied transcription baseline against the scan word-by-word, apply the mandatory 13-family historical-glyph audit, preserve physical page boundaries, and stop after scan 10.
 
