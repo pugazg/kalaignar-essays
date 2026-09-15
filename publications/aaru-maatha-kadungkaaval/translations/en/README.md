@@ -14,7 +14,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - E0 — **COMPLETE / PASS**
 - T0 — **1/3 PASS**
 - T1 — **1/3 COMPLETE**
-- T2 — **0/3**
+- T2 — **1/3 PASS**
 - T3 — **0/3**
 - T4 — **0/3**
 - T5 — **0/3**
@@ -28,7 +28,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 
 | # | Tamil title | Working English title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|---|
-| 1 | `முரசு` | **The Drum** *(working; T4 not yet passed)* | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **PASS** | **COMPLETE / draft** | not-started | not-started | not-started | not-started |
+| 1 | `முரசு` | **The Drum** *(working; T4 not yet passed)* | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **PASS** | **COMPLETE / draft** | **PASS** | not-started | not-started | not-started |
 | 2 | `களம்` | **TBD at T1/T4** | `60c155dc93a4543e267ccbca5573d6f5b70e5672` | not-started | not-started | not-started | not-started | not-started | not-started |
 | 3 | `சிறை` | **TBD at T1/T4** | `0d860d48bcd666148c0a312ad296953f015225c2` | not-started | not-started | not-started | not-started | not-started | not-started |
 
@@ -43,6 +43,18 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - Tamil changes — **0**
 - blockers — **0**
 
+## Article 1 T2 checkpoint
+
+- T2 bilingual fidelity review — **PASS**
+- T2 English blob — `ffea867e2163d8a87763bb3fba798d467268da84`
+- body corrections — **8**
+- omitted Tamil clauses after correction — **0**
+- added substantive claims after correction — **0**
+- ordered source-page comments — **56/56 PASS**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+
 ## Permanent source boundary
 
 Use only the frozen Tamil article assemblies as normal translation authorities. Page records / controlling scans may be reopened only for punctuation, quotation, page-boundary or provenance questions.
@@ -53,4 +65,4 @@ Scan **224** is back-cover / publisher-device matter and does not belong in Arti
 
 ## Exact next activity
 
-**Article 1 — `முரசு`: T2 bilingual fidelity review.**
+**Article 1 — `முரசு`: T3 Kalaignar voice review.**
