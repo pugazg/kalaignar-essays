@@ -478,3 +478,105 @@ Comrade Sakthi, a treasure given by the Tamil people of Mallakombai near Vaniyam
 
 I reported to the General Secretary the successful public meetings held in Tiruchi and the support shown by the people. Anna gave permission to begin the agitation on July 15 and then left for the Virudhunagar conference.
 
+
+<!-- Tamil source: scan 59 / printed 56 -->
+
+In Thanjavur district there is a small village called Vengidangal. There lives a young man one could point to and say, “Here is a spring of enthusiasm”—an able man—a Santhanam whom the movement has gained. He had arranged a meeting there on June 30. Comrade S. K. Sami, I and others spoke. The inaugural function of the Nagai regional organisation was also held there. Many Tiruvarur comrades, including Karunai Jamal, had come.
+
+Jamal was one of the comrades who worked hard to make that meeting happen. Those who see friend Jamal, newly taking up movement responsibilities and doing service, are amazed and ask: “He too works like this?” This is an age in which crowds of “minors,” born in wealthy families, emerge bewitched by the dry philosophy “Life is for living!” without examining the basic question of what kind of life is to be lived and how. In such a time, people like Jamal coming forward to do movement work deserves praise—and can show a path to everyone.
+
+After the Vengidangal meeting, we went to Madras.
+
+A conference at Chidambaram—July 4 and 5, two days!
+
+<!-- Tamil source: scan 60 / printed 57 -->
+
+**The drum thundered**
+
+“Thillai—the fortress of the Dikshitars—the city of art where Deena Dayaparan, amid the roar of song, lifted his foot and danced before Kali,” devotees would describe that sacred place. Our conference there!
+
+“There are three thousand Dikshitars—and among them one is our dancing Lord,” a devotee rich in piety would say, heart melting. Our warriors there!
+
+“It was in that holy place that Nandi moved aside for Nandan, called ‘He who will go tomorrow,’ and that the red fire consumed the bodily frame, leaving the body of fame, and made even the Paraiyan by caste merge into the divine light,” says the friend of antiquity. Our great cry of equality there!
+
+An Aryan shrine at Thillai! There, a flood of devotion! A hall of knowledge—at its boundary! From there, a flood of rationalism! The new age that dawned in Annamalai Nagar—warriors singing the song that guards our land as one guards gold and one's own eyes.
+
+Nedunchezhiyan who crosses great barriers—Professor Anbazhagan—the distinguished Mathiazhagan—the richly Tamil Arangannal—lawyer Ilamvazhuthi—the youthful breeze, the powerful orator Villalan—Annamalai Nagar gave them all to the country. And there stands the sacred temple of the golden-bodied one, raised in fear that Aryanism will die because such men arise.
+
+<!-- Tamil source: scan 61 / printed 58 -->
+
+A gathering of warriors, massed like tigers, saying: look at the difference between the two!
+
+The Dravida Munnetra Kazhagam—the movement of reason that cries aloud that the stench of antiquity has been perfumed in the name of devotion and that the Tamil's life has thereby been ruined—held its conference in that very Thillai.
+
+Are Nataraja and Sivakami the finest of dancers? If so, should there not be a temple for Gopinath and Thangamani too!
+
+The mocking question arose.
+
+Does not the great lord who joins himself to the priest and wears the sacred thread become an emissary of caste? The doubt grew stronger.
+
+The man who laid down the rule that a Paraiyan can reach the feet of God only after plunging into fire was crueller than Manu—the king of that age! He was no Mahesan!
+
+Thus the volcano erupted!
+
+In the name of God—in the glory of temples—those who let religious pretenders grow and plotted to keep Aryanism swinging at the very top had to be brought down. The DMK has spread for that purpose. Thillai is one of the places where the silk flag of its youth flies high.
+
+<!-- Tamil source: scan 62 / printed 59 -->
+
+It was there that the great drum beaten by the Dravidians was engraved on the copperplate of history. With friend Balagurusamy—milk-soft face, a heart full of culture, and an eagerness whose feet run to action—as reception chairman, the South Arcot district conference met at Thillai on July 4 and 5. There the drum was beaten for three great calls to struggle!
+
+All the frontline fighters thundered.
+
+The leader of the struggle against the new education scheme—Periyar's cherished man among the great—a comrade who labours for the country through speech—through thought—through every breath—E. V. K. Sampath raised his unmistakably resonant voice and beat the drum about the picketing that would take place under his leadership before Achariyar's house, and about how the education scheme was piercing the eyes of our children!
+
+I too, as leader of the Dalmiyapuram agitation, took up the task of sounding the drum!
+
+At last came the leader of all the struggles—the treasure of this land—the guardian of classical Tamil, every atom of whose thought speaks in red blood—the king of action—the master who found in his new prose a lion's gait, the gait of a charming breeze, the gait of a surging sea, the gait of revolutionary poetry—who drives enemies away with a gentle smile and casts his gaze across the ranks of his younger brothers with a raised brow—
+
+<!-- Tamil source: scan 63 / printed 60 -->
+
+the prince! The lamp of Dravida—the flame of self-respect—gold within gold—our own unique gold—Anna rose to speak!
+
+The drums sounded as though they numbered a thousand—ten thousand—thirty thousand.
+
+“I am sending one younger brother before Achariyar's house. I am sending one younger brother to the Kallakkudi field. The field does not end with two fronts, comrades!
+
+“On July 15, when Karunanidhi stands on the field at Kallakkudi, as a sign of that struggle—and as a sign of condemnation of Nehru, who insulted the people of the South by calling them ‘nonsense’—Tamils throughout Tamil Nadu are going to stop the trains.”
+
+The moment Anna said it—was that still a conference pavilion? The clash of hand upon hand, and voices louder still, rose as though spear scraped against spear—as though sword struck sword!
+
+The hand of that Tamil commander who had turned the assembly into a sword of war rose high—his tongue beat a heroic drum—fire flared in his eyes when he said Nehru was walking the path of Kanaka and Vijaya! And water rose too, when he asked: are there on this earth arrogant men who would demean the Tamils?
+
+<!-- Tamil source: scan 64 / printed 61 -->
+
+“Thambi! Karunanidhi, must yours be a funeral procession? No, da, no—let it be a victory procession! Go, go to the battlefront!” When he blessed me thus, joy surged in my eyes—and tears surged with it. Why? Because the loving hands of my Anna had embraced my heart with such affection!
+
+We opposed Hindi in order to resist northern linguistic domination—Nehru said, “Nonsense!”
+
+Thinking him a great man, we warned him once.
+
+The Dravida Munnetra Kazhagam took part in the Tiruttani struggle. Again Nehru said, “Nonsense!”
+
+To show its condemnation, Tamil Nadu said: “Stop the trains!”
+
+Northern commercial domination—must not exist in Tamil Nadu—
+must not be allowed in Dravida—do Tamils not even have the right to give a Tamil name in the Tamil land? We said: change Dalmiyapuram to Kallakkudi. They did not listen—we said: struggle!
+
+Achariyar, the wholesale merchant here for northern imperial domination, tried to nip the growing society in the brain.
+
+<!-- Tamil source: scan 65 / printed 62 -->
+
+We announced a struggle against that too. “Go to the battlefront,” said the General Secretary! He even named the implements we must carry.
+
+The sword called Duty—the shield called Dignity—the armour called Discipline—carry all three, said Anna, that treasure of three letters!
+
+The drum thundered! “Let the Government of northern domination fall!”—the drum thundered! “Dravidians apart—no more fear!”—the drum thundered! “We shall no longer allow the army of Muttamil to be destroyed—progress to be blocked! We shall not! We shall not!”—the drum thundered! “Even if crores of enemies call us to battle, we shall meet them! We shall meet them!”—the drum thundered! Seas of blood—biting hardships—those with hearts that can bear anything have risen—and so the drum thundered! The enemy has fallen—
+
+The drum thundered!
+
+The drum thundered!!
+
+The drum thundered!!!
+
+★
+
