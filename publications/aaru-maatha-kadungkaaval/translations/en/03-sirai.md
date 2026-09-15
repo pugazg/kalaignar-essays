@@ -7,7 +7,7 @@ source_tamil: "../../articles/03-sirai.md"
 source_tamil_blob_sha: "0d860d48bcd666148c0a312ad296953f015225c2"
 source_scan_pages: "108-223"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -41,11 +41,11 @@ More than fifty comrades who went to picket before Achariyar's house in Madras, 
 
 On the 15th, N. S. Ilango—the fearless heart given by Thanjavur soil, a man whose force could drive arrogance away, commander of a joyous battle—who led the picketing struggle, and more than fifty comrades including Vedachalam, were arrested in Madras!
 
-On the 16th, under the leadership of Perur Subramaniam—a man with a firmness of mind unmoved even if a thousand hardships pile one upon another, and in North Arcot district a force unto the party—
+On the 16th—a man with a firmness of mind unmoved even if a thousand hardships pile one upon another—and, in North Arcot district,
 
 <!-- Tamil source: scan 112 / printed 109 -->
 
-more than fifty friends were arrested in the street of Achariyar's house.
+a force unto the party—Perur Subramaniam led more than fifty friends, who were arrested in the street of Achariyar's house.
 
 With our ears filled by news that the prisons were filling—overflowing—and our thoughts filled with throbbing, we sat under guard.
 
@@ -109,11 +109,11 @@ Then, as before, we were shut into the cages. Eight men in our “Black Hole of 
 
 Somehow, that night in Ariyalur jail we experienced a hardship that until then we had never touched in life. With enormous difficulty we pushed the night along.
 
-In the morning they gave us rice gruel. We took care not to let it go cold before drinking it. They locked us up again.
+In the morning they gave us rice gruel. We took care not to let it go cold before drinking it. Again—
 
 <!-- Tamil source: scan 118 / printed 115 -->
 
-That day was July 17. At the picketing before Achariyar's house in Madras, more than thirty people were arrested under the leadership of Comrade M. S. Ramasamy, the warrior given by Aruppukkottai. Kannadasan, who had been injured at Kallakkudi and was in hospital, was also arrested.
+they locked us up. That day was July 17. At the picketing before Achariyar's house in Madras, more than thirty people were arrested under the leadership of Comrade M. S. Ramasamy, the warrior given by Aruppukkottai. Kannadasan, who had been injured at Kallakkudi and was in hospital, was also arrested.
 
 We remained shut in the cage, consumed by the desire to know what was happening outside!
 
@@ -147,7 +147,7 @@ Some law—some section—apparently said so!
 
 Even if it did not say so plainly, the seat of power concealed the truth and conducted the case with the aid of law. The law had no tongue with which to ask, “Why should you not fulfil the people's demand?” Even the tongue it once had had been cut off here!
 
-But the law had the skill, through gestures—through the language of the mute—to ask a question meaning: “How dare you send such a demand?”
+But the law had the skill, through gestures—through the language of the mute—to ask a question meaning: “How can you send a demand?”
 
 <!-- Tamil source: scan 121 / printed 118 -->
 
@@ -332,11 +332,11 @@ With irrepressible pride that our feet too had now stepped upon the road of prin
 
 Do you know the first sight we saw after entering? Our comrades were waging a “gruel war.” The jailer stood there. Comrades stood around him.
 
-You may have heard of Mannargudi Narayanasamy. He is one of the “lions” the movement has gained. He has formally trained well in silambam and other arts. People now shout, “Leave cinema! Take up silambam!”—as though answering that cry, he both watches cinema and practises silambam and other physical training, standing as a strong rampart of the movement in the Mannai region. He has inner strength equal to his bodily development. From the quality called calmness he would not deviate by even an atom.
+You may have heard of Mannargudi Narayanasamy. He is one of the “lions” the movement has gained. He has formally trained well in silambam and other arts. People now shout, “Leave cinema! Take up silambam!”—as though answering that cry, he both watches cinema and practises silambam and other physical training, standing as a strong rampart of the movement in the Mannai region. He has inner strength equal to his bodily development. From the quality called calmness, not even by an atom
 
 <!-- Tamil source: scan 132 / printed 129 -->
 
-It was under his leadership that the comrades stood surrounding the jailer. The jailer was trying to pacify them.
+would he deviate. It was under his leadership that the comrades stood surrounding the jailer. The jailer was trying to pacify them.
 
 “We cannot change the Government order. The rule given to us is to serve gruel in the morning—what can I do?”
 
@@ -424,7 +424,7 @@ Deputy — Vadivelu
 
 Second Block Leader — Thanjavur Pattu
 
-Deputies — Pakkirisamy, Krishnan
+Deputy — Pakkirisamy Krishnan
 
 Third Block Leader — Mayavaram Kittappa
 
@@ -508,11 +508,11 @@ First I shall explain the routine of one day in our kingdom. I shall describe th
 
 The four block leaders would gather under the neem tree and discuss who would serve gruel that day, from which block to begin, and such duties. By then the cauldrons of gruel would arrive. Those huge cauldrons had to be carried by the criminal-prisoner comrades there; they were the ones who carried them. The citizens of each block would stand in a “queue,” receive their gruel and go. If the gruel had spoiled on any day, the four block leaders would immediately submit a report to the leader. The leader would bring it to the attention of the head warder. The jail authority would then try at once to attend to the defect.
 
-After the gruel, the citizens would gather at the bathing place. There was a water tank with room for only fifty people to bathe at one time. The Water Establishment Minister himself would stand there and take responsibility for bathing more than four hundred comfortably, while preventing the water from being wasted and ensuring that everyone could bathe.
+After the gruel, the citizens would gather at the bathing place. There was a water tank with room for only fifty people to bathe at one time. To bathe more than four hundred comfortably, while ensuring that everyone could bathe
 
 <!-- Tamil source: scan 141 / printed 138 -->
 
-He would count how many mugs each man poured over himself, run here and there keeping everyone within the limit, and make sure there was no shortage of water.
+without wasting the water, the Water Establishment Minister himself would stand there and take responsibility. He would count how many mugs each man poured over himself, run here and there keeping everyone within the limit, and make sure there was no shortage of water.
 
 We have read songs saying, “One can walk on water.” Comrade Velu demonstrated it in practice. Yes—the Water Establishment Minister! From morning until three in the afternoon he would practise walking right on top of the water tank. The parts of his body covered by his banian turned red, while all the rest turned black—he looked like a two-coloured man! Imagine the hardship he suffered.
 
@@ -550,11 +550,11 @@ Venu would run with that information. Among four hundred people he would struggl
 
 Every day the People's Assembly would begin under the leader's chairmanship. Speeches would be given on how one should conduct oneself in prison, and on the movement's duty and discipline. Each day several comrades would speak on a subject. At the end the Assembly would disperse after the leader's concluding remarks. Those who committed minor offences would also be tried before the Assembly and, according to the opinion of the majority, would apologise before the Assembly.
 
-By 5:30 in the evening the night meal would arrive. Now there would be no sorghum gruel. The quantity of rice would become a little larger.
+By 5:30 in the evening the night meal would arrive. Now there would be no sorghum gruel. The rice
 
 <!-- Tamil source: scan 145 / printed 142 -->
 
-There would be no buttermilk. A groundnut ball would come. There would be curry. The meal would end.
+portion would become a little larger. There would be no buttermilk. A groundnut ball would come. There would be curry. The meal would end.
 
 By six o'clock they would be locked into cages three by three. We who were “B” class prisoners would each be locked up separately.
 
@@ -568,11 +568,11 @@ After the comrades were locked up at six, the “head warder” would go around 
 
 **The clock is going!**
 
-At many places throughout the prison a kind of key was fixed into the walls. Once every hour the warder had to go to those places and insert that key into the clock he carried.
+At many places throughout the prison a kind of key was fixed into the walls. Once every hour the warder had to go to those places, with the clock he carried
 
 <!-- Tamil source: scan 146 / printed 143 -->
 
-That warder could not stand still anywhere. He had to keep moving while guarding. If he stopped, the clock at that place would betray him. At night we could see him walking with a lamp in his hand. By watching him we would know the hour. Perhaps that is why, when he went by in prison, they said, “The clock is going!” We too said only, “The count is coming!” “The clock is going!”
+and insert that key into it before returning. That warder could not stand still anywhere. He had to keep moving while guarding. If he stopped, the clock at that place would betray him. At night we could see him walking with a lamp in his hand. By watching him we would know the hour. Perhaps that is why, when he went by in prison, they said, “The clock is going!” We too said only, “The count is coming!” “The clock is going!”
 
 It was while our kingdom was running in this way that, in Madras, the comrades who led the righteous picketing struggle before Achariyar's house—battle-seasoned tiger-like friend Munusamy; valiant warrior V. T. Annamalai; young lion given by Erode, S. Appavu; Kanchi's treasure, veteran of many fields and the love-warrior who fills all our hearts, C. V. M. Annamalai; the lion of action, Madras A. K. Sami; North Arcot district secretary A. L. C. Krishnasamy, a man whose truth breaks the hips of hard-hearted men; Sambandam who does not fear battle; Inmozhiyaan who speaks sweet language; Jayachandran, a distinguished force at the battlefront; Natarasan who resists destruction; the tireless worker Arasu—and more than three hundred comrades—were arrested. General Secretary Anna, Nedunchezhiyan, Sampath, Mathi and Natarasan, the five, were released without condition on their own bail, and a case was filed against them.
 
@@ -690,21 +690,21 @@ Even if there is no rubbish, they must sweep.
 
 That is what is called “jail work.”
 
-They will order them to pluck out all the grass growing among rocks. It could quickly be scraped off with a spade.
+They will order them to pluck out all the grass growing among rocks. With a spade
 
 <!-- Tamil source: scan 155 / printed 152 -->
 
-If they scraped it off, there would be no work afterward. So they are told to pluck the grass. And very briskly they pluck one blade-tip each. Only then will the grass grow again the next day—and they will have work. This too is called “jail work.” There are senior officers to administer the prison and warders to supervise prisoners. All other work is done by the prisoners themselves.
+it could quickly be scraped off. If they scraped it off, there would be no work afterward. So they are told to pluck the grass. And very briskly they pluck one blade-tip each. Only then will the grass grow again the next day—and they will have work. This too is called “jail work.” There are senior officers to administer the prison and warders to supervise prisoners. All other work is done by the prisoners themselves.
 
 Prisoners who commit offences inside prison are punished by the prison authorities. Cruel punishments such as fettering the feet, handcuffing, or fastening *nila-vilangus* and making them stand in the sun are also imposed, it seems.
 
 Those who steal inside the prison, hide because they fear work, or violate prison rules are immediately subjected to punishment.
 
-They must even do the work of pulling water-lifts like cattle. However cold it becomes, they must lie down protected only by one pair of shorts, one half-sleeved shirt and a cap. Though some of us were “B” class prisoners, because we had received rigorous imprisonment
+They must even do the work of pulling water-lifts like cattle. However cold it becomes, they must lie down protected only by one pair of shorts, one half-sleeved shirt and a cap. Though some of us were “B” class prisoners, ours was rigorous imprisonment
 
 <!-- Tamil source: scan 156 / printed 153 -->
 
-we too had to wear the cap.
+as a sentence—so we too had to wear the cap.
 
 After rising in the morning, we had to sit in file, four by four. Whether going to eat—going to bathe—going to work—from morning to evening we had to sit in file many times. Failure to sit in file like that was a serious offence. Why, it might even become the offence of attempting to escape! Severe punishments could follow all that. Permission was given to bathe every day. But the clothes issued to them were washed and worn only once a week. Whether that was their laziness—or whether the prison order itself was like that, I do not know! The prison authorities are good people—so it cannot be a prison order! Once every month they could rub oil on themselves and bathe; a measured quantity of oil was given for that. Sundays were holidays. There was no work that day. But that did not mean they could roam as they wished. Each had to remain in his own place.
 
@@ -788,11 +788,11 @@ Most of the Convict Warders in Tiruchi prison are men serving life sentences. A 
 
 But because of their conduct—their reformed behaviour—their tireless labour—they can receive remission and have the opportunity to be released before the twenty years are over.
 
-Most of those serving life sentences are men who have returned from the gallows! There is a separate place for prisoners who are to go to the gallows. They call it “Kandam.” That too is a name twisted and clarified by usage. *Condemned Prison* has changed into *Kandam*. Since the man who comes there indeed has a *kandam*—a dangerous fate—the fine name fits in a way! It was in that Kandam that Anna and Periyar were once confined for ten days. Prisoners in Kandam are kept separately. Each man has a guard. A short distance nearby is the gallows. After we went there, eight offenders have attained liberation from the world through that platform. One very sad piece of news! One offender had received a life sentence. He rejected even that and appealed. On appeal he received the death sentence. You may imagine for yourselves what his condition must have been.
+Most of those serving life sentences are men who have returned from the gallows! There is a separate place for prisoners who are to go to the gallows. They call it “Kandam.” That too is a name twisted and clarified by usage. *Condemned Prison* has changed into *Kandam*. Since the man who comes there indeed has a *kandam*—a dangerous fate—the fine name fits in a way! It was in that Kandam that Anna and Periyar were once confined for ten days. Prisoners in Kandam are kept separately. Each man has a guard. A short distance nearby is the gallows. After we went there, eight offenders have attained liberation from the world through that platform. One very sad piece of news! One offender had received a life sentence. He rejected even that and appealed. On appeal he received the death sentence. What his condition must have been
 
 <!-- Tamil source: scan 163 / printed 160 -->
 
-Before he could see the sun on October 15, he had kissed the hanging rope. Five men were hanged in a single day. They were from Thozhuthur.
+you may imagine for yourselves. Before he could see the sun on October 15, he had kissed the hanging rope. Five men were hanged in a single day. They were from Thozhuthur.
 
 Convict Warders serving life sentences for murder mix very well with others inside the prison. They spend their time with a desire to reform themselves.
 
@@ -842,7 +842,7 @@ Do you wish to study? There is a school in prison!
 There is a library filled with English and Tamil books.
 You may choose the works of authors who attract your heart. You can write—read—learn. Seek the teacher and take that path—do not lose this golden opportunity. Great men have gained many ideas in prison.
 
-[Note: In practice, it is mostly political prisoners who are able to use the reading room and school.—K.]
+[Note: In practice, it is mostly political prisoners who are able to use the reading room and school.—R.]
 
 ## Clothes:
 
@@ -985,11 +985,11 @@ We have wandered somewhere again, leaving “Renaissance” behind! Just as we l
 
 Agitation—upheaval—stagnation of knowledge—religious frenzy—the unjust dance of regimes—barbarism: the newness that blooms and shines after these is affectionately called renaissance.
 
-A state of flourishing—a state of falling—a state of flourishing again. This unalterable cycle of change has gone on turning like a wheel since the day the world was born! Without going into an inquiry into the whole world, let us look briefly at how each country—and the society of that country—received its renaissance. We need not examine every country either.
+A state of flourishing—a state of falling—a state of flourishing again. This unalterable cycle of change has gone on turning like a wheel since the day the world was born! Without going into an inquiry into the whole world, let us look briefly at how each country—and the society of that country—received its renaissance. As for all countries, we
 
 <!-- Tamil source: scan 178 / printed 175 -->
 
-If we look at a few great countries, we can see the history of how they once lived with enchanting vitality, the tragic history of that flowering withering and becoming a mound of earth, and the enduring knowledge we must gain from the lesson that history gives.
+need not examine every one of them. If we look at a few great countries, we can see the history of how they once lived with enchanting vitality, the tragic history of that flowering withering and becoming a mound of earth, and the enduring knowledge we must gain from the lesson that history gives.
 
 Rome—what a country of artistic culture! Where did the lion-roar raised by Caesar and Antony wear away and disappear? Florence in Italy—the motherland of the Renaissance—the flower-garden where great poets such as Dante and Petrarch wandered—the earth created by sculptural artists such as Leonardo—why does that once-glorious Italian soil now sit veiled before the world?
 
@@ -1003,11 +1003,11 @@ At one time China had attained distinction and excellence in art, literature and
 
 unable to live before the luxurious intoxications of the palace, they staggered and fell. The guardians of that day who held the reins of the social horse were themselves intoxicated by lavish amusements. How then could a long journey be undertaken? At one time, China's pleasure-houses were capable of defeating the bedchambers of Rome in competition! There was, they say, a queen named Wei—a powerful queen. She asked a boon of the king lying upon the bed.
 
-“No objection, darling! Ask what you want,” he said. “Summon every man under our rule—and send the finest among them all to my harem,” she asked. And the king nodded. There was another man. A king of China! His name was Xing. He lived in the time of Confucius. He would scatter fragrant powder over his bed. He would summon all the prostitutes of the city and make them walk over the mattress. They would walk. Whichever woman's footprint had fallen most lightly upon that fragrant powder would be awarded a pearl necklace. Those whose feet pressed heavily were starved until their weight fell. Ah, what art-consciousness overflowing with concern! Perhaps the custom that Chinese women's feet should be delicate arose from this. Perhaps that is why the habit of binding and shaping the feet spread in China.
+“No objection, darling! Ask what you want,” he said. “Summon every man under our rule—and send the finest among them all to my harem,” she asked. And the king nodded. There was another man. A king of China! His name was Xing. He lived in the time of Confucius. He would scatter fragrant powder over his bed. He would summon all the prostitutes of the city and make them walk over the mattress. They would walk. Whichever woman's footprint had fallen most lightly upon that fragrant powder would be awarded a pearl necklace. Those whose feet pressed heavily were starved until their weight fell. Ah, what art-consciousness overflowing with concern! Perhaps the custom that Chinese women's feet should be delicate arose from this. The habit of binding and shaping the feet also spread in China
 
 <!-- Tamil source: scan 180 / printed 177 -->
 
-Confucius, that great man, tried to bury the blind customs that were destroying Chinese society. His effort ended much like the efforts of Pattinathar, Thayumanavar and Ramalingar in our country!
+—perhaps for that very reason. Confucius, that great man, tried to bury the blind customs that were destroying Chinese society. His effort ended much like the efforts of Pattinathar, Thayumanavar and Ramalingar in our country!
 
 That society, lying scorched, began to bud in the time of Sun Yat-sen! But it did not reach fullness. Protecting the bud from being blown away in the storm that struck again, Mao Tse-tung now sits as guardian of the renaissance!
 
@@ -1072,21 +1072,21 @@ While our kingdom was running without deficiency, the jewels of righteous strugg
 
 At this critical moment, a capable man like Govindasamy was needed to bear and conduct the movement's responsibilities. Having assumed responsibility, Govindasamy began to mingle with movement friends and attend vigorously to movement work as though he had lived in the movement for many years. He not only became a pillar of the movement; he also made himself an unshakable answer to parties such as the Communists and the Dravidar Kazhagam, which had been mocking the DMK's electoral policy.
 
-Our prison kingdom thrilled as it heard sweet, honey-dripping reports that the movement had won a broad place in the people's forum and a permanent place in history, and was growing with a new gait from house to house across Dravida. I have said before that our kingdom remained in fine shape for only two months and then gradually dwindled. That dwindling began. On August 24, for the first time, our kingdom began to diminish. More than twenty men, including Kattuputhur warrior Comrade Rajamanickam, left us. Over the next two days many comrades including Poraiyar Azhagappa departed the kingdom. Those departures stirred a feeling of liberation among those who remained. So that the kingdom should not lose its lustre because of those separations, the Speaking Assembly worked with still greater speed.
+Our prison kingdom thrilled as it heard sweet, honey-dripping reports that the movement had won a broad place in the people's forum and a permanent place in history, and was growing with a new gait from house to house across Dravida. I have said before that our kingdom remained in fine shape for only two months and then gradually dwindled. That dwindling began. On August 24, for the first time, our kingdom began to diminish. More than twenty men, including Kattuputhur warrior Comrade Rajamanickam, left us. Over the next two days many comrades including Poraiyar Azhagappa departed the kingdom. Those departures stirred a feeling of liberation among those who remained. So that the kingdom should not lose its lustre because of those separations, the Speaking Assembly worked
 
 <!-- Tamil source: scan 185 / printed 182 -->
 
-Within that month and a half, a few good speakers were prepared. By conducting debates on many kinds of subjects, an effort was made to develop speaking ability.
+with still greater speed. Within that month and a half, a few good speakers were prepared. By conducting debates on many kinds of subjects, an effort was made to develop speaking ability.
 
 One day the friends spoke very well on “Democracy.” Not merely speaking about it, but examining the true form of democracy—and the nature of the false leaders who roam the country in the name of democracy—is an extremely necessary task in today's circumstances.
 
 With any word, instead of being dazzled merely by its name, one must closely observe the action it performs. As an example, let us take two words: *kumbabhishekam* and robbery.
 
-When kings of old installed the principal idol in temples they built, they would heap valuable nine gems beneath it and set the idol above them. A few great men would know this secret. They would set out like great philanthropists declaring that they were going to renovate that old temple and conduct a “Jeernoddharana Maha Kumbabhishekam.” Their entire aim would be the nine gems the king of old had heaped under the principal idol. The temple repairs would proceed. Under cover of that work, the base of the principal idol would be dug up and the nine gems would reach the houses of the philanthropists.
+When kings of old installed the principal idol in temples they built, they would heap valuable nine gems beneath it and set the idol above them. A few great men would know this secret. They would set out like great philanthropists declaring that they were going to renovate that old temple and conduct a “Jeernoddharana Maha Kumbabhishekam.” Their entire aim would be the nine gems the king of old had heaped under the principal idol. The temple repairs would proceed. Under cover of that work, the base of the principal idol would be dug up and the nine gems would reach the philanthropists'
 
 <!-- Tamil source: scan 186 / printed 183 -->
 
-With a quarter of the profit spent, the kumbabhishekam would be conducted magnificently. Devotees would praise them: “Great giver! Mountain of virtue!” Behind the cool word *kumbabhishekam*, hidden robbery would proceed smoothly. There have also been a few robbers whose very trade was robbery—men who openly bore the title robber. They distributed all the things they robbed among the poor and found a special delight in it.
+houses. With a quarter of the profit spent, the kumbabhishekam would be conducted magnificently. Devotees would praise them: “Great giver! Mountain of virtue!” Behind the cool word *kumbabhishekam*, hidden robbery would proceed smoothly. There have also been a few robbers whose very trade was robbery—men who openly bore the title robber. They distributed all the things they robbed among the poor and found a special delight in it.
 
 Two words—kumbabhishekam—robbery! Robbery in the name of kumbabhishekam; and in the name of robbery, an act better than a kumbabhishekam!
 
@@ -1094,11 +1094,11 @@ Now let us think about the word democracy. Let us place together the words democ
 
 How many countries are there where dictatorship runs wild in the name of democracy! Why go far? How much evidence is needed from India itself! Did not Madras Minister Achariyar say that whether to respect a resolution passed in the Legislature depended upon his own will?
 
-Have not both people elected by the public and people who never stood before the public in an election seized ministerial chairs through the back door?
+Have not both people elected by the public and people who never stood before the public in an election seized ministerial chairs through the back
 
 <!-- Tamil source: scan 187 / printed 184 -->
 
-Was not the infant called democracy killed while still struggling for breath in Travancore-Cochin?
+door? Was not the infant called democracy killed while still struggling for breath in Travancore-Cochin?
 
 Democracy—a delightful word! In many countries of the world there are those who mix poison into it and those who stage false dramas using that word.
 
@@ -1136,11 +1136,11 @@ But we must watch with eyes and mind so that the proverb “the fence itself gra
 
 ## Love of Language—or Madness?
 
-The Speaking Assembly prepared itself to discuss new ideas, gain clarification and deliver lectures. After comrades spoke for two or three days on *Kuraloviyam*, I gave the concluding address. When I explained to the comrades the flavour of the *Kamathuppaal* of the Kural, for a few moments they forgot even that they were in prison and sank into the sky-world of the author of the Kural. One comrade, while speaking, mentioned that someone who had come to praise the Kural had said: Vamana measured the world in two steps; Valluvar too measured it in two lines.
+The Speaking Assembly prepared itself to discuss new ideas, gain clarification and deliver lectures. After comrades spoke for two or three days on *Kuraloviyam*, I gave the concluding address. When I explained to the comrades the flavour of the *Kamathuppaal* of the Kural, for a few moments they forgot even that they were in prison and sank into the sky-world of the author of the Kural. One comrade, while speaking, mentioned that someone who had come to praise the Kural had said: “Vamana measured the world in two steps; Valluvar too measured it in two lines”—
 
 <!-- Tamil source: scan 191 / printed 188 -->
 
-I commented on that. Vamana measured the world in two steps and then placed his third foot upon the head of the man Mahabali and pressed him down! But Valluvar did not climb onto the head of man. He laid down justice for man—that was how I explained it.
+so he had praised it! I commented on that. Vamana measured the world in two steps and then placed his third foot upon the head of the man Mahabali and pressed him down! But Valluvar did not climb onto the head of man. He laid down justice for man—that was how I explained it.
 
 One day we spoke on the subject “The Chair.” So many lectures like this! Does speech leave us merely because we have gone to prison?
 
@@ -1154,11 +1154,11 @@ Before examining whether there is love of language—or madness—we must unders
 
 Let us look at the condition of a prisoner being led to the gallows inside the prison. Would he have no attachment to life? As he steps toward death, can we imagine that the young breeze of dawn gives him pleasure? They say such prisoners leap about madly—sing—cry out. Here madness does not arise from perversity; it springs from the foundation of attachment.
 
-The mother who sees her little child on a deathbed—the prisoner about to surrender life—when the things to which they are attached are being taken away, they become mad. To a society, language stands higher than a child to a mother—or life to a prisoner. Who is there who does not love that language? When that attachment is cut, what is wrong in those who love it becoming mad?
+The mother who sees her little child on a deathbed—the prisoner about to surrender life—when the things to which they are attached are being taken away, they become mad. To a society, language stands higher than a child to a mother—or life to a prisoner. Who is there who does not love that language? When that attachment is cut, what
 
 <!-- Tamil source: scan 193 / printed 190 -->
 
-What is the basis for that madness? Is it not the attempt to cut away the attachment? Who does that work?
+is wrong in those who love it becoming mad? What is the basis for that madness? Is it not the attempt to cut away the attachment? Who does that work?
 
 We love our language. They cut that love and make us mad. Therefore becoming mad is not our fault—and such madness is not wrong! The Speaking Assembly came to this conclusion. Turning toward the direction where the graves of Thalamuthu and Natarajan, who gave their lives for language, lie, we offered a warrior's salute.
 
@@ -1183,11 +1183,11 @@ One day a Speaking Assembly was under way in prison. I was sitting in the middle
 
 A little while later an old man came too. He was her father, it seemed. “Father! This is Karunanidhi,” she introduced me to him. Do you know why the two of them had come there? That “nurse” apparently wanted to marry me.
 
-Suddenly she looked at me and said, “I love you!” I was startled.
+Suddenly she looked at me and said, “I love you!” I was
 
 <!-- Tamil source: scan 195 / printed 192 -->
 
-The Speaking Assembly burst into roaring laughter. Only then did shyness come to the nurse. Taking her father with her, she left. I sat there with my head bowed in embarrassment, unable to raise it. Was that the end? A quarrel between a Tamil woman and Comrade Sakthi! The Tamil woman had told her husband about Sakthi's mischief. She was somewhat young. Sakthi too was an unmarried boy! Something had gone wrong! That wicked Tamil woman turned it into a matter of laughter before the Speaking Assembly. Comrade Ramasubbiah, it seems, had taken buttermilk from her on credit and cheated her. Where would he get money in prison? She turned even that into a major charge and gave a thorough beating to the reputation for honesty of that Karaikudi man.
+startled. The Speaking Assembly burst into roaring laughter. Only then did shyness come to the nurse. Taking her father with her, she left. I sat there with my head bowed in embarrassment, unable to raise it. Was that the end? A quarrel between a Tamil woman and Comrade Sakthi! The Tamil woman had told her husband about Sakthi's mischief. She was somewhat young. Sakthi too was an unmarried boy! Something had gone wrong! That wicked Tamil woman turned it into a matter of laughter before the Speaking Assembly. Comrade Ramasubbiah, it seems, had taken buttermilk from her on credit and cheated her. Where would he get money in prison? She turned even that into a major charge and gave a thorough beating to the reputation for honesty of that Karaikudi man.
 
 Why are you putting your finger to your nose! You are wondering how women came into the prison, are you not?
 
@@ -1452,7 +1452,7 @@ History, for the first time, encountered during these five months the strange sp
 
 The movement before July 15 was one thing; the movement that had grown loftily after it was another!
 
-It had gained such a remarkable uprising in the magic by which a thousand becomes a lakh. Only after seeing that this growth could not be destroyed even by slander, arrogance or beating people away did Governor Prakasa, speaking in Thanjavur, say, “The black-flag incidents look like the Russian Revolution,” and later, speaking in Nagai, note: “Their growth must not be ignored.” It will not fail to become clear to the country that they had thought we could be destroyed merely by neglect—and that now they were changing their method of war. When we thought of all this and rejoiced, the sufferings of prison fled. It became almost a “pleasure resort” for us. “We are in prison. Outside, our movement grows. We are locked up—outside, many branch organisations are being opened.” That joy overflowed. The days passed in that happiness. On the morning of November 21, the little prison door opened. After five months
+It had gained such a remarkable uprising in the magic by which a thousand becomes a lakh. Only after seeing that this growth could not be destroyed even by slander, arrogance or beating people away did Governor Prakasa, speaking in Thanjavur, say, “The black-flag incidents look like the Russian Revolution,” and later, speaking in Nagai, note: “Their growth must not be ignored.” It will not become clearly apparent to the country that they had thought we could be destroyed merely by neglect—and that now they were changing their method of war. When we thought of all this and rejoiced, the sufferings of prison fled. It became almost a “pleasure resort” for us. “We are in prison. Outside, our movement grows. We are locked up—outside, many branch organisations are being opened.” That joy overflowed. The days passed in that happiness. On the morning of November 21, the little prison door opened. After five months
 
 <!-- Tamil source: scan 220 / printed 217 -->
 
