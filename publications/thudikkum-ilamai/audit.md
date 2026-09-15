@@ -60,16 +60,33 @@ P3 source-sensitive joins include `பிம்பங்கள்`, `உள்�
 
 ## Translation
 
-**E0 COMPLETE / PASS — article translation NOT STARTED.**
+**T0–T5 COMPLETE / PASS — 4/4 articles VERIFIED.**
 
 - translation identity — **project-created English translation**
 - frozen Tamil authority pins — **4/4 PASS**
-- translation order — **1 → 2 → 3 → 4**
-- translation-control files initialized — **5/5**
-- English article body files — **0/4**
-- English body prose created during E0 — **0**
-- Tamil source changes during E0 — **0**
+- translation order completed — **1 → 2 → 3 → 4**
+- English article body files — **4/4**
+- T0 — **4/4 PASS**
+- T1 — **4/4 COMPLETE**
+- T2 — **4/4 PASS**
+- T3 — **4/4 PASS**
+- T4 — **4/4 PASS**
+- T5 — **4/4 VERIFIED**
+- ordered source comments — **25/25 PASS**
+- T2 body corrections — **16**
+- T3 body corrections — **0**
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes during English work — **0**
 - blockers — **0**
+
+Verified English authorities:
+
+- Article 1 — **Throbbing Youth** — `46c70fd2bf702a061d35b45383c8c8e0841852d9`
+- Article 2 — **Arohara to Annamalai!** — `1cfce7827fec69de08c98dd78edf4a06a7216a41`
+- Article 3 — **Poompuhar** — `67649c4db83881840137073bafa24d31062fb86c`
+- Article 4 — **Lamp of Victory!** — `083d514b93d58484f49e3193235b9631d995cd8e`
 
 ## P2 Batch 001 — scans 1–5
 
@@ -198,6 +215,22 @@ Frozen Tamil blobs pinned:
 
 English body files created during E0 — **0**.
 
+## English article T0–T5 audit
+
+Authority: `translations/en/TRANSLATION_REVIEW.md`.
+
+Review correction totals:
+
+- Article 1 T2 — **6**
+- Article 2 T2 — **4**
+- Article 3 T2 — **4**
+- Article 4 T2 — **2**
+- T3 corrections — **0**
+- release-blocking T4 issues — **0**
+- article blockers — **0**
+
 ## Next gate
 
-**Article 1 `துடிக்கும் இளமை` — T0 source-pin revalidation + T1 close English draft only.**
+**E6 — publication-wide English consistency review.**
+
+Do not begin E7 until E6 is separately completed.
