@@ -49,6 +49,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - no global replacement or spelling modernization was used.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, numeral, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **57** / original physical scan **206**.
+- source-visible `42 ஆகஸ்டு`, `நிலைக்கண்ணாடிக்கு நோக`, `ராசமான்`, `தடியடிக்காளாயினர்`, `தேனினுமினிய`, and terminal `நான் சிறிது ஓய்வுபெற்றேன்.` were reconfirmed without normalization.
+- paper toning / age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `நிலைக்கண்ணாடிக்கு`, `கண்ணதாசனும்`, `அண்ணாமலை` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 206 was fully compared with source pixels.

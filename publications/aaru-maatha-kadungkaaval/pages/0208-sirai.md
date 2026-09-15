@@ -50,6 +50,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no contextual completion or lexical modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from derivative extract page **59** / original physical scan **208**.
+- source-visible `அக்டோபர் 15ம் நாள்`, `கோவைக் கத்தரி அழுதார்கள்`, `தேத்துவிட`, `மல்லிக்கோட்டை ரத்தினம்`, `எதிராஜ்!`, and terminal `கல்லக்குடி படை` were reconfirmed without normalization.
+- blue/purple diagonal physical-copy strokes and paper toning remain non-publication layer and do not obscure canonical wording.
+- mandatory historical-family verification was repeated; `விளையாட்டிலும்`, `கண்ணீர்விட`, `காலையிலே`, `மாலை` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 208 was fully compared with source pixels.

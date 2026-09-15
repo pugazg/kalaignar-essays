@@ -42,6 +42,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or lexical modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, Roman-script token, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **58** / original physical scan **207**.
+- source-visible `Bat`, `கடலை உருண்டைகளை யெல்லாம்`, `துவரையை இழந்து`, `கட்சி-`, `தானவே`, and terminal `அவ்வளவு கஷ்டப்பட்டு விளையாடுவார்.` were reconfirmed.
+- paper toning / isolated age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `வலைபோலக்`, `வலையைத்`, `விளையாட்டும்` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 207 was fully compared with source pixels.

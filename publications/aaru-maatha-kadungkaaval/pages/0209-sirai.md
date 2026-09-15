@@ -21,7 +21,7 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 
 சில நேரங்களில் “ஸ்பெஷல் இன்டர்வியூ”களும் வாங்கலாம்.
 
-முதல் நாள் இரவு படுக்கும்போதே - காலையில் ‘இன்டர்வியூ’ பார்க்கலாம் என்ற இன நினைவுடன் படுப்போம்.
+முதல் நாள் இரவு படுக்கும்போதே - காலையில் ‘இன்டர்வியூ’ பார்க்கலாம் என்ற இன்ப நினைவுடன் படுப்போம்.
 
 காலையிலும் சுறு சுறுப்பாக எழுவோம். முக, அலங்காரம் முதலியன செய்து கொண்டு - வெள்ளை உடைகள்
 
@@ -47,6 +47,17 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - representative sensitive clusters including `கண்மணிகளே`, `சிறையில்`, `காலையில்`, and `வெள்ளை` were checked by character identity.
 - unresolved historical-glyph ambiguity — **0**.
 - no global replacement or spelling modernization was used.
+
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and page-boundary fragments was rechecked directly from derivative extract page **60** / original physical scan **209**.
+- direct source-text correction: `என்ற இன நினைவுடன் படுப்போம்.` → **`என்ற இன்ப நினைவுடன் படுப்போம்.`**.
+- scan-208 terminal `கல்லக்குடி படை` + this page's opening `வரிசை` continuation, source punctuation in `முக, அலங்காரம்`, `ஸ்பெஷல் இன்டர்வியூ`, and terminal `வெள்ளை உடைகள்` were otherwise reconfirmed.
+- faint blue/purple physical-copy strokes and paper toning remain non-publication layer.
+- mandatory historical-family verification was repeated; `கண்மணிகளே`, `காலையில்`, `வெள்ளை` and the full 13-family set were checked by character identity.
+- ordinary source-fidelity corrections on this scan — **1**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS after source-fidelity correction**.
 
 ## P2 நிலை
 

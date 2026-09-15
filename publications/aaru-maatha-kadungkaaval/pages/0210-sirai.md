@@ -44,6 +44,17 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no name was supplied from external knowledge or contextual expectation.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, Latin initial / degree, punctuation mark, meaningful spacing, running header, visible folio and terminal list fragment was rechecked directly from derivative extract page **61** / original physical scan **210**.
+- opening `அணிந்து` continues scan 209's `வெள்ளை உடைகள்`; the long visitor/name list, Roman initials/degrees, source commas and line-breaks were rechecked directly without external-name normalization.
+- source-visible `மணுக்காரன்`, `இளமவழுதி M. A. B. L.,`, `B. A. Hon.`, `பேபி கந்தசாமி M.P,`, and terminal `ராதா` were reconfirmed.
+- paper toning / scattered age marks remain non-publication layer.
+- mandatory historical-family verification was repeated; `வண்ணமிருப்போம்`, `அண்ணா`, `கண்ணதாசன்`, `மன்னை`, `கலைவாணர்` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 210 was fully compared with source pixels.
