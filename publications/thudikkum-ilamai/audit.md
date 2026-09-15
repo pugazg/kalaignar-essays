@@ -229,8 +229,30 @@ Review correction totals:
 - release-blocking T4 issues — **0**
 - article blockers — **0**
 
+## E6 publication-wide English consistency review
+
+**COMPLETE / PASS**
+
+Authority: `translations/en/E6_CONSISTENCY_REVIEW.md`.
+
+- articles reviewed — **4/4**
+- English body corrections — **0**
+- verified English blobs changed — **0/4**
+- source comments — **25/25 PASS**
+- recurring ideological vocabulary — **PASS**
+- religious / mythological name house style — **PASS**
+- source-bearing transliterations — **PASS**
+- literary-work titles / author names — **PASS**
+- quotation / dialogue / verse treatment — **PASS**
+- title style — **PASS**
+- unwanted academic distancing — **0**
+- untranslated Tamil body leakage — **0**
+- unresolved consistency defects — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+
 ## Next gate
 
-**E6 — publication-wide English consistency review.**
+**E7 — English release closeout.**
 
-Do not begin E7 until E6 is separately completed.
+Release-state verification only; no stylistic reopening.
