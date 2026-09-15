@@ -4,9 +4,9 @@ article: "03-poompuhar"
 title: "பூம்புகார்"
 source_scans: "20-24"
 printed_pages: "scan 20 folio not visible; scans 21-24 show folios 21-24"
-status: "source-complete"
+status: "strict-reviewed"
 language: "ta"
-assembly_method: "assembled verbatim from verified canonical P2 page records"
+assembly_method: "assembled verbatim from verified canonical P2 page records; P5 strict visual fidelity rechecked against source scans"
 ---
 
 # பூம்புகார்
@@ -63,3 +63,13 @@ assembly_method: "assembled verbatim from verified canonical P2 page records"
 - modernization / paraphrase — **0**
 - unresolved assembly issues — **0**
 - result — **P3 COMPLETE / PASS**
+
+## P5 strict visual-fidelity revalidation
+
+- all contributing source scans reopened directly at P5 — **PASS**;
+- canonical P2 page records compared word-by-word / punctuation-by-punctuation — **PASS**;
+- P5 body corrections required — **0**;
+- source wording / punctuation / historical type identity changed at P5 — **0**;
+- page-boundary joins revalidated — **PASS**;
+- unresolved fidelity discrepancies — **0**;
+- status — **STRICT-REVIEWED / FROZEN TAMIL AUTHORITY**.
