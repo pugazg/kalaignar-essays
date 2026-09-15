@@ -999,3 +999,122 @@ Chinese society, which had been in that condition, now stands in prosperous bloo
 
 At one time China had attained distinction and excellence in art, literature and painting, and later decayed. Why? Art was not created for the people—to reflect the condition of society—but was turned into an object of amusement for crown-bearers. Sculptural and literary feeling could not stand before sensual feeling—
 
+<!-- Tamil source: scan 179 / printed 176 -->
+
+unable to live before the luxurious intoxications of the palace, they staggered and fell. The guardians of that day who held the reins of the social horse were themselves intoxicated by lavish amusements. How then could a long journey be undertaken? At one time, China's pleasure-houses were capable of defeating the bedchambers of Rome in competition! There was, they say, a queen named Wei—a powerful queen. She asked a boon of the king lying upon the bed.
+
+“No objection, darling! Ask what you want,” he said. “Summon every man under our rule—and send the finest among them all to my harem,” she asked. And the king nodded. There was another man. A king of China! His name was Xing. He lived in the time of Confucius. He would scatter fragrant powder over his bed. He would summon all the prostitutes of the city and make them walk over the mattress. They would walk. Whichever woman's footprint had fallen most lightly upon that fragrant powder would be awarded a pearl necklace. Those whose feet pressed heavily were starved until their weight fell. Ah, what art-consciousness overflowing with concern! Perhaps the custom that Chinese women's feet should be delicate arose from this. Perhaps that is why the habit of binding and shaping the feet spread in China.
+
+<!-- Tamil source: scan 180 / printed 177 -->
+
+Confucius, that great man, tried to bury the blind customs that were destroying Chinese society. His effort ended much like the efforts of Pattinathar, Thayumanavar and Ramalingar in our country!
+
+That society, lying scorched, began to bud in the time of Sun Yat-sen! But it did not reach fullness. Protecting the bud from being blown away in the storm that struck again, Mao Tse-tung now sits as guardian of the renaissance!
+
+Two countries—two lessons!
+
+Rome—lived and decayed! Has not yet blossomed again!
+China—collapsed—now flourishes! That is renaissance!
+
+We? We people of Dravida Nadu?
+
+We lived—we fell—we have raised our heads again! Three stages—stages that come one after another! The third stage is one we must protect from falling again!
+
+I shall explain the three stages with one or two examples. Even if the many countries of the world established their distinction in those days through the rulers who wielded the sceptre, we must not forget the artistic skill, literary abundance and scientific knowledge that stood hidden behind that sceptre.
+
+<!-- Tamil source: scan 181 / printed 178 -->
+
+England may have gained greatness through kings. But the lamp of fame lit by Shakespeare has a flame that will never go out. Just as France calls Napoleon to mind, it also calls to mind the playwright Molière. When we look at the story of Holland becoming a republic, William of Orange stands before us. The Dutch master painter Rembrandt too follows Holland's fame like a shadow.
+
+Thus in every country literature, art, painting and sculpture competed with rule itself and won for that country a fame whose greenness did not fade. Along with rule, they have also made those countries into desert earth. We can see the same condition in our own Dravida.
+
+The rushing waterfall—the flying parrot—the deer leaping with beauty—the tiger overflowing with fury: these alone were painted in pictures.
+
+In those days a heroic lineage ruled the country!
+
+Then—a lotus in the rushing waterfall! Lakshmi upon the lotus petal! Manmatha on the flying parrot! The deer leaping with beauty—Rama chasing that magical deer—a Purana for him!
+
+In later days devotees governed the country! This was the second stage—the state of having lived and then decayed!
+
+One day Purananuru was in the hand—the next day Puranas and epics became literature—and today sweetness called novelty is budding through every letter!
+
+<!-- Tamil source: scan 182 / printed 179 -->
+
+The painter who rejoiced in painting the peacock that, pouring beauty through a thousand blue eyes, dances in desire on seeing the clouds—the artist who heightened its beauty—also placed Murugan upon that peacock.
+
+Today's world of painting has begun, by means of the brush, to grant the peacock its freedom: bring the spear down from that plumed peacock and say, “Dance, peacock, dance!”
+
+That is the gateway through which the breeze carrying the fragrance of renaissance enters.
+
+“Let us praise the moon—let us praise the moon.
+Let us praise the sun—let us praise the sun,”
+
+began the Tamil voice; then it was stained into “Let us praise the crescent-bearing madman.” Now the stained society opens its eyes—and from its very foundation the poet cries, “Long live the moon! Long live the red-rayed sun!”
+
+Dravida is in the condition of a musician whose throat has gone hoarse.
+
+The renaissance movement is running toward it carrying medicine. At its front stands Anna!
+
+The musician's damaged voice will be set right!
+A rain of delight will fall!
+
+There—renaissance is dawning. In that star of dawn, the lofty society we dream of is going to shine.
+
+<!-- Tamil source: scan 183 / printed 180 -->
+
+## Democracy
+
+When writing about prison life, I could not avoid mentioning the Speaking Assembly of our kingdom. Once I mention it, I must explain the subjects discussed there. Without my noticing, that explanation turns into an essay. I place it before you in the hope that even that may be useful.
+
+While our kingdom was running without deficiency, the jewels of righteous struggle and the workers imprisoned in Madras were being released one after another. Since Anna and the two deputy secretaries, Nedunchezhiyan and Mathiazhagan, were in prison, Comrade Govindasamy, M.L.A., assumed the responsibility of looking after the movement's affairs. One may call this an important stage in the history of our movement. Comrade Govindasamy had stood against Congress in the general election, signed the Dravida Munnetra Kazhagam's agreement document, obtained its support, and won the garland of victory. In Tamilagam, where a few political frauds roam about who forget the people in the intoxication of jail and become petty men in the frenzy for office, Govindasamy lashes them with the golden whip of his own action. All the important men of the movement were inside prison cages! The few activists outside were touring the whole country at lightning speed.
+
+<!-- Tamil source: scan 184 / printed 181 -->
+
+At this critical moment, a capable man like Govindasamy was needed to bear and conduct the movement's responsibilities. Having assumed responsibility, Govindasamy began to mingle with movement friends and attend vigorously to movement work as though he had lived in the movement for many years. He not only became a pillar of the movement; he also made himself an unshakable answer to parties such as the Communists and the Dravidar Kazhagam, which had been mocking the DMK's electoral policy.
+
+Our prison kingdom thrilled as it heard sweet, honey-dripping reports that the movement had won a broad place in the people's forum and a permanent place in history, and was growing with a new gait from house to house across Dravida. I have said before that our kingdom remained in fine shape for only two months and then gradually dwindled. That dwindling began. On August 24, for the first time, our kingdom began to diminish. More than twenty men, including Kattuputhur warrior Comrade Rajamanickam, left us. Over the next two days many comrades including Poraiyar Azhagappa departed the kingdom. Those departures stirred a feeling of liberation among those who remained. So that the kingdom should not lose its lustre because of those separations, the Speaking Assembly worked with still greater speed.
+
+<!-- Tamil source: scan 185 / printed 182 -->
+
+Within that month and a half, a few good speakers were prepared. By conducting debates on many kinds of subjects, an effort was made to develop speaking ability.
+
+One day the friends spoke very well on “Democracy.” Not merely speaking about it, but examining the true form of democracy—and the nature of the false leaders who roam the country in the name of democracy—is an extremely necessary task in today's circumstances.
+
+With any word, instead of being dazzled merely by its name, one must closely observe the action it performs. As an example, let us take two words: *kumbabhishekam* and robbery.
+
+When kings of old installed the principal idol in temples they built, they would heap valuable nine gems beneath it and set the idol above them. A few great men would know this secret. They would set out like great philanthropists declaring that they were going to renovate that old temple and conduct a “Jeernoddharana Maha Kumbabhishekam.” Their entire aim would be the nine gems the king of old had heaped under the principal idol. The temple repairs would proceed. Under cover of that work, the base of the principal idol would be dug up and the nine gems would reach the houses of the philanthropists.
+
+<!-- Tamil source: scan 186 / printed 183 -->
+
+With a quarter of the profit spent, the kumbabhishekam would be conducted magnificently. Devotees would praise them: “Great giver! Mountain of virtue!” Behind the cool word *kumbabhishekam*, hidden robbery would proceed smoothly. There have also been a few robbers whose very trade was robbery—men who openly bore the title robber. They distributed all the things they robbed among the poor and found a special delight in it.
+
+Two words—kumbabhishekam—robbery! Robbery in the name of kumbabhishekam; and in the name of robbery, an act better than a kumbabhishekam!
+
+Now let us think about the word democracy. Let us place together the words democracy—dictatorship—kumbabhishekam—robbery.
+
+How many countries are there where dictatorship runs wild in the name of democracy! Why go far? How much evidence is needed from India itself! Did not Madras Minister Achariyar say that whether to respect a resolution passed in the Legislature depended upon his own will?
+
+Have not both people elected by the public and people who never stood before the public in an election seized ministerial chairs through the back door?
+
+<!-- Tamil source: scan 187 / printed 184 -->
+
+Was not the infant called democracy killed while still struggling for breath in Travancore-Cochin?
+
+Democracy—a delightful word! In many countries of the world there are those who mix poison into it and those who stage false dramas using that word.
+
+In England, Charles's head was cut off, Cromwell's parliamentary rule continued for a time, monarchy returned again, the king's power was restrained, and Parliament began to rule the country. But was that Parliament representative of the people? It sounds sweet enough to hear that Parliament had restrained the king's power. But the truth hidden within it is terribly frightening!
+
+In the House of Commons in England in 1793, there were apparently 306 members. All of them together were elected by a total of 160 voters. You ask what a wonder it is that 306 people were elected by 160? That was a wonder of the seventeenth century—here in the twentieth century, people not elected by anyone at all become ministers in India, in the name of democratic rule! What a magnificent wonder this is! Is it not a greater wonder than robbing through a kumbabhishekam?
+
+<!-- Tamil source: scan 188 / printed 185 -->
+
+Do you think I have equated kumbabhishekam and democracy? There are kumbabhishekams conducted with good intention and praised by devotees too! What we set out to examine was not the nature of kumbabhishekam, but the objective of those who conduct it. A word sweet to devotees is used for the drama of destroyers. The sweet word “democracy” is also ruined by religious fanatics. There is a monkey that tears apart a beautiful flower-garland; there is also a lover who places it around his beloved's neck and rejoices. If democracy is in the position of the garland and the rulers in the position of the monkey, whom can that democracy serve?
+
+Cruelties are carried out in the name of democracy. An easy example—a plain-as-a-gooseberry-on-the-palm example—India!
+
+Good things too may blossom in the name of dictatorship! Just as we saw a robber helping the poor.
+
+As an example—for the moment, let us take Egypt itself! Let us also look at Stalin's Russia!
+
+If dictatorship means one man plucking every flower in the garden—claiming the right to pluck them—and saying, “I shall crush and throw away the flowers I plucked,” then if the plucked flowers become a well-made garland and adorn the beautiful portrait called the people's forum—
+
