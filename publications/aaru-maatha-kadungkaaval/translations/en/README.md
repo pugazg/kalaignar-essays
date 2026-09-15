@@ -12,13 +12,13 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - Tamil prerequisite — **COMPLETE / STRICT-REVIEWED / FROZEN**
 - translation identity — **project-created English translation**
 - E0 — **COMPLETE / PASS**
-- T0 — **0/3**
-- T1 — **0/3**
+- T0 — **1/3 PASS**
+- T1 — **1/3 COMPLETE**
 - T2 — **0/3**
 - T3 — **0/3**
 - T4 — **0/3**
 - T5 — **0/3**
-- English article files — **0/3**
+- English article files — **1/3**
 - verified English articles — **0/3**
 - E6 publication-wide consistency review — **NOT STARTED**
 - E7 release closeout — **NOT STARTED**
@@ -28,9 +28,20 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 
 | # | Tamil title | Working English title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|---|
-| 1 | `முரசு` | **TBD at T1/T4** | `7a41617cd48f8507bc12074fb48d6016fae5cead` | not-started | not-started | not-started | not-started | not-started | not-started |
+| 1 | `முரசு` | **The Drum** *(working; T4 not yet passed)* | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **PASS** | **COMPLETE / draft** | not-started | not-started | not-started | not-started |
 | 2 | `களம்` | **TBD at T1/T4** | `60c155dc93a4543e267ccbca5573d6f5b70e5672` | not-started | not-started | not-started | not-started | not-started | not-started |
 | 3 | `சிறை` | **TBD at T1/T4** | `0d860d48bcd666148c0a312ad296953f015225c2` | not-started | not-started | not-started | not-started | not-started | not-started |
+
+## Article 1 T1 checkpoint
+
+- English file — `01-murasu.md`
+- frozen Tamil blob — `7a41617cd48f8507bc12074fb48d6016fae5cead`
+- T1 English blob — `a94630638fa194290e0761259131cc4548d429e4`
+- working title — **The Drum**
+- `translation_status: draft`
+- ordered source-page comments — **56/56 PASS**
+- Tamil changes — **0**
+- blockers — **0**
 
 ## Permanent source boundary
 
@@ -42,4 +53,4 @@ Scan **224** is back-cover / publisher-device matter and does not belong in Arti
 
 ## Exact next activity
 
-**Article 1 — `முரசு`: T0 source prerequisite and T1 close draft.**
+**Article 1 — `முரசு`: T2 bilingual fidelity review.**
