@@ -602,3 +602,265 @@ That historically famous case too came somehow to an end.
 
 Charged with inciting the agitations, all five received three months' simple imprisonment.
 
+<!-- Tamil source: scan 149 / printed 146 -->
+
+The judgment was delivered on the first day of September.
+
+The five had supposedly incited it! So they were put in cages.
+
+Who did the inciting? What is the proper answer to that question? The people's forum points out who did the inciting! But they roam outside!!
+
+The Dravida Munnetra Kazhagam incited the agitation. All right—we shall accept that! Who incited the movement to agitate?
+
+Who said “nonsense” and incited the pulse of the Tamils?
+
+Who erased the name Kallakkudi and incited Tamil opposition?
+
+Who brought in the new education scheme and incited unrest throughout the country?
+
+There is a great mill belonging to workers. Sacks of sugar are stacked there. The sight of it burns the stomachs of a few. They send men to set fire to the mill. The fire is lit. The mill burns! Seeing it, public-spirited workers set out—
+
+<!-- Tamil source: scan 150 / printed 147 -->
+
+they pour water and put out the fire in the mill. The fire dies. The next morning dawns. The wicked man who sent people to set the fire goes to the workers.
+
+“Did you see, worker friends? These sinners called public workers poured water and dissolved all the sacks of sugar you had stacked—so, for your sake, I am going to file a case against them,” he says.
+
+The man who wanted to burn the mill to ash says: the men who came to put it out dissolved the sacks of sugar—therefore they are the criminals!
+
+They poured out fires called northern imperialism, arrogant speech and the new education scheme. The Dravida Munnetra Kazhagam resisted because the country would be reduced to ash. The Government filed a case and punished us saying that these men had dissolved the sack of sugar called public convenience!
+
+The Government in the place of the fire-setter! We in the place of the extinguisher! Public convenience like the sack of sugar! Our country like the mill that can manufacture many such sacks of sugar!
+
+<!-- Tamil source: scan 151 / printed 148 -->
+
+A verdict must now be given—after thinking it through to the end!
+
+Those who hold the law in their hands cannot do it! It is an awkward task for them! Only those who have honesty in their hearts can do it—and the time when they will constitute a court of justice is drawing near!
+
+Such courts have appeared suddenly—in countries where fire-setters had appeared!
+
+We live in days when men who went to prison wield the sceptre, and men who wielded sceptres go to prison.
+
+It was while we were in prison that those tidings too reached us.
+
+From the land of Iran—news came on the first day: the Shah fled—Mossadegh won! On the third day came the news: Mossadegh arrested—the Shah dancing!
+
+The lion of Kashmir who had been roaring—Sheikh Abdullah—Prime Minister one day, arrested the next. Ceylon Prime Minister Senanayake, unable to avoid complications, said he needed treatment and rest—and stepped down from the seat of government!
+
+<!-- Tamil source: scan 152 / printed 149 -->
+
+Thus storms are blowing in the countries around us. We see it! But here a few *khudas* do not understand that subtlety and imagine this imperial authority to be eternal!
+
+When parasitic growths attack even good trees—will these cactus forests survive and live?
+
+It was with that consolation full of hope that we somehow endured the cruelty of Anna and five thousand people being imprisoned—even while we ourselves were in prison!
+
+Now let us pay a little attention to the condition of our kingdom.
+
+Did I not mention that the prison had every facility, almost like a village?
+
+You read that there was a laundry—a workshop—a school—gardens—and so on, did you not? Let me first explain them a little.
+
+It is true that there is a laundry.
+
+The moment you hear “laundry,” you naturally imagine that all prisoners can send their clothes there and have them washed often—is that not so? That is exactly where you are wrong!
+
+<!-- Tamil source: scan 153 / printed 150 -->
+
+When a film shows a laundry and shows heaps of clothes being washed there, we may simply sit and watch it. In the same way one can only watch and enjoy the laundry inside the prison. They do not wash the clothes of all prisoners there. Only the uniforms of convict warders, hospital linen and the clothes of “B” class prisoners are washed.
+
+There is a factory. As far as Tiruchi jail is concerned, weaving is the principal industry. An order is issued that each prisoner must produce so many yards a day. Most of the bandage cloth needed for hospitals and made in Tiruchi is used not only in Tiruchi jail but in prisons throughout the Province and in Government hospitals.
+
+Similarly, in prisons throughout the Province, important goods are produced through the labour of prisoners.
+
+The iron goods, large vessels, aluminium plates and tumblers made in Salem jail are used by all prisons in the Province. The remainder is used by other Government institutions.
+
+<!-- Tamil source: scan 154 / printed 151 -->
+
+In Coimbatore jail, bedsheets and uniform cloth for warders, police and others are made and supplied to all prisons; the remainder goes to Government officers. The sandals and boots made at Vellore are used by Government officers and all prisons. Fine blankets are made at Rajahmundry jail.
+
+Thus major trades and petty trades alike are carried on by prison inmates themselves. Many pieces of furniture in Government offices were made by prisoners in jails!
+
+A printing press has been set up in Madras jail, and printing needs for all the prisons are attended to there.
+
+Convicted prisoners cannot remain without work. Some among them must do scavenging work too. There is a group called the “sweeping gang,” full of prisoners. They must keep cleaning the whole prison.
+
+Even if there is no rubbish, they must sweep.
+
+That is what is called “jail work.”
+
+They will order them to pluck out all the grass growing among rocks. It could quickly be scraped off with a spade.
+
+<!-- Tamil source: scan 155 / printed 152 -->
+
+If they scraped it off, there would be no work afterward. So they are told to pluck the grass. And very briskly they pluck one blade-tip each. Only then will the grass grow again the next day—and they will have work. This too is called “jail work.” There are senior officers to administer the prison and warders to supervise prisoners. All other work is done by the prisoners themselves.
+
+Prisoners who commit offences inside prison are punished by the prison authorities. Cruel punishments such as fettering the feet, handcuffing, or fastening *nila-vilangus* and making them stand in the sun are also imposed, it seems.
+
+Those who steal inside the prison, hide because they fear work, or violate prison rules are immediately subjected to punishment.
+
+They must even do the work of pulling water-lifts like cattle. However cold it becomes, they must lie down protected only by one pair of shorts, one half-sleeved shirt and a cap. Though some of us were “B” class prisoners, because we had received rigorous imprisonment
+
+<!-- Tamil source: scan 156 / printed 153 -->
+
+we too had to wear the cap.
+
+After rising in the morning, we had to sit in file, four by four. Whether going to eat—going to bathe—going to work—from morning to evening we had to sit in file many times. Failure to sit in file like that was a serious offence. Why, it might even become the offence of attempting to escape! Severe punishments could follow all that. Permission was given to bathe every day. But the clothes issued to them were washed and worn only once a week. Whether that was their laziness—or whether the prison order itself was like that, I do not know! The prison authorities are good people—so it cannot be a prison order! Once every month they could rub oil on themselves and bathe; a measured quantity of oil was given for that. Sundays were holidays. There was no work that day. But that did not mean they could roam as they wished. Each had to remain in his own place.
+
+When I first said that the prison was like a village, all those who thought, “Pooh—is that all?” now feel a little shiver, do they not?
+
+But there are also some who have made such a prison their very land of life.
+
+<!-- Tamil source: scan 157 / printed 154 -->
+
+A man coming to prison for the first time is called a “white cap.”
+
+A man who has come many times is called a “black cap.”
+
+There is no shortage of black caps in prison. There are plenty.
+
+In Tiruchi I even saw a prisoner who had been in prison from childhood.
+
+Our block “head warder” had apparently seen him as a small boy in the juvenile offenders' prison school at Thanjavur—Borstal School.
+
+He might now be fifty years old. Since he had suffered from scrofula and recovered, they called him “Kandamaal.”
+
+They say his mother gave birth to him in prison. Prisoners there said that in roughly fifty years he could not have spent even five years in the outside world. You yourselves may infer how experienced in prison those inmates must have been to know so much about him! But do not ask me alone how I came to know! I am only a political white cap!
+
+<!-- Tamil source: scan 158 / printed 155 -->
+
+Black caps pass their time easily in prison—using old experience! It is the white caps who suffer greatly!
+
+One may ask: should prison be royal luxury without suffering? There must be suffering! First-time prisoners are people who must be warned. Therefore the Government must immediately concern itself with reducing their hardship somewhat and giving concessions in food and other matters. This Government will not concern itself! If it had been concerned for their welfare outside, why would so many become prisoners? In a prison where there were a thousand in the white man's days, are there not now nearly three thousand!
+
+Is not the marvellous Government now in office the one that cuts schools down to three hours and increases the prison population threefold!
+
+Within three days of my entering prison, the jailer sent for me. He gave me some papers typed in English and said, “Translate these into Tamil—in your style.” I wrote them in Tamil. I was a prisoner under rigorous imprisonment—one must not refuse! What I wrote, my artist friend P. T. Rajan of Mayavaram painted beautifully in colour on the wall in the place inside the prison
+
+<!-- Tamil source: scan 159 / printed 156 -->
+
+called “Quarantine.” I believe that if you read them, all the prison's facilities, laws and rules will become clear. Before you read them, let me note a few more details about the prison. Who the prison officials are—and how the prisoners are supervised—are things worth knowing, are they not?
+
+## Jail Superintendent:
+
+The entire administration of the prison is entrusted to his responsibility. His monthly salary can be up to five hundred rupees.
+
+## Jailer:
+
+His monthly salary is about three hundred rupees. He stands next to the Superintendent in prison authority. The responsibility of opening the prison in the morning belongs to him.
+
+## Deputy Jailer:
+
+From the title of the post itself, it is clear that he too holds the honour immediately below the Jailer.
+
+There are one or two other posts as well, such as Camp Jailer and Interview Deputy Jailer.
+
+<!-- Tamil source: scan 160 / printed 157 -->
+
+## Chief Warder:
+
+He is the authority over all warders and head warders. In Tiruchi jail there is a place called the “Tower.” It is like the heart of the prison! The Chief Warder stays there and conducts business.
+
+## Head Warder:
+
+The prison is divided into five or six large blocks, and there are several head warders. The full responsibility for each large block rests with them.
+
+## Warder:
+
+They wear a blue cap and khaki shirt. Like the head warders, their caps have two zari stripes. Their monthly salary, including allowance, comes to less than fifty rupees. They suffer in a condition where they cannot properly maintain a family. If they received adequate pay and could live a full life, they would perform their duty with still greater enthusiasm. When Congressmen were in prison, they said the salaries of head warders and warders should be increased. After coming to power they forgot so many things—this is one of them! I have already pointed out that if these rulers understood that the average man does not commit wrong when his needs are met, the prisoner population could not have grown this much.
+
+<!-- Tamil source: scan 161 / printed 158 -->
+
+## “Kaanikkai” Warder:
+
+Next in rank after the warders in prison are the “kaanikkai warders.” They receive no salary. They have white clothes and a white cap. Warders can leave after their work ends; these men cannot. The reason is that their work never ends. “Kaanikkai warder” is a puzzle to you, is it not?
+
+The term Convict Warder has twisted, worn down and clarified itself into “Kaanikkai Warder.” This is an office gained in prison by prisoners sentenced to more than three or four years, through good conduct.
+
+A long-sentence prisoner can gradually rise to the post of supervisor. That office is called “Overseer.” White cap, shorts and half-sleeved shirt are his uniform. Many prisoners are supervised under his eye.
+
+Little by little the Overseer is promoted, given a fine white cap, white coat and long white stockings, and becomes a Convict Warder. The Overseer must be locked into a cage at night. The Convict Warder—that is, the prisoner-warder—need not be locked into a cage. But at night, in turns and according to a fixed timetable, he must stand guard in the blocks and near the walls.
+
+<!-- Tamil source: scan 162 / printed 159 -->
+
+Most of the Convict Warders in Tiruchi prison are men serving life sentences. A life sentence means twenty years!
+
+But because of their conduct—their reformed behaviour—their tireless labour—they can receive remission and have the opportunity to be released before the twenty years are over.
+
+Most of those serving life sentences are men who have returned from the gallows! There is a separate place for prisoners who are to go to the gallows. They call it “Kandam.” That too is a name twisted and clarified by usage. *Condemned Prison* has changed into *Kandam*. Since the man who comes there indeed has a *kandam*—a dangerous fate—the fine name fits in a way! It was in that Kandam that Anna and Periyar were once confined for ten days. Prisoners in Kandam are kept separately. Each man has a guard. A short distance nearby is the gallows. After we went there, eight offenders have attained liberation from the world through that platform. One very sad piece of news! One offender had received a life sentence. He rejected even that and appealed. On appeal he received the death sentence. You may imagine for yourselves what his condition must have been.
+
+<!-- Tamil source: scan 163 / printed 160 -->
+
+Before he could see the sun on October 15, he had kissed the hanging rope. Five men were hanged in a single day. They were from Thozhuthur.
+
+Convict Warders serving life sentences for murder mix very well with others inside the prison. They spend their time with a desire to reform themselves.
+
+Those who killed in drunken frenzy—those who killed wives who broke chastity—those who killed co-sharers—those who committed murder in land disputes—those driven into murderous rage by the harassment of enemies—these are the kinds most commonly seen in prisons.
+
+Is twenty years an ordinary sentence? If the prisoner is young, youth full of beauty and charm ends inside the prison; only after he has crossed forty does the prison give birth to him outside!
+
+If a man already beyond youth receives life imprisonment, the prison spits him outside as a husk of a man at an age when he can no longer enjoy life's pleasures! Compared with life imprisonment, the death sentence is far better!
+
+<!-- Tamil source: scan 164 / printed 161 -->
+
+But if prisoners serving life sentences come out as new human beings and labour for a principle that prevents murderous frenzy, they can remove the blame brought by one killing through saving many lives. Instead, if on coming out they stand twisting their moustaches and slapping their shoulders, saying, “No one should wag a tail at me—I am a man who went to jail in a murder case,” that is neither valour nor wisdom! It can only be considered the shout of cowardice.
+
+We seem to have come to speak about one thing and wandered somewhere into a chapter of preaching. Let us return to our place. We now understand, to some extent, the officials in the prison. We have also learned the condition of those punished for murder. There are also people involved in robbery, forgery, pickpocketing and cheating the Government. Among the prisoners now in Tiruchi jail, by far the largest group—more than half the population—keeping the total at three thousand without reduction, like a stream of traffic—are those involved in illicit-liquor cases. If a hundred liquor-case prisoners are released today, a hundred and fifty enter tomorrow. The stinking spectacle of the Congress Government's “prohibition” becomes nakedly clear only when one sees the prison.
+
+<!-- Tamil source: scan 165 / printed 162 -->
+
+Because of prohibition, not only is there a loss of seventeen crores of rupees in tax revenue; where will the waste in salaries for prohibition police, the money spent catching illicit distillers, and the expense of feeding those prisoners in jail all end? Even after spending all this, if we ask whether the law remains unbroken—the answer is no. Alas, poor thing! Piece by piece—scale by scale—atom by atom—the prohibition law keeps being torn apart and thrown into the pit of death.
+
+A great class has now been produced that could raise a revolutionary flag and cry, “Withdraw prohibition! Otherwise the new cottage industry of illicit liquor will be ruined!”
+
+Such is the splendid condition of the “prohibition” law. Is this not excellent testimony to the skill of the machinery of Government administration?
+
+For a country to prosper, merely making laws is not enough! People capable of enforcing them must sit in authority. Until that condition arises, eyewash laws are certainly of no use. The number of offenders for illicit distilling overflowing Tiruchi prison and other prisons reminds even slow minds of this truth.
+
+<!-- Tamil source: scan 166 / printed 163 -->
+
+Ah! Once again we have wandered somewhere else!
+
+Whatever subject I take up and explain, in the end it comes to rest with the Government—what can I do! Those who rule are responsible for the country's good and evil. So there is nothing surprising in our ending up there.
+
+All right, let us return to the prison. I said earlier that the prison's rules, regulations and facilities had been written in the “Quarantine” outside for incoming prisoners. If you read this, you will obtain, as far as possible, full details about prison. Then we shall continue our story. Here—read! This is what I translated and Rajan painted on the wall!
+
+## Remember!
+
+This is the “Quarantine.” You will be kept here for ten days. Here you and your fellow prisoners will be protected from disease. Cooperate with the doctors in carrying out their duty. They labour to remove illness.
+
+## Pay Attention!
+
+What work do you prefer? Carpentry? Weaving? Tailoring? Bookbinding? Cultivation? Mat-weaving? Choose what you need. Tell the prison officer the work you did outside and the work you prefer here. He will give you suitable work.
+
+<!-- Tamil source: scan 167 / printed 164 -->
+
+## Precious Time—Golden Opportunity!
+
+Do you wish to study? There is a school in prison!
+There is a library filled with English and Tamil books.
+You may choose the works of authors who attract your heart. You can write—read—learn. Seek the teacher and take that path—do not lose this golden opportunity. Great men have gained many ideas in prison.
+
+[Note: In practice, it is mostly political prisoners who are able to use the reading room and school.—K.]
+
+## Clothes:
+
+You will be given two pairs of clothes and one bedding set. The clothes must be used for up to nine months. If you keep them clean and able to last beyond the prescribed period, there is special remission for that. We encourage this concession. Do not forget that deliberately wasting clothes is punishable. We are certain you will follow the first instruction.
+
+## Interviews and Letters:
+
+Everyone will be permitted to meet friends and relatives once every fifteen days, to write letters twice a month, and to receive incoming letters. Special concessions too will be given. But do not forget that this concession is only for the person who behaves with dignity.
+
+<!-- Tamil source: scan 168 / printed 165 -->
+
+## Remission:
+
+Remission means reducing the period of your sentence. Those sentenced to rigorous imprisonment for three months or more may earn two days for good conduct and two days for good work—a total of four days' reduction per month. In addition, if for twelve continuous months no offence is committed, fifteen days are reduced from the sentence. Strive for it and obtain the maximum benefit. Only those who perform useful work have the opportunity to receive days of remission.
+
+## Promotion:
+
+Prisoners are divided into several classes. They too have promotions.
+
+A good worker with sixty days' remission and excellent character may be promoted to night watchman or to supervisor of workers. The night watchman receives five days' reduction per month from the sentence, and the supervisor six days. A person who has served for six months in either of these two categories can be promoted to the higher office called prisoner warder—Convict Warder. They receive eight days' remission each month. But one must prove oneself good, trustworthy and honest. You will surely wish for the chance to obtain this.
+
