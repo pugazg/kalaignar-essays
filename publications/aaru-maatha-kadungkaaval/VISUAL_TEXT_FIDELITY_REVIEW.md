@@ -609,3 +609,21 @@ Publication-level final gate:
 **English translation startup — READY / NOT STARTED.**
 
 Tamil P0–P5 is complete and frozen. English work may now begin as a separate layer; do not alter the frozen Tamil archival text unless genuinely new direct source evidence requires an explicit reopening.
+
+
+## Post-freeze correction — scan 77 — user confirmed
+
+After P5 closure, the user explicitly corrected scan **77 / printed 74**:
+
+- prior canonical reading — `தாண்டிவிடப்பட்டேன்`
+- corrected canonical reading — **`தூண்டிவிடப்பட்டேன்`**
+- correction type — **lexical/source-fidelity correction**
+- historical-glyph event — **no**
+- canonical page record updated — `pages/0077-kalam.md`
+- Article 2 assembly updated — `articles/02-kalam.md`
+- corrected Article 2 Tamil blob — **`711b86300a3340ee73271a1cf613408905314498`**
+- English Article 2 revalidated against the corrected source.
+- P5 batch correction count remains **3** because this correction was discovered **after P5 closure**.
+- post-freeze canonical corrections — **1**
+- unresolved fidelity discrepancies after propagation — **0**
+- Tamil status — **re-frozen after explicit correction**.
