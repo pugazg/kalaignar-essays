@@ -33,7 +33,7 @@ transcription_method: "direct visual comparison with source scan"
 
 ஒரே குற்றம் - இரண்டுவித தண்டனை!
 
-போராட்டத் தலைவர் என்ற முறையில் எனக்கும்- என்னுடன் சேர்ந்த நால்வருக்கும் ஆறு மாதம்!
+போராட்டத் தலைவன் என்ற முறையில் எனக்கும்- என்னுடன் சேர்ந்த நால்வருக்கும் ஆறு மாதம்!
 
 ## அச்சு அமைப்பு
 
@@ -69,3 +69,11 @@ transcription_method: "direct visual comparison with source scan"
 ## P2 நிலை
 
 **verified** — scan 121 was fully compared with source pixels.
+
+## P5 visual-fidelity correction — Batch P5-09
+
+- scan 121 was re-inspected directly from the controlling source pixels during P5.
+- source clearly prints **`போராட்டத் தலைவன் என்ற முறையில்`**.
+- canonical correction: `போராட்டத் தலைவர்` → **`போராட்டத் தலைவன்`**.
+- correction type — ordinary lexical/source-fidelity correction; **not** a historical-glyph correction event.
+- `articles/03-sirai.md` and P5 controls were updated in the same pass.
