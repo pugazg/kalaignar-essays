@@ -6,13 +6,13 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P5 Final Batch P5-13 / scans 196–224**. P5 final strict visual fidelity is **COMPLETE / PASS — 224/224** and the Tamil archival layer is **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**. Final scans 196–224 are **29/29 PASS** with **0 new canonical corrections**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. Cumulative P5 canonical corrections remain **3** (scan 110 `அந்தி`; scan 121 `தலைவன்`; scan 159 `சூப்பிரின்டெண்ட்`). Scan 198's obscured cluster remains the prior explicit user-confirmed `அடைந்தார்`, not a P5 guess. All **3/3** article assemblies are synchronized. English E0 is **COMPLETE / PASS**. Article 1 **`முரசு` T0 PASS / T1 COMPLETE**: frozen Tamil blob `7a41617cd48f8507bc12074fb48d6016fae5cead` was re-fetched exactly, the full scans 10–65 article was drafted as **The Drum**, all **56/56** ordered source-page comments were preserved, and Tamil changed **0**. T1 English blob is `a94630638fa194290e0761259131cc4548d429e4`. Next is **Article 1 T2 bilingual fidelity review**. Publication 13 remains queued.
+Handoff refreshed after **P5 Final Batch P5-13 / scans 196–224**. P5 final strict visual fidelity is **COMPLETE / PASS — 224/224** and the Tamil archival layer is **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**. Final scans 196–224 are **29/29 PASS** with **0 new canonical corrections**, **0 new historical-glyph correction events**, **0 needs-review**, **0 blocked**, and **0 guessed readings**. Cumulative P5 canonical corrections remain **3** (scan 110 `அந்தி`; scan 121 `தலைவன்`; scan 159 `சூப்பிரின்டெண்ட்`). Scan 198's obscured cluster remains the prior explicit user-confirmed `அடைந்தார்`, not a P5 guess. All **3/3** article assemblies are synchronized. English E0 is **COMPLETE / PASS**. Article 1 **`முரசு` T0 PASS / T1 COMPLETE / T2 PASS**. T2 compared the full scans 10–65 draft against frozen Tamil and made **8 fidelity corrections**; omitted Tamil clauses and added substantive English claims are now **0**. T2 English blob is `ffea867e2163d8a87763bb3fba798d467268da84`; **56/56** source comments remain ordered; Tamil changed **0**. Next is **Article 1 T3 Kalaignar voice review**. Publication 13 remains queued.
 
 ## Repository state
 
 Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
-Publication 12 **`ஆறுமாதக் கடுங்காவல்` — TAMIL ARCHIVAL COMPLETE / FROZEN — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 PASS 224/224; English E0 PASS; Article 1 `முரசு` T0 PASS / T1 COMPLETE; T2 NEXT**.
+Publication 12 **`ஆறுமாதக் கடுங்காவல்` — TAMIL ARCHIVAL COMPLETE / FROZEN — P0 PASS; P1 PASS; P2 PASS 224/224; P2R COMPLETE 224/224; P3 PASS 3/3; P4 PASS; P5 PASS 224/224; English E0 PASS; Article 1 `முரசு` T0 PASS / T1 COMPLETE / T2 PASS; T3 NEXT**.
 
 Publication 13 **`துடிக்கும் இளமை` is QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 33/33; P2 NOT STARTED**. Source classification is **ESSAYS / ARTICLES**, not public speeches. Verified body inventory: `துடிக்கும் இளமை` scans 5–12; `அண்ணனுக்கு அரசா!` 13–19; `பூம்புகார்` 20–24; `வெற்றி விளக்கு!` 25–29. Do not start P2 for Publication 13 until this queued source is explicitly activated; Publication 12 remains the active workflow.
 
@@ -64,7 +64,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P3 — **COMPLETE / PASS — 3/3 article assemblies (`முரசு`, `களம்`, `சிறை`)**
 - P4 — **COMPLETE / PASS — source audit / completeness review**
 - P5 — **COMPLETE / PASS — 224/224 — visual-text-fidelity complete**
-- English — **E0 COMPLETE / PASS; T0 1/3 PASS; T1 1/3 COMPLETE; 1/3 draft; Article 1 `முரசு` T2 next**
+- English — **E0 COMPLETE / PASS; T0 1/3 PASS; T1 1/3 COMPLETE; T2 1/3 PASS; 1/3 draft; Article 1 `முரசு` T3 next**
 
 ## Mandatory startup
 
@@ -2202,7 +2202,7 @@ Start the **English translation layer** for Publication 12 from the frozen Tamil
 
 ### Exact next activity
 
-**Article 1 — `முரசு` — T2 bilingual fidelity review.**
+**Article 1 — `முரசு` — T3 Kalaignar voice review.**
 
 Re-fetch frozen Tamil blob `7a41617cd48f8507bc12074fb48d6016fae5cead` and T1 English blob `a94630638fa194290e0761259131cc4548d429e4`. Compare paragraph-by-paragraph and clause-by-clause for omissions, additions, names, numbers, quotations, negatives, connectors, repetitions, rhetoric and all 56 source-page comments. Record every T2 correction. Do not begin T3 unless separately directed.
 
@@ -2226,3 +2226,24 @@ Material T1 review items carried forward to T2–T4: working title **The Drum**;
 ### Next activity
 
 **Article 1 `முரசு` — T2 bilingual fidelity review only.**
+
+
+## English Article 1 — `முரசு` — T2
+
+- result — **PASS**
+- frozen Tamil blob — `7a41617cd48f8507bc12074fb48d6016fae5cead`
+- T1 English blob — `a94630638fa194290e0761259131cc4548d429e4`
+- T2 English blob — **`ffea867e2163d8a87763bb3fba798d467268da84`**
+- body corrections — **8**
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- source comments — **56/56 PASS**
+- Tamil body leakage — **0**
+- Tamil changes — **0**
+- blockers — **0**
+
+T2 corrections cover restored `மழவர்கள்`, source-bearing `தரித்திர நாராயணர்கள்`, source `பொறுமையை`, the Siddhartha/Ashoka quotation relation, removal of an unsupported scan-54 causal gloss, restoration of source-visible `பொன்னை சந்தி`, and scan-61 action syntax.
+
+### Next activity
+
+**Article 1 `முரசு` — T3 Kalaignar voice review only.**
