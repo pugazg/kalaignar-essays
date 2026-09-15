@@ -13,7 +13,7 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 
 # அச்சு உரை
 
-‘குவாரண்டைன்’ என்னுமிடத்தில் அழகிய முறையில் வண்ணத்தால் சுவற்றில் தீட்டிக் கொடுத்திருக்கிறார். அவைகளைப் படித்துப்பார்த்தால் சிறையில் உள்ள வசதிகள் - சட்ட திட்டங்கள் எல்லாமே தெளிவாகும் என்று நம்புகிறேன். நீங்கள் அவைகளைப் படிப்பதற்கு முன்பு சிறையைப் பற்றிய இன்னும் சில விபரங்களைக் குறிப்பிட்டு விடுகிறேன். சிறை அதிகாரிகள் யார் யார் என்பதும் - கைதிகள் எப்படிக் கண்காணிக்கப்படுகிறது என்பதும் தெரிந்துகொள்ள வேண்டியவை யல்லவா?
+‘குவாரண்டைன்’ என்னுமிடத்தில் அழகிய முறையில் வண்ணத்தால் சுவற்றில் தீட்டிக் கொடுத்திருக்கிறார். அவைகளைப் படித்துப்பார்த்தால் சிறையில் உள்ள வசதிகள் - சட்ட திட்டங்கள் எல்லாமே தெளிவாகும் என்று நம்புகிறேன். நீங்கள் அவைகளைப் படிப்பதற்கு முன்பு சிறையைப் பற்றிய இன்னும் சில விபரங்களைக் குறிப்பிட்டுவிடுகிறேன். சிறை அதிகாரிகள் யார் யார் என்பதும் - கைதிகள் எப்படிக் கண்காணிக்கப்படுகிறது என்பதும் தெரிந்துகொள்ள வேண்டியவை யல்லவா?
 
 ## ஜெயில் சூப்பிரின்டெண்டு:
 
@@ -36,7 +36,7 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - extract page **10** = physical scan **159**.
 - opening `‘குவாரண்டைன்’` directly continues scan 158's terminal `சிறையிலுள்ள`.
 - source-visible subheads `ஜெயில் சூப்பிரின்டெண்டு:`, `ஜெயிலர்:`, and `டிப்டி ஜெயிலர்:` were preserved.
-- source-visible forms including `சுவற்றில்`, `படித்துப்பார்த்தால்`, `வேண்டியவை யல்லவா`, `ஐநூறு`, `சூப்பரின்டெண்டுக்கு`, `கெளரவம்`, and `இரண்டொரு` were preserved without normalization.
+- source-visible forms including `சுவற்றில்`, `படித்துப்பார்த்தால்`, `குறிப்பிட்டுவிடுகிறேன்`, `வேண்டியவை யல்லவா`, `ஐநூறு`, `சூப்பரின்டெண்டுக்கு`, `கெளரவம்`, and `இரண்டொரு` were preserved without normalization.
 - page ends with complete `பதவிகள் இருக்கின்றன.`.
 
 ## அச்சு அல்லாத / physical-copy marks
@@ -52,6 +52,19 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
+
+## P2R visual-fidelity re-audit — Batch R32
+
+- every printed word, numeral, subheading, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **10** / original physical scan **159**.
+- scan 158 terminal `சிறையிலுள்ள` → this page’s opening `‘குவாரண்டைன்’` continuation was reconfirmed.
+- direct source-spacing correction: `இன்னும் சில விபரங்களைக் குறிப்பிட்டு விடுகிறேன்.` → **`இன்னும் சில விபரங்களைக் குறிப்பிட்டுவிடுகிறேன்.`**. Enlarged source pixels show `குறிப்பிட்டு` + `விடுகிறேன்` printed as one joined lexical form.
+- subheads `ஜெயில் சூப்பிரின்டெண்டு:`, `ஜெயிலர்:`, and `டிப்டி ஜெயிலர்:` and source-visible forms including `சுவற்றில்`, `படித்துப்பார்த்தால்`, `வேண்டியவை யல்லவா`, `ஐநூறு`, `சூப்பரின்டெண்டுக்கு`, `கெளரவம்`, and `இரண்டொரு` were otherwise reconfirmed.
+- paper toning / scattered age specks remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `சிறையைப்`, `வரையிலே`, `காலையில்`, `யல்லவா` and the full 13-family set were checked by character identity.
+- ordinary source-fidelity corrections on this scan — **1**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS after source-fidelity correction**.
+
 
 ## P2 நிலை
 

@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **155/224**
-- completed range — **1–155**
-- next range — **156–160**
+- re-audited — **160/224**
+- completed range — **1–160**
+- next range — **161–165**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **19**
@@ -739,8 +739,33 @@ Ordinary source-fidelity corrections in Batch R31 — **0**.
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
 
+## Batch R32 — scans 156–160
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 156 | body / folio 153 | PASS after correction | `மாலைவரையில்` → source-visible `மாலை வரையில்`; scan-155 continuation / both `File` tokens / complete ending confirmed |
+| 157 | body / folio 154 | PASS | quotation marks / `(Borstal School)` / double stop / unusual source forms / complete ending confirmed |
+| 158 | body / folio 155 | PASS | full text / quotation punctuation / terminal `சிறையிலுள்ள` confirmed; no canonical correction |
+| 159 | body / folio 156 | PASS after correction | scan-158 continuation; `குறிப்பிட்டு விடுகிறேன்.` → source-visible `குறிப்பிட்டுவிடுகிறேன்.`; all three role subheads confirmed |
+| 160 | body / folio 157 | PASS | three role headings / complete body text / physical-copy speck exclusion / complete ending confirmed; scan 161 not opened |
+
+Historical-family findings:
+
+- scan 156 — `எண்ணெய்` (`ணை`) and full-family check;
+- scan 157 — `கண்டமாலை` (`லை`), `வெள்ளைக்`, `அவனை`;
+- scan 158 — `மாறுகிறார்கள்` (`றா`), `வெள்ளைக்`, `கைதியாயிற்றே`;
+- scan 159 — `சிறையைப்`, `வரையிலே`, `காலையில்` and full-family check;
+- scan 160 — `தலைமை` / `சிறையில்` / `நிலைமையிலே` (`லை`);
+- all 13 tracked families were explicitly checked on every scan by character identity;
+- new historical-family correction events — **0**; cumulative count remains **19**.
+
+Ordinary source-fidelity corrections in Batch R32 — **2**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
+
 ## Exact next activity
 
-**Batch R32 — physical scans 156–160.**
+**Batch R33 — physical scans 161–165.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Use derivative extract pages **7–11** for original scans **156–160**. Stop after scan **160**; do not process scan 161 / extract page 12.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Use derivative extract pages **12–16** for original scans **161–165**. Stop after scan **165**; do not process scan 166 / extract page 17.

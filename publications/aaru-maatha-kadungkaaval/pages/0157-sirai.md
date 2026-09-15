@@ -53,6 +53,18 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R32
+
+- every printed word, quotation mark, punctuation mark, meaningful spacing, running header, visible folio, Roman parenthetical and complete ending was rechecked directly from derivative extract page **8** / original physical scan **157**.
+- source quotation marks around `“வெள்ளைக் குல்லாய்”` / `“கருப்புக் குல்லாய்”`, single quotes around `‘ஹெட் வார்டர்’`, Roman `(Borstal School)`, and double stop `குறைவேயில்லை..` were reconfirmed exactly.
+- source-visible forms including `கைதியை யும்`, `இளங் குற்றவாளிகள்`, `கண்டமாலை`, `குணமடைந்தவனைப்படியால்`, `கண்டமால்`, and `அனுபவஸ்தர்களாயிருக்க` were preserved without normalization.
+- the faint blue left-margin physical-copy stroke and scattered age marks remain non-publication layer.
+- mandatory historical-family verification was repeated; `கண்டமாலை` (`லை`), `வெள்ளைக்` / `அவனை` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 157 placeholder was replaced only after full direct source-pixel transcription and audit.

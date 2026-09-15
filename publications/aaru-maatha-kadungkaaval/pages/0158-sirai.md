@@ -44,6 +44,19 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R32
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from derivative extract page **9** / original physical scan **158**.
+- source-visible forms including `கருப்புக்குல்லாக்கள்`, `நல் வாழ்வுக்கு`, `மூவாயிரம்`, `அதியற்புத`, `கூப்பிட்டனுப்பினார்-`, `தண்டனைபெற்ற`, and `கைதியாயிற்றே` were reconfirmed without normalization.
+- single quotes around `‘டைப்’`, the double-quoted instruction, and the semicolon after `எடுத்துக்கொண்டிருந்தால்;` were retained exactly.
+- exact terminal physical fragment `சிறையிலுள்ள` was preserved; scan 159 begins `‘குவாரண்டைன்’...`.
+- paper toning / scattered age specks remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `வெள்ளைக்`, `மாறுகிறார்கள்` (`றா`), `கைதியாயிற்றே`, `மாயவரம்` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 158 placeholder was replaced only after full direct source-pixel transcription and audit.

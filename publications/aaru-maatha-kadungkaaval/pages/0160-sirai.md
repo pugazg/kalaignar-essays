@@ -49,6 +49,19 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R32
+
+- every printed word, role heading, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **11** / original physical scan **160**.
+- role headings `சீப் வார்டர்:`, `ஹெட் வார்டர்:`, and `வார்டர்:` were reconfirmed exactly.
+- source-visible forms including `காரிய மாற்றுவார்`, `ஹெட்வார்டர்கள்`, `இவர்களிடமே யிருக்கிறது`, `ஜரிகைக்`, `அலவன்ஸ்`, `பூரிப்பான`, and `பெருகி யிருக்கமுடியாது` were preserved without normalization.
+- the dark round speck below the running-header rule and scattered paper marks remain non-publication layer.
+- page ends with complete `முன்பே குறிப்பிட்டிருக்கிறேன்.`; **scan 161 / extract page 12 was not opened or processed in Batch R32**.
+- mandatory historical-family verification was repeated; `தலைமை` / `சிறையில்` / `நிலைமையிலே` (`லை`) and `கைதிகளின்` were checked directly, with the full 13-family set verified by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 160 placeholder was replaced only after full direct source-pixel transcription and audit.

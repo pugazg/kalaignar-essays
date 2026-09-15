@@ -38,7 +38,7 @@ Direct native inspection established:
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 155/224 scans; next 156–160**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 160/224 scans; next 161–165**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -832,8 +832,23 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - P2R progress — **155/224**
 
 
+### Batch R32 — scans 156–160
+
+- scans 156–160 — **5/5 re-audited**
+- scan 156 — `மாலைவரையில்` → **`மாலை வரையில்`**
+- scans 157–158 — PASS / no canonical correction
+- scan 159 — `குறிப்பிட்டு விடுகிறேன்.` → **`குறிப்பிட்டுவிடுகிறேன்.`**
+- scan 160 — PASS; role headings / complete text / ending reconfirmed; scan 161 not opened
+- ordinary source-fidelity corrections — **2**
+- new historical-glyph correction events — **0**
+- cumulative historical-glyph correction-event count — **19**
+- P2 totals remain **222 verified / 2 needs-review**
+- guessed readings remain **0**
+- P2R progress — **160/224**
+
+
 ## Exact next activity
 
-**P2R Batch R32 — scans 156–160.**
+**P2R Batch R33 — scans 161–165.**
 
-Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract pages **7–11** map to original scans **156–160**. Stop after scan 160; do not process scan 161 / extract page 12.
+Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract pages **12–16** map to original scans **161–165**. Stop after scan 165; do not process scan 166 / extract page 17.

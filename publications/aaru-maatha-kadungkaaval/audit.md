@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 155/224 scans complete; next 156–160** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 160/224 scans complete; next 161–165** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1834,8 +1834,23 @@ Historical-family verification added **2 new correction events** — historical 
 P2R progress — **155/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **156–160**.
 
 
+### Batch R32 — scans 156–160
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 156 | PASS after correction | `மாலைவரையில்` → source-visible `மாலை வரையில்`; scan-155 continuation / `File` tokens / ending confirmed |
+| 157 | PASS | quotations / Roman parenthetical / double stop / unusual source forms / ending confirmed |
+| 158 | PASS | complete text / punctuation / terminal `சிறையிலுள்ள` confirmed |
+| 159 | PASS after correction | scan-158 continuation; `குறிப்பிட்டு விடுகிறேன்.` → `குறிப்பிட்டுவிடுகிறேன்.`; role subheads confirmed |
+| 160 | PASS | role headings / complete text / physical-copy speck exclusion / ending confirmed; scan 161 not opened |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **19**. Ordinary source-fidelity corrections — **2**.
+
+P2R progress — **160/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **161–165**.
+
+
 ## Exact next activity
 
-**P2R Batch R32 — scans 156–160.**
+**P2R Batch R33 — scans 161–165.**
 
-Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Use derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`, extract pages 7–11 = original scans 156–160. Stop after scan 160; do not process scan 161 / extract page 12.
+Perform the same five-page word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Use derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`, extract pages 12–16 = original scans 161–165. Stop after scan 165; do not process scan 166 / extract page 17.
