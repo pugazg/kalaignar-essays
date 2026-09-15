@@ -46,6 +46,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, punctuation mark, meaningful spacing, running header, visible folio, page-boundary fragment and complete terminal phrase was rechecked directly from derivative extract page **67** / original physical scan **216**.
+- opening `கெல்லாம்` directly continues scan 215's terminal `இந்தச் சிறு சந்தடிகளுக்`; source-visible `விடுதலைப்படையின்`, `விபீஷணச் செயல்களையும்`, `ஒழிக்கப்படடாகவேண்டும்`, `மாசேவின்`, and terminal `இதை அவர்` were reconfirmed without editorial repair.
+- paper toning / small age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `விடுதலைப்படையின்`, `அண்ணாவின்`, `கண்ணீர்த்` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 216 was fully compared with source pixels.

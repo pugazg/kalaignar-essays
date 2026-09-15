@@ -49,6 +49,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, heading, star separator, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from derivative extract page **69** / original physical scan **218**.
+- scan-217 quotation closure `குட்டிச் சுவராகிவிடும்”`, printed **★**, heading `சிறை திறந்தது`, `முப்பத்தைந்து`, `ஜப்தி`, `எந்தந்த`, `முப்புரிக் காவலர்`, and terminal `கருப்புக்` were reconfirmed.
+- paper toning / age specks remain non-publication layer; the printed star remains publication text.
+- mandatory historical-family verification was repeated; `தண்டனை`, `சிறையிலே`, `முப்பத்தைந்து` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 218 was fully compared with source pixels.

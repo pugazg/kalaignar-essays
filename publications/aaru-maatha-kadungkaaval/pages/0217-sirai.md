@@ -51,6 +51,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - the `மணிமேடாகி விட்டது!` resolution is a direct ordinary source reading, not a historical-glyph correction event.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal open quotation was rechecked directly from derivative extract page **68** / original physical scan **217**.
+- opening sentence continues scan 216's `இதை அவர்`; source-visible `வாரன் ஹேஸ்டிங்ஸ்`, `மெளண்ட் பேட்டன்`, `சித்திரபுத்திரன்போல்-`, `மாகினட் அரணத் தொட்டேன்`, source-resolved `மணிமேடாகி விட்டது!`, and terminal `இதுவும்` were reconfirmed.
+- paper toning / age specks remain non-publication layer.
+- mandatory historical-family verification was repeated across the page; the `மணிமேடாகி விட்டது!` sequence remains a direct ordinary source reading, not a historical-family event.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — the former scan-217 source-visible word hold is resolved directly from enlarged source pixels.

@@ -44,6 +44,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal fragment was rechecked directly from derivative extract page **70** / original physical scan **219**.
+- opening `கொடி` continues scan 218's `கருப்புக்`; source-visible `ஜூலை 15ந்`, `ரஷ்யப் புரட்சி`, `சுகவாசஸ்தலம்`, `நாட்டுக்கு நன்கு புலனாகப் போகாது!`, `நவம்பர் மாதம் 21ம் நாள்`, and terminal `ஐந்து மாதங்களுக்கு` were reconfirmed without contextual correction.
+- paper toning / age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `தஞ்சையிலே`, `சிறைச்சாலையின்`, `காலையிலே` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 219 was fully compared with source pixels.

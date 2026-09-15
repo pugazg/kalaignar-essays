@@ -45,6 +45,16 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R37 final
+
+- every printed word, numeral, quotation mark, star separator, punctuation mark, meaningful spacing, running header, visible folio and complete work-section ending was rechecked directly from derivative extract page **71** / original physical scan **220**.
+- opening `முன்னால்` continues scan 219's `ஐந்து மாதங்களுக்கு`; source-visible `கழகத்தின்சார்பாக`, `கலையுலக ஜோதி`, line-wrap-joined `எதிர் கொண்டழைத்தார்`, `பெருமைக்காகும் படைவீரர்`, `நவம்பர் 21ந் தேதி`, final question `அடிமைச் சங்கிலி அறுபடுவது எந்நாள்?`, and printed **★** were reconfirmed.
+- paper toning / age specks remain non-publication layer; the printed star remains publication text.
+- mandatory historical-family verification was repeated; `கண்ணபிரான்`, `தஞ்சை`, `அண்ணா`, `கலைவாணர்` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- result — **PASS**.
+
 ## P2 நிலை
 
 **verified** — scan 220 was fully compared with source pixels.
