@@ -29,7 +29,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 | # | Tamil title | Working English title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|---|
 | 1 | `முரசு` | **The Drum** | `7a41617cd48f8507bc12074fb48d6016fae5cead` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **VERIFIED** |
-| 2 | `களம்` | **The Battlefield** | `60c155dc93a4543e267ccbca5573d6f5b70e5672` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **VERIFIED** |
+| 2 | `களம்` | **The Battlefield** | `711b86300a3340ee73271a1cf613408905314498` | **PASS** | **PASS** | **PASS** | **PASS** | **PASS** | **VERIFIED** |
 | 3 | `சிறை` | **TBD at T1/T4** | `0d860d48bcd666148c0a312ad296953f015225c2` | not-started | not-started | not-started | not-started | not-started | not-started |
 
 ## Article 1 T1 checkpoint
@@ -68,7 +68,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 
 ## Article 2 T0–T5 checkpoint
 
-- frozen Tamil blob — `60c155dc93a4543e267ccbca5573d6f5b70e5672`
+- frozen Tamil blob — `711b86300a3340ee73271a1cf613408905314498`
 - T0 — **PASS**
 - T1 — **COMPLETE** — blob `78cd7094b8b57c00e6528b40c3c3768d7014971f`
 - T2 — **PASS** — 2 body corrections — blob `3ffc005a7e8653319a86954d42ac6d9f047e4c81`
@@ -76,10 +76,13 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - T4 — **PASS** — 3 source-term corrections — body authority `d5ac559f9a489a98b305b047ae651d97343e5f37`
 - T5 — **PASS / VERIFIED**
 - verified title — **The Battlefield**
-- verified English blob — `9d37041cda4a6a8808b8009b7a86ba9e3b533246`
+- verified English blob — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`
 - source-page comments — **41/41 PASS**
 - paragraph-block scan matching — **41/41 PASS**
-- Tamil source changes — **0**
+- Tamil source changes during original T0–T5 — **0**
+- post-T5 source correction — **1** — scan 77 **`தூண்டிவிடப்பட்டேன்`**
+- post-T5 English revalidation — **PASS**
+- current verified English blob — `afe2d3d5ad21f823aaa1c202f7eb1e201a809588`
 - blockers — **0**
 
 ## Permanent source boundary
