@@ -34,15 +34,15 @@ Direct native inspection established:
 
 ## Current state
 
-- Publication 12 — **ACTIVE**
+- Publication 12 — **TAMIL ARCHIVAL COMPLETE / FROZEN — English READY / NOT STARTED**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
 - P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **COMPLETE / PASS — 3/3 article assemblies: `முரசு`, `களம்`, `சிறை`**
 - P4 — **COMPLETE / PASS — publication source audit / completeness review**
-- P5 — **IN PROGRESS — 60/224; next scans 61–75**
-- English — **BLOCKED**
+- P5 — **COMPLETE / PASS — 224/224 — visual-text-fidelity complete**
+- English — **READY / NOT STARTED — Tamil archival layer frozen**
 
 ## Historical Tamil glyph policy
 
@@ -952,7 +952,7 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 
 ## Exact next activity
 
-**P5 — final strict visual text-fidelity pass.**
+**English translation startup — Tamil P0–P5 is complete and frozen.**
 
 
 ## P5 final strict visual fidelity
@@ -998,3 +998,19 @@ Batch P5-01:
 - known P2R repairs at scans 50, 54 and 55 were directly reconfirmed and remain present in `01-murasu.md`
 - P5 cumulative — **60/224**
 - next — **scans 61–75**
+
+
+## P5 final closure — 224/224
+
+- P5 — **COMPLETE / PASS**
+- physical scans — **224/224**
+- article assemblies rechecked — **3/3**
+- P5 canonical corrections — **3**: scan 110 `அந்தி`; scan 121 `தலைவன்`; scan 159 `சூப்பிரின்டெண்ட்`
+- P5 new historical-glyph correction events — **0**
+- needs-review / blocked / guessed readings — **0 / 0 / 0**
+- unresolved fidelity discrepancies — **0**
+- provenance-resolved obscured readings — scan 18 `ஆகிவிடக்கூடிய`; scan 198 `அடைந்தார்` — retained from explicit user confirmation, not contextual guessing
+- final Tamil status — **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**
+- English — **READY / NOT STARTED**
+
+Final P5 batch scans **196–224** / derivative extract pages **47–75**: **29/29 PASS / 0 new corrections**. Scan 223 is the final text-bearing page; scan 224 is the terminal `திராவிடப்பண்ணை` back-cover / publisher device.
