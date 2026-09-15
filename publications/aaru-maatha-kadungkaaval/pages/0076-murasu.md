@@ -3,8 +3,8 @@ source_pdf: "TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவ�
 scan_page: 76
 printed_page: 73
 publication: "aaru-maatha-kadungkaaval"
-article: "murasu"
-section: "murasu"
+article: "kalam"
+section: "kalam"
 page_type: "body"
 status: "verified"
 language: "ta"
