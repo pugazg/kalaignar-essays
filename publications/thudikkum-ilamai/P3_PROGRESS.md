@@ -53,3 +53,16 @@ P3 authority is the verified canonical P2 page records only.
 **P4 publication source/completeness audit.**
 
 Verify the complete 33-scan publication against P1/P2/P3, including front matter scans 1–4, article scans 5–29, advertisements scans 30–33, terminal physical scan 33, all four article boundaries, all article assembly coverage, and propagation of durable corrections such as `ஆறணா` and `அண்ணாமலைக்கு அரோகரா!`.
+
+## P5 revalidation
+
+After the independent 33/33 strict visual source pass, all four P3 assemblies were revalidated without body-text change.
+
+- Article 1 — **PASS / strict-reviewed** — `3b2f40df8f9b1f02aaac917276b7bcf374185f21`
+- Article 2 — **PASS / strict-reviewed** — `3740984e52a72b514dff4fc41f54a2938d7ce793`
+- Article 3 — **PASS / strict-reviewed** — `9ec5a3fd12e342a92bc02dada6dcf4297214d69d`
+- Article 4 — **PASS / strict-reviewed** — `26ce57fe58a5327879155bf41c132180d71dd191`
+- P5 body corrections propagated — **0**
+- unresolved assembly issues — **0**
+
+These four blobs are the frozen Tamil authorities for the next translation layer.
