@@ -17,13 +17,13 @@ Rules:
 ## Progress
 
 - physical scans — **224**
-- P5 checked — **120/224**
-- completed range — **1–120**
-- next range — **121–135**
+- P5 checked — **135/224**
+- completed range — **1–135**
+- next range — **136–150**
 - current needs-review — **0**
 - current blocked — **0**
 - guessed readings — **0**
-- new P5 canonical corrections — **1**
+- new P5 canonical corrections — **2**
 - new P5 historical-glyph correction events — **0**
 - pre-P5 cumulative historical-glyph correction-event count — **20**
 
@@ -353,10 +353,49 @@ Batch P5-08 totals:
 - this is an ordinary lexical/source-fidelity correction, not a historical-glyph correction event.
 - cumulative P5 canonical corrections — **1**.
 
+## Batch P5-09 — scans 121–135
+
+Result: **15/15 PASS after 1 canonical correction**.
+
+| Scan | P5 result | Key reconfirmation |
+|---:|---|---|
+| 121 | PASS after correction | dialogue / sentencing block, distinct `முப்பத்தி ஐந்து` / `முப்பத்திஐந்து`, punctuation and ending rechecked; source clearly prints **`போராட்டத் தலைவன் என்ற முறையில்`**, correcting canonical `போராட்டத் தலைவர்` → **`போராட்டத் தலைவன்`** |
+| 122 | PASS | historical-`ளை` form **`பரிசுகளை அளித்து`**, `மூணுமாதம்`, `ஆறுமாதம்தான்`, `என் அப்படி?`, and `திட்டத்துடனே-என்னவோ` reconfirmed |
+| 123 | PASS | `ஆகாகா!`, `ஆறுமாதமென்ன`, `ஆறுவருடமே போட்டும்`, `பிடியுங்கள் சாபம்!`, punctuation and terminal **`எப்படியென்கிறீர்களா -`** reconfirmed |
+| 124 | PASS | bracketed `தார்` note, **`காராக்கிரகத்தையும்- கக்கூசையும்`**, **`மழை - திராவிடத்தின் வளப்பத்தைச் சொல்லிற்று!`**, `பீர்க்காக்கள்`, `குடேறியிருந்த`, and final `உணர்த்திற்று!` reconfirmed |
+| 125 | PASS | `வந்துசேர்ந்தோம்`, `நின்றபாடில்லை`, source-visible **`ஆலை தெளிந்த உள்ளம்`**, `திராவிடப்பண்ணை`, and terminal **`கோட்டைபோன்ற`** reconfirmed |
+| 126 | PASS | scan-125 **`கோட்டைபோன்ற` + `முகப்பையுமுடைய`** continuation; **`“சரி - இதோ இந்த இடத்தில் படுங்கள்”`**, `‘இண்டர்வியூ’`, `‘புளூரசி’`, `கதகதப்பிலே`, `கண்ணயர்ந்தேன்` reconfirmed |
+| 127 | PASS | heading **`கதிர் வந்தது - கதவு திறந்தது:`**, `ஜூலை 18ந் தேதி`, source dot-runs in **`“சார் ...... சார்.......... கொஞ்சம் நில்லுங்கள்”`**, `பாலைவனத்திலே பசுந்தரை`, `சூடுசூட` reconfirmed |
+| 128 | PASS | joined **`வாயிலெங்களை`**, two-line `மாங்குயில்...` quotation, unmatched opening quote before **`அந்த இலட்சிய வரிகள்`**, `மஜீதை` and all body text reconfirmed |
+| 129 | PASS | `முறை-துறைகள்`, `உலைக்களங்கள்`, `அதிர்ச்சியினிடையே`, `குணமானுவாகி`, `S.S.L.C.`, terminal **`5779!`** and physical line-wrap joins reconfirmed |
+| 130 | PASS | source English **`C. P.` / `CLOSE PRISON`**, `முன்னூறுக்கு`, `அணைய வில்லையாம்`, `காருண்ய காங்கிரஸ் சர்க்கார்`, `வைத்திய சாலை`, `பாடபோதனை`, `சின்னஞ்சிறிய` reconfirmed |
+| 131 | PASS | `மதிற் சுவர்கள்`, `‘கஞ்சிப்போர்’`, `‘சிங்கங்’ களில்`, `மன்னைப் பகுதியில்`, `உடல் வளர்த்திற்கேற்ற`; terminal **`அணு`** reconfirmed |
+| 132 | PASS | scan-131 **`அணு` + `வும் நழுவாதவர்.`** continuation; `சட்டமிருக்கிறது`, `துவங்கி யிருக்கிறோம்`, `கிளைகளைப்பற்றிக்`, dialogue punctuation and unpunctuated `ஜெயிலர் சிரிப்பைத்தான் பதிலாகத் தரமுடிந்தது` retained |
+| 133 | PASS | `தெரிவிக்கப்பட்டாததால்`, five-line prison song, `வெண்ணை எடுக்கா மோரே!`, `முன்னூறு`, `நானூறைத்தாண்டிய`, `நாறுகி- ஐம்பதாகி - ஐந்தாக` reconfirmed |
+| 134 | PASS | `C. P. பிளாக்`, `ஒரேவிதமான`, `வசதியிருக்கும்`, `மாளமுடியாது`, quoted **`“மாதிரி திராவிட நாட்டில்”`**, full polity comparison reconfirmed |
+| 135 | PASS | `சிறை பூமி`, `நூறுபேருக்கு`, `தண்ணீரைப்பெற`, **`“ஜல ஸ்தாபன மந்திரி”`**, `உள்நாட்டிலாகா`, `மருத்துவ மனைக்கு`, `மந்திரி யொருவர்`, and `தலைமை நிலையத்திலிருந்து - இல்ல - ஆட்சி பீடத்திலிருந்து` reconfirmed |
+
+Historical-family verification explicitly rechecked **`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`** directly from source pixels. Representative checks include `தண்டனை`, `தவறினால்`, `பரிசுகளை`, `வளைந்து`, `கலைந்தபிறகு`, `தலையிலே`, `தலைமுழுகி`, `ஆலை`, `மலைக்கோட்டையின்`, `கண்ணைத்`, `தாழ்வாரத்தைக்`, `தொலைந்துபோன`, `பூஞ்சோலை`, `சிறைச்சாலை`, `இளைஞன்`, `எண்ணங்களை`, `உலைக்களங்கள்`, `மூன்றாவது`, `அணைய வில்லையாம்`, `பாடபோதனை`, `மன்னைப்`, `கிளைகளைப்பற்றிக்`, `வெண்ணை`, `மலையாளம்`, `தலைமை`, and `அறிக்கைகளை`. No new historical-family identity changed during P5.
+
+All scans **121–135** remain within the **`சிறை`** body and all page-record filenames remain `*-sirai.md`.
+
+The P3 `articles/03-sirai.md` assembly was checked for the batch landmarks. The scan-121 lexical repair was propagated to **`போராட்டத் தலைவன் என்ற முறையில்`**; prior P2R repairs and unusual source forms in scans 122–135 remain synchronized. No other propagation repair was required.
+
+Batch P5-09 totals:
+
+- scans checked — **15**
+- canonical corrections — **1**
+- new historical-glyph correction events — **0**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- cumulative P5 canonical corrections — **2**
+- P5 cumulative progress — **135/224**
+
 ## Exact next activity
 
-**P5 Batch P5-09 — physical scans 121–135.**
+**P5 Batch P5-10 — physical scans 136–150.**
 
-Scans **121–135** remain within the **`சிறை`** body. Preserve every page as `*-sirai.md`.
+Scans **136–150** remain within the **`சிறை`** body. Preserve every page as `*-sirai.md`.
 
-Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after scan 135.
+Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after scan 150.
