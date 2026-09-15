@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Publication 13 `துடிக்கும் இளமை` E7 English release closeout — COMPLETE / PASS**. Publication 12 `ஆறுமாதக் கடுங்காவல்` remains **RELEASE COMPLETE / FROZEN**. Publication 13 is now **RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 4/4 VERIFIED; E6 PASS; E7 PASS; 25/25 source comments PASS; release blockers 0**.
+Handoff refreshed after onboarding Publications 14–15. Publication 14 `பெருமூச்சு` is **ACTIVE — P0 PASS; P1 PASS 83/83; P2 NOT STARTED**. Publication 15 `விடுதலைக் கிளர்ச்சி` is **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**. Publications 1–13 remain **RELEASE COMPLETE / FROZEN**.
 
 ## Repository state
 
@@ -15,6 +15,10 @@ Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 Publication 12 **`ஆறுமாதக் கடுங்காவல்` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 3/3 VERIFIED; E6 PASS; E7 PASS**.
 
 Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 4/4 VERIFIED; E6 PASS; E7 PASS**. Final English authorities remain: **Throbbing Youth** `46c70fd2bf702a061d35b45383c8c8e0841852d9`; **Arohara to Annamalai!** `1cfce7827fec69de08c98dd78edf4a06a7216a41`; **Poompuhar** `67649c4db83881840137073bafa24d31062fb86c`; **Lamp of Victory!** `083d514b93d58484f49e3193235b9631d995cd8e`.
+
+Publication 14 **`பெருமூச்சு` — ACTIVE — P0 PASS; P1 PASS 83/83; P2 NOT STARTED; 13 article units**.
+
+Publication 15 **`விடுதலைக் கிளர்ச்சி` — QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED; introductory verse + 1 main prose work**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2433,11 +2437,73 @@ Release authorities:
 - `publications/thudikkum-ilamai/translations/en/E6_CONSISTENCY_REVIEW.md`
 - `publications/thudikkum-ilamai/translations/en/E7_RELEASE_CLOSEOUT.md`
 
-### Exact next activity
+# Publication 14 — பெருமூச்சு
 
-No further Publication 13 archival or translation work is pending.
+Workspace: `publications/perumoochu/`
 
-Do not reopen Publication 13 merely for stylistic polishing, terminology homogenisation, modernisation, or stale prompts.
+## Source / intake state
 
-Future repository work starts only on explicit user direction.
+- source — `TVA_BOK_0064124_பெருமூச்சு.pdf`
+- physical scans — **83**
+- bytes — **122,052,025**
+- SHA-256 — **`18947f2deb1ece71b03b59c1e52d9f483a45baa5bf436ab2c3e89a48b5f2dc38`**
+- PDF version — **1.4**
+- source title form — **`பெருமூச்சு!`**
+- printed author — **`மு. கருணாநிதி`**
+- publisher — **`இளங்கோ பதிப்பகம், மாயூரம்`**
+- edition — **`இரண்டாம் பதிப்பு—'53`**
+- P0 — **COMPLETE / PASS**
+- P1 — **COMPLETE / PASS — 83/83**
+- P2 — **NOT STARTED**
+- historical Tamil glyph workflow — **MANDATORY**
+
+Verified P1 structure:
+
+- scans 1–4 — cover / title / imprint / physical-copy evidence
+- scans 5–6 — publisher preface `மூச்சினிடையே!`
+- scans 7–80 — **13 article units**
+- scans 81–83 — advertisements / catalogue matter
+- separate printed contents page — **none**
+
+P1 blockers — **0**.
+
+# Publication 15 — விடுதலைக் கிளர்ச்சி
+
+Workspace: `publications/viduthalai-kilarcci/`
+
+## Source / intake state
+
+- source — `TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf`
+- physical scans — **69**
+- bytes — **101,127,153**
+- SHA-256 — **`444ff76695154b5ee9d53f4647873fde72659a3d52a76aa833fdc502fb518809`**
+- PDF version — **1.4**
+- source cover form — **`விடுதலைக்கிளர்ச்சி`**
+- printed author — **`மு. கருணாநிதி`**
+- publisher — **`திராவிடப் பண்ணை`**
+- edition — **`இரண்டாம் பதிப்பு—1953`**
+- P0 — **COMPLETE / PASS**
+- P1 — **COMPLETE / PASS — 69/69**
+- P2 — **NOT STARTED**
+- historical Tamil glyph workflow — **MANDATORY**
+
+Verified P1 structure:
+
+- scan 1 — front cover
+- scan 2 — reverse / donation label
+- scan 3 — edition / rights / price / printer page
+- scans 4–7 — introductory verse/prologue `வேங்கையை விரட்டும் பாடல்`, I–IV
+- scans 8–68 — main prose work `விடுதலைக் கிளர்ச்சி`
+- scan 69 — advertisement / publisher catalogue
+- separate printed contents page — **none**
+
+P1 blockers — **0**.
+
+## Exact next activity
+
+**Publication 14 `பெருமூச்சு` — P2 Batch 001, scans 1–5.**
+
+Create one canonical page record for each physical scan. Keep physical-copy labels / handwriting / stamps separate from printed text. Apply the historical-glyph audit to every text-bearing scan. Scan 5 begins the publisher preface `மூச்சினிடையே!`.
+
+Publication 15 remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** until Publication 14 is advanced or the user explicitly directs parallel processing.
 
