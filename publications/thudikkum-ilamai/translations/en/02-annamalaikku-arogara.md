@@ -8,7 +8,7 @@ source_tamil_blob_sha: "3740984e52a72b514dff4fc41f54a2938d7ce793"
 source_scan_pages: "13-19"
 source_printed_pages: "scan 13 folio not visible; scans 14-19 show folios 14-19"
 language: "en"
-translation_status: "draft"
+translation_status: "verified"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -28,7 +28,7 @@ In Devaloka—yes—in that holy land where thirty-three crore gods, supposedly 
 
 <!-- Tamil source: scan 14 -->
 
-a quarrel! Between whom and whom? Between Brahma himself and Vishnu! This is the conversation that took place in the quarrel between the Creator and Sriyapati. What is its essence? Who is greater! Is Brahma, who performs the work of creation, greater? Or Vishnu, who does the work of preservation? The argument swells. In their quarrel, what became exposed was the colour of their private conduct; no verdict emerged. A quarrel in Devaloka? And that too among the gods of gods? One may wonder. In the world of the gods there are not merely quarrels; there are cartloads of cases! If only courts had been set up there and trials conducted, there would have been the case of Paramasiva raping the wives of the sages in Darukavana, the case of Vishnu violating Brindai, the case of Indra raping Ahalya, the case of Agni Bhagavan ravaging the Seven Maidens, the case of the Moon consorting with his guru's wife, the murder case of Sambandar impaling eight thousand Jains, and many more—cases of abortion, theft cases, and so on—with judgments delivered. Even lawyers who die in this world and go to heaven would have found good chances there.
+a quarrel! Between whom and whom? Between Brahma himself and Vishnu! This is the conversation that took place in the quarrel between the Creator and Sriyapati. What is its essence? Who is greater! Is Brahma, who performs the work of creation, greater? Or Vishnu, who does the work of preservation? The argument swells. In their quarrel, their private conduct merely had its paint stripped off; no verdict emerged. A quarrel in Devaloka? And that too among the gods of gods? One may wonder. In the world of the gods there are not merely quarrels; there are cartloads of cases! If only courts had been set up there and trials conducted, there would have been the case of Paramasiva raping the wives of the sages in Darukavana, the case of Vishnu violating Brindai, the case of Indra raping Ahalya, the case of Agni Bhagavan ravaging the Seven Maidens, the case of the Moon consorting with his guru's wife, the murder case of Sambandar impaling eight thousand Jains, and many more—crimes of causing miscarriages, theft cases, and so on—with judgments delivered. Even lawyers who die in this world and go to heaven would have found good chances there.
 
 <!-- Tamil source: scan 15 -->
 
@@ -36,13 +36,13 @@ It was as one among these cases that the case “Who is greater?” began betwee
 
 “I am going in search of Siva's crown, but I cannot find it. Will you bear false witness that I found his crown?” Brahma begged.
 
-The thazhampoo agreed to give false testimony. Accordingly, they went to Siva, and Brahma said, “I found the crown—”
+The thazhampoo agreed to give false testimony. Accordingly, they went to Siva, and Brahma said that he had found the crown.
 
 <!-- Tamil source: scan 16 -->
 
-“—I found it.” The thazhampoo testified, “Yes, I saw it too.” Vishnu, who had gone toward the netherworld in the form of a pig, met the sage Narada, learned that he could not succeed in his attempt, and returned defeated. Paramasiva discovered that Brahma and the thazhampoo had lied and cursed them. Thus the pride of Brahma and Vishnu was subdued, and a verdict was also delivered that Siva was greater than all. The quarrellers lowered their heads in shame.
+The thazhampoo testified, “Yes, I saw it too.” Vishnu, who had gone toward the netherworld in the form of a pig, met the sage Narada, learned that he could not succeed in his attempt, and returned defeated. Paramasiva discovered that Brahma and the thazhampoo had lied and cursed them. Thus the pride of Brahma and Vishnu was subdued, and a verdict was also delivered that Siva was greater than all. The quarrellers lowered their heads in shame.
 
-This is the Arunachala Purana. It is one of the obscenities found in the sacred legend of the Tiruvannamalai shrine where the festival of the lamp of light is to be held! There are many, many legends for the Karthigai Deepam at Annamalai! One purana says that Siva burnt certain asuras with the eye on his forehead, and that this is the origin of the Sokkapaanai festival. Another purana says that the fire-god desired the Seven Maidens; that when his wife Swaha Devi saw this, since Arundhati was chaste she took the forms of the other six maidens, but not Arundhati's, and satisfied Agni Bhagavan's desire; and that those six forms became the Karthigai—
+This is the Arunachala Purana. It is one of the obscenities found in the sacred legend of the Tiruvannamalai shrine where the festival of the lamp of light is to be held! There are many, many legends for the Karthigai Deepam at Annamalai! One purana says that Siva burnt certain asuras with the eye on his forehead, and that this itself is the Sokkapaanai festival. Another purana says that the fire-god desired the Seven Maidens; that when his wife Swaha Devi saw this, since Arundhati was chaste she took the forms of the other six maidens, but not Arundhati's, and satisfied Agni Bhagavan's desire; and that those six forms became the Karthigai—
 
 <!-- Tamil source: scan 17 -->
 
@@ -74,3 +74,74 @@ we may as well begin a bullock-cart journey toward the old Stone Age, with our b
 - added substantive English claims — **0**
 - Tamil source changes — **0**
 - blockers — **0**
+
+
+## T2 bilingual fidelity review
+
+**PASS**
+
+Frozen Tamil authority: `3740984e52a72b514dff4fc41f54a2938d7ce793`.
+
+T2 corrections — **4**:
+
+1. `சாயம் வெளுத்ததே` — recast from the awkward “colour of their private conduct became exposed” to **their private conduct merely had its paint stripped off**;
+2. `கருவழித்த குற்றங்கள்` — generic **cases of abortion** → source-closer **crimes of causing miscarriages**;
+3. scan 15→16 page break — removed an English-only em-dash split inside Brahma's statement; source-page traceability remains ordered without invented punctuation;
+4. `அதுவே சொக்கப்பானைத் திருநாள்` — **origin of the Sokkapaanai festival** → **that itself is the Sokkapaanai festival**.
+
+Checks after correction:
+
+- omitted Tamil paragraphs / clauses — **0**;
+- added substantive English claims — **0**;
+- dialogue / speaker changes — **PASS**;
+- mythological names / referents — **PASS**;
+- source comments — **7/7 ordered / PASS**;
+- Tamil source changes — **0**;
+- blockers — **0**.
+
+## T3 Kalaignar voice review
+
+**PASS**
+
+- opening mock-dialogue and taunts — **retained**;
+- courtroom parody / accumulation of divine “cases” — **retained**;
+- repeated ridicule of puranic stories — **not softened**;
+- contrasts between ritual expenditure and poverty — **retained**;
+- closing `அண்ணாமலைக்கு அரோகரா!` satire — **retained**;
+- T3 body corrections — **0**;
+- T2 regressions — **0**.
+
+## T4 terminology / quotation / title audit
+
+**PASS**
+
+Verified Article-2 choices:
+
+- title `அண்ணாமலைக்கு அரோகரா!` → **Arohara to Annamalai!**;
+- `அரோகரா` → ***Arohara***, source-bearing;
+- `தேவலோகம்` → **Devaloka**;
+- `ஸ்ரீயப்பதி` → **Sriyapati**;
+- `பரமசிவன்` → **Paramasiva**;
+- `தாழம்பூ` → **thazhampoo**;
+- `அருணாசல புராணம்` → **Arunachala Purana**;
+- `கார்த்திகை தீபம்` → **Karthigai Deepam**;
+- `சொக்கப்பானை` → **Sokkapaanai**;
+- `அன்னாபிஷேகம்` → **annabhishekam**;
+- `சுயராஜ்யம்` → **Swaraj**;
+- `பொது உடமை` → **common ownership**, without silently substituting a stronger modern ideological label.
+
+No outside mythological explanation was inserted into the body.
+
+## T5 article verification
+
+**PASS / VERIFIED**
+
+- translation status — `verified`;
+- source scans — **13–19**;
+- source comments — **7/7 PASS**;
+- omitted Tamil clauses — **0**;
+- added substantive English claims — **0**;
+- untranslated Tamil body leakage — **0**;
+- unresolved terminology / quotation choices — **0**;
+- Tamil source changes — **0**;
+- blockers — **0**.
