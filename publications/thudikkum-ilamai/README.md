@@ -12,7 +12,7 @@ Controlling source: `TVA_BOK_0063985_துடிக்கும்_இளமை
 - P1 source structure / article inventory — **COMPLETE / PASS**;
 - P2 page-level transcription — **COMPLETE / PASS — 33/33 verified**;
 - P3 article assemblies — **COMPLETE / PASS — 4/4**;
-- P4 source audit — **NOT STARTED**;
+- P4 source audit — **COMPLETE / PASS**;
 - P5 strict visual-text-fidelity pass — **NOT STARTED**;
 - English — **BLOCKED until Tamil archival layer freezes**;
 - source PDF committed — **No**.
@@ -84,10 +84,32 @@ Progress authority: [`P2_PROGRESS.md`](P2_PROGRESS.md).
 
 Progress authority: [`P3_PROGRESS.md`](P3_PROGRESS.md).
 
+## P4 source / completeness audit
+
+**COMPLETE / PASS**
+
+- physical P2 records — **33/33**
+- scan metadata sequence — **1–33 / PASS**
+- front matter — **4/4**
+- article-body source coverage — **25/25**
+- advertisements / promotional matter — **4/4**
+- P3 article assemblies — **4/4**
+- missing / duplicate scan records — **0 / 0**
+- article-range defects — **0**
+- advertisement leakage into articles — **0**
+- physical-copy-mark contamination — **0**
+- durable correction propagation defects — **0**
+- historical-glyph / printed-text unresolved — **0**
+- blockers — **0**
+
+P4 authority: [`P4_SOURCE_AUDIT.md`](P4_SOURCE_AUDIT.md).
+
+The canonical price remains **`ஆறணா`**. The canonical Article-2 title remains **`அண்ணாமலைக்கு அரோகரா!`**. Retired forms survive only in explicit correction-history prose.
+
 ## Exact next activity
 
-**P4 publication source/completeness audit.**
+**P5 strict visual-text-fidelity pass — all 33 physical scans.**
 
-Audit the full 33-scan publication against the P2 records and P3 article assemblies, confirm front matter / four article boundaries / advertisements / terminal scan, verify 25/25 article-scan coverage and 4/4 article assemblies, and record any propagation issues.
+Reinspect every physical scan against its canonical P2 record, verify every visible printed word / punctuation / meaningful spacing / heading / number / continuation, re-run historical-glyph checks as needed, propagate any correction into P3 assemblies and controls, and close/freeze Tamil only after P5 passes.
 
 Do not begin English translation until Tamil reaches P5 / frozen.
