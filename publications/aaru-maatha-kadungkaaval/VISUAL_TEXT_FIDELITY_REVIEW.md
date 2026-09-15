@@ -17,13 +17,13 @@ Rules:
 ## Progress
 
 - physical scans — **224**
-- P5 checked — **150/224**
-- completed range — **1–150**
-- next range — **151–165**
+- P5 checked — **165/224**
+- completed range — **1–165**
+- next range — **166–180**
 - current needs-review — **0**
 - current blocked — **0**
 - guessed readings — **0**
-- new P5 canonical corrections — **2**
+- new P5 canonical corrections — **3**
 - new P5 historical-glyph correction events — **0**
 - pre-P5 cumulative historical-glyph correction-event count — **20**
 
@@ -431,12 +431,53 @@ Batch P5-10 totals:
 - cumulative P5 canonical corrections — **2**
 - P5 cumulative progress — **150/224**
 
+## Batch P5-11 — scans 151–165
+
+Source: user-supplied derivative slice `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; **extract pages 2–16 = physical scans 151–165**.
+
+Result: **15/15 PASS after 1 canonical correction**.
+
+| Scan | P5 result | Key reconfirmation |
+|---:|---|---|
+| 151 | PASS | historical-`றா` **`மூன்றாம்நாள்`**, `ஷா ஓட்டம்`, `முசாதிக்`, `ஷேக் அப்துல்லா`, punctuation and complete ending reconfirmed |
+| 152 | PASS | `குதாக்கள்`, `புல்லுருவி`, `ஐயாயிரவரும்`, repeated `சலவைசாலை` forms and final **`அதுதான் தப்பு!`** reconfirmed |
+| 153 | PASS | `சலவை சாலை யொன்றைக்`, `கான்விக்ட் வார்டர் உடைகள்`, `மருத்துவ மனைத் துணிகள்`, `பேண்டேஜ்`, industrial / prison inventory punctuation reconfirmed |
+| 154 | PASS | `பெட்ஷீட்டுகளும்`, `சிறைச்சாலைகட்கும்`, `ராஜமுந்திரி`, `கூட்டு கேங்`; terminal **`மண்வெட்டி கொண்டு`** reconfirmed |
+| 155 | PASS | scan-154 **`மண்வெட்டி கொண்டு` + `விரைவில் செதுக்கியும்விடலாம்.`** continuation; historical-`ளை` **`ஏற்றங்களை`**, punishment list and terminal **`கடுங்காவல்`** reconfirmed |
+| 156 | PASS | scan-155 continuation; **`காலை முதல் மாலை வரையில்`**, repeated Roman-script `Fileல்`, `மாதா மாதம்`, source punctuation and complete ending reconfirmed |
+| 157 | PASS | `“வெள்ளைக் குல்லாய்”` / `“கருப்புக் குல்லாய்”`, `கைதியை யும்`, `(Borstal School)`, `கண்டமால்`, final **`நான் அரசியல் வெள்ளைக் குல்லாதான்!`** reconfirmed |
+| 158 | PASS | `கருப்புக்குல்லாக்கள்`, `மூவாயிரம் போலல்லவா`, `‘டைப்’`, quoted **`“உங்கள் நடையில் மொழிபெயர்த்துக் கொடுங்கள்”`**, terminal **`சிறையிலுள்ள`** reconfirmed |
+| 159 | PASS after correction | prior P2R **`குறிப்பிட்டுவிடுகிறேன்.`** reconfirmed; source heading corrected **`ஜெயில் சூப்பிரின்டெண்டு:` → `ஜெயில் சூப்பிரின்டெண்ட்:`**; body `சூப்பரின்டெண்டுக்கு`, role headings and terminal sentence retained |
+| 160 | PASS | headings **`சீப் வார்டர்:`**, **`ஹெட் வார்டர்:`**, **`வார்டர்:`**, `‘டவர்’`, `அலவன்ஸ்`, salary / duty paragraph and complete ending reconfirmed |
+| 161 | PASS | source heading **`காணிக்கை வார்டர்:`**, explanatory **`கான்விக்ட் வார்டர் (Convict Warder)`**, later `கான்விக்ட்` readings, `ஒவர்சியர்`, `மதிற் சுவர்களுக்குப்` reconfirmed |
+| 162 | PASS | **`பெற்றவர்கள்தான்`**, **`இருபதாண்டுகளுக்குள்ளாகவே`**, `நாட் கழிவு`, `Condemned Prison`, **`சிறிது தூரத்தில்`**, source-visible `சென்றபிற்கு-எட்டு` and terminal **`அவன் நிலைமை எப்படி`** reconfirmed |
+| 163 | PASS | scan-162 continuation; `15ந் தேதி`, **`தொழுந்துரைச் சேர்ந்தவர்கள்`**, `கான்விக்ட் வார்டர்கள்`, murder-category sequence and final **`மரண தண்டனை எவ்வளவோ மேல்தான்!`** reconfirmed |
+| 164 | PASS | source-visible `வந்தபிற்கு`, quoted `கொலைக்கேசில்` passage, `உபதேச காண்டத்திற்குப்`, `பிக் பாக்கெட்`, `போக்கு வரத்துக் கைதிகளாக`, `நூற்றிஐம்பது`, final `மதுவிலக்கு` sentence reconfirmed |
+| 165 | PASS | **`செலவழித்தும்-`**, source punctuation **`அய்யோ• பாவம்`**, quoted prohibition passage, **`கண்துடைப்பு`**, and complete ending reconfirmed |
+
+Historical-family verification explicitly rechecked **`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`** directly from derivative source pixels. Representative checks include `மூன்றாம்நாள்`, `சலவைசாலை`, `மருத்துவ மனை`, `சிறைச்சாலைகட்கும்`, `ஏற்றங்களை`, `மாலை வரையில்`, `கண்டமாலை`, `வெள்ளைக் குல்லாய்`, `தண்டனை`, `அண்ணாவும்`, `தனித்தனியேதான்`, `இளைஞனாக`, `கொலைவெறியைத்`, `நிலைமை`, and `கண்துடைப்பு`. No new historical-family correction event was required in P5.
+
+All scans **151–165** remain within the **`சிறை`** body and all page-record filenames remain `*-sirai.md`.
+
+The P3 `articles/03-sirai.md` assembly was checked across the batch. The scan-159 heading correction was propagated to **`ஜெயில் சூப்பிரின்டெண்ட்:`**; all prior P2R repairs / source-visible forms for scans 151–165 remain synchronized. No other propagation repair was required.
+
+Batch P5-11 totals:
+
+- scans checked — **15**
+- canonical corrections — **1**
+- new historical-glyph correction events — **0**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- cumulative P5 canonical corrections — **3**
+- P5 cumulative progress — **165/224**
+
 ## Exact next activity
 
-**P5 Batch P5-11 — physical scans 151–165.**
+**P5 Batch P5-12 — physical scans 166–180.**
 
-Use the user-supplied derivative slice **`TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`**. Its stable mapping is **extract page N = physical scan N+149**; therefore physical scans **151–165 = extract pages 2–16**. Extract page 1 duplicates physical scan 150 and must not be reprocessed.
+Use the same user-supplied derivative slice **`TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`**. Stable mapping: **extract page N = physical scan N+149**; therefore physical scans **166–180 = extract pages 17–31**.
 
-Scans **151–165** remain within the **`சிறை`** body. Preserve every page as `*-sirai.md`.
+Scans **166–180** remain within the **`சிறை`** body. Preserve every page as `*-sirai.md`.
 
-Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after physical scan 165 / extract page 16.
+Continue the same direct-source, word-by-word / punctuation-by-punctuation, historical-glyph, no-OCR, no-web, no-normalization protocol. Stop after physical scan 180 / extract page 31.
