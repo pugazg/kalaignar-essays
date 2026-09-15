@@ -48,6 +48,19 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R34
+
+- every printed word, heading, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **21** / original physical scan **170**.
+- heading `பேச்சு மன்றம்` and the source’s irregular opening / closing quotation practice were preserved without editorial repair.
+- source-visible forms including `ராஜ்ஜியத்திலே`, `ஆகாவிட்டாலுங்கூட`, `மேடைப்பிரசங்கிகள்`, `நல் வாய்ப்பை`, `இல்லை யென்னும்`, `மறுத்துரைக்கவில்லை`, `என்றாலுங்கூட`, `தடையொன்றுங்`, and `இல்லை யென்போர்` were reconfirmed.
+- the final quoted `“கடவுள் இல்லை யென்போர் காட்டுமிராண்டிகள்” என்று!` was checked exactly.
+- paper toning / isolated dark dot remain non-publication layer.
+- mandatory historical-family verification was repeated; `இல்லை` / `நிலை` (`லை`), `கொள்கையைத்` / `எண்ணமுடையவர்களே` (`ளை`) and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 170 placeholder was replaced only after full direct source-pixel transcription and audit.

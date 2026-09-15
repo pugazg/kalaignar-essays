@@ -38,7 +38,7 @@ Direct native inspection established:
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 165/224 scans; next 166–170**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 175/224 scans; next 176–185; 10 scans/iteration**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -863,8 +863,26 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - P2R progress — **165/224**
 
 
+### Batch R34 — scans 166–175
+
+- scans 166–175 — **10/10 re-audited**
+- cadence changed per user instruction — **10 physical scans per iteration from R34 onward**
+- scan 166 — `அரசாங்கத் திடம்` → **`அரசாங்கத் இடம்`**
+- scans 167–172 — PASS / no canonical correction
+- scan 173 — `அவர்களை அக்பர்` → **`அவர்கள் அக்பர்`**
+- scans 174–175 — PASS / no canonical correction
+- scan 171→172 and scan 173→174 continuations reconfirmed
+- scan 175 ending confirmed; scan 176 not opened
+- ordinary source-fidelity corrections — **2**
+- new historical-glyph correction events — **0**
+- cumulative historical-glyph correction-event count — **19**
+- P2 totals remain **222 verified / 2 needs-review**
+- guessed readings remain **0**
+- P2R progress — **175/224**
+
+
 ## Exact next activity
 
-**P2R Batch R34 — scans 166–170.**
+**P2R Batch R35 — scans 176–185.**
 
-Process exactly five physical scans with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract pages **17–21** map to original scans **166–170**. Stop after scan 170; do not process scan 171 / extract page 22.
+Process exactly **10 physical scans** with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract pages **27–36** map to original scans **176–185**. Stop after scan 185; do not process scan 186 / extract page 37.

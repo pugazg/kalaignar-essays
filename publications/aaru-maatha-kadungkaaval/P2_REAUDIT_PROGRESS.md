@@ -5,7 +5,7 @@ Controlling source: `TVA_BOK_0064140_ஆறுமாதக்_கடுங்க
 
 ## Purpose
 
-User-requested full second visual fidelity round from the physical beginning of the PDF, processed in **5 physical scans per iteration**.
+User-requested full second visual fidelity round from the physical beginning of the PDF. Batches R01–R33 used **5 physical scans per iteration**; from Batch R34 onward, per the user's updated instruction, process **10 physical scans per iteration**.
 
 For every batch:
 - inspect the native embedded-source image directly;
@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **165/224**
-- completed range — **1–165**
-- next range — **166–170**
+- re-audited — **175/224**
+- completed range — **1–175**
+- next range — **176–185**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **19**
@@ -790,8 +790,45 @@ Ordinary source-fidelity corrections in Batch R33 — **10**.
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
 
+## Batch R34 — scans 166–175
+
+**Batch-size policy change:** per user instruction, P2R now processes **10 physical scans per iteration** from this batch onward.
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 166 | body / folio 163 | PASS after correction | `அரசாங்கத் திடம்` → source-visible `அரசாங்கத் இடம்`; headings / full page / ending confirmed |
+| 167 | body / folio 164 | PASS | headings / bracketed note / historical `னா / ணா` examples / ending confirmed |
+| 168 | body / folio 165 | PASS | headings / parentheticals / quoted `நாட் கழிவு` / complete text confirmed |
+| 169 | body / folio 166 | PASS | headings / bracketed note / printed star / complete text confirmed |
+| 170 | body / folio 167 | PASS | heading / irregular source quotation practice / complete ending confirmed |
+| 171 | body / folio 168 | PASS | unusual `என்றுள்` / `அதற்கு ஒரே பதில்-` / terminal `செய்யப்` confirmed |
+| 172 | body / folio 169 | PASS | scan-171 continuation / both `சொல்லில்` forms / `தவளைபோல்` / ending confirmed |
+| 173 | body / folio 170 | PASS after correction | `அவர்களை அக்பர்` → source-visible `அவர்கள் அக்பர்`; terminal open quotation confirmed |
+| 174 | body / folio 171 | PASS | scan-173 quotation closure / `பகவத் சிரோமணிகளே!` / `மறு மலர்ச்சி` / ending confirmed |
+| 175 | body / folio 172 | PASS | `G. நாராயணசாமி` / `கால் மூன்றத்துக் கத்திரிக்காய்` / `தொடர்ந்தாற்போல்` / ending confirmed; scan 176 not opened |
+
+Historical-family findings:
+
+- scan 166 — `வேலையை` / `வெளியில்` / `சிறையில்` (`லை`);
+- scan 167 — `கண்ணான` / `பொன்னான` (`னா`), `வீணாக்கினால்` (`ணா`);
+- scan 168 — `தண்டனை` (`ணை`), `நாணயமுள்ளவன்` and full-family check;
+- scan 169 — `தண்டனை` / `கண்ணியமுடன்` / `வைத்தியசாலை`;
+- scan 170 — `இல்லை` / `நிலை` (`லை`), `கொள்கையைத்` / `எண்ணமுடையவர்களே` (`ளை`);
+- scan 171 — `வணங்கவில்லை` / `மனிதனைப்` / `வானவூர்திகள்`;
+- scan 172 — `தவளைபோல்` (`ளை`);
+- scan 173 — historical `றா` in `என்றால்`;
+- scan 174 — historical `றா` in `நன்றாகப்`;
+- scan 175 — historical `றா` in `தொடர்ந்தாற்போல்`;
+- all 13 tracked families were explicitly checked on every scan by character identity;
+- new historical-family correction events — **0**; cumulative count remains **19**.
+
+Ordinary source-fidelity corrections in Batch R34 — **2**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
+
 ## Exact next activity
 
-**Batch R34 — physical scans 166–170.**
+**Batch R35 — physical scans 176–185.**
 
-Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Use derivative extract pages **17–21** for original scans **166–170**. Stop after scan **170**; do not process scan 171 / extract page 22.
+Process exactly five scans with the same word-by-word visual fidelity and historical-glyph protocol. Process **10 scans**. Use derivative extract pages **27–36** for original scans **176–185**. Stop after scan **185**; do not process scan 186 / extract page 37.

@@ -60,6 +60,19 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R34
+
+- every printed word, heading, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **25** / original physical scan **174**.
+- scan 173’s open quotation was reconfirmed as closing after `நாத்திகரின் தொகை பெருகுவதால் நாட்டுக்கு நன்மையே ஒழிய வேறில்லை”`.
+- `பகவத் சிரோமணிகளே!`, `பஜகோவிந்தப் பித்தர்களே!`, `‘புன்மொழி’ யல்ல`, heading `மறு மலர்ச்சி`, and terminal `ஆனால் கிளிஞ்சல்களை வாரி இறைக்காதே!` were reconfirmed.
+- source-visible `மயிலைக்கண்டு`, `மதுரைப்போன்ற`, `காரணம்-முன்பு`, and `நாப்பழக்கம்` were preserved without normalization.
+- the isolated dark dot under the running-header rule remains non-publication layer.
+- mandatory historical-family verification was repeated; historical `றா` in `நன்றாகப்`, `மீனாட்சி`, `மயிலைக்கண்டு`, `சிரோமணிகளே` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 174 placeholder was replaced after full direct source-pixel transcription and audit; the earlier `பகவத் சிரோ…` hold is resolved as `பகவத் சிரோமணிகளே!`.

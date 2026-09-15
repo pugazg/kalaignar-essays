@@ -47,6 +47,18 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R34
+
+- every printed word, numeral, heading, Roman parenthetical, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **19** / original physical scan **168**.
+- headings `நாட்குறைப்பு:` / `உத்தியோக உயர்வு:`, parentheticals `(வாட்ச்மேன்)` / `(கான்விக்ட் வார்டர்)`, and quoted `“நாட் கழிவு”` were reconfirmed.
+- source-visible forms including `குறைப்படுதெனப்`, `உழியத் திற்க்காக`, `பனிரெண்டு`, `பயன்பெறுக`, `பணிபுரிவோருக்குமட்டும்`, `மேற்பார்வை யிடுபவராகவோ`, `ஆறுமாதகாலம்`, and `அவர்கட்கு` were preserved without normalization.
+- paper toning / scattered age specks remain non-publication layer; no body wording is obscured.
+- mandatory historical-family verification was repeated; `தண்டனை` (`ணை`), `நன்னடத்தைக்காக`, `மேற்பார்வையாளனுக்கு`, `நாணயமுள்ளவன்` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 168 placeholder was replaced only after full direct source-pixel transcription and audit.

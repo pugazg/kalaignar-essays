@@ -52,6 +52,18 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R34
+
+- every printed word, heading, bracket, punctuation mark, meaningful spacing, running header, visible folio and printed star separator was rechecked directly from derivative extract page **20** / original physical scan **169**.
+- headings `ஆலோசனை மன்றம்:` / `நீ நோயாளியா?`, the full bracketed `குறிப்பு:` note, and the bottom printed **★** separator were reconfirmed as publication matter.
+- source-visible forms including `செய்வதுபற்றி`, `மாதத்திற்கொருமுறை`, `செஷன்ஸ் ஜட்ஜும்`, `உத்தியோகப் பற்றற்ற`, `தண்டனைபெற்று`, `நடவடிக்கையுள்ள`, `கவலை யெடுத்து`, `அக்கரை`, and `மிகைப்படுத்துவோர்` were preserved.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `தண்டனை` (`ணை`), `கண்ணியமுடன்`, `நோயாளியா`, `வைத்தியசாலை` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 169 placeholder was replaced only after full direct source-pixel transcription and audit.

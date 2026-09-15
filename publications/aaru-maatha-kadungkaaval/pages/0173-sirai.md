@@ -15,7 +15,7 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 
 நாட்டாளும் ஆச்சாரியார் சொல்லுகிறார், நம்மை யெல்லாம் நசக்கவேண்டுமென்று! அவர் பக்தகோடிகளும் அதையே சொல்லுகிறார்கள். ஆனால் அவர்கள் பக்தி சிரத்தையோடு பின்பற்றும் பண்டித ஜவஹர்லால் நேரு என்ன சொல்லுகிறார் என்று பாருங்கள். சிறைச்சாலையிலே ஒரு புத்தகம் எழுதுகிறார் பண்டிதர். அதன் பெயர் உலக சரித்திரம். அதிலே ஒரு பகுதியைக் குறிப்பிடுகிறேன் - கவனியுங்கள்.
 
-இந்தியாவில் அக்பர், ஆட்சி நடத்துகிறார். அவர் எம்மதத்தையும் விரோதித்துக் கொள்ளாமல் ராஜ்ய பரிபாலனம் புரிகிறார். அப்போது அவரை தமது மதத்தில் சேர்ப்பதற்காக எச சங்கப் பாதிரிகள் வருகிறார்கள். அவர்களை அக்பர் சில கேள்விகள் கேட்டு மடக்கிவிடுகிறார். எச சங்கப் பாதிரிகள் அக்பரைப் பற்றி ஒரு குறிப்பு தருகிறார்கள்.
+இந்தியாவில் அக்பர், ஆட்சி நடத்துகிறார். அவர் எம்மதத்தையும் விரோதித்துக் கொள்ளாமல் ராஜ்ய பரிபாலனம் புரிகிறார். அப்போது அவரை தமது மதத்தில் சேர்ப்பதற்காக எச சங்கப் பாதிரிகள் வருகிறார்கள். அவர்கள் அக்பர் சில கேள்விகள் கேட்டு மடக்கிவிடுகிறார். எச சங்கப் பாதிரிகள் அக்பரைப் பற்றி ஒரு குறிப்பு தருகிறார்கள்.
 
 “எல்லா நாஸ்திகருக்கும் பொதுவான குற்றம் அக்பரிடத்திலும் காணப்படுகிறது. நாஸ்திகர் தங்களுடைய பகுத்தறிவை மத நம்பிக்கைக்கு கீழ்ப்படுத்த மறுக்கிறார்கள். மனித அறிவின் எல்லைக்கு அப்பாற்பட்ட விஷயங்களையெல்லாம் குறைபாடுள்ள தங்கள் அறிவாராய்ச்சிக்கு உட்படுத்துகிறார்கள்.”
 
@@ -46,6 +46,19 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - because the prior record was only a placeholder, this is a first canonical decoding and does **not** add a correction event.
 - unresolved historical-glyph ambiguity — **0**.
 - cumulative historical-glyph correction-event count remains **11**.
+
+## P2R visual-fidelity re-audit — Batch R34
+
+- every printed word, numeral, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and terminal open-quotation fragment was rechecked directly from derivative extract page **24** / original physical scan **173**.
+- direct source-text correction: `அவர்களை அக்பர் சில கேள்விகள் கேட்டு மடக்கிவிடுகிறார்.` → **`அவர்கள் அக்பர் சில கேள்விகள் கேட்டு மடக்கிவிடுகிறார்.`**. The source line break is `அவர்` + `கள்`, directly establishing `அவர்கள்`; no `ளை` object ending is printed.
+- source-visible `எச சங்கப் பாதிரிகள்`, `நம்மை யெல்லாம்`, `நசக்கவேண்டுமென்று`, `அறிவாராய்ச்சிக்கு`, and `லக்ஷணங்கள்` were otherwise reconfirmed.
+- page ends inside the open quotation at `என்றால் அத்தகைய`; scan 174 continues it.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; historical `றா` in `என்றால்`, `சிறைச்சாலையிலே`, and the full 13-family set were checked by character identity. The `அவர்கள்` correction is an ordinary source-word correction, not a tracked `ளை` event.
+- ordinary source-fidelity corrections on this scan — **1**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS after source-fidelity correction**.
+
 
 ## P2 நிலை
 

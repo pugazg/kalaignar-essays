@@ -47,6 +47,19 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R34
+
+- every printed word, numeral, Latin initial, quotation mark, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **26** / original physical scan **175**.
+- source-visible `G. நாராயணசாமி`, `ஒளிபெறு`, `யென்னும்`, `ஒரேயடியாக`, `கால் மூன்றத்துக் கத்திரிக்காய்`, `19ந்`, `ஜூலை 18 லிருந்து`, `சூழ்நிலைப்பற்றியும்`, and `முன்னூறுக்கு` were reconfirmed.
+- historical `றா` in `தொடர்ந்தாற்போல்` was rechecked directly.
+- page ends with complete `அந்தத் தேர்வு நடத்தப்பட்டது.`; **scan 176 / extract page 27 was not opened or processed in Batch R34**.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `மாறினர்` / `தொடர்ந்தாற்போல்` (`றா`), `கத்திரிக்காய்`, and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 175 placeholder was replaced only after full direct source-pixel transcription and audit.

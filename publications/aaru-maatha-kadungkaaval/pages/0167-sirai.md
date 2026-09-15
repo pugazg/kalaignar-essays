@@ -54,6 +54,18 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R34
+
+- every printed word, heading, bracketed note, punctuation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **18** / original physical scan **167**.
+- headings `கண்ணான நேரம் - பொன்னான வாய்ப்பு!`, `உடைகள்:`, and `பேட்டியும் கடிதமும்:` were reconfirmed exactly.
+- the bracketed `[குறிப்பு: ... - ஆர்.]` note and source-visible forms including `உள்ளங் கவர்ந்த`, `பள்ளியுண்டு`, `கால வரையறைக்குமேல்`, and `கண்ணியமாய்` were preserved.
+- the faint blue left-margin physical-copy stroke and paper toning remain non-publication layer.
+- mandatory historical-family verification was repeated; historical `னா` in `கண்ணான` / `பொன்னான`, `ணா` in `வீணாக்கினால்`, and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 167 placeholder was replaced only after full direct source-pixel transcription and audit.

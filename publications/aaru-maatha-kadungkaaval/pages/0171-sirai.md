@@ -47,6 +47,18 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - no global replacement or spelling modernization was used.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R34
+
+- every printed word, quotation mark, punctuation mark, meaningful spacing, running header, visible folio, subheading and terminal fragment was rechecked directly from derivative extract page **22** / original physical scan **171**.
+- source-visible unusual `என்றுள்`, repeated `கண்டு பிடித்தான்`, `அவன்முட்டன்!`, `யென்பதற்காக`, and `இல்லை யென சொல்லமுடியுமா?` were reconfirmed without contextual normalization.
+- subheading `அதற்கு ஒரே பதில்-` and terminal physical fragment `செய்யப்` were preserved; scan 172 begins `பட்டார்.`.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `வணங்கவில்லை`, `மனிதனைப்`, `வானவூர்திகள்`, `இல்லை யென` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 171 placeholder was replaced only after full direct source-pixel transcription and audit.

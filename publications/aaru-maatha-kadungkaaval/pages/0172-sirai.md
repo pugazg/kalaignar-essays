@@ -46,6 +46,18 @@ transcription_method: "direct visual comparison with user-supplied scans-150–2
 - unresolved historical-glyph ambiguity — **0**.
 - cumulative historical-glyph correction-event count remains **11**.
 
+## P2R visual-fidelity re-audit — Batch R34
+
+- every printed word, punctuation mark, quotation mark, meaningful spacing, running header, visible folio and complete ending was rechecked directly from derivative extract page **23** / original physical scan **172**.
+- scan 171 terminal `செய்யப்` → this page’s opening `பட்டார்.` continuation was reconfirmed.
+- source-visible `வெள்ளிடைமலை`, both `சொல்லில்` constructions, `தவளைபோல்`, `ஒன்றுற`, `காவியுடைப் பண்டாரத்தார்`, and `சொல்லாயிருக்கலாம்` were preserved without normalization.
+- paper toning / scattered age specks remain non-publication layer.
+- mandatory historical-family verification was repeated; `தவளைபோல்` (`ளை`), `வறுமையின்`, `வைரம்` and the full 13-family set were checked by character identity.
+- canonical correction — **none**.
+- new historical-family correction events — **0**; cumulative count remains **19**.
+- result — **PASS**.
+
+
 ## P2 நிலை
 
 **verified** — scan 172 placeholder was replaced only after full direct source-pixel transcription and audit.
