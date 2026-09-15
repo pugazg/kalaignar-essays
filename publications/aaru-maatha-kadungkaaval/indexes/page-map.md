@@ -11,7 +11,7 @@ Controlling attached source: `TVA_BOK_0064140_ஆறுமாதக்_கடு
 - P2R — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **COMPLETE / PASS — 3/3 article structures: முரசு / களம் / சிறை**
 - P4 — **COMPLETE / PASS — source audit / completeness review**
-- P5 — **NOT STARTED — NEXT**
+- P5 — **COMPLETE / PASS — 224/224 — visual-text-fidelity complete**
 
 Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVIEW.md)
 
@@ -320,4 +320,16 @@ Scans 16–17 remain independent physical page records.
 
 ## Exact next activity
 
-**P5 — final strict visual text-fidelity pass.**
+**English translation startup — Tamil P0–P5 is complete and frozen.**
+
+
+## P5 closure
+
+- strict visual fidelity coverage — **224/224 physical scans**
+- canonical structure — **முரசு / களம் / சிறை**
+- article assemblies — **3/3 synchronized**
+- P5 canonical corrections — **3**
+- P5 historical-glyph correction events — **0**
+- needs-review / blocked / guessed — **0 / 0 / 0**
+- unresolved fidelity discrepancies — **0**
+- final Tamil status — **FROZEN**
