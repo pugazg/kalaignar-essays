@@ -182,7 +182,7 @@ People speak of coolness as delight. It is such a fine town that one wonders whe
 
 but there are some people with mere sparrow-heads who cannot realise it! When I think of that, I also remember that among those Kulithalais there are Raja “Cholagars” and Muthukrishnans strengthened by principle. The thought gives sweetness too. Raja will never say something cannot be done. He believes that saying so would hurt another. He has the courage to ignore opposition and shake it off like dust. Comrade Raja is a son of the family of heroes renowned as the Cholagar family.
 
-Comrade Muthukrishnan is possessed of the resolve always, at every moment, to do something fitting for the movement's growth. Kulithalai has countless comrades as warriors, not these two alone. There are many towns like Kulithalai. There are many hamlets and villages overflowing with noble workers and hearts full of strength. All must become our camps. In some camps there will be many weapons but few warriors to wield them. In others there will be many warriors but few weapons. The frontline fighters in each town must come forward both to increase the weapons and to enlarge the number of warriors to match them. The moment I say “weapons of war,” this Government of astonishing heroism may take fright—and even if it does not, parties that openly practise violence will go about beating the drum and awarding us the title “advocates of violence”! By “weapons of war” I mean members of the movement, and by “warriors” I mean executive-committee members. I say this not out of fear, but out of the dignity that must be observed in politics!
+Comrade Muthukrishnan is possessed of the resolve always, at every moment, to do something fitting for the movement's growth. Kulithalai has countless comrades as warriors, not these two alone. There are many towns like Kulithalai. There are many hamlets and villages overflowing with noble workers and hearts full of strength. All must become our camps. In some camps there will be many weapons but few warriors to wield them. In others there will be many warriors but few weapons. The frontline fighters in each town must come forward both to increase the weapons and to enlarge the number of warriors to match them. The moment I say “weapons of war,” this Government of impossible valour may take fright—and even if it does not, parties that openly practise violence will go about beating the drum and awarding us the title “advocates of violence”! By “weapons of war” I mean members of the movement, and by “warriors” I mean executive-committee members. I say this not out of fear, but out of the dignity that must be observed in politics!
 
 <!-- Tamil source: scan 28 / printed 25 -->
 
@@ -223,7 +223,7 @@ At that Karur, an “explanatory meeting on Dalmiyapuram” had been arranged fo
 
 Looking at Karikalan, one cannot help wondering: with such a thin frame—with a body like a splinter—how does he spin like a top and perform rationalist work like this?
 
-Friend Murugesan is almost an example of modesty—selflessness—boundless enthusiasm—all three.
+Modesty—selflessness—boundless enthusiasm: friend Murugesan stands almost as the very example of all three.
 
 He too was with us in Tiruchi prison. One evening someone came hurriedly to me and said, “Sir, Kamaraj Nadar is coming, sir.” I was surprised. Perhaps he was coming as a jail visitor, I thought. The answer—how could great men like him ever develop such concern?—immediately arose in my mind as well. Still, let us see, I thought, and came out of the room. There was no Kamaraj. Karur Murugesan was coming. Seen suddenly, Murugesan
 
@@ -251,7 +251,7 @@ Within a few hours, dawn had come. We too set out. Around ten in the morning we 
 
 <!-- Tamil source: scan 36 / printed 33 -->
 
-“Here on this stage we have conducted a marriage for a widow; we have held a ceremony giving life again to a woman whose life had been taken from her. Our Dravida too is a widow! A woman whose life has been taken from her! We have gathered here to devise the methods of action for conducting that remarriage—to give renaissance—to arrange the marriage of the Dravidian widow—to restore life to her who had gone out to live. Our faith is growing that our effort will succeed.
+“Here on this stage we have conducted a marriage for a widow; we have held a ceremony giving life again to a woman robbed of a life. Our Dravida too is a widow! A woman robbed of a life! We have gathered here to devise the methods of action for conducting that remarriage—to give renaissance—to arrange the marriage of the Dravidian widow—to give life back to the woman who had set out to live. Our faith is growing that our effort will succeed.
 
 “All those who once cursed us, ‘May you be ruined,’ now bless us: ‘Long live the good younger brothers who guard the nation.’ The man who called me ‘Kolaignar’—killer—at the last meeting calls me ‘Kalaignar’—artist—with tenderness at this meeting. He even sheds tears thinking of what he did before. Those who were in other ranks are now seen in ours. In short, to string a garland for Dravida's remarriage—to pluck flowers for it—all those who had been in the opposing camp are clearing their minds and running toward us.”
 
@@ -492,7 +492,7 @@ I reported to the General Secretary the successful public meetings held in Tiruc
 
 In Thanjavur district there is a small village called Vengidangal. There lives a young man one could point to and say, “Here is a spring of enthusiasm”—an able man—a Santhanam whom the movement has gained. He had arranged a meeting there on June 30. Comrade S. K. Sami, I and others spoke. The inaugural function of the Nagai regional organisation was also held there. Many Tiruvarur comrades, including Karunai Jamal, had come.
 
-Jamal was one of the comrades who worked hard to make that meeting happen. Those who see friend Jamal, newly taking up movement responsibilities and doing service, are amazed and ask: “He too works like this?” This is an age in which crowds of “minors,” born in wealthy families, emerge bewitched by the dry philosophy “Life is for living!” without examining the basic question of what kind of life is to be lived and how. In such a time, people like Jamal coming forward to do movement work deserves praise—and can show a path to everyone.
+Jamal was one of the comrades who worked hard to make that meeting happen. Those who see friend Jamal, newly taking up movement responsibilities and doing service, are amazed and ask: “He too works like this?” This is an age in which crowds of “minors,” born in wealthy families, emerge bewitched by the dry philosophy “Life is for living!” without examining the basic question of what kind of life is to be lived and how. In such a time, people like Jamal coming forward to do movement work deserve praise—and can show a path to everyone.
 
 After the Vengidangal meeting, we went to Madras.
 
