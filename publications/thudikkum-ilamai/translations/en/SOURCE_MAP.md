@@ -56,3 +56,20 @@ English article body files at E0 — **0/4**.
 English body prose at E0 — **0**.  
 Tamil source changes during E0 — **0**.  
 Blockers — **0**.
+
+
+## Verified English article authorities
+
+All four articles are individually T5 verified.
+
+| # | Tamil title | Verified English title | English path | Verified English blob |
+|---:|---|---|---|---|
+| 1 | `துடிக்கும் இளமை` | **Throbbing Youth** | `01-thudikkum-ilamai.md` | `46c70fd2bf702a061d35b45383c8c8e0841852d9` |
+| 2 | `அண்ணாமலைக்கு அரோகரா!` | **Arohara to Annamalai!** | `02-annamalaikku-arogara.md` | `1cfce7827fec69de08c98dd78edf4a06a7216a41` |
+| 3 | `பூம்புகார்` | **Poompuhar** | `03-poompuhar.md` | `67649c4db83881840137073bafa24d31062fb86c` |
+| 4 | `வெற்றி விளக்கு!` | **Lamp of Victory!** | `04-vetri-vilakku.md` | `083d514b93d58484f49e3193235b9631d995cd8e` |
+
+Article verification state — **4/4 T5 VERIFIED**.  
+Publication E6/E7 — **NOT STARTED**.
+
+The frozen Tamil blobs above remain the source authorities. A later Tamil correction requires reopening the affected verified English article.
