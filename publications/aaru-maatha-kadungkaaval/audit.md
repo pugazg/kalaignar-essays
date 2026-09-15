@@ -7,7 +7,7 @@
 | P0 | **COMPLETE / PASS — 224-page native source verified** |
 | P1 | **COMPLETE / PASS — 224/224 structurally mapped** |
 | P2 | **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review** |
-| P2R visual-fidelity re-audit | **IN PROGRESS — 190/224 scans complete; next 191–205; 15 scans/iteration** |
+| P2R visual-fidelity re-audit | **IN PROGRESS — 205/224 scans complete; next 206–220; 15 scans/iteration** |
 | P3 | **NOT STARTED** |
 | P4 | **NOT STARTED** |
 | P5 | **NOT STARTED** |
@@ -1910,8 +1910,33 @@ Historical-family verification added **1 new correction event** — historical `
 
 P2R progress — **190/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **191–205**.
 
+
+### Batch R36 — scans 191–205
+
+| Scan | Result | Re-audit finding |
+|---:|---|---|
+| 191 | PASS | scan-190 continuation / source forms / ending confirmed |
+| 192 | PASS | full text / historical-family checks / terminal continuation confirmed |
+| 193 | PASS | scan-192 continuation / `16ம்` / final quote confirmed |
+| 194 | PASS | `அதிசயம்!` / dialogue / terminal fragment confirmed |
+| 195 | PASS | `(Fancy Dress)` / quoted sequence / terminal `சொரண்டிப்` confirmed |
+| 196 | PASS | scan-195 continuation / source line-wrap joins / ending confirmed |
+| 197 | PASS | prizes / names / initials / ending confirmed |
+| 198 | RE-AUDITED / NEEDS-REVIEW retained | physical blue mark still obscures `அ[…]ந்தார்`; all visible print confirmed; no guess inserted |
+| 199 | PASS | historical-`றா` line-wrap `கூறாமலிருக்க` reconfirmed |
+| 200 | PASS | source wording / line-wrap joins / terminal `ஆகி` confirmed |
+| 201 | PASS after correction | `‘ஜோக்கா’` → source-visible `‘ஜோக்கர்’` |
+| 202 | PASS | scan-201 continuation / unusual source forms / ending confirmed |
+| 203 | PASS | source-visible `எழும்பு` / `மார்பு,` / terminal fragment confirmed |
+| 204 | PASS | scan-203 continuation / source punctuation / terminal `நேரு` confirmed |
+| 205 | PASS | historical `என்றான்` / `பதினொராம்` / final quotation confirmed; scan 206 not opened |
+
+Historical-family verification added **0 new correction events**; cumulative count remains **20**. Ordinary source-fidelity corrections — **1**.
+
+P2R progress — **205/224**. P2 remains **222 verified / 2 needs-review**. Guessed readings remain **0**. Next range — **206–220**.
+
 ## Exact next activity
 
-**P2R Batch R36 — scans 191–205.**
+**P2R Batch R37 — scans 206–220.**
 
-Perform the same **15-page** word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Use derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`, extract pages **42–56** = original scans **191–205**. Stop after scan 205; do not process scan 206 / extract page 57.
+Perform the same **15-page** word-by-word visual fidelity review and mandatory 13-family historical glyph audit. Use derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`, extract pages **57–71** = original scans **206–220**. Stop after scan 220; do not process scan 221 / extract page 72.

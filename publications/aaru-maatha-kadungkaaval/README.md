@@ -38,7 +38,7 @@ Direct native inspection established:
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 canonical records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 190/224 scans; next 191–205; 15 scans/iteration**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 205/224 scans; next 206–220; 15 scans/iteration**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -893,8 +893,23 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 - guessed readings remain **0**.
 - P2R progress — **190/224**.
 
+
+### Batch R36 — scans 191–205
+
+- **15/15 re-audited** directly from derivative extract pages **42–56**; scan 206 / extract page 57 was not opened.
+- scans **191–197** — PASS / no canonical correction.
+- scan **198** — all visible print PASS; existing source-obscured `முதற் பரிசை அ[…]ந்தார்` hold remains **needs-review** after native-resolution / blue-mark separation reinspection; no guess inserted.
+- scans **199–200** — PASS / no canonical correction.
+- scan **201** — `‘ஜோக்கா’` → source-visible **`‘ஜோக்கர்’`**.
+- scans **202–205** — PASS / no canonical correction.
+- ordinary source-fidelity corrections — **1**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- P2 totals remain **222 verified / 2 needs-review** (holds scans 18 and 198).
+- guessed readings remain **0**.
+- P2R progress — **205/224**.
+
 ## Exact next activity
 
-**P2R Batch R36 — scans 191–205.**
+**P2R Batch R37 — scans 206–220.**
 
-Process exactly **15 physical scans** with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract pages **42–56** map to original scans **191–205**. Stop after scan 205; do not process scan 206 / extract page 57.
+Process exactly **15 physical scans** with the same word-by-word native-source fidelity check and mandatory historical-glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract pages **57–71** map to original scans **206–220**. Stop after scan 220; do not process scan 221 / extract page 72.

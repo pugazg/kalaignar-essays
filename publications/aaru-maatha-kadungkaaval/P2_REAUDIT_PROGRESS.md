@@ -20,9 +20,9 @@ Existing P2 source-obscured holds at scans **18** and **198** remain open unless
 ## Progress
 
 - total physical scans — **224**
-- re-audited — **190/224**
-- completed range — **1–190**
-- next range — **191–205**
+- re-audited — **205/224**
+- completed range — **1–205**
+- next range — **206–220**
 - P2 canonical status — **222 verified / 2 needs-review**
 - guessed readings — **0**
 - cumulative historical-glyph correction events — **20**
@@ -847,8 +847,40 @@ Ordinary source-fidelity corrections in Batch R35 — **1**.
 P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
 
 
+## Batch R36 — scans 191–205
+
+| Scan | Page type | Re-audit result | Source-fidelity action |
+|---:|---|---|---|
+| 191 | body / folio 188 | PASS | scan-190 continuation / `நாற்காலி` / `நீக்ரோவர்` / complete ending confirmed |
+| 192 | body / folio 189 | PASS | full text / source forms / terminal `மாறுவதிலே என்ன` confirmed |
+| 193 | body / folio 190 | PASS | scan-192 continuation / `16ம்` / final quoted slogan confirmed |
+| 194 | body / folio 191 | PASS | heading `அதிசயம்!` / dialogue sequence / terminal fragment confirmed |
+| 195 | body / folio 192 | PASS | scan-194 continuation / `(Fancy Dress)` / quoted `குடு குடு...` / terminal `சொரண்டிப்` confirmed |
+| 196 | body / folio 193 | PASS | scan-195 continuation / source line-wrap joins / judges' names confirmed |
+| 197 | body / folio 194 | PASS | prize / names / initials / complete ending confirmed |
+| 198 | body / folio 195 | RE-AUDITED / HOLD retained | all visible print confirmed; dark-blue physical-copy mark still obscures `முதற் பரிசை அ[…]ந்தார்`; no contextual completion |
+| 199 | body / folio 196 | PASS | historical-`றா` line-wrap `கூறா` + `மலிருக்க` = `கூறாமலிருக்க` reconfirmed |
+| 200 | body / folio 197 | PASS | `கடல் உருண்டை` readings / line-wrap joins / terminal `ஆகி` confirmed |
+| 201 | body / folio 198 | PASS after correction | `‘ஜோக்கா’` → source-visible `‘ஜோக்கர்’`; remainder / terminal `ஒரு கடிதம்` confirmed |
+| 202 | body / folio 199 | PASS | scan-201 continuation / `திருச்சி திராக்களின்` / quoted `தலைவர்களே விடுதலை செய்` / ending confirmed |
+| 203 | body / folio 200 | PASS | `எழும்பு` / `மார்பு,` / numerals / terminal `பெறமுடி` confirmed |
+| 204 | body / folio 201 | PASS | scan-203 continuation `பெறமுடி` + `யுமே`; source punctuation / terminal `நேரு` confirmed |
+| 205 | body / folio 202 | PASS | scan-204 continuation / historical `என்றான்` / `பதினொராம்` / final quotation confirmed; scan 206 not opened |
+
+Historical-family findings:
+
+- all 13 tracked families were explicitly checked on every visible source area by character identity;
+- scan 198's covered cluster remains a physical-obstruction hold, not a historical-glyph ambiguity;
+- scan 205's previously resolved historical `றா` readings `என்றான்` and `பதினொராம்` were reconfirmed;
+- new historical-family correction events — **0**; cumulative count remains **20**.
+
+Ordinary source-fidelity corrections in Batch R36 — **1**.
+
+P2 canonical totals remain **222 verified / 2 needs-review**. Guessed readings remain **0**.
+
+
 ## Exact next activity
 
-**Batch R36 — physical scans 191–205.**
+**Batch R37 — physical scans 206–220.**
 
-Process exactly **15 scans** with the same word-by-word visual fidelity and historical-glyph protocol. Use derivative extract pages **42–56** for original scans **191–205**. Stop after scan **205**; do not process scan 206 / extract page 57.
+Process exactly **15 scans** with the same word-by-word visual fidelity and historical-glyph protocol. Use derivative extract pages **57–71** for original scans **206–220**. Stop after scan **220**; do not process scan 221 / extract page 72.

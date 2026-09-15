@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P2R Batch R35 / full visual-fidelity re-audit scans 176–190**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **190/224 scans complete**. Batch R35 produced **1 ordinary source-fidelity correction** and **1 historical-family correction event**, bringing the cumulative historical-glyph correction-event count to **20**. Per the user's latest instruction, P2R remains **15 physical scans per iteration**. Physical-source P2 record coverage is complete; fidelity backlog remains open. Do not rely on a copied SHA: fetch live `main` first, preserve any newer durable work, and continue from that state.
+Handoff refreshed after **P2R Batch R36 / full visual-fidelity re-audit scans 191–205**. P2 remains **224/224 canonical records; 222 verified / 2 needs-review**; P2R is **205/224 scans complete**. Batch R36 produced **1 ordinary source-fidelity correction** (`‘ஜோக்கா’` → `‘ஜோக்கர்’` on scan 201), **0 new historical-family correction events**, and retained the source-obscured scan-198 hold. The cumulative historical-glyph correction-event count remains **20**. Per the user's latest instruction, P2R remains **15 physical scans per iteration**. Physical-source P2 record coverage is complete; fidelity backlog remains open.
 
 ## Repository state
 
@@ -60,7 +60,7 @@ Only attached-source pixels control transcription. Do not consult TVA/Wikisource
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **IN PROGRESS / PHYSICAL COVERAGE COMPLETE — 224/224 records; 222 verified / 2 needs-review**
-- P2R visual-fidelity re-audit — **IN PROGRESS — 190/224 scans complete; next 191–205; 15 scans/iteration**
+- P2R visual-fidelity re-audit — **IN PROGRESS — 205/224 scans complete; next 206–220; 15 scans/iteration**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -1905,11 +1905,26 @@ Batch R01 scans **1–5** is complete.
 - guessed readings remain **0**.
 - P2R progress — **190/224**.
 
+
+### Batch R36 — scans 191–205
+
+- **15/15 re-audited** directly from derivative extract pages **42–56**; scan 206 / extract page 57 was not opened.
+- scans **191–197** — PASS / no canonical correction.
+- scan **198** — all visible print PASS; existing source-obscured `முதற் பரிசை அ[…]ந்தார்` hold remains **needs-review** after native-resolution / blue-mark separation reinspection; no guess inserted.
+- scans **199–200** — PASS / no canonical correction.
+- scan **201** — `‘ஜோக்கா’` → source-visible **`‘ஜோக்கர்’`**.
+- scans **202–205** — PASS / no canonical correction.
+- ordinary source-fidelity corrections — **1**.
+- new historical-family correction events — **0**; cumulative count remains **20**.
+- P2 totals remain **222 verified / 2 needs-review** (holds scans 18 and 198).
+- guessed readings remain **0**.
+- P2R progress — **205/224**.
+
 ## Exact next activity
 
-**P2R Batch R36 — physical scans 191–205.**
+**P2R Batch R37 — physical scans 206–220.**
 
-Process exactly **15 physical scans** with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract page N = original physical scan N+149, so scans 191–205 map to extract pages **42–56**. Stop after scan 205; do not process scan 206 / extract page 57.
+Process exactly **15 physical scans** with the same word-by-word native-source visual fidelity check and mandatory 13-family historical Tamil glyph verification. Use the attached derivative `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`; extract page N = original physical scan N+149, so scans 206–220 map to extract pages **57–71**. Stop after scan 220; do not process scan 221 / extract page 72.
 
 Existing source-obscured holds remain scans 18 and 198.
 
