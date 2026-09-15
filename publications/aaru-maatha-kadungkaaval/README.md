@@ -41,7 +41,7 @@ Direct native inspection established:
 - P2R visual-fidelity re-audit — **COMPLETE — 224/224 physical scans re-audited**
 - P3 — **COMPLETE / PASS — 3/3 article assemblies: `முரசு`, `களம்`, `சிறை`**
 - P4 — **COMPLETE / PASS — publication source audit / completeness review**
-- P5 — **IN PROGRESS — 45/224; next scans 46–60**
+- P5 — **IN PROGRESS — 60/224; next scans 61–75**
 - English — **BLOCKED**
 
 ## Historical Tamil glyph policy
@@ -987,3 +987,14 @@ Batch P5-01:
 - known P2R repairs in this range were directly reconfirmed and remain present in `01-murasu.md`
 - P5 cumulative — **45/224**
 - next — **scans 46–60**
+
+
+### Batch P5-04 — scans 46–60
+
+- scans **46–60** — **15/15 PASS**
+- new canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- needs-review / blocked / guessed — **0 / 0 / 0**
+- known P2R repairs at scans 50, 54 and 55 were directly reconfirmed and remain present in `01-murasu.md`
+- P5 cumulative — **60/224**
+- next — **scans 61–75**

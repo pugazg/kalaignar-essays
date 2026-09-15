@@ -17,9 +17,9 @@ Rules:
 ## Progress
 
 - physical scans — **224**
-- P5 checked — **45/224**
-- completed range — **1–45**
-- next range — **46–60**
+- P5 checked — **60/224**
+- completed range — **1–60**
+- next range — **61–75**
 - current needs-review — **0**
 - current blocked — **0**
 - guessed readings — **0**
@@ -139,8 +139,51 @@ Batch P5-03 totals:
 - guessed readings — **0**
 - P5 cumulative progress — **45/224**
 
+## Batch P5-04 — scans 46–60
+
+Result: **15/15 PASS / no canonical correction**.
+
+| Scan | P5 result | Key reconfirmation |
+|---:|---|---|
+| 46 | PASS | continuation of the open quotation from scan 45, complete body, punctuation and terminal fragment reconfirmed |
+| 47 | PASS | complete text / unusual source wording / punctuation / terminal fragment reconfirmed |
+| 48 | PASS | source-distinct spellings **`கத்தரிக் கோல்`** and **`கத்திரிக்கோல்`** both reconfirmed; no normalization |
+| 49 | PASS | unusual source punctuation after **`இருந்தால்.`** and complete quoted passages reconfirmed |
+| 50 | PASS | prior source correction **`திருப்பிப் பார்த்தான் அசோகன்`** directly reconfirmed |
+| 51 | PASS | heading **`அரியலூர் :`**, complete body, punctuation and terminal fragment reconfirmed |
+| 52 | PASS | scan-boundary `புறப்` + `பட்டோம்` continuation, numerals and full text reconfirmed |
+| 53 | PASS | scan-boundary `வந்திருக்க` + `குமே!` continuation and full quotation fidelity reconfirmed |
+| 54 | PASS | prior source correction **`எதென்சுப் பெரியோன்`** directly reconfirmed |
+| 55 | PASS | prior source correction **`எப்படி அய்யா கண்டுபிடித்தீர்கள்`** directly reconfirmed |
+| 56 | PASS | open-quotation continuation, punctuation, spacing and terminal fragment reconfirmed |
+| 57 | PASS | full text, quotations, colloquial forms and page ending reconfirmed |
+| 58 | PASS | bus-driver dialogue and complete body text reconfirmed |
+| 59 | PASS | full text, Latin initials, numerals and closing announcement reconfirmed |
+| 60 | PASS | heading **`முரசு முழங்கியது`**, quoted historical/religious references and complete ending reconfirmed |
+
+Historical-family verification for this batch reconfirmed representative source identities already established in P2R, including `கண்ணதாசன்`, `மாலை`, `சென்னை`, `அண்ணாவின்`, `கண்ணையும்`, `தலைவர்களே`, `தண்டனை`, `இளைஞர்`, `திருக்குவளை`, `சால்வை`, `காளையர்`, `கண்ணை`, `ஆற்காடு`, `எண்ணை`, `அண்ணா`, and `அண்ணுமலை / வண்ணத் / கண்ணென`.
+
+The P3 `முரசு` assembly was checked for the known P2R repairs in this range. It contains the canonical forms `திருப்பிப் பார்த்தான் அசோகன்`, `எதென்சுப் பெரியோன்`, and `எப்படி அய்யா கண்டுபிடித்தீர்கள்`; it also preserves the source-distinct `கத்தரிக் கோல்` / `கத்திரிக்கோல்` spellings and scan-49 punctuation.
+
+Batch P5-04 totals:
+
+- scans checked — **15**
+- canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- P5 cumulative progress — **60/224**
+
 ## Exact next activity
 
-**P5 Batch P5-04 — physical scans 46–60.**
+**P5 Batch P5-05 — physical scans 61–75.**
 
-Continue the same direct-source, no-OCR, no-web, no-normalization protocol. Stop after scan 60.
+This next range crosses the `முரசு` → `களம்` structural boundary. Preserve it exactly:
+- scans **61–65** — `முரசு`;
+- scan **66** — illustrated **`களம்`** title-transition with station-board `கல்லக்குடி`;
+- scan **67** — blank/reverse;
+- scan **68** — repeated heading **`களம்`** and body start;
+- scans **68–75** — `களம்` body.
+
+Continue the same direct-source, no-OCR, no-web, no-normalization protocol. Stop after scan 75.

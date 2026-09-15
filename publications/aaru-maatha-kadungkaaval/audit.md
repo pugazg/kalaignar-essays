@@ -10,7 +10,7 @@
 | P2R visual-fidelity re-audit | **COMPLETE — 224/224 physical scans re-audited** |
 | P3 | **COMPLETE / PASS — 3/3 article assemblies: முரசு / களம் / சிறை** |
 | P4 | **COMPLETE / PASS — source audit / completeness review** |
-| P5 | **IN PROGRESS — 45/224; next 46–60** |
+| P5 | **IN PROGRESS — 60/224; next 61–75** |
 
 ## P0 audit
 
@@ -2036,3 +2036,18 @@ P3 blockers — **0**.
 - cumulative P5 progress — **45/224**
 - article-assembly check — known P2R repairs in scans 33, 34, 39, 40, 42 and 43 remain synchronized
 - next range — **46–60**
+
+
+## P5 final strict visual fidelity — Batch P5-04
+
+- physical scans — **46–60**
+- checked — **15/15**
+- result — **PASS**
+- canonical corrections — **0**
+- new historical-glyph correction events — **0**
+- current needs-review — **0**
+- current blocked — **0**
+- guessed readings — **0**
+- cumulative P5 progress — **60/224**
+- article-assembly check — prior P2R repairs in scans 50, 54 and 55 remain synchronized
+- next range — **61–75**
