@@ -1,86 +1,58 @@
-# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / P5 Final Batch P5-13 scans 196–224
+# NEXT CHAT PROMPT — ஆறுமாதக் கடுங்காவல் / English translation startup
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publication `publications/aaru-maatha-kadungkaaval/`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Durable state
+## Tamil archival state — FROZEN
+
+Publication 12 `ஆறுமாதக் கடுங்காவல்` has completed all Tamil archival gates:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224**
 - P2 — **COMPLETE / PASS — 224/224 verified**
 - P2R — **COMPLETE — 224/224**
-- P3 — **COMPLETE / PASS — முரசு / களம் / சிறை**
+- P3 — **COMPLETE / PASS — 3/3 article assemblies**
 - P4 — **COMPLETE / PASS**
-- P5 — **IN PROGRESS — 195/224**
-- completed P5 range — **1–195**
-- final P5 range — **196–224**
-- P5 canonical corrections so far — **3**
-- P5 new historical-glyph correction events — **0**
+- P5 — **COMPLETE / PASS — 224/224**
+- P5 canonical corrections — **3**
+- P5 historical-glyph correction events — **0**
 - needs-review / blocked / guessed readings — **0 / 0 / 0**
-- pre-P5 cumulative historical-glyph correction-event count — **20**
+- unresolved fidelity discrepancies — **0**
+- Tamil status — **VISUAL-TEXT-FIDELITY COMPLETE / FROZEN**
 
 P5 report: `publications/aaru-maatha-kadungkaaval/VISUAL_TEXT_FIDELITY_REVIEW.md`.
 
 ## Durable P5 corrections
 
-- scan **110** — `அந்த வானத்தையும்` → **`அந்தி வானத்தையும்`**
-- scan **121** — `போராட்டத் தலைவர்` → **`போராட்டத் தலைவன்`**
-- scan **159** — `ஜெயில் சூப்பிரின்டெண்டு:` → **`ஜெயில் சூப்பிரின்டெண்ட்:`**
+1. scan **110** — `அந்த வானத்தையும்` → **`அந்தி வானத்தையும்`**
+2. scan **121** — `போராட்டத் தலைவர்` → **`போராட்டத் தலைவன்`**
+3. scan **159** — `ஜெயில் சூப்பிரின்டெண்டு:` → **`ஜெயில் சூப்பிரின்டெண்ட்:`**
 
 All three are ordinary lexical/source-fidelity corrections, not P5 historical-glyph correction events.
 
-## Durable P5-12 result
+The source-obscured readings at scan 18 **`ஆகிவிடக்கூடிய`** and scan 198 **`அடைந்தார்`** remain resolved by explicit user confirmation and are not guesses.
 
-Scans **166–195** / derivative extract pages **17–46** are **30/30 PASS / 0 canonical corrections**.
+## Frozen Tamil reading-copy authority
 
-User requested **30 pages** in that iteration; the batch was therefore extended from the previously planned 166–180 to **166–195**.
+Use the P3 article assemblies as the English source layer:
 
-Sensitive readings directly reconfirmed include:
+- `publications/aaru-maatha-kadungkaaval/articles/01-murasu.md`
+- `publications/aaru-maatha-kadungkaaval/articles/02-kalam.md`
+- `publications/aaru-maatha-kadungkaaval/articles/03-sirai.md`
 
-- scan 166 — **`அரசாங்கத்திடம்`**
-- scan 173 — **`அவர்களை அக்பர்`**
-- scan 179 — historical-`ணை` **`பஞ்சணை மீது`**
-- scan 189 — **`இருக்கவேண்டுமென்பதற்காக`**
-- scan 190 — **`மொழிப்பற்று — பித்தா ?`**
-- scan 195 — terminal physical fragment **`சொரண்டிப்`**
+The page records remain provenance authority. Do **not** silently change the frozen Tamil layer during English work.
 
-P3 `articles/03-sirai.md` remains synchronized. No new historical-glyph event.
+## English startup
 
-## Source for final P5 batch
+English is now **READY / NOT STARTED**.
 
-Use only the user-supplied derivative slice:
+Before translating:
 
-`TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்_part_001_pages_150-224.pdf`
+1. inspect live repository conventions for English translations in already completed essay publications;
+2. establish the correct English artifact/file layout for this publication without modifying Tamil source files;
+3. record translation identity as **project-created English translation**, unless live repository conventions require a more specific existing label;
+4. preserve article boundaries **முரசு / களம் / சிறை**;
+5. translate meaning faithfully without importing wording from web copies or alternate editions;
+6. keep source-specific names, dates, quotations, political/historical terminology and unusual source phrasing traceable to the frozen Tamil;
+7. add translation review gates consistent with the repository's existing completed-publication workflow.
 
-Stable mapping:
-
-**extract page N = physical scan N+149**
-
-Therefore physical scans **196–224 = extract pages 47–75**.
-
-## P5-13 — final 29 scans
-
-Inspect exactly physical scans **196–224** / extract pages **47–75** from the controlling source pixels.
-
-Structure:
-
-- scans **196–223** — `சிறை` body / final text run;
-- scan **224** — back cover / publisher device; do not invent body text.
-
-Known P2R landmarks to recheck rather than blindly trust include:
-
-- scan **198** — previously source-obscured reading was later resolved in P2; verify final canonical source-supported reading only, with no guess;
-- scan **201** — source-visible **`‘ஜோக்கர்’`**;
-- scan **209** — source-visible **`இன்ப நினைவுடன்`**;
-- scan **223** — final text-bearing page / work terminus;
-- scan **224** — terminal back cover / publisher device.
-
-For every scan:
-
-- compare every visible word, punctuation mark, meaningful spacing, quotation mark, heading, date, number and page-boundary fragment against the canonical record;
-- explicitly check `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`;
-- distinguish show-through / physical-copy marks from publication ink;
-- no OCR, web, Wikisource, TVA web text, alternate edition, contextual completion or silent normalization;
-- propagate any correction to `articles/03-sirai.md` and publication controls;
-- update the P5 report.
-
-After scan **224**, if all pages pass and no unresolved fidelity issue remains, complete the P5 closure / Tamil freeze gate and update handover accordingly.
+Do not activate Publication 13 `துடிக்கும் இளமை` unless the user explicitly redirects.
