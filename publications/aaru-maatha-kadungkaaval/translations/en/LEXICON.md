@@ -33,8 +33,12 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `நான்சென்ஸ்` | **nonsense** | Preserve Nehru quotation / repeated polemical motif. | A1 T1 | provisional |
 | `கடமை / கண்ணியம் / கட்டுப்பாடு` | **Duty / Dignity / Discipline** | Closing triad; preserve parallel three-part cadence and capitalization in slogan context. | A1 T1 | provisional / T4 review |
 | `முத்தமிழ்` | **Muttamil** | Source-bearing cultural term in closing slogan; retained rather than expanded at T1. | A1 T1 | open / T4 review |
-| `ஆஷாடபூதிகள்` | **religious pretenders** | Working contextual rendering in Thillai polemic; recheck source-bearing force at T4. | A1 T1 | open / T4 review |
+| `ஆஷாடபூதிகள்` | **religious pretenders** | T2 found no semantic loss in the working contextual rendering; keep open for source-term review at T4. | A1 T1/T2 | open / T4 review |
 | `குருவித்தலை` | **sparrow-heads** | T1 carries the literal insult, but the wordplay against `குளித்தலை` is only partly recoverable in English; review at T3/T4. | A1 T1 | open / wordplay review |
+
+| `மழவர்கள்` | **Mazhavars** | Explicit source subject in Article 1 opening martial image; T2 restored the source-bearing name instead of generic “they”. | A1 T2 | provisional / T4 review |
+| `தரித்திர நாராயணர்கள்` | **Daridra Narayanas** | T2 restores the source epithet; no outside explanation added in body. | A1 T2 | source-bearing / T4 review |
+| `பொன்னை சந்தி` | ***ponnai sandhi*** | Source-visible irregular phrase on scan 60. T2 retains transliteration rather than silently omitting or normalising it. | A1 T2 | open / T4 source-term review |
 
 ## E0 note
 
