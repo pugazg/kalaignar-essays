@@ -32,7 +32,7 @@ All **224/224** physical scans are structurally accounted for.
 
 - scans 1–9 — front matter / physical-copy layers
 - scans 10–65 — main text
-- scan 66 — illustrated main-work intertitle / `தடை` / `கல்லக்குடி`
+- scan 66 — illustrated **`களம்`** title-transition / station-board `கல்லக்குடி`
 - scan 67 — blank/reverse
 - scans 68–106 — main text
 - scan 107 — blank/reverse
@@ -269,11 +269,11 @@ Batch 013 checks:
 
 | Scan | Printed folio | Record | Status | Open issue |
 |---:|:---:|---|---|---|
-| 66 | — | `0066-murasu-illustration.md` | verified | none |
+| 66 | — | `0066-kalam-illustration.md` | verified | none |
 | 67 | — | `0067-blank-reverse.md` | verified | none |
-| 68 | — | `0068-murasu.md` | verified | none |
-| 69 | 66 | `0069-murasu.md` | verified | none |
-| 70 | 67 | `0070-murasu.md` | verified | none |
+| 68 | — | `0068-kalam.md` | verified | none |
+| 69 | 66 | `0069-kalam.md` | verified | none |
+| 70 | 67 | `0070-kalam.md` | verified | none |
 
 Batch 014 checks:
 
@@ -283,7 +283,7 @@ Batch 014 checks:
 - guessed readings — **0**
 - new unresolved printed-text holds — **0**
 - cumulative historical-glyph corrections — **1**
-- scan 66 is an illustrated main-work intertitle carrying `தடை` and station-board `கல்லக்குடி`; this refines the earlier generic P1 classification without reopening the full P1 gate.
+- scan 66 is an illustrated title-transition carrying **`களம்`** and station-board `கல்லக்குடி`; this refines the earlier generic P1 classification without reopening the full P1 gate.
 - no visible folio appears on scans 66–68; no inferred folio was inserted.
 - scan 68 terminal `எதையும் முடியாது` → scan 69 `என்று என்னிடம் கூறமாட்டார்` was confirmed directly.
 - scan 69 difficult phrase resolved as `தில்லையிலே அண்ணா கொட்டிய முரசின் எதிரொலியாக இருந்தது`.
@@ -294,11 +294,11 @@ Batch 014 checks:
 
 | Scan | Printed folio | Record | Status | Open issue |
 |---:|:---:|---|---|---|
-| 71 | 68 | `0071-murasu.md` | verified | none |
-| 72 | 69 | `0072-murasu.md` | verified | none |
-| 73 | 70 | `0073-murasu.md` | verified | none |
-| 74 | 71 | `0074-murasu.md` | verified | none |
-| 75 | 72 | `0075-murasu.md` | verified | none |
+| 71 | 68 | `0071-kalam.md` | verified | none |
+| 72 | 69 | `0072-kalam.md` | verified | none |
+| 73 | 70 | `0073-kalam.md` | verified | none |
+| 74 | 71 | `0074-kalam.md` | verified | none |
+| 75 | 72 | `0075-kalam.md` | verified | none |
 
 Batch 015 checks:
 
@@ -317,11 +317,11 @@ Batch 015 checks:
 
 | Scan | Printed folio | Record | Status | Open issue |
 |---:|:---:|---|---|---|
-| 76 | 73 | `0076-murasu.md` | verified | none |
-| 77 | 74 | `0077-murasu.md` | verified | none |
-| 78 | 75 | `0078-murasu.md` | verified | none |
-| 79 | 76 | `0079-murasu.md` | verified | none |
-| 80 | 77 | `0080-murasu.md` | verified | none |
+| 76 | 73 | `0076-kalam.md` | verified | none |
+| 77 | 74 | `0077-kalam.md` | verified | none |
+| 78 | 75 | `0078-kalam.md` | verified | none |
+| 79 | 76 | `0079-kalam.md` | verified | none |
+| 80 | 77 | `0080-kalam.md` | verified | none |
 
 Batch 016 checks:
 
@@ -340,11 +340,11 @@ Batch 016 checks:
 
 | Scan | Printed folio | Record | Status | Open issue |
 |---:|:---:|---|---|---|
-| 81 | 78 | `0081-murasu.md` | verified | none |
-| 82 | 79 | `0082-murasu.md` | verified | none |
-| 83 | 80 | `0083-murasu.md` | verified | none |
-| 84 | 81 | `0084-murasu.md` | verified | none |
-| 85 | 82 | `0085-murasu.md` | verified | none |
+| 81 | 78 | `0081-kalam.md` | verified | none |
+| 82 | 79 | `0082-kalam.md` | verified | none |
+| 83 | 80 | `0083-kalam.md` | verified | none |
+| 84 | 81 | `0084-kalam.md` | verified | none |
+| 85 | 82 | `0085-kalam.md` | verified | none |
 
 Batch 017 checks:
 
@@ -362,11 +362,11 @@ Batch 017 checks:
 
 | Scan | Printed folio | Record | Status | Open issue |
 |---:|:---:|---|---|---|
-| 86 | 83 | `0086-murasu.md` | verified | none |
-| 87 | 84 | `0087-murasu.md` | verified | none |
-| 88 | 85 | `0088-murasu.md` | verified | none |
-| 89 | 86 | `0089-murasu.md` | verified | none |
-| 90 | 87 | `0090-murasu.md` | verified | none |
+| 86 | 83 | `0086-kalam.md` | verified | none |
+| 87 | 84 | `0087-kalam.md` | verified | none |
+| 88 | 85 | `0088-kalam.md` | verified | none |
+| 89 | 86 | `0089-kalam.md` | verified | none |
+| 90 | 87 | `0090-kalam.md` | verified | none |
 
 Batch 018 checks:
 
@@ -384,11 +384,11 @@ Batch 018 checks:
 
 | Scan | Printed folio | Record | Status | Open issue |
 |---:|:---:|---|---|---|
-| 91 | 88 | `0091-murasu.md` | verified | none |
-| 92 | 89 | `0092-murasu.md` | verified | none |
-| 93 | 90 | `0093-murasu.md` | verified | none |
-| 94 | 91 | `0094-murasu.md` | verified | none |
-| 95 | 92 | `0095-murasu.md` | verified | none |
+| 91 | 88 | `0091-kalam.md` | verified | none |
+| 92 | 89 | `0092-kalam.md` | verified | none |
+| 93 | 90 | `0093-kalam.md` | verified | none |
+| 94 | 91 | `0094-kalam.md` | verified | none |
+| 95 | 92 | `0095-kalam.md` | verified | none |
 
 Batch 019 checks:
 
@@ -406,11 +406,11 @@ Batch 019 checks:
 
 | Scan | Printed folio | Record | Status | Open issue |
 |---:|:---:|---|---|---|
-| 96 | 93 | `0096-murasu.md` | verified | none |
-| 97 | 94 | `0097-murasu.md` | verified | none |
-| 98 | 95 | `0098-murasu.md` | verified | none |
-| 99 | 96 | `0099-murasu.md` | verified | none |
-| 100 | 97 | `0100-murasu.md` | verified | none |
+| 96 | 93 | `0096-kalam.md` | verified | none |
+| 97 | 94 | `0097-kalam.md` | verified | none |
+| 98 | 95 | `0098-kalam.md` | verified | none |
+| 99 | 96 | `0099-kalam.md` | verified | none |
+| 100 | 97 | `0100-kalam.md` | verified | none |
 
 Batch 020 checks:
 
@@ -432,11 +432,11 @@ Batch 020 checks:
 
 Completed by direct re-audit of the attached PDF pixels. Live `main` already contained the five page-record commits when this batch was resumed; those records were preserved, rechecked, corrected where source pixels required, and then synchronized with all dependent controls.
 
-- scan 101 — `pages/0101-murasu.md` — **verified** — printed folio 98 — heading `நடராசன்`
-- scan 102 — `pages/0102-murasu.md` — **verified** — printed folio 99 — printed star separator
-- scan 103 — `pages/0103-murasu.md` — **verified** — printed folio 100 — heading `கோரத் தாண்டவம்!`
-- scan 104 — `pages/0104-murasu.md` — **verified** — printed folio 101
-- scan 105 — `pages/0105-murasu.md` — **verified** — printed folio 102
+- scan 101 — `pages/0101-kalam.md` — **verified** — printed folio 98 — heading `நடராசன்`
+- scan 102 — `pages/0102-kalam.md` — **verified** — printed folio 99 — printed star separator
+- scan 103 — `pages/0103-kalam.md` — **verified** — printed folio 100 — heading `கோரத் தாண்டவம்!`
+- scan 104 — `pages/0104-kalam.md` — **verified** — printed folio 101
+- scan 105 — `pages/0105-kalam.md` — **verified** — printed folio 102
 
 Batch 021 result:
 
@@ -462,7 +462,7 @@ Batch 021 result:
 
 Completed from direct native/enlarged attached-PDF pixels:
 
-- scan 106 — `pages/0106-murasu.md` — **verified** — printed folio 103
+- scan 106 — `pages/0106-kalam.md` — **verified** — printed folio 103
 - scan 107 — `pages/0107-blank-reverse.md` — **verified** — blank/reverse/show-through — no visible folio
 - scan 108 — `pages/0108-sirai-illustration.md` — **verified** — illustrated intertitle `சிறை` — no visible folio
 - scan 109 — `pages/0109-blank-reverse.md` — **verified** — blank/reverse/show-through — no visible folio
@@ -1575,7 +1575,7 @@ P2R progress — **65/224**. P2 remains **222 verified / 2 needs-review**. Next 
 
 | Scan | Result | Re-audit finding |
 |---:|---|---|
-| 66 | PASS | illustration lettering `தடை` / `கல்லக்குடி` confirmed; physical abrasion remains non-text |
+| 66 | PASS after user correction | earlier `தடை` reading superseded; canonical title `களம்`; station-board `கல்லக்குடி` unchanged; physical abrasion remains non-text |
 | 67 | PASS | blank reverse / show-through; no publication text |
 | 68 | PASS after corrections | `போராட்டம் - அதற்கு` → `போராட்டம்- அதற்கு`; `நிதி வசூல்` → `நிதிவசூல்` |
 | 69 | PASS | complete text / initials / punctuation / boundary / running-header review; no correction |
@@ -1969,7 +1969,7 @@ Correct article inventory:
 | Article | Assembly | Range |
 |---|---|---|
 | முரசு | `articles/01-murasu.md` | body scans 10–65 |
-| களம் | `articles/02-kalam.md` | structural scans 66–106; heading on scan 68 |
+| களம் | `articles/02-kalam.md` | scan 66 illustrated `களம்` title-transition; scan 68 repeated heading; through scan 106 |
 | சிறை | `articles/03-sirai.md` | structural scans 108–223 |
 
 The former two-article assembly was corrected after the user's intervention. `களம்` is not part of `முரசு`. Assembly-only omissions found during the post-correction recheck were repaired without changing canonical P2 records.

@@ -9,7 +9,7 @@ The user corrected the publication structure during P3. The correct article inve
 | No. | Article | Structural source range | Assembly |
 |---:|---|---|---|
 | 1 | **முரசு** | body scans **10–65**; scan 65 closes with the triple `அதிர்ந்தது முரசு` refrain and printed star | `articles/01-murasu.md` |
-| 2 | **களம்** | scan **66** illustrated `தடை / கல்லக்குடி` transition; scan 67 blank/reverse; heading **களம்** on scan **68**; body continues through scan **106** | `articles/02-kalam.md` |
+| 2 | **களம்** | scan **66** illustrated **`களம்`** title-transition with station-board `கல்லக்குடி`; scan 67 blank/reverse; scan **68** repeats heading **களம்** at body start; body continues through scan **106** | `articles/02-kalam.md` |
 | 3 | **சிறை** | scan **108** illustrated `சிறை` intertitle; scan 109 blank/reverse; body scans **110–223** | `articles/03-sirai.md` |
 
 ## Boundary evidence
@@ -26,14 +26,14 @@ The user corrected the publication structure during P3. The correct article inve
 
 ### 2. களம்
 
-- scan 66 is an illustrated transition carrying `தடை` and station-board `கல்லக்குடி`;
+- scan 66 carries the illustrated title **`களம்`** and station-board `கல்லக்குடி`;
 - scan 67 is blank/reverse;
-- scan 68 carries the source heading **`களம்`** and starts the body;
+- scan 68 repeats the source heading **`களம்`** and starts the continuous body;
 - scan 69 is the next page with visible printed folio **66**;
 - scans 68–106 form the continuous `களம்` body;
 - scan 106 closes the body; scan 107 is blank/reverse.
 
-This preserves the user's correction that the page-66 transition belongs to **களம்**, not `முரசு`.
+This incorporates the user's explicit correction that scan 66 itself reads **`களம்`**, not `தடை`, and belongs to the separate **களம்** article.
 
 ### 3. சிறை
 

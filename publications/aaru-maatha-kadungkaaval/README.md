@@ -69,7 +69,7 @@ Direct visual structural inspection is complete:
 - 8 — illustrated front matter / `முரசு`
 - 9 — blank / reverse
 - 10–65 — **`முரசு`** body
-- 66 — **`களம்`** illustrated transition / `தடை` / `கல்லக்குடி`
+- 66 — **`களம்`** illustrated title-transition / station-board `கல்லக்குடி`
 - 67 — blank / reverse
 - 68–106 — **`களம்`** body; heading on scan 68
 - 107 — blank / reverse
@@ -106,7 +106,7 @@ Notable durable findings:
 - scans 51–55 — **5/5 verified**, printed folios 48–52, heading `அரியலூர் :`, no new holds; scan 55 ends inside an open quotation at `வளர்ந்துவரும்`.
 - scans 56–60 — **5/5 verified**, printed folios 53–57, scan 60 heading `முரசு முழங்கியது`, no new holds; scan 55→56 directly continues `வளர்ந்துவரும்` → `எம்மைப் பார்!`; scan 56→57 continues `வாடகைக்கார் ஒன்றில்,` → `நான் -`; scan 60 ends with complete `திருக்கோயில்.`.
 - scans 61–65 — **5/5 verified**, printed folios 58–62, no new holds; scan 62→63 continues `விழியோட்டும் -` → `கோமான்!`; scan 63 difficult cluster resolved directly as `தரணியில்`; scan 65 closes with `அதிர்ந்தது முரசு! / !! / !!!` and a printed star.
-- scans 66–70 — **5/5 verified**, no new holds; scan 66 is an illustrated `தடை` / `கல்லக்குடி` page with no visible folio; scan 67 is blank/reverse; scan 68 begins `களம்` with no visible folio; scan 69 / 70 carry visible folios 66 / 67; scan 68→69 continues `எதையும் முடியாது` → `என்று என்னிடம் கூறமாட்டார்`.
+- scans 66–70 — **5/5 verified**, no new holds; scan 66 is an illustrated `களம்` / station-board `கல்லக்குடி` page with no visible folio; scan 67 is blank/reverse; scan 68 begins `களம்` with no visible folio; scan 69 / 70 carry visible folios 66 / 67; scan 68→69 continues `எதையும் முடியாது` → `என்று என்னிடம் கூறமாட்டார்`.
 - scans 71–75 — **5/5 verified**, printed folios 68–72, no new holds; scan 71→72 continues `கிடக்கிறது` → `வடநாட்டு முதலாளியால்!`; scan 73→74 preserves physical split `வட நாட்` → `டானின்`; scan 75 historical `ணா` identity was decoded as `அண்ணா`.
 - scans 76–80 — **5/5 verified**, printed folios 73–77, no new holds; scan 76→77 continues `அவர்` → `களிடத்திலே`; scan 77→78 continues `பெற்ற` → `சட்டசபை உறுப்பினர்களும்`; scan 78→79 continues `உல்லா` → `சம், உற்சாகம்.`; scan 80 ends at open `கலந்துகொள்ளவேண்டிய`.
 - scans 81–85 — **5/5 verified**, printed folios 78–82, no new holds; scan 80→81 continues `கலந்துகொள்ளவேண்டிய` → `வர்கள் 14ம் தேதி...`; scan 81→82 continues `நெருக்கடியான` → `நிலைகளுக்கிடையிலும்`; scan 85 ends at open `மாணிக்க`.
@@ -577,7 +577,7 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 ### Batch R14 — scans 66–70
 
 - scans 66–70 — **5/5 re-audited**
-- scan 66 — illustration PASS; `தடை` / `கல்லக்குடி` confirmed
+- scan 66 — user correction supersedes earlier `தடை`: canonical title **`களம்`**; station-board `கல்லக்குடி` unchanged
 - scan 67 — blank reverse PASS; no publication text
 - scan 68 — `போராட்டம் - அதற்கு` → **`போராட்டம்- அதற்கு`**
 - scan 68 — `நிதி வசூல்` → **`நிதிவசூல்`**
@@ -934,7 +934,7 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 ## P3 article assemblies
 
 - **01 — முரசு** — `articles/01-murasu.md` — body scans 10–65.
-- **02 — களம்** — `articles/02-kalam.md` — scan 66 transition; scan 68 heading; through scan 106.
+- **02 — களம்** — `articles/02-kalam.md` — scan 66 illustrated `களம்` title-transition; scan 68 repeated heading; through scan 106.
 - **03 — சிறை** — `articles/03-sirai.md` — scan 108 intertitle; body through scan 223.
 - review — `P3_ARTICLE_ASSEMBLY_REVIEW.md`.
 

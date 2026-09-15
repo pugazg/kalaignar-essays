@@ -20,9 +20,9 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
    - body scans **10–65**
    - scan 65 closes with the triple `அதிர்ந்தது முரசு` refrain + printed star.
 2. **களம்** — `articles/02-kalam.md`
-   - scan **66** illustrated `தடை / கல்லக்குடி` transition
+   - scan **66** illustrated **`களம்`** title-transition with station-board `கல்லக்குடி`
    - scan 67 blank/reverse
-   - source heading **களம்** on scan **68**
+   - scan **68** repeats the source heading **களம்** at the body start
    - scan 69 has visible printed folio **66**
    - body continues through scan **106**
 3. **சிறை** — `articles/03-sirai.md`
@@ -30,7 +30,7 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`, active publicatio
    - scan 109 blank/reverse
    - body scans **110–223**
 
-User correction is authoritative for this P3 structure. Do not collapse `களம்` back into `முரசு`.
+User corrections are authoritative for this P3 structure: scan 66 is **`களம்`**, not `தடை`; all `களம்` page records are named `*-kalam.md`. Do not collapse `களம்` back into `முரசு`.
 
 P3 review: `publications/aaru-maatha-kadungkaaval/P3_ARTICLE_ASSEMBLY_REVIEW.md`.
 

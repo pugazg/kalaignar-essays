@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **P3 article assembly completion**. The user corrected the publication to three article structures: **முரசு / களம் / சிறை**. P3 is now **COMPLETE / PASS — 3/3 assemblies**: `01-murasu.md` (body scans 10–65), `02-kalam.md` (scan-66 `தடை / கல்லக்குடி` transition + heading `களம்` on scan 68 through scan 106), and `03-sirai.md` (scan-108 intertitle + body through scan 223). P2 remains **COMPLETE / PASS — 224/224 verified, 0 needs-review, 0 guessed readings**; P2R remains **COMPLETE — 224/224**; historical-glyph correction-event count remains **20**. The next workflow gate is **P4 — source audit / completeness review**.
+Handoff refreshed after the user's second P3 structure correction: scan **66** is **`களம்`**, not `தடை`, and all page-record filenames for the `களம்` article have been renamed from the stale `*-murasu.md` pattern to `*-kalam.md` (scan 66 plus scans 68–106). The correct three article structures remain **முரசு / களம் / சிறை**. P3 remains **COMPLETE / PASS — 3/3 assemblies**. P2 remains **COMPLETE / PASS — 224/224 verified, 0 needs-review, 0 guessed readings**; P2R remains **COMPLETE — 224/224**. Next gate remains **P4 — source audit / completeness review**.
 
 ## Repository state
 
@@ -104,7 +104,7 @@ Full source structure:
 - scan 8 — illustrated front-matter page / `முரசு`;
 - scan 9 — blank / reverse / show-through;
 - scans 10–65 — main text;
-- scan 66 — illustrated main-work intertitle / `தடை` / `கல்லக்குடி`;
+- scan 66 — illustrated `களம்` title-transition with station-board `கல்லக்குடி`;
 - scan 67 — blank / reverse / show-through;
 - scans 68–106 — main text;
 - scan 107 — blank / reverse / show-through;
@@ -333,11 +333,11 @@ Batch 013 result:
 
 Completed from direct native/enlarged attached-PDF pixels:
 
-- scan 66 — `pages/0066-murasu-illustration.md` — **verified** — no visible printed folio — illustrated `தடை` / `கல்லக்குடி`
+- scan 66 — `pages/0066-kalam-illustration.md` — **verified** — no visible printed folio — illustrated `களம்` / station-board `கல்லக்குடி`
 - scan 67 — `pages/0067-blank-reverse.md` — **verified** — blank/reverse/show-through — no visible printed folio
-- scan 68 — `pages/0068-murasu.md` — **verified** — no visible printed folio — heading `களம்`
-- scan 69 — `pages/0069-murasu.md` — **verified** — printed folio 66
-- scan 70 — `pages/0070-murasu.md` — **verified** — printed folio 67
+- scan 68 — `pages/0068-kalam.md` — **verified** — no visible printed folio — heading `களம்`
+- scan 69 — `pages/0069-kalam.md` — **verified** — printed folio 66
+- scan 70 — `pages/0070-kalam.md` — **verified** — printed folio 67
 
 Batch 014 result:
 
@@ -357,11 +357,11 @@ Batch 014 result:
 
 Completed from direct native/enlarged attached-PDF pixels:
 
-- scan 71 — `pages/0071-murasu.md` — **verified** — printed folio 68
-- scan 72 — `pages/0072-murasu.md` — **verified** — printed folio 69
-- scan 73 — `pages/0073-murasu.md` — **verified** — printed folio 70
-- scan 74 — `pages/0074-murasu.md` — **verified** — printed folio 71
-- scan 75 — `pages/0075-murasu.md` — **verified** — printed folio 72
+- scan 71 — `pages/0071-kalam.md` — **verified** — printed folio 68
+- scan 72 — `pages/0072-kalam.md` — **verified** — printed folio 69
+- scan 73 — `pages/0073-kalam.md` — **verified** — printed folio 70
+- scan 74 — `pages/0074-kalam.md` — **verified** — printed folio 71
+- scan 75 — `pages/0075-kalam.md` — **verified** — printed folio 72
 
 Batch 015 result:
 
@@ -381,11 +381,11 @@ Batch 015 result:
 
 Completed from direct native/enlarged attached-PDF pixels:
 
-- scan 76 — `pages/0076-murasu.md` — **verified** — printed folio 73
-- scan 77 — `pages/0077-murasu.md` — **verified** — printed folio 74
-- scan 78 — `pages/0078-murasu.md` — **verified** — printed folio 75
-- scan 79 — `pages/0079-murasu.md` — **verified** — printed folio 76
-- scan 80 — `pages/0080-murasu.md` — **verified** — printed folio 77
+- scan 76 — `pages/0076-kalam.md` — **verified** — printed folio 73
+- scan 77 — `pages/0077-kalam.md` — **verified** — printed folio 74
+- scan 78 — `pages/0078-kalam.md` — **verified** — printed folio 75
+- scan 79 — `pages/0079-kalam.md` — **verified** — printed folio 76
+- scan 80 — `pages/0080-kalam.md` — **verified** — printed folio 77
 
 Batch 016 result:
 
@@ -405,11 +405,11 @@ Batch 016 result:
 
 Completed from direct native/enlarged attached-PDF pixels:
 
-- scan 81 — `pages/0081-murasu.md` — **verified** — printed folio 78
-- scan 82 — `pages/0082-murasu.md` — **verified** — printed folio 79
-- scan 83 — `pages/0083-murasu.md` — **verified** — printed folio 80
-- scan 84 — `pages/0084-murasu.md` — **verified** — printed folio 81
-- scan 85 — `pages/0085-murasu.md` — **verified** — printed folio 82
+- scan 81 — `pages/0081-kalam.md` — **verified** — printed folio 78
+- scan 82 — `pages/0082-kalam.md` — **verified** — printed folio 79
+- scan 83 — `pages/0083-kalam.md` — **verified** — printed folio 80
+- scan 84 — `pages/0084-kalam.md` — **verified** — printed folio 81
+- scan 85 — `pages/0085-kalam.md` — **verified** — printed folio 82
 
 Batch 017 result:
 
@@ -428,11 +428,11 @@ Batch 017 result:
 
 Completed from direct native/enlarged attached-PDF pixels:
 
-- scan 86 — `pages/0086-murasu.md` — **verified** — printed folio 83
-- scan 87 — `pages/0087-murasu.md` — **verified** — printed folio 84
-- scan 88 — `pages/0088-murasu.md` — **verified** — printed folio 85
-- scan 89 — `pages/0089-murasu.md` — **verified** — printed folio 86
-- scan 90 — `pages/0090-murasu.md` — **verified** — printed folio 87
+- scan 86 — `pages/0086-kalam.md` — **verified** — printed folio 83
+- scan 87 — `pages/0087-kalam.md` — **verified** — printed folio 84
+- scan 88 — `pages/0088-kalam.md` — **verified** — printed folio 85
+- scan 89 — `pages/0089-kalam.md` — **verified** — printed folio 86
+- scan 90 — `pages/0090-kalam.md` — **verified** — printed folio 87
 
 Batch 018 result:
 
@@ -451,11 +451,11 @@ Batch 018 result:
 
 Completed from direct native/enlarged attached-PDF pixels:
 
-- scan 91 — `pages/0091-murasu.md` — **verified** — printed folio 88
-- scan 92 — `pages/0092-murasu.md` — **verified** — printed folio 89
-- scan 93 — `pages/0093-murasu.md` — **verified** — printed folio 90
-- scan 94 — `pages/0094-murasu.md` — **verified** — printed folio 91
-- scan 95 — `pages/0095-murasu.md` — **verified** — printed folio 92
+- scan 91 — `pages/0091-kalam.md` — **verified** — printed folio 88
+- scan 92 — `pages/0092-kalam.md` — **verified** — printed folio 89
+- scan 93 — `pages/0093-kalam.md` — **verified** — printed folio 90
+- scan 94 — `pages/0094-kalam.md` — **verified** — printed folio 91
+- scan 95 — `pages/0095-kalam.md` — **verified** — printed folio 92
 
 Batch 019 result:
 
@@ -474,11 +474,11 @@ Batch 019 result:
 
 Completed from direct native/enlarged attached-PDF pixels:
 
-- scan 96 — `pages/0096-murasu.md` — **verified** — printed folio 93
-- scan 97 — `pages/0097-murasu.md` — **verified** — printed folio 94
-- scan 98 — `pages/0098-murasu.md` — **verified** — printed folio 95 — heading `கேசவன்`
-- scan 99 — `pages/0099-murasu.md` — **verified** — printed folio 96
-- scan 100 — `pages/0100-murasu.md` — **verified** — printed folio 97 — printed star separator
+- scan 96 — `pages/0096-kalam.md` — **verified** — printed folio 93
+- scan 97 — `pages/0097-kalam.md` — **verified** — printed folio 94
+- scan 98 — `pages/0098-kalam.md` — **verified** — printed folio 95 — heading `கேசவன்`
+- scan 99 — `pages/0099-kalam.md` — **verified** — printed folio 96
+- scan 100 — `pages/0100-kalam.md` — **verified** — printed folio 97 — printed star separator
 
 Batch 020 result:
 
@@ -501,11 +501,11 @@ Batch 020 result:
 
 Completed by direct re-audit of the attached PDF pixels. Live `main` already contained the five page-record commits when this batch was resumed; those records were preserved, rechecked, corrected where source pixels required, and then synchronized with all dependent controls.
 
-- scan 101 — `pages/0101-murasu.md` — **verified** — printed folio 98 — heading `நடராசன்`
-- scan 102 — `pages/0102-murasu.md` — **verified** — printed folio 99 — printed star separator
-- scan 103 — `pages/0103-murasu.md` — **verified** — printed folio 100 — heading `கோரத் தாண்டவம்!`
-- scan 104 — `pages/0104-murasu.md` — **verified** — printed folio 101
-- scan 105 — `pages/0105-murasu.md` — **verified** — printed folio 102
+- scan 101 — `pages/0101-kalam.md` — **verified** — printed folio 98 — heading `நடராசன்`
+- scan 102 — `pages/0102-kalam.md` — **verified** — printed folio 99 — printed star separator
+- scan 103 — `pages/0103-kalam.md` — **verified** — printed folio 100 — heading `கோரத் தாண்டவம்!`
+- scan 104 — `pages/0104-kalam.md` — **verified** — printed folio 101
+- scan 105 — `pages/0105-kalam.md` — **verified** — printed folio 102
 
 Batch 021 result:
 
@@ -532,7 +532,7 @@ Batch 021 result:
 
 Completed from direct native/enlarged attached-PDF pixels:
 
-- scan 106 — `pages/0106-murasu.md` — **verified** — printed folio 103
+- scan 106 — `pages/0106-kalam.md` — **verified** — printed folio 103
 - scan 107 — `pages/0107-blank-reverse.md` — **verified** — blank/reverse/show-through — no visible folio
 - scan 108 — `pages/0108-sirai-illustration.md` — **verified** — illustrated intertitle `சிறை` — no visible folio
 - scan 109 — `pages/0109-blank-reverse.md` — **verified** — blank/reverse/show-through — no visible folio
@@ -1603,7 +1603,7 @@ Batch R01 scans **1–5** is complete.
 ### Batch R14 — scans 66–70
 
 - **5/5 re-audited**
-- scan 66 — illustration PASS; `தடை` / `கல்லக்குடி` confirmed.
+- scan 66 — earlier `தடை` reading superseded by the user's explicit correction; canonical title is **`களம்`**, with station-board `கல்லக்குடி` unchanged.
 - scan 67 — blank reverse PASS; no publication text.
 - scan 68 — corrected `போராட்டம் - அதற்கு` → **`போராட்டம்- அதற்கு`** and `நிதி வசூல்` → **`நிதிவசூல்`**.
 - scans 69–70 — PASS / no canonical text correction.

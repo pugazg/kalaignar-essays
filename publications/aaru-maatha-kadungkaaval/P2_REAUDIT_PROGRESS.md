@@ -307,7 +307,7 @@ P2 canonical totals remain **222 verified / 2 needs-review**.
 
 | Scan | Page type | Re-audit result | Source-fidelity action |
 |---:|---|---|---|
-| 66 | illustration | PASS | `தடை` and station-board `கல்லக்குடி` reconfirmed; abrasion remains non-text physical damage |
+| 66 | illustration / `களம்` | PASS after user correction | earlier `தடை` reading superseded; canonical stylized title is `களம்`; station-board `கல்லக்குடி` unchanged; abrasion remains non-text physical damage |
 | 67 | blank reverse | PASS | no publication text; show-through / toning retained as non-publication layer |
 | 68 | body / `களம்` | PASS after corrections | `போராட்டம் - அதற்கு` → `போராட்டம்- அதற்கு`; `நிதி வசூல்` → `நிதிவசூல்` |
 | 69 | body / folio 66 | PASS | full text / initials / punctuation / boundary / running-header review; no canonical correction |
@@ -315,7 +315,7 @@ P2 canonical totals remain **222 verified / 2 needs-review**.
 
 Historical-family findings:
 
-- scan 66 — printed words contain no ambiguous tracked historical-family member;
+- scan 66 — user subsequently corrected the stylized title from the earlier `தடை` reading to **`களம்`**; station-board `கல்லக்குடி` remains unchanged. This is a user-confirmed ordinary text correction, not a historical-family event;
 - scan 67 — N/A: canonical publication text is 0 words;
 - scan 68 — `தலைமையேற்று` reconfirms `லை`;
 - scan 69 — `சண்முகவடிவேலை` / `தில்லையிலே` (`லை`), `அண்ணா` (`ணா`);

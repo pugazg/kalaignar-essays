@@ -31,7 +31,7 @@ The earlier provisional 150-page P1 result was reopened after direct native insp
 | 8 | illustrated front-matter page | `முரசு` witness |
 | 9 | blank / reverse / show-through | front-matter separator |
 | 10–65 | **முரசு** main text | article 1 continuous body run |
-| 66 | **களம்** illustrated transition | `தடை` / `கல்லக்குடி`; belongs to article 2 structure |
+| 66 | **களம்** illustrated title-transition | stylized `களம்`; station-board `கல்லக்குடி`; article 2 structure |
 | 67 | blank / reverse / show-through | structural separator |
 | 68–106 | **களம்** main text | heading `களம்` on scan 68; continuous body through 106 |
 | 107 | blank / reverse / show-through | structural separator |
@@ -79,7 +79,7 @@ Findings:
 The user explicitly corrected the P3 structure to **முரசு / களம் / சிறை**. Source boundaries support that correction:
 
 - **முரசு** closes on scan 65 with its triple refrain and printed star;
-- scan 66 `தடை / கல்லக்குடி` is the illustrated transition into **களம்**;
+- scan 66 itself carries the illustrated **`களம்`** title, with station-board `கல்லக்குடி`;
 - scan 67 is blank/reverse;
 - scan 68 carries the heading **களம்**; scan 69 carries visible printed folio **66**;
 - **களம்** continues through scan 106;
@@ -93,7 +93,7 @@ This is a structural refinement of the closed P1 map; P1 remains COMPLETE / PASS
 P2 direct source inspection refined the earlier broad `main text` classification for scan 66:
 
 - scan 66 is an **illustrated main-work intertitle / transition page**;
-- visible printed wording includes **`தடை`** and station-board **`கல்லக்குடி`**;
+- the earlier `தடை` reading is superseded by the user's explicit correction: the stylized title is **`களம்`**; station-board **`கல்லக்குடி`** remains unchanged;
 - no visible printed folio appears;
 - scan 67 remains the directly confirmed blank/reverse separator;
 - this is a structural refinement only; P1 remains **COMPLETE / PASS — 224/224** and no full-source P1 reopening is required.

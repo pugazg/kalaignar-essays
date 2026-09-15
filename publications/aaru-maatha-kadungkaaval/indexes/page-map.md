@@ -26,9 +26,9 @@ Full P1 review: [`../P1_SOURCE_STRUCTURE_REVIEW.md`](../P1_SOURCE_STRUCTURE_REVI
 | 8 | illustrated front-matter page / `முரசு` | front matter |
 | 9 | blank / reverse / show-through | no folio |
 | 10–65 | **முரசு** body | source-visible folios as recorded page-by-page |
-| 66 | **களம்** illustrated transition / `தடை` / `கல்லக்குடி` | no visible folio |
+| 66 | **களம்** illustrated title-transition / station-board `கல்லக்குடி` | no visible folio |
 | 67 | blank / reverse / show-through | no independent folio |
-| 68–106 | **களம்** body; heading on scan 68 | scan 69 begins visible folio **66** sequence |
+| 68–106 | **களம்** body; repeated heading on scan 68 | scan 69 begins visible folio **66** sequence |
 | 107 | blank / reverse / show-through | no independent folio |
 | 108 | **சிறை** illustrated intertitle | no visible folio |
 | 109 | blank / reverse / show-through | no independent folio |
@@ -126,47 +126,47 @@ P1 extension result:
 | 63 | `../pages/0063-murasu.md` | verified |
 | 64 | `../pages/0064-murasu.md` | verified |
 | 65 | `../pages/0065-murasu.md` | verified |
-| 66 | `../pages/0066-murasu-illustration.md` | verified |
+| 66 | `../pages/0066-kalam-illustration.md` | verified |
 | 67 | `../pages/0067-blank-reverse.md` | verified |
-| 68 | `../pages/0068-murasu.md` | verified |
-| 69 | `../pages/0069-murasu.md` | verified |
-| 70 | `../pages/0070-murasu.md` | verified |
-| 71 | `../pages/0071-murasu.md` | verified |
-| 72 | `../pages/0072-murasu.md` | verified |
-| 73 | `../pages/0073-murasu.md` | verified |
-| 74 | `../pages/0074-murasu.md` | verified |
-| 75 | `../pages/0075-murasu.md` | verified |
-| 76 | `../pages/0076-murasu.md` | verified |
-| 77 | `../pages/0077-murasu.md` | verified |
-| 78 | `../pages/0078-murasu.md` | verified |
-| 79 | `../pages/0079-murasu.md` | verified |
-| 80 | `../pages/0080-murasu.md` | verified |
-| 81 | `../pages/0081-murasu.md` | verified |
-| 82 | `../pages/0082-murasu.md` | verified |
-| 83 | `../pages/0083-murasu.md` | verified |
-| 84 | `../pages/0084-murasu.md` | verified |
-| 85 | `../pages/0085-murasu.md` | verified |
-| 86 | `../pages/0086-murasu.md` | verified |
-| 87 | `../pages/0087-murasu.md` | verified |
-| 88 | `../pages/0088-murasu.md` | verified |
-| 89 | `../pages/0089-murasu.md` | verified |
-| 90 | `../pages/0090-murasu.md` | verified |
-| 91 | `../pages/0091-murasu.md` | verified |
-| 92 | `../pages/0092-murasu.md` | verified |
-| 93 | `../pages/0093-murasu.md` | verified |
-| 94 | `../pages/0094-murasu.md` | verified |
-| 95 | `../pages/0095-murasu.md` | verified |
-| 96 | `../pages/0096-murasu.md` | verified |
-| 97 | `../pages/0097-murasu.md` | verified |
-| 98 | `../pages/0098-murasu.md` | verified |
-| 99 | `../pages/0099-murasu.md` | verified |
-| 100 | `../pages/0100-murasu.md` | verified |
-| 101 | `../pages/0101-murasu.md` | verified |
-| 102 | `../pages/0102-murasu.md` | verified |
-| 103 | `../pages/0103-murasu.md` | verified |
-| 104 | `../pages/0104-murasu.md` | verified |
-| 105 | `../pages/0105-murasu.md` | verified |
-| 106 | `../pages/0106-murasu.md` | verified |
+| 68 | `../pages/0068-kalam.md` | verified |
+| 69 | `../pages/0069-kalam.md` | verified |
+| 70 | `../pages/0070-kalam.md` | verified |
+| 71 | `../pages/0071-kalam.md` | verified |
+| 72 | `../pages/0072-kalam.md` | verified |
+| 73 | `../pages/0073-kalam.md` | verified |
+| 74 | `../pages/0074-kalam.md` | verified |
+| 75 | `../pages/0075-kalam.md` | verified |
+| 76 | `../pages/0076-kalam.md` | verified |
+| 77 | `../pages/0077-kalam.md` | verified |
+| 78 | `../pages/0078-kalam.md` | verified |
+| 79 | `../pages/0079-kalam.md` | verified |
+| 80 | `../pages/0080-kalam.md` | verified |
+| 81 | `../pages/0081-kalam.md` | verified |
+| 82 | `../pages/0082-kalam.md` | verified |
+| 83 | `../pages/0083-kalam.md` | verified |
+| 84 | `../pages/0084-kalam.md` | verified |
+| 85 | `../pages/0085-kalam.md` | verified |
+| 86 | `../pages/0086-kalam.md` | verified |
+| 87 | `../pages/0087-kalam.md` | verified |
+| 88 | `../pages/0088-kalam.md` | verified |
+| 89 | `../pages/0089-kalam.md` | verified |
+| 90 | `../pages/0090-kalam.md` | verified |
+| 91 | `../pages/0091-kalam.md` | verified |
+| 92 | `../pages/0092-kalam.md` | verified |
+| 93 | `../pages/0093-kalam.md` | verified |
+| 94 | `../pages/0094-kalam.md` | verified |
+| 95 | `../pages/0095-kalam.md` | verified |
+| 96 | `../pages/0096-kalam.md` | verified |
+| 97 | `../pages/0097-kalam.md` | verified |
+| 98 | `../pages/0098-kalam.md` | verified |
+| 99 | `../pages/0099-kalam.md` | verified |
+| 100 | `../pages/0100-kalam.md` | verified |
+| 101 | `../pages/0101-kalam.md` | verified |
+| 102 | `../pages/0102-kalam.md` | verified |
+| 103 | `../pages/0103-kalam.md` | verified |
+| 104 | `../pages/0104-kalam.md` | verified |
+| 105 | `../pages/0105-kalam.md` | verified |
+| 106 | `../pages/0106-kalam.md` | verified |
 | 107 | `../pages/0107-blank-reverse.md` | verified |
 | 108 | `../pages/0108-sirai-illustration.md` | verified |
 | 109 | `../pages/0109-blank-reverse.md` | verified |
@@ -313,7 +313,7 @@ Scans 16–17 remain independent physical page records.
 ## P3 article inventory
 
 - `../articles/01-murasu.md` — **முரசு** — body scans 10–65.
-- `../articles/02-kalam.md` — **களம்** — structural scans 66–106; heading on scan 68.
+- `../articles/02-kalam.md` — **களம்** — scan 66 illustrated title-transition; scan 68 repeated heading; through scan 106.
 - `../articles/03-sirai.md` — **சிறை** — structural scans 108–223.
 
 ## Exact next activity

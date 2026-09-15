@@ -50,9 +50,9 @@ Structure:
 
 - scans 1–9 — front matter / physical-copy layers;
 - scans 10–65 — main text;
-- scan 66 — illustrated main-work intertitle / `தடை` / `கல்லக்குடி`;
+- scan 66 — illustrated **`களம்`** title-transition / station-board `கல்லக்குடி`;
 - scan 67 — blank/reverse;
-- scans 68–106 — main text;
+- scans 68–106 — **`களம்`** main text; scan 68 repeats the heading;
 - scan 107 — blank/reverse;
 - scan 108 — illustrated main-work intertitle / `சிறை`;
 - scan 109 — blank/reverse;
