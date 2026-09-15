@@ -171,12 +171,103 @@ T4 body authority — **`bbf4de306e1d0f8442237ee654abbbdb7244d7d5`**.
 
 **ARTICLE 1 T5 RESULT: PASS / VERIFIED.**
 
-### Article 2 — `களம்`
+### Article 2 — `களம்` — T0–T5 PASS / VERIFIED
 
 - frozen Tamil blob — `60c155dc93a4543e267ccbca5573d6f5b70e5672`
-- T0–T5 — **NOT STARTED**
-- English title — **TBD**
+- structural scans — **66–106**
+- T0 — **PASS**
+- T1 — **COMPLETE**
+- T1 English blob — `78cd7094b8b57c00e6528b40c3c3768d7014971f`
+- working / verified English title — **The Battlefield**
+- T2 — **PASS**
+- T2 English blob — `3ffc005a7e8653319a86954d42ac6d9f047e4c81`
+- T2 body corrections — **2**
+- T3 — **PASS**
+- T3 body corrections — **0**
+- T3 body authority — `3ffc005a7e8653319a86954d42ac6d9f047e4c81`
+- T4 — **PASS**
+- T4 body authority — `d5ac559f9a489a98b305b047ae651d97343e5f37`
+- T4 body corrections — **3**
+- T5 — **PASS / VERIFIED**
+- verified English blob — `9d37041cda4a6a8808b8009b7a86ba9e3b533246`
+- translation status — `verified`
+- source-page comments — **41/41 PASS**
+- paragraph-block scan matching — **41/41 PASS**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes — **0**
 - blockers — **0**
+
+#### T2 bilingual fidelity review — PASS
+
+The full T1 draft was compared against frozen Tamil across scans **66–106**.
+
+Post-review checks:
+
+- every Tamil scan segment **66–106** has an ordered English source comment — **41/41 PASS**;
+- paragraph-block counts match Tamil for every scan segment — **41/41 PASS**;
+- omitted Tamil paragraph / clause found after correction — **0**;
+- added substantive English claim after correction — **0**;
+- names, dates, times, amounts, contingent counts, casualty counts and quoted slogans — **PASS**;
+- scan 67 blank/reverse carries no invented prose — **PASS**;
+- untranslated Tamil body leakage — **0**.
+
+T2 corrections:
+
+1. **scan 77** — T1 **“I slipped past because...”** was too interpretive for `தாண்டிவிடப்பட்டேன்`; corrected to **“I must skip over that day—that is because I wanted to be caught by the police only at the battlefront!”**;
+2. **scan 106** — T1 **“Had she left only six dead?”** over-resolved `ஆறு உயிரோடு விட்டாளா`; corrected to the closer **“Did she stop with six lives?”**.
+
+#### T3 Kalaignar voice review — PASS
+
+T3 reread the complete T2 body for direct address, martial imagery, satire, mockery, escalating repetition, battle cadence, police-station humour, Kesavan/Natarasan elegiac passages, and the final blood-feast indictment.
+
+- T3 body corrections — **0**;
+- T2 fidelity corrections regressed — **0**;
+- rhetorical questions retained as questions — **PASS**;
+- commands / cries / slogans retained — **PASS**;
+- repeated words and escalating corpse-count rhetoric retained — **PASS**;
+- Kallakkudi train-track confrontation remains immediate rather than academically paraphrased — **PASS**;
+- blockers — **0**.
+
+#### T4 terminology / quotation / citation audit — PASS
+
+Verified:
+
+- title `களம்` → **The Battlefield**;
+- `ஆச்சாரியார்` → **Achariyar**;
+- `அறப்போர்` → **righteous struggle**;
+- `மகஜர்` → **petition**;
+- `பரணி` → ***parani***;
+- `ஒண்டவந்த பிடாரிகள்` → ***ondavanda pidaris***;
+- `ஒதிய மிலர்கள்` → ***othiya milars***;
+- `குண்டோதர` → **Gundodara**;
+- `பிடாரி` → **Pidari**;
+- dates / initials / organisation names / personal names — **PASS**;
+- `Nam Nadu` and source-specific proper nouns — **PASS**;
+- ordered source comments — **41/41 PASS**.
+
+T4 body corrections:
+
+1. **scan 99** — interpretive **“the wretched boy”** → source-bearing ***pokkali*** for `போக்காளி`;
+2. **scan 103** — generic **“northern leader”** → source-bearing **northern *moolavar*** for `வடநாட்டு மூலவர்`;
+3. **scan 103** — restored the source pun `உதிரக்குடி` as ***uthira-kudi*—blood-drink**, instead of flattening it to generic “the proper drink was blood”.
+
+T4 body authority — `d5ac559f9a489a98b305b047ae651d97343e5f37`.
+
+#### T5 article verification — PASS / VERIFIED
+
+- frozen Tamil authority exact — **PASS**
+- T0 / T1 / T2 / T3 / T4 — **PASS**
+- verified title — **The Battlefield**
+- final metadata — `translation_status: verified`
+- verified English blob — **`9d37041cda4a6a8808b8009b7a86ba9e3b533246`**
+- source-page comments — **41/41 PASS**
+- paragraph-block scan matching — **41/41 PASS**
+- untranslated Tamil body leakage — **0**
+- unresolved release-blocking translation choices — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+
+**ARTICLE 2 T5 RESULT: PASS / VERIFIED.**
 
 ### Article 3 — `சிறை`
 
@@ -187,6 +278,6 @@ T4 body authority — **`bbf4de306e1d0f8442237ee654abbbdb7244d7d5`**.
 
 ## Exact next activity
 
-**Article 2 — `களம்` — T0 source prerequisite + T1 close draft.**
+**Article 3 — `சிறை` — T0 source prerequisite + T1 close draft.**
 
-Re-fetch frozen Tamil blob `60c155dc93a4543e267ccbca5573d6f5b70e5672`, create `02-kalam.md`, establish the working English title, preserve source-page traceability, and complete the close draft without changing frozen Tamil.
+Re-fetch frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2`, create `03-sirai.md`, establish the working English title, preserve source-page traceability, and complete the close draft without changing frozen Tamil.
