@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after **Publication 13 `துடிக்கும் இளமை` English E0 planning/setup — COMPLETE / PASS**. Publication 12 `ஆறுமாதக் கடுங்காவல்` remains **RELEASE COMPLETE / FROZEN**. Publication 13 Tamil remains **COMPLETE / STRICT-REVIEWED / FROZEN — P0–P5 PASS**, and English is now **E0 COMPLETE / PASS; 4/4 frozen Tamil authorities pinned; 0/4 English article bodies created; blockers 0**.
+Handoff refreshed after **Publication 13 `துடிக்கும் இளமை` English Article T0–T5 processing — 4/4 VERIFIED**. Publication 12 `ஆறுமாதக் கடுங்காவல்` remains **RELEASE COMPLETE / FROZEN**. Publication 13 Tamil remains **COMPLETE / STRICT-REVIEWED / FROZEN — P0–P5 PASS**; English now has **4/4 articles T5 VERIFIED, 25/25 source comments PASS, 0 omitted clauses, 0 added substantive claims, blockers 0**. E6/E7 remain pending.
 
 ## Repository state
 
@@ -14,7 +14,7 @@ Publications **1–11 are RELEASE COMPLETE / FROZEN**.
 
 Publication 12 **`ஆறுமாதக் கடுங்காவல்` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 3/3 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 13 **`துடிக்கும் இளமை` — TAMIL ARCHIVAL COMPLETE / FROZEN — P0–P5 PASS; English E0 COMPLETE / PASS**. Frozen Tamil blobs: `3b2f40df8f9b1f02aaac917276b7bcf374185f21`, `3740984e52a72b514dff4fc41f54a2938d7ce793`, `9ec5a3fd12e342a92bc02dada6dcf4297214d69d`, `26ce57fe58a5327879155bf41c132180d71dd191`. English article bodies: **0/4**. Next gate: **Article 1 `துடிக்கும் இளமை` T0 + T1**.
+Publication 13 **`துடிக்கும் இளமை` — TAMIL ARCHIVAL COMPLETE / FROZEN — P0–P5 PASS; English T0–T5 4/4 VERIFIED**. Verified English titles/blobs: **Throbbing Youth** `46c70fd2bf702a061d35b45383c8c8e0841852d9`; **Arohara to Annamalai!** `1cfce7827fec69de08c98dd78edf4a06a7216a41`; **Poompuhar** `67649c4db83881840137073bafa24d31062fb86c`; **Lamp of Victory!** `083d514b93d58484f49e3193235b9631d995cd8e`. Next gate: **E6 publication-wide English consistency review**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2388,35 +2388,48 @@ Do **not** reopen Publication 12 merely for stylistic polishing.
 
 Publication 13 `துடிக்கும் இளமை` is now **ACTIVE**.
 
-### Publication 13 durable state after English E0
+### Publication 13 durable state after English T0–T5
 
 - workspace — `publications/thudikkum-ilamai/`
 - Tamil P0–P5 — **COMPLETE / PASS**
 - Tamil status — **COMPLETE / STRICT-REVIEWED / FROZEN**
 - English E0 — **COMPLETE / PASS**
-- translation identity — **project-created English translation**
-- permanent policy — `ESSAY_TRANSLATION_GUIDE.md`
-- publication plan — `publications/thudikkum-ilamai/TRANSLATION_PLAN.md`
-- tracker — `publications/thudikkum-ilamai/translations/en/README.md`
-- source map — `publications/thudikkum-ilamai/translations/en/SOURCE_MAP.md`
-- living lexicon — `publications/thudikkum-ilamai/translations/en/LEXICON.md`
-- review ledger — `publications/thudikkum-ilamai/translations/en/TRANSLATION_REVIEW.md`
-- frozen Tamil authorities pinned — **4/4**
-- translation order — **1 → 2 → 3 → 4**
-- English article body files — **0/4**
-- English body prose created during E0 — **0**
-- Tamil source changes during E0 — **0**
+- T0 — **4/4 PASS**
+- T1 — **4/4 COMPLETE**
+- T2 — **4/4 PASS**
+- T3 — **4/4 PASS**
+- T4 — **4/4 PASS**
+- T5 — **4/4 VERIFIED**
+- English article body files — **4/4**
+- ordered source comments — **25/25 PASS**
+- T2 body corrections — **16**
+- T3 body corrections — **0**
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes during English work — **0**
 - blockers — **0**
+- E6 — **NOT STARTED**
+- E7 — **NOT STARTED**
 
-Frozen Tamil authorities:
+Verified English authorities:
 
-1. `துடிக்கும் இளமை` — scans 5–12 — `3b2f40df8f9b1f02aaac917276b7bcf374185f21`
-2. `அண்ணாமலைக்கு அரோகரா!` — scans 13–19 — `3740984e52a72b514dff4fc41f54a2938d7ce793`
-3. `பூம்புகார்` — scans 20–24 — `9ec5a3fd12e342a92bc02dada6dcf4297214d69d`
-4. `வெற்றி விளக்கு!` — scans 25–29 — `26ce57fe58a5327879155bf41c132180d71dd191`
+1. `துடிக்கும் இளமை` — **Throbbing Youth** — `46c70fd2bf702a061d35b45383c8c8e0841852d9`
+2. `அண்ணாமலைக்கு அரோகரா!` — **Arohara to Annamalai!** — `1cfce7827fec69de08c98dd78edf4a06a7216a41`
+3. `பூம்புகார்` — **Poompuhar** — `67649c4db83881840137073bafa24d31062fb86c`
+4. `வெற்றி விளக்கு!` — **Lamp of Victory!** — `083d514b93d58484f49e3193235b9631d995cd8e`
+
+Control authorities:
+
+- `publications/thudikkum-ilamai/TRANSLATION_PLAN.md`
+- `publications/thudikkum-ilamai/translations/en/README.md`
+- `publications/thudikkum-ilamai/translations/en/SOURCE_MAP.md`
+- `publications/thudikkum-ilamai/translations/en/LEXICON.md`
+- `publications/thudikkum-ilamai/translations/en/TRANSLATION_REVIEW.md`
 
 ### Exact next activity
 
-**Article 1 `துடிக்கும் இளமை` — T0 source-pin revalidation + T1 close English draft only.**
+**Publication 13 E6 — publication-wide English consistency review.**
 
-Refetch live `main`; require Tamil blob `3b2f40df8f9b1f02aaac917276b7bcf374185f21`; create `publications/thudikkum-ilamai/translations/en/01-thudikkum-ilamai.md`; preserve complete paragraph/clause coverage, source-page comments, rhetorical questions, repetition, insults, ideological vocabulary and quotation structure. Stop after T1. Do not begin T2 unless separately directed.
+Re-read all four verified English articles together against the frozen Tamil authorities and living lexicon. Check recurring ideological vocabulary, source-bearing transliterations, mythological names, literary-work titles, quotation treatment, title style, ordered source comments, tone consistency and accidental smoothing. Do not begin E7 release closeout until E6 is separately completed.
+
