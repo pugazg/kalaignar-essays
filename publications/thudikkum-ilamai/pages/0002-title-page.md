@@ -18,7 +18,7 @@ transcription_method: "direct visual comparison with source scan"
 
 மு. கருணாநிதி
 
-விலை : ஆறணை
+விலை : ஆறணா
 
 K. R. நாராயணன்  
 வி. ஆர். பிள்ளைத் தெரு  
@@ -37,7 +37,7 @@ Title-page printed text மீது பல later ownership / bookseller marks �
 ## P2 audit note
 
 - title / author / price / publisher / address அனைத்தும் source scan-ல் நேரடியாக உறுதிசெய்யப்பட்டன.
-- source-visible price **`விலை : ஆறணை`**; supplied transcription baseline-இல் இருந்த `ஆறணா` source-க்கு எதிராகத் திருத்தப்பட்டது.
+- user-confirmed canonical source reading — **`விலை : ஆறணா`**. Previous pass misread the historical `ணா` metal-type form as `ணை`; that interpretation is withdrawn.
 - physical-copy stamps அச்சு உரையில் கலக்கப்படவில்லை.
 - visible printed folio இல்லை.
 - unresolved publication-text reading — **0**.
