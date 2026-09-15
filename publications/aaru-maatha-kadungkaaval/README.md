@@ -1145,7 +1145,7 @@ User-confirmed canonical correction:
 - Article 2 remains **T0–T5 PASS / VERIFIED after targeted revalidation**.
 
 
-## English Article 3 — `சிறை` — T0/T1/T2/T3 checkpoint
+## English Article 3 — `சிறை` — T0/T1/T2/T3/T4 checkpoint
 
 - T0 — **PASS**
 - frozen Tamil blob — `0d860d48bcd666148c0a312ad296953f015225c2`
@@ -1155,24 +1155,27 @@ User-confirmed canonical correction:
 - T2 — **PASS** — **21 body corrections**
 - T2 English blob — `56dfd504cc9b315ee362c1176605e28728616d73`
 - T3 — **PASS** — **20 body corrections**
-- T3 English blob — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
+- T3 English blob — `7fa87637997c3f19b1f70fe1628a4e4bfe122164`
+- T4 — **PASS** — **0 body corrections**
+- T4 body authority — **`7fa87637997c3f19b1f70fe1628a4e4bfe122164`**
 - English file — `translations/en/03-sirai.md`
-- working title — **Prison** — provisional pending T4
-- translation status — **voice-reviewed**
+- verified title — **Prison**
+- translation status — **voice-reviewed** pending T5
 - source-page comments — **116/116 PASS**
 - scan 109 blank/reverse — **no invented prose**
-- T2 regressions — **0**
-- semantic additions from T3 — **0**
+- scan 224 — **outside Article 3 prose**
+- terminology / quotation / citation audit — **PASS**
+- unresolved release-blocking terminology choices — **0**
 - Tamil body leakage — **0**
 - Tamil changes — **0**
 - blockers — **0**
-- T4/T5 — **NOT STARTED**
+- T5 — **NOT STARTED**
 
-T3 sharpened personified-law sarcasm, comic prison-food lines, praise-catalogue rhythm, political turns, page-spanning farewell cadence and the closing Kallakkudi mobilisation while retaining source-bearing strange forms. Full provenance is in `translations/en/TRANSLATION_REVIEW.md`.
+T4 froze the Article 3 title and source-bearing vocabulary while retaining unusual source forms instead of replacing them with outside explanations. `LEXICON.md` and `translations/en/TRANSLATION_REVIEW.md` contain the durable terminology decisions.
 
 ### Exact next activity
 
-**Article 3 — `சிறை` — T4 terminology / quotation / citation audit only.**
+**Article 3 — `சிறை` — T5 article verification only.**
 
-Use frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and T3 English blob `7fa87637997c3f19b1f70fe1628a4e4bfe122164`. Audit title, lexicon, names, epithets, quotations, songs, source-bearing terms, dates, institutional terminology, punctuation/source anomalies and all **116/116** source comments. Stop before T5.
+Use frozen Tamil blob `0d860d48bcd666148c0a312ad296953f015225c2` and T4 body authority `7fa87637997c3f19b1f70fe1628a4e4bfe122164`. Revalidate T0–T4, title **Prison**, all **116/116** source comments, scan 109 blank/reverse, scan 224 exclusion, zero Tamil leakage, zero release blockers and zero blockers. Only after PASS may `translation_status` become `verified`. Stop before any publication-level English release gate.
 
