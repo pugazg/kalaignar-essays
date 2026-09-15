@@ -20,16 +20,16 @@ Direct scan inspection establishes:
 - author — **`மு. கருணாநிதி`**;
 - publisher — **`K. R. நாராயணன்`**;
 - publisher address — **`வி. ஆர். பிள்ளைத் தெரு, சென்னை-5`**;
-- price — **`ஆறணா`**;
+- price — **`ஆறணை`**;
 - edition statement — **`முதற் பதிப்பு`**;
-- edition date — **`16-12-'51`**;
+- edition date — **`16—12—'51`**;
 - printer line — **`அச்சிட்டது: ஸ்ரீ மகள் அச்சகம், சென்னை-1.`**
 
 ## Publication-type evidence
 
 The publisher's note on scan 4 states:
 
-> `தி. மு. க. முன்னணி எழுத்தாளர் — கலைஞர் கருணாநிதியின் எழுச்சியூட்டும் எழுத்தோவியங்களே இப் புத்தகம்.`
+> `தி. மு. க. முன்னணி எழுத்தாளர் —கலைஞர் கருணாநிதியின் எழுச்சியூட்டும் எழுத்தோவியங்களே இப் புத்தகம்.`
 
 Therefore this source is catalogued in **`kalaignar-essays`**, not `kalaignar-public-speeches`.
 
@@ -68,3 +68,12 @@ Mandatory during P2 and P5:
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
 Read character identity from enlarged source pixels; do not modernize wording.
+
+## P2 source-fidelity correction record
+
+Batch 001 direct scan review superseded two shorthand/intake readings:
+
+- scan 2: `ஆறணா` → source-visible **`ஆறணை`**;
+- scan 3: `16-12-'51` → source-visible **`16—12—'51`**.
+
+These are now the canonical printed-identity readings.
