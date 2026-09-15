@@ -34,7 +34,7 @@ Direct native inspection established:
 
 ## Current state
 
-- Publication 12 — **TAMIL ARCHIVAL COMPLETE / FROZEN — English READY / NOT STARTED**
+- Publication 12 — **TAMIL ARCHIVAL COMPLETE / FROZEN — English E0 COMPLETE / PASS; Article 1 T0/T1 NEXT**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 224/224 structurally mapped**
 - P2 — **COMPLETE / PASS — 224/224 verified; 0 needs-review; 0 guessed readings**
@@ -42,7 +42,7 @@ Direct native inspection established:
 - P3 — **COMPLETE / PASS — 3/3 article assemblies: `முரசு`, `களம்`, `சிறை`**
 - P4 — **COMPLETE / PASS — publication source audit / completeness review**
 - P5 — **COMPLETE / PASS — 224/224 — visual-text-fidelity complete**
-- English — **READY / NOT STARTED — Tamil archival layer frozen**
+- English — **E0 COMPLETE / PASS — 0/3 article drafts; Article 1 `முரசு` T0/T1 next**
 
 ## Historical Tamil glyph policy
 
@@ -952,7 +952,7 @@ Progress authority: `P2_REAUDIT_PROGRESS.md`.
 
 ## Exact next activity
 
-**English translation startup — Tamil P0–P5 is complete and frozen.**
+**Article 1 — `முரசு` — T0 source prerequisite + T1 close draft.**
 
 
 ## P5 final strict visual fidelity
@@ -1014,3 +1014,33 @@ Batch P5-01:
 - English — **READY / NOT STARTED**
 
 Final P5 batch scans **196–224** / derivative extract pages **47–75**: **29/29 PASS / 0 new corrections**. Scan 223 is the final text-bearing page; scan 224 is the terminal `திராவிடப்பண்ணை` back-cover / publisher device.
+
+
+## English E0 setup — COMPLETE / PASS
+
+Translation identity: **project-created English translation**.
+
+Durable English setup:
+
+- plan — `TRANSLATION_PLAN.md`
+- tracker — `translations/en/README.md`
+- frozen source map — `translations/en/SOURCE_MAP.md`
+- living lexicon — `translations/en/LEXICON.md`
+- review ledger — `translations/en/TRANSLATION_REVIEW.md`
+- frozen Tamil source pins — **3/3 PASS**
+- English body files created at E0 — **0**
+- blockers — **0**
+
+Frozen article authorities:
+
+1. `முரசு` — `7a41617cd48f8507bc12074fb48d6016fae5cead`
+2. `களம்` — `60c155dc93a4543e267ccbca5573d6f5b70e5672`
+3. `சிறை` — `0d860d48bcd666148c0a312ad296953f015225c2`
+
+Translation order: **1 → 2 → 3**.
+
+### Exact next activity
+
+**Article 1 — `முரசு` — T0 + T1.**
+
+Re-fetch and pin the frozen Tamil blob, establish the working English title, create `translations/en/01-murasu.md`, preserve every source-page comment, and translate the entire article paragraph by paragraph. Do not alter the frozen Tamil layer.
