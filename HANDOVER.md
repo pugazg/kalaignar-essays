@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after Publication 15 `விடுதலைக் கிளர்ச்சி` P5 Batch 005. Publications **1–14 are RELEASE COMPLETE / FROZEN**. Publication 15 is **ACTIVE — P0–P4 PASS; P5 IN PROGRESS — 50/69 STRICT-REVIEWED**.
+Handoff refreshed after Publication 15 `விடுதலைக் கிளர்ச்சி` P5 Batch 006. Publications **1–14 are RELEASE COMPLETE / FROZEN**. Publication 15 is **ACTIVE — P0–P4 PASS; P5 IN PROGRESS — 60/69 STRICT-REVIEWED**.
 
 ## Repository state
 
@@ -18,7 +18,7 @@ Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPL
 
 Publication 14 **`பெருமூச்சு` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 13/13 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0–P4 PASS; P5 IN PROGRESS — 50/69 STRICT-REVIEWED**.
+Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0–P4 PASS; P5 IN PROGRESS — 60/69 STRICT-REVIEWED**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2754,8 +2754,21 @@ Current partial-P5 main assembly blob — **`ab1fc1d83b60b79088faa679904c1eb7105
 
 Current partial-P5 main assembly blob — **`9a5df079233369bd02a1687d9d44f832fc3ef3b8`**.
 
+## P5 Batch 006 — scans 51–60
+
+**COMPLETE / PASS — 10/10 STRICT-REVIEWED**
+
+- scan 55 — source dash attachment **`ரஷ்யா நிற்கிறது—ஆகவேதான்`**
+- scan 60 — source lexical reading **`அணுகுண்டு`**
+- scans 51–54 and 56–59 — **PASS / no canonical change**
+- scan 60→61 boundary **`நாடக / மேடை`** revalidated
+- cumulative P5 — **60/69**
+- unresolved — **0**
+
+Current partial-P5 main assembly blob — **`31f1a212d365bfdd1cf4ee2bf5fd57d15f799b7c`**.
+
 ## Exact next activity
 
-**P5 strict visual review — scans 51–60.**
+**P5 strict visual review — scans 61–69.**
 
 Use `viduthalai_kilarchi.md` only as a baseline comparison aid. Source scan pixels remain controlling. Apply the historical-glyph guide word-by-word and preserve page-boundary fragments exactly.

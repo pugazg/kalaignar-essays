@@ -250,8 +250,22 @@ The source consists of preliminary verse/prologue material followed by one conti
 - unresolved readings — **0**
 - authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
 
+## P5 Batch 006 — scans 51–60
+
+**COMPLETE / PASS — 10/10 STRICT-REVIEWED**
+
+- source scans independently reopened — **10/10**
+- canonical corrections — **2**
+- scan 55 — source dash attachment **`ரஷ்யா நிற்கிறது—ஆகவேதான்`**
+- scan 60 — source lexical reading **`அணுகுண்டு`**
+- scans 51–54 and 56–59 — no canonical text changes
+- scan 60→61 **`நாடக / மேடை`** boundary revalidated
+- cumulative P5 progress — **60/69**
+- unresolved readings — **0**
+- authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
+
 ## Next
 
-Publication 15 is **ACTIVE — P0–P4 COMPLETE / PASS; P5 IN PROGRESS — 50/69 STRICT-REVIEWED**.
+Publication 15 is **ACTIVE — P0–P4 COMPLETE / PASS; P5 IN PROGRESS — 60/69 STRICT-REVIEWED**.
 
-Next gate activity: **P5 scans 51–60**.
+Next gate activity: **P5 scans 61–69**.

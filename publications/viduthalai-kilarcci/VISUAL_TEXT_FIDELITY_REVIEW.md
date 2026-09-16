@@ -10,16 +10,17 @@ P5 is the independent final strict visual word-by-word / punctuation-by-punctuat
 
 ## Current state
 
-**IN PROGRESS — 50/69 physical scans STRICT-REVIEWED**
+**IN PROGRESS — 60/69 physical scans STRICT-REVIEWED**
 
 - Batch 001 — scans **1–10** — **COMPLETE / PASS**
 - Batch 002 — scans **11–20** — **COMPLETE / PASS**
 - Batch 003 — scans **21–30** — **COMPLETE / PASS**
 - Batch 004 — scans **31–40** — **COMPLETE / PASS**
 - Batch 005 — scans **41–50** — **COMPLETE / PASS**
+- Batch 006 — scans **51–60** — **COMPLETE / PASS**
 - unresolved P5 readings — **0**
 - guessed readings — **0**
-- next range — **51–60**
+- next range — **61–69**
 
 ## Batch 001 — scans 1–10
 
@@ -115,13 +116,33 @@ Batch-004 canonical corrections — **4**.
 
 Batch-005 canonical corrections — **2**.
 
+## Batch 006 — scans 51–60
+
+| Scan | Result | Canonical correction |
+|---:|---|---|
+| 51 | PASS | none |
+| 52 | PASS | none |
+| 53 | PASS | none |
+| 54 | PASS | none |
+| 55 | PASS after correction | `ரஷ்யா நிற்கிறது — ஆகவேதான்` → **`ரஷ்யா நிற்கிறது—ஆகவேதான்`** |
+| 56 | PASS | none |
+| 57 | PASS | none |
+| 58 | PASS | none |
+| 59 | PASS | none |
+| 60 | PASS after correction | `அனுகுண்டு` → **`அணுகுண்டு`** |
+
+Batch-006 canonical corrections — **2**.
+
+Boundary revalidation:
+- scan 60→61 — **`நாடக / மேடை`** remains a normal lexical-space continuation in the P3 assembly.
+
 ## Historical Tamil glyph audit
 
 Mandatory historical families were explicitly rechecked where present:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Batch-001/002/003/004/005 cumulative result:
+Batch-001/002/003/004/005/006 cumulative result:
 
 - unresolved historical-glyph ambiguity — **0**
 - global modernization / normalization — **0**
@@ -142,10 +163,14 @@ Batch-005 corrected canonical page blobs:
 - scan 43 — `5e8e57d962ffc8973dcd614bf70adcae9d14ca00`
 - scan 46 — `6bc56e1e16bbd2de3b606c47a749539b570df6d5`
 
+Batch-006 corrected canonical page blobs:
+- scan 55 — `4155094faf0471c70e4adb0c77d7c268535fc443`
+- scan 60 — `129f69498224c0175c735f2a099bbe371e902218`
+
 Assembly propagation:
 - `articles/00-vengaiyai-virattum-padalam.md` — scans 4–7 fully rechecked; **STRICT-REVIEWED** — blob `c5be16582c2c3bb238cc1bf1ae47f8301173352f`
-- `articles/01-viduthalai-kilarcci.md` — scans 8–50 strict-reviewed with all P5 corrections propagated; P5 is still partial — blob `9a5df079233369bd02a1687d9d44f832fc3ef3b8`
+- `articles/01-viduthalai-kilarcci.md` — scans 8–60 strict-reviewed with all P5 corrections propagated; P5 is still partial — blob `31f1a212d365bfdd1cf4ee2bf5fd57d15f799b7c`
 
 ## Exact next activity
 
-**P5 scans 51–60.**
+**P5 scans 61–69.**

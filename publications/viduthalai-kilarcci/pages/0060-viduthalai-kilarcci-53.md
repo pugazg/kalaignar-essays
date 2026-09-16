@@ -22,7 +22,7 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 
 மூவுலகத்தையும் ஆள எண்ணுபவன் முள் முனையிலே நின்று தவம் செய்வான். பரமசிவன் தோன்றுவார். வீர வரம் தருவார். தவசி திக் விஜயம் ஆரம்பிப்பான்.
 
-அரன், அயன், அரி இவர்கள் அருள் பெறுமே அனுகுண்டு உதவியால் உலகத்தை கட்டியாள நினைக்கும் வல்லரசுகள் உலவிடும் இந்த நேரத்திலும், வரம் பெற்றால்தான் படைபலம் பெறமுடியும் என்ற புராணக் கருத்துக்களை நாடகக் கலை மூலம் விளக்கிடவும், அதை நம்பும் போக்கினர் வியந்திடவுமான நிலை இங்கிருந்திடக் காண்கிறோம்.
+அரன், அயன், அரி இவர்கள் அருள் பெறுமே அணுகுண்டு உதவியால் உலகத்தை கட்டியாள நினைக்கும் வல்லரசுகள் உலவிடும் இந்த நேரத்திலும், வரம் பெற்றால்தான் படைபலம் பெறமுடியும் என்ற புராணக் கருத்துக்களை நாடகக் கலை மூலம் விளக்கிடவும், அதை நம்பும் போக்கினர் வியந்திடவுமான நிலை இங்கிருந்திடக் காண்கிறோம்.
 
 கயிற்றால் கட்டி இறக்கப்படும் நாடகமேடை பரமசிவனையும், கம்பியால் பிணைத்து காட்சியாகும் கருடவாகனரூடரையும், கண்டவுடனே நாடக
 
@@ -46,6 +46,13 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 - source **மகேஸ்வரனின் அருளால்** confirmed.
 - source sequence **அரன், அயன், அரி** retained exactly.
 - terminal **நாடக** is preserved for scan-61 continuation.
+
+## P5 strict visual fidelity findings
+
+- lexical reading corrected from source pixels: **`அனுகுண்டு`** → **`அணுகுண்டு`**.
+- terminal physical continuation **`நாடக / மேடை`** revalidated against scans 60→61; it remains a normal lexical-space continuation in the P3 assembly.
+- all other visible words, punctuation, meaningful spacing, folio and historical glyphs rechecked — **PASS**.
+- unresolved P5 readings — **0**.
 
 ## P2 நிலை
 

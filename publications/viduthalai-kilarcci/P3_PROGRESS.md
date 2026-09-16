@@ -101,6 +101,15 @@ Non-word page continuations such as `பிரஞ்சுக் / காலன�
 - contributing main scans strict-reviewed so far — **8–50 / 43 scans**
 - unresolved assembly discrepancies — **0**
 
+## P5 Batch 006 propagation
+
+- scan 55 source dash attachment **`ரஷ்யா நிற்கிறது—ஆகவேதான்`** propagated into the main reading assembly.
+- scan 60 source lexical reading **`அணுகுண்டு`** propagated into the main reading assembly.
+- scan 60→61 **`நாடக / மேடை`** boundary revalidated as a normal lexical-space continuation.
+- current partial-P5 main assembly blob — **`31f1a212d365bfdd1cf4ee2bf5fd57d15f799b7c`**
+- contributing main scans strict-reviewed so far — **8–60 / 53 scans**
+- unresolved assembly discrepancies — **0**
+
 ## Exact next activity
 
-**P5 strict visual review — scans 51–60.**
+**P5 strict visual review — scans 61–69.**

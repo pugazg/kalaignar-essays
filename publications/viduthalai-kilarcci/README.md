@@ -13,7 +13,7 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - P2 page-level transcription — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 article assembly — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 source audit — **COMPLETE / PASS**
-- P5 strict visual-text-fidelity pass — **IN PROGRESS — 50/69 STRICT-REVIEWED**
+- P5 strict visual-text-fidelity pass — **IN PROGRESS — 60/69 STRICT-REVIEWED**
 - English — **BLOCKED until Tamil archival layer freezes**
 - source PDF committed — **No**
 
@@ -172,8 +172,22 @@ Affected main reading assembly updated.
 
 Affected main reading assembly updated.
 
+## P5 Batch 006 — scans 51–60
+
+**COMPLETE / PASS — 10/10 STRICT-REVIEWED**
+
+- scan 55 — **`ரஷ்யா நிற்கிறது — ஆகவேதான்`** → source **`ரஷ்யா நிற்கிறது—ஆகவேதான்`**
+- scan 60 — **`அனுகுண்டு`** → source **`அணுகுண்டு`**
+- scans 51–54 and 56–59 — no canonical text changes
+- scan 60→61 **`நாடக / மேடை`** boundary revalidated
+- cumulative P5 progress — **60/69**
+- unresolved P5 readings — **0**
+- current partial-P5 main assembly blob — **`31f1a212d365bfdd1cf4ee2bf5fd57d15f799b7c`**
+
+Affected main reading assembly updated.
+
 ## Exact next activity
 
-**P5 strict visual review — scans 51–60.**
+**P5 strict visual review — scans 61–69.**
 
 Use the baseline only as a comparison aid. Verify every word, punctuation mark, page boundary and historical glyph against source pixels.
