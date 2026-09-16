@@ -32,43 +32,57 @@ The publication contains a publisher preface followed by **13** distinct politic
 
 - historical Tamil typeforms — **present**
 - historical-glyph guide — **mandatory**
-- P2 — **IN PROGRESS — 23/83 VERIFIED / PASS**
-- P3–P5 — **NOT STARTED**
+- P2 — **COMPLETE / PASS — 83/83 VERIFIED**
+- P3 — **NOT STARTED — NEXT GATE**
+- P4–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil P5 / frozen**
 
-## P2 first-pass progress — scans 1–23
+## P2 final audit
 
-**COMPLETE / PASS — 23/23 for this iteration**
+**COMPLETE / PASS — 83/83**
 
-- canonical page records created — **23**
-- verified — **23**
+- canonical physical-scan records — **83/83**
+- source scans covered — **83/83**
+- missing records — **0**
+- duplicate records — **0**
+- verified — **83**
 - needs-review — **0**
 - blocked — **0**
 - guessed readings — **0**
 - unresolved historical-glyph readings — **0**
-- user-supplied `perumoochu.md` — **baseline only / non-authoritative**
-- source pixels — **controlling authority**
+- physical-copy marks separated from printed text — **PASS**
+- source PDF terminal scan 83 — **VERIFIED**
+- baseline `perumoochu.md` — **non-authoritative alignment aid only**
+- rendered source pixels — **controlling authority**
 
-Coverage:
+### Article/body coverage
 
-- scans 1–4 — front matter / physical-copy evidence
-- scans 5–6 — `மூச்சினிடையே!`
-- scans 7–10 — `பெருமூச்சு`
-- scans 11–16 — `மாளிகை அமைத்திட வாரீர்!`
-- scans 17–20 — `மந்திரிகள் குலை நடுக்கம்`
-- scans 21–23 — `வாபஸ் வீரர்கள்!`
+1. scans 7–10 — **`பெருமூச்சு`**
+2. scans 11–16 — **`மாளிகை அமைத்திட வாரீர்!`**
+3. scans 17–20 — **`மந்திரிகள் குலை நடுக்கம்`**
+4. scans 21–23 — **`வாபஸ் வீரர்கள்!`**
+5. scans 24–36 — **`பொது மக்களுக்குத் தனி எச்சரிக்கை`**
+6. scans 37–40 — **`சிறுவர்கள்`**
+7. scans 41–48 — **`“அஹிம்சா விலாசம்”`**
+8. scans 49–52 — **`திண்டிவனம் தீரர்காள்!`**
+9. scans 53–56 — **`சேவல் கூவுகிறது!`**
+10. scans 57–62 — **`மாடோட்டிகள்!`**
+11. scans 63–70 — **`தேர்தல் கோவலன்!`**
+12. scans 71–76 — **`சிந்தித்துணர்க! சீற்றமுறாதீர்!`**
+13. scans 77–80 — **`பூம்! பூம்! பூம்!`**
 
-P2 source-fidelity corrections / refinements recorded:
+### Durable fidelity findings
 
-1. scan 5 — baseline `விடுகிறர்கள்` → **`விடுகிறார்கள்`** through historical-`றா` decoding;
-2. scan 6 — baseline `தறிப்பாக` → **`குறிப்பாக`**;
-3. scan 13 — baseline `உறக்கக்` → **`உரக்கக்`**;
-4. scan 17 — baseline heading `மந்திரிகள் குலை நடுக்கம்` → **`மந்திரிகள் குலை நடுக்கம்`**;
-5. scan 21 — P1 heading `வாய்ஸ் வீரர்கள்!` → source **`வாபஸ் வீரர்கள்!`**;
-6. scan 22 — baseline `புண்ய பூமியிலே` → **`புண்ணிய பூமியிலே`**.
+- historical **`லை`** in **`மந்திரிகள் குலை நடுக்கம்`** is authoritative;
+- retired P1 title readings have been replaced by the source-visible P2 readings listed above;
+- scans **24–52** were rebuilt to exact physical scan boundaries after heuristic segmentation was detected during closure review;
+- repair authority — **`ebe8b2146eef22ac203f8014367cb78dea2d4b76`**;
+- scans 81–83 catalogue text was read directly from source pixels rather than copying baseline price-column noise.
 
-Cross-scan physical continuations were preserved rather than silently imported into the preceding record.
+## P2 gate result
 
-## Next
+**PASS — P3 may begin.**
 
-**P2 scans 24–46**.
+## Exact next activity
+
+**P3 — assemble the 13 article reading copies from canonical P2 page records and audit for omissions/additions/normalization.**
