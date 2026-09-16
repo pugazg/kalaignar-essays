@@ -18,14 +18,14 @@ The source is the second edition, with the imprint page preserving:
 
 - `முதற் பதிப்பு—'52`
 - `இரண்டாம் பதிப்பு—'53`
-- `வெளியீடு: இளங்கோ பதிப்பகம், மாயூரம்`
+- `வெளியீடு:- இளங்கோ பதிப்பகம், மாயூரம்`
 
 The cover/title-page title includes the source punctuation **`பெருமூச்சு!`**.
 
 ## Physical structure
 
 1. scans 1–4 — cover / title / imprint / physical-copy evidence;
-2. scans 5–6 — publisher preface **`மூச்சினிடையே!`**, signed **P. S. இளங்கோ**, dated **14-1-1952**;
+2. scans 5–6 — publisher preface **`மூச்சினிடையே!`**, signed **P. S. இளங்கோ**, dated **14—1—1952**;
 3. scans 7–80 — thirteen article units;
 4. scans 81–83 — advertisements / publisher catalogue matter.
 
@@ -98,7 +98,11 @@ Scans **24–52** were additionally repaired after a closure check found heurist
 
 - P3 — **COMPLETE / PASS — 13/13**
 - P4 — **COMPLETE / PASS**
+- P5 — **IN PROGRESS — 78/83 directly rechecked**
+- P5 authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
+
+P5 front-matter reinspection additionally fixed the source-visible imprint punctuation to **`வெளியீடு:-`** and the preface date to **`14—1—1952`**.
 
 ## Current next gate
 
-**P5 — final strict visual text-fidelity pass over all 83 physical scans.**
+**Continue P5 with scans 79–83, then perform final closure checks.**
