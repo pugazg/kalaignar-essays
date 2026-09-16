@@ -363,29 +363,278 @@ Source-page comments — **4/4 PASS**.
 - unresolved translation choices — **0**
 - blockers — **0**
 
-# Articles 1–6 aggregate checkpoint
+# Article 7 — `“அஹிம்சா விலாசம்”` — T0–T5 VERIFIED
 
-- T0 — **6/6 PASS**
-- T1 — **6/6 COMPLETE**
-- T2 — **6/6 PASS**
-- T3 — **6/6 PASS**
-- T4 — **6/6 PASS**
-- T5 — **6/6 VERIFIED**
-- ordered source comments — **34/34 PASS**
+- frozen Tamil blob — `12c50fe83ef047ca060669831c82d3e00defc04a`
+- source scans — **41–48**
+- T0 — **PASS**
+- T1 — **COMPLETE**
+- T1 English blob — `5c5868c652b51299c3531dfb41a60e52e2fa81bc`
+- verified title — **“Ahimsa Vilasam”**
+- ordered source comments — **8/8 PASS**
+
+### T2 bilingual fidelity review — PASS
+
+T2 English blob — `c6076617d5e8b8f7c1c0e72d501f570deb6dd770`
+
+Body correction groups — **2**:
+
+1. `அரசியல் திட்ட நிலை அமைப்புக் குழு` — replaced the over-confident **constitutional-status committee** with the closer source-facing **committee for framing the constitutional plan**;
+2. `சத்தற்ற ஜன்மங்கள், சொரணை கெட்டவர்கள்` — strengthened the English from abstract **devoid of spirit / bereft of self-respect** to **spiritless and shameless**, preserving the source insult.
+
+Post-T2:
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- dates / names / quotation scope — **PASS**
+- Tamil source changes — **0**
+
+### T3 Kalaignar voice review — PASS
+
+T3 English blob — `63727b22642e1fbb5ca76dd3a45da0ded533198b`
+
+- body corrections — **0**
+- direct electoral address / accusation / repeated Dravida framing — **PASS**
+- quoted-title rhetoric — **PASS**
+- accidental academic distancing — **0**
+
+### T4 terminology / quotation / citation audit — PASS
+
+T4 body authority — `b0d1b8b3f9bd300b684999d7859f0868801f5a36`
+
+Body correction groups — **1**:
+
+1. `கமண்டலம்` — generic **water-pot** → source-bearing ***kamandala***.
+
+Lexicon/title decisions:
+
+- `அஹிம்சா விலாசம்` → **“Ahimsa Vilasam”** — preserve the quoted coined label;
+- `மாட்டுப் பெட்டி` → **cow box**;
+- source labels **Chanakya / Kulluka Bhattar / Indian Machiavelli** retained as labels in the source, not independent characterisations.
+
+### T5 article verification — PASS / VERIFIED
+
+- verified English blob — **`9a55d55bef9e68c893c42546ac7dac1bb84ffb18`**
+- source comments — **8/8**
+- untranslated Tamil body leakage — **0**
+- unresolved translation choices — **0**
+- blockers — **0**
+
+# Article 8 — `திண்டிவனம் தீரர்காள்!` — T0–T5 VERIFIED
+
+- frozen Tamil blob — `bb99717ca388d53bbbffd163f165fc0824ee7f37`
+- source scans — **49–52**
+- T0 — **PASS**
+- T1 — **COMPLETE**
+- T1 English blob — `b18b4e99fe10263f21b71e94097d49254b1df685`
+- verified title — **O Heroes of Tindivanam!**
+- ordered source comments — **4/4 PASS**
+
+### T2 bilingual fidelity review — PASS
+
+T2 English blob — `53315d0317f7ff1aef46c6f97e4471eb076081a7`
+
+Body correction groups — **1**:
+
+1. `அதிர்வேட்டு` — **thunderous blow** → **explosive blast**, retaining the source's explosive-image force.
+
+Post-T2:
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- rhetorical questions / literary references — **PASS**
+- Tamil source changes — **0**
+
+### T3 Kalaignar voice review — PASS
+
+T3 English blob — `f3656ae3aedee6b73b8a01f11955f261e3087054`
+
+- body corrections — **0**
+- direct challenge to Tindivanam voters — **PASS**
+- accumulated North/Dravida contrast — **PASS**
+- source literary invocations — **PASS**
+
+### T4 terminology / quotation / citation audit — PASS
+
+T4 body/title authority — `cfdc1ec958f6f91e3f9e5d6e0d6c02673baa61c6`
+
+Title correction — **1**:
+
+1. **Heroes of Tindivanam!** → **O Heroes of Tindivanam!**, restoring the Tamil vocative `தீரர்காள்`.
+
+Lexicon decisions:
+
+- `கோயங்கா / கோயாங்கா` → **Koyanga** — source-bearing transliteration only;
+- `கனக விசயர்` → **Kanaka Visayar / Kanaka-Visayars**;
+- `விபீஷணர்கள்` → **Vibhishanas**.
+
+### T5 article verification — PASS / VERIFIED
+
+- verified English blob — **`557927643d1df347e2f8c03971bd501439973863`**
+- source comments — **4/4**
+- untranslated Tamil body leakage — **0**
+- unresolved translation choices — **0**
+- blockers — **0**
+
+# Article 9 — `சேவல் கூவுகிறது!` — T0–T5 VERIFIED
+
+- frozen Tamil blob — `9d1a0e39e45cc1cb94419c5b966f8da415233e37`
+- source scans — **53–56**
+- T0 — **PASS**
+- T1 — **COMPLETE**
+- T1 English blob — `250a0cdc75dcd3a60258604e12cd331bd5836a7f`
+- verified title — **The Rooster Crows!**
+- ordered source comments — **4/4 PASS**
+
+### T2 bilingual fidelity review — PASS
+
+T2 English blob — `9d06a511ce4d10ad545abcc5674bc801f5fc6992`
+
+Body correction groups — **1**:
+
+1. `நல்ல பாம்புகள்` — literal **good snakes** → contextual **cobras**, preserving the source animal contrast with mongooses.
+
+### T3 Kalaignar voice review — PASS
+
+T3/T4 body authority — `aa8432f33934c987b2daa13a7673b9a6254b8217`
+
+- body corrections — **0**
+- repeated South Arcot address / commands / slogans — **PASS**
+- cattle/rooster election-symbol imagery — **PASS**
+- source's unclosed opening quotation on scan 56 — **preserved as source irregularity; not silently repaired**
+
+### T4 terminology / quotation / citation audit — PASS
+
+- `சேவல் பெட்டி` → **rooster box**
+- `மாட்டுப் பெட்டி` → **cow box**
+- `பரணி` → ***parani***
+- `மாங்கல்யம்` → ***mangalyam***
+- `விபீஷணர்கள் / சுக்ரீவர்கள்` → **Vibhishanas / Sugrivas**
+- title — **The Rooster Crows!** — VERIFIED
+
+### T5 article verification — PASS / VERIFIED
+
+- verified English blob — **`b4e203789117dba4de9c08f2bc25766e807e2160`**
+- source comments — **4/4**
+- untranslated Tamil body leakage — **0**
+- unresolved translation choices — **0**
+- blockers — **0**
+
+# Article 10 — `மாடோட்டிகள்!` — T0–T5 VERIFIED
+
+- frozen Tamil blob — `ffdce8f466928a5484cc155dbc841394fd6db30c`
+- source scans — **57–62**
+- T0 — **PASS**
+- T1 — **COMPLETE**
+- T1 English blob — `51aa9eae2dcd0b55f246bdec60bcf2a1445f6cb4`
+- verified title — **Cattle-Drivers!**
+- ordered source comments — **6/6 PASS**
+
+### T2 bilingual fidelity review — PASS
+
+T2 English blob — `397394147e5dfa451b52921e65e63b22da75ac93`
+
+Body correction groups — **1**:
+
+1. scan 60 slogan punctuation — removed the English-only exclamation from **‘Dravida Nadu for the Dravidians alone!’** because this source occurrence ends without that exclamation inside the quotation.
+
+### T3 Kalaignar voice review — PASS
+
+T3/T4 body authority — `43a70fa2caea37f6a8be0a1345f9453a8bbc1465`
+
+- body corrections — **0**
+- recurring cattle-driver metaphor — **PASS**
+- repeated freedom / self-rule questions — **PASS**
+- closing imperatives and slogans — **PASS**
+
+### T4 terminology / quotation / citation audit — PASS
+
+- `மாடோட்டி / மாடோட்டிகள்` → **cattle-driver / cattle-drivers**
+- `மாட்டுப் பெட்டி` family of cattle imagery remains consistent with Articles 7, 9 and 11
+- source idiom `தாம் பிடித்த முயலுக்கு மூன்றேகால்` retained literally rather than replaced by an unrelated English idiom
+- title — **Cattle-Drivers!** — VERIFIED
+
+### T5 article verification — PASS / VERIFIED
+
+- verified English blob — **`3f96803c1d0b08d287da2e961298c18e4491ea3f`**
+- source comments — **6/6**
+- untranslated Tamil body leakage — **0**
+- unresolved translation choices — **0**
+- blockers — **0**
+
+# Article 11 — `தேர்தல் கோவலன்!` — T0–T5 VERIFIED
+
+- frozen Tamil blob — `8b01451de21342eb7df91b3b7b72d5d6d857c67f`
+- source scans — **63–70**
+- T0 — **PASS**
+- T1 — **COMPLETE**
+- T1 English blob — `78234a50325f6419c798f3a0c60615fcf938ad57`
+- verified title — **Election Kovalan!**
+- ordered source comments — **8/8 PASS**
+
+### T2 bilingual fidelity review — PASS
+
+T2 English blob — `1c527e06cab3073eec27a8fd86e63961d6606aca`
+
+Body correction groups — **2**:
+
+1. `லட்டுப், பூரியைப்போல பதவியிலே ஆசைகொண்டு` — **lured by office as by laddu and puri** → **greedy for office as though it were laddu and puri**, restoring the direction of the comparison;
+2. `நனைந்துபோன முரசின் ஒலி` — removed the English-only **skin** from **drum of a rain-soaked skin** → **rain-soaked drum**.
+
+Post-T2:
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- Silappathikaram/Kovalan analogy — **complete**
+- numbers / electoral arithmetic / quotation scope — **PASS**
+
+### T3 Kalaignar voice review — PASS
+
+T3/T4 body authority — `0aafa3aa31697feeda6ed6cbb4cb61791d7fa31b`
+
+- body corrections — **0**
+- mock lament / lovers' quarrel / election analogy shifts — **PASS**
+- repeated forgiveness/deceit contrast — **PASS**
+- direct final appeal — **PASS**
+
+### T4 terminology / quotation / citation audit — PASS
+
+- `சிலப்பதிகாரம்` → ***Silappathikaram***
+- `கோவலன் / கண்ணகி / மாதவி` → **Kovalan / Kannagi / Madhavi**
+- `வஞ்சிப்பத்தர்` → **Vanjipattar** — source-bearing label, not externally expanded
+- `நீலிக்கண்ணீர்` → **Neeli tears** — source-specific metaphor retained
+- `சுந்தராங்கதர்கள்` → **Sundarangathars**
+- `மாட்டுப் பெட்டி` → **cow box**
+- title — **Election Kovalan!** — VERIFIED
+
+### T5 article verification — PASS / VERIFIED
+
+- verified English blob — **`470e034d7e2bd977dc6e70d61159814090f4110b`**
+- source comments — **8/8**
+- untranslated Tamil body leakage — **0**
+- unresolved translation choices — **0**
+- blockers — **0**
+
+# Articles 1–11 aggregate checkpoint
+
+- T0 — **11/11 PASS**
+- T1 — **11/11 COMPLETE**
+- T2 — **11/11 PASS**
+- T3 — **11/11 PASS**
+- T4 — **11/11 PASS**
+- T5 — **11/11 VERIFIED**
+- ordered source comments — **64/64 PASS**
 - omitted Tamil clauses after review — **0**
 - added substantive English claims after review — **0**
 - untranslated Tamil body leakage — **0**
 - Tamil source changes — **0**
 - blockers — **0**
 
-## Articles 7–13
+## Articles 12–13
 
-Articles **7–13** remain **NOT STARTED** at T0–T5.
+Articles **12–13** remain **NOT STARTED** at T0–T5.
 
 Frozen Tamil pins remain those recorded in `SOURCE_MAP.md`.
 
 ## Exact next activity
 
-**Article 7 `“அஹிம்சா விலாசம்”` — T0 source prerequisite.**
+**Article 12 `சிந்தித்துணர்க! சீற்றமுறாதீர்!` — T0 source prerequisite.**
 
-Require exact live-main Tamil blob **`12c50fe83ef047ca060669831c82d3e00defc04a`** before creating the Article 7 English body file.
+Require exact live-main Tamil blob **`122f5320d683c35267e23b5a667bfd27100fdd3e`** before creating the Article 12 English body file.
