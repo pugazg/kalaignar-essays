@@ -116,3 +116,31 @@ They regard the election as an interim question!
 To those who wail, "Alas! The sinners have ruined our fundamental doctrine of money-rule!" the DMK's election policy may look like sheer villainy. We do not care even if it is branded "sheer villainy"; the DMK has declared firmly that it will not depart from the honourable plan it has guarded!
 
 About one hundred and fifty people signed the agreement document in accordance with that stand. Of them, the district committees selected about seventy after examining fitness and ability! Those seventy are people who will cooperate with us in the work of recovering our lost country! We have not simply trusted those seventy and handed the question of Dravida Nadu over to them—
+
+
+<!-- Tamil source: scan 34 / printed 32 -->
+
+—nor have we given them something beyond our own capacity and told them to win it for us!
+
+How does saying, "If you want our cooperation, give us yours," amount to cowardice? Those who point to the Communists to frighten the rich and conduct election commerce may condemn what we do. Those who condemn us should think: in what category of cowardice do we place seeking the Communists' favour to defeat the Congress, and seeking the support of Samiyappa and the Sharmas?
+
+We have boundless respect for our Communist friends! In the pain caused by their present actions, some harsh words may have come out. Many dream of using those words to sow enmity between the Communists and us! The Communist friends have said it; our General Secretary too has said words to this effect: at least after the election, let us find a way for relations to continue!
+
+<!-- Tamil source: scan 35 / printed 33 -->
+
+The Communists have never praised our sacrifices as much as we have praised theirs! We have praised martyrs no matter which camp they belonged to. Bhagat Singh, who kissed the gallows in the national movement; Chidambaram, who pulled the oil press; Thillaiyadi Valli; Tiruppur Kumaran—they have been praised more by Periyar Ramasamy than by us.
+
+But Periyar never failed to attack, with words that spat fire, the Congress camp in which those martyrs had lived. He praised the martyrs! He spoke against evil policies! He did not speak sugary words merely because martyrs were there! He hurled words of fire!
+
+Just as Periyar praises the Communists for working to defeat the Congress, Anna praised the Congressmen for driving out the white man! Periyar, while praising the Communists for defeating the Congress, forgot the fundamental question—Dravida Nadu!
+
+<!-- Tamil source: scan 36 / printed 34 -->
+
+Anna, while praising the Congressmen who drove out the white man, did not forget the question of Dravida Nadu! Our opponents, those troubled by our strength, and our Communist friends who have been dazzled by the wordplay of those whose stomachs burn at our growth, must understand this.
+
+We ask the public not to be distracted by such deceptive theatrical talk, but to keep the defeat of the Congress in view and, at the same time, support in the election those candidates who have pledged support for the question of Dravida Nadu.
+
+Long live true common ownership!
+Long live true integrity!
+Long live sacred public service!
+Down with empty trickery!
