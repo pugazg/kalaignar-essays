@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after Publication 14 `பெருமூச்சு` P5 closure. Publication 14 is **TAMIL COMPLETE / FROZEN — P0–P5 PASS; 83/83 STRICT-REVIEWED; 13/13 article assemblies frozen; English E0 NEXT**. Publication 15 `விடுதலைக் கிளர்ச்சி` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**. Publications 1–13 remain **RELEASE COMPLETE / FROZEN**.
+Handoff refreshed after Publication 14 `பெருமூச்சு` English Articles 1–5 T0–T5. Publication 14 is **TAMIL COMPLETE / FROZEN — P0–P5 PASS; English E0 PASS; T5 5/13 VERIFIED; Article 6 T0 NEXT**. Publication 15 `விடுதலைக் கிளர்ச்சி` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**. Publications 1–13 remain **RELEASE COMPLETE / FROZEN**.
 
 ## Repository state
 
@@ -16,7 +16,7 @@ Publication 12 **`ஆறுமாதக் கடுங்காவல்` — R
 
 Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 4/4 VERIFIED; E6 PASS; E7 PASS**. Final English authorities remain: **Throbbing Youth** `46c70fd2bf702a061d35b45383c8c8e0841852d9`; **Arohara to Annamalai!** `1cfce7827fec69de08c98dd78edf4a06a7216a41`; **Poompuhar** `67649c4db83881840137073bafa24d31062fb86c`; **Lamp of Victory!** `083d514b93d58484f49e3193235b9631d995cd8e`.
 
-Publication 14 **`பெருமூச்சு` — TAMIL COMPLETE / FROZEN — P0–P5 PASS; 83/83 STRICT-REVIEWED; 13/13 article units frozen; English E0 NEXT**.
+Publication 14 **`பெருமூச்சு` — TAMIL COMPLETE / FROZEN — P0–P5 PASS; English E0 PASS; T0–T5 5/13 VERIFIED; Article 6 `சிறுவர்கள்` T0 NEXT**.
 
 Publication 15 **`விடுதலைக் கிளர்ச்சி` — QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED; introductory verse + 1 main prose work**.
 
@@ -2452,80 +2452,71 @@ Workspace: `publications/perumoochu/`
 - printed author (cover) — **`மு.கருணாநிதி`**
 - publisher — **`இளங்கோ பதிப்பகம், மாயூரம்`**
 - edition — **`இரண்டாம் பதிப்பு—'53`**
-- historical Tamil glyph workflow — **MANDATORY**
 - source PDF committed — **No**
 
-## Tamil gate state
+## Tamil archival state
 
-- P0 — **COMPLETE / PASS**
-- P1 — **COMPLETE / PASS — 83/83**
-- P2 — **COMPLETE / PASS — 83/83 VERIFIED**
-- P3 — **COMPLETE / PASS — 13/13 / 74/74 body records**
-- P4 — **COMPLETE / PASS**
-- P5 — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
-- Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**
+- P0–P5 — **COMPLETE / PASS**
+- physical scans — **83/83 STRICT-REVIEWED**
+- canonical page records — **83/83 VERIFIED**
+- article assemblies — **13/13 STRICT-REVIEWED / FROZEN**
+- article body records — **74/74**
 - unresolved fidelity discrepancies — **0**
 - unresolved historical-glyph ambiguities — **0**
-- English — **UNBLOCKED — E0 planning/setup NEXT**
+- Tamil archival layer — **COMPLETE / FROZEN**
 
-Verified final article inventory:
-
-1. scans 7–10 — `பெருமூச்சு`
-2. scans 11–16 — `மாளிகை அமைத்திட வாரீர்!`
-3. scans 17–20 — `மந்திரிகள் குலை நடுக்கம்`
-4. scans 21–23 — `வாபஸ் வீரர்கள்!`
-5. scans 24–36 — `பொது மக்களுக்குத் தனி எச்சரிக்கை`
-6. scans 37–40 — `சிறுவர்கள்`
-7. scans 41–48 — `“அஹிம்சா விலாசம்”`
-8. scans 49–52 — `திண்டிவனம் தீரர்காள்!`
-9. scans 53–56 — `சேவல் கூவுகிறது!`
-10. scans 57–62 — `மாடோட்டிகள்!`
-11. scans 63–70 — `தேர்தல் கோவலன்!`
-12. scans 71–76 — `சிந்தித்துணர்க! சீற்றமுறாதீர்!`
-13. scans 77–80 — `பூம்! பூம்! பூம்!`
-
-Other structure:
-
-- scans 1–4 — front matter / physical-copy evidence;
-- scans 5–6 — publisher preface `மூச்சினிடையே!`;
-- scans 81–83 — advertisements / publisher catalogue;
-- separate printed contents page — **none**.
-
-## Durable source controls
+Durable source controls:
 
 - historical **`லை`** in **`மந்திரிகள் குலை நடுக்கம்`** is authoritative;
 - scans **24–52** physical-boundary repair authority — **`ebe8b2146eef22ac203f8014367cb78dea2d4b76`**;
 - scan 75→76 continuation — **`ஆதரிக்க / வும்—பெரியாருடன்`**;
-- scan 83 user-confirmed non-regression heading — **`ஊடுருவி தீட்டியவை:-`**;
-- do not regress scan 83 to the rejected `உருகி தீட்டியவை:-`.
+- scan 83 user-confirmed heading — **`ஊடுருவி தீட்டியவை:-`**;
+- rejected `உருகி தீட்டியவை:-` is correction-history only.
 
-## P5 closure
+Tamil authorities:
 
-**COMPLETE / PASS — 83/83**
-
-- direct source-pixel strict review — **83/83**
-- canonical page records — **83/83 VERIFIED**
-- final article assemblies — **13/13 STRICT-REVIEWED / FROZEN**
-- article body records — **74/74**
-- exact reconstruction — **13/13 PASS**
-- needs-review / blocked / guessed — **0 / 0 / 0**
-- physical-copy contamination — **0**
-- complete correction ledger / final frozen article blobs — `publications/perumoochu/VISUAL_TEXT_FIDELITY_REVIEW.md`
-
-Authority:
-
-- `publications/perumoochu/P2_TRANSCRIPTION_PROGRESS.md`
-- `publications/perumoochu/P3_PROGRESS.md`
-- `publications/perumoochu/P4_SOURCE_AUDIT.md`
 - `publications/perumoochu/VISUAL_TEXT_FIDELITY_REVIEW.md`
 - `publications/perumoochu/indexes/page-map.md`
 - `publications/perumoochu/audit.md`
 
+## English state
+
+- E0 planning/setup — **COMPLETE / PASS**
+- T0 — **5/13 PASS**
+- T1 — **5/13 COMPLETE**
+- T2 — **5/13 PASS**
+- T3 — **5/13 PASS**
+- T4 — **5/13 PASS**
+- T5 — **5/13 VERIFIED**
+- English article files — **5/13**
+- ordered source comments in verified articles — **30/30 PASS**
+- omitted Tamil clauses after bilingual review — **0**
+- added substantive English claims after bilingual review — **0**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes during English work — **0**
+- blockers — **0**
+
+Verified English authorities:
+
+1. **A Deep Sigh** — `publications/perumoochu/translations/en/01-perumoochu.md` — `8a441b0c4d33aacd2e61795800de2f95c4804e81`
+2. **Come, Let Us Build the Mansion!** — `publications/perumoochu/translations/en/02-maaligai-amaiththida-vareer.md` — `ef0be10af34519b868634de64fc67bfde53bc5fb`
+3. **Ministers Tremble in Fear** — `publications/perumoochu/translations/en/03-manthirigal-kulai-nadukkam.md` — `3d0e2718db290159e717db23890611f461af1149`
+4. **Heroes of Retreat!** — `publications/perumoochu/translations/en/04-vaapas-veerargal.md` — `47510c75833b1abd6990871ebc45c9e9eb8ba1db`
+5. **A Special Warning to the Public** — `publications/perumoochu/translations/en/05-podhu-makkalukku-thani-echarikkai.md` — `637fd7fb72126b4b677846839191459616971d60`
+
+English controls:
+
+- `publications/perumoochu/TRANSLATION_PLAN.md`
+- `publications/perumoochu/translations/en/README.md`
+- `publications/perumoochu/translations/en/SOURCE_MAP.md`
+- `publications/perumoochu/translations/en/LEXICON.md`
+- `publications/perumoochu/translations/en/TRANSLATION_REVIEW.md`
+
 ## Exact next activity
 
-**Publication 14 `பெருமூச்சு` — E0 English translation planning/setup only.**
+**Publication 14 `பெருமூச்சு` — Article 6 `சிறுவர்கள்` T0 source prerequisite.**
 
-Use only the 13 frozen strict-reviewed Tamil article assemblies recorded in `VISUAL_TEXT_FIDELITY_REVIEW.md` as the normal translation authority. Do not translate from the raw user transcript, OCR, web text, alternate editions, superseded P3 blobs, or pre-P5 page readings.
+Require live `main` Tamil blob **`14501305ff4935d672444459dfe404d51ac97282`** before creating the Article 6 English body file.
 
 Publication 15 remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** unless explicitly redirected.
 
@@ -2563,6 +2554,8 @@ P1 blockers — **0**.
 
 ## Exact next activity
 
-**Publication 14 `பெருமூச்சு` — E0 English translation planning/setup only.**
+**Publication 14 `பெருமூச்சு` — Article 6 `சிறுவர்கள்` T0 source prerequisite.**
+
+Require live `main` Tamil blob **`14501305ff4935d672444459dfe404d51ac97282`** before creating the Article 6 English body file.
 
 Publication 15 remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** unless the user explicitly redirects work.
