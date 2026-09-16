@@ -14,11 +14,11 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 # அச்சு உரை
 
-கோயாங்காவின் செல்வம், திராவிடத்திலே சுரண்டப்பட்ட செல்வம் !
+கோயாங்காவின் செல்வம், திராவிடத்திலே சுரண்டப்பட்ட செல்வம்!
 
-இந்த - இரண்டு செல்வங்களும் மோதுகின்றன !
+இந்த—இரண்டு செல்வங்களும் மோதுகின்றன!
 
-விபீஷணர்கள் சுக்ரீவர்கள் கோயாங்கா பக்கத்திலே ! காங்கிரஸ் படையிலே!
+விபீஷணர்கள் சுக்ரீவர்கள் கோயாங்கா பக்கத்திலே! காங்கிரஸ் படையிலே!
 
 வீரர்கள், சுயமரியாதை உணர்வு பெற்றவர்கள் அத்தனை பேரும் நம் பக்கத்திலே!
 
@@ -26,9 +26,9 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 தென்னாற்காடே! திராவிடத்தின் தூண்டா மணி விளக்கே! தேன் கீதமே! தித்திக்கும் திராவிடக் கனியே! உன் திறமையைக் காட்ட நேரம் வந்து விட்டது தயாராகிக் கொள்! சிங்க நெஞ்சு கொண்ட தென்னாற்காட்டுச் செயல் வீரர்காள்!
 
-உங்கள் சிரிப்பிலே அழியட்டும் சீர்கெட்ட காங்கிரஸ்! பணம் விளையாடும் ! காங்கிரசின் பட்டாளம் வேலை செய்யும்! அஞ்சேல், அயரேல்
+உங்கள் சிரிப்பிலே அழியட்டும் சீர்கெட்ட காங்கிரஸ்! பணம் விளையாடும்! காங்கிரசின் பட்டாளம் வேலை செய்யும்! அஞ்சேல், அயரேல்
 
-திராவிட நாட்டுக் குரல் சட்டசபையிலே, பார்லிமெண்டிலே ஒலிக்கப் போகிறது! அதற்கு வலிமை தேடித்தா! தோளுயர்த்திவா தொண்டாற்ற!தி.மு.க.
+திராவிட நாட்டுக் குரல் சட்டசபையிலே, பார்லிமெண்டிலே ஒலிக்கப் போகிறது! அதற்கு வலிமை தேடித்தா! தோளுயர்த்திவா தொண்டாற்ற! தி. மு. க.
 
 ## அச்சு அமைப்பு
 
@@ -48,6 +48,15 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 - `perumoochu.md` is a generated baseline only; source pixels control the canonical record.
 - page boundary follows the source-visible printed folio.
 - guessed completion — **0**.
+
+## P5 strict visual fidelity findings
+
+- direct closure-reconciliation against source pixels completed for this scan.
+- source exclamation spacing restored in the first three display lines.
+- `இந்த - இரண்டு` → source-visible **`இந்த—இரண்டு`**.
+- `பணம் விளையாடும் !` → **`பணம் விளையாடும்!`**.
+- `தொண்டாற்ற!தி.மு.க.` → **`தொண்டாற்ற! தி. மு. க.`**.
+- unresolved P5 fidelity discrepancy — **0**.
 
 ## P2 நிலை
 
