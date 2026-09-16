@@ -152,9 +152,9 @@ All **29 records** in scans 24–52 were rebuilt against rendered source-pixel b
 
 - P3 — **COMPLETE / PASS — 13/13**
 - P4 — **COMPLETE / PASS**
-- P5 — **IN PROGRESS — 78/83 directly rechecked**
+- P5 — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
 - P5 authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
 
 ## Exact next activity
 
-**Continue P5 with scans 79–83, then run final propagation / reconstruction / closure checks.**
+**E0 — English translation planning/setup only.**
