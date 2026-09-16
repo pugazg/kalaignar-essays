@@ -14,7 +14,7 @@ Controlling source: `TVA_BOK_0064124_பெருமூச்சு.pdf`
 - P3 article assemblies — **COMPLETE / PASS — 13/13**
 - P4 source audit — **COMPLETE / PASS**
 - P5 strict visual-text-fidelity pass — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
-- English — **E0 COMPLETE / PASS; Articles 1–5 T0–T5 VERIFIED; Article 6 T0 NEXT**
+- English — **E0 COMPLETE / PASS; Articles 1–5 T0–T5 VERIFIED; Article 6 T0 PASS / T1 NEXT**
 - source PDF committed — **No**
 
 ## Printed / catalog identity
@@ -172,8 +172,6 @@ Verified English Articles 1–5:
 
 ## Exact next activity
 
-**Article 6 `சிறுவர்கள்` — T0 source prerequisite.**
-
-Require live `main` Tamil blob **`14501305ff4935d672444459dfe404d51ac97282`** before creating the English body file.
+**Article 6 `சிறுவர்கள்` — T1 close paragraph-by-paragraph English draft.**
 
 Publication 15 `விடுதலைக் கிளர்ச்சி` remains queued at **P0–P1 COMPLETE / P2 NOT STARTED**.
