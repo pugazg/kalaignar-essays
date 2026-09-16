@@ -69,7 +69,7 @@ Completed:
 - scans **5–6** — publisher preface `மூச்சினிடையே!` — **2/2 VERIFIED**
 - Article 1 `பெருமூச்சு` scans **7–10** — **4/4 VERIFIED**
 - Article 2 `மாளிகை அமைத்திட வாரீர்!` scans **11–16** — **6/6 VERIFIED**
-- Article 3 `மந்திரிகள் குல நடுக்கம்` scans **17–20** — **4/4 VERIFIED**
+- Article 3 `மந்திரிகள் குலை நடுக்கம்` scans **17–20** — **4/4 VERIFIED**
 - Article 4 `வாபஸ் வீரர்கள்!` scans **21–23** — **3/3 VERIFIED**
 - cumulative P2 — **23/83 VERIFIED**
 - needs-review / blocked / guessed — **0 / 0 / 0**
@@ -80,7 +80,7 @@ Source-fidelity corrections / refinements established in this pass include:
 - scan 5 baseline historical form `விடுகிறர்கள்` → source character identity **`விடுகிறார்கள்`**
 - scan 6 baseline `தறிப்பாக` → **`குறிப்பாக`**
 - scan 13 baseline `உறக்கக்` → **`உரக்கக்`**
-- scan 17 baseline heading `மந்திரிகள் குலை நடுக்கம்` → source **`மந்திரிகள் குல நடுக்கம்`**
+- scan 17 baseline heading `மந்திரிகள் குலை நடுக்கம்` → source **`மந்திரிகள் குலை நடுக்கம்`**
 - scan 21 P1 heading `வாய்ஸ் வீரர்கள்!` → source **`வாபஸ் வீரர்கள்!`**
 - scan 22 baseline `புண்ய பூமியிலே` → source **`புண்ணிய பூமியிலே`**
 
