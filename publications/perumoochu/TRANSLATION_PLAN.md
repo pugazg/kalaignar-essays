@@ -33,7 +33,7 @@ The 13 strict-reviewed Tamil assemblies below are the sole normal translation au
 | 3 | `மந்திரிகள் குலை நடுக்கம்` | 17–20 | `articles/03-manthirigal-kulai-nadukkam.md` | `d05169cb394df089ef4f4cbdeefd35c3a563451d` | **Ministers Tremble in Fear / T5 VERIFIED** |
 | 4 | `வாபஸ் வீரர்கள்!` | 21–23 | `articles/04-vaapas-veerargal.md` | `6ddca33c16fa7ee4f22d3f3f666df168b39c5b40` | **Heroes of Retreat! / T5 VERIFIED** |
 | 5 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | 24–36 | `articles/05-podhu-makkalukku-thani-echarikkai.md` | `64a63aa5061d5f546f71526889af20baf3dd88e8` | **A Special Warning to the Public / T5 VERIFIED** |
-| 6 | `சிறுவர்கள்` | 37–40 | `articles/06-siruvargal.md` | `14501305ff4935d672444459dfe404d51ac97282` | **T0 PASS / T1 NEXT** |
+| 6 | `சிறுவர்கள்` | 37–40 | `articles/06-siruvargal.md` | `14501305ff4935d672444459dfe404d51ac97282` | **Youngsters / T5 VERIFIED** |
 | 7 | `“அஹிம்சா விலாசம்”` | 41–48 | `articles/07-ahimsa-vilasam.md` | `12c50fe83ef047ca060669831c82d3e00defc04a` | TBD / NOT STARTED |
 | 8 | `திண்டிவனம் தீரர்காள்!` | 49–52 | `articles/08-thindivanam-theerargaal.md` | `bb99717ca388d53bbbffd163f165fc0824ee7f37` | TBD / NOT STARTED |
 | 9 | `சேவல் கூவுகிறது!` | 53–56 | `articles/09-seval-koovugirathu.md` | `9d1a0e39e45cc1cb94419c5b966f8da415233e37` | TBD / NOT STARTED |
@@ -119,27 +119,38 @@ After all 13/13 articles are T5 verified:
 - Tamil source changes during E0 — **0**;
 - blockers — **0**.
 
-## Articles 1–5 progress — T0–T5 COMPLETE / VERIFIED
+## Articles 1–6 progress — T0–T5 COMPLETE / VERIFIED
 
 - Article 1 — **A Deep Sigh** — verified English blob `8a441b0c4d33aacd2e61795800de2f95c4804e81`
 - Article 2 — **Come, Let Us Build the Mansion!** — verified English blob `ef0be10af34519b868634de64fc67bfde53bc5fb`
 - Article 3 — **Ministers Tremble in Fear** — verified English blob `3d0e2718db290159e717db23890611f461af1149`
 - Article 4 — **Heroes of Retreat!** — verified English blob `47510c75833b1abd6990871ebc45c9e9eb8ba1db`
 - Article 5 — **A Special Warning to the Public** — verified English blob `637fd7fb72126b4b677846839191459616971d60`
-- ordered source comments — **30/30 PASS**
+- Article 6 — **Youngsters** — verified English blob `b2694657339a42c84d932e67ee63684a588245d2`
+- ordered source comments — **34/34 PASS**
 - omitted Tamil clauses after bilingual review — **0**
 - added substantive English claims after bilingual review — **0**
 - Tamil source changes — **0**
 - blockers — **0**
 
-## Article 6 T0 checkpoint
+## Article 6 final checkpoint
 
-- required frozen Tamil blob — **`14501305ff4935d672444459dfe404d51ac97282`**
-- live `main` blob — **exact match / PASS**
-- English body file created during T0 — **No**
+- T0 — **PASS**
+- T1 — **COMPLETE**
+- T2 — **PASS**
+- T3 — **PASS**
+- T4 — **PASS**
+- T5 — **VERIFIED**
+- frozen Tamil blob — **`14501305ff4935d672444459dfe404d51ac97282`**
+- verified English title — **Youngsters**
+- verified English blob — **`b2694657339a42c84d932e67ee63684a588245d2`**
+- ordered source comments — **4/4 PASS**
+- untranslated Tamil body leakage — **0**
 - Tamil source changes — **0**
 - blockers — **0**
 
 ## Exact next activity
 
-**Article 6 `சிறுவர்கள்` — T1 close paragraph-by-paragraph English draft.**
+**Article 7 `“அஹிம்சா விலாசம்”` — T0 source prerequisite.**
+
+Require live `main` to match frozen Tamil blob **`12c50fe83ef047ca060669831c82d3e00defc04a`** before creating the Article 7 English body file.
