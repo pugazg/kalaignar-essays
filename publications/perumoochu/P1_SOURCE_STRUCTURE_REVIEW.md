@@ -36,7 +36,7 @@ Separate printed contents page — **not found**.
 1. scans 7–10 — `பெருமூச்சு`
 2. scans 11–16 — `மாளிகை அமைத்திட வாரீர்!`
 3. scans 17–20 — `மந்திரிகள் குல நடுக்கம்`
-4. scans 21–23 — `வாய்ஸ் வீரர்கள்!`
+4. scans 21–23 — `வாபஸ் வீரர்கள்!`
 5. scans 24–36 — `பொது மக்களுக்குத் தனி எச்சரிக்கை`
 6. scans 37–40 — `சிறுவர்கள்`
 7. scans 41–48 — `அஹிம்சா விலாசம்`
@@ -63,6 +63,12 @@ Donation labels, handwriting, stamps, ageing and show-through are visible. They 
 
 **0**
 
+## P2 structural refinement
+
+Direct P2 verification of scan 21 corrected the Article-4 heading from the earlier P1 reading **`வாய்ஸ் வீரர்கள்!`** to the source-visible **`வாபஸ் வீரர்கள்!`**. Scan range and article boundary remain unchanged.
+
 ## Next gate
 
-**P2 Batch 001 — scans 1–5.**
+P2 scans **1–23 are COMPLETE / PASS**.
+
+Next: **P2 scans 24–46**.
