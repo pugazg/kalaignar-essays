@@ -44,7 +44,7 @@ Date: **2026-09-16**
 - historical `லை` in `மந்திரிகள் குலை நடுக்கம்` — authoritative
 - scan 75→76 — **`ஆதரிக்க / வும்—பெரியாருடன்`**
 - scan 83 — **`ஊடுருவி தீட்டியவை:-`** user-confirmed; rejected `உருகி தீட்டியவை:-` is not authority
-- Tamil changes during Articles 1–5 English work — **0**
+- Tamil changes during Articles 1–6 English work — **0**
 
 # Article review ledger
 
@@ -299,40 +299,93 @@ Title — **A Special Warning to the Public** — VERIFIED.
 - unresolved translation choices — **0**
 - blockers — **0**
 
-# Article 6 — `சிறுவர்கள்` — T0 PASS
+# Article 6 — `சிறுவர்கள்` — T0–T5 VERIFIED
 
-- frozen Tamil blob required — `14501305ff4935d672444459dfe404d51ac97282`
-- live `main` Tamil blob observed — `14501305ff4935d672444459dfe404d51ac97282`
-- exact blob match — **PASS**
+- frozen Tamil blob — `14501305ff4935d672444459dfe404d51ac97282`
 - source scans — **37–40**
-- English body file created during T0 — **No**
+- T0 — **PASS**
+- T1 — **COMPLETE**
+- T1 English blob — `a9f3c1151c1310e00e967821e569b73667a865e3`
+- working / verified title — **Youngsters**
+- ordered source comments — **4/4 PASS**
+
+### T2 bilingual fidelity review — PASS
+
+T2 English blob — `ff77ce8733f74163a06f34fa2e464040aa6604ec`
+
+Body correction groups — **5**:
+
+1. source-method sentence — changed generic **from sight, approximation** to **from looking at them, from estimates**, preserving the sequence of how the ages were derived;
+2. `திருமண அப்ளிகேஷன் / விவாக விண்ணப்பம்` — retained the source's lexical variation as **marriage application / matrimonial application** instead of reversing the pair;
+3. `கிழவர் வாலிபர்` — **old men and young men** → **old men and youths**, preserving the source contrast;
+4. `சாமியார்` — over-specific **ascetic** → source-bearing ***swami***;
+5. `இளம் இதயம் இலட்சிய இதயம்! காதல் இதயமல்ல!` — **idealistic / romantic heart** → **a heart of ideals / a heart of love**, restoring the source's repeated `இதயம்` structure.
+
+Post-T2:
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- names / ages / quotation scope — **PASS**
 - Tamil source changes — **0**
+
+### T3 Kalaignar voice review — PASS
+
+T3 English blob — `e349040947ddc6d90011bf062512372056d07172`
+
+- body corrections — **0**
+- age-list comic rhythm — **PASS**
+- direct reader question — **PASS**
+- marriage / age joke — **PASS**
+- repeated young-heart contrast — **PASS**
+- mock address to Lingam Anna — **PASS**
+- accidental academic distancing — **0**
+
+### T4 terminology / quotation / citation audit — PASS
+
+T4 body authority — `e349040947ddc6d90011bf062512372056d07172`
+
+Body corrections — **0**.
+
+Lexicon / title decisions:
+
+- `சிறுவர்கள்` → **Youngsters** — VERIFIED title and repeated article term;
+- `அண்ணா` → **Anna** — source-bearing address/title retained without outside identification;
+- `சாமியார்` → ***swami*** — contextual source-bearing term;
+- `இளம் இதயம்` → **young heart** — repeated metaphor retained.
+
+Source-page comments — **4/4 PASS**.
+
+### T5 article verification — PASS / VERIFIED
+
+- verified English blob — **`b2694657339a42c84d932e67ee63684a588245d2`**
+- `translation_status: verified`
+- source comments — **4/4**
+- untranslated Tamil body leakage — **0**
+- unresolved translation choices — **0**
 - blockers — **0**
 
-Next gate for Article 6 — **T1 close paragraph-by-paragraph English draft**.
+# Articles 1–6 aggregate checkpoint
 
-# Articles 1–5 aggregate checkpoint
-
-- T0 — **5/5 PASS**
-- T1 — **5/5 COMPLETE**
-- T2 — **5/5 PASS**
-- T3 — **5/5 PASS**
-- T4 — **5/5 PASS**
-- T5 — **5/5 VERIFIED**
-- ordered source comments — **30/30 PASS**
+- T0 — **6/6 PASS**
+- T1 — **6/6 COMPLETE**
+- T2 — **6/6 PASS**
+- T3 — **6/6 PASS**
+- T4 — **6/6 PASS**
+- T5 — **6/6 VERIFIED**
+- ordered source comments — **34/34 PASS**
 - omitted Tamil clauses after review — **0**
 - added substantive English claims after review — **0**
 - untranslated Tamil body leakage — **0**
 - Tamil source changes — **0**
 - blockers — **0**
 
-## Articles 6–13
+## Articles 7–13
 
-- Article 6 — **T0 PASS / T1 NEXT**
-- Articles 7–13 — **NOT STARTED** at T0–T5
+Articles **7–13** remain **NOT STARTED** at T0–T5.
 
 Frozen Tamil pins remain those recorded in `SOURCE_MAP.md`.
 
 ## Exact next activity
 
-**Article 6 `சிறுவர்கள்` — T1 close paragraph-by-paragraph English draft.**
+**Article 7 `“அஹிம்சா விலாசம்”` — T0 source prerequisite.**
+
+Require exact live-main Tamil blob **`12c50fe83ef047ca060669831c82d3e00defc04a`** before creating the Article 7 English body file.
