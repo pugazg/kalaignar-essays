@@ -10,7 +10,7 @@ Controlling source: `TVA_BOK_0064124_பெருமூச்சு.pdf`
 - Publication 14
 - P0 source intake — **COMPLETE / PASS**
 - P1 source structure / article inventory — **COMPLETE / PASS — 83/83 structurally inspected**
-- P2 page-level transcription — **IN PROGRESS — 23/83 VERIFIED / PASS**
+- P2 page-level transcription — **IN PROGRESS — 52/83 VERIFIED / PASS**
 - P3 article assemblies — **NOT STARTED**
 - P4 source audit — **NOT STARTED**
 - P5 strict visual-text-fidelity pass — **NOT STARTED**
@@ -59,37 +59,36 @@ This edition uses older Tamil metal-type forms. Before P2, read and apply reposi
 
 No OCR, web copy, alternate edition or contextual completion may control the Tamil text.
 
-## P2 progress — scans 1–23
+## P2 progress — scans 1–52
 
-User supplied `perumoochu.md` as a generated transcription baseline. It is used only for alignment/comparison; rendered source pixels remain controlling authority.
+The user-supplied `perumoochu.md` remains a generated transcription baseline only. Rendered source pixels are authoritative.
 
 Completed:
 
-- scans **1–4** — front matter / physical-copy evidence — **4/4 VERIFIED**
-- scans **5–6** — publisher preface `மூச்சினிடையே!` — **2/2 VERIFIED**
-- Article 1 `பெருமூச்சு` scans **7–10** — **4/4 VERIFIED**
-- Article 2 `மாளிகை அமைத்திட வாரீர்!` scans **11–16** — **6/6 VERIFIED**
-- Article 3 `மந்திரிகள் குலை நடுக்கம்` scans **17–20** — **4/4 VERIFIED**
-- Article 4 `வாபஸ் வீரர்கள்!` scans **21–23** — **3/3 VERIFIED**
-- cumulative P2 — **23/83 VERIFIED**
+- scans **1–4** — front matter / physical-copy evidence
+- scans **5–6** — `மூச்சினிடையே!`
+- scans **7–10** — `பெருமூச்சு`
+- scans **11–16** — `மாளிகை அமைத்திட வாரீர்!`
+- scans **17–20** — `மந்திரிகள் குலை நடுக்கம்`
+- scans **21–23** — `வாபஸ் வீரர்கள்!`
+- scans **24–36** — `பொது மக்களுக்குத் தனி எச்சரிக்கை`
+- scans **37–40** — `சிறுவர்கள்`
+- scans **41–48** — `“அஹிம்சா விலாசம்”`
+- scans **49–52** — `திண்டிவனம் தீரர்காள்!`
+- cumulative P2 — **52/83 VERIFIED**
 - needs-review / blocked / guessed — **0 / 0 / 0**
 - unresolved historical-glyph readings — **0**
 
-Source-fidelity corrections / refinements established in this pass include:
+Durable title / glyph refinements include:
 
-- scan 5 baseline historical form `விடுகிறர்கள்` → source character identity **`விடுகிறார்கள்`**
-- scan 6 baseline `தறிப்பாக` → **`குறிப்பாக`**
-- scan 13 baseline `உறக்கக்` → **`உரக்கக்`**
-- scan 17 baseline heading `மந்திரிகள் குலை நடுக்கம்` → source **`மந்திரிகள் குலை நடுக்கம்`**
-- scan 21 P1 heading `வாய்ஸ் வீரர்கள்!` → source **`வாபஸ் வீரர்கள்!`**
-- scan 22 baseline `புண்ய பூமியிலே` → source **`புண்ணிய பூமியிலே`**
-
-Physical-copy labels / handwriting remain separated from printed publication text.
+- scan 17 — **`மந்திரிகள் குலை நடுக்கம்`**; historical **`லை`** is authoritative;
+- scan 21 — **`வாபஸ் வீரர்கள்!`**;
+- scan 49 — earlier P1 `திண்டிவனம் தீரர்கள்!` → source **`திண்டிவனம் தீரர்காள்!`**.
 
 ## Exact next activity
 
-**P2 scans 24–46**.
+**P2 scans 53–75**.
 
-Continue using `perumoochu.md` only as a non-authoritative baseline and verify every word / punctuation mark / historical glyph against the source pixels.
+Continue one canonical page record per physical scan, with `perumoochu.md` used only as baseline and rendered source pixels controlling every canonical reading.
 
 Publication 15 remains queued at P0–P1 COMPLETE / P2 NOT STARTED unless the user explicitly directs parallel processing.
