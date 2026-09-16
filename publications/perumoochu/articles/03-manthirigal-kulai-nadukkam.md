@@ -3,10 +3,10 @@ publication: "perumoochu"
 article_number: 3
 title_ta: "மந்திரிகள் குலை நடுக்கம்"
 scan_pages: "17-20"
-status: "verified"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0064124_பெருமூச்சு.pdf"
-assembly_method: "concatenated without normalization from P2-verified canonical page records"
+assembly_method: "concatenated without normalization from canonical page records; P5 source-pixel fidelity rechecked"
 ---
 
 # மந்திரிகள் குலை நடுக்கம்
@@ -55,3 +55,11 @@ assembly_method: "concatenated without normalization from P2-verified canonical 
 - modernization / paraphrase — **0**
 - unresolved assembly issues — **0**
 - result — **P3 COMPLETE / PASS**
+
+
+## P5 strict visual review
+
+- every contributing physical source scan was directly rechecked in P5.
+- current article body was reconstructed from current canonical page records and compared exactly — **PASS**.
+- unresolved P5 fidelity discrepancies — **0**.
+- status — **STRICT-REVIEWED / FROZEN**.
