@@ -36,7 +36,7 @@ The principal prose run visibly follows the source page sequence: scan 9 carries
 
 ## P2 current coverage
 
-**Batches 001–005 COMPLETE / PASS — scans 1–50**
+**Batches 001–006 COMPLETE / PASS — scans 1–60**
 
 | Scan | Canonical record | Status | Source-visible folio |
 |---:|---|---|:---:|
@@ -90,8 +90,18 @@ The principal prose run visibly follows the source page sequence: scan 9 carries
 | 48 | `pages/0048-viduthalai-kilarcci-41.md` | verified | 47 |
 | 49 | `pages/0049-viduthalai-kilarcci-42.md` | verified | 48 |
 | 50 | `pages/0050-viduthalai-kilarcci-43.md` | verified | 49 |
+| 51 | `pages/0051-viduthalai-kilarcci-44.md` | verified | 50 |
+| 52 | `pages/0052-viduthalai-kilarcci-45.md` | verified | 51 |
+| 53 | `pages/0053-viduthalai-kilarcci-46.md` | verified | 52 |
+| 54 | `pages/0054-viduthalai-kilarcci-47.md` | verified | 53 |
+| 55 | `pages/0055-viduthalai-kilarcci-48.md` | verified | 54 |
+| 56 | `pages/0056-viduthalai-kilarcci-49.md` | verified | 55 |
+| 57 | `pages/0057-viduthalai-kilarcci-50.md` | verified | 56 |
+| 58 | `pages/0058-viduthalai-kilarcci-51.md` | verified | 57 |
+| 59 | `pages/0059-viduthalai-kilarcci-52.md` | verified | 58 |
+| 60 | `pages/0060-viduthalai-kilarcci-53.md` | verified | 59 |
 
-P2 progress — **50/69 verified; 0 needs-review; 0 blocked**.
+P2 progress — **60/69 verified; 0 needs-review; 0 blocked**.
 
 Source-supported correction at scan 4: introductory unit is **`வேங்கையை விரட்டும் படலம்`**, not the earlier provisional `வேங்கையை விரட்டும் பாடல்`.
 
@@ -107,3 +117,5 @@ Batch-003 source controls: source spelling **`கோமிண்டாங்`** 
 Batch-004 source controls: **`நிகரா குவா`**, **`பனமா`**, **`ஐஸ்லந்து`**, **`அவதூறுக்கு`**, **`பாரதமாதா!`**; scan 40 continues into scan 41.
 
 Batch-005 source controls: **`சோப்பும் சீப்பும்`**, **`மாசேதுங்கினுடைய`**, source typo-like **`இரண்டாமிரம்`**, and **`அடைப்படை`** retained; no unresolved readings.
+
+Batch-006 source controls: **`இணைக்க`**, **`ஏழைகளின்மீது`**, **`கில்லெட்டினுக்கு`**, **`பீரங்கியையும்`**, **`தீ மூட்டும்`**, **`மகேஸ்வரனின் அருளால்`**; scan 60 ends **`நாடக`** for scan 61.

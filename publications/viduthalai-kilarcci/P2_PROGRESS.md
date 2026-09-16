@@ -2,7 +2,7 @@
 
 ## Status
 
-**IN PROGRESS — 50/69 physical scans VERIFIED**
+**IN PROGRESS — 60/69 physical scans VERIFIED**
 
 Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf`  
 Baseline aid: user-supplied `viduthalai_kilarchi.md` — **NON-AUTHORITATIVE**  
@@ -198,24 +198,59 @@ Cross-page controls:
 - 47→48 — **`புகழப்பட்டாலுங் / கூட,`**;
 - 48→49 — **`போதை / களிலிருந்து`**.
 
+## Batch 006 — scans 51–60
+
+**COMPLETE / PASS — 10/10 VERIFIED**
+
+| Scan | Record | Role | Status |
+|---:|---|---|---|
+| 51 | `pages/0051-viduthalai-kilarcci-44.md` | main work / printed 50 | verified |
+| 52 | `pages/0052-viduthalai-kilarcci-45.md` | main work / printed 51 | verified |
+| 53 | `pages/0053-viduthalai-kilarcci-46.md` | main work / printed 52 | verified |
+| 54 | `pages/0054-viduthalai-kilarcci-47.md` | main work / printed 53 | verified |
+| 55 | `pages/0055-viduthalai-kilarcci-48.md` | main work / printed 54 | verified |
+| 56 | `pages/0056-viduthalai-kilarcci-49.md` | main work / printed 55 | verified |
+| 57 | `pages/0057-viduthalai-kilarcci-50.md` | main work / printed 56 | verified |
+| 58 | `pages/0058-viduthalai-kilarcci-51.md` | main work / printed 57 | verified |
+| 59 | `pages/0059-viduthalai-kilarcci-52.md` | main work / printed 58 | verified |
+| 60 | `pages/0060-viduthalai-kilarcci-53.md` | main work / printed 59 | verified |
+
+### Durable Batch-006 corrections / decisions
+
+- scan 51 — baseline **`இனைக்க`** → source **`இணைக்க`**; source **`மெளடீகத்`** retained;
+- scan 52 — source quote order **`தந்தை மாண்டார் — கணவன் இறந்தான் — தமையன் செத்தான்`**;
+- scan 53 — baseline **`ஏழைகளிள்மீது`** → source **`ஏழைகளின்மீது`**; source **`கில்லெட்டினுக்கு`**;
+- scan 54 — baseline **`பீரங்கியைபும்`** → source **`பீரங்கியையும்`**;
+- scan 55 — baseline **`அமுத்தப்படும் / அமுத்தும்`** → source **`அழுத்தப்படும் / அழுத்தும்`**;
+- scan 56 — baseline **`இரு கறைகளிலும்`** → source **`இரு கரைகளிலும்`**;
+- scan 58 — baseline **`அல்வவே`** → source **`அல்லவே`**;
+- scan 59 — baseline **`தீ முட்டும்`** → source **`தீ மூட்டும்`**;
+- scan 60 — source **`மகேஸ்வரனின் அருளால்`** and sequence **`அரன், அயன், அரி`** confirmed.
+
+Cross-page controls:
+
+- 53→54 — **`அழைத்துச் செல்லப் / படுவான்`**;
+- 57→58 — **`ஆண் / டவன்`**;
+- scan 60 ends **`நாடக`**; continuation pending scan 61.
+
 ## Historical-glyph state
 
-- mandatory family check applied — **scans 1–50**
+- mandatory family check applied — **scans 1–60**
 - unresolved historical-glyph ambiguities — **0**
 - global replacements used — **0**
 - guessed readings — **0**
 
 ## Totals
 
-- canonical records — **50/69**
-- verified — **50**
+- canonical records — **60/69**
+- verified — **60**
 - needs-review — **0**
 - blocked — **0**
 - guessed — **0**
-- remaining — **19**
+- remaining — **9**
 
 ## Exact next activity
 
-**P2 Batch 006 — scans 51–60.**
+**P2 Batch 007 — scans 61–69.**
 
 Use the supplied baseline only as a comparison aid; source pixels remain controlling.

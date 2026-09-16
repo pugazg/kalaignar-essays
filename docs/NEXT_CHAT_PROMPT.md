@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P2 Batch 006 scans 51–60
+# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P2 Batch 007 scans 61–69
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,29 +18,29 @@ Baseline: user-supplied `viduthalai_kilarchi.md` — **NON-AUTHORITATIVE**.
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 69/69**
-- P2 — **IN PROGRESS — 50/69 VERIFIED**
-- Batches 001–005 — scans 1–50 — **PASS**
+- P2 — **IN PROGRESS — 60/69 VERIFIED**
+- Batches 001–006 — scans 1–60 — **PASS**
 - needs-review / blocked / guessed — **0 / 0 / 0**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil archival freeze**
 
 ## Durable source readings — do not regress
 
-Earlier controls include:
-- `இந்தோ சீனாவில்!`
-- `கோமிண்டாங்`
-- `நிகரா குவா`
-- `ஐஸ்லந்து`
-- `பாரதமாதா!`
+Batch 006:
+- `இணைக்க`
+- `தந்தை மாண்டார் — கணவன் இறந்தான் — தமையன் செத்தான்`
+- `ஏழைகளின்மீது`
+- `கில்லெட்டினுக்கு`
+- `பீரங்கியையும்`
+- `அழுத்தப்படும் / அழுத்தும்`
+- `இரு கரைகளிலும்`
+- `அல்லவே`
+- `தீ மூட்டும்`
+- `மகேஸ்வரனின் அருளால்`
+- `அரன், அயன், அரி`
 
-Batch 005:
-- `சாயங்கள்`
-- `எதிர்ப்பு இயக்கம்`
-- `சோப்பும் சீப்பும்`
-- `ஆயிரக்கணக்கான`
-- `மாசேதுங்கினுடைய`
-- source typo-like `இரண்டாமிரம்`
-- source unusual `அடைப்படை`
+Cross-page entry:
+- scan 60 ends **`நாடக`**; resolve continuation only from scan 61 pixels.
 
 ## Mandatory workflow
 
@@ -53,6 +53,6 @@ Source pixels control. Do not use OCR, web text, alternate editions or contextua
 
 ## Exact next activity
 
-**P2 Batch 006 — scans 51–60.**
+**P2 Batch 007 — scans 61–69.**
 
-Create/verify canonical page records and update all progress/control files.
+Complete the remaining physical scans, including scan 69 publisher advertisement/catalogue matter. Update all progress/control files. If all nine verify with no holds, P2 becomes COMPLETE / PASS — 69/69 and the next gate is P3 article assembly.

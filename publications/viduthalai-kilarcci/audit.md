@@ -32,7 +32,7 @@ The source consists of preliminary verse/prologue material followed by one conti
 
 - historical Tamil typeforms — **present**
 - historical-glyph guide — **mandatory**
-- P2 — **IN PROGRESS — 50/69 VERIFIED**
+- P2 — **IN PROGRESS — 60/69 VERIFIED**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil P5 / frozen**
 
@@ -110,8 +110,22 @@ The source consists of preliminary verse/prologue material followed by one conti
 - physical continuations preserved at 43→44 **`போக் / கிலே`**, 44→45 **`பிரிட்டிஷ் / கொடியை`**, 47→48 **`புகழப்பட்டாலுங் / கூட,`**, and 48→49 **`போதை / களிலிருந்து`**
 - P2 progress authority — `P2_PROGRESS.md`
 
+## P2 Batch 006 audit
+
+**COMPLETE / PASS — scans 51–60**
+
+- page records created — **10**
+- verified — **10**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph workflow — **applied**
+- notable source decisions — **`இணைக்க`**, **`தந்தை மாண்டார் — கணவன் இறந்தான் — தமையன் செத்தான்`**, **`ஏழைகளின்மீது`**, **`கில்லெட்டினுக்கு`**, **`பீரங்கியையும்`**, **`அழுத்தப்படும் / அழுத்தும்`**, **`இரு கரைகளிலும்`**, **`அல்லவே`**, **`தீ மூட்டும்`**, **`மகேஸ்வரனின் அருளால்`**
+- physical continuations preserved at 53→54 **`அழைத்துச் செல்லப் / படுவான்`**, 57→58 **`ஆண் / டவன்`**; scan 60 ends **`நாடக`** pending scan 61
+- P2 progress authority — `P2_PROGRESS.md`
+
 ## Next
 
-Publication 15 is **ACTIVE — P0–P1 COMPLETE / P2 IN PROGRESS — 50/69 VERIFIED**.
+Publication 15 is **ACTIVE — P0–P1 COMPLETE / P2 IN PROGRESS — 60/69 VERIFIED**.
 
-Next gate: **P2 Batch 006 — scans 51–60**.
+Next gate: **P2 Batch 007 — scans 61–69**.
