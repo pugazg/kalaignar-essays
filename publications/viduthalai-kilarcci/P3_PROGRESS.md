@@ -86,6 +86,13 @@ Non-word page continuations such as `பிரஞ்சுக் / காலன�
 - contributing main scans strict-reviewed so far — **8–30 / 23 scans**
 - unresolved assembly discrepancies — **0**
 
+## P5 Batch 004 propagation
+
+- source corrections from scans 31, 32 and 39 are propagated into the main reading assembly.
+- current partial-P5 main assembly blob — **`ab1fc1d83b60b79088faa679904c1eb71057a64c`**
+- contributing main scans strict-reviewed so far — **8–40 / 33 scans**
+- unresolved assembly discrepancies — **0**
+
 ## Exact next activity
 
-**P5 strict visual review — scans 31–40.**
+**P5 strict visual review — scans 41–50.**

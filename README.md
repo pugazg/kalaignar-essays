@@ -39,7 +39,7 @@ Workspace: `publications/viduthalai-kilarcci/`
 - P2 — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 — **COMPLETE / PASS**
-- P5 — **IN PROGRESS — 30/69 STRICT-REVIEWED**
+- P5 — **IN PROGRESS — 40/69 STRICT-REVIEWED**
 - English — **BLOCKED until Tamil archival freeze**
 - historical Tamil glyph workflow — **MANDATORY**
 

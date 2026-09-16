@@ -14,7 +14,7 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 
 # அச்சு உரை
 
-வெற்றிபெற்ற நாடுகளை வழிகாட்டியாகக் கொண்டு, விடுதலைக் கிளர்ச்சியிலே வீழ்ந்துவிட்ட நாடானாலும் அதன் வீரத்தை நினைவூட்டி இங்கே விடுதலைக் கிளர்ச்சி நடந்துகொண்டுதானிருக்கிறது.
+வெற்றிபெற்ற நாடுகளின் வழிகாட்டியாகக் கொண்டு, விடுதலைக் கிளர்ச்சியிலே வீழ்ந்துவிட்ட நாடானாலும் அதன் வீரத்தை நினைவூட்டி இங்கே விடுதலைக் கிளர்ச்சி நடந்துகொண்டுதானிருக்கிறது.
 
 இன்று இந்தோசீனா! நாளை இந்தோனேஷியாவாக மாறலாம்!
 
@@ -50,6 +50,12 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 - baseline `மண் டூகங்களின்` treated as a page-internal split and rejoined to source word **மண்டூகங்களின்**.
 - source contrast **திராவிடநாடு** / later **திராவிட நாடு** inside the same quotation is preserved.
 - baseline line-wrap split `இந்தோனேஷி / யாவாக` rejoined as **இந்தோனேஷியாவாக**.
+
+## P5 strict visual fidelity findings
+
+- **`வெற்றிபெற்ற நாடுகளை வழிகாட்டியாகக் கொண்டு`** → source **`வெற்றிபெற்ற நாடுகளின் வழிகாட்டியாகக் கொண்டு`**.
+- all other visible words, punctuation, folio and page structure rechecked — **PASS**.
+- unresolved P5 readings — **0**.
 
 ## P2 நிலை
 

@@ -18,7 +18,7 @@ Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPL
 
 Publication 14 **`பெருமூச்சு` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 13/13 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0–P4 PASS; P5 IN PROGRESS — 30/69 STRICT-REVIEWED**.
+Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0–P4 PASS; P5 IN PROGRESS — 40/69 STRICT-REVIEWED**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2559,7 +2559,7 @@ Workspace: `publications/viduthalai-kilarcci/`
 - P2 — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 — **COMPLETE / PASS**
-- P5 — **IN PROGRESS — 30/69 STRICT-REVIEWED**
+- P5 — **IN PROGRESS — 40/69 STRICT-REVIEWED**
 - English — **BLOCKED until Tamil P5 / frozen**
 - historical Tamil glyph workflow — **MANDATORY**
 
@@ -2728,8 +2728,22 @@ Current main assembly after scan-13 propagation — blob **`d0a1afb39319f86fc7d5
 
 Current partial-P5 main assembly blob — **`04f59a29d1e957dcd6ad536020cd54058d289327`**.
 
+## P5 Batch 004 — scans 31–40
+
+**COMPLETE / PASS — 10/10 STRICT-REVIEWED**
+
+- scan 31 — source **`வெற்றிபெற்ற நாடுகளின் வழிகாட்டியாகக் கொண்டு`**
+- scan 32 — source abbreviation **`உ. வெ.`**
+- scan 39 — comma restored in **`இருந்தாலும்,`**
+- scan 39 — source **`பாரதமணித்திருநாடு!`**
+- scans 33–38 and 40 — **PASS / no canonical change**
+- cumulative P5 — **40/69**
+- unresolved — **0**
+
+Current partial-P5 main assembly blob — **`ab1fc1d83b60b79088faa679904c1eb71057a64c`**.
+
 ## Exact next activity
 
-**P5 strict visual review — scans 31–40.**
+**P5 strict visual review — scans 41–50.**
 
 Use `viduthalai_kilarchi.md` only as a baseline comparison aid. Source scan pixels remain controlling. Apply the historical-glyph guide word-by-word and preserve page-boundary fragments exactly.

@@ -16,7 +16,7 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 
 மாமல்லபுரம் கடற்கரைச் சிற்பக் கோயில்களிலே “திராவிட பாணியில் செதுக்கப்பட்டது” என்ற வார்த்தைகள் சிறுநோக்கினரைப் பார்த்து சிரித்திடுகின்றன,
 
-சென்னை கடற்கரை அரசினர் கல்லூரி வாயிலிலே நிற்கும் உ, வெ. சாமிநாத அய்யரின் சிலையிலே முழக்கமிடுகிறது; “திராவிட வித்யாபூஷணம்” என்ற வாக்கியம்.
+சென்னை கடற்கரை அரசினர் கல்லூரி வாயிலிலே நிற்கும் உ. வெ. சாமிநாத அய்யரின் சிலையிலே முழக்கமிடுகிறது; “திராவிட வித்யாபூஷணம்” என்ற வாக்கியம்.
 
 தாகூரின் தேசிய கீதத்திலே “திராவிட உட்கல வங்க” என்ற அடிகள் நினைப்பூட்டுகின்றன திராவிடத்தை!
 
@@ -48,6 +48,12 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 - baseline `கடற்கரைக் சிற்பக் கோயில் களிலே` corrected to source **கடற்கரைச் சிற்பக் கோயில்களிலே**.
 - source abbreviation is **உ, வெ. சாமிநாத அய்யர்** and is retained without biographical normalization.
 - source terminal form **மணல்-சுவர்** is retained.
+
+## P5 strict visual fidelity findings
+
+- abbreviation punctuation corrected: **`உ, வெ.`** → source **`உ. வெ.`**.
+- all other visible words, punctuation, folio and page structure rechecked — **PASS**.
+- unresolved P5 readings — **0**.
 
 ## P2 நிலை
 

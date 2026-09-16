@@ -275,7 +275,7 @@ Cross-page controls:
 
 ## Downstream status
 
-- P5 — **IN PROGRESS — 30/69 STRICT-REVIEWED**
+- P5 — **IN PROGRESS — 40/69 STRICT-REVIEWED**
 - P5 Batches 001–003 source corrections supersede any conflicting provisional P2 readings through scan 30
 - additional P5 controls: scan 3 **`கலைமகள்`**, scan 13 **`வீட்டற்றவராய்`**, scan 28 **`நாம் சொல்வதை`**, scan 30 **`கூடிக் குலாவிடவேண்டுமாம்`**
 - P3 — **COMPLETE / PASS — 2/2 assemblies**
@@ -286,4 +286,4 @@ Cross-page controls:
 
 ## Exact next activity
 
-**P5 strict visual review — scans 31–40.**
+**P5 strict visual review — scans 41–50.**

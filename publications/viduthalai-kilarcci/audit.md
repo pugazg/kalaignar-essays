@@ -222,6 +222,21 @@ The source consists of preliminary verse/prologue material followed by one conti
 - unresolved readings — **0**
 - authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
 
+## P5 Batch 004 — scans 31–40
+
+**COMPLETE / PASS — 10/10 STRICT-REVIEWED**
+
+- source scans independently reopened — **10/10**
+- canonical corrections — **4**
+- scan 31 — **`நாடுகளின் வழிகாட்டியாகக் கொண்டு`**
+- scan 32 — **`உ. வெ. சாமிநாத அய்யர்`**
+- scan 39 — punctuation **`இருந்தாலும்,`**
+- scan 39 — **`பாரதமணித்திருநாடு!`**
+- scans 33–38 and 40 — no canonical text changes
+- cumulative P5 progress — **40/69**
+- unresolved readings — **0**
+- authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
+
 ## Next
 
 Publication 15 is **ACTIVE — P0–P4 COMPLETE / PASS; P5 IN PROGRESS — 10/69 STRICT-REVIEWED**.

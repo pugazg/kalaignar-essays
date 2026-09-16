@@ -13,7 +13,7 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - P2 page-level transcription — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 article assembly — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 source audit — **COMPLETE / PASS**
-- P5 strict visual-text-fidelity pass — **IN PROGRESS — 30/69 STRICT-REVIEWED**
+- P5 strict visual-text-fidelity pass — **IN PROGRESS — 40/69 STRICT-REVIEWED**
 - English — **BLOCKED until Tamil archival layer freezes**
 - source PDF committed — **No**
 
@@ -145,8 +145,22 @@ Batch-001 follow-up correction:
 
 Affected main reading assembly updated.
 
+## P5 Batch 004 — scans 31–40
+
+**COMPLETE / PASS — 10/10 STRICT-REVIEWED**
+
+- scan 31 — **`நாடுகளை வழிகாட்டியாகக் கொண்டு`** → source **`நாடுகளின் வழிகாட்டியாகக் கொண்டு`**
+- scan 32 — abbreviation **`உ, வெ.`** → source **`உ. வெ.`**
+- scan 39 — source comma restored after **`இருந்தாலும்,`**
+- scan 39 — **`பாரதமணித்திருநாடு!.`** → source **`பாரதமணித்திருநாடு!`**
+- scans 33–38 and 40 — no canonical text changes
+- cumulative P5 progress — **40/69**
+- unresolved P5 readings — **0**
+
+Affected main reading assembly updated.
+
 ## Exact next activity
 
-**P5 strict visual review — scans 31–40.**
+**P5 strict visual review — scans 41–50.**
 
 Use the baseline only as a comparison aid. Verify every word, punctuation mark, page boundary and historical glyph against source pixels.

@@ -10,14 +10,15 @@ P5 is the independent final strict visual word-by-word / punctuation-by-punctuat
 
 ## Current state
 
-**IN PROGRESS — 30/69 physical scans STRICT-REVIEWED**
+**IN PROGRESS — 40/69 physical scans STRICT-REVIEWED**
 
 - Batch 001 — scans **1–10** — **COMPLETE / PASS**
 - Batch 002 — scans **11–20** — **COMPLETE / PASS**
 - Batch 003 — scans **21–30** — **COMPLETE / PASS**
+- Batch 004 — scans **31–40** — **COMPLETE / PASS**
 - unresolved P5 readings — **0**
 - guessed readings — **0**
-- next range — **31–40**
+- next range — **41–50**
 
 ## Batch 001 — scans 1–10
 
@@ -79,13 +80,30 @@ Batch-001 follow-up correction — scan 3 printer **`கலைமகள் ப�
 
 Batch-003 canonical corrections — **2**.
 
+## Batch 004 — scans 31–40
+
+| Scan | Result | Canonical correction |
+|---:|---|---|
+| 31 | PASS after correction | `நாடுகளை` → **`நாடுகளின்`** in opening phrase |
+| 32 | PASS after correction | `உ, வெ.` → **`உ. வெ.`** |
+| 33 | PASS | none |
+| 34 | PASS | none |
+| 35 | PASS | none |
+| 36 | PASS | none |
+| 37 | PASS | none |
+| 38 | PASS | none |
+| 39 | PASS after correction | source punctuation repaired in two places |
+| 40 | PASS | none |
+
+Batch-004 canonical corrections — **4**.
+
 ## Historical Tamil glyph audit
 
 Mandatory historical families were explicitly rechecked where present:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Batch-001/002/003 cumulative result:
+Batch-001/002/003/004 cumulative result:
 
 - unresolved historical-glyph ambiguity — **0**
 - global modernization / normalization — **0**
@@ -104,8 +122,8 @@ Earlier Batch-001 corrected canonical page blobs:
 
 Assembly propagation:
 - `articles/00-vengaiyai-virattum-padalam.md` — scans 4–7 fully rechecked; **STRICT-REVIEWED** — blob `c5be16582c2c3bb238cc1bf1ae47f8301173352f`
-- `articles/01-viduthalai-kilarcci.md` — scans 8–30 strict-reviewed with all P5 corrections propagated; P5 is still partial — blob `04f59a29d1e957dcd6ad536020cd54058d289327`
+- `articles/01-viduthalai-kilarcci.md` — scans 8–40 strict-reviewed with all P5 corrections propagated; P5 is still partial — blob `ab1fc1d83b60b79088faa679904c1eb71057a64c`
 
 ## Exact next activity
 
-**P5 scans 31–40.**
+**P5 scans 41–50.**
