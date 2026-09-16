@@ -22,7 +22,7 @@ transcription_method: "user-supplied perumoochu.md used as baseline; direct rend
 
 நம் கழகத்தை 'உதிரிகள்' என்று கூறியவர்களிடம் சேர்ந்துகொண்டு, வெட்கத்தை விற்றுவிட்டு வாழ்வதற்கு நாம் ஒப்பவில்லை யென்றால் நாம் எதிரிகளின் வெற்றிக்கு ஆதரவு தருகிறோம் என்று கூறுவது மிக மிகத் தவறான பிரச்சாரமாகும்.
 
-நம்முடைய நேசக்கரம் நீட்டப்பட்ட நேரத்திலே அதைத் தட்டிவிடும் முறையில் நம் அடிப்படைப் பிரச்சினையை அவமதித்துவிட்டு "தேர்தலுக்கு மட்டும்வா" என்று அழைத்துவிட்டு, இப்போது "தேர்தல் தேனைப் பருக அல்ல" என்று குறிப்பிடுவதும் கம்யூனிஸ்ட் ஆட்சி அமைக்க அழைக்கவில்லை என்று சுட்டிக்காட்டுவதும் புரியாத புதிர்களாகவே இருக்கின்றன.
+நம்முடைய நேசக்கரம் நீட்டப்பட்ட நேரத்திலே அதைத் தட்டிவிடும் முறையில் நம் அடிப்படைப் பிரச்சினையை அவமதித்துவிட்டு "தேர்தலுக்கு மட்டும்வா" என்று அழைத்துவிட்டு, இப்போது "தேர்தல் தேனைப்
 
 ## அச்சு அமைப்பு
 
@@ -42,6 +42,8 @@ transcription_method: "user-supplied perumoochu.md used as baseline; direct rend
 - unresolved historical-glyph ambiguity — **0**.
 
 ## Baseline-to-source fidelity note
+
+- physical scan boundary reverified directly against rendered source pixels; previous heuristic segmentation was replaced.
 
 - `perumoochu.md` is baseline only; source pixels control the canonical reading.
 - this record is bounded to physical scan **24**; no text from the next scan is intentionally imported.
