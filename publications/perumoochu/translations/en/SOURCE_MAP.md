@@ -72,12 +72,12 @@ These are downstream English authorities only. They do not replace the frozen Ta
 | 4 | `04-vaapas-veerargal.md` | **Heroes of Retreat!** | `47510c75833b1abd6990871ebc45c9e9eb8ba1db` | T5 VERIFIED |
 | 5 | `05-podhu-makkalukku-thani-echarikkai.md` | **A Special Warning to the Public** | `637fd7fb72126b4b677846839191459616971d60` | T5 VERIFIED |
 
-Articles **6–13** remain **NOT STARTED** in English.
+Article **6** has **T0 PASS / T1 NEXT**. Articles **7–13** remain **NOT STARTED** in English.
 
 ## Translation checkpoint
 
 - E0 — **COMPLETE / PASS**
-- T0 — **5/13 PASS**
+- T0 — **6/13 PASS**
 - T1 — **5/13 COMPLETE**
 - T2 — **5/13 PASS**
 - T3 — **5/13 PASS**
@@ -87,8 +87,12 @@ Articles **6–13** remain **NOT STARTED** in English.
 - Tamil source changes during Articles 1–5 — **0**
 - blockers — **0**
 
+## Article 6 T0 source-pin check
+
+- required blob — **`14501305ff4935d672444459dfe404d51ac97282`**
+- live `main` blob — **`14501305ff4935d672444459dfe404d51ac97282`**
+- result — **PASS**
+
 ## Exact next activity
 
-**Article 6 `சிறுவர்கள்` — T0 source prerequisite.**
-
-Require live `main` Tamil blob **`14501305ff4935d672444459dfe404d51ac97282`** before creating its English body file.
+**Article 6 `சிறுவர்கள்` — T1 close paragraph-by-paragraph English draft.**
