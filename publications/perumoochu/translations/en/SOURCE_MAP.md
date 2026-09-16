@@ -60,7 +60,7 @@ Tamil source changes during E0 — **0**.
 Blockers — **0**.
 
 
-## Verified English authorities — Articles 1–5
+## Verified English authorities — Articles 1–6
 
 These are downstream English authorities only. They do not replace the frozen Tamil pins above.
 
@@ -71,6 +71,7 @@ These are downstream English authorities only. They do not replace the frozen Ta
 | 3 | `03-manthirigal-kulai-nadukkam.md` | **Ministers Tremble in Fear** | `3d0e2718db290159e717db23890611f461af1149` | T5 VERIFIED |
 | 4 | `04-vaapas-veerargal.md` | **Heroes of Retreat!** | `47510c75833b1abd6990871ebc45c9e9eb8ba1db` | T5 VERIFIED |
 | 5 | `05-podhu-makkalukku-thani-echarikkai.md` | **A Special Warning to the Public** | `637fd7fb72126b4b677846839191459616971d60` | T5 VERIFIED |
+| 6 | `06-siruvargal.md` | **Youngsters** | `b2694657339a42c84d932e67ee63684a588245d2` | T5 VERIFIED |
 
 Article **6** has **T0 PASS / T1 NEXT**. Articles **7–13** remain **NOT STARTED** in English.
 
@@ -78,21 +79,27 @@ Article **6** has **T0 PASS / T1 NEXT**. Articles **7–13** remain **NOT STARTE
 
 - E0 — **COMPLETE / PASS**
 - T0 — **6/13 PASS**
-- T1 — **5/13 COMPLETE**
-- T2 — **5/13 PASS**
-- T3 — **5/13 PASS**
-- T4 — **5/13 PASS**
-- T5 — **5/13 VERIFIED**
-- verified English source comments — **30/30 PASS**
-- Tamil source changes during Articles 1–5 — **0**
+- T1 — **6/13 COMPLETE**
+- T2 — **6/13 PASS**
+- T3 — **6/13 PASS**
+- T4 — **6/13 PASS**
+- T5 — **6/13 VERIFIED**
+- verified English source comments — **34/34 PASS**
+- Tamil source changes during Articles 1–6 — **0**
 - blockers — **0**
 
-## Article 6 T0 source-pin check
+## Article 6 final English authority
 
-- required blob — **`14501305ff4935d672444459dfe404d51ac97282`**
-- live `main` blob — **`14501305ff4935d672444459dfe404d51ac97282`**
-- result — **PASS**
+- frozen Tamil blob — **`14501305ff4935d672444459dfe404d51ac97282`**
+- verified English file — `06-siruvargal.md`
+- verified English title — **Youngsters**
+- verified English blob — **`b2694657339a42c84d932e67ee63684a588245d2`**
+- T0–T5 — **PASS / VERIFIED**
+- source comments — **4/4 PASS**
+- blockers — **0**
 
 ## Exact next activity
 
-**Article 6 `சிறுவர்கள்` — T1 close paragraph-by-paragraph English draft.**
+**Article 7 `“அஹிம்சா விலாசம்”` — T0 source prerequisite.**
+
+Require live `main` Tamil blob **`12c50fe83ef047ca060669831c82d3e00defc04a`** before creating its English body file.
