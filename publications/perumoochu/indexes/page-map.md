@@ -19,10 +19,10 @@
 | 37–40 | body article | `சிறுவர்கள்` |
 | 41–48 | body article | `அஹிம்சா விலாசம்` |
 | 49–52 | body article | `திண்டிவனம் தீரர்காள்!` |
-| 53–56 | body article | `சேலம் கூவுகிறது!` |
-| 57–62 | body article | `மாட்டோட்டிகள்!` |
-| 63–70 | body article | `தேர்தல் கோமாளி!` |
-| 71–76 | body article | `சிந்தித்தான்! சிரித்தான்!` |
+| 53–56 | body article | `சேவல் கூவுகிறது!` |
+| 57–62 | body article | `மாடோட்டிகள்!` |
+| 63–70 | body article | `தேர்தல் கோவலன்!` |
+| 71–76 | body article | `சிந்தித்துணர்க! சீற்றமுறாதீர்!` |
 | 77–80 | body article | `பூம்! பூம்! பூம்!` |
 | 81 | advertisement / publisher catalogue | — |
 | 82 | advertisement / publisher catalogue | — |
@@ -66,7 +66,9 @@ Every one of the **83 physical scans** requires its own canonical page record, i
 
 ## P2 progress
 
-- scans **1–52** — **VERIFIED / PASS**
+**COMPLETE / PASS — 83/83 canonical physical-scan records**
+
+- scans **1–83** — **VERIFIED / PASS**
 - front matter / physical-copy evidence — **1–4 COMPLETE**
 - publisher preface `மூச்சினிடையே!` — **5–6 COMPLETE**
 - `பெருமூச்சு` — **7–10 COMPLETE**
@@ -77,9 +79,24 @@ Every one of the **83 physical scans** requires its own canonical page record, i
 - `சிறுவர்கள்` — **37–40 COMPLETE**
 - `“அஹிம்சா விலாசம்”` — **41–48 COMPLETE**
 - `திண்டிவனம் தீரர்காள்!` — **49–52 COMPLETE**
-- verified page records — **52/83**
+- `சேவல் கூவுகிறது!` — **53–56 COMPLETE**
+- `மாடோட்டிகள்!` — **57–62 COMPLETE**
+- `தேர்தல் கோவலன்!` — **63–70 COMPLETE**
+- `சிந்தித்துணர்க! சீற்றமுறாதீர்!` — **71–76 COMPLETE**
+- `பூம்! பூம்! பூம்!` — **77–80 COMPLETE**
+- publisher/catalogue matter — **81–83 COMPLETE**
+- verified page records — **83/83**
 - needs-review — **0**
 - blocked — **0**
 - guessed readings — **0**
 - unresolved historical-glyph readings — **0**
-- next P2 range — **53–75**
+- missing scan records — **0**
+- duplicate scan records — **0**
+
+### Physical-boundary repair
+
+Closure review found that scans **24–52** had initially been partitioned heuristically from the generated baseline. Those records were rebuilt from directly verified physical PDF boundaries and committed at **`ebe8b2146eef22ac203f8014367cb78dea2d4b76`**.
+
+## Next
+
+**P3 — 13 article assemblies from canonical P2 records.**
