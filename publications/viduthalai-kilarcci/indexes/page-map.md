@@ -36,7 +36,7 @@ The principal prose run visibly follows the source page sequence: scan 9 carries
 
 ## P2 current coverage
 
-**Batches 001–006 COMPLETE / PASS — scans 1–60**
+**Batches 001–007 COMPLETE / PASS — scans 1–69**
 
 | Scan | Canonical record | Status | Source-visible folio |
 |---:|---|---|:---:|
@@ -100,8 +100,17 @@ The principal prose run visibly follows the source page sequence: scan 9 carries
 | 58 | `pages/0058-viduthalai-kilarcci-51.md` | verified | 57 |
 | 59 | `pages/0059-viduthalai-kilarcci-52.md` | verified | 58 |
 | 60 | `pages/0060-viduthalai-kilarcci-53.md` | verified | 59 |
+| 61 | `pages/0061-viduthalai-kilarcci-54.md` | verified | 60 |
+| 62 | `pages/0062-viduthalai-kilarcci-55.md` | verified | 61 |
+| 63 | `pages/0063-viduthalai-kilarcci-56.md` | verified | 62 |
+| 64 | `pages/0064-viduthalai-kilarcci-57.md` | verified | 63 |
+| 65 | `pages/0065-viduthalai-kilarcci-58.md` | verified | 64 |
+| 66 | `pages/0066-viduthalai-kilarcci-59.md` | verified | 65 |
+| 67 | `pages/0067-viduthalai-kilarcci-60.md` | verified | 66 |
+| 68 | `pages/0068-viduthalai-kilarcci-61.md` | verified | 67 |
+| 69 | `pages/0069-publisher-catalogue.md` | verified | — |
 
-P2 progress — **60/69 verified; 0 needs-review; 0 blocked**.
+P2 progress — **69/69 verified; 0 needs-review; 0 blocked — COMPLETE / PASS**.
 
 Source-supported correction at scan 4: introductory unit is **`வேங்கையை விரட்டும் படலம்`**, not the earlier provisional `வேங்கையை விரட்டும் பாடல்`.
 
@@ -119,3 +128,5 @@ Batch-004 source controls: **`நிகரா குவா`**, **`பனமா`*
 Batch-005 source controls: **`சோப்பும் சீப்பும்`**, **`மாசேதுங்கினுடைய`**, source typo-like **`இரண்டாமிரம்`**, and **`அடைப்படை`** retained; no unresolved readings.
 
 Batch-006 source controls: **`இணைக்க`**, **`ஏழைகளின்மீது`**, **`கில்லெட்டினுக்கு`**, **`பீரங்கியையும்`**, **`தீ மூட்டும்`**, **`மகேஸ்வரனின் அருளால்`**; scan 60 ends **`நாடக`** for scan 61.
+
+Batch-007 terminal controls: scan 68 closes the main work with **`இதுதான் வேறுபாடு. தேவையான துங்கூட!`** + star; scan 69 is publisher catalogue matter, not prose continuation.

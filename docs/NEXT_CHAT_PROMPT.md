@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P2 Batch 007 scans 61–69
+# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P3 article assembly
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,47 +12,39 @@ Workspace: `publications/viduthalai-kilarcci/`
 
 Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf`
 
-Baseline: user-supplied `viduthalai_kilarchi.md` — **NON-AUTHORITATIVE**.
-
 ## Current state
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 69/69**
-- P2 — **IN PROGRESS — 60/69 VERIFIED**
-- Batches 001–006 — scans 1–60 — **PASS**
+- P2 — **COMPLETE / PASS — 69/69 VERIFIED**
 - needs-review / blocked / guessed — **0 / 0 / 0**
-- P3–P5 — **NOT STARTED**
+- P3 — **NOT STARTED**
+- P4–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil archival freeze**
 
-## Durable source readings — do not regress
+## P2 authorities
 
-Batch 006:
-- `இணைக்க`
-- `தந்தை மாண்டார் — கணவன் இறந்தான் — தமையன் செத்தான்`
-- `ஏழைகளின்மீது`
-- `கில்லெட்டினுக்கு`
-- `பீரங்கியையும்`
-- `அழுத்தப்படும் / அழுத்தும்`
-- `இரு கரைகளிலும்`
-- `அல்லவே`
-- `தீ மூட்டும்`
-- `மகேஸ்வரனின் அருளால்`
-- `அரன், அயன், அரி`
+- `P2_PROGRESS.md`
+- `indexes/page-map.md`
+- canonical page records under `pages/`
 
-Cross-page entry:
-- scan 60 ends **`நாடக`**; resolve continuation only from scan 61 pixels.
+Source structure:
+- scans 4–7 — introductory unit **`வேங்கையை விரட்டும் படலம்`**
+- scans 8–68 — one continuous main prose work **`விடுதலைக் கிளர்ச்சி`**
+- scan 69 — publisher catalogue, outside the prose work
 
-## Mandatory workflow
+Terminal controls:
+- scan 60→61 — `நாடக / மேடை`
+- scan 64→65 — `நடத்தியவர் / களை`
+- scan 68 closes prose with **`இதுதான் வேறுபாடு. தேவையான துங்கூட!`** + star
+- scan 69 is catalogue only
 
-Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` and `ESSAY_PROCESSING_GUIDE.md`.
+## P3 rule
 
-For each scan explicitly check:
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
-
-Source pixels control. Do not use OCR, web text, alternate editions or contextual completion as authority.
+Assemble only from VERIFIED canonical P2 page records. Do not re-transcribe from the PDF or baseline. Join physical page-boundary fragments reversibly and preserve ordered source comments/provenance. Do not modernize spelling, punctuation, rhetoric, or unusual source forms.
 
 ## Exact next activity
 
-**P2 Batch 007 — scans 61–69.**
+**P3 article assembly.**
 
-Complete the remaining physical scans, including scan 69 publisher advertisement/catalogue matter. Update all progress/control files. If all nine verify with no holds, P2 becomes COMPLETE / PASS — 69/69 and the next gate is P3 article assembly.
+Determine the repository-consistent treatment of the scans 4–7 introductory unit and the scans 8–68 main prose work, create the Tamil assembly file(s), add P3 progress/review controls, update README/audit/handover, and commit atomically.

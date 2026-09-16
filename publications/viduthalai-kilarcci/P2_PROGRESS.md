@@ -2,7 +2,7 @@
 
 ## Status
 
-**IN PROGRESS — 60/69 physical scans VERIFIED**
+**COMPLETE / PASS — 69/69 physical scans VERIFIED**
 
 Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf`  
 Baseline aid: user-supplied `viduthalai_kilarchi.md` — **NON-AUTHORITATIVE**  
@@ -233,24 +233,48 @@ Cross-page controls:
 - 57→58 — **`ஆண் / டவன்`**;
 - scan 60 ends **`நாடக`**; continuation pending scan 61.
 
+## Batch 007 — scans 61–69
+
+**COMPLETE / PASS — 9/9 VERIFIED**
+
+| Scan | Record | Role | Status |
+|---:|---|---|---|
+| 61 | `pages/0061-viduthalai-kilarcci-54.md` | main work / printed 60 | verified |
+| 62 | `pages/0062-viduthalai-kilarcci-55.md` | main work / printed 61 | verified |
+| 63 | `pages/0063-viduthalai-kilarcci-56.md` | main work / printed 62 | verified |
+| 64 | `pages/0064-viduthalai-kilarcci-57.md` | main work / printed 63 | verified |
+| 65 | `pages/0065-viduthalai-kilarcci-58.md` | main work / printed 64 | verified |
+| 66 | `pages/0066-viduthalai-kilarcci-59.md` | main work / printed 65 | verified |
+| 67 | `pages/0067-viduthalai-kilarcci-60.md` | main work / printed 66 | verified |
+| 68 | `pages/0068-viduthalai-kilarcci-61.md` | main work / printed 67 / terminal prose | verified |
+| 69 | `pages/0069-publisher-catalogue.md` | publisher catalogue / advertisement | verified |
+
+### Durable Batch-007 controls
+
+- scan 60→61 — **`நாடக / மேடை`**;
+- scan 64→65 — **`நடத்தியவர் / களை`**;
+- source unusual forms retained, including **`ஓவியமாக்`**, **`பார்வைபட்டோடும்`**, **`விடுதலை யுணர்வை`**, **`அமைதி யென்றால்`**, **`கோட்சேயாக`**, **`ஆட்சிபீட மேறிகளால்`**, **`தேவையான துங்கூட!`**;
+- scan 68 is the final prose page and closes with a star;
+- scan 69 catalogue heading — **`கலைஞர் கருணாநிதி எழுதியவை`**; six title/price entries verified.
+
 ## Historical-glyph state
 
-- mandatory family check applied — **scans 1–60**
+- mandatory family check applied — **scans 1–69**
 - unresolved historical-glyph ambiguities — **0**
 - global replacements used — **0**
 - guessed readings — **0**
 
 ## Totals
 
-- canonical records — **60/69**
-- verified — **60**
+- canonical records — **69/69**
+- verified — **69**
 - needs-review — **0**
 - blocked — **0**
 - guessed — **0**
-- remaining — **9**
+- remaining — **0**
 
 ## Exact next activity
 
-**P2 Batch 007 — scans 61–69.**
+**P3 article assembly.**
 
 Use the supplied baseline only as a comparison aid; source pixels remain controlling.

@@ -32,7 +32,7 @@ The source consists of preliminary verse/prologue material followed by one conti
 
 - historical Tamil typeforms — **present**
 - historical-glyph guide — **mandatory**
-- P2 — **IN PROGRESS — 60/69 VERIFIED**
+- P2 — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil P5 / frozen**
 
@@ -124,8 +124,24 @@ The source consists of preliminary verse/prologue material followed by one conti
 - physical continuations preserved at 53→54 **`அழைத்துச் செல்லப் / படுவான்`**, 57→58 **`ஆண் / டவன்`**; scan 60 ends **`நாடக`** pending scan 61
 - P2 progress authority — `P2_PROGRESS.md`
 
+## P2 Batch 007 audit
+
+**COMPLETE / PASS — scans 61–69**
+
+- page records created — **9**
+- verified — **9**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph workflow — **applied**
+- scan 60→61 physical continuation **`நாடக / மேடை`** verified
+- scan 64→65 physical continuation **`நடத்தியவர் / களை`** verified
+- scan 68 is the final prose page, ending **`இதுதான் வேறுபாடு. தேவையான துங்கூட!`** followed by a star separator
+- scan 69 is terminal publisher catalogue matter headed **`கலைஞர் கருணாநிதி எழுதியவை`** and is not part of the prose work
+- P2 progress authority — `P2_PROGRESS.md`
+
 ## Next
 
-Publication 15 is **ACTIVE — P0–P1 COMPLETE / P2 IN PROGRESS — 60/69 VERIFIED**.
+Publication 15 is **ACTIVE — P0–P1 COMPLETE / P2 COMPLETE / PASS — 69/69 VERIFIED**.
 
-Next gate: **P2 Batch 007 — scans 61–69**.
+Next gate: **P3 article assembly**.

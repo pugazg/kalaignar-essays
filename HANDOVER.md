@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after Publication 15 `விடுதலைக் கிளர்ச்சி` P2 Batch 001. Publications **1–14 are RELEASE COMPLETE / FROZEN**. Publication 15 is **ACTIVE — P0 PASS; P1 PASS 69/69; P2 IN PROGRESS — 60/69 VERIFIED**.
+Handoff refreshed after Publication 15 `விடுதலைக் கிளர்ச்சி` P2 Batch 001. Publications **1–14 are RELEASE COMPLETE / FROZEN**. Publication 15 is **ACTIVE — P0 PASS; P1 PASS 69/69; P2 COMPLETE / PASS — 69/69 VERIFIED**.
 
 ## Repository state
 
@@ -18,7 +18,7 @@ Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPL
 
 Publication 14 **`பெருமூச்சு` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 13/13 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0 PASS; P1 PASS 69/69; P2 IN PROGRESS — 60/69 VERIFIED; introductory unit + 1 main prose work**.
+Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0 PASS; P1 PASS 69/69; P2 COMPLETE / PASS — 69/69 VERIFIED; introductory unit + 1 main prose work**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2533,7 +2533,7 @@ English controls:
 
 No further Publication 14 archival or translation activity is pending.
 
-Publication 15 `விடுதலைக் கிளர்ச்சி` is **ACTIVE — P2 IN PROGRESS — 60/69 VERIFIED**.
+Publication 15 `விடுதலைக் கிளர்ச்சி` is **ACTIVE — P2 COMPLETE / PASS — 69/69 VERIFIED**.
 # Publication 15 — விடுதலைக் கிளர்ச்சி
 
 Workspace: `publications/viduthalai-kilarcci/`
@@ -2556,7 +2556,7 @@ Workspace: `publications/viduthalai-kilarcci/`
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 69/69**
-- P2 — **IN PROGRESS — 60/69 VERIFIED**
+- P2 — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -2641,8 +2641,20 @@ Durable controls include **`சாயங்கள்`**, **`எதிர்ப�
 
 Durable controls include **`இணைக்க`**, source quote order **`தந்தை மாண்டார் — கணவன் இறந்தான் — தமையன் செத்தான்`**, **`ஏழைகளின்மீது`**, **`கில்லெட்டினுக்கு`**, **`பீரங்கியையும்`**, **`அழுத்தப்படும் / அழுத்தும்`**, **`இரு கரைகளிலும்`**, **`அல்லவே`**, **`தீ மூட்டும்`**, **`மகேஸ்வரனின் அருளால்`**.
 
+## P2 Batch 007 — scans 61–69
+
+**COMPLETE / PASS — 9/9 VERIFIED**
+
+Terminal controls:
+- scan 60→61 — **`நாடக / மேடை`**
+- scan 64→65 — **`நடத்தியவர் / களை`**
+- scan 68 — main prose closes with **`இதுதான் வேறுபாடு. தேவையான துங்கூட!`** and a star
+- scan 69 — publisher catalogue **`கலைஞர் கருணாநிதி எழுதியவை`**, outside the prose work
+
+P2 totals — **69/69 VERIFIED; needs-review 0; blocked 0; guessed 0**.
+
 ## Exact next activity
 
-**P2 Batch 007 — scans 61–69.**
+**P3 article assembly.**
 
 Use `viduthalai_kilarchi.md` only as a baseline comparison aid. Source scan pixels remain controlling. Apply the historical-glyph guide word-by-word and preserve page-boundary fragments exactly.
