@@ -60,6 +60,13 @@ transcription_method: "direct visual transcription from rendered source scan; us
 - all listed prices on this scan are source-visible **0 8 0**.
 - guessed readings — **0**.
 
+## P5 strict visual fidelity findings
+
+- direct final source-pixel reinspection completed.
+- catalogue heading, all 15 title lines, all price groups, publisher line and printer line rechecked.
+- canonical printed-text corrections required in P5 — **0**.
+- unresolved P5 fidelity discrepancy — **0**.
+
 ## P2 நிலை
 
 **verified** — scan 82 direct source-pixel comparison complete; unresolved printed-text readings **0**.
