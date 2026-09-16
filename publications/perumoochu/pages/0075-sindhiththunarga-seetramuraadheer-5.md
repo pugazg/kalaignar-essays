@@ -23,7 +23,7 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 ஆனால் நம்பியார், கல்யாணசுந்தரம்,முத்தையா, மணலி போன்றவர்கள் நிற்கும் இடங்களிலே அவர்களுடைய வெற்றியை விரும்பி தங்கள் ஓட்டுக்களை அளிக்க இருக்கிற கழகத் தோழர்களின் உள்ளம் எவ்வளவு வேதனை அடையும் என்பதை கம்யூனிஸ்ட் நண்பர்களும் ஜனசக்தி பத்திரிகையும் சிந்திக்கவேண்டும். எவ்வளவுதான் வெந்த புண்ணிலே வேல் சொருகினாலுங்கூட கழகத்தவரின் ஓட்டுக்கள் காங்கிரசுக்குப் போகாது என்பதையும் கம்யூனிஸ்டு நண்பர்கள் உணரவேண்டும்; உணருவார்கள்.
 
-ஏகாதிபத்திய தாசர் என்று கம்யூனிஸ்டுகளால் வர்ணிக்கப்படுகிற சர்மா அவர்களைப் பெரியார் ஆதரிக்கவும்
+ஏகாதிபத்திய தாசர் என்று கம்யூனிஸ்டுகளால் வர்ணிக்கப்படுகிற சர்மா அவர்களைப் பெரியார் ஆதரிக்க
 
 ## அச்சு அமைப்பு
 
@@ -40,6 +40,11 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 - baseline is non-authoritative; source pixels control.
 - guessed completion — **0**.
+
+## P5 strict visual fidelity findings
+
+- P5 direct scan review: physical scan 75 ends with **`ஆதரிக்க`**; the word continues on scan 76 as `வும்—`.
+- unresolved P5 fidelity discrepancy on this recorded finding — **0**.
 
 ## P2 நிலை
 
