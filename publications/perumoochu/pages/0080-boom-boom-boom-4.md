@@ -14,7 +14,7 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 # அச்சு உரை
 
-''பாருங்கசாமி, பாருங்க எதாவது ஒரு பழசுபட்டு ஒரு ஓட்டு போடுங்க" என்று பல்லைக் காட்டினான்.
+“பாருங்கசாமி, பாருங்க எதாவது ஒரு பழசுபட்டு; ஒரு ஓட்டு போடுங்க” என்று பல்லைக் காட்டினான்.
 அவர் மௌனமாயிருந்தார்.
 
 அய்யா போடுவாரா?
@@ -23,15 +23,15 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 வீட்டுக்காரர் உள்ளே போனார்.
 பெருமாள் மாட்டுக்காரனுக்குச் சந்தோஷம் தாங்கவில்லை.
-"அய்யா உள்ளே போயிருக்கிறார், ஓட்டுக்கொண்டு வந்து போடுவாரா?" பூம், பூம், பூம்.
-"அய்யா போடுவாரா? பூம், பூம், பூம்!"
+“அய்யா உள்ளே போயிருக்கிறார், ஓட்டுக்கொண்டு வந்து போடுவாரா?” பூம், பூம், பூம்.
+“அய்யா போடுவாரா? பூம், பூம், பூம்!”
 
-உள்ளே சென்ற அய்யா,போட்டுவிட்டார்!
+உள்ளே சென்ற அய்யா, போட்டுவிட்டார்!
 எதை?
 கதவுக்குத் தாழ்ப்பாளை!
 
 பெருமாள் மாட்டுக்காரன், திகைத்தபடி, ஈனஸ்வரத்தில்.
-"அய்யா போடமாட்டாரடா? பூம், பூம், பூம்!'' என்றான்.
+“அய்யா போடமாட்டாரடா? பூம், பூம், பூம்!” என்றான்.
 மாடுகள் தலையாட்டிக்கொண்டே இருந்தன.
 பூம்! பூம்!! பூம்!!!
 
@@ -50,6 +50,16 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 - baseline is non-authoritative; source pixels control.
 - guessed completion — **0**.
+
+## P5 strict visual fidelity findings
+
+- direct source-pixel reinspection completed in final P5 batch.
+- opening quote line restored to **`“பாருங்கசாமி... பழசுபட்டு; ஒரு ஓட்டு போடுங்க”`**.
+- quote pair around **`அய்யா உள்ளே போயிருக்கிறார்...`** restored to source-visible `“...”`.
+- quote pair around **`அய்யா போடுவாரா?...`** restored to source-visible `“...”`.
+- `அய்யா,போட்டுவிட்டார்!` → **`அய்யா, போட்டுவிட்டார்!`**.
+- final mismatched ASCII quote → **`“அய்யா போடமாட்டாரடா?... பூம்!”`**.
+- unresolved P5 fidelity discrepancy — **0**.
 
 ## P2 நிலை
 
