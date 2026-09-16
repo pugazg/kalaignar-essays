@@ -13,8 +13,8 @@ Controlling source: `TVA_BOK_0064124_பெருமூச்சு.pdf`
 - P2 page-level transcription — **COMPLETE / PASS — 83/83 VERIFIED**
 - P3 article assemblies — **COMPLETE / PASS — 13/13**
 - P4 source audit — **COMPLETE / PASS**
-- P5 strict visual-text-fidelity pass — **IN PROGRESS — 78/83 directly rechecked**
-- English — **BLOCKED until Tamil archival layer freezes**
+- P5 strict visual-text-fidelity pass — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
+- English — **UNBLOCKED — E0 planning/setup NEXT**
 - source PDF committed — **No**
 
 ## Printed / catalog identity
@@ -128,25 +128,22 @@ Scans **24–52** were rebuilt after closure review found heuristic baseline seg
 - unresolved blockers — **0**
 - authority — `P4_SOURCE_AUDIT.md`
 
-## P5 current state
+## P5 final state
 
-**IN PROGRESS — 78/83 physical scans directly rechecked.**
+**COMPLETE / PASS — 83/83 physical scans directly rechecked**
 
-- scans 1–23 — reviewed;
-- scans 24–52 — reviewed;
-- scans 53–78 — reviewed;
-- scans 79–83 — pending strict completion;
-- committed P5 page-record printed-text correction events through scan 78 — **75**;
-- current-sync confirmed corrections — scans **59, 61, 62, 75, 76**;
-- printed gathering/signature mark **`[5]`** recorded on scan 67;
-- Article 10 and Article 12 post-propagation exact reconstruction — **PASS**;
-- P5 authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`;
-- Tamil archival layer — **NOT YET FROZEN**.
+- canonical page records — **83/83 VERIFIED**
+- article assemblies — **13/13 STRICT-REVIEWED / FROZEN**
+- article body records — **74/74**
+- unresolved fidelity discrepancies — **0**
+- unresolved historical-glyph ambiguities — **0**
+- physical-copy contamination — **0**
+- scan 83 user-confirmed non-regression heading — **`ஊடுருவி தீட்டியவை:-`**
+- final authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
+- Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**
 
 ## Exact next activity
 
-**Continue P5 with scans 79–83, then run final propagation / reconstruction / closure checks.**
-
-Do not begin English until P5 closes and the Tamil archival layer is frozen.
+**E0 — English translation planning/setup only**, using the 13 frozen strict-reviewed Tamil article assemblies as normal translation authority.
 
 Publication 15 `விடுதலைக் கிளர்ச்சி` remains queued at **P0–P1 COMPLETE / P2 NOT STARTED**.
