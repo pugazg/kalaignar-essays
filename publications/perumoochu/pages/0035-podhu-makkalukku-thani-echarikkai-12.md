@@ -26,6 +26,7 @@ transcription_method: "source-verified P2 transcription; user-supplied perumooch
 - continuation of **பொது மக்களுக்குத் தனி எச்சரிக்கை**.
 - this record is bounded to the exact physical scan after direct source-pixel boundary repair.
 - running header and printed folio furniture are not duplicated into the canonical body text.
+- printed signature / gathering mark **[3]** is visible at the lower left.
 
 ## அச்சு அல்லாத / physical-copy marks
 
@@ -44,6 +45,13 @@ transcription_method: "source-verified P2 transcription; user-supplied perumooch
 - previous heuristic physical-page segmentation was replaced by source-visible scan boundaries.
 - cross-scan word fragments are preserved on the physical scan where printed.
 - guessed completion — **0**.
+
+## P5 strict visual fidelity findings
+
+- direct source-pixel reinspection completed in P5.
+- printed gathering/signature mark was explicitly reconciled with the page record.
+- canonical body-text correction required on this scan — **0**.
+- unresolved P5 fidelity discrepancy — **0**.
 
 ## P2 நிலை
 
