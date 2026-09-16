@@ -35,8 +35,8 @@ The publication contains a publisher preface followed by **13** distinct politic
 - P2 — **COMPLETE / PASS — 83/83 VERIFIED**
 - P3 — **COMPLETE / PASS — 13/13**
 - P4 — **COMPLETE / PASS**
-- P5 — **IN PROGRESS — 78/83 directly rechecked**
-- English — **BLOCKED until Tamil P5 / frozen**
+- P5 — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
+- English — **UNBLOCKED — E0 planning/setup NEXT**
 
 ## P2 final audit
 
@@ -129,40 +129,25 @@ The publication contains a publisher preface followed by **13** distinct politic
 
 **PASS — P5 may begin.**
 
-## P5 strict visual-text-fidelity audit — current state
+## P5 strict visual-text-fidelity audit — final state
 
-**IN PROGRESS — 78/83 physical scans directly rechecked.**
+**COMPLETE / PASS — 83/83 physical scans directly rechecked.**
 
-- scans 1–23 — directly reviewed;
-- scans 24–52 — directly reviewed against repaired physical boundaries;
-- scans 53–78 — directly reviewed;
-- scans 79–83 — pending strict line-by-line completion;
-- cumulative committed P5 page-record printed-text correction events through scan 78 — **75**;
-- current-sync confirmed scan corrections — **59, 61, 62, 75, 76**;
-- scan 67 printed gathering/signature mark **`[5]`** recorded as page furniture;
-- Article 10 exact reconstruction after propagation — **PASS**;
-- Article 12 exact reconstruction after propagation — **PASS**;
-- unresolved P5 closure status — **open only because scans 79–83 and final consolidated ledger / global assembly recheck remain pending**;
-- authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+- canonical page records — **83/83 VERIFIED**
+- article assemblies — **13/13 STRICT-REVIEWED**
+- article body records — **74/74**
+- unresolved P5 fidelity discrepancies — **0**
+- unresolved historical-glyph ambiguities — **0**
+- needs-review / blocked / guessed — **0 / 0 / 0**
+- printed gathering/signature marks `[2]`–`[5]` — recorded as page furniture
+- physical-copy contamination — **0**
+- scan 83 source heading — **`ஊடுருவி தீட்டியவை:-`** — user-confirmed / non-regression
+- complete correction ledger and frozen article blobs — `VISUAL_TEXT_FIDELITY_REVIEW.md`
 
-### Current-sync old → source-visible ledger
+## P5 gate result
 
-- scan 59 — `திருப்பியழைத்து` → **`திருப்பியமைத்து`**;
-- scan 61 — `ஒரே கண்ணால்` → **`ஒரே கண்ணில்`**;
-- scan 62 — `நம் குரல் எழும்பினால்` → **`நம் குரல் எழும் பின்பு`**;
-- scan 75 — page ending `ஆதரிக்கவும்` → **`ஆதரிக்க`**;
-- scan 76 — page opening `⚬ பெரியாருடன்` → **`வும்—பெரியாருடன்`**.
-
-Physical continuation now preserved as **`ஆதரிக்க / வும்—பெரியாருடன்`**.
-
-### Scan 83 user-confirmed non-regression reading
-
-- source heading — **`ஊடுருவி தீட்டியவை:-`**;
-- prior attempted P5 change to `உருகி தீட்டியவை:-` was rejected and reverted;
-- canonical scan-83 page record now preserves **`ஊடுருவி தீட்டியவை:-`** exactly.
+**PASS — Tamil archival layer COMPLETE / STRICT-REVIEWED / FROZEN.**
 
 ## Exact next activity
 
-**Continue P5 with scans 79–83, then propagate any remaining corrections, consolidate the complete correction ledger, and run final all-article reconstruction / closure checks.**
-
-Do not begin English until P5 closes and Tamil is frozen.
+**E0 — English translation planning/setup only.**
