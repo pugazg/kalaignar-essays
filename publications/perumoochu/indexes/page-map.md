@@ -101,9 +101,9 @@ Closure review found that scans **24–52** had initially been partitioned heuri
 
 - P3 — **COMPLETE / PASS — 13/13 article assemblies**
 - P4 — **COMPLETE / PASS**
-- P5 — **IN PROGRESS — 78/83 directly rechecked**
+- P5 — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
 - P5 authority — `../VISUAL_TEXT_FIDELITY_REVIEW.md`
 
 ## Next
 
-**Continue P5 with scans 79–83, then complete final propagation / reconstruction / closure.**
+**E0 — English translation planning/setup only.**
