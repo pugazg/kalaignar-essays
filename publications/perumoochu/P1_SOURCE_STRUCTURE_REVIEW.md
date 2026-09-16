@@ -39,7 +39,7 @@ Separate printed contents page — **not found**.
 4. scans 21–23 — `வாபஸ் வீரர்கள்!`
 5. scans 24–36 — `பொது மக்களுக்குத் தனி எச்சரிக்கை`
 6. scans 37–40 — `சிறுவர்கள்`
-7. scans 41–48 — `அஹிம்சா விலாசம்`
+7. scans 41–48 — `“அஹிம்சா விலாசம்”`
 8. scans 49–52 — `திண்டிவனம் தீரர்காள்!`
 9. scans 53–56 — `சேவல் கூவுகிறது!`
 10. scans 57–62 — `மாடோட்டிகள்!`
@@ -73,6 +73,7 @@ Direct P2 verification established the final source-visible inventory:
 
 - scan 17 — **`மந்திரிகள் குலை நடுக்கம்`**; historical **`லை`** is authoritative;
 - scan 21 — **`வாபஸ் வீரர்கள்!`**;
+- scan 41 — **`“அஹிம்சா விலாசம்”`**; source quotation marks are part of the canonical heading;
 - scan 49 — **`திண்டிவனம் தீரர்காள்!`**;
 - scan 53 — **`சேவல் கூவுகிறது!`**;
 - scan 57 — **`மாடோட்டிகள்!`**;
