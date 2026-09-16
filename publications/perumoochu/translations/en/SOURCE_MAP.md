@@ -60,7 +60,7 @@ Tamil source changes during E0 — **0**.
 Blockers — **0**.
 
 
-## Verified English authorities — Articles 1–6
+## Verified English authorities — Articles 1–11
 
 These are downstream English authorities only. They do not replace the frozen Tamil pins above.
 
@@ -72,34 +72,40 @@ These are downstream English authorities only. They do not replace the frozen Ta
 | 4 | `04-vaapas-veerargal.md` | **Heroes of Retreat!** | `47510c75833b1abd6990871ebc45c9e9eb8ba1db` | T5 VERIFIED |
 | 5 | `05-podhu-makkalukku-thani-echarikkai.md` | **A Special Warning to the Public** | `637fd7fb72126b4b677846839191459616971d60` | T5 VERIFIED |
 | 6 | `06-siruvargal.md` | **Youngsters** | `b2694657339a42c84d932e67ee63684a588245d2` | T5 VERIFIED |
+| 7 | `07-ahimsa-vilasam.md` | **“Ahimsa Vilasam”** | `9a55d55bef9e68c893c42546ac7dac1bb84ffb18` | T5 VERIFIED |
+| 8 | `08-thindivanam-theerargaal.md` | **O Heroes of Tindivanam!** | `557927643d1df347e2f8c03971bd501439973863` | T5 VERIFIED |
+| 9 | `09-seval-koovugirathu.md` | **The Rooster Crows!** | `b4e203789117dba4de9c08f2bc25766e807e2160` | T5 VERIFIED |
+| 10 | `10-maadottigal.md` | **Cattle-Drivers!** | `3f96803c1d0b08d287da2e961298c18e4491ea3f` | T5 VERIFIED |
+| 11 | `11-therthal-kovalan.md` | **Election Kovalan!** | `470e034d7e2bd977dc6e70d61159814090f4110b` | T5 VERIFIED |
 
-Article **6** has **T0 PASS / T1 NEXT**. Articles **7–13** remain **NOT STARTED** in English.
+Articles **1–11** are **T5 VERIFIED**. Articles **12–13** remain **NOT STARTED** in English.
 
 ## Translation checkpoint
 
 - E0 — **COMPLETE / PASS**
-- T0 — **6/13 PASS**
-- T1 — **6/13 COMPLETE**
-- T2 — **6/13 PASS**
-- T3 — **6/13 PASS**
-- T4 — **6/13 PASS**
-- T5 — **6/13 VERIFIED**
-- verified English source comments — **34/34 PASS**
-- Tamil source changes during Articles 1–6 — **0**
+- T0 — **11/13 PASS**
+- T1 — **11/13 COMPLETE**
+- T2 — **11/13 PASS**
+- T3 — **11/13 PASS**
+- T4 — **11/13 PASS**
+- T5 — **11/13 VERIFIED**
+- verified English source comments — **64/64 PASS**
+- Tamil source changes during Articles 1–11 — **0**
 - blockers — **0**
 
-## Article 6 final English authority
+## Articles 7–11 verified English authorities
 
-- frozen Tamil blob — **`14501305ff4935d672444459dfe404d51ac97282`**
-- verified English file — `06-siruvargal.md`
-- verified English title — **Youngsters**
-- verified English blob — **`b2694657339a42c84d932e67ee63684a588245d2`**
-- T0–T5 — **PASS / VERIFIED**
-- source comments — **4/4 PASS**
+- Article 7 — **“Ahimsa Vilasam”** — `9a55d55bef9e68c893c42546ac7dac1bb84ffb18`
+- Article 8 — **O Heroes of Tindivanam!** — `557927643d1df347e2f8c03971bd501439973863`
+- Article 9 — **The Rooster Crows!** — `b4e203789117dba4de9c08f2bc25766e807e2160`
+- Article 10 — **Cattle-Drivers!** — `3f96803c1d0b08d287da2e961298c18e4491ea3f`
+- Article 11 — **Election Kovalan!** — `470e034d7e2bd977dc6e70d61159814090f4110b`
+- T0–T5 — **5/5 PASS / VERIFIED**
+- source comments — **30/30 PASS**
 - blockers — **0**
 
 ## Exact next activity
 
-**Article 7 `“அஹிம்சா விலாசம்”` — T0 source prerequisite.**
+**Article 12 `சிந்தித்துணர்க! சீற்றமுறாதீர்!` — T0 source prerequisite.**
 
-Require live `main` Tamil blob **`12c50fe83ef047ca060669831c82d3e00defc04a`** before creating its English body file.
+Require live `main` Tamil blob **`122f5320d683c35267e23b5a667bfd27100fdd3e`** before creating its English body file.
