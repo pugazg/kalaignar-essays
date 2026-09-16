@@ -36,7 +36,7 @@ The publication contains a publisher preface followed by **13** distinct politic
 - P3 — **COMPLETE / PASS — 13/13**
 - P4 — **COMPLETE / PASS**
 - P5 — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
-- English — **E0 COMPLETE / PASS; Articles 1–5 T0–T5 VERIFIED; Article 6 T0 NEXT**
+- English — **E0 COMPLETE / PASS; Articles 1–5 T0–T5 VERIFIED; Article 6 T0 PASS / T1 NEXT**
 
 ## P2 final audit
 
@@ -182,6 +182,4 @@ Authorities:
 
 ## Exact next activity
 
-**Article 6 `சிறுவர்கள்` — T0 source prerequisite.**
-
-Require exact live-main Tamil blob **`14501305ff4935d672444459dfe404d51ac97282`** before creating Article 6 English body text.
+**Article 6 `சிறுவர்கள்` — T1 close paragraph-by-paragraph English draft.**
