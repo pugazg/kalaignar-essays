@@ -67,3 +67,45 @@ Physical-copy marks on scans 2–3 remain outside the canonical printed-text lay
 **P2 scans 24–46**.
 
 Continue from scan 24 `பொது மக்களுக்குத் தனி எச்சரிக்கை` and verify each scan against rendered source pixels, using `perumoochu.md` only as a baseline.
+
+
+## Batch 002 — scans 24–52
+
+**COMPLETE / PASS**
+
+- records — **29/29**
+- verified — **29**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- unresolved historical-glyph readings — **0**
+- P2 cumulative — **52/83**
+
+### Coverage
+
+| Scans | Unit | Status |
+|---:|---|---|
+| 24–36 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | VERIFIED |
+| 37–40 | `சிறுவர்கள்` | VERIFIED |
+| 41–48 | `“அஹிம்சா விலாசம்”` | VERIFIED |
+| 49–52 | `திண்டிவனம் தீரர்காள்!` | VERIFIED |
+
+### Durable findings
+
+- user-confirmed historical title reading **`மந்திரிகள் குலை நடுக்கம்`** remains authoritative;
+- scan 49 P1 heading **`திண்டிவனம் தீரர்கள்!`** corrected to source-visible **`திண்டிவனம் தீரர்காள்!`**;
+- source-visible quoted heading **`“அஹிம்சா விலாசம்”`** retained;
+- baseline remains non-authoritative; rendered scan pixels control the page records.
+
+### Boundary checks
+
+- 23→24 Article 4→5 — **PASS**
+- 36→37 Article 5→6 — **PASS**
+- 40→41 Article 6→7 — **PASS**
+- 48→49 Article 7→8 — **PASS**
+- 52 closes Article 8 — **PASS**
+- scan 53 is intentionally unopened in this batch.
+
+## Exact next activity
+
+**P2 scans 53–75**.
