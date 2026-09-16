@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after onboarding Publications 14–15. Publication 14 `பெருமூச்சு` is **ACTIVE — P0 PASS; P1 PASS 83/83; P2 NOT STARTED**. Publication 15 `விடுதலைக் கிளர்ச்சி` is **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**. Publications 1–13 remain **RELEASE COMPLETE / FROZEN**.
+Handoff refreshed after Publication 14 `பெருமூச்சு` P2 scans **1–23**. Publication 14 is **ACTIVE — P0 PASS; P1 PASS 83/83; P2 IN PROGRESS 23/83 VERIFIED**. Publication 15 `விடுதலைக் கிளர்ச்சி` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**. Publications 1–13 remain **RELEASE COMPLETE / FROZEN**.
 
 ## Repository state
 
@@ -16,7 +16,7 @@ Publication 12 **`ஆறுமாதக் கடுங்காவல்` — R
 
 Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 4/4 VERIFIED; E6 PASS; E7 PASS**. Final English authorities remain: **Throbbing Youth** `46c70fd2bf702a061d35b45383c8c8e0841852d9`; **Arohara to Annamalai!** `1cfce7827fec69de08c98dd78edf4a06a7216a41`; **Poompuhar** `67649c4db83881840137073bafa24d31062fb86c`; **Lamp of Victory!** `083d514b93d58484f49e3193235b9631d995cd8e`.
 
-Publication 14 **`பெருமூச்சு` — ACTIVE — P0 PASS; P1 PASS 83/83; P2 NOT STARTED; 13 article units**.
+Publication 14 **`பெருமூச்சு` — ACTIVE — P0 PASS; P1 PASS 83/83; P2 IN PROGRESS 23/83 VERIFIED; 13 article units**.
 
 Publication 15 **`விடுதலைக் கிளர்ச்சி` — QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED; introductory verse + 1 main prose work**.
 
@@ -2454,7 +2454,7 @@ Workspace: `publications/perumoochu/`
 - edition — **`இரண்டாம் பதிப்பு—'53`**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 83/83**
-- P2 — **NOT STARTED**
+- P2 — **IN PROGRESS — 23/83 VERIFIED / PASS**
 - historical Tamil glyph workflow — **MANDATORY**
 
 Verified P1 structure:
@@ -2466,6 +2466,33 @@ Verified P1 structure:
 - separate printed contents page — **none**
 
 P1 blockers — **0**.
+
+## P2 progress — scans 1–23
+
+User supplied `perumoochu.md` as a generated baseline. It is **alignment/comparison only**; source scan pixels remain authoritative.
+
+Completed:
+
+- scans 1–4 — front matter / physical-copy evidence — **VERIFIED**
+- scans 5–6 — `மூச்சினிடையே!` — **VERIFIED**
+- scans 7–10 — `பெருமூச்சு` — **VERIFIED**
+- scans 11–16 — `மாளிகை அமைத்திட வாரீர்!` — **VERIFIED**
+- scans 17–20 — `மந்திரிகள் குல நடுக்கம்` — **VERIFIED**
+- scans 21–23 — `வாபஸ் வீரர்கள்!` — **VERIFIED**
+- cumulative P2 — **23/83**
+- needs-review / blocked / guessed — **0 / 0 / 0**
+- unresolved historical-glyph readings — **0**
+
+Durable source-fidelity corrections:
+
+- scan 5 — `விடுகிறர்கள்` → **`விடுகிறார்கள்`**
+- scan 6 — `தறிப்பாக` → **`குறிப்பாக`**
+- scan 13 — `உறக்கக்` → **`உரக்கக்`**
+- scan 17 — `மந்திரிகள் குலை நடுக்கம்` → **`மந்திரிகள் குல நடுக்கம்`**
+- scan 21 — earlier P1 `வாய்ஸ் வீரர்கள்!` → **`வாபஸ் வீரர்கள்!`**
+- scan 22 — `புண்ய பூமியிலே` → **`புண்ணிய பூமியிலே`**
+
+Authority: `publications/perumoochu/P2_TRANSCRIPTION_PROGRESS.md`.
 
 # Publication 15 — விடுதலைக் கிளர்ச்சி
 
@@ -2501,9 +2528,14 @@ P1 blockers — **0**.
 
 ## Exact next activity
 
-**Publication 14 `பெருமூச்சு` — P2 Batch 001, scans 1–5.**
+**Publication 14 `பெருமூச்சு` — continue P2 with scans 24–46.**
 
-Create one canonical page record for each physical scan. Keep physical-copy labels / handwriting / stamps separate from printed text. Apply the historical-glyph audit to every text-bearing scan. Scan 5 begins the publisher preface `மூச்சினிடையே!`.
+- scan 24 begins `பொது மக்களுக்குத் தனி எச்சரிக்கை`;
+- continue one canonical page record per physical scan;
+- use the user-supplied `perumoochu.md` only as a non-authoritative baseline;
+- verify every word, punctuation mark, page boundary and historical Tamil glyph against rendered source pixels;
+- preserve physical-copy marks outside the printed-text layer;
+- do not begin P3 until all 83 P2 page records are closed.
 
-Publication 15 remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** until Publication 14 is advanced or the user explicitly directs parallel processing.
+Publication 15 remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** unless the user explicitly directs parallel processing.
 
