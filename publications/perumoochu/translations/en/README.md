@@ -14,17 +14,17 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - translation identity — **project-created English translation**
 - E0 — **COMPLETE / PASS**
 - T0 — **6/13 PASS**
-- T1 — **5/13 COMPLETE**
-- T2 — **5/13 PASS**
-- T3 — **5/13 PASS**
-- T4 — **5/13 PASS**
-- T5 — **5/13 VERIFIED**
-- English article body files — **5/13**
-- verified English articles — **5/13**
-- ordered source comments in verified English articles — **30/30 PASS**
+- T1 — **6/13 COMPLETE**
+- T2 — **6/13 PASS**
+- T3 — **6/13 PASS**
+- T4 — **6/13 PASS**
+- T5 — **6/13 VERIFIED**
+- English article body files — **6/13**
+- verified English articles — **6/13**
+- ordered source comments in verified English articles — **34/34 PASS**
 - total expected ordered source comments after all 13 T1 drafts — **74**
 - untranslated Tamil body leakage in verified articles — **0**
-- Tamil source changes during Articles 1–5 T0–T5 — **0**
+- Tamil source changes during Articles 1–6 T0–T5 — **0**
 - blockers — **0**
 
 ## Article tracker
@@ -36,7 +36,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 | 3 | `மந்திரிகள் குலை நடுக்கம்` | **Ministers Tremble in Fear** | `d05169cb394df089ef4f4cbdeefd35c3a563451d` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `3d0e2718db290159e717db23890611f461af1149` |
 | 4 | `வாபஸ் வீரர்கள்!` | **Heroes of Retreat!** | `6ddca33c16fa7ee4f22d3f3f666df168b39c5b40` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `47510c75833b1abd6990871ebc45c9e9eb8ba1db` |
 | 5 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | **A Special Warning to the Public** | `64a63aa5061d5f546f71526889af20baf3dd88e8` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `637fd7fb72126b4b677846839191459616971d60` |
-| 6 | `சிறுவர்கள்` | TBD | `14501305ff4935d672444459dfe404d51ac97282` | PASS | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | — |
+| 6 | `சிறுவர்கள்` | **Youngsters** | `14501305ff4935d672444459dfe404d51ac97282` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `b2694657339a42c84d932e67ee63684a588245d2` |
 | 7 | `“அஹிம்சா விலாசம்”` | TBD | `12c50fe83ef047ca060669831c82d3e00defc04a` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | — |
 | 8 | `திண்டிவனம் தீரர்காள்!` | TBD | `bb99717ca388d53bbbffd163f165fc0824ee7f37` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | — |
 | 9 | `சேவல் கூவுகிறது!` | TBD | `9d1a0e39e45cc1cb94419c5b966f8da415233e37` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | — |
@@ -45,13 +45,13 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 | 12 | `சிந்தித்துணர்க! சீற்றமுறாதீர்!` | TBD | `122f5320d683c35267e23b5a667bfd27100fdd3e` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | — |
 | 13 | `பூம்! பூம்! பூம்!` | TBD | `1df4a62971685759e2beb2ffb2b54b0263b26848` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | — |
 
-## Articles 1–5 aggregate
+## Articles 1–6 aggregate
 
-- frozen Tamil pins revalidated immediately before drafting — **5/5 PASS**
-- English source comments — **4 + 6 + 4 + 3 + 13 = 30/30 ordered / PASS**
-- T2 body-correction groups — **1 + 3 + 0 + 2 + 2 = 8**
-- T3 body-correction groups — **0 + 0 + 0 + 0 + 1 = 1**
-- T4 body-correction groups — **1 + 3 + 0 + 0 + 1 = 5**
+- frozen Tamil pins revalidated immediately before drafting — **6/6 PASS**
+- English source comments — **4 + 6 + 4 + 3 + 13 + 4 = 34/34 ordered / PASS**
+- T2 body-correction groups — **1 + 3 + 0 + 2 + 2 + 5 = 13**
+- T3 body-correction groups — **1 total across Articles 1–6**
+- T4 body-correction groups — **5 total across Articles 1–6**; Article 6 added terminology/lexicon decisions without body change
 - omitted Tamil clauses after review — **0**
 - added substantive English claims after review — **0**
 - Tamil body leakage — **0**
@@ -77,4 +77,6 @@ Do not translate from the raw transcript, OCR, web text, alternate editions or s
 
 ## Exact next activity
 
-**Article 6 `சிறுவர்கள்` — T1 close paragraph-by-paragraph English draft.**
+**Article 7 `“அஹிம்சா விலாசம்”` — T0 source prerequisite.**
+
+Require live `main` to match frozen Tamil blob **`12c50fe83ef047ca060669831c82d3e00defc04a`** before any English body draft for Article 7 is created.
