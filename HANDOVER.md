@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after Publication 14 `பெருமூச்சு` P2 scans **1–23**. Publication 14 is **ACTIVE — P0 PASS; P1 PASS 83/83; P2 IN PROGRESS 23/83 VERIFIED**. Publication 15 `விடுதலைக் கிளர்ச்சி` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**. Publications 1–13 remain **RELEASE COMPLETE / FROZEN**.
+Handoff refreshed after Publication 14 `பெருமூச்சு` P2 closure. Publication 14 is **ACTIVE — P0 PASS; P1 PASS 83/83; P2 COMPLETE / PASS 83/83; P3 NEXT**. Publication 15 `விடுதலைக் கிளர்ச்சி` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**. Publications 1–13 remain **RELEASE COMPLETE / FROZEN**.
 
 ## Repository state
 
@@ -16,7 +16,7 @@ Publication 12 **`ஆறுமாதக் கடுங்காவல்` — R
 
 Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 4/4 VERIFIED; E6 PASS; E7 PASS**. Final English authorities remain: **Throbbing Youth** `46c70fd2bf702a061d35b45383c8c8e0841852d9`; **Arohara to Annamalai!** `1cfce7827fec69de08c98dd78edf4a06a7216a41`; **Poompuhar** `67649c4db83881840137073bafa24d31062fb86c`; **Lamp of Victory!** `083d514b93d58484f49e3193235b9631d995cd8e`.
 
-Publication 14 **`பெருமூச்சு` — ACTIVE — P0 PASS; P1 PASS 83/83; P2 IN PROGRESS 23/83 VERIFIED; 13 article units**.
+Publication 14 **`பெருமூச்சு` — ACTIVE — P0 PASS; P1 PASS 83/83; P2 COMPLETE / PASS 83/83; P3 NEXT; 13 article units**.
 
 Publication 15 **`விடுதலைக் கிளர்ச்சி` — QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED; introductory verse + 1 main prose work**.
 
@@ -2454,45 +2454,58 @@ Workspace: `publications/perumoochu/`
 - edition — **`இரண்டாம் பதிப்பு—'53`**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 83/83**
-- P2 — **IN PROGRESS — 23/83 VERIFIED / PASS**
+- P2 — **COMPLETE / PASS — 83/83 VERIFIED**
+- P3 — **NOT STARTED — NEXT GATE**
+- P4–P5 — **NOT STARTED**
 - historical Tamil glyph workflow — **MANDATORY**
 
-Verified P1 structure:
+Verified final article inventory:
 
-- scans 1–4 — cover / title / imprint / physical-copy evidence
-- scans 5–6 — publisher preface `மூச்சினிடையே!`
-- scans 7–80 — **13 article units**
-- scans 81–83 — advertisements / catalogue matter
-- separate printed contents page — **none**
+1. scans 7–10 — `பெருமூச்சு`
+2. scans 11–16 — `மாளிகை அமைத்திட வாரீர்!`
+3. scans 17–20 — `மந்திரிகள் குலை நடுக்கம்`
+4. scans 21–23 — `வாபஸ் வீரர்கள்!`
+5. scans 24–36 — `பொது மக்களுக்குத் தனி எச்சரிக்கை`
+6. scans 37–40 — `சிறுவர்கள்`
+7. scans 41–48 — `“அஹிம்சா விலாசம்”`
+8. scans 49–52 — `திண்டிவனம் தீரர்காள்!`
+9. scans 53–56 — `சேவல் கூவுகிறது!`
+10. scans 57–62 — `மாடோட்டிகள்!`
+11. scans 63–70 — `தேர்தல் கோவலன்!`
+12. scans 71–76 — `சிந்தித்துணர்க! சீற்றமுறாதீர்!`
+13. scans 77–80 — `பூம்! பூம்! பூம்!`
 
-P1 blockers — **0**.
+Other structure:
 
-## P2 progress — scans 1–23
+- scans 1–4 — front matter / physical-copy evidence;
+- scans 5–6 — publisher preface `மூச்சினிடையே!`;
+- scans 81–83 — advertisements / publisher catalogue;
+- separate printed contents page — **none**.
 
-User supplied `perumoochu.md` as a generated baseline. It is **alignment/comparison only**; source scan pixels remain authoritative.
+## P2 closure
 
-Completed:
+**COMPLETE / PASS — 83/83**
 
-- scans 1–4 — front matter / physical-copy evidence — **VERIFIED**
-- scans 5–6 — `மூச்சினிடையே!` — **VERIFIED**
-- scans 7–10 — `பெருமூச்சு` — **VERIFIED**
-- scans 11–16 — `மாளிகை அமைத்திட வாரீர்!` — **VERIFIED**
-- scans 17–20 — `மந்திரிகள் குலை நடுக்கம்` — **VERIFIED**
-- scans 21–23 — `வாபஸ் வீரர்கள்!` — **VERIFIED**
-- cumulative P2 — **23/83**
+- canonical page records — **83/83**
+- missing / duplicate — **0 / 0**
 - needs-review / blocked / guessed — **0 / 0 / 0**
 - unresolved historical-glyph readings — **0**
+- terminal scan 83 — **VERIFIED**
+- source PDF committed — **No**
 
-Durable source-fidelity corrections:
+Important durable corrections:
 
-- scan 5 — `விடுகிறர்கள்` → **`விடுகிறார்கள்`**
-- scan 6 — `தறிப்பாக` → **`குறிப்பாக`**
-- scan 13 — `உறக்கக்` → **`உரக்கக்`**
-- scan 17 — user-confirmed historical **`லை`** glyph: **`மந்திரிகள் குலை நடுக்கம்`**
-- scan 21 — earlier P1 `வாய்ஸ் வீரர்கள்!` → **`வாபஸ் வீரர்கள்!`**
-- scan 22 — `புண்ய பூமியிலே` → **`புண்ணிய பூமியிலே`**
+- historical **`லை`** in **`மந்திரிகள் குலை நடுக்கம்`** is authoritative;
+- `வாபஸ் வீரர்கள்!`, `திண்டிவனம் தீரர்காள்!`, `சேவல் கூவுகிறது!`, `மாடோட்டிகள்!`, `தேர்தல் கோவலன்!`, and `சிந்தித்துணர்க! சீற்றமுறாதீர்!` are the final source-visible headings;
+- scans **24–52** were rebuilt to exact physical PDF boundaries after heuristic baseline segmentation was detected during P2 closure;
+- physical-boundary repair authority — **`ebe8b2146eef22ac203f8014367cb78dea2d4b76`**;
+- scans 81–83 catalogue matter was read directly from source pixels rather than baseline price-column noise.
 
-Authority: `publications/perumoochu/P2_TRANSCRIPTION_PROGRESS.md`.
+Authority:
+
+- `publications/perumoochu/P2_TRANSCRIPTION_PROGRESS.md`
+- `publications/perumoochu/indexes/page-map.md`
+- `publications/perumoochu/audit.md`
 
 # Publication 15 — விடுதலைக் கிளர்ச்சி
 
@@ -2528,14 +2541,18 @@ P1 blockers — **0**.
 
 ## Exact next activity
 
-**Publication 14 `பெருமூச்சு` — continue P2 with scans 24–46.**
+**Publication 14 `பெருமூச்சு` — P3 article assembly.**
 
-- scan 24 begins `பொது மக்களுக்குத் தனி எச்சரிக்கை`;
-- continue one canonical page record per physical scan;
-- use the user-supplied `perumoochu.md` only as a non-authoritative baseline;
-- verify every word, punctuation mark, page boundary and historical Tamil glyph against rendered source pixels;
-- preserve physical-copy marks outside the printed-text layer;
-- do not begin P3 until all 83 P2 page records are closed.
+Assemble **13/13** reading-copy articles strictly from the canonical P2 page records.
+
+Rules:
+
+- P2 page records are the sole assembly authority;
+- preserve source wording, spelling, punctuation and historical-glyph resolutions;
+- keep page-boundary comments if useful;
+- do not normalize or paraphrase;
+- confirm no canonical P2 body text is omitted and no unsupported text is added;
+- create/update a P3 progress/review authority;
+- after 13/13 P3 PASS, next gate is P4 source/completeness audit.
 
 Publication 15 remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** unless the user explicitly directs parallel processing.
-
