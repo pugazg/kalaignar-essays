@@ -62,6 +62,35 @@ Physical-copy marks on scans 2–3 remain outside the canonical printed-text lay
 - 23 closes Article 4 — **PASS**
 - scan 24 is intentionally unopened in Batch 001.
 
+## Batch 002 — scans 24–52
+
+**COMPLETE / PASS — reconstructed closure summary**
+
+- records — **29/29**
+- verified — **29**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- unresolved historical-glyph readings — **0**
+- cumulative after Batch 002 — **52/83**
+
+### Coverage
+
+| Scans | Unit | Status |
+|---:|---|---|
+| 24–36 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | VERIFIED |
+| 37–40 | `சிறுவர்கள்` | VERIFIED |
+| 41–48 | `“அஹிம்சா விலாசம்”` | VERIFIED |
+| 49–52 | `திண்டிவனம் தீரர்காள்!` | VERIFIED |
+
+### Closure / boundary authority
+
+The current 29 canonical records are the post-repair records rebuilt from directly verified physical PDF boundaries. The authoritative repair commit is:
+
+`ebe8b2146eef22ac203f8014367cb78dea2d4b76`
+
+This summary restores the missing Batch-002 control entry; it does **not** alter canonical page text or recreate superseded heuristic segmentation.
+
 ## Batch 003 — scans 53–83
 
 **COMPLETE / PASS**
