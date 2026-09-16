@@ -46,7 +46,7 @@ Because they opposed Hindi, thousands of comrades, mothers and tender children r
 
 At a time when Dravidians have not forgotten the greatness of their culture, in these days when thousands upon thousands of sturdy young men stand ready to offer their lives for the Dravidian language, T. T. K. says: Study Hindi. We ask you to think how wrongly he must have judged the Dravidian people to be able to say such a thing.
 
-“The Dravidian became a slave to the water-pot and prayer-beads of those who, driving cattle and goats, entered the Gangetic plain two thousand years ago!” The twentieth-century representative of that lineage has now come driving a cow before the suffering Dravidian, who is engaged in the sacred struggle to smash that chain of slavery, and with audacity and arrogance asks: lease your cultivated land to us again for another five years.
+“The Dravidian became a slave to the *kamandala* and prayer-beads of those who, driving cattle and goats, entered the Gangetic plain two thousand years ago!” The twentieth-century representative of that lineage has now come driving a cow before the suffering Dravidian, who is engaged in the sacred struggle to smash that chain of slavery, and with audacity and arrogance asks: lease your cultivated land to us again for another five years.
 
 <!-- Tamil source: scan 46 / printed 44 -->
 
