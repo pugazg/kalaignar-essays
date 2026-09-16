@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பெருமூச்சு / P2 scans 24–46
+# NEXT CHAT PROMPT — பெருமூச்சு / P3 article assembly
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -16,126 +16,97 @@ Controlling source:
 
 `TVA_BOK_0064124_பெருமூச்சு.pdf`
 
-Source identity:
-
-- physical scans — **83**
-- bytes — **122,052,025**
-- SHA-256 — **`18947f2deb1ece71b03b59c1e52d9f483a45baa5bf436ab2c3e89a48b5f2dc38`**
-- PDF version — **1.4**
-- usable parsed text layer — **none**
-- source authority — **rendered scan pixels**
-- source PDF committed — **No**
-
-Printed/catalog identity:
-
-- catalog title — **`பெருமூச்சு`**
-- source cover/title form — **`பெருமூச்சு!`**
-- printed author — **`மு. கருணாநிதி`**
-- publisher — **`இளங்கோ பதிப்பகம், மாயூரம்`**
-- edition — **`இரண்டாம் பதிப்பு—'53`**
-
 ## Durable state
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 83/83**
-- P2 — **IN PROGRESS — 23/83 VERIFIED / PASS**
-- P3–P5 — **NOT STARTED**
+- P2 — **COMPLETE / PASS — 83/83 VERIFIED**
+- P3 — **NOT STARTED — ACTIVE NEXT GATE**
+- P4–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil P5 / frozen**
-- P2 needs-review / blocked / guessed — **0 / 0 / 0**
+- missing / duplicate P2 records — **0 / 0**
+- needs-review / blocked / guessed — **0 / 0 / 0**
 - unresolved historical-glyph readings — **0**
 
-P2 authority:
+P2 authorities:
 
-`publications/perumoochu/P2_TRANSCRIPTION_PROGRESS.md`
+- `publications/perumoochu/P2_TRANSCRIPTION_PROGRESS.md`
+- `publications/perumoochu/indexes/page-map.md`
+- `publications/perumoochu/audit.md`
 
-Completed P2 coverage:
+Physical-boundary repair authority for scans 24–52:
 
-- scans **1–4** — front matter / physical-copy evidence
-- scans **5–6** — `மூச்சினிடையே!`
-- scans **7–10** — `பெருமூச்சு`
-- scans **11–16** — `மாளிகை அமைத்திட வாரீர்!`
-- scans **17–20** — `மந்திரிகள் குலை நடுக்கம்`
-- scans **21–23** — `வாபஸ் வீரர்கள்!`
+`ebe8b2146eef22ac203f8014367cb78dea2d4b76`
 
-Durable source-fidelity corrections:
+## Final article inventory
 
-- scan 5 — `விடுகிறர்கள்` → **`விடுகிறார்கள்`**
-- scan 6 — `தறிப்பாக` → **`குறிப்பாக`**
-- scan 13 — `உறக்கக்` → **`உரக்கக்`**
-- scan 17 — user-confirmed historical **`லை`** glyph: **`மந்திரிகள் குலை நடுக்கம்`**
-- scan 21 — earlier P1 `வாய்ஸ் வீரர்கள்!` → **`வாபஸ் வீரர்கள்!`**
-- scan 22 — `புண்ய பூமியிலே` → **`புண்ணிய பூமியிலே`**
+1. scans **7–10** — `பெருமூச்சு`
+2. scans **11–16** — `மாளிகை அமைத்திட வாரீர்!`
+3. scans **17–20** — `மந்திரிகள் குலை நடுக்கம்`
+4. scans **21–23** — `வாபஸ் வீரர்கள்!`
+5. scans **24–36** — `பொது மக்களுக்குத் தனி எச்சரிக்கை`
+6. scans **37–40** — `சிறுவர்கள்`
+7. scans **41–48** — `“அஹிம்சா விலாசம்”`
+8. scans **49–52** — `திண்டிவனம் தீரர்காள்!`
+9. scans **53–56** — `சேவல் கூவுகிறது!`
+10. scans **57–62** — `மாடோட்டிகள்!`
+11. scans **63–70** — `தேர்தல் கோவலன்!`
+12. scans **71–76** — `சிந்தித்துணர்க! சீற்றமுறாதீர்!`
+13. scans **77–80** — `பூம்! பூம்! பூம்!`
 
-## User baseline
+## Permanent non-regression readings
 
-The user supplied:
+- **`மந்திரிகள் குலை நடுக்கம்`** — historical `லை` is authoritative; never regress to `குல நடுக்கம்`.
+- **`வாபஸ் வீரர்கள்!`**
+- **`திண்டிவனம் தீரர்காள்!`**
+- **`சேவல் கூவுகிறது!`**
+- **`மாடோட்டிகள்!`**
+- **`தேர்தல் கோவலன்!`**
+- **`சிந்தித்துணர்க! சீற்றமுறாதீர்!`**
 
-`perumoochu.md`
+Retired earlier P1 readings are correction-history only.
 
-Use it as a **generated transcription baseline only**.
+## Exact activity — P3
 
-It may help with alignment and candidate wording, but it is **not source authority**. Every canonical reading must be verified against the rendered PDF pixels.
+Create all **13 article reading copies** under:
 
-Do not import a baseline reading merely because it is linguistically plausible.
+`publications/perumoochu/articles/`
 
-## Permanent source rules
+Assembly rules:
 
-No OCR, web copy, Wikisource, Tamil Digital Library, alternate edition, remembered quotation, or contextual completion may control the Tamil text.
+- canonical P2 page records are the **sole authority**;
+- concatenate only the body text from the verified page records for each article;
+- preserve source wording, spelling, punctuation and historical-glyph resolutions;
+- page-boundary comments may be retained;
+- do not silently normalize cross-page words;
+- do not use the generated baseline, PDF, OCR, web or alternate edition as an assembly authority;
+- omit no canonical P2 body text;
+- add no unsupported body text;
+- record provenance from every contributing page record.
 
-Historical Tamil rule:
+Create/update:
 
-`HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+`publications/perumoochu/P3_PROGRESS.md`
 
-Mandatory character-family audit:
+For every article record:
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+- title;
+- scan range;
+- P2 record coverage;
+- omitted text count;
+- unsupported addition count;
+- normalization/paraphrase count;
+- unresolved assembly issues;
+- PASS/FAIL.
 
-Read historical character identity from source pixels; preserve source vocabulary, spelling, grammar and punctuation.
+After all **13/13** article assemblies pass, mark P3 **COMPLETE / PASS** and update README, audit, root HANDOVER, and this prompt.
 
-## P1 structure relevant to next range
+## Next gate after P3
 
-- scans **24–36** — `பொது மக்களுக்குத் தனி எச்சரிக்கை`
-- scans **37–40** — `சிறுவர்கள்`
-- scans **41–48** — `அஹிம்சா விலாசம்`
+**P4 — publication source/completeness audit.**
 
-Therefore scans **24–46** cover:
-
-- all of Article 5 scans 24–36;
-- all of Article 6 scans 37–40;
-- scans 41–46 of Article 7 `அஹிம்சா விலாசம்`.
-
-## Exact activity
-
-Process **P2 scans 24–46**.
-
-For every physical scan:
-
-- create exactly one canonical page record;
-- preserve visible printed folio only when directly visible;
-- transcribe exact printed text;
-- keep physical-copy marks separate;
-- compare the generated baseline against source pixels;
-- record material baseline→source corrections;
-- perform the mandatory historical-glyph audit;
-- preserve cross-scan word / sentence boundaries;
-- use `verified` only after direct source-pixel comparison;
-- do not guess.
-
-Update:
-
-- `P2_TRANSCRIPTION_PROGRESS.md`
-- publication `README.md`
-- `indexes/page-map.md`
-- `audit.md`
-- root `HANDOVER.md`
-- this prompt
-
-after the batch.
+Do not begin P5 or English before P4 passes.
 
 ## Publication 15
 
-`விடுதலைக் கிளர்ச்சி` remains **QUEUED / P0–P1 COMPLETE / P2 NOT STARTED**.
-
-Do not begin Publication 15 P2 unless the user explicitly directs parallel processing.
-
-Stop after scan **46** unless the user explicitly asks to continue further.
+`விடுதலைக் கிளர்ச்சி` remains **QUEUED / P0–P1 COMPLETE / P2 NOT STARTED** unless the user explicitly directs parallel processing.
