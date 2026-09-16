@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after Publication 14 `பெருமூச்சு` Articles 7–11 T5. Publication 14 is **TAMIL COMPLETE / FROZEN — P0–P5 PASS; English E0 PASS; Articles 1–11 T5 VERIFIED; Article 12 T0 NEXT**. Publication 15 `விடுதலைக் கிளர்ச்சி` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**. Publications 1–13 remain **RELEASE COMPLETE / FROZEN**.
+Handoff refreshed after Publication 14 `பெருமூச்சு` Articles 12–13 T5. Publication 14 is **TAMIL COMPLETE / FROZEN — P0–P5 PASS; English E0 PASS; Articles 1–13 T5 VERIFIED; E6 NEXT**. Publication 15 `விடுதலைக் கிளர்ச்சி` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**. Publications 1–13 remain **RELEASE COMPLETE / FROZEN**.
 
 ## Repository state
 
@@ -16,7 +16,7 @@ Publication 12 **`ஆறுமாதக் கடுங்காவல்` — R
 
 Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 4/4 VERIFIED; E6 PASS; E7 PASS**. Final English authorities remain: **Throbbing Youth** `46c70fd2bf702a061d35b45383c8c8e0841852d9`; **Arohara to Annamalai!** `1cfce7827fec69de08c98dd78edf4a06a7216a41`; **Poompuhar** `67649c4db83881840137073bafa24d31062fb86c`; **Lamp of Victory!** `083d514b93d58484f49e3193235b9631d995cd8e`.
 
-Publication 14 **`பெருமூச்சு` — TAMIL COMPLETE / FROZEN — P0–P5 PASS; English E0 PASS; T0–T5 11/13 VERIFIED; Article 12 `சிந்தித்துணர்க! சீற்றமுறாதீர்!` T0 NEXT**.
+Publication 14 **`பெருமூச்சு` — TAMIL COMPLETE / FROZEN — P0–P5 PASS; English E0 PASS; T0–T5 13/13 VERIFIED; E6 NEXT**.
 
 Publication 15 **`விடுதலைக் கிளர்ச்சி` — QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED; introductory verse + 1 main prose work**.
 
@@ -2482,14 +2482,14 @@ Tamil authorities:
 ## English state
 
 - E0 planning/setup — **COMPLETE / PASS**
-- T0 — **11/13 PASS**
-- T1 — **11/13 COMPLETE**
-- T2 — **11/13 PASS**
-- T3 — **11/13 PASS**
-- T4 — **11/13 PASS**
-- T5 — **11/13 VERIFIED**
-- English article files — **11/13**
-- ordered source comments in verified articles — **64/64 PASS**
+- T0 — **13/13 PASS**
+- T1 — **13/13 COMPLETE**
+- T2 — **13/13 PASS**
+- T3 — **13/13 PASS**
+- T4 — **13/13 PASS**
+- T5 — **13/13 VERIFIED**
+- English article files — **13/13**
+- ordered source comments in verified articles — **74/74 PASS**
 - omitted Tamil clauses after bilingual review — **0**
 - added substantive English claims after bilingual review — **0**
 - untranslated Tamil body leakage — **0**
@@ -2509,6 +2509,8 @@ Verified English authorities:
 9. **The Rooster Crows!** — `publications/perumoochu/translations/en/09-seval-koovugirathu.md` — `b4e203789117dba4de9c08f2bc25766e807e2160`
 10. **Cattle-Drivers!** — `publications/perumoochu/translations/en/10-maadottigal.md` — `3f96803c1d0b08d287da2e961298c18e4491ea3f`
 11. **Election Kovalan!** — `publications/perumoochu/translations/en/11-therthal-kovalan.md` — `470e034d7e2bd977dc6e70d61159814090f4110b`
+12. **Think and Understand! Do Not Grow Angry!** — `publications/perumoochu/translations/en/12-sindhiththunarga-seetramuraadheer.md` — `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1`
+13. **Boom! Boom! Boom!** — `publications/perumoochu/translations/en/13-boom-boom-boom.md` — `91ec043f5f47d6fe388d09987505d9cf41a788f2`
 
 English controls:
 
@@ -2520,19 +2522,17 @@ English controls:
 
 ## Exact next activity
 
-**Publication 14 `பெருமூச்சு` — Article 12 `சிந்தித்துணர்க! சீற்றமுறாதீர்!` T0 source prerequisite.**
+**Publication 14 `பெருமூச்சு` — E6 publication-wide English consistency review across all 13 T5-verified articles.**
 
-Articles **7–11 are T0–T5 VERIFIED**:
+Articles **12–13 are T0–T5 VERIFIED**:
 
-- **“Ahimsa Vilasam”** — `9a55d55bef9e68c893c42546ac7dac1bb84ffb18`
-- **O Heroes of Tindivanam!** — `557927643d1df347e2f8c03971bd501439973863`
-- **The Rooster Crows!** — `b4e203789117dba4de9c08f2bc25766e807e2160`
-- **Cattle-Drivers!** — `3f96803c1d0b08d287da2e961298c18e4491ea3f`
-- **Election Kovalan!** — `470e034d7e2bd977dc6e70d61159814090f4110b`
-- source comments — **30/30 PASS**
+- **Think and Understand! Do Not Grow Angry!** — `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1`
+- **Boom! Boom! Boom!** — `91ec043f5f47d6fe388d09987505d9cf41a788f2`
+- source comments — **10/10 PASS**
+- aggregate source comments — **74/74 PASS**
 - blockers — **0**
 
-Require live `main` Article 12 Tamil blob **`122f5320d683c35267e23b5a667bfd27100fdd3e`** before creating the Article 12 English body file.
+E7 release closeout remains downstream of E6.
 
 Publication 15 remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** unless explicitly redirected.
 
@@ -2570,8 +2570,6 @@ P1 blockers — **0**.
 
 ## Exact next activity
 
-**Publication 14 `பெருமூச்சு` — Article 12 `சிந்தித்துணர்க! சீற்றமுறாதீர்!` T0 source prerequisite.**
-
-Require live `main` Tamil blob **`122f5320d683c35267e23b5a667bfd27100fdd3e`** before creating the Article 12 English body file.
+**Publication 14 `பெருமூச்சு` — E6 publication-wide English consistency review across all 13 T5-verified articles.**
 
 Publication 15 remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** unless the user explicitly redirects work.

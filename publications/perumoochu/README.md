@@ -14,7 +14,7 @@ Controlling source: `TVA_BOK_0064124_பெருமூச்சு.pdf`
 - P3 article assemblies — **COMPLETE / PASS — 13/13**
 - P4 source audit — **COMPLETE / PASS**
 - P5 strict visual-text-fidelity pass — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
-- English — **E0 COMPLETE / PASS; Articles 1–11 T0–T5 VERIFIED; Article 12 T0 NEXT**
+- English — **E0 COMPLETE / PASS; Articles 1–13 T0–T5 VERIFIED; E6 NEXT**
 - source PDF committed — **No**
 
 ## Printed / catalog identity
@@ -145,14 +145,14 @@ Scans **24–52** were rebuilt after closure review found heuristic baseline seg
 ## English progress
 
 - E0 — **COMPLETE / PASS**
-- T0 — **11/13 PASS**
-- T1 — **11/13 COMPLETE**
-- T2 — **11/13 PASS**
-- T3 — **11/13 PASS**
-- T4 — **11/13 PASS**
-- T5 — **11/13 VERIFIED**
-- verified English article files — **11/13**
-- verified ordered Tamil-source comments — **64/64 PASS**
+- T0 — **13/13 PASS**
+- T1 — **13/13 COMPLETE**
+- T2 — **13/13 PASS**
+- T3 — **13/13 PASS**
+- T4 — **13/13 PASS**
+- T5 — **13/13 VERIFIED**
+- verified English article files — **13/13**
+- verified ordered Tamil-source comments — **74/74 PASS**
 - omitted Tamil clauses after review — **0**
 - added substantive English claims after review — **0**
 - untranslated Tamil body leakage — **0**
@@ -162,7 +162,7 @@ Scans **24–52** were rebuilt after closure review found heuristic baseline seg
 - review ledger — `translations/en/TRANSLATION_REVIEW.md`
 - verified English authority map — `translations/en/SOURCE_MAP.md`
 
-Verified English Articles 1–11:
+Verified English Articles 1–13:
 
 1. **A Deep Sigh** — `8a441b0c4d33aacd2e61795800de2f95c4804e81`
 2. **Come, Let Us Build the Mansion!** — `ef0be10af34519b868634de64fc67bfde53bc5fb`
@@ -175,11 +175,11 @@ Verified English Articles 1–11:
 9. **The Rooster Crows!** — `b4e203789117dba4de9c08f2bc25766e807e2160`
 10. **Cattle-Drivers!** — `3f96803c1d0b08d287da2e961298c18e4491ea3f`
 11. **Election Kovalan!** — `470e034d7e2bd977dc6e70d61159814090f4110b`
+12. **Think and Understand! Do Not Grow Angry!** — `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1`
+13. **Boom! Boom! Boom!** — `91ec043f5f47d6fe388d09987505d9cf41a788f2`
 
 ## Exact next activity
 
-**Article 12 `சிந்தித்துணர்க! சீற்றமுறாதீர்!` — T0 source prerequisite.**
-
-Require live `main` Tamil blob **`122f5320d683c35267e23b5a667bfd27100fdd3e`** before creating the English body file.
+**E6 — publication-wide English consistency review across all 13 T5-verified articles.**
 
 Publication 15 `விடுதலைக் கிளர்ச்சி` remains queued at **P0–P1 COMPLETE / P2 NOT STARTED**.

@@ -39,8 +39,8 @@ The 13 strict-reviewed Tamil assemblies below are the sole normal translation au
 | 9 | `சேவல் கூவுகிறது!` | 53–56 | `articles/09-seval-koovugirathu.md` | `9d1a0e39e45cc1cb94419c5b966f8da415233e37` | **The Rooster Crows! / T5 VERIFIED** |
 | 10 | `மாடோட்டிகள்!` | 57–62 | `articles/10-maadottigal.md` | `ffdce8f466928a5484cc155dbc841394fd6db30c` | **Cattle-Drivers! / T5 VERIFIED** |
 | 11 | `தேர்தல் கோவலன்!` | 63–70 | `articles/11-therthal-kovalan.md` | `8b01451de21342eb7df91b3b7b72d5d6d857c67f` | **Election Kovalan! / T5 VERIFIED** |
-| 12 | `சிந்தித்துணர்க! சீற்றமுறாதீர்!` | 71–76 | `articles/12-sindhiththunarga-seetramuraadheer.md` | `122f5320d683c35267e23b5a667bfd27100fdd3e` | TBD / NOT STARTED |
-| 13 | `பூம்! பூம்! பூம்!` | 77–80 | `articles/13-boom-boom-boom.md` | `1df4a62971685759e2beb2ffb2b54b0263b26848` | TBD / NOT STARTED |
+| 12 | `சிந்தித்துணர்க! சீற்றமுறாதீர்!` | 71–76 | `articles/12-sindhiththunarga-seetramuraadheer.md` | `122f5320d683c35267e23b5a667bfd27100fdd3e` | **Think and Understand! Do Not Grow Angry! / T5 VERIFIED** |
+| 13 | `பூம்! பூம்! பூம்!` | 77–80 | `articles/13-boom-boom-boom.md` | `1df4a62971685759e2beb2ffb2b54b0263b26848` | **Boom! Boom! Boom! / T5 VERIFIED** |
 
 Translation order is fixed to source structure: **1 → 2 → 3 → 4 → 5 → 6 → 7 → 8 → 9 → 10 → 11 → 12 → 13**.
 
@@ -119,7 +119,7 @@ After all 13/13 articles are T5 verified:
 - Tamil source changes during E0 — **0**;
 - blockers — **0**.
 
-## Articles 1–11 progress — T0–T5 COMPLETE / VERIFIED
+## Articles 1–13 progress — T0–T5 COMPLETE / VERIFIED
 
 - Article 1 — **A Deep Sigh** — verified English blob `8a441b0c4d33aacd2e61795800de2f95c4804e81`
 - Article 2 — **Come, Let Us Build the Mansion!** — verified English blob `ef0be10af34519b868634de64fc67bfde53bc5fb`
@@ -132,7 +132,9 @@ After all 13/13 articles are T5 verified:
 - Article 9 — **The Rooster Crows!** — verified English blob `b4e203789117dba4de9c08f2bc25766e807e2160`
 - Article 10 — **Cattle-Drivers!** — verified English blob `3f96803c1d0b08d287da2e961298c18e4491ea3f`
 - Article 11 — **Election Kovalan!** — verified English blob `470e034d7e2bd977dc6e70d61159814090f4110b`
-- ordered source comments — **64/64 PASS**
+- Article 12 — **Think and Understand! Do Not Grow Angry!** — verified English blob `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1`
+- Article 13 — **Boom! Boom! Boom!** — verified English blob `91ec043f5f47d6fe388d09987505d9cf41a788f2`
+- ordered source comments — **74/74 PASS**
 - omitted Tamil clauses after bilingual review — **0**
 - added substantive English claims after bilingual review — **0**
 - Tamil source changes — **0**
@@ -161,8 +163,28 @@ Verified English authorities:
 4. Article 10 — **Cattle-Drivers!** — `3f96803c1d0b08d287da2e961298c18e4491ea3f`
 5. Article 11 — **Election Kovalan!** — `470e034d7e2bd977dc6e70d61159814090f4110b`
 
+## Articles 12–13 closure checkpoint
+
+- T0 — **2/2 PASS**
+- T1 — **2/2 COMPLETE**
+- T2 — **2/2 PASS**
+- T3 — **2/2 PASS**
+- T4 — **2/2 PASS**
+- T5 — **2/2 VERIFIED**
+- source comments — **10/10 PASS**
+- untranslated Tamil body leakage — **0**
+- omitted Tamil clauses after bilingual review — **0**
+- added substantive English claims after bilingual review — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+
+Verified English authorities:
+
+1. Article 12 — **Think and Understand! Do Not Grow Angry!** — `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1`
+2. Article 13 — **Boom! Boom! Boom!** — `91ec043f5f47d6fe388d09987505d9cf41a788f2`
+
 ## Exact next activity
 
-**Article 12 `சிந்தித்துணர்க! சீற்றமுறாதீர்!` — T0 source prerequisite.**
+**E6 — publication-wide English consistency review across all 13 T5-verified articles.**
 
-Require live `main` to match frozen Tamil blob **`122f5320d683c35267e23b5a667bfd27100fdd3e`** before creating the Article 12 English body file.
+E7 release closeout remains downstream of E6.

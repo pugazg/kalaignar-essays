@@ -60,7 +60,7 @@ Tamil source changes during E0 — **0**.
 Blockers — **0**.
 
 
-## Verified English authorities — Articles 1–11
+## Verified English authorities — Articles 1–13
 
 These are downstream English authorities only. They do not replace the frozen Tamil pins above.
 
@@ -77,20 +77,22 @@ These are downstream English authorities only. They do not replace the frozen Ta
 | 9 | `09-seval-koovugirathu.md` | **The Rooster Crows!** | `b4e203789117dba4de9c08f2bc25766e807e2160` | T5 VERIFIED |
 | 10 | `10-maadottigal.md` | **Cattle-Drivers!** | `3f96803c1d0b08d287da2e961298c18e4491ea3f` | T5 VERIFIED |
 | 11 | `11-therthal-kovalan.md` | **Election Kovalan!** | `470e034d7e2bd977dc6e70d61159814090f4110b` | T5 VERIFIED |
+| 12 | `12-sindhiththunarga-seetramuraadheer.md` | **Think and Understand! Do Not Grow Angry!** | `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1` | T5 VERIFIED |
+| 13 | `13-boom-boom-boom.md` | **Boom! Boom! Boom!** | `91ec043f5f47d6fe388d09987505d9cf41a788f2` | T5 VERIFIED |
 
-Articles **1–11** are **T5 VERIFIED**. Articles **12–13** remain **NOT STARTED** in English.
+Articles **1–13** are **T5 VERIFIED**. No article-level T0–T5 work remains.
 
 ## Translation checkpoint
 
 - E0 — **COMPLETE / PASS**
-- T0 — **11/13 PASS**
-- T1 — **11/13 COMPLETE**
-- T2 — **11/13 PASS**
-- T3 — **11/13 PASS**
-- T4 — **11/13 PASS**
-- T5 — **11/13 VERIFIED**
-- verified English source comments — **64/64 PASS**
-- Tamil source changes during Articles 1–11 — **0**
+- T0 — **13/13 PASS**
+- T1 — **13/13 COMPLETE**
+- T2 — **13/13 PASS**
+- T3 — **13/13 PASS**
+- T4 — **13/13 PASS**
+- T5 — **13/13 VERIFIED**
+- verified English source comments — **74/74 PASS**
+- Tamil source changes during Articles 1–13 — **0**
 - blockers — **0**
 
 ## Articles 7–11 verified English authorities
@@ -104,8 +106,14 @@ Articles **1–11** are **T5 VERIFIED**. Articles **12–13** remain **NOT START
 - source comments — **30/30 PASS**
 - blockers — **0**
 
+## Articles 12–13 verified English authorities
+
+- Article 12 — **Think and Understand! Do Not Grow Angry!** — `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1`
+- Article 13 — **Boom! Boom! Boom!** — `91ec043f5f47d6fe388d09987505d9cf41a788f2`
+- T0–T5 — **2/2 PASS / VERIFIED**
+- source comments — **10/10 PASS**
+- blockers — **0**
+
 ## Exact next activity
 
-**Article 12 `சிந்தித்துணர்க! சீற்றமுறாதீர்!` — T0 source prerequisite.**
-
-Require live `main` Tamil blob **`122f5320d683c35267e23b5a667bfd27100fdd3e`** before creating its English body file.
+**E6 — publication-wide English consistency review across all 13 T5-verified articles.**

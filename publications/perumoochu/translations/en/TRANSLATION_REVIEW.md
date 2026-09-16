@@ -612,29 +612,138 @@ T3/T4 body authority — `0aafa3aa31697feeda6ed6cbb4cb61791d7fa31b`
 - unresolved translation choices — **0**
 - blockers — **0**
 
-# Articles 1–11 aggregate checkpoint
+# Article 12 — `சிந்தித்துணர்க! சீற்றமுறாதீர்!` — T0–T5 VERIFIED
 
-- T0 — **11/11 PASS**
-- T1 — **11/11 COMPLETE**
-- T2 — **11/11 PASS**
-- T3 — **11/11 PASS**
-- T4 — **11/11 PASS**
-- T5 — **11/11 VERIFIED**
-- ordered source comments — **64/64 PASS**
+- frozen Tamil blob — `122f5320d683c35267e23b5a667bfd27100fdd3e`
+- source scans — **71–76**
+- T0 — **PASS**
+- T1 — **COMPLETE**
+- T1 English blob — `9b05002ac270e5a43440012ae9b6cdeeea7dddf3`
+- verified title — **Think and Understand! Do Not Grow Angry!**
+- ordered source comments — **6/6 PASS**
+
+### T2 bilingual fidelity review — PASS
+
+T2 English blob — `3a28bd4d7ed0b207d6ec7f05e1b71b85e2330fc3`
+
+Body correction groups — **3**:
+
+1. `செல்லாக்காசாக` — **something worthless** → **worthless coin**, restoring the source metaphor;
+2. `அறப் போர்க்களம்` — **field of struggle** → **field of righteous struggle**, restoring the ethical force of `அற`;
+3. scan 74 dignity phrase — **lose face** → **throwing dignity away**, following the strict-reviewed source sense rather than an English idiom.
+
+Post-T2:
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- names / electoral arithmetic / quotation scope — **PASS**
+- scan 75→76 continuation `ஆதரிக்க / வும்—பெரியாருடன்` — **preserved as one continuous English sentence**
+- Tamil source changes — **0**
+
+### T3 Kalaignar voice review — PASS
+
+T3 body authority — `3a28bd4d7ed0b207d6ec7f05e1b71b85e2330fc3`
+
+- body corrections — **0**
+- praise / ridicule / rhetorical questions / accusatory cadence — **PASS**
+- repeated Communist / Kazhagam contrast — **PASS**
+- accidental neutralisation of polemical voice — **0**
+
+### T4 terminology / quotation / citation audit — PASS
+
+T4 body authority — `b071aac36d16722e9a72ca636c52cf40806937ed`
+
+Body correction groups — **2**:
+
+1. `மஞ்சள் பெட்டி` — **yellow ballot box** → **yellow box**, avoiding English-only explanatory expansion;
+2. `மாட்டுப் பெட்டி` — **cow ballot box** → **cow box**, matching the verified publication lexicon and preserving the cattle image.
+
+Additional verified source-bearing forms:
+- `ஜனசக்தி` → **Janasakthi**
+- `மாலைமணி` → **Maalai Mani**
+- title — **Think and Understand! Do Not Grow Angry!** — VERIFIED
+
+### T5 article verification — PASS / VERIFIED
+
+- verified English blob — **`c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1`**
+- source comments — **6/6**
+- untranslated Tamil body leakage — **0**
+- unresolved translation choices — **0**
+- blockers — **0**
+
+# Article 13 — `பூம்! பூம்! பூம்!` — T0–T5 VERIFIED
+
+- frozen Tamil blob — `1df4a62971685759e2beb2ffb2b54b0263b26848`
+- source scans — **77–80**
+- T0 — **PASS**
+- T1 — **COMPLETE**
+- T1 English blob — `44123e0385225d2f8ba4851f22cb9e0b78a4dfd3`
+- verified title — **Boom! Boom! Boom!**
+- ordered source comments — **4/4 PASS**
+
+### T2 bilingual fidelity review — PASS
+
+T2 English blob — `0de667ba11e71ecd8c5da37495e0d349f33bdac3`
+
+Body correction groups — **2**:
+
+1. `அசோகச் சக்கரம்` — **Ashoka wheel** → **Ashoka Chakra**, preserving the source-bearing expression;
+2. `தடியடி தர்பாரில் உதிர்ந்தவை` — **lost in baton charges** → **knocked out in the lathi-charge durbar**, restoring both the bodily image and the source's `தர்பார்` rhetoric.
+
+Post-T2:
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- call-and-response order — **PASS**
+- door-bolt punchline — **complete**
+- Tamil source changes — **0**
+
+### T3 Kalaignar voice review — PASS
+
+T3 body authority — `0de667ba11e71ecd8c5da37495e0d349f33bdac3`
+
+- body corrections — **0**
+- repeated **Boom, boom, boom!** rhythm — **PASS**
+- comic escalation / child interruption / final reversal — **PASS**
+- source's unclosed opening quotation on scan 78 — **preserved as source irregularity; not silently repaired**
+
+### T4 terminology / quotation / citation audit — PASS
+
+T4 body authority — `b47aec6af7b416adc6ebb05141b1cd88b7e35c40`
+
+Body correction groups — **2**:
+
+1. `பெருமாள் மாடு / பெருமாள் மாட்டுக்காரன்` — **Perumal cows / Perumal cow-handler** → **Perumal cattle / Perumal cattle-handler**, keeping the source image without over-fixing sex or species wording;
+2. `பீதாம்பரங்கள்` — generic **silken robes** → source-bearing ***pitambaras***.
+
+Additional verified choices:
+- `அய்யா` → **Ayya**
+- `பிண்ணாக்கு` → **oilcake**
+- title — **Boom! Boom! Boom!** — VERIFIED
+
+### T5 article verification — PASS / VERIFIED
+
+- verified English blob — **`91ec043f5f47d6fe388d09987505d9cf41a788f2`**
+- source comments — **4/4**
+- untranslated Tamil body leakage — **0**
+- unresolved translation choices — **0**
+- blockers — **0**
+
+# Articles 1–13 aggregate checkpoint
+
+- T0 — **13/13 PASS**
+- T1 — **13/13 COMPLETE**
+- T2 — **13/13 PASS**
+- T3 — **13/13 PASS**
+- T4 — **13/13 PASS**
+- T5 — **13/13 VERIFIED**
+- ordered source comments — **74/74 PASS**
 - omitted Tamil clauses after review — **0**
 - added substantive English claims after review — **0**
 - untranslated Tamil body leakage — **0**
 - Tamil source changes — **0**
 - blockers — **0**
 
-## Articles 12–13
-
-Articles **12–13** remain **NOT STARTED** at T0–T5.
-
-Frozen Tamil pins remain those recorded in `SOURCE_MAP.md`.
-
 ## Exact next activity
 
-**Article 12 `சிந்தித்துணர்க! சீற்றமுறாதீர்!` — T0 source prerequisite.**
+**E6 — publication-wide English consistency review across all 13 T5-verified articles.**
 
-Require exact live-main Tamil blob **`122f5320d683c35267e23b5a667bfd27100fdd3e`** before creating the Article 12 English body file.
+E7 release closeout remains downstream of E6.

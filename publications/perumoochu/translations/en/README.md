@@ -13,18 +13,18 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - Tamil prerequisite — **COMPLETE / STRICT-REVIEWED / FROZEN**
 - translation identity — **project-created English translation**
 - E0 — **COMPLETE / PASS**
-- T0 — **11/13 PASS**
-- T1 — **11/13 COMPLETE**
-- T2 — **11/13 PASS**
-- T3 — **11/13 PASS**
-- T4 — **11/13 PASS**
-- T5 — **11/13 VERIFIED**
-- English article body files — **11/13**
-- verified English articles — **11/13**
-- ordered source comments in verified English articles — **64/64 PASS**
+- T0 — **13/13 PASS**
+- T1 — **13/13 COMPLETE**
+- T2 — **13/13 PASS**
+- T3 — **13/13 PASS**
+- T4 — **13/13 PASS**
+- T5 — **13/13 VERIFIED**
+- English article body files — **13/13**
+- verified English articles — **13/13**
+- ordered source comments in verified English articles — **74/74 PASS**
 - total expected ordered source comments after all 13 T1 drafts — **74**
 - untranslated Tamil body leakage in verified articles — **0**
-- Tamil source changes during Articles 1–11 T0–T5 — **0**
+- Tamil source changes during Articles 1–13 T0–T5 — **0**
 - blockers — **0**
 
 ## Article tracker
@@ -42,16 +42,16 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 | 9 | `சேவல் கூவுகிறது!` | **The Rooster Crows!** | `9d1a0e39e45cc1cb94419c5b966f8da415233e37` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `b4e203789117dba4de9c08f2bc25766e807e2160` |
 | 10 | `மாடோட்டிகள்!` | **Cattle-Drivers!** | `ffdce8f466928a5484cc155dbc841394fd6db30c` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `3f96803c1d0b08d287da2e961298c18e4491ea3f` |
 | 11 | `தேர்தல் கோவலன்!` | **Election Kovalan!** | `8b01451de21342eb7df91b3b7b72d5d6d857c67f` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `470e034d7e2bd977dc6e70d61159814090f4110b` |
-| 12 | `சிந்தித்துணர்க! சீற்றமுறாதீர்!` | TBD | `122f5320d683c35267e23b5a667bfd27100fdd3e` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | — |
-| 13 | `பூம்! பூம்! பூம்!` | TBD | `1df4a62971685759e2beb2ffb2b54b0263b26848` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | — |
+| 12 | `சிந்தித்துணர்க! சீற்றமுறாதீர்!` | **Think and Understand! Do Not Grow Angry!** | `122f5320d683c35267e23b5a667bfd27100fdd3e` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1` |
+| 13 | `பூம்! பூம்! பூம்!` | **Boom! Boom! Boom!** | `1df4a62971685759e2beb2ffb2b54b0263b26848` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `91ec043f5f47d6fe388d09987505d9cf41a788f2` |
 
-## Articles 1–11 aggregate
+## Articles 1–13 aggregate
 
-- frozen Tamil pins revalidated immediately before drafting — **11/11 PASS**
-- English source comments — **64/64 ordered / PASS**
-- T2 body-correction groups — **20 total**
+- frozen Tamil pins revalidated immediately before drafting — **13/13 PASS**
+- English source comments — **74/74 ordered / PASS**
+- T2 body-correction groups — **25 total**
 - T3 body-correction groups — **1 total**
-- T4 body-correction groups — **6 total**, plus one Article-8 title correction
+- T4 body-correction groups — **10 total**, plus one Article-8 title correction
 - omitted Tamil clauses after review — **0**
 - added substantive English claims after review — **0**
 - Tamil body leakage — **0**
@@ -75,8 +75,16 @@ Do not translate from the raw transcript, OCR, web text, alternate editions or s
 - Tamil source changes — **0**
 - blockers — **0**
 
+## Articles 12–13 closure checkpoint
+
+- T0–T5 — **2/2 PASS / VERIFIED**
+- English article files — **2/2**
+- source comments — **10/10 PASS**
+- verified English blobs — Article 12 `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1`; Article 13 `91ec043f5f47d6fe388d09987505d9cf41a788f2`
+- untranslated Tamil body leakage — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+
 ## Exact next activity
 
-**Article 12 `சிந்தித்துணர்க! சீற்றமுறாதீர்!` — T0 source prerequisite.**
-
-Require live `main` to match frozen Tamil blob **`122f5320d683c35267e23b5a667bfd27100fdd3e`** before any English body draft for Article 12 is created.
+**E6 — publication-wide English consistency review across all 13 T5-verified articles.**
