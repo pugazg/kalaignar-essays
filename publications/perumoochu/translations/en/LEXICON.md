@@ -45,6 +45,10 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `விலை மாது` | **dancing prostitute** | Preserve the source insult rather than softening it to “courtesan.” | Article 5 T2 | verified |
 | `வாய்ஜாலம்` | **verbal magic** | Retains the source metaphor better than generic “wordplay.” | Article 5 T2 | verified |
 | `பச்சை அயோக்கியத்தனம்` | **rank villainy** | Preserve the source insult without adding a new factual claim. | Article 5 T3 | verified |
+| `சிறுவர்கள்` | **Youngsters** | Article 6 title and repeated joke; preserves the contrast between literal age and a “young heart,” without narrowing the mixed list to “boys.” | Article 6 T4 | verified |
+| `அண்ணா` | **Anna** | Preserve the source-bearing address/title in forms such as `லிங்கம் அண்ணா` and `தளபதி அண்ணா`; do not replace it with an externally supplied identification inside the body. | Article 6 T4 | verified |
+| `சாமியார்` | ***swami*** | Contextual source-bearing term in Article 6's marriage joke; retain rather than over-specifying an English religious category. | Article 6 T4 | verified |
+| `இளம் இதயம்` | **young heart** | Preserve the repeated metaphor and the article's contrast with chronological age. | Article 6 T4 | verified |
 
 ## Rhetorical / quotation policy for this publication
 
@@ -64,13 +68,14 @@ Verified through T5:
 3. `மந்திரிகள் குலை நடுக்கம்` — **Ministers Tremble in Fear**
 4. `வாபஸ் வீரர்கள்!` — **Heroes of Retreat!**
 5. `பொது மக்களுக்குத் தனி எச்சரிக்கை` — **A Special Warning to the Public**
+6. `சிறுவர்கள்` — **Youngsters**
 
-Articles **6–13** remain **TBD** until their own T1/T4 review.
+Articles **7–13** remain **TBD** until their own T1/T4 review.
 
 ## Lexicon status
 
 - initialized — **PASS**
 - fixed repository-wide rules imported — **PASS**
 - publication-specific terms seeded — **PASS**
-- English body translation begun — **Yes — Articles 1–5 T5 VERIFIED**
-- unresolved choices blocking Articles 1–5 — **0**
+- English body translation begun — **Yes — Articles 1–5 T5 VERIFIED; Article 6 T4 PASS / T5 NEXT**
+- unresolved choices blocking Articles 1–6 — **0**
