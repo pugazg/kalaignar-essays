@@ -62,50 +62,63 @@ Physical-copy marks on scans 2–3 remain outside the canonical printed-text lay
 - 23 closes Article 4 — **PASS**
 - scan 24 is intentionally unopened in Batch 001.
 
-## Exact next activity
-
-**P2 scans 24–46**.
-
-Continue from scan 24 `பொது மக்களுக்குத் தனி எச்சரிக்கை` and verify each scan against rendered source pixels, using `perumoochu.md` only as a baseline.
-
-
-## Batch 002 — scans 24–52
+## Batch 003 — scans 53–83
 
 **COMPLETE / PASS**
 
-- records — **29/29**
-- verified — **29**
+- records — **31/31**
+- verified — **31**
 - needs-review — **0**
 - blocked — **0**
 - guessed readings — **0**
 - unresolved historical-glyph readings — **0**
-- P2 cumulative — **52/83**
+- P2 cumulative — **83/83**
 
 ### Coverage
 
 | Scans | Unit | Status |
 |---:|---|---|
-| 24–36 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | VERIFIED |
-| 37–40 | `சிறுவர்கள்` | VERIFIED |
-| 41–48 | `“அஹிம்சா விலாசம்”` | VERIFIED |
-| 49–52 | `திண்டிவனம் தீரர்காள்!` | VERIFIED |
+| 53–56 | `சேவல் கூவுகிறது!` | VERIFIED |
+| 57–62 | `மாடோட்டிகள்!` | VERIFIED |
+| 63–70 | `தேர்தல் கோவலன்!` | VERIFIED |
+| 71–76 | `சிந்தித்துணர்க! சீற்றமுறாதீர்!` | VERIFIED |
+| 77–80 | `பூம்! பூம்! பூம்!` | VERIFIED |
+| 81 | `கலைஞர் கருணாநிதியின் அரிய நூல்கள்` catalogue | VERIFIED |
+| 82 | `அறிஞர்களின் அமுதத் துளிகள்` catalogue | VERIFIED |
+| 83 | `புதிய வெளியீடுகள்!` catalogue / terminal scan | VERIFIED |
 
-### Durable findings
+### Final P2 corrections / structural refinements
 
-- user-confirmed historical title reading **`மந்திரிகள் குலை நடுக்கம்`** remains authoritative;
-- scan 49 P1 heading **`திண்டிவனம் தீரர்கள்!`** corrected to source-visible **`திண்டிவனம் தீரர்காள்!`**;
-- source-visible quoted heading **`“அஹிம்சா விலாசம்”`** retained;
-- baseline remains non-authoritative; rendered scan pixels control the page records.
+- `மந்திரிகள் குலை நடுக்கம்` — historical **`லை`** confirmed by user/source;
+- `வாபஸ் வீரர்கள்!` — replaces retired P1 `வாய்ஸ் வீரர்கள்!`;
+- `திண்டிவனம் தீரர்காள்!` — replaces retired P1 `திண்டிவனம் தீரர்கள்!`;
+- `சேவல் கூவுகிறது!` — replaces retired P1 `சேலம் கூவுகிறது!`;
+- `மாடோட்டிகள்!` — replaces retired P1 `மாட்டோட்டிகள்!`;
+- `தேர்தல் கோவலன்!` — replaces retired P1 `தேர்தல் கோமாளி!`;
+- `சிந்தித்துணர்க! சீற்றமுறாதீர்!` — replaces retired P1 `சிந்தித்தான்! சிரித்தான்!`.
 
-### Boundary checks
+### Physical-boundary repair
 
-- 23→24 Article 4→5 — **PASS**
-- 36→37 Article 5→6 — **PASS**
-- 40→41 Article 6→7 — **PASS**
-- 48→49 Article 7→8 — **PASS**
-- 52 closes Article 8 — **PASS**
-- scan 53 is intentionally unopened in this batch.
+A P2 closure check found that scans **24–52** had initially been segmented heuristically from the generated baseline instead of by exact physical PDF boundaries.
+
+All **29 records** in scans 24–52 were rebuilt against rendered source-pixel boundaries. The repaired set is authoritative from commit:
+
+`ebe8b2146eef22ac203f8014367cb78dea2d4b76`
+
+### Final P2 gate
+
+**P2 COMPLETE / PASS — 83/83**
+
+- canonical physical-scan records — **83/83**
+- missing scans — **0**
+- duplicate scans — **0**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- unresolved historical-glyph readings — **0**
+- source PDF terminal boundary — **scan 83 VERIFIED**
+- source PDF committed — **No**
 
 ## Exact next activity
 
-**P2 scans 53–75**.
+**P3 — assemble and audit all 13 article reading copies from the canonical P2 page records.**
