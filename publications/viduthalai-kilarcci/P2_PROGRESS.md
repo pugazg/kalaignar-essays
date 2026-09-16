@@ -2,7 +2,7 @@
 
 ## Status
 
-**IN PROGRESS — 30/69 physical scans VERIFIED**
+**IN PROGRESS — 40/69 physical scans VERIFIED**
 
 Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf`  
 Baseline aid: user-supplied `viduthalai_kilarchi.md` — **NON-AUTHORITATIVE**  
@@ -133,24 +133,56 @@ Cross-page controls:
 - 25→26 — `துண்டிக்க வேண்டும் / திராவிடத்தை...`;
 - 28→29 — `சிந்தித்திருக்கமாட்டார் / களா`.
 
+## Batch 004 — scans 31–40
+
+**COMPLETE / PASS — 10/10 VERIFIED**
+
+| Scan | Record | Role | Status |
+|---:|---|---|---|
+| 31 | `pages/0031-viduthalai-kilarcci-24.md` | main work / printed 30 | verified |
+| 32 | `pages/0032-viduthalai-kilarcci-25.md` | main work / printed 31 | verified |
+| 33 | `pages/0033-viduthalai-kilarcci-26.md` | main work / printed 32 | verified |
+| 34 | `pages/0034-viduthalai-kilarcci-27.md` | main work / printed 33 | verified |
+| 35 | `pages/0035-viduthalai-kilarcci-28.md` | main work / printed 34 | verified |
+| 36 | `pages/0036-viduthalai-kilarcci-29.md` | main work / printed 35 | verified |
+| 37 | `pages/0037-viduthalai-kilarcci-30.md` | main work / printed 36 | verified |
+| 38 | `pages/0038-viduthalai-kilarcci-31.md` | main work / printed 37 | verified |
+| 39 | `pages/0039-viduthalai-kilarcci-32.md` | main work / printed 38 | verified |
+| 40 | `pages/0040-viduthalai-kilarcci-33.md` | main work / printed 39 | verified |
+
+### Durable Batch-004 corrections / decisions
+
+- scan 32 — source **`கடற்கரைச் சிற்பக் கோயில்களிலே`** and **`உ, வெ. சாமிநாத அய்யர்`**;
+- scan 33 table — baseline noise resolved to source **`நிகரா குவா`**, **`பனமா`**; repeated population-unit ditto marks retained rather than expanded;
+- scan 35 — baseline **`ஐலந்து`** → source **`ஐஸ்லந்து`**; **`ஆடு வளர்ப்பதையுமே`**;
+- scan 36 — baseline **`ஆவதூறுக்கு`** → source **`அவதூறுக்கு`**;
+- scan 38 — baseline **`சும்யூனிஸ்ட்`** → source **`கம்யூனிஸ்ட்`**;
+- scan 39 — baseline **`பாரதமாத!`** → source **`பாரதமாதா!`**;
+- scan 40 — source distinction **`பிரச்சாரந்தான்`** / **`பிரசாரமாம்`** preserved.
+
+Cross-page controls:
+
+- 34→35 — **`நாடோடி / களாய்த்`**;
+- scan 40 ends **`பொழுதுபோக்க திரைப்படத்திற்கு சென்றால்`**; continuation belongs to scan 41.
+
 ## Historical-glyph state
 
-- mandatory family check applied — **scans 1–30**
+- mandatory family check applied — **scans 1–40**
 - unresolved historical-glyph ambiguities — **0**
 - global replacements used — **0**
 - guessed readings — **0**
 
 ## Totals
 
-- canonical records — **30/69**
-- verified — **30**
+- canonical records — **40/69**
+- verified — **40**
 - needs-review — **0**
 - blocked — **0**
 - guessed — **0**
-- remaining — **39**
+- remaining — **29**
 
 ## Exact next activity
 
-**P2 Batch 004 — scans 31–40.**
+**P2 Batch 005 — scans 41–50.**
 
 Use the supplied baseline only as a comparison aid; source pixels remain controlling.

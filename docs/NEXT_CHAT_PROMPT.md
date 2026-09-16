@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P2 Batch 004 scans 31–40
+# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P2 Batch 005 scans 41–50
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,32 +18,36 @@ Baseline: user-supplied `viduthalai_kilarchi.md` — **NON-AUTHORITATIVE**.
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 69/69**
-- P2 — **IN PROGRESS — 30/69 VERIFIED**
-- Batch 001 — scans 1–10 — **PASS**
-- Batch 002 — scans 11–20 — **PASS**
-- Batch 003 — scans 21–30 — **PASS**
+- P2 — **IN PROGRESS — 40/69 VERIFIED**
+- Batches 001–004 — scans 1–40 — **PASS**
 - needs-review / blocked / guessed — **0 / 0 / 0**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil archival freeze**
 
 ## Durable source readings — do not regress
 
-From earlier batches:
+Earlier controls include:
 - `வேங்கையை விரட்டும் படலம்`
 - `இந்தோ சீனாவில்!`
-- `சுகர்னோவும்`
-- `தூள் தூளாக`
-- `ஒரு ஐக்கிய முன்னணி`
-
-Batch 003:
-- `கோமிண்டாங்` — source spelling
-- `சர்வாதிகார மொழிந்த மக்களாட்சி` — unusual but source-visible
+- `கோமிண்டாங்`
 - `மனோரம்மியமான`
-- `அகம்பாவக்காரர்களால்`
-- `வாழமுடியாது`
 - `மாகாண`
-- `இருக்கின்றன`
 - `விபீஷணர்களுக்கு`
+
+Batch 004:
+- `கடற்கரைச் சிற்பக் கோயில்களிலே`
+- `உ, வெ. சாமிநாத அய்யர்`
+- `நிகரா குவா`
+- `பனமா`
+- `ஐஸ்லந்து`
+- `ஆடு வளர்ப்பதையுமே`
+- `அவதூறுக்கு`
+- `கம்யூனிஸ்ட்`
+- `பாரதமாதா!`
+- source distinction `பிரச்சாரந்தான் / பிரசாரமாம்`
+
+Cross-page entry:
+- scan 40 ends **`பொழுதுபோக்க திரைப்படத்திற்கு சென்றால்`**; continue only from scan 41 pixels.
 
 ## Mandatory workflow
 
@@ -56,6 +60,6 @@ Source pixels control. Do not use OCR, web text, alternate editions or contextua
 
 ## Exact next activity
 
-**P2 Batch 004 — scans 31–40.**
+**P2 Batch 005 — scans 41–50.**
 
 Create/verify canonical page records and update all progress/control files.

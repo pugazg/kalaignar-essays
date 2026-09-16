@@ -32,7 +32,7 @@ The source consists of preliminary verse/prologue material followed by one conti
 
 - historical Tamil typeforms — **present**
 - historical-glyph guide — **mandatory**
-- P2 — **IN PROGRESS — 30/69 VERIFIED**
+- P2 — **IN PROGRESS — 40/69 VERIFIED**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil P5 / frozen**
 
@@ -81,8 +81,23 @@ The source consists of preliminary verse/prologue material followed by one conti
 - physical continuations preserved at 20→21, 25→26 and 28→29
 - P2 progress authority — `P2_PROGRESS.md`
 
+## P2 Batch 004 audit
+
+**COMPLETE / PASS — scans 31–40**
+
+- page records created — **10**
+- verified — **10**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph workflow — **applied**
+- notable source decisions — **`கடற்கரைச் சிற்பக் கோயில்களிலே`**, **`உ, வெ. சாமிநாத அய்யர்`**, **`நிகரா குவா`**, **`பனமா`**, **`ஐஸ்லந்து`**, **`ஆடு வளர்ப்பதையுமே`**, **`அவதூறுக்கு`**, **`கம்யூனிஸ்ட்`**, **`பாரதமாதா!`**
+- source distinction **`பிரச்சாரந்தான்` / `பிரசாரமாம்`** preserved
+- physical continuation **34→35 `நாடோடி / களாய்த்`** preserved; scan 40 terminal clause remains open for scan 41
+- P2 progress authority — `P2_PROGRESS.md`
+
 ## Next
 
-Publication 15 is **ACTIVE — P0–P1 COMPLETE / P2 IN PROGRESS — 30/69 VERIFIED**.
+Publication 15 is **ACTIVE — P0–P1 COMPLETE / P2 IN PROGRESS — 40/69 VERIFIED**.
 
-Next gate: **P2 Batch 004 — scans 31–40**.
+Next gate: **P2 Batch 005 — scans 41–50**.
