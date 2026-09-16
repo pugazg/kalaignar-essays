@@ -14,7 +14,7 @@ Controlling source: `TVA_BOK_0064124_பெருமூச்சு.pdf`
 - P3 article assemblies — **COMPLETE / PASS — 13/13**
 - P4 source audit — **COMPLETE / PASS**
 - P5 strict visual-text-fidelity pass — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
-- English — **E0 COMPLETE / PASS; Articles 1–6 T0–T5 VERIFIED; Article 7 T0 NEXT**
+- English — **E0 COMPLETE / PASS; Articles 1–11 T0–T5 VERIFIED; Article 12 T0 NEXT**
 - source PDF committed — **No**
 
 ## Printed / catalog identity
@@ -145,14 +145,14 @@ Scans **24–52** were rebuilt after closure review found heuristic baseline seg
 ## English progress
 
 - E0 — **COMPLETE / PASS**
-- T0 — **6/13 PASS**
-- T1 — **6/13 COMPLETE**
-- T2 — **6/13 PASS**
-- T3 — **6/13 PASS**
-- T4 — **6/13 PASS**
-- T5 — **6/13 VERIFIED**
-- verified English article files — **6/13**
-- verified ordered Tamil-source comments — **34/34 PASS**
+- T0 — **11/13 PASS**
+- T1 — **11/13 COMPLETE**
+- T2 — **11/13 PASS**
+- T3 — **11/13 PASS**
+- T4 — **11/13 PASS**
+- T5 — **11/13 VERIFIED**
+- verified English article files — **11/13**
+- verified ordered Tamil-source comments — **64/64 PASS**
 - omitted Tamil clauses after review — **0**
 - added substantive English claims after review — **0**
 - untranslated Tamil body leakage — **0**
@@ -162,7 +162,7 @@ Scans **24–52** were rebuilt after closure review found heuristic baseline seg
 - review ledger — `translations/en/TRANSLATION_REVIEW.md`
 - verified English authority map — `translations/en/SOURCE_MAP.md`
 
-Verified English Articles 1–6:
+Verified English Articles 1–11:
 
 1. **A Deep Sigh** — `8a441b0c4d33aacd2e61795800de2f95c4804e81`
 2. **Come, Let Us Build the Mansion!** — `ef0be10af34519b868634de64fc67bfde53bc5fb`
@@ -170,11 +170,16 @@ Verified English Articles 1–6:
 4. **Heroes of Retreat!** — `47510c75833b1abd6990871ebc45c9e9eb8ba1db`
 5. **A Special Warning to the Public** — `637fd7fb72126b4b677846839191459616971d60`
 6. **Youngsters** — `b2694657339a42c84d932e67ee63684a588245d2`
+7. **“Ahimsa Vilasam”** — `9a55d55bef9e68c893c42546ac7dac1bb84ffb18`
+8. **O Heroes of Tindivanam!** — `557927643d1df347e2f8c03971bd501439973863`
+9. **The Rooster Crows!** — `b4e203789117dba4de9c08f2bc25766e807e2160`
+10. **Cattle-Drivers!** — `3f96803c1d0b08d287da2e961298c18e4491ea3f`
+11. **Election Kovalan!** — `470e034d7e2bd977dc6e70d61159814090f4110b`
 
 ## Exact next activity
 
-**Article 7 `“அஹிம்சா விலாசம்”` — T0 source prerequisite.**
+**Article 12 `சிந்தித்துணர்க! சீற்றமுறாதீர்!` — T0 source prerequisite.**
 
-Require live `main` Tamil blob **`12c50fe83ef047ca060669831c82d3e00defc04a`** before creating the English body file.
+Require live `main` Tamil blob **`122f5320d683c35267e23b5a667bfd27100fdd3e`** before creating the English body file.
 
 Publication 15 `விடுதலைக் கிளர்ச்சி` remains queued at **P0–P1 COMPLETE / P2 NOT STARTED**.
