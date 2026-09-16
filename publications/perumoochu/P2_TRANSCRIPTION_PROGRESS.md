@@ -148,6 +148,11 @@ All **29 records** in scans 24–52 were rebuilt against rendered source-pixel b
 - source PDF terminal boundary — **scan 83 VERIFIED**
 - source PDF committed — **No**
 
+## Downstream status
+
+- P3 — **COMPLETE / PASS — 13/13**
+- P4 — **COMPLETE / PASS**
+
 ## Exact next activity
 
-**P3 — assemble and audit all 13 article reading copies from the canonical P2 page records.**
+**P5 — final strict visual text-fidelity pass over all 83 physical scans.**
