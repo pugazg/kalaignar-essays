@@ -28,6 +28,7 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 - physical scan **67** / printed folio **65**.
 - continuation of **தேர்தல் கோவலன்!**.
+- printed gathering/signature mark **`[5]`** is visible at the lower left; it is printed page furniture, not article body text.
 
 ## Historical glyph audit
 
@@ -39,6 +40,11 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 - baseline is non-authoritative; source pixels control.
 - guessed completion — **0**.
+
+## P5 strict visual fidelity findings
+
+- P5 direct scan review: printed gathering/signature mark **`[5]`** is visible at the lower left; it is page furniture and is not article body text.
+- unresolved P5 fidelity discrepancy on this recorded finding — **0**.
 
 ## P2 நிலை
 
