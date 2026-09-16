@@ -16,7 +16,7 @@ transcription_method: "source-verified P2 transcription; user-supplied perumooch
 
 நவீன சாணக்கியர், குல்லுகப்பட்டர், இந்திய மாக்கிய வல்லி என்றெல்லாம் சொல்லப்படுகிற ஆச்சாரியார் தொடுத்த அவதூறு வழக்கிலே நீதி மன்றத்தில் தன்னந் தனியாக நின்று வக்கீலில்லாமல் சொந்த வாதத் திறமையால் அவர் வெற்றிக் கொடி நாட்டியது இன்று சட்டப் புத்தகங்களிலே இலக்கியமாக மட்டுமல்ல திராவிட அறிவாற்றலின் கீர்த்திக்கோர் கிரீடமாக அமைந்திருக்கிறது. ஆங்கில அறிவு அவ்வளவு வாதத்திறமை படைத்த வீரரின் குரல் டெல்லி பாராளு மன்றத்திலே ஒலிக்க வேண்டும். கரடு முரடுமான ஆனால் கணீரென்ற அவரது குரல் முழக்கம், டில்லி ஆதிக்க வெறியர்களின் காதுகளிலே நடுக்கத்தைக் கொடுக்க வேண்டும். "பாரீர் திராவிடத்தின் அருமையை, காணீர் திராவிடரின் இன எழுச்சியை" என்று நாம் கூறக் கேட்டு டெல்லி அலற வேண்டும். அந்த நல்ல வாய்ப்பை, சந்தர்ப்பத்தைத் தென் சென்னைத் திராவிட வாக்காளர்கள் பெற்றிருக்கிறார்கள்.
 
-தென் சென்னை திராவிட வாக்காளர்களே! தோழர் பி.பாலசுப்பிரமணியம் அவர்களுக்கு நீங்கள்
+தென் சென்னை திராவிட வாக்காளர்களே! தோழர் பி. பாலசுப்பிரமணியம் அவர்களுக்கு நீங்கள்
 
 ## அச்சு அமைப்பு
 
@@ -42,6 +42,12 @@ transcription_method: "source-verified P2 transcription; user-supplied perumooch
 - previous heuristic physical-page segmentation was replaced by source-visible scan boundaries.
 - cross-scan word fragments are preserved on the physical scan where printed.
 - guessed completion — **0**.
+
+## P5 strict visual fidelity findings
+
+- direct source-pixel reinspection completed in P5.
+- body-text corrections from this scan were propagated to the dependent article assembly.
+- unresolved P5 fidelity discrepancy — **0**.
 
 ## P2 நிலை
 
