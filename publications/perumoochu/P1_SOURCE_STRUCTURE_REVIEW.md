@@ -94,6 +94,11 @@ Scans **24–52** were additionally repaired after a closure check found heurist
 - guessed readings — **0**
 - unresolved historical-glyph readings — **0**
 
-## Next gate
+## Downstream status
 
-**P3 — assemble the 13 article reading copies from the canonical P2 page records.**
+- P3 — **COMPLETE / PASS — 13/13**
+- P4 — **COMPLETE / PASS**
+
+## Current next gate
+
+**P5 — final strict visual text-fidelity pass over all 83 physical scans.**
