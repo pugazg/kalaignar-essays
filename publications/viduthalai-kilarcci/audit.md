@@ -32,7 +32,7 @@ The source consists of preliminary verse/prologue material followed by one conti
 
 - historical Tamil typeforms — **present**
 - historical-glyph guide — **mandatory**
-- P2 — **IN PROGRESS — 20/69 VERIFIED**
+- P2 — **IN PROGRESS — 30/69 VERIFIED**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil P5 / frozen**
 
@@ -67,8 +67,22 @@ The source consists of preliminary verse/prologue material followed by one conti
 - source-visible cross-page continuations preserved through scan 20→21
 - P2 progress authority — `P2_PROGRESS.md`
 
+## P2 Batch 003 audit
+
+**COMPLETE / PASS — scans 21–30**
+
+- page records created — **10**
+- verified — **10**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph workflow — **applied**
+- notable source decisions — **`கோமிண்டாங்`**, **`சர்வாதிகார மொழிந்த மக்களாட்சி`**, **`மனோரம்மியமான`**, **`வாழமுடியாது`**, **`மாகாண`**, **`இருக்கின்றன`**, **`விபீஷணர்களுக்கு`**
+- physical continuations preserved at 20→21, 25→26 and 28→29
+- P2 progress authority — `P2_PROGRESS.md`
+
 ## Next
 
-Publication 15 is **ACTIVE — P0–P1 COMPLETE / P2 IN PROGRESS — 20/69 VERIFIED**.
+Publication 15 is **ACTIVE — P0–P1 COMPLETE / P2 IN PROGRESS — 30/69 VERIFIED**.
 
-Next gate: **P2 Batch 003 — scans 21–30**.
+Next gate: **P2 Batch 004 — scans 31–40**.

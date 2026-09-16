@@ -2533,7 +2533,7 @@ English controls:
 
 No further Publication 14 archival or translation activity is pending.
 
-Publication 15 `விடுதலைக் கிளர்ச்சி` is **ACTIVE — P2 IN PROGRESS — 20/69 VERIFIED**.
+Publication 15 `விடுதலைக் கிளர்ச்சி` is **ACTIVE — P2 IN PROGRESS — 30/69 VERIFIED**.
 # Publication 15 — விடுதலைக் கிளர்ச்சி
 
 Workspace: `publications/viduthalai-kilarcci/`
@@ -2556,7 +2556,7 @@ Workspace: `publications/viduthalai-kilarcci/`
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 69/69**
-- P2 — **IN PROGRESS — 20/69 VERIFIED**
+- P2 — **IN PROGRESS — 30/69 VERIFIED**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -2617,8 +2617,14 @@ Durable source corrections include:
 - scan 19 — **`அழுந்தியிருந்த`**;
 - scan 20 — **`ஒரு ஐக்கிய முன்னணி`**.
 
+## P2 Batch 003 — scans 21–30
+
+**COMPLETE / PASS — 10/10 VERIFIED**
+
+Durable controls include **`கோமிண்டாங்`**, **`சர்வாதிகார மொழிந்த மக்களாட்சி`**, **`மனோரம்மியமான`**, **`வாழமுடியாது`**, **`மாகாண`**, **`இருக்கின்றன`**, **`விபீஷணர்களுக்கு`**.
+
 ## Exact next activity
 
-**P2 Batch 003 — scans 21–30.**
+**P2 Batch 004 — scans 31–40.**
 
 Use `viduthalai_kilarchi.md` only as a baseline comparison aid. Source scan pixels remain controlling. Apply the historical-glyph guide word-by-word and preserve page-boundary fragments exactly.

@@ -36,7 +36,7 @@ The principal prose run visibly follows the source page sequence: scan 9 carries
 
 ## P2 current coverage
 
-**Batches 001–002 COMPLETE / PASS — scans 1–20**
+**Batches 001–003 COMPLETE / PASS — scans 1–30**
 
 | Scan | Canonical record | Status | Source-visible folio |
 |---:|---|---|:---:|
@@ -60,8 +60,18 @@ The principal prose run visibly follows the source page sequence: scan 9 carries
 | 18 | `pages/0018-viduthalai-kilarcci-11.md` | verified | 17 |
 | 19 | `pages/0019-viduthalai-kilarcci-12.md` | verified | 18 |
 | 20 | `pages/0020-viduthalai-kilarcci-13.md` | verified | 19 |
+| 21 | `pages/0021-viduthalai-kilarcci-14.md` | verified | 20 |
+| 22 | `pages/0022-viduthalai-kilarcci-15.md` | verified | 21 |
+| 23 | `pages/0023-viduthalai-kilarcci-16.md` | verified | 22 |
+| 24 | `pages/0024-viduthalai-kilarcci-17.md` | verified | 23 |
+| 25 | `pages/0025-viduthalai-kilarcci-18.md` | verified | 24 |
+| 26 | `pages/0026-viduthalai-kilarcci-19.md` | verified | 25 |
+| 27 | `pages/0027-viduthalai-kilarcci-20.md` | verified | 26 |
+| 28 | `pages/0028-viduthalai-kilarcci-21.md` | verified | 27 |
+| 29 | `pages/0029-viduthalai-kilarcci-22.md` | verified | 28 |
+| 30 | `pages/0030-viduthalai-kilarcci-23.md` | verified | 29 |
 
-P2 progress — **20/69 verified; 0 needs-review; 0 blocked**.
+P2 progress — **30/69 verified; 0 needs-review; 0 blocked**.
 
 Source-supported correction at scan 4: introductory unit is **`வேங்கையை விரட்டும் படலம்`**, not the earlier provisional `வேங்கையை விரட்டும் பாடல்`.
 
@@ -70,3 +80,6 @@ Batch-002 durable correction: scan 14 reads **`இந்தோ சீனாவ�
 ## P2 rule
 
 Every one of the **69 physical scans** requires its own canonical page record, including cover, preliminary verse, main prose, terminal advertisement and physical-copy marks.
+
+
+Batch-003 source controls: source spelling **`கோமிண்டாங்`** retained; scan 23 **`மனோரம்மியமான`**; scan 28 **`மாகாண`**; scan 30 **`விபீஷணர்களுக்கு`**.

@@ -2,7 +2,7 @@
 
 ## Status
 
-**IN PROGRESS — 20/69 physical scans VERIFIED**
+**IN PROGRESS — 30/69 physical scans VERIFIED**
 
 Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf`  
 Baseline aid: user-supplied `viduthalai_kilarchi.md` — **NON-AUTHORITATIVE**  
@@ -97,24 +97,60 @@ Cross-page controls added:
 - 17→18 — `பிரிட்டிஷ் / மன்னன்`;
 - 20→21 — terminal `இரண்டா / ...` pending Batch 003.
 
+## Batch 003 — scans 21–30
+
+**COMPLETE / PASS — 10/10 VERIFIED**
+
+| Scan | Record | Role | Status |
+|---:|---|---|---|
+| 21 | `pages/0021-viduthalai-kilarcci-14.md` | main work / printed 20 | verified |
+| 22 | `pages/0022-viduthalai-kilarcci-15.md` | main work / printed 21 | verified |
+| 23 | `pages/0023-viduthalai-kilarcci-16.md` | main work / printed 22 | verified |
+| 24 | `pages/0024-viduthalai-kilarcci-17.md` | main work / printed 23 | verified |
+| 25 | `pages/0025-viduthalai-kilarcci-18.md` | main work / printed 24 | verified |
+| 26 | `pages/0026-viduthalai-kilarcci-19.md` | main work / printed 25 | verified |
+| 27 | `pages/0027-viduthalai-kilarcci-20.md` | main work / printed 26 | verified |
+| 28 | `pages/0028-viduthalai-kilarcci-21.md` | main work / printed 27 | verified |
+| 29 | `pages/0029-viduthalai-kilarcci-22.md` | main work / printed 28 | verified |
+| 30 | `pages/0030-viduthalai-kilarcci-23.md` | main work / printed 29 | verified |
+
+### Durable Batch-003 corrections / decisions
+
+- scan 21 — source spelling **`கோமிண்டாங்`** retained; do not normalize to `கோமின்டாங்`;
+- scan 21 — direct source wording **`சர்வாதிகார மொழிந்த மக்களாட்சி`** retained despite unusual phrasing;
+- scan 23 — `மனோரம்யமான` → source **`மனோரம்மியமான`**;
+- scan 24 — source-order correction **`சைனாவிலே ஆளும் கட்சியாக இருந்தது கோமிண்டாங் கட்சி`**;
+- scan 25 — baseline split `அகம் பாவக்காரர்களால்` → **`அகம்பாவக்காரர்களால்`**;
+- scan 27 — baseline `வாழமுடியா?` → source **`வாழமுடியாது`**;
+- scan 28 — `மாகான` → source **`மாகாண`**;
+- scan 28 — `இருக் சின்றன` → source **`இருக்கின்றன`**;
+- scan 30 — baseline `சேறுகிறார்கள்` → source **`சேருகிறார்கள்`**;
+- scan 30 — damaged `விபீஷ! ணர்களுக்கு` → source **`விபீஷணர்களுக்கு`**.
+
+Cross-page controls:
+
+- 20→21 — `இரண்டா / யிரம்`;
+- 25→26 — `துண்டிக்க வேண்டும் / திராவிடத்தை...`;
+- 28→29 — `சிந்தித்திருக்கமாட்டார் / களா`.
+
 ## Historical-glyph state
 
-- mandatory family check applied — **scans 1–20**
+- mandatory family check applied — **scans 1–30**
 - unresolved historical-glyph ambiguities — **0**
 - global replacements used — **0**
 - guessed readings — **0**
 
 ## Totals
 
-- canonical records — **20/69**
-- verified — **20**
+- canonical records — **30/69**
+- verified — **30**
 - needs-review — **0**
 - blocked — **0**
 - guessed — **0**
-- remaining — **49**
+- remaining — **39**
 
 ## Exact next activity
 
-**P2 Batch 003 — scans 21–30.**
+**P2 Batch 004 — scans 31–40.**
 
 Use the supplied baseline only as a comparison aid; source pixels remain controlling.
