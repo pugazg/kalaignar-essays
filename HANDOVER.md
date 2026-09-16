@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after Publication 14 `பெருமூச்சு` P2 closure. Publication 14 is **ACTIVE — P0 PASS; P1 PASS 83/83; P2 COMPLETE / PASS 83/83; P3 NEXT**. Publication 15 `விடுதலைக் கிளர்ச்சி` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**. Publications 1–13 remain **RELEASE COMPLETE / FROZEN**.
+Handoff refreshed during Publication 14 `பெருமூச்சு` P5. Publication 14 is **ACTIVE — P0–P4 PASS; P5 IN PROGRESS 78/83; Tamil NOT YET FROZEN; English BLOCKED**. Publication 15 `விடுதலைக் கிளர்ச்சி` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**. Publications 1–13 remain **RELEASE COMPLETE / FROZEN**.
 
 ## Repository state
 
@@ -16,7 +16,7 @@ Publication 12 **`ஆறுமாதக் கடுங்காவல்` — R
 
 Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 4/4 VERIFIED; E6 PASS; E7 PASS**. Final English authorities remain: **Throbbing Youth** `46c70fd2bf702a061d35b45383c8c8e0841852d9`; **Arohara to Annamalai!** `1cfce7827fec69de08c98dd78edf4a06a7216a41`; **Poompuhar** `67649c4db83881840137073bafa24d31062fb86c`; **Lamp of Victory!** `083d514b93d58484f49e3193235b9631d995cd8e`.
 
-Publication 14 **`பெருமூச்சு` — ACTIVE — P0 PASS; P1 PASS 83/83; P2 COMPLETE / PASS 83/83; P3 NEXT; 13 article units**.
+Publication 14 **`பெருமூச்சு` — ACTIVE — P0–P4 PASS; P5 IN PROGRESS 78/83; 13 article units; Tamil NOT YET FROZEN; English BLOCKED**.
 
 Publication 15 **`விடுதலைக் கிளர்ச்சி` — QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED; introductory verse + 1 main prose work**.
 
@@ -2449,7 +2449,7 @@ Workspace: `publications/perumoochu/`
 - SHA-256 — **`18947f2deb1ece71b03b59c1e52d9f483a45baa5bf436ab2c3e89a48b5f2dc38`**
 - PDF version — **1.4**
 - source title form — **`பெருமூச்சு!`**
-- printed author — **`மு. கருணாநிதி`**
+- printed author (cover) — **`மு.கருணாநிதி`**
 - publisher — **`இளங்கோ பதிப்பகம், மாயூரம்`**
 - edition — **`இரண்டாம் பதிப்பு—'53`**
 - P0 — **COMPLETE / PASS**
@@ -2457,7 +2457,7 @@ Workspace: `publications/perumoochu/`
 - P2 — **COMPLETE / PASS — 83/83 VERIFIED**
 - P3 — **COMPLETE / PASS — 13/13 / 74/74 body records**
 - P4 — **COMPLETE / PASS**
-- P5 — **NOT STARTED**
+- P5 — **IN PROGRESS — 78/83 directly rechecked**
 - English — **BLOCKED until Tamil P5 / frozen**
 - historical Tamil glyph workflow — **MANDATORY**
 
@@ -2538,12 +2538,36 @@ Authority:
 - `publications/perumoochu/P2_TRANSCRIPTION_PROGRESS.md`
 - `publications/perumoochu/P3_PROGRESS.md`
 - `publications/perumoochu/P4_SOURCE_AUDIT.md`
+- `publications/perumoochu/VISUAL_TEXT_FIDELITY_REVIEW.md`
 - `publications/perumoochu/indexes/page-map.md`
 - `publications/perumoochu/audit.md`
 
+## P5 live progress
+
+**IN PROGRESS — 78/83 physical scans directly rechecked.**
+
+- scans 1–23 — reviewed;
+- scans 24–52 — reviewed;
+- scans 53–78 — reviewed;
+- scans 79–83 — pending;
+- committed P5 page-record printed-text correction events through scan 78 — **75**;
+- current-sync confirmed corrections — scans **59, 61, 62, 75, 76**;
+- scan 67 printed gathering/signature mark **`[5]`** recorded as page furniture;
+- Article 10 post-propagation exact reconstruction — **PASS**;
+- Article 12 post-propagation exact reconstruction — **PASS**;
+- Tamil archival layer — **NOT YET FROZEN**;
+- English — **BLOCKED**.
+
+Current-sync durable readings:
+
+- scan 59 — `திருப்பியழைத்து` → **`திருப்பியமைத்து`**;
+- scan 61 — `ஒரே கண்ணால்` → **`ஒரே கண்ணில்`**;
+- scan 62 — `நம் குரல் எழும்பினால்` → **`நம் குரல் எழும் பின்பு`**;
+- scan 75→76 — **`ஆதரிக்க / வும்—பெரியாருடன்`**.
+
 ## Exact next activity
 
-**Publication 14 `பெருமூச்சு` — P5 final strict visual text-fidelity pass over all 83 physical scans.**
+**Publication 14 `பெருமூச்சு` — continue P5 with scans 79–83, then final propagation, consolidated correction ledger, all-article reconstruction and P5 closure checks.**
 
 Do not begin English until P5 closes and the Tamil archival layer is frozen. Publication 15 remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** unless explicitly redirected.
 
