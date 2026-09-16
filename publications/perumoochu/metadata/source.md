@@ -65,4 +65,4 @@ Read character identity from enlarged source pixels; preserve source wording, sp
 
 Direct P5 source-pixel reinspection corrected the cover/imprint/front-matter identity above. These source-visible forms supersede earlier normalized spacing / punctuation in repository controls.
 
-P5 status — **IN PROGRESS — 78/83**. Tamil is not yet frozen.
+P5 status — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**. Tamil archival layer is **FROZEN**.
