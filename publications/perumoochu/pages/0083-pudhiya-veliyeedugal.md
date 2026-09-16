@@ -16,7 +16,7 @@ transcription_method: "direct visual transcription from rendered source scan; us
 
 # புதிய வெளியீடுகள்!
 
-## ஊடுருவி தீட்டியவை:-
+## உருகி தீட்டியவை:-
 
 அறியாமை [இங்கர்சால்] 1 0  
 உண்மை ” 1 0  
@@ -56,7 +56,7 @@ transcription_method: "direct visual transcription from rendered source scan; us
 
 கலைமன்றம்  
 122, வரதாமுத்தியப்பன் தெரு  
-P. B. No. 275 — சென்னை-1
+P. B. No. 275 - சென்னை-1
 
 ## அச்சு அமைப்பு
 
@@ -81,6 +81,13 @@ P. B. No. 275 — சென்னை-1
 - catalogue wording and prices were read directly from the rendered scan.
 - source-visible address is **வரதாமுத்தியப்பன் தெரு**.
 - guessed readings — **0**.
+
+## P5 strict visual fidelity findings
+
+- direct source-pixel reinspection completed in final P5 batch.
+- `ஊடுருவி தீட்டியவை:-` → source-visible **`உருகி தீட்டியவை:-`**.
+- address separator `—` → source-visible **`-`**.
+- unresolved P5 fidelity discrepancy — **0**.
 
 ## P2 நிலை
 
