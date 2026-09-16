@@ -8,7 +8,7 @@ source_tamil_blob_sha: "bb99717ca388d53bbbffd163f165fc0824ee7f37"
 source_scan_pages: "49-52"
 source_printed_pages: "47-50"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -32,7 +32,7 @@ Those in the Tindivanam constituency are not fools! They have not forgotten the 
 
 <!-- Tamil source: scan 51 / printed 49 -->
 
-The Tindivanam constituency must not forget that every vote cast for Koyanga is a thunderous blow delivered against Dravidian life!
+The Tindivanam constituency must not forget that every vote cast for Koyanga is an explosive blast delivered against Dravidian life!
 
 The mill-kings are in the North! Political leadership is in the North! The sceptre of government is in the North! Holding all these grips, the North that gives no honour to national Chidambaram who pulled the oil-press, the North that does not even think of Tiruppur Kumaran, the North that sings no praise of Thillaiyadi Valliammai, the North that exploits the South, the North that lives by trampling Dravida—this North has decided to field a candidate in Dravida itself and weigh the measure of Dravida's gullibility!
 
