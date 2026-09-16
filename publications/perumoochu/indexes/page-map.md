@@ -13,7 +13,7 @@
 | 5–6 | publisher preface | `மூச்சினிடையே!` |
 | 7–10 | body article | `பெருமூச்சு` |
 | 11–16 | body article | `மாளிகை அமைத்திட வாரீர்!` |
-| 17–20 | body article | `மந்திரிகள் குல நடுக்கம்` |
+| 17–20 | body article | `மந்திரிகள் குலை நடுக்கம்` |
 | 21–23 | body article | `வாபஸ் வீரர்கள்!` |
 | 24–36 | body article | `பொது மக்களுக்குத் தனி எச்சரிக்கை` |
 | 37–40 | body article | `சிறுவர்கள்` |
@@ -71,7 +71,7 @@ Every one of the **83 physical scans** requires its own canonical page record, i
 - publisher preface `மூச்சினிடையே!` — **5–6 COMPLETE**
 - Article 1 `பெருமூச்சு` — **7–10 COMPLETE**
 - Article 2 `மாளிகை அமைத்திட வாரீர்!` — **11–16 COMPLETE**
-- Article 3 `மந்திரிகள் குல நடுக்கம்` — **17–20 COMPLETE**
+- Article 3 `மந்திரிகள் குலை நடுக்கம்` — **17–20 COMPLETE**
 - Article 4 `வாபஸ் வீரர்கள்!` — **21–23 COMPLETE**
 - verified page records — **23/83**
 - needs-review — **0**
