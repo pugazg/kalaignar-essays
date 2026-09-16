@@ -11,7 +11,7 @@ Controlling source: `TVA_BOK_0064124_பெருமூச்சு.pdf`
 - P0 source intake — **COMPLETE / PASS**
 - P1 source structure / article inventory — **COMPLETE / PASS — 83/83 structurally inspected**
 - P2 page-level transcription — **COMPLETE / PASS — 83/83 VERIFIED**
-- P3 article assemblies — **NOT STARTED — NEXT GATE**
+- P3 article assemblies — **COMPLETE / PASS — 13/13**
 - P4 source audit — **NOT STARTED**
 - P5 strict visual-text-fidelity pass — **NOT STARTED**
 - English — **BLOCKED until Tamil archival layer freezes**
@@ -102,8 +102,22 @@ Scans **24–52** were rebuilt after closure review found heuristic baseline seg
 
 `ebe8b2146eef22ac203f8014367cb78dea2d4b76`
 
+## P3 final state
+
+**COMPLETE / PASS — 13/13 article reading copies / 74/74 body records**
+
+- assembly authority — canonical P2 page records only
+- omitted canonical P2 body text — **0**
+- unsupported added body text — **0**
+- normalization / paraphrase — **0**
+- unresolved assembly issues — **0**
+- article provenance — **complete for every contributing page record**
+- progress authority — `P3_PROGRESS.md`
+
 ## Exact next activity
 
-**P3 — assemble and audit all 13 article reading copies from the canonical P2 page records.**
+**P4 — publication source/completeness audit.**
+
+Do not begin P5 or English before P4 passes.
 
 Publication 15 `விடுதலைக் கிளர்ச்சி` remains queued at **P0–P1 COMPLETE / P2 NOT STARTED**.
