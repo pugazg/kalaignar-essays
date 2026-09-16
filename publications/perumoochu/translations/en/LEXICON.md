@@ -96,5 +96,5 @@ Articles **12–13** remain **TBD** until their own T1/T4 review.
 - initialized — **PASS**
 - fixed repository-wide rules imported — **PASS**
 - publication-specific terms seeded — **PASS**
-- English body translation begun — **Yes — Articles 1–6 T5 VERIFIED; Articles 7–11 T4 PASS / T5 NEXT**
+- English body translation begun — **Yes — Articles 1–11 T5 VERIFIED**
 - unresolved choices blocking Articles 1–11 — **0**
