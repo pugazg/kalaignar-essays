@@ -3,7 +3,7 @@ publication: "perumoochu"
 article_number: 10
 title_ta: "மாடோட்டிகள்!"
 scan_pages: "57-62"
-status: "verified"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0064124_பெருமூச்சு.pdf"
 assembly_method: "concatenated without normalization from canonical page records; P5 source-pixel fidelity rechecked"
@@ -75,13 +75,13 @@ assembly_method: "concatenated without normalization from canonical page records
 
 என்று கூறுவதிலே தவறு இருப்பதாகத் தெரியவில்லையே!
 
-"திராவிடம் ஒரு தனி நாடு. இதை வேறு நாட்டுப் பிரச்சினைகள், அமைப்புகள், அவைகளை மட்டும் வைத்து ஒரே கண்ணில் ஒரே கோணத்தில் பார்க்கக் கூடாது" என்றுதான் நாம் பலமுறை விளக்கங்கள் தந்து திராவிட நாட்டுப் பிரச்சினையை மக்கள் முன்னே வைத்திருக்கிறோம்.
+“திராவிடம் ஒரு தனி நாடு. இதை வேறு நாட்டுப் பிரச்சினைகள், அமைப்புகள், அவைகளை மட்டும் வைத்து ஒரே கண்ணில் ஒரே கோணத்தில் பார்க்கக் கூடாது” என்றுதான் நாம் பலமுறை விளக்கங்கள் தந்து திராவிட நாட்டுப் பிரச்சினையை மக்கள் முன்னே வைத்திருக்கிறோம்.
 
-ஆனால் சிலர், "தாம் பிடித்த முயலுக்கு மூன்றேகால்" என்ற தன்மையில் ஆகாதது, முடியாதது, குறுகிய நோக்கம் என்றெல்லாம் ஆரூடம் கணித்தார்களே தவிர, இன்னொரு நாட்டை உதாரணத்துக் கழைத்து நம் இதயகீதத்தை மறைக்க எண்ணினார்களே தவிர, தத்துவங்களுக்கு அடிமையாகி, நடைமுறைக்கு எதிரியாகிவிட்டார்களே தவிர,நம் பிரச்னையின் உட்கருத்தை அறியாதவர்களாகவே ஆகிவிட்டார்கள்.
+ஆனால் சிலர், “தாம் பிடித்த முயலுக்கு மூன்றேகால்” என்ற தன்மையில் ஆகாதது, முடியாதது, குறுகிய நோக்கம் என்றெல்லாம் ஆரூடம் கணித்தார்களே தவிர, இன்னொரு நாட்டை உதாரணத்துக் கழைத்து நம் இதயகீதத்தை மறைக்க எண்ணினார்களே தவிர, தத்துவங்களுக்கு அடிமையாகி, நடைமுறைக்கு எதிரியாகிவிட்டார்களே தவிர, நம் பிரச்னையின் உட்கருத்தை அறியாதவர்களாகவே ஆகிவிட்டார்கள்.
 
 எதிரிகளாகவே காட்டிக் கொண்டவர்கள் நேரடியாக எதிர்த்தார்கள் நம் பிரச்னையை! காட்டிக்கொள்ளாதவர், மறைமுகமாக எதிர்த்தார்கள். இத்தகைய எதிர்ப்புகளுக்கெல்லாம் முடிவு காணத்தான் தேர்தலிலே திராவிடநாடு பிரச்னையை ஏற்பவர்களை ஆதரிப்பது என்று முடிவு செய்தோம்.
 
-தி. மு. க. ஒப்பந்த ஏட்டிலே கையெழுத்திட்டவர்களின் வெற்றி- திராவிட நாட்டு பிரச்னையில் முதல்
+தி. மு. க. ஒப்பந்த ஏட்டிலே கையெழுத்திட்டவர்களின் வெற்றி—திராவிட நாட்டு பிரச்னையில் முதல்
 
 <!-- scan 62 / printed 60 -->
 
@@ -97,7 +97,7 @@ assembly_method: "concatenated without normalization from canonical page records
 
 அந்த இன்பச் செய்தியைக் கேட்க, மாடோட்டிகளைத் தோற்கடியுங்கள்!
 
-தோல்வித் தோரணம் கட்டவேண்டும், காங்கிரசார்! திராவிடம் பிரிய - திராவிடப் பிரச்சினைக்கு ஆதரவு தேட - மாடோட்டிகளை மண் கவ்வச் செய்யுங்கள் !
+தோல்வித் தோரணம் கட்டவேண்டும், காங்கிரசார்! திராவிடம் பிரிய—திராவிடப் பிரச்சினைக்கு ஆதரவு தேட—மாடோட்டிகளை மண் கவ்வச் செய்யுங்கள்!
 
 வெல்க திராவிடர்! வாழ்க திராவிடம்!
 
@@ -124,7 +124,7 @@ assembly_method: "concatenated without normalization from canonical page records
 
 ## P5 strict visual review
 
-- scans **57–60** closure-reconciled directly against source pixels and propagated.
-- scans **61–62** remain pending the current P5 closure-reconciliation pass.
-- current article body remains exact against current canonical page records for completed scans.
-- status — **P5 RECONCILIATION IN PROGRESS / NOT FROZEN**.
+- scans **57–62** closure-reconciled directly against source pixels and propagated.
+- current article body reconstructed from current canonical page records and compared exactly — **PASS**.
+- unresolved P5 fidelity discrepancies — **0**.
+- status — **STRICT-REVIEWED / FROZEN**.
