@@ -97,6 +97,11 @@ Every one of the **83 physical scans** requires its own canonical page record, i
 
 Closure review found that scans **24–52** had initially been partitioned heuristically from the generated baseline. Those records were rebuilt from directly verified physical PDF boundaries and committed at **`ebe8b2146eef22ac203f8014367cb78dea2d4b76`**.
 
+## Downstream status
+
+- P3 — **COMPLETE / PASS — 13/13 article assemblies**
+- P4 — **COMPLETE / PASS**
+
 ## Next
 
-**P3 — 13 article assemblies from canonical P2 records.**
+**P5 — final strict visual text-fidelity pass over all 83 physical scans.**
