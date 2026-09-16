@@ -27,11 +27,17 @@ The source is the second edition and visibly preserves:
 1. scan 1 — front cover;
 2. scan 2 — reverse / physical-copy donation label;
 3. scan 3 — edition / rights / price / printer page;
-4. scans 4–7 — introductory verse/prologue `வேங்கையை விரட்டும் பாடல்`, numbered I–IV;
+4. scans 4–7 — introductory verse/prologue `வேங்கையை விரட்டும் படலம்`, numbered I–IV;
 5. scans 8–68 — main work `விடுதலைக் கிளர்ச்சி`;
 6. scan 69 — advertisement / publisher catalogue / terminal physical scan.
 
 Separate printed contents page — **not found**.
+
+## P2 source-supported correction
+
+During P2 Batch 001, direct source-pixel review of scan 4 corrected the introductory-unit title from the earlier P1 reading **`வேங்கையை விரட்டும் பாடல்`** to the source-visible **`வேங்கையை விரட்டும் படலம்`**.
+
+This is a source-label correction only; scans 4–7 remain the same four-page introductory unit.
 
 ## Main-work boundary
 
@@ -55,4 +61,4 @@ Later handwriting, donation labels, ageing and show-through are visible. They mu
 
 Publication 14 `பெருமூச்சு` is **RELEASE COMPLETE / FROZEN**.
 
-Publication 15 is next in sequence. **P2 Batch 001 — scans 1–10** is the next activity when explicitly directed.
+Publication 15 P2 is now active. Batch 001 scans 1–10 are **COMPLETE / PASS**. Next: **P2 Batch 002 — scans 11–20**.

@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after Publication 14 `பெருமூச்சு` E7 release closeout. Publications **1–14 are RELEASE COMPLETE / FROZEN**. Publication 15 `விடுதலைக் கிளர்ச்சி` is **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**.
+Handoff refreshed after Publication 15 `விடுதலைக் கிளர்ச்சி` P2 Batch 001. Publications **1–14 are RELEASE COMPLETE / FROZEN**. Publication 15 is **ACTIVE — P0 PASS; P1 PASS 69/69; P2 IN PROGRESS — 10/69 VERIFIED**.
 
 ## Repository state
 
@@ -18,7 +18,7 @@ Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPL
 
 Publication 14 **`பெருமூச்சு` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 13/13 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 15 **`விடுதலைக் கிளர்ச்சி` — QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED; introductory verse + 1 main prose work**.
+Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0 PASS; P1 PASS 69/69; P2 IN PROGRESS — 10/69 VERIFIED; introductory unit + 1 main prose work**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2549,27 +2549,63 @@ Workspace: `publications/viduthalai-kilarcci/`
 - printed author — **`மு. கருணாநிதி`**
 - publisher — **`திராவிடப் பண்ணை`**
 - edition — **`இரண்டாம் பதிப்பு—1953`**
+- source PDF committed — **No**
+- baseline — user-supplied `viduthalai_kilarchi.md` — **non-authoritative comparison aid**
+
+## Current gate state
+
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 69/69**
-- P2 — **NOT STARTED**
+- P2 — **IN PROGRESS — 10/69 VERIFIED**
+- P3 — **NOT STARTED**
+- P4 — **NOT STARTED**
+- P5 — **NOT STARTED**
+- English — **BLOCKED until Tamil P5 / frozen**
 - historical Tamil glyph workflow — **MANDATORY**
 
-Verified P1 structure:
+## P1 structure — corrected by P2 source evidence
 
 - scan 1 — front cover
 - scan 2 — reverse / donation label
 - scan 3 — edition / rights / price / printer page
-- scans 4–7 — introductory verse/prologue `வேங்கையை விரட்டும் பாடல்`, I–IV
+- scans 4–7 — introductory unit **`வேங்கையை விரட்டும் படலம்`**, II–IV visible on scans 5–7
 - scans 8–68 — main prose work `விடுதலைக் கிளர்ச்சி`
 - scan 69 — advertisement / publisher catalogue
 - separate printed contents page — **none**
 
-P1 blockers — **0**.
+P2 Batch 001 corrected the earlier provisional P1 title **`வேங்கையை விரட்டும் பாடல்`** to the scan-visible **`வேங்கையை விரட்டும் படலம்`**.
+
+## P2 Batch 001 — scans 1–10
+
+**COMPLETE / PASS — 10/10 VERIFIED**
+
+- canonical page records — **10**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph ambiguities — **0**
+- progress authority — `publications/viduthalai-kilarcci/P2_PROGRESS.md`
+
+Durable Batch-001 source corrections include:
+
+- scan 3 printer line — **`கலிமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
+- scan 4 title — **`வேங்கையை விரட்டும் படலம்`**
+- scan 4 historical identities — **`கொள்கிறான் / வீரனாகிறான்`**
+- scan 5 — **`கதறித்`**, **`நம்புகிறான்`**, **`நாள் குறித்திடும்`**, **`பசுவிடம்`**, **`விஷமும்`**, **`என்றால்`**
+- scan 6 — **`விளைவு என்ன ஆகும்?`**, **`பெருமைமிகு திராவிடம்`**
+- scan 7 — **`பக்கத்திலே`**
+- scan 8 — source **`வெறும் எழுத்தாரமல்ல;`** separated correctly from later **`உயிர்களின் எண்ணிக்கை கணக்கிலடங்கா!`**
+- scan 10 — source word order **`கூண்டுக் கிளியின் விடுதலைக்காக பூனை...`**
+
+Cross-page fragments retained in page records:
+
+- 5→6 — `யானை / யின்`
+- 6→7 — `நடைபெறு / வது`
+- 8→9 — `தெரிந் / தும்`
+- 10→11 — `விடு / ...` — continuation pending Batch 002
 
 ## Exact next activity
 
-**Publication 15 `விடுதலைக் கிளர்ச்சி` — P2 Batch 001, scans 1–10.**
+**P2 Batch 002 — scans 11–20.**
 
-Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` from the first text-bearing page. Source pixels control; do not use OCR, web text, alternate editions, or contextual completion as authority.
-
-If the controlling PDF is not available in the active chat/workspace, obtain the user-supplied source before starting P2.
+Use `viduthalai_kilarchi.md` only as a baseline comparison aid. Source scan pixels remain controlling. Apply the historical-glyph guide word-by-word and preserve page-boundary fragments exactly.

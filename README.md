@@ -28,7 +28,7 @@ Workspace: `publications/perumoochu/`
   - `publications/perumoochu/translations/en/E6_CONSISTENCY_REVIEW.md`
   - `publications/perumoochu/translations/en/E7_RELEASE_CLOSEOUT.md`
 
-### Publication 15 — விடுதலைக் கிளர்ச்சி — QUEUED
+### Publication 15 — விடுதலைக் கிளர்ச்சி — ACTIVE
 
 Workspace: `publications/viduthalai-kilarcci/`
 
@@ -36,7 +36,7 @@ Workspace: `publications/viduthalai-kilarcci/`
 - physical scans — **69**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 69/69**
-- P2 — **NOT STARTED**
+- P2 — **IN PROGRESS — 10/69 VERIFIED**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil archival freeze**
 - historical Tamil glyph workflow — **MANDATORY**
@@ -44,11 +44,11 @@ Workspace: `publications/viduthalai-kilarcci/`
 Verified structure:
 
 - scans 1–3 — cover / reverse / imprint
-- scans 4–7 — introductory verse/prologue `வேங்கையை விரட்டும் பாடல்`
+- scans 4–7 — introductory verse/prologue `வேங்கையை விரட்டும் படலம்`
 - scans 8–68 — main prose work `விடுதலைக் கிளர்ச்சி`
 - scan 69 — publisher advertisement / catalogue
 
-Exact next activity when explicitly directed: **P2 Batch 001 — scans 1–10**.
+Batch 001 scans **1–10** are **COMPLETE / PASS — 10/10 VERIFIED**. Exact next activity: **P2 Batch 002 — scans 11–20**.
 
 ### Permanent `உடன்பிறப்பே` rule
 

@@ -10,7 +10,7 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - Publication 15
 - P0 source intake — **COMPLETE / PASS**
 - P1 source structure / article inventory — **COMPLETE / PASS — 69/69 structurally inspected**
-- P2 page-level transcription — **NOT STARTED**
+- P2 page-level transcription — **IN PROGRESS — 10/69 VERIFIED**
 - P3 article assembly — **NOT STARTED**
 - P4 source audit — **NOT STARTED**
 - P5 strict visual-text-fidelity pass — **NOT STARTED**
@@ -46,7 +46,7 @@ User-supplied description compares anti-dominance resistance to a mother cow cha
 - scan **1** — front cover / title / author / publisher
 - scan **2** — reverse / physical-copy donation label
 - scan **3** — edition / rights / price / printer page
-- scans **4–7** — introductory verse/prologue **`வேங்கையை விரட்டும் பாடல்`**, numbered I–IV
+- scans **4–7** — introductory verse/prologue **`வேங்கையை விரட்டும் படலம்`**, numbered I–IV
 - scans **8–68** — main prose work **`விடுதலைக் கிளர்ச்சி`**
 - scan **69** — publisher advertisement / catalogue matter
 - separate printed contents page — **not found**
@@ -57,8 +57,23 @@ This 1953 source uses older Tamil metal-type forms. Before P2, read and apply re
 
 No OCR, web copy, alternate edition or contextual completion may control the Tamil text.
 
+User-supplied `viduthalai_kilarchi.md` is available as a **non-authoritative baseline transcription**. It may accelerate comparison, but every canonical reading must be re-established from the rendered source pixels.
+
+## P2 progress
+
+Authority: `P2_PROGRESS.md`.
+
+- Batch 001 — scans **1–10** — **COMPLETE / PASS**
+- canonical page records — **10/69 VERIFIED**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- structural/source corrections propagated — **2 major controls**
+  - introductory unit title: `வேங்கையை விரட்டும் பாடல்` → **`வேங்கையை விரட்டும் படலம்`**
+  - scan 3 printer line: `கலிமகள் பிரஸ், பெரியகடைத் தெரு, திருச்சி.` → **`கலிமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
+
 ## Exact next activity
 
-Publication 15 is **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**.
+**P2 Batch 002 — scans 11–20.**
 
-Publication 14 `பெருமூச்சு` is **RELEASE COMPLETE / FROZEN**. Publication 15 is now next in sequence. Exact next activity: **P2 Batch 001 — scans 1–10**, when explicitly directed and with the controlling source available.
+Use the baseline only as a comparison aid. Verify every word, punctuation mark, page boundary and historical glyph against source pixels.

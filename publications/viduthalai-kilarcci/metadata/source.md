@@ -23,7 +23,7 @@ Direct scan inspection establishes:
 - edition — **`இரண்டாம் பதிப்பு—1953`**
 - rights line — **`உரிமையுடையது.`**
 - price — **`விலை ரூ. 1—0—0`**
-- printer line — **`கலிமகள் பிரஸ், பெரியகடைத் தெரு, திருச்சி.`**
+- printer line — **`கலிமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
 
 The user supplied the catalog title `விடுதலைக் கிளர்ச்சி`, author `கலைஞர் மு. கருணாநிதி`, publisher `திராவிடப் பண்ணை`, and edition `இரண்டாம் பதிப்பு, 1953`. Source-visible spacing and punctuation above remain controlling for transcription.
 
@@ -32,7 +32,7 @@ The user supplied the catalog title `விடுதலைக் கிளர்
 - scan 1 — front cover; later physical-copy handwriting is present
 - scan 2 — reverse / donation label
 - scan 3 — edition / rights / price / printer page
-- scans 4–7 — introductory verse/prologue `வேங்கையை விரட்டும் பாடல்`, numbered I–IV
+- scans 4–7 — introductory verse/prologue `வேங்கையை விரட்டும் படலம்`, numbered I–IV
 - scan 8 — main work opening heading `விடுதலைக் கிளர்ச்சி`
 - scans 8–68 — continuous main prose work
 - scan 69 — terminal advertisement / publisher catalogue
@@ -49,6 +49,16 @@ The user supplied the catalog title `விடுதலைக் கிளர்
 ## Printed-page behaviour
 
 The main prose run uses visible Arabic folios through the source. Scan 9 visibly carries printed page **8**, and the sequence continues through scan 68 printed page **67**. Opening pages and preliminary verse pages use their own source-visible numbering / labels; P2 must record only what is actually printed and use `null` where no folio is visible.
+
+## Baseline transcription
+
+The user supplied `viduthalai_kilarchi.md` after P1.
+
+- role — **non-authoritative comparison baseline**
+- authority — **No**
+- canonical decisions — source scan pixels only
+- first use — P2 Batch 001, scans 1–10
+- baseline errors are recorded page-by-page when corrected
 
 ## Source exclusions
 

@@ -9,7 +9,7 @@
 | 1 | front cover / title / author / publisher | — |
 | 2 | reverse + physical-copy donation label | — |
 | 3 | edition / rights / price / printer page | — |
-| 4–7 | introductory verse / prologue, I–IV | `வேங்கையை விரட்டும் பாடல்` |
+| 4–7 | introductory verse / prologue, I–IV | `வேங்கையை விரட்டும் படலம்` |
 | 8–68 | main prose work | `விடுதலைக் கிளர்ச்சி` |
 | 69 | advertisement / publisher catalogue / terminal scan | — |
 
@@ -33,6 +33,27 @@
 ## Printed folios
 
 The principal prose run visibly follows the source page sequence: scan 9 carries printed page 8 and scan 68 carries printed page 67. P2 must record only source-visible folios; do not infer a missing folio from sequence alone.
+
+## P2 current coverage
+
+**Batch 001 COMPLETE / PASS — scans 1–10**
+
+| Scan | Canonical record | Status | Source-visible folio |
+|---:|---|---|:---:|
+| 1 | `pages/0001-front-cover.md` | verified | — |
+| 2 | `pages/0002-reverse-donation-label.md` | verified | — |
+| 3 | `pages/0003-imprint.md` | verified | — |
+| 4 | `pages/0004-vengaiyai-virattum-padalam-1.md` | verified | — |
+| 5 | `pages/0005-vengaiyai-virattum-padalam-2.md` | verified | — |
+| 6 | `pages/0006-vengaiyai-virattum-padalam-3.md` | verified | — |
+| 7 | `pages/0007-vengaiyai-virattum-padalam-4.md` | verified | — |
+| 8 | `pages/0008-viduthalai-kilarcci-1.md` | verified | — |
+| 9 | `pages/0009-viduthalai-kilarcci-2.md` | verified | 8 |
+| 10 | `pages/0010-viduthalai-kilarcci-3.md` | verified | 9 |
+
+P2 progress — **10/69 verified; 0 needs-review; 0 blocked**.
+
+Source-supported correction at scan 4: introductory unit is **`வேங்கையை விரட்டும் படலம்`**, not the earlier provisional `வேங்கையை விரட்டும் பாடல்`.
 
 ## P2 rule
 
