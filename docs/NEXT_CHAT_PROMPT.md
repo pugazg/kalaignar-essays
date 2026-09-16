@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பெருமூச்சு / English Article 6 T1
+# NEXT CHAT PROMPT — பெருமூச்சு / English Article 7 T0
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -43,7 +43,7 @@ Permanent non-regression controls:
 
 E0 — **COMPLETE / PASS**
 
-Articles **1–5 are T0–T5 VERIFIED**.
+Articles **1–6 are T0–T5 VERIFIED**.
 
 | # | Tamil title | Verified English title | Frozen Tamil blob | Verified English blob |
 |---:|---|---|---|---|
@@ -52,21 +52,29 @@ Articles **1–5 are T0–T5 VERIFIED**.
 | 3 | `மந்திரிகள் குலை நடுக்கம்` | **Ministers Tremble in Fear** | `d05169cb394df089ef4f4cbdeefd35c3a563451d` | `3d0e2718db290159e717db23890611f461af1149` |
 | 4 | `வாபஸ் வீரர்கள்!` | **Heroes of Retreat!** | `6ddca33c16fa7ee4f22d3f3f666df168b39c5b40` | `47510c75833b1abd6990871ebc45c9e9eb8ba1db` |
 | 5 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | **A Special Warning to the Public** | `64a63aa5061d5f546f71526889af20baf3dd88e8` | `637fd7fb72126b4b677846839191459616971d60` |
+| 6 | `சிறுவர்கள்` | **Youngsters** | `14501305ff4935d672444459dfe404d51ac97282` | `b2694657339a42c84d932e67ee63684a588245d2` |
 
 Aggregate English checkpoint:
 
 - T0 — **6/13 PASS**
-- T1 — **5/13 COMPLETE**
-- T2 — **5/13 PASS**
-- T3 — **5/13 PASS**
-- T4 — **5/13 PASS**
-- T5 — **5/13 VERIFIED**
-- verified source comments — **30/30 PASS**
+- T1 — **6/13 COMPLETE**
+- T2 — **6/13 PASS**
+- T3 — **6/13 PASS**
+- T4 — **6/13 PASS**
+- T5 — **6/13 VERIFIED**
+- verified source comments — **34/34 PASS**
 - untranslated Tamil body leakage — **0**
 - omitted Tamil clauses after bilingual review — **0**
 - added substantive English claims after bilingual review — **0**
 - Tamil source changes — **0**
 - blockers — **0**
+
+Article 6 durable translation decisions:
+
+- `சிறுவர்கள்` → **Youngsters**
+- `அண்ணா` → **Anna**
+- `சாமியார்` → ***swami***
+- `இளம் இதயம்` → **young heart**
 
 English controls:
 
@@ -88,42 +96,37 @@ Core rule:
 
 Use the frozen Tamil article assembly as the sole normal translation authority.
 
-Do not translate from:
+Do not translate from OCR, web text, alternate editions, raw user transcript, superseded P3 blobs, remembered wording, or outside political/historical interpretation.
 
-- OCR;
-- web text;
-- alternate editions;
-- raw user transcript;
-- superseded P3 blobs;
-- remembered wording;
-- outside political or historical interpretation.
+Preserve source rhetoric, accusation, satire, mockery, repetition, quotation scope, source-chosen organisation names, source-bearing terms, and source page-boundary comments as:
 
-Preserve:
-
-- source rhetoric, accusation, satire, mockery and repetition;
-- quoted speech and quotation scope;
-- source-chosen organisation names and source-bearing terms;
-- source page-boundary comments as `<!-- Tamil source: scan ... -->`.
+`<!-- Tamil source: scan ... -->`
 
 Do not add present-day political explanation to the English body.
 
-## Article 6 T0 checkpoint
-
-- frozen Tamil authority — `publications/perumoochu/articles/06-siruvargal.md`
-- required blob — **`14501305ff4935d672444459dfe404d51ac97282`**
-- live `main` blob — **exact match**
-- T0 — **PASS**
-- English body file created during T0 — **No**
-- Tamil source changes — **0**
-- blockers — **0**
-
 ## Exact next activity
 
-**Article 6 `சிறுவர்கள்` — T1 close paragraph-by-paragraph English draft.**
+**Article 7 `“அஹிம்சா விலாசம்”` — T0 source prerequisite.**
 
-Create `publications/perumoochu/translations/en/06-siruvargal.md` only from the frozen Tamil assembly above. Preserve all four source page-boundary comments (`scans 37–40`) and do not add outside political or historical explanation. After T1, continue to T2 only as a separate gate unless the user explicitly asks to process further.
+Frozen Tamil authority:
 
-Do not reopen Articles 1–5 unless a genuine frozen-source change requires it.
+`publications/perumoochu/articles/07-ahimsa-vilasam.md`
+
+Required exact blob:
+
+**`12c50fe83ef047ca060669831c82d3e00defc04a`**
+
+Steps:
+
+1. fetch live `main` Article 7 Tamil file;
+2. verify exact blob match;
+3. if exact — mark **T0 PASS**;
+4. only then create `translations/en/07-ahimsa-vilasam.md` and begin T1;
+5. preserve the quoted-title framing of **`“அஹிம்சா விலாசம்”`** during title review;
+6. follow T1 → T2 → T3 → T4 → T5 in order;
+7. update tracker, source map if a verified English blob is created, living lexicon, review ledger, README, audit and HANDOVER.
+
+Do not reopen Articles 1–6 unless a genuine frozen-source change requires it.
 
 ## Publication 15
 
