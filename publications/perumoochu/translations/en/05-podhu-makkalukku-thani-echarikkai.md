@@ -62,7 +62,7 @@ We wish to say something emphatically to the Communists. We remind them once of 
 
 <!-- Tamil source: scan 28 / printed 26 -->
 
-Let *Viduthalai*'s golden saying be a lesson to them! "The husband who treats the wife who lives with him in true affection with contempt, and then, bewitched by the sidelong glance and coquettish speech of a dancing courtesan, runs after her, is bound one day to come to his senses."
+Let *Viduthalai*'s golden saying be a lesson to them! "The husband who treats the wife who lives with him in true affection with contempt, and then, bewitched by the sidelong glance and coquettish speech of a dancing prostitute, runs after her, is bound one day to come to his senses."
 
 We know very well that the Communists do not regard the Dravida Munnetra Kazhagam as a weak party. The Communists know well that the DMK is not a party in which the leader—newspaper editor—orator—committee—secretary, statement-issuer, adviser and treasurer are all one man conducting it in many different incarnations!
 
@@ -136,7 +136,7 @@ Just as Periyar praises the Communists for working to defeat the Congress, Anna 
 
 <!-- Tamil source: scan 36 / printed 34 -->
 
-Anna, while praising the Congressmen who drove out the white man, did not forget the question of Dravida Nadu! Our opponents, those troubled by our strength, and our Communist friends who have been dazzled by the wordplay of those whose stomachs burn at our growth, must understand this.
+Anna, while praising the Congressmen who drove out the white man, did not forget the question of Dravida Nadu! Our opponents, those troubled by our strength, and our Communist friends who have been dazzled by the verbal magic of those whose stomachs burn at our growth, must understand this.
 
 We ask the public not to be distracted by such deceptive theatrical talk, but to keep the defeat of the Congress in view and, at the same time, support in the election those candidates who have pledged support for the question of Dravida Nadu.
 
