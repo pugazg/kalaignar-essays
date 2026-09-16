@@ -58,3 +58,37 @@ English article body files at E0 — **0/13**.
 English body prose at E0 — **0**.  
 Tamil source changes during E0 — **0**.  
 Blockers — **0**.
+
+
+## Verified English authorities — Articles 1–5
+
+These are downstream English authorities only. They do not replace the frozen Tamil pins above.
+
+| # | English file | Verified English title | Verified English blob | Status |
+|---:|---|---|---|---|
+| 1 | `01-perumoochu.md` | **A Deep Sigh** | `8a441b0c4d33aacd2e61795800de2f95c4804e81` | T5 VERIFIED |
+| 2 | `02-maaligai-amaiththida-vareer.md` | **Come, Let Us Build the Mansion!** | `ef0be10af34519b868634de64fc67bfde53bc5fb` | T5 VERIFIED |
+| 3 | `03-manthirigal-kulai-nadukkam.md` | **Ministers Tremble in Fear** | `3d0e2718db290159e717db23890611f461af1149` | T5 VERIFIED |
+| 4 | `04-vaapas-veerargal.md` | **Heroes of Retreat!** | `47510c75833b1abd6990871ebc45c9e9eb8ba1db` | T5 VERIFIED |
+| 5 | `05-podhu-makkalukku-thani-echarikkai.md` | **A Special Warning to the Public** | `637fd7fb72126b4b677846839191459616971d60` | T5 VERIFIED |
+
+Articles **6–13** remain **NOT STARTED** in English.
+
+## Translation checkpoint
+
+- E0 — **COMPLETE / PASS**
+- T0 — **5/13 PASS**
+- T1 — **5/13 COMPLETE**
+- T2 — **5/13 PASS**
+- T3 — **5/13 PASS**
+- T4 — **5/13 PASS**
+- T5 — **5/13 VERIFIED**
+- verified English source comments — **30/30 PASS**
+- Tamil source changes during Articles 1–5 — **0**
+- blockers — **0**
+
+## Exact next activity
+
+**Article 6 `சிறுவர்கள்` — T0 source prerequisite.**
+
+Require live `main` Tamil blob **`14501305ff4935d672444459dfe404d51ac97282`** before creating its English body file.
