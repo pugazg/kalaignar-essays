@@ -43,6 +43,8 @@ transcription_method: "user-supplied perumoochu.md used as baseline; direct rend
 
 ## Baseline-to-source fidelity note
 
+- physical scan boundary reverified directly against rendered source pixels; previous heuristic segmentation was replaced.
+
 - `perumoochu.md` is baseline only; source pixels control the canonical reading.
 - this record is bounded to physical scan **27**; no text from the next scan is intentionally imported.
 - guessed completion — **0**.
