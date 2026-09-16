@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பெருமூச்சு / English Article 6 T0
+# NEXT CHAT PROMPT — பெருமூச்சு / English Article 6 T1
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -55,7 +55,7 @@ Articles **1–5 are T0–T5 VERIFIED**.
 
 Aggregate English checkpoint:
 
-- T0 — **5/13 PASS**
+- T0 — **6/13 PASS**
 - T1 — **5/13 COMPLETE**
 - T2 — **5/13 PASS**
 - T3 — **5/13 PASS**
@@ -107,26 +107,21 @@ Preserve:
 
 Do not add present-day political explanation to the English body.
 
+## Article 6 T0 checkpoint
+
+- frozen Tamil authority — `publications/perumoochu/articles/06-siruvargal.md`
+- required blob — **`14501305ff4935d672444459dfe404d51ac97282`**
+- live `main` blob — **exact match**
+- T0 — **PASS**
+- English body file created during T0 — **No**
+- Tamil source changes — **0**
+- blockers — **0**
+
 ## Exact next activity
 
-**Article 6 `சிறுவர்கள்` — T0 source prerequisite.**
+**Article 6 `சிறுவர்கள்` — T1 close paragraph-by-paragraph English draft.**
 
-Frozen Tamil authority:
-
-`publications/perumoochu/articles/06-siruvargal.md`
-
-Required exact blob:
-
-**`14501305ff4935d672444459dfe404d51ac97282`**
-
-Steps:
-
-1. fetch live `main` Article 6 Tamil file;
-2. verify exact blob match;
-3. if exact — mark **T0 PASS**;
-4. only then create `translations/en/06-siruvargal.md` and begin T1;
-5. follow T1 → T2 → T3 → T4 → T5 in order;
-6. update tracker, source map if a verified English blob is created, living lexicon, review ledger, README, audit and HANDOVER.
+Create `publications/perumoochu/translations/en/06-siruvargal.md` only from the frozen Tamil assembly above. Preserve all four source page-boundary comments (`scans 37–40`) and do not add outside political or historical explanation. After T1, continue to T2 only as a separate gate unless the user explicitly asks to process further.
 
 Do not reopen Articles 1–5 unless a genuine frozen-source change requires it.
 
