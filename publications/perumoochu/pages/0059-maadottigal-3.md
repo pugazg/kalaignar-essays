@@ -14,7 +14,7 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 # அச்சு உரை
 
-இலங்கையிலே இடர் பல ஏற்றுக்கிடக்கும் திராவிடரையெல்லாம் திருப்பியழைத்து தித்திப்பான வாழ்வைத் தந்திருக்காதா சுதந்திரத் திராவிடம் !
+இலங்கையிலே இடர் பல ஏற்றுக்கிடக்கும் திராவிடரையெல்லாம் திருப்பியமைத்து தித்திப்பான வாழ்வைத் தந்திருக்காதா சுதந்திரத் திராவிடம் !
 
 மலேயாவிலே கணபதி கயிற்றிலே தொங்க நேர்ந்தது.
 
@@ -43,6 +43,11 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 - baseline is non-authoritative; source pixels control.
 - guessed completion — **0**.
+
+## P5 strict visual fidelity findings
+
+- P5 direct scan review: `திருப்பியழைத்து` → source-visible **`திருப்பியமைத்து`**.
+- unresolved P5 fidelity discrepancy on this recorded finding — **0**.
 
 ## P2 நிலை
 
