@@ -34,7 +34,8 @@ The publication contains a publisher preface followed by **13** distinct politic
 - historical-glyph guide — **mandatory**
 - P2 — **COMPLETE / PASS — 83/83 VERIFIED**
 - P3 — **COMPLETE / PASS — 13/13**
-- P4–P5 — **NOT STARTED**
+- P4 — **COMPLETE / PASS**
+- P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil P5 / frozen**
 
 ## P2 final audit
@@ -101,8 +102,35 @@ The publication contains a publisher preface followed by **13** distinct politic
 
 **PASS — P4 may begin.**
 
+## P4 source/completeness audit
+
+**COMPLETE / PASS**
+
+- source coverage — **83/83**
+- page-record sequence — **1–83 contiguous**
+- missing / duplicate records — **0 / 0**
+- article-body coverage — **74/74**
+- article assemblies — **13/13**
+- scan-marker / provenance defects — **0**
+- front matter / preface / catalogue isolation — **PASS**
+- physical-copy-mark contamination — **0**
+- canonical text corrections required by P4 — **0**
+- control-document propagation repairs — **3**
+- unresolved blockers — **0**
+- authority — `P4_SOURCE_AUDIT.md`
+
+### P4 propagation repairs
+
+- canonical Article-7 title `“அஹிம்சா விலாசம்”` propagated into `P1_SOURCE_STRUCTURE_REVIEW.md`;
+- the same quoted title propagated into `indexes/page-map.md`;
+- missing P2 Batch-002 closure summary for scans 24–52 restored in `P2_TRANSCRIPTION_PROGRESS.md`.
+
+## P4 gate result
+
+**PASS — P5 may begin.**
+
 ## Exact next activity
 
-**P4 — publication source/completeness audit.**
+**P5 — final strict visual text-fidelity pass over all 83 physical scans.**
 
-Do not begin P5 or English before P4 passes.
+Do not begin English until P5 closes and Tamil is frozen.
