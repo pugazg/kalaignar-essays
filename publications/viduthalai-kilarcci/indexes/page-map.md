@@ -36,7 +36,7 @@ The principal prose run visibly follows the source page sequence: scan 9 carries
 
 ## P2 current coverage
 
-**Batch 001 COMPLETE / PASS — scans 1–10**
+**Batches 001–002 COMPLETE / PASS — scans 1–20**
 
 | Scan | Canonical record | Status | Source-visible folio |
 |---:|---|---|:---:|
@@ -50,10 +50,22 @@ The principal prose run visibly follows the source page sequence: scan 9 carries
 | 8 | `pages/0008-viduthalai-kilarcci-1.md` | verified | — |
 | 9 | `pages/0009-viduthalai-kilarcci-2.md` | verified | 8 |
 | 10 | `pages/0010-viduthalai-kilarcci-3.md` | verified | 9 |
+| 11 | `pages/0011-viduthalai-kilarcci-4.md` | verified | 10 |
+| 12 | `pages/0012-viduthalai-kilarcci-5.md` | verified | 11 |
+| 13 | `pages/0013-viduthalai-kilarcci-6.md` | verified | 12 |
+| 14 | `pages/0014-viduthalai-kilarcci-7.md` | verified | 13 |
+| 15 | `pages/0015-viduthalai-kilarcci-8.md` | verified | 14 |
+| 16 | `pages/0016-viduthalai-kilarcci-9.md` | verified | 15 |
+| 17 | `pages/0017-viduthalai-kilarcci-10.md` | verified | 16 |
+| 18 | `pages/0018-viduthalai-kilarcci-11.md` | verified | 17 |
+| 19 | `pages/0019-viduthalai-kilarcci-12.md` | verified | 18 |
+| 20 | `pages/0020-viduthalai-kilarcci-13.md` | verified | 19 |
 
-P2 progress — **10/69 verified; 0 needs-review; 0 blocked**.
+P2 progress — **20/69 verified; 0 needs-review; 0 blocked**.
 
 Source-supported correction at scan 4: introductory unit is **`வேங்கையை விரட்டும் படலம்`**, not the earlier provisional `வேங்கையை விரட்டும் பாடல்`.
+
+Batch-002 durable correction: scan 14 reads **`இந்தோ சீனாவில்!`**.
 
 ## P2 rule
 

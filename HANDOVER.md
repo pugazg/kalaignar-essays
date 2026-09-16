@@ -2533,7 +2533,7 @@ English controls:
 
 No further Publication 14 archival or translation activity is pending.
 
-Publication 15 `விடுதலைக் கிளர்ச்சி` is next in sequence at **P2 NOT STARTED**.
+Publication 15 `விடுதலைக் கிளர்ச்சி` is **ACTIVE — P2 IN PROGRESS — 20/69 VERIFIED**.
 # Publication 15 — விடுதலைக் கிளர்ச்சி
 
 Workspace: `publications/viduthalai-kilarcci/`
@@ -2556,7 +2556,7 @@ Workspace: `publications/viduthalai-kilarcci/`
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 69/69**
-- P2 — **IN PROGRESS — 10/69 VERIFIED**
+- P2 — **IN PROGRESS — 20/69 VERIFIED**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -2604,8 +2604,21 @@ Cross-page fragments retained in page records:
 - 8→9 — `தெரிந் / தும்`
 - 10→11 — `விடு / ...` — continuation pending Batch 002
 
+## P2 Batch 002 — scans 11–20
+
+**COMPLETE / PASS — 10/10 VERIFIED**
+
+Durable source corrections include:
+
+- scan 14 — **`இந்தோ சீனாவில்!`**;
+- scan 14 — **`தேசம்`**, **`லட்சத்து பத்தாயிரம்`**;
+- scan 15 — **`சுகர்னோவும்`**, **`நடந்திருக்கிறது`**;
+- scan 16 — **`தூள் தூளாக`**;
+- scan 19 — **`அழுந்தியிருந்த`**;
+- scan 20 — **`ஒரு ஐக்கிய முன்னணி`**.
+
 ## Exact next activity
 
-**P2 Batch 002 — scans 11–20.**
+**P2 Batch 003 — scans 21–30.**
 
 Use `viduthalai_kilarchi.md` only as a baseline comparison aid. Source scan pixels remain controlling. Apply the historical-glyph guide word-by-word and preserve page-boundary fragments exactly.

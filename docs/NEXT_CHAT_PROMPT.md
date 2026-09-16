@@ -1,70 +1,59 @@
-# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P2 Batch 002 scans 11–20
+# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P2 Batch 003 scans 21–30
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Frozen publications
 
-Publications **1–14 are RELEASE COMPLETE / FROZEN**. Do not reopen them merely for stylistic polishing, terminology homogenisation, modernisation, or stale prompts.
+Publications **1–14 are RELEASE COMPLETE / FROZEN**. Do not reopen them for stylistic polishing or stale prompts.
 
 ## Publication 15 — ACTIVE
 
-Workspace:
+Workspace: `publications/viduthalai-kilarcci/`
 
-`publications/viduthalai-kilarcci/`
+Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf`
 
-Controlling source:
+Baseline aid: user-supplied `viduthalai_kilarchi.md` — **NON-AUTHORITATIVE**.
 
-`TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf`
-
-Baseline aid:
-
-`viduthalai_kilarchi.md`
-
-The baseline is **non-authoritative**. Use it only to accelerate comparison. Every canonical reading must be established from source pixels.
-
-## Source identity
-
-- physical scans — **69**
-- bytes — **101,127,153**
-- SHA-256 — **`444ff76695154b5ee9d53f4647873fde72659a3d52a76aa833fdc502fb518809`**
-- PDF version — **1.4**
-- source cover form — **`விடுதலைக்கிளர்ச்சி`**
-- printed author — **`மு. கருணாநிதி`**
-- publisher — **`திராவிடப் பண்ணை`**
-- edition — **`இரண்டாம் பதிப்பு—1953`**
+Source pixels remain controlling.
 
 ## Current state
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 69/69**
-- P2 — **IN PROGRESS — 10/69 VERIFIED**
+- P2 — **IN PROGRESS — 20/69 VERIFIED**
+- Batch 001 — scans **1–10 COMPLETE / PASS**
+- Batch 002 — scans **11–20 COMPLETE / PASS**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil archival freeze**
-- historical Tamil glyph workflow — **MANDATORY**
 
-P2 authority:
+## Durable corrections — do not regress
 
-`publications/viduthalai-kilarcci/P2_PROGRESS.md`
+Batch 001:
 
-## Durable Batch-001 corrections
+- `வேங்கையை விரட்டும் படலம்`
+- `கலிமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`
+- `நாள் குறித்திடும்`
+- `பெருமைமிகு திராவிடம்`
+- `வெறும் எழுத்தாரமல்ல;`
 
-Do not regress:
+Batch 002:
 
-- introductory title — **`வேங்கையை விரட்டும் படலம்`**, not `வேங்கையை விரட்டும் பாடல்`
-- scan 3 printer line — **`கலிமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
-- scan 4 — **`கொள்கிறான் / வீரனாகிறான்`**
-- scan 5 — **`கதறித்`**, **`நம்புகிறான்`**, **`நாள் குறித்திடும்`**, **`பசுவிடம்`**, **`விஷமும்`**, **`என்றால்`**
-- scan 6 — **`விளைவு என்ன ஆகும்?`**, **`பெருமைமிகு திராவிடம்`**
-- scan 7 — **`பக்கத்திலே`**
-- scan 8 — **`வெறும் எழுத்தாரமல்ல;`** and later **`உயிர்களின் எண்ணிக்கை கணக்கிலடங்கா!`**
-- scan 10 source word order — **`கூண்டுக் கிளியின் விடுதலைக்காக பூனை...`**
+- scan 12 — `காலனிகளாகவும்`
+- scan 14 — `தேசம்`
+- scan 14 — `லட்சத்து பத்தாயிரம்`
+- scan 14 — **`இந்தோ சீனாவில்!`**
+- scan 15 — `சுகர்னோவும்`
+- scan 15 — `நடந்திருக்கிறது`
+- scan 16 — `தூள் தூளாக`
+- scan 19 — `அழுந்தியிருந்த`
+- scan 20 — `ஒரு ஐக்கிய முன்னணி`
 
-Cross-page fragments:
+Cross-page boundary entering Batch 003:
 
-- 5→6 — `யானை / யின்`
-- 6→7 — `நடைபெறு / வது`
-- 8→9 — `தெரிந் / தும்`
-- 10→11 — scan 10 ends **`விடு`**; resolve continuation only from scan 11 source pixels.
+- scan 20 ends **`இரண்டா`**; resolve the continuation only from scan 21 source pixels.
 
 ## Mandatory controls
 
@@ -78,16 +67,14 @@ Read before writing:
 6. `publications/viduthalai-kilarcci/audit.md`
 7. root `HANDOVER.md`
 
-Source pixels control.
-
-Do not use OCR, web text, alternate editions, remembered wording, or contextual completion as authority.
-
-For every scan, explicitly check the historical families:
+For every scan explicitly check:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
+Do not use OCR/web/alternate editions/contextual completion as authority.
+
 ## Exact next activity
 
-**P2 Batch 002 — scans 11–20.**
+**P2 Batch 003 — scans 21–30.**
 
-Create/verify canonical page records in physical scan order, preserve source-visible folios and page-boundary fragments, record baseline→source corrections, and update P2 progress / README / audit / handover.
+Create/verify canonical page records in physical scan order, preserve printed folios and physical page-boundary fragments, record baseline→source corrections, and update all progress/control files.

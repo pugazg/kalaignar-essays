@@ -10,7 +10,7 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - Publication 15
 - P0 source intake — **COMPLETE / PASS**
 - P1 source structure / article inventory — **COMPLETE / PASS — 69/69 structurally inspected**
-- P2 page-level transcription — **IN PROGRESS — 10/69 VERIFIED**
+- P2 page-level transcription — **IN PROGRESS — 20/69 VERIFIED**
 - P3 article assembly — **NOT STARTED**
 - P4 source audit — **NOT STARTED**
 - P5 strict visual-text-fidelity pass — **NOT STARTED**
@@ -64,7 +64,8 @@ User-supplied `viduthalai_kilarchi.md` is available as a **non-authoritative bas
 Authority: `P2_PROGRESS.md`.
 
 - Batch 001 — scans **1–10** — **COMPLETE / PASS**
-- canonical page records — **10/69 VERIFIED**
+- Batch 002 — scans **11–20** — **COMPLETE / PASS**
+- canonical page records — **20/69 VERIFIED**
 - needs-review — **0**
 - blocked — **0**
 - guessed readings — **0**
@@ -74,6 +75,6 @@ Authority: `P2_PROGRESS.md`.
 
 ## Exact next activity
 
-**P2 Batch 002 — scans 11–20.**
+**P2 Batch 003 — scans 21–30.**
 
 Use the baseline only as a comparison aid. Verify every word, punctuation mark, page boundary and historical glyph against source pixels.

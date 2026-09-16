@@ -2,7 +2,7 @@
 
 ## Status
 
-**IN PROGRESS — 10/69 physical scans VERIFIED**
+**IN PROGRESS — 20/69 physical scans VERIFIED**
 
 Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf`  
 Baseline aid: user-supplied `viduthalai_kilarchi.md` — **NON-AUTHORITATIVE**  
@@ -58,24 +58,63 @@ Page records preserve physical fragments exactly:
 
 These may be joined only in a later assembled reading layer with reversible provenance.
 
+## Batch 002 — scans 11–20
+
+**COMPLETE / PASS — 10/10 VERIFIED**
+
+| Scan | Record | Role | Status |
+|---:|---|---|---|
+| 11 | `pages/0011-viduthalai-kilarcci-4.md` | main work / printed 10 | verified |
+| 12 | `pages/0012-viduthalai-kilarcci-5.md` | main work / printed 11 | verified |
+| 13 | `pages/0013-viduthalai-kilarcci-6.md` | main work / printed 12 | verified |
+| 14 | `pages/0014-viduthalai-kilarcci-7.md` | main work / printed 13 | verified |
+| 15 | `pages/0015-viduthalai-kilarcci-8.md` | main work / printed 14 | verified |
+| 16 | `pages/0016-viduthalai-kilarcci-9.md` | main work / printed 15 | verified |
+| 17 | `pages/0017-viduthalai-kilarcci-10.md` | main work / printed 16 | verified |
+| 18 | `pages/0018-viduthalai-kilarcci-11.md` | main work / printed 17 | verified |
+| 19 | `pages/0019-viduthalai-kilarcci-12.md` | main work / printed 18 | verified |
+| 20 | `pages/0020-viduthalai-kilarcci-13.md` | main work / printed 19 | verified |
+
+### Durable Batch-002 corrections
+
+- scan 12 — baseline `காலானிகளாகவும்` → source **`காலனிகளாகவும்`**;
+- scan 14 — baseline `நேசம்` → source **`தேசம்`**;
+- scan 14 — baseline numeric/word corruption → **`லட்சத்து பத்தாயிரம்`**;
+- scan 14 — source/user-confirmed **`இந்தோ சீனாவில்!`**; rejected `இந்தோ சீனவில்!`;
+- scan 15 — `சுகர்லேவும்` → **`சுகர்னோவும்`**;
+- scan 15 — damaged baseline `டந்திருக் கிறது` → source **`நடந்திருக்கிறது`**;
+- scan 16 — `துள் தூளாக` → source **`தூள் தூளாக`**;
+- scan 19 — baseline `அமுந்தியிருந்த` → enlarged source reading **`அழுந்தியிருந்த`**;
+- scan 20 — source **`ஒரு ஐக்கிய முன்னணி`**.
+
+Cross-page controls added:
+
+- 10→11 — `விடு / தலைத்`;
+- 11→12 — `கும்பல் / களை`;
+- 14→15 — `முறியடித்துவிடலா / மென்று`;
+- 15→16 — `பிரஞ்சுக் / காலனி`;
+- 16→17 — sentence continues after terminal `பின்னர்`;
+- 17→18 — `பிரிட்டிஷ் / மன்னன்`;
+- 20→21 — terminal `இரண்டா / ...` pending Batch 003.
+
 ## Historical-glyph state
 
-- mandatory family check applied — **scans 1–10**
+- mandatory family check applied — **scans 1–20**
 - unresolved historical-glyph ambiguities — **0**
 - global replacements used — **0**
 - guessed readings — **0**
 
 ## Totals
 
-- canonical records — **10/69**
-- verified — **10**
+- canonical records — **20/69**
+- verified — **20**
 - needs-review — **0**
 - blocked — **0**
 - guessed — **0**
-- remaining — **59**
+- remaining — **49**
 
 ## Exact next activity
 
-**P2 Batch 002 — scans 11–20.**
+**P2 Batch 003 — scans 21–30.**
 
 Use the supplied baseline only as a comparison aid; source pixels remain controlling.

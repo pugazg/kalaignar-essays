@@ -32,7 +32,7 @@ The source consists of preliminary verse/prologue material followed by one conti
 
 - historical Tamil typeforms — **present**
 - historical-glyph guide — **mandatory**
-- P2 — **IN PROGRESS — 10/69 VERIFIED**
+- P2 — **IN PROGRESS — 20/69 VERIFIED**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil P5 / frozen**
 
@@ -52,8 +52,23 @@ The source consists of preliminary verse/prologue material followed by one conti
 - source-visible cross-page fragments preserved at scans 5→6, 6→7, 8→9 and 10→11
 - P2 progress authority — `P2_PROGRESS.md`
 
+## P2 Batch 002 audit
+
+**COMPLETE / PASS — scans 11–20**
+
+- page records created — **10**
+- verified — **10**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph workflow — **applied**
+- user/source correction — scan 14 **`இந்தோ சீனாவில்!`**
+- key baseline repairs — **`காலனிகளாகவும்`**, **`தேசம்`**, **`லட்சத்து பத்தாயிரம்`**, **`சுகர்னோவும்`**, **`நடந்திருக்கிறது`**, **`தூள் தூளாக`**, **`அழுந்தியிருந்த`**, **`ஒரு ஐக்கிய முன்னணி`**
+- source-visible cross-page continuations preserved through scan 20→21
+- P2 progress authority — `P2_PROGRESS.md`
+
 ## Next
 
-Publication 15 is **ACTIVE — P0–P1 COMPLETE / P2 IN PROGRESS — 10/69 VERIFIED**.
+Publication 15 is **ACTIVE — P0–P1 COMPLETE / P2 IN PROGRESS — 20/69 VERIFIED**.
 
-Next gate: **P2 Batch 002 — scans 11–20**.
+Next gate: **P2 Batch 003 — scans 21–30**.
