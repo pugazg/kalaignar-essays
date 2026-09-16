@@ -16,7 +16,7 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 
 # பெருமூச்சு!
 
-மு. கருணாநிதி
+மு.கருணாநிதி
 
 ## அச்சு அமைப்பு
 
