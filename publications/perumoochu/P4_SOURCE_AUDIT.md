@@ -195,11 +195,18 @@ P4 does **not** claim the final strict visual reinspection required by `ESSAY_PR
 
 **COMPLETE / PASS**
 
+## Downstream P5 status
+
+P4 remains historically **COMPLETE / PASS**. Downstream P5 is now:
+
+- **IN PROGRESS — 78/83 directly rechecked**;
+- current P5 authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`;
+- scans **79–83** remain pending;
+- Tamil archival layer — **NOT YET FROZEN**.
+
 ## Exact next activity
 
-**P5 — final strict visual text-fidelity pass over all 83 physical scans.**
-
-P5 must directly inspect every physical source scan against its canonical page record, word-by-word and punctuation-by-punctuation, including front matter, publisher preface, all 13 articles, advertisements/catalogue matter, historical Tamil glyphs, headings, numbers, printed folios, paragraph/page continuations and physical-copy marks. Every P5 correction must be propagated to dependent article assemblies and controls.
+**Continue P5 with scans 79–83.** Then propagate any remaining corrections, consolidate the full P5 ledger, re-run final article reconstruction and close P5 only if 83/83 pass.
 
 Do **not** begin English translation until P5 closes and the Tamil archival layer is frozen.
 
