@@ -125,14 +125,14 @@ After all 13/13 articles are T5 verified:
 - Article 2 — **Come, Let Us Build the Mansion!** — verified English blob `ef0be10af34519b868634de64fc67bfde53bc5fb`
 - Article 3 — **Ministers Tremble in Fear** — verified English blob `3d0e2718db290159e717db23890611f461af1149`
 - Article 4 — **Heroes of Retreat!** — verified English blob `47510c75833b1abd6990871ebc45c9e9eb8ba1db`
-- Article 5 — **A Special Warning to the Public** — verified English blob `637fd7fb72126b4b677846839191459616971d60`
+- Article 5 — **A Special Warning to the Public** — verified English blob `1df139c995b9d3bbbb5f2c242e999964146df6ea`
 - Article 6 — **Youngsters** — verified English blob `b2694657339a42c84d932e67ee63684a588245d2`
 - Article 7 — **“Ahimsa Vilasam”** — verified English blob `9a55d55bef9e68c893c42546ac7dac1bb84ffb18`
 - Article 8 — **O Heroes of Tindivanam!** — verified English blob `557927643d1df347e2f8c03971bd501439973863`
 - Article 9 — **The Rooster Crows!** — verified English blob `b4e203789117dba4de9c08f2bc25766e807e2160`
 - Article 10 — **Cattle-Drivers!** — verified English blob `3f96803c1d0b08d287da2e961298c18e4491ea3f`
 - Article 11 — **Election Kovalan!** — verified English blob `470e034d7e2bd977dc6e70d61159814090f4110b`
-- Article 12 — **Think and Understand! Do Not Grow Angry!** — verified English blob `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1`
+- Article 12 — **Think and Understand! Do Not Grow Angry!** — verified English blob `773c60286ba764ff52bd5ce7be7cf9c53c745aae`
 - Article 13 — **Boom! Boom! Boom!** — verified English blob `91ec043f5f47d6fe388d09987505d9cf41a788f2`
 - ordered source comments — **74/74 PASS**
 - omitted Tamil clauses after bilingual review — **0**
@@ -180,11 +180,41 @@ Verified English authorities:
 
 Verified English authorities:
 
-1. Article 12 — **Think and Understand! Do Not Grow Angry!** — `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1`
+1. Article 12 — **Think and Understand! Do Not Grow Angry!** — `773c60286ba764ff52bd5ce7be7cf9c53c745aae`
 2. Article 13 — **Boom! Boom! Boom!** — `91ec043f5f47d6fe388d09987505d9cf41a788f2`
+
+## E6 — publication-wide English consistency review — COMPLETE / PASS
+
+Cross-article review covered all **13/13 T5-verified articles** against the publication-level release gate in `ESSAY_TRANSLATION_GUIDE.md`.
+
+- frozen Tamil article pins revalidated on live `main` — **13/13 PASS**
+- English metadata / verified status / title-heading agreement — **13/13 PASS**
+- ordered Tamil-source page comments — **74/74 PASS**
+- untranslated Tamil body leakage — **0**
+- recurring names / epithets — **PASS**
+- ideological vocabulary and repeated slogans — **PASS**
+- source publication names — **PASS after 3 typography corrections in Article 12**
+- epic-name conventions — **PASS**
+- quoted-material treatment — **PASS**
+- source-bearing transliterations / explanatory restraint — **PASS**
+- accidental cross-article smoothing requiring repair — **0**
+
+E6 body/format corrections:
+
+1. Article 5 — `நம்பியார்`: **Nambiyar** → **Nambiar**, matching the same recurring name in Article 12.
+2. Article 12 — `Janasakthi` publication-name occurrences regularised to ***Janasakthi*** (**2** occurrences), matching Article 5.
+3. Article 12 — `Maalai Mani` regularised to ***Maalai Mani*** as a source publication/title inside the quoted taunt.
+
+Post-E6 current English authorities changed only for Articles **5** and **12**:
+
+- Article 5 — **A Special Warning to the Public** — `1df139c995b9d3bbbb5f2c242e999964146df6ea`
+- Article 12 — **Think and Understand! Do Not Grow Angry!** — `773c60286ba764ff52bd5ce7be7cf9c53c745aae`
+
+All other Article 1–13 English blobs remain unchanged from T5.
+
+English translation status after E6 — **COMPLETE / PASS**.  
+Blockers — **0**.
 
 ## Exact next activity
 
-**E6 — publication-wide English consistency review across all 13 T5-verified articles.**
-
-E7 release closeout remains downstream of E6.
+**E7 — English release closeout for `பெருமூச்சு`.**

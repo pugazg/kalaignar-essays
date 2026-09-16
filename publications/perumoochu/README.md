@@ -14,7 +14,7 @@ Controlling source: `TVA_BOK_0064124_பெருமூச்சு.pdf`
 - P3 article assemblies — **COMPLETE / PASS — 13/13**
 - P4 source audit — **COMPLETE / PASS**
 - P5 strict visual-text-fidelity pass — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
-- English — **E0 COMPLETE / PASS; Articles 1–13 T0–T5 VERIFIED; E6 NEXT**
+- English — **E0 COMPLETE / PASS; Articles 1–13 T0–T5 VERIFIED; E6 COMPLETE / PASS; ENGLISH-TRANSLATION COMPLETE; E7 NEXT**
 - source PDF committed — **No**
 
 ## Printed / catalog identity
@@ -157,6 +157,8 @@ Scans **24–52** were rebuilt after closure review found heuristic baseline seg
 - added substantive English claims after review — **0**
 - untranslated Tamil body leakage — **0**
 - Tamil source changes during English work — **0**
+- E6 publication-wide consistency review — **COMPLETE / PASS**
+- English translation — **COMPLETE**
 - blockers — **0**
 - English tracker — `translations/en/README.md`
 - review ledger — `translations/en/TRANSLATION_REVIEW.md`
@@ -168,18 +170,18 @@ Verified English Articles 1–13:
 2. **Come, Let Us Build the Mansion!** — `ef0be10af34519b868634de64fc67bfde53bc5fb`
 3. **Ministers Tremble in Fear** — `3d0e2718db290159e717db23890611f461af1149`
 4. **Heroes of Retreat!** — `47510c75833b1abd6990871ebc45c9e9eb8ba1db`
-5. **A Special Warning to the Public** — `637fd7fb72126b4b677846839191459616971d60`
+5. **A Special Warning to the Public** — `1df139c995b9d3bbbb5f2c242e999964146df6ea`
 6. **Youngsters** — `b2694657339a42c84d932e67ee63684a588245d2`
 7. **“Ahimsa Vilasam”** — `9a55d55bef9e68c893c42546ac7dac1bb84ffb18`
 8. **O Heroes of Tindivanam!** — `557927643d1df347e2f8c03971bd501439973863`
 9. **The Rooster Crows!** — `b4e203789117dba4de9c08f2bc25766e807e2160`
 10. **Cattle-Drivers!** — `3f96803c1d0b08d287da2e961298c18e4491ea3f`
 11. **Election Kovalan!** — `470e034d7e2bd977dc6e70d61159814090f4110b`
-12. **Think and Understand! Do Not Grow Angry!** — `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1`
+12. **Think and Understand! Do Not Grow Angry!** — `773c60286ba764ff52bd5ce7be7cf9c53c745aae`
 13. **Boom! Boom! Boom!** — `91ec043f5f47d6fe388d09987505d9cf41a788f2`
 
 ## Exact next activity
 
-**E6 — publication-wide English consistency review across all 13 T5-verified articles.**
+**E7 — English release closeout for `பெருமூச்சு`.**
 
 Publication 15 `விடுதலைக் கிளர்ச்சி` remains queued at **P0–P1 COMPLETE / P2 NOT STARTED**.

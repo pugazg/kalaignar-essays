@@ -742,8 +742,59 @@ Additional verified choices:
 - Tamil source changes — **0**
 - blockers — **0**
 
+## E6 — publication-wide English consistency review — COMPLETE / PASS
+
+Scope: all **13/13 T5-verified English articles**.
+
+### Gate checks
+
+- live-main frozen Tamil pins — **13/13 PASS**
+- English article files present — **13/13**
+- `translation_status: verified` — **13/13**
+- English title metadata ↔ H1 heading — **13/13 PASS**
+- ordered Tamil-source comments — **74/74 PASS**
+- untranslated Tamil body leakage — **0**
+- recurring names / epithets — **PASS after one reconciliation**
+- ideological vocabulary / repeated slogans — **PASS**
+- source publication names — **PASS after typography reconciliation**
+- epic-name conventions — **PASS**
+- treatment of quoted material — **PASS**
+- source-bearing puns / transliterations / explanatory restraint — **PASS**
+- accidental smoothing introduced across later articles — **0 repairs required**
+
+### E6 corrections
+
+1. **Article 5 — recurring name**
+   - Tamil source form: `நம்பியார்`
+   - pre-E6 English: **Nambiyar**
+   - E6 English: **Nambiar**
+   - reason: reconcile the same recurring name with Article 12.
+
+2. **Article 12 — source publication names**
+   - **Janasakthi** → ***Janasakthi*** — **2 occurrences**
+   - **Maalai Mani** → ***Maalai Mani*** — **1 occurrence**
+   - reason: publication/title typography consistent with Article 5 and the publication-wide convention.
+
+### Post-E6 current authorities
+
+- Article 5 — **A Special Warning to the Public**
+  - T5 historical blob — `637fd7fb72126b4b677846839191459616971d60`
+  - post-E6 current blob — **`1df139c995b9d3bbbb5f2c242e999964146df6ea`**
+- Article 12 — **Think and Understand! Do Not Grow Angry!**
+  - T5 historical blob — `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1`
+  - post-E6 current blob — **`773c60286ba764ff52bd5ce7be7cf9c53c745aae`**
+
+Articles **1–4, 6–11 and 13** retain their T5 blobs unchanged.
+
+Post-E6:
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- substantive meaning changes — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+- result — **E6 COMPLETE / PASS**
+- English translation — **COMPLETE**
+
 ## Exact next activity
 
-**E6 — publication-wide English consistency review across all 13 T5-verified articles.**
-
-E7 release closeout remains downstream of E6.
+**E7 — English release closeout for `பெருமூச்சு`.**

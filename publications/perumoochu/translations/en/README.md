@@ -35,14 +35,14 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 | 2 | `மாளிகை அமைத்திட வாரீர்!` | **Come, Let Us Build the Mansion!** | `1d57a8a54d4b06b0c6fd19a6253661d2a620d1fa` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `ef0be10af34519b868634de64fc67bfde53bc5fb` |
 | 3 | `மந்திரிகள் குலை நடுக்கம்` | **Ministers Tremble in Fear** | `d05169cb394df089ef4f4cbdeefd35c3a563451d` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `3d0e2718db290159e717db23890611f461af1149` |
 | 4 | `வாபஸ் வீரர்கள்!` | **Heroes of Retreat!** | `6ddca33c16fa7ee4f22d3f3f666df168b39c5b40` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `47510c75833b1abd6990871ebc45c9e9eb8ba1db` |
-| 5 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | **A Special Warning to the Public** | `64a63aa5061d5f546f71526889af20baf3dd88e8` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `637fd7fb72126b4b677846839191459616971d60` |
+| 5 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | **A Special Warning to the Public** | `64a63aa5061d5f546f71526889af20baf3dd88e8` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `1df139c995b9d3bbbb5f2c242e999964146df6ea` |
 | 6 | `சிறுவர்கள்` | **Youngsters** | `14501305ff4935d672444459dfe404d51ac97282` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `b2694657339a42c84d932e67ee63684a588245d2` |
 | 7 | `“அஹிம்சா விலாசம்”` | **“Ahimsa Vilasam”** | `12c50fe83ef047ca060669831c82d3e00defc04a` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `9a55d55bef9e68c893c42546ac7dac1bb84ffb18` |
 | 8 | `திண்டிவனம் தீரர்காள்!` | **O Heroes of Tindivanam!** | `bb99717ca388d53bbbffd163f165fc0824ee7f37` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `557927643d1df347e2f8c03971bd501439973863` |
 | 9 | `சேவல் கூவுகிறது!` | **The Rooster Crows!** | `9d1a0e39e45cc1cb94419c5b966f8da415233e37` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `b4e203789117dba4de9c08f2bc25766e807e2160` |
 | 10 | `மாடோட்டிகள்!` | **Cattle-Drivers!** | `ffdce8f466928a5484cc155dbc841394fd6db30c` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `3f96803c1d0b08d287da2e961298c18e4491ea3f` |
 | 11 | `தேர்தல் கோவலன்!` | **Election Kovalan!** | `8b01451de21342eb7df91b3b7b72d5d6d857c67f` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `470e034d7e2bd977dc6e70d61159814090f4110b` |
-| 12 | `சிந்தித்துணர்க! சீற்றமுறாதீர்!` | **Think and Understand! Do Not Grow Angry!** | `122f5320d683c35267e23b5a667bfd27100fdd3e` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1` |
+| 12 | `சிந்தித்துணர்க! சீற்றமுறாதீர்!` | **Think and Understand! Do Not Grow Angry!** | `122f5320d683c35267e23b5a667bfd27100fdd3e` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `773c60286ba764ff52bd5ce7be7cf9c53c745aae` |
 | 13 | `பூம்! பூம்! பூம்!` | **Boom! Boom! Boom!** | `1df4a62971685759e2beb2ffb2b54b0263b26848` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `91ec043f5f47d6fe388d09987505d9cf41a788f2` |
 
 ## Articles 1–13 aggregate
@@ -80,11 +80,29 @@ Do not translate from the raw transcript, OCR, web text, alternate editions or s
 - T0–T5 — **2/2 PASS / VERIFIED**
 - English article files — **2/2**
 - source comments — **10/10 PASS**
-- verified English blobs — Article 12 `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1`; Article 13 `91ec043f5f47d6fe388d09987505d9cf41a788f2`
+- verified English blobs — Article 12 `773c60286ba764ff52bd5ce7be7cf9c53c745aae`; Article 13 `91ec043f5f47d6fe388d09987505d9cf41a788f2`
 - untranslated Tamil body leakage — **0**
 - Tamil source changes — **0**
 - blockers — **0**
 
+## E6 publication-wide consistency gate — COMPLETE / PASS
+
+- article coverage — **13/13**
+- frozen Tamil pins — **13/13 PASS**
+- source comments — **74/74 PASS**
+- title / metadata / verified-status checks — **13/13 PASS**
+- recurring-name corrections — **1** (`Nambiyar` → `Nambiar`, Article 5)
+- source-publication typography corrections — **3** (Article 12: ***Janasakthi*** ×2; ***Maalai Mani*** ×1)
+- substantive meaning changes — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+- E6 — **COMPLETE / PASS**
+- English translation — **COMPLETE**
+
+Current post-E6 English blobs changed only for Articles 5 and 12:
+- Article 5 — `1df139c995b9d3bbbb5f2c242e999964146df6ea`
+- Article 12 — `773c60286ba764ff52bd5ce7be7cf9c53c745aae`
+
 ## Exact next activity
 
-**E6 — publication-wide English consistency review across all 13 T5-verified articles.**
+**E7 — English release closeout for `பெருமூச்சு`.**

@@ -52,7 +52,7 @@ Those comrades who oppose such a Mohan and support Comrade Balu make much of our
 
 Whether they understand this or not—or whether, at election time, they pretend not to understand because they feel they should not show that they understand—the Communist friends too hurl mocking words at us.
 
-“Maalai Mani devotees”
+“*Maalai Mani* devotees”
 “Anna has come to pour forth grace”
 
 <!-- Tamil source: scan 75 / printed 73 -->
@@ -61,11 +61,11 @@ Whether they understand this or not—or whether, at election time, they pretend
 “Anna has come to grant refuge as the saviour of orphans”
 “Blank cheque”
 
-Through Janasakthi they hurl taunts like these at our Kazhagam!
+Through *Janasakthi* they hurl taunts like these at our Kazhagam!
 
 In a few constituencies such as North Madras, where we have been placed in a position of opposing Comrade Jeevanandam, our comrades may perhaps ignore these taunts and continue working.
 
-But in places where Nambiar, Kalyanasundaram, Muthiah, Manali and others are standing, the Communist friends and the Janasakthi paper must think about how much pain will be felt in the hearts of our Kazhagam comrades who want their victory and are ready to cast their votes for them. However much a spear may be thrust into a raw wound, the Communist friends must understand that the votes of Kazhagam members will not go to the Congress; they will understand.
+But in places where Nambiar, Kalyanasundaram, Muthiah, Manali and others are standing, the Communist friends and the *Janasakthi* paper must think about how much pain will be felt in the hearts of our Kazhagam comrades who want their victory and are ready to cast their votes for them. However much a spear may be thrust into a raw wound, the Communist friends must understand that the votes of Kazhagam members will not go to the Congress; they will understand.
 
 The Communist friends, who are prepared for Periyar to support Sharma—whom the Communists describe as a slave of imperialism—and are prepared to work together with Periyar, somehow heap baseless accusations upon us. I do not understand why.
 

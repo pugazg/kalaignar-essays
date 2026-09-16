@@ -36,7 +36,7 @@ The publication contains a publisher preface followed by **13** distinct politic
 - P3 — **COMPLETE / PASS — 13/13**
 - P4 — **COMPLETE / PASS**
 - P5 — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
-- English — **E0 COMPLETE / PASS; Articles 1–13 T0–T5 VERIFIED; E6 NEXT**
+- English — **E0 COMPLETE / PASS; Articles 1–13 T0–T5 VERIFIED; E6 COMPLETE / PASS; ENGLISH-TRANSLATION COMPLETE; E7 NEXT**
 
 ## P2 final audit
 
@@ -170,14 +170,14 @@ Verified English blobs:
 2. `ef0be10af34519b868634de64fc67bfde53bc5fb` — **Come, Let Us Build the Mansion!**
 3. `3d0e2718db290159e717db23890611f461af1149` — **Ministers Tremble in Fear**
 4. `47510c75833b1abd6990871ebc45c9e9eb8ba1db` — **Heroes of Retreat!**
-5. `637fd7fb72126b4b677846839191459616971d60` — **A Special Warning to the Public**
+5. `1df139c995b9d3bbbb5f2c242e999964146df6ea` — **A Special Warning to the Public**
 6. `b2694657339a42c84d932e67ee63684a588245d2` — **Youngsters**
 7. `9a55d55bef9e68c893c42546ac7dac1bb84ffb18` — **“Ahimsa Vilasam”**
 8. `557927643d1df347e2f8c03971bd501439973863` — **O Heroes of Tindivanam!**
 9. `b4e203789117dba4de9c08f2bc25766e807e2160` — **The Rooster Crows!**
 10. `3f96803c1d0b08d287da2e961298c18e4491ea3f` — **Cattle-Drivers!**
 11. `470e034d7e2bd977dc6e70d61159814090f4110b` — **Election Kovalan!**
-12. `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1` — **Think and Understand! Do Not Grow Angry!**
+12. `773c60286ba764ff52bd5ce7be7cf9c53c745aae` — **Think and Understand! Do Not Grow Angry!**
 13. `91ec043f5f47d6fe388d09987505d9cf41a788f2` — **Boom! Boom! Boom!**
 
 Authorities:
@@ -188,6 +188,31 @@ Authorities:
 - `translations/en/LEXICON.md`
 - `translations/en/TRANSLATION_REVIEW.md`
 
+## E6 publication-wide English consistency audit — PASS
+
+- frozen Tamil source pins — **13/13 PASS**
+- English article files — **13/13**
+- verified metadata / title-heading agreement — **13/13 PASS**
+- ordered source comments — **74/74 PASS**
+- untranslated Tamil body leakage — **0**
+- recurring names / epithets — **PASS**
+- ideological vocabulary / slogans — **PASS**
+- source publication names — **PASS**
+- epic-name conventions — **PASS**
+- quotation treatment — **PASS**
+- source-bearing transliterations / explanatory restraint — **PASS**
+- E6 corrections — **4 edit points across 2 articles**
+  - Article 5: **Nambiyar** → **Nambiar**
+  - Article 12: ***Janasakthi*** formatting ×2; ***Maalai Mani*** formatting ×1
+- substantive meaning changes — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+- current post-E6 authority changes:
+  - Article 5 — `1df139c995b9d3bbbb5f2c242e999964146df6ea`
+  - Article 12 — `773c60286ba764ff52bd5ce7be7cf9c53c745aae`
+- E6 — **COMPLETE / PASS**
+- English translation — **COMPLETE**
+
 ## Exact next activity
 
-**E6 — publication-wide English consistency review across all 13 T5-verified articles.**
+**E7 — English release closeout for `பெருமூச்சு`.**

@@ -26,15 +26,14 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `மாதவி` | **Madhavi** | Preserve source literary name. | E0 | provisional source-bearing |
 | `அபேட்சகர்` | **candidate** | Period electoral term; preserve surrounding source rhetoric. | E0 | provisional |
 | `மஞ்சள் பெட்டி` | **yellow box** | Preserve the source election-box expression without adding modern explanatory identification. | Article 12 T4 | verified |
-| `சேவல் பெட்டி` | **TBD contextual ballot-box expression** | Preserve the source's rooster imagery and electoral context. | E0 | open / contextual |
 | `திராவிட நாடு திராவிடருக்கே!` | **Dravida Nadu for the Dravidians alone!** | Preserve source exclusivity in `-க்கே`, repetition and exclamation; do not paraphrase into explanatory prose. | Article 2 T4 | verified Articles 1–5 |
 | `பெருமாள் மாடு` | **Perumal cattle** | Preserve the source-bearing decorated-cattle image in Article 13; do not add an outside cultural explanation in the body. | Article 13 T4 | verified |
 | `பெருமாள் மாட்டுக்காரன்` | **Perumal cattle-handler** | Keep linked to `Perumal cattle` and the call-and-response satire. | Article 13 T4 | verified |
 | `அய்யா` | **Ayya** | Preserve the repeated source address in Article 13 rather than flattening the call-and-response refrain to generic “sir.” | Article 13 T4 | verified |
 | `பீதாம்பரம் / பீதாம்பரங்கள்` | ***pitambara / pitambaras*** | Preserve the source-bearing garment term in Article 13. | Article 13 T4 | verified |
-| `ஜனசக்தி` | **Janasakthi** | Preserve the source publication name in Article 12 without adding outside identification. | Article 12 T4 | verified |
-| `மாலைமணி` | **Maalai Mani** | Preserve the source publication/title form inside Article 12’s quoted taunt. | Article 12 T4 | verified |
-| `மாடோட்டி / மாடோட்டிகள்` | **TBD contextual rendering** | Article 10 title/image is polemical and tied to the recurring cattle/election metaphor. | E0 | open |
+| `ஜனசக்தி / ஜன சக்தி` | ***Janasakthi*** | Preserve and italicise the source publication name; spacing varies in Tamil witnesses. | Articles 5, 12 / E6 | verified |
+| `மாலைமணி` | ***Maalai Mani*** | Preserve and italicise the source publication/title form inside Article 12’s quoted taunt. | Article 12 / E6 | verified |
+| `நம்பியார்` | **Nambiar** | Publication-wide recurring-name convention; Article 5 E6 reconciled to Article 12. | Articles 5, 12 / E6 | verified |
 
 | `தாரக மந்திரம்` | ***taraka mantra*** | Retain as a source-bearing phrase; do not flatten to generic “guiding mantra.” | Article 2 T4 | verified |
 | `தெம்மாங்கு` | ***themmangu*** | Retain the source cultural term; avoid generic “folk-song” in Article 2. | Article 2 T4 | verified |
@@ -42,7 +41,6 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `கங்காணி` | ***kangani*** | Retain source-bearing polemical term rather than substituting an explanatory gloss. | Article 5 T4 | verified |
 | `பண நாயகம்` | **money-rule** | Close rhetorical rendering used in Article 5. | Article 5 T4 | verified |
 | `பொதுவுடமை` | **common ownership** | Close rendering in Article 5 closing slogan; preserve slogan cadence. | Article 5 T4 | verified |
-| `ஜன சக்தி` | ***Janasakthi*** | Preserve source publication name. | Article 5 T4 | verified |
 | `விடுதலை` | ***Viduthalai*** | Preserve source publication name. | Article 5 T4 | verified |
 | `தினத்தந்தி` | ***Dina Thanthi*** | Preserve source publication name. | Article 5 T4 | verified |
 | `தாழ்த்தப்பட்டவர்கள்` | **the oppressed / oppressed people** | Article 4 follows the frozen Tamil directly; do not import a more specific external historical label. | Article 4 T2 | verified |
@@ -104,3 +102,5 @@ Articles **1–13** have verified T5 titles.
 - publication-specific terms seeded — **PASS**
 - English body translation begun — **Yes — Articles 1–13 T5 VERIFIED**
 - unresolved choices blocking Articles 1–13 — **0**
+- E6 publication-wide lexicon reconciliation — **COMPLETE / PASS**
+- stale provisional duplicate rows — **0**

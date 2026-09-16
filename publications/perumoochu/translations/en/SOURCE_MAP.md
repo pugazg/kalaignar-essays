@@ -70,14 +70,14 @@ These are downstream English authorities only. They do not replace the frozen Ta
 | 2 | `02-maaligai-amaiththida-vareer.md` | **Come, Let Us Build the Mansion!** | `ef0be10af34519b868634de64fc67bfde53bc5fb` | T5 VERIFIED |
 | 3 | `03-manthirigal-kulai-nadukkam.md` | **Ministers Tremble in Fear** | `3d0e2718db290159e717db23890611f461af1149` | T5 VERIFIED |
 | 4 | `04-vaapas-veerargal.md` | **Heroes of Retreat!** | `47510c75833b1abd6990871ebc45c9e9eb8ba1db` | T5 VERIFIED |
-| 5 | `05-podhu-makkalukku-thani-echarikkai.md` | **A Special Warning to the Public** | `637fd7fb72126b4b677846839191459616971d60` | T5 VERIFIED |
+| 5 | `05-podhu-makkalukku-thani-echarikkai.md` | **A Special Warning to the Public** | `1df139c995b9d3bbbb5f2c242e999964146df6ea` | T5 VERIFIED |
 | 6 | `06-siruvargal.md` | **Youngsters** | `b2694657339a42c84d932e67ee63684a588245d2` | T5 VERIFIED |
 | 7 | `07-ahimsa-vilasam.md` | **“Ahimsa Vilasam”** | `9a55d55bef9e68c893c42546ac7dac1bb84ffb18` | T5 VERIFIED |
 | 8 | `08-thindivanam-theerargaal.md` | **O Heroes of Tindivanam!** | `557927643d1df347e2f8c03971bd501439973863` | T5 VERIFIED |
 | 9 | `09-seval-koovugirathu.md` | **The Rooster Crows!** | `b4e203789117dba4de9c08f2bc25766e807e2160` | T5 VERIFIED |
 | 10 | `10-maadottigal.md` | **Cattle-Drivers!** | `3f96803c1d0b08d287da2e961298c18e4491ea3f` | T5 VERIFIED |
 | 11 | `11-therthal-kovalan.md` | **Election Kovalan!** | `470e034d7e2bd977dc6e70d61159814090f4110b` | T5 VERIFIED |
-| 12 | `12-sindhiththunarga-seetramuraadheer.md` | **Think and Understand! Do Not Grow Angry!** | `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1` | T5 VERIFIED |
+| 12 | `12-sindhiththunarga-seetramuraadheer.md` | **Think and Understand! Do Not Grow Angry!** | `773c60286ba764ff52bd5ce7be7cf9c53c745aae` | T5 VERIFIED |
 | 13 | `13-boom-boom-boom.md` | **Boom! Boom! Boom!** | `91ec043f5f47d6fe388d09987505d9cf41a788f2` | T5 VERIFIED |
 
 Articles **1–13** are **T5 VERIFIED**. No article-level T0–T5 work remains.
@@ -108,12 +108,27 @@ Articles **1–13** are **T5 VERIFIED**. No article-level T0–T5 work remains.
 
 ## Articles 12–13 verified English authorities
 
-- Article 12 — **Think and Understand! Do Not Grow Angry!** — `c2e2ea78ec8417b8a50ec5c633cb802ce2c0a1a1`
+- Article 12 — **Think and Understand! Do Not Grow Angry!** — `773c60286ba764ff52bd5ce7be7cf9c53c745aae`
 - Article 13 — **Boom! Boom! Boom!** — `91ec043f5f47d6fe388d09987505d9cf41a788f2`
 - T0–T5 — **2/2 PASS / VERIFIED**
 - source comments — **10/10 PASS**
 - blockers — **0**
 
+## E6 post-consistency authority checkpoint
+
+- publication-wide consistency gate — **COMPLETE / PASS**
+- frozen Tamil pins — **13/13 PASS**
+- current English authorities — **13/13**
+- ordered source comments — **74/74 PASS**
+- current post-E6 blob changes — Articles **5** and **12** only
+- blockers — **0**
+
+Post-E6 changed authorities:
+- Article 5 — **A Special Warning to the Public** — `1df139c995b9d3bbbb5f2c242e999964146df6ea`
+- Article 12 — **Think and Understand! Do Not Grow Angry!** — `773c60286ba764ff52bd5ce7be7cf9c53c745aae`
+
+All other English authority blobs remain the T5 blobs recorded above.
+
 ## Exact next activity
 
-**E6 — publication-wide English consistency review across all 13 T5-verified articles.**
+**E7 — English release closeout for `பெருமூச்சு`.**

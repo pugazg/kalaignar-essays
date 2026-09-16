@@ -99,7 +99,7 @@ From Salem onward we have also proclaimed that we ourselves would not stand in t
 
 We wanted the person so supported to be one who would argue for our fundamental question in the Assembly. We ourselves are not in the Assembly! There is nothing wrong—and nothing meaningless—in wanting at least our voice to be heard there!
 
-Nambiyar, who returned from prison, does not appear to have asked in the Assembly about the Kunrathur atrocity! He does not appear to have raised his voice about the repression at Naranamangalam! We have not heard that he asked about Anna and Periyar being imprisoned. When sending such people to the Assembly, what is wrong in consulting them, obtaining an assurance, securing a signature—
+Nambiar, who returned from prison, does not appear to have asked in the Assembly about the Kunrathur atrocity! He does not appear to have raised his voice about the repression at Naranamangalam! We have not heard that he asked about Anna and Periyar being imprisoned. When sending such people to the Assembly, what is wrong in consulting them, obtaining an assurance, securing a signature—
 
 <!-- Tamil source: scan 32 / printed 30 -->
 
