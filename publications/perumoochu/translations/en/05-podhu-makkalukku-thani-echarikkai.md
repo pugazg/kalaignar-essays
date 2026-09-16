@@ -46,3 +46,48 @@ According to Jeevanandam's own dictionary, the Communist mind can cultivate rela
 They can maintain relations with those who say that *Janasakthi* is not a Communist paper! But they are afraid even to approach us—who respect *Janasakthi*, try to answer its doubts, and desire friendship!
 
 Policy has reached such a state that they can keep friendship with those who refused to recognise the Dravida Munnetra Kazhagam as an organisation and failed to understand democracy, yet they tremble at friendship with a great force functioning democratically!
+
+
+<!-- Tamil source: scan 27 / printed 25 -->
+
+The Dravida Munnetra Kazhagam did not say that it could not support the Communists. The Communists themselves created the circumstances that made support impossible! It was not merely that they did not agree with our question—they declared that our question itself was wrong!
+
+Those who said from public platforms that "Dravida Nadu is just"—why did they refuse to sign the agreement document? That is the question to be thought about!
+
+When one predicts that even those who signed the document will change, how are we to believe that those who merely spoke from platforms without signing it will remain unchanged?
+
+Are we people who, on one side, make a show of supporting the Communists and, on the other, use the Communists to frighten capitalists and conduct an election trade?
+
+We wish to say something emphatically to the Communists. We remind them once of a golden saying from *Viduthalai* (20-12-51).
+
+<!-- Tamil source: scan 28 / printed 26 -->
+
+Let *Viduthalai*'s golden saying be a lesson to them! "The husband who treats the wife who lives with him in true affection with contempt, and then, bewitched by the sidelong glance and coquettish speech of a dancing courtesan, runs after her, is bound one day to come to his senses."
+
+We know very well that the Communists do not regard the Dravida Munnetra Kazhagam as a weak party. The Communists know well that the DMK is not a party in which the leader—newspaper editor—orator—committee—secretary, statement-issuer, adviser and treasurer are all one man conducting it in many different incarnations!
+
+Nor do the Communists show us affection merely because we are "ten or fifteen youngsters! Poor fellows; good boys." They know our strength from the fact that those ten or fifteen youngsters conducted a conference that made even enemies marvel—and made old men burn with envy.
+
+On that very day, when two or three meetings around Madras had been held with tremendous publicity—
+
+<!-- Tamil source: scan 29 / printed 27 -->
+
+—they also know that we had settled in the hearts of the people deeply enough to conduct a great conference attended by two hundred thousand.
+
+The Communists respect our strength.
+
+Not only the Communists; even Congressmen respect our strength. That is why, to some extent, they have come forward to publish our news instead of completely blacking us out!
+
+To say that we are Congress kanganis because Congress papers publish our news is jealousy distilled to its purest form! Communist papers too published news of the conference. Does that make us Communist kanganis? Socialist papers too carried it on a large scale. Does that make us Socialist kanganis? *Dina Thanthi* too carried it; does that make us Praja Party kanganis?
+
+When Periyar's marriage took place, ministers such as Madhava Menon spoke in support of it!
+
+<!-- Tamil source: scan 30 / printed 28 -->
+
+Can one therefore say that Periyar was connected with Madhava Menon? There was hardly a platform on which Periyar did not speak in support of Omandurar! Does that make Periyar a Congress kangani? Why, Congress papers even give space to Communist programmes and speeches. Does that make the Communists Congress kanganis?
+
+When it is said that there is no wrong in supporting Mr. R. S. Sharma, who has built a Kali temple, and when no one crowns that act with the title "Aryan kangani," I cannot understand what wondrous judgement of which "God of Justice" it is to call people who are without fault and who have not betrayed their principles kanganis!
+
+Comrades who say that our course is one that seeks a path to Congress victory must think carefully.
+
+For many years we have proclaimed the ideal of "Dravida Nadu"!
