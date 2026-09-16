@@ -13,7 +13,7 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - P2 page-level transcription — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 article assembly — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 source audit — **COMPLETE / PASS**
-- P5 strict visual-text-fidelity pass — **IN PROGRESS — 20/69 STRICT-REVIEWED**
+- P5 strict visual-text-fidelity pass — **IN PROGRESS — 30/69 STRICT-REVIEWED**
 - English — **BLOCKED until Tamil archival layer freezes**
 - source PDF committed — **No**
 
@@ -133,8 +133,20 @@ Authority: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 Batch-001 follow-up correction:
 - scan 3 printer line — enlarged pixels confirm **`கலைமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**; prior `கலிமகள்` reading superseded.
 
+## P5 Batch 003 — scans 21–30
+
+**COMPLETE / PASS — 10/10 STRICT-REVIEWED**
+
+- scan 28 — **`நாம்சொல்வதை`** → source **`நாம் சொல்வதை`**
+- scan 30 — source meaningful spacing **`கூடிக் குலாவிடவேண்டுமாம்;`**
+- scans 21–27 and 29 — no canonical text changes
+- cumulative P5 progress — **30/69**
+- unresolved P5 readings — **0**
+
+Affected main reading assembly updated.
+
 ## Exact next activity
 
-**P5 strict visual review — scans 21–30.**
+**P5 strict visual review — scans 31–40.**
 
 Use the baseline only as a comparison aid. Verify every word, punctuation mark, page boundary and historical glyph against source pixels.

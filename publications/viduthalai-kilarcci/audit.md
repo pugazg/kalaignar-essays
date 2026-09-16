@@ -209,6 +209,19 @@ The source consists of preliminary verse/prologue material followed by one conti
 - unresolved readings — **0**
 - authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
 
+## P5 Batch 003 — scans 21–30
+
+**COMPLETE / PASS — 10/10 STRICT-REVIEWED**
+
+- source scans reopened independently — **10/10**
+- canonical corrections — **2**
+- scan 28 — **`நாம்சொல்வதை`** → **`நாம் சொல்வதை`**
+- scan 30 — **`குலாவிட வேண்டுமாம்`** → source spacing **`குலாவிடவேண்டுமாம்`**
+- scans 21–27, 29 — no canonical text changes
+- cumulative P5 progress — **30/69**
+- unresolved readings — **0**
+- authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
+
 ## Next
 
 Publication 15 is **ACTIVE — P0–P4 COMPLETE / PASS; P5 IN PROGRESS — 10/69 STRICT-REVIEWED**.

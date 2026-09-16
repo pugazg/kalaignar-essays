@@ -14,7 +14,7 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 
 # அச்சு உரை
 
-அவர்களையே பேசவைத்தோம். அவர்களில் சிலர் நாம்சொல்வதை வேறுபாணியிலே சொன்னார்கள். இப்போதும் சொல்கிறார்கள்.
+அவர்களையே பேசவைத்தோம். அவர்களில் சிலர் நாம் சொல்வதை வேறுபாணியிலே சொன்னார்கள். இப்போதும் சொல்கிறார்கள்.
 
 ஒன்பது லட்சம் டன் உணவு வேண்டும் என்று கேட்டு ஆறு லட்சம்தான் தரமுடியும் என்று மத்ய சர்க்கார் உறுமிடும் வேளையிலே இங்கிருப்போர் நினைக்கமாட்டார்களா, நமது விடுதலைக் கிளர்ச்சியின் பொருளை!
 
@@ -46,6 +46,12 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 - baseline `மாகான` corrected to source **மாகாண**.
 - baseline `இருக் சின்றன` corrected to source **இருக்கின்றன**.
 - source page-boundary fragment **சிந்தித்திருக்கமாட்டார் / களா** preserved.
+
+## P5 strict visual fidelity findings
+
+- **`நாம்சொல்வதை`** → source **`நாம் சொல்வதை`**.
+- all other visible words, punctuation, folio and continuation **`சிந்தித்திருக்கமாட்டார் / களா`** rechecked — **PASS**.
+- unresolved P5 readings — **0**.
 
 ## P2 நிலை
 
