@@ -8,7 +8,7 @@ source_tamil_blob_sha: "14501305ff4935d672444459dfe404d51ac97282"
 source_scan_pages: "37-40"
 source_printed_pages: "35-38"
 language: "en"
-translation_status: "voice-reviewed"
+translation_status: "verified"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
