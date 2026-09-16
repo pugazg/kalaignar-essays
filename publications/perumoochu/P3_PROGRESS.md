@@ -58,8 +58,12 @@ Each article was reconstructed independently from the `# அச்சு உர�
 - permanent non-regression headings — **preserved**
 - P4 may begin — **YES**
 
+## Downstream status
+
+- P4 — **COMPLETE / PASS**
+
 ## Exact next activity
 
-**P4 — publication source/completeness audit.**
+**P5 — final strict visual text-fidelity pass over all 83 physical scans.**
 
-Do not begin P5 or English before P4 passes.
+Do not begin English until P5 closes and the Tamil archival layer is frozen.
