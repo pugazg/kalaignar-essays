@@ -14,6 +14,8 @@ transcription_method: "user-supplied perumoochu.md used as baseline; direct rend
 
 # அச்சு உரை
 
+கொடுக்கும்படி பெரியார் கூறினார்! அந்தக் கொலைகாரப்பாவிக்கா விட்டுக் கொடுப்பது?" என்று!
+
 ஜீவானந்தம் அகராதிப்படி கொலைகாரப்பாவிக்கு விட்டுக்கொடுக்கச் சொன்ன மனப்பான்மையோடு உறவாட முடிகிறது, கம்யூனிஸ்டுகளின் மனப்பான்மை! ஆனால் ஒழுங்கான—உறுதியான—மூளியற்ற ஐக்கிய முன்னணிக்கு நாம் அழைத்தோம் - அதற்கு ஒப்புதல் கூற முடியவில்லை கம்யூனிஸ்டுகளால்! ஒப்புதல் கூறாதது மட்டுமல்ல; நம் உயிர்ப் பிரச்சினையையே மறுக்கவும் தொடங்கிவிட்டார்கள்.
 
 ஜனசக்தி, கம்யூனிஸ்ட்டுகளின் பத்திரிகையல்ல என்று கூறுகிறவர்களிடம் தொடர்பு வைத்துக் கொள்ள முடிகிறது! ஜனசக்திக்கு மதிப்பு தந்து அதன் சந்தேகங்களைப் போக்க முற்படுகிற, நேசம் விரும்புகிற நம்மை அணுகி வரவே அஞ்சிடுகிறார்கள்!
@@ -38,6 +40,8 @@ transcription_method: "user-supplied perumoochu.md used as baseline; direct rend
 - unresolved historical-glyph ambiguity — **0**.
 
 ## Baseline-to-source fidelity note
+
+- physical scan boundary reverified directly against rendered source pixels; previous heuristic segmentation was replaced.
 
 - `perumoochu.md` is baseline only; source pixels control the canonical reading.
 - this record is bounded to physical scan **26**; no text from the next scan is intentionally imported.
