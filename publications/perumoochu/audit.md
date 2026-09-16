@@ -35,7 +35,7 @@ The publication contains a publisher preface followed by **13** distinct politic
 - P2 — **COMPLETE / PASS — 83/83 VERIFIED**
 - P3 — **COMPLETE / PASS — 13/13**
 - P4 — **COMPLETE / PASS**
-- P5 — **NOT STARTED**
+- P5 — **IN PROGRESS — 78/83 directly rechecked**
 - English — **BLOCKED until Tamil P5 / frozen**
 
 ## P2 final audit
@@ -129,8 +129,34 @@ The publication contains a publisher preface followed by **13** distinct politic
 
 **PASS — P5 may begin.**
 
+## P5 strict visual-text-fidelity audit — current state
+
+**IN PROGRESS — 78/83 physical scans directly rechecked.**
+
+- scans 1–23 — directly reviewed;
+- scans 24–52 — directly reviewed against repaired physical boundaries;
+- scans 53–78 — directly reviewed;
+- scans 79–83 — pending strict line-by-line completion;
+- cumulative committed P5 page-record printed-text correction events through scan 78 — **75**;
+- current-sync confirmed scan corrections — **59, 61, 62, 75, 76**;
+- scan 67 printed gathering/signature mark **`[5]`** recorded as page furniture;
+- Article 10 exact reconstruction after propagation — **PASS**;
+- Article 12 exact reconstruction after propagation — **PASS**;
+- unresolved P5 closure status — **open only because scans 79–83 and final consolidated ledger / global assembly recheck remain pending**;
+- authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+
+### Current-sync old → source-visible ledger
+
+- scan 59 — `திருப்பியழைத்து` → **`திருப்பியமைத்து`**;
+- scan 61 — `ஒரே கண்ணால்` → **`ஒரே கண்ணில்`**;
+- scan 62 — `நம் குரல் எழும்பினால்` → **`நம் குரல் எழும் பின்பு`**;
+- scan 75 — page ending `ஆதரிக்கவும்` → **`ஆதரிக்க`**;
+- scan 76 — page opening `⚬ பெரியாருடன்` → **`வும்—பெரியாருடன்`**.
+
+Physical continuation now preserved as **`ஆதரிக்க / வும்—பெரியாருடன்`**.
+
 ## Exact next activity
 
-**P5 — final strict visual text-fidelity pass over all 83 physical scans.**
+**Continue P5 with scans 79–83, then propagate any remaining corrections, consolidate the complete correction ledger, and run final all-article reconstruction / closure checks.**
 
 Do not begin English until P5 closes and Tamil is frozen.
