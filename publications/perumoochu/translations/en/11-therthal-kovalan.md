@@ -8,7 +8,7 @@ source_tamil_blob_sha: "8b01451de21342eb7df91b3b7b72d5d6d857c67f"
 source_scan_pages: "63-70"
 source_printed_pages: "61-68"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -16,7 +16,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 63 / printed 61 -->
 
-“The Congress has rusted. Lured by office as by laddu and puri, many unworthy fellows have entered it.”
+“The Congress has rusted. Greedy for office as though it were laddu and puri, many unworthy fellows have entered it.”
 
 “After the Congress came to power, many Congressmen became lazy and pleasure-loving. Because of this, the Congress organisation has been affected and weakened.”
 
@@ -84,7 +84,7 @@ Not only that: the opposition parties have captured more seats than the Congress
 
 <!-- Tamil source: scan 68 / printed 66 -->
 
-Because its opponents have become many, the Congress has beaten the drum of victory in a few places—but it sounds only like the drum of a rain-soaked skin.
+Because its opponents have become many, the Congress has beaten the drum of victory in a few places—but it sounds only like a rain-soaked drum.
 
 Somehow, a similar situation has arisen in Tamil Nadu too. In every place, many are contesting against the Congress. It is a situation in which the Congress can win with fewer votes! Yet somehow this situation has come about! Since there is no electoral relationship between the Communists and the DMK, in some places we have been forced to oppose Communist candidates. Even though there is an electoral relationship between the Communists and the Dravidar Kazhagam, the Dravidar Kazhagam has found itself opposing prominent Communists such as Mohan Kumaramangalam and K. D. Raju.
 
