@@ -93,6 +93,12 @@ Article 13 is **not P5-closed**: scans 77–78 were inspected, while scans 79–
 - English — **BLOCKED**
 - Tamil archival layer — **NOT YET FROZEN**
 
+## Scan 83 user-confirmed non-regression reading
+
+- source heading — **`ஊடுருவி தீட்டியவை:-`**
+- the attempted P5 reading `உருகி தீட்டியவை:-` was incorrect and has been reverted.
+- future review must preserve **`ஊடுருவி தீட்டியவை:-`** exactly as printed.
+
 ## Exact continuation point
 
 Continue P5 with **scans 79–83**:
