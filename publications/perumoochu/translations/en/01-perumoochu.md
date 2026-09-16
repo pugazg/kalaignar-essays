@@ -36,7 +36,7 @@ On a scale never before seen in the political history of the South, the processi
 
 The new method the movement has devised for the propagation of ideas—an art exhibition extending for a furlong—stood up as an example of constructive work, scattering social, economic, political, scientific and philosophical thought in abundance and holding out heaps upon heaps of ideas by the thousands. That deep sigh thunders it forth!
 
-A four-day conference! Night and day; drama—speech—more than two hundred thousand people. Lack of facilities—lack of space—amid all these obstacles, the young bulls who never lost their ardour, the skill with which they welcomed and served all those people: that deep sigh makes all this plain! The front-line heroes sang battle songs in a manner that recalled the warriors of the Chera, Chola and Pandya realms; the two hundred thousand who listened merged completely into a flood of collective feeling; that deep sigh turns that sight beyond seeing into poetry!
+A four-day conference! Night and day; drama—speech—more than two hundred thousand people. Lack of facilities—lack of space—amid all these obstacles, the young bulls who never lost their ardour, the skill with which they welcomed and served all those people: that deep sigh makes all this plain! The front-line heroes sang battle songs in a manner that recalled the warriors of the Chera, Chola and Pandya realms; the two hundred thousand who listened merged completely into a flood of ethnic consciousness; that deep sigh turns that sight beyond seeing into poetry!
 
 "O teardrops! O precious ones of the nation!" When warrior Anna cast out those trembling words in a voice choked with emotion, the younger brothers on the stage were moved. Those in the pavilion shivered to the core.
 
