@@ -199,15 +199,13 @@ P4 does **not** claim the final strict visual reinspection required by `ESSAY_PR
 
 P4 remains historically **COMPLETE / PASS**. Downstream P5 is now:
 
-- **IN PROGRESS — 78/83 directly rechecked**;
-- current P5 authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`;
-- scans **79–83** remain pending;
-- Tamil archival layer — **NOT YET FROZEN**.
+- **COMPLETE / PASS — 83/83 STRICT-REVIEWED**;
+- final P5 authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`;
+- Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**;
+- unresolved fidelity discrepancies — **0**.
 
 ## Exact next activity
 
-**Continue P5 with scans 79–83.** Then propagate any remaining corrections, consolidate the full P5 ledger, re-run final article reconstruction and close P5 only if 83/83 pass.
-
-Do **not** begin English translation until P5 closes and the Tamil archival layer is frozen.
+**E0 — English translation planning/setup only.**
 
 Publication 15 `விடுதலைக் கிளர்ச்சி` remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** unless explicitly redirected.
