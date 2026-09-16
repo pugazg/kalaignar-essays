@@ -13,7 +13,7 @@ Controlling source: `TVA_BOK_0064124_பெருமூச்சு.pdf`
 - P2 page-level transcription — **COMPLETE / PASS — 83/83 VERIFIED**
 - P3 article assemblies — **COMPLETE / PASS — 13/13**
 - P4 source audit — **COMPLETE / PASS**
-- P5 strict visual-text-fidelity pass — **NOT STARTED**
+- P5 strict visual-text-fidelity pass — **IN PROGRESS — 78/83 directly rechecked**
 - English — **BLOCKED until Tamil archival layer freezes**
 - source PDF committed — **No**
 
@@ -21,14 +21,14 @@ Controlling source: `TVA_BOK_0064124_பெருமூச்சு.pdf`
 
 - user catalog title — **`பெருமூச்சு`**
 - source cover/title-page form — **`பெருமூச்சு!`**
-- printed author — **`மு. கருணாநிதி`**
+- printed author (cover) — **`மு.கருணாநிதி`**
 - catalog author — **`கலைஞர் மு. கருணாநிதி`**
 - publisher — **`இளங்கோ பதிப்பகம்`**
 - publisher location — **`மாயூரம்`**
 - first edition — **`'52`**
 - second edition — **`'53`**
 - active source edition — **second edition, 1953**
-- sales-rights line — **`விற்பனை உரிமை: கலைமன்றம், சென்னை-1`**
+- sales-rights line — **`விற்பனை உரிமை:- கலைமன்றம், சென்னை-1`**
 
 User-supplied description says this is a collection of political articles written after the success of the Dravida Munnetra Kazhagam state conference held in Madras in the first week of January 1952. Preserve that as catalog context unless a source passage is separately verified for the same claim.
 
@@ -46,7 +46,7 @@ User-supplied description says this is a collection of political articles writte
 ## P1 verified structure
 
 - scans **1–4** — cover / physical-copy evidence / title / imprint
-- scans **5–6** — publisher preface **`மூச்சினிடையே!`**, signed **`P. S. இளங்கோ`**, dated **14-1-1952**
+- scans **5–6** — publisher preface **`மூச்சினிடையே!`**, signed **`P. S. இளங்கோ`**, dated **14—1—1952**
 - scans **7–80** — **13 article units**
 - scans **81–83** — publisher / bookseller advertisements and catalogue matter
 - separate printed contents page — **not found**
@@ -128,9 +128,24 @@ Scans **24–52** were rebuilt after closure review found heuristic baseline seg
 - unresolved blockers — **0**
 - authority — `P4_SOURCE_AUDIT.md`
 
+## P5 current state
+
+**IN PROGRESS — 78/83 physical scans directly rechecked.**
+
+- scans 1–23 — reviewed;
+- scans 24–52 — reviewed;
+- scans 53–78 — reviewed;
+- scans 79–83 — pending strict completion;
+- committed P5 page-record printed-text correction events through scan 78 — **75**;
+- current-sync confirmed corrections — scans **59, 61, 62, 75, 76**;
+- printed gathering/signature mark **`[5]`** recorded on scan 67;
+- Article 10 and Article 12 post-propagation exact reconstruction — **PASS**;
+- P5 authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`;
+- Tamil archival layer — **NOT YET FROZEN**.
+
 ## Exact next activity
 
-**P5 — final strict visual text-fidelity pass over all 83 physical scans.**
+**Continue P5 with scans 79–83, then run final propagation / reconstruction / closure checks.**
 
 Do not begin English until P5 closes and the Tamil archival layer is frozen.
 
