@@ -10,8 +10,8 @@ Controlling source: `TVA_BOK_0064124_பெருமூச்சு.pdf`
 - Publication 14
 - P0 source intake — **COMPLETE / PASS**
 - P1 source structure / article inventory — **COMPLETE / PASS — 83/83 structurally inspected**
-- P2 page-level transcription — **IN PROGRESS — 52/83 VERIFIED / PASS**
-- P3 article assemblies — **NOT STARTED**
+- P2 page-level transcription — **COMPLETE / PASS — 83/83 VERIFIED**
+- P3 article assemblies — **NOT STARTED — NEXT GATE**
 - P4 source audit — **NOT STARTED**
 - P5 strict visual-text-fidelity pass — **NOT STARTED**
 - English — **BLOCKED until Tamil archival layer freezes**
@@ -59,11 +59,11 @@ This edition uses older Tamil metal-type forms. Before P2, read and apply reposi
 
 No OCR, web copy, alternate edition or contextual completion may control the Tamil text.
 
-## P2 progress — scans 1–52
+## P2 final state
 
-The user-supplied `perumoochu.md` remains a generated transcription baseline only. Rendered source pixels are authoritative.
+**COMPLETE / PASS — 83/83 canonical physical-scan records**
 
-Completed:
+The user-supplied `perumoochu.md` was used only as a generated transcription baseline. Rendered source pixels remained authoritative.
 
 - scans **1–4** — front matter / physical-copy evidence
 - scans **5–6** — `மூச்சினிடையே!`
@@ -75,20 +75,35 @@ Completed:
 - scans **37–40** — `சிறுவர்கள்`
 - scans **41–48** — `“அஹிம்சா விலாசம்”`
 - scans **49–52** — `திண்டிவனம் தீரர்காள்!`
-- cumulative P2 — **52/83 VERIFIED**
+- scans **53–56** — `சேவல் கூவுகிறது!`
+- scans **57–62** — `மாடோட்டிகள்!`
+- scans **63–70** — `தேர்தல் கோவலன்!`
+- scans **71–76** — `சிந்தித்துணர்க! சீற்றமுறாதீர்!`
+- scans **77–80** — `பூம்! பூம்! பூம்!`
+- scans **81–83** — publisher / bookseller catalogue matter
+- verified records — **83/83**
+- missing / duplicate — **0 / 0**
 - needs-review / blocked / guessed — **0 / 0 / 0**
 - unresolved historical-glyph readings — **0**
 
-Durable title / glyph refinements include:
+### Durable corrections
 
 - scan 17 — **`மந்திரிகள் குலை நடுக்கம்`**; historical **`லை`** is authoritative;
 - scan 21 — **`வாபஸ் வீரர்கள்!`**;
-- scan 49 — earlier P1 `திண்டிவனம் தீரர்கள்!` → source **`திண்டிவனம் தீரர்காள்!`**.
+- scan 49 — **`திண்டிவனம் தீரர்காள்!`**;
+- scan 53 — **`சேவல் கூவுகிறது!`**;
+- scan 57 — **`மாடோட்டிகள்!`**;
+- scan 63 — **`தேர்தல் கோவலன்!`**;
+- scan 71 — **`சிந்தித்துணர்க! சீற்றமுறாதீர்!`**.
+
+### Physical-boundary repair
+
+Scans **24–52** were rebuilt after closure review found heuristic baseline segmentation. Their current records follow directly verified physical scan boundaries. Repair authority commit:
+
+`ebe8b2146eef22ac203f8014367cb78dea2d4b76`
 
 ## Exact next activity
 
-**P2 scans 53–75**.
+**P3 — assemble and audit all 13 article reading copies from the canonical P2 page records.**
 
-Continue one canonical page record per physical scan, with `perumoochu.md` used only as baseline and rendered source pixels controlling every canonical reading.
-
-Publication 15 remains queued at P0–P1 COMPLETE / P2 NOT STARTED unless the user explicitly directs parallel processing.
+Publication 15 `விடுதலைக் கிளர்ச்சி` remains queued at **P0–P1 COMPLETE / P2 NOT STARTED**.
