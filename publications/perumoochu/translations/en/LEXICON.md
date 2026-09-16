@@ -49,6 +49,20 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 | `அண்ணா` | **Anna** | Preserve the source-bearing address/title in forms such as `லிங்கம் அண்ணா` and `தளபதி அண்ணா`; do not replace it with an externally supplied identification inside the body. | Article 6 T4 | verified |
 | `சாமியார்` | ***swami*** | Contextual source-bearing term in Article 6's marriage joke; retain rather than over-specifying an English religious category. | Article 6 T4 | verified |
 | `இளம் இதயம்` | **young heart** | Preserve the repeated metaphor and the article's contrast with chronological age. | Article 6 T4 | verified |
+| `அஹிம்சா விலாசம்` | ***Ahimsa Vilasam*** | Preserve as the article's quoted, coined source label; do not silently convert it into an explanatory English title. | Article 7 T4 | verified |
+| `கமண்டலம்` | ***kamandala*** | Preserve the source-bearing cultural object in Article 7 rather than flattening it to generic “water-pot.” | Article 7 T4 | verified |
+| `கோயங்கா / கோயாங்கா` | **Koyanga** | Source-bearing transliteration only; do not silently identify or expand the referent from outside knowledge. | Articles 8–10 T4 | verified |
+| `கனக விசயர்` | **Kanaka Visayar / Kanaka-Visayars** | Preserve the source literary-historical label; no outside gloss in body. | Article 8 T4 | verified |
+| `விபீஷணர்கள்` | **Vibhishanas** | Preserve source metaphor/epithet rather than replacing it with an explanatory category. | Articles 8–9 T4 | verified |
+| `சுக்ரீவர்கள்` | **Sugrivas** | Preserve source metaphor/epithet. | Article 9 T4 | verified |
+| `சேவல் பெட்டி` | **rooster box** | Source election-symbol phrase; retain its direct relation to the rooster imagery. | Article 9 T4 | verified |
+| `மாட்டுப் பெட்டி` | **cow box** | Source election-symbol phrase; retain the cattle metaphor without adding modern explanatory identification. | Articles 7, 9, 11 T4 | verified |
+| `பரணி` | ***parani*** | Preserve the source literary-form term in Article 9. | Article 9 T4 | verified |
+| `மாங்கல்யம்` | ***mangalyam*** | Preserve the source-bearing marriage-symbol term in Article 9's metaphor. | Article 9 T4 | verified |
+| `மாடோட்டி / மாடோட்டிகள்` | **cattle-driver / cattle-drivers** | Preserve Article 10's recurring polemical cattle metaphor and title. | Article 10 T4 | verified |
+| `நீலிக்கண்ணீர்` | **Neeli tears** | Preserve the source-specific metaphor without silently replacing it by a generic English idiom. | Article 11 T4 | verified |
+| `வஞ்சிப்பத்தர்` | **Vanjipattar** | Preserve the source-specific literary/polemical label; do not identify or expand it from outside knowledge. | Article 11 T4 | verified |
+| `சுந்தராங்கதர்கள்` | **Sundarangathars** | Preserve source-specific label in the lovers/election analogy; no outside identification. | Article 11 T4 | verified |
 
 ## Rhetorical / quotation policy for this publication
 
@@ -69,13 +83,18 @@ Verified through T5:
 4. `வாபஸ் வீரர்கள்!` — **Heroes of Retreat!**
 5. `பொது மக்களுக்குத் தனி எச்சரிக்கை` — **A Special Warning to the Public**
 6. `சிறுவர்கள்` — **Youngsters**
+7. `“அஹிம்சா விலாசம்”` — **“Ahimsa Vilasam”**
+8. `திண்டிவனம் தீரர்காள்!` — **O Heroes of Tindivanam!**
+9. `சேவல் கூவுகிறது!` — **The Rooster Crows!**
+10. `மாடோட்டிகள்!` — **Cattle-Drivers!**
+11. `தேர்தல் கோவலன்!` — **Election Kovalan!**
 
-Articles **7–13** remain **TBD** until their own T1/T4 review.
+Articles **12–13** remain **TBD** until their own T1/T4 review.
 
 ## Lexicon status
 
 - initialized — **PASS**
 - fixed repository-wide rules imported — **PASS**
 - publication-specific terms seeded — **PASS**
-- English body translation begun — **Yes — Articles 1–6 T5 VERIFIED**
-- unresolved choices blocking Articles 1–6 — **0**
+- English body translation begun — **Yes — Articles 1–6 T5 VERIFIED; Articles 7–11 T4 PASS / T5 NEXT**
+- unresolved choices blocking Articles 1–11 — **0**
