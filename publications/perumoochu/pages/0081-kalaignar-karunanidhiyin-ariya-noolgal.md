@@ -49,7 +49,7 @@ transcription_method: "direct visual transcription from rendered source scan; us
 
 கலைமன்றம்  
 122, வரதாமுத்தியப்பன் தெரு  
-தபாற் பெட்டி நெ. 275 — சென்னை-1
+தபாற் பெட்டி நெ. 275 - சென்னை-1
 
 ## அச்சு அமைப்பு
 
@@ -73,6 +73,12 @@ transcription_method: "direct visual transcription from rendered source scan; us
 - source-visible price groups were read directly from the scan.
 - address corrected from baseline noise to source-visible **வரதாமுத்தியப்பன் தெரு**.
 - guessed readings — **0**.
+
+## P5 strict visual fidelity findings
+
+- direct source-pixel reinspection completed in final P5 batch.
+- address separator `—` → source-visible **`-`**.
+- unresolved P5 fidelity discrepancy — **0**.
 
 ## P2 நிலை
 
