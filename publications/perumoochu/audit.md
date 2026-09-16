@@ -36,7 +36,7 @@ The publication contains a publisher preface followed by **13** distinct politic
 - P3 — **COMPLETE / PASS — 13/13**
 - P4 — **COMPLETE / PASS**
 - P5 — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
-- English — **UNBLOCKED — E0 planning/setup NEXT**
+- English — **E0 COMPLETE / PASS; Articles 1–5 T0–T5 VERIFIED; Article 6 T0 NEXT**
 
 ## P2 final audit
 
@@ -148,6 +148,40 @@ The publication contains a publisher preface followed by **13** distinct politic
 
 **PASS — Tamil archival layer COMPLETE / STRICT-REVIEWED / FROZEN.**
 
+## English audit checkpoint — Articles 1–5
+
+- E0 — **COMPLETE / PASS**
+- T0 — **5/13 PASS**
+- T1 — **5/13 COMPLETE**
+- T2 — **5/13 PASS**
+- T3 — **5/13 PASS**
+- T4 — **5/13 PASS**
+- T5 — **5/13 VERIFIED**
+- ordered source comments in verified English articles — **30/30 PASS**
+- untranslated Tamil body leakage — **0**
+- omitted Tamil clauses after bilingual review — **0**
+- added substantive English claims after bilingual review — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+
+Verified English blobs:
+
+1. `8a441b0c4d33aacd2e61795800de2f95c4804e81` — **A Deep Sigh**
+2. `ef0be10af34519b868634de64fc67bfde53bc5fb` — **Come, Let Us Build the Mansion!**
+3. `3d0e2718db290159e717db23890611f461af1149` — **Ministers Tremble in Fear**
+4. `47510c75833b1abd6990871ebc45c9e9eb8ba1db` — **Heroes of Retreat!**
+5. `637fd7fb72126b4b677846839191459616971d60` — **A Special Warning to the Public**
+
+Authorities:
+
+- `TRANSLATION_PLAN.md`
+- `translations/en/README.md`
+- `translations/en/SOURCE_MAP.md`
+- `translations/en/LEXICON.md`
+- `translations/en/TRANSLATION_REVIEW.md`
+
 ## Exact next activity
 
-**E0 — English translation planning/setup only.**
+**Article 6 `சிறுவர்கள்` — T0 source prerequisite.**
+
+Require exact live-main Tamil blob **`14501305ff4935d672444459dfe404d51ac97282`** before creating Article 6 English body text.
