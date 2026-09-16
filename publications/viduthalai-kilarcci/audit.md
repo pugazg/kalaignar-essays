@@ -32,7 +32,7 @@ The source consists of preliminary verse/prologue material followed by one conti
 
 - historical Tamil typeforms — **present**
 - historical-glyph guide — **mandatory**
-- P2 — **IN PROGRESS — 40/69 VERIFIED**
+- P2 — **IN PROGRESS — 50/69 VERIFIED**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil P5 / frozen**
 
@@ -96,8 +96,22 @@ The source consists of preliminary verse/prologue material followed by one conti
 - physical continuation **34→35 `நாடோடி / களாய்த்`** preserved; scan 40 terminal clause remains open for scan 41
 - P2 progress authority — `P2_PROGRESS.md`
 
+## P2 Batch 005 audit
+
+**COMPLETE / PASS — scans 41–50**
+
+- page records created — **10**
+- verified — **10**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph workflow — **applied**
+- notable source decisions — **`சாயங்கள்`**, **`எதிர்ப்பு இயக்கம்`**, **`சோப்பும் சீப்பும்`**, **`ஆயிரக்கணக்கான`**, **`மாசேதுங்கினுடைய`**, **`இரண்டாமிரம்`**, **`அடைப்படை`**
+- physical continuations preserved at 43→44 **`போக் / கிலே`**, 44→45 **`பிரிட்டிஷ் / கொடியை`**, 47→48 **`புகழப்பட்டாலுங் / கூட,`**, and 48→49 **`போதை / களிலிருந்து`**
+- P2 progress authority — `P2_PROGRESS.md`
+
 ## Next
 
-Publication 15 is **ACTIVE — P0–P1 COMPLETE / P2 IN PROGRESS — 40/69 VERIFIED**.
+Publication 15 is **ACTIVE — P0–P1 COMPLETE / P2 IN PROGRESS — 50/69 VERIFIED**.
 
-Next gate: **P2 Batch 005 — scans 41–50**.
+Next gate: **P2 Batch 006 — scans 51–60**.

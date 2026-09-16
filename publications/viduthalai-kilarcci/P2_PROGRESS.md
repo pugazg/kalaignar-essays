@@ -2,7 +2,7 @@
 
 ## Status
 
-**IN PROGRESS — 40/69 physical scans VERIFIED**
+**IN PROGRESS — 50/69 physical scans VERIFIED**
 
 Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf`  
 Baseline aid: user-supplied `viduthalai_kilarchi.md` — **NON-AUTHORITATIVE**  
@@ -165,24 +165,57 @@ Cross-page controls:
 - 34→35 — **`நாடோடி / களாய்த்`**;
 - scan 40 ends **`பொழுதுபோக்க திரைப்படத்திற்கு சென்றால்`**; continuation belongs to scan 41.
 
+## Batch 005 — scans 41–50
+
+**COMPLETE / PASS — 10/10 VERIFIED**
+
+| Scan | Record | Role | Status |
+|---:|---|---|---|
+| 41 | `pages/0041-viduthalai-kilarcci-34.md` | main work / printed 40 | verified |
+| 42 | `pages/0042-viduthalai-kilarcci-35.md` | main work / printed 41 | verified |
+| 43 | `pages/0043-viduthalai-kilarcci-36.md` | main work / printed 42 | verified |
+| 44 | `pages/0044-viduthalai-kilarcci-37.md` | main work / printed 43 | verified |
+| 45 | `pages/0045-viduthalai-kilarcci-38.md` | main work / printed 44 | verified |
+| 46 | `pages/0046-viduthalai-kilarcci-39.md` | main work / printed 45 | verified |
+| 47 | `pages/0047-viduthalai-kilarcci-40.md` | main work / printed 46 | verified |
+| 48 | `pages/0048-viduthalai-kilarcci-41.md` | main work / printed 47 | verified |
+| 49 | `pages/0049-viduthalai-kilarcci-42.md` | main work / printed 48 | verified |
+| 50 | `pages/0050-viduthalai-kilarcci-43.md` | main work / printed 49 | verified |
+
+### Durable Batch-005 corrections / decisions
+
+- scan 41 — baseline **`சாயங்களை`** → source **`சாயங்கள்`**; baseline **`எதிர்ம்பு`** → source **`எதிர்ப்பு`**;
+- scan 45 — enlarged source reads **`சோப்பும் சீப்பும்`**;
+- scan 46 — baseline **`ஆயிரக்காணக்கான`** → source **`ஆயிரக்கணக்கான`**;
+- scan 47 — line-wrap resolves baseline **`மாசேதுங் சினுடைய`** to source **`மாசேதுங்கினுடைய`**;
+- scan 47 — source typo-like **`இரண்டாமிரம்`** retained without normalization;
+- scan 48 — source unusual **`அடைப்படை`** retained.
+
+Cross-page controls:
+
+- 43→44 — **`போக் / கிலே`**;
+- 44→45 — **`பிரிட்டிஷ் / கொடியை`**;
+- 47→48 — **`புகழப்பட்டாலுங் / கூட,`**;
+- 48→49 — **`போதை / களிலிருந்து`**.
+
 ## Historical-glyph state
 
-- mandatory family check applied — **scans 1–40**
+- mandatory family check applied — **scans 1–50**
 - unresolved historical-glyph ambiguities — **0**
 - global replacements used — **0**
 - guessed readings — **0**
 
 ## Totals
 
-- canonical records — **40/69**
-- verified — **40**
+- canonical records — **50/69**
+- verified — **50**
 - needs-review — **0**
 - blocked — **0**
 - guessed — **0**
-- remaining — **29**
+- remaining — **19**
 
 ## Exact next activity
 
-**P2 Batch 005 — scans 41–50.**
+**P2 Batch 006 — scans 51–60.**
 
 Use the supplied baseline only as a comparison aid; source pixels remain controlling.

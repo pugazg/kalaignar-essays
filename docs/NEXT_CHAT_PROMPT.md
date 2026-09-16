@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P2 Batch 005 scans 41–50
+# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P2 Batch 006 scans 51–60
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,8 +18,8 @@ Baseline: user-supplied `viduthalai_kilarchi.md` — **NON-AUTHORITATIVE**.
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 69/69**
-- P2 — **IN PROGRESS — 40/69 VERIFIED**
-- Batches 001–004 — scans 1–40 — **PASS**
+- P2 — **IN PROGRESS — 50/69 VERIFIED**
+- Batches 001–005 — scans 1–50 — **PASS**
 - needs-review / blocked / guessed — **0 / 0 / 0**
 - P3–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil archival freeze**
@@ -27,27 +27,20 @@ Baseline: user-supplied `viduthalai_kilarchi.md` — **NON-AUTHORITATIVE**.
 ## Durable source readings — do not regress
 
 Earlier controls include:
-- `வேங்கையை விரட்டும் படலம்`
 - `இந்தோ சீனாவில்!`
 - `கோமிண்டாங்`
-- `மனோரம்மியமான`
-- `மாகாண`
-- `விபீஷணர்களுக்கு`
-
-Batch 004:
-- `கடற்கரைச் சிற்பக் கோயில்களிலே`
-- `உ, வெ. சாமிநாத அய்யர்`
 - `நிகரா குவா`
-- `பனமா`
 - `ஐஸ்லந்து`
-- `ஆடு வளர்ப்பதையுமே`
-- `அவதூறுக்கு`
-- `கம்யூனிஸ்ட்`
 - `பாரதமாதா!`
-- source distinction `பிரச்சாரந்தான் / பிரசாரமாம்`
 
-Cross-page entry:
-- scan 40 ends **`பொழுதுபோக்க திரைப்படத்திற்கு சென்றால்`**; continue only from scan 41 pixels.
+Batch 005:
+- `சாயங்கள்`
+- `எதிர்ப்பு இயக்கம்`
+- `சோப்பும் சீப்பும்`
+- `ஆயிரக்கணக்கான`
+- `மாசேதுங்கினுடைய`
+- source typo-like `இரண்டாமிரம்`
+- source unusual `அடைப்படை`
 
 ## Mandatory workflow
 
@@ -60,6 +53,6 @@ Source pixels control. Do not use OCR, web text, alternate editions or contextua
 
 ## Exact next activity
 
-**P2 Batch 005 — scans 41–50.**
+**P2 Batch 006 — scans 51–60.**
 
 Create/verify canonical page records and update all progress/control files.

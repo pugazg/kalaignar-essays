@@ -10,7 +10,7 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - Publication 15
 - P0 source intake — **COMPLETE / PASS**
 - P1 source structure / article inventory — **COMPLETE / PASS — 69/69 structurally inspected**
-- P2 page-level transcription — **IN PROGRESS — 40/69 VERIFIED**
+- P2 page-level transcription — **IN PROGRESS — 50/69 VERIFIED**
 - P3 article assembly — **NOT STARTED**
 - P4 source audit — **NOT STARTED**
 - P5 strict visual-text-fidelity pass — **NOT STARTED**
@@ -67,7 +67,8 @@ Authority: `P2_PROGRESS.md`.
 - Batch 002 — scans **11–20** — **COMPLETE / PASS**
 - Batch 003 — scans **21–30** — **COMPLETE / PASS**
 - Batch 004 — scans **31–40** — **COMPLETE / PASS**
-- canonical page records — **40/69 VERIFIED**
+- Batch 005 — scans **41–50** — **COMPLETE / PASS**
+- canonical page records — **50/69 VERIFIED**
 - needs-review — **0**
 - blocked — **0**
 - guessed readings — **0**
@@ -77,6 +78,6 @@ Authority: `P2_PROGRESS.md`.
 
 ## Exact next activity
 
-**P2 Batch 005 — scans 41–50.**
+**P2 Batch 006 — scans 51–60.**
 
 Use the baseline only as a comparison aid. Verify every word, punctuation mark, page boundary and historical glyph against source pixels.

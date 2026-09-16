@@ -36,7 +36,7 @@ The principal prose run visibly follows the source page sequence: scan 9 carries
 
 ## P2 current coverage
 
-**Batches 001–004 COMPLETE / PASS — scans 1–40**
+**Batches 001–005 COMPLETE / PASS — scans 1–50**
 
 | Scan | Canonical record | Status | Source-visible folio |
 |---:|---|---|:---:|
@@ -80,8 +80,18 @@ The principal prose run visibly follows the source page sequence: scan 9 carries
 | 38 | `pages/0038-viduthalai-kilarcci-31.md` | verified | 37 |
 | 39 | `pages/0039-viduthalai-kilarcci-32.md` | verified | 38 |
 | 40 | `pages/0040-viduthalai-kilarcci-33.md` | verified | 39 |
+| 41 | `pages/0041-viduthalai-kilarcci-34.md` | verified | 40 |
+| 42 | `pages/0042-viduthalai-kilarcci-35.md` | verified | 41 |
+| 43 | `pages/0043-viduthalai-kilarcci-36.md` | verified | 42 |
+| 44 | `pages/0044-viduthalai-kilarcci-37.md` | verified | 43 |
+| 45 | `pages/0045-viduthalai-kilarcci-38.md` | verified | 44 |
+| 46 | `pages/0046-viduthalai-kilarcci-39.md` | verified | 45 |
+| 47 | `pages/0047-viduthalai-kilarcci-40.md` | verified | 46 |
+| 48 | `pages/0048-viduthalai-kilarcci-41.md` | verified | 47 |
+| 49 | `pages/0049-viduthalai-kilarcci-42.md` | verified | 48 |
+| 50 | `pages/0050-viduthalai-kilarcci-43.md` | verified | 49 |
 
-P2 progress — **40/69 verified; 0 needs-review; 0 blocked**.
+P2 progress — **50/69 verified; 0 needs-review; 0 blocked**.
 
 Source-supported correction at scan 4: introductory unit is **`வேங்கையை விரட்டும் படலம்`**, not the earlier provisional `வேங்கையை விரட்டும் பாடல்`.
 
@@ -95,3 +105,5 @@ Every one of the **69 physical scans** requires its own canonical page record, i
 Batch-003 source controls: source spelling **`கோமிண்டாங்`** retained; scan 23 **`மனோரம்மியமான`**; scan 28 **`மாகாண`**; scan 30 **`விபீஷணர்களுக்கு`**.
 
 Batch-004 source controls: **`நிகரா குவா`**, **`பனமா`**, **`ஐஸ்லந்து`**, **`அவதூறுக்கு`**, **`பாரதமாதா!`**; scan 40 continues into scan 41.
+
+Batch-005 source controls: **`சோப்பும் சீப்பும்`**, **`மாசேதுங்கினுடைய`**, source typo-like **`இரண்டாமிரம்`**, and **`அடைப்படை`** retained; no unresolved readings.

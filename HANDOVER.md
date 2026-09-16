@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after Publication 15 `விடுதலைக் கிளர்ச்சி` P2 Batch 001. Publications **1–14 are RELEASE COMPLETE / FROZEN**. Publication 15 is **ACTIVE — P0 PASS; P1 PASS 69/69; P2 IN PROGRESS — 40/69 VERIFIED**.
+Handoff refreshed after Publication 15 `விடுதலைக் கிளர்ச்சி` P2 Batch 001. Publications **1–14 are RELEASE COMPLETE / FROZEN**. Publication 15 is **ACTIVE — P0 PASS; P1 PASS 69/69; P2 IN PROGRESS — 50/69 VERIFIED**.
 
 ## Repository state
 
@@ -18,7 +18,7 @@ Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPL
 
 Publication 14 **`பெருமூச்சு` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 13/13 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0 PASS; P1 PASS 69/69; P2 IN PROGRESS — 40/69 VERIFIED; introductory unit + 1 main prose work**.
+Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0 PASS; P1 PASS 69/69; P2 IN PROGRESS — 50/69 VERIFIED; introductory unit + 1 main prose work**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2533,7 +2533,7 @@ English controls:
 
 No further Publication 14 archival or translation activity is pending.
 
-Publication 15 `விடுதலைக் கிளர்ச்சி` is **ACTIVE — P2 IN PROGRESS — 40/69 VERIFIED**.
+Publication 15 `விடுதலைக் கிளர்ச்சி` is **ACTIVE — P2 IN PROGRESS — 50/69 VERIFIED**.
 # Publication 15 — விடுதலைக் கிளர்ச்சி
 
 Workspace: `publications/viduthalai-kilarcci/`
@@ -2556,7 +2556,7 @@ Workspace: `publications/viduthalai-kilarcci/`
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 69/69**
-- P2 — **IN PROGRESS — 40/69 VERIFIED**
+- P2 — **IN PROGRESS — 50/69 VERIFIED**
 - P3 — **NOT STARTED**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
@@ -2629,8 +2629,14 @@ Durable controls include **`கோமிண்டாங்`**, **`சர்வ�
 
 Durable controls include **`நிகரா குவா`**, **`பனமா`**, **`ஐஸ்லந்து`**, **`அவதூறுக்கு`**, **`கம்யூனிஸ்ட்`**, **`பாரதமாதா!`**, and the source distinction **`பிரச்சாரந்தான் / பிரசாரமாம்`**.
 
+## P2 Batch 005 — scans 41–50
+
+**COMPLETE / PASS — 10/10 VERIFIED**
+
+Durable controls include **`சாயங்கள்`**, **`எதிர்ப்பு`**, **`சோப்பும் சீப்பும்`**, **`ஆயிரக்கணக்கான`**, **`மாசேதுங்கினுடைய`**, source **`இரண்டாமிரம்`**, and **`அடைப்படை`**.
+
 ## Exact next activity
 
-**P2 Batch 005 — scans 41–50.**
+**P2 Batch 006 — scans 51–60.**
 
 Use `viduthalai_kilarchi.md` only as a baseline comparison aid. Source scan pixels remain controlling. Apply the historical-glyph guide word-by-word and preserve page-boundary fragments exactly.
