@@ -39,7 +39,7 @@ Read character identity from source pixels; do not modernize vocabulary, spellin
 | 5–6 | `மூச்சினிடையே!` | VERIFIED |
 | 7–10 | `பெருமூச்சு` | VERIFIED |
 | 11–16 | `மாளிகை அமைத்திட வாரீர்!` | VERIFIED |
-| 17–20 | `மந்திரிகள் குல நடுக்கம்` | VERIFIED |
+| 17–20 | `மந்திரிகள் குலை நடுக்கம்` | VERIFIED |
 | 21–23 | `வாபஸ் வீரர்கள்!` | VERIFIED |
 
 ### Durable baseline-to-source findings
@@ -47,7 +47,7 @@ Read character identity from source pixels; do not modernize vocabulary, spellin
 - scan 5 — `விடுகிறர்கள்` → **`விடுகிறார்கள்`**
 - scan 6 — `தறிப்பாக` → **`குறிப்பாக`**
 - scan 13 — `உறக்கக்` → **`உரக்கக்`**
-- scan 17 — `மந்திரிகள் குலை நடுக்கம்` → **`மந்திரிகள் குல நடுக்கம்`**
+- scan 17 — user-confirmed historical **`லை`** glyph: **`மந்திரிகள் குலை நடுக்கம்`**
 - scan 21 — P1 `வாய்ஸ் வீரர்கள்!` → **`வாபஸ் வீரர்கள்!`**
 - scan 22 — `புண்ய பூமியிலே` → **`புண்ணிய பூமியிலே`**
 
