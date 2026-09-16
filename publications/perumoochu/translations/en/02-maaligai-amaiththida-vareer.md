@@ -16,7 +16,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 <!-- Tamil source: scan 11 / printed 9 -->
 
-The slogan that is the anthem of the Dravida Munnetra Kazhagam's ideal—"Dravida Nadu for the Dravidians!"—rose at the Madras State Conference as the voice of awakening of two hundred thousand people.
+The slogan that is the anthem of the Dravida Munnetra Kazhagam's ideal—"Dravida Nadu for the Dravidians alone!"—rose at the Madras State Conference as the voice of awakening of two hundred thousand people.
 
 Among all the resolutions passed on the fourth day of the conference, that resolution of principle stood like the crowning peak.
 
@@ -44,7 +44,7 @@ Resolutions condemning the policy of racial hatred; insisting that India withdra
 
 It was precisely so that all these resolutions need not remain merely at the stage of requests and urgings, so that we ourselves may settle our own questions, so that we may not live like mere bugs caught in Delhi's grip—nodding along with the foreign policy Delhi practises and bowing our heads to the resolutions Delhi makes—that the conference not only insisted on the resolution that Dravida Nadu must become a separate country, but sounded the conch that every kind of action suited to achieving it must be undertaken!
 
-"Dravida Nadu." Our question of life itself; a word fit to be shouted aloud even at the moment life departs! The guiding mantra—Dravida Nadu! It is for that sweet ideal that the lives of so many among us have been crushed!
+"Dravida Nadu." Our question of life itself; a word fit to be shouted aloud even at the moment life departs! The *taraka mantra*—Dravida Nadu! It is for that sweet ideal that the lives of so many among us have been crushed!
 
 Udayarpalayam Velayudham hanging as a corpse, Talamuthu and Natarasan becoming graves—
 
@@ -66,7 +66,7 @@ It cannot be destroyed by the money-bombs rolled out by mansion-dwellers! It can
 
 The valiant Dravidian will not give away the diamond—not even to receive a pebble in exchange!
 
-That is the formed, unchanging, jewel-like policy of the Dravida Munnetra Kazhagam! Dravidian society must engrave upon its heart the words that every kind of action suited to achieving it must be undertaken. As the General Secretary said, in '54 we shall hold a plebiscite. By '60 we shall make arrangements to live in Dravida. Let us begin the groundwork now. It is not merely the election folk-song that matters—
+That is the formed, unchanging, jewel-like policy of the Dravida Munnetra Kazhagam! Dravidian society must engrave upon its heart the words that every kind of action suited to achieving it must be undertaken. As the General Secretary said, in '54 we shall hold a plebiscite. By '60 we shall make arrangements to live in Dravida. Let us begin the groundwork now. It is not merely the election *themmangu* that matters—
 
 <!-- Tamil source: scan 16 / printed 14 -->
 
