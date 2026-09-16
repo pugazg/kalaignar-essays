@@ -2533,7 +2533,7 @@ English controls:
 
 No further Publication 14 archival or translation activity is pending.
 
-Publication 15 `விடுதலைக் கிளர்ச்சி` is **ACTIVE — P2 COMPLETE / PASS — 69/69 VERIFIED**.
+Publication 15 `விடுதலைக் கிளர்ச்சி` is **ACTIVE — P2 COMPLETE / PASS — 69/69 VERIFIED; P3 COMPLETE / PASS — 2/2 ASSEMBLIES**.
 # Publication 15 — விடுதலைக் கிளர்ச்சி
 
 Workspace: `publications/viduthalai-kilarcci/`
@@ -2557,7 +2557,7 @@ Workspace: `publications/viduthalai-kilarcci/`
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 69/69**
 - P2 — **COMPLETE / PASS — 69/69 VERIFIED**
-- P3 — **NOT STARTED**
+- P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 — **NOT STARTED**
 - P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil P5 / frozen**
@@ -2653,8 +2653,27 @@ Terminal controls:
 
 P2 totals — **69/69 VERIFIED; needs-review 0; blocked 0; guessed 0**.
 
+## P3 article assembly
+
+**COMPLETE / PASS — 2/2 ASSEMBLIES**
+
+- `articles/00-vengaiyai-virattum-padalam.md` — introductory unit scans **4–7 / 4/4**
+- `articles/01-viduthalai-kilarcci.md` — main prose scans **8–68 / 61/61**
+- total contributing records — **65/65**
+- boundary-word joins — **14 VERIFIED**
+- scan 69 publisher catalogue — **excluded from prose assembly / PASS**
+- omitted P2 lexical body text — **0**
+- unsupported additions — **0**
+- normalization / paraphrase — **0**
+- unresolved assembly issues — **0**
+- P3 authority — `publications/viduthalai-kilarcci/P3_PROGRESS.md`
+
+P3 assembly blobs at closure:
+- introductory unit — **`5b0d9fcca4eff38bb7c1a51f98c28cc45ce57b9e`**
+- main prose — **`4f1416db060a12d45ab67c069f4976af3dddc1f2`**
+
 ## Exact next activity
 
-**P3 article assembly.**
+**P4 publication source/completeness audit.**
 
 Use `viduthalai_kilarchi.md` only as a baseline comparison aid. Source scan pixels remain controlling. Apply the historical-glyph guide word-by-word and preserve page-boundary fragments exactly.

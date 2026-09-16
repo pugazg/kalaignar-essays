@@ -273,8 +273,12 @@ Cross-page controls:
 - guessed — **0**
 - remaining — **0**
 
+## Downstream status
+
+- P3 — **COMPLETE / PASS — 2/2 assemblies**
+- P3 authority — `P3_PROGRESS.md`
+- article assemblies — `articles/00-vengaiyai-virattum-padalam.md`, `articles/01-viduthalai-kilarcci.md`
+
 ## Exact next activity
 
-**P3 article assembly.**
-
-Use the supplied baseline only as a comparison aid; source pixels remain controlling.
+**P4 publication source/completeness audit.**

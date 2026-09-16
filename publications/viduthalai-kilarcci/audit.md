@@ -33,7 +33,8 @@ The source consists of preliminary verse/prologue material followed by one conti
 - historical Tamil typeforms — **present**
 - historical-glyph guide — **mandatory**
 - P2 — **COMPLETE / PASS — 69/69 VERIFIED**
-- P3–P5 — **NOT STARTED**
+- P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
+- P4–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil P5 / frozen**
 
 ## P2 Batch 001 audit
@@ -140,8 +141,25 @@ The source consists of preliminary verse/prologue material followed by one conti
 - scan 69 is terminal publisher catalogue matter headed **`கலைஞர் கருணாநிதி எழுதியவை`** and is not part of the prose work
 - P2 progress authority — `P2_PROGRESS.md`
 
+## P3 article assembly audit
+
+**COMPLETE / PASS — 2/2 assemblies**
+
+- authority — verified canonical P2 page records only
+- introductory unit — scans **4–7 / 4/4** → `articles/00-vengaiyai-virattum-padalam.md`
+- main prose work — scans **8–68 / 61/61** → `articles/01-viduthalai-kilarcci.md`
+- contributing records — **65/65**
+- verified boundary-word joins — **14**
+- source-visible Roman page numerals II–IV remain in page records and are omitted from the introductory reading-copy body
+- scan 69 catalogue excluded from prose assembly — **PASS**
+- omitted canonical P2 lexical body text — **0**
+- unsupported added body text — **0**
+- modernization / paraphrase — **0**
+- unresolved assembly issues — **0**
+- authority — `P3_PROGRESS.md`
+
 ## Next
 
-Publication 15 is **ACTIVE — P0–P1 COMPLETE / P2 COMPLETE / PASS — 69/69 VERIFIED**.
+Publication 15 is **ACTIVE — P0–P2 COMPLETE / P3 COMPLETE / PASS — 2/2 ASSEMBLIES**.
 
-Next gate: **P3 article assembly**.
+Next gate: **P4 publication source/completeness audit**.

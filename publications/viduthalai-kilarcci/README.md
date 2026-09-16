@@ -11,7 +11,7 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - P0 source intake — **COMPLETE / PASS**
 - P1 source structure / article inventory — **COMPLETE / PASS — 69/69 structurally inspected**
 - P2 page-level transcription — **COMPLETE / PASS — 69/69 VERIFIED**
-- P3 article assembly — **NOT STARTED**
+- P3 article assembly — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 source audit — **NOT STARTED**
 - P5 strict visual-text-fidelity pass — **NOT STARTED**
 - English — **BLOCKED until Tamil archival layer freezes**
@@ -78,8 +78,24 @@ Authority: `P2_PROGRESS.md`.
   - introductory unit title: `வேங்கையை விரட்டும் பாடல்` → **`வேங்கையை விரட்டும் படலம்`**
   - scan 3 printer line: `கலிமகள் பிரஸ், பெரியகடைத் தெரு, திருச்சி.` → **`கலிமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
 
+## P3 article assembly
+
+**COMPLETE / PASS — 2/2 assemblies**
+
+- introductory reading assembly — `articles/00-vengaiyai-virattum-padalam.md` — scans **4–7 / 4/4 records**
+- main prose reading assembly — `articles/01-viduthalai-kilarcci.md` — scans **8–68 / 61/61 records**
+- contributing P2 records — **65/65**
+- verified boundary-word joins — **14**
+- scans 1–3 — front matter / metadata, outside article assembly
+- scan 69 — publisher catalogue, outside article assembly
+- omitted canonical P2 lexical body text — **0**
+- unsupported added body text — **0**
+- normalization / paraphrase — **0**
+- unresolved assembly issues — **0**
+- authority — `P3_PROGRESS.md`
+
 ## Exact next activity
 
-**P3 article assembly.**
+**P4 publication source/completeness audit.**
 
 Use the baseline only as a comparison aid. Verify every word, punctuation mark, page boundary and historical glyph against source pixels.

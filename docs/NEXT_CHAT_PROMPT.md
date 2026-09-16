@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P3 article assembly
+# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P4 publication source/completeness audit
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -17,34 +17,30 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 69/69**
 - P2 — **COMPLETE / PASS — 69/69 VERIFIED**
-- needs-review / blocked / guessed — **0 / 0 / 0**
-- P3 — **NOT STARTED**
-- P4–P5 — **NOT STARTED**
+- P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
+- P4 — **NOT STARTED**
+- P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil archival freeze**
 
-## P2 authorities
+## P3 authorities
 
-- `P2_PROGRESS.md`
-- `indexes/page-map.md`
-- canonical page records under `pages/`
+- `P3_PROGRESS.md`
+- `articles/00-vengaiyai-virattum-padalam.md` — scans 4–7
+- `articles/01-viduthalai-kilarcci.md` — scans 8–68
 
-Source structure:
-- scans 4–7 — introductory unit **`வேங்கையை விரட்டும் படலம்`**
-- scans 8–68 — one continuous main prose work **`விடுதலைக் கிளர்ச்சி`**
-- scan 69 — publisher catalogue, outside the prose work
+P3 totals:
+- contributing page records — **65/65**
+- verified boundary-word joins — **14**
+- omitted canonical P2 lexical body text — **0**
+- unsupported additions — **0**
+- unresolved assembly issues — **0**
 
-Terminal controls:
-- scan 60→61 — `நாடக / மேடை`
-- scan 64→65 — `நடத்தியவர் / களை`
-- scan 68 closes prose with **`இதுதான் வேறுபாடு. தேவையான துங்கூட!`** + star
-- scan 69 is catalogue only
-
-## P3 rule
-
-Assemble only from VERIFIED canonical P2 page records. Do not re-transcribe from the PDF or baseline. Join physical page-boundary fragments reversibly and preserve ordered source comments/provenance. Do not modernize spelling, punctuation, rhetoric, or unusual source forms.
+Non-article physical matter:
+- scans 1–3 — front cover / reverse / imprint
+- scan 69 — publisher catalogue
 
 ## Exact next activity
 
-**P3 article assembly.**
+**P4 publication source/completeness audit.**
 
-Determine the repository-consistent treatment of the scans 4–7 introductory unit and the scans 8–68 main prose work, create the Tamil assembly file(s), add P3 progress/review controls, update README/audit/handover, and commit atomically.
+Audit the full 69-scan publication against P1/P2/P3: physical-scan completeness, structure, page-record coverage, assembly coverage, front matter, introductory unit, main-work start/end boundaries, terminal catalogue exclusion, durable source corrections, and unresolved/blocker counts. Create `P4_SOURCE_AUDIT.md`, update README/audit/handover/next-prompt, and commit atomically. Do not begin P5 until P4 closes.
