@@ -18,7 +18,7 @@ transcription_method: "source-verified P2 transcription; user-supplied perumooch
 
 ஆலை அரசர்கள் வடநாட்டிலே! அரசியல் தலைமை வடநாட்டிலே, ஆட்சிக்கோல் வடநாட்டிலே! இவ்வளவு பிடியையும் வைத்துக்கொண் டிருக்கிற வடநாடு, செக்கிழுத்த தேசீய சிதம்பரத்திற்கு மதிப்புத் தராத வடநாடு, திருப்பூர் குமரனை நினைத்தும் பார்க்காத வடநாடு, தில்லையாடி வள்ளியம்மாளுக்கு புகழ் பாடாத வடநாடு, தென்னாட்டைச் சுரண்டிடும் வடநாடு, திராவிடத்தை மிதித்து வாழும் வடநாடு, திராவிடத்திலேயே அபேட்சகரையும் நிறுத்தி வைத்து, திராவிடத்தின் ஏமாளித்தனத்தை எடை போட்டுப் பார்க்கத் தீர்மானித்துவிட்டது!
 
-திருக்குறள் முனிசாமி, தி.மு.கழகத்தின் ஆதரவு பெற்றவர். திராவிடத் தனியரசுப் பிரச்சினையிலே அக்கரை கொண்டவர்! அவருடைய வெற்றி திராவிட நாட்டுப் பிரச்சினையின் வெற்றி! தி.மு.கழக மதுரை தீர்மானத்தின் வெற்றி!
+திருக்குறள் முனிசாமி, தி. மு. கழகத்தின் ஆதரவு பெற்றவர். திராவிடத் தனியரசுப் பிரச்சினையிலே அக்கரை கொண்டவர்! அவருடைய வெற்றி திராவிட நாட்டுப் பிரச்சினையின் வெற்றி! தி. மு. கழக மதுரை தீர்மானத்தின் வெற்றி!
 
 ## அச்சு அமைப்பு
 
@@ -44,6 +44,12 @@ transcription_method: "source-verified P2 transcription; user-supplied perumooch
 - previous heuristic physical-page segmentation was replaced by source-visible scan boundaries.
 - cross-scan word fragments are preserved on the physical scan where printed.
 - guessed completion — **0**.
+
+## P5 strict visual fidelity findings
+
+- direct source-pixel reinspection completed in P5.
+- body-text corrections from this scan were propagated to the dependent article assembly.
+- unresolved P5 fidelity discrepancy — **0**.
 
 ## P2 நிலை
 
