@@ -2455,8 +2455,9 @@ Workspace: `publications/perumoochu/`
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 83/83**
 - P2 — **COMPLETE / PASS — 83/83 VERIFIED**
-- P3 — **NOT STARTED — NEXT GATE**
+- P3 — **COMPLETE / PASS — 13/13 / 74/74 body records**
 - P4–P5 — **NOT STARTED**
+- English — **BLOCKED until Tamil P5 / frozen**
 - historical Tamil glyph workflow — **MANDATORY**
 
 Verified final article inventory:
@@ -2501,11 +2502,32 @@ Important durable corrections:
 - physical-boundary repair authority — **`ebe8b2146eef22ac203f8014367cb78dea2d4b76`**;
 - scans 81–83 catalogue matter was read directly from source pixels rather than baseline price-column noise.
 
+## P3 closure
+
+**COMPLETE / PASS — 13/13 article reading copies**
+
+- body records assembled — **74/74**
+- canonical P2 body text omitted — **0**
+- unsupported body text added — **0**
+- normalization / paraphrase — **0**
+- unresolved assembly issues — **0**
+- provenance coverage — **74/74**
+- exact reconstruction comparison — **13/13 PASS**
+- P3 authority — `publications/perumoochu/P3_PROGRESS.md`
+
 Authority:
 
 - `publications/perumoochu/P2_TRANSCRIPTION_PROGRESS.md`
+- `publications/perumoochu/P3_PROGRESS.md`
 - `publications/perumoochu/indexes/page-map.md`
 - `publications/perumoochu/audit.md`
+
+## Exact next activity
+
+**Publication 14 `பெருமூச்சு` — P4 publication source/completeness audit.**
+
+Do not begin P5 or English before P4 passes. Publication 15 remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** unless explicitly redirected.
+
 
 # Publication 15 — விடுதலைக் கிளர்ச்சி
 
