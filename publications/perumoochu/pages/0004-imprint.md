@@ -19,7 +19,7 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 முதற் பதிப்பு—'52  
 இரண்டாம் பதிப்பு—'53
 
-வெளியீடு:  
+வெளியீடு:-  
 இளங்கோ பதிப்பகம்  
 மாயூரம்
 
