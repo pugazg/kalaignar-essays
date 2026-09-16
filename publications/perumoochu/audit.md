@@ -36,7 +36,7 @@ The publication contains a publisher preface followed by **13** distinct politic
 - P3 — **COMPLETE / PASS — 13/13**
 - P4 — **COMPLETE / PASS**
 - P5 — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
-- English — **E0 COMPLETE / PASS; Articles 1–5 T0–T5 VERIFIED; Article 6 T0 PASS / T1 NEXT**
+- English — **E0 COMPLETE / PASS; Articles 1–6 T0–T5 VERIFIED; Article 7 T0 NEXT**
 
 ## P2 final audit
 
@@ -148,16 +148,16 @@ The publication contains a publisher preface followed by **13** distinct politic
 
 **PASS — Tamil archival layer COMPLETE / STRICT-REVIEWED / FROZEN.**
 
-## English audit checkpoint — Articles 1–5
+## English audit checkpoint — Articles 1–6
 
 - E0 — **COMPLETE / PASS**
-- T0 — **5/13 PASS**
-- T1 — **5/13 COMPLETE**
-- T2 — **5/13 PASS**
-- T3 — **5/13 PASS**
-- T4 — **5/13 PASS**
-- T5 — **5/13 VERIFIED**
-- ordered source comments in verified English articles — **30/30 PASS**
+- T0 — **6/13 PASS**
+- T1 — **6/13 COMPLETE**
+- T2 — **6/13 PASS**
+- T3 — **6/13 PASS**
+- T4 — **6/13 PASS**
+- T5 — **6/13 VERIFIED**
+- ordered source comments in verified English articles — **34/34 PASS**
 - untranslated Tamil body leakage — **0**
 - omitted Tamil clauses after bilingual review — **0**
 - added substantive English claims after bilingual review — **0**
@@ -171,6 +171,7 @@ Verified English blobs:
 3. `3d0e2718db290159e717db23890611f461af1149` — **Ministers Tremble in Fear**
 4. `47510c75833b1abd6990871ebc45c9e9eb8ba1db` — **Heroes of Retreat!**
 5. `637fd7fb72126b4b677846839191459616971d60` — **A Special Warning to the Public**
+6. `b2694657339a42c84d932e67ee63684a588245d2` — **Youngsters**
 
 Authorities:
 
@@ -182,4 +183,6 @@ Authorities:
 
 ## Exact next activity
 
-**Article 6 `சிறுவர்கள்` — T1 close paragraph-by-paragraph English draft.**
+**Article 7 `“அஹிம்சா விலாசம்”` — T0 source prerequisite.**
+
+Require exact live-main Tamil blob **`12c50fe83ef047ca060669831c82d3e00defc04a`** before creating Article 7 English body text.
