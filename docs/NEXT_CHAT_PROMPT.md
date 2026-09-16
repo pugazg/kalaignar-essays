@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பெருமூச்சு / P3 article assembly
+# NEXT CHAT PROMPT — பெருமூச்சு / English Article 6 T0
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -12,101 +12,124 @@ Workspace:
 
 `publications/perumoochu/`
 
-Controlling source:
+Controlling Tamil source:
 
 `TVA_BOK_0064124_பெருமூச்சு.pdf`
 
-## Durable state
+## Tamil archival state — FROZEN
 
-- P0 — **COMPLETE / PASS**
-- P1 — **COMPLETE / PASS — 83/83**
-- P2 — **COMPLETE / PASS — 83/83 VERIFIED**
-- P3 — **NOT STARTED — ACTIVE NEXT GATE**
-- P4–P5 — **NOT STARTED**
-- English — **BLOCKED until Tamil P5 / frozen**
-- missing / duplicate P2 records — **0 / 0**
+- P0–P5 — **COMPLETE / PASS**
+- physical scans — **83/83 STRICT-REVIEWED**
+- canonical page records — **83/83 VERIFIED**
+- Tamil article assemblies — **13/13 STRICT-REVIEWED / FROZEN**
+- article body records — **74/74**
+- unresolved fidelity discrepancies — **0**
+- unresolved historical-glyph ambiguities — **0**
 - needs-review / blocked / guessed — **0 / 0 / 0**
-- unresolved historical-glyph readings — **0**
 
-P2 authorities:
+Final Tamil authority:
 
-- `publications/perumoochu/P2_TRANSCRIPTION_PROGRESS.md`
-- `publications/perumoochu/indexes/page-map.md`
-- `publications/perumoochu/audit.md`
+`publications/perumoochu/VISUAL_TEXT_FIDELITY_REVIEW.md`
 
-Physical-boundary repair authority for scans 24–52:
+Permanent non-regression controls:
 
-`ebe8b2146eef22ac203f8014367cb78dea2d4b76`
+- **`மந்திரிகள் குலை நடுக்கம்`** — historical `லை` is authoritative;
+- scans 24–52 physical-boundary repair authority — `ebe8b2146eef22ac203f8014367cb78dea2d4b76`;
+- scan 75→76 continuation — **`ஆதரிக்க / வும்—பெரியாருடன்`**;
+- scan 83 heading — **`ஊடுருவி தீட்டியவை:-`**;
+- rejected `உருகி தீட்டியவை:-` is correction-history only.
 
-## Final article inventory
+## English state
 
-1. scans **7–10** — `பெருமூச்சு`
-2. scans **11–16** — `மாளிகை அமைத்திட வாரீர்!`
-3. scans **17–20** — `மந்திரிகள் குலை நடுக்கம்`
-4. scans **21–23** — `வாபஸ் வீரர்கள்!`
-5. scans **24–36** — `பொது மக்களுக்குத் தனி எச்சரிக்கை`
-6. scans **37–40** — `சிறுவர்கள்`
-7. scans **41–48** — `“அஹிம்சா விலாசம்”`
-8. scans **49–52** — `திண்டிவனம் தீரர்காள்!`
-9. scans **53–56** — `சேவல் கூவுகிறது!`
-10. scans **57–62** — `மாடோட்டிகள்!`
-11. scans **63–70** — `தேர்தல் கோவலன்!`
-12. scans **71–76** — `சிந்தித்துணர்க! சீற்றமுறாதீர்!`
-13. scans **77–80** — `பூம்! பூம்! பூம்!`
+E0 — **COMPLETE / PASS**
 
-## Permanent non-regression readings
+Articles **1–5 are T0–T5 VERIFIED**.
 
-- **`மந்திரிகள் குலை நடுக்கம்`** — historical `லை` is authoritative; never regress to `குல நடுக்கம்`.
-- **`வாபஸ் வீரர்கள்!`**
-- **`திண்டிவனம் தீரர்காள்!`**
-- **`சேவல் கூவுகிறது!`**
-- **`மாடோட்டிகள்!`**
-- **`தேர்தல் கோவலன்!`**
-- **`சிந்தித்துணர்க! சீற்றமுறாதீர்!`**
+| # | Tamil title | Verified English title | Frozen Tamil blob | Verified English blob |
+|---:|---|---|---|---|
+| 1 | `பெருமூச்சு` | **A Deep Sigh** | `e4da76f9f464f86746e94d488537ad4a7bfc20f8` | `8a441b0c4d33aacd2e61795800de2f95c4804e81` |
+| 2 | `மாளிகை அமைத்திட வாரீர்!` | **Come, Let Us Build the Mansion!** | `1d57a8a54d4b06b0c6fd19a6253661d2a620d1fa` | `ef0be10af34519b868634de64fc67bfde53bc5fb` |
+| 3 | `மந்திரிகள் குலை நடுக்கம்` | **Ministers Tremble in Fear** | `d05169cb394df089ef4f4cbdeefd35c3a563451d` | `3d0e2718db290159e717db23890611f461af1149` |
+| 4 | `வாபஸ் வீரர்கள்!` | **Heroes of Retreat!** | `6ddca33c16fa7ee4f22d3f3f666df168b39c5b40` | `47510c75833b1abd6990871ebc45c9e9eb8ba1db` |
+| 5 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | **A Special Warning to the Public** | `64a63aa5061d5f546f71526889af20baf3dd88e8` | `637fd7fb72126b4b677846839191459616971d60` |
 
-Retired earlier P1 readings are correction-history only.
+Aggregate English checkpoint:
 
-## Exact activity — P3
+- T0 — **5/13 PASS**
+- T1 — **5/13 COMPLETE**
+- T2 — **5/13 PASS**
+- T3 — **5/13 PASS**
+- T4 — **5/13 PASS**
+- T5 — **5/13 VERIFIED**
+- verified source comments — **30/30 PASS**
+- untranslated Tamil body leakage — **0**
+- omitted Tamil clauses after bilingual review — **0**
+- added substantive English claims after bilingual review — **0**
+- Tamil source changes — **0**
+- blockers — **0**
 
-Create all **13 article reading copies** under:
+English controls:
 
-`publications/perumoochu/articles/`
+- `publications/perumoochu/TRANSLATION_PLAN.md`
+- `publications/perumoochu/translations/en/README.md`
+- `publications/perumoochu/translations/en/SOURCE_MAP.md`
+- `publications/perumoochu/translations/en/LEXICON.md`
+- `publications/perumoochu/translations/en/TRANSLATION_REVIEW.md`
 
-Assembly rules:
+## Translation rules
 
-- canonical P2 page records are the **sole authority**;
-- concatenate only the body text from the verified page records for each article;
-- preserve source wording, spelling, punctuation and historical-glyph resolutions;
-- page-boundary comments may be retained;
-- do not silently normalize cross-page words;
-- do not use the generated baseline, PDF, OCR, web or alternate edition as an assembly authority;
-- omit no canonical P2 body text;
-- add no unsupported body text;
-- record provenance from every contributing page record.
+Permanent policy:
 
-Create/update:
+`ESSAY_TRANSLATION_GUIDE.md`
 
-`publications/perumoochu/P3_PROGRESS.md`
+Core rule:
 
-For every article record:
+> **Translate the language; do not neutralise the voice.**
 
-- title;
-- scan range;
-- P2 record coverage;
-- omitted text count;
-- unsupported addition count;
-- normalization/paraphrase count;
-- unresolved assembly issues;
-- PASS/FAIL.
+Use the frozen Tamil article assembly as the sole normal translation authority.
 
-After all **13/13** article assemblies pass, mark P3 **COMPLETE / PASS** and update README, audit, root HANDOVER, and this prompt.
+Do not translate from:
 
-## Next gate after P3
+- OCR;
+- web text;
+- alternate editions;
+- raw user transcript;
+- superseded P3 blobs;
+- remembered wording;
+- outside political or historical interpretation.
 
-**P4 — publication source/completeness audit.**
+Preserve:
 
-Do not begin P5 or English before P4 passes.
+- source rhetoric, accusation, satire, mockery and repetition;
+- quoted speech and quotation scope;
+- source-chosen organisation names and source-bearing terms;
+- source page-boundary comments as `<!-- Tamil source: scan ... -->`.
+
+Do not add present-day political explanation to the English body.
+
+## Exact next activity
+
+**Article 6 `சிறுவர்கள்` — T0 source prerequisite.**
+
+Frozen Tamil authority:
+
+`publications/perumoochu/articles/06-siruvargal.md`
+
+Required exact blob:
+
+**`14501305ff4935d672444459dfe404d51ac97282`**
+
+Steps:
+
+1. fetch live `main` Article 6 Tamil file;
+2. verify exact blob match;
+3. if exact — mark **T0 PASS**;
+4. only then create `translations/en/06-siruvargal.md` and begin T1;
+5. follow T1 → T2 → T3 → T4 → T5 in order;
+6. update tracker, source map if a verified English blob is created, living lexicon, review ledger, README, audit and HANDOVER.
+
+Do not reopen Articles 1–5 unless a genuine frozen-source change requires it.
 
 ## Publication 15
 
-`விடுதலைக் கிளர்ச்சி` remains **QUEUED / P0–P1 COMPLETE / P2 NOT STARTED** unless the user explicitly directs parallel processing.
+`விடுதலைக் கிளர்ச்சி` remains **QUEUED / P0–P1 COMPLETE / P2 NOT STARTED** unless explicitly redirected.
