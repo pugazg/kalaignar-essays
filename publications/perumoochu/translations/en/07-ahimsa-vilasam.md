@@ -8,7 +8,7 @@ source_tamil_blob_sha: "12c50fe83ef047ca060669831c82d3e00defc04a"
 source_scan_pages: "41-48"
 source_printed_pages: "39-46"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -32,7 +32,7 @@ What surprises us is that, in Madras, the capital of Dravida, the Congress still
 
 The residents of Madras are not such fools that they can easily forget the political life of T. T. Krishnamachari, who occupies a place in the front rank of the great capitalists of Madras.
 
-They have not forgotten that, in 1936, he contested an election on behalf of the Chamber of Commerce against the very Congress for which he now stands; that he was elected to the Constituent Assembly through the back door; that he became a member of the constitutional-status committee; and that he played a part in the virtuous task of drafting the slave charter that stripped the Dravidian people of their vital rights.
+They have not forgotten that, in 1936, he contested an election on behalf of the Chamber of Commerce against the very Congress for which he now stands; that he was elected to the Constituent Assembly through the back door; that he became a member of the committee for framing the constitutional plan; and that he played a part in the virtuous task of drafting the slave charter that stripped the Dravidian people of their vital rights.
 
 No grateful Dravidian will forget the great benefit that the Communal G.O., the communal representation order, had been rendering to Dravidian students and in government employment. The High Court judgment declaring such a communal order contrary to the Constitution; the storm of opposition that rose in Tamil Nadu against the Constitution under the leadership of the DMK; the battle-ranks of Dravidian students; and, as a result, the amendment of the Constitution—these are events of the recent past.
 
@@ -50,7 +50,7 @@ At a time when Dravidians have not forgotten the greatness of their culture, in 
 
 <!-- Tamil source: scan 46 / printed 44 -->
 
-We ask you to think how devoid of spirit and how bereft of self-respect he must have imagined the Dravidian people of Madras to be, for him to have acquired such courage. It is a matter of pride that the Dravidian people of Madras have been given the opportunity to teach him “a good lesson.”
+We ask you to think how spiritless and shameless he must have imagined the Dravidian people of Madras to be, for him to have acquired such courage. It is a matter of pride that the Dravidian people of Madras have been given the opportunity to teach him “a good lesson.”
 
 The man contesting against him is comrade P. Balasubramaniam, editor of the *Sunday Observer*, supported by the Dravida Munnetra Kazhagam. He is not merely a man who has signed the DMK pledge document; when the question of Dravida Nadu was still an embryo, before it had acquired shape and beauty, he was a commander who protected and nurtured it. At a time when the Dravida Nadu question was still a riddle, his *Sunday Observer*, labouring without weariness, carried the song of our ideal to London, Paris, Washington, Moscow and Peking. The country knows the immeasurable service he rendered in the last anti-Hindi struggle.
 
