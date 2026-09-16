@@ -33,7 +33,7 @@ Samiyappa took pains in Thanjavur district to work for the destruction of the Co
 
 A feast in the capitalist's house on one side; a sermon on wiping away the worker's suffering on the other! What a contradiction to the courage—and the policy—of the Communists! Was it for such a grotesque United Front that we invited them?
 
-If we had been working together, would we oppose K. T. Rasu in Erode? Would we try to defeat Mohan Kumar Mangalam in Salem?
+If we had been working together, would we oppose K. D. Rasu in Erode? Would we try to defeat Mohan Kumar Mangalam in Salem?
 
 At a meeting in Kanchipuram, comrade Jeevanandam said: "Periyar asked us to give way to Samiyappa—
 
