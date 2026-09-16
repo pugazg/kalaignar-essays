@@ -26,6 +26,7 @@ transcription_method: "source-verified P2 transcription; user-supplied perumooch
 - continuation of **திண்டிவனம் தீரர்காள்!**.
 - this record is bounded to the exact physical scan after direct source-pixel boundary repair.
 - running header and printed folio furniture are not duplicated into the canonical body text.
+- printed signature / gathering mark **[4]** is visible at the lower left.
 
 ## அச்சு அல்லாத / physical-copy marks
 
