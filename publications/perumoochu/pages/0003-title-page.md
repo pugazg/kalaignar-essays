@@ -16,7 +16,7 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 
 # பெருமூச்சு!
 
-விற்பனை உரிமை:
+விற்பனை உரிமை:-
 
 கலைமன்றம்  
 சென்னை - 1
