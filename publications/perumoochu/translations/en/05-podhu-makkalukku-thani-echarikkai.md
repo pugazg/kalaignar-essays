@@ -91,3 +91,28 @@ When it is said that there is no wrong in supporting Mr. R. S. Sharma, who has b
 Comrades who say that our course is one that seeks a path to Congress victory must think carefully.
 
 For many years we have proclaimed the ideal of "Dravida Nadu"!
+
+
+<!-- Tamil source: scan 31 / printed 29 -->
+
+From Salem onward we have also proclaimed that we ourselves would not stand in the election! By right—by the strength we possess—we ought to have contested the election ourselves. Since that situation did not arise, we decided to support those who oppose the Congress.
+
+We wanted the person so supported to be one who would argue for our fundamental question in the Assembly. We ourselves are not in the Assembly! There is nothing wrong—and nothing meaningless—in wanting at least our voice to be heard there!
+
+Nambiyar, who returned from prison, does not appear to have asked in the Assembly about the Kunrathur atrocity! He does not appear to have raised his voice about the repression at Naranamangalam! We have not heard that he asked about Anna and Periyar being imprisoned. When sending such people to the Assembly, what is wrong in consulting them, obtaining an assurance, securing a signature—
+
+<!-- Tamil source: scan 32 / printed 30 -->
+
+—and then giving support in a way that strengthens friendship and reinforces unity?
+
+Is the DMK some dictatorial organisation? Are we to say: Annadurai has spoken; therefore it is divine revelation? The DMK has a General Council. In that General Council are men of ability and political experience. Those who build the party's discipline are not ten-year-old children, greenhorns who know nothing of maturity!
+
+It is not a dictatorship devoid of progress that moves the DMK—issuing some order, then months later creating a committee merely for form's sake and stamping approval on that order! The DMK is a garden of democracy! The new flowers of principle in that garden are the young people who work in it! They are not mere lovers of elections!
+
+<!-- Tamil source: scan 33 / printed 31 -->
+
+They regard the election as an interim question!
+
+To those who wail, "Alas! The sinners have ruined our fundamental doctrine of money-rule!" the DMK's election policy may look like sheer villainy. We do not care even if it is branded "sheer villainy"; the DMK has declared firmly that it will not depart from the honourable plan it has guarded!
+
+About one hundred and fifty people signed the agreement document in accordance with that stand. Of them, the district committees selected about seventy after examining fitness and ability! Those seventy are people who will cooperate with us in the work of recovering our lost country! We have not simply trusted those seventy and handed the question of Dravida Nadu over to them—
