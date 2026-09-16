@@ -299,6 +299,18 @@ Title — **A Special Warning to the Public** — VERIFIED.
 - unresolved translation choices — **0**
 - blockers — **0**
 
+# Article 6 — `சிறுவர்கள்` — T0 PASS
+
+- frozen Tamil blob required — `14501305ff4935d672444459dfe404d51ac97282`
+- live `main` Tamil blob observed — `14501305ff4935d672444459dfe404d51ac97282`
+- exact blob match — **PASS**
+- source scans — **37–40**
+- English body file created during T0 — **No**
+- Tamil source changes — **0**
+- blockers — **0**
+
+Next gate for Article 6 — **T1 close paragraph-by-paragraph English draft**.
+
 # Articles 1–5 aggregate checkpoint
 
 - T0 — **5/5 PASS**
@@ -316,10 +328,11 @@ Title — **A Special Warning to the Public** — VERIFIED.
 
 ## Articles 6–13
 
-All remain **NOT STARTED** at T0–T5. Their frozen Tamil pins remain those recorded in `SOURCE_MAP.md`.
+- Article 6 — **T0 PASS / T1 NEXT**
+- Articles 7–13 — **NOT STARTED** at T0–T5
+
+Frozen Tamil pins remain those recorded in `SOURCE_MAP.md`.
 
 ## Exact next activity
 
-**Article 6 `சிறுவர்கள்` — T0 source prerequisite.**
-
-Require exact live-main Tamil blob **`14501305ff4935d672444459dfe404d51ac97282`** before creating the Article 6 English body file.
+**Article 6 `சிறுவர்கள்` — T1 close paragraph-by-paragraph English draft.**
