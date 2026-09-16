@@ -2456,7 +2456,8 @@ Workspace: `publications/perumoochu/`
 - P1 — **COMPLETE / PASS — 83/83**
 - P2 — **COMPLETE / PASS — 83/83 VERIFIED**
 - P3 — **COMPLETE / PASS — 13/13 / 74/74 body records**
-- P4–P5 — **NOT STARTED**
+- P4 — **COMPLETE / PASS**
+- P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil P5 / frozen**
 - historical Tamil glyph workflow — **MANDATORY**
 
@@ -2515,18 +2516,36 @@ Important durable corrections:
 - exact reconstruction comparison — **13/13 PASS**
 - P3 authority — `publications/perumoochu/P3_PROGRESS.md`
 
+## P4 closure
+
+**COMPLETE / PASS**
+
+- source/page-record coverage — **83/83**
+- article-body coverage — **74/74**
+- article assemblies — **13/13**
+- missing / duplicate page records — **0 / 0**
+- article-range / provenance defects — **0**
+- non-body leakage / physical-copy contamination — **0 / 0**
+- canonical text corrections during P4 — **0**
+- control-document propagation repairs — **3**
+- unresolved blockers — **0**
+- P4 authority — `publications/perumoochu/P4_SOURCE_AUDIT.md`
+
+P4 repaired the stale unquoted Article-7 title in P1/page-map and restored the missing P2 Batch-002 closure summary for scans 24–52. No canonical page or article body text was changed.
+
 Authority:
 
 - `publications/perumoochu/P2_TRANSCRIPTION_PROGRESS.md`
 - `publications/perumoochu/P3_PROGRESS.md`
+- `publications/perumoochu/P4_SOURCE_AUDIT.md`
 - `publications/perumoochu/indexes/page-map.md`
 - `publications/perumoochu/audit.md`
 
 ## Exact next activity
 
-**Publication 14 `பெருமூச்சு` — P4 publication source/completeness audit.**
+**Publication 14 `பெருமூச்சு` — P5 final strict visual text-fidelity pass over all 83 physical scans.**
 
-Do not begin P5 or English before P4 passes. Publication 15 remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** unless explicitly redirected.
+Do not begin English until P5 closes and the Tamil archival layer is frozen. Publication 15 remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** unless explicitly redirected.
 
 
 # Publication 15 — விடுதலைக் கிளர்ச்சி
