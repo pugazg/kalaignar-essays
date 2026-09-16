@@ -98,11 +98,11 @@ Scans **24–52** were additionally repaired after a closure check found heurist
 
 - P3 — **COMPLETE / PASS — 13/13**
 - P4 — **COMPLETE / PASS**
-- P5 — **IN PROGRESS — 78/83 directly rechecked**
+- P5 — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
 - P5 authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
 
 P5 front-matter reinspection additionally fixed the source-visible imprint punctuation to **`வெளியீடு:-`** and the preface date to **`14—1—1952`**.
 
 ## Current next gate
 
-**Continue P5 with scans 79–83, then perform final closure checks.**
+**E0 — English translation planning/setup only.**
