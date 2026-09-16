@@ -14,7 +14,7 @@ transcription_method: "source-verified P2 transcription; user-supplied perumooch
 
 # அச்சு உரை
 
-திராவிட முன்னேற்றக் கழகம் கம்யூனிஸ்டுகளை ஆதரிக்க முடியாது என்று கூறவில்லை. ஆதரிக்க இயலாத சூழ்நிலையை கம்யூனிஸ்டுகளே உற்பத்தி செய்து கொண்டார்கள்! நம் பிரச்சினைக்கு ஒத்து வராதது மட்டுமல்ல - நம் பிரச்சினையே தவறு என்று கூறிவிட்டார்கள்!
+திராவிட முன்னேற்றக் கழகம் கம்யூனிஸ்டுகளை ஆதரிக்க முடியாது என்று கூறவில்லை. ஆதரிக்க இயலாத சூழ்நிலையை கம்யூனிஸ்டுகளே உற்பத்தி செய்து கொண்டார்கள்! நம் பிரச்சினைக்கு ஒத்து வராதது மட்டுமல்ல—நம் பிரச்சினையே தவறு என்று கூறிவிட்டார்கள்!
 
 மேடைகளிலே 'திராவிட நாடு நியாயமானது' என்று கூறியவர்கள் ஒப்பந்த ஏட்டிலே கை எழுத்திட ஏன் மறுத்தார்கள் என்பதுதான் சிந்திக்க வேண்டிய பிரச்னை!
 
@@ -48,6 +48,12 @@ transcription_method: "source-verified P2 transcription; user-supplied perumooch
 - previous heuristic physical-page segmentation was replaced by source-visible scan boundaries.
 - cross-scan word fragments are preserved on the physical scan where printed.
 - guessed completion — **0**.
+
+## P5 strict visual fidelity findings
+
+- direct source-pixel reinspection completed in P5.
+- body-text corrections from this scan were propagated to the dependent article assembly.
+- unresolved P5 fidelity discrepancy — **0**.
 
 ## P2 நிலை
 
