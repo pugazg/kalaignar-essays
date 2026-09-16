@@ -8,7 +8,7 @@ source_tamil_blob_sha: "9d1a0e39e45cc1cb94419c5b966f8da415233e37"
 source_scan_pages: "53-56"
 source_printed_pages: "51-54"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -22,7 +22,7 @@ Of those seventy, twenty-three candidates in South Arcot district have received 
 
 There are twenty-three seats in South Arcot district. In all twenty-three places, candidates supported by our Kazhagam are contesting.
 
-Heroes who raise the voice of Dravida Nadu! Mongooses confronting the good snakes that oppose separation!
+Heroes who raise the voice of Dravida Nadu! Mongooses confronting the cobras that oppose separation!
 
 Lamps of reason that expose to the country the selfish demons hiding in dark caves and roaring that separation must not take place!
 
