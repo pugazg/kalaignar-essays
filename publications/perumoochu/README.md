@@ -14,7 +14,7 @@ Controlling source: `TVA_BOK_0064124_பெருமூச்சு.pdf`
 - P3 article assemblies — **COMPLETE / PASS — 13/13**
 - P4 source audit — **COMPLETE / PASS**
 - P5 strict visual-text-fidelity pass — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
-- English — **UNBLOCKED — E0 planning/setup NEXT**
+- English — **E0 COMPLETE / PASS; Articles 1–5 T0–T5 VERIFIED; Article 6 T0 NEXT**
 - source PDF committed — **No**
 
 ## Printed / catalog identity
@@ -142,8 +142,38 @@ Scans **24–52** were rebuilt after closure review found heuristic baseline seg
 - final authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
 - Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**
 
+## English progress
+
+- E0 — **COMPLETE / PASS**
+- T0 — **5/13 PASS**
+- T1 — **5/13 COMPLETE**
+- T2 — **5/13 PASS**
+- T3 — **5/13 PASS**
+- T4 — **5/13 PASS**
+- T5 — **5/13 VERIFIED**
+- verified English article files — **5/13**
+- verified ordered Tamil-source comments — **30/30 PASS**
+- omitted Tamil clauses after review — **0**
+- added substantive English claims after review — **0**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes during English work — **0**
+- blockers — **0**
+- English tracker — `translations/en/README.md`
+- review ledger — `translations/en/TRANSLATION_REVIEW.md`
+- verified English authority map — `translations/en/SOURCE_MAP.md`
+
+Verified English Articles 1–5:
+
+1. **A Deep Sigh** — `8a441b0c4d33aacd2e61795800de2f95c4804e81`
+2. **Come, Let Us Build the Mansion!** — `ef0be10af34519b868634de64fc67bfde53bc5fb`
+3. **Ministers Tremble in Fear** — `3d0e2718db290159e717db23890611f461af1149`
+4. **Heroes of Retreat!** — `47510c75833b1abd6990871ebc45c9e9eb8ba1db`
+5. **A Special Warning to the Public** — `637fd7fb72126b4b677846839191459616971d60`
+
 ## Exact next activity
 
-**E0 — English translation planning/setup only**, using the 13 frozen strict-reviewed Tamil article assemblies as normal translation authority.
+**Article 6 `சிறுவர்கள்` — T0 source prerequisite.**
+
+Require live `main` Tamil blob **`14501305ff4935d672444459dfe404d51ac97282`** before creating the English body file.
 
 Publication 15 `விடுதலைக் கிளர்ச்சி` remains queued at **P0–P1 COMPLETE / P2 NOT STARTED**.
