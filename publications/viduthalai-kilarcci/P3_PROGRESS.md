@@ -71,6 +71,13 @@ Non-word page continuations such as `பிரஞ்சுக் / காலன�
 - P4 authority — `P4_SOURCE_AUDIT.md`
 - P3 assembly blobs above remain the P3 closure authorities until P5 revalidation.
 
+## P5 Batch 002 propagation
+
+- scan 13 **`வீட்டற்றவராய்`** propagated into the main reading assembly.
+- current partial-P5 main assembly blob — **`d0a1afb39319f86fc7d55b268f394231da8684da`**
+- contributing main scans strict-reviewed so far — **8–20 / 13 scans**
+- unresolved assembly discrepancies — **0**
+
 ## Exact next activity
 
-**P5 strict visual review — scans 11–20.**
+**P5 strict visual review — scans 21–30.**

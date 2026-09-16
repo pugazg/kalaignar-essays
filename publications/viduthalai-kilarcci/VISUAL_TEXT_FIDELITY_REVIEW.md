@@ -10,12 +10,13 @@ P5 is the independent final strict visual word-by-word / punctuation-by-punctuat
 
 ## Current state
 
-**IN PROGRESS — 10/69 physical scans STRICT-REVIEWED**
+**IN PROGRESS — 20/69 physical scans STRICT-REVIEWED**
 
 - Batch 001 — scans **1–10** — **COMPLETE / PASS**
+- Batch 002 — scans **11–20** — **COMPLETE / PASS**
 - unresolved P5 readings — **0**
 - guessed readings — **0**
-- next range — **11–20**
+- next range — **21–30**
 
 ## Batch 001 — scans 1–10
 
@@ -23,7 +24,7 @@ P5 is the independent final strict visual word-by-word / punctuation-by-punctuat
 |---:|---|---|
 | 1 | PASS after correction | restore omitted first printed `★` |
 | 2 | PASS | none |
-| 3 | PASS | none |
+| 3 | PASS after follow-up correction | `கலிமகள்` → **`கலைமகள்`** |
 | 4 | PASS | none |
 | 5 | PASS after correction | 3 source-fidelity corrections |
 | 6 | PASS | none |
@@ -42,13 +43,31 @@ P5 is the independent final strict visual word-by-word / punctuation-by-punctuat
 | 5 | `அழுத்தப்பட்ட-பிறகு` | **`அழுத்தப்பட்ட - பிறகு`** |
 | 9 | `இப்படி அங்கிங்கெனாதபடி` | **`இப்படி-அங்கிங்கெனாதபடி`** |
 
+## Batch 002 — scans 11–20
+
+| Scan | Result | Canonical correction |
+|---:|---|---|
+| 11 | PASS | none |
+| 12 | PASS | none |
+| 13 | PASS after correction | `வீடற்றவராய்` → **`வீட்டற்றவராய்`** |
+| 14 | PASS | none; **`இந்தோ சீனாவில்!`** revalidated |
+| 15 | PASS | none |
+| 16 | PASS | none |
+| 17 | PASS | none |
+| 18 | PASS | none |
+| 19 | PASS | none |
+| 20 | PASS | none |
+
+Batch-002 canonical corrections — **1**.  
+Batch-001 follow-up correction — scan 3 printer **`கலைமகள் பிரஸ்`**.
+
 ## Historical Tamil glyph audit
 
 Mandatory historical families were explicitly rechecked where present:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Batch-001 result:
+Batch-001/002 cumulative result:
 
 - unresolved historical-glyph ambiguity — **0**
 - global modernization / normalization — **0**
@@ -56,15 +75,19 @@ Batch-001 result:
 
 ## Propagation state
 
-Corrected canonical page blobs:
+Corrected canonical page blobs include:
+- scan 3 — `7188216c7f9f3597dbbedc7d5d6297d5bd913918`
+- scan 13 — `145c28daaef6e4e3966bdbe4a284c3b0283e5d93`
+
+Earlier Batch-001 corrected canonical page blobs:
 - scan 1 — `1505ab4f95d3715304bd9af37b2d4a68ce44b337`
 - scan 5 — `0ddbde56884c89a499dae15305fd2f7c839a384d`
 - scan 9 — `5ffa57c44a854b333ed737257fe533662d2f4560`
 
 Assembly propagation:
 - `articles/00-vengaiyai-virattum-padalam.md` — scans 4–7 fully rechecked; **STRICT-REVIEWED** — blob `c5be16582c2c3bb238cc1bf1ae47f8301173352f`
-- `articles/01-viduthalai-kilarcci.md` — scan-9 correction propagated; P5 is still partial — blob `018eee7d2044d4151f6064346bc2e7d07a80e7f4`
+- `articles/01-viduthalai-kilarcci.md` — scans 8–20 strict-reviewed with scan-9/13 corrections propagated; P5 is still partial — blob `d0a1afb39319f86fc7d55b268f394231da8684da`
 
 ## Exact next activity
 
-**P5 scans 11–20.**
+**P5 scans 21–30.**

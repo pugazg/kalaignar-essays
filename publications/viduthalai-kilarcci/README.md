@@ -13,7 +13,7 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - P2 page-level transcription — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 article assembly — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 source audit — **COMPLETE / PASS**
-- P5 strict visual-text-fidelity pass — **IN PROGRESS — 10/69 STRICT-REVIEWED**
+- P5 strict visual-text-fidelity pass — **IN PROGRESS — 20/69 STRICT-REVIEWED**
 - English — **BLOCKED until Tamil archival layer freezes**
 - source PDF committed — **No**
 
@@ -76,7 +76,7 @@ Authority: `P2_PROGRESS.md`.
 - guessed readings — **0**
 - structural/source corrections propagated — **2 major controls**
   - introductory unit title: `வேங்கையை விரட்டும் பாடல்` → **`வேங்கையை விரட்டும் படலம்`**
-  - scan 3 printer line: `கலிமகள் பிரஸ், பெரியகடைத் தெரு, திருச்சி.` → **`கலிமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
+  - scan 3 printer line: `கலைமகள் பிரஸ், பெரியகடைத் தெரு, திருச்சி.` → **`கலைமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
 
 ## P3 article assembly
 
@@ -120,8 +120,21 @@ Authority: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
 - main prose P5 coverage — **3/61 scans** (8–10)
 - English remains **BLOCKED** until P5 closes.
 
+## P5 Batch 002 — scans 11–20
+
+**COMPLETE / PASS — 10/10 STRICT-REVIEWED**
+
+- scan 13 — **`வீடற்றவராய்`** → source **`வீட்டற்றவராய்`**
+- scans 11–12, 14–20 — no canonical text changes
+- scan 14 user-confirmed/source-visible **`இந்தோ சீனாவில்!`** revalidated
+- cumulative P5 progress — **20/69**
+- unresolved P5 readings — **0**
+
+Batch-001 follow-up correction:
+- scan 3 printer line — enlarged pixels confirm **`கலைமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**; prior `கலிமகள்` reading superseded.
+
 ## Exact next activity
 
-**P5 strict visual review — scans 11–20.**
+**P5 strict visual review — scans 21–30.**
 
 Use the baseline only as a comparison aid. Verify every word, punctuation mark, page boundary and historical glyph against source pixels.

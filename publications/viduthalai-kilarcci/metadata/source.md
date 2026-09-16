@@ -23,7 +23,7 @@ Direct scan inspection establishes:
 - edition — **`இரண்டாம் பதிப்பு—1953`**
 - rights line — **`உரிமையுடையது.`**
 - price — **`விலை ரூ. 1—0—0`**
-- printer line — **`கலிமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
+- printer line — **`கலைமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
 
 The user supplied the catalog title `விடுதலைக் கிளர்ச்சி`, author `கலைஞர் மு. கருணாநிதி`, publisher `திராவிடப் பண்ணை`, and edition `இரண்டாம் பதிப்பு, 1953`. Source-visible spacing and punctuation above remain controlling for transcription.
 

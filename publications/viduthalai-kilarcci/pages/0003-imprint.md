@@ -20,7 +20,7 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 
 **விலை ரூ. 1—0—0**
 
-கலிமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.
+கலைமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.
 
 ## அச்சு அமைப்பு
 
@@ -43,8 +43,14 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 
 - baseline `இரண்டாம் பதிப்பு - 1953` → source punctuation **`இரண்டாம் பதிப்பு—1953`**.
 - baseline `5. 1-0-0` → source **`விலை ரூ. 1—0—0`**.
-- baseline `கலைமகள் பிரஸ்` → source **`கலிமகள் பிரஸ்`**.
+- P5 enlarged-pixel recheck confirms source **`கலைமகள் பிரஸ்`**; the prior canonical `கலிமகள்` reading is superseded.
 - source printer location is **`பெரியகடைவீதி`**; no silent expansion to `பெரியகடைத் தெரு`.
+
+## P5 strict visual fidelity findings
+
+- printer name rechecked at enlarged source scale: **`கலைமகள் பிரஸ்`**.
+- prior P2/P5-Batch-001 control reading **`கலிமகள்`** is source-wrong and superseded.
+- unresolved P5 readings — **0**.
 
 ## P2 நிலை
 

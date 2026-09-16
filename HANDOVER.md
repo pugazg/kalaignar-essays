@@ -18,7 +18,7 @@ Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPL
 
 Publication 14 **`பெருமூச்சு` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 13/13 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0–P4 PASS; P5 IN PROGRESS — 10/69 STRICT-REVIEWED**.
+Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0–P4 PASS; P5 IN PROGRESS — 20/69 STRICT-REVIEWED**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2559,7 +2559,7 @@ Workspace: `publications/viduthalai-kilarcci/`
 - P2 — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 — **COMPLETE / PASS**
-- P5 — **IN PROGRESS — 10/69 STRICT-REVIEWED**
+- P5 — **IN PROGRESS — 20/69 STRICT-REVIEWED**
 - English — **BLOCKED until Tamil P5 / frozen**
 - historical Tamil glyph workflow — **MANDATORY**
 
@@ -2588,7 +2588,7 @@ P2 Batch 001 corrected the earlier provisional P1 title **`வேங்கைய
 
 Durable Batch-001 source corrections include:
 
-- scan 3 printer line — **`கலிமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
+- scan 3 printer line — **`கலைமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
 - scan 4 title — **`வேங்கையை விரட்டும் படலம்`**
 - scan 4 historical identities — **`கொள்கிறான் / வீரனாகிறான்`**
 - scan 5 — P5 source reading **`கதறிக் கதறி தொண்டையும்`**, **`கிழித்து எறிந்திருக்கின்றன`**, **`அழுத்தப்பட்ட - பிறகு`**; also **`நம்புகிறான்`**, **`நாள் குறித்திடும்`**, **`பசுவிடம்`**, **`விஷமும்`**, **`என்றால்`**
@@ -2703,8 +2703,21 @@ Propagation:
 - main assembly scan-9 correction propagated; current partial-P5 blob **`018eee7d2044d4151f6064346bc2e7d07a80e7f4`**
 - P5 unresolved — **0**
 
+## P5 Batch 002 — scans 11–20
+
+**COMPLETE / PASS — 10/10 STRICT-REVIEWED**
+
+- scan 13 — **`வீடற்றவராய்`** → source **`வீட்டற்றவராய்`**
+- scans 11–12 and 14–20 — **PASS / no canonical text change**
+- scan 14 **`இந்தோ சீனாவில்!`** revalidated against source pixels
+- scan 3 follow-up from Batch 001 — printer line source-confirmed **`கலைமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
+- cumulative P5 — **20/69**
+- unresolved — **0**
+
+Current main assembly after scan-13 propagation — blob **`d0a1afb39319f86fc7d55b268f394231da8684da`**.
+
 ## Exact next activity
 
-**P5 strict visual review — scans 11–20.**
+**P5 strict visual review — scans 21–30.**
 
 Use `viduthalai_kilarchi.md` only as a baseline comparison aid. Source scan pixels remain controlling. Apply the historical-glyph guide word-by-word and preserve page-boundary fragments exactly.

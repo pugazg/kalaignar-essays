@@ -33,8 +33,8 @@ Historical glyph guide: `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
    - earlier P1/control reading — `வேங்கையை விரட்டும் பாடல்`
    - source-visible reading — **`வேங்கையை விரட்டும் படலம்`**
 2. scan 3 printer line:
-   - earlier metadata — `கலிமகள் பிரஸ், பெரியகடைத் தெரு, திருச்சி.`
-   - source-visible reading — **`கலிமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
+   - earlier metadata — `கலைமகள் பிரஸ், பெரியகடைத் தெரு, திருச்சி.`
+   - source-visible reading — **`கலைமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
 
 ### Baseline-to-source examples
 

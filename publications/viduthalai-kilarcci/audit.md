@@ -50,7 +50,7 @@ The source consists of preliminary verse/prologue material followed by one conti
 - baseline authority — **No**; user-supplied `viduthalai_kilarchi.md` used only as comparison aid
 - historical-glyph workflow — **applied**
 - title correction — `வேங்கையை விரட்டும் பாடல்` → **`வேங்கையை விரட்டும் படலம்`**
-- scan 3 printer line corrected from source pixels to **`கலிமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
+- scan 3 printer line corrected from source pixels to **`கலைமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
 - source-visible cross-page fragments preserved at scans 5→6, 6→7, 8→9 and 10→11
 - P2 progress authority — `P2_PROGRESS.md`
 
@@ -193,6 +193,20 @@ The source consists of preliminary verse/prologue material followed by one conti
 - scans 2–4, 6–8, 10 — **PASS / no canonical text correction**
 - introductory assembly scans 4–7 — **STRICT-REVIEWED**
 - main prose correction from scan 9 propagated; main assembly remains open until scans 11–68 complete
+- authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
+
+## P5 Batch 002 — scans 11–20
+
+**COMPLETE / PASS — 10/10 STRICT-REVIEWED**
+
+- source scans reopened independently — **10/10**
+- canonical text corrections — **1**
+- scan 13 — **`வீடற்றவராய்`** → **`வீட்டற்றவராய்`**
+- scan 14 — user-confirmed **`இந்தோ சீனாவில்!`** revalidated
+- scans 11–12, 14–20 — no other canonical text changes
+- Batch-001 follow-up: scan 3 source printer name corrected to **`கலைமகள்`**
+- cumulative P5 progress — **20/69**
+- unresolved readings — **0**
 - authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
 
 ## Next
