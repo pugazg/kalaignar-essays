@@ -8,20 +8,17 @@ Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)
 
 Date: **2026-09-16**
 
-- Tamil archival layer — P0–P5 **COMPLETE / STRICT-REVIEWED / FROZEN**;
-- translation identity — **project-created English translation**;
-- permanent repository translation policy reviewed;
-- all 13 frozen Tamil assembly blobs pinned;
-- canonical translation order — **1 → 13**;
-- scans **1–6** excluded from English article bodies;
-- scans **81–83** excluded from English article bodies;
-- tracker / source map / living lexicon / review ledger initialized;
-- English article body files created during E0 — **0/13**;
-- English body text created during E0 — **0**;
-- Tamil source changes during E0 — **0**;
-- blockers — **0**.
+- Tamil archival layer — P0–P5 **COMPLETE / STRICT-REVIEWED / FROZEN**
+- translation identity — **project-created English translation**
+- permanent repository translation policy reviewed
+- all 13 frozen Tamil assembly blobs pinned
+- canonical translation order — **1 → 13**
+- scans **1–6** excluded from English article bodies
+- scans **81–83** excluded from English article bodies
+- English body text created during E0 — **0**
+- blockers — **0**
 
-### Frozen source ledger
+## Frozen source ledger
 
 | # | Tamil title | Frozen Tamil blob | E0 source pin |
 |---:|---|---|---|
@@ -41,43 +38,288 @@ Date: **2026-09-16**
 
 ## Durable Tamil provenance relevant to translation
 
-- P5 direct strict review — **83/83 PASS**;
-- article assemblies — **13/13 strict-reviewed / frozen**;
-- unresolved Tamil fidelity discrepancies — **0**;
-- historical `லை` in `மந்திரிகள் குலை நடுக்கம்` — authoritative;
-- scan 75→76 — **`ஆதரிக்க / வும்—பெரியாருடன்`**;
-- scan 83 — **`ஊடுருவி தீட்டியவை:-`** user-confirmed; rejected `உருகி தீட்டியவை:-` is not authority;
-- Tamil changes during E0 — **0**.
+- P5 direct strict review — **83/83 PASS**
+- article assemblies — **13/13 strict-reviewed / frozen**
+- unresolved Tamil fidelity discrepancies — **0**
+- historical `லை` in `மந்திரிகள் குலை நடுக்கம்` — authoritative
+- scan 75→76 — **`ஆதரிக்க / வும்—பெரியாருடன்`**
+- scan 83 — **`ஊடுருவி தீட்டியவை:-`** user-confirmed; rejected `உருகி தீட்டியவை:-` is not authority
+- Tamil changes during Articles 1–5 English work — **0**
 
-## Article review ledger
+# Article review ledger
 
-| # | Tamil title | T0 | T1 | T2 | T3 | T4 | T5 | Unresolved choices |
-|---:|---|---|---|---|---|---|---|---|
-| 1 | `பெருமூச்சு` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | 0 blockers |
-| 2 | `மாளிகை அமைத்திட வாரீர்!` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | 0 blockers |
-| 3 | `மந்திரிகள் குலை நடுக்கம்` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | 0 blockers |
-| 4 | `வாபஸ் வீரர்கள்!` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | 0 blockers |
-| 5 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | 0 blockers |
-| 6 | `சிறுவர்கள்` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | 0 blockers |
-| 7 | `“அஹிம்சா விலாசம்”` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | 0 blockers |
-| 8 | `திண்டிவனம் தீரர்காள்!` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | 0 blockers |
-| 9 | `சேவல் கூவுகிறது!` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | 0 blockers |
-| 10 | `மாடோட்டிகள்!` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | 0 blockers |
-| 11 | `தேர்தல் கோவலன்!` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | 0 blockers |
-| 12 | `சிந்தித்துணர்க! சீற்றமுறாதீர்!` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | 0 blockers |
-| 13 | `பூம்! பூம்! பூம்!` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | 0 blockers |
+## Article 1 — `பெருமூச்சு` — T0–T5 VERIFIED
 
-## E0 result
+- frozen Tamil blob — `e4da76f9f464f86746e94d488537ad4a7bfc20f8`
+- source scans — **7–10**
+- T0 — **PASS**
+- T1 — **COMPLETE**
+- T1 English blob — `bc54acd5318e48b028e9609c78aba17508ee6b56`
+- working / verified title — **A Deep Sigh**
+- ordered source comments — **4/4 PASS**
 
-**COMPLETE / PASS**
+### T2 bilingual fidelity review — PASS
 
-- frozen source pins — **13/13 PASS**;
-- English body prose — **0**;
-- Tamil changes — **0**;
-- blockers — **0**.
+T2 English blob — `cdf1ba35299708fc247b0a27edc36bfff1d1eb10`
+
+Body correction groups — **1**:
+
+1. `இன உணர்ச்சி` — generic **collective feeling** → **ethnic consciousness**, restoring the source's explicit identity term.
+
+Post-T2:
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- names / numbers / quotation scope — **PASS**
+- Tamil source changes — **0**
+
+### T3 Kalaignar voice review — PASS
+
+- body corrections — **0**
+- T2 body retained unchanged
+- direct address / repetition / exclamations / conference cadence — **PASS**
+- accidental academic distancing — **0**
+
+### T4 terminology / quotation / citation audit — PASS
+
+T4 body authority — `8ef488cd5337461ae873737af274ddc908a8b474`
+
+Body correction groups — **1**:
+
+1. `சேர, சோழ, பாண்டிய வீரர்கள்` — removed the English-only noun **realms**; final wording **the Chera, Chola and Pandya warriors**.
+
+Title — **A Deep Sigh** — VERIFIED.
+
+### T5 article verification — PASS / VERIFIED
+
+- verified English blob — **`8a441b0c4d33aacd2e61795800de2f95c4804e81`**
+- `translation_status: verified`
+- source comments — **4/4**
+- untranslated Tamil body leakage — **0**
+- unresolved translation choices — **0**
+- blockers — **0**
+
+## Article 2 — `மாளிகை அமைத்திட வாரீர்!` — T0–T5 VERIFIED
+
+- frozen Tamil blob — `1d57a8a54d4b06b0c6fd19a6253661d2a620d1fa`
+- source scans — **11–16**
+- T0 — **PASS**
+- T1 — **COMPLETE**
+- T1 English blob — `5dd802e9c28f4bba8bb9ac92218cf85f1b799355`
+- working / verified title — **Come, Let Us Build the Mansion!**
+- ordered source comments — **6/6 PASS**
+
+### T2 bilingual fidelity review — PASS
+
+T2 English blob — `284482bec967283bca89079feefe4af0eb61a177`
+
+Body correction groups — **3**:
+
+1. removed unsupported **final** from “the fourth day of the conference”;
+2. `வீணர்கள்` — softened **idlers** → **worthless fellows**, retaining the source insult;
+3. scan 14 quotation scope — removed the English-only inclusion of `மலை வந்தெதிர்த்த போதும் நிலை குலையோம்` inside the quoted line and restored the source's narrower quotation around `மாங்குயில்...`.
+
+Post-T2:
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- quotation scope — **PASS**
+- Tamil source changes — **0**
+
+### T3 Kalaignar voice review — PASS
+
+- body corrections — **0**
+- T2 body retained unchanged
+- manifesto cadence / repeated imperatives / mansion metaphor — **PASS**
+- softening of polemical language — **0**
+
+### T4 terminology / quotation / citation audit — PASS
+
+T4 body authority — `06b275ba1fcb3e558472776d5a1428f6ed03c095`
+
+Body correction groups — **3**:
+
+1. `திராவிடநாடு திராவிடருக்கே!` → **Dravida Nadu for the Dravidians alone!**, preserving source exclusivity `-க்கே`;
+2. `தாரக மந்திரம்` → source-bearing ***taraka mantra***;
+3. `தெம்மாங்கு` → source-bearing ***themmangu*** rather than generic “folk-song.”
+
+Title — **Come, Let Us Build the Mansion!** — VERIFIED.
+
+### T5 article verification — PASS / VERIFIED
+
+- verified English blob — **`ef0be10af34519b868634de64fc67bfde53bc5fb`**
+- `translation_status: verified`
+- source comments — **6/6**
+- untranslated Tamil body leakage — **0**
+- unresolved translation choices — **0**
+- blockers — **0**
+
+## Article 3 — `மந்திரிகள் குலை நடுக்கம்` — T0–T5 VERIFIED
+
+- frozen Tamil blob — `d05169cb394df089ef4f4cbdeefd35c3a563451d`
+- source scans — **17–20**
+- T0 — **PASS**
+- T1 — **COMPLETE**
+- T1 English blob — `91ea1a84dacddee2cb473a299a5ff0fa469387f1`
+- working / verified title — **Ministers Tremble in Fear**
+- ordered source comments — **4/4 PASS**
+
+### T2 bilingual fidelity review — PASS
+
+- body corrections — **0**
+- T2 body authority — `91ea1a84dacddee2cb473a299a5ff0fa469387f1`
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- names / questions / lists / conclusion — **PASS**
+
+### T3 Kalaignar voice review — PASS
+
+- body corrections — **0**
+- satire / repeated questions / accusatory cadence — **PASS**
+- accidental softening — **0**
+
+### T4 terminology / quotation / citation audit — PASS
+
+- body corrections — **0**
+- title — **Ministers Tremble in Fear** — VERIFIED
+- `Naan Kanda Russia` title plus source-derived English gloss retained
+- `வில்லுப் பாட்டு` → **bow-song** retained consistently
+
+### T5 article verification — PASS / VERIFIED
+
+- verified English blob — **`3d0e2718db290159e717db23890611f461af1149`**
+- `translation_status: verified`
+- source comments — **4/4**
+- untranslated Tamil body leakage — **0**
+- unresolved translation choices — **0**
+- blockers — **0**
+
+## Article 4 — `வாபஸ் வீரர்கள்!` — T0–T5 VERIFIED
+
+- frozen Tamil blob — `6ddca33c16fa7ee4f22d3f3f666df168b39c5b40`
+- source scans — **21–23**
+- T0 — **PASS**
+- T1 — **COMPLETE**
+- T1 English blob — `71c19711d0e9bd74067804748065e9051e741d8e`
+- working / verified title — **Heroes of Retreat!**
+- ordered source comments — **3/3 PASS**
+
+### T2 bilingual fidelity review — PASS
+
+T2 English blob — `b11b86d24806d540bdadb5ae3e39d1cc31d9441d`
+
+Body correction groups — **2**:
+
+1. `தாழ்த்தப்பட்டவர்கள்` — removed the externally specific historical label **Depressed Classes**; final **the oppressed / oppressed people** follows the frozen Tamil without over-identification;
+2. `சுழலும் துப்பாக்கி` — **revolving guns** → **revolvers**.
+
+Post-T2:
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- parenthetical insult attribution — **PASS**
+- Tamil source changes — **0**
+
+### T3 Kalaignar voice review — PASS
+
+- body corrections — **0**
+- mock-heroic escalation / military-retreat punchline — **PASS**
+
+### T4 terminology / quotation / citation audit — PASS
+
+- body corrections — **0**
+- title — **Heroes of Retreat!** — VERIFIED
+- `வாபஸ்` treated contextually as **retreat**, matching the article's explicit war-language punchline
+
+### T5 article verification — PASS / VERIFIED
+
+- verified English blob — **`47510c75833b1abd6990871ebc45c9e9eb8ba1db`**
+- `translation_status: verified`
+- source comments — **3/3**
+- untranslated Tamil body leakage — **0**
+- unresolved translation choices — **0**
+- blockers — **0**
+
+## Article 5 — `பொது மக்களுக்குத் தனி எச்சரிக்கை` — T0–T5 VERIFIED
+
+- frozen Tamil blob — `64a63aa5061d5f546f71526889af20baf3dd88e8`
+- source scans — **24–36**
+- T0 — **PASS**
+- T1 — **COMPLETE**
+- T1 English blob — `f057908a8f6be945e81500adad3d08638d32133d`
+- working / verified title — **A Special Warning to the Public**
+- ordered source comments — **13/13 PASS**
+
+### T2 bilingual fidelity review — PASS
+
+T2 English blob — `c67f08f64bc45324a28c7bc2a16981dcb5a996e8`
+
+Body correction groups — **2**:
+
+1. `விலை மாது` — softened **dancing courtesan** → source-force **dancing prostitute**;
+2. `வாய்ஜாலம்` — generic **wordplay** → **verbal magic**, retaining the source metaphor.
+
+Post-T2:
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- dates / numbers / names / quotations — **PASS**
+- Tamil source changes — **0**
+
+### T3 Kalaignar voice review — PASS
+
+T3 body authority — `ecd2995dfaab1649844a48fa48e10137c1093ea4`
+
+Body correction groups — **1**:
+
+1. `பச்சை அயோக்கியத்தனம்` — **sheer villainy** → **rank villainy**, sharpening the source insult without adding a new claim.
+
+### T4 terminology / quotation / citation audit — PASS
+
+T4 body authority — `50844c486ed5f4f288b2e11720624b7d67b96d10`
+
+Body correction groups — **1**:
+
+1. source initial `கே. டி. ராசு` — **K. T. Rasu** → **K. D. Rasu**.
+
+Other verified treatments:
+
+- `ஜன சக்தி` → ***Janasakthi***
+- `விடுதலை` → ***Viduthalai***
+- `தினத்தந்தி` → ***Dina Thanthi***
+- `கங்காணி` → source-bearing ***kangani***
+- `பண நாயகம்` → **money-rule**
+- `பொதுவுடமை` → **common ownership**
+- source-strange **unmutilated United Front** retained rather than silently regularising the Tamil
+
+Title — **A Special Warning to the Public** — VERIFIED.
+
+### T5 article verification — PASS / VERIFIED
+
+- verified English blob — **`637fd7fb72126b4b677846839191459616971d60`**
+- `translation_status: verified`
+- source comments — **13/13**
+- untranslated Tamil body leakage — **0**
+- unresolved translation choices — **0**
+- blockers — **0**
+
+# Articles 1–5 aggregate checkpoint
+
+- T0 — **5/5 PASS**
+- T1 — **5/5 COMPLETE**
+- T2 — **5/5 PASS**
+- T3 — **5/5 PASS**
+- T4 — **5/5 PASS**
+- T5 — **5/5 VERIFIED**
+- ordered source comments — **30/30 PASS**
+- omitted Tamil clauses after review — **0**
+- added substantive English claims after review — **0**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+
+## Articles 6–13
+
+All remain **NOT STARTED** at T0–T5. Their frozen Tamil pins remain those recorded in `SOURCE_MAP.md`.
 
 ## Exact next activity
 
-**Article 1 `பெருமூச்சு` — T0 source prerequisite.**
+**Article 6 `சிறுவர்கள்` — T0 source prerequisite.**
 
-Re-fetch the frozen Tamil authority from live `main` and require exact blob **`e4da76f9f464f86746e94d488537ad4a7bfc20f8`** before creating any English body file.
+Require exact live-main Tamil blob **`14501305ff4935d672444459dfe404d51ac97282`** before creating the Article 6 English body file.
