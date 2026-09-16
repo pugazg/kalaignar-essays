@@ -34,11 +34,11 @@ The 13 strict-reviewed Tamil assemblies below are the sole normal translation au
 | 4 | `வாபஸ் வீரர்கள்!` | 21–23 | `articles/04-vaapas-veerargal.md` | `6ddca33c16fa7ee4f22d3f3f666df168b39c5b40` | **Heroes of Retreat! / T5 VERIFIED** |
 | 5 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | 24–36 | `articles/05-podhu-makkalukku-thani-echarikkai.md` | `64a63aa5061d5f546f71526889af20baf3dd88e8` | **A Special Warning to the Public / T5 VERIFIED** |
 | 6 | `சிறுவர்கள்` | 37–40 | `articles/06-siruvargal.md` | `14501305ff4935d672444459dfe404d51ac97282` | **Youngsters / T5 VERIFIED** |
-| 7 | `“அஹிம்சா விலாசம்”` | 41–48 | `articles/07-ahimsa-vilasam.md` | `12c50fe83ef047ca060669831c82d3e00defc04a` | TBD / NOT STARTED |
-| 8 | `திண்டிவனம் தீரர்காள்!` | 49–52 | `articles/08-thindivanam-theerargaal.md` | `bb99717ca388d53bbbffd163f165fc0824ee7f37` | TBD / NOT STARTED |
-| 9 | `சேவல் கூவுகிறது!` | 53–56 | `articles/09-seval-koovugirathu.md` | `9d1a0e39e45cc1cb94419c5b966f8da415233e37` | TBD / NOT STARTED |
-| 10 | `மாடோட்டிகள்!` | 57–62 | `articles/10-maadottigal.md` | `ffdce8f466928a5484cc155dbc841394fd6db30c` | TBD / NOT STARTED |
-| 11 | `தேர்தல் கோவலன்!` | 63–70 | `articles/11-therthal-kovalan.md` | `8b01451de21342eb7df91b3b7b72d5d6d857c67f` | TBD / NOT STARTED |
+| 7 | `“அஹிம்சா விலாசம்”` | 41–48 | `articles/07-ahimsa-vilasam.md` | `12c50fe83ef047ca060669831c82d3e00defc04a` | **“Ahimsa Vilasam” / T5 VERIFIED** |
+| 8 | `திண்டிவனம் தீரர்காள்!` | 49–52 | `articles/08-thindivanam-theerargaal.md` | `bb99717ca388d53bbbffd163f165fc0824ee7f37` | **O Heroes of Tindivanam! / T5 VERIFIED** |
+| 9 | `சேவல் கூவுகிறது!` | 53–56 | `articles/09-seval-koovugirathu.md` | `9d1a0e39e45cc1cb94419c5b966f8da415233e37` | **The Rooster Crows! / T5 VERIFIED** |
+| 10 | `மாடோட்டிகள்!` | 57–62 | `articles/10-maadottigal.md` | `ffdce8f466928a5484cc155dbc841394fd6db30c` | **Cattle-Drivers! / T5 VERIFIED** |
+| 11 | `தேர்தல் கோவலன்!` | 63–70 | `articles/11-therthal-kovalan.md` | `8b01451de21342eb7df91b3b7b72d5d6d857c67f` | **Election Kovalan! / T5 VERIFIED** |
 | 12 | `சிந்தித்துணர்க! சீற்றமுறாதீர்!` | 71–76 | `articles/12-sindhiththunarga-seetramuraadheer.md` | `122f5320d683c35267e23b5a667bfd27100fdd3e` | TBD / NOT STARTED |
 | 13 | `பூம்! பூம்! பூம்!` | 77–80 | `articles/13-boom-boom-boom.md` | `1df4a62971685759e2beb2ffb2b54b0263b26848` | TBD / NOT STARTED |
 
@@ -119,7 +119,7 @@ After all 13/13 articles are T5 verified:
 - Tamil source changes during E0 — **0**;
 - blockers — **0**.
 
-## Articles 1–6 progress — T0–T5 COMPLETE / VERIFIED
+## Articles 1–11 progress — T0–T5 COMPLETE / VERIFIED
 
 - Article 1 — **A Deep Sigh** — verified English blob `8a441b0c4d33aacd2e61795800de2f95c4804e81`
 - Article 2 — **Come, Let Us Build the Mansion!** — verified English blob `ef0be10af34519b868634de64fc67bfde53bc5fb`
@@ -127,30 +127,42 @@ After all 13/13 articles are T5 verified:
 - Article 4 — **Heroes of Retreat!** — verified English blob `47510c75833b1abd6990871ebc45c9e9eb8ba1db`
 - Article 5 — **A Special Warning to the Public** — verified English blob `637fd7fb72126b4b677846839191459616971d60`
 - Article 6 — **Youngsters** — verified English blob `b2694657339a42c84d932e67ee63684a588245d2`
-- ordered source comments — **34/34 PASS**
+- Article 7 — **“Ahimsa Vilasam”** — verified English blob `9a55d55bef9e68c893c42546ac7dac1bb84ffb18`
+- Article 8 — **O Heroes of Tindivanam!** — verified English blob `557927643d1df347e2f8c03971bd501439973863`
+- Article 9 — **The Rooster Crows!** — verified English blob `b4e203789117dba4de9c08f2bc25766e807e2160`
+- Article 10 — **Cattle-Drivers!** — verified English blob `3f96803c1d0b08d287da2e961298c18e4491ea3f`
+- Article 11 — **Election Kovalan!** — verified English blob `470e034d7e2bd977dc6e70d61159814090f4110b`
+- ordered source comments — **64/64 PASS**
 - omitted Tamil clauses after bilingual review — **0**
 - added substantive English claims after bilingual review — **0**
 - Tamil source changes — **0**
 - blockers — **0**
 
-## Article 6 final checkpoint
+## Articles 7–11 batch checkpoint
 
-- T0 — **PASS**
-- T1 — **COMPLETE**
-- T2 — **PASS**
-- T3 — **PASS**
-- T4 — **PASS**
-- T5 — **VERIFIED**
-- frozen Tamil blob — **`14501305ff4935d672444459dfe404d51ac97282`**
-- verified English title — **Youngsters**
-- verified English blob — **`b2694657339a42c84d932e67ee63684a588245d2`**
-- ordered source comments — **4/4 PASS**
+- T0 — **5/5 PASS**
+- T1 — **5/5 COMPLETE**
+- T2 — **5/5 PASS**
+- T3 — **5/5 PASS**
+- T4 — **5/5 PASS**
+- T5 — **5/5 VERIFIED**
+- source comments — **30/30 PASS**
 - untranslated Tamil body leakage — **0**
+- omitted Tamil clauses after bilingual review — **0**
+- added substantive English claims after bilingual review — **0**
 - Tamil source changes — **0**
 - blockers — **0**
 
+Verified English authorities:
+
+1. Article 7 — **“Ahimsa Vilasam”** — `9a55d55bef9e68c893c42546ac7dac1bb84ffb18`
+2. Article 8 — **O Heroes of Tindivanam!** — `557927643d1df347e2f8c03971bd501439973863`
+3. Article 9 — **The Rooster Crows!** — `b4e203789117dba4de9c08f2bc25766e807e2160`
+4. Article 10 — **Cattle-Drivers!** — `3f96803c1d0b08d287da2e961298c18e4491ea3f`
+5. Article 11 — **Election Kovalan!** — `470e034d7e2bd977dc6e70d61159814090f4110b`
+
 ## Exact next activity
 
-**Article 7 `“அஹிம்சா விலாசம்”` — T0 source prerequisite.**
+**Article 12 `சிந்தித்துணர்க! சீற்றமுறாதீர்!` — T0 source prerequisite.**
 
-Require live `main` to match frozen Tamil blob **`12c50fe83ef047ca060669831c82d3e00defc04a`** before creating the Article 7 English body file.
+Require live `main` to match frozen Tamil blob **`122f5320d683c35267e23b5a667bfd27100fdd3e`** before creating the Article 12 English body file.
