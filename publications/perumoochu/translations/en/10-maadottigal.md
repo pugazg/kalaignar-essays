@@ -8,7 +8,7 @@ source_tamil_blob_sha: "ffdce8f466928a5484cc155dbc841394fd6db30c"
 source_scan_pages: "57-62"
 source_printed_pages: "55-60"
 language: "en"
-translation_status: "draft"
+translation_status: "fidelity-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
@@ -66,7 +66,7 @@ Is it not because we are in the grip of the North that Koyanga can stand as a ca
 
 Is it not because we are in the grip of the North that some of Birla's agents—scattering Birla's money—contest elections here in Dravida?
 
-It is precisely because Dravida must be freed from such cruel imperial domination, precisely because Dravida must become a free land, precisely because true equality must prevail in Dravida, that we raise the cry: ‘Dravida Nadu for the Dravidians alone!’
+It is precisely because Dravida must be freed from such cruel imperial domination, precisely because Dravida must become a free land, precisely because true equality must prevail in Dravida, that we raise the cry: ‘Dravida Nadu for the Dravidians alone’
 
 The cattle-drivers do not like this cry; they not only dislike it, they reject it.
 
