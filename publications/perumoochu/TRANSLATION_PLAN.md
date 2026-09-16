@@ -1,0 +1,126 @@
+# English Translation Plan — பெருமூச்சு
+
+Publication: `பெருமூச்சு`  
+Author: `மு.கருணாநிதி`  
+Workspace: `publications/perumoochu/`  
+Target language: **English**  
+Translation identity: **project-created English translation**
+
+Permanent policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_GUIDE.md)
+
+> **Translate the language; do not neutralise the voice.**
+
+## Tamil prerequisite — COMPLETE / FROZEN
+
+- P0–P5 — **COMPLETE / PASS**
+- physical scans — **83/83**
+- canonical page records — **83/83 verified**
+- frozen article assemblies — **13/13 strict-reviewed**
+- article body records — **74/74**
+- unresolved Tamil fidelity discrepancies — **0**
+- unresolved historical-glyph ambiguities — **0**
+- needs-review / blocked / guessed readings — **0 / 0 / 0**
+- Tamil status — **COMPLETE / STRICT-REVIEWED / FROZEN**
+
+The 13 strict-reviewed Tamil assemblies below are the sole normal translation authorities.
+
+## Frozen Tamil authorities and order
+
+| # | Tamil title | Structural scans | Tamil assembly | Frozen Tamil blob | English title / status |
+|---:|---|---:|---|---|---|
+| 1 | `பெருமூச்சு` | 7–10 | `articles/01-perumoochu.md` | `e4da76f9f464f86746e94d488537ad4a7bfc20f8` | TBD / NOT STARTED |
+| 2 | `மாளிகை அமைத்திட வாரீர்!` | 11–16 | `articles/02-maaligai-amaiththida-vareer.md` | `1d57a8a54d4b06b0c6fd19a6253661d2a620d1fa` | TBD / NOT STARTED |
+| 3 | `மந்திரிகள் குலை நடுக்கம்` | 17–20 | `articles/03-manthirigal-kulai-nadukkam.md` | `d05169cb394df089ef4f4cbdeefd35c3a563451d` | TBD / NOT STARTED |
+| 4 | `வாபஸ் வீரர்கள்!` | 21–23 | `articles/04-vaapas-veerargal.md` | `6ddca33c16fa7ee4f22d3f3f666df168b39c5b40` | TBD / NOT STARTED |
+| 5 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | 24–36 | `articles/05-podhu-makkalukku-thani-echarikkai.md` | `64a63aa5061d5f546f71526889af20baf3dd88e8` | TBD / NOT STARTED |
+| 6 | `சிறுவர்கள்` | 37–40 | `articles/06-siruvargal.md` | `14501305ff4935d672444459dfe404d51ac97282` | TBD / NOT STARTED |
+| 7 | `“அஹிம்சா விலாசம்”` | 41–48 | `articles/07-ahimsa-vilasam.md` | `12c50fe83ef047ca060669831c82d3e00defc04a` | TBD / NOT STARTED |
+| 8 | `திண்டிவனம் தீரர்காள்!` | 49–52 | `articles/08-thindivanam-theerargaal.md` | `bb99717ca388d53bbbffd163f165fc0824ee7f37` | TBD / NOT STARTED |
+| 9 | `சேவல் கூவுகிறது!` | 53–56 | `articles/09-seval-koovugirathu.md` | `9d1a0e39e45cc1cb94419c5b966f8da415233e37` | TBD / NOT STARTED |
+| 10 | `மாடோட்டிகள்!` | 57–62 | `articles/10-maadottigal.md` | `ffdce8f466928a5484cc155dbc841394fd6db30c` | TBD / NOT STARTED |
+| 11 | `தேர்தல் கோவலன்!` | 63–70 | `articles/11-therthal-kovalan.md` | `8b01451de21342eb7df91b3b7b72d5d6d857c67f` | TBD / NOT STARTED |
+| 12 | `சிந்தித்துணர்க! சீற்றமுறாதீர்!` | 71–76 | `articles/12-sindhiththunarga-seetramuraadheer.md` | `122f5320d683c35267e23b5a667bfd27100fdd3e` | TBD / NOT STARTED |
+| 13 | `பூம்! பூம்! பூம்!` | 77–80 | `articles/13-boom-boom-boom.md` | `1df4a62971685759e2beb2ffb2b54b0263b26848` | TBD / NOT STARTED |
+
+Translation order is fixed to source structure: **1 → 2 → 3 → 4 → 5 → 6 → 7 → 8 → 9 → 10 → 11 → 12 → 13**.
+
+Scans **1–6** are front matter / publisher preface. Scans **81–83** are catalogue / advertisement matter. Neither range belongs to an English article body.
+
+## Durable Tamil provenance relevant to translation
+
+Do not regress these frozen source controls:
+
+- historical `லை` in **`மந்திரிகள் குலை நடுக்கம்`**;
+- scans 24–52 physical-boundary repair authority — `ebe8b2146eef22ac203f8014367cb78dea2d4b76`;
+- scan 75→76 continuation — **`ஆதரிக்க / வும்—பெரியாருடன்`**;
+- scan 83 user-confirmed heading — **`ஊடுருவி தீட்டியவை:-`**;
+- rejected scan-83 reading `உருகி தீட்டியவை:-` is correction-history only.
+
+All P5 old→source-visible corrections are controlled by `VISUAL_TEXT_FIDELITY_REVIEW.md` and the canonical page records.
+
+## Publication-specific translation principles
+
+In addition to the repository-wide guide:
+
+- preserve direct political address, satire, ridicule, repeated questions, exclamations and accumulative lists;
+- preserve the source's abrupt switches among argument, slogan, reported speech, mock dialogue and literary analogy;
+- do not soften source accusations, mockery or campaign-era rhetoric;
+- preserve source-chosen organisation names and abbreviations without adding modern explanatory identification inside the body;
+- preserve source-specific election-box language and symbols without silently replacing them with modern electoral terminology;
+- preserve literary references such as `திருக்குறள்`, `சிலப்பதிகாரம்`, Kovalan, Kannagi and Madhavi as source-bearing references; do not import outside explanatory detail;
+- Article 7's quoted title punctuation must remain visible in the English-title review;
+- Article 11's Silappathikaram/Kovalan analogy must retain the distinction between source literary narrative and the article's electoral metaphor;
+- Article 13's repeated `பூம்` pattern, call-and-response rhythm and punctuation are rhetorical structure, not noise;
+- page-boundary comments must be retained in English as `<!-- Tamil source: scan ... -->`.
+
+## English file layout
+
+```text
+publications/perumoochu/
+  TRANSLATION_PLAN.md
+  translations/
+    en/
+      README.md
+      SOURCE_MAP.md
+      LEXICON.md
+      TRANSLATION_REVIEW.md
+      01-perumoochu.md
+      ...
+      13-boom-boom-boom.md
+```
+
+Article body files are created only when their T1 drafts begin.
+
+## Article gates
+
+Each article must pass:
+
+- **T0** — frozen Tamil source prerequisite / blob pin
+- **T1** — close paragraph-by-paragraph draft
+- **T2** — bilingual fidelity review
+- **T3** — Kalaignar voice review
+- **T4** — terminology / quotation / citation audit
+- **T5** — article verification
+
+After all 13/13 articles are T5 verified:
+
+- **E6** — publication-wide English consistency review
+- **E7** — English release closeout
+
+## E0 planning/setup — COMPLETE / PASS
+
+- permanent repository translation policy reviewed;
+- frozen Tamil article blobs pinned — **13/13**;
+- canonical translation order fixed — **1 → 13**;
+- `translations/en/README.md`, `SOURCE_MAP.md`, `LEXICON.md`, and `TRANSLATION_REVIEW.md` initialized;
+- translation identity recorded as **project-created English translation**;
+- English article body files created during E0 — **0/13**;
+- English body prose created during E0 — **0**;
+- Tamil source changes during E0 — **0**;
+- blockers — **0**.
+
+## Exact next activity
+
+**Article 1 `பெருமூச்சு` — T0 source prerequisite.**
+
+Re-fetch frozen Tamil blob `e4da76f9f464f86746e94d488537ad4a7bfc20f8` from live `main`. If it matches, mark T0 PASS and then begin T1 only as a separate activity.
