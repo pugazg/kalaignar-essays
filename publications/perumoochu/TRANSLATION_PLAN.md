@@ -33,7 +33,7 @@ The 13 strict-reviewed Tamil assemblies below are the sole normal translation au
 | 3 | `மந்திரிகள் குலை நடுக்கம்` | 17–20 | `articles/03-manthirigal-kulai-nadukkam.md` | `d05169cb394df089ef4f4cbdeefd35c3a563451d` | **Ministers Tremble in Fear / T5 VERIFIED** |
 | 4 | `வாபஸ் வீரர்கள்!` | 21–23 | `articles/04-vaapas-veerargal.md` | `6ddca33c16fa7ee4f22d3f3f666df168b39c5b40` | **Heroes of Retreat! / T5 VERIFIED** |
 | 5 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | 24–36 | `articles/05-podhu-makkalukku-thani-echarikkai.md` | `64a63aa5061d5f546f71526889af20baf3dd88e8` | **A Special Warning to the Public / T5 VERIFIED** |
-| 6 | `சிறுவர்கள்` | 37–40 | `articles/06-siruvargal.md` | `14501305ff4935d672444459dfe404d51ac97282` | TBD / NOT STARTED |
+| 6 | `சிறுவர்கள்` | 37–40 | `articles/06-siruvargal.md` | `14501305ff4935d672444459dfe404d51ac97282` | **T0 PASS / T1 NEXT** |
 | 7 | `“அஹிம்சா விலாசம்”` | 41–48 | `articles/07-ahimsa-vilasam.md` | `12c50fe83ef047ca060669831c82d3e00defc04a` | TBD / NOT STARTED |
 | 8 | `திண்டிவனம் தீரர்காள்!` | 49–52 | `articles/08-thindivanam-theerargaal.md` | `bb99717ca388d53bbbffd163f165fc0824ee7f37` | TBD / NOT STARTED |
 | 9 | `சேவல் கூவுகிறது!` | 53–56 | `articles/09-seval-koovugirathu.md` | `9d1a0e39e45cc1cb94419c5b966f8da415233e37` | TBD / NOT STARTED |
@@ -132,8 +132,14 @@ After all 13/13 articles are T5 verified:
 - Tamil source changes — **0**
 - blockers — **0**
 
+## Article 6 T0 checkpoint
+
+- required frozen Tamil blob — **`14501305ff4935d672444459dfe404d51ac97282`**
+- live `main` blob — **exact match / PASS**
+- English body file created during T0 — **No**
+- Tamil source changes — **0**
+- blockers — **0**
+
 ## Exact next activity
 
-**Article 6 `சிறுவர்கள்` — T0 source prerequisite.**
-
-Re-fetch frozen Tamil blob **`14501305ff4935d672444459dfe404d51ac97282`** from live `main`. If it matches, mark T0 PASS and begin T1 as the next translation activity.
+**Article 6 `சிறுவர்கள்` — T1 close paragraph-by-paragraph English draft.**
