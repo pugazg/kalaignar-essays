@@ -18,7 +18,7 @@ This is the publication-level source/completeness gate after P3. It reconciles t
 - controlling authority — **supplied scan pixels**
 - source PDF committed — **No**
 - source title form — **`பெருமூச்சு!`**
-- printed author — **`மு. கருணாநிதி`**
+- printed author (cover; corrected downstream by P5 source-pixel review) — **`மு.கருணாநிதி`**
 - publisher — **`இளங்கோ பதிப்பகம், மாயூரம்`**
 - edition — **`இரண்டாம் பதிப்பு—'53`**
 
