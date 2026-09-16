@@ -28,11 +28,11 @@ The 13 strict-reviewed Tamil assemblies below are the sole normal translation au
 
 | # | Tamil title | Structural scans | Tamil assembly | Frozen Tamil blob | English title / status |
 |---:|---|---:|---|---|---|
-| 1 | `பெருமூச்சு` | 7–10 | `articles/01-perumoochu.md` | `e4da76f9f464f86746e94d488537ad4a7bfc20f8` | TBD / NOT STARTED |
-| 2 | `மாளிகை அமைத்திட வாரீர்!` | 11–16 | `articles/02-maaligai-amaiththida-vareer.md` | `1d57a8a54d4b06b0c6fd19a6253661d2a620d1fa` | TBD / NOT STARTED |
-| 3 | `மந்திரிகள் குலை நடுக்கம்` | 17–20 | `articles/03-manthirigal-kulai-nadukkam.md` | `d05169cb394df089ef4f4cbdeefd35c3a563451d` | TBD / NOT STARTED |
-| 4 | `வாபஸ் வீரர்கள்!` | 21–23 | `articles/04-vaapas-veerargal.md` | `6ddca33c16fa7ee4f22d3f3f666df168b39c5b40` | TBD / NOT STARTED |
-| 5 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | 24–36 | `articles/05-podhu-makkalukku-thani-echarikkai.md` | `64a63aa5061d5f546f71526889af20baf3dd88e8` | TBD / NOT STARTED |
+| 1 | `பெருமூச்சு` | 7–10 | `articles/01-perumoochu.md` | `e4da76f9f464f86746e94d488537ad4a7bfc20f8` | **A Deep Sigh / T5 VERIFIED** |
+| 2 | `மாளிகை அமைத்திட வாரீர்!` | 11–16 | `articles/02-maaligai-amaiththida-vareer.md` | `1d57a8a54d4b06b0c6fd19a6253661d2a620d1fa` | **Come, Let Us Build the Mansion! / T5 VERIFIED** |
+| 3 | `மந்திரிகள் குலை நடுக்கம்` | 17–20 | `articles/03-manthirigal-kulai-nadukkam.md` | `d05169cb394df089ef4f4cbdeefd35c3a563451d` | **Ministers Tremble in Fear / T5 VERIFIED** |
+| 4 | `வாபஸ் வீரர்கள்!` | 21–23 | `articles/04-vaapas-veerargal.md` | `6ddca33c16fa7ee4f22d3f3f666df168b39c5b40` | **Heroes of Retreat! / T5 VERIFIED** |
+| 5 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | 24–36 | `articles/05-podhu-makkalukku-thani-echarikkai.md` | `64a63aa5061d5f546f71526889af20baf3dd88e8` | **A Special Warning to the Public / T5 VERIFIED** |
 | 6 | `சிறுவர்கள்` | 37–40 | `articles/06-siruvargal.md` | `14501305ff4935d672444459dfe404d51ac97282` | TBD / NOT STARTED |
 | 7 | `“அஹிம்சா விலாசம்”` | 41–48 | `articles/07-ahimsa-vilasam.md` | `12c50fe83ef047ca060669831c82d3e00defc04a` | TBD / NOT STARTED |
 | 8 | `திண்டிவனம் தீரர்காள்!` | 49–52 | `articles/08-thindivanam-theerargaal.md` | `bb99717ca388d53bbbffd163f165fc0824ee7f37` | TBD / NOT STARTED |
@@ -119,8 +119,21 @@ After all 13/13 articles are T5 verified:
 - Tamil source changes during E0 — **0**;
 - blockers — **0**.
 
+## Articles 1–5 progress — T0–T5 COMPLETE / VERIFIED
+
+- Article 1 — **A Deep Sigh** — verified English blob `8a441b0c4d33aacd2e61795800de2f95c4804e81`
+- Article 2 — **Come, Let Us Build the Mansion!** — verified English blob `ef0be10af34519b868634de64fc67bfde53bc5fb`
+- Article 3 — **Ministers Tremble in Fear** — verified English blob `3d0e2718db290159e717db23890611f461af1149`
+- Article 4 — **Heroes of Retreat!** — verified English blob `47510c75833b1abd6990871ebc45c9e9eb8ba1db`
+- Article 5 — **A Special Warning to the Public** — verified English blob `637fd7fb72126b4b677846839191459616971d60`
+- ordered source comments — **30/30 PASS**
+- omitted Tamil clauses after bilingual review — **0**
+- added substantive English claims after bilingual review — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+
 ## Exact next activity
 
-**Article 1 `பெருமூச்சு` — T0 source prerequisite.**
+**Article 6 `சிறுவர்கள்` — T0 source prerequisite.**
 
-Re-fetch frozen Tamil blob `e4da76f9f464f86746e94d488537ad4a7bfc20f8` from live `main`. If it matches, mark T0 PASS and then begin T1 only as a separate activity.
+Re-fetch frozen Tamil blob **`14501305ff4935d672444459dfe404d51ac97282`** from live `main`. If it matches, mark T0 PASS and begin T1 as the next translation activity.
