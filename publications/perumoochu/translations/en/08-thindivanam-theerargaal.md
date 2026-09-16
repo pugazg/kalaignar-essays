@@ -2,7 +2,7 @@
 publication: "perumoochu"
 article_number: 8
 title_ta: "திண்டிவனம் தீரர்காள்!"
-title_en: "Heroes of Tindivanam!"
+title_en: "O Heroes of Tindivanam!"
 source_tamil: "../../articles/08-thindivanam-theerargaal.md"
 source_tamil_blob_sha: "bb99717ca388d53bbbffd163f165fc0824ee7f37"
 source_scan_pages: "49-52"
@@ -12,7 +12,7 @@ translation_status: "voice-reviewed"
 translation_method: "close rhetorical translation preserving Kalaignar's voice"
 ---
 
-# Heroes of Tindivanam!
+# O Heroes of Tindivanam!
 
 <!-- Tamil source: scan 49 / printed 47 -->
 
