@@ -3,7 +3,7 @@ publication: "perumoochu"
 article_number: 5
 title_ta: "பொது மக்களுக்குத் தனி எச்சரிக்கை"
 scan_pages: "24-36"
-status: "verified"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0064124_பெருமூச்சு.pdf"
 assembly_method: "concatenated without normalization from repaired P2-verified canonical page records"
@@ -165,3 +165,11 @@ assembly_method: "concatenated without normalization from repaired P2-verified c
 - modernization / paraphrase — **0**
 - unresolved assembly issues — **0**
 - result — **P3 COMPLETE / PASS**
+
+
+## P5 strict visual review
+
+- every contributing physical source scan was directly rechecked in P5.
+- current article body was reconstructed from current canonical page records and compared exactly — **PASS**.
+- unresolved P5 fidelity discrepancies — **0**.
+- status — **STRICT-REVIEWED / FROZEN**.
