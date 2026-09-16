@@ -18,7 +18,7 @@ translation_method: "close rhetorical translation preserving Kalaignar's voice"
 
 The slogan that is the anthem of the Dravida Munnetra Kazhagam's ideal—"Dravida Nadu for the Dravidians!"—rose at the Madras State Conference as the voice of awakening of two hundred thousand people.
 
-Among all the resolutions passed on the fourth and final day of the conference, that resolution of principle stood like the crowning peak.
+Among all the resolutions passed on the fourth day of the conference, that resolution of principle stood like the crowning peak.
 
 At the conference, the movement's front-line fighters held aloft the sacred lamps called resolutions and placed before the people many questions that had lain in darkness and confusion, explaining them clearly. In those resolutions one can plainly discern the political, economic and social outlook of the Dravida Munnetra Kazhagam.
 
@@ -32,7 +32,7 @@ Resolutions insisting that industries should not continue to be run by swollen m
 
 Resolutions expressing concern for agricultural progress and the welfare of cultivators, and prodding the rulers to do what is necessary.
 
-Resolutions declaring that Chittoor and Nanjil belong with the Tamil land; counselling sense to those idlers who uselessly manufacture a division between Andhra and Tamil; making clear that if bitterness between Tamils and Andhras grows, the hunt by the North will only intensify; and supporting agitation for the immediate creation, by just means, of linguistic units.
+Resolutions declaring that Chittoor and Nanjil belong with the Tamil land; counselling sense to those worthless fellows who needlessly manufacture a division between Andhra and Tamil; making clear that if bitterness between Tamils and Andhras grows, the hunt by the North will only intensify; and supporting agitation for the immediate creation, by just means, of linguistic units.
 
 Resolutions examining the railway question, setting out the Ceylon question, and seeking ways and means for them.
 
@@ -58,7 +58,7 @@ Selvam passed away! Even then, thinking that we were the guardians of the garden
 
 Nagai Mani, Mayavaram Natarasan, Nagammaiyar, Thyagarasar, Panagal, Nair—how many golden ones left us grieving and disappeared! Even then, the diamond called "Dravida" cooled our hearts!
 
-Periyar strayed from the policy! Even then, thinking of the moon called "Dravida"—we filled our hearts with joy! Such is Dravida: Dravida, the war-song of warriors whose courage swells as they vow to win it without fear even if fire rains down; Dravida, dwelling in the hearts of heroes who sing in defiance, "Even when mountains rise against us, we shall not lose our stance—the flower-garden where the mango-cuckoo sings is the prison that seeks to cage us," driving away sorrow, never slackening their speed, yearning to seize the flag of liberation. Such a Dravida cannot be worn away by the sweet words of the holy gathering that calls us to dance the election dance—
+Periyar strayed from the policy! Even then, thinking of the moon called "Dravida"—we filled our hearts with joy! Such is Dravida: Dravida, the war-song of warriors whose courage swells as they vow to win it without fear even if fire rains down; Dravida, dwelling in the hearts of heroes who, even when mountains rise against them, do not lose their stance, and who sing with courage, “The flower-garden where the mango-cuckoo sings is the prison that seeks to cage us,” driving away sorrow, never slackening their speed, yearning to seize the flag of liberation. Such a Dravida cannot be worn away by the sweet words of the holy gathering that calls us to dance the election dance—
 
 <!-- Tamil source: scan 15 / printed 13 -->
 
