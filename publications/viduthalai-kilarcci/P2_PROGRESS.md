@@ -278,7 +278,9 @@ Cross-page controls:
 - P3 — **COMPLETE / PASS — 2/2 assemblies**
 - P3 authority — `P3_PROGRESS.md`
 - article assemblies — `articles/00-vengaiyai-virattum-padalam.md`, `articles/01-viduthalai-kilarcci.md`
+- P4 — **COMPLETE / PASS**
+- P4 authority — `P4_SOURCE_AUDIT.md`
 
 ## Exact next activity
 
-**P4 publication source/completeness audit.**
+**P5 strict visual text-fidelity pass — all 69 physical scans.**

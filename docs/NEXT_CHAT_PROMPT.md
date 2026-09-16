@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P4 publication source/completeness audit
+# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P5 strict visual text-fidelity pass
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -18,29 +18,37 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - P1 — **COMPLETE / PASS — 69/69**
 - P2 — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
-- P4 — **NOT STARTED**
+- P4 — **COMPLETE / PASS**
 - P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil archival freeze**
 
-## P3 authorities
+## P4 authority
 
-- `P3_PROGRESS.md`
-- `articles/00-vengaiyai-virattum-padalam.md` — scans 4–7
-- `articles/01-viduthalai-kilarcci.md` — scans 8–68
+`P4_SOURCE_AUDIT.md`
 
-P3 totals:
-- contributing page records — **65/65**
-- verified boundary-word joins — **14**
-- omitted canonical P2 lexical body text — **0**
-- unsupported additions — **0**
-- unresolved assembly issues — **0**
+P4 totals:
+- source coverage — **69/69**
+- P3 assemblies — **2/2**
+- canonical body-text repairs — **0**
+- control/documentation repairs — **4**
+- unresolved issues / blockers — **0 / 0**
 
-Non-article physical matter:
-- scans 1–3 — front cover / reverse / imprint
-- scan 69 — publisher catalogue
+P4 numbering repair:
+- scans 5–7 show Roman **II–IV**
+- scan 4 has **no visible Roman numeral**
+- do not regress to the older visible-I–IV wording.
+
+## P5 mandatory rule
+
+Independently reopen **every one of the 69 physical scans** and compare every visible word, punctuation mark, meaningful spacing, heading, number, folio, physical continuation and historical Tamil glyph identity against the canonical page record.
+
+Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` again, including explicit checks for:
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+
+Source pixels control. Do not use the baseline, OCR, web text, alternate editions or context as authority.
+
+Any P5 correction must propagate to the affected page record, P3 assembly, indexes and control documents. Create `VISUAL_TEXT_FIDELITY_REVIEW.md` and close P5 only after all 69 scans are independently rechecked.
 
 ## Exact next activity
 
-**P4 publication source/completeness audit.**
-
-Audit the full 69-scan publication against P1/P2/P3: physical-scan completeness, structure, page-record coverage, assembly coverage, front matter, introductory unit, main-work start/end boundaries, terminal catalogue exclusion, durable source corrections, and unresolved/blocker counts. Create `P4_SOURCE_AUDIT.md`, update README/audit/handover/next-prompt, and commit atomically. Do not begin P5 until P4 closes.
+**P5 strict visual text-fidelity review — begin with scans 1–10.**

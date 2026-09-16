@@ -61,6 +61,12 @@ Non-word page continuations such as `பிரஞ்சுக் / காலன�
 - scan 69 catalogue exclusion — **PASS**
 - P4 may begin — **YES**
 
+## Downstream status
+
+- P4 — **COMPLETE / PASS**
+- P4 authority — `P4_SOURCE_AUDIT.md`
+- P3 assembly blobs above remain the P3 closure authorities until P5 revalidation.
+
 ## Exact next activity
 
-**P4 publication source/completeness audit.**
+**P5 strict visual text-fidelity pass — all 69 physical scans.**

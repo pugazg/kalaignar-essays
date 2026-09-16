@@ -2533,7 +2533,7 @@ English controls:
 
 No further Publication 14 archival or translation activity is pending.
 
-Publication 15 `விடுதலைக் கிளர்ச்சி` is **ACTIVE — P2 COMPLETE / PASS — 69/69 VERIFIED; P3 COMPLETE / PASS — 2/2 ASSEMBLIES**.
+Publication 15 `விடுதலைக் கிளர்ச்சி` is **ACTIVE — P2 COMPLETE / PASS — 69/69 VERIFIED; P3 COMPLETE / PASS — 2/2 ASSEMBLIES; P4 COMPLETE / PASS**.
 # Publication 15 — விடுதலைக் கிளர்ச்சி
 
 Workspace: `publications/viduthalai-kilarcci/`
@@ -2558,7 +2558,7 @@ Workspace: `publications/viduthalai-kilarcci/`
 - P1 — **COMPLETE / PASS — 69/69**
 - P2 — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
-- P4 — **NOT STARTED**
+- P4 — **COMPLETE / PASS**
 - P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil P5 / frozen**
 - historical Tamil glyph workflow — **MANDATORY**
@@ -2672,8 +2672,23 @@ P3 assembly blobs at closure:
 - introductory unit — **`5b0d9fcca4eff38bb7c1a51f98c28cc45ce57b9e`**
 - main prose — **`4f1416db060a12d45ab67c069f4976af3dddc1f2`**
 
+## P4 source/completeness audit
+
+**COMPLETE / PASS**
+
+- physical scan accounting — **69/69**
+- canonical page records — **69/69 VERIFIED**
+- P3 assemblies — **2/2 / 65/65 contributing records**
+- front matter / intro / main prose / catalogue isolation — **PASS**
+- P4 body-text repairs — **0**
+- P4 control/documentation repairs — **4**
+- unresolved issues / blockers — **0 / 0**
+- authority — `publications/viduthalai-kilarcci/P4_SOURCE_AUDIT.md`
+
+P4 documentation repair: earlier control wording implying visible Roman **I–IV** across scans 4–7 is corrected. Canonical P2 evidence shows **II–IV on scans 5–7** and no visible Roman numeral on scan 4.
+
 ## Exact next activity
 
-**P4 publication source/completeness audit.**
+**P5 strict visual text-fidelity pass — all 69 physical scans.**
 
 Use `viduthalai_kilarchi.md` only as a baseline comparison aid. Source scan pixels remain controlling. Apply the historical-glyph guide word-by-word and preserve page-boundary fragments exactly.

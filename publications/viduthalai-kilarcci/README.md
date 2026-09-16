@@ -12,7 +12,7 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - P1 source structure / article inventory — **COMPLETE / PASS — 69/69 structurally inspected**
 - P2 page-level transcription — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 article assembly — **COMPLETE / PASS — 2/2 ASSEMBLIES**
-- P4 source audit — **NOT STARTED**
+- P4 source audit — **COMPLETE / PASS**
 - P5 strict visual-text-fidelity pass — **NOT STARTED**
 - English — **BLOCKED until Tamil archival layer freezes**
 - source PDF committed — **No**
@@ -46,7 +46,7 @@ User-supplied description compares anti-dominance resistance to a mother cow cha
 - scan **1** — front cover / title / author / publisher
 - scan **2** — reverse / physical-copy donation label
 - scan **3** — edition / rights / price / printer page
-- scans **4–7** — introductory verse/prologue **`வேங்கையை விரட்டும் படலம்`**, numbered I–IV
+- scans **4–7** — introductory verse/prologue **`வேங்கையை விரட்டும் படலம்`**; source-visible Roman numerals **II–IV** occur on scans **5–7**, while scan **4** has no visible Roman numeral
 - scans **8–68** — main prose work **`விடுதலைக் கிளர்ச்சி`**
 - scan **69** — publisher advertisement / catalogue matter
 - separate printed contents page — **not found**
@@ -94,8 +94,22 @@ Authority: `P2_PROGRESS.md`.
 - unresolved assembly issues — **0**
 - authority — `P3_PROGRESS.md`
 
+## P4 source/completeness audit
+
+**COMPLETE / PASS**
+
+- source coverage — **69/69**
+- canonical page records — **69/69 VERIFIED**
+- P3 assemblies — **2/2**
+- front matter / introductory unit / main prose / terminal catalogue boundaries — **PASS**
+- canonical page-text repairs during P4 — **0**
+- P3 body-text repairs during P4 — **0**
+- control/documentation repairs — **4**
+- blockers — **0**
+- authority — `P4_SOURCE_AUDIT.md`
+
 ## Exact next activity
 
-**P4 publication source/completeness audit.**
+**P5 strict visual text-fidelity pass — all 69 physical scans.**
 
 Use the baseline only as a comparison aid. Verify every word, punctuation mark, page boundary and historical glyph against source pixels.

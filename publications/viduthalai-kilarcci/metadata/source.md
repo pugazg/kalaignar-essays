@@ -32,7 +32,7 @@ The user supplied the catalog title `விடுதலைக் கிளர்
 - scan 1 — front cover; later physical-copy handwriting is present
 - scan 2 — reverse / donation label
 - scan 3 — edition / rights / price / printer page
-- scans 4–7 — introductory verse/prologue `வேங்கையை விரட்டும் படலம்`, numbered I–IV
+- scans 4–7 — introductory verse/prologue `வேங்கையை விரட்டும் படலம்`; source-visible Roman numerals **II–IV** occur on scans 5–7; scan 4 has no visible Roman numeral
 - scan 8 — main work opening heading `விடுதலைக் கிளர்ச்சி`
 - scans 8–68 — continuous main prose work
 - scan 69 — terminal advertisement / publisher catalogue

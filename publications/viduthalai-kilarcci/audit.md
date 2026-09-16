@@ -34,7 +34,8 @@ The source consists of preliminary verse/prologue material followed by one conti
 - historical-glyph guide — **mandatory**
 - P2 — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
-- P4–P5 — **NOT STARTED**
+- P4 — **COMPLETE / PASS**
+- P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil P5 / frozen**
 
 ## P2 Batch 001 audit
@@ -158,8 +159,26 @@ The source consists of preliminary verse/prologue material followed by one conti
 - unresolved assembly issues — **0**
 - authority — `P3_PROGRESS.md`
 
+## P4 source/completeness audit
+
+**COMPLETE / PASS**
+
+- source coverage — **69/69**
+- canonical page records — **69/69 VERIFIED**
+- P3 assemblies — **2/2**
+- contributing P3 records — **65/65**
+- structural boundaries 3→4, 7→8, 68→69 — **PASS**
+- non-body isolation scans 1–3 and 69 — **PASS**
+- durable P2 source readings propagated — **PASS**
+- P4 canonical page-text repairs — **0**
+- P4 P3-body repairs — **0**
+- control/documentation repairs — **4**
+- unresolved issues — **0**
+- blockers — **0**
+- authority — `P4_SOURCE_AUDIT.md`
+
 ## Next
 
-Publication 15 is **ACTIVE — P0–P2 COMPLETE / P3 COMPLETE / PASS — 2/2 ASSEMBLIES**.
+Publication 15 is **ACTIVE — P0–P4 COMPLETE / PASS; P2 69/69 VERIFIED; P3 2/2 ASSEMBLIES**.
 
-Next gate: **P4 publication source/completeness audit**.
+Next gate: **P5 strict visual text-fidelity pass — all 69 physical scans**.
