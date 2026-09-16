@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after Publication 14 `பெருமூச்சு` English Articles 1–5 T0–T5. Publication 14 is **TAMIL COMPLETE / FROZEN — P0–P5 PASS; English E0 PASS; T5 5/13 VERIFIED; Article 6 T0 NEXT**. Publication 15 `விடுதலைக் கிளர்ச்சி` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**. Publications 1–13 remain **RELEASE COMPLETE / FROZEN**.
+Handoff refreshed after Publication 14 `பெருமூச்சு` Article 6 T0. Publication 14 is **TAMIL COMPLETE / FROZEN — P0–P5 PASS; English E0 PASS; Articles 1–5 T5 VERIFIED; Article 6 T0 PASS / T1 NEXT**. Publication 15 `விடுதலைக் கிளர்ச்சி` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**. Publications 1–13 remain **RELEASE COMPLETE / FROZEN**.
 
 ## Repository state
 
@@ -16,7 +16,7 @@ Publication 12 **`ஆறுமாதக் கடுங்காவல்` — R
 
 Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 4/4 VERIFIED; E6 PASS; E7 PASS**. Final English authorities remain: **Throbbing Youth** `46c70fd2bf702a061d35b45383c8c8e0841852d9`; **Arohara to Annamalai!** `1cfce7827fec69de08c98dd78edf4a06a7216a41`; **Poompuhar** `67649c4db83881840137073bafa24d31062fb86c`; **Lamp of Victory!** `083d514b93d58484f49e3193235b9631d995cd8e`.
 
-Publication 14 **`பெருமூச்சு` — TAMIL COMPLETE / FROZEN — P0–P5 PASS; English E0 PASS; T0–T5 5/13 VERIFIED; Article 6 `சிறுவர்கள்` T0 NEXT**.
+Publication 14 **`பெருமூச்சு` — TAMIL COMPLETE / FROZEN — P0–P5 PASS; English E0 PASS; T0 6/13; T5 5/13 VERIFIED; Article 6 `சிறுவர்கள்` T1 NEXT**.
 
 Publication 15 **`விடுதலைக் கிளர்ச்சி` — QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED; introductory verse + 1 main prose work**.
 
@@ -2482,7 +2482,7 @@ Tamil authorities:
 ## English state
 
 - E0 planning/setup — **COMPLETE / PASS**
-- T0 — **5/13 PASS**
+- T0 — **6/13 PASS**
 - T1 — **5/13 COMPLETE**
 - T2 — **5/13 PASS**
 - T3 — **5/13 PASS**
@@ -2514,9 +2514,9 @@ English controls:
 
 ## Exact next activity
 
-**Publication 14 `பெருமூச்சு` — Article 6 `சிறுவர்கள்` T0 source prerequisite.**
+**Publication 14 `பெருமூச்சு` — Article 6 `சிறுவர்கள்` T1 close paragraph-by-paragraph English draft.**
 
-Require live `main` Tamil blob **`14501305ff4935d672444459dfe404d51ac97282`** before creating the Article 6 English body file.
+Article 6 T0 is **PASS**: live `main` exactly matches frozen Tamil blob **`14501305ff4935d672444459dfe404d51ac97282`**.
 
 Publication 15 remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** unless explicitly redirected.
 
