@@ -40,7 +40,7 @@ Separate printed contents page — **not found**.
 5. scans 24–36 — `பொது மக்களுக்குத் தனி எச்சரிக்கை`
 6. scans 37–40 — `சிறுவர்கள்`
 7. scans 41–48 — `அஹிம்சா விலாசம்`
-8. scans 49–52 — `திண்டிவனம் தீரர்கள்!`
+8. scans 49–52 — `திண்டிவனம் தீரர்காள்!`
 9. scans 53–56 — `சேலம் கூவுகிறது!`
 10. scans 57–62 — `மாட்டோட்டிகள்!`
 11. scans 63–70 — `தேர்தல் கோமாளி!`
@@ -71,4 +71,13 @@ Direct P2 verification of scan 21 corrected the Article-4 heading from the earli
 
 P2 scans **1–23 are COMPLETE / PASS**.
 
-Next: **P2 scans 24–46**.
+P2 scans **1–52 are now COMPLETE / PASS**.
+
+Next: **P2 scans 53–75**.
+
+
+## P2 structural refinements through scan 52
+
+- scan 17 title remains **`மந்திரிகள் குலை நடுக்கம்`**; user-confirmed historical **`லை`** glyph.
+- scan 21 title — **`வாபஸ் வீரர்கள்!`**.
+- scan 49 title — earlier P1 reading `திண்டிவனம் தீரர்கள்!` corrected from source to **`திண்டிவனம் தீரர்காள்!`**.
