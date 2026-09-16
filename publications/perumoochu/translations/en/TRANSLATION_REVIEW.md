@@ -795,6 +795,31 @@ Post-E6:
 - result — **E6 COMPLETE / PASS**
 - English translation — **COMPLETE**
 
+## E7 English release closeout
+
+**COMPLETE / PASS — RELEASE COMPLETE / CLOSED**
+
+Authority: `E7_RELEASE_CLOSEOUT.md`.
+
+Release checks:
+
+- frozen Tamil authorities — **13/13 unchanged**
+- verified English authorities — **13/13 unchanged after E6**
+- English `translation_status: verified` — **13/13**
+- ordered source comments — **74/74 PASS**
+- E6 — **COMPLETE / PASS**
+- post-E6 English body drift — **0**
+- E7 English body corrections — **0**
+- E7 English metadata corrections — **0**
+- E7 Tamil corrections — **0**
+- unresolved terminology issues — **0**
+- unresolved consistency defects — **0**
+- unresolved release blockers — **0**
+
+Final publication status: **RELEASE COMPLETE / FROZEN**.
+
+Do not reopen for stylistic preference alone.
+
 ## Exact next activity
 
-**E7 — English release closeout for `பெருமூச்சு`.**
+No further Publication 14 archival or translation activity is pending.

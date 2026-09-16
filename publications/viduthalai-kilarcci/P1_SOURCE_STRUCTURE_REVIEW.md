@@ -53,6 +53,6 @@ Later handwriting, donation labels, ageing and show-through are visible. They mu
 
 ## Next gate
 
-Publication 15 remains queued behind Publication 14.
+Publication 14 `பெருமூச்சு` is **RELEASE COMPLETE / FROZEN**.
 
-**Publication 14 `பெருமூச்சு` — P2 Batch 001 scans 1–5** is the next activity unless the user explicitly directs parallel processing.
+Publication 15 is next in sequence. **P2 Batch 001 — scans 1–10** is the next activity when explicitly directed.

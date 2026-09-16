@@ -215,6 +215,30 @@ All other Article 1–13 English blobs remain unchanged from T5.
 English translation status after E6 — **COMPLETE / PASS**.  
 Blockers — **0**.
 
+## E7 English release closeout
+
+**COMPLETE / PASS — RELEASE COMPLETE / CLOSED**
+
+Authority: `translations/en/E7_RELEASE_CLOSEOUT.md`.
+
+- frozen Tamil authorities — **13/13 unchanged**
+- current verified English authorities — **13/13 unchanged after E6**
+- ordered source comments — **74/74 PASS**
+- E6 — **COMPLETE / PASS**
+- post-E6 English body drift — **0**
+- E7 English body corrections — **0**
+- E7 English metadata corrections — **0**
+- E7 Tamil corrections — **0**
+- unresolved release blockers — **0**
+- English release — **COMPLETE / RELEASED / FROZEN**
+- Publication 14 overall workflow — **RELEASE COMPLETE / FROZEN**
+
+Release authorities:
+- `translations/en/E6_CONSISTENCY_REVIEW.md`
+- `translations/en/E7_RELEASE_CLOSEOUT.md`
+
 ## Exact next activity
 
-**E7 — English release closeout for `பெருமூச்சு`.**
+No further Publication 14 archival or translation activity is pending.
+
+Publication 15 `விடுதலைக் கிளர்ச்சி` remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** until explicitly directed.

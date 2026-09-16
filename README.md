@@ -8,42 +8,47 @@ Permanent workflow: `ESSAY_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCR
 
 ## Repository status
 
-Publications **1–11 are RELEASE COMPLETE / FROZEN**.
+Publications **1–14 are RELEASE COMPLETE / FROZEN**.
 
-### Publication 12 — ஆறுமாதக் கடுங்காவல் — ACTIVE
+Do not reopen a frozen publication merely for stylistic polishing, terminology homogenisation, modernisation, or a stale workflow prompt. Reopen only for a genuine source-supported correction or an explicitly requested targeted correction, with downstream gates reopened as required.
 
-Workspace: `publications/aaru-maatha-kadungkaaval/`
+### Publication 14 — பெருமூச்சு — RELEASE COMPLETE / FROZEN
 
-User-confirmed identity:
+Workspace: `publications/perumoochu/`
 
-- title — **`ஆறுமாதக் கடுங்காவல்`**
-- author — **`கலைஞர் மு. கருணாநிதி`**
-- publisher — **`திராவிடப் பண்ணை`**
-- edition — **`முதல் பதிப்பு, 1953`**
-- authoritative complete extent — **224 pages**
+- Tamil P0–P5 — **COMPLETE / PASS**
+- physical scans — **83/83 STRICT-REVIEWED**
+- Tamil article assemblies — **13/13 STRICT-REVIEWED / FROZEN**
+- English T0–T5 — **13/13 VERIFIED**
+- E6 — **COMPLETE / PASS**
+- E7 — **COMPLETE / PASS**
+- English — **COMPLETE / RELEASED / FROZEN**
+- overall workflow — **RELEASE COMPLETE / FROZEN**
+- release authorities:
+  - `publications/perumoochu/translations/en/E6_CONSISTENCY_REVIEW.md`
+  - `publications/perumoochu/translations/en/E7_RELEASE_CLOSEOUT.md`
 
-Current source-access state:
+### Publication 15 — விடுதலைக் கிளர்ச்சி — QUEUED
 
-- P0 source intake — **IN PROGRESS — direct physical PDF verification pending**
-- physical PDF page count — **224 user-confirmed / direct file verification pending**
-- raw physical-file byte size — **282020019 bytes — CONFIRMED**
-- physical-file SHA-256 — **PENDING**
-- historical Tamil glyph workflow — **MANDATORY**
-- P1 — **COMPLETE / PASS FOR SUPPLIED 150-PAGE PDF ARTIFACT**
-- P2 — **IN PROGRESS — 5/150 records; 3 verified / 2 needs-review**
+Workspace: `publications/viduthalai-kilarcci/`
+
+- source — `TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf`
+- physical scans — **69**
+- P0 — **COMPLETE / PASS**
+- P1 — **COMPLETE / PASS — 69/69**
+- P2 — **NOT STARTED**
 - P3–P5 — **NOT STARTED**
-- English — **BLOCKED until Tamil archival completion/freeze**
-- source PDF committed — **No**
+- English — **BLOCKED until Tamil archival freeze**
+- historical Tamil glyph workflow — **MANDATORY**
 
-The earlier preview-derived 150-page/P1 claims have been withdrawn. **Preview/parser output is not source authority for this publication.**
+Verified structure:
 
-User-supplied context describes the work as a prison-life memoir of Kalaignar's six-month sentence, including solitary confinement at Palayamkottai prison. This remains metadata/context unless directly reproduced by the scan itself.
+- scans 1–3 — cover / reverse / imprint
+- scans 4–7 — introductory verse/prologue `வேங்கையை விரட்டும் பாடல்`
+- scans 8–68 — main prose work `விடுதலைக் கிளர்ச்சி`
+- scan 69 — publisher advertisement / catalogue
 
-Exact next activity: **P2 scans 6–10**. P0 SHA-256 / 224-page completeness discrepancy remains open; scans 3–4 retain explicit source-reading holds.
-
-### Publications 1–11
-
-Remain **RELEASE COMPLETE / FROZEN**. Preserve their frozen Tamil and English layers unless genuine source-supported evidence requires formal reopening.
+Exact next activity when explicitly directed: **P2 Batch 001 — scans 1–10**.
 
 ### Permanent `உடன்பிறப்பே` rule
 

@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after Publication 14 `பெருமூச்சு` E6. Publication 14 is **TAMIL COMPLETE / FROZEN — P0–P5 PASS; English Articles 1–13 T5 VERIFIED; E6 COMPLETE / PASS; ENGLISH-TRANSLATION COMPLETE; E7 NEXT**. Publication 15 `விடுதலைக் கிளர்ச்சி` remains **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**. Publications 1–13 remain **RELEASE COMPLETE / FROZEN**.
+Handoff refreshed after Publication 14 `பெருமூச்சு` E7 release closeout. Publications **1–14 are RELEASE COMPLETE / FROZEN**. Publication 15 `விடுதலைக் கிளர்ச்சி` is **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**.
 
 ## Repository state
 
@@ -16,7 +16,7 @@ Publication 12 **`ஆறுமாதக் கடுங்காவல்` — R
 
 Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 4/4 VERIFIED; E6 PASS; E7 PASS**. Final English authorities remain: **Throbbing Youth** `46c70fd2bf702a061d35b45383c8c8e0841852d9`; **Arohara to Annamalai!** `1cfce7827fec69de08c98dd78edf4a06a7216a41`; **Poompuhar** `67649c4db83881840137073bafa24d31062fb86c`; **Lamp of Victory!** `083d514b93d58484f49e3193235b9631d995cd8e`.
 
-Publication 14 **`பெருமூச்சு` — TAMIL COMPLETE / FROZEN — P0–P5 PASS; English T0–T5 13/13 VERIFIED; E6 COMPLETE / PASS; ENGLISH-TRANSLATION COMPLETE; E7 NEXT**.
+Publication 14 **`பெருமூச்சு` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 13/13 VERIFIED; E6 PASS; E7 PASS**.
 
 Publication 15 **`விடுதலைக் கிளர்ச்சி` — QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED; introductory verse + 1 main prose work**.
 
@@ -2495,7 +2495,9 @@ Tamil authorities:
 - untranslated Tamil body leakage — **0**
 - Tamil source changes during English work — **0**
 - E6 publication-wide consistency review — **COMPLETE / PASS**
-- English translation — **COMPLETE**
+- E7 English release closeout — **COMPLETE / PASS**
+- English translation — **COMPLETE / RELEASED / FROZEN**
+- Publication 14 overall status — **RELEASE COMPLETE / FROZEN**
 - blockers — **0**
 
 Verified English authorities:
@@ -2522,19 +2524,16 @@ English controls:
 - `publications/perumoochu/translations/en/LEXICON.md`
 - `publications/perumoochu/translations/en/TRANSLATION_REVIEW.md`
 
+## Release authorities
+
+- `publications/perumoochu/translations/en/E6_CONSISTENCY_REVIEW.md`
+- `publications/perumoochu/translations/en/E7_RELEASE_CLOSEOUT.md`
+
 ## Exact next activity
 
-**Publication 14 `பெருமூச்சு` — E7 English release closeout.**
+No further Publication 14 archival or translation activity is pending.
 
-E6 is **COMPLETE / PASS** across all 13 English articles. Current post-E6 authority changes are limited to:
-
-- Article 5 — **A Special Warning to the Public** — `1df139c995b9d3bbbb5f2c242e999964146df6ea`
-- Article 12 — **Think and Understand! Do Not Grow Angry!** — `773c60286ba764ff52bd5ce7be7cf9c53c745aae`
-
-All other Article 1–13 English authorities retain their T5 blobs.
-
-Publication 15 remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** unless explicitly redirected.
-
+Publication 15 `விடுதலைக் கிளர்ச்சி` is next in sequence at **P2 NOT STARTED**.
 # Publication 15 — விடுதலைக் கிளர்ச்சி
 
 Workspace: `publications/viduthalai-kilarcci/`
@@ -2569,6 +2568,8 @@ P1 blockers — **0**.
 
 ## Exact next activity
 
-**Publication 14 `பெருமூச்சு` — E7 English release closeout.**
+**Publication 15 `விடுதலைக் கிளர்ச்சி` — P2 Batch 001, scans 1–10.**
 
-Publication 15 remains queued at **P0–P1 COMPLETE / P2 NOT STARTED** unless the user explicitly redirects work.
+Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` from the first text-bearing page. Source pixels control; do not use OCR, web text, alternate editions, or contextual completion as authority.
+
+If the controlling PDF is not available in the active chat/workspace, obtain the user-supplied source before starting P2.

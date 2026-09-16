@@ -61,4 +61,4 @@ No OCR, web copy, alternate edition or contextual completion may control the Tam
 
 Publication 15 is **QUEUED / INTAKE COMPLETE — P0 PASS; P1 PASS 69/69; P2 NOT STARTED**.
 
-Publication 14 `பெருமூச்சு` remains ahead in sequence. Its exact next activity is **P2 Batch 001 — scans 1–5**. Do not begin Publication 15 P2 unless Publication 14 is advanced or the user explicitly directs parallel processing.
+Publication 14 `பெருமூச்சு` is **RELEASE COMPLETE / FROZEN**. Publication 15 is now next in sequence. Exact next activity: **P2 Batch 001 — scans 1–10**, when explicitly directed and with the controlling source available.

@@ -36,7 +36,7 @@ The publication contains a publisher preface followed by **13** distinct politic
 - P3 — **COMPLETE / PASS — 13/13**
 - P4 — **COMPLETE / PASS**
 - P5 — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
-- English — **E0 COMPLETE / PASS; Articles 1–13 T0–T5 VERIFIED; E6 COMPLETE / PASS; ENGLISH-TRANSLATION COMPLETE; E7 NEXT**
+- English — **COMPLETE / RELEASE CLOSED — T0–T5 13/13 VERIFIED; E6 PASS; E7 PASS**
 
 ## P2 final audit
 
@@ -213,6 +213,26 @@ Authorities:
 - E6 — **COMPLETE / PASS**
 - English translation — **COMPLETE**
 
+## E7 English release closeout
+
+**COMPLETE / PASS — RELEASE COMPLETE / CLOSED**
+
+Authority: `translations/en/E7_RELEASE_CLOSEOUT.md`.
+
+- frozen Tamil authorities — **13/13 unchanged**
+- verified English authorities — **13/13 unchanged after E6**
+- English `translation_status: verified` — **13/13**
+- ordered source comments — **74/74 PASS**
+- E6 — **COMPLETE / PASS**
+- post-E6 English body drift — **0**
+- E7 English body corrections — **0**
+- E7 English metadata corrections — **0**
+- E7 Tamil corrections — **0**
+- unresolved release blockers — **0**
+- Tamil — **COMPLETE / STRICT-REVIEWED / FROZEN**
+- English — **COMPLETE / RELEASED / FROZEN**
+- Publication 14 — **RELEASE COMPLETE / FROZEN**
+
 ## Exact next activity
 
-**E7 — English release closeout for `பெருமூச்சு`.**
+No further Publication 14 archival or translation activity is pending.

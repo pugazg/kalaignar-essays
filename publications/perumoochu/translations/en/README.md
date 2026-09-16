@@ -97,12 +97,30 @@ Do not translate from the raw transcript, OCR, web text, alternate editions or s
 - Tamil source changes — **0**
 - blockers — **0**
 - E6 — **COMPLETE / PASS**
-- English translation — **COMPLETE**
+- E7 release closeout — **COMPLETE / PASS — RELEASE COMPLETE / CLOSED**
+- English translation — **COMPLETE / RELEASED / FROZEN**
 
 Current post-E6 English blobs changed only for Articles 5 and 12:
 - Article 5 — `1df139c995b9d3bbbb5f2c242e999964146df6ea`
 - Article 12 — `773c60286ba764ff52bd5ce7be7cf9c53c745aae`
 
+## E7 English release closeout
+
+**COMPLETE / PASS — RELEASE COMPLETE / CLOSED**
+
+Authority: [`E7_RELEASE_CLOSEOUT.md`](E7_RELEASE_CLOSEOUT.md)
+
+- frozen Tamil authorities — **13/13 unchanged**
+- verified English authorities — **13/13 unchanged after E6**
+- source comments — **74/74 PASS**
+- English body drift after E6 — **0**
+- E7 body corrections — **0**
+- E7 metadata corrections — **0**
+- E7 Tamil corrections — **0**
+- unresolved release blockers — **0**
+- English release — **COMPLETE / CLOSED**
+- Publication 14 overall workflow — **RELEASE COMPLETE / FROZEN**
+
 ## Exact next activity
 
-**E7 — English release closeout for `பெருமூச்சு`.**
+No further Publication 14 English work is pending.

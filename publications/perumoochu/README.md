@@ -14,7 +14,7 @@ Controlling source: `TVA_BOK_0064124_பெருமூச்சு.pdf`
 - P3 article assemblies — **COMPLETE / PASS — 13/13**
 - P4 source audit — **COMPLETE / PASS**
 - P5 strict visual-text-fidelity pass — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
-- English — **E0 COMPLETE / PASS; Articles 1–13 T0–T5 VERIFIED; E6 COMPLETE / PASS; ENGLISH-TRANSLATION COMPLETE; E7 NEXT**
+- English — **COMPLETE / RELEASE CLOSED — T0–T5 13/13 VERIFIED; E6 PASS; E7 PASS**
 - source PDF committed — **No**
 
 ## Printed / catalog identity
@@ -158,7 +158,7 @@ Scans **24–52** were rebuilt after closure review found heuristic baseline seg
 - untranslated Tamil body leakage — **0**
 - Tamil source changes during English work — **0**
 - E6 publication-wide consistency review — **COMPLETE / PASS**
-- English translation — **COMPLETE**
+- English translation — **COMPLETE / RELEASED / FROZEN**
 - blockers — **0**
 - English tracker — `translations/en/README.md`
 - review ledger — `translations/en/TRANSLATION_REVIEW.md`
@@ -180,8 +180,25 @@ Verified English Articles 1–13:
 12. **Think and Understand! Do Not Grow Angry!** — `773c60286ba764ff52bd5ce7be7cf9c53c745aae`
 13. **Boom! Boom! Boom!** — `91ec043f5f47d6fe388d09987505d9cf41a788f2`
 
+## E7 English release closeout
+
+**COMPLETE / PASS — RELEASE COMPLETE / CLOSED**
+
+Authority: [`translations/en/E7_RELEASE_CLOSEOUT.md`](translations/en/E7_RELEASE_CLOSEOUT.md)
+
+- frozen Tamil authorities — **13/13 unchanged**
+- verified English authorities — **13/13 unchanged after E6**
+- E6 — **COMPLETE / PASS**
+- E7 English body changes — **0**
+- E7 English metadata changes — **0**
+- E7 Tamil changes — **0**
+- unresolved release blockers — **0**
+- Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**
+- English translation — **COMPLETE / RELEASED / FROZEN**
+- publication workflow — **RELEASE COMPLETE / FROZEN**
+
 ## Exact next activity
 
-**E7 — English release closeout for `பெருமூச்சு`.**
+No further Publication 14 work is pending.
 
 Publication 15 `விடுதலைக் கிளர்ச்சி` remains queued at **P0–P1 COMPLETE / P2 NOT STARTED**.

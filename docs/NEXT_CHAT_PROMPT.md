@@ -1,144 +1,87 @@
-# NEXT CHAT PROMPT — பெருமூச்சு / English Article 12 T0
+# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P2 Batch 001 scans 1–10
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Frozen publications
 
-Publications **1–13 are RELEASE COMPLETE / FROZEN**. Do not reopen them merely for stylistic polishing, terminology homogenisation, modernisation, or stale prompts.
+Publications **1–14 are RELEASE COMPLETE / FROZEN**.
 
-## Publication 14 — ACTIVE
+Do not reopen them merely for stylistic polishing, terminology homogenisation, modernisation, or stale prompts.
+
+Publication 14 `பெருமூச்சு` is fully closed:
+
+- Tamil P0–P5 — **COMPLETE / PASS**
+- English T0–T5 — **13/13 VERIFIED**
+- E6 — **COMPLETE / PASS**
+- E7 — **COMPLETE / PASS**
+- overall — **RELEASE COMPLETE / FROZEN**
+
+Release authorities:
+
+- `publications/perumoochu/translations/en/E6_CONSISTENCY_REVIEW.md`
+- `publications/perumoochu/translations/en/E7_RELEASE_CLOSEOUT.md`
+
+## Publication 15 — ACTIVE NEXT
 
 Workspace:
 
-`publications/perumoochu/`
+`publications/viduthalai-kilarcci/`
 
-Controlling Tamil source:
+Controlling source:
 
-`TVA_BOK_0064124_பெருமூச்சு.pdf`
+`TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf`
 
-## Tamil archival state — FROZEN
+Source identity:
 
-- P0–P5 — **COMPLETE / PASS**
-- physical scans — **83/83 STRICT-REVIEWED**
-- canonical page records — **83/83 VERIFIED**
-- Tamil article assemblies — **13/13 STRICT-REVIEWED / FROZEN**
-- article body records — **74/74**
-- unresolved fidelity discrepancies — **0**
-- unresolved historical-glyph ambiguities — **0**
-- needs-review / blocked / guessed — **0 / 0 / 0**
+- physical scans — **69**
+- bytes — **101,127,153**
+- SHA-256 — **`444ff76695154b5ee9d53f4647873fde72659a3d52a76aa833fdc502fb518809`**
+- PDF version — **1.4**
+- source cover form — **`விடுதலைக்கிளர்ச்சி`**
+- printed author — **`மு. கருணாநிதி`**
+- publisher — **`திராவிடப் பண்ணை`**
+- edition — **`இரண்டாம் பதிப்பு—1953`**
 
-Final Tamil authority:
+## Current state
 
-`publications/perumoochu/VISUAL_TEXT_FIDELITY_REVIEW.md`
+- P0 — **COMPLETE / PASS**
+- P1 — **COMPLETE / PASS — 69/69**
+- P2 — **NOT STARTED**
+- P3–P5 — **NOT STARTED**
+- English — **BLOCKED until Tamil archival freeze**
+- historical Tamil glyph workflow — **MANDATORY**
 
-Permanent non-regression controls:
+P1 structure:
 
-- **`மந்திரிகள் குலை நடுக்கம்`** — historical `லை` is authoritative;
-- scans 24–52 physical-boundary repair authority — `ebe8b2146eef22ac203f8014367cb78dea2d4b76`;
-- scan 75→76 continuation — **`ஆதரிக்க / வும்—பெரியாருடன்`**;
-- scan 83 heading — **`ஊடுருவி தீட்டியவை:-`**;
-- rejected `உருகி தீட்டியவை:-` is correction-history only.
+- scan 1 — front cover
+- scan 2 — reverse / physical-copy donation label
+- scan 3 — edition / rights / price / printer page
+- scans 4–7 — introductory verse/prologue `வேங்கையை விரட்டும் பாடல்`, I–IV
+- scans 8–68 — main prose work `விடுதலைக் கிளர்ச்சி`
+- scan 69 — advertisement / publisher catalogue
+- separate printed contents page — **none**
 
-## English state
+## Mandatory controls
 
-E0 — **COMPLETE / PASS**
+Read before P2:
 
-Articles **1–11 are T0–T5 VERIFIED**.
+1. root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+2. root `ESSAY_PROCESSING_GUIDE.md`
+3. `publications/viduthalai-kilarcci/P1_SOURCE_STRUCTURE_REVIEW.md`
+4. `publications/viduthalai-kilarcci/README.md`
+5. `publications/viduthalai-kilarcci/audit.md`
+6. root `HANDOVER.md`
 
-Aggregate English checkpoint:
+Source pixels control.
 
-- T0 — **11/13 PASS**
-- T1 — **11/13 COMPLETE**
-- T2 — **11/13 PASS**
-- T3 — **11/13 PASS**
-- T4 — **11/13 PASS**
-- T5 — **11/13 VERIFIED**
-- verified source comments — **64/64 PASS**
-- untranslated Tamil body leakage — **0**
-- omitted Tamil clauses after bilingual review — **0**
-- added substantive English claims after bilingual review — **0**
-- Tamil source changes — **0**
-- blockers — **0**
+Do not use OCR, web text, alternate editions, remembered wording, or contextual completion as transcription authority.
 
-Recently verified Articles 7–11:
-
-| # | Tamil title | Verified English title | Frozen Tamil blob | Verified English blob |
-|---:|---|---|---|---|
-| 7 | `“அஹிம்சா விலாசம்”` | **“Ahimsa Vilasam”** | `12c50fe83ef047ca060669831c82d3e00defc04a` | `9a55d55bef9e68c893c42546ac7dac1bb84ffb18` |
-| 8 | `திண்டிவனம் தீரர்காள்!` | **O Heroes of Tindivanam!** | `bb99717ca388d53bbbffd163f165fc0824ee7f37` | `557927643d1df347e2f8c03971bd501439973863` |
-| 9 | `சேவல் கூவுகிறது!` | **The Rooster Crows!** | `9d1a0e39e45cc1cb94419c5b966f8da415233e37` | `b4e203789117dba4de9c08f2bc25766e807e2160` |
-| 10 | `மாடோட்டிகள்!` | **Cattle-Drivers!** | `ffdce8f466928a5484cc155dbc841394fd6db30c` | `3f96803c1d0b08d287da2e961298c18e4491ea3f` |
-| 11 | `தேர்தல் கோவலன்!` | **Election Kovalan!** | `8b01451de21342eb7df91b3b7b72d5d6d857c67f` | `470e034d7e2bd977dc6e70d61159814090f4110b` |
-
-Durable translation decisions added in Articles 7–11:
-
-- `அஹிம்சா விலாசம்` → **“Ahimsa Vilasam”**
-- `கமண்டலம்` → ***kamandala***
-- `கோயங்கா / கோயாங்கா` → **Koyanga** — source-bearing transliteration only
-- `கனக விசயர்` → **Kanaka Visayar**
-- `விபீஷணர்கள்` → **Vibhishanas**
-- `சுக்ரீவர்கள்` → **Sugrivas**
-- `சேவல் பெட்டி` → **rooster box**
-- `மாட்டுப் பெட்டி` → **cow box**
-- `பரணி` → ***parani***
-- `மாங்கல்யம்` → ***mangalyam***
-- `மாடோட்டி / மாடோட்டிகள்` → **cattle-driver / cattle-drivers**
-- `நீலிக்கண்ணீர்` → **Neeli tears**
-- `வஞ்சிப்பத்தர்` → **Vanjipattar**
-- `சுந்தராங்கதர்கள்` → **Sundarangathars**
-
-English controls:
-
-- `publications/perumoochu/TRANSLATION_PLAN.md`
-- `publications/perumoochu/translations/en/README.md`
-- `publications/perumoochu/translations/en/SOURCE_MAP.md`
-- `publications/perumoochu/translations/en/LEXICON.md`
-- `publications/perumoochu/translations/en/TRANSLATION_REVIEW.md`
-
-## Translation rules
-
-Permanent policy:
-
-`ESSAY_TRANSLATION_GUIDE.md`
-
-Core rule:
-
-> **Translate the language; do not neutralise the voice.**
-
-Use the frozen Tamil article assembly as the sole normal translation authority.
-
-Do not translate from OCR, web text, alternate editions, raw user transcript, superseded P3 blobs, remembered wording, or outside political/historical interpretation.
-
-Preserve source rhetoric, accusation, satire, mockery, repetition, quotation scope, source-chosen organisation names, source-bearing terms, and source page-boundary comments as:
-
-`<!-- Tamil source: scan ... -->`
-
-Do not add present-day political explanation to the English body.
+Record handwriting, donation labels, ageing and show-through separately from printed publication text.
 
 ## Exact next activity
 
-**Article 12 `சிந்தித்துணர்க! சீற்றமுறாதீர்!` — T0 source prerequisite.**
+**P2 Batch 001 — scans 1–10.**
 
-Frozen Tamil authority:
+Create/verify canonical page records in physical scan order, preserving historical glyphs and source wording without modernisation.
 
-`publications/perumoochu/articles/12-sindhiththunarga-seetramuraadheer.md`
-
-Required exact blob:
-
-**`122f5320d683c35267e23b5a667bfd27100fdd3e`**
-
-Steps:
-
-1. fetch live `main` Article 12 Tamil file;
-2. verify exact blob match;
-3. if exact — mark **T0 PASS**;
-4. only then create `translations/en/12-sindhiththunarga-seetramuraadheer.md` and begin T1;
-5. preserve scan 75→76 continuation **`ஆதரிக்க / வும்—பெரியாருடன்`** during translation review;
-6. follow T1 → T2 → T3 → T4 → T5 in order;
-7. update tracker, source map, lexicon, review ledger, README, audit and HANDOVER.
-
-Do not reopen Articles 1–11 unless a genuine frozen-source change requires it.
-
-## Publication 15
-
-`விடுதலைக் கிளர்ச்சி` remains **QUEUED / P0–P1 COMPLETE / P2 NOT STARTED** unless explicitly redirected.
+If the controlling PDF is not available in the active chat/workspace, obtain the user-supplied source before beginning transcription.

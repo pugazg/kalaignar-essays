@@ -38,6 +38,6 @@ The source consists of preliminary verse/prologue material followed by one conti
 
 ## Next
 
-Publication 15 is **QUEUED / P0–P1 COMPLETE**.
+Publication 15 is **QUEUED / P0–P1 COMPLETE / P2 NOT STARTED**.
 
-The active next gate is Publication 14 `பெருமூச்சு` **P2 Batch 001 — scans 1–5**.
+Publication 14 `பெருமூச்சு` is **RELEASE COMPLETE / FROZEN**. The next gate, when explicitly directed, is Publication 15 **P2 Batch 001 — scans 1–10**.
