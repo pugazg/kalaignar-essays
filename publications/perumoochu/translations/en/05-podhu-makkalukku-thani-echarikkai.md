@@ -113,7 +113,7 @@ It is not a dictatorship devoid of progress that moves the DMK—issuing some or
 
 They regard the election as an interim question!
 
-To those who wail, "Alas! The sinners have ruined our fundamental doctrine of money-rule!" the DMK's election policy may look like sheer villainy. We do not care even if it is branded "sheer villainy"; the DMK has declared firmly that it will not depart from the honourable plan it has guarded!
+To those who wail, "Alas! The sinners have ruined our fundamental doctrine of money-rule!" the DMK's election policy may look like rank villainy. We do not care even if it is branded "rank villainy"; the DMK has declared firmly that it will not depart from the honourable plan it has guarded!
 
 About one hundred and fifty people signed the agreement document in accordance with that stand. Of them, the district committees selected about seventy after examining fitness and ability! Those seventy are people who will cooperate with us in the work of recovering our lost country! We have not simply trusted those seventy and handed the question of Dravida Nadu over to them—
 
