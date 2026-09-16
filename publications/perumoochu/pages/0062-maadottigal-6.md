@@ -26,7 +26,7 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 அந்த இன்பச் செய்தியைக் கேட்க, மாடோட்டிகளைத் தோற்கடியுங்கள்!
 
-தோல்வித் தோரணம் கட்டவேண்டும், காங்கிரசார்! திராவிடம் பிரிய - திராவிடப் பிரச்சினைக்கு ஆதரவு தேட - மாடோட்டிகளை மண் கவ்வச் செய்யுங்கள் !
+தோல்வித் தோரணம் கட்டவேண்டும், காங்கிரசார்! திராவிடம் பிரிய—திராவிடப் பிரச்சினைக்கு ஆதரவு தேட—மாடோட்டிகளை மண் கவ்வச் செய்யுங்கள்!
 
 வெல்க திராவிடர்! வாழ்க திராவிடம்!
 
@@ -48,8 +48,11 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 ## P5 strict visual fidelity findings
 
-- P5 direct scan review: `நம் குரல் எழும்பினால்` → source-visible **`நம் குரல் எழும் பின்பு`**.
-- unresolved P5 fidelity discrepancy on this recorded finding — **0**.
+- direct closure-reconciliation against source pixels completed for this scan.
+- final slogan dashes restored to source-visible em dashes.
+- space before final exclamation mark removed.
+- earlier P5 reading **`நம் குரல் எழும் பின்பு`** reconfirmed.
+- unresolved P5 fidelity discrepancy — **0**.
 
 ## P2 நிலை
 
