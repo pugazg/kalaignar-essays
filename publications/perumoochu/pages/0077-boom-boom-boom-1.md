@@ -16,19 +16,19 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 # பூம்! பூம்! பூம்!
 
-அய்யாவுக்கு நல்லகாலம் பிறக்குமா?
+அய்யாவுக்கு நல்லகாலம் பிறக்குமா ?
+பூம், பூம், பூம்!
+பசி போகுமா ?....
 பூம், பூம்,பூம்!
-பசி போகுமா?....
-பூம், பூம்,பூம்!
-பட்டினி தொலையுமா?
+பட்டினி தொலையுமா ?
 பூம், பூம், பூம்!
-பிள்ளை வியாபாரம் நிற்குமா?
+பிள்ளை வியாபாரம் நிற்குமா ?
 பூம், பூம், பூம்!
-தற்கொலைகள் தணியுமா?
+தற்கொலைகள் தணியுமா ?
 பூம், பூம், பூம்!
-தேனும், பாலும் ஓடுமா?
+தேனும், பாலும் ஓடுமா ?
 பூம், பூம், பூம்!
-அப்படின்னா அய்யா, ஓட்டுப் போடுவாரா?
+அப்படின்னு அய்யா, ஓட்டுப் போடுவாரா?
 பூம், பூம், பூம்!
 
 ## அச்சு அமைப்பு
@@ -46,6 +46,14 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 - baseline is non-authoritative; source pixels control.
 - guessed completion — **0**.
+
+## P5 strict visual fidelity findings
+
+- direct closure-reconciliation against source pixels completed for this scan.
+- source spaces before the first six question marks restored.
+- all repeated response lines normalized back to source **`பூம், பூம், பூம்!`**.
+- `அப்படின்னா` → source-visible **`அப்படின்னு`**.
+- unresolved P5 fidelity discrepancy — **0**.
 
 ## P2 நிலை
 
