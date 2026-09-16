@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — பெருமூச்சு / English Article 7 T0
+# NEXT CHAT PROMPT — பெருமூச்சு / English Article 12 T0
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -43,38 +43,49 @@ Permanent non-regression controls:
 
 E0 — **COMPLETE / PASS**
 
-Articles **1–6 are T0–T5 VERIFIED**.
-
-| # | Tamil title | Verified English title | Frozen Tamil blob | Verified English blob |
-|---:|---|---|---|---|
-| 1 | `பெருமூச்சு` | **A Deep Sigh** | `e4da76f9f464f86746e94d488537ad4a7bfc20f8` | `8a441b0c4d33aacd2e61795800de2f95c4804e81` |
-| 2 | `மாளிகை அமைத்திட வாரீர்!` | **Come, Let Us Build the Mansion!** | `1d57a8a54d4b06b0c6fd19a6253661d2a620d1fa` | `ef0be10af34519b868634de64fc67bfde53bc5fb` |
-| 3 | `மந்திரிகள் குலை நடுக்கம்` | **Ministers Tremble in Fear** | `d05169cb394df089ef4f4cbdeefd35c3a563451d` | `3d0e2718db290159e717db23890611f461af1149` |
-| 4 | `வாபஸ் வீரர்கள்!` | **Heroes of Retreat!** | `6ddca33c16fa7ee4f22d3f3f666df168b39c5b40` | `47510c75833b1abd6990871ebc45c9e9eb8ba1db` |
-| 5 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | **A Special Warning to the Public** | `64a63aa5061d5f546f71526889af20baf3dd88e8` | `637fd7fb72126b4b677846839191459616971d60` |
-| 6 | `சிறுவர்கள்` | **Youngsters** | `14501305ff4935d672444459dfe404d51ac97282` | `b2694657339a42c84d932e67ee63684a588245d2` |
+Articles **1–11 are T0–T5 VERIFIED**.
 
 Aggregate English checkpoint:
 
-- T0 — **6/13 PASS**
-- T1 — **6/13 COMPLETE**
-- T2 — **6/13 PASS**
-- T3 — **6/13 PASS**
-- T4 — **6/13 PASS**
-- T5 — **6/13 VERIFIED**
-- verified source comments — **34/34 PASS**
+- T0 — **11/13 PASS**
+- T1 — **11/13 COMPLETE**
+- T2 — **11/13 PASS**
+- T3 — **11/13 PASS**
+- T4 — **11/13 PASS**
+- T5 — **11/13 VERIFIED**
+- verified source comments — **64/64 PASS**
 - untranslated Tamil body leakage — **0**
 - omitted Tamil clauses after bilingual review — **0**
 - added substantive English claims after bilingual review — **0**
 - Tamil source changes — **0**
 - blockers — **0**
 
-Article 6 durable translation decisions:
+Recently verified Articles 7–11:
 
-- `சிறுவர்கள்` → **Youngsters**
-- `அண்ணா` → **Anna**
-- `சாமியார்` → ***swami***
-- `இளம் இதயம்` → **young heart**
+| # | Tamil title | Verified English title | Frozen Tamil blob | Verified English blob |
+|---:|---|---|---|---|
+| 7 | `“அஹிம்சா விலாசம்”` | **“Ahimsa Vilasam”** | `12c50fe83ef047ca060669831c82d3e00defc04a` | `9a55d55bef9e68c893c42546ac7dac1bb84ffb18` |
+| 8 | `திண்டிவனம் தீரர்காள்!` | **O Heroes of Tindivanam!** | `bb99717ca388d53bbbffd163f165fc0824ee7f37` | `557927643d1df347e2f8c03971bd501439973863` |
+| 9 | `சேவல் கூவுகிறது!` | **The Rooster Crows!** | `9d1a0e39e45cc1cb94419c5b966f8da415233e37` | `b4e203789117dba4de9c08f2bc25766e807e2160` |
+| 10 | `மாடோட்டிகள்!` | **Cattle-Drivers!** | `ffdce8f466928a5484cc155dbc841394fd6db30c` | `3f96803c1d0b08d287da2e961298c18e4491ea3f` |
+| 11 | `தேர்தல் கோவலன்!` | **Election Kovalan!** | `8b01451de21342eb7df91b3b7b72d5d6d857c67f` | `470e034d7e2bd977dc6e70d61159814090f4110b` |
+
+Durable translation decisions added in Articles 7–11:
+
+- `அஹிம்சா விலாசம்` → **“Ahimsa Vilasam”**
+- `கமண்டலம்` → ***kamandala***
+- `கோயங்கா / கோயாங்கா` → **Koyanga** — source-bearing transliteration only
+- `கனக விசயர்` → **Kanaka Visayar**
+- `விபீஷணர்கள்` → **Vibhishanas**
+- `சுக்ரீவர்கள்` → **Sugrivas**
+- `சேவல் பெட்டி` → **rooster box**
+- `மாட்டுப் பெட்டி` → **cow box**
+- `பரணி` → ***parani***
+- `மாங்கல்யம்` → ***mangalyam***
+- `மாடோட்டி / மாடோட்டிகள்` → **cattle-driver / cattle-drivers**
+- `நீலிக்கண்ணீர்` → **Neeli tears**
+- `வஞ்சிப்பத்தர்` → **Vanjipattar**
+- `சுந்தராங்கதர்கள்` → **Sundarangathars**
 
 English controls:
 
@@ -106,27 +117,27 @@ Do not add present-day political explanation to the English body.
 
 ## Exact next activity
 
-**Article 7 `“அஹிம்சா விலாசம்”` — T0 source prerequisite.**
+**Article 12 `சிந்தித்துணர்க! சீற்றமுறாதீர்!` — T0 source prerequisite.**
 
 Frozen Tamil authority:
 
-`publications/perumoochu/articles/07-ahimsa-vilasam.md`
+`publications/perumoochu/articles/12-sindhiththunarga-seetramuraadheer.md`
 
 Required exact blob:
 
-**`12c50fe83ef047ca060669831c82d3e00defc04a`**
+**`122f5320d683c35267e23b5a667bfd27100fdd3e`**
 
 Steps:
 
-1. fetch live `main` Article 7 Tamil file;
+1. fetch live `main` Article 12 Tamil file;
 2. verify exact blob match;
 3. if exact — mark **T0 PASS**;
-4. only then create `translations/en/07-ahimsa-vilasam.md` and begin T1;
-5. preserve the quoted-title framing of **`“அஹிம்சா விலாசம்”`** during title review;
+4. only then create `translations/en/12-sindhiththunarga-seetramuraadheer.md` and begin T1;
+5. preserve scan 75→76 continuation **`ஆதரிக்க / வும்—பெரியாருடன்`** during translation review;
 6. follow T1 → T2 → T3 → T4 → T5 in order;
-7. update tracker, source map if a verified English blob is created, living lexicon, review ledger, README, audit and HANDOVER.
+7. update tracker, source map, lexicon, review ledger, README, audit and HANDOVER.
 
-Do not reopen Articles 1–6 unless a genuine frozen-source change requires it.
+Do not reopen Articles 1–11 unless a genuine frozen-source change requires it.
 
 ## Publication 15
 
