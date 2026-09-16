@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P5 strict visual text-fidelity pass
+# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / P5 scans 11–20
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -19,36 +19,34 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - P2 — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 — **COMPLETE / PASS**
-- P5 — **NOT STARTED**
-- English — **BLOCKED until Tamil archival freeze**
+- P5 — **IN PROGRESS — 10/69 STRICT-REVIEWED**
+- English — **BLOCKED until Tamil P5 / frozen**
 
-## P4 authority
+## P5 Batch 001 — CLOSED
 
-`P4_SOURCE_AUDIT.md`
+Scans **1–10** — **10/10 PASS**.
 
-P4 totals:
-- source coverage — **69/69**
-- P3 assemblies — **2/2**
-- canonical body-text repairs — **0**
-- control/documentation repairs — **4**
-- unresolved issues / blockers — **0 / 0**
+Durable P5 corrections:
+- scan 1 — canonical cover now represents both printed **`★`** devices;
+- scan 5 — **`கதறிக் கதறி தொண்டையும்`**;
+- scan 5 — **`கிழித்து எறிந்திருக்கின்றன`**;
+- scan 5 — **`அழுத்தப்பட்ட - பிறகு`**;
+- scan 9 — **`இப்படி-அங்கிங்கெனாதபடி`**.
 
-P4 numbering repair:
-- scans 5–7 show Roman **II–IV**
-- scan 4 has **no visible Roman numeral**
-- do not regress to the older visible-I–IV wording.
+Introductory assembly scans 4–7 is now **STRICT-REVIEWED**.
+Main assembly has scan-9 correction propagated but remains open.
 
-## P5 mandatory rule
+## Mandatory P5 rule
 
-Independently reopen **every one of the 69 physical scans** and compare every visible word, punctuation mark, meaningful spacing, heading, number, folio, physical continuation and historical Tamil glyph identity against the canonical page record.
+Independently reopen every source scan. Check every visible word, punctuation mark, meaningful spacing, heading, number, folio, page continuation and historical-glyph identity.
 
-Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` again, including explicit checks for:
+Historical families:
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-Source pixels control. Do not use the baseline, OCR, web text, alternate editions or context as authority.
-
-Any P5 correction must propagate to the affected page record, P3 assembly, indexes and control documents. Create `VISUAL_TEXT_FIDELITY_REVIEW.md` and close P5 only after all 69 scans are independently rechecked.
+Source pixels control. Do not use OCR, baseline text, web text, alternate editions or contextual completion as authority.
 
 ## Exact next activity
 
-**P5 strict visual text-fidelity review — begin with scans 1–10.**
+**P5 strict visual review — scans 11–20.**
+
+Propagate every confirmed correction to canonical page record, main P3 assembly and all affected controls. Update `VISUAL_TEXT_FIDELITY_REVIEW.md` and commit atomically.

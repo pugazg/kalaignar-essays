@@ -4,10 +4,10 @@ article: "00-vengaiyai-virattum-padalam"
 article_number: 0
 title_ta: "வேங்கையை விரட்டும் படலம்"
 scan_pages: "4-7"
-status: "assembled"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf"
-assembly_method: "assembled verbatim from verified canonical P2 page records; source-visible Roman page numerals omitted from reading copy; physical page-boundary word fragments joined reversibly"
+assembly_method: "assembled verbatim from verified canonical page records; P5 source-pixel fidelity rechecked across scans 4-7; source-visible Roman page numerals omitted from reading copy; physical page-boundary word fragments joined reversibly"
 ---
 
 # வேங்கையை விரட்டும் படலம்
@@ -26,17 +26,17 @@ assembly_method: "assembled verbatim from verified canonical P2 page records; so
 
 பலஹீனனும் சில நேரங்களில் பழிதீர்த்துக் கொள்கிறான். கோழையும் வீரனாகிறான்.
 
-அழுது அழுது, கண்ணீர் காய்ந்து விடுகிறது. கதறிக் கதறித் தொண்டையும் அடைத்து விடுகிறது.
+அழுது அழுது, கண்ணீர் காய்ந்து விடுகிறது. கதறிக் கதறி தொண்டையும் அடைத்து விடுகிறது.
 
 பிறகுதான் கதியற்றவன் தன் கைபலத்தை நம்புகிறான். அதன் விளைவுதான் வேங்கையைப் பசு எதிர்க்கும் விசித்திரம்!
 
-நைந்துபோய் நரம்பும் தோலுமான நாடுகள், தங்கள் நகங்களால் வெறி தீரும் மட்டும் ஆணவக்காரர்களை கிழித்து எரிந்திருக்கின்றன.
+நைந்துபோய் நரம்பும் தோலுமான நாடுகள், தங்கள் நகங்களால் வெறி தீரும் மட்டும் ஆணவக்காரர்களை கிழித்து எறிந்திருக்கின்றன.
 
 வேங்கை வீழ்ந்திருக்கிறது; பசு வென்றிருக்கிறது; கன்று காப்பாற்றப்பட்டிருக்கிறது.
 
 இதுதான் விடுதலைக் கிளர்ச்சி. அழுத்தப்பட்டவன் அலட்சியமாகப் பார்த்திடும் பார்வைதான் விடுதலைக் கிளர்ச்சிக்கு நாள் குறித்திடும் தூதுவன்.
 
-ஏழை - கோழை - மோழை - எப்படிப்பட்ட ரகமாயிருந்தாலும் சரி; வேதனையால் அழுத்தப்பட்ட அழுத்தப்பட்ட-பிறகு, நிலைமை வேங்கையும் பசுவும் தான்.
+ஏழை - கோழை - மோழை - எப்படிப்பட்ட ரகமாயிருந்தாலும் சரி; வேதனையால் அழுத்தப்பட்ட அழுத்தப்பட்ட - பிறகு, நிலைமை வேங்கையும் பசுவும் தான்.
 
 பசுவிடம் விஷமும் வைத்துக்கொண்டாலே வேங்கை விரட்டப்படுகிறது என்றால், யானையின் ஆத்திரத்தைக் கிளப்பி விட்டால்?
 
@@ -82,3 +82,12 @@ assembly_method: "assembled verbatim from verified canonical P2 page records; so
 - modernization / paraphrase — **0**
 - unresolved assembly issues — **0**
 - result — **P3 COMPLETE / PASS**
+
+
+## P5 strict visual-fidelity revalidation
+
+- contributing scans **4–7 / 4/4** independently reopened against source pixels — **PASS**;
+- P5 corrections propagated from scan 5 — **3**;
+- page-boundary joins **யானை / யின்** and **நடைபெறு / வது** revalidated — **PASS**;
+- unresolved fidelity discrepancies — **0**;
+- status — **STRICT-REVIEWED**.

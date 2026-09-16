@@ -63,10 +63,14 @@ Non-word page continuations such as `பிரஞ்சுக் / காலன�
 
 ## Downstream status
 
+- P5 — **IN PROGRESS — 10/69 STRICT-REVIEWED**
+- introductory assembly scans 4–7 revalidated under P5 and is now **STRICT-REVIEWED**
+- current introductory P5 blob — **`c5be16582c2c3bb238cc1bf1ae47f8301173352f`**
+- main assembly has scan-9 P5 correction propagated; current partial-P5 blob — **`018eee7d2044d4151f6064346bc2e7d07a80e7f4`**
 - P4 — **COMPLETE / PASS**
 - P4 authority — `P4_SOURCE_AUDIT.md`
 - P3 assembly blobs above remain the P3 closure authorities until P5 revalidation.
 
 ## Exact next activity
 
-**P5 strict visual text-fidelity pass — all 69 physical scans.**
+**P5 strict visual review — scans 11–20.**

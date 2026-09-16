@@ -41,7 +41,7 @@ Historical glyph guide: `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 - scan 1 — `திராவிடப் 5 பண்ணை` → **`திராவிடப் பண்ணை`**; baseline `Lan` rejected as non-printed artefact
 - scan 3 — `கலைமகள்` → **`கலிமகள்`**; price restored to **`விலை ரூ. 1—0—0`**
 - scan 4 — quote order repaired; historical `றா` identities restore **கொள்கிறான் / வீரனாகிறான்**
-- scan 5 — `கதறி` → **`கதறித்`**; `நாள் தறித்திடும்` → **`நாள் குறித்திடும்`**; `பசுவிடழ்` → **`பசுவிடம்`**; `விஷமம்` → **`விஷமும்`**
+- scan 5 — P5 supersedes the provisional phrase reading: source is **`கதறிக் கதறி தொண்டையும்`**; `நாள் தறித்திடும்` → **`நாள் குறித்திடும்`**; `பசுவிடழ்` → **`பசுவிடம்`**; `விஷமம்` → **`விஷமும்`**; P5 also restores **`கிழித்து எறிந்திருக்கின்றன`** and spacing **`அழுத்தப்பட்ட - பிறகு`**
 - scan 6 — `ஆதம்` → **`ஆகும்`**; `பொமைமிகு` → **`பெருமைமிகு`**
 - scan 7 — `பககத்திலே` → **`பக்கத்திலே`**
 - scan 8 — corrupted baseline phrase repaired to source **`வெறும் எழுத்தாரமல்ல;`** and **`உயிர்களின் எண்ணிக்கை கணக்கிலடங்கா!`**
@@ -275,6 +275,8 @@ Cross-page controls:
 
 ## Downstream status
 
+- P5 — **IN PROGRESS — 10/69 STRICT-REVIEWED**
+- P5 Batch 001 source corrections supersede any conflicting provisional P2 readings on scans 1, 5 and 9
 - P3 — **COMPLETE / PASS — 2/2 assemblies**
 - P3 authority — `P3_PROGRESS.md`
 - article assemblies — `articles/00-vengaiyai-virattum-padalam.md`, `articles/01-viduthalai-kilarcci.md`
@@ -283,4 +285,4 @@ Cross-page controls:
 
 ## Exact next activity
 
-**P5 strict visual text-fidelity pass — all 69 physical scans.**
+**P5 strict visual review — scans 11–20.**

@@ -177,8 +177,26 @@ The source consists of preliminary verse/prologue material followed by one conti
 - blockers — **0**
 - authority — `P4_SOURCE_AUDIT.md`
 
+## P5 Batch 001 — scans 1–10
+
+**COMPLETE / PASS — 10/10 STRICT-REVIEWED**
+
+- source scans independently reopened — **10/10**
+- canonical corrections — **5**
+- unresolved readings — **0**
+- guessed readings — **0**
+- scan 1 — missing first printed **`★`** restored
+- scan 5 — **`கதறிக் கதறித் தொண்டையும்`** → **`கதறிக் கதறி தொண்டையும்`**
+- scan 5 — **`கிழித்து எரிந்திருக்கின்றன`** → **`கிழித்து எறிந்திருக்கின்றன`**
+- scan 5 — **`அழுத்தப்பட்ட-பிறகு`** → source spacing **`அழுத்தப்பட்ட - பிறகு`**
+- scan 9 — **`இப்படி அங்கிங்கெனாதபடி`** → **`இப்படி-அங்கிங்கெனாதபடி`**
+- scans 2–4, 6–8, 10 — **PASS / no canonical text correction**
+- introductory assembly scans 4–7 — **STRICT-REVIEWED**
+- main prose correction from scan 9 propagated; main assembly remains open until scans 11–68 complete
+- authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
+
 ## Next
 
-Publication 15 is **ACTIVE — P0–P4 COMPLETE / PASS; P2 69/69 VERIFIED; P3 2/2 ASSEMBLIES**.
+Publication 15 is **ACTIVE — P0–P4 COMPLETE / PASS; P5 IN PROGRESS — 10/69 STRICT-REVIEWED**.
 
-Next gate: **P5 strict visual text-fidelity pass — all 69 physical scans**.
+Next gate activity: **P5 scans 11–20**.

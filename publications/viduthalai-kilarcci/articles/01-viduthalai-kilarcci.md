@@ -23,7 +23,7 @@ assembly_method: "assembled verbatim from verified canonical P2 page records; ph
 
 நடைமுறைகள் மட்டுமல்ல; கடவுளரின் நிலைமை கூட இதேதான். கடவுளர் சம்மந்தப்பட்ட ஓவியங்களைக் காணும்போது விடுதலைக்கிளர்ச்சியின் சாயல் அங்கே படர்ந்திருப்பது நன்றாகத் தெரிகிறது. கணபதியின் பருத்த தொந்தியையும், பெருத்த தலையையும் தாங்கமுடியாமல் பெருச்சாளி கஷ்டப்படுகிறது. முருகனின் திருவுருவத்தை சித்தரிக்கும் ஓவியத்திலே மயிலின் காலில் தொங்கும் பாம்பு விடுதலைக்காக கிளர்ச்சி நடத்துகிறது. மயிலோ வள்ளியையும் தெய்வானையையும் சேர்த்து சுமக்க முடியாமல் விடுதலைக் கிளர்ச்சி நடத்துகிறது. வள்ளி-தெய்வானைகளோ முருகனின் பன்னிரு கைகளின் பலமான அணைப்பை சகிக்க முடியாமல் விடுதலைக் கிளர்ச்சி நடத்துகிறார்கள். முருகனோ; பாவம் பக்தர்களிடமிருந்து விடுதலைபெற கிளர்ச்சி நடத்துகிறார்.
 
-இப்படி அங்கிங்கெனாதபடி எங்கெங்கும் விடுதலைக் கிளர்ச்சியின் நிழல் தெரிந்து கொண்டிருக்கிறது.
+இப்படி-அங்கிங்கெனாதபடி எங்கெங்கும் விடுதலைக் கிளர்ச்சியின் நிழல் தெரிந்து கொண்டிருக்கிறது.
 
 பல்வேறிடங்களிலே பல்வேறு பெயர்களிருக்கலாம்; அது மொழி, இடம் இவைகளைப் பொருத்து மாறுபடுமே தவிர தன்மையில் விடுதலைக் கிளர்ச்சியேதான்.
 
@@ -746,3 +746,11 @@ assembly_method: "assembled verbatim from verified canonical P2 page records; ph
 - modernization / paraphrase — **0**
 - unresolved assembly issues — **0**
 - result — **P3 COMPLETE / PASS**
+
+
+## P5 partial strict visual review
+
+- scans **8–10 / 61** contributing main-work scans independently reopened — **PASS after propagation**;
+- scan 9 punctuation correction propagated — **`இப்படி-அங்கிங்கெனாதபடி`**;
+- remaining main-work scans **11–68** still require P5 review;
+- article status remains **assembled**, not frozen, until all contributing scans pass P5.

@@ -13,7 +13,7 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - P2 page-level transcription — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 article assembly — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 source audit — **COMPLETE / PASS**
-- P5 strict visual-text-fidelity pass — **NOT STARTED**
+- P5 strict visual-text-fidelity pass — **IN PROGRESS — 10/69 STRICT-REVIEWED**
 - English — **BLOCKED until Tamil archival layer freezes**
 - source PDF committed — **No**
 
@@ -108,8 +108,20 @@ Authority: `P2_PROGRESS.md`.
 - blockers — **0**
 - authority — `P4_SOURCE_AUDIT.md`
 
+## P5 strict visual-text-fidelity review
+
+Authority: `VISUAL_TEXT_FIDELITY_REVIEW.md`.
+
+- Batch 001 — scans **1–10** — **COMPLETE / PASS**
+- cumulative P5 coverage — **10/69**
+- unresolved P5 readings — **0**
+- canonical corrections propagated — **5**
+- introductory assembly scans 4–7 — **STRICT-REVIEWED**
+- main prose P5 coverage — **3/61 scans** (8–10)
+- English remains **BLOCKED** until P5 closes.
+
 ## Exact next activity
 
-**P5 strict visual text-fidelity pass — all 69 physical scans.**
+**P5 strict visual review — scans 11–20.**
 
 Use the baseline only as a comparison aid. Verify every word, punctuation mark, page boundary and historical glyph against source pixels.

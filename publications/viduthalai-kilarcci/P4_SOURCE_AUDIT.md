@@ -176,3 +176,11 @@ P4 does **not** claim the final strict visual reinspection required by `ESSAY_PR
 ## Next gate
 
 **P5 — strict visual text-fidelity pass over all 69 physical scans.**
+
+
+## Downstream P5 state
+
+- P5 — **IN PROGRESS — 10/69 STRICT-REVIEWED**
+- P5 Batch 001 scans 1–10 found source-supported corrections after P4; these do not invalidate the P4 structure/completeness result.
+- current P5 authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
+- next P5 range — **scans 11–20**.

@@ -16,6 +16,8 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 
 # விடுதலைக்கிளர்ச்சி
 
+★
+
 மு.கருணாநிதி
 
 ★
@@ -48,8 +50,16 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 - baseline `திராவிடப் 5 பண்ணை` → source **`திராவிடப் பண்ணை`**.
 - cover title retained exactly as **`விடுதலைக்கிளர்ச்சி`** without inserting a space.
 
+## P5 strict visual fidelity findings
+
+- P5 source-pixel recheck found one omitted printed device in the canonical body.
+- old canonical reading — title followed directly by **`மு.கருணாநிதி`**, with only one printed **`★`** represented.
+- source-visible reading — **two printed `★` devices**, one between title and author and one between author and publisher.
+- textual wording corrections — **0**.
+- unresolved P5 readings — **0**.
+
 ## P2 நிலை
 
-**verified** — scan 1 direct source-pixel comparison complete; guessed readings **0**; unresolved printed-text readings **0**.
+**verified** — scan 1 canonical printed layer corrected under P5; guessed readings **0**; unresolved printed-text readings **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 1 -->

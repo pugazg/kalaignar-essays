@@ -18,7 +18,7 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 
 நடைமுறைகள் மட்டுமல்ல; கடவுளரின் நிலைமை கூட இதேதான். கடவுளர் சம்மந்தப்பட்ட ஓவியங்களைக் காணும்போது விடுதலைக்கிளர்ச்சியின் சாயல் அங்கே படர்ந்திருப்பது நன்றாகத் தெரிகிறது. கணபதியின் பருத்த தொந்தியையும், பெருத்த தலையையும் தாங்கமுடியாமல் பெருச்சாளி கஷ்டப்படுகிறது. முருகனின் திருவுருவத்தை சித்தரிக்கும் ஓவியத்திலே மயிலின் காலில் தொங்கும் பாம்பு விடுதலைக்காக கிளர்ச்சி நடத்துகிறது. மயிலோ வள்ளியையும் தெய்வானையையும் சேர்த்து சுமக்க முடியாமல் விடுதலைக் கிளர்ச்சி நடத்துகிறது. வள்ளி-தெய்வானைகளோ முருகனின் பன்னிரு கைகளின் பலமான அணைப்பை சகிக்க முடியாமல் விடுதலைக் கிளர்ச்சி நடத்துகிறார்கள். முருகனோ; பாவம் பக்தர்களிடமிருந்து விடுதலைபெற கிளர்ச்சி நடத்துகிறார்.
 
-இப்படி அங்கிங்கெனாதபடி எங்கெங்கும் விடுதலைக் கிளர்ச்சியின் நிழல் தெரிந்து கொண்டிருக்கிறது.
+இப்படி-அங்கிங்கெனாதபடி எங்கெங்கும் விடுதலைக் கிளர்ச்சியின் நிழல் தெரிந்து கொண்டிருக்கிறது.
 
 ## அச்சு அமைப்பு
 
@@ -43,8 +43,14 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 - historical-looking baseline form around **நன்றாகத்** resolved from source pixels.
 - no external mythological wording or explanatory gloss was introduced.
 
+## P5 strict visual fidelity findings
+
+- **`இப்படி அங்கிங்கெனாதபடி`** → source **`இப்படி-அங்கிங்கெனாதபடி`**.
+- all other visible words, punctuation, folio and continuation **`தெரிந் / தும்`** rechecked — **PASS**.
+- unresolved P5 readings — **0**.
+
 ## P2 நிலை
 
-**verified** — scan 9 direct word-by-word source-pixel comparison complete; guessed readings **0**; unresolved readings **0**.
+**verified** — scan 9 canonical text corrected under P5; guessed readings **0**; unresolved readings **0**.
 
 <!-- மூல ஸ்கேன் பக்கம்: 9; அச்சுப் பக்கம்: 8 -->

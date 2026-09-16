@@ -18,7 +18,7 @@ Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPL
 
 Publication 14 **`பெருமூச்சு` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 13/13 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0 PASS; P1 PASS 69/69; P2 COMPLETE / PASS — 69/69 VERIFIED; introductory unit + 1 main prose work**.
+Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0–P4 PASS; P5 IN PROGRESS — 10/69 STRICT-REVIEWED**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2559,7 +2559,7 @@ Workspace: `publications/viduthalai-kilarcci/`
 - P2 — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 — **COMPLETE / PASS**
-- P5 — **NOT STARTED**
+- P5 — **IN PROGRESS — 10/69 STRICT-REVIEWED**
 - English — **BLOCKED until Tamil P5 / frozen**
 - historical Tamil glyph workflow — **MANDATORY**
 
@@ -2591,7 +2591,7 @@ Durable Batch-001 source corrections include:
 - scan 3 printer line — **`கலிமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**
 - scan 4 title — **`வேங்கையை விரட்டும் படலம்`**
 - scan 4 historical identities — **`கொள்கிறான் / வீரனாகிறான்`**
-- scan 5 — **`கதறித்`**, **`நம்புகிறான்`**, **`நாள் குறித்திடும்`**, **`பசுவிடம்`**, **`விஷமும்`**, **`என்றால்`**
+- scan 5 — P5 source reading **`கதறிக் கதறி தொண்டையும்`**, **`கிழித்து எறிந்திருக்கின்றன`**, **`அழுத்தப்பட்ட - பிறகு`**; also **`நம்புகிறான்`**, **`நாள் குறித்திடும்`**, **`பசுவிடம்`**, **`விஷமும்`**, **`என்றால்`**
 - scan 6 — **`விளைவு என்ன ஆகும்?`**, **`பெருமைமிகு திராவிடம்`**
 - scan 7 — **`பக்கத்திலே`**
 - scan 8 — source **`வெறும் எழுத்தாரமல்ல;`** separated correctly from later **`உயிர்களின் எண்ணிக்கை கணக்கிலடங்கா!`**
@@ -2687,8 +2687,24 @@ P3 assembly blobs at closure:
 
 P4 documentation repair: earlier control wording implying visible Roman **I–IV** across scans 4–7 is corrected. Canonical P2 evidence shows **II–IV on scans 5–7** and no visible Roman numeral on scan 4.
 
+## P5 Batch 001 — scans 1–10
+
+**COMPLETE / PASS — 10/10 STRICT-REVIEWED**
+
+Durable P5 corrections:
+- scan 1 — restore first printed **`★`** so both cover star devices are represented
+- scan 5 — **`கதறிக் கதறி தொண்டையும்`**
+- scan 5 — **`கிழித்து எறிந்திருக்கின்றன`**
+- scan 5 — source spacing **`அழுத்தப்பட்ட - பிறகு`**
+- scan 9 — **`இப்படி-அங்கிங்கெனாதபடி`**
+
+Propagation:
+- introductory assembly scans 4–7 — **STRICT-REVIEWED**, current blob **`c5be16582c2c3bb238cc1bf1ae47f8301173352f`**
+- main assembly scan-9 correction propagated; current partial-P5 blob **`018eee7d2044d4151f6064346bc2e7d07a80e7f4`**
+- P5 unresolved — **0**
+
 ## Exact next activity
 
-**P5 strict visual text-fidelity pass — all 69 physical scans.**
+**P5 strict visual review — scans 11–20.**
 
 Use `viduthalai_kilarchi.md` only as a baseline comparison aid. Source scan pixels remain controlling. Apply the historical-glyph guide word-by-word and preserve page-boundary fragments exactly.
