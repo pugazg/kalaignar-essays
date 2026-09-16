@@ -13,7 +13,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - Tamil prerequisite — **COMPLETE / STRICT-REVIEWED / FROZEN**
 - translation identity — **project-created English translation**
 - E0 — **COMPLETE / PASS**
-- T0 — **5/13 PASS**
+- T0 — **6/13 PASS**
 - T1 — **5/13 COMPLETE**
 - T2 — **5/13 PASS**
 - T3 — **5/13 PASS**
@@ -36,7 +36,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 | 3 | `மந்திரிகள் குலை நடுக்கம்` | **Ministers Tremble in Fear** | `d05169cb394df089ef4f4cbdeefd35c3a563451d` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `3d0e2718db290159e717db23890611f461af1149` |
 | 4 | `வாபஸ் வீரர்கள்!` | **Heroes of Retreat!** | `6ddca33c16fa7ee4f22d3f3f666df168b39c5b40` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `47510c75833b1abd6990871ebc45c9e9eb8ba1db` |
 | 5 | `பொது மக்களுக்குத் தனி எச்சரிக்கை` | **A Special Warning to the Public** | `64a63aa5061d5f546f71526889af20baf3dd88e8` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED | `637fd7fb72126b4b677846839191459616971d60` |
-| 6 | `சிறுவர்கள்` | TBD | `14501305ff4935d672444459dfe404d51ac97282` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | — |
+| 6 | `சிறுவர்கள்` | TBD | `14501305ff4935d672444459dfe404d51ac97282` | PASS | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | — |
 | 7 | `“அஹிம்சா விலாசம்”` | TBD | `12c50fe83ef047ca060669831c82d3e00defc04a` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | — |
 | 8 | `திண்டிவனம் தீரர்காள்!` | TBD | `bb99717ca388d53bbbffd163f165fc0824ee7f37` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | — |
 | 9 | `சேவல் கூவுகிறது!` | TBD | `9d1a0e39e45cc1cb94419c5b966f8da415233e37` | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | NOT STARTED | — |
@@ -66,8 +66,15 @@ Verified page records / source scans may be consulted only to resolve source-wit
 
 Do not translate from the raw transcript, OCR, web text, alternate editions or superseded P3 blobs.
 
+## Article 6 T0 checkpoint
+
+- live `main` Tamil blob — **`14501305ff4935d672444459dfe404d51ac97282`**
+- required frozen blob — **`14501305ff4935d672444459dfe404d51ac97282`**
+- exact blob match — **PASS**
+- Tamil source changes — **0**
+- English body file created during T0 — **No**
+- blockers — **0**
+
 ## Exact next activity
 
-**Article 6 `சிறுவர்கள்` — T0 source prerequisite.**
-
-Require live `main` to match frozen Tamil blob **`14501305ff4935d672444459dfe404d51ac97282`** before any English body draft for Article 6 is created.
+**Article 6 `சிறுவர்கள்` — T1 close paragraph-by-paragraph English draft.**
