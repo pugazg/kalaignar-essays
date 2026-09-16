@@ -353,7 +353,7 @@ assembly_method: "assembled verbatim from verified canonical P2 page records; ph
 
 உயர்ந்ததாக எண்ணிக் கொண்டு ஜாதியின் பெயரால், மதத்தின் பெயரால், ஆண்டவன் பெயரால் உன்மத்தம் பிடித்தலைந்த சுயநல வெறியை உடைத்து நொறுக்கி, திராவிட சமுதாயம் உய்ய வழி வகுத்திட்ட நாம் அந்தக்காலந் தொட்டு இந்தக் காலம் வரையிலே துரோகிகள் என்றே அழைக்கப்படுகிறோம்.
 
-நான் ஊகிக்கிறேன் நண்பர்களே, தமிழ் அகராதியிலேயே ஒரு மாற்றம் ஏற்படுமென்று! துரோகி என்றால் தூய்மையாவன் என்று பொருள் சொல்லப்போகிறது, வருங்கால அகராதி.
+நான் ஊகிக்கிறேன் நண்பர்களே, தமிழ் அகராதியிலேயே ஒரு மாற்றம் ஏற்படுமென்று! துரோகி என்றால் தூய்மையாவன் என்று பொருள் சொல்லப் போகிறது, வருங்கால அகராதி.
 
 வெண் புறாவைப் பார்த்து வல்லூறு வல்லூறு என்று வர்ணித்துக் கொண்டிருந்தால் சில பல ஆண்டுகளுக்குப் பிறகு,
 
@@ -397,7 +397,7 @@ assembly_method: "assembled verbatim from verified canonical P2 page records; ph
 
 இத்தகைய நேர்மையற்ற போக்கிலிருந்து திராவிடம் விடுதலை பெறவேண்டாமா? விடுதலைக்கிளர்ச்சி இன்னும் பலமாக நடைபெற வேண்டாமா?
 
-விடுதலைக் கிளர்ச்சி சுலபமான தல்லவே. சொன்னதும் வெற்றி என்ற அளவில் சுருக்கமாக முடிந்துவிடக் கூடியதல்லவே.
+விடுதலைக் கிளர்ச்சி சுலபமான தல்லவே. சொன்னதும் வெற்றி என்ற அளவில் சுருக்கமாக முடிந்து விடக் கூடியதல்லவே.
 
 விளைவு சுவைதருமே தவிர அதற்கான முயற்சிகள் சொல்லொணா வேதனை மிக்கவை.
 
@@ -750,7 +750,7 @@ assembly_method: "assembled verbatim from verified canonical P2 page records; ph
 
 ## P5 partial strict visual review
 
-- scans **8–10 / 61** contributing main-work scans independently reopened — **PASS after propagation**;
-- scan 9 punctuation correction propagated — **`இப்படி-அங்கிங்கெனாதபடி`**;
-- remaining main-work scans **11–68** still require P5 review;
+- scans **8–50 / 61** contributing main-work scans independently reopened — **PASS after propagation**;
+- all P5 source corrections through scan 50 are propagated into this assembly, including scan 43 **`சொல்லப் போகிறது`** and scan 46 **`முடிந்து விடக் கூடியதல்லவே`**;
+- remaining main-work scans **51–68** still require P5 review;
 - article status remains **assembled**, not frozen, until all contributing scans pass P5.

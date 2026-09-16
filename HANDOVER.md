@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after Publication 15 `விடுதலைக் கிளர்ச்சி` P2 Batch 001. Publications **1–14 are RELEASE COMPLETE / FROZEN**. Publication 15 is **ACTIVE — P0 PASS; P1 PASS 69/69; P2 COMPLETE / PASS — 69/69 VERIFIED**.
+Handoff refreshed after Publication 15 `விடுதலைக் கிளர்ச்சி` P5 Batch 005. Publications **1–14 are RELEASE COMPLETE / FROZEN**. Publication 15 is **ACTIVE — P0–P4 PASS; P5 IN PROGRESS — 50/69 STRICT-REVIEWED**.
 
 ## Repository state
 
@@ -18,7 +18,7 @@ Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPL
 
 Publication 14 **`பெருமூச்சு` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 13/13 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0–P4 PASS; P5 IN PROGRESS — 40/69 STRICT-REVIEWED**.
+Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0–P4 PASS; P5 IN PROGRESS — 50/69 STRICT-REVIEWED**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2742,8 +2742,20 @@ Current partial-P5 main assembly blob — **`04f59a29d1e957dcd6ad536020cd54058d2
 
 Current partial-P5 main assembly blob — **`ab1fc1d83b60b79088faa679904c1eb71057a64c`**.
 
+## P5 Batch 005 — scans 41–50
+
+**COMPLETE / PASS — 10/10 STRICT-REVIEWED**
+
+- scan 43 — source meaningful spacing **`சொல்லப் போகிறது`**
+- scan 46 — source meaningful spacing **`முடிந்து விடக் கூடியதல்லவே`**
+- scans 41–42, 44–45 and 47–50 — **PASS / no canonical change**
+- cumulative P5 — **50/69**
+- unresolved — **0**
+
+Current partial-P5 main assembly blob — **`9a5df079233369bd02a1687d9d44f832fc3ef3b8`**.
+
 ## Exact next activity
 
-**P5 strict visual review — scans 41–50.**
+**P5 strict visual review — scans 51–60.**
 
 Use `viduthalai_kilarchi.md` only as a baseline comparison aid. Source scan pixels remain controlling. Apply the historical-glyph guide word-by-word and preserve page-boundary fragments exactly.

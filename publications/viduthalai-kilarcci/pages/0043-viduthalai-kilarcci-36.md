@@ -14,7 +14,7 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 
 # அச்சு உரை
 
-நான் ஊகிக்கிறேன் நண்பர்களே, தமிழ் அகராதியிலேயே ஒரு மாற்றம் ஏற்படுமென்று! துரோகி என்றால் தூய்மையாவன் என்று பொருள் சொல்லப்போகிறது, வருங்கால அகராதி.
+நான் ஊகிக்கிறேன் நண்பர்களே, தமிழ் அகராதியிலேயே ஒரு மாற்றம் ஏற்படுமென்று! துரோகி என்றால் தூய்மையாவன் என்று பொருள் சொல்லப் போகிறது, வருங்கால அகராதி.
 
 வெண் புறாவைப் பார்த்து வல்லூறு வல்லூறு என்று வர்ணித்துக் கொண்டிருந்தால் சில பல ஆண்டுகளுக்குப் பிறகு,
 
@@ -48,6 +48,12 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 - baseline accusative forms in the rhetorical sequence were corrected to the source nominative plural forms.
 - source **துரோகி யென்றால்** retained.
 - scan boundary **போக் / கிலே** preserved.
+
+## P5 strict visual fidelity findings
+
+- meaningful source spacing restored: **`சொல்லப்போகிறது`** → **`சொல்லப் போகிறது`**.
+- all other visible words, punctuation, folio, historical glyphs and terminal page-boundary fragment **`போக்`** rechecked — **PASS**.
+- unresolved P5 readings — **0**.
 
 ## P2 நிலை
 

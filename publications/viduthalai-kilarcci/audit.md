@@ -237,8 +237,21 @@ The source consists of preliminary verse/prologue material followed by one conti
 - unresolved readings — **0**
 - authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
 
+## P5 Batch 005 — scans 41–50
+
+**COMPLETE / PASS — 10/10 STRICT-REVIEWED**
+
+- source scans independently reopened — **10/10**
+- canonical corrections — **2**
+- scan 43 — **`சொல்லப்போகிறது`** → source **`சொல்லப் போகிறது`**
+- scan 46 — **`முடிந்துவிடக் கூடியதல்லவே`** → source **`முடிந்து விடக் கூடியதல்லவே`**
+- scans 41–42, 44–45 and 47–50 — no canonical text changes
+- cumulative P5 progress — **50/69**
+- unresolved readings — **0**
+- authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
+
 ## Next
 
-Publication 15 is **ACTIVE — P0–P4 COMPLETE / PASS; P5 IN PROGRESS — 10/69 STRICT-REVIEWED**.
+Publication 15 is **ACTIVE — P0–P4 COMPLETE / PASS; P5 IN PROGRESS — 50/69 STRICT-REVIEWED**.
 
-Next gate activity: **P5 scans 11–20**.
+Next gate activity: **P5 scans 51–60**.

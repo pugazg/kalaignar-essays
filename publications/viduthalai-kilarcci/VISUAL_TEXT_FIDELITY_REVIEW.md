@@ -10,15 +10,16 @@ P5 is the independent final strict visual word-by-word / punctuation-by-punctuat
 
 ## Current state
 
-**IN PROGRESS — 40/69 physical scans STRICT-REVIEWED**
+**IN PROGRESS — 50/69 physical scans STRICT-REVIEWED**
 
 - Batch 001 — scans **1–10** — **COMPLETE / PASS**
 - Batch 002 — scans **11–20** — **COMPLETE / PASS**
 - Batch 003 — scans **21–30** — **COMPLETE / PASS**
 - Batch 004 — scans **31–40** — **COMPLETE / PASS**
+- Batch 005 — scans **41–50** — **COMPLETE / PASS**
 - unresolved P5 readings — **0**
 - guessed readings — **0**
-- next range — **41–50**
+- next range — **51–60**
 
 ## Batch 001 — scans 1–10
 
@@ -97,13 +98,30 @@ Batch-003 canonical corrections — **2**.
 
 Batch-004 canonical corrections — **4**.
 
+## Batch 005 — scans 41–50
+
+| Scan | Result | Canonical correction |
+|---:|---|---|
+| 41 | PASS | none |
+| 42 | PASS | none |
+| 43 | PASS after correction | `சொல்லப்போகிறது` → **`சொல்லப் போகிறது`** |
+| 44 | PASS | none |
+| 45 | PASS | none |
+| 46 | PASS after correction | `முடிந்துவிடக் கூடியதல்லவே` → **`முடிந்து விடக் கூடியதல்லவே`** |
+| 47 | PASS | none |
+| 48 | PASS | none |
+| 49 | PASS | none |
+| 50 | PASS | none |
+
+Batch-005 canonical corrections — **2**.
+
 ## Historical Tamil glyph audit
 
 Mandatory historical families were explicitly rechecked where present:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Batch-001/002/003/004 cumulative result:
+Batch-001/002/003/004/005 cumulative result:
 
 - unresolved historical-glyph ambiguity — **0**
 - global modernization / normalization — **0**
@@ -120,10 +138,14 @@ Earlier Batch-001 corrected canonical page blobs:
 - scan 5 — `0ddbde56884c89a499dae15305fd2f7c839a384d`
 - scan 9 — `5ffa57c44a854b333ed737257fe533662d2f4560`
 
+Batch-005 corrected canonical page blobs:
+- scan 43 — `5e8e57d962ffc8973dcd614bf70adcae9d14ca00`
+- scan 46 — `6bc56e1e16bbd2de3b606c47a749539b570df6d5`
+
 Assembly propagation:
 - `articles/00-vengaiyai-virattum-padalam.md` — scans 4–7 fully rechecked; **STRICT-REVIEWED** — blob `c5be16582c2c3bb238cc1bf1ae47f8301173352f`
-- `articles/01-viduthalai-kilarcci.md` — scans 8–40 strict-reviewed with all P5 corrections propagated; P5 is still partial — blob `ab1fc1d83b60b79088faa679904c1eb71057a64c`
+- `articles/01-viduthalai-kilarcci.md` — scans 8–50 strict-reviewed with all P5 corrections propagated; P5 is still partial — blob `9a5df079233369bd02a1687d9d44f832fc3ef3b8`
 
 ## Exact next activity
 
-**P5 scans 41–50.**
+**P5 scans 51–60.**

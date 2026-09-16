@@ -275,9 +275,9 @@ Cross-page controls:
 
 ## Downstream status
 
-- P5 — **IN PROGRESS — 40/69 STRICT-REVIEWED**
-- P5 Batches 001–003 source corrections supersede any conflicting provisional P2 readings through scan 30
-- additional P5 controls: scan 3 **`கலைமகள்`**, scan 13 **`வீட்டற்றவராய்`**, scan 28 **`நாம் சொல்வதை`**, scan 30 **`கூடிக் குலாவிடவேண்டுமாம்`**
+- P5 — **IN PROGRESS — 50/69 STRICT-REVIEWED**
+- P5 Batches 001–005 source corrections supersede any conflicting provisional P2 readings through scan 50
+- additional P5 controls include scan 3 **`கலைமகள்`**, scan 13 **`வீட்டற்றவராய்`**, scan 28 **`நாம் சொல்வதை`**, scan 30 **`கூடிக் குலாவிடவேண்டுமாம்`**, scan 31 **`நாடுகளின்`**, scan 32 **`உ. வெ.`**, scan 39 **`இருந்தாலும், / பாரதமணித்திருநாடு!`**, scan 43 **`சொல்லப் போகிறது`**, scan 46 **`முடிந்து விடக் கூடியதல்லவே`**
 - P3 — **COMPLETE / PASS — 2/2 assemblies**
 - P3 authority — `P3_PROGRESS.md`
 - article assemblies — `articles/00-vengaiyai-virattum-padalam.md`, `articles/01-viduthalai-kilarcci.md`
@@ -286,4 +286,4 @@ Cross-page controls:
 
 ## Exact next activity
 
-**P5 strict visual review — scans 41–50.**
+**P5 strict visual review — scans 51–60.**

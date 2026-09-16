@@ -18,7 +18,7 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 
 இத்தகைய நேர்மையற்ற போக்கிலிருந்து திராவிடம் விடுதலை பெறவேண்டாமா? விடுதலைக்கிளர்ச்சி இன்னும் பலமாக நடைபெற வேண்டாமா?
 
-விடுதலைக் கிளர்ச்சி சுலபமான தல்லவே. சொன்னதும் வெற்றி என்ற அளவில் சுருக்கமாக முடிந்துவிடக் கூடியதல்லவே.
+விடுதலைக் கிளர்ச்சி சுலபமான தல்லவே. சொன்னதும் வெற்றி என்ற அளவில் சுருக்கமாக முடிந்து விடக் கூடியதல்லவே.
 
 விளைவு சுவைதருமே தவிர அதற்கான முயற்சிகள் சொல்லொணா வேதனை மிக்கவை.
 
@@ -46,6 +46,12 @@ transcription_method: "direct word-by-word visual comparison with source scan; u
 - source spacing **சுலபமான தல்லவே** retained rather than normalized.
 - baseline **ஆயிரக்காணக்கான** corrected from source pixels to **ஆயிரக்கணக்கான**.
 - no modern spelling substitution was made for **காந்தீயம்** or **சியாங்சேனையும்**.
+
+## P5 strict visual fidelity findings
+
+- meaningful source spacing restored: **`முடிந்துவிடக் கூடியதல்லவே`** → **`முடிந்து விடக் கூடியதல்லவே`**.
+- all other visible words, punctuation, folio and historical glyphs rechecked — **PASS**.
+- unresolved P5 readings — **0**.
 
 ## P2 நிலை
 

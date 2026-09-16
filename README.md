@@ -39,7 +39,7 @@ Workspace: `publications/viduthalai-kilarcci/`
 - P2 — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 — **COMPLETE / PASS**
-- P5 — **IN PROGRESS — 40/69 STRICT-REVIEWED**
+- P5 — **IN PROGRESS — 50/69 STRICT-REVIEWED**
 - English — **BLOCKED until Tamil archival freeze**
 - historical Tamil glyph workflow — **MANDATORY**
 
@@ -50,7 +50,7 @@ Verified structure:
 - scans 8–68 — main prose work `விடுதலைக் கிளர்ச்சி`
 - scan 69 — publisher advertisement / catalogue
 
-P2 Batches 001–007 scans **1–69** are **COMPLETE / PASS — 69/69 VERIFIED**. P3 is **COMPLETE / PASS — 2/2 assemblies**. P4 is **COMPLETE / PASS**. P5 Batch 001 scans **1–10** are **COMPLETE / PASS — 10/69 STRICT-REVIEWED**. Exact next activity: **P5 scans 11–20**.
+P2 Batches 001–007 scans **1–69** are **COMPLETE / PASS — 69/69 VERIFIED**. P3 is **COMPLETE / PASS — 2/2 assemblies**. P4 is **COMPLETE / PASS**. P5 Batches 001–005 scans **1–50** are **COMPLETE / PASS — 50/69 STRICT-REVIEWED**. Exact next activity: **P5 scans 51–60**.
 
 ### Permanent `உடன்பிறப்பே` rule
 
