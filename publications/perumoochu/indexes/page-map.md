@@ -18,7 +18,7 @@
 | 24–36 | body article | `பொது மக்களுக்குத் தனி எச்சரிக்கை` |
 | 37–40 | body article | `சிறுவர்கள்` |
 | 41–48 | body article | `அஹிம்சா விலாசம்` |
-| 49–52 | body article | `திண்டிவனம் தீரர்கள்!` |
+| 49–52 | body article | `திண்டிவனம் தீரர்காள்!` |
 | 53–56 | body article | `சேலம் கூவுகிறது!` |
 | 57–62 | body article | `மாட்டோட்டிகள்!` |
 | 63–70 | body article | `தேர்தல் கோமாளி!` |
@@ -66,16 +66,20 @@ Every one of the **83 physical scans** requires its own canonical page record, i
 
 ## P2 progress
 
-- scans **1–23** — **VERIFIED / PASS**
+- scans **1–52** — **VERIFIED / PASS**
 - front matter / physical-copy evidence — **1–4 COMPLETE**
 - publisher preface `மூச்சினிடையே!` — **5–6 COMPLETE**
-- Article 1 `பெருமூச்சு` — **7–10 COMPLETE**
-- Article 2 `மாளிகை அமைத்திட வாரீர்!` — **11–16 COMPLETE**
-- Article 3 `மந்திரிகள் குலை நடுக்கம்` — **17–20 COMPLETE**
-- Article 4 `வாபஸ் வீரர்கள்!` — **21–23 COMPLETE**
-- verified page records — **23/83**
+- `பெருமூச்சு` — **7–10 COMPLETE**
+- `மாளிகை அமைத்திட வாரீர்!` — **11–16 COMPLETE**
+- `மந்திரிகள் குலை நடுக்கம்` — **17–20 COMPLETE**
+- `வாபஸ் வீரர்கள்!` — **21–23 COMPLETE**
+- `பொது மக்களுக்குத் தனி எச்சரிக்கை` — **24–36 COMPLETE**
+- `சிறுவர்கள்` — **37–40 COMPLETE**
+- `“அஹிம்சா விலாசம்”` — **41–48 COMPLETE**
+- `திண்டிவனம் தீரர்காள்!` — **49–52 COMPLETE**
+- verified page records — **52/83**
 - needs-review — **0**
 - blocked — **0**
 - guessed readings — **0**
-- historical-glyph unresolved — **0**
-- next P2 range — **24–46**
+- unresolved historical-glyph readings — **0**
+- next P2 range — **53–75**
