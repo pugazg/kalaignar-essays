@@ -16,7 +16,7 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 வெற்றி! மாடு ஓட்டி வருபவர் மீண்டும் சிம்மாசனம் ஏறினால் நம் பிரச்னை சிறிது நாள் தள்ளப்படுகிறது என்று பொருள்!
 
-சட்டசபையில், மக்கள் சபையில் நம் குரல் எழும்பினால், மாடோட்டி வந்தவர்கள் மிரண்டு போவார்கள்.
+சட்டசபையில், மக்கள் சபையில் நம் குரல் எழும் பின்பு, மாடோட்டி வந்தவர்கள் மிரண்டு போவார்கள்.
 
 அந்த மிரட்சியை ஏற்படுத்த, தேர்தலிலே மாடோட்டி வருகிறவர்களை, முதுகு காட்டிடச் செய்ய வேண்டும்.
 
@@ -45,6 +45,11 @@ transcription_method: "user-supplied perumoochu.md used as baseline; rendered so
 
 - baseline is non-authoritative; source pixels control.
 - guessed completion — **0**.
+
+## P5 strict visual fidelity findings
+
+- P5 direct scan review: `நம் குரல் எழும்பினால்` → source-visible **`நம் குரல் எழும் பின்பு`**.
+- unresolved P5 fidelity discrepancy on this recorded finding — **0**.
 
 ## P2 நிலை
 
