@@ -16,7 +16,7 @@ transcription_method: "source-verified P2 transcription; user-supplied perumooch
 
 தேர்தலை இடைக்காலப் பிரச்சினையாக எண்ணுபவர்கள்!
 
-"அய்யோ! நம் அடிப்படைத் திட்டமான பண நாயகக் கொள்கையைக் கெடுத்து விட்டார்களே பாபிகள்" என்று அலறுகிறவர்களுக்கு தி.மு. கழகத்தின் தேர்தல் திட்டம் பச்சை அயோக்கியத் தனமாக இருக்கலாம். அந்தப் பச்சை அயோக்கியத்தனம் என்ற பட்டம் பெற்றாலும் கவலையில்லை; கட்டிக் காத்த கண்ணியமான திட்டத்திலிருந்து மாறமாட்டோம் என்று உறுதி கூறிவிட்டது தி. மு.கழகம்!
+"அய்யோ! நம் அடிப்படைத் திட்டமான பண நாயகக் கொள்கையைக் கெடுத்து விட்டார்களே பாபிகள்" என்று அலறுகிறவர்களுக்கு தி. மு. கழகத்தின் தேர்தல் திட்டம் பச்சை அயோக்கியத் தனமாக இருக்கலாம். அந்தப் பச்சை அயோக்கியத்தனம் என்ற பட்டம் பெற்றாலும் கவலையில்லை; கட்டிக் காத்த கண்ணியமான திட்டத்திலிருந்து மாறமாட்டோம் என்று உறுதி கூறிவிட்டது தி. மு. கழகம்!
 
 அந்த உறுதிக்கு இணங்கி, ஒப்பந்த ஏட்டில் கையெழுத்திட்டவர்கள் சுமார், நூற்றியம்பது பேர். அவர்களிலே, மாவட்ட கமிட்டிகள் தகுதி, திறமை பார்த்துப் பொறுக்கி எடுக்கப் பட்டவர்கள் சுமார் எழுபது பேர்! அந்த எழுபது பேரும் இழந்த நம் நாட்டைப் பெறும் பணியிலே நம்மோடு ஒத்துழைக்கப் போகிறவர்கள்! அந்த எழுபது பேரை மட்டும் நம்பி திராவிட நாட்டுப் பிரச்சினையை அவர்களிடம் நாம் ஒப்புவித்து
 
@@ -44,6 +44,12 @@ transcription_method: "source-verified P2 transcription; user-supplied perumooch
 - previous heuristic physical-page segmentation was replaced by source-visible scan boundaries.
 - cross-scan word fragments are preserved on the physical scan where printed.
 - guessed completion — **0**.
+
+## P5 strict visual fidelity findings
+
+- direct source-pixel reinspection completed in P5.
+- body-text corrections from this scan were propagated to the dependent article assembly.
+- unresolved P5 fidelity discrepancy — **0**.
 
 ## P2 நிலை
 
