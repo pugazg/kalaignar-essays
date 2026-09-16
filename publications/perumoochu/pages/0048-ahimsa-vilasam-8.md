@@ -16,7 +16,7 @@ transcription_method: "source-verified P2 transcription; user-supplied perumooch
 
 போடும் ஒவ்வொரு ஓட்டும் திராவிடத்தின் சார்பில் டில்லிக்கு நீங்கள் அனுப்பும் தூதர்கள். காங்கிரசு மாளிகை சரியவேண்டும் என்பதற்கு நீங்கள் வைக்கும் வெடிகுண்டுகள்.
 
-ஆகவே, திராவிடத் தனியரசிலே உங்களுக்கு நம்பிக்கை யிருப்பது உண்மையானால் இரண்டு லட்சத்திற்கு மேற்பட்ட நீங்கள் அண்ணாவின் தலைமையிலே மாநில மாநாட்டிலே திராவிட நாடு பெற்றே தீருவோம் என்று எடுத்துக்கொண்ட பிரதிக்ஞை உண்மையானால் - ஜனநாயகத்தில் உங்களுக்கு இருக்கும் நம்பிக்கை உண்மையானால் ஏழைகளின் தோழன், பாட்டாளியின் நண்பன், திராவிடத் தீரன் தோழர் பி. பாலசுப்பிரமணியத்திற்கு உங்கள் வாக்குகளைக் கொடுத்து வெற்றி பெறச் செய்யுங்கள் அவரின் வெற்றி உங்கள் வெற்றி திராவிடத்தின் வெற்றி.
+ஆகவே, திராவிடத் தனியரசிலே உங்களுக்கு நம்பிக்கை யிருப்பது உண்மையானால் இரண்டு லட்சத்திற்கு மேற்பட்ட நீங்கள் அண்ணாவின் தலைமையிலே மாநில மாநாட்டிலே திராவிட நாடு பெற்றே தீருவோம் என்று எடுத்துக்கொண்ட பிரதிக்ஞை உண்மையானால்—ஜனநாயகத்தில் உங்களுக்கு இருக்கும் நம்பிக்கை உண்மையானால் ஏழைகளின் தோழன், பாட்டாளியின் நண்பன், திராவிடத் தீரன் தோழர் பி. பாலசுப்பிரமணியத்திற்கு உங்கள் வாக்குகளைக் கொடுத்து வெற்றி பெறச் செய்யுங்கள் அவரின் வெற்றி உங்கள் வெற்றி திராவிடத்தின் வெற்றி.
 
 ## அச்சு அமைப்பு
 
@@ -42,6 +42,12 @@ transcription_method: "source-verified P2 transcription; user-supplied perumooch
 - previous heuristic physical-page segmentation was replaced by source-visible scan boundaries.
 - cross-scan word fragments are preserved on the physical scan where printed.
 - guessed completion — **0**.
+
+## P5 strict visual fidelity findings
+
+- direct source-pixel reinspection completed in P5.
+- body-text corrections from this scan were propagated to the dependent article assembly.
+- unresolved P5 fidelity discrepancy — **0**.
 
 ## P2 நிலை
 
