@@ -61,13 +61,11 @@ Each article was reconstructed independently from the `# அச்சு உர�
 ## Downstream status
 
 - P4 — **COMPLETE / PASS**
-- P5 — **IN PROGRESS — 78/83 directly rechecked**
+- P5 — **COMPLETE / PASS — 83/83 STRICT-REVIEWED**
 - P5 authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
-- P5 page/article corrections have superseded several P3-closure blob hashes above on live `main`; those hashes are retained as historical P3 closure evidence, **not** as current frozen Tamil authorities.
-- final P5 article blobs will be recorded only after 83/83 strict review and global reconstruction closure.
+- P3-closure blob hashes above remain historical P3 evidence only.
+- final frozen Tamil article authorities are recorded in `VISUAL_TEXT_FIDELITY_REVIEW.md` after P5 83/83 closure.
 
 ## Exact next activity
 
-**Continue P5 with scans 79–83, then finalize propagation, correction ledger and all-article reconstruction.**
-
-Do not begin English until P5 closes and the Tamil archival layer is frozen.
+**E0 — English translation planning/setup only**, using the final P5 frozen article blobs.
