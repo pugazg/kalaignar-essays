@@ -155,6 +155,12 @@ The publication contains a publisher preface followed by **13** distinct politic
 
 Physical continuation now preserved as **`ஆதரிக்க / வும்—பெரியாருடன்`**.
 
+### Scan 83 user-confirmed non-regression reading
+
+- source heading — **`ஊடுருவி தீட்டியவை:-`**;
+- prior attempted P5 change to `உருகி தீட்டியவை:-` was rejected and reverted;
+- canonical scan-83 page record now preserves **`ஊடுருவி தீட்டியவை:-`** exactly.
+
 ## Exact next activity
 
 **Continue P5 with scans 79–83, then propagate any remaining corrections, consolidate the complete correction ledger, and run final all-article reconstruction / closure checks.**
