@@ -31,7 +31,7 @@ Each article was reconstructed independently from the `# அச்சு உர�
 | 12 | `சிந்தித்துணர்க! சீற்றமுறாதீர்!` | 71–76 | 6/6 | 0 | 0 | 0 | 0 | **PASS** |
 | 13 | `பூம்! பூம்! பூம்!` | 77–80 | 4/4 | 0 | 0 | 0 | 0 | **PASS** |
 
-## Reading-copy authorities
+## P3 closure reading-copy authorities
 
 1. `articles/01-perumoochu.md` — blob `3a2dd2a60a54745e5101b644faf4295f6c3e3429`
 2. `articles/02-maaligai-amaiththida-vareer.md` — blob `4dce370c684d65af14556ef50237d34d3e88029c`
@@ -61,9 +61,13 @@ Each article was reconstructed independently from the `# அச்சு உர�
 ## Downstream status
 
 - P4 — **COMPLETE / PASS**
+- P5 — **IN PROGRESS — 78/83 directly rechecked**
+- P5 authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
+- P5 page/article corrections have superseded several P3-closure blob hashes above on live `main`; those hashes are retained as historical P3 closure evidence, **not** as current frozen Tamil authorities.
+- final P5 article blobs will be recorded only after 83/83 strict review and global reconstruction closure.
 
 ## Exact next activity
 
-**P5 — final strict visual text-fidelity pass over all 83 physical scans.**
+**Continue P5 with scans 79–83, then finalize propagation, correction ledger and all-article reconstruction.**
 
 Do not begin English until P5 closes and the Tamil archival layer is frozen.
