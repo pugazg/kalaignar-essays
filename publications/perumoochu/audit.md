@@ -33,7 +33,7 @@ The publication contains a publisher preface followed by **13** distinct politic
 - historical Tamil typeforms — **present**
 - historical-glyph guide — **mandatory**
 - P2 — **COMPLETE / PASS — 83/83 VERIFIED**
-- P3 — **NOT STARTED — NEXT GATE**
+- P3 — **COMPLETE / PASS — 13/13**
 - P4–P5 — **NOT STARTED**
 - English — **BLOCKED until Tamil P5 / frozen**
 
@@ -81,8 +81,28 @@ The publication contains a publisher preface followed by **13** distinct politic
 
 ## P2 gate result
 
-**PASS — P3 may begin.**
+**PASS — P3 completed without reopening P2.**
+
+## P3 final audit
+
+**COMPLETE / PASS — 13/13 article assemblies / 74/74 body records**
+
+- canonical P2 page-record coverage — **74/74**
+- exact reconstruction comparison — **13/13 PASS**
+- omitted canonical P2 body text — **0**
+- unsupported added body text — **0**
+- normalization / paraphrase events — **0**
+- unresolved assembly issues — **0**
+- page-boundary comments / provenance — **present**
+- scans 24–52 repair authority preserved — **`ebe8b2146eef22ac203f8014367cb78dea2d4b76`**
+- progress authority — `P3_PROGRESS.md`
+
+## P3 gate result
+
+**PASS — P4 may begin.**
 
 ## Exact next activity
 
-**P3 — assemble the 13 article reading copies from canonical P2 page records and audit for omissions/additions/normalization.**
+**P4 — publication source/completeness audit.**
+
+Do not begin P5 or English before P4 passes.
