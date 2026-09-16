@@ -16,7 +16,7 @@ transcription_method: "direct visual transcription from rendered source scan; us
 
 # புதிய வெளியீடுகள்!
 
-## உருகி தீட்டியவை:-
+## ஊடுருவி தீட்டியவை:-
 
 அறியாமை [இங்கர்சால்] 1 0  
 உண்மை ” 1 0  
@@ -85,7 +85,7 @@ P. B. No. 275 - சென்னை-1
 ## P5 strict visual fidelity findings
 
 - direct source-pixel reinspection completed in final P5 batch.
-- `ஊடுருவி தீட்டியவை:-` → source-visible **`உருகி தீட்டியவை:-`**.
+- user/source correction reconfirmed: **`ஊடுருவி தீட்டியவை:-`** is the authoritative source reading; do not normalize or replace it.
 - address separator `—` → source-visible **`-`**.
 - unresolved P5 fidelity discrepancy — **0**.
 
