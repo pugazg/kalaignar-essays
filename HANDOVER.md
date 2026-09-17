@@ -18,7 +18,7 @@ Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPL
 
 Publication 14 **`பெருமூச்சு` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 13/13 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 15 **`விடுதலைக் கிளர்ச்சி` — TAMIL COMPLETE / FROZEN — P0–P5 PASS; English E0 COMPLETE / PASS; Article 0 T0→T1 NEXT**.
+Publication 15 **`விடுதலைக் கிளர்ச்சி` — TAMIL COMPLETE / FROZEN — P0–P5 PASS; English E0 PASS; Article 0 T0–T5 VERIFIED; Article 1 T0→T1 NEXT**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2561,7 +2561,8 @@ Workspace: `publications/viduthalai-kilarcci/`
 - P4 — **COMPLETE / PASS**
 - P5 — **COMPLETE / PASS — 69/69 STRICT-REVIEWED**
 - English E0 — **COMPLETE / PASS**
-- English article gates — **0/2 started; Article 0 T0→T1 next**
+- English Article 0 — **T0–T5 VERIFIED**
+- English article gates — **1/2 VERIFIED; Article 1 T0→T1 next**
 - historical Tamil glyph workflow — **MANDATORY**
 
 ## P1 structure — corrected by P2 source evidence
@@ -2822,6 +2823,18 @@ Frozen translation authorities:
 1. Article 0 `வேங்கையை விரட்டும் படலம்` — `c5be16582c2c3bb238cc1bf1ae47f8301173352f`
 2. Article 1 `விடுதலைக் கிளர்ச்சி` — `ec7b713d6516d75c1f36eb7e86f9ce5788d25036`
 
+## English Article 0 — T0–T5
+
+**COMPLETE / VERIFIED**
+
+- frozen Tamil authority — `c5be16582c2c3bb238cc1bf1ae47f8301173352f`
+- verified English title — **The Chapter of Driving Away the Tiger**
+- verified English blob — **`67c942bb8e1a631379834fe9757f5378085ccb58`**
+- source comments — **4/4 PASS**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+
 ## Exact next activity
 
-**Article 0 — T0 source-pin revalidation → T1 complete English draft.**
+**Article 1 — `விடுதலைக் கிளர்ச்சி` — T0 source-pin revalidation → T1 complete English draft.**

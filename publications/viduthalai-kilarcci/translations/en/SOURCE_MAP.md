@@ -51,7 +51,7 @@ The Tamil reading assemblies do not contain inline scan comments. English T1 wor
 
 | # | Planned English file | Expected source comments | Status |
 |---:|---|---:|---|
-| 0 | `00-vengaiyai-virattum-padalam.md` | 4 | not-started |
+| 0 | `00-vengaiyai-virattum-padalam.md` | 4 | T5 VERIFIED |
 | 1 | `01-viduthalai-kilarcci.md` | 61 | not-started |
 
 ## Article order
@@ -61,7 +61,16 @@ Translation order is fixed: **0 → 1**.
 ## E0 status
 
 Frozen source pins recorded — **2/2 PASS**.  
-English article body files at E0 — **0/2**.  
-English body prose at E0 — **0**.  
-Tamil source changes during E0 — **0**.  
+Article 0 — **T0–T5 VERIFIED** — English blob `67c942bb8e1a631379834fe9757f5378085ccb58`.  
+Article 1 — **not-started**.  
+Current verified source comments — **4/65**.  
+Tamil source changes during English work — **0**.  
 Blockers — **0**.
+
+## Verified English authorities
+
+These are downstream English authorities only and do not replace the frozen Tamil pins above.
+
+| # | English file | Verified English title | Verified English blob | Status |
+|---:|---|---|---|---|
+| 0 | `00-vengaiyai-virattum-padalam.md` | **The Chapter of Driving Away the Tiger** | `67c942bb8e1a631379834fe9757f5378085ccb58` | T5 VERIFIED |

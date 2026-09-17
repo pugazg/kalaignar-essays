@@ -316,8 +316,26 @@ The source consists of preliminary verse/prologue material followed by one conti
 - lexicon — `translations/en/LEXICON.md`
 - review ledger — `translations/en/TRANSLATION_REVIEW.md`
 
+## English Article 0 — T0–T5
+
+**COMPLETE / PASS / VERIFIED**
+
+- frozen Tamil pin — `c5be16582c2c3bb238cc1bf1ae47f8301173352f` — **PASS**
+- T1 draft blob — `02b3f03c2f6b3c91d040064297645bbfb3659929`
+- T2 fidelity-reviewed blob — `535be98ee158f6b697591afd982aede24b46fc6e`
+- T3 voice-reviewed blob — `36aab78e955117f4fefe14759ca8dac46bac99a5`
+- T4 audited blob — `7ee1a711aff55b99c1047f204cf837395f279077`
+- T5 verified English blob — `67c942bb8e1a631379834fe9757f5378085ccb58`
+- verified title — **The Chapter of Driving Away the Tiger**
+- ordered source comments — **4/4 PASS**
+- omitted Tamil clauses — **0**
+- added substantive English claims — **0**
+- untranslated Tamil body leakage — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+
 ## Next
 
-Publication 15 Tamil archival work remains **COMPLETE / PASS / FROZEN**. English E0 is **COMPLETE / PASS**.
+Publication 15 Tamil archival work remains **COMPLETE / PASS / FROZEN**. English E0 is **COMPLETE / PASS**. Article 0 is **T5 VERIFIED**.
 
-Next gate activity: **Article 0 T0 source-pin revalidation → T1 complete English draft**.
+Next gate activity: **Article 1 T0 source-pin revalidation → T1 complete English draft**.

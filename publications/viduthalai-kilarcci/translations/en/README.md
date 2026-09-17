@@ -13,13 +13,15 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 - Tamil prerequisite — **COMPLETE / STRICT-REVIEWED / FROZEN**
 - translation identity — **project-created English translation**
 - E0 — **COMPLETE / PASS**
-- T0 — **0/2 article gates started**
-- T1 — **0/2**
-- T2 — **0/2**
-- T3 — **0/2**
-- T4 — **0/2**
-- T5 — **0/2**
-- English article body files — **0/2**
+- T0 — **1/2 PASS**
+- T1 — **1/2 COMPLETE**
+- T2 — **1/2 PASS**
+- T3 — **1/2 PASS**
+- T4 — **1/2 PASS**
+- T5 — **1/2 VERIFIED**
+- English article body files — **1/2**
+- verified English articles — **1/2**
+- verified ordered Tamil-source comments — **4/65**
 - expected ordered Tamil-source comments after both T1 drafts — **65**
 - English body prose created during E0 — **0**
 - Tamil source changes during E0 — **0**
@@ -29,7 +31,7 @@ Review ledger: [`TRANSLATION_REVIEW.md`](TRANSLATION_REVIEW.md)
 
 | # | Tamil title | Working English title | Frozen Tamil blob | T0 | T1 | T2 | T3 | T4 | T5 |
 |---:|---|---|---|---|---|---|---|---|---|
-| 0 | `வேங்கையை விரட்டும் படலம்` | **pending T1/T4** | `c5be16582c2c3bb238cc1bf1ae47f8301173352f` | not-started | not-started | not-started | not-started | not-started | not-started |
+| 0 | `வேங்கையை விரட்டும் படலம்` | **The Chapter of Driving Away the Tiger** | `c5be16582c2c3bb238cc1bf1ae47f8301173352f` | PASS | COMPLETE | PASS | PASS | PASS | VERIFIED |
 | 1 | `விடுதலைக் கிளர்ச்சி` | **pending T1/T4** | `ec7b713d6516d75c1f36eb7e86f9ce5788d25036` | not-started | not-started | not-started | not-started | not-started | not-started |
 
 ## Permanent source boundary
@@ -51,11 +53,22 @@ Scan 69 catalogue matter is outside English article bodies.
 - frozen source pins — **2/2 PASS**
 - translation order — **0 → 1**
 - English control files — **4/4 initialized**
-- English article body files — **0/2**
-- English body prose — **0**
+- English article body files — **1/2**
+- Article 0 verified English blob — **`67c942bb8e1a631379834fe9757f5378085ccb58`**
+- Article 0 source comments — **4/4 PASS**
 - Tamil changes — **0**
 - blockers — **0**
 
+## Article 0 checkpoint
+
+**T0–T5 COMPLETE / VERIFIED**
+
+- English title — **The Chapter of Driving Away the Tiger**
+- verified English blob — **`67c942bb8e1a631379834fe9757f5378085ccb58`**
+- source comments — **4/4 PASS**
+- untranslated Tamil body leakage — **0**
+- unresolved translation choices — **0**
+
 ## Exact next activity
 
-**Article 0 — T0 source-pin revalidation → T1 complete English draft.**
+**Article 1 — T0 source-pin revalidation → T1 complete English draft.**

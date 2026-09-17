@@ -28,7 +28,7 @@ The two frozen Tamil assemblies below are the sole normal translation authoritie
 
 | # | Tamil title | Structural scans | Tamil assembly | Frozen Tamil blob | English title / status |
 |---:|---|---:|---|---|---|
-| 0 | `வேங்கையை விரட்டும் படலம்` | 4–7 | `articles/00-vengaiyai-virattum-padalam.md` | `c5be16582c2c3bb238cc1bf1ae47f8301173352f` | **pending T1/T4** |
+| 0 | `வேங்கையை விரட்டும் படலம்` | 4–7 | `articles/00-vengaiyai-virattum-padalam.md` | `c5be16582c2c3bb238cc1bf1ae47f8301173352f` | **The Chapter of Driving Away the Tiger / T5 VERIFIED** |
 | 1 | `விடுதலைக் கிளர்ச்சி` | 8–68 | `articles/01-viduthalai-kilarcci.md` | `ec7b713d6516d75c1f36eb7e86f9ce5788d25036` | **pending T1/T4** |
 
 Translation order is fixed to source structure: **0 → 1**.
@@ -129,6 +129,23 @@ Date: **2026-09-17**
 - Tamil source changes during E0 — **0**;
 - blockers — **0**.
 
+## Article 0 — `வேங்கையை விரட்டும் படலம்` — T0–T5 COMPLETE / VERIFIED
+
+- T0 frozen Tamil source-pin revalidation — **PASS**
+- T1 close English draft — **COMPLETE** — blob `02b3f03c2f6b3c91d040064297645bbfb3659929`
+- T2 bilingual fidelity review — **PASS** — blob `535be98ee158f6b697591afd982aede24b46fc6e`
+- T3 Kalaignar voice review — **PASS** — blob `36aab78e955117f4fefe14759ca8dac46bac99a5`
+- T4 terminology / quotation / citation audit — **PASS** — blob `7ee1a711aff55b99c1047f204cf837395f279077`
+- T5 final verification — **PASS / VERIFIED**
+- verified English title — **The Chapter of Driving Away the Tiger**
+- verified English blob — **`67c942bb8e1a631379834fe9757f5378085ccb58`**
+- ordered source comments — **4/4 PASS**
+- untranslated Tamil body leakage — **0**
+- omitted Tamil clauses after review — **0**
+- added substantive English claims — **0**
+- Tamil source changes — **0**
+- blockers — **0**
+
 ## Exact next activity
 
-**Article 0 — `வேங்கையை விரட்டும் படலம்` — T0 source-pin revalidation → T1 complete English draft.**
+**Article 1 — `விடுதலைக் கிளர்ச்சி` — T0 source-pin revalidation → T1 complete English draft.**

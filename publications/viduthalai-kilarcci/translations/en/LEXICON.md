@@ -18,10 +18,10 @@ This is a **living consistency aid**, not a licence for mechanical word substitu
 
 | Tamil / source form | Working English treatment | E0 note | Status |
 |---|---|---|---|
-| `விடுதலைக் கிளர்ச்சி` | **liberation uprising / liberation struggle** — final title wording pending | Preserve the force of both `விடுதலை` and `கிளர்ச்சி`; choose by context rather than mechanically. | provisional |
+| `விடுதலைக் கிளர்ச்சி` | **liberation uprising** in Article 0; Article 1 title wording remains pending | Preserve the force of both `விடுதலை` and `கிளர்ச்சி`; contextual variants remain possible in Article 1. | Article 0 verified / publication title provisional |
 | `விடுதலை` | **liberation / freedom** | Context-sensitive; do not force one English word across every occurrence. | provisional |
 | `கிளர்ச்சி` | **uprising / agitation / revolt / struggle** | Preserve rhetorical force and repetition; contextual choice required. | provisional |
-| `திராவிடம்` | **Dravida / Dravida land** | Preserve the source referent; do not silently substitute a broader modern geographic category. | provisional |
+| `திராவிடம்` | **Dravida / Dravida land** | Article 0 uses **Dravida** / **Dravida land**; preserve the source referent without broader modern substitution. | Article 0 verified |
 | `திராவிடர்` | **Dravidians** | Preserve source terminology. | provisional |
 | `ஆரியர்` | **Aryans** | Preserve source terminology and contrasts. | provisional |
 | `திராவிட முன்னேற்ற கழகம்` | **Dravida Munnetra Kazhagam** | Preserve the source organisation name; do not add present-day explanation inside body prose. | provisional |
@@ -42,6 +42,12 @@ This is a **living consistency aid**, not a licence for mechanical word substitu
 | `பரமசிவன்` | **Paramasivan / Siva** — contextual decision pending | Source religious/literary label; conventional form may be used only without altering rhetorical contrast. | provisional |
 | `கண்ணபிரான்` | **Kannapiran / Krishna** — contextual decision pending | Preserve source-chosen label or closest conventional form; do not over-explain. | provisional |
 
+| `வேங்கை` | **tiger** | Article 0 controlling animal image and title. | Article 0 verified |
+| `பலஹீனன்` | **weakling** | Retains the source's pointed contrast before “coward becomes a hero.” | Article 0 verified |
+| `மோழை` | **simpleton** | Source insult in the `ஏழை - கோழை - மோழை` sequence; do not soften away the accumulative rhythm. | Article 0 verified |
+| `விஷமும்` in `பசுவிடம் விஷமும் வைத்துக்கொண்டாலே` | **harbouring venom against a cow** | Contextual rendering preserves the frozen source's unusual `விஷமும்` without silently normalising the Tamil to another word. | Article 0 verified |
+| `படலம்` | **chapter** | Article 0 title and internal chapter metaphor. | Article 0 verified |
+
 ## Rhetorical / quotation policy for this publication
 
 - retain direct questions, exclamations, repeated clauses, slogans, parallel lists and abrupt contrasts;
@@ -53,7 +59,7 @@ This is a **living consistency aid**, not a licence for mechanical word substitu
 
 ## Title status
 
-- Article 0 `வேங்கையை விரட்டும் படலம்` — **English title pending T1/T4**
+- Article 0 `வேங்கையை விரட்டும் படலம்` — **The Chapter of Driving Away the Tiger — T5 VERIFIED**
 - Article 1 `விடுதலைக் கிளர்ச்சி` — **English title pending T1/T4**
 
 ## Lexicon status
@@ -61,5 +67,6 @@ This is a **living consistency aid**, not a licence for mechanical word substitu
 - initialized — **PASS**
 - permanent repository rules imported — **PASS**
 - publication-specific seed terms — **initialized**
-- English body translation begun — **No**
-- unresolved choices blocking T1 — **0**; provisional choices may be resolved in context and audited at T4
+- English body translation begun — **Yes — Article 0 T5 VERIFIED**
+- Article 0 unresolved choices — **0**
+- Article 1 unresolved choices blocking T1 — **0**; provisional choices may be resolved in context and audited at T4
