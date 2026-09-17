@@ -55,7 +55,7 @@ Frozen Tamil blobs:
 - frozen Tamil pins — **2/2 PASS**
 - translation order — **0 → 1**
 - scans 1–3 and 69 excluded from English article bodies — **PASS**
-- expected source comments — **65**
+- source comments expected — **65**
 - Tamil changes during E0 — **0**
 - blockers — **0**
 
@@ -71,7 +71,6 @@ Frozen Tamil blobs:
 - T4 — `7ee1a711aff55b99c1047f204cf837395f279077`
 - T5 verified English — **`67c942bb8e1a631379834fe9757f5378085ccb58`**
 - source comments — **4/4 PASS**
-- untranslated Tamil body leakage — **0**
 - unresolved choices — **0**
 
 ## English Article 1 — T0–T5
@@ -80,11 +79,10 @@ Frozen Tamil blobs:
 
 - title — **Liberation Uprising**
 - frozen Tamil blob — `ec7b713d6516d75c1f36eb7e86f9ce5788d25036`
-- T0 frozen-pin revalidation — **PASS**
 - T1 draft — **`f451f766b43eb83d525fec765c6d642a0018cfa2`**
-- T2 fidelity-reviewed body — **`9ac0bbebd5f11a5d881a96deb7695de252907a09`**
-- T3 — **PASS / 0 body changes / T2 retained**
-- T4 — **PASS / 0 body changes / T2 retained**
+- T2 body — **`9ac0bbebd5f11a5d881a96deb7695de252907a09`**
+- T3 — **PASS / T2 retained**
+- T4 — **PASS / T2 retained**
 - T5 verified English — **`082954a6810dc88323aa1e4c0436523720754e55`**
 - source comments — **61/61 PASS**
 - translator/source notes — **2**
@@ -94,36 +92,20 @@ Frozen Tamil blobs:
 - Tamil source changes — **0**
 - blockers — **0**
 
-### Article-1 T2 durable corrections
-
-T2 repaired or tightened the following without changing frozen Tamil:
+### Article-1 durable translation controls
 
 - `எழுத்தாரமல்ல` → **garland of letters**;
-- archer image → **into the archer's sights**;
 - `விடுதலை விருத்தம்` → **liberation verse**;
-- hemisphere terminology made explicit;
-- Bao Dai puppet-string construction tightened;
+- period hemisphere terminology retained in English;
 - `முதல் கட்சி` → **foremost party**;
-- Formosa line repaired for English syntax;
-- Jennings thorn simile tightened;
-- frozen `அனுமதியை` exposed via translator note instead of silently normalising;
-- `நெருக்கடி` → **Crisis**;
-- frozen `இரண்டாமிரம்` exposed via translator note while repeated numerical sense remains **two thousand**;
-- malicious-propaganda sentence reparsed;
+- `அனுமதியை` exposed through a translator note rather than silently normalized;
+- `நெருக்கடி` → **Crisis** in the reviewed passage;
+- `இரண்டாமிரம்` exposed through a translator note while repeated numerical sense remains **two thousand**;
 - `வீணர்களின்` → **worthless fellows**;
-- unsupported **alone** removed from scan-55 method sentence;
-- `குறிக்கோளின் கோட்டினிலே` wording tightened;
-- scan-68 `வேட்டு` cadence → **age of gunfire**.
+- scan-68 `வேட்டு` cadence → **age of gunfire**;
+- T3 / T4 introduced **0** further body changes.
 
-### Article-1 T3 / T4
-
-- T3 voice review — **PASS / no body changes**
-- T4 terminology / quotation / citation audit — **PASS / no body changes**
-- title **Liberation Uprising** — **VERIFIED**
-- recurring terminology reconciled in `translations/en/LEXICON.md`
-- historical and political statements remain translations of the frozen 1953 source; no present-day fact-correction was inserted into the body
-
-## Publication English T0–T5 final gate
+## Publication English T0–T5 gate
 
 - T0 — **2/2 PASS**
 - T1 — **2/2 COMPLETE**
@@ -133,9 +115,34 @@ T2 repaired or tightened the following without changing frozen Tamil:
 - T5 — **2/2 VERIFIED**
 - ordered source comments — **65/65 VERIFIED**
 - unresolved translation choices — **0**
-- Tamil drift during English work — **0**
+- Tamil drift — **0**
+- blockers — **0**
+
+## E6 publication-wide English consistency review
+
+**COMPLETE / PASS**
+
+Authority: `translations/en/E6_CONSISTENCY_REVIEW.md`.
+
+- articles reviewed — **2/2**
+- `Liberation Uprising / liberation uprising` treatment — **PASS**
+- `Dravida / Dravida land / Dravidians / Dravida Nadu` treatment — **PASS**
+- contextual adjectival **Dravidian movement / Dravidian society** — **PASS**
+- movement / ideological vocabulary — **PASS**
+- source epithets / literary / religious names — **PASS**
+- **Indo China**, **Formosa**, **Kuomintang**, **Mao Tse-tung**, **Aung San** and other period/source forms — **PASS**
+- title style / capitalization — **PASS**
+- rhetorical punctuation / quotation style — **PASS**
+- translator/source notes — **2/2 retained**
+- source comments — **65/65 VERIFIED**
+- frozen Tamil pins — **2/2 unchanged**
+- English body corrections required — **0**
+- post-E6 Article 0 English blob — **`67c942bb8e1a631379834fe9757f5378085ccb58`**
+- post-E6 Article 1 English blob — **`082954a6810dc88323aa1e4c0436523720754e55`**
+- unresolved consistency issues — **0**
+- Tamil source changes during E6 — **0**
 - blockers — **0**
 
 ## Next
 
-**E6 publication-wide English consistency review.**
+**E7 English release closeout.**

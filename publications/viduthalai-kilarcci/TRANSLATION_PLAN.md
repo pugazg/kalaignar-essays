@@ -22,64 +22,35 @@ Permanent policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_G
 - guessed readings — **0**
 - Tamil status — **COMPLETE / STRICT-REVIEWED / FROZEN**
 
-The two frozen Tamil assemblies below are the sole normal translation authorities.
-
 ## Frozen Tamil authorities and order
 
-| # | Tamil title | Structural scans | Tamil assembly | Frozen Tamil blob | English title / status |
+| # | Tamil title | Scans | Tamil assembly | Frozen Tamil blob | English title / status |
 |---:|---|---:|---|---|---|
 | 0 | `வேங்கையை விரட்டும் படலம்` | 4–7 | `articles/00-vengaiyai-virattum-padalam.md` | `c5be16582c2c3bb238cc1bf1ae47f8301173352f` | **The Chapter of Driving Away the Tiger / T5 VERIFIED** |
 | 1 | `விடுதலைக் கிளர்ச்சி` | 8–68 | `articles/01-viduthalai-kilarcci.md` | `ec7b713d6516d75c1f36eb7e86f9ce5788d25036` | **Liberation Uprising / T5 VERIFIED** |
 
-Translation order is fixed to source structure: **0 → 1**.
+Translation order — **0 → 1**. Scans **1–3** and **69** are outside English article bodies.
 
-Scans **1–3** are cover / reverse / imprint matter. Scan **69** is publisher catalogue matter. These ranges do not belong to English article bodies.
+Source-boundary comments:
 
-Expected ordered Tamil-source boundary comments in complete English article translations:
+- Article 0 — **4/4**
+- Article 1 — **61/61**
+- publication total — **65/65 VERIFIED**
 
-- Article 0 — scans 4–7 — **4**
-- Article 1 — scans 8–68 — **61**
-- total — **65**
+## Durable translation principles
 
-The frozen Tamil reading assemblies do not carry inline scan comments. T1 source-boundary comments were reconstructed from the verified canonical page/provenance layer without changing Tamil wording.
-
-## Durable Tamil provenance relevant to translation
-
-Do not regress these frozen source controls:
-
-- introductory unit title — **`வேங்கையை விரட்டும் படலம்`**;
-- scan 3 printer — **`கலைமகள் பிரஸ், பெரியகடைவீதி, திருச்சி.`**;
-- scan 14 — **`இந்தோ சீனாவில்!`**;
-- scan 31 — **`வெற்றிபெற்ற நாடுகளின் வழிகாட்டியாகக் கொண்டு`**;
-- scan 32 — **`உ. வெ. சாமிநாத அய்யர்`**;
-- scan 39 — **`இருந்தாலும்,`** and **`பாரதமணித்திருநாடு!`**;
-- scan 43 — **`சொல்லப் போகிறது`**;
-- scan 46 — **`முடிந்து விடக் கூடியதல்லவே`**;
-- scan 55 — **`ரஷ்யா நிற்கிறது—ஆகவேதான்`**;
-- scan 60 — **`அணுகுண்டு`**;
-- scan 60→61 — **`நாடக / மேடை`**;
-- scan 64→65 — **`நடத்தியவர் / களை`**;
-- scan 68 closes the prose work with **`இதுதான் வேறுபாடு. தேவையான துங்கூட!`** and a printed star;
-- scan 69 catalogue is outside article bodies.
-
-All P5 old→source-visible corrections are controlled by `VISUAL_TEXT_FIDELITY_REVIEW.md` and the canonical page records.
-
-## Publication-specific translation principles
-
-In addition to the repository-wide guide:
-
-- preserve the mother-cow / tiger analogy in Article 0 without turning it into explanatory commentary;
-- preserve the repeated rhetorical force of `விடுதலை` and `கிளர்ச்சி`; do not mechanically force one English equivalent where context changes the sense;
-- preserve direct political address, rhetorical questions, exclamations, repetition, satire, ridicule and abrupt contrasts;
-- preserve source-chosen labels such as `திராவிடம்`, `திராவிடர்`, `ஆரியர்`, organisation names, epithets and movement vocabulary; do not replace them with broader modern categories;
-- preserve source geographic and historical naming rather than silently modernising it; publication-specific **Indo China** remains fixed;
-- preserve quotation scope and source-visible slogans; do not import published translations of quoted material;
-- preserve literary references such as `புறநானூறு`, `சேரன் செங்குட்டுவன்`, `பரமசிவன்`, `கண்ணபிரான்` and `ஆரிய மாயை` without adding outside explanation inside the body;
+- preserve the repeated rhetorical force of `விடுதலை` and `கிளர்ச்சி` without mechanical substitution;
+- preserve direct address, rhetorical questions, exclamations, repetition, satire, ridicule, abrupt contrasts and accumulative lists;
+- preserve source-chosen labels such as `திராவிடம்`, `திராவிடர்`, `ஆரியர்`, movement names and epithets;
+- publication-specific **Indo China** remains fixed;
+- preserve source geographic / historical naming rather than silently modernising it;
+- preserve quotation scope and source-visible slogans;
+- preserve literary / religious source forms including `புறநானூறு`, `பரமசிவன்`, `கண்ணபிரான்`, `ஆரிய மாயை` without inserting outside explanation;
 - historical and political statements in the English body are translations of the frozen 1953 source, not independent present-day fact assertions;
-- use verified page records / scans only when needed to resolve punctuation, page boundaries, quotation scope or source-witness questions;
-- retain page-boundary comments in English as `<!-- Tamil source: scan ... -->`.
+- retain source-page comments as `<!-- Tamil source: scan ... -->`;
+- do not alter frozen Tamil for English convenience.
 
-## English file layout
+## English controls
 
 ```text
 publications/viduthalai-kilarcci/
@@ -90,83 +61,82 @@ publications/viduthalai-kilarcci/
       SOURCE_MAP.md
       LEXICON.md
       TRANSLATION_REVIEW.md
+      E6_CONSISTENCY_REVIEW.md
       00-vengaiyai-virattum-padalam.md
       01-viduthalai-kilarcci.md
 ```
 
-## Article gates
+## Gate model
 
-Each article passes:
+Article gates:
 
-- **T0** — frozen Tamil source prerequisite / blob pin
+- **T0** — frozen Tamil source pin
 - **T1** — close paragraph-by-paragraph draft
 - **T2** — bilingual fidelity review
 - **T3** — Kalaignar voice review
 - **T4** — terminology / quotation / citation audit
 - **T5** — article verification
 
-After both articles are T5 verified:
+Publication gates:
 
 - **E6** — publication-wide English consistency review
 - **E7** — English release closeout
 
-## E0 planning/setup — COMPLETE / PASS
+## E0 — COMPLETE / PASS
 
 Date: **2026-09-17**
 
-- permanent repository translation policy reviewed;
-- frozen Tamil article blobs pinned — **2/2**;
-- canonical translation order fixed — **0 → 1**;
-- scans **1–3** and **69** excluded from English article bodies;
-- expected ordered source comments fixed — **65**;
-- translation identity recorded as **project-created English translation**;
-- English body prose created during E0 — **0**;
-- Tamil source changes during E0 — **0**;
-- blockers — **0**.
+- frozen Tamil article blobs pinned — **2/2**
+- translation order fixed — **0 → 1**
+- translation identity — **project-created English translation**
+- English body prose during E0 — **0**
+- Tamil source changes during E0 — **0**
+- blockers — **0**
 
-## Article 0 — `வேங்கையை விரட்டும் படலம்` — T0–T5 COMPLETE / VERIFIED
+## Article 0 — T0–T5 COMPLETE / VERIFIED
 
-- T0 — **PASS**
 - T1 blob — `02b3f03c2f6b3c91d040064297645bbfb3659929`
 - T2 blob — `535be98ee158f6b697591afd982aede24b46fc6e`
 - T3 blob — `36aab78e955117f4fefe14759ca8dac46bac99a5`
 - T4 blob — `7ee1a711aff55b99c1047f204cf837395f279077`
 - T5 verified English blob — **`67c942bb8e1a631379834fe9757f5378085ccb58`**
-- verified English title — **The Chapter of Driving Away the Tiger**
+- title — **The Chapter of Driving Away the Tiger**
 - source comments — **4/4 PASS**
 - blockers — **0**
 
-## Article 1 — `விடுதலைக் கிளர்ச்சி` — T0–T5 COMPLETE / VERIFIED
+## Article 1 — T0–T5 COMPLETE / VERIFIED
 
-- T0 frozen Tamil source-pin revalidation — **PASS**
 - frozen Tamil blob — `ec7b713d6516d75c1f36eb7e86f9ce5788d25036`
-- T1 close English draft — **COMPLETE** — blob `f451f766b43eb83d525fec765c6d642a0018cfa2`
-- T2 bilingual fidelity review — **PASS** — blob `9ac0bbebd5f11a5d881a96deb7695de252907a09`
-- T3 Kalaignar voice review — **PASS / 0 body changes; T2 body retained**
-- T4 terminology / quotation / citation audit — **PASS / 0 body changes; T2 body retained**
-- T5 final verification — **PASS / VERIFIED**
-- verified English title — **Liberation Uprising**
-- verified English blob — **`082954a6810dc88323aa1e4c0436523720754e55`**
-- ordered source comments — **61/61 PASS**
-- explicit source-irregularity translator notes — **2** (`அனுமதியை`, `இரண்டாமிரம்`)
-- untranslated Tamil body leakage — **0** (metadata/comments excluded)
-- omitted Tamil clauses after review — **0**
-- added substantive English claims — **0**
+- T1 blob — `f451f766b43eb83d525fec765c6d642a0018cfa2`
+- T2 body blob — `9ac0bbebd5f11a5d881a96deb7695de252907a09`
+- T3 — **PASS / T2 body retained**
+- T4 — **PASS / T2 body retained**
+- T5 verified English blob — **`082954a6810dc88323aa1e4c0436523720754e55`**
+- title — **Liberation Uprising**
+- source comments — **61/61 PASS**
+- source-irregularity translator notes — **2** (`அனுமதியை`, `இரண்டாமிரம்`)
+- untranslated Tamil body leakage — **0** excluding metadata/comments
 - Tamil source changes — **0**
 - blockers — **0**
 
-## Publication English gate state
+## E6 publication-wide consistency review — COMPLETE / PASS
 
-- T0 — **2/2 PASS**
-- T1 — **2/2 COMPLETE**
-- T2 — **2/2 PASS**
-- T3 — **2/2 PASS**
-- T4 — **2/2 PASS**
-- T5 — **2/2 VERIFIED**
-- verified source comments — **65/65**
-- Tamil drift during English work — **0**
+Authority: `translations/en/E6_CONSISTENCY_REVIEW.md`.
+
+- articles reviewed — **2/2**
+- recurring terminology — **PASS**
+- title style / capitalization — **PASS**
+- movement names / epithets / source-bearing names — **PASS**
+- quotation / punctuation treatment — **PASS**
+- source comments — **65/65 VERIFIED**
+- translator/source notes — **2/2 retained**
+- frozen Tamil pins — **2/2 unchanged**
+- English body corrections during E6 — **0**
+- post-E6 Article 0 English blob — **`67c942bb8e1a631379834fe9757f5378085ccb58`**
+- post-E6 Article 1 English blob — **`082954a6810dc88323aa1e4c0436523720754e55`**
+- unresolved consistency issues — **0**
 - blockers — **0**
 
 ## Exact next activity
 
-**E6 publication-wide English consistency review.**
+**E7 English release closeout.**

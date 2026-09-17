@@ -17,10 +17,12 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**
 - English E0 — **COMPLETE / PASS**
 - English T0–T5 — **2/2 ARTICLES VERIFIED**
+- English E6 — **COMPLETE / PASS**
 - verified English source comments — **65/65**
+- English body corrections during E6 — **0**
 - Tamil source changes during English work — **0**
 - blockers — **0**
-- exact next activity — **E6 publication-wide English consistency review**
+- exact next activity — **E7 English release closeout**
 
 ## Printed / catalog identity
 
@@ -91,28 +93,27 @@ Publication controls:
 - `translations/en/SOURCE_MAP.md`
 - `translations/en/LEXICON.md`
 - `translations/en/TRANSLATION_REVIEW.md`
+- `translations/en/E6_CONSISTENCY_REVIEW.md`
 
-### Article 0 — T0–T5 VERIFIED
+### Article 0 — T0–T5 VERIFIED / E6 PASS
 
 - Tamil — `வேங்கையை விரட்டும் படலம்`
 - English — **The Chapter of Driving Away the Tiger**
 - frozen Tamil blob — `c5be16582c2c3bb238cc1bf1ae47f8301173352f`
-- verified English blob — **`67c942bb8e1a631379834fe9757f5378085ccb58`**
+- post-E6 English blob — **`67c942bb8e1a631379834fe9757f5378085ccb58`**
 - source comments — **4/4 PASS**
 
-### Article 1 — T0–T5 VERIFIED
+### Article 1 — T0–T5 VERIFIED / E6 PASS
 
 - Tamil — `விடுதலைக் கிளர்ச்சி`
 - English — **Liberation Uprising**
 - frozen Tamil blob — `ec7b713d6516d75c1f36eb7e86f9ce5788d25036`
 - T1 draft blob — `f451f766b43eb83d525fec765c6d642a0018cfa2`
-- T2 fidelity-reviewed body — `9ac0bbebd5f11a5d881a96deb7695de252907a09`
-- T3 — **PASS / T2 body retained**
-- T4 — **PASS / T2 body retained**
-- verified English blob — **`082954a6810dc88323aa1e4c0436523720754e55`**
+- T2 body — `9ac0bbebd5f11a5d881a96deb7695de252907a09`
+- T3 / T4 — **PASS / T2 body retained**
+- post-E6 English blob — **`082954a6810dc88323aa1e4c0436523720754e55`**
 - source comments — **61/61 PASS**
 - translator/source notes — **2** (`அனுமதியை`, `இரண்டாமிரம்`)
-- untranslated Tamil body leakage — **0** excluding metadata/comments
 - blockers — **0**
 
 Historical and political statements in the English body are translations of the frozen 1953 source; they are not silently updated or presented as independently verified present-day claims.
@@ -126,11 +127,26 @@ Historical and political statements in the English body are translations of the 
 - T3 — **2/2 PASS**
 - T4 — **2/2 PASS**
 - T5 — **2/2 VERIFIED**
+- E6 — **COMPLETE / PASS**
 - source comments — **65/65 VERIFIED**
-- unresolved translation choices — **0**
+- frozen Tamil pins — **2/2 unchanged**
+- post-E6 English blobs — **2/2 unchanged from T5**
+- unresolved translation / consistency choices — **0**
 - Tamil drift — **0**
 - blockers — **0**
 
+## E6 result
+
+`translations/en/E6_CONSISTENCY_REVIEW.md` records the publication-wide review.
+
+- recurring terminology — **PASS**
+- title style / capitalization — **PASS**
+- movement names / epithets / literary and religious names — **PASS**
+- period forms / transliterations — **PASS**
+- quotation / punctuation consistency — **PASS**
+- translator/source notes — **PASS**
+- English body corrections required — **0**
+
 ## Exact next activity
 
-**E6 publication-wide English consistency review.**
+**E7 English release closeout.**
