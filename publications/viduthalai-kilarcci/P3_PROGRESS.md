@@ -63,7 +63,7 @@ Non-word page continuations such as `பிரஞ்சுக் / காலன�
 
 ## Downstream status
 
-- P5 — **IN PROGRESS — 10/69 STRICT-REVIEWED**
+- P5 — **COMPLETE / PASS — 69/69 STRICT-REVIEWED**
 - introductory assembly scans 4–7 revalidated under P5 and is now **STRICT-REVIEWED**
 - current introductory P5 blob — **`c5be16582c2c3bb238cc1bf1ae47f8301173352f`**
 - main assembly has scan-9 P5 correction propagated; current partial-P5 blob — **`018eee7d2044d4151f6064346bc2e7d07a80e7f4`**
@@ -110,6 +110,18 @@ Non-word page continuations such as `பிரஞ்சுக் / காலன�
 - contributing main scans strict-reviewed so far — **8–60 / 53 scans**
 - unresolved assembly discrepancies — **0**
 
+## P5 Batch 007 / final freeze
+
+- scans **61–68 / 8 scans** contributing to the main prose — **PASS / 0 canonical body-text corrections**;
+- scan **69** publisher catalogue — **PASS / outside prose assembly**;
+- scan 60→61 **`நாடக / மேடை`** and scan 64→65 **`நடத்தியவர் / களை`** boundaries revalidated;
+- scan 68 terminal line and closing star revalidated;
+- introductory assembly frozen blob — **`c5be16582c2c3bb238cc1bf1ae47f8301173352f`**;
+- main prose frozen blob — **`ec7b713d6516d75c1f36eb7e86f9ce5788d25036`**;
+- contributing records strict-reviewed — **65/65**;
+- unresolved assembly discrepancies — **0**;
+- article assemblies — **2/2 STRICT-REVIEWED / FROZEN**.
+
 ## Exact next activity
 
-**P5 strict visual review — scans 61–69.**
+**E0 English translation planning/setup.**

@@ -35,8 +35,8 @@ The source consists of preliminary verse/prologue material followed by one conti
 - P2 — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 — **COMPLETE / PASS**
-- P5 — **NOT STARTED**
-- English — **BLOCKED until Tamil P5 / frozen**
+- P5 — **COMPLETE / PASS — 69/69 STRICT-REVIEWED**
+- English — **UNBLOCKED — E0 planning/setup next**
 
 ## P2 Batch 001 audit
 
@@ -264,8 +264,39 @@ The source consists of preliminary verse/prologue material followed by one conti
 - unresolved readings — **0**
 - authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
 
+## P5 Batch 007 — scans 61–69
+
+**COMPLETE / PASS — 9/9 STRICT-REVIEWED**
+
+- source scans independently reopened — **9/9**
+- canonical corrections — **0**
+- scans 61–68 — **PASS / no canonical body-text change**
+- scan 69 publisher catalogue — **PASS / no canonical change**
+- scan 60→61 **`நாடக / மேடை`** revalidated
+- scan 64→65 **`நடத்தியவர் / களை`** revalidated
+- scan 68 main-work terminal line and star revalidated
+- scan 69 catalogue heading and all six title/price entries revalidated
+- cumulative P5 progress — **69/69**
+- unresolved readings — **0**
+- authority — `VISUAL_TEXT_FIDELITY_REVIEW.md`
+
+## P5 final audit
+
+**COMPLETE / PASS — 69/69 physical scans directly rechecked**
+
+- canonical page records — **69/69 VERIFIED**
+- article assemblies — **2/2 STRICT-REVIEWED / FROZEN**
+- contributing article records — **65/65**
+- introductory frozen blob — **`c5be16582c2c3bb238cc1bf1ae47f8301173352f`**
+- main prose frozen blob — **`ec7b713d6516d75c1f36eb7e86f9ce5788d25036`**
+- unresolved fidelity discrepancies — **0**
+- unresolved historical-glyph ambiguities — **0**
+- guessed readings — **0**
+- blockers — **0**
+- Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**
+
 ## Next
 
-Publication 15 is **ACTIVE — P0–P4 COMPLETE / PASS; P5 IN PROGRESS — 60/69 STRICT-REVIEWED**.
+Publication 15 Tamil archival work is **COMPLETE / PASS / FROZEN**.
 
-Next gate activity: **P5 scans 61–69**.
+Next gate activity: **E0 English translation planning/setup**.

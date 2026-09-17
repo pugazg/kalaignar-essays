@@ -6,7 +6,7 @@ Branch: `main`
 **LIVE `main` IS AUTHORITATIVE over copied prompts or older checkpoints.**  
 This is the **single authoritative project handover**.
 
-Handoff refreshed after Publication 15 `விடுதலைக் கிளர்ச்சி` P5 Batch 006. Publications **1–14 are RELEASE COMPLETE / FROZEN**. Publication 15 is **ACTIVE — P0–P4 PASS; P5 IN PROGRESS — 60/69 STRICT-REVIEWED**.
+Handoff refreshed after Publication 15 `விடுதலைக் கிளர்ச்சி` P5 Batch 007 / Tamil freeze. Publications **1–14 are RELEASE COMPLETE / FROZEN**. Publication 15 Tamil archival work is **COMPLETE / STRICT-REVIEWED / FROZEN**; English is **UNBLOCKED — E0 planning/setup next**.
 
 ## Repository state
 
@@ -18,7 +18,7 @@ Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPL
 
 Publication 14 **`பெருமூச்சு` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 13/13 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 15 **`விடுதலைக் கிளர்ச்சி` — ACTIVE — P0–P4 PASS; P5 IN PROGRESS — 60/69 STRICT-REVIEWED**.
+Publication 15 **`விடுதலைக் கிளர்ச்சி` — TAMIL COMPLETE / FROZEN — P0–P5 PASS; English E0 NEXT**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2559,8 +2559,8 @@ Workspace: `publications/viduthalai-kilarcci/`
 - P2 — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 — **COMPLETE / PASS**
-- P5 — **IN PROGRESS — 40/69 STRICT-REVIEWED**
-- English — **BLOCKED until Tamil P5 / frozen**
+- P5 — **COMPLETE / PASS — 69/69 STRICT-REVIEWED**
+- English — **UNBLOCKED — E0 planning/setup next**
 - historical Tamil glyph workflow — **MANDATORY**
 
 ## P1 structure — corrected by P2 source evidence
@@ -2767,8 +2767,32 @@ Current partial-P5 main assembly blob — **`9a5df079233369bd02a1687d9d44f832fc3
 
 Current partial-P5 main assembly blob — **`31f1a212d365bfdd1cf4ee2bf5fd57d15f799b7c`**.
 
+## P5 Batch 007 — scans 61–69
+
+**COMPLETE / PASS — 9/9 STRICT-REVIEWED**
+
+- scans 61–68 — **PASS / 0 canonical body-text corrections**
+- scan 69 publisher catalogue — **PASS / 0 canonical corrections**
+- scan 60→61 **`நாடக / மேடை`** revalidated
+- scan 64→65 **`நடத்தியவர் / களை`** revalidated
+- scan 68 terminal **`இதுதான் வேறுபாடு. தேவையான துங்கூட!`** and closing star revalidated
+- scan 69 catalogue **`கலைஞர் கருணாநிதி எழுதியவை`** and all six title/price entries revalidated
+- cumulative P5 — **69/69**
+- unresolved P5 readings — **0**
+- historical-glyph ambiguities — **0**
+
+## Tamil freeze
+
+- canonical page records — **69/69 VERIFIED**
+- article assemblies — **2/2 STRICT-REVIEWED / FROZEN**
+- contributing article records — **65/65**
+- introductory assembly frozen blob — **`c5be16582c2c3bb238cc1bf1ae47f8301173352f`**
+- main prose frozen blob — **`ec7b713d6516d75c1f36eb7e86f9ce5788d25036`**
+- scan 69 — catalogue only / outside article bodies
+- Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**
+
 ## Exact next activity
 
-**P5 strict visual review — scans 61–69.**
+**E0 English translation planning/setup for Publication 15.**
 
-Use `viduthalai_kilarchi.md` only as a baseline comparison aid. Source scan pixels remain controlling. Apply the historical-glyph guide word-by-word and preserve page-boundary fragments exactly.
+Follow root `ESSAY_TRANSLATION_GUIDE.md`. Pin the two frozen Tamil assembly blobs, create the publication translation plan and English control files, and do not draft English body prose until E0 controls are complete.

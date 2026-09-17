@@ -275,8 +275,8 @@ Cross-page controls:
 
 ## Downstream status
 
-- P5 — **IN PROGRESS — 60/69 STRICT-REVIEWED**
-- P5 Batches 001–006 source corrections supersede any conflicting provisional P2 readings through scan 60
+- P5 — **COMPLETE / PASS — 69/69 STRICT-REVIEWED**
+- P5 Batches 001–007 are complete; P5 source-pixel authority supersedes any conflicting provisional P2 reading across scans 1–69
 - additional P5 controls include scan 3 **`கலைமகள்`**, scan 13 **`வீட்டற்றவராய்`**, scan 28 **`நாம் சொல்வதை`**, scan 30 **`கூடிக் குலாவிடவேண்டுமாம்`**, scan 31 **`நாடுகளின்`**, scan 32 **`உ. வெ.`**, scan 39 **`இருந்தாலும், / பாரதமணித்திருநாடு!`**, scan 43 **`சொல்லப் போகிறது`**, scan 46 **`முடிந்து விடக் கூடியதல்லவே`**, scan 55 **`ரஷ்யா நிற்கிறது—ஆகவேதான்`**, scan 60 **`அணுகுண்டு`**
 - P3 — **COMPLETE / PASS — 2/2 assemblies**
 - P3 authority — `P3_PROGRESS.md`
@@ -286,4 +286,4 @@ Cross-page controls:
 
 ## Exact next activity
 
-**P5 strict visual review — scans 61–69.**
+**E0 English translation planning/setup.**

@@ -10,7 +10,7 @@ P5 is the independent final strict visual word-by-word / punctuation-by-punctuat
 
 ## Current state
 
-**IN PROGRESS — 60/69 physical scans STRICT-REVIEWED**
+**COMPLETE / PASS — 69/69 physical scans STRICT-REVIEWED**
 
 - Batch 001 — scans **1–10** — **COMPLETE / PASS**
 - Batch 002 — scans **11–20** — **COMPLETE / PASS**
@@ -18,9 +18,10 @@ P5 is the independent final strict visual word-by-word / punctuation-by-punctuat
 - Batch 004 — scans **31–40** — **COMPLETE / PASS**
 - Batch 005 — scans **41–50** — **COMPLETE / PASS**
 - Batch 006 — scans **51–60** — **COMPLETE / PASS**
+- Batch 007 — scans **61–69** — **COMPLETE / PASS**
 - unresolved P5 readings — **0**
 - guessed readings — **0**
-- next range — **61–69**
+- next range — **none; P5 closed**
 
 ## Batch 001 — scans 1–10
 
@@ -136,13 +137,35 @@ Batch-006 canonical corrections — **2**.
 Boundary revalidation:
 - scan 60→61 — **`நாடக / மேடை`** remains a normal lexical-space continuation in the P3 assembly.
 
+## Batch 007 — scans 61–69
+
+| Scan | Result | Canonical correction |
+|---:|---|---|
+| 61 | PASS | none |
+| 62 | PASS | none |
+| 63 | PASS | none |
+| 64 | PASS | none |
+| 65 | PASS | none |
+| 66 | PASS | none |
+| 67 | PASS | none |
+| 68 | PASS | none |
+| 69 | PASS | none |
+
+Batch-007 canonical corrections — **0**.
+
+Terminal / boundary revalidation:
+- scan 60→61 — **`நாடக / மேடை`** revalidated;
+- scan 64→65 — **`நடத்தியவர் / களை`** revalidated;
+- scan 68 — main prose closes with **`இதுதான் வேறுபாடு. தேவையான துங்கூட!`** and the printed star;
+- scan 69 — publisher catalogue **`கலைஞர் கருணாநிதி எழுதியவை`** remains outside the prose assembly; all six titles and prices were revalidated.
+
 ## Historical Tamil glyph audit
 
 Mandatory historical families were explicitly rechecked where present:
 
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
 
-Batch-001/002/003/004/005/006 cumulative result:
+Batch-001/002/003/004/005/006/007 cumulative result:
 
 - unresolved historical-glyph ambiguity — **0**
 - global modernization / normalization — **0**
@@ -167,10 +190,32 @@ Batch-006 corrected canonical page blobs:
 - scan 55 — `4155094faf0471c70e4adb0c77d7c268535fc443`
 - scan 60 — `129f69498224c0175c735f2a099bbe371e902218`
 
-Assembly propagation:
-- `articles/00-vengaiyai-virattum-padalam.md` — scans 4–7 fully rechecked; **STRICT-REVIEWED** — blob `c5be16582c2c3bb238cc1bf1ae47f8301173352f`
-- `articles/01-viduthalai-kilarcci.md` — scans 8–60 strict-reviewed with all P5 corrections propagated; P5 is still partial — blob `31f1a212d365bfdd1cf4ee2bf5fd57d15f799b7c`
+## Final assembly freeze
+
+| # | Assembly | Scans | Frozen strict-reviewed blob | P5 |
+|---:|---|---:|---|---|
+| 0 | `articles/00-vengaiyai-virattum-padalam.md` | 4–7 | `c5be16582c2c3bb238cc1bf1ae47f8301173352f` | **PASS** |
+| 1 | `articles/01-viduthalai-kilarcci.md` | 8–68 | `ec7b713d6516d75c1f36eb7e86f9ce5788d25036` | **PASS** |
+
+- contributing article records — **65/65 represented exactly**
+- scan 69 publisher catalogue — **verified / excluded from article bodies**
+- unresolved assembly discrepancies — **0**
+
+## Final P5 gate
+
+- physical scans directly rechecked — **69/69**
+- canonical page records — **69/69 VERIFIED**
+- article assemblies — **2/2 STRICT-REVIEWED / FROZEN**
+- contributing article records — **65/65**
+- unresolved fidelity discrepancies — **0**
+- unresolved historical-glyph ambiguities — **0**
+- guessed readings — **0**
+- blockers — **0**
+
+**P5 STRICT VISUAL TEXT-FIDELITY REVIEW: COMPLETE / PASS.**
+
+Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**.
 
 ## Exact next activity
 
-**P5 scans 61–69.**
+**E0 English translation planning/setup.**

@@ -13,8 +13,8 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - P2 page-level transcription — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 article assembly — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 source audit — **COMPLETE / PASS**
-- P5 strict visual-text-fidelity pass — **IN PROGRESS — 60/69 STRICT-REVIEWED**
-- English — **BLOCKED until Tamil archival layer freezes**
+- P5 strict visual-text-fidelity pass — **COMPLETE / PASS — 69/69 STRICT-REVIEWED**
+- English — **UNBLOCKED — E0 translation planning/setup next**
 - source PDF committed — **No**
 
 ## Printed / catalog identity
@@ -186,8 +186,30 @@ Affected main reading assembly updated.
 
 Affected main reading assembly updated.
 
+## P5 Batch 007 — scans 61–69
+
+**COMPLETE / PASS — 9/9 STRICT-REVIEWED**
+
+- scans 61–68 — **PASS / 0 canonical body-text corrections**
+- scan 69 publisher catalogue — **PASS / 0 canonical corrections**
+- scan 60→61 **`நாடக / மேடை`** revalidated
+- scan 64→65 **`நடத்தியவர் / களை`** revalidated
+- scan 68 terminal **`இதுதான் வேறுபாடு. தேவையான துங்கூட!`** and closing star revalidated
+- scan 69 catalogue heading and six title/price rows revalidated
+- cumulative P5 progress — **69/69**
+- unresolved P5 readings — **0**
+
+## P5 final state
+
+- canonical page records — **69/69 VERIFIED**
+- article assemblies — **2/2 STRICT-REVIEWED / FROZEN**
+- contributing article records — **65/65**
+- introductory frozen blob — **`c5be16582c2c3bb238cc1bf1ae47f8301173352f`**
+- main prose frozen blob — **`ec7b713d6516d75c1f36eb7e86f9ce5788d25036`**
+- unresolved fidelity discrepancies — **0**
+- unresolved historical-glyph ambiguities — **0**
+- Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**
+
 ## Exact next activity
 
-**P5 strict visual review — scans 61–69.**
-
-Use the baseline only as a comparison aid. Verify every word, punctuation mark, page boundary and historical glyph against source pixels.
+**E0 English translation planning/setup.**

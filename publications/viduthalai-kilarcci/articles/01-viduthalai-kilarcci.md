@@ -5,10 +5,10 @@ article_number: 1
 title_ta: "விடுதலைக் கிளர்ச்சி"
 scan_pages: "8-68"
 printed_pages: "scan 8 folio not visible; scans 9-68 show folios 8-67"
-status: "assembled"
+status: "strict-reviewed"
 language: "ta"
 source_filename: "TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf"
-assembly_method: "assembled verbatim from verified canonical P2 page records; physical page-boundary word fragments joined reversibly"
+assembly_method: "assembled verbatim from verified canonical page records; P5 source-pixel fidelity rechecked across scans 8-68; physical page-boundary word fragments joined reversibly"
 ---
 
 # விடுதலைக் கிளர்ச்சி
@@ -748,9 +748,12 @@ assembly_method: "assembled verbatim from verified canonical P2 page records; ph
 - result — **P3 COMPLETE / PASS**
 
 
-## P5 partial strict visual review
+## P5 strict visual review
 
-- scans **8–60 / 61** contributing main-work scans independently reopened — **PASS after propagation**;
-- all P5 source corrections through scan 60 are propagated into this assembly, including scan 55 **`ரஷ்யா நிற்கிறது—ஆகவேதான்`** and scan 60 **`அணுகுண்டு`**;
-- remaining main-work scans **61–68** still require P5 review;
-- article status remains **assembled**, not frozen, until all contributing scans pass P5.
+- every contributing physical source scan **8–68 / 61** was independently reopened under P5 — **PASS**;
+- all P5 source corrections through scan 60 remain propagated; scans **61–68** required **0 canonical body-text corrections**;
+- physical continuations **60→61 `நாடக / மேடை`** and **64→65 `நடத்தியவர் / களை`** were revalidated;
+- scan 68 terminal **`இதுதான் வேறுபாடு. தேவையான துங்கூட!`** and the closing star were revalidated;
+- current article body was reconstructed against the canonical page layer — **PASS**;
+- unresolved P5 fidelity discrepancies — **0**;
+- status — **STRICT-REVIEWED / FROZEN**.

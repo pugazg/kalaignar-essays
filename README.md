@@ -28,7 +28,7 @@ Workspace: `publications/perumoochu/`
   - `publications/perumoochu/translations/en/E6_CONSISTENCY_REVIEW.md`
   - `publications/perumoochu/translations/en/E7_RELEASE_CLOSEOUT.md`
 
-### Publication 15 — விடுதலைக் கிளர்ச்சி — ACTIVE
+### Publication 15 — விடுதலைக் கிளர்ச்சி — TAMIL FROZEN / ENGLISH NEXT
 
 Workspace: `publications/viduthalai-kilarcci/`
 
@@ -39,8 +39,9 @@ Workspace: `publications/viduthalai-kilarcci/`
 - P2 — **COMPLETE / PASS — 69/69 VERIFIED**
 - P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 — **COMPLETE / PASS**
-- P5 — **IN PROGRESS — 60/69 STRICT-REVIEWED**
-- English — **BLOCKED until Tamil archival freeze**
+- P5 — **COMPLETE / PASS — 69/69 STRICT-REVIEWED**
+- Tamil article assemblies — **2/2 STRICT-REVIEWED / FROZEN**
+- English — **UNBLOCKED — E0 planning/setup next**
 - historical Tamil glyph workflow — **MANDATORY**
 
 Verified structure:
@@ -50,7 +51,7 @@ Verified structure:
 - scans 8–68 — main prose work `விடுதலைக் கிளர்ச்சி`
 - scan 69 — publisher advertisement / catalogue
 
-P2 Batches 001–007 scans **1–69** are **COMPLETE / PASS — 69/69 VERIFIED**. P3 is **COMPLETE / PASS — 2/2 assemblies**. P4 is **COMPLETE / PASS**. P5 Batches 001–006 scans **1–60** are **COMPLETE / PASS — 60/69 STRICT-REVIEWED**. Exact next activity: **P5 scans 61–69**.
+P2 Batches 001–007 scans **1–69** are **COMPLETE / PASS — 69/69 VERIFIED**. P3 is **COMPLETE / PASS — 2/2 assemblies**. P4 is **COMPLETE / PASS**. P5 Batches 001–007 scans **1–69** are **COMPLETE / PASS — 69/69 STRICT-REVIEWED**. Tamil archival layer is **COMPLETE / STRICT-REVIEWED / FROZEN**. Exact next activity: **E0 English translation planning/setup**.
 
 ### Permanent `உடன்பிறப்பே` rule
 
