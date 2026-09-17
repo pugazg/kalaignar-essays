@@ -41,7 +41,8 @@ Workspace: `publications/viduthalai-kilarcci/`
 - P4 — **COMPLETE / PASS**
 - P5 — **COMPLETE / PASS — 69/69 STRICT-REVIEWED**
 - Tamil article assemblies — **2/2 STRICT-REVIEWED / FROZEN**
-- English — **UNBLOCKED — E0 planning/setup next**
+- English E0 planning/setup — **COMPLETE / PASS**
+- English article gates — **0/2 started; Article 0 T0→T1 next**
 - historical Tamil glyph workflow — **MANDATORY**
 
 Verified structure:
@@ -51,7 +52,7 @@ Verified structure:
 - scans 8–68 — main prose work `விடுதலைக் கிளர்ச்சி`
 - scan 69 — publisher advertisement / catalogue
 
-P2 Batches 001–007 scans **1–69** are **COMPLETE / PASS — 69/69 VERIFIED**. P3 is **COMPLETE / PASS — 2/2 assemblies**. P4 is **COMPLETE / PASS**. P5 Batches 001–007 scans **1–69** are **COMPLETE / PASS — 69/69 STRICT-REVIEWED**. Tamil archival layer is **COMPLETE / STRICT-REVIEWED / FROZEN**. Exact next activity: **E0 English translation planning/setup**.
+P2 Batches 001–007 scans **1–69** are **COMPLETE / PASS — 69/69 VERIFIED**. P3 is **COMPLETE / PASS — 2/2 assemblies**. P4 is **COMPLETE / PASS**. P5 Batches 001–007 scans **1–69** are **COMPLETE / PASS — 69/69 STRICT-REVIEWED**. Tamil archival layer is **COMPLETE / STRICT-REVIEWED / FROZEN**. English E0 is **COMPLETE / PASS** with both frozen Tamil blobs pinned and **0 English body files created**. Exact next activity: **Article 0 T0 source-pin revalidation → T1 complete English draft**.
 
 ### Permanent `உடன்பிறப்பே` rule
 

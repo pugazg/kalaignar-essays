@@ -18,7 +18,7 @@ Publication 13 **`துடிக்கும் இளமை` — RELEASE COMPL
 
 Publication 14 **`பெருமூச்சு` — RELEASE COMPLETE / FROZEN — Tamil P0–P5 PASS; English T0–T5 13/13 VERIFIED; E6 PASS; E7 PASS**.
 
-Publication 15 **`விடுதலைக் கிளர்ச்சி` — TAMIL COMPLETE / FROZEN — P0–P5 PASS; English E0 NEXT**.
+Publication 15 **`விடுதலைக் கிளர்ச்சி` — TAMIL COMPLETE / FROZEN — P0–P5 PASS; English E0 COMPLETE / PASS; Article 0 T0→T1 NEXT**.
 
 Do not reopen Publications 1–11 merely for stylistic polishing. Source PDFs are never committed.
 
@@ -2560,7 +2560,8 @@ Workspace: `publications/viduthalai-kilarcci/`
 - P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 — **COMPLETE / PASS**
 - P5 — **COMPLETE / PASS — 69/69 STRICT-REVIEWED**
-- English — **UNBLOCKED — E0 planning/setup next**
+- English E0 — **COMPLETE / PASS**
+- English article gates — **0/2 started; Article 0 T0→T1 next**
 - historical Tamil glyph workflow — **MANDATORY**
 
 ## P1 structure — corrected by P2 source evidence
@@ -2791,8 +2792,36 @@ Current partial-P5 main assembly blob — **`31f1a212d365bfdd1cf4ee2bf5fd57d15f7
 - scan 69 — catalogue only / outside article bodies
 - Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**
 
+## English E0 planning/setup
+
+**COMPLETE / PASS**
+
+Created and initialized:
+
+- `publications/viduthalai-kilarcci/TRANSLATION_PLAN.md`
+- `publications/viduthalai-kilarcci/translations/en/README.md`
+- `publications/viduthalai-kilarcci/translations/en/SOURCE_MAP.md`
+- `publications/viduthalai-kilarcci/translations/en/LEXICON.md`
+- `publications/viduthalai-kilarcci/translations/en/TRANSLATION_REVIEW.md`
+
+E0 controls:
+
+- translation identity — **project-created English translation**
+- frozen Tamil source pins — **2/2 PASS**
+- translation order — **0 → 1**
+- scans 1–3 — outside English article bodies
+- scan 69 — outside English article bodies
+- expected ordered Tamil-source comments — **65**
+- English article body files created during E0 — **0/2**
+- English body prose created during E0 — **0**
+- Tamil changes during E0 — **0**
+- blockers — **0**
+
+Frozen translation authorities:
+
+1. Article 0 `வேங்கையை விரட்டும் படலம்` — `c5be16582c2c3bb238cc1bf1ae47f8301173352f`
+2. Article 1 `விடுதலைக் கிளர்ச்சி` — `ec7b713d6516d75c1f36eb7e86f9ce5788d25036`
+
 ## Exact next activity
 
-**E0 English translation planning/setup for Publication 15.**
-
-Follow root `ESSAY_TRANSLATION_GUIDE.md`. Pin the two frozen Tamil assembly blobs, create the publication translation plan and English control files, and do not draft English body prose until E0 controls are complete.
+**Article 0 — T0 source-pin revalidation → T1 complete English draft.**

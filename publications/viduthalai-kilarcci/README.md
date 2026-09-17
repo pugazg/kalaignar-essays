@@ -14,7 +14,8 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - P3 article assembly — **COMPLETE / PASS — 2/2 ASSEMBLIES**
 - P4 source audit — **COMPLETE / PASS**
 - P5 strict visual-text-fidelity pass — **COMPLETE / PASS — 69/69 STRICT-REVIEWED**
-- English — **UNBLOCKED — E0 translation planning/setup next**
+- English E0 — **COMPLETE / PASS**
+- English article gates — **0/2 started; Article 0 T0→T1 next**
 - source PDF committed — **No**
 
 ## Printed / catalog identity
@@ -210,6 +211,30 @@ Affected main reading assembly updated.
 - unresolved historical-glyph ambiguities — **0**
 - Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**
 
+## English translation E0
+
+**COMPLETE / PASS**
+
+- translation identity — **project-created English translation**
+- frozen Tamil source pins — **2/2 PASS**
+- article order — **0 → 1**
+- English control files — **4/4 initialized**
+- expected source-boundary comments — **65**
+- English article body files created during E0 — **0/2**
+- English body prose created during E0 — **0**
+- Tamil changes during E0 — **0**
+- blockers — **0**
+- plan — `TRANSLATION_PLAN.md`
+- tracker — `translations/en/README.md`
+- frozen source map — `translations/en/SOURCE_MAP.md`
+- lexicon — `translations/en/LEXICON.md`
+- review ledger — `translations/en/TRANSLATION_REVIEW.md`
+
+Frozen English-source authorities:
+
+1. `articles/00-vengaiyai-virattum-padalam.md` — `c5be16582c2c3bb238cc1bf1ae47f8301173352f`
+2. `articles/01-viduthalai-kilarcci.md` — `ec7b713d6516d75c1f36eb7e86f9ce5788d25036`
+
 ## Exact next activity
 
-**E0 English translation planning/setup.**
+**Article 0 — T0 source-pin revalidation → T1 complete English draft.**

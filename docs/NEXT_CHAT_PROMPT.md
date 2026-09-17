@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / English E0 planning/setup
+# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / Article 0 T0→T1
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -8,50 +8,48 @@ Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AU
 - physical scans — **69/69 STRICT-REVIEWED**
 - canonical page records — **69/69 VERIFIED**
 - article assemblies — **2/2 STRICT-REVIEWED / FROZEN**
-- contributing article records — **65/65**
 - unresolved Tamil fidelity discrepancies — **0**
-- unresolved historical-glyph ambiguities — **0**
+
+## English E0 — COMPLETE / PASS
+
+Authority files:
+
+1. `publications/viduthalai-kilarcci/TRANSLATION_PLAN.md`
+2. `publications/viduthalai-kilarcci/translations/en/README.md`
+3. `publications/viduthalai-kilarcci/translations/en/SOURCE_MAP.md`
+4. `publications/viduthalai-kilarcci/translations/en/LEXICON.md`
+5. `publications/viduthalai-kilarcci/translations/en/TRANSLATION_REVIEW.md`
+6. root `ESSAY_TRANSLATION_GUIDE.md`
 
 Frozen Tamil authorities:
 
-1. `articles/00-vengaiyai-virattum-padalam.md` — scans 4–7 — blob **`c5be16582c2c3bb238cc1bf1ae47f8301173352f`**
-2. `articles/01-viduthalai-kilarcci.md` — scans 8–68 — blob **`ec7b713d6516d75c1f36eb7e86f9ce5788d25036`**
+- Article 0 `வேங்கையை விரட்டும் படலம்` — scans 4–7 — blob **`c5be16582c2c3bb238cc1bf1ae47f8301173352f`**
+- Article 1 `விடுதலைக் கிளர்ச்சி` — scans 8–68 — blob **`ec7b713d6516d75c1f36eb7e86f9ce5788d25036`**
 
-Scan 69 is publisher catalogue matter and is outside English article bodies.
+Translation order — **0 → 1**.
 
-## Durable P5 Batch-007 closure
+Scan 69 publisher catalogue remains outside English article bodies.
 
-- scans 61–68 — **PASS / 0 canonical body-text corrections**
-- scan 69 — **PASS / 0 canonical corrections**
-- 60→61 **`நாடக / மேடை`** revalidated
-- 64→65 **`நடத்தியவர் / களை`** revalidated
-- scan 68 closes with **`இதுதான் வேறுபாடு. தேவையான துங்கூட!`** and the printed star
-- catalogue heading **`கலைஞர் கருணாநிதி எழுதியவை`** and all six title/price rows revalidated
+## Exact next activity
 
-Do not reopen the frozen Tamil layer merely for translation convenience or stylistic normalisation.
+Process **Article 0 — `வேங்கையை விரட்டும் படலம்`** through:
 
-## Exact next activity — English E0
+### T0
+- revalidate the live frozen Tamil blob against **`c5be16582c2c3bb238cc1bf1ae47f8301173352f`**;
+- confirm scans **4–7** and Article-0 boundary;
+- confirm no Tamil drift;
+- record T0 PASS in English controls.
 
-Read and apply:
+### T1
+- create `publications/viduthalai-kilarcci/translations/en/00-vengaiyai-virattum-padalam.md`;
+- produce a complete close paragraph-by-paragraph English translation;
+- preserve Kalaignar's cadence, rhetorical questions, exclamations, repetition, satire and the mother-cow / tiger analogy;
+- do not add outside historical or political explanation;
+- insert exactly **4 ordered Tamil-source comments** for scans 4–7 using verified page/provenance boundaries;
+- retain Tamil title in metadata;
+- choose a working English title, but leave final title verification to T4/T5;
+- set `translation_status: draft`;
+- update README / SOURCE_MAP / LEXICON / TRANSLATION_REVIEW / TRANSLATION_PLAN as needed;
+- leave frozen Tamil files unchanged.
 
-1. root `ESSAY_TRANSLATION_GUIDE.md`
-2. `publications/viduthalai-kilarcci/VISUAL_TEXT_FIDELITY_REVIEW.md`
-3. `publications/viduthalai-kilarcci/P3_PROGRESS.md`
-4. `publications/viduthalai-kilarcci/README.md`
-5. root `HANDOVER.md`
-
-Then perform **E0 planning/setup only**:
-
-- create `publications/viduthalai-kilarcci/TRANSLATION_PLAN.md`;
-- create `translations/en/README.md`;
-- create `translations/en/SOURCE_MAP.md`;
-- create `translations/en/LEXICON.md`;
-- create `translations/en/TRANSLATION_REVIEW.md`;
-- pin both frozen Tamil blob SHAs above;
-- establish article order **0 → 1**;
-- record translation identity as **project-created English translation**;
-- record scan 69 as outside English article bodies;
-- create **no English article body prose during E0**;
-- leave Tamil files unchanged.
-
-After E0 closes, exact next activity should be Article 0 T0→T1 unless live `main` establishes another order.
+After T1 closes, exact next activity should be **Article 0 T2 bilingual fidelity review**.

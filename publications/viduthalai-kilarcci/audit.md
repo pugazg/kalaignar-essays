@@ -295,8 +295,29 @@ The source consists of preliminary verse/prologue material followed by one conti
 - blockers — **0**
 - Tamil archival layer — **COMPLETE / STRICT-REVIEWED / FROZEN**
 
+## English E0 planning/setup
+
+**COMPLETE / PASS**
+
+- permanent translation policy reviewed — **PASS**
+- frozen Tamil assembly blobs pinned — **2/2 PASS**
+- translation order — **0 → 1**
+- scans 1–3 excluded from English article bodies — **PASS**
+- scan 69 excluded from English article bodies — **PASS**
+- English control files initialized — **4/4**
+- expected ordered source comments — **65**
+- English article body files created during E0 — **0/2**
+- English body prose created during E0 — **0**
+- Tamil source changes during E0 — **0**
+- blockers — **0**
+- translation plan — `TRANSLATION_PLAN.md`
+- English tracker — `translations/en/README.md`
+- source map — `translations/en/SOURCE_MAP.md`
+- lexicon — `translations/en/LEXICON.md`
+- review ledger — `translations/en/TRANSLATION_REVIEW.md`
+
 ## Next
 
-Publication 15 Tamil archival work is **COMPLETE / PASS / FROZEN**.
+Publication 15 Tamil archival work remains **COMPLETE / PASS / FROZEN**. English E0 is **COMPLETE / PASS**.
 
-Next gate activity: **E0 English translation planning/setup**.
+Next gate activity: **Article 0 T0 source-pin revalidation → T1 complete English draft**.
