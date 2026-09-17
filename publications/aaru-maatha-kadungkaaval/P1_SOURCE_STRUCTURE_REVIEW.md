@@ -1,153 +1,20 @@
 # P1 Source Structure Review — ஆறுமாதக் கடுங்காவல்
 
-Source: `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`
-
 ## Gate result
 
-**P1 — COMPLETE / PASS — 224 / 224 physical scans structurally inspected.**
+**P1 — COMPLETE / PASS — 224/224 physical scans structurally inspected.**
 
-The earlier provisional 150-page P1 result was reopened after direct native inspection proved that the attached PDF contains 224 physical scans. The remaining scans **151–224** have now been directly inspected and classified.
+The complete pre-sync P1 ledger is preserved unchanged at [`history/2026-09-17-pre-sync/P1_SOURCE_STRUCTURE_REVIEW.md`](history/2026-09-17-pre-sync/P1_SOURCE_STRUCTURE_REVIEW.md).
 
-## Native source verification
+## Current downstream state
 
-- filename — `TVA_BOK_0064140_ஆறுமாதக்_கடுங்காவல்.pdf`
-- bytes — **282020019**
-- SHA-256 — **`8d4b227547144dd16a78d3f7e22edc3d955d754788ba96317c0c6ddd68d0ca69`**
-- physical scans — **224**
-- PDF version — **1.4**
-- source PDF committed — **No**
-- P0 — **COMPLETE / PASS**
+- P2 — **224/224 VERIFIED / PASS**
+- P2R — **224/224 COMPLETE**
+- P3 — **3/3 COMPLETE / PASS**
+- P4 — **COMPLETE / PASS**
+- P5 — **224/224 COMPLETE / PASS**
+- English T0–T5 — **3/3 VERIFIED**
+- E6 / E7 — **COMPLETE / PASS**
+- Publication 12 — **RELEASE COMPLETE / FROZEN**
 
-## Full structural map
-
-| Physical scan(s) | P1 classification | Notes |
-|---:|---|---|
-| 1 | physical-copy / ownership-donation mark | non-publication physical-copy layer |
-| 2 | title page | title / author / publisher witness |
-| 3 | imprint / edition page | first-edition 1953 witness |
-| 4 | publisher note | front matter |
-| 5 | blank / reverse / show-through | no independent printed body block |
-| 6–7 | dedication | `காணிக்கை` |
-| 8 | illustrated front-matter page | `முரசு` witness |
-| 9 | blank / reverse / show-through | front-matter separator |
-| 10–65 | **முரசு** main text | article 1 continuous body run |
-| 66 | **களம்** illustrated title-transition | stylized `களம்`; station-board `கல்லக்குடி`; article 2 structure |
-| 67 | blank / reverse / show-through | structural separator |
-| 68–106 | **களம்** main text | heading `களம்` on scan 68; continuous body through 106 |
-| 107 | blank / reverse / show-through | structural separator |
-| 108 | **சிறை** illustrated intertitle | barred/padlocked prison-gate illustration; no visible folio |
-| 109 | blank / reverse / show-through | structural separator |
-| 110–217 | **சிறை** main text | continuous body run |
-| 218 | main text + embedded section transition | printed 215; star separator + `சிறை திறந்தது` |
-| 219–220 | main text | printed 216–217; scan 220 closes section with star |
-| 221 | main text + new section heading | printed 218; `வெற்றி! வெற்றி!!` |
-| 222 | main text | printed 219 |
-| 223 | final text-bearing page / work terminus | printed 220; closing slogan block + star |
-| 224 | back cover / publisher device | `திராவிடப் பண்ணை`; no printed folio |
-
-## P2 structural refinement — scans 108–110
-
-Direct P2 inspection now establishes:
-
-- scan 107 — blank / reverse / show-through, no independent printed text;
-- scan 108 — illustrated main-work intertitle carrying the stylized word **`சிறை`** above a barred/padlocked prison gate; no visible folio;
-- scan 109 — blank / reverse / show-through, no independent printed text;
-- scan 110 — main-text opening of the **`சிறை`** section with the heading repeated at the top; no visible folio.
-
-This is a source-supported refinement of the already-complete P1 map, not a reopening of the P1 gate.
-
-## Extension review — scans 151–224
-
-All 74 remaining physical scans were visually inspected directly from the attached PDF.
-
-Findings:
-
-- scans **151–223** are text-bearing main-work pages;
-- visible printed folios progress continuously from **148** on scan 151 through **220** on scan 223;
-- no physical blank/reverse occurs in scans 151–224;
-- no advertisement page occurs in scans 151–224;
-- no separate colophon page occurs in scans 151–224;
-- scan 218 / printed 215 contains a star separator followed by the section heading **`சிறை திறந்தது`**;
-- scan 220 / printed 217 ends that section with a star separator;
-- scan 221 / printed 218 starts the next section with **`வெற்றி! வெற்றி!!`**;
-- scan 223 / printed 220 is the final narrative/text page, ending with a quoted slogan block and star;
-- scan 224 is the physical back cover with the publisher device **`திராவிடப் பண்ணை`**; the lower ribbon reads **`தெப்பக்குளம் திருச்சி`**;
-- scan 224 is therefore the proven physical source end.
-
-## P3 structural refinement — three article structures
-
-The user explicitly corrected the P3 structure to **முரசு / களம் / சிறை**. Source boundaries support that correction:
-
-- **முரசு** closes on scan 65 with its triple refrain and printed star;
-- scan 66 itself carries the illustrated **`களம்`** title, with station-board `கல்லக்குடி`;
-- scan 67 is blank/reverse;
-- scan 68 carries the heading **களம்**; scan 69 carries visible printed folio **66**;
-- **களம்** continues through scan 106;
-- scan 107 is blank/reverse;
-- scan 108 is the illustrated **சிறை** intertitle; scan 109 is blank/reverse; scan 110 begins the body.
-
-This is a structural refinement of the closed P1 map; P1 remains COMPLETE / PASS.
-
-## P2 structural refinement — scan 66
-
-P2 direct source inspection refined the earlier broad `main text` classification for scan 66:
-
-- scan 66 is an **illustrated main-work intertitle / transition page**;
-- the earlier `தடை` reading is superseded by the user's explicit correction: the stylized title is **`களம்`**; station-board **`கல்லக்குடி`** remains unchanged;
-- no visible printed folio appears;
-- scan 67 remains the directly confirmed blank/reverse separator;
-- this is a structural refinement only; P1 remains **COMPLETE / PASS — 224/224** and no full-source P1 reopening is required.
-
-## Front matter
-
-Scans 1–9:
-
-1. physical-copy mark;
-2. title;
-3. imprint;
-4. publisher note;
-5. blank/reverse;
-6–7. dedication;
-8. illustrated `முரசு` page;
-9. blank/reverse.
-
-No separate printed contents page was found anywhere in scans 1–224.
-
-## Printed pagination policy
-
-Printed folios remain source-specific and are read directly per scan.
-
-Known duplicate-folio anomaly:
-
-- scans 14–15 — printed 13–14;
-- scans 16–17 — printed 13–14 again;
-- scan 18 — printed 15.
-
-For the newly inspected extension, scans 151–223 show a regular direct sequence **148–220**.
-
-The earlier anomaly means a universal scan→folio formula must still not be used outside directly confirmed ranges.
-
-## Historical Tamil glyph overlay
-
-P1 is structural.
-
-P2 and P5 must follow `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` and explicitly check:
-
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
-
-## Final P1 accounting
-
-- source physical scans — **224**
-- structurally inspected — **224**
-- structurally unmapped — **0**
-- blank/reverse scans — **5, 9, 67, 107, 109**
-- front matter — **mapped**
-- main text — **mapped through final text page scan 223**
-- intertitle/section-transition evidence — **mapped**
-- final physical source role — **scan 224 back cover**
-- P1 blockers — **0**
-- P1 result — **COMPLETE / PASS**
-
-## Exact next activity
-
-P1 remains **COMPLETE / PASS**. Current publication workflow is **P4 — source audit / completeness review** after P3 closure.
+Any `next activity` or `current workflow` wording in the preserved P1 ledger records the state at that historical checkpoint and is not an active instruction. Root `HANDOVER.md` and this publication's `README.md` control current status.
