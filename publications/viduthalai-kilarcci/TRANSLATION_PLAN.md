@@ -10,7 +10,9 @@ Permanent policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_G
 
 > **Translate the language; do not neutralise the voice.**
 
-## Tamil prerequisite — COMPLETE / FROZEN
+# FINAL STATE — RELEASE COMPLETE / FROZEN
+
+## Tamil prerequisite
 
 - P0–P5 — **COMPLETE / PASS**
 - physical scans — **69/69 STRICT-REVIEWED**
@@ -20,21 +22,20 @@ Permanent policy: [`../../ESSAY_TRANSLATION_GUIDE.md`](../../ESSAY_TRANSLATION_G
 - unresolved Tamil fidelity discrepancies — **0**
 - unresolved historical-glyph ambiguities — **0**
 - guessed readings — **0**
-- Tamil status — **COMPLETE / STRICT-REVIEWED / FROZEN**
 
-## Frozen Tamil authorities and order
+## Frozen Tamil authorities
 
-| # | Tamil title | Scans | Tamil assembly | Frozen Tamil blob | English title / status |
+| # | Tamil title | Scans | Frozen Tamil blob | Final English title | Final English blob |
 |---:|---|---:|---|---|---|
-| 0 | `வேங்கையை விரட்டும் படலம்` | 4–7 | `articles/00-vengaiyai-virattum-padalam.md` | `c5be16582c2c3bb238cc1bf1ae47f8301173352f` | **The Chapter of Driving Away the Tiger / T5 VERIFIED** |
-| 1 | `விடுதலைக் கிளர்ச்சி` | 8–68 | `articles/01-viduthalai-kilarcci.md` | `ec7b713d6516d75c1f36eb7e86f9ce5788d25036` | **Liberation Uprising / T5 VERIFIED** |
+| 0 | `வேங்கையை விரட்டும் படலம்` | 4–7 | `c5be16582c2c3bb238cc1bf1ae47f8301173352f` | **The Chapter of Driving Away the Tiger** | `67c942bb8e1a631379834fe9757f5378085ccb58` |
+| 1 | `விடுதலைக் கிளர்ச்சி` | 8–68 | `ec7b713d6516d75c1f36eb7e86f9ce5788d25036` | **Liberation Uprising** | `082954a6810dc88323aa1e4c0436523720754e55` |
 
-Translation order — **0 → 1**. Scans **1–3** and **69** are outside English article bodies.
+Scans **1–3** and **69** are outside English article bodies.
 
 Source-boundary comments:
 
-- Article 0 — **4/4**
-- Article 1 — **61/61**
+- Article 0 — **4/4 VERIFIED**
+- Article 1 — **61/61 VERIFIED**
 - publication total — **65/65 VERIFIED**
 
 ## Durable translation principles
@@ -52,91 +53,59 @@ Source-boundary comments:
 
 ## English controls
 
-```text
-publications/viduthalai-kilarcci/
-  TRANSLATION_PLAN.md
-  translations/
-    en/
-      README.md
-      SOURCE_MAP.md
-      LEXICON.md
-      TRANSLATION_REVIEW.md
-      E6_CONSISTENCY_REVIEW.md
-      00-vengaiyai-virattum-padalam.md
-      01-viduthalai-kilarcci.md
-```
+- `translations/en/README.md`
+- `translations/en/SOURCE_MAP.md`
+- `translations/en/LEXICON.md`
+- `translations/en/TRANSLATION_REVIEW.md`
+- `translations/en/E6_CONSISTENCY_REVIEW.md`
+- `translations/en/E7_RELEASE_CLOSEOUT.md`
 
-## Gate model
+## Gate result
 
-Article gates:
+- E0 — **COMPLETE / PASS**
+- T0 — **2/2 PASS**
+- T1 — **2/2 COMPLETE**
+- T2 — **2/2 PASS**
+- T3 — **2/2 PASS**
+- T4 — **2/2 PASS**
+- T5 — **2/2 VERIFIED**
+- E6 — **COMPLETE / PASS**
+- E7 — **COMPLETE / PASS**
 
-- **T0** — frozen Tamil source pin
-- **T1** — close paragraph-by-paragraph draft
-- **T2** — bilingual fidelity review
-- **T3** — Kalaignar voice review
-- **T4** — terminology / quotation / citation audit
-- **T5** — article verification
+## Article provenance
 
-Publication gates:
+### Article 0
 
-- **E6** — publication-wide English consistency review
-- **E7** — English release closeout
+- T1 — `02b3f03c2f6b3c91d040064297645bbfb3659929`
+- T2 — `535be98ee158f6b697591afd982aede24b46fc6e`
+- T3 — `36aab78e955117f4fefe14759ca8dac46bac99a5`
+- T4 — `7ee1a711aff55b99c1047f204cf837395f279077`
+- T5/final — `67c942bb8e1a631379834fe9757f5378085ccb58`
 
-## E0 — COMPLETE / PASS
+### Article 1
 
-Date: **2026-09-17**
+- T1 — `f451f766b43eb83d525fec765c6d642a0018cfa2`
+- T2 body — `9ac0bbebd5f11a5d881a96deb7695de252907a09`
+- T3 / T4 — **PASS / T2 body retained**
+- T5/final — `082954a6810dc88323aa1e4c0436523720754e55`
+- source-irregularity translator notes — **2/2 retained** (`அனுமதியை`, `இரண்டாமிரம்`)
 
-- frozen Tamil article blobs pinned — **2/2**
-- translation order fixed — **0 → 1**
-- translation identity — **project-created English translation**
-- English body prose during E0 — **0**
-- Tamil source changes during E0 — **0**
-- blockers — **0**
+## E6 / E7 release result
 
-## Article 0 — T0–T5 COMPLETE / VERIFIED
-
-- T1 blob — `02b3f03c2f6b3c91d040064297645bbfb3659929`
-- T2 blob — `535be98ee158f6b697591afd982aede24b46fc6e`
-- T3 blob — `36aab78e955117f4fefe14759ca8dac46bac99a5`
-- T4 blob — `7ee1a711aff55b99c1047f204cf837395f279077`
-- T5 verified English blob — **`67c942bb8e1a631379834fe9757f5378085ccb58`**
-- title — **The Chapter of Driving Away the Tiger**
-- source comments — **4/4 PASS**
-- blockers — **0**
-
-## Article 1 — T0–T5 COMPLETE / VERIFIED
-
-- frozen Tamil blob — `ec7b713d6516d75c1f36eb7e86f9ce5788d25036`
-- T1 blob — `f451f766b43eb83d525fec765c6d642a0018cfa2`
-- T2 body blob — `9ac0bbebd5f11a5d881a96deb7695de252907a09`
-- T3 — **PASS / T2 body retained**
-- T4 — **PASS / T2 body retained**
-- T5 verified English blob — **`082954a6810dc88323aa1e4c0436523720754e55`**
-- title — **Liberation Uprising**
-- source comments — **61/61 PASS**
-- source-irregularity translator notes — **2** (`அனுமதியை`, `இரண்டாமிரம்`)
-- untranslated Tamil body leakage — **0** excluding metadata/comments
-- Tamil source changes — **0**
-- blockers — **0**
-
-## E6 publication-wide consistency review — COMPLETE / PASS
-
-Authority: `translations/en/E6_CONSISTENCY_REVIEW.md`.
-
-- articles reviewed — **2/2**
-- recurring terminology — **PASS**
-- title style / capitalization — **PASS**
-- movement names / epithets / source-bearing names — **PASS**
-- quotation / punctuation treatment — **PASS**
-- source comments — **65/65 VERIFIED**
-- translator/source notes — **2/2 retained**
-- frozen Tamil pins — **2/2 unchanged**
-- English body corrections during E6 — **0**
-- post-E6 Article 0 English blob — **`67c942bb8e1a631379834fe9757f5378085ccb58`**
-- post-E6 Article 1 English blob — **`082954a6810dc88323aa1e4c0436523720754e55`**
+- E6 body corrections — **0**
+- E7 body corrections — **0**
+- frozen Tamil changes — **0**
+- final English blob changes after E6 — **0/2**
+- unresolved translation choices — **0**
 - unresolved consistency issues — **0**
-- blockers — **0**
+- release blockers — **0**
+- Publication 15 English translation — **COMPLETE / RELEASED / FROZEN**
+- Publication 15 overall workflow — **RELEASE COMPLETE / FROZEN**
 
-## Exact next activity
+## Permanent non-regression
 
-**E7 English release closeout.**
+Do not reopen Publication 15 merely for stylistic polishing, terminology homogenisation, modernisation, or stale workflow prompts. Reopen only for a genuine source-supported correction or an explicitly requested targeted correction, with downstream gates reopened as required.
+
+## Next activity
+
+No Publication 15 work remains. Live `main` contains no established Publication 16 intake; await explicit user direction or a newly supplied controlling source.

@@ -4,6 +4,8 @@
 
 Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf`
 
+# RELEASE COMPLETE / FROZEN
+
 ## Current state
 
 - repository classification — **ESSAYS / ARTICLES**
@@ -18,11 +20,15 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - English E0 — **COMPLETE / PASS**
 - English T0–T5 — **2/2 ARTICLES VERIFIED**
 - English E6 — **COMPLETE / PASS**
+- English E7 — **COMPLETE / PASS**
 - verified English source comments — **65/65**
-- English body corrections during E6 — **0**
+- Article-1 translator/source notes — **2/2 retained**
+- English body corrections during E6/E7 — **0**
 - Tamil source changes during English work — **0**
+- unresolved translation / consistency issues — **0**
 - blockers — **0**
-- exact next activity — **E7 English release closeout**
+- English translation — **COMPLETE / RELEASED / FROZEN**
+- overall workflow — **RELEASE COMPLETE / FROZEN**
 
 ## Printed / catalog identity
 
@@ -53,14 +59,7 @@ Controlling source: `TVA_BOK_0064066_விடுதலைக்கிளர்�
 - scan **69** — publisher catalogue / outside article bodies
 - separate contents page — **none**
 
-## Tamil authorities
-
-- P2 — `P2_PROGRESS.md`
-- P3 — `P3_PROGRESS.md`
-- P4 — `P4_SOURCE_AUDIT.md`
-- P5 — `VISUAL_TEXT_FIDELITY_REVIEW.md`
-
-Frozen Tamil assemblies:
+## Frozen Tamil authorities
 
 1. `articles/00-vengaiyai-virattum-padalam.md` — scans 4–7 — **`c5be16582c2c3bb238cc1bf1ae47f8301173352f`**
 2. `articles/01-viduthalai-kilarcci.md` — scans 8–68 — **`ec7b713d6516d75c1f36eb7e86f9ce5788d25036`**
@@ -82,11 +81,11 @@ Scan 69 remains outside article bodies.
 - scan 64→65 — `நடத்தியவர் / களை`
 - scan 68 — `இதுதான் வேறுபாடு. தேவையான துங்கூட!` + closing star
 
-## English authorities
+## English release authorities
 
 Permanent guide: `../../ESSAY_TRANSLATION_GUIDE.md`
 
-Publication controls:
+Controls:
 
 - `TRANSLATION_PLAN.md`
 - `translations/en/README.md`
@@ -94,31 +93,28 @@ Publication controls:
 - `translations/en/LEXICON.md`
 - `translations/en/TRANSLATION_REVIEW.md`
 - `translations/en/E6_CONSISTENCY_REVIEW.md`
+- `translations/en/E7_RELEASE_CLOSEOUT.md`
 
-### Article 0 — T0–T5 VERIFIED / E6 PASS
+### Article 0 — VERIFIED / RELEASED
 
 - Tamil — `வேங்கையை விரட்டும் படலம்`
 - English — **The Chapter of Driving Away the Tiger**
 - frozen Tamil blob — `c5be16582c2c3bb238cc1bf1ae47f8301173352f`
-- post-E6 English blob — **`67c942bb8e1a631379834fe9757f5378085ccb58`**
+- final English blob — **`67c942bb8e1a631379834fe9757f5378085ccb58`**
 - source comments — **4/4 PASS**
 
-### Article 1 — T0–T5 VERIFIED / E6 PASS
+### Article 1 — VERIFIED / RELEASED
 
 - Tamil — `விடுதலைக் கிளர்ச்சி`
 - English — **Liberation Uprising**
 - frozen Tamil blob — `ec7b713d6516d75c1f36eb7e86f9ce5788d25036`
-- T1 draft blob — `f451f766b43eb83d525fec765c6d642a0018cfa2`
-- T2 body — `9ac0bbebd5f11a5d881a96deb7695de252907a09`
-- T3 / T4 — **PASS / T2 body retained**
-- post-E6 English blob — **`082954a6810dc88323aa1e4c0436523720754e55`**
+- final English blob — **`082954a6810dc88323aa1e4c0436523720754e55`**
 - source comments — **61/61 PASS**
-- translator/source notes — **2** (`அனுமதியை`, `இரண்டாமிரம்`)
-- blockers — **0**
+- translator/source notes — **2/2 retained** (`அனுமதியை`, `இரண்டாமிரம்`)
 
 Historical and political statements in the English body are translations of the frozen 1953 source; they are not silently updated or presented as independently verified present-day claims.
 
-## Publication English gate state
+## Final English gate state
 
 - E0 — **PASS**
 - T0 — **2/2 PASS**
@@ -128,25 +124,20 @@ Historical and political statements in the English body are translations of the 
 - T4 — **2/2 PASS**
 - T5 — **2/2 VERIFIED**
 - E6 — **COMPLETE / PASS**
+- E7 — **COMPLETE / PASS**
 - source comments — **65/65 VERIFIED**
 - frozen Tamil pins — **2/2 unchanged**
-- post-E6 English blobs — **2/2 unchanged from T5**
+- final English blobs — **2/2 unchanged from E6**
 - unresolved translation / consistency choices — **0**
 - Tamil drift — **0**
 - blockers — **0**
 
-## E6 result
+## Permanent non-regression
 
-`translations/en/E6_CONSISTENCY_REVIEW.md` records the publication-wide review.
+Do not reopen this publication merely for stylistic polishing, terminology homogenisation, modernisation, or stale workflow prompts.
 
-- recurring terminology — **PASS**
-- title style / capitalization — **PASS**
-- movement names / epithets / literary and religious names — **PASS**
-- period forms / transliterations — **PASS**
-- quotation / punctuation consistency — **PASS**
-- translator/source notes — **PASS**
-- English body corrections required — **0**
+Reopen only for a genuine source-supported correction or an explicitly requested targeted English correction, with affected downstream gates explicitly reopened.
 
-## Exact next activity
+## Next activity
 
-**E7 English release closeout.**
+No further Publication 15 work is pending. Live `main` contains no established Publication 16 intake; await explicit user direction or a newly supplied controlling source.

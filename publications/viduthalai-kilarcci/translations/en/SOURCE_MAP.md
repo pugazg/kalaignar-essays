@@ -1,10 +1,13 @@
 # English Translation Source Map — விடுதலைக் கிளர்ச்சி
 
-This file is the frozen-source map for all English work on `விடுதலைக் கிளர்ச்சி`.
+This file is the frozen-source map for the released English translation of `விடுதலைக் கிளர்ச்சி`.
 
 Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_TRANSLATION_GUIDE.md)  
 Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)  
-E6 review: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)
+E6 review: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)  
+E7 closeout: [`E7_RELEASE_CLOSEOUT.md`](E7_RELEASE_CLOSEOUT.md)
+
+# RELEASE COMPLETE / FROZEN
 
 ## Sole Tamil translation authorities
 
@@ -26,7 +29,7 @@ E6 review: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)
 1. The pinned blob SHA, not merely the mutable path, is the Tamil authority for each English article.
 2. Verified page records / controlling scans may be consulted only for punctuation, quotation scope, page boundaries or source-witness questions.
 3. The raw baseline, OCR, web transcriptions, alternate editions, remembered wording and general knowledge are not translation authorities.
-4. If a source-supported Tamil correction changes a frozen blob, the affected English article must be reopened.
+4. If a source-supported Tamil correction changes a frozen blob, the affected English article and downstream gates must be reopened.
 5. Source-specific labels, historical names, political referents and cultural references must not be silently expanded from outside knowledge.
 6. Historical and political statements in the English body reproduce the frozen 1953 source's claims; they are not independently verified present-day assertions.
 7. Quoted material is translated from the frozen Tamil wording, not replaced with an external published translation.
@@ -47,14 +50,12 @@ E6 review: [`E6_CONSISTENCY_REVIEW.md`](E6_CONSISTENCY_REVIEW.md)
 - scan 68 — `இதுதான் வேறுபாடு. தேவையான துங்கூட!` plus printed star;
 - scan 69 — catalogue only / excluded from article bodies.
 
-## Verified English authorities — post E6
+## Final English authorities
 
-E6 required **0 English body corrections**, so the T5 blobs remain the post-E6 authorities.
-
-| # | English file | Verified English title | Source comments | Post-E6 English blob | Status |
+| # | English file | Verified English title | Source comments | Final English blob | Status |
 |---:|---|---|---:|---|---|
-| 0 | `00-vengaiyai-virattum-padalam.md` | **The Chapter of Driving Away the Tiger** | 4/4 | `67c942bb8e1a631379834fe9757f5378085ccb58` | T5 VERIFIED / E6 PASS |
-| 1 | `01-viduthalai-kilarcci.md` | **Liberation Uprising** | 61/61 | `082954a6810dc88323aa1e4c0436523720754e55` | T5 VERIFIED / E6 PASS |
+| 0 | `00-vengaiyai-virattum-padalam.md` | **The Chapter of Driving Away the Tiger** | 4/4 | `67c942bb8e1a631379834fe9757f5378085ccb58` | T5 VERIFIED / E6 PASS / E7 PASS |
+| 1 | `01-viduthalai-kilarcci.md` | **Liberation Uprising** | 61/61 | `082954a6810dc88323aa1e4c0436523720754e55` | T5 VERIFIED / E6 PASS / E7 PASS |
 
 ## Article 1 provenance notes
 
@@ -62,19 +63,23 @@ E6 required **0 English body corrections**, so the T5 blobs remain the post-E6 a
 - T2 body — `9ac0bbebd5f11a5d881a96deb7695de252907a09`
 - T3 — **PASS / no body change**
 - T4 — **PASS / no body change**
-- T5 — `082954a6810dc88323aa1e4c0436523720754e55`
+- T5/final — `082954a6810dc88323aa1e4c0436523720754e55`
 - frozen `அனுமதியை` is exposed in a translator note rather than silently normalized;
 - frozen `இரண்டாமிரம்` is exposed in a translator note while the repeated numerical sense is rendered **two thousand**;
+- translator/source notes retained at release — **2/2**;
 - Tamil source changes during English work — **0**.
 
-## E6 state
+## Release state
 
 - frozen Tamil pins — **2/2 unchanged**
-- English authorities — **2/2 unchanged**
+- final English authorities — **2/2 unchanged from E6**
 - source comments — **65/65 VERIFIED**
-- unresolved consistency issues — **0**
+- translator/source notes — **2/2 retained**
+- unresolved translation / consistency issues — **0**
 - blockers — **0**
+- E7 — **COMPLETE / PASS**
+- publication — **RELEASE COMPLETE / FROZEN**
 
-## Exact next activity
+## Next activity
 
-**E7 English release closeout.**
+No Publication 15 work remains. No Publication 16 intake is established on live `main`; await explicit user direction or a newly supplied controlling source.

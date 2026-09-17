@@ -8,7 +8,7 @@ Permanent workflow: `ESSAY_PROCESSING_GUIDE.md`, `HISTORICAL_TAMIL_GLYPH_TRANSCR
 
 ## Repository status
 
-Publications **1–14 are RELEASE COMPLETE / FROZEN**.
+Publications **1–15 are RELEASE COMPLETE / FROZEN**.
 
 Do not reopen a frozen publication merely for stylistic polishing, terminology homogenisation, modernisation, or a stale workflow prompt. Reopen only for a genuine source-supported correction or an explicitly requested targeted correction, with downstream gates reopened as required.
 
@@ -28,35 +28,46 @@ Workspace: `publications/perumoochu/`
   - `publications/perumoochu/translations/en/E6_CONSISTENCY_REVIEW.md`
   - `publications/perumoochu/translations/en/E7_RELEASE_CLOSEOUT.md`
 
-### Publication 15 — விடுதலைக் கிளர்ச்சி — TAMIL FROZEN / ENGLISH NEXT
+### Publication 15 — விடுதலைக் கிளர்ச்சி — RELEASE COMPLETE / FROZEN
 
 Workspace: `publications/viduthalai-kilarcci/`
 
 - source — `TVA_BOK_0064066_விடுதலைக்கிளர்ச்சி.pdf`
-- physical scans — **69**
-- P0 — **COMPLETE / PASS**
-- P1 — **COMPLETE / PASS — 69/69**
-- P2 — **COMPLETE / PASS — 69/69 VERIFIED**
-- P3 — **COMPLETE / PASS — 2/2 ASSEMBLIES**
-- P4 — **COMPLETE / PASS**
-- P5 — **COMPLETE / PASS — 69/69 STRICT-REVIEWED**
+- physical scans — **69/69 STRICT-REVIEWED**
+- Tamil P0–P5 — **COMPLETE / PASS**
 - Tamil article assemblies — **2/2 STRICT-REVIEWED / FROZEN**
-- English E0 planning/setup — **COMPLETE / PASS**
-- English Article 0 — **T0–T5 VERIFIED**
-- English article gates — **1/2 VERIFIED; Article 1 T0→T1 next**
-- historical Tamil glyph workflow — **MANDATORY**
+- English E0 — **COMPLETE / PASS**
+- English T0–T5 — **2/2 VERIFIED**
+- E6 — **COMPLETE / PASS**
+- E7 — **COMPLETE / PASS**
+- source comments — **65/65 VERIFIED**
+- Article-1 translator/source notes — **2/2 retained**
+- Tamil drift during English work — **0**
+- unresolved release blockers — **0**
+- English — **COMPLETE / RELEASED / FROZEN**
+- overall workflow — **RELEASE COMPLETE / FROZEN**
 
-Verified structure:
+Final English authorities:
+
+1. **The Chapter of Driving Away the Tiger** — `67c942bb8e1a631379834fe9757f5378085ccb58`
+2. **Liberation Uprising** — `082954a6810dc88323aa1e4c0436523720754e55`
+
+Release authorities:
+
+- `publications/viduthalai-kilarcci/translations/en/E6_CONSISTENCY_REVIEW.md`
+- `publications/viduthalai-kilarcci/translations/en/E7_RELEASE_CLOSEOUT.md`
+
+Verified source structure:
 
 - scans 1–3 — cover / reverse / imprint
-- scans 4–7 — introductory verse/prologue `வேங்கையை விரட்டும் படலம்`
-- scans 8–68 — main prose work `விடுதலைக் கிளர்ச்சி`
-- scan 69 — publisher advertisement / catalogue
+- scans 4–7 — `வேங்கையை விரட்டும் படலம்`
+- scans 8–68 — `விடுதலைக் கிளர்ச்சி`
+- scan 69 — publisher catalogue / outside article bodies
 
-P2 Batches 001–007 scans **1–69** are **COMPLETE / PASS — 69/69 VERIFIED**. P3 is **COMPLETE / PASS — 2/2 assemblies**. P4 is **COMPLETE / PASS**. P5 Batches 001–007 scans **1–69** are **COMPLETE / PASS — 69/69 STRICT-REVIEWED**. Tamil archival layer is **COMPLETE / STRICT-REVIEWED / FROZEN**. English E0 is **COMPLETE / PASS**. Article 0 **The Chapter of Driving Away the Tiger** is **T0–T5 VERIFIED** with English blob `67c942bb8e1a631379834fe9757f5378085ccb58`. Exact next activity: **Article 1 T0 source-pin revalidation → T1 complete English draft**.
+No Publication 16 intake is established on live `main`. Do not invent or start a new publication without explicit user direction or a newly supplied controlling source.
 
 ### Permanent `உடன்பிறப்பே` rule
 
 Every exact source `உடன்பிறப்பே` is retained as **`Udanpirappē`** in English; direct salutation **`Udanpirappē,`**.
 
-Live `main` and root `HANDOVER.md` remain authoritative.
+Live `main` remains authoritative. Publication-specific release records control their closed state.

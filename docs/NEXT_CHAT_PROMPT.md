@@ -1,65 +1,58 @@
-# NEXT CHAT PROMPT — விடுதலைக் கிளர்ச்சி / English E7 release closeout
+# NEXT CHAT PROMPT — Publication 15 release closed / next source pending
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Publication 15 Tamil state — FROZEN
+## Publications 1–15
 
-- P0–P5 — **COMPLETE / PASS**
+**RELEASE COMPLETE / FROZEN.**
+
+Do not reopen any frozen publication merely for stylistic polishing, terminology homogenisation, modernisation, or stale prompts. Reopen only for a genuine source-supported correction or an explicitly requested targeted correction, with all affected downstream gates reopened.
+
+## Publication 15 — `விடுதலைக் கிளர்ச்சி`
+
+Workspace: `publications/viduthalai-kilarcci/`
+
+Final state:
+
+- Tamil P0–P5 — **COMPLETE / PASS**
 - physical scans — **69/69 STRICT-REVIEWED**
 - canonical page records — **69/69 VERIFIED**
 - Tamil assemblies — **2/2 STRICT-REVIEWED / FROZEN**
-- Tamil drift during English work — **0**
+- English E0 — **COMPLETE / PASS**
+- English T0–T5 — **2/2 VERIFIED**
+- E6 — **COMPLETE / PASS**
+- E7 — **COMPLETE / PASS**
+- source comments — **65/65 VERIFIED**
+- Article-1 translator/source notes — **2/2 retained**
+- unresolved translation / consistency issues — **0**
+- Tamil drift — **0**
+- blockers — **0**
+- Publication 15 — **RELEASE COMPLETE / FROZEN**
 
 Frozen Tamil authorities:
 
 1. `வேங்கையை விரட்டும் படலம்` — `c5be16582c2c3bb238cc1bf1ae47f8301173352f`
 2. `விடுதலைக் கிளர்ச்சி` — `ec7b713d6516d75c1f36eb7e86f9ce5788d25036`
 
-## English state
+Final English authorities:
 
-- E0 — **COMPLETE / PASS**
-- T0–T5 — **2/2 ARTICLES VERIFIED**
-- E6 — **COMPLETE / PASS**
-- source comments — **65/65 VERIFIED**
-- unresolved translation choices — **0**
-- unresolved E6 consistency issues — **0**
-- blockers — **0**
+1. **The Chapter of Driving Away the Tiger** — `67c942bb8e1a631379834fe9757f5378085ccb58`
+2. **Liberation Uprising** — `082954a6810dc88323aa1e4c0436523720754e55`
 
-### Article 0
+Release authorities:
 
-- title — **The Chapter of Driving Away the Tiger**
-- post-E6 English blob — **`67c942bb8e1a631379834fe9757f5378085ccb58`**
-- source comments — **4/4**
+- `publications/viduthalai-kilarcci/translations/en/E6_CONSISTENCY_REVIEW.md`
+- `publications/viduthalai-kilarcci/translations/en/E7_RELEASE_CLOSEOUT.md`
 
-### Article 1
+Historical and political statements in the English body are translations of the frozen 1953 source. Do not silently update or independently fact-correct them as part of archival maintenance.
 
-- title — **Liberation Uprising**
-- post-E6 English blob — **`082954a6810dc88323aa1e4c0436523720754e55`**
-- source comments — **61/61**
-- translator/source notes — **2** (`அனுமதியை`, `இரண்டாமிரம்`)
+## Exact next activity
 
-## E6 authority
+Live `main` contains **no established Publication 16 intake**.
 
-`publications/viduthalai-kilarcci/translations/en/E6_CONSISTENCY_REVIEW.md`
+Do **not** invent, infer, or start a new publication from unrelated repository folders. Await one of the following from the user:
 
-E6 required **0 English body corrections**. Both verified English blobs therefore remain unchanged from T5.
+1. a new controlling source PDF / baseline for the next publication; or
+2. an explicit request to reopen a frozen publication for a source-supported targeted correction.
 
-Historical and political statements in the English body are translations of the frozen 1953 source. Do not silently update or fact-correct them during release closeout.
-
-## Exact next activity — E7
-
-Perform **English release closeout**:
-
-- revalidate both frozen Tamil blob pins;
-- revalidate both post-E6 English blobs;
-- confirm both English files remain `translation_status: verified`;
-- confirm **65/65** source comments;
-- confirm the two Article-1 translator/source notes remain present;
-- confirm E0, T0–T5 and E6 are all PASS / complete;
-- confirm there are **0 unresolved translation choices**, **0 blockers**, and **0 Tamil drift**;
-- create an English release/readiness closeout record if consistent with prior publication methodology;
-- update publication README, audit, translation controls, root README / `HANDOVER.md` where practicable;
-- mark Publication 15 **ENGLISH-TRANSLATION COMPLETE / RELEASE CLOSED** only after all E7 checks pass;
-- freeze Publication 15 against stylistic reopening after E7, except for source-supported corrections or explicit user instruction.
-
-After E7 closes, advance the repository to the next publication/activity established by live `main`.
+When a new publication source is supplied, begin with normal P0 source intake under `ESSAY_PROCESSING_GUIDE.md` and `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` as applicable.
