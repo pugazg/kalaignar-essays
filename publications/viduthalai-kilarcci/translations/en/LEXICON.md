@@ -4,7 +4,7 @@ Permanent policy: [`../../../../ESSAY_TRANSLATION_GUIDE.md`](../../../../ESSAY_T
 Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)  
 Frozen source map: [`SOURCE_MAP.md`](SOURCE_MAP.md)
 
-This is a **living consistency aid**, not a licence for mechanical word substitution. Publication-specific choices remain provisional until reviewed at T4 unless marked as a permanent repository rule.
+This is a **living consistency aid**, not a licence for mechanical word substitution.
 
 ## Permanent repository rules
 
@@ -14,39 +14,55 @@ This is a **living consistency aid**, not a licence for mechanical word substitu
 | source epithets / labels | preserve the source's chosen label; do not silently replace it with a modern full-name identification | permanent repository rule |
 | quoted material | translate the frozen Tamil wording; do not import an external published translation unless explicitly authorised | permanent repository rule |
 
-## Publication-specific seed lexicon
+## Publication-specific verified lexicon
 
-| Tamil / source form | Working English treatment | E0 note | Status |
+| Tamil / source form | Verified English treatment | Note | Status |
 |---|---|---|---|
-| `விடுதலைக் கிளர்ச்சி` | **liberation uprising** in Article 0; Article 1 title wording remains pending | Preserve the force of both `விடுதலை` and `கிளர்ச்சி`; contextual variants remain possible in Article 1. | Article 0 verified / publication title provisional |
-| `விடுதலை` | **liberation / freedom** | Context-sensitive; do not force one English word across every occurrence. | provisional |
-| `கிளர்ச்சி` | **uprising / agitation / revolt / struggle** | Preserve rhetorical force and repetition; contextual choice required. | provisional |
-| `திராவிடம்` | **Dravida / Dravida land** | Article 0 uses **Dravida** / **Dravida land**; preserve the source referent without broader modern substitution. | Article 0 verified |
-| `திராவிடர்` | **Dravidians** | Preserve source terminology. | provisional |
-| `ஆரியர்` | **Aryans** | Preserve source terminology and contrasts. | provisional |
-| `திராவிட முன்னேற்ற கழகம்` | **Dravida Munnetra Kazhagam** | Preserve the source organisation name; do not add present-day explanation inside body prose. | provisional |
-| `அறிஞர் அண்ணா` | **Arignar Anna** | Preserve the source-bearing title/address rather than replacing it with an outside full-name identification. | provisional |
-| `ஏகாதிபத்யம் / ஏகாதிபத்தியம்` | **imperialism / imperial domination** | Choose by immediate syntax; preserve polemical force. | provisional |
-| `காமன்வெல்த்` | **Commonwealth** | Preserve the source political term without adding external institutional explanation. | provisional |
-| `இந்தோ சீனா` | **Indo China** | Preserve the established two-word English form for this publication; do not silently modernise to another form. | established project choice |
-| `புறநானூறு` | **Purananuru** | Source literary reference; no outside explanatory gloss inside the body. | provisional |
-| `விபீஷணர்கள்` | **Vibhishanas** | Preserve the source metaphor/epithet rather than replacing it with an explanatory category. | provisional |
-| `ஆரிய மாயை` | source-bearing title/reference; English treatment pending context | Do not silently paraphrase or identify beyond the frozen text. | provisional |
-| `பாஸ்டில்` | **Bastille** | Conventional English form may be used while preserving source argument. | provisional |
-| `கில்லெட்டின்` | **guillotine** | Conventional English form; preserve rhetorical context. | provisional |
-| `சைனா` | **China** | Follow source referent; do not rewrite surrounding historical claims from outside knowledge. | provisional |
-| `சுகர்னோ` | **Sukarno** | Source name; verify local context during T2/T4, without adding biography. | provisional |
-| `மாசேதுங்` | source-bearing transliteration / conventional English form to be fixed at T4 | Do not silently expand or annotate from outside knowledge. | provisional |
-| `அவுங்ஸான்` | source-bearing transliteration / conventional English form to be fixed at T4 | Preserve source referent and quotation scope. | provisional |
-| `கோட்சே` | source-bearing transliteration / conventional English form to be fixed at T4 | No outside explanatory addition inside body prose. | provisional |
-| `பரமசிவன்` | **Paramasivan / Siva** — contextual decision pending | Source religious/literary label; conventional form may be used only without altering rhetorical contrast. | provisional |
-| `கண்ணபிரான்` | **Kannapiran / Krishna** — contextual decision pending | Preserve source-chosen label or closest conventional form; do not over-explain. | provisional |
+| `விடுதலைக் கிளர்ச்சி` | **Liberation Uprising** as Article 1 title; **liberation uprising** in running prose | Preserve the recurrent pairing of liberation + uprising. | verified |
+| `விடுதலை` | **liberation / freedom** | Context-sensitive. | verified contextual |
+| `கிளர்ச்சி` | **uprising / struggle** | Context-sensitive; preserve rhetorical force. | verified contextual |
+| `திராவிடம்` | **Dravida / Dravida land** | Do not silently substitute a broader modern category. | verified |
+| `திராவிடர்` | **Dravidians** | Preserve source terminology. | verified |
+| `திராவிட நாடு` | **Dravida Nadu** | Preserve source political name rather than paraphrasing it. | verified |
+| `திராவிட முன்னேற்ற கழகம்` | **Dravida Munnetra Kazhagam** | No present-day explanatory gloss in body text. | verified |
+| `அறிஞர் அண்ணா` | **Arignar Anna** | Preserve source-bearing title/address. | verified |
+| `ஆரியர்` | **Aryans** | Preserve source terminology and contrasts. | verified |
+| `ஏகாதிபத்யம் / ஏகாதிபத்தியம்` | **imperialism / imperial domination** | Context-sensitive. | verified contextual |
+| `காமன்வெல்த்` | **Commonwealth** | Preserve source political term. | verified |
+| `இந்தோ சீனா` | **Indo China** | Two-word form is fixed for this publication. | verified |
+| `புறநானூறு` | **Purananuru** | Source literary reference; no outside body gloss. | verified |
+| `விபீஷணர்கள் / வீடணர்கள்` | **Vibhishanas** | Preserve source metaphor/epithet. | verified |
+| `ஆரிய மாயை` | **Arya Mayai** | Preserve source-bearing title/reference. | verified |
+| `பாஸ்டில் / பாஸ்டிலி` | **Bastille** | Conventional English form. | verified |
+| `கில்லெட்டின்` | **guillotine** | Conventional English form. | verified |
+| `சைனா` | **China** | Source referent; surrounding historical claims remain source-derived. | verified |
+| `சுகர்னோ` | **Sukarno** | Conventional English form. | verified |
+| `மாசேதுங்` | **Mao Tse-tung** | Conventional English form used without adding biography. | verified |
+| `அவுங்ஸான்` | **Aung San** | Conventional English form; source phrase remains quoted as `Aung San ministry`. | verified |
+| `கோட்சே` | **Godse** | Conventional English form; no external body gloss. | verified |
+| `பரமசிவன்` | **Paramasivan** | Source-chosen form retained where used. | verified |
+| `கண்ணபிரான்` | **Kannapiran** | Source-chosen form retained. | verified |
+| `பகவான்` | **Bhagavan** | Source-bearing religious label retained. | verified |
+| `எண்ணப் புரட்சி` | **revolution of thought** | Repeated late-work contrast with armed/bloody revolution. | verified |
+| `அறப்போர்` | **nonviolent struggle** | Contextual movement usage in this publication. | verified |
+| `பகுத்தறிவுப் பணி` | **work of rationalism** | Preserve the movement's rationalist framing. | verified |
+| `மத்ய சர்க்கார்` | **Central Government** | Preserve period source terminology through a neutral English equivalent. | verified |
+| `கோமிண்டாங்` | **Kuomintang** | Conventional English form. | verified |
+| `பார்மோசா` | **Formosa** | Preserve period source geographic name rather than silently modernising. | verified |
+| `நாகாஸ்தான்` | **Nagastan** | Source-bearing form retained. | verified |
+| `பலஹீனன்` | **weakling** | Article 0 pointed contrast. | verified |
+| `மோழை` | **simpleton** | Preserve insult and accumulative rhythm. | verified |
+| `வேங்கை` | **tiger** | Article 0 controlling animal image and title. | verified |
+| `படலம்` | **chapter** | Article 0 title / chapter metaphor. | verified |
 
-| `வேங்கை` | **tiger** | Article 0 controlling animal image and title. | Article 0 verified |
-| `பலஹீனன்` | **weakling** | Retains the source's pointed contrast before “coward becomes a hero.” | Article 0 verified |
-| `மோழை` | **simpleton** | Source insult in the `ஏழை - கோழை - மோழை` sequence; do not soften away the accumulative rhythm. | Article 0 verified |
-| `விஷமும்` in `பசுவிடம் விஷமும் வைத்துக்கொண்டாலே` | **harbouring venom against a cow** | Contextual rendering preserves the frozen source's unusual `விஷமும்` without silently normalising the Tamil to another word. | Article 0 verified |
-| `படலம்` | **chapter** | Article 0 title and internal chapter metaphor. | Article 0 verified |
+## Source-irregularity handling
+
+Two Article-1 forms are intentionally exposed rather than silently regularised:
+
+1. scan 29 frozen `அனுமதியை` — body renders **“permission”** and carries a separated translator note; it is not silently changed to `அமைதியை`;
+2. scan 47 frozen `இரண்டாமிரம்` — translator note records the printed form while the immediately repeated numerical sense is rendered **two thousand**.
+
+These notes do not alter the frozen Tamil source.
 
 ## Rhetorical / quotation policy for this publication
 
@@ -55,18 +71,19 @@ This is a **living consistency aid**, not a licence for mechanical word substitu
 - do not convert the prose into detached historical narration;
 - preserve shifts between world-history examples, Tamil literary references, religious satire and direct movement rhetoric;
 - keep quotations as quotations and preserve source attribution/order;
+- political and historical statements in the body are translations of the frozen 1953 source, not independently verified present-day claims;
 - do not add present-day geopolitical, electoral or ideological commentary to the translated body.
 
 ## Title status
 
-- Article 0 `வேங்கையை விரட்டும் படலம்` — **The Chapter of Driving Away the Tiger — T5 VERIFIED**
-- Article 1 `விடுதலைக் கிளர்ச்சி` — **English title pending T1/T4**
+1. `வேங்கையை விரட்டும் படலம்` — **The Chapter of Driving Away the Tiger — T5 VERIFIED**
+2. `விடுதலைக் கிளர்ச்சி` — **Liberation Uprising — T5 VERIFIED**
 
 ## Lexicon status
 
 - initialized — **PASS**
 - permanent repository rules imported — **PASS**
-- publication-specific seed terms — **initialized**
-- English body translation begun — **Yes — Article 0 T5 VERIFIED**
-- Article 0 unresolved choices — **0**
-- Article 1 unresolved choices blocking T1 — **0**; provisional choices may be resolved in context and audited at T4
+- publication-specific terminology — **T4 VERIFIED for 2/2 articles**
+- English body translation — **2/2 T5 VERIFIED**
+- unresolved terminology choices — **0**
+- next — **E6 publication-wide consistency review**

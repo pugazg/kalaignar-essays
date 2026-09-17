@@ -18,9 +18,7 @@ Publication plan: [`../../TRANSLATION_PLAN.md`](../../TRANSLATION_PLAN.md)
 - scans **4–7** — frozen introductory unit / Article 0;
 - scans **8–68** — frozen main prose work / Article 1;
 - scan **69** — publisher catalogue / advertisement — outside English article bodies;
-- total expected ordered source-boundary comments in complete article translations — **65**.
-
-The Tamil reading assemblies do not contain inline scan comments. English T1 work must reconstruct the traceability comments from verified canonical page/provenance boundaries while leaving the frozen Tamil files unchanged.
+- total ordered source-boundary comments in verified translations — **65/65**.
 
 ## Authority rules
 
@@ -29,7 +27,8 @@ The Tamil reading assemblies do not contain inline scan comments. English T1 wor
 3. The raw user baseline `viduthalai_kilarchi.md`, OCR, web transcriptions, alternate editions, remembered wording and general knowledge are **not translation authorities**.
 4. If a genuine source-supported Tamil correction changes a frozen blob, the affected English article must be reopened and re-reviewed.
 5. Source-specific labels, historical names, political referents or cultural references must not be silently identified or expanded from outside knowledge.
-6. Quoted literary or political material must be translated from the frozen Tamil wording, not replaced with a published English translation unless explicitly authorised.
+6. Historical and political statements in the English body reproduce the frozen 1953 source's claims; they are not independently verified present-day assertions.
+7. Quoted literary or political material is translated from the frozen Tamil wording and not replaced with an external published translation.
 
 ## Durable non-regression readings
 
@@ -47,30 +46,33 @@ The Tamil reading assemblies do not contain inline scan comments. English T1 wor
 - scan 68 — terminal **`இதுதான் வேறுபாடு. தேவையான துங்கூட!`** plus printed star;
 - scan 69 — catalogue only / excluded from article bodies.
 
-## Planned English files
+## English files
 
-| # | Planned English file | Expected source comments | Status |
+| # | English file | Source comments | Status |
 |---:|---|---:|---|
-| 0 | `00-vengaiyai-virattum-padalam.md` | 4 | T5 VERIFIED |
-| 1 | `01-viduthalai-kilarcci.md` | 61 | not-started |
-
-## Article order
-
-Translation order is fixed: **0 → 1**.
-
-## E0 status
-
-Frozen source pins recorded — **2/2 PASS**.  
-Article 0 — **T0–T5 VERIFIED** — English blob `67c942bb8e1a631379834fe9757f5378085ccb58`.  
-Article 1 — **not-started**.  
-Current verified source comments — **4/65**.  
-Tamil source changes during English work — **0**.  
-Blockers — **0**.
+| 0 | `00-vengaiyai-virattum-padalam.md` | 4/4 | T5 VERIFIED |
+| 1 | `01-viduthalai-kilarcci.md` | 61/61 | T5 VERIFIED |
 
 ## Verified English authorities
 
 These are downstream English authorities only and do not replace the frozen Tamil pins above.
 
-| # | English file | Verified English title | Verified English blob | Status |
-|---:|---|---|---|---|
-| 0 | `00-vengaiyai-virattum-padalam.md` | **The Chapter of Driving Away the Tiger** | `67c942bb8e1a631379834fe9757f5378085ccb58` | T5 VERIFIED |
+| # | Verified English title | Verified English blob | Status |
+|---:|---|---|---|
+| 0 | **The Chapter of Driving Away the Tiger** | `67c942bb8e1a631379834fe9757f5378085ccb58` | T5 VERIFIED |
+| 1 | **Liberation Uprising** | `082954a6810dc88323aa1e4c0436523720754e55` | T5 VERIFIED |
+
+## Article 1 provenance notes
+
+- T1 draft blob — `f451f766b43eb83d525fec765c6d642a0018cfa2`
+- T2 fidelity-reviewed body — `9ac0bbebd5f11a5d881a96deb7695de252907a09`
+- T3 — **PASS / no body change**
+- T4 — **PASS / no body change**
+- T5 verified blob — `082954a6810dc88323aa1e4c0436523720754e55`
+- source irregularity `அனுமதியை` is exposed in a translator note rather than silently normalised;
+- source form `இரண்டாமிரம்` is exposed in a translator note while the repeated numeric sense is rendered as **two thousand**;
+- Tamil source changes during English work — **0**.
+
+## Exact next activity
+
+**E6 publication-wide English consistency review.**
