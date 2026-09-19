@@ -122,11 +122,27 @@ Workspace: `publications/varalattru-suvadu/`
 - printed publication date / edition — **not established**
 - handwritten dates/stamps — **physical-copy marks only**
 - historical Tamil typeforms — **present; 13-family guide mandatory**
-- P2 — **NOT STARTED — 0/33**
+- P2 — **IN PROGRESS — 10/33 VERIFIED**
 - English — **BLOCKED**
+
+## Publication 16 — Batch 001 durable checkpoint
+
+P2 Batch 001 **COMPLETE / PASS — scans 1–10 — 10/10 VERIFIED**.
+
+- source descriptor scan 4 — **`தலைவர் கலைஞர்`**
+- scan 4→5 — **`மாண்பைக் / குறிக்கின்ற ஒன்று!`**
+- scan 5 historical-glyph adjudication — **`வினாக் குறிக்கு`**; `வினக்` / `வினைக்` rejected
+- scan 5→6 — **`பேரவை / தொடக்க விழாவுக்கு`**
+- scan 8 — **`மாண்டுமறைந்தது`**
+- scan 8→9 — **`மாநாட்டில் / முதறிஞர் ராஜாஜி...`**
+- scan 9 — source **`பக்கவில்`**, **`இவைகளே அன்னியில்`**; printed folio **8**
+- scan 9→10 — **`வரலாறும்— / வெள்ளையரை எதிர்த்த...`**
+- scan 10 — no visible printed folio; earlier inferred page 9 superseded
+- scan 10 terminal text — **`விடுதலையை மட்டும்`**
+- Batch-001 unresolved — **0**
 
 ## Exact next activity
 
-**Publication 16 P2 Batch 001 — scans 1–10.**
+**Publication 16 P2 Batch 002 — scans 11–20.**
 
-Create canonical page records by direct visual inspection. Separate printed text from physical-copy marks. Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page by page; do not silently modernize or global-replace. Any unresolved cluster remains `needs-review`. Do not begin P3 or English.
+Create canonical page records by direct source-pixel review. Begin by resolving the scan 10→11 continuation after **`விடுதலையை மட்டும்`**. Apply the 13-family historical-glyph guide before every ambiguous Unicode decision; do not modernize or infer hidden text. Do not begin P3 or English.

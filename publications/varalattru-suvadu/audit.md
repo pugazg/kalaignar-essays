@@ -8,7 +8,7 @@
 |---|---|
 | P0 source intake | **COMPLETE / PASS** |
 | P1 source structure | **COMPLETE / PASS — 33/33** |
-| P2 page transcription | **NOT STARTED — 0/33** |
+| P2 page transcription | **IN PROGRESS — 10/33 VERIFIED** |
 | P3 article assembly | **NOT STARTED — 0/2** |
 | P4 source audit | **NOT STARTED** |
 | P5 strict visual fidelity | **NOT STARTED** |
@@ -30,8 +30,18 @@
 - scans 26–33 — `இன்றைய தமிழகமும் - குமுறும் எரிமலை!` — letter/article
 - unresolved structural boundaries — **0**
 
-No body page is yet called transcribed or verified. Historical-glyph decoding is mandatory during P2 and independently again at P5.
+P2 Batch 001 is **COMPLETE / PASS — scans 1–10, 10/10 VERIFIED**. Historical-glyph decoding remains mandatory throughout P2 and independently again at P5.
+
+### Batch 001 durable findings
+
+- scan 4 descriptor — restored source-visible **`தலைவர்`** before `கலைஞர்`
+- scan 5 — **`வினாக் குறிக்கு`**; user adjudication + historical `னா` identity
+- scan 8 — **`மாண்டுமறைந்தது`**
+- scan 9 — **`பக்கவில்`**, **`இவைகளே அன்னியில்`**, printed folio **8**
+- scan 10 — no visible folio; earlier inferred 9 rejected
+- unresolved Batch-001 printed-text / historical-glyph readings — **0**
+- guessed readings — **0**
 
 ## Exact next activity
 
-P2 Batch 001 — scans **1–10**.
+P2 Batch 002 — scans **11–20**.

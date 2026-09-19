@@ -73,8 +73,8 @@ Workspace: `publications/varalattru-suvadu/`
 - P0 source intake — **COMPLETE / PASS**
 - P1 source structure — **COMPLETE / PASS — 33/33**
 - structure — scans 4–25 `வரலாற்றுச் சுவடு` public-speech transcript; scans 26–33 `இன்றைய தமிழகமும் - குமுறும் எரிமலை!` letter/article
-- P2 — **NOT STARTED**
-- exact next activity — **P2 scans 1–10**
+- P2 — **IN PROGRESS — 10/33 VERIFIED**
+- exact next activity — **P2 scans 11–20**
 - historical-glyph guide — **mandatory**
 - English — **BLOCKED until Tamil is frozen**
 
@@ -83,3 +83,8 @@ Workspace: `publications/varalattru-suvadu/`
 Every exact source `உடன்பிறப்பே` is retained as **`Udanpirappē`** in English; direct salutation **`Udanpirappē,`**.
 
 Live `main` remains authoritative. Publication-specific release records control their closed state.
+
+
+### Publication 16 Batch-001 source control
+
+P2 scans **1–10 — COMPLETE / PASS / 10/10 VERIFIED**. Historical-glyph correction at scan 5 is **`வினாக் குறிக்கு`**. Scan 10 has no visible printed folio. Next: **P2 scans 11–20**.

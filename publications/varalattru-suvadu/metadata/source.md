@@ -35,7 +35,7 @@
 
 ## Item 1
 
-Scan 4 prints title **`வரலாற்றுச் சுவடு`** and descriptor **`மதுரை அமெரிக்கன் கல்லூரி மாணவர் பேரவை தொடக்க விழாவில் கலைஞர் ஆற்றிய உரை`**.
+Scan 4 prints title **`வரலாற்றுச் சுவடு`** and descriptor **`மதுரை அமெரிக்கன் கல்லூரி மாணவர் பேரவை தொடக்க விழாவில் தலைவர் கலைஞர் ஆற்றிய உரை`**.
 
 No printed speech date is established by the inspected opening/closing source evidence. The handwritten `1.9.1975` on scan 4 is a physical-copy mark and is not used as a speech date.
 
@@ -45,7 +45,7 @@ Scan 26 opens title **`இன்றைய தமிழகமும் - கு�
 
 ## Printed-page behaviour
 
-Visible folios include scan 9 → printed 8, scan 10 → printed 9, scan 27 → printed 26 and scan 32 → printed 31. P2 must record only source-visible folios and use `null` where no folio is visible; do not infer missing folios merely from sequence.
+Visible folios include scan 9 → printed **8**, scan 27 → printed 26 and scan 32 → printed 31. **Scan 10 has no source-visible folio** and is recorded as `null`; the earlier P1 inference of printed page 9 is superseded. P2 records only source-visible folios and never manufactures one from sequence.
 
 ## Physical-copy / scan condition
 
@@ -64,3 +64,12 @@ Mandatory during P2 and again during P5:
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
 Read character identity from enlarged source pixels; preserve source wording, spelling, grammar and punctuation.
+
+
+## P2 Batch 001 source controls
+
+- scans **1–10 — VERIFIED**
+- historical-glyph correction — scan 5 **`வினாக் குறிக்கு`** from old `னா` identity; `வினக்` / `வினைக்` rejected
+- scan 8 — **`மாண்டுமறைந்தது`**
+- scan 9 — source **`பக்கவில்`**, **`இவைகளே அன்னியில்`**
+- unresolved historical-glyph readings — **0**

@@ -1,49 +1,50 @@
-# NEXT CHAT PROMPT — Publication 16 / வரலாற்றுச் சுவடு / P2 scans 1–10
+# NEXT CHAT PROMPT — Publication 16 / வரலாற்றுச் சுவடு / P2 scans 11–20
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
 ## Frozen publications
 
-Publications **1–15 are RELEASE COMPLETE / FROZEN**. Do not reopen them without a genuine source-supported reason.
+Publications **1–15 are RELEASE COMPLETE / FROZEN**.
 
 ## Active publication
 
-Workspace: `publications/varalattru-suvadu/`
-
-Controlling source: `TVA_BOK_0065598_வரலாற்றுச்_சுவடு.pdf`
+Workspace: `publications/varalattru-suvadu/`  
+Source: `TVA_BOK_0065598_வரலாற்றுச்_சுவடு.pdf`
 
 Read first:
 
 1. `ESSAY_PROCESSING_GUIDE.md`
 2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
 3. root `HANDOVER.md`
-4. `publications/varalattru-suvadu/README.md`
-5. `publications/varalattru-suvadu/metadata/source.md`
-6. `publications/varalattru-suvadu/indexes/page-map.md`
-7. `publications/varalattru-suvadu/P1_SOURCE_STRUCTURE_REVIEW.md`
+4. publication `README.md`
+5. `P2_PROGRESS.md`
+6. `indexes/page-map.md`
+7. `audit.md`
 
 ## Durable state
 
-- P0 — **COMPLETE / PASS**
-- P1 — **COMPLETE / PASS — 33/33**
-- P2 — **NOT STARTED — 0/33**
+- P0 — **PASS**
+- P1 — **PASS — 33/33**
+- P2 Batch 001 — **COMPLETE / PASS — scans 1–10 — 10/10 VERIFIED**
+- P2 total — **10/33 VERIFIED**
 - P3/P4/P5 — **NOT STARTED**
 - English — **BLOCKED**
-- scans 1–3 — cover / inner-title / imprint
-- scans 4–25 — `வரலாற்றுச் சுவடு` public-speech transcript
-- scans 26–33 — `இன்றைய தமிழகமும் - குமுறும் எரிமலை!` letter/article
-- no printed publication date / edition established
-- historical Tamil typeforms — **present**
+
+Durable readings:
+
+- scan 4 descriptor — `தலைவர் கலைஞர்`
+- scan 5 — **`வினாக் குறிக்கு`** (historical `னா`; not `வினக்` / `வினைக்`)
+- scan 8 — `மாண்டுமறைந்தது`
+- scan 9 — `பக்கவில்`, `இவைகளே அன்னியில்`, printed folio 8
+- scan 10 — no visible printed folio
+- scan 10 ends — `விடுதலையை மட்டும்`
 
 ## Exact next activity
 
-Process **P2 Batch 001 — scans 1–10**.
+Process **P2 Batch 002 — scans 11–20**.
 
-Create one canonical page record per scan. Transcribe from source pixels only. Keep printed text separate from library stamps/handwriting. Explicitly check:
+Resolve scan 10→11 first. Create one canonical page record per scan. Check all historical families:
+
 `ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-Do not modernize spelling, grammar, punctuation or vocabulary. Never global-replace. Leave uncertain clusters `needs-review`.
-
-Do not begin article assembly or English.
-
-The controlling PDF must be available in the chat for visual P2 work; if it is not attached, preserve the live checkpoint rather than claiming progress.
+Do not modernize source wording. Do not infer printed folios from sequence. Keep physical-copy marks outside the printed layer. Do not begin article assembly or English.

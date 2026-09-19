@@ -9,7 +9,7 @@ Controlling source: `TVA_BOK_0065598_வரலாற்றுச்_சுவட
 - repository classification — **ESSAYS / ARTICLES — mixed pamphlet**
 - P0 source intake — **COMPLETE / PASS**
 - P1 source structure — **COMPLETE / PASS — 33/33 scans structurally classified**
-- P2 page transcription — **NOT STARTED**
+- P2 page transcription — **IN PROGRESS — 10/33 VERIFIED**
 - P3 article assembly — **NOT STARTED**
 - P4 source audit — **NOT STARTED**
 - P5 strict visual fidelity — **NOT STARTED**
@@ -55,4 +55,24 @@ Decode historical character identity into modern Unicode while preserving source
 
 ## Exact next activity
 
-**P2 Batch 001 — scans 1–10.** Create canonical page records from direct visual inspection. Separate printed text from handwriting/stamps. Do not begin article assembly or English.
+**P2 Batch 002 — scans 11–20.** Continue canonical page records from direct visual inspection, with the historical-glyph guide applied before every Unicode decision. Preserve scan 10→11 continuation from **`விடுதலையை மட்டும்`**. Do not begin article assembly or English.
+
+
+## P2 Batch 001 checkpoint
+
+**COMPLETE / PASS — scans 1–10 — 10/10 VERIFIED**
+
+Durable controls:
+
+- scan 4 source descriptor includes **`தலைவர் கலைஞர்`**; the P1 omission of `தலைவர்` is corrected.
+- scan 4→5 — **`மாண்பைக் / குறிக்கின்ற ஒன்று!`**
+- scan 5 user-adjudicated historical glyph — **`வினாக் குறிக்கு`**; earlier `வினக்` / `வினைக்` readings rejected.
+- scan 5→6 — **`பேரவை / தொடக்க விழாவுக்கு`**
+- scan 8 source wording — **`மாண்டுமறைந்தது`**
+- scan 8→9 — **`மாநாட்டில் / முதறிஞர் ராஜாஜி...`**
+- scan 9 source wording **`பக்கவில்`** and **`இவைகளே அன்னியில்`** retained without normalization.
+- scan 9 printed folio — **8**.
+- scan 9→10 — **`வரலாறும்— / வெள்ளையரை எதிர்த்த...`**
+- scan 10 has **no visible printed folio**; earlier inferred printed page 9 is withdrawn.
+- scan 10 ends **`விடுதலையை மட்டும்`**; continuation is pending scan 11.
+- unresolved P2 readings after Batch 001 — **0**.
