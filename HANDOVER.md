@@ -102,47 +102,13 @@ Historical and political statements in the English translation remain translatio
 
 Every exact source `உடன்பிறப்பே` is retained as **`Udanpirappē`** in English; direct salutation **`Udanpirappē,`**.
 
-## Publication 16 — `வரலாற்றுச் சுவடு`
-
-Workspace: `publications/varalattru-suvadu/`
-
-**ACTIVE — P0 + P1 COMPLETE / PASS**
-
-- controlling source — `TVA_BOK_0065598_வரலாற்றுச்_சுவடு.pdf`
-- physical scans — **33**
-- bytes — **82,476,662**
-- SHA-256 — **`f96525a5a3867985856764d02f8dabd9bef4e110076ddbf4e995113e474c51bf`**
-- usable parsed text — **none**
-- source PDF committed — **No**
-- P0 — **COMPLETE / PASS**
-- P1 — **COMPLETE / PASS — 33/33 structurally classified**
-- scans 1–3 — cover / inner-title / imprint
-- scans 4–25 — `வரலாற்றுச் சுவடு` — public-speech transcript; source descriptor: `மதுரை அமெரிக்கன் கல்லூரி மாணவர் பேரவை தொடக்க விழாவில் கலைஞர் ஆற்றிய உரை`
-- scans 26–33 — `இன்றைய தமிழகமும் - குமுறும் எரிமலை!` — letter/article; `உடன்பிறப்பே,` → `அன்புள்ள, மு. க.`
-- printed publication date / edition — **not established**
-- handwritten dates/stamps — **physical-copy marks only**
-- historical Tamil typeforms — **present; 13-family guide mandatory**
-- P2 — **IN PROGRESS — 10/33 VERIFIED**
-- English — **BLOCKED**
-
-## Publication 16 — Batch 001 durable checkpoint
-
-P2 Batch 001 **COMPLETE / PASS — scans 1–10 — 10/10 VERIFIED**.
-
-- source descriptor scan 4 — **`தலைவர் கலைஞர்`**
-- scan 4→5 — **`மாண்பைக் / குறிக்கின்ற ஒன்று!`**
-- scan 5 historical-glyph adjudication — **`வினாக் குறிக்கு`**; `வினக்` / `வினைக்` rejected
-- scan 5→6 — **`பேரவை / தொடக்க விழாவுக்கு`**
-- scan 8 — **`மாண்டுமறைந்தது`**
-- scan 8→9 — **`மாநாட்டில் / முதறிஞர் ராஜாஜி...`**
-- scan 9 — source **`பக்கவில்`**, **`இவைகளே அன்னியில்`**; printed folio **8**
-- scan 9→10 — **`வரலாறும்— / வெள்ளையரை எதிர்த்த...`**
-- scan 10 — no visible printed folio; earlier inferred page 9 superseded
-- scan 10 terminal text — **`விடுதலையை மட்டும்`**
-- Batch-001 unresolved — **0**
-
 ## Exact next activity
 
-**Publication 16 P2 Batch 002 — scans 11–20.**
+Live `main` contains **no established Publication 16 intake**.
 
-Create canonical page records by direct source-pixel review. Begin by resolving the scan 10→11 continuation after **`விடுதலையை மட்டும்`**. Apply the 13-family historical-glyph guide before every ambiguous Unicode decision; do not modernize or infer hidden text. Do not begin P3 or English.
+Do not infer a next publication from unrelated existing folders. Await either:
+
+1. a new controlling source PDF / baseline supplied by the user; or
+2. an explicit request to reopen a frozen publication for a targeted source-supported correction.
+
+For a new publication, begin with P0 source intake under `ESSAY_PROCESSING_GUIDE.md` and apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` when historical typeforms are present.

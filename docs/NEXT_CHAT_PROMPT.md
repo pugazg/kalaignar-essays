@@ -1,50 +1,58 @@
-# NEXT CHAT PROMPT — Publication 16 / வரலாற்றுச் சுவடு / P2 scans 11–20
+# NEXT CHAT PROMPT — Publication 15 release closed / next source pending
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Frozen publications
+## Publications 1–15
 
-Publications **1–15 are RELEASE COMPLETE / FROZEN**.
+**RELEASE COMPLETE / FROZEN.**
 
-## Active publication
+Do not reopen any frozen publication merely for stylistic polishing, terminology homogenisation, modernisation, or stale prompts. Reopen only for a genuine source-supported correction or an explicitly requested targeted correction, with all affected downstream gates reopened.
 
-Workspace: `publications/varalattru-suvadu/`  
-Source: `TVA_BOK_0065598_வரலாற்றுச்_சுவடு.pdf`
+## Publication 15 — `விடுதலைக் கிளர்ச்சி`
 
-Read first:
+Workspace: `publications/viduthalai-kilarcci/`
 
-1. `ESSAY_PROCESSING_GUIDE.md`
-2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
-3. root `HANDOVER.md`
-4. publication `README.md`
-5. `P2_PROGRESS.md`
-6. `indexes/page-map.md`
-7. `audit.md`
+Final state:
 
-## Durable state
+- Tamil P0–P5 — **COMPLETE / PASS**
+- physical scans — **69/69 STRICT-REVIEWED**
+- canonical page records — **69/69 VERIFIED**
+- Tamil assemblies — **2/2 STRICT-REVIEWED / FROZEN**
+- English E0 — **COMPLETE / PASS**
+- English T0–T5 — **2/2 VERIFIED**
+- E6 — **COMPLETE / PASS**
+- E7 — **COMPLETE / PASS**
+- source comments — **65/65 VERIFIED**
+- Article-1 translator/source notes — **2/2 retained**
+- unresolved translation / consistency issues — **0**
+- Tamil drift — **0**
+- blockers — **0**
+- Publication 15 — **RELEASE COMPLETE / FROZEN**
 
-- P0 — **PASS**
-- P1 — **PASS — 33/33**
-- P2 Batch 001 — **COMPLETE / PASS — scans 1–10 — 10/10 VERIFIED**
-- P2 total — **10/33 VERIFIED**
-- P3/P4/P5 — **NOT STARTED**
-- English — **BLOCKED**
+Frozen Tamil authorities:
 
-Durable readings:
+1. `வேங்கையை விரட்டும் படலம்` — `c5be16582c2c3bb238cc1bf1ae47f8301173352f`
+2. `விடுதலைக் கிளர்ச்சி` — `ec7b713d6516d75c1f36eb7e86f9ce5788d25036`
 
-- scan 4 descriptor — `தலைவர் கலைஞர்`
-- scan 5 — **`வினாக் குறிக்கு`** (historical `னா`; not `வினக்` / `வினைக்`)
-- scan 8 — `மாண்டுமறைந்தது`
-- scan 9 — `பக்கவில்`, `இவைகளே அன்னியில்`, printed folio 8
-- scan 10 — no visible printed folio
-- scan 10 ends — `விடுதலையை மட்டும்`
+Final English authorities:
+
+1. **The Chapter of Driving Away the Tiger** — `67c942bb8e1a631379834fe9757f5378085ccb58`
+2. **Liberation Uprising** — `082954a6810dc88323aa1e4c0436523720754e55`
+
+Release authorities:
+
+- `publications/viduthalai-kilarcci/translations/en/E6_CONSISTENCY_REVIEW.md`
+- `publications/viduthalai-kilarcci/translations/en/E7_RELEASE_CLOSEOUT.md`
+
+Historical and political statements in the English body are translations of the frozen 1953 source. Do not silently update or independently fact-correct them as part of archival maintenance.
 
 ## Exact next activity
 
-Process **P2 Batch 002 — scans 11–20**.
+Live `main` contains **no established Publication 16 intake**.
 
-Resolve scan 10→11 first. Create one canonical page record per scan. Check all historical families:
+Do **not** invent, infer, or start a new publication from unrelated repository folders. Await one of the following from the user:
 
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
+1. a new controlling source PDF / baseline for the next publication; or
+2. an explicit request to reopen a frozen publication for a source-supported targeted correction.
 
-Do not modernize source wording. Do not infer printed folios from sequence. Keep physical-copy marks outside the printed layer. Do not begin article assembly or English.
+When a new publication source is supplied, begin with normal P0 source intake under `ESSAY_PROCESSING_GUIDE.md` and `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` as applicable.
