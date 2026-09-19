@@ -102,13 +102,31 @@ Historical and political statements in the English translation remain translatio
 
 Every exact source `உடன்பிறப்பே` is retained as **`Udanpirappē`** in English; direct salutation **`Udanpirappē,`**.
 
+## Publication 16 — `வரலாற்றுச் சுவடு`
+
+Workspace: `publications/varalattru-suvadu/`
+
+**ACTIVE — P0 + P1 COMPLETE / PASS**
+
+- controlling source — `TVA_BOK_0065598_வரலாற்றுச்_சுவடு.pdf`
+- physical scans — **33**
+- bytes — **82,476,662**
+- SHA-256 — **`f96525a5a3867985856764d02f8dabd9bef4e110076ddbf4e995113e474c51bf`**
+- usable parsed text — **none**
+- source PDF committed — **No**
+- P0 — **COMPLETE / PASS**
+- P1 — **COMPLETE / PASS — 33/33 structurally classified**
+- scans 1–3 — cover / inner-title / imprint
+- scans 4–25 — `வரலாற்றுச் சுவடு` — public-speech transcript; source descriptor: `மதுரை அமெரிக்கன் கல்லூரி மாணவர் பேரவை தொடக்க விழாவில் கலைஞர் ஆற்றிய உரை`
+- scans 26–33 — `இன்றைய தமிழகமும் - குமுறும் எரிமலை!` — letter/article; `உடன்பிறப்பே,` → `அன்புள்ள, மு. க.`
+- printed publication date / edition — **not established**
+- handwritten dates/stamps — **physical-copy marks only**
+- historical Tamil typeforms — **present; 13-family guide mandatory**
+- P2 — **NOT STARTED — 0/33**
+- English — **BLOCKED**
+
 ## Exact next activity
 
-Live `main` contains **no established Publication 16 intake**.
+**Publication 16 P2 Batch 001 — scans 1–10.**
 
-Do not infer a next publication from unrelated existing folders. Await either:
-
-1. a new controlling source PDF / baseline supplied by the user; or
-2. an explicit request to reopen a frozen publication for a targeted source-supported correction.
-
-For a new publication, begin with P0 source intake under `ESSAY_PROCESSING_GUIDE.md` and apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` when historical typeforms are present.
+Create canonical page records by direct visual inspection. Separate printed text from physical-copy marks. Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page by page; do not silently modernize or global-replace. Any unresolved cluster remains `needs-review`. Do not begin P3 or English.

@@ -64,7 +64,19 @@ Verified source structure:
 - scans 8–68 — `விடுதலைக் கிளர்ச்சி`
 - scan 69 — publisher catalogue / outside article bodies
 
-No Publication 16 intake is established on live `main`. Do not invent or start a new publication without explicit user direction or a newly supplied controlling source.
+### Publication 16 — வரலாற்றுச் சுவடு — ACTIVE
+
+Workspace: `publications/varalattru-suvadu/`
+
+- source — `TVA_BOK_0065598_வரலாற்றுச்_சுவடு.pdf`
+- physical scans — **33**
+- P0 source intake — **COMPLETE / PASS**
+- P1 source structure — **COMPLETE / PASS — 33/33**
+- structure — scans 4–25 `வரலாற்றுச் சுவடு` public-speech transcript; scans 26–33 `இன்றைய தமிழகமும் - குமுறும் எரிமலை!` letter/article
+- P2 — **NOT STARTED**
+- exact next activity — **P2 scans 1–10**
+- historical-glyph guide — **mandatory**
+- English — **BLOCKED until Tamil is frozen**
 
 ### Permanent `உடன்பிறப்பே` rule
 

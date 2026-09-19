@@ -1,58 +1,49 @@
-# NEXT CHAT PROMPT — Publication 15 release closed / next source pending
+# NEXT CHAT PROMPT — Publication 16 / வரலாற்றுச் சுவடு / P2 scans 1–10
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Publications 1–15
+## Frozen publications
 
-**RELEASE COMPLETE / FROZEN.**
+Publications **1–15 are RELEASE COMPLETE / FROZEN**. Do not reopen them without a genuine source-supported reason.
 
-Do not reopen any frozen publication merely for stylistic polishing, terminology homogenisation, modernisation, or stale prompts. Reopen only for a genuine source-supported correction or an explicitly requested targeted correction, with all affected downstream gates reopened.
+## Active publication
 
-## Publication 15 — `விடுதலைக் கிளர்ச்சி`
+Workspace: `publications/varalattru-suvadu/`
 
-Workspace: `publications/viduthalai-kilarcci/`
+Controlling source: `TVA_BOK_0065598_வரலாற்றுச்_சுவடு.pdf`
 
-Final state:
+Read first:
 
-- Tamil P0–P5 — **COMPLETE / PASS**
-- physical scans — **69/69 STRICT-REVIEWED**
-- canonical page records — **69/69 VERIFIED**
-- Tamil assemblies — **2/2 STRICT-REVIEWED / FROZEN**
-- English E0 — **COMPLETE / PASS**
-- English T0–T5 — **2/2 VERIFIED**
-- E6 — **COMPLETE / PASS**
-- E7 — **COMPLETE / PASS**
-- source comments — **65/65 VERIFIED**
-- Article-1 translator/source notes — **2/2 retained**
-- unresolved translation / consistency issues — **0**
-- Tamil drift — **0**
-- blockers — **0**
-- Publication 15 — **RELEASE COMPLETE / FROZEN**
+1. `ESSAY_PROCESSING_GUIDE.md`
+2. `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`
+3. root `HANDOVER.md`
+4. `publications/varalattru-suvadu/README.md`
+5. `publications/varalattru-suvadu/metadata/source.md`
+6. `publications/varalattru-suvadu/indexes/page-map.md`
+7. `publications/varalattru-suvadu/P1_SOURCE_STRUCTURE_REVIEW.md`
 
-Frozen Tamil authorities:
+## Durable state
 
-1. `வேங்கையை விரட்டும் படலம்` — `c5be16582c2c3bb238cc1bf1ae47f8301173352f`
-2. `விடுதலைக் கிளர்ச்சி` — `ec7b713d6516d75c1f36eb7e86f9ce5788d25036`
-
-Final English authorities:
-
-1. **The Chapter of Driving Away the Tiger** — `67c942bb8e1a631379834fe9757f5378085ccb58`
-2. **Liberation Uprising** — `082954a6810dc88323aa1e4c0436523720754e55`
-
-Release authorities:
-
-- `publications/viduthalai-kilarcci/translations/en/E6_CONSISTENCY_REVIEW.md`
-- `publications/viduthalai-kilarcci/translations/en/E7_RELEASE_CLOSEOUT.md`
-
-Historical and political statements in the English body are translations of the frozen 1953 source. Do not silently update or independently fact-correct them as part of archival maintenance.
+- P0 — **COMPLETE / PASS**
+- P1 — **COMPLETE / PASS — 33/33**
+- P2 — **NOT STARTED — 0/33**
+- P3/P4/P5 — **NOT STARTED**
+- English — **BLOCKED**
+- scans 1–3 — cover / inner-title / imprint
+- scans 4–25 — `வரலாற்றுச் சுவடு` public-speech transcript
+- scans 26–33 — `இன்றைய தமிழகமும் - குமுறும் எரிமலை!` letter/article
+- no printed publication date / edition established
+- historical Tamil typeforms — **present**
 
 ## Exact next activity
 
-Live `main` contains **no established Publication 16 intake**.
+Process **P2 Batch 001 — scans 1–10**.
 
-Do **not** invent, infer, or start a new publication from unrelated repository folders. Await one of the following from the user:
+Create one canonical page record per scan. Transcribe from source pixels only. Keep printed text separate from library stamps/handwriting. Explicitly check:
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`.
 
-1. a new controlling source PDF / baseline for the next publication; or
-2. an explicit request to reopen a frozen publication for a source-supported targeted correction.
+Do not modernize spelling, grammar, punctuation or vocabulary. Never global-replace. Leave uncertain clusters `needs-review`.
 
-When a new publication source is supplied, begin with normal P0 source intake under `ESSAY_PROCESSING_GUIDE.md` and `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` as applicable.
+Do not begin article assembly or English.
+
+The controlling PDF must be available in the chat for visual P2 work; if it is not attached, preserve the live checkpoint rather than claiming progress.
