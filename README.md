@@ -64,21 +64,7 @@ Verified source structure:
 - scans 8–68 — `விடுதலைக் கிளர்ச்சி`
 - scan 69 — publisher catalogue / outside article bodies
 
-### Publication 16 — விஷம்; ஒரு துளி போதாதா? — INTAKE COMPLETE / P2 PENDING
-
-Workspace: `publications/visham-oru-thuli-pothatha/`
-
-- source — `TVA_BOK_0065743_விஷம்_ஒரு_துளி_போதாதா.pdf`
-- SHA-256 — `84304ca6f0b85ec2d820270d21eefb5e73b9e882b1de7113b28f26263a99174e`
-- physical scans — **42**
-- mixed booklet — **Yes**
-- article body — **scans 4–23 / 20 scans**
-- embedded separate public speech — **scans 24–41**, archived separately in `kalaignar-public-speeches`
-- P0 — **COMPLETE**
-- P1 — **COMPLETE**
-- P2 — **NOT STARTED**
-
-Exact next essay activity when resumed: **P2 scans 4–23**.
+No Publication 16 intake is established on live `main`. The supplied `TVA_BOK_0065743_விஷம்_ஒரு_துளி_போதாதா.pdf` article is already canonical as Murasoli letter **3606** in `pugazg/kalaignar-murasoli-letters`, Volume 46, dated **3-2-2012**; do not duplicate it in this essays repository.
 
 ### Permanent `உடன்பிறப்பே` rule
 
