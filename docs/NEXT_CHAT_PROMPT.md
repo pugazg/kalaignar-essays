@@ -1,58 +1,55 @@
-# NEXT CHAT PROMPT — Publication 15 release closed / next source pending
+# NEXT CHAT PROMPT — Publication 16 / களத்தில் கருணாநிதி / P2 Batch 002 scans 6–10
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Publications 1–15
+## Frozen prior publications
 
-**RELEASE COMPLETE / FROZEN.**
+Publications **1–15 are RELEASE COMPLETE / FROZEN**. Do not reopen them.
 
-Do not reopen any frozen publication merely for stylistic polishing, terminology homogenisation, modernisation, or stale prompts. Reopen only for a genuine source-supported correction or an explicitly requested targeted correction, with all affected downstream gates reopened.
+## Active Publication 16
 
-## Publication 15 — `விடுதலைக் கிளர்ச்சி`
+Workspace: `publications/kalathil-karunanidhi/`
 
-Workspace: `publications/viduthalai-kilarcci/`
+Controlling source:
 
-Final state:
+- `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
+- SHA-256 — `3df4f1677b4290e5eb879b753d7d5e4b0870d47fae2f779c6e911efc1ea99f84`
+- physical scans — **81**
+- classification — **ESSAYS / ARTICLES**
+- cover title — `களத்தில் கருணாநிதி`
+- author — `கலைஞர் மு. கருணாநிதி`
+- publisher — `இளங்கோ பதிப்பகம்`, `மாயூரம்`
+- edition — `முதற்பதிப்பு—52.`
 
-- Tamil P0–P5 — **COMPLETE / PASS**
-- physical scans — **69/69 STRICT-REVIEWED**
-- canonical page records — **69/69 VERIFIED**
-- Tamil assemblies — **2/2 STRICT-REVIEWED / FROZEN**
-- English E0 — **COMPLETE / PASS**
-- English T0–T5 — **2/2 VERIFIED**
-- E6 — **COMPLETE / PASS**
-- E7 — **COMPLETE / PASS**
-- source comments — **65/65 VERIFIED**
-- Article-1 translator/source notes — **2/2 retained**
-- unresolved translation / consistency issues — **0**
-- Tamil drift — **0**
-- blockers — **0**
-- Publication 15 — **RELEASE COMPLETE / FROZEN**
+## Durable state
 
-Frozen Tamil authorities:
+- P0 — **COMPLETE / PASS**
+- P1 — **COMPLETE / PASS — 81/81 structurally classified**
+- P2 Batch 001 — **scans 1–5 processed**
+- P2 total — **5/81**
+- verified — **4**
+- needs-review — **1**
+- scan 4 — two source-obscured physical-loss spans; guessed reconstruction **0**
+- scans 4–5 — preface `களம் புகுமுன்........`
+- scan 5 — Roman folio `iv`; closes `P. S. இளங்கோ.`
+- main work begins scan **6** with `களத்தில் கருணாநிதி!`
 
-1. `வேங்கையை விரட்டும் படலம்` — `c5be16582c2c3bb238cc1bf1ae47f8301173352f`
-2. `விடுதலைக் கிளர்ச்சி` — `ec7b713d6516d75c1f36eb7e86f9ce5788d25036`
+## Fixed cadence
 
-Final English authorities:
+**Process exactly 5 physical scans per user iteration.**
 
-1. **The Chapter of Driving Away the Tiger** — `67c942bb8e1a631379834fe9757f5378085ccb58`
-2. **Liberation Uprising** — `082954a6810dc88323aa1e4c0436523720754e55`
+## Mandatory historical-glyph rule
 
-Release authorities:
+Read `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` before transcription.
 
-- `publications/viduthalai-kilarcci/translations/en/E6_CONSISTENCY_REVIEW.md`
-- `publications/viduthalai-kilarcci/translations/en/E7_RELEASE_CLOSEOUT.md`
+For every page, explicitly check:
 
-Historical and political statements in the English body are translations of the frozen 1953 source. Do not silently update or independently fact-correct them as part of archival maintenance.
+`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
+
+Source pixels control. No OCR authority, no global replacement, no modernization, no contextual guessing.
 
 ## Exact next activity
 
-Live `main` contains **no established Publication 16 intake**.
+P2 Batch 002 — **scans 6–10**.
 
-Do **not** invent, infer, or start a new publication from unrelated repository folders. Await one of the following from the user:
-
-1. a new controlling source PDF / baseline for the next publication; or
-2. an explicit request to reopen a frozen publication for a source-supported targeted correction.
-
-When a new publication source is supplied, begin with normal P0 source intake under `ESSAY_PROCESSING_GUIDE.md` and `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` as applicable.
+Create exactly five canonical page records, update P2/page-map/README/audit/HANDOVER/root controls, and stop after scan 10.

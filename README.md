@@ -64,7 +64,23 @@ Verified source structure:
 - scans 8–68 — `விடுதலைக் கிளர்ச்சி`
 - scan 69 — publisher catalogue / outside article bodies
 
-No Publication 16 intake is established on live `main`. The supplied `TVA_BOK_0065743_விஷம்_ஒரு_துளி_போதாதா.pdf` article is already canonical as Murasoli letter **3606** in `pugazg/kalaignar-murasoli-letters`, Volume 46, dated **3-2-2012**; do not duplicate it in this essays repository.
+### Publication 16 — களத்தில் கருணாநிதி — ACTIVE / P2 IN PROGRESS
+
+Workspace: `publications/kalathil-karunanidhi/`
+
+- source — `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
+- SHA-256 — `3df4f1677b4290e5eb879b753d7d5e4b0870d47fae2f779c6e911efc1ea99f84`
+- physical scans — **81**
+- classification — **ESSAYS / ARTICLES**
+- P0 — **COMPLETE / PASS**
+- P1 — **COMPLETE / PASS — 81/81 structurally classified**
+- P2 — **5/81 processed**
+- verified — **4**
+- needs-review — **1** (scan 4 physical source loss)
+- cadence — **5 physical scans per iteration**
+- exact next range — **scans 6–10**
+
+The previously supplied `விஷம்; ஒரு துளி போதாதா?` source remains excluded from this repository because that work is already canonical as Murasoli letter 3606.
 
 ### Permanent `உடன்பிறப்பே` rule
 

@@ -102,13 +102,24 @@ Historical and political statements in the English translation remain translatio
 
 Every exact source `உடன்பிறப்பே` is retained as **`Udanpirappē`** in English; direct salutation **`Udanpirappē,`**.
 
+## Publication 16 — `களத்தில் கருணாநிதி`
+
+Workspace: `publications/kalathil-karunanidhi/`
+
+- source — `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
+- SHA-256 — `3df4f1677b4290e5eb879b753d7d5e4b0870d47fae2f779c6e911efc1ea99f84`
+- physical scans — **81**
+- P0 — **COMPLETE / PASS**
+- P1 — **COMPLETE / PASS**
+- P2 Batch 001 — **scans 1–5 processed**
+- verified — **4**
+- needs-review — **1** (scan 4 physical loss; 2 unresolved spans)
+- cadence — **5 physical scans per user iteration**
+- main work begins — **scan 6**
+- terminal physical scan — **81 / printed p.80**, source-bottom condition to be audited later
+
 ## Exact next activity
 
-Live `main` contains **no established Publication 16 intake**.
+P2 Batch 002 — **scans 6–10** only.
 
-Do not infer a next publication from unrelated existing folders. Await either:
-
-1. a new controlling source PDF / baseline supplied by the user; or
-2. an explicit request to reopen a frozen publication for a targeted source-supported correction.
-
-For a new publication, begin with P0 source intake under `ESSAY_PROCESSING_GUIDE.md` and apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` when historical typeforms are present.
+Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page. Do not reopen Publications 1–15.
