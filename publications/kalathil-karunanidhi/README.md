@@ -11,8 +11,8 @@ Controlling source: `TVA_BOK_0064241_களத்தில்_கருணாந
 - source duplicate check — **PASS / no existing canonical copy found**
 - P0 source intake — **COMPLETE / PASS**
 - P1 source structure — **COMPLETE / PASS — 81/81 physically classified**
-- P2 page transcription — **IN PROGRESS — scans 1–5 processed**
-- P2 verified — **4**
+- P2 page transcription — **IN PROGRESS — scans 1–10 processed**
+- P2 verified — **9**
 - P2 needs-review — **1** (scan 4; physical paper loss)
 - P2 blocked — **0**
 - cadence — **5 physical scans per user iteration**
@@ -82,8 +82,31 @@ No global replacement; no lexical modernization; unresolved source loss remains 
 
 Scan 4 is not guessed through physical loss. Two lower-page spans remain explicitly source-obscured.
 
+## P2 Batch 002 — scans 6–10
+
+**COMPLETE / PASS — 5/5 VERIFIED**
+
+| Scan | Record | Status | Printed folio |
+|---:|---|---|:---:|
+| 6 | `pages/0006-kalathil-karunanidhi-01.md` | verified | — |
+| 7 | `pages/0007-kalathil-karunanidhi-02.md` | verified | 6 |
+| 8 | `pages/0008-kalathil-karunanidhi-03.md` | verified | — / obscured |
+| 9 | `pages/0009-kalathil-karunanidhi-04.md` | verified | 8 |
+| 10 | `pages/0010-kalathil-karunanidhi-05.md` | verified | 9 |
+
+Durable controls:
+
+- main work begins scan 6 with **`களத்தில் கருணாநிதி!`**;
+- 6→7 physical word split — **`ஆத / ரித்து,`**;
+- scan 8 top folio region is obscured by the later library stamp, so no folio is inferred;
+- scan 9 preserves **1982 / 3784 / எண்பத்திரண்டு**;
+- scan 10 preserves unusual source **`பாரளவந்த`** and **`கொடுமை! கொடுமை!!`**;
+- 10→11 continuation — **`மஞ்சள் பெட்டியில் / ஓட்டுப்போட்டால்...`**.
+
+Cumulative P2: **10/81 processed; 9 verified; 1 needs-review; 0 blocked**.
+
 ## Exact next activity
 
-P2 Batch 002 — **scans 6–10** only.
+P2 Batch 003 — **scans 11–15** only.
 
-That batch begins the main work `களத்தில் கருணாநிதி!` and must continue the fixed **5-page cadence**.
+Continue the fixed **5-physical-scan cadence**.

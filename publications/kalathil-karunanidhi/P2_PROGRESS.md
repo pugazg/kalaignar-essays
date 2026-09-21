@@ -2,7 +2,7 @@
 
 ## Status
 
-**IN PROGRESS — 5/81 physical scans processed**
+**IN PROGRESS — 10/81 physical scans processed**
 
 Controlling source: `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`  
 Historical glyph guide: `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`  
@@ -41,14 +41,41 @@ Two small spans in the lower half are physically lost from the paper/scan. They 
 
 This is a physical-source limitation, not permission to guess.
 
+## Batch 002 — scans 6–10
+
+**COMPLETE / PASS — 5/5 VERIFIED**
+
+| Scan | Record | Role | Status |
+|---:|---|---|---|
+| 6 | `pages/0006-kalathil-karunanidhi-01.md` | main work opening | verified |
+| 7 | `pages/0007-kalathil-karunanidhi-02.md` | main work / printed 6 | verified |
+| 8 | `pages/0008-kalathil-karunanidhi-03.md` | main work / folio obscured by stamp | verified |
+| 9 | `pages/0009-kalathil-karunanidhi-04.md` | main work / printed 8 | verified |
+| 10 | `pages/0010-kalathil-karunanidhi-05.md` | main work / printed 9 | verified |
+
+### Batch-002 source controls
+
+- scan 6 heading — **`களத்தில் கருணாநிதி!`**
+- candidate forms — **`ஆல்பர்ட் ஜேசுதாஸ்` / `ஜேம்ஸ் போடு`**
+- 6→7 — **`ஆத / ரித்து,`**
+- scan 7 source spacing — **`செய்தவை யென்ன? / சாதித்த தென்ன?`**
+- scan 8 source forms — **`ஆட்சிப்பீட மேறிய`**, **`நாட்டு மக்கள் நல்வாழ்வு நடத்த.`**
+- scan 9 — **`1982`**, **`3784`**, **`எண்பத்திரண்டு`**
+- scan 9 distinguishes quoted **`சுதந்தரம்`** from later prose **`சுதந்திரம்`**
+- scan 10 — unusual source **`பாரளவந்த`** retained; no lexical repair
+- scan 10 — **`கொடுமை! கொடுமை!!`**
+- 10→11 — **`மஞ்சள் பெட்டியில் / ஓட்டுப்போட்டால்...`**
+- guessed readings — **0**
+- silent modernization — **0**
+
 ## Totals
 
-- processed — **5/81**
-- verified — **4**
-- needs-review — **1**
+- processed — **10/81**
+- verified — **9**
+- needs-review — **1** (scan 4 only)
 - blocked — **0**
-- pending — **76**
+- pending — **71**
 
 ## Exact next batch
 
-**Batch 002 — scans 6–10**.
+**Batch 003 — scans 11–15**.

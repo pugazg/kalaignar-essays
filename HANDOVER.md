@@ -111,8 +111,8 @@ Workspace: `publications/kalathil-karunanidhi/`
 - physical scans — **81**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS**
-- P2 Batch 001 — **scans 1–5 processed**
-- verified — **4**
+- P2 Batches 001–002 — **scans 1–10 processed**
+- verified — **9**
 - needs-review — **1** (scan 4 physical loss; 2 unresolved spans)
 - cadence — **5 physical scans per user iteration**
 - main work begins — **scan 6**
@@ -120,6 +120,14 @@ Workspace: `publications/kalathil-karunanidhi/`
 
 ## Exact next activity
 
-P2 Batch 002 — **scans 6–10** only.
+P2 Batch 003 — **scans 11–15** only.
+
+Current cumulative state:
+
+- processed — **10/81**
+- verified — **9**
+- needs-review — **1** (scan 4 physical loss)
+- blocked — **0**
+- cadence — **5 physical scans per user iteration**
 
 Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page. Do not reopen Publications 1–15.

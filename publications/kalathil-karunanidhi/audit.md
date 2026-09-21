@@ -19,7 +19,7 @@
 |---|---|
 | P0 | COMPLETE / PASS |
 | P1 | COMPLETE / PASS — 81/81 structurally classified |
-| P2 | IN PROGRESS — 5/81 processed |
+| P2 | IN PROGRESS — 10/81 processed |
 | P3 | NOT STARTED |
 | P4 | NOT STARTED |
 | P5 | NOT STARTED |
@@ -41,3 +41,26 @@
 ## Exact next activity
 
 P2 Batch 002 — **scans 6–10**.
+
+
+## P2 Batch 002 — scans 6–10
+
+- scans processed — **5/5**
+- verified — **5**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+- cumulative processed — **10/81**
+- cumulative verified — **9**
+- cumulative needs-review — **1** (scan 4 physical loss)
+
+Cross-page controls:
+
+- 6→7 — `ஆத / ரித்து,`
+- 7→8 — sentence continuation `கழகத்தின் / முடிவை,`
+- 9→10 — `கொலு வீற்றிருக்கும் / காங்கிரஸார் செய்தவையே.`
+- 10→11 — `மஞ்சள் பெட்டியில் / ஓட்டுப்போட்டால்...`
+
+Exact next activity: **P2 Batch 003 — scans 11–15**.
