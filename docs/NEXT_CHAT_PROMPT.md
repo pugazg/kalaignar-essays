@@ -1,50 +1,25 @@
-# NEXT CHAT PROMPT — Publication 16 / களத்தில் கருணாநிதி / P2 Batch 004 scans 16–20
+# NEXT CHAT PROMPT — Essays Publications 1–15 closed / next source pending
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
-## Frozen prior publications
+## Repository state
 
-Publications **1–15 are RELEASE COMPLETE / FROZEN**. Do not reopen them.
+Publications **1–15 are RELEASE COMPLETE / FROZEN**.
 
-## Active Publication 16
+There is **no Publication 16 intake** on live `main`.
 
-Workspace: `publications/kalathil-karunanidhi/`
+## Classification correction
 
-Controlling source:
+`TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf` was initially misclassified here.
 
-- `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
-- SHA-256 — `3df4f1677b4290e5eb879b753d7d5e4b0870d47fae2f779c6e911efc1ea99f84`
-- physical scans — **81**
-- classification — **ESSAYS / ARTICLES**
-- edition — **முதற்பதிப்பு—52.**
+That workspace has been removed from `kalaignar-essays` and migrated to the canonical public-speeches archive:
 
-## Durable state
+`pugazg/kalaignar-public-speeches/speeches/kalathil-karunanidhi/`
 
-- P0 — **COMPLETE / PASS**
-- P1 — **COMPLETE / PASS — 81/81 structurally classified**
-- P2 Batches 001–003 — **scans 1–15 processed**
-- P2 cumulative — **15/81**
-- verified — **14**
-- needs-review — **1** (scan 4 physical source loss only)
-- blocked — **0**
-- scan 15→16 — `இதயபாரம் தோன்றித் / தன் அன்னையை...`
+Do not recreate it in essays.
 
-## Fixed cadence
-
-**Process exactly 5 physical scans per user iteration.**
-
-## Mandatory historical-glyph rule
-
-Read `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` before transcription.
-
-Explicitly check:
-
-`ணா / ணை / ணொ / ணோ / லை / ளை / றா / றொ / றோ / னா / னை / னொ / னோ`
-
-Source pixels control. No OCR authority, global replacement, modernization, or contextual guessing.
+The earlier `விஷம்; ஒரு துளி போதாதா?` source also remains outside this repo because it is already canonical as Murasoli letter **3606**.
 
 ## Exact next activity
 
-P2 Batch 004 — **scans 16–20**.
-
-Create exactly five canonical page records, synchronize P2/page-map/README/audit/HANDOVER/root controls, and stop after scan 20.
+Await a genuinely new essays/article source or an explicit request to reopen a frozen publication for a source-supported correction.

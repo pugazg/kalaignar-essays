@@ -64,23 +64,12 @@ Verified source structure:
 - scans 8–68 — `விடுதலைக் கிளர்ச்சி`
 - scan 69 — publisher catalogue / outside article bodies
 
-### Publication 16 — களத்தில் கருணாநிதி — ACTIVE / P2 IN PROGRESS
+No Publication 16 intake is established on live `main`.
 
-Workspace: `publications/kalathil-karunanidhi/`
+- `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf` is **not an essays publication** in this archive; the user corrected its classification and it is now canonical in `pugazg/kalaignar-public-speeches` under `speeches/kalathil-karunanidhi/`.
+- the previously supplied `விஷம்; ஒரு துளி போதாதா?` source remains excluded because that work is already canonical as Murasoli letter **3606** in `pugazg/kalaignar-murasoli-letters`.
 
-- source — `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
-- SHA-256 — `3df4f1677b4290e5eb879b753d7d5e4b0870d47fae2f779c6e911efc1ea99f84`
-- physical scans — **81**
-- classification — **ESSAYS / ARTICLES**
-- P0 — **COMPLETE / PASS**
-- P1 — **COMPLETE / PASS — 81/81 structurally classified**
-- P2 — **15/81 processed**
-- verified — **14**
-- needs-review — **1** (scan 4 physical source loss)
-- cadence — **5 physical scans per iteration**
-- exact next range — **scans 16–20**
-
-The previously supplied `விஷம்; ஒரு துளி போதாதா?` source remains excluded from this repository because that work is already canonical as Murasoli letter 3606.
+Await a genuinely new essays controlling source before establishing Publication 16.
 
 ### Permanent `உடன்பிறப்பே` rule
 

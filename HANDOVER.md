@@ -102,32 +102,21 @@ Historical and political statements in the English translation remain translatio
 
 Every exact source `உடன்பிறப்பே` is retained as **`Udanpirappē`** in English; direct salutation **`Udanpirappē,`**.
 
-## Publication 16 — `களத்தில் கருணாநிதி`
+## Publication 16 state
 
-Workspace: `publications/kalathil-karunanidhi/`
+No Publication 16 intake is established on live `main`.
 
-- source — `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`
-- SHA-256 — `3df4f1677b4290e5eb879b753d7d5e4b0870d47fae2f779c6e911efc1ea99f84`
-- physical scans — **81**
-- P0 — **COMPLETE / PASS**
-- P1 — **COMPLETE / PASS**
-- P2 Batches 001–003 — **scans 1–15 processed**
-- verified — **14**
-- needs-review — **1** (scan 4 physical loss; 2 unresolved spans)
-- cadence — **5 physical scans per user iteration**
-- main work begins — **scan 6**
-- terminal physical scan — **81 / printed p.80**, source-bottom condition to be audited later
+The previously misclassified `களத்தில் கருணாநிதி` work has been removed from this repository and migrated to:
+
+`pugazg/kalaignar-public-speeches/speeches/kalathil-karunanidhi/`
+
+Do not recreate it here.
 
 ## Exact next activity
 
-P2 Batch 004 — **scans 16–20** only.
+Await either:
 
-Current cumulative state:
+1. a new controlling source for the next essays publication; or
+2. an explicit source-supported request to reopen a frozen publication.
 
-- processed — **15/81**
-- verified — **14**
-- needs-review — **1** (scan 4 physical loss)
-- blocked — **0**
-- cadence — **5 physical scans per user iteration**
-
-Apply `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` page-by-page. Do not reopen Publications 1–15.
+For a new essays source, begin with normal P0 intake under `ESSAY_PROCESSING_GUIDE.md`.
