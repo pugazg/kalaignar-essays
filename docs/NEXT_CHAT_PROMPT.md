@@ -1,4 +1,4 @@
-# NEXT CHAT PROMPT — Publication 16 / களத்தில் கருணாநிதி / P2 Batch 003 scans 11–15
+# NEXT CHAT PROMPT — Publication 16 / களத்தில் கருணாநிதி / P2 Batch 004 scans 16–20
 
 Continue directly in `pugazg/kalaignar-essays`, branch `main`. **LIVE MAIN IS AUTHORITATIVE.**
 
@@ -22,15 +22,12 @@ Controlling source:
 
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 81/81 structurally classified**
-- P2 Batch 001 — scans **1–5**
-- P2 Batch 002 — scans **6–10 / 5/5 VERIFIED**
-- P2 cumulative — **10/81 processed**
-- verified — **9**
+- P2 Batches 001–003 — **scans 1–15 processed**
+- P2 cumulative — **15/81**
+- verified — **14**
 - needs-review — **1** (scan 4 physical source loss only)
 - blocked — **0**
-- main work coverage — scans **6–10**
-- scan 8 folio — obscured by later stamp; do not infer
-- cross-page 10→11 — `மஞ்சள் பெட்டியில் / ஓட்டுப்போட்டால்...`
+- scan 15→16 — `இதயபாரம் தோன்றித் / தன் அன்னையை...`
 
 ## Fixed cadence
 
@@ -48,6 +45,6 @@ Source pixels control. No OCR authority, global replacement, modernization, or c
 
 ## Exact next activity
 
-P2 Batch 003 — **scans 11–15**.
+P2 Batch 004 — **scans 16–20**.
 
-Create exactly five canonical page records, synchronize P2/page-map/README/audit/HANDOVER/root controls, and stop after scan 15.
+Create exactly five canonical page records, synchronize P2/page-map/README/audit/HANDOVER/root controls, and stop after scan 20.

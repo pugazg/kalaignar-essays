@@ -2,7 +2,7 @@
 
 ## Status
 
-**IN PROGRESS — 10/81 physical scans processed**
+**IN PROGRESS — 15/81 physical scans processed**
 
 Controlling source: `TVA_BOK_0064241_களத்தில்_கருணாநிதி.pdf`  
 Historical glyph guide: `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md`  
@@ -68,14 +68,43 @@ This is a physical-source limitation, not permission to guess.
 - guessed readings — **0**
 - silent modernization — **0**
 
+## Batch 003 — scans 11–15
+
+**COMPLETE / PASS — 5/5 VERIFIED**
+
+| Scan | Record | Role | Status |
+|---:|---|---|---|
+| 11 | `pages/0011-kalathil-karunanidhi-06.md` | main work / printed 10 | verified |
+| 12 | `pages/0012-kalathil-karunanidhi-07.md` | main work / printed 11 | verified |
+| 13 | `pages/0013-kalathil-karunanidhi-08.md` | main work / printed 12 | verified |
+| 14 | `pages/0014-kalathil-karunanidhi-09.md` | main work / printed 13 | verified |
+| 15 | `pages/0015-kalathil-karunanidhi-10.md` | main work / printed 14 | verified |
+
+### Batch-003 source controls
+
+- scan 11 — **என்னையே**, historical `னை`;
+- scan 12 — **மாற்றி யமைக்க / மாட்டுப்பெட்டி / லாயக்கா**;
+- scan 13 — **சோறின்றி / சோற்றைத் / கத்தாழை / கும்பியிலே / நிலமையாவது**;
+- scan 14 — **பக்தவத் சலனார் / குமாரசாமிராஜாவோ / தலைமைப் பொழிவு / நம்சிந்தனையிலே**;
+- scan 15 — historical-glyph **நன்றாக / தன்னைமறந்து**;
+- scan 15 — **மூத்திரம் / நாஉலர்ந்து / குடாகச் சாப்பிடு / இதயபாரம்** retained source-faithfully;
+- guessed readings — **0**;
+- silent modernization — **0**.
+
+### Cross-page controls
+
+- 11→12 — sentence continues from the parent/child-sale argument;
+- 14→15 — `என்று உருட்டி / மிரட்டிப் பேசிப் பார்த்தனர்.`;
+- 15→16 — `இதயபாரம் தோன்றித் / தன் அன்னையை...`.
+
 ## Totals
 
-- processed — **10/81**
-- verified — **9**
+- processed — **15/81**
+- verified — **14**
 - needs-review — **1** (scan 4 only)
 - blocked — **0**
-- pending — **71**
+- pending — **66**
 
 ## Exact next batch
 
-**Batch 003 — scans 11–15**.
+**Batch 004 — scans 16–20**.

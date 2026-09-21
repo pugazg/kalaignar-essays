@@ -19,7 +19,7 @@
 |---|---|
 | P0 | COMPLETE / PASS |
 | P1 | COMPLETE / PASS — 81/81 structurally classified |
-| P2 | IN PROGRESS — 10/81 processed |
+| P2 | IN PROGRESS — 15/81 processed |
 | P3 | NOT STARTED |
 | P4 | NOT STARTED |
 | P5 | NOT STARTED |
@@ -64,3 +64,29 @@ Cross-page controls:
 - 10→11 — `மஞ்சள் பெட்டியில் / ஓட்டுப்போட்டால்...`
 
 Exact next activity: **P2 Batch 003 — scans 11–15**.
+
+
+## P2 Batch 003 — scans 11–15
+
+- scans processed — **5/5**
+- verified — **5**
+- needs-review — **0**
+- blocked — **0**
+- guessed readings — **0**
+- historical-glyph unresolved — **0**
+- silent modernization — **0**
+- cumulative processed — **15/81**
+- cumulative verified — **14**
+- cumulative needs-review — **1** (scan 4 physical loss)
+
+Historical-glyph/source controls include:
+
+- **என்னையே**
+- **சோறின்றி / சோற்றைத்**
+- **நன்றாக / தன்னைமறந்து**
+- **பக்தவத் சலனார்**
+- **தலைமைப் பொழிவு**
+- **நம்சிந்தனையிலே**
+- **மூத்திரம் / நாஉலர்ந்து / குடாகச் சாப்பிடு / இதயபாரம்**
+
+Exact next activity: **P2 Batch 004 — scans 16–20**.

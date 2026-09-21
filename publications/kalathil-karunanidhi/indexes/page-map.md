@@ -25,7 +25,7 @@ Scan 81 / printed p.80 is the final physical scan supplied. Bottom text is partl
 
 ## P2 current coverage
 
-**Batches 001–002 processed — scans 1–10**
+**Batches 001–003 processed — scans 1–15**
 
 | Scan | Record | Status | Source-visible folio |
 |---:|---|---|:---:|
@@ -41,6 +41,12 @@ Scan 81 / printed p.80 is the final physical scan supplied. Bottom text is partl
 | 9 | `pages/0009-kalathil-karunanidhi-04.md` | verified | 8 |
 | 10 | `pages/0010-kalathil-karunanidhi-05.md` | verified | 9 |
 
-P2 totals: **10/81 processed; 9 verified; 1 needs-review; 0 blocked**.
+| 11 | `pages/0011-kalathil-karunanidhi-06.md` | verified | 10 |
+| 12 | `pages/0012-kalathil-karunanidhi-07.md` | verified | 11 |
+| 13 | `pages/0013-kalathil-karunanidhi-08.md` | verified | 12 |
+| 14 | `pages/0014-kalathil-karunanidhi-09.md` | verified | 13 |
+| 15 | `pages/0015-kalathil-karunanidhi-10.md` | verified | 14 |
 
-Exact next range: **scans 11–15**.
+P2 totals: **15/81 processed; 14 verified; 1 needs-review; 0 blocked**.
+
+Exact next range: **scans 16–20**.

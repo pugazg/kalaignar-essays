@@ -74,11 +74,11 @@ Workspace: `publications/kalathil-karunanidhi/`
 - classification — **ESSAYS / ARTICLES**
 - P0 — **COMPLETE / PASS**
 - P1 — **COMPLETE / PASS — 81/81 structurally classified**
-- P2 — **10/81 processed**
-- verified — **9**
+- P2 — **15/81 processed**
+- verified — **14**
 - needs-review — **1** (scan 4 physical source loss)
 - cadence — **5 physical scans per iteration**
-- exact next range — **scans 11–15**
+- exact next range — **scans 16–20**
 
 The previously supplied `விஷம்; ஒரு துளி போதாதா?` source remains excluded from this repository because that work is already canonical as Murasoli letter 3606.
 

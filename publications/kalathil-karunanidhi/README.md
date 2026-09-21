@@ -11,8 +11,8 @@ Controlling source: `TVA_BOK_0064241_களத்தில்_கருணாந
 - source duplicate check — **PASS / no existing canonical copy found**
 - P0 source intake — **COMPLETE / PASS**
 - P1 source structure — **COMPLETE / PASS — 81/81 physically classified**
-- P2 page transcription — **IN PROGRESS — scans 1–10 processed**
-- P2 verified — **9**
+- P2 page transcription — **IN PROGRESS — scans 1–15 processed**
+- P2 verified — **14**
 - P2 needs-review — **1** (scan 4; physical paper loss)
 - P2 blocked — **0**
 - cadence — **5 physical scans per user iteration**
@@ -105,8 +105,33 @@ Durable controls:
 
 Cumulative P2: **10/81 processed; 9 verified; 1 needs-review; 0 blocked**.
 
+## P2 Batch 003 — scans 11–15
+
+**COMPLETE / PASS — 5/5 VERIFIED**
+
+| Scan | Record | Status | Printed folio |
+|---:|---|---|:---:|
+| 11 | `pages/0011-kalathil-karunanidhi-06.md` | verified | 10 |
+| 12 | `pages/0012-kalathil-karunanidhi-07.md` | verified | 11 |
+| 13 | `pages/0013-kalathil-karunanidhi-08.md` | verified | 12 |
+| 14 | `pages/0014-kalathil-karunanidhi-09.md` | verified | 13 |
+| 15 | `pages/0015-kalathil-karunanidhi-10.md` | verified | 14 |
+
+Durable controls:
+
+- scan 11 historical `னை` → **என்னையே**;
+- scan 12 source **மாற்றி யமைக்க / மாட்டுப்பெட்டி / லாயக்கா** retained;
+- scan 13 historical `றா` → **சோறின்றி / சோற்றைத்**;
+- scan 14 source **பக்தவத் சலனார் / தலைமைப் பொழிவு / நம்சிந்தனையிலே** retained;
+- scan 15 historical glyphs restore **நன்றாக / தன்னைமறந்து**;
+- scan 15 source **மூத்திரம் / நாஉலர்ந்து / குடாகச் சாப்பிடு / இதயபாரம்** retained;
+- 14→15 — **`என்று உருட்டி / மிரட்டிப் பேசிப் பார்த்தனர்.`**;
+- 15→16 — **`இதயபாரம் தோன்றித் / தன் அன்னையை...`**.
+
+Cumulative P2: **15/81 processed; 14 verified; 1 needs-review; 0 blocked**.
+
 ## Exact next activity
 
-P2 Batch 003 — **scans 11–15** only.
+P2 Batch 004 — **scans 16–20** only.
 
 Continue the fixed **5-physical-scan cadence**.
